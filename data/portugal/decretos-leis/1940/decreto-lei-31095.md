@@ -1,0 +1,13992 @@
+---
+schema_version: '1.0'
+id: pt:dre:158453:por
+title: Decreto-Lei n.º 31095
+short_title: null
+summary: Aprova o Código Administrativo e o Estatuto dos Distritos Autónomos das Ilhas Adjacentes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Interior - Direcção Geral de Administração Política e Civil
+proposing_entity: null
+official_number: '31095'
+official_date: null
+publication_date: '1940-12-31'
+publication:
+  gazette: Diário do Govêrno
+  reference: Diário do Govêrno n.º 303/1940, 1º Suplemento, Série I de 1940-12-31
+  number: '303'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1637 - 1740
+  pdf_url: https://files.diariodarepublica.pt/1s/1940/12/30301/16371740.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-01'
+version_history:
+  file: decreto-lei-31095.versoes.json
+  count: 21
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1940-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-11-13'
+    amending: pt:dre:390988:por
+    amending_title: Decreto-Lei n.º 47935
+    changes:
+    - Altera Artigo 406.º
+  - date: '1970-01-01'
+    amending: pt:dre:227236:por
+    amending_title: Decreto-Lei n.º 30/70
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 455.º
+    - Altera Artigo 460.º
+    - Altera Artigo 461.º
+    - Altera Artigo 466.º
+    - Altera Artigo 468.º
+    - Altera Artigo 469.º
+    - Altera Artigo 470.º
+    - Altera Artigo 471.º
+    - Altera Artigo 472.º
+    - Altera Artigo 475.º
+    - Altera Artigo 476.º
+    - Altera Artigo 477.º
+    - Altera Artigo 478.º
+    - Altera Artigo 479.º
+    - Altera Artigo 484.º
+    - Altera Artigo 485.º
+    - Altera Artigo 488.º
+    - Altera Artigo 489.º
+    - Altera Artigo 536.º
+    - Altera Artigo 620.º
+    - Altera Artigo 624.º
+    - Altera Artigo 625.º
+    - Altera Artigo 626.º
+    - Altera Artigo 627.º
+    - Altera Artigo 634.º
+    - Altera Artigo 650.º
+    - Altera Artigo 651.º
+    - Altera Artigo 652.º
+    - Altera Artigo 653.º
+    - Altera Artigo 654.º
+    - Altera Artigo 655.º
+    - Altera Artigo 656.º
+    - Altera Artigo 657.º
+    - Altera Artigo 658.º
+    - Altera Artigo 661.º
+    - Altera Artigo 663.º
+    - Altera Artigo 692.º
+    - Altera Artigo 795.º
+  - date: '1972-01-01'
+    amending: pt:dre:165979:por
+    amending_title: Decreto-Lei n.º 614/71
+    changes:
+    - Altera Artigo 175.º
+    - Altera Artigo 673.º
+    - Altera Artigo 708.º
+    - Altera Artigo 792.º
+  - date: '1974-05-01'
+    amending: pt:dre:411328:por
+    amending_title: Decreto-Lei n.º 156/74
+    changes:
+    - Altera Artigo 479.º
+    - Altera Artigo 485.º
+    - Altera Artigo 488.º
+  - date: '1974-09-12'
+    amending: pt:dre:474742:por
+    amending_title: Decreto-Lei n.º 417/74
+    changes:
+    - Altera Artigo 676.º
+  - date: '1975-02-21'
+    amending: pt:dre:160128:por
+    amending_title: Decreto-Lei n.º 74/75
+    changes:
+    - Revoga Artigo 412.º
+  - date: '1975-03-28'
+    amending: pt:dre:161502:por
+    amending_title: Decreto-Lei n.º 164/75
+    changes:
+    - Altera Artigo 360.º
+  - date: '1976-01-12'
+    amending: pt:dre:480947:por
+    amending_title: Decreto-Lei n.º 8/76
+    changes:
+    - Altera Artigo 363.º
+  - date: '1977-11-23'
+    amending: pt:dre:277277:por
+    amending_title: Lei n.º 79/77
+    changes:
+    - Altera Artigo 407.º
+  - date: '1979-07-01'
+    amending: pt:dre:634952:por
+    amending_title: Decreto-Lei n.º 191-E/79
+    changes:
+    - Revoga Artigo 541.º
+  - date: '1985-01-01'
+    amending: pt:dre:621936:por
+    amending_title: Decreto-Lei n.º 399-B/84
+    changes:
+    - Altera Artigo 404.º
+    - Altera Artigo 406.º
+    - Revoga Artigo 405.º
+  - date: '1987-06-18'
+    amending: pt:dre:419013:por
+    amending_title: Decreto-Lei n.º 247/87
+    changes:
+    - Revoga Artigo 176.º
+    - Revoga Artigo 469.º
+    - Revoga Artigo 494.º
+    - Revoga Artigo 516.º
+    - Revoga Artigo 534.º
+    - Revoga Artigo 621.º
+    - Revoga Artigo 658.º
+    - Revoga Artigo 659.º
+    - Revoga Artigo 660.º
+    - Revoga Artigo 661.º
+    - Revoga Artigo 662.º
+    - Revoga Artigo 663.º
+  - date: '1997-07-01'
+    amending: pt:dre:156001:por
+    amending_title: Decreto-Lei n.º 167/97
+    changes:
+    - Altera Artigo 408.º
+  - date: '1999-10-18'
+    amending: pt:dre:569886:por
+    amending_title: Lei n.º 169/99
+    changes:
+    - Revoga Artigo 99.º
+    - Revoga Artigo 102.º
+    - Revoga Artigo 104.º
+  - date: '2002-01-01'
+    amending: pt:dre:540216:por
+    amending_title: Decreto-Lei n.º 323/2001
+    changes:
+    - Altera Artigo 839.º
+  - date: '2004-01-01'
+    amending: pt:dre:280920:por
+    amending_title: Lei n.º 15/2002
+    changes:
+    - Revoga Parte IV
+  - date: '2008-04-11'
+    amending: pt:dre:249827:por
+    amending_title: Decreto-Lei n.º 67/2008
+    changes:
+    - Revoga Artigo 117.º
+    - Revoga Artigo 118.º
+    - Revoga Artigo 119.º
+    - Revoga Artigo 120.º
+    - Revoga Artigo 121.º
+    - Revoga Artigo 122.º
+    - Revoga Artigo 123.º
+    - Revoga Artigo 124.º
+    - Revoga Artigo 125.º
+    - Revoga Artigo 126.º
+    - Revoga Artigo 127.º
+    - Revoga Artigo 128.º
+    - Revoga Artigo 129.º
+    - Revoga Artigo 130.º
+  - date: '2012-09-01'
+    amending: pt:dre:174825:por
+    amending_title: Lei n.º 50/2012
+    changes:
+    - Revoga Capítulo IX
+  - date: '2013-09-30'
+    amending: pt:dre:500023:por
+    amending_title: Lei n.º 75/2013
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 44.º
+    - Revoga Artigo 103.º
+    - Revoga Artigo 105.º
+    - Revoga Artigo 177.º
+    - Revoga Artigo 178.º
+    - Revoga Artigo 179.º
+    - Revoga Artigo 180.º
+    - Revoga Artigo 181.º
+    - Revoga Artigo 182.º
+    - Revoga Artigo 183.º
+    - Revoga Artigo 184.º
+    - Revoga Artigo 185.º
+    - Revoga Artigo 186.º
+    - Revoga Artigo 187.º
+  - date: '2021-07-01'
+    amending: pt:dre:165036155:por
+    amending_title: Lei n.º 36/2021
+    changes:
+    - Revoga Título VIII
+    - Revoga Título IX
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/31095/1940/p/cons/20210614/pt/html
+  oj: null
+  dre: '158453'
+  dre_path: /dr/detalhe/decreto-lei/31095-1940-158453
+  internal: pt:dre:158453:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31095-1940-158453
+  metadata_url: https://data.dre.pt/eli/dec-lei/31095/1940/p/cons/20210614/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1940-154358975
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1940-154358975
+  retrieved_at: '2026-10-22T12:39:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9be372d05ae2a1fb0b54ec5b7d520a6125d2e8428fbe91d38748c771581382ff
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:39:34Z'
+  notes: 21 versão(ões); histórico completo em decreto-lei-31095.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Código Administrativo
+- Estatuto dos Distritos Autónomos das Ilhas Adjacentes
+- Madeira.ilha Adjacente
+relationships:
+- type: amended_by
+  target: pt:dre:390988:por
+  label: Altera Artigo 406.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988
+  date: '1967-09-14'
+- type: amended_by
+  target: pt:dre:227236:por
+  label: Altera Artigo 5.º; Altera Artigo 455.º; Altera Artigo 460.º; Altera Artigo 461.º; Altera Artigo 466.º; Altera Artigo
+    468.º; Altera Artigo 469.º; Altera Artigo 470.º; Altera Artigo 471.º; Altera Artigo 472.º; Altera Artigo 475.º; Altera
+    Artigo 476.º; Altera Artigo 477.º; Altera Artigo 478.º; Altera Artigo 479.º; Altera Artigo 484.º; Altera Artigo 485.º;
+    Altera Artigo 488.º; Altera Artigo 489.º; Altera Artigo 536.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236
+  date: '1970-01-16'
+- type: amended_by
+  target: pt:dre:165979:por
+  label: Altera Artigo 175.º; Altera Artigo 673.º; Altera Artigo 708.º; Altera Artigo 792.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1971-165979
+  date: '1971-12-31'
+- type: amended_by
+  target: pt:dre:411328:por
+  label: Altera Artigo 479.º; Altera Artigo 485.º; Altera Artigo 488.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1974-411328
+  date: '1974-04-19'
+- type: amended_by
+  target: pt:dre:474742:por
+  label: Altera Artigo 676.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1974-474742
+  date: '1974-09-07'
+- type: amended_by
+  target: pt:dre:160128:por
+  label: Revoga Artigo 412.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1975-160128
+  date: '1975-02-21'
+- type: amended_by
+  target: pt:dre:161502:por
+  label: Altera Artigo 360.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1975-161502
+  date: '1975-03-28'
+- type: amended_by
+  target: pt:dre:480947:por
+  label: Altera Artigo 363.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1976-480947
+  date: '1976-01-12'
+- type: amended_by
+  target: pt:dre:277277:por
+  label: Altera Artigo 407.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277
+  date: '1977-10-25'
+- type: amended_by
+  target: pt:dre:476532:por
+  label: Altera Artigo 407.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532
+  date: '1979-01-02'
+- type: amended_by
+  target: pt:dre:634952:por
+  label: Revoga Artigo 541.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-e-1979-634952
+  date: '1979-06-26'
+- type: amended_by
+  target: pt:dre:621936:por
+  label: Altera Artigo 404.º; Altera Artigo 406.º; Revoga Artigo 405.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-b-1984-621936
+  date: '1984-12-28'
+- type: amended_by
+  target: pt:dre:419013:por
+  label: Revoga Artigo 176.º; Revoga Artigo 469.º; Revoga Artigo 494.º; Revoga Artigo 516.º; Revoga Artigo 534.º; Revoga Artigo
+    621.º; Revoga Artigo 658.º; Revoga Artigo 659.º; Revoga Artigo 660.º; Revoga Artigo 661.º; Revoga Artigo 662.º; Revoga
+    Artigo 663.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013
+  date: '1987-06-17'
+- type: amended_by
+  target: pt:dre:156001:por
+  label: Altera Artigo 408.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001
+  date: '1997-07-04'
+- type: amended_by
+  target: pt:dre:569886:por
+  label: Revoga Artigo 99.º; Revoga Artigo 102.º; Revoga Artigo 104.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886
+  date: '1999-09-18'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: Altera Artigo 839.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:280920:por
+  label: Revoga Parte IV
+  source: https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920
+  date: '2002-02-22'
+- type: amended_by
+  target: pt:dre:249827:por
+  label: Revoga Artigo 117.º; Revoga Artigo 118.º; Revoga Artigo 119.º; Revoga Artigo 120.º; Revoga Artigo 121.º; Revoga Artigo
+    122.º; Revoga Artigo 123.º; Revoga Artigo 124.º; Revoga Artigo 125.º; Revoga Artigo 126.º; Revoga Artigo 127.º; Revoga
+    Artigo 128.º; Revoga Artigo 129.º; Revoga Artigo 130.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827
+  date: '2008-04-10'
+- type: amended_by
+  target: pt:dre:174825:por
+  label: Revoga Capítulo IX
+  source: https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825
+  date: '2012-08-31'
+- type: amended_by
+  target: pt:dre:500023:por
+  label: Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 6.º; Revoga Artigo 7.º;
+    Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 44.º; Revoga Artigo 103.º;
+    Revoga Artigo 105.º; Revoga Artigo 177.º; Revoga Artigo 178.º; Revoga Artigo 179.º; Revoga Artigo 180.º; Revoga Artigo
+    181.º; Revoga Artigo 182.º; Revoga Artigo 183.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023
+  date: '2013-09-12'
+- type: amended_by
+  target: pt:dre:165036155:por
+  label: Revoga Título VIII; Revoga Título IX
+  source: https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155
+  date: '2021-06-14'
+article_structure:
+  article_count: 1015
+  section_count: 249
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:39:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 31095
+
+Decreto-lei n.º 31:095
+
+Usando das autorizações conferidas pelas leis n.os 1:946, de 21 de Dezembro de 1936, e 1:967, de 30 de Abril de 1938, o Govêrno decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º
+
+São aprovados o Código Administrativo e o Estatuto dos Distritos Autónomos das Ilhas Adjacentes, que baixam assinados pelo Ministro do Interior.
+
+###### Artigo 2.º
+
+As circunscrições administrativas do continente e das ilhas adjacentes são as que constam dos mapas aprovados pelos decretos-leis n.os 27:424, de 31 de Dezembro de 1936, e n.º 30:214, de 22 de Dezembro de 1939, com as alterações constantes do mapa i anexo ao presente decreto-lei.
+
+###### Artigo 3.º
+
+Os funcionários providos em cargos dos concelhos que mudam de ordem, por virtude de alteração dos mapas anexos aos decretos-leis referidos no artigo anterior, passam para a classe do quadro geral que lhes corresponda quando já estivessem providos nos mesmos cargos em 1 de Janeiro de 1937, e mantêm a categoria e classe em que actualmente se encontram quando tenham sido providos depois dessa data.
+
+§ 1.º Os funcionários providos depois de 1 de Janeiro de 1937 em cargos de concelho a cuja ordem corresponda classe superior à que ocupam no quadro geral, ou que lhes dê ingresso nesse quadro, são obrigados a apresentar-se ao primeiro concurso de promoção que seja aberto para a classe imediatamente superior; se forem aprovados, conservam-se nos cargos que ocupam, com a nova classe e vencimentos, mas se não se apresentarem a prestar provas ou forem nelas excluídos, passam a ser considerados opositores obrigatórios em todos os concursos de provimento para vagas da sua categoria ou classe até obterem colocação, permanecendo entretanto nos cargos actuais.
+
+§ 2.º Os funcionários nas condições do parágrafo anterior que à data da publicação do presente decreto-lei já tenham sido aprovados em concurso de promoção à classe correspondente à nova ordem dos seus concelhos ficam desde já com provimento definitivo nos cargos que actualmente ocupam, considerando-se promovidos à classe imediatamente superior.
+
+###### Artigo 4.º
+
+Aos funcionários que por virtude do disposto no Código Administrativo fiquem recebendo ordenados inferiores aos que nesta data estejam auferindo será abonada, a título de compensação, a diferença entre o novo ordenado e o que anteriormente percebiam.
+
+###### Artigo 5.º
+
+Os funcionários públicos que à data da publicação dêste decreto-lei se encontrem em comissão de serviço nas Câmaras Municipais de Lisboa e do Pôrto no exercício dos cargos de diretores de serviços e chefes de repartição considerar-se-ão neles providos definitivamente se até 15 de Janeiro de 1941 não lhes fôr dada por finda a comissão.
+
+###### Artigo 6.º
+
+As disposições do Código Administrativo relativas ao provimento de lugares de veterinários e médicos municipais não se aplicam aos provimentos que hajam de fazer-se por virtude de concursos abertos anteriormente a 1 de Janeiro de 1941.
+
+###### Artigo 7.º
+
+Em 1 de Janeiro de 1941 serão obrigatoriamente inscritos na Caixa Geral de Aposentações, com os direitos e deveres respectivos, os funcionários abrangidos pelo artigo 29.º do decreto-lei n.º 27:424, de 31 de Dezembro de 1936, actualmente com direito à aposentação pelos corpos administrativos.
+
+§ único. Exceptuam-se do disposto neste artigo os funcionários com processo de aposentação pendente.
+
+###### Artigo 8.º
+
+Os corpos administrativos enviarão à Caixa Geral de Aposentações, até 31 de Março de 1941, relativamente a cada um dos funcionários que nela devam ser inscritos, um boletim em duplicado, devidamente assinado e autenticado, do qual conste o nome completo, categoria, data de nascimento, vencimento mensal ilíquido, data do provimento em cargo com direito à aposentação e tempo de serviço prestado até 31 de Dezembro de 1940 a considerar pela Caixa Geral de Aposentações, por deliberação do corpo administrativo, para o efeito do cálculo da pensão.
+
+§ 1.º O tempo a considerar para o efeito de aposentação que não corresponda ao exercício de cargo ao qual o mesmo direito seja inerente será mencionado separadamente, com expressa indicação sobre a disposição legal ao abrigo da qual a contagem foi consentida.
+
+§ 2.º Se o funcionário tiver prestado serviço em mais de um corpo administrativo, também em situação com direito à aposentação, ou que, por outro motivo, nela deva ser levado em conta, será aquela circunstância igualmente mencionada e feita a discriminação respectiva.
+
+§ 3.º Às deliberações tomadas pelos corpos administrativos serão, para os devidos efeitos, notificadas aos interessados.
+
+###### Artigo 9.º
+
+Os actuais funcionários administrativos que, por virtude de mudança de situação posterior a 1 de Janeiro de 1937, já transitaram para a Caixa Geral de Aposentações poderão requerer para o mesmo fim, no prazo de sessenta dias, ao último corpo administrativo a que pertenceram, a execução do disposto no artigo anterior.
+
+###### Artigo 10.º
+
+A Caixa Geral de Aposentações abonará pela totalidade as pensões dos funcionários referidos nos artigos 7.º e 9.º, e para êste efeito receberá dos corpos administrativos, em duodécimos, na proporção do que a cada competir, a cota parte correspondente ao tempo de serviço anterior a 1 de Janeiro de 1941.
+
+###### Artigo 11.º
+
+Os funcionários administrativos ficam sujeitos, relativamente ao tempo de serviço anterior a 1 de Janeiro de 1937, ao pagamento de indemnização.
+
+§ único. Esta indemnização será calculada com base nos vencimentos que na mesma data entraram em vigor e regular-se-á em tudo o mais pelo estabelecido nos artigos 33.º e 34.º do decreto-lei n.º 26:115, de 23 de Novembro de 1935, e artigo 18.º do decreto-lei n.º 26:503, de 6 de Abril de 1936.
+
+###### Artigo 12.º
+
+O disposto nos artigos anteriores só se aplicará às Câmaras Municipais de Lisboa e do Pôrto, mediante acordo a celebrar entre estes corpos administrativos e a Caixa Geral de Aposentações.
+
+###### Artigo 13.º
+
+Os funcionários do Estado cujos vencimentos constituam despesa obrigatória da administração dos distritos autónomos serão considerados subscritores da Caixa Geral de Aposentações e terão, nessa qualidade, direito à aposentação, desde que satisfaçam aos demais requisitos exigidos para a inscrição na referida Caixa.
+
+§ 1.º A Caixa Geral de Aposentações calculará a pensão, levando em conta a totalidade do tempo de serviço até agora prestado, mas terá direito a receber, em duodécimos, das juntas gerais a cota parte correspondente.
+
+§ 2.º O disposto no parágrafo anterior não se aplica aos funcionários abrangidos pelo artigo 7.º do decreto n.º 15:805, de 31 de Julho de 1928, pois quanto a estes a pensão continuará a constituir exclusivo encargo da Caixa Geral de Aposentações.
+
+###### Artigo 14.º
+
+Compete às juntas de freguesia a confirmação a que se refere o § 4.º do artigo 2.º do decreto n.º 17:695, de 2 de Dezembro de 1929.
+
+###### Artigo 15.º
+
+São aprovados os novos quadros e vencimentos do pessoal vitalício e contratado das juntas gerais dos distritos autónomos das ilhas adjacentes, constantes do mapa ii anexo ao presente decreto-lei.
+
+§ único. As juntas gerais dos distritos autónomos insulares proporão, no mais curto prazo, à aprovação do Ministro do Interior os quadros do pessoal assalariado permanente necessário aos seus serviços.
+
+###### Artigo 16.º
+
+É aplicável ao distrito autónomo do Funchal o disposto no artigo 21.º da lei orgânica, aprovada pelo decreto-lei n.º 30:214, de 22 de Dezembro de 1939.
+
+###### Artigo 17.º
+
+Para o novo lugar de mestre de valas de 1.ª classe do quadro dos serviços das obras públicas do distrito autónomo do Funchal transita um dos chefes de conservação de 1.ª classe do mesmo quadro, cujo lugar fica extinto.
+
+###### Artigo 18.º
+
+A Junta Autónoma do pôrto de Ponte Delgada passa a denominar-se Junta Autónoma dos portos do distrito de Ponta Delgada.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 19.º
+
+Continuam em vigor as disposições de execução permanente do decreto-lei n.º 27:424, de 31 de Dezembro de 1936, e da lei orgânica dos distritos autónomos insulares, aprovada pelo decreto-lei n.º 30:214, de 22 de Dezembro de 1939, em tudo o que não fôr contrariado pelo presente decreto-lei.
+
+###### Artigo 20.º
+
+Emquanto não fôr instalada a Inspecção Administrativa do Ministério do Interior, prevista no Código Administrativo, competirá à Inspecção Geral de Finanças inspeccionar o fiscalizar todos os serviços de contabilidade, orçamento e tesouraria dos corpos administrativos, averiguar as possibilidades económicas e financeiras das autarquias locais, a obra por elas realizada e o modo como são desempenhadas as atribuïções de exercício obrigatório.
+
+###### Artigo 21.º
+
+Os funcionários da Inspecção Geral de Finanças poderão realizar inquéritos e sindicâncias aos corpos administrativos e seus presidentes e, quanto a estes, instaurar, mediante autorização do Ministro do Interior, os competentes processos disciplinares.
+
+###### Artigo 22.º
+
+Ficam revogados:
+
+Os artigos 373.º a 395.º do Código Administrativo de 4 de Maio de 1896;
+
+A lei n.º 1:670, de 15 de Setembro de 1924;
+
+O decreto n.º 12:596, de 30 de Outubro de 1926;
+
+O artigo 23.º do decreto n.º 13:658, de 20 de Maio de 1927;
+
+O segundo dos regulamentos aprovados pelo decreto n.º 19:243, de 16 de Janeiro de 1931;
+
+O decreto n.º 27:995, de 27 de Agosto de 1937;
+
+O decreto n.º 28:135, de 5 de Novembro de 1937;
+
+O decreto n.º 28:416, de 17 de Janeiro de 1938;
+
+O decreto n.º 28:417, de 17 de Janeiro de 1938;
+
+O decreto n.º 28:955, de 29 de Agosto de 1938;
+
+O decreto n.º 29:046, de 10 de Outubro de 1938, na parte respeitante aos corpos administrativos;
+
+O decreto n.º 29:047. de 10 de Outubro de 1938;
+
+O decreto n.º 30:373, de 10 de Abril de 1940.
+
+Publique-se e cumpra-se como nêle se contém.
+
+Paços do Govêrno da República, 31 de Dezembro de 1940. - António Óscar de Fragoso Carmona - António de Oliveira Salazar - Mário Pais de Sousa - Adriano Pais da Silva Vaz Serra - João Pinto da Costa Leite - Manuel Ortins de Bettencourt - Duarte Pacheco - Francisco José Vieira Machado - Mário de Figueiredo - Rafael da Silva Neves Duque.
+
+## Anexo
+
+Anexo ao decreto-lei n.º 31:095
+
+(ver documento original)
+
+## Anexo
+
+MAPA I
+
+Anexo ao decreto-lei n.º 31:095
+
+(ver documento original)
+
+MAPA II
+
+Anexo ao decreto-lei n.º 31:095
+
+(ver documento original)
+
+Ministério do Interior, 31 de Dezembro de 1940. - O Ministro do Interior, Mário Pais de Sousa.
+
+Código Administrativo
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 44051 - Diário do Governo n.º 271/1961, Série I de 1961-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44051-1961-185364) É criado um lugar de aspirante no quadro do pessoal maior da secretaria do Governo Civil do distrito autónomo de Angra do Heroísmo (mapa II).
+
+> Nota: [Decreto-Lei n.º 35411 - Diário do Govêrno n.º 290/1945, Série I de 1945-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35411-1945-462602) Nos quadros do pessoal vitalício e contratado da Junta Geral do distrito autónomo do Funchal constantes do capítulo IV do mapa II anexo ao decreto-lei n.º 31:095, de 31 de Dezembro de 1940, com as modificações introduzidas pelo decreto-lei n.º 33:798, de 15 de Julho de 1944, são feitas as seguintes alterações: A) Quadro do pessoal de carteira: É criado o lugar de arquivista, com o ordenado mensal de 900$00. C) Quadro geral do pessoal menor: É elevado para 400$00 o ordenado mensal do telefonista. D) Quadros especiais: 1) Direcção de Agricultura: Estação Agrária: É criado o lugar de fiel de armazém, com o ordenado mensal do 600$00. É reduzido para dois o número do lugares de guarda agrícola. 3) Inspecção de Saúde: É criado o lugar de guarda do hospital de isolamento, com o ordenado mensal de 400$00, devendo ser provido nesse cargo o guarda agrícola que vem prestando serviço no mesmo hospital. 4) Direcção de Obras Públicas: São criados os seguintes lugares: 1 engenheiro chefe da secção de construção e conservação, com o ordenado mensal de 2.250$00; 1 pagador, com o ordenado mensal de 900$00; 1 mestre de obras de edifícios, com o ordenado mensal de 600$00. 6) Laboratório distrital: É elevado para dois o número de lugares de preparador. É extinto um lugar de auxiliar de laboratório e criado em sua substituição um outro de ajudante de preparador.
+
+## Anexo CÓDIGO ADMINISTRATIVO
+
+## Parte I — Da organização administrativa
+
+## Título I — Da divisão do território
+
+###### Artigo 1.º
+
+O território do continente divide-se em concelhos, que se formam de freguesias e se agrupam em distritos.
+
+> Revogado pelo/a Artigo 11.º do/a [Lei n.º 8/81 - Diário da República n.º 135/1981, Série I de 1981-06-15](https://diariodarepublica.pt/dr/detalhe/lei/8-1981-578974)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 2.º
+
+Os concelhos classificam-se em urbanos e rurais.
+
+§ 1.º São concelhos urbanos:
+
+1.º Os concelhos que tenham sede em cidade de 25:000 ou mais habitantes, ou do 20:000 ou mais, sendo capital de província, se a população da sede corresponder à quarta parte, pelo menos, da população total do concelho;
+
+2.º Os concelhos obrigatòriamente federados com os de Lisboa e Pôrto.
+
+§ 2.º São concelhos rurais os concelhos não compreendidos em qualquer dos números do parágrafo anterior.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39447 - Diário do Governo n.º 260/1953, Série I de 1953-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771)
+
+###### Artigo 3.º
+
+Os concelhos, com excepção dos de Lisboa e Pôrto, podem ser de 1.ª, 2.ª e 3.ª ordem.
+
+§ 1.º Quanto aos concelhos urbanos:
+
+1.º São de 1.ª ordem os concelhos referidos no n.º 1.º do § 1.º do artigo anterior e os concelhos de Matozinhos, Vila Nova de Gaia e Cascais;
+
+2.º São de 2.ª ordem os concelhos referidos no n.º 2.º do § 1.º do artigo anterior que, não reunindo os requisitos dos concelhos urbanos de 1.ª ordem, tenham sede em cidade ou vila de 20:000 ou mais habitantes, ou em que o montante das contribuïções directas anualmente liquidadas para o Estudo seja igual ou superior a 2:500 contos;
+
+3.º São de 3.ª ordem os concelhos não compreendidos em qualquer dos números anteriores.
+
+§ 2.º Quanto aos concelhos rurais:
+
+1.º São de 1.ª ordem:
+
+a) Os concelhos com sede em capital de distrito;
+
+b) Os concelhos com 55:000 ou mais habitantes;
+
+c) Os concelhos em que o montante das contribuïções directas anualmente liquidadas para o Estado seja igual ou superior a 2:500 contos.
+
+2.º São de 2.ª ordem:
+
+a) Os concelhos com 20:000 ou mais habitantes e menos de 55:000;
+
+b) Os concelhos com menos de 20:000 habitantes em que o montante das contribuïções directas anualmente liquidadas para o Estado seja igual ou superior a 1:000 e inferior a 2:500 contos.
+
+3.º São de 3.ª ordem os concelhos não compreendidos em qualquer dos números anteriores.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39447 - Diário do Governo n.º 260/1953, Série I de 1953-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771)
+
+###### Artigo 4.º
+
+As freguesias podem ser de 1.ª, 2.ª e 3.ª ordem.
+
+§ 1.º São de 1.ª ordem as freguesias com 5:000 ou mais habitantes e as das cidades de Lisboa e Pôrto.
+
+§ 2.º São de 2.ª ordem as freguesias com 800 ou mais habitantes e menos de 5:000.
+
+§ 3.º São de 3.ª ordem as freguesias não compreendidas em qualquer dos parágrafos anteriores.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 5.º
+
+Os distritos podem ser de 1.ª, 2.ª e 3.ª ordem.
+
+§ 1.º São de 1.ª ordem os distritos de Lisboa e Pôrto.
+
+§ 2.º São de 2.ª ordem os distritos com sede em capital de província.
+
+§ 3.º São de 3.ª ordem os distritos não compreendidos em qualquer dos parágrafos anteriores.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 6.º
+
+A classificação dos concelhos e freguesias será revista pelo Governo no ano seguinte ao do apuramento de cada censo da população, determinando-se o montante liquidado das contribuições directas para o Estado pela média dos três anos imediatamente anteriores ao da revisão.
+
+§ único. Para apuramento da média a que se refere este artigo não serão considerados os impostos lançados a título extraordinário ou sobre rendimentos anormais ou transitórios.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39447 - Diário do Governo n.º 260/1953, Série I de 1953-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771)
+
+###### Artigo 7.º
+
+As circunscrições administrativas só por lei podem ser alteradas.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 8.º
+
+A criação de novos concelhos dependerá de requerimento das juntas das freguesias que hão-de constituí-los e da verificação das seguintes condições:
+
+1.º O requerimento das juntas de freguesia será enviado à junta distrital, que, com o seu parecer, o remeterá ao respectivo governador civil, para este, com a sua informação, o fazer chegar ao Governo.
+
+2.ª Ficar o novo concelho a dispor de receitas ordinárias suficientes para ocorrer aos seus encargos;
+
+3.ª Não ficarem os concelhos de origem privados dos recursos indispensáveis à sua manutenção.
+
+§ 1.º O requerimento das juntas de freguesia será enviado à junta de província, que, com o seu parecer, o remeterá ao respectivo governador civil, para êste, com a sua informação, o fazer chegar ao Govêrno.
+
+§ 2.º Nenhuma proposta ou projecto de lei sôbre criação de novos concelhos poderá ter seguimento na Assemblea Nacional sem que tenham sido observadas as disposições dêste artigo.
+
+> Revogado pelo/a Artigo 17.º do/a [Lei n.º 11/82 - Diário da República n.º 125/1982, Série I de 1982-06-02](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 9.º
+
+A criação de novas freguesias deverá ser requerida pela maioria absoluta dos chefes de família eleitores, com residência habitual na área em que se pretende a circunscrição, e dependerá da verificação das seguintes condições:
+
+1.º Fundar-se o pedido em razões económicas e administrativas;
+
+2.º Ficar a nova freguesia a dispor de receitas ordinárias suficientes para ocorrer aos seus encargos;
+
+3.º Não ficarem as freguesias de origem privadas dos recursos indispensáveis à sua manutenção;
+
+4.º Existirem na área da pretendida circunscrição pessoas aptas ao desempenho das funções administrativas em número bastante para assegurar a renovação da junta de freguesia.
+
+§ 1.º A petição dos chefes de família será remetida à junta distrital, que, com o seu parecer, a remeterá ao respectivo governador civil, para este, com a sua informação, a fazer chegar ao Governo.
+
+§ 2.º Nenhuma proposta ou projecto do lei sôbre criação de novas freguesias terá seguimento na Assemblea Nacional sem que tenham sido observadas as disposições dêste artigo.
+
+> Revogado pelo/a Artigo 17.º do/a [Lei n.º 11/82 - Diário da República n.º 125/1982, Série I de 1982-06-02](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 10.º
+
+Sempre que seja criada qualquer nova circunscrição administrativa ou transferida qualquer fracção de território de uma para outra circunscrição observar-se-ão as disposições seguintes:
+
+1.º A cargo da circunscrição nova ou beneficiada ficará uma parte do capital e respectivos encargos da dívida das circunscrições de origem, proporcional ao rendimento das contribuïções directas cobradas pelo Estado em relação aos prédios ou habitantes do território transferido;
+
+2.º Os edifícios e mais bens próprios dos concelhos ou freguesias de origem situados na parte desanexada ficarão pertencendo à circunscrição nova ou beneficiada;
+
+3.ºº Os bens do logradouro comum continuarão na posse exclusiva dos moradores que os fruíam anteriormente.
+
+§ único. Se no território transferido existirem instalações da rêde geral de algum serviço municipalizado ou explorado por concessão do concelho de origem serão essas instalações mantidas, prosseguindo os respectivos fornecimentos ou utilizações, mediante acôrdo entre as câmaras, se se tratar de serviço municipalizado, ou por nova concessão feita pelo concelho novo ou beneficiado ao mesmo concessionário e nas mesmas condições tratando-se de serviço explorado por concessão.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 11.º
+
+Não são permitidas anexações temporárias de circunscrições administrativas.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 12.º
+
+É da competência do Govêrno, ouvidos o governador civil e a junta de província respectivos:
+
+1.º Mudar as sedes dos concelhos e freguesias, alterar os seus nomes e os das povoações;
+
+2.º Fixar a categoria das povoações;
+
+3.º Resolver as dúvidas acêrca dos limites das circunscrições administrativas, fixando-os quando sejam incertos.
+
+§ 1.º Têm categoria de vila todas as povoações que forem sedes do concelho.
+
+§ 2.º A categoria de cidade só poderá ser conferida às vilas de população superior a 20:000 habitantes, com notável incremento industrial e comercial, servidas por grandes vias de comunicação e dotadas de instalações urbanas de água, luz e esgotos.
+
+> Revogado pelo/a Artigo 17.º do/a [Lei n.º 11/82 - Diário da República n.º 125/1982, Série I de 1982-06-02](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+## Título II — Do concelho
+
+### Capítulo I — Dos órgãos da administração municipal
+
+###### Artigo 13.º
+
+Concelho é o agregado de pessoas residentes na circunscrição municipal, com interêsses comuns prosseguidos por órgãos próprios.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 14.º
+
+Cada concelho forma uma pessoa moral de direito público e tem direito a brasão de armas, sêlo e bandeira próprios, cujos modelos serão aprovados por portaria do Ministro do Interior, ouvida a Associação dos Arqueólogos Portugueses.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 15.º
+
+São órgãos da administração municipal:
+
+1.º O conselho municipal;
+
+2.º A câmara municipal;
+
+3.º O presidente da câmara municipal.
+
+§ 1.º Nos concelhos do Lisboa e Pôrto não há conselho municipal.
+
+§ 2.º Junto da câmara funcionam os órgãos consultivos instituídos por lei ou deliberação municipal.
+
+§ 3.º Nas zonas do turismo haverá, como auxiliares da administração municipal, comissões municipais de turismo ou juntas de turismo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+### Capítulo II — Do conselho municipal
+
+#### Secção I — Composição
+
+###### Artigo 16.º
+
+Compõem o conselho municipal:
+
+1.º O presidente da câmara;
+
+2.º Representantes das juntas de freguesia do concelho, até ao máximo de quatro;
+
+3.º Um representante das Misericórdias do concelho;
+
+4.º Um representante das Ordens ou respectivas delegações concelhias;
+
+5.º Um representante de cada Sindicato Nacional, ou respectivas secções concelhias, e de quaisquer outros organismos análogos que venham a constituir-se, até ao máximo de dois;
+
+6.º Um representante de cada Casa do Povo do concelho ou de cada Casa dos Pescadores, onde as houver, até ao máximo de dois;
+
+7.º Um representante de cada grémio ou de qualquer outro organismo corporativo de entidades patronais ou de produtores, existentes ou que venham a constituir-se no concelho, até ao máximo de três, um dos quais será sempre o do Grémio da Lavoura, quando êste esteja constituído.
+
+§ 1.º Os representantes das juntas de freguesia serão eleitos quadrienalmente pelos respectivos presidentes, se o concelho fôr constituído por mais de quatro freguesias, e por cada uma das juntas, se o número de freguesias fôr igual ou inferior a quatro.
+
+A eleição pelos presidentes, quando a ela houver lugar; realizar-se-á até ao dia 13 do Novembro, sob a presidência do presidente da câmara, ou seu delegado, que os convocará com cinco dias de antecedência, pelo menos, por meio de avisos enviados pelo correio, sob registo e com aviso de recepção, e publicados em jornais locais, se os houver.
+
+§ 2.º Os representantes das Misericórdias serão eleitos quadrienalmente, até ao dia 10 de Novembro, pelos provedores, se houver mais de duas Misericórdias no concelho, pelas mesas, em reünião conjunta, se houver duas, e pela respectiva mesa, se houver apenas uma.
+
+Quando o número de Misericórdias existentes no concelho seja igual ou superior a duas, o presidente da câmara convocará as mesas ou os provedores, conforme os casos, com cinco dias de antecedência, pelo menos, por meio de avisos enviados pelo correio, sob registo e com aviso de recepção, e publicados em jornais locais, se os houver, realizando-se o acto eleitoral sob a presidência do mais velho dos provedores.
+
+§ 3.º Nos concelhos em que os organismos corporativos existentes sejam em número superior ao máximo dos representantes que a lei lhes concede, a designação dêstes far-se-á por eleição em que tomem parte os presidentes dos organismos a representar. Esta eleição realizar-se á até ao dia 10 de Novembro.
+
+§ 4.º Nos concelhos em que não estejam constituídas secções dos sindicatos nacionais ou não sejam sede dêstes, os vogais designados no n.º 5.º serão substituídos por delegados dos profissionais, empregados ou operários do concelho, inscritos nos mesmos sindicatos, na proporção do um delegado por trinta inscritos, até ao máximo de dois, designados pelo delegado distrital do Instituto Nacional do Trabalho e Previdência, sob proposta dos presidentes dos sindicatos.
+
+§ 5.º Nos concelhos em que não estejam constituídos grémios, o governador civil do distrito designará um dos maiores contribuintes da contribuïção industrial, grupo C, e um dos maiores contribuintes da contribuïção predial rústica, que sejam elegíveis e tenham domicílio no concelho, para suprir a falta dos vogais designados no n.º 7.º
+
+§ 6.º Os representantes das juntas de freguesia e das Misericórdias podem ser eleitos de entre quaisquer munícipes, mesmo alheios aos corpos representados.
+
+§ 7.º Quando na mesma pessoa recaiam duas ou mais representações, deverá o vogal declarar, até ao momento da posse, ao presidente da câmara, por qual delas opta, a fim de se ordenar a repetição da eleição ou designação de novo vogal pela representação abandonada.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38027 - Diário do Governo n.º 223/1950, Série I de 1950-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38027-1950-486526)
+
+###### Artigo 17.º
+
+O conselho municipal é renovado de quatro em quatro anos.
+
+§ único. Nos casos do falecimento, perda do mandato ou impedimento de qualquer vogal do conselho municipal, o presidente da câmara providenciará imediatamente no sentido de serem indicados pelas entidades competentes os nomes dos vogais que hão-de substitui-los.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 18.º
+
+Não podem ser eleitos ou por qualquer modo designados para fazer parte do conselho municipal:
+
+1.º Os que não estejam no gôzo dos seus direitos civis e políticos ou não saibam ler e escrever;
+
+2.º Os juízes dos tribunais ordinários e especiais e respectivos agentes do Ministério Público e os funcionários seus subordinados;
+
+3.º Os magistrados administrativos;
+
+4.º Os funcionários administrativos;
+
+5.º Os funcionários policiais;
+
+6.º Os funcionários dos serviços aduaneiros, das contribuïções e impostos e da Fazenda Pública;
+
+7.º Os funcionários do corpo diplomático e consular português;
+
+8.º Os membros das direcções, conselhos de administração ou fiscais de emprêsas, sociedades ou companhias que tenham contrato com o município;
+
+9.º Os directamente interessados em contrato com o município e os respectivos fiadores;
+
+10.º Os que tenham com o presidente ou com o chefe de secretaria da câmara parentesco, por consangüinidade ou afinidade, em qualquer grau da linha recta ou no terceiro grau da linha colateral;
+
+11.º Os vereadores da câmara municipal imediatamente anterior à eleição, se aquela tiver sido dissolvida por facto que lhes seja imputável;
+
+12.º Os que tiverem sido demitidos da presidência da câmara em conseqüência de processo disciplinar, mas só nos oito anos subseqüentes à demissão;
+
+13.º Os interditos por sentença com trânsito em julgado e os notòriamente reconhecidos como dementes, embora não estejam interditos por sentença;
+
+14.º Os falidos ou insolventes, emquanto não forem rehabilitados;
+
+15.º Os pronunciados definitivamente e os que tiverem sido condenados criminalmente por sentença com trânsito em julgado, emquanto não fôr dada por expiada a respectiva pena e ainda que gozem de liberdade condicional;
+
+16.º Os que ostentem ideas contrárias à existência de Portugal como Estado independente ou propaguem doutrinas tendentes à subversão das instituïções e princípios fundamentais da ordem social;
+
+17.º Os indigentes, os que recebam subsídios da assistência pública e os que estejam recolhidos em estabelecimentos de beneficência;
+
+18.º Os que tenham adquirido a nacionalidade portuguesa, por naturalização ou casamento, há menos de dez anos.
+
+§ único. Não são compreendidos nas disposições dos n.os 2.º e 5.º a 7.º os funcionários na situação de licença ilimitada, aposentados ou reformados, nem na do n.º 4.º os funcionários em qualquer dessas situações que não dependam da câmara municipal do concelho nem pelos seus cofres sejam pagos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 19.º
+
+As funções de vogal do conselho municipal são obrigatórias e gratuitas.
+
+§ 1.º Constituem motivos de escusa:
+
+1.º Idade superior a sessenta anos à data da eleição;
+
+2.º Moléstia crónica de que resulte impossibilidade ou grave dificuldade para o exercício do cargo;
+
+3.º A denegação de autorização pelo Ministro respectivo quando o eleito seja funcionário público, civil ou militar, e por lei careça dessa autorização para o exercício de cargos alheios às suas funções.
+
+§ 2.º O pedido de escusa por motivo de idade deverá ser feito até vinte dias depois da data marcada para a posse.
+
+§ 3.º O pedido de escusa por moléstia crónica poderá ser feito a todo o tempo, devendo ser instruído com atestado médico comprovativo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 20.º
+
+Perdem o mandato os vogais do conselho municipal:
+
+1.º Que aceitem cargos ou adquiram situações que os tornem inelegíveis;
+
+2.º Que sejam eleitos vereadores da câmara municipal;
+
+3.º Que, tendo sido escolhidos para representantes de certas entidades ou actividades concelhias em razão das funções exercidas nos corpos dirigentes dos seus organismos representativos ou da posse de determinada qualidade jurídica, deixem posteriormente de exercer essas funções ou de possuir essa qualidade.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 21.º
+
+A exclusão do lugar por inelegibilidade ou aceitação de escusa ou perda do mandato de vogal do conselho municipal será declarada pelo presidente.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 22.º
+
+As funções de vogal do conselho municipal não estão sujeitas a quaisquer outras inelegibilidades ou incompatibilidades além das expressamente designadas nos artigos anteriores.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 23.º
+
+O conselho municipal tem presidente, que será o presidente da câmara, e dois secretários, eleitos de entre os seus vogais na primeira reünião, preferindo, quando haja empate na votação, os mais novos dos votados.
+
+§ único. Na falta do presidente da câmara, ou de quem suas vezes fizer, assume a presidência o mais velho dos vogais presentes e, na falta dos secretários, desempenharão as respectivas funções os mais novos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 24.º
+
+O presidente do conselho municipal pode convocar o delegado ou o subdelegado de saúde, o chefe da secção de finanças, o professor delegado do director do distrito escolar, o advogado síndico da câmara e o veterinário municipal, onde os houver, ou qualquer munícipe de reconhecida competência em assunto a discutir, a fim de assistirem a certa ou certas reuniões, mas com voto consultivo sòmente.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 25.º
+
+O vice-presidente da câmara e os vereadores podem assistir às reüniões do conselho municipal e tomar parte nas discussões, mas sem voto.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 26.º
+
+Nos anos em que deva proceder-se à constituïção do conselho municipal, as juntas de freguesia, os organismos corporativos e as Misericórdias do concelho indicarão ao presidente da câmara, até 15 de Novembro, os nomes dos seus representantes.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção II — Competência
+
+###### Artigo 27.º
+
+Compete ao conselho municipal:
+
+1.º Eleger quadrienalmente os vereadores e respectivos substitutos;
+
+2.º Revogar o mandato aos vereadores quando, em face de exposição fundamentada do presidente da câmara, o julgue conveniente à boa marcha da administração municipal;
+
+3.º Requerer ao Govêrno inquérito aos actos do presidente da câmara;
+
+4.º Dar parecer sôbre o plano anual de actividade da câmara e discutir e votar os relatórios de gerência;
+
+5.º Dar parecer sôbre a fixação das percentagens adicionais às contribuïções do Estado, nos termos dêste Código;
+
+6.º Discutir e votar, sob proposta do presidente da câmara, as bases do orçamento ordinário do município;
+
+7.º Fixar o número de partidos médicos e veterinários municipais, nos termos dêste Código;
+
+8.º Pronunciar-se sôbre as deliberações da câmara que, nos termos dêste Código, dependam da sua aprovação para se tornarem executórias;
+
+9.º Sancionar a remuneração ao presidente da câmara nos concelhos de 1.ª ordem, conforme o disposto no § 1.º do artigo 74.º;
+
+10.º Discutir o votar o plano de urbanização e expansão.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção III — Constituïção, sessões, reüniões e deliberações
+
+###### Artigo 28.º
+
+Nos anos em que deva proceder-se à constituição de novo conselho municipal reunir-se-á este no dia 2 de Dezembro só para o efeito da verificação dos poderes dos seus vogais e da eleição dos secretários e da câmara municipal, continuando porém o antigo conselho, para tudo o mais, em exercício de funções até 31 de Dezembro.
+
+§ 1.º A convocação da reünião será feita pelo presidente da câmara com cinco dias do antecedência, pelo menos, por meio de avisos enviados pelo correio, sob registo e com aviso de recepção, e publicados em jornais locais, se os houver.
+
+§ 2.º Os poderes dos vogais do conselho municipal serão verificados pelo presidente, considerando-se aquele constituído e podendo deliberar desde que esteja verificada a legitimidade dos poderes da maioria dos vogais.
+
+§ 3.º A eleição dos vereadores far-se-á em lista completa e por escrutínio secreto, e cada boletim de voto conterá os nomes votados para vereadores efectivos e substitutos e terá a forma rectangular com as dimensões do 0m,16 x 0m,20, podendo ser manuscrito, dactilografado, litografado ou impresso em papel liso, branco, não transparente, sem marca ou sinal exterior.
+
+§ 4.º Na eleição dos vereadores o presidente da câmara não tem voto.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 29.º
+
+O conselho municipal terá duas sessões ordinárias em cada ano, uma na primeira quinzena de Fevereiro e outra na primeira quinzena de Setembro, em dias a fixar pelo presidente da câmara nos avisos de convocação.
+
+§ 1.º Cada sessão ordinária durará o máximo de quinze dias.
+
+§ 2.º Durante as sessões ordinárias celebrar-se-ão as reüniões que forem necessárias, devendo o presidente anunciar, no final de cada reünião, o dia e hora da seguinte.
+
+§ 3.º A sessão ordinária de Fevereiro será consagrada especialmente à discussão do relatório da gerência municipal referente ao ano anterior; a sessão ordinária de Setembro à discussão do plano de actividade e bases do orçamento ordinário do ano seguinte.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 30.º
+
+O conselho municipal reünirá extraordinàriamente todas as vezes que o presidente o convocar.
+
+§ único. As sessões extraordinárias não poderão durar mais de oito dias.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 31.º
+
+A convocação, quer das sessões ordinárias, quer das sessões extraordinárias, do conselho municipal será feita pelo presidente, dentro do prazo e pela forma estabelecidos no § 1.º do artigo 28.º
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 32.º
+
+O plano de urbanização e expansão e as bases dos orçamentos só poderão ser integralmente rejeitados por maioria de três quartos dos votos do número legal dos vogais.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 33.º
+
+As actas das reüniões do conselho municipal serão redigidas e subscritas pelo chefe da secretaria da câmara e assinadas pelos membros da mesa.
+
+§ único. A acta da última reünião de cada sessão do conselho será aprovada no final da mesma reünião.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 34.º
+
+O conselho municipal delibera por levantados e sentados, salvo se um têrço dos vogais presentes requerer votação nominal.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 35.º
+
+Em tudo o que sôbre constituïção, reüniões e deliberações do conselho municipal não fica especialmente regulado aplicar-se-á o disposto sôbre constituïção e funcionamento dos corpos administrativos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+### Capítulo III — Da câmara municipal
+
+#### Secção I — Composição
+
+###### Artigo 36.º
+
+A câmara municipal é o corpo administrativo do concelho e compõe-se de um presidente e de um vice-presidente, nomeados pelo Govêrno, e de vereadores eleitos quadrienalmente pelo conselho municipal, nos termos do artigo 28.º
+
+§ 1.º O número de vereadores é de seis nos concelhos de 1.ª ordem e urbanos de 2.ª ordem, quatro nos concelhos rurais de 2.ª ordem e urbanos de 3.ª ordem, e dois nos concelhos rurais de 3.ª ordem.
+
+§ 2.º O presidente da câmara é substituído, nas suas faltas e impedimentos, pelo vice-presidente e, na falta do vice-presidente, por quem o governador civil designar.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 37.º
+
+Os concelhos de Lisboa e Pôrto estão sujeitos a regime especial em conformidade com os artigos 84.º e seguintes.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 38.º
+
+O conselho municipal elegerá tantos vereadores substitutos quantos os efectivos.
+
+§ 1.º Nos casos de licença, impedimento temporário, exclusão do lugar, perda de mandato ou falecimento dos vereadores efectivos, serão chamados pelo presidente da câmara os substitutos mais votados, ou os mais velhos quando tenha havido empate na votação.
+
+§ 2.º Quando, esgotada a lista dos substitutos, ainda não ficar completo o número dos vereadores, serão preenchidas as vagas existentes por eleição do conselho municipal.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 39.º
+
+Podem ser eleitos vereadores os munícipes, no gôzo dos seus direitos civis e políticos, que saibam ler e escrever e que sejam elegíveis para o conselho municipal.
+
+§ único. Exceptuam-se os que tenham com outro vereador mais votado, ou, no caso de igualdade de votação, mais velho, parentesco por afinidade ou consanguinidade, em qualquer grau da linha recta ou até ao 3.º grau da linha colateral.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 40.º
+
+As funções de vereador são obrigatórias e gratuitas.
+
+§ 1.º Constituem motivos de escusa:
+
+1.º Exercício das funções de vereador efectivo da mesma câmara no quadriénio anterior, ou de substituto quando tenha servido na maior parte do quadriénio;
+
+2.º Idade superior a sessenta anos à data de eleição;
+
+3.º Moléstia crónica de quo resulte impossibilidade ou grave dificuldade para o exercício do cargo;
+
+4.º A denegação de autorização pelo Ministro respectivo quando o eleito seja funcionário público, civil ou militar, e por lei careça dessa autorização para o exercício de cargos alheios às suas funções.
+
+§ 2.º Aplica-se ao pedido de escusa das funções de vereador o disposto quanto aos vogais do conselho municipal.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 41.º
+
+Perdem o mandato os vereadores:
+
+1.º Que aceitem cargos ou adquiram situações que os tornem inelegíveis;
+
+2.º Que contraiam com outro vereador mais votado, ou, no caso de igualdade de votação, mais velho, parentesco por afinidade em qualquer grau da linha recta.
+
+3.º Que, sendo eleitos vogais das juntas de freguesia ou de província, optem por qualquer destas.
+
+§ único. Não podem ser chamados a servir efectivamente os substitutos em relação aos quais se verifique alguma das incompatibilidades previstas neste artigo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 42.º
+
+A exclusão do lugar por inelegibilidade, incompatibilidade ou aceitação de escusa, ou a perda do mandato de vereador, será declarada pelo presidente da câmara.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 43.º
+
+As funções do vereador não estão sujeitas a quaisquer outras inelegibilidades ou incompatibilidades além das expressamente designadas nos artigos anteriores.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção II — Atribuïções e competência
+
+##### Subsecção I — Disposições gerais
+
+###### Artigo 44.º
+
+As câmaras municipais têm atribuïções:
+
+1.º De administração dos bens comuns e próprios do concelho;
+
+2.º De fomento;
+
+3.º De abastecimento público;
+
+4.º De cultura e assistência;
+
+5.º De salubridade pública;
+
+6.º De polícia.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 45.º
+
+No uso das atribuïções de administração dos bens comuns e próprios do concelho, pertence às câmaras deliberar:
+
+1.º Sôbre a fruïção e exploração dos bens, pastos e frutos do logradouro comum dos povos de mais de uma freguesia do concelho;
+
+2.º Sôbre a divisão, por sua iniciativa ou a requerimento de dois terços dos chefes de família utentes, dos baldios municipais dispensáveis do logradouro comum e próprios para cultura que não sejam destinados, pelo organismo oficial competente, ao estabelecimento de casais agrícolas;
+
+3.º Sôbre a passagem ao domínio privado, para conveniente fruïção ou aproveitamento, dos baldios municipais dispensáveis do logradouro comum e impróprios para cultura, ou fora do logradouro comum;
+
+4.º Sôbre o arroteamento e sementeira de terrenos municipais incultos, por meio de arrendamento ou concessão, cujas cláusulas de ordem técnica devem ser submetidas à aprovação dos serviços competentes;
+
+5.º Sôbre a plantação e corte de matas e arvoredos municipais, com a assistência técnica dos serviços florestais, quando fôr julgada conveniente;
+
+6.º Sôbre o esgôto de pântanos existentes em terrenos do município;
+
+7.º Sôbre tudo o que respeite à conservação, uso e fruïção dos bens próprios do concelho.
+
+###### Artigo 46.º
+
+No uso das atribuïções de fomento, pertence às câmaras deliberar:
+
+1.º Sôbre a construção, reparação e conservação das estradas e caminhos a seu cargo, nos termos das leis especiais;
+
+2.º Sôbre a abertura de novas ruas e praças nas povoações;
+
+3.º Sôbre a pavimentação das ruas das povoações, adequando-a ao trânsito automóvel, quando necessário;
+
+4.º Sôbre a construção e reparação de pontes e viadutos de interêsse municipal;
+
+5.º Sôbre o estabelecimento do serviços públicos de transporte colectivo;
+
+6.º Sôbre o estabelecimento de barcas de passagem nos rios que atravessem o concelho;
+
+7.º Sôbre o inventário das riquezas naturais do concelho;
+
+8.º Sôbre a experiência e introdução de novas culturas, do acôrdo com os serviços agronómicos regionais;
+
+9.º Sôbre a realização de exposições agrícolas, pecuárias e industriais de interêsse para o concelho;
+
+10.º Sôbre a fruïção e aproveitamento das águas públicas que por lei estejam na sua administração;
+
+11.º Sôbre a instalação de geradoras de energia eléctrica e distribuïção desta pelo concelho para fins industriais e domésticos;
+
+12.º Sôbre a limpeza das povoações e asseio exterior dos edifícios;
+
+13.º Sôbre a criação e conservação de parques, jardins, miradouros e outros lugares de aprazimento público;
+
+14.º Sôbre a propaganda das belezas naturais e artísticas do concelho;
+
+15.º Sôbre a instalação e conservação de aeródromos.
+
+###### Artigo 47.º
+
+No uso das atribuïções referentes ao abastecimento público, pertence às câmaras deliberar:
+
+1.º Sôbre a captação de águas potáveis, construção, conservação, limpeza e desobstrução de fontes, reservatórios, aquedutos e condutas;
+
+2.º Sôbre a construção e conservação de rêdes de distribuïção pública de água para consumo domiciliário;
+
+3.º Sôbre a venda de carnes verdes, podendo estabelecer o exclusivo do seu fornecimento;
+
+4.º Sôbre o estabelecimento, duração, mudança e supressão das feiras e mercados;
+
+5.º Sôbre o estabelecimento e instalação de mercados abastecedores de frutas e produtos hortícolas, destinados à regularização do respectivo comércio por grosso, de colaboração com os competentes organismos corporativos ou de coordenação económica e nos termos de legislação especial;
+
+6.º Sôbre o estabelecimento e instalação de centrais pastorizadoras ou de centrais leiteiras para tratamento, acondicionamento, distribuïção e venda do leite destinado ao consumo público directo, observada a legislação especial.
+
+###### Artigo 48.º
+
+No uso das atribuïções de cultura e assistência, pertence às câmaras deliberar:
+
+1.º Sôbre a construção, conservação, reparação ou arrendamento de edifícios escolares, aquisição de mobiliário e material didáctico e criação de instituïções de assistência escolar, nos termos das leis especiais;
+
+2.º Sôbre o auxílio a conceder a estabelecimentos particulares de educação e instrução e a obras de formação educativa da juventude existentes no concelho;
+
+3.º Sôbre a conveniência da criação de institutos secundários municipais e sua manutenção nos termos da lei;
+
+4.º Sôbre a criação e conservação de bibliotecas populares, arquivos e museus municipais;
+
+5.º Sôbre a publicação de documentos inéditos, que interessem à história do município, e de anais ou boletins destinados à divulgação dos factos notáveis da vida passada e presente do concelho;
+
+6.º Sôbre a instalação e exploração de teatros e cinemas educativos;
+
+7.º Sôbre a construção e administração de gimnásios, piscinas e campos de jogos;
+
+8.º Sôbre a realização de festas populares ou comparticipação nas que forem organizadas por outras entidades;
+
+9.º Sôbre a erecção e conservação de monumentos destinados ao embelezamento das povoações e à consagração de pessoas ilustres ou de acontecimentos memoráveis do concelho;
+
+10.º Sôbre o auxílio para sustentação dos expostos e crianças desvalidas ou abandonadas;
+
+11.º Sôbre o internamento dos alienados e hospitalização dos doentes do concelho;
+
+12.º Sôbre assistência aos mendigos;
+
+13.º Sôbre a fixação do dia de feriado anual no concelho, escolhido entre as datas das suas festas tradicionais e características;
+
+14.º Sôbre a escolha e modificação do brasão de armas, sêlo e bandeira;
+
+15.º Sôbre a situação económica das pessoas que pretendam obter a concessão da assistência judiciária.
+
+###### Artigo 49.º
+
+No uso das atribuïções respeitantes à salubridade pública, pertence às câmaras deliberar:
+
+1.º Sôbre a protecção da água potável destinada ao consumo público contra as causas de inquinação e conspurcação;
+
+2.º Sôbre o estabelecimento de rêdes de esgotos adentro das povoações;
+
+3.º Sôbre a remoção, despejo e tratamento de lixos, detritos e imundícies domésticas;
+
+4.º Sôbre o estabelecimento e administração de cemitérios na sede do concelho, na conformidade das leis e regulamentos sanitários, e sôbre o auxílio a prestar às juntas de freguesia para estabelecimento dos paroquiais;
+
+5.º Sôbre a defesa do ar atmosférico contra os fumos, poeiras e gases tóxicos que o poluam nas povoações;
+
+6.º Sôbre a divagação de animais nocivos, especialmente cãis vadios, e construção do canil municipal;
+
+7.º Sôbre a extinção dos ratos na canalização pública e a destruïção de mosquitos nas regiões palustres;
+
+8.º Sôbre a construção e conservação de matadouros, frigoríficos e peixarias municipais;
+
+9.º Sôbre a instalação e manutenção de laboratórios municipais;
+
+10.º Sôbre a construção e conservação de lavadouros;
+
+11.º Sôbre a construção e administração de estabelecimentos de banbos públicos e de águas medicinais;
+
+12.º Sôbre a instauração de obras de saneamento;
+
+13.º Sôbre a construção de casas económicas;
+
+14.º Sôbre a fiscalização dos estabelecimentos insalubres, incómodos e perigosos ou tóxicos, nos termos da lei;
+
+15.º Sôbre fiscalização e melhoramento das condições higiénicas das «vilas» existentes nas cidades, pátios, saguões, serventias, escadas e seus vestíbulos e residências dos porteiros;
+
+16.º Sôbre a colaboração a prestar às autoridades sanitárias em tudo o que lhes seja solicitado no interêsse do concelho.
+
+###### Artigo 50.º
+
+No uso das atribuïções de polícia, pertence às câmaras deliberar:
+
+1.º Sôbre tudo o que interesse à segurança e comodidade do trânsito nas ruas, praças, cais e mais lugares públicos e não seja das atribuïções de outras autoridades;
+
+2.º Sôbre o estacionamento de veículos nas ruas, praças e cais e condições em que devem prestar os seus serviços ao público;
+
+3.º Sôbre a iluminação pública nas povoações e vias públicas sujeitas à sua jurisdição;
+
+4.º Sôbre a denominação das ruas e praças das povoações;
+
+5.º Sôbre a segurança, elegância, salubridade e prevenção de incêndio das edificações confinantes com ruas e lugares públicos;
+
+6.º Sôbre a numeração dos edifícios nas cidades e vilas;
+
+7.º Sôbre a atenuação ou supressão dos ruídos incómodos adentro das povoações;
+
+8.º Sôbre a organização de serviços para prevenção e extinção de incêndios e sôbre limpeza de fornos o chaminés e subvenções a bombeiros voluntários;
+
+9.º Sôbre o regime interno das feiras e mercados;
+
+10.º Sôbre a fiscalização de pesos e medidas;
+
+11.º Sôbre o descanso semanal, nos termos da lei;
+
+12.º Sôbre o estabelecimento e manutenção das cadeias municipais e comarcãs;
+
+13.º Sôbre a criação e sustentação de uma polícia municipal e a instalação de postos ou construção de quartéis destinados ao serviço de polícia urbana ou rural;
+
+14.º Sôbre a apascentação de gados nas propriedades particulares;
+
+15.º Sôbre instalação e funcionamento de elevadores de acesso aos andares dos prédios destinados à habitação por inquilinos;
+
+16.º Sôbre disciplina dos cortejos fúnebres, enterramentos e exercício da actividade de agências funerárias.
+
+###### Artigo 51.º
+
+Para o desempenho das suas atribuïções, compete às câmaras:
+
+1.º Fazer, interpretar e modificar os regulamentos necessários à boa ordem dos serviços e estabelecimentos municipais e revogá-los quando dispensáveis;
+
+2.º Fazer, interpretar, modificar e revogar posturas e os regulamentos policiais permitidos ou impostos por lei ou decreto;
+
+3.º Elaborar o tombo da sua propriedade urbana e o cadastro da sua propriedade rústica;
+
+4.º Proceder ao inventário dos baldios existentes no concelho e à respectiva classificação;
+
+5.º Registar os manifestos de jazigos minerais e nascentes do águas minerais do concelho;
+
+6.º Alienar ou aforar, nos termos da lei, os baldios divididos;
+
+7.º Adquirir bens mobiliários e imobiliários necessários para serviço do município ou para cumprimento de encargos que lhe sejam impostos por lei e alienar os que forem dispensáveis;
+
+8.º Conceder servidões sôbre os bens municipais, sempre com a natureza de precárias;
+
+9.º Conceder terrenos nos cemitérios municipais para jazigos e sepulturas perpétuas;
+
+10.º Aceitar heranças, legados e doações feitos ao município ou a estabelecimentos municipais, contanto que a aceitação das heranças seja a beneficio de inventário;
+
+11.º Celebrar contratos de arrendamento, activa o passivamente, e de prestação de serviços;
+
+12.º Contratar com emprêsas individuais ou colectivas os fornecimentos necessários ao funcionamento dos serviços e à execução das obras municipais;
+
+13.º Efectuar seguros em companhias nacionais ou, quando estas não cubram o risco a segurar, em sociedades estrangeiras autorizadas pelo Govêrno a exercer a indústria em Portugal;
+
+14.º Instaurar pleitos e defender-se nêles, podendo confessar, desistir ou transigir, se não houver ofensa de direitos de terceiro;
+
+15.º Mandar elaborar o plano geral de urbanização e expansão da sede e de outras aglomerações populacionais onde esta necessidade se faça sentir e promover o levantamento das plantas topográficas respectivas;
+
+16.º Executar obras públicas por administração directa, empreitada ou concessão;
+
+17.º Propor ao Govêrno a expropriação por utilidade pública dos imóveis necessários à realização dos seus fins;
+
+18.º Ordenar, precedendo vistoria, a demolição total ou parcial ou beneficiação das construções que ameacem ruína ou ofereçam perigo para a saúde pública;
+
+19.º Ordenar o despejo sumário dos prédios cuja expropriação por utilidade pública tenha sido decretada ou cuja demolição tenha sido deliberada nos termos do número anterior, mas só quando na vistoria se verifique haver risco iminente e irremediável de desmoronamento ou que as obras se não podem realizar sem grave prejuízo para os ocupantes dos prédios;
+
+20.º Conceder licenças para edificação, reedificação ou quaisquer obras em terrenos confinantes com ruas ou outros lugares públicos sujeitos à jurisdição municipal ou paroquial, e aprovar os respectivos projectos, fixando, quando necessário, o alinhamento de acôrdo com o plano geral, dando a cota de nivel, e cedendo ou adquirindo por venda, compra ou troca, independentemente de hasta pública, os terrenos necessários ao alinhamento;
+
+21.º Conceder licenças para habitação dos edifícios construídos, reconstruídos ou que tenham sofrido grande modificação, precedendo verificação da habitabilidade por peritos em construção e salubridade;
+
+22.º Embargar quaisquer obras, construções ou edificações iniciadas pelos particulares sem licença, ou com inobservância das condições desta, dos regulamentos ou das posturas municipais;
+
+23.º Conceder licenças policiais e fiscais, de harmonia com o disposto nas leis, regulamentos e posturas, e conceder alvarás de licença aos estabelecimentos insalubres, incómodos, perigosos ou tóxicos, nos termos da lei;
+
+24.º Municipalizar serviços;
+
+25.º Arrendar as instalações de serviços municipalizados cuja exploração convenha conceder;
+
+26.º Conceder a exploração de serviços e resgatar a concessão, quando o julgue conveniente, nos termos do respectivo contrato, o qual terá sempre por base um caderno de encargos aprovado polo Govêrno;
+
+27.º Estabelecer exclusivos de fornecimentos ao público, quando o interêsse geral o aconselhe, em beneficio de serviço municipalizado ou concedido, ou para adjudicar por título oneroso a um particular em concurso público;
+
+28.º Conceder a particulares o aproveitamento das águas públicas na sua administração;
+
+29.º Conceder, nos termos da lei, o estabelecimento e exploração de instalações eléctricas de interêsse público, dentro da área da sua jurisdição;
+
+30.º Conceder a exploração industrial de centrais pastorizadoras e postos de recepção de leite, e o exclusivo de fornecimento de leite para consumo público;
+
+31.º Pedir ao Govêrno a concessão de águas públicas para aproveitamento de energia hidráulica, abastecimento das povoações, regas e melhoramentos agrícolas;
+
+32.º Estabelecer taxas;
+
+33.º Declarar prescritos a favor do concelho ou da freguesia os jazigos e mausoléus dos cemitérios municipais ou paroquiais cujos proprietários não sejam conhecidos ou residam em parte incerta e não exerçam os seus direitos por espaço superior a dez anos nem se apresentem a reivindicá-los depois de citados por meio de éditos;
+
+34.º Lançar impostos, directos e indirectos, e regulamentar a sua cobrança;
+
+35.º Contrair empréstimos, estabelecer a sua dotação e estipular as condições de amortização;
+
+36.º Requerer a comparticipação financeira do Estado para a realização de melhoramentos urbanos e rurais, obras de águas e saneamento;
+
+37.º Aprovar o orçamento ordinário e os orçamentos suplementares;
+
+38.º Criar empregos e partidos para médicos, veterinários, parteiras, enfermeiras e agrónomos, e dotá-los, remodelá-los e extingui-los, nos termos da lei;
+
+39.º Nomear, contratar ou assalariar, promover, transferir, louvar, punir, aposentar e exonerar os funcionários e assalariados municipais;
+
+40.º Modificar e revogar os actos praticados pelos funcionários e assalariados municipais;
+
+41.º Subsidiar estabelecimentos e organizações de assistência, educação ou instrução;
+
+42.º Subsidiar as juntas de freguesia para a realização de melhoramentos rurais e desempenho das suas atribuïções;
+
+43.º Associar-se com outras câmaras para a realização de interêsses comuns dos respectivos concelhos e fazer acordos sôbre estabelecimento de barcas de passagem nos rios que sirvam de limite entre o seu concelho e os vizinhos.
+
+§ 1.º A vistoria a que se refere o n.º 18.º dêste artigo será realizada por três peritos nomeados pela câmara, sendo um o delegado de saúde, nos casos em que a demolição ou beneficiação tenha por motivo a salubridade pública. A deliberação tomada pela câmara será imediatamente intimada ao proprietário do prédio e dela cabe apenas recurso contencioso por incompetência, excesso de poder ou violação de lei.
+
+§ 2.º O despejo sumário permitido pelo n.º 19.º só poderá ser ordenado depois de a câmara entrar na posse do prédio expropriado ou destinado a demolição, devendo executar-se dentro do prazo de sessenta dias, salvo no caso de risco iminente ou perigo para a segurança pública;
+
+§ 3.º A compra, venda ou troca a que se refere a parte final do n.º 20.º será precedida de louvação feita por três louvados, um nomeado pela câmara, outro pelo proprietário interessado e o terceiro pelo juiz de direito da comarca, salvo quando por consenso das partes se entenda ser dispensável por o valor do terreno não exceder 5.000$00.
+
+§ 4.º As deliberações definitivas sôbre obras de saneamento, abastecimento e distribuïção de águas, esgotos, construção, ampliação e remodelação de cemitérios e outras do carácter sanitário só podem ser tomadas precedendo parecer favorável do Conselho Superior de Higiene, que será pedido sôbre o respectivo projecto.
+
+§ 5.º As deliberações definitivas sôbre obras de construção de matadouros e apetrechamento dêstes só podem ser tomadas precedendo aprovação dada ao respectivo projecto pela Direcção Geral dos Serviços Pecuários.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 52.º
+
+As deliberações das câmaras municipais podem revestir a forma de postura ou regulamento policial sempre que contenham disposições preventivas de carácter genérico e execução permanente.
+
+§ 1.º Não é permitido às câmaras fazer posturas sôbre matérias estranhas às suas atribuïções ou já reguladas por lei, decreto ou regulamento do Govêrno. Os regulamentos policiais deverão conter-se dentro dos limites assinados pela lei ou decreto que os permitir ou impuser, não podendo cominar sanções que não sejam por estes estabelecidas.
+
+§ 2.º As posturas podem cominar as seguintes penas:
+
+1.ª Prisão até um mês, aplicável por sentença do juiz competente;
+
+2.ª Multa até 2000$00, acrescida de um terço por cada reincidência;
+
+3.ª Apreensão dos instrumentos da contravenção, móveis ou semoventes, os quais caucionarão a responsabilidade civil e penal do contraventor.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 77/74 - Diário do Governo n.º 52/1974, Série I de 1974-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1974-412775)
+
+###### Artigo 53.º
+
+Os regulamentos e posturas locais serão afixados em todas as freguesias do concelho nos lugares do estilo, começando a vigorar na data por êles designada, a qual não poderá ser inferior a oito dias, contados da afixação.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 54.º
+
+As disposições dos regulamentos e posturas locais que contrariarem as leis gerais da Nação serão consideradas nulas e de nenhum efeito pelos tribunais.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 55.º
+
+Carecem de aprovação do conselho municipal, para se tornarem executórias, as deliberações das câmaras:
+
+1.º Que revistam a forma de postura ou regulamento policial, exceptuadas as respeitantes a polícia sanitária;
+
+2.º Que envolvam alienação do bens próprios do concelho;
+
+3.º Que adjudiquem fornecimentos por prazo superior a um ano;
+
+4.º Que impliquem a realização de obras públicas, quando o seu custo provável seja superior a 50 contos, nos concelhos rurais de 2.ª e 3.ª ordem, a 100 contos, nos concelhos rurais de 1.ª ordem e urbanos de 2.ª e 3.ª, e a 200 contos, nos concelhos urbanos de 1.ª ordem;
+
+5.º Que municipalizem serviços;
+
+6.º Que concedam serviços públicos, ou obras públicas do valor superior a 50 contos, nos concelhos rurais de 2.ª e 3.ª ordem, a 100 contos, nos concelhos rurais de 1ª ordem e urbanos de 2.ª e 3.ª, e a 200 contos, nos concelhos urbanos de 1.ª ordem;
+
+7.º Que estabeleçam exclusivos de fornecimentos ao público;
+
+8.º Que digam respeito a empréstimos;
+
+9.º Que impliquem a criação, dotação, remodelação e extinção de empregos municipais;
+
+10.º Que respeitem à criação ou adesão a uma federação de municípios, ou à sua dissolução e ao destino a dar aos respectivos bens.
+
+§ 1.º As posturas e regulamentos relativos a polícia sanitária carecem de aprovação do Governo, pelo Ministério da Saúde e Assistência.
+
+§ 2.º As deliberações que respeitem à municipalização de serviços, concessão de exclusivos por prazo superior a um ano e criação, remodelação ou supressão de partidos, depois de aprovadas pelo conselho municipal, carecem de aprovação do Governo, pelo Ministério do Interior, ouvido o Ministério respectivo quando se trate de deliberações sobre partidos.
+
+§ 3.º As deliberações sobre instalação de geradoras de energia eléctrica, sobre municipalização ou concessão do serviço de distribuição de energia eléctrica e aprovação das respectivas tarifas e sobre a dissolução de federação de municípios que tenha por objecto a produção, o transporte ou a distribuição de energia eléctrica, carecem ùnicamente de aprovação do Governo, pelo Ministério da Economia.
+
+§ 4.º As deliberações sôbre empréstimos, depois de aprovadas pelo conselho municipal, carecem de aprovação do Govêrno, pelo Ministério das Finanças.
+
+§ 5.º A aprovação a que se referem os parágrafos anteriores será pedida pelo presidente da câmara aos Ministérios respectivos, por intermédio do governador civil.
+
+§ 6.º Quanto à matéria dos §§ 1.º e 2.º, considerar-se á aprovada a deliberação se, dentro do prazo de trinta dias, contados da data da entrada do processo, devidamente organizado, no Ministério a que tenha sido solicitada a aprovação, não fôr publicada portaria concedendo-a ou negando-a.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48890 - Diário do Governo n.º 53/1969, Série I de 1969-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48890-1969-525232)
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2102 - Diário do Governo n.º 57/1960, Série I de 1960-03-10](https://diariodarepublica.pt/dr/detalhe/lei/2102-1960-281861)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42178 - Diário do Governo n.º 53/1959, Série I de 1959-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42178-1959-587184)
+
+###### Artigo 56.º
+
+Além das referidas nos artigos 44.º e seguintes, pertencem às câmaras municipais atribuições de representação do concelho, atribuições deliberativas e consultivas em todos os casos declarados nas leis, e bem assim atribuições consultivas em todos os assuntos sobre que forem ouvidas pelo Governo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37340 - Diário do Governo n.º 55/1949, Série I de 1949-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37340-1949-387288)
+
+###### Artigo 57.º
+
+As atribuïções deliberativas das câmaras municipais são umas de exercício facultativo e outras de exercício obrigatório.
+
+§ único. As câmaras municipais não poderão instituir serviços ou realizar obras e melhoramentos facultativos sem que estejam criados ou dotados os serviços, obras e melhoramentos obrigatórios, salvo se a respectiva deliberação tiver sido tomada por quatro quintos dos vereadores, nos concelhos de Lisboa e Pôrto, ou aprovada por três quartos dos vogais do respectivo conselho municipal, nos restantes concelhos. Esta deliberação deve ser comunicada ao Govêrno e só se tornará executória se êste, dentro do prazo de trinta dias, contados da data da comunicação, não lhe opuser o seu veto.
+
+###### Artigo 58.º
+
+Os serviços das câmaras municipais, com excepção das de Lisboa e Pôrto, podem ser divididos em pelouros geridos pelo presidente e pelos vereadores.
+
+§ 1.º Quando haja divisão em pelouros, pertencerão sempre à presidência os dos serviços de secretaria, tesouraria e polícia.
+
+§ 2.º Compete aos vereadores, nos seus pelouros, estudar os problemas relativos aos respectivos serviços e preparar a execução das deliberações camarárias que lhes disserem respeito, sem prejuízo dos poderes de direcção, coordenação e execução do presidente da câmara.
+
+§ 3.º A distribuïção dos pelouros pelos vereadores será feita pelo presidente da câmara na primeira reünião de cada ano.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+##### Subsecção II — Concelhos urbanos
+
+###### Artigo 59.º
+
+Nos concelhos urbanos de qualquer ordem incumbe às câmaras o exercício obrigatório das atribuïções:
+
+1.º Dos n.os 1.º, 3.º, 4.º e 12.º do artigo 46.º;
+
+2.º Dos n.os 1.º e 2.º do artigo 47.º;
+
+3.º Dos n.os 1.º, 10.º e 11.º do artigo 48.º;
+
+4.º Dos n.os 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º e 14.º do artigo 49.º;
+
+5.º Dos n.os 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 10.º, 11.º e 12.º do artigo 50.º
+
+§ único. A atribuïção do n.º 2.º do artigo 47.º é de exercício obrigatório apenas nos concelhos cujas sedes sejam centros de grandes aglomerados populacionais ou de zonas de turismo.
+
+###### Artigo 60.º
+
+Nos concelhos urbanos de 1.ª e 2.ª ordem incumbe às câmaras, além do exercício obrigatório das atribuïções enumeradas no artigo anterior, mais o das seguintes:
+
+1.º Do n.º 4.º do artigo 48.º;
+
+2.º Do n.º 5.º do artigo 49.º;
+
+3.º Do n.º 7.º do artigo 50.º
+
+###### Artigo 61.º
+
+As licenças municipais para edificações e reedificações nas sedes dos concelhos urbanos só poderão ser concedidas mediante a prévia aprovação de um projecto elaborado de harmonia com o plano de urbanização e expansão e subscrito por arquitecto, engenheiro civil ou construtor civil devidamente habilitado.
+
+§ 1.º As licenças a que êste artigo se refere podem ser recusadas com o fundamento de as construções projectadas prejudicarem a estética urbana.
+
+§ 2.º Sempre que se trate de avenida como tal classificada no plano de urbanização e expansão, podem as câmaras condicionar a concessão das licenças pela obrigação imposta aos proprietários de deixarem jardins fechados, entre a fronte dos prédios e o alinhamento.
+
+###### Artigo 62.º
+
+Compete às câmaras dos concelhos urbanos ordenar a demolição de pequenas casas abarracadas e quaisquer construções ligeiras, desde que estejam situadas dentro da área da sede ou de lugar de turismo e o seu projecto não tenha sido aprovado nem concedida a licença municipal.
+
+##### Subsecção III — Concelhos rurais
+
+###### Artigo 63.º
+
+Nos concelhos rurais de qualquer ordem incumbe às câmaras o exercício obrigatório das atribuïções:
+
+1.º Dos n.os 1.º, 4.º e 12.º do artigo 46.º;
+
+2.º Do n.º 1.º do artigo 47.º;
+
+3.º Dos n.os 1.º, 10.º e 11.º do artigo 48.º:
+
+4.º Dos n.os 1.º, 4.º, 6.º, 7.º, 12.º e 14.º do artigo 49.º;
+
+5.º Dos n.os 1.º, 10.º, 11.º e 12.º do artigo 50.º
+
+###### Artigo 64.º
+
+Nos concelhos rurais de 2.ª ordem incumbe às câmaras, além do exercício obrigatório das atribuïções enumeradas no artigo anterior, mais o das seguintes:
+
+1.º Do n.º 2.º do artigo 47.º;
+
+2.º Dos n.os 8.º e 10.º do artigo 49.º;
+
+3.º Do n.º 5.º do artigo 50.º
+
+###### Artigo 65.º
+
+Nos concelhos rurais de 1.ª ordem incumbe às câmaras, além do exercício obrigatório das atribuïções enumeradas nos artigos anteriores, mais o das seguintes:
+
+1.º Do n.º 4.º do artigo 48.º, na parte respeitante a bibliotecas populares;
+
+2.º Do n.º 3.º do artigo 49.º;
+
+3.º Do n.º 8.º do artigo 50.º
+
+#### Secção III — Constituïção, reüniões e deliberações
+
+###### Artigo 66.º
+
+Nos anos em que deva proceder-se à constituição da nova câmara municipal reunir-se-á esta no dia 10 de Dezembro só para o efeito da verificação dos poderes dos seus vogais e da eleição do procurador ao conselho do distrito, continuando, porém, a antiga câmara, para tudo o mais, em exercício de funções até 31 de Dezembro.
+
+§ 1.º A convocação da reünião será feita pelo presidente da câmara, dentro do prazo e pela forma estabelecidos no § 1.º do artigo 28.º
+
+§ 2.º Os poderes dos vogais da câmara municipal serão verificados pelo presidente e aquela dir-se-á constituída e poderá deliberar desde que esteja verificada a legitimidade dos poderes da maioria dos vogais nos concelhos de 1.ª e 2.ª ordem e de pelo menos um nos concelhos de 3.ª ordem.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 67.º
+
+As câmaras municipais dos concelhos de 1.ª ordem e urbanos de 2.ª ordem reúnem ordinàriamente uma vez por semana e as dos demais concelhos uma vez por quinzena.
+
+§ único. As câmaras municipais reúnem extraordinàriamente sempre que o presidente as convocar por imperiosa necessidade de serviço público.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39447 - Diário do Governo n.º 260/1953, Série I de 1953-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771)
+
+###### Artigo 68.º
+
+Quando as câmaras não reúnam por falta de número, os presidentes deverão logo designar o dia para nova reünião, anunciando-o por aviso afixado à entrada dos paços do concelho.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 69.º
+
+O vice-presidente deverá assistir a todas as reüniões da câmara, tomando lugar à direita do presidente, mas com voto consultivo sòmente.
+
+§ único. Quando o vice-presidente estiver em exercício das funções de presidente competir-lhe-ão todos os poderes dêste.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 70.º
+
+Em tudo o mais respeitante à constituïção, reüniões e deliberações das câmaras municipais observar-se-á o que vai disposto sôbre constituïção e funcionamento dos corpos administrativos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+### Capítulo IV — Do presidente da câmara
+
+###### Artigo 71.º
+
+O presidente da câmara e o vice-presidente serão nomeados de entre os respectivos munícipes, de preferência vogais do conselho municipal, antigos vereadores ou membros das comissões administrativas municipais ou diplomados com um curso superior.
+
+§ 1.º Não podem ser nomeados os que, nos termos dos n.os 1.º e 10.º a 18.º do artigo 18.º, não puderem ser eleitos vogais do conselho municipal.
+
+§ 2.º Quando circunstâncias excepcionais o justifiquem poderá o Govêrno nomear o presidente e o vice-presidente da câmara sem sujeição a qualquer das restrições indicadas no corpo dêste artigo e no parágrafo anterior.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 72.º
+
+O presidente e o vice-presidente da Câmara são nomeados por quatro anos, podendo ser reconduzidos por períodos de igual duração, e tomam posse perante o governador civil do distrito, prestando o juramento exigido aos funcionários públicos.
+
+§ 1.º Para além de duas vezes a recondução só pode ter lugar mediante decreto.
+
+§ 2.º Para os efeitos deste artigo é equiparada à recondução a nomeação para o mesmo cargo antes de decorridos quatro anos sobre a data em que o nomeado deixou de desempenhá-lo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2102 - Diário do Governo n.º 57/1960, Série I de 1960-03-10](https://diariodarepublica.pt/dr/detalhe/lei/2102-1960-281861)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42178 - Diário do Governo n.º 53/1959, Série I de 1959-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42178-1959-587184)
+
+###### Artigo 73.º
+
+O presidente e o vice-presidente da câmara podem ser demitidos pelo Govêrno, livremente ou em consequência de processo disciplinar.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 74.º
+
+74.º As funções de presidente da câmara são remuneradas por meio de ordenado nos concelhos de Lisboa e Porto, nos de 1.ª ordem e nos urbanos de 2.ª ordem. Aos presidentes das demais câmaras será atribuído um subsídio mensal para despesas de representação.
+
+§ 1.º Os ordenados dos presidentes das Câmaras de Lisboa e Porto são os fixados na tabela anexa a este código e os ordenados e subsídios para despesas de representação dos demais presidentes serão estabelecidos conforme proposta da respectiva câmara, sancionada pelo conselho municipal, dentro dos limites previstos na mesma tabela.
+
+§ 2.º Em matéria de vencimentos os presidentes das câmaras ficam sujeitos ao regime dos funcionários administrativos.
+
+§ 3.º Os presidentes das câmaras que não percebam ordenado ficam dispensados de diploma de funções públicas e isentos de quaisquer impostos, emolumentos ou taxas por factos relativos ao exercício das respectivas funções.
+
+§ 4.º Os presidentes das câmaras que percebam ordenado têm direito a aposentação e são inscritos na Caixa Geral de Aposentações nas condições prescritas para os funcionários que exerçam cargos de comissão do Estado.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Revogado pelo/a Artigo 13.º do/a [Lei n.º 44/77 - Diário da República n.º 143/1977, Série I de 1977-06-23](https://diariodarepublica.pt/dr/detalhe/lei/44-1977-250400)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39447 - Diário do Governo n.º 260/1953, Série I de 1953-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771)
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35927 - Diário do Governo n.º 248/1946, Série I de 1946-11-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35927-1946-149855)
+
+###### Artigo 75.º
+
+As funções de presidente da câmara nos concelhos de Lisboa e Porto, nos de 1.ª ordem e nos urbanos de 2.ª ordem são incompatíveis com o exercício de quaisquer outras funções públicas remuneradas e com a advocacia.
+
+§ 1.º Os funcionários públicos ou administrativos que sejam nomeados presidentes das câmaras municipais a que se refere este artigo serão considerados em comissão extraordinária de serviço público e com direito a optar pelo seu ordenado ou pelo de presidente da câmara, competindo, porém, a esta, em qualquer caso, o respectivo pagamento.
+
+§ 2.º Aos funcionários na situação mencionada no parágrafo anterior será contado o tempo de serviço que prestarem na presidência das câmaras, para todos os efeitos legais, como se fosse prestado nos quadros permanentes a que pertencerem.
+
+§ 3.º O Conselho de Ministros poderá permitir a acumulação das funções de presidente da câmara com outras para que não esteja fixada retribuição bastante para o seu exercício independente.
+
+§ 4.º Aos vice-presidentes das câmaras que exerçam a presidência na vacatura da função ou durante impedimento de carácter permanente do presidente efectivo são aplicáveis as disposições deste artigo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Revogado pelo/a Artigo 13.º do/a [Lei n.º 44/77 - Diário da República n.º 143/1977, Série I de 1977-06-23](https://diariodarepublica.pt/dr/detalhe/lei/44-1977-250400)
+
+> Alterado pelo/a [Decreto-Lei n.º 47263 - Diário do Governo n.º 243/1966, Série I de 1966-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47263-1966-478402)
+
+> Alterado pelo/a [Decreto-Lei n.º 46233 - Diário do Governo n.º 64/1965, Série I de 1965-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46233-1965-238587)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39447 - Diário do Governo n.º 260/1953, Série I de 1953-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771)
+
+###### Artigo 76.º
+
+O presidente da câmara orienta e coordena a acção municipal, superintende na execução das deliberações da câmara e é o magistrado administrativo do concelho.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 77.º
+
+Na sua função de orientar e coordenar a acção municipal e de executar as deliberações da câmara, compete ao presidente:
+
+1.º Convocar as reüniões extraordinárias da câmara e as sessões ordinárias e extraordinárias do conselho municipal;
+
+2.º Dirigir os trabalhos nas reüniões da câmara e do conselho municipal;
+
+3.º Elaborar o relatório anual da gerência camarária, para ser presente à sessão ordinária do conselho municipal;
+
+4.º Elaborar, de acôrdo com a vereação, o plano anual da actividade da câmara;
+
+5.º Preparar as bases do orçamento ordinário, elaborá-lo sôbre as que tenham sido aprovadas pelo conselho municipal e submetê-lo, bem como os orçamentos suplementares, à aprovação da câmara;
+
+6.º Autorizar o pagamento das despesas orçamentadas, liquidadas de harmonia com as deliberações municipais;
+
+7.º Submeter a julgamento as contas de gerência;
+
+8.º Dirigir e superintender nos serviços municipais e no respectivo pessoal;
+
+9.º Inspeccionar os serviços municipalizados;
+
+10.º Conceder as licenças policiais da competência da câmara, salvo recurso das suas decisões para a própria câmara;
+
+11.º Representar a câmara em juízo ou fora dêle, precedendo, no primeiro caso, deliberação municipal sôbre o pleito, e escolher os advogados que forem necessários;
+
+12.º Executar e fazer executar as deliberações da câmara, expedindo os diplomas e alvarás necessários e passando atestados;
+
+13.º Publicar as posturas, regulamentos e avisos, e vigiar a sua execução;
+
+14.º Assinar a correspondência expedida pela câmara com destino a quaisquer autoridades, corpos administrativos e repartições públicas;
+
+15.º Participar ao tribunal do trabalho competente os acidentes de que forem vítimas os assalariados municipais, intervir na conciliação e seguir os mais termos do processo, quando não tenha havido transferência da responsabilidade do município por meio de seguro, independentemente de deliberação municipal, e com a faculdade de constituir advogado.
+
+§ 1.º As câmaras poderão autorizar genèricamente os seus presidentes a representar o município em todos os pleitos que contra êle forem propostos e a constituir advogado; em qualquer caso, as deliberações sôbre a intervenção em juízo autorizam a representação em 1.ª instância e nos tribunais de recurso, até julgamento definitivo da questão.
+
+§ 2.º O presidente da câmara pode delegar no chefe da secretaria a assinatura da correspondência de mero expediente.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 78.º
+
+O presidente da câmara pode praticar quaisquer actos da competência desta, sempre que o exijam circunstâncias excepcionais e não seja possível reüni-la extraordinariamente, ficando porém os actos praticados sujeitos a subseqüente ratificação da câmara.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 79.º
+
+Como magistrado administrativo, compete ao presidente da câmara:
+
+1.º Informar o governador civil, com diligência e exactidão, sôbre todos os assuntos de interêsse público que êsse magistrado deva conhecer;
+
+2.º Executar e fazer executar no concelho as leis e regulamentos administrativos;
+
+3.º Responder a inquéritos económicos ou administrativos de carácter oficial, colaborar na sua realização e auxiliar o desempenho dos serviços de estatística;
+
+4.º Tomar conta do cumprimento dos legados pios ou de assistência ou destinados a aplicações pias ou de utilidade pública, nos termos da respectiva legislação;
+
+5.º Exercer, em relação às pessoas colectivas de utilidade pública administrativa, as funções de inspecção que lhe forem confiadas pelo governador civil;
+
+6.º Designar o segundo ou terceiro domingo do mês de Outubro para a eleição das juntas de freguesia do concelho;
+
+7.º Convocar a reünião constitutiva do conselho municipal, da câmara municipal e das juntas de freguesia;
+
+8.º Declarar a exclusão do lugar ou perda do mandato dos vereadores e dos vogais do conselho municipal e das juntas de freguesia;
+
+9.º Inspeccionar a administração paroquial;
+
+10.º Passar os atestados de bom comportamento moral e civil que lhe sejam requeridos e lavrar termos de identidade, idoneidade ou justificação administrativa.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 80.º
+
+O presidente da câmara, salvo o disposto nos §§ 1.º e 2.º, é também autoridade policial e compete-lhe:
+
+1.º Tomar as providências necessárias para que se cumpram as leis e regulamentos de polícia geral, distrital e municipal, urbana e rural, zelando pela manutenção da ordem e tranqüilidade pública e protegendo a liberdade, propriedade e segurança dos habitantes do concelho;
+
+2.º Impedir e reprimir quaisquer actos contrários à ordem, à moral e à decência pública;
+
+3.º Prestar às autoridades sanitárias todo o auxílio que lhe fôr solicitado e exercer as atribuïções que sôbre polícia sanitária lhe sejam conferidas nas leis e regulamentos;
+
+4.º Exercer a polícia sôbre os estrangeiros, nos termos das leis e regulamentos;
+
+5.º Exercer a polícia dos espectáculos, nos termos das leis e regulamentos;
+
+6.º Vigiar os mendigos, vadios, vagabundos, músicos ambulantes e menores em perigo moral, propondo superiormente as medidas que julgar necessárias e convenientes;
+
+7.º Fiscalizar as casas públicas de jôgo hospedarias, estalagens, cafés, botequins e semelhantes;
+
+8.º Exercer a polícia sobre as reüniões públicas e solenidades religiosas, nos termos da lei;
+
+9.º Exercer a polícia relativa às prostitutas;
+
+10.º Colaborar, no que lhe for requerido ou por sua iniciativa, com os organismos de polícia internacional e de defesa do Estado;
+
+11.º Exercer, por si ou seus agentes, as atribuïções da polícia judiciária relativa à investigação dos crimes públicos e à captura dos criminosos, sem prejuízo da competência dos tribunais ordinários e de outras autoridades da mesma polícia;
+
+12.º Conceder licenças de uso e porte de arma de caça e quaisquer outras licenças policiais que não sejam da competência de outra autoridade;
+
+13.º Registar e fiscalizar a lavra das pedreiras existentes no concelho;
+
+14.º Executar os despejos sumários deliberados pela câmara municipal;
+
+15.º Exercer as atribuïções policiais que lhe sejam confiadas pelo governador civil em matéria da competência dêste.
+
+§ 1.º A competência conferida por êste artigo ao presidente da câmara pertence:
+
+1.º Nos concelhos que forem sede de distrito, ao comandante distrital da polícia de segurança pública;
+
+2.º Nos concelhos em que haja secção de polícia de segurança pública, ao respectivo comandante.
+
+§ 2.º A concessão de licenças para uso e porte de arma de defesa pertence em toda a área dos distritos aos comandantes de polícia de segurança pública.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 81.º
+
+O presidente da câmara pode, quando julgue conveniente, delegar no vice-presidente o exercício permanente de todos ou de parte dos poderes que lhe competem como magistrado administrativo e autoridade policial do concelho.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 82.º
+
+Os presidentes e os vice-presidentes das câmaras, bem como os comandantes distritais e de secção da polícia de segurança pública gozam da garantia administrativa e são isentos de imposto de prestação de trabalho e de qualquer outro serviço pessoal devido no concelho onde residam.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 83.º
+
+As decisões do presidente da câmara podem ser por êle ratificadas, revogadas, reformadas ou convertidas, quando da ratificação, revogação, reforma ou conversão não resulte ofensa de lei, regulamento ou contrato, nos termos seguintes:
+
+1.º Se não forem constitutivas de direitos, em todos os casos e a todo o tempo;
+
+2.º Se forem constitutivas de direitos, apenas quando ilegais e dentro do prazo fixado na lei para o recurso contencioso ou até à interposição dêste.
+
+§ 1.º Das decisões do presidente da câmara, quando tomadas em execução de deliberações municipais, pode recorrer-se para a câmara, sem prejuízo do recurso contencioso contra a deliberação executada e no prazo fixado na lei para interposição dêle.
+
+§ 2.º Das decisões definitivas e executórias do presidente da câmara, quando tomadas no exercício da sua competência de magistrado administrativo e superior autoridade municipal, só pode interpor-se recurso contencioso e com fundamento em incompetência, excesso de poder ou violação de lei, regulamento ou contrato administrativo.
+
+§ 3.º Das decisões do presidente da câmara, como autoridade policial, e bem assim das decisões das autoridades mencionadas no § 1.º do artigo 80.º, quando tomadas por delegação do governador civil, cabe recurso hierárquico para êste magistrado, de cuja decisão se poderá recorrer contenciosamente. O prazo do recurso hierárquico é de vinte dias.
+
+§ 4.º O disposto nos parágrafos anteriores aplica-se às decisões do vice-presidente da câmara nos casos em que exerça competência policial ou de magistrado administrativo por delegação do presidente.
+
+### Capítulo V — Dos concelhos do Lisboa e Pôrto
+
+#### Secção I — Câmara municipal
+
+##### Subsecção I — Composição o eleição
+
+###### Artigo 84.º
+
+As Câmaras Municipais dos concelhos de Lisboa e Porto são compostas por um presidente e um vice-presidente, nomeados pelo Governo, e por doze vereadores eleitos.
+
+§ 1.º Na Câmara Municipal de Lisboa poderá haver dois vice-presidentes, se as necessidades do serviço o exigirem e a Câmara assim o deliberar, ficando a deliberação sujeita a aprovação do Ministro do Interior. A precedência entre os vice-presidentes é, nesse caso, para todos os efeitos, regulada pela ordem da nomeação.
+
+§ 2.º O Ministro do Interior poderá autorizar que os vice-presidentes exerçam, por delegação, quaisquer actos da competência do presidente.
+
+§ 3.º Nos casos a que se refere o parágrafo anterior são aplicáveis aos vice-presidentes as disposições dos artigos 74.º e 75.º, competindo à Câmara fixar o respectivo ordenado.
+
+§ 4.º As Câmaras Municipais de Lisboa e Porto conservam o tratamento de excelência que lhes foi conferido, respectivamente, por alvará de 29 de Janeiro de 1739 e Decreto de 11 de Agosto de 1843.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41560 - Diário do Governo n.º 55/1958, Série I de 1958-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41560-1958-304720)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37573 - Diário do Governo n.º 216/1949, Série I de 1949-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37573-1949-265736)
+
+###### Artigo 85.º
+
+Os vereadores das câmaras municipais dos concelhos de Lisboa e Pôrto são eleitos de quatro em quatro anos.
+
+§ único. A eleição realizar-se-á no edifício da câmara municipal, no último domingo do mês de Novembro, excepto se fôr conseqüência de dissolução, pois nesse caso deverá efectuar-se no dia fixado pelo respectivo decreto.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 86.º
+
+São eleitores das vereações municipais de Lisboa e Pôrto as juntas de freguesia e os organismos corporativos com sede nos respectivos concelhos.
+
+§ 1.º As juntas de freguesia a que êste artigo se refere são as que tiverem sido eleitas para o quadriénio em que há-de servir a vereação de cuja eleição se tratar, mas se a eleição fôr conseqüência de dissolução as juntas referidas são as que estiverem em exercício de funções.
+
+§ 2.º Se no concelho existirem organizações corporativas representativas da mesma actividade ou interêsse, com categorias e graus diferentes, só os organismos primários intervirão na eleição.
+
+§3.º Para o efeito da eleição, o governador civil organizará quatro pautas de eleitores: a das freguesias, a dos organismos corporativos morais e culturais, a dos grémios e a dos sindicatos, não podendo o número de votantes por cada pauta ser superior ao número das freguesias existentes.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 87.º
+
+As juntas de freguesia e os organismos corporativos serão representados no acto eleitoral pelos presidentes, directores, reitores ou provedores, ou por quem legalmente os substitua, devendo, porém, em qualquer caso ser comunicados ao governador civil, até quinze dias antes da eleição e por ofício devidamente autenticado, os nomes dos representantes.
+
+§ único. Quando o número de eleitores de alguma das pautas a que se refere o § 3.º do artigo anterior exceder o número das freguesias com direito a voto, proceder-se-á, perante o auditor administrativo, ao sorteio daqueles cujos representantes deverão intervir na eleição, o qual terá lugar até ao .décimo dia anterior ao do acto eleitoral.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 88.º
+
+A convocação dos eleitores será feita pelo governador civil do distrito com cinco dias de antecedência pelo menos, por meio de edital afixado nos lugares do estilo e publicado em dois jornais de grande circulação e de avisos enviados pelo correio, sob registo.
+
+§ único. No edital e avisos convocatórios o governador civil indicará a hora a que deve realizar-se a eleição.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 89.º
+
+No dia e hora fixados para a eleição, o governador civil do distrito comparecerá no edifício da câmara municipal e escolherá, de entre os eleitores presentes, dois secretários para com êle colaborarem na verificação dos poderes e identidade dos representantes das juntas de freguesia e organismos corporativos.
+
+§ 1.º A verificação dos poderes e da identidade dos representantes far-se-á pelos ofícios a que se refere o artigo 87.º, que serão prèviamente informados na secretaria do govêrno civil quanto à exactidão das suas indicações, e pela apresentação dos respectivos bilhetes de identidade.
+
+§ 2.º Contra as decisões tomadas pelo governador civil podem os interessados, ou qualquer eleitor, apresentar, no próprio acto da verificação, reclamação verbal, e, quando esta não seja atendida, poderão apresentar protesto escrito.
+
+§ 3.º Verificada a presença da maioria dos representantes e reconhecidas a sua identidade e a legalidade dos poderes, constituir-se-á a mesa, que será presidida pelo representante que o governador civil designar e por dois secretários, escolhidos pelo presidente também de entre os representantes.
+
+§ 4.º Quando o número de eleitores presentes não corresponder à maioria das juntas de freguesia e organismos corporativos com direito de voto, a eleição realizar-se-á em novo dia, que o governador civil fixará e que não poderá ir além dos três dias seguintes.
+
+§ 5.º A nova convocação será feita pelo governador civil com vinte e quatro horas de antecedência, pelo menos, e pela forma estabelecida no artigo 88.º
+
+§ 6.º Se depois da segunda convocação ainda não comparecer número de eleitores correspondente à maioria, não se realizará a eleição e o governador civil dará conhecimento do facto ao Ministro do Interior, para o efeito de ser decretado o regime de tutela.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 90.º
+
+Constituída a mesa, o governador civil entregará ao presidente a relação dos eleitores, com indicação dos presentes, e bem assim todos os documentos que tenham servido para a verificação dos poderes e quaisquer protestos apresentados no acto da verificação.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 91.º
+
+A eleição far-se-á em lista completa e por escrutínio secreto.
+
+§ 1.º A lista será composta de doze nomes para vereadores, efectivos e outros tantos para vereadores substitutos.
+
+§ 2.º As listas concorrentes serão apresentadas ao governador civil do distrito até cinco dias antes da eleição e subscritas por cinco eleitores, pelo menos.
+
+§ 3.º Os funcionários públicos, civis ou militares, não poderão ser incluídos nas listas sem prévia autorização do Govêrno, pelo Ministro respectivo, e os seus nomes não poderão ser votados sem que, perante a mesa, se faça prova documental de que foi concedida essa autorização.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 92.º
+
+Antes da votação o presidente comunicará à assemblea o número de listas em presença e os nomes dos respectivos candidatos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 93.º
+
+Os boletins de voto devem corresponder às listas em sufrágio, terão a forma rectangular, com as dimensões de 0m,16 x 0m,20, e podem ser dactilografados, litografados ou impressos em papel liso, branco, não transparente, sem marca ou sinal exterior.
+
+§ 1.º Os eleitores poderão riscar nomes dos boletins de voto, mas nunca substituí los por outros.
+
+§ 2.º Os nomes oferecidos em substituïção ou aditados aos constantes do boletim de voto ter se ão como não escritos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 94.º
+
+O apuramento far-se á pelo número de votos obtido por cada lista, tendo-se como vencedora a que obtiver mais votação e como vereadores eleitos os que nela figurarem e obtiverem, pelo menos, um décimo da votação total atribuída a essa lista.
+
+§ único. Quando algum ou alguns dos candidatos a vereadores efectivos, pertencentes à lista vencedora, não obtiverem a percentagem a que se refere êste artigo, considerar-se-ão como efectivos os substitutos eleitos, pertencentes à mesma lista, que tenham tido maior votação, e, em igualdade de votos, os que nela figurarem em primeiro lugar.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 95.º
+
+Do que ocorrer na eleição se lavrará acta que traduza fielmente todas as operações realizadas e actos praticados, sendo o original entregue em mão ao presidente da câmara, e uma cópia, acompanhada dos documentos referidos no artigo 90.º, remetida ao governador civil do distrito.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 96.º
+
+Do acto eleitoral poderá qualquer das juntas de freguesia ou organismos corporativos eleitores recorrer para o auditor administrativo nas quarenta e oito horas imediatas, devendo êste magistrado proferir sentença nos cinco dias seguintes.
+
+§ 1.º A eleição só poderá ser julgada nula se se verificar a preterição de formalidades ou preceitos legais que possam influir no resultado geral da votação.
+
+§ 2.º Da sentença do auditor não cabe recurso.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 97.º
+
+(transitório). Além dos sindicatos nacionais e dos grémios, ou, quando não se verifique a hipótese prevista no § 2.º do artigo 86.º, as respectivas uniões e federações, consideram-se organismos corporativos para o efeito declarado no mesmo artigo, ainda que não estejam organizadas corporativamente as associações ou organizações económicas, morais e culturais com sede em Lisboa e Pôrto que constarem da lista que o Govêrno, pelo Ministério do Interior, publicará no Diário do Govêrno até quinze dias antes do acto eleitoral.
+
+§ único. Na designação dos organismos económicos a que êste artigo se refere ter-se-á apenas em vista assegurar a representação dos interêsses e actividades ainda não organizados corporativamente.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+##### Subsecção II — Atribuïções, competência, reüniões e deliberações
+
+###### Artigo 98.º
+
+As câmaras municipais dos concelhos de Lisboa e Pôrto não poderão instituir novos serviços de assistência.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 99.º
+
+Nos concelhos de Lisboa e Porto dependem de deliberação tomada em reunião da câmara:
+
+1.º A aprovação de posturas ou regulamentos policiais;
+
+2.º A aquisição e alienação de bens imobiliários;
+
+3.º A aceitação de heranças, doações ou legados:
+
+4.º A adjudicação de fornecimentos por prazo superior a um ano;
+
+5.º A confissão, desistência ou transacção judicial nos processos pendentes em que o município seja parte;
+
+6.º A aprovação do plano de urbanização e expansão;
+
+7.º A realização de obras públicas cujo valor exceda 7500 contos;
+
+8.º O pedido ao Govêrno da declaração da utilidade pública e urgência das expropriações;
+
+9.º A municipalização de serviços;
+
+10.º A concessão de exclusivos;
+
+11.º A concessão de serviços públicos ou de obras públicas de valor superior a 5:000 contos;
+
+12.º O lançamento de novos impostos ou taxas ou o aumento dos existentes;
+
+13.º A realização de empréstimos;
+
+14.º A aprovação dos orçamentos ordinário e suplementares;
+
+15.º A organização interna dos serviços municipais.
+
+§ único. Nas posturas e regulamentos policiais poderá ser cominada a pena de multa até 10000$00.
+
+> Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18
+
+> Alterado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 77/74 - Diário do Governo n.º 52/1974, Série I de 1974-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1974-412775)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 100.º
+
+Carecem de aprovação do Governo, para se tomarem executórias, as deliberações:
+
+1.º Que revistam a forma de postura ou regulamento relativo à polícia sanitária;
+
+2.º Que impliquem a realização de obras públicas cujo valor exceda 25000 contos;
+
+3.º Que concedam serviços públicos ou obras públicas de valor superior a 5:000 contos;
+
+4.º Que municipalizem serviços;
+
+5.º Que estabeleçam exclusivos de fornecimento ao público;
+
+6.º Que respeitem à instalação de geradoras de energia eléctrica;
+
+7.º Que digam respeito a empréstimos;
+
+8.º Que visem a organização interna dos serviços municipais.
+
+§ 1.º A aprovação será pedida pelo presidente da câmara ao Ministro da Saúde e Assistência no caso do n.º 1.º, ao Ministro das Obras Públicas nos casos dos n.os 2.º e 3.º, ao Ministro do Interior nos casos dos n.os 4.º, 5.º e 8.º, ao Ministro da Economia no caso do n.º 6.º e ao Ministro das Finanças no caso do n.º 7.º
+
+§ 2.º Se dentro do prazo de trinta dias, contados da data da entrada no Ministério competente do processo devidamente organizado, não fôr publicada portaria concedendo ou negando a aprovação pedida, considerar-se-á aprovada a deliberação quanto à matéria dos n.os 1.º, 2.º, 3.º e 4.º
+
+§ 3.º A aprovação tutelar pode ser concedida ou negada no todo ou em parte e sob condição suspensiva ou resolutiva.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48890 - Diário do Governo n.º 53/1969, Série I de 1969-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48890-1969-525232)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 101.º
+
+As Câmaras Municipais de Lisboa e Pôrto têm uma reünião ordinária em cada mês e as extraordinárias que forem convocadas pelo presidente. Nas reüniões ordinárias podem discutir todos os actos praticados pelo presidente no exercício da sua competência, e os votos que dessa discussão resultem serão submetidos à apreciação do Ministro do Interior.
+
+§ único. Quando um vereador perturbe repetidamente o funcionamento das reüniões, revelando falta de espírito de colaboração, e tenha sido chamado à ordem mais de três vezes pelo presidente, poderá a câmara aplicar-lhe a pena de perda do mandato.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção II — Presidente da câmara e serviços municipais
+
+###### Artigo 102.º
+
+Os presidentes das Câmaras de Lisboa e Pôrto decidem, por despacho, todos os negócios da competência das câmaras municipais, salvo os indicados no artigo 99.º
+
+§ 1.º O relatório e o plano anuais da gerência municipal serão presentes à câmara.
+
+§ 2.º Na elaboração do orçamento o presidente da câmara só deve obediência às disposições legais e às instruções do Govêrno.
+
+> Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18
+
+###### Artigo 103.º
+
+Os serviços municipais de Lisboa e Pôrto distribuem-se por direcções de serviços, que podem compreender repartições e secções.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 104.º
+
+Na preparação das suas decisões e na execução de todos os actos de gerência municipal o presidente da câmara nos concelhos de Lisboa e Pôrto será coadjuvado pelos directores de serviços.
+
+§ único. Cada director de serviços terá a seu cargo uma direcção de serviços.
+
+> Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18
+
+###### Artigo 105.º
+
+Compete aos directores de serviços:
+
+1.º Dirigir todos os serviços compreendidos na respectiva direcção e superintender nos actos neles praticados e no pessoal a eles afecto;
+
+2.º Submeter a despacho do presidente da câmara, devidamente instruídos e informados, os assuntos que dependam da sua resolução;
+
+3.º Receber e fazer distribuir pelos serviços da direcção a correspondência a eles referente;
+
+4.º Propor ao presidente tudo o que seja de interesse do município e dos serviços a seu cargo;
+
+5.º Colaborar na elaboração das bases do orçamento municipal, do plano anual de actividade e do relatório da gerência;
+
+6.º Estudar os problemas de que sejam encarregados pelo presidente e propor as soluções adequadas;
+
+7.º Promover a execução das ordens e decisões do presidente e das deliberações da câmara nas matérias que interessem à respectiva direcção de serviços;
+
+8.º Corresponder-se directamente, em assuntos da sua competência e por delegação do presidente, com autoridades e repartições públicas;
+
+9.º Assistir às reuniões da câmara para prestarem todas as informações e esclarecimentos que lhes forem pedidos por intermédio do presidente.
+
+§ 1.º O presidente da câmara poderá delegar nos directores de serviços a competência para o despacho de negócios correntes das respectivas direcções e admissão, disciplina e despedimento do pessoal assalariado.
+
+§ 2.º Com autorização do presidente da câmara, poderão os directores de serviços delegar nos chefes de repartição a competência que por aquele lhes tenha sido delegada.
+
+§ 3.º Nos casos de breve ausência do concelho, em serviço, poderá o presidente, quando falte ou esteja impedido o vice-presidente, delegar o despacho de todos os negócios da sua competência no director de serviços que designar.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38065 - Diário do Governo n.º 241/1950, Série I de 1950-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38065-1950-490902)
+
+###### Artigo 106.º
+
+O presidente da câmara nos concelhos do Lisboa e Pôrto não é magistrado administrativo, competindo-lhe porém as obrigações consignadas nos n.os 1.º, 2.º e 3.º e na 1.ª parte do n.º 8.º do artigo 79.º
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 107.º
+
+Em tudo o que não está especialmente previsto, para os concelhos do Lisboa e Pôrto observar-se-á o disposto para os concelhos urbanos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção III — Administrações dos bairros
+
+###### Artigo 108.º
+
+Nos concelhos de Lisboa e Pôrto haverá em cada bairro um magistrado administrativo com a designação de administrador de bairro.
+
+§ único. Os administradores de bairro são substituídos, nas suas faltas e impedimentos, pelos secretários das respectivas administrações.
+
+> Revogado pelo/a Artigo 11.º do/a [Lei n.º 8/81 - Diário da República n.º 135/1981, Série I de 1981-06-15](https://diariodarepublica.pt/dr/detalhe/lei/8-1981-578974)
+
+###### Artigo 109.º
+
+Competem aos administradores de bairro, sob a imediata direcção e inspecção do governador civil do distrito:
+
+1.º Os poderes e deveres enumerados no artigo 79.º, com excepção dos constantes dos n.os 6.º e 7.º, que pertencem ao governador civil, e dos do n.º 8.º, que incumbem ao presidente da câmara, quanto aos vereadores, e ao governador civil, quanto aos conselhos municipais e juntas de freguesia.
+
+2.º As atribuïções policiais que por lei lhes forem conferidas e a concessão de licenças de uso e porte de arma de caça;
+
+3.º Os actos de inspecção administrativa ao funcionamento das juntas de freguesia que lhes forem incumbidos pelo governador civil;
+
+4.º O julgamento, com recurso para o auditor administrativo, dos despejos sumários dos indivíduos que nas casas onde se exerça a hospedagem não paguem os respectivos aluguéis e bem assim dos que abusivamente estejam a morar em casa alheia sem contrato de arrendamento ou subarrendamento, ainda que. verbal.
+
+5.º A execução das decisões sôbre despejos sumários tomadas pelos presidentes das Câmaras de Lisboa e Pôrto, no exercício da respectiva competência.
+
+§ único. O processo para os julgamentos referidos no n.º 4.º seguirá os termos aplicáveis do processo sumaríssimo regulado no Código de Processo Civil, mas quando as partes não prescindirem de recurso os depoimentos de parte ou das testemunhas serão escritos, por extracto, na acta da audiência
+
+Da sentença cabe recurso para o auditor administrativo, o qual será processado como agravo, devendo a sentença do auditor ser proferida no prazo de quinze dias. Desta decisão não haverá recurso.
+
+> Nota: [Resolução n.º 14/78 - Diário da República n.º 25/1978, Série I de 1978-01-30](https://diariodarepublica.pt/dr/detalhe/resolucao/14-1978-448772) A Resolução n.º 14/78, de 30 de janeiro, declara com força obrigatória geral a inconstitucionalidade das normas constantes no n.º 4 e do § único do artigo 109.º do Código Administrativo.
+
+> Revogado pelo/a Artigo 11.º do/a [Lei n.º 8/81 - Diário da República n.º 135/1981, Série I de 1981-06-15](https://diariodarepublica.pt/dr/detalhe/lei/8-1981-578974)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38343 - Diário do Governo n.º 150/1951, Série I de 1951-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38343-1951-582832)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+### Capítulo VI — Dos órgãos municipais consultivos
+
+#### Secção I — Disposições gerais
+
+###### Artigo 110.º
+
+São órgãos consultivos da administração municipal:
+
+1.º A comissão municipal de higiene;
+
+2.º A comissão municipal de arte e arqueologia;
+
+3.º A comissão venatória concelhia;
+
+4.º A comissão municipal de turismo;
+
+5.º Os grémios e sindicatos nacionais e quaisquer outros organismos corporativos do concelho;
+
+6.º Outras comissões ou conselhos, permanentes ou transitórios, criados por deliberação da câmara e com a composição por esta determinada, para fins relativos ao exercício das atribuïções municipais.
+
+§ único. As comissões ou conselhos consultivos instituídos pela câmara serão sempre presididos por um vereador nomeado pelo presidente, salvo em Lisboa e no Pôrto, onde a presidência poderá ser confiada a um director de serviços.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção II — Comissão municipal de higiene
+
+###### Artigo 111.º
+
+Em cada concelho funciona uma comissão de higiene, constituída por um vereador, que será o presidente, pelo delegado ou subdelegado de saúde, pelo veterinário e pelo engenheiro municipal, onde os houver, ou, havendo mais de um, por aquele que o presidente da câmara designar, e por um vogal do conselho municipal, eleito por este.
+
+§ único. Nos concelhos de Lisboa e Porto, a comissão municipal de higiene é constituída por um vereador e um engenheiro municipal, ambos designados pelo presidente da câmara; pelo delegado de saúde, pelo engenheiro chefe da circunscrição industrial e pelo intendente de pecuária, ou pelos representantes destes funcionários.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 112.º
+
+Compete à comissão municipal de higiene:
+
+1.º Dar parecer sôbre todos os projectos de posturas e regulamentos sanitários, os quais não poderão ser aprovados sem o seu voto favorável;
+
+2.º Dar parecer sôbre todas as questões de salubridade pública a respeito das quais seja consultada pela câmara ou pelo seu presidente;
+
+3.º Sugerir à câmara, ou ao seu presidente, todas as medidas que entenda oportunas e convenientes ao perfeito exercício das respectivas atribuïções sanitárias;
+
+4.º Coadjuvar o presidente da câmara na execução das deliberações ou decisões tomadas em matéria sanitária, quando lhe seja determinado.
+
+§ único. Se a comissão der parecer desfavorável à aprovação de um projecto de regulamento ou postura sanitária, o presidente da câmara, o delegado ou subdelegado de saúde e o veterinário municipal poderão recorrer para o Conselho Superior de Higiene e Assistência Social ou para a Junta Sanitária de Águas, conforme os casos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção III — Comissão municipal de arte e arqueologia
+
+###### Artigo 113.º
+
+Nos concelhos em que existam monumentos naturais, artísticos, históricos ou arqueológicos a conservar, defender ou valorizar funcionará uma comissão municipal de arte e arqueologia, composta por um vereador designado pelo presidente da câmara, que será o presidente, pelo director do museu da sede do concelho, onde o houver, por um professor oficial de ensino primário, técnico ou liceal nomeado pelo Ministro da Educação Nacional, por um representante das associações culturais ou grupos de amigos dos monumentos ou museus do concelho e por um sacerdote indicado pelo respectivo prelado diocesano.
+
+§ 1.º Nos concelhos urbanos é obrigatória a constituïção de comissões de arte e arqueologia, que serão presididas por um vereador designado pelo presidente.
+
+§ 2.º Nos concelhos de Lisboa e Pôrto as comissões a que êste artigo se refere serão constituídas por um vereador ou director de serviços, que será o presidente, e por seis pessoas peritas, nomeadas pelo presidente da câmara.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 114.º
+
+Compete à comissão municipal de arte e arqueologia:
+
+1.º Dar parecer sôbre a parte do plano de urbanização e expansão relativa à conservação e valorização dos monumentos artísticos, históricos, naturais e arqueológicos;
+
+2.º Dar parecer sôbre quaisquer projectos de construção, reintegração ou valorização de monumentos, a respeito dos quais seja consultada pela câmara ou pelo seu presidente;
+
+3.º Sugerir às câmaras tudo o que entender conveniente ao embelezamento das povoações, à preservação, defesa e aproveitamento dos monumentos e da paisagem e ao desenvolvimento do turismo;
+
+4.º Colaborar com os órgãos da administração central na defesa dos interêsses artísticos, progresso da cultura e educação do gôsto popular, exercendo as atribuïções que a lei lhe conferir.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção IV — Comissão venatória concelhia
+
+###### Artigo 115.º
+
+À comissão venatória concelhia compete dar parecer sôbre todos os assuntos da administração municipal que possam relacionar-se com o exercício e polícia da caça e a respeito dos quais seja consultada pelo presidente da câmara.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção V — Grémios e sindicatos nacionais
+
+###### Artigo 116.º
+
+Os grémios, os sindicatos nacionais e as secções dêstes e quaisquer outros organismos corporativos do concelho são obrigados a dar o seu parecer sôbre todos os assuntos da administração municipal que tenham relação com os interêsses económicos e profissionais por êles representados e a respeito dos quais sejam consultados pelos presidentes das câmaras municipais dos concelhos em que tenham sede.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+### Capítulo VII — Das zonas do turismo
+
+#### Secção I — Disposições gerais
+
+###### Artigo 117.º
+
+Nos concelhos em que existam praias, estâncias hidrológicas ou climáticas, de altitude, de repouso ou de recreio, ou monumentos e lugares de nomeada poderão ser criadas zonas de turismo.
+
+§ 1.º A criação de zonas de turismo dependerá de requerimento da respectiva câmara, precedendo deliberação aprovada pelo conselho municipal, ou de proposta dos serviços centrais de turismo e efectuar-se-á por meio de decreto referendado pelos Ministros do Interior e das Finanças, ouvidos, no primeiro caso, os referidos serviços.
+
+§ 2.º O decreto a que se refere o parágrafo anterior delimitará a área que deve constituir a zona de turismo e fixará a respectiva sede.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+###### Artigo 118.º
+
+As zonas de turismo cuja sede coincida com a sede do concelho serão directamente administradas pelas respectivas câmaras municipais e as restantes por juntas de turismo.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+###### Artigo 119.º
+
+As câmaras municipais e as juntas de turismo submeterão à aprovação dos serviços centrais de turismo, até 15 de Outubro de cada ano, o plano anual da sua actividade turística, ao qual será junto projecto do respectivo orçamento.
+
+§ 1.º Os planos das juntas de turismo serão remetidos por intermédio do presidente da câmara e acompanhados de informação dêste.
+
+§ 2.º Consideram-se aprovados os planos de actividade sempre que os serviços centrais de turismo sobre eles se não pronunciarem dentro dos quarenta e cinco dias seguintes ao da sua apresentação.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+###### Artigo 120.º
+
+As despesas respeitantes ao desempenho das atribuïções próprias dos órgãos gestores das zonas de turismo, agindo como tais, são para todos os efeitos consideradas despesas de turismo.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+###### Artigo 121.º
+
+§ único. Os serviços centrais de turismo têm competência para transmitir instruções sobre a organização dos orçamentos das zonas de turismo.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+#### Secção II — Zonas de turismo administradas pelas câmaras municipais
+
+###### Artigo 122.º
+
+Nas zonas de turismo directamente administradas pela câmara municipal, e para o efeito de colaborar com esta no estudo dos problemas turísticos, haverá uma comissão municipal de turismo, presidida por um vereador designado pelo presidente da câmara e com a seguinte composição:
+
+1.º Um representante dos serviços centrais de turismo;
+
+2.º Um representante da comissão municipal de arte e arqueologia, onde a houver;
+
+3.º O delegado ou o subdelegado de saúde;
+
+4.º Um hoteleiro, eleito pelos proprietários dos hotéis existentes na zona;
+
+5.º Um comerciante estabelecido na zona e um proprietário, ambos designados pelo presidente da câmara municipal;
+
+6.º O capitão do porto ou delegado marítimo, onde os houver.
+
+§ único. Quando na zona não haja hotéis, será o hoteleiro substituído por pessoa designada pelo presidente da câmara municipal.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+###### Artigo 123.º
+
+Às câmaras municipais que administrem zonas de turismo incumbem nessas zonas as atribuïções de exercício obrigatório impostas às câmaras dos concelhos urbanos de 3.ª ordem, se não lhes pertencer maior categoria da mesma classe.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+###### Artigo 124.º
+
+À comissão municipal de turismo compete:
+
+1.º Colaborar na preparação do plano anual de actividade turística;
+
+2.º Dar parecer sôbre quaisquer projectos de obras de interêsse turístico;
+
+3.º Sugerir o que entender por conveniente ao melhoramento das condições turísticas da zona;
+
+4.º Dar parecer sôbre o orçamento dos serviços de turismo;
+
+5.º Deliberar sôbre propaganda, despendendo as verbas que para êsse efeito lhes sejam atribuídas no orçamento.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+###### Artigo 125.º
+
+Os serviços de secretaria das zonas de turismo directamente administradas pelas câmaras municipais serão executados pelo pessoal de carteira das mesmas câmaras.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+#### Secção III — Zonas de turismo administradas pelas juntas de turismo
+
+###### Artigo 126.º
+
+As juntas de turismo terão a seguinte composição:
+
+1.º Um presidente, designado pelos serviços centrais de turismo, de acordo com o presidente da câmara municipal;
+
+2.º O médico municipal ou, havendo mais de um, aquele que o presidente da câmara designar;
+
+3.º Um hoteleiro, eleito pelos proprietários dos hotéis existentes na zona;
+
+4.º Um comerciante estabelecido na zona e um proprietário, ambos designados pelo presidente da câmara;
+
+5.º O capitão do porto ou delegado marítimo, onde os houver.
+
+§ único. As juntas de turismo elegerão de entre os seus vogais um administrador delegado.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+###### Artigo 127.º
+
+Às juntas de turismo pertençe deliberar:
+
+1.º Sôbre o inventário das riquezas naturais, arqueológicas e históricas da zona;
+
+2.º Sôbre a realização de exposições, conservação e divulgação dos trajes regionais;
+
+3.º Sôbre a propaganda das belezas naturais e artísticas da região;
+
+4.º Sôbre a criação e conservação de bibliotecas populares;
+
+5.º Sôbre a divulgação de factos notáveis da vida passada e presente da região;
+
+6.º Sôbre a exploração de teatros e cinemas;
+
+7.º Sôbre a construção e administração de gimnásios e campos de jogos;
+
+8.º Sôbre a realização de festas populares;
+
+9.º Sôbre a erecção e conservação de monumentos;
+
+10.º Sôbre a criação e conservação de parques e jardins, miradouros e outros lugares de aprazimento público;
+
+11.º Sôbre a iluminação pública das povoações sujeitas à sua jurisdição.
+
+12.º Sobre tudo o mais que possa contribuir para o melhoramento da zona e esteja compreendido nas atribuições das câmaras municipais.
+
+§ único. As câmaras municipais poderão encarregar as juntas de turismo da execução de quaisquer deliberações municipais tomadas sôbre matérias de interêsse das respectivas zonas.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39286 - Diário do Governo n.º 155/1953, Série I de 1953-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39286-1953-642200)
+
+###### Artigo 128.º
+
+Para o desempenho das suas atribuïções pertence às juntas de turismo a competência conferida por êste Código às câmaras municipais dos concelhos urbanos, com excepção dos poderes de:
+
+1.º Elaborar posturas ou regulamentos policiais;
+
+2.º Conceder obras ou serviços públicos;
+
+3.º Municipalizar serviços;
+
+4.º Estabelecer exclusivos;
+
+5.º Lançar impostos, devendo limitar-se a arrecadar o produto dos instituídos por lei;
+
+6.º Contrair empréstimos.
+
+§ único. As juntas de turismo poderão comparticipar com os corpos administrativos ou com o Estado na realização de obras e melhoramentos que interessem à respectiva zona.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+###### Artigo 129.º
+
+Quando, por motivo de urgência e necessidade pública, a junta de turismo julgue indispensável tomar deliberações sôbre objecto não previsto no plano anual de actividade turística, assim o comunicará nos dez dias imediatos ao presidente da câmara, remetendo-lhe cópia da deliberação.
+
+§ único. O presidente da câmara tem a faculdade de, nos dez dias seguintes à recepção da comunicação, suspender a deliberação tomada, quando não considere procedente o motivo indicado, devendo nesse caso submetê-la imediatamente, com o seu parecer, aos serviços centrais de turismo, para resolução da Presidência do Conselho.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+###### Artigo 130.º
+
+Compete ao presidente da junta de turismo:
+
+1.º Orientar a acção da junta, coordenando-a com a da câmara municipal;
+
+2.º Elaborar o relatório anual de gerência;
+
+3.º Preparar o plano anual de actividade turística e submetê-lo à apreciação da junta;
+
+4.º Elaborar o projecto do orçamento.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 67/2008 - Diário da República n.º 71/2008, Série I de 2008-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), em vigor a partir de 2008-04-11
+
+###### Artigo 131.º
+
+Ao administrador delegado da junta de turismo compete:
+
+1.º Executar e fazer executar as deliberações da junta;
+
+2.º Exercer as funções de inspecção que pela junta lhe forem confiadas;
+
+3.º Autorizar as despesas orçamentadas, liquidadas de harmonia com as deliberações da junta, e efectuar os pagamentos;
+
+4.º Organizar e submeter à apreciação da junta as contas de gerência.
+
+###### Artigo 132.º
+
+O plano elaborado pela junta de turismo só será aprovado pelos serviços centrais de turismo depois de sobre ele haver emitido parecer o presidente da respectiva câmara municipal.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+###### Artigo 133.º
+
+O pessoal das juntas de turismo será contratado ou assalariado por elas, mas os contratos e o assalariamento para lugares dos quadros permanentes dependerão de autorização do Ministro do Interior, pedida para cada caso.
+
+### Capítulo VIII — Dos serviços municipais
+
+#### Secção I — Secretaria e tesouraria
+
+##### Subsecção I — Secretaria
+
+###### Artigo 134.º
+
+Os serviços municipais compreendem:
+
+1.º Secretaria e tesouraria;
+
+2.º Serviços especiais.
+
+> Revogado pelo/a Artigo 11.º do/a [Lei n.º 8/81 - Diário da República n.º 135/1981, Série I de 1981-06-15](https://diariodarepublica.pt/dr/detalhe/lei/8-1981-578974)
+
+###### Artigo 135.º
+
+Cada câmara municipal tem uma secretaria privativa, por onde correrá todo o seu expediente e à qual compete assegurar a execução das deliberações camarárias e dos despachos e ordens do presidente.
+
+§ 1.º O expediente da secretaria da câmara, quando as necessidades o exijam, pode distribuir-se por secções ou serviços.
+
+§ 2.º Nos concelhos de Lisboa e Pôrto as funções das secretarias serão distribuídas pelas direcções de serviços, na forma que os respectivos regulamentos internos determinarem.
+
+###### Artigo 136.º
+
+A secretaria é dirigida por um chefe de secretaria, sob a inspecção e superintendência do presidente da câmara.
+
+§ único. Nas suas faltas e impedimentos o chefe de secretaria será substituído pelo funcionário de carteira que tiver maior categoria, ou pelo mais antigo no serviço da secretaria quando haja mais de um da mesma categoria.
+
+###### Artigo 137.º
+
+Compete ao chefe de secretaria:
+
+1.º Assistir às reüniões do conselho municipal e da câmara municipal e redigir e subscrever as respectivas actas;
+
+2.º Assistir, ou fazer-se substituir por um funcionário da secretaria, às reüniões dos conselhos de administração dos serviços municipalizados e das comissões ou conselhos consultivos municipais, e lavrar, ou mandar lavrar pelo mesmo funcionário, e em qualquer caso subscrever, as respectivas actas;
+
+3.º Certificar, mediante despacho do presidente, os factos e actos que constem dos arquivos municipais e que não sejam de carácter confidencial ou reservado e, independentemente de despacho, a matéria das actas das reüniões do conselho municipal e da câmara municipal;
+
+4.º Autenticar todos os documentos e actos oficiais da câmara;
+
+5.º Preparar o expediente e as informações necessárias para resolução da câmara;
+
+6.º Submeter a despacho do presidente da câmara os negócios da competência dêste;
+
+7.º Levar à assinatura do presidente da câmara a correspondência e documentos que dela careçam e assinar a correspondência para que tenha recebido delegação do presidente;
+
+8.º Dirigir os trabalhos da secretaria em conformidade com as deliberações da câmara e ordens do presidente, distribuindo o serviço pelos funcionários como fôr mais conveniente;
+
+9.º Conservar sob a sua guarda e responsabilidade, nos paços do concelho, o arquivo municipal, quando não haja conservador privativo, e manter em dia o registo da correspondência recebida e expedida pela câmara, feito em livros, abertos, rubricados e encerrados pelo presidente;
+
+10.º Organizar o cadastro de todo o pessoal da câmara, centralizar as informações respectivas, executar as deliberações sôbre nomeação, promoção, transferência, louvor, castigo, aposentação e exoneração dos funcionários e assalariados municipais e assegurar o expediente dos concursos para o seu recrutamento;
+
+11.º Organizar os mapas de lançamento das contribuïções e impostos;
+
+12.º Exercer as funções do notário em todos os actos e contratos em que a câmara fôr outorgante;
+
+13.º Fiscalizar a responsabilidade do tesoureiro;
+
+14.º Cumprir e fazer cumprir as disposições legais e regulamentares sôbre contabilidade municipal;
+
+15.º Manter o presidente da cântara ao corrente do estado dos serviços da tesouraria e da caixa municipal;
+
+16.º Organizar as contas de gerência até ao dia 1 de Abril de cada ano, ou dentro do prazo de trinta dias contados do dia da renovação total da câmara ou da substituïção de algum dos seus vogais por motivo de presunção ou apuramento de irregularidades na administração municipal, e organizar balanço de transição quando haja substituïção de tesoureiro, com as formalidades a prescrever em regulamento geral dos serviços de orçamento, contabilidade e tesouraria dos corpos administrativos;
+
+17.º Remeter ao agente do Ministério Público junto da auditoria administrativa competente, dentro de quarenta e oito horas e independentemente de despacho, cópias das actas de todas as reüniões do conselho municipal, da câmara municipal, serviços municipalizados e comissões e conselhos consultivos municipais que lhe sejam requisitadas;
+
+18.º Enviar às respectivas conservatórias do registo predial, no prazo de vinte dias a contar da deliberação, documento autêntico de onde constem as novas denominações das vias públicas e as mudanças de numeração policial;
+
+19.º Fazer o recenseamento militar e colaborar no recenseamento eleitoral;
+
+20.º Julgar as reclamações contenciosas sôbre lançamento e cobrança de impostos, taxas e mais receitas municipais e paroquiais a as transgressões aos regulamentos tributários;
+
+21.º Proceder à cobrança coerciva das dívidas ao concelho e freguesias, servindo de juiz nas respectivas execuções fiscais;
+
+22.º Desempenhar todas as mais funções que as leis e regulamentos lhe impuserem.
+
+###### Artigo 138.º
+
+Nos concelhos em que a secretaria da câmara estiver dividida em secções ou serviços, a competência de cada um dêles será discriminada em regulamento municipal.
+
+##### Subsecção II — Tesouraria
+
+###### Artigo 139.º
+
+A arrecadação das receitas, a guarda dos fundos e valores, o pagamento das despesas e quaisquer movimentos dos dinheiros do município incumbem à tesouraria da câmara.
+
+###### Artigo 140.º
+
+O serviço de tesouraria da câmara municipal está a cargo de um tesoureiro e é exercido sob a fiscalização do chefe de secretaria e superintendência do presidente da câmara
+
+§ 1.º As funções de tesoureiro das câmaras municipais cuja receita ordinária apurada pela média arrecadada nos últimos três anos não exceda 1000 contos serão, à medida que vagarem aqueles lugares, desempenhadas pelos tesoureiros da Fazenda Pública dos respectivos concelhos, mediante a gratificação mensal de 300$00, 400$00 ou 600$00, conforme se tratar de concelhos com receitas ordinárias até 300, de mais de 300 até 600 e de mais de 600 até 1000 contos.
+
+§ 2.º Nos concelhos de Lisboa e Pôrto o serviço de tesouraria fará parte da Direcção dos Serviços de Finanças e dependerá do respectivo director.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41060 - Diário do Governo n.º 81/1957, Série I de 1957-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41060-1957-651556)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 141.º
+
+Compete ao tesoureiro municipal:
+
+1.º Promover, logo que esteja habilitado com os respectivos documentos, e dentro dos prazos regulamentares, a arrecadação das receitas virtuais e eventuais, receber dos exactores da Fazenda Pública as que forem cobradas por estes, entregar aos contribuintes, com o respectivo recibo, os documentos de cobrança e liquidar os juros de mora que pelos mesmos forem devidos;
+
+2.º Efectuar o pagamento das autorizações e de todos os mais documentos de despesa, depois de visados pelo chefe de secretaria e selados com o sêlo branco do município;
+
+3.º Transferir para as tesourarias da Fazenda Pública ou serviços autónomos do Estado, e independentemente de ordem ou deliberação municipal, mas por meio de guia passada pela secretaria, as importâncias que por lei pertençam ao Tesouro ou aos serviços do Estado;
+
+4.º Entregar ao chefe de secretaria balancetes diários da caixa e bem assim no primeiro dia de cada mês os documentos de despesa pagos no decurso do mês findo e a relação de cobrança com a colecção dos documentos de receita e títulos de anulação;
+
+5.º Prestar ao presidente da câmara e ao chefe de secretaria todas as informações pedidas por estes;
+
+6.º Cumprir as disposições legais e regulamentares sôbre contabilidade municipal;
+
+7.º Desempenhar as demais funções que as leis e regulamentos lhe impuserem.
+
+###### Artigo 142.º
+
+Em todos os concelhos existirá um proposto de tesoureiro, nomeado por alvará do presidente da câmara, sob proposta do tesoureiro.
+
+§ 1.º Nos concelhos em que o movimento da tesouraria o exija, o proposto coadjuvará permanentemente o tesoureiro; nos restantes concelhos, o proposto só prestará serviço nas faltas e impedimentos do tesoureiro ou ocorrendo vacatura do cargo, e, sem prejuízo do disposto no parágrafo seguinte, vencerá nesses períodos a remuneração correspondente.
+
+§ 2.º Verificando-se impedimento do tesoureiro por período superior a trinta dias, ou a vacatura do cargo, a gerência da tesouraria será, transitòriamente, confiada ao proposto, sem dependência de nomeação e de posse, lavrando-se apenas termo de transição, na forma habitual. O proposto assumirá a gerência da tesouraria logo que nesse sentido receba ordem do presidente da câmara e tenha prestado caução, nos termos do artigo 494.º, devendo ser abonado, a partir de então, dos vencimentos que correspondem ao cargo de tesoureiro.
+
+§ 3.º Quando, existindo proposto com carácter permanente, o movimento da tesouraria o justifique, poderá o Ministro do Interior autorizar a nomeação, nos termos prescritos no corpo deste artigo, de auxiliares de proposto em número bastante para assegurar o funcionamento normal do serviço.
+
+§ 4.º Os auxiliares de proposto exercerão as funções permanentemente ou a título transitório, conforme as conveniências do serviço, vencendo, no segundo dos casos, a remuneração correspondente ao período de serviço prestado.
+
+§ 5.º Enquanto o proposto detiver a gerência da tesouraria, poderá o presidente da câmara, sob proposta daquele, nomear um auxiliar para o coadjuvar permanentemente ou o substituir nas suas faltas e impedimentos, com a remuneração correspondente ao cargo de proposto.
+
+§ 6.º Aos propostos e auxiliares de proposto que exercerem as funções com carácter permanente é aplicável o regime prescrito para os funcionários de secretaria e tesouraria.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48678 - Diário do Governo n.º 266/1968, Série I de 1968-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48678-1968-263553)
+
+#### Secção II — Serviços especiais
+
+##### Subsecção I — Disposições gerais
+
+###### Artigo 143.º
+
+Os serviços especiais das câmaras municipais compreendem:
+
+1.º Os partidos médicos;
+
+2.º Os partidos veterinários;
+
+3.º Os demais partidos autorizados por lei;
+
+4.º Os serviços de incêndios;
+
+5.º Os demais serviços que as câmaras estiverem autorizadas a criar.
+
+##### Subsecção II — Partidos médicos
+
+###### Artigo 144.º
+
+Em todos os concelhos, com excepção dos de Lisboa e Pôrto, existirá pelo menos um partido médico municipal.
+
+§ 1.º O número de partidos médicos municipais será fixado pelo conselho municipal, tendo em atenção as necessidades dos povos e do serviço público, no máximo de cinco para os concelhos de 1.ª ordem, de quatro para os concelhos de 2.ª ordem e de três para os concelhos de 3.ª ordem.
+
+§ 2.º Em casos de imperiosa exigência do bem público, devidamente justificada, poderá o conselho municipal ultrapassar os máximos fixados no parágrafo antecedente, mas essa deliberação carece, para se tornar executória, de aprovação do Ministro do Interior.
+
+§ 3.º Em caso algum poderá haver mais de um partido por freguesia.
+
+§ 4.º As vagas de médicos municipais que ocorrerem posteriormente à publicação dêste Código só serão preenchidas se couberem nos quadros fixados em conformidade com o estabelecido nos §§ 1.º e 2.º
+
+###### Artigo 145.º
+
+Na delimitação das áreas dos partidos médicos atender-se-á às necessidades de assistência clínica da população do concelho, podendo deixar de haver partido nas zonas onde essa assistência esteja assegurada em virtude da existência de médicos com pulso livre, de Misericórdias ou de Casas do Povo.
+
+§ 1.º Na sede do concelho só poderá haver um partido médico, devendo os restantes ter por centros sedes de freguesias rurais ou povoações importantes, de fácil acesso para as populações a assistir.
+
+§ 2.º Em cada centro de partido médico rural deverá formar-se um pôsto de socorros urgentes, com os indispensáveis medicamentos e material.
+
+§ 3.º Às câmaras municipais é permitido fazer acordos com as Misericórdias e as Casas do Povo das freguesias rurais para que, mediante subsídio, assumam o encargo da assistência clínica à população de determinada área não incluída na de um partido médico.
+
+§ 4.º Os médicos municipais podem reclamar para o Ministro do Interior das deliberações sobre delimitação das áreas dos partidos médicos, com fundamento em inconveniente público. O Ministro decidirá sobre parecer de uma comissão por ele próprio nomeada e de funcionamento permanente junto da Direcção-Geral de Administração Política e Civil, composta por um representante da mesma Direcção-Geral, um representante da Direcção-Geral de Saúde e um funcionário dos serviços geográficos e cadastrais. A comissão ouvirá obrigatòriamente a câmara interessada antes de formular o seu parecer.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2102 - Diário do Governo n.º 57/1960, Série I de 1960-03-10](https://diariodarepublica.pt/dr/detalhe/lei/2102-1960-281861)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42178 - Diário do Governo n.º 53/1959, Série I de 1959-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42178-1959-587184)
+
+###### Artigo 146.º
+
+Não poderão criar-se partidos exclusivamente de medicina ou exclusivamente de cirurgia.
+
+###### Artigo 147.º
+
+Dois ou mais municípios contíguos podem associar-se para estabelecer partidos comuns que abranjam povoações limítrofes das suas circunscrições.
+
+§ único. O centro dos partidos comuns será fixado no acôrdo que os criar, competindo a nomeação dos respectivos serventuários a uma comissão constituída como as comissões administrativas das federações dos municípios.
+
+###### Artigo 148.º
+
+Em cada partido médico será provido um médico municipal.
+
+###### Artigo 149.º
+
+Os médicos municipais terão domicílio necessário e residência obrigatória permanente na povoação onde fôr fixado o centro do seu partido.
+
+§ 1.º Quando se verifique que o médico municipal não reside no centro do seu partido será notificado pelo presidente da câmara para aí fixar residência dentro do prazo de trinta dias e se, findo êsse prazo, a não tiver fixado considerar-se-á o facto como abandono de lugar.
+
+§ 2.º O Ministro do Interior, sob proposta da respectiva câmara municipal, ouvido o delegado de saúde e com o parecer concordante do governador civil do distrito e da comissão a que se refere o § 4.º do artigo 145.º, poderá autorizar o médico municipal de um partido rural a residir na sede do concelho, quando se mostre que assim facilita o acesso a todas as povoações do partido e que não há melhor forma de delimitar as áreas dos partidos existentes.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2102 - Diário do Governo n.º 57/1960, Série I de 1960-03-10](https://diariodarepublica.pt/dr/detalhe/lei/2102-1960-281861)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42178 - Diário do Governo n.º 53/1959, Série I de 1959-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42178-1959-587184)
+
+###### Artigo 150.º
+
+Incumbe obrigatòriamente aos médicos municipais:
+
+1.º Curar gratuitamente os pobres, os expostos, as crianças desvalidas e abandonadas e os presos e acudir às chamadas de urgência que, a qualquer hora, lhes sejam feitas;
+
+2.º Fazer a verificação de óbitos, quando não tenha havido assistência médica;
+
+3.º Proceder às vacinações e revacinações;
+
+4.º Fiscalizar a higiene escolar;
+
+5.º Verificar e certificar a aptidão física das amas nomeadas pela câmara, vigiar a aleitação e o bom tratamento das crianças expostas, abandonadas ou subsidiadas e desempenhar as obrigações que os regulamentos lhes imponham quanto à fiscalização médica e higiene dos serviços da infância desvalida;
+
+6.º Inspeccionar, nos armazéns, depósitos e lugares de venda, os géneros alimentícios e bebidas;
+
+7.º Proceder à inspecção e revisão médicas que devam ser feitas a indivíduos provindos de portos e lugares infeccionados;
+
+8.º Tomar parte nos exames, visitas e diligências sanitárias em que o seu concurso seja necessário ou imposto pelas leis, regulamentos ou posturas municipais;
+
+9.º Visitar, ao menos uma vez por semana, as povoações principais existentes na área dos seus partidos, a fim de aí darem consulta;
+
+10.º Auxiliar gratuitamente as intervenções cirúrgicas operadas nos hospitais existentes na área dos seus partidos, quando os doentes sejam pobres e o operador solicite o auxílio;
+
+11.º Auxiliar o delegado ou subdelegado de saúde, cooperando com ele para o cabal desempenho dos serviços sanitários;
+
+12.º Auxiliarem-se e substituírem-se recìprocamente os do mesmo concelho;
+
+13.º Exercer todas as demais atribuïções que lhes sejam conferidas pelas leis e regulamentos.
+
+§ único. As câmaras determinarão, ouvidos os médicos municipais, as condições de assistência clínica gratuita aos pobres da área dos respectivos partidos, fixando horas de consulta especial, que serão tornadas públicas, por tabuleta ou letreiro, à porta do consultório ou centro sanitário onde devam realizar-se.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+##### Subsecção III — Partidos veterinários
+
+###### Artigo 151.º
+
+Nos concelhos cuja população e riqueza pecuária o justifiquem poderão ser criados partidos veterinários.
+
+§ 1.º O número de partidos em cada concelho será fixado pelo conselho municipal, tendo em atenção as condições do território e do povoado e a importância da riqueza pecuária na respectiva economia.
+
+§ 2.º São aplicáveis aos partidos veterinários as disposições do § 1.º do artigo 145.º e do artigo 149.º
+
+###### Artigo 152.º
+
+Em cada partido veterinário municipal será provido um veterinário.
+
+§ 1.º Podem as câmaras municipais de dois ou mais concelhos vizinhos prover, precedendo acôrdo, um mesmo veterinário nos seus partidos.
+
+§ 2.º Na hipótese do parágrafo anterior, o vencimento do veterinário será fixado por acôrdo entre as câmaras, não podendo porém exceder em mais de um sexto, por cada partido além de um, o vencimento fixado na tabela anexa a êste Código. O vencimento total assim obtido será dividido igualmente pelos concelhos interessados, salvo acôrdo especial.
+
+§ 3.º A residência do veterinário municipal de mais de um concelho será fixada por acôrdo entre as câmaras, atendendo à área de cada concelho, à sua importância pecuária e à facilidade de comunicações.
+
+###### Artigo 153.º
+
+Compete obrigatòriamente aos veterinários municipais:
+
+1.º A direcção técnica dos matadouros, mercados ou praças de pescado, centrais leiteiras ou pastorizadoras e frigoríficos de exploração municipal, assegurando que os respectivos serviços funcionem com eficiência;
+
+2.º A inspecção sanitária dos matadouros, fábricas ou oficinas de preparação de carnes, frigoríficos, talhos, salsicharias e quaisquer outros estabelecimentos ou locais onde se preparem, armazenem ou exponham à venda produtos alimentares de origem animal, providenciando por que sejam mantidos sempre em condições de funcionamento higiénico;
+
+3.º A inspecção sanitária das reses, criação miúda, caça e bem assim das respectivas carnes e subprodutos destinados ao consumo público;
+
+4.º A inspecção sanitária do pescado fresco ou por qualquer forma preparado ou conservado;
+
+5.º A inspecção dos leites e lacticínios e dos respectivos locais de produção, preparação, armazenagem e venda, promovendo os necessários melhoramentos ou beneficiações nos estábulos e seus anexos e divulgando as normas higiotécnicas conducentes à perfeita obtenção, acondicionamento e resguardo do produto;
+
+6.º A fiscalização dos produtos de origem animal que se encontrem nos hotéis, pensões, restaurantes e casas de pasto;
+
+7.º A inspecção das embalagens e dos meios de transporte dos produtos alimentares de origem animal, tendo em vista os materiais a utilizar, as condições de limpeza e o modo de acondicionamento dos produtos;
+
+8.º A inspecção dos animais e seus alojamentos e das respectivas forragens;
+
+9.º A inspecção dos despojos dos animais e a fiscalização sobre as condições de transporte e enterramento dos cadáveres ou do seu aproveitamento industrial;
+
+10.º A fiscalização sanitária de feiras, exposições e concursos de animais, e bem assim do trânsito de animais quando grassem epizootias;
+
+11.º A participação imediata ao intendente de pecuária da respectiva área de todos os casos de doença infecto-contagiosa ou parasitária de que tenham conhecimento, devendo informar seguidamente sobre a evolução das zoonoses;
+
+12.º A informação de todos os projectos de construção e instalação dos alojamentos para animais e dos estabelecimentos de preparação, fabrico, conservação, depósito ou venda de produtos de origem animal;
+
+13.º A assistência médico-veterinária gratuita aos gados dos habitantes pobres do concelho, quando estes não possuam um número de cabeças de gado superior ao que, para este efeito, a câmara fixar;
+
+14.º A vacinação e revacinação de animais domésticos;
+
+15.º A colaboração com o intendente de pecuária em tudo o que respeite à saúde pecuária e à higiene do concelho, nos termos das leis e regulamentos e das instruções da Direcção-Geral dos Serviços Pecuários;
+
+16.º A colaboração com os subdelegados de saúde e médicos municipais nas medidas que devam ser adoptadas em comum para defesa da saúde pública;
+
+17.º Dar conhecimento à câmara municipal de todas as ocorrências nos serviços a seu cargo, sugerindo providências que julguem convenientes;
+
+18.º Auxiliarem-se e substituírem-se reciprocamente os do mesmo concelho ou de concelhos próximos.
+
+§ único. As câmaras determinarão, ouvidos os veterinários municipais, as condições de assistência veterinária gratuita e elaborarão tabela de preços respeitantes aos demais serviços.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 154.º
+
+Na ausência ou impedimento dos veterinários municipais de um concelho substituí-los-á um veterinário de concelho próximo, mediante o abono pela câmara municipal das respectivas despesas de transporte e ajudas de custo.
+
+§ único. Exceptuam-se os concelhos onde tenham sede as intendências de pecuária, nos quais a substituição compete a um veterinário da respectiva intendência.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+##### Subsecção IV — Outros partidos
+
+###### Artigo 155.º
+
+Sempre que as necessidades locais o justifiquem poderão as câmaras municipais criar partidos para agrónomos, parteiras ou enfermeiras, elaborando os respectivos regulamentos e observando, na parte aplicável, o que fica disposto nos artigos anteriores.
+
+§ único. Serão mantidos os partidos farmacêuticos existentes emquanto se verificar que o exercício do comércio e indústria da farmácia não é suficientemente remunerador, no lugar onde estejam criados, para manter o estabelecimento exigido pelas necessidades dos povos.
+
+##### Subsecção V — Serviços de Incêndios
+
+###### Artigo 156.º
+
+Para prevenção e extinção de incêndios poderão existir nos concelhos os seguintes corpos de bombeiros:
+
+1.º Batalhão de sapadores bombeiros;
+
+2.º Corpo de bombeiros municipais;
+
+3.º Associações de bombeiros voluntários.
+
+§ 1.º Os batalhões de sapadores bombeiros só podem ser instituídos pela câmara em concelhos com sede em cidade de mais de 100 000 habitantes e com prévio acordo dos Ministérios do Interior e do Exército.
+
+§ 2.º Haverá obrigatòriamente corpos de bombeiros municipais nos concelhos de 1.ª ordem se não existirem organizações de bombeiros voluntários ou estas, só por si, não preencherem a função a que se destinam.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 157.º
+
+Os batalhões de sapadores bombeiros serão comandados por oficiais superiores ou capitàis da arma de engenharia e o seu pessoal será militarizado.
+
+§ único. As câmaras elaborarão regulamentos disciplinares para os batalhões segundo as normas de disciplina militar, podendo ser aplicadas às praças as penas de repreensão, de faxinas até 12, quartos de serviço até 8, detenção até 20 dias, perda de vencimento até 30 dias, prisão disciplinar até 30 dias, baixa de classe e baixa de serviço, e conferida aos comandantes e oficiais competência disciplinar para a aplicação dessas penas.
+
+###### Artigo 158.º
+
+As associações de bombeiros voluntários, com estatutos devidamente aprovados, são consideradas pessoas colectivas de utilidade pública administrativa.
+
+###### Artigo 159.º
+
+Em tudo o que respeita à aquisição, conservação e utilização do material e à instrução do pessoal combatente, os corpos de bombeiros ficam sujeitos à inspecção técnica dos comandantes dos batalhões de sapadores bombeiros de Lisboa e Porto.
+
+§ único. Para o efeito deste artigo será o País dividido em duas zonas, Norte e Sul, nos termos do mapa anexo a este Código.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35746 - Diário do Governo n.º 154/1946, Série I de 1946-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35746-1946-155655)
+
+###### Artigo 160.º
+
+Os batalhões de sapadores bombeiros e os corpos de bombeiros municipais ou de voluntários subsidiados são obrigados a acorrer a todos os incêndios que se verifiquem na área do concelho e para que seja pedido o seu auxílio.
+
+###### Artigo 161.º
+
+Nos concelhos em que não exista corpo de bombeiros a prevenção e extinção dos incêndios ficam a cargo das autoridades policiais, que poderão requisitar, sob pena de desobediência qualificada, os serviços de quaisquer homens válidos para as coadjuvar e pedir às câmaras dos concelhos mais próximos a comparência dos seus bombeiros ou a dos voluntários, mediante o pagamento das despesas a que a deslocação dê lugar e sem prejuízo da segurança dêsses concelhos.
+
+§ único. Fora das sedes dos concelhos e quando na localidade não haja corpo de bombeiros compete ao regedor e aos cabos de polícia prestar os primeiros socorros, sendo obrigação de todos os vizinhos concorrer em união de esforços para debelar o sinistro, independentemente de requisição; mas quando esta se torne necessária deve ser prontamente satisfeita, sob pena de desobediência qualificada.
+
+###### Artigo 162.º
+
+As autoridades policiais e os comandantes dos corpos de bombeiros podem em caso do incêndio:
+
+1.º Requisitar os serviços de quaisquer homens válidos e as viaturas indispensáveis para socorro de vidas e bens;
+
+2.º Ocupar os prédios rústicos e urbanos necessários ao estabelecimento dos serviços de salvação pública;
+
+3.º Requisitar a utilização imediata de quaisquer águas públicas e, na falta delas, a das particulares necessárias para conter ou evitar o dano, tendo neste último caso os requisitados o direito a indemnização pela câmara quando da utilização resulte prejuízo de difícil reparação;
+
+4.º Utilizar quaisquer serventias que facultem o acesso ao local do sinistro;
+
+5.º Ordenar as destruïções, demolições, remoções e cortes nos prédios contíguos ao sinistrado quando sejam necessários ao desenvolvimento das manobras da extinção ou para impedir o alastramento do fogo.
+
+##### Subsecção VI — Outros serviços
+
+###### Artigo 163.º
+
+Para assegurar o exercício de atribuïções que, por exigirem conhecimentos especiais de qualquer ciência ou arte, não possam ser exercidas por intermédio das secretarias ou tesourarias poderão as câmaras municipais instituir serviços dirigidos por diplomados com o correspondente curso superior ou especial.
+
+§ 1.º Os aferidores de pesos e medidas ficam subordinados, para efeitos administrativos e disciplinares, aos chefes das secretarias das câmaras, excepto em Lisboa e Pôrto, onde se observará o disposto nos respectivos regulamentos internos.
+
+§ 2.º A fim de fiscalizar o cumprimento das posturas e regulamentos policiais e coadjuvar a autoridade policial do concelho no exercício das suas funções, é permitido às câmaras instituir um serviço de polícia municipal, a cargo de guardas e graduados requisitados à polícia de segurança pública, ou de zeladores ou guardas campestres, cujos autos de notícia farão fé em juízo nos termos estabelecidos no Código de Processo Penal para os levantados por agentes de autoridade.
+
+§ 3.º Nos concelhos de Lisboa e Pôrto os serviços de polícia municipal incumbem a um corpo privativo militarizado, cuja disciplina obedecerá às normas prescritas neste Código para os batalhões de sapadores bombeiros.
+
+§ 4.º Os serviços especiais a que êste artigo se refere terão regulamento próprio elaborado pela câmara, no qual se atenderá às suas relações com os demais serviços municipais.
+
+> Nota: [Artigo 28.º, Decreto-Lei n.º 293/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1992-408880) Revogado, a partir de 28.02.1993, na parte em que remete para o regime disciplinar dos bombeiros sapadores, o § 3.º do art. 163.º do Código Administrativo
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 32/94 - Diário da República n.º 199/1994, Série I-A de 1994-08-29](https://diariodarepublica.pt/dr/detalhe/lei/32-1994-219370)
+
+### Capítulo IX — Dos serviços municipalizados
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+#### Secção I — Instituïção, objecto e fim
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+###### Artigo 164.º
+
+É permitido às câmaras, com a aprovação dos respectivos conselhos municipais e do Govêrno, explorar, sob forma industrial, por sua conta e risco, serviços públicos de interêsse local que tenham por objecto:
+
+1.º A captação, condução e distribuïção de água potável;
+
+2.º A produção, o transporte e distribuïção de energia eléctrica e de gás de iluminação;
+
+3.º O aproveitamento, depuração e transformação das águas de esgôto, lixos, detritos e imundícies;
+
+4.º A construção e funcionamento de mercados, frigoríficos, balneários, estabelecimentos de águas mínero-medicinais e lavadouros públicos;
+
+5.º A matança de reses e o transporte, distribuïção e venda de carnes verdes;
+
+6.º A higienização de produtos alimentares, designadamente o leite;
+
+7.º O transporte colectivo de pessoas e mercadorias.
+
+§ único. Quando circunstâncias especiais e motivos ponderosos aconselhem a municipalização de serviços que tenham por objecto actividades não incluídas neste artigo, poderá o Govêrno autorizá-la, sob proposta da câmara interessada e observado o processo de criação estabelecido no presente Código.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+###### Artigo 165.º
+
+Os serviços municipalizados visarão a satisfazer necessidades colectivas da população do concelho a que a iniciativa privada não proveja de modo completo e deverão fixar as tarifas de modo a cobrir os gastos de exploração e de administração, bem como a permitir a constituïção das reservas necessárias.
+
+§ único. Nos casos em que os serviços municipalizados prestem ao público algumas utilidades acessórias do seu objecto principal que normalmente se obtenham da indústria particular, deverão os respectivos preços ser calculados de modo que não se estabeleça concorrência com esta.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+###### Artigo 166.º
+
+A deliberação tendente à municipalização de qualquer serviço será sempre precedida da elaboração de projecto em que se tenham em conta os aspectos económicos, técnicos e financeiros da emprêsa.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+###### Artigo 167.º
+
+Quando a exploração directa de um serviço municipalizado se tenha mostrado inconveniente, poderá a câmara, com a aprovação do conselho municipal e do Govêrno, deliberar o arrendamento das respectivas instalações e a concessão do serviço.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+#### Secção II — Administração
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+###### Artigo 168.º
+
+Os serviços municipalizados têm organização autónoma adentro da administração municipal, nos tremos dêste Código, dos regulamentos e das deliberações das câmaras.
+
+§ único. Só é permitido às câmaras explorar serviços susceptíveis de municipalização sem a organização prescrita neste artigo mediante autorização do Ministro do Interior, justificada pelas condições económicas da exploração.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+###### Artigo 169.º
+
+Os serviços municipalizados são geridos por um conselho de administração, presidido pelo presidente da câmara ou pelo vice-presidente ou por um vereador, e composto por mais dois administradores, vereadores ou vogais do conselho municipal, designados pelo presidente da câmara.
+
+§ 1.º Quando forem vários os serviços municipalizados e a sua importância o justifique, poderá o presidente da câmara instituir mais de um conselho de administração, indicando os serviços que devem competir-lhes.
+
+§ 2.º Os conselhos de administração servem pelo período de um ano, podendo ser reconduzidos e substituídos, total ou parcialmente, pelo presidente da câmara.
+
+§ 3.º Cessando o conselho as suas funções sem que tenha sido reconduzido ou imediatamente substituído, ficará a gerência do serviço entregue ao presidente da câmara até nomeação dos novos administradores, a qual deverá realizar-se dentro do prazo máximo de um mês.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+###### Artigo 170.º
+
+1.º Preparar e submeter à aprovação da câmara o regulamento do serviço;
+
+2.º Fixar o quadro do pessoal e arbitrar-lhe a remuneração;
+
+3.º Contratar, assalariar, punir e dispensar do serviço os respectivos serventuários;
+
+4.º Fixar tarifas;
+
+5.º Preparar o projecto do orçamento e apresentá-lo ao presidente da câmara;
+
+6.º Examinar os balancetes quinzenais e conferir mensalmente a contabilidade e tesouraria;
+
+7.º Elaborar as contas de gerência, para serem presentes à câmara;
+
+8.º Fiscalizar e superintender em todos os actos do director delegado e mais pessoal superior;
+
+9.º Propor à câmara todas as medidas tendentes a melhorar a organização e o funcionamento do serviço.
+
+§ único. As deliberações a que se referem os n.os 2.º e 4.º serão, imediatamente depois de tomadas, comunicadas pelo presidente do conselho de administração ao presidente da câmara, o qual poderá suspender a sua execução e submetê-las à sanção da câmara municipal na primeira reunião ordinária, salvo se a deliberação tiver por objecto fixar tarifas de venda de energia eléctrica, pois nesse caso será sempre submetida pelo presidente da câmara à aprovação do Governo, pelo Ministério da Economia.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 171.º
+
+O conselho de administração terá uma reünião ordinária quinzenal e as extraordinárias que o presidente entenda dever convocar para o bom funcionamento dos serviços.
+
+§ único. De tudo o que ocorrer nas reüniões será lavrada acta, a qual deverá ser assinada por todos os administradores presentes.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+###### Artigo 172.º
+
+Das deliberações do conselho de administração há sempre recurso hierárquico para a respectiva câmara, sem prejuízo do recurso contencioso que da deliberação desta se possa interpor nos termos ordinários.
+
+§ único. O recurso hierárquico só pode ser interposto no prazo de trinta dias a contar da data em que o interessado tiver tido conhecimento da deliberação, e não dá lugar a custas.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+###### Artigo 173.º
+
+A orientação técnica e a direcção administrativa do serviço poderão ser confiadas pelo conselho de administração, em tudo o que não seja da sua exclusiva competência, a um director delegado.
+
+§ 1.º O director delegado será responsável perante o conselho de administração, a cujas reüniões assistirá para efeitos de informação e consulta, por tudo o que diga respeito à disciplina e ao regular funcionamento do serviço.
+
+§ 2.º Compete ao director delegado apresentar anualmente ao conselho de administração o relatório da exploração e resultados do serviço, instruído com o inventário, balanço e contas respectivas.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+###### Artigo 174.º
+
+Os serviços municipalizados têm orçamento privativo, que será anexado ao orçamento municipal, inscrevendo-se neste os totais das suas receitas e despesas.
+
+§ 1.º A escrituração dos serviços municipalizados será montada nos moldes da contabilidade industrial.
+
+§ 2.º É obrigatória a formação de um fundo de reserva para amplições, prejuízos eventuais e depreciações ou amortizações extraordinárias, ao qual será consignada uma percentagem dos lucros de cada exercício, sem embargo das reintegrações periódicas dos valores imobilizados que constituem encargo de exploração.
+
+§ 3.º As perdas que porventura resultem da exploração serão cobertas pela Câmara, a esta pertencendo igualmente quaisquer lucros, os quais, no entanto, não lhe poderão ser entregues na parte em que correspondam a importâncias em dívida aos serviços municipalizados relativas a fornecimentos efectuados ou outros serviços prestados.
+
+§ 4.º O relatório, o balanço e as contas dos serviços municipalizados serão anualmente publicados, depois de aprovados pela câmara.
+
+§ 5.º O orçamento será elaborado em conformidade com o carácter industrial do serviço e tendo em atenção as exigências da exploração.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 226/93 - Diário da República n.º 144/1993, Série I-A de 1993-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1993-268600)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49479 - Diário do Governo n.º 303/1969, Série I de 1969-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063)
+
+###### Artigo 175.º
+
+É privativa das câmaras municipais a competência para contrair empréstimos destinados a fazer face às necessidades da exploração ou do desenvolvimento dos serviços.
+
+§ 1.º Não poderão ser contraídos empréstimos cujos encargos não tenham compensação suficiente no rendimento dos serviços.
+
+§ 2.º Os empréstimos não contraídos na Caixa Geral de Depósitos, Crédito e Previdência sê-lo-ão por forma que o encargo efectivo deles resultante não exceda o que proviria da taxa de juro exigida por aquele estabelecimento, salvo tratando-se de empréstimos por prazo não superior a dez anos e que se destinem a custear novas instalações.
+
+§ 3.º O disposto no § 1.º do artigo 673.º é aplicável aos empréstimos referidos neste artigo.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 614/71 - Diário do Governo n.º 304/1971, Série I de 1971-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1971-165979), em vigor a partir de 1972-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49479 - Diário do Governo n.º 303/1969, Série I de 1969-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063)
+
+###### Artigo 176.º
+
+O pessoal maior dos serviços municipalizados será todo contratado, pertencendo-lhe os direitos e obrigações do pessoal maior dos serviços especiais.
+
+§ 1.º O restante pessoal será assalariado a título permanente, quando pertença ao quadro, ou a título eventual.
+
+§ 2.º As funções de tesoureiro dos serviços municipalizados podem ser exercidas pelo tesoureiro da câmara municipal, mediante gratificação mensal de 300$00, 400$00 ou 600$00, conforme se tratar de serviços com receita ordinária até 300.000$00, de mais de 300.000$00 até 600.000$00 e de mais de 600.000$00.
+
+> Revogado pelo/a Artigo 71.º do/a [Lei n.º 50/2012 - Diário da República n.º 169/2012, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), em vigor a partir de 2012-09-01
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+### Capítulo X — Das federações de municípios
+
+#### Secção I — Disposições comuns
+
+###### Artigo 177.º
+
+Diz-se federação do municípios a associação de câmaras municipais, voluntária ou imposta por lei, para realização de interêsses comuns dos respectivos concelhos.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 178.º
+
+A federação de municípios pode ter por objecto:
+
+1.º O estabelecimento, unificação e exploração de serviços susceptíveis de serem municipalizados nos termos dêste Código;
+
+2.º A elaboração e execução de um plano comum de urbanização e expansão;
+
+3.º A administração de bens ou direitos comuns que convenha manter indivisos;
+
+4.º A organização e manutenção de serviços especiais comuns.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 179.º
+
+São órgãos da federação de municípios:
+
+1.º Uma comissão administrativa;
+
+2.º As câmaras municipais associadas.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 180.º
+
+A comissão administrativa da federação de municípios é constituída pelos presidentes das câmaras municipais associadas, servindo de presidente o presidente da câmara do concelho onde funcionem os respectivos serviços de secretaria, ou um procurador ao conselho do distrito designado pela junta distrital quando a federação não abranja o município onde aqueles serviços funcionem.
+
+§ único. Se os municípios federados pertencerem a mais de um distrito, o procurador a que se refere a parte final deste artigo será substituído por um representante do Governo, nomeado pelo Ministro do Interior.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2102 - Diário do Governo n.º 57/1960, Série I de 1960-03-10](https://diariodarepublica.pt/dr/detalhe/lei/2102-1960-281861)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42178 - Diário do Governo n.º 53/1959, Série I de 1959-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42178-1959-587184)
+
+###### Artigo 181.º
+
+Cabe à comissão administrativa da federação de municípios exercer, relativamente aos serviços federados, a competência que por êste Código fôr atribuída à câmara municipal do concelho federado de maior categoria.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 182.º
+
+As câmaras dos municípios federados exercem, na federação, as atribuïções que são conferidas pelo artigo 55.º aos conselhos municipais no concelho federado de maior categoria.
+
+§ 1.º As deliberações que impliquem a realização de obras públicas cujo custo provável não exceda 1000 contos não carecem de aprovação das câmaras municipais.
+
+§ 2.º A aprovação dos planos comuns de urbanização e expansão é da competência dos conselhos municipais, excepto nos concelhos de Lisboa e Porto, em que pertence às respectivas câmaras.
+
+§ 3.º As câmaras podem deliberar separadamente ou em sessão conjunta, contando-se, neste caso, um voto por cada câmara.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 183.º
+
+Os serviços municipalizados da federação serão geridos por um conselho de administração presidido pelo presidente da comissão administrativa, ou por quem ele designar, e composto por mais dois administradores eleitos pela comissão administrativa, de preferência entre os vogais dos conselhos municipais interessados.
+
+§ 1.º Quando o número de concelhos federados seja superior a quatro, a comissão administrativa elegerá mais dois administradores por cada três concelhos além de quatro, não podendo, porém, o número de vogais exceder seis.
+
+§ 2.º Os membros do conselho de administração terão direito, por cada reunião em que participarem, ao abono de senha de presença do montante de 150$00 e, aqueles que residam fora do concelho da sede da Federação, ao pagamento, por conta do orçamento desta, das despesas com a deslocação.
+
+§ 3.º O mandato dos vogais do conselho de administração durará um ano, podendo ser reconduzidos.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49479 - Diário do Governo n.º 303/1969, Série I de 1969-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063)
+
+###### Artigo 184.º
+
+As federações de municípios terão secretaria privativa.
+
+§ 1.º O pessoal das secretarias privativas será destacado das secretarias das câmaras municipais associadas, sem abrir vaga nos respectivos quadros.
+
+§ 2.º Quando as federações tenham apenas os objectivos referidos nos n.os 2.º e 4.º do artigo 178.º podem os seus serviços de secretaria correr pela secretaria de uma das câmaras que a constituem ou pela secretaria da junta distrital.
+
+§ 3.º Se em qualquer dos municípios associados existirem serviços municipalizados tendo por objecto outras atribuições além das que competem à federação, poderão os serviços de secretaria correr pela secretaria desses serviços municipalizados.
+
+§ 4.º No caso a que se refere o § 2.º, e quando se não verifique o disposto no § 1.º do artigo 140.º e no § único do artigo 327.º, as funções de tesoureiro serão desempenhadas pelo tesoureiro da respectiva câmara municipal ou junta distrital, mediante a gratificação mensal de 300$00, 400$00 ou 600$00, conforme se trate de federações com receitas até 300.000$00, de mais de 300.000$00 até 600.000$00, ou de mais 600.000$00.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2102 - Diário do Governo n.º 57/1960, Série I de 1960-03-10](https://diariodarepublica.pt/dr/detalhe/lei/2102-1960-281861)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42178 - Diário do Governo n.º 53/1959, Série I de 1959-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42178-1959-587184)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41060 - Diário do Governo n.º 81/1957, Série I de 1957-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41060-1957-651556)
+
+> Alterado pelo/a [Decreto-Lei n.º 36439 - Diário do Governo n.º 174/1947, Série I de 1947-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36439-1947-182380)
+
+###### Artigo 185.º
+
+O orçamento da federação é elaborado pela comissão administrativa e aprovado pelas câmaras e nêle se estabelecerá a cota de cada concelho para as despesas da federação.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+###### Artigo 186.º
+
+O julgamento das contas das federações de municípios é da competência do Tribunal do Contas.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+#### Secção II — Federações voluntárias
+
+###### Artigo 187.º
+
+A federação voluntária de municípios dissolve-se pelo preenchimento do fim a que se destinava, pela expiração do respectivo prazo e por deliberação da maioria das câmaras federadas.
+
+§ 1.º Exceptua-se o caso das federações de municípios que tenham por objecto a produção, o transporte ou a distribuição de energia eléctrica, para cuja dissolução bastará deliberação de qualquer das câmaras federadas, com aprovação do Governo, pelo Ministério da Economia.
+
+§ 2.º Quando se dissolver uma federação voluntária, o destino dos bens será determinado por acordo entre as câmaras ou, na falta de acordo, pelos tribunais.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), em vigor a partir de 2013-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2102 - Diário do Governo n.º 57/1960, Série I de 1960-03-10](https://diariodarepublica.pt/dr/detalhe/lei/2102-1960-281861)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42178 - Diário do Governo n.º 53/1959, Série I de 1959-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42178-1959-587184)
+
+#### Secção III — Federações obrigatórias
+
+###### Artigo 188.º
+
+É obrigatória:
+
+1.º A federação dos concelhos de Lisboa e Pôrto com os concelhos vizinhos em que a sua influência se faça sentir intensamente;
+
+2.º A federação de concelhos limítrofes de um concelho urbano, de qualquer ordem, com êste, quando seja considerada útil.
+
+###### Artigo 189.º
+
+A federação obrigatória é decretada pelo Ministro do Interior, ouvidas as câmaras municipais interessadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+###### Artigo 190.º
+
+Além dos objectivos que podem ser prosseguidos pelas federações em geral, é permitido especialmente às federações impostas pelo n.º 1.º do artigo 188.º:
+
+1.º Conceder a realização de obras e a exploração de serviços da sua competência;
+
+2.º Uniformizar as cláusulas dos contratos de concessão de obras ou serviços públicos em que outorgue ou tenha outorgado cada uma das câmaras associadas;
+
+3.º Exercer uma fiscalização comum sôbre os actos dos concessionários de obras ou serviços que interessem aos municípios federados;
+
+4.º Contratar em comum os fornecimentos necessários à administração dos respectivos municípios;
+
+5.º Elaborar regulamentos e posturas sôbre segurança, salubridade e estética das construções nas cidades, povoações ou zonas determinadas dos concelhos;
+
+6.º Criar serviços e instituïções e realizar obras comuns destinadas ao fomento do turismo;
+
+7.º Efectuar simultâneamente o resgate de serviços comuns que tenham sido objecto de concessões distintas dadas pelos municípios federados.
+
+###### Artigo 191.º
+
+Nenhum serviço público pode ser municipalizado ou concedido por qualquer dos municípios obrigatòriamente federados nos termos do n.º 1.º do artigo 188.º sem que prèviamente a comissão administrativa da federação se pronuncie sôbre a conveniência de esta o explorar ou conceder.
+
+§ único. O Govêrno pode decretar que determinado serviço, seja explorado ou concedido pela federação.
+
+###### Artigo 192.º
+
+A comissão administrativa das federações a que se refere o n.º 1.º do artigo 188.º será composta pelos presidentes das câmaras associadas.
+
+§ 1.º A presidência da comissão será exercida pelos presidentes das câmaras municipais de Lisboa e Porto, os quais em todas as votações terão tantos votos quantos os correspondentes ao número dos restantes municípios federados, menos um.
+
+§ 2.º Pertence à comissão exercer, nas matérias das suas atribuïções, a competência conferida por êste Código aos presidentes das câmaras dos concelhos mencionados no parágrafo anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41214 - Diário do Governo n.º 174/1957, Série I de 1957-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41214-1957-280000)
+
+###### Artigo 193.º
+
+Pertence às câmaras municipais, nas federações indicadas no n.º 1.º do artigo 188.º, o exercício da competência conferida por êste Código às câmaras municipais dos concelhos de Lisboa e Pôrto.
+
+###### Artigo 194.º
+
+O Govêrno exercerá, pelo que diz respeito às federações referidas no n.º 1.º do artigo 188.º, as mesmas atribuïções tutelares que êste Código lhe confere em relação aos concelhos de Lisboa e Pôrto.
+
+###### Artigo 195.º
+
+Consideram-se constituídas as seguintes federações:
+
+1.º Do concelho de Lisboa com os concelhos de Oeiras, Cascais, Loures e Sintra;
+
+2.º Do concelho do Pôrto com os concelhos de Vila Nova de Gaia, Valongo, Matozinhos, Maia e Gondomar.
+
+## Título III — Da freguesia
+
+### Capítulo I — Dos órgãos da administração paroquial
+
+###### Artigo 196.º
+
+Freguesia é o agregado de famílias que, dentro do território municipal, desenvolve uma acção social comum por intermédio de órgãos próprios.
+
+§ único. Cada freguesia forma uma pessoa moral de direito público.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 197.º
+
+São órgãos da administração paroquial:
+
+1.º As famílias, representadas pelos seus chefes na forma estabelecida na lei:
+
+2.º A junta de freguesia.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 198.º
+
+Em cada freguesia haverá um regedor, representante da autoridade municipal e directamente dependente do presidente da câmara.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+### Capítulo II — Da eleição da junta de freguesia
+
+#### Secção I — Eleitores e elegíveis
+
+###### Artigo 199.º
+
+Pertence privativamente às famílias, representadas pelos respectivos chefes, o direito de eleger as juntas de freguesia.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 200.º
+
+Para os efeitos dêste Código considera-se chefe de família:
+
+1.º O cidadão português com família legitimamente constituída que com êle viva em comunhão de mesa e habitação e sob a sua autoridade;
+
+2.º A mulher portuguesa, viúva, divorciada ou judicialmente separada de pessoa e bens, ou solteira, maior ou emancipada, quando de reconhecida idoneidade moral, que viva inteiramente sôbre si e tenha a seu cargo ascendentes, descendentes ou colaterais;
+
+3.º O cidadão português, maior ou emancipado, com mesa, habitação e lar próprios.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 201.º
+
+Não podem ser eleitores:
+
+1.º Os que não estejam no gôzo dos seus direitos civis e políticos;
+
+2.º Os interditos por sentença com trânsito em julgado e os notòriamente reconhecidos como dementes, embora não estejam interditos por sentença;
+
+3.º Os falidos ou insolventes, emquanto não forem rehabilitados;
+
+4.º Os pronunciados definitivamente e os que tiverem sido condenados criminalmente por sentença com trânsito em julgado, emquanto não fôr dada por expiada a respectiva pena e ainda que gozem de liberdade condicional;
+
+5.º Os que ostentem ideas contrárias à existência de Portugal como Estado independente ou propaguem doutrinas tendentes à subversão das instituïções e princípios fundamentais da ordem social;
+
+6.º Os indigentes, os que recebam subsídios da assistência pública e os que estejam recolhidos em estabelecimentos de beneficência;
+
+7.º Os que tenham adquirido a nacionalidade portuguesa, por naturalização ou casamento, há menos de dez anos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 202.º
+
+Não são elegíveis:
+
+1.º Os que não podem ser eleitores;
+
+2.º Os magistrados e funcionários administrativos e judiciais, os funcionários policiais e dos serviços aduaneiros, das contribuïções e impostos e da Fazenda Pública e do corpo diplomático e consular português;
+
+3.º Os que tenham contrato com a freguesia.
+
+§ único. A inelegibilidade do n.º 2.º não abrange os magistrados e funcionários nas situações de licença ilimitada, aposentados ou reformados.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção II — Recenseamento eleitoral
+
+###### Artigo 203.º
+
+O direito de votar é verificado pelo recenseamento eleitoral.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 204.º
+
+Compete à junta elaborar, conservar e rever anualmente o recenseamento dos chefes de família da freguesia.
+
+§ 1.º Só serão inscritos no recenseamento os chefes de família residentes na freguesia há mais de um ano e que declarem ser sua intenção permanecer nela.
+
+Exceptuam-se os funcionários públicos com domicílio necessário, que serão inscritos em seguida à nomeação ou transferência.
+
+§ 2.º Ninguém pode estar inscrito no recenseamento de mais de uma freguesia.
+
+§ 3.º A inscrição voluntária no recenseamento de uma freguesia implica a escolha de domicílio nessa freguesia.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 205.º
+
+A inscrição no recenseamento terá lugar oficiosamente ou por via de requerimento.
+
+§ 1.º A inscrição oficiosa far-se-á, ou por iniciativa da própria junta, em face das informações e declarações por ela directamente colhidas, ou em conseqüência dos mapas organizados pelos serviços públicos.
+
+§ 2.º A inscrição por via de requerimento terá por base:
+
+1.º Requerimento, escrito ou verbal, do próprio interessado, pedindo a inscrição no recenseamento, com o fundamento de que reúne os requisitos legais para ser inscrito;
+
+2.º Requerimento, assinado por dois ou mais chefes de família eleitores, pedindo a inscrição de cidadãos, residentes na freguesia, que, realizando as condições de capacidade eleitoral, não se encontrem ainda inscritos.
+
+§ 3.º Os requerimentos a que se refere o parágrafo anterior serão dirigidos ou apresentados ao presidente da junta de freguesia, indicando, além do nome, a idade, estado, profissão e morada das pessoas cuja inscrição se pretende e declarando ou confirmando a declaração, feita pelo recenseando, de que é sua intenção permanecer na freguesia.
+
+§ 4.º Qualquer chefe de família poderá recorrer da inscrição, ou da falta desta, para o presidente da câmara e da decisão dêste para o auditor administrativo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 206.º
+
+A junta elaborará o recenseamento da freguesia tomando por base o último recenseamento existente e fazendo nêle as alterações que se tornem necessárias, de modo que se conserve apenas a inscrição de todos aqueles que tenham as condições de capacidade eleitoral definidas neste Código.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 207.º
+
+Nos cadernos de recenseamento inscrever-se-á, adiante de cada nome de eleitor, a sua idade, estado, profissão e morada.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 208.º
+
+O recenseamento será revisto anualmente a fim de ser actualizado com a inscrição de novos eleitores ou com a eliminação daqueles cuja inscrição não seja de manter e corrigido quanto à idade, estado, profissão e morada dos recenseados cuja inscrição persistir.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 209.º
+
+O presidente da junta poderá convocar o pároco, o regedor ou quaisquer pessoas idóneas da freguesia, ou requisitar das estações oficiais os esclarecimentos de que necessite, a fim de obter todas as informações que julgue úteis à revisão do recenseamento.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 210.º
+
+Serão eliminados do recenseamento:
+
+1.º Os falecidos, sendo o óbito comprovado pela relação fornecida pelo conservador do registo civil ou ajudante do respectivo pôsto;
+
+2.º Os que se inscrevam no recenseamento de outra freguesia, se esta inscrição fôr confirmada pelo presidente da respectiva junta ou comprovada por certificado;
+
+3.º Os que se ausentem da freguesia por tempo superior a um ano, salvo os casos de serviço militar, prisão ou hospitalização;
+
+4.º Os que declarem a transferência do seu domicílio político;
+
+5.º Aqueles em que se vier a verificar algum dos fundamentos de incapacidade eleitoral enumerados no artigo 201.º
+
+§ único. A eliminação por qualquer outro fundamento só poderá ser ordenada pelos tribunais do contencioso administrativo precedendo recurso.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção III — Operações de recenseamento
+
+###### Artigo 211.º
+
+As operações do recenseamento terão início em 1 de Fevereiro de cada ano e serão assistidas e fiscalizadas pelo presidente da câmara municipal do concelho, ou delegado seu, a quem cumpre promover o pontual cumprimento das disposições legais e o esclarecimento das dúvidas que se suscitem.
+
+§ 1.º As irregularidades verificadas pelo presidente da câmara ou pelo seu delegado serão por aquele participadas ao governador civil do distrito, que as transmitirá ao Govêrno quando não caiba na sua competência resolvê-las.
+
+§ 2.º Nas freguesias dos concelhos de Lisboa e Pôrto as atribuïções de inspecção e assistência às operações do recenseamento eleitoral pertencem ao governador civil do distrito, com a cooperação dos administradores dos bairros.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 42142 - Diário do Governo n.º 32/1959, Série I de 1959-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42142-1959-590886) É prorrogado por vinte dias no ano corrente o início do prazo a que se refere o artigo 211.º do Código Administrativo relativamente às freguesias da cidade de Lisboa.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 212.º
+
+O presidente da junta de freguesia, até oito dias antes do designado para comêço das operações do recenseamento, tornará público, por edital afixado nos lugares do estilo, que a partir do dia 1 de Fevereiro e até ao dia 15 de Março poderão os chefes de família requerer a sua própria inscrição ou a de terceiros, quando uns ou outros não estiverem inscritos nos respectivos cadernos e reúnam as condições de capacidade eleitoral.
+
+§ 1.º Nas freguesias situadas em cidades ou vilas o edital será publicado, por uma só vez, em um ou dois jornais locais, havendo-os, e nas freguesias dos concelhos de Lisboa e Pôrto far-se-á a publicação, também por uma só vez, em dois jornais de grande circulação.
+
+§ 2.º O presidente da junta, no próprio dia da afixação do edital, remeterá cópia dêste ao presidente da câmara municipal do concelho. Nas freguesias dos concelhos de Lisboa e Pôrto a cópia do edital será remetida ao administrador do bairro.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 42142 - Diário do Governo n.º 32/1959, Série I de 1959-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42142-1959-590886) É prorrogado por vinte dias no ano corrente o início do prazo a que se refere o artigo 212.º do Código Administrativo relativamente às freguesias da cidade de Lisboa.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 213.º
+
+Os presidentes das câmaras municipais, e em Lisboa e Pôrto os administradores dos bairros, recebidas as cópias dos editais a que se refere o § 2.º do artigo anterior, oficiarão ao conservador do registo civil ou ajudante do respectivo pôsto, ao juiz de direito da comarca, aos directores dos estabelecimentos que sirvam para hospitalização de alienados e aos directores de estabelecimentos de assistência pública ou de beneficência particular existentes no concelho, comunicando-lhos o início das operações do recenseamento eleitoral e a obrigação que lhes incumbe de organizarem as relações e mapas a que se refere o artigo seguinte.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 214.º
+
+Até ao dia 15 de Fevereiro serão remetidos aos presidentes das câmaras municipais e, em Lisboa e no Porto, aos administradores dos bairros:
+
+1) Pelas repartições e serviços civis, militares ou militarizados do Estado e dos corpos administrativos, verbetes individuais do pessoal a incluir no recenseamento, bem como daquele que deverá deixar de o ser, ou cujos elementos de identificação tenham sofrido alteração;
+
+2) Pelos conservadores do registo civil ou ajudantes dos postos, relações dos chefes de família nas condições de serem eleitores falecidos no ano anterior;
+
+3) Pelos juízes de direito e auditores dos tribunais especiais, por intermédio dos chefes das respectivas secretarias, relações dos indivíduos que durante o ano anterior tenham sido condenados a pena maior ou interditos, por sentença, da regência da sua pessoa e administração dos seus bens, privados do exercício de direitos políticos ou declarados falidos ou insolventes e não reabilitados, desde que a sentença tenha transitado em julgado.
+
+§ 1.º Os verbetes e as relações a que este artigo se refere serão dactilografados, individualizarão as pessoas pelo nome, data do nascimento, estado, profissão e morada e serão remetidos ao presidente da câmara municipal do concelho ou administrador do bairro do seu último domicílio, devendo ser acompanhados do ofício de remessa em que, quanto aos primeiros, expressamente se mencione o número de verbetes que o acompanhe.
+
+§ 2.º O Ministro do Interior poderá estabelecer, por portaria, os modelos dos verbetes e das relações de que trata o presente artigo, bem como o seu uso obrigatório, e determinar que constituam exclusivo da Imprensa Nacional.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 215.º
+
+Até ao dia 15 de Março os chefes das secretarias das câmaras municipais e, em Lisboa e Porto, os secretários das administrações dos bairros, servindo-se dos elementos referidos no artigo anterior, organizarão, relativamente a cada freguesia, a relação dos indivíduos que, em face daqueles elementos, devem ser inscritos ou eliminados do recenseamento.
+
+§ 1.º O processo organizado nos termos dêste artigo será imediatamente submetido à apreciação do presidente da câmara ou administrador do bairro, que, em despacho fundamentado, o declarará organizado em conformidade com a lei ou ordenará as modificações que tiver por necessárias.
+
+§ 2.º O presidente da câmara municipal ou administrador do bairro providenciarão de forma que as relações referidas neste artigo estejam definitivamente organizadas e delas sejam entregues cópias às juntas de freguesia a que respeitam até ao dia 25 de Março.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 216.º
+
+As juntas, coligidos todos os elementos referidos nos artigos anteriores, organizarão até 1 de Maio o recenseamento geral da freguesia, pela ordem alfabética dos eleitores
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 217.º
+
+Uma cópia fiel do recenseamento, tendo, em listas separadas, as relações dos chefes de família que foram eliminados e dos que foram inscritos de novo, será exposta na sede da junta durante cinco dias, para exame e reclamação dos interessados.
+
+§ 1.º A cópia a que se refere o corpo deste artigo pode ser substituída pela exposição do ficheiro dos eleitores, que há-de servir de base à posterior organização do livro de recenseamento, de harmonia com o disposto nos artigos 216.º, 219.º e 220.º
+
+§ 2.º Durante o prazo de reclamação, podem os interessados ou qualquer chefe de família eleitor exigir que lhes seja passado documento comprovativo da inscrição deles próprios, ou de outros, no recenseamento. Tal documento será gratuito e devidamente assinado e autenticado, dele devendo ser extraído duplicado, para ficar arquivado na junta de freguesia.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 218.º
+
+Da inscrição ou da falta desta podem o interessado ou qualquer chefe de família eleitor reclamar para o presidente da câmara municipal do concelho, ou, em Lisboa e Porto, para o administrador do bairro, nos cinco dias imediatos ao do termo da exposição do recenseamento.
+
+§ único. Da decisão do presidente da câmara ou administrador do bairro, a qual será tomada nos cinco dias imediatos, cabe recurso, dentro dos cinco dias seguintes, para o auditor administrativo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 219.º
+
+Até 31 de Maio os auditores administrativos proferirão sentença sobre todos os recursos interpostos dentro dos prazos fixados no artigo anterior.
+
+§ 1.º Os auditores poderão fazer apensar todos os processos de recurso da mesma freguesia cujos fundamentos sejam idênticos, para o efeito de neles proferirem uma única sentença.
+
+§ 2.º Proferida a sentença, da qual não haverá recurso, o processo será enviado à junta de freguesia nas 48 horas seguintes, para esta, até ao dia 10 de Junho, introduzir no recenseamento as alterações que foram ordenadas.
+
+§ 3.º O recenseamento que sofrer quaisquer modificações por virtude de sentença proferida pelos auditores será de novo patente durante cinco dias na sede da junta a todas as pessoas que o queiram examinar.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 220.º
+
+O recenseamento será numerado e rubricado em todas as suas folhas pelo presidente da junta e terá termo de abertura e encerramento, subscrito pelo mesmo presidente e vogais da junta, declarando-se no termo de encerramento o número de eleitores inscritos.
+
+§ 1.º Os auditores poderão fazer apensar todos os processos de recurso da mesma freguesia cujos fundamentos sejam idênticos, para o efeito de nêles proferirem uma única sentença.
+
+§ 2.º Proferida a sentença, da qual não haverá recurso, o processo será enviado à junta de freguesia nas quarenta e oito horas seguintes, para esta, até ao dia 10 de Maio, introduzir no recenseamento as alterações que foram ordenadas.
+
+§ 3.º O recenseamento que sofrer quaisquer modificações por virtude de sentença proferida pelos auditores será de novo patente durante cinco dias na sede da junta a todas as pessoas que o queiram examinar.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 221.º
+
+Qualquer pessoa poderá tirar cópias do recenseamento e fazê-las autenticar pelo secretário ou escrivão da junta, mediante o pagamento de metade da taxa a que se refere o artigo 225.º, que terá o destino indicado no § único do mesmo artigo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 222.º
+
+A junta de freguesia guardará e conservará sob sua responsabilidade o recenseamento, bem como todos os documentos que serviram para a sua elaboração.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 223.º
+
+O presidente a junta de freguesia, organizado definitivamente o recenseamento, remeterá ao presidente da câmara municipal do concelho, e, em Lisboa e Porto, ao administrador do respectivo bairro, até ao dia 1 de Julho, uma cópia por ele verificada e rubricada em todas as suas folhas.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 224.º
+
+Recebidas as cópias a que se refere o artigo anterior, o presidente da câmara municipal, e em Lisboa e Pôrto o administrador do bairro, mandarão proceder à organização do livro do recenseamento eleitoral do concelho ou bairro, do qual constarão, dispostos por ordem alfabética, os recenseamentos de todas as freguesias que os compõem.
+
+§ único. Do livro do recenseamento, que deverá estar concluído até ao dia 1 de Agosto, serão extraídas duas cópias, para serem remetidas, até ao dia 31 do mesmo mês, uma ao governo civil do distrito e outra à Direcção-Geral de Administração Política e Civil.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 225.º
+
+O vogal secretário ou o escrivão da junta de freguesia, o chefe de secretaria da câmara municipal e o secretário do governo civil do distrito são obrigados a passar, dentro de oito dias e independentemente de qualquer despacho, todas as certidões que a requerimento verbal ou escrito de qualquer interessado lhes forem pedidas, de todo ou parte do recenseamento ou da cópia arquivados na secretaria, mediante a taxa de 10$00 por cada certidão, acrescendo 2$00 por cada nome transcrito além de cinco.
+
+§ único. A importância das taxas cobradas nos termos dêste artigo constitue receita da junta de freguesia a que respeita o recenseamento de que se extraíram as certidões.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 226.º
+
+Todo o processo eleitoral, incluindo os recursos interpostos nos tribunais administrativos e os reconhecimentos notariais, é isento de imposto do sêlo ou de quaisquer taxas, salvo o que fica disposto no artigo precedente.
+
+§ único. Todos os documentos destinados a instruir processos eleitorais, e que por êsse motivo são abrangidos pela isenção a que se refere o corpo dêste artigo, deverão declarar o fim para que são passados, e para nenhum outro poderão ser utilizados.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 227.º
+
+Além do procedimento disciplinar que lhes couber, incorrem nas penalidades correspondentes ao crime do artigo 304.º do Código Penal as entidades ou funcionários que se recusem a passar as certidões ou a praticar os actos necessários à instrução dos recenseamentos e processos eleitorais ou que sejam responsáveis pela sua demora.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção IV — Apresentação de listas
+
+###### Artigo 228.º
+
+Os vogais das juntas de freguesia são eleitos em lista completa.
+
+§ 1.º Só podem ser votadas as listas apresentadas ao presidente da câmara municipal do respectivo concelho, ou em Lisboa e Pôrto ao administrador do bairro, até doze dias antes daquele que houver sido designado para a eleição.
+
+§ 2.º Cada lista deverá conter seis nomes, sendo três para efectivos e três para substitutos, e será acompanhada de uma declaração, assinada pelos apresentantes, indicando a freguesia a que respeita.
+
+§ 3.º A apresentação das listas será feita por cinco eleitores inscritos no recenseamento eleitoral, dos quais o primeiro será considerado como mandatário dos restantes para o efeito de os representar em todas as operações subseqüentes em que tenham de intervir.
+
+§ 4.º Concluída a apresentação das listas, o presidente da câmara ou vereador seu delegado, e em Lisboa e Pôrto os administradores dos bairros, procederão à verificação delas, podendo convidar o mandatário dos apresentantes a corrigir quaisquer deficiências notadas que não sejam de molde a invalidá-las.
+
+§ 5.º As listas cuja apresentação não obedeça ao disposto nos §§ 1.º, 2.º e 3.º dêste artigo ter-se-ão como não apresentadas.
+
+§ 6.º As listas em que figurem candidatos cuja inelegibilidade for documentalmente comprovada por qualquer eleitor ou oficiosamente verificada pelo presidente da câmara ou administrador do bairro, em face de informações oficiais, ter-se-ão igualmente por não apresentadas, se o respectivo mandatário não demonstrar, no prazo que lhe for designado, a falta de fundamento da arguição e aquele não propuser um candidato elegível em substituição do eliminado.
+
+§ 7.º Nas listas em que o número de candidatos fôr superior ao legal excluir-se-ão os últimos nomes excedentes.
+
+§ 8.º Quando o número de candidatos fôr inferior ao fixado na lei, será a lista havida como não apresentada se o mandatário, no prazo que lhe fôr assinado, a não preencher em forma legal.
+
+§ 9.º Os funcionários públicos civis ou militares na efectividade de serviço não poderão ser incluídos nas listas sem prévia autorização do Govêrno, dada pelo Ministro respectivo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 229.º
+
+De todas as operações referidas no artigo anterior será lavrada uma acta onde sucintamente se enumerem as razões por que foram aceites ou recusadas as listas apresentadas.
+
+§ 1.º Desta acta, que será assinada pelo presidente da câmara ou vereador seu delegado, e em Lisboa e Pôrto pelo administrador do bairro, e bem assim pelos mandatários ou eleitores que se apresentem a declarar que o desejam fazer, se extrairá uma cópia que será afixada imediatamente no átrio da câmara municipal ou administração de bairro.
+
+§ 2.º A verificação das listas e as decisões que sôbre elas tomar o presidente da câmara ou vereador seu delegado e o administrador do bairro, bem como a redacção da acta, devem estar concluídas até oito dias antes do designado para a eleição.
+
+§ 3.º Acto seguido à aprovação das listas, o presidente da câmara ou administrador do bairro remeterão aos presidentes das juntas de freguesia cópias devidamente autenticadas das que tiverem sido aprovadas.
+
+§ 4.º Das decisões do presidente da câmara ou vereador seu delegado e do administrador do bairro, sôbre aprovação ou rejeição de listas, pode qualquer chefe de família eleitor recorrer nas quarenta e oito horas imediatas para o auditor administrativo, que proferirá sentença dentro dos três dias imediatos.
+
+Das sentenças do auditor administrativo, que serão imediatamente comunicadas ao presidente da câmara ou administrador do bairro, não haverá recurso.
+
+§ 5.º As sentenças dos auditores de que resulte qualquer modificação às decisões do presidente da câmara ou vereador seu delegado ou do administrador do bairro serão imediatamente comunicadas por aquelas autoridades aos presidentes das juntas de freguesia a que respeitem, a fim de lhes darem, cumprimento.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção V — Eleição e assembleas ou secções de voto
+
+###### Artigo 230.º
+
+Os vogais das juntas de freguesia são eleitos por escrutínio secreto.
+
+§ 1.º A eleição realizar-se-á em qualquer domingo do mês de Outubro, conforme o presidente da câmara designar, e será anunciada com quinze dias de antecedência, pelo menos, por meio de editais afixados nos lugares do estilo e publicados em jornais locais, se os houver.
+
+§ 2.º Nos concelhos de Lisboa e Pôrto a eleição realizar-se-á num domingo do mês de Outubro designado pelo governador civil dos respectivos distritos, nos termos do parágrafo anterior.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 231.º
+
+Cada freguesia constitue uma assemblea eleitoral.
+
+§ 1.º Quando o número de eleitores o justifique poderão os presidentes das câmaras municipais, e em Lisboa e Pôrto os governadores civis, até dez dias antes do designado para o acto eleitoral, desdobrar as assembleas em secções de voto, demarcando-as de forma que cada uma destas não abranja mais de 2:000 eleitores.
+
+§ 2.º Todos os desdobramentos ordenados serão comunicados ao presidente da junta de freguesia a que respeitem e à Direcção Geral de Administração Política e Civil.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 232.º
+
+As assembleas eleitorais deverão reünir-se em edifícios públicos e, na falta dêstes, em edifícios particulares, cedidos para tal efeito.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 233.º
+
+No domingo imediatamente anterior ao designado para o acto eleitoral o presidente da junta, por edital afixado nos lugares do estilo, anunciará o dia, local e hora em que reúnem a assemblea ou as secções de voto, tornando público os desdobramentos, se os houver.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 234.º
+
+A assemblea e as secções de voto serão presididas por quem o presidente da câmara municipal nomear por alvará até ao domingo anterior à eleição. Nos concelhos de Lisboa e Pôrto esta nomeação pertence ao governador civil do distrito.
+
+§ 1.º O presidente da câmara, e em Lisboa e Pôrto os governadores civis, nomearão também um suplente para presidir à assemblea ou secção de voto no impedimento do presidente efectivo.
+
+§ 2.º As nomeações serão comunicadas, pelo menos até à antevéspera da eleição, aos presidentes das juntas de freguesia, que as transmitirão aos nomeados.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção VI — Votação e apuramento
+
+###### Artigo 235.º
+
+A mesa da assemblea eleitoral ou secção de voto constitue-se pelas nove horas do domingo marcado para a eleição.
+
+§ único. A mesa constituída antes da hora fixada neste artigo considera-se ilegítima, sendo nulos todos os actos eleitorais em que ela interferir.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 236.º
+
+As mesas eleitorais são constituídas, além do presidente, por dois escrutinadores, dois secretários e dois suplentes, todos escolhidos pelo presidente.
+
+§ único. Se uma hora depois da fixada para a formação da mesa o presidente não comparecer, ou se êste se ausentar antes de terminada a eleição, fará as suas vezes o suplente nomeado ou, na falta dêste, o mais velho dos eleitores presentes.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 237.º
+
+O presidente da junta de freguesia é obrigado a assistir à constituïção da mesa ou a fazer-se representar por qualquer dos vogais da junta.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 238.º
+
+Constituída a mesa, o presidente da junta ou quem o representar fará entrega ao presidente da assemblea ou secção de voto de uma cópia das listas admitidas ao sufrágio e dois cadernos dos eleitores que podem votar e três cadernos para nêles se lavrarem as actas da eleição, com termos de abertura e rubricas.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 239.º
+
+Os boletins de voto terão a forma rectangular, com as dimensões de 0m,18 x0m,16, e podem ser manuscritos, dactilografados, litografados ou impressos em papel almaço branco e sem marca ou sinal exterior.
+
+§ único. Os boletins de voto inserirão os nomes dos candidatos efectivos e substitutos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 240.º
+
+O presidente e demais componentes da mesa que forem eleitores podem votar em primeiro lugar, se estiverem inscritos no respectivo caderno, seguindo-se-lhes os magistrados, autoridades e vogais dos corpos administrativos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 241.º
+
+Depois de votarem as entidades a que se refere o artigo anterior, um dos secretários procederá à chamada dos eleitores, pela ordem alfabética, e, à medida que cada um entregar o seu boletim de voto ao presidente, os dois escrutinadores descarregarão simultaneamente o nome do votante dos cadernos do recenseamento, após o que a lista será lançada na urna.
+
+§ 1.º Finda a primeira chamada seguir-se-á outra, igualmente por ordem alfabética, dos eleitores que não tiverem votado e, terminada esta, a mesa aguardará por duas horas os eleitores que se apresentem a votar, após o que o presidente declarará encerrada a votação.
+
+§ 2.º Nas assembleias ou secções que abranjam mais de 500 eleitores poderá o presidente da mesa decidir que não haja chamadas gerais, realizando-se a votação à medida que os eleitores se aproximem da mesa. Para este efeito dispor-se-ão em fila, segundo a ordem da chegada, e o acesso à mesa pode ser regulado por agentes da autoridade local ou por eleitores designados pelo presidente da mesa.
+
+§ 3.º Nos casos a que se refere o parágrafo anterior a admissão dos eleitores far-se-á até às 15 horas, ou, se o número de eleitores inscritos for superior a 1:000, até às 17 horas. Depois destas horas apenas podem votar os eleitores então presentes.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a [Decreto-Lei n.º 37994 - Diário do Governo n.º 203/1950, Série I de 1950-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37994-1950-487514)
+
+###### Artigo 242.º
+
+Nas freguesias onde funcione uma única assemblea, logo que a votação seja encerrada proceder-se-á ao apuramento da eleição, fazendo-se a contagem do número de votos de cada lista e de cada candidato nela inscrito.
+
+§ 1.º Nas freguesias onde a votação se tenha desdobrado por secções de voto, concluída em cada uma destas a contagem dos votos de cada lista e de cada candidato, as respectivas mesas, depois de lavrada acta, da qual constarão os actos essenciais ocorridos, reünir-se-ão na sede da junta de freguesia a fim de procederem ao apuramento da eleição.
+
+§ 2.º A assemblea de apuramento das secções de voto reünir-se-á no próprio dia da eleição, sob a presidência do mais velho dos presidentes das respectivas mesas, que escolherá de entre os presentes um secretário e um escrutinador.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 243.º
+
+Das actas das operações da votação e apuramento constarão:
+
+1.º Os nomes dos cidadãos que constituíram a mesa;
+
+2.º O número de votos obtidos por cada lista e por cada candidato;
+
+3.º A lista considerada eleita;
+
+4.º Quaisquer ocorrências dignas de mencionar-se.
+
+§ único. Desta acta serão extraídas duas cópias, para serem remetidas, uma ao governador civil do distrito e outra ao presidente da câmara municipal do concelho ou em Lisboa e Pôrto ao administrador do bairro.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 244.º
+
+No apuramento só serão contados os boletins de voto correspondentes às listas aprovadas para sufrágio.
+
+§ único. Os eleitores poderão cortar algum ou alguns dos nomes constantes do boletim de voto, mas nunca substituí-los por outros.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 245.º
+
+Considerar-se-ão eleitos os candidatos que constituem a lista vencedora.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 246.º
+
+Se decorridas quarenta e oito horas sôbre a proclamação não houver reclamação ou protesto, considerar-se-ão definitivamente proclamados os vogais eleitos. Havendo reclamação ou protesto, o presidente da câmara municipal, e, em Lisboa e Pôrto, o administrador do bairro, decidi-lo-á nas quarenta e oito horas seguintes, cabendo recurso desta decisão, dentro de igual prazo, para o auditor administrativo.
+
+§ único. O recurso relativo à eleição dos vogais das juntas de freguesia será decidido pelos auditores no prazo de oito dias a contar da sua interposição.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+### Capítulo III — Da junta de freguesia
+
+#### Secção I — Composição
+
+###### Artigo 247.º
+
+A junta de freguesia é o corpo administrativo da freguesia e compõe-se de três vogais, eleitos quadrienalmente pelos chefes de família.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 248.º
+
+Nos casos de falecimento, licença, impedimento temporário, exclusão do lugar ou perda de mandato dos vogais efectivos, serão chamados pelo presidente da junta os substitutos mais votados, ou os mais velhos quando tenha havido empate na votação.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 249.º
+
+As juntas têm presidente, secretário e tesoureiro, eleitos na primeira reünião posterior à sua eleição.
+
+§ único. O presidente é substituído nos seus impedimentos pelo secretário.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 250.º
+
+As funções de vogal da junta de freguesia são obrigatórias e gratuitas.
+
+§ 1.º Constituem motivo de escusa:
+
+1.º Exercício das funções de vogal efectivo da mesma junta no quadriénio anterior, ou de substituto quando tenha servido na maior parte do quadriénio;
+
+2.º Idade superior a sessenta anos à data da eleição;
+
+3.º Moléstia crónica de que resulte impossibilidade ou grave dificuldade para o exercício do cargo.
+
+§ 2.º Aplica-se ao pedido de escusa das funções de vogal da junta de freguesia o disposto quanto aos vogais do conselho municipal.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 251.º
+
+Perdem o mandato os vogais:
+
+1.º Que aceitem cargos ou adquiram situações que os tornem inelegíveis;
+
+2.º Que contraiam com outro vogal mais votado, ou, no caso de igualdade de votação, mais velho, parentesco por afinidade em qualquer grau da linha recta;
+
+3.º Que, sendo eleitos vogais da câmara municipal ou da junta distrital, optem por qualquer destas.
+
+§ único. Não podem ser chamados a servir efectivamente os substitutos em relação aos quais se verifique alguma das incompatibilidades previstas neste artigo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 252.º
+
+A exclusão do lugar ou perda do mandato de vogal será declarada pelo presidente da câmara e em Lisboa e Pôrto pelo governador civil.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção II — Atribuïções e competência
+
+###### Artigo 253.º
+
+É das atribuïções das juntas de freguesia deliberar:
+
+1.º Sôbre a elaboração, conservação e revisão anual do recenseamento dos chefes de família;
+
+2.º Sôbre a organização, conservação e revisão anual do recenseamento dos pobres e dos indigentes da freguesia;
+
+3.º Sôbre o modo de fruïção dos bens, pastos e quaisquer frutos do logradouro comum e exclusivo da freguesia ou dos moradores de parte dela;
+
+4.º Sôbre a divisão, por sua iniciativa ou a requerimento de dois terços dos chefes de família utentes, dos baldios paroquiais dispensáveis do logradouro comum e próprios para cultura que não sejam destinados pelo organismo oficial competente ao estabelecimento de casais agrícolas;
+
+5.º Sôbre a passagem ao domínio privado, para conveniente fruïção ou aproveitamento, dos baldios paroquiais dispensáveis do logradouro comum e impróprios para cultura, ou fora do logradouro comum;
+
+6.º Sôbre a administração dos bens próprios da freguesia;
+
+7.º Sôbre a plantação de matas, arvoredos e corte de lenhas nos terrenos paroquiais, com a assistência técnica dos serviços florestais, quando fôr julgada conveniente;
+
+8.º Sobre a fruïção c aproveitamento das águas públicas que por lei estejam na sua administração;
+
+9.º Sôbre a construção, conservação e reparação de fontes para o abastecimento dos moradores da freguesia;
+
+10.º Sôbre a construção, conservação e reparação dos caminhos que não estejam a cargo das câmaras municipais;
+
+11.º Sôbre o estabelecimento, ampliação e administração dos cemitérios existentes na área da freguesia;
+
+12.º Sôbre a fundação e administração de instituïções de utilidade paroquial, sua dotação e extinção, e auxílio às de iniciativa particular;
+
+13.º Sôbre a administração e conservação dos templos e objectos mobiliários que os guarnecem, quando não haja corporação fabriqueira legalmente constituída;
+
+14.º Sôbre a passagem de atestados para que a lei lhes dê competência;
+
+15.º Sôbre a administração dos mercados por elas criados ou de que sejam concessionárias.
+
+###### Artigo 254.º
+
+Em matéria de assistência, é das atribuïções das juntas:
+
+1.º Promover, solicitar e distribuir socorros pelas pessoas necessitadas da freguesia, prèviamente inscritas no respectivo recenseamento;
+
+2.º Promover o repatriamento dos indigentes estranhos à freguesia;
+
+3.º Proteger as crianças pobres, promovendo a criação e o auxílio a postos de protecção à maternidade e à primeira infância;
+
+4.º Estabelecer cantinas junto das escolas primárias, aulas de gimnástica infantil e colónias de férias e subsidiar as existentes;
+
+5.º Fiscalizar o tratamento dos expostos, desvalidos e abandonados entregues a amas da sua freguesia, participando às câmaras e às autoridades sanitárias de quem haja recebido instruções as faltas que notar;
+
+6.º Solicitar das autoridades providências para os casos de calamidade pública, internamento de alienados e condução de enfermos para os hospitais, quando não tenham recursos para ser tratados em casa, e promover a organização de postos de socorros urgentes;
+
+7.º Subsidiar, de harmonia com a informação dos respectivos professores, estudantes pobres da freguesia que pretendam freqüentar escolas técnicas, mas sòmente emquanto revelem zêlo e aptidão.
+
+###### Artigo 255.º
+
+Para o desempenho das suas atribuïções, compete às juntas de freguesia:
+
+1.º Fazer, interpretar, modificar e revogar posturas sôbre os objectos compreendidos nos n.os 3.º, 7.º o 8.º do artigo 253.º e os regulamentos de administração paroquial;
+
+2.º Alienar ou aforar, nos termos da lei, os baldios divididos;
+
+3.º Adquirir bens mobiliários e imobiliários necessários para os serviços da freguesia e alienar os dispensáveis;
+
+4.º Conceder servidões sôbre os bens paroquiais, sempre com a natureza de precárias;
+
+5.º Aceitar heranças, legados e doações feitos às freguesias ou a estabelecimentos paroquiais, contanto que a aceitação das heranças seja a benefício de inventário;
+
+6.º Celebrar contratos de arrendamento, activa e passivamente, e de prestação de serviços;
+
+7.º Contratar com emprêsas individuais ou colectivas os fornecimentos necessários ao funcionamento dos serviços e à execução das obras paroquiais;
+
+8.º Efectuar seguros, contra quaisquer riscos, em companhias nacionais devidamente autorizadas;
+
+9.º Instaurar pleitos e defender-se nêles, podendo confessar, desistir ou transigir, se não houver ofensa de direitos de terceiro;
+
+10.º Executar obras públicas por administração directa ou empreitada;
+
+11.º Propor ao Govêrno a expropriação por utilidade pública dos imóveis necessários à realização dos seus fins;
+
+12.º Estabelecer taxas;
+
+13.º Requerer a comparticipação financeira do Estado para a realização de melhoramentos rurais, obras de águas e saneamentos;
+
+14.º Aprovar o orçamento elaborado pelo presidente;
+
+15.º Providenciar sôbre a arrecadação das receitas paroquiais;
+
+16.º Autorizar as despesas de harmonia com o orçamento;
+
+17.º Contratar, assalariar, louvar, punir e exonerar os seus empregados e assalariados;
+
+18.º Atestar a residência, vida, costumes e situação económica dos paroquianos.
+
+§ 1.º As deliberações das juntas de freguesia que digam respeito aos n.os 1.º, 3.º e 4.º e à aquisição onerosa, ou gratuita com encargos, de bens imobiliários serão submetidas à aprovação do presidente da câmara municipal ou, em Lisboa e Pôrto, do governador civil.
+
+§ 2.º As posturas paroquiais serão sempre submetidas à aprovação do presidente da câmara, que examinará a sua legalidade e conformidade com os interêsses do município. Da decisão do presidente da câmara que julgar da legalidade das posturas poderá a junta de freguesia recorrer para o governador civil e da decisão dêste para o tribunal competente, e da decisão que as julgar pouco conformes com os interêsses do município poderá a mesma junta recorrer para o conselho municipal ou, tratando-se dos concelhos de Lisboa e Pôrto, para a câmara municipal.
+
+§ 3.º As juntas de freguesia podem cominar, nas posturas que elaborarem, a pena de multa até 500$00.
+
+§ 4.º São aplicáveis às juntas de freguesia as disposições dos artigos 53.º e 54.º, salvo, quanto ao primeiro, no que respeita à afixação dos regulamentos e posturas em todas as freguesias do concelho.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 77/74 - Diário do Governo n.º 52/1974, Série I de 1974-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1974-412775)
+
+###### Artigo 256.º
+
+A pobreza ou indigência de qualquer morador da freguesia prova-se por meio de certidão extraída do respectivo recenseamento paroquial.
+
+§ 1.º Consideram-se indigentes os indivíduos de qualquer sexo ou idade impossibilitados do trabalhar e sem recursos para viver nem família que possa mantê-los ou prestar-lhes alimentos nos termos da lei civil.
+
+§ 2.º Consideram-se pobres os indivíduos de qualquer sexo ou idade cujo salário ou rendimentos sejam insuficiente para a sua sustentação e dos seus, em harmonia com a classe social a que pertençam, e os indivíduos doentes ou de avançada idade, ou do sexo feminino de qualquer idade, cujos rendimentos sejam manifestamente insuficientes para a sua manutenção e que não tenham possibilidade de trabalhar em actividade compatível com a sua situação especial.
+
+§ 3.º Os indivíduos transitòriamente desempregados são inscritos em cadastro à parte, nos termos da respectiva legislação.
+
+§ 4.º Da recusa de inscrição pela junta de freguesia pode o interessado recorrer para o presidente da câmara municipal.
+
+§ 5.º A qualquer paroquiano é permitido recorrer fundamentadamente para o presidente da câmara municipal contra as inscrições no recenseamento a que se refere êste artigo.
+
+§ 6.º As certidões de pobreza e indigência são passadas gratuitamente e isentas de imposto do sêlo.
+
+§ 7.º As certidões de indigência podem ser substituídas por atestados passados pelo presidente da junta, sob declaração jurada de dois vizinhos, quando se trate de indivíduos falecidos sem família nem bens e que não estivessem inscritos no recenseamento paroquial ou em casos de extrema urgência que não permitam esperar pela reünião da junta.
+
+###### Artigo 257.º
+
+A residência e a vida provam-se por atestado assinado pelo presidente da junta de freguesia, precedendo deliberação desta, que, no caso de os vogais da junta não terem conhecimento directo dos factos a atestar, será tomada sobre informações prestadas em documento, que ficará arquivado na secretaria, por dois chefes de família de reconhecida probidade, inscritos no respetivo recenseamento, ou por dois comerciantes estabelecidos na freguesia, também de reconhecida probidade.
+
+§ 1.º Se a pessoa que necessita fazer prova de residência fôr chefe de família inscrito no recenseamento paroquial, pode o atestado ser substituído por certidão extraída do recenseamento.
+
+§ 2.º A certidão de pobreza ou indigência que contenha referência à residência do interessado faz prova plena dêste facto e dispensa a junção no mesmo processo de atestado de residência.
+
+§ 3.º Nos casos de urgência o presidente da junta pode passar os atestados a que se refere êste artigo independentemente de prévia deliberação da junta.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção III — Constituïção, reüniões e deliberações
+
+###### Artigo 258.º
+
+Nos anos em que deva proceder-se à constituição de nova junta de freguesia reunir-se-á esta no dia 15 de Novembro, para o efeito da verificação dos poderes dos seus membros, da eleição do presidente, secretário e tesoureiro e do representante da junta ao conselho municipal, nos casos indicados na primeira parte do § 1.º do artigo 16.º, continuando, porém, a antiga junta para tudo o mais em exercício de funções até 31 de Dezembro.
+
+§ 1.º A convocação da reünião será feita pelo presidente da câmara com cinco dias de antecedência, pelo menos, por meio de avisos enviados aos vogais pelo correio, sob registo e com aviso de recepção, e publicados em jornais locais, se os houver.
+
+§ 2.º Os poderes dos vogais da junta de freguesia serão verificados pelo presidente da câmara municipal, ou seu delegado, e a junta dir-se-á constituída e poderá deliberar desde que esteja verificada a legitimidade dos poderes da maioria dos vogais.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 259.º
+
+As juntas de freguesia têm uma reünião ordinária mensal e as extraordinárias que o presidente convocar por imperiosa necessidade de serviço público.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 260.º
+
+Quando as juntas de freguesia não reúnam por falta de número, o presidente deverá logo designar nova reünião, anunciando-a por aviso afixado à entrada do edifício onde se realizarem as sessões da junta.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 261.º
+
+Em tudo o mais respeitante às reüniões e deliberações das juntas de freguesia observar-se-á o que vai disposto sôbre constituïção e funcionamento dos corpos administrativos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção IV — Presidente da junta
+
+###### Artigo 262.º
+
+Compete ao presidente da junta de freguesia:
+
+1.º Convocar as reüniões extraordinárias da junta;
+
+2.º Colaborar com o presidente da Câmara Municipal em tudo o que seja de interêsse para a freguesia;
+
+3.º Dirigir os trabalhos nas reüniões da junta de freguesia;
+
+4.º Elaborar o orçamento;
+
+5.º Organizar as contas de gerência;
+
+6.º Executar e fazer executar as deliberações da junta;
+
+7.º Inspeccionar os serviços paroquiais;
+
+8.º Prover à desobstrução das ruas e caminhos da freguesia;
+
+9.º Representar a junta em juízo ou fora dêle, precedendo, no primeiro caso, deliberação sôbre o pleito, e escolher os advogados que forem necessários;
+
+10.º Publicar as posturas e regulamentos paroquiais;
+
+11.º Assinar toda a correspondência da junta.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção V — Serviços paroquiais
+
+###### Artigo 263.º
+
+As juntas de freguesia têm secretaria privativa, a cargo do vogal secretário ou de um escrivão, com os demais empregados que forem necessários. Quando as suas receitas anuais forem superiores a 250 contos poderão contratar um fiel de tesoureiro, sob proposta e responsabilidade dêste.
+
+§ 1.º O pessoal das juntas de freguesia será todo contratado ou assalariado.
+
+§ 2.º Os empregados dos serviços paroquiais não são considerados funcionários administrativos para o efeito da aplicação das disposições dêste Código sôbre limites de idade, acumulações e aposentação.
+
+###### Artigo 264.º
+
+Compete ao vogal secretário da junta de freguesia:
+
+1.º Assistir às reüniões da junta e lavrar as respectivas actas;
+
+2.º Certificar, mediante despacho do presidente, os factos e actos que constem dos arquivos paroquiais e, independentemente de despacho, a matéria das actas das reüniões da junta;
+
+3.º Subscrever os atestados que devam ser assinados pelo presidente;
+
+4.º Preparar o expediente e as informações necessárias para resolução da junta;
+
+5.º Submeter a despacho do presidente da junta os negócios da competência dêste;
+
+6.º Levar à assinatura do presidente da junta a correspondência e documentos que dela careçam;
+
+7.º Dirigir os trabalhos da secretaria em conformidade com as deliberações da junta;
+
+8.º Conservar sob a sua guarda e responsabilidade, na sede da junta, o arquivo paroquial;
+
+9.º Desempenhar todas as mais funções que as leis e regulamentos lhe impuserem.
+
+§ único. O escrivão tem a competência do vogal secretário.
+
+###### Artigo 265.º
+
+Ao vogal tesoureiro compete promover a arrecadação das receitas, efectuar o pagamento das autorizações de despesa e escriturar o movimento da tesouraria, apresentando mensalmente à junta o balancete da caixa.
+
+§ único. O fiel do tesoureiro, quando o haja, praticará os actos de que fôr incumbido pelo vogal tesoureiro, dentro da competência dêste o sob a sua directa e imediata fiscalização.
+
+#### Secção VI — Uniões de freguesias
+
+###### Artigo 266.º
+
+É permitido às juntas de freguesia associarem-se para a prossecução em comum dos fins de assistência que por lei lhes competirem e de quaisquer outros que caibam dentro das suas atribuïções.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 267.º
+
+Cada união de freguesia é dirigida por uma comissão central das juntas de freguesia associadas, composta de um presidente, designado pelo governador civil, e dois vogais, eleitos anualmente pelas juntas.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 268.º
+
+É obrigatória a união das freguesias dos concelhos de Lisboa e Pôrto.
+
+§ único. Nas uniões a que êste artigo se refere, a comissão central das juntas de freguesia é constituída pelo governador civil do distrito ou seu delegado, como presidente, e por quatro representantes das juntas de freguesia. Farão parte da comissão, como membros consultivos, um representante da Direcção Geral de Assistência e outro das Misericórdias locais.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 269.º
+
+As uniões de freguesias terão orçamento privativo, em que se inscreverão os subsídios das juntas associadas e as receitas próprias.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 270.º
+
+Para a eleição dos vogais da comissão central, aprovação e discussão do orçamento por esta elaborado e apreciação e julgamento das contas terão as juntas de freguesia associadas uma assemblea anual.
+
+§ 1.º Se as juntas associadas não forem mais de cinco, delegará cada uma em dois vogais a sua representação na assemblea; sendo em número superior a cinco, terá cada junta um representante.
+
+§ 2.º A assemblea tem presidente e dois secretários, por ela eleitos.
+
+§ 3.º Quanto à constituïção da mesa, reüniões e deliberações da assemblea, observar-se-á o disposto para as juntas de freguesia.
+
+§ 4.º Da decisão da assemblea sôbre julgamento de contas cabe recurso para o Tribunal de Contas.
+
+§ 5.º Sempre que as contas da união de freguesias acusem despesa total superior a 250 contos, serão julgadas pelo Tribunal de Contas.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 271.º
+
+As juntas de freguesia associadas exercerão as suas atribuïções de assistência em conformidade com as instruções da comissão central e segundo o plano por esta traçado de harmonia com as indicações da Direcção Geral de Assistência.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+### Capítulo IV — Do regedor
+
+###### Artigo 272.º
+
+Em cada freguesia, salvo nos concelhos de Lisboa e Porto, haverá um regedor e um substituto deste, ambos nomeados pelo presidente da câmara municipal e por ele livremente exonerados.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2102 - Diário do Governo n.º 57/1960, Série I de 1960-03-10](https://diariodarepublica.pt/dr/detalhe/lei/2102-1960-281861)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42178 - Diário do Governo n.º 53/1959, Série I de 1959-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42178-1959-587184)
+
+###### Artigo 273.º
+
+Só pode ser nomeado regedor o indivíduo que tiver residência na freguesia, saiba ler e escrever e goze de boa reputação.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 274.º
+
+O cargo de regedor é obrigatório, mas o nomeado não pode ser compelido a servir por mais de um ano e só depois de um ano decorrido sôbre a exoneração poderá ser de novo nomeado.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 275.º
+
+O regedor não vence ordenado, mas é isento de aboletamentos em tempo de paz do imposto de prestação de trabalho que incida sôbre a sua pessoa, os seus familiares e sôbre as suas coisas ou animais e de todo e qualquer serviço obrigatório, não militar ou judicial, e tem direito ao uso e porte de arma de defesa, independentemente de licença.
+
+§ 1.º O regedor não é obrigado a diploma de funções públicas nem está sujeito ao pagamento de quaisquer imposições, emolumentos ou taxas por actos ou factos relativos ao exercício das suas funções.
+
+§ 2.º As câmaras municipais poderão fixar uma gratificação mensal a abonar aos regedores do concelho, de importância não superior a 60$00 a cada um, a título de compensação por ajudas de custo e subsídios de transporte e marcha resultantes das deslocações impostas pelos deveres do cargo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41060 - Diário do Governo n.º 81/1957, Série I de 1957-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41060-1957-651556)
+
+###### Artigo 276.º
+
+As funções de regedor são incompatíveis com quaisquer outras funções públicas, excepto as de juiz de paz.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 277.º
+
+Incumbe ao regedor de freguesia:
+
+1.º Executar e fazer executar todas as ordens e deliberações municipais que lhe forem comunicadas pelo presidente da câmara;
+
+2.º Velar pela observância das posturas municipais e paroquiais e regulamentos de polícia, levantando autos de transgressão, que remeterá à junta de freguesia ou à secretaria da câmara;
+
+3.º Participar ao presidente da câmara todas as faltas e irregularidades que notar na administração paroquial;
+
+4.º Dar parte às autoridades policiais, do concelho dos crimes de que tiver notícia e das provas que obtiver para a descoberta dos criminosos;
+
+5.º Coadjuvar as autoridades judiciais e policiais em todos os actos de investigação criminal para que o seu concurso seja requerido;
+
+6.º Tomar providências para assegurar a ordem, segurança e tranqüilidade pública, segundo instruções recebidas das autoridades policiais do concelho, ou por sua iniciativa, nos casos urgentes;
+
+7.º Prestar às autoridades sanitárias todo o auxílio de que carecerem para o exercício das suas funções;
+
+8.º Participar imediatamente ao delegado ou subdelegado de saúde e ao presidente da câmara os factos perturbadores da saúde pública de que tenha conhecimento, a aparição de moléstias epidémicas ou suspeitas e as transgressões das leis, regulamentos e posturas sanitárias.
+
+9.º Impedir que se enterrem cadáveres fora dos cemitérios públicos;
+
+10.º Impedir que se faça a inumação de cadáveres sem guia de enterramento passada pela competente conservatória ou pôsto do registo civil;
+
+11.º Atestar gratuitamente, na impossibilidade absoluta da comparência de facultativo para a verificação do óbito e caso não haja suspeitas de crime, que viu o cadáver e quais as informações dadas por pessoas idóneas sôbre as causas possíveis da morte;
+
+12.º Convocar os vizinhos para a extinção de incêndios e dirigir os respectivos serviços, quando não estiver presente algum técnico;
+
+13.º Exercer quaisquer outras funções de que seja encarregado pelo presidente da câmara ou que as leis e os regulamentos lhe confiram.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 278.º
+
+O escrivão da junta de freguesia, havendo-o, será encarregado do expediente da regedoria, e, quando não haja escrivão, o presidente da câmara designará pessoa que exerça as funções, mediante remuneração arbitrada pela junta, de acôrdo com o regedor.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 279.º
+
+O escrivão privativo da regedoria pode ser suspenso pelo regedor, mas só pelo presidente da câmara pode ser demitido. A suspensão e demissão a que êste artigo se refere não dependem de prévio processo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 280.º
+
+O regedor pode ser coadjuvado, no exercício das suas funções, por cabos de polícia.
+
+§ 1.º A nomeação dos cabos de polícia compete ao presidente da câmara, sob proposta do respectivo regedor.
+
+§ 2.º Os cabos de polícia só podem ser nomeados:
+
+1.º De entre os soldados na disponibilidade ou licenciados que residam na freguesia, mas sem prejuízo do serviço militar a que sejam eventualmente chamados;
+
+2.º De entre os mancebos residentes na freguesia apurados definitivamente para o serviço militar e que tenham sido remidos ou dispensados do seu cumprimento;
+
+3.º Na falta de indivíduos das duas classes precedentes, de entre quaisquer outros da freguesia, que sejam varões válidos, de idade não excedente a cinqüenta anos e de preferência alistados na Legião Portuguesa.
+
+§ 3.º O serviço de cabo de polícia para os indivíduos referidos no n.º 1.º do parágrafo antecedente é obrigatório até à passagem às tropas territoriais; para os referidos no n.º 2.º sê-lo-á até perfazerem a idade de quarenta e cinco anos, e para os referidos no n.º 3.º durante um ano.
+
+§ 4.º O serviço de cabo de polícia pode ser prestado por substituto oferecido pelo próprio, desde que também seja cabo ou satisfaça às condições exigidas em qualquer dos números do § 2.º
+
+§ 5.º Os cabos de polícia não podem ser obrigados a prestar serviço fora da freguesia, excepto para a captura de criminosos dentro dos limites do respectivo concelho e para a condução de presos até à sede da freguesia mais próxima do concelho confinante.
+
+§ 6.º As freguesias poderão, para melhor organização dos serviços de polícia, ser divididas em secções, à frente das quais haverá um cabo de ordens.
+
+§ 7.º O número de cabos de polícia para cada freguesia e para cada secção será fixado pelo presidente da câmara, segundo as conveniências do serviço.
+
+§ 8.º As nomeações dos cabos de polícia e dos cabos de ordens, quando a elas haja lugar, efectuar-se-ão no mês de Janeiro de cada ano, excepto para preenchimento de quaisquer vacaturas.
+
+§ 9.º Os cabos de polícia são imediatamente subordinados ao cabo de ordens e ao regedor e dêles recebem instruções para a execução dos serviços de que forem incumbidos.
+
+§ 10.º Os cabos de polícia podem ser suspensos pelo regedor ou pelo presidente da câmara municipal, mas só por êste podem ser demitidos e independentemente de processo disciplinar.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 281.º
+
+O escrivão privativo da regedoria e os cabos de polícia tomam posse perante o respectivo regedor.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 282.º
+
+Os regedores, cabos de ordens e cabos de polícia gozam da garantia administrativa nos mesmos termos que os governadores civis.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 283.º
+
+Das decisões do regedor cabe recurso hierárquico, dentro do prazo de trinta dias, para o presidente da câmara ou para a autoridade policial em cumprimento de cujas ordens tenha sido tomada a decisão recorrida, havendo recurso das decisões dêstes, em idêntico prazo, para a auditoria administrativa.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+## Título IV — Do distrito
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+### Capítulo I — Dos órgãos da administração distrital
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 284.º
+
+Província é a associação de concelhos com afinidades geográficas, económicas e sociais, dotada de órgãos próprios para o prosseguimento de interêsses comuns.
+
+§ único. Cada distrito forma uma pessoa moral de direito público.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 285.º
+
+São órgãos da administração provincial:
+
+1.º O conselho provincial;
+
+2.º A junta de província.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 286.º
+
+Os órgãos da administração distrital têm a sua sede na cidade que for designada para capital de distrito.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+### Capítulo II — Do conselho do distrito
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção I — Composição
+
+###### Artigo 287.º
+
+O conselho do distrito é composto pelos procuradores dos concelhos da circunscrição distrital.
+
+§ 1.º O procurador de cada concelho será um vereador, eleito pelos vogais do conselho municipal e pelos vereadores, em escrutínio secreto, na data da constituição da câmara municipal.
+
+§ 2.º Os concelhos de Lisboa e Porto elegerão dois procuradores aos respectivos conselhos do distrito, sendo um dos procuradores escolhido livremente pelos eleitores da câmara municipal no acto da eleição dos vereadores, e pela mesma forma desta, e outro eleito pelos vereadores, por escrutínio secreto, no acto da constituição da câmara.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 288.º
+
+Salvo o disposto no § 2.º do artigo anterior, só podem ser eleitos procuradores ao conselho do distrito os cidadãos que pertençam ao corpo administrativo que representam.
+
+§ 1.º Exceptuam-se:
+
+1.º Os membros das direcções, conselhos de administração ou fiscais de empresas, sociedades ou companhias que tenham contrato com o distrito;
+
+2.º Os directamente interessados em contrato com o distrito e os respectivos fiadores;
+
+3.º Os vogais da junta distrital imediatamente anterior à eleição, se aquela tiver sido dissolvida por facto que lhes seja imputável;
+
+4.º Os empregados das pessoas colectivas de utilidade pública administrativa com sede no distrito e sujeitas à prestação de contas à junta distrital.
+
+§ 2.º As funções de procurador ao conselho do distrito são acumuláveis com as de presidente ou vogal de câmara municipal, com as de qualquer cargo do Estado e com as legislativas.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 289.º
+
+O conselho do distrito é eleito por quatro anos.
+
+§ único. Nos casos de falecimento, afastamento ou impedimento de qualquer vogal do conselho do distrito, o presidente da junta distrital tomará imediatas providências no sentido de ser indicado pela entidade competente o nome do vogal que há-de substituí-lo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 290.º
+
+As funções de procurador ao conselho do distrito são obrigatórias e gratuitas.
+
+§ 1.º Constituem motivos de escusa:
+
+1.º Idade superior a sessenta anos à data da eleição;
+
+2.º Moléstia crónica de que resulte impossibilidade ou grave dificuldade para o exercício do cargo.
+
+§ 2.º Aplica-se ao pedido de escusa das funções de vogal do conselho do distrito o disposto quanto aos vogais do conselho municipal.
+
+§ 3.º Os procuradores têm direito a ser indemnizados pelas câmaras municipais das despesas de deslocação e de permanência na capital do distrito durante cada sessão.
+
+§ 4.º Os procuradores eleitos pelas câmaras municipais têm direito a ser indemnizados por estas das despesas de deslocação e de permanência na capital da província durante cada sessão.
+
+§ 5.º Os restantes procuradores têm direito a ser indemnizados pela província das despesas a que se refere o parágrafo anterior.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 291.º
+
+Perdem o mandato os procuradores que aceitem cargos ou adquiram situações que os tornem inelegíveis.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 292.º
+
+A exclusão do lugar ou perda do mandato de procurador ao conselho do distrito será declarada pelo governador civil:
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 293.º
+
+O conselho do distrito funcionará, na primeira reunião, sob a presidência do mais velho dos procuradores presentes, servindo de presidente e de vice-presidente nas reuniões seguintes, respectivamente, o presidente e o vice-presidente da junta distrital.
+
+§ único. Na falta do presidente e do vice-presidente, assume a presidência o mais velho dos procuradores presentes.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 294.º
+
+Nos anos em que deva proceder-se à constituição do conselho do distrito, as câmaras municipais deverão comunicar ao governador civil, até ao dia 13 de Dezembro, os nomes dos seus representantes.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção II — Competência
+
+###### Artigo 295.º
+
+Compete ao conselho do distrito:
+
+1.º Eleger quadrienalmente o presidente, o vice-presidente e os vogais e seus substitutos da junta distrital;
+
+2.º Revogar o mandato aos vogais da junta distrital quando, em face de exposição fundamentada do presidente, o julgue conveniente à boa marcha da administração distrital;
+
+3.º Dar parecer sobre o plano anual de actividade da junta distrital e discutir e votar o relatório de gerência;
+
+4.º Discutir e votar, sobre proposta do presidente, as bases do orçamento ordinário do distrito;
+
+5.º Pronunciar-se sobre as deliberações da junta distrital que, nos termos deste código, dependam da sua aprovação para se tornarem executórias.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção III — Constituïção, sessões, reüniões e deliberações
+
+###### Artigo 296.º
+
+Nos anos em que deva proceder-se à constituição de novo conselho do distrito reunir-se-á este no dia 20 de Dezembro só para o efeito da verificação dos poderes dos seus membros e da eleição do presidente, do vice-presidente e dos vogais da junta distrital, continuando, porém, o antigo conselho, para tudo o mais, em exercício de funções até 31 de Dezembro.
+
+§ 1.º A convocação da reunião será feita pelo governador civil do distrito, com cinco dias de antecedência, pelo menos, por meio de avisos enviados pelo correio, sob registo e com aviso de recepção, e publicados em dois jornais da capital do distrito, se os houver.
+
+§ 2.º Os poderes dos procuradores serão verificados pelo magistrado instalador, considerando-se aquele constituído e podendo deliberar desde que esteja verificada a legitimidade dos poderes da maioria dos procuradores.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 297.º
+
+O conselho do distrito terá duas sessões ordinárias em cada ano, uma na primeira quinzena de Março e outra na primeira quinzena de Dezembro.
+
+§ 1.º Cada sessão durará o máximo de quinze dias.
+
+§ 2.º Durante as sessões ordinárias celebrar-se-ão as reuniões que forem necessárias, devendo o presidente anunciar no final de cada reunião o dia e hora da seguinte.
+
+§ 3.º A sessão ordinária de Março será consagrada especialmente à discussão e votação do relatório da gerência referente ao ano anterior; a sessão ordinária de Dezembro, à discussão e votação do plano anual de actividade e das bases do orçamento ordinário do ano seguinte.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 298.º
+
+A convocação das sessões ordinárias do conselho do distrito será feita pelo presidente, dentro do prazo e pela forma estabelecidos no § 1.º do artigo 296.º
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 299.º
+
+As sessões extraordinárias durarão o máximo de oito dias e serão convocadas pelo presidente, quando o julgue necessário ou quando o requeira um têrço dos procuradores em exercício.
+
+§ único. As sessões devem ser sempre convocadas com cinco dias de antecedência pelo menos, e, quando requeridas pelos procuradores, dentro de trinta dias contados da data do requerimento.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 300.º
+
+Às reuniões do conselho do distrito poderá assistir o governador civil, tomando lugar à direita do presidente.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 301.º
+
+As actas das reuniões dos conselhos dos distritos são redigidas e subscritas pelo chefe da secretaria da junta distrital e assinadas pelo presidente e pelos procuradores presentes.
+
+§ único. A acta da última reünião de cada sessão será aprovada no final da mesma reünião.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 302.º
+
+Os conselhos dos distritos deliberam por levantados e sentados, salvo se um terço dos procuradores presentes requerer a votação nominal.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 303.º
+
+Em tudo o que sobre constituição, reuniões e deliberações de conselho do distrito não fica especialmente regulado aplicar-se-á o que vai disposto sobre constituição e funcionamento dos corpos administrativos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+### Capítulo III — Da junta distrital
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção I — Composição
+
+###### Artigo 304.º
+
+A junta distrital é o corpo administrativo do distrito e compõe-se de presidente e vice-presidente e de três vogais, eleitos pelo conselho do distrito na sua reunião de constituição.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 305.º
+
+O conselho distrital elegerá tantos vogais substitutos quantos os efectivos.
+
+§ 1.º Nos casos de falecimento, licença, impedimento temporário ou cessação de funções dos efectivos, serão chamados pelo presidente da junta os substitutos mais votados, ou os mais velhos quando tenha havido empate na votação.
+
+§ 2.º Quando, esgotada a lista dos substitutos, ainda não ficar completo o número dos vogais da junta, serão preenchidas as vagas existentes por eleição do conselho do distrito.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 306.º
+
+Podem ser eleitos membros da junta distrital os cidadãos no gozo dos seus direitos civis e políticos, domiciliados na circunscrição distrital, que saibam ler e escrever.
+
+§ único. Exceptuam-se:
+
+1.º Os funcionários e magistrados referidos nos n.os 2.º a 7.º do artigo 18.º;
+
+2.º Os que estejam em qualquer das condições mencionadas no § 1.º do artigo 288.º;
+
+3.º Os que tenham com o presidente, vice-presidente ou outro vogal mais votado, ou, no caso de igualdade de votação, mais velho, ou com o chefe da secretaria parentesco por afinidade ou consanguinidade em qualquer grau da linha recta ou até ao terceiro grau de linha colateral.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 307.º
+
+As funções de vogal da junta distrital são obrigatórias e gratuitas.
+
+§ 1.º Constituem motivo de escusa:
+
+1.º Idade superior a sessenta anos à data da eleição;
+
+2.º Moléstia crónica de que resulte impossibilidade ou grave dificuldade para o exercício do cargo;
+
+3.º Exercício de funções de vogal efectivo da junta no quadriénio anterior, ou de substituto ou suplente, quando tenha servido na maior parte do quadriénio.
+
+4.º Denegação de autorização do Ministro respectivo quando o eleito seja funcionário e por lei careça dessa autorização para o exercício de cargos alheios às suas funções.
+
+§ 2.º Aplica-se ao pedido de escusa das funções de vogal da junta distrital o disposto quanto aos vogais do conselho municipal.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 308.º
+
+Perdem o mandato os vogais da junta distrital:
+
+1.º Que contraiam com o presidente, vice-presidente ou outro vogal mais votado, ou, no caso de igualdade de votação, mais velho, ou com o chefe de secretaria, parentesco por afinidade em qualquer grau da linha recta ou até ao 3.º grau da linha colateral;
+
+2.º Que aceitem cargos ou adquiram situações que, nos termos dêste Código, os tornem inelegíveis;
+
+3.º Que sejam presidente ou vogal de qualquer câmara municipal ou junta de freguesia e declarem, até à constituïção da junta, que optam pelo serviço de outro corpo administrativo.
+
+§ único. Não pode ser chamado a servir efectivamente o substituto ou suplente em relação ao qual se verifique qualquer das incompatibilidades a que êste artigo se refere.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 309.º
+
+A exclusão do lugar ou perda do mandato de vogal da junta distrital será declarada pelo governador civil.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 310.º
+
+As funções de vogal da junta distrital não estão sujeitas a quaisquer outras inelegibilidades ou incompatibilidades, além das expressamente designadas nos artigos anteriores.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção II — Atribuïções e competência
+
+###### Artigo 311.º
+
+As juntas de província têm atribuïções:
+
+1.º De fomento e coordenação económica;
+
+2.º De cultura;
+
+3.º De assistência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 312.º
+
+No exercício das atribuições de fomento, pertence às juntas distritais deliberar:
+
+1.º Sobre a criação e manutenção de serviços destinados à elaboração de estudos e projectos de obras e melhoramentos a realizar na área da circunscrição distrital, por conta do distrito ou dos municípios, devendo neste caso os estudos e projectos ser realizados por solicitação da câmara municipal interessada;
+
+2.º Sobre a criação de serviços destinados à prestação de assistência técnica aos municípios do distrito que não possam mantê-los por si sós;
+
+3.º Sobre a organização de parques de máquinas e outro equipamento para obras, que possam ser utilizados, nas condições constantes dos respectivos regulamentos, pelos municípios do distrito;
+
+4.º Sobre a organização de paradas ou exposições de produtos agrícolas ou das indústrias regionais;
+
+5.º Sobre a instituição de prémios destinados a estimular a agricultura, a pecuária e as indústrias tradicionais da região;
+
+6.º Sobre a instituição de bolsas de estudo para a aprendizagem das técnicas úteis ao progresso da economia regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 313.º
+
+No uso das atribuições de cultura, pertence às juntas distritais deliberar:
+
+1.º Sobre a criação e manutenção de museus de etnografia, história e arte regional e de arquivos distritais;
+
+2.º Sobre a recolha, inventariação e publicação das tradições populares regionais e mais folclore do distrito;
+
+3.º Sobre o inventário das relíquias arqueológicas e históricas, dos monumentos artísticos e das belezas naturais existentes no distrito;
+
+4.º Sobre a conservação e divulgação dos trajes e costumes regionais;
+
+5.º Sobre o auxílio a conceder a associações ou institutos culturais do distrito;
+
+6.º Sobre a recolha e o estudo de vocábulos populares e das formas dialectais existentes no distrito.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 314.º
+
+No uso das atribuições de assistência, pertence às juntas distritais administrar os estabelecimentos a seu cargo.
+
+1.º Estudar e submeter à aprovação superior os planos de assistência social acomodados às circunstâncias e necessidades da província, e que devam executar-se pelas fôrças das autarquias locais em cooperação e coordenação com as iniciativas particulares ou com a comparticipação do Estado, quando fôr caso disso;
+
+2.º Subsidiar a realização dos planos aprovados, ou a extensão a novas modalidades da actividade assistencial exercida pelas organizações existentes na província.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 315.º
+
+Incumbe às juntas distritais deliberar sobre o arrendamento, aquisição ou construção e conservação dos edifícios indispensáveis para os serviços distritais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 316.º
+
+Para o desempenho das suas atribuições, compete às juntas distritais:
+
+1.º Fazer, interpretar e modificar os regulamentos necessários à boa ordem dos serviços e estabelecimentos distritais e revogar os dispensáveis;
+
+2.º Elaborar o tombo da sua propriedade urbana e o cadastro da sua propriedade rústica;
+
+3.º Adquirir bens mobiliários e imobiliários para serviço do distrito e alienar os que forem dispensáveis;
+
+4.º Aceitar heranças, legados e doações feitos ao distrito ou a estabelecimentos distritais, contanto que a aceitação das heranças seja a benefício de inventário;
+
+5.º Celebrar contratos de arrendamento, activa e passivamente, e de prestação de serviços;
+
+6.º Contratar com empresas individuais ou colectivas os fornecimentos necessários ao funcionamento dos serviços e à execução das obras distritais;
+
+7.º Efectuar seguros contra quaisquer riscos, em companhias nacionais devidamente autorizadas;
+
+8.º Instaurar pleitos e defender-se neles, podendo confessar, desistir ou transigir, quando não haja ofensa de direitos de terceiro;
+
+9.º Executar obras públicas por administração directa, empreitada ou concessão;
+
+10.º Propor ao Governo a expropriação por utilidade pública dos imóveis indispensáveis à realização dos seus fins;
+
+11.º Votar os adicionais às contribuïções do Estado autorizados neste Código;
+
+12.º Contrair empréstimos, estabelecer a sua dotação e estipular as condições de amortização;
+
+13.º Requerer a comparticipação financeira do Estado para as obras de interesse distrital;
+
+14.º Aprovar o orçamento ordinário, elaborado pelo presidente sobre as bases sancionadas pelo conselho do distrito, e os orçamentos suplementares;
+
+15.º Providenciar sobre a arrecadação das receitas distritais;
+
+16.º Nomear, contratar ou assalariar, promover, transferir, louvar, punir, promover aposentação e exonerar os funcionários e assalariados distritais e modificar e revogar os respectivos actos;
+
+17.º Celebrar acordos com as câmaras municipais do distrito relativos ao exercício das atribuições previstas nos n.os 2.º e 3.º do artigo 312.º
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 317.º
+
+Para conveniente exercício das suas atribuições podem as juntas distritais criar comissões ou conselhos consultivos, com a composição e competência a estabelecer nos regulamentos respectivos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 318.º
+
+Carecem de aprovação do conselho do distrito, para se tornarem executórias, as deliberações das juntas distritais respeitantes:
+
+1.º A obras públicas de valor superior a 200 contos;
+
+2.º À alienação de bens imobiliários;
+
+3.º À realização de empréstimos;
+
+4.º A contratos de fornecimento por tempo superior a um ano.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 319.º
+
+Serão submetidas à aprovação do Governo, depois de aprovadas pelo conselho do distrito, as deliberações das juntas distritais que impliquem a execução de obras públicas de valor superior a 3000 contos e as respeitantes a empréstimos.
+
+§ único. A aprovação será pedida pelo presidente da junta distrital ao Ministro das Obras Públicas, tratando-se de obras, e ao Ministro das Finanças, tratando-se de empréstimos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 320.º
+
+Compete ao presidente da junta:
+
+1.º Convocar as reuniões extraordinárias da junta e as sessões ordinárias e extraordinárias do conselho do distrito;
+
+2.º Dirigir os trabalhos das reuniões da junta e do conselho do distrito;
+
+3.º Elaborar o relatório anual da gerência da junta, para ser submetido à apreciação do conselho do distrito;
+
+4.º Elaborar, de acordo com a junta, o plano anual de actividade desta, e apresentá-lo ao conselho do distrito;
+
+5.º Preparar as bases do orçamento ordinário, elaborá-lo sobre as que tenham sido aprovadas pelo conselho do distrito e submetê-lo, bem como os orçamentos suplementares, à aprovação da junta;
+
+6.º Autorizar as despesas orçamentadas de harmonia com as deliberações da junta;
+
+7.º Submeter a julgamento as contas de gerência;
+
+8.º Dirigir e inspeccionar os serviços de secretaria e tesouraria distritais;
+
+9.º Representar o distrito, em juízo e fora dele, precedendo, no primeiro caso, deliberação da junta distrital sobre o pleito, e escolher os advogados que forem necessários;
+
+10.º Executar e fazer executar as deliberações da junta distrital e do conselho do distrito;
+
+11.º Assinar a correspondência expedida pela junta com destino a quaisquer autoridades, corpos administrativos e repartições públicas, podendo, porém, delegar no chefe de secretaria a assinatura da correspondência de expediente corrente.
+
+§ único. Das decisões tomadas pelo presidente da junta em execução das deliberações da junta distrital ou do conselho do distrito cabe recurso para o órgão que tiver tomado a deliberação executada, sem prejuízo do recurso contencioso que desta possa interpor-se, e no prazo fixado para a sua interposição.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção III — Constituïção, reüniões e deliberações
+
+###### Artigo 321.º
+
+A junta distrital constitui-se no dia 2 de Janeiro e, verificados os poderes dos seus membros, entra imediatamente em exercício.
+
+§ 1.º A convocação da reunião será feita pelo governador civil com cinco dias de antecedência, pelo menos, e pela forma estabelecida no § 1.º do artigo 296.º
+
+§ 2.º Os poderes dos vogais da junta distrital serão verificados pelo governador civil, dizendo-se aquela constituída e podendo deliberar desde que esteja verificada a legitimidade dos poderes da maioria dos vogais.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 322.º
+
+As juntas distritais têm uma reunião ordinária quinzenal e as extraordinárias que forem convocadas pelo presidente.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 323.º
+
+Às reuniões da junta distrital é aplicável o disposto no artigo 300.º
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 324.º
+
+Os vogais que residam fora da capital do distrito têm direito ao abono das despesas de deslocação nos dias de reunião da junta, por conta do orçamento distrital.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 325.º
+
+Em tudo o mais respeitante à constituição, reuniões e deliberações da junta distrital aplicar-se-á o que vai disposto sobre constituição e funcionamento dos corpos administrativos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+### Capítulo IV — Dos serviços distritais
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 326.º
+
+Os serviços distritais compreendem:
+
+1.º Secretaria, e tesouraria;
+
+2.º Serviços especiais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 327.º
+
+Em tudo o que diz respeito a serviços distritais observar-se-á, na parte aplicável, o disposto neste código quanto a serviços municipais.
+
+§ único. As funções de tesoureiro municipal, quando a receita ordinária, apurada pela média arrecadada nos últimos três anos, não exceda 3000 contos, serão exercidas pelo tesoureiro da Fazenda Pública do concelho da capital do distrito, mediante a gratificação de 400$00 ou 600$00, conforme se tratar de distritos com receitas ordinárias até 1200 contos ou de mais de 1200 até 3000 contos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41060 - Diário do Governo n.º 81/1957, Série I de 1957-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41060-1957-651556)
+
+## Título V — Dos governos civis
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+### Capítulo I — Da constituïção dos corpos administrativos
+
+###### Artigo 328.º
+
+Os corpos administrativos constituem-se nas datas fixadas neste Código, entram em exercício de funções no dia 2 de Janeiro e funcionam além do tempo por que foram eleitos emquanto não estiverem legalmente substituídos.
+
+§ 1.º Os magistrados administrativos que não convocarem os corpos administrativos nos prazos e pela forma estabelecidos neste Código serão demitidos.
+
+§ 2.º O magistrado administrativo que tiver convocado a reünião, desde que julgue legítima a eleição de, pelo menos, metade e mais um dos eleitos, conferirá posse aos presentes e declarará constituído o corpo administrativo.
+
+§ 3.º Sempre que o magistrado instalador suscite a questão da validade da eleição de algum ou alguns vogais, submetê-la-á, após a constituïção do corpo administrativo, a julgamento dêste. Da deliberação tomada cabe recurso contencioso, que poderá ser interposto pelo referido magistrado administrativo ou pelo interessado, sem prejuízo dos recursos interpostos no processo eleitoral.
+
+§ 4.º Se ao magistrado instalador parecer ilegal a eleição de todos ou da maioria dos vogais do corpo administrativo, continuarão em exercício os que serviam à data da eleição e será o processo eleitoral remetido, dentro de vinte e quatro horas, ao agente do Ministério Público junto da competente auditoria administrativa, a fim de, com promoção dêste magistrado, serem decididas pelo auditor, no prazo de trinta dias, as dúvidas suscitadas.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 329.º
+
+Ninguém pode pertencer ao mesmo tempo a mais de um corpo administrativo.
+
+§ único. Aquele que fôr eleito para mais de um corpo administrativo declarará por qual opta ao presidente do corpo a que não quiser pertencer, dentro do prazo de dez dias a contar da data da eleição, entendendo-se, quando não faça a declaração, que opta pelo da circunscrição superior.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 330.º
+
+No acto da posse os vogais dos corpos administrativos prestarão juramento nas mãos do magistrado administrativo competente ou seu delegado.
+
+§ 1.º Os vogais que não tiverem tomado parte na reünião de constituïção dos respectivos corpos administrativos e os substitutos e suplentes prestarão juramento nas mãos do presidente quando se apresentarem ou forem chamados a servir.
+
+§ 2.º A fórmula de juramento é a seguinte: «J
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 331.º
+
+Art. 331.º Os vogais dos corpos administrativos que sem motivo justificado deixarem de tomar posse ou abandonarem as suas funções antes de substituídos nelas incorrem na perda de direitos políticos por cinco anos e na multa de 2.000$00, uma e outra aplicadas por sentença do juiz de direito da respectiva comarca.
+
+§ 1.º Justificam a falta de posse, no dia designado para esta, doença do vogal que impeça a sua presença e qualquer caso fortuito ou de fôrça maior, que o corpo administrativo apreciará.
+
+§ 2.º São competentes para participar os factos puníveis por êste artigo o presidente do corpo administrativo, e o magistrado instalador, dentro do prazo de trinta dias decorridos sôbre a constituïção do corpo administrativo, ou depois de cinco faltas seguidas, não justificadas, às reüniões.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 332.º
+
+Tudo o que, em matéria de eleições, não esteja especialmente previsto neste Código será regulado pelas leis eleitorais.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+### Capítulo II — Do funcionamento dos corpos administrativos
+
+#### Secção I — Reüniões
+
+###### Artigo 333.º
+
+Os corpos administrativos reúnem nos edifícios e salas para tal especialmente destinadas. Qualquer novo local de reüniões será anunciado, com antecipação nunca inferior a oito dias, por editais afixados nos lugares do estilo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 334.º
+
+Os corpos administrativos não podem deliberar sem que esteja presente a maioria do número legal dos seus membros.
+
+§ único. São membros do corpo administrativo o presidente e os vogais.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 335.º
+
+As deliberações dos corpos administrativos só podem ser tomadas depois de a reünião haver sido declarada aberta pelo presidente e antes de haver sido encerrada.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 336.º
+
+As reüniões dos corpos administrativos são públicas, mas a nenhum cidadão é permitido, sob qualquer pretexto, intrometer-se nas discussões e aplaudir ou reprovar as opiniões emitidas, as votações feitas e as deliberações tomadas.
+
+§ único. Aquele que violar o disposto neste artigo será preso, autuado e imediatamente entregue aos tribunais ordinários, incorrendo em multa até 5.000$00, sem prejuízo da aplicação de qualquer outra pena, quando haja acumulação de crimes.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 337.º
+
+As reüniões dos corpos administrativos são ordinárias e extraordinárias.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 338.º
+
+Nas reüniões ordinárias podem os corpos administrativos deliberar sôbre todos os assuntos das suas atribuïções e competência; nas extraordinárias, sòmente acêrca dos assuntos para que tenham sido expressamente convocados.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 339.º
+
+As câmaras municipais, as juntas de freguesia e as juntas distritais celebram as suas reuniões ordinárias periodicamente, nos termos deste código, em dias e horas fixados na primeira reunião realizada após a eleição.
+
+§ 1.º Qualquer alteração que se faça posteriormente, quer do dia quer da hora das reüniões, será anunciada por editais afixados nos lugares do estilo com a antecipação de oito dias, pelo menos.
+
+§ 2.º Para o efeito do disposto neste artigo considera-se sempre primeira reünião após a eleição a celebrada para a entrada em exercício de funções no dia 2 de Janeiro.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 340.º
+
+Os corpos administrativos terão as reüniões extraordinárias que forem convocadas pelos presidentes.
+
+§ 1.º Aos presidentes pertence a decisão sôbre a oportunidade da convocação extraordinária, mesmo quando esta lhes seja requerida pelos vogais do corpo administrativo.
+
+§ 2.º Na convocação devem mencionar-se, expressa e especificadamente, os assuntos a tratar.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 341.º
+
+Aos presidentes dos corpos administrativos pertence abrir e encerrar as reüniões, dirigir as discussões, dar e retirar a palavra aos vogais, submeter os assuntos a votação, regular a ordem dos trabalhos e tomar as providências necessárias para que as reüniões não sejam perturbadas.
+
+§ único. O presidente só pode retirar a palavra, depois de primeira e segunda advertência, aos vogais que no uso dela se afastem da matéria em discussão ou não guardem a devida compostura.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 342.º
+
+É da competência dos corpos administrativos conceder licenças aos seus membros e julgar justificadas, ou não, as suas faltas.
+
+§ 1.º As licenças aos membros dos corpos administrativos não poderão exceder três meses em cada ano.
+
+§ 2.º Por cada falta não justificada incorrerão os vogais na multa de 20$00.
+
+§ 3.º Exceptuam-se as licenças aos presidentes das câmaras municipais, que são da competência dos governadores civis.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção II — Deliberações
+
+###### Artigo 343.º
+
+Os corpos administrativos são independentes dentro da órbita das suas atribuïções e as suas deliberações só podem ser suspensas, modificadas ou anuladas pela forma e nos casos previstos neste Código.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 344.º
+
+Os corpos administrativos só podem deliberar no exercício da sua competência e para realização das respectivas atribuïções.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 345.º
+
+É nulo todo o acto ou contrato que tenha por objecto a renúncia ou a transferência, para qualquer indivíduo ou entidade, pública ou privada, do exercício da competência conferida pela lei aos corpos administrativos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 346.º
+
+Os corpos administrativos são obrigados a deliberar sôbre os assuntos da sua competência dentro do prazo de trinta dias contados da data em que lho requeiram quaisquer interessados.
+
+§ 1.º A falta de deliberação dentro do prazo estabelecido neste artigo equivale, para efeitos de recurso contencioso, ao indeferimento do requerimento apresentado.
+
+§ 2.º Se, interposto recurso contencioso, êste fôr julgado procedente, o auditor condenará solidàriamente, nas perdas e danos causados pela abstenção, os membros do corpo administrativo em exercício ao tempo do requerimento.
+
+§ 3.º Para o efeito do disposto neste artigo os funcionários a quem seja presente qualquer requerimento sôbre que deva incidir deliberação dos corpos administrativos ou decisão dos respectivos presidentes são obrigados a passar recibo datado no duplicado ou cópia apresentado pelo requerente, sob pena de incorrerem em responsabilidade disciplinar.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 347.º
+
+As deliberações dos corpos administrativos são tomadas à pluralidade absoluta de votos dos membros presentes, votando primeiramente os vogais e por fim o presidente.
+
+§ 1.º No caso de empate o presidente tem voto de qualidade, observando se, quanto ao escrutínio secreto, o disposto no § 1.º do artigo 349.º
+
+§ 2.º Se no primeiro escrutínio não houver maioria absoluta de votos nem empate, proceder-se-á imediatamente a nova votação, e, se nesta suceder o mesmo, será a deliberação adiada para a reünião seguinte, bastando então a maioria relativa.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 348.º
+
+As deliberações dos corpos administrativos são tomadas por votação nominal, salvo o disposto no artigo seguinte.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 349.º
+
+As deliberações respeitantes à nomeação, promoção, louvor ou castigo de funcionários e, em geral, as que envolvam apreciação do mérito ou demérito de qualquer pessoa serão tomadas por escrutínio secreto.
+
+§ 1.º Quando haja empate em votação por escrutínio secreto, proceder-se-á imediatamente a nova votação, e, se o empate se mantiver, ficará o assunto adiado para a reünião seguinte; mas se na primeira votação que nesta se realizar ainda houver empate, proceder-se-á a votação nominal.
+
+§ 2.º A votação por escrutínio secreto pode recair sôbre uma proposta e ser precedida de discussão.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 350.º
+
+Nenhum membro pode escusar-se de votar sôbre assunto tratado em reünião a que assista, salvo estando por lei inibido de o fazer.
+
+§ 1.º O voto com lista branca, nas votações por escrutínio secreto, equivale à escusa de votar, e, se esta puder influir no resultado da deliberação, considerar-se-á nula a votação, que se repetirá, na mesma ou em ulteriores reüniões, tantas vezes quantas as necessárias para que a deliberação seja válida.
+
+§ 2.º Os membros dos corpos administrativos podem justificar resumidamente o seu voto, salvo se a votação fôr por escrutínio secreto.
+
+§ 3.º Os membros dos corpos administrativos que violem o disposto neste artigo são considerados como tendo faltado às respectivas reüniões sem motivo justificado.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 351.º
+
+Os membros dos corpos administrativos não podem assistir a reüniões ou a parte daquelas em que forem tratadas questões que lhes digam respeito ou a seus parentes consangüíneos ou afins até ao terceiro grau, ou ainda a pessoa, singular ou colectiva, de que sejam mandatários ou representantes legais.
+
+§ único. As incompatibilidades e impedimentos resultantes do parentesco por afinidade subsistem ainda depois de dissolvido o casamento que lhes tenha dado origem.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 352.º
+
+Os membros dos corpos administrativos, ainda quando se encontrem de licença, não podem tomar parte ou interêsse nos contratos por estes celebrados, sob pena de nulidade do contrato e perda do mandato.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 353.º
+
+De tudo o que ocorrer nas reüniões dos corpos administrativos se lavrará acta em livro especial, numerado e rubricado em todas as fôlhas pelo presidente, que assinará os termos de abertura e encerramento.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 354.º
+
+A acta de cada reünião será redigida e subscrita pelo chefe de secretaria ou escrivão e submetida à aprovação do corpo administrativo na reünião seguinte.
+
+§ 1.º Nos casos em que o corpo administrativo assim o delibere, a acta será aprovada em minuta no final da reünião a que disser respeito e lançada depois no respectivo livro.
+
+§ 2.º As actas serão assinadas pelos presidentes após a reünião de aprovação.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 355.º
+
+As deliberações dos corpos administrativos só se tornam executórias depois de lavradas e aprovadas as actas de onde constarem, e só por estas poderão ser provadas, salvos os casos de extravio ou falsidade, em que serão admitidos todos os meios de prova.
+
+§ 1.º As certidões das actas devem ser passadas, independentemente de despacho, pelo chefe de secretaria ou escrivão do corpo administrativo, ou quem suas vezes fizer, dentro dos oito dias seguintes à entrada do respectivo requerimento.
+
+§ 2.º Se as actas de que se pedir certidão respeitarem a gerência finda há mais de cinco anos, o prazo a que se refere o parágrafo anterior será de quinze dias.
+
+§ 3.º A infracção do disposto nos parágrafos anteriores constitue falta disciplinar e é punível com a multa de 100$00, aplicada pelo juiz de direito da comarca, a requerimento, fundamentado e instruído, do interessado.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 356.º
+
+O título dos direitos conferidos aos particulares por deliberações dos corpos administrativos que os invistam em situações jurídicas permanentes será um alvará expedido pelos respectivos presidentes.
+
+§ 1.º Exceptuam-se os casos para que a lei prescreva forma especial.
+
+§ 2.º Os alvarás expedidos em execução de deliberações dos corpos administrativos serão registados em livro próprio existente nas secretarias dêstes.
+
+§ 3.º As disposições dêste artigo aplicam-se também nos casos em que o presidente da câmara exerça competência própria e não de mera execução.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 357.º
+
+As deliberações dos corpos administrativos podem ser por estes ratificadas, revogadas, reformadas ou convertidas nos termos previstos no artigo 83.º para as decisões do presidente da câmara.
+
+§ único. As deliberações dos corpos administrativos, bem como as decisões dos seus órgãos executivos, quando nulas e de nenhum efeito, podem, a todo o tempo, ser por êles declaradas inexistentes, mas não ratificadas, reformadas ou convertidas.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção III — Especialidades de algumas deliberações
+
+##### Subsecção I — Alienação dos bens próprios
+
+###### Artigo 358.º
+
+As deliberações que envolvam alienação de bens próprios imobiliários dos corpos administrativos só serão válidas quando tomadas por maioria absoluta do número legal dos seus membros.
+
+§ 1.º A alienação será feita em hasta pública, independentemente das leis de desamortização, precedendo edital de, pelo menos, vinte dias.
+
+§ 2.º O produto da alienação deverá converter-se em fundos ou outros bens que constituam património do corpo administrativo.
+
+§ 3.º Exceptuam-se do disposto neste artigo e parágrafos as cessões para alinhamento permitidas às câmaras municipais, a venda dos terrenos que sobrem das expropriações por utilidade pública, a adjudicação de moradias para classes pobres, a alienação a favor do Estado ou de outras pessoas colectivas de direito público e quaisquer outras alienações exceptuadas por lei ou autorizadas pelo Governo.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+##### Subsecção II — Empreitadas e fornecimentos
+
+###### Artigo 359.º
+
+As deliberações definitivas sôbre contratos de empreitada ou de fornecimento só podem ser tomadas após concurso público, precedendo edital de, pelo menos, vinte dias.
+
+§ 1.º O corpo administrativo deliberará primeiramente a abertura de concurso, aprovando os respectivos programa e caderno de encargos, que serão patenteados a todos os interessados durante o prazo do edital.
+
+§ 2.º Se a adjudicação não for efectuada em resultado do primeiro concurso, abrir-se-á nova licitação com aumento não superior a 20 por cento sobre a base da licitação primitiva, ou, se a câmara municipal assim o deliberar, recorrer-se-á a concurso limitado, no caso de não se optar pela administração directa.
+
+§ 3.º Em tudo o que diga respeito ao regime de empreitadas de obras e que não esteja especialmente regulado neste Código, observar-se-ão as disposições legais aplicáveis às empreitadas do Estado, competindo, porém, ao próprio corpo administrativo resolver sobre a adjudicação e substituir-se à comissão perante a qual decorre o acto público do concurso de obras do Estado.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 390/82 - Diário da República n.º 216/1982, Série I de 1982-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1982-375830)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 360.º
+
+As obras serão de preferência feitas por empreitada e, em todos os casos, precedendo os necessários estudos e orçamentos.
+
+§ 1.º Poderão ser feitas por administração directa:
+
+1.º As obras municipais e distritais cujo valor não exceda 500 contos, ou, em Lisboa e no Porto, 1000 contos, e as paroquiais de valor inferior a 100 contos.
+
+2.º As obras de construção e grande reparação, quando haja extrema urgência;
+
+3.º As obras que ficariam mais caras se fôssem realizadas por empreitada;
+
+4.º As obras que, postas a concurso público, não tenham tido licitantes em segunda praça;
+
+5.º As obras para que o corpo administrativo disponha de materiais, direcção e mão de obra fornecida pelo seu pessoal ordinário, desde que não tenha de fazer novas aquisições ou admissões e os projectos sejam devidamente aprovados.
+
+§ 2.º As obras a que se refere o n.º 1.º do § anterior, quando de valor superior a metade das importâncias nele fixadas e não realizadas por administração directa, só poderão ser adjudicadas mediante concurso limitado.
+
+§ 3.º Não poderão fazer-se desdobramentos de trabalhos da mesma obra cujo valor, no conjunto, atinja verba superior à fixada no n.º 1.º do § 1.º deste artigo.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 390/82 - Diário da República n.º 216/1982, Série I de 1982-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1982-375830)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 164/75 - Diário do Governo n.º 74/1975, Série I de 1975-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1975-161502), em vigor a partir de 1975-03-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 361.º
+
+Poderão fazer-se independentemente de concurso público:
+
+1.º Os contratos de fornecimento até metade do valor fixado no n.º 1.º do artigo anterior;
+
+2.º Os fornecimentos avulsos de artigos e de expediente ordinário das repartições;
+
+3.º Os fornecimentos de artigos cuja fabricação e comércio constituam exclusivo legal;
+
+4.º Os contratos para aquisição de obras de arte, objectos e instrumentos que só possam ser fornecidos por artista ou técnico de valor comprovado;
+
+5.º Os contratos que se reconheça, por deliberação do corpo administrativo, ser inconveniente sujeitar à concorrência;
+
+6.º Os contratos de fornecimento de energia eléctrica, mas só quando assim fôr determinado pelo Govêrno, sob proposta da entidade que superintender nos serviços de electrificação nacional, com fundamento na necessidade de coordenação dos elementos de electrificação geral do País.
+
+§ único. Os contratos de fornecimento a que se refere o n.º 1.º dêste artigo só poderão ser adjudicados precedendo consulta a três fornecedores, pelo menos.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 390/82 - Diário da República n.º 216/1982, Série I de 1982-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1982-375830)
+
+##### Subsecção III — Concessão de obras ou serviços
+
+###### Artigo 362.º
+
+As deliberações dos corpos administrativos que tiverem por objecto conceder a exploração de obras ou serviços públicos deverão obedecer aos seguintes princípios:
+
+1.º Nenhuma concessão poderá ser feita, salvo disposição de lei especial, por período superior a vinte anos;
+
+2.º A concessão, depois de competentemente aprovada a deliberação do corpo administrativo que a resolva, será adjudicada mediante concurso público, cujos programa e caderno de encargos ficarão sujeitos à aprovação das competentes repartições técnicas do Estado;
+
+3.º As concessões adjudicadas não são transmissíveis, total ou parcialmente, ainda mesmo por arrendamento, sem prévia autorização da entidade concedente e do Govêrno;
+
+4.º Em todos os contratos de concessão deve ser previsto o direito de resgaste pela entidade concedente ou pelo Estado, a partir, pelo menos, do décimo ano de exploração.
+
+§ único. A concessão dos serviços de distribuïção de energia eléctrica poderá fazer-se, independentemente de concurso público, nos mesmos termos previstos para os contratos de fornecimento de energia eléctrica e ocorrendo as mesmas circunstâncias.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 390/82 - Diário da República n.º 216/1982, Série I de 1982-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1982-375830)
+
+#### Secção IV — Sanção das deliberações ilegais
+
+###### Artigo 363.º
+
+São nulas e de nenhum efeito, independentemente de declaração pelos tribunais, ùnicamente as seguintes deliberações dos corpos administrativos:
+
+1.º Que forem estranhas às suas atribuïções;
+
+2.º Que forem tomadas tumultuosamente ou com infracção do disposto nos artigos 334.º e 347.º;
+
+3.º Que transgredirem as disposições legais respeitantes ao lançamento de impostos;
+
+4.º Que prorrogarem os prazos de pagamento voluntário dos seus impostos, taxas ou multas e da remessa de autos ou certidões de relaxe para os tribunais;
+
+5.º Que carecerem absolutamente de forma legal;
+
+6.º Que nomearem funcionários sem concurso, nos casos em que a lei o exija, ou a quem faltem os requisitos da nacionalidade e da idade;
+
+7.º Que autorizem contratos de locação de serviços para cujo encargo não exista verba no orçamento em vigor.
+
+8.º Que forem tomadas ou executadas com violação das disposições legais que determinem a intervenção tutelar do Governo.
+
+§ único. As deliberações nulas e de nenhum efeito são impugnáveis sem dependência de prazo, por via de interposição de recurso contencioso ou de defesa em qualquer processo administrativo ou judicial.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8/76 - Diário do Governo n.º 9/1976, Série I de 1976-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1976-480947), em vigor a partir de 1976-01-12
+
+###### Artigo 364.º
+
+São anuláveis pelos tribunais as deliberações dos corpos administrativos viciadas de incompetência, excesso de poder e violação de lei, regulamento ou contrato administrativo.
+
+§ 1.º As deliberações anuláveis só podem ser impugnadas em recurso contencioso dentro do prazo legal.
+
+§ 2.º Decorrido o prazo sem que se tenha feito impugnação em recurso contencioso, fica sanado o vício da deliberação.
+
+###### Artigo 365.º
+
+A executoriedade das deliberações dos corpos administrativos das quais se haja recorrido contenciosamente pode ser suspensa pelo tribunal, a requerimento dos recorrentes, quando da execução delas possa resultar prejuízo irreparável ou de difícil reparação.
+
+###### Artigo 366.º
+
+As autarquias locais respondem civilmente perante terceiros pelas ofensas dos direitos destes ou das disposições legais destinadas a proteger os seus interesses, resultantes de actos ilícitos culposamente praticados pelos respectivos órgãos ou agentes no exercício das suas funções e por causa desse exercício.
+
+§ 1.º Se as ofensas resultarem de actos praticados pelos órgãos ou agentes dos serviços municipalizados, das juntas de turismo, das federações de municípios ou das uniões de freguesias, recairá sobre estas entidades a obrigação de indemnizar.
+
+§ 2.º Quando satisfizerem qualquer indemnização nos termos deste artigo, as autarquias locais e demais entidades nele referidas gozam do direito de regresso contra os titulares dos órgãos ou os agentes culpados, se estes houverem procedido com diligência e zelo inferiores àqueles a que se achavam obrigados em razão do cargo.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 48051 - Diário do Governo n.º 271/1967, 1º Suplemento, Série I de 1967-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48051-1967-385464)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 367.º
+
+Os titulares dos órgãos e os agentes das autarquias locais, dos serviços municipalizados, das juntas de turismo, das federações de municípios e das uniões das freguesias respondem civilmente perante terceiros pela prática de actos ilícitos que ofendam os direitos destes ou as disposições legais destinadas a proteger os seus interesses, se tiverem excedido os limites das suas funções ou se, no desempenho destas e por sua causa, tiverem procedido dolosamente.
+
+§ único. Em caso de procedimento doloso, as autarquias locais e demais entidades referidas neste artigo são sempre solidàriamente responsáveis com os titulares dos seus órgãos ou os seus agentes.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 48051 - Diário do Governo n.º 271/1967, 1º Suplemento, Série I de 1967-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48051-1967-385464)
+
+#### Secção V — Acções em que os corpos administrativos tenham interêsse
+
+###### Artigo 368.º
+
+O Ministério. Público junto dos tribunais judicais é competente para propor ou seguir, como parte principal, as acções que tenham por fim:
+
+1.º Fazer valer quaisquer direitos dos corpos administrativos;
+
+2.º Fazer entrar no cofre dos corpos administrativos quaisquer quantias em que os seus membros tiverem sido condenados ou por que forem responsáveis;
+
+3.º Cobrar coercivamente as multas impostas aos membros dos corpos administrativos e dos conselhos dos distritos e municipais.
+
+§ 1.º Sempre que na acção ou processo intervenha o Estado, será êste representado pelo Ministério Público, podendo o corpo administrativo constituir procurador, nos termos legais.
+
+§ 2.º Os presidentes dos corpos administrativos são obrigados a fornecer aos magistrados do Ministério Público todos os elementos de que estes careçam para a propositura e prosseguimento das acções a que êste artigo se refere, sob pena de, não o fazendo por negligência ou incúria, incorrerem pessoalmente em responsabilidade civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 369.º
+
+Qualquer contribuinte, no gôzo dos seus direitos civis e políticos, pode intentar, em nome e no interêsse das autarquias locais em que tiver domicílio há mais de dois anos, as acções judiciais necessárias para manter, reivindicar e rehaver bens ou direitos do corpo administrativo que hajam sido usurpados ou de qualquer modo lesados.
+
+§ 1.º As acções referidas neste artigo só podem ser intentadas quando o corpo administrativo as não tiver proposto nos três meses posteriores à entrega de uma exposição circunstanciada acêrca do direito que se pretende fazer valer e dos meios probatórios de que se dispõe para o tornar efectivo.
+
+§ 2.º Os que obtiverem vencimento, no todo ou em parte, nas acções de que trata êste artigo terão direito ao reembôlso das quantias que houverem gasto com os pleitos, até dois terços do valor real dos bens ou direitos mantidos ou readquiridos.
+
+Art 370.º Em todas as acções judiciais em que seja autor ou réu um corpo administrativo poderá qualquer contribuinte, residente há mais de dois anos na respectiva circunscrição, constituir-se assistente do mesmo corpo administrativo, oferecendo e produzindo prova que àquele aproveite e prosseguindo com isenção de custas e selos até final.
+
+###### Artigo 371.º
+
+Os corpos administrativos são isentos de preparos, custas e selos nos processos em que forem interessados.
+
+### Capítulo III — Da intervenção do Govêrno no funcionamento dos corpos administrativos
+
+#### Secção I — Inspecção administrativa
+
+###### Artigo 372.º
+
+O Govêrno, pelos Ministérios do Interior e das Finanças, exerce inspecção sôbre os corpos administrativos, a fim de averiguar se cumprem as obrigações impostas por lei e se os seus serviços funcionam regularmente e no interêsse do público.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 373.º
+
+À inspecção a exercer pelo Ministério do Interior competirá:
+
+1.º Averiguar as possibilidades económicas e financeiras das autarquias locais, a obra por elas realizada, o modo como são desempenhadas as atribuïções do exercício obrigatório, o sistema de colaboração e coordenação da actividade provincial com a municipal e desta com a paroquial e receber e procurar dar satisfação às queixas e reclamações dos povos;
+
+2.º Orientar os presidentes das juntas de província e das câmaras municipais, uniformizando a interpretação e a aplicação dos textos legais e chamando a sua atenção para as lacunas e deficiências notadas na administração;
+
+3.º Realizar inquéritos aos presidentes das câmaras, aos corpos administrativos e respectivos serviços, e instruir processos disciplinares;
+
+4.º Proceder a estudos sôbre a administração local;
+
+5.º Desempenhar-se das demais funções que lhes sejam conferidas por lei.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 374.º
+
+A inspecção do Ministério das Finanças exerce-se pela forma prescrita no artigo 670.º
+
+###### Artigo 375.º
+
+Em matéria de inspecção administrativa, compete aos governadores civis:
+
+1.º Pedir aos presidentes das câmaras informações e esclarecimentos sôbre os serviços municipais e paroquiais e, aos presidentes das juntas de província, sôbre os serviços da província, quando dêles careçam;
+
+2.º Informar o Govêrno de todas as irregularidades de que tenham conhecimento, ocorridas no funcionamento dos corpos administrativos, e dos rumores públicos que porventura corram a tal respeito;
+
+3.º Enviar ao Govêrno, no final de cada ano civil, um relatório sôbre a vida administrativa no distrito;
+
+4.º Auxiliar, por si e pelos funcionários e agentes sob as suas ordens, os inspectores em serviço no distrito.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 376.º
+
+Ao presidente da câmara cumpre, em matéria de inspecção administrativa:
+
+1.º Fiscalizar o funcionamento das juntas de freguesia e serviços paroquiais, dando indicações e transmitindo instruções aos presidentes, no sentido de se obter o melhor rendimento e a mais perfeita coordenação da actividade de todos os corpos administrativos do concelho, dentro dos limites estabelecidos na lei;
+
+2.º Participar ao governador civil as irregularidades verificadas no funcionamento das juntas de freguesia.
+
+§ único. Nos concelhos de Lisboa e Pôrto as atribuïções de inspecção sôbre as juntas de freguesia pertencem ao governador civil do distrito, com a cooperação dos administradores dos bairros.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 377.º
+
+O Govêrno pode transmitir aos corpos administrativos instruções destinadas a uniformizar a execução das leis e o funcionamento dos respectivos serviços.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+#### Secção II — Dissolução
+
+###### Artigo 378.º
+
+Os corpos administrativos podem ser dissolvidos pelo Govêrno:
+
+1.º Quando, por via do inquérito, se mostre que a sua gerência é nociva aos interêsses das respectivas autarquias;
+
+2.º Quando, depois de advertidos, deixem de tomar as deliberações indispensáveis ao desempenho das atribuïções de exercício obrigatório ou se recusem a satisfazer as despesas obrigatórias;
+
+3.º Quando se recusem a prestar à inspecção todas as informações e esclarecimentos que lhes forem pedidos ou a facultar aos inspectores o exame dos serviços e a consulta dos documentos necessários;
+
+4.º Quando se recusem a dar cumprimento às decisões definitivas dos tribunais;
+
+5.º Quando não tenham os orçamentos aprovados de forma a entrarem em vigor no dia 1 de Janeiro de cada ano, por facto que lhes seja imputável, apurado em inquérito;
+
+6.º Quando não apresentem a julgamento, nos prazos legais, as respectivas contas, por facto que lhes seja imputável, apurado em inquérito.
+
+§ único. Nos casos dos n.os 3.º e 4.º os corpos administrativos só podem ser dissolvidos depois de ouvidos por escrito.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 379.º
+
+A dissolução será ordenada por decreto fundamentado, do qual constem os factos ou omissões que lhe deram causa.
+
+§ único. No decreto de dissolução das câmaras declarar-se-á se os presidentes são ou não abrangidos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 380.º
+
+A dissolução não prejudica o emprêgo dos meios administrativos para corrigir os abusos que a motivaram nem o procedimento judicial pelos actos que envolvam responsabilidade civil ou criminal.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 381.º
+
+No decreto de dissolução declarar-se-á se tem ou não lugar o regime de tutela. Em caso afirmativo, procede-se pela forma prescrita nos artigos 384.º e seguintes e, em caso negativo, a nova eleição realizar-se-á dentro dos vinte dias seguintes à publicação do decreto e em data neste fixada.
+
+§ único. Na hipótese de não se estabelecer o regime de tutela, a gerência dos interesses a cargo do corpo dissolvido incumbirá, nos concelhos, ao presidente da câmara, nas freguesias, ao regedor, ou, em Lisboa e Porto, ao administrador do bairro e, nos distritos, ao governador civil.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção III — Regime de tutela
+
+###### Artigo 382.º
+
+O Govêrno declarará sempre o regime de tutela se as irregularidades que derem causa à dissolução dos corpos administrativos forem de molde a comprometer gravemente os interêsses locais a seu cargo, e em especial:
+
+1.º Se os encargos da dívida absorverem a têrça parte das receitas ordinárias, exceptuados os reembolsos, reposições e receitas consignadas;
+
+2.º Se as contas anuais de gerência, incluindo os lucros ou subsídios aos serviços municipalizados ou federações de municípios, apresentarem saldo negativo em três anos económicos sucessivos;
+
+3.º Se os encargos com o pessoal excederem a percentagem das receitas ordinárias consentida por lei;
+
+4.º Se já tiver sido decretada outra dissolução dentro dos últimos quatro anos.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 383.º
+
+O Govêrno decretará o regime de tutela:
+
+1.º Se não for possível constituir o conselho municipal ou o conselho do distrito por insuficiência do número de vogais eleitos;
+
+2.º Se, por falta de número, devido a culpa dos respectivos vogais, não se realizarem as sessões ordinárias do conselho municipal ou do conselho do distrito;
+
+3.º Se as câmaras municipais, as juntas de freguesia ou distritais não forem eleitas por impossibilidade de realização do acto eleitoral.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 384.º
+
+Estabelecido o regime de tutela, será a gerência dos interesses municipais, paroquiais ou distritais confiada a uma comissão administrativa de nomeação do Governo, composta de um presidente e de um número par de vogais fixado para cada caso, com as atribuições e competência que a lei confira ao corpo administrativo.
+
+§ 1.º Os vogais das comissões administrativas devem ser escolhidos de preferência entre os residentes ou contribuintes da circunscrição.
+
+§ 2.º Da comissão administrativa poderão fazer parte os vogais do corpo administrativo substituído, se a tutela tiver sido imposta por facto que não lhes seja imputável.
+
+§ 3.º Os vogais das comissões administrativas têm as mesmas incompatibilidades, direitos e obrigações dos vogais dos corpos administrativos e tomam posse nos mesmos termos que estes.
+
+§ 4.º As comissões administrativas dependem do Govêrno, a cujas ordens e instruções devem obediência, quando transmitidas por escrito.
+
+§ 5.º O Govêrno pode livremente demitir e substituir os vogais das comissões administrativas.
+
+§ 6.º Durante o período de tutela a competência do conselho municipal ou do distrito será exercida pelo governador civil, com recurso para o Ministro do Interior.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 385.º
+
+As comissões administrativas servem até ao fim do quadriénio do corpo administrativo substituído.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+###### Artigo 386.º
+
+Ao findar o período de tutela, o presidente da comissão administrativa tomará as necessárias providências para a constituição e reunião dos órgãos electivos da administração municipal, paroquial ou distrital.
+
+§ único. Eleito e empossado o corpo administrativo, o presidente da comissão fará entrega da gerência, considerando-se desde êsse momento findo o regime de tutela e exonerada a comissão administrativa.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+## Título VI — Dos baldios
+
+### Capítulo ÚNICO — Da classificação e aproveitamento dos baldios
+
+#### Secção I — Classificação e inventário
+
+###### Artigo 387.º
+
+Se, terminado o período de tutela, não fôr possível reünir os órgãos electivos da administração do concelho, freguesia ou província, ou se, dentro dos quatro anos imediatamente posteriores à expiração dêsse período, houver de novo fundamento para a aplicação do mesmo regime, proceder-se-á do seguinte modo:
+
+1.º Tratando se de concelho ou de freguesia, serão extintos e anexados aos concelhos e freguesias vizinhos;
+
+2.º Tratando-se de distrito, será estabelecido o regime de tutela até final do quadriénio seguinte.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 388.º
+
+Dizem-se baldios os terrenos não individualmente apropriados, dos quais só é permitido tirar proveito, guardados os regulamentos administrativos, aos indivíduos residentes em certa circunscrição ou parte dela.
+
+§ único. Os terrenos baldios são prescritíveis.
+
+###### Artigo 389.º
+
+Os baldios, para efeitos de regulamentação do seu uso e fruïção e os demais consignados na lei, são municipais ou paroquiais.
+
+§ 1.º Presumem-se municipais os baldios que, há pelo menos trinta anos, estejam no logradouro comum e exclusivo dos moradores de um concelho ou de mais de uma freguesia dêle.
+
+§ 2.º Presumem-se paroquiais os baldios que, há pelo menos trinta anos, estejam no logradouro comum e exclusivo dos moradores de uma freguesia ou de parte dela.
+
+###### Artigo 390.º
+
+Os baldios, quanto à sua utilidade social e aptidão cultural, classificam-se em:
+
+1.º Baldios indispensáveis ao logradouro comum;
+
+2.º Baldios dispensáveis do logradouro comum e próprios para cultura;
+
+3.º Baldios dispensáveis do logradouro comum e impróprios para cultura;
+
+4.º Baldios arborizados ou destinados à arborização.
+
+###### Artigo 391.º
+
+As câmaras municipais farão organizar ou completar, nos termos do parágrafo seguinte, o inventários de todos os terrenos baldios existentes no concelho.
+
+§ único. Deverão constar do inventário os seguintes dados:
+
+1.º Situação, área e confrontações;
+
+2.º Os lugares de cujos moradores são logradouro e o número de chefes de família utentes;
+
+3.º Se são municipais ou paroquiais;
+
+4.º A parte aproveitada, a desaproveitada, a indispensável e a dispensável do logradouro comum;
+
+5.º A aptidão cultural das diversas partes do terreno e se alguma delas está arborizada ou deve ser destinada a arborização.
+
+###### Artigo 392.º
+
+Elaborado o inventário dos baldios do concelho, será o mesmo exposto ao público, na secretaria da câmara, pelo prazo de trinta dias, o que se anunciará por editais afixados nos lugares do estilo e publicados nos jornais locais.
+
+§ 1.º Qualquer chefe de família morador no concelho ou junta de freguesia interessados na elaboração do inventário, e bem assim as pessoas singulares e colectivas que disputem a propriedade ou posse de terrenos nêle incluídos, poderão recorrer para a câmara dentro do prazo estabelecido neste artigo.
+
+§ 2.º A petição de recurso e os documentos que a instruírem serão entregues ao chefe da secretaria da câmara, mediante recibo.
+
+§ 3.º O recurso será decidido nos trinta dias seguintes ao têrmo do prazo para a sua apresentação. Da deliberação da câmara poder-se-á recorrer contenciosamente, salvo se versar sôbre o direito de propriedade ou posse dos terrenos, cujo conhecimento é da competência dos tribunais ordinários.
+
+#### Secção II — Baldios indispensáveis ao logradouro comum
+
+###### Artigo 393.º
+
+Os baldios que sejam aproveitados como logradouro comum pelos moradores de algum concelho ou freguesia e se considerem indispensáveis, sob essa forma de utilização, à economia local, continuarão a ter o mesmo carácter e destino.
+
+§ único. Considera-se logradouro comum a apascentação de gados, a produção e corte de matos, combustível ou estrume, a cultura e outras utilizações, quando não se verifique apropriação individual de qualquer parcela dos terrenos e a fruïção pertença de modo efectivo aos moradores vizinhos.
+
+###### Artigo 394.º
+
+O modo e o tempo de fruïção dos baldios, aproveitados como logradouro comum, serão regulados, de harmonia com o direito consuetudinário e as conveniências da economia local, pelo corpo administrativo a quem competir a sua administração.
+
+#### Secção III — Baldios dispensáveis do logradouro comum
+
+##### Subsecção I — Disposições comuns
+
+###### Artigo 395.º
+
+1.º Os baldios que, por deliberação da câmara municipal ou junta de freguesia que os administrem, e precedendo parecer do organismo oficial competente, assim forem classificados e como tal inscritos no respectivo inventário;
+
+2.º Os baldios do logradouro comum que dêle forem dispensados a requerimento de dois terços, pelo menos, dos chefes de família utentes, apresentado à câmara municipal ou à junta de freguesia que os administrem;
+
+3.º Os baldios abandonados e desaproveitados que há mais de dez anos não sirvam de logradouro comum ou nos quais durante o mesmo período se tenham produzido sòmente actos isolados de aproveitamento.
+
+###### Artigo 396.º
+
+Deliberada a classificação dos baldios como dispensáveis do logradouro comum, os corpos administrativos solicitarão ao Ministério respectivo que seja verificada a aptidão dos terrenos para cultura e, de harmonia com o que lhes fôr comunicado, procederão nos termos dos artigos seguintes.
+
+§ único. Os baldios a que se refere o n.º 3.º do artigo anterior são considerados impróprios para cultura, independentemente da verificação determinada neste artigo.
+
+##### Subsecção II — Baldios próprios para cultura
+
+###### Artigo 397.º
+
+Os baldios dispensáveis do logradouro comum e próprios para cultura, não reservados para o organismo oficial competente, serão divididos em glebas com o mínimo de 1 hectare e estas aforadas ou vendidas em hasta pública a chefes de família que tenham sido compartes, por mais de um ano, na fruïção dêles.
+
+§ 1.º O Govêrno publicará os regulamentos necessários sôbre o processo de divisão, preferências, condições de aforamento e remição do fôro, se as glebas forem aforadas, ou da alienação, se forem vendidas, sôbre os direitos e obrigações do enfiteuta ou adquirente e sôbre os títulos de concessão e transmissão.
+
+§ 2.º Emquanto não forem publicados os regulamentos previstos no parágrafo anterior, podem os corpos administrativos dar de arrendamento, por prazo não superior a seis anos, os terrenos a que se refere êste artigo.
+
+###### Artigo 398.º
+
+Os baldios que, pela sua pequena área, não sejam susceptíveis de divisão em glebas de 1 hectare, pelo menos, serão encorporados no domínio privado disponível do concelho ou freguesia e alienados pela forma estabelecida para os baldios impróprios para cultura.
+
+##### Subsecção III — Baldios Impróprios para cultura
+
+###### Artigo 399.º
+
+Os baldios dispensáveis do logradouro comum e impróprios para cultura são considerados bens do domínio privado disponível do concelho ou da freguesia.
+
+###### Artigo 400.º
+
+Os baldios integrados no domínio privado disponível são alienáveis em hasta pública, independentemente das leis de desamortização, e por inteiro ou em glebas de mais de 1 hectare.
+
+§ 1.º Os chefes de família e quaisquer moradores vizinhos da freguesia ou freguesias com direito à fruïção do baldio terão preferência na adjudicação.
+
+§ 2.º A alienação será sempre condicionada pelo aproveitamento dos terrenos sob qualquer forma.
+
+#### Secção IV — Baldios destinados à arborização
+
+###### Artigo 401.º
+
+Os corpos administrativos em cuja circunscrição existam baldios arborizáveis são obrigados a promover a respectiva arborização por fôrça do seu orçamento ou em comparticipação com o Estado, no prazo de vinte anos e segundo o plano estabelecido pelo Govêrno.
+
+###### Artigo 402.º
+
+Os baldios arborizados ou que por utilidade pública o devam ser, especialmente para fixação das dunas na proximidade do mar, não são divisíveis entre os compartes nem desamortizáveis por qualquer forma.
+
+###### Artigo 403.º
+
+Os baldios arborizados ficarão sujeitos ao regime florestal.
+
+§ único. Continuará a ser permitido aos compartes o aproveitamento de lenhas, matos e combustível dos baldios arborizados, mas nos termos das posturas municipais e paroquiais elaboradas de acôrdo com as autoridades dos serviços florestais e em conformidade com as leis e regulamentos de polícia florestal.
+
+## Título VII — Do distrito
+
+### Capítulo I — Do governador civil
+
+###### Artigo 404.º
+
+1 - Em cada distrito haverá um governador civil, nomeado e exonerado pelo Governo, em Conselho de Ministros, por proposta do Ministro da Administração Interna, de quem orgânica e hierarquicamente depende.
+
+2 - Nos distritos de Lisboa e do Porto haverá um vice-governador civil, nomeado e exonerado nos termos do número anterior.
+
+3 - O governador civil representa o Governo na área do distrito.
+
+4 - O vice-governador civil coadjuva o governador civil, substitui-o nas suas faltas e impedimentos e tem a competência que o governador civil nele delegar, por despacho publicado no Diário da República.
+
+5 - Em caso de impedimento simultâneo do governador civil e do vice-governador civil, aquele é substituído pelo secretário do governo civil.
+
+6 - O governador civil pode delegar no secretário do governo civil o exercício de funções incluídas na sua competência, por despacho publicado no Diário da República.
+
+7 - O vice-governador civil e o secretário do governo civil só podem subdelegar os poderes recebidos do governador civil quando expressamente autorizados pelo despacho de delegação ou por despacho autónomo igualmente publicado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 399-B/84 - Diário da República n.º 299/1984, 1º Suplemento, Série I de 1984-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-b-1984-621936), em vigor a partir de 1985-01-01
+
+###### Artigo 405.º
+
+Nos distritos de Lisboa e do Porto, e nos restantes, quando assim for resolvido pelo Conselho de Ministros, não haverá governador civil substituto, mas sim vice-governador civil.
+
+§ 1.º Os vice-governadores civis exercem as funções que lhes forem atribuídas na portaria de nomeação e as que neles forem delegadas pelo respectivo governador civil por despacho tornado público.
+
+§ 2.º Aos vice-governadores civis são aplicáveis, com as devidas adaptações, quando necessário, as disposições legais relativas ao exercício das funções de governador civil, incluindo as respeitantes a isenções, regalias, honras e garantias.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 399-B/84 - Diário da República n.º 299/1984, 1º Suplemento, Série I de 1984-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-b-1984-621936), em vigor a partir de 1985-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 530/74 - Diário do Governo n.º 235/1974, Série I de 1974-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1974-472892)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 406.º
+
+Os governadores civis são isentos de imposto de prestação de trabalho e de qualquer outro serviço pessoal do concelho onde residam, podem usar arma de fogo de qualquer modêlo, independentemente de licença, gozam das honras militares de general ou contra-almirante e têm direito a flâmula própria.
+
+§ 1.º Os governadores civis que sejam oficiais do exército ou da armada de patente inferior a general ou contra-almirante não podem usar farda nas cerimónias em que concorram com oficiais de patente superior à sua, ou em que lhes sejam prestadas honras militares.
+
+§ 2.º Os oficiais do exército ou da armada em exercício das funções de governador civil usarão, abaixo dos galões, duas estrêlas do modêlo adoptado para oficiais em serviço na polícia de segurança pública.
+
+§ 3.º Nos actos e cerimónias oficiais realizados no distrito o governador civil é colocado, na escala protocolar, imediatamente após os membros do Governo e as outras entidades que, por determinação da lei, tenham estatuto equivalente ao daqueles, incluindo direitos, honras e regalias.
+
+§ 4.º O exercício das funções de governador civil e de vice-governador civil é incompatível com o desempenho de qualquer outro cargo público ou da advocacia, arquitectura, engenharia ou ainda da actividade de empreiteiro de obras públicas na área do respectivo governo civil.
+
+§ 5.º O governador civil e o vice-governador civil têm direito a utilizar viatura automóvel do Estado, de segunda categoria.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 399-B/84 - Diário da República n.º 299/1984, 1º Suplemento, Série I de 1984-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-b-1984-621936), em vigor a partir de 1985-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 530/74 - Diário do Governo n.º 235/1974, Série I de 1974-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1974-472892)
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 47935 - Diário do Governo n.º 215/1967, Série I de 1967-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988), em vigor a partir de 1967-11-13
+
+###### Artigo 407.º
+
+Compete ao governador civil:
+
+1.º Informar o Govêrno sôbre quaisquer assuntos de interêsse público ou de interêsse particular que com aquele tenham relação;
+
+2.º Enviar aos Ministros a quem sejam dirigidos, e devidamente informados, quando o possa fazer, os requerimentos, exposições e petições que sejam entregues no govêrno civil;
+
+3.º Revogado.
+
+4.º Exercer as atribuïções de inspecção que lhe são conferidas por êste Código e demais legislação;
+
+5.º Prestar todo o auxílio e cooperação aos funcionários encarregados de inspecção aos corpos administrativos em serviço no seu distrito;
+
+6.º Mandar proceder às eleições dos corpos administrativos nos prazos legais;
+
+7.º Revogado.
+
+8.º Aprovar os estatutos das pessoas colectivas de utilidade pública administrativa e das associações de instrução, de cultura e recreio constituídas nos respectivos distritos que por lei não devam ser submetidos à aprovação de outra autoridade;
+
+9.º Exercer tutela sôbre as pessoas colectivas de utilidade pública administrativa, nos termos da lei;
+
+10.º Superintender nos serviços da secretaria do govêrno civil e conceder aos respectivos funcionários licença até quinze dias em cada ano;
+
+11.º Regular a distribuïção e utilização de todas as dependências do govêrno civil e tomar as medidas necessárias para a sua conservação e reparação;
+
+12.º Dar posse aos funcionários públicos e administrativos, nos casos designados na lei;
+
+13.º Revogado.
+
+14.º Revogado.
+
+15.º Exercer os poderes da competência originária do Ministro da Administração Interna que nele forem delegados.
+
+§ único. Compete aos governadores civis convocar a reunião constitutiva do conselho do distrito e da junta distrital.
+
+> Alterado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1077-11-23
+
+> Alterado pelo/a [Decreto-Lei n.º 491/74 - Diário do Governo n.º 226/1974, Série I de 1974-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1974-473343)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 408.º — Compete ao governador civil, como autoridade policial do distrito:
+
+1.º Tomar as providências necessárias para manter a ordem e tranqüilidade pública, proteger as pessoas e a propriedade e fazer reprimir os actos contrários á moral e à decência pública;
+
+2.º Exercer, como inspector distrital, a polícia dos espectáculos;
+
+3.º Exercer, quanto a reüniões públicas, as atribuïções que lhe forem conferidas por lei;
+
+4.º Exercer a fiscalização necessária sôbre os estrangeiros residentes no seu distrito;
+
+5.º Conceder passaportes nos termos das leis e regulamentos, visar os que para êsse fim lhe forem apresentados, depois de informados pela secretaria, e tomar providências para obstar à emigração clandestina;
+
+6.º (Revogado);
+
+7.º Providenciar sôbre músicos ambulantes e filarmónicas, fogueiras e fogos de artifício;
+
+8.º Superintender na policia dos cultos;
+
+9.º Providenciar acerca dos estabelecimentos e agências onde se inculquem quaisquer serviços;
+
+10.º Providenciar acêrca de leilões em lugares públicos e de corretores de hotéis, pensões ou estabelecimentos semelhantes, criados de servir e moços de fretes;
+
+11.º Tomar providências policiais sôbre mendigos, vadios e vagabundos;
+
+12.º Conceder licenças para o estabelecimento de casas de empréstimos sôbre penhores nas localidades onde não existam agências da Caixa de Crédito Popular e quando não sejam estabelecidas por bancos, casas bancárias ou associações de socorros mútuos;
+
+13.º Exercer as atribuïções de polícia sanitária que lhe sejam cometidas pelas leis e regulamentos e, em especial, perseguir o exercício ilegal da medicina e profissões sanitárias;
+
+14.º Conceder licenças policiais que não sejam da competência do Govêrno ou dos administradores de bairro nem das câmaras municipais ou seus presidentes;
+
+15.º Requisitar aos comandantes distritais de polícia e aos comandantes das fôrças da guarda nacional republicana que estacionem ou sirvam no distrito o que tiver por conveniente para a manutenção da ordem e segurança do distrito;
+
+16.º Requisitar a fôrça armada aos competentes comandos militares nos casos extremos em que a acção policial ou da guarda nacional republicana se revele insuficiente;
+
+17.º Autorizar corridas de velocidade ou outras provas de competições desportivas que se pretenda realizar nas estradas nacionais do distrito e providenciar sôbre o respectivo policiamento;
+
+18.º Exercer quaisquer outras atribuïções policiais que as leis e regulamentos lhe confiram.
+
+§ 1.º Os governadores civis podem elaborar regulamentos genéricos, obrigatórios em todo o distrito, sobre as matérias das suas atribuições policiais que não sejam objecto de lei ou regulamento geral da Administração Pública.
+
+§ 2.º A violação dos regulamentos constitui contra-ordenação, sendo a aplicação das coimas e respectivas sanções acessórias da competência do governador civil.
+
+§ 3.º Os regulamentos fixarão as coimas a aplicar às contra-ordenações, entre o mínimo legal e o máximo de 400000$00 e 500000$00 para as pessoas singulares e 800000$00 e 1000000$00 para as pessoas colectivas, respectivamente, no caso de negligência e dolo.
+
+§ 4.º Os regulamentos poderão cominar a aplicação das sanções acessórias previstas no artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, e ainda prever que seja ordenado, até que sejam removidas as causas, o encerramento do estabelecimento que funcione sem as licenças ou as condições exigidas por lei ou regulamento.
+
+§ 5.º Sempre que a frequência ou gravidade da contra-ordenação o justifique, poderá o regulamento prever que o governador civil possa ordenar ao infractor que se abstenha de praticar actos contrários à lei ou ao próprio regulamento, interditando-lhe, pelo período de 2 a 12 meses, a frequência ou estacionamento em locais públicos ou de livre acesso do público, devidamente identificados na ordem.
+
+§ 6.º As competências do governador civil previstas nos §§ 2.º a 5.º são delegáveis nos termos gerais.
+
+§ 7.º Os regulamentos carecem de ratificação do Governo e serão publicados no Diário da República, entrando em vigor nos prazos fixados para a vigência das leis, se eles próprios não fixarem outros.
+
+> Nota: [Artigo 16.º, Decreto-Lei n.º 215/87 - Diário da República n.º 123/1987, Série I de 1987-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1987-421775) A ratificação dos regulamentos de polícia a que se refere o § 7.º do artigo 408.º do Código Administrativo, na redacção que lhe foi dada pelo Decreto-Lei n.º 103/84, de 30 de Março, é efectuada por despacho do Ministro da Administração cuja competência poderá ser delegada.
+
+> Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 167/97 - Diário da República n.º 152/1997, Série I-A de 1997-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), em vigor a partir de 1997-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 103/84 - Diário da República n.º 76/1984, Série I de 1984-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1984-661737)
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 8/81 - Diário da República n.º 135/1981, Série I de 1981-06-15](https://diariodarepublica.pt/dr/detalhe/lei/8-1981-578974)
+
+> Alterado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 77/74 - Diário do Governo n.º 52/1974, Série I de 1974-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1974-412775)
+
+###### Artigo 409.º
+
+Nos casos de èxtrema urgência e necessidade pública pode o governador civil tomar todas as providências administrativas indispensáveis, solicitando, logo que lhe seja possível, a ratificação pelo Govêrno dos actos que tiver praticado fora da sua competência normal.
+
+###### Artigo 410.º
+
+O governador civil pode ser encarregado de inspeccionar e fiscalizar qualquer serviço público dependente do Govêrno, seja qual fôr o Ministério em que o serviço esteja integrado, e corresponder-se directamente com todos os Ministros, cumprindo as ordens e instruções que nas matérias da respectiva competência dêles receber.
+
+###### Artigo 411.º
+
+O governador civil pode ratificar, revogar, reformar ou converter as suas decisões, nos termos previstos no artigo 83.º para as decisões do presidente da câmara.
+
+§ 1.º Dos actos do governador civil cabe recurso hierárquico para o Govêrno, sem prejuízo do recurso contencioso, quando a êste haja lugar, e dentro do mesmo prazo.
+
+§ 2.º Dos actos do governador civil arguidos de incompetência, excesso de poder ou violação de lei, regulamento ou contrato administrativo pode recorrer-se contenciosamente, nos termos e prazos legais.
+
+###### Artigo 412.º
+
+O governador civil não poderá ser, sem prévia autorização do Govêrno, demandado criminalmente por actos relativos às suas funções, ainda que estas hajam cessado.
+
+§ 1.º Constituído o corpo de delito, enviar-se-á certidão das peças do processo ao Ministro do Interior, com o pedido de autorização.
+
+§ 2.º A autorização será concedida por despacho ou denegada em portaria, publicados na fôlha oficial dentro de trinta dias a contar daquele em que o respectivo pedido der entrada no Ministério do Interior. Não sendo denegada neste prazo, entender-se-á concedida para todos os efeitos.
+
+§ 3.º Concedida a autorização exigida neste artigo, o governador civil fica desde logo suspenso do exercício das suas funções.
+
+> Revogado pelo/a Artigo 114.º do/a [Lei n.º 79/77 - Diário da República n.º 247/1977, Série I de 1977-10-25](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), em vigor a partir de 1977-11-24
+
+> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 74/75 - Diário do Governo n.º 44/1975, Série I de 1975-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1975-160128), em vigor a partir de 1975-02-21
+
+### Capítulo II — Da secretaria do govêrno civil
+
+###### Artigo 413.º
+
+O expediente do govêrno civil corre por uma secretaria privativa, dirigida por um secretário.
+
+###### Artigo 414.º
+
+Compete ao secretário:
+
+1.º Dirigir, sob as ordens do governador civil e em conformidade com o regulamento interno, o expediente e trabalhos da secretaria;
+
+2.º Preparar os processos que tenham de ser resolvidos pelo governador civil, interpondo parecer ou informando, nos termos das leis e regulamentos;
+
+3.º Receber e dar andamento a toda a correspondência e mais papéis que entrarem na secretaria, apresentando ao governador civil, fechada, a correspondência que tiver a indicação de confidencial ou reservada;
+
+4.º Autenticar todos os documentos e assinar todas as certidões expedidas pela secretaria e subscrever quaisquer termos oficiais;
+
+5.º Conservar sob a sua responsabilidade o arquivo do govêrno civil;
+
+6.º Corresponder-se com todos os funcionários e repartições subordinados ao governador civil e, em nome e de ordem deste, com quaisquer magistrados, funcionários e corpos administrativos do distrito;
+
+7.º Substituir o governador civil, nos termos dos §§ 1.º e 2.º do artigo 404.º;
+
+8.º Resolver, no impedimento acidental do governador civil e quando êste não possa ser prevenido, os negócios que exigirem pronta resolução;
+
+9.º Dar parecer relativo à interpretação e aplicação das leis, nas consultas que pelos presidentes dos corpos administrativos sejam submetidas à apreciação do Govêrno, por intermédio do governador civil;
+
+10.º Exercer quaisquer outras atribuïções que lhe sejam impostas por lei, regulamento ou decisão do Govêrno.
+
+###### Artigo 415.º
+
+Em cada govêrno civil existirá um regulamento interno da respectiva secretaria, elaborado de harmonia com as leis, regulamentos e instruções do Govêrno e aprovado pelo Ministro do Interior.
+
+## Título VIII — Das pessoas colectivas de utilidade pública administrativa
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+### Capítulo I — Disposições comuns
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+#### Secção I — Regime geral e tutelar
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 416.º
+
+Consideram-se pessoas colectivas de utilidade pública administrativa as associações beneficentes ou humanitárias e os institutos de assistência ou educação, tais como hospitais, hospícios, asilos, casas pias, creches, lactários, albergues, dispensários, sanatórios, bibliotecas e estabelecimentos análogos, fundados por particulares, desde que umas e outros aproveitem em especial aos habitantes de determinada circunscrição e não sejam administrados pelo Estado ou por um corpo administrativo.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 417.º
+
+As associações e institutos referidos no artigo anterior adquirem personalidade jurídica no acto da constituïção e são para todos os efeitos reconhecidos desde logo de utilidade pública.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 418.º
+
+As pessoas colectivas de utilidade pública administrativa estão submetidas à tutela do Estado, em conformidade com as leis, decretos, portarias, instruções e ordens emanados do Govêrno.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 419.º
+
+As pessoas colectivas de utilidade pública administrativa gozam de isenção de preparos, custas e selos nos processos em que forem interessadas.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 420.º
+
+Compete ao governador civil, por si ou por intermédio dos presidentes das câmaras municipais e sem prejuízo de qualquer inspecção superior organizada por lei, fiscalizar a administração destas pessoas colectivas e coordenar em todo o distrito a sua acção, harmonizando-a com a dos corpos administrativos, do modo a obter-se o máximo rendimento dos esforços conjugados.
+
+§ único. O governador civil pode solicitar aos Ministros competentes a inspecção dos serviços de determinadas associações ou institutos.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 421.º
+
+Salvo o que se dispuser em lei especial, quanto às associações beneficentes, não são executórias sem aprovação do governador civil as deliberações que aprovem orçamentos ordinários ou suplementares ou fixem os quadros, forma de provimento e vencimentos do pessoal.
+
+§ único. A Direcção Geral de Assistência tem competência para transmitir instruções sôbre organização dos orçamentos a que êste artigo se refere e fiscalizar o seu cumprimento.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 422.º
+
+Dependem de autorização do Govêrno, dada pelo Ministério do Interior:
+
+1.º A aquisição de bens imobiliários por título oneroso e a sua alienação por qualquer título;
+
+2.º A realização de empréstimos.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 423.º
+
+As pessoas colectivas de utilidade pública administrativa só podem aceitar heranças a benefício de inventário, e não são obrigadas a cumprir encargos que excedam as fôrças da herança, legado ou doação, quer por absorverem o seu valor, quer por envolverem prestações periódicas superiores ao rendimento dos bens recebidos.
+
+§ único. Os encargos que excedam as fôrças da herança, legado ou doação serão reduzidos até ao limite dos respectivos rendimentos ou à têrça parte do capital.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 424.º
+
+O governador civil remeterá ao agente do Ministério Público competente:
+
+1.º Cópia das deliberações executórias que, tendo sido tomadas com violação das leis, regulamentos, compromissos ou estatutos, devam ser anuladas contenciosamente;
+
+2.º Os elementos necessários para efectivar, pelos meios judiciais competentes, a responsabilidade solidária das mesas, direcções ou administrações, por haverem mutuado capitais sem a garantia de penhor ou hipoteca ou haverem praticado outros actos inconvenientes aos interêsses da associação ou instituto;
+
+3.º A participação de quaisquer actos ou omissões por que sejam responsáveis os gerentes das associações ou institutos e que dêem lugar a aplicação de sanções penais.
+
+§ único. Para o efeito do disposto no n.º 1.º incumbe às pessoas colectivas de utilidade pública administrativa o dever de satisfazer prontamente todos os pedidos de cópias das actas e mais documentos dos seus arquivos ou de informações complementares que lhes forem feitos de ordem do governador civil.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+#### Secção II — Pessoal
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 425.º
+
+Os empregados das pessoas colectivas de utilidade pública administrativa serão contratados ou assalariados.
+
+§ único. Os empregados a quem êste artigo se refere não são funcionários administrativos, e só lhes são aplicáveis as disposições do estatuto dos funcionários que as leis expressamente determinarem.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 426.º
+
+As entidades tutelares informar-se-ão sempre, antes de aprovarem as propostas de quadros ou de modificação de quadros, sôbre a forma por que foram elaborados, procurando averiguar se nelas existem cargos dispensáveis ou cujo provimento deva fazer-se de modo menos oneroso.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+#### Secção III — Orçamento, contabilidade e tesouraria
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 427.º
+
+A elaboração e execução do orçamento e o funcionamento dos serviços de contabilidade e tesouraria das pessoas colectivas de utilidade pública administrativa serão regulados pelo Govêrno em moldes quanto possível semelhantes aos estabelecidos para os corpos administrativos e tendo em atenção as diferenças que caracterizam as diversas categorias de associações e institutos.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 428.º
+
+As contas de gerência das pessoas colectivas de utilidade pública administrativa; salvo o disposto em lei especial, serão julgadas pela junta distrital, com recurso para o Tribunal de Contas, ou por este, se a despesa total acusada for superior a 500 contos.
+
+§ único. As contas serão apresentadas até 1 de Abril do ano seguinte àquele a que disserem respeito.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção IV — Dissolução e extinção
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 429.º
+
+Compete ao Governo, pelo Ministro do Interior, ou pelo Ministro da Saúde e Assistência tratando-se de associações ou institutos beneficentes, dissolver, depois de ouvidas, as mesas, direcções ou administrações das pessoas colectivas de utilidade pública administrativa, quando se prove, em inquérito ou sindicância, algum dos seguintes factos:
+
+1.º Falta de elaboração ou de apresentação dos orçamentos nos prazos legais, por motivos que lhes sejam imputáveis;
+
+2.º Falta de organização ou de apresentação das contas de gerência sem motivo justificado;
+
+3.º Inobservância das instruções e ordens legalmente dadas pelo Govêrno ou pelo governador civil e oposição ao exercício das faculdades de fiscalização das entidades competentes;
+
+4.º Prática seguida de actos de gerência nocivos aos interêsses da associação ou instituto;
+
+5.º Desvio dos fins estatutários ou dos princípios consignados na Constituição.
+
+6.º Prorogação ilegal do mandato para além do tempo para que foram eleitas.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 430.º
+
+Dissolvida a mesa, direcção ou administração, o governador civil nomeará, no próprio alvará de dissolução, uma comissão administrativa de três membros, por êle livremente escolhidos, à qual ficam pertencendo as atribuïções e competência das mesas, direcções ou administrações dissolvidas, excepto quanto à admissão de irmãos ou sócios com direito de voto.
+
+§ 1.º O alvará de dissolução designará também o dia da eleição da nova mesa, direcção ou administração, compreendido nos sessenta dias seguintes, sem o que será nulo e de nenhum efeito;
+
+§ 2.º São inelegíveis para a nova mesa, direcção ou administração os membros da que tiver sido dissolvida por facto que lhe seja imputável;
+
+§ 3.º Inobservância das instruções e ordens legalmente dadas pelo Governo ou pelo governador civil ou oposição ao exercício das faculdades de fiscalização das entidades competentes;
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 431.º
+
+Serão extintas pelo Ministro do Interior, ou pelo Ministro da Saúde e Assistência tratando-se de associações ou institutos beneficentes:
+
+1.º As associações legalmente erectas que não tenham o dobro do número de irmãos ou sócios necessários para constituírem os corpos gerentes;
+
+2.º As associações ilegalmente erectas;
+
+3.º Os institutos que tenham preenchido o seu fim e as associações ou institutos que seja socialmente inútil ou prejudicial conservar.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 432.º
+
+Os bens e valores das associações ou institutos extintos serão arrolados e reverterão para o Estado.
+
+§ único. A Direcção Geral de Assistência tomará conta dos bens e entregá-los-á seguidamente à Misericórdia do lugar onde tenha tido a sua sede a associação ou instituto extinto ou, não a havendo, à da sede do concelho ou, na falta desta, a qualquer obra de assistência pública ou particular existente na circunscrição.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+### Capítulo II — Das associações beneficentes ou humanitárias
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+#### Secção I — Misericórdias
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 433.º
+
+A denominação de «Santa Casa da Misericórdia» ou de «Misericórdia» só pode ser usada por estabelecimentos de assistência ou beneficência criados e administrados por irmandades ou confrarias canònicamente erectas e constituídas por compromisso, de harmonia com o espírito tradicional da instituïção, para a prática da caridade cristã.
+
+§ único. Os compromissos das Misericórdias carecem da aprovação do Govêrno.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 434.º
+
+São atribuïções de exercício obrigatório das Misericórdias:
+
+1.º A sustentação de postos hospitalares, especialmente para socorros urgentes;
+
+2.º O socorro às grávidas e a protecção aos recém-nascidos, podendo, por acôrdo com as câmaras, encarregar-se da assistência aos expostos e desamparados;
+
+3.º O enterramento dos pobres e indigentes que não tenham família ou meios para o funeral.
+
+§ único. Os governadores civis fiscalizam o cumprimento das obrigações impostas às Misericórdias, auxiliando-as na obtenção dos recursos necessários e sugerindo superiormente as medidas indispensáveis para as dotar dos meios materiais e financeiros que de outro modo não se possam conseguir.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 435.º
+
+É da competência das mesas das Misericórdias propor ao Govêrno a expropriação, por utilidade pública e urgente, de quaisquer prédios, rústicos ou urbanos, indispensáveis à realização dos seus fins beneficentes.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 436.º
+
+As certidões extraídas dos livros e documentos existentes nas secretarias e arquivos das Misericórdias, subscritas pelos secretários e autenticadas com o respectivo sêlo branco, fazem prova plena em juízo.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 437.º
+
+São aplicáveis às Misericórdias as disposições relativas à alienação de bens próprios, empreitadas e fornecimentos dos concelhos.
+
+§ único. Será dispensado o concurso sempre que o fornecimento a contratar tenha por objecto géneros cujos preços estejam fixados por entidades oficiais ou pelos organismos corporativos ou de coordenação económica.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 438.º
+
+As disposições dêste Código não são aplicáveis à Misericórdia de Lisboa.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+#### Secção II — Outras associações de beneficência
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 439.º
+
+São consideradas de beneficência as associações que tenham por objecto principal socorrer os pobres e indigentes, na infância, invalidez, doença ou velhice, bem como educá-los ou instruí-Ios.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 440.º
+
+As associações de beneficência carecem, para se constituírem, de aprovação dos respectivos estatutos pelo Ministério, da Saúde e Assistência, que ouvirá o governador civil e condicionará a aprovação por forma a garantir a cooperação com a Misericórdia local e a acção comum de todas as associações e institutos de assistência no mesmo concelho.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção III — Associações humanitárias
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 441.º
+
+São consideradas humanitárias as associações que tenham por objecto principal socorrer feridos, doentes ou náufragos, a extinção de incêndios ou qualquer outra forma de protecção desinteressada de vidas humanas e bens.
+
+§ único. Para efeitos de regulamentação jurídica são equiparadas às associações humanitárias as que tenham objecto principal a protecção dos animais.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 442.º
+
+As associações humanitárias carecem, para se constituírem, de autorização do governador civil.
+
+§ 1.º A autorização será pedida pelos fundadores em requerimento acompanhado pelo projecto dos estatutos.
+
+§ 2.º O governador civil consultará sôbre o pedido o presidente da câmara municipal do concelho onde a associação pretende estabelecer-se, pedindo-lhe informação sôbre a viabilidade do projecto e provável utilidade da associação.
+
+§ 3.º Obtida a informação do presidente da câmara e sob parecer do secretário do govêrno civil, será o pedido despachado pelo governador civil, considerando-se aprovados os estatutos quando seja concedida a autorização.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 443.º
+
+Os haveres das associações extintas reverterão para o município, que os aplicará em serviços que prossigam o mesmo fim. Se estes não existirem, seguirão o destino prescrito no artigo 432.º
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+### Capítulo III — Dos Institutos de utilidade local
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 444.º
+
+São considerados institutos de utilidade local as pessoas colectivas de utilidade pública administrativa constituídas por fundação de particulares mediante afectação de bens dispostos em vida ou por morte para prossecução de um fim de assistência ou de educação.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 445.º
+
+A vontade expressa do fundador ou fundadores será respeitada em tudo o que não contrariar as leis de interêsse e ordem pública e os princípios da moral e da ordem social, por forma a realizar-se o fim de utilidade pública visado, salva a hipótese de manifesta impossibilidade de direito ou de facto.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 446.º
+
+Quando os fundadores não tenham providenciado sobre a organização e administração do instituto incumbirá ao Ministro competente regulá-las por meio de estatutos e regulamentos adequados.
+
+§ único. Os estatutos e regulamentos poderão ser outorgados pelo Ministro da Saúde e Assistência ou propostos pelos testamenteiros ou administradores da herança ou legado e por aquele homologados.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 447.º
+
+Se, preenchido o fim do instituto ou tornada impossível a sua prossecução, o Ministro achar inconveniente extinguir o estabelecimento, poderá modificar os estatutos e destinar o respectivo património a outros fins de utilidade pública semelhantes aos visados pelo fundador.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 448.º
+
+Os haveres dos institutos de utilidade local que sejam extintos reverterão para o Estado, que, pela Direcção Geral de Assistência, lhes dará destino tanto quanto possível conforme com a vontade do fundador.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+## Título IX — Das associações religiosas e sua actividade beneficente ou de assistência
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 449.º
+
+São consideradas associações religiosas as que se constituírem com o fim principal da sustentação do culto, de harmonia com as normas de hierarquia e disciplina da religião a que pertencerem.
+
+§ único. Às associações e organizações das igrejas não consideradas associações religiosas, nos termos deste artigo, não é aplicável a disciplina instituída no presente título, ficando sujeitas ao direito comum quando pertençam a confissões diferentes da católica.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 450.º
+
+As associações religiosas adquirem personalidade jurídica pelo acto de registo da participação escrita da sua constituição, apresentada na secretaria do govêrno civil do respectivo distrito.
+
+§ único. Exceptuam-se as associações religiosas da Igreja Católica, cuja personalidade jurídica resulta da simples participação escrita feita pelo bispo da diocese onde tiverem a sua sede, ou por seu legítimo representante, ao governador civil competente.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 451.º
+
+Em caso de modificação ou de extinção de uma associação religiosa far-se-á participação nos mesmos termos estabelecidos para a constituïção.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+###### Artigo 452.º
+
+As associações religiosas administram-se livremente e podem adquirir bens e dispor dêles nos termos por que o podem fazer, segundo a lei civil, as pessoas morais perpétuas.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 453.º
+
+As associações religiosas que, além de fins religiosos, se propuserem também fins de assistência ou beneficiência, em cumprimento de deveres estatutários ou de encargos que onerem heranças, legados ou doações por elas aceites, ficam obrigadas a prestação de contas relativamente à sua actividade beneficente ou de assistência nos mesmos termos prescritos para as associações de beneficência.
+
+§ 1.º As contas serão apresentadas até 1 de Abril do ano seguinte àquele a que disserem respeito.
+
+§ 2.º As contas da actividade beneficente das associações religiosas da Igreja Católica serão prestadas através do Ordinário competente.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 454.º
+
+Os institutos de assistência ou beneficência fundados, dirigidos ou sustentados por associações religiosas ficam sujeitos ao regime legal dos restantes institutos de utilidade local de fins análogos, sem prejuízo da disciplina e espírito religiosos que os informam.
+
+> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+## Parte II — Dos funcionários administrativos e dos assalariados
+
+## Título I — Dos funcionários de carteira das secretarias e tesourarias
+
+### Capítulo I — Das categorias e quadros
+
+###### Artigo 455.º
+
+O pessoal maior das secretarias dos governos civis e administrações de bairros e das secretarias e tesourarias das câmaras municipais e juntas distritais constitui três categorias, compreendendo a primeira três classes, a segunda quatro classes e a última duas classes.
+
+§ único. A distribuição dos funcionários pelas diferentes categorias e classes faz-se pela forma constante do mapa anexo a este Código.O pessoal maior das secretarias dos governos civis e administrações de bairros e das secretarias e tesourarias das câmaras municipais e juntas distritais constitui três categorias, compreendendo as duas primeiras três classes e a última duas classes.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 456.º
+
+Os funcionários da 1.ª e 2.ª categoria constituem um quadro, com a designação de quadro geral administrativo dos serviços externos do Ministério do Interior.
+
+§ único. Pertencem também ao quadro geral a que êste artigo se refere os agentes do Ministério Público junto das auditorias administrativas e os administradores dos bairros de Lisboa e Pôrto.
+
+###### Artigo 457.º
+
+Os funcionários da terceira categoria constituem quadros privativos de cada governo civil, administração de bairro, câmara municipal e junta distrital.
+
+§ único. Os funcionários dos quadros privativos dos governos civis e administrações de bairro podem ser transferidos de um para outro distrito ou bairro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 458.º
+
+O quadro-tipo do pessoal de cada secretaria e tesouraria é o descrito no mapa anexo a este código.
+
+§ 1.º Os corpos administrativos deliberarão sobre a fixação dos seus quadros, podendo adoptar quadros mais reduzidos do que o quadro-tipo.
+
+§ 2.º Em caso de imperiosa necessidade do serviço poderá o Ministro do Interior, a requerimento do respectivo corpo administrativo e sob proposta do governador civil do distrito, permitir que seja fixado o quadro do pessoal com um número de funcionários superior ao do quadro existente, podendo mesmo exceder o quadro-tipo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 46139 - Diário do Governo n.º 305/1964, 1º Suplemento, Série I de 1964-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46139-1964-355113)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 459.º
+
+O pessoal dos serviços burocráticos das Câmaras Municipais de Lisboa e Porto constitui quadros privativos das mesmas câmaras e a sua categoria, vencimentos, recrutamento e provimento serão regulados nas respectivas organizações internas, dentro dos princípios estabelecidos neste código e mais legislação aplicável.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38065 - Diário do Governo n.º 241/1950, Série I de 1950-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38065-1950-490902)
+
+### Capítulo II — Do recrutamento e provimento
+
+#### Secção I — Disposições comuns
+
+###### Artigo 460.º
+
+São requisitos essenciais para admissão aos concursos:
+
+1.º Ter a nacionalidade portuguesa, originária ou adquirida por naturalização ou casamento sôbre os quais tenham já passado dez anos, pelo menos;
+
+2.º Ter dezóito anos de idade, pelo menos, mas não mais de trinta e cinco, exceptuados, quanto a êste limite, os que já forem funcionários públicos ou administrativos;
+
+3.º Não estar interdito judicialmente, nem suspenso do exercício dos direitos políticos;
+
+4.º Possuir a robustez física necessária para o exercício do cargo, não sofrer de doença contagiosa, particularmente tuberculose contagiosa ou evolutiva, ter sido vacinado ou haver sofrido ataque de varíola nos últimos sete anos e encontrar-se vacinado contra o tétano, nos termos da legislação especial;
+
+5.º Haver cumprido os deveres militares que, nos termos das leis sôbre recrutamento, tenham cabido ao concorrente até à data do concurso;
+
+6.º Estar livre de culpa no respectivo registo criminal e não ter sofrido anteriormente pena que importe demissão de funções públicas, salvo tendo sido reabilitado em revisão de sentença;
+
+7.º Possuir a habilitação correspondente à escolaridade obrigatória, nos casos em que outra não for especialmente exigida;
+
+8.º Possuir bilhete de identidade actualizado.
+
+§ 1.º Salva indicação expressa em contrário, constante do respectivo aviso de abertura, é dispensada a apresentação dos documentos comprovativos dos requisitos exigidos para a admissão a concurso, devendo os candidatos declarar nos respectivos requerimentos, em alíneas separadas e sob compromisso de honra, a situação precisa em que se encontrem, relativamente às condições a que se referem os n.os 1.º, 2.º, 5º, 7.º e 8.º do corpo deste artigo e ainda às condições especiais porventura exigidas para aquele efeito.
+
+§ 2.º Os candidatos poderão também especificar no requerimento quaisquer circunstâncias que reputem susceptíveis de influírem na apreciação do seu mérito ou constituírem motivo de preferência legal. Não poderão ser consideradas estas circunstâncias quando os interessados não tenham feito a correspondente declaração ou apresentado os documentos comprovativos.
+
+§ 3.º A apresentação dos documentos comprovativos dos requisitos a que se referem o corpo deste artigo e o parágrafo antecedente, que não forem juntos ao requerimento de admissão, apenas será exigida quando houver lugar ao provimento; para o efeito, o candidato será avisado de que deverá apresentar aqueles documentos no prazo de trinta dias, o qual poderá ser prorrogado, uma única vez, por período a determinar, de harmonia com as circunstâncias, quando a falta de apresentação dos documentos, dentro do prazo inicial, não seja imputável ao interessado. O aviso será feito por ofício sob registo e com aviso de recepção, expedido para a residência indicada no requerimento de admissão a concurso ou para a que, por escrito, posteriormente o interessado tiver comunicado.
+
+§ 4.º Os candidatos que forem funcionários à data do provimento ficam dispensados, mediante a prova dessa qualidade, da junção de documentos, salvo do destinado a comprovar o requisito do n.º 7.º
+
+§ 5.º Quando, de harmonia com o disposto no § 1.º deste artigo, for dispensada a apresentação de qualquer documento, os requerimentos de admissão a concurso de habilitação ficarão sujeitos, além do selo do papel, a imposto de 50$00, a pagar por estampilha, que o interessado inutilizará, nos termos legais.
+
+§ 6.º A falsidade das declarações a que se referem os §§ 1.º e 2.º deste artigo será punida com prisão até um ano, salvo se se provar que resultou de negligência, caso em que a pena a aplicar será a de multa até 1000$00.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 461.º
+
+Sempre que seja permitido a funcionários requerer a admissão a concurso, entender-se-á que se trata de funcionários na efectividade de serviço, salvo se estiverem em qualquer das situações previstas no n.º 4.º do artigo 521.º e na alínea b) do artigo 522.º, e, se for caso disso, com provimento definitivo.
+
+§ 1.º O candidato reprovado em concurso de promoção só pode ser admitido a novo concurso decorrido o prazo de um ou três anos sobre a data da última prova, conforme se tratar de primeira ou segunda reprovação; o candidato reprovado em três concursos de promoção não poderá ser admitido a novo concurso.
+
+§ 2.º O regime do parágrafo anterior aplica-se aos candidatos a quaisquer concursos de habilitação que não sejam ainda funcionários administrativos.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 36602 - Diário do Governo n.º 273/1947, Série I de 1947-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36602-1947-636682)
+
+#### Secção II — Quadros privativos
+
+##### Subsecção I — Ingresso nos quadros
+
+###### Artigo 462.º
+
+O recrutamento dos funcionários dos quadros privativos dos governos civis, administrações de bairro, câmaras municipais e juntas distritais é feito por concurso.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 463.º
+
+Os concursos para as vagas que ocorrerem nos quadros privativos dos governos civis e das administrações dos bairros serão abertos pela Direcção-Geral de Administração Política e Civil e realizar-se-ão no governo civil do respectivo distrito; os concursos que ocorrerem nos quadros privativos dos corpos administrativos serão abertos por deliberação destes e realizar-se-ão nas respectivas sedes.
+
+§ 1.º Os concursos para lugares dos quadros privativos dos governos civis dos distritos autónomos serão abertos por despacho dos respectivos governadores civis.
+
+§ 2.º Os concursos serão anunciados no Diário do Governo com trinta dias de antecedência, pelo menos.
+
+§ 3.º O período de validade dos concursos é de três anos, contados da data da publicação dos resultados no Diário do Governo.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 48669 - Diário do Governo n.º 262/1968, Série I de 1968-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48669-1968-263527)
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 45362 - Diário do Governo n.º 273/1963, Série I de 1963-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45362-1963-683987)
+
+###### Artigo 464.º
+
+Os concursos constarão de provas documentais e práticas, regulando o Govêrno uniformemente o programa e modo de prestação destas.
+
+###### Artigo 465.º
+
+O júri dos concursos será constituído:
+
+1.º Para os governos civis, pelo governador civil, pelo secretário do governo civil e por outro funcionário do quadro geral administrativo designado pelo governador civil;
+
+2.º Para as administrações dos bairros, pelo governador civil, pelo secretário do governo civil e pelo administrador de bairro;
+
+3.º Para as câmaras municipais, pelo presidente da câmara, um vereador por esta designado e o chefe da secretaria;
+
+4.º Para as juntas distritais, pelo presidente da junta distrital, um procurador por esta designado e o chefe da secretaria.
+
+§ único. No caso de impedimento ou suspeição contra qualquer membro do júri, será este substituído por quem o Ministro do Interior designar.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 48669 - Diário do Governo n.º 262/1968, Série I de 1968-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48669-1968-263527)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37573 - Diário do Governo n.º 216/1949, Série I de 1949-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37573-1949-265736)
+
+###### Artigo 466.º
+
+Prestadas as provas práticas por todos os concorrentes admitidos, o júri elaborará a proposta graduada dos candidatos, adoptando a classificação de 0 a 20, e apresentá-la-á ao Ministro do Interior ou ao corpo administrativo, conforme os casos, para efeito do respectivo provimento.
+
+§ único. Consideram-se excluídos os candidatos que obtenham classificação inferior a 10 valores.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 36602 - Diário do Governo n.º 273/1947, Série I de 1947-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36602-1947-636682)
+
+###### Artigo 467.º
+
+Constituem preferências a observar para o efeito do provimento dos candidatos aprovados em concurso:
+
+1.º Melhor classificação obtida no concurso;
+
+2.º Ter prestado serviço militar durante o tempo mínimo exigido para a instrução de recrutas ou para a freqüência dos cursos de preparação para quadros milicianos;
+
+3.º Maiores habilitações literárias;
+
+4.º Ter exercido, ainda que interinamente ou por contrato, funções públicas ou administrativas;
+
+5.º Mais tempo de serviço no exercício das funções a que se refere o número anterior.
+
+§ único. As preferências enumeradas neste artigo não se acumulam, e só quando existam dois ou mais candidatos em igualdade de condições relativamente à primeira preferência se recorrerá à segunda, procedendo-se do mesmo modo quando dois ou mais se encontrem em igual situação quanto a esta, e assim sucessivamente.
+
+###### Artigo 468.º
+
+§ 1.º Os candidatos aprovados poderão desistir do provimento na vaga para que sejam chamados, passando, nesse caso, para o último lugar da lista de classificação; a segunda desistência implica a perda dos direitos resultantes da aprovação no concurso.
+
+§ 2.º A desistência deverá ser manifestada por escrito, mas, se o não for, resultará do facto de não serem apresentados os documentos a que se refere o § 3.º do artigo 460.º no prazo ali fixado.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 469.º
+
+O provimento faz-se por contrato.
+
+§ 1.º Os contratos de provimento, salvo se preceitos especiais estabelecerem regime diverso, consideram-se celebrados com sujeição às seguintes normas gerais:
+
+a) O contratado obriga-se a exercer as funções que regularmente lhe forem cometidas;
+
+b) O contrato é válido pelo prazo de um ano, a contar da data da posse, considerando-se tácita e sucessivamente prorrogado, por iguais períodos, se não for denunciado:
+
+c) A denúncia do contrato pode ser feita por qualquer das partes, com a antecedência mínima de sessenta dias em relação ao termo do prazo;
+
+d) A entidade competente para o provimento poderá rescindir o contrato a todo o tempo, a pedido do contratado, se não resultar prejuízo para os serviços;
+
+e) A mesma entidade poderá ainda rescindir o contrato a todo o tempo, por conveniência de serviço, desde que notifique o contratado com a antecedência mínima de sessenta dias ou lhe conceda indemnização correspondente à remuneração devida durante o mesmo período.
+
+§ 2.º A celebração do contrato, com a aceitação das normas gerais e das cláusulas especiais constantes do termo de posse, considera-se efectuada mediante a assinatura deste termo.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2102 - Diário do Governo n.º 57/1960, Série I de 1960-03-10](https://diariodarepublica.pt/dr/detalhe/lei/2102-1960-281861)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42178 - Diário do Governo n.º 53/1959, Série I de 1959-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42178-1959-587184)
+
+###### Artigo 470.º
+
+O ingresso nos quadros privativos dá-se pelo cargo de escriturário-dactilógrafo de 2.ª classe.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 48669 - Diário do Governo n.º 262/1968, Série I de 1968-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48669-1968-263527)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+##### Subsecção II — Promoção
+
+###### Artigo 471.º
+
+A promoção à classe de escriturário-dactilógrafo de 1.ª classe faz-se mediante concurso entre os escriturários-dactilógrafos de 2.ª classe do mesmo quadro, com o mínimo de um ano de bom e efectivo serviço, e, no caso de se tratar de quadro de corpo administrativo, poderão ainda concorrer os propostos de tesoureiro e seus auxiliares que exerçam as funções com carácter de permanência, hajam sido providos com menos de 35 anos de idade, satisfaçam aos demais requisitos do artigo 460.º deste Código e tenham mais de dois anos de bom e efectivo serviço.
+
+§ único. Se o concurso ficar deserto, nenhum dos candidatos obtiver aprovação ou o número de candidatos aprovados se revelar insuficiente para preencher as vagas que se verificarem dentro do prazo da respectiva validade, abrir-se-á novo concurso, a que poderão também candidatar-se funcionários nas condições do corpo deste artigo, mas pertencentes a outros quadros privativos das secretarias dos governos civis, administrações de bairro e corpos administrativos, bem como indivíduos estranhos aos quadros, com a habilitação do 2.º ciclo dos liceus ou equivalente.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+#### Secção III — Quadro geral administrativo
+
+##### Subsecção I — Ingresso no quadro
+
+###### Artigo 472.º
+
+O recrutamento dos funcionários do quadro geral administrativo é feito mediante concurso de habilitação e concurso de provimento.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 473.º
+
+Para a admissão ao quadro geral administrativo realizar-se-ão no Ministério do Interior, quando o Ministro o determinar, concursos de habilitação, válidos por três anos.
+
+§ único. Os concursos serão anunciados no Diário do Governo com trinta dias de antecedência, pelo menos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37573 - Diário do Governo n.º 216/1949, Série I de 1949-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37573-1949-265736)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 36602 - Diário do Governo n.º 273/1947, Série I de 1947-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36602-1947-636682)
+
+###### Artigo 474.º
+
+O concurso de habilitação constará de provas práticas, consistindo estas em exercícios de redacção, problemas sôbre orçamentos e resolução de casos de direito administrativo.
+
+§ único. O regulamento do concurso e respectivo programa ou as alterações introduzidas nêles serão publicados pelo Govêrno três meses antes, pelo menos, da prestação das provas.
+
+###### Artigo 475.º
+
+O júri do concurso de habilitação para o quadro geral administrativo será constituído pelo director-geral de Administração Política e Civil ou seu delegado, que presidirá, e por um secretário de governo civil e um chefe de secretaria de câmara municipal, ou um funcionário da Direcção-Geral de Administração Política e Civil, designados pelo Ministro do Interior.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 476.º
+
+Só podem ser admitidos ao concurso de habilitação para o quadro geral administrativo:
+
+1.º Os funcionários dos quadros privativos com provimento definitivo e mais de cinco anos de bom e efectivo serviço na categoria;
+
+2.º Os diplomados com qualquer curso superior.
+
+§ único. Quando o concurso fique deserto, ou tenham sido aprovados candidatos em número insuficiente para o provimento das vagas existentes e previstas dentro do prazo de um ano, será aberto novo concurso, a que serão obrigatòriamente concorrentes todos os funcionários nas condições do n.º 1.º dêste artigo com menos de sessenta anos de idade.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 477.º
+
+Findas as provas práticas o júri elaborará a lista graduada dos concorrentes, adoptando a classificação de 0 a 20. A lista será publicada no Diário do Governo.
+
+§ 1.º Consideram-se excluídos os candidatos cuja classificação final seja inferior a 10 valores.
+
+§ 2.º Consideram-se aptos a ser providos nas vagas que venham a dar-se em qualquer dos cargos de 4.ª classe da 2.ª categoria todos os candidatos aprovados, preferindo-se, porém, os que tiverem melhor classificação.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 36602 - Diário do Governo n.º 273/1947, Série I de 1947-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36602-1947-636682)
+
+###### Artigo 478.º
+
+Os candidatos aprovados no concurso de admissão ao quadro geral administrativo ingressarão nele à medida que forem sendo providos em cargos da 4.ª classe da 2.ª categoria.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 479.º
+
+Os funcionários do quadro geral administrativo dos serviços externos da Direcção-Geral podem ser providos em lugares do quadro único da Secretaria-Geral do Ministério do Interior e da mesma Direcção-Geral nas condições para o efeito estabelecidas na Lei Orgânica destes departamentos.
+
+§ 1.º Para o efeito do disposto neste artigo, os cargos de terceiro-oficial, segundo-oficial e primeiro-oficial consideram-se correspondentes, respectivamente, à 4.ª, 3.ª e 2.ª classe da 2.ª categoria do quadro geral dos serviços externos.
+
+§ 2.º Os lugares de terceiro-oficial do quadro interno da Direcção-Geral de Administração Política e Civil podem ser providos, por escolha, de entre funcionários da 4.ª classe da 2.ª categoria do quadro gera] administrativo dos serviços externos ou, mediante concurso de provimento, em indivíduos aprovados no respectivo concurso de habilitação.
+
+§ 3.º Os lugares de segundo-oficial e primeiro-oficial da mesma Direcção-Geral poderão ser providos, por escolha, respectivamente, de entre funcionários da 3.ª ou da 2.ª classe do quadro geral administrativo dos serviços externos ou em indivíduos aprovados no correspondente concurso de habilitação, desde que o primeiro concurso fique deserto ou, esgotada a lista dos candidatos que nele obtiveram aprovação, ainda fiquem existindo vagas.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 156/74 - Diário do Governo n.º 92/1974, Série I de 1974-04-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1974-411328), em vigor a partir de 1974-05-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 36602 - Diário do Governo n.º 273/1947, Série I de 1947-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36602-1947-636682)
+
+###### Artigo 480.º
+
+O provimento nos cargos do quadro geral dos serviços externos faz-se por nomeação.
+
+§ 1.º Quando a nomeação dê ingresso no quadro e o nomeado não fôr a essa data funcionário administrativo, o provimento terá carácter provisório durante três anos.
+
+§ 2.º Findo o período de três anos o provimento será convertido em definitivo se o funcionário tiver dado provas de moralidade, aptidão e zêlo; no caso contrário será demitido.
+
+##### Subsecção II — Promoção
+
+###### Artigo 481.º
+
+A promoção de uma para outra categoria ou de uma para outra classe depende sempre de concurso de habilitação.
+
+###### Artigo 482.º
+
+Os concursos de habilitação para promoção, anunciados no Diário do Govêrno com trinta dias de antecedência, pelo menos, realizar-se-ão no Ministério do Interior, quando o Ministro o determinar, e serão válidos por três anos.
+
+§ 1.º É aplicável aos candidatos aprovados nestes concursos o disposto no § 1.º do artigo 473.º
+
+Artigo 486.º Findas as provas práticas o júri elaborará a lista graduada dos concorrentes, adoptando a classificação de 0 a 20.
+
+A lista será publicada no Diário do Governo.
+
+§ 1.º São excluídos os candidatos cuja classificação final seja inferior a 10 valores.
+
+§ 2.º Consideram-se aptos a ser promovidos todos os candidatos aprovados, preferindo-se, porém, os que tiverem melhor classificação.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37573 - Diário do Governo n.º 216/1949, Série I de 1949-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37573-1949-265736)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 36602 - Diário do Governo n.º 273/1947, Série I de 1947-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36602-1947-636682)
+
+###### Artigo 483.º
+
+Os concursos de promoção constarão de provas documentais e práticas adequadas à natureza dos cargos.
+
+§ único. Os regulamentos dos concursos e os respectivos programas ou as alterações nêles introduzidas serão publicados pelo Govêrno três meses antes, pelo menos, da prestação das provas.
+
+###### Artigo 484.º
+
+Os júris dos concursos de promoção serão constituídos:
+
+1.º Tratando-se de concurso de promoção de uma para outra classe, dentro da 2.ª categoria, pelo director geral de administração política e civil, presidente, e por um funcionário superior da mesma Direcção Geral e um secretário de govêrno civil, ambos nomeados pelo Ministro do Interior;
+
+2.º Tratando-se de concurso de promoção à 3.ª classe da 1.ª categoria ou de promoção de uma para outra classe dentro da 1.ª categoria, pelo director geral de administração política e civil, presidente, e por um juiz do Supremo Tribunal Administrativo, ou professor de qualquer das Faculdades de Direito, e um funcionário da 1.ª categoria, nomeados pelo Ministro do Interior.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 485.º
+
+Só podem ser admitidos aos concursos de habilitação para promoção:
+
+1.º Tratando-se de promoção à 2.ª ou 1.ª classe da 2.ª categoria, os funcionários do quadro geral dos serviços externos e do quadro interno da Direcção Geral de Administração Política e Civil pertencentes às classes imediatamente inferiores que tenham dois anos, pelo menos, de bom e efectivo serviço na sua classe;
+
+2.º Tratando-se de promoção à 3.ª classe da 1.ª categoria:
+
+a) Os funcionários da 1.ª classe da 2.ª categoria que sejam licenciados em direito e tenham três anos, pelo menos, de bom e efectivo serviço na sua classe;
+
+b) Os licenciados em direito que tenham, pelo menos, três anos de exercício efectivo das funções de presidente de câmara municipal e que delas não hajam sido demitidos disciplinarmente ou em conseqüência de dissolução.
+
+3.º Tratando-se de promoção à 2.ª ou 1.ª classe da 1.ª categoria, os funcionários pertencentes às classes imediatamente inferiores.
+
+§ 1.º Quando não haja concorrentes em número suficiente para o provimento das vagas existentes e das que se preveja que ocorram dentro do prazo de um ano, o Ministro do Interior mandará admitir como opositores obrigatórios todos os funcionários nas condições requeridas na lei e com menos de sessenta anos de idade, e poderá dispensar do tempo de bom e efectivo serviço exigido na lei os restantes que ainda o não tiverem.
+
+§ 2.º Os opositores obrigatórios que faltarem às provas do concurso sem motivo justificado incorrem na pena disciplinar de trinta dias de multa aplicada pelo Ministro do Interior, independentemente de processo e mediante simples participação do director geral de administração política e civil.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 156/74 - Diário do Governo n.º 92/1974, Série I de 1974-04-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1974-411328), em vigor a partir de 1974-05-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37573 - Diário do Governo n.º 216/1949, Série I de 1949-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37573-1949-265736)
+
+> Alterado pelo/a [Decreto-Lei n.º 35713 - Diário do Governo n.º 137/1946, Série I de 1946-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35713-1946-154835)
+
+###### Artigo 486.º
+
+Findas as provas práticas o júri elaborará a lista graduada dos concorrentes, adoptando a classificação de 0 a 20.
+
+A lista será publicada no Diário do Governo.
+
+§ 1.º São excluídos os candidatos cuja classificação final seja inferior a 10 valores.
+
+§ 2.º Consideram-se aptos a ser promovidos todos os candidatos aprovados, preferindo-se, porém, os que tiverem melhor classificação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 36602 - Diário do Governo n.º 273/1947, Série I de 1947-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36602-1947-636682)
+
+##### Subsecção III — Provimento
+
+###### Artigo 487.º
+
+Logo que se verifique uma vaga de cargo pertencente ao quadro geral administrativo, o governador civil, o administrador do bairro ou o presidente do corpo administrativo, conforme os casos, comunicarão o facto ao director geral de administração política e civil, que, dentro de oito dias, anunciará o respectivo concurso de provimento no Diário do Govêrno, declarando sempre o motivo da vacatura.
+
+§ único. O concurso será aberto por oito dias perante a Direcção Geral.
+
+###### Artigo 488.º
+
+Podem concorrer:
+
+a) Os candidatos aprovados no concurso de admissão ao quadro ou no concurso de promoção, conforme os casos;
+
+b) Os funcionários da mesma categoria e classe com mais de dois anos de serviço no cargo que ocupam;
+
+c) Os funcionários na situação de inactividade no quadro;
+
+d) Os funcionários reabilitados em revisão de processo;
+
+e) (Revogada).
+
+§ 1.º Sempre que o concurso fique deserto, abrir-se-á novo concurso, ao qual podem ser admitidos funcionários da mesma categoria e classe com dispensa do tempo mínimo de serviço no cargo que ocupem, os quais, no entanto, só poderão ser providos na falta de candidatos nas condições normais.
+
+§ 2.º Os concorrentes terão apenas de requerer o provimento, indicando nos seus requerimentos os títulos que os habilitam a concorrer.
+
+§ 3.º Se a vaga a prover pertencer aos governos civis ou administrações de bairro, o processo do concurso será apresentado ao Ministro do Interior, e se a vaga pertencer a um corpo administrativo será aquele remetido ao respectivo presidente pelo director-geral.
+
+§ 4.º Revogado.
+
+§ 5.º Não poderão ser admitidos aos concursos de provimento de lugares de chefia os funcionários que tiverem habilitações inferiores ao 2.º ciclo dos liceus ou equivalente, bem como os que, embora com essas habilitações, tiverem menos de cinco anos de bom e efectivo serviço no quadro geral administrativo ou em quadros privativos, salvo se forem diplomados com curso superior.
+
+> Alterado pelo/a [Decreto-Lei n.º 492/74 - Diário do Governo n.º 226/1974, Série I de 1974-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/492-1974-473338)
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 156/74 - Diário do Governo n.º 92/1974, Série I de 1974-04-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1974-411328), em vigor a partir de 1974-05-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a [Decreto-Lei n.º 48430 - Diário do Governo n.º 140/1968, Série I de 1968-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48430-1968-272236)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 488.º-A
+
+Na falta de candidatos nas condições do artigo anterior, e sempre que o imponha a urgência no recrutamento, o Ministro do Interior pode prover livremente, por licenciados em Direito com a informação final mínima de Bom e que satisfaçam aos requisitos gerais do artigo 460.º, os cargos da 2.ª categoria e das 2.ª e 3.ª classes da 1.ª categoria do quadro geral administrativo, bem como os de secretário do governo civil dos distritos insulares.
+
+§ 1.º Quando a nomeação feita nos termos do corpo deste artigo recair em indivíduo que já pertença ao quadro geral, aplica-se ao provimento o disposto no § 1.º do artigo 480.º, mantendo-se, entretanto, o funcionário na classe a que pertencia, mas com direito aos vencimentos do cargo que ocupe.
+
+§ 2.º Findo o período de três anos, se o funcionário tiver dado provas de aptidão e zelo, o provimento será convertido em definitivo; no caso contrário, será provido compulsivamente em lugar da respectiva classe.
+
+> Aditado pelo/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236)
+
+###### Artigo 489.º
+
+§ 1.º Nos lugares de chefe de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem e de chefes de secretaria das juntas distritais com sede em Lisboa e Porto só poderão ser providos funcionários da 1.ª classe da 2.ª categoria do quadro geral administrativo, ou habilitados com o respectivo concurso, na falta de candidatos habilitados com concurso para a 1.ª categoria.
+
+§ 2.º Em igualdade de classificação é motivo de preferência a prestação de serviço militar, graduada nos termos da legislação especial.
+
+§ 3.º A nomeação pelos corpos administrativos será feita até à segunda reunião após a recepção do processo e comunicada ao director-geral de Administração Política e Civil dentro do prazo de quarenta e oito horas, a fim de ser publicada no Diário do Governo.
+
+###### Artigo 490.º
+
+O candidato nomeado simultâneamente para mais de um cargo deverá optar por um dêles, comunicando a sua resolução à Direcção Geral de Administração Política e Civil dentro do prazo de cinco dias contados da data da publicação oficial, sob pena de serem consideradas sem efeito todas as nomeações.
+
+§ 1.º Entende-se que as nomeações são simultâneas sempre que entre elas não exista intervalo superior a dez dias.
+
+§ 2.º As nomeações que recaiam em candidato já provido há mais de dez dias, embora não esteja ainda empossado do cargo, ter-se-ão por inexistentes.
+
+§ 3.º O candidato nomeado que se recuse a aceitar o cargo a que concorreu e em que foi provido fica inibido de se apresentar a novo concurso de provimento durante três anos a contar da data da nomeação rejeitada, caducando a validade do concurso de habilitação em que foi aprovado no caso de essa nomeação ser a primeira na categoria ou classe para que estava habilitado.
+
+### Capítulo III — Posse
+
+###### Artigo 491.º
+
+A nomeação dos funcionários para cargos administrativos só produzirá efeitos, em relação ao serviço público, desde a data da posse.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 409/91 - Diário da República n.º 239/1991, Série I-A de 1991-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869)
+
+###### Artigo 492.º
+
+A posse é acto público e pessoal, que em caso algum poderá ser praticado por procuração.
+
+§ único. A identidade do empossado provar-se-á pela apresentação do bilhete de identidade passado pelo Arquivo de Identificação.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 409/91 - Diário da República n.º 239/1991, Série I-A de 1991-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869)
+
+###### Artigo 493.º
+
+Os funcionários administrativos são obrigados a apresentar-se pessoalmente a servir os cargos para que forem nomeados, promovidos ou transferidos, no prazo de trinta dias contados da publicação dos despachos.
+
+§ 1.º As nomeações, promoções ou transferências para o continente de indivíduos residentes nas ilhas adjacentes, ou vice versa, sòmente obrigam à posse no prazo de sessenta dias contados da publicação dos despachos.
+
+§ 2.º A autoridade ou corpo administrativo que fizer a nomeação, promoção ou transferência pode, havendo motivo justificado, prorrogar o prazo para a posse por mais trinta dias, ou pelo tempo que fôr necessário, se houver impedimento por motivo de moléstia.
+
+§ 3.º A prorrogação de prazo por tempo superior a noventa dias só poderá ser concedida pelo Govêrno.
+
+§ 4.º No caso de reintegração de algum funcionário por decisão dos tribunais ou do Govêrno, o prazo de trinta dias para a nova posse conta-se desde a notificação ou publicação da decisão.
+
+§ 5.ª As prorrogações de prazo para a posse são, para efeitos fiscais, equiparadas às licenças.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 409/91 - Diário da República n.º 239/1991, Série I-A de 1991-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869)
+
+###### Artigo 494.º
+
+Não pode ser conferida posse ao funcionário provido em cargo de tesoureiro de qualquer corpo administrativo sem que se mostre ter sido prestada a caução do valor seguinte:
+
+a) De 5.000$00 nos concelhos rurais de 3.ª ordem;
+
+b) De 10.000$00 nos concelhos rurais de 2.ª ordem e urbanos de 3.ª ordem;
+
+c) De 15.000$00 nos concelhos rurais de 1.ª ordem, urbanos de 2.ª ordem e nas juntas distritais, com excepção das de Lisboa e Porto;
+
+d) De 25.000$00 nos concelhos urbanos de 1.ª ordem e nas juntas distritais de Lisboa e Porto.
+
+e) De valor que, sob proposta das Câmaras Municipais de Lisboa e Pôrto, fôr determinado pelo Ministro do Interior quanto a estes concelhos.
+
+§ único. A caução será prestada mediante depósito de dinheiro ou de títulos da dívida pública fundada, primeira hipoteca sôbre prédios urbanos ou seguro de caução.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 495.º
+
+No acto da posse o funcionário apresentará diploma de funções públicas, passado pela autoridade competente para a nomeação, e da taxa correspondente ao vencimento do cargo em que foi provido, e prestará o seguinte juramento:
+
+«Juro ser fiel à minha Pátria, cooperar na realização dos fins superiores do Estado, defender os princípios fundamentais da ordem social e política estabelecida na Constituição, respeitar as leis e dedicar ao serviço público todo o meu zêlo, inteligência e aptidão».
+
+###### Artigo 496.º
+
+De tudo quanto ocorrer no acto da posse se lavrará auto em livro próprio, subscrito pelo chefe da secretaria, ou por quem suas vezes fizer, e assinado pela autoridade que conferir a posse, pelo empossado e pelas testemunhas presentes.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 409/91 - Diário da República n.º 239/1991, Série I-A de 1991-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869)
+
+###### Artigo 497.º
+
+São competentes para conferir a posse:
+
+1.º O Ministro do Interior, ou delegado seu, aos governadores civis;
+
+2.º Os governadores civis, ou delegados seus, aos presidentes e vice-presidentes das câmaras, aos administradores de bairro, nos concelhos de Lisboa e Porto, e aos secretários e mais funcionários dos governos civis;
+
+3.º Os administradores de bairro, aos secretários e mais funcionários da administração do bairro;
+
+4.º Os presidentes das câmaras municipais, aos regedores e aos chefes de secretaria e mais funcionários da câmara;
+
+5.º Os presidentes das juntas distritais, aos chefes de secretaria e mais funcionários da junta.
+
+§ único. Quando qualquer funcionário provido em novo cargo de que deva ser empossado se encontre, por motivo de serviço, afastado do local onde deva exercê-lo, tomará posse perante o governador civil do distrito em que se encontrar, devendo o respectivo auto ser remetido, nas quarenta e oito horas seguintes, à autoridade que, nos termos dêste artigo, a devesse conferir.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 409/91 - Diário da República n.º 239/1991, Série I-A de 1991-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 498.º
+
+A antiguidade, os vencimentos e o tempo para a aposentação contam-se sempre desde a posse, que determina também o momento a partir do qual se fixa o domicílio necessário.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 409/91 - Diário da República n.º 239/1991, Série I-A de 1991-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869)
+
+### Capítulo IV — Serviço dos funcionários e sua aposentação
+
+#### Secção I — Deveres dos funcionários
+
+###### Artigo 499.º
+
+Os funcionários administrativos estão ao serviço da colectividade e não de qualquer partido ou organização de interêsses particulares, incumbindo-lhes acatar e fazer respeitar a autoridade do Estado.
+
+§ único. É vedado aos funcionários administrativos constituírem-se em sindicatos privativos ou integrar-se colectivamente em qualquer organismo corporativo ou associação profissional.
+
+###### Artigo 500.º
+
+São deveres comuns a todos os funcionários administrativos:
+
+1.º Exercer com competência, zêlo e actividade o cargo que lhes estiver confiado;
+
+2.º Observar e fazer observar rigorosamente as leis e regulamentos, defendendo em todas as circunstâncias os direitos e legítimos interêsses da Fazenda Pública;
+
+3.º Cumprir as ordens de serviço, escritas ou verbais, dos funcionários a que estiverem hieràrquicamento subordinados;
+
+4.º Honrar os seus superiores na hierarquia administrativa, tratando-os, em todas as circunstâncias, com deferência e respeito;
+
+5.º Guardar segrêdo profissional sôbre todos os assuntos que por lei não estejam expressamente autorizados a revelar;
+
+6.º Desempenhar, com pontualidade e assiduïdade, o serviço que lhes estiver confiado;
+
+7.º Auxiliar o Govêrno por todas as formas no prosseguimento da sua política administrativa;
+
+8.º Zelar pelos interêsses do Estado, participando às autoridades superiores os actos ou negligências que os lesarem e de que tenham conhecimento;
+
+9.º Proceder na sua vida pública e particular de modo a prestigiarem sempre a função pública;
+
+10.º Dar o exemplo de acatamento pelas instituïções vigentes e de respeito pelos seus símbolos e autoridades representativas;
+
+11.º Punir com justiça as faltas profissionais praticadas pelos seus subordinados, participando superiormente todas as que exijam a intervenção de outras autoridades, e louvar e propor os louvores e recompensas merecidos;
+
+12.º Concorrer aos actos e solenidades oficiais para que sejam convocados pelas autoridades superiores;
+
+13.º Usar de urbanidade nas relações com o público, com as autoridades e com os funcionários seus subordinados;
+
+14.º Informar com escrúpulo, isenção e justiça a respeito dos seus inferiores hierárquicos;
+
+15.º Aumentar a sua cultura geral e, em especial, cuidar da sua instrução no que respeita às matérias que interessam à administração pública;
+
+16.º Opor-se com decisão a todas as tentativas ou actos de alteração da ordem pública e aos de insubordinação ou indisciplina dentro dos serviços.
+
+###### Artigo 501.º
+
+Os funcionários administrativos têm domicílio necessário no lugar que fôr fixado para exercerem permanentemente as funções dos seus cargos ou para centro da sua actividade funcional.
+
+§ único. Os superiores hierárquicos podem autorizar os funcionários a residir fora do lugar da sede dos serviços quando a facilidade de comunicações permita rápida deslocação entre a residência e a sede dos serviços.
+
+###### Artigo 502.º
+
+As ordens e instruções dadas pelos superiores hierárquicos em objecto de serviço e forma legal devem ser cumpridas exacta, imediata e lealmente.
+
+§ 1.º Se uma ordem de carácter excepcional fôr dada verbalmente, pode o funcionário, usando de linguagem respeitosa, solicitar que, para salvaguarda da sua responsabilidade, lhe seja transmitida por escrito, nos casos seguintes:
+
+1.º Quando haja motivo plausível para se duvidar da sua autenticidade;
+
+2.º Quando seja ilegal;
+
+3.º Quando com evidência se mostre que foi dada em virtude de qualquer procedimento doloso ou errada informação;
+
+4.º Quando da sua execução se devam recear graves males que o superior não houvesse podido prever.
+
+§ 2.º Se o pedido de transmissão da ordem por escrito não fôr satisfeito dentro do tempo em que, sem prejuízo, o cumprimento desta possa ser demorado, o inferior comunicará, também por escrito, ao seu imediato superior hierárquico, os termos exactos da ordem recebida e do pedido formulado, bem como a não satisfação dêste, executando a ordem seguidamente.
+
+§ 3.º Se a nenhuma demora a ordem verbal puder estar sujeita, ou se fôr ordenado o seu imediato cumprimento, o inferior fará a comunicação referida no parágrafo precedente logo depois de executada a ordem.
+
+§ 4.º Considerando ilegal a ordem recebida, o inferior fará expressa menção dêste facto ao pedir a sua transmissão por escrito, ou na declaração que se seguir ao cumprimento.
+
+###### Artigo 503.º
+
+São consideradas ilegais, para o efeito do seu cumprimento por inferior hierárquico, apenas as seguintes ordens:
+
+1.º As que emanarem de autoridade incompetente;
+
+2.º As que forem manifestamente contrárias à letra da lei.
+
+§ único. O inferior que cumprir ordem ilegal sem haver satisfeito ao preceituado no § 4.º do artigo 502.º será solidàriamente responsável com quem a houver dado pelas conseqüências que da sua execução resultarem.
+
+###### Artigo 504.º
+
+Os funcionários de secretaria e tesouraria deverão comparecer diàriamente nas secretarias respectivas e aí permanecer durante seis horas de efectivo serviço.
+
+§ 1.º O trabalho das secretarias dos governos civis, das administrações de bairro e dos corpos administrativos, em casos de urgente necessidade ou de acumulação de expediente, poderá começar uma hora mais cedo ou prolongar-se até uma hora mais tarde sem direito a qualquer remuneração especial.
+
+§ 2.º Chegada a hora de saída em cada dia, nenhum funcionário se retirará sem que o secretário, o chefe da secretaria, o tesoureiro, ou quem suas vezes fizer, declare terminado o trabalho do dia.
+
+###### Artigo 505.º
+
+Em cada secretaria ou divisão dela, na tesouraria e nos demais serviços com pessoal de carteira haverá um livro de ponto, de modêlo uniforme, numerado e devidamente rubricado nas suas fôlhas, no qual os funcionários assinarão à entrada e à saída.
+
+§ 1.º Os livros de ponto devem ser encerrados, pelo secretário, chefe da secretaria ou chefe do serviço, quinze minutos depois da hora de entrada e, seguidamente, enviados ao governador civil, ao administrador de bairro ou ao presidente do corpo administrativo, conforme os casos, em poder de quem permanecerão até à hora de saída do pessoal.
+
+§ 2.º Depois de assinado o livro de ponto nenhum funcionário pode ausentar-se sem licença do respectivo chefe, a qual só poderá ser concedida por motivo justificado e pelo tempo estritamente necessário. A contravenção a êste preceito equivalerá a falta injustificada.
+
+§ 3.º Os livros de ponto podem ser substituídos por processos mecânicos de registo de entrada e saída do pessoal.
+
+###### Artigo 506.º
+
+No livro de ponto lançar-se-ão as notas relativas à frequência dos funcionários, das quais se extrairá no fim de cada mês uma relação em duplicado, cujo original será remetido ao governador civil, administrador do bairro ou presidente da câmara municipal ou junta distrital, conforme os casos, ficando a cópia arquivada na secretaria, para servir de base à elaboração das folhas de vencimento.
+
+§ único. Anualmente será enviada pelo secretário ou chefe da secretaria ao Ministério do Interior a relação de freqüência relativa aos funcionários do quadro geral administrativo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+#### Secção II — Faltas e licenças
+
+##### Subsecção I — Faltas ao serviço
+
+###### Artigo 507.º
+
+Os funcionários administrativos podem faltar ao serviço dois dias em cada mês, seguidos ou intervalados, desde que no próprio dia da falta o participem aos respectivos chefes, declarando por escrito o motivo que a justifica.
+
+§ 1.º A participação e declaração a que êste artigo se refere poderão ser feitas por pessoa de família do funcionário, quando êle próprio não possa fazê-las.
+
+§ 2.º O secretario ou chefe de secretaria poderão considerar insuficiente a justificação da falta, cabendo em tal caso recurso para o governador civil, administrador do bairro ou presidente do corpo administrativo, que definitivamente resolverão se a falta deve ou não ser tida por justificada.
+
+###### Artigo 508.º
+
+Os funcionários podem também faltar até três dias seguidos por motivo de falecimento do cônjuge ou de parentes por consangüinidade ou afinidade em qualquer grau da linha recta e no segundo e terceiro da linha transversal, desde que justifiquem as faltas quando se apresentarem ao serviço.
+
+§ único. Os funcionários do sexo feminino podem faltar até quinze dias no período da maternidade.
+
+###### Artigo 509.º
+
+As faltas justificadas nos termos dos artigos anteriores não implicam perda de vencimentos.
+
+Texto
+
+###### Artigo 510.º
+
+Se as faltas forem dadas por motivo de doença e esta exceder os dois dias fixados no artigo 507.º, a justificação deverá ser feita por atestado médico, sob compromisso de honra e com a assinatura devidamente reconhecida, em que se declare a necessidade de ausência para tratamento.
+
+§ 1.º O atestado será enviado à secretaria competente no prazo improrrogável de três dias, a contar do terceiro dia da doença. Se porém a doença demorar mais de um mês, deverá ser enviado novo atestado em cada mês, até ao dia 3, em relação ao mês anterior, e, se exceder o período de dois meses, será o funcionário, findos estes, mandado examinar pelo delegado de saúde, para efeitos de licença.
+
+§ 2.º No atestado médico far-se-á menção do número do bilhete de identidade do funcionário.
+
+§ 3.º O estado de doença do funcionário, comunicado por participação ou comprovado por atestado médico, será, em qualquer momento, mandado verificar por um médico municipal, pelo delegado de saúde ou por médico privativo dos serviços, quando o governador civil, o administrador do bairro, ou o presidente do corpo administrativo o julgarem conveniente.
+
+§ 4.º Se, no caso do parágrafo anterior, o funcionário não fôr encontrado no seu domicílio ou no lugar onde tiver indicado estar doente, ou o resultado da verificação da doença fôr negativo, serão as faltas havidas como injustificadas, independentemente da acção disciplinar que ao caso couber.
+
+§ 5.º Se, ordenada a verificação da doença, nos termos do § 3.º, o resultado fôr confirmativo e esta continuar, o funcionário terá direito ao abono de todos os seus vencimentos até trinta dias, perdendo porém o vencimento de exercício se a doença exceder êste limite, salvo o que está ou vier a ser estabelecido para os funcionários tuberculosos.
+
+§ 6.º A doença superior a oito dias será obrigatòriamente mandada verificar nos termos do § 3.º
+
+###### Artigo 511.º
+
+As faltas não justificadas, ou assim consideradas, produzirão a perda total dos vencimentos, na parte correspondente ao dia ou dias de ausência. Trinta faltas não justificadas, quando seguidas, constituem presunção de abandono do lugar e, quando interpoladas, mas dadas dentro do mesmo ano civil, infracção disciplinar punível.
+
+##### Subsecção II — Licenças
+
+###### Artigo 512.º
+
+Considera-se situação de licença a interrupção temporária do exercício de funções requerida pelo funcionário e autorizada pelos competentes superiores hierárquicos.
+
+###### Artigo 513.º
+
+Os funcionários administrativos podem utilizar as seguintes licenças:
+
+1.º Licença graciosa;
+
+2.º Licença por doença;
+
+3.º Licença ilimitada.
+
+###### Artigo 514.º
+
+A licença graciosa só pode ser concedida aos funcionários com mais de um ano de serviço efectivo que tenham boas informações dos seus chefes e cuja ausência não prejudique o serviço das secretarias. O seu limite máximo é de trinta dias em cada ano.
+
+§ 1.º A licença referida neste artigo não produz a perda de vencimentos, nem está sujeita ao pagamento de emolumentos.
+
+§ 2.º Na licença graciosa serão descontadas as faltas dadas no ano civil anterior, salvo as justificadas por motivo de doença ou resultantes da situação de licença por doença, até trinta dias, e as dadas nos termos do artigo 508.º e seu § único.
+
+§ 3.º Nenhum pedido de licença graciosa poderá ser submetido a despacho da entidade hierárquica competente sem estar devidamente informado e nitidamente esclarecida a situação do funcionário no que diz respeito às faltas dadas, justificadas ou não.
+
+§ 4.º Não poderão gozar das regalias garantidas no presente artigo e seus parágrafos os funcionários que há menos de um ano tiverem sofrido pena disciplinar superior à de repreensão verbal ou escrita.
+
+§ 5.º As licenças graciosas são sempre revogáveis por conveniência de serviço.
+
+§ 6.º Aos funcionários que em dois ou três anos consecutivos não tiverem gozado licença graciosa poderá ser concedida licença até ao máximo de sessenta ou noventa dias, respectivamente, quando, por motivos justificados, pretendam gozá-la, total ou parcialmente, fora do continente ou do distrito insular onde exerçam funções.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 515.º
+
+A licença por doença só poderá ser concedida por período não superior a dois meses e mediante parecer fundamentado do delegado de saúde.
+
+§ 1.º Êste prazo, mediante parecer do mesmo delegado, poderá prorrogar-se, mês a mês, até seis meses, findos os quais o funcionário passará, conforme desejar, à situação de aposentado, se a ela tiver direito, ou à de licença sem vencimento durante três meses. Se, decorrido êste prazo, ainda não puder apresentar-se ao serviço, passará à situação de licença ilimitada.
+
+§ 2.º Para o efeito da contagem dos prazos fixados neste artigo computar-se-ão sempre as faltas justificadas por doença que tiverem sido dadas imediatamente antes da concessão de licença e as que forem dadas depois do têrmo desta.
+
+###### Artigo 516.º
+
+A licença ilimitada só pode ser concedida aos funcionários com mais de três anos de efectivo serviço no quadro em que se encontrem, prestado imediatamente antes da data de concessão; é uma licença sem vencimento e determina vacatura do cargo.
+
+§ 1.º Se o funcionário que obtiver a licença ilimitada pertencer a um quadro privativo, abre vaga no quadro, ao qual só poderá regressar um ano após a concessão da licença, pertencendo-lho a primeira vaga da sua categoria e classe que se verificar depois de requerida a readmissão ao serviço.
+
+§ 2.º Os funcionários do quadro geral administrativo que obtenham licença ilimitada passam à situação de inactividade fora do quadro.
+
+§ 3.º Os funcionários que, após estarem mais de dois anos na situação de licença ilimitada, pretendam regressar ao serviço não o poderão fazer sem prévia inspecção médica e, no caso de terem funções de direcção ou chefia, devem demonstrar que têm actualizados os conhecimentos necessários ao exercício das suas funções, por meio de provas a fixar por despacho do Ministro do Interior, sob proposta do director geral.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 36602 - Diário do Governo n.º 273/1947, Série I de 1947-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36602-1947-636682)
+
+###### Artigo 517.º
+
+Têm competência para conceder as licenças a que se referem os artigos antecedentes:
+
+1.º Quanto aos funcionários dos governos civis:
+
+a) O governador civil, até quinze dias em cada ano;
+
+b) O director geral de administração política e civil, até trinta dias;
+
+c) O Ministro do Interior, por mais de trinta dias, ou quando a licença deva ser gozada interpoladamente ou no estrangeiro.
+
+2.º Quanto aos funcionários das administrações de bairro:
+
+a) O director geral de administração política e civil, até trinta dias em cada ano;
+
+b) O Ministro do Interior, por mais de trinta dias, ou quando a licença deva ser gozada interpoladamente ou no estrangeiro.
+
+3.º Quanto aos funcionários dos corpos administrativos:
+
+a) Os presidentes, até quinze dias em cada ano;
+
+b) Os corpos administrativos, por mais de quinze dias.
+
+4.º Quanto à licença ilimitada:
+
+a) O Ministro do Interior, aos funcionários do quadro geral e dos quadros privativos dos governos civis e administrações de bairro;
+
+b) Os corpos administrativos, aos funcionários dos respectivos quadros privativos.
+
+###### Artigo 518.º
+
+Os delegados de saúde e, na sua ausência ou impedimento, os médicos municipais são obrigados a verificar as doenças dos funcionários administrativos, nos termos dêste Código.
+
+§ 1.º Sempre que o delegado de saúde julgue necessário ou o competente superior hierárquico tenha por conveniente submeter o funcionário a uma junta médica, será esta constituída pelo referido delegado de saúde e mais dois facultativos designados pelo governador civil.
+
+§ 2.º Os funcionários doentes que, devidamente autorizados, estejam a residir fora do seu domicílio necessário, podem ser submetidos a uma junta médica constituída pela forma referida no parágrafo anterior quando os respectivos superiores hierárquicos o tenham por conveniente.
+
+#### Secção III — Situações dos funcionários
+
+##### Subsecção I — Quadro geral
+
+###### Artigo 519.º
+
+Os funcionários do quadro geral administrativo podem encontrar-se, em relação à função pública que exercem, nas seguintes situações:
+
+1.ª Actividade no quadro;
+
+2.ª Inactividade no quadro;
+
+3.ª Inactividade fora do quadro.
+
+###### Artigo 520.º
+
+Consideram-se na situação de actividade no quadro os funcionários legalmente providos em cargos administrativos correspondentes às suas categorias, desde que se verifique alguma das seguintes condições:
+
+1.ª Estarem no desempenho efectivo das suas funções;
+
+2.ª Encontrarem-se no gôzo de licença graciosa, ou com parte de doente, ou na situação de licença por doença, até seis ou nove meses;
+
+3.ª Terem sido competentemente incumbidos do desempenho de comissões extraordinárias de serviço público, no País ou fora dêle, por tempo não superior a um ano;
+
+4.ª Terem sido chamados a desempenhar o serviço militar normal de recruta ou convocados para cursos milicianos, para satisfazerem condições de promoção, para períodos de exercício ou para períodos de manobras.
+
+###### Artigo 521.º
+
+Consideram-se na situação de inactividade no quadro os funcionários que, legalmente investidos num cargo, se encontrem transitòriamente fora do exercício do mesmo, e em especial:
+
+1.º Os que, tendo estado na situação de inactividade fora do quadro, reingressem nele para aguardar o provimento em cargo administrativo;
+
+2.º Os que se encontrem providos em cargo de governador civil, presidente de câmara municipal ou presidente de junta geral dos distritos autónomos;
+
+3.º Os que forem disciplinarmente punidos com suspensão de exercício e vencimentos;
+
+4. º Os que estejam a ser assistidos na tuberculose, de harmonia com o preceituado na lei.
+
+§ 1.º Os funcionários na situação de inactividade no quadro não abrem vaga neste.
+
+§ 2.º Os funcionários punidos com suspensão de exercício e vencimentos até sessenta dias, inclusive, voltarão, expiada a pena, a exercer os cargos em que estavam providos; mas os que sejam suspensos por mais de sessenta dias abrem vaga nos respectivos cargos.
+
+§ 3.º Os funcionários assistidos na tuberculose não dão vaga nos seus cargos, os quais só interinamente poderão ser ocupados durante o tempo que durar a assistência.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45000 - Diário do Governo n.º 98/1963, Série I de 1963-04-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45000-1963-196731)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39447 - Diário do Governo n.º 260/1953, Série I de 1953-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 522.º
+
+Consideram-se na situação de inactividade fora do quadro os funcionários:
+
+a) No gôzo de licença ilimitada;
+
+b) Incumbidos, por autoridade competente, do desempenho de comissões extraordinárias de serviço público, no País ou fora dêle, por tempo indeterminado ou superior a um ano;
+
+c) Providos provisòriamente nos lugares de directores de serviços e chefes de repartição das Direcções de Serviços Centrais das Câmaras de Lisboa e Pôrto.
+
+§ único. A passagem à situação de inactividade fora do quadro abre vaga neste, mas decorrido um ano sôbre ela e desde que tenham cessado os motivos que a determinaram pode o funcionário requerer, a todo o tempo, o reingresso no quadro.
+
+##### Subsecção II — Quadros privativos
+
+###### Artigo 523.º
+
+Os funcionários dos quadros privativos podem encontrar-se, em relação à função pública que exercem, nas seguintes situações:
+
+1.ª Actividade no quadro;
+
+2.ª Inactividade no quadro;
+
+3.ª Inactividade fora do quadro.
+
+###### Artigo 524.º
+
+Consideram-se na situação de actividade no quadro os funcionários que se encontrem nalguma das condições previstas para igual situação do quadro geral.
+
+###### Artigo 525.º
+
+Consideram-se na situação de inactividade no quadro os funcionários providos em cargo de governador civil, presidente de câmara municipal ou presidente de junta geral de distrito autónomo, os disciplinarmente punidos com suspensão de exercício e vencimentos e os assistidos na tuberculose.
+
+§ único. Os funcionários nesta situação não dão vaga e, cessados os motivos da inactividade, voltam desde logo ao exercício do cargo.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 45230 - Diário do Governo n.º 210/1963, Série I de 1963-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45230-1963-686262)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39447 - Diário do Governo n.º 260/1953, Série I de 1953-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771)
+
+###### Artigo 520.º
+
+Consideram-se na situação de inactividade fora do quadro os funcionários no gôzo de licença ilimitada ou incumbidos de comissão extraordinária de serviço público por tempo indeterminado ou superior a um ano.
+
+§ único. Os funcionários nesta situação abrem vaga no cargo e no quadro, mas decorrido um ano podem requerer a primeira vaga que se dê no quadro, em lugar da sua categoria e classe, passando, quando providos, desde logo à situação de actividade.
+
+#### Secção IV — Vencimentos
+
+###### Artigo 527.º
+
+Os funcionários de secretaria e tesouraria têm os ordenados fixados no mapa anexo a êste Código.
+
+§ 1.º Os ordenados dos funcionários dos concelhos urbanos de 2.ª e 3.ª ordem, quando estes reúnam os requisitos de população ou de rendimento exigidos para os concelhos rurais de 1.ª ou 2.ª ordem, serão os fixados para estes concelhos.
+
+§ 2.º Os vencimentos dos funcionários administrativos são isentos do imposto de rendimento.
+
+§ 3.º De todos os vencimentos a pagar aos funcionários administrativos se descontará o imposto do sêlo, e quaisquer outras imposições estabelecidas por lei ou decretadas por sentença judicial.
+
+§ 4.º Os vencimentos só são penhoráveis nos termos e até aos limites fixados no Código de Processo Civil.
+
+###### Artigo 528.º
+
+O vencimento corresponde ao efectivo exercício do cargo em que o funcionário esteja provido, salvo nos casos expressamente exceptuados por lei.
+
+###### Artigo 529.º
+
+Os vencimentos dos funcionários administrativos dividem-se em vencimento de categoria e vencimentos de exercício.
+
+§ 1.º Considera se vencimento de categoria 5/6 do ordenado atribuído ao cargo.
+
+§ 2.º Consideram-se vencimentos de exercício o sexto restante do ordenado e todos os demais proventos certos e incertos atribuídos para remuneração das funções.
+
+###### Artigo 530.º
+
+Os ordenados fixados no mapa anexo a êste Código só por lei podem ser alterados, e em caso algum poderá qualquer funcionário perceber mais de 95 por cento do ordenado que competir aos funcionários de categoria ou classe imediatamente superior do respectivo quadro.
+
+§ 1.º Não serão considerados, para os efeitos dêste artigo, as participações nas multas, as ajudas de custo, os abonos para transportes e para falhas, os emolumentos pessoais, a gratificação pelo serviço do recenseamento eleitoral e quaisquer outros proventos análogos.
+
+§ 2.º A gratificação pelo serviço de recenseamento eleitoral tem como limite máximo, em cada ano, a importância de um mês de ordenado e poderá ser extensiva a pessoal auxiliar da câmara municipal ou, em Lisboa e Porto, da administração
+
+de bairro.
+
+§ 3.º As contravenções ao disposto neste artigo obrigam à reposição da quantia indevidamente recebida.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 531.º
+
+O Govêrno determinará quo os vencimentos dos funcionários fiquem sujeitos a uma dedução cujo produto se destine exclusivamente a subsidiar o sustento e educação dos filhos dos funcionários que tiverem numerosa família.
+
+###### Artigo 532.º
+
+O ordenado será pago no final de cada mês mediante recibo assinado pelo funcionário.
+
+§ 1.º O direito ao ordenado adquire-se pelo facto da prestação de serviços durante um ou mais dias, mesmo que não perfaçam um mês, devendo ser paga ao funcionário ou a seus herdeiros a parte proporcional do duodécimo em curso, quando o serviço seja interrompido antes de decorridos trinta dias, por falecimento, demissão, exoneração, transferência ou licença.
+
+§ 2.º O pagamento do ordenado e mais vencimentos cuja importância total não exceda 5.000$00, em dívida a um funcionário falecido, poderá ser feito aos herdeiros mediante habilitação administrativa perante a entidade devedora.
+
+§ 3.º O processo da habilitação administrativa regular-se-á pelo disposto para as repartições do Estado.
+
+###### Artigo 533.º
+
+Não haverá emolumentos gerais destinados a ser distribuídos uniformemente pelos funcionários, revertendo para o Estado ou corpos administrativos, conforme os casos, a receita emolumentar estabelecida na lei.
+
+§ único. Os funcionários têm direito aos emolumentos pessoais devidos pelos particulares em virtude do exercício de funções notariais e de julgamento ou de colaboração nestas e a quaisquer outros permitidos por lei.
+
+###### Artigo 534.º
+
+Os tesoureiros dos corpos administrativos, além do ordenado, perceberão abono mensal para falhas, a fixar pelo corpo administrativo, mas que não poderá exceder o que estiver estabelecido para os tesoureiros da Fazenda Pública de concelhos da mesma ordem.
+
+§ único. Os tesoureiros da Fazenda Pública que exerçam as funções de exactores municipais receberão, como única remuneração, a gratificação mensal a que se refere o § 1.º do artigo 140.º
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 56/74 - Diário do Governo n.º 40/1974, Série I de 1974-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1974-413014)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41060 - Diário do Governo n.º 81/1957, Série I de 1957-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41060-1957-651556)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 535.º
+
+O funcionário que, por motivo de serviço público e em obediência a ordens superiores, se deslocar perceberá a ajuda de custo e o abono para transportes estabelecidos na lei.
+
+§ único. A ajuda de custo e o abono para transportes poderão também ser concedidos quando o funcionário se desloque para frequentar cursos de especialização profissional.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 536.º
+
+O abono de ajuda de custo será feito nos termos seguintes:
+
+1.º As deslocações por tempo igual ou inferior a quatro horas não dão direito ao abono de ajuda de custo;
+
+2.º Pelas deslocações em que a saída da residência oficial e a entrada se verifiquem dentro de um período de vinte e quatro horas abonar-se-ão as seguintes percentagens de ajudas de custo:
+
+Mais de quatro até doze horas ... 35
+
+Mais de doze horas sem dormida ... 70
+
+Mais de doze horas com dormida ... 100
+
+3.º Nas deslocações por dias sucessivos aplicam-se as percentagens do número antecedente aos dias de partida e de regresso, salvo quanto ao primeiro, em que, desde que sejam de contar mais de quatro até doze horas, a ajuda de custo a abonar será de 70 por cento do quantitativo fixado para o local da deslocação, e quanto ao último, em que, se a viagem terminar entre as 0 e as 6 horas, tal período não será de considerar na liquidação da ajuda de custo;
+
+4.º Em caso nenhum se abonará ajuda de custo quando a deslocação se dê para local situado a menos de 5 km da sede dos serviços.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41060 - Diário do Governo n.º 81/1957, Série I de 1957-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41060-1957-651556)
+
+###### Artigo 537.º
+
+Os funcionários administrativos que tenham a seu cargo serviços de fiscalização ou polícia têm direito a participar das multas cobradas, nos termos da lei.
+
+###### Artigo 538.º
+
+Têm direito aos vencimentos de categoria e exercício:
+
+1.º Os funcionários no exercício efectivo dos cargos em que estiverem providos;
+
+2.º Os funcionários no gôzo de licença graciosa, ou com parte de doente ou na situação de licença por doença, até trinta dias e os assistidos na tuberculose;
+
+3.º Os funcionários no desempenho de comissões extraordinárias de serviço público de duração até um ano ordenadas pelo respectivo corpo administrativo ou pelo Ministro, conforme os casos, e que não tenham remuneração própria;
+
+4.º Os funcionários reintegrados nos seus cargos por sentença que anule o acto que os puniu, em relação ao tempo em que estiveram ilegalmente afastados do cargo.
+
+§ 1.º A gratificação de chefia pertence a quem efectivamente desempenhe as respectiva funções, salvo no caso de licença graciosa ou no de impedimento legal, até trinta dias em cada ano, do titular do cargo.
+
+§ 2.º Os funcionários providos em novo cargo por virtude do qual tenham de transferir-se de localidade consideram-se em exercício efectivo do antigo cargo no período, não excedente a cinco dias, que mediar entre a cessação das funções no lugar de que saem e a posse do lugar que vão ocupar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 539.º
+
+Têm direito ao vencimento de categoria, perdendo o de exercício, os funcionários com parte de doente ou na situação de licença por doença por mais de trinta dias e os que se encontrem detidos pela polícia, sofrendo prisão preventiva.
+
+###### Artigo 540.º
+
+Não têm direito a vencimentos:
+
+1.º Os funcionários que faltarem sem motivo justificado, em relação aos dias em que tenham faltado;
+
+2.º Os funcionários nas situações de inactividade no quadro ou fora do quadro, salvo o disposto quanto aos assistidos na tuberculose;
+
+3.º Os funcionários chamados a desempenhar o serviço militar normal de recruta ou convocados para cursos de oficiais milicianos, para satisfazerem condições de promoção, para períodos de exercício ou para períodos de manobras.
+
+###### Artigo 541.º
+
+Os vencimentos de exercício que deixarem de ser abonados aos funcionários administrativos terão o seguinte destino:
+
+a) O sexto do ordenado constitui receita da entidade a cujo serviço esteja o funcionário, salvo se, por despacho ministerial ou deliberação do corpo administrativo, conforme os casos, se autorize a sua reversão para os que o substituírem;
+
+b) Os restantes proventos que porventura a lei conceda serão abonados ao funcionário ou funcionários que tenham desempenhado as funções do cargo em substituição do ausente.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 191-E/79 - Diário da República n.º 145/1979, 1º Suplemento, Série I de 1979-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-e-1979-634952), em vigor a partir de 1979-07-01
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 45230 - Diário do Governo n.º 210/1963, Série I de 1963-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45230-1963-686262)
+
+###### Artigo 542.º
+
+É aplicável aos funcionários administrativos assistidos na tuberculose o regime de vencimentos estabelecido na lei para os funcionários tuberculosos.
+
+#### Secção V — Incompatibilidades e acumulações
+
+###### Artigo 543.º
+
+Os funcionários de carteira não podem:
+
+1.º Exercer a profissão de comerciante, por si ou por seu cônjuge, e a direcção, administração ou gerência de sociedades comerciais;
+
+2.º Exercer qualquer actividade ou emprêgo, acidental ou permanentemente, com ou seu remuneração, dentro das horas normais do desempenho das funções publicas;
+
+3.º Exercer qualquer lugar em emprêsa que tenha contrato com o Estado ou autarquias locais;
+
+4.º Exercer funções nos corpos dirigentes ou na secretaria ou tesouraria das pessoas colectivas de utilidade pública administrativa sujeitas à fiscalização ou ao julgamento de contas pela entidade ou repartição a cujos quadros pertençam;
+
+5.º Ser editores, directores ou proprietários de jornais ou publicações periódicas que não sejam de carácter exclusivamente científico ou literário.
+
+###### Artigo 544.º
+
+O exercício cumulativo de funções de secretaria e tesouraria e de outras funções públicas para as quais não esteja fixada retribuição bastante para o seu exercício independente depende de autorização do Conselho de Ministros, quando se trate de cargo do Estado ou de organismos de coordenação económica, ou do Ministro do Interior, nos demais casos.
+
+> Alterado pelo/a [Decreto-Lei n.º 47263 - Diário do Governo n.º 243/1966, Série I de 1966-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47263-1966-478402)
+
+> Alterado pelo/a [Decreto-Lei n.º 46233 - Diário do Governo n.º 64/1965, Série I de 1965-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46233-1965-238587)
+
+###### Artigo 545.º
+
+Os funcionários administrativos não podem, sob pena de nulidade, outorgar, por si ou interposta pessoa, em contratos de obras e fornecimentos com os corpos administrativos sob cuja dependência servirem.
+
+###### Artigo 546.º
+
+O funcionário administrativo que exercer profissão ou função pública ou privada incompatível com o seu cargo será processado disciplinarmente e demitido dêste.
+
+###### Artigo 547.º
+
+O funcionário administrativo nomeado para outro cargo ou função pública não acumulável deverá declarar, perante o seu superior hierárquico, dentro dos dez dias imediatos ao da data da nomeação, por qual opta, e, não o declarando, será demitido dos quadros administrativos.
+
+#### Secção VI — Antiguidade e informações
+
+###### Artigo 548.º
+
+A antiguidade dos funcionários administrativos conta-se:
+
+1.º Desde a data da posse do cargo, para efeitos da antiguidade nos respectivos quadro e categoria ou classe;
+
+2.º Desde a data da posse do primeiro cargo público, para efeitos da antiguidade no serviço público.
+
+###### Artigo 549.º
+
+A contagem do tempo para a antiguidade é feita atendendo-se exclusivamente ao tempo de serviço efectivo.
+
+###### Artigo 550.º
+
+Não se conta para efeitos de antiguidade:
+
+1.º O tempo passado nas situações de inactividade no quadro e fora do quadro;
+
+2.º O tempo que, por virtude do disposições disciplinares, fôr considerado perdido para efeitos de antiguidade;
+
+3.º O tempo de ausência ilegítima do serviço público;
+
+4.º O tempo com parte de doente ou de licença por doença que, num período de três anos, exceder seis meses seguidos ou nove interpolados.
+
+###### Artigo 551.º
+
+Conta-se para efeitos de antiguidade:
+
+1.º Todo o tempo de actividade de serviço prestado com provimento provisório ou interino, desde que seguido de provimento definitivo no mesmo cargo;
+
+2.º O tempo de suspensão preventiva em processo disciplinar que tenha terminado por decisão de improcedência ou absolvição, ou que exceder a pena aplicada;
+
+3.º O tempo gasto no cumprimento dos deveres militares;
+
+4.º O tempo de duração das comissões extraordinárias de serviço público de que o funcionário tenha sido competentemente incumbido;
+
+5.º O tempo de exercício de funções de Ministro, de Sub-Secretário de Estado, de governador civil, de chefe de Gabinete ou secretário de Ministro;
+
+6.º O tempo que houver sido descontado por efeito de pena disciplinar anulada contenciosamente ou revogada em processo de revisão.
+
+###### Artigo 552.º
+
+Anualmente a Direcção Geral de Administração Política e Civil elaborará e publicará no Diário do Govêrno a lista de antiguidade dos funcionários do quadro geral administrativo, e os secretários ou chefes de secretaria elaborarão as listas dos quadros privativos, as quais serão publicadas em Ordem de Serviço.
+
+§ 1.º Nos trinta dias que se seguirem à publicação das listas poderá, quem se julgar prejudicado, recorrer para o Ministro do Interior, tratando-se da lista do quadro geral, ou para o governador civil, presidente da câmara municipal, da junta de província ou administrador do bairro conforme os casos, tratando-se das listas dos quadros privativos.
+
+§ 2.º A autoridade que receber o recurso resolvê-lo-á dentro do trinta dias, ouvida a Direcção Geral ou o funcionário que tiver elaborado a lista.
+
+§ 3.º Do despacho que resolver o recurso, ou da falta daquele no prazo legal, cabe recurso contencioso.
+
+§ 4.º Os despachos do Ministro do Interior serão publicados no Diário do Govêrno e os das outras entidades em Ordem de Serviço.
+
+###### Artigo 553.º
+
+Cada funcionário terá um processo individual, do qual constarão todos os dados e informações respeitantes à sua carreira no serviço público.
+
+§ 1.º Os processos individuais dos funcionários do quadro geral serão arquivados na Direcção Geral de Administração Política e Civil e os dos funcionários dos quadros privativos nas respectivas secretarias.
+
+§ 2.º A organização dos processos individuais será uniformemente regulada pelo Ministro do Interior para todos os funcionários administrativos.
+
+###### Artigo 554.º
+
+Os funcionários incumbidos do serviço de inspecção darão informações concretas sôbre o mérito e moralidade dos funcionários dos quadros que desempenhem cargos nos serviços por êles visitados. Essas informações serão fundamentadas e, sempre que possível, documentadas e abonadas, mas quando prestadas com falsidade será instaurado processo disciplinar ao funcionário inspector.
+
+#### Secção VII — Aposentações
+
+###### Artigo 555.º
+
+Os funcionários de secretaria e tesouraria têm direito a aposentação nos termos e pela forma estabelecida para os funcionários públicos.
+
+###### Artigo 556.º
+
+A aposentação dos funcionários de secretaria e tesouraria que de futuro sejam nomeados competirá à Caixa Geral de Aposentações, na qual obrigatòriamente serão inscritos como subscritores.
+
+###### Artigo 557.º
+
+A aposentação obrigatória ou compulsiva dos funcionários do quadro geral administrativo e dos quadros privativos dos governos civis e administrações de bairro é da exclusiva competência do Govêrno e a dos funcionários dos quadros privativos dos corpos administrativos da exclusiva competência dêstes, observadas, na parte aplicável, as disposições legais relativas aos funcionários públicos.
+
+### Capítulo V — Da disciplina
+
+#### Secção I — Responsabilidade disciplinar
+
+###### Artigo 558.º
+
+Todos os funcionários administrativos, qualquer que seja a sua situação, são responsáveis disciplinarmente, perante as autoridades que hieràrquicamente lhes forem superiores, pelas infracções que cometam.
+
+###### Artigo 559.º
+
+Considera-se infracção disciplinar o facto voluntário praticado pelo funcionário com violação de algum dos deveres gerais ou especiais decorrentes da função que exerce.
+
+§ único. A violação de deveres é punível quer consista em acção quer em omissão, e independentemente de ter produzido resultado perturbador do serviço.
+
+###### Artigo 560.º
+
+O direito de exigir a responsabilidade disciplinar em que qualquer funcionário administrativo haja incorrido prescreve passados cinco anos sôbre a data em que a falta tenha sido cometida, salvo o disposto nos parágrafos seguintes.
+
+§ 1.º Se o facto qualificado de infracção disciplinar fôr também considerado infracção penal e os prazos de prescrição do procedimento criminal forem superiores a cinco anos, aplicar-se-ão ao procedimento disciplinar os prazos estabelecidos no Código Penal.
+
+§ 2.º E imprescritível o direito de exigir a responsabilidade disciplinar por qualquer das infracções a que se referem os n.os 2.º, 6.º, 7.º e 11.º do artigo 580.º
+
+###### Artigo 561.º
+
+Os funcionários administrativos ficam sujeitos ao poder disciplinar desde a data da posse.
+
+###### Artigo 562.º
+
+O despacho de pronúncia, com trânsito em julgado, pelos crimes enunciados no § único do artigo 71.º do Código Penal determina a suspensão de exercício e vencimento do funcionário até julgamento final.
+
+§ único. A perda de vencimento a que êste artigo se refere será reparada sòmente no caso do absolvição.
+
+###### Artigo 563.º
+
+Subsistem em vigor as disposições do Código Penal quanto à suspensão ou demissão por efeito de pena sofrida nos tribunais criminais competentes e quaisquer disposições especiais não revogadas pelo presente Código.
+
+#### Secção II — Penas disciplinares e seus efeitos
+
+###### Artigo 564.º
+
+As penalidades aplicáveis aos funcionários administrativos pelas faltas disciplinares que cometerem são:
+
+1.º Advertência;
+
+2.º Repreensão verbal ou por escrito;
+
+3.º Multa, correspondente aos vencimentos de exercício, de cinco até trinta dias;
+
+4.º Suspensão de exercício e vencimentos de dez até sessenta dias;
+
+5.º Suspensão de exercício e vencimentos de mais de sessenta até cento e oitenta dias.
+
+6.º Aposentação compulsiva;
+
+7.º Demissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 565.º
+
+As penas dos n.os 3.º e seguintes do artigo anterior serão sempre registadas no processo individual do funcionário.
+
+§ único. As amnistias não destroem os efeitos já produzidos pela aplicação da pena nem determinam o cancelamento do registo do castigo aplicado, que servirá para apreciação da conduta do funcionário, mas nêle se averbará que, por virtude de amnistia, a pena deixou de produzir no futuro os efeitos legais.
+
+###### Artigo 566.º
+
+As penas disciplinares têm únicamente os efeitos declarados na lei.
+
+§ único. Os efeitos das penas estabelecidas neste Código são os seguintes:
+
+1.º A pena de multa implica a perda, para efeitos de antiguidade, de tantos dias quantos aqueles a que corresponderem os vencimentos perdidos;
+
+2.º As penas de suspensão de exercício e vencimentos implicam:
+
+a) A perda da faculdade de gozar licença graciosa no período de um ano contado desde o têrmo da expiação da pena;
+
+b) A perda, para efeitos de antiguidade e aposentação, de tantos dias quantos tenha durado a suspensão;
+
+c) A impossibilidade de promoção durante um ano contado do têrmo da expiação da pena;
+
+d) Para os funcionários do quadro geral, a passagem à situação de inactividade no quadro, e, quando superior a sessenta dias, a abertura de vaga nos cargos em que estejam providos, e que não poderão voltar a exercer.
+
+3.º A pena de demissão importa a perda de todos os direitos de funcionário e a impossibilidade de ingressar novamente nos quadros e de ser contratado ou provido interinamente em quaisquer cargos, salva a hipótese de rehabilitação obtida em revisão do processo disciplinar.
+
+###### Artigo 567.º
+
+O funcionário do quadro que, por efeito de pena de suspensão de exercício e vencimentos superior a sessenta dias, seja colocado na situação de inactividade no quadro, será, após cumprimento da pena, opositor obrigatório em todos os concursos para provimento de lugares da sua categoria e classe, devendo, entretanto, prestar serviço na Direcção-Geral de Administração Política e Civil ou em secretaria de governo civil, conforme for determinado pelo director-geral de Administração Política e Civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 445/72 - Diário do Governo n.º 262/1972, Série I de 1972-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1972-686223)
+
+###### Artigo 568.º
+
+O funcionário que, dentro de cinco anos contados da data da primeira condenação, seja por três vezes condenado na pena de multa, ou duas vezes na de suspensão de exercício e vencimentos por tempo que, somado, exceda cento e vinte dias, passará a ocupar o último lugar na escala de antiguidade do quadro a que pertencer.
+
+###### Artigo 569.º
+
+Não pode aplicar-se ao mesmo funcionário mais de uma pena disciplinar por cada infracção, ou pelas infracções acumuladas que sejam apreciadas num só processo.
+
+§ único. O procedimento disciplinar é independente do procedimento criminal, no que respeita à aplicação das penas.
+
+###### Artigo 570.º
+
+Para os funcionários aposentados as penas de multa ou suspensão serão substituídas pela perda da pensão por igual tempo e a pena de demissão pela perda definitiva da pensão.
+
+#### Secção III — Competência disciplinar
+
+###### Artigo 571.º
+
+As penas de advertência e repreensão são da competência de todos os funcionários em relação aos que lhes estejam subordinados.
+
+###### Artigo 572.º
+
+Os corpos administrativos têm competência:
+
+1.º Para a aplicação, aos funcionários dos seus quadros privativos, das penas dos n.os 1.º a 7.º do artigo 564.º;
+
+2.º Para a aplicação, aos funcionários do quadro geral que se encontrem ao seu serviço, das penas dos n.os 1.º a 3.º do mesmo artigo 564.º
+
+§ único. O presidente da câmara municipal tem competência para advertir e repreender qualquer funcionário municipal.
+
+###### Artigo 573.º
+
+Compete aos governadores civis a aplicação, aos funcionários dos quadros privativos dos respectivos governos civis, das penas dos n.os 1.º a 5.º do artigo 564.º e aos funcionários do quadro geral das penas dos n.os 1.º a 3.º do mesmo artigo.
+
+###### Artigo 574.º
+
+Compete aos administradores dos bairros a aplicação, aos funcionários dos quadros privativos das respectivas administrações, das penas dos n.os 1.º a 5.º do artigo 564.º
+
+###### Artigo 575.º
+
+É da competência do Ministro do Interior a aplicação das penas:
+
+1.º Dos n.os 6.º e 7.º do artigo 564.º, aos funcionários dos quadros privativos dos governos civis e administrações dos bairros;
+
+2.º Dos n.os 4.º e seguintes do artigo 564.º, aos funcionários do quadro geral.
+
+###### Artigo 576.º
+
+A competência disciplinar dos superiores envolve sempre a dos seus inferiores hierárquicos dentro do serviço.
+
+§ único. Nenhum superior poderá delegar em subordinado a sua competência de punir, salvo o disposto para os concelhos de Lisboa e Pôrto.
+
+#### Secção IV — Aplicação das penas
+
+###### Artigo 577.º
+
+As penas dos n.os 1.º e 2.º do artigo 564.º serão aplicadas por faltas leves de serviço e sempre no intuito do aperfeiçoamento profissional do funcionário.
+
+###### Artigo 578.º
+
+A pena do n.º 3.º do artigo 564.º será aplicada, em geral, nos casos de negligência ou má compreensão dos deveres profissionais.
+
+§ único. Esta pena será especialmente aplicável aos funcionários:
+
+1.º Que na arrumação dos livros e documentos a seu cargo não observarem a ordem estabelecida superiormente ou que na escrituração cometerem erros por falta de atenção, se dêstes factos não tiver resultado prejuízo para o serviço;
+
+2.º Que desobedeceram às ordens dos seus chefes, sem conseqüências importantes;
+
+3.º Que deixarem de participar às autoridades competentes transgressão de que tiverem conhecimento;
+
+4.º Que cometerem falta de respeito, considerada leve, para com superior hierárquico;
+
+5.º Que discutirem publicamente actos de superior hierárquico;
+
+6.º Que, pelo defeituoso cumprimento ou desconhecimento das disposições legais e regulamentares ou das ordens superiores, demonstrarem falta de zêlo pelo serviço;
+
+7.º Que nas relações com o público faltarem aos deveres de cortesia.
+
+###### Artigo 579.º
+
+As penas dos n.os 4.º e 5.º do artigo 564.º são, em geral, aplicáveis nos casos:
+
+1.º De negligência grave e demonstrativa de falta de zêlo pelo serviço;
+
+2.º De êrro de ofício;
+
+3.º De procedimento atentatório da dignidade e prestígio do funcionário ou da função.
+
+§ único. As penas referidas neste artigo serão especialmene aplicáveis aos funcionários:
+
+1.º Que, dentro do mesmo ano civil, derem trinta faltas interpoladas e não justificadas;
+
+2.º Que, por falta de cuidado, derem informação errada a superior hierárquico, em matéria de serviço;
+
+3.º Que cometerem inconfidência, se do facto não resultar prejuízo para as entidades, de que forem serventuários ou para terceiros;
+
+4.º Que demonstrarem falta de conhecimento de normas essenciais reguladoras do serviço, da qual haja resultado prejuízo importante para as entidades de que forem serventuários ou para terceiros;
+
+5.º Que deixarem de passar, dentro dos prazos legais, as certidões que lhes sejam requeridas;
+
+6.º Que, por virtude de promessa ou dádiva, não punirem ou não participarem transgressões ou falta disciplinar grave de que tenham conhecimento;
+
+7.º Que desobedecerem de modo escandaloso, ou em público, às ordens superiores;
+
+8.º Que, fora do serviço, agredirem, injuriarem ou desrespeitarem gravemente superior hierárquico;
+
+9.º Que com má fé derem participação de que resulte a injusta punição de inferior hierárquico;
+
+10.º Que se apresentarem em repartição pública em estado de embriaguez;
+
+11.º Que aceitarem dádiva ou participação em lucro provenientes da marcha ou resolução de negócios pendentes em repartição pública;
+
+12.º Que aceitarem presentes de subordinados ou de pessoas sujeitas à sua autoridade;
+
+13.º Que fizerem ou minutarem requerimentos ou petições que tenham de ser informados, resolvidos ou expedidos pelas secretarias em que prestem serviço;
+
+14.º Que freqüentarem, com escândalo, tabernas ou prostíbulos, ou que permanecerem em tabernas, cafés ou outros lugares públicos durante as horas destinadas ao serviço;
+
+15.º Que realizarem despesas não previstas nos orçamentos, ou excederem as autorizações orçamentais, sem a existência de receitas que garantam o seu pagamento;
+
+16.º Que receberem fundos, cobrarem receitas ou recolherem verbas de que não prestem contas;
+
+17.º Que convocarem ou promoverem reüniões ou manifestações políticas contrárias à orientação política do Estado;
+
+18.º Que praticarem, em relação a eleições políticas ou administrativas, actos que a lei não imponha;
+
+19.º Que se manifestarem, pela imprensa, em comício público ou em mensagens individuais ou colectivas, sôbre a orientação, os actos ou as decisões do Govêrno ou dos corpos administrativos, discordando dêles ou censurando-os;
+
+20.º Que divulgarem boatos destinados a perturbar a tranqüilidade ou a ordem pública, ou susceptíveis de as perturbarem, ou que espalharem notícias que prejudiquem o crédito público;
+
+21º Que discutirem pùblicamente os actos do Presidente da República, dos Ministros, dos Sub-Secretários de Estado e dos governadores civis ou de quaisquer outros funcionários superiores da administração pública, com ânimo de injuriar as suas pessoas ou de deturpar a verdade, ou que ofenderem por qualquer forma ou meio o prestígio do Estado, a honra e consideração devidas ao seu Chefe e ao Govêrno e o respeito à bandeira e ao hino nacional.
+
+###### Artigo 580.º
+
+As penas dos n.os 6.º e 7.º do artigo 564.º são aplicáveis, em geral, às infracções disciplinares que revelem impossibilidade de adaptação ou inconveniente permanência do funcionário no serviço.
+
+§ 1.º Estas penas serão especialmente aplicáveis aos funcionários:
+
+1.º Que agredirem, injuriarem ou desrespeitarem gravemente superior hierárquico, nos locais de serviço ou em serviço público;
+
+2.º Que violarem segrêdo profissional ou cometerem inconfidência de que resultem prejuízos materiais ou morais para as entidades de que forem serventuários ou para terceiros;
+
+3.º Que incitarem à indisciplina ou à insubordinação os seus inferiores hierárquicos, ou que aconselharem, incitarem ou por qualquer forma provocarem ao não cumprimento dos deveres inerentes à função pública, à desharmonia entre elementos da fôrça armada ou à desobediência às leis, decretos e ordens das autoridades;
+
+4.º Que praticarem, durante o serviço público, actos de grave insubordinação ou indisciplina;
+
+5.º Que sofrerem condenação a pena maior ou correccional por colaborarem, por qualquer forma, em perturbações de ordem pública ou em conjuração e aliciamento que com elas andem ligados;
+
+6.º Que comparticiparem em oferta ou negociações de emprêgo público;
+
+7.º Que tomarem parte ou interêsse em contrato celebrado pela identidade de que sejam serventuários;
+
+8.º Que recusarem, sob qualquer pretexto, a prestação de juramento de fidelidade;
+
+9.º Que abandonarem o seu lugar ou dolosamente participarem abandono de lugar de algum funcionário, dando lugar à demissão dêste;
+
+10.º Que se concertarem com outros funcionários para a cessação simultânea do serviço público ou que entrarem em coligação para êsse efeito;
+
+11.º Que forem encontrados em alcance de dinheiros públicos ou por êle possam ser responsabilizados;
+
+12.º Que praticarem em público actos deshonrosos;
+
+13.º Que pùblicamente professarem opiniões contrárias à existência e integridade de Portugal como país independente ou favoráveis à subversão violenta da ordem política e social existentes.
+
+§ 2.º A pena de aposentação compulsiva só poderá ser aplicada aos funcionários que reúnam os requisitos legais para lhes ser concedida a aposentação facultativa.
+
+###### Artigo 581.º
+
+Para o efeito da graduação das penas serão sempre tomadas em conta todas as circunstâncias em que a infracção tiver sido cometida e a natureza do cargo ocupado pelo infractor.
+
+###### Artigo 582.º
+
+São circunstâncias atenuantes especiais da infracção disciplinar:
+
+1.º A prestação de mais de dez anos de serviço com exemplar comportamento e zêlo;
+
+2.º A confissão espontânea da infracção;
+
+3.º A prestação de serviços relevantes à Pátria;
+
+4.º A provocação de superior hierárquico;
+
+5.º O acatameuto de ordem de superior hierárquico, nos casos em que não fôsse devida obediência.
+
+§ único. A existência de circunstâncias atenuantes especiais será atendida para o efeito de aplicação da pena imediatamente inferior à merecida pelo facto, ou à redução a metade do tempo de duração do castigo.
+
+###### Artigo 583.º
+
+São circunstâncias agravantes especiais da infracção disciplinar:
+
+1.º A premeditação;
+
+2.º A combinação com outros indivíduos para a prática da falta;
+
+3.º O facto de ser cometida durante o cumprimento de pena disciplinar;
+
+4.º A acumulação de infracções;
+
+5.º A reincidência;
+
+6.º A vontade determinada de, pela conduta adoptada, produzir resultados prejudiciais ao serviço público ou ao interêsse geral, independentemente de estes efectivamente se verificarem;
+
+7.º A produção efectiva de resultados prejudiciais ao serviço público ou ao interêsse geral, nos casos em que o funcionário devesse prever essa conseqüência como efeito necessário da sua conduta.
+
+§ 1.º A premeditaçâo consiste no desígnio formado vinte e quatro horas antes, pelo menos, da prática da infracção.
+
+§ 2.º A acumulação dá se quando duas ou mais infracções são cometidas na mesma ocasião, ou quando uma é cometida antes de ter sido punida a anterior.
+
+§ 3.º A reincidência dá-se quando a infracção é cometida antes de passado um ano sôbre o dia em que tiver findado o cumprimento de pena imposta em conseqüência de infracção anterior.
+
+§ 4.º Verificada a existência de alguma circunstância agravante especial, não poderá levar-se em conta nenhuma atenuante, mesmo especial, e aplicar-se-á sempre o máximo da pena correspondente à infracção mais grave a castigar.
+
+#### Secção V — Processo disciplinar
+
+##### Subsecção I — Disposições gerais
+
+###### Artigo 584.º
+
+As penas dos n.os 3.º e seguintes do artigo 564.º serão sempre aplicadas precedendo apuramento dos factos em processo disciplinar.
+
+###### Artigo 585.º
+
+O processo disciplinar é sempre sumário, não dependendo de formalidades especiais, e deve ser conduzido de modo a levar ràpidamente ao apuramento da verdade, empregando-se todos os meios necessários para a sua pronta conclusão.
+
+###### Artigo 586.º
+
+Em processo disciplinar a única nulidade insuprível é a falta de concessão de audiência ao argüido nos casos em que a lei a impuser.
+
+###### Artigo 587.º
+
+Nenhuma falta deixará de merecer a atenção do superior hierárquico, para que a disciplina dos serviços seja mantida em termos justos, tendo-se sempre presente que o exemplo do inteiro cumprimento do dever e o espírito de sacrifício no exercício das funções públicas são os maiores factores da disciplina e da boa ordem dos serviços.
+
+###### Artigo 588.º
+
+Os processos disciplinares serão isentos de custas e selos, mas, no caso de condenação, as despesas do processo correrão por conta do infractor, no todo ou em parte, conforme a decisão da autoridade ou corpo administrativo que punir, incluindo-se nestas despesas a importância do sêlo devido pelos requerimentos e documentos juntos pelo argüido.
+
+###### Artigo 589.º
+
+Será admitido condicionalmente às provas de qualquer concurso o argüido em processo disciplinar que tenha direito de a elas concorrer, mas as provas serão anuladas se a pena fôr imposta e a condenação tiver o efeito de fazer perder ao candidato a antiguidade precisa para a admissão ao concurso.
+
+##### Subsecção II — Instrução do processo
+
+###### Artigo 590.º
+
+Sempre que chegue ao conhecimento de qualquer autoridade ou corpo administrativo que um funcionário seu subordinado praticou infracção disciplinar punível, será pela mesma autoridade ou corpo administrativo instaurado o competente processo.
+
+§ 1.º Quando as infracções sejam verificadas por funcionários da Inspecção Geral de Finanças ou da inspecção administrativa o processo disciplinar será instaurado independentemente de deliberação ou despacho da autoridade com competência disciplinar sôbre os argüidos.
+
+§ 2.º As participações, queixas ou denúncias contra qualquer funcionário deverão merecer sempre toda a atenção à autoridade ou corpo administrativo a quem forem dirigidas, os quais só deixarão de lhes dar seguimento quando fundadamente se convençam da sua improcedência.
+
+###### Artigo 591.º
+
+Tornando-se necessário averiguar factos ou apurar circunstâncias para determinação da responsabilidade disciplinar poderá a autoridade ou corpo administrativo, em cuja imediata dependência se encontre o funcionário argüido nomear um instrutor do processo.
+
+§ 1.º O instrutor do processo deverá ser escolhido de entre funcionários de categoria ou classe superior à do argüido ou mais antigos do que êle na mesma categoria e classe.
+
+§ 2.º A faculdade de nomeação de instrutor não exclue, nos casos em que não seja usada, a competência das próprias autoridades e dos corpos administrativos para procederem à instrução do processo, por intermédio dos seus presidentes ou de um dos vogais.
+
+###### Artigo 592.º
+
+As autoridades e os corpos administrativos podem ordenar inquéritos a certos factos ocorridos nos serviços na sua dependência, ou sindicâncias aos mesmos serviços. As infracções disciplinares nêles verificadas darão lugar a instauração de tantos processos disciplinares quantos os funcionários infractoros, mediante decisão ou deliberação da autoridade ou corpo administrativo competente, que poderá dispensar a instrução dêles, ordenando que se extraiam logo os artigos de acusação.
+
+###### Artigo 593.º
+
+Os instrutores, sindicantes ou inquiridores tomarão, desde a sua nomeação, todas as providências precisas para que se não possa alterar o estado dos factos e dos documentos ou livros em que se descobriu ou se presume existir alguma irregularidade, nem subtrair as provas desta.
+
+###### Artigo 594.º
+
+O funcionário implicado em qualquer processo disciplinar ou visado em sindicância ou inquérito poderá ser, sob proposta do instrutor, sindicante ou inquiridor, preventivamente suspenso do exercício das suas funções, sem vencimento ou apenas com o vencimento de categoria, até decisão do processo, mas nunca por mais de noventa dias.
+
+§ 1.º A suspensão preventiva será ordenada pela autoridade ou corpo administrativo sob cujas ordens imediatas servir o funcionário argüido, salvo se êste pertencer à 1.ª categoria do quadro geral, caso em que essa competência pertencerá ao Ministro do Interior.
+
+§ 2.º A perda do vencimento será reparada, confirmada ou levada em conta na decisão final do processo.
+
+###### Artigo 595.º
+
+Os instrutores procurarão averiguar as circunstâncias em que a falta foi cometida, ouvindo o participante, as testemunhas por êste indicadas e as pessoas que dos factos possam ter conhecimento, reünindo e examinando todos os elementos de prova.
+
+§ 1.º Quando o funcionário seja argüido de incompetência profissional e não se juntem ao processo documentos comprovativos da acusação, poderá o instrutor convidá-lo a prestar provas sôbre matérias e actos correntes das funções que correspondam à sua categoria, sob cominação de, em caso de recusa, se considerar provada a acusação.
+
+§ 2.º As diligências que tiverem de ser feitas fora da localidade onde correr o processo podem ser requisitadas, por ofício ou telegrama, à respectiva autoridade administrativa.
+
+###### Artigo 596.º
+
+Concluída a instrução de processo, o instrutor deduzirá a acusação do argüido sob a forma de artigos.
+
+§ único. Os artigos de acusação devem enunciar precisa e concretamente, com todas as circunstâncias conhecidas de modo, lugar e tempo, os factos imputados ao argüido e as infracções disciplinares que dêles derivem.
+
+###### Artigo 597.º
+
+Nos casos em que os inspectores administrativos ou de finanças verifiquem nas suas visitas de inspecção a existência de infracções disciplinares que julguem suficientemente indiciadas nos respectivos relatórios poderão desde logo fazer seguir processo disciplinar contra o funcionário responsável, com dispensa da fase instrutória e mediante imediata formulação de artigos de acusação autuados em separado.
+
+##### Subsecção III — Defesa do argüido
+
+###### Artigo 598.º
+
+Os artigos de acusação serão remetidos ou entregues ao argüido, marcando-se-lhe um prazo, não inferior a cinco dias nem superior a vinte, para responder por escrito.
+
+§ 1.º A remessa dos artigos de acusação pelo correio será feitia por meio de carta registada com aviso de recepção.
+
+§ 2.º Se o argüido estiver ausente em parte incerta, será publicado aviso no Diário do Govêrno citando-o para apresentar a sua defesa no prazo que lhe fôr designado.
+
+###### Artigo 599.º
+
+Durante o prazo marcado para a apresentação da defesa pode o argüido examinar o processo disciplinar, por si ou por advogado constituído.
+
+§ 1.º A resposta deve ser assinada pelo argüido.
+
+§ 2.º Com a resposta pode o argüido juntar quaisquer documentos e indicar até três testemunhas para cada facto, mas não mais de dez, residentes ou que apresente na localidade onde se estiver a proceder à instrução do processo.
+
+§ 3.º As testemunhas só podem depor sôbre os factos para que foram precisamente indicadas.
+
+###### Artigo 600.º
+
+Não podem ser juntas aos autos respostas que contenham matéria estranha à acusação e desnecessária à defesa.
+
+§ 1.º Se a resposta do acusado estiver redigida em termos desrespeitosos será considerada e punida como falta grave de respeito a superior.
+
+§ 2.º Se a resposta revelar factos puníveis estranhos à acusação e que não interessem à defesa não será aquela junta ao processo, mas ser-lhe-á dado seguimento e, se os factos respeitarem a superior hierárquico do acusado, será a resposta considerada, para efeitos legais, queixa contra superior hierárquico.
+
+##### Subsecção IV — Decisão disciplinar e sua execução
+
+###### Artigo 601.º
+
+Apresentada a defesa do argüido e inquiridas as testemunhas por êle indicadas, o instrutor, se não fôr a própria autoridade com competência para decidir o processo, relatá-lo á, propondo a pena que entender justa, e entregará os autos à autoridade ou corpo administrativo quo o tiver nomeado.
+
+§1.º Os processos instaurados pelos inspectores administrativos ou de finanças serão imediatamente, depois de relatados, remetidos ao corpo administrativo ou ao Ministro do Interior, de modo que entre a data da instauração e a remessa não haja intervalo superior a trinta dias.
+
+§ 2.º Os processos em que sejam arguidos funcionários do quadro geral administrativo e instaurados nos termos do parágrafo anterior serão sempre remetidos ao Ministro do Interior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 602.º
+
+Sempre que a autoridade ou corpo administrativo que tiver mandado instaurar o processo julgue que a pena a aplicar excede a sua competência, remeterá os autos, com despacho ou deliberação, à autoridade competente.
+
+###### Artigo 603.º
+
+Quando vários funcionários, embora de diversos quadros, sejam argüidos da prática do mesmo facto ou de factos entre si conexos, a autoridade que tiver competência para punir o funcionário de maior categoria decidirá relativamente a todos os argüidos.
+
+###### Artigo 604.º
+
+Nos casos em que haja de exercer-se a competência disciplinar do Ministro do Interior será o processo submetido ao director geral de administração política e civil para, no prazo de cinco dias, interpor parecer sôbre os seguintes pontos:
+
+1.º Regularidade formal do processo disciplinar;
+
+2.º Existência material dos factos imputados ao funcionário;
+
+3.º Qualificação dos factos como infracção disciplinar;
+
+4.º Circunstâncias atenuantes e agravantes;
+
+5.º Natureza pouco grave, grave ou muito grave da infracção, e pena aplicável.
+
+###### Artigo 605.º
+
+Os processos disciplinares cuja decisão seja da competência dos corpos administrativos entrarão na ordem do dia da primeira reünião ordinária a celebrar.
+
+§ 1.º Quando o processo tenha sido instaurado em conseqüência de inquérito ou sindicância levada a efeito pelas inspecções administrativa ou de finanças, e os factos apurados sejam reputados de extrema gravidade pelo respectivo inspector geral, deverá o presidente do corpo administrativo convocar uma reünião extraordinária imediata para decisão do processo, se a reünião ordinária mais próxima ainda demorar três ou mais dias. A infracção do disposto neste parágrafo é punida com a aplicação da multa de 1.000§ ao presidente do corpo administrativo, salvo se provar que não teve conhecimento da chegada do processo à secretaria, pois nesse caso ficará responsável pelo pagamento o respectivo chefe de secretaria.
+
+§ 2.º As resoluções dos corpos administrativos em processos disciplinares instaurados pelos inspectores administrativos ou de finanças, carecem, para se tornarem executárias, da homologação do Ministro do Interior que em despacho fundamentado poderá alterar a pena aplicada.
+
+Art.. 606.º As penas da competência do Ministro do Interior, do governador civil e do administrador do bairro serão aplicadas por despacho e as da competência dos corpos administrativos em deliberação exarada na respectiva acta. As penas serão notificadas aos argüidos ou, não sendo possível, publicadas por extracto no Diário do Govêrno.
+
+§ único. Exceptuam-se do disposto neste artigo as penas de advertência e de repreensão.
+
+###### Artigo 607.º
+
+As penas disciplinares começarão a produzir os seus efeitos legais no dia seguinte ao da notificação do argüido ou três dias após a publicação no Diário do Govêrno.
+
+##### Subsecção V — Processos especiais por abandono de lugar e por falta de assiduïdade
+
+###### Artigo 608.º
+
+Sempre que um funcionário administrativo deixe de comparecer ao serviço durante cinco dias, depois de expressamente ter manifestado a sua intenção de abandonar o cargo, ou faltar durante trinta dias úteis seguidos e sem justificação, será pelo seu imediato superior hierárquico levantado auto de abandono de lugar.
+
+###### Artigo 609.º
+
+A presunção de abandono de lugar, constituída pelos factos a que se refere a parte final do artigo anterior, só poderá ser destruída, após o levantamento do auto, por meio de documentos autênticos que justifiquem as faltas e o motivo delas.
+
+###### Artigo 610.º
+
+Será levantado auto por falta de assiduïdade ao funcionário que, dentro do mesmo ano civil, der trinta faltas, interpoladas, sem justificação.
+
+###### Artigo 611.º
+
+Os autos de abandono de lugar ou por falta de assiduïdade serão remetidos à autoridade ou corpo administrativo competente para a aplicação da respectiva pena.
+
+###### Artigo 612.º
+
+Recebido o auto, a autoridade competente aplicará logo a pena que ao caso couber, e, se se tratar de um corpo administrativo, será a deliberação tomada na primeira reünião.
+
+##### Subsecção VI — Revisão dos processos disciplinares
+
+###### Artigo 613.º
+
+A todo o tempo pode ser pedida a revisão dos processos disciplinares, quando se aleguem factos ou circunstâncias susceptíveis de justificar a inocência dos que nêles tenham sido condenados.
+
+###### Artigo 614.º
+
+O interessado na revisão de um processo disciplinar apresentará requerimento nesse sentido à autoridade ou corpo administrativo que teria competência para punir o funcionário segundo a lei vigente à data do pedido de revisão.
+
+§ 1.º O requerimento indicará os factos e circunstâncias, não considerados no processo disciplinar, que ao requerente pareçam justificativos da sua inocência, e será instruído com os documentos que não existissem ou não pudessem ter sido utilizados à data da instrução e defesa e que posteriormente tivesse obtido.
+
+§ 2.º A simples alegação de ilegalidade, de forma ou de fundo, do processo e decisão disciplinar não constitue fundamento para a revisão.
+
+###### Artigo 615.º
+
+Recebido o requerimento, a autoridade ou corpo administrativo a quem fôr dirigido resolverá sôbre se deve ou não ser concedida revisão do processo.
+
+§ único. Do despacho ou deliberação que não conceder a revisão não cabe recurso contencioso.
+
+###### Artigo 616.º
+
+Se fôr concedida a revisão, será esta apensa ao processo disciplinar, nomeando-se instrutor diferente do primeiro, que marcará ao interessado prazo para responder por escrito aos artigos de acusação constantes do processo a rever, seguindo-se os termos dos artigos 599.º e seguintes.
+
+###### Artigo 617.º
+
+A revisão do processo não suspende o cumprimento da pena.
+
+###### Artigo 618.º
+
+Provando-se a inocência do funcionário, será revogada a decisão condenatória proferida no processo revisto.
+
+§ único. A revogação a que se refere êste artigo produzirá os seguintes efeitos:
+
+1.º Cancelamento do registo da pena no processo individual do funcionário;
+
+2.º Anulação dos efeitos da pena, com as excepções seguintes:
+
+a) Em nenhum caso serão pagos os vencimentos que o funcionário deixou de receber;
+
+b) Serão respeitadas as situações criadas a outros funcionários pelo provimento nas vagas abertas no cargo ou no quadro em virtude do castigo imposto, mas sempre sem prejuízo da reconquista da antiguidade pelo rehabilitado;
+
+c) O rehabilitado ocupará a primeira vaga que ocorrer ao seu quadro ou em classe ou categoria inferior do mesmo quadro, se, aberta vaga, êle a requerer.
+
+## Título II — Dos funcionários dos serviços especiais
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 619.º
+
+Os funcionários do pessoal maior dos serviços especiais constituirão em cada corpo administrativo um quadro próprio.
+
+§ 1.º Os bibliotecários, arquivistas, analistas, desenhadores, topógrafos, fiscais sanitários e fiscais de obras habilitados pelo menos com o 2.º ciclo do curso dos liceus ou com curso especial são considerados funcionários do pessoal maior dos serviços especiais.
+
+§ 2.º Se, para execução dêstes serviços, forem necessários funcionários de carteira, serão estes destacados do quadro do pessoal de secretaria e tesouraria.
+
+###### Artigo 620.º
+
+§ 1.º Nos concursos para provimento de cargos dos serviços especiais observar-se-ão as normas aplicáveis dos concursos respeitantes aos funcionários de carteira, designadamente quanto a publicação das listas dos candidatos e entrega de documentos.
+
+§ 2.º O candidato preferido que se recusar a tomar posse ou a outorgar no contrato fica sujeito ao disposto no § 3.º do artigo 490.º, na parte aplicável.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 621.º
+
+O provimento dos cargos dos serviços especiais pode fazer se por nomeação vitalícia ou por contrato, consoante a deliberação do corpo administrativo, salvo se a lei impuser uma ou outra.
+
+§ 1.º Tratando-se de cargos criados para ocorrer a necessidades transitórias o provimento far-se-á sempre por contrato.
+
+§ 2.º Não podem ser providos por contrato os partidos médicos e veterinários municipais.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+###### Artigo 622.º
+
+Os funcionários dos serviços especiais dependem, quanto à disciplina, dos corpos administrativos a cujo serviço se encontrem; mas, quando a lei o permita ou imponha, poderão cooperar com outras autoridades e funcionários, recebendo dêles as ordens e instruções de carácter profissional atinentes ao mais perfeito desempenho das funções que exercem.
+
+§ 1.º Sempre que pelas autoridades ou funcionários referidos neste artigo fôr verificada alguma falta grave no exercício profissional do funcionário deverão participá-la por escrito ao corpo administrativo competente, instruindo a participação com todos os elementos de prova que possam obter.
+
+§ 2.º O disposto no parágrafo anterior não prejudica o que estiver estabelecido em leis especiais quanto à disciplina dos funcionários subordinados à direcção técnica de serviços do Estado.
+
+###### Artigo 623.º
+
+Nos processos disciplinares instaurados a médicos, veterinários, engenheiros, advogados síndicos e agrónomos será sempre nomeado instrutor um funcionário superior da Direcção Geral de Administração Política e Civil, ou da 1.ª categoria do quadro geral, ou um magistrado judicial ou do Ministério Público requisitado ao Ministério da Justiça.
+
+§ único. São aplicáveis aos exames a que se proceda em processo disciplinar instruído nos termos do artigo anterior as disposições dos artigos 178.º, 179.º, 180.º, 182.º, 187.º, 188.º, 196.º e 198.º do Código de Processo Penal.
+
+###### Artigo 624.º
+
+Os ordenados do pessoal maior dos serviços especiais são os constantes de tabela anexa a êste Código.
+
+§ único. Os médicos municipais serão remunerados por gratificação, sem prejuízo dos direitos que lhes caibam como funcionários vitalícios.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 625.º
+
+São aplicáveis aos funcionários vitalícios dos serviços especiais as disposições sobre posse, deveres, faltas, licenças, situações, vencimentos, antiguidade, aposentações e disciplina dos funcionários de secretaria e tesouraria que forem compatíveis com a natureza das suas funções e bem assim os requisitos enumerados nos n.os 1.º a 6.º e 8.º do artigo 460.º e ainda a posse das habilitações mínimas exigidas para o cargo a prover.
+
+§ único. Os funcionários dos serviços especiais que não sejam obrigados a permanência nas repartições não estão sujeitos às prescrições sôbre faltas, incompatibilidades e acumulações.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 626.º
+
+Aos contratos para provimento dos cargos dos serviços especiais aplica-se o disposto nos §§ 1.º e 2.º do artigo 469.º deste Código, sem prejuízo do preceituado no artigo 628.º
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 627.º
+
+São requisitos essenciais da capacidade para contratar, por parte do candidato a funcionário, os indicados nos n.os 1.º a 6.º e 8.º do artigo 460.º e ainda a posse das habilitações mínimas exigidas para o cargo a prover.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 628.º
+
+Os prazos de duração dos contratos não poderão em caso algum exceder três anos, tàcitamente renováveis por períodos de um ano.
+
+###### Artigo 629.º
+
+Os vencimentos certos atribuídos a um contratado não poderão ser superiores aos que por lei couberem aos funcionários vitalícios de categoria correspondente nem inferiores a metade.
+
+###### Artigo 630.º
+
+Os funcionários contratados dos serviços especiais, enquanto desempenharem o cargo, ficam sujeitos aos deveres comuns dos funcionários de secretaria e tesouraria e respectivo regime de assiduïdade, faltas, licenças e disciplina, e devem ser inscritos na Caixa Geral de Aposentações quando ocupem lugares dos quadros permanentes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 631.º
+
+São nulos e de nenhum efeito os contratos de locação de serviços celebrados com infracção das disposições legais ou em que se assumam encargos não previstos nos orçamentos em vigor.
+
+§ 1.º A declaração da nulidade do contrato não obriga o funcionário à reposição dos vencimentos que tiver recebido por serviços efectivamente prestados, salvo provando-se que lhe é imputável a causa da nulidade.
+
+§ 2.º Os vogais do corpo administrativo que tiverem intervindo na deliberação em execução da qual se celebrou o contrato nulo são solidàriamente responsáveis pelos prejuízos resultantes da execução dêste até à declaração da nulidade. A efectivação dessa responsabilidade será promovida pelo agente do Ministério Público junto da auditoria administrativa competente.
+
+### Capítulo II — Dos médicos municipais de partido
+
+###### Artigo 632.º
+
+O provimento dos partidos médicos municipais far-se-á precedendo concurso de provas documentais, salvo o que vai disposto relativamente à transferência.
+
+###### Artigo 633.º
+
+Ocorrendo vaga de médico municipal no quadro dos serviços especiais de um concelho, será posta a concurso aberto pelo prazo de trinta dias e anunciado no Diário do Govêrno e nos jornais locais, indicando-se o motivo da vacatura.
+
+###### Artigo 634.º
+
+Ao concurso poderão candidatar-se licenciados e doutores em Medicina por qualquer das Universidades portuguesas que satisfaçam aos requisitos dos n.os 1.º a 6.º e 8.º do artigo 460.º, estejam inscritos na Ordem dos Médicos e possuam aprovação no curso de Medicina Sanitária.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 635.º
+
+Encerrado o concurso, será o respectivo processo submetido à deliberação da câmara municipal na primeira reünião ordinária que se celebrar, sob pena de incorrer o presidente na multa de 1.000$00, aplicável pelo juiz da comarca a requerimento de qualquer interessado.
+
+###### Artigo 636.º
+
+Os concorrentes serão classificados em três grupos:
+
+a) No 1.º grupo entram os que provem serviço durante dois anos, pelo menos, como internos nos Hospitais Civis, como assistentes do quadro das cadeiras de clínica das Faculdades de Medicina, como médicos do Hospital de Santo António no Pôrto, ou como módicos militares do exército ou da armada;
+
+b) No 2.º grupo entram os que provem serviço como médicos municipais noutros concelhos, ou como médicos das Casas do Povo;
+
+c) No 3.º grupo os restantes.
+
+> Alterado pelo/a [Decreto-Lei n.º 40655 - Diário do Governo n.º 130/1956, Série I de 1956-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40655-1956-231753)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 637.º
+
+Os concorrentes do 1.º grupo têm preferência absoluta sôbre os do 2.º grupo e estes sôbre os do 3.º grupo.
+
+###### Artigo 638.º
+
+Em igualdade de circunstâncias entre concorrentes classificados no mesmo grupo proceder-se-á do seguinte modo:
+
+a) No 1.º e 2.º grupos serão graduados consoante o tempo de bom e efectivo serviço prestado nas situações referidas;
+
+b) No 3.º grupo atende-se:
+
+1.º Ao tempo de serviço prestado no exército como médico civil na qualidade de contratado;
+
+2.º À maior prática documentada de serviços clínicos em estabelecimentos hospitalares, casas de saúde ou outras similares;
+
+3.º À melhor classificação do diploma universitário.
+
+§ único. Para o efeito da contagem do tempo de serviço dos médicos municipais, o tempo de residência efectiva em centro de partido rural situado a mais de 15 quilómetros de distância da sede do concelho entrará com o aumento de 20 por cento.
+
+###### Artigo 639.º
+
+O partido vago pode ser preenchido, até à decisão do concurso aberto para o seu provimento, por transferência de qualquer médico municipal do concelho que o requeira, se a Câmara der deferimento ao pedido.
+
+§ único. Sendo vários os requerentes, e concordando a câmara municipal com a transferência, deliberará por escrutínio secreto qual dos pretendentes deve ser provido na vaga.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 640.º
+
+É permitida a permuta de partidos entre os médicos municipais nêles providos, desde que seja requerida pelos interessados à câmara ou câmaras municipais respectivas e o requerimento receba deferimento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 641.º
+
+Fora dos casos de transferência requerida e de permuta consentida, os médicos municipais, uma vez colocados num partido, são inamovíveis.
+
+###### Artigo 642.º
+
+As funções de médico municipal são incompatíveis com:
+
+1.º O exercício, por si ou por seu cônjuge, da profissão de comerciante, e especialmente da profissão farmacêutica;
+
+2.º As funções de oficial do quadro permanente do Exército ou da Armada no serviço activo;
+
+3.º O exercício de quaisquer funções públicas alheias à profissão médica, salvo autorização nos termos prescritos para os funcionários de secretaria e tesouraria.
+
+§ único. Quando a nomeação de delegado de saúde recair em médico municipal a acumulação de funções só é permitida tratando-se do facultativo da sede do concelho.
+
+> Alterado pelo/a [Decreto-Lei n.º 47263 - Diário do Governo n.º 243/1966, Série I de 1966-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47263-1966-478402)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+### Capítulo III — Dos veterinários municipais de partido
+
+###### Artigo 643.º
+
+O provimento dos partidos veterinários municipais far-se-á precedendo concurso de provas documentais, salvo os casos de transferência ou permuta, nos termos prescritos relativamente aos médicos municipais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 644.º
+
+É aplicável aos concursos para o provimento dos partidos veterinários o disposto quanto aos partidos médicos.
+
+###### Artigo 645.º
+
+Os concorrentes serão classificados em dois grupos:
+
+a) No 1.º grupo entram os que provem serviço durante um ano, pelo menos, como funcionários da Direcção Geral dos Serviços Pecuários, veterinários militares, inspectores de matadouros ou veterinários municipais noutros concelhos;
+
+b) No 2.º grupo os restantes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 646.º
+
+Os concorrentes classificados no 1.º grupo têm preferência absoluta sôbre os do 2.º grupo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 647.º
+
+Em igualdade de circunstâncias entre concorrentes do mesmo grupo proceder-se-á do seguinte modo:
+
+a) No 1.º grupo serão graduados consoante o tempo de bom e efectivo serviço prestado nas situações referidas ;
+
+b) No 2.º grupo atende-se à melhor classificação do diploma de curso e, ainda quando assim se não desfaça a igualdade de circunstâncias, à antiguidade do diploma, preferindo o mais antigo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 648.º
+
+As funções de veterinário municipal têm as incompatibilidades prescritas para os médicos municipais.
+
+###### Artigo 649.º
+
+Quando o veterinário municipal seja obrigado a dar consultas ou a efectuar serviço de inspecção sanitária fora da sede do partido, tem direito ao abono para transportes segundo a tabela legalmente estabelecida.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+## Título III — Do pessoal menor, especializado e operário
+
+### Capítulo I — Da composição do quadro e forma de provimento
+
+###### Artigo 650.º
+
+Em cada governo civil e administração de bairro haverá um quadro privativo de pessoal auxiliar, cujos lugares serão providos por contrato.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 651.º
+
+Em cada distrito ou concelho haverá um quadro de pessoal auxiliar, especializado e operário, com a composição fixada pelo respectivo corpo administrativo.
+
+§ único. Nos distritos ou concelhos onde a complexidade de serviços e o número de serventuários o justifique poderá desdobrar-se o quadro a que este artigo se refere em dois ou mais quadros distintos.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 652.º
+
+Os cargos que poderão ser incluídos nos quadros a que se refere o artigo anterior e a forma do respectivo provimento serão os determinados pelo Ministro do Interior.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+### Capítulo II — Dos contratados
+
+###### Artigo 653.º
+
+No pessoal auxiliar, especializado e operário só os contratados são considerados funcionários administrativos.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 654.º
+
+Ao provimento por contrato aplica-se o disposto nos §§ 1.º e 2.º do artigo 469.º
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 655.º
+
+§ 1.º Os candidatos deverão provar a posse dos requisitos exigidos nos n.os 1.º a 6.º e 8.º do artigo 460.º, excepto, quanto à idade, aqueles que já forem assalariados dos quadros, desde que neles tenham ingressado com menos de 35 anos.
+
+§ 2.º O recrutamento de paquetes será feito entre indivíduos de sexo masculino com idade não inferior a 14 anos, os quais cessarão obrigatòriamente funções quando completarem a idade de 18 anos.
+
+§ 3.º São habilitações mínimas para contratar as correspondentes à escolaridade obrigatória segundo a idade do interessado, salvo se, atendendo à remuneração mensal atribuída ao cargo, for exigível o 2.º ciclo do ensino liceal ou habilitação equiparada, ou curso especial.
+
+§ 4.º Quando se verifique a impossibilidade de recrutar pessoal com as habilitações mínimas exigidas na segunda parte do parágrafo anterior, poderá o provimento recair em indivíduos que demonstrem, mediante provas práticas, aptidão para o exercício das respectivas funções.
+
+§ 5.º O recrutamento para ingresso no quadro, nas categorias de porteiro e contínuo, deverá, na medida do possível, recair em indivíduos que se encontrem em qualquer das seguintes condições:
+
+a) Serem portadores de diminuições físicas, especialmente as sofridas em serviço militar, desde que tais diminuições não impeçam o exercício regular da função;
+
+b) Serem motoristas dos próprios serviços, com 65 anos, ou, tendo idade inferior, encontrarem-se privados das faculdades necessárias ao bom desempenho do cargo;
+
+c) Serem praças reformadas das forças armadas, da Guarda Nacional Republicana ou da Guarda Fiscal, agentes reformados da Polícia de Segurança Pública ou da Polícia de Viação e Trânsito ou praças da Armada na situação de reserva, com menos de 62 anos de idade;
+
+d) Serem praças ou agentes dos organismos indicados na alínea anterior, em actividade, mas com idade superior a 50 anos.
+
+§ 6.º No caso previsto na alínea c) do parágrafo anterior é dispensada autorização do Governo e os reformados ou reservistas continuarão a perceber a pensão na totalidade, acrescida de 2/3 do ordenado do cargo em que forem providos.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37573 - Diário do Governo n.º 216/1949, Série I de 1949-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37573-1949-265736)
+
+###### Artigo 656.º
+
+Ao pessoal contratado do quadro do pessoal auxiliar, especializado e operário é aplicável, com as necessárias adaptações, o disposto nos artigos 625.º e 630.º
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 657.º
+
+O pessoal menor, especializado e operário é obrigado a prestar quarenta e oito horas do serviço normal em cada semana, nos termos do horário que fôr estabelecido pela autoridade ou corpo administrativo de que dependa.
+
+§ 1.º Os intervalos para repouso e alimentação não são contados como tempo de serviço útil.
+
+§ 2.º As horas extraordinárias de trabalho devidamente autorizado serão remuneradas àparte, nos termos das leis vigentes para os empregados ou operários.
+
+§ 3.º O pessoal militarizado terá horário especial.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+### Capítulo III — Dos assalariados
+
+###### Artigo 658.º
+
+Os corpos administrativos, além dos assalariados dos quadros, destinados a assegurar as necessidades normais dos serviços, podem empregar assalariados para prestação de serviços eventuais.
+
+§ 1.º Exceptua-se do disposto no corpo deste artigo o pessoal cujo horário de trabalho deva coincidir com o do funcionamento normal dos serviços de secretaria.
+
+§ 2.º O pessoal militarizado terá horário especial.
+
+§ 3.º A remuneração por trabalho extraordinário, devidamente autorizado, será, por cada hora, de 1/8 de remuneração diária, ou de 1/6 da mesma remuneração no caso do § 1.º, não podendo, porém, atribuir-se em cada mês mais de 1/3 da remuneração principal.
+
+§ 1.º Serão também assalariados, mas a título permanente, os serventuários dos cargos dos dois últimos grupos do quadro do pessoal menor, especializado e operário.
+
+§ 2.º Ninguém pode ser assalariado pela primeira vez para lugares dos quadros permanentes, nem mantido ao serviço com mais de setenta anos de idade.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 659.º
+
+Aos assalariados de um e outro sexo com bom comportamento, zêlo e reconhecida assiduïdade e mais de cinco anos de serviço efectivo poderão ser concedidos, em cada ano civil e sem prejuízo do serviço, até doze dias de licença sem perda de salários.
+
+§ 1.º Nestas licenças serão descontadas as faltas dadas no ano civil anterior por motivo de doença não causada pelo serviço.
+
+§ 2.º As licenças serão concedidas, a requerimento do interessado, pelo presidente do respectivo corpo administrativo, que poderá delegar a sua competência nos chefes de secretaria ou directores dos serviços.
+
+§ 3.º Independentemente das faltas dadas no gôzo de licença poderão os assalariados dos quadros permanentes faltar ao trabalho ou ser autorizados a ausentar-se dêle, com perda de salário, sempre que participem a falta ou saída aos respectivos chefes.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+###### Artigo 660.º
+
+Os assalariados de um e outro sexo com mais de três anos de bom e efectivo serviço que faltarem por motivo de doença não provocada por acidente no trabalho terão direito, em cada ano civil, aos seguintes abonos:
+
+1.º Nos primeiros vinte dias de doença, o salário completo;
+
+2.º Do 21.º ao 40.º dia de doença, 50 por cento do salário;
+
+3.º Do 41.º ao 60.º dia de doença, 25 por cento do salário.
+
+§ 1.º As assalariadas parturientes receberão o salário completo durante quinze dias.
+
+§ 2.º Para os efeitos do que dispõe êste artigo deverá o assalariado ou pessoa de família fazer a participação da doença ao chefe dos respectivos serviços no prazo de vinte e quatro horas e por escrito, a fim de a mesma ser comprovada.
+
+§ 3.º O assalariado que tiver dado parte de doente e não fôr encontrado no seu domicílio ou no lugar onde tiver indicado estar doente, ou que dêles se ausentar sem licença de um médico municipal ou privativo dos serviços, além da perda do direito aos abonos a que se refere êste artigo será dispensado do serviço.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+###### Artigo 661.º
+
+No assalariamento só é permitido o mero ajuste verbal para lugares que não pertençam aos quadros, e a remuneração será, nesses casos, obrigatòriamente referida a cada dia último de trabalho ou em relação a cada semana, considerando-se, nesta hipótese, como salário o quociente da divisão da retribuição acordada pelo número de dias úteis.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+###### Artigo 662.º
+
+Os assalariados que façam parte de quadros dos corpos administrativos têm direito a aposentação nos mesmos termos em que o tenham os dos quadros do Estado.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+###### Artigo 663.º
+
+Em tudo o mais não previsto nos artigos anteriores aplicar-se-á, com as devidas adaptações, o disposto nos artigos 655.º e 657.º deste Código e na legislação especial referida no artigo 1153.º do Código Civil.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 247/87 - Diário da República n.º 137/1987, Série I de 1987-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), em vigor a partir de 1987-06-18
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+## Título IV — Dos interinos
+
+###### Artigo 664.º
+
+Sempre que haja necessidade de assegurar o regular desempenho das funções de um cargo vago pertencente a qualquer quadro privativo dos governos civis, administrações de bairro ou corpos administrativos poderão as entidades competentes prover nêle interinamente indivíduo que reúna os requisitos indispensáveis para o seu exercício.
+
+###### Artigo 665.º
+
+É também permitido o provimento interino de cargos pertencentes ao quadro geral administrativo dos serviços externos e aos quadros privativos quando se verifique alguma das hipóteses seguintes:
+
+a) Estarem os titulares dos cargos requisitados por outros serviços em comissão extraordinária de serviço público com remuneração própria;
+
+b) Estarem os titulares dos cargos a ser assistidos na tuberculose, de harmonia com a lei;
+
+c) Terem sido demitidos por decisão disciplinar de que penda recurso contencioso os funcionários que estavam providos nos cargos;
+
+d) Ter ficado deserto o concurso de provimento do cargo.
+
+§ 1.º Nas hipóteses das alíneas a) e b) a interinidade poderá durar o tempo do impedimento dos funcionários titulares; na hipótese da alínea c) cessará logo que a decisão do recurso contencioso transite em julgado e na hipótese da alínea d) durará até ao provimento em novo concurso, que será aberto dentro do prazo de um ano a contar do que ficou deserto.
+
+§ 2.º O provimento interino de cargos do quadro geral, salvo o disposto no § 3.º, pertence sempre ao Ministro do Interior, sob proposta dos corpos administrativos interessados, se o cargo lhes respeitar, e recairá de preferência em candidatos aprovados no concurso de habilitação para a categoria e classe do lugar a prover. O Ministro do Interior poderá converter em definitivo o provimento interino de licenciados em Direito, findos cinco anos de bom e efectivo serviço, desde que hajam sido nomeados com observância das condições prescritas no corpo do artigo 460.º
+
+§ 3.º Revogado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 536-A/75 - Diário do Governo n.º 223/1975, 3º Suplemento, Série I de 1975-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-a-1975-240641)
+
+> Alterado pelo/a Artigo 485.º do/a [Decreto-Lei n.º 163/72 - Diário do Governo n.º 114/1972, Série I de 1972-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1972-681212)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 666.º
+
+O interino pode ser demitido a todo o tempo, e pelo exercício do cargo não adquire quaisquer direitos, salvo à percepção dos correspondentes vencimentos. Incumbem-lhe porém, emquanto prestar serviço, todos os deveres, gerais e especiais, inerentes à função que desempenhe.
+
+###### Artigo 667.º
+
+Os provimentos de carácter interino só podem ter duração superior a um ano nos casos previstos no artigo 665.º
+
+## Parte III — Das finanças locais
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+## Título I — Disposições gerais
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+### Capítulo I — Da autonomia financeira dos corpos administrativos
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 668.º
+
+O concelho, a freguesia e o distrito gozam de autonomia financeira, sem prejuízo da fiscalização e tutela do Estado.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 669.º
+
+A gerência financeira dos corpos administrativos é regulada por anos económicos, correspondentes aos anos civis.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 670.º
+
+O Govêrno, por intermédio da Inspecção Geral de Finanças, inspecciona e fiscaliza todos os serviços de contabilidade, orçamento e tesouraria dos corpos administrativos.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+### Capítulo II — Da receita e despesa e sua classificação
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 671.º
+
+A receita dos corpos administrativos é ordinária e extraordinária.
+
+§ 1.º Constituem receita ordinária:
+
+1.º Os adicionais às contribuïções e impostos gerais do Estado;
+
+2.º Os impostos especiais e os juros de mora;
+
+3.º Os rendimentos dos bens próprios, mobiliários e imobiliários;
+
+4.º As taxas e rendimentos dos serviços;
+
+5.º O produto das multas por transgressão de posturas e regulamentos e de quaisquer outras aplicadas nos termos do presente Código e a que a lei não dê destino especial;
+
+6.º O produto da cobrança de créditos vincendos no ano económico;
+
+7.º A importância das compensações de receitas, a receber do Estado;
+
+8.º Os subsídios permanentes, as participações de lucros, os resultados positivos da exploração de serviços municipalizados e o rendimento das concessões.
+
+§ 2.º Constituem receita extraordinária:
+
+1.º As heranças, legados, doações, donativos e subsídios eventuais;
+
+2.º O produto de empréstimos;
+
+3.º O produto da alienação de bens;
+
+4.º Os subsídios eventuais do Estado ou de outros corpos administrativos;
+
+5.º O reembôlso de capitais;
+
+6.º Outros quaisquer rendimentos que por sua natureza não devam normalmente repetir-se em anos económicos sucessivos.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 672.º
+
+Os corpos administrativos só podem contrair empréstimos para amortização extraordinária de outros empréstimos, aquisição de imóveis absolutamente indispensáveis aos serviços e realização de obras e melhoramentos de utilidade pública, prèviamente estudados e projectados, que não seja possível custear pelas receitas ordinárias.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 673.º
+
+Os empréstimos dos corpos administrativos, quando não contraídos na Caixa Geral de Depósitos, Crédito e Previdência, sê-lo-ão por forma que o encargo efectivo deles resultante não exceda o que proviria da taxa de juro exigida por aquele estabelecimento.
+
+§ 1.º É permitido aos corpos administrativos caucionar o pagamento dos encargos respeitantes a empréstimos mediante quaisquer garantias especiais, incluindo, quando se trate de empréstimos contraídos na Caixa Geral de Depósitos, Crédito e Previdência, a consignação da receita proveniente dos adicionais às contribuições directas do Estado.
+
+§ 2.º A garantia a que se refere a parte final do parágrafo anterior só pode ser prestada com autorização do Ministro das Finanças.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 614/71 - Diário do Governo n.º 304/1971, Série I de 1971-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1971-165979), em vigor a partir de 1972-01-01
+
+### Capítulo III — Do orçamento
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 674.º
+
+Os encargos da dívida de um corpo administrativo não poderão exceder a quinta parte da receita ordinária arrecadada no ano económico anterior àquele em que se efectue o empréstimo.
+
+§ único. Exceptuam-se os empréstimos para serviços municipalizados ou susceptíveis de municipalização, que poderão ser autorizados sempre que os encargos deles resultantes tenham compensação suficiente no rendimento dos mesmos serviços, e os empréstimos destinados à aquisição de terrenos para urbanização, desde que os respectivos encargos fiquem garantidos pelo produto da alienação dos terrenos sobrantes.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+###### Artigo 675.º
+
+As despesas dos corpos administrativos são:
+
+1.º Ordinárias ou extraordinárias;
+
+2.º Obrigatórias ou facultativas.
+
+§ 1.º São despesas ordinárias todas as de carácter permanente e normal, incluindo os encargos da dívida; são despesas extraordinárias as que hajam de fazer-se com grandes melhoramentos públicos, reparação de prejuízos excepcionais ou para ocorrer a encargos transitórios.
+
+§ 2.º São obrigatórias as despesas que resultem do pagamento dos vencimentos aos funcionários e assalariados dos quadros, ou da satisfação de encargos regularmente contraídos, e as demais cuja realização a lei imponha; são facultativas todas as outras.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 676.º
+
+As despesas orçamentadas para pessoal não podem exceder 50 por cento da receita ordinária efectivamente arrecadada no ano anterior.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 417/74 - Diário do Governo n.º 209/1974, Série I de 1974-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1974-474742), em vigor a partir de 1974-09-12
+
+###### Artigo 677.º
+
+A previsão e cômputo das receitas e despesas de cada ano económico constará do orçamento ordinário aprovado pelo corpo administrativo até 31 de Dezembro do ano anterior.
+
+§ 1.º Nos orçamentos dos corpos administrativos classificar-se-ão as receitas e despesas em ordinárias e extraordinárias.
+
+§ 2.º Todas as receitas e despesas serão inscritas pela sua importância total, sem dedução de quaisquer despesas ou receitas a que dêem lugar, inscrevendo-se estas, também pela totalidade, no lugar competente.
+
+§ 3.º Existindo serviços autónomos, figurarão no orçamento ordinário as suas receitas e despesas globais, como simples contas de ordem, anexando-se-lhe, porém, os orçamentos próprios dos serviços. Os lucros líquidos que pertençam ao corpo administrativo são levados à receita própria dêste, bem como os encargos de empréstimos por que seja responsável, e, à despesa, os subsídios necessários para preencher os resultados negativos da exploração, se os houver.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 678.º
+
+Na organização do orçamento ordinário observar-se-ão as seguintes regras:
+
+1.ª Só poderão ser dotadas despesas facultativas depois de dotadas as despesas obrigatórias; os encargos resultantes de disposição de execução permanente respeitantes a serviços já organizados têm preferência sôbre quaisquer novas despesas com os mesmos serviços ou com outros que se pretenda criar;
+
+2.ª Não é permitida a inclusão de verbas para despesas imprevistas ou eventuais, ou outras que não sejam suficientemente individualizadas;
+
+3.ª As dívidas passivas que tenham transitado do ano anterior serão orçamentadas em verba global e descritas em rol anexo pela importância de cada uma delas, nome do credor, natureza da dívida, data da liquidação e declaração dos motivos por que não foram pagas no ano a que se refiram;
+
+4.ª As obras e melhoramentos públicos dotados serão especificados, juntando-se ao orçamento a estimativa;
+
+5.ª As despesas obrigatórias não efectuadas no ano em que tiverem sido autorizadas serão inscritas no orçamento ordinário do ano seguinte juntamente com as respeitantes a êste, se fôr caso disso;
+
+6.ª Figurando no orçamento das receitas o produto de impostos indirectos, será obrigatória a junção, em anexo, da pauta dos mesmos impostos;
+
+7.ª As dividas activas não consideradas incobráveis, com excepção das resultantes de impostos, taxas ou licenças, serão descritas de modo que, em relação a cada uma delas, se conheça o responsável e a origem, importância e natureza da dívida;
+
+8.ª Os legados, donativos e quaisquer subsídios eventuais, cuja arrecadação não seja certa, serão inscritos em orçamento suplementar, ou no primeiro orçamento ordinário, elaborados depois de recebidos;
+
+9.ª As receitas que por lei, decreto ou contrato tenham aplicação a certas e determinadas despesas não podem ser desviadas para outros fins;
+
+10.ª Sòmente serão inscritas nas receitas extraordinárias as importâncias dos empréstimos já concedidos cujo levantamento se considere provável no decurso do ano económico, de harmonia com o plano da sua aplicação;
+
+11.ª Os impostos ou taxas só podem ser incluídos no orçamento depois de criados por deliberação dos corpos administrativos, no exercício de faculdades conferidas por lei, salvo nos casos em que a lei ordene a cobrança independentemente dessa deliberação.
+
+§ 1.º Não se consideram incluídos na regra 8.ª dêste artigo os subsídios a receber do Estado para obras determinadas, os quais porém só podem ser inscritos quando no orçamento da despesa se incluam as importâncias que com os referidos melhoramentos devam ser despendidas. A inscrição orçamental será feita em verbas separadas para cada subsídio e obra, não podendo utilizar-se as dotações correspondentes senão à medida que os subsídios sejam concedidos.
+
+§ 2.º Quando um corpo administrativo se recuse a inscrever no orçamento, ou a satisfazer, uma despesa obrigatória, será o facto participado à Direcção Geral de Administração Política e Civil para que promova o cumprimento da lei, sob pena de dissolução do mesmo corpo administrativo.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 679.º
+
+Para o efeito da sua inscrição no orçamento, a importância das receitas será calculada pela forma seguinte:
+
+1.º As receitas certas, pelo seu quantitativo;
+
+2.º As receitas variáveis, pela média da cobrança dos últimos três anos;
+
+3.º As receitas cuja variação tenha carácter regular, pela importância da receita efectiva do último ano, corrigida por um coeficiente de aumento ou deminuïção, calculado em face da cobrança dêsse ano e dos dois anteriores.
+
+§ único. Em anexo ao orçamento figurarão os cálculos das médias e a justificação dos coeficientes de correcção utilizados para o cômputo das receitas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 680.º
+
+Os corpos administrativos podem elaborar, no decurso do ano económico, orçamentos suplementares destinados a ocorrer a despesas imprevistas ou insuficientemente dotadas no orçamento ordinário.
+
+§ 1.º Salvo quando se trate de despesas a custear por meio de empréstimos ou de despesas urgentes e imprevistas impostas por lei ou em casos de sinistro ou de calamidade pública, não podem ser aprovados mais de dois orçamentos suplementares em cada ano económico.
+
+§ 2.º Os orçamentos suplementares não têm carácter de previsão, devendo as despesas nêles inscritas ser custeadas exclusivamente por fôrça de receitas certas.
+
+§ 3.º Nos orçamentos suplementares só podem servir de contrapartida, em receita, às novas verbas de despesa:
+
+1.º O produto de empréstimos;
+
+2.º O produto das receitas expressamente criadas para aumentar o rendimento municipal ou para fins determinados;
+
+3.º As sobras de verbas destinadas a outras despesas que se não realizem ou para as quais se reconheça excessiva a dotação orçamental;
+
+4.º As comparticipações do Estado, mas apenas quanto à parte da despesa com a obra ou melhoramento que fôr orçada por conta da comparticipação;
+
+5.º O saldo em dinheiro apurado na conta de gerência anterior.
+
+§ 4.º As receitas a que se referem os n.os 2.º e 3.º do parágrafo anterior, quando se verifique que a cobrança das receitas, excluídas as provenientes de reembolsos e reposições, das consignadas e das extraordinárias, não atinge a importância da sua previsão no orçamento ordinário, não podem servir de base à elaboração de orçamentos suplementares na parte necessária para cobrir as diferenças previstas até ao fim do ano económico.
+
+§ 5.º O saldo em dinheiro apurado na gerência anterior não pode ser utilizado para ocorrer a outras despesas emquanto não estiverem previstas as verbas necessárias para pagamento dos encargos, assumidos, vencidos e não pagos em conta do ano anterior.
+
+§ 6.º As despesas a fazer pelas verbas do capítulo «Pagamentos a diversas entidades por consignação de receitas» consideram-se autorizadas, independentemente de orçamento suplementar, até à concorrência das importâncias cobradas pelas correspondentes verbas do capítulo «Consignação de receitas» do orçamento ordinário das receitas.
+
+§ 7.º De igual modo, podem ser autorizadas, independentemente de inscrição em orçamento suplementar, as despesas do reembôlso das importâncias pagas por títulos de anulação nas tesourarias da Fazenda Pública e resultantes do pagamento da percentagem devida ao Estado pelo lançamento e cobrança de receitas das autarquias locais feita pelas secções de finanças, bem como do adicional para o Fundo de cadastro, sempre que a previsão orçamental da despesa seja excedida em virtude de se cobrarem receitas superiores às previstas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 681.º
+
+As verbas dos orçamentos suplementares devem ser descritas com a mesma arrumação e numeração por capítulos, artigos e classes a que no orçamento ordinário obedecerem as verbas da mesma natureza.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 682.º
+
+Os orçamentos, quer ordinários, quer suplementares, serão organizados de forma que as despesas não excedam as receitas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 683.º
+
+Quando, por qualquer motivo, o orçamento ordinário não tiver sido aprovado até ao comêço do ano em que tem de reger, continuarão em vigor os orçamentos do ano anterior, mas sòmente quanto à receita ordinária e quanto às despesas obrigatórias imprescindíveis ao regular funcionamento dos serviços.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 684.º
+
+Os orçamentos, antes de definitivamente aprovados pelos corpos administrativos, estarão expostos ao público durante oito dias, anunciando-se o início dêste tempo mediante editais afixados nos lugares do estilo.
+
+§ único. Qualquer eleitor ou contribuinte da circunscrição, ou mero interessado, poderá expor ao corpo administrativo o que tiver por conveniente acêrca dos projectos orçamentais.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+### Capítulo IV — Da liquidação e cobrança das receitas
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+###### Artigo 685.º
+
+A liquidação e cobrança dos impostos directos que não sejam constituídos por adicionais a impostos do Estado e em geral a dos rendimentos em relação aos quais seja adoptado o sistema de lançamento será regida, na parte aplicável, pelas regras estabelecidas para os rendimentos do Tesouro.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+###### Artigo 686.º
+
+O lançamento e cobrança dos adicionais sôbre as contribuïções e impostos do Estado serão feitos juntamente com os dêstes, pelas competentes secções de finanças e tesourarias da Fazenda Pública, ficando a entrega do produto aos corpos administrativos sujeita às deduções legais.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 687.º
+
+A todas as dívidas aos corpos administrativos, por impostos ou quaisquer rendimentos, quando pagas depois do prazo da sua cobrança à bôca do cofre ou do seu vencimento, será adicionada a importância dos juros de mora estabelecida segundo as taxas em vigor para as contribuïções do Estado, sempre liquidada por meses, qualquer que seja a quantia.
+
+§ 1.º Sôbre os juros de mora não recaem quaisquer adicionais nem imposto do sêlo.
+
+§ 2.º Quando a importância liquidada não fôr múltipla de dezena de centavos será arredondada por excesso para a dezena imediatamente superior, não podendo contudo cobrar-se menos de $50.
+
+§ 3.º Os juros de mora prescrevem pelo lapso de cinco anos.
+
+§ 4.º Quando no mesmo documento de cobrança estejam englobadas receitas do Estado e dos corpos administrativos os juros de mora serão liquidados sôbre o total e, no fim de cada mês, divididos proporcionalmente, arredondando-se a parte do Estado para a dezena de centavos imediatamente superior.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 688.º
+
+Os corpos administrativos não podem prorrogar os prazos para o pagamento voluntário dos seus impostos ou taxas nem para a remessa ao tribunal das certidões de relaxe ou documentos exeqüíveis.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 689.º
+
+Os créditos por impostos, taxas e multas devidos aos corpos administrativos gozam dos privilégios e garantias reais e pessoais que a lei concede à Fazenda Nacional, mas sem prejuízo desta.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a [Decreto-Lei n.º 41656 - Diário do Governo n.º 116/1958, Série I de 1958-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41656-1958-353692)
+
+###### Artigo 690.º
+
+Às dívidas dos corpos administrativos por impostos, contribuïções e mais rendimentos que não sejam cobrados cumulativamente com os do Estado aplicam-se as disposições estabelecidas para a cobrança coerciva das contribuïções e impostos devidos a êste.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 691.º
+
+Quando as dívidas não disserem respeito a impostos, contribuïções ou outros rendimentos que tenham sido liquidados virtualmente, serão debitadas aos tesoureiros para efeitos do procedimento executivo.
+
+§ único. Nos rendimentos a que êste artigo se refere incluem-se as dívidas provenientes de fornecimentos dos serviços municipalizados a consumidores que não tenham caução.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 692.º
+
+Nas execuções por dívidas aos corpos administrativos servirão de juízes os chefes de secretarias das câmaras municipais da respectiva circunscrição administrativa ou do concelho da capital do distrito se se tratar de rendimentos distritais.
+
+§ 1.º Em cada concelho haverá escrivãis e oficiais de diligências das execuções fiscais, propostos pelo chefe da secretaria e nomeados por alvará do presidente da câmara, por quem poderão ser também exonerados e demitidos depois de ouvidos por escrito.
+
+§ 2.º Em casos devidamente justificados, pode o Ministro do Interior autorizar que os funcionários administrativos acumulem as funções dos seus cargos com as referidas no parágrafo anterior.
+
+§ 3.º Aos escrivães e oficiais de diligências que no final de cada trimestre se apure terem recebido de emolumentos importância total inferior a 900$00 e 450$00, respectivamente, ou, no caso de os lugares serem exercidos em regime de acumulação, 650$00 e 350$00, respectivamente, abonará a câmara as quantias necessárias para perfazer esses mínimos trimestrais.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41060 - Diário do Governo n.º 81/1957, Série I de 1957-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41060-1957-651556)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 35466 - Diário do Governo n.º 17/1946, Série I de 1946-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35466-1946-309962)
+
+###### Artigo 693.º
+
+Das decisões proferidas pelo chefe da secretaria cabe recurso para o juiz de direito e da decisão dêste para o respectivo Tribunal da Relação; das decisões proferidas em 1.ª instância pelo juiz de direito cabe recurso para o Tribunal da Relação e da decisão dêste para o Supremo Tribunal de Justiça.
+
+§ único. Exceptuam-se do disposto neste artigo as Câmaras de Lisboa e Pôrto, cujas dívidas por impostos, contribuïções e mais rendimentos serão cobradas coercivamente pelos competentes tribunais dos distritos fiscais, nos termos da legislação em vigor, continuando os recursos a ser interpostos para os tribunais do contencioso das contribuïções e impostos.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 694.º
+
+As certidões e relações de relaxe serão entregues pelo tesoureiro do corpo administrativo ao chefe da secretaria, dentro dos prazos estabelecidos para as dividas ao Estado.
+
+§ 1.º As custas e percentagens serão contadas de harmonia com as disposições vigentes para as dívidas por contribuïções e impostos do Estado.
+
+§ 2.º Nos concelhos fora de Lisboa e Pôrto pertencerão ao chefe da secretaria 50 por cento da importância das taxas e percentagens que lhe forem liquidadas como juiz, revertendo o restante para o respectivo corpo administrativo.
+
+§ 3.º O emolumento de §50 referido na alínea b) do artigo 26.º do decreto n.º 7:027-A, de 15 de Outubro de 1920, e o de 20 por cento a que se refere o decreto n.º 10:716, de 27 de Abril de 1925, pertencem integralmente ao corpo administrativo.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 695.º
+
+Aos processos executivos, na parte não especialmente regulada por êste Código, serão aplicadas as normas por que se regem as execuções fiscais do Estado, ficando igualmente os respectivos funcionários sujeitos às sanções previstas nas mesmas normas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+### Capítulo V — Do pagamento das despesas
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 698.º
+
+Até 15 de Janeiro de cada ano poderão ser pagas, por conta do ano económico anterior, as despesas autorizadas à data de 31 de Dezembro.
+
+§ 1.º As importâncias das receitas por cobrar em relação a 31 de Dezembro transitarão para o novo ano económico e as cobranças serão inscritas em conta das respectivas verbas do novo orçamento.
+
+§ 2.º As autorizações de despesa que não forem pagas até 15 de Janeiro considerar-se-ão caducas nesta data.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 696.º
+
+Nenhuma despesa poderá ser paga sem autorização da autoridade competente. Só pode ser autorizado o pagamento de despesas dotadas no orçamento, e até ao limite da respectiva dotação, sem prejuízo do disposto nos §§ 6.º e 7.º do artigo 680.º
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 697.º
+
+As autorizações de pagamento serão assinadas pelo presidente do corpo administrativo e subscritas pelo chefe da secretaria, indicarão o capítulo, artigo e alínea do orçamento em que estiverem dotadas as despesas, e mencionarão a data das deliberações que autorizaram o pagamento.
+
+§ 1.º Nos concelhos de Lisboa e Pôrto não é obrigatória a menção das datas das deliberações, e as autorizações serão subscritas pelo director dos serviços de finanças, que visará os recibos a que elas derem lugar, exceptuadas as fôlhas de vencimentos, salários e pensões, que serão visadas pelos chefes das repartições ou dos serviços.
+
+§ 2.º Os funcionários que subscreverem ordens processadas com infracção do preceituado neste artigo e os tesoureiros que as pagarem serão solidàriamente responsáveis pelas importâncias pagas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 699.º
+
+§ 1.º Serão obrigatoriamente depositados na mesma Caixa todos os fundos que não tenham imediata aplicação.
+
+§ 2.º As importâncias dos depósitos de garantia dos consumidores dos serviços municipalizados ou susceptíveis de municipalização poderão ser utilizadas como fundo de maneio, devendo os materiais em armazém e as disponibilidades de caixa cobrir sempre o seu montante global, com o limite mínimo para estas últimas de 10 por cento desse montante.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+### Capítulo VI — Da contabilidade e contas de gerência
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 700.º
+
+As contas serão prestadas por anos económicos.
+
+§ 1.º Se houver durante o ano substituïções das gerências administrativas responsáveis, organizar-se-ão contas relativas ao tempo decorrido até à substituïção, sem prejuízo da conta anual. O encerramento das contas será naquela hipótese referido à data em que se efectuar a substituïção.
+
+§ 2.º A substituïção parcial das gerências, quando se presumirem ou apurarem irregularidades, dará sempre lugar a prestação de contas.
+
+§ 3.º As contas dos corpos administrativos são constituídas pelas dos tesoureiros, salvo sempre o direito das gerências responsáveis a rejeitá-las e o dos vogais substituídos, nas hipóteses dos parágrafos anteriores, a formular o seu protesto em exposição fundamentada que acompanhará as contas a julgamento.
+
+§ 4.º Na organização das contas deverão observar-se as instruções aprovadas pelo Tribunal de Contas, sendo remetidas à Direcção Geral do mesmo Tribunal ou à entidade que as haja de julgar até 30 de Abril do ano seguinte àquele a que respeitam.
+
+§ 5.º Nos casos previstos nos §§ 1.º e 2.º, as respectivas contas serão enviadas ao Tribunal, ou à entidade julgadora, com a conta anual.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 701.º
+
+Os serviços de contabilidade e os de lançamento, e cobrança dos rendimentos dos corpos administrativos executar-se-ão segundo normas regulamentares que o Govêrno decretará pelos Ministérios do Interior e das Finanças.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 702.º
+
+O Ministério Público intentará as acções necessárias para fazer entrar nos cofres do concelho, da freguesia ou da província as quantias pelas quais os vogais dos corpos administrativos tenham sido julgados responsáveis.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+## Título II — Das finanças municipais
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+### Capítulo I — Das receitas
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+#### Secção I — Impostos
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+##### Subsecção I — Impostos directos
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 703.º
+
+Os impostos municipais são directos e indirectos.
+
+§ único. Não é permitido às câmaras criar impostos diferentes dos previstos neste Código.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 704.º
+
+São impostos directos:
+
+1.º Os adicionais às contribuições e impostos do Estado;
+
+2.º O imposto de prestação de trabalho;
+
+3.º O imposto para o serviço de incêndios;
+
+4.º O imposto sobre espectáculos;
+
+5.º O imposto de comércio e indústria;
+
+6.º O imposto de turismo.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+###### Artigo 705.º
+
+As câmaras municipais poderão lançar uma percentagem adicional sobre as colectas da contribuição predial, do imposto sobre a indústria agrícola, da contribuição industrial e do imposto de capitais liquidadas para o Estado nos respectivos concelhos, a qual não poderá ser superior a:
+
+35 por cento da contribuição predial rústica;
+
+17 por cento da contribuição predial urbana;
+
+14 por cento do imposto sobre a indústria agrícola;
+
+14 por cento da contribuição industrial;
+
+10 por cento do imposto de capitais.
+
+§ único. A fixação das percentagens adicionais será feita de modo que possa ser comunicada ao director de finanças até ao dia 30 de Setembro, entendendo-se, na falta de comunicação, que se mantêm as percentagens fixadas anteriormente.
+
+> Nota: [Decreto-Lei n.º 39911 - Diário do Governo n.º 259/1954, Série I de 1954-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39911-1954-681775) Revogado o art. 705º, na parte em que se refere ao adicional que as câmaras municipais podiam lançar sobre o imposto de trânsito.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45241 - Diário do Governo n.º 216/1963, Série I de 1963-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45241-1963-686271)
+
+###### Artigo 706.º
+
+Os adicionais às colectas da contribuição industrial dos grupos A e B e do imposto sobre a indústria agrícola liquidados aos contribuintes com instalações em mais do que um concelho serão repartidos pelas câmaras municipais que o requererem, na proporção dos rendimentos atribuíveis à actividade exercida em cada um dos respectivos concelhos, sempre que a importância dessa actividade o justifique.
+
+§ 1.º As câmaras municipais que desejarem receber os adicionais à contribuição industrial e ao imposto sobre a indústria agrícola liquidados noutro concelho ou que pretenderem a alteração da percentagem que lhes estiver atribuída farão o pedido, durante o mês de Maio, à Direcção-Geral de Administração Política e Civil do Ministério do Interior, instruindo-o com cópias das declarações que lhes tenham sido apresentadas pelo contribuinte para efeito da distribuição do imposto de comércio ou indústria, devidamente informadas, e cópia da deliberação em que foi resolvido formulá-lo.
+
+§ 2.º No pedido indicar-se-á a denominação da entidade a que respeita, o local da sua sede, o ramo de comércio ou indústria que exerce no concelho e a natureza da instalação ou instalações que nele possui, bem como o número de empregados ou operários que asseguram o respectivo funcionamento, a colecta do Estado liquidada no ano anterior e quaisquer outros elementos que auxiliem a fixar o critério de repartição.
+
+§ 3.º As percentagens de distribuição dos rendimentos pelos vários concelhos serão fixadas por uma comissão constituída pelo director-geral de Administração Política e Civil, ou seu delegado, um representante do director-geral das Contribuições e Impostos e um funcionário administrativo, designado pelo director-geral de Administração Política e Civil, podendo assistir às suas reuniões, com voto consultivo, representante de cada uma das câmaras municipais interessadas, que, para o efeito, serão oportunamente notificadas na pessoa do seu presidente.
+
+§ 4.º Para o exercício da sua competência, poderá a comissão exigir das empresas quaisquer elementos e solicitar dos serviços do Ministério das Finanças informações ou exames que julgue convenientes.
+
+A falta de remessa dos elementos, pelas empresas, dentro do prazo que lhes for indicado, não inferior a quinze dias, será punida com multa, que constituirá receita do Estado, de importância correspondente a 10 por cento da verba principal da última colecta da contribuição industrial, definitivamente liquidada, ou do imposto sobre a indústria agrícola, com o mínimo de 500$00 e o máximo de 50000$00. Da infracção será feita participação, instruída com os necessários elementos de provas, ao chefe da repartição de finanças do concelho ou bairro da sede da empresa, para efeito de instauração do respectivo processo de transgressão fiscal.
+
+§ 5.º A comissão indicará às direcções de finanças competentes, até 31 de Dezembro de cada ano, as percentagens a utilizar na repartição dos adicionais do ano seguinte, em relação a cada empresa, entendendo-se, na falta de comunicação, que continuam em vigor as últimas que houverem sido indicadas.
+
+§ 6.º O disposto no corpo deste artigo não se aplica relativamente aos adicionais à contribuição industrial devida pelas empresas de transportes colectivos e de aluguer.
+
+> Nota: [Decreto-Lei n.º 39911 - Diário do Governo n.º 259/1954, Série I de 1954-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39911-1954-681775) Revogado o adicional de 30% fixado no art. 706º.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45241 - Diário do Governo n.º 216/1963, Série I de 1963-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45241-1963-686271)
+
+###### Artigo 707.º
+
+O imposto de prestação de trabalho, que poderá ser cobrado em dinheiro, corresponde ao serviço das pessoas, animais e veículos do concelho em um dia de cada ano.
+
+§ 1.º São obrigados ao pagamento do imposto de prestação de trabalho todos os chefes de família residentes ou proprietários na circunscrição municipal:
+
+1.º Por si e por cada uma das pessoas da sua família ou domésticos, de vinte e um a cinqüenta anos de idade, quando tenham residência habitual na área do concelho e sejam varões válidos;
+
+2.º Pelos carros, carrêtas, animais de carga, de tiro ou de sela que empregarem habitualmente na circunscrição.
+
+§ 2.º Ficam isentos do imposto:
+
+1.º Os chefes de família com mais de cinco filhos legítimos a seu cargo, quando paguem anualmente ao Estado menos de 300$00 de contribuïções directas;
+
+2.º Os indigentes;
+
+3.º Os magistrados administrativos e os regedores das freguesias.
+
+§ 3.º Ficam igualmente isentos, salvo sendo proprietários na circunscrição:
+
+1.º Os magistrados judiciais e do Ministério Público;
+
+2.º Os oficiais, sargentos e praças do exército e da armada, da guarda nacional republicana, da polícia de segurança pública e da guarda fiscal, emquanto no activo ou na situação de reserva, mas em serviço;
+
+3.º As autoridades policiais;
+
+4.º Os funcionários dos correios, telégrafos e telefones;
+
+5.º Os funcionários dos serviços aduaneiros e das contribuïções e impostos;
+
+6.º Os professores primários;
+
+7.º Os faroleiros.
+
+§ 4.º A tarifa da remição do imposto de prestação de trabalho será elaborada anualmente e junta ao orçamento ordinário do concelho, devendo ser consentido aos desempregados o pagamento por prestação de serviço.
+
+§ 5.º O mapa do lançamento do imposto estará patente, durante oito dias, na respectiva secretaria, para os contribuintes o poderem examinar, o que se anunciará por editais.
+
+§ 6.º Nos concelhos de Lisboa e do Pôrto não é permitido o lançamento dêste imposto.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 708.º
+
+O imposto para o serviço de incêndios destina-se a manter o serviço de prevenção e extinção de incêndios existente no concelho e, especialmente, à aquisição de material.
+
+§ 1.º As câmaras municipais que mantenham ou subsidiem serviço de incêndios poderão colectar os prédios urbanos que não beneficiem de isenção definitiva de contribuição predial e os estabelecimentos comerciais ou industriais do concelho, quando uns e outros não estejam seguros pelo seu valor em sociedades legalmente autorizadas.
+
+§ 2.º A taxa do imposto sobre prédios urbanos é de 0,5 por 1000 sobre o valor da matriz predial, ou sobre a diferença entre este e o valor seguro, quando tal diferença seja superior a 15 por cento do valor da matriz.
+
+§ 3.º Em relação aos prédios urbanos temporàriamente isentos de contribuição predial, o imposto será calculado sobre o valor matricial obtido com base no rendimento colectável que deveria ser considerado para liquidação da contribuição predial se não se verificasse a isenção.
+
+§ 4.º A taxa do imposto sobre os estabelecimentos comerciais ou industriais é igualmente de 0,5 por 1000, mas recairá sobre o valor normal determinado pela multiplicação pelo factor 10 da colecta da contribuição industrial ou da parte da mesma colecta que sirva de base à distribuição do imposto de comércio e indústria dos contribuintes colectados por outro concelho. Será também colectável a diferença entre o valor normal e o valor seguro sempre que seja superior a 15 por cento do primeiro.
+
+§ 5.º Nos seguros contra fogo, agrícolas e pecuários, a Inspecção-Geral de Crédito e Seguros cobrará, anualmente, de 1 a 31 de Maio, das sociedades de seguros autorizadas, as percentagens de 6, nos seguros contra fogo, e de 2, nos seguros agrícolas e pecuários, sobre os prémios processados no ano imediatamente anterior, líquidos de estornos e anulações.
+
+§ 6.º A Inspecção-Geral de Crédito e Seguros fornecerá ao Conselho Nacional dos Serviços de Incêndios, até 30 de Junho de cada ano, nota discriminada das importâncias cobradas relativamente a cada concelho.
+
+§ 7.º O Conselho Nacional dos Serviços de Incêndios, tendo em atenção a receita obtida em cada concelho e os respectivos encargos com o serviço de prevenção e extinção de incêndios, elaborará e sujeitará à aprovação dos Ministros do Interior e das Finanças a proposta de distribuição da colecta pelos vários concelhos.
+
+§ 8.º As Câmaras Municipais de Lisboa e do Porto nunca receberão menos de 25 e 12,5 por cento do total, respectivamente.
+
+§ 9.º As câmaras que não mantenham nem subsidiem serviço de incêndios poderão ser abrangidas na distribuição da colecta desde que tomem o compromisso, perante o Ministério do Interior, de vir a manter ou subsidiar tal serviço no prazo máximo de três anos.
+
+§ 10.º Quando não for cumprido o compromisso a que se refere o parágrafo anterior, a câmara dará entrada nos cofres do Estado com as importâncias que lhe tenham sido atribuídas, as quais acrescerão ao produto da colecta a distribuir no ano respectivo.
+
+§ 11.º São aplicáveis ao imposto para o serviço de incêndios directamente cobrado pelas câmaras as disposições do § 5.º do artigo anterior.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 614/71 - Diário do Governo n.º 304/1971, Série I de 1971-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1971-165979), em vigor a partir de 1972-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35746 - Diário do Governo n.º 154/1946, Série I de 1946-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35746-1946-155655)
+
+###### Artigo 709.º
+
+O imposto municipal sobre espectáculos é devido pelas actividades passíveis de imposto, para o Estado, sobre espectáculos e divertimentos públicos, não podendo exceder 10 por cento da colecta do imposto liquidado ou liquidável para o Estado, ou 35 por cento nos concelhos de Lisboa e Porto.
+
+§ 1.º Sobre o imposto de espectáculos incidirá o adicional de 8 por cento para o Estado, não sendo devido selo de conhecimento.
+
+§ 2.º Aplicam-se a este imposto as disposições que regulam a liquidação e cobrança do correspondente imposto do Estado.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+###### Artigo 710.º
+
+O imposto de comércio e indústria é devido pelo exercício, na circunscrição municipal, de qualquer actividade passível de contribuição industrial, ou imposto de natureza especial que a substitua.
+
+§ único. As empresas isentas do pagamento de contribuição industrial, mas não do pagamento do imposto municipal, pagarão imposto de comércio e indústria sobre a colecta que lhes seria liquidada, segundo a lei, se não estivessem isentas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+###### Artigo 711.º
+
+A taxa do imposto de comércio e indústria não poderá exceder 10 por cento da colecta do imposto liquidado ou liquidável para o Estado no ano anterior, ou 45 por cento em Lisboa e Porto.
+
+§ 1.º Será aplicável o limite fixado para os concelhos de Lisboa e Porto aos concelhos cujas câmaras não cobrem ou deliberem suprimir a cobrança de impostos indirectos a que se refere o artigo 714.º deste Código, salvo os que incidam sobre géneros ou artigos cuja tributação esteja regulada por legislação especial.
+
+§ 2.º O imposto de comércio e indústria devido pelas empresas que cessem totalmente a sua actividade será calculado com base nas colectas da contribuição industrial liquidadas para o Estado no ano anterior e no próprio ano.
+
+§ 3.º Sobre o imposto de comércio e indústria incidirá um adicional, para o Estado, de 8 por cento, não sendo devido selo de conhecimento.
+
+§ 4.º As empresas que exerçam mais do que uma actividade passível de contribuição industrial e que beneficiem, em relação a qualquer delas, de isenção do imposto de comércio e indústria ou de taxa especial na liquidação deste imposto, deverão apresentar na secretaria da câmara, até 31 de Dezembro, declaração em que indiquem o rendimento total obtido no ano anterior e a respectiva discriminação pelas diferentes actividades exercidas, bem como cópias das declarações apresentadas nas repartições de finanças, para efeito de liquidação do imposto do Estado. O imposto será calculado com base na colecta da contribuição industrial e na declaração do contribuinte, corrigível esta com elementos fornecidos pela fiscalização, ou só nestes elementos, na falta de declaração.
+
+A falta da declaração será punida com multa de 500$00 a 5000$00.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37573 - Diário do Governo n.º 216/1949, Série I de 1949-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37573-1949-265736)
+
+> Alterado pelo/a [Decreto-Lei n.º 36022 - Diário do Governo n.º 282/1946, Série I de 1946-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36022-1946-148660)
+
+###### Artigo 712.º
+
+§ 1.º O imposto de comércio e indústria será repartido pelas câmaras municipais dos concelhos onde as empresas possuam sede, escritórios de administração, filiais, sucursais, delegações ou qualquer outra forma de representação própria permanente.
+
+As importâncias do imposto que pertencerem às demais câmaras serão contabilizadas em consignação de receitas. Mensalmente, proceder-se-á à entrega, mediante relação discriminativa da sua proveniência, das importâncias cobradas no mês anterior para cada município, constituindo encargo das referidas câmaras o prémio de transferência. Tratando-se de imposto cuja distribuição deva efectuar-se nos termos do § 4.º, será a totalidade do seu produto contabilizada em consignação de receitas e entregue nos oito dias seguintes àquele em que for recebida a comunicação da resolução da comissão.
+
+§ 2.º Os contribuintes deverão apresentar em cada um dos concelhos em que se situem as instalações, até 15 de Fevereiro e reportada ao ano anterior, declaração em que indiquem o ramo de comércio ou indústria, o rendimento total e a sua discriminação pelos diversos concelhos, o número de unidades de pessoal e o total de remunerações ao mesmo pagas em cada concelho, bem como cópias das declarações apresentadas nas repartições de finanças para efeito de liquidação da contribuição industrial.
+
+A falta de declaração será punida com multa de 500$00.
+
+§ 3.º Os directores dos Serviços de Finanças das Câmaras Municipais de Lisboa e Porto e os chefes de secretaria das demais câmaras determinarão, com base nos elementos constantes das declarações dos contribuintes e nos que lhes sejam fornecidos pela fiscalização, ou só nestes últimos, na falta de declaração, percentagem da colecta do imposto de comércio e indústria correspondente ao respectivo concelho e comunicá-la-ão, até 31 de Março, às direcções dos serviços de finanças ou secretarias das câmaras dos restantes concelhos interessados na repartição.
+
+§ 4.º Na falta de acordo entre os serviços mencionados no parágrafo anterior, pode qualquer dos respectivos dirigentes ou dos presidentes das câmaras municipais reclamar para a comissão a que se refere o § 3.º do artigo 706.º, que resolverá em definitivo.
+
+A multa aplicável, nos termos do § 4.º do artigo 706.º, às empresas total ou parcialmente isentas de contribuição industrial que não forneçam à comissão os elementos que lhes forem exigidos será estabelecida segundo o disposto no mesmo parágrafo, mas em função do imposto liquidável para o Estado que tenha servido de base à liquidação do imposto municipal objecto de reclamação.
+
+§ 5.º O disposto na parte final do corpo deste artigo e nos §§ 1.º, 3.º e 4.º não se aplica relativamente aos contribuintes cuja colecta para o Estado seja, na média dos últimos três anos, igual ou inferior 10000$00.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+###### Artigo 713.º
+
+O imposto de comércio e indústria será cobrado eventualmente durante o mês de Abril, ou nos meses de Abril e Outubro quando a câmara municipal delibere permitir o pagamento em duas prestações.
+
+§ 1.º A secretaria da câmara municipal expedirá avisos para pagamento voluntário do imposto até cinco dias antes da data do início do período da cobrança.
+
+§ 2.º No caso de cessação total de actividade anteriormente à liquidação, será o contribuinte notificado para pagar o imposto no prazo de quinze dias.
+
+Se a cessação se verificar posteriormente à liquidação, a segunda prestação será paga, se ainda o não tiver sido, no prazo fixado para pagamento do imposto liquidado adicionalmente.
+
+§ 3.º Findos os prazos a que se refere o corpo deste artigo, começarão a correr juros de mora, pelo período dos dois meses seguintes, após o que serão os conhecimentos debitados ao tesoureiro para relaxe imediato.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+##### Subsecção II — Impostos indirectos
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 714.º
+
+Os impostos indirectos consistem em determinadas taxas lançadas sôbre os gados, géneros e artigos vendidos no concelho para consumo e devem constar de uma pauta estabelecida pela câmara.
+
+§ 1.º Não é permitida a cobrança de impostos indirectos por motivo de entrada ou trânsito, no concelho, de gados, géneros ou quaisquer artigos produzidos noutros, nem pela saída dos de produção local. As vendas para revenda não podem também ser tributadas.
+
+§ 2.º Estão isentos de impostos indirectos municipais:
+
+1.º As matérias primas;
+
+2.º A energia motriz ou para iluminação;
+
+3.º Os cereais panificáveis, as farinhas e o pão;
+
+4.º Os géneros ou artigos destinados ao fornecimento dos estabelecimentos de assistência pública, ou a fins de assistência prestada por pessoas colectivas de utilidade pública administrativa;
+
+5.º As máquinas agrícolas ou destinadas à indústria;
+
+6.º Os automóveis e seus acessórios, a gasolina e os óleos minerais.
+
+7.º As águas mínero-medicinais.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 715.º
+
+As taxas dos impostos indirectos deverão ser fixadas em escudos ou centavos por unidade de conta, pêso ou medida, e não poderão exceder 10 por cento do preço dos géneros constante da estiva camarária, salvo quando se trate de artigos de luxo ou de produtos de beleza.
+
+§ 1.º Não poderá exceder 1 por cento do valor do género a taxa lançada sôbre sêmeas, massas alimentícias, hortaliças, legumes e frutas verdes.
+
+§ 2.º Não poderá exceder 3 por cento do valor do género a taxa lançada sôbre arroz, açúcar, azeite de 1 a 5 graus, azeitonas curtidas, banha, bacalhau, batatas, café, carnes verdes, fumadas e salgadas, carvão, lenha, petróleo, sabão, sal, sardinha, cavala e carapau e queijo de cabra ou de ovelha.
+
+§ 3.º A tributação do consumo de vinhos, carnes e leites continua regulada por legislação especial.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 716.º
+
+São nulas e de nenhum efeito as deliberações que transgredirem o disposto nos artigos anteriores ou que lançarem sôbre os géneros de fora do concelho algum imposto ou taxa que não seja lançado sôbre os géneros do concelho, sendo responsáveis perante os contribuintes pelas receitas cobradas os que houverem tomado a deliberação.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 717.º
+
+Sôbre os impostos indirectos não recai qualquer adicional.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 718.º
+
+A cobrança dos impostos indirectos pode ser avulsa ou feita por manifesto ou por avença se o contribuinte assim o requerer.
+
+§ único. É proïbida a cobrança por arrematação e a cobrança em barreiras ou postos permanentes nas estradas nacionais ou municipais.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 719.º
+
+As disposições desta sub-secção não se aplicam ao concelho do Pôrto até à remodelação do seu sistema de impostos.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 720.º
+
+É permitido às câmaras municipais o lançamento de um imposto até 3 por cento ad valorem sôbre o peixe pescado ou vendido nos respectivos concelhos.
+
+§ único. O imposto de pescado poderá ser cobrado, a solicitação da câmara, conjuntamente com o lançado pelo Estado, ficando nesse caso a sua entrega sujeita às deduções estabelecidas para os adicionais às contribuïções directas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+#### Secção II — Rendimentos de bens próprios
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 721.º
+
+Constituem rendimentos de bens próprios:
+
+1.º O rendimento de acções e obrigações na posse da câmara;
+
+2.º As participações de lucros;
+
+3.º As rendas, foros e pensões;
+
+4.º Os juros de depósitos;
+
+5.º Outros rendimentos de natureza análoga.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 722.º
+
+A cobrança dos rendimentos de bens próprios, quando feita fora das datas dos respectivos vencimentos, será regulada pelas normas aplicáveis à cobrança de rendimentos de igual natureza pertencentes ao património do Estado.
+
+§ único. As câmaras municipais promoverão a remição dos foros, censos e pensões de que forem credoras, na forma estabelecida para o Estado, até ao dia 31 de Dezembro de 1946.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+#### Secção III — Taxas
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 723.º
+
+As câmaras municipais podem cobrar taxas:
+
+1.º Por enterramentos, concessão de terrenos nos cemitérios municipais e uso de jazigos e ossários municipais e casas mortuárias;
+
+2.º Pela aferição e conferição de pesos, medidas e aparelhos de medição;
+
+3.º Pelo registo e licença de cães;
+
+4.º Pela utilização dos locais reservados, nos mercados e feiras, por parte dos vendedores;
+
+5.º Pelas licenças de uso e porto de arma de caça, de exercício da caça e de criação, posse e uso de furão;
+
+6.º Pela utilização dos matadouros nos termos da lei especial;
+
+7.º Pela utilização de quaisquer instalações destinadas ao conforto e comodidade ou recreio do público;
+
+8.º Pela autorização para emprego de meios de publicidade destinados a propaganda nas vias públicas do concelho;
+
+9.º Pela prestação de serviços ao público por parte das repartições ou dos funcionários municipais;
+
+10.º Por quaisquer licenças da sua competência que não estejam isentas por lei;
+
+11.º Pelo aproveitamento do domínio público na administração do município ou dos bens do logradouro comum do concelho.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+###### Artigo 724.º
+
+As importâncias das taxas fixadas na tabela anexa a êste Código não poderão ser excedidas nem sôbre elas recaem quaisquer emolumentos ou adicionais, incluindo o imposto do sêlo.
+
+§ único. Sôbre as taxas cobradas pela passagem de licenças que não sejam de estabelecimento comercial e industrial recairá o adicional de 30 por cento para o Estado, cuja importância total será entregue mensalmente, por meio de guia, na tesouraria da Fazenda Pública do respectivo concelho.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+#### Secção IV — Multas
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 725.º
+
+De todas as multas cobradas para as câmaras municipais pertencerá metade ao autuante, salvo se por lei especial fôr determinada outra forma de distribuïção.
+
+§ único. Sôbre as multas recaem sòmente os seguintes adicionais:
+
+25 por cento para o Estado;
+
+10 por cento para o Fundo de Socorros a Náufragos nos concelhos limitados por costa marítima, enseadas, baías ou rios navegáveis;
+
+10 por cento para o albergue distrital.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 726.º
+
+A cobrança de multas aplicadas por transgressão de posturas e regulamentos policiais poderá ser feita no próprio momento da verificação sempre que o transgressor deseje pagar imediatamente e a importância da multa não seja superior a 50$00.
+
+§ único. Para o efeito do disposto neste artigo aos agentes da polícia municipal serão entregues, mediante recibo, cadernetas de impressos, com as folhas numeradas e seladas com o sêlo branco, devendo os agentes prestar contas diariamente ao chefe da secretaria, que passará guia da receita cobrada a fim de esta dar entrada na tesouraria.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+#### Secção V — Contencioso dos impostos e outros rendimentos municipais
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+##### Subsecção I — Tribunais
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 727.º
+
+A instrução e julgamento das reclamações dos interessados contra a liquidação e cobrança dos impostos, taxas e outras receitas municipais, bem como das transgressões cometidas pelos contribuintes aos regulamentos da liquidação e cobrança dos mesmos impostos e taxas, pertence, em 1.ª instância, ao chefe da secretaria da câmara municipal, com recurso para o juiz de direito da comarca e dêste para a Relação do respectivo distrito judicial.
+
+§ único. A competência para julgamento das transgressões e contravenções às posturas e regulamentos policiais pertence exclusivamente aos tribunais ordinários, salvo o disposto em leis especiais quanto ao concelho de Lisboa.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 728.º
+
+O chefe da secretaria é independente no exercício das suas funções jurisdicionais, não devendo obediência a ordens que lhe sejam dadas sôbre a decisão a proferir. No julgamento das reclamações e transgressões inspira-se ùnicamente nos preceitos aplicáveis das leis e regulamentos e nos ditames da sua consciência.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 729.º
+
+Servirá de escrivão e contador em 1.ª instância o funcionário da secretaria municipal que fôr designado pelo chefe.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 730.º
+
+Nestes tribunais não haverá audiências.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 731.º
+
+Em Lisboa e Pôrto as funções atribuídas nesta secção ao chefe da secretaria pertencerão a tribunais especiais de reclamações e transgressões ou ao funcionário designado na organização interna dos serviços.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+##### Subsecção II — Reclamações contenciosas
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 732.º
+
+As reclamações contra a liquidação e cobrança de impostos, taxas ou outras receitas municipais serão apresentadas na secretaria da câmara no prazo de sessenta dias, contados do início da cobrança, se se tratar de receitas virtuais, ou da liquidação, se se tratar de receitas eventuais.
+
+§ único. Se os contribuintes tiverem sido colectados sem fundamento algum para o serem, e não devessem presumir a liquidação do imposto, taxa ou rendimento, ou se tiver havido duplicação dêstes, poderão os interessados reclamar dentro de um ano depois de realizado o pagamento eventual ou, quando tenha havido lançamento, dentro de igual prazo a contar do início da cobrança voluntária do imposto, taxa ou rendimento. Tendo havido cobrança coerciva, o prazo será de seis meses, contados da citação, se esta tiver sido feita na pessoa do próprio devedor, ou da penhora, se tiver sido feita por qualquer outra forma.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 733.º
+
+As reclamações serão assinadas por advogado, por solicitador ou pelo interessado, mas neste caso a assinatura será reconhecida, ou o rôgo dado perante notário quando o interessado não saiba escrever.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 734.º
+
+1.º Inexistência ou cessação dos factos tributários;
+
+2.º Êrro na determinação da matéria colectável e do seu valor;
+
+3.º Êrro na designação das pessoas ou factos;
+
+4.º Duplicação ou omissão de contribuintes ou de descrição de factos tributários;
+
+5.º Aplicação de taxa diferente da devida ou êrro de cálculo na fixação do imposto, taxa ou rendimento;
+
+6.º Duplicação do imposto, taxa ou rendimento;
+
+7.º Ilegalidade do imposto, taxa ou rendimento, quando a deliberação que os houver criado tenha sido anulada pelos tribunais do contencioso administrativo, ou nestes penda recurso interposto com fundamento na ilegalidade da mesma deliberação;
+
+8.º Incompetência do funcionário que fez a liquidação.
+
+§ único. Quando se invoque a ilegalidade do imposto, taxa ou rendimento e haja recurso pendente nos tribunais do contencioso administrativo, sobrestar-se-á no julgamento da reclamação até definitivo julgamento do recurso.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 735.º
+
+Os reclamantes podem indicar até três testemunhas, as quais, depois de prestarem juramento perante o chefe da secretaria da câmara, serão por êste inquiridas, lavrando-se auto dos seus depoïmentos.
+
+§ único. As testemunhas serão apresentadas pelos reclamantes, independentemente de notificação, no dia e hora marcados para a inquirição.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 736.º
+
+§ único. Antes de proferir qualquer decisão, deverá o chefe da secretaria ouvir por escrito os funcionários encarregados da fiscalização do serviço a que a reclamação disser respeito.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 737.º
+
+As decisões de deferimento serão notificadas ao presidente da câmara e as de indeferimento, total ou parcial, ao presidente da câmara e aos interessados.
+
+§ único. Nos concelhos de Lisboa e Pôrto a notificação à câmara será feita na pessoa do director dos serviços de finanças, entregando-se-lhe cópia da sentença ou decisão proferida.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 738.º
+
+As reclamações deferidas produzem a anulação ou a rectificação do imposto, taxa ou rendimento reclamados.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 739.º
+
+Nas reclamações não são devidas custas na 1.ª instância, sendo, porém, devidos selos, se o reclamante fôr desatendido.
+
+§ 1.º Se houver lugar ao pagamento de selos, ou de custas e selos, caso tenha sido interposto recurso, a conta será organizada na última instância em relação a todas elas.
+
+§ 2.º As custas serão contadas nos termos da parte cível do Código das Custas Judiciais.
+
+§ 3.º Se as custas e selos não forem pagos dentro do prazo de dez dias, contado a partir da data da notificação da decisão condenatória ao reclamante, será o mesmo executado nos termos dêste Código, servindo de base à execução uma certidão da qual conste a importância em dívida.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 740.º
+
+1.ª Ineptidão da reclamação;
+
+2.ª Falta de notificação da interposição de recurso ao recorrido, para contraminutar, querendo, no prazo de oito dias.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 741.º
+
+Da decisão proferida pelo chefe da secretaria cabe recurso para o juiz de direito da comarca e da decisão dêste para o Tribunal da Relação, interpostos, um e outro, no prazo de oito dias, a contar da notificação da sentença recorrida.
+
+§ único. É obrigatório o recurso por parte da câmara quando a decisão lhe seja contrária e às informações oficiais, em reclamação do valor superior a 1.000$00.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+##### Subsecção III — Transgressões fiscais
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 742.º
+
+Quando, por motivos imputáveis aos contribuintes, a liquidação dos impostos directos e a cobrança dos impostos indirectos, que seja independente de prévio processo de liquidação, se não fizer nos prazos fixados nos regulamentos fiscais, ou quando, tendo-se feito nesses prazos, a liquidação venha a ser considerada, pelos mesmos motivos, inexacta, será levantado auto de transgressão, que fará fé até prova em contrário.
+
+§ único. O auto será lavrado perante duas testemunhas, mencionando-se nêle o objecto da transgressão e as disposições legais ou regulamentares infringidas, e será assinado pelas ditas testemunhas, pelo transgressor, se êste, sendo o auto levantado na sua presença o quiser e puder fazer, e pela entidade ou funcionário que efectuar a diligência.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 743.º
+
+Os autos de transgressão só podem ser levantados pelos funcionários municipais e serão remetidos, no prazo de três dias, ao chefe da secretaria da câmara, que, dentro de igual prazo, mandará avisar o transgressor para nos oito dias seguintes solicitar guias para pagamento, ou apresentar a sua defesa e o rol de testemunhas, até ao máximo de cinco, sob a cominação de, não pagando nem se defendendo, ser condenado para efeitos de execução fiscal.
+
+§ 1.º Se findo êste prazo o pagamento não tiver sido efectuado mas o transgressor tiver apresentado a sua defesa, o chefe da secretaria marcará o dia da inquirição das testemunhas, que será logo notificado ao transgressor e ao actuante.
+
+§ 2.º Não haverá inquirição das testemunhas do auto.
+
+§ 3.º As testemunhas do transgressor deverão ser por êle apresentadas na data marcada para a inquirição.
+
+§ 4.º Se o transgressor não pagar nem se defender, será logo condenado e debitada a quantia em dívida ao tesoureiro, para efeito de cobrança coerciva.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 744.º
+
+Feita a inquirição das testemunhas e reduzidos a escrito os seus depoïmentos, ou se com a defesa não forem indicadas testemunhas a inquirir, o escrivão fará o processo concluso ao chefe da secretaria, para julgamento.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 745.º
+
+O chefe da secretaria poderá, antes do julgamento, mandar o processo a informar a quaisquer serviços da câmara ou aos fiscais do regulamento transgredido.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 746.º
+
+A sentença será fundamentada, julgando subsistente ou insubsistente a transgressão e fixando, no primeiro caso, a importância do imposto, multa e o adicional a que se refere o § 3.º, bem como a pessoa ou pessoas responsáveis pelo seu pagamento.
+
+§ 1.º A sentença será notificada ao autuante e ao transgressor no prazo de cinco dias, para recorrerem, querendo.
+
+§ 2.º Se o prazo do recurso terminar sem que êste tenha sido interposto ou sem que o transgressor tenha pago a importância em que houver sido condenado, o chefe da secretaria da câmara promoverá a cobrança coerciva, nos termos, dêste Código.
+
+§ 3.º Nas transgressões não são devidas custas; mas, em caso de condenação, à importância do imposto e da multa acrescerá um adicional de 10 por cento, nunca inferior a 20$00, que será distribuído, em partes iguais, entre a câmara e o chefe da secretaria.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 747.º
+
+Nos processos de transgressão as nulidades insupríveis são apenas as seguintes:
+
+1.ª Falta de primeira citação, notificação ou aviso;
+
+2.ª Não cumprimento das formalidades exigidas para o levantamento dos autos de transgressão, exceptuada a indicação da lei ou regulamento infringidos.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 748.º
+
+Da decisão proferida pelo chefe da secretaria cabe recurso para o juiz de direito da comarca e da decisão dêste para o Tribunal da Relação, interpostos, um e outro, dentro do prazo de oito dias, a contar da notificação da sentença recorrida.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 749.º
+
+Nos casos omissos nesta secção observar-se-á o disposto nas leis reguladoras do contencioso das contribuïções e impostos do Estado.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+### Capítulo II — Das despesas
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 750.º
+
+Constituem despesas obrigatórias da administração municipal:
+
+1.º Os vencimentos e salários do pessoal;
+
+2.º As pensões de aposentação ou por desastres no trabalho;
+
+3.º Os encargos dos empréstimos legalmente contraídos;
+
+4.º As resultantes de contratos legalmente celebrados;
+
+5.º As do pagamento de dívidas exigíveis, reconhecidas e liquidadas por sentença judicial ou do contencioso administrativo, ou confessadas pelas câmaras adentro das suas atribuïções;
+
+6.º As dos litígios das câmaras;
+
+7.º As dos prémios de seguro dos bens municipais;
+
+8.º As dos impostos, foros, pensões ou outros encargos a que estiverem sujeitos os bens próprios do concelho e o produto de adicionais ou percentagens devidos ao Estado;
+
+9.º As do pagamento de emolumentos pelo julgamento das contas;
+
+10.º As da assinatura do Diário do Govêrno;
+
+11.º As de dotação dos serviços municipais e em geral as necessárias para o desempenho das atribuïções de exercício obrigatório da câmara.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 751.º
+
+Serão também satisfeitas obrigatòriamente:
+
+1.º As despesas de renda ou construção, conservação e reparação dos edifícios destinados aos tribunais judiciais da 1.ª instância com sede na circunscrição municipal e as de mobiliário, água e luz dos mesmos tribunais;
+
+2.º As despesas com renda, instalação e mobiliário, água e luz das secções de finanças concelhias e dos bairros de Lisboa e Pôrto, tesourarias da Fazenda Pública, tribunais das execuções fiscais, conservatórias do registo civil, inspecções e delegações de saúde, conservatórias do registo predial, nos concelhos que sejam sede de comarca, e das administrações de bairro, nos concelhos de Lisboa e Pôrto;
+
+3.º As despesas com renda de casa, mobiliário e material didáctico, expediente, higiene, saúde e confôrto das escolas primárias, salvo quando outra entidade tenha voluntàriamente assumido a obrigação delas ou deva suportá-las por disposição legal ou contratual;
+
+4.º As despesas com vencimentos e instalação dos carcereiros, que serão repartidas entre os concelhos da comarca, de modo que caiba ao da sede um têrço, pelo menos, do total;
+
+5.º As despesas de renda ou construção, conservação e reparação das casas para os magistrados judiciais;
+
+6.º As despesas de transporte de doentes para tratamento anti-rábico, quando não sejam conhecidos ou não possuam recursos os donos dos cãis raivosos;
+
+7.º As despesas com o tratamento e transporte dos doentes pobres residentes no concelho admitidos com guia passada pela câmara municipal nos Hospitais Civis de Lisboa, Hospital da Universidade de Coimbra, Hospital Escolar, Maternidade Dr. Alfredo da Costa, Instituto de Oncologia, Instituto de Oftalmologia do Dr. Gama Pinto e no Hospital de Santo António, do Pôrto, calculadas nos termos de lei especial;
+
+8.º As despesas dos recenseamentos eleitorais, do recenseamento militar e do recenseamento escolar;
+
+9.º As despesas do pagamento do subsídio por amparo, nos termos das leis de recrutamento militar;
+
+10.º As despesas com as cotas que, por lei, hajam de pagar a associações e institutos nacionais ou internacionais.
+
+> Nota: [Decreto-Lei n.º 38/77 - Diário da República n.º 24/1977, Série I de 1977-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1977-138513) São transferidas para o Ministro das Finanças, as competências das câmaras municipais relativas aos serviços de finanças previstas no nº 2 do presente artigo.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 173/73 - Diário do Governo n.º 90/1973, Série I de 1973-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1973-673810) A partir de 1974, deixa de constituir despesa obrigatória dos concelhos a relativa aos encargos referidos no n.º 7.º do artigo 751.º do Código Administrativo, na base XXXIII da Lei n.º 2120, de 19 de Julho de 1963, e nos artigos 30.º e 34.º do Decreto-Lei n.º 46301, de 27 de Abril de 1965, e cessa a faculdade de lançamento de derramas a que alude a citada base da Lei n.º 2120 e o artigo 18.º do Decreto-Lei n.º 36448, de 1 de Agosto de 1947.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 752.º
+
+A despesa ordinária com reparação, melhoramento e renovação das instalações e mobiliário das repartições concelhias dependentes do Estado não poderá exceder 2 por cento do total da receita ordinária prevista no orçamento.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 753.º
+
+As câmaras municipais dotarão obrigatòriamente as obras e melhoramentos das freguesias, de modo que todos os anos lhes sejam destinados, e gastos nelas conforme as necessidades mais urgentes, 25 por cento do produto líquido dos adicionais às contribuïções do Estado arrecadados pela câmara nos concelhos rurais e 20 por cento nos urbanos, com preferência das freguesias ou povoações que não constituam a sede do concelho.
+
+§ 1.º Em relação às freguesias cuja área se contenha na da sede do concelho não ficam as câmaras sujeitas à obrigação prevista neste artigo, mas deverão conceder às respectivas juntas subsídios para fins de assistência ou outros semelhantes.
+
+§ 2.º As importâncias a que êste artigo se refere serão distribuídas pelas juntas das freguesias contempladas, ou aplicadas pela câmara municipal de acôrdo e com a cooperação das juntas.
+
+§ 3.º A entrega das verbas que forem atribuídas às juntas de freguesia para serem empregadas nos termos dêste artigo será feita, até final do mês de Julho, pelo tesoureiro da câmara, assistido do respectivo presidente, aos presidentes das juntas, que se farão acompanhar do tesoureiro e do respectivo regedor.
+
+§ 4.º As verbas recebidas serão imediatamente depositadas na filial concelhia da Caixa Geral de Depósitos, consignando a cada freguesia o que por direito lhe fôr atribuído. Os levantamentos da Caixa serão efectuados mediante documento, assinado pelo presidente e tesoureiro da junta, na medida dos encargos a saldar.
+
+§ 5.º Até 30 de Dezembro de cada ano será, pelo presidente de cada junta de freguesia, entregue na câmara municipal, mediante recibo, uma resenha dos melhoramentos a realizar e dos encargos a saldar no ano imediato com as verbas que lhes hajam de ser distribuídas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 754.º
+
+As percentagens a que se refere o artigo anterior serão distribuídas anualmente pela seguinte forma:
+
+1.º 10 por cento da importância total será rateada por todas as freguesias do concelho, com destino às despesas de expediente das respectivas juntas;
+
+2.º Os restantes 90 por cento serão aplicados nas freguesias onde houver necessidades mais imperiosas ou urgentes a suprir, ou que disponham de meios ou valores que permitam execução mais fácil ou pronta dos melhoramentos a fazer, procurando-se concentrar recursos, mas sem deixar de atender, em anos sucessivos e por turno, se preciso fôr, a todas as freguesias do concelho.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 755.º
+
+As câmaras municipais poderão também entregar a cobrança e aplicação do imposto de prestação de trabalho em certo ano e em determinada freguesia, aldeia, sítio ou lugar do concelho à respectiva junta de freguesia, que receberá todos os poderes conferidos por lei à câmara para êsse efeito.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 756.º
+
+É permitido às câmaras municipais deliberar o abono adiantado de importância não superior a 5000$00 ao chefe da secretaria, a fim de constituir fundo permanente para despesas correntes de expediente da secretaria que, pela frequência, diminuta importância e urgência, deva ser autorizado a fazer.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 48/71 - Diário do Governo n.º 44/1971, Série I de 1971-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896)
+
+### Capítulo III — Do orçamento
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 757.º
+
+O orçamento ordinário do município será elaborado de harmonia com as bases votadas pelo conselho municipal, sob proposta do presidente da câmara.
+
+§ único. As bases conterão:
+
+a) O cômputo aproximado das despesas a efectuar;
+
+b) O critério de distribuïção das dotações destinadas a obras e melhoramentos das freguesias;
+
+c) A discriminação das obras de interêsse público a realizar pela câmara e sua dotação aproximada;
+
+d) Os novos lugares a criar;
+
+e) A indicação das economias a realizar na administração municipal;
+
+f) A aprovação das deliberações sôbre criação de novas receitas e indicação de quais sejam;
+
+g) A aprovação das deliberações camarárias sôbre empréstimos cuja realização se preveja ou sôbre a parte de empréstimos a levantar no novo ano.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 758.º
+
+A receita ordinária dos municípios será classificada e distribuída pelos seguintes capítulos:
+
+1.º Impostos directos;
+
+2.º Impostos indirectos;
+
+3.º Taxas. Rendimentos de diversos serviços;
+
+4.º Rendimento de bens próprios, dos serviços municipais e, municipalizados;
+
+5.º Reembolsos e reposições;
+
+6.º Consignação de receitas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 759.º
+
+A receita extraordinária constituïrá um único capítulo.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 760.º
+
+Os capítulos da receita ordinária e extraordinária serão divididos em artigos e estes em alíneas, correspondendo os artigos a grupos de rendimentos da mesma origem e natureza e as alíneas aos rendimentos singularmente considerados.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 761.º
+
+As despesas das câmaras serão também classificadas no orçamento em capítulos, cada um dos quais corresponderá a um serviço municipal, excepto o 1.º, destinado à inscrição dos encargos de empréstimos; o 2.º, às despesas com o pessoal aposentado; o penúltimo, ao pagamento a diversas entidades por consignação de receitas, e o último, às despesas extraordinárias.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 762.º
+
+Em cada capítulo as despesas serão discriminadas por artigos, com numeração seguida, e repartidas pelas seguintes classes:
+
+1.ª Despesas com o pessoal;
+
+2.ª Despesas com o material;
+
+3.ª Pagamento de serviços e diversos encargos.
+
+§ 1.º Nas despesas com o pessoal os artigos discriminarão as remunerações certas o as remunerações acidentais e, tanto em relação a umas como a outras, as despesas com o pessoal do quadro e com o pessoal contratado ou assalariado.
+
+§ 2.º Nas despesas com o material devem ser separadamente inscritas as verbas para construções e obras novas, aquisições de utilização permanente, conservação e aproveitamento do material e aquisições de material de consumo corrente, devendo individualizar-se o mais possível as obras a que as verbas se destinem.
+
+§ 3.º As despesas de pagamento de serviços e diversos encargos devem ser discriminadas em despesas de higiene, saúde e confôrto, seguros, foros e contribuïções e outr s serviços e encargos, subdividindo-se os respectivos artigos nas alíneas necessárias para suficiente individualização das despesas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 763.º
+
+Em anexo ao orçamento ordinário do município figurarão:
+
+a) Os orçamentos dos serviços municipalizados;
+
+b) Os orçamentos das zonas de turismo.
+
+§ único. Os orçamentos anexos serão quanto possível elaborados segundo as regras prescritas para a elaboração do orçamento ordinário.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 764.º
+
+Os eleitores e contribuintes da circunscrição municipal podem, singular ou colectivamente, reclamar para os tribunais administrativos contra as verbas orçamentais cuja inscrição ou dotação seja ilegal ou contrária às bases aprovadas pelo conselho municipal.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+### Capítulo IV — Da contabilidade municipal
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 765.º
+
+As normas regulamentares da contabilidade das câmaras municipais serão aplicadas a todos os concelhos.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 766.º
+
+O regulamento da contabilidade municipal compreenderá:
+
+1.º A indicação das obrigações dos chefes de secretaria e dos tesoureiros municipais;
+
+2.º O processo a seguir na escrituração e cobrança de todas as receitas, a escrituração e pagamento de todas as despesas, o número, espécie e arrumação dos livros e os modelos dos impressos a adoptar;
+
+3.º Os preceitos a seguir para a preparação dos orçamentos e organização das contas e na arrumação e arquivo dos documentos de receita e despesa.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 767.º
+
+A distribuïção dos avisos aos contribuintes, expedidos pelos tesoureiros antes da abertura do cofre municipal, poderá ser feita pelo correio ou por intermédio dos regedores ou dos zeladores da câmara, ficando neste caso desonerada a responsabilidade do tesoureiro mediante recibo passado pelas autoridades ou agentes a quem os avisos forem entregues para distribuïção.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 768.º
+
+Os recibos das importâncias pagas pelas câmaras municipais podem ser passados pelos credores separadamente das autorizações de pagamento.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 769.º
+
+A conta de gerencia será organizada, sob a direcção do presidente da câmara, pelo chefe da secretaria ou pelo director dos serviços de finanças, por ambos assinada, submetida à aprovação da câmara municipal, pelo presidente, até 15 de Abril do ano seguinte àquele a que respeite e remetida ao Tribunal de Contas até 30 do mesmo mês.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+### Capítulo V — Disposições especiais para as zonas de turismo
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 770.º
+
+As juntas de turismo gozam de autonomia financeira adentro do município.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 771.º
+
+São receitas próprias das juntas de turismo:
+
+1.º O imposto de turismo;
+
+2.º Os rendimentos de bens próprios;
+
+3.º As participações de lucros e rendas fixas;
+
+4.º O lucro de explorações comerciais ou industriais;
+
+5.º Os subsídios permanentes;
+
+6.º Os donativos;
+
+7.º As heranças, legados ou doações que a câmara aceite em seu nome;
+
+8.º O produto da alienação de bens e da amortização ou reembôlso de quaisquer títulos ou capitais;
+
+9.º O produto dos empréstimos que a câmara contraia com destino a aplicação na zona e para fins de turismo, caucionados pelos rendimentos da junta;
+
+10.º Os saldos verificados na gerência anterior.
+
+§ 1.º As receitas enumeradas nos n.os 1.º a 5.º são de carácter ordinário; as do n.º 6.º a 10.º de carácter extraordinário.
+
+§ 2.º Do produto das receitas ordinárias entregarão as câmaras nas tesourarias da Fazenda Pública a importância correspondente a 20 por cento, que constituïrá receita do Estado.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 772.º
+
+É permitido às câmaras municipais dos concelhos em que existam zonas de turismo o lançamento do imposto de turismo.
+
+§ 1.º O imposto de turismo recaïrá sôbre todos os rendimentos sujeitos às contribuïções predial e industrial do concelho, não podendo exceder 3 por cento das respectivas colectas liquidadas para o Estado.
+
+§ 2.º Êste imposto será cobrado como adicional às contribuïções do Estado.
+
+§ 3.º Nos concelhos em cujas circunscrições existam duas ou mais zonas de turismo as câmaras municipais distribuïrão entre elas o produto total do imposto cobrado nos termos dêste artigo, tendo em atenção a população flutuante de cada uma e as necessidades a prover.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 773.º
+
+Nos concelhos em que existam zonas de turismo ficam igualmente sujeitas ao imposto de turismo, lançado até ao máximo de 3 por cento:
+
+1.º As rendas das casas arrendadas a pessoas que nelas residam por tempo inferior a seis meses;
+
+2.º A importância total das contas pagas nos hotéis, pensões, hospedarias, casas de hóspedes, restaurantes, sanatórios e casas de repouso quando a diária seja superior a 10$00;
+
+3.º As despesas feitas nos estabelecimentos a que se refere o número anterior e não liquidadas por diária.
+
+§ 1.º Se os hóspedes ou comensais permanecerem ininterruptamente nos estabelecimentos a que se refere o n.º 2.º, exceptuados os sanatórios e casas de repouso, por mais de trinta dias, ser-lhes-á liquidado o imposto por metade da taxa no segundo período de trinta dias, e pela quarta parte no período que exceder sessenta dias.
+
+§ 2.º As famílias compostas de quatro ou mais pessoas, excluídos os serviçais, beneficiam da redução de 20 por cento no imposto regulado neste artigo, sem prejuízo do preceituado no parágrafo anterior.
+
+§ 3.º As casas cedidas gratuitamente ficam sujeitas ao imposto de turismo, que recairá sôbre a renda determinada por avaliação.
+
+§ 4.º Os estabelecimentos onde se vendam bebidas ao público e as pastelarias, confeitarias, casas de chá, cafés e leitarias pagarão de imposto de turismo a taxa anual fixa que fôr arbitrada pela câmara, entre 50$00 e 500$00.
+
+§ 5.º Estão isentos do imposto de turismo os funcionários do Estado ou administrativos, quando se encontrem na zona por obrigação de serviço público, os membros do corpo diplomático e consular das nações estrangeiras e os portadores de passaporte diplomático ou de missão especial.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 774.º
+
+Sôbre o imposto de turismo não recaïrão quaisquer adicionais, mas liquidar-se-á o imposto do sêlo.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 775.º
+
+A cobrança coerciva das receitas das juntas de turismo será feita nos termos prescritos para as demais receitas municipais.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 776.º
+
+Os serviços de contabilidade e tesouraria das zonas de turismo terão escrita diferente da das câmaras e em tudo o que respeita à elaboração de orçamentos e conta de gerência observar-se-á, na parte aplicável, o disposto para os municípios.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+## Título III — Das finanças paroquiais
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+### Capítulo ÚNICO — Das receitas, das despesas, do orçamento e das contas paroquiais
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 777.º
+
+Constituem receita ordinária das freguesias:
+
+1.º Os subsídios do município e o produto do imposto de prestação do trabalho que por êle seja cedido;
+
+2.º O rendimento dos bens próprios;
+
+3.º As taxas pelo uso dos bens do logradouro paroquial;
+
+4.º O rendimento dos mercados e cemitérios paroquiais;
+
+5.º As multas impostas por lei, regulamento ou postura em benefício da freguesia;
+
+6.º 5 por cento sôbre o imposto de minas, parte proporcional, cobrado na freguesia;
+
+7.º Quaisquer outros rendimentos permanentes estabelecidos por lei ou regulamento.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 778.º
+
+São despesas obrigatórias da freguesia:
+
+1.º Os vencimentos do pessoal;
+
+2.º As resultantes de contratos legalmente celebrados;
+
+3.º As do pagamento de dívidas exigíveis;
+
+4.º As dos litígios paroquiais;
+
+5.º As dos prémios de seguro dos bens e edifícios paroquiais;
+
+6.º As dos impostos, foros, pensões e outros encargos a que estejam sujeitos os bens próprios da freguesia;
+
+7.º As de dotação dos serviços paroquiais;
+
+8.º As dos recenseamentos paroquiais.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 779.º
+
+O orçamento paroquial discriminará com precisão e clareza as diversas verbas de receita e despesa e será transcrito no livro de actas da junta na reünião em que tiver sido aprovado.
+
+§ único. As dúvidas que surjam na sua elaboração e execução serão submetidas ao presidente da câmara, que as resolverá ouvido o chefe da secretaria municipal.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 780.º
+
+A contabilidade paroquial deve ser simples e clara, podendo, nas freguesias de pequena receita, constar de um único livro, aberto, rubricado em todas as fôlhas e encerrado pelo presidente da câmara.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 781.º
+
+As juntas de freguesia não podem em caso algum contrair empréstimos, mas é-lhes permitido o lançamento de derramas extraordinárias a toda a freguesia ou a uma povoação, lugar ou sítio dela, quando as necessidades urgentes dos povos o exijam e para benefício dos colectados.
+
+§ 1.º O produto da derrama só poderá ser aplicado em obras e melhoramentos públicos, a fazer com participação do Estado ou do concelho, ou sem ela.
+
+§ 2.º A derrama será lançada tendo por base os rendimentos da propriedade que tenham servido para a liquidação da contribuïção predial, não podendo exceder 15 por cento das colectas liquidadas para o Estado.
+
+§ 3.º A cobrança é feita por uma só vez nos primeiros trinta dias a contar da abertura do cofre, ou nos sessenta dias seguintes com os respectivos juros de mora. Findo êste prazo, será a dívida relaxada para execução nos termos estabelecidos para as receitas municipais.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 782.º
+
+As contas de gerência serão assinadas pelo presidente e vogais da junta de freguesia e enviadas, para julgamento, ao presidente da câmara ou, nos concelhos de Lisboa e Pôrto, ao governador civil até ao fim do mês de Fevereiro do ano seguinte àquele a que respeitem.
+
+§ 1.º O presidente da câmara ou o governador civil, conforme os casos, julgarão as contas até 30 de Abril do ano em que as receberem, com recurso para o Tribunal de Contas.
+
+§ 2.º Exceptuam-se as contas que acusem despesa total superior a 250.000$00, as quais serão remetidas pela junta de freguesia directamente ao Tribunal de Contas e por êste julgadas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 783.º
+
+As reclamações sôbre taxas e quaisquer outros rendimentos paroquiais serão julgadas em 1.ª instância pelo chefe da secretaria da câmara, com recurso para o juiz de direito da comarca e da decisão dêste para o Tribunal da Relação, seguindo-se, na parte aplicável, o disposto nos artigos 727.º e seguintes.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+## Título IV — Das finanças distritais
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+### Capítulo ÚNICO — Das receitas, das despesas, do orçamento e das contas distritais
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 784.º
+
+As juntas distritais podem lançar o adicional de 2 por cento sobre as colectas das contribuições predial e industrial e dos impostos sobre a indústria agrícola e de capitais, liquidadas para o Estado na área da sua jurisdição.
+
+§ 1.º A votação dos adicionais será feita de modo que possa ser comunicada ao director de finanças até ao dia 30 de Setembro, presumindo-se, na falta de comunicação, que se mantêm os adicionais votados anteriormente.
+
+§ 2.º A repartição que se efectuar nos termos e para o efeito do disposto no artigo 706.º aplicar-se-á, do mesmo modo, relativamente aos adicionais para as juntas distritais.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45676 - Diário do Governo n.º 98/1964, Série I de 1964-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45676-1964-472524)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45241 - Diário do Governo n.º 216/1963, Série I de 1963-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45241-1963-686271)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 785.º
+
+Constituem despesas obrigatórias da administração distrital:
+
+1.º Os vencimentos do pessoal;
+
+2.º As pensões de aposentação;
+
+3.º Os encargos dos empréstimos legalmente contraídos;
+
+4.º As resultantes de contratos legalmente celebrados;
+
+5.º As do pagamento de dívidas exigíveis;
+
+6.º As dos litígios da junta distrital;
+
+7.º As dos prémios de seguro dos bens distritais;
+
+8.º As dos impostos, foros e pensões ou outros encargos a que estiverem sujeitos os bens próprios do distrito;
+
+9.º As de dotação dos serviços distritais;
+
+10.º As do pagamento de emolumentos pelo julgamento das contas.
+
+9.º As dos impostos, foros e pensões ou outros encargos a que estiverem sujeitos os bens próprios da província;
+
+10.º As de dotação dos serviços provinciais;
+
+11.º As do pagamento de emolumentos pelo julgamento das contas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+> Alterado pelo/a Artigo 785.º do/a [Decreto-Lei n.º 38313 - Diário do Governo n.º 127/1951, Série I de 1951-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38313-1951-583627)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 786.º
+
+A receita ordinária dos distritos será classificada e distribuída no orçamento pelos seguintes capítulos:
+
+1.º Adicionais às contribuïções do Estado;
+
+2.º Taxas. Rendimentos de diversos serviços e de bens próprios;
+
+3.º Reembolsos e reposições;
+
+4.º Consignação de receitas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 787.º
+
+São aplicáveis, tanto quanto possível, às bases do orçamento, ao orçamento e à contabilidade do distrito os preceitos relativos às bases do orçamento, ao orçamento e à contabilidade municipal.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 788.º
+
+As contas das juntas distritais são julgadas pelo Tribunal de Contas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 789.º
+
+As reclamações sobre taxas e quaisquer outros rendimentos cobrados pelo distrito serão julgadas em 1.ª instância pelo chefe de secretaria da junta, com recurso para o juiz de direito da comarca da sede do distrito ou da 1.ª vara cível, e da decisão deste para o Tribunal da Relação, seguindo-se, na parte aplicável, o disposto nos artigos 727.º e seguintes.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+## Título V — Dos cofres dos governos civis
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+### Capítulo ÚNICO — Das receitas, despesas e administração
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 790.º
+
+Em cada govêrno civil existirá um cofre privativo.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 791.º
+
+Constituem receitas do cofre privativo:
+
+1.º O produto da taxa de 10$00 por cada petição ou requerimento de interêsse particular visado ou despachado pelo governador civil;
+
+2.º O produto das taxas aplicadas a estabelecimentos autorizados a funcionar depois da hora do recolher;
+
+3.º 50 por cento de todas as multas cobradas por infracção dos regulamentos distritais de polícia;
+
+4.º Todas as demais que lhe sejam destinadas.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 792.º
+
+São despesas do cofre privativo as respeitantes a:
+
+1.º Comparticipação dos autuantes nas multas por transgressões aos regulamentos distritais de polícia;
+
+2.º Instrução de processos de sindicância e de inquérito, bem como de processos disciplinares, incluindo as resultantes de deslocações, quando a sua instauração haja sido determinada pelo governador civil;
+
+3.º Fardamentos destinados ao pessoal auxiliar;
+
+4.º Utilização, conservação, reparação e aproveitamento de viaturas, incluindo os encargos com o arrendamento de imóveis destinados à arrecadação e guarda das mesmas viaturas;
+
+5.º Comunicações, compreendendo as de instalação, aluguer e uso de postos telefónicos;
+
+6.º Representação do governo civil;
+
+7.º Publicidade e propaganda;
+
+8.º Subsídios a pessoas colectivas de utilidade pública administrativa ou a outras entidades, oficiais ou particulares;
+
+9.º Seguros de material;
+
+10.º Gastos confidenciais ou reservados;
+
+11.º Transporte, quando não possa ser utilizada a viatura automóvel afecta ao serviço do governo civil;
+
+12.º Livros e respectivas encadernações;
+
+13.º Aquisição, conservação, reparação, utilização e aproveitamento de outros móveis;
+
+14.º Repatriação de indigentes para os respectivos concelhos, quando as juntas de freguesia não possam ocorrer a essas despesas.
+
+§ único. Constituem ainda encargo do cofre privativo as despesas que, não tendo dotação estabelecida no Orçamento Geral do Estado nem estando, por lei, a cargo de outra entidade, sejam inerentes ao normal funcionamento da secretaria do governo civil ou ao desempenho das funções de governador civil, bem como todas as outras impostas por lei.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 37340 - Diário do Governo n.º 55/1949, Série I de 1949-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37340-1949-387288) Além das despesas expressamente referidas no artigo 792.º do Código Administrativo, consideram-se inerentes ao desempenho das funções de governador civil todas as despesas da mesma natureza das inscritas nas 2.ª e 3.ª classes do orçamento do Gabinete do Ministro do Interior e as de grande representação do governo civil.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 614/71 - Diário do Governo n.º 304/1971, Série I de 1971-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1971-165979), em vigor a partir de 1972-01-01
+
+###### Artigo 793.º
+
+Incumbe ao secretário do govêrno civil, como administrador do cofre:
+
+1.º Conservar à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência todas as receitas;
+
+2.º Mandar satisfazer todas as ordens de pagamento assinadas pelo governador civil efectivo ou por quem o substitua, respeitantes a cada uma das despesas obrigatórias e com cabimento dentro das respectivas receitas;
+
+3.º Conferir mensalmente o balancete do cofre e organizar o processo anual de contas, que será remetido ao Tribunal de Contas até 30 de Abril do ano imediato àquele a que respeitem;
+
+4.º Designar, de acôrdo com o governador civil, o funcionário da secretaria a quem especialmente deverão ser confiados os serviços de contabilidade do cofre.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 794.º
+
+O Govêrno Civil do distrito do Pôrto continuará a providenciar, nos termos legais, acêrca da instalação e assistência do Hospital de Santa Clara, devendo consignar-lhe, com prejuízo de qualquer outra, a verba reputada indispensável ao preenchimento do seu fim.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+###### Artigo 795.º
+
+§ único. Constituem ainda receita do Estado 10 por cento da receita ordinária e própria dos cofres privativos, percentagem que será entregue pelo secretário do governo civil, por meio de guia, em duas prestações, a primeira, respeitante à receita arrecadada no 1.º semestre de cada ano, até 15 de Julho seguinte, e a segunda, relativa à receita arrecadada no 2.º semestre, até 15 de Janeiro.
+
+> Revogado pelo/a Artigo 27.º do/a [Lei n.º 1/79 - Diário da República n.º 1/1979, Série I de 1979-01-02](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), em vigor a partir de 1079-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 30/70 - Diário do Governo n.º 13/1970, Série I de 1970-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), em vigor a partir de 1970-01-01
+
+## Parte IV — Do contencioso administrativo
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+## Título I — Dos tribunais do contencioso administrativo
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+### Capítulo I — Da organização
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 796.º
+
+As questões contenciosas da administração local que por lei não estejam sujeitas à jurisdição de outros tribunais são julgadas pelos tribunais do contencioso administrativo, nos termos dêste Código.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 797.º
+
+Os tribunais do contencioso administrativo são:
+
+1.º As auditorias;
+
+2.º O Supremo Tribunal Administrativo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 798.º
+
+Na sede dos distritos judiciais de Lisboa e Porto haverá uma auditoria administrativa com jurisdição na área que presentemente lhes corresponde.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 536-A/75 - Diário do Governo n.º 223/1975, 3º Suplemento, Série I de 1975-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-a-1975-240641)
+
+###### Artigo 799.º
+
+O julgamento das questões contenciosas pertence, em cada auditoria, a um auditor administrativo, com a categoria e vencimentos do juiz de direito de 1.ª classe.
+
+§ 1.º O auditor não poderá exercer as suas funções nos casos em que esteja impedido, se escuse ou seja julgada procedente a suspeição, de harmonia com o preceituado na lei de processo civil.
+
+§ 2.º A escusa e a suspeição serão julgadas pelo presidente do Supremo Tribunal Administrativo.
+
+§ 3.º Nas suas faltas e impedimentos o auditor será substituído pelo juiz da 1.ª vara judicial da comarca da sede da auditoria ou por quem suas vezes fizer.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 800.º
+
+Os auditores administrativos são nomeados de entre os funcionários de qualquer classe da 1.ª categoria do quadro geral administrativo dos serviços externos do Ministério do Interior, com dez anos, pelo menos, de serviço efectivo no mesmo quadro e aprovados em concurso de habilitação por provas públicas, escritas e orais.
+
+§ único. Se, encerrado o prazo do concurso, se verificar não haver concorrentes em número necessário para o provimento das vagas existentes ou prováveis, poderá ser prorrogado o prazo, por despacho do Presidente do Conselho, admitindo-se a concorrer funcionários da 1.ª categoria com qualquer tempo de serviço.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 801.º
+
+Cumpre ao auditor:
+
+1.º Tomar a declaração de honra e conferir a posse ao agente do Ministério Público;
+
+2.º Manter a ordem dentro do tribunal, aplicando aos perturbadores as sanções da lei;
+
+3.º Ordenar a instauração de processos disciplinares aos funcionários do govêrno civil em exercício na secretaria, remetendo-os àquele magistrado para julgamento;
+
+4.º Informar sôbre os pedidos de licença dos funcionários da secretaria;
+
+5.º Cumprir os mandados e as cartas de outros tribunais do contencioso administrativo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 802.º
+
+Os auditores administrativos são independentes nos seus julgamentos e gozam de inamovibilidade nos mesmos termos dos magistrados judiciais.
+
+§ 1.º As infracções disciplinares dos auditores administrativos serão julgadas pela secção do contencioso administrativo do Supremo Tribunal Administrativo, a cujos acórdãos o Presidente do Conselho dará execução, salvo o recurso para o tribunal pleno.
+
+§ 2.º O processo disciplinar será instruído por um juiz do Supremo Tribunal Administrativo designado pelo presidente, observando-se o disposto quanto à disciplina dos magistrados judiciais.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 803.º
+
+Junto de cada auditoria funcionará um agente do Ministério Público.
+
+§ 1.º Os agentes do Ministério Público junto das auditorias estão imediatamente subordinados ao agente do Ministério Público junto da secção do contencioso administrativo do Supremo Tribunal Administrativo.
+
+§ 2.º Nas suas faltas ou impedimentos os agentes do Ministério Público junto das auditorias serão substituídos pelos delegados do Procurador da República da 1.ª vara judicial da sede da auditoria ou por quem suas vezes fizer.
+
+§ 3.º As infracções disciplinares dos agentes do Ministério Público junto das auditorias são julgadas nos termos estatuídos para as dos auditores.
+
+§ 4.º O processo disciplinar será instruído pelo agente do Ministério Público junto da secção do contencioso administrativo do Supremo Tribunal Administrativo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 804.º
+
+§ único.  O Ministério Público junto das auditorias administrativas é representado por um delegado do procurador da República de 1.ª classe.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 536-A/75 - Diário do Governo n.º 223/1975, 3º Suplemento, Série I de 1975-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-a-1975-240641)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 486/70 - Diário do Governo n.º 244/1970, Série I de 1970-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1970-147579)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 805.º
+
+Compete ao agente do Ministério Público junto das auditorias:
+
+1.º Recorrer, por iniciativa própria, no cumprimento de instruções superiores ou mediante participação dos governadores civis, de todas as deliberações ilegais dos corpos administrativos e mais entidades de cujas decisões ou deliberações conhece o auditor;
+
+2.º Recorrer para o auditor contra as nulidades das eleições dos corpos administrativos e dos conselhos municipais e provinciais;
+
+3.º Intervir em todos os processos, pugnando nêles pela reparação da lei ofendida e defendendo os legítimos interêsses do Estado e das autarquias locais;
+
+4.º Promover o andamento dos processos pendentes;
+
+5.º Interpor os competentes recursos das decisões ilegais proferidas pelo auditor;
+
+6.º Participar ao competente delegado do Procurador da República todas as infracções ou delitos de que tiver conhecimento pelos processos contenciosos;
+
+7.º Prestar ao agente do Ministério Público junto da secção do contencioso administrativo do Supremo Tribunal Administrativo todas as informações oficiais que lhe forem pedidas;
+
+8.º Fiscalizar a arrecadação, depósito e levantamento de multas, custas e outras receitas do tribunal;
+
+9.º Escriturar e fazer escriturar os livros e expediente próprio, e organizar o arquivo;
+
+10.º Corresponder-se directamente com todas as autoridades e repartições públicas;
+
+11.º Praticar quaisquer outros actos que lhe sejam cometidos por lei ou ordens superiores.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 806.º
+
+Em cada auditoria administrativa haverá uma secretaria, à qual competirá dar expediente a todos os processos e negócios que forem afectos ao tribunal, incluindo os privativos do agente do Ministério Público, e a guarda e arquivo dos respectivos livros, processos e mais papéis.
+
+§ único. As secretarias das auditorias funcionam sob a imediata direcção de um chefe de secretaria e a superintendência e fiscalização do auditor e do agente do Ministério Público.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 807.º
+
+O pessoal de secretaria das auditorias será constituído por um chefe de secretaria, um escriturário-dactilógrafo de 1.ª classe e outro de 2.ª classe.
+
+§ 1.º O lugar de chefe de secretaria será provido em escrivães do Supremo Tribunal Administrativo, chefes de secretaria ou escrivães dos tribunais do trabalho ou em funcionários em condições de serem providos nesses cargos.
+
+§ 2.º Os escriturários-dactilógrafos serão providos pela forma estabelecida na lei geral para os funcionários da mesma categoria, podendo, contudo, concorrer à 1.ª classe os escriturários-dactilógrafos de 2.ª classe que prestem serviço no Supremo Tribunal Administrativo ou em qualquer das auditorias.
+
+§ 3.º Na falta ou impedimento do chefe de secretaria, será este substituído pelo escriturário-dactilógrafo de 1.ª classe ou, na sua falta ou impedimento, pelo de 2.ª classe e, se ambos os lugares estiverem vagos, por um funcionário de secretaria do governo civil, requisitado pelo auditor ao governador civil.
+
+> Nota: [Portaria n.º 26-R/80 - Diário da República n.º 7/1980, 3º Suplemento, Série I de 1980-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/26-r-1980-508666) Os quadros de pessoal das secretarias do Supremo Tribunal Administrativo e das Auditorias Administrativas de Lisboa e Porto, a que se refere o artigo 807.º do , são aumentados dos lugares constantes dos quadros I e II, anexos à Portaria n.º 26-R/80 de 9 de Janeiro.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 486/70 - Diário do Governo n.º 244/1970, Série I de 1970-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1970-147579)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39493 - Diário do Governo n.º 289/1953, Série I de 1953-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39493-1953-649948)
+
+###### Artigo 808.º
+
+Compete ao chefe da secretaria da auditoria:
+
+1.º Registar a entrada de todos os processos e demais papéis dirigidos à auditoria e apresentar diàriamente ao auditor os que careçam de despacho;
+
+2.º Assistir ao auditor em todos os actos da sua função que não forem despachos ou sentenças;
+
+3.º Escrever todos os termos e autos do processo a que assistir o auditor ou o agente do Ministério Público;
+
+4.º Registar as cartas precatórias expedidas ou devolvidas pela auditoria;
+
+5.º Contar os processos;
+
+6.º Registar, pelo teor, toda a correspondência expedida pela auditoria e redigir a que não fôr minutada pelos magistrados;
+
+7.º Executar o expediente próprio do agente do Ministério Público de que fôr encarregado por êste;
+
+8.º Registar as licenças, diplomas e posses dos magistrados;
+
+9.º Superintender nos serviços de limpeza, arrumação e conservação do tribunal e suas dependências;
+
+10.º Exercer as atribuïções de chefe de secretaria em tudo o que respeite à assiduïdade e disciplina do respectivo pessoal.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 809.º
+
+Em cada auditoria haverá um oficial de diligências.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39493 - Diário do Governo n.º 289/1953, Série I de 1953-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39493-1953-649948)
+
+###### Artigo 810.º
+
+Junto da Presidência do Conselho funciona o Supremo Tribunal Administrativo.
+
+§ único. A organização do Supremo Tribunal Administrativo é regulada por lei especial.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+### Capítulo II — Do funcionamento
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 811.º
+
+As auditorias funcionam no edifício do govêrno civil do distrito em cuja sede existam.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Revogado pelo/a [Decreto-Lei n.º 258/75 - Diário do Governo n.º 121/1975, Série I de 1975-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1975-335956)
+
+###### Artigo 812.º
+
+Os papéis relativos aos actos processuais das partos serão apresentados nas secretarias dos tribunais do contencioso administrativo dentro dos prazos legais e às horas regulamentares, mediante recibo, se fôr exigido.
+
+§ 1.º Os despachos, sentenças e acórdãos serão proferidos nos prazos legais e devidamente notificados.
+
+§ 2.º As diligências de produção de prova, quando as haja, realizar-se-ão em dias e horas previamente marcados e notificados às partes.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 813.º
+
+As secretarias dos tribunais do contencioso administrativo estarão abertas, para os respectivos serviços, todos os dias úteis, durante as horas normais do serviço público.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 814.º
+
+Haverá nos tribunais do contencioso administrativo as mesmas férias que nos tribunais judiciais, mas os incidentes de pedido de suspensão das decisões e deliberações recorridas, bem como os processos eleitorais, correrão mesmo em férias.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+## Título II — Da competência contenciosa
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 815.º
+
+O contencioso administrativo abrange as deliberações e decisões definitivas e executórias da administração pública, quando argüidas, perante os tribunais, de incompetência, excesso de poder ou violação de lei, regulamento ou contrato administrativo.
+
+§ 1.º Compreendem-se ainda no âmbito do contencioso administrativo:
+
+a) As questões sôbre interpretação, validade ou execução dos contratos administrativos, incluindo as que tenham por objecto efectivar a responsabilidade contratual;
+
+b) Os pedidos de indemnização feitos à Administração relativamente aos danos decorrentes de actos de gestão pública.
+
+c) As questões respeitantes à administração e polícia dos bens do domínio público.
+
+§ 2.º Consideram-se contratos administrativos ùnicamente os contratos de empreitada e de concessão de obras públicas, os de concessão de serviços públicos e os de fornecimento contínuo e de prestação de serviços celebrados entre a administração e os particulares para fins de imediata utilidade pública.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 48051 - Diário do Governo n.º 271/1967, 1º Suplemento, Série I de 1967-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48051-1967-385464)
+
+###### Artigo 816.º
+
+Não é permitido aos tribunais do contencioso administrativo julgar, principal ou incidentalmente, questões sôbre o estado ou qualidade das pessoas, títulos de propriedade ou posse e validade de contratos que não sejam considerados administrativos ou direitos dêles emergentes.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 817.º
+
+Nos recursos de decisões proferidas em processos disciplinares os tribunais do contencioso administrativo não poderão conhecer da gravidade da pena aplicada nem da existência material das faltas imputadas aos argüidos, salvo quando se alegue desvio de poder ou quando a lei fixe expressamente quer a pena, quer as condições de existência da infracção.
+
+§ único. O disposto neste artigo quanto à apreciação da existência material das faltas disciplinares não se aplica aos recursos da competência dos auditores nem aos recursos interpostos das respectivas sentenças.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 818.º
+
+A competência contenciosa é de ordem pública e não se altera nem se modifica por arbítrio das partes. A sua apreciação precederá o conhecimento de qualquer outra matéria.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 819.º
+
+Os juízes do contencioso administrativo não podem abster-se de julgar a pretexto de falta ou obscuridade da lei, carência de provas, inutilidade da decisão ou qualquer outro motivo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+### Capítulo II — Da competência contenciosa dos auditores
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 830.º
+
+Os prazos para os recursos e processos eleitorais são estabelecidos nas disposições referentes às eleições.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 820.º
+
+Compete ao auditor julgar:
+
+1.º Os recursos das decisões dos magistrados administrativos e dos presidentes das câmaras municipais, salvo, quanto a estes, o disposto nos §§ 1.º e 3.º do artigo 83.º;
+
+2.º Os recursos das deliberações dos corpos administrativos, das comissões administrativas das federações de municípios e das comissões centrais das uniões de freguesias;
+
+3.º Os recursos das deliberações do conselho municipal e do conselho do distrito.
+
+4.º Os recursos das deliberações das juntas de turismo, das juntas autónomas dos portos e das comissões venatórias, regionais e concelhias;
+
+5.º Os recursos das decisões dos concessionários de exploração de obras ou serviços municipais que violem os regulamentos das obras ou dos serviços;
+
+6.º Os recursos das deliberações das mesas, direcções, gerências ou assembleas gerais das pessoas colectivas de utilidade pública administrativa, quando argüidas de violação de lei, regulamento, compromisso ou estatutos;
+
+7.º As acções para efectivação da responsabilidade das autarquias locais proveniente da não execução de contrato administrativo ou de facto dos respectivos corpos administrativos, funcionários ou assalariados;
+
+8.º As acções sôbre validade, execução ou interpretação dos contratos administrativos celebrados entre o concelho, a freguesia ou a província e os particulares;
+
+9.º Os recursos contra a inscrição ou omissão nos recenseamentos paroquiais dos chefes de família e dos pobres e indigentes;
+
+10.º Os recursos contra a inscrição ou omissão no recenseamento eleitoral;
+
+11.º Os recursos relativos às eleições dos órgãos da administração municipal, paroquial ou distrital e das mesas, direcções ou gerências das pessoas colectivas de utilidade pública administrativa;
+
+12.º Os recursos sobre declarações de perda de mandato e inelegibilidades e escusas dos eleitos para os corpos administrativos e para os conselhos municipais e distritais;
+
+13.º Todos os demais recursos ou acções entregues por lei ao seu julgamento ou que, pertencendo ao contencioso administrativo, não estejam expressamente atribuídos a outro tribunal.
+
+§ único. Em todos os recursos ou acções pendentes na auditoria competem ao auditor os poderes conferidos aos juízes dos tribunais ordinários para o exercício da sua jurisdição, e em especial:
+
+1.º Condenar em custas e impor multas nos termos da lei;
+
+2.º Mandar riscar nos papéis que lhe forem submetidos quaisquer expressões ofensivas ou menos respeitosas para o tribunal ou para os Poderes Públicos, ou que contenham matéria contrária à moral ou à ordem social e política existentes;
+
+3.º Dar conhecimento ao Ministério Público de quaisquer ilegalidades ou irregularidades de que tenha conhecimento no decorrer dos processos, nos casos em que careça, para proceder, da promoção daquele magistrado;
+
+4.º Requisitar, oficiosamente ou a requerimento das partes, a todas as autoridades públicas, corpos administrativos e pessoas colectivas de utilidade pública administrativa as informações, documentos e quaisquer outros elementos de apreciação que julgue necessários para instrução dos processos;
+
+5.º Expedir cartas precatórias para quaisquer tribunais;
+
+6.º Decretar a suspensão da executoriedade das decisões e deliberações recorridas quando lhe seja requerida e verifique poderem resultar da execução prejuízos irreparáveis ou de difícil reparação;
+
+7.º Ordenar providências cautelares requeridas pela administração contra os particulares, nos termos em que forem admitidas na lei de processo civil;
+
+8.º Julgar incidentes, tais como de falsidade, habilitação e liquidação, surgidos nos processos pendentes na auditoria, admitir protestos e ordenar justificações e notificações avulsas cujo objecto ou causa tenham conexão com processos pendentes ou a propor na auditoria;
+
+9.º Ordenar a consignação em depósito da quantia ou cousa devida nos casos admitidos pela lei, em que o devedor pretenda livrar-se de obrigação emergente de contrato administrativo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42536 - Diário do Governo n.º 223/1959, Série I de 1959-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)
+
+###### Artigo 821.º
+
+Os recursos a que se refere o artigo anterior podem ser interpostos:
+
+1.º Pelo Ministério Público;
+
+2.º Pelos titulares de interêsse directo, pessoal e legítimo no provimento do recurso.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 822.º
+
+A qualquer eleitor, ou contribuinte das contribuïções directas do Estado, no gôzo dos seus direitos civis e políticos, é permitido recorrer das deliberações, que tenha por ilegais, tomadas pelos corpos administrativos das circunscrições em que se ache recenseado, ou por onde seja colectado, e pelas demais entidades referidas nos n.os 2.º, 3.º e 4.º do artigo 820.º com jurisdição na mesma área.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 823.º
+
+Os recursos a que se refere o n.º 6.º do artigo 820.º podem ser interpostos por qualquer gerente, irmão ou associado no pleno gôzo dos seus direitos sociais.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 824.º
+
+As acções para efectivação da responsabilidade civil podem ser propostas por quem alegar ser vítima de lesão causada por facto da administração ou seus agentes.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 825.º
+
+As acções sôbre contratos administrativos só podem ser propostas pelas entidades contratantes.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 826.º
+
+Pode qualquer eleitor, nos termos estabelecidos na lei eleitoral, interpor os recursos enumerados nos n.os 9.º, 11.º e 12.º do artigo 820.º
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 827.º
+
+Não pode recorrer quem tiver aceitado, expressa ou tàcitamente, a decisão ou deliberação depois de proferida.
+
+§ 1.º A aceitação tácita é a que deriva da prática, espontânea e sem reserva, de facto incompatível com a vontade de recorrer.
+
+§ 2.º A execução ou acatamento pelo funcionário não se considera aceitação tácita do acto executado ou acatado, salvo se depender da vontade do executante a escolha da oportunidade da execução.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 828.º
+
+O prazo para interposição de quaisquer recursos cujo julgamento pertença aos auditores administrativos é, salvo quanto aos eleitorais, de três meses, contados da data em que a decisão ou deliberação tenha tido começo de execução, ou da data da sua publicação ou notificação aos interessados.
+
+§ único. Exceptuam-se do disposto neste artigo, podendo ser impugnada a sua legalidade a todo o tempo:
+
+1.º As deliberações e decisões nulas e de nenhum efeito;
+
+2.º As posturas e regulamentos policiais;
+
+3.º As deliberações que criem impostos não permitidos por lei.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 829.º
+
+As acções sôbre contratos administrativos podem ser interpostas a todo o tempo, e as de responsabilidade civil dentro dos três anos seguintes à efectivação da ofensa que as legitimar.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 831.º
+
+As sentenças proferidas pelos auditores administrativos, quando passadas em julgado, têm fôrça executiva.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 832.º
+
+Na execução das sentenças proferidas pelos auditores proceder-se-á do seguinte modo:
+
+1.º Se o exeqüendo fôr um corpo administrativo e êste não deliberar dar execução à sentença no prazo de três meses contados da data do trânsito em julgado, assim o participará o exeqüente ao auditor administrativo. Recebida a participação, o auditor remetê-la-á à Direcção Geral de Administração Política e Civil, para que se ordene a execução pedida, sob pena de dissolução do corpo administrativo;
+
+2.º Se o exeqüendo fôr uma pessoa colectiva de utilidade pública administrativa, proceder-se-á nos mesmos termos do número anterior, mas o processo será remetido ao governador civil respectivo;
+
+3.º Em todos os outros casos em que a execução deva correr contra algum órgão da administração pública, remeterá o auditor o processo à entidade que sôbre aquele exerça poder hierárquico ou de mera inspecção;
+
+4.º Se o exeqüendo fôr algum particular, a execução será promovida pelos interessados nos tribunais comuns, com base na sentença do auditor.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+### Capítulo III — Da competência contenciosa do Supremo Tribunal Administrativo
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 833.º
+
+Compete ao Supremo Tribunal Administrativo, como tribunal do contencioso da administração local, julgar:
+
+1.º Os recursos interpostos das decisões dos auditores;
+
+2.º Todos os demais recursos confiados por lei ao seu julgamento.
+
+§ único. Em tudo o que sôbre competência do Supremo Tribunal Administrativo não se encontre regulado neste Código aplicar-se-ão as disposições das respectivas leis e regulamentos especiais.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+## Título III — Do processo nas auditorias
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+### Capítulo I — Dos recursos da competência dos auditores
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+#### Secção I — Articulados
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 834.º
+
+Os recursos contenciosos da competência dos auditores serão sempre interpostos por petição.
+
+§ 1.º O recurso considera-se interposto na data em que a petição dê entrada na secretaria da auditoria.
+
+§ 2.º Os recorrentes são obrigados a constituir advogado que tenha escritório ou escolha domicílio na sede da auditoria.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 835.º
+
+Na petição deverá o recorrente mencionar o acto recorrido e indicar a autoridade ou órgão que o tiver praticado, expor com a maior clareza e concisão os factos e as razões de direito em que se funda o recurso e formular precisamente o pedido.
+
+§ 1.º Os fundamentos do recurso serão deduzidos por artigos numerados.
+
+§ 2.º Se além da autoridade ou órgão que praticar o acto recorrido houver, à data da interposição do recurso, pessoas a quem a procedência dêste possa directamente prejudicar e que por isso nêle sejam interessadas, deverá o recorrente requerer a respectiva citação na petição inicial.
+
+§ 3.º Podem cumular-se no mesmo recurso pedidos compatíveis e entre si conexos ou dependentes, e, em especial, o pedido de anulação de um acto administrativo com o de indemnização de perdas e danos ou de condenação em multa.
+
+§ 4.º É permitida a coligação de recorrentes quando o recurso seja interposto do mesmo acto administrativo e tenha o mesmo fundamento jurídico.
+
+§ 5.º A petição será acompanhada de tantos duplicados quantas as entidades e pessoas a citar.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 836.º
+
+A petição será instruída com certidão ou cópia autêntica da decisão ou deliberação recorrida, ou com contrafé da respectiva notificação, ou ainda com um exemplar da publicação oficial em que tenha sido inserta por extracto ou na íntegra.
+
+§ 1.º Quando o recurso seja interposto de acto tácito resultante da passividade da administração, a petição será instruída ùnicamente com a cópia do requerimento sem resolução, na qual tenha sido passado recibo pelos serviços onde deu entrada o original.
+
+§ 2.º Se ao recorrente tiver sido recusado o documento comprovativo da decisão ou deliberação recorrida, pedido quinze dias antes, pelo menos, do têrmo do prazo para a interposição do recurso, assim o declarará na própria petição inicial, indicando duas testemunhas da recusa.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 837.º
+
+Logo que a petição dê entrada na secretaria da auditoria, será autuada e registada em livro especial, em que se mencionem os nomes do recorrente e dos recorridos, o número de ordem do processo, a data da sua apresentação, a natureza do pedido e, em notas sucessivas, rubricadas pelo secretário da auditoria, o expediente que tiver até final decisão.
+
+§ 1.º As petições e os documentos que as instruam serão imediatamente numerados e rubricados pelo secretário, o qual lançará também nêles uma nota do registo, contendo o número de ordem, a data da apresentação e as fôlhas do livro onde estiverem registados.
+
+§ 2.º Aos reclamantes dar-se-á, quando o requeiram, certificado do registo e recibo dos documentos com que tiverem instruído a petição.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 838.º
+
+Se da petição e dos documentos anexos se mostrar que o recurso foi apresentado fora de tempo ou é manifestamente ilegal ou que o fôro administrativo é incompetente, será indeferido in limine e dar-se-á baixa no registo.
+
+§ 1.º As deficiências de forma ou de instrução da petição, e bem assim a irregularidade de representação do recorrente, não são motivos de indeferimento imediato, mas se, notificado o recorrente para as suprir ou regularizar no prazo que lhe fôr marcado, não apresentar nova petição, será então indeferido in limine o recurso.
+
+§ 2.º Se o recorrente suprir ou regularizar as deficiências, considera-se o recurso interposto na data em que a primeira petição tenha dado entrada na secretaria.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 839.º
+
+Quando não ocorra nenhum dos casos previstos no artigo anterior e se mostrar feito o preparo, proferirá o auditor o despacho de recebimento do recurso.
+
+§ 1.º O despacho deve ser proferido nos cinco dias depois de feito o preparo ou da apresentação da nova petição organizada nos termos do § 1.º do artigo anterior.
+
+§ 2.º No despacho de recebimento ordenará o auditor a citação do autor do acto recorrido e dos demais interessados no recurso.
+
+§ 3.º Se o recorrente requerer na petição a suspensão da executoriedade do acto recorrido, o auditor resolverá no despacho de recebimento, que em tal caso será proferido mesmo em férias, se é de conceder ao recurso o efeito suspensivo.
+
+§ 4.º Verificando-se a hipótese prevista no § 2.º do artigo 836.º, o auditor ordenará que na citação se dê conhecimento à autoridade ou órgão recorrido de que deve, com a contestação, juntar o documento recusado, sob pena de multa até (euro) 49,88 aplicável no próprio processo aos responsáveis pela desobediência.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 840.º
+
+A citação tem por objecto chamar os citados a contestar o recurso no prazo de dez dias. No acto da citação serão advertidos de que a falta de contestação importa confissão dos factos articulados pelo recorrente.
+
+§ 1.º A citação das autoridades, órgãos da administração local e pessoas colectivas de utilidade pública administrativa far-se-á por ofício enviado pelo correio sob registo.
+
+§ 2.º A citação dos particulares será feita pelo oficial de diligências da auditoria ou, fora da sede da auditoria, pelos oficiais de diligências das câmaras municipais, mediante requisição do auditor dirigida aos respectivos presidentes.
+
+§ 3.º No despacho que ordenar citação a fazer fora da sede da auditoria marcará o auditor prazo de dilação consoante o disposto na lei de processo civil.
+
+§ 4.º Aplica-se às notificações o disposto nos parágrafos anteriores quanto à citação.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 841.º
+
+Emquanto decorrer o prazo para contestação estará o processo patente na secretaria, durante as horas de serviço, a fim de as partes o poderem examinar e tirar os necessários apontamentos. Se pedirem quaisquer certidões, ser-lhes-ão passadas imediatamente.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 842.º
+
+A contestação será deduzida por artigos, apresentada na secretaria dentro do prazo de dez dias a contar da citação ou do têrmo da dilação, e não haverá mais articulados no processo.
+
+§ único. Nos recursos dos actos do governador civil a contestação reveste a forma de resposta, nos mesmos termos prescritos para os recursos dos actos do Governo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 842.º do/a [Decreto-Lei n.º 219/73 - Diário do Governo n.º 111/1973, Série I de 1973-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1973-422233)
+
+###### Artigo 843.º
+
+Junta a contestação ou decorrido o prazo para ela, o auditor, no prazo de quinze dias, proferirá despacho saneador, apreciando se as partes são legítimas e estão devidamente representadas e resolvendo as questões prévias e prejudiciais que possam obstar ao conhecimento do fundo da questão, se o processo já fornecer elementos para a decisão, ou deferindo-a para a sentença final, no caso contrário.
+
+§ único. Suprimido.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+#### Secção II — Prova
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 844.º
+
+O recorrente e os recorridos juntarão, com os articulados, toda a prova documental, destinada a demonstrar a verdade dos factos nêles alegados.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 845.º
+
+Quando no recurso se alegar matéria de facto e o processo houver de prosseguir, o auditor, no próprio despacho saneador, especificará os factos que considera confessados, admitidos por acôrdo das partes ou provados por documentos, e elaborará conjuntamente um questionário em que fixe, por ordem numérica, os pontos de facto controvertidos cujo apuramento interesse à resolução do recurso, ordenando por fim que as partes apresentem o rol de testemunhas e requeiram a produção de prova por quaisquer outros meios admitidos em juizo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 846.º
+
+§ único. Havendo deferimento destas reclamações que importe modificação dos quesitos, o auditor ordenará que as partes, no prazo de cinco dias, alterem o rol de testemunhas em relação às modificações havidas.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 847.º
+
+A produção da prova reger-se-á pelo disposto na lei de processo civil em tudo que não fôr contrário ao preceituado neste Código.
+
+§ 1.º Não é admissível depoïmento de parte.
+
+§ 2.º As testemunhas serão inquiridas pelo auditor ou juiz deprecado e os depoïmentos serão sempre reduzidos a escrito.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+#### Secção III — Discussão e julgamento
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 848.º
+
+Concluída a produção de prova, será o processo continuado com vista aos advogados do recorrente e do recorrido e ao Ministério Público, para alegarem por escrito.
+
+§ único. O auditor fixará o prazo de vista a cada advogado entre dez e trinta dias, conforme a complexidade do recurso, sendo sempre de quinze dias o prazo de vista do Ministério Público.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 849.º
+
+Seguidamente o auditor proferirá sentença no prazo de vinte dias.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 850.º
+
+O recorrente pode desistir em qualquer estado do recurso, sem embargo da faculdade que assiste ao Ministério Público de promover a prossecução, até final, no exercício da acção pública.
+
+§ único. Para o efeito do disposto neste artigo, o auditor, julgada a desistência, dará vista do processo ao Ministério Público.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+### Capítulo II — Das acções
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 851.º
+
+Revestirão a forma de acção as questões submetidas ao julgamento dos auditores que versem a interpretação, validade ou execução dos contratos administrativos e a efectivação da responsabilidade das autarquias locais proveniente da não execução dos contratos administrativos ou de facto dos respectivos corpos administrativos, seus funcionários ou agentes.
+
+§ único. Exceptuam-se as questões surgidas da impugnação de decisões ou deliberações definitivas e executórias sôbre validade ou execução dos contratos administrativos, que tomarão a forma de recurso contencioso.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 852.º
+
+As acções da competência dos auditores seguirão os termos do processo civil comum.
+
+§ 1.º A discussão será sempre escrita, aplicando-se-lhe, bem como a produção da prova, o disposto para o processo do recurso contencioso.
+
+§ 2.º Nas acções sôbre interpretação ou validade dos contratos administrativos empregar-se-á sempre o processo sumário, e nas restantes o processo ordinário, independentemente do valor da causa.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+### Capítulo III — Dos recursos das decisões dos auditores
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 853.º
+
+As decisões dos auditores podem ser impugnadas por meio de recurso de apelação, de agravo ou de queixa interposto para a secção do contencioso administrativo do Supremo Tribunal Administrativo.
+
+§ único. As auditorias não têm alçada.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 854.º
+
+Não admitem recurso os despachos de mero expediente, nem os proferidos no uso legal de um poder discricionário.
+
+§ único. Nos despachos de mero expediente compreendem-se os que se destinam a regular, de harmonia com a lei, os termos do processo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 855.º
+
+Podem recorrer os que tiverem ficado vencidos pela decisão do auditor ou que tiverem apresentado o requerimento por êle indeferido.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 856.º
+
+O recurso abrangerá toda a decisão proferida, podendo o Supremo Tribunal Administrativo conhecer, sem restrições, da matéria de direito para o efeito de averiguar da legalidade do acto administrativo submetido à fiscalização contenciosa, sem embargo de o julgado em recurso ter sido parcialmente favorável ao ora recorrente.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 857.º
+
+Compete recurso de apelação nos casos em que é admitido em processo civil.
+
+§ único. A apelação suspende sempre a execução da decisão apelada.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 858.º
+
+Compete recurso de agravo das decisões susceptíveis de recurso de que não pode apelar-se.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 859.º
+
+Têm efeito suspensivo e sobem imediatamente nos próprios autos os agravos interpostos:
+
+a) Do despacho que indeferir in limine a petição inicial;
+
+b) Do despacho de recebimento do recurso interposto para o auditor, que tenha recusado a citação do autor do acto recorrido;
+
+c) Do despacho saneador que puser têrmo ao processo;
+
+d) Do despacho que resolver a matéria das reclamações formuladas contra o despacho saneador;
+
+e) Do despacho pelo qual o juiz se declare impedido ou indefira o impedimento oposto por alguma das partes;
+
+f) Da decisão proferida sôbre conflito de jurisdição ou competência;
+
+g) Do despacho que anule todo o processo ou julgue incompetente o tribunal.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 860.º
+
+Os agravos não mencionados no artigo anterior sobem nos próprios autos, mas a final, para serem conhecidos com o recurso de apelação, e não têm efeito suspensivo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 861.º
+
+O recurso de agravo do despacho de recebimento do recurso contencioso que tenha resolvido suspender ou não suspender o acto administrativo impugnado será interposto no prazo de quarenta e oito horas e sobe nos próprios autos, imediatamente, mesmo em férias, não produzindo efeito suspensivo quanto a esta parte do despacho.
+
+§ único. Para o julgamento dêste recurso no Supremo Tribunal Administrativo também não há férias.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+### Capítulo IV — Direito subsidiário
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 862.º
+
+Em tudo o que não estiver especialmente previsto no presente título observar-se-á o disposto para o processo civil.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+Ministério do Interior, 31 de Dezembro de 1940. - O Ministro do Interior, Mário Pais de Sousa.
+
+ÍNDICE
+
+PARTE I
+
+Da organização administrativa
+
+(ver documento original)
+
+PARTE II
+
+Dos funcionários administrativos e dos assalariados
+
+(ver documento original)
+
+PARTE III
+
+Das finanças locais
+
+(ver documento original)
+
+PARTE IV
+
+Do contencioso administrativo
+
+(ver documento original)
+
+## Anexo TABELA A — Ordenados e quadros
+
+I
+
+Vencimentos dos governadores e vice-governadores civis
+
+(ver documento original)
+
+Os governadores e vice-governadores civis dos distritos de Lisboa e do Porto e os dos outros distritos do continente têm direito aos subsídios mensais de 5000$00 e 3000$00, respectivamente, para despesas de representação.
+
+Quando o exercício do cargo obrigue o governador civil, o vice-governador civil ou ambos a mudança de residência, e esta não seja facultada em edifício público, abonar-se-á o subsídio mensal de habitação de 5000$00. O direito ao subsídio será reconhecido por despacho do Ministro da Administração Interna.
+
+Ordenados e subsídios para despesas de representação dos presidentes das câmaras municipais
+
+(ver documento original)
+
+II
+
+(ver documento original)
+
+III
+
+Ordenados dos directores de serviços das câmaras municipais
+
+(ver documento original)
+
+IV
+
+A) Pessoal do quadro geral administrativo dos serviços externos do Ministério do Interior e respectivos ordenados
+
+(ver documento original)
+
+B) (Revogada)
+
+V
+
+Ordenados do pessoal maior dos serviços especiais
+
+(ver documento original)
+
+Outros serventuários não especificados
+
+O que fôr arbitrado pelos corpos administrativos, segundo as regras normais das equiparações, não podendo ultrapassar o ordenado dos chefes de secretaria, salvo quando haja deliberação aprovada pelo Ministro do Interior.
+
+VI
+
+Ordenados do pessoal menor dos governos civis e administrações de bairro
+
+(ver documento original)
+
+VII
+
+Ordenados do pessoal menor, especializado e operário das câmaras municipais e juntas de província
+
+(ver documento original)
+
+Outros serventuários não especificados
+
+O que for arbitrado pelos corpos administrativos, não podendo ultrapassar 500$00, salvo nos casos especialmente autorizados pelo Ministro do Interior.
+
+VIII
+
+Quadro do pessoal maior das secretarias dos governos civis, administrações dos bairros, secretarias e tesourarias das câmaras municipais e juntas do província.
+
+(ver documento original)
+
+TABELA B
+
+Taxas
+
+(ver documento original)
+
+TABELA C
+
+Serviços de incêndios
+
+(ver documento original)
+
+Ministério do Interior, 31 de Dezembro de 1940. - O Ministro do Interior, Mário Pais de Sousa.
+
+> Nota: [Artigo 13.º, Lei n.º 44/77 - Diário da República n.º 143/1977, Série I de 1977-06-23](https://diariodarepublica.pt/dr/detalhe/lei/44-1977-250400) A Lei n.º 44/77, de 23 de junho, altera o capítulo II da tabela A, que passa a ter a seguinte redação: Subsídios dos presidentes das câmaras municipais, comissões administrativas dos vereadores em regime de permanência e dos administradores de bairro a que se refere o artigo 109.º-A do Código Administrativo. 1. Presidentes das Câmaras Municipais e Comissões administrativas de: Lisboa e Porto ... 26000$00 Outros concelhos urbanos de 1.ª ordem e concelhos rurais de 1.ª ordem com sede em capital de distrito ... 20000$00 Concelhos rurais de 1.ª ordem e urbanos de 2.ª ordem ... 15000$00 Concelhos rurais de 2.ª ordem e urbanos de 3.ª ordem ... 13000$00 Concelhos rurais de 3.ª ordem ... 12000$00 2. Vereadores em regime de permanência em: Lisboa e Porto ... 20000$00 Outros concelhos urbanos de 1.ª ordem e concelhos rurais de 1.ª ordem com sede em capital de distrito ... 16000$00 Concelhos rurais de 1.ª ordem e urbanos de 2.ª ordem ... 13000$00 Concelhos rurais de 2.ª ordem ... 10000$00 3. Administradores de bairro ... 10100$00
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 83/77 - Diário da República n.º 55/1977, Série I de 1977-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1977-140355) capítulo I da tabela A anexa ao Código Administrativo passa a ter a seguinte redacção: Vencimentos dos governadores e vice-governadores civis a) Governadores civis: Lisboa e Porto ... 26000$00 Outros distritos ... 22000$00 b) Vice-governadores civis: Lisboa e Porto ... 21000$00 Outros distritos ... 19000$00
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 530/74 - Diário do Governo n.º 235/1974, Série I de 1974-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1974-472892) O n.º I da tabela A (ordenados e quadros) anexa ao Código Administrativo passa a ter a redacção seguinte: I Ordenados dos governadores civis e vice-governadores civis a) Governadores civis: Lisboa e Porto ... 16600$00 Outros distritos do continente ... 15000$00 b) Vice-governadores civis: Lisboa e Porto ... 15000$00 Outros distritos do continente ... 14000$00
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 130/70 - Diário do Governo n.º 71/1970, Série I de 1970-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1970-229149) Dada nova redação à alínea A) do capítulo IV, pelo Decreto-Lei n.º 130/70, de 25 de março: 1.ª categoria: ... 3.ª classe: ... Chefes de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, habilitados com concurso para a 1.ª categoria ou providos nos termos do artigo 488.º-A do Código Administrativo Chefes de secretaria das juntas distritais com sede em Lisboa e Porto, habilitados com concurso para a 1.ª categoria ou providos nos termos do artigo 488.º-A do Código Administrativo ... 2.ª categoria: 1.ª classe: Chefes de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, não habilitados com concurso para a 1.ª categoria nem providos nos termos do artigo 488.º-A do Código Administrativo ... ... Chefes de secretaria das juntas distritais com sede em Lisboa e Porto, não habilitados com concurso para a 1.ª categoria nem providos nos termos do artigo 488.º-A do Código Administrativo, e das demais juntas distritais ...
+
+> Nota: [Artigo 17.º, Decreto-Lei n.º 48755 - Diário do Governo n.º 291/1968, Série I de 1968-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48755-1968-261964) Dada nova redação ao capítulo V da tabela A: Veterinários municipais: ... Fixos Nos concelhos de 1.ª ordem ... 3600$00 Nos concelhos de 2.ª ordem ... 3000$00 Nos concelhos de 3.ª ordem ... 2700$00
+
+> Nota: [Artigo 2.º, Decreto-Lei n.º 35466 - Diário do Governo n.º 17/1946, Série I de 1946-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35466-1946-309962) O quadro do pessoal maior das administrações dos bairros, fixado na tabela A anexa ao Código Administrativo, passa a ser constituído por um secretário, dois aspirantes e três escriturários de 2.ª classe.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 83/77 - Diário da República n.º 55/1977, Série I de 1977-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1977-140355), produz efeitos a partir de 1977-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 530/74 - Diário do Governo n.º 235/1974, Série I de 1974-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1974-472892)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41060 - Diário do Governo n.º 81/1957, Série I de 1957-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41060-1957-651556)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 39447 - Diário do Governo n.º 260/1953, Série I de 1953-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+## Anexo TABELA B — Taxas
+
+Taxas e licenças
+
+I
+
+Secretaria
+
+Taxas
+
+Artigo 1.º Taxas a cobrar pela prestação dos seguintes serviços:
+
+... Taxas fixas
+
+1) Afixação de editais relativos a pretensões que não sejam de interesse público - cada edital ... 60$00
+
+2) Alvará de trasladação de cadáveres ... 100$00
+
+3) Atestados ... 20$00
+
+4) Autos de adjudicação ou arrematação, de fornecimentos ou semelhantes ... 50$00
+
+5) Averbamentos ... 10$00
+
+6) Buscas - por cada ano, exceptuando o corrente ou aquele que expressamente se indique:
+
+a) Aparecendo o objecto da busca ... 10$00
+
+b) Não aparecendo o objecto da busca ... 5$00
+
+7) Certidões de teor:
+
+a) Não excedendo uma lauda com vinte e cinco linhas ... 15$00
+
+b) Por cada lauda além da primeira, ainda que incompleta ... 10$00
+
+8) Certidões de narrativa: o dobro da rasa.
+
+9) Certidões de recenseamento eleitoral:
+
+a) Cada uma ... 10$00
+
+b) Por cada nome transcrito além de cinco ... 2$00
+
+10) Conferição e autenticação de documentos apresentados por particulares - por cada folha ... 5$00
+
+11) Fotocópias autenticadas de documentos arquivados:
+
+1) Por cada uma ... 10$00
+
+2) Por cada folha de positivo:
+
+a) De uma face ... 3$50
+
+b) De duas faces ... 5$50
+
+12) Registo de minas e de nascentes de águas mineromedicinais ... 200$00
+
+13) Registo de documentos avulsos ... 20$00
+
+14) Rubricas em livros, processos e documentos, quando legalmente exigidos - cada rubrica ... 1$00
+
+15) Termos de abertura e encerramento em livros sujeitos a esta formalidade - cada livro ... 20$00
+
+16) Termos de entrega de documentos juntos a processos, cuja restituição haja sido autorizada ... 20$00
+
+17) Termos de responsabilidade, identidade, idoneidade, justificação administrativa, ou semelhante ... 40$00
+
+Art. 2.º Fornecimento, a pedido dos interessados, de documentos necessários à substituição dos que tenham sido extraviados ou estejam em mau estado - cada documento ... 10$00
+
+Art. 3.º Outras pretensões de interesse particular, ou prestações de serviços ao público, quando não haja taxa especialmente prevista:
+
+A fixar pelos corpos administrativos.
+
+Observações:
+
+1.ª Sobre as taxas do artigo 1.º incidirá um adicional de 30 por cento para o Estado.
+
+2.ª Ficam isentos de taxa os atestados de pobreza ou indigência, os que se destinem a instruir processos para concessão de abono de família e quaisquer outros que estejam isentos de imposto do selo.
+
+3.ª Pelos actos notariais que o chefe da secretaria praticar como notário privativo da câmara serão devidos os emolumentos fixados na tabela anexa ao Decreto-Lei n.º 47619, de 31 de Março de 1967, os quais, salvo o estatuído no § único do artigo 28.º do Decreto-Lei n.º 45248, de 16 de Setembro de 1963, lhe pertencerão integralmente, em conformidade com o preceituado no § único do artigo 533.º do Código Administrativo.
+
+II
+
+Armas e ratoeiras de fogo, furões e exercício de caça
+
+Art. 4.º Uso, porte e transacção de armas de fogo e montagem de ratoeiras de fogo:
+
+As receitas a cobrar são as fixadas na tabela B anexa ao Decreto-Lei n.º 37313, de 21 de Fevereiro de 1949.
+
+Art. 5.º Licenças relativas ao exercício da caça:
+
+As taxas a cobrar são as estabelecidas no Regulamento da Caça, promulgado pelo Decreto n.º 47847, de 14 de Agosto de 1967.
+
+Observação:
+
+As taxas das licenças referidas neste capítulo são excluídas da incidência do adicional de 30 por cento previsto no § único do artigo 724.º do Código Administrativo.
+
+III
+
+Registo de cães
+
+SECÇÃO I
+
+Licenças
+
+... Máximos
+
+Art. 7.º Cães de guarda - por animal e por ano ... 20$00
+
+Art. 8.º Outros cães - por animal e por ano:
+
+a) Em Lisboa e Porto ... 80$00
+
+b) Nos outros concelhos ... 60$00
+
+SECÇÃO II
+
+Taxas
+
+Art. 9.º Chapas de canídeos:
+
+... Máximos
+
+a) Chapa anual ... 1$00
+
+b) Substituições, a pedido do interessado ... 2$50
+
+Observações:
+
+1.ª Consideram-se cães de guarda os destinados exclusivamente a guias de cegos e à guarda de rebanhos, de embarcações ou de propriedades situadas em zonas insuficientemente policiadas, a definir pela autoridade policial.
+
+2.ª os cães de guarda das pessoas colectivas de utilidade pública administrativa, dos estabelecimentos do Estado e dos corpos administrativos e os que sirvam de guias a cegos estão isentos de taxa de licença.
+
+3.ª As câmaras podem conceder aos caçadores com arma de fogo a redução da taxa de licença até 50 por cento da relativa a outros cães, devendo, neste caso, a prova de caçador fazer-se pela apresentação da licença de uso e porte de arma de caça e da licença de caça.
+
+4.ª As licenças iniciais e as suas renovações serão solicitadas de harmonia com a legislação especial.
+
+IV
+
+Obras
+
+SECÇÃO I
+
+Licenças
+
+SUBSECÇÃO I
+
+Inscrição de técnicos
+
+Art. 10.º Inscrição:
+
+... Máximos
+
+1) Para assinar projectos ... 100$00
+
+2) Para assinar projectos e dirigir obras ... 250$00
+
+SUBSECÇÃO II
+
+Execução de obras
+
+... Máximos
+
+Art. 11.º Registo de declarações de responsabilidade de técnicos - por técnico e por cada obra ... 30$00
+
+Art. 12.º Taxa geral a aplicar em todas as licenças:
+
+1) Por período até quinze dias ou fracção ... 30$00
+
+2) Por período superior a quinze dias e por cada mês ou fracção ... 60$00
+
+Art. 13.º Taxas especiais a acumular com o do artigo anterior, quando devidas:
+
+1) Construção, reconstrução ou modificação de muros de suporte ou de vedação ou de outras vedações definitivas confinantes com a via pública - por metro linear ou fracção ... 10$00
+
+2) Construção, reconstrução ou modificação de vedações provisórias confinantes com a via pública - por metro linear ou fracção ... 5$00
+
+3) Construção, reconstrução ou modificação de telheiros, hangares, barracões, alpendres, capoeiras e congéneres, quando de tipo ligeiro - por metro quadrado ou fracção ... 3$00
+
+4) Construção, reconstrução ou modificação de terraços no prolongamento dos pavimentos dos edifícios ou quando sirvam de cobertura utilizável em logradouro, esplanada, etc. - por metro quadrado ou fracção ... 2$50
+
+5) Instalação de ascensores e monta-cargas (incluindo os respectivos motores) - cada ... 200$00
+
+6) Modificação das fachadas dos edifícios, incluindo a abertura, ampliação ou fechamento de vãos de portas e janelas - por metro quadrado ou fracção da superfície modificada ... 15$00
+
+7) Obras de construção nova, de ampliação, da reconstrução ou de modificação - por metro quadrado ou fracção e relativamente a cada piso ... 6$00
+
+8) Obras de beneficiação exterior:
+
+a) Edifícios - por piso:
+
+Até dois pisos ... 30$00
+
+De mais de dois pisos ... 50$00
+
+b) Pavilhões ou congéneres, instalados na via pública - por cada um ... 40$00
+
+9) Demolições:
+
+a) Edifícios - por piso demolido ... 70$00
+
+b) Pavilhões ou congéneres, instalados na via pública - cada um ... 50$00
+
+Art. 14.º Corpos salientes de construções, na parte projectada sobre vias públicas, logradouros ou outros lugares públicos, sob administração municipal - Taxas a acumular com as dos artigos 12.º e 13.º, por piso e por metro quadrado ou fracção:
+
+a) Varandas, alpendres integrados na construção, janelas de sacada e semelhantes ... 100$00
+
+b) Outros corpos salientes destinados a aumentar a superfície útil da edificação ... 200$00
+
+Observações:
+
+1.ª As medidas em superfície abrangem a totalidade da área a construir, reconstruir ou modificar, incluindo a espessura das paredes, varandas, sacadas, marquises e balcões e a parte que em cada piso corresponde às caixas, vestíbulos das escadas, ascensores e monta-cargas.
+
+2.ª Quando para a liquidação das taxas de licença houver que efectuar medições, far-se-á um arredondamento por excesso no total de cada espécie.
+
+3.ª A cada prédio corresponderá uma licença de obras.
+
+4.ª Quando a obra tenha sido ou esteja sendo executada sem licença, as taxas a aplicar às licenças a conceder serão acrescidas de uma sobretaxa correspondente ao dobro da taxa geral, em função do prazo, independentemente da multa a que haja lugar.
+
+5.ª As licenças caducam no dia que for indicado, tendo, porém, a tolerância de:
+
+a) Cinco dias nas licenças de prazo igual ou inferior a trinta dias;
+
+b) Dez dias nas de prazo superior a trinta dias.
+
+6.ª As licenças concedidas por tempo superior a trinta dias caducam quando a obra esteja interrompida por mais de trinta dias sem justificação aceite pelo presidente da câmara.
+
+Tratando-se de obra dependente de aprovação de projecto, caduca a validade da deliberação municipal que concedeu a licença, pelo que a obra não poderá ser iniciada ou prosseguir sem que o projecto seja novamente apreciado.
+
+Igual caducidade se opera quando a licença não seja solicitada dentro do prazo de um ano a contar da data do deferimento do pedido.
+
+7.ª Quando a prorrogação for solicitada antes de terminado o prazo de validade da licença, incluindo a tolerância fixada na observação 5.ª, cobrar-se-á apenas a taxa geral.
+
+Se a prorrogação for solicitada para além do referido prazo, acrescerá a sobretaxa prevista na observação 4.ª
+
+8.ª A taxa da alínea 7) do artigo 13.º não é aplicável a reconstruções ou modificações que não impliquem construção, supressão ou substituição de paredes interiores ou exteriores.
+
+9.ª As taxas da alínea a) do artigo 14.º só serão devidas quando o avanço sobre a via pública exceda 80 cm.
+
+10.ª Poderão as taxas das licenças de obras nas cidades de Lisboa e Porto variar segundo o local e categoria do arruamento e elevar-se, neste caso, as taxas do 1.º escalão até mais 20 por cento das fixadas nesta tabela. Fora daquelas cidades poderão também graduar-se as taxas segundo a importância do local, sem nunca se excederem os máximos da tabela.
+
+SUBSECÇÃO III
+
+Ocupação da via pública por motivo de obras
+
+Art. 15.º Ocupação da via pública delimitada por resguardos ou tapumes:
+
+1) Tapumes ou outros resguardos - por cada período de trinta dias ou fracção:
+
+... Máximos
+
+a) Por piso do edifício por eles resguardado e por metro linear ou fracção, incluindo cabeceiras ... 2$00
+
+b) Por metro quadrado ou fracção da superfície da via pública ... 8$00
+
+2) Andaimes - por andar ou pavimento a que correspondam (mas só na parte não defendida pelo tapume) - por metro linear ou fracção e por cada trinta dias ou fracção ... 2$00
+
+Art. 16.º Ocupação da via pública fora dos tapumes ou resguardos:
+
+1) Caldeiras ou tubos de descarga de entulho - por unidade e por cada trinta dias ou fracção ... 60$00
+
+2) Amassadouros, depósitos de entulho ou materiais e outras ocupações autorizadas para obras - por metro quadrado ou fracção e por cada trinta dias ou fracção ... 20$00
+
+Observações:
+
+1.ª As licenças desta subsecção não podem terminar em data posterior à do termo da licença de obras a que respeitam, incluindo os prazos de tolerância, que também lhes são aplicáveis.
+
+2.ª Quando os tapumes e outros resguardos forem também utilizados para publicidade que não seja constituída por simples cartazes, as taxas a aplicar poderão ser elevadas até ao dobro.
+
+SUBSECÇÃO IV
+
+Utilização de edificações
+
+... Máximos
+
+Art. 17.º Licenças para habitação - por fogo e seus anexos ... 50$00
+
+Art. 18.º Outras licenças de utilização - por cada 50 m2 ou fracção e relativamente a cada piso ... 40$00
+
+Observações:
+
+1.ª Nos prédios utilizados para habitação e para outros fins haverá lugar à cobrança das taxas dos artigos 17.º e 18.º
+
+2.ª Verificando-se a utilização sem licença, as taxas serão o triplo das taxas normais, independentemente da penalidade a que haja lugar.
+
+3.ª Tratando-se de grandes instalações com vários edifícios, a taxa do artigo 18.º conta-se relativamente a cada edifício.
+
+SUBSECÇÃO V
+
+Prorrogação de prazos para início da execução obrigatória de obras
+
+Art. 19.º Para obras periódicas de reparação e beneficiação geral:
+
+... Máximos
+
+1) De edifícios - por cada trinta dias ou fracção e por piso ... 15$00
+
+2) De muros de suporte ou de vedação ou de outras vedações confinantes com a via pública ou dela divisáveis - por cada período de trinta dias ou fracção e por cada extensão de 10 m ou fracção ... 3$00
+
+3) De pavilhões ou congéneres instalados na via pública - por cada um e por trinta dias ou fracção ... 50$00
+
+4) De outras construções, incluindo barracas, telheiros e similares - por trinta dias ou fracção e por cada um ... 6$00
+
+Art. 20.º Para outras obras intimadas pela câmara - por período de trinta dias ou fracção ... 25$00
+
+SECÇÃO II
+
+Taxas
+
+Art. 21.º Vistorias (incluindo deslocação e remuneração de peritos e outras despesas):
+
+1) Para licenças de utilização:
+
+... Máximos
+
+a) Um fogo e seus anexos ou unidade de ocupação (estabelecimento, garagem, etc.) ... 300$00
+
+b) Por cada fogo ou unidade de ocupação a mais ... 20$00
+
+2) Vistorias necessárias para prorrogação de prazo de obras de reparação e beneficiação ... 100$00
+
+3) Outras vistorias ... 300$00
+
+Art. 22.º Serviços diversos:
+
+1) Averbamento em processo e licença de obra de nome do novo proprietário do prédio ... 100$00
+
+2) Fornecimento de novo boletim de responsabilidade ou de folha de fiscalização - por cada um ... 10$00
+
+3) Reprodução de desenhos em papel de cópia, ozalide ou semelhante - por metro quadrado ou fracção ... 70$00
+
+4) Autenticação de documentos - por cada documento ... 10$00
+
+Observações:
+
+1.ª Os peritos não funcionários municipais serão pagos pela câmara em função das vistorias realizadas.
+
+Pela intervenção de peritos do Estado pagará a câmara a este a quantia de 50$00 por cada um, salvo se por ela for devida ao Estado taxa que englobe a respectiva remuneração.
+
+2.ª As vistorias só serão ordenadas depois de pagas as taxas.
+
+3.ª Não se realizando a vistoria por motivo estranho ao serviço municipal, só poderá ordenar-se outra vistoria depois de pagas novas taxas.
+
+V
+
+Higiene e salubridade
+
+SECÇÃO I
+
+Licenças
+
+Art. 23.º Alvarás de licença de hotéis, restaurantes, casas de chá, cafés, cervejarias, botequins (bares) e pensões:
+
+... Máximos
+
+a) Hotéis ... 1500$00
+
+b) Restaurantes, casas de chá, cafés, cervejarias e botequins (bares) ... 900$00
+
+c) Pensões ... 400$00
+
+Art. 24.º Alvarás de licença de pousadas, estalagens, pastelarias, confeitarias, leitarias, mercearias, estabelecimentos de venda de pão que não estejam anexos aos estabelecimentos de fabrico, casas de pasto, casas de hóspedes, hospedarias, tabernas e outros estabelecimentos abrangidos pelo artigo 40.º da Portaria n.º 6065, de 30 de Março de 1929:
+
+... Máximos
+
+a) Pousadas e estalagens ... 1000$00
+
+b) Pastelarias, confeitarias e leitarias ... 700$00
+
+c) Mercearias, estabelecimentos de venda de pão, casas de pasto, casas de hóspedes, hospedarias, tabernas e outros estabelecimentos não especificados ... 400$00
+
+Art. 25.º Alvarás de outros estabelecimentos sujeitos a licenciamento sanitário:
+
+a) De 1.ª classe ... 300$00
+
+b) De 2.ª classe ... 200$00
+
+c) De 3.ª classe ... 100$00
+
+Observações:
+
+1.ª O licenciamento dos estabelecimentos explorados por associações desportivas, recreativas e outras pode ser isento de taxas se a câmara o deliberar.
+
+2.ª Quando seja requerido alvará para a exploração no mesmo local de estabelecimento com mais de uma classificação, serão cobradas apenas as taxas correspondentes à classificação mais elevada.
+
+3.ª Se em estabelecimento já licenciado pretender exercer-se modalidade diversa também sujeita a licenciamento, haverá lugar a novo alvará.
+
+4.ª Pelas vistorias a realizar para licenciamento sanitário serão devidos os honorários dos peritos e subsídios de transporte fixados na lei.
+
+SECÇÃO II
+
+Taxas
+
+Art. 26.º Vistorias a habitações pela mudança de inquilinos - por cada vistoria, incluindo deslocação e remuneração de peritos e outras despesas a efectuar pela câmara:
+
+... Máximos
+
+a) Até quatro divisões ... 80$00
+
+b) Por cada divisão além de quatro ... 10$00
+
+Art. 27.º Limpeza e saneamento urbanos:
+
+1) Regas em locais particulares - por hora ou fracção:
+
+a) Com viatura automóvel ... 90$00
+
+b) Com viatura hipomóvel ou por outro modo ... 30$00
+
+2) Limpeza de fossas ou colectores particulares - por metro cúbico removido ou fracção ... 50$00
+
+3) Esgotos:
+
+Taxas a fixar de harmonia com a legislação especial.
+
+Art. 28.º Penso a animais - por animal e por cada período de vinte e quatro horas ou fracção:
+
+1) A canídeos e felinos ... 5$00
+
+2) A animais de capoeira ... 2$00
+
+3) A outros animais ... 10$00
+
+Art. 29.º Diversos:
+
+a) Fornecimento de água a particulares - por cada metro cúbico ... 10$00
+
+b) Utilização de sentinas públicas - cada ... $60
+
+Art. 30.º Averbamento no alvará do nome do seu novo proprietário ... 20$00
+
+Observações:
+
+1.ª As vistorias só serão ordenadas depois de pagas as taxas.
+
+2.ª Não se realizando a vistoria por motivo estranho ao serviço municipal, só poderá ordenar-se outra vistoria depois de pagas novas taxas.
+
+3.ª Para efeito da aplicação das taxas de vistoria não são contadas como divisões as que tiverem área inferior a 3 m2.
+
+4.ª A remuneração de peritos regula-se pelo disposto na observação 1.ª da secção II do capítulo IV.
+
+VI
+
+Cemitérios
+
+SECÇÃO I
+
+Taxas
+
+Art. 31.º Inumação em covais:
+
+... Máximos
+
+a) Sepulturas temporárias ... 60$00
+
+b) Sepulturas para pobres ... 20$00
+
+c) Sepulturas perpétuas:
+
+1) Em caixão de madeira ... 60$00
+
+2) Em caixão de chumbo ou zinco ... 500$00
+
+Art. 32.º Inumação em jazigos particulares ... 250$00
+
+Art. 33.º Inumação em jazigos municipais e sua ocupação:
+
+1) Por cada período de um ano ou fracção:
+
+a) Em compartimento dos 1.º e 2.º pisos ... 250$00
+
+b) Idem de outros pisos ... 150$00
+
+2) Com carácter de perpetuidade:
+
+a) Em compartimentos do 1.º e 2.º pisos ... 7000$00
+
+b) Idem de outros pisos ... 5000$00
+
+Art. 34.º Exumação - por cada ossada, incluindo limpeza e transladação dentro do cemitério ... 150$00
+
+Art. 35.º Ocupação de ossários municipais - cada ossada:
+
+1) Por cada período de um ano ou fracção ... 60$00
+
+2) Com carácter de perpetuidade ... 3000$00
+
+Art. 36.º Depósito transitório de caixões:
+
+1) Pelo período de vinte e quatro horas ou fracção ... 30$00
+
+2) Pelo período de quinze dias ou fracção, para efeito de obras ... 50$00
+
+Art. 37.º Concessão de terrenos:
+
+1) Para sepultura perpétua ... 3000$00
+
+2) Para jazigos:
+
+Pelos primeiros 3 m2 ou fracção ... 1200$00
+
+O quarto metro quadrado ... 800$00
+
+O quinto metro quadrado ... 1200$00
+
+O sexto metro quadrado ... 1600$00
+
+O sétimo metro quadrado ... 2000$00
+
+Cada metro quadrado ou fracção a mais ... 4000$00
+
+Art. 38.º Tratamento de sepulturas e sinais funerários:
+
+1) Ajardinamento de sepulturas:
+
+a) Pelo período de seis meses ou fracção ... 50$00
+
+b) Idem de um ano ... 75$00
+
+c) Idem de cinco anos ... 300$00
+
+2) Abaulamento:
+
+a) Pelo período de um ano ... 50$00
+
+b) Idem de cinco anos ... 200$00
+
+3) Grade ou semelhante:
+
+a) Colocação ... 20$00
+
+b) Aluguer, incluindo colocação e conservação - por ano ou fracção ... 50$00
+
+4) Construção da bordadura o sua conservação durante o período da inumação:
+
+a) Em argamassa de cimento ... 250$00
+
+b) Em cantaria ... 500$0
+
+5) Colocação de cruz ... 20$00
+
+6) Colocação de floreira em sepultura revestida ... 50$00
+
+Art. 39.º Utilização da capela e sua decoração:
+
+1) Utilização da capela, incluindo banqueta, tarima e tocheiros ... 40$00
+
+2) Armação da capela ... 500$00
+
+3) Utilização de paramentos e guisamentos da câmara, para missa ... 30$00
+
+Art. 40.º Serviços diversos:
+
+... Máximos
+
+1) Carreta suplementar ... 25$00
+
+2) Soldagem de caixão fora do cemitério:
+
+a) Dentro das horas de expediente ... 100$00
+
+b) Fora das horas de expediente ... 200$00
+
+3) Colocação de tampa com dobradiças e fechaduras, ou de lápide com epitáfio em compartimento de jazigo ou ossário municipal, sendo o material da câmara ... 500$00
+
+4) Transladação ... 100$00
+
+5) Averbamento em título de jazigo ou de sepultura perpétua ... 100$00
+
+Observações:
+
+1.ª As taxas de inumações incluem a utilização de cal, de carreta e de tarima para encomendação.
+
+2.ª Relativamente às taxas de ocupação de ossários municipais, podem as câmaras proceder ao seu desdobramento em fracções mensais, no primeiro ano da ocupação.
+
+3.ª As taxas de ocupação de ossários podem ser pagas relativamente a períodos superiores a um ano.
+
+4.ª Os direitos dos concessionários de terrenos ou de jazigos não poderão ser transmitidos por acto entre vivos sem autorização municipal e sem o pagamento de 50 por cento das taxas de concessão de terrenos que estiverem em vigor relativas à área do jazigo.
+
+5.ª Serão gratuitas as inumações de indigentes, podendo ser também isentas de taxas as inumações e exumações em talhões privativos.
+
+6.ª A taxa do artigo 37.º a cobrar em relação a terrenos destinados a ampliar construções já existentes será a que corresponder ao escalão da metragem desses terrenos no conjunto das áreas da ocupação e da ampliação a fazer.
+
+7.ª As câmaras podem exigir das agências funerárias depósito que garanta a cobrança das taxas pelos serviços prováveis a prestar por seu intermédio, durante determinado período.
+
+8.ª Nas inumações em jazigos municipais cobrar-se-á sempre a taxa correspondente à ocupação perpétua, havendo, porém, direito ao reembolso da taxa, abatida das anuidades vencidas, em caso de transladação.
+
+9.ª As taxas do n.º 1) do artigo 33.º só serão aplicadas para a cobrança das ocupações actualmente sujeitas a pagamento periódico.
+
+10.ª (transitória). Relativamente às inumações efectuadas anteriormente à vigência da presente tabela, considerar-se-ão perpétuas quando hajam sido pagas anuidades que somam quantia igual à fixada para inumação com carácter de perpetuidade.
+
+11.ª O pagamento das taxas de depósito perpétuo de ossadas poderá efectuar-se em quatro prestações trimestrais iguais e seguidas, sem qualquer aumento. A falta de pagamento de qualquer das prestações implica a conversão do depósito em temporário pelo período correspondente à importância já paga.
+
+12.ª A taxa do n.º 4) do artigo 40.º só é devida quando se trate de transferência de caixões ou urnas e não é acumulável com as taxas de exumação ou de inumação, salvo, quanto a esta, se a inumação se efectuar em sepultura.
+
+SECÇÃO II
+
+Licenças
+
+Art. 41.º Obras em jazigos e sepulturas perpétuas ou prorrogação do prazo para a execução de obras determinadas pela câmara:
+
+Aplicam-se as taxas e normas fixadas no capítulo «Obras».
+
+Observações:
+
+Poderão ser gratuitas as licenças quando se trate de talhões privativos ou de obras de simples limpeza e beneficiação quando requeridas e executadas por instituições de beneficência.
+
+VII
+
+Aproveitamento de bens destinados a utilização do público
+
+Taxas
+
+Art. 42.º Parques de estacionamento de viaturas:
+
+... Máximos
+
+a) Pelo período de quatro horas ou fracção ... 2$00
+
+b) Pelo período de vinte e quatro horas, com início às 2 horas ... 5$00
+
+Art. 43.º Apascentação de gado - por animal e por ano:
+
+... Máximos
+
+a) Bovinos ... 3$00
+
+b) Equídeos e asininos ... 2$50
+
+c) Ovinos ... $60
+
+d) Caprinos ... 1$00
+
+e) Suínos ... $50
+
+Nota. - Não são devidas taxas pela apascentação das crias.
+
+Art. 44.º Entradas em museus e locais vedados destinados ao conforto, comodidade ou recreio do público:
+
+A fixar pelas câmaras.
+
+Art. 45.º Utilização de terrenos de jardins e outros que não sejam considerados via pública:
+
+A fixar pelas câmaras segundo a utilidade prestada, a localização dos terrenos e outras razões de interesse público.
+
+Observações:
+
+1.ª Os limites máximos das taxas do artigo 42.º poderão ser excedidos mediante autorização do Ministro do Interior.
+
+2.ª Aplica-se o disposto no artigo 2º do Decreto-Lei n.º 41738, de 18 de Julho de 1958, com a redacção que lhe foi dada pelo Decreto-Lei n.º 41997, de 5 de Dezembro de 1958, nos parques de estacionamento confiados à guarda da Polícia de Segurança Pública.
+
+VIII
+
+Ocupação da via pública
+
+Licenças
+
+Art. 46.º Ocupação do espaço aéreo da via pública:
+
+... Máximos
+
+1) Antena atravessando a via pública - por ano ... 20$00
+
+2) Fios telegráficos, telefónicos ou eléctricos - por metro ou fracção e por ano ... 4$00
+
+3) Guindaste e semelhantes - por ano ... 200$00
+
+4) Alpendres fixos ou articulados, não integrados nos edifícios - por metro linear da frente ou fracção e por ano:
+
+a) Até 1 m de avanço ... 60$00
+
+b) De mais de 1 m de avanço ... 100$00
+
+5) Toldos - por metro linear de frente ou fracção e por ano:
+
+a) Até 1 m de avanço ... 50$00
+
+b) De mais de 1 m de avanço ... 60$00
+
+6) Sanefa de toldo ou de alpendre - por ano ... 20$00
+
+7) Fita anunciadora - por metro quadrado e por mês ... 90$00
+
+8) Passarelas e outras construções ou ocupações do espaço aéreo - por metro quadrado ou fracção de projecção sobre a via pública e por ano ... 100$00
+
+Art. 47.º Construções ou instalações especiais no solo ou no subsolo:
+
+1) Construções ou instalações provisórias por motivo de festejos ou outras celebrações ou para exercício de comércio ou indústria - por metro quadrado ou fracção:
+
+a) Por dia ... 2$00
+
+b) Por semana ... 10$00
+
+c) Por mês ... 40$00
+
+2) Cabina ou posto telefónico - por ano ... 300$00
+
+3) Postos de transformação, cabinas eléctricas e semelhantes - por metro cúbico ou fracção e por ano:
+
+a) Até 3 m3 ... 240$00
+
+b) Por cada metro cúbico a mais ou fracção ... 100$00
+
+4) Depósitos subterrâneos, com excepção dos destinados a bombas abastecedoras - por metro cúbico ou fracção e por ano ... 300$00
+
+5) Pavilhões, quiosques ou outras construções não incluídas nos números anteriores - por metro quadrado ou fracção e por mês ... 600$00
+
+Art. 48.º Ocupações diversas:
+
+1) Postes e marcos - por cada um:
+
+... Máximos
+
+a) Para suporte de fios telegráficos, telefónicos ou eléctricos - por ano ... 50$00
+
+b) Para decorações (mastros) - por dia ... $50
+
+c) Para a colocação de anúncios - por mês ... 100$00
+
+2) Vedações e outros dispositivos sobre os quais haja anúncios ou reclamos - por metro quadrado de superfície do dispositivo utilizado na publicidade e por mês ... 15$00
+
+3) Guarda-ventos anexos aos locais ocupados na via pública - por metro linear ou fracção e por mês ... 20$00
+
+4) Carris - por metro de via ou fracção e por ano ... 40$00
+
+5) Rolar cascos - por metro quadrado ou fracção e por ano ... 30$00
+
+6) Enxugo de sacaria, encerados ou velas - por metro quadrado ou fracção e por ano ... 40$00
+
+7) Mesas e cadeiras - por metro quadrado ou fracção e por mês ... 20$00
+
+8) Tubos, condutas, cabos condutores e semelhantes - por ano e por metro linear ou fracção:
+
+a) Com diâmetro até 20 cm ... 4$00
+
+b) Com diâmetro superior a 20 cm ... 8$00
+
+9) Outras ocupações da via pública:
+
+Taxas a fixar pelas câmaras - por metro quadrado ou fracção e por mês - até ... 30$00
+
+Observações:
+
+1ª As taxas dos n.os 2) do artigo 46.º e 2) do artigo 47.º, alínea a) do n.º 1) do artigo 48.º e n.os 4) e 8) deste mesmo artigo não são devidas pelas empresas concessionárias de serviços públicos de transporte de passageiros, de abastecimento de água e de gás, do fornecimento de energia eléctrica e de telégrafos e telefones, dentro das áreas das respectivas concessões, salvo nas zonas abrangidas por serviços municipais que prossigam fins idênticos. Neste último caso poderão as câmaras municipais fixar, com aprovação do Ministro do Interior, taxas diferentes das previstas nos referidos números.
+
+2.ª As taxas poderão ser graduadas, dentro do mesmo concelho, segundo o valor do local de ocupação e a natureza desta, sem se excederem os máximos fixados.
+
+3.ª Os tapumes e outras vedações utilizados na colocação de anúncios só dão lugar à cobrança da taxa de licença do n.º 2) do artigo 48.º se lhes não for aplicável a observação 2.ª da subsecção III do capítulo IV.
+
+4.ª Sempre que se presuma a existência de mais de um interessado, poderão as câmaras promover a arrematação em hasta pública do direito à ocupação, fixando livremente a respectiva base de licitação. O produto da arrematação será cobrado no acto da praça, salvo se o arrematante declarar que deseja efectuar o pagamento em prestações, devendo, nesse caso, pagar logo pelo menos metade.
+
+O restante será dividido em prestações mensais seguidas, não superiores a seis, mas de modo que a sua cobrança não ultrapasse o mês anterior ao último da ocupação. Em caso de nova arrematação terá direito de preferência, em igualdade de licitação, o anterior ocupante, salvo se a câmara municipal tomar deliberação fundamentada em sentido diverso.
+
+IX
+
+Instalações abastecedoras de carburantes líquidos, ar e água
+
+Licenças
+
+Art. 49.º Bombas de carburantes líquidos - por cada uma e por ano:
+
+... Máximos
+
+a) Instaladas inteiramente na via pública ... 3000$00
+
+b) Instaladas na via pública mas com depósito em propriedade particular ... 2000$00
+
+c) Instaladas em propriedade particular mas com depósito na via pública ... 2500$00
+
+d) Instaladas inteiramente em propriedade particular mas abastecendo na via pública ... 1000$00
+
+Art. 50.º Bombas de ar ou de água - por cada uma e por ano:
+
+... Máximos
+
+a) Instaladas inteiramente na via pública ... 1000$00
+
+b) Instaladas na via pública mas com depósito ou compressor em propriedade particular ... 800$00
+
+c) Instaladas em propriedade particular mas com depósito ou compressor na via pública ... 900$00
+
+d) Instaladas inteiramente em propriedade particular mas abastecendo na via pública ... 400$00
+
+Art. 51.º Bombas volantes, abastecendo na via pública - por cada uma e por ano ... 1000$00
+
+Art. 52.º Tomadas de ar instaladas noutras bombas - por cada uma e por ano:
+
+a) Com o compressor saliente na via pública ... 600$00
+
+b) Com o compressor ocupando apenas o subsolo da via pública ... 500$00
+
+c) Com o compressor em propriedade particular ou dentro de qualquer bomba, mas abastecendo na via pública ... 300$00
+
+Art. 53.º Tomadas de água, abastecendo na via pública - por cada uma e por ano ... 300$00
+
+Observações:
+
+1.ª Sempre que se presuma a existência de mais de um interessado na ocupação da via pública para instalação de bombas poderão as Câmaras promover a arrematação em hasta pública do direito à ocupação, fixando livremente a respectiva base de licitação. O produto da arrematação será cobrado no acto da praça, salvo se o arrematante declarar que deseja efectuar o pagamento em prestações, devendo, nesse caso, pagar logo, pelo menos, metade.
+
+O restante será dividido em prestações mensais seguidas, não superiores a seis, mas de modo que a sua cobrança não ultrapasse o mês anterior ao último da ocupação.
+
+Tratando-se de bombas a instalar na via pública, mas junto a garagens ou estações de serviço, terão preferência, na arrematação, os respectivos proprietários, quando em igualdade de licitação.
+
+2.ª A licença das bombas e tomadas inclui a utilização da via pública com os tubos condutores que forem necessários à instalação.
+
+3.ª O traspasse das bombas fixas instaladas na via pública depende de autorização municipal.
+
+4.ª As taxas de licença de bombas para abastecimento de mais de uma espécie de carburante serão aumentadas de 50 por cento.
+
+5.ª A substituição de bombas ou tomadas por outras da mesma espécie não justifica cobrança de novas taxas.
+
+X
+
+Condução e trânsito de animais ou veículos
+
+SECÇÃO I
+
+Licenças
+
+Art. 54.º De condução (por uma só vez):
+
+... Taxas fixas
+
+1) De velocípedes ... 30$00
+
+2) De carros de tracção eléctrica, que circulem nas vias públicas ... 100$00
+
+Art. 55.º De trânsito de animais ou veículos matriculados nos concelhos onde não seja devido imposto de trânsito - por ano e por cada um:
+
+1) Animais de carga ou sela ... 40$00
+
+2) Velocípedes ... 20$00
+
+3) Veículos de duas rodas com tracção por:
+
+Um animal ... 75$00
+
+Mais de um animal ... 100$00
+
+4) Veículos de quatro rodas com tracção por:
+
+Um animal ... 100$00
+
+Mais de um animal ... 180$00
+
+Observações:
+
+1.ª Quando os animais e veículos se destinem a lavoura, as taxas são reduzidas a 50 por cento.
+
+2.ª São isentos da licença de trânsito:
+
+a) Os animais e veículos pertencentes aos serviços do Estado, dos corpos administrativos e das pessoas colectivas de utilidade pública administrativa;
+
+b) Os veículos pertencentes a pessoas mutiladas ou aleijadas quando utilizados exclusivamente no transporte dos seus proprietários impossibilitados de se deslocarem pelos seus próprios meios.
+
+3.ª os veículos das entidades mencionadas na alínea a) da observação 2.ª deverão ter aposta uma chapa metálica colocada em local bem visível, com a indicação dos serviços a que pertencem.
+
+4.ª Estas licenças são válidas para o trânsito em todas as vias públicas do País.
+
+SECÇÃO II
+
+Taxas
+
+Art. 56.º Matrícula, incluindo o custo do livrete - por uma só vez:
+
+... Máximos
+
+1) De velocípedes ... 20$00
+
+2) De veículos de tracção animal ... 20$00
+
+Art. 57.º Chapas de identificação - cada uma:
+
+1) De velocípedes ... 12$50
+
+2) De veículos de tracção animal ... 15$00
+
+3) Substituições de chapas, a pedido dos interessados:
+
+a) De velocípedes ... 15$00
+
+b) De veículos de tracção animal ... 17$50
+
+Observação:
+
+Estão isentos de taxa de matrícula os veículos pertencentes aos serviços do Estado, dos corpos administrativos e das pessoas colectivas de utilidade pública administrativa, a pessoas mutiladas ou aleijadas quando se destinem ùnicamente ao transporte dos seus proprietários impossibilitados de se deslocarem pelos seus próprios meios e os exclusivamente utilizados em serviços agrícolas, sendo, todavia, devida a taxa relativa ao custo do livrete, que se fixa no máximo de 10$00.
+
+XI
+
+Publicidade
+
+Licenças
+
+Art. 58.º Anúncios luminosos - por metro quadrado ou fracção e por ano:
+
+... Máximos
+
+a) Instalação e licença no primeiro ano ... 30$00
+
+b) Renovação das licenças ... 10$00
+
+Art. 59.º Frisos luminosos, quando sejam complementares dos anúncios e não entrem na sua medição - por metro linear ou fracção e por ano ... 2$00
+
+Art. 60.º Bandeiras de leilão - por cada uma e por mês ... 40$00
+
+Art. 61.º Exposição no exterior dos estabelecimentos ou dos prédios onde aqueles se encontram:
+
+a) De jornais, revistas ou livros - por metro quadrado ou fracção e por ano ... 100$00
+
+b) De fazendas e de outros objectos - por metro quadrado ou fracção e por ano ... 200$00
+
+Art. 62.º Publicidade nos transportes colectivos - por metro quadrado ou fracção e por ano:
+
+a) No exterior ... 60$00
+
+b) No interior, mas destinada a ser visível da via pública ... 30$00
+
+Art. 63.º Aparelhos de rádio ou televisão, altifalantes ou outros aparelhos sonoros, fazendo emissões directas, com fins publicitários, na ou para a via pública:
+
+a) Por semana ... 50$00
+
+b) Por mês ... 150$00
+
+c) Por ano ... 1000$00
+
+Art. 64.º Placas de proibição de afixação de anúncios - por cada uma e por ano ... 30$00
+
+Art. 65.º Exibição transitória de publicidade em carro, avião ou por qualquer outra forma - por cada anúncio ou reclamo:
+
+... Máximos
+
+a) Por dia ... 30$00
+
+b) Por semana ... 100$00
+
+Art. 66.º Cartazes (de papel ou tela), a afixar nas vedações, tapumes, muros, paredes e locais semelhantes, confinando com a via pública, onde não haja o indicativo de ser proibida aquela afixação:
+
+a) Em exclusivo - por concessão mediante concurso público;
+
+b) Não havendo exclusivo - por cartaz e por mês:
+
+1) Até 2 m2 de superfície ... 3$00
+
+2) Por cada metro quadrado além de dois ... 5$00
+
+Art. 67.º Distribuição de impressos publicitários na via pública:
+
+a) Concessão de exclusivo - por concurso público;
+
+b) Não havendo exclusivo - por dia ... 50$00
+
+Art. 68.º Vitrinas, mostradores e semelhantes, em lugar que enteste com a via pública - por metro quadrado ou fracção e por ano ... 60$00
+
+Art. 69.º Publicidade de espectáculos públicos e outra, não incluída nos artigos anteriores:
+
+1) Sendo mensurável em superfície - por metro quadrado ou fracção da área incluída na moldura ou num polígono rectangular envolvente da superfície publicitária:
+
+a) Por mês ... 20$00
+
+b) Por ano ... 60$00
+
+2) Quando apenas mensurável linearmente - por metro linear ou fracção:
+
+a) Por mês ... 10$00
+
+b) Por ano ... 30$00
+
+3) Quando não mensurável de harmonia com as alíneas anteriores - por anúncio ou reclamo:
+
+a) Por mês ... 25$00
+
+b) Por ano ... 80$00
+
+Observações:
+
+1.ª As taxas são devidas sempre que os anúncios se divisem da via pública, entendendo-se para esse efeito como via pública as ruas, estradas, caminhos, praças, avenidas e todos os demais lugares por onde transitem livremente peões ou veículos.
+
+2.ª Sendo os anúncios ou reclamos total ou parcialmente escritos em estrangeiro, salvo quanto a firmas e marcas, será cobrado o dobro das taxas fixadas.
+
+3.ª As licenças dos anúncios fixos são concedidas apenas para determinado local.
+
+4.ª No mesmo anúncio ou reclamo utilizar-se-á mais de um processo de medição quando só assim se puder determinar a taxa a cobrar.
+
+5.ª Nos anúncios ou reclamos volumétricos a medição faz-se pela superfície exterior.
+
+6.ª Consideram-se incluídos no anúncio ou reclamo os dispositivos destinados a chamar a atenção do público.
+
+7.ª Os trabalhos de instalação dos anúncios ou reclamos devem obedecer aos condicionamentos de segurança indispensáveis, mas não são passíveis de taxa de licença de obras.
+
+8.ª A publicidade em veículos que transitem por vários concelhos apenas é licenciável pela câmara do concelho onde os proprietários tenham residência permanente.
+
+9.ª Não estão sujeitos a licença:
+
+a) Os dizeres que resultem de imposição legal;
+
+b) A indicação da marca, do preço ou da qualidade colocados nos artigos à venda;
+
+c) Os distintivos, de qualquer natureza, destinados a indicar que nos estabelecimentos onde estejam apostos se concedem regalias inerentes à utilização de sistemas de crédito, ou outros análogos, criados com o fim de facilitar viagens turísticas;
+
+d) As montras apenas com acesso pelo interior dos estabelecimentos ou que não tenham sobre a via pública saliência superior a 10 cm;
+
+e) Os anúncios respeitantes a serviços de transportes colectivos públicos concedidos.
+
+10.ª Salvo no que respeita à publicidade referida nos artigos 62.º e 66.º, quando os anúncios fixos forem colocados fora dos prédios onde se encontre o respectivo estabelecimento ou onde se fabriquem, utilizem ou vendam os objectos, as taxas poderão ser agravadas até ao dobro das quantias máximas previstas nesta tabela e graduadas consoante a importância do local.
+
+11.ª Quando os anúncios e reclamos do artigo 69.º forem substituídos com frequência no mesmo local por outros de igual natureza, poderá conceder-se avença pela medida que represente a dimensão máxima, ficando a colocação dos anúncios sujeita a visto prévio dos serviços municipais. Nestes casos, a importância da avença será igual a quatro vezes a taxa que corresponderia a um anúncio da maior medida.
+
+12.ª Se o mesmo anúncio for reproduzido, por período não superior a seis meses, em mais de dez locais, poderá estabelecer-se avença calculada pela totalidade desses anúncios, com desconto até 50 por cento.
+
+XII
+
+Matadouros e frigoríficos
+
+Taxas
+
+Art. 70.º Utilização de matadouro:
+
+Matança, inspecção e preparação de reses. As taxas constantes de portaria dos Ministros do Interior e Economia.
+
+Art. 71.º Preparação de miudezas:
+
+Pela preparação das miudezas dos seguintes animais, exceptuando os produtos com industrialização especial:
+
+... Máximos
+
+a) De bovinos adultos e adolescentes - cada um ... 2$00
+
+b) De ovinos e caprinos - cada um ... $80
+
+c) De suínos e equídeos - cada um ... 1$00
+
+Art. 72.º Industrialização:
+
+1) Salga de peles - por cada pele:
+
+a) De bovinos adultos ... 10$00
+
+b) De bovinos adolescentes ... 5$00
+
+c) De ovinos e caprinos ... 1$50
+
+d) De equídeos ... 9$00
+
+e) De fetos de bovinos e de equídeos ... 2$50
+
+f) De fetos de ovinos e caprinos ... $50
+
+2) Preparação de tripa comerciável de bovinos, incluindo limpeza, lavagem, desensebagem, viragem e secagem:
+
+Por maço de 17,5 m ou fracção ... 2$50
+
+3) Preparação de sangue, incluindo a colheita:
+
+a) Desfibrinação - por litro ... $20
+
+b) Cozedura, secagem e moenda - por quilograma ... 1$00
+
+4) Preparação de farinhas - por quilograma:
+
+a) De carne e ossos ... 1$00
+
+b) De fígado ... 1$20
+
+c) De ossos ... $80
+
+d) De outros produtos ... 1$00
+
+5) Preparação de gorduras - por quilograma:
+
+a) Alimentares ... 1$20
+
+b) Industriais ... 1$00
+
+6) Industrialização de outros produtos derivados dos animais abatidos:
+
+Taxas a fixar pelas câmaras.
+
+Art. 73.º Armazenagem e conservação de produtos industrializados:
+
+Armazenagem além do período destinado à industrialização - por cada período de quatro semanas ou fracção, sobre a taxa de industrialização:
+
+a) O primeiro período ... 25%
+
+b) Cada período a mais ... 5%
+
+Art. 74.º Reinspecção de animais rejeitados em vida ou reprovados após o abate:
+
+... Máximos
+
+a) De bovinos adultos e equídeos ... 100$00
+
+b) De bovinos adolescentes e suínos ... 60$00
+
+c) De ovinos e caprinos ... 20$00
+
+Art. 75.º Admissão de gado fora do horário normal - por animal:
+
+a) De bovinos adultos e equídeos ... 5$00
+
+b) De bovinos adolescentes e suínos ... 3$00
+
+c) De ovinos e caprinos ... $60
+
+Art. 76.º Tratamento de gado - por animal e por dia:
+
+a) De bovinos adultos e equídeos ... 2$50
+
+b) De bovinos adolescentes e suínos ... 1$50
+
+c) De ovinos e caprinos ... $50
+
+Nota. - Acresce a estas taxas o reembolso do custo da alimentação, a cobrar conforme a despesa realizada.
+
+Art. 77.º Sobretaxa para a construção e equipamento de matadouros:
+
+Para o matadouro de Lisboa a sobretaxa é de $20 por quilograma de carne abatida, e para os matadouros dos demais concelhos, a que for fixada pelo Governo em portaria.
+
+Art. 78.º Utilização de frigorífico, de veículos de transporte de produtos alimentares e de outros serviços municipais, incluindo inscrições e fornecimento de cartões de identificação:
+
+Taxas a fixar pelas câmaras.
+
+Observações:
+
+1.ª As taxas do artigo 72.º incluem a armazenagem e conservação dos respectivos produtos durante o período de industrialização, de oito semanas para os das alíneas 1), 2) e 5) e de quatro semanas para os restantes.
+
+Estas taxas só são devidas quando as câmaras procederem à preparação industrial dos produtos derivados dos animais abatidos.
+
+2.ª A cobrança das taxas de armazenagem e conservação dos produtos industrializados é feita quando os seus proprietários procedam aos respectivos levantamentos.
+
+3.ª As taxas de industrialização poderão ser escalonadas segundo a qualidade dos produtos obtidos, sem excederem os máximos previstos.
+
+4.ª As reinspecções dependem do pagamento prévio das respectivas taxas.
+
+5.ª As câmaras podem exigir depósito que garanta a cobrança das taxas pelos serviços a prestar, quando a frequência ou a urgência da prestação desses serviços o justifiquem.
+
+6.ª Os máximos fixados no artigo 72.º podem ser alterados por proposta das câmaras municipais e sanção do Ministro do Interior.
+
+7.ª Consideram-se abandonados a favor do município os despojos, produtos e subprodutos que não forem levantados dentro dos seguintes períodos, contados do abate do animal donde provieram:
+
+Couros e peles - vinte e seis semanas;
+
+Gorduras e tripa - dezoito semanas;
+
+Restantes produtos, subprodutos e despojos:
+
+a) Quando industrializáveis pelo município - de oito a doze semanas, conforme for fixado pelas câmaras;
+
+b) Quando não industrializáveis pelo município - vinte e quatro horas.
+
+XIII
+
+Mercados e feiras
+
+Taxas
+
+SECÇÃO I
+
+Ocupação
+
+Art. 79.º Venda a retalho:
+
+... Máximos
+
+A) Lojas - por metro quadrado e por mês ... 120$00
+
+B) Barracas ou outras instalações do município - por metro quadrado e por mês ... 60$00
+
+C) Lugares de terrado:
+
+... Máximos
+
+1) Até 2 m de fundo - por metro linear de frente para arruamento do mercado ou feira e por dia:
+
+a) Utilizando bancas, mesas ou outros materiais e instalações do município ... 14$00
+
+b) Não utilizando materiais ou instalações do município ... 12$00
+
+2) Restante área sem frente - por metro quadrado e por dia ... 3$00
+
+D) Área de terrado para venda de animais - por animal e por dia:
+
+a) Bovinos adultos ... 8$00
+
+b) Bovinos adolescentes ... 5$00
+
+c) Equídeos ... 7$00
+
+d) Asininos ... 6$00
+
+e) Ovinos ou caprinos ... 2$00
+
+f) Suínos ... 3$00
+
+g) Crias ... $50
+
+E) Outras áreas de terrado, quando não haja arruamentos próprios do mercado ou feira - por metro quadrado e por dia ... 6$00
+
+Art. 80.º Venda por grosso:
+
+1) Em lote ou processo semelhante:
+
+Taxa a fixar sobre o valor da venda diária ... 3%
+
+2) Por outro processo de venda - por metro quadrado e por dia ... 15$00
+
+Art. 81.º Local privativo para depósito e armazenagem - por metro quadrado e por dia ... 1$50
+
+Art. 82.º Local privativo, para manutenção, preparação e acondicionamento de produtos - por metro quadrado e por dia:
+
+1) Em recinto fechado ... 5$00
+
+2) No terrado ... 3$00
+
+Art. 83.º Outras instalações especiais - por metro quadrado:
+
+1) Por dia ... 10$00
+
+2) Por mês ... 120$00
+
+Art. 84.º Entrada de volumes, quando sobre eles não incida a taxa de ocupação referida nos artigos anteriores - por cada um ... 5$00
+
+Observações:
+
+1.ª Sempre que se presuma a existência de mais de um interessado na ocupação, poderão as câmaras promover a arrematação em hasta pública do direito à ocupação, com o mínimo de cada lanço de 25$00 para locais de terrado e de 100$00 para outros locais. A cobrança do produto da arrematação será efectuada no acto da praça, podendo também ser paga em prestações, se a câmara o autorizar.
+
+2.ª A taxa da alínea. 1) do artigo 80.º não pode ser cobrada pela venda de peixe relativamente à qual seja devido no concelho imposto ad valorem.
+
+3.ª As taxas dos artigos 79.º a 83.º poderão ser escalonadas segundo a categoria do mercado ou feira, a natureza dos géneros a expor à venda, a espécie de instalação ou de ocupação e a sua localização e finalidade. As do artigo 84.º poderão ser escalonadas segundo a categoria do mercado ou feira, a natureza dos géneros e a dimensão ou o peso de cada volume.
+
+4.ª As fracções de metro linear ou de metro quadrado arredondam-se sempre por excesso e, conforme os casos, para metade ou para a unidade de metro. Quando a medição, estando prevista na tabela por metro linear, só puder ser feita em metros quadrados ou vice-versa, as respectivas taxas aplicar-se-ão segundo a equivalência de 1 m linear de frente por 2 m2.
+
+5.ª As taxas diárias podem também ser cobradas por semana ou por mês e as mensais por dia ou por semana, quando isso convier à natureza da ocupação e à organização do mercado ou feira.
+
+6.ª O direito à ocupação de mercados ou feiras é, por natureza, precário.
+
+SECÇÃO II
+
+Actividades em mercados
+
+Art. 85.º Pelo exercício das seguintes actividades:
+
+... Máximos
+
+1) Produtor vendendo directamente:
+
+Inscrição ... 10$00
+
+2) Mandatário, comerciante, comissário ou agente de vendas:
+
+a) Inscrição ... 100$00
+
+b) Exercício - por mês, conforme a natureza do produto ... 150$00
+
+3) Exportador de peixe, pregoeiro de lota ou outro vendedor ou fornecedor de peixe por grosso que não seja o próprio pescador:
+
+a) Inscrição ... 100$00
+
+b) Exercício - por mês ... 50$00
+
+4) Preparador de produtos:
+
+a) Inscrição ... 50$00
+
+b) Exercício - por mês ... 100$00
+
+5) Empregado do utilizante:
+
+Inscrição ... 50$00
+
+6) Moços:
+
+a) Inscrição ... 100$00
+
+b) Exercício - por mês ... 50$00
+
+Observação:
+
+As taxas das alíneas b) podem ser graduadas segundo a natureza e a categoria do mercado.
+
+SECÇÃO III
+
+Diversos
+
+Art. 86.º Arrecadação em armazéns ou depósitos comuns dos mercados ou feiras - cada volume:
+
+... Máximos
+
+Por dia ... 2$00
+
+Por semana ... 10$00
+
+Por mês ... 30$00
+
+Art. 87.º Manutenção e guarda de volumes ou taras deixadas nos lugares de terrado desde a hora do fecho de mercado ou feira até à sua abertura - por volume e por dia ... 2$00
+
+Art. 88.º Estacionamento nos mercados ou feiras dos veículos de transporte, quando haja parque ou recinto próprio - por cada período de doze horas ou fracção e por veículo ... 3$00
+
+Art. 89.º Utilização de materiais e outros artigos municipais, quando não incluídos na taxa de ocupação:
+
+1) Balanças - por cada pesagem:
+
+a) Em básculas para veículos ou de grandes volumes ... 5$00
+
+b) Noutras balanças ... 1$00
+
+2) Tanques de lavagem - por cada lavagem ... 1$00
+
+3) Outros utensílios, materiais e artigos municipais - por unidade e por dia, até ... 7$00
+
+Art. 90.º Outras taxas:
+
+A fixar pelas câmaras.
+
+Observação:
+
+As taxas dos artigos 86.º a 88.º serão fixadas de harmonia com as dimensões ou peso do volume, a natureza do produto ou veículo e a categoria do mercado ou feira; as do artigo 89.º serão fixadas segundo a natureza e duração do utensílio, material ou artigo, o preço de custo, as despesas de conservação e a utilidade.
+
+XIV
+
+Aferição e conferição de pesos, medidas e aparelhos de medição
+
+Taxas
+
+As fixadas na legislação vigente, considerando-se, porém, integrada no total das mesmas, em cada recibo de aferição ou conferição, como taxa fixa, a importância de 5$00, elevada ao dobro quando o serviço a que disser respeito for efectuado nos estabelecimentos dos interessados.
+
+Observações:
+
+1.ª As taxas de conferição serão de 50 por cento das relativas a aferição.
+
+2.ª O subsídio por deslocação, fora de Lisboa e Porto, será de 1$30 por quilómetro percorrido a partir da oficina, contando-se a ida e o regresso.
+
+3.ª Nos concelhos de Lisboa e Porto as despesas normais de deslocação do pessoal necessário correrão por conta da respectiva Câmara, que, a título de compensação, incluirá em todos os recibos correspondentes ao serviço efectuado nos estabelecimentos, sob a rubrica «Transportes», a importância de 2$50. As despesas extraordinárias de deslocação para aferição ou conferição urgentes correm por conta de quem solicitar o serviço.
+
+4.ª Quando as aferições ou conferições se fizerem fora das oficinas, as taxas a cobrar serão elevadas ao dobro.
+
+5.ª Sempre que as aferições ou conferições que, a pedido dos interessados, devessem efectuar-se fora das oficinas não possam realizar-se por deficiências do material apresentado ou outro motivo imputável aos mesmos interessados, cobrar-se-ão, além da taxa fixa de 5$00, o subsídio por deslocação ou a compensação a que aludem as observações 2.ª e 3.ª
+
+6.ª A aferição e a conferição, quando feitas, por qualquer motivo, fora da época fixada, só serão válidas até à próxima época normal.
+
+7.ª O subsídio por deslocação será rateado pelos estabelecimentos em que se efectuem aferições na mesma área e no mesmo dia, podendo, em caso de dificuldade no rateio, estabelecer-se, por deliberação municipal, quota fixa por cada estabelecimento.
+
+XV
+
+Diversos
+
+SECÇÃO I
+
+Taxas
+
+... Máximos
+
+Art. 91.º Guarda de mobiliário, utensílios, etc., em local reservado do município - por metro quadrado ocupado e por dia ou fracção ... 3$00
+
+Art. 92.º Fornecimento de plantas topográficas ou outras:
+
+A fixar pelas câmaras.
+
+Art. 93.º Ajardinamento de logradouros comuns às edificações vizinhas e sua conservação:
+
+A fixar pelas câmaras, não podendo exceder 2 por cento do rendimento colectável dos prédios.
+
+Art. 94.º Vistorias não incluídas noutros capítulos da tabela:
+
+1) A utensílios ou veículos usados no transporte ou no exercício de profissão, comércio ou indústria na via pública, para verificação das condições de salubridade ou outras, em cumprimento das disposições legais ou regulamentares - por vistoria:
+
+a) A utensílios ... 20$00
+
+b) A velocípedes ... 50$00
+
+c) A outros veículos ... 80$00
+
+2) Outras vistorias:
+
+A fixar pelas câmaras.
+
+Observações:
+
+1.ª A taxa do artigo 91.º pode ser dispensada em casos de reconhecida indigência ou pobreza.
+
+2.ª A taxa do artigo 93.º será cobrada dos proprietários ou usufrutuários dos prédios vizinhos, podendo estes recuperar o encargo cobrando-o dos inquilinos desses prédios.
+
+SECÇÃO II
+
+Licenças
+
+Art. 95.º Licenças policiais não especificadas na tabela:
+
+Taxas a fixar pelas câmaras.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49438 - Diário do Governo n.º 288/1969, Série I de 1969-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49438-1969-217367)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+## Anexo TABELA C — Serviços de incêndios
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+## Anexo — Estatuto dos distritos autónomos das ilhas adjacentes
+
+## Título I — Da divisão do território
+
+###### Artigo 1.º
+
+O território das ilhas adjacentes divide-se, para efeitos administrativos, em concelhos, que se subdividem em freguesias e se agrupam em distritos autónomos.
+
+###### Artigo 2.º
+
+Os distritos autónomos do Funchal e de Ponta Delgada são de 1.ª ordem; os restantes distritos autónomos são de 2.ª ordem.
+
+## Título II — Dos distritos autónomos
+
+### Capítulo I — Dos órgãos da administração distrital
+
+###### Artigo 3.º
+
+Cada distrito das ilhas adjacentes constitue uma pessoa moral de direito público, dotada de autonomia administrativa e financeira.
+
+###### Artigo 4.º
+
+O órgão da administração distrital autónoma é a junta geral, que exerce as suas atribuïções e competência directamente ou por intermédio de uma comissão executiva.
+
+###### Artigo 5.º
+
+O Govêrno da República é representado em cada distrito por um governador civil, a cujo cargo está a gestão dos interêsses políticos e administrativos do Estado, a superintendência na polícia geral e a inspecção e fiscalização tutelar da administração distrital autónoma.
+
+###### Artigo 6.º
+
+As juntas gerais poderão deliberar a criação de quaisquer órgãos privativos de consulta, de carácter permanente ou transitório, com a composição que determinarem e para fins relativos ao exercício das suas atribuïções e competência.
+
+§ único. É obrigatório para os funcionários do Estado que desempenhem funções no distrito autónomo a aceitação das funções dos órgãos consultivos distritais para que sejam designados pela junta geral.
+
+###### Artigo 7.º
+
+As juntas gerais poderão sempre solicitar o parecer dos órgãos consultivos da administração central do Estado acêrca de negócios dos serviços públicos que lhes estejam confiados e sôbre que tenham de deliberar.
+
+### Capítulo II — Da junta geral
+
+#### Secção I — Composição, constituïção, sessões e reüniões
+
+###### Artigo 8.º
+
+A junta geral do distrito é composta por sete procuradores, dos quais três natos e quatro eleitos quadrienalmente.
+
+§ 1.º A junta geral tem presidente nomeado por quatro anos, pelo governador do distrito, de entre os procuradores eleitos, podendo excepcionalmente recair a nomeação em pessoa estranha ao corpo administrativo desde que tenha revelado méritos extraordinários em serviços prestados ao Estado.
+
+§ 2.º Nos casos em que o governador do distrito use a faculdade conferida na parte final do parágrafo anterior, o presidente acresce ao número dos procuradores e tem os mesmos direitos e deveres.
+
+§ 3.º O presidente da junta geral pode ser reconduzido e a todo o tempo exonerado ou demitido pelo governador do distrito.
+
+§ 4.º Nas suas faltas e impedimentos o presidente da junta geral será substituído por um presidente substituto, nomeado nos mesmos termos pelo governador do distrito, e na falta de um e outro exercerá as funções o procurador mais velho.
+
+###### Artigo 9.º
+
+São procuradores natos à junta geral:
+
+a) O reitor do liceu da sede do distrito;
+
+b) O delegado distrital do Instituto Nacional do Trabalho e Previdência;
+
+c) O engenheiro director técnico da Junta Autónoma dos portos nos distritos de Ponta Delgada, Angra do Heroísmo e Funchal e o engenheiro director das obras públicas no distrito da Horta.
+
+§ 1.º Os procuradores natos são substituídos, nas faltas e impedimentos legais, por quem suas vezes fizer nos lugares públicos que desempenham.
+
+§ 2.º Quando o Ministro das Obras Públicas considere inconveniente a participação dos engenheiros a que se refere a alínea c) nas juntas gerais, serão substituídos por procuradores de nomeação do mesmo Ministro, escolhidos de preferência de entre indivíduos diplomados com um curso superior de engenharia.
+
+###### Artigo 10.º
+
+Os restantes procuradores serão eleitos, em lista completa e por escrutínio secreto, pelas câmaras municipais e organismos corporativos morais, culturais e económicos do distrito.
+
+§ 1.º Cada lista conterá quatro nomes para procuradores efectivos e quatro para procuradores substitutos.
+
+§ 2.º Emquanto não estiver completa a organização corporativa, a relação dos organismos com direito de sufrágio será elaborada pelo governador do distrito, ouvida a delegação do Instituto Nacional do Trabalho e Previdência e por modo a dar representação, tanto quanto possível, às diversas actividades sociais do distrito.
+
+§ 3.º Elaborada a relação dos organismos, será publicada nos jornais locais e afixada nos paços do concelho da sede do distrito durante quinze dias, pelo menos, podendo os interessados reclamar contra ela para o governador do distrito, que decidirá definitivamente.
+
+§ 4.º As câmaras municipais e os organismos corporativos serão representados no acto de eleição pelos seus presidentes, juízes ou provedores. Quando, porém, tenham sede fora da ilha onde estiver a sede do distrito, poderão votar por correspondência.
+
+§ 5.º Todas as listas serão encerradas num sobrescrito branco, fechado, sem quaisquer dizeres e com as dimensões que forem fixadas. Quando o voto seja por correspondência, será êsse sobrescrito metido noutro, também fechado, lacrado, e endereçado, como correspondência postal registada, ao governador do distrito, com a menção de só dever ser aberto no acto eleitoral. Neste caso, é ao governador que compete abrir o sobrescrito exterior quando chamado o eleitor que o remeteu e depor na urna o sobrescrito nêle contido.
+
+§ 6.º O acto eleitoral efectuar-se-á em dia designado pelo governador do distrito, entre 15 de Novembro e 5 de Dezembro, consoante as conveniências resultantes das comunicações marítimas.
+
+###### Artigo 11.º
+
+As funções de procurador à junta geral são obrigatórias e gratuitas e só admitem escusa ou se perdem nos casos e pela fôrma que a lei estabelece para os procuradores provinciais.
+
+###### Artigo 12.º
+
+O presidente da junta geral pode convocar para assistir a determinada reünião ou parte dela, com voto consultivo sòmente, o secretário do govêrno civil ou o funcionário que o substituir quando aquele exerça as funções de governador, o engenheiro director das obras públicas, o director da escola de ensino técnico profissional, o director do distrito escolar, o inspector de saúde, o director de agricultura ou da estação agrária e o intendente de pecuária.
+
+###### Artigo 13.º
+
+O chefe da secretaria distrital, ou quem o substituir, desempenhará as funções de secretário nas reüniões da junta geral, mas sem voto.
+
+###### Artigo 14.º
+
+A constituïção, sessões, reüniões e deliberações da junta geral e as incompatibilidades e inelegibilidades dos respectivos procuradores são reguladas, na parte aplicável, pelo disposto no Código Administrativo para os conselhos provinciais.
+
+#### Secção II — Atribuïções e competência
+
+###### Artigo 15.º
+
+As juntas gerais podem ter atribuïções:
+
+1.º De administração dos bens distritais;
+
+2.º De fomento agrário, florestal e pecuário;
+
+3.º De coordenação económica;
+
+4.º De obras públicas, fiscalização industrial e viação;
+
+5.º De saúde pública;
+
+6.º De assistência;
+
+7.º De educação e cultura;
+
+8.º De polícia.
+
+###### Artigo 16.º
+
+No uso das atribuïções de administração dos bens distritais, pertence às juntas deliberar:
+
+1.º Sôbre cadastro, conservação, uso e fruïção dos bens próprios que constituam o património do distrito;
+
+2.º Sôbre cadastro, polícia e defesa dos bens do domínio público distrital;
+
+3.º Sôbre fruïção e polícia dos baldios municipais ou paroquiais que tenham sido sujeitos ao regime florestal ou que, permanecendo maninhos, convenha aproveitar para mais útil aplicação em benefício dos povos.
+
+###### Artigo 17.º
+
+No uso das atribuïções de fomento agrário, pertence às juntas deliberar:
+
+1.º Sôbre o estudo das possibilidades agrícolas do distrito e seu aproveitamento integral;
+
+2.º Sôbre a experimentação e introdução de novas culturas e melhoramento das existentes;
+
+3.º Sôbre o estabelecimento de viveiros, de campos de ensaio e de demonstração e de postos agrícolas móveis;
+
+4.º Sôbre assistência fitopatológica e criação de postos de sanidade vegetal;
+
+5.º Sôbre a realização de concursos, exposições e feiras agrícolas;
+
+6.º Sôbre a instituïção de prémios aos agricultores que adoptem novos processos técnicos mais convenientes ou introduzam novas culturas de interêsse para a economia distrital;
+
+7.º Sôbre o fomento da apicultura e da sericicultura, de acôrdo com os pareceres técnicos competentes.
+
+###### Artigo 18.º
+
+No uso das atribuïções de fomento florestal, pertence às juntas deliberar:
+
+1.º Sôbre a submissão de terrenos arborizados ou plantados para arborização, pertencentes a entidades públicas ou particulares, ao regime florestal parcial e ao de simples polícia;
+
+2.º Sôbre regulamentação de cortes, desbastes e derramas das essências florestais e do fabrico de carvão vegetal;
+
+3.º Sôbre povoamento florestal de terrenos baldios ou distritais;
+
+4.º Sôbre polícia das matas e arvoredos e perseguição das transgressões;
+
+5.º Sôbre criação e manutenção de viveiros florestais e introdução de novas essências, dependendo esta de parecer favorável da Direcção Geral dos Serviços Florestais e Aqüícolas.
+
+§ único. As atribuïções a que êste artigo se refere passam para o Ministério da Economia logo que êste pelos seus serviços próprios dê começo de execução, nas ilhas adjacentes, ao plano de povoamento florestal determinado pela lei n.º 1:971, de 15 de Junho de 1938.
+
+###### Artigo 19.º
+
+No uso das atribuïções de fomento pecuário, pertence às juntas deliberar:
+
+1.º Sôbre protecção, melhoramento e aumento da riqueza pecuária do distrito;
+
+2.º Sôbre higiene e sanidade dos gados;
+
+3.º Sôbre criação e manutenção de postos zootécnicos;
+
+4.º Sôbre introdução e difusão, independentemente de autorização, de novas espécies e raças pecuárias convenientes às condições do distrito e melhoramento das existentes, mediante parecer favorável da Direcção Geral dos Serviços Pecuários;
+
+5.º Sôbre instituïção de prémios aos criadores;
+
+6.º Sôbre realização de feiras, concursos e exposições de gado.
+
+###### Artigo 20.º
+
+No uso das atribuïções de coordenação económica, pertence às j untas deliberar:
+
+1.º Sôbre a realização de inquéritos à vida económica do distrito e estudo das soluções convenientes aos seus problemas;
+
+2.º Sôbre o aproveitamento e divulgação das estatísticas oficiais que interessem à economia do distrito;
+
+3.º Sôbre a harmonização dos interêsses e actividades económicas do distrito, em ordem a obter maior benefício público;
+
+4.º Sôbre conjugação de esforços dos municípios, freguesias e Casas do Povo para melhoria da condição social dos habitantes do distrito.
+
+###### Artigo 21.º
+
+No uso das atribuïções relativas às obras públicas, fiscalização industrial e viação, pertence às juntas deliberar:
+
+1.º Sôbre construção, reparação, conservação, arborização e polícia das estradas que ligam as sedes dos distritos às sedes dos concelhos e das vias principais que asseguram as comunicações entre os diversos lugares das ilhas,, quando classificadas, pela sua importância económica ou turística, como estradas distritais;
+
+2.º Sôbre o estabelecimento de caminhos de ferro no leito das suas estradas ou em leito próprio;
+
+3.º Sôbre construção, reparação e conservação de edifícios públicos distritais;
+
+4.º Sôbro protecção dos monumentos nacionais;
+
+5.º Sôbre fruïção e aproveitamento das águas que sejam propriedade do distrito, ou das águas públicas na sua administração;
+
+6.º Sôbre regularização das torrentes e caudais e limpeza, regularização e correcção de valas e cursos de água;
+
+7.º Sôbre aproveitamento das águas por meio de obras de irrigação;
+
+8.º Sôbre obras de fixação do nível das lagoas;
+
+9.º Sôbre polícia das águas e da pesca;
+
+10.º Sôbre fiscalização das indústrias eléctricas;
+
+11.º Sôbre licenciamento e fiscalização das indústrias insalubres, incómodas e perigosas;
+
+12.º Sôbre inspecção de pesos e medidas;
+
+13.º Sôbre protecção, desenvolvimento e aperfeiçoamentos das pequenas indústrias locais tradicionais;
+
+14.º Sôbre fiscalização das caldeiras e motores.
+
+###### Artigo 22.º
+
+No uso das atribuïções de saúde pública, pertence às juntas deliberar:
+
+1.º Sôbre a vigilância e defesa sanitária do distrito;
+
+2.º Sôbre a polícia sanitária dos portos e embarcações e demais serviços de sanidade marítima;
+
+3.º Sôbre a profilaxia social, especialmente pelo combate ao alcoolismo, à sífilis e à tuberculose e pela protecção às grávidas e puérperas;
+
+4.º Sôbre salubridade dos lugares e das habitações, tendo em especial atenção o combate aos ratos;
+
+5.º Sôbre fiscalização dos cemitérios;
+
+6.º Sôbre a manutenção ou auxílio a hospitais, sanatórios e dispensários distritais;
+
+7.º Sôbre a criação e manutenção de centros sanitários rurais, de preferência junto das Casas do Povo;
+
+8.º Sôbre a manutenção de um serviço anti-epidémico permanente, hospital de isolamento para doentes atacados de moléstias inficiosas, parque sanitário e material para brigadas sanitárias;
+
+9.º Sôbre a manutenção de um pôsto de desinfecção pública, com balneários;
+
+10.º Sôbre a manutenção de serviços laboratoriais onde se possa proceder a análises bacteriológicas e à preparação de vacinas;
+
+11.º Sôbre a manutenção e administração dos seus estabelecimentos balneares.
+
+###### Artigo 23.º
+
+No uso das atribuïções de assistência, pertence às juntas deliberar:
+
+1.º Sôbre internamento, em estabelecimentos públicos ou privados, dos velhos, doentes e desamparados que sejam muito pobres ou indigentes;
+
+2.º Sôbre hospitalização de alienados curáveis, internamento dos incuráveis perigosos e vigilância e auxílio aos incuráveis inofensivos;
+
+3.º Sôbre educação do crianças anormais;
+
+4.º Sôbre protecção à maternidade e à primeira infância pela instituïção de enfermarias-maternidades, postos de puericultura, creches e jardins de infância e pela visita domiciliária de visitadoras especializadas;
+
+5.º Sôbre socorros a náufragos;
+
+6.º Sôbre o auxílio a estabelecimentos privados de assistência a crianças órfãs ou em perigo moral e a outros organismos públicos ou privados de assistência.
+
+###### Artigo 24.º
+
+No uso das atribuïções de educação e cultura, pertence às juntas deliberar:
+
+1.º Sôbre criação, manutenção e supressão de escolas primárias e postos escolares;
+
+2.º Sôbre dotação, instalação e apetrechamento dos estabelecimentos públicos de ensino liceal, técnico ou de magistério primário criados e dirigidos pelo Estado;
+
+3.º Sôbre criação e manutenção de escolas práticas elementares de agricultura e de escolas do leitaria;
+
+4.º' Sôbre instituïção de bolsas para estudantes distintos, mas pobres, que devam prosseguir os estudos fora do distrito, contanto que se obriguem a exercer a futura profissão no distrito quo os pensiona;
+
+5.º Sôbre a criação e manutenção de jardins e hortos botânicos;
+
+6.º Sôbre a criação e manutenção de museus de arte regional e de história natural, arquivos distritais e bibliotecas populares;
+
+7.º Sôbre a recolha e defesa do folclore do distrito;
+
+8.º Sôbre o inventário e protecção das relíquias históricas, dos monumentos artísticos e das belezas naturais do distrito;
+
+9.º Sôbre a conservação e divulgação dos trajes e costumes locais;
+
+10.º Sôbre o estudo das formas dialectais existentes no distrito;
+
+11.º Sôbre o auxílio a conceder a associações ou institutos culturais do distrito.
+
+###### Artigo 25.º
+
+No uso das atribuïções de polícia, pertence às juntas deliberar:
+
+1.º Sôbre a segurança e comodidade do trânsito nas estradas distritais;
+
+2.º Sôbre a conveniência e condições das edificações junto às estradas distritais;
+
+3.º Sôbre o estacionamento dos veículos nas estradas distritais;
+
+4.º Sôbre a iluminação pública nas estradas distritais;
+
+5.º Sôbre a organização da polícia rural, de acôrdo com as câmaras municipais.
+
+§ único. As atribuïções dos n.os 1.º, 3.º e 4.º poderão, mediante acôrdo, ser transferidas para as câmaras municipais nos troços de estrada que atravessem povoações.
+
+###### Artigo 26.º
+
+Para o desempenho das suas atribuïções, compete privativamente às juntas gerais:
+
+1.º Fazer, interpretar e modificar os regulamentes necessários aos serviços distritais e revogar os dispensáveis;
+
+2.º Fazer, interpretar, modificar e revogar posturas sôbre matérias das atribuïções das câmaras municipais que convenha regular uniformemente para todo o distrito ;
+
+3.º Adquirir bens imobiliários para o serviço do distrito;
+
+4.º Aceitar heranças, legados e doações feitos ao distrito ou a estabelecimentos distritais, contanto que a aceitação das heranças seja a benefício de inventário;
+
+5.º Aprovar as empreitadas de valor superior a 50.000$00 e os contratos de fornecimento por tempo superior a um ano;
+
+6.º Discutir e votar o plano quadrienal da administração do distrito;
+
+7.º Lançar os impostos e respectivos adicionais na forma da lei;
+
+8.º Contrair empréstimos, estabelecer a sua dotação e estipular as condições de amortização;
+
+9.º Aprovar as bases do orçamento ordinário;
+
+10.º Decidir sôbre os recursos graciosos que sejam interpostos das deliberações da comissão executiva ou das decisões do seu presidente, quando não constitutivas de direitos;
+
+11.º Subsidiar associações e estabelecimentos de assistência e instrução de interêsse para o distrito;
+
+12.º Comparticipar com as câmaras municipais e juntas de freguesia em melhoramentos urbanos e rurais nos mesmos termos que o Estado e sem prejuízo das comparticipações dêste;
+
+13.º Dar parecer sôbre os projectos de regulamentos legislativos elaborados polo governador do distrito no uso da sua faculdade regulamentária.
+
+§ único. As deliberações sôbre empréstimos carecem, para se tornarem executórias, da aprovação do Ministro das Finanças.
+
+###### Artigo 27.º
+
+O plano quadrienal da administração do distrito será elaborado em sessão extraordinária da junta geral, convocada para êsse efeito dentro dos seis meses imediatamente seguintes à sua eleição.
+
+§ 1.º O plano compor-se-á de três partes: a primeira discriminando as necessidades públicas do distrito, graduadas por ordem de urgência e de importância; a segunda destinada ao cálculo das possibilidades prováveis do distrito no quadriénio; a terceira com as normas gerais de orientação administrativa a seguir e o enunciado da obra a fazer, sem pormenor.
+
+§ 2.º A terceira parte do plano terá tantos capítulos quantos os serviços especiais do distrito e será instruída com os relatórios e propostas dos respectivos chefes.
+
+§ 3.º O plano quadrienal da junta geral será remetido, com os seus documentos e a cópia das actas das reüniões em que foi discutido, à Presidência do Conselho, e depois de aprovado em Conselho de Ministros, com as modificações que forem tidas por convenientes, só poderá ser alterado pelo mesmo processo.
+
+§ 4.º Até à resolução do Conselho de Ministros considera-se provisòriamente em vigor o plano aprovado pela junta geral.
+
+§ 5.º As juntas gerais, suas comissões executivas e serviços dependentes não podem, sob pena de responsabilidade pessoal e solidária dos procuradores, tomar iniciativas ou ordenar obras que contrariem o disposto no plano quadrienal ou nêle não estejam previstas, salvo ocorrendo circunstâncias extraordinárias que exijam providências urgentes.
+
+###### Artigo 28.º
+
+As juntas gerais são corpos administrativos independentes dentro da órbita das suas atribuïções. As suas deliberações, bem como as das respectivas comissões executivas, só podem ser suspensas, modificadas ou anuladas pela forma e nos casos previstos no presente Estatuto e no Código Administrativo.
+
+§ 1.º A independência das juntas gerais não prejudica o direito do orientação meramente técnica da administração central sôbre os seus serviços nem a faculdade de inspecção.
+
+§ 2.º Os serviços próprios do distrito não devem obediência a ordens de autoridades ou funcionários do Estado, salvo quando desempenhem funções pelas quais hierarquicamente lhes estejam subordinados por fôrça de lei expressa.
+
+### Capítulo III — Da comissão executiva
+
+#### Secção I — Composição, atribuïções e funcionamento
+
+###### Artigo 29.º
+
+No início de cada quadriénio a junta geral do distrito elegerá dois dos seus procuradores para, juntamente com o presidente da junta geral, constituírem a comissão executiva.
+
+§ 1.º A junta elegerá também dois substitutos para servirem no caso de falecimento, licença, impedimento temporário ou cessação de funções dos efectivos, segundo a ordem da votação ou, em caso de igualdade, a da idade.
+
+§ 2.º Nas faltas e impedimentos dos substitutos serão chamados a servir os procuradores que residirem na capital do distrito, começando pelos mais velhos.
+
+###### Artigo 30.º
+
+O presidente da comissão executiva será o presidente da junta geral, designado nos termos do § 1.º do artigo 8.º
+
+###### Artigo 31.º
+
+A comissão executiva é delegada da junta geral e procede sempre em sua representação, cabendo-lhe as mesmas atribuïções.
+
+###### Artigo 32.º
+
+A comissão reúne ordinàriamente uma vez por semana e extraordinàriamente quando o presidente a convocar.
+
+###### Artigo 33.º
+
+É secretário, sem voto, da comissão executiva o chefe da secretaria da junta geral.
+
+###### Artigo 34.º
+
+De todas as deliberações da comissão executiva será, pelo secretário, elaborado um resumo para ser publicado na imprensa local e no boletim distrital, quando o haja, ou distribuído pelos procuradores, no caso de não existir boletim.
+
+###### Artigo 35.º
+
+Das deliberações da comissão executiva que não sejam constitutivas de direitos cabe recurso gracioso para a junta geral, que o apreciará na primeira reünião celebrada após a data da deliberação, decidindo-o como entender de justiça.
+
+§ único. Só em decisão de recurso pode a junta geral revogar, converter ou reformar com efeito retroactivo as deliberações da sua comissão executiva; em todos os mais casos apenas deliberará para o futuro.
+
+#### Secção II — Competência
+
+###### Artigo 36.º
+
+Compete às comissões executivas das juntas gerais:
+
+1.º Adquirir bens mobiliários e os imobiliários de valor inferior a 50.000$00;
+
+2.º Celebrar contratos de arrendamento, activa o passivamente;
+
+3.º Contratar com emprêsas individuais ou colectivas os fornecimentos necessários ao funcionamento dos serviços e à execução das obras distritais, quando por tempo inferior a um ano;
+
+4.º Efectuar seguros, contra quaisquer riscos, em companhias nacionais devidamente autorizadas;
+
+5.º Efectuar obras públicas, por administração directa, empreitada ou concessão, quando de valor inferior a 50.000$00;
+
+6.º Instaurar pleitos e defender-se nêles, podendo confessar, desistir ou transigir quando não haja ofensa de direitos de terceiro;
+
+7.º Propor ao Govêrno a expropriação por utilidade pública dos imóveis indispensáveis à realização dos seus fins;
+
+8.º Propor ao Govêrno a alteração dos quadros do funcionalismo distrital;
+
+9.º Nomear, contratar ou assalariar, promover, transferir, conceder licenças, louvar, punir, aposentar e exonerar os funcionários e assalariados distritais e instaurar processo disciplinar aos funcionários do Estado pagos pelo seu cofre que não tenham fôro especial, remetendo-o depois para decisão à autoridade competente;
+
+10.º Modificar e revogar os actos praticados pelos funcionários e assalariados distritais;
+
+11.º Submeter, por meio de alvará, os baldios, as matas e as propriedades particulares ao regime florestal parcial ou de simples polícia;
+
+12.º Conceder licenças para corte, desbaste e derrama de árvores, entrada e pastagem nos perímetros florestais e para o fabrico de carvão, bem como quaisquer outras licenças, autorizações e permissões da competência dos serviços florestais;
+
+13.º Aprovar as transferências de verbas orçamentais e os orçamentos suplementares;
+
+14.º Aprovar as contas de gerência e remetê-las para julgamento.
+
+###### Artigo 37.º
+
+Compete ainda mais às comissões executivas das juntas gerais que tenham atribuïções relativas a obras públicas, fiscalização industrial e viação:
+
+1.º Ordenar, precedendo vistoria, nos mesmos termos estabelecidos para as câmaras municipais, a demolição ou beneficiação e o despejo dos edifícios construídos à beira das estradas distritais sob a sua jurisdição quando ameacem ruína ou ofereçam perigo para a saúde pública;
+
+2.º Conceder licenças para edificações ou reedificações junto às estradas e mais Lugares públicos sujeitos à sua jurisdição e aprovar os respectivos projectos, fixando o alinhamento, dando as cotas de nível e cedendo ou adquirindo por venda, compra ou troca, com prévia louvação, mas independentemente de hasta pública, os terrenos necessários ao referido alinhamento;
+
+3.º Embargar quaisquer obras, construções ou edificações iniciadas poios particulares nos lugares sujeitos à sua jurisdição, seom licença ou com inobservância das condições desta;
+
+4.º Estabelecer taxas pela ocupação temporária de lugares o terrenos de uso e logradouro público na sua jurisdição, pelo aproveitamento dos bens, pastos e frutos do logradouro comum de que sejam administradoras, pela concessão de licenças e por quaisquer outros serviços administrativos;
+
+5.º Requerer a comparticipação financeira do Estado para a realização de melhoramentos urbanos e rurais, obras de águas e saneamento previstos no plano quadrienal e dotados no orçamento distrital;
+
+6.º Conceder alvarás de licença para exploração das indústrias insalubres, incómodas, perigosas ou tóxicas que não sejam da competência das câmaras municipais, quando o resultado das vistorias seja unânimemente aprovativo e não tenha havido reclamações ou estas hajam sido retiradas;
+
+7.º Conceder licenças para instalações eléctricas e fazer a sua fiscalização;
+
+8.º Conceder licenças, precárias e revogáveis, de aproveitamento industrial de energia hidráulica até ao limite de 10 C. V.;
+
+9.º Conceder licenças, precárias e revogáveis, de aproveitamento de águas públicas para rega até ao limite de 50 hectares de superfície irrigada ema prédios não confinantes com as correntes;
+
+10.º Conceder as demais licenças e praticar os outros actos de administração da competência dos serviços industriais, hidráulicos e eléctricos não mencionados nos números anteriores;
+
+11.º Conceder carreiras regulares ou provisórias de transportes colectivos em automóveis pesados e licenças para exploração de automóveis pesados de aluguer para transporte de passageiros ou mercadorias;
+
+12.º Determinar, ouvidas as câmaras municipais interessadas, os locais de acesso, itinerários e demais normas de trânsito dos veículos de transporte colectivo;
+
+13.º Fixar os horários das carreiras regulares e aprovar as suas alterações de conformidade com a lei;
+
+14.º Aprovar as tarifas das carreiras de automóveis pesados;
+
+15.º Autorizar a circulação do automóveis pesados de largura superior a 2"',25 nas estradas distritais, mediante parecer favorável do director das obras públicas.
+
+§ único. Exceptuam-se do disposto no n.º 10.º dêste artigo as concessões de aproveitamento hidroeléctrico e hidroagrícolas, as concessões de instalações eléctricas a que se refere o artigo 12.º do decreto n.º 14:772, de 22 de Dezembro de 1927, e as declarações de utilidade pública mencionadas no artigo 15.º do mesmo decreto, que continuam a depender da aprovação do Govêrno.
+
+###### Artigo 38.º
+
+Compete ao presidente da comissão executiva:
+
+1.º Convocar as reüniões extraordinárias da comissão;
+
+2.º Dirigir os trabalhos nas reüniões, abri-las e encerrá-las, orientar as discussões, dar a palavra aos vogais e retirar-lha quando, depois de advertidos, se afastem da ordem do dia ou desrespeitem a função ou lugar, submeter os assuntos a votação, regular a ordem dos trabalhos e superintender na polícia da sala;
+
+3.º Elaborar o relatório anual da gerência da comissão, para ser presente à junta geral;
+
+4.º Elaborar o plano quadrienal da administração do distrito, para ser proposto à junta geral, e o plano anual da actividade da comissão executiva;
+
+5.º Preparar as bases do orçamento ordinário;
+
+6.º Propor transferências de verbas orçamentais e orçamentos suplementares;
+
+7.º Remeter à comissão distrital de contas os actos sujeitos ao visto;
+
+8.º Autorizar as despesas orçamentadas de harmonia com as deliberações da comissão e após o visto da comissão de contas, quando necessário;
+
+9.º Superintender nos serviços de secretaria e tesouraria, podendo advertir e repreender verbalmente os respectivos funcionários, e distribuir pelos vários serviços o pessoal de carteira conforme as necessidades que houver;
+
+10.º Inspeccionar os demais serviços dependentes da junta e transmitir-lhes as deliberações desta e da sua comissão executiva;
+
+11.º Propor as alterações necessárias na organização dos serviços distritais;
+
+12.º Representar a junta geral em juízo e fora dêle, podendo constituir os advogados que forem necessários, assinar citações e notificações judiciais feitas à junta e contestar e impugnar as acções quando seja urgente e contanto que submeta o assunto a deliberação da comissão executiva na primeira reünião que se seguir;
+
+13.º Executar e fazer executar as deliberações da junta geral e da comissão executiva, expedindo os alvarás, licenças e diplomas necessários;
+
+14.º Publicar as resoluções, posturas, regulamentos, anúncios e avisos e vigiar pela sua execução;
+
+15.º Assinar a correspondência expedida pela comissão executiva com destino a quaisquer autoridades, corpos administrativos e repartições públicas;
+
+16.º Assinar os cheques, mandados e recibos para levantamento de fundos da junta, depois de assinados pelo tesoureiro e de visados pela contabilidade.
+
+###### Artigo 39.º
+
+O presidente da comissão executiva corresponde-se com o Govêrno por intermédio do governador do distrito.
+
+### Capítulo IV — Dos serviços distritais
+
+#### Secção I — Secretaria
+
+###### Artigo 40.º
+
+São serviços distritais:
+
+1.º Secretaria;
+
+2.º Tesouraria;
+
+3.º Serviços agrícolas;
+
+4.º Serviços pecuários;
+
+5.º Serviços de saúde;
+
+6.º Serviços de obras públicas;
+
+7.º Serviços industriais e eléctricos;
+
+8.º Serviços de viação;
+
+9.º Laboratório.
+
+§ único. A lei orgânica fixa quais os serviços existentes em cada um dos distritos autónomos.
+
+###### Artigo 41.º
+
+Cada junta geral tem uma secretaria privativa, por onde corre todo o seu expediente e à qual compete registar as deliberações e decisões dos órgãos distritais, assegurar a respectiva execução e escriturar a contabilidade central.
+
+§ único. Os serviços da secretaria, quando seja necessário, poderão distribuir-se por secções, nos termos do respectivo regulamento interno.
+
+###### Artigo 42.º
+
+A secretaria é dirigida por um chefe de secretaria, sob a inspecção e superintendência do presidente da comissão executiva.
+
+###### Artigo 43.º
+
+Compete ao chefe de secretaria:
+
+1.º Assistir às reüniões da junta geral e da comissão executiva e lavrar e subscrever as respectivas actas;
+
+2.º Certificar, mediante despacho do presidente, os factos e actos que constem do arquivo distrital e, independentemente de despacho, a matéria das actas da junta geral e da comissão executiva;
+
+3.º Autenticar todos os documentos e actos oficiais da junta e sua comissão executiva, guardando para êsse efeito, sob sua responsabilidade, o sêlo branco;
+
+4.º Preparar o expediente e prestar as informações necessárias para resolução dos órgãos distritais e manter em dia o registo e o índice das suas deliberações e decisões;
+
+5.º Dirigir os trabalhos da secretaria em conformidade com o regulamento interno, as deliberações da comissão executiva e as ordens do presidente;
+
+6.º Conservar sob a sua guarda e responsabilidade o arquivo distrital, quando não tenha conservador privativo;
+
+7.º Manter em dia o registo da correspondência recebida e expedida;
+
+8.º Organizar o cadastro de todo o pessoal da junta, centralizar as informações respectivas, executar as deliberações sôbre nomeação, promoção, transferência, licenças, louvores, punição, aposentação e exoneração dos funcionários e assalariados distritais e assegurar o expediente dos concursos para o seu recrutamento;
+
+9.º Exercer as funções de notário em todos os actos e contratos em que a junta geral fôr outorgante;
+
+10.º Assegurar a publicação das deliberações e mais actos dos órgãos distritais;
+
+11.º Organizar e dirigir o serviço da contabilidade da junta, cumprir e fazer cumprir as disposições legais que lhe são aplicáveis;
+
+12.º Fiscalizar a responsabilidade do tesoureiro;
+
+13.º Manter o presidente da comissão executiva ao corrente do estado dos serviços da tesouraria e da caixa;
+
+14.º Organizar as contas de gerência até ao dia 1 de Abril de cada ano, ou dentro do prazo de trinta dias contados da data da renovação total da comissão executiva ou da substituïção de algum dos seus vogais por motivo de presunção ou apuramento de irregularidades na administração e organizar balanço de transição quando haja substituïção de tesoureiro;
+
+15.º Visar todas as autorizações e mais documentos de despesa e os cheques, recibos e mandados para levantamento de dinheiros da junta, depois de feitos os necessários lançamentos na contabilidade e antes de os submeter à assinatura do presidente da comissão executiva, podendo delegar a sua competência no chefe da secção de contabilidade, quando o houver;
+
+16.º Remeter ao governador do distrito cópias de todas as actas das reüniões da junta geral e da comissão executiva;
+
+17.º Elaborar o resumo das deliberações da comissão executiva para publicação nos jornais locais e no boletim do distrito, quando exista, devendo, no caso de não existir o boletim, remeter êsse resumo a todos os procuradores e ao agente do Ministério Público da auditoria competente;
+
+18.º Mandar entregar, por guia, na tesouraria as taxas, emolumentos e multas processadas na secretaria;
+
+19.º Desempenhar as mais funções que as leis, regulamentos e deliberações lhe impuserem.
+
+§ único. As contas organizadas nos termos do n.º 14.º, por mudança de responsáveis no decurso de uma gerência, só serão remetidas a julgamento conjuntamente com as contas finais da gerência.
+
+#### Secção II — Tesouraria
+
+###### Artigo 44.º
+
+A arrecadação das receitas, a guarda dos fundos e valores, o pagamento das despesas e quaisquer movimentos dos dinheiros da junta ou a ela confiados incumbem à tesouraria.
+
+###### Artigo 45.º
+
+O serviço da tesouraria da junta geral está a cargo de um tesoureiro e é exercido sob a fiscalização do chefe da secretaria e a superintendência do presidente da comissão executiva.
+
+§ 1.º Nos distritos de pequena receita as funções de tesoureiro da junta poderão ser desempenhadas pelo tesoureiro da Fazenda Pública do concelho da sedo do distrito, mediante a gratificação mensal de 300$00.
+
+§ 2.º Os tesoureiros privativos das juntas gerais são obrigados a prestar a caução de 25.000$00 nos distritos de 1.ª ordem e de 15.000$00 nos de 2.ª ordem.
+
+§ 3.º Os fundos e valores das juntas deverão ser depositados na Caixa Geral de Depósitos, de modo que não transite normalmente de um dia para o outro, na conta da tesouraria, importância superior à caução do tesoureiro.
+
+§ 4.º Quando o movimento da tesouraria o exija, haverá um proposto do tesoureiro, da confiança do mesmo tesoureiro, contratado pela junta e por ela remunerado.
+
+§ 5.º Nos concelhos situados fora da ilha da sede do distrito os pagamentos e recebimentos por conta da junta geral serão feitos pelos respectivos tesoureiros da Fazenda Pública.
+
+###### Artigo 46.º
+
+Compete ao tesoureiro:
+
+1.º Arrecadar as receitas da junta;
+
+2.º Efectuar o pagamento das autorizações e de todos os mais documentos de despesa, depois de visados pelo chefe da secretaria ou da secção de contabilidade e de selados com o sêlo branco da junta geral;
+
+3.º Transferir em cada dia para a Caixa Geral do Depósitos os fundos recebidos quando excedam a importância da sua caução ou outra inferior que seja fixada no regulamento da tesouraria;
+
+4.º Transferir, mediante guia passada pela contabilidade, para a competente tesouraria da Fazenda Pública as importâncias que por lei pertençam ao Tesouro ou aos serviços do Estado;
+
+5.º Assinar os cheques, recibos e mandados para levantamento de fundos da junta e remetê-los à contabilidade a fim de serem visados e depois submetidos à assinatura do presidente da comissão executiva;
+
+6.º Escriturar as relações de cobrança, o diário da receita eventual, o livro caixa, o livro da despesa paga e o livro de contas correntes dos rendimentos virtuais;
+
+7.º Entregar ao chefe da secretaria balancetes diários de caixa e bem assim no primeiro dia útil de cada mês os documentos de despesa pagos no decurso do mês findo e a relação de cobrança, com a colecção dos documentos do receita e dos títulos de anulação;
+
+8.º Prestar ao presidente da comissão executiva todas as informações pedidas e facultar-lhe o balanço da tesouraria sempre que êle o determinar;
+
+9.º Fiscalizar as pagadorias de obras públicas da junta, quando as haja;
+
+10.º Cumprir as disposições legais e regulamentares sôbre contabilidade;
+
+11.º Desempenhar as demais funções que as leis e regulamentos lhe impuserem.
+
+#### Secção III — Serviços agrícolas
+
+###### Artigo 47.º
+
+Os serviços agrícolas compreendem a Estação Agrária e a Regência Florestal e, quando completos, constituem a Direcção de Agricultura do distrito.
+
+###### Artigo 48.º
+
+A direcção da Estação Agrária será desempenhada por um agrónomo.
+
+§ 1.º Quando no distrito exista Direcção de Agricultura serão as funções do director inerentes às de director da Estação Agrária.
+
+§ 2.º O director da Agricultura será substituído nas suas faltas ou impedimentos pelo regente agrícola ou florestal mais antigo.
+
+###### Artigo 49.º
+
+Compete ao director de Agricultura ou, não o havendo, ao director da Estação Agrária:
+
+1.º Propor à comissão executiva a parte do plano quadrienal relativa ao fomento agrícola e florestal e as medidas convenientes para execução do que fôr definitivamente aprovado;
+
+2.º Executar e fazer executar as leis, regulamentos e deliberações relativos aos serviços a seu cargo;
+
+3.º Dirigir o pessoal empregado na Direcção ou Estação e manter a disciplina nos serviços;
+
+4.º Elaborar um relatório anual sôbre os serviços a seu cargo, para ser presente à comissão executiva;
+
+5.º Prestar ao presidente da comissão executiva a colaboração que lhe fôr pedida;
+
+6.º Mandar entregar, por guia, na tesouraria da junta as taxas, emolumentos e mais rendimentos do serviço.
+
+###### Artigo 50.º
+
+Compete à Estação Agrária:
+
+1.º Proceder à experimentação e ensaio de sementes e culturas nos campos e viveiros da junta;
+
+2.º Intensificar a vulgarização de conhecimentos agrícolas e prestar informações úteis aos agricultores;
+
+3.º Prestar assistência técnica aos agricultores, fornecendo-lhes sementes seleccionadas, facilitando-lhes árvores do fruto o enxertias e respondendo a consultas;
+
+4.º Estudar as condições económicas da produção dos principais géneros agrícolas e o seu movimento comercial nos mercados interno e externos;
+
+5.º Combater as moléstias das plantas e montar postos de sanidade vegetal;
+
+6.º Colaborar no estudo e na acção tendentes ao melhoramento da indústria de lacticínios;
+
+7.º Manter postos agrícolas, vitivinícolas e outros que a economia das ilhas justifique;
+
+8.º Ministrar o ensino prático elementar da agricultura geral e especializada.
+
+###### Artigo 51.º
+
+O director da Estação Agrária é o delegado da Inspecção Geral das Indústrias e Comércio Agrícolas no distrito, directamente dela dependente e com as atribuïções e competência estabelecidas na lei.
+
+§ único. Nas faltas e impedimentos do director da Estação Agrária serão as funções de delegado da Inspecção Geral desempenhadas pelo intendente de pecuária e na falta dêste pelo inspector de saúde.
+
+###### Artigo 52.º
+
+Compete à Regência Florestal:
+
+1.º Cuidar dos viveiros florestais;
+
+2.º Fazer a sementeira ou plantação dos terrenos escolhidos pela junta, de acôrdo com os estudos do silvicultores competentes;
+
+3.º Organizar os processos para concessão de licenças e autorizações da competência da junta, informando-os devidamente antes de serem submetidos a deliberação;
+
+4.º Superintender na polícia florestal, com todas as atribuïções e direitos conferidos pelo respectivo regulamento aos funcionários florestais do Estado;
+
+5.º Dirigir os serviços de conservação e de exploração das matas, de acôrdo com as normas legais e as instruções técnicas da Direcção Geral dos Serviços Florestais e Aqüicolas;
+
+6.º Proceder aos trabalhos de conservação e tratamento dos jardins da junta geral e de arborização das estradas distritais, conforme fôr acordado com a Direcção das Obras Públicas, e à poda das árvores;
+
+7.º Fazer o povoamento piscícola dos lagos e lagoas públicas.
+
+#### Secção IV — Serviços pecuários
+
+###### Artigo 53.º
+
+Os serviços pecuários, compreendendo os serviços zootécnicos, estão a cargo da Intendência de Pecuária.
+
+###### Artigo 54.º
+
+O lugar de intendente de pecuária será exercido por um veterinário.
+
+§ único. O intendente de pecuária será substituído, nas suas faltas e impedimentos, pelo veterinário municipal da sede do distrito ou, não o havendo, pelo director da Agricultura.
+
+###### Artigo 55.º
+
+Compete ao intendente de pecuária:
+
+1.º Executar e fazer executar as leis, regulamentos e instruções relativos à sanidade dos gados e realizar as necessárias campanhas profiláticas;
+
+2.º Promover a aplicação das leis e regulamentos de polícia sanitária e velar pela sua rigorosa execução;
+
+3.º Cumprir e fazer cumprir as leis e regulamentos relativos à higiene e salubridade dos produtos alimentares de origem animal, exercendo fiscalização, colhendo amostras e levantando autos, que serão enviados à delegação da Inspecção Geral das Indústrias e Comércio Agrícolas;
+
+4.º Promover o fomento zootécnico e o desenvolvimento e melhoramento das indústrias pecuárias;
+
+5.º Superintender nos postos zootécnicos do distrito;
+
+6.º Estudar as raças novas a introduzir no distrito e experimentar a sua adaptabilidade e rendimento;
+
+7.º Divulgar conhecimentos úteis aos criadores de gado;
+
+8.º Auxiliar, em colaboração com a Direcção de Agricultura, o aperfeiçoamento da indústria dos lacticínios;
+
+9.º Orientar, dirigir e inspeccionar os serviços a cargo dos veterinários municipais;
+
+10.º Propor à comissão executiva a parte do plano quadrienal relativa ao fomento pecuário e as medidas convenientes à execução do que fôr definitivamente aprovado;
+
+11.º Dirigir o pessoal empregado na Intendência e manter a disciplina nos serviços;
+
+12.º Elaborar um relatório anual sôbre os serviços a seu cargo, para ser presente à comissão executiva;
+
+13.º Prestar ao presidente da comissão executiva a colaboração que lhe fôr pedida;
+
+14.º Mandar entregar, por guia, na tesouraria da junta as taxas, emolumentos e mais rendimentos do serviço.
+
+#### Secção V — Serviços de saúde
+
+###### Artigo 56.º
+
+Os serviços de saúde compreendem a sanidade terrestre e a sanidade marítima, o hospital de isolamento e o pôsto de desinfecção, e estão a cargo da Inspecção de Saúde.
+
+###### Artigo 57.º
+
+O lugar de inspector de saúde será provido em médico habilitado com o concurso para inspectores de aglomerados de mais de 10:000 habitantes, ou com o curso de medicina sanitária e cinco anos, pelo menos, de exercício das funções de delegado ou guarda-mor de saúde.
+
+§ 1.º Os médicos habilitados com o concurso de prova públicas para inspectores dos aglomerados de mais de 10:000 habitantes que concorram ao provimento do lugar preterem os concorrentes que não tenham êsse concurso.
+
+§ 2.º O inspector de saúde será substituído, nas suas faltas e impedimentos, pelo adjunto, quando o haja, e, não o havendo, pelo delegado de saúde do concelho da sede do distrito.
+
+§ 3.º O inspector de saúde não pode, sob pena de demissão, intervir como médico em actos sujeitos à sua autoridade sanitária, nomeadamente passar atestados que devam ser apresentados na inspecção.
+
+###### Artigo 58.º
+
+Compete ao inspector de saúde:
+
+1.º Estudar as condições sanitárias do distrito e propor as medidas convenientes para o seu melhoramento;
+
+2.º Promover a execução das leis e regulamentos e das ordens e instruções relativas à saúde pública dimanadas da direcção geral competente;
+
+3.º Orientar, coordenar e fiscalizar o serviço dos delegados de saúde;
+
+4.º Exercer a inspecção da higiene do trabalho e das indústrias;
+
+5.º Dirigir a estação de saúde marítima da sede do distrito, proceder à visita de saúde, conceder ou negar livre prática às embarcações e cumprir e fazer cumprir as demais prescrições de sanidade marítima;
+
+6.º Inspeccionar o serviço das restantes estações de saúde marítima do distrito;
+
+7.º Dirigir o pôsto de desinfecção pública e balneários anexos;
+
+8.º Dirigir o hospital de isolamento e o combate às epidemias e às moléstias infecciosas;
+
+9.º Inspeccionar os hospitais, casas de saúde, centros sanitários, dispensários e estabelecimentos balneares e de assistência mantidos ou subsidiados pela junta geral;
+
+10.º Fazer cumprir as disposições legais sobre exercício médico profissional;
+
+11.º Propor à comissão executiva a parte do plano quadrienal relativa à higiene, profilaxia e defesa da saúdo pública no distrito;
+
+12.º Elaborar um relatório anual sôbre os serviços a seu cargo, para ser presente à comissão executiva;
+
+13.º Dirigir o pessoal empregado nos serviços de saúde e manter a disciplina nêles;
+
+14.º Corresponder-se directamente com a Direcção Geral de Saúde sôbre assuntos de polícia e estatística sanitária e a execução técnica dos serviços a seu cargo;
+
+15.º Prestar ao presidente da comissão executiva a colaboração que lhe fôr pedida;
+
+16.º Mandar entregar, por guia, na tesouraria da junta as taxas, emolumentos, multas e mais rendimentos provenientes do serviço.
+
+###### Artigo 59.º
+
+O pôsto de desinfecção e o hospital de isolamento serão aproveitados tanto para o serviço marítimo como para o terrestre, sendo também comum o respectivo pessoal.
+
+#### Secção VI — Serviços de obras públicas
+
+###### Artigo 60.º
+
+Os serviços de obras públicas distritais compreendem a construção, reparação e conservação de estradas e edifícios e os serviços hidráulicos, e estão a cargo da Direcção das Obras Públicas.
+
+###### Artigo 61.º
+
+A Direcção das Obras Públicas será chefiada por um engenheiro civil.
+
+§ único. Nas suas faltas e impedimentos o director das obras públicas será substituído pelo engenheiro subalterno mais antigo da Direcção ou, não o havendo, pelo condutor ou agente técnico mais antigo.
+
+###### Artigo 62.º
+
+A Direcção das Obras Públicas terá uma secção de expediente e contabilidade, uma secção de estudos e as secções de conservação que forem necessárias, tudo nos termos do regulamento elaborado pela junta geral, podendo também, no caso de se considerar indispensável, existir uma pagadoria e uma secção de hidráulica.
+
+###### Artigo 63.º
+
+As obras nos edifícios do Estado e monumentos nacionais existentes no distrito serão feitas pela Direcção das Obras Públicas, a requisição, sob as ordens e por conta da Direcção Geral dos Edifícios e Monumentos Nacionais.
+
+###### Artigo 64.º
+
+Compete à Direcção das Obras Públicas a assistência técnica às câmaras municipais que não tenham repartição própria de engenharia, a fiscalização das construções urbanas e a informação e fiscalização das obras realizadas com o auxílio do Estado em regime de comparticipação.
+
+###### Artigo 65.º
+
+Compete ao director das obras públicas:
+
+1.º Propor à comissão executiva a classificação das estradas do distrito;
+
+2.º Proceder ou mandar proceder à elaboração de estudos, plantas, projectos e orçamentos de obras e trabalhos a efectuar no distrito;
+
+3.º Dirigir e fiscalizar, ou mandar executar sob sua responsabilidade, as obras e trabalhos ordenados pela comissão executiva, depois de competentemente estudados e projectados;
+
+4.º Mandar inventariar o material da junta entregue à Direcção e vigiar pela sua conservação;
+
+5.º Assalariar, nos termos das instruções recebidas da comissão executiva, o pessoal não permanente que seja necessário para a realização das obras e trabalhos;
+
+6.º Ordenar a instrução de todos os processos sôbre matéria relativa aos serviços a seu cargo que tenham de ser resolvidos pela comissão executiva, interpondo nêles a sua informação e parecer;
+
+7.º Projectar e dirigir as obras de melhoramento, saneamento ou aproveitamento das águas e correntes públicas, seus leitos, álveos e margens, ou das levadas para irrigação pertencentes ao distrito ou a particulares;
+
+8.º Superintender na polícia e conservação das águas públicas sob a administração da junta, elaborando as necessárias instruções, nos termos da lei;
+
+9.º Exercer os demais poderes e deveres que aos directores de estradas, de edifícios ou de hidráulica competem pelas leis e regulamentos em vigor no continente;
+
+10.º Propor à comissão executiva as obras mais necessárias e urgentes que devam figurar no plano quadrienal, documentando-as com memórias descritivas e estudos já feitos e com uma estimativa do custo;
+
+11.º Dirigir o pessoal empregado na Direcção e nas obras e trabalhos e manter a disciplina nos serviços;
+
+12.º Elaborar um relatório anual sobre os serviços a seu cargo, para ser presente à comissão executiva;
+
+13.º Prestar ao presidente da comissão executiva a colaboração que lhe fôr pedida;
+
+14.º Mandar entregar, por guia, na tesouraria da junta as taxas, emolumentos, multas e mais rendimentos provenientes dos serviços.
+
+#### Secção VII — Serviços industriais e eléctricos
+
+###### Artigo 66.º
+
+Os serviços industriais e elétricos compreendem os da competência das circunscrições industriais e os de licenciamento e fiscalização das instalações eléctricas de serviço público e particular.
+
+###### Artigo 67.º
+
+Os serviços industriais e eléctricos constituirão uma secção anexada a outros serviços afins, conforme o interêsse de cada distrito aconselhe, chefiada por um agente técnico de máquinas ou electricidade se os serviços a que estiver anexa não forem dirigidos por engenheiro industrial, mecânico ou electrotécnico.
+
+###### Artigo 68.º
+
+Compete à secção dos serviços industriais e eléctricos:
+
+1.º O registo do trabalho nacional e o serviço de estatística industrial;
+
+2.º A organização dos processos de licenciamento das indústrias insalubres, incómodas, perigosas ou tóxicas;
+
+3.º O expediente do licenciamento e a prova, renovação de prova, vistoria e fiscalização das caldeiras, geradores e recipientes de vapor e a autorização para construção de chaminés;
+
+4.º O inquérito sôbre as causas dos sinistros nas caldeiras;
+
+5.º O registo, vistoria e autorização para instalação e funcionamento de motores;
+
+6.º A inspecção de pesos e medidas;
+
+7.º A organização dos processos de condicionamento industrial que hão-de ser resolvidos polo Govêrno;
+
+8.º A organização dos processos de licenciamento de instalações eléctricas e fiscalização das mesmas instalações.
+
+###### Artigo 69.º
+
+Ao chefe da secção compete:
+
+1.º Informar todos os processos organizados na secção;
+
+2.º Apresentar ao presidente da comissão executiva os processos sôbre que deva recair deliberação;
+
+3.º Remeter aos Ministérios competentes os processos que por êles devam ser resolvidos, correspondendo-se directamente, para êste efeito, com as Direcções Gerais respectivas;
+
+4.º Mandar pagar, por guia, na tesouraria da junta as taxas, emolumentos, multas e mais rendimentos provenientes dos serviços;
+
+5.º Dirigir o trabalho do pessoal da secção;
+
+6.º Elaborar um relatório anual sôbre os serviços a seu cargo, para ser presente à comissão executiva;
+
+7.º Prestar ao presidente da comissão executiva a colaboração que lhe fôr pedida.
+
+#### Secção VIII — Serviços de viação
+
+###### Artigo 70.º
+
+Os serviços de viação serão anexados a outros serviços afins, conforme o interêsse do cada distrito aconselhe, podendo, no caso de ser deminuto o seu movimento, ser chefiados por um engenheiro ou agente técnico do quadro dos serviços a que estiverem anexos.
+
+###### Artigo 71.º
+
+Compete ao chefe dos serviços de viação:
+
+1.º Informar todos os processos que tenham de ser resolvidos pela comissão executiva;
+
+2.º Autorizar a exploração do transporte de excursionistas em automóveis pesados de aluguer;
+
+3.º Autorizar os transportes a que se referem o § único do artigo 1.º, o § único do artigo 5.º e o artigo 55.º do regulamento especial do transportes em automóveis posados;
+
+4.º Autorizar o refôrço de uma carreira com um novo carro ou o emprêgo de carros de terceiros;
+
+5.º Cancelar viaturas empregadas em carreiras regulares;
+
+6.º Autorizar a suspensão de carreiras regulares;
+
+7.º Exercer a competência dos chefes das circunscrições de viação.
+
+###### Artigo 72.º
+
+Nos distritos do Funchal e de Ponta Delgada haverá uma secção técnica dos serviços de viação, com a competência que a lei e os regulamentos lhe conferem, em especial o exame dos candidatos a condutores de automóveis e o registo, passagem e averbamentos das respectivas cartas.
+
+§ único. A Secção técnica de Ponta Delgada exercerá a sua competência nos distritos de Ponta Delgada e Angra do Heroísmo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+#### Secção IX — Laboratório distrital
+
+###### Artigo 73.º
+
+Os serviços laboratoriais serão concentrados num laboratório distrital, onde se procederá a análises de terras, toxicológicas, bromatológicas, bacteriológicas e clínicas e à preparação de soros e vacinas.
+
+§ único. O laboratório poderá ter duas secções, uma de análises químicas e outra de análises bacteriológicas e clínicas.
+
+###### Artigo 74.º
+
+O director do laboratório distrital será um médico bacteriologista ou um engenheiro químico.
+
+###### Artigo 75.º
+
+As análises requisitadas pelos serviços distritais e pela polícia ao director do laboratório ou solicitadas pelos serviços do Estado ao presidente da comissão executiva serão gratuitas, mas as análises para particulares estão sujeitas ao pagamento de taxas, segundo o preçário quo fôr aprovado pola comissão executiva.
+
+### Capítulo V — Dos funcionários e assalariados distritais
+
+###### Artigo 76.º
+
+O pessoal maior de carteira dos serviços distritais constitue um só quadro privativo em cada distrito autónomo.
+
+###### Artigo 77.º
+
+O recrutamento e provimento dos funcionários de carteira da junta geral far-se á nos termos prescritos no Código Administrativo para os quadros privativos.
+
+§ 1.º O júri das provas dos concursos será constituído pelo presidente da comissão executiva, pelo secretário do govêrno civil e pelo chefe da secretaria.
+
+§ 2.º Em todos os concursos e nomeações a efectuar nos distritos autónomos é permitida a apresentação do certificado do registo criminal e policial pelos concorrentes até dois meses depois do encerramento do concurso ou da nomeação.
+
+###### Artigo 78.º
+
+O chefe de secretaria será nomeado, mediante concurso de provimento, de entre candidatos habilitados, pelo menos, com a licenciatura em direito e o concurso de ingresso no quadro geral administrativo dos serviços externos do Ministério do Interior.
+
+###### Artigo 79.º
+
+O pessoal maior técnico dos serviços distritais constitue tantos quadros especiais quantas as direcções ou repartições.
+
+§ 1.º Se para a execução de tais serviços se tornarem necessários funcionários de carteira, serão estes designados, pelo presidente da comissão executiva, de entre os do respectivo quadro.
+
+§ 2.º O recrutamento do pessoal não de carteira far-se-á nos termos prescritos pelas leis e regulamentos para análogos cargos e serviços do Estado.
+
+###### Artigo 80.º
+
+O provimento definitivo dos lugares técnicos será sempre por meio do concurso documental, em que os candidatos provem a posse dos requisitos gerais para o exercício de funções públicas e mais as habilitações especialmente exigidas para o desempenho do cargo.
+
+§ único. A comissão executiva da junta geral poderá sempre optar pelo provimento por contrato anual, sucessivamente renovável, mas contanto que o contratado possua à data do primeiro contrato os requisitos gerais e as habilitações especiais para o exercício da função.
+
+###### Artigo 81.º
+
+Só é permitido contratar pessoal permanente para o provimento de vagas correspondentes a lugares dos quadros aprovados por lei. O pessoal assalariado de carácter permanente, com as garantias conferidas pelo Código Administrativo, será apenas o que preencha lugares dos quadros propostos pela junta geral e aprovados pelo Ministro do interior, depois de ouvida a Caixa Geral de Aposentações.
+
+§ 1.º Os contratos para a prestação de serviços transitórios não poderão exceder a duração de seis meses, renováveis apenas por mais três meses, e estipularão sempre a remuneração global dos serviços prestados, com a cláusula de que metade, pelo menos, só será paga depois de êles concluídos.
+
+§ 2.º Só podem ser assalariados os apontadores, os serventuários do pessoal menor, os cantoneiros, os operários e os trabalhadores, mas o pessoal que não preencha vaga nos quadros prestará serviço ùnicamente enquanto durarem os trabalhos e obras para que fôr chamado.
+
+###### Artigo 82.º
+
+O tempo de serviço prestado às juntas gerais por funcionários do Estado, ainda que se encontrem na situação de licença ilimitada nos quadros dos Ministérios a que pertençam, é contado para efeito de aposentação.
+
+§ 1.º Os funcionários do Estado aposentar-se-ão sempre pela Caixa Geral de Aposentações, que pagará toda a pensão, recebendo depois da junta geral a cota parte correspondente ao número de anos de serviço que lhe tenha sido prestado.
+
+§ 2.º O disposto neste artigo aplica-se aos funcionários que antes do seu ingresso nos quadros do Estado tenham sido nomeados para cargos correspondentes aos dos mesmos quadros na dependência das juntas gerais autónomas.
+
+## Título III — Das finanças distritais
+
+### Capítulo I — Da receita e despesa, orçamento e contabilidade
+
+###### Artigo 83.º
+
+Constituem receita ordinária dos distritos autónomos:
+
+1.º A contribuïção predial, rústica e urbana;
+
+2.º A contribuïção industrial;
+
+3.º O imposto profissional;
+
+4.º O imposto sôbre a aplicação de capitais;
+
+5.º O adicional até 20 por cento das colectas das contribuïções e impostos atrás enumeradas;
+
+6.º O imposto de trânsito;
+
+7.º O imposto de camionagem;
+
+8.º Os juros de mora;
+
+9.º Os adicionais que por lei devam ser cobrados para a junta geral com as contribuïções directas do Estado;
+
+10.º Os rendimentos de bens próprios, mobiliários e imobiliários;
+
+11.º As taxas, emolumentos e rendimentos dos serviços distritais;
+
+12.º O produto das multas cobradas pelos serviços distritais em conseqüência da transgressão de posturas e regulamentos cuja aplicação seja da sua competência;
+
+13.º O produto da cobrança de créditos vincendos no ano económico;
+
+14.º Quaisquer outros rendimentos atribuídos por lei.
+
+###### Artigo 84.º
+
+A cobrança das contribuïções e impostos, adicionais e juros de mora será feita pelo Estado e o produto entregue mensalmente às juntas gerais, à medida que vá sendo arrecadado.
+
+§ 1.º As juntas gerais pagarão ao Estado, como compensação da cobrança, 2 por cento das quantias arrecadadas, devendo fazer-se a respectiva dedução em cada ordem de entrega de receita.
+
+§ 2.º O contencioso das contribuïções e impostos e a cobrança coerciva regulam-se pelas leis comuns, sendo competentes as autoridades e tribunais nelas instituídos.
+
+§ 3.º No primeiro trimestre de cada ano, quando não estejam concluídas as tabelas de cobrança e encerradas as contas do mês de Janeiro por motivo justificado, poderá a direcção de finanças fazer entrega em cada mês à junta geral de 80 por cento do duodécimo previsto para as receitas por ela cobradas.
+
+###### Artigo 85.º
+
+Pertencem às juntas gerais as receitas dos cofres privativos e os emolumentos das secretarias dos governos civis e da polícia, as taxas e emolumentos de passaportes, licenças de emigração e de agentes de emigração, as multas aplicadas pelas delegações do Instituto Nacional do Trabalho e Previdência e pelos tribunais do trabalho e as receitas da delegação da Inspecção Geral das Indústrias e Comércio Agrícolas.
+
+§ 1.º Nos distritos em que o ensino liceal e técnico seja custeado pelas juntas gerais pertencem a estas os rendimentos provenientes dos emolumentos das secretarias dos liceus e escolas, dos boletins de matrícula e inscrição, propinas, requerimentos para exame, cartas de curso e venda de cadernos escolares.
+
+§ 2.º Nos distritos que tenham a seu cargo os serviços industriais, eléctricos e de viação pertencem às juntas gerais as respectivas receitas, salvo as de registo de trabalho nacional, de que terão dois terços, e as do licenciamento e fiscalização de caldeiras e motores, de que lhes cabe metade.
+
+###### Artigo 86.º
+
+Constituem despesas obrigatórias de administração dos distritos autónomos:
+
+1.º Os vencimentos do pessoal legalmente provido nos lugares dos quadros aprovados por lei;
+
+2.º As pensões de aposentação;
+
+3.º Os encargos de empréstimos legalmente contraídos;
+
+4.º As resultantes de contratos legalmente celebrados;
+
+5.º As do pagamento de dívidas exigíveis;
+
+6.º As dos litígios;
+
+7.º As dos prémios de seguro dos bens distritais;
+
+8.º As dos impostos, foros, pensões ou outros encargos a que estejam sujeitos os bens próprios do distrito;
+
+9.º As de dotação dos serviços distritais;
+
+10.º As do pagamento dos emolumentos pelo julgamento de contas;
+
+11.º As da hospitalização dos alienados;
+
+12.º As resultantes da instalação e manutenção dos serviços do Estado postos a seu cargo, nomeadamente o govêrno civil, os estabelecimentos de ensino liceal e técnico, a delegação do Instituto Nacional do Trabalho e Previdência, o tribunal do trabalho, a direcção do distrito escolar, a Biblioteca Pública de Ponta De'gada e o Arquivo Distrital do Funchal e dos vencimentos do respectivo pessoal;
+
+13.º As do expediente da comissão distrital de contas;
+
+14.º As de instalação e conservação da direcção de finanças e quaisquer outras repartições distritais;
+
+15.º O subsídio para despesas de representação do presidente da comissão executiva e as despesas de grande representação do govêrno do distrito;
+
+16.º As que nos distritos do continente estejam a cargo dos cofres privativos dos governos civis;
+
+17.º Quaisquer outras que a lei imponha.
+
+###### Artigo 87.º
+
+O orçamento das juntas gerais será organizado nos termos prescritos pelo Código Administrativo, mas a receita ordinária será classificada e distribuída pelos seguintes capítulos:
+
+1.º Contribuïções e impostos;
+
+2.º Taxas - Rendimentos de diversos serviços e de bens próprios;
+
+3.º Consignação de receitas;
+
+4.º Reembolsos, reposições e dívidas activas.
+
+###### Artigo 88.º
+
+Só podem ser inscritas no orçamento da despesa de um ano económico sob a rubrica de dividas passivas as que figurem na relação anexa à conta de gerência do ano anterior.
+
+###### Artigo 89.º
+
+É permitido às comissões executivas das juntas gerais:
+
+1.º Transferir verbas do orçamento das despesas dentro da mesma classe, não podendo ser transferidas as que se destinem a dotar construções e obras novas e a conservação e aproveitamento do material;
+
+2.º Aprovar orçamentos suplementares para ocorrer as despesas imprevistas e extraordinárias resultantes de imposição legal ou de factos ou circunstâncias anormais.
+
+§ único As deliberações sôbre transferência de verbas e aprovação de orçamentos suplementares só se tornam executórias depois de aprovadas pelo governador do distrito, ouvida a comissão distrital de contas.
+
+###### Artigo 90.º
+
+A contabilidade distrital reger-se-á pelas normas estabelecidas para a contabilidade municipal, com as alterações julgadas indispensáveis que as juntas gerais introduzirem nos seus regulamentos privativos.
+
+§ único. O regulamento privativo da contabilidade só entrará em vigor depois de aprovado pelo governador do distrito, ouvida a comissão distrital de contas.
+
+###### Artigo 91.º
+
+Os rendimentos dos serviços administrativos e especiais da junta serão sempre cobrados pela tesouraria, mediante guia passada na repartição onde forem processados.
+
+§ único. Exceptuam-se os serviços a que fôr concedida autonomia financeira por assim o permitirem as leis e regulamentos por que se regem idênticos serviços do Estado.
+
+### Capítulo II — Da comissão distrital de contas
+
+###### Artigo 92.º
+
+Em cada distrito autónomo haverá uma comissão distrital de contas, composta pelo director de finanças, pelo delegado do Procurador da República na comarca da sede do distrito e por um vogal designado pelo governador.
+
+§ 1.º A presidência da comissão pertence ao director de finanças; mas se estiver fazendo as suas vezes o substituto, passará ao delegado do Procurador da República.
+
+§ 2.º Os funcionários que fazem parte da comissão serão substituídos por quem os substituir nas funções públicas que exercem, e o vogal nomeado, por um substituto também de nomeação do governador.
+
+§ 3.º O vogal de nomeação será escolhido de entre pessoas com prática da administração distrital, de preferência formados ou licenciados em direito ou em ciências económicas e financeiras.
+
+§ 4.º O expediente da comissão corre pela direcção de finanças do distrito.
+
+§ 5.º As funções da comissão são obrigatórias e gratuitas.
+
+###### Artigo 93.º
+
+Compete à comissão:
+
+1.º Dar parecer sôbre a transferência de verbas o os orçamentos suplementares da junta geral;
+
+2.º Dar parecer sôbre o regulamento privativo da contabilidade distrital;
+
+3.º Dar parecer sôbre as dúvidas que a comissão executiva tiver acêrca da execução das disposições legais relativas à realização de despesas e da sujeição ao exame e visto;
+
+4.º Examinar e visar:
+
+a) As minutas de todos os contratos de arrendamento, empreitada e concessão, bem como os de fornecimentos por prazo superior a um mês;
+
+b) Os contratos de qualquer natureza;
+
+c) Todas as deliberações e decisões que envolvam abonos de qualquer espécie a pagar por verbas do orçamento distrital, incluindo as nomeações, mesmo interinas, e as que concederem gratificações de carácter permanente autorizadas por lei, mas sem limite fixo nela expresso.
+
+5.º Participar ao governador do distrito e aos tribunais competentes os actos praticados pela junta geral, comissão executiva ou seu presidente com desrespeito do disposto neste artigo.
+
+§ único. Não estão sujeitos ao visto:
+
+a) As autorizações e mandados para pagamento de vencimentos certos ou eventuais inerentes por disposição legal expressa ao exercício de qualquer cargo;
+
+b) Os abonos a pagar por verbas globais em soldadas, férias e salários de pessoal operário.
+
+###### Artigo 94.º
+
+O exame e visto será feito por dois vogais, um dos quais será sempre o director de finanças e o outro designado para êsse serviço por escala de semanas alternadas.
+
+§ 1.º A secretaria da junta geral remeterá à direcção de finanças, dentro dos oito dias seguintes à aprovação da respectiva acta, cópia de teor e em duplicado da parte respeitante à deliberação, selada com o sêlo branco da junta, ou, tratando-se de despacho do presidente da comissão executiva, cópia do documento em que tenha sido proferido, com o teor dêle.
+
+§ 2.º A cópia em duplicado do acto sujeito a visto será acompanhada do processo que tenha instruído e fundamentado a deliberação ou decisão e de informação da contabilidade da junta sôbre o cabimento de verba.
+
+§ 3.º Recebida a cópia, será logo registada em livro próprio na direcção de finanças, capeada, autuada e remetido o processo aos vogais encarregados do exame e visto.
+
+§ 4.º O exame consistirá em verificar se a despesa é autorizada por lei, se está correctamente classificada e se tem cabimento na competente verba orçamental.
+
+§ 5.º Concordando os dois vogais, será apôsto ou negado o visto, mas, se discordarem, o presidente convocará imediatamente a reünião da comissão, para se resolver por maioria.
+
+§ 6.º A concessão ou denegação do visto deve fazer-se no prazo máximo de quatro dias úteis contados da data da entrada do acto na direcção de finanças.
+
+§ 7.º A comissão pode pedir novos documentos ou esclarecimentos à junta geral, devendo nesse caso contar-se o prazo desde a data da entrada dos elementos pedidos.
+
+§ 8.º Concedido ou negado o visto, será devolvido à secretaria da junta um dos exemplares da cópia do acto, com a decisão exarada, acompanhada do processo instrutor, ficando o outro exemplar arquivado na direcção de finanças.
+
+§ 9.º A recusa do visto será sempre fundamentada.
+
+###### Artigo 95.º
+
+Da decisão da comissão distrital de contas sôbre denegação de visto poderá a comissão executiva da junta geral interpor recurso para o Tribunal de Contas, no prazo do trinta dias e sem efeito suspensivo.
+
+###### Artigo 96.º
+
+A recusa do visto pela comissão distrital de contas importa a anulação das deliberações ou decisões, salvo se vier a ser concedido pelo Tribunal de Contas.
+
+§ 1.º Nenhum contrato nem nomeação poderá começar a produzir os seus efeitos em data anterior à do visto.
+
+§ 2.º São nulas as nomeações e contratos feitos sem visto prévio da comissão de contas.
+
+###### Artigo 97.º
+
+Ficam pessoal e solidàriamente responsáveis pelas despesas feitas sem o visto da comissão distrital de contas os procuradores à junta geral, os vogais da comissão executiva e seu presidente e os funcionários a quem seja imputável a omissão dessa formalidade.
+
+§ único. No caso de não ser possível o apuramento da responsabilidade presumir-se-ão responsáveis o presidente da comissão executiva e o chefe da secretaria.
+
+## Título IV — Dos governadores dos distritos autónomos
+
+### Capítulo ÚNICO — Designação e competência
+
+###### Artigo 98.º
+
+Nos distritos autónomos o governador civil tem a designação de «governador do distrito autónomo» e goza em todo o território da circunscrição das honras que competem aos Ministros de Estado, com precedência sôbre todas as autoridades civis, judiciais e militares que nêle sirvam, estacionem ou transitem, exceptuados o Presidente da República, o Presidente do Conselho, os Ministros, os Sub-Secretários de Estado e os presidentes do Supremo Tribunal de Justiça, da Assemblea Nacional e da Câmara Corporativa.
+
+§ 1.º Os vencimentos dos governadores são os que constam da tabela anexa ao presente Estatuto e que dêle fica fazendo parte integrante.
+
+§ 2.º Os governadores naturais do continente e que aí se encontrem residindo à data da sua nomeação têm direito ao abono de passagens, por conta do Estado, para si e suas famílias, na viagem de ida após a nomeação e na de regresso em caso de exoneração ou demissão, bem como ao pagamento do frete do excesso de bagagem, até ao limite que fôr autorizado pelo Ministro do Interior.
+
+§ 3.º É proïbido o abono regular aos governadores de importâncias por conta da verba de despesas de grande representação dos orçamentos das juntas gerais.
+
+###### Artigo 99.º
+
+Aos governadores dos distritos autónomos compete, além dos poderes conferidos pelo Código Administrativos aos governadores civis:
+
+1.º Fiscalizar a actividade de todos os serviços públicos dependentes do Estado e existentes no distrito, informando os competentes Ministros das irregularidades de que tiverem conhecimento;
+
+2.º Resolver em caso de urgência as dúvidas e dificuldades que surjam na aplicação das leis e regulamentos pelos serviços do Estado, participando logo ao Ministro competente a decisão tomada;
+
+3.º Visitar, ao menos uma vez cada ano, os diferentes pontos das ilhas que constituem o distrito, recebendo as petições e reclamações que lhes forem apresentadas e inquirindo das necessidades locais;
+
+4.º Nomear o presidente da junta geral e o seu substituto, um vogal efectivo e outro substituto para a comissão distrital de contas, os presidentes das câmaras municipais, os conselhos municipais, onde lhes fôr permitido, e os regedores;
+
+5.º Exercer a tutela, ouvida a comissão distrital de contas, sôbre as deliberações da comissão executiva relativas à transferência de verbas orçamentais ou a orçamentos suplementares;
+
+6.º Aprovar, ouvida a comissão distrital de contas, o regulamento privativo da contabilidade da junta geral;
+
+7.º Suspender as deliberações da junta geral e da comissão executiva quando as considere gravemente lesivas do interêsse geral;
+
+8.º Autorizar a admissão de candidatos a concursos abertos pelos corpos administrativos e pessoas colectivas de utilidade pública administrativa quando verifique não revelarem espírito de oposição aos princípios essenciais da Constituïção Política e que dão garantia de cooperar na realização dos fins superiores do Estado;
+
+9.º Regular a exportação dos produtos agrícolas e de gado por meio de instruções dirigidas às alfândegas, ouvido o delegado da Inspecção Geral das Indústrias e Comércio Agrícolas, nos termos da legislação em vigor;
+
+10.º Superintender nos serviços da polícia cívica, salva a competência legalmente conferida aos órgãos superiores dêsses serviços, dispondo da polícia de segurança para manter a ordem e tranqüilidade pública, mas sem intromissão na investigação criminal e nas prisões preventivas durante o prazo legal;
+
+11.º Em geral, superintender na administração pública do distrito, providenciando sôbre tudo o que, por lei ou regulamento, não seja das atribuïções de outras autoridades.
+
+###### Artigo 100.º
+
+O Govêrno poderá, por decreto, delegar poderes ministeriais em algum ou em todos os governadores dos distritos autónomos.
+
+§ único. Em casos de extrema urgência e verificando-se circunstâncias excepcionais, a delegação será feita por telegrama, mas apenas pelo tempo que durarem as circunstâncias que a justifiquem.
+
+###### Artigo 101.º
+
+Compete aos governadores, ouvida a junta geral e obtida autorização do Presidente do Conselho, elaborar regulamentos legislativos sôbre quaisquer matérias não reguladas por lei ou decreto, ou quando os regulamentos do Govêrno não sejam aplicáveis aos distritos autónomos.
+
+§ único. Os regulamentos legislativos serão publicados no Diário do Govêrno e por editais afixados nos lugares do estilo em todo o distrito, aplicando-se-lhes os demais preceitos relativos aos regulamentos dos governadores civis.
+
+## Título V — Dos concelhos e freguesias
+
+### Capítulo I — Dos concelhos
+
+#### Secção I — Disposições gerais
+
+###### Artigo 102.º
+
+Os presidentes das câmaras municipais com sede em ilhas que não sejam sede do distrito tomam posse na própria câmara pela apresentação do alvará de nomeação.
+
+§ único. O auto de posse será lavrado no livro próprio pelo chefe da secretaria da câmara, que logo extraïrá cópia para ser enviada ao governador.
+
+###### Artigo 103.º
+
+O quadro-tipo do pessoal maior das secretarias das câmaras dos concelhos rurais de 3.ª ordem será, salvo o que vai disposto para o concelho do Corvo, constituído por um chefe de secretaria, um aspirante e um escriturário de 2.ª classe.
+
+§ 1.º Nos concelhos cuja receita ordinária média nos últimos três anos seja superior a 500.000$00 poderá o governador do distrito autorizar, quando o movimento da secretaria o justifique, a criação de mais um lugar de escriturário de 2.ª classe.
+
+§ 2.º Nos concelhos rurais de 3.ª ordem os serviços da tesouraria estão a cargo dos tesoureiros da Fazenda Pública.
+
+§ 3.º Nos concelhos em que o pessoal actualmente existente exceder o quadro serão os funcionários excedentes considerados escriturários de 2.ª classe supranumerários, extinguindo-se os lugares à medida que vagarem.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 104.º
+
+O quadro-tipo do pessoal maior das secretarias das câmaras dos concelhos rurais de 2.ª ordem será de um chefe de secretaria, um aspirante e dois escriturários de 3.ª classe.
+
+§ 1.º Quando o movimento da secretaria o justifique, poderá o governador do distrito autorizar nos concelhos cuja receita ordinária média nos últimos três anos seja superior a 500.000$00 a criação de mais um lugar de escriturário de 3.ª classe.
+
+§ 2.º Nos concelhos rurais de 2.ª ordem os serviços de tesouraria estão a cargo do tesoureiro da Fazenda Pública.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 105.º
+
+O intendente de pecuária poderá exercer as funções de veterinário municipal do concelho da sede do distrito, mediante a gratificação mensal de 600$00, paga pela Câmara.
+
+###### Artigo 106.º
+
+Continua a ser permitido o lançamento de impostos indirectos sôbre os géneros importados para consumo pelas alfândegas das ilhas, incluindo as matérias primas.
+
+§ 1.º As câmaras municipais elaborarão uma pauta, sôbre o modêlo da pauta aduaneira, com os géneros e artigos tributados, excluindo os isentos expressamente de imposto para o Estado.
+
+§ 2.º A pauta municipal só se torna executória depois de aprovada pelo Ministro das Finanças, ouvido o director da alfândega do distrito autónomo a que o concelho pertencer.
+
+§ 3.º A cobrança dos impostos indirectos será feita pelas alfândegas no acto do despacho, qualquer que seja a declaração dos importadores acêrca do destino das mercadorias.
+
+§ 4.º Sòmente serão restituídos aos importadores os impostos cobrados por géneros que se reexportarem.
+
+###### Artigo 107.º
+
+As câmaras municipais existentes em cada ilha farão sempre, entre si, acôrdo para a adopção da mesma pauta e repartição do produto do imposto cobrado, sendo facultativo o acôrdo entre câmaras de diferentes ilhas do mesmo distrito.
+
+§ 1.º Quando faltar o acôrdo das câmaras interessadas, decidirá sôbre os pontos não resolvidos o governador do distrito, ouvida a comissão executiva da junta geral.
+
+§ 2.º O produto dos impostos cobrados será mensalmente entregue pelas alfândegas às câmaras, na proporção do que entre elas tiver sido acordado ou fôr estabelecido pelo governador na falta de acôrdo, deduzindo 5 por cento como compensação das despesas de cobrança para o Estado.
+
+§ 3.º Os acordos a que êste artigo se refere serão obrigatòriamente revistos de dez em dez anos, a partir de 1940.
+
+###### Artigo 108.º
+
+Não tem aplicação nas ilhas adjacentes o disposto no artigo 715.º do Código Administrativo.
+
+§ 1.º O director da alfândega terá sempre em atenção, no parecer que der sôbre os projectos das pautas municipais, a necessidade de não encarecer os géneros de consumo corrente das classes pobres e de evitar os excessos do proteccionismo da economia de uma ilha em detrimento das outras ilhas ou do continente.
+
+§ 2.º O imposto sôbre vinhos de pasto não poderá exceder $30 por litro e o imposto sôbre o álcool simples será sempre o dôbro do que incidir sôbre a aguardente.
+
+###### Artigo 109.º
+
+Constitue receita das câmaras municipais o produto total do imposto sôbre tabaco importado das outras ilhas do arquipélago ou produzido na localidade.
+
+###### Artigo 110.º
+
+Os cãis rateiros e os portadores de costa pagarão a taxa anual de registo e licença de 2$50.
+
+###### Artigo 111.º
+
+A cobrança dos impostos indirectos sôbre os géneros vendidos para consumo nos mercados municipais poderá ser feita por arrematação quando se mostre haver considerável prejuízo na cobrança directa e a deliberação da câmara seja aprovada pelo conselho municipal.
+
+§ único. Fora dos mercados municipais aplica-se o disposto no artigo 718.º do Código Administrativo.
+
+#### Secção II — Disposições especiais para as ilhas de Pôrto Santo e do Corvo
+
+###### Artigo 112.º
+
+Nas ilhas de Pôrto Santo e do Corvo não haverá juntas de freguesia, cujas atribuïções e competência passam para as respectivas câmaras municipais.
+
+###### Artigo 113.º
+
+O lugar de presidente da câmara municipal será desempenhado pelo delegado marítimo quando êste seja oficial da armada.
+
+§ 1.º No caso de o delegado marítimo não ser oficial da armada o governador do distrito poderá nomear qualquer outro funcionário distrital ou do Estado residente na ilha.
+
+§ 2.º O presidente da câmara é também o delegado da junta geral na ilha.
+
+###### Artigo 114.º
+
+O conselho municipal será constituído por dez a quinze munícipes, designados quadrienalmente pelo governador do distrito de entre os chefes de família do concelho, maiores de trinta anos, probos e de sã consciência.
+
+§ único. Não podem ser designados para o conselho municipal os indivíduos compreendidos nos n.os 1.º e 8.º a 18.º do artigo 18.º do Código Administrativo.
+
+###### Artigo 115.º
+
+As Câmaras Municipais de Pôrto Santo e de Vila do Corvo não têm atribuïções de exercício obrigatório nem órgãos municipais consultivos e ficam dispensadas de mandar levantar a planta topográfica da sede do concelho e de organizar o respectivo plano de urbanização.
+
+###### Artigo 116.º
+
+A secretaria da Câmara Municipal de Vila do Corvo estará a cargo de um escrivão, com a competência dos chefes de secretaria, provido por contrato anual, tàcitamente renovável.
+
+§ 1.º O lugar de escrivão poderá ser acumulado com qualquer outra função pública remunerada.
+
+§ 2.º O vencimento mensal do escrivão será livremente fixado pela câmara, de harmonia com as possibilidades financeiras do concelho, mas sem nunca exceder 500$00.
+
+§ 3.º Em caso de absoluta necessidade poderá o governador do distrito autorizar a câmara a contratar um auxiliar de secretaria, com o vencimento mensal máximo de 250$00.
+
+§ 4.º Se houver actualmente funcionários com provimento vitalício manter-se-ão estes com os vencimentos que estejam auferindo, mas os lugares serão extintos à medida que vagarem.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 40355 - Diário do Governo n.º 228/1955, Série I de 1955-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40355-1955-245484)
+
+###### Artigo 117.º
+
+Na ilha do Corvo o escrivão da Câmara desempenha as funções de notário público.
+
+###### Artigo 118.º
+
+As funções de tesoureiro municipal serão desempenhadas por um dos vereadores da câmara, designado pelo presidente, quando as receitas ordinárias anuais sejam inferiores a 100.000$00, aplicando-se-lhe o disposto no artigo 265.º do Código Administrativo.
+
+§ único. Se as receitas excederem 100.000$00, as funções de tesoureiro serão desempenhadas pelo tesoureiro da Fazenda Pública.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31386 - Diário do Govêrno n.º 161/1941, Série I de 1941-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31386-1941-330634)
+
+###### Artigo 119.º
+
+São dispensadas estas câmaras do pagamento de quaisquer cotas para associações e institutos nacionais e internacionais que a lei imponha aos municípios.
+
+### Capítulo II — Das freguesias
+
+#### Secção I — Freguesias do Arquipélago dos Açôres
+
+###### Artigo 120.º
+
+Em cada freguesia do Arquipélago dos Açôres haverá uma junta de freguesia e um regedor, com as atribuïções e competência que lhes são conferidas pelo Código Administrativo.
+
+§ único. Exceptua-se o disposto quanto à ilha do Corvo no artigo 112.º do presente Estatuto.
+
+###### Artigo 121.º
+
+As juntas de freguesia acrescem às suas próprias atribuïções as que por lei incumbem às Casas do Povo sôbre instrução, educação e progressos locais.
+
+§ 1.º As juntas podem também formar mutualidades e cooperativas nos termos permitidos às Casas do Povo, mas essas instituïções terão sócios privativos, uma direcção própria, de que fará parte o presidente da junta, e finanças e administração autónomas, ficando com direito a receber o dote para organização e fundo permanente concedido às Casas do Povo e sob a orientação e tutela do Instituto Nacional do Trabalho e Previdência.
+
+§ 2.º Para constituïção das mutualidades e cooperativas a que êste artigo se refere é permitida a união das freguesias do mesmo concelho, nos termos estabelecidos pelo Código Administrativo.
+
+§ 3.º O Instituto Nacional do Trabalho e Previdência regulará, por meio de instruções, a execução do disposto neste artigo, não devendo constituir-se Casas do Povo senão nas condições nêle previstas.
+
+###### Artigo 122.º
+
+É permitido às juntas de freguesia dos Açôres fazer a exploração agrícola dos seus baldios susceptíveis de cultura, e que não convenha dividir, e arrecadar as respectivas receitas.
+
+#### Secção II — Freguesias do Arquipélago da Madeira
+
+###### Artigo 123.º
+
+Em cada freguesia do Arquipélago da Madeira haverá um regedor, com a competência que lhe é conferida pelo Código Administrativo.
+
+###### Artigo 124.º
+
+A representação das juntas de freguesia nos conselhos municipais será suprida por quatro vogais, nomeados pelo governador do distrito, de preferência de entre munícipes residentes nas freguesias ou sítios fora da sede do concelho.
+
+###### Artigo 125.º
+
+As atribuïções das juntas de freguesia serão desempenhadas e a sua competência será exercida pelas câmaras municipais, salvo se por lei forem entregues a outra entidade.
+
+## Título VI — Disposições finais e transitórias
+
+###### Artigo 126.º
+
+Em tudo o que não esteja especialmente previsto no presente Estatuto, vigorará o disposto no Código Administrativo do continente.
+
+###### Artigo 127.º
+
+Sempre que no Código Administrativo do continente se exija a intervenção do conselho provincial ou da junta de província entender-se-á que a função pertence nas ilhas adjacentes à junta geral do distrito autónomo e sua comissão executiva.
+
+###### Artigo 128.º
+
+São aplicáveis aos serviços técnicos distritais os regulamentos vigentes no continente para os serviços da mesma natureza, entendendo-se sempre que pertence às comissões executivas das juntas gerais a competência que nesses regulamentos é atribuída às direcções gerais, Juntas Autónomas de Estradas e das Obras de Hidráulica Agrícola e Junta de Electrificação Nacional e que os chefes dos serviços distritais têm a competência dos funcionários dirigentes das maiores circunscrições de serviços externos nêles previstas.
+
+###### Artigo 129.º
+
+Não é permitida aos corpos administrativos a concessão de subsídios permanentes, temporários ou especiais ou de donativos a emprêsas particulares com fins lucrativos e a publicações periódicas, mesmo quando se destinem a números de propaganda local.
+
+§ único. Pelas despesas feitas com infracção do disposto neste artigo responderão pessoalmente o presidente do corpo administrativo e o chefe da respectiva secretaria.
+
+###### Artigo 130.º
+
+As dúvidas que surgirem na aplicação do presente Estatuto serão resolvidas por despacho do Presidente do Conselho, salvo tratando-se de matéria especialmente regulada no Código Administrativo, pois em tal caso a dúvida será resolvida por despacho do Ministro do Interior.
+
+###### Artigo 131.º
+
+De futuro as disposições dêste Estatuto não se consideram revogadas por qualquer lei geral ou especial sem lhes ser feita expressa referência.
+
+###### Artigo 132.º
+
+Ficam revogados os decretos n.os 15:035, de 16 de Fevereiro de 1928, e 15:805, de 31 de Julho de 1928.
+
+Ministério do Interior, 31 de Dezembro de 1940. - O Ministro do Interior, Mário Pais de Sousa.
+
+Tabela anexa
+
+(ver documento original)
+
+Ministério do Interior, 31 do Dezembro do 1940. - O Ministro do Interior, Mário Pais de Sousa.
+
+ÍNDICE
+
+(ver documento original)

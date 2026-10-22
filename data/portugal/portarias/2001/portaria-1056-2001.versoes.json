@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:630839:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-960673301",
+ "dre_path": "/dr/detalhe/portaria/1056-2001-630839",
+ "source_lastmod": "2025-12-04",
+ "versions": [
+  {
+   "date": "2001-09-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "960673190"
+   ]
+  }
+ ],
+ "fragments": {
+  "960673190": {
+   "fragment_id": "960673302",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1056/2001\n\nde 3 de Setembro\n\nA Portaria n.º 1053/2000, de 30 de Outubro, prorrogou, até 31 de Dezembro de 2000, a aplicação das medidas especiais de protecção no desemprego previstas na Portaria n.º 566/97, de 29 de Julho, destinadas aos trabalhadores provenientes de empresas do sector têxtil situadas nos concelhos da Covilhã, Gouveia, Guarda, Manteigas e Seia e nas freguesias de Cebolais de Cima e do Retaxo, no concelho de Castelo Branco.\n\nCom efeito, o carácter transitório de medidas desta índole e a dificuldade em definir com rigor o horizonte temporal da respectiva aplicação tornam necessário proceder a uma avaliação periódica das circunstâncias que motivaram a sua adopção.\n\nNestes termos e atenta a constatação da manutenção do desajustamento da realidade empresarial e social envolvida e não obstante o processo em curso de reestruturação, importa proceder a nova dilação do prazo de aplicação das medidas especiais previstas na mencionada Portaria n.º 566/97.\n\nAssim:\n\nManda o Governo, pelo Ministro do Trabalho e da Solidariedade, nos termos do artigo 8.º do Decreto-Lei n.º 291/91, de 10 de Agosto, o seguinte:"
+  }
+ }
+}

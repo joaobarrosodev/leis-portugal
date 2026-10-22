@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:421454:por
+title: Decreto-Lei n.º 206/87
+short_title: null
+summary: Estabelece medidas de política de emprego a adoptar no âmbito de reestruturações sectoriais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 206/87
+official_date: null
+publication_date: '1987-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 112/1987, Série I de 1987-05-16
+  number: '112'
+  series: I
+  supplement: null
+  pages: 2002 - 2004
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/05/11200/20022004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421454'
+  dre_path: /dr/detalhe/decreto-lei/206-1987-421454
+  internal: pt:dre:421454:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1987-421454
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1987-421454
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-05-16T00:00:00Z'
+integrity:
+  source_sha256: 0e6890dca034d2d97b001b01e3afbb16eb6068eedd010115171a8dbeea085445
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-206-421454.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 206/87
+
+de 16 de Maio
+
+Os problemas de emprego e sócio-laborais em geral são objecto de disposições diversas que visam a sua prevenção ou solução. Observa-se, no entanto, a falta de uma base legal comum susceptível de aplicação, qualquer que seja o sector de actividade, abrangendo a generalidade dos problemas previsíveis e estabelecendo uma solução claramente integrada.
+
+O presente decreto-lei vem preencher essa lacuna. Para tanto estabelece os objectivos a atingir, enumera, de maneira não exaustiva, os tipos de medidas a adoptar e define o papel dos serviços e organismos responsáveis pela preparação e aplicação das mesmas.
+
+Cinco princípios fundamentais inspiram todo o diploma: a relevância prioritária atribuída ao emprego; a simultaneidade de actuações nos domínios técnico-económico e sócio-laboral; a integração das medidas de política de emprego e sócio-laborais em geral nos processos a que respeitam; a pluralidade de soluções, de maneira a contemplarem os diferentes problemas previsíveis, e, enfim, a participação das entidades envolvidas, com destaque para os parceiros sociais.
+
+A relevância atribuída ao emprego não se traduz numa salvaguarda ilusória de postos de trabalho desprovidos de base económica e capacidade remuneradora, mas sim na optimização das condições que viabilizem a consistência económica e social das empresas envolvidas, tendo em conta as orientações decorrentes do Programa de Correcção Estrutural da Dívida Externa e do Desemprego (PCEDED), bem como de outros instrumentos de actuação política.
+
+Por seu turno, a simultaneidade das actuações destina-se a assegurar que, desde o início de cada processo, se desenvolvam todos os esforços requeridos por aquela optimização.
+
+A pluralidade de soluções tem a ver, naturalmente, com a diversidade e complexidade dos problemas a enfrentar e torna recomendável a inserção daqueles processos nos de desenvolvimento regional e local. Tal inserção aconselha ainda o tratamento simultâneo das diferentes actividades económicas na mesma zona geográfica.
+
+O princípio da participação decorre não só dos preceitos constitucionais e legais, mas também de razões de ordem técnica e pragmática alicerçadas na valia do contributo, designadamente, dos parceiros sociais e das autoridades locais para o estudo e escolha das melhores soluções.
+
+Tendo em conta os princípios referidos, o presente diploma só prevê a aplicação do respectivo regime aos processos conduzidos por ministérios responsáveis pelos sectores em reestruturação, competindo aos diplomas legais orientadores de tais processos a fixação do âmbito respectivo e a definição do próprio alcance das reestruturações. Quanto às medidas de política de emprego e sócio-laborais em geral, o presente decreto-lei limita-se a um enunciado global e meramente exemplificativo, remetendo para diplomas regulamentares, referentes a cada processo de reestruturação, o seu desenvolvimento.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Âmbito e objectivos
+
+1 - As medidas de política de emprego e sócio-laborais a adoptar no âmbito dos processos de reestruturação conduzidos por serviços ou organismos dos ministérios responsáveis pelos respectivos sectores regem-se pelo presente diploma, sem prejuízo de disposições específicas aplicáveis com base noutra legislação.
+
+2 - Tais medidas visam a compatibilização entre os imperativos das políticas sectoriais, regionais, de emprego e sócio-laborais em geral e a prossecução dos seguintes objectivos:
+
+a) Prevenir e atenuar os eventuais reflexos sociais negativos dos processos de reestruturação;
+
+b) Contribuir para que os problemas de emprego e as insuficiências de formação profissional não constituam obstáculos àqueles processos;
+
+c) Promover a integração dos mesmos processos em programas de desenvolvimento local e regional, com a participação de autarquias locais, parceiros sociais e outras entidades.
+
+3 - A aplicação das medidas previstas neste diploma será feita em colaboração com os parceiros sociais envolvidos, tendo em conta as consultas levadas a efeito pelos ministérios responsáveis pela reestruturação.
+
+###### Artigo 2.º — Serviços e organismos responsáveis
+
+1 - No âmbito dos processos de reestruturação, os serviços e organismos públicos responsáveis pelos domínios do emprego e sócio-laborais em geral desenvolverão, nomeadamente, as seguintes actuações:
+
+a) Proceder à análise actualizada dos problemas de emprego e sócio-laborais em geral das áreas geográficas abrangidas e das perspectivas de evolução;
+
+b) Colaborar, com os serviços e organismos sectoriais responsáveis pelos processos de reestruturação, na preparação e acompanhamento destes e no faseamento das operações a realizar;
+
+c) Recolher e prestar informações relacionadas com os processos de reestruturação;
+
+d) Assegurar o atendimento e conveniente encaminhamento dos casos que lhes sejam apresentados por trabalhadores, empresas ou suas organizações representativas;
+
+e) Propor as medidas específicas de política de emprego e sócio-laborais em geral consideradas necessárias.
+
+2 - Compete ainda aos serviços e organismos públicos responsáveis pelos domínios do emprego e sócio-laborais em geral realizar diligências, nomeadamente junto das entidades referidas na alínea b) do número anterior, visando:
+
+a) A inserção dos processos de reestruturação nos de desenvolvimento local e regional;
+
+b) A adopção de medidas articuladas para os sectores económicos ou conjuntos de empresas em crise na mesma área geográfica e a sua eventual reestruturação simultânea;
+
+c) A conjugação dos processos de reestruturação com o fomento de projectos de criação de novos empregos, numa óptica de diversificação económica.
+
+###### Artigo 3.º — Unidade técnica de apoio
+
+1 - Para a realização das acções indicadas no artigo anterior será constituída, por despacho do Ministro do Trabalho e Segurança Social, uma unidade técnica de apoio em cada área geográfica onde decorram processos de reestruturação.
+
+2 - O Instituto do Emprego e Formação Profissional (IEFP) dinamizará a actividade da unidade técnica de apoio, que será integrada por elementos dos serviços centrais e regionais do mesmo Instituto e de outros serviços e organismos do Ministério do Trabalho e Segurança Social (MTSS) da área geográfica em causa.
+
+3 - A unidade técnica de apoio promoverá a realização das acções previstas nos n.os 1 e 2 do artigo anterior, em simultâneo com a preparação e execução das medidas de reestruturação levadas a efeito pelos serviços e organismos sectoriais, por forma que se verifique uma compatibilização e integração recíprocas tão completas quanto possível.
+
+4 - A inserção da actividade da unidade técnica de apoio nos processos de desenvolvimento local e regional far-se-á, nomeadamente, através de:
+
+a) Articulação estreita com as comissões de coordenação regional e autarquias locais das respectivas áreas geográficas;
+
+b) Apresentação de relatórios periódicos aos conselhos consultivos regionais do IEFP das mesmas áreas.
+
+###### Artigo 4.º — Medidas
+
+1 - As medidas a que se refere a alínea e) do n.º 1 do artigo 2.º poderão respeitar, nomeadamente, a:
+
+a) Informação, consulta e orientação profissional;
+
+b) Formação e mobilidade profissional ou geográfica;
+
+c) Apoio técnico e financeiro ao fomento do emprego;
+
+d) Benefícios parafiscais;
+
+e) Ajustamento das condições de prestação de trabalho;
+
+f) Programas ocupacionais;
+
+g) Garantia de rendimentos de compensação ou de substituição;
+
+h) Pré-reformas ou medidas afins.
+
+2 - As medidas a que se refere o número anterior terão o conteúdo e revestirão a forma que se tiver por mais adequada em cada caso, evitando-se a duplicação de apoios da mesma natureza, sem prejuízo das complementaridades a assegurar.
+
+3 - Relativamente a cada processo de reestruturação ou conjunto de processos referentes à mesma área geográfica, a definição e aplicação das medidas a adoptar será regulamentada por despacho do Ministro do Trabalho e Segurança Social e do ministro responsável pelo sector.
+
+4 - O projecto de despacho referido no número anterior será objecto de parecer da Comissão Interministerial para o Emprego (CIME), visando, nomeadamente, a salvaguarda da conveniente articulação de actuações entre os diferentes ministérios.
+
+5 - Sempre que o despacho normativo a que se refere o n.º 3 deste artigo inclua medidas previstas na alínea e) do n.º 1, a sua emissão deve ser precedida de prévio consenso com os parceiros sociais e outras entidades implicadas ou, em caso de manifesta impossibilidade desse consenso, conjugada com a especial gravidade da situação, de declaração do sector ou região em crise, aplicando-se, com as necessárias adaptações, o disposto nos artigos 5.º a 8.º do Decreto-Lei n.º 373-H/77, de 29 de Agosto.
+
+###### Artigo 5.º — Articulações
+
+1 - Quando as reestruturações se processem ao abrigo do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, deverão efectuar-se as diligências seguintes:
+
+a) O IEFP tomará parte na preparação da portaria conjunta de declaração do sector ou subsector em reestruturação, prevista no n.º 1 do artigo 2.º do citado diploma, ouvindo previamente os restantes serviços e organismos do MTSS;
+
+b) Após a assinatura da portaria a que se refere o número anterior, o IEFP apresentará a proposta de constituição da unidade técnica de apoio prevista no n.º 1 do artigo 3.º do presente diploma, consultando para o efeito os restantes serviços e organismos do MTSS com competência em aspectos relacionados com o processo de reestruturação;
+
+c) A unidade técnica de apoio participará nas acções previstas nos artigos 3.º a 7.º do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), nos moldes que forem acordados com os serviços e organismos sectoriais responsáveis pelas mesmas.
+
+2 - A aplicação do presente diploma a reestruturações não abrangidas pelo [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119) far-se-á no quadro dos diplomas específicos que as contemplem ou, na sua ausência, resultará de resolução do Conselho de Ministros ou de portaria conjunta que respeite, com as necessárias adaptações, o disposto no artigo 2.º daquele diploma.
+
+3 - Para efeitos do disposto no número anterior, os ministérios responsáveis pelos processos de reestruturação informarão, logo no início do estudo prévio, os serviços e organismos competentes do MTSS, que accionarão os mecanismos previstos no presente diploma.
+
+4 - O MTSS poderá tomar a iniciativa de propor a outros ministérios a implementação de processos de reestruturação sempre que situações de crise, actual ou previsível, os justifiquem.
+
+###### Artigo 6.º — Comissão Interministerial para o Emprego
+
+Para além do previsto no n.º 4 do artigo 4.º do presente diploma, compete à CIME, no âmbito dos processos de reestruturação sectorial:
+
+a) Acompanhar os processos em curso, na óptica da cooperação entre os diferentes ministérios envolvidos;
+
+b) Promover a realização de reuniões a nível regional e, se necessário, das áreas geográficas abrangidas, com representantes dos ministérios mais directamente envolvidos, das comissões de coordenação regional e das autoridades locais, pronunciando-se especialmente sobre a compatibilização dos objectivos e medidas sectoriais e regionais entre si e com os do emprego e sócio-laborais em geral.
+
+Visto e aprovado em Conselho de Ministros de 12 de Março de 1987. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral.
+
+**Promulgado em 5 de Maio de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 6 de Maio de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

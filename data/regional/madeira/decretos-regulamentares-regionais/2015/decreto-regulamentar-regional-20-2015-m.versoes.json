@@ -1,0 +1,1494 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70980180:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2015-114627390",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/20-2015-70980180",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "127952181",
+    "114606135",
+    "114606136",
+    "114606137",
+    "114606139",
+    "114606140",
+    "114606141",
+    "114606142",
+    "114606143",
+    "114606144",
+    "114606145",
+    "114606146",
+    "114606147",
+    "114606148",
+    "114606149",
+    "114606150",
+    "114606151",
+    "114606152",
+    "114606153",
+    "114606154",
+    "114606155",
+    "114606156",
+    "114606157",
+    "114606158",
+    "114606159",
+    "114606160",
+    "114606161",
+    "114606162",
+    "114606163",
+    "114606164",
+    "114606165",
+    "114606166",
+    "114606167",
+    "114606168",
+    "114606169",
+    "114606170",
+    "114606171",
+    "114606172",
+    "114606173",
+    "114606174",
+    "114625275",
+    "114625276",
+    "114625277",
+    "114625278",
+    "114625279",
+    "114625280",
+    "114625281",
+    "114625282",
+    "114625283",
+    "114625284",
+    "114625285",
+    "114625286"
+   ]
+  },
+  {
+   "date": "2016-02-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73443681:por",
+     "title": "Decreto Regulamentar Regional n.º 7/2016/M",
+     "published": "2016-02-05",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/7-2016-73443681"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "114606134",
+    "114606135",
+    "114606136",
+    "114606137",
+    "114606138",
+    "114606139",
+    "114606140",
+    "114606141",
+    "114606142",
+    "114606143",
+    "114606144",
+    "114606145",
+    "114606146",
+    "114606147",
+    "114606148",
+    "114606149",
+    "114606150",
+    "114606151",
+    "114606152",
+    "114606153",
+    "114606154",
+    "114606155",
+    "114606156",
+    "114606157",
+    "114606158",
+    "114606159",
+    "114606160",
+    "114625364",
+    "114606162",
+    "114606163",
+    "114606164",
+    "114606165",
+    "114606166",
+    "114606167",
+    "114606168",
+    "114606169",
+    "114606170",
+    "114606171",
+    "114606172",
+    "114606173",
+    "114606174",
+    "114625275",
+    "114625276",
+    "114625277",
+    "114625278",
+    "114625279",
+    "114625280",
+    "114625281",
+    "114625282",
+    "114625283",
+    "114625284",
+    "114625285",
+    "114625286"
+   ]
+  },
+  {
+   "date": "2018-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114627387:por",
+     "title": "Decreto Regulamentar Regional n.º 3/2018/M",
+     "published": "2018-02-02",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Anexo I",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "114606134",
+    "114606135",
+    "114606136",
+    "114606137",
+    "114606138",
+    "114606139",
+    "114606140",
+    "114625589",
+    "114625590",
+    "114625591",
+    "114606144",
+    "114606145",
+    "114606146",
+    "114625592",
+    "114606148",
+    "114606149",
+    "114606150",
+    "114625593",
+    "114606152",
+    "114606153",
+    "114606154",
+    "114606155",
+    "114606156",
+    "114606157",
+    "114625594",
+    "114606159",
+    "114606160",
+    "114625364",
+    "114606162",
+    "114625595",
+    "114606164",
+    "114625601",
+    "114606165",
+    "114606166",
+    "114606167",
+    "114606168",
+    "114606169",
+    "114606170",
+    "114625596",
+    "114606172",
+    "114606173",
+    "114606174",
+    "114625597",
+    "114625598",
+    "114625277",
+    "114625278",
+    "114625279",
+    "114625280",
+    "114625281",
+    "114625282",
+    "114625283",
+    "114625599",
+    "114625285",
+    "114625600"
+   ]
+  },
+  {
+   "date": "2018-07-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115692919:por",
+     "title": "Decreto Regulamentar Regional n.º 10/2018/M",
+     "published": "2018-07-13",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/10-2018-115692919"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "114606134",
+    "114606135",
+    "114606136",
+    "114606137",
+    "114606138",
+    "114606139",
+    "114606140",
+    "114625589",
+    "114625590",
+    "115684186",
+    "114606144",
+    "114606145",
+    "114606146",
+    "114625592",
+    "114606148",
+    "114606149",
+    "114606150",
+    "114625593",
+    "114606152",
+    "114606153",
+    "114606154",
+    "114606155",
+    "114606156",
+    "114606157",
+    "114625594",
+    "114606159",
+    "114606160",
+    "114625364",
+    "114606162",
+    "114625595",
+    "114606164",
+    "114625601",
+    "114606165",
+    "114606166",
+    "114606167",
+    "114606168",
+    "114606169",
+    "114606170",
+    "114625596",
+    "114606172",
+    "114606173",
+    "114606174",
+    "114625597",
+    "114625598",
+    "114625277",
+    "114625278",
+    "114625279",
+    "114625280",
+    "114625281",
+    "114625282",
+    "114625283",
+    "114625599",
+    "114625285",
+    "114625600"
+   ]
+  },
+  {
+   "date": "2020-01-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:127899796:por",
+     "title": "Decreto Regulamentar Regional n.º 2/2020/M",
+     "published": "2020-01-09",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "127952181",
+    "127952182",
+    "127952183",
+    "127952184",
+    "127952185",
+    "127952186",
+    "127952187",
+    "127952188",
+    "127952189",
+    "127952190",
+    "127952191",
+    "127952192",
+    "127952193",
+    "127952194",
+    "127952195",
+    "127952196",
+    "127952197",
+    "127952198",
+    "127952199",
+    "127952200",
+    "127952201",
+    "127952202",
+    "127952203",
+    "127952204",
+    "127952205",
+    "127952206",
+    "127952207",
+    "127952208",
+    "127952209",
+    "127952210",
+    "127952211",
+    "127952212",
+    "127952213",
+    "127952214",
+    "127952215",
+    "127952216",
+    "127952217",
+    "127952218",
+    "127952219",
+    "127952220",
+    "127952221",
+    "127952222",
+    "127952223",
+    "127952224",
+    "127952225",
+    "127952226",
+    "127952227",
+    "127952228",
+    "127952229",
+    "127952230",
+    "127952231",
+    "127952232",
+    "127952233",
+    "127952234"
+   ]
+  }
+ ],
+ "fragments": {
+  "127952181": {
+   "fragment_id": "114627391",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-01-10",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 20/2015/M\n\nOrgânica da Secretaria Regional de Educação\n\nO Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, que procedeu à organização e funcionamento do XII Governo Regional da Madeira, consagrou a estrutura da Secretaria Regional de Educação.\n\nNa Secretaria Regional de Educação ficam englobados os setores da Educação, Educação Especial, Formação Profissional, Desporto e Juventude.\n\nUrge assim, e de imediato, criar a orgânica da Secretaria Regional de Educação com a sua nova estrutura, bem como estabelecer a orgânica do Gabinete do Secretário Regional.\n\nAssim, nos termos do n.º 1 do artigo 12.º do Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, da alínea d) do n.º 1 do artigo 227.º e n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "114606135": {
+   "fragment_id": "114627392",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovada a estrutura orgânica da Secretaria Regional de Educação e do Gabinete do Secretário Regional, publicada em anexo I ao presente diploma, do qual faz parte integrante."
+  },
+  "114606136": {
+   "fragment_id": "114627393",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma Revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma Revogatória\n\nSão revogados os Decretos Regulamentares Regionais n.os 5/2012/M, de 16 de maio, e 14/2013/M, de 22 de novembro."
+  },
+  "114606137": {
+   "fragment_id": "114627394",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114606139": {
+   "fragment_id": "114627396",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n(a que se refere o artigo 1.º do diploma preambular do Decreto Regulamentar Regional n.º 20/2015/M, de 11 de novembro)\n\nOrgânica da Secretaria Regional de Educação e do Gabinete do Secretário Regional"
+  },
+  "114606140": {
+   "fragment_id": "114627397",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, Missão, Atribuições e Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, Missão, Atribuições e Competências"
+  },
+  "114606141": {
+   "fragment_id": "114627398",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria Regional de Educação, designada no presente diploma abreviadamente por SRE, é o departamento do Governo Regional da Madeira a que se refere a alínea f) do artigo 1.º do Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes."
+  },
+  "114606142": {
+   "fragment_id": "114627399",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\nÉ missão da SRE definir a política regional nos setores da educação, da educação especial, do desporto, da formação profissional, da ciência e tecnologia e da juventude."
+  },
+  "114606143": {
+   "fragment_id": "114627400",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Na prossecução da sua missão, são atribuições da SRE:\n\na) Orientar e superintender a promoção das ações destinadas à primeira e segunda infâncias, numa perspetiva de apoio à família com caráter supletivo, visando o desenvolvimento integral e a inserção na vida da comunidade;\n\nb) Orientar e superintender em todas as políticas regionais e atividades a desenvolver nas áreas da educação, da educação especial, do ensino, da ação social educativa, do desporto, da formação profissional, da ciência e tecnologia e da juventude;\n\nc) Orientar e avaliar o funcionamento e desenvolvimento do sistema educativo regional e de formação profissional nas suas diversas modalidades;\n\nd) Definir e orientar políticas relativas ao sistema de reconhecimento, validação e certificação de competências na Região Autónoma da Madeira;\n\ne) Orientar e superintender a execução e avaliação da política pública da juventude, procedendo à sua concretização, tendo em vista a promoção da integração dos jovens em todos os domínios da vida social;\n\nf) Promover a conceção e execução de medidas e atividades em favor dos jovens, numa perspetiva integrada e interdepartamental, nos domínios da educação não formal, do fomento do associativismo, do acesso à informação e às tecnologias de informação, do empreendedorismo, da promoção de valores e estilos de vida saudáveis, da mobilidade e do intercâmbio e do estabelecimento de parcerias com entidades envolvidas na política de juventude.\n\n2 - As atribuições da SRE são exercidas promovendo uma lógica de subsidiariedade, através da descentralização de competências em diversas áreas do conhecimento, na melhoria dos processos da educação, ensino e aprendizagem, no planeamento, na administração e na avaliação das políticas educativas, desportivas, de formação profissional, da ciência e tecnologia e da juventude."
+  },
+  "114606144": {
+   "fragment_id": "114627401",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - A SRE é dirigida pelo Secretário Regional de Educação, ao qual são genericamente cometidas as seguintes competências:\n\na) Elaborar e operacionalizar a carta escolar e administrar a rede escolar;\n\nb) Organizar e administrar a certificação profissional e gerir os fundos destinados à formação profissional;\n\nc) Auditar o funcionamento do sistema educativo regional, acompanhando a atividade das escolas, dos órgãos e serviços e demais estruturas que o integram, com vista à melhoria do serviço público de educação;\n\nd) Conferir distinções a entidades que desenvolvam projetos ou ações relevantes no âmbito das competências da SRE;\n\ne) Proceder à recolha de dados e à elaboração de estudos de diagnóstico nas suas áreas de competência;\n\nf) Promover e assegurar as ações respeitantes à divulgação e organização do processo de acesso ao ensino superior;\n\ng) Organizar e gerir o processo de candidatura e atribuição das bolsas de estudo do Governo Regional para a frequência do ensino superior.\n\n2 - Compete ainda ao Secretário Regional:\n\na) Representar a SRE;\n\nb) Dirigir e coordenar a atuação dos dirigentes responsáveis pelas estruturas previstas nos artigos seguintes;\n\nc) Superintender e realizar a gestão dos meios humanos, materiais e financeiros para efetivação das atribuições enunciadas na alínea anterior;\n\nd) Orientar toda a ação da SRE e exercer as demais competências previstas na lei.\n\n3 - O Secretário Regional de Educação pode, nos termos da lei, delegar competências em titulares de cargos de direção e chefia."
+  },
+  "114606145": {
+   "fragment_id": "114627402",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura Orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura Orgânica"
+  },
+  "114606146": {
+   "fragment_id": "114627403",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estrutura Geral\n\nA SRE prossegue as suas atribuições através de serviços integrados na administração direta da Região, de organismos integrados na administração indireta da Região, de órgãos consultivos e de outras estruturas."
+  },
+  "114606147": {
+   "fragment_id": "114627404",
+   "type": 11,
+   "heading": "Artigo 6.º — Administração Direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Administração Direta\n\n1 - Integram a administração direta da Região, no âmbito da SRE, os seguintes serviços:\n\na) Gabinete do Secretário (GS);\n\nb) Direção Regional de Educação (DRE);\n\nc) Direção Regional de Planeamento, Recursos e Infraestruturas (DRPRI);\n\nd) Direção Regional de Inovação e Gestão (DRIG);\n\ne) Direção Regional da Juventude e Desporto (DRJD);\n\nf) Inspeção Regional de Educação (IRE).\n\n2 - A natureza, atribuições e orgânica de cada um dos organismos e serviços previstos nas alíneas b), c), d), e e) do número anterior constarão de decreto regulamentar regional."
+  },
+  "114606148": {
+   "fragment_id": "114627405",
+   "type": 11,
+   "heading": "Artigo 7.º — Administração Indireta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Administração Indireta\n\n1 - A SRE exerce ainda a tutela sobre:\n\na) O Instituto para a Qualificação, IP-RAM;\n\nb) O Conservatório - Escola Profissional das Artes da Madeira - Eng.º Luiz Peter Clode.\n\n2 - A natureza, atribuições e orgânica dos organismos referidos no número anterior, constam de decreto legislativo regional.\n\n3 - O Instituto para a Qualificação, IP-RAM é dirigido por um Conselho Diretivo, composto por um Presidente e um Vogal, respetivamente, cargos de direção superior de 1.º e de 2.º grau."
+  },
+  "114606149": {
+   "fragment_id": "114627406",
+   "type": 11,
+   "heading": "Artigo 8.º — Outras Entidades Tuteladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Outras Entidades Tuteladas\n\nA SRE exerce igualmente tutela sobre:\n\na) ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Investigação;\n\nb) Pólo Científico e Tecnológico da Madeira, Madeira Tecnopolo, S. A."
+  },
+  "114606150": {
+   "fragment_id": "114627407",
+   "type": 11,
+   "heading": "Artigo 9.º — Órgãos Consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Órgãos Consultivos\n\n1 - São órgãos Consultivos da SRE:\n\na) O Conselho Regional de Educação e Formação Profissional (CREFP);\n\nb) O Conselho Desportivo da Região Autónoma da Madeira (CDRAM);\n\nc) O Conselho da Secretaria Regional de Educação (CSRE);\n\nd) O Conselho da Juventude (CJ).\n\n2 - A composição dos órgãos previstos nas alíneas a), b) e d) do número anterior consta de diploma próprio."
+  },
+  "114606151": {
+   "fragment_id": "114627408",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho da Secretaria Regional de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conselho da Secretaria Regional de Educação\n\n1 - O Conselho da Secretaria Regional de Educação (CSRE) desempenha funções de articulação e funcionamento da SRE, com vista à harmonização e conjugação do exercício das competências respetivas, ao prosseguimento de tarefas e missões de caráter horizontal e ao funcionamento integrado e coerente do sistema, de acordo com as orientações de política do Secretário Regional.\n\n2 - Compete ao CSRE, em especial:\n\na) Preparar e acompanhar o lançamento de cada ano escolar, elaborando anualmente um programa de lançamento;\n\nb) Articular o funcionamento das Direções Regionais e Instituto, entre si e com as demais unidades da SRE, com vista a uma harmonização;\n\nc) Avaliar os recursos humanos, materiais e financeiros necessários à prossecução das orientações pedagógicas e didáticas de política educativa e de apoios e complementos educativos;\n\nd) Coordenar e acompanhar a execução das medidas de ação social educativa, propondo a definição de critérios orientadores para a concessão e controlo dos apoios socioeducativos e para a avaliação dos respetivos resultados, bem como velando pela eficiência e eficácia dos serviços de ação social escolar e pela sua qualidade;\n\ne) Analisar questões que digam respeito às atividades a desenvolver nas áreas da educação, da educação especial, do ensino, da ação social educativa, do desporto, da formação profissional, da ciência e tecnologia e da juventude.\n\n3 - O CSRE é constituído pelos diretores regionais ou equiparados e pelos diretores dos serviços previstos no n.º 1 do artigo 6.º e no artigo 14.º, sendo presidido pelo Secretário Regional, com possibilidade de delegação."
+  },
+  "114606152": {
+   "fragment_id": "114627409",
+   "type": 1,
+   "heading": "Capítulo III — Dos Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos Serviços"
+  },
+  "114606153": {
+   "fragment_id": "114627410",
+   "type": 8,
+   "heading": "Secção I — Serviços da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços da administração direta"
+  },
+  "114606154": {
+   "fragment_id": "114627411",
+   "type": 3,
+   "heading": "Subsecção I — Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Gabinete do Secretário Regional"
+  },
+  "114606155": {
+   "fragment_id": "114627412",
+   "type": 11,
+   "heading": "Artigo 11.º — Missão e Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Missão e Competências\n\n1 - O Gabinete do Secretário Regional de Educação, doravante designado por GS, tem por missão coadjuvá-lo no exercício das suas funções, assegurando o planeamento e os apoios técnico, estratégico, jurídico, financeiro e administrativo necessários ao exercício das suas competências.\n\n2 - O GS é composto pelos membros referidos no n.º 1 do artigo 3.º do Decreto-Lei n.º 11/2012, de 20 de janeiro, designados por despacho do Secretário Regional, compreendendo as unidades orgânicas que funcionam sob a sua direta dependência.\n\n3 - Constituem competências do GS:\n\na) Prestar apoio ao Secretário Regional, nos vários domínios de competência da SRE;\n\nb) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade no âmbito da SRE;\n\nc) Apoiar, em articulação com outros serviços da SRE com competências nesta área, os processos de reconhecimento, validação e certificação de competências com vista à melhoria dos níveis de certificação escolar e de qualificação profissional;\n\nd) Assegurar a elaboração do plano anual de atividades do GS e respetivo relatório;\n\ne) Assegurar a gestão do pessoal do GS;\n\nf) Assegurar a gestão das instalações que lhe estão afetas;\n\ng) Coordenar as ações referentes à organização e à preservação do património e arquivo;\n\nh) Assegurar, a inovação e modernização dos serviços, a gestão e organização eficaz da informação, a redução da burocracia e o aumento da eficácia dos processos;\n\ni) Assegurar o normal funcionamento da SRE nas áreas que não sejam da competência específica de outros departamentos."
+  },
+  "114606156": {
+   "fragment_id": "114627413",
+   "type": 11,
+   "heading": "Artigo 12.º — Estrutura do Gabinete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estrutura do Gabinete\n\n1 - O GS compreende um chefe de gabinete, dois adjuntos e dois secretários pessoais.\n\n2 - Para exercer funções de apoio técnico e administrativo no GS poderão ser sujeitos a mobilidade quaisquer trabalhadores da administração pública central, regional ou local, dos institutos públicos, associações privadas e das empresas públicas ou privadas."
+  },
+  "114606157": {
+   "fragment_id": "114627414",
+   "type": 11,
+   "heading": "Artigo 13.º — Tipo de Organização Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Tipo de Organização Interna\n\n1 - A organização interna do GS, que compreende as unidades orgânicas nucleares e flexíveis que funcionam sob a sua direta dependência, obedece ao modelo de estrutura hierarquizada.\n\n2 - A organização interna a que se refere o número anterior é aprovada nos termos do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.º 24/2012/M, de 30 de agosto e 2/2013/M, de 2 de janeiro.\n\n3 - A organização interna do GS compreende o Gabinete da Unidade de Gestão e Planeamento da SRE (GUG)."
+  },
+  "114606158": {
+   "fragment_id": "114627415",
+   "type": 11,
+   "heading": "Artigo 14.º — Gabinete da Unidade de Gestão e Planeamento da SRE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Gabinete da Unidade de Gestão e Planeamento da SRE\n\n1 - O GUG tem por missão o tratamento integral e centralizado de todas as matérias contabilísticas, orçamentais, financeiras e patrimoniais dos serviços simples, integrados, serviços e fundos autónomos e entidades que integram o universo das administrações públicas em contas nacionais e a articulação direta entre os diversos departamentos e a Secretaria Regional das Finanças e da Administração Pública no âmbito das matérias de controlo orçamental e financeiro; garantir uma gestão previsional fiável e sustentada, assente na realização de estudos, visando contribuir para a tomada de decisão, nomeadamente, no âmbito das políticas educativas, de juventude e do desporto.\n\n2 - São atribuições do GUG, nomeadamente:\n\na) Assegurar a elaboração do orçamento de funcionamento e do orçamento de investimentos da SRE;\n\nb) Elaborar, difundir e apoiar a criação de instrumentos de recolha de dados, de forma a garantir o planeamento e a programação dos recursos financeiros em consonância com os princípios da boa gestão financeira;\n\nc) Providenciar o apoio financeiro aos estabelecimentos de ensino particular e cooperativo, às instituições particulares de solidariedade social na área da educação e às escolas profissionais privadas;\n\nd) Proceder ao reporte orçamental e financeiro à Secretaria Regional das Finanças e da Administração Pública;\n\ne) Controlar a execução e a regularidade da execução orçamental, dos serviços tutelados pelos respetivos departamentos do Governo Regional;\n\nf) Controlar o cumprimento da aplicação da Lei dos Compromissos e Pagamentos em Atraso, Lei n.º 8/2012, de 21 de fevereiro, nos serviços tutelados;\n\ng) Propor medidas de fiscalização com vista a um efetivo controlo das despesas públicas e dos recursos orçamentais disponíveis;\n\nh) Superintender na gestão orçamental de todos os serviços tutelados, de acordo com as normas vigentes e legislação aplicável;\n\ni) Promover a aplicação do Plano Oficial de Contabilidade Pública nos serviços tutelados, de acordo com o sistema informático disponibilizado para o efeito;\n\nj) Controlar a afetação e a utilização dos fundos disponíveis atribuídos;\n\nk) Validar mensalmente os lançamentos contabilísticos em POCP, assim como os saldos de terceiros;\n\nl) Desenvolver procedimentos de controlo interno;\n\nm) Prestar apoio técnico financeiro no âmbito da definição de políticas, prioridades e objetivos da SRE;\n\nn) Assegurar a articulação entre os instrumentos de gestão, de planeamento e de previsão no âmbito orçamental e financeiro;\n\no) Diagnosticar e propor as ações necessárias à melhoria da qualidade dos serviços do GUG, quer no que respeita à melhoria dos procedimentos internos e à modernização e simplificação administrativa quer no que concerne ao atendimento e prestação de serviços aos utentes;\n\np) Conceber, propor e realizar estudos que possibilitem o conhecimento mais aprofundado do sistema educativo regional e dinâmicas a ele inerentes, de forma a contribuir para a formulação das políticas de educação e de formação;\n\nq) Exercer as demais atribuições que lhe forem cometidas por lei ou determinadas superiormente, ou ainda que decorram do normal exercício das suas funções.\n\n3 - O GUG é dirigido por um diretor equiparado, para todos efeitos legais, a subdiretor regional.\n\n4 - O diretor poderá, nos termos da lei, delegar as competências que julgar convenientes no pessoal afeto ao GUG."
+  },
+  "114606159": {
+   "fragment_id": "114627416",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências do diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências do diretor\n\nCompete, especialmente, ao diretor do GUG:\n\na) Superintender na gestão orçamental de todos os serviços, Direções Regionais e Escolas da SRE, assegurando a necessária coordenação orçamental e financeira, de acordo com as orientações e legislação aplicável;\n\nb) Propor medidas de fiscalização com vista a um efetivo controlo das despesas públicas e dos recursos orçamentais disponíveis;\n\nc) Assegurar a normalização de procedimentos e propor medidas que garantam a intercomunicabilidade de dados entre os diversos serviços da SRE, tendo em vista a maximização da eficiência e eficácia nos gastos públicos;\n\nd) Conceber, propor e proceder à aplicação de medidas que visem o aperfeiçoamento e a qualidade dos serviços;\n\ne) Assegurar o cumprimento das orientações e da legislação aplicável, no âmbito do processo de avaliação dos trabalhadores, incluindo a formulação de prioridades resultantes da identificação das necessidades de formação;\n\nf) Superintender no âmbito da elaboração do plano e relatório de atividades, nomeadamente no que respeita à identificação dos objetivos e metas a atingir pelo GUG, bem como na avaliação das respetivas atividades;\n\ng) Superintender na utilização racional das instalações e equipamentos afetos ao GUG;\n\nh) Representar o GUG em quaisquer atos para que seja designado e praticar todos os atos preparatórios das decisões finais, cuja competência seja do Secretário Regional;\n\ni) Exercer as demais competências que lhe forem atribuídas por lei ou determinadas superiormente."
+  },
+  "114606160": {
+   "fragment_id": "114627417",
+   "type": 3,
+   "heading": "Subsecção II — Missão dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Missão dos serviços"
+  },
+  "114606161": {
+   "fragment_id": "114627418",
+   "type": 11,
+   "heading": "Artigo 16.º — Direção Regional de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direção Regional de Educação\n\n1 - A DRE promove, desenvolve e operacionaliza as políticas educativas da Região Autónoma da Madeira de âmbito pedagógico e didático, relativas à educação pré-escolar, aos ensinos básico e secundário e à educação extraescolar, numa perspetiva inclusiva, contribuindo para a melhoria contínua da qualidade das aprendizagens e potenciadora do sucesso escolar e da elevação da qualificação pessoal, social e profissional da população madeirense e porto-santense.\n\n2 - A DRE é dirigida por um diretor, cargo de direção superior de 1.º grau, coadjuvado por um subdiretor regional, cargo de direção superior de 2.º grau."
+  },
+  "114606162": {
+   "fragment_id": "114627419",
+   "type": 11,
+   "heading": "Artigo 17.º — Direção Regional de Planeamento, Recursos e Infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direção Regional de Planeamento, Recursos e Infraestruturas\n\n1 - A DRPRI tem como missão a definição de políticas e procedimentos de apoio à gestão de edifícios e demais espaços anexos no referente aos recursos necessários à comunidade de utilizadores, nomeadamente, no referente à plataforma informativa de suporte, à manutenção e ao fornecimento de bens e serviços necessários à rede de creches, estabelecimentos de educação e ensino, infraestruturas desportivas e da juventude, nos limites das suas competências e em estreita colaboração com outras entidades responsáveis.\n\n2 - A DRPRI é dirigida por um diretor regional, cargo de direção superior de 1.º grau, coadjuvado por um subdiretor regional, cargo de direção superior de 2.º grau."
+  },
+  "114606163": {
+   "fragment_id": "114627420",
+   "type": 11,
+   "heading": "Artigo 18.º — Direção Regional de Inovação e Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direção Regional de Inovação e Gestão\n\n1 - A DRIG tem por missão criar condições políticas, legais e técnicas para o desenvolvimento da administração e gestão das organizações escolares, com foco na gestão sistémica e integrada de recursos humanos, promotora de uma educação sustentada no conhecimento e na inovação.\n\n2 - A DRIG é dirigida por um diretor regional, cargo de direção superior de 1.º grau."
+  },
+  "114606164": {
+   "fragment_id": "114627421",
+   "type": 11,
+   "heading": "Artigo 19.º — Direção Regional de Juventude e Desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direção Regional de Juventude e Desporto\n\n1 - A DRJD tem por missão apoiar a definição, coordenação e concretização da política pública governamental nas áreas da juventude e do desporto, promovendo a participação dos jovens em todos os domínios da vida social e o fomento da prática desportiva na Região Autónoma da Madeira.\n\n2 - A DRJD é dirigida por um diretor regional, cargo de direção superior de 1.º grau."
+  },
+  "114606165": {
+   "fragment_id": "114627422",
+   "type": 3,
+   "heading": "Subsecção III — Inspeção Regional de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Inspeção Regional de Educação"
+  },
+  "114606166": {
+   "fragment_id": "114627423",
+   "type": 11,
+   "heading": "Artigo 20.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Missão e atribuições\n\n1 - A IRE é o serviço da Secretaria Regional da Educação, dependente do Secretário Regional, a quem incumbe o exercício da tutela inspetiva dos estabelecimentos de educação e ensino, bem como dos serviços dependentes da SRE, nomeadamente através de ações de avaliação, auditoria, verificação e apoio técnico na salvaguarda do serviço público de educação.\n\n2 - A IRE, tendo como principal missão da sua ação a escola como organização educativa, assume como prioritária a qualidade da educação das crianças e do ensino dos alunos, numa perspetiva de educação para todos, de direitos humanos e de inclusão.\n\n3 - A IRE exerce a sua atividade em articulação com:\n\na) Os estabelecimentos de educação e do ensino das redes pública e privada;\n\nb) Os centros de formação contínua de docentes, no âmbito do regime jurídico de formação contínua de professores;\n\nc) Os órgãos e serviços da Secretaria Regional de Educação.\n\n4 - São atribuições e competências da IRE:\n\na) Propor ou colaborar na preparação e execução de medidas que visem o aperfeiçoamento e a melhoria do funcionamento do sistema educativo regional e da qualidade dos estabelecimentos de educação e de ensino, numa perspetiva de promoção do sucesso escolar dos alunos, de alteração da cultura de retenção, de promoção do espírito crítico e da assunção do compromisso ético de transformação da realidade socioeducativa;\n\nb) Proceder a avaliações globais do sistema educativo regional, nomeadamente no âmbito da avaliação organizacional e desenvolvimento das escolas;\n\nc) Conceber, planear e executar ações inspetivas, em qualquer âmbito do funcionamento do sistema educativo regional, por forma a promover a qualidade pedagógica e organizacional dos estabelecimentos de educação e ensino;\n\nd) Conceber, propor e realizar estudos que contribuam para a formulação de políticas de educação e de formação;\n\ne) Assegurar o cumprimento das disposições legais e das demais orientações, bem como das recomendações e orientações transmitidas em anteriores ações inspetivas;\n\nf) Propor e instruir os processos disciplinares, inquéritos e sindicâncias, resultantes do exercício da sua atividade ou que lhe sejam remetidos para o efeito, conforme previsto na legislação em vigor;\n\ng) Assegurar que os estabelecimentos de ensino privados observem os termos em que foram autorizados a funcionar;\n\nh) Prestar apoio aos estabelecimentos de educação e ensino em matéria de ação disciplinar, nos termos definidos nos estatutos do pessoal docente e não docente;\n\ni) Efetuar auditorias, inquéritos e inspeções com objetivo de avaliar o desempenho e a gestão administrativa e financeira dos serviços e organismos da SRE, de acordo com as orientações e políticas delineadas e apreciar a legalidade dos respetivos atos;\n\nj) Enquadrar as reclamações e as participações que lhe forem dirigidas pelo público em geral e pela comunidade educativa em particular, procedendo às diligências necessárias;\n\nk) Exercer as demais atribuições que lhe forem cometidas por lei.\n\n5 - A IRE é dirigida por um diretor equiparado, para todos os efeitos legais, a subdiretor regional."
+  },
+  "114606167": {
+   "fragment_id": "114627424",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências do diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências do diretor\n\n1 - Compete especialmente ao diretor da IRE:\n\na) Elaborar os planos estratégico plurianual e anual de atividades, com identificação dos objetivos a atingir pelo serviço, bem como assegurar, controlar e avaliar a sua execução, submetendo-os, assim como aos relatórios de execução, à aprovação do Secretário Regional;\n\nb) Assegurar a representação da IRE junto de organismos regionais, nacionais e internacionais;\n\nc) Representar a IRE e praticar todos os atos preparatórios das decisões finais cuja competência seja do Secretário Regional;\n\nd) Superintender na utilização racional das instalações afetas ao serviço, bem como velar pela sua conservação e manutenção e pela existência de condições de higiene e segurança no trabalho;\n\ne) Gerir a utilização, conservação e manutenção dos equipamentos afetos à IRE, bem como promover as aquisições necessárias no âmbito das suas competências;\n\nf) Gerir os meios humanos, elaborar e executar o plano de gestão previsional, bem como o correspondente plano de formação, e afetar o pessoal em função do plano anual de atividades e dos projetos e trabalhos em curso;\n\ng) Autorizar a passagem de certidões de documentos arquivados na respetiva unidade orgânica da IRE, exceto quando contenham matéria confidencial ou reservada, bem como a restituição de documentos aos interessados;\n\nh) Promover a realização das inspeções ordinárias, bem como das inspeções extraordinárias, devidamente autorizadas;\n\ni) Propor a realização de inquéritos e sindicâncias, nomeadamente em resultado de ações inspetivas, bem como instaurar processos disciplinares, nos termos da lei, em consequência de ações inspetivas realizadas pela IRE;\n\nj) Nomear os instrutores de processos de competência da IRE, designadamente o resultante da instrução de processos solicitados pelas escolas, nos termos do n.º 2, do artigo 208.º, da Lei Geral de Trabalho em Funções Públicas;\n\nk) Mandar reformular os processos disciplinares e decidir sobre os processos de suspeição ou escusa;\n\nl) Elaborar e apresentar ao Secretário Regional de Educação, até julho, o relatório anual de atividades;\n\nm) Exercer as demais competências que lhe forem atribuídas por lei.\n\n2 - Nas suas ausências e impedimentos, o diretor é substituído pelo diretor de serviços da Inspeção (DSI).\n\n3 - O diretor poderá delegar, nos termos da lei, no pessoal afeto à IRE as competências que entender por convenientes."
+  },
+  "114606168": {
+   "fragment_id": "114627425",
+   "type": 11,
+   "heading": "Artigo 22.º — Atividade inspetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Atividade inspetiva\n\n1 - As ações inspetivas da IRE serão efetuadas por inspetores que, no exterior, atuarão individualmente ou em equipa e, neste último caso, sob a direção de um inspetor previamente designado pelo diretor da IRE.\n\n2 - Por despacho do diretor da IRE, são nomeados os inspetores ou equipas de inspetores para cada intervenção inspetiva, bem como para atividades no âmbito das atribuições da IRE, numa lógica de matricialidade.\n\n3 - Sem prejuízo dos prazos impostos legalmente, cada intervenção inspetiva é iniciada e concluída dentro dos prazos para cada caso fixados, excecionalmente prorrogáveis pelo diretor da IRE, em situações devidamente fundamentadas.\n\n4 - A IRE pode proceder a fiscalizações para verificação do cumprimento de medidas propostas em inspeções anteriores.\n\n5 - As ações de inspeção são ordinárias ou extraordinárias, podendo assumir as formas de avaliação, acompanhamento, auditoria, controlo, ação disciplinar e provedoria.\n\n6 - O disposto no número anterior não prejudica a realização de outras formas de intervenção consagradas em legislação específica.\n\n7 - As normas de início, desenvolvimento e conclusão das ações inspetivas constam do Decreto-Lei n.º 276/2007, de 31 de julho, com a alteração do Decreto-Lei n.º 32/2012, de 13 de fevereiro, do Despacho n.º 31/2010, de 17 de maio, e do constante no presente diploma."
+  },
+  "114606169": {
+   "fragment_id": "114627426",
+   "type": 11,
+   "heading": "Artigo 23.º — Dever de colaboração e pedidos de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Dever de colaboração e pedidos de informação\n\nÀ IRE é devida, nos termos gerais do direito, toda a colaboração e informação por esta solicitada."
+  },
+  "114606170": {
+   "fragment_id": "114627427",
+   "type": 11,
+   "heading": "Artigo 24.º — Autonomia técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Autonomia técnica\n\n1 - Os dirigentes e o pessoal técnico superior de inspeção da IRE gozam de autonomia técnica, regendo-se na sua atuação pelas disposições legais vigentes e pelas orientações do Secretário Regional.\n\n2 - A autonomia técnica da IRE traduz-se no reconhecimento da capacidade para a adoção de entre os meios que a lei confere e os recursos disponíveis dos que se afigurem adequados à realização dos objetivos visados.\n\n3 - No exercício das suas funções, os dirigentes e o pessoal técnico superior de inspeção da IRE gozam ainda das seguintes prerrogativas:\n\na) Direito de acesso e livre-trânsito, nos termos da lei, pelo tempo e no horário necessários ao desempenho das suas funções, em todos os serviços e instalações das entidades públicas e privadas sujeitas ao exercício das suas atribuições;\n\nb) Requisitar para exame, consulta e junção aos autos, livros, documentos, registos, arquivos e outros elementos pertinentes em poder das entidades cuja atividade seja objeto da ação de inspeção;\n\nc) Recolher informações sobre as atividades inspecionadas e proceder a exames a quaisquer vestígios de infrações;\n\nd) Promover, nos termos legais aplicáveis, a selagem de quaisquer instalações, bem como a apreensão de documentos e objetos de prova em poder das entidades inspecionadas ou do seu pessoal, quando isso se mostre indispensável à realização da ação, para o que deve ser levantado o competente auto."
+  },
+  "114606171": {
+   "fragment_id": "114627428",
+   "type": 11,
+   "heading": "Artigo 25.º — Cartão de identidade e livre-trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cartão de identidade e livre-trânsito\n\nO pessoal dirigente e de inspeção tem direito a um cartão de identidade e livre-trânsito, a aprovar por portaria conjunta da Secretaria Regional das Finanças e da Administração Pública e da Secretaria Regional de Educação."
+  },
+  "114606172": {
+   "fragment_id": "114627429",
+   "type": 11,
+   "heading": "Artigo 26.º — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Incompatibilidades e impedimentos\n\n1 - O pessoal dos serviços de inspeção está sujeito ao regime geral de incompatibilidades e impedimentos vigente na Administração Pública.\n\n2 - Encontra-se ainda vedado ao pessoal técnico superior de inspeção da IRE:\n\na) Efetuar quaisquer ações de natureza inspetiva ou disciplinar em serviços, organismos e empresas onde exerçam funções ou prestem serviços parentes seus ou afins em qualquer grau da linha reta ou até ao 3.º grau da linha colateral;\n\nb) Efetuar quaisquer ações de natureza inspetiva ou disciplinar em serviços, organismos e empresas onde tenham exercido funções há menos de três anos ou onde as exerçam em regime de acumulação;\n\nc) Ser proprietário ou exercer qualquer atividade, quer docente quer não docente, em estabelecimentos de educação e ou ensino ou serviço, público ou particular, de ensino não superior.\n\n3 - Na decisão dos pedidos de acumulação de funções de inspeção com qualquer função, remunerada ou não, os dirigentes da IRE devem ponderar os riscos para a imparcialidade do pessoal técnico superior de inspeção decorrentes do exercício de funções em entidades integradas no âmbito de intervenção da IRE."
+  },
+  "114606173": {
+   "fragment_id": "114627430",
+   "type": 1,
+   "heading": "Capítulo IV — Regime do Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime do Pessoal"
+  },
+  "114606174": {
+   "fragment_id": "114627431",
+   "type": 11,
+   "heading": "Artigo 27.º — Carreiras e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Carreiras e categorias\n\n1 - O pessoal das carreiras especiais compreende a carreira de inspeção constante do Decreto Legislativo Regional n.º 19/2010/M, de 19 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro.\n\n2 - O pessoal que integra os corpos especiais da saúde compreende a carreira de técnico de diagnóstico e terapêutica constante do Decreto-Lei n.º 564/99, de 21 de dezembro, alterado pelo Decreto-Lei n.º 154/2000, de 21 de julho."
+  },
+  "114625275": {
+   "fragment_id": "114627432",
+   "type": 11,
+   "heading": "Artigo 28.º — Sistema Centralizado de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Sistema Centralizado de Gestão\n\n1 - Para assegurar uma gestão mais eficiente e eficaz dos recursos humanos na SRE é adotado o sistema centralizado de gestão estabelecido no artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, com a redação dada pelo Decreto Legislativo Regional n.º 9/2010/M, de 4 de junho, relativamente a todos os trabalhadores com relação jurídica por tempo indeterminado, de todas as carreiras e categorias dos serviços da sua administração direta.\n\n2 - O sistema centralizado de gestão consiste na concentração na SRE dos trabalhadores referidos no número anterior, através de lista nominativa, e sua posterior afetação aos órgãos e serviços da sua administração direta, de acordo com as necessidades verificadas, por despacho do Secretário Regional.\n\n3 - Por despacho do Secretário Regional, e sem prejuízo dos direitos e garantias dos trabalhadores, poderá ser revista a afetação a que se refere o número anterior, sempre que se verifique alteração de circunstâncias ou quando o plano de atividades dos serviços o justificar.\n\n4 - A afetação determina a competência do dirigente máximo dos serviços simples no âmbito da gestão de recursos humanos em matéria de distribuição de serviço, avaliação de desempenho e de assiduidade, sendo as demais competências exercidas pela DRIG, à exceção do Instituto para a Qualificação, IP-RAM, ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Investigação e Pólo Científico e Tecnológico da Madeira - Madeira Tecnopolo, S. A., os quais detêm competências próprias em matéria de gestão de recursos humanos.\n\n5 - Os trabalhadores inseridos no regime descentralizado permanecem inseridos nos mapas de pessoal dos respetivos serviços a que pertencem, não lhes sendo aplicável o disposto nos números anteriores.\n\n6 - O recrutamento de trabalhadores para postos de trabalho que se encontrem abrangidos pelo regime centralizado é feito para a SRE, sem prejuízo de ser determinado no aviso de abertura do procedimento concursal ou no pedido de utilização de reservas de recrutamento o órgão ou serviço ao qual o trabalhador ficará afeto, através de referência ao respetivo mapa de pessoal onde o posto de trabalho se encontra previsto.\n\n7 - A lista nominativa referida no n.º 2 será atualizada de acordo como disposto no n.º 12 do artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, com a redação dada pelo Decreto Legislativo Regional n.º 9/2010/M, de 4 de junho e alterado pelo Decreto Legislativo Regional n.º 26/2012/M, de 3 de setembro, bem como sempre que haja saída definitiva de trabalhadores abrangidos no regime centralizado da SRE, procedendo-se neste caso à eliminação destes da referida lista.\n\n8 - Em tudo aquilo que o presente diploma seja omisso relativamente ao sistema centralizado de gestão adotado pela SRE aplica-se o disposto no artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, com a redação dada pelo Decreto Legislativo Regional n.º 9/2010/M, de 4 de junho e alterado pelo n.º 26/2012/M, de 3 de setembro."
+  },
+  "114625276": {
+   "fragment_id": "114627433",
+   "type": 11,
+   "heading": "Artigo 29.º — Carreira de coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Carreira de coordenador\n\n1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador e de coordenador especialista.\n\n2 - A promoção para a categoria de coordenador especialista faz-se de entre coordenadores com pelo menos três anos na categoria.\n\n3 - O conteúdo funcional do coordenador consiste em coordenar e chefiar na área administrativa.\n\n4 - O desenvolvimento indiciário da carreira de coordenador é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26/08, objeto da Declaração de Retificação n.º 15-I/99, publicada no Diário da República, 1.ª Série-A, n.º 299, 2.º suplemento, de 30 de setembro de 1999.\n\n5 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro."
+  },
+  "114625277": {
+   "fragment_id": "114627434",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "114625278": {
+   "fragment_id": "114627435",
+   "type": 11,
+   "heading": "Artigo 30.º — Extinção, criação e reestruturação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Extinção, criação e reestruturação de serviços\n\n1 - É criada a Direção Regional de Inovação e Gestão.\n\n2 - São extintos, sendo objeto de fusão, os seguintes serviços:\n\na) A Direção Regional dos Recursos Humanos e da Administração Educativa, sendo as suas atribuições integradas na Direção Regional de Inovação e Gestão;\n\nb) A Direção Regional de Qualificação Profissional, sendo as suas atribuições integradas no Instituto para a Qualificação, IP-RAM.\n\n3 - O Instituto para a Qualificação, IP-RAM será criado através de diploma próprio.\n\n4 - A Escola Profissional Dr. Francisco Fernandes será reestruturada e passará para a tutela do Instituto para a Qualificação, IP-RAM, através de diploma próprio."
+  },
+  "114625279": {
+   "fragment_id": "114627436",
+   "type": 11,
+   "heading": "Artigo 31.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Produção de efeitos\n\n1 - A fusão e a reestruturação previstas na alínea b) do n.º 2 e no n.º 3 do artigo anterior produzem efeitos com a data da entrada em vigor do diploma que proceder à criação do Instituto para a Qualificação, IP-RAM.\n\n2 - A criação e fusão previstas no n.º 1 e na alínea a) do n.º 2 do artigo anterior produzem efeitos com a entrada em vigor do diploma que aprovar a orgânica da Direção Regional de Inovação e Gestão."
+  },
+  "114625280": {
+   "fragment_id": "114627437",
+   "type": 11,
+   "heading": "Artigo 32.º — Sucessão de regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Sucessão de regimes\n\nAté à aprovação dos diplomas legais que aprovem as novas orgânicas dos serviços a que se refere o presente diploma, mantêm-se em vigor os atuais."
+  },
+  "114625281": {
+   "fragment_id": "114627438",
+   "type": 11,
+   "heading": "Artigo 33.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Referências\n\n1 - Todas as referências, legais ou regulamentares, feitas à Secretaria Regional da Educação e Recursos Humanos devem ter-se por feitas à Secretaria Regional de Educação.\n\n2 - Todas as referências, legais ou regulamentares, feitas à Direção Regional dos Recursos Humanos e da Administração Educativa devem ter-se por feitas à Direção Regional de Inovação e Gestão.\n\n3 - Todas as referências, legais ou regulamentares, feitas à Direção Regional de Qualificação Profissional devem ter-se por feitas ao Instituto para a Qualificação, IP-RAM."
+  },
+  "114625282": {
+   "fragment_id": "114627439",
+   "type": 11,
+   "heading": "Artigo 34.º — Orgânicas dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Orgânicas dos serviços\n\n1 - Os diplomas orgânicos dos serviços criados ou que foram objeto de reestruturação pelo presente diploma, referidos no artigo 30.º, são aprovados no prazo de 45 dias a contar da entrada em vigor do presente diploma.\n\n2 - Nos termos do artigo 32.º deste diploma, até a aprovação dos respetivos diplomas mantêm-se as estruturas orgânicas, nomeadamente missão, atribuições, competências do diretor regional e respetiva organização interna dos serviços extintos, com as especificidades previstas naquele artigo."
+  },
+  "114625283": {
+   "fragment_id": "114627440",
+   "type": 11,
+   "heading": "Artigo 35.º — Cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Cargos de direção\n\n1 - A dotação máxima de cargos de direção superior da administração direta e indireta da SRE constam dos anexos I e II ao presente diploma do qual fazem parte integrante.\n\n2 - A dotação máxima de lugares de direção intermédia de 1.º grau dos serviços dependentes do Gabinete do Secretário Regional e da IRE consta do anexo III ao presente diploma, do qual faz parte integrante."
+  },
+  "114625284": {
+   "fragment_id": "114627441",
+   "type": 14,
+   "heading": "Anexo I — Cargos de direção superior da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Cargos de direção superior da administração direta\n\n(ver documento original)"
+  },
+  "114625285": {
+   "fragment_id": "114627442",
+   "type": 14,
+   "heading": "Anexo II — Cargos de direção superior da administração indireta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Cargos de direção superior da administração indireta\n\n(ver documento original)"
+  },
+  "114625286": {
+   "fragment_id": "114627443",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\nDotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional e da IRE\n\n(ver documento original)"
+  },
+  "114606134": {
+   "fragment_id": "114627391",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 20/2015/M\n\nOrgânica da Secretaria Regional de Educação\n\nO Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, que procedeu à organização e funcionamento do XII Governo Regional da Madeira, consagrou a estrutura da Secretaria Regional de Educação.\n\nNa Secretaria Regional de Educação ficam englobados os setores da Educação, Educação Especial, Formação Profissional, Desporto e Juventude.\n\nUrge assim, e de imediato, criar a orgânica da Secretaria Regional de Educação com a sua nova estrutura, bem como estabelecer a orgânica do Gabinete do Secretário Regional.\n\nAssim, nos termos do n.º 1 do artigo 12.º do Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, da alínea d) do n.º 1 do artigo 227.º e n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "114606138": {
+   "fragment_id": "114627395",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 15 de outubro de 2015.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 23 de outubro de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "114625364": {
+   "fragment_id": "114627418",
+   "type": 11,
+   "heading": "Artigo 16.º — Direção Regional de Educação",
+   "in_force_from": "2016-02-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 7/2016/M - Diário da República n.º 25/2016, Série I de 2016-02-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2016-73443681), em vigor a partir de 2016-02-06"
+   ],
+   "markdown": "###### Artigo 16.º — Direção Regional de Educação\n\n1 - A DRE promove, desenvolve e operacionaliza as políticas educativas da Região Autónoma da Madeira de âmbito pedagógico e didático, relativas à educação pré-escolar, aos ensinos básico e secundário e à educação extraescolar, numa perspetiva inclusiva, contribuindo para a melhoria contínua da qualidade das aprendizagens e potenciadora do sucesso escolar e da elevação da qualificação pessoal, social e profissional da população madeirense e porto-santense.\n\n2 - A DRE é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 7/2016/M - Diário da República n.º 25/2016, Série I de 2016-02-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2016-73443681), em vigor a partir de 2016-02-06"
+  },
+  "114625589": {
+   "fragment_id": "114627398",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria Regional de Educação, designada no presente diploma abreviadamente por SRE, é o departamento do Governo Regional da Madeira a que se refere a alínea c) do artigo 1.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625590": {
+   "fragment_id": "114627399",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\nÉ missão da SRE definir a política regional nos setores da educação, da educação especial, do desporto, da formação profissional, da ciência e tecnologia, da juventude, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625591": {
+   "fragment_id": "114627400",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Na prossecução da sua missão, são atribuições da SRE:\n\na) Orientar e superintender a promoção das ações destinadas à primeira e segunda infâncias, numa perspetiva de apoio à família com caráter supletivo, visando o desenvolvimento integral e a inserção na vida da comunidade;\n\nb) Orientar e superintender em todas as políticas regionais e atividades a desenvolver nas áreas da educação, da educação especial, do ensino, da ação social educativa, do desporto, da formação profissional, da ciência e tecnologia, da juventude, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social;\n\nc) Orientar e avaliar o funcionamento e desenvolvimento do sistema educativo regional e de formação profissional nas suas diversas modalidades;\n\nd) Definir e orientar políticas relativas ao sistema de reconhecimento, validação e certificação de competências na Região Autónoma da Madeira;\n\ne) Orientar e superintender a execução e avaliação da política pública da juventude, procedendo à sua concretização, tendo em vista a promoção da integração dos jovens em todos os domínios da vida social;\n\nf) Promover a conceção e execução de medidas e atividades em favor dos jovens, numa perspetiva integrada e interdepartamental, nos domínios da educação não formal, do fomento do associativismo, do acesso à informação e às tecnologias de informação, do empreendedorismo, da promoção de valores e estilos de vida saudáveis, da mobilidade e do intercâmbio e do estabelecimento de parcerias com entidades envolvidas na política de juventude.\n\ng) Promover e assegurar a articulação entre o Governo Regional e a Assembleia Legislativa;\n\nh) Assegurar a representação do Governo Regional nas comissões interministeriais e noutros organismos nacionais, quando as respetivas atribuições abranjam questões relativas à situação dos emigrantes madeirenses;\n\ni) Assegurar os encargos relativos às iniciativas das instituições de defesa e militares.\n\n2 - São ainda cometidas à SRE as atribuições referentes à manutenção, gestão e apoio às casas da Madeira de Lisboa, Porto e Coimbra em território continental e na Região Autónoma dos Açores.\n\n3 - As atribuições da SRE são exercidas promovendo uma lógica de subsidiariedade, através da descentralização de competências em diversas áreas do conhecimento, na melhoria dos processos da educação, ensino e aprendizagem, no planeamento, na administração e na avaliação das políticas educativas, desportivas, de formação profissional, da ciência e tecnologia, da juventude, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625592": {
+   "fragment_id": "114627404",
+   "type": 11,
+   "heading": "Artigo 6.º — Administração Direta",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 6.º — Administração Direta\n\n1 - Integram a administração direta da Região, no âmbito da SRE, os seguintes serviços:\n\na) Gabinete do Secretário (GS);\n\nb) Direção Regional de Educação (DRE);\n\nc) Direção Regional de Planeamento, Recursos e Infraestruturas (DRPRI);\n\nd) Direção Regional de Inovação e Gestão (DRIG);\n\ne) Direção Regional da Juventude e Desporto (DRJD);\n\nf) Direção Regional da Administração da Justiça (DRAJ);\n\ng) Inspeção Regional de Educação (IRE).\n\n2 - A natureza, atribuições e orgânica de cada um dos organismos e serviços previstos nas alíneas b) a f) do número anterior constarão de decreto regulamentar regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625593": {
+   "fragment_id": "114627408",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho da Secretaria Regional de Educação",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 10.º — Conselho da Secretaria Regional de Educação\n\n1 - O Conselho da Secretaria Regional de Educação (CSRE) desempenha funções de articulação e funcionamento da SRE, com vista à harmonização e conjugação do exercício das competências respetivas, ao prosseguimento de tarefas e missões de caráter horizontal e ao funcionamento integrado e coerente do sistema, de acordo com as orientações de política do Secretário Regional.\n\n2 - Compete ao CSRE, em especial:\n\na) Preparar e acompanhar o lançamento de cada ano escolar, elaborando anualmente um programa de lançamento;\n\nb) Articular o funcionamento das Direções Regionais e Instituto, entre si e com as demais unidades da SRE, com vista a uma harmonização;\n\nc) Avaliar os recursos humanos, materiais e financeiros necessários à prossecução das orientações pedagógicas e didáticas de política educativa e de apoios e complementos educativos;\n\nd) Coordenar e acompanhar a execução das medidas de ação social educativa, propondo a definição de critérios orientadores para a concessão e controlo dos apoios socioeducativos e para a avaliação dos respetivos resultados, bem como velando pela eficiência e eficácia dos serviços de ação social escolar e pela sua qualidade;\n\ne) Analisar questões que digam respeito às atividades a desenvolver nas áreas da educação, da educação especial, do ensino, da ação social educativa, do desporto, da formação profissional, da ciência e tecnologia, da juventude, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social.\n\n3 - O CSRE é constituído pelos diretores regionais ou equiparados e pelos diretores dos serviços previstos no n.º 1 do artigo 6.º e no artigo 14.º, sendo presidido pelo Secretário Regional, com possibilidade de delegação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625594": {
+   "fragment_id": "114627415",
+   "type": 11,
+   "heading": "Artigo 14.º — Gabinete da Unidade de Gestão e Planeamento da SRE",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 14.º — Gabinete da Unidade de Gestão e Planeamento da SRE\n\n1 - O GUG tem por missão o tratamento integral e centralizado de todas as matérias contabilísticas, orçamentais, financeiras e patrimoniais dos serviços simples, integrados, serviços e fundos autónomos e entidades que integram o universo das administrações públicas em contas nacionais e a articulação direta entre os diversos departamentos e a Vice-presidência do Governo (VP) no âmbito das matérias de controlo orçamental e financeiro; garantir uma gestão previsional fiável e sustentada, assente na realização de estudos, visando contribuir para a tomada de decisão, nomeadamente, no âmbito das políticas educativas, de juventude, do desporto, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social.\n\n2 - São atribuições do GUG, nomeadamente:\n\na) Assegurar a elaboração do orçamento de funcionamento e do orçamento de investimentos da SRE;\n\nb) Elaborar, difundir e apoiar a criação de instrumentos de recolha de dados, de forma a garantir o planeamento e a programação dos recursos financeiros em consonância com os princípios da boa gestão financeira;\n\nc) Providenciar o apoio financeiro aos estabelecimentos de ensino particular e cooperativo, às instituições particulares de solidariedade social na área da educação e às escolas profissionais privadas;\n\nd) Proceder ao reporte orçamental e financeiro à VP;\n\ne) Controlar a execução e a regularidade da execução orçamental, dos serviços tutelados pelos respetivos departamentos do Governo Regional;\n\nf) Controlar o cumprimento da aplicação da Lei dos Compromissos e Pagamentos em Atraso, Lei n.º 8/2012, de 21 de fevereiro, nos serviços tutelados;\n\ng) Propor medidas de fiscalização com vista a um efetivo controlo das despesas públicas e dos recursos orçamentais disponíveis;\n\nh) Superintender na gestão orçamental de todos os serviços tutelados, de acordo com as normas vigentes e legislação aplicável;\n\ni) Promover a aplicação do Plano Oficial de Contabilidade Pública nos serviços tutelados, de acordo com o sistema informático disponibilizado para o efeito;\n\nj) Controlar a afetação e a utilização dos fundos disponíveis atribuídos;\n\nk) Validar mensalmente os lançamentos contabilísticos em POCP, assim como os saldos de terceiros;\n\nl) Desenvolver procedimentos de controlo interno;\n\nm) Prestar apoio técnico financeiro no âmbito da definição de políticas, prioridades e objetivos da SRE;\n\nn) Assegurar a articulação entre os instrumentos de gestão, de planeamento e de previsão no âmbito orçamental e financeiro;\n\no) Diagnosticar e propor as ações necessárias à melhoria da qualidade dos serviços do GUG, quer no que respeita à melhoria dos procedimentos internos e à modernização e simplificação administrativa quer no que concerne ao atendimento e prestação de serviços aos utentes;\n\np) Conceber, propor e realizar estudos que possibilitem o conhecimento mais aprofundado do sistema educativo regional e dinâmicas a ele inerentes, de forma a contribuir para a formulação das políticas de educação e de formação;\n\nq) Exercer as demais atribuições que lhe forem cometidas por lei ou determinadas superiormente, ou ainda que decorram do normal exercício das suas funções.\n\n3 - O GUG é dirigido por um diretor equiparado, para todos efeitos legais, a subdiretor regional.\n\n4 - O diretor poderá, nos termos da lei, delegar as competências que julgar convenientes no pessoal afeto ao GUG.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625595": {
+   "fragment_id": "114627420",
+   "type": 11,
+   "heading": "Artigo 18.º — Direção Regional de Inovação e Gestão",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 18.º — Direção Regional de Inovação e Gestão\n\n1 - A DRIG tem por missão assegurar condições políticas, legais e técnicas para o desenvolvimento da autonomia, administração e gestão das organizações escolares, garantindo a sua gestão estratégica e promovendo melhoria organizacional, assim como o apoio e coordenação na implementação de políticas de desenvolvimento e valorização dos recursos humanos na educação, no âmbito das definidas para a administração pública regional.\n\n2 - A DRIG é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625601": {
+   "fragment_id": "114625449",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Direção Regional da Administração da Justiça",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 19.º-A — Direção Regional da Administração da Justiça\n\n1 - A DRAJ tem por missão a direção, orientação e coordenação dos serviços dos registos civil, predial, comercial e de automóveis, do departamento do Jornal Oficial e do Notariado da Região Autónoma da Madeira.\n\n2 - A DRAJ é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625596": {
+   "fragment_id": "114627428",
+   "type": 11,
+   "heading": "Artigo 25.º — Cartão de identidade e livre-trânsito",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 25.º — Cartão de identidade e livre-trânsito\n\nO pessoal dirigente e de inspeção tem direito a um cartão de identidade e livre-trânsito, a aprovar por portaria conjunta da VP e da SRE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625597": {
+   "fragment_id": "114627432",
+   "type": 11,
+   "heading": "Artigo 28.º — Sistema Centralizado de Gestão",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 28.º — Sistema Centralizado de Gestão\n\n1 - Para assegurar uma gestão mais eficiente e eficaz dos recursos humanos na SRE é adotado o sistema centralizado de gestão estabelecido no artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, alterado pelos pelo Decretos Legislativos Regionais n.os 9/2010/M, de 4 de junho, e 26/2012/M, de 3 de setembro, relativamente a todos os trabalhadores com relação jurídica por tempo indeterminado, de todas as carreiras e categorias dos serviços da sua administração direta, com exceção da DRAJ.\n\n2 - O sistema centralizado de gestão consiste na concentração na SRE dos trabalhadores referidos no número anterior, através de lista nominativa, e sua posterior afetação aos órgãos e serviços da sua administração direta, de acordo com as necessidades verificadas, por despacho do Secretário Regional.\n\n3 - Por despacho do Secretário Regional, e sem prejuízo dos direitos e garantias dos trabalhadores, poderá ser revista a afetação a que se refere o número anterior, sempre que se verifique alteração de circunstâncias ou quando o plano de atividades dos serviços o justificar.\n\n4 - A afetação determina a competência do dirigente máximo dos serviços simples no âmbito da gestão de recursos humanos em matéria de distribuição de serviço, avaliação de desempenho e de assiduidade, sendo as demais competências exercidas pela DRIG, à exceção do Instituto para a Qualificação, IP-RAM, ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Investigação e Pólo Científico e Tecnológico da Madeira - Madeira Tecnopolo, S. A., os quais detêm competências próprias em matéria de gestão de recursos humanos.\n\n5 - Os trabalhadores inseridos no regime descentralizado permanecem inseridos nos mapas de pessoal dos respetivos serviços a que pertencem, não lhes sendo aplicável o disposto nos números anteriores.\n\n6 - O recrutamento de trabalhadores para postos de trabalho que se encontrem abrangidos pelo regime centralizado é feito para a SRE, sem prejuízo de ser determinado no aviso de abertura do procedimento concursal ou no pedido de utilização de reservas de recrutamento o órgão ou serviço ao qual o trabalhador ficará afeto, através de referência ao respetivo mapa de pessoal onde o posto de trabalho se encontra previsto.\n\n7 - A lista nominativa referida no n.º 2 será atualizada de acordo como disposto no n.º 12 do artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, com a redação dada pelo Decreto Legislativo Regional n.º 9/2010/M, de 4 de junho e alterado pelo Decreto Legislativo Regional n.º 26/2012/M, de 3 de setembro, bem como sempre que haja saída definitiva de trabalhadores abrangidos no regime centralizado da SRE, procedendo-se neste caso à eliminação destes da referida lista.\n\n8 - Em tudo aquilo que o presente diploma seja omisso relativamente ao sistema centralizado de gestão adotado pela SRE aplica-se o disposto no artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, com a redação dada pelo Decreto Legislativo Regional n.º 9/2010/M, de 4 de junho e alterado pelo n.º 26/2012/M, de 3 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625598": {
+   "fragment_id": "114627433",
+   "type": 11,
+   "heading": "Artigo 29.º — Carreiras subsistentes",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 29.º — Carreiras subsistentes\n\n1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador e de coordenador especialista.\n\n2 - A promoção para a categoria de coordenador especialista faz-se de entre coordenadores com pelo menos três anos na categoria.\n\n3 - O conteúdo funcional do coordenador consiste em coordenar e chefiar na área administrativa.\n\n4 - O desenvolvimento indiciário das carreiras subsistentes de coordenador e de chefe de departamento é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26/08, objeto da Declaração de Retificação n.º 15-I/99, publicada no Diário da República, 1.ª Série-A, n.º 299, 2.º suplemento, de 30 de setembro de 1999.\n\n5 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625599": {
+   "fragment_id": "114627441",
+   "type": 14,
+   "heading": "Anexo I — Cargos de direção superior da administração direta",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "## Anexo I — Cargos de direção superior da administração direta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "114625600": {
+   "fragment_id": "114627443",
+   "type": 14,
+   "heading": "Anexo III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional e da IRE",
+   "in_force_from": "2018-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "## Anexo III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional e da IRE\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "115684186": {
+   "fragment_id": "114627400",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2018-07-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2018/M - Diário da República n.º 134/2018, Série I de 2018-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2018-115692919), em vigor a partir de 2018-07-18, produz efeitos a partir de 2018-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Na prossecução da sua missão, são atribuições da SRE:\n\na) Orientar e superintender a promoção das ações destinadas à primeira e segunda infâncias, numa perspetiva de apoio à família com caráter supletivo, visando o desenvolvimento integral e a inserção na vida da comunidade;\n\nb) Orientar e superintender em todas as políticas regionais e atividades a desenvolver nas áreas da educação, da educação especial, do ensino, da ação social educativa, do desporto, da formação profissional, da ciência e tecnologia, da juventude, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social;\n\nc) Orientar e avaliar o funcionamento e desenvolvimento do sistema educativo regional e de formação profissional nas suas diversas modalidades;\n\nd) Definir e orientar políticas relativas ao sistema de reconhecimento, validação e certificação de competências na Região Autónoma da Madeira;\n\ne) Orientar e superintender a execução e avaliação da política pública da juventude, procedendo à sua concretização, tendo em vista a promoção da integração dos jovens em todos os domínios da vida social;\n\nf) Promover a conceção e execução de medidas e atividades em favor dos jovens, numa perspetiva integrada e interdepartamental, nos domínios da educação não formal, do fomento do associativismo, do acesso à informação e às tecnologias de informação, do empreendedorismo, da promoção de valores e estilos de vida saudáveis, da mobilidade e do intercâmbio e do estabelecimento de parcerias com entidades envolvidas na política de juventude.\n\ng) Promover e assegurar a articulação entre o Governo Regional e a Assembleia Legislativa;\n\nh) Assegurar a representação do Governo Regional nas comissões interministeriais e noutros organismos nacionais, quando as respetivas atribuições abranjam questões relativas à situação dos emigrantes madeirenses;\n\ni) Assegurar os encargos relativos às iniciativas das instituições de defesa e militares;\n\nj) Assegurar os meios indispensáveis ao funcionamento do Centro de Arbitragem de Conflitos de Consumo da Região Autónoma da Madeira.\n\n2 - São ainda cometidas à SRE as atribuições referentes à manutenção, gestão e apoio às casas da Madeira de Lisboa, Porto e Coimbra em território continental e na Região Autónoma dos Açores.\n\n3 - As atribuições da SRE são exercidas promovendo uma lógica de subsidiariedade, através da descentralização de competências em diversas áreas do conhecimento, na melhoria dos processos da educação, ensino e aprendizagem, no planeamento, na administração e na avaliação das políticas educativas, desportivas, de formação profissional, da ciência e tecnologia, da juventude, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2018/M - Diário da República n.º 134/2018, Série I de 2018-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2018-115692919), em vigor a partir de 2018-07-18, produz efeitos a partir de 2018-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952182": {
+   "fragment_id": "114627392",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovada a estrutura orgânica da Secretaria Regional de Educação e do Gabinete do Secretário Regional, publicada em anexo I ao presente diploma, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952183": {
+   "fragment_id": "114627393",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma Revogatória",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 2.º — Norma Revogatória\n\nSão revogados os Decretos Regulamentares Regionais n.os 5/2012/M, de 16 de maio, e 14/2013/M, de 22 de novembro.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952184": {
+   "fragment_id": "114627394",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952185": {
+   "fragment_id": "114627395",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional em 15 de outubro de 2015.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 23 de outubro de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952186": {
+   "fragment_id": "114627396",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "## Anexo I\n\n(a que se refere o artigo 1.º do diploma preambular do Decreto Regulamentar Regional n.º 20/2015/M, de 11 de novembro)\n\nOrgânica da Secretaria Regional de Educação e do Gabinete do Secretário Regional\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952187": {
+   "fragment_id": "114627397",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, Missão, Atribuições e Competências",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "### Capítulo I — Natureza, Missão, Atribuições e Competências\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952188": {
+   "fragment_id": "114627398",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria Regional de Educação, designada no presente diploma abreviadamente por SRE, é o departamento do Governo Regional da Madeira a que se refere a alínea c) do artigo 1.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952189": {
+   "fragment_id": "114627399",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\nÉ missão da SRE definir a política regional nos setores da educação, da educação especial, do desporto, da formação profissional, da ciência e tecnologia, da juventude, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952190": {
+   "fragment_id": "114627400",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2018/M - Diário da República n.º 134/2018, Série I de 2018-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2018-115692919), em vigor a partir de 2018-07-18, produz efeitos a partir de 2018-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Na prossecução da sua missão, são atribuições da SRE:\n\na) Orientar e superintender a promoção das ações destinadas à primeira e segunda infâncias, numa perspetiva de apoio à família com caráter supletivo, visando o desenvolvimento integral e a inserção na vida da comunidade;\n\nb) Orientar e superintender em todas as políticas regionais e atividades a desenvolver nas áreas da educação, da educação especial, do ensino, da ação social educativa, do desporto, da formação profissional, da ciência e tecnologia, da juventude, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social;\n\nc) Orientar e avaliar o funcionamento e desenvolvimento do sistema educativo regional e de formação profissional nas suas diversas modalidades;\n\nd) Definir e orientar políticas relativas ao sistema de reconhecimento, validação e certificação de competências na Região Autónoma da Madeira;\n\ne) Orientar e superintender a execução e avaliação da política pública da juventude, procedendo à sua concretização, tendo em vista a promoção da integração dos jovens em todos os domínios da vida social;\n\nf) Promover a conceção e execução de medidas e atividades em favor dos jovens, numa perspetiva integrada e interdepartamental, nos domínios da educação não formal, do fomento do associativismo, do acesso à informação e às tecnologias de informação, do empreendedorismo, da promoção de valores e estilos de vida saudáveis, da mobilidade e do intercâmbio e do estabelecimento de parcerias com entidades envolvidas na política de juventude.\n\ng) Promover e assegurar a articulação entre o Governo Regional e a Assembleia Legislativa;\n\nh) Assegurar a representação do Governo Regional nas comissões interministeriais e noutros organismos nacionais, quando as respetivas atribuições abranjam questões relativas à situação dos emigrantes madeirenses;\n\ni) Assegurar os encargos relativos às iniciativas das instituições de defesa e militares;\n\nj) Assegurar os meios indispensáveis ao funcionamento do Centro de Arbitragem de Conflitos de Consumo da Região Autónoma da Madeira.\n\n2 - São ainda cometidas à SRE as atribuições referentes à manutenção, gestão e apoio às casas da Madeira de Lisboa, Porto e Coimbra em território continental e na Região Autónoma dos Açores.\n\n3 - As atribuições da SRE são exercidas promovendo uma lógica de subsidiariedade, através da descentralização de competências em diversas áreas do conhecimento, na melhoria dos processos da educação, ensino e aprendizagem, no planeamento, na administração e na avaliação das políticas educativas, desportivas, de formação profissional, da ciência e tecnologia, da juventude, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2018/M - Diário da República n.º 134/2018, Série I de 2018-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2018-115692919), em vigor a partir de 2018-07-18, produz efeitos a partir de 2018-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952191": {
+   "fragment_id": "114627401",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - A SRE é dirigida pelo Secretário Regional de Educação, ao qual são genericamente cometidas as seguintes competências:\n\na) Elaborar e operacionalizar a carta escolar e administrar a rede escolar;\n\nb) Organizar e administrar a certificação profissional e gerir os fundos destinados à formação profissional;\n\nc) Auditar o funcionamento do sistema educativo regional, acompanhando a atividade das escolas, dos órgãos e serviços e demais estruturas que o integram, com vista à melhoria do serviço público de educação;\n\nd) Conferir distinções a entidades que desenvolvam projetos ou ações relevantes no âmbito das competências da SRE;\n\ne) Proceder à recolha de dados e à elaboração de estudos de diagnóstico nas suas áreas de competência;\n\nf) Promover e assegurar as ações respeitantes à divulgação e organização do processo de acesso ao ensino superior;\n\ng) Organizar e gerir o processo de candidatura e atribuição das bolsas de estudo do Governo Regional para a frequência do ensino superior.\n\n2 - Compete ainda ao Secretário Regional:\n\na) Representar a SRE;\n\nb) Dirigir e coordenar a atuação dos dirigentes responsáveis pelas estruturas previstas nos artigos seguintes;\n\nc) Superintender e realizar a gestão dos meios humanos, materiais e financeiros para efetivação das atribuições enunciadas na alínea anterior;\n\nd) Orientar toda a ação da SRE e exercer as demais competências previstas na lei.\n\n3 - O Secretário Regional de Educação pode, nos termos da lei, delegar competências em titulares de cargos de direção e chefia.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952192": {
+   "fragment_id": "114627402",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura Orgânica",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "### Capítulo II — Estrutura Orgânica\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952193": {
+   "fragment_id": "114627403",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura Geral",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 5.º — Estrutura Geral\n\nA SRE prossegue as suas atribuições através de serviços integrados na administração direta da Região, de organismos integrados na administração indireta da Região, de órgãos consultivos e de outras estruturas.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952194": {
+   "fragment_id": "114627404",
+   "type": 11,
+   "heading": "Artigo 6.º — Administração Direta",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 6.º — Administração Direta\n\n1 - Integram a administração direta da Região, no âmbito da SRE, os seguintes serviços:\n\na) Gabinete do Secretário (GS);\n\nb) Direção Regional de Educação (DRE);\n\nc) Direção Regional de Planeamento, Recursos e Infraestruturas (DRPRI);\n\nd) Direção Regional de Inovação e Gestão (DRIG);\n\ne) Direção Regional da Juventude e Desporto (DRJD);\n\nf) Direção Regional da Administração da Justiça (DRAJ);\n\ng) Inspeção Regional de Educação (IRE).\n\n2 - A natureza, atribuições e orgânica de cada um dos organismos e serviços previstos nas alíneas b) a f) do número anterior constarão de decreto regulamentar regional.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952195": {
+   "fragment_id": "114627405",
+   "type": 11,
+   "heading": "Artigo 7.º — Administração Indireta",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 7.º — Administração Indireta\n\n1 - A SRE exerce ainda a tutela sobre:\n\na) O Instituto para a Qualificação, IP-RAM;\n\nb) O Conservatório - Escola Profissional das Artes da Madeira - Eng.º Luiz Peter Clode.\n\n2 - A natureza, atribuições e orgânica dos organismos referidos no número anterior, constam de decreto legislativo regional.\n\n3 - O Instituto para a Qualificação, IP-RAM é dirigido por um Conselho Diretivo, composto por um Presidente e um Vogal, respetivamente, cargos de direção superior de 1.º e de 2.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952196": {
+   "fragment_id": "114627406",
+   "type": 11,
+   "heading": "Artigo 8.º — Outras Entidades Tuteladas",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 8.º — Outras Entidades Tuteladas\n\nA SRE exerce igualmente tutela sobre:\n\na) ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Investigação;\n\nb) Pólo Científico e Tecnológico da Madeira, Madeira Tecnopolo, S. A.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952197": {
+   "fragment_id": "114627407",
+   "type": 11,
+   "heading": "Artigo 9.º — Órgãos Consultivos",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 9.º — Órgãos Consultivos\n\n1 - São órgãos Consultivos da SRE:\n\na) O Conselho Regional de Educação e Formação Profissional (CREFP);\n\nb) O Conselho Desportivo da Região Autónoma da Madeira (CDRAM);\n\nc) O Conselho da Secretaria Regional de Educação (CSRE);\n\nd) O Conselho da Juventude (CJ).\n\n2 - A composição dos órgãos previstos nas alíneas a), b) e d) do número anterior consta de diploma próprio.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952198": {
+   "fragment_id": "114627408",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho da Secretaria Regional de Educação",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 10.º — Conselho da Secretaria Regional de Educação\n\n1 - O Conselho da Secretaria Regional de Educação (CSRE) desempenha funções de articulação e funcionamento da SRE, com vista à harmonização e conjugação do exercício das competências respetivas, ao prosseguimento de tarefas e missões de caráter horizontal e ao funcionamento integrado e coerente do sistema, de acordo com as orientações de política do Secretário Regional.\n\n2 - Compete ao CSRE, em especial:\n\na) Preparar e acompanhar o lançamento de cada ano escolar, elaborando anualmente um programa de lançamento;\n\nb) Articular o funcionamento das Direções Regionais e Instituto, entre si e com as demais unidades da SRE, com vista a uma harmonização;\n\nc) Avaliar os recursos humanos, materiais e financeiros necessários à prossecução das orientações pedagógicas e didáticas de política educativa e de apoios e complementos educativos;\n\nd) Coordenar e acompanhar a execução das medidas de ação social educativa, propondo a definição de critérios orientadores para a concessão e controlo dos apoios socioeducativos e para a avaliação dos respetivos resultados, bem como velando pela eficiência e eficácia dos serviços de ação social escolar e pela sua qualidade;\n\ne) Analisar questões que digam respeito às atividades a desenvolver nas áreas da educação, da educação especial, do ensino, da ação social educativa, do desporto, da formação profissional, da ciência e tecnologia, da juventude, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social.\n\n3 - O CSRE é constituído pelos diretores regionais ou equiparados e pelos diretores dos serviços previstos no n.º 1 do artigo 6.º e no artigo 14.º, sendo presidido pelo Secretário Regional, com possibilidade de delegação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952199": {
+   "fragment_id": "114627409",
+   "type": 1,
+   "heading": "Capítulo III — Dos Serviços",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "### Capítulo III — Dos Serviços\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952200": {
+   "fragment_id": "114627410",
+   "type": 8,
+   "heading": "Secção I — Serviços da administração direta",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "#### Secção I — Serviços da administração direta\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952201": {
+   "fragment_id": "114627411",
+   "type": 3,
+   "heading": "Subsecção I — Gabinete do Secretário Regional",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "##### Subsecção I — Gabinete do Secretário Regional\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952202": {
+   "fragment_id": "114627412",
+   "type": 11,
+   "heading": "Artigo 11.º — Missão e Competências",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 11.º — Missão e Competências\n\n1 - O Gabinete do Secretário Regional de Educação, doravante designado por GS, tem por missão coadjuvá-lo no exercício das suas funções, assegurando o planeamento e os apoios técnico, estratégico, jurídico, financeiro e administrativo necessários ao exercício das suas competências.\n\n2 - O GS é composto pelos membros referidos no n.º 1 do artigo 3.º do Decreto-Lei n.º 11/2012, de 20 de janeiro, designados por despacho do Secretário Regional, compreendendo as unidades orgânicas que funcionam sob a sua direta dependência.\n\n3 - Constituem competências do GS:\n\na) Prestar apoio ao Secretário Regional, nos vários domínios de competência da SRE;\n\nb) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade no âmbito da SRE;\n\nc) Apoiar, em articulação com outros serviços da SRE com competências nesta área, os processos de reconhecimento, validação e certificação de competências com vista à melhoria dos níveis de certificação escolar e de qualificação profissional;\n\nd) Assegurar a elaboração do plano anual de atividades do GS e respetivo relatório;\n\ne) Assegurar a gestão do pessoal do GS;\n\nf) Assegurar a gestão das instalações que lhe estão afetas;\n\ng) Coordenar as ações referentes à organização e à preservação do património e arquivo;\n\nh) Assegurar, a inovação e modernização dos serviços, a gestão e organização eficaz da informação, a redução da burocracia e o aumento da eficácia dos processos;\n\ni) Assegurar o normal funcionamento da SRE nas áreas que não sejam da competência específica de outros departamentos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952203": {
+   "fragment_id": "114627413",
+   "type": 11,
+   "heading": "Artigo 12.º — Estrutura do Gabinete",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 12.º — Estrutura do Gabinete\n\n1 - O GS compreende um chefe de gabinete, dois adjuntos e dois secretários pessoais.\n\n2 - Para exercer funções de apoio técnico e administrativo no GS poderão ser sujeitos a mobilidade quaisquer trabalhadores da administração pública central, regional ou local, dos institutos públicos, associações privadas e das empresas públicas ou privadas.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952204": {
+   "fragment_id": "114627414",
+   "type": 11,
+   "heading": "Artigo 13.º — Tipo de Organização Interna",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 13.º — Tipo de Organização Interna\n\n1 - A organização interna do GS, que compreende as unidades orgânicas nucleares e flexíveis que funcionam sob a sua direta dependência, obedece ao modelo de estrutura hierarquizada.\n\n2 - A organização interna a que se refere o número anterior é aprovada nos termos do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.º 24/2012/M, de 30 de agosto e 2/2013/M, de 2 de janeiro.\n\n3 - A organização interna do GS compreende o Gabinete da Unidade de Gestão e Planeamento da SRE (GUG).\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952205": {
+   "fragment_id": "114627415",
+   "type": 11,
+   "heading": "Artigo 14.º — Gabinete da Unidade de Gestão e Planeamento da SRE",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 14.º — Gabinete da Unidade de Gestão e Planeamento da SRE\n\n1 - O GUG tem por missão o tratamento integral e centralizado de todas as matérias contabilísticas, orçamentais, financeiras e patrimoniais dos serviços simples, integrados, serviços e fundos autónomos e entidades que integram o universo das administrações públicas em contas nacionais e a articulação direta entre os diversos departamentos e a Vice-presidência do Governo (VP) no âmbito das matérias de controlo orçamental e financeiro; garantir uma gestão previsional fiável e sustentada, assente na realização de estudos, visando contribuir para a tomada de decisão, nomeadamente, no âmbito das políticas educativas, de juventude, do desporto, dos assuntos parlamentares, das comunidades madeirenses e imigração, da administração da justiça e da comunicação social.\n\n2 - São atribuições do GUG, nomeadamente:\n\na) Assegurar a elaboração do orçamento de funcionamento e do orçamento de investimentos da SRE;\n\nb) Elaborar, difundir e apoiar a criação de instrumentos de recolha de dados, de forma a garantir o planeamento e a programação dos recursos financeiros em consonância com os princípios da boa gestão financeira;\n\nc) Providenciar o apoio financeiro aos estabelecimentos de ensino particular e cooperativo, às instituições particulares de solidariedade social na área da educação e às escolas profissionais privadas;\n\nd) Proceder ao reporte orçamental e financeiro à VP;\n\ne) Controlar a execução e a regularidade da execução orçamental, dos serviços tutelados pelos respetivos departamentos do Governo Regional;\n\nf) Controlar o cumprimento da aplicação da Lei dos Compromissos e Pagamentos em Atraso, Lei n.º 8/2012, de 21 de fevereiro, nos serviços tutelados;\n\ng) Propor medidas de fiscalização com vista a um efetivo controlo das despesas públicas e dos recursos orçamentais disponíveis;\n\nh) Superintender na gestão orçamental de todos os serviços tutelados, de acordo com as normas vigentes e legislação aplicável;\n\ni) Promover a aplicação do Plano Oficial de Contabilidade Pública nos serviços tutelados, de acordo com o sistema informático disponibilizado para o efeito;\n\nj) Controlar a afetação e a utilização dos fundos disponíveis atribuídos;\n\nk) Validar mensalmente os lançamentos contabilísticos em POCP, assim como os saldos de terceiros;\n\nl) Desenvolver procedimentos de controlo interno;\n\nm) Prestar apoio técnico financeiro no âmbito da definição de políticas, prioridades e objetivos da SRE;\n\nn) Assegurar a articulação entre os instrumentos de gestão, de planeamento e de previsão no âmbito orçamental e financeiro;\n\no) Diagnosticar e propor as ações necessárias à melhoria da qualidade dos serviços do GUG, quer no que respeita à melhoria dos procedimentos internos e à modernização e simplificação administrativa quer no que concerne ao atendimento e prestação de serviços aos utentes;\n\np) Conceber, propor e realizar estudos que possibilitem o conhecimento mais aprofundado do sistema educativo regional e dinâmicas a ele inerentes, de forma a contribuir para a formulação das políticas de educação e de formação;\n\nq) Exercer as demais atribuições que lhe forem cometidas por lei ou determinadas superiormente, ou ainda que decorram do normal exercício das suas funções.\n\n3 - O GUG é dirigido por um diretor equiparado, para todos efeitos legais, a subdiretor regional.\n\n4 - O diretor poderá, nos termos da lei, delegar as competências que julgar convenientes no pessoal afeto ao GUG.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952206": {
+   "fragment_id": "114627416",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências do diretor",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 15.º — Competências do diretor\n\nCompete, especialmente, ao diretor do GUG:\n\na) Superintender na gestão orçamental de todos os serviços, Direções Regionais e Escolas da SRE, assegurando a necessária coordenação orçamental e financeira, de acordo com as orientações e legislação aplicável;\n\nb) Propor medidas de fiscalização com vista a um efetivo controlo das despesas públicas e dos recursos orçamentais disponíveis;\n\nc) Assegurar a normalização de procedimentos e propor medidas que garantam a intercomunicabilidade de dados entre os diversos serviços da SRE, tendo em vista a maximização da eficiência e eficácia nos gastos públicos;\n\nd) Conceber, propor e proceder à aplicação de medidas que visem o aperfeiçoamento e a qualidade dos serviços;\n\ne) Assegurar o cumprimento das orientações e da legislação aplicável, no âmbito do processo de avaliação dos trabalhadores, incluindo a formulação de prioridades resultantes da identificação das necessidades de formação;\n\nf) Superintender no âmbito da elaboração do plano e relatório de atividades, nomeadamente no que respeita à identificação dos objetivos e metas a atingir pelo GUG, bem como na avaliação das respetivas atividades;\n\ng) Superintender na utilização racional das instalações e equipamentos afetos ao GUG;\n\nh) Representar o GUG em quaisquer atos para que seja designado e praticar todos os atos preparatórios das decisões finais, cuja competência seja do Secretário Regional;\n\ni) Exercer as demais competências que lhe forem atribuídas por lei ou determinadas superiormente.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952207": {
+   "fragment_id": "114627417",
+   "type": 3,
+   "heading": "Subsecção II — Missão dos serviços",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "##### Subsecção II — Missão dos serviços\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952208": {
+   "fragment_id": "114627418",
+   "type": 11,
+   "heading": "Artigo 16.º — Direção Regional de Educação",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 7/2016/M - Diário da República n.º 25/2016, Série I de 2016-02-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2016-73443681), em vigor a partir de 2016-02-06"
+   ],
+   "markdown": "###### Artigo 16.º — Direção Regional de Educação\n\n1 - A DRE promove, desenvolve e operacionaliza as políticas educativas da Região Autónoma da Madeira de âmbito pedagógico e didático, relativas à educação pré-escolar, aos ensinos básico e secundário e à educação extraescolar, numa perspetiva inclusiva, contribuindo para a melhoria contínua da qualidade das aprendizagens e potenciadora do sucesso escolar e da elevação da qualificação pessoal, social e profissional da população madeirense e porto-santense.\n\n2 - A DRE é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 7/2016/M - Diário da República n.º 25/2016, Série I de 2016-02-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2016-73443681), em vigor a partir de 2016-02-06"
+  },
+  "127952209": {
+   "fragment_id": "114627419",
+   "type": 11,
+   "heading": "Artigo 17.º — Direção Regional de Planeamento, Recursos e Infraestruturas",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 17.º — Direção Regional de Planeamento, Recursos e Infraestruturas\n\n1 - A DRPRI tem como missão a definição de políticas e procedimentos de apoio à gestão de edifícios e demais espaços anexos no referente aos recursos necessários à comunidade de utilizadores, nomeadamente, no referente à plataforma informativa de suporte, à manutenção e ao fornecimento de bens e serviços necessários à rede de creches, estabelecimentos de educação e ensino, infraestruturas desportivas e da juventude, nos limites das suas competências e em estreita colaboração com outras entidades responsáveis.\n\n2 - A DRPRI é dirigida por um diretor regional, cargo de direção superior de 1.º grau, coadjuvado por um subdiretor regional, cargo de direção superior de 2.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952210": {
+   "fragment_id": "114627420",
+   "type": 11,
+   "heading": "Artigo 18.º — Direção Regional de Inovação e Gestão",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 18.º — Direção Regional de Inovação e Gestão\n\n1 - A DRIG tem por missão assegurar condições políticas, legais e técnicas para o desenvolvimento da autonomia, administração e gestão das organizações escolares, garantindo a sua gestão estratégica e promovendo melhoria organizacional, assim como o apoio e coordenação na implementação de políticas de desenvolvimento e valorização dos recursos humanos na educação, no âmbito das definidas para a administração pública regional.\n\n2 - A DRIG é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952211": {
+   "fragment_id": "114627421",
+   "type": 11,
+   "heading": "Artigo 19.º — Direção Regional de Juventude e Desporto",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 19.º — Direção Regional de Juventude e Desporto\n\n1 - A DRJD tem por missão apoiar a definição, coordenação e concretização da política pública governamental nas áreas da juventude e do desporto, promovendo a participação dos jovens em todos os domínios da vida social e o fomento da prática desportiva na Região Autónoma da Madeira.\n\n2 - A DRJD é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952212": {
+   "fragment_id": "114625449",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Direção Regional da Administração da Justiça",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 19.º-A — Direção Regional da Administração da Justiça\n\n1 - A DRAJ tem por missão a direção, orientação e coordenação dos serviços dos registos civil, predial, comercial e de automóveis, do departamento do Jornal Oficial e do Notariado da Região Autónoma da Madeira.\n\n2 - A DRAJ é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952213": {
+   "fragment_id": "114627422",
+   "type": 3,
+   "heading": "Subsecção III — Inspeção Regional de Educação",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "##### Subsecção III — Inspeção Regional de Educação\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952214": {
+   "fragment_id": "114627423",
+   "type": 11,
+   "heading": "Artigo 20.º — Missão e atribuições",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 20.º — Missão e atribuições\n\n1 - A IRE é o serviço da Secretaria Regional da Educação, dependente do Secretário Regional, a quem incumbe o exercício da tutela inspetiva dos estabelecimentos de educação e ensino, bem como dos serviços dependentes da SRE, nomeadamente através de ações de avaliação, auditoria, verificação e apoio técnico na salvaguarda do serviço público de educação.\n\n2 - A IRE, tendo como principal missão da sua ação a escola como organização educativa, assume como prioritária a qualidade da educação das crianças e do ensino dos alunos, numa perspetiva de educação para todos, de direitos humanos e de inclusão.\n\n3 - A IRE exerce a sua atividade em articulação com:\n\na) Os estabelecimentos de educação e do ensino das redes pública e privada;\n\nb) Os centros de formação contínua de docentes, no âmbito do regime jurídico de formação contínua de professores;\n\nc) Os órgãos e serviços da Secretaria Regional de Educação.\n\n4 - São atribuições e competências da IRE:\n\na) Propor ou colaborar na preparação e execução de medidas que visem o aperfeiçoamento e a melhoria do funcionamento do sistema educativo regional e da qualidade dos estabelecimentos de educação e de ensino, numa perspetiva de promoção do sucesso escolar dos alunos, de alteração da cultura de retenção, de promoção do espírito crítico e da assunção do compromisso ético de transformação da realidade socioeducativa;\n\nb) Proceder a avaliações globais do sistema educativo regional, nomeadamente no âmbito da avaliação organizacional e desenvolvimento das escolas;\n\nc) Conceber, planear e executar ações inspetivas, em qualquer âmbito do funcionamento do sistema educativo regional, por forma a promover a qualidade pedagógica e organizacional dos estabelecimentos de educação e ensino;\n\nd) Conceber, propor e realizar estudos que contribuam para a formulação de políticas de educação e de formação;\n\ne) Assegurar o cumprimento das disposições legais e das demais orientações, bem como das recomendações e orientações transmitidas em anteriores ações inspetivas;\n\nf) Propor e instruir os processos disciplinares, inquéritos e sindicâncias, resultantes do exercício da sua atividade ou que lhe sejam remetidos para o efeito, conforme previsto na legislação em vigor;\n\ng) Assegurar que os estabelecimentos de ensino privados observem os termos em que foram autorizados a funcionar;\n\nh) Prestar apoio aos estabelecimentos de educação e ensino em matéria de ação disciplinar, nos termos definidos nos estatutos do pessoal docente e não docente;\n\ni) Efetuar auditorias, inquéritos e inspeções com objetivo de avaliar o desempenho e a gestão administrativa e financeira dos serviços e organismos da SRE, de acordo com as orientações e políticas delineadas e apreciar a legalidade dos respetivos atos;\n\nj) Enquadrar as reclamações e as participações que lhe forem dirigidas pelo público em geral e pela comunidade educativa em particular, procedendo às diligências necessárias;\n\nk) Exercer as demais atribuições que lhe forem cometidas por lei.\n\n5 - A IRE é dirigida por um diretor equiparado, para todos os efeitos legais, a subdiretor regional.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952215": {
+   "fragment_id": "114627424",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências do diretor",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 21.º — Competências do diretor\n\n1 - Compete especialmente ao diretor da IRE:\n\na) Elaborar os planos estratégico plurianual e anual de atividades, com identificação dos objetivos a atingir pelo serviço, bem como assegurar, controlar e avaliar a sua execução, submetendo-os, assim como aos relatórios de execução, à aprovação do Secretário Regional;\n\nb) Assegurar a representação da IRE junto de organismos regionais, nacionais e internacionais;\n\nc) Representar a IRE e praticar todos os atos preparatórios das decisões finais cuja competência seja do Secretário Regional;\n\nd) Superintender na utilização racional das instalações afetas ao serviço, bem como velar pela sua conservação e manutenção e pela existência de condições de higiene e segurança no trabalho;\n\ne) Gerir a utilização, conservação e manutenção dos equipamentos afetos à IRE, bem como promover as aquisições necessárias no âmbito das suas competências;\n\nf) Gerir os meios humanos, elaborar e executar o plano de gestão previsional, bem como o correspondente plano de formação, e afetar o pessoal em função do plano anual de atividades e dos projetos e trabalhos em curso;\n\ng) Autorizar a passagem de certidões de documentos arquivados na respetiva unidade orgânica da IRE, exceto quando contenham matéria confidencial ou reservada, bem como a restituição de documentos aos interessados;\n\nh) Promover a realização das inspeções ordinárias, bem como das inspeções extraordinárias, devidamente autorizadas;\n\ni) Propor a realização de inquéritos e sindicâncias, nomeadamente em resultado de ações inspetivas, bem como instaurar processos disciplinares, nos termos da lei, em consequência de ações inspetivas realizadas pela IRE;\n\nj) Nomear os instrutores de processos de competência da IRE, designadamente o resultante da instrução de processos solicitados pelas escolas, nos termos do n.º 2, do artigo 208.º, da Lei Geral de Trabalho em Funções Públicas;\n\nk) Mandar reformular os processos disciplinares e decidir sobre os processos de suspeição ou escusa;\n\nl) Elaborar e apresentar ao Secretário Regional de Educação, até julho, o relatório anual de atividades;\n\nm) Exercer as demais competências que lhe forem atribuídas por lei.\n\n2 - Nas suas ausências e impedimentos, o diretor é substituído pelo diretor de serviços da Inspeção (DSI).\n\n3 - O diretor poderá delegar, nos termos da lei, no pessoal afeto à IRE as competências que entender por convenientes.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952216": {
+   "fragment_id": "114627425",
+   "type": 11,
+   "heading": "Artigo 22.º — Atividade inspetiva",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 22.º — Atividade inspetiva\n\n1 - As ações inspetivas da IRE serão efetuadas por inspetores que, no exterior, atuarão individualmente ou em equipa e, neste último caso, sob a direção de um inspetor previamente designado pelo diretor da IRE.\n\n2 - Por despacho do diretor da IRE, são nomeados os inspetores ou equipas de inspetores para cada intervenção inspetiva, bem como para atividades no âmbito das atribuições da IRE, numa lógica de matricialidade.\n\n3 - Sem prejuízo dos prazos impostos legalmente, cada intervenção inspetiva é iniciada e concluída dentro dos prazos para cada caso fixados, excecionalmente prorrogáveis pelo diretor da IRE, em situações devidamente fundamentadas.\n\n4 - A IRE pode proceder a fiscalizações para verificação do cumprimento de medidas propostas em inspeções anteriores.\n\n5 - As ações de inspeção são ordinárias ou extraordinárias, podendo assumir as formas de avaliação, acompanhamento, auditoria, controlo, ação disciplinar e provedoria.\n\n6 - O disposto no número anterior não prejudica a realização de outras formas de intervenção consagradas em legislação específica.\n\n7 - As normas de início, desenvolvimento e conclusão das ações inspetivas constam do Decreto-Lei n.º 276/2007, de 31 de julho, com a alteração do Decreto-Lei n.º 32/2012, de 13 de fevereiro, do Despacho n.º 31/2010, de 17 de maio, e do constante no presente diploma.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952217": {
+   "fragment_id": "114627426",
+   "type": 11,
+   "heading": "Artigo 23.º — Dever de colaboração e pedidos de informação",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 23.º — Dever de colaboração e pedidos de informação\n\nÀ IRE é devida, nos termos gerais do direito, toda a colaboração e informação por esta solicitada.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952218": {
+   "fragment_id": "114627427",
+   "type": 11,
+   "heading": "Artigo 24.º — Autonomia técnica",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 24.º — Autonomia técnica\n\n1 - Os dirigentes e o pessoal técnico superior de inspeção da IRE gozam de autonomia técnica, regendo-se na sua atuação pelas disposições legais vigentes e pelas orientações do Secretário Regional.\n\n2 - A autonomia técnica da IRE traduz-se no reconhecimento da capacidade para a adoção de entre os meios que a lei confere e os recursos disponíveis dos que se afigurem adequados à realização dos objetivos visados.\n\n3 - No exercício das suas funções, os dirigentes e o pessoal técnico superior de inspeção da IRE gozam ainda das seguintes prerrogativas:\n\na) Direito de acesso e livre-trânsito, nos termos da lei, pelo tempo e no horário necessários ao desempenho das suas funções, em todos os serviços e instalações das entidades públicas e privadas sujeitas ao exercício das suas atribuições;\n\nb) Requisitar para exame, consulta e junção aos autos, livros, documentos, registos, arquivos e outros elementos pertinentes em poder das entidades cuja atividade seja objeto da ação de inspeção;\n\nc) Recolher informações sobre as atividades inspecionadas e proceder a exames a quaisquer vestígios de infrações;\n\nd) Promover, nos termos legais aplicáveis, a selagem de quaisquer instalações, bem como a apreensão de documentos e objetos de prova em poder das entidades inspecionadas ou do seu pessoal, quando isso se mostre indispensável à realização da ação, para o que deve ser levantado o competente auto.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952219": {
+   "fragment_id": "114627428",
+   "type": 11,
+   "heading": "Artigo 25.º — Cartão de identidade e livre-trânsito",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 25.º — Cartão de identidade e livre-trânsito\n\nO pessoal dirigente e de inspeção tem direito a um cartão de identidade e livre-trânsito, a aprovar por portaria conjunta da VP e da SRE.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952220": {
+   "fragment_id": "114627429",
+   "type": 11,
+   "heading": "Artigo 26.º — Incompatibilidades e impedimentos",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 26.º — Incompatibilidades e impedimentos\n\n1 - O pessoal dos serviços de inspeção está sujeito ao regime geral de incompatibilidades e impedimentos vigente na Administração Pública.\n\n2 - Encontra-se ainda vedado ao pessoal técnico superior de inspeção da IRE:\n\na) Efetuar quaisquer ações de natureza inspetiva ou disciplinar em serviços, organismos e empresas onde exerçam funções ou prestem serviços parentes seus ou afins em qualquer grau da linha reta ou até ao 3.º grau da linha colateral;\n\nb) Efetuar quaisquer ações de natureza inspetiva ou disciplinar em serviços, organismos e empresas onde tenham exercido funções há menos de três anos ou onde as exerçam em regime de acumulação;\n\nc) Ser proprietário ou exercer qualquer atividade, quer docente quer não docente, em estabelecimentos de educação e ou ensino ou serviço, público ou particular, de ensino não superior.\n\n3 - Na decisão dos pedidos de acumulação de funções de inspeção com qualquer função, remunerada ou não, os dirigentes da IRE devem ponderar os riscos para a imparcialidade do pessoal técnico superior de inspeção decorrentes do exercício de funções em entidades integradas no âmbito de intervenção da IRE.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952221": {
+   "fragment_id": "114627430",
+   "type": 1,
+   "heading": "Capítulo IV — Regime do Pessoal",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "### Capítulo IV — Regime do Pessoal\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952222": {
+   "fragment_id": "114627431",
+   "type": 11,
+   "heading": "Artigo 27.º — Carreiras e categorias",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 27.º — Carreiras e categorias\n\n1 - O pessoal das carreiras especiais compreende a carreira de inspeção constante do Decreto Legislativo Regional n.º 19/2010/M, de 19 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro.\n\n2 - O pessoal que integra os corpos especiais da saúde compreende a carreira de técnico de diagnóstico e terapêutica constante do Decreto-Lei n.º 564/99, de 21 de dezembro, alterado pelo Decreto-Lei n.º 154/2000, de 21 de julho.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952223": {
+   "fragment_id": "114627432",
+   "type": 11,
+   "heading": "Artigo 28.º — Sistema Centralizado de Gestão",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 28.º — Sistema Centralizado de Gestão\n\n1 - Para assegurar uma gestão mais eficiente e eficaz dos recursos humanos na SRE é adotado o sistema centralizado de gestão estabelecido no artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, alterado pelos pelo Decretos Legislativos Regionais n.os 9/2010/M, de 4 de junho, e 26/2012/M, de 3 de setembro, relativamente a todos os trabalhadores com relação jurídica por tempo indeterminado, de todas as carreiras e categorias dos serviços da sua administração direta, com exceção da DRAJ.\n\n2 - O sistema centralizado de gestão consiste na concentração na SRE dos trabalhadores referidos no número anterior, através de lista nominativa, e sua posterior afetação aos órgãos e serviços da sua administração direta, de acordo com as necessidades verificadas, por despacho do Secretário Regional.\n\n3 - Por despacho do Secretário Regional, e sem prejuízo dos direitos e garantias dos trabalhadores, poderá ser revista a afetação a que se refere o número anterior, sempre que se verifique alteração de circunstâncias ou quando o plano de atividades dos serviços o justificar.\n\n4 - A afetação determina a competência do dirigente máximo dos serviços simples no âmbito da gestão de recursos humanos em matéria de distribuição de serviço, avaliação de desempenho e de assiduidade, sendo as demais competências exercidas pela DRIG, à exceção do Instituto para a Qualificação, IP-RAM, ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Investigação e Pólo Científico e Tecnológico da Madeira - Madeira Tecnopolo, S. A., os quais detêm competências próprias em matéria de gestão de recursos humanos.\n\n5 - Os trabalhadores inseridos no regime descentralizado permanecem inseridos nos mapas de pessoal dos respetivos serviços a que pertencem, não lhes sendo aplicável o disposto nos números anteriores.\n\n6 - O recrutamento de trabalhadores para postos de trabalho que se encontrem abrangidos pelo regime centralizado é feito para a SRE, sem prejuízo de ser determinado no aviso de abertura do procedimento concursal ou no pedido de utilização de reservas de recrutamento o órgão ou serviço ao qual o trabalhador ficará afeto, através de referência ao respetivo mapa de pessoal onde o posto de trabalho se encontra previsto.\n\n7 - A lista nominativa referida no n.º 2 será atualizada de acordo como disposto no n.º 12 do artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, com a redação dada pelo Decreto Legislativo Regional n.º 9/2010/M, de 4 de junho e alterado pelo Decreto Legislativo Regional n.º 26/2012/M, de 3 de setembro, bem como sempre que haja saída definitiva de trabalhadores abrangidos no regime centralizado da SRE, procedendo-se neste caso à eliminação destes da referida lista.\n\n8 - Em tudo aquilo que o presente diploma seja omisso relativamente ao sistema centralizado de gestão adotado pela SRE aplica-se o disposto no artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, com a redação dada pelo Decreto Legislativo Regional n.º 9/2010/M, de 4 de junho e alterado pelo n.º 26/2012/M, de 3 de setembro.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952224": {
+   "fragment_id": "114627433",
+   "type": 11,
+   "heading": "Artigo 29.º — Carreiras subsistentes",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "###### Artigo 29.º — Carreiras subsistentes\n\n1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador e de coordenador especialista.\n\n2 - A promoção para a categoria de coordenador especialista faz-se de entre coordenadores com pelo menos três anos na categoria.\n\n3 - O conteúdo funcional do coordenador consiste em coordenar e chefiar na área administrativa.\n\n4 - O desenvolvimento indiciário das carreiras subsistentes de coordenador e de chefe de departamento é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26/08, objeto da Declaração de Retificação n.º 15-I/99, publicada no Diário da República, 1.ª Série-A, n.º 299, 2.º suplemento, de 30 de setembro de 1999.\n\n5 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952225": {
+   "fragment_id": "114627434",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952226": {
+   "fragment_id": "114627435",
+   "type": 11,
+   "heading": "Artigo 30.º — Extinção, criação e reestruturação de serviços",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 30.º — Extinção, criação e reestruturação de serviços\n\n1 - É criada a Direção Regional de Inovação e Gestão.\n\n2 - São extintos, sendo objeto de fusão, os seguintes serviços:\n\na) A Direção Regional dos Recursos Humanos e da Administração Educativa, sendo as suas atribuições integradas na Direção Regional de Inovação e Gestão;\n\nb) A Direção Regional de Qualificação Profissional, sendo as suas atribuições integradas no Instituto para a Qualificação, IP-RAM.\n\n3 - O Instituto para a Qualificação, IP-RAM será criado através de diploma próprio.\n\n4 - A Escola Profissional Dr. Francisco Fernandes será reestruturada e passará para a tutela do Instituto para a Qualificação, IP-RAM, através de diploma próprio.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952227": {
+   "fragment_id": "114627436",
+   "type": 11,
+   "heading": "Artigo 31.º — Produção de efeitos",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 31.º — Produção de efeitos\n\n1 - A fusão e a reestruturação previstas na alínea b) do n.º 2 e no n.º 3 do artigo anterior produzem efeitos com a data da entrada em vigor do diploma que proceder à criação do Instituto para a Qualificação, IP-RAM.\n\n2 - A criação e fusão previstas no n.º 1 e na alínea a) do n.º 2 do artigo anterior produzem efeitos com a entrada em vigor do diploma que aprovar a orgânica da Direção Regional de Inovação e Gestão.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952228": {
+   "fragment_id": "114627437",
+   "type": 11,
+   "heading": "Artigo 32.º — Sucessão de regimes",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 32.º — Sucessão de regimes\n\nAté à aprovação dos diplomas legais que aprovem as novas orgânicas dos serviços a que se refere o presente diploma, mantêm-se em vigor os atuais.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952229": {
+   "fragment_id": "114627438",
+   "type": 11,
+   "heading": "Artigo 33.º — Referências",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 33.º — Referências\n\n1 - Todas as referências, legais ou regulamentares, feitas à Secretaria Regional da Educação e Recursos Humanos devem ter-se por feitas à Secretaria Regional de Educação.\n\n2 - Todas as referências, legais ou regulamentares, feitas à Direção Regional dos Recursos Humanos e da Administração Educativa devem ter-se por feitas à Direção Regional de Inovação e Gestão.\n\n3 - Todas as referências, legais ou regulamentares, feitas à Direção Regional de Qualificação Profissional devem ter-se por feitas ao Instituto para a Qualificação, IP-RAM.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952230": {
+   "fragment_id": "114627439",
+   "type": 11,
+   "heading": "Artigo 34.º — Orgânicas dos serviços",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 34.º — Orgânicas dos serviços\n\n1 - Os diplomas orgânicos dos serviços criados ou que foram objeto de reestruturação pelo presente diploma, referidos no artigo 30.º, são aprovados no prazo de 45 dias a contar da entrada em vigor do presente diploma.\n\n2 - Nos termos do artigo 32.º deste diploma, até a aprovação dos respetivos diplomas mantêm-se as estruturas orgânicas, nomeadamente missão, atribuições, competências do diretor regional e respetiva organização interna dos serviços extintos, com as especificidades previstas naquele artigo.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952231": {
+   "fragment_id": "114627440",
+   "type": 11,
+   "heading": "Artigo 35.º — Cargos de direção",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "###### Artigo 35.º — Cargos de direção\n\n1 - A dotação máxima de cargos de direção superior da administração direta e indireta da SRE constam dos anexos I e II ao presente diploma do qual fazem parte integrante.\n\n2 - A dotação máxima de lugares de direção intermédia de 1.º grau dos serviços dependentes do Gabinete do Secretário Regional e da IRE consta do anexo III ao presente diploma, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952232": {
+   "fragment_id": "114627441",
+   "type": 14,
+   "heading": "Anexo I — Cargos de direção superior da administração direta",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "## Anexo I — Cargos de direção superior da administração direta\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  },
+  "127952233": {
+   "fragment_id": "114627442",
+   "type": 14,
+   "heading": "Anexo II — Cargos de direção superior da administração indireta",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+   ],
+   "markdown": "## Anexo II — Cargos de direção superior da administração indireta\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10"
+  },
+  "127952234": {
+   "fragment_id": "114627443",
+   "type": 14,
+   "heading": "Anexo III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional e da IRE",
+   "in_force_from": "2020-01-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+   ],
+   "markdown": "## Anexo III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional e da IRE\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de 2020-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), em vigor a partir de 2020-01-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2018/M - Diário da República n.º 24/2018, Série I de 2018-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2018-114627387), em vigor a partir de 2018-02-03"
+  }
+ }
+}

@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:421600:por
+title: Decreto-Lei n.º 348/73
+short_title: null
+summary: Interpreta o artigo 30.º do Decreto-Lei n.º 409/71, de 27 de Setembro, respeitante à remuneração do trabalho prestado
+  durante o período nocturno
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Corporações e Previdência Social
+proposing_entity: null
+official_number: 348/73
+official_date: null
+publication_date: '1973-07-11'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 161/1973, Série I de 1973-07-11
+  number: '161'
+  series: I
+  supplement: null
+  pages: 1195 - 1196
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/07/16100/11951196.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421600'
+  dre_path: /dr/detalhe/decreto-lei/348-1973-421600
+  internal: pt:dre:421600:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1973-421600
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1973-421600
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1973-07-11T00:00:00Z'
+integrity:
+  source_sha256: e7de87fa8a696bd4e386f2cb6ce44608a2baf9a444e8b76a59469d293874ad46
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-348-421600.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 348/73
+
+de 11 de Julho
+
+O Estatuto do Trabalho Nacional consagrou, no § 1.º do seu artigo 24.º, o princípio da maior retribuição do trabalho nocturno, que não seria aplicado quando o trabalho fosse exercido em regime de piquetes periódicos regulares.
+
+Este princípio foi tornado exequível pelo artigo 15.º do [Decreto-Lei n.º 24402](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24402-1934-457994), de 24 de Agosto de 1934, em que se fixou a percentagem do aumento de retribuição devido pelo trabalho nocturno e se manteve, algumas com leves alterações de forma, a excepção prevista no Estatuto do Trabalho Nacional.
+
+As dificuldades de interpretação das condições em que se verificaria o desvio ao princípio da maior retribuição do trabalho nocturno levaram o legislador a consagrá-lo sob forma genérica no novo regime jurídico da duração do trabalho, definido pelo [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro.
+
+A aplicação do princípio atrás referido supõe, porém, uma integral equivalência entre a prestação do trabalho no período nocturno e no período diurno.
+
+Não era, portanto, intenção do legislador abranger sectores de actividade em que a prestação de trabalho no período nocturno se revela sem correspondência exacta no período diurno, não implicando uma maior penosidade especial para os trabalhadores, ou comportando, até, uma penosidade menor. Não poderia deixar o legislador de ter tido em mente, também, a circunstância de certas actividades serem exploradas em momento exclusiva ou predominantemente nocturno, como é o caso típico dos espectáculos e diversões públicas, circunstância que naturalmente repele a aplicação do princípio da maior retribuição do trabalho nocturno.
+
+O presente diploma pretende, pois, por interpretação do texto legal vigente, esclarecer, em termos mais precisos, o alcance do preceito do artigo 30.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, de harmonia com o parecer do Conselho Superior da Acção Social, que, ouvido sobre a matéria, nesse mesmo sentido se pronunciou.
+
+Assim, situam-se expressamente fora do âmbito de aplicação desse artigo certas formas de prestação de trabalho que, não obstante ocorrerem no período nocturno, não têm, por isso, de ser retribuídas com qualquer aumento, uma vez que a respectiva retribuição tem ou deve ter já necessariamente em conta a circunstância de esse trabalho ser nocturno, circunstância que não acarreta, em princípio, maior penosidade da prestação desse trabalho.
+
+Aproveita-se a oportunidade para tornar inequívoca a possibilidade legal de a retribuição superior prevista no artigo 30.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, ser estatuída em termos específicos através dos instrumentos de regulamentação colectiva de trabalho.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. É interpretado o artigo 30.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, no sentido de não abranger o trabalho prestado durante o período nocturno:
+
+a) Ao serviço de actividades que sejam exercidas exclusiva ou predominantemente durante esse período;
+
+b) Ao serviço de actividades que, pela sua natureza ou por força da lei, devam necessariamente funcionar à disposição do público durante o mesmo período.
+
+2. As actividades previstas nas alíneas a) e b) do número anterior serão definidas por decreto referendado pelo Ministro das Corporações e Previdência Social e pelos Ministros competentes.
+
+###### Art. 2.º A retribuição superior prevista no artigo 30.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, pode ser estatuída em instrumentos de regulamentação colectiva de trabalho:
+
+a) Através de uma redução equivalente dos limites máximos do período normal de trabalho;
+
+b) Através de aumentos fixos das retribuições de base, quando se trate de pessoal incluído em turnos rotativos, e desde que esses aumentos fixos não importem tratamento menos favorável para os trabalhadores.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
+
+**Promulgado em 29 de Junho de 1973.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

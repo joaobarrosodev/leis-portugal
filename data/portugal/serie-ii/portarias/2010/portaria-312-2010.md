@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:2119020:por
+title: Portaria n.º 312/2010
+short_title: null
+summary: Capital social mínimo das caixas de crédito agrícola mútuo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e da Administração Pública - Gabinete do Secretário de Estado do Tesouro e Finanças
+proposing_entity: null
+official_number: 312/2010
+official_date: null
+publication_date: '2010-05-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/2010, Série II de 2010-05-05
+  number: '87'
+  series: II
+  supplement: null
+  pages: 23812 - 23812
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/05/087000000/2381223812.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2119020'
+  dre_path: /dr/detalhe/portaria/312-2010-2119020
+  internal: pt:dre:2119020:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-2010-2119020
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-2010-2119020
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-11-15T00:00:00Z'
+integrity:
+  source_sha256: 5525f0643a4e6e216fddf522ff82e27394df4cb056ab4a3f8b7ea9e64bcd7ce6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-312-2119020.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:504130:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 312/2010
+
+A [Portaria n.º 1197/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1197-2000-660077), de 27 de Julho, veio elevar o capital mínimo das caixas agrícolas pertencentes ao sistema integrado do crédito agrícola mútuo (SICAM), de 100 000 contos para 300 000 contos (os actuais (euro) 1 496 000), devendo esse capital estar subscrito e realizado segundo determinado calendário, que foi concluído em 30 de Junho de 2003.
+
+A recente revisão do Regime Jurídico do Crédito Agrícola Mútuo, através do [Decreto-Lei n.º 142/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2009-494547), de 16 de Junho, veio permitir às caixas agrícolas que cumpram os rácios e limites prudenciais, um alargamento da sua actividade a operações de crédito com não associados ou com finalidades de âmbito não agrícola, sem a prévia autorização do Banco de Portugal. Adicionalmente, o limite dessas operações foi aumentado de 20 % para 35 % do seu activo líquido, podendo esse limite ser elevado, em casos excepcionais, devidamente justificados, até 50 %, mediante autorização do Banco de Portugal.
+
+Foi, igualmente, autorizado uma alargamento da base de associados ao permitir-se a associação de quaisquer pessoas singulares ou colectivas que tenham residência ou actividade na área de acção da caixa agrícola, até ao limite de 35 % do número total de associados, sem prejuízo desse limite poder ser, excepcionalmente, elevado até 50 %, mediante autorização do Banco de Portugal, situação que veio possibilitar um ainda maior alargamento da actividade das caixas de crédito agrícola mútuo.
+
+Por estas razões, considera-se necessário rever o montante mínimo de capital actualmente estabelecido para as caixas de crédito agrícola mútuo.
+
+Foi ouvido o Banco de Portugal.
+
+Assim:
+
+Manda o Governo, pelo Ministro de Estado e das Finanças, ao abrigo do n.º 1 do artigo 95.º e do n.º 1 do artigo 196.º, ambos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo [Decreto-Lei n.º 298/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1992-448953), de 31 de Dezembro, com alterações introduzidas pelos Decretos-Leis n.os [246/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1995-563978), de 14 de Setembro, [232/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1996-186546), de 5 de Dezembro, [222/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1999-391581), de 22 de Junho, [250/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2000-540866), de 13 de Outubro, [285/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335), de 3 de Novembro, [201/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2002-646111), de 26 de Setembro, [319/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-2002-391198), de 28 de Dezembro, [252/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2003-476110), de 17 de Outubro, [145/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), de 31 de Julho, [104/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2007-520193), de 3 de Abril, [357-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), de 31 de Outubro, [1/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2008-386799), de 3 de Janeiro, [126/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2008-456783), de 21 de Julho, e [211-A/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), de 3 de Novembro, pela [Lei n.º 28/2009](https://diariodarepublica.pt/dr/detalhe/lei/28-2009-494791), de 19 de Junho, pelo [Decreto-Lei n.º 162/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2009-492383), de 20 de Julho, pela [Lei n.º 94/2009](https://diariodarepublica.pt/dr/detalhe/lei/94-2009-488505), de 1 de Setembro, e pelo [Decreto-Lei n.º 317/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), de 30 de Outubro, o seguinte:
+
+1 - A alínea b) do n.º 1 da [Portaria n.º 95/94](https://diariodarepublica.pt/dr/detalhe/portaria/95-1994-522244), de 9 de Fevereiro, com as alterações introduzidas pelas Portarias n.os [847/97](https://diariodarepublica.pt/dr/detalhe/portaria/847-1997-642906), de 25 de Outubro, [1010/98](https://diariodarepublica.pt/dr/detalhe/portaria/1010-1998-222057), de 1 de Outubro, [1197/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1197-2000-660077), de 27 de Julho, [886/2002](https://diariodarepublica.pt/dr/detalhe/portaria/886-2002-197499), de 24 de Julho, e 746/2009, de 14 de Julho, passa a ter a seguinte redacção:
+
+«b) Caixas de crédito agrícola mútuo - (euro) 5 000 000 ou (euro) 7 500 000, conforme façam ou não parte do sistema integrado de crédito agrícola mútuo;»
+
+2 - O capital social mínimo das caixas agrícolas actualmente existentes que façam parte do sistema integrado do crédito agrícola mútuo deve estar realizado nos seguintes montantes mínimos:
+
+a) (euro) 2 500 000, até 30 de Junho de 2011;
+
+b) (euro) 3 000 000, até 30 de Junho de 2012;
+
+c) (euro) 3 500 000, até 30 de Junho de 2013;
+
+d) (euro) 4 000 000, até 30 de Junho de 2014;
+
+e) (euro) 5 000 000, até 30 de Junho de 2015.
+
+3 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+23 de Abril de 2010. - O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina.

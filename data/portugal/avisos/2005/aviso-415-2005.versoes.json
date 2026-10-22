@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:481285:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-1134433075",
+ "dre_path": "/dr/detalhe/aviso/415-2005-481285",
+ "source_lastmod": "2026-06-18",
+ "versions": [
+  {
+   "date": "2005-11-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1134466675",
+    "1134433475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1134466675": {
+   "fragment_id": "1134433175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que a República de Chipre depositou junto do Secretário-Geral do Conselho da Europa, em 21 de Fevereiro de 2002, o seu instrumento de ratificação à Convenção para a Protecção das Pessoas relativamente ao Tratamento Automatizado de Dados de Carácter Pessoal, aberta para assinatura, em Estrasburgo, em 28 de Janeiro de 1981, com a seguinte declaração:\n\n«In accordance with article 13, paragraph 2, of the Convention, the Republic of Cyprus declares that the designated authority is the Commissioner for Personal Data Protection whose address (provisional) is:\n\nLaw Office of the Republic of Cyprus, 1403 Nicosia, Cyprus, tel.: 003572889131, fax: 003572667498, e-mail: roc-law@cytanet.co.cy.»\n\nTradução\n\n«Em conformidade com o disposto no n.º 2 do artigo 13.º da Convenção, a República de Chipre declara que a autoridade designada é o Comissário para a Protecção de Dados, cujo endereço (provisório) é:\n\nLaw Office of the Republic of Cyprus, 1403 Nicosia, Cyprus, tel.: 003572889131, fax: 003572667498, e-mail: roc-law@cytanet.co.cy.»\n\nEsta Convenção entrou em vigor para a República de Chipre em 1 de Junho de 2003.\n\nPortugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/93, publicada no Diário da República, 1.ª série-A, n.º 159, de 9 de Julho de 1993, e ratificada pelo Decreto do Presidente da República n.º 21/93, publicado no Diário da República, 1.ª série-A, n.º 159, de 9 de Julho de 1993, tendo depositado o seu instrumento de ratificação em 2 de Setembro de 1993, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 259, de 5 de Novembro de 1993."
+  },
+  "1134433475": {
+   "fragment_id": "1134433375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Direcção-Geral dos Assuntos Multilaterais, 31 de Outubro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte."
+  }
+ }
+}

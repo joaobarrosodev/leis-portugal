@@ -1,0 +1,88 @@
+---
+schema_version: '1.0'
+id: pt:dre:366596:por
+title: Despacho Normativo n.º 353/79
+short_title: null
+summary: Autoriza a concessão pelo Instituto do Investimento Estrangeiro para o Banco do Brasil, S. A., Agência de Lisboa,
+  proceder a um aumento de capital no montante de 86000000$00
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças - Gabinete do Ministro
+proposing_entity: null
+official_number: 353/79
+official_date: null
+publication_date: '1979-12-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 282/1979, Série I de 1979-12-07
+  number: '282'
+  series: I
+  supplement: null
+  pages: 3164 - 3165
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28200/31643165.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '366596'
+  dre_path: /dr/detalhe/despacho-normativo/353-1979-366596
+  internal: pt:dre:366596:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/353-1979-366596
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/353-1979-366596
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-12-07T00:00:00Z'
+integrity:
+  source_sha256: a9eaa8123eaf9b9da7f033b6ae6968b3859b3afafa3405631672e4ab88041785
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-353-366596.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 353/79
+
+Ao abrigo do § 2.º do artigo 6.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e do n.º 1 do artigo 6.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, homologo a autorização concedida pelo Instituto do Investimento Estrangeiro para o Banco do Brasil, S. A., Agência de Lisboa, proceder a um aumento de capital no montante de 86000000$00, integralmente subscrito pelo referido Banco, a realizar 56759168$70 por importações de divisas e 29240831$30 por incorporação de reservas e resultados acumulados transferíveis.
+
+Ministério das Finanças, 12 de Novembro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

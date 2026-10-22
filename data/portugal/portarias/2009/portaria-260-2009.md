@@ -1,0 +1,365 @@
+---
+schema_version: '1.0'
+id: pt:dre:604827:por
+title: Portaria n.º 260/2009
+short_title: null
+summary: Aprova o Regulamento de Aplicação da Acção n.º 1.4.1, designada «Apoio aos Regimes de Qualidade», da medida n.º 1.4,
+  «Valorização da produção de qualidade», do subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento
+  Rural do Continente, designado por PRODER
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 260/2009
+official_date: null
+publication_date: '2009-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 49/2009, Série I de 2009-03-11
+  number: '49'
+  series: I
+  supplement: null
+  pages: 1636 - 1639
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/03/04900/0163601639.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2010-08-28'
+version_history:
+  file: portaria-260-2009.versoes.json
+  count: 2
+  source_lastmod: '2026-02-09'
+  versions:
+  - date: '2009-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-28'
+    amending: pt:dre:343948:por
+    amending_title: Portaria n.º 814/2010
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Anexo I
+    - Altera Anexo II
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/260/2009/p/cons/20100827/pt/html
+  oj: null
+  dre: '604827'
+  dre_path: /dr/detalhe/portaria/260-2009-604827
+  internal: pt:dre:604827:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-2009-604827
+  metadata_url: https://data.dre.pt/eli/port/260/2009/p/cons/20100827/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-970235149
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-970235149
+  retrieved_at: '2026-10-22T13:41:05Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-02-09T00:00:00Z'
+integrity:
+  source_sha256: c3121efb1deae5c97950aedb0e5bb12e790a4de20eded879e2735b62cef5da47
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:41:05Z'
+  notes: 2 versão(ões); histórico completo em portaria-260-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proder
+- Ajuda Comunitária
+- Financiamento
+- Desenvolvimento Rural
+- Controlo de Qualidade
+- Feader
+- Projeto de Investimento
+- Indústria Agro-alimentar
+- IFAP
+- Certificado de Qualidade
+- Exploração Agrícola
+- Exploração Florestal
+- Regulamento
+- Regulamento CE
+- Agricultura
+- Subsídio
+relationships:
+- type: amended_by
+  target: pt:dre:343948:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Anexo I;
+    Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: cites
+  target: celex:32004R0796
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/796/oj
+- type: cites
+  target: celex:32005R1698
+  label: null
+  source: http://data.europa.eu/eli/reg/2005/1698/oj
+- type: cites
+  target: celex:32006R0509
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/509/oj
+- type: cites
+  target: celex:32006R0510
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/510/oj
+- type: cites
+  target: celex:32006R1974
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1974/oj
+- type: cites
+  target: celex:32006R1975
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: cites
+  target: celex:32007R0834
+  label: null
+  source: http://data.europa.eu/eli/reg/2007/834/oj
+article_structure:
+  article_count: 15
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:41:05Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 260/2009
+
+O Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), estabelece como objectivos o aumento da competitividade da agricultura e da silvicultura, a melhoria do ambiente e da paisagem rural, bem como a promoção da qualidade de vida nas zonas rurais e da diversificação das actividades económicas.
+
+Inserida no objectivo de aumento da competitividade dos sectores agrícola e florestal atrás referido, a medida n.º 1.4, «Valorização da produção de qualidade», do Programa de Desenvolvimento Rural do Continente, designado por PRODER, visa contribuir para a promoção dos regimes de qualidade certificada enquanto instrumentos de potenciação do valor dos produtos agrícolas e, desta forma, contribuir para o desenvolvimento dos respectivos territórios e fileiras.
+
+A referida medida é constituída por duas acções distintas, uma denominada «Apoio aos regimes de qualidade», acção n.º 1.4.1, relativa à concessão de uma ajuda compensatória, paga directamente aos produtores agrícolas, quando estes sujeitem a sua produção a determinados regimes de qualidade, e outra, denominada «Informação e promoção de produtos de qualidade», acção 1.4.2, destinada a apoiar o desenvolvimento de estratégias de promoção e de políticas comercias que permitem induzir o consumo dos produtos alimentares abrangidos por regimes de qualidade.
+
+Na acção n.º 1.4.1 optou-se por um procedimento simplificado, que consiste no pagamento de ajudas anuais, durante um período máximo de cinco anos, com o objectivo de compensar os custos acrescidos associados à adesão voluntária e participação dos produtores em regimes específicos de produção de qualidade, regulamentados quer ao nível comunitário quer nacional e consequentemente sujeitos a um sistema de controlo e certificação da produção.
+
+A acção n.º 1.4.2, «Informação e promoção de produtos de qualidade», estará sujeita a procedimento distinto, forma, nível e tipologia de apoio diferentes, pelo que a sua regulamentação não é objecto da presente portaria.
+
+Neste contexto, importa, desde já, proceder à regulamentação da concessão de apoios no âmbito da acção n.º 1.4.1, «Apoio aos regimes de qualidade», contribuindo desta forma para promover a adesão dos produtores ao regimes de qualidade, contribuir para a sustentabilidade e competitividade dos sistemas de qualidade certificada e assegurar, junto do consumidor, a disponibilização de produtos diferenciados, sujeitos a processos de controlo e certificação de qualidade.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:
+
+###### Artigo 1.º
+
+É aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento de Aplicação da Acção n.º 1.4.1, designada «Apoio aos Regimes de Qualidade», da medida n.º 1.4 «Valorização da produção de qualidade», do subprograma n.º 1 «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, designado por PRODER.
+
+###### Artigo 2.º
+
+O Regulamento referido no artigo 1.º contém os seguintes anexos, que dele fazem parte integrante:
+
+a) Anexo i, relativo aos montantes unitários de apoio por categoria de produto;
+
+b) Anexo ii, relativo à tabela de conversão em cabeças normais.
+
+###### Artigo 3.º
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 3 de Março de 2009.
+
+## Anexo — REGULAMENTO DE APLICAÇÃO DA ACÇÃO N.º 1.4.1, «APOIO AOS REGIMES DE QUALIDADE»
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) As alterações ao presente Regulamento, são aplicáveis a partir da campanha de 2010, com excepção da revogação do n.º 2 do artigo 5.º, que produz efeitos a partir da campanha de 2009.
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento estabelece o regime de aplicação da acção n.º 1.4.1, designada «Apoio aos regimes de qualidade», no âmbito da medida n.º 1.4, «Valorização da produção de qualidade», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, designado por PRODER.
+
+###### Artigo 2.º — Objectivos
+
+O apoio previsto no presente Regulamento prossegue os seguintes objectivos:
+
+a) Promover a adesão dos produtores de produtos agro-alimentares a sistemas de qualidade certificada;
+
+b) Contribuir para a criação das condições necessárias à sustentabilidade e competitividade dos sistemas de qualidade certificada;
+
+c) Assegurar ao consumidor a disponibilização de produtos alimentares ou processos de produção de qualidade certificada.
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação do presente Regulamento, e para além das definições constantes do Decreto-Lei n.º 37-A/2008 de 5 de Março, entende-se por:
+
+a) «Certificação do produto» o procedimento através do qual é dada uma garantia escrita de que um produto está em conformidade com requisitos especificados, verificando de forma sistemática o cumprimento de determinadas características ou especificações relativas a esse produto, através da demonstração da conformidade face a um documento de referência preciso, realizado por um organismo reconhecido para o efeito;
+
+b) «Controlo da produção» a operação de verificação do cumprimento de regras ou especificações na fileira produtiva, face a um referencial previamente definido, realizado por um organismo reconhecido para o efeito, sendo obrigatório, independentemente de existir ou não certificação do produto objecto da produção;
+
+c) «Exploração agrícola» o conjunto de unidades de produção submetidas a uma gestão única;
+
+d) «Organismo de controlo (OC)» a entidade designada por organismo privado de controlo e certificação no n.º 1 do anexo iv do Despacho Normativo n.º 47/97, de 11 de Agosto, e reconhecida pelo Gabinete de Planeamento e Políticas (GPP) para efectuar acções de controlo ou certificação de produtos agro-alimentares no âmbito das áreas de produção diferenciadas;
+
+e) «Sistema de controlo e certificação» o processo instituído e aprovado que visa o controlo da produção e a certificação de um produto;
+
+f) «Unidade de produção» o conjunto de parcelas agrícolas ou agro-florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização.
+
+###### Artigo 4.º — Beneficiários
+
+Podem beneficiar do apoio previsto no presente Regulamento as pessoas singulares ou colectivas, de natureza pública ou privada, que exerçam actividade agrícola.
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) As alterações ao presente artigo, são aplicáveis a partir da campanha de 2010.
+
+> Alterado pelo/a Artigo 22.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+###### Artigo 5.º — Critérios de elegibilidade
+
+1 - Podem beneficiar do apoio previsto no presente Regulamento as pessoas referidas no artigo anterior que sujeitem a sua produção agrícola ao sistema de controlo e certificação de qualquer dos seguintes regimes:
+
+a) Regulamento (CE) n.º 834/2007, do Conselho, de 23 de Junho, relativo ao modo de produção biológico de produtos agrícolas e à sua indicação nos produtos agrícolas e nos géneros alimentícios;
+
+b) Regulamento (CE) n.º 510/2006, do Conselho, de 20 de Março, relativo à protecção das indicações geográficas e denominações de origem dos produtos, para os produtos aos quais tenha sido atribuído registo comunitário de protecção;
+
+c) Regulamento (CE) n.º 509/2006, do Conselho, de 20 de Março, relativo às especialidades tradicionais garantidas dos produtos agrícolas e dos géneros alimentícios, para os produtos aos quais tenha sido atribuído registo comunitário de protecção;
+
+d) Regime nacional previsto no Decreto-Lei n.º 180/95, de 26 de Julho, relativo aos métodos de protecção da produção agrícola, bem como na Portaria n.º 65/97, de 28 de Janeiro, e na Portaria n.º 131/2005, de 2 de Fevereiro, apenas no que respeita à produção integrada;
+
+e) Outros regimes de qualidade reconhecidos a nível nacional, que cumpram os requisitos previstos no n.º 2 do artigo 22.º do Regulamento (CE) n.º 1974/2006, da Comissão, de 15 de Dezembro.
+
+2 - (Revogado.)
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) A alteração ao presente artigo, produz efeitos a partir da campanha de 2009.
+
+> Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+###### Artigo 6.º — Obrigações dos beneficiários
+
+Os beneficiários do apoio previsto no presente Regulamento são obrigados a:
+
+a) Manter os critérios de elegibilidade;
+
+b) Produzir de acordo com as regras específicas do regime ou modo de produção ao abrigo do qual é solicitado o apoio;
+
+c) Submeter ao sistema de controlo específico a totalidade das áreas ou efectivos pecuários para os quais é solicitado o apoio.
+
+###### Artigo 7.º — Forma
+
+1 - O apoio assume a forma de pagamento, a título compensatório, sendo atribuído mediante apresentação de pedido anual, por um período máximo de cinco anos.
+
+2 - O período de cinco anos é contabilizado de modo consecutivo, a contar da apresentação do primeiro pedido de apoio.
+
+###### Artigo 8.º — Montantes e limites do apoio
+
+1 - O apoio está sujeito ao limite anual de (euro) 3000 por exploração.
+
+2 - Os montantes unitários, por grupo de produtos, são os estabelecidos no anexo i do presente Regulamento.
+
+3 - Para efeitos de cálculo do montante global do apoio a pagar ao beneficiário, apenas são consideradas as áreas e os efectivos pecuários que se encontram sujeitos ao respectivo sistema de controlo e certificação de produtos.
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) As alterações ao presente artigo, são aplicáveis a partir da campanha de 2010.
+
+> Alterado pelo/a Artigo 22.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+### Capítulo II — Procedimento
+
+###### Artigo 9.º — Apresentação
+
+1 - Os pedidos de apoio são apresentados junto do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), ou das entidades por este designadas.
+
+2 - As normas relativas à formalização, tramitação, procedimentos e calendarização dos pedidos são adoptadas através de despacho normativo, tendo em conta o Sistema Integrado de Gestão e Controlo (SIGC), previsto no Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril.
+
+###### Artigo 10.º — Análise, hierarquização e decisão
+
+1 - Os pedidos de apoio são analisados e hierarquizados pelo IFAP, I. P., pela seguinte ordem de prioridades:
+
+a) Modo de produção biológico (MPB);
+
+b) Denominação de origem protegida (DOP):
+
+i) Três ou mais produtos certificados;
+
+ii) Um a dois produtos certificados;
+
+c) Indicação geográfica protegida (IGP):
+
+i) Três ou mais produtos certificados;
+
+ii) Um a dois produtos certificados;
+
+d) Especialidade tradicional garantida (ETG);
+
+e) Produção integrada (PRODI).
+
+2 - Para efeitos de aplicação do número anterior e dentro de cada uma das prioridades, os pedidos de apoio são ainda hierarquizados por ordem decrescente de área (hectare) e de animais (CN) candidatos, sendo utilizada a tabela de conversão das espécies animais em cabeça normal (CN), constante do anexo ii deste Regulamento.
+
+3 - Os pedidos de apoio são decididos pelo gestor do PRODER, em função da verificação dos critérios de elegibilidade, hierarquização e da dotação orçamental do presente regime de apoio.
+
+4 - A decisão é comunicada pelo IFAP, I. P., aos beneficiários, até 15 de Setembro do ano do pedido de apoio.
+
+5 - Nos termos do n.º 3 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, a concessão do apoio é formalizada através da assinatura de um termo de aceitação pelo beneficiário.
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) As alterações ao presente artigo, são aplicáveis a partir da campanha de 2010.
+
+> Alterado pelo/a Artigo 22.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+###### Artigo 11.º — Pagamento
+
+1 - Compete ao IFAP, I. P., proceder ao pagamento anual dos apoios, devendo, para o efeito, o beneficiário apresentar o respectivo pedido de pagamento.
+
+2 - O pagamento é efectuado após conclusão dos controlos administrativos e in loco.
+
+3 - Para efeitos da verificação da alínea c) do artigo 6.º, os OC remetem a informação necessária ao GPP, até 30 de Janeiro do ano seguinte àquele a que se reporta o pedido de pagamento e o GPP remete, após validação, esta informação ao IFAP, I. P., até ao dia 15 de Março seguinte.
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) As alterações ao presente artigo, são aplicáveis a partir da campanha de 2010.
+
+> Alterado pelo/a Artigo 22.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+###### Artigo 12.º — Redução ou exclusão do apoio
+
+1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário, as reduções e as exclusões previstas no Regulamento (CE) n.º 1975/2006, da Comissão, de 7 de Dezembro.
+
+2 - O incumprimento de qualquer das obrigações previstas no artigo 6.º do presente Regulamento determina a perda de direito ao apoio referente ao ano em causa.
+
+3 - A reincidência do incumprimento das obrigações previstas no artigo 6.º do presente Regulamento determina a exclusão do apoio relativamente aos anos seguintes, sem prejuízo de outras consequências legalmente aplicáveis.
+
+## Anexo I — Montantes unitários por categoria de produto
+
+(a que se refere o n.º 2 do artigo 8.º)
+
+(ver documento original)
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) As alterações ao presente anexo, são aplicáveis a partir da campanha de 2010.
+
+> Alterado pelo/a Artigo 22.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+## Anexo II — Tabela de conversão em cabeças normais (CN)
+
+(a que se refere o n.º 2 do artigo 10.º)
+
+(ver documento original)
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) As alterações ao presente anexo, são aplicáveis a partir da campanha de 2010.
+
+> Alterado pelo/a Artigo 22.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28

@@ -1,0 +1,350 @@
+---
+schema_version: '1.0'
+id: pt:dre:475948:por
+title: Decreto-Lei n.º 111/91
+short_title: null
+summary: Aprova o regime de certificação técnica das empresas nacionais de transporte aéreo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 111/91
+official_date: null
+publication_date: '1991-03-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 64/1991, Série I-A de 1991-03-18
+  number: '64'
+  series: I
+  supplement: null
+  pages: 1406 - 1408
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/03/064a00/14061408.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2004-08-24'
+version_history:
+  file: decreto-lei-111-91.versoes.json
+  count: 3
+  source_lastmod: '2024-08-29'
+  versions:
+  - date: '1991-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-04-30'
+    amending: pt:dre:185160:por
+    amending_title: Declaração de Rectificação n.º 64/91
+    changes:
+    - Retifica Artigo 12.º
+  - date: '2004-08-24'
+    amending: pt:dre:480517:por
+    amending_title: Decreto-Lei n.º 208/2004
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/111/1991/p/cons/20040819/pt/html
+  oj: null
+  dre: '475948'
+  dre_path: /dr/detalhe/decreto-lei/111-1991-475948
+  internal: pt:dre:475948:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1991-475948
+  metadata_url: https://data.dre.pt/eli/dec-lei/111/1991/p/cons/20040819/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-886163791
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-886163791
+  retrieved_at: '2026-10-22T13:13:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-29T00:00:00Z'
+integrity:
+  source_sha256: 5134f211d08a97bddd385800e8ca5059944ec992da8b1246eda9b8eb5b6d4270
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:13:47Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-111-91.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Transporte Aéreo
+- Controlo Técnico
+- Direcção Geral da Aviação Civil
+- Licenciamento
+- Operador de Transporte Aéreo
+- Aviação Civil
+relationships:
+- type: amended_by
+  target: pt:dre:185160:por
+  label: Retifica Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1991-185160
+  date: '1991-04-30'
+- type: amended_by
+  target: pt:dre:480517:por
+  label: Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º; Revoga Artigo 11.º; Revoga Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517
+  date: '2004-08-19'
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:13:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 111/91
+
+Decreto-Lei n.º 111/91
+
+de 18 de Março
+
+A progressiva concorrência no sector do transporte aéreo exige a definição e verificação rigorosas das condições operacionais, incluindo estruturas orgânicas e pessoal qualificado, em que as empresas nacionais de transporte aéreo devem explorar os serviços para que sejam licenciadas.
+
+A satisfação do conjunto de requisitos técnicos que as empresas têm de preencher, de acordo com as normas e práticas internacionais fixadas pela Organização da Aviação Civil Internacional, determinam a emissão do competente certificado de operador pela autoridade aeronáutica civil.
+
+Com o presente diploma pretende-se uniformizar o critério de certificação das empresas de transporte aéreo, independentemente do seu âmbito de actividade, seja de transporte regular, internacional ou interno, bem como da respectiva natureza jurídica, pública ou privada.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+1 - Todas as entidades nacionais que pretendam explorar serviços de transporte aéreo, adiante designadas por operadores, têm de dispor de adequadas estruturas técnicas próprias, de serviços de operações de voo e de engenharia e manutenção de aeronaves e equipamento associado, previamente certificadas pela Direcção-Geral da Aviação Civil (DGAC).
+
+2 - O disposto no presente diploma aplica-se também a todas as empresas de transporte aéreo existentes, independentemente da sua natureza pública ou privada, desde que tenham a sua sede em território nacional.
+
+3 - Excepcionalmente, e mediante requerimento devidamente fundamentado dirigido ao director-geral da Aviação Civil, poderá ser autorizada a contratação, com oficinas de manutenção aprovadas pela DGAC, de certos trabalhos de manutenção de aeronaves que o requerente não possa efectuar com os seus próprios meios.
+
+4 - A certificação referida nos números anteriores é atestada pela emissão de um certificado de operador, nos termos do modelo a aprovar pela portaria prevista no n.º 2 do artigo 5.º
+
+5 - Do certificado de operador constarão:
+
+a) O nome e a sede do operador;
+
+b) Os domínios de aplicação;
+
+c) A composição da frota, com indicação explícita das marcas e modelos das aeronaves;
+
+d) O prazo de validade;
+
+e) As especificações técnicas, condições e limitações de operação impostas, as quais constarão de anexos ao certificado, do qual fazem parte integrante.
+
+###### Artigo 2.º
+
+A emissão do certificado de operador está condicionada:
+
+a) À apresentação pelo operador, e subsequente aprovação pela DGAC, do «Manual de operações» e seus complementos, designadamente os «Manuais de instrução e salvamento», e do «Manual do serviço de manutenção»;
+
+b) À comprovação, perante a DGAC, da capacidade técnica do operador para o cumprimento correcto das normas e procedimentos constantes dos manuais referidos na alínea anterior.
+
+###### Artigo 3.º
+
+O certificado de operador não confere quaisquer direitos de tráfego e apenas atesta a capacidade técnica do operador para o exercício dos direitos conferidos em adequado título legal.
+
+###### Artigo 4.º
+
+1 - Pelo certificado de operador é devido o pagamento de uma taxa anual.
+
+2 - As substituições, revalidações e alterações do certificado de operador dão lugar ao pagamento de taxas.
+
+3 - As normas de aplicação e o montante das taxas referidas nos números anteriores são fixados por portaria do Ministro das Obras Públicas, Transportes e Comunicações e as taxas cobradas pela DGAC.
+
+4 - Até à publicação da portaria prevista no número anterior mantêm-se em vigor as portarias publicadas ao abrigo do artigo 22.º do Decreto-Lei n.º 19/82, de 28 de Janeiro, e dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 234/89, de 25 de Julho.
+
+###### Artigo 5.º
+
+1 - Os «Manuais de operações e do serviço de manutenção» são elaborados de acordo com o anexo n.º 6 à Convenção sobre Aviação Civil Internacional e demais regulamentos técnicos aplicáveis, onde se descrevem detalhadamente a estrutura orgânica, as instalações, os serviços, os meios materiais e os recursos humanos qualificados de que o candidato a um certificado de operador deve dispor nos seus serviços de operações e de manutenção, bem como as normas e os procedimentos a seguir.
+
+2 - A organização e o modo de funcionamento dos serviços, bem como a organização e o conteúdo dos manuais referidos no número anterior, devem obedecer ao que vier a ser estipulado em regulamento a aprovar por portaria do Ministro das Obras Públicas, Transportes e Comunicações.
+
+3 - As empresas referidas no n.º 2 do artigo 1.º devem adaptar as suas estruturas e o seus «Manuais de operações e de manutenção» no prazo máximo de um ano contado a partir da data da publicação da portaria referida no número anterior, sob pena de lhes ser aplicado o disposto na alínea b) do n.º 1 do artigo 10.º do presente diploma.
+
+###### Artigo 6.º
+
+Os «Manuais de operações e do serviço de manutenção», uma vez aprovados pela DGAC, não podem ser alterados, nem os titulares dos postos de responsabilidade técnica das estruturas orgânicas neles descritas podem ser substituídos, sem autorização prévia da DGAC.
+
+###### Artigo 7.º
+
+1 - Os titulares de um certificado de operador são sempre responsáveis perante a DGAC pelo integral cumprimento das disposições contidas nos referidos manuais.
+
+2 - Os titulares de um certificado de operador só podem operar aeronaves de marca e modelo indicados naquele certificado.
+
+3 - O emprego eventual de aeronaves em regime de contrato de aluguer ou fretamento depende de prévia autorização da DGAC, à qual compete fixar as condições e o prazo dessa utilização, por forma a garantir os padrões de controlo e segurança das aeronaves.
+
+###### Artigo 8.º
+
+O titular de um certificado de operador deve requerer à DGAC a sua substituição sempre que haja alteração de qualquer dos elementos constantes do respectivo certificado, incluindo os seus anexos.
+
+###### Artigo 9.º
+
+Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações graves:
+
+a) A violação do disposto no artigo 6.º;
+
+b) A violação do disposto no artigo 8.º
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 10.º
+
+Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações muito graves:
+
+a) A realização de trabalhos de manutenção em oficinas de manutenção não aprovadas ou sem a autorização de contratação com oficinas de manutenção aprovadas pelo INAC;
+
+b) A utilização de aeronaves em regime de contrato de aluguer ou fretamento sem a prévia autorização do INAC ou em violação do prazo e condições dessa autorização;
+
+c) O incumprimento das disposições contidas nos manuais de operações e do serviço de manutenção;
+
+d) O não cumprimento de especificações técnicas, condições e limitações de operação impostas no certificado de operador de trabalho aéreo, bem como a operação de qualquer aeronave de marca e modelo não constante daquele certificado;
+
+e) O exercício de operações de trabalho aéreo por entidade nacional não titular de um certificado de operador de trabalho aéreo válido.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 11.º
+
+A tentativa e a negligência são puníveis
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 12.º
+
+1 - Nas contra-ordenações previstas nos artigos 9.º e 10.º pode ser aplicada, em simultâneo com a coima, a sanção acessória de interdição do exercício da actividade de exploração de serviços de trabalho aéreo pelo período máximo de dois anos.
+
+2 - No caso da contra-ordenação prevista na alínea e) do artigo 10.º pode ainda ser aplicada, em simultâneo com a coima, a sanção acessória de apreensão das aeronaves e do restante equipamento aeronáutico utilizados se o infractor não cessar as operações no prazo máximo de quarenta e oito horas após a respectiva notificação.
+
+3 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do Decreto-Lei n.º 10/2004, de 9 de Janeiro.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+> Retificado pelo/a [Declaração de Rectificação n.º 64/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1991-185160), em vigor a partir de 1991-04-30
+
+###### Artigo 13.º
+
+1 - O processamento das contra-ordenações previstas neste diploma é da competência da DGAC.
+
+2 - A aplicação das sanções previstas neste diploma é da competência do director-geral da Aviação Civil.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 14.º
+
+Os artigos 5.º, 10.º, 15.º e 22.º do Decreto-Lei n.º 19/82, de 28 de Janeiro, passam a ter a seguinte redacção:
+
+Art. 5.º - 1 - ...
+
+a) ...
+
+b) ...
+
+2 - Os requerimentos deverão ser acompanhados dos projectos do «Manual de operações» e seus complementos e do «Manual do serviço de manutenção».
+
+3 - ...
+
+Art. 10.º O titular de uma licença concedida ao abrigo deste decreto-lei deverá dispor no território nacional de adequadas estruturas técnicas próprias, de serviços de operações de voo e de engenharia e manutenção de aeronaves e equipamento associado, previamente certificadas pela Direcção-Geral da Aviação Civil, nos termos da regulamentação em vigor.
+
+Art.º 15.º
+
+O exercício dos direitos conferidos pela licença estará permanente condicionado à posse de um certificado de operador válido.
+
+Art. 22.º - 1 - Pela concessão, alteração, suspensão e prorrogação das licenças previstas neste diploma é devido o pagamento das taxas anuais que forem fixadas em portaria do Ministro das Obras Públicas, Transportes e Comunicações.
+
+2 - ...
+
+###### Artigo 15.º
+
+Os artigos 4.º, 5.º, 8.º, 13.º, 16.º e 22.º do Decreto-Lei n.º 234/89, de 25 de Julho, passam a ter a seguinte redacção:
+
+Art. 4.º ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) Dispor no território continental nacional de adequadas estruturas técnicas próprias, de serviços de operações de voo e de engenharia e manutenção de aeronaves e equipamento associado, previamente certificadas pela Direcção-Geral da Aviação Civil, nos termos da regulamentação em vigor.
+
+Art. 5.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+a) ...
+
+b) Os projectos do «Manual de operações» e seus complementos e do «Manual do serviço de manutenção».
+
+Art. 8.º O exercício dos direitos conferidos pela licença estará permanentemente condicionado à posse de um certificado de operador válido.
+
+Art. 13.º - 1 - ...
+
+2 - Pela concessão, alteração e prorrogação da licença prevista neste diploma é devido o pagamento de taxas, de montente a fixar, nos termos do número anterior.
+
+Art. 16.º - 1 - ...
+
+2 - É da responsabilidade do titular da licença a permanente e atempada actualização de toda a documentação e informação técnica que serviu de base à emissão da licença.
+
+Art. 22.º - ...
+
+a) A realização de actividades de transporte aéreo com violação das condições impostas no título da licença;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 4 de Março de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 6 de Março de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

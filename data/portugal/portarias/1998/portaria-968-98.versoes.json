@@ -1,0 +1,157 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:229875:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1998-169842203",
+ "dre_path": "/dr/detalhe/portaria/968-1998-229875",
+ "source_lastmod": "2025-06-20",
+ "versions": [
+  {
+   "date": "1998-11-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922110719"
+   ]
+  },
+  {
+   "date": "2021-08-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:169832473:por",
+     "title": "Portaria n.º 172/2021",
+     "published": "2021-08-19",
+     "dre_path": "/dr/detalhe/portaria/172-2021-169832473"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "922110719",
+    "922110720",
+    "922110721",
+    "922110722",
+    "922110723",
+    "922110724",
+    "922110725",
+    "922110726",
+    "922110727",
+    "922110728",
+    "922110729"
+   ]
+  }
+ ],
+ "fragments": {
+  "922110719": {
+   "fragment_id": "169842204",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-08-20",
+   "changed_by": [],
+   "markdown": "Portaria n.º 968/98\n\nde 16 de Novembro\n\nTornando-se necessário, para efeitos da isenção do imposto prevista na alínea j) do artigo 4.º do Decreto-Lei n.º 117/92, de 22 de Junho, que o álcool para fins terapêuticos e sanitários, destinado à venda ao público em farmácias, drogarias e outros estabelecimentos comerciais para o efeito devidamente licenciados, seja objecto de desnaturação, procede-se à aprovação do respectivo desnaturante e dos procedimentos de controlo da sua utilização.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e da Saúde, ao abrigo do n.º 3 do artigo 11.º do Decreto-Lei n.º 117/92, de 22 de Junho, o seguinte:"
+  },
+  "922110720": {
+   "fragment_id": "922108196",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2021-08-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+   ],
+   "markdown": "###### 1.º\n\nA desnaturação a que se refere o n.º 3 do artigo 11.º do Decreto-Lei n.º 117/92, de 22 de Junho, será efectuada, por cada hectolitro de álcool, com 250 g (no máximo 300 g) de brometo de alquiltrimetilamónio (cetrimida).\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+  },
+  "922110721": {
+   "fragment_id": "922108197",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2021-08-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+   ],
+   "markdown": "###### 2.º\n\nA desnaturação a que se refere o número anterior só pode ser realizada em entreposto fiscal, autorizado para o efeito pelo director da alfândega respectiva.\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+  },
+  "922110722": {
+   "fragment_id": "922108198",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "2021-08-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+   ],
+   "markdown": "###### 3.º\n\nAs operações de desnaturação devem ser precedidas da apresentação de uma declaração junto da estância aduaneira competente, até aos dois dias úteis que as antecedem, indicando a espécie e o volume de álcool a desnaturar e a quantidade de desnaturante a utilizar.\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+  },
+  "922110723": {
+   "fragment_id": "922108199",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "2021-08-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+   ],
+   "markdown": "###### 4.º\n\nNas operações de desnaturação efectuadas no território do continente, o volume de álcool sujeito a cada operação não poderá ser inferior a 20 hl, salvo em casos devidamente fundamentados, autorizados pelo director da alfândega respectiva.\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+  },
+  "922110724": {
+   "fragment_id": "922108200",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": "2021-08-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20",
+    "Retificado pelo/a [Declaração de Rectificação n.º 22-S/98 - Diário da República n.º 301/1998, 8º Suplemento, Série I-B de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-s-1998-265570), produz efeitos a partir de 1998-11-21"
+   ],
+   "markdown": "###### 5.º\n\nAs embalagens que contenham álcool parcialmente desnaturado devem ser incolores e do respectivo rótulo deverão constar as indicações 'sobre a percentagem do álcool, que não poderá ser inferior a 70%, nem superior a 96% v/v', a percentagem e indicação do desnaturante, a expressão «uso externo» e a identificação do entreposto fiscal onde foram efectuadas as operações de desnaturação e embalagem.\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20\n\n> Retificado pelo/a [Declaração de Rectificação n.º 22-S/98 - Diário da República n.º 301/1998, 8º Suplemento, Série I-B de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-s-1998-265570), produz efeitos a partir de 1998-11-21"
+  },
+  "922110725": {
+   "fragment_id": "922108201",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": "2021-08-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+   ],
+   "markdown": "###### 6.º\n\nA estância aduaneira competente deverá acompanhar as operações de desnaturação e procederá à recolha de amostras sempre que o entenda conveniente.\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+  },
+  "922110726": {
+   "fragment_id": "922108202",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": "2021-08-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+   ],
+   "markdown": "###### 7.º\n\nO director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo poderá autorizar a desnaturação do álcool nas instalações onde vai ser utilizado, a pedido da entidade a que o álcool se destina.\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+  },
+  "922110727": {
+   "fragment_id": "922108203",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": "2021-08-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+   ],
+   "markdown": "###### 8.º\n\nÉ aprovado o Regulamento dos Procedimentos de Controlo da Utilização do Álcool Parcialmente Desnaturado, Destinado a Fins Terapêuticos e Sanitários, constante do anexo à presente portaria.\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+  },
+  "922110728": {
+   "fragment_id": "169842205",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-08-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+   ],
+   "markdown": "Ministérios das Finanças e da Saúde.\n\nAssinada em 2 de Novembro de 1998.\n\nO Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+  },
+  "922110729": {
+   "fragment_id": "922108204",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DOS PROCEDIMENTOS DE CONTROLO DA UTILIZAÇÃO DO ÁLCOOL PARCIALMENTE DESNATURADO, DESTINADO A FINS TERAPÊUTICOS E SANITÁRIOS.",
+   "in_force_from": "2021-08-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+   ],
+   "markdown": "## Anexo — REGULAMENTO DOS PROCEDIMENTOS DE CONTROLO DA UTILIZAÇÃO DO ÁLCOOL PARCIALMENTE DESNATURADO, DESTINADO A FINS TERAPÊUTICOS E SANITÁRIOS.\n\n1 - O controlo da utilização do álcool parcialmente desnaturado, destinado a fins terapêuticos e sanitários, que beneficia de isenção da taxa do imposto sobre o álcool etílico compete às autoridades aduaneiras e às que, por lei, detenham competência na sua circulação, comercialização ou utilização.\n\n2 - O equipamento necessário (aparelho de extracção, seringa, tubo de ensaio com tampão pH 8 e fio de lã iodomercúrico-reagente específico para o desnaturante) para a realização das operações de controlo do álcool referido no número anterior será fornecido às autoridades fiscalizadoras pelo laboratório da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC).\n\n3 - Sempre que se constate, através da análise feita no momento, que o álcool tenha sido declarado para consumo com isenção de imposto e não se encontra desnaturado nos termos da presente portaria, serão extraídas três amostras de produto, em quantidades individuais que não ultrapassarão 0,25 l, devendo os recipientes onde forem depositadas ser devidamente selados, numerados, etiquetados e rubricados pelos intervenientes.\n\n4 - As amostras terão os seguintes destinos:\n\nA amostra n.º 1 será junta ao auto de notícia da infracção;\n\nA amostra n.º 2 será conservada pelas autoridades intervenientes;\n\nA amostra n.º 3 será entregue ao interessado, tendo em vista o eventual recurso dos resultados da análise, nos termos do disposto no Decreto-Lei n.º 39279, de 17 de Julho de 1953.\n\n5 - Considera-se que o álcool se encontra parcialmente desnaturado quando se desenvolve uma cor nitidamente azul ao fazê-lo reagir com o fio de lã iodomercúrico, em meio de pH 8.\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 172/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/172-2021-169832473), em vigor a partir de 2021-08-20"
+  }
+ }
+}

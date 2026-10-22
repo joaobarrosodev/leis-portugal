@@ -1,0 +1,703 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629439:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34558475",
+ "dre_path": "/dr/detalhe/decreto-lei/372-2007-629439",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52086675",
+    "52086775",
+    "52086875",
+    "52086975",
+    "52087075",
+    "52087175",
+    "52087275",
+    "52087375",
+    "52087475",
+    "52087575",
+    "52087675",
+    "52087775",
+    "52087875",
+    "52087975",
+    "52088075",
+    "52088175",
+    "52088275",
+    "52088375",
+    "52088475",
+    "52088575",
+    "52088675",
+    "52088775",
+    "52088875"
+   ]
+  },
+  {
+   "date": "2009-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:494548:por",
+     "title": "Decreto-Lei n.º 143/2009",
+     "published": "2009-06-16",
+     "dre_path": "/dr/detalhe/decreto-lei/143-2009-494548"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "52086675",
+    "52086775",
+    "52086875",
+    "52086975",
+    "52087075",
+    "52087175",
+    "107614340",
+    "52087375",
+    "52087475",
+    "107614341",
+    "52087675",
+    "52087775",
+    "52087875",
+    "52087975",
+    "52088075",
+    "52088175",
+    "52089075",
+    "52088275",
+    "52088375",
+    "52088475",
+    "52088575",
+    "52088675",
+    "52088775",
+    "52088875"
+   ]
+  },
+  {
+   "date": "2017-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107596686:por",
+     "title": "Decreto-Lei n.º 81/2017",
+     "published": "2017-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/81-2017-107596686"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "52086675",
+    "107614346",
+    "107614347",
+    "107614348",
+    "52087075",
+    "107614349",
+    "107614350",
+    "107614351",
+    "107614352",
+    "107614353",
+    "107614354",
+    "107614355",
+    "52087875",
+    "107614356",
+    "52088075",
+    "107614342",
+    "107614343",
+    "107614344",
+    "107614345",
+    "52088375",
+    "52088475",
+    "52088575",
+    "52088675",
+    "52088775",
+    "52088875"
+   ]
+  },
+  {
+   "date": "2020-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:131193418:por",
+     "title": "Decreto-Lei n.º 13/2020",
+     "published": "2020-04-07",
+     "dre_path": "/dr/detalhe/decreto-lei/13-2020-131193418"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 13.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "52086675",
+    "107614346",
+    "107614347",
+    "107614348",
+    "131229403",
+    "107614349",
+    "131229404",
+    "131229405",
+    "131229407",
+    "131228074",
+    "131229408",
+    "131229385",
+    "131229386",
+    "131229387",
+    "131229388",
+    "131229406",
+    "131229390",
+    "131229391",
+    "131229392",
+    "131229393",
+    "131229394",
+    "52088375",
+    "52088475",
+    "52088575",
+    "52088675",
+    "52088775",
+    "52088875"
+   ]
+  }
+ ],
+ "fragments": {
+  "52086675": {
+   "fragment_id": "35178275",
+   "type": 15,
+   "heading": "Diploma — Decreto-Lei n.º 372/2007 de 6 de Novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de simplificação, racionalização e automatização consagrado no Decreto-Lei n.º 208/2006, de 27 de Outubro, que aprovou a Lei Orgânica do Ministério da Economia e da Inovação.\n\nO Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I. P., abreviadamente designado por IAPMEI, I. P., tem por missão promover a inovação e executar políticas de estímulo ao desenvolvimento empresarial, visando o reforço da competitividade das micro, pequenas e médias empresas (PME) que exerçam a sua actividade nas áreas sob tutela do Ministério da Economia e da Inovação. As atribuições daquele instituto público incluem, entre outras, a execução de medidas que permitam acompanhar as diversas iniciativas públicas no âmbito do desenvolvimento de estratégias de eficiência das PME, assegurando uma uniformidade de critérios, decorrente de um tratamento baseado em regras comuns.\n\nAssim, concretizando uma medida constante do Programa SIMPLEX 2007, incumbe ao IAPMEI, I. P., proceder à certificação de PME por via electrónica, através da criação de um formulário para este efeito, o qual, dispensando a entrega de documentos probatórios, permitirá a desburocratização e desmaterialização no relacionamento das empresas com os serviços públicos responsáveis pela aplicação das políticas destinadas às PME.\n\nO presente decreto-lei cria, assim, a certificação de PME online, sendo a obtenção desta certificação destinada às empresas que necessitem de comprovar a sua qualidade de PME. Numa primeira fase, de duração de um ano, este procedimento é destinado apenas às empresas que exerçam a sua actividade nas áreas sob tutela do Ministério da Economia e da Inovação. Após esta fase de experimentação do procedimento, a certificação online passa a aplicar-se às restantes empresas interessadas.\n\nFoi ouvida a Comissão Nacional de Protecção de Dados, nos termos do disposto no n.º 2 do artigo 22.º da Lei n.º 67/98, de 26 de Outubro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "52086775": {
+   "fragment_id": "36210075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada a certificação por via electrónica de micro, pequena e média empresas, adiante designadas por PME.\n\n2 - A certificação referida no número anterior permite aferir o estatuto de PME de qualquer empresa interessada em obter tal qualidade.\n\n3 - A certificação é efectuada exclusivamente através do formulário electrónico transmitido através da Internet, não sendo admissível a submissão dos dados necessários ao seu preenchimento por outra via."
+  },
+  "52086875": {
+   "fragment_id": "36210175",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição de PME",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição de PME\n\nPara efeitos do presente decreto-lei, a definição de PME, bem como os conceitos e critérios a utilizar para aferir o respectivo estatuto, constam do seu anexo, que dele faz parte integrante, e correspondem aos previstos na Recomendação n.º <a href=\"eurlex.asp?ano=2003&id=303H0361\" title=\"Link para Recomendação da Comunidade Europeia\">2003/361/CE</a>, da Comissão Europeia, de 6 de Maio."
+  },
+  "52086975": {
+   "fragment_id": "36210275",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - A certificação de PME, nos termos do presente decreto-lei, é aplicável às empresas que exerçam a sua actividade nas áreas sob tutela do Ministério da Economia e da Inovação (MEI) e que necessitem de apresentar e comprovar o estatuto de PME no âmbito dos procedimentos administrativos para cuja instrução ou decisão final seja legalmente ou regulamentarmente exigido.\n\n2 - Decorrido o prazo de um ano a contar da entrada em vigor do presente decreto-lei, a certificação de PME é igualmente aplicável às empresas interessadas, que exerçam a sua actividade em áreas não tuteladas pelo MEI.\n\n3 - A utilização da certificação de PME prevista no presente decreto-lei é obrigatória para todas as entidades envolvidas em procedimentos que exijam o estatuto de PME, designadamente as seguintes:\n\na) Os serviços da administração directa do Estado;\n\nb) Os organismos da administração indirecta do Estado;\n\nc) Sector empresarial do Estado;\n\nd) Entidades administrativas independentes e da administração autónoma do Estado;\n\ne) As entidades de direito privado que celebraram contratos ou protocolos com serviços e organismos do Estado neste âmbito."
+  },
+  "52087075": {
+   "fragment_id": "36210375",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\nA certificação prevista no presente decreto-lei compete ao IAPMEI, I. P., o qual disponibiliza os formulários electrónicos no seu portal na Internet - www.iapmei.pt, garantindo a sua fiabilidade e segurança."
+  },
+  "52087175": {
+   "fragment_id": "36210475",
+   "type": 11,
+   "heading": "Artigo 5.º — Objectivos da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objectivos da certificação\n\nA certificação prevista no presente decreto-lei visa, designadamente:\n\na) Simplificar e acelerar o tratamento administrativo dos processos nos quais se requer o estatuto de micro, pequena e média empresa;\n\nb) Permitir maior transparência na aplicação da definição PME no âmbito dos diferentes apoios concedidos pelas entidades públicas;\n\nc) Permitir a participação das PME nos diferentes programas comunitários e garantir uma informação adequada às entidades interessadas no que respeita à aplicação da definição PME;\n\nd) Garantir que as medidas e apoios destinados às PME se apliquem apenas às empresas que comprovem esta qualidade;\n\ne) Permitir uma certificação multiuso, durante o seu prazo de validade, em diferentes serviços e com distintas finalidades."
+  },
+  "52087275": {
+   "fragment_id": "36210575",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento para a certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento para a certificação\n\n1 - Os interessados na certificação PME formulam o seu pedido através do formulário disponibilizado electronicamente pelo IAPMEI, I. P., devendo para o efeito fornecer toda a informação solicitada para o seu preenchimento, designadamente:\n\na) A identificação da empresa, com os seguintes dados:\n\ni) Nome ou designação social;\n\nii) Endereço da sede social;\n\niii) Número de contribuinte;\n\niv) Número de identificação da segurança social;\n\nv) Actividade classificada de acordo com a Classificação Portuguesa das Actividades Económicas;\n\nvi) Nome e título do responsável pelo preenchimento do formulário e pelo fornecimento dos dados;\n\nb) Tipo de empresa: empresa autónoma, empresa parceira ou empresa associada, nos termos definidos no anexo ao presente decreto-lei, com indicação de eventual alteração de dados relativamente ao exercício contabilístico anterior, susceptível de implicar mudança de categoria da empresa requerente;\n\nc) Dados para determinar a categoria da empresa, com informação, relativa ao período de referência, referente aos efectivos, ao volume de negócios e ao balanço total, nos termos definidos no anexo ao presente decreto-lei;\n\nd) Dados relativos às empresas, investidores e outras entidades relacionadas directa ou indirectamente com a empresa, nos termos definidos no anexo ao presente decreto-lei.\n\n2 - No caso das empresas constituídas recentemente ou cujo pedido de certificação foi efectuado dentro do período legalmente previsto para encerramento das contas do exercício, os valores a considerar no pedido serão objecto de uma estimativa de boa fé baseada no respectivo exercício.\n\n3 - A estimativa efectuada nos termos do número anterior deve ser confirmada ou alterada com a introdução no formulário electrónico dos valores definitivos, 20 dias úteis após o prazo legalmente previsto para o encerramento das contas do exercício.\n\n4 - No caso das empresas que se encontrem legalmente obrigadas a elaborar contas consolidadas são considerados os dados que resultam da consolidação."
+  },
+  "52087375": {
+   "fragment_id": "36210675",
+   "type": 11,
+   "heading": "Artigo 7.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Decisão\n\n1 - A decisão sobre o pedido de certificação, ou da sua renovação, é disponibilizada aos interessados, via electrónica, através da Internet, imediatamente após a conclusão do preenchimento integral do formulário electrónico.\n\n2 - A decisão de certificação conferida com recurso a estimativas cujos dados definitivos não se confirmem implica a alteração da decisão proferida anteriormente, a qual é disponibilizada imediatamente, via electrónica, após introdução da informação definitiva.\n\n3 - A entidade certificadora pode solicitar aos requerentes informações complementares e proceder, por si ou por quem para o efeito designe, às averiguações e inquirições que se mostrem necessárias e adequadas para confirmar o estatuto atribuído.\n\n4 - A entidade certificadora pode incluir na certificação condições adicionais desde que necessárias para assegurar o cumprimento das disposições legais aplicáveis.\n\n5 - A certificação tem o prazo de validade de um ano após a data de encerramento das contas do exercício, considerando o limite legal para o respectivo encerramento."
+  },
+  "52087475": {
+   "fragment_id": "36210775",
+   "type": 11,
+   "heading": "Artigo 8.º — Recusa de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recusa de certificação\n\nA certificação é objecto de recusa, com informação imediata prestada por via electrónica, sempre que:\n\na) O pedido não esteja instruído com todas as informações solicitadas no formulário electrónico disponibilizado;\n\nb) A instrução do pedido enferme de inexactidões ou falsidades;\n\nc) A entidade certificadora não considere demonstrados alguns dos dados fornecidos pelo requerente."
+  },
+  "52087575": {
+   "fragment_id": "36210875",
+   "type": 11,
+   "heading": "Artigo 9.º — Revogação e caducidade da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogação e caducidade da certificação\n\n1 - A certificação caduca quando, findo o prazo de validade, não tenha sido objecto de renovação.\n\n2 - A certificação é revogada, sem prejuízo de outras sanções aplicáveis nos termos da lei, quando se verifique alguma das seguintes situações:\n\na) Verificação da existência de falsas declarações ou outros expedientes ilícitos na sua obtenção;\n\nb) Cessação da actividade da empresa;\n\nc) Verificação de irregularidades graves na administração, organização ou gestão da requerente ou de prática de actos ilícitos que lesem ou ponham em perigo a confiança do público na certificação;\n\nd) Declaração, por sentença judicial, de empresa insolvente ou julgada responsável por insolvência de empresa por ela dominada ou de empresa de cujos órgãos de administração ou fiscalização tenha sido membro;\n\ne) Verificação de alterações nas empresas certificadas, nomeadamente as previstas no artigo 13.º deste decreto-lei, caso as mesmas não sejam comunicadas à entidade certificadora, no prazo de 30 dias úteis.\n\n3 - A revogação da certificação compete à entidade certificadora, em decisão fundamentada que é notificada, por via electrónica, à empresa requerente e a todas as entidades que procederam à consulta daquele registo, no prazo de oito dias úteis.\n\n4 - A revogação da certificação é inscrita no registo a que se refere o n.º 1 do artigo 10.º\n\n5 - A revogação da certificação, pelo motivo referido na alínea a) do n.º 1, determina a impossibilidade, pelo período de um ano, da empresa requerente obter nova certificação nos termos do presente decreto-lei.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418) Os n.ºs 5 a 9 do artigo 9.º são revogados pelo Decreto-Lei n.º 13/2020, de 7 de abril, com entrada em vigor no dia 8 de abril de 2020."
+  },
+  "52087675": {
+   "fragment_id": "36210975",
+   "type": 11,
+   "heading": "Artigo 10.º — Consulta da certificação pelo titular e por entidades autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Consulta da certificação pelo titular e por entidades autorizadas\n\n1 - A certificação PME é inscrita num registo electrónico a efectuar pelo IAPMEI, I. P., através da Internet.\n\n2 - A comprovação da certificação é prestada aos titulares dos dados fornecidos, bem como a quaisquer entidades, no âmbito de procedimentos administrativos para cuja instrução ou decisão final seja legalmente ou regulamentarmente exigida a apresentação e comprovação do estatuto PME, designadamente as referidas no n.º 3 do artigo 3.º\n\n3 - A disponibilização de dados às entidades indicadas no número anterior contempla toda a informação prestada pelo titular dos dados fornecidos sem necessidade do seu consentimento para o efeito.\n\n4 - Para comprovar a certificação PME, as entidades referidas devem requerer ao IAPMEI, I. P., uma senha de utilização.\n\n5 - O IAPMEI, I. P., deve assegurar a existência de um registo das consultas efectuadas nos termos do presente artigo, que identifique a data e a entidade que a efectuou.\n\n6 - É conferido ao titular dos dados o direito de acesso ao registo das consultas realizadas nos termos do presente artigo."
+  },
+  "52087775": {
+   "fragment_id": "36211075",
+   "type": 11,
+   "heading": "Artigo 11.º — Consulta da certificação por outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Consulta da certificação por outras entidades\n\n1 - A consulta simples da certificação de PME, em que é apenas prestada informação respeitante a esta qualidade, estando vedada a divulgação de qualquer outra informação relativa aos titulares dos dados, é disponibilizada pelo IAPMEI, I. P., através da Internet, a todos os interessados nessa informação, mediante identificação prévia.\n\n2 - A consulta prevista no número anterior depende do consentimento prestado, de forma expressa e inequívoca, pelo titular dos dados no sítio da Internet da certificação PME.\n\n3 - O consentimento prestado nos termos do número anterior pode ser revogado a todo o tempo pelo titular dos dados através dos meios disponibilizados no sítio da Internet referido.\n\n4 - À consulta prevista no presente artigo são aplicáveis as disposições constantes dos n.os 5 e 6 do artigo anterior."
+  },
+  "52087875": {
+   "fragment_id": "36211175",
+   "type": 11,
+   "heading": "Artigo 12.º — Anomalias no processo de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Anomalias no processo de certificação\n\nSe por qualquer motivo deixarem de estar preenchidas as condições necessárias ao normal funcionamento do processo de certificação, este mantém-se suspenso por prazo a fixar pela entidade certificadora."
+  },
+  "52087975": {
+   "fragment_id": "36211275",
+   "type": 11,
+   "heading": "Artigo 13.º — Comunicação de alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comunicação de alterações\n\nAs empresas certificadas devem comunicar, através do formulário electrónico, à entidade certificadora, no prazo de 30 dias úteis, as alterações à sua situação relativas a:\n\na) Elementos de identificação da empresa, nomeadamente designação social, objecto e local da sede;\n\nb) Relações relevantes da empresa com outras empresas, parceiras ou associadas, quando se trate de uma alteração susceptível de modificar o estatuto de PME;\n\nc) Aquisições ou alienações de capital ou participações sociais;\n\nd) Estrutura de gestão ou de administração e dos poderes dos respectivos órgãos;\n\ne) Cisão, fusão ou dissolução."
+  },
+  "52088075": {
+   "fragment_id": "36211375",
+   "type": 11,
+   "heading": "Artigo 14.º — Protecção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Protecção de dados\n\n1 - A entidade certificadora só pode coligir dados pessoais necessários ao exercício das suas actividades e obtê-los directamente dos interessados na titularidade da certificação PME, ou de terceiros junto dos quais aqueles autorizem a sua colecta.\n\n2 - Os dados fornecidos pelos interessados e coligidos pela entidade certificadora não poderão ser utilizados para outra finalidade que não sejam as indicadas no artigo 5.º do presente decreto-lei, salvo se outro uso for consentido expressamente por lei ou pelo interessado.\n\n3 - A entidade certificadora respeitará as normas legais vigentes sobre a protecção de dados pessoais e sobre a protecção da privacidade no sector das telecomunicações, bem como assegurará a salvaguarda da confidencialidade das informações obtidas."
+  },
+  "52088175": {
+   "fragment_id": "36211475",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados os Despachos Normativos n.os 52/87, de 24 de Junho, e 38/88, de 16 de Maio."
+  },
+  "52088275": {
+   "fragment_id": "36211575",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "52088375": {
+   "fragment_id": "37724275",
+   "type": 11,
+   "heading": "Artigo 1.º — Empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Empresa\n\nEntende-se por empresa qualquer entidade que, independentemente da sua forma jurídica, exerce uma actividade económica. São, nomeadamente, consideradas como tal as entidades que exercem uma actividade artesanal ou outras actividades a título individual ou familiar, as sociedades de pessoas ou as associações que exercem regularmente uma actividade económica."
+  },
+  "52088475": {
+   "fragment_id": "37724375",
+   "type": 11,
+   "heading": "Artigo 2.º — Efectivos e limiares financeiros que definem as categorias de empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Efectivos e limiares financeiros que definem as categorias de empresas\n\n1 - A categoria das micro, pequenas e médias empresas (PME) é constituída por empresas que empregam menos de 250 pessoas e cujo volume de negócios anual não excede 50 milhões de euros ou cujo balanço total anual não excede 43 milhões de euros.\n\n2 - Na categoria das PME, uma pequena empresa é definida como uma empresa que emprega menos de 50 pessoas e cujo volume de negócios anual ou balanço total anual não excede 10 milhões de euros.\n\n3 - Na categoria das PME, uma micro empresa é definida como uma empresa que emprega menos de 10 pessoas e cujo volume de negócios anual ou balanço total anual não excede 2 milhões de euros."
+  },
+  "52088575": {
+   "fragment_id": "37724475",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos de empresas tomadas em consideração no que se refere ao cálculo dos efectivos e dos montantes financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipos de empresas tomadas em consideração no que se refere ao cálculo dos efectivos e dos montantes financeiros\n\n1 - Entende-se por «empresa autónoma» qualquer empresa que não é qualificada como empresa parceira na acepção do n.º 2 ou como empresa associada na acepção do n.º 3.\n\n2 - Entende-se por «empresas parceiras» todas as empresas que não são qualificadas como empresas associadas na acepção do n.º 3, e entre as quais existe a seguinte relação: uma empresa (empresa a montante) detém, sozinha ou em conjunto com uma ou várias empresas associadas na acepção do n.º 3, 25  % ou mais do capital ou dos direitos de voto de outra empresa (empresa a jusante).\n\nNo entanto, uma empresa pode ser qualificada como autónoma, não tendo, portanto, empresas parceiras, ainda que o limiar de 25 % seja atingido ou ultrapassado, quando se estiver em presença dos seguintes investidores, desde que estes não estejam, a título individual ou em conjunto, associados, na acepção do n.º 3, à empresa em causa:\n\na) Sociedades públicas de participação, sociedades de capital de risco, pessoas singulares ou grupos de pessoas singulares que tenham uma actividade regular de investimento em capital de risco (business angels) e que invistam fundos próprios em empresas não cotadas na bolsa, desde que o total do investimento dos ditos business angels numa mesma empresa não exceda (euro) 1 250 000;\n\nb) Universidades ou centros de investigação sem fins lucrativos;\n\nc) Investidores institucionais, incluindo fundos de desenvolvimento regional;\n\nd) Autoridades locais e autónomas com um orçamento anual inferior a 10 milhões de euros e com menos de 5000 habitantes.\n\n3 - Entende-se por «empresas associadas» as empresas que mantêm entre si uma das seguintes relações:\n\na) Uma empresa detém a maioria dos direitos de voto dos accionistas ou sócios de outra empresa;\n\nb) Uma empresa tem o direito de nomear ou exonerar a maioria dos membros do órgão de administração, de direcção ou de controlo de outra empresa;\n\nc) Uma empresa tem o direito de exercer influência dominante sobre outra empresa por força de um contrato com ela celebrado ou por força de uma cláusula dos estatutos desta última empresa;\n\nd) Uma empresa accionista ou associada de outra empresa controla sozinha, por força de um acordo celebrado com outros accionistas ou sócios dessa outra empresa, a maioria dos direitos de voto dos accionistas ou sócios desta última.\n\nPresume-se que não há influência dominante no caso de os investidores indicados no segundo parágrafo do n.º 2 não se imiscuírem directa ou indirectamente na gestão da empresa em causa, sem prejuízo dos direitos que detêm na qualidade de accionistas ou sócios.\n\nAs empresas que mantenham uma das relações referidas no primeiro parágrafo por intermédio de uma ou várias outras empresas, ou com os investidores visados no n.º 2, são igualmente consideradas associadas.\n\nAs empresas que mantenham uma das relações acima descritas por intermédio de uma pessoa singular ou de um grupo de pessoas singulares que actuem concertadamente são igualmente consideradas empresas associadas desde que essas empresas exerçam as suas actividades, ou parte delas, no mesmo mercado ou em mercados contíguos.\n\nEntende-se por mercado contíguo o mercado de um produto ou serviço situado directamente a montante ou a jusante do mercado relevante.\n\n4 - Excepto nos casos referidos no segundo parágrafo do n.º 2, uma empresa não pode ser considerada PME se 25  % ou mais do seu capital ou dos seus direitos de voto forem controlados, directa ou indirectamente, por uma ou várias colectividades públicas ou organismos públicos, a título individual ou conjuntamente.\n\n5 - As empresas podem formular uma declaração sobre a respectiva qualificação como empresa autónoma, parceira ou associada, assim como sobre os dados relativos aos limiares enunciados no artigo 2.º Esta declaração pode ser elaborada mesmo se a dispersão do capital não permitir determinar precisamente quem o detém, contanto que a empresa declare, de boa fé, que pode legitimamente presumir que não é propriedade, em 25  % ou mais, de uma empresa, ou propriedade conjunta de empresas associadas entre si ou por intermédio de pessoas singulares ou de um grupo de pessoas singulares. As declarações deste tipo são efectuadas sem prejuízo dos controlos ou verificações previstos."
+  },
+  "52088675": {
+   "fragment_id": "37724575",
+   "type": 11,
+   "heading": "Artigo 4.º — Dados a considerar para o cálculo dos efectivos e dos montantes financeiros e período de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dados a considerar para o cálculo dos efectivos e dos montantes financeiros e período de referência\n\n1 - Os dados considerados para o cálculo dos efectivos e dos montantes financeiros são os do último exercício contabilístico encerrado, calculados numa base anual. Os dados são tidos em conta a partir da data de encerramento das contas. O montante do volume de negócios considerado é calculado com exclusão do imposto sobre o valor acrescentado (IVA) e de outros impostos indirectos.\n\n2 - Se uma empresa verificar, na data de encerramento das contas, que superou ou ficou aquém, numa base anual, do limiar de efectivos ou dos limiares financeiros indicados no artigo 2.º, esta circunstância não a faz adquirir ou perder a qualidade de média, pequena ou micro empresa, salvo se tal se repetir durante dois exercícios consecutivos.\n\n3 - No caso de uma empresa constituída recentemente, cujas contas ainda não tenham sido encerradas, os dados a considerar serão objecto de uma estimativa de boa fé no decorrer do exercício."
+  },
+  "52088775": {
+   "fragment_id": "37724675",
+   "type": 11,
+   "heading": "Artigo 5.º — Efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Efectivos\n\nOs efectivos correspondem ao número de unidades trabalho-ano (UTA), isto é, ao número de pessoas que tenham trabalhado na empresa em questão ou por conta dela a tempo inteiro durante todo o ano considerado. O trabalho das pessoas que não tenham trabalhado todo o ano, ou que tenham trabalhado a tempo parcial, independentemente da sua duração, ou o trabalho sazonal, é contabilizado em fracções de UTA. Os efectivos são compostos:\n\na) Pelos assalariados;\n\nb) Pelas pessoas que trabalham para essa empresa, com um nexo de subordinação com ela e equiparados a assalariados à luz do direito nacional;\n\nc) Pelos proprietários-gestores;\n\nd) Pelos sócios que exerçam uma actividade regular na empresa e beneficiem das vantagens financeiras da mesma.\n\nOs aprendizes ou estudantes em formação profissional titulares de um contrato de aprendizagem ou de formação profissional não são contabilizados nos efectivos. A duração das licenças de maternidade ou parentais não é contabilizada."
+  },
+  "52088875": {
+   "fragment_id": "37724775",
+   "type": 11,
+   "heading": "Artigo 6.º — Determinação dos dados da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Determinação dos dados da empresa\n\n1 - No caso de uma empresa autónoma, a determinação dos dados, incluindo os efectivos, efectua-se unicamente com base nas contas desta empresa.\n\n2 - Os dados, incluindo os efectivos, de uma empresa que tenha empresas parceiras ou associadas são determinados com base nas contas e em outros dados da empresa, ou - caso existam - das contas consolidadas da empresa, ou das contas consolidadas nas quais a empresa for retomada por consolidação.\n\nAos dados referidos no primeiro parágrafo devem agregar-se os dados das eventuais empresas parceiras da empresa considerada, situadas imediatamente a montante ou a jusante da mesma. A agregação é proporcional à percentagem de participação no capital ou de direitos de voto (a mais alta destas duas percentagens). Em caso de participação cruzada, é aplicável a mais alta destas percentagens.\n\nAos dados referidos no primeiro e segundo parágrafos devem juntar-se 100  % dos dados das eventuais empresas directa ou indirectamente associadas à empresa considerada, que não tenham sido retomados por consolidação nas contas.\n\n3 - Para efeitos da aplicação do n.º 2, os dados das empresas parceiras da empresa considerada resultam das contas e de outros dados, consolidados caso existam, aos quais se juntam 100  % dos dados das empresas associadas a estas empresas parceiras, a não ser que os respectivos dados já tenham sido retomados por consolidação.\n\nPara efeitos da aplicação do n.º 2, os dados das empresas associadas à empresa considerada resultam das respectivas contas e de outros dados, consolidados, caso existam. A estes se agregam, proporcionalmente, os dados das eventuais empresas parceiras destas empresas associadas, situadas imediatamente a montante ou a jusante destas últimas, a não ser que já tenham sido retomados nas contas consolidadas, numa proporção pelo menos equivalente à percentagem definida no segundo parágrafo do n.º 2.\n\n4 - Quando os efectivos de uma determinada empresa não constem das contas consolidadas, o seu cálculo efectua-se mediante a agregação, de forma proporcional, dos dados relativos às empresas das quais esta empresa for parceira e a adição dos dados relativos às empresas com as quais esta empresa for associada."
+  },
+  "107614340": {
+   "fragment_id": "36210575",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento para a certificação",
+   "in_force_from": "2009-06-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimento para a certificação\n\n1 - Os interessados na certificação PME formulam o seu pedido através do formulário disponibilizado electronicamente pelo IAPMEI, I. P., devendo para o efeito fornecer toda a informação solicitada para o seu preenchimento, designadamente:\n\na) A identificação da empresa, com os seguintes dados:\n\ni) Nome ou designação social;\n\nii) Endereço da sede social;\n\niii) Número de contribuinte;\n\niv) Número de identificação da segurança social;\n\nv) Actividade classificada de acordo com a Classificação Portuguesa das Actividades Económicas;\n\nvi) Nome e título do responsável pelo preenchimento do formulário e pelo fornecimento dos dados;\n\nb) Tipo de empresa: empresa autónoma, empresa parceira ou empresa associada, nos termos definidos no anexo ao presente decreto-lei, com indicação de eventual alteração de dados relativamente ao exercício contabilístico anterior, susceptível de implicar mudança de categoria da empresa requerente;\n\nc) Dados para determinar a categoria da empresa, com informação, relativa ao período de referência, referente aos efectivos, ao volume de negócios e ao balanço total, nos termos definidos no anexo ao presente decreto-lei;\n\nd) Dados relativos às empresas, investidores e outras entidades relacionadas directa ou indirectamente com a empresa, nos termos definidos no anexo ao presente decreto-lei.\n\n2 - No caso das empresas constituídas recentemente ou cujo pedido de certificação foi efectuado dentro do período legalmente previsto para encerramento das contas do exercício, os valores a considerar no pedido serão objecto de uma estimativa de boa fé baseada no respectivo exercício.\n\n3 - A estimativa efectuada nos termos do número anterior deve ser confirmada ou alterada com a introdução no formulário electrónico dos valores definitivos, 20 dias úteis após o prazo legalmente previsto para o encerramento das contas do exercício.\n\n4 - No caso das empresas que se encontrem legalmente obrigadas a elaborar contas consolidadas são considerados os dados que resultam da consolidação.\n\n5 - No caso de uma empresa verificar, na data de encerramento das respectivas contas, que ficou aquém ou que superou, pela primeira vez e numa base anual, o limiar de efectivos ou os limiares financeiros previstos para a sua categoria, e desde que, com base numa estimativa de boa fé, preveja que, no exercício seguinte, se vai verificar situação idêntica, pode essa empresa apresentar uma declaração com vista à determinação imediata da aquisição ou da perda da qualidade de micro, pequena ou média empresa.\n\n6 - Nas situações previstas no número anterior é aplicável o disposto no n.º 3.\n\n> Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+  },
+  "107614341": {
+   "fragment_id": "36210875",
+   "type": 11,
+   "heading": "Artigo 9.º — Revogação e caducidade da certificação",
+   "in_force_from": "2009-06-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+   ],
+   "markdown": "###### Artigo 9.º — Revogação e caducidade da certificação\n\n1 - A certificação caduca quando, findo o prazo de validade, não tenha sido objecto de renovação.\n\n2 - A certificação é revogada, sem prejuízo de outras sanções aplicáveis nos termos da lei, quando se verifique alguma das seguintes situações:\n\na) Verificação da existência de falsas declarações ou outros expedientes ilícitos na sua obtenção;\n\nb) Cessação da actividade da empresa;\n\nc) Verificação de irregularidades graves na administração, organização ou gestão da requerente ou de prática de actos ilícitos que lesem ou ponham em perigo a confiança do público na certificação;\n\nd) Declaração, por sentença judicial, de empresa insolvente ou julgada responsável por insolvência de empresa por ela dominada ou de empresa de cujos órgãos de administração ou fiscalização tenha sido membro;\n\ne) Verificação de alterações nas empresas certificadas, nomeadamente as previstas no artigo 13.º deste decreto-lei, caso as mesmas não sejam comunicadas à entidade certificadora, no prazo de 30 dias úteis.\n\nf) Verificação da não introdução dos valores definitivos no prazo previsto, ou total discrepância entre os valores introduzidos e os valores definitivos, em caso de certificação efectuada com recurso a estimativas;\n\ng) Ausência de resposta do interessado, no prazo de 30 dias úteis, ao pedido de informações complementares realizado pela entidade certificadora;\n\nh) Ausência de resposta do interessado, no prazo de 30 dias úteis, às questões colocadas pela entidade certificadora na sequência de averiguação ou de inquirição.\n\n3 - A revogação da certificação compete à entidade certificadora, em decisão fundamentada que é notificada, por via electrónica, à empresa requerente e a todas as entidades que procederam à consulta daquele registo, no prazo de oito dias úteis.\n\n4 - A revogação da certificação é inscrita no registo a que se refere o n.º 1 do artigo 10.º\n\n5 - A revogação da certificação pelo motivo referido na alínea a) do n.º 2 determina a impossibilidade, pelo período de um ano, de a empresa requerente obter nova certificação nos termos do presente decreto-lei.\n\n> Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+  },
+  "52089075": {
+   "fragment_id": "36211675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - António José de Castro Guerra.\n\nPromulgado em 22 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "107614346": {
+   "fragment_id": "36210075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada a certificação por via eletrónica de micro, pequenas e médias empresas, adiante também designadas por PME.\n\n2 - A certificação referida no número anterior permite aferir o estatuto de micro, de pequena ou de média empresa de qualquer empresa interessada em obter tal qualidade.\n\n3 - A certificação é obtida exclusivamente através de formulário eletrónico transmitido através da Internet, não sendo admissível a submissão dos dados necessários ao seu preenchimento ou a sua obtenção por outra via.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "107614347": {
+   "fragment_id": "36210175",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição de pequena e média empresa e de empresa de média capitalização",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definição de pequena e média empresa e de empresa de média capitalização\n\n1 - Para efeitos do presente decreto-lei, a definição de PME, bem como os conceitos e critérios a utilizar para aferir o respectivo estatuto, constam do seu anexo, que dele faz parte integrante, e correspondem aos previstos na Recomendação n.º <a href=\"eurlex.asp?ano=2003&id=303H0361\" title=\"Link para Recomendação da Comunidade Europeia\">2003/361/CE</a>, da Comissão Europeia, de 6 de Maio.\n\n2 - Considera-se como uma empresa de média capitalização (Mid Cap) aquela que, não sendo PME, empregue menos de 3.000 pessoas.\n\n3 - Na categoria das empresas de média capitalização, considera-se como uma empresa de pequena-média capitalização (Small Mid Cap) aquela que empregue menos de 500 pessoas.\n\n4 - Para efeitos da aplicação dos conceitos constantes dos n.os 2 e 3, as empresas devem ser consideradas como sendo autónomas, nos termos do n.º 1 do artigo 3.º do anexo ao presente decreto-lei, independentemente das relações estabelecidas com outras empresas, através de detenções de capital ou direitos de voto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "107614348": {
+   "fragment_id": "36210275",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - A certificação de PME, nos termos do presente decreto-lei, é aplicável a todas as empresas que necessitem de apresentar e comprovar o estatuto de micro, de pequena ou de média empresa no âmbito dos procedimentos administrativos para cuja instrução ou decisão final seja legalmente ou regulamentarmente exigida.\n\n2 - (Revogado.)\n\n3 - A utilização da certificação de PME prevista no presente decreto-lei é obrigatória para todas as entidades envolvidas em procedimentos que exijam o estatuto de micro, de pequena ou de média empresa, designadamente as seguintes:\n\na) Os serviços da administração directa do Estado;\n\nb) Os organismos da administração indirecta do Estado;\n\nc) O setor empresarial do Estado;\n\nd) As entidades administrativas independentes e da administração autónoma do Estado;\n\ne) As entidades de direito privado que celebraram contratos ou protocolos com serviços e organismos do Estado neste âmbito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "107614349": {
+   "fragment_id": "36210475",
+   "type": 11,
+   "heading": "Artigo 5.º — Objectivos da certificação",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Objectivos da certificação\n\nA certificação prevista no presente decreto-lei visa, designadamente:\n\na) Simplificar e acelerar o tratamento administrativo dos processos nos quais se requer o estatuto de micro, de pequena ou de média empresa;\n\nb) Permitir maior transparência na aplicação da definição de micro, de pequena e de média empresa no âmbito dos diferentes apoios concedidos pelas entidades públicas;\n\nc) Permitir a participação das PME nos diferentes programas comunitários e garantir uma informação adequada às entidades interessadas no que respeita à aplicação da definição de micro, de pequena e de média empresa;\n\nd) Garantir que as medidas e apoios destinados às micro, às pequenas e às médias empresas se apliquem apenas às empresas que comprovem esta qualidade;\n\ne) Permitir uma certificação multiúso em diferentes serviços e com distintas finalidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "107614350": {
+   "fragment_id": "36210575",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento para a certificação",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimento para a certificação\n\n1 - Os interessados na obtenção da certificação de micro, de pequena ou de média empresa formulam o seu pedido através do preenchimento integral e submissão do formulário disponibilizado eletronicamente pelo IAPMEI, I. P., devendo para o efeito fornecer por essa via todos os dados solicitados, designadamente:\n\na) Dados de identificação da empresa requerente;\n\nb) Dados de identificação da pessoa responsável pela certificação da empresa perante o IAPMEI, I. P., enquanto entidade certificadora;\n\nc) Dados relativos a investidores, a participações sociais e a demais entidades relacionadas, direta ou indiretamente com a empresa requerente, através de empresas ou de pessoas singulares, nos termos definidos no anexo ao presente decreto-lei;\n\nd) Dados para determinar a categoria da empresa, referentes aos efetivos, ao volume de negócios e ao balanço total, nos termos definidos no anexo ao presente decreto-lei.\n\n2 - No caso das empresas com início ou reinício de atividade no exercício corrente ou no exercício imediatamente anterior ou com situação de fusão ou cisão no exercício corrente ou no exercício imediatamente anterior, os valores a considerar no pedido de certificação são objeto de uma estimativa de boa-fé baseada no primeiro exercício completo após a ocorrência destes factos.\n\n3 - No caso das empresas não enquadradas no n.º 2 cujo pedido de certificação seja efetuado antes da entrega da declaração anual contabilística e fiscal do último exercício, os valores a considerar no pedido são objeto de uma estimativa de boa-fé relativa a esse último exercício.\n\n4 - A estimativa efetuada nos termos dos n.os 2 e 3 deve ser confirmada ou alterada com a submissão de formulário eletrónico com os valores definitivos, até 20 dias úteis após o prazo legalmente previsto para entrega da correspondente declaração anual contabilística e fiscal.\n\n5 - No caso das empresas requerentes que se encontrem legalmente obrigadas a elaborar contas consolidadas ou a estar integradas na consolidação de outras empresas, de acordo com o método de consolidação integral, são considerados os dados financeiros que resultam da consolidação.\n\n6 - O disposto no número anterior não se aplica a pedidos de certificação cuja empresa requerente ou cujas empresas associadas e parceiras, parceiras de associadas e associadas de parceiras, sejam enquadráveis no n.º 2.\n\n7 - No caso de a empresa requerente, quando considerados os dados previstos na alínea d) do n.º 1, ficar aquém ou superar, pela primeira vez e numa base anual, o limiar de efetivos ou os limiares financeiros previstos para a sua categoria, e desde que, com base numa estimativa de boa-fé, preveja que, no exercício seguinte, se vai verificar situação idêntica, pode essa empresa apresentar uma declaração com vista à obtenção imediata do estatuto antecipado correspondente à nova categoria, sempre que a sua estrutura de empresas associadas, parceiras, parceiras de associadas ou associadas de parceiras, ainda que indiretas, nos termos dos n.os 2 e 3 do artigo 3.º do anexo ao presente decreto-lei, não se tenha alterado.\n\n8 - Nas situações previstas no número anterior a empresa tem que submeter ao IAPMEI, I. P., o formulário eletrónico de certificação com os dados definitivos do exercício seguinte, até 20 dias úteis após o prazo legalmente previsto para entrega da declaração anual contabilística e fiscal, tendo estes dados que confirmar o conteúdo da declaração apresentada.\n\n9 - O não cumprimento de qualquer uma das condições previstas no número anterior determina a perda do estatuto antecipado, com efeito retroativo à data da sua obtenção.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+  },
+  "107614351": {
+   "fragment_id": "36210675",
+   "type": 11,
+   "heading": "Artigo 7.º — Decisão e caducidade",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Decisão e caducidade\n\n1 - A decisão sobre o pedido de certificação é disponibilizada aos interessados, por via eletrónica, através da Internet, imediatamente após a conclusão do preenchimento integral do formulário eletrónico e da sua submissão, tendo efeitos a partir dessa data.\n\n2 - A decisão de certificação conferida com recurso a estimativas cujos dados definitivos não se confirmem implica a alteração, com efeitos retroativos, da decisão proferida anteriormente, sendo a nova decisão disponibilizada imediatamente, via eletrónica, após introdução e submissão da informação definitiva.\n\n3 - A correção de dados por motivo de erro, quando admissível, implica a alteração, com efeitos retroativos, da decisão proferida anteriormente, sendo a nova decisão disponibilizada imediatamente, via eletrónica, após introdução e submissão da informação corrigida.\n\n4 - A entidade certificadora pode solicitar, a qualquer momento, às empresas requerentes, documentos probatórios e informações complementares e proceder, por si ou por quem para o efeito designe, às averiguações e inquirições que se mostrem necessárias e adequadas para confirmar os dados declarados nos pedidos de certificação.\n\n5 - As averiguações que se mostrem necessárias e adequadas para confirmar os dados declarados nos pedidos de certificação podem ser realizadas de forma aleatória, por amostragem, podendo o IAPMEI, I. P., solicitar a colaboração de outros órgãos da administração central ou recorrer ao serviço especializado de consultores externos ou celebrar protocolos com outras entidades, para este efeito.\n\n6 - A entidade certificadora pode incluir na certificação condições adicionais, desde que necessárias para assegurar o cumprimento das disposições legais aplicáveis.\n\n7 - A certificação deve ser renovada anualmente, com a comunicação dos dados definitivos do último exercício completo, após entrega da respetiva declaração anual contabilística e fiscal.\n\n8 - A certificação caduca com o decurso do prazo de 20 dias úteis após a data limite de entrega da declaração anual contabilística e fiscal, sem que estes dados tenham sido introduzidos no formulário eletrónico.\n\n9 - O disposto nos n.os 7 e 8 não se aplica às empresas requerentes previstas nos n.os 2 e 3 do artigo 6.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "107614352": {
+   "fragment_id": "36210775",
+   "type": 11,
+   "heading": "Artigo 8.º — Recusa de certificação",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 8.º — Recusa de certificação\n\nA certificação é objecto de recusa, com informação imediata prestada por via electrónica, sempre que:\n\na) O pedido não esteja instruído com todas as informações solicitadas no formulário electrónico disponibilizado;\n\nb) A instrução do pedido enferme de inexatidões ou outras irregularidades;\n\nc) A entidade certificadora não considere demonstrados alguns dos dados fornecidos pelo requerente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "107614353": {
+   "fragment_id": "36210875",
+   "type": 11,
+   "heading": "Artigo 9.º — Revogação da certificação",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+   ],
+   "markdown": "###### Artigo 9.º — Revogação da certificação\n\n1 - A revogação da certificação é aplicável a todo o tempo e tem efeitos retroativos.\n\n2 - A certificação é revogada, sem prejuízo de outras sanções aplicáveis nos termos da lei, quando se verifique alguma das seguintes situações:\n\na) Verificação da existência de falsas declarações ou outros expedientes ilícitos na sua obtenção;\n\nb) Verificação de omissões ou inexatidões nos dados da estrutura societária ou das participações diretas da requerente, ou nos dados das entidades diretamente relacionadas com estes sócios e participadas, a montante e a jusante;\n\nc) Verificação de omissões ou inexatidões nos dados de outras entidades indiretamente relacionadas com a requerente, através de empresas ou de pessoas singulares, não autónomas;\n\nd) Verificação de inexatidões nos dados para determinar a categoria da empresa, referentes aos efetivos, ao volume de negócios e ao balanço total;\n\ne) Verificação de inexatidões ou outras irregularidades não incluídas nas alíneas anteriores.\n\nf) Cessação da actividade da empresa;\n\ng) Verificação de irregularidades graves na administração, organização ou gestão da requerente;\n\nh) Verificação de prática de atos ilícitos que lesem ou ponham em perigo a confiança do público na certificação;\n\ni) Declaração, por sentença judicial, de empresa insolvente ou julgada responsável por insolvência de empresa por ela dominada ou de empresa de cujos órgãos de administração ou fiscalização tenha sido membro;\n\nj) Verificação do não cumprimento do prazo de 30 dias úteis na comunicação das alterações previstas no artigo 13.º;\n\nk) Verificação da não introdução dos valores definitivos no prazo previsto, ou total discrepância entre os valores introduzidos e os valores definitivos, em caso de certificação efectuada com recurso a estimativas;\n\nl) Não enquadramento nos limiares de micro, pequena e média empresa;\n\nm) Ausência de resposta do interessado, no prazo de 30 dias úteis, ao pedido de documentos ou informações complementares realizado pela entidade certificadora no âmbito de averiguação ou de inquirição;\n\nn) Ausência de resposta do interessado, no prazo de 30 dias úteis, às questões colocadas pela entidade certificadora no âmbito de averiguação ou de inquirição;\n\no) É equiparada à ausência de resposta do interessado, prevista nas alíneas m) e n), a resposta parcial, incompleta ou que não reúna condições para provar todos os dados declarados no pedido de certificação ou esclarecer todas as questões colocadas;\n\np) Impossibilidade de a entidade certificadora concretizar as comunicações inerentes aos procedimentos de averiguações ou inquirições, por motivo imputável à empresa requerente.\n\n3 - A revogação da certificação compete à entidade certificadora, e é inscrita no registo a que se refere o n.º 1 do artigo 10.º\n\n4 - A notificação da decisão fundamentada de revogação da certificação é enviada à empresa requerente, por via eletrónica, no prazo de oito dias úteis após a inscrição no registo referida no n.º 1 do artigo 10.º\n\n5 - A revogação da certificação, pelo motivo referido na alínea a) do n.º 2, determina a impossibilidade, pelo período de dois anos, de a empresa requerente obter nova certificação nos termos do presente decreto-lei.\n\n6 - A revogação da certificação, pelo motivo referido na alínea h) do n.º 2, determina a impossibilidade, pelo período de um ano, de a empresa requerente obter nova certificação nos termos do presente decreto-lei.\n\n7 - A revogação da certificação, pelo motivo referido nas alíneas b) e c) do n.º 2, determina a impossibilidade, pelo período de um ano, de a empresa requerente obter nova certificação nos termos do presente decreto-lei, sempre que as omissões ou inexatidões referidas tenham gerado erros na determinação do tipo de empresa.\n\n8 - A revogação da certificação, pelo motivo referido na alínea d) do n.º 2, determina a impossibilidade, pelo período de um ano, de a empresa requerente obter nova certificação nos termos do presente decreto-lei, sempre que as inexatidões sejam geradoras de erros na determinação da categoria da empresa.\n\n9 - A revogação da certificação pelo motivo referido nas alíneas b), c), d) do n.º 2, quando se verificar a obtenção de vantagem indevida proveniente de apoios, subsídios ou outros benefícios públicos, determina a impossibilidade, pelo período de um ano, de a empresa requerente obter nova certificação nos termos do presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+  },
+  "107614354": {
+   "fragment_id": "36210975",
+   "type": 11,
+   "heading": "Artigo 10.º — Consulta da certificação pelo titular e por entidades autorizadas",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Consulta da certificação pelo titular e por entidades autorizadas\n\n1 - A certificação PME é inscrita num registo electrónico a efectuar pelo IAPMEI, I. P., através da Internet.\n\n2 - A comprovação da certificação é prestada aos titulares dos dados fornecidos, bem como a quaisquer entidades, no âmbito de procedimentos administrativos para cuja instrução ou decisão final seja legalmente ou regulamentarmente exigida a apresentação e comprovação do estatuto de micro, de pequena ou de média empresa, designadamente as referidas no n.º 3 do artigo 3.º\n\n3 - A disponibilização de dados às entidades indicadas no número anterior contempla toda a informação prestada pelo titular dos dados fornecidos sem necessidade do seu consentimento para o efeito.\n\n4 - A comprovação da certificação referida nos n.os 2 e 3 é efetuada exclusivamente através de meios eletrónicos, através da consulta ao registo eletrónico referido no n.º 1.\n\n5 - Para comprovar a certificação PME, as entidades referidas devem requerer ao IAPMEI, I. P., uma senha de utilização.\n\n6 - O IAPMEI, I. P., deve assegurar a existência de um registo das consultas efectuadas nos termos do presente artigo, que identifique a data e a entidade que a efectuou.\n\n7 - É conferido ao titular dos dados o direito de acesso ao registo das consultas realizadas nos termos do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "107614355": {
+   "fragment_id": "36211075",
+   "type": 11,
+   "heading": "Artigo 11.º — Consulta da certificação por outras entidades",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 11.º — Consulta da certificação por outras entidades\n\n1 - A consulta simples da certificação de PME, em que é apenas prestada informação respeitante a esta qualidade, estando vedada a divulgação de qualquer outra informação relativa aos titulares dos dados, é disponibilizada pelo IAPMEI, I. P., através da Internet, a todos os interessados nessa informação, mediante identificação prévia.\n\n2 - A consulta prevista no número anterior depende do consentimento prestado, de forma expressa e inequívoca, pelo titular dos dados no sítio da Internet da certificação PME.\n\n3 - O consentimento prestado nos termos do número anterior pode ser revogado a todo o tempo pelo titular dos dados através dos meios disponibilizados no sítio da Internet referido.\n\n4 - À consulta prevista no presente artigo são aplicáveis as disposições constantes dos n.os 6 e 7 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "107614356": {
+   "fragment_id": "36211275",
+   "type": 11,
+   "heading": "Artigo 13.º — Comunicação de alterações",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Comunicação de alterações\n\n1 - As empresas certificadas devem comunicar à entidade certificadora, através de formulário disponibilizado eletronicamente pelo IAPMEI, I. P., as alterações nos dados declarados no processo de certificação relativas a:\n\na) Elementos de identificação e de caracterização;\n\nb) Detenções, aquisições ou alienações de participações sociais;\n\nc) Cisão, fusão, cessação da atividade ou dissolução.\n\n2 - A obrigatoriedade de comunicação prevista no número anterior implica informação relativa à empresa requerente, a todas as entidades com quem a empresa certificada tenha relacionamentos diretos, e às entidades com quem a empresa certificada tenha relacionamentos indiretos não autónomos.\n\n3 - As alterações previstas no n.º 1 têm que ser comunicadas à entidade certificadora no prazo de 30 dias úteis após a ocorrência.\n\n4 - As alterações comunicadas têm efeitos retroativos à data da ocorrência comunicada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "107614342": {
+   "fragment_id": "107614136",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Regulamento",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 14.º-A — Regulamento\n\nAs normas necessárias ao preenchimento dos formulários eletrónicos são objeto de regulamento a aprovar pelo IAPMEI, I. P.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "107614343": {
+   "fragment_id": "36211475",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados os Despachos Normativos n.os 52/87, de 24 de Junho, e 38/88, de 16 de Maio."
+  },
+  "107614344": {
+   "fragment_id": "36211675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - António José de Castro Guerra.\n\nPromulgado em 22 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "107614345": {
+   "fragment_id": "36211575",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "131229403": {
+   "fragment_id": "36210375",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Competência\n\nA certificação prevista no presente decreto-lei compete ao IAPMEI, I. P., o qual disponibiliza os formulários eletrónicos no portal ePortugal, em https://eportugal.gov.pt/, garantindo a sua fiabilidade e segurança.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01"
+  },
+  "131229404": {
+   "fragment_id": "36210575",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento para a certificação",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimento para a certificação\n\n1 - Os interessados na obtenção da certificação de micro, de pequena ou de média empresa formulam o seu pedido através do preenchimento integral e submissão do formulário disponibilizado eletronicamente pelo IAPMEI, I. P., devendo para o efeito fornecer por essa via todos os dados solicitados, designadamente:\n\na) Dados de identificação da empresa requerente;\n\nb) Dados de identificação da pessoa responsável pela certificação da empresa perante o IAPMEI, I. P., enquanto entidade certificadora;\n\nc) Dados relativos a investidores, a participações sociais e a demais entidades relacionadas, direta ou indiretamente com a empresa requerente, através de empresas ou de pessoas singulares, nos termos definidos no anexo ao presente decreto-lei;\n\nd) Dados para determinar a categoria da empresa, referentes aos efetivos, ao volume de negócios e ao balanço total, nos termos definidos no anexo ao presente decreto-lei.\n\n2 - A autenticação dos interessados na plataforma prevista no presente decreto-lei utiliza os mecanismos previstos nas Leis n.os 7/2007, de 5 de fevereiro, e 37/2014, de 26 de junho, ambas na sua redação atual.\n\n3 - (Revogado).\n\n4 - No caso das empresas com início ou reinício de atividade no exercício corrente ou no exercício imediatamente anterior ou com situação de fusão ou cisão no exercício corrente ou no exercício imediatamente anterior, os valores a considerar no pedido de certificação são objeto de uma estimativa de boa-fé baseada no primeiro exercício completo após a ocorrência destes factos.\n\n5 - A estimativa efetuada nos termos do número anterior deve ser confirmada ou alterada com a submissão de formulário eletrónico com os valores definitivos, até 30 dias úteis após o prazo legalmente previsto para entrega da correspondente declaração anual contabilística e fiscal.\n\n6 - No caso das empresas requerentes que se encontrem legalmente obrigadas a elaborar contas consolidadas ou a estar integradas na consolidação de outras empresas, de acordo com o método de consolidação integral, são considerados os dados financeiros que resultam da consolidação.\n\n7 - O disposto no número anterior não se aplica a pedidos de certificação enquadráveis no n.º 4.\n\n8 - No caso de a empresa requerente, quando considerados os dados previstos na alínea d) do n.º 1, ficar aquém ou superar, pela primeira vez e numa base anual, o limiar de efetivos ou os limiares financeiros previstos para a sua categoria, e desde que, com base numa estimativa de boa-fé, preveja que, no exercício seguinte, se vai verificar situação idêntica, pode essa empresa apresentar uma declaração com vista à obtenção imediata do estatuto antecipado correspondente à nova categoria, sempre que a sua estrutura de empresas associadas, parceiras, parceiras de associadas ou associadas de parceiras, ainda que indiretas, nos termos dos n.os 2 e 3 do artigo 3.º do anexo ao presente decreto-lei, não se tenha alterado.\n\n9 - Nas situações previstas no número anterior, a empresa submete ao IAPMEI, I. P., o formulário eletrónico de certificação com os dados definitivos do exercício seguinte, até 30 dias úteis após o prazo legalmente previsto para entrega da declaração anual contabilística e fiscal, tendo estes dados que confirmar o conteúdo da declaração apresentada.\n\n10 - O não cumprimento de qualquer uma das condições previstas no número anterior determina a perda do estatuto antecipado, com efeito retroativo à data da sua obtenção.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+  },
+  "131229405": {
+   "fragment_id": "36210675",
+   "type": 11,
+   "heading": "Artigo 7.º — Disponibilização da certificação",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Disponibilização da certificação\n\n1 - A certificação é disponibilizada aos interessados, por via eletrónica, imediatamente após a conclusão do preenchimento integral do formulário eletrónico e da sua submissão, tendo efeitos a partir dessa data.\n\n2 - A certificação conferida com recurso a estimativas cujos dados definitivos não se confirmem implica a alteração, com efeitos retroativos, da certificação anterior, sendo a nova certificação disponibilizada imediatamente por via eletrónica após a introdução e submissão da informação definitiva.\n\n3 - A certificação resultante de erro nos dados preenchidos no formulário eletrónico pode ser objeto de correção no prazo de 30 dias úteis após o pedido.\n\n4 - A correção de dados implica a alteração com efeitos retroativos da certificação anterior.\n\n5 - A certificação é indeferida, com informação imediata prestada por via eletrónica, sempre que:\n\na) O pedido não esteja instruído com todas as informações solicitadas no formulário eletrónico;\n\nb) A empresa não reúna os requisitos de PME.\n\n6 - (Revogado.)\n\n7 - A certificação deve ser renovada anualmente, com a comunicação dos dados definitivos do último exercício completo, após entrega da respetiva declaração anual contabilística e fiscal.\n\n8 - (Revogado.)\n\n9 - O disposto no n.º 7 não se aplica às empresas previstas no n.º 4 do artigo 6.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "131229407": {
+   "fragment_id": "36210775",
+   "type": 11,
+   "heading": "Artigo 8.º — Recusa de certificação",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 8.º — Recusa de certificação\n\nA certificação é objecto de recusa, com informação imediata prestada por via electrónica, sempre que:\n\na) O pedido não esteja instruído com todas as informações solicitadas no formulário electrónico disponibilizado;\n\nb) A instrução do pedido enferme de inexatidões ou outras irregularidades;\n\nc) A entidade certificadora não considere demonstrados alguns dos dados fornecidos pelo requerente.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "131228074": {
+   "fragment_id": "131228442",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Caducidade, invalidade e suspensão da certificação",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01"
+   ],
+   "markdown": "###### Artigo 8.º-A — Caducidade, invalidade e suspensão da certificação\n\n1 - A certificação caduca nos seguintes casos:\n\na) Decurso do prazo de 30 dias úteis após a data limite de entrega da declaração anual contabilística e fiscal sem que os dados definitivos do último exercício completo tenham sido submetidos à entidade certificadora;\n\nb) Cessação da atividade da empresa;\n\nc) Não enquadramento superveniente nos requisitos de PME;\n\nd) Não introdução dos valores definitivos no prazo previsto, em caso de certificação efetuada com recurso a estimativas.\n\n2 - A certificação é nula nos seguintes casos:\n\na) Quando se verifique a existência de factos inverídicos ou inexistentes nos dados declarados e de tais factos resulte a atribuição de um estatuto indevido de micro, ou de pequena ou de média empresa;\n\nb) Quando, por ausência de resposta às solicitações da entidade certificadora previstas no artigo seguinte, não seja possível confirmar o estatuto de micro, ou de pequena ou de média empresa objeto da certificação.\n\n3 - A nulidade é declarada pela entidade certificadora, inscrita no registo a que se refere o n.º 1 do artigo 10.º e notificada à empresa por via eletrónica no prazo de oito dias úteis.\n\n4 - Na situação prevista no número anterior, a empresa pode submeter novo pedido de certificação tendente à obtenção de um estatuto de micro, de pequena ou de média empresa distinto daquele que lhe foi indevidamente atribuído, no prazo de 30 dias úteis contados da data da notificação da declaração de nulidade, anexando, no caso previsto na alínea b) do n.º 2, a respetiva documentação comprovativa.\n\n5 - A certificação prevista no número anterior produz efeitos em data a determinar na decisão do novo pedido.\n\n6 - A certificação prevista no n.º 4 está sujeita ao pagamento de uma taxa, a realizar através da Plataforma de Pagamentos da Administração Pública, nos termos a definir por portaria do membro do Governo responsável pela área da economia.\n\n7 - Sempre que não haja lugar à declaração de nulidade da certificação ao abrigo do disposto no n.º 2, mas se verifique a existência de erros ou omissões nos dados declarados, a empresa é notificada para proceder à sua correção, ficando a certificação suspensa até à submissão da informação corrigida.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01"
+  },
+  "131229408": {
+   "fragment_id": "36210875",
+   "type": 11,
+   "heading": "Artigo 9.º — Revogação da certificação",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+   ],
+   "markdown": "###### Artigo 9.º — Revogação da certificação\n\n1 - A revogação da certificação é aplicável a todo o tempo e tem efeitos retroativos.\n\n2 - A certificação é revogada, sem prejuízo de outras sanções aplicáveis nos termos da lei, quando se verifique alguma das seguintes situações:\n\na) Verificação da existência de falsas declarações ou outros expedientes ilícitos na sua obtenção;\n\nb) Verificação de omissões ou inexatidões nos dados da estrutura societária ou das participações diretas da requerente, ou nos dados das entidades diretamente relacionadas com estes sócios e participadas, a montante e a jusante;\n\nc) Verificação de omissões ou inexatidões nos dados de outras entidades indiretamente relacionadas com a requerente, através de empresas ou de pessoas singulares, não autónomas;\n\nd) Verificação de inexatidões nos dados para determinar a categoria da empresa, referentes aos efetivos, ao volume de negócios e ao balanço total;\n\ne) Verificação de inexatidões ou outras irregularidades não incluídas nas alíneas anteriores.\n\nf) Cessação da actividade da empresa;\n\ng) Verificação de irregularidades graves na administração, organização ou gestão da requerente;\n\nh) Verificação de prática de atos ilícitos que lesem ou ponham em perigo a confiança do público na certificação;\n\ni) Declaração, por sentença judicial, de empresa insolvente ou julgada responsável por insolvência de empresa por ela dominada ou de empresa de cujos órgãos de administração ou fiscalização tenha sido membro;\n\nj) Verificação do não cumprimento do prazo de 30 dias úteis na comunicação das alterações previstas no artigo 13.º;\n\nk) Verificação da não introdução dos valores definitivos no prazo previsto, ou total discrepância entre os valores introduzidos e os valores definitivos, em caso de certificação efectuada com recurso a estimativas;\n\nl) Não enquadramento nos limiares de micro, pequena e média empresa;\n\nm) Ausência de resposta do interessado, no prazo de 30 dias úteis, ao pedido de documentos ou informações complementares realizado pela entidade certificadora no âmbito de averiguação ou de inquirição;\n\nn) Ausência de resposta do interessado, no prazo de 30 dias úteis, às questões colocadas pela entidade certificadora no âmbito de averiguação ou de inquirição;\n\no) É equiparada à ausência de resposta do interessado, prevista nas alíneas m) e n), a resposta parcial, incompleta ou que não reúna condições para provar todos os dados declarados no pedido de certificação ou esclarecer todas as questões colocadas;\n\np) Impossibilidade de a entidade certificadora concretizar as comunicações inerentes aos procedimentos de averiguações ou inquirições, por motivo imputável à empresa requerente.\n\n3 - A revogação da certificação compete à entidade certificadora, e é inscrita no registo a que se refere o n.º 1 do artigo 10.º\n\n4 - A notificação da decisão fundamentada de revogação da certificação é enviada à empresa requerente, por via eletrónica, no prazo de oito dias úteis após a inscrição no registo referida no n.º 1 do artigo 10.º\n\n5 - A revogação da certificação, pelo motivo referido na alínea a) do n.º 2, determina a impossibilidade, pelo período de dois anos, de a empresa requerente obter nova certificação nos termos do presente decreto-lei.\n\n6 - A revogação da certificação, pelo motivo referido na alínea h) do n.º 2, determina a impossibilidade, pelo período de um ano, de a empresa requerente obter nova certificação nos termos do presente decreto-lei.\n\n7 - A revogação da certificação, pelo motivo referido nas alíneas b) e c) do n.º 2, determina a impossibilidade, pelo período de um ano, de a empresa requerente obter nova certificação nos termos do presente decreto-lei, sempre que as omissões ou inexatidões referidas tenham gerado erros na determinação do tipo de empresa.\n\n8 - A revogação da certificação, pelo motivo referido na alínea d) do n.º 2, determina a impossibilidade, pelo período de um ano, de a empresa requerente obter nova certificação nos termos do presente decreto-lei, sempre que as inexatidões sejam geradoras de erros na determinação da categoria da empresa.\n\n9 - A revogação da certificação pelo motivo referido nas alíneas b), c), d) do n.º 2, quando se verificar a obtenção de vantagem indevida proveniente de apoios, subsídios ou outros benefícios públicos, determina a impossibilidade, pelo período de um ano, de a empresa requerente obter nova certificação nos termos do presente decreto-lei.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418) Os n.ºs 5 a 9 do artigo 9.º são revogados pelo Decreto-Lei n.º 13/2020, de 7 de abril, com entrada em vigor no dia 8 de abril de 2020.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a [Decreto-Lei n.º 143/2009 - Diário da República n.º 114/2009, Série I de 2009-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2009-494548), em vigor a partir de 2009-06-21"
+  },
+  "131229385": {
+   "fragment_id": "131228443",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Fiscalização",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Fiscalização\n\n1 - A entidade certificadora pode solicitar às empresas requerentes documentos e informações complementares e proceder, por si ou por quem para o efeito designe, às averiguações e inquirições que se mostrem necessárias e adequadas para confirmar o estatuto de micro, de pequena ou de média empresa objeto da certificação.\n\n2 - As averiguações previstas no número anterior podem ser realizadas de forma aleatória, por amostragem, podendo a entidade certificadora solicitar a colaboração de outros órgãos da Administração Pública ou recorrer ao serviço especializado de consultores externos.\n\n3 - Quando sejam necessários documentos e informações complementares que estejam na posse de outros serviços ou organismos da administração pública, para os efeitos previstos nos números anteriores, a entidade certificadora pode recorrer à Plataforma de Interoperabilidade da Administração Pública para a sua obtenção, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01"
+  },
+  "131229386": {
+   "fragment_id": "36210975",
+   "type": 11,
+   "heading": "Artigo 10.º — Consulta da certificação pelo titular e por entidades autorizadas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Consulta da certificação pelo titular e por entidades autorizadas\n\n1 - A certificação PME é inscrita num registo electrónico a efectuar pelo IAPMEI, I. P., através da Internet.\n\n2 - A comprovação da certificação é prestada aos titulares dos dados fornecidos, bem como a quaisquer entidades, no âmbito de procedimentos administrativos para cuja instrução ou decisão final seja legalmente ou regulamentarmente exigida a apresentação e comprovação do estatuto de micro, de pequena ou de média empresa, designadamente as referidas no n.º 3 do artigo 3.º\n\n3 - A disponibilização de dados às entidades indicadas no número anterior contempla toda a informação prestada pelo titular dos dados fornecidos sem necessidade do seu consentimento para o efeito.\n\n4 - A comprovação da certificação referida nos n.os 2 e 3 é efetuada exclusivamente através de meios eletrónicos, através da consulta ao registo eletrónico referido no n.º 1.\n\n5 - Para comprovar a certificação PME, as entidades referidas devem requerer ao IAPMEI, I. P., uma senha de utilização.\n\n6 - O IAPMEI, I. P., deve assegurar a existência de um registo das consultas efectuadas nos termos do presente artigo, que identifique a data e a entidade que a efectuou.\n\n7 - É conferido ao titular dos dados o direito de acesso ao registo das consultas realizadas nos termos do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "131229387": {
+   "fragment_id": "36211075",
+   "type": 11,
+   "heading": "Artigo 11.º — Consulta da certificação por outras entidades",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 11.º — Consulta da certificação por outras entidades\n\n1 - A consulta simples da certificação de PME, em que é apenas prestada informação respeitante a esta qualidade, estando vedada a divulgação de qualquer outra informação relativa aos titulares dos dados, é disponibilizada pelo IAPMEI, I. P., através da Internet, a todos os interessados nessa informação, mediante identificação prévia.\n\n2 - A consulta prevista no número anterior depende do consentimento prestado, de forma expressa e inequívoca, pelo titular dos dados no sítio da Internet da certificação PME.\n\n3 - O consentimento prestado nos termos do número anterior pode ser revogado a todo o tempo pelo titular dos dados através dos meios disponibilizados no sítio da Internet referido.\n\n4 - À consulta prevista no presente artigo são aplicáveis as disposições constantes dos n.os 6 e 7 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "131229388": {
+   "fragment_id": "36211175",
+   "type": 11,
+   "heading": "Artigo 12.º — Anomalias no processo de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Anomalias no processo de certificação\n\nSe por qualquer motivo deixarem de estar preenchidas as condições necessárias ao normal funcionamento do processo de certificação, este mantém-se suspenso por prazo a fixar pela entidade certificadora."
+  },
+  "131229406": {
+   "fragment_id": "36211275",
+   "type": 11,
+   "heading": "Artigo 13.º — Comunicação de alterações",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Comunicação de alterações\n\n1 - As empresas certificadas devem comunicar ao IAPMEI, I. P., através de formulário disponibilizado eletronicamente, as alterações aos dados declarados no processo de certificação a que se referem as alíneas a), b) e c) do n.º 1 do artigo 6.º\n\n2 - (Revogado.)\n\n3 - As alterações previstas no n.º 1 têm que ser comunicadas à entidade certificadora no prazo de 30 dias úteis após a ocorrência.\n\n4 - As alterações comunicadas têm efeitos retroativos à data da ocorrência comunicada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "131229390": {
+   "fragment_id": "36211375",
+   "type": 11,
+   "heading": "Artigo 14.º — Protecção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Protecção de dados\n\n1 - A entidade certificadora só pode coligir dados pessoais necessários ao exercício das suas actividades e obtê-los directamente dos interessados na titularidade da certificação PME, ou de terceiros junto dos quais aqueles autorizem a sua colecta.\n\n2 - Os dados fornecidos pelos interessados e coligidos pela entidade certificadora não poderão ser utilizados para outra finalidade que não sejam as indicadas no artigo 5.º do presente decreto-lei, salvo se outro uso for consentido expressamente por lei ou pelo interessado.\n\n3 - A entidade certificadora respeitará as normas legais vigentes sobre a protecção de dados pessoais e sobre a protecção da privacidade no sector das telecomunicações, bem como assegurará a salvaguarda da confidencialidade das informações obtidas."
+  },
+  "131229391": {
+   "fragment_id": "107614136",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Regulamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 14.º-A — Regulamento\n\nAs normas necessárias ao preenchimento dos formulários eletrónicos são objeto de regulamento a aprovar pelo IAPMEI, I. P.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), em vigor a partir de 2017-07-01"
+  },
+  "131229392": {
+   "fragment_id": "36211475",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados os Despachos Normativos n.os 52/87, de 24 de Junho, e 38/88, de 16 de Maio."
+  },
+  "131229393": {
+   "fragment_id": "36211675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - António José de Castro Guerra.\n\nPromulgado em 22 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "131229394": {
+   "fragment_id": "36211575",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  }
+ }
+}

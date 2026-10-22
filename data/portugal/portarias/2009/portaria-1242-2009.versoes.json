@@ -1,0 +1,673 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:491696:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-887070296",
+ "dre_path": "/dr/detalhe/portaria/1242-2009-491696",
+ "source_lastmod": "2024-09-05",
+ "versions": [
+  {
+   "date": "2009-10-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887207688",
+    "887070206",
+    "887070207",
+    "887070208",
+    "887070209",
+    "887070211",
+    "887070212",
+    "887070213",
+    "887070214",
+    "887070215",
+    "887070216",
+    "887070217",
+    "887070218",
+    "887070219",
+    "887070220",
+    "887070221",
+    "887070222",
+    "887070223",
+    "887070224",
+    "887070225",
+    "887070226",
+    "887070227",
+    "887070228",
+    "887070229",
+    "887070230"
+   ]
+  },
+  {
+   "date": "2009-11-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483434:por",
+     "title": "Portaria n.º 1386/2009",
+     "published": "2009-11-10",
+     "dre_path": "/dr/detalhe/portaria/1386-2009-483434"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "887070205",
+    "887070206",
+    "887070207",
+    "887070239",
+    "887070209",
+    "887070210",
+    "887070211",
+    "887070212",
+    "887070213",
+    "887070214",
+    "887070215",
+    "887070216",
+    "887070217",
+    "887070218",
+    "887070219",
+    "887070220",
+    "887070221",
+    "887070222",
+    "887070223",
+    "887070224",
+    "887070225",
+    "887070226",
+    "887070227",
+    "887070228",
+    "887070229",
+    "887070230"
+   ]
+  },
+  {
+   "date": "2012-07-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178547:por",
+     "title": "Portaria n.º 206/2012",
+     "published": "2012-07-05",
+     "dre_path": "/dr/detalhe/portaria/206-2012-178547"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "887070205",
+    "887070206",
+    "887070207",
+    "887070239",
+    "887070209",
+    "887070210",
+    "887070211",
+    "887070212",
+    "887070213",
+    "887070214",
+    "887070215",
+    "887070251",
+    "887070217",
+    "887070252",
+    "887070219",
+    "887070220",
+    "887070221",
+    "887070222",
+    "887070223",
+    "887070224",
+    "887070225",
+    "887070226",
+    "887070227",
+    "887070228",
+    "887070229",
+    "887070230"
+   ]
+  },
+  {
+   "date": "2015-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70748600:por",
+     "title": "Portaria n.º 375/2015",
+     "published": "2015-10-20",
+     "dre_path": "/dr/detalhe/portaria/375-2015-70748600"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "887207688",
+    "887207689",
+    "887207690",
+    "887207691",
+    "887207692",
+    "887207693",
+    "887207694",
+    "887207695",
+    "887207696",
+    "887207697",
+    "887207698",
+    "887207699",
+    "887207700",
+    "887207701",
+    "887207702",
+    "887207703",
+    "887207704",
+    "887207705",
+    "887207706",
+    "887207707",
+    "887207708",
+    "887207709",
+    "887207710",
+    "887207711",
+    "887207712",
+    "887207713"
+   ]
+  }
+ ],
+ "fragments": {
+  "887207688": {
+   "fragment_id": "887070297",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2015-10-21",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1242/2009\n\nde 12 de Outubro\n\nO Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única»), instituiu, por via da alteração introduzida pelo Regulamento (CE) n.º 13/2009, do Conselho, de 18 de Dezembro de 2008, artigo 4.º e alínea f) do artigo 103.º-H, uma ajuda comunitária no quadro de um regime de distribuição de frutas e hortícolas nas escolas.\n\nO Regulamento (CE) n.º 288/2009, da Comissão, de 7 de Abril, estabeleceu, por seu turno, as normas de execução no que respeita à ajuda para a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados, bananas e produtos derivados às crianças nos estabelecimentos de ensino, no quadro do regime de distribuição de fruta nas escolas.\n\nEnquanto Estado membro aderente à iniciativa, incumbe ao Estado Português concretizar no plano nacional a participação no referido regime de distribuição de fruta e produtos hortícolas nas escolas, sendo de salientar que o presente regime não pretende substituir programas já existentes, caso em que apenas se pode constituir como reforço.\n\nAssim, a presente portaria, em complementaridade com a Estratégia Nacional do Regime de Fruta Escolar, propõe-se contribuir para a promoção de hábitos de consumo de alimentos benéficos para a saúde das populações mais jovens e para a redução dos custos sociais e económicos associados a regimes alimentares menos saudáveis. Prevê-se, no ano de arranque do RFE, uma disponibilidade orçamental inicial, entre fundos nacionais e da União Europeia, suficientes para a disponibilização dos produtos pelo menos duas vezes por semana à população escolar abrangida.\n\nO Regulamento do Regime de Fruta Escolar (RFE), lança mão de um processo de coordenação da actuação da administração central, através dos Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e da Educação e dos municípios. O RFE propõe-se, anualmente, avaliar as necessidades, disponibilizar os produtos, monitorizar e, quinquenalmente, avaliar o programa. Paralelamente, dispõe sobre medidas de acompanhamento destinadas a facilitar a introdução dos novos hábitos. Define ainda os termos da concretização das obrigações de controlo e comunicação fixadas pela União Europeia e pelo Estado Português para a utilização dos fundos comunitários e nacionais postos à disposição desta iniciativa.\n\nAssim:\n\nAo abrigo do disposto no Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, e no Regulamento (CE) n.º 288/2009, da Comissão, de 7 de Abril:\n\nManda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e da Educação, o seguinte:"
+  },
+  "887070206": {
+   "fragment_id": "887070298",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento do Regime de Fruta Escolar, abreviadamente designado por RFE."
+  },
+  "887070207": {
+   "fragment_id": "887070299",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Regulamento referido no artigo 1.º contém os seguintes anexos, que dele fazem parte integrante:\n\na) Anexo I, relativo aos compromissos das entidades requerentes de ajuda;\n\nb) Anexo II, relativo às medidas de acompanhamento."
+  },
+  "887070208": {
+   "fragment_id": "887070300",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - No ano lectivo de 2009-2010, a distribuição de produtos à população escolar abrangida pelo RFE tem início na 2.ª quinzena de Outubro de 2009.\n\n2 - São elegíveis para o ano lectivo de 2009-2010, observando-se, para efeito de controlo, a seguinte relação unidades/peso dos produtos:\n\na) Maçã: 8-10 unidades/kg;\n\nb) Pêra: 8-10 unidades/kg;\n\nc) Clementina: 10/14 unidades/kg;\n\nd) Tangerina: 10/14 unidades/kg;\n\ne) Banana: 5-6 unidades/kg;\n\nf) Cenoura: 11-16 unidades/kg;\n\ng) Tomate: 9-15 unidades/kg.\n\n3 - No ano lectivo de 2009-2010, o custo elegível da unidade dos produtos não excederá o montante médio de (euro) 0,18/unidade para duas disponibilizações semanais, tendo por referência a totalidade das quantidades a que respeita cada pedido de pagamento.\n\n4 - Os montantes consignados para distribuição gratuita e para medidas de acompanhamento no ano lectivo de 2009-2010 são, respectivamente, (euro) 4 899 371 e (euro) 265 295.\n\n5 - Os pedidos de aprovação de entidades requerentes de ajudas no âmbito do RFE no ano lectivo de 2009-2010 são apresentados no prazo de 20 dias úteis contados da entrada em vigor do presente diploma.\n\n6 - As propostas de medidas de acompanhamento a implementar no ano lectivo de 2009-2010 são apresentadas até 15 de Novembro às direcções regionais de educação (DRE), e a respectiva decisão comunicada ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), e aos municípios, até ao dia 15 de Dezembro.\n\n7 - O cartaz previsto no artigo 14.º do Regulamento (CE) n.º 288/2009 será elaborado com a participação dos alunos do 1.º ciclo dos agrupamentos de escolas e escolas não agrupadas, destinatários do RFE."
+  },
+  "887070209": {
+   "fragment_id": "887070301",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "887070211": {
+   "fragment_id": "887070303",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO REGIME DE FRUTA ESCOLAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO REGIME DE FRUTA ESCOLAR"
+  },
+  "887070212": {
+   "fragment_id": "887070304",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "887070213": {
+   "fragment_id": "887070305",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma institui o regime de fruta escolar (RFE), estabelecendo as regras nacionais complementares do regime de ajuda para a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados, bananas e produtos derivados às crianças nos estabelecimentos de ensino, no quadro do regime europeu de distribuição de fruta nas escolas, e de certos custos conexos, previsto no Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, e no Regulamento (CE) n.º 288/2009, da Comissão, de 7 de Abril."
+  },
+  "887070214": {
+   "fragment_id": "887070306",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO RFE aplica-se nos estabelecimentos de ensino público aos alunos que frequentam o 1.º ciclo dos agrupamentos de escolas e escolas não agrupadas."
+  },
+  "887070215": {
+   "fragment_id": "887070307",
+   "type": 11,
+   "heading": "Artigo 3.º — Estratégia Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estratégia Nacional\n\nO Gabinete de Planeamento e Políticas (GPP), do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, reúne os contributos das entidades designadas pelos ministérios responsáveis pelos sectores da agricultura, da educação e da saúde e pelos Governos Regionais dos Açores e da Madeira, envolvidas na aplicação do RFE, para elaboração e revisão da Estratégia Nacional do Regime de Fruta Escolar, adiante designada «Estratégia Nacional»."
+  },
+  "887070216": {
+   "fragment_id": "887070308",
+   "type": 11,
+   "heading": "Artigo 4.º — Produtos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produtos elegíveis\n\n1 - A lista das frutas e produtos a que se refere o artigo 1.º, adiante designados «produtos», é aprovada após parecer favorável do Ministério da Saúde e é parte integrante da Estratégia Nacional.\n\n2 - No âmbito da Estratégia Nacional, a Direcção-Geral da Saúde (DGS), ouvido o GPP, define as regras de distribuição dos produtos, nomeadamente de acondicionamento, calibres, calendário e rotação dos produtos na distribuição.\n\n3 - Os produtos devem, preferencialmente, obedecer aos regimes públicos de qualidade certificada de produção Integrada, de modo de produção biológico, de denominação de origem protegida, de indicação geográfica protegida ou de protecção integrada.\n\n4 - A aquisição dos produtos não submetidos aos regimes referidos no número anterior é limitada a 50 % dos montantes a aplicar em cada ano lectivo na respectiva aquisição.\n\n> Nota: [Artigo 5.º, Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547) A alteração introduzida ao presente artigo pela Portaria n.º 206/2012, aplica-se ao ano letivo 2011-2012."
+  },
+  "887070217": {
+   "fragment_id": "887070309",
+   "type": 11,
+   "heading": "Artigo 5.º — Custos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Custos elegíveis\n\n1 - São elegíveis, no âmbito do RFE:\n\na) O custo dos produtos referidos no artigo 1.º;\n\nb) Custos de aplicação do RFE, relativos às seguintes operações:\n\ni) Monitorização e avaliação, a que alude o artigo 12.º do Regulamento (CE) n.º 288/2009;\n\nii) Comunicação a que alude a subalínea ii) da alínea b) do artigo 5.º do Regulamento (CE) n.º 288/2009, incluídos os custos do cartaz referido no n.º 1 do artigo 14.º do mesmo Regulamento;\n\niii) Implementação das medidas de acompanhamento a que alude o artigo 3.º do Regulamento (CE) n.º 288/2009.\n\n2 - A ajuda respeitante aos custos elegíveis previstos do número anterior é paga até ao limite do montante fixado anualmente por despacho conjunto dos ministros responsáveis pelos sectores da agricultura, da educação e da saúde, considerando o número de alunos indicados pelos estabelecimentos de ensino referidos no artigo 2.º aderentes, inscritos no ano lectivo anterior, uma vez decidida a dotação definitiva da ajuda comunitária prevista no n.º 4 do artigo 4.º do Regulamento (CE) n.º 288/2009.\n\n3 - O fornecimento gratuito aos estabelecimentos de ensino e os custos com o transporte e distribuição dos produtos facturados em separado conferem o direito ao pagamento das despesas comprovadamente efectuadas com o transporte e distribuição, até ao limite máximo de 3 % do custo dos produtos.\n\n4 - No ano de realização do exercício de avaliação a que se refere o artigo 12.º do Regulamento (CE) n.º 288/2009, o montante total dos custos com monitorização e avaliação a título da subalínea i) da alínea b) do n.º 1, a fixar nos termos do n.º 2, não pode exceder 10 % da ajuda comunitária atribuída para o ano dessa avaliação.\n\n5 - Os custos de comunicação referidos na subalínea ii) da alínea b) do n.º 1 são pagos até ao limite do montante a fixar nos termos do n.º 2, sem exceder 5 % do montante da ajuda comunitária atribuída, e não são cumuláveis com outros regimes de ajuda comunitária.\n\n6 - Os custos com a implementação das medidas de acompanhamento, a título da subalínea iii) da alínea b) do n.º 1, são pagos até ao limite do montante a fixar nos termos do n.º 2."
+  },
+  "887070218": {
+   "fragment_id": "887070310",
+   "type": 11,
+   "heading": "Artigo 6.º — Ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ajudas\n\n1 - Podem requerer a concessão da ajuda:\n\na) Os municípios, para o fornecimento e disponibilização dos produtos e para as medidas de acompanhamento;\n\nb) As entidades definidas na Estratégia Nacional, para o pagamento das despesas com a comunicação;\n\nc) As entidades referidas no artigo 8.º, para realização da monitorização e avaliação do RFE.\n\n2 - As entidades referidas no número anterior carecem de aprovação junto do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), até 31 de Julho de cada ano, a qual se encontra sujeita à assunção escrita dos compromissos constantes do anexo i.\n\n3 - A suspensão e revogação da aprovação a que se refere o número anterior obedecem ao regime previsto no artigo 9.º do Regulamento (CE) n.º 288/2009.\n\n> Nota: [Artigo 5.º, Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547) A alteração introduzida ao presente artigo pela Portaria n.º 206/2012, aplica-se ao ano letivo 2011-2012."
+  },
+  "887070219": {
+   "fragment_id": "887070311",
+   "type": 11,
+   "heading": "Artigo 7.º — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas de acompanhamento\n\n1 - O presente regime está sujeito à aplicação de uma ou mais das medidas de acompanhamento constantes no anexo ii, tendo em conta os objectivos definidos, a suficiência das medidas e as disponibilidades orçamentais.\n\n2 - A aplicação das medidas referidas no número anterior, acessíveis a todos os alunos, é obrigatória.\n\n3 - O IFAP, I. P., define o montante máximo disponível para ajuda às medidas de acompanhamento por estabelecimento de ensino e município, em função do número de alunos dos estabelecimentos de ensino referidos no artigo 2.º aderentes, inscritos no ano lectivo anterior, após fixação da dotação definitiva de ajuda comunitária prevista no n.º 4 do artigo 4.º do Regulamento (CE) n.º 288/2009, comunicando-o às direcções regionais de educação (DRE) e aos municípios.\n\n4 - Os estabelecimentos de ensino apresentam às DRE, até ao dia 15 de Outubro de cada ano lectivo, propostas de medidas a implementar adequadas às disponibilidades orçamentais.\n\n5 - As DRE comunicam ao IFAP, I. P., e aos municípios, até ao dia 31 de Outubro de cada ano lectivo, as medidas de acompanhamento aprovadas."
+  },
+  "887070220": {
+   "fragment_id": "887070312",
+   "type": 11,
+   "heading": "Artigo 8.º — Monitorização e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Monitorização e avaliação\n\nA DGS monitoriza e avalia o RFE, nos termos do artigo 12.º do Regulamento (CE) n.º 288/2009, em articulação com a Direcção-Geral da Inovação e Desenvolvimento Curricular, do Ministério da Educação, com o GPP e com o IFAP, I. P., nos termos definidos na Estratégia Nacional."
+  },
+  "887070221": {
+   "fragment_id": "887070313",
+   "type": 11,
+   "heading": "Artigo 9.º — Integração curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Integração curricular\n\n1 - O Ministério de Educação promove a adaptação e integração do RFE nos currículos escolares.\n\n2 - O Ministério de Educação elabora e revê as linhas de orientação pedagógicas relativas ao cartaz a que alude o artigo 14.º do Regulamento (CE) n.º 288/2009."
+  },
+  "887070222": {
+   "fragment_id": "887070314",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento"
+  },
+  "887070223": {
+   "fragment_id": "887070315",
+   "type": 11,
+   "heading": "Artigo 10.º — Pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pedidos de pagamento\n\n1 - Os pedidos de pagamento, de periodicidade trimestral, são apresentados ao IFAP, I. P., em modelo próprio, correctamente preenchido, até ao último dia do 3.º mês subsequente ao final dos trimestres lectivos anualmente definidos, sob pena de aplicação das sanções previstas no artigo 11.º do Regulamento (CE) n.º 288/2009.\n\n2 - Os pedidos de pagamento são acompanhados:\n\na) Dos documentos comprovativos das despesas efectuadas, especificando as quantidades efectivamente entregues e do preço unitário dos produtos, bem como os registos referidos na alínea g) do n.º 1 do anexo i;\n\nb) Quando aplicável, dos certificados de conformidade relativos aos regimes de qualidade referidos no n.º 3 do artigo 4.º\n\n3 - Para efeitos do n.º 1 do presente artigo, os municípios apresentam os pedidos de pagamento na direcção regional de educação respectiva, a qual remete todos os pedidos ao IFAP, I. P., no prazo de 10 dias.\n\n4 - Aos pedidos de pagamento relativos à monitorização, avaliação, comunicação e às medidas de acompanhamento aplica-se, com as devidas adaptações, o disposto nos números anteriores.\n\n5 - O IFAP, I. P., efectua os pagamentos no prazo máximo de três meses contados da data da apresentação de um pedido correctamente preenchido e válido."
+  },
+  "887070224": {
+   "fragment_id": "887070316",
+   "type": 1,
+   "heading": "Capítulo III — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Controlo"
+  },
+  "887070225": {
+   "fragment_id": "887070317",
+   "type": 11,
+   "heading": "Artigo 11.º — Controlo e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Controlo e sanções\n\nO IFAP, I. P., procede aos controlos e aplica as sanções previstas no Regulamento (CE) n.º 288/2009."
+  },
+  "887070226": {
+   "fragment_id": "887070318",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "887070227": {
+   "fragment_id": "887070319",
+   "type": 11,
+   "heading": "Artigo 12.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comunicações\n\nO GPP reúne os contributos das entidades envolvidas na aplicação do RFE, em vista da elaboração dos relatórios e da realização das comunicações previstas no artigo 15.º do Regulamento (CE) n.º 288/2009."
+  },
+  "887070228": {
+   "fragment_id": "887070320",
+   "type": 11,
+   "heading": "Artigo 13.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regiões Autónomas\n\nSem prejuízo do disposto no artigo 2.º, a adaptação do presente regime às Regiões Autónomas efectua-se por diploma próprio."
+  },
+  "887070229": {
+   "fragment_id": "887070321",
+   "type": 14,
+   "heading": "Anexo I — Compromissos das entidades requerentes de ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Compromissos das entidades requerentes de ajuda\n\n(a que se refere o artigo 6.º do Regulamento do Regime de Fruta Escolar)\n\n1 - As entidades a que se refere o artigo 6.º do RFE, responsáveis pelo fornecimento e disponibilização dos produtos, assumem os seguintes compromissos:\n\na) Utilizar os produtos financiados no quadro do Regulamento do Regime de Fruta Escolar para consumo pelas crianças nos estabelecimentos de ensino para os quais solicitem uma ajuda;\n\nb) Adequar a gestão dos montantes que lhes são afectos com vista a garantir a disponibilização dos produtos do RFE à população alvo, com a frequência e calendarização definidas;\n\nc) Reembolsar as ajudas pagas indevidamente quando se verifique que os produtos em causa não são distribuídos às crianças referidas no artigo 2.º do RFE ou quando a ajuda é paga para produtos não elegíveis a título do RFE;\n\nd) Pagar, em caso de fraude ou de negligência grave, um montante igual à diferença entre o montante pago inicialmente e o montante a que tenha direito;\n\ne) Disponibilizar os documentos justificativos às autoridades competentes, quando solicitado;\n\nf) Sujeitar a qualquer verificação decidida pelas autoridades competentes, nomeadamente no que respeita ao exame de registos e a inspecções materiais;\n\ng) Manter os registos dos nomes e endereços dos estabelecimentos de ensino, dos produtos e quantidades fornecidos a esses estabelecimentos, bem como dos produtos e quantidades efectivamente consumidos, por aluno;\n\nh) Ajustar a frequência das entregas e das quantidades a distribuir por alteração da disponibilidade orçamental do RFE;\n\ni) Comunicar ao IFAP, I. P., até 31 de Julho, o número de alunos dos estabelecimentos de ensino referidos no artigo 2.º aderentes, inscritos no ano lectivo cessante, após fixação da dotação definitiva de ajuda comunitária prevista no n.º 4 do artigo 4.º do Regulamento (CE) n.º 288/2009;\n\nj) Articular com elementos a designar pelos estabelecimentos de ensino, com vista a possibilitar o cumprimento, por estes, do dever de efectiva disponibilização dos produtos.\n\n2 - Às entidades a que se refere o artigo 6.º do RFE, responsáveis pelas medidas de acompanhamento e pela avaliação e monitorização, aplica-se, com as devidas adaptações, o disposto no número anterior."
+  },
+  "887070230": {
+   "fragment_id": "887070322",
+   "type": 14,
+   "heading": "Anexo II — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Medidas de acompanhamento\n\n(a que se refere o artigo 7.º do Regulamento do Regime de Fruta Escolar)\n\nSão consideradas medidas de acompanhamento todas as acções que visem promover o consumo de fruta, designadamente:\n\na) Organização de visitas a quintas, mercados e centrais hortofrutícolas;\n\nb) Instalação de canteiros nas escolas, para estabelecimento de uma ligação à origem do produto;\n\nc) Fornecimento de materiais didácticos (livros, cadernos de actividades, concursos, jogos, cartões ou fichas técnicas com as designações dos frutos ou hortícolas, CDROM informativo);\n\nd) Fornecimento de folhetos para as crianças, cativando a sua curiosidade pelo tema;\n\ne) Fornecimento de pequeno saco de sementes para a sementeira da criança;\n\nf) Realização ou visualização pelas crianças de vídeos ou filmes alusivos ao programa;\n\ng) Realização de actividades lúdicas: teatros, danças, canções, poemas, alusivos ao programa;\n\nh) Realização de actividades que dependam e contribuam para o sítio institucional na Internet do RFE;\n\ni) Fornecimento aos professores de livros e outro material didáctico, para ensino às crianças de hábitos de alimentação saudáveis;\n\nj) Atribuição de prémios ou recompensas incentivadores do consumo dos produtos;\n\nl) Iniciativas que visem potenciar o RFE junto dos agregados familiares das crianças."
+  },
+  "887070205": {
+   "fragment_id": "887070297",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1242/2009\n\nde 12 de Outubro\n\nO Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única»), instituiu, por via da alteração introduzida pelo Regulamento (CE) n.º 13/2009, do Conselho, de 18 de Dezembro de 2008, artigo 4.º e alínea f) do artigo 103.º-H, uma ajuda comunitária no quadro de um regime de distribuição de frutas e hortícolas nas escolas.\n\nO Regulamento (CE) n.º 288/2009, da Comissão, de 7 de Abril, estabeleceu, por seu turno, as normas de execução no que respeita à ajuda para a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados, bananas e produtos derivados às crianças nos estabelecimentos de ensino, no quadro do regime de distribuição de fruta nas escolas.\n\nEnquanto Estado membro aderente à iniciativa, incumbe ao Estado Português concretizar no plano nacional a participação no referido regime de distribuição de fruta e produtos hortícolas nas escolas, sendo de salientar que o presente regime não pretende substituir programas já existentes, caso em que apenas se pode constituir como reforço.\n\nAssim, a presente portaria, em complementaridade com a Estratégia Nacional do Regime de Fruta Escolar, propõe-se contribuir para a promoção de hábitos de consumo de alimentos benéficos para a saúde das populações mais jovens e para a redução dos custos sociais e económicos associados a regimes alimentares menos saudáveis. Prevê-se, no ano de arranque do RFE, uma disponibilidade orçamental inicial, entre fundos nacionais e da União Europeia, suficientes para a disponibilização dos produtos pelo menos duas vezes por semana à população escolar abrangida.\n\nO Regulamento do Regime de Fruta Escolar (RFE), lança mão de um processo de coordenação da actuação da administração central, através dos Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e da Educação e dos municípios. O RFE propõe-se, anualmente, avaliar as necessidades, disponibilizar os produtos, monitorizar e, quinquenalmente, avaliar o programa. Paralelamente, dispõe sobre medidas de acompanhamento destinadas a facilitar a introdução dos novos hábitos. Define ainda os termos da concretização das obrigações de controlo e comunicação fixadas pela União Europeia e pelo Estado Português para a utilização dos fundos comunitários e nacionais postos à disposição desta iniciativa.\n\nAssim:\n\nAo abrigo do disposto no Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, e no Regulamento (CE) n.º 288/2009, da Comissão, de 7 de Abril:\n\nManda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e da Educação, o seguinte:"
+  },
+  "887070239": {
+   "fragment_id": "887070300",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2009-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1386/2009 - Diário da República n.º 218/2009, Série I de 2009-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/1386-2009-483434), em vigor a partir de 2009-11-11"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - No ano lectivo de 2009-2010, a distribuição de produtos à população escolar abrangida pelo RFE tem início na 2.ª quinzena de Outubro de 2009.\n\n2 - São elegíveis para o ano lectivo de 2009-2010, observando-se, para efeito de controlo, a seguinte relação unidades/peso dos produtos:\n\na) Maçã: 8-10 unidades/kg;\n\nb) Pêra: 8-10 unidades/kg;\n\nc) Clementina: 10/14 unidades/kg;\n\nd) Tangerina: 10/14 unidades/kg;\n\ne) Banana: 5-6 unidades/kg;\n\nf) Cenoura: 11-16 unidades/kg;\n\ng) Tomate: 9-15 unidades/kg.\n\n3 - No ano lectivo de 2009-2010, o custo elegível da unidade dos produtos não excederá o montante médio de (euro) 0,18/unidade para duas disponibilizações semanais, tendo por referência a totalidade das quantidades a que respeita cada pedido de pagamento.\n\n4 - Os montantes consignados para distribuição gratuita e para medidas de acompanhamento no ano lectivo de 2009-2010 são, respectivamente, (euro) 4 899 371 e (euro) 265 295.\n\n5 - Os pedidos de aprovação de entidades requerentes de ajudas no âmbito do RFE no ano lectivo de 2009-2010 são apresentados até ao dia 15 de Dezembro de 2009.\n\n6 - As propostas de medidas de acompanhamento a implementar no ano lectivo de 2009-2010 são apresentadas até 15 de Janeiro de 2010 às direcções regionais de educação (DRE), e a respectiva decisão comunicada ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) e aos municípios, até ao dia 15 de Fevereiro de 2010.\n\n7 - O cartaz previsto no artigo 14.º do Regulamento (CE) n.º 288/2009 será elaborado com a participação dos alunos do 1.º ciclo dos agrupamentos de escolas e escolas não agrupadas, destinatários do RFE.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1386/2009 - Diário da República n.º 218/2009, Série I de 2009-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/1386-2009-483434), em vigor a partir de 2009-11-11"
+  },
+  "887070210": {
+   "fragment_id": "887070302",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 2 de Outubro de 2009. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 8 de Outubro de 2009. - Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação, em 2 de Outubro de 2009."
+  },
+  "887070251": {
+   "fragment_id": "887070308",
+   "type": 11,
+   "heading": "Artigo 4.º — Produtos elegíveis",
+   "in_force_from": "2012-07-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547), em vigor a partir de 2012-07-06"
+   ],
+   "markdown": "###### Artigo 4.º — Produtos elegíveis\n\n1 - A lista das frutas e produtos a que se refere o artigo 1.º, adiante designados «produtos», é aprovada após parecer favorável do Ministério da Saúde e é parte integrante da Estratégia Nacional.\n\n2 - No âmbito da Estratégia Nacional, a Direcção-Geral da Saúde (DGS), ouvido o GPP, define as regras de distribuição dos produtos, nomeadamente de acondicionamento, calibres, calendário e rotação dos produtos na distribuição.\n\n3 - Os produtos devem, preferencialmente, obedecer aos regimes públicos de qualidade certificada de produção Integrada, de modo de produção biológico, de denominação de origem protegida, de indicação geográfica protegida ou de protecção integrada.\n\n4 - A elegibilidade dos produtos não submetidos aos regimes referidos no número anterior é limitada a 66 % do valor da aquisição ou das distribuições aos alunos.\n\n> Nota: [Artigo 5.º, Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547) A alteração introduzida ao presente artigo pela Portaria n.º 206/2012, aplica-se ao ano letivo 2011-2012.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547), em vigor a partir de 2012-07-06"
+  },
+  "887070252": {
+   "fragment_id": "887070310",
+   "type": 11,
+   "heading": "Artigo 6.º — Ajudas",
+   "in_force_from": "2012-07-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547), em vigor a partir de 2012-07-06"
+   ],
+   "markdown": "###### Artigo 6.º — Ajudas\n\n1 - Podem requerer a concessão da ajuda:\n\na) Os municípios, para o fornecimento e disponibilização dos produtos e para as medidas de acompanhamento;\n\nb) As entidades definidas na Estratégia Nacional, para o pagamento das despesas com a comunicação;\n\nc) As entidades referidas no artigo 8.º, para realização da monitorização e avaliação do RFE.\n\n2 - As entidades referidas no número anterior apresentam os pedidos de aprovação junto do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), até 31 de julho de cada ano devidamente acompanhados de declaração de cumprimento dos compromissos constantes do anexo i.\n\n3 - O IFAP procede à aprovação das entidades referidas no n.º 1 do presente artigo até 30 de setembro de cada ano.\n\n4 - A suspensão e revogação da aprovação a que se refere o número anterior obedecem ao regime previsto no artigo 9.º do Regulamento (CE) n.º 288/2009.\n\n> Nota: [Artigo 5.º, Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547) A alteração introduzida ao presente artigo pela Portaria n.º 206/2012, aplica-se ao ano letivo 2011-2012.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547), em vigor a partir de 2012-07-06"
+  },
+  "887207689": {
+   "fragment_id": "887070298",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento do Regime de Fruta Escolar, abreviadamente designado por RFE.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207690": {
+   "fragment_id": "887070299",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO Regulamento referido no artigo 1.º contém os seguintes anexos, que dele fazem parte integrante:\n\na) Anexo I, relativo aos compromissos das entidades requerentes de ajuda;\n\nb) Anexo II, relativo às medidas de acompanhamento.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207691": {
+   "fragment_id": "887070300",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1386/2009 - Diário da República n.º 218/2009, Série I de 2009-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/1386-2009-483434), em vigor a partir de 2009-11-11"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - No ano lectivo de 2009-2010, a distribuição de produtos à população escolar abrangida pelo RFE tem início na 2.ª quinzena de Outubro de 2009.\n\n2 - São elegíveis para o ano lectivo de 2009-2010, observando-se, para efeito de controlo, a seguinte relação unidades/peso dos produtos:\n\na) Maçã: 8-10 unidades/kg;\n\nb) Pêra: 8-10 unidades/kg;\n\nc) Clementina: 10/14 unidades/kg;\n\nd) Tangerina: 10/14 unidades/kg;\n\ne) Banana: 5-6 unidades/kg;\n\nf) Cenoura: 11-16 unidades/kg;\n\ng) Tomate: 9-15 unidades/kg.\n\n3 - No ano lectivo de 2009-2010, o custo elegível da unidade dos produtos não excederá o montante médio de (euro) 0,18/unidade para duas disponibilizações semanais, tendo por referência a totalidade das quantidades a que respeita cada pedido de pagamento.\n\n4 - Os montantes consignados para distribuição gratuita e para medidas de acompanhamento no ano lectivo de 2009-2010 são, respectivamente, (euro) 4 899 371 e (euro) 265 295.\n\n5 - Os pedidos de aprovação de entidades requerentes de ajudas no âmbito do RFE no ano lectivo de 2009-2010 são apresentados até ao dia 15 de Dezembro de 2009.\n\n6 - As propostas de medidas de acompanhamento a implementar no ano lectivo de 2009-2010 são apresentadas até 15 de Janeiro de 2010 às direcções regionais de educação (DRE), e a respectiva decisão comunicada ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) e aos municípios, até ao dia 15 de Fevereiro de 2010.\n\n7 - O cartaz previsto no artigo 14.º do Regulamento (CE) n.º 288/2009 será elaborado com a participação dos alunos do 1.º ciclo dos agrupamentos de escolas e escolas não agrupadas, destinatários do RFE.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1386/2009 - Diário da República n.º 218/2009, Série I de 2009-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/1386-2009-483434), em vigor a partir de 2009-11-11"
+  },
+  "887207692": {
+   "fragment_id": "887070301",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207693": {
+   "fragment_id": "887070302",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 2 de Outubro de 2009. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 8 de Outubro de 2009. - Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação, em 2 de Outubro de 2009.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207694": {
+   "fragment_id": "887070303",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO REGIME DE FRUTA ESCOLAR",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "## Anexo — REGULAMENTO DO REGIME DE FRUTA ESCOLAR\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207695": {
+   "fragment_id": "887070304",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207696": {
+   "fragment_id": "887070305",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma institui o regime de fruta escolar (RFE), estabelecendo as regras nacionais complementares do regime de ajuda para a distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados, bananas e produtos derivados às crianças nos estabelecimentos de ensino, no quadro do regime europeu de distribuição de fruta nas escolas, e de certos custos conexos, previsto no Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, e no Regulamento (CE) n.º 288/2009, da Comissão, de 7 de Abril.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207697": {
+   "fragment_id": "887070306",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO RFE aplica-se nos estabelecimentos de ensino público aos alunos que frequentam o 1.º ciclo dos agrupamentos de escolas e escolas não agrupadas.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207698": {
+   "fragment_id": "887070307",
+   "type": 11,
+   "heading": "Artigo 3.º — Estratégia Nacional",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Estratégia Nacional\n\nO Gabinete de Planeamento e Políticas (GPP), do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, reúne os contributos das entidades designadas pelos ministérios responsáveis pelos sectores da agricultura, da educação e da saúde e pelos Governos Regionais dos Açores e da Madeira, envolvidas na aplicação do RFE, para elaboração e revisão da Estratégia Nacional do Regime de Fruta Escolar, adiante designada «Estratégia Nacional».\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207699": {
+   "fragment_id": "887070308",
+   "type": 11,
+   "heading": "Artigo 4.º — Produtos elegíveis",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547), em vigor a partir de 2012-07-06"
+   ],
+   "markdown": "###### Artigo 4.º — Produtos elegíveis\n\n1 - A lista das frutas e produtos a que se refere o artigo 1.º, adiante designados «produtos», é aprovada após parecer favorável do Ministério da Saúde e é parte integrante da Estratégia Nacional.\n\n2 - No âmbito da Estratégia Nacional, a Direcção-Geral da Saúde (DGS), ouvido o GPP, define as regras de distribuição dos produtos, nomeadamente de acondicionamento, calibres, calendário e rotação dos produtos na distribuição.\n\n3 - Os produtos devem, preferencialmente, obedecer aos regimes públicos de qualidade certificada de produção Integrada, de modo de produção biológico, de denominação de origem protegida, de indicação geográfica protegida ou de protecção integrada.\n\n4 - A elegibilidade dos produtos não submetidos aos regimes referidos no número anterior é limitada a 66 % do valor da aquisição ou das distribuições aos alunos.\n\n> Nota: [Artigo 5.º, Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547) A alteração introduzida ao presente artigo pela Portaria n.º 206/2012, aplica-se ao ano letivo 2011-2012.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547), em vigor a partir de 2012-07-06"
+  },
+  "887207700": {
+   "fragment_id": "887070309",
+   "type": 11,
+   "heading": "Artigo 5.º — Custos elegíveis",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 5.º — Custos elegíveis\n\n1 - São elegíveis, no âmbito do RFE:\n\na) O custo dos produtos referidos no artigo 1.º;\n\nb) Custos de aplicação do RFE, relativos às seguintes operações:\n\ni) Monitorização e avaliação, a que alude o artigo 12.º do Regulamento (CE) n.º 288/2009;\n\nii) Comunicação a que alude a subalínea ii) da alínea b) do artigo 5.º do Regulamento (CE) n.º 288/2009, incluídos os custos do cartaz referido no n.º 1 do artigo 14.º do mesmo Regulamento;\n\niii) Implementação das medidas de acompanhamento a que alude o artigo 3.º do Regulamento (CE) n.º 288/2009.\n\n2 - A ajuda respeitante aos custos elegíveis previstos do número anterior é paga até ao limite do montante fixado anualmente por despacho conjunto dos ministros responsáveis pelos sectores da agricultura, da educação e da saúde, considerando o número de alunos indicados pelos estabelecimentos de ensino referidos no artigo 2.º aderentes, inscritos no ano lectivo anterior, uma vez decidida a dotação definitiva da ajuda comunitária prevista no n.º 4 do artigo 4.º do Regulamento (CE) n.º 288/2009.\n\n3 - O fornecimento gratuito aos estabelecimentos de ensino e os custos com o transporte e distribuição dos produtos facturados em separado conferem o direito ao pagamento das despesas comprovadamente efectuadas com o transporte e distribuição, até ao limite máximo de 3 % do custo dos produtos.\n\n4 - No ano de realização do exercício de avaliação a que se refere o artigo 12.º do Regulamento (CE) n.º 288/2009, o montante total dos custos com monitorização e avaliação a título da subalínea i) da alínea b) do n.º 1, a fixar nos termos do n.º 2, não pode exceder 10 % da ajuda comunitária atribuída para o ano dessa avaliação.\n\n5 - Os custos de comunicação referidos na subalínea ii) da alínea b) do n.º 1 são pagos até ao limite do montante a fixar nos termos do n.º 2, sem exceder 5 % do montante da ajuda comunitária atribuída, e não são cumuláveis com outros regimes de ajuda comunitária.\n\n6 - Os custos com a implementação das medidas de acompanhamento, a título da subalínea iii) da alínea b) do n.º 1, são pagos até ao limite do montante a fixar nos termos do n.º 2.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207701": {
+   "fragment_id": "887070310",
+   "type": 11,
+   "heading": "Artigo 6.º — Ajudas",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547), em vigor a partir de 2012-07-06"
+   ],
+   "markdown": "###### Artigo 6.º — Ajudas\n\n1 - Podem requerer a concessão da ajuda:\n\na) Os municípios, para o fornecimento e disponibilização dos produtos e para as medidas de acompanhamento;\n\nb) As entidades definidas na Estratégia Nacional, para o pagamento das despesas com a comunicação;\n\nc) As entidades referidas no artigo 8.º, para realização da monitorização e avaliação do RFE.\n\n2 - As entidades referidas no número anterior apresentam os pedidos de aprovação junto do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), até 31 de julho de cada ano devidamente acompanhados de declaração de cumprimento dos compromissos constantes do anexo i.\n\n3 - O IFAP procede à aprovação das entidades referidas no n.º 1 do presente artigo até 30 de setembro de cada ano.\n\n4 - A suspensão e revogação da aprovação a que se refere o número anterior obedecem ao regime previsto no artigo 9.º do Regulamento (CE) n.º 288/2009.\n\n> Nota: [Artigo 5.º, Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547) A alteração introduzida ao presente artigo pela Portaria n.º 206/2012, aplica-se ao ano letivo 2011-2012.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/portaria/206-2012-178547), em vigor a partir de 2012-07-06"
+  },
+  "887207702": {
+   "fragment_id": "887070311",
+   "type": 11,
+   "heading": "Artigo 7.º — Medidas de acompanhamento",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 7.º — Medidas de acompanhamento\n\n1 - O presente regime está sujeito à aplicação de uma ou mais das medidas de acompanhamento constantes no anexo ii, tendo em conta os objectivos definidos, a suficiência das medidas e as disponibilidades orçamentais.\n\n2 - A aplicação das medidas referidas no número anterior, acessíveis a todos os alunos, é obrigatória.\n\n3 - O IFAP, I. P., define o montante máximo disponível para ajuda às medidas de acompanhamento por estabelecimento de ensino e município, em função do número de alunos dos estabelecimentos de ensino referidos no artigo 2.º aderentes, inscritos no ano lectivo anterior, após fixação da dotação definitiva de ajuda comunitária prevista no n.º 4 do artigo 4.º do Regulamento (CE) n.º 288/2009, comunicando-o às direcções regionais de educação (DRE) e aos municípios.\n\n4 - Os estabelecimentos de ensino apresentam às DRE, até ao dia 15 de Outubro de cada ano lectivo, propostas de medidas a implementar adequadas às disponibilidades orçamentais.\n\n5 - As DRE comunicam ao IFAP, I. P., e aos municípios, até ao dia 31 de Outubro de cada ano lectivo, as medidas de acompanhamento aprovadas.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207703": {
+   "fragment_id": "887070312",
+   "type": 11,
+   "heading": "Artigo 8.º — Monitorização e avaliação",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Monitorização e avaliação\n\nA DGS monitoriza e avalia o RFE, nos termos do artigo 12.º do Regulamento (CE) n.º 288/2009, em articulação com a Direcção-Geral da Inovação e Desenvolvimento Curricular, do Ministério da Educação, com o GPP e com o IFAP, I. P., nos termos definidos na Estratégia Nacional.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207704": {
+   "fragment_id": "887070313",
+   "type": 11,
+   "heading": "Artigo 9.º — Integração curricular",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 9.º — Integração curricular\n\n1 - O Ministério de Educação promove a adaptação e integração do RFE nos currículos escolares.\n\n2 - O Ministério de Educação elabora e revê as linhas de orientação pedagógicas relativas ao cartaz a que alude o artigo 14.º do Regulamento (CE) n.º 288/2009.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207705": {
+   "fragment_id": "887070314",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "### Capítulo II — Procedimento\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207706": {
+   "fragment_id": "887070315",
+   "type": 11,
+   "heading": "Artigo 10.º — Pedidos de pagamento",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 10.º — Pedidos de pagamento\n\n1 - Os pedidos de pagamento, de periodicidade trimestral, são apresentados ao IFAP, I. P., em modelo próprio, correctamente preenchido, até ao último dia do 3.º mês subsequente ao final dos trimestres lectivos anualmente definidos, sob pena de aplicação das sanções previstas no artigo 11.º do Regulamento (CE) n.º 288/2009.\n\n2 - Os pedidos de pagamento são acompanhados:\n\na) Dos documentos comprovativos das despesas efectuadas, especificando as quantidades efectivamente entregues e do preço unitário dos produtos, bem como os registos referidos na alínea g) do n.º 1 do anexo i;\n\nb) Quando aplicável, dos certificados de conformidade relativos aos regimes de qualidade referidos no n.º 3 do artigo 4.º\n\n3 - Para efeitos do n.º 1 do presente artigo, os municípios apresentam os pedidos de pagamento na direcção regional de educação respectiva, a qual remete todos os pedidos ao IFAP, I. P., no prazo de 10 dias.\n\n4 - Aos pedidos de pagamento relativos à monitorização, avaliação, comunicação e às medidas de acompanhamento aplica-se, com as devidas adaptações, o disposto nos números anteriores.\n\n5 - O IFAP, I. P., efectua os pagamentos no prazo máximo de três meses contados da data da apresentação de um pedido correctamente preenchido e válido.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207707": {
+   "fragment_id": "887070316",
+   "type": 1,
+   "heading": "Capítulo III — Controlo",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "### Capítulo III — Controlo\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207708": {
+   "fragment_id": "887070317",
+   "type": 11,
+   "heading": "Artigo 11.º — Controlo e sanções",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 11.º — Controlo e sanções\n\nO IFAP, I. P., procede aos controlos e aplica as sanções previstas no Regulamento (CE) n.º 288/2009.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207709": {
+   "fragment_id": "887070318",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207710": {
+   "fragment_id": "887070319",
+   "type": 11,
+   "heading": "Artigo 12.º — Comunicações",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — Comunicações\n\nO GPP reúne os contributos das entidades envolvidas na aplicação do RFE, em vista da elaboração dos relatórios e da realização das comunicações previstas no artigo 15.º do Regulamento (CE) n.º 288/2009.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207711": {
+   "fragment_id": "887070320",
+   "type": 11,
+   "heading": "Artigo 13.º — Regiões Autónomas",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "###### Artigo 13.º — Regiões Autónomas\n\nSem prejuízo do disposto no artigo 2.º, a adaptação do presente regime às Regiões Autónomas efectua-se por diploma próprio.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207712": {
+   "fragment_id": "887070321",
+   "type": 14,
+   "heading": "Anexo I — Compromissos das entidades requerentes de ajuda",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "## Anexo I — Compromissos das entidades requerentes de ajuda\n\n(a que se refere o artigo 6.º do Regulamento do Regime de Fruta Escolar)\n\n1 - As entidades a que se refere o artigo 6.º do RFE, responsáveis pelo fornecimento e disponibilização dos produtos, assumem os seguintes compromissos:\n\na) Utilizar os produtos financiados no quadro do Regulamento do Regime de Fruta Escolar para consumo pelas crianças nos estabelecimentos de ensino para os quais solicitem uma ajuda;\n\nb) Adequar a gestão dos montantes que lhes são afectos com vista a garantir a disponibilização dos produtos do RFE à população alvo, com a frequência e calendarização definidas;\n\nc) Reembolsar as ajudas pagas indevidamente quando se verifique que os produtos em causa não são distribuídos às crianças referidas no artigo 2.º do RFE ou quando a ajuda é paga para produtos não elegíveis a título do RFE;\n\nd) Pagar, em caso de fraude ou de negligência grave, um montante igual à diferença entre o montante pago inicialmente e o montante a que tenha direito;\n\ne) Disponibilizar os documentos justificativos às autoridades competentes, quando solicitado;\n\nf) Sujeitar a qualquer verificação decidida pelas autoridades competentes, nomeadamente no que respeita ao exame de registos e a inspecções materiais;\n\ng) Manter os registos dos nomes e endereços dos estabelecimentos de ensino, dos produtos e quantidades fornecidos a esses estabelecimentos, bem como dos produtos e quantidades efectivamente consumidos, por aluno;\n\nh) Ajustar a frequência das entregas e das quantidades a distribuir por alteração da disponibilidade orçamental do RFE;\n\ni) Comunicar ao IFAP, I. P., até 31 de Julho, o número de alunos dos estabelecimentos de ensino referidos no artigo 2.º aderentes, inscritos no ano lectivo cessante, após fixação da dotação definitiva de ajuda comunitária prevista no n.º 4 do artigo 4.º do Regulamento (CE) n.º 288/2009;\n\nj) Articular com elementos a designar pelos estabelecimentos de ensino, com vista a possibilitar o cumprimento, por estes, do dever de efectiva disponibilização dos produtos.\n\n2 - Às entidades a que se refere o artigo 6.º do RFE, responsáveis pelas medidas de acompanhamento e pela avaliação e monitorização, aplica-se, com as devidas adaptações, o disposto no número anterior.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  },
+  "887207713": {
+   "fragment_id": "887070322",
+   "type": 14,
+   "heading": "Anexo II — Medidas de acompanhamento",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+   ],
+   "markdown": "## Anexo II — Medidas de acompanhamento\n\n(a que se refere o artigo 7.º do Regulamento do Regime de Fruta Escolar)\n\nSão consideradas medidas de acompanhamento todas as acções que visem promover o consumo de fruta, designadamente:\n\na) Organização de visitas a quintas, mercados e centrais hortofrutícolas;\n\nb) Instalação de canteiros nas escolas, para estabelecimento de uma ligação à origem do produto;\n\nc) Fornecimento de materiais didácticos (livros, cadernos de actividades, concursos, jogos, cartões ou fichas técnicas com as designações dos frutos ou hortícolas, CDROM informativo);\n\nd) Fornecimento de folhetos para as crianças, cativando a sua curiosidade pelo tema;\n\ne) Fornecimento de pequeno saco de sementes para a sementeira da criança;\n\nf) Realização ou visualização pelas crianças de vídeos ou filmes alusivos ao programa;\n\ng) Realização de actividades lúdicas: teatros, danças, canções, poemas, alusivos ao programa;\n\nh) Realização de actividades que dependam e contribuam para o sítio institucional na Internet do RFE;\n\ni) Fornecimento aos professores de livros e outro material didáctico, para ensino às crianças de hábitos de alimentação saudáveis;\n\nj) Atribuição de prémios ou recompensas incentivadores do consumo dos produtos;\n\nl) Iniciativas que visem potenciar o RFE junto dos agregados familiares das crianças.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 375/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/375-2015-70748600), em vigor a partir de 2015-10-21, produz efeitos a partir de 2014-08-01"
+  }
+ }
+}

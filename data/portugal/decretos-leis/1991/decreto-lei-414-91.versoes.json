@@ -1,0 +1,1372 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:344424:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-34481375",
+ "dre_path": "/dr/detalhe/decreto-lei/414-1991-344424",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-10-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51889875",
+    "48813475",
+    "48813575",
+    "48813675",
+    "48813775",
+    "48813875",
+    "48813975",
+    "48814075",
+    "48814175",
+    "48814275",
+    "48814375",
+    "48814475",
+    "48814575",
+    "48819175",
+    "48814675",
+    "48814775",
+    "48814875",
+    "48814975",
+    "48815075",
+    "48815175",
+    "48815275",
+    "48815375",
+    "48815475",
+    "48815575",
+    "48815675",
+    "48815775",
+    "48815875",
+    "48815975",
+    "48816075",
+    "48816175",
+    "48816275",
+    "48816375",
+    "48816475",
+    "48816575",
+    "48816675",
+    "48816775",
+    "48816875",
+    "48816975",
+    "48817075",
+    "48817175",
+    "48817275",
+    "48817375",
+    "48817475",
+    "48817575",
+    "48817675",
+    "48817775",
+    "48817875",
+    "48817975",
+    "48818075",
+    "48818175",
+    "48818275",
+    "48818375",
+    "48818475",
+    "48818575",
+    "48818675",
+    "48818775"
+   ]
+  },
+  {
+   "date": "1993-07-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:375434:por",
+     "title": "Decreto-Lei n.º 240/93",
+     "published": "1993-07-08",
+     "dre_path": "/dr/detalhe/decreto-lei/240-1993-375434"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51884475",
+    "48813475",
+    "51884075",
+    "48813675",
+    "48813775",
+    "48813875",
+    "48813975",
+    "48814075",
+    "48814175",
+    "48814275",
+    "48814375",
+    "48814475",
+    "48814575",
+    "48819175",
+    "48814675",
+    "48814775",
+    "48814875",
+    "48814975",
+    "48815075",
+    "48815175",
+    "48815275",
+    "48815375",
+    "48815475",
+    "48815575",
+    "48815675",
+    "48815775",
+    "48815875",
+    "48815975",
+    "48816075",
+    "48816175",
+    "48816275",
+    "48816375",
+    "48816475",
+    "48816575",
+    "48816675",
+    "48816775",
+    "48816875",
+    "48816975",
+    "48817075",
+    "48817175",
+    "48817275",
+    "48817375",
+    "48817475",
+    "48817575",
+    "48817675",
+    "48817775",
+    "48817875",
+    "48817975",
+    "48818075",
+    "48818175",
+    "48818275",
+    "48818375",
+    "48818475",
+    "48818575",
+    "48818675",
+    "48818775",
+    "48818875",
+    "48818975"
+   ]
+  },
+  {
+   "date": "1994-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:604441:por",
+     "title": "Decreto-Lei n.º 241/94",
+     "published": "1994-09-22",
+     "dre_path": "/dr/detalhe/decreto-lei/241-1994-604441"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51886475",
+    "48813475",
+    "51884075",
+    "48813675",
+    "48813775",
+    "48813875",
+    "48813975",
+    "48814075",
+    "48814175",
+    "48814275",
+    "48814375",
+    "48814475",
+    "48814575",
+    "48819175",
+    "48814675",
+    "48814775",
+    "48814875",
+    "48814975",
+    "48815075",
+    "51886575",
+    "48815275",
+    "48815375",
+    "48815475",
+    "48815575",
+    "48815675",
+    "48815775",
+    "48815875",
+    "48815975",
+    "48816075",
+    "48816175",
+    "48816275",
+    "48816375",
+    "48816475",
+    "48816575",
+    "48816675",
+    "48816775",
+    "48816875",
+    "48816975",
+    "48817075",
+    "48817175",
+    "48817275",
+    "48817375",
+    "48817475",
+    "48817575",
+    "48817675",
+    "48817775",
+    "48817875",
+    "48817975",
+    "48818075",
+    "48818175",
+    "48818275",
+    "48818375",
+    "48818475",
+    "48818575",
+    "48818675",
+    "48818775",
+    "48818875",
+    "48818975"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:239580:por",
+     "title": "Decreto-Lei n.º 9/98",
+     "published": "1998-01-16",
+     "dre_path": "/dr/detalhe/decreto-lei/9-1998-239580",
+     "date": "1996-09-27"
+    }
+   ]
+  },
+  {
+   "date": "1999-11-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:634934:por",
+     "title": "Decreto-Lei n.º 501/99",
+     "published": "1999-11-19",
+     "dre_path": "/dr/detalhe/decreto-lei/501-1999-634934"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 29.º",
+    "Altera MAPA ANEXO",
+    "Entrada Vigor Diploma",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º"
+   ],
+   "fragments": [
+    "51887575",
+    "48813475",
+    "51884075",
+    "48813675",
+    "48813775",
+    "48813875",
+    "48813975",
+    "51887675",
+    "51887775",
+    "51887875",
+    "51887975",
+    "48814475",
+    "48814575",
+    "51888075",
+    "48814675",
+    "48814775",
+    "48814875",
+    "48814975",
+    "51888175",
+    "51888475",
+    "48815275",
+    "48815375",
+    "51888575",
+    "48815575",
+    "48815675",
+    "48815775",
+    "48815875",
+    "48815975",
+    "51888675",
+    "48816175",
+    "48816275",
+    "48816375",
+    "48816475",
+    "51888875",
+    "51888975",
+    "48816775",
+    "48816875",
+    "48816975",
+    "48817075",
+    "48817175",
+    "48817275",
+    "48817375",
+    "48817475",
+    "51888775",
+    "48817675",
+    "48817775",
+    "48817875",
+    "48817975",
+    "48818075",
+    "48818175",
+    "51886975",
+    "48818375",
+    "48818475",
+    "48818575",
+    "48818675",
+    "48818775",
+    "48818875",
+    "51889075"
+   ]
+  },
+  {
+   "date": "2003-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:431239:por",
+     "title": "Portaria n.º 1359/2003",
+     "published": "2003-12-13",
+     "dre_path": "/dr/detalhe/portaria/1359-2003-431239"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51889275",
+    "48813475",
+    "51884075",
+    "48813675",
+    "48813775",
+    "48813875",
+    "48813975",
+    "51887675",
+    "51887775",
+    "51887875",
+    "51887975",
+    "48814475",
+    "48814575",
+    "51889175",
+    "48814675",
+    "48814775",
+    "48814875",
+    "48814975",
+    "51888175",
+    "51888475",
+    "48815275",
+    "48815375",
+    "51888575",
+    "48815575",
+    "48815675",
+    "48815775",
+    "48815875",
+    "48815975",
+    "51888675",
+    "48816175",
+    "48816275",
+    "48816375",
+    "48816475",
+    "51888875",
+    "51888975",
+    "48816775",
+    "48816875",
+    "48816975",
+    "48817075",
+    "48817175",
+    "48817275",
+    "48817375",
+    "48817475",
+    "51888775",
+    "48817675",
+    "48817775",
+    "48817875",
+    "48817975",
+    "48818075",
+    "48818175",
+    "51886975",
+    "48818375",
+    "48818475",
+    "48818575",
+    "48818675",
+    "48818775",
+    "48818875",
+    "51889075"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:469069:por",
+     "title": "Decreto-Lei n.º 229/2005",
+     "published": "2005-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/229-2005-469069"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51889375",
+    "48813475",
+    "51884075",
+    "48813675",
+    "48813775",
+    "48813875",
+    "48813975",
+    "51887675",
+    "51887775",
+    "51887875",
+    "51887975",
+    "48814475",
+    "48814575",
+    "51889175",
+    "48814675",
+    "48814775",
+    "48814875",
+    "48814975",
+    "51888175",
+    "51888475",
+    "48815275",
+    "48815375",
+    "51888575",
+    "48815575",
+    "48815675",
+    "48815775",
+    "48815875",
+    "48815975",
+    "51888675",
+    "48816175",
+    "48816275",
+    "48816375",
+    "48816475",
+    "51888875",
+    "51888975",
+    "48816775",
+    "48816875",
+    "48816975",
+    "48817075",
+    "48817175",
+    "48817275",
+    "48817375",
+    "48817475",
+    "51888775",
+    "51889475",
+    "48817775",
+    "48817875",
+    "48817975",
+    "48818075",
+    "48818175",
+    "51886975",
+    "48818375",
+    "48818475",
+    "48818575",
+    "48818675",
+    "48818775",
+    "48818875",
+    "51889075"
+   ]
+  },
+  {
+   "date": "2010-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344395:por",
+     "title": "Portaria n.º 838/2010",
+     "published": "2010-09-01",
+     "dre_path": "/dr/detalhe/portaria/838-2010-344395"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51889875",
+    "48813475",
+    "51884075",
+    "48813675",
+    "48813775",
+    "48813875",
+    "48813975",
+    "51887675",
+    "51887775",
+    "51887875",
+    "51887975",
+    "48814475",
+    "48814575",
+    "51889975",
+    "48814675",
+    "48814775",
+    "48814875",
+    "48814975",
+    "51888175",
+    "51888475",
+    "48815275",
+    "48815375",
+    "51888575",
+    "48815575",
+    "48815675",
+    "48815775",
+    "48815875",
+    "48815975",
+    "51888675",
+    "48816175",
+    "48816275",
+    "48816375",
+    "48816475",
+    "51888875",
+    "51888975",
+    "48816775",
+    "48816875",
+    "48816975",
+    "48817075",
+    "48817175",
+    "48817275",
+    "48817375",
+    "48817475",
+    "51888775",
+    "51889475",
+    "48817775",
+    "48817875",
+    "48817975",
+    "48818075",
+    "48818175",
+    "51886975",
+    "48818375",
+    "48818475",
+    "48818575",
+    "48818675",
+    "48818775",
+    "48818875",
+    "51889075"
+   ]
+  },
+  {
+   "date": "2017-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108074438:por",
+     "title": "Decreto-Lei n.º 109/2017",
+     "published": "2017-08-30",
+     "dre_path": "/dr/detalhe/decreto-lei/109-2017-108074438"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "51889875",
+    "48813475",
+    "51884075",
+    "48813675",
+    "48813775",
+    "48813875",
+    "48813975",
+    "51887675",
+    "51887775",
+    "51887875",
+    "51887975",
+    "48814475",
+    "48814575",
+    "51889975",
+    "48814675",
+    "48814775",
+    "48814875",
+    "48814975",
+    "947235131",
+    "947235132",
+    "48815275",
+    "48815375",
+    "51888575",
+    "48815575",
+    "48815675",
+    "48815775",
+    "48815875",
+    "48815975",
+    "51888675",
+    "48816175",
+    "48816275",
+    "48816375",
+    "48816475",
+    "51888875",
+    "51888975",
+    "48816775",
+    "48816875",
+    "48816975",
+    "48817075",
+    "48817175",
+    "48817275",
+    "48817375",
+    "48817475",
+    "51888775",
+    "51889475",
+    "48817775",
+    "48817875",
+    "48817975",
+    "48818075",
+    "48818175",
+    "51886975",
+    "48818375",
+    "48818475",
+    "48818575",
+    "48818675",
+    "48818775",
+    "48818875",
+    "51889075"
+   ]
+  }
+ ],
+ "fragments": {
+  "51889875": {
+   "fragment_id": "35101175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2010-09-02",
+   "changed_by": [],
+   "markdown": "O progresso das ciências e das tecnologias da saúde implica, cada vez mais, uma actividade multidisciplinar integrada que envolve profissionais com diferentes formações curriculares, específicas e diferenciadas.\n\nConsiderando esta realidade, surge a necessidade de recorrer a técnicos de formação universitária e altamente qualificados, nos quais se incluem os técnicos superiores de saúde, enquadrados numa carreira criada pelo Decreto Regulamentar n.º 29/81, de 24 de Junho, e cujas origens remontam às carreiras farmacêutica e de técnico superior de laboratório, previstas no Decreto-Lei n.º 414/71, de 27 de Setembro.\n\nAo contrário, porém, do que tem acontecido com outros grupos profissionais do âmbito da saúde, aquela carreira tem permanecido sem significativas alterações ao longo destes anos, cumprindo até realçar que as correspondentes funções têm sofrido de alguma indefinição geradora de perturbações ao bom funcionamento dos serviços.\n\nO presente diploma reformula o regime legal da carreira dos técnicos superiores de saúde e enquadra-se no objectivo prioritário do Governo de modernização da Administração Pública, através de um projecto de desenvolvimento e valorização dos seus profissionais com vista à melhoria da rentabilidade e qualidade dos serviços a prestar.\n\nA medida legislativa é ditada pela necessidade de dotar a carreira de um modelo mais dinâmico e exigente, adequado a uma nova forma de perspectivar e conceber a organização e funcionamento dos estabelecimentos de saúde e enquadrando estes profissionais, a par de outros técnicos de saúde, pelo reconhecimento da sua epecificidade e autonomia funcionais, num corpo especial de funcionários, a retribuir por escala indiciária própria.\n\nEssa escala é concebida em articulação com a escala indiciária geral e estruturada em moldes semelhantes em obediência aos princípios gerais sobre remunerações, estabelecidas no Decreto-Lei n.º 184/89, de 2 de Junho.\n\nImporta ainda referir que foram ouvidas as associações sindicais representativas dos técnicos superiores de saúde.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 da base XXXI da Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "48813475": {
+   "fragment_id": "35803975",
+   "type": 1,
+   "heading": "Capítulo I — Objecto, âmbito e disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto, âmbito e disposições gerais"
+  },
+  "48813575": {
+   "fragment_id": "37341575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente diploma tem por objectivo a definição do regime legal da carreira dos técnicos superiores de saúde dos serviços e estabelecimentos dependentes do Ministério da Saúde e da Santa Casa da Misericórdia de Lisboa."
+  },
+  "48813675": {
+   "fragment_id": "37341675",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e objectivo da carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza e objectivo da carreira\n\n1 - A carreira dos técnicos superiores de saúde é uma carreira profissional reservada aos que, possuindo licenciatura e formação profissional adequadas, tenham qualificação técnica para exercer funções nas áreas de engenharia sanitária, farmácia, física hospitalar, genética, laboratório, medicina nuclear e radiações ionizantes, nutrição e veterinária, nos serviços e organismos referidos no artigo 1.º\n\n2 - A carreira dos técnicos superiores de saúde, dada a natureza e especificidade das funções, constitui um corpo especial submetido ao regime do presente decreto-lei."
+  },
+  "48813775": {
+   "fragment_id": "35804075",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura da carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura da carreira"
+  },
+  "48813875": {
+   "fragment_id": "37341775",
+   "type": 8,
+   "heading": "Secção I — Ingresso e acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Ingresso e acesso"
+  },
+  "48813975": {
+   "fragment_id": "38951675",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura da carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura da carreira\n\n1 - A carreira dos técnicos superiores de saúde desenvolve-se pelas categorias de assistente, assistente principal, assessor e assessor superior, às quais correspondem funções da mesma natureza e, respectivamente, de crescente complexidade e responsabilidade, pressupondo a posse de um grau como título de habilitação profissional.\n\n2 - Categoria é a posição que o técnico superior de saúde ocupa no âmbito da carreira, de acordo com a qualificação profissional e diferenciação das funções."
+  },
+  "48814075": {
+   "fragment_id": "38951775",
+   "type": 11,
+   "heading": "Artigo 4.º — Ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ingresso\n\nO ingresso na carreira de técnicos superiores de saúde faz-se pela categoria de assistente, mediante concurso documental, de entre os profissionais habilitados com o grau de especialista."
+  },
+  "48814175": {
+   "fragment_id": "38951875",
+   "type": 11,
+   "heading": "Artigo 5.º — Grau de especialista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Grau de especialista\n\n1 - O ingresso na carreira está condicionado à posse de habilitação profissional que confere o grau de especialista.\n\n2 - A posse do grau referido no número anterior não confere, por si só, vinculação à função pública.\n\n3 - O grau é obtido mediante processo de formação pré-carreira.\n\n4 - O mesmo grau poderá ainda ser atribuído aos indivíduos possuidores de curso de especialização ou de pós-licenciatura adequados, que sejam reconhecidos como equivalentes àquela formação mediante portaria dos Ministros da Saúde e das Finanças."
+  },
+  "48814275": {
+   "fragment_id": "38951975",
+   "type": 11,
+   "heading": "Artigo 6.º — Habilitação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Habilitação profissional\n\n1 - A habilitação profissional a que se refere o artigo 5.º visa a profissionalização e a especialização para o exercício das actividades profissionais dos técnicos superiores de saúde, em termos de autonomia e diferenciação técnica.\n\n2 - A habilitação referida no n.º 1 obtém-se mediante um estágio de especialidade com uma duração variável de dois a quatro anos a especificar para cada um dos ramos previstos no artigo 9.º, nos termos do n.º 6 deste artigo.\n\n3 - O recrutamento dos estagiários faz-se em função das necessidades previsionais dos serviços, e das capacidades formativas disponíveis em serviços de saúde oficiais de reconhecida idoneidade, mediante concurso de âmbito nacional autorizado pelo Ministro da Saúde.\n\n4 - Os concursos a que se refere o número anterior são abertos para cada um dos ramos de actividade referidos no artigo 9.º, com exigência, como requisito habilitacional, das licenciaturas correspondentes enumeradas no mesmo artigo.\n\n5 - Por portaria conjunta dos Ministros da Saúde e das Finanças serão reguladas as seguintes matérias relativas a estágio:\n\na) Processo de concurso de admissão aos estágios;\n\nb) Normas sobre reconhecimento de idoneidade de serviços de saúde para efeitos de estágios;\n\nc) Organização dos estágios;\n\nd) Regime jurídico de frequência dos estágios;\n\ne) Processo de avaliação final dos estagiários.\n\n6 - Os programas do estágio e a respectiva duração, por ramo de actividade, serão definidos por portaria do Ministro da Saúde, com base em estudos efectuados por comissões especializadas.\n\n7 - O estágio de especialidade é frequentado no regime de contrato administrativo de provimento ou, sendo o estagiário já funcionário, em regime de comissão de serviço extraordinária.\n\n8 - O regime de horário de trabalho dos estagiários é o de trinta e cinco horas semanais, das quais pelo menos seis, e nos ramos que o justifiquem, serão efectuadas em serviço de urgência, desde que este vigore no estabelecimento.\n\n9 - Os estagiários têm a remuneração estabelecida no mapa anexo, sem prejuízo de opção pela correspondente ao lugar de origem, nas situações de comissão de serviço extraordinária.\n\n10 - Após a publicitação dos resultados relativos ao aproveitamento no estágio, o contrato administrativo de provimento ou a comissão de serviço extraordinária consideram-se automaticamente renovados até ao provimento, por concurso, em lugar da carreira, com o limite máximo de um ano a contar do dia 1 do mês seguinte ao da referida publicitação.\n\n11 - O tempo de serviço prestado durante o período de renovação previsto no número anterior conta para todos os efeitos legais, com excepção dos remuneratórios, na categoria de assistente, desde que àquele período se siga o provimento nesta categoria."
+  },
+  "48814375": {
+   "fragment_id": "38952075",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acesso\n\n1 - O acesso à categoria de assistente principal efectua-se mediante concurso de avaliação curricular, de entre os assistentes com pelo menos três anos de bom e efectivo serviço na categoria.\n\n2 - O acesso à categoria de assessor efectua-se mediante concurso de provas de conhecimento e de avaliação curricular, de entre os assistentes principais com pelo menos quatro anos de bom e efectivo serviço.\n\n3 - O acesso à categoria de assessor superior efectua-se mediante discussão pública de um trabalho no âmbito da respectiva área técnico-científica e que se relacione com a natureza do cargo a prover, a que poderão candidatar-se os assessores com pelo menos três anos de bom e efectivo serviço na categoria.\n\n4 - O programa das provas de conhecimento referidas no n.º 2 deverá ser aprovado por despacho do Ministro da Saúde."
+  },
+  "48814475": {
+   "fragment_id": "38952175",
+   "type": 11,
+   "heading": "Artigo 8.º — Promoção e progressão na carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Promoção e progressão na carreira\n\n1 - A mudança de escalão remuneratório depende da permanência de três anos no escalão imediatamente inferior.\n\n2 - A promoção a categoria superior faz-se para o 1.º escalão da estrutura remuneratória dessa categoria ou para o escalão a que correponda índice superior mais aproximado, se o técnico superior de saúde já vier auferindo remuneração igual ou superior à daquele escalão."
+  },
+  "48814575": {
+   "fragment_id": "37341875",
+   "type": 8,
+   "heading": "Secção II — Ramos de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Ramos de actividade"
+  },
+  "48819175": {
+   "fragment_id": "38953275",
+   "type": 11,
+   "heading": "Artigo 9.º — Enumeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Enumeração\n\n1 - A carreira dos técnicos superiores de saúde desenvolve-se por ramos de actividade que a seguir se indicam juntamente com as correspondentes licenciaturas adequadas:\n\nRamo de engenharia sanitária:\n\nLicenciaturas em Engenharia do Ambiente, Engenharia Civil, Engenharia Química e ramo de Engenharia Sanitária da licenciatura em Engenharia do Ambiente;\n\nRamo de farmácia:\n\nLicenciaturas em Farmácia, Ciências Farmacêuticas e as antigas licenciaturas em Ciências Farmacêuticas (ramo A e opção A);\n\nRamo de física hospitalar:\n\nLicenciaturas em Física, Físico-Químicas e Engenharia Física;\n\nRamo de genética:\n\nLicenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Farmácia e Química;\n\nRamo de laboratório:\n\nLicenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Farmácia, Química e as antigas licenciaturas em Ciências Farmacêuticas (opção C ou ramo C);\n\nRamo laboratorial de medicina nuclear e radiações ionizantes:\n\nLicenciaturas em Biologia, Ciências Farmacêuticas, Ciências Físico-Químicas, Engenharia Electrotécnica, Engenharia Química, Farmácia, Física e Química;\n\nRamo de nutrição:\n\nLicenciatura em Ciências de Nutrição;\n\nRamo de veterinária:\n\nLicenciatura em Medicina Veterinária.\n\n2 - Os ramos reflectem a diferenciação e qualificação profissionais, sem prejuízo da intercomplementaridade de formação e da devida cooperação profissional.\n\n3 - Por portaria conjunta dos Ministros da Saúde e das Finanças podem incluir-se no âmbito da carreira prevista neste diploma outros ramos de actividade.\n\n4 - O elenco das licenciaturas previstas no n.º 1 deste artigo pode ser alterado por portaria do Ministro da Saúde.\n\n> Nota: [Artigo 24.º, Decreto-Lei n.º 109/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2017-108074438) Revogado, a partir de 31 de agosto de 2017, o n.º 1 do presente artigo, na parte que respeita ao ramo de farmácia.\n\n> Nota: [Artigo 1.º, Portaria n.º 159/2016 - Diário da República n.º 110/2016, Série I de 2016-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/159-2016-74604862) Para efeitos de ingresso no estágio da carreira de técnico superior de saúde é aditado ao elenco das licenciaturas previstas no n.º 1 do presente artigo, para o ramo de nutrição, as licenciaturas em Dietética e em Dietética e Nutrição, e posse da respetiva cédula profissional."
+  },
+  "48814675": {
+   "fragment_id": "38952275",
+   "type": 3,
+   "heading": "Subsecção I — Ramo de engenharia sanitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Ramo de engenharia sanitária"
+  },
+  "48814775": {
+   "fragment_id": "40498575",
+   "type": 11,
+   "heading": "Artigo 10.º — Perfil profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Perfil profissional\n\nO engenheiro sanitarista é um profissional habilitado com o grau de especialista para aplicar os princípios da engenharia à prevenção, ao controlo e à gestão dos factores ambientais que afectam a saúde e o bem-estar físico, mental e social do homem, bem como aos trabalhos e processos envolvidos na melhoria de qualidade do ambiente."
+  },
+  "48814875": {
+   "fragment_id": "40498675",
+   "type": 11,
+   "heading": "Artigo 11.º — Funções das categorias do ramo de engenharia sanitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Funções das categorias do ramo de engenharia sanitária\n\n1 - Ao engenheiro sanitarista assistente e assistente principal são atribuídas as seguintes funções, tendo em conta os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) Fazer a apreciação de condições ambientais e a identificação dos factores de risco, que nos domínios da água, ar, sol e habitação condicionam os estados de saúde da comunidade, em colaboração com outros profissionais de saúde, quando necessário;\n\nb) Emitir pareceres sanitários;\n\nc) Realizar inquéritos sanitários e outros estudos no domínio do ambiente;\n\nd) Realizar inspecções e vistorias sanitárias;\n\ne) Cooperar na elaboração de regulamentos sanitários e posturas municipais;\n\nf) Dar apoio técnico na formação do pessoal técnico sanitário;\n\ng) Participar em júris de concursos e de avaliação.\n\n2 - Ao engenheiro sanitarista assessor são atribuídas, além de todas as funções do assistente e do assistente principal, as seguintes:\n\na) Organizar e coordenar programas de monitorização e vigilância dos factores ambientais com incidência na saúde humana;\n\nb) Planear as actividades constantes dos programas aprovados para o sector, coordená-las e avaliá-las;\n\nc) Participar no planeamento, coordenação e avaliação de programas de saúde ambiental;\n\nd) Promover e colaborar com outros organismos oficiais no estabelecimento de indicadores e normas de qualidade relativas aos factores ambientais com incidência na saúde humana e na elaboração de diplomas técnico-normativos no domínio da saúde ambiental, quer a nível nacional quer internacional;\n\ne) Elaboração de metodologias apropriadas à avaliação da exequibilidade e do rendimento dos programas de controlo e das medidas tomadas com vista à protecção da saúde e do bem-estar do homem;\n\nf) Cooperar em programas de investigação;\n\ng) Participar nas acções de formação de engenheiros sanitaristas;\n\nh) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal designado.\n\n3 - Ao engenheiro sanitarista assessor superior são atribuídas, para além das funções de assistente, assistente principal e assessor, as seguintes:\n\na) Participar na definição das políticas de saúde ambiental nos diversos níveis nacional ou regional;\n\nb) Planear, coordenar e avaliar programas de saúde ambiental;\n\nc) Promover e participar na estruturação, actualização e organização dos serviços ou núcleos;\n\nd) Participar no planeamento de programas de saúde ambiental levados a efeito por organismos oficiais, empresas públicas ou privadas;\n\ne) Emitir pareceres técnico-científicos no âmbito da saúde ambiental;\n\nf) Promover e participar na formação complementar de engenheiros sanitaristas;\n\ng) Coordenar e avaliar os técnicos superiores de saúde do ramo respectivo integrados na correspondente unidade de acção;\n\nh) Integrar comissões especializadas.\n\n4 - Aos engenheiros sanitaristas, quando integrados em serviços de âmbito regional, compete ainda:\n\na) Participar na definição da política de saúde nesse nível regional;\n\nb) Elaborar o plano de acção anual e o relatório de actividades;\n\nc) A avaliação periódica da eficiência e eficácia dos serviços.\n\n5 - Ao engenheiro sanitarista que tiver a responsabilidade de um serviço compete, em especial:\n\na) Elaborar os programas e relatórios de actividades do serviço;\n\nb) Coordenar todas as actividades de gestão científica e técnica, de formação e administrativa do serviço;\n\nc) Avaliar a eficácia e eficiência dos serviços, promovendo a sua reorganização e actualização sempre que necessário."
+  },
+  "48814975": {
+   "fragment_id": "38952375",
+   "type": 3,
+   "heading": "Subsecção II — Ramo de farmácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Ramo de farmácia"
+  },
+  "48815075": {
+   "fragment_id": "40498775",
+   "type": 11,
+   "heading": "Artigo 12.º — Perfil profissional do farmacêutico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Perfil profissional do farmacêutico\n\n1 - O técnico superior de saúde farmacêutico é o profissional habilitado com o grau de especialista responsável pela problemática do medicamento, assegurando a prestação de assistência medicamentosa ao doente, desenvolvendo para o efeito actividades de carácter técnico e científico relacionadas com a terapêutica e sua eficácia, a utilização do medicamento e suas implicações no doente, a informação e educação sanitária.\n\n2 - Nos estabelecimentos com serviços farmacêuticos, a direcção destes é confiada a técnico superior de saúde farmacêutico.\n\n3 - O farmacêutico deve aprofundar o seu perfil profissional orientando-se para o exercício em áreas profissionais específicas.\n\n4 - São desde já reconhecidas as seguintes áreas profissionais específicas:\n\na) Farmácia hospitalar;\n\nb) Farmacoterapia.\n\n5 - Poderão ser reconhecidas outras áreas profissionais específicas, por portaria do Ministro da Saúde."
+  },
+  "48815175": {
+   "fragment_id": "40498875",
+   "type": 11,
+   "heading": "Artigo 13.º — Funções das categorias do ramo de farmácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Funções das categorias do ramo de farmácia\n\n1 - Ao técnico superior de saúde farmacêutico assistente e assistente principal são atribuídas as seguintes funções, tendo em conta os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) A responsabilidade técnica das aquisições de medicamentos e produtos farmacêuticos, da sua qualidade e correcta conservação;\n\nb) O estabelecimento de sistemas eficazes e seguros de distribuição e administração de medicamentos;\n\nc) A produção de fórmulas magistrais necessárias ou convenientes para o hospital ou instituição, bem como a análise e controlo correspondentes;\n\nd) A formulação e controlo, em secção especializada, de misturas intravenenosas para nutrição parenteral;\n\ne) O desenvolvimento de actividades de farmácia clínica, relacionadas com a terapêutica medicamentosa, a elaboração do perfil farmacoterapêutico do doente, os estudos de farmacocinética e monitorização de medicamentos, as acções de farmacovigilância e, ainda, estudos sobre formulação, qualidade e estabilidade dos medicamentos;\n\nf) A integração em comissões clínicas e técnico-científicas que têm em vista a disciplina e racionalização de terapêutica medicamentosa, a melhoria assistencial e a salvaguarda da saúde pública;\n\ng) O cumprimento das exigências legais sobre medicamentos, estupefacientes e psicotrópicos;\n\nh) O estudo estatístico do consumo de medicamentos;\n\ni) A colaboração em acções de investigação clínica com medicamentos;\n\nj) A colaboração em programas de ensino de formação contínua e de valorização profissional a nível farmacêutico e de outros técnicos de saúde;\n\nk) A colaboração na área da sua competência em actividades conducentes à programação da saúde e educação sanitária, hábitos de higiene, correcta alimentação, perigos de automedicação, acompanhamento de doentes de alto risco, doenças crónicas e reacções adversas;\n\nl) Assegurar todas as urgências medicamentosas;\n\nm) O apoio técnico aos profissionais de saúde, serviços ou departamentos;\n\nn) A participação em júris de concursos e de avaliação.\n\n2 - Ao técnico superior de saúde farmacêutico assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A emissão de pareceres técnico-científicos;\n\nb) A participação na elaboração, planeamento e coordenação dos programas do serviço;\n\nc) A colaboração na formação profissional complementar dos técnicos superiores de saúde do ramo farmacêutico;\n\nd) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal for designado.\n\n3 - Ao técnico superior de saúde farmacêutico assessor superior, além das funções do assistente, do assistente principal e do assessor, compete:\n\na) A participação na definição da política de saúde no âmbito da sua área ao nível regional ou nacional;\n\nb) O planeamento e coordenação dos programas dos serviços farmacêuticos de cuidados de saúde primários e diferenciados;\n\nc) A avaliação da eficácia e eficiência dos serviços;\n\nd) A participação na estruturação e organização dos serviços;\n\ne) A elaboração do plano anual e do relatório de actividades;\n\nf) A planificação, coordenação, orientação e avaliação das actividades dos estagiários de pré-licenciatura e de formação profissional;\n\ng) A participação na formação profissional complementar dos técnicos superiores de saúde do ramo de farmácia;\n\nh) A coordenação e avaliação dos técnicos superiores de saúde do ramo farmacêutico, integrados na correspondente unidade de acção."
+  },
+  "48815275": {
+   "fragment_id": "38952475",
+   "type": 3,
+   "heading": "Subsecção III — Ramo de física hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Ramo de física hospitalar"
+  },
+  "48815375": {
+   "fragment_id": "40498975",
+   "type": 11,
+   "heading": "Artigo 14.º — Perfil profissional do físico hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Perfil profissional do físico hospitalar\n\n1 - O físico hospitalar é o profissional habilitado com o grau de especialista responsável pela aplicação dos métodos da física à respectiva área das ciências médicas em que trabalha, assegurando a colaboração na parte da física e engenharia médicas com os outros especialistas médicos, competindo-lhe em cada área o planeamento das aplicações, o parecer técnico para aquisição e manutenção do equipamento, a realização dos actos físicos, a assessoria técnico-científica e de investigação, o planeamento e a organização das instalações nos seus aspectos técnicos, a supervisão das condições de segurança, funcionamento do equipamento e aplicação, de forma a evitar danos a doentes, pessoal e público em geral, de acordo com as normas vigentes a nível nacional e internacional, e ainda a colaboração e parecer técnico na elaboração, revisão e actualização dessas mesmas normas.\n\n2 - O físico hospitalar deve aprofundar o seu perfil profissional orientando-se para o exercício em áreas profissionais específicas.\n\n3 - São desde já reconhecidas as seguintes áreas profissionais específicas:\n\na) Medicina nuclear;\n\nb) Radiologia;\n\nc) Radioterapia.\n\n4 - Poderão posteriormente ser reconhecidas outras áreas profissionais específicas por portaria do Ministro da Saúde."
+  },
+  "48815475": {
+   "fragment_id": "40499075",
+   "type": 11,
+   "heading": "Artigo 15.º — Funções das categorias do ramo de física hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funções das categorias do ramo de física hospitalar\n\n1 - Ao físico hospitalar assistente e assistente principal são atribuídas as seguintes funções, tendo em conta os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) O planeamento dos protocolos de aplicação das radiações (fontes externas ou internas) e responsabilidade pelas medidas físicas envolvidas, controlo de qualidade e optimização das aplicações clínicas;\n\nb) A dosimetria básica e calibração de todas as fontes de radiações, assim como a calibração de todo o equipamento utilizado em dosimetria e sua optimização;\n\nc) O processamento dos dados obtidos nas diferentes aplicações e optimização desta informação através de métodos matemáticos adequados;\n\nd) O cálculo das doses «absorvidas» aplicadas ao doente, quer a partir das fontes de radiação, quer por administração de agentes radioactivos, e melhorar as condições de forma a reduzi-las quanto possível;\n\ne) O estudo do equipamento antes e durante a sua instalação e preparação das normas de exploração e de controlo de qualidade desse equipamento, assim como das fontes radioactivas utilizadas;\n\nf) Assegurar o controlo das instalações relativamente às normas de protecção contra as radiações;\n\ng) A responsabilidade pela recepção, manipulação, armazenamento e transporte dos radionúclidos ou fontes radioactivas nas instituições em que estão inseridos;\n\nh) A participação em júris de concursos e de avaliação.\n\n2 - Ao físico hospitalar assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A coordenação de protocolos de actividades científicas, técnicas e pedagógicas, distinguindo nestas últimas o treino dos internos e restante pessoal relativamente às normas de protecção contra as radiações nos respectivos departamentos;\n\nb) O desempenho das funções de «oficial das radiações» do departamento;\n\nc) O planeamento das instalações relativamente às normas de protecção contra as radiações;\n\nd) A assessoria técnica em matérias da sua área;\n\ne) A participação em comissões ou reuniões técnicas com funções normativas dentro da sua área;\n\nf) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas ou impedimentos, quando para tal designado.\n\n3 - Ao físico hospitalar assessor superior são atribuídas, para além das funções do assistente, do assistente principal e do assessor:\n\na) A coordenação e avaliação dos técnicos superiores de saúde do ramo de física hospitalar, integrados na correspondente unidade de acção;\n\nb) A colaboração no estudo, organização, programação e execução de política de saúde nacional ou regional de acordo com as competências técnicas e hierárquicas;\n\nc) A avaliação periódica da eficácia e eficiência dos respectivos serviços;\n\nd) A elaboração do plano anual e do relatório de actividades;\n\ne) A participação na formação profissional complementar dos técnicos superiores de saúde do ramo de física hospitalar."
+  },
+  "48815575": {
+   "fragment_id": "38952575",
+   "type": 3,
+   "heading": "Subsecção IV — Ramo de genética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Ramo de genética"
+  },
+  "48815675": {
+   "fragment_id": "40499175",
+   "type": 11,
+   "heading": "Artigo 16.º — Perfil profissional do técnico superior de genética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Perfil profissional do técnico superior de genética\n\n1 - O técnico superior de saúde, ramo de genética, é o profissional habilitado com o grau de especialista para desenvolver funções científicas e técnicas em áreas orientadas para o estudo e compreensão da etiologia das doenças, sua prevenção e diagóstico no âmbito da genética humana.\n\n2 - O técnico superior de saúde de genética deve aprofundar o seu perfil profissional orientando-se para o exercício em áreas profissionais específicas.\n\n3 - É desde já reconhecida a seguinte área profissional específica:\n\nGenética humana.\n\n4 - Poderão ser reconhecidas outras áreas profissionais específicas por portaria do Ministro da Saúde."
+  },
+  "48815775": {
+   "fragment_id": "40499275",
+   "type": 11,
+   "heading": "Artigo 17.º — Funções das categorias do ramo de genética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funções das categorias do ramo de genética\n\n1 - Ao técnico superior de saúde assistente e assistente principal são atribuídas as seguintes funções, de acordo com os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) A execução de técnicas laboratoriais de citogenética, bioquímica e genética molecular;\n\nb) O aperfeiçoamento de técnicas existentes e introdução de novas técnicas no domínio da genética humana;\n\nc) A orientação e formação do pessoal adstrito aos respectivos serviços;\n\nd) O estudo teórico e prático de métodos de análise laboratorial, sua validação e, se necessário, execução de técnicas altamente diferenciadas;\n\ne) A avaliação e interpretação de resultados e seu controlo de qualidade;\n\nf) A participação na selecção de reagentes e equipamentos;\n\ng) A integração em equipas de serviço de urgência conjuntamente com os outros profissionais de saúde do seu departamento ou serviço, quando este regime se pratique;\n\nh) A responsabilidade por sectores ou unidades de serviço;\n\ni) A cooperação em protocolos de investigação;\n\nj) A participação em programas de investigação científica relacionados com a sua área profissional;\n\nk) A participação em júris de concursos e de avaliação.\n\n2 - Ao técnico superior de saúde assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A selecção, concepção, adaptação e se necessário a execução de novas metodologias em fase de experimentação;\n\nb) O controlo global da qualidade e interpretação de resultados;\n\nc) O controlo e, se necessário, a execução de metodologias que envolvam elevado grau de responsabilidade e qualificação técnico-científica ou que impliquem manipulações de alto risco;\n\nd) O desenvolvimento e coordenação de protocolos de estudo;\n\ne) A participação no plano de elaboração dos programas de serviço;\n\nf) A participação nas acções de formação do pessoal, de estagiários e de internos de especialidade;\n\ng) A selecção e elaboração de metodologias necessárias a monitorização de factores susceptíveis de alterar a saúde individual ou colectiva, em colaboração com outros profissionais da saúde;\n\nh) A promoção no estabelecimento de indicadores e normas de qualidade dos diversos parâmetros com interesse na saúde, bem como a colaboração com outros organismos oficiais nesta matéria e na elaboração de diplomas técnico-normativos no domínio da saúde pública a nível nacional e internacional;\n\ni) A elaboração de metodologias apropriadas à avaliação da eficácia das medidas tomadas, incluindo inquéritos e outros trabalhos de campo;\n\nj) A selecção de reagentes e equipamentos;\n\nk) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal designado.\n\n3 - Ao técnico superior de saúde assessor superior são atribuídas, além das funções do assistente, do assistente principal e do assessor:\n\na) A participação na estruturação e organização dos serviços;\n\nb) A elaboração e coordenação de programas de protocolos de actividades científica e técnica;\n\nc) A emissão de pareceres técnico-científicos;\n\nd) A participação na formação profissional complementar dos técnicos superiores de saúde, do ramo de genética;\n\ne) A planificação, coordenação, orientação e avaliação dos estágios de pré-licenciatura e de formação profissional;\n\nf) A participação na definição da política da saúde, no âmbito da sua área, a nível regional ou nacional;\n\ng) A integração em comissões especializadas;\n\nh) A coordenação e avaliação dos técnicos superiores de saúde do ramo de genética, integrados na correspondente unidade de acção.\n\n4 - Ao técnico superior de saúde de genética que tiver a responsabilidade de um serviço compete, em especial:\n\na) A elaboração do programa de actividades do serviço;\n\nb) A coordenação de todas as actividades de gestão técnica, científica, de formação e administrativa;\n\nc) A avaliação da eficácia e eficiência dos serviços, promovendo a sua reorganização e actualização sempre que necessário;\n\nd) A elaboração do relatório de actividades."
+  },
+  "48815875": {
+   "fragment_id": "38952675",
+   "type": 3,
+   "heading": "Subsecção V — Ramo de laboratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção V — Ramo de laboratório"
+  },
+  "48815975": {
+   "fragment_id": "40499375",
+   "type": 11,
+   "heading": "Artigo 18.º — Perfil profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Perfil profissional\n\n1 - O técnico superior de saúde do ramo de laboratório é o profissional habilitado com o grau de especialista, para desenvolver funções técnicas e científicas em áreas orientadas não só para o estudo e compreensão da etiologia das doenças, sua prevenção, diagnóstico e controlo terapêutico, mas também para o estudo de diversos factores que afectam o bem-estar físico e social do homem.\n\n2 - O técnico superior de saúde do ramo de laboratório deve aprofundar o seu perfil profissional orientando-se para o exercício em áreas profissionais específicas.\n\n3 - São desde já reconhecidas as seguintes áreas profissionais específicas:\n\na) Bioquímica;\n\nb) Comprovação de medicamentos;\n\nc) Endocrinologia;\n\nd) Genética;\n\ne) Hematologia;\n\nf) Higiene no trabalho e ambiente;\n\ng) Imunologia;\n\nh) Microbiologia (virologia, bacteriologia);\n\ni) Nutrição e higiene alimentar;\n\nj) Parasitologia/micologia;\n\nk) Patologia morfológica;\n\nl) Química das águas.\n\n4 - Poderão ser reconhecidas outras áreas profissionais específicas por portaria do Ministro da Saúde."
+  },
+  "48816075": {
+   "fragment_id": "40499475",
+   "type": 11,
+   "heading": "Artigo 19.º — Funções das categorias do ramo de laboratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Funções das categorias do ramo de laboratório\n\n1 - Ao técnico superior de saúde assistente e assistente principal são atribuídas as seguintes funções, de acordo com os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) O estudo teórico e prático de métodos de análise laboratorial, sua validação e se necessário execução de técnicas altamente diferenciadas;\n\nb) A avaliação e interpretação de resultados e seu controlo de qualidade;\n\nc) A participação na selecção de reagentes e equipamentos;\n\nd) A integração em equipas de serviço de urgência, conjuntamente com os outros profissionais de saúde do seu departamento, ou serviço, quando este regime se pratique;\n\ne) A responsabilização por sectores ou unidades de serviço;\n\nf) A cooperação em protocolos de estudo e investigação;\n\ng) A participação em programas de investigação científica relacionados com a sua área profissional;\n\nh) A participação em júris de concursos e de avaliação.\n\n2 - Ao técnico superior de saúde assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A selecção, concepção, adaptação e se necessário a execução de novas metodologias em fase de experimentação;\n\nb) O controlo global de qualidade e interpretação de resultados;\n\nc) O controlo e, se necessário, a execução de metodologias que envolvam elevado grau de responsabilidade e qualificação técnico-científica ou que impliquem manipulações de alto risco;\n\nd) O desenvolvimento e coordenação de protocolos de estudo;\n\ne) A participação no planeamento e elaboração dos programas do serviço;\n\nf) A participação nas acções de formação do pessoal, de estagiários e de internos de especialidade;\n\ng) A selecção e elaboração de metodologias necessárias à monitorização de factores susceptíveis de alterar a saúde individual ou colectiva, em colaboração com outros profissionais da saúde;\n\nh) A promoção no estabelecimento de indicadores e normas de qualidade dos diversos parâmetros com interesse na saúde, bem como a colaboração com outros organismos oficiais nesta matéria, e na elaboração de diplomas técnico-normativos no domínio da saúde pública a nível nacional e internacional;\n\ni) A elaboração de metodologias apropriadas à avaliação da eficiência das medidas tomadas, incluindo inquéritos e outros trabalhos de campo;\n\nj) A selecção de reagentes e equipamentos;\n\nk) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal designado.\n\n3 - Ao técnico superior de saúde assessor superior são atribuídas, além das funções do assistente, do assistente principal e do assessor:\n\na) A participação na estruturação e organização dos serviços;\n\nb) A elaboração e coordenação de programas de protocolos de actividades científica e técnica;\n\nc) A emissão de pareceres técnico-científicos;\n\nd) A participação na formação profissional complementar dos técnicos superiores de saúde do ramo laboratorial;\n\ne) A planificação e coordenação das actividades dos estágios de pré-licenciatura e de especialidade;\n\nf) A participação na definição da política de saúde, no âmbito da sua área, a nível regional ou nacional;\n\ng) A integração em comissões especializadas;\n\nh) A coordenação e avaliação dos técnicos superiores de saúde do ramo laboratorial integrados na correspondente unidade de acção.\n\n4 - Ao técnico superior de saúde que tiver a responsabilidade de um serviço compete, em especial:\n\na) A elaboração do programa de actividades do serviço;\n\nb) A coordenação de todas as actividades de gestão técnica, científica, de formação e administrativa;\n\nc) A avaliação da eficácia e eficiência do serviço, promovendo a sua reorganização e actualização sempre que necessário;\n\nd) A elaboração do relatório de actividades."
+  },
+  "48816175": {
+   "fragment_id": "38952775",
+   "type": 3,
+   "heading": "Subsecção VI — Ramo de nutrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção VI — Ramo de nutrição"
+  },
+  "48816275": {
+   "fragment_id": "40499575",
+   "type": 11,
+   "heading": "Artigo 20.º — Perfil profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Perfil profissional\n\n1 - O nutricionista é o profissional habilitado com o grau de especialista que desenvolve funções científicas e técnicas de planeamento, controlo e avaliação da alimentação racional.\n\n2 - O nutricionista deve aprofundar o seu perfil profissional orientando-se para o exercício em áreas profissionais específicas.\n\n3 - É desde já reconhecida a seguinte área profissional específica:\n\nNutrição humana.\n\n4 - Poderão ser reconhecidas outras áreas profissionais específicas por portaria do Ministro da Saúde."
+  },
+  "48816375": {
+   "fragment_id": "40499675",
+   "type": 11,
+   "heading": "Artigo 21.º — Funções das categorias do ramo de nutrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Funções das categorias do ramo de nutrição\n\n1 - Ao técnico superior de saúde assistente e assistente principal são atribuídas as seguintes funções, tendo em conta os níveis de complexidade e de responsabilidade em que se desenvolvem:\n\na) A avaliação do estado de nutrição de uma dada comunidade, em especial nas áreas escolar e ocupacional;\n\nb) O estudo dos desequilíbrios alimentares geradores de doença na comunidade ou em grupos populacionais determinados e a promoção e correcção dos erros detectados;\n\nc) A participação em programas de educação para a saúde e, em geral, de saúde pública, no domínio da educação alimentar;\n\nd) O aconselhamento nutricional, individual ou colectivo;\n\ne) A intervenção no domínio da terapêutica dietética, quando solicitada.\n\n2 - Ao técnico superior de saúde assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A participação na elaboração de programas de educação para a saúde em geral e, em particular, da saúde pública, no domínio da educação alimentar;\n\nb) A participação em reuniões científicas e em acções de formação e investigação da área respectiva;\n\nc) As funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal designado.\n\n3 - Ao técnico superior de saúde assessor superior são atribuídas, para além das funções do assistente, do assistente principal e do assessor:\n\na) A participação na estruturação e organização dos serviços;\n\nb) A elaboração e coordenação de programas de protocolos de actividades cienífica e técnica;\n\nc) A emissão de pareceres técnico-científicos;\n\nd) A participação na definição da política de saúde alimentar a nível regional ou nacional;\n\ne) A avaliação e coordenação dos técnicos superiores de saúde do ramo de nutrição integrados na correspondente unidade de acção."
+  },
+  "48816475": {
+   "fragment_id": "38952875",
+   "type": 3,
+   "heading": "Subsecção VII — Ramo laboratorial de medicina nuclear e radiações ionizantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção VII — Ramo laboratorial de medicina nuclear e radiações ionizantes"
+  },
+  "48816575": {
+   "fragment_id": "40499775",
+   "type": 11,
+   "heading": "Artigo 22.º — Perfil profissional do técnico superior de saúde de medicina nuclear e radiações ionizantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Perfil profissional do técnico superior de saúde de medicina nuclear e radiações ionizantes\n\n1 - O técnico superior de saúde deste ramo é o profissional habilitado com o grau de especialista que, dada a sua preparação académica e formação complementar nas diferentes áreas englobadas pela medicina nuclear, se responsabiliza pelo suporte técnico-científico dessas áreas colaborando com os outros especialistas médicos.\n\n2 - O técnico superior de saúde deste ramo da carreira deve aprofundar o seu perfil profissional orientando-se para o exercício nas áreas profissionais específicas.\n\n3 - São desde já reconhecidas as seguintes áreas profissionais específicas:\n\na) Biologia;\n\nb) Engenharia;\n\nc) Física;\n\nd) Radiofarmácia;\n\ne) Radioquímica.\n\n4 - Poderão ser reconhecidas outras áreas profissionais específicas por portaria do Ministro da Saúde."
+  },
+  "48816675": {
+   "fragment_id": "40499875",
+   "type": 11,
+   "heading": "Artigo 23.º — Funções das categorias do ramo laboratorial de medicina nuclear e radiações ionizantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Funções das categorias do ramo laboratorial de medicina nuclear e radiações ionizantes\n\n1 - Ao técnico superior de saúde assistente e assistente principal são atribuídas as seguintes funções, de acordo com os níveis de complexidade e de responsabilidade em que se desenvolvem:\n\na) O planeamento, na sua área específica, dos protocolos de aplicação dos radionúclidos quer no diagnóstico quer na terapêutica, assegurando o controlo de qualidade e optimização;\n\nb) A colaboração na calibração de todo o equipamento utilizado e das fontes radioactivas, assim como a optimização das condições técnicas de trabalho;\n\nc) A preparação e controlo da qualidade dos radiofármacos nos aspectos do controlo físico, físico-químico, químico, radioquímico, biológico e farmacológico, bem como a preparação e cálculo de doses químicas e radioquímicas a administrar ao doente;\n\nd) A responsabilidade pela recepção, administração, manipulação e armazenamento dos radionúclidos nos departamentos em que trabalham;\n\ne) O processamento dos dados obtidos nas diferentes aplicações e optimização desta informação através de métodos matemáticos adequados;\n\nf) Os doseamentos in vitro com recurso a produtos marcados com radionúclidos;\n\ng) A participação em júris de concursos e de avaliação.\n\n2 - Ao técnico superior de saúde assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A coordenação de programas e protocolos de actividades científicas, técnicas e pedagógicas;\n\nb) A assessoria técnica em matérias da sua área técnico-científica;\n\nc) A participação em comissões ou reuniões técnicas com funções normativas dentro da sua área;\n\nd) A colaboração no planeamento das instalações de trabalho, apresentando as exigências técnicas inerentes à sua área de actividade;\n\ne) O estudo do equipamento necessário à sua actividade antes e durante a sua instalação, assim como a preparação das normas de exploração e controlo de qualidade do mesmo;\n\nf) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal designado.\n\n3 - Ao técnico superior de saúde assessor superior são atribuídas, para além das funções do assistente, do assistente principal e do assessor:\n\na) A coordenação e avaliação dos técnicos superiores de saúde do ramo de medicina nuclear e radiações ionizantes integrados na correspondente unidade de acção;\n\nb) A participação na definição da política de saúde, no âmbito da sua área, ao nível regional ou nacional;\n\nc) A avaliação periódica da eficiência e eficácia dos respectivos serviços;\n\nd) A elaboração do plano anual e do relatório de actividades."
+  },
+  "48816775": {
+   "fragment_id": "38952975",
+   "type": 3,
+   "heading": "Subsecção VIII — Ramo de veterinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção VIII — Ramo de veterinária"
+  },
+  "48816875": {
+   "fragment_id": "40499975",
+   "type": 11,
+   "heading": "Artigo 24.º — Perfil profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Perfil profissional\n\n1 - O médico veterinário é um profissional habilitado com o grau de especialista para desenvolver funções científicas e técnicas em áreas orientadas para o estudo e compreensão da alimentação racional, higiene e nutrição, bem como para a medicina e cirurgia experimental.\n\n2 - O médico veterinário deve aprofundar o seu perfil profissional orientando-se para o exercício em áreas profissionais específicas.\n\n3 - São desde já reconhecidas as seguintes áreas profissionais específicas:\n\na) Alimentação e nutrição;\n\nb) Medicina, cirurgia experimental e bioteria.\n\n4 - Poderão ser reconhecidas outras áreas profissionais específicas por portaria do Ministro da Saúde."
+  },
+  "48816975": {
+   "fragment_id": "40500075",
+   "type": 11,
+   "heading": "Artigo 25.º — Funções das categorias do ramo de medicina veterinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Funções das categorias do ramo de medicina veterinária\n\n1 - Ao técnico superior de saúde assistente e assistente principal são atribuídas as seguintes funções, de acordo com os níveis de complexidade e de responsabilidade em que se desenvolvem:\n\na) Assegurar o controlo higiénico-sanitário e qualitativo dos géneros de origem animal destinados ao consumo do pessoal hospitalar e doentes;\n\nb) Promover a conservação dos géneros perecíveis e não perecíveis nas melhores condições de segurança e higiene;\n\nc) Participar nas comissões de escolha dos alimentos destinados ao consumo hospitalar;\n\nd) Elaborar especificações de alimentos e de dieta, tendo em vista o estabelecimento das respectivas normas qualitativas;\n\ne) Supervisionar e, se necessário, proceder à colheita de amostras dos alimentos e das dietas terapêuticas para análise química e bacteriológica;\n\nf) O estudo teórico e prático de métodos de análise laboratorial dos alimentos e dietas terapêuticas, sua validação e, se necessário, sua execução;\n\ng) Avaliação e interpretação dos resultados e seu controlo de qualidade;\n\nh) Participar em programas de investigação relacionados com a sua área profissional;\n\ni) Colaborar com os serviços clínicos hospitalares nas fases de investigação animal, no que envolve a sua capacidade técnico-científica, designadamente no planeamento, supervisão e montagem do biotério.\n\n2 - Ao técnico superior de saúde assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A selecção, concepção, adaptação e, se necessário, a execução de novas metodologias;\n\nb) O controlo global de qualidade e interpretação dos resultados;\n\nc) O controlo e, se necessário, a execução de metodologias que envolvam elevado grau de responsabilidade e qualificação técnico-científica ou que impliquem manipulações de alto risco;\n\nd) A participação nas acções de formação do pessoal e estagiários;\n\ne) A selecção e elaboração de metodologias necessárias à monitorização de factores susceptíveis de alterar a saúde no que respeita à higiene e nutrição individual ou colectiva em colaboração com outros profissionais de saúde;\n\nf) A promoção do estabelecimento de indicadores e normas de qualidade dos diversos parâmetros com interesse na saúde nutricional, bem como a colaboração com outros organismos oficiais nesta matéria, e na elaboração de diplomas técnico-normativos no domínio da saúde pública a nível nacional e internacional;\n\ng) A elaboração de metodologias apropriadas à avaliação da eficiência das medidas tomadas, incluindo inquéritos alimentares e outros trabalhos de campo;\n\nh) A selecção de reagentes e equipamento;\n\ni) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal designado.\n\n3 - Ao técnico superior de saúde assessor superior são atribuídas, para além das funções do assistente, do assistente principal e do assessor:\n\na) A participação na estruturação e organização dos serviços;\n\nb) A elaboração e coordenação de programas de protocolos de actividade científica e técnica;\n\nc) a emissão de pareceres técnico-científicos;\n\nd) A participação na definição da política de saúde alimentar ao nível regional ou nacional;\n\ne) A integração em comissões especializadas;\n\nf) A coordenação e avaliação dos técnicos superiores de saúde do ramo de medicina veterinária, integrados na correspondente unidade de acção;\n\ng) Orientar serviços de medicina e cirurgia experimental e prestar colaboração técnico-científica especializada, necessária à recuperação dos animais utilizados."
+  },
+  "48817075": {
+   "fragment_id": "37341975",
+   "type": 8,
+   "heading": "Secção III — Funções dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Funções dirigentes"
+  },
+  "48817175": {
+   "fragment_id": "38953075",
+   "type": 11,
+   "heading": "Artigo 26.º — Criação de cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Criação de cargos dirigentes\n\n1 - Sempre que nos serviços ou estabelecimentos onde são exercidas funções de qualquer dos ramos da presente carreira se desenvolvam actividades com suficiente identidade orgânica e abrangendo um número significativo de efectivos de pessoal, deverão ser criados lugares de director de serviços e chefe de divisão, por portaria conjunta dos Ministros da Saúde e das Finanças.\n\n2 - Para efeitos do número anterior são desde já considerados com suficiente identidade orgânica:\n\na) Os serviços de engenharia sanitária;\n\nb) Os serviços farmacêuticos;\n\nc) Os serviços de veterinária;\n\nd) Os laboratórios de saúde pública."
+  },
+  "48817275": {
+   "fragment_id": "38953175",
+   "type": 11,
+   "heading": "Artigo 27.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Recrutamento\n\nO recrutamento para os lugares de director de serviços ou chefe de divisão, referidos no artigo anterior, é feito de entre os técnicos superiores de saúde do ramo respectivo, de acordo com as seguintes regras:\n\na) O chefe de divisão, de entre assessores superiores ou assessores, ou ainda assistentes principais com pelo menos seis anos de experiência profissional em categorias inseridas na carreira;\n\nb) O director de serviços, de entre assessores superiores, ou de entre assessores com pelo menos oito anos de experiência profissional em categorias inseridas na carreira."
+  },
+  "48817375": {
+   "fragment_id": "35804175",
+   "type": 1,
+   "heading": "Capítulo III — Exercício de funções e formação permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Exercício de funções e formação permanente"
+  },
+  "48817475": {
+   "fragment_id": "37342075",
+   "type": 11,
+   "heading": "Artigo 28.º — Exercício profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Exercício profissional\n\n1 - A integração na carreira determina o exercício das correspondentes funções, nos termos do presente diploma.\n\n2 - O técnico superior de saúde exerce a sua actividade com plena responsabilidade profissional, através do correcto exercício das funções assumidas, coopera com outros profissionais cuja acção seja complementar da sua e participa nas equipas de trabalho para o efeito constituídas."
+  },
+  "48817575": {
+   "fragment_id": "37342175",
+   "type": 11,
+   "heading": "Artigo 29.º — Regimes e modalidades de horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regimes e modalidades de horário de trabalho\n\n1 - As modalidades de horário de trabalho dos técnicos superiores de saúde são as seguintes:\n\na) Tempo completo;\n\nb) Horário acrescido.\n\n2 - O trabalho em regime de tempo parcial pode ser prestado nas situações e nos termos previstos na lei geral aplicável à função pública.\n\n3 - Em função das condições e necessidades do regular e eficiente funcionamento dos serviços, poderão ser delimitados períodos de prestação de trabalho em serviços de urgência, até ao limite máximo de doze horas semanais, bem como ser adoptadas modalidades de horário de trabalho previstas na lei geral aplicável à função pública, designadamente horários desfasados, de acordo com regras a definir por despacho do Ministro da Saúde.\n\n4 - Às modalidades de tempo completo e de horário acrescido corresponde a prestação de trinta e cinco horas e de quarenta e duas horas de trabalho normal por semana, respectivamente.\n\n5 - A modalidade de horário acrescido só pode ser adoptada quando seja indispensável para assegurar o regular e eficiente funcionamento dos serviços e está dependente de autorização do Ministro da Saúde mediante proposta devidamente fundamentada do estabelecimento interessado e anuência do respectivo técnico superior de saúde.\n\n6 - Os técnicos superiores de saúde que exerçam funções em condições que envolvam excepcional risco usufruirão de direitos especiais quanto às condições de prestação de trabalho, em termos a definir por decreto-lei.\n\n7 - Aos técnicos superiores de saúde no exercício de funções dirigentes ou com idade superior a 50 anos poderá ser concedida, a seu pedido, dispensa de prestação de serviço de urgência."
+  },
+  "48817675": {
+   "fragment_id": "37342275",
+   "type": 11,
+   "heading": "Artigo 30.º — Efeitos da modalidade de horário acrescido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Efeitos da modalidade de horário acrescido\n\n1 - A modalidade de horário acrescido confere o direito a um acréscimo salarial de 25% sobre a remuneração base, o qual é tomado em consideração, nos termos da lei geral aplicável à função pública, no cálculo do pagamento dos subsídios de férias e de Natal.\n\n2 - A modalidade referida no número anterior confere o direito a um aumento de 25% no tempo de serviço para efeitos de aposentação, e o correspondente acréscimo salarial será considerado na fixação da pensão de aposentação, nos termos do correspondente estatuto."
+  },
+  "48817775": {
+   "fragment_id": "37342375",
+   "type": 11,
+   "heading": "Artigo 31.º — Cessação e suspensão da modalidade de horário acrescido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Cessação e suspensão da modalidade de horário acrescido\n\n1 - A modalidade de horário acrescido cessará nas seguintes situações:\n\na) Quando cessarem as necessidades do serviço que determinaram a sua aplicação;\n\nb) Quando houver modificação da situação funcional do técnico superior de saúde;\n\nc) Quando o funcionário o requerer, com a antecedência de seis meses, prazo que pode ser dispensado em circunstâncias excepcionais;\n\nd) Por deficiente cumprimento pelo funcionário das suas obrigações, devidamente comprovado.\n\n2 - O regime a que se refere o presente artigo fica suspenso durante a frequência de cursos ou outras actividades de formação.\n\n3 - Salvo nos casos de faltas por maternidade e de férias, as remunerações suplementares previstas no n.º 1 do artigo 30.º só são devidas em situação de prestação efectiva de trabalho."
+  },
+  "48817875": {
+   "fragment_id": "37342475",
+   "type": 11,
+   "heading": "Artigo 32.º — Formação permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Formação permanente\n\n1 - A formação permanente do técnico superior de saúde deve ser contínua, planeada e programada.\n\n2 - O técnico superior de saúde tem direito, em termos a regulamentar mediante portaria conjunta dos Ministros da Saúde e das Finanças:\n\na) A formação complementar com vista à maior diferenciação técnica e especialização na área técnico-científica do ramo em que exerce a sua actividade;\n\nb) A ciclos de estudos especiais com vista ao aperfeiçoamento em áreas específicas de actividade.\n\n3 - Aos técnicos superiores de saúde detentores de categorias inseridas nas áreas de recrutamento previstas no artigo 27.º serão facultados cursos ou seminários vocacionados para o exercício de funções dirigentes."
+  },
+  "48817975": {
+   "fragment_id": "35804275",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "48818075": {
+   "fragment_id": "37342575",
+   "type": 11,
+   "heading": "Artigo 33.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Remuneração\n\nAs remunerações dos técnicos superiores de saúde são fixadas com base no horário normal de trabalho de trinta e cinco horas semanais e constam do mapa anexo ao presente diploma, sendo o valor do índice 100 fixado por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças."
+  },
+  "48818175": {
+   "fragment_id": "37342675",
+   "type": 11,
+   "heading": "Artigo 34.º — Transição do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Transição do pessoal\n\n1 - Os actuais técnicos superiores de saúde transitam para as novas categorias previstas no presente diploma de acordo com as seguintes regras:\n\na) Os técnicos superiores de 2.ª classe posicionados nos 1.º, 2.º e 3.º escalões transitam para o 1.º escalão da categoria de assistente;\n\nb) Os técnicos superiores de 2.ª classe posicionados nos 4.º e 5.º escalões transitam para o 3.º escalão da categoria de assistente;\n\nc) Os técnicos superiores de 2.ª classe aprovados em concursos ainda válidos transitam para o 4.º escalão da categoria de assistente;\n\nd) Os técnicos superiores de 1.ª classe posicionados nos 1.º, 2.º e 3.º escalões transitam para o 1.º escalão da categoria de assistente principal;\n\ne) Os técnicos superiores de 1.ª classe posicionados nos 4.º, 5.º e 6.º escalões transitam para o 3.º escalão da categoria de assistente principal;\n\nf) Os técnicos superiores de 1.ª classe aprovados em concursos ainda válidos transitam para o 4.º escalão da categoria de assistente principal;\n\ng) Os técnicos superiores principais transitam para o 5.º escalão da categoria de assistente principal;\n\nh) Os técnicos superiores principais aprovados em concurso ainda válidos transitam para o 2.º escalão da categoria de assessor;\n\ni) Os assessores posicionados no 1.º escalão transitam para o 2.º escalão da categoria de assessor;\n\nj) Os assessores posicionados no 2.º escalão transitam para o 3.º escalão da categoria de assessor;\n\nk) Os assessores posicionados no 3.º escalão transitam para o 4.º escalão da categoria de assessor;\n\nl) Os assessores aprovados em concursos ainda válidos transitam para o 1.º escalão da categoria de assessor superior;\n\nm) Os assessores principais transitam para o 2.º escalão da categoria de assessor superior.\n\n2 - Aos actuais técnicos superiores de saúde que, por força da aplicação das regras definidas no n.º 1, tenham transitado para a categoria de assessor é facultado o acesso à categoria de assessor superior mediante concurso de avaliação curricular.\n\n3 - O pessoal que se encontre provido em lugares das carreiras técnica superior ou técnica de regime geral que, sendo possuidor de licenciatura em Ciências da Nutrição, se encontre no exercício efectivo de funções próprias do ramo de nutrição transita para a carreira de técnico superior de saúde do correspondente ramo, sendo integrado na categoria de assistente, em escalão a que corresponda remuneração igual à auferida, ou à imediatamente superior, se não houver correspondência.\n\n4 - O tempo de serviço a considerar para efeitos de progressão nas categorias resultantes da aplicação das regras de transição constantes deste artigo será contado a partir da data da entrada em vigor do presente diploma."
+  },
+  "48818275": {
+   "fragment_id": "37342775",
+   "type": 11,
+   "heading": "Artigo 35.º — Salvaguarda de situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Salvaguarda de situações especiais\n\n1 - Os estágios em curso à data da entrada em vigor deste diploma continuam a reger-se pelo regulamento aprovado pela Portaria n.º 605/84, de 16 de Agosto, com as alterações introduzidas pela Portaria n.º 552/88, de 16 de Agosto, sendo a remuneração dos estagiários a correspondente ao índice 85.\n\n2 - Durante um período transitório de três anos, contado da data de entrada em vigor do presente diploma, os estagiários aprovados nos estágios referidos no n.º 1 poderão candidatar-se a concursos de provimento em lugares de assistente.\n\n3 - De idêntica faculdade gozam os indivíduos já habilitados com estágio e os titulares de equiparação ao estágio concedida ao abrigo do n.º 14.1 do regulamento aprovado pela Portaria n.º 605/84, de 16 de Agosto, na nova redacção que lhe foi dada pelo n.º 4.º da Portaria n.º 552/88, de 16 de Agosto, desde que concedida em processo iniciado antes da entrada em vigor do presente decreto-lei."
+  },
+  "48818375": {
+   "fragment_id": "37342875",
+   "type": 11,
+   "heading": "Artigo 36.º — Concursos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Concursos pendentes\n\nMantêm-se em vigor os concursos publicitados à data do início de vigência deste diploma, sendo os candidatos neles aprovados nomeados nas correspondentes categorias de acordo com as regras de transição previstas no artigo 34.º"
+  },
+  "48818475": {
+   "fragment_id": "37342975",
+   "type": 11,
+   "heading": "Artigo 37.º — Formalidades da transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Formalidades da transição\n\nA transição para as categorias e escalões nos termos do artigo 34.º é feita por lista nominativa aprovada pelo órgão dirigente máximo do serviço ou estabelecimento e publicada no Diário da República, produzindo efeitos remuneratórios a partir de 1 do mês seguinte ao da entrada em vigor do presente diploma."
+  },
+  "48818575": {
+   "fragment_id": "37343075",
+   "type": 11,
+   "heading": "Artigo 38.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Quadros de pessoal\n\n1 - Os serviços e estabelecimentos promoverão a alteração dos seus quadros ou mapas de pessoal, de forma a adequá-los ao presente diploma, não podendo daquela alteração resultar aumento global de lugares actualmente existentes.\n\n2 - O número de lugares a prever para as categorias de assistente e de assistente principal será estabelecido conjuntamente."
+  },
+  "48818675": {
+   "fragment_id": "37343175",
+   "type": 11,
+   "heading": "Artigo 39.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Legislação subsidiária\n\nEm tudo o que não esteja expressamente previsto no presente diploma aplica-se o disposto no Decreto-Lei n.º 353-A/89, de 16 de Outubro, e demais legislação em vigor para a função pública."
+  },
+  "48818775": {
+   "fragment_id": "37343275",
+   "type": 11,
+   "heading": "Artigo 40.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Legislação revogada\n\nSem prejuízo do disposto no artigo 35.º, é revogado o Decreto Regulamentar n.º 29/81, de 24 de Junho, e toda a legislação complementar."
+  },
+  "51884475": {
+   "fragment_id": "35101175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1993-07-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+   ],
+   "markdown": "O progresso das ciências e das tecnologias da saúde implica, cada vez mais, uma actividade multidisciplinar integrada que envolve profissionais com diferentes formações curriculares, específicas e diferenciadas.\n\nConsiderando esta realidade, surge a necessidade de recorrer a técnicos de formação universitária e altamente qualificados, nos quais se incluem os técnicos superiores de saúde, enquadrados numa carreira criada pelo Decreto Regulamentar n.º 29/81, de 24 de Junho, e cujas origens remontam às carreiras farmacêutica e de técnico superior de laboratório, previstas no Decreto-Lei n.º 414/71, de 27 de Setembro.\n\nAo contrário, porém, do que tem acontecido com outros grupos profissionais do âmbito da saúde, aquela carreira tem permanecido sem significativas alterações ao longo destes anos, cumprindo até realçar que as correspondentes funções têm sofrido de alguma indefinição geradora de perturbações ao bom funcionamento dos serviços.\n\nO presente diploma reformula o regime legal da carreira dos técnicos superiores de saúde e enquadra-se no objectivo prioritário do Governo de modernização da Administração Pública, através de um projecto de desenvolvimento e valorização dos seus profissionais com vista à melhoria da rentabilidade e qualidade dos serviços a prestar.\n\nA medida legislativa é ditada pela necessidade de dotar a carreira de um modelo mais dinâmico e exigente, adequado a uma nova forma de perspectivar e conceber a organização e funcionamento dos estabelecimentos de saúde e enquadrando estes profissionais, a par de outros técnicos de saúde, pelo reconhecimento da sua epecificidade e autonomia funcionais, num corpo especial de funcionários, a retribuir por escala indiciária própria.\n\nEssa escala é concebida em articulação com a escala indiciária geral e estruturada em moldes semelhantes em obediência aos princípios gerais sobre remunerações, estabelecidas no Decreto-Lei n.º 184/89, de 2 de Junho.\n\nImporta ainda referir que foram ouvidas as associações sindicais representativas dos técnicos superiores de saúde.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 da base XXXI da Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+  },
+  "51884075": {
+   "fragment_id": "37341575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "1993-07-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente diploma tem por objectivo a definição do regime legal da carreira dos técnicos superiores de saúde integrados nos serviços pertencentes ao Ministério da Saúde, nas unidades de saúde ou estabelecimentos hospitalares.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+  },
+  "48818875": {
+   "fragment_id": "35804375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Jorge Augusto Pires - José Albino da Silva Peneda.\n\nPromulgado em 3 de Outubro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 7 de Outubro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "48818975": {
+   "fragment_id": "35804475",
+   "type": 14,
+   "heading": "MAPA ANEXO — Técnicos superiores de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA ANEXO — Técnicos superiores de saúde\n\n(ver documento original)"
+  },
+  "51886475": {
+   "fragment_id": "35101175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1994-09-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27",
+    "Alterado pelo/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+   ],
+   "markdown": "O progresso das ciências e das tecnologias da saúde implica, cada vez mais, uma actividade multidisciplinar integrada que envolve profissionais com diferentes formações curriculares, específicas e diferenciadas.\n\nConsiderando esta realidade, surge a necessidade de recorrer a técnicos de formação universitária e altamente qualificados, nos quais se incluem os técnicos superiores de saúde, enquadrados numa carreira criada pelo Decreto Regulamentar n.º 29/81, de 24 de Junho, e cujas origens remontam às carreiras farmacêutica e de técnico superior de laboratório, previstas no Decreto-Lei n.º 414/71, de 27 de Setembro.\n\nAo contrário, porém, do que tem acontecido com outros grupos profissionais do âmbito da saúde, aquela carreira tem permanecido sem significativas alterações ao longo destes anos, cumprindo até realçar que as correspondentes funções têm sofrido de alguma indefinição geradora de perturbações ao bom funcionamento dos serviços.\n\nO presente diploma reformula o regime legal da carreira dos técnicos superiores de saúde e enquadra-se no objectivo prioritário do Governo de modernização da Administração Pública, através de um projecto de desenvolvimento e valorização dos seus profissionais com vista à melhoria da rentabilidade e qualidade dos serviços a prestar.\n\nA medida legislativa é ditada pela necessidade de dotar a carreira de um modelo mais dinâmico e exigente, adequado a uma nova forma de perspectivar e conceber a organização e funcionamento dos estabelecimentos de saúde e enquadrando estes profissionais, a par de outros técnicos de saúde, pelo reconhecimento da sua epecificidade e autonomia funcionais, num corpo especial de funcionários, a retribuir por escala indiciária própria.\n\nEssa escala é concebida em articulação com a escala indiciária geral e estruturada em moldes semelhantes em obediência aos princípios gerais sobre remunerações, estabelecidas no Decreto-Lei n.º 184/89, de 2 de Junho.\n\nImporta ainda referir que foram ouvidas as associações sindicais representativas dos técnicos superiores de saúde.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 da base XXXI da Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27\n\n> Alterado pelo/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+  },
+  "51886575": {
+   "fragment_id": "40498875",
+   "type": 11,
+   "heading": "Artigo 13.º — Funções das categorias do ramo de farmácia",
+   "in_force_from": "1994-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27"
+   ],
+   "markdown": "###### Artigo 13.º — Funções das categorias do ramo de farmácia\n\n1 - Ao técnico superior de saúde farmacêutico assistente e assistente principal são atribuídas as seguintes funções, tendo em conta os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) A responsabilidade técnica das aquisições de medicamentos e produtos farmacêuticos, da sua qualidade e correcta conservação;\n\nb) O estabelecimento de sistemas eficazes e seguros de distribuição e administração de medicamentos;\n\nc) A produção de fórmulas magistrais necessárias ou convenientes para o hospital ou instituição, bem como a análise e controlo correspondentes;\n\nd) A formulação e controlo, em secção especializada, de misturas intravenenosas para nutrição parenteral;\n\ne) O desenvolvimento de actividades de farmácia clínica, relacionadas com a terapêutica medicamentosa, a elaboração do perfil farmacoterapêutico do doente, os estudos de farmacocinética e monitorização de medicamentos, as acções de farmacovigilância e, ainda, estudos sobre formulação, qualidade e estabilidade dos medicamentos;\n\nf) A integração em comissões clínicas e técnico-científicas que têm em vista a disciplina e racionalização de terapêutica medicamentosa, a melhoria assistencial e a salvaguarda da saúde pública;\n\ng) O cumprimento das exigências legais sobre medicamentos, estupefacientes e psicotrópicos;\n\nh) O estudo estatístico do consumo de medicamentos;\n\ni) A colaboração em acções de investigação clínica com medicamentos;\n\nj) A colaboração em programas de ensino de formação contínua e de valorização profissional a nível farmacêutico e de outros técnicos de saúde;\n\nk) A colaboração na área da sua competência em actividades conducentes à programação da saúde e educação sanitária, hábitos de higiene, correcta alimentação, perigos de automedicação, acompanhamento de doentes de alto risco, doenças crónicas e reacções adversas;\n\nl) Assegurar todas as urgências medicamentosas;\n\nm) O apoio técnico aos profissionais de saúde, serviços ou departamentos;\n\nn) A participação em júris de concursos e de avaliação.\n\no) A realização de acções de inspecção, quando integrados em estabelecimentos ou serviços que detenham competências fiscalizadoras.\n\n2 - Ao técnico superior de saúde farmacêutico assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A emissão de pareceres técnico-científicos;\n\nb) A participação na elaboração, planeamento e coordenação dos programas do serviço;\n\nc) A colaboração na formação profissional complementar dos técnicos superiores de saúde do ramo farmacêutico;\n\nd) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal for designado.\n\n3 - Ao técnico superior de saúde farmacêutico assessor superior, além das funções do assistente, do assistente principal e do assessor, compete:\n\na) A participação na definição da política de saúde no âmbito da sua área ao nível regional ou nacional;\n\nb) O planeamento e coordenação dos programas dos serviços farmacêuticos de cuidados de saúde primários e diferenciados;\n\nc) A avaliação da eficácia e eficiência dos serviços;\n\nd) A participação na estruturação e organização dos serviços;\n\ne) A elaboração do plano anual e do relatório de actividades;\n\nf) A planificação, coordenação, orientação e avaliação das actividades dos estagiários de pré-licenciatura e de formação profissional;\n\ng) A participação na formação profissional complementar dos técnicos superiores de saúde do ramo de farmácia;\n\nh) A coordenação e avaliação dos técnicos superiores de saúde do ramo farmacêutico, integrados na correspondente unidade de acção.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27"
+  },
+  "51887575": {
+   "fragment_id": "35101175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 9/98 - Diário da República n.º 13/1998, Série I-A de 1998-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), em vigor a partir de 1996-09-27",
+    "Alterado pelo/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27",
+    "Alterado pelo/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+   ],
+   "markdown": "O progresso das ciências e das tecnologias da saúde implica, cada vez mais, uma actividade multidisciplinar integrada que envolve profissionais com diferentes formações curriculares, específicas e diferenciadas.\n\nConsiderando esta realidade, surge a necessidade de recorrer a técnicos de formação universitária e altamente qualificados, nos quais se incluem os técnicos superiores de saúde, enquadrados numa carreira criada pelo Decreto Regulamentar n.º 29/81, de 24 de Junho, e cujas origens remontam às carreiras farmacêutica e de técnico superior de laboratório, previstas no Decreto-Lei n.º 414/71, de 27 de Setembro.\n\nAo contrário, porém, do que tem acontecido com outros grupos profissionais do âmbito da saúde, aquela carreira tem permanecido sem significativas alterações ao longo destes anos, cumprindo até realçar que as correspondentes funções têm sofrido de alguma indefinição geradora de perturbações ao bom funcionamento dos serviços.\n\nO presente diploma reformula o regime legal da carreira dos técnicos superiores de saúde e enquadra-se no objectivo prioritário do Governo de modernização da Administração Pública, através de um projecto de desenvolvimento e valorização dos seus profissionais com vista à melhoria da rentabilidade e qualidade dos serviços a prestar.\n\nA medida legislativa é ditada pela necessidade de dotar a carreira de um modelo mais dinâmico e exigente, adequado a uma nova forma de perspectivar e conceber a organização e funcionamento dos estabelecimentos de saúde e enquadrando estes profissionais, a par de outros técnicos de saúde, pelo reconhecimento da sua epecificidade e autonomia funcionais, num corpo especial de funcionários, a retribuir por escala indiciária própria.\n\nEssa escala é concebida em articulação com a escala indiciária geral e estruturada em moldes semelhantes em obediência aos princípios gerais sobre remunerações, estabelecidas no Decreto-Lei n.º 184/89, de 2 de Junho.\n\nImporta ainda referir que foram ouvidas as associações sindicais representativas dos técnicos superiores de saúde.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 da base XXXI da Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 9/98 - Diário da República n.º 13/1998, Série I-A de 1998-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), em vigor a partir de 1996-09-27\n\n> Alterado pelo/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27\n\n> Alterado pelo/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+  },
+  "51887675": {
+   "fragment_id": "38951775",
+   "type": 11,
+   "heading": "Artigo 4.º — Ingresso",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 4.º — Ingresso\n\n1 - O ingresso na carreira de técnicos superiores de saúde faz-se pela categoria de assistente, mediante concurso de avaliação curricular, de entre os profissionais habilitados com o grau de especialista do respectivo ramo de actividade.\n\n2 - A avaliação curricular referida no número anterior pode ser complementada com entrevista profissional de selecção.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51887775": {
+   "fragment_id": "38951875",
+   "type": 11,
+   "heading": "Artigo 5.º — Grau de especialista",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 5.º — Grau de especialista\n\n1 - O ingresso na carreira está condicionado à posse de habilitação profissional que confere o grau de especialista.\n\n2 - A posse do grau referido no número anterior não confere, por si só, vinculação à função pública.\n\n3 - O grau é obtido mediante processo de formação pré-carreira.\n\n4 - Mediante portaria do Ministro da Saúde e do membro do Governo que tiver a seu cargo a Administração Pública, podem ser reconhecidos como equivalentes à formação pré-carreira prevista no número anterior cursos de especialização e de pós-licenciatura adequados.\n\n5 - Aos indivíduos possuidores de um dos cursos a que se refere o número anterior é atribuído o grau de especialista.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51887875": {
+   "fragment_id": "38951975",
+   "type": 11,
+   "heading": "Artigo 6.º — Habilitação profissional",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 6.º — Habilitação profissional\n\n1 - A habilitação profissional a que se refere o artigo 5.º visa a profissionalização e a especialização para o exercício das actividades profissionais dos técnicos superiores de saúde, em termos de autonomia e diferenciação técnica.\n\n2 - A habilitação referida no n.º 1 obtém-se mediante um estágio de especialidade com uma duração variável de dois a quatro anos a especificar para cada um dos ramos previstos no artigo 9.º, nos termos do n.º 6 deste artigo.\n\n3 - O recrutamento dos estagiários faz-se em função das necessidades previsionais dos serviços, e das capacidades formativas disponíveis em serviços de saúde oficiais de reconhecida idoneidade, mediante concurso de âmbito nacional autorizado pelo Ministro da Saúde.\n\n4 - Os concursos a que se refere o número anterior são abertos para cada um dos ramos de actividade referidos no artigo 9.º, com exigência, como requisito habilitacional, das licenciaturas correspondentes enumeradas no mesmo artigo.\n\n5 - Por portaria conjunta dos Ministros da Saúde e das Finanças serão reguladas as seguintes matérias relativas a estágio:\n\na) Processo de concurso de admissão aos estágios;\n\nb) Normas sobre reconhecimento de idoneidade de serviços de saúde para efeitos de estágios;\n\nc) Organização dos estágios;\n\nd) Regime jurídico de frequência dos estágios;\n\ne) Processo de avaliação final dos estagiários.\n\n6 - Os programas do estágio e a respectiva duração, por ramo de actividade, serão definidos por portaria do Ministro da Saúde, com base em estudos efectuados por comissões especializadas.\n\n7 - O estágio de especialidade é frequentado no regime de contrato administrativo de provimento ou, sendo o estagiário já funcionário, em regime de comissão de serviço extraordinária.\n\n8 - O regime de horário de trabalho dos estagiários é o de trinta e cinco horas semanais, das quais pelo menos seis, e nos ramos que o justifiquem, serão efectuadas em serviço de urgência, desde que este vigore no estabelecimento.\n\n9 - Os estagiários têm a remuneração estabelecida no mapa anexo, sem prejuízo de opção pela correspondente ao lugar de origem, nas situações de comissão de serviço extraordinária.\n\n10 - Após a publicitação dos resultados relativos ao aproveitamento no estágio, o contrato administrativo de provimento ou a comissão de serviço extraordinária consideram-se automaticamente renovados até ao provimento, por concurso, em lugar da carreira com o limite máximo de dois anos a contar do dia 1 do mês seguinte ao da referida publicitação.\n\n11 - O tempo de serviço prestado durante o período de renovação previsto no número anterior conta para todos os efeitos legais, com excepção dos remuneratórios, na categoria de assistente, desde que àquele período se siga o provimento nesta categoria.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51887975": {
+   "fragment_id": "38952075",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 7.º — Acesso\n\n1 - O acesso à categoria de assistente principal efectua-se mediante concurso de avaliação curricular, de entre os assistentes com pelo menos três anos de bom e efectivo serviço na categoria.\n\n2 - O acesso à categoria de assessor efectua-se mediante discussão pública de um trabalho no âmbito da respectiva área técnico-científica, relacionado com a natureza do lugar a prover, a que podem candidatar-se os assistentes principais com, pelo menos, quatro anos de serviço classificados de Bom.\n\n3 - O acesso à categoria de assessor superior efectua-se mediante concurso de provas públicas, que consistirá na apreciação e discussão do currículo profissional do interessado, a que podem candidatar-se os assessores com, pelo menos, três anos de serviço classificados de Bom.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51888075": {
+   "fragment_id": "38953275",
+   "type": 11,
+   "heading": "Artigo 9.º — Ramos de actividade",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 9.º — Ramos de actividade\n\n1 - A carreira dos técnicos superiores de saúde desenvolve-se por ramos de actividade que a seguir se indicam juntamente com as correspondentes licenciaturas adequadas:\n\nRamo de engenharia sanitária:\n\nLicenciaturas em Engenharia do Ambiente, Engenharia Civil, Engenharia Química e ramo de Engenharia Sanitária da licenciatura em Engenharia do Ambiente;\n\nRamo de farmácia:\n\nLicenciaturas em Ciências Farmacêuticas e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção A e ramo A);\n\nRamo de física hospitalar:\n\nLicenciaturas em Física, Físico-Químicas e Engenharia Física;\n\nRamo de genética:\n\nLicenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Química e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção B e ramo B e opção C e ramo C);\n\nRamo de laboratório:\n\nLicenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Química, Química Aplicada, Química Tecnológica e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção B e ramo B e opção C e ramo C);\n\nRamo de nutrição:\n\nLicenciatura em Ciências de Nutrição;\n\nRamo de veterinária:\n\nLicenciatura em Medicina Veterinária.\n\nRamo de psicologia clínica:\n\nLicenciatura em Psicologia e em Psicologia Clínica.\n\n2 - Os ramos reflectem a diferenciação e qualificação profissionais, sem prejuízo da intercomplementaridade de formação e da devida cooperação profissional.\n\n3 - Por portaria conjunta dos Ministros da Saúde e das Finanças podem incluir-se no âmbito da carreira prevista neste diploma outros ramos de actividade.\n\n4 - O elenco das licenciaturas previstas no n.º 1 deste artigo pode ser alterado por portaria do Ministro da Saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51888175": {
+   "fragment_id": "40498775",
+   "type": 11,
+   "heading": "Artigo 12.º — Perfil profissional do farmacêutico",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 12.º — Perfil profissional do farmacêutico\n\n1 - O técnico superior de saúde farmacêutico é o profissional habilitado com o grau de especialista responsável pela problemática do medicamento, assegurando a prestação de assistência medicamentosa ao doente, desenvolvendo para o efeito actividades de carácter técnico e científico relacionadas com a terapêutica e sua eficácia, a utilização do medicamento e suas implicações no doente, a informação e educação sanitária.\n\n2 - Nos estabelecimentos com serviços farmacêuticos, a direcção destes é confiada a técnico superior de saúde farmacêutico.\n\n3 - O farmacêutico deve aprofundar o seu perfil profissional orientando-se para o exercício em áreas profissionais específicas.\n\n4 - São desde já reconhecidas as seguintes áreas profissionais específicas:\n\na) Farmácia hospitalar;\n\nb) Farmacoterapia;\n\nc) Radiofarmácia.\n\n5 - Poderão ser reconhecidas outras áreas profissionais específicas, por portaria do Ministro da Saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51888475": {
+   "fragment_id": "40498875",
+   "type": 11,
+   "heading": "Artigo 13.º — Funções das categorias do ramo de farmácia",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27"
+   ],
+   "markdown": "###### Artigo 13.º — Funções das categorias do ramo de farmácia\n\n1 - Ao técnico superior de saúde farmacêutico assistente e assistente principal são atribuídas as seguintes funções, tendo em conta os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) A responsabilidade técnica das aquisições de medicamentos e produtos farmacêuticos, da sua qualidade e correcta conservação;\n\nb) O estabelecimento de sistemas eficazes e seguros de distribuição e administração de medicamentos;\n\nc) A produção de fórmulas magistrais necessárias ou convenientes para o hospital ou instituição, bem como a análise e controlo correspondentes;\n\nd) A formulação e controlo, em secção especializada, de misturas intravenenosas para nutrição parenteral;\n\ne) O desenvolvimento de actividades de farmácia clínica, relacionadas com a terapêutica medicamentosa, a elaboração do perfil farmacoterapêutico do doente, os estudos de farmacocinética e monitorização de medicamentos, as acções de farmacovigilância e, ainda, estudos sobre formulação, qualidade e estabilidade dos medicamentos;\n\nf) A integração em comissões clínicas e técnico-científicas que têm em vista a disciplina e racionalização de terapêutica medicamentosa, a melhoria assistencial e a salvaguarda da saúde pública;\n\ng) O cumprimento das exigências legais sobre medicamentos, radiofármacos, estupefacientes e psicotrópicos;\n\nh) O estudo estatístico do consumo de medicamentos;\n\ni) A colaboração em acções de investigação clínica com medicamentos e radiofármacos;\n\nj) A colaboração em programas de ensino de formação contínua e de valorização profissional a nível farmacêutico e de outros técnicos de saúde;\n\nk) A colaboração na área da sua competência em actividades conducentes à programação da saúde e educação sanitária, hábitos de higiene, correcta alimentação, perigos de automedicação, acompanhamento de doentes de alto risco, doenças crónicas e reacções adversas;\n\nl) Assegurar todas as urgências medicamentosas;\n\nm) O apoio técnico aos profissionais de saúde, serviços ou departamentos;\n\nn) A participação em júris de concursos e de avaliação.\n\no) O planeamento na área específica dos protocolos de aplicação dos radiofármacos, quer de diagnóstico quer de terapêutica, assegurando a optimização e controlo da qualidade;\n\np) A preparação e controlo da qualidade dos radiofármacos nos aspectos do controlo físico-químico, químico, radioquímico, biológico e farmacológico, bem como a preparação e cálculo de doses químicas e radioquímicas a administrar ao doente;\n\nq) A responsabilidade pela recepção e administração de radiofármacos nos estabelecimentos ou serviços onde exercem funções;\n\nr) Os doseamentos in vitro com recurso a produtos marcados com radionuclidos.\n\n2 - Ao técnico superior de saúde farmacêutico assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A emissão de pareceres técnico-científicos;\n\nb) A participação na elaboração, planeamento e coordenação dos programas do serviço;\n\nc) A colaboração na formação profissional complementar dos técnicos superiores de saúde do ramo farmacêutico;\n\nd) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal for designado.\n\n3 - Ao técnico superior de saúde farmacêutico assessor superior, além das funções do assistente, do assistente principal e do assessor, compete:\n\na) A participação na definição da política de saúde no âmbito da sua área ao nível regional ou nacional;\n\nb) O planeamento e coordenação dos programas dos serviços farmacêuticos de cuidados de saúde primários e diferenciados;\n\nc) A avaliação da eficácia e eficiência dos serviços;\n\nd) A participação na estruturação e organização dos serviços;\n\ne) A elaboração do plano anual e do relatório de actividades;\n\nf) A planificação, coordenação, orientação e avaliação das actividades dos estagiários de pré-licenciatura e de formação profissional;\n\ng) A participação na formação profissional complementar dos técnicos superiores de saúde do ramo de farmácia;\n\nh) A coordenação e avaliação dos técnicos superiores de saúde do ramo farmacêutico, integrados na correspondente unidade de acção.\n\ni) A assessoria técnica em matérias da sua área técnico-científica;\n\nj) A participação em comissões ou reuniões técnicas com funções normativas dentro da sua área específica;\n\nk) A colaboração no planeamento das instalações de trabalho apresentando exigências técnicas inerentes à sua área de actividade;\n\nl) O estudo do equipamento necessário à sua actividade antes e durante a sua instalação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27"
+  },
+  "51888575": {
+   "fragment_id": "40499075",
+   "type": 11,
+   "heading": "Artigo 15.º — Funções das categorias do ramo de física hospitalar",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 15.º — Funções das categorias do ramo de física hospitalar\n\n1 - Ao físico hospitalar assistente e assistente principal são atribuídas as seguintes funções, tendo em conta os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) O planeamento dos protocolos de aplicação das radiações (fontes externas ou internas), dos radionuclidos, quer no diagnóstico quer na terapêutica, e a responsabilidade pelas medidas físicas envolvidas, controlo da qualidade e optimização das aplicações clínicas;\n\nb) A dosimetria básica e calibração de todas as fontes de radiação, assim como a calibração de todo o equipamento utilizado e a optimização das condições técnicas de trabalho;\n\nc) O processamento dos dados obtidos nas diferentes aplicações e optimização desta informação através de métodos matemáticos adequados;\n\nd) O cálculo das doses «absorvidas» aplicadas ao doente, quer a partir das fontes de radiação, quer por administração de agentes radioactivos, e melhorar as condições de forma a reduzi-las quanto possível;\n\ne) O estudo do equipamento antes e durante a sua instalação e preparação das normas de exploração e de controlo de qualidade desse equipamento, assim como das fontes radioactivas utilizadas;\n\nf) Assegurar o controlo das instalações relativamente às normas de protecção contra as radiações;\n\ng) A responsabilidade pela recepção, manipulação, armazenamento e transporte dos radionúclidos ou fontes radioactivas nas instituições em que estão inseridos;\n\nh) A participação em júris de concursos e de avaliação.\n\n2 - Ao físico hospitalar assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A coordenação de protocolos de actividades científicas, técnicas e pedagógicas, distinguindo nestas últimas o treino dos internos e restante pessoal relativamente às normas de protecção contra as radiações nos respectivos departamentos;\n\nb) O desempenho das funções de «oficial das radiações» do departamento;\n\nc) A colaboração no planeamento das instalações de trabalho, apresentando as exigências técnicas inerentes à sua área de actividade;\n\nd) A assessoria técnica em matérias da sua área;\n\ne) A participação em comissões ou reuniões técnicas com funções normativas dentro da sua área;\n\nf) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas ou impedimentos, quando para tal designado.\n\ng) O processamento dos dados obtidos nas diferentes aplicações e optimização desta informação através de métodos matemáticos adequados.\n\n3 - Ao físico hospitalar assessor superior são atribuídas, para além das funções do assistente, do assistente principal e do assessor:\n\na) A coordenação e avaliação dos técnicos superiores de saúde do ramo de física hospitalar, integrados na correspondente unidade de acção;\n\nb) A colaboração no estudo, organização, programação e execução de política de saúde nacional ou regional de acordo com as competências técnicas e hierárquicas;\n\nc) A avaliação periódica da eficácia e eficiência dos respectivos serviços;\n\nd) A elaboração do plano anual e do relatório de actividades;\n\ne) A participação na formação profissional complementar dos técnicos superiores de saúde do ramo de física hospitalar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51888675": {
+   "fragment_id": "40499475",
+   "type": 11,
+   "heading": "Artigo 19.º — Funções das categorias do ramo de laboratório",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 19.º — Funções das categorias do ramo de laboratório\n\n1 - Ao técnico superior de saúde assistente e assistente principal são atribuídas as seguintes funções, de acordo com os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) O estudo teórico e prático de métodos de análise laboratorial, sua validação e se necessário execução de técnicas altamente diferenciadas;\n\nb) A avaliação, interpretação e validação de resultados e seu controlo da qualidade;\n\nc) A participação na selecção de reagentes e equipamentos;\n\nd) A integração em equipas de serviço de urgência, conjuntamente com os outros profissionais de saúde do seu departamento, ou serviço, quando este regime se pratique;\n\ne) A responsabilidade por sectores ou unidades de serviço;\n\nf) A cooperação em protocolos de estudo e investigação;\n\ng) A participação em programas de investigação científica relacionados com a sua área profissional;\n\nh) A participação em júris de concursos e de avaliação.\n\n2 - Ao técnico superior de saúde assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A selecção, concepção, adaptação e se necessário a execução de novas metodologias em fase de experimentação;\n\nb) O controlo global de qualidade e interpretação de resultados;\n\nc) O controlo e, se necessário, a execução de metodologias que envolvam elevado grau de responsabilidade e qualificação técnico-científica ou que impliquem manipulações de alto risco;\n\nd) O desenvolvimento e coordenação de protocolos de estudo;\n\ne) A participação no planeamento e elaboração dos programas do serviço;\n\nf) A participação nas acções de formação do pessoal, de estagiários e de internos de especialidade;\n\ng) A selecção e elaboração de metodologias necessárias à monitorização de factores susceptíveis de alterar a saúde individual ou colectiva, em colaboração com outros profissionais da saúde;\n\nh) A promoção no estabelecimento de indicadores e normas de qualidade dos diversos parâmetros com interesse na saúde, bem como a colaboração com outros organismos oficiais nesta matéria, e na elaboração de diplomas técnico-normativos no domínio da saúde pública a nível nacional e internacional;\n\ni) A elaboração de metodologias apropriadas à avaliação da eficiência das medidas tomadas, incluindo inquéritos e outros trabalhos de campo;\n\nj) A selecção de reagentes e equipamentos;\n\nk) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal designado.\n\n3 - Ao técnico superior de saúde assessor superior são atribuídas, além das funções do assistente, do assistente principal e do assessor:\n\na) A participação na estruturação e organização dos serviços;\n\nb) A elaboração e coordenação de programas de protocolos de actividades científica e técnica;\n\nc) A emissão de pareceres técnico-científicos;\n\nd) A participação na formação profissional complementar dos técnicos superiores de saúde do ramo laboratorial;\n\ne) A planificação e coordenação das actividades dos estágios de pré-licenciatura e de especialidade;\n\nf) A participação na definição da política de saúde, no âmbito da sua área, a nível regional ou nacional;\n\ng) A integração em comissões especializadas;\n\nh) A coordenação e avaliação dos técnicos superiores de saúde do ramo laboratorial integrados na correspondente unidade de acção.\n\n4 - Ao técnico superior de saúde que tiver a responsabilidade de um serviço compete, em especial:\n\na) A elaboração do programa de actividades do serviço;\n\nb) A coordenação de todas as actividades de gestão técnica, científica, de formação e administrativa;\n\nc) A avaliação da eficácia e eficiência do serviço, promovendo a sua reorganização e actualização sempre que necessário;\n\nd) A elaboração do relatório de actividades.\n\ne) A garantia da qualidade dos serviços.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51888875": {
+   "fragment_id": "40499775",
+   "type": 11,
+   "heading": "Artigo 22.º — Perfil profissional do técnico superior de saúde de medicina nuclear e radiações ionizantes",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 22.º — Perfil profissional do técnico superior de saúde de medicina nuclear e radiações ionizantes\n\n1 - O técnico superior de saúde deste ramo é o profissional habilitado com o grau de especialista que, dada a sua preparação académica e formação complementar nas diferentes áreas englobadas pela medicina nuclear, se responsabiliza pelo suporte técnico-científico dessas áreas colaborando com os outros especialistas médicos.\n\n2 - O técnico superior de saúde deste ramo da carreira deve aprofundar o seu perfil profissional orientando-se para o exercício nas áreas profissionais específicas.\n\n3 - São desde já reconhecidas as seguintes áreas profissionais específicas:\n\na) Biologia;\n\nb) Engenharia;\n\nc) Física;\n\nd) Radiofarmácia;\n\ne) Radioquímica.\n\n4 - Poderão ser reconhecidas outras áreas profissionais específicas por portaria do Ministro da Saúde.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51888975": {
+   "fragment_id": "40499875",
+   "type": 11,
+   "heading": "Artigo 23.º — Funções das categorias do ramo laboratorial de medicina nuclear e radiações ionizantes",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 23.º — Funções das categorias do ramo laboratorial de medicina nuclear e radiações ionizantes\n\n1 - Ao técnico superior de saúde assistente e assistente principal são atribuídas as seguintes funções, de acordo com os níveis de complexidade e de responsabilidade em que se desenvolvem:\n\na) O planeamento, na sua área específica, dos protocolos de aplicação dos radionúclidos quer no diagnóstico quer na terapêutica, assegurando o controlo de qualidade e optimização;\n\nb) A colaboração na calibração de todo o equipamento utilizado e das fontes radioactivas, assim como a optimização das condições técnicas de trabalho;\n\nc) A preparação e controlo da qualidade dos radiofármacos nos aspectos do controlo físico, físico-químico, químico, radioquímico, biológico e farmacológico, bem como a preparação e cálculo de doses químicas e radioquímicas a administrar ao doente;\n\nd) A responsabilidade pela recepção, administração, manipulação e armazenamento dos radionúclidos nos departamentos em que trabalham;\n\ne) O processamento dos dados obtidos nas diferentes aplicações e optimização desta informação através de métodos matemáticos adequados;\n\nf) Os doseamentos in vitro com recurso a produtos marcados com radionúclidos;\n\ng) A participação em júris de concursos e de avaliação.\n\n2 - Ao técnico superior de saúde assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A coordenação de programas e protocolos de actividades científicas, técnicas e pedagógicas;\n\nb) A assessoria técnica em matérias da sua área técnico-científica;\n\nc) A participação em comissões ou reuniões técnicas com funções normativas dentro da sua área;\n\nd) A colaboração no planeamento das instalações de trabalho, apresentando as exigências técnicas inerentes à sua área de actividade;\n\ne) O estudo do equipamento necessário à sua actividade antes e durante a sua instalação, assim como a preparação das normas de exploração e controlo de qualidade do mesmo;\n\nf) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal designado.\n\n3 - Ao técnico superior de saúde assessor superior são atribuídas, para além das funções do assistente, do assistente principal e do assessor:\n\na) A coordenação e avaliação dos técnicos superiores de saúde do ramo de medicina nuclear e radiações ionizantes integrados na correspondente unidade de acção;\n\nb) A participação na definição da política de saúde, no âmbito da sua área, ao nível regional ou nacional;\n\nc) A avaliação periódica da eficiência e eficácia dos respectivos serviços;\n\nd) A elaboração do plano anual e do relatório de actividades.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51888775": {
+   "fragment_id": "37342175",
+   "type": 11,
+   "heading": "Artigo 29.º — Regimes e modalidades de horário de trabalho",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 29.º — Regimes e modalidades de horário de trabalho\n\n1 - As modalidades de horário de trabalho dos técnicos superiores de saúde são as seguintes:\n\na) Tempo completo;\n\nb) Horário acrescido.\n\n2 - O trabalho em regime de tempo parcial pode ser prestado nas situações e nos termos previstos na lei geral aplicável à função pública.\n\n3 - Em função das condições e necessidades do regular e eficiente funcionamento dos serviços, serão delimitados períodos de prestação de trabalho em serviços de urgência, até ao limite máximo de doze horas semanais, bem como adoptadas modalidades de horário de trabalho previstas na lei geral aplicável à função pública, designadamente horários desfasados, de acordo com regras a definir por despacho do Ministro da Saúde.\n\n4 - Às modalidades de tempo completo e de horário acrescido corresponde a prestação de trinta e cinco horas e de quarenta e duas horas de trabalho normal por semana, respectivamente.\n\n5 - A modalidade de horário acrescido só pode ser adoptada quando seja indispensável para assegurar o regular e eficiente funcionamento dos serviços e está dependente de autorização do Ministro da Saúde mediante proposta devidamente fundamentada do estabelecimento interessado e anuência do respectivo técnico superior de saúde.\n\n6 - Os técnicos superiores de saúde que exerçam funções em condições que envolvam excepcional risco usufruirão de direitos especiais quanto às condições de prestação de trabalho, em termos a definir por decreto-lei.\n\n7 - Aos técnicos superiores de saúde no exercício de funções dirigentes ou com idade superior a 50 anos poderá ser concedida, a seu pedido, dispensa de prestação de serviço de urgência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51886975": {
+   "fragment_id": "37342775",
+   "type": 11,
+   "heading": "Artigo 35.º — Salvaguarda de situações especiais",
+   "in_force_from": "1996-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/98 - Diário da República n.º 13/1998, Série I-A de 1998-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), em vigor a partir de 1996-09-27"
+   ],
+   "markdown": "###### Artigo 35.º — Salvaguarda de situações especiais\n\n1 - Os estágios em curso à data da entrada em vigor deste diploma continuam a reger-se pelo regulamento aprovado pela Portaria n.º 605/84, de 16 de Agosto, com as alterações introduzidas pela Portaria n.º 552/88, de 16 de Agosto, sendo a remuneração dos estagiários a correspondente ao índice 85.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/98 - Diário da República n.º 13/1998, Série I-A de 1998-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), em vigor a partir de 1996-09-27"
+  },
+  "51889075": {
+   "fragment_id": "35804475",
+   "type": 14,
+   "heading": "MAPA ANEXO — Técnicos superiores de saúde",
+   "in_force_from": "1999-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "## MAPA ANEXO — Técnicos superiores de saúde\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51889275": {
+   "fragment_id": "35101175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2003-12-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1359/2003 - Diário da República n.º 287/2003, Série I-B de 2003-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2003-431239), em vigor a partir de 2003-12-18",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 9/98 - Diário da República n.º 13/1998, Série I-A de 1998-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), em vigor a partir de 1996-09-27",
+    "Alterado pelo/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27",
+    "Alterado pelo/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+   ],
+   "markdown": "O progresso das ciências e das tecnologias da saúde implica, cada vez mais, uma actividade multidisciplinar integrada que envolve profissionais com diferentes formações curriculares, específicas e diferenciadas.\n\nConsiderando esta realidade, surge a necessidade de recorrer a técnicos de formação universitária e altamente qualificados, nos quais se incluem os técnicos superiores de saúde, enquadrados numa carreira criada pelo Decreto Regulamentar n.º 29/81, de 24 de Junho, e cujas origens remontam às carreiras farmacêutica e de técnico superior de laboratório, previstas no Decreto-Lei n.º 414/71, de 27 de Setembro.\n\nAo contrário, porém, do que tem acontecido com outros grupos profissionais do âmbito da saúde, aquela carreira tem permanecido sem significativas alterações ao longo destes anos, cumprindo até realçar que as correspondentes funções têm sofrido de alguma indefinição geradora de perturbações ao bom funcionamento dos serviços.\n\nO presente diploma reformula o regime legal da carreira dos técnicos superiores de saúde e enquadra-se no objectivo prioritário do Governo de modernização da Administração Pública, através de um projecto de desenvolvimento e valorização dos seus profissionais com vista à melhoria da rentabilidade e qualidade dos serviços a prestar.\n\nA medida legislativa é ditada pela necessidade de dotar a carreira de um modelo mais dinâmico e exigente, adequado a uma nova forma de perspectivar e conceber a organização e funcionamento dos estabelecimentos de saúde e enquadrando estes profissionais, a par de outros técnicos de saúde, pelo reconhecimento da sua epecificidade e autonomia funcionais, num corpo especial de funcionários, a retribuir por escala indiciária própria.\n\nEssa escala é concebida em articulação com a escala indiciária geral e estruturada em moldes semelhantes em obediência aos princípios gerais sobre remunerações, estabelecidas no Decreto-Lei n.º 184/89, de 2 de Junho.\n\nImporta ainda referir que foram ouvidas as associações sindicais representativas dos técnicos superiores de saúde.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 da base XXXI da Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a [Portaria n.º 1359/2003 - Diário da República n.º 287/2003, Série I-B de 2003-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2003-431239), em vigor a partir de 2003-12-18\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 9/98 - Diário da República n.º 13/1998, Série I-A de 1998-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), em vigor a partir de 1996-09-27\n\n> Alterado pelo/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27\n\n> Alterado pelo/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+  },
+  "51889175": {
+   "fragment_id": "38953275",
+   "type": 11,
+   "heading": "Artigo 9.º — Ramos de actividade",
+   "in_force_from": "2003-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Portaria n.º 1359/2003 - Diário da República n.º 287/2003, Série I-B de 2003-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2003-431239), em vigor a partir de 2003-12-18",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 9.º — Ramos de actividade\n\n1 - A carreira dos técnicos superiores de saúde desenvolve-se por ramos de actividade que a seguir se indicam juntamente com as correspondentes licenciaturas adequadas:\n\nRamo de engenharia sanitária:\n\nLicenciaturas em Engenharia do Ambiente, Engenharia Civil, Engenharia Química e ramo de Engenharia Sanitária da licenciatura em Engenharia do Ambiente;\n\nRamo de farmácia:\n\nLicenciaturas em Ciências Farmacêuticas e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção A e ramo A);\n\nRamo de física hospitalar:\n\nLicenciaturas em Física, Físico-Químicas e Engenharia Física, Física Aplicada, Física Tecnológica e Engenharia Física Tecnológica;\n\nRamo de genética:\n\nLicenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Química e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção B e ramo B e opção C e ramo C);\n\nRamo de laboratório:\n\nLicenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Química, Química Aplicada, Química Tecnológica e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção B e ramo B e opção C e ramo C);\n\nRamo de nutrição:\n\nLicenciatura em Ciências de Nutrição;\n\nRamo de veterinária:\n\nLicenciatura em Medicina Veterinária.\n\nRamo de psicologia clínica:\n\nLicenciatura em Psicologia e em Psicologia Clínica.\n\n2 - Os ramos reflectem a diferenciação e qualificação profissionais, sem prejuízo da intercomplementaridade de formação e da devida cooperação profissional.\n\n3 - Por portaria conjunta dos Ministros da Saúde e das Finanças podem incluir-se no âmbito da carreira prevista neste diploma outros ramos de actividade.\n\n4 - O elenco das licenciaturas previstas no n.º 1 deste artigo pode ser alterado por portaria do Ministro da Saúde.\n\n> Alterado pelo/a Artigo único do/a [Portaria n.º 1359/2003 - Diário da República n.º 287/2003, Série I-B de 2003-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2003-431239), em vigor a partir de 2003-12-18\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "51889375": {
+   "fragment_id": "35101175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a [Portaria n.º 1359/2003 - Diário da República n.º 287/2003, Série I-B de 2003-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2003-431239), em vigor a partir de 2003-12-18",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 9/98 - Diário da República n.º 13/1998, Série I-A de 1998-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), em vigor a partir de 1996-09-27",
+    "Alterado pelo/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27",
+    "Alterado pelo/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+   ],
+   "markdown": "O progresso das ciências e das tecnologias da saúde implica, cada vez mais, uma actividade multidisciplinar integrada que envolve profissionais com diferentes formações curriculares, específicas e diferenciadas.\n\nConsiderando esta realidade, surge a necessidade de recorrer a técnicos de formação universitária e altamente qualificados, nos quais se incluem os técnicos superiores de saúde, enquadrados numa carreira criada pelo Decreto Regulamentar n.º 29/81, de 24 de Junho, e cujas origens remontam às carreiras farmacêutica e de técnico superior de laboratório, previstas no Decreto-Lei n.º 414/71, de 27 de Setembro.\n\nAo contrário, porém, do que tem acontecido com outros grupos profissionais do âmbito da saúde, aquela carreira tem permanecido sem significativas alterações ao longo destes anos, cumprindo até realçar que as correspondentes funções têm sofrido de alguma indefinição geradora de perturbações ao bom funcionamento dos serviços.\n\nO presente diploma reformula o regime legal da carreira dos técnicos superiores de saúde e enquadra-se no objectivo prioritário do Governo de modernização da Administração Pública, através de um projecto de desenvolvimento e valorização dos seus profissionais com vista à melhoria da rentabilidade e qualidade dos serviços a prestar.\n\nA medida legislativa é ditada pela necessidade de dotar a carreira de um modelo mais dinâmico e exigente, adequado a uma nova forma de perspectivar e conceber a organização e funcionamento dos estabelecimentos de saúde e enquadrando estes profissionais, a par de outros técnicos de saúde, pelo reconhecimento da sua epecificidade e autonomia funcionais, num corpo especial de funcionários, a retribuir por escala indiciária própria.\n\nEssa escala é concebida em articulação com a escala indiciária geral e estruturada em moldes semelhantes em obediência aos princípios gerais sobre remunerações, estabelecidas no Decreto-Lei n.º 184/89, de 2 de Junho.\n\nImporta ainda referir que foram ouvidas as associações sindicais representativas dos técnicos superiores de saúde.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 da base XXXI da Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a [Portaria n.º 1359/2003 - Diário da República n.º 287/2003, Série I-B de 2003-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2003-431239), em vigor a partir de 2003-12-18\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 9/98 - Diário da República n.º 13/1998, Série I-A de 1998-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), em vigor a partir de 1996-09-27\n\n> Alterado pelo/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27\n\n> Alterado pelo/a [Decreto-Lei n.º 240/93 - Diário da República n.º 158/1993, Série I-A de 1993-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), em vigor a partir de 1993-07-13"
+  },
+  "51889475": {
+   "fragment_id": "37342275",
+   "type": 11,
+   "heading": "Artigo 30.º — Efeitos da modalidade de horário acrescido",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Efeitos da modalidade de horário acrescido\n\n1 - A modalidade de horário acrescido confere o direito a um acréscimo salarial de 25% sobre a remuneração base, o qual é tomado em consideração, nos termos da lei geral aplicável à função pública, no cálculo do pagamento dos subsídios de férias e de Natal.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01"
+  },
+  "51889975": {
+   "fragment_id": "38953275",
+   "type": 11,
+   "heading": "Artigo 9.º — Ramos de actividade",
+   "in_force_from": "2010-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 838/2010 - Diário da República n.º 170/2010, Série I de 2010-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/838-2010-344395), em vigor a partir de 2010-09-02, produz efeitos a partir de 2010-09-02",
+    "Alterado pelo/a Artigo único do/a [Portaria n.º 1359/2003 - Diário da República n.º 287/2003, Série I-B de 2003-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2003-431239), em vigor a partir de 2003-12-18",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 9.º — Ramos de actividade\n\n1 - A carreira dos técnicos superiores de saúde desenvolve-se por ramos de actividade que a seguir se indicam juntamente com as correspondentes licenciaturas adequadas:\n\nRamo de engenharia sanitária:\n\nLicenciaturas em Engenharia do Ambiente, Engenharia Civil, Engenharia Química e ramo de Engenharia Sanitária da licenciatura em Engenharia do Ambiente;\n\nRamo de farmácia:\n\nLicenciaturas em Ciências Farmacêuticas e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção A e ramo A);\n\nRamo de física hospitalar:\n\nLicenciaturas em Física, Físico-Químicas e Engenharia Física, Física Aplicada, Física Tecnológica e Engenharia Física Tecnológica;\n\nRamo de genética:\n\nLicenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Química e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção B e ramo B e opção C e ramo C);\n\nRamo de laboratório:\n\nLicenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Química, Química Aplicada, Química Tecnológica e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção B e ramo B e opção C e ramo C);\n\nRamo de nutrição:\n\nLicenciaturas em Ciências de Nutrição e Dietética e Nutrição, da Faculdade de Medicina da Universidade de Lisboa.\n\nRamo de veterinária:\n\nLicenciatura em Medicina Veterinária.\n\nRamo de psicologia clínica:\n\nLicenciatura em Psicologia e em Psicologia Clínica.\n\n2 - Os ramos reflectem a diferenciação e qualificação profissionais, sem prejuízo da intercomplementaridade de formação e da devida cooperação profissional.\n\n3 - Por portaria conjunta dos Ministros da Saúde e das Finanças podem incluir-se no âmbito da carreira prevista neste diploma outros ramos de actividade.\n\n4 - O elenco das licenciaturas previstas no n.º 1 deste artigo pode ser alterado por portaria do Ministro da Saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 838/2010 - Diário da República n.º 170/2010, Série I de 2010-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/838-2010-344395), em vigor a partir de 2010-09-02, produz efeitos a partir de 2010-09-02\n\n> Alterado pelo/a Artigo único do/a [Portaria n.º 1359/2003 - Diário da República n.º 287/2003, Série I-B de 2003-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2003-431239), em vigor a partir de 2003-12-18\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "947235131": {
+   "fragment_id": "40498775",
+   "type": 11,
+   "heading": "Artigo 12.º — Perfil profissional do farmacêutico",
+   "in_force_from": "2017-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 109/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2017-108074438), em vigor a partir de 2017-08-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+   ],
+   "markdown": "###### Artigo 12.º — Perfil profissional do farmacêutico\n\n1 - O técnico superior de saúde farmacêutico é o profissional habilitado com o grau de especialista responsável pela problemática do medicamento, assegurando a prestação de assistência medicamentosa ao doente, desenvolvendo para o efeito actividades de carácter técnico e científico relacionadas com a terapêutica e sua eficácia, a utilização do medicamento e suas implicações no doente, a informação e educação sanitária.\n\n2 - Nos estabelecimentos com serviços farmacêuticos, a direcção destes é confiada a técnico superior de saúde farmacêutico.\n\n3 - O farmacêutico deve aprofundar o seu perfil profissional orientando-se para o exercício em áreas profissionais específicas.\n\n4 - São desde já reconhecidas as seguintes áreas profissionais específicas:\n\na) Farmácia hospitalar;\n\nb) Farmacoterapia;\n\nc) Radiofarmácia.\n\n5 - Poderão ser reconhecidas outras áreas profissionais específicas, por portaria do Ministro da Saúde.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 109/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2017-108074438), em vigor a partir de 2017-08-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20"
+  },
+  "947235132": {
+   "fragment_id": "40498875",
+   "type": 11,
+   "heading": "Artigo 13.º — Funções das categorias do ramo de farmácia",
+   "in_force_from": "2017-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 109/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2017-108074438), em vigor a partir de 2017-08-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27"
+   ],
+   "markdown": "###### Artigo 13.º — Funções das categorias do ramo de farmácia\n\n1 - Ao técnico superior de saúde farmacêutico assistente e assistente principal são atribuídas as seguintes funções, tendo em conta os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) A responsabilidade técnica das aquisições de medicamentos e produtos farmacêuticos, da sua qualidade e correcta conservação;\n\nb) O estabelecimento de sistemas eficazes e seguros de distribuição e administração de medicamentos;\n\nc) A produção de fórmulas magistrais necessárias ou convenientes para o hospital ou instituição, bem como a análise e controlo correspondentes;\n\nd) A formulação e controlo, em secção especializada, de misturas intravenenosas para nutrição parenteral;\n\ne) O desenvolvimento de actividades de farmácia clínica, relacionadas com a terapêutica medicamentosa, a elaboração do perfil farmacoterapêutico do doente, os estudos de farmacocinética e monitorização de medicamentos, as acções de farmacovigilância e, ainda, estudos sobre formulação, qualidade e estabilidade dos medicamentos;\n\nf) A integração em comissões clínicas e técnico-científicas que têm em vista a disciplina e racionalização de terapêutica medicamentosa, a melhoria assistencial e a salvaguarda da saúde pública;\n\ng) O cumprimento das exigências legais sobre medicamentos, radiofármacos, estupefacientes e psicotrópicos;\n\nh) O estudo estatístico do consumo de medicamentos;\n\ni) A colaboração em acções de investigação clínica com medicamentos e radiofármacos;\n\nj) A colaboração em programas de ensino de formação contínua e de valorização profissional a nível farmacêutico e de outros técnicos de saúde;\n\nk) A colaboração na área da sua competência em actividades conducentes à programação da saúde e educação sanitária, hábitos de higiene, correcta alimentação, perigos de automedicação, acompanhamento de doentes de alto risco, doenças crónicas e reacções adversas;\n\nl) Assegurar todas as urgências medicamentosas;\n\nm) O apoio técnico aos profissionais de saúde, serviços ou departamentos;\n\nn) A participação em júris de concursos e de avaliação.\n\no) O planeamento na área específica dos protocolos de aplicação dos radiofármacos, quer de diagnóstico quer de terapêutica, assegurando a optimização e controlo da qualidade;\n\np) A preparação e controlo da qualidade dos radiofármacos nos aspectos do controlo físico-químico, químico, radioquímico, biológico e farmacológico, bem como a preparação e cálculo de doses químicas e radioquímicas a administrar ao doente;\n\nq) A responsabilidade pela recepção e administração de radiofármacos nos estabelecimentos ou serviços onde exercem funções;\n\nr) Os doseamentos in vitro com recurso a produtos marcados com radionuclidos.\n\n2 - Ao técnico superior de saúde farmacêutico assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A emissão de pareceres técnico-científicos;\n\nb) A participação na elaboração, planeamento e coordenação dos programas do serviço;\n\nc) A colaboração na formação profissional complementar dos técnicos superiores de saúde do ramo farmacêutico;\n\nd) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas e impedimentos, quando para tal for designado.\n\n3 - Ao técnico superior de saúde farmacêutico assessor superior, além das funções do assistente, do assistente principal e do assessor, compete:\n\na) A participação na definição da política de saúde no âmbito da sua área ao nível regional ou nacional;\n\nb) O planeamento e coordenação dos programas dos serviços farmacêuticos de cuidados de saúde primários e diferenciados;\n\nc) A avaliação da eficácia e eficiência dos serviços;\n\nd) A participação na estruturação e organização dos serviços;\n\ne) A elaboração do plano anual e do relatório de actividades;\n\nf) A planificação, coordenação, orientação e avaliação das actividades dos estagiários de pré-licenciatura e de formação profissional;\n\ng) A participação na formação profissional complementar dos técnicos superiores de saúde do ramo de farmácia;\n\nh) A coordenação e avaliação dos técnicos superiores de saúde do ramo farmacêutico, integrados na correspondente unidade de acção.\n\ni) A assessoria técnica em matérias da sua área técnico-científica;\n\nj) A participação em comissões ou reuniões técnicas com funções normativas dentro da sua área específica;\n\nk) A colaboração no planeamento das instalações de trabalho apresentando exigências técnicas inerentes à sua área de actividade;\n\nl) O estudo do equipamento necessário à sua actividade antes e durante a sua instalação.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 109/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2017-108074438), em vigor a partir de 2017-08-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 501/99 - Diário da República n.º 270/1999, Série I-A de 1999-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), em vigor a partir de 1999-11-20\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 241/94 - Diário da República n.º 220/1994, Série I-A de 1994-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), em vigor a partir de 1994-09-27"
+  }
+ }
+}

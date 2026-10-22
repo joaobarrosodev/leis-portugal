@@ -1,0 +1,206 @@
+---
+schema_version: '1.0'
+id: pt:dre:115017488:por
+title: Decreto-Lei n.º 23/2018
+short_title: null
+summary: Altera a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia
+  de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 23/2018
+official_date: null
+publication_date: '2018-04-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 70/2018, Série I de 2018-04-10
+  number: '70'
+  series: I
+  supplement: null
+  pages: 1566 - 1567
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/04/07000/0156601567.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/23/2018/04/10/p/dre/pt/html
+  oj: null
+  dre: '115017488'
+  dre_path: /dr/detalhe/decreto-lei/23-2018-115017488
+  internal: pt:dre:115017488:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488
+  metadata_url: https://data.dre.pt/eli/dec-lei/23/2018/04/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-03-19T00:00:00Z'
+integrity:
+  source_sha256: b5c753840e0a1c98372dfd040461e14396a1893d5878fd2f92190b3b7789dcaa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2018/DRE-2018-23-115017488.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atribuição de Verba
+- Jogos de Fortuna e Azar
+- Ministério da Administração Interna
+- Ministério da Educação
+- Governo Regional
+- Lisboa
+- Instituto Português do Desporto e Juventude
+- Santa Casa da Misericórdia
+- Madeira.região Autónoma
+- Presidência do Conselho de Ministros
+- Receita Própria
+- Receita Pública
+- Ministério da Saúde
+- Açores
+- Inatel
+- Ministério do Trabalho Solidariedade e Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:911488702:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/106/2011/10/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/106/2011/10/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/44/2011/03/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/44/2011/03/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 23/2018
+
+de 10 de abril
+
+O [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março veio regular a forma de distribuição dos resultados líquidos dos jogos sociais. A afetação das receitas provenientes dos jogos sociais encontra-se consignada a uma multiplicidade de entidades beneficiárias, afetas a fins de natureza social, permitindo o desenvolvimento de uma rede equilibrada e equitativa de apoios educativos, culturais e eminentemente sociais.
+
+Acresce, por outro lado, que a [Lei Orgânica n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2013-499567), de 2 de setembro, que aprova a Lei das Finanças das Regiões Autónomas, estabelece, no seu artigo 36.º, que constitui receita de cada região autónoma uma participação nos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia, matéria sobre a qual versa o presente decreto-lei. Na esteira de uma repartição dos resultados líquidos da exploração dos jogos sociais mais equilibrada e equitativa, considera-se enquanto critério de imputação as estimativas anuais da população residente em Portugal Continental e Regiões Autónomas, relativas ao ano de 2016, apuradas pelo Instituto Nacional de Estatística, I. P.
+
+Assim sendo, altera-se o esquema de repartição da receita proveniente dos jogos sociais, mantendo-se a proporcionalidade na distribuição, anteriormente em vigor, pelas diversas entidades beneficiárias.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e o Conselho de Jogos da Santa Casa da Misericórdia de Lisboa.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, alterado pelos [Decretos-Leis n.os 44/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), de 24 de março, e [106/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), de 21 de outubro, que regula a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março
+
+O artigo 3.º do [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - [...].
+
+2 - [...]:
+
+a) 2,65 % para finalidades de proteção civil, emergência e socorro, nomeadamente apoio a associações de bombeiros voluntários;
+
+b) 0,29 % para ações no domínio da sinistralidade rodoviária e da prevenção da criminalidade, designadamente em espaços turísticos, no interior do País e em zonas de risco, bem como para financiamento de iniciativas no domínio da prevenção dos riscos sociais, da vitimação e do sentimento de insegurança decorrentes da criminalidade;
+
+c) 0,66 % para o policiamento de espetáculos desportivos.
+
+3 - Constituem receitas do Estado 2,18 % dos resultados líquidos de exploração dos jogos sociais.
+
+4 - São atribuídos à Presidência do Conselho de Ministros 3,88 % do valor dos resultados líquidos de exploração de jogos sociais, destinados à promoção, desenvolvimento e fomento de atividades, programas, ações ou infraestruturas, no âmbito da cultura e da igualdade de género.
+
+5 - As verbas atribuídas ao Ministério do Trabalho, Solidariedade e Segurança Social são repartidas da seguinte forma:
+
+a) 31,84 % destinam-se a melhorar as condições de vida e o acompanhamento das pessoas idosas e das pessoas com deficiência, a promover o apoio a crianças e jovens, à família e à comunidade em geral, a combater a violência doméstica e a violência numa perspetiva de género, bem como a apoiar situações graves de carência e risco, incluindo as referentes à recuperação e educação especial de crianças com deficiência, nomeadamente através do desenvolvimento de iniciativas que visem o alargamento ou a melhoria da qualidade da rede de equipamentos e serviços, combate à pobreza e à exclusão social, a situações de risco social emergente e, ainda, através do apoio a estabelecimentos e instituições de solidariedade social que prossigam fins de ação social, bem como o desenvolvimento de medidas de apoio às comunidades portuguesas;
+
+b) 1,14 % para a prestação de serviços sociais nas áreas do turismo e do termalismo social e sénior, da organização dos tempos livres, da cultura e do desporto populares, a afetar à Fundação INATEL.
+
+6 - São atribuídos ao Ministério da Saúde 15,70 % do valor dos resultados líquidos de exploração dos jogos sociais, para ações destinadas à concretização dos objetivos estratégicos do Plano Nacional de Saúde, em áreas que envolvam a promoção da saúde e a prevenção da doença como a literacia em saúde, promoção da alimentação saudável e da atividade física, prevenção do tabagismo, vacinação, saúde mental, bem como em áreas prioritárias como a patologia cérebro-cardiovascular, oncologia, diabetes, doenças respiratórias, infeções e resistência aos antimicrobianos, dependências e comportamentos aditivos, doenças raras, prevenção de doenças infecciosas relevantes em saúde pública como o VIH/SIDA, tuberculose, hepatites virais e infeções sexualmente transmissíveis, bem como nos cuidados continuados integrados e cuidados paliativos.
+
+7 - As verbas atribuídas ao Ministério da Educação são repartidas do seguinte modo:
+
+a) 0,95 % para o apoio ao desporto escolar e investimentos em infraestruturas desportivas escolares;
+
+b) 0,47 % para financiamento de projetos especiais destinados a estudantes do ensino secundário que revelem mérito excecional e que careçam de apoio financeiro para prosseguimento dos seus estudos;
+
+c) 8,87 % são transferidos para o Instituto Português do Desporto e Juventude, I. P., para o fomento e desenvolvimento de atividades e infraestruturas desportivas e juvenis.
+
+8 - [...].
+
+9 - São atribuídos ao Governo Regional da Madeira 2,47 % do valor dos resultados líquidos de exploração dos jogos sociais, nos termos a definir por Decreto Legislativo Regional.
+
+10 - São atribuídos ao Governo Regional dos Açores 2,38 % do valor dos resultados líquidos de exploração dos jogos sociais, nos termos a definir por Decreto Legislativo Regional.
+
+11 - São atribuídos à Santa Casa da Misericórdia de Lisboa, para desenvolvimento de projetos integrados nos seus fins estatutários, 26,52 % do valor dos resultados líquidos de exploração dos jogos sociais.
+
+12 - [...].
+
+13 - [...].
+
+14 - [...].»
+
+###### Artigo 3.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos a 1 de janeiro de 2018.
+
+Visto e aprovado em Conselho de Ministros de 22 de março de 2018. - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - António Manuel Veiga dos Santos Mendonça Mendes - Eduardo Arménio do Nascimento Cabrita - João Miguel Marques da Costa - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes.
+
+**Promulgado em 29 de março de 2018.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 6 de abril de 2018.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

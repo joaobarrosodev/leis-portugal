@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:421214:por
+title: Decreto-Lei n.º 335/73
+short_title: null
+summary: Inclui no quadro do pessoal da Direcção-Geral dos Serviços Pecuários o corpo de inspectores de sanidade pecuária
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Pecuários
+proposing_entity: null
+official_number: 335/73
+official_date: null
+publication_date: '1973-07-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 155/1973, Série I de 1973-07-04
+  number: '155'
+  series: I
+  supplement: null
+  pages: 1154 - 1155
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/07/15500/11541155.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421214'
+  dre_path: /dr/detalhe/decreto-lei/335-1973-421214
+  internal: pt:dre:421214:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1973-421214
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1973-421214
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1973-07-04T00:00:00Z'
+integrity:
+  source_sha256: 54a39d9b8feb2e87afeb3c9284214cfb38661721887c95840c5454b73bbbca94
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-335-421214.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 335/73
+
+de 4 de Julho
+
+Entre os objectivos expressos no [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), de 29 de Maio, encontra-se o da criação de matadouros industriais que, pelas suas características técnicas, hígio-sanitárias e de capacidade de laboração, possam melhor servir os interesses económicos do País e, simultaneamente, garantir que os produtos e subprodutos deles saídos para consumo público apresentem as devidas condições de salubridade e genuinidade.
+
+Ora, a existência de tais matadouros, que deixarão de estar na dependência directa das câmaras municipais e passarão a ser pertença de empresas em que a lavoura terá larga participação, implica necessariamente que a inspecção sanitária dos animais neles abatidos e das suas carnes saia do âmbito municipal para o do próprio Estado, através dos seus serviços técnicos especializados, no caso vertente a Direcção-Geral dos Serviços Pecuários.
+
+Por este motivo, o [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954) previu a criação nesse organismo de um corpo de inspectores de sanidade pecuária, a que o presente diploma vem dar execução, alargando-lhes, no entanto, o campo de acção aos matadouros de aves, cujo sector igualmente reclama condigna inspecção sanitária de carnes.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Ao quadro do pessoal técnico a que se refere o artigo 62.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957, descrito no mapa n.º 1 anexo a esse diploma, é aumentado, com a alínea e), o corpo de inspectores de sanidade pecuária, criado pelo artigo 16.º do [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), de 29 de Maio, que fica assim constituído:
+
+15 inspectores de sanidade pecuária de 1.ª classe - F.
+
+15 inspectores de sanidade pecuária de 2.ª classe - H.
+
+###### Art. 2.º Com o fim de coadjuvar o corpo de inspectores de sanidade pecuária, é aumentado, com a alínea f), ao quadro do pessoal técnico da Direcção-Geral dos Serviços Pecuários, descrito no mapa n.º 1 anexo ao [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957, o grupo do pessoal técnico auxiliar de inspecção de sanidade pecuária, com a seguinte constituição:
+
+30 técnicos auxiliares de inspecção de sanidade pecuária de 1.ª classe - J.
+
+30 técnicos auxiliares de inspecção de sanidade pecuária de 2.ª classe - K.
+
+###### Art. 3.º O corpo de inspectores de sanidade, bem como o grupo do pessoal técnico auxiliar de inspecção, ficam integrados na 2.ª Repartição da Direcção-Geral dos Serviços Pecuários, Serviços de Higiene Pública Veterinária.
+
+###### Art. 4.º - 1. A admissão no corpo de inspectores de sanidade pecuária far-se-á pela 2.ª classe, mediante concurso de prestação de provas entre licenciados em Medicina Veterinária.
+
+2. A estes concursos podem candidatar-se os médicos veterinários actualmente ao serviço em qualquer organismo do Estado ou nas autarquias locais, independentemente da idade, e, bem assim, os que se encontrem nas condições previstas no artigo 81.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957.
+
+###### Art. 5.º - 1. Os lugares de técnico auxiliar de inspecção de sanidade pecuária de 2.ª classe serão providos, mediante concurso de prestação de provas, de entre diplomados com o curso de regente agrícola, ou de entre indivíduos possuidores da alínea f) do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947, ou habilitação equivalente, desde que incluam as disciplinas de Ciências Biológicas e de Ciências Físico-Químicas, e que hajam frequentado, com aproveitamento; o curso de inspecção sanitária ministrado pela Direcção-Geral dos Serviços Pecuários, no âmbito da formação profissional extra-escolar.
+
+2. No provimento dos lugares a que alude o número anterior será dada preferência aos diplomados com o curso de regente agrícola.
+
+###### Art. 6.º À promoção às 1.as classes de inspector de sanidade pecuária e de técnico auxiliar de inspecção aplica-se o disposto no artigo 82.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957, nova redacção dada pelo [Decreto-Lei n.º 44246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44246-1962-516723), de 21 de Março de 1962.
+
+###### Art. 7.º Os programas dos concursos a que se referem os artigos 4.º e 5.º serão publicados no prazo de cento e oitenta dias, a contar da publicação do presente diploma.
+
+###### Art. 8.º O preenchimento dos lugares a que aludem os artigos 1.º e 2.º far-se-á por fases, consoante as exigências do serviço, em consequência da entrada em funcionamento dos matadouros previstos nos artigos 6.º e 7.º do [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), de 29 de Maio, e dos matadouros de aves já existentes ou que venham a ser instalados.
+
+###### Art. 9.º Os inspectores de sanidade pecuária têm direito a uma gratificação mensal a fixar pelo Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças.
+
+###### Art. 10.º No âmbito de acção do corpo de inspectores de sanidade pecuária, definido nos n.os 1 e 2 do artigo 16.º do [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), de 29 de Maio, e bem assim do grupo de técnicos auxiliares de inspecção, criado por este diploma, compreender-se-ão os matadouros de aves devidamente aprovados e licenciados pela Direcção-Geral dos Serviços Pecuários nos termos da legislação em vigor.
+
+###### Art. 11.º Além das funções cometidas no artigo 16.º do [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), de 29 de Maio, ao corpo de inspectores de sanidade pecuária compete, em especial:
+
+a) Exercer vigilância sobre os animais que nos matadouros aguardam ocasião por forma a apresentarem naquele momento as devidas condições sanitárias e higiénicas;
+
+b) Proceder ao exame sanitário ante e post mortem dos animais, dos seus produtos e subprodutos destinados a consumo público;
+
+c) Zelar pela higiene geral das instalações, equipamento e utensílios usados nas diferentes secções dos matadouros que estejam relacionados com os animais, matanças e preparação de produtos e subprodutos;
+
+d) Cumprir e fazer cumprir dentro dos matadouros as leis e regulamentos que estiverem em vigor relativos à inspecção sanitária e à higiene pública veterinária e, bem assim, as directrizes técnicas emanadas da Direcção-Geral dos Serviços Pecuários;
+
+e) Superintender no exercício das funções do pessoal de matança e de outro utilizado na preparação, conservação e transformação dos produtos salubres e genuínos;
+
+f) Aconselhar e colaborar com a direcção dos matadouros em tudo quanto possa contribuir para a melhoria hígio-sanitária dos produtos e subprodutos neles preparados ou transformados;
+
+g) Aprovar ou rejeitar para consumo público, em conformidade com os regulamentos de inspecção sanitária que estiverem em vigor, as carnes ou os seus produtos e subprodutos;
+
+h) Apor selos ou marcas sanitárias oficiais de garantia de origem e qualidade hígio-sanitária.
+
+###### Art. 12.º São funções do pessoal auxiliar de inspecção de sanidade pecuária coadjuvar o corpo de inspectores de sanidade pecuária e executar as tarefas que lhe forem determinadas, dentro da competência àquele atribuída.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
+
+**Promulgado em 15 de Junho de 1973.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

@@ -1,0 +1,545 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:251979:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-116993062",
+ "dre_path": "/dr/detalhe/decreto-lei/44-2002-251979",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-03-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116993289",
+    "116993290",
+    "116993291",
+    "116993292",
+    "116993293",
+    "116993294",
+    "116993295",
+    "116993296",
+    "116993297",
+    "116993298",
+    "116993299",
+    "116993300",
+    "116993301",
+    "116993302",
+    "116993303",
+    "116993304",
+    "116993305",
+    "116993306",
+    "116993307",
+    "116993308",
+    "116993309",
+    "116993310",
+    "116993311",
+    "116993312",
+    "116993313",
+    "116993314",
+    "116993315",
+    "116993316",
+    "116993317",
+    "116993318",
+    "116993319",
+    "116993320",
+    "116993321",
+    "116993322",
+    "116993323",
+    "116993324",
+    "116993325",
+    "116993326"
+   ]
+  },
+  {
+   "date": "2012-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:191569:por",
+     "title": "Decreto-Lei n.º 235/2012",
+     "published": "2012-10-31",
+     "dre_path": "/dr/detalhe/decreto-lei/235-2012-191569"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "116993289",
+    "116993290",
+    "116993291",
+    "216491563",
+    "216491564",
+    "116993294",
+    "216491565",
+    "116993296",
+    "116993297",
+    "116993298",
+    "116993299",
+    "116993300",
+    "116993301",
+    "216491566",
+    "116993303",
+    "116993304",
+    "116993305",
+    "116993306",
+    "116993307",
+    "116993308",
+    "116993309",
+    "116993310",
+    "116993311",
+    "116993312",
+    "116993313",
+    "216491567",
+    "116993315",
+    "116993316",
+    "116993317",
+    "116993318",
+    "116993319",
+    "116993320",
+    "116993321",
+    "116993322",
+    "116993323",
+    "116993324",
+    "116993325",
+    "116993326",
+    "116993327"
+   ]
+  },
+  {
+   "date": "2014-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:55235835:por",
+     "title": "Decreto-Lei n.º 121/2014",
+     "published": "2014-08-07",
+     "dre_path": "/dr/detalhe/decreto-lei/121-2014-55235835"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "116993289",
+    "116993290",
+    "116993291",
+    "216491563",
+    "216491564",
+    "116993294",
+    "216491565",
+    "116993296",
+    "116993297",
+    "116993298",
+    "116993299",
+    "116993300",
+    "116993301",
+    "216491566",
+    "116993303",
+    "116993304",
+    "116993305",
+    "116993306",
+    "116993307",
+    "116993308",
+    "116993309",
+    "116993310",
+    "216491568",
+    "116993312",
+    "116993313",
+    "216491567",
+    "116993315",
+    "116993316",
+    "116993317",
+    "116993318",
+    "116993319",
+    "116993320",
+    "116993321",
+    "116993322",
+    "116993323",
+    "116993324",
+    "116993325",
+    "116993326",
+    "116993327"
+   ]
+  }
+ ],
+ "fragments": {
+  "116993289": {
+   "fragment_id": "116993063",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 44/2002\n\nde 2 de Março\n\nO Decreto-Lei n.º 300/84, de 7 de Setembro, definiu o sistema da autoridade marítima como tendo por fim garantir o cumprimento da lei nos espaços marítimos sob soberania ou jurisdição nacional, estabelecendo ainda o respectivo sistema orgânico de nível central, regional e local.\n\nA dimensão da costa portuguesa e a especificidade da sua Zona Económica Exclusiva, cuja vigilância importa assegurar de forma eficaz, e a confluência neste espaço das mais importantes e movimentadas rotas marítimas internacionais, para além da necessidade de reforço da prevenção de situações potencialmente lesivas do interesse nacional e comunitário, determinaram a adopção de um novo conceito de sistema da autoridade marítima, mais abrangente, cuja estrutura integra diversas entidades, órgãos e serviços.\n\nNa sequência da nova filosofia de enquadramento das matérias relacionadas com a autoridade marítima, no quadro aprovado pelas Resoluções do Conselho de Ministros n.os 185/96, de 28 de Novembro, e 84/98, de 10 de Julho, e na sequência do disposto no Decreto-Lei n.º 43/2002, de 2 de Março, que cria o sistema da autoridade marítima, estabelece o seu âmbito e atribuições e define a sua estrutura de coordenação, importa proceder à definição da estrutura da autoridade marítima nacional, dos seus órgãos e serviços, designadamente pela criação da Direcção-Geral da Autoridade Marítima, que sucederá à Direcção-Geral de Marinha.\n\nA Direcção-Geral da Autoridade Marítima, como organismo operativo da Autoridade Marítima Nacional, desenvolverá a sua actuação no novo quadro legal definido e em conformidade com as directrizes e orientações emitidas pelo recém-criado Conselho Coordenador Nacional do Sistema da Autoridade Marítima.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "116993290": {
+   "fragment_id": "116993064",
+   "type": 1,
+   "heading": "Capítulo I — Autoridade marítima nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Autoridade marítima nacional"
+  },
+  "116993291": {
+   "fragment_id": "116993065",
+   "type": 8,
+   "heading": "Secção I — Objecto e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objecto e atribuições"
+  },
+  "116993292": {
+   "fragment_id": "116993066",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma define, no âmbito do sistema da autoridade marítima (SAM), a estrutura, organização, funcionamento e competências da autoridade marítima nacional (AMN), dos seus órgãos e dos seus serviços.\n\n2 - É criada, na estrutura da AMN, a Direcção-Geral da Autoridade Marítima (DGAM)."
+  },
+  "116993293": {
+   "fragment_id": "116993067",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições da autoridade marítima nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições da autoridade marítima nacional\n\n1 - A AMN é a entidade responsável pela coordenação das actividades, de âmbito nacional, a executar pela Marinha e pela DGAM, na área de jurisdição e no quadro do SAM, com observância das orientações definidas pelo Ministro da Defesa Nacional, devendo submeter a este a proposta do respectivo orçamento.\n\n2 - O Chefe do Estado-Maior da Armada é, por inerência, a AMN."
+  },
+  "116993294": {
+   "fragment_id": "116993068",
+   "type": 8,
+   "heading": "Secção II — Estrutura da autoridade marítima nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estrutura da autoridade marítima nacional"
+  },
+  "116993295": {
+   "fragment_id": "116993069",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura da autoridade marítima nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura da autoridade marítima nacional\n\n1 - A AMN compreende os seguintes órgãos consultivos:\n\na) Conselho Consultivo (CCAMN);\n\nb) Comissão do Domínio Público Marítimo (CDPM).\n\n2 - Integra ainda a AMN a DGAM, como órgão central da AMN.\n\n3 - A Polícia Marítima (PM) integra a estrutura operacional da AMN, nos termos previstos no presente diploma."
+  },
+  "116993296": {
+   "fragment_id": "116993070",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos consultivos"
+  },
+  "116993297": {
+   "fragment_id": "116993071",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição do Conselho Consultivo da Autoridade Marítima Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição do Conselho Consultivo da Autoridade Marítima Nacional\n\n1 - O CCAMN tem a seguinte composição:\n\na) O director-geral da Autoridade Marítima, em representação da AMN, que preside;\n\nb) Um representante do Ministro dos Negócios Estrangeiros;\n\nc) Um representante do Ministro da Administração Interna;\n\nd) Um representante do Ministro do Equipamento Social;\n\ne) Um representante do Ministro da Justiça;\n\nf) Um representante do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;\n\ng) Um representante do Ministro do Ambiente e do Ordenamento do Território;\n\nh) Um representante do Estado-Maior da Armada;\n\ni) Um representante do Instituto Hidrográfico.\n\n2 - O CCAMN, quando reunido no âmbito e para os efeitos do disposto no Plano Mar Limpo, aprovado pela Resolução do Conselho de Ministros n.º 25/93, de 15 de Abril, incluirá ainda:\n\na) Um representante do Ministro das Finanças;\n\nb) Um representante do Ministro da Economia;\n\nc) Um representante do Ministro da Saúde;\n\nd) Um perito de combate à poluição marítima da DGAM.\n\n3 - Sempre que o CCAMN reúna para apreciação de matérias relacionadas com as Regiões Autónomas integra ainda um representante do respectivo Governo regional.\n\n4 - O presidente do CCAMN é substituído nas suas faltas, ausências ou impedimentos pelo subdirector-geral da Autoridade Marítima.\n\n5 - Podem ser convidadas a participar nas reuniões do CCAMN, de acordo com as matérias em discussão, outras entidades, sem direito a voto.\n\n6 - O secretário do CCAMN, sem direito a voto, é nomeado pelo seu presidente."
+  },
+  "116993298": {
+   "fragment_id": "116993072",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência do Conselho Consultivo da Autoridade Marítima Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do Conselho Consultivo da Autoridade Marítima Nacional\n\n1 - O CCAMN é o órgão de consulta da AMN sobre matérias relacionadas com as suas atribuições.\n\n2 - Compete ao CCAMN:\n\na) Pronunciar-se sobre matérias que incidam sobre a autoridade marítima e, quando solicitado, sobre o quadro e âmbito de intervenção dos órgãos regionais e locais da DGAM;\n\nb) Proceder à análise de questões de índole técnica, a solicitação da AMN;\n\nc) Emitir recomendações no âmbito do exercício da autoridade marítima;\n\nd) Estabelecer, no âmbito da AMN, parâmetros de articulação entre os seus órgãos e serviços;\n\ne) Emitir parecer, aplicar medidas e fixar as coimas, nos termos do disposto no Decreto-Lei n.º 235/2000, de 26 de Setembro.\n\n3 - Compete ainda ao CCAMN emitir pareceres e exercer os demais poderes no âmbito do Plano Mar Limpo.\n\n4 - O regulamento interno do CCAMN é aprovado por despacho do Ministro da Defesa Nacional, sob proposta da AMN, ouvidos os seus membros."
+  },
+  "116993299": {
+   "fragment_id": "116993073",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissão do Domínio Público Marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comissão do Domínio Público Marítimo\n\n1 - À CDPM compete o estudo e emissão de parecer sobre os assuntos relativos à utilização, manutenção e defesa do domínio público marítimo.\n\n2 - A CDPM é presidida por um oficial general da Armada, na situação de activo ou reserva, a nomear por despacho do Ministro da Defesa Nacional, sob proposta da AMN.\n\n3 - A CDPM integra representantes das entidades públicas que detenham responsabilidades ou competências no âmbito da utilização, conservação e defesa do domínio público marítimo, a nomear por despacho do membro do Governo respectivo.\n\n4 - Os membros da CDPM têm direito a senhas de presença, nos termos a fixar no regulamento previsto no n.º 7.\n\n5 - O presidente da CDPM poderá convidar para participar nos trabalhos personalidades com responsabilidade em determinadas matérias ou áreas geográficas, cujo contributo seja considerado necessário para a discussão dos assuntos em agenda.\n\n6 - A CDPM reúne:\n\na) Ordinariamente, nos termos da calendarização a fixar no regulamento previsto no n.º 7;\n\nb) Extraordinariamente, a convocação do seu presidente, para apreciação de matérias constantes da agenda de trabalhos previamente distribuída.\n\n7 - O regulamento interno da CDPM, que estabelece a composição, funcionamento e demais regras procedimentais, é aprovado por portaria do Ministro da Defesa Nacional, sob proposta da AMN."
+  },
+  "116993300": {
+   "fragment_id": "116993074",
+   "type": 1,
+   "heading": "Capítulo III — Direcção-Geral da Autoridade Marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Direcção-Geral da Autoridade Marítima"
+  },
+  "116993301": {
+   "fragment_id": "116991375",
+   "type": 8,
+   "heading": "Secção I — Natureza e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Natureza e estrutura"
+  },
+  "116993302": {
+   "fragment_id": "116991376",
+   "type": 11,
+   "heading": "Artigo 7.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Natureza\n\nA DGAM é o serviço, integrado no Ministério da Defesa Nacional através da Marinha, dotado de autonomia administrativa, responsável pela direcção, coordenação e controlo das actividades exercidas no âmbito da AMN."
+  },
+  "116993303": {
+   "fragment_id": "116991377",
+   "type": 11,
+   "heading": "Artigo 8.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estrutura\n\n1 - A DGAM depende directamente da AMN e tem os seguintes órgãos centrais:\n\na) O director-geral da Autoridade Marítima;\n\nb) O conselho administrativo (CA).\n\n2 - A DGAM compreende os seguintes órgãos e serviços:\n\na) Serviços centrais;\n\nb) Departamento Marítimo do Norte;\n\nc) Departamento Marítimo do Centro;\n\nd) Departamento Marítimo do Sul;\n\ne) Departamento Marítimo dos Açores;\n\nf) Departamento Marítimo da Madeira;\n\ng) Capitanias dos portos.\n\n3 - Os departamentos marítimos e as capitanias dos portos são, respectivamente, órgãos regionais e locais da DGAM.\n\n4 - Integram ainda a estrutura da DGAM o Instituto de Socorros a Náufragos, a Direcção de Faróis e a Escola da Autoridade Marítima, nos termos da legislação aplicável.\n\n5 - A estrutura e as competências dos serviços centrais da DGAM são aprovadas por decreto regulamentar, que fixará a orgânica e funcionamento, bem como as áreas de jurisdição, dos departamentos marítimos e das capitanias dos portos."
+  },
+  "116993304": {
+   "fragment_id": "116991378",
+   "type": 8,
+   "heading": "Secção II — Director-geral da Autoridade Marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Director-geral da Autoridade Marítima"
+  },
+  "116993305": {
+   "fragment_id": "116991379",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências\n\n1 - Compete ao director-geral da Autoridade Marítima, para além das competências legalmente conferidas aos directores-gerais, o seguinte:\n\na) Dirigir e coordenar os serviços centrais, regionais e locais integrados na DGAM, de acordo com as directivas da AMN;\n\nb) Representar a DGAM, para todos os efeitos legais;\n\nc) Presidir ao CA;\n\nd) Presidir ao CCAMN.\n\n2 - O director-geral da Autoridade Marítima é coadjuvado por um subdirector-geral.\n\n3 - O director-geral e o subdirector-geral da Autoridade Marítima são, por inerência de funções, o comandante-geral e o 2.º comandante-geral da PM, respectivamente."
+  },
+  "116993306": {
+   "fragment_id": "116991380",
+   "type": 8,
+   "heading": "Secção III — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho administrativo"
+  },
+  "116993307": {
+   "fragment_id": "116991381",
+   "type": 11,
+   "heading": "Artigo 10.º — Estrutura e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estrutura e competências\n\n1 - O CA é constituído pelo director-geral da Autoridade Marítima, que preside, pelo subdirector-geral da Autoridade Marítima e por um segundo vogal a nomear pelo seu presidente.\n\n2 - Ao CA incumbe, como órgão deliberativo, zelar pela boa utilização dos recursos financeiros atribuídos ou cobrados pela DGAM e seus órgãos ou serviços, bem como a gestão e a conservação do acervo de bens patrimoniais que lhe estão afectos.\n\n3 - Compete ao CA, para além das competências legalmente cometidas:\n\na) Promover e orientar a elaboração dos planos financeiros;\n\nb) Promover e orientar a elaboração da proposta orçamental da DGAM e acompanhar a sua execução;\n\nc) Autorizar a adjudicação e contratação de estudos, obras, trabalhos, serviços e fornecimentos indispensáveis ao funcionamento da DGAM;\n\nd) Autorizar as despesas, nos termos e até aos limites legalmente estabelecidos, e verificar e visar o seu processamento;\n\ne) Promover a arrecadação de receitas, proceder à verificação dos fundos em cofre e em depósito e fiscalizar a escrituração da contabilidade;\n\nf) Superintender na organização da conta anual de gerência da DGAM e proceder à sua aprovação, a fim de ser remetida ao Tribunal de Contas;\n\ng) Autorizar os actos de aquisição e alienação, bem como os de administração relativos ao património;\n\nh) Autorizar a venda de material considerado inútil ou desnecessário, de acordo com a legislação em vigor.\n\n4 - O CA reúne por convocação do seu presidente ou por solicitação dos vogais.\n\n5 - O CA pode delegar competências no seu presidente.\n\n6 - Em casos de falta, ausência ou impedimento dos membros do CA, a sua substituição faz-se pela seguinte forma:\n\na) O presidente pelo primeiro vogal;\n\nb) O primeiro vogal pelo segundo vogal;\n\nc) O segundo vogal por funcionário ou militar da DGAM a designar pelo presidente."
+  },
+  "116993308": {
+   "fragment_id": "116991382",
+   "type": 8,
+   "heading": "Secção IV — Órgãos regionais e locais da Direcção-Geral da Autoridade Marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Órgãos regionais e locais da Direcção-Geral da Autoridade Marítima"
+  },
+  "116993309": {
+   "fragment_id": "116991383",
+   "type": 11,
+   "heading": "Artigo 11.º — Departamentos marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Departamentos marítimos\n\n1 - Os departamentos marítimos são órgãos regionais da DGAM aos quais compete, nos espaços marítimos sob sua jurisdição, coordenar e apoiar as acções e o serviço das capitanias.\n\n2 - Os departamentos marítimos são dirigidos pelos respectivos chefes de departamento, hierarquicamente dependentes do director-geral da Autoridade Marítima.\n\n3 - Compete aos chefes dos departamentos marítimos:\n\na) Assegurar o cumprimento das disposições relativas à AMN;\n\nb) Coordenar e controlar as actividades das capitanias dos portos;\n\nc) Exercer os demais poderes conferidos por lei.\n\n3 - Os chefes dos departamentos marítimos são, por inerência, comandantes regionais da PM."
+  },
+  "116993310": {
+   "fragment_id": "116991384",
+   "type": 11,
+   "heading": "Artigo 12.º — Capitanias dos portos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Capitanias dos portos\n\n1 - As capitanias dos portos asseguram, nos espaços marítimos sob sua jurisdição, a execução das actividades que incumbem aos respectivos departamentos marítimos.\n\n2 - As capitanias são dirigidas por capitães dos portos, hierarquicamente dependentes dos respectivos chefes de departamento marítimo.\n\n3 - Integram a estrutura das capitanias as delegações marítimas, como extensões territoriais daquelas, chefiadas por adjuntos dos capitães dos portos, nomeados pela AMN.\n\n4 - Os capitães dos portos podem delegar ou subdelegar competências de carácter administrativo nos adjuntos que prestem serviço nas delegações marítimas.\n\n5 - Os capitães dos portos são, por inerência, comandantes locais da PM."
+  },
+  "116993311": {
+   "fragment_id": "116991385",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do capitão do porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências do capitão do porto\n\n1 - O capitão do porto é a autoridade marítima local a quem compete exercer a autoridade do Estado, designadamente em matéria de fiscalização, policiamento e segurança da navegação, de pessoas e bens, na respectiva área de jurisdição, nos termos dos números seguintes.\n\n2 - Compete ao capitão do porto, no exercício de funções de autoridade marítima:\n\na) Coordenar e executar acções de fiscalização e vigilância que se enquadrem no seu âmbito e área de jurisdição, nos termos da lei;\n\nb) Exercer as competências que lhe são cometidas no âmbito da lei de segurança interna;\n\nc) Dirigir operacionalmente, enquanto responsável de protecção civil, as acções decorrentes das competências que, neste âmbito, lhe estão legalmente cometidas, em cooperação com outras entidades e sem prejuízo das competências da tutela nacional da protecção civil;\n\nd) Proceder a inquérito em caso de sinistros marítimos e, relativamente aos acidentes que envolvam feridos ou mortos, efectuar as diligências processuais necessárias, sob direcção da competente autoridade judiciária, sem prejuízo da investigação técnica de acidentes pelo Instituto Marítimo-Portuário;\n\ne) Efectuar a investigação da ocorrência em caso de naufrágios e proceder de acordo com o estipulado na legislação do registo civil;\n\nf) Receber os relatórios e protestos de mar apresentados pelos comandantes das embarcações nacionais, comunitárias e de países terceiros e proceder à respectiva instrução processual, de acordo com o estabelecido em legislação própria;\n\ng) Promover tentativas de conciliação nas matérias especialmente previstas na lei dos tribunais marítimos;\n\nh) Verificar, imediatamente antes da largada de navios ou embarcações, a existência e conformidade dos documentos exigidos pela legislação em vigor para o efeito e emitidos pelas autoridades portuárias, sanitárias, alfandegárias, fiscais e policiais, sem prejuízo da visita e da verificação documental sempre que ocorram suspeitas de infracções de natureza penal ou contra-ordenacional, a fim de ser emitido despacho de largada;\n\ni) Determinar a detenção de embarcações, nos casos legalmente previstos, designadamente no Decreto-Lei n.º 195/98, de 10 de Julho;\n\nj) Impedir a saída das embarcações que tenham praticado ilícito penal ou contra-ordenacional enquanto não prestarem a caução que lhes tenha sido imposta nos termos legais;\n\nk) Exercer a autoridade de Estado a bordo de navios ou embarcações comunitários e estrangeiros, observados os requisitos preceituados no artigo 27.º da Convenção das Nações Unidas sobre o Direito do Mar, quando se verifiquem alterações da ordem pública, ocorrência de indícios criminais ou quando os mesmos se encontrem sem capitão ou em processo de abandono;\n\nl) Fiscalizar o cumprimento das normas legais relativas às pescas.\n\n3 - Compete ao capitão do porto, no âmbito do salvamento e socorro marítimos:\n\na) Prestar o auxílio e socorro a náufragos e a embarcações, utilizando os recursos materiais da capitania ou requisitando-os a organismos públicos e particulares se tal for necessário;\n\nb) Superintender as acções de assistência e salvamento de banhistas nas praias da área da sua capitania.\n\n4 - Compete ao capitão do porto, no exercício de funções no âmbito da segurança da navegação:\n\na) Estabelecer, quanto a navios comunitários e estrangeiros, formas de acesso ao mar territorial ou sua interdição, em cooperação com a Autoridade de Controlo de Tráfego Marítimo;\n\nb) Determinar o fecho da barra, por imperativos decorrentes da alteração da ordem pública e, ouvidas as autoridades portuárias, com base em razões respeitantes às condições de tempo e mar;\n\nc) Cumprir as formalidades previstas na lei quanto a embarcações que transportam cargas perigosas e fiscalizar o cumprimento dos normativos aplicáveis, bem como as medidas de segurança para a sua movimentação nos portos;\n\nd) Estabelecer fundeadouros fora das áreas de jurisdição portuária;\n\ne) Emitir parecer sobre fundeadouros que sejam estabelecidos na área de jurisdição portuária, no caso de cargas perigosas;\n\nf) Emitir parecer sobre dragagens e fiscalizar o cumprimento do estabelecido quanto à sua execução, sem prejuízo das competências específicas das autoridades portuárias e de se dever assegurar permanentemente a plena acessibilidade às instalações militares sediadas na área de jurisdição portuária;\n\ng) Publicar o edital da capitania, enquanto conjunto de orientações, informações e determinações no âmbito das competências que lhe estão legalmente cometidas, tendo em conta as atribuições das autoridades portuárias;\n\nh) Publicar avisos à navegação quanto a actividades ou acontecimentos nos espaços marítimos sob soberania ou jurisdição nacional, bem como promover a divulgação dos que sejam aplicáveis na área de jurisdição portuária, sem prejuízo das competências específicas do Instituto Hidrográfico;\n\ni) Garantir o assinalamento marítimo costeiro, em articulação com a Direcção de Faróis;\n\nj) Dar parecer técnico em matéria de assinalamento marítimo na área de jurisdição portuária;\n\nk) Coordenar as acções de combate à poluição, nos termos definidos no Plano Mar Limpo;\n\nl) Executar os procedimentos previstos em lei especial sobre embarcações de alta velocidade (EAV), competindo-lhe, ainda, a fiscalização do cumprimento dos normativos aplicáveis e a instrução processual dos ilícitos;\n\nm) Promover, sem prejuízo das competências específicas das autoridades portuárias e ambientais, as acções processuais e operacionais necessárias ao assinalamento e remoção de destroços de embarcações naufragadas ou encalhadas, quando exista perigo de poluição marítima, perigo para a segurança da navegação ou coloquem dificuldades à entrada e saída de navios dos portos;\n\nn) Conceder autorizações especiais para a realização de eventos de natureza desportiva ou cultural que ocorram em zonas balneares ou áreas de jurisdição marítima.\n\n5 - Compete ao capitão do porto, no exercício de funções de carácter técnico-administrativo:\n\na) Fixar a lotação de segurança de embarcações nacionais do tráfego local;\n\nb) Emitir o rol de tripulação de embarcações nacionais, nos termos do Regulamento de Inscrição Marítima (RIM);\n\nc) Emitir licenças para exercício e exploração de actividades marítimo-turísticas de embarcações, dar parecer sobre emissão de licenças especiais e fiscalizar o seu cumprimento, nos termos da legislação aplicável;\n\nd) Efectuar a visita e verificação documental a todos os tipos de embarcações, conferindo o manifesto de carga, o rol de tripulação, a lista de passageiros, os documentos de certificação da embarcação e os demais papéis de bordo, nos casos estabelecidos legalmente;\n\ne) Efectuar as vistorias relativas a reboque de embarcações nacionais que demandem ou larguem de portos na área da capitania;\n\nf) Presidir a comissões de vistoria em matéria de estabelecimentos de culturas marinhas, de acordo com o estabelecido em lei especial.\n\n6 - Compete ao capitão do porto, no âmbito do registo patrimonial de embarcações:\n\na) Efectuar o registo de propriedade de embarcações nacionais, assim como o cancelamento, reforma e alteração de registo, de acordo com o estabelecido legalmente, nomeadamente em matéria de registo de bens móveis e náutica de recreio;\n\nb) Efectuar a inscrição marítima, determinar a sua suspensão e cancelamento, emitir, renovar e reter a cédula de inscrição marítima, manter actualizados todos os registos relativos às carreiras, cédulas marítimas e embarques de marítimos, nos termos do RIM em vigor;\n\nc) Assinar, rubricar ou autenticar, conforme os casos, os certificados, livros, autos, termos, certidões, cópias ou outros documentos pertencentes a embarcações nacionais ou ao serviço da capitania cuja emissão caiba no âmbito das atribuições legais dos órgãos regionais ou locais da DGAM;\n\nd) Conceder licenças para praticar actos de acordo com o estabelecido na tabela de serviços prestados pelos órgãos regionais ou locais da DGAM ou em legislação especial;\n\ne) Promover a cobrança de receitas cuja competência esteja legalmente cometida à DGAM;\n\nf) Determinar o abate, nas condições previstas legalmente, decorrente da autorização da demolição ou da determinação de desmantelamento de embarcações.\n\n7 - Compete ao capitão do porto, no âmbito contra-ordenacional:\n\na) Levantar autos de notícia e instruir processos por ilícitos contra-ordenacionais nas matérias para as quais a lei lhe atribua competência, determinar o estabelecimento de cauções e aplicar medidas cautelares, coimas e sanções acessórias;\n\nb) Instruir os processos contra-ordenacionais por ilícitos cometidos em matéria de esquemas de separação de tráfego (EST) e aplicar coimas e sanções acessórias.\n\n8 - Compete ao capitão do porto, no âmbito da protecção e conservação do domínio público marítimo e da defesa do património cultural subaquático:\n\na) Fiscalizar e colaborar na conservação do domínio público marítimo, nomeadamente informando as entidades administrantes sobre todas as ocupações e utilizações abusivas que nele se façam e desenvolvam;\n\nb) Dar parecer sobre processos de construção de cais e marinas, bem como de outras estruturas de utilidade pública e privada que se projectem e realizem na sua área de jurisdição;\n\nc) Dar parecer sobre os processos de delimitação do domínio público hídrico sob jurisdição da AMN;\n\nd) Fiscalizar e promover as medidas cautelares que assegurem a preservação e defesa do património cultural subaquático, sem prejuízo das competências legalmente atribuídas a outros órgãos de tutela;\n\ne) Publicar os editais de praia, estabelecendo os instrumentos de regulamentação conexos com a actividade balnear e a assistência aos banhistas nas praias, designadamente no respeitante a vistorias dos apoios de praia.\n\n9 - Compete ao capitão do porto, no âmbito da pesca, da aquicultura e das actividades conexas, executar as competências previstas em legislação específica.\n\n10 - Compete ainda ao capitão do porto exercer as demais competências previstas em leis especiais."
+  },
+  "116993312": {
+   "fragment_id": "116991386",
+   "type": 11,
+   "heading": "Artigo 14.º — Natureza dos actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Natureza dos actos\n\n1 - A verificação efectuada nos termos da alínea h) do n.º 2 do artigo 13.º equivale, para todos os efeitos, inclusive de cobrança de taxas por serviços prestados, à declaração da autoridade marítima prevista no artigo 145.º do Decreto-Lei n.º 265/72, de 2 de Julho, e no Decreto-Lei n.º 325/73, de 2 de Julho, sem prejuízo das competências do Instituto Marítimo-Portuário e das autoridades portuárias em matéria de segurança marítima e portuária dos navios e embarcações.\n\n2 - Salvo o disposto em legislação especial, dos actos praticados pelo capitão do porto ao abrigo do disposto nos n.os 2, 4 e 5 do artigo anterior cabe recurso contencioso."
+  },
+  "116993313": {
+   "fragment_id": "116991387",
+   "type": 8,
+   "heading": "Secção IV — Polícia Marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Polícia Marítima"
+  },
+  "116993314": {
+   "fragment_id": "116991388",
+   "type": 11,
+   "heading": "Artigo 15.º — Polícia Marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Polícia Marítima\n\n1 - A PM é uma força policial armada e uniformizada, dotada de competência especializada nas áreas e matérias legalmente atribuídas ao SAM e composta por militares da Marinha e agentes militarizados.\n\n2 - O pessoal da PM rege-se por estatuto próprio, a aprovar por decreto-lei.\n\n3 - São órgãos de comando próprio da PM:\n\na) O comandante-geral;\n\nb) O 2.º comandante-geral;\n\nc) Os comandantes regionais;\n\nd) Os comandantes locais.\n\n4 - Os órgãos de comando da PM são autoridades policiais e de polícia criminal.\n\n5 - O Comando-Geral da PM dispõe de um estado-maior, cuja estrutura orgânica e competências será aprovada por decreto-lei."
+  },
+  "116993315": {
+   "fragment_id": "116991389",
+   "type": 8,
+   "heading": "Secção V — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Funcionamento"
+  },
+  "116993316": {
+   "fragment_id": "116991390",
+   "type": 11,
+   "heading": "Artigo 16.º — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Receitas e despesas\n\n1 - Para além das verbas que lhe forem atribuídas pelo Orçamento do Estado, constituem receitas da DGAM:\n\na) O produto resultante da venda de bens ou serviços;\n\nb) O produto resultante da percentagem das coimas aplicadas que, nos termos legais, cabem aos órgãos e serviços da DGAM;\n\nc) O produto das taxas cobradas pela emissão de licenças;\n\nd) Donativos, heranças ou legados ou a outro título;\n\ne) Subsídios que lhe sejam atribuídos por qualquer entidade, nacional ou estrangeira;\n\nf) As demais receitas cobradas, nos termos da lei, pelos órgãos ou serviços da DGAM.\n\n2 - As receitas arrecadadas pelos órgãos ou serviços da DGAM são aplicadas mediante a inscrição orçamental «Dotação com compensação em receita»."
+  },
+  "116993317": {
+   "fragment_id": "116991391",
+   "type": 11,
+   "heading": "Artigo 17.º — Representação da autoridade marítima nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Representação da autoridade marítima nacional\n\nA representação da AMN ou de qualquer dos seus órgãos e serviços em outros organismos será determinada por despacho do Ministro da Defesa Nacional, sob proposta da AMN."
+  },
+  "116993318": {
+   "fragment_id": "116991392",
+   "type": 8,
+   "heading": "Secção VI — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Pessoal"
+  },
+  "116993319": {
+   "fragment_id": "116991393",
+   "type": 11,
+   "heading": "Artigo 18.º — Provimento de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Provimento de pessoal dirigente\n\n1 - O director-geral da Autoridade Marítima é um vice-almirante nomeado por despacho do Ministro da Defesa Nacional, por proposta da AMN.\n\n2 - O subdirector-geral da Autoridade Marítima é nomeado, por despacho do Ministro da Defesa Nacional, por proposta da AMN, de entre contra-almirantes da classe de marinha.\n\n3 - Os chefes dos departamentos marítimos são contra-almirantes ou capitães-de-mar-e-guerra da classe de marinha nomeados pela AMN.\n\n4 - Os capitães dos portos são oficiais superiores da classe de marinha nomeados pela AMN.\n\n5 - O provimento dos restantes lugares de pessoal dirigente da DGAM é efectuado nos termos do estatuto do pessoal dirigente da função pública."
+  },
+  "116993320": {
+   "fragment_id": "116991394",
+   "type": 11,
+   "heading": "Artigo 19.º — Pessoal não dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pessoal não dirigente\n\n1 - O quadro de pessoal civil dos órgãos e serviços da DGAM é fixado por portaria dos Ministros das Finanças, da Defesa Nacional e da Reforma do Estado e da Administração Pública.\n\n2 - O provimento dos lugares de pessoal civil não dirigente dos órgãos e serviços da DGAM é feito nos termos do regime jurídico da função pública."
+  },
+  "116993321": {
+   "fragment_id": "116991395",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "116993322": {
+   "fragment_id": "116991396",
+   "type": 11,
+   "heading": "Artigo 20.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Disposições transitórias\n\n1 - A DGAM sucede, para todos os efeitos legais, à Direcção-Geral de Marinha.\n\n2 - Todas as referências legais feitas à Direcção-Geral de Marinha e ao conselho consultivo do SAM devem entender-se como sendo feitas, respectivamente, à DGAM e ao CCAMN.\n\n3 - Os oficiais que à data de entrada em vigor do presente diploma desempenhem o cargo de delegado marítimo passam a desempenhar as funções de adjunto do capitão do porto, nos termos previstos no presente diploma."
+  },
+  "116993323": {
+   "fragment_id": "116991397",
+   "type": 11,
+   "heading": "Artigo 21.º — Cooperação institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cooperação institucional\n\n1 - Para os efeitos do disposto no artigo 13.º, n.os 2 e 4, as autoridades marítimas e portuárias promovem todos os esforços no sentido de garantir a eficácia da actividade portuária e a segurança de pessoas e bens, adoptando, sempre que se revelar necessário, medidas de cooperação, coordenação e controlo por forma a simplificar e acelerar procedimentos, podendo socorrer-se da utilização de meios informáticos para o efeito.\n\n2 - Em observância do disposto no número anterior, os procedimentos a adoptar na verificação e o conteúdo do despacho de largada de navios ou embarcações previstos no artigo 13.º, n.º 2, alínea h), são aprovados por despacho conjunto dos Ministros da Defesa Nacional e do Equipamento Social."
+  },
+  "116993324": {
+   "fragment_id": "116991398",
+   "type": 11,
+   "heading": "Artigo 22.º — Extinção de órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Extinção de órgãos e serviços\n\n1 - É extinta a Comissão para o Estudo e Aproveitamento do Leito do Mar.\n\n2 - É extinto o cargo de delegado marítimo."
+  },
+  "116993325": {
+   "fragment_id": "116991399",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposição revogatória\n\n1 - É revogado o Decreto-Lei n.º 300/84, de 7 de Setembro, os artigos 1.º, n.º 2, 7.º, 10.º e 11.º do Decreto-Lei n.º 265/72, de 31 de Julho, e o Decreto-Lei n.º 17/87, de 10 de Janeiro, e demais normas que contrariem o disposto no presente diploma.\n\n2 - Até à entrada em vigor da regulamentação prevista no presente diploma, mantêm-se em vigor todas as disposições legais correspondentes, desde que não contrariem o disposto no presente diploma."
+  },
+  "116993326": {
+   "fragment_id": "116991400",
+   "type": 11,
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "216491563": {
+   "fragment_id": "116993066",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 235/2012 - Diário da República n.º 211/2012, Série I de 2012-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), em vigor a partir de 2012-11-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma define, no âmbito do sistema da autoridade marítima (SAM), a estrutura, organização, funcionamento e competências da autoridade marítima nacional (AMN), dos seus órgãos e dos seus serviços.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 235/2012 - Diário da República n.º 211/2012, Série I de 2012-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), em vigor a partir de 2012-11-01"
+  },
+  "216491564": {
+   "fragment_id": "116993067",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições e competências",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 235/2012 - Diário da República n.º 211/2012, Série I de 2012-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), em vigor a partir de 2012-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições e competências\n\n1 - A AMN é a entidade responsável pela coordenação das atividades, de âmbito nacional, a executar pela Armada, pela Direção-Geral da Autoridade Marítima (DGAM) e pelo Comando-Geral da Polícia Marítima (CGPM), nos espaços de jurisdição e no quadro de atribuições definidas no Sistema de Autoridade Marítima, com observância das orientações definidas pelo Ministro da Defesa Nacional, que aprova o orçamento destinado à AMN.\n\n2 - O Chefe do Estado-Maior da Armada (CEMA) é, por inerência, a AMN e nesta qualidade funcional depende do Ministro da Defesa Nacional.\n\n3 - Nos processos jurisdicionais que tenham por objeto a ação ou omissão da AMN ou dos órgãos e serviços nela compreendidos, a parte demandada é a AMN, sendo representada em juízo por advogado ou por licenciado em Direito com funções de apoio jurídico, constituído ou designado pela AMN.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 235/2012 - Diário da República n.º 211/2012, Série I de 2012-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), em vigor a partir de 2012-11-01"
+  },
+  "216491565": {
+   "fragment_id": "116993069",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura da autoridade marítima nacional",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 235/2012 - Diário da República n.º 211/2012, Série I de 2012-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), em vigor a partir de 2012-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura da autoridade marítima nacional\n\n1 - A AMN compreende os seguintes órgãos e serviços:\n\na) Conselho Consultivo (CCAMN);\n\nb) Comissão do Domínio Público Marítimo (CDPM).\n\nc) DGAM;\n\nd) Polícia Marítima.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 235/2012 - Diário da República n.º 211/2012, Série I de 2012-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), em vigor a partir de 2012-11-01"
+  },
+  "216491566": {
+   "fragment_id": "116991376",
+   "type": 11,
+   "heading": "Artigo 7.º — Natureza",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 235/2012 - Diário da República n.º 211/2012, Série I de 2012-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), em vigor a partir de 2012-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Natureza\n\nA DGAM é o serviço, integrado no Ministério da Defesa Nacional através da Marinha para efeitos da gestão de recursos humanos e materiais, dotado de autonomia administrativa, responsável pela direção, coordenação e controlo das atividades exercidas pelos seus órgãos e serviços no âmbito da AMN.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 235/2012 - Diário da República n.º 211/2012, Série I de 2012-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), em vigor a partir de 2012-11-01"
+  },
+  "216491567": {
+   "fragment_id": "116991388",
+   "type": 11,
+   "heading": "Artigo 15.º — Polícia Marítima",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 235/2012 - Diário da República n.º 211/2012, Série I de 2012-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), em vigor a partir de 2012-11-01"
+   ],
+   "markdown": "###### Artigo 15.º — Polícia Marítima\n\n1 - A PM é uma força policial armada e uniformizada, dotada de competência especializada nas áreas e matérias legalmente atribuídas ao SAM e à AMN, composta por militares da Armada e agentes militarizados.\n\n2 - O pessoal da PM rege-se por estatuto próprio, a aprovar por decreto-lei.\n\n3 - São órgãos de comando próprio da PM:\n\na) O comandante-geral;\n\nb) O 2.º comandante-geral;\n\nc) Os comandantes regionais;\n\nd) Os comandantes locais.\n\n4 - Os órgãos de comando da PM são autoridades policiais e de polícia criminal.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 235/2012 - Diário da República n.º 211/2012, Série I de 2012-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), em vigor a partir de 2012-11-01"
+  },
+  "116993327": {
+   "fragment_id": "116991401",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Henrique Nuno Pires Severiano Teixeira - Eduardo Luís Barreto Ferro Rodrigues - Eduardo Arménio do Nascimento Cabrita - Luís Garcia Braga da Cruz - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - José Sócrates Carvalho Pinto de Sousa - Augusto Ernesto Santos Silva - Alberto de Sousa Martins.\n\nPromulgado em 11 de Fevereiro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Fevereiro de 2002.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "216491568": {
+   "fragment_id": "116991385",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do capitão do porto",
+   "in_force_from": "2014-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2014 - Diário da República n.º 151/2014, Série I de 2014-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2014-55235835), em vigor a partir de 2014-08-08"
+   ],
+   "markdown": "###### Artigo 13.º — Competências do capitão do porto\n\n1 - O capitão do porto é a autoridade marítima local a quem compete exercer a autoridade do Estado, designadamente em matéria de fiscalização, policiamento e segurança da navegação, de pessoas e bens, na respectiva área de jurisdição, nos termos dos números seguintes.\n\n2 - Compete ao capitão do porto, no exercício de funções de autoridade marítima:\n\na) Coordenar e executar acções de fiscalização e vigilância que se enquadrem no seu âmbito e área de jurisdição, nos termos da lei;\n\nb) Exercer as competências que lhe são cometidas no âmbito da lei de segurança interna;\n\nc) Dirigir operacionalmente, enquanto responsável de protecção civil, as acções decorrentes das competências que, neste âmbito, lhe estão legalmente cometidas, em cooperação com outras entidades e sem prejuízo das competências da tutela nacional da protecção civil;\n\nd) Proceder a inquérito em caso de sinistros marítimos e, relativamente aos acidentes que envolvam feridos ou mortos, efectuar as diligências processuais necessárias, sob direcção da competente autoridade judiciária, sem prejuízo da investigação técnica de acidentes pelo Instituto Marítimo-Portuário;\n\ne) Efectuar a investigação da ocorrência em caso de naufrágios e proceder de acordo com o estipulado na legislação do registo civil;\n\nf) Receber os relatórios e protestos de mar apresentados pelos comandantes das embarcações nacionais, comunitárias e de países terceiros e proceder à respectiva instrução processual, de acordo com o estabelecido em legislação própria;\n\ng) Promover tentativas de conciliação nas matérias especialmente previstas na lei dos tribunais marítimos;\n\nh) Verificar, imediatamente antes da largada de navios ou embarcações, a existência e conformidade dos documentos exigidos pela legislação em vigor para o efeito e emitidos pelas autoridades portuárias, sanitárias, alfandegárias, fiscais e policiais, sem prejuízo da visita e da verificação documental sempre que ocorram suspeitas de infracções de natureza penal ou contra-ordenacional, a fim de ser emitido despacho de largada;\n\ni) Determinar a detenção de embarcações, nos casos legalmente previstos, designadamente no Decreto-Lei n.º 195/98, de 10 de Julho;\n\nj) Impedir a saída das embarcações que tenham praticado ilícito penal ou contra-ordenacional enquanto não prestarem a caução que lhes tenha sido imposta nos termos legais;\n\nk) Exercer a autoridade de Estado a bordo de navios ou embarcações comunitários e estrangeiros, observados os requisitos preceituados no artigo 27.º da Convenção das Nações Unidas sobre o Direito do Mar, quando se verifiquem alterações da ordem pública, ocorrência de indícios criminais ou quando os mesmos se encontrem sem capitão ou em processo de abandono;\n\nl) Fiscalizar o cumprimento das normas legais relativas às pescas.\n\n3 - Compete ao capitão do porto, no âmbito do salvamento e socorro marítimos:\n\na) Prestar o auxílio e socorro a náufragos e a embarcações, utilizando os recursos materiais da capitania ou requisitando-os a organismos públicos e particulares se tal for necessário;\n\nb) Superintender as acções de assistência e salvamento de banhistas nas praias da área da sua capitania.\n\n4 - Compete ao capitão do porto, no exercício de funções no âmbito da segurança da navegação:\n\na) Estabelecer, quanto a navios comunitários e estrangeiros, formas de acesso ao mar territorial ou sua interdição, em cooperação com a Autoridade de Controlo de Tráfego Marítimo;\n\nb) Determinar o fecho da barra, por imperativos decorrentes da alteração da ordem pública e, ouvidas as autoridades portuárias, com base em razões respeitantes às condições de tempo e mar;\n\nc) Cumprir as formalidades previstas na lei quanto a embarcações que transportam cargas perigosas e fiscalizar o cumprimento dos normativos aplicáveis, bem como as medidas de segurança para a sua movimentação nos portos;\n\nd) Estabelecer fundeadouros fora das áreas de jurisdição portuária;\n\ne) Emitir parecer sobre fundeadouros que sejam estabelecidos na área de jurisdição portuária, no caso de cargas perigosas;\n\nf) Emitir parecer sobre dragagens e fiscalizar o cumprimento do estabelecido quanto à sua execução, sem prejuízo das competências específicas das autoridades portuárias e de se dever assegurar permanentemente a plena acessibilidade às instalações militares sediadas na área de jurisdição portuária;\n\ng) Publicar o edital da capitania, enquanto conjunto de orientações, informações e determinações no âmbito das competências que lhe estão legalmente cometidas, tendo em conta as atribuições das autoridades portuárias;\n\nh) Publicar avisos à navegação quanto a actividades ou acontecimentos nos espaços marítimos sob soberania ou jurisdição nacional, bem como promover a divulgação dos que sejam aplicáveis na área de jurisdição portuária, sem prejuízo das competências específicas do Instituto Hidrográfico;\n\ni) Garantir o assinalamento marítimo costeiro, em articulação com a Direcção de Faróis;\n\nj) Dar parecer técnico em matéria de assinalamento marítimo na área de jurisdição portuária;\n\nk) Coordenar as acções de combate à poluição, nos termos definidos no Plano Mar Limpo;\n\nl) Executar os procedimentos previstos em lei especial sobre embarcações de alta velocidade (EAV), competindo-lhe, ainda, a fiscalização do cumprimento dos normativos aplicáveis e a instrução processual dos ilícitos;\n\nm) Promover, sem prejuízo das competências específicas das autoridades portuárias e ambientais, as acções processuais e operacionais necessárias ao assinalamento e remoção de destroços de embarcações naufragadas ou encalhadas, quando exista perigo de poluição marítima, perigo para a segurança da navegação ou coloquem dificuldades à entrada e saída de navios dos portos;\n\nn) Conceder autorizações especiais para a realização de eventos de natureza desportiva ou cultural que ocorram em zonas balneares ou áreas de jurisdição marítima.\n\n5 - Compete ao capitão do porto, no exercício de funções de carácter técnico-administrativo:\n\na) Fixar a lotação de segurança de embarcações nacionais do tráfego local;\n\nb) Emitir o rol de tripulação de embarcações nacionais, nos termos do Regulamento de Inscrição Marítima (RIM);\n\nc) Emitir licenças para exercício e exploração de actividades marítimo-turísticas de embarcações, dar parecer sobre emissão de licenças especiais e fiscalizar o seu cumprimento, nos termos da legislação aplicável;\n\nd) Efectuar a visita e verificação documental a todos os tipos de embarcações, conferindo o manifesto de carga, o rol de tripulação, a lista de passageiros, os documentos de certificação da embarcação e os demais papéis de bordo, nos casos estabelecidos legalmente;\n\ne) Efectuar as vistorias relativas a reboque de embarcações nacionais que demandem ou larguem de portos na área da capitania;\n\nf) Presidir a comissões de vistoria em matéria de estabelecimentos de culturas marinhas, de acordo com o estabelecido em lei especial.\n\n6 - Compete ao capitão do porto, no âmbito do registo patrimonial de embarcações:\n\na) Efectuar o registo de propriedade de embarcações nacionais, assim como o cancelamento, reforma e alteração de registo, de acordo com o estabelecido legalmente, nomeadamente em matéria de registo de bens móveis e náutica de recreio;\n\nb) Efectuar a inscrição marítima, determinar a sua suspensão e cancelamento, emitir, renovar e reter a cédula de inscrição marítima, manter actualizados todos os registos relativos às carreiras, cédulas marítimas e embarques de marítimos, nos termos do RIM em vigor;\n\nc) Assinar, rubricar ou autenticar, conforme os casos, os certificados, livros, autos, termos, certidões, cópias ou outros documentos pertencentes a embarcações nacionais ou ao serviço da capitania cuja emissão caiba no âmbito das atribuições legais dos órgãos regionais ou locais da DGAM;\n\nd) Conceder licenças para praticar actos de acordo com o estabelecido na tabela de serviços prestados pelos órgãos regionais ou locais da DGAM ou em legislação especial;\n\ne) Promover a cobrança de receitas cuja competência esteja legalmente cometida à DGAM;\n\nf) Determinar o abate, nas condições previstas legalmente, decorrente da autorização da demolição ou da determinação de desmantelamento de embarcações.\n\n7 - Compete ao capitão do porto, no âmbito contra-ordenacional:\n\na) Levantar autos de notícia e instruir processos por ilícitos contra-ordenacionais nas matérias para as quais a lei lhe atribua competência, determinar o estabelecimento de cauções e aplicar medidas cautelares, coimas e sanções acessórias;\n\nb) Instruir os processos contra-ordenacionais por ilícitos cometidos em matéria de esquemas de separação de tráfego (EST) e aplicar coimas e sanções acessórias.\n\n8 - Compete ao capitão do porto, no âmbito da protecção e conservação do domínio público marítimo e da defesa do património cultural subaquático:\n\na) Fiscalizar e colaborar na conservação do domínio público marítimo, nomeadamente informando as entidades administrantes sobre todas as ocupações e utilizações abusivas que nele se façam e desenvolvam;\n\nb) Dar parecer sobre processos de construção de cais e marinas, bem como de outras estruturas de utilidade pública e privada que se projectem e realizem na sua área de jurisdição;\n\nc) Dar parecer sobre os processos de delimitação do domínio público hídrico sob jurisdição da AMN;\n\nd) Fiscalizar e promover as medidas cautelares que assegurem a preservação e defesa do património cultural subaquático, sem prejuízo das competências legalmente atribuídas a outros órgãos de tutela;\n\ne) Publicar os editais de praia, estabelecendo os instrumentos de regulamentação conexos com a atividade balnear e a assistência a banhistas nas praias, designadamente no respeitante a vistorias dos apoios de praia, em termos a fixar por portaria dos membros do Governo responsáveis pelas áreas da defesa nacional e do ambiente.\n\n9 - Compete ao capitão do porto, no âmbito da pesca, da aquicultura e das actividades conexas, executar as competências previstas em legislação específica.\n\n10 - Compete ainda ao capitão do porto exercer as demais competências previstas em leis especiais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2014 - Diário da República n.º 151/2014, Série I de 2014-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2014-55235835), em vigor a partir de 2014-08-08"
+  }
+ }
+}

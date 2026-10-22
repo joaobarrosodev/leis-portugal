@@ -1,0 +1,318 @@
+---
+schema_version: '1.0'
+id: pt:dre:521189:por
+title: Portaria n.º 527/2007
+short_title: null
+summary: Estabelece a estrutura nuclear do Instituto Geográfico Português e as competências das respectivas unidades orgânicas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 527/2007
+official_date: null
+publication_date: '2007-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2007, Série I de 2007-04-30
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2845 - 2848
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/28452848.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/527/2007/04/30/p/dre/pt/html
+  oj: null
+  dre: '521189'
+  dre_path: /dr/detalhe/portaria/527-2007-521189
+  internal: pt:dre:521189:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/527-2007-521189
+  metadata_url: https://data.dre.pt/eli/port/527/2007/04/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/527-2007-521189
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-04-30T00:00:00Z'
+integrity:
+  source_sha256: 66272e0a45e68f212ccc9842f5387b75550270d7348aeab94912219d059d17f7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-527-521189.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Orgânica
+- Instituto Geográfico Português
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/133/2007/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133/2007/04/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 527/2007
+
+de 30 de Abril
+
+O [Decreto-Lei n.º 133/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2007-520981), de 27 de Abril, definiu a missão, atribuições e tipo de organização interna do Instituto Geográfico Português. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear dos serviços bem como as competências das respectivas unidades orgânicas.
+
+Assim:
+
+Ao abrigo do n.º 4 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, o seguinte:
+
+###### Artigo 1.º — Estrutura nuclear do Instituto Geográfico Português
+
+O Instituto Geográfico Português, abreviadamente designado por IGP, estrutura-se nas seguintes unidades orgânicas nucleares:
+
+a) Direcção de Serviços de Geodesia e Cartografia;
+
+b) Direcção de Serviços de Informação Cadastral;
+
+c) Direcção de Serviços de Investigação e Gestão de Informação Geográfica;
+
+d) Direcção de Serviços de Planeamento e Regulação;
+
+e) Direcção de Serviços Gestão de Recursos Internos.
+
+###### Artigo 2.º — Direcção de Serviços de Geodesia e Cartografia
+
+A Direcção de Serviços de Geodesia e Cartografia, abreviadamente designada por DSGC, assegura o desenvolvimento de estudos, o planeamento e execução de trabalhos nos domínios da Geodesia e da Cartografia e promove a obtenção, tratamento e publicação de informação geográfica, competindo-lhe:
+
+a) Assegurar a manutenção e o aperfeiçoamento das infra-estruturas geodésicas, estabelecendo e mantendo todos os referenciais geodésicos nacionais, promovendo a execução dos trabalhos necessários ao seu reconhecimento e observação e constituindo e mantendo os registos de dados que as caracterizam, de forma a garantir a criação de condições para a sua distribuição;
+
+b) Constituir e manter os bancos de dados de informação cartográfica, incluindo a obtida por produção descentralizada, e de detecção remota, com excepção da de natureza cadastral, assegurando a criação de condições para a sua distribuição;
+
+c) Desenvolver trabalhos de verificação técnica da conformidade dos dados georreferenciados, incluindo os decorrentes das actividades de homologação e fiscalização;
+
+d) Promover a publicação de informação geográfica e fornecer o apoio em impressão, reprodução e edição de publicações no âmbito das actividades do Instituto;
+
+e) Elaborar normas técnicas referentes às áreas da sua competência;
+
+f) Coordenar, no âmbito das suas competências, a actividade das participações em grupos de trabalho e concretizar os compromissos por essa via assumidos.
+
+###### Artigo 3.º — Direcção de Serviços de Informação Cadastral
+
+A Direcção de Serviços de Informação Cadastral, abreviadamente designada por DSIC, promove o desenvolvimento de estudos e normas técnicas, a obtenção e tratamento da informação cadastral e a certificação de elementos cadastrais, competindo-lhe:
+
+a) Constituir, manter e gerir o Sistema Nacional de Exploração e Gestão de Informação Cadastral (SiNErGIC);
+
+b) Promover a execução e a actualização da informação cadastral;
+
+c) Garantir a actualização e disponibilização da Carta Administrativa Oficial de Portugal (CAOP);
+
+d) Promover os trabalhos de verificação técnica da conformidade de dados cadastrais;
+
+e) Certificar os elementos cadastrais no âmbito do SiNErGIC;
+
+f) Elaborar normas técnicas referentes às áreas da sua competência;
+
+g) Coordenar, no âmbito das suas competências, a actividade das participações em grupos de trabalho e concretizar os compromissos por essa via assumidos.
+
+###### Artigo 4.º — Direcção de Serviços de Investigação e Gestão de Informação Geográfica
+
+A Direcção de Serviços de Investigação e Gestão da Informação Geográfica, abreviadamente designada por DSIGIG, promove a coordenação e o desenvolvimento do Sistema Nacional de Informação Geográfica (SNIG) e a investigação, competindo-lhe:
+
+a) Coordenar o desenvolvimento do SNIG, através do planeamento, desenvolvimento e coordenação de actividades de concepção, organização, elaboração, exploração e actualização de serviços e dados a integrar no Sistema;
+
+b) Assegurar a integração no SNIG de um serviço de catálogo de dados geográficos, incluindo os relativos ao Registo Nacional de Cartografia;
+
+c) Suportar o desenvolvimento do SNIG através da promoção e realização de investigação e desenvolvimento nos domínios das metodologias e das tecnologias de produção e exploração de informação geográfica, criação de novos serviços e produtos de informação geográfica e descoberta de novas áreas de exploração e utilização de informação geográfica;
+
+d) Colaborar com outras instituições em projectos de ensino e investigação;
+
+e) Contribuir para a elaboração, difusão e implementação de normas técnicas referentes às áreas da sua competência;
+
+f) Coordenar, no âmbito das suas competências, a actividade das participações em grupos de trabalho e concretizar os compromissos por essa via assumidos.
+
+###### Artigo 5.º — Direcção de Serviços de Planeamento e Regulação
+
+1 - A Direcção de Serviços de Planeamento e Regulação, abreviadamente designada por DSPR, assegura as funções de planeamento da actividade do IGP e sua articulação com o exterior, a gestão da documentação e informação, a promoção do sistema de qualidade, zelando pelo cumprimento das normas constantes da legislação específica nos domínios da geodesia, cartografia e cadastro e assegurando a regulação, fiscalização e acreditação das actividades das empresas nos referidos domínios, competindo-lhe:
+
+a) Elaborar normas técnicas;
+
+b) Coordenar a actividade das participações em grupos de trabalho e concretizar os compromissos por essa via assumido.
+
+2 - Compete à DSPR nas áreas de regulação, fiscalização e acreditação das actividades das empresas nos domínios da geodesia, cartografia e cadastro:
+
+a) Promover a regulamentação dessas actividades;
+
+b) Promover a publicação e divulgação de normativos técnicos legais nos domínios supra referidos, em coordenação com os outros centros;
+
+c) Instruir e propor a concessão de alvarás nos termos da legislação aplicável aos domínios referidos e acreditar técnicos na área da conservação do cadastro;
+
+d) Inspeccionar e fiscalizar as actividades das empresas, promover a instrução de processos de contra-ordenação e propor a aplicação de sanções;
+
+e) Verificar a qualidade de produção e dos produtos das empresas;
+
+f) Homologar produtos cartográficos;
+
+g) Criar e manter um cadastro ou registo das empresas e técnicos de acordo com a legislação específica aplicável aos diversos domínios;
+
+h) Apoiar tecnicamente, no âmbito das atribuições do IGP e sempre que solicitado, a administração central, regional e local, bem como as restantes formas de organização autárquica.
+
+3 - Compete à DSPR nas áreas de planeamento, coordenação e apoio:
+
+a) Coordenar a elaboração do Plano Anual de Actividades;
+
+b) Acompanhar a execução do planeamento das actividades, coordenando a elaboração do respectivo Relatório Anual;
+
+c) Assegurar o secretariado do Conselho Coordenador de Cartografia;
+
+d) Prestar apoio jurídico ao director-geral e subdirectores-gerais, designadamente mediante a elaboração de pareceres e informações;
+
+e) Elaborar e manter actualizado um arquivo de legislação e de jurisprudência com interesse para as actividades prosseguidas pelo IGP;
+
+f) Assegurar as actividades de relações públicas, designadamente coordenando e acompanhando o relacionamento com o exterior a nível nacional e internacional;
+
+g) Gerir e actualizar os conteúdos da intranet e do sítio do IGP na Internet;
+
+h) Assegurar a organização, com o apoio dos restantes serviços, de acções e cursos de formação e aperfeiçoamento relativos às áreas de competência do IGP;
+
+i) Assegurar a catalogação, conservação e divulgação do material de interesse científico, histórico e cultural existente no IGP, bem como gerir o seu património documental;
+
+j) Definir o sistema de qualidade aplicável e propor a estratégia ambiental do IGP, procedendo à sua revisão periódica e propondo acções de melhoria;
+
+l) Coordenar a organização de conferências, exposições, congressos, reuniões e outras actividades de carácter científico ou cultural promovidas pelo Instituto e assegurar a respectiva publicidade;
+
+m) Promover a divulgação da informação científica e técnica produzida pelo Instituto;
+
+n) Coordenar a actividade comercial do IGP.
+
+###### Artigo 6.º — Direcção de Serviços de Gestão de Recursos Internos
+
+1 - A Direcção de Serviços de Gestão de Recursos Internos, abreviadamente designada por DSGRI, assegura a gestão dos recursos humanos, financeiros, logísticos, patrimoniais e informáticos do IGP, competindo-lhe:
+
+a) Elaborar normas técnicas;
+
+b) Coordenar a actividade das participações em grupos de trabalho e concretizar os compromissos por essa via assumidos.
+
+2 - Compete à DSGRI na área de gestão de recursos humanos:
+
+a) Assegurar a gestão integrada dos recursos humanos do IGP, procedendo ao levantamento permanente das necessidades de pessoal e sua adaptação às respectivas funções;
+
+b) Definir e promover critérios com vista à aplicação uniforme e equitativa do sistema de avaliação do desempenho dos funcionários;
+
+c) Organizar e manter actualizados os registos biográficos, bem como emitir certidões, quando devidamente autorizadas;
+
+d) Proceder ao controlo da assiduidade e da pontualidade;
+
+e) Processar os vencimentos e demais abonos devidos ao pessoal;
+
+f) Elaborar o plano anual de formação, com base no levantamento, análise e diagnóstico das necessidades de formação identificadas pelos serviços, bem como promover e assegurar a respectiva execução;
+
+g) Assegurar os procedimentos relativos ao regime do pessoal no que se refere à constituição, modificação e extinção da relação jurídica de emprego, designadamente no que respeita a processos de recrutamento, selecção, provimento, promoção, progressão, exoneração, aposentação e mobilidade;
+
+h) Elaborar o balanço social;
+
+i) Emitir pareceres e informações de natureza jurídica relacionadas com as suas competências;
+
+j) Assegurar a execução das normas sobre condições ambientais de higiene e segurança no trabalho.
+
+3 - Compete à DSGRI na área de gestão de recursos financeiros:
+
+a) Preparar as propostas de orçamento do IGP, com base nos respectivos programas de actividades, bem como acompanhar a execução orçamental;
+
+b) Assegurar a gestão, o registo e o controlo contabilístico das receitas do IGP;
+
+c) Executar o orçamento, assegurando todos os procedimentos relativos ao cabimento e processamento de despesas, incluindo em moeda estrangeira;
+
+d) Propor e proceder às alterações orçamentais que se mostrem necessárias ao funcionamento dos serviços;
+
+e) Solicitar mensalmente a libertação de créditos à Direcção-Geral do Orçamento;
+
+f) Acompanhar a execução financeira de projectos executados pelo IGP;
+
+g) Assegurar o cumprimento das obrigações fiscais e financeiras do IGP;
+
+h) Criar um sistema de indicadores de gestão que permitam acompanhar a evolução da situação orçamental e financeira do IGP;
+
+i) Elaborar a conta de gerência e demais documentos de prestação de contas exigidos por lei;
+
+j) Promover a constituição, reconstituição e liquidação do fundo de maneio.
+
+4 - Compete à DSGRI na área de gestão logística e patrimonial:
+
+a) Elaborar e executar o plano anual de aquisições;
+
+b) Promover os procedimentos pré-contratuais adequados à aquisição dos bens e serviços necessários ao suprimento das necessidades dos serviços;
+
+c) Apoiar técnica e juridicamente as restantes unidades orgânicas no âmbito dos procedimentos de aquisição de bens e serviços;
+
+d) Proceder ao controlo da legalidade dos processos relativos a despesas e definir, na área da sua competência, as regras internas de actuação dos serviços;
+
+e) Assegurar a gestão, conservação, segurança e limpeza das instalações e dos bens afectos ao IGP;
+
+f) Organizar e manter actualizado o inventário dos bens patrimoniais do IGP;
+
+g) Assegurar a gestão e controlo dos armazéns de material;
+
+h) Garantir a gestão do parque automóvel, assegurando a manutenção das viaturas, e apurando os respectivos custos de funcionamento;
+
+i) Garantir o funcionamento em matéria de expediente e correspondência.
+
+5 - Compete à DSGRI na área de gestão de recursos informáticos:
+
+a) Gerir e manter o parque informático, a infra-estrutura de dados e de comunicações fixas e móveis e respectivos sistemas de segurança;
+
+b) Gerir a utilização dos recursos informáticos;
+
+c) Realizar os estudos de base necessários à tomada de decisões quanto a alterações aos sistemas instalados, bem como a aquisição de novos sistemas e suportes lógicos;
+
+d) Criar e manter actualizados os suportes lógicos adoptados, garantindo a sua adaptação às necessidades do IGP;
+
+e) Garantir o suporte e desenvolvimento tecnológico do Sistema Nacional de Exploração e Gestão de Informação Cadastral e do Sistema Nacional de Informação Geográfica;
+
+f) Apoiar os serviços na definição e implementação de soluções informáticas adequadas às suas necessidades;
+
+g) Colaborar com outras entidades para o estabelecimento da compatibilidade e comunicação entre ficheiros, bases de dados e sistemas;
+
+h) Elaborar normas técnicas referentes às áreas da sua competência.
+
+###### Artigo 7.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Abril de 2007. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 26 de Abril de 2007.**

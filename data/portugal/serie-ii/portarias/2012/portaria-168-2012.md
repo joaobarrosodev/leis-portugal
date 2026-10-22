@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:3154796:por
+title: Portaria n.º 168/2012
+short_title: null
+summary: Concessão da medalha de serviços distintos, grau prata, ao coronel PILAV David José Menezes Teixeira
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 168/2012
+official_date: null
+publication_date: '2012-03-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 57/2012, Série II de 2012-03-20
+  number: '57'
+  series: II
+  supplement: null
+  pages: 10272 - 10272
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/03/057000000/1027210272.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3154796'
+  dre_path: /dr/detalhe/portaria/168-2012-3154796
+  internal: pt:dre:3154796:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-2012-3154796
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-2012-3154796
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-03-20T00:00:00Z'
+integrity:
+  source_sha256: c6b8a706595223af1ab8e73ef1568ce6f156367499d84dd75110dbb3d1815b15
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-168-3154796.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 168/2012
+
+Louvo o coronel piloto aviador NIP 039597-J, David José Meneses Teixeira, pela forma altamente competente, digna e meritória como desempenhou as funções de conselheiro militar da Força Aérea na Delegação de Portugal junto da Organização do Tratado do Atlântico Norte (PODELNATO) no período compreendido entre 1 de outubro de 2005 e 30 de setembro de 2008.
+
+Como conselheiro militar, o coronel David Teixeira demonstrou ser um oficial de vincada personalidade, espírito de missão, íntegro e muito leal, que sempre pautou a sua ação pela defesa do interesse nacional, em estreita consonância com as orientações superiormente definidas, demonstrando grande inteligência, bom senso e extraordinário sentido da responsabilidade na gestão dos sensíveis e complexos temas das agendas dos diferentes processos que lhe foram atribuídos.
+
+O coronel David Teixeira desenvolveu atividades em variadas áreas, tendo, de forma muito esclarecida, estabelecido a necessária coordenação com os respetivos representantes nacionais, designadamente ao nível do NATO Air Traffic Management Committee (NATMC); do NATO Airborne Early Warning and Control Programme Management Organization (NAPMO), incluindo a Agência NAPMA, a Componente E-3 A e o Force Command; do NATO Air Force Armaments Group (NAFAG); do Senior NATO Logisticians Committee (SNLC) e dos seus grupos subordinados, o Logistic Staff Meeting (LSM) e o Movement and Transportation Group (M&TG); no âmbito do controlo de armamentos coordenado pelo Verification Coordination Committee (VCC), dando apoio à Unidade de Verificação Nacional (UNAVE); no quadro das relações NATO-Rússia, nomeadamente nos grupos de Cooperative Airspace Initiative (CAI), na Logística, no Transporte Aéreo e no Reabastecimento Aéreo; e no âmbito do Executive Working Group (EWG), em assuntos da sua área de responsabilidade e que têm estado na agenda política da Aliança, nos últimos anos, tais como helicópteros, transporte aéreo estratégico e logística multinacional.
+
+Nas áreas onde assegurou a representação nacional, o coronel David Teixeira atuou sempre com vivacidade e eficácia e foi um precioso colaborador, quer nas reuniões quer nas atividades relacionadas com os vários projetos em que foi envolvido como delegado nacional.
+
+Foram três as áreas em que o coronel David Teixeira assumiu esta representação: na defesa aérea, sendo o Air Defence Representative (ADREP), nos recursos financeiros, tendo assumido a representação no Military Budget Committee (MBC), e na área da normalização, sendo o NATO Committee Standardization Representative (NCSREP).
+
+No âmbito da defesa aérea e como ADREP, dando também apoio ao NATO Air Defence Committee (NADC), o coronel David Teixeira revelou um apurado sentido da responsabilidade, tendo demonstrado possuir conhecimentos técnicos e profissionais de excelente qualidade e uma atitude determinada, dinâmica e equilibrada, o que permitiu encontrar argumentação e soluções sustentadas em proveito dos interesses nacionais.
+
+No seu desempenho no Programa Air Command & Control System (ACCS), o coronel David Teixeira demonstrou um excelente poder de análise das situações e grande espírito de iniciativa, materializados em pareceres e propostas que contribuíram para a defesa dos interesses nacionais na NATO ACCS Management Organisation (NACMO), e na NATO ACCS Management Agency (NACMA), designadamente nas posições assumidas sobre os Industrial Property Rights (IPRs) do Programa e na elaboração do ACCS Rolling Plan (ARP).
+
+Saliento igualmente a particular eficiência do desempenho do coronel David Teixeira como representante nacional no Comité de Orçamento Militar, que lhe exigiu um significativo esforço adicional de familiarização com o tema e gestão de trabalho. A sua dedicação foi muito apreciada pela lucidez dos seus comentários, rigor de análise, pertinência e pragmatismo dos seus pareceres, que muito contribuíram para fundamentar o processo nacional de tomada de decisão.
+
+Relevo ainda o papel do coronel David Teixeira na discussão e negociação dos reembolsos no âmbito de uma conta orçamental denominada de Air Defence Ground, que inclui um reembolso em que Portugal é beneficiário, tendo desempenhado um papel fundamental no resultado da negociação favorável ao nosso país, com a extensão do mesmo até 2015.
+
+Assinalo ainda a proficiência do desempenho do coronel David Teixeira como representante nacional no NATO Committee for Standardization (NCS) e nos grupos de trabalho coordenados pela NATO Standardization Agency (NSA), onde colaborou, de uma forma sistemática e empenhada, colocando grande dinamismo e determinação nas posições a defender.
+
+As qualidades intelectuais e conhecimentos técnicos do coronel David Teixeira, aliados a um vincado espírito de missão, manifestaram-se numa dedicação profissional sem reservas, na eficaz promoção do interesse nacional nas áreas da sua competência e num espírito de enorme simpatia e entreajuda, os quais lhe granjearam o respeito e amizade de todos quantos consigo contactaram, dentro e fora da Delegação de Portugal junto da OTAN.
+
+Pelas razões expostas, é muito grato ao Ministro da Defesa Nacional reconhecer publicamente o elevado nível de desempenho do coronel David Teixeira e as excelentes qualidades pessoais e profissionais que comprovadamente demonstrou e considerar os serviços por si prestados como extraordinários, relevantes e muito distintos, dos quais resultaram honra e lustre para a defesa nacional e para o País.
+
+Assim:
+
+Nos termos da competência que me é conferida pelo n.º 1 do artigo 34.º e atento o disposto no artigo 16.º, ambos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, concedo a medalha de serviços distintos, grau prata, ao coronel piloto aviador NIP 039597-J, David José Meneses Teixeira.
+
+2 de abril de 2009. - O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira.

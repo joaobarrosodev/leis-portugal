@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:536400:por
+title: Portaria n.º 20907
+short_title: null
+summary: Concede a um cidadão residente em Luanda uma licença de exclusivo de pesquisas para diamantes e outras pedras preciosas
+  em determinada área da província ultramarina de Angola
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Economia
+proposing_entity: null
+official_number: '20907'
+official_date: null
+publication_date: '1964-11-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 267/1964, Série I de 1964-11-13
+  number: '267'
+  series: I
+  supplement: null
+  pages: 1602 - 1603
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/11/26700/16021603.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '536400'
+  dre_path: /dr/detalhe/portaria/20907-1964-536400
+  internal: pt:dre:536400:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20907-1964-536400
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20907-1964-536400
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1967-05-12T00:00:00Z'
+integrity:
+  source_sha256: 9cedb3d3282c968b9d5b3da797de04436f8d6cac8147680b286a7576355f98b0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1964/DRE-1964-20907-536400.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:313228:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20907
+
+Considerando que a pesquisa e subsequente exploração dos jazigos de diamantes poderá desempenhar papel de relevo no progresso económico de Angola e atendendo ao interesse manifestado nesse sentido pelo Governo da província:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 19.º do Decreto de 20 de Setembro de 1906, que regula a pesquisa e lavra de minas do ultramar, conforme o anúncio sobre pesquisas de diamantes em Angola publicado no Diário do Governo n.º 97, 2.ª série, de 23 de Abril de 1964, e em harmonia com o disposto na base XI da Lei Orgânica do Ultramar Português, conceder a João António Veiga, casado, industrial, morador em Luanda, uma licença de exclusivo de pesquisas para diamantes e outras pedras preciosas na área da província de Angola, cujos limites, termos e condições são os seguintes:
+
+1.º A licença é válida para a porção do território definida pelas quadrículas n.os 325, 326, 334, 335, 344, 345, 346, 347, 348, 349, 350, 351 e 352, constantes do referido anúncio sobre pesquisas de diamantes em Angola, num total aproximado de 2633,5 km2.
+
+2.º Esta licença de exclusivo de pesquisas é válida pelo período de dois anos, susceptíveis de prorrogação por mais um, dois ou três, se o concessionário o requerer e a fiscalização do Governo considerar que o pesquisador trabalhou intensivamente e cumpriu todas as prescrições legais.
+
+3.º No fim do período inicial de dois anos, o concessionário libertará do exclusivo uma fracção nunca inferior a 25 por cento da área total, incluindo as áreas demarcadas para exploração, e continuará libertando no fim de cada um dos anos da prorrogação que lhe for concedida uma quota-parte correspondente da área restante.
+
+4.º O concessionário terá de depositar nos cofres do Estado, no prazo de 60 dias, a contar da data da publicação desta portaria, uma quantia de 250000$00 por quadrícula ou área equivalente, como caução, nos termos da alínea d) do artigo 19.º do Decreto de 20 de Setembro de 1906, quantia esta que pode ser substituída por garantia bancária, devidamente aceite, emitida por um banco português.
+
+a) Esta caução será reembolsada logo que o concessionário fizer prova de que despendeu na província, em trabalhos de pesquisa, quantia igual ou superior a essa caução.
+
+b) No caso de o concessionário não fazer prova de que despendeu quantia igual ou superior à caução, a diferença entre o valor da caução e a quantia gasta reverterá para o Estado.
+
+c) No fim do primeiro ano do período inicial de pesquisas e no fim de cada um dos anos da prorrogação que lhe seja concedida pode o concessionário requerer o reembolso da quota-parte da caução, desde que possa provar que despendeu na província, em trabalhos de pesquisa, quantia igual ou superior a essa quota-parte, podendo mesmo requerer o reembolso total da caução se demonstrar ter despendido quantia igual ou superior a esse valor.
+
+d) O estipulado nas alíneas anteriores aplicar-se-á igualmente na hipótese de ter sido aceite garantia bancária.
+
+5.º Todos os trabalhos de pesquisa devem ser programados anualmente, devendo o respectivo programa ser subscrito por técnico qualificado, que velará pela sua execução.
+
+6.º O concessionário obrigar-se-á:
+
+a) Dentro de 60 dias, a contar da data da publicação desta portaria no Boletim Oficial, a apresentar nos serviços de geologia e minas de Angola o programa de prospecção e pesquisa relativo ao primeiro ano de operações e, dentro de 60 dias, após o termo de validade de cada programa de pesquisas, a apresentar nos mesmos serviços o programa para o ano seguinte;
+
+b) A despender com a realização dos dois primeiros programas de pesquisas a quantia de 700$00 por quilómetro quadrado da área concedida, sem o que não poderá ser prorrogada a licença;
+
+c) A dar início ao programa de pesquisas relativo ao primeiro ano de operações dentro de três meses, a contar da data em que os serviços aprovem esse programa;
+
+d) A enviar, semestralmente, e dentro de três meses a contar do termo de cada semestre, aos serviços de geologia e minas de Angola, um relatório pormenorizado das operações realizadas durante o semestre antecedente e dos resultados obtidos nas mencionadas operações, indicando-se todos os elementos técnicos que permitam avaliar a importância dos trabalhos realizados;
+
+e) A manter na província de Angola os elementos de contabilidade necessários para provar as despesas e gastos que tenham sido realizados.
+
+7.º No caso de ser concedida uma prorrogação do prazo do exclusivo, terá o concessionário de depositar, como caução, nos termos e condições expressos no n.º 4.º, a quantia de 250000$00 por quadrícula ou área equivalente, quantia que pode ser substituída por garantia bancária, devidamente aceite, emitida por um banco português.
+
+8.º As autoridades portuguesas competentes poderão, em qualquer momento, inspeccionar as actividades do concessionário dentro ou fora da área de concessão.
+
+9.º Assim que for descoberto um jazigo econòmicamente explorável, o concessionário requererá a demarcação da área respectiva, e só depois de efectuada esta poderá iniciar a exploração, de acordo com a legislação em vigor e as disposições legais que no futuro venham a vigorar.
+
+10.º As pedras preciosas porventura encontradas durante as pesquisas serão depositadas à ordem do Governo-Geral de Angola, ficando a constituir propriedade deste, se não for dada a concessão de exploração dos respectivos jazigos, e entrando no regime ou condições de exploração, se esta for concedida.
+
+11.º O concessionário fica, em tudo que não esteja previsto na presente portaria, especialmente no que respeita a pesquisa, demarcação, concessionamento, exploração, tributação e comercialização de pedras preciosas, sujeito às prescrições da lei geral, e particularmente do Decreto de 20 de Setembro de 1906, e às disposições legais que no futuro venham a vigorar, ainda que alterem as disposições actuais.
+
+12.º Esta portaria entra em vigor na data em que for publicada no Boletim Oficial de Angola.
+
+Ministério do Ultramar, 13 de Novembro de 1964. - Pelo Ministro do Ultramar, Mário Ângelo Morais de Oliveira, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Angola. - M. de Oliveira.

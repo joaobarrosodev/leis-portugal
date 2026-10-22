@@ -1,0 +1,324 @@
+---
+schema_version: '1.0'
+id: pt:dre:353350:por
+title: Decreto-Lei n.º 284/99
+short_title: null
+summary: Estabelece o regime aplicável aos centros hospitalares e grupos de hospitais do Serviço Nacional de Saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 284/99
+official_date: null
+publication_date: '1999-07-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/1999, Série I-A de 1999-07-26
+  number: '172'
+  series: I
+  supplement: null
+  pages: 4683 - 4687
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/07/172a00/46834687.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/284/1999/07/26/p/dre/pt/html
+  oj: null
+  dre: '353350'
+  dre_path: /dr/detalhe/decreto-lei/284-1999-353350
+  internal: pt:dre:353350:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1999-353350
+  metadata_url: https://data.dre.pt/eli/dec-lei/284/1999/07/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1999-353350
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-08-23T00:00:00Z'
+integrity:
+  source_sha256: 840f61a1d5ae7f6504bb713abc761cbe56d19bbd64101551c50c812e304960e1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-284-353350.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Hospitalar
+- Conselho de Direção
+- Conselho Técnico
+- Coordenador
+- Definição de Competências
+- Direcção Técnica
+- Política de Saúde
+- Serviço Nacional de Saúde
+- Gestão Hospitalar
+- Grupo de Hospitais
+- Pessoa Colectiva de Direito Público
+- Cuidados Médicos
+- Regime de Pessoal
+- Regime Jurídico
+- Estabelecimento Hospitalar
+relationships:
+- type: amended_by
+  target: pt:dre:516015:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/135/1996/08/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/135/1996/08/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+article_structure:
+  article_count: 23
+  section_count: 7
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 284/99
+
+de 26 de Julho
+
+No âmbito da definição de objectivos e estratégias de saúde de base populacional, centrada em unidades funcionais que permitam a efectiva interligação entre serviços e instituições que, na mesma área geográfica, prestam cuidados de saúde ou desenvolvem actividades conexas, designadamente do sector social, torna-se prioritária a identificação de situações em que é possível reforçar a articulação e complementaridade dos estabelecimentos hospitalares do Serviço Nacional de Saúde, através de melhor aproveitamento da capacidade neles instalada.
+
+Na verdade, considera o Governo que o papel desempenhado pelo Serviço Nacional de Saúde ao nível da prestação dos cuidados de saúde diferenciados ficará reforçado se alguns hospitais, em função da sua localização geográfica, respectivas valências e diferenciação tecnológica, forem reestruturados através da sua integração em centros hospitalares, ou formarem grupos sujeitos a coordenação comum, o que, decerto, permitirá maior rendibilidade e eficiência na prestação dos cuidados de saúde de que os cidadãos necessitam.
+
+Nestes termos, o presente diploma estabelece o regime enquadrador da criação e funcionamento de centros hospitalares, compostos por vários estabelecimentos, e de grupos de hospitais.
+
+Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma aplica-se aos centros hospitalares e aos grupos de hospitais do Serviço Nacional de Saúde.
+
+###### Artigo 2.º — Definição
+
+1 - Um centro hospitalar é uma pessoa colectiva pública, dotada de autonomia administrativa e financeira, património próprio e do esquema de órgãos legalmente estabelecido para os hospitais públicos, que integra vários estabelecimentos hospitalares destituídos de personalidade jurídica.
+
+2 - Um grupo de hospitais é composto por vários estabelecimentos hospitalares autónomos, nos termos da legislação aplicável, mas sujeitos a coordenação ou administração comum.
+
+###### Artigo 3.º — Criação
+
+1 - A criação de centros hospitalares e de grupos de hospitais faz-se por portaria do Ministro da Saúde, sob proposta do conselho de administração da administração regional de saúde territorialmente competente.
+
+2 - A proposta a que se refere o número anterior deve ser devidamente fundamentada em razões de interesse público, designadamente a optimização dos serviços prestados por dois ou mais estabelecimentos hospitalares e o reforço da respectiva articulação e complementaridade, técnica ou assistencial.
+
+###### Artigo 4.º — Legislação aplicável
+
+Sem prejuízo do disposto no presente diploma, os centros hospitalares e os grupos de hospitais regem-se pela legislação aplicável aos estabelecimentos hospitalares do Serviço Nacional de Saúde.
+
+### CAPÍTULO II — Centros hospitalares
+
+###### Artigo 5.º — Órgãos
+
+O esquema de órgãos de cada centro hospitalar, respectivas competências e regime aplicável são os legalmente estabelecidos para os hospitais públicos.
+
+###### Artigo 6.º — Pessoal
+
+O centro hospitalar dispõe de um quadro único de pessoal, aprovado por portaria conjunta dos Ministros das Finanças e da Saúde e do membro do Governo responsável pela Administração Pública.
+
+###### Artigo 7.º — Regulamento
+
+O regulamento interno de cada centro hospitalar é aprovado por portaria do Ministro da Saúde.
+
+###### Artigo 8.º — Transição
+
+1 - Os centros hospitalares sucedem, independentemente de quaisquer formalidades, na universalidade dos direitos e obrigações de que forem titulares os hospitais que neles sejam integrados, constituindo o diploma previsto no artigo 3.º título bastante, para todos os efeitos legais.
+
+2 - As comissões de serviço dos membros dos conselhos de administração dos hospitais que sejam integrados em centros hospitalares cessam à data de entrada em vigor da portaria prevista no artigo anterior, mantendo-se, todavia, em exercício de funções até à nomeação dos novos membros do conselho de administração do centro hospitalar.
+
+3 - O pessoal dos quadros dos hospitais integrados no centro hospitalar transita, na mesma carreira, categoria e escalão, para o quadro de pessoal previsto no artigo 6.º, nos termos da lei.
+
+4 - Os concursos de pessoal bem como os contratos administrativos de provimento e a termo certo relativos aos hospitais integrados no centro hospitalar mantêm a respectiva validade e eficácia após a entrada em vigor do diploma previsto no n.º 1 do artigo 3.º
+
+### CAPÍTULO III — Grupos de hospitais
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 9.º — Regime
+
+1 - Os hospitais que, nos termos do presente diploma, sejam integrados num grupo mantêm a sua natureza de pessoas colectivas públicas, dotadas de autonomia administrativa e financeira e património próprio, bem como os respectivos quadros de pessoal.
+
+2 - O grupo de hospitais pode ficar sujeito a coordenação comum, mantendo os hospitais nele integrados os respectivos órgãos de administração e de direcção técnica, ou ser dotado de um único esquema de órgãos, nos termos legalmente estabelecidos para os hospitais públicos.
+
+3 - A portaria prevista no n.º 1 do artigo 3.º pode consignar receitas ao grupo, nomeadamente dotações orçamentais ou percentagens das importâncias cobradas por serviços prestados pelos hospitais nele integrados.
+
+###### Artigo 10.º — Regulamento interno
+
+O regulamento interno do grupo de hospitais é aprovado por portaria do Ministro da Saúde.
+
+###### Artigo 11.º — Estruturas organizativas comuns
+
+1 - O grupo de hospitais pode dispor de estruturas organizativas comuns, a prever no respectivo regulamento interno.
+
+2 - Os encargos com o funcionamento das estruturas referidas no número anterior são suportados, proporcionalmente, pelos orçamentos dos hospitais que integram o grupo.
+
+#### SECÇÃO II — Grupo de hospitais sob coordenação comum
+
+###### Artigo 12.º — Órgãos
+
+São órgãos do grupo de hospitais sob coordenação comum:
+
+a) O coordenador;
+
+b) O conselho de direcção;
+
+c) O conselho técnico.
+
+###### Artigo 13.º — Coordenador
+
+1 - O coordenador do grupo de hospitais é nomeado, em comissão de serviço, por um período de três anos, por despacho do Ministro da Saúde, sob proposta do conselho de administração da administração regional de saúde, ouvidos os directores dos hospitais integrados no grupo, de entre licenciados de reconhecido mérito, vinculados ou não à Administração Pública, que possuam experiência profissional e perfil adequados.
+
+2 - O estatuto remuneratório do coordenador é definido por despacho conjunto dos Ministros das Finanças e da Saúde.
+
+###### Artigo 14.º — Competências
+
+1 - Ao coordenador compete coordenar as actividades do grupo, assegurando e promovendo a complementaridade e as interdependências técnica e assistencial entre os respectivos hospitais, e, em especial:
+
+a) Submeter à aprovação da administração regional de saúde o plano de estratégia comum definido pelo conselho de direcção, acompanhar a sua execução e avaliar o respectivo nível de execução;
+
+b) Analisar os planos de actividades e relatórios de actividades dos hospitais do grupo, bem como projectos ou planos de acção e de investimentos, promover a sua articulação e avaliar os respectivos resultados;
+
+c) Propor as medidas consideradas necessárias ao funcionamento integrado dos hospitais do grupo, bem como à melhoria das condições de trabalho e aperfeiçoamento profissional do respectivo pessoal;
+
+d) Propor as medidas consideradas necessárias à melhoria da prestação de cuidados de saúde no âmbito do respectivo sistema local de saúde ou unidade funcional de saúde;
+
+e) Promover a articulação e cooperação com os centros de saúde e outros serviços de saúde, públicos ou privados, e instituições com actividades relacionadas com a saúde ou que nela tenham impacte;
+
+f) Promover a articulação com instituições de ensino, formação e investigação;
+
+g) Promover a participação dos cidadãos e da comunidade, tendo em vista o aperfeiçoamento da gestão e da prestação de cuidados de saúde pelos hospitais do grupo;
+
+h) Dar parecer sobre as propostas de nomeação dos membros dos conselhos de administração dos hospitais integrados no grupo;
+
+i) Decidir, ouvidos os interessados, sobre a mobilidade, nos termos legalmente previstos, do pessoal dos quadros dos hospitais do grupo, sempre que se verifique desacordo entre as respectivas administrações;
+
+j) Submeter à aprovação do conselho de administração da administração regional de saúde os planos de acção e relatórios de actividades do grupo;
+
+l) Representar o grupo e estabelecer com outras entidades, públicas e privadas, acordos de colaboração, ouvido o conselho técnico.
+
+2 - Para efeitos da realização de despesas por conta das receitas previstas no n.º 3 do artigo 9.º, o coordenador detém as competências legalmente atribuídas aos directores-gerais da Administração Pública.
+
+3 - O coordenador do grupo detém ainda as competências que lhe forem delegadas ou subdelegadas pelo conselho de administração da administração regional de saúde.
+
+###### Artigo 15.º — Conselho de direcção
+
+1 - O conselho de direcção é presidido pelo coordenador do grupo e composto pelos directores e administradores-delegados dos hospitais nele integrados.
+
+2 - Compete ao conselho de direcção:
+
+a) Definir a estratégia comum para os hospitais do grupo, com vista à rentabilização máxima dos recursos disponíveis;
+
+b) Incrementar a efectiva articulação e complementaridade das actividades desenvolvidas pelos hospitais do grupo, com vista à rentabilização dos recursos existentes, designadamente através da mobilidade de recursos humanos;
+
+c) Propor, relativamente a cada hospital do grupo, a criação, extinção ou alteração de serviços, departamentos e centros de responsabilidade, bem como a criação de serviços comuns aos vários hospitais, nas áreas assistencial e de apoio geral;
+
+d) Elaborar os planos de acção e relatórios de actividades do grupo;
+
+e) Elaborar o regulamento interno do grupo.
+
+3 - De acordo com a natureza das matérias a tratar, podem ser convidados a participar nas reuniões do conselho de direcção, sem direito a voto, especialistas.
+
+4 - As regras de funcionamento do conselho de direcção são fixadas no respectivo regulamento interno, por ele elaborado e aprovado pelo conselho de administração da administração regional de saúde.
+
+###### Artigo 16.º — Conselho técnico
+
+1 - O conselho técnico é composto pelos directores clínicos e enfermeiros-directores de serviços de enfermagem dos hospitais integrados no grupo.
+
+2 - Compete ao conselho técnico:
+
+a) Estudar e propor as medidas que considerar necessárias ao funcionamento integrado dos hospitais do grupo, no sentido da melhoria da prestação de cuidados;
+
+b) Propor as medidas consideradas necessárias à melhoria das condições de trabalho e aperfeiçoamento profissional do pessoal dos hospitais do grupo;
+
+c) Efectuar periodicamente a análise da execução da estratégia comum e propor as medidas correctivas que considerar necessárias;
+
+d) Emitir parecer sobre os assuntos que lhe sejam submetidos pelo coordenador do grupo ou pelo conselho de direcção.
+
+3 - As regras de funcionamento do conselho técnico são fixadas no respectivo regulamento interno, por ele elaborado e aprovado pelo conselho de administração da administração regional de saúde.
+
+###### Artigo 17.º — Apoio técnico e administrativo
+
+1 - O apoio técnico e administrativo aos órgãos do grupo é prestado pelos serviços dos hospitais nele integrados.
+
+2 - Para assegurar o acompanhamento das actividades do grupo, o coordenador pode criar unidades funcionais, constituídas por pessoal dos hospitais nele integrados, bem como determinar a constituição de grupos de trabalho para o estudo de problemas específicos.
+
+#### SECÇÃO III — Grupo de hospitais sob administração comum
+
+###### Artigo 18.º
+
+1 - O grupo de hospitais sob administração comum dispõe de um único conselho de administração, composto pelo director, que preside, pelo administrador-delegado, pelo director clínico e pelo enfermeiro-director de serviços de enfermagem, sem prejuízo do disposto no n.º 2 do artigo 3.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro.
+
+2 - Cada hospital integrado no grupo pode dispor de um conselho directivo, a prever no regulamento interno referido no artigo 10.º, composto por um adjunto do director clínico, um adjunto do enfermeiro-director de serviços de enfermagem e por um administrador hospitalar designado pelo conselho de administração do grupo.
+
+###### Artigo 19.º — Órgãos de direcção técnica
+
+Para efeitos de nomeação do director clínico e do enfermeiro-director de serviços de enfermagem do grupo, os colégios eleitorais previstos no n.º 3 do artigo 2.º e no n.º 3 do artigo 3.º do [Decreto-Lei n.º 135/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1996-405373), de 13 de Agosto, abrangem os diversos hospitais nele integrados.
+
+###### Artigo 20.º — Transição
+
+As comissões de serviço dos membros dos conselhos de administração dos hospitais integrados cessam à data de entrada em vigor da portaria prevista no artigo 3.º, mantendo-se, todavia, em exercício de funções até à nomeação dos novos membros do conselho de administração do grupo.
+
+### CAPÍTULO IV — Disposições finais
+
+###### Artigo 21.º — Participação
+
+A proposta de criação de centros hospitalares a que se refere o n.º 1 do artigo 3.º deve ser precedida de audição das organizações representativas dos profissionais de saúde.
+
+###### Artigo 22.º — Revogação
+
+São revogados os artigos 8.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, e 36.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro.
+
+###### Artigo 23.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 6 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.
+
+**Promulgado em 8 de Julho de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 14 de Julho de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

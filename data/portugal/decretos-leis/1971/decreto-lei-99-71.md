@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:445755:por
+title: Decreto-Lei n.º 99/71
+short_title: null
+summary: Determina que seja dotada a Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais
+  da Construção Civil do pessoal necessário ao exercício das funções atribuídas pelo Decreto-Lei n.º 582/70, que regulamentou
+  a actividade da indústria de construção civil nas obras particulares
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas - Gabinete do Ministro
+proposing_entity: null
+official_number: 99/71
+official_date: null
+publication_date: '1971-03-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 70/1971, Série I de 1971-03-24
+  number: '70'
+  series: I
+  supplement: null
+  pages: 379 - 379
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/03/07000/03790379.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '445755'
+  dre_path: /dr/detalhe/decreto-lei/99-1971-445755
+  internal: pt:dre:445755:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1971-445755
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1971-445755
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-12-26T00:00:00Z'
+integrity:
+  source_sha256: 45b9d56163c6f6c7626d6e8921058f64a74d9fb6563a7417ec8d6aed1a8f65a3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-99-445755.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:568107:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 99/71
+
+de 24 de Março
+
+Tornando-se indispensável dotar a Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil do pessoal necessário ao exercício das funções atribuídas pelo [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734), de 24 de Novembro, que regulamentou a actividade da indústria de construção civil nas obras particulares;
+
+Considerando que, nos termos do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, a secretaria da Comissão funciona no Conselho Superior de Obras Públicas e está pràticamente guarnecida apenas com pessoal contratado além do quadro, cujo concurso convém assegurar definitivamente;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. O secretário da Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil, a que se refere o [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734), de 24 de Novembro, será livremente escolhido pelo Ministro das Obras Públicas entre licenciados em Direito, em Ciências Económicas e Financeiras, em Economia ou em Finanças.
+
+2. Ao lugar de secretário da Comissão corresponderá a categoria da letra F do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+
+###### Art. 2.º São acrescentados ao quadro do Conselho Superior de Obras Públicas os lugares constantes do mapa anexo ao presente diploma, que baixa assinado pelo Ministro das Obras Públicas.
+
+###### Art. 3.º - 1. O primeiro provimento dos lugares referidos no artigo anterior poderá ser feito:
+
+a) De entre funcionários vitalícios e contratados do quadro do Conselho Superior de Obras Públicas;
+
+b) De entre pessoal que à data da entrada em vigor deste diploma, e há mais de três anos, se encontre em serviço fora do quadro do mesmo Conselho, com boa informação, em regime de contrato.
+
+2. O provimento previsto no número anterior resultará de lista aprovada pelo Ministro das Obras Públicas e publicada no Diário do Governo donde conste o lugar em que cada funcionário fica provido.
+
+3. Na elaboração da lista levar-se-ão em conta as habilitações e a antiguidade dos interessados, que serão providos com dispensa de concurso e do limite de idade máximo para a admissão em lugares de acesso.
+
+4. A colocação do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
+
+###### Art. 4.º - 1. Os encargos resultantes do presente diploma terão compensação nas disponibilidades existentes na dotação consignada no orçamento do Ministério das Obras Públicas em execução ao pagamento das despesas com pessoal contratado não pertencente aos quadros do Conselho Superior de Obras Públicas.
+
+2. Enquanto não se concretizarem as necessárias providências de carácter orçamental, poderão ser utilizadas as disponibilidades das dotações do referido orçamento consignadas ao pagamento das despesas com o pessoal do Conselho Superior de Obras Públicas.
+
+###### Art. 5.º Este diploma entra em vigor no dia 1 de Abril de 1971.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
+
+**Promulgado em 10 de Março de 1971.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Mapa a que se refere o artigo 2.º do Decreto-Lei n.º 99/71
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1971/03/07000/03790379.pdf))](https://files.diariodarepublica.pt/1s/1971/03/07000/03790379.pdf)
+
+**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**

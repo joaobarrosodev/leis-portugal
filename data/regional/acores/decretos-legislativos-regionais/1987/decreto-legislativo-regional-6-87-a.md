@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:421673:por
+title: Decreto Legislativo Regional n.º 6/87/A
+short_title: null
+summary: Estabelece o regime jurídico de exploração de embarcações em actividades marítimo-turísticas
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 6/87/A
+official_date: null
+publication_date: '1987-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/1987, Série I de 1987-05-29
+  number: '123'
+  series: I
+  supplement: null
+  pages: 2145 - 2146
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/05/12300/21452146.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421673'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/6-1987-421673
+  internal: pt:dre:421673:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1987-421673
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1987-421673
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-03-24T00:00:00Z'
+integrity:
+  source_sha256: bf6f2e5e4ff69f6e1878c7c440890149c1201fa05be4df39c816520b32c529e7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1987/DRE-1987-6-421673.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:523832:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 6/87/A
+
+Exploração de actividades marítimo-turísticas
+
+A exploração da actividade de recreio náutico, nomeadamente o yachting e a pesca desportiva, assumem na Região Autónoma dos Açores a maior importância para o aproveitamento e valorização dos seus recursos, numa perspectiva de desenvolvimento turístico.
+
+No domínio da exploração de embarcações em actividades marítimo-turísticas, o quadro legal em vigor mostra-se inadequado à realidade regional.
+
+No âmbito da Região Autónoma dos Açores, mais premente se afigura a criação de um regime jurídico da exploração de embarcações em actividades marítimo-turísticas que, pela sua adequação aos especiais condicionalismos regionais, permita finalmente estimular o aparecimento de iniciativas, numa área da maior relevância na animação turística regional.
+
+Nestes termos:
+
+A Assembleia Regional dos Açores decreta, ao abrigo da alínea a) do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º O presente diploma estabelece o regime jurídico da exploração de embarcações em actividades marítimo-turísticas na Região Autónoma dos Açores.
+
+###### Art. 2.º Para efeitos do disposto no presente diploma, consideram-se actividades marítimo-turísticas as actividades de aprazimento, desportivas, culturais e de ensino desenvolvidas por meio de embarcações exploradas com fins lucrativos ou de promoção turística.
+
+###### Art. 3.º A exploração de embarcações em actividades marítimo-turísticas é limitada a pessoas singulares ou colectivas nacionais e estrangeiras residentes que se encontrem inscritas nas repartições marítimas competentes.
+
+###### Art. 4.º - 1 - O exercício da actividade prevista neste diploma pode desenvolver-se quer sob a forma de prestação directa de serviços, quer sob a forma de aluguer de embarcações.
+
+2 - É proibido o subaluguer das embarcações destinadas ao exercício da actividade prevista neste diploma.
+
+###### Art. 5.º - 1 - O exercício da actividade a que se refere o artigo 3.º será autorizado pelo Secretário Regional dos Transportes e Turismo sempre que qualquer pessoa pretenda registar a seu favor, num mínimo, uma embarcação com, pelo menos, 5 tAB ou três embarcações cada uma com um mínimo de 2 tAB.
+
+2 - Se apenas se pretender registar embarcações de tonelagem inferior à referida no número anterior, o exercício da actividade será autorizado pelas repartições marítimas com competência na área onde venha a situar-se o respectivo exercício.
+
+###### Art. 6.º - 1 - O requerimento das pessoas interessadas solicitando a respectiva autorização ao Secretário Regional dos Transportes e Turismo deve ser enviado à Direcção Regional de Turismo (DRT), directamente ou através dos serviços dela dependentes, a qual informará sobre ele após prévio parecer das capitanias ou delegações marítimas da zona ou zonas onde se pretende desenvolver a actividade.
+
+2 - A DRT promoverá posteriormente o envio dos respectivos processos à Inspecção-Geral de Navios para decisão quanto às embarcações e equipamentos a utilizar pelas pessoas interessadas.
+
+3 - O pedido de autorização tem de ser acompanhado dos seguintes elementos:
+
+a) Identificação completa do requerente;
+
+b) Cópia da escritura da constituição da sociedade, ou respectiva minuta no caso de se tratar de uma sociedade a constituir;
+
+c) Número, tipos e características técnicas das embarcações a utilizar no aluguer;
+
+d) Esboço cotado em escala de 1:25 das siglas a inscrever nas embarcações;
+
+e) Certificados dos registos criminal e comercial referentes ao indivíduo ou indivíduos que tenham a seu cargo a administração da empresa.
+
+###### Art. 7.º Obtida a competente autorização para o exercício da actividade, as pessoas interessadas efectuarão a sua inscrição nas repartições marítimas em cuja área venha a situar-se o respectivo exercício.
+
+###### Art. 8.º Depois de competentemente autorizadas e de efectuada a necessária inscrição, só poderão exercer a presente actividade, ressalvados os casos previstos no artigo 9.º, as pessoas que:
+
+a) Tendo apenas registado a seu favor embarcações até 2 tAB, inclusive, sejam proprietárias de, pelo menos, seis embarcações, sendo uma delas obrigatoriamente equipada com motor e destinada a apoio;
+
+b) Tendo registado a seu favor embarcações com mais de 2 tAB, sejam proprietárias de, pelo menos, uma embarcação com um mínimo de 5 tAB ou de três embarcações cada uma com um mínimo de 2 tAB.
+
+###### Art. 9.º - 1 - Quando em determinada área do arquipélago dos Açores não exista qualquer exploração de embarcações em actividades marítimo-turísticas, a Secretaria Regional dos Transportes e Turismo, sob parecer das repartições marítimas competentes, poderá autorizar o exercício de tais actividades com dispensa do cumprimento das disposições que, no presente diploma e demais legislação aplicável, se referem especificamente quer à inscrição, quer ao registo das embarcações.
+
+2 - O regime previsto no número anterior é extensivo aos casos em que, havendo embora pessoas autorizadas ao exercício da actividade, as embarcações e equipamentos utilizados não estejam especialmente vocacionados para satisfazer a procura de determinadas modalidades náuticas desportivas consideradas relevantes do ponto de vista turístico.
+
+3 - As autorizações a conceder ao abrigo dos números anteriores serão válidas por um período máximo de quatro meses e não poderão ser renovadas no mesmo ano.
+
+###### Art. 10.º As embarcações a utilizar em actividades marítimo-turísticas só poderão ser governadas, sempre que o exija a legislação em vigor relativa a marítimos ou a desportistas náuticos, por pessoas nacionais devidamente encartadas ou por estrangeiros que exibam documento comprovativo de valor equivalente, emitido pela entidade competente do seu país.
+
+###### Art. 11.º - 1 - Para o exercício da presente actividade as pessoas interessadas ficam obrigadas ao seguro quer das embarcações quer das pessoas embarcadas.
+
+2 - As pessoas interessadas ficam ainda obrigadas a comunicar à DRT os sistemas tarifários e condições a praticar, com a antecedência mínima de dois meses em relação ao início da actividade em cada ano, a qual, por sua vez, as dará a conhecer, em tempo oportuno, às repartições marítimas competentes.
+
+###### Art. 12.º - 1 - As pessoas autorizadas ao exercício da actividade organizarão e manterão actualizado um registo pormenorizado de todo o seu movimento, que será facultado para consulta às entidades oficiais que o solicitem.
+
+2 - Sem prejuízo do disposto no número anterior, as pessoas autorizadas enviarão mensalmente à DRT informação quantitativa do movimento das pessoas utilizadoras dos seus serviços, indicando as respectivas nacionalidades e o tipo de serviço prestado.
+
+3 - As informações previstas no número anterior são confidenciais, só podendo ser utilizadas para fins estatísticos.
+
+###### Art. 13.º Nos casos omissos ou insuficientemente regulados, nomeadamente em matéria de inscrição das pessoas interessadas, registo, aquisição e alienação das embarcações, regulará, em tudo quanto não seja incompatível com o disposto no presente diploma, o [Decreto-Lei n.º 79/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1978-425560), de 4 de Agosto, e demais legislação aplicável.
+
+###### Art. 14.º O exercício da actividade prevista neste diploma sem a competente autorização constitui contra-ordenação punível com coima de 10000$00 a 100000$00, dependendo do valor da embarcação ou embarcações indevidamente utilizadas.
+
+Aprovado pela Assembleia Regional dos Açores, na Horta, em 10 de Abril de 1987.
+
+**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+
+**Assinado em Angra do Heroísmo em 11 de Maio de 1987.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**

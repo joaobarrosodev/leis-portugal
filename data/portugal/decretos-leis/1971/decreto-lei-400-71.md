@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:632678:por
+title: Decreto-Lei n.º 400/71
+short_title: null
+summary: Cria seis novas escolas do magistério primário, que funcionarão nos termos do Decreto-Lei n.º 32243 e legislação
+  complementar
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação Nacional - Direcção-Geral do Ensino Primário
+proposing_entity: null
+official_number: 400/71
+official_date: null
+publication_date: '1971-09-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 224/1971, Série I de 1971-09-22
+  number: '224'
+  series: I
+  supplement: null
+  pages: 1354 - 1354
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/09/22400/13541354.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '632678'
+  dre_path: /dr/detalhe/decreto-lei/400-1971-632678
+  internal: pt:dre:632678:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1971-632678
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1971-632678
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-12-31T00:00:00Z'
+integrity:
+  source_sha256: aa511f8d93b14ee1ceb75058e1f2002d20fd5dd19585c695c73a4c609d91cf57
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-400-632678.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:354563:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 400/71
+
+de 22 de Setembro
+
+A criação de novas escolas do magistério primário tem vindo a fazer-se à medida que as necessidades do ensino primário o vão exigindo.
+
+Assim, após a reabertura determinada pelo [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, das Escolas de Lisboa, Porto, Coimbra e Braga, cujo funcionamento se suspendera pelo artigo 7.º do [Decreto-Lei n.º 27279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27279-1936-322921), de 24 de Novembro de 1936, foram sendo sucessivamente publicados os Decretos-Lei n.os 33019, de 1 de Setembro de 1943, 35070, de 26 de Outubro de 1945, 35227, de 7 de Dezembro de 1945, 36839, de 19 de Abril de 1948, 41978, de 27 de Novembro de 1958, e 42452, de 17 de Agosto de 1959, com base nos quais se criaram as Escolas do Magistério Primário do Funchal, Ponta Delgada, Évora, Viseu, Faro, Guarda, Bragança, Vila Real, Horta, Angra do Heroísmo, Leiria e Portalegre.
+
+A crescente expansão do ensino primário, com a escolaridade ampliada de quatro para seis classes pelo [Decreto-Lei n.º 45810](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45810-1964-578769), de 9 de Julho de 1964, aconselha a criação de novos centros de formação de pessoal docente, quer por se impor o descongestionamento de escolas superlotadas, quer para facilitar a maior número de candidatos a carreira de professorado primário.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. São criadas seis novas escolas do magistério primário, que funcionarão nos termos do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, e legislação complementar.
+
+2. O local e o início de funcionamento de cada escola serão fixados por despacho do Ministro da Educação Nacional.
+
+###### Art. 2.º - 1. Os quadros do pessoal administrativo e do pessoal auxiliar de cada uma das escolas criadas pelo artigo 1.º serão fixados e poderão ser remodelados pela forma prescrita no artigo 25.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960.
+
+2. O pessoal administrativo e o pessoal auxiliar que há pelo menos cinco anos exerça funções em escolas particulares do magistério primário ingressará nos quadros das novas escolas oficiais das mesmas localidades, se o requerer no prazo de quinze dias após a publicação do despacho a que se refere o n.º 2 do artigo 1.º e satisfizer às exigências legais estabelecidas para o provimento, com excepção das do artigo 4.º do [Decreto n.º 16563](https://diariodarepublica.pt/dr/detalhe/decreto/16563-1929-358735), de 5 de Março de 1929, das dos artigos 6.º e 7.º do [Decreto-Lei n.º 45249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45249-1963-686233), de 16 de Setembro de 1963, e das dos artigos 25.º, 27.º e 28.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+
+Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
+
+**Promulgado em 13 de Setembro de 1971.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

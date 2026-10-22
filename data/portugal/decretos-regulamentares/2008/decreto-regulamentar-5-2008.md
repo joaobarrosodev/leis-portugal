@@ -1,0 +1,255 @@
+---
+schema_version: '1.0'
+id: pt:dre:248231:por
+title: Decreto Regulamentar n.º 5/2008
+short_title: null
+summary: Regulamenta o artigo 5.º e o n.º 2 do artigo 16.º da Lei n.º 32/2006, de 26 de Julho, que regula a utilização de
+  técnicas de procriação medicamente assistida
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 5/2008
+official_date: null
+publication_date: '2008-02-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/2008, Série I de 2008-02-11
+  number: '29'
+  series: I
+  supplement: null
+  pages: 958 - 960
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/02/02900/0095800960.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/5/2008/02/11/p/dre/pt/html
+  oj: null
+  dre: '248231'
+  dre_path: /dr/detalhe/decreto-regulamentar/5-2008-248231
+  internal: pt:dre:248231:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2008-248231
+  metadata_url: https://data.dre.pt/eli/decregul/5/2008/02/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2008-248231
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2016-12-29T00:00:00Z'
+integrity:
+  source_sha256: 4142ea4e7f1bd77cbe463814d4e43ccfdf284a099e952064f5946625fc2a65c8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-5-248231.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Financiamento
+- Conservação de Documentos
+- Definição de Competências
+- Administração Regional de Saúde
+- Fiscalização
+- Inspecção Geral das Actividades em Saúde
+- Licenciamento
+- Procriação Medicamente Assistida
+- Conselho Nacional de Procriação Medicamente Assistida
+- Confidencialidade
+- Setor Privado
+- Setor Público
+relationships:
+- type: amended_by
+  target: pt:dre:105643546:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/32/2006/07/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/32/2006/07/26/p/dre
+article_structure:
+  article_count: 15
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 5/2008
+
+de 11 de Fevereiro
+
+A Constituição da República Portuguesa determina, na alínea e) do n.º 2 do artigo 67.º, que incumbe ao Estado regulamentar a procriação medicamente assistida, em termos que salvaguardem a dignidade da pessoa humana.
+
+A Assembleia da República, como concretização da referida obrigação, aprovou a [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho, que regula a utilização de técnicas de procriação medicamente assistida.
+
+Nos termos do artigo 48.º da mencionada lei, cabe ao Governo proceder à respectiva regulamentação.
+
+Foram ouvidas a Comissão Nacional de Protecção de Dados e o Conselho Nacional de Procriação Medicamente Assistida.
+
+Foram ouvidos, a título facultativo, a Ordem dos Médicos, a Ordem dos Farmacêuticos, a Ordem dos Biólogos e a Associação Nacional de Bioquímicos.
+
+Assim:
+
+Ao abrigo do disposto no artigo 48.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto regulamentar regulamenta o artigo 5.º e o n.º 2 do artigo 16.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho, que regula a utilização de técnicas de procriação medicamente assistida, adiante abreviadamente designada por PMA.
+
+### Capítulo II — Centros autorizados e pessoas qualificadas
+
+###### Artigo 2.º — Centro autorizado
+
+1 - Centro autorizado a ministrar técnicas de PMA é o conjunto dos meios humanos, materiais e organizativos que permitem realizar a PMA, autorizado nos termos do disposto no artigo 5.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho.
+
+2 - Os centros podem ser públicos ou privados e devem ser expressamente autorizados para o efeito pelo membro do Governo responsável pela área da saúde, depois de ouvido o Conselho Nacional de Procriação Medicamente Assistida (CNPMA), nos termos previstos na alínea d) do n.º 2 do artigo 30.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho.
+
+###### Artigo 3.º — Pedido de autorização
+
+1 - O pedido de autorização de um centro para ministrar técnicas de PMA é efectuado mediante a apresentação de requerimento, preferencialmente por via electrónica, dirigido ao membro do Governo responsável pela área da saúde e entregue na administração regional de saúde territorialmente competente em função da localização do centro.
+
+2 - Do requerimento devem constar:
+
+a) Os elementos de identificação do requerente, designadamente os números de identificação civil, de contribuinte e residência, no caso de se tratar de pessoa singular, e código de acesso à certidão permanente, no caso de se tratar de pessoa colectiva;
+
+b) Os elementos que comprovem a existência das equipas médicas e restante pessoal de saúde legalmente exigível;
+
+c) A localização do estabelecimento e a sua designação;
+
+d) A identificação do director do centro;
+
+e) A descrição dos meios humanos a disponibilizar;
+
+f) A descrição das instalações e equipamentos.
+
+3 - O requerimento deve ser acompanhado de certidão do registo comercial caso o requerente não possua a certidão permanente referida na alínea a) do número anterior.
+
+###### Artigo 4.º — Instrução
+
+Cabe à administração regional de saúde territorialmente competente a instrução do processo de autorização dos centros públicos ou privados que pretendam ministrar técnicas de PMA.
+
+###### Artigo 5.º — Equipas médicas
+
+1 - O director é o responsável pelo centro autorizado a ministrar técnicas de PMA, adiante designado centro de PMA.
+
+2 - O director do centro de PMA é um médico especialista em ginecologia/obstetrícia, em genética médica, em endocrinologia ou em urologia, reconhecido pela Ordem dos Médicos, com experiência mínima de três anos na área da PMA.
+
+3 - Os centros de PMA dispõem de, pelo menos, dois médicos especialistas em ginecologia/obstetrícia, podendo um deles ser o director.
+
+4 - A experiência do director do centro de PMA é comprovada através do currículo e aferida pelo CNPMA.
+
+###### Artigo 6.º — Restante pessoal de saúde
+
+Os centros de PMA dispõem de pessoal com experiência e competências compatíveis com a PMA, integrando, pelo menos, dois técnicos superiores com grau de licenciatura ou superior nas seguintes áreas: Medicina, Biologia, Bioquímica ou Farmácia.
+
+###### Artigo 7.º — Modo e critérios de avaliação
+
+1 - Os centros de PMA dispõem das instalações, dos equipamentos e cumprem as normas de funcionamento estabelecidas pelo CNPMA como condições de autorização.
+
+2 - Os critérios de avaliação dos centros de PMA são definidos pelo CNPMA, nos termos da alínea b) do n.º 2 do artigo 30.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho.
+
+3 - Os centros de PMA enviam ao CNPMA relatórios anuais de actividade que não podem conter dados pessoais que permitam de modo directo ou indirecto identificar qualquer das pessoas envolvidas.
+
+4 - Os relatórios anuais de actividade referidos no número anterior são elaborados de acordo com o modelo definido pelo CNPMA, nos termos da alínea m) do n.º 2 do artigo 30.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho.
+
+5 - Os centros de PMA são objecto de auditoria bienal, sem prejuízo de visitas intercalares.
+
+###### Artigo 8.º — Auditoria, inspecção e fiscalização
+
+1 - Em articulação com o CNPMA, a Inspecção-Geral das Actividades em Saúde realiza auditorias, inspecções e fiscalizações aos centros públicos e privados que ministrem técnicas de PMA.
+
+2 - A formação específica, inicial e permanente, dos auditores é da responsabilidade do CNPMA.
+
+3 - A Inspecção-Geral das Actividades em Saúde deve comunicar à administração regional de saúde territorialmente competente a instauração dos processos relativos aos centros públicos e privados que ministrem técnicas de PMA.
+
+###### Artigo 9.º — Revogação da autorização
+
+A autorização de funcionamento concedida ao centro de PMA pode ser revogada em situações de má prática resultantes da violação da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho, assim como da falta de condições técnicas e de segurança, definidas pelo CNPMA nos termos da alínea b) do n.º 2 do artigo 30.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho.
+
+### Capítulo III — Dados pessoais
+
+###### Artigo 10.º — Conservação
+
+1 - Os dados relativos à PMA são conservados nos centros de PMA por um período de 30 anos após o final da sua utilização clínica.
+
+2 - A informação centralizada no CNPMA acerca da aplicação das técnicas de PMA, nomeadamente o registo de dadores, beneficiários e crianças nascidas previsto na alínea p) do n.º 2 do artigo 30.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho, é mantida por um período de setenta e cinco anos.
+
+3 - Caso algum centro de PMA encerre a sua actividade antes de completar o período de tempo referido no n.º 1, o responsável pelo mesmo comunicará a situação, com uma antecedência de seis meses, ao membro do Governo responsável pela área da saúde, que determinará o destino a dar aos dados relativos à PMA, gâmetas e embriões criopreservados.
+
+4 - Nos casos previstos no número anterior, a entidade destinatária garante a protecção e segurança dos dados e da informação nas mesmas condições exigidas para o centro que cessou a actividade.
+
+###### Artigo 11.º — Níveis de acesso
+
+1 - Sem prejuízo do disposto no artigo 15.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho, apenas estão autorizados a aceder aos dados relativos à PMA, após o final da sua utilização clínica, o director do centro ou pessoal de saúde por este designado.
+
+2 - No âmbito das acções de fiscalização previstas no artigo 8.º, os auditores estão autorizados a aceder aos dados relativos à PMA.
+
+###### Artigo 12.º — Finalidade
+
+1 - O acesso aos dados relativos à PMA tem finalidade médica, designadamente profiláctica, de diagnóstico e terapêutica, sem prejuízo do disposto no artigo 15.º da [Lei n.º 32/2006](https://diariodarepublica.pt/dr/detalhe/lei/32-2006-539239), de 26 de Julho.
+
+2 - Para fins de investigação médica é proibido o acesso aos dados pessoais que permitam de modo directo ou indirecto identificar qualquer das pessoas envolvidas, salvo o consentimento expresso por escrito do próprio.
+
+###### Artigo 13.º — Eliminação
+
+Os dados pessoais relativos à PMA podem ser eliminados:
+
+a) Pelo decurso do prazo de conservação;
+
+b) Por decisão judicial;
+
+c) A requerimento do beneficiário que tenha revogado o consentimento até ao início dos processos terapêuticos de PMA;
+
+d) Nas demais situações legalmente previstas.
+
+### Capítulo IV — Financiamento
+
+###### Artigo 14.º — Centros públicos
+
+Os centros públicos autorizados são financiados através de contratualização com a Administração Central do Sistema de Saúde, I. P.
+
+###### Artigo 15.º — Centros privados
+
+O Ministério da Saúde pode acordar com os centros privados autorizados o financiamento da utilização de técnicas de PMA.
+
+Visto e aprovado em Conselho de Ministros de 29 de Novembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Carmen Madalena da Costa Gomes e Cunha Pignatelli.
+
+**Promulgado em 28 de Janeiro de 2008.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 29 de Janeiro de 2008.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

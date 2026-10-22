@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:430977:por
+title: Portaria n.º 459/76
+short_title: null
+summary: Fixa os novos preços de diversas pastas papeleiras
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Indústria e Tecnologia e do Comércio Interno
+proposing_entity: null
+official_number: 459/76
+official_date: null
+publication_date: '1976-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/1976, Série I de 1976-07-29
+  number: '176'
+  series: I
+  supplement: null
+  pages: 1772 - 1772
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17600/17721772.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '430977'
+  dre_path: /dr/detalhe/portaria/459-1976-430977
+  internal: pt:dre:430977:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/459-1976-430977
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/459-1976-430977
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-09-29T00:00:00Z'
+integrity:
+  source_sha256: 64209773d0e414df202d07ac0a79baab9425e3f6bdb8d0980b62b28be20cf051
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-459-430977.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:409087:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 459/76
+
+de 29 de Julho
+
+Os preços das pastas papeleiras no mercado interno mantêm-se inalteráveis desde Janeiro de 1974, enquanto no mercado internacional se deram aumentos sucessivos e substanciais, o que vem causando profundas distorções nas actividades produtora e utilizadora, que interessa corrigir.
+
+A [Portaria n.º 156/76](https://diariodarepublica.pt/dr/detalhe/portaria/156-1976-501380), de 22 de Março, determinou que fosse constituído um grupo de trabalho, a quem coube propor uma nova estrutura de preços das pastas de papel no mercado interno, tendo em vista a adaptação dos mesmos ao mercado internacional. Este grupo de trabalho entregou, entretanto, uma proposta concreta nesse sentido.
+
+Verifica-se, no entanto, que, dada a elevada cotação da pasta de papel no mercado internacional, a rápida passagem do actual nível de preços para o dessas cotações resultaria numa situação incomportável para as indústrias de papel, de artes gráficas e transformadoras de papel, pelo que se considera conveniente limitar os aumentos das cotações no mercado interno a um nível que, aproximando-se dos custos reais, com consequente benefício para a indústria de celulose, seja comportável pelas actividades a jusante atrás referidas.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Indústria Pesada e do Comércio não Alimentar, ao abrigo do disposto no [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, o seguinte:
+
+1. Que os preços das diversas pastas papeleiras à saída da fábrica, sobre camião ou vagão, a praticar no mercado interno, para os fornecimentos que excedam os estabelecidos no n.º 1 da [Portaria n.º 156/76](https://diariodarepublica.pt/dr/detalhe/portaria/156-1976-501380), de 22 de Março, passem a ser:
+
+Kraft de pinho branqueda - 9000$00/t;
+
+Kraft de pinho semibranqueda - 8300$00/t;
+
+Kraft de pinho crua - 6800$00/t;
+
+Kraft de eucalipto branqueada - 7350$00/t;
+
+Kraft de eucalipto semibranqueada - 7000$00/t;
+
+Kraft de eucalipto crua - 6000$00/t;
+
+Sulfito de eucalipto branqueada - 6900$00/t;
+
+Sulfito de eucalipto crua - 6750$00/t.
+
+2. A fim de permitir que as empresas produtoras de pastas possam programar as suas vendas no mercado externo sem perturbações para o abastecimento nacional, devem os contingentes das diversas pastas papeleiras para a indústria nacional de papel ser fixados até 30 de Setembro do ano anterior àquele a que respeitem. Para tanto, a indústria de papel, até àquela data, indicará as suas necessidades para o ano seguinte e cada empresa papeleira fixará, por contrato de reserva, o seu contingente próprio e as condições de pagamento, podendo este ser efectuado mediante a aceitação de letras até noventa dias.
+
+Semestralmente no início do 1.º e 2.º semestres de cada ano, serão os contratos de reserva transformados em firmes, ficando as partes contratantes solidárias na responsabilidade dos quantitativos a fornecer e a levantar e nos pagamentos a efectuar.
+
+3. Nos quinze dias subsequentes à entrada em vigor desta portaria deverão as empresas do sector papeleiro solicitar à Direcção-Geral do Comércio não Alimentar a revisão dos respectivos preços de acordo com os agravamentos agora ocorridos na pasta de papel, a qual, no prazo máximo de quinze dias, deverá homologar os novos preços, a vigorarem a partir de 1 de Setembro de 1976.
+
+4. Até 31 de Dezembro de 1976 deverá o Governo fixar os novos preços da pasta de papel no mercado interno para vigorarem no 1.º semestre de 1977.
+
+Ministérios da Indústria e Tecnologia e do Comércio Interno, 12 de Julho de 1976. - O Secretário de Estado da Indústria Pesada, Alfredo Jorge Nobre da Costa. - O Secretário de Estado do Comércio não Alimentar, José Carlos Alfaia Pinto Pereira.

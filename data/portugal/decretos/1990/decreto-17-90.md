@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:575125:por
+title: Decreto n.º 17/90
+short_title: null
+summary: Aprova o Acordo de Cooperação no Domínio da Juventude entre a República Portuguesa e a República Democrática de São
+  Tomé e Príncipe
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 17/90
+official_date: null
+publication_date: '1990-06-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 131/1990, Série I de 1990-06-07
+  number: '131'
+  series: I
+  supplement: null
+  pages: 2476 - 2477
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13100/24762477.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '575125'
+  dre_path: /dr/detalhe/decreto/17-1990-575125
+  internal: pt:dre:575125:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-1990-575125
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-1990-575125
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-06-07T00:00:00Z'
+integrity:
+  source_sha256: 4cf228aea8b4241a79e911334f81f5c3007d0cd555d633693d5473d2e6fda6d2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-17-575125.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 17/90
+
+de 7 de Junho
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado o Acordo de Cooperação no Domínio da Juventude entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, assinado em São Tomé, em 5 de Novembro de 1988, em dois exemplares originais, cuja versão autêntica segue em anexo.
+
+Visto e aprovado em Conselho de Ministros de 26 de Abril de 1990. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos.
+
+**Assinado em 25 de Maio de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 28 de Maio de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+ACORDO DE COOPERAÇÃO NO DOMÍNIO DA JUVENTUDE ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE.
+
+Considerando:
+
+Os laços culturais e de amizade que unem os dois países;
+
+O grande interesse mútuo pela tradição e cultura de ambos os povos;
+
+O empenho no desenvolvimento das relações entre as juventudes de Portugal e de São Tomé e Príncipe;
+
+e ponderando o espírito e a letra do Acordo Cultural vigente entre os dois países, as Repúblicas Portuguesa e Democrática de São Tomé e Príncipe decidem firmar o presente Acordo de Cooperação no Domínio da Juventude, tendo acordado o seguinte:
+
+###### Artigo 1.º
+
+O presente Acordo tem como objectivo:
+
+a) Promover um melhor conhecimento da realidade dos dois países, com vista ao estabelecimento de uma verdadeira aproximação entre a juventude de ambos os povos;
+
+b) Promover a consciência da necessidade da paz, bem como estimular o conhecimento da cultura, tradição e modo de vida dos dois povos, com vista ao desenvolvimento de um maior sentimento de fraternidade entre as respectivas juventudes;
+
+c) Encorajar o reforço da cooperação entre os dois países na área da juventude.
+
+###### Artigo 2.º
+
+1 - O presente Acordo prevê a realização de programas de interesse comum nas seguintes áreas:
+
+a) Cultura, desporto e ambiente;
+
+b) Empresarial, agrícola e campos de trabalho voluntário;
+
+c) Apoio à comunidade activa;
+
+d) Sistemas de informação juvenil;
+
+e) Tempos livres e integração na vida activa;
+
+f) Promoção do associativismo;
+
+g) Intercâmbio juvenil;
+
+h) Formação de animadores juvenis;
+
+i) Turismo juvenil.
+
+2 - As respectivas prioridades serão estabelecidas anualmente e poderá ser acordada a extensão deste Acordo a outros domínios.
+
+###### Artigo 3.º
+
+A concretização do presente Acordo processar-se-á através de programas de actividades acordados entre as Partes, devendo o seu âmbito, objectivos e responsabilidade de execução ser definidos anualmente para igual período de tempo.
+
+###### Artigo 4.º
+
+A execução do presente Acordo será apreciada no âmbito da comissão mista permanente de cooperação referida no artigo 15.º do Acordo Geral de Cooperação e Amizade entre Portugal e São Tomé e Príncipe, sem prejuízo de, nos períodos intercalares das reuniões daquela comissão, os serviços competentes de cada uma das Partes em matéria de cooperação entre si trocarem as comunicações necessárias à prossecução dos objectivos visados por este Acordo.
+
+###### Artigo 5.º
+
+Os encargos resultantes da execução do presente Acordo, sem prejuízo de outras disposições a acordar, caso a caso, entre as Partes, serão:
+
+a) Repartidos nos termos do Acordo de Cooperação Científica e Técnica, quando as acções tiverem enquadramento em tal Acordo;
+
+b) Quando estiverem em causa bolsas, suportadas por cada uma das Partes, que se compromete a:
+
+b) - 1) Custear as passagens de ida e regresso dos bolseiros seus nacionais;
+
+b) - 2) Indemnizar a outra Parte pelos danos materiais causados culposamente pelos bolseiros no exercício das acções para que a bolsa foi concedida;
+
+b) - 3) Suportar os encargos com a estada dos bolseiros no território da Parte solicitada após o termo da respectiva bolsa e até ao regresso referido em b) - 1);
+
+c) Tratando-se de missões destinadas a planear, orientar ou executar trabalhos determinados e previamente definidos - missões cuja duração não excederá o período de três meses -, repartidos nos termos seguintes:
+
+c) - 1) Ficam a cargo da Parte solicitada o transporte de bagagem e as viagens aéreas de ida e regresso, bem como as ajudas de custo correspondentes à situação em que os elementos integrados em missões se deslocam;
+
+c) - 2) Ficam a cargo da Parte solicitante, relativamente a esses elementos integrados em missões: todos os restantes encargos decorrentes da estada no seu território, designadamente alojamento, alimentação e transporte local; assistência médica e medicamentosa, cirúrgica e hospitalar;
+
+d) Suportados por cada uma das Partes, relativamente aos seus cidadãos, os referentes a acções não enquadráveis nas alíneas a), b) e c) do presente artigo.
+
+###### Artigo 6.º
+
+1 - O presente Acordo entrará em vigor na data da troca de notas pelas quais cada uma das Partes comunica à outra que se encontram cumpridas as formalidades exigidas pela respectiva ordem jurídica interna.
+
+2 - Este Acordo é válido por um período de dois anos, automaticamente prorrogado por idênticos e sucessivos períodos de tempo se qualquer das Partes o não denunciar, por escrito, mediante aviso prévio de seis meses.
+
+Feito em São Tomé, em 5 de Novembro de 1988, em dois originais em língua portuguesa, ambos fazendo igualmente fé.
+
+Pela República Portuguesa:
+
+José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
+
+Pela República Democrática de São Tomé e Príncipe:
+
+Guilherme Posser da Costa, Ministro da Cooperação.

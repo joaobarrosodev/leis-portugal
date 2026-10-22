@@ -1,0 +1,2027 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:479415:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-225445331",
+ "dre_path": "/dr/detalhe/decreto-lei/173-1998-479415",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "225446235",
+    "225446236",
+    "225446237",
+    "225446238",
+    "225446240",
+    "225446241",
+    "225446242",
+    "225446243",
+    "225446244",
+    "225446245",
+    "225446246",
+    "225446247",
+    "225446248",
+    "225446249",
+    "225446250",
+    "225446251",
+    "225446252",
+    "225446253",
+    "225446254",
+    "225446255",
+    "225446256",
+    "225446257",
+    "225446258",
+    "225446259",
+    "225446260",
+    "225446261",
+    "225446262",
+    "225446263",
+    "225446264",
+    "225446265",
+    "225446266",
+    "225446267",
+    "225446268",
+    "225446269",
+    "225446270",
+    "225446271",
+    "225446272",
+    "225446273",
+    "225446274",
+    "227007775",
+    "227007776",
+    "227007777",
+    "227007778",
+    "227007779",
+    "227007780",
+    "227007781",
+    "227007782",
+    "227007783",
+    "227007784",
+    "227007785",
+    "227007786",
+    "227007787",
+    "227007788",
+    "227007789",
+    "227007790",
+    "227007791",
+    "227007792",
+    "227007793",
+    "227007794",
+    "227007795",
+    "227007796",
+    "227007797",
+    "227007798",
+    "227007799",
+    "227007800",
+    "227007801",
+    "227007802",
+    "227007803",
+    "227007804",
+    "227007805",
+    "227007806",
+    "227007807",
+    "227007808",
+    "227007809",
+    "227007810",
+    "227007811",
+    "227007812",
+    "227007813",
+    "227007814",
+    "227007815",
+    "227007816",
+    "227007817",
+    "227007818",
+    "227007819",
+    "227007820",
+    "227007821",
+    "227007822",
+    "227007823",
+    "227007824",
+    "227007825",
+    "227007826",
+    "227007827",
+    "227007828",
+    "227007829",
+    "227007830",
+    "227007831",
+    "227007832",
+    "227007833",
+    "227007834",
+    "227007835",
+    "227007836",
+    "227007837",
+    "227007838",
+    "227007839",
+    "227007840"
+   ]
+  },
+  {
+   "date": "2001-03-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:385026:por",
+     "title": "Decreto-Lei n.º 73/2001",
+     "published": "2001-02-26",
+     "dre_path": "/dr/detalhe/decreto-lei/73-2001-385026"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 61.º",
+    "Altera Artigo 65.º",
+    "Altera Artigo 68.º",
+    "Altera Artigo 79.º"
+   ],
+   "fragments": [
+    "225446235",
+    "225446236",
+    "225446237",
+    "225446238",
+    "225446239",
+    "225446240",
+    "225446241",
+    "225446242",
+    "225446243",
+    "227007841",
+    "225446245",
+    "225446246",
+    "225446247",
+    "225446248",
+    "225446249",
+    "225446250",
+    "225446251",
+    "225446252",
+    "225446253",
+    "225446254",
+    "225446255",
+    "225446256",
+    "225446257",
+    "225446258",
+    "225446259",
+    "225446260",
+    "225446261",
+    "225446262",
+    "225446263",
+    "225446264",
+    "225446265",
+    "225446266",
+    "225446267",
+    "225446268",
+    "225446269",
+    "225446270",
+    "225446271",
+    "225446272",
+    "225446273",
+    "225446274",
+    "227007775",
+    "227007776",
+    "227007777",
+    "227007778",
+    "227007779",
+    "227007780",
+    "227007781",
+    "227007782",
+    "227007783",
+    "227007784",
+    "227007785",
+    "227007786",
+    "227007787",
+    "227007788",
+    "227007789",
+    "227007790",
+    "227007791",
+    "227007792",
+    "227007793",
+    "227007794",
+    "227007795",
+    "227007796",
+    "227007797",
+    "227007798",
+    "227007799",
+    "227007800",
+    "227007801",
+    "227007802",
+    "227007803",
+    "227007804",
+    "227007805",
+    "227007806",
+    "227007807",
+    "227007808",
+    "227007809",
+    "227007810",
+    "227007811",
+    "227007812",
+    "227007813",
+    "227007814",
+    "227007815",
+    "227007816",
+    "227007842",
+    "227007818",
+    "227007819",
+    "227007820",
+    "227007821",
+    "227007822",
+    "227007823",
+    "227007843",
+    "227007825",
+    "227007826",
+    "227007844",
+    "227007828",
+    "227007829",
+    "227007830",
+    "227007831",
+    "227007832",
+    "227007833",
+    "227007834",
+    "227007835",
+    "227007836",
+    "227007837",
+    "227007845",
+    "227007839",
+    "227007840"
+   ]
+  },
+  {
+   "date": "2007-06-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:639101:por",
+     "title": "Decreto-Lei n.º 228/2007",
+     "published": "2007-06-11",
+     "dre_path": "/dr/detalhe/decreto-lei/228-2007-639101"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 20.º-A",
+    "Adita Capítulo III",
+    "Adita Artigo 39.º-A",
+    "Adita Artigo 39.º-B",
+    "Adita Artigo 39.º-C",
+    "Adita Artigo 39.º-D",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Secção III",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Secção IV",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 51.º",
+    "Altera Artigo 52.º",
+    "Altera Artigo 53.º",
+    "Altera Artigo 54.º",
+    "Altera Artigo 55.º",
+    "Altera Artigo 56.º",
+    "Altera Artigo 57.º",
+    "Revoga Secção V",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Secção VI",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Secção VII",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º"
+   ],
+   "fragments": [
+    "225446235",
+    "225446236",
+    "225446237",
+    "225446238",
+    "225446239",
+    "225446240",
+    "225446241",
+    "225446242",
+    "228137262",
+    "227007841",
+    "225446245",
+    "225446246",
+    "228137263",
+    "228137264",
+    "228137265",
+    "228137266",
+    "225446251",
+    "225446252",
+    "228137267",
+    "225446254",
+    "228137268",
+    "225446256",
+    "225446257",
+    "228137269",
+    "228137270",
+    "228137271",
+    "228137272",
+    "228137273",
+    "228137274",
+    "228859075",
+    "228137261",
+    "228859114",
+    "228859076",
+    "228859092",
+    "228859093",
+    "228859094",
+    "228859115",
+    "228859095",
+    "228859096",
+    "228859097",
+    "228859136",
+    "228859137",
+    "228859138",
+    "228859139",
+    "228859140",
+    "228859141",
+    "228859142",
+    "228859143",
+    "228859144",
+    "228859145",
+    "228859146",
+    "228859147",
+    "228859148",
+    "228859149",
+    "228859150",
+    "228859122",
+    "228859129",
+    "228859130",
+    "228859131",
+    "228859132",
+    "228859123",
+    "228859113",
+    "228859077",
+    "228859078",
+    "228859079",
+    "228859080",
+    "228859124",
+    "228859098",
+    "227007797",
+    "228859081",
+    "228859125",
+    "227007800",
+    "228859082",
+    "228859083",
+    "228859084",
+    "228859085",
+    "228859086",
+    "227007806",
+    "228859087",
+    "228859088",
+    "228859089",
+    "228859090",
+    "228859091",
+    "227007812",
+    "228859126",
+    "227007814",
+    "227007815",
+    "227007816",
+    "227007842",
+    "227007818",
+    "227007819",
+    "227007820",
+    "228859127",
+    "227007822",
+    "228859128",
+    "227007843",
+    "227007825",
+    "227007826",
+    "227007844",
+    "227007828",
+    "227007829",
+    "227007830",
+    "227007831",
+    "227007832",
+    "227007833",
+    "228859099",
+    "228859100",
+    "227007836",
+    "227007837",
+    "227007845",
+    "227007839",
+    "227007840"
+   ]
+  }
+ ],
+ "fragments": {
+  "225446235": {
+   "fragment_id": "225445332",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 173/98\n\nde 26 de Junho\n\nO Estatuto da Câmara dos Despachantes Oficiais, aprovado pelo Decreto-Lei n.º 450/80, de 7 de Outubro, revela-se insuficiente e desadequado às novas atribuições reconhecidas pelo Decreto-Lei n.º 280/92, de 18 de Dezembro.\n\nO presente diploma procede à necessária compatibilização das regras relativas ao exercício da profissão de despachante oficial com a natureza de associação pública da Câmara dos Despachantes Oficiais e, bem assim, com as alterações introduzidas à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, e aos imperativos do direito comunitário em matéria de exercício da profissão por nacionais de outros Estados membros.\n\nSem nunca perder de vista a natureza mista das associações públicas profissionais - pública, enquanto prossegue atribuições públicas relativas ao exercício de profissões onde o interesse público está especialmente patente, privada, porque associação representativa dos profissionais inscritos -, a elaboração do Estatuto da Câmara dos Despachantes Oficiais procurou conciliar as propostas por esta apresentadas com os imperativos decorrentes do actual quadro constitucional português.\n\nEntre os aspectos mais significativos da regulamentação a que agora se procede, cumpre assinalar o reforço da descentralização organizativa e, bem assim, da separação entre órgãos executivos e disciplinares; a definição do núcleo essencial de regras de deontologia profissional; a previsão das regras sobre processo disciplinar; a consagração do referendo interno como instrumento de aprovação ou de ratificação pela profissão de decisões particularmente relevantes.\n\nFoi ouvida a Câmara dos Despachantes Oficiais.\n\nAssim, no uso da autorização legislativa concedida pela Lei n.º 119/97, de 13 de Novembro, e nos termos da alínea b) no n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei aplicável em todo o território nacional, o seguinte:\n\n> Nota: [Artigo 1.º, Lei n.º 112/2015 - Diário da República n.º 167/2015, Série I de 2015-08-27](https://diariodarepublica.pt/dr/detalhe/lei/112-2015-70128395) Transforma, a partir de 26.09.2015, a Câmara dos Despachantes Oficiais, em Ordem dos Despachantes Oficiais. O Estatuto, passa a designar-se Estatuto da Ordem dos Despachantes Oficiais e todas as referências legais e regulamentares à Câmara dos Despachantes Oficiais ou ao Estatuto da Câmara dos Despachantes Oficiais, são remetidas para a Ordem dos Despachantes Oficiais e para o Estatuto da Ordem dos Despachantes Oficiais, respetivamente."
+  },
+  "225446236": {
+   "fragment_id": "225445333",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado o Estatuto da Câmara dos Despachantes Oficiais, que se publica em anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "225446237": {
+   "fragment_id": "225445334",
+   "type": 11,
+   "heading": "Artigo 2.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Disposições transitórias\n\n1 - A direcção da Câmara dos Despachantes Oficiais actualmente em funções deve, no prazo de seis meses a contar da entrada em vigor do presente decreto-lei:\n\na) Preparar os actos eleitorais para os órgãos nacionais e de secção;\n\nb) Realizar todos os actos necessários ao normal funcionamento da Câmara dos Despachantes Oficiais;\n\nc) Conferir posse aos titulares dos órgãos eleitos;\n\nd) Prestar contas do mandato exercido.\n\n2 - Aos despachantes oficiais detentores de alvará concedido pela alfândega, nos termos da legislação anterior, é reconhecido o direito de inscrição na Câmara dos Despachantes Oficiais."
+  },
+  "225446238": {
+   "fragment_id": "225445335",
+   "type": 11,
+   "heading": "Artigo 3.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Revogação\n\nÉ revogado o Estatuto da Câmara dos Despachantes Oficiais, aprovado pelo DecretoLei n.º 450/80, de 7 de Outubro, excepto as disposições referentes ao funcionamento dos actuais órgãos, as quais se manterão em vigor até à substituição dos respectivos titulares, de acordo com as novas disposições estatutárias."
+  },
+  "225446240": {
+   "fragment_id": "225445337",
+   "type": 14,
+   "heading": "Anexo — ESTATUTO DA CÂMARA DOS DESPACHANTES OFICIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTO DA CÂMARA DOS DESPACHANTES OFICIAIS"
+  },
+  "225446241": {
+   "fragment_id": "225445338",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "225446242": {
+   "fragment_id": "225445339",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e sede\n\n1 - A Câmara dos Despachantes Oficiais, abreviadamente designada por CDO, é a associação pública representativa dos despachantes oficiais.\n\n2 - A CDO tem sede em Lisboa."
+  },
+  "225446243": {
+   "fragment_id": "225445340",
+   "type": 11,
+   "heading": "Artigo 2.º — Secções regionais e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Secções regionais e delegações\n\n1 - A CDO compreende as Secções de Lisboa e do Porto.\n\n2 - A Secção de Lisboa exerce as suas competências nas áreas correspondentes aos distritos de Faro, Beja, Évora, Portalegre, Setúbal, Lisboa, Santarém, Leiria, Castelo Branco e nas Regiões Autónomas dos Açores e da Madeira.\n\n3 - A Secção do Porto exerce as suas competências nas áreas correspondentes aos distritos de Viana do Castelo, Braga, Porto, Vila Real, Bragança, Viseu, Aveiro, Guarda e Coimbra.\n\n4 - Por delegação da assembleia de secção, mediante proposta da respectiva direcção, podem ser criadas delegações locais, sob direcção de um delegado nomeado pela direcção da secção."
+  },
+  "225446244": {
+   "fragment_id": "225445341",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nA CDO tem as seguintes atribuições:\n\na) Verificar os requisitos legais de acesso à profissão de despachante oficial e organizar os exames e provas previstos na lei e no presente Estatuto;\n\nb) Atribuir o título profissional, de acordo com a legislação aplicável;\n\nc) Elaborar e manter actualizado o registo oficial dos membros da profissão;\n\nd) Participar na elaboração da legislação relativa ao estatuto profissional dos despachantes oficiais e a organização das alfândegas;\n\ne) Fiscalizar o exercício da profissão, verificando e assegurando, relativamente aos seus membros, o respeito pelos condicionamentos, incompatibilidades e impedimentos, bem como a observância das regras de deontologia profissional;\n\nf) Defender os direitos e interesses legítimos dos seus membros no que respeite ao exercício da profissão;\n\ng) Promover o aperfeiçoamento profissional e o apoio aos seus membros;\n\nh) Zelar pela dignidade e prestígio da profissão;\n\ni) Reforçar a solidariedade entre os seus membros."
+  },
+  "225446245": {
+   "fragment_id": "225445342",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos"
+  },
+  "225446246": {
+   "fragment_id": "225445343",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "225446247": {
+   "fragment_id": "225445344",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1 - São órgãos nacionais da CDO:\n\na) A assembleia geral;\n\nb) O conselho directivo;\n\nc) O conselho deontológico e fiscalizador nacional.\n\n2 - São órgãos regionais da CDO:\n\na) As assembleias de secção;\n\nb) As direcções de secção;\n\nc) Os conselhos deontológicos e fiscalizadores de secção.\n\n3 - Aos órgãos nacionais compete estabelecer e desenvolver as relações internacionais e com o poder central, e com os serviços centrais da Direcção-Geral das Alfândegas e dos Impostos sobre o Consumo (DGAIEC), bem como tratar das demais matérias respeitantes aos despachantes oficiais.\n\n4 - Aos órgãos regionais compete estabelecer e desenvolver as relações com o poder regional e local e com os serviços periféricos da DGAIEC, bem como tratar das demais matérias respeitantes aos despachantes da secção respectiva."
+  },
+  "225446248": {
+   "fragment_id": "225445345",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsabilidade dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsabilidade dos órgãos\n\nOs órgãos executivos nacionais respondem perante a assembleia geral e os órgãos executivos regionais respondem perante a respectiva assembleia de secção."
+  },
+  "225446249": {
+   "fragment_id": "225445346",
+   "type": 11,
+   "heading": "Artigo 6.º — Eleição e duração dos mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Eleição e duração dos mandatos\n\n1 - Os membros dos órgãos nacionais da CDO são eleitos em assembleia geral e os dos órgãos regionais nas assembleias de secção.\n\n2 - O mandato dos titulares dos órgãos da CDO tem a duração de dois anos."
+  },
+  "225446250": {
+   "fragment_id": "225445347",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade dos presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade dos presidentes\n\nSó podem ser eleitos para presidentes dos órgãos nacionais e regionais os despachantes oficiais com mais de cinco e três anos de profissão, respectivamente."
+  },
+  "225446251": {
+   "fragment_id": "225445348",
+   "type": 8,
+   "heading": "Secção II — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assembleia geral"
+  },
+  "225446252": {
+   "fragment_id": "225445349",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição\n\n1 - A assembleia geral é o órgão superior da CDO e nela têm assento todos os despachantes oficiais que se encontrem no pleno exercício dos seus direitos.\n\n2 - Não podem participar na Assembleia geral os despachantes oficiais cujas contribuições à CDO estejam em dívida há mais de seis meses."
+  },
+  "225446253": {
+   "fragment_id": "225445350",
+   "type": 11,
+   "heading": "Artigo 9.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mesa\n\n1 - A mesa da assembleia geral é constituída por um presidente e dois secretários.\n\n2 - Os lugares de secretário são ocupados, por inerência, pelos presidentes das assembleias de secção de Lisboa e do Porto, sendo nos seus impedimentos substituídos por despachantes oficiais designados pelo presidente ou eleitos pela assembleia geral."
+  },
+  "225446254": {
+   "fragment_id": "225445351",
+   "type": 11,
+   "heading": "Artigo 10.º — Convocatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Convocatória\n\n1 - A assembleia geral é convocada pelo presidente, com a antecedência mínima de 10 dias, devendo a ordem de trabalhos constar de aviso convocatório publicado em, pelo menos, dois jornais diários de âmbito nacional, um de Lisboa e outro do Porto, e de circular a enviar a todos os despachantes, contendo o dia, hora e local da reunião.\n\n2 - As assembleias eleitorais devem ser convocadas com a antecedência mínima de 60 dias."
+  },
+  "225446255": {
+   "fragment_id": "225445352",
+   "type": 11,
+   "heading": "Artigo 11.º — Local das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Local das reuniões\n\n1 - A assembleia geral reúne em local a designar pelo presidente, alternadamente nas áreas das Secções de Lisboa e do Porto.\n\n2 - O presidente poderá alterar a regra da alternância por motivos de força maior, devidamente justificados, os quais devem constar da convocatória prevista no n.º 1 do artigo anterior."
+  },
+  "225446256": {
+   "fragment_id": "225445353",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento\n\n1 - A assembleia geral considera-se constituída desde que à hora marcada no aviso convocatório esteja presente metade e mais um dos seus membros.\n\n2 - Não existindo o quórum referido no número anterior, a assembleia geral considera-se constituída uma hora depois da primeira convocação, com os despachantes oficiais presentes e com a mesma ordem de trabalhos.\n\n3 - Exceptua-se do disposto no número anterior a assembleia geral convocada nos termos da alínea c) do n.º 1 do artigo 16.º, a qual só se considera constituída validamente com a presença mínima de dois terços dos subscritores daquele pedido.\n\n4 - Cada despachante oficial não pode representar mais de três membros, devendo para o efeito apresentar as respectivas procurações."
+  },
+  "225446257": {
+   "fragment_id": "225445354",
+   "type": 11,
+   "heading": "Artigo 13.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deliberações\n\n1 - A assembleia geral só pode deliberar sobre os assuntos constantes do aviso convocatório.\n\n2 - A assembleia geral não pode aprovar deliberações que envolvam, no ano económico em curso, aumento das despesas da CDO não previstas no orçamento."
+  },
+  "225446258": {
+   "fragment_id": "225445355",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\nSão competências da assembleia geral:\n\na) Votar o orçamento, as contas com os respectivos anexos, o parecer do conselho deontológico e fiscalizador nacional e o orçamento suplementar;\n\nb) Eleger os titulares dos órgãos nacionais;\n\nc) Destituir os titulares dos órgãos executivos nacionais da CDO;\n\nd) Votar propostas de alteração do estatuto;\n\ne) Votar os regulamentos internos necessários ao bom funcionamento dos órgãos da CDO;\n\nf) Fixar o montante das taxas de inscrição na CDO e das quotas a pagar pelos membros;\n\ng) Regular os requisitos das contas apresentadas pelos despachantes oficiais e fixar o valor dos selos de garantia e das taxas;\n\nh) Aprovar as normas para a substituição do despachante oficial nos seus impedimentos e o regime de suspensão voluntária do exercício da actividade;\n\ni) Deliberar sobre qualquer assunto de âmbito nacional que se enquadre nas atribuições da CDO, com excepção dos assuntos da competência das assembleias de secção;\n\nj) Aprovar o código deontológico da profissão, sob proposta do conselho deontológico e fiscalizador nacional."
+  },
+  "225446259": {
+   "fragment_id": "225445356",
+   "type": 11,
+   "heading": "Artigo 15.º — Reuniões ordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reuniões ordinárias\n\n1 - A assembleia geral reúne ordinariamente em Março e Dezembro de cada ano.\n\n2 - Na reunião de Março são submetidos a aprovação o relatório e contas do ano económico anterior.\n\n3 - Na reunião de Dezembro é submetido à aprovação o orçamento para o ano económico seguinte e, de dois em dois anos, terá igualmente lugar a assembleia geral eleitoral para eleição dos corpos gerentes da CDO."
+  },
+  "225446260": {
+   "fragment_id": "225445357",
+   "type": 11,
+   "heading": "Artigo 16.º — Reuniões extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reuniões extraordinárias\n\n1 - As reuniões extraordinárias são convocadas por iniciativa do presidente da assembleia geral, por quem o substitua ou a solicitação:\n\na) De qualquer outro órgão nacional da CDO que nesse sentido expressamente tenha deliberado por maioria simples;\n\nb) De uma assembleia de secção que nesse sentido expressamente tenha deliberado por uma maioria correspondente a 10% dos associados da secção;\n\nc) De, pelo menos, 10% do número total de despachantes oficiais no pleno uso dos seus direitos.\n\n2 - O pedido de convocação da assembleia geral extraordinária deve ser formulado por escrito e indicar a respectiva ordem de trabalhos e o local onde a reunião terá lugar."
+  },
+  "225446261": {
+   "fragment_id": "225445358",
+   "type": 11,
+   "heading": "Artigo 17.º — Moções de louvor e de censura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Moções de louvor e de censura\n\n1 - É permitida a apresentação de moções de louvor e de censura aos órgãos executivos da CDO ou aos seus titulares, que só poderão ser aceites se forem subscritas por, pelo menos, 30 despachantes oficiais presentes na assembleia, caso em que serão obrigatoriamente submetidas a votação.\n\n2 - Se um órgão ou titular de órgão executivo for objecto de duas moções de censura durante o mesmo mandato, votadas favoravelmente em assembleias diferentes, todos os titulares desse órgão ou o titular do órgão individualmente considerado serão imediatamente destituídos com a aprovação da segunda moção."
+  },
+  "225446262": {
+   "fragment_id": "225445359",
+   "type": 11,
+   "heading": "Artigo 18.º — Eleições intercalares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Eleições intercalares\n\n1 - Caso se verifique a destituição ou demissão de todos os titulares de qualquer órgão da CDO, estes continuarão em funções com meros poderes de gestão até à tomada de posse dos novos titulares, que serão eleitos de acordo com os procedimentos eleitorais previstos no presente Estatuto, para o efeito imediatamente desencadeados.\n\n2 - O mandato dos titulares do órgão ou dos órgãos eleitos nos termos do número anterior termina após dois anos de vigência, no final do último ano civil."
+  },
+  "225446263": {
+   "fragment_id": "225445360",
+   "type": 11,
+   "heading": "Artigo 19.º — Maiorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Maiorias\n\n1 - Sem prejuízo do disposto no número seguinte, as deliberações da assembleia geral são tomadas à pluralidade de votos dos membros presentes e representados.\n\n2 - As deliberações relativas às matérias enunciadas nas alíneas d), e), f), g) e h) do artigo 14.º do presente Estatuto são aprovadas por dois terços dos votos validamente expressos pelos membros presentes."
+  },
+  "225446264": {
+   "fragment_id": "225445361",
+   "type": 11,
+   "heading": "Artigo 20.º — Apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Apoio administrativo\n\n1 - O conselho directivo e as direcções de secção asseguram as condições materiais para o bom funcionamento das assembleias gerais e de secção.\n\n2 - O presidente da assembleia geral ordena a publicação em circular dos documentos que julgue necessário divulgar a todos os despachantes oficiais antes da realização da assembleia geral."
+  },
+  "225446265": {
+   "fragment_id": "225445362",
+   "type": 8,
+   "heading": "Secção III — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho directivo"
+  },
+  "225446266": {
+   "fragment_id": "225445363",
+   "type": 11,
+   "heading": "Artigo 21.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Composição\n\n1 - O conselho directivo é composto por:\n\na) Um presidente;\n\nb) Dois secretários;\n\nc) O presidente da direcção da Secção de Lisboa;\n\nd) O presidente da direcção da Secção do Porto.\n\n2 - O presidente e os secretários são eleitos em assembleia geral, sendo os restantes lugares do conselho directivo preenchidos por inerência pelas direcções das Secções de Lisboa e do Porto.\n\n3 - O cargo de tesoureiro é exercido por um membro do conselho directivo para o efeito designado.\n\n4 - No caso de impedimento ou vacatura do lugar de presidente, este é substituído pelo presidente da direcção da secção que o conselho directivo para o efeito designar.\n\n5 - O presidente tem voto de qualidade e representa a CDO em juízo e fora dele."
+  },
+  "225446267": {
+   "fragment_id": "225445364",
+   "type": 11,
+   "heading": "Artigo 22.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Sede\n\n1 - O conselho directivo tem a sua sede em Lisboa, podendo, contudo, reunir onde o seu colectivo entender mais conveniente.\n\n2 - Os órgãos da Secção de Lisboa funcionam na sede da CDO."
+  },
+  "225446268": {
+   "fragment_id": "225445365",
+   "type": 11,
+   "heading": "Artigo 23.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competências\n\nAo conselho directivo compete:\n\na) Coordenar e zelar pelos interesses dos despachantes oficiais em tudo o que respeite ao exercício da sua profissão;\n\nb) Elaborar os regulamentos internos e emitir as directivas necessárias ao bom cumprimento do presente Estatuto;\n\nc) Submeter à assembleia geral a aprovação dos orçamentos ordinário e suplementares, do relatório e das contas do exercício anterior, bem como do respectivo parecer do conselho deontológico e fiscalizador nacional;\n\nd) Nomear comissões para a execução de trabalhos excepcionais;\n\ne) Aprovar e propor à assembleia geral os requisitos das contas apresentadas pelos despachantes oficiais e fixar o valor dos selos de garantia ou das taxas cobradas pelos respectivos serviços;\n\nf) Nomear despachantes oficiais para integrar comissões destinadas a exercer actividades de âmbito nacional, bem como nomear despachantes oficiais por escala para actividades que considere necessárias;\n\ng) Editar o boletim da CDO, que sairá, pelo menos, uma vez por ano e conterá obrigatoriamente a lista actualizada dos despachantes oficiais;\n\nh) Gerir o orçamento da CDO e administrar o seu património imobiliário;\n\ni) Ocupar-se de tudo o que respeite à negociação e contratação global de benefícios sociais para os despachantes oficiais;\n\nj) Superintender nas actividades das direcções de secção;\n\nl) Organizar os referendos internos;\n\nm) Conhecer dos recursos das decisões das direcções regionais que recusem a inscrição de um despachante na CDO."
+  },
+  "225446269": {
+   "fragment_id": "225445366",
+   "type": 11,
+   "heading": "Artigo 24.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Reuniões e deliberações\n\n1 - O conselho directivo reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que o seu presidente o convocar.\n\n2 - O conselho directivo só pode reunir e deliberar com a presença do presidente ou de um dos presidentes da direcção de secção em sua substituição e com a presença da maioria simples dos seus membros."
+  },
+  "225446270": {
+   "fragment_id": "225445367",
+   "type": 8,
+   "heading": "Secção IV — Conselho deontológico e fiscalizador nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho deontológico e fiscalizador nacional"
+  },
+  "225446271": {
+   "fragment_id": "225445368",
+   "type": 11,
+   "heading": "Artigo 25.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Composição\n\n1 - O conselho deontológico e fiscalizador nacional funciona na sede da CDO e é composto por um presidente e quatro vogais, dois de cada secção.\n\n2 - No caso de impedimento ou vacatura do lugar de presidente, este é substituído pelo vogal que o conselho designar.\n\n3 - O presidente tem voto de qualidade."
+  },
+  "225446272": {
+   "fragment_id": "225445369",
+   "type": 11,
+   "heading": "Artigo 26.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competências\n\n1 - Ao conselho deontológico e fiscalizador nacional compete:\n\na) Orientar, fiscalizar e disciplinar a actividade profissional dos despachantes oficiais;\n\nb) Fiscalizar e dar parecer sobre as contas do conselho directivo, em especial, e as contas da CDO, em geral;\n\nc) Mandar publicar todos os documentos que julgue necessário divulgar pelos despachantes oficiais para o exercício da sua actividade profissional;\n\nd) Promover e difundir o respeito pelas normas éticas da profissão;\n\ne) Analisar os problemas decorrentes do exercício da actividade profissional;\n\nf) Fiscalizar o comportamento deontológico dos órgãos da CDO e dos respectivos titulares;\n\ng) Exercer o poder disciplinar sobre os titulares dos órgãos da CDO;\n\nh) Decidir os recursos interpostos das deliberações do conselho deontológico e fiscalizador de secção;\n\ni) Conhecer dos recursos relativos às decisões da assembleia de secção e da direcção regional.\n\n2 - O conselho deontológico e fiscalizador nacional pode contratar profissionais para o auxiliarem no exercício das suas funções fiscalizadoras, não podendo os contratos exceder o prazo restante do mandato dos titulares do conselho.\n\n3 - O conselho deontológico e fiscalizador nacional pode fazer-se representar por um dos seus membros nas reuniões do conselho directivo, sem direito a voto."
+  },
+  "225446273": {
+   "fragment_id": "225445370",
+   "type": 11,
+   "heading": "Artigo 27.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Reuniões e deliberações\n\nNo exercício das suas competências deontológicas o conselho deontológico e fiscalizador nacional reúne com a periodicidade que julgar necessária, devendo reunir, para o exercício das suas competências de fiscalização, pelo menos, uma vez em cada trimestre."
+  },
+  "225446274": {
+   "fragment_id": "225445371",
+   "type": 8,
+   "heading": "Secção V — Assembleias de secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Assembleias de secção"
+  },
+  "227007775": {
+   "fragment_id": "225445372",
+   "type": 11,
+   "heading": "Artigo 28.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Composição\n\n1 - A assembleia de secção é composta por todos os despachantes oficiais no pleno uso dos seus direitos que na área da respectiva jurisdição tenham o seu domicílio profissional.\n\n2 - Podem participar na assembleia, sem direito a voto, os despachantes oficiais pertencentes a outra secção.\n\n3 - A mesa da assembleia é composta por um presidente e dois secretários."
+  },
+  "227007776": {
+   "fragment_id": "225445373",
+   "type": 11,
+   "heading": "Artigo 29.º — Regras supletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regras supletivas\n\nÀs assembleias de secção são aplicáveis, com as necessárias adaptações, as disposições estabelecidas no presente estatuto para a assembleia geral."
+  },
+  "227007777": {
+   "fragment_id": "225445374",
+   "type": 11,
+   "heading": "Artigo 30.º — Local das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Local das reuniões\n\nAs assembleias de secção reúnem no local onde têm as suas instalações ou no local para o efeito designado pelo seu presidente, mas sempre dentro da respectiva área de jurisdição."
+  },
+  "227007778": {
+   "fragment_id": "227007875",
+   "type": 11,
+   "heading": "Artigo 31.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Competências\n\nA cada assembleia de secção compete:\n\na) Deliberar sobre todas as matérias que respeitem aos despachantes oficiais da secção, sem prejuízo da competência dos restantes órgãos regionais;\n\nb) Eleger e destituir os membros dos órgãos de secção;\n\nc) Discutir e votar o orçamento e as contas e votar o parecer do conselho deontológico e fiscalizador de secção;\n\nd) Requerer a convocação da assembleia geral extraordinária."
+  },
+  "227007779": {
+   "fragment_id": "227007876",
+   "type": 11,
+   "heading": "Artigo 32.º — Moções de louvor e de censura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Moções de louvor e de censura\n\n1 - Nas assembleias de secção só podem ser apresentadas e votadas moções de louvor e de censura dirigidas aos órgãos regionais ou aos seu titulares e desde que respeitado o preceituado no n.º 1 do artigo 17.º\n\n2 - A destituição dos titulares de um órgão regional ocorrerá com a aprovação de duas moções de censura aprovadas em diferentes assembleias da mesma secção."
+  },
+  "227007780": {
+   "fragment_id": "227007877",
+   "type": 8,
+   "heading": "Secção VI — Direcções de secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Direcções de secção"
+  },
+  "227007781": {
+   "fragment_id": "227007878",
+   "type": 11,
+   "heading": "Artigo 33.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Composição\n\n1 - Cada direcção de secção é composta por um presidente, um vice-presidente, um director tesoureiro e dois suplentes.\n\n2 - Os membros suplentes substituem os restantes membros da direcção em caso de impedimento ou vacatura."
+  },
+  "227007782": {
+   "fragment_id": "227007879",
+   "type": 11,
+   "heading": "Artigo 34.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Sede\n\nAs secções têm sede em local a designar nas áreas correspondentes aos distritos de Lisboa e do Porto."
+  },
+  "227007783": {
+   "fragment_id": "227007880",
+   "type": 11,
+   "heading": "Artigo 35.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Competências\n\nA cada direcção de secção compete:\n\na) Dirigir todos os assuntos relativos à actividade da secção;\n\nb) Representar a secção;\n\nc) Gerir o orçamento da secção e administrar o património mobiliário;\n\nd) Participar ao conselho deontológico e fiscalizador de secção quaisquer ocorrências passíveis de procedimento disciplinar;\n\ne) Requerer a convocação da assembleia extraordinária de secção sempre que o julgue necessário;\n\nf) Submeter à assembleia de secção o orçamento e as contas da secção referentes ao ano económico findo, acompanhadas do relatório do conselho deontológico e fiscalizador da secção;\n\ng) Executar as deliberações do conselho deontológico e fiscalizador da secção, em matéria disciplinar;\n\nh) Nomear despachantes oficiais para a realização de actividades sociais ou profissionais, de acordo com uma escala previamente elaborada."
+  },
+  "227007784": {
+   "fragment_id": "227007881",
+   "type": 11,
+   "heading": "Artigo 36.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Reuniões e deliberações\n\nA direcção de secção reúne, pelo menos, duas vezes por mês."
+  },
+  "227007785": {
+   "fragment_id": "227007882",
+   "type": 8,
+   "heading": "Secção VII — Conselhos deontológicos e fiscalizadores das secções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Conselhos deontológicos e fiscalizadores das secções"
+  },
+  "227007786": {
+   "fragment_id": "227007883",
+   "type": 11,
+   "heading": "Artigo 37.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Composição\n\n1 - Cada conselho deontológico e fiscalizador de secção é composto por um presidente e dois assessores.\n\n2 - No caso de impedimento ou vacatura do lugar de presidente este é substituído pelo assessor mais antigo.\n\n3 - O presidente tem voto de qualidade."
+  },
+  "227007787": {
+   "fragment_id": "227007884",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competências\n\n1 - Aos conselhos deontológicos e fiscalizadores de secção compete:\n\na) Exercer as competências reconhecidas ao conselho deontológico e fiscalizador nacional pelas alíneas a), b) e c) do n.º 1 do artigo 26.º do presente Estatuto na respectiva área de jurisdição;\n\nb) Solicitar, sempre que julgue necessário, uma reunião do conselho deontológico e fiscalizador nacional para apreciação de qualquer assunto da sua competência;\n\nc) Difundir e aplicar as normas emanadas pelo conselho deontológico e fiscalizador nacional;\n\nd) Superintender nos serviços de controlo dos selos de garantia;\n\ne) Mandar proceder aos inquéritos que tenha por convenientes;\n\nf) Exercer o poder disciplinar sobre os despachantes oficiais, sem prejuízo do disposto na alínea g) do n.º 1 do artigo 26.º;\n\ng) Fiscalizar e dar parecer sobre as contas da secção respectiva, nomeadamente quanto ao cabimento das despesas e à sua legalidade ou tramitação processual;\n\nh) Dar parecer sobre o orçamento da secção.\n\n2 - O conselho deontológico ou fiscalizador de secção pode fazer-se representar por um dos seus membros nas reuniões da direcção respectiva, sem direito a voto."
+  },
+  "227007788": {
+   "fragment_id": "227007885",
+   "type": 11,
+   "heading": "Artigo 39.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reuniões e deliberações\n\nNo exercício das suas competências deontológicas os conselhos deontológicos e fiscalizadores de secção reúnem com a periodicidade que julguem necessária, devendo reunir, para o exercício das suas competências de fiscalização, pelo menos, uma vez em cada trimestre."
+  },
+  "227007789": {
+   "fragment_id": "227007886",
+   "type": 1,
+   "heading": "Capítulo III — Eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Eleições"
+  },
+  "227007790": {
+   "fragment_id": "227007887",
+   "type": 11,
+   "heading": "Artigo 40.º — Eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Eleições\n\n1 - As eleições para os órgãos da CDO realizam-se todas na mesma data, nos termos do n.º 3 do artigo 15.º\n\n2 - A mesa da assembleia geral deve coordenar a marcação das eleições de modo a dar cumprimento ao disposto no número anterior."
+  },
+  "227007791": {
+   "fragment_id": "227007888",
+   "type": 11,
+   "heading": "Artigo 41.º — Escrutínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Escrutínio\n\n1 - As eleições fazem-se por escrutínio secreto, através de listas plurinominais.\n\n2 - O presidente deve convidar um representante de cada lista para acompanhar e fiscalizar os trabalhos da assembleia eleitoral."
+  },
+  "227007792": {
+   "fragment_id": "227007889",
+   "type": 11,
+   "heading": "Artigo 42.º — Listas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Listas\n\n1 - Só são admitidas a sufrágio as listas apresentadas até 30 dias antes da data das eleições e desde que subscritas por um mínimo de 30 despachantes oficiais, quando esteja em causa a selecção de titulares para órgãos nacionais, ou por um mínimo de 10 despachantes oficiais, quando a eleição se destine a seleccionar titulares para órgãos regionais.\n\n2 - As listas admitidas a sufrágio são referenciadas pelas primeiras letras do alfabeto segundo a ordem de apresentação e todas devem ser impressas no mesmo papel com o mesmo formato.\n\n3 - As listas concorrentes devem mencionar, além do nome dos candidatos, o cargo a que cada um deles concorre.\n\n4 - As listas admitidas a sufrágio podem concorrer a todos os órgãos nacionais, a todos os órgãos de cada secção ou a todos os órgãos da CDO."
+  },
+  "227007793": {
+   "fragment_id": "227007890",
+   "type": 11,
+   "heading": "Artigo 43.º — Funções de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Funções de gestão\n\nOs titulares dos órgãos directivos da CDO, nacionais e regionais, mantêm-se em funções de gestão após o termo dos respectivos mandatos até à posse dos novos titulares, a qual se deve dar no prazo máximo de 15 dias após o apuramento dos resultados eleitorais."
+  },
+  "227007794": {
+   "fragment_id": "227007891",
+   "type": 11,
+   "heading": "Artigo 44.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Votação\n\n1 - O voto pode ser exercido pessoalmente ou por correspondência.\n\n2 - A votação é feita, quer para os órgãos nacionais, quer para os órgãos regionais, na sede da secção a que o despachante oficial pertence.\n\n3 - Os eleitores cujo domicílio profissional não esteja situado no local onde se efectua a votação podem votar por correspondência.\n\n4 - Para efeito do disposto no número anterior, o voto é encerrado num sobrescrito em branco e incluído noutro dirigido ao presidente da assembleia geral e enviado para o local onde a mesma decorrer, através de correio registado ou por intermédio de outro despachante oficial que vá participar na assembleia.\n\n5 - Apenas são considerados os votos por correspondência que chegaram ao presidente, nas condições atrás referidas e até ao início dos trabalhos de apuramento da votação."
+  },
+  "227007795": {
+   "fragment_id": "227007892",
+   "type": 1,
+   "heading": "Capítulo IV — Referendos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Referendos internos"
+  },
+  "227007796": {
+   "fragment_id": "227007893",
+   "type": 11,
+   "heading": "Artigo 45.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Objecto\n\n1 - A CDO pode realizar, a nível nacional, referendos internos com carácter vinculativo aos seus membros, destinados a submeter a votação as questões que o conselho directivo considere suficientemente relevantes.\n\n2 - As questões devem ser formuladas com clareza e para respostas de sim ou não.\n\n3 - As questões referentes a matérias que o presente Estatuto cometa à competência deliberativa de qualquer órgão nacional só podem ser submetidas a referendo mediante autorização desse órgão."
+  },
+  "227007797": {
+   "fragment_id": "227007894",
+   "type": 11,
+   "heading": "Artigo 46.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Organização\n\n1 - Compete ao conselho directivo fixar a data do referendo interno e organizar o respectivo processo.\n\n2 - O teor das questões a submeter a referendo interno é divulgado junto de todos os membros da CDO e deve ser objecto de reuniões de esclarecimento e debate.\n\n3 - Sem prejuízo do disposto no número seguinte, as propostas de alteração às questões a submeter a referendo interno devem ser dirigidas por escrito ao conselho directivo, durante o período de esclarecimento e debate, por membros da CDO devidamente identificados.\n\n4 - As propostas de referendo interno subscritas por um mínimo de 20% dos membros da CDO no pleno gozo dos seus direitos não podem ser objecto de alteração."
+  },
+  "227007798": {
+   "fragment_id": "227007895",
+   "type": 11,
+   "heading": "Artigo 47.º — Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Efeitos\n\n1 - O efeito vinculativo do referendo interno depende de o número de votantes ser superior a metade dos membros efectivos inscritos nos cadernos eleitorais.\n\n2 - Quando se trate de propostas de dissolução da CDO, a aprovação carece do voto expresso de dois terços dos membros inscritos nos cadernos eleitorais.\n\n3 - Os resultados dos referendos internos são divulgados pelo conselho directivo após a recepção dos apuramentos parciais."
+  },
+  "227007799": {
+   "fragment_id": "227007896",
+   "type": 1,
+   "heading": "Capítulo V — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime financeiro"
+  },
+  "227007800": {
+   "fragment_id": "227007897",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "227007801": {
+   "fragment_id": "227007898",
+   "type": 11,
+   "heading": "Artigo 48.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Património\n\n1 - O património imobiliário da CDO é administrado pelo conselho directivo, com possibilidade de delegação nas direcções de secção com jurisdição na área onde se localize esse património.\n\n2 - A alienação, aquisição ou oneração de bens imobiliários da CDO carece de autorização da assembleia geral."
+  },
+  "227007802": {
+   "fragment_id": "227007899",
+   "type": 11,
+   "heading": "Artigo 49.º — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Receitas e despesas\n\n1 - O orçamento dos órgãos nacionais da CDO é suportado pelas secções na proporção do número de associados inscritos em cada uma.\n\n2 - As importâncias cobradas por cada uma das secções da CDO constituem receitas a inscrever no seu orçamento próprio, sendo administradas pelas respectivas direcções de secção.\n\n3 - Constituem despesas da responsabilidade do conselho directivo as imputáveis ao funcionamento dos órgãos nacionais e, ainda, todas aquelas que resultem de actividades que afectem a classe no seu conjunto.\n\n4 - Constituem despesas da responsabilidade das direcções de secção as imputáveis ao funcionamento dos órgãos regionais e, ainda, todas as que resultem de actividades que afectem o conjunto dos despachantes inscritos nas respectivas secções.\n\n5 - Não é permitida a consignação de receitas no orçamento da CDO.\n\n6 - As transferências de fundos são efectuadas de acordo com o que for estabelecido no regulamento anual de execução financeira."
+  },
+  "227007803": {
+   "fragment_id": "227007900",
+   "type": 11,
+   "heading": "Artigo 50.º — Enumeração das receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Enumeração das receitas\n\nSão receitas da CDO:\n\na) O produto das taxas de inscrição na CDO;\n\nb) O produto das quotas dos associados;\n\nc) O produto da venda de impressos de conta, fornecidos pela CDO;\n\nd) O produto da venda de selos de garantia e das taxas cobradas pelos serviços da CDO;\n\ne) O produto das penas disciplinares de natureza pecuniária;\n\nf) O produto da venda de outros impressos e as taxas correspondentes à prestação de serviços da CDO, designadamente as relativas à emissão das cédulas profissionais;\n\ng) Os donativos, heranças, doações e legados que venham a ser instituídos a seu favor;\n\nh) Quaisquer outras receitas eventuais."
+  },
+  "227007804": {
+   "fragment_id": "227007901",
+   "type": 11,
+   "heading": "Artigo 51.º — Movimentação das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Movimentação das despesas\n\nNenhuma despesa ou movimentação de conta pode ser efectuada sem a assinatura do presidente e do tesoureiro do respectivo órgão."
+  },
+  "227007805": {
+   "fragment_id": "227007902",
+   "type": 11,
+   "heading": "Artigo 52.º — Despesas efectuadas pelos titulares dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Despesas efectuadas pelos titulares dos órgãos\n\nAs despesas de viagem e respectivos seguros, assim como as refeições e estadas efectuadas pelos titulares dos órgãos da CDO, no desempenho das suas funções, são custeadas pelos orçamentos do conselho directivo ou das secções, conforme a qualidade em que intervenham."
+  },
+  "227007806": {
+   "fragment_id": "227007903",
+   "type": 8,
+   "heading": "Secção II — Orçamento e contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Orçamento e contas"
+  },
+  "227007807": {
+   "fragment_id": "227007904",
+   "type": 11,
+   "heading": "Artigo 53.º — Anualidade e aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Anualidade e aprovação\n\n1 - O orçamento e as contas da CDO são elaborados em correspondência com o ano civil.\n\n2 - O orçamento e as contas do conselho directivo e o orçamento e as contas de cada uma das secções, devidamente aprovados pelos respectivos órgãos, serão consolidados no orçamento e nas contas da CDO, após deliberação favorável da assembleia geral."
+  },
+  "227007808": {
+   "fragment_id": "227007905",
+   "type": 11,
+   "heading": "Artigo 54.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Orçamento\n\n1 - O orçamento da CDO será consolidado e conterá três capítulos referentes, respectivamente, ao conselho directivo, à Secção de Lisboa e à Secção do Porto.\n\n2 - A configuração do orçamento da CDO permitirá verificar, em cada rubrica e em cada total ou subtotal das receitas e das despesas, a divisão orçamental onde são geradas as receitas e aplicadas as despesas.\n\n3 - A proposta de orçamento consolidado a submeter à aprovação da assembleia geral resultará da integração do projecto de orçamento dos órgãos nacionais, a elaborar pelo conselho directivo, e dos projectos de orçamento dos órgãos regionais, a elaborar pelas direcções de secção.\n\n4 - O conselho deontológico e fiscalizador nacional deve juntar o seu parecer ao projecto de orçamento dos órgãos nacionais e à proposta de orçamento consolidado da CDO, e os conselhos deontológicos e fiscalizadores das secções devem juntar os seus pareceres aos projectos de orçamento das respectivas secções.\n\n5 - O conselho directivo e as direcções de secção podem apresentar à assembleia geral extraordinária e às assembleias de secção extraordinárias os orçamentos suplementares que julguem convenientes.\n\n6 - O conselho directivo e as direcções de secção elaboram o regulamento anual de execução financeira."
+  },
+  "227007809": {
+   "fragment_id": "227007906",
+   "type": 11,
+   "heading": "Artigo 55.º — Tramitação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Tramitação orçamental\n\n1 - Até 15 de Outubro o conselho directivo e as direcções de secção elaborarão, em separado, os respectivos projectos de orçamento contendo a previsão das receitas e despesas para o ano seguinte.\n\n2 - Entre 16 e 31 de Outubro será elaborada pelo conjunto dos três tesoureiros dos órgãos directivos a proposta de orçamento consolidado da CDO.\n\n3 - Entre 1 e 15 de Novembro os três órgãos reunirão para aprovar a proposta de consolidação do orçamento da CDO e acordar as disposições a incluir no regulamento anual de execução financeira."
+  },
+  "227007810": {
+   "fragment_id": "227007907",
+   "type": 11,
+   "heading": "Artigo 56.º — Documentos anexos ao orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Documentos anexos ao orçamento\n\nOs projectos de orçamentos dos órgãos nacionais e regionais, bem como a proposta de orçamento consolidado, devem conter em anexo os seguintes documentos:\n\na) Justificação da previsão das despesas e receitas, seus montantes e respectivas variações em relação a anos anteriores;\n\nb) Regulamento anual de execução financeira;\n\nc) Pareceres do conselho deontológico e fiscalizador nacional respeitantes ao projecto de orçamento do conselho directivo e à proposta de orçamento consolidado, bem como os pareceres dos conselhos deontológicos e fiscalizadores das secções respeitantes aos projectos de orçamento das secções."
+  },
+  "227007811": {
+   "fragment_id": "227007908",
+   "type": 11,
+   "heading": "Artigo 57.º — Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Contas\n\n1 - As contas devem ser apresentadas em cumprimento pelas regras estabelecidas no presente Estatuto para o orçamento.\n\n2 - As contas devem conter os montantes orçamentados e os montantes efectivamente realizados, bem como os respectivos desvios.\n\n3 - Os desvios negativos devem ser justificados pelos órgãos de gestão e apreciados nos pareceres dos conselhos deontológicos e fiscalizadores nacional e de secção.\n\n4 - As contas devem conter em anexo:\n\na) Os documentos justificativos da execução orçamental e das suas variações;\n\nb) Os relatórios dos conselhos deontológicos e fiscalizadores nacional e de secção."
+  },
+  "227007812": {
+   "fragment_id": "227007909",
+   "type": 11,
+   "heading": "Artigo 58.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Divulgação\n\n1 - A proposta de orçamento, as contas e os respectivos anexos serão enviados a todos os despachantes oficiais com a antecedência mínima de 10 dias sobre a data de realização da respectiva assembleia geral.\n\n2 - Os documentos justificativos das contas estarão disponíveis para consulta por qualquer despachante oficial na sede nacional da CDO e nas instalações das Secções de Lisboa e do Porto.\n\n3 - Os despachantes oficiais poderão consultar os documentos originais desde que o solicitem por escrito."
+  },
+  "227007813": {
+   "fragment_id": "227007910",
+   "type": 1,
+   "heading": "Capítulo VI — Direitos, deveres e incompatibilidades dos despachantes oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Direitos, deveres e incompatibilidades dos despachantes oficiais"
+  },
+  "227007814": {
+   "fragment_id": "227007911",
+   "type": 8,
+   "heading": "Secção I — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direitos e deveres"
+  },
+  "227007815": {
+   "fragment_id": "227007912",
+   "type": 11,
+   "heading": "Artigo 59.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Direitos\n\nOs despachantes oficiais gozam dos seguintes direitos:\n\na) Eleger e ser eleito, nos termos do presente Estatuto;\n\nb) Apresentar propostas, sugestões ou reclamações sobre assuntos que julguem de interesse da classe ou de seu interesse profissional;\n\nc) Frequentar as instalações da CDO;\n\nd) Examinar o orçamento e as contas dos vários órgãos da CDO nos oito dias anteriores à assembleia geral em que aqueles devem ser apresentados;\n\ne) Participar ao conselho deontológico e fiscalizador de secção os actos lesivos dos direitos estatutários;\n\nf) Recorrer das decisões disciplinares;\n\ng) Beneficiar da assistência técnica e jurídica prestada pela CDO;\n\nh) Beneficiar de isenção de quotas em caso de incapacidade para o exercício da profissão, reforma ou suspensão voluntária e temporária;\n\ni) Reclamar e recorrer dos actos e deliberações dos órgãos da CDO contrários à lei, aos estatutos e aos regulamentos;\n\nj) Ser informado regularmente de toda a actividade da CDO."
+  },
+  "227007816": {
+   "fragment_id": "227007913",
+   "type": 11,
+   "heading": "Artigo 60.º — Inscrição obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Inscrição obrigatória\n\n1 - Só podem usar o título de despachante oficial as pessoas como tal inscritas na CDO.\n\n2 - A inscrição na CDO só pode ser admitida quando requerida por pessoa que reúna os requisitos previstos na lei para o exercício da profissão, não podendo em tal caso ser recusada."
+  },
+  "227007817": {
+   "fragment_id": "227007914",
+   "type": 11,
+   "heading": "Artigo 61.º — Deveres sociais e deontológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Deveres sociais e deontológicos\n\nConstituem deveres sociais e deontológicos do despachante oficial:\n\na) Desempenhar os cargos para que seja designado pelos órgãos da CDO, salvo escusa justificada;\n\nb) Pagar a taxa de inscrição na CDO, as quotas, os selos de garantia e outras taxas e multas previstas nos presentes estatutos;\n\nc) Cumprir as disposições destes estatutos, os regulamentos emanados dos órgãos da CDO e as deliberações e directivas dos mesmos;\n\nd) Depositar na direcção da secção a que pertença, no prazo de 30 dias a contar da data da constituição da sociedade de despachantes oficiais de que seja sócio, um exemplar do pacto social;\n\ne) Comunicar à direcção da secção a que pertença qualquer alteração ao pacto social da sociedade de despachantes oficiais de que seja sócio, no prazo de 30 dias a contar da data da respectiva escritura;\n\nf) Utilizar em todas as suas contas os modelos de impressos definidos pelo conselho directivo;\n\ng) Não recusar sem motivo justificado a integração em comissões ou o exercício de actividades para que seja nomeado nos termos do disposto na alínea d) do artigo 23.º e da alínea h) do artigo 35.º;\n\nh) Colaborar em todas as iniciativas que concorram para o prestígio da CDO e para a defesa dos direitos e interesses legítimos dos despachantes oficiais;\n\ni) Agir com lealdade e correcção nas relações com os seus colegas;\n\nj) Apor na conta ou documento de natureza similar e por cada serviço prestado o selo de garantia;\n\nl) Comunicar à CDO, no prazo de 30 dias, qualquer mudança do domicílio profissional, bem como qualquer outra ocorrência relevante no seu estatuto profissional;\n\nm) Comunicar à CDO, para efeitos de participação ao Ministério Público, quaisquer factos detectados no exercício das suas funções que constituam crime público."
+  },
+  "227007818": {
+   "fragment_id": "227007915",
+   "type": 8,
+   "heading": "Secção II — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Incompatibilidades e impedimentos"
+  },
+  "227007819": {
+   "fragment_id": "227007916",
+   "type": 11,
+   "heading": "Artigo 62.º — Incompatibilidade para o exercício de cargos em órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Incompatibilidade para o exercício de cargos em órgãos sociais\n\nNão podem exercer cargos em órgãos da CDO os despachantes oficiais eleitos ou nomeados para cargos públicos."
+  },
+  "227007820": {
+   "fragment_id": "227007917",
+   "type": 11,
+   "heading": "Artigo 63.º — Impedimentos de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Impedimentos de elegibilidade\n\nNão são elegíveis para os órgãos da CDO os despachantes oficiais que:\n\na) Não se encontrem no pleno uso dos seus direitos;\n\nb) Tenham sofrido pena disciplinar igual ou superior a multa nos dois anos anteriores à data da eleição."
+  },
+  "227007821": {
+   "fragment_id": "227007918",
+   "type": 1,
+   "heading": "Capítulo VII — Requisitos para inscrição na CDO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Requisitos para inscrição na CDO"
+  },
+  "227007822": {
+   "fragment_id": "227007919",
+   "type": 11,
+   "heading": "Artigo 64.º — Inscrição na CDO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Inscrição na CDO\n\nSó podem requerer a inscrição na CDO as pessoas aprovadas:\n\na) No curso de acesso à profissão de despachante oficial;\n\nb) Nas provas de equivalência ao curso de acesso à profissão de despachante oficial."
+  },
+  "227007823": {
+   "fragment_id": "227007920",
+   "type": 1,
+   "heading": "Capítulo VIII — Acção disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Acção disciplinar"
+  },
+  "227007824": {
+   "fragment_id": "227007921",
+   "type": 11,
+   "heading": "Artigo 65.º — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Responsabilidade disciplinar\n\n1 - Os despachantes oficiais estão sujeitos à jurisdição disciplinar dos órgãos da CDO, nos termos previstos no presente Estatuto.\n\n2 - Comete infracção disciplinar o despachante oficial que, por acção ou omissão, violar dolosa ou negligentemente algum dos deveres fixados no presente Estatuto, no estatuto da profissão ou na legislação aduaneira.\n\n3 - A acção disciplinar é independente de eventual responsabilidade civil ou criminal."
+  },
+  "227007825": {
+   "fragment_id": "227007922",
+   "type": 11,
+   "heading": "Artigo 66.º — Instauração do processo disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Instauração do processo disciplinar\n\n1 - O processo disciplinar é instaurado mediante decisão dos conselhos deontológicos e fiscalizadores de secção ou do conselho deontológico e fiscalizador nacional, consoante o caso, por sua iniciativa ou a pedido de qualquer dos outros órgãos da CDO.\n\n2 - Os tribunais e demais autoridades públicas devem dar conhecimento à CDO da prática por despachantes oficiais de actos susceptíveis de constituírem infracção disciplinar.\n\n3 - O Ministério Público e as demais entidades com poderes de investigação criminal devem dar conhecimento à CDO das participações apresentadas contra despachantes oficiais por actos relacionados com o exercício da profissão."
+  },
+  "227007826": {
+   "fragment_id": "227007923",
+   "type": 11,
+   "heading": "Artigo 67.º — Prescrição do procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Prescrição do procedimento disciplinar\n\n1 - O procedimento disciplinar prescreve no prazo de três anos sobre a prática da infracção, salvo o disposto no número seguinte.\n\n2 - O procedimento disciplinar de titulares de órgãos da CDO prescreve no prazo de três anos sobre a cessação das respectivas funções.\n\n3 - As infracções disciplinares que constituam simultaneamente ilícito penal prescrevem no mesmo prazo que o procedimento criminal, quando este for superior.\n\n4 - A responsabilidade disciplinar permanece durante o período de suspensão da CDO, e não cessa pela demissão da CDO, relativamente a factos anteriormente praticados."
+  },
+  "227007827": {
+   "fragment_id": "227007924",
+   "type": 11,
+   "heading": "Artigo 68.º — Penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Penas\n\n1 - As penas disciplinares são as seguintes:\n\na) Advertência;\n\nb) Censura;\n\nc) Multa de 10000$00 a 200000$00;\n\nd) Suspensão até 6 meses;\n\ne) Suspensão de 6 meses a 2 anos;\n\nf) Suspensão de 2 a 10 anos.\n\n2 - A pena prevista na alínea d) só pode ser aplicada por infracção ao dever constante do artigo 61.º, alínea i), do presente Estatuto.\n\n3 - A pena prevista na alínea e) do n.º 1 aplica-se às infracções referidas no número anterior, em caso de acumulação.\n\n4 - A pena prevista na alínea f) do n.º 1 aplica-se às infracções referidas no n.º 2 em caso de reincidência.\n\n5 - Existe acumulação quando são praticados diversos tipos de infracções ou a mesma infracção é cometida várias vezes.\n\n6 - Existe reincidência quando seja cometida uma infracção dentro do prazo de cinco anos após o cometimento de infracção do mesmo tipo.\n\n7 - As penas de suspensão do exercício da profissão aplicam-se exclusivamente às infracções cometidas no exercício da profissão.\n\n8 - As penas previstas nas alíneas d), e) e f) devem ser comunicadas pela CDO à DGAIEC e publicadas no boletim oficial da CDO."
+  },
+  "227007828": {
+   "fragment_id": "227007925",
+   "type": 11,
+   "heading": "Artigo 69.º — Escolha e medida da pena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Escolha e medida da pena\n\nA escolha e a medida da pena são feitas em função da culpa do arguido, tendo em conta a gravidade e as consequências da infracção, os antecedentes profissionais e disciplinares e as demais circunstâncias da infracção."
+  },
+  "227007829": {
+   "fragment_id": "227007926",
+   "type": 11,
+   "heading": "Artigo 70.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Instrução\n\n1 - A instrução do processo disciplinar compreende as diligências necessárias ao apuramento da verdade material, devendo o relator remover os obstáculos ao seu regular e rápido andamento e, sem prejuízo do direito de defesa, recusar o que for inútil ou dilatório.\n\n2 - Até ao despacho de acusação o processo é secreto."
+  },
+  "227007830": {
+   "fragment_id": "227007927",
+   "type": 11,
+   "heading": "Artigo 71.º — Termo da instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Termo da instrução\n\n1 - Finda a instrução, o relator profere despacho de acusação ou emite parecer fundamentado em que conclua no sentido do arquivamento do processo.\n\n2 - Não sendo proferido despacho de acusação, o relator apresenta o parecer na primeira reunião do conselho deontológico e fiscalizador nacional ou de secção, consoante o caso, a fim de ser deliberado o arquivamento do processo, que este fique a aguardar melhor prova ou determinado que o mesmo prossiga com a realização de diligências suplementares ou com o despacho de acusação, podendo neste último caso ser designado novo relator."
+  },
+  "227007831": {
+   "fragment_id": "227007928",
+   "type": 11,
+   "heading": "Artigo 72.º — Despacho de acusação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Despacho de acusação\n\n1 - O despacho de acusação deve indicar a identidade do arguido, os factos imputados e as circunstâncias em que foram praticados, as normas legais e regulamentares infringidas, a prova e o prazo para a apresentação de defesa.\n\n2 - O arguido é notificado da acusação pessoalmente ou por carta registada com aviso de recepção, com a entrega da respectiva cópia."
+  },
+  "227007832": {
+   "fragment_id": "227007929",
+   "type": 11,
+   "heading": "Artigo 73.º — Defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Defesa\n\n1 - O prazo para apresentação de defesa é de 20 dias.\n\n2 - O arguido pode nomear para a sua defesa um representante especialmente mandatado para esse efeito.\n\n3 - A defesa deve expor clara e concisamente os factos e as razões que a fundamentam.\n\n4 - Com a defesa deve o arguido apresentar o rol de testemunhas, juntar documentos e requerer as diligências necessárias para o apuramento dos factos relevantes.\n\n5 - Não podem ser apresentadas mais de 5 testemunhas por cada facto, não podendo o total delas exceder 20."
+  },
+  "227007833": {
+   "fragment_id": "227007930",
+   "type": 11,
+   "heading": "Artigo 74.º — Alegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Alegações\n\nRealizadas as diligências a que se refere o artigo anterior e outras que sejam determinadas pelo relator, o interessado e o arguido são notificados para alegarem por escrito no prazo de 20 dias."
+  },
+  "227007834": {
+   "fragment_id": "227007931",
+   "type": 11,
+   "heading": "Artigo 75.º — Julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Julgamento\n\n1 - Finda a instrução, o processo é presente ao conselho deontológico e fiscalizador nacional ou de secção, consoante o caso, para julgamento, sendo lavrado e assinado o respectivo acórdão.\n\n2 - As penas de suspensão de 2 a 10 anos só podem ser aplicadas mediante decisão que obtenha dois terços dos votos de todos os membros do conselho deontológico e fiscalizador nacional ou de secção, consoante o caso.\n\n3 - Das deliberações do conselho deontológico e fiscalizador de secção cabe recurso para o conselho deontológico e fiscalizador nacional."
+  },
+  "227007835": {
+   "fragment_id": "227007932",
+   "type": 11,
+   "heading": "Artigo 76.º — Notificação do acórdão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Notificação do acórdão\n\n1 - Os acórdãos finais são imediatamente notificados ao arguido e aos interessados por carta registada com aviso de recepção, bem como à DGAIEC, e às entidades que tenham participado a infracção.\n\n2 - Para além do arguido podem recorrer das decisões em matéria disciplinar a DGAIEC e a entidade que haja participado a infracção."
+  },
+  "227007836": {
+   "fragment_id": "227007933",
+   "type": 11,
+   "heading": "Artigo 77.º — Processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Processo de inquérito\n\nPode ser ordenada a abertura de processo de inquérito sempre que não esteja concretizada a infracção ou não seja conhecido o seu autor, e quando seja necessário proceder a averiguações destinadas ao esclarecimento dos factos."
+  },
+  "227007837": {
+   "fragment_id": "227007934",
+   "type": 11,
+   "heading": "Artigo 78.º — Termo de instrução em processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Termo de instrução em processo de inquérito\n\n1 - Finda a instrução, o relator emite um parecer fundamentado em que propõe o prosseguimento do processo como disciplinar ou o seu arquivamento, consoante considere existirem ou não indícios suficientes da prática de infracção disciplinar.\n\n2 - O relator apresenta o seu parecer em reunião do conselho deontológico e fiscalizador nacional ou de secção, consoante o caso, que delibera no sentido de o processo prosseguir como disciplinar, ser arquivado ou de serem realizadas diligências complementares.\n\n3 - Caso o parecer não seja aprovado, pode ser designado novo relator de entre os membros do conselho que façam vencimento."
+  },
+  "227007838": {
+   "fragment_id": "227007935",
+   "type": 11,
+   "heading": "Artigo 79.º — Execução das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Execução das decisões\n\n1 - Compete ao conselho directivo e às direcções das secções, consoante o caso, dar execução às decisões disciplinares, podendo essa competência ser delegada na direcção da secção onde o arguido tenha domicílio profissional.\n\n2 - O cumprimento da pena de suspensão tem início a partir do dia da respectiva notificação.\n\n3 - Se à data do início da suspensão estiver suspensa ou cancelada a inscrição do arguido, o cumprimento da pena de suspensão tem início a partir do dia imediato àquele em que tiver lugar o levantamento da suspensão da inscrição, ou a reinscrição, ou a partir do termo da execução da data em que termina a execução da anterior pena de suspensão."
+  },
+  "227007839": {
+   "fragment_id": "227007936",
+   "type": 11,
+   "heading": "Artigo 80.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Revisão\n\n1 - As decisões disciplinares definitivas podem ser revistas a pedido do interessado, com fundamento em novos factos ou novas provas, susceptíveis de alterar o sentido daquelas, ou quando outra decisão definitiva considerar falsos elementos de prova determinantes da decisão a rever.\n\n2 - A concessão de revisão depende de deliberação pela maioria absoluta dos membros do órgão que proferiu a decisão disciplinar."
+  },
+  "227007840": {
+   "fragment_id": "227007937",
+   "type": 11,
+   "heading": "Artigo 81.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Direito subsidiário\n\nEm tudo o que não estiver previsto no presente Estatuto aplica-se subsidiariamente o Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local."
+  },
+  "225446239": {
+   "fragment_id": "225445336",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Abril de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 5 de Junho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 17 de Junho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "227007841": {
+   "fragment_id": "225445341",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2001-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-03"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nA CDO tem as seguintes atribuições:\n\na) Verificar os requisitos legais de acesso à profissão de despachante oficial e organizar os exames e provas previstos na lei e no presente Estatuto;\n\nb) Atribuir o título profissional, de acordo com a legislação aplicável;\n\nc) Elaborar e manter actualizado o registo oficial dos membros da profissão;\n\nd) Participar na elaboração da legislação relativa à Câmara e ao Estatuto dos Despachantes Oficiais;\n\ne) Fiscalizar o exercício da profissão, verificando e assegurando, relativamente aos seus membros, o respeito pelos condicionamentos, incompatibilidades e impedimentos, bem como a observância das regras de deontologia profissional;\n\nf) Defender os direitos e interesses legítimos dos seus membros no que respeite ao exercício da profissão;\n\ng) Promover o aperfeiçoamento profissional e o apoio aos seus membros;\n\nh) Zelar pela dignidade e prestígio da profissão;\n\ni) Reforçar a solidariedade entre os seus membros.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-03"
+  },
+  "227007842": {
+   "fragment_id": "227007914",
+   "type": 11,
+   "heading": "Artigo 61.º — Deveres sociais e deontológicos",
+   "in_force_from": "2001-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-03"
+   ],
+   "markdown": "###### Artigo 61.º — Deveres sociais e deontológicos\n\n1 - Constituem deveres sociais e deontológicos do despachante oficial:\n\na) Desempenhar os cargos para que seja designado pelos órgãos da CDO, salvo escusa justificada;\n\nb) Pagar a taxa de inscrição na CDO, as quotas, os selos de garantia e outras taxas e multas previstas nos presentes estatutos;\n\nc) Cumprir as disposições destes estatutos, os regulamentos emanados dos órgãos da CDO e as deliberações e directivas dos mesmos;\n\nd) Depositar na direcção da secção a que pertença, no prazo de 30 dias a contar da data da constituição da sociedade de despachantes oficiais de que seja sócio, um exemplar do pacto social;\n\ne) Comunicar à direcção da secção a que pertença qualquer alteração ao pacto social da sociedade de despachantes oficiais de que seja sócio, no prazo de 30 dias a contar da data da respectiva escritura;\n\nf) Utilizar em todas as suas contas os modelos de impressos definidos pelo conselho directivo;\n\ng) Não recusar sem motivo justificado a integração em comissões ou o exercício de actividades para que seja nomeado nos termos do disposto na alínea d) do artigo 23.º e da alínea h) do artigo 35.º;\n\nh) Colaborar em todas as iniciativas que concorram para o prestígio da CDO e para a defesa dos direitos e interesses legítimos dos despachantes oficiais;\n\ni) Agir com lealdade e correcção nas relações com os seus colegas;\n\nj) Apor na conta ou documento de natureza similar e por cada serviço prestado o selo de garantia;\n\nl) Comunicar à CDO, no prazo de 30 dias, qualquer mudança do domicílio profissional, bem como qualquer outra ocorrência relevante no seu estatuto profissional;\n\nm) Comunicar à CDO, para efeitos de participação ao Ministério Público, quaisquer factos detectados no exercício das suas funções que constituam crime público.\n\n2 - Todas as quantias devidas à CDO, designadamente por quotas, vinhetas, taxas, multas ou por quaisquer serviços, serão pagas nos prazos concedidos para o efeito, que não poderão ser inferiores a 15 dias, cabendo ao respectivo tesoureiro notificar o despachante oficial, por carta registada com aviso de recepção, para proceder ao seu pagamento.\n\n3 - Na falta de pagamento voluntário, será suspensa a inscrição do despachante oficial pelo período que durar o incumprimento, comunicando-se-lhe esta decisão, devendo o tesoureiro extrair a respectiva certidão de dívida, a qual constitui título executivo.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-03"
+  },
+  "227007843": {
+   "fragment_id": "227007921",
+   "type": 11,
+   "heading": "Artigo 65.º — Responsabilidade disciplinar",
+   "in_force_from": "2001-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-03"
+   ],
+   "markdown": "###### Artigo 65.º — Responsabilidade disciplinar\n\n1 - Os despachantes oficiais estão sujeitos à jurisdição disciplinar dos órgãos da CDO, nos termos previstos no presente Estatuto.\n\n2 - Comete infracção disciplinar o despachante oficial que, por acção ou omissão, violar dolosa ou negligentemente algum dos deveres fixados no presente Estatuto, no estatuto da profissão ou infrinja, revelando falta de idoneidade ético-profissional, a legislação em vigor.\n\n3 - A acção disciplinar é independente de eventual responsabilidade civil ou criminal.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-03"
+  },
+  "227007844": {
+   "fragment_id": "227007924",
+   "type": 11,
+   "heading": "Artigo 68.º — Penas",
+   "in_force_from": "2001-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-03"
+   ],
+   "markdown": "###### Artigo 68.º — Penas\n\n1 - As penas disciplinares são as seguintes:\n\na) Advertência;\n\nb) Censura;\n\nc) Multa de 10000$00 a 200000$00;\n\nd) Suspensão até 6 meses;\n\ne) Suspensão de 6 meses a 2 anos;\n\nf) Suspensão de 2 a 10 anos.\n\n2 - A pena prevista na alínea d) só pode ser aplicada por infracção disciplinar que configure negligência grave ou acentuado desinteresse pelo cumprimento dos deveres e obrigações profissionais.\n\n3 - A pena prevista na alínea e) só pode ser aplicada por infracção disciplinar que afecte gravemente a dignidade e o prestígio profissional de despachante oficial.\n\n4 - A pena prevista na alínea f) é aplicável quando tenha sido cometida infracção disciplinar que constitua também crime punível com pena de prisão superior a dois anos.\n\n5 - Existe acumulação quando são praticados diversos tipos de infracções ou a mesma infracção é cometida várias vezes.\n\n6 - Existe reincidência quando seja cometida uma infracção dentro do prazo de cinco anos após o cometimento de infracção do mesmo tipo.\n\n7 - As penas de suspensão só podem ser aplicadas por deliberação unânime dos membros do respectivo órgão disciplinar.\n\n8 - As penas previstas nas alíneas d), e) e f) devem ser comunicadas pela CDO à DGAIEC e publicadas no boletim oficial da CDO.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-03"
+  },
+  "227007845": {
+   "fragment_id": "227007935",
+   "type": 11,
+   "heading": "Artigo 79.º — Execução das decisões",
+   "in_force_from": "2001-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-03"
+   ],
+   "markdown": "###### Artigo 79.º — Execução das decisões\n\n1 - Compete ao conselho directivo e às direcções das secções, consoante o caso, dar execução às decisões disciplinares, podendo essa competência ser delegada na direcção da secção onde o arguido tenha domicílio profissional.\n\n2 - O cumprimento da pena de suspensão tem início a partir do dia da respectiva notificação.\n\n3 - Se à data do início da suspensão estiver suspensa ou cancelada a inscrição do arguido, o cumprimento da pena de suspensão tem início a partir do dia imediato àquele em que tiver lugar o levantamento da suspensão da inscrição, ou a reinscrição, ou a partir do termo da execução da data em que termina a execução da anterior pena de suspensão.\n\n4 - Quando, na pendência de processo disciplinar ou de cumprimento de pena de suspensão, o despachante oficial pedir o cancelamento da cédula ou a suspensão da inscrição na CDO, só poderá exercer a actividade de representação perante a alfândega, sob qualquer forma, após a conclusão do processo ou o cumprimento da pena de suspensão aplicada.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-03"
+  },
+  "228137262": {
+   "fragment_id": "225445340",
+   "type": 11,
+   "heading": "Artigo 2.º — Secções e delegações",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 2.º — Secções e delegações\n\n1 - A CDO compreende as secções de Lisboa e do Porto que exercem as funções previstas no presente Estatuto.\n\n2 - A secção de Lisboa integra os despachantes oficiais com domicílio profissional nas áreas correspondentes aos distritos de Faro, Beja, Évora, Portalegre, Setúbal, Lisboa, Santarém e Leiria e nas Regiões Autónomas dos Açores e da Madeira.\n\n3 - A secção do Porto integra os despachantes oficiais com domicílio profissional nas áreas correspondentes aos distritos de Viana do Castelo, Braga, Porto, Vila Real, Bragança, Viseu, Aveiro, Castelo Branco, Guarda e Coimbra.\n\n4 - Por deliberação do conselho directivo podem ser criadas delegações locais que exercem as funções que por este órgão sejam fixadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137263": {
+   "fragment_id": "225445344",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1 - São órgãos da CDO:\n\na) A assembleia geral;\n\nb) O presidente da CDO;\n\nc) O conselho directivo;\n\nd) O conselho deontológico e fiscalizador.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137264": {
+   "fragment_id": "225445345",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsabilidade dos órgãos",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 5.º — Responsabilidade dos órgãos\n\nO presidente da CDO, o conselho directivo e o conselho deontológico e fiscalizador respondem perante a assembleia geral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137265": {
+   "fragment_id": "225445346",
+   "type": 11,
+   "heading": "Artigo 6.º — Eleição e duração dos mandatos",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 6.º — Eleição e duração dos mandatos\n\n1 - O presidente da CDO e todos os membros dos restantes órgãos são eleitos em assembleia geral.\n\n2 - O mandato dos membros dos órgãos da CDO tem a duração de três anos.\n\n3 - Os membros da CDO ou os titulares dos seus órgãos que tenham sido eleitos membros de órgãos sociais de quaisquer organizações ou associações nacionais, internacionais ou comunitárias transmitem ao conselho directivo o conteúdo da sua actividade, devendo a CDO conferir-lhes meios logísticos para o exercício dos seus cargos até ao fim dos respectivos mandatos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137266": {
+   "fragment_id": "225445347",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade dos presidentes",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 7.º — Elegibilidade dos presidentes\n\nSó podem ser eleitos presidente da CDO e presidentes dos restantes órgãos os despachantes oficiais com mais de cinco anos de profissão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137267": {
+   "fragment_id": "225445350",
+   "type": 11,
+   "heading": "Artigo 9.º — Mesa",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 9.º — Mesa\n\n1 - A mesa da assembleia geral é composta por um presidente, por um vice-presidente e por um secretário.\n\n2 - Pelo menos um dos lugares de membro da mesa da assembleia geral referidos no número anterior é preenchido por um despachante oficial inscrito na secção de Lisboa e outro por despachante oficial inscrito na secção do Porto, sendo, nos seus impedimentos e ausências, substituídos por despachantes oficiais designados pelo presidente ou eleitos pela assembleia geral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137268": {
+   "fragment_id": "225445352",
+   "type": 11,
+   "heading": "Artigo 11.º — Local das reuniões",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 11.º — Local das reuniões\n\n1 - A assembleia geral reúne em local a designar pelo presidente, alternadamente nas áreas das Secções de Lisboa e do Porto.\n\n2 - O presidente pode alterar a regra da alternância por motivos devidamente justificados, os quais devem constar do respectivo aviso convocatório.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137269": {
+   "fragment_id": "225445355",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 14.º — Competências\n\nSão competências da assembleia geral:\n\na) Votar o orçamento, as contas com os respectivos anexos, o parecer do conselho deontológico e fiscalizador e o orçamento suplementar;\n\nb) Eleger os titulares dos órgãos da CDO;\n\nc) Destituir os titulares dos órgãos da CDO;\n\nd) Votar propostas de alteração do estatuto;\n\ne) Votar os regulamentos internos necessários ao bom funcionamento dos órgãos da CDO;\n\nf) Fixar o montante da taxa de inscrição na CDO e das quotas a pagar pelos seus membros;\n\ng) Fixar o valor dos selos de garantia;\n\nh) Aprovar as normas para a substituição do despachante oficial nos seus impedimentos e o regime de suspensão voluntária do exercício da actividade;\n\ni) Deliberar sobre qualquer assunto que se enquadre no âmbito das atribuições da CDO, com excepção dos assuntos da competência de outros órgãos;\n\nj) Aprovar o código deontológico da profissão, sob proposta do conselho deontológico e fiscalizador.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137270": {
+   "fragment_id": "225445356",
+   "type": 11,
+   "heading": "Artigo 15.º — Reuniões ordinárias",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 15.º — Reuniões ordinárias\n\n1 - A assembleia geral reúne ordinariamente em Março e Dezembro de cada ano.\n\n2 - Na reunião de Março são submetidos a aprovação o relatório e contas do ano económico anterior.\n\n3 - Na reunião de Dezembro é submetido a aprovação o orçamento para o ano económico seguinte e, de três em três anos, tem igualmente lugar a assembleia geral para eleição dos membros dos órgãos sociais e do presidente da CDO.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137271": {
+   "fragment_id": "225445357",
+   "type": 11,
+   "heading": "Artigo 16.º — Reuniões extraordinárias",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 16.º — Reuniões extraordinárias\n\n1 - As reuniões extraordinárias são convocadas por iniciativa do presidente da assembleia geral, por quem o substitua ou a solicitação:\n\na) De qualquer outro órgão da CDO que nesse sentido expressamente tenha deliberado por maioria simples;\n\nb) (Revogada.)\n\nc) De, pelo menos, 10% do número total de despachantes oficiais no pleno uso dos seus direitos.\n\n2 - O pedido de convocação da assembleia geral extraordinária deve ser formulado por escrito e indicar a respectiva ordem de trabalhos e o local onde a reunião terá lugar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137272": {
+   "fragment_id": "225445358",
+   "type": 11,
+   "heading": "Artigo 17.º — Moções de louvor e de censura",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 17.º — Moções de louvor e de censura\n\n1 - É permitida a apresentação de moções de louvor e de censura aos órgãos da CDO ou aos seus titulares, que só podem ser aceites se forem subscritas por, pelo menos, 30 despachantes oficiais presentes na assembleia, caso em que são obrigatoriamente submetidas a votação.\n\n2 - Se um órgão ou algum dos seus titulares for objecto de duas moções de censura durante o mesmo mandato, votadas favoravelmente em assembleias diferentes, todos os titulares desse órgão ou o referido titular, consoante o caso, são imediatamente destituídos com a aprovação da segunda moção.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137273": {
+   "fragment_id": "225445359",
+   "type": 11,
+   "heading": "Artigo 18.º — Eleições intercalares",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 18.º — Eleições intercalares\n\n1 - Caso se verifique a destituição ou demissão de todos os titulares de qualquer órgão da CDO, estes continuarão em funções com meros poderes de gestão até à tomada de posse dos novos titulares, que serão eleitos de acordo com os procedimentos eleitorais previstos no presente Estatuto, para o efeito imediatamente desencadeados.\n\n2 - O mandato dos titulares dos órgãos eleitos nos termos do número anterior termina no final do mandato que se encontre em curso para os restantes órgãos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137274": {
+   "fragment_id": "225445360",
+   "type": 11,
+   "heading": "Artigo 19.º — Maiorias",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 19.º — Maiorias\n\n1 - Sem prejuízo do disposto no número seguinte, as deliberações da assembleia geral são tomadas à pluralidade de votos dos membros presentes e representados.\n\n2 - As deliberações relativas às matérias enunciadas nas alíneas d), e), f), g), h) e j) do artigo 14.º são aprovadas por dois terços dos votos validamente expressos pelos membros presentes, com excepção da extinção de secções, que observa o disposto no artigo 47.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859075": {
+   "fragment_id": "225445361",
+   "type": 11,
+   "heading": "Artigo 20.º — Apoio administrativo",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 20.º — Apoio administrativo\n\n1 - O conselho directivo assegura as condições materiais para o bom funcionamento das reuniões da assembleia geral.\n\n2 - O presidente da assembleia geral ordena a publicação em circular dos documentos que julgue necessário divulgar a todos os despachantes oficiais antes da realização da assembleia geral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228137261": {
+   "fragment_id": "228137355",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Presidente da CDO",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 20.º-A — Presidente da CDO\n\n1 - Ao presidente da CDO eleito em assembleia geral compete:\n\na) Convocar e presidir ao conselho directivo;\n\nb) Representar a CDO a nível nacional e internacional;\n\nc) Chefiar as representações da CDO em reuniões nacionais e internacionais e definir a respectiva composição;\n\nd) Representar a CDO em juízo e fora dele e obrigá-la em todos os actos e contratos.\n\n2 - O presidente da CDO pode delegar os seus poderes em qualquer membro do conselho directivo e é substituído, nas suas ausências ou impedimentos, pelo vice-presidente para o efeito designado por si ou pelo conselho directivo.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859114": {
+   "fragment_id": "225445362",
+   "type": 8,
+   "heading": "Secção III — Presidente da CDO e conselho directivo",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "#### Secção III — Presidente da CDO e conselho directivo\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859076": {
+   "fragment_id": "225445363",
+   "type": 11,
+   "heading": "Artigo 21.º — Composição do conselho directivo",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 21.º — Composição do conselho directivo\n\n1 - O conselho directivo é composto por:\n\na) Presidente da CDO;\n\nb) Um vice-presidente da área da secção de Lisboa;\n\nc) Um vice-presidente da área da secção do Porto;\n\nd) Um vogal da área da secção de Lisboa;\n\ne) Um vogal da área da secção do Porto.\n\n2 - Na sua primeira reunião, o conselho directivo elege, de entre os vogais, um tesoureiro.\n\n3 - Pode ainda participar nas reuniões do conselho directivo, sem direito a voto e quando para o efeito for convocado, o último presidente do conselho directivo ou da CDO.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859092": {
+   "fragment_id": "225445364",
+   "type": 11,
+   "heading": "Artigo 22.º — Sede",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 22.º — Sede\n\n1 - O conselho directivo reúne na sede da CDO ou onde for entendido mais conveniente.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859093": {
+   "fragment_id": "225445365",
+   "type": 11,
+   "heading": "Artigo 23.º — Competências do conselho directivo",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 23.º — Competências do conselho directivo\n\nAo conselho directivo compete:\n\n1 - Ao conselho directivo compete:\n\na) Coordenar e zelar pelos direitos e interesses legítimos dos despachantes oficiais em tudo o que respeite ao exercício da sua profissão;\n\nb) Elaborar o seu regulamento interno e emitir as directivas necessárias ao bom cumprimento do presente Estatuto;\n\nc) Submeter à assembleia geral a aprovação dos orçamentos ordinário e suplementares, do relatório e contas do exercício anterior, bem como do respectivo parecer do conselho deontológico e fiscalizador;\n\nd) Nomear comissões para a execução de trabalhos excepcionais;\n\ne) Propor à assembleia geral a fixação do valor dos selos de garantia;\n\nf) Nomear despachantes oficiais para integrar comissões ou exercer actividades de interesse para a profissão, bem como nomear despachantes oficiais por escala, para actividades que considere necessárias;\n\ng) Editar o boletim da CDO, que sairá, pelo menos, uma vez por ano e conterá obrigatoriamente a lista actualizada dos despachantes oficiais;\n\nh) Gerir o orçamento da CDO e administrar o seu património;\n\ni) Ocupar-se de tudo o que respeite à negociação e contratação global de benefícios sociais para os despachantes oficiais;\n\nj) (Revogada.)\n\nl) Organizar os referendos internos;\n\nm) (Revogada.)\n\nn) Organizar os exames e provas previstos na lei e no presente Estatuto para acesso à profissão de despachante oficial;\n\no) Atribuir o título profissional;\n\np) Elaborar e manter actualizado o registo oficial dos membros da CDO e das sociedades de despachantes oficiais validamente constituídas;\n\nq) Participar na elaboração legislativa relativa à CDO e ao Estatuto dos Despachantes Oficiais;\n\nr) Regular os requisitos da conta modelo aprovada como equivalente a factura, de acordo com a legislação vigente;\n\ns) Promover a solidariedade entre os despachantes oficiais e entre os titulares dos órgãos sociais;\n\nt) Estabelecer e desenvolver as relações internacionais e com os órgãos da administração central, regional e local;\n\nu) Executar as deliberações do conselho deontológico e fiscalizador;\n\nv) Fixar o valor das taxas pelos serviços prestados;\n\nx) Propor a criação de secções;\n\nz) Contratar o director executivo;\n\naa) Promover a formação profissional dos despachantes oficiais;\n\nab) Aprovar o pacto social das sociedades de despachantes oficiais ou a sua alteração, de acordo com critérios de mera legalidade e de verificação do cumprimento das regras sociais e deontológicas da actividade de despachante oficial.\n\n2 - Decorridos 30 dias sobre a data de apresentação do projecto a que se refere a alínea ab) do número anterior, considera-se para todos os efeitos como aprovado o pacto social ou a sua alteração.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859094": {
+   "fragment_id": "225445366",
+   "type": 11,
+   "heading": "Artigo 24.º — Reuniões e deliberações",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 24.º — Reuniões e deliberações\n\n1 - O conselho directivo reúne por iniciativa do presidente da CDO ou de dois membros deste conselho.\n\n2 - O conselho directivo só se considera validamente constituído com a presença do presidente da CDO, ou de quem o substituir, e da maioria simples dos seus membros.\n\n3 - O conselho directivo delibera validamente com os votos favoráveis da maioria simples dos seus membros presentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859115": {
+   "fragment_id": "225445367",
+   "type": 8,
+   "heading": "Secção IV — Conselho deontológico e fiscalizador",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "#### Secção IV — Conselho deontológico e fiscalizador\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859095": {
+   "fragment_id": "225445368",
+   "type": 11,
+   "heading": "Artigo 25.º — Composição",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 25.º — Composição\n\n1 - O conselho deontológico e fiscalizador funciona na sede da CDO e é composto por:\n\na) Presidente;\n\nb) Vice-presidente da área da secção de Lisboa;\n\nc) Vice-presidente da área da secção do Porto;\n\nd) Um vogal da área da secção de Lisboa;\n\ne) Um vogal da área da secção do Porto.\n\n2 - No caso de ausência ou impedimento do presidente, este é substituído pelo vice-presidente que aquele ou o conselho designar.\n\n3 - O presidente tem voto de qualidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859096": {
+   "fragment_id": "225445369",
+   "type": 11,
+   "heading": "Artigo 26.º — Competências",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 26.º — Competências\n\n1 - Ao conselho deontológico e fiscalizador compete:\n\na) Orientar, fiscalizar e disciplinar, no âmbito deontológico, a actividade profissional dos despachantes oficiais;\n\nb) Fiscalizar e dar parecer sobre as contas do conselho directivo, em especial, e as contas da CDO, em geral;\n\nc) Publicar todos os documentos respeitantes à deontologia profissional;\n\nd) Promover e difundir o respeito pelas normas éticas da profissão;\n\ne) Analisar os problemas deontológicos decorrentes da actividade profissional;\n\nf) Fiscalizar o comportamento deontológico dos órgãos da CDO e dos respectivos titulares;\n\ng) Exercer o poder disciplinar sobre os titulares dos órgãos da CDO;\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) Mandar proceder aos inquéritos que entenda por convenientes;\n\nl) Fiscalizar a utilização das contas modelo;\n\nm) Elaborar o seu regulamento interno.\n\n2 - O conselho deontológico e fiscalizador pode contratar profissionais para o auxiliarem no exercício das suas funções, não podendo os contratos exceder o prazo restante do mandato dos respectivos membros.\n\n3 - O conselho deontológico e fiscalizador pode fazer-se representar por um dos seus membros nas reuniões do conselho directivo, sem direito a voto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859097": {
+   "fragment_id": "225445370",
+   "type": 11,
+   "heading": "Artigo 27.º — Reuniões e deliberações",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 27.º — Reuniões e deliberações\n\n1 - No exercício das suas competências deontológicas, o conselho deontológico e fiscalizador reúne com a periodicidade que julgar necessária, devendo reunir, para o exercício das suas competências de fiscalização, pelo menos, uma vez em cada trimestre.\n\n2 - O conselho pode delegar, caso a caso, em qualquer dos seus membros as suas competências, com excepção da prevista na alínea g) do n.º 1 do artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859136": {
+   "fragment_id": "225445371",
+   "type": 8,
+   "heading": "Secção V — Assembleias de secção",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "#### Secção V — Assembleias de secção\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859137": {
+   "fragment_id": "225445372",
+   "type": 11,
+   "heading": "Artigo 28.º — Composição",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 28.º — Composição\n\n1 - A assembleia de secção é composta por todos os despachantes oficiais no pleno uso dos seus direitos que na área da respectiva jurisdição tenham o seu domicílio profissional.\n\n2 - Podem participar na assembleia, sem direito a voto, os despachantes oficiais pertencentes a outra secção.\n\n3 - A mesa da assembleia é composta por um presidente e dois secretários.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859138": {
+   "fragment_id": "225445373",
+   "type": 11,
+   "heading": "Artigo 29.º — Regras supletivas",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 29.º — Regras supletivas\n\nÀs assembleias de secção são aplicáveis, com as necessárias adaptações, as disposições estabelecidas no presente estatuto para a assembleia geral.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859139": {
+   "fragment_id": "225445374",
+   "type": 11,
+   "heading": "Artigo 30.º — Local das reuniões",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 30.º — Local das reuniões\n\nAs assembleias de secção reúnem no local onde têm as suas instalações ou no local para o efeito designado pelo seu presidente, mas sempre dentro da respectiva área de jurisdição.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859140": {
+   "fragment_id": "227007875",
+   "type": 11,
+   "heading": "Artigo 31.º — Competências",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 31.º — Competências\n\nA cada assembleia de secção compete:\n\na) Deliberar sobre todas as matérias que respeitem aos despachantes oficiais da secção, sem prejuízo da competência dos restantes órgãos regionais;\n\nb) Eleger e destituir os membros dos órgãos de secção;\n\nc) Discutir e votar o orçamento e as contas e votar o parecer do conselho deontológico e fiscalizador de secção;\n\nd) Requerer a convocação da assembleia geral extraordinária.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859141": {
+   "fragment_id": "227007876",
+   "type": 11,
+   "heading": "Artigo 32.º — Moções de louvor e de censura",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 32.º — Moções de louvor e de censura\n\n1 - Nas assembleias de secção só podem ser apresentadas e votadas moções de louvor e de censura dirigidas aos órgãos regionais ou aos seu titulares e desde que respeitado o preceituado no n.º 1 do artigo 17.º\n\n2 - A destituição dos titulares de um órgão regional ocorrerá com a aprovação de duas moções de censura aprovadas em diferentes assembleias da mesma secção.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859142": {
+   "fragment_id": "227007877",
+   "type": 8,
+   "heading": "Secção VI — Direcções de secção",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "#### Secção VI — Direcções de secção\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859143": {
+   "fragment_id": "227007878",
+   "type": 11,
+   "heading": "Artigo 33.º — Composição",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 33.º — Composição\n\n1 - Cada direcção de secção é composta por um presidente, um vice-presidente, um director tesoureiro e dois suplentes.\n\n2 - Os membros suplentes substituem os restantes membros da direcção em caso de impedimento ou vacatura.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859144": {
+   "fragment_id": "227007879",
+   "type": 11,
+   "heading": "Artigo 34.º — Sede",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 34.º — Sede\n\nAs secções têm sede em local a designar nas áreas correspondentes aos distritos de Lisboa e do Porto.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859145": {
+   "fragment_id": "227007880",
+   "type": 11,
+   "heading": "Artigo 35.º — Competências",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 35.º — Competências\n\nA cada direcção de secção compete:\n\na) Dirigir todos os assuntos relativos à actividade da secção;\n\nb) Representar a secção;\n\nc) Gerir o orçamento da secção e administrar o património mobiliário;\n\nd) Participar ao conselho deontológico e fiscalizador de secção quaisquer ocorrências passíveis de procedimento disciplinar;\n\ne) Requerer a convocação da assembleia extraordinária de secção sempre que o julgue necessário;\n\nf) Submeter à assembleia de secção o orçamento e as contas da secção referentes ao ano económico findo, acompanhadas do relatório do conselho deontológico e fiscalizador da secção;\n\ng) Executar as deliberações do conselho deontológico e fiscalizador da secção, em matéria disciplinar;\n\nh) Nomear despachantes oficiais para a realização de actividades sociais ou profissionais, de acordo com uma escala previamente elaborada.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859146": {
+   "fragment_id": "227007881",
+   "type": 11,
+   "heading": "Artigo 36.º — Reuniões e deliberações",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 36.º — Reuniões e deliberações\n\nA direcção de secção reúne, pelo menos, duas vezes por mês.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859147": {
+   "fragment_id": "227007882",
+   "type": 8,
+   "heading": "Secção VII — Conselhos deontológicos e fiscalizadores das secções",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "#### Secção VII — Conselhos deontológicos e fiscalizadores das secções\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859148": {
+   "fragment_id": "227007883",
+   "type": 11,
+   "heading": "Artigo 37.º — Composição",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 37.º — Composição\n\n1 - Cada conselho deontológico e fiscalizador de secção é composto por um presidente e dois assessores.\n\n2 - No caso de impedimento ou vacatura do lugar de presidente este é substituído pelo assessor mais antigo.\n\n3 - O presidente tem voto de qualidade.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859149": {
+   "fragment_id": "227007884",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 38.º — Competências\n\n1 - Aos conselhos deontológicos e fiscalizadores de secção compete:\n\na) Exercer as competências reconhecidas ao conselho deontológico e fiscalizador nacional pelas alíneas a), b) e c) do n.º 1 do artigo 26.º do presente Estatuto na respectiva área de jurisdição;\n\nb) Solicitar, sempre que julgue necessário, uma reunião do conselho deontológico e fiscalizador nacional para apreciação de qualquer assunto da sua competência;\n\nc) Difundir e aplicar as normas emanadas pelo conselho deontológico e fiscalizador nacional;\n\nd) Superintender nos serviços de controlo dos selos de garantia;\n\ne) Mandar proceder aos inquéritos que tenha por convenientes;\n\nf) Exercer o poder disciplinar sobre os despachantes oficiais, sem prejuízo do disposto na alínea g) do n.º 1 do artigo 26.º;\n\ng) Fiscalizar e dar parecer sobre as contas da secção respectiva, nomeadamente quanto ao cabimento das despesas e à sua legalidade ou tramitação processual;\n\nh) Dar parecer sobre o orçamento da secção.\n\n2 - O conselho deontológico ou fiscalizador de secção pode fazer-se representar por um dos seus membros nas reuniões da direcção respectiva, sem direito a voto.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859150": {
+   "fragment_id": "227007885",
+   "type": 11,
+   "heading": "Artigo 39.º — Reuniões e deliberações",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 39.º — Reuniões e deliberações\n\nNo exercício das suas competências deontológicas os conselhos deontológicos e fiscalizadores de secção reúnem com a periodicidade que julguem necessária, devendo reunir, para o exercício das suas competências de fiscalização, pelo menos, uma vez em cada trimestre.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859122": {
+   "fragment_id": "228137359",
+   "type": 1,
+   "heading": "Capítulo III — Secções e estruturas de apoio",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "### Capítulo III — Secções e estruturas de apoio\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859129": {
+   "fragment_id": "228137360",
+   "type": 11,
+   "heading": "Artigo 39.º-A — Gestão das secções",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 39.º-A — Gestão das secções\n\nAs secções são geridas pelo conselho directivo através dos seus membros pertencentes às respectivas áreas geográficas.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859130": {
+   "fragment_id": "228137361",
+   "type": 11,
+   "heading": "Artigo 39.º-B — Instalações",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 39.º-B — Instalações\n\nA secção de Lisboa funciona na sede da CDO e a secção do Porto funciona no Edifício Freixieiro, Perafita, em fracção pertencente à CDO.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859131": {
+   "fragment_id": "228137362",
+   "type": 11,
+   "heading": "Artigo 39.º-C — Funções",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 39.º-C — Funções\n\n1 - Os membros do conselho directivo pertencentes a cada secção actuam em todas as matérias que lhes sejam delegadas pelo conselho directivo, considerando-se desde já delegadas as questões de âmbito meramente regional.\n\n2 - Em caso de dúvida sobre o âmbito das matérias referidas no número anterior, cabe ao conselho directivo a sua definição.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859132": {
+   "fragment_id": "228137363",
+   "type": 11,
+   "heading": "Artigo 39.º-D — Director executivo",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 39.º-D — Director executivo\n\nAo director executivo, sob a direcção do conselho directivo, incumbe:\n\na) Gerir os recursos humanos da CDO e propor as suas requalificações e retribuições;\n\nb) Superintender os serviços administrativos;\n\nc) Supervisionar as operações administrativas de controlo dos selos de garantia, apurando as diferenças e notificando o interessado para proceder ao respectivo pagamento, em prazo não superior a oito dias;\n\nd) Comunicar ao conselho directivo os montantes em dívida e a identificação dos devedores;\n\ne) Enviar ao conselho deontológico e fiscalizador a identificação dos despachantes oficiais que não tenham pago voluntariamente as dívidas para com a CDO, após decurso do prazo de pagamento fixado;\n\nf) Gerir a tesouraria e apresentar ao tesoureiro as propostas de pagamento e de aplicação de fundos;\n\ng) Promover a apresentação mensal dos balancetes e a elaboração trimestral do relatório de análise dos desvios orçamentais;\n\nh) Promover a elaboração dos orçamentos da CDO, com a colaboração do tesoureiro e segundo as orientações do conselho directivo, e a apresentação das contas anuais;\n\ni) Secretariar as reuniões do conselho directivo;\n\nj) Prestar ao conselho deontológico e fiscalizador as informações por este solicitadas, na área da sua competência;\n\nl) Executar as tarefas que lhe sejam confiadas pelo conselho directivo.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859123": {
+   "fragment_id": "227007886",
+   "type": 1,
+   "heading": "Capítulo IV — Eleições",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+   ],
+   "markdown": "### Capítulo IV — Eleições\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+  },
+  "228859113": {
+   "fragment_id": "227007887",
+   "type": 11,
+   "heading": "Artigo 40.º — Eleições",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 40.º — Eleições\n\n1 - As eleições para os órgãos da CDO realizam-se todas na mesma data, nos termos do n.º 3 do artigo 15.º\n\n2 - A mesa da assembleia geral deve coordenar a marcação das eleições de modo a dar cumprimento ao disposto no número anterior.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859077": {
+   "fragment_id": "227007888",
+   "type": 11,
+   "heading": "Artigo 41.º — Escrutínio",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 41.º — Escrutínio\n\n1 - As eleições fazem-se por escrutínio secreto.\n\n2 - O presidente da mesa da assembleia geral deve convidar um representante de cada lista para acompanhar e fiscalizar os trabalhos da assembleia eleitoral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859078": {
+   "fragment_id": "227007889",
+   "type": 11,
+   "heading": "Artigo 42.º — Listas",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 42.º — Listas\n\n1 - Só são admitidas a sufrágio as listas apresentadas até 30 dias antes da data das eleições e desde que subscritas por um mínimo de 30 despachantes oficiais, quando esteja em causa a selecção de titulares para órgãos nacionais, ou por um mínimo de 10 despachantes oficiais, quando a eleição se destine a seleccionar titulares para órgãos regionais.\n\n2 - As listas admitidas a sufrágio são referenciadas pelas primeiras letras do alfabeto segundo a ordem de apresentação e todas devem ser impressas no mesmo papel com o mesmo formato.\n\n3 - As listas a apresentar incluem obrigatoriamente o nome dos candidatos a todos os órgãos da CDO, com a indicação dos respectivos lugares.\n\n4 - As listas admitidas a sufrágio devem apresentar, para cada órgão, dois suplentes, sendo um da área da secção de Lisboa e outro da área da secção do Porto, os quais podem ser chamados a exercer funções em caso de ausência ou impedimento do membro efectivo.\n\n5 - Os proponentes das listas não podem ser candidatos nas listas que subscrevem.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859079": {
+   "fragment_id": "227007890",
+   "type": 11,
+   "heading": "Artigo 43.º — Funções de gestão",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 43.º — Funções de gestão\n\nOs titulares dos órgãos sociais da CDO mantêm-se em funções de gestão após o termo dos respectivos mandatos e até à posse dos novos titulares, a qual se deve dar no prazo máximo de 30 dias após o apuramento dos resultados eleitorais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859080": {
+   "fragment_id": "227007891",
+   "type": 11,
+   "heading": "Artigo 44.º — Votação",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 44.º — Votação\n\n1 - O voto pode ser exercido presencialmente, por correspondência ou por via electrónica.\n\n2 - O voto presencial é feito na sede da CDO e nas instalações das secções a que o despachante oficial pertencer.\n\n3 - (Revogado.)\n\n4 - O acto de votação presencial na secção do Porto é fiscalizado pelo membro da mesa da assembleia geral e pelos dois membros do conselho deontológico e fiscalizador da área daquela secção.\n\n5 - Para efeito do voto por correspondência, o voto é encerrado num sobrescrito em branco e incluído noutro dirigido ao presidente da mesa da assembleia geral e enviado para o local onde a mesma decorrer através de correio registado ou por intermédio de outro despachante oficial que vá participar na assembleia.\n\n6 - Apenas são considerados os votos por correspondência que chegaram ao presidente, nas condições atrás referidas e até ao início dos trabalhos de apuramento da votação.\n\n7 - O voto pode ainda ser exercido por via electrónica nas condições que a assembleia geral definir.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859124": {
+   "fragment_id": "227007892",
+   "type": 1,
+   "heading": "Capítulo V — Referendos internos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+   ],
+   "markdown": "### Capítulo V — Referendos internos\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+  },
+  "228859098": {
+   "fragment_id": "227007893",
+   "type": 11,
+   "heading": "Artigo 45.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+   ],
+   "markdown": "###### Artigo 45.º — Objecto\n\n1 - A CDO pode realizar, a nível nacional, referendos internos com carácter vinculativo aos seus membros, destinados a submeter a votação as questões que o conselho directivo considere suficientemente relevantes.\n\n2 - As questões devem ser formuladas com clareza e para respostas de sim ou não.\n\n3 - (Revogado)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+  },
+  "228859081": {
+   "fragment_id": "227007895",
+   "type": 11,
+   "heading": "Artigo 47.º — Efeitos",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 47.º — Efeitos\n\n1 - O efeito vinculativo do referendo interno depende de o número de votantes ser superior a metade dos membros efectivos inscritos nos cadernos eleitorais.\n\n2 - Quando se trate de propostas de dissolução da CDO, a aprovação carece do voto expresso de dois terços dos membros inscritos nos cadernos eleitorais.\n\n3 - A extinção de secção da CDO é sempre objecto de referendo interno, caso em que a aprovação carece ainda do voto expresso favorável de dois terços dos associados pertencentes à respectiva secção.\n\n4 - Os resultados dos referendos internos são divulgados pelo conselho directivo após a recepção dos apuramentos parciais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859125": {
+   "fragment_id": "227007896",
+   "type": 1,
+   "heading": "Capítulo VI — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+   ],
+   "markdown": "### Capítulo VI — Regime financeiro\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+  },
+  "228859082": {
+   "fragment_id": "227007898",
+   "type": 11,
+   "heading": "Artigo 48.º — Património",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 48.º — Património\n\n1 - O património da CDO é administrado pelo conselho directivo.\n\n2 - A alienação, aquisição ou oneração de bens imobiliários da CDO carece de autorização da assembleia geral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859083": {
+   "fragment_id": "227007899",
+   "type": 11,
+   "heading": "Artigo 49.º — Receitas e despesas",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 49.º — Receitas e despesas\n\n1 -(Revogado.)\n\n2 -(Revogado.)\n\n3 - Constituem despesas da responsabilidade do conselho directivo as imputáveis ao funcionamento dos órgãos e serviços da CDO e ainda todas aquelas que resultem de actividades que afectem a classe no seu conjunto.\n\n4 - (Revogado.)\n\n5 - Não é permitida a consignação de receitas no orçamento da CDO.\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859084": {
+   "fragment_id": "227007900",
+   "type": 11,
+   "heading": "Artigo 50.º — Enumeração das receitas",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 50.º — Enumeração das receitas\n\nSão receitas da CDO:\n\na) O produto da taxa de inscrição na CDO;\n\nb) O produto das quotas dos associados;\n\nc) O produto da venda de impressos de conta, fornecidos pela CDO;\n\nd) O produto da venda dos selos de garantia, das taxas correspondentes a serviços prestados, de outros impressos e ainda da emissão de cédulas profissionais;\n\ne) O produto das penas disciplinares de natureza pecuniária;\n\nf) (Revogada.)\n\ng) O produto das inscrições para os cursos de formação e acesso à profissão ou para a prova de equivalência;\n\nh) O custo da transmissão electrónica de dados e outros similares;\n\ni) Os donativos, heranças, doações e legados que venham a ser instituídos a seu favor;\n\nj) Quaisquer outras receitas eventuais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859085": {
+   "fragment_id": "227007901",
+   "type": 11,
+   "heading": "Artigo 51.º — Movimentação das despesas",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 51.º — Movimentação das despesas\n\nNenhuma despesa ou movimentação de conta pode ser efectuada sem a assinatura do presidente da CDO e do tesoureiro do conselho directivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859086": {
+   "fragment_id": "227007902",
+   "type": 11,
+   "heading": "Artigo 52.º — Despesas efectuadas pelos titulares dos órgãos",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 52.º — Despesas efectuadas pelos titulares dos órgãos\n\nAs despesas de viagem, respectivos seguros, estadas e ajudas de custo atribuídas para refeições e deslocações, efectuadas pelos titulares dos órgãos sociais no desempenho das suas funções, são suportadas pelo orçamento da CDO.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859087": {
+   "fragment_id": "227007904",
+   "type": 11,
+   "heading": "Artigo 53.º — Anualidade",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 53.º — Anualidade\n\n1 - O orçamento e as contas da CDO são elaborados em correspondência com o ano civil e em conformidade com o Plano Oficial de Contabilidade.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859088": {
+   "fragment_id": "227007905",
+   "type": 11,
+   "heading": "Artigo 54.º — Orçamento",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 54.º — Orçamento\n\n1 - (Revogado.)\n\n2 - A configuração do orçamento da CDO permite verificar, em cada rubrica e em cada total ou subtotal das receitas e das despesas, a divisão orçamental onde são geradas as receitas e aplicadas as despesas.\n\n3 - (Revogado.)\n\n4 - O conselho deontológico e fiscalizador deve juntar o seu parecer ao projecto de orçamento da CDO.\n\n5 - O conselho directivo pode apresentar à assembleia geral os orçamentos suplementares que julgue convenientes.\n\n6 - O conselho directivo elabora anualmente o regulamento de execução financeira.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859089": {
+   "fragment_id": "227007906",
+   "type": 11,
+   "heading": "Artigo 55.º — Tramitação orçamental",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 55.º — Tramitação orçamental\n\n1 - O conselho directivo elabora até 15 de Novembro de cada ano o respectivo projecto de orçamento contendo a previsão de receitas e despesas para o ano seguinte.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859090": {
+   "fragment_id": "227007907",
+   "type": 11,
+   "heading": "Artigo 56.º — Documentos anexos ao orçamento",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 56.º — Documentos anexos ao orçamento\n\nO projecto de orçamento deve conter em anexo os seguintes documentos:\n\na) Justificação da previsão das despesas e receitas, seus montantes e respectivas variações em relação a anos anteriores;\n\nb) Regulamento anual de execução financeira;\n\nc) Parecer do conselho deontológico e fiscalizador.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859091": {
+   "fragment_id": "227007908",
+   "type": 11,
+   "heading": "Artigo 57.º — Contas",
+   "in_force_from": "2007-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+   ],
+   "markdown": "###### Artigo 57.º — Contas\n\n1 - As contas devem ser apresentadas em cumprimento pelas regras estabelecidas no presente Estatuto para o orçamento.\n\n2 - As contas devem conter os montantes orçamentados e os montantes efectivamente realizados, bem como os respectivos desvios.\n\n3 - Os desvios negativos devem ser justificados pelo conselho directivo e apreciados no parecer do conselho deontológico e fiscalizador.\n\n4 - As contas devem conter em anexo:\n\na) Os documentos justificativos da execução orçamental e das suas variações;\n\nb) O relatório do conselho deontológico e fiscalizador.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101), em vigor a partir de 2007-06-12"
+  },
+  "228859126": {
+   "fragment_id": "227007910",
+   "type": 1,
+   "heading": "Capítulo VII — Direitos, deveres e incompatibilidades dos despachantes oficiais",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+   ],
+   "markdown": "### Capítulo VII — Direitos, deveres e incompatibilidades dos despachantes oficiais\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+  },
+  "228859127": {
+   "fragment_id": "227007918",
+   "type": 1,
+   "heading": "Capítulo VIII — Requisitos para inscrição na CDO",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+   ],
+   "markdown": "### Capítulo VIII — Requisitos para inscrição na CDO\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+  },
+  "228859128": {
+   "fragment_id": "227007920",
+   "type": 1,
+   "heading": "Capítulo IX — Acção disciplinar",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+   ],
+   "markdown": "### Capítulo IX — Acção disciplinar\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+  },
+  "228859099": {
+   "fragment_id": "227007931",
+   "type": 11,
+   "heading": "Artigo 75.º — Julgamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+   ],
+   "markdown": "###### Artigo 75.º — Julgamento\n\n1 - Finda a instrução, o processo é presente ao conselho deontológico e fiscalizador nacional ou de secção, consoante o caso, para julgamento, sendo lavrado e assinado o respectivo acórdão.\n\n2 - (Revogado)\n\n3 - (Revogado)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+  },
+  "228859100": {
+   "fragment_id": "227007932",
+   "type": 11,
+   "heading": "Artigo 76.º — Notificação do acórdão",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+   ],
+   "markdown": "###### Artigo 76.º — Notificação do acórdão\n\n1 - Os acórdãos finais são imediatamente notificados ao arguido e aos interessados por carta registada com aviso de recepção, bem como à DGAIEC, e às entidades que tenham participado a infracção.\n\n2 - (Revogado)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 228/2007 - Diário da República n.º 111/2007, Série I de 2007-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2007-639101)"
+  }
+ }
+}

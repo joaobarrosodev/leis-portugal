@@ -1,0 +1,450 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:106960760:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114148377",
+ "dre_path": "/dr/detalhe/portaria/150-2017-106960760",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-05-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114116972",
+    "114116973",
+    "114116974",
+    "114146575",
+    "114146576",
+    "114146577",
+    "114146578",
+    "114146579",
+    "114146580",
+    "114146581",
+    "114146582",
+    "114146583",
+    "114146584",
+    "114146585",
+    "114146586",
+    "114146587",
+    "114146588",
+    "114146589",
+    "114146590",
+    "114146591",
+    "114146592",
+    "114146593",
+    "114146594",
+    "114146595",
+    "114146597"
+   ]
+  },
+  {
+   "date": "2017-11-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114145425:por",
+     "title": "Portaria n.º 331/2017",
+     "published": "2017-11-03",
+     "dre_path": "/dr/detalhe/portaria/331-2017-114145425"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 16.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "114116972",
+    "114116973",
+    "114116974",
+    "114146575",
+    "114146576",
+    "114146577",
+    "114146603",
+    "114146579",
+    "114146580",
+    "114146581",
+    "114146582",
+    "114146583",
+    "114146584",
+    "114146585",
+    "114146586",
+    "114146587",
+    "114146588",
+    "114146605",
+    "114146606",
+    "114146607",
+    "114146591",
+    "114146592",
+    "114146608",
+    "114146609",
+    "114146610",
+    "114146611",
+    "114146596",
+    "114146597"
+   ]
+  },
+  {
+   "date": "2020-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:128597390:por",
+     "title": "Portaria n.º 23/2020",
+     "published": "2020-01-29",
+     "dre_path": "/dr/detalhe/portaria/23-2020-128597390"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "114116972",
+    "114116973",
+    "114116974",
+    "114146575",
+    "114146576",
+    "114146577",
+    "128558604",
+    "114146579",
+    "114146580",
+    "114146581",
+    "114146582",
+    "128558601",
+    "114146584",
+    "114146585",
+    "114146586",
+    "114146587",
+    "114146588",
+    "114146605",
+    "114146606",
+    "128558602",
+    "114146591",
+    "114146592",
+    "114146608",
+    "114146609",
+    "114146610",
+    "114146611",
+    "114146596",
+    "114146597"
+   ]
+  }
+ ],
+ "fragments": {
+  "114116972": {
+   "fragment_id": "114148378",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 150/2017\n\nde 3 de maio\n\nNo âmbito da estratégia plurianual de combate à precariedade, prevista no artigo 19.º da Lei n.º 7-A/2016, de 30 de março, procedeu-se, numa primeira fase, ao levantamento de todos os instrumentos de contratação utilizados na Administração Pública e no setor empresarial do Estado.\n\nEssa estratégia, mais tarde explicitada pelo artigo 25.º da Lei n.º 42/2016, de 28 de dezembro, foi orientada para um programa de regularização extraordinária dos vínculos precários que abranja as situações do pessoal da Administração Pública e do setor empresarial do Estado que desempenhe funções correspondentes a necessidades permanentes, com sujeição ao poder hierárquico, de disciplina ou direção, e horário completo, sem o adequado vínculo jurídico.\n\nPosteriormente, a Resolução do Conselho de Ministros n.º 32/2017, de 28 de fevereiro, estabeleceu, nomeadamente, regras a que deve obedecer a avaliação dos requisitos de acesso ao programa de regularização extraordinária dos vínculos precários, a realizar por comissões criadas no âmbito de cada área governativa, com participação de representantes sindicais, e que pode ser desencadeada por solicitação dos trabalhadores.\n\nO procedimento regulado pela presente portaria corresponde a esta nova fase, na qual se vai proceder à avaliação de situações de exercício de funções que correspondam a carreiras gerais ou especiais, existentes em algum momento do período de 1 de janeiro de 2017 até à data de entrada em vigor da presente portaria, com subordinação a poderes de autoridade e direção, que correspondam a necessidades permanentes dos órgãos ou serviços da administração direta e indireta do Estado ou das entidades do setor empresarial do Estado, e que não tenham o adequado vínculo jurídico. Este procedimento não abrange carreiras em relação às quais exista legislação reguladora da integração extraordinária de pessoal, para evitar duplicações, bem como situações de exercício de funções que, por força de legislação específica, só são tituladas por vínculos de duração limitada.\n\nPretende-se que sejam ponderadas as situações de exercício de funções que correspondam a trabalho subordinado que concorrem para a satisfação de necessidades permanentes e não sejam baseadas num vínculo jurídico adequado. Para que este complexo processo decorra com a necessária celeridade, as solicitações dos trabalhadores envolvidos podem ser feitas em formulário eletrónico através do portal do Governo, e os trabalhadores podem concordar em receber por via de correio eletrónico as notificações decorrentes dos seus pedidos de avaliação.\n\nAs conclusões das avaliações feitas pelas comissões de avaliação bipartidas, no âmbito das várias áreas governativas, uma vez homologadas pelos membros do Governo competentes, identificam as situações que irão ser objeto de regularização na fase imediatamente subsequente.\n\nNessa fase, no caso dos órgãos ou serviços da administração direta e indireta do Estado, uma vez criados os lugares necessários nos mapas de pessoal, decorrerão os procedimentos concursais para recrutamento dos trabalhadores, com base em regime a definir em lei da Assembleia da República. No setor empresarial do Estado, a regularização das situações decorre do regime estabelecido no Código do Trabalho. Com efeito, nas situações de exercício de funções que correspondam a necessidades permanentes, aferidas com base no critério de tais situações não permitirem a celebração de contratos de trabalho a termo, e cujo vínculo seja contrato de trabalho, porque as partes assim o celebraram ou os indícios de laboralidade fazem presumir a sua existência, esse contrato de trabalho considera-se sem termo porque qualquer termo que as partes tenham estipulado é vedado no contrato de trabalho cuja execução corresponda à satisfação de necessidades permanentes.\n\nNeste sentido, após a constituição das comissões de avaliação bipartidas e enquanto estas realizam os seus trabalhos de avaliação das situações individuais, o Governo apresentará à Assembleia da República a proposta de lei que se ocupará da fase final do programa de regularização extraordinária dos vínculos precários, que deve estar concluído até final de 2018.\n\nAssim, ao abrigo do artigo 25.º da Lei n.º 42/2016, de 28 de dezembro, manda o Governo, pelo Ministro das Finanças e pelo Ministro do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "114116973": {
+   "fragment_id": "114148379",
+   "type": 1,
+   "heading": "Capítulo I — Parte geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Parte geral"
+  },
+  "114116974": {
+   "fragment_id": "114148380",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria estabelece os procedimentos da avaliação de situações a submeter ao programa de regularização extraordinária dos vínculos precários na Administração Pública e no setor empresarial do Estado, previsto no artigo 19.º da Lei n.º 7-A/2016, de 30 de março, no artigo 25.º da Lei n.º 42/2016, de 28 de dezembro, e na Resolução do Conselho de Ministros n.º 32/2017, de 28 de fevereiro.\n\n2 - O procedimento regulado pela presente portaria avalia situações de exercício de funções existentes em qualquer momento do período de 1 de janeiro de 2017 até à data da entrada em vigor daquela:\n\na) Na administração direta e indireta do Estado, com sujeição ao poder hierárquico, de disciplina ou direção e horário de trabalho, que correspondam a necessidades permanentes dos órgãos ou serviços e sem o adequado vínculo jurídico;\n\nb) No setor empresarial do Estado, que correspondam a necessidades permanentes das entidades e sem o adequado vínculo jurídico.\n\n3 - A presente portaria não abrange:\n\na) Carreiras em relação às quais exista legislação reguladora da integração extraordinária de pessoal que exerça funções correspondentes a necessidades permanentes dos órgãos ou serviços;\n\nb) Situações de exercício de funções que, por força de legislação específica, só são tituladas por vínculos de duração limitada.\n\n4 - A presente portaria cria as Comissões de Avaliação Bipartida, abreviadamente designadas por CAB, e estabelece a sua missão, composição, competências e o respetivo modo de funcionamento.\n\n5 - A presente portaria cria ainda a Comissão Coordenadora e estabelece a sua composição e competências e o modo de funcionamento."
+  },
+  "114146575": {
+   "fragment_id": "114148381",
+   "type": 1,
+   "heading": "Capítulo II — Missão, competências, organização e funcionamento das Comissões de Avaliação Bipartida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Missão, competências, organização e funcionamento das Comissões de Avaliação Bipartida"
+  },
+  "114146576": {
+   "fragment_id": "114148382",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\nAs CAB têm como missão a avaliação das situações a que se refere o n.º 2 do artigo anterior."
+  },
+  "114146577": {
+   "fragment_id": "114148383",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências das Comissões de Avaliação Bipartida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências das Comissões de Avaliação Bipartida\n\n1 - São competências das CAB:\n\na) Admitir os requerimentos que lhe sejam dirigidos por qualquer interessado, bem como as comunicações feitas pelo dirigente máximo de cada órgão, serviço ou entidade, nos termos dos artigos 11.º e 12.º;\n\nb) Emitir parecer sobre a correspondência das funções exercidas a uma necessidade permanente do órgão, serviço ou entidade onde em concreto as mesmas são desempenhadas;\n\nc) Emitir parecer sobre a adequação do vínculo jurídico às funções exercidas.\n\n2 - Para efeito do disposto na alínea b) do número anterior, considera-se que não corresponde à satisfação de necessidades permanentes o exercício de funções em situações em que é possível a celebração de contratos de trabalho em funções públicas a termo resolutivo, previstas no artigo 57.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, ou de contratos de trabalho a termo resolutivo, de acordo com o artigo 140.º do Código do Trabalho.\n\n3 - Os pareceres emitidos são devidamente fundamentados, devendo identificar as razões de facto e de direito relevantes.\n\n4 - A apreciação das situações de exercício efetivo de funções em órgão ou serviço da administração direta ou indireta do Estado, incluindo ao abrigo de contratos de prestação de serviço, obedece ao disposto na Lei Geral do Trabalho em Funções Públicas, designadamente nos artigos 10.º, 30.º, 32.º e 57.º\n\n5 - Na apreciação das situações de exercício efetivo de funções em entidade do setor empresarial do Estado que correspondam a necessidades permanentes, caso quem as exerce não esteja vinculado à entidade em causa por contrato de trabalho a termo resolutivo, presume-se a inadequação do vínculo jurídico se, na relação entre o requerente que presta a atividade e a entidade que dela beneficia, se verificarem algumas das seguintes características:\n\na) A atividade é realizada em local pertencente ao seu beneficiário ou por ele determinado;\n\nb) Os equipamentos e instrumentos de trabalho utilizados pertencem ao beneficiário da atividade;\n\nc) O prestador da atividade observa horas de início e de termo da prestação, determinadas pelo beneficiário da mesma;\n\nd) É paga, com determinada periodicidade, uma quantia certa ao prestador da atividade, como contrapartida da mesma;\n\ne) Dependência económica do prestador da atividade."
+  },
+  "114146578": {
+   "fragment_id": "114148384",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição das Comissões de Avaliação Bipartida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Constituição das Comissões de Avaliação Bipartida\n\n1 - As CAB são criadas no âmbito de competências de cada ministro e são constituídas por:\n\na) Um representante do membro do Governo responsável pela área das Finanças;\n\nb) Um representante do membro do Governo responsável pela área do Trabalho da Solidariedade e Segurança Social;\n\nc) Um representante do membro do Governo responsável pela área setorial em causa;\n\nd) Um representante do dirigente máximo do órgão ou serviço em que são exercidas as funções em avaliação;\n\ne) Um representante sindical indicado pela Frente Comum dos Sindicatos da Administração Pública;\n\nf) Um representante sindical indicado pela Federação de Sindicatos da Administração Pública e de Entidades com Fins Públicos;\n\ng) Um representante sindical indicado pela Frente Sindical.\n\n2 - Quando forem avaliadas funções exercidas em entidade do setor empresarial do Estado, a constituição das CAB tem as alterações seguintes:\n\na) Integra dois representantes sindicais, sendo um designado pela Confederação Geral dos Trabalhadores Portugueses-Intersindical Nacional e o outro pela União Geral de Trabalhadores;\n\nb) Não integra um representante do dirigente máximo da entidade em causa, sendo este, no entanto, convocado para estar presente ou se fazer representar nas reuniões, sem direito de voto.\n\n3 - Sem prejuízo do disposto nos números anteriores, pode, porém, uma CAB abranger o âmbito de competências de mais de um ministro, caso em que será designado um representante de cada ministro, o qual participa nas reuniões em que estejam em causa situações respeitantes à correspondente área de governação.\n\n4 - No ato de designação de cada um dos representantes referidos no número anterior são igualmente designados membros suplentes.\n\n5 - Em caso de necessidade, os membros efetivos e suplentes podem ser substituídos por outros mediante comunicação ao presidente da CAB."
+  },
+  "114146579": {
+   "fragment_id": "114148385",
+   "type": 11,
+   "heading": "Artigo 5.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reuniões\n\n1 - A CAB reúne por convocatória do presidente, com a antecedência mínima de 5 dias seguidos, ou de acordo com o calendário aprovado com a mesma antecedência.\n\n2 - A comunicação a cada um dos membros da CAB do dia e hora das reuniões é efetuada por meios eletrónicos.\n\n3 - O presidente da CAB pode chamar a participar nas reuniões quadros superiores do Estado ou peritos externos, com especial competência na matéria em causa.\n\n4 - Os membros das CAB não auferem qualquer remuneração especial."
+  },
+  "114146580": {
+   "fragment_id": "114148386",
+   "type": 11,
+   "heading": "Artigo 6.º — Quórum e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Quórum e deliberações\n\n1 - A CAB só pode reunir e deliberar quando esteja presente a maioria dos seus membros.\n\n2 - Cada membro da CAB tem direito a um voto, devendo votar primeiramente os demais membros e, por fim, o presidente."
+  },
+  "114146581": {
+   "fragment_id": "114148387",
+   "type": 11,
+   "heading": "Artigo 7.º — Secretariado de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Secretariado de apoio técnico\n\n1 - Cada CAB é assessorada por um secretariado de apoio técnico garantido pela Secretaria-Geral da respetiva área governativa, a quem cabe instruir os processos a apreciar e deliberar em reunião.\n\n2 - O apoio logístico ao funcionamento da CAB, incluindo as instalações para a realização das respetivas reuniões, é assegurado pela Secretaria-Geral da respetiva área governativa.\n\n3 - O secretariado de apoio técnico de cada área governativa pode, para instrução dos respetivos processos, solicitar informação aos órgãos, serviços ou entidades que considere adequado, incluindo a Direção-Geral da Administração e do Emprego Público e a Autoridade para as Condições de Trabalho."
+  },
+  "114146582": {
+   "fragment_id": "114148388",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dever de sigilo\n\nOs membros da CAB, o pessoal da Secretaria-Geral responsável pelo apoio técnico, bem como as pessoas que, a qualquer título, tiverem tomado contacto com o processo ou conhecimento de elementos que o integram estão obrigados a sigilo sobre todos os dados recolhidos sobre situação laboral dos requerentes, bem como informações de natureza pessoal que obtenham no decurso do procedimento."
+  },
+  "114146583": {
+   "fragment_id": "114148389",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão Coordenadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissão Coordenadora\n\n1 - É constituída uma Comissão Coordenadora, que integra os membros presidentes das CAB, um representante do membro do Governo responsável pela área das Finanças, um representante do membro do Governo responsável pela área do Trabalho, Solidariedade e Segurança Social e um representante de cada uma das estruturas sindicais referidas nos n.os 1 e 2 do artigo 4.º, que aprecia na generalidade as questões que sejam comuns a duas ou mais Comissões, podendo adotar diretivas sobre as mesmas.\n\n2 - É aplicável à Comissão Coordenadora e aos seus membros o disposto nos artigos 5.º, 6.º e 8.º, com as necessárias adaptações.\n\n3 - O apoio logístico ao funcionamento da Comissão Coordenadora é assegurado pela Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social."
+  },
+  "114146584": {
+   "fragment_id": "114148390",
+   "type": 1,
+   "heading": "Capítulo III — Procedimento de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimento de avaliação"
+  },
+  "114146585": {
+   "fragment_id": "114148391",
+   "type": 11,
+   "heading": "Artigo 10.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requerimento\n\n1 - O interessado pode requerer a avaliação da sua situação, conforme modelo constante de anexo, junto da Comissão de Avaliação Bipartida do ministério da respetiva área governativa, entre 11 de maio e 30 de junho de 2017.\n\n2 - O modelo do requerimento é disponibilizado no portal do Governo, podendo ser entregue em papel ou através de preenchimento de formulário eletrónico.\n\n3 - O formulário do requerimento prevê a possibilidade de o requerente autorizar a CAB a aceder aos dados pessoais e demais dados relativos à sua situação laboral existentes no órgão, serviço ou entidade onde se encontra a desempenhar funções, ficando o mesmo, nesse caso, dispensado de posterior pedido de entrega de documentos, bem como concordar em receber por via de correio eletrónico as notificações decorrentes do pedido de avaliação, nos termos do regime jurídico dos documentos eletrónicos e da assinatura digital."
+  },
+  "114146586": {
+   "fragment_id": "114148392",
+   "type": 11,
+   "heading": "Artigo 11.º — Comunicação de outras situações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicação de outras situações\n\nNos 30 dias posteriores ao termo do prazo a que se refere o n.º 1 do artigo anterior, os dirigentes máximos dos órgãos, serviços ou entidades submetem, para efeitos da alínea b) do n.º 1 do artigo 3.º, à apreciação das respetivas CAB, a identificação de situações que não tenham sido objeto de requerimento e que correspondam ao previsto nos n.os 2 e 3 do artigo 1.º"
+  },
+  "114146587": {
+   "fragment_id": "114148393",
+   "type": 11,
+   "heading": "Artigo 12.º — Contratos emprego-inserção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contratos emprego-inserção\n\nNo prazo de 30 dias após a entrada em vigor da presente portaria, os dirigentes máximos dos órgãos, serviços ou entidades submetem, para efeitos da alínea b) do n.º 1 do artigo 3.º, à apreciação da respetiva CAB, a identificação de todas as funções que estejam a ser desempenhadas por desempregados vinculados por contrato emprego-inserção ou contrato emprego-inserção+, bem como a respetiva duração, incluindo as interrupções não superiores a 60 dias decorrentes da sucessão de contratos para o desempenho das mesmas funções."
+  },
+  "114146588": {
+   "fragment_id": "114148394",
+   "type": 11,
+   "heading": "Artigo 13.º — Participação de estruturas de representação coletiva dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Participação de estruturas de representação coletiva dos trabalhadores\n\n1 - As associações sindicais e as comissões de trabalhadores representativas dos trabalhadores em causa podem comunicar aos dirigentes máximos dos órgãos, serviços ou entidades as situações de exercício de funções que correspondam a necessidades permanentes e sem o adequado vínculo laboral de que tenham conhecimento, até ao termo do período previsto no n.º 1 do artigo 10.º\n\n2 - A comunicação referida no número anterior deve conter os dados relativos aos trabalhadores em causa, referidos no anexo da presente portaria ou, pelo menos, o nome, órgão ou serviço ou entidade do setor empresarial do Estado, Ministério, funções desempenhadas, local de trabalho, horário e vínculo com base no qual exerce as funções.\n\n3 - Os dirigentes máximos incluem as situações a que se refere o número anterior na comunicação às respetivas CAB prevista no artigo 11.º, com informação devidamente fundamentada sobre se as mesmas correspondem a necessidades permanentes.\n\n4 - Os dirigentes máximos informam as associações sindicais e as comissões de trabalhadores de que deram conhecimento das situações de exercício de funções por estas comunicadas às respetivas CAB."
+  },
+  "114146589": {
+   "fragment_id": "114148395",
+   "type": 11,
+   "heading": "Artigo 14.º — Processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Processo de avaliação\n\n1 - Nos dois dias úteis posteriores à receção do requerimento, o presidente da CAB solicita ao dirigente máximo do órgão, serviço ou entidade onde são exercidas as funções identificadas no requerimento, informação devidamente fundamentada sobre se as mesmas correspondem a uma necessidade permanente, a qual deve ser comunicada à CAB no prazo de 10 dias úteis.\n\n2 - Após a informação do dirigente máximo referida no número anterior, a CAB emite parecer sobre se as funções exercidas correspondem a uma necessidade permanente do órgão, serviço ou entidade em causa.\n\n3 - Caso o parecer considere que as funções exercidas correspondem a uma necessidade permanente, a CAB procede à avaliação da adequação jurídica do vínculo, de acordo nomeadamente com os critérios referidos nos n.os 4 e 5 do artigo 3.º"
+  },
+  "114146590": {
+   "fragment_id": "114148396",
+   "type": 11,
+   "heading": "Artigo 15.º — Homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Homologação\n\nOs pareceres da CAB são submetidos a homologação dos membros do Governo responsáveis pelas áreas das Finanças, do Trabalho da Solidariedade e Segurança Social e da respetiva área governativa."
+  },
+  "114146591": {
+   "fragment_id": "114148397",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições gerais e transitórias"
+  },
+  "114146592": {
+   "fragment_id": "114148398",
+   "type": 11,
+   "heading": "Artigo 16.º — Nomeação de representantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Nomeação de representantes\n\n1 - Os membros de cada uma das CAB a que se referem as alíneas a) a c) e e) a g) do n.º 1 e a alínea a) do n.º 2 do artigo 4.º, bem como os membros da Comissão Coordenadora, são nomeados até ao dia 11 de maio de 2017.\n\n2 - Os membros referidos na alínea d) do n.º 1 do artigo 4.º são nomeados pelos dirigentes máximos dos órgãos ou serviços em causa, conjuntamente com a primeira informação que prestem ao abrigo do n.º 1 do artigo 14.º, ou dos artigos 11.º ou 12.º\n\n3 - O disposto no número anterior é aplicável à nomeação a que se refere a alínea b) do n.º 2 do artigo 4.º"
+  },
+  "114146593": {
+   "fragment_id": "114148399",
+   "type": 11,
+   "heading": "Artigo 17.º — Administração Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Administração Local\n\nA presente portaria não é aplicável à administração local, cujo regime será objeto de diploma próprio na sequência do disposto no n.º 6 da Resolução do Conselho de Ministros n.º 32/2017, de 28 de fevereiro."
+  },
+  "114146594": {
+   "fragment_id": "114148400",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime subsidiário\n\nEm tudo o que não estiver expressamente regulado pela presente portaria aplica-se subsidiariamente o regime do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro."
+  },
+  "114146595": {
+   "fragment_id": "114148401",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 28 de abril de 2017."
+  },
+  "114146597": {
+   "fragment_id": "114148403",
+   "type": 14,
+   "heading": "Anexo — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Requerimento\n\nÀ Comissão de Avaliação Bipartida do PREVPAP\n\nNome (...), NIF (...), titular do cartão do cidadão n.º (...) ou do bilhete de identidade n.º (...), residente em (...), atualmente a exercer funções no órgão/serviço (...) ou na entidade do setor empresarial do Estado (...) do Ministério (...), vem requerer a avaliação de que as funções que exerce correspondem a necessidades permanentes e do vínculo jurídico ao abrigo do qual exerce essas funções.\n\nÓrgão ou serviço\n\nEntidade do setor empresarial do Estado\n\nMinistério\n\nFunções desempenhadas\n\nData de início de funções\n\nLocal de trabalho\n\nHorário completo: sim (...)/não (...)\n\nVínculo com base no qual exerce as funções\n\nTelefone n.º\n\nEndereço de correio eletrónico\n\n[ ] Autorizo a Comissão de Avaliação Bipartida a aceder aos dados pessoais e demais dados relativos há minha situação laboral existentes no órgão ou serviço ou entidade do setor empresarial do Estado onde desempenho funções.\n\n[ ] Concordo em receber por via de correio eletrónico as notificações decorrentes do presente pedido de avaliação, nos termos do regime jurídico dos documentos eletrónicos e da assinatura digital, aprovado pelo Decreto-Lei n.º 290-D/99, de 2 de agosto, alterado e republicado pelo Decreto-Lei n.º 88/2009, de 9 de abril.\n\n(Localidade e data),"
+  },
+  "114146603": {
+   "fragment_id": "114148384",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição das Comissões de Avaliação Bipartida",
+   "in_force_from": "2017-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331/2017 - Diário da República n.º 212/2017, Série I de 2017-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/331-2017-114145425), em vigor a partir de 2017-11-04"
+   ],
+   "markdown": "###### Artigo 4.º — Constituição das Comissões de Avaliação Bipartida\n\n1 - As CAB são criadas no âmbito de competências de cada ministro e são constituídas por:\n\na) Um representante do membro do Governo responsável pela área das Finanças;\n\nb) Um representante do membro do Governo responsável pela área do Trabalho da Solidariedade e Segurança Social;\n\nc) Um representante do membro do Governo responsável pela área setorial em causa;\n\nd) Um representante do dirigente máximo do órgão ou serviço em que são exercidas as funções em avaliação;\n\ne) Um representante sindical indicado pela Frente Comum dos Sindicatos da Administração Pública;\n\nf) Um representante sindical indicado pela Federação de Sindicatos da Administração Pública e de Entidades com Fins Públicos;\n\ng) Um representante sindical indicado pela Frente Sindical.\n\n2 - Quando forem avaliadas funções exercidas em entidade do setor empresarial do Estado, a constituição das CAB tem as alterações seguintes:\n\na) Integra dois representantes sindicais, sendo um designado pela Confederação Geral dos Trabalhadores Portugueses-Intersindical Nacional e o outro pela União Geral de Trabalhadores;\n\nb) Não integra um representante do dirigente máximo da entidade em causa, sendo este, no entanto, convocado para estar presente ou se fazer representar nas reuniões, sem direito de voto.\n\n3 - Sem prejuízo do disposto nos números anteriores, pode, porém, uma CAB abranger o âmbito de competências de mais de um ministro, caso em que será designado um representante de cada ministro, o qual participa nas reuniões em que estejam em causa situações respeitantes à correspondente área de governação.\n\n4 - Tendo em consideração o elevado número de situações em apreciação, podem ser constituídas numa área governativa duas ou mais CAB por despacho dos membros do Governo responsáveis pelas áreas das Finanças, do Trabalho da Solidariedade e Segurança Social e da área governativa em causa, o qual deve indicar os critérios de distribuição dos processos pelas CAB.\n\n5 - No ato de designação de cada um dos representantes referidos no número anterior são igualmente designados membros suplentes.\n\n6 - Em caso de necessidade, os membros efetivos e suplentes podem ser substituídos por outros mediante comunicação ao presidente da CAB.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331/2017 - Diário da República n.º 212/2017, Série I de 2017-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/331-2017-114145425), em vigor a partir de 2017-11-04"
+  },
+  "114146605": {
+   "fragment_id": "114148410",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Comunicações complementares",
+   "in_force_from": "2017-11-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 331/2017 - Diário da República n.º 212/2017, Série I de 2017-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/331-2017-114145425), em vigor a partir de 2017-11-04"
+   ],
+   "markdown": "###### Artigo 13.º-A — Comunicações complementares\n\n1 - Qualquer interessado que se encontre em situação prevista no n.º 2 do artigo 1.º e não seja abrangido pelo n.º 3 do mesmo artigo pode requerer a avaliação da sua situação, caso ainda não o tenha feito, à Comissão de Avaliação Bipartida do ministério da respetiva área governativa, entre 6 e 17 de novembro de 2017, sendo aplicável o disposto nos n.os 2 e 3 do artigo 10.º\n\n2 - No prazo referido no número anterior, as associações sindicais e as comissões de trabalhadores representativas dos trabalhadores em causa podem comunicar aos dirigentes máximos de órgãos ou serviços da administração direta ou indireta do Estado, ou de entidades setor empresarial do Estado as situações de exercício de funções que correspondam a necessidades permanentes e sem o adequado vínculo jurídico, de que tenham conhecimento, que não tenham comunicado ao abrigo dos n.os 1 e 2 do artigo 13.º\n\n3 - Nos 10 dias úteis posteriores ao termo do prazo referido no n.º 1, os dirigentes máximos de órgãos ou serviços da administração direta ou indireta do Estado, ou de entidades setor empresarial do Estado submetem à apreciação da CAB da respetiva área governativa as situações de exercício de funções que correspondam a necessidades permanentes e sem o adequado vínculo jurídico, por parte de trabalhadores que desconheçam que tenham apresentado requerimentos, e que não tenham incluído nas comunicações ao abrigo dos artigos 11.º e 12.º\n\n4 - Os dirigentes máximos incluem as situações a que se refere o n.º 2 na comunicação às respetivas CAB prevista no número anterior, com informação devidamente fundamentada sobre se as mesmas correspondem a necessidades permanentes, e dão cumprimento ao disposto no n.º 4 do artigo 13.º\n\n5 - As CAB identificam, nos requerimentos e nas comunicações a que se referem os números anteriores, as situações de que ainda não tinham conhecimento e, relativamente a estas, procedem de acordo com o disposto na presente portaria.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 331/2017 - Diário da República n.º 212/2017, Série I de 2017-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/331-2017-114145425), em vigor a partir de 2017-11-04"
+  },
+  "114146606": {
+   "fragment_id": "114148395",
+   "type": 11,
+   "heading": "Artigo 14.º — Processo de avaliação",
+   "in_force_from": "2017-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331/2017 - Diário da República n.º 212/2017, Série I de 2017-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/331-2017-114145425), em vigor a partir de 2017-11-04"
+   ],
+   "markdown": "###### Artigo 14.º — Processo de avaliação\n\n1 - Nos dois dias úteis posteriores à receção do requerimento, o presidente da CAB solicita ao dirigente máximo do órgão, serviço ou entidade onde são exercidas as funções identificadas no requerimento, informação devidamente fundamentada sobre se as mesmas correspondem a uma necessidade permanente, a qual deve ser comunicada à CAB no prazo de 10 dias úteis.\n\n2 - Após a informação do dirigente máximo referida no número anterior, a CAB emite parecer sobre se as funções exercidas correspondem a uma necessidade permanente do órgão, serviço ou entidade em causa.\n\n3 - Caso o parecer considere que as funções exercidas correspondem a uma necessidade permanente, a CAB procede à avaliação da adequação jurídica do vínculo, de acordo nomeadamente com os critérios referidos nos n.os 4 e 5 do artigo 3.º\n\n4 - A CAB, caso entenda que as funções exercidas pelo requerente correspondem a uma necessidade permanente, não obstante o dirigente máximo do órgão, serviço ou entidade tenha informado que a necessidade em causa é temporária, deve assegurar a igualdade de tratamento de trabalhadores, tenham ou não apresentado requerimentos, cujas funções satisfaçam a mesma necessidade.\n\n5 - Para efeito do disposto no número anterior, a CAB deve solicitar ao dirigente máximo que verifique se outros trabalhadores, não requerentes, exercem funções que satisfaçam a mesma necessidade.\n\n6 - Na situação referida no número anterior, o dirigente máximo deve informar a CAB do que concluir, indicando, se houver, outros trabalhadores não requerentes cujas funções satisfaçam a mesma necessidade, no prazo de 10 dias úteis.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331/2017 - Diário da República n.º 212/2017, Série I de 2017-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/331-2017-114145425), em vigor a partir de 2017-11-04"
+  },
+  "114146607": {
+   "fragment_id": "114148396",
+   "type": 11,
+   "heading": "Artigo 15.º — Homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Homologação\n\nOs pareceres da CAB são submetidos a homologação dos membros do Governo responsáveis pelas áreas das Finanças, do Trabalho da Solidariedade e Segurança Social e da respetiva área governativa."
+  },
+  "114146608": {
+   "fragment_id": "114148411",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Admissão de requerimentos",
+   "in_force_from": "2017-11-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 331/2017 - Diário da República n.º 212/2017, Série I de 2017-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/331-2017-114145425), em vigor a partir de 2017-11-04"
+   ],
+   "markdown": "###### Artigo 16.º-A — Admissão de requerimentos\n\nSão admitidos os requerimentos apresentados fora do prazo referido no n.º 1 do artigo 10.º, bem como as comunicações de dirigentes máximos de órgãos, serviços ou entidades apresentadas fora dos prazos referidos nos artigos 11.º e 12.º, sendo revogadas as deliberações das CAB de não admissão de requerimentos ou comunicações com fundamento na sua apresentação fora daqueles prazos.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 331/2017 - Diário da República n.º 212/2017, Série I de 2017-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/331-2017-114145425), em vigor a partir de 2017-11-04"
+  },
+  "114146609": {
+   "fragment_id": "114148399",
+   "type": 11,
+   "heading": "Artigo 17.º — Administração Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Administração Local\n\nA presente portaria não é aplicável à administração local, cujo regime será objeto de diploma próprio na sequência do disposto no n.º 6 da Resolução do Conselho de Ministros n.º 32/2017, de 28 de fevereiro."
+  },
+  "114146610": {
+   "fragment_id": "114148400",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime subsidiário\n\nEm tudo o que não estiver expressamente regulado pela presente portaria aplica-se subsidiariamente o regime do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro."
+  },
+  "114146611": {
+   "fragment_id": "114148401",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 28 de abril de 2017."
+  },
+  "114146596": {
+   "fragment_id": "114148402",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno. - O Ministro do Trabalho, Solidariedade e Segurança Social, José António Fonseca Vieira da Silva."
+  },
+  "128558604": {
+   "fragment_id": "114148384",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição das Comissões de Avaliação Bipartida",
+   "in_force_from": "2020-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 23/2020 - Diário da República n.º 20/2020, Série I de 2020-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/23-2020-128597390), em vigor a partir de 2020-01-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331/2017 - Diário da República n.º 212/2017, Série I de 2017-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/331-2017-114145425), em vigor a partir de 2017-11-04"
+   ],
+   "markdown": "###### Artigo 4.º — Constituição das Comissões de Avaliação Bipartida\n\n1 - As CAB são criadas no âmbito de competências de cada ministro e são constituídas por:\n\na) Um representante do membro do Governo responsável pela área das Finanças;\n\nb) Um representante do membro do Governo responsável pela área da Administração Pública;\n\nc) Um representante do membro do Governo responsável pela área do Trabalho da Solidariedade e Segurança Social;\n\nd) Um representante do membro do Governo responsável pela área setorial em causa;\n\ne) Um representante do dirigente máximo do órgão ou serviço em que são exercidas as funções em avaliação;\n\nf) Um representante sindical indicado pela Frente Comum dos Sindicatos da Administração Pública;\n\ng) Um representante sindical indicado pela Federação de Sindicatos da Administração Pública e de Entidades com Fins Públicos;\n\nh) Um representante sindical indicado pela Frente Sindical.\n\n2 - Quando forem avaliadas funções exercidas em entidade do setor empresarial do Estado, a constituição das CAB tem as alterações seguintes:\n\na) Integra dois representantes sindicais, sendo um designado pela Confederação Geral dos Trabalhadores Portugueses-Intersindical Nacional e o outro pela União Geral de Trabalhadores;\n\nb) Não integra um representante do dirigente máximo da entidade em causa, sendo este, no entanto, convocado para estar presente ou se fazer representar nas reuniões, sem direito de voto.\n\n3 - Sem prejuízo do disposto nos números anteriores, pode, porém, uma CAB abranger o âmbito de competências de mais de um ministro, caso em que será designado um representante de cada ministro, o qual participa nas reuniões em que estejam em causa situações respeitantes à correspondente área de governação.\n\n4 - Tendo em consideração o elevado número de situações em apreciação, podem ser constituídas numa área governativa duas ou mais CAB por despacho dos membros do Governo responsáveis pelas áreas das Finanças, do Trabalho da Solidariedade e Segurança Social e da área governativa em causa, o qual deve indicar os critérios de distribuição dos processos pelas CAB.\n\n5 - No ato de designação de cada um dos representantes referidos no número anterior são igualmente designados membros suplentes.\n\n6 - Em caso de necessidade, os membros efetivos e suplentes podem ser substituídos por outros mediante comunicação ao presidente da CAB.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 23/2020 - Diário da República n.º 20/2020, Série I de 2020-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/23-2020-128597390), em vigor a partir de 2020-01-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331/2017 - Diário da República n.º 212/2017, Série I de 2017-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/331-2017-114145425), em vigor a partir de 2017-11-04"
+  },
+  "128558601": {
+   "fragment_id": "114148389",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão Coordenadora",
+   "in_force_from": "2020-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 23/2020 - Diário da República n.º 20/2020, Série I de 2020-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/23-2020-128597390), em vigor a partir de 2020-01-30"
+   ],
+   "markdown": "###### Artigo 9.º — Comissão Coordenadora\n\n1 - É constituída uma Comissão Coordenadora, que integra os membros presidentes das CAB, um representante do membro do Governo responsável pela área das Finanças, um representante do membro do Governo responsável pela área da Administração Pública, um representante do membro do Governo responsável pela área do Trabalho, Solidariedade e Segurança Social e um representante de cada uma das estruturas sindicais referidas nos n.os 1 e 2 do artigo 4.º, que aprecia na generalidade as questões que sejam comuns a duas ou mais Comissões, podendo adotar diretivas sobre as mesmas.\n\n2 - É aplicável à Comissão Coordenadora e aos seus membros o disposto nos artigos 5.º, 6.º e 8.º, com as necessárias adaptações.\n\n3 - O apoio logístico ao funcionamento da Comissão Coordenadora é assegurado pela Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 23/2020 - Diário da República n.º 20/2020, Série I de 2020-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/23-2020-128597390), em vigor a partir de 2020-01-30"
+  },
+  "128558602": {
+   "fragment_id": "114148396",
+   "type": 11,
+   "heading": "Artigo 15.º — Homologação",
+   "in_force_from": "2020-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 23/2020 - Diário da República n.º 20/2020, Série I de 2020-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/23-2020-128597390), em vigor a partir de 2020-01-30"
+   ],
+   "markdown": "###### Artigo 15.º — Homologação\n\nOs pareceres da CAB são submetidos a homologação dos membros do Governo responsáveis pelas áreas das Finanças, da Administração Pública, do Trabalho, Solidariedade e Segurança Social e da respetiva área governativa.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 23/2020 - Diário da República n.º 20/2020, Série I de 2020-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/23-2020-128597390), em vigor a partir de 2020-01-30"
+  }
+ }
+}

@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:858094002:por
+title: Resolução do Conselho de Ministros n.º 57-L/2024
+short_title: null
+summary: Autoriza a Construção Pública, E. P. E., a realizar a despesa e a assumir os encargos plurianuais relativos ao projeto
+  de adaptação do edifício das antigas instalações fabris, sito na Avenida do 1.º de Maio, 21 e 32, em Seia, designado por
+  «Antigas Instalações Fabris».
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 57-L/2024
+official_date: null
+publication_date: '2024-03-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28
+  number: '63'
+  series: I
+  supplement: null
+  pages: 24 - 26
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06301/0002400026.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/57-l/2024/03/28/p/dre/pt/html
+  oj: null
+  dre: '858094002'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/57-l-2024-858094002
+  internal: pt:dre:858094002:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-l-2024-858094002
+  metadata_url: https://data.dre.pt/eli/resolconsmin/57-l/2024/03/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/57-l-2024-858094002
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-03-28T00:00:00Z'
+integrity:
+  source_sha256: b735b04357e299a0d460c1145850762ecb5d28ea64f403b207f1e3a9fe5ac099
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-57-L-858094002.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização de Despesas
+- Conselho de Ministros
+- Delegação de Competências
+- Despesas Públicas
+- Ministro das Finanças
+- Instituto Politécnico
+- Ministro da Ciência Tecnologia e Ensino Superior
+- Ensino Superior
+- Residência de Estudantes
+- Seia
+- Guarda
+- Plano de Recuperação e Resiliência
+- Governo XXIII
+- Construção Pública
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/14/2022/01/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/14/2022/01/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/41/2007/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/41/2007/02/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/42/2023/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42/2023/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/60/2023/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/60/2023/07/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/le
+  label: null
+  source: http://data.dre.pt/eli/le
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/35-a/2022/01/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/35-a/2022/01/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/4/2023/01/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/4/2023/01/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 57-L/2024
+
+O Conselho Europeu criou o Next Generation EU, um instrumento de mitigação do impacto económico e social da crise provocada pela pandemia da doença COVID-19, contribuindo para assegurar o crescimento sustentável de longo prazo e responder aos desafios da dupla transição climática e digital.
+
+Este instrumento contém o Mecanismo de Recuperação e Resiliência, no qual se encontra enquadrado o Plano de Recuperação e Resiliência (PRR), que se consubstancia num programa de investimentos para todos os Portugueses, assente em três dimensões estruturantes: resiliência, transição climática e transição digital.
+
+Neste contexto, a componente C02 - Habitação, do PRR, definiu um conjunto de reformas e investimentos, designadamente o investimento RE-C02-i06, designado por "Alojamento estudantil a custos acessíveis", que configura uma reforma profunda do sistema de alojamento estudantil, com impacto significativo e efeitos duradouros na melhoria das condições de frequência dos estudantes do ensino superior. Em concreto, este plano de reformas e investimentos passa por acelerar a disponibilização de camas a preço regulado até 2026, nomeadamente através da construção, adaptação e recuperação de residências para estudantes, dando prioridade a projetos de reabilitação de edifícios do Estado, de instituições de ensino superior e de municípios, ou outros imóveis disponíveis ou a construir, garantindo uma boa qualidade do ar e um elevado padrão de eficiência energética, que contribuem para a redução do consumo de combustíveis fósseis.
+
+Nos termos dos artigos 5.º e 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual, bem como da [Resolução do Conselho de Ministros n.º 4/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2023-206350929), de 20 de janeiro, na sua redação atual, foi definido que compete à Agência Nacional ERASMUS+ Educação e Formação assegurar o financiamento das operações executadas pelos beneficiários finais, nomeadamente através da realização de despesa e da assunção dos encargos plurianuais, os quais incluem instituições de ensino superior, municípios, entidades públicas ou de capitais públicos dedicadas ao setor imobiliário ou da hospitalidade e pessoas coletivas públicas ou privadas de utilidade pública ou utilidade pública administrativa e âmbito social ou cultural.
+
+O apoio financeiro para a realização deste investimento foi contratualizado entre a Estrutura de Missão "Recuperar Portugal" e a Agência Nacional ERASMUS+ Educação e Formação, na qualidade de beneficiário intermediário, sendo a entidade globalmente responsável pela execução do investimento contratualizado, cabendo-lhe assegurar o financiamento das operações executadas pelos beneficiários finais, que incluem instituições de ensino superior, municípios, entidades públicas ou de capitais públicos dedicadas ao setor imobiliário ou da hospitalidade e pessoas coletivas públicas ou privadas de utilidade pública ou utilidade pública administrativa e âmbito social ou cultural.
+
+A ESTAMO, Participações Imobiliárias, S. A. (ESTAMO, S. A.), é proprietária do imóvel sito na Avenida do 1.º de Maio, 21 e 32, Crestelo, em Seia, designado por "Antigas Instalações Fabris", descrito na Conservatória do Registo Predial de Seia sob o n.º 4777, da freguesia de Seia, e inscrito na matriz predial urbana sob o artigo 5355 da União das Freguesias de Seia, São Romão e Lapa dos Dinheiros.
+
+A ESTAMO, S. A., submeteu candidaturas na qualidade de beneficiária final, tendo sido selecionada pelo Painel Independente de Alto Nível de Acompanhamento e Seleção, nos termos do Aviso para Manifestações de Interesse n.º 01/CO2-i06/2022, de 28 de janeiro, e do Convite à Submissão de Candidaturas a Financiamento, a que se refere o Aviso n.º 02/C02-i06/2022, de 25 de março, no âmbito do Plano Nacional para o Alojamento no Ensino Superior.
+
+Neste âmbito, foi celebrado entre a Agência Nacional ERASMUS+ Educação e Formação e a ESTAMO, S. A., o Contrato-Programa de Financiamento n.º 95_01/CO2-I06/2022, que corresponde ao projeto de adaptação do edifício das antigas instalações fabris, sito na Avenida do 1.º de Maio, 21 e 32, em Seia, designado por "Antigas Instalações Fabris".
+
+A celebração do contrato em causa e o respetivo conteúdo não prejudica a possibilidade de cessão da posição contratual por parte da ESTAMO, S. A., nos termos legais, desde que tal cessão seja feita a favor de entidade que reúna as condições legalmente previstas para ser beneficiário final do projeto em causa e de, no mesmo ato, ficar por si assegurada a transmissão de todos os direitos e obrigações, presentes e futuros, emergentes do contrato em causa.
+
+A Construção Pública, E. P. E., anteriormente designada por Parque Escolar, E. P. E., é uma pessoa coletiva de direito público de natureza empresarial, dotada de personalidade jurídica, autonomia administrativa e financeira e de património próprio, regendo-se pelo regime jurídico do setor público empresarial, aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, e com as especificidades previstas no [Decreto-Lei n.º 41/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2007-517859), de 21 de fevereiro, na sua atual versão, bem como pelos seus Estatutos e respetivo regulamento interno, sendo tutelada pelos Ministros das Finanças, da Educação e da Habitação.
+
+A Construção Pública, E. P. E., foi recentemente objeto de reestruturação pelo [Decreto-Lei n.º 42/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), de 5 de junho, que procedeu não só à sua redenominação social como à alteração do seu objeto social, alargando-o à área da habitação pública, conferindo-lhe uma vocação mais ampla e abrangente, enquanto instrumento especializado e ágil para dar corpo às intervenções que se revelem necessárias no âmbito da promoção e requalificação do património público edificado ou a edificar, sem prejuízo de ampliação da sua atividade a outras áreas governativas em que se justifique a sua intervenção, tanto no âmbito da cooperação internacional como da cooperação interna, prosseguindo fins de interesse público para além da área governativa da educação e da habitação.
+
+A Construção Pública, E. P. E., tem, pois, as atribuições, experiência e competências adquiridas adequadas para garantir a concretização da fase de investimento prevista no mencionado Contrato-Programa de Financiamento, sendo que, logo que concluída essa fase, deverá transmitir a sua posição contratual a entidade com experiência na atividade de exploração de residências de estudantes e ou de jovens, tendo em vista o desenvolvimento da fase de operação.
+
+O Instituto Politécnico da Guarda manifestou o seu interesse em assumir a posição contratual da Construção Pública, E. P. E., na fase de operação, sendo esta a única instituição de ensino superior presente naquele concelho, onde desenvolve as suas atividades através da sua Escola Superior de Turismo e Hotelaria.
+
+Assim:
+
+Nos termos do artigo 32.º do [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, na sua redação atual, da alínea b) do n.º 5 do artigo 25.º, do n.º 2 do artigo 37.º, do n.º 2 do artigo 38.º e dos n.<sup>os</sup>1 e 2 do artigo 39.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, dos artigos 5.º e 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual, dos artigos 5.º e 6.º do [Decreto-Lei n.º 14/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2022-177583957), de 13 de janeiro, da [Portaria n.º 35-A/2022](https://diariodarepublica.pt/dr/detalhe/portaria/35-a-2022-177687478), de 14 de janeiro, do n.º 3 do artigo 1.º e dos artigos 3.º e 10.º do [Decreto-Lei n.º 41/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2007-517859), de 21 de fevereiro, na sua redação atual, e das alíneas b), f), h) e i) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 60/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), de 24 de julho, na sua redação atual, do n.º 1 do artigo 4.º e do n.º 1 do artigo 7.º da [Lei n.º 56/2023](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), de 6 de outubro, na sua redação atual, da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a aquisição pelo Estado do imóvel sito na Avenida do 1.º de Maio, Crestelo, em Seia, descrito na Conservatória do Registo Predial de Seia sob o n.º 4777, da freguesia de Seia, e inscrito na matriz predial urbana sob o artigo 5355 da União das Freguesias de Seia, São Romão e Lapa dos Dinheiros, propriedade da ESTAMO, Participações Imobiliárias, S. A. (ESTAMO, S. A.), pelo valor da avaliação, no montante de EUR 174 000.
+
+2 - Determinar que o imóvel referido no número anterior se destina à criação de alojamentos para estudantes do ensino superior, a realizar pela Construção Pública, E. P. E., competindo a gestão dos referidos alojamentos ao Instituto Politécnico da Guarda.
+
+3 - Determinar que, no âmbito do Plano Nacional para o Alojamento no Ensino Superior, a ESTAMO, S. A., cede à Construção Pública, E. P. E., a sua posição no Contrato-Programa de Financiamento n.º 95_01/CO2-I06/2022, celebrado ao abrigo do investimento RE-C02-i06 - "Alojamento estudantil a custos acessíveis", decorrente de fundos Plano de Recuperação e Resiliência (PRR), com a Agência Nacional ERASMUS+ Educação e Formação, com vista à criação de alojamentos para estudantes do ensino superior, e subsequentemente ao Instituto Politécnico da Guarda aquando da respetiva gestão.
+
+4 - Determinar que a Construção Pública, E. P. E., pratique todos os atos necessários com vista ao planeamento, contratação e gestão da fase de investimento do Contrato-Programa referido no número anterior com garantia de qualidade e no estrito cumprimento das obrigações legais, designadamente orçamentais, de contratação pública e de cumprimento das metas contratualizadas no âmbito do PRR.
+
+5 - Autorizar a Construção Pública, E. P. E., a realizar a despesa e a assumir os encargos plurianuais, na qualidade de beneficiário final, no âmbito do referido Contrato-Programa de Financiamento até ao montante máximo de EUR 6 650 351,14, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
+
+6 - Estabelecer que os encargos financeiros decorrentes da presente resolução são suportados por verbas do PRR e por verbas financiadas pelo orçamento da Construção Pública, E. P. E., não podendo exceder, em cada ano económico, os seguintes montantes:
+
+a) Verbas financiadas pelo PRR provenientes do investimento RE-C02-i06 - "Alojamento estudantil a custos acessíveis", até ao montante global de EUR 3 755 325, ao qual acresce o IVA à taxa legal em vigor, sem prejuízo, se aplicável, do disposto no artigo 16.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual, repartidos da seguinte forma:
+
+i) Em 2024: EUR 1 225 000;
+
+ii) Em 2025: EUR 2 365 325;
+
+iii) Em 2026: EUR 165 000;
+
+b) Verbas inscritas e a inscrever no orçamento da Construção Pública, E. P. E., até ao montante de:
+
+i) EUR 2 895 026,14, ao qual acresce o IVA à taxa legal em vigor, no montante de EUR 262 134,56, referente às despesas não elegíveis;
+
+ii) EUR 225 319,50, referente ao IVA da despesa elegível.
+
+7 - Determinar que o montante fixado na alínea b) do número anterior para cada ano económico é repartido da seguinte forma:
+
+a) Em 2024: EUR 378 848,64;
+
+b) Em 2025: EUR 2 973 994,20;
+
+c) Em 2026: EUR 29 637,36.
+
+8 - Determinar que os montantes fixados nos n.<sup>os</sup>6 e 7 para cada ano económico podem ser acrescidos do saldo apurado no ano que lhe antecede, dentro dos limites previstos no n.º 5 e do prazo de execução do PRR.
+
+9 - Delegar, com a faculdade de subdelegação, no membro do Governo responsáveis pelas áreas das finanças e da ciência e tecnologia, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+
+10 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 24 de março de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.

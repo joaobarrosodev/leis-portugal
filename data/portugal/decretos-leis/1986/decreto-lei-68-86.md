@@ -1,0 +1,617 @@
+---
+schema_version: '1.0'
+id: pt:dre:196194:por
+title: Decreto-Lei n.º 68/86
+short_title: null
+summary: Define o regime de atribuição do subsídio de renda de casa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 68/86
+official_date: null
+publication_date: '1986-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 72/1986, Série I de 1986-03-27
+  number: '72'
+  series: I
+  supplement: null
+  pages: 727 - 732
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/03/07200/07270732.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-05-23'
+version_history:
+  file: decreto-lei-68-86.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1986-03-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-08-05'
+    amending: pt:dre:218677:por
+    amending_title: Lei n.º 21/86
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 15.º
+    - Altera Artigo 21.º
+  - date: '2001-01-22'
+    amending: pt:dre:516973:por
+    amending_title: Decreto-Lei n.º 329-B/2000
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 2.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+  - date: '2021-05-23'
+    amending: pt:dre:163561196:por
+    amending_title: Lei n.º 28/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/68/1986/p/cons/20210518/pt/html
+  oj: null
+  dre: '196194'
+  dre_path: /dr/detalhe/decreto-lei/68-1986-196194
+  internal: pt:dre:196194:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1986-196194
+  metadata_url: https://data.dre.pt/eli/dec-lei/68/1986/p/cons/20210518/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-163648410
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-163648410
+  retrieved_at: '2026-10-22T12:41:58Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 171727214164ce62ff3b3066d0b0432ea9d004a57bd50217c0ebab9763d65f64
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:41:58Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-68-86.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arrendamento Urbano para Habitação
+- Deficiente
+- Renda Limite
+- Segurança Social
+- Subsídio de Renda de CASA
+relationships:
+- type: amended_by
+  target: pt:dre:218677:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 15.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/21-1986-218677
+  date: '1986-07-31'
+- type: amended_by
+  target: pt:dre:516973:por
+  label: Adita Artigo 2.º-A; Adita Artigo 2.º-B; Altera Artigo 1.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973
+  date: '2000-12-22'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196
+  date: '2021-05-18'
+article_structure:
+  article_count: 30
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:41:58Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 68/86
+
+Decreto-Lei n.º 68/86
+
+de 27 de Março
+
+A Lei n.º 46/85, de 20 de Setembro, cria o subsídio a que têm acesso os inquilinos cujas rendas fiquem sujeitas à correcção extraordinária nela estabelecida ou tenham sido ajustadas nos termos dos Decretos-Leis n.os 294/82, de 27 de Julho, e 449/83, de 26 de Dezembro.
+
+A regulamentação deste subsídio, objecto do presente diploma, assenta nos seguintes princípios gerais:
+
+Periodicidade anual do subsídio de renda;
+
+Constância do seu montante durante o ano para que é atribuído;
+
+Determinação desse montante através de tabelas publicadas previamente;
+
+Administração descentralizada nos centros regionais de segurança social.
+
+Para os casos de decréscimos inesperados e sensíveis dos rendimentos da família, nomeadamente se devidos a morte, desemprego, reforma, suspensão do contrato de trabalho por prestação de serviço militar ou de serviço cívico obrigatório, foi previsto um subsídio especial de carência.
+
+No presente decreto-lei estabelecem-se, ainda, as bases do cálculo do subsídio no caso geral, a partir da renda, do rendimento mensal bruto e da dimensão do agregado familiar.
+
+O modelo de cálculo adoptado estabelece a equivalência entre os rendimentos de famílias de diferente dimensão, reduzindo-os a um rendimento padrão de referência, correspondente à dimensão média das famílias em Portugal. Considerou-se, por outro lado, que, para essa família de referência, três remunerações mínimas nacionais constituíam o rendimento para além do qual cessaria o apoio do Estado ao pagamento da renda.
+
+Fixou-se uma metodologia de determinação anual da renda limite - o máximo da renda, correspondente a cada dimensão do agregado familiar, que pode ser subsidiada - e, com base nestes parâmetros e na definição de uma função que traduz a taxa de esforço considerada ajustada a cada nível de rendimentos, define-se o procedimento para o cálculo dos montantes do subsídio.
+
+O diploma regulamenta, também, o processo de atribuição e a gestão do subsídio, procurando estabelecer mecanismos e soluções, tão expeditos e de tão fácil administração quanto possível, tendo em conta as exigências mínimas de controle.
+
+O presente diploma alarga, ainda, a possibilidade de suspensão dos despejos, já prevista na Lei n.º 46/85 para o primeiro ano, aos outros anos e para áreas territoriais delimitadas, sempre que se verifiquem atrasos excepcionais na atribuição dos subsídios nessas áreas.
+
+É, também, determinada a suspensão da correcção extraordinária da renda quando os senhorios se recusem a fornecer aos inquilinos documentos exigidos para a candidatura ao subsídio.
+
+Faz-se ainda depender a entrada em vigor da correcção extraordinária das rendas da publicação da portaria que fixa as tabelas do subsídio e da renda limite, momento a partir do qual se considera integralmente regulamentada a Lei n.º 46/85, de 20 de Setembro.
+
+Por último, são previstas disposições transitórias relativamente às candidaturas ao subsídio de renda para 1986.
+
+Assim:
+
+O Governo decreta, em execução do disposto no n.º 2 do artigo 53.º da Lei n.º 46/85, de 20 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### Capítulo I — Do subsídio de renda
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 1.º — (Direito ao subsídio de renda)
+
+1 - Os arrendatários e subarrendatários que se encontrem nas condições referidas nos artigos 22.º e 23.º da Lei n.º 46/85, de 20 de Setembro, têm direito a um subsídio de renda, nos termos previstos no mesmo diploma, quanto ao arrendamento do fogo ou parte do fogo que constitua a sua residência permanente.
+
+2 - O disposto no número anterior aplica-se no caso dos aumentos de renda resultantes do artigo 38.º do Regime do Arrendamento Urbano, conjugado, em alternativa, com o n.º 2, ou o n.º 4 ou o n.º 5 do artigo 12.º do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA), na redacção dada pelo Decreto-Lei n.º 329-C/2000, de 22 de Dezembro, bem como aos resultantes do realojamento no mesmo ou noutros fogos por antigos inquilinos por força da Lei n.º 2088, de 3 de Junho de 1957, excepto no caso de reocupação em edifício novo.
+
+3 -Nas disposições subsequentes do presente diploma a referência a arrendatários considera-se igualmente reportada a subarrendatários.
+
+4- Os subsídios de renda atribuídos nos termos dos artigos 3.º e 4.º deste diploma não são acumuláveis com o atribuído de harmonia com o regime geral, previsto no artigo seguinte.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 329-B/2000 - Diário da República n.º 294/2000, 1º Suplemento, Série I-A de 2000-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), em vigor a partir de 2001-01-22
+
+###### Artigo 2.º — (Subsídio de renda - regime geral)
+
+1 - O subsídio é atribuído para o período de um ano civil, sendo eventualmente renovável, desde que se continuem a verificar os pressupostos legais para a sua atribuição.
+
+2 - O subsídio será atribuído aos agregados familiares que, para além de se encontrarem nas condições referidas no n.º 1 do artigo 1.º, tenham, num determinado ano, rendimentos e rendas, respectivamente, iguais ou inferiores e iguais ou superiores aos limites indicados em tabelas a aprovar anualmente, até 30 de Novembro, por portaria dos Ministros das Obras Públicas, Transportes e Comunicações e do Trabalho e Segurança Social, para vigorarem no ano civil seguinte.
+
+3 - O montante do subsídio será o indicado nessas tabelas, mas, no caso de agregados familiares cujos rendimentos mensais sejam iguais ou inferiores ao produto da pensão mínima de invalidez e velhice do regime geral da Segurança Social pelos factores de equivalência correspondentes à respectiva dimensão, referidos no artigo 7.º e indicados na tabela anexa, o subsídio será igual ao aumento da renda devido à correcção extraordinária ou ao ajustamento efectuado nos termos dos Decretos-Leis n.os 294/82, de 27 de Julho, e 449/83, de 26 de Dezembro.
+
+4 - Se a pensão mínima indicada no número anterior não tiver sido actualizada no ano civil a que se referem os rendimentos declarados, o valor a aplicar no cálculo do subsídio, nos termos desse número, será igual ao produto daquela pensão pelo factor de actualização do salário mínimo nacional, correspondente ao número inteiro de anos passados desde a última fixação daquela pensão mínima.
+
+5 - A não atribuição de subsídio em determinado ano ou anos, em consequência do estabelecido no n.º 2, não prejudica o direito ao subsídio em anos posteriores, desde que se continuem a verificar os pressupostos referidos no artigo 1.º
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 2.º-A — Subsídios por aumentos resultantes de obras ou realojamentos
+
+1 - O subsídio atribuído por força do n.º 2 do artigo 1.º tem as especialidades seguintes, relativamente ao regime geral previsto no artigo 2.º
+
+2 - Não é aplicável o disposto nos artigos 8.º, 9.º, 10.º e 11.º
+
+3 - O valor do subsídio é igual à diferença entre o valor da renda objecto do n.º 2 do artigo 1.º e o valor resultante da aplicação da taxa de esforço ao rendimento mensal bruto do agregado familiar, de acordo com a seguinte tabela:
+
+... Percentagem
+
+Rp < 1 SMN ... 10
+
+1 SMN =< Rp < 1,5 SMN ... 13
+
+1,5 SMN =< Rp < 2 SMN ... 17
+
+2 SMN =< Rp < 3 SMN ... 21
+
+3 SMN =< Rp < 4 SMN ... 25
+
+em que:
+
+Rp = rendimento padrão determinado nos termos do artigo 7.º;
+
+SMN = salário mínimo nacional.
+
+4 - Quando o valor Rp for maior ou igual a quatro vezes o SMN não há direito ao subsídio.
+
+5 - O subsídio de renda tem como limite máximo a diferença entre o valor da renda actual e o valor da renda objecto do n.º 2 do artigo 1.º
+
+6 - Não há lugar à concessão de subsídio quando o arrendatário ou o cônjuge residindo na área metropolitana de Lisboa ou do Porto forem proprietários de imóvel, ou fracção, para habitação nas respectivas áreas metropolitanas, ou quando residindo no resto do País sejam proprietários de imóvel, ou fracção, para habitação no mesmo município, adquirido após o início do arrendamento excepto no caso de sucessão mortis causa.
+
+7 - Para efeitos da alínea b) do n.º 1 do artigo 5.º, os hóspedes incluem-se no agregado familiar.
+
+8 - Para efeitos da alínea b) do n.º 1 do artigo 5.º, no caso de indivíduo maior que não apresente rendimentos, nem faça prova de estar incapacitado para o trabalho ou reformado por velhice ou invalidez, presume-se, para efeito do cômputo do rendimento total do respectivo agregado familiar, que aquele aufere um rendimento mensal de valor correspondente a 100% do montante da pensão social.
+
+9 - Para efeitos do n.º 2 do artigo 12.º, deverá ainda o requerente juntar os documentos seguintes:
+
+a) Em substituição do documento previsto na alínea c) do n.º 2 do artigo 12.º, documento subscrito pelo arrendatário interessado, do qual constem, designadamente, os elementos relativos à composição e rendimentos do agregado familiar, acompanhado da última nota demonstrativa de liquidação do imposto sobre o rendimento das pessoas singulares e da respectiva declaração de rendimentos que lhe diga respeito;
+
+b) Declaração, sob compromisso de honra, da veracidade dos elementos constantes do requerimento e do n.º 6 e da existência ou não de hóspedes;
+
+c) No caso de as obras terem sido realizadas ao abrigo do programa RECRIA, cópia da comunicação feita pelo IGAPHE ao senhorio aprovando a comparticipação e donde conste o valor da nova renda;
+
+d) No caso de obras realizadas sem recurso a comparticipação, cópia do orçamento aprovado pela respectiva câmara municipal e descrição com o cálculo da nova renda.
+
+10 - O requerimento previsto no n.º 1 do artigo 12.º pode ser apresentado em qualquer altura do ano, no prazo de 30 dias após o requerente ter recebido a comunicação do proprietário referida nas alíneas c) ou d) do n.º 9, podendo ser deferido sem prejuízo do disposto no n.º 12.
+
+11 - O subsídio será pago mensalmente por transferência bancária.
+
+12 - O pagamento do primeiro subsídio fica sujeito à condição suspensiva de o requerente juntar ao processo a comunicação do senhorio informando da conclusão das obras e o mês a partir do qual passa a cobrar a nova renda.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 329-B/2000 - Diário da República n.º 294/2000, 1º Suplemento, Série I-A de 2000-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), em vigor a partir de 2001-01-22
+
+###### Artigo 2.º-B — Contra-ordenações
+
+1 - Constituem contra-ordenações as declarações a que se referem as alíneas a) e b) do n.º 9 do artigo 2.º-A, quando emitidas em desconformidade com a verdade.
+
+2 - As contra-ordenações mencionadas no número anterior são puníveis com coima no montante mínimo de 100000$00 e máximo de 750000$00.
+
+3 - São puníveis a tentativa e a negligência.
+
+4 - A competência para determinar a instauração dos processos de contra-ordenação, para designar o instrutor e para aplicar as coimas cabe ao órgão gestor da instituição de segurança social que abrange o beneficiário.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 329-B/2000 - Diário da República n.º 294/2000, 1º Suplemento, Série I-A de 2000-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), em vigor a partir de 2001-01-22
+
+###### Artigo 3.º — (Subsídio especial para arrendatários deficientes)
+
+1 - Aos arrendatários que sejam deficientes, com grau de incapacidade igual ou superior a 60%, é atribuído um subsídio de renda de montante a determinar caso a caso, tendo em conta o disposto no n.º 1 do artigo 25.º da Lei n.º 46/85, de 20 de Setembro.
+
+2 - O disposto no número anterior é igualmente aplicável nos casos em que seja deficiente o cônjuge do arrendatário ou a pessoa que com este viva em condições análogas às dos cônjuges nos termos do artigo 2020.º do Código Civil.
+
+3-O pedido de concessão do subsídio especial para arrendatários deficientes deverá ser acompanhado de documento comprovativo do grau de deficiência passado pelos serviços de saúde competentes.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 329-B/2000 - Diário da República n.º 294/2000, 1º Suplemento, Série I-A de 2000-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-2000-516973), em vigor a partir de 2001-01-22
+
+###### Artigo 4.º — (Subsídio especial de carência)
+
+1 - Os arrendatários a quem esteja a ser atribuído, ao abrigo dos artigos 2.º ou 3.º, subsídio de renda ou subsídio especial para deficientes, cujas condições económicas tenham sofrido alterações que determinem agravamento significativo da sua situação, podem requerer, a todo o tempo, a concessão de um subsídio especial de carência, cujo valor será determinado caso a caso e que vigorará pelo período de tempo expressamente determinado no despacho de concessão, sem prejuízo do disposto no n.º 8.
+
+2 - Poderá ser, igualmente, atribuído subsídio especial de carência aos arrendatários nas condições do n.º 1 do artigo 22.º da Lei n.º 46/85, de 20 de Setembro, a quem não tivesse ainda sido concedido subsídio de renda por não reunirem as restantes condições para a sua atribuição e que, pelas causas referidas no n.º 1 do presente artigo, sofram um agravamento das suas condições económicas.
+
+3 - A avaliação da gravidade das condições económicas, a decisão de atribuição do subsídio e a fixação do respectivo montante são da competência dos centros regionais de segurança social.
+
+4 - Considera-se existir um agravamento das condições económicas sempre que, por força da ocorrência de qualquer das hipóteses previstas no n.º 1, o rendimento mensal bruto do agregado familiar seja reduzido em pelo menos 30% ou o rendimento per capita se torne igual ou inferior ao valor da pensão social do regime não contributivo da Segurança Social.
+
+5 - O subsídio especial de carência terá como limite mínimo 200$00, nos casos do n.º 1, ou o valor apurado nos termos do artigo 10.º, nos casos do n.º 2, e como limite máximo o montante do aumento da renda.
+
+6 -Salvo declaração em contrário do interessado, o subsídio especial de carência será atribuído por um período mínimo de três meses
+
+7 - Os requerimentos para concessão de subsídio especial de carência deverão ser acompanhados de prova da alteração das circunstâncias que os justificam.
+
+8 - Sem prejuízo do disposto no n.º 6, o subsídio especial de carência não poderá transitar de um ano civil para o seguinte, mesmo que continuem a verificar-se as condições que justificam a sua anterior atribuição, devendo, neste caso, os arrendatários candidatar-se ao subsídio geral ou especial para deficientes, conforme os casos.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 21/86 - Diário da República n.º 174/1986, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/lei/21-1986-218677), em vigor a partir de 1986-08-05
+
+### Capítulo II — Conceitos e normas para o cálculo das tabelas do subsídio geral
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 5.º — (Conceitos)
+
+1 - Para efeitos do presente diploma, considera-se:
+
+a) Agregado familiar - as pessoas referidas na alínea a) do n.º 1 do artigo 1109.º do Código Civil, bem como a pessoa que viva com o arrendatário, não casado ou separado judicialmente de pessoas e bens, em condições análogas às dos cônjuges, desde que a convivência seja em economia comum e há mais de um ano, salvo, quanto a esta restrição temporal, se se tratar de descendente ou adoptado;
+
+b)  Rendimento mensal bruto - o quantitativo que resultar da divisão por doze da soma dos rendimentos ilíquidos efectivamente recebidos por todos os elementos do agregado familiar no ano civil anterior à data de início da apresentação de candidaturas ao subsídio referido no n.º 1 do artigo 12.º;
+
+c) Renda - o quantitativo devido mensalmente ao senhorio, pelo uso do fogo para fins habitacionais, referente ao ano civil a que o subsídio respeite;
+
+d) Rendimento padrão - o valor de referência calculado a partir do rendimento mensal bruto e que estabelece a equivalência dos rendimentos de famílias de diversas dimensões;
+
+e) Salário mínimo nacional - a média das remunerações mínimas mensais garantidas para a generalidade dos trabalhadores, em vigor durante o ano civil referido na alínea b), ponderada pelo número de dias em que cada valor dessas remunerações mínimas tenha estado em vigor;
+
+f) Renda limite - o quantitativo máximo da renda, correspondente a cada dimensão do agregado familiar, que serve de base ao cálculo do montante do subsídio de renda;
+
+g) Renda base - o quantitativo, determinado em função dos rendimentos e da dimensão do agregado familiar, abaixo do qual não há lugar à atribuição do subsídio de renda.
+
+2 - Os rendimentos ilíquidos a considerar para o cálculo do rendimento mensal bruto serão, quando existam, designadamente os seguintes:
+
+Ordenados, salários ou outras remunerações do trabalho, subordinado ou independente, incluindo diuturnidades, subsídios de férias, de Natal ou outros;
+
+Rendimentos de prédios rústicos ou urbanos;
+
+Rendas temporárias ou vitalícias;
+
+Pensões de reforma, de aposentação, de velhice, de invalidez, de sobrevivência, sociais, de sangue ou outras;
+
+Rendimentos da aplicação de capitais;
+
+Rendimentos resultantes do exercício da actividade comercial ou industrial;
+
+Quaisquer outros subsídios, exceptuando as prestações familiares.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 21/86 - Diário da República n.º 174/1986, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/lei/21-1986-218677), em vigor a partir de 1986-08-05
+
+###### Artigo 6.º — (Tabelas de subsídio)
+
+As tabelas a que se referem o artigo 26.º da Lei n.º 46/85, de 20 de Setembro, e o n.º 2 do artigo 2.º do presente diploma serão elaboradas, de acordo com os artigos seguintes, por forma que os quantitativos do subsídio sejam múltiplos de 100$00, arredondando-se para o valor mais próximo.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 7.º — (Rendimento padrão)
+
+O rendimento padrão de um agregado familiar é determinado pela fórmula:
+
+Rendimento padrão = 2,40/f (n) x rendimento mensal bruto
+
+em que f(n) é um factor de equivalência dos rendimentos dos agregados familiares de diversa dimensão, cujos valores são os fixados na tabela anexa, e 2,40 é o valor de f(n) correspondente à família média portuguesa.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 8.º — (Renda limite)
+
+1 - A renda limite será determinada tendo em conta:
+
+a) As tipologias de habitação adequadas à dimensão dos agregados familiares, definidas pelo Decreto Regulamentar n.º 50/77, de 11 de Agosto;
+
+b) A taxa de renda e os preços de habitação, por metro quadrado de área útil, aplicáveis no cálculo das rendas de fogos em regime de renda condicionada, tendo em conta a idade média do parque habitacional.
+
+2 - As rendas limite utilizadas no cálculo das tabelas de subsídio serão estabelecidas na portaria referida no n.º 2 do artigo 2.º
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 9.º — (Renda base)
+
+1 - A renda base determina-se pela aplicação de uma percentagem ao rendimento mensal bruto do agregado familiar.
+
+2 - A referida percentagem determina-se pela fórmula:
+
+p = 10 x Rp/SMN
+
+em que Rp é o rendimento padrão e SMN o salário mínimo nacional.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 10.º — (Montante do subsídio)
+
+Consoante os casos, o montante do subsídio será:
+
+a) Igual ao aumento da renda, quando se verifiquem as circunstâncias previstas no n.º 3 do artigo 2.º;
+
+b) O que resultar da aplicação das seguintes fórmulas:
+
+1) Se a renda for igual ou inferior à renda limite:
+
+(ver documento original)
+
+2) Se a renda for superior à renda limite:
+
+S = 0,5 (R(índice l) - R(índice b))
+
+Sendo R a renda, R(índice l) a renda limite, R(índice b) a renda base e S o subsídio.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 11.º — (Situações de não atribuição do subsídio de renda)
+
+1 - Não haverá lugar à atribuição do subsídio quando, relativamente a cada ano, se verificar qualquer das seguintes situações:
+
+a) Rendimento padrão superior a três vezes o salário mínimo nacional;
+
+b) Renda base superior à renda limite;
+
+c) Renda inferior à renda base.
+
+2 - Não haverá ainda atribuição de subsídio quando o respectivo montante, determinado nos termos do artigo anterior, for inferior a 1% do salário mínimo nacional, arredondado para a centena de escudos imediatamente superior.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+### Capítulo III — Processo de candidatura
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 12.º — (Requerimento do subsídio)
+
+1 - O requerimento para a concessão do subsídio de renda será apresentado durante os meses de Dezembro e Janeiro, respectivamente anterior e do próprio ano a que respeita o subsídio, no centro regional de segurança social da área da residência do arrendatário, em impresso de modelo a aprovar por despacho conjunto dos Ministros das Obras Públicas, Transportes e Comunicações e do Trabalho e Segurança Social, a publicar no Diário da República.
+
+2 - Com o requerimento serão juntos os documentos seguintes:
+
+a) Recibo da renda ou documento comprovativo do pagamento desta respeitante ao mês anterior, no qual se fará menção do ano em que aquela foi fixada;
+
+b) Fotocópia do documento referido no n.º 2 do artigo 3.º do Decreto-Lei n.º 13/86, de 23 de Janeiro;
+
+c) Declaração das entidades empregadoras comprovando os rendimentos ilíquidos do trabalho dos elementos do agregado familiar auferidos no ano civil referido na alínea b) do artigo 5.º;
+
+d) Declaração dos centros regionais de segurança social, Centro Nacional de Pensões, Caixa Geral de Aposentações ou outras entidades comprovando os montantes pagos no ano civil referido na alínea anterior aos elementos do agregado familiar a título de pensões, rendas e subsídios;
+
+e) Declaração do centro regional de segurança social confirmando a situação de desemprego de elementos do agregado familiar e o montante do respectivo subsídio pago no ano civil anteriormente referido;
+
+f) Fotocópias dos bilhetes de identidade ou cédulas pessoais para identificação dos membros do agregado familiar.
+
+3 - No requerimento far-se-á menção da conta bancária, no caso de ser solicitado o recebimento por subsídio através de transferência bancária.
+
+4 - As declarações a emitir pelos centros regionais de segurança social são dispensadas quando o centro que as deve emitir for aquele ao qual é requerido o subsídio.
+
+5 - As declarações a emitir pelo Centro Nacional de Pensões são dispensadas quando o centro regional de segurança social competente para atribuição do subsídio puder comprovar, através de terminal de computador, as importâncias pagas aos beneficiários.
+
+6 - A emissão das declarações a que se referem os números anteriores é gratuita e isenta de selo.
+
+7 - A renovação do subsídio depende da apresentação de novo requerimento.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 13.º — (Gestão do subsídio)
+
+1 - A gestão do subsídio de renda cabe ao Ministério das Obras Públicas, Transportes e Comunicações, através da Secretaria de Estado da Construção e Habitação, o qual poderá propor, anualmente, alterações às formas de acesso e de cálculo do subsídio.
+
+2 - Considera-se transferida para os conselhos directivos dos centros regionais de segurança social a competência para decidir sobre os requerimentos para atribuição do subsídio de renda de casa.
+
+3 - Das decisões sobre deferimento ou indeferimento do subsídio de renda, proferidas pelos conselhos directivos dos centros regionais de segurança social, cabe recurso para os tribunais administrativos de círculo.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 14.º — (Organização e tramitação do processo)
+
+1 - Compete às instituições de segurança social a organização dos processos para atribuição dos subsídios de renda e o respectivo pagamento.
+
+2 - Nos casos em que durante a organização dos processos se verifique a existência de dúvidas, deverão os serviços solicitar o seu esclarecimento aos interessados por meio de ofício com aviso de recepção.
+
+3 - Após a recepção do pedido de esclarecimento, os interessados disporão do prazo de quinze dias para as prestar, sem o que o processo será arquivado.
+
+4 - A decisão proferida sobre os processos para atribuição dos subsídios de renda, geral ou especial para deficientes, será comunicada aos interessados até ao dia 28 de Fevereiro do ano a que o subsídio respeite.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 15.º — (Forma e data de pagamento)
+
+1 -O subsídio de renda, com excepção do subsídio especial de carência referido no artigo 4.º, será pago trimestralmente, estando a pagamento durante o 2.º mês do trimestre a que se refere.
+
+2 - A periodicidade do pagamento do subsídio especial de carência será estabelecida no despacho que o conceder.
+
+3 - O direito ao recebimento dos subsídios prescreve no prazo de um ano contado do último dia do mês em que foi posto a pagamento.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 21/86 - Diário da República n.º 174/1986, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/lei/21-1986-218677), em vigor a partir de 1986-08-05
+
+### Capítulo IV — Da gestão financeira
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 16.º — (Provisões orçamentais)
+
+1 - As verbas inscritas no Orçamento do Estado necessárias para o pagamento dos subsídios de renda, bem como as que correspondam às despesas de administração, serão transferidas do Ministério das Obras Públicas, Transportes e Comunicações para o Instituto de Gestão Financeira da Segurança Social no primeiro mês do trimestre a que respeitem.
+
+2 - Até 31 de Janeiro de cada ano o Instituto de Gestão Financeira deverá apresentar a conta referente ao pagamento do subsídio de renda e respectivas despesas de administração durante o ano anterior, procedendo-se às compensações a que haja lugar.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 17.º — (Despesas de administração)
+
+As despesas de administração a que se refere o n.º 1 do artigo anterior incluirão, nomeadamente, as referentes ao pessoal afecto à execução do presente diploma.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+### Capítulo V — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 18.º — (Registo dos titulares do subsídio)
+
+Os titulares do subsídio de renda não inscritos na Segurança Social serão incluídos no respectivo ficheiro, tendo em vista a sua correcta identificação e a atribuição e processamento informático dos subsídios.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 19.º — (Dados para a gestão)
+
+As instituições de segurança social devem transmitir à Secretaria de Estado da Construção e Habitação todos os dados de que disponham relativos à concessão do subsídio de renda, por forma a possibilitar a sua adequada gestão.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 20.º — (Fiscalização)
+
+1 - Cabe aos centros regionais de segurança social a fiscalização da atribuição do subsídio de renda.
+
+2 - Compete ao Ministério das Finanças, através da Direcção-Geral das Contribuições e Impostos, controlar os rendimentos declarados nos processos de candidatura aos subsídios previstos nos artigos 2.º, 3.º e 4.º do presente diploma que venham a ser deferidos.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 21.º — (Suspensão excepcional de despejos)
+
+No caso de em qualquer ano se verificar um atraso excepcional na atribuição dos subsídios de renda na área territorial de um centro regional de segurança social, os Ministros da Justiça, das Obras Públicas, Transportes e Comunicações e do Trabalho e Segurança Social deverão decretar a suspensão provisória dos despejos nessa área, nos mesmos termos e com as mesmas consequências do disposto no artigo 50.º da Lei n.º 46/85, de 20 de Setembro.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 21/86 - Diário da República n.º 174/1986, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/lei/21-1986-218677), em vigor a partir de 1986-08-05
+
+###### Artigo 22.º — (Suspensão de correcção extraordinária)
+
+As rendas de prédios cujos senhorios se recusem a fornecer aos respectivos arrendatários os documentos por estes solicitados e referidos nas alíneas a), b) e c) do n.º 2 do artigo 12.º, quando exigíveis no processo de candidatura ao subsídio, não poderão ser objecto da correcção extraordinária determinada na Lei n.º 46/85, de 20 de Setembro, enquanto se mantiver aquela recusa, com prejuízo do recebimento dos quantitativos resultantes daquela correcção relativo aos meses entretanto decorridos.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 23.º — (Subsídio de renda para 1986)
+
+1 - Os Ministros das Obras Públicas, Transportes e Comunicações e do Trabalho e Segurança Social publicarão, no prazo de 60 dias a contar da data da publicação do presente diploma, a portaria estabelecendo as tabelas de subsídio, bem como as rendas limite para 1986.
+
+2 - Os requerimentos para a atribuição do subsídio previsto no artigo 2.º, respeitante ao ano de 1986, deverão ser apresentados no prazo de 90 dias a contar do primeiro dia do mês seguinte ao da publicação da portaria a que se refere o número anterior.
+
+3 - Os rendimentos a considerar para o cálculo do subsídio do ano de 1986 são os relativos a 1984.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 24.º — (Primeiro pagamento do subsídio de 1986)
+
+Os arrendatários a quem for atribuído subsídio de renda para 1986 receberão, no primeiro mês em que aquele estiver a pagamento, os montantes havidos pelos subsídios em atraso, relativos aos meses que entretanto tiverem decorrido desde a entrada em vigor da correcção extraordinária das rendas, procedendo, então, ao pagamento do quantitativo resultante dessa correcção eventualmente em atraso.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 25.º — (Período de atribuição do subsídio e de suspensão dos despejos em 1986)
+
+1 - Os centros regionais de segurança social providenciarão no sentido de que, no prazo de 120 dias a contar do primeiro dia do mês seguinte ao da publicação da portaria referida no n.º 1 do artigo 23.º, estejam a pagamento todos os subsídios trimestrais a que têm direito arrendatários residentes na sua área territorial, bem como os subsídios em atraso a que se refere o artigo anterior, procedendo, no referido prazo, à publicação de avisos do início do pagamento no Diário da República e nos meios de comunicação social.
+
+2 - O Ministro do Trabalho e Segurança Social poderá determinar, por despacho, a prorrogação do prazo referido no n.º 1, até ao limite de 180 dias, sempre que se verifiquem atrasos na atribuição do subsídio e para as áreas territoriais dos centros regionais de segurança social em que se verifiquem atrasos.
+
+3 - Durante o prazo referido no n.º 1, eventualmente alargado nos termos do número anterior, aplica-se o disposto no artigo 50.º da Lei n.º 46/85, de 20 de Setembro.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 26.º — (Correcção extraordinária das rendas em 1986)
+
+1 - Para o ano civil de 1986, a correcção extraordinária das rendas a que se referem os artigos 11.º e 12.º da Lei n.º 46/85, de 20 de Setembro, só terá lugar depois de efectuada a comunicação prevista no n.º 2 do artigo 3.º do Decreto-Lei n.º 13/86, de 23 de Janeiro.
+
+2 - Aquela comunicação só poderá efectuar-se após a publicação da portaria referida no n.º 1 do artigo 23.º do presente diploma.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 27.º — (Comunicação extemporânea de correcção extraordinária)
+
+1 - No caso de o senhorio efectuar a comunicação prevista no n.º 2 do artigo 3.º do Decreto-Lei n.º 13/86, de 23 de Janeiro, em momento que não permita ao arrendatário candidatar-se ao subsídio de renda nos prazos previstos no presente diploma, poderá este ainda fazê-lo nos 30 dias seguintes à recepção daquela comunicação.
+
+2 - O subsídio a atribuir, nestas circunstâncias, respeitará apenas às rendas exigíveis a partir da data em que aquela comunicação se considerar efectuada.
+
+3 - Ao pagamento dos subsídios concedidos nos termos deste artigo é aplicável, com as necessárias adaptações, o disposto nos n.os 1 e 2 do artigo 15.º e no artigo 24.º
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 28.º — (Pagamento integral das rendas)
+
+O pagamento integral das rendas resultantes da correcção extraordinária dependerá da data do início do pagamento do subsídio de rendas, na área da situação do prédio, nos termos do artigo 50.º da Lei n.º 46/85, de 20 de Setembro.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+Visto e aprovado em Conselho de Ministros para os Assuntos Económicos de 4 de Março de 1986, por delegação do Conselho de Ministros. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins - Luís Fernando Mira Amaral.
+
+Promulgado em 7 de Março de 1986.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 7 de Março de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Tabela a que referem o n.º 4 do artigo 2.º e o artigo 7.º do Decreto-Lei n.º 68/86
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23

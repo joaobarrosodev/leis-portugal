@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:166582:por
+title: Decreto-Lei n.º 701-C/75
+short_title: null
+summary: Nacionaliza a Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 701-C/75
+official_date: null
+publication_date: '1975-12-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 290/1975, 3º Suplemento, Série I de 1975-12-17
+  number: '290'
+  series: I
+  supplement: 3º Suplemento
+  pages: 2064-(6) a 2064-(7)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29003/00060007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '166582'
+  dre_path: /dr/detalhe/decreto-lei/701-c-1975-166582
+  internal: pt:dre:166582:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-c-1975-166582
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-c-1975-166582
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: 4422984da5aa107c719dc68e2341cb0668e883ac742971541b77e3bc39c4dd1e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-701-C-166582.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 701-C/75
+
+de 17 de Dezembro
+
+O sector dos transportes marítimos assume uma grande importância política e económica e um alto valor estratégico.
+
+As medidas já tomadas com a nacionalização dos dois maiores operadores nacionais foram o primeiro passo no sentido de uma integração do sector, com vista a uma perfeita e total coordenação da nossa política económica em matéria de comércio externo, atendendo a que a quase totalidade deste é canalizada através do transporte marítimo.
+
+A Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., é uma empresa cuja exploração comercial se insere na actividade de transporte de granéis, actividade essa que, presentemente, desenvolve no tramping internacional.
+
+O mercado internacional caracteriza-se por uma forma concorrencial acentuada, o que, devido à actual recessão mundial, se reflecte de modo negativo nos resultados de exploração da empresa.
+
+Por outro lado, há que dotar o País de uma frota especializada no transporte de granéis ao serviço da importação nacional, o que virá a reflectir-se positivamente na balança de pagamentos, pois tais operações têm vindo a ser feitas por transportadores estrangeiros.
+
+Acresce que a Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., tem já uma participação de capital do Estado na ordem dos 50%, em virtude da nacionalização da banca.
+
+De tudo isto resulta a vantagem de nacionalizar a empresa.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. A Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L, é pelo presente diploma declarada nacionalizada.
+
+2. Também pelo presente diploma é criada uma empresa pública do Estado denominada Sofamar, a qual, durante o período transitório a que se refere o artigo 3.º, visa realizar os fins consignados no pacto social da empresa, em vigor antes da nacionalização.
+
+###### Art. 2.º - 1. A Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., agora nacionalizada, considera-se dissolvida e liquidada, sem necessidade de qualquer outra formalidade.
+
+2. O Estado pagará uma indemnização às entidades privadas titulares das acções da Sofamar, contra a entrega dos respectivos títulos.
+
+3. Em diploma legal, a publicar no prazo de cento e oitenta dias, será definido o montante, prazo e forma de pagamento da indemnização a que se refere o número anterior.
+
+###### Art. 3.º - 1. A empresa pública reger-se-á por um estatuto, que será publicado no prazo de cento e oitenta dias.
+
+2. Enquanto não for publicado o estatuto, a empresa será gerida por uma comissão administrativa a nomear por despacho do Primeiro-Ministro, sob proposta do Ministro dos Transportes e Comunicações.
+
+3. A comissão administrativa fica dotada de poderes idênticos aos que por lei são atribuídos aos administradores das sociedades anónimas, salvo quanto a actos de disposição, que, acima do limite a fixar por despacho, carecem de prévia aprovação do Ministro dos Transportes e Comunicações.
+
+###### Art. 4.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., ou que se encontram afectos à respectiva exploração, são transferidos para o Estado e integrados no património autónomo da empresa pública ou a ele igualmente afectos.
+
+2. O disposto no número anterior constitui título comprovativo da transferência, para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração feita pela empresa e confirmada pela Direcção-Geral da Fazenda Pública de que os bens se incluem entre os referidos no n.º 1.
+
+###### Art. 5.º - 1. A empresa nacionalizada assumirá, em relação a todos os actos praticados e contratos celebrados pela Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., a posição jurídica e contratual que esta detiver à data do início da eficácia da nacionalização.
+
+2. A empresa pública assumirá igualmente a posição social que a Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., detiver em sociedades de que seja sócia à data do início da eficácia da nacionalização.
+
+###### Art. 6.º O pessoal que à data do início da eficácia da nacionalização estiver ao serviço da Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L., transitará automaticamente para a empresa pública.
+
+###### Art. 7.º - 1. Enquanto não entrarem em vigor novos regulamentos e taxas, mantém-se o disposto nos diplomas legais e regulamentos internos vigentes, bem como as taxas actuais.
+
+2. Até entrar em vigor o regime a definir no estatuto a que se refere o n.º 1 do artigo 3.º do presente decreto-lei, mantém-se a vigência da legislação aplicável ao trabalho prestado na Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L, bem como as convenções de trabalho celebradas às quais têm estado vinculadas a sociedade e o seu pessoal, assumindo a empresa nacionalizada as posições que cabiam à Sofamar - Sociedade de Fainas de Mar e Rio, S. A. R. L.
+
+###### Art. 8.º Este diploma entra em vigor na data da publicação.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa.
+
+**Promulgado em 9 de Dezembro de 1975.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

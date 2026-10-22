@@ -1,0 +1,206 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:178998:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-107810183",
+ "dre_path": "/dr/detalhe/portaria/232-2012-178998",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107812199",
+    "107812200",
+    "107812201",
+    "107812202",
+    "107812203",
+    "107812204",
+    "107812205",
+    "107812206",
+    "107812207"
+   ]
+  },
+  {
+   "date": "2017-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107805901:por",
+     "title": "Portaria n.º 246/2017",
+     "published": "2017-08-03",
+     "dre_path": "/dr/detalhe/portaria/246-2017-107805901"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 7.º-B"
+   ],
+   "fragments": [
+    "107812199",
+    "107812200",
+    "107812201",
+    "107812202",
+    "107812203",
+    "107812232",
+    "107812205",
+    "107812233",
+    "107812224",
+    "107812228",
+    "107812229",
+    "107812230",
+    "107812234"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:107805901:por",
+     "title": "Portaria n.º 246/2017",
+     "published": "2017-08-03",
+     "dre_path": "/dr/detalhe/portaria/246-2017-107805901",
+     "date": "2018-01-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "107812199": {
+   "fragment_id": "107810184",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 232/2012\n\nde 6 de agosto\n\nO ensino português no estrangeiro (EPE) constitui uma das modalidades especiais de educação escolar, nos termos do artigo 16.º da Lei de Bases do Sistema Educativo e abrange a rede de cursos de Língua e Cultura Portuguesas no estrangeiro do ensino básico e secundário, organizados quer na modalidade de regime integrado nos sistemas educativos dos países de acolhimento quer em regime paralelo, em horário não letivo.\n\nO ensino básico e secundário do EPE envolve uma diversidade de contextos que foram surgindo ao longo dos anos, pelo que se revelou necessário criar um quadro de referência para a elaboração e avaliação de programas, linhas de orientação curricular e escolha de materiais pedagógicos e didáticos que permitisse promover, em simultâneo, a cooperação entre sistemas educativos e intervenientes no processo educativo, visando o pleno reconhecimento e acreditação dos cursos do ensino português no estrangeiro destes níveis de ensino.\n\nCom a transferência, em 1 de fevereiro de 2010, desta modalidade de ensino para a tutela do Ministério dos Negócios Estrangeiros, Instituto Camões, I. P., o Ministério da Educação e Ciência, no quadro estabelecido pelo Decreto-Lei n.º 165/2006, de 11 de agosto, na redação que lhe foi dada pelo Decreto-Lei n.º 165-C/2009, de 28 de julho, mantém competências partilhadas com o Camões - Instituto da Cooperação e da Língua, I. P., Camões, I. P., no que respeita a orientações pedagógicas para o ensino básico e secundário.\n\nNeste sentido, e de forma a contribuir decisivamente para uma maior credibilização do EPE junto dos sistemas de ensino dos países em que a língua portuguesa é ensinada, torna-se necessário estabelecer um sistema de avaliação e certificação conjunto, que torne o Quadro de Referência para o Ensino Português no Estrangeiro (QuaREPE), aprovado pela Portaria n.º 914/2009, de 17 de agosto, o instrumento central da avaliação das aprendizagens dos alunos que beneficiam desta modalidade de ensino da língua portuguesa e que certifique a qualidade destas.\n\nAssim:\n\nEm conformidade com o disposto no n.º 4 do artigo 5.º do Decreto-Lei n.º 165/2006, de 11 de agosto, na redação que lhe foi dada pelo Decreto-Lei n.º 165-C/2009, de 28 de julho:\n\nManda o Governo, pelo Secretário de Estado da Comunidades Portuguesas e pela Secretária de Estado do Ensino Básico e Secundário, o seguinte:\n\n> Nota: [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901) Na Portaria n.º 232/2012, de 6 de agosto, onde se lê «Ministério dos Negócios Estrangeiros» e «Ministério da Educação e Ciência» deve ler-se respetivamente «área governativa dos negócios estrangeiros» e «área governativa da educação»"
+  },
+  "107812200": {
+   "fragment_id": "107810185",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece as competências institucionais, assim como as regras e os procedimentos da certificação das aprendizagens, prevista no n.º 4 do artigo 5.º do Decreto-Lei n.º 165/2006, de 11 de agosto, na redação que lhe foi dada pelo Decreto-Lei n.º 165-C/2009, de 28 de julho, dos cursos de língua e cultura portuguesas, lecionados no âmbito da rede de Ensino Português no Estrangeiro.\n\n2 - A organização, os referenciais de competências e os programas dos cursos obedecem ao Quadro de Referência para o Ensino Português no Estrangeiro (QuaREPE), conforme a Portaria n.º 914/2009, de 17 de agosto.\n\n3 - Os referenciais de competências mencionados no número anterior incluem, designadamente, as tarefas, atividades, exercícios e recursos para a avaliação previstos no referido QuaREPE."
+  },
+  "107812201": {
+   "fragment_id": "107810186",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades responsáveis pelo processo de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades responsáveis pelo processo de certificação\n\nA certificação dos cursos é conferida pelo Ministério dos Negócios Estrangeiros, através do Camões - Instituto da Cooperação e da Língua, I. P. (Camões, I. P.), e pelo Ministério da Educação e Ciência, através da Direção-Geral da Educação (DGE)."
+  },
+  "107812202": {
+   "fragment_id": "107810187",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências institucionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências institucionais\n\n1 - Compete ao MNE, através do Camões, I. P., a coordenação, gestão e acompanhamento da rede de cursos e dos recursos humanos e a certificação conjunta das aprendizagens dos alunos do ensino básico e secundário do EPE e ainda o apoio científico e pedagógico no âmbito da formação contínua dos docentes do EPE e demais competências estabelecidas no Decreto-Lei n.º 165/2006, de 11 de agosto, na redação que lhe foi dada pelo Decreto-Lei n.º 165-C/2009, de 28 de julho.\n\n2 - Compete ao MEC, através da DGE, emitir orientações pedagógicas no âmbito do ensino básico e secundário do EPE e a respetiva certificação conjunta das aprendizagens. Compete ainda ao MEC (DGE), a coordenação e orientação, em termos científico-pedagógicos e didáticos, das atividades das escolas portuguesas no estrangeiro e demais competências estabelecidas no Decreto-Lei n.º 165/2006, de 11 de agosto, na redação que lhe foi dada pelo Decreto-Lei n.º 165-C/2009, de 28 de julho."
+  },
+  "107812203": {
+   "fragment_id": "107810188",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de conhecimento em língua portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de conhecimento em língua portuguesa\n\nA obtenção do nível de proficiência linguística enquadra-se nos blocos de competências definidos no QuaREPE, nos primeiros três níveis (A1, A2 e B1) e nos níveis mais avançados (B2 e C1)."
+  },
+  "107812204": {
+   "fragment_id": "107810189",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo de certificação\n\nA certificação dos alunos do EPE é atribuída de acordo com o seguinte:\n\na) A aprovação em prova é elaborada de acordo com os critérios estabelecidos no QuaREPE para os domínios oral e escrito;\n\nb) A realização das provas é publicitada anualmente nos portais das instituições responsáveis pela certificação;\n\nc) O acesso à prova é de inscrição obrigatória, sendo devida propina de inscrição a fixar por despacho conjunto dos ministérios responsáveis pela área dos negócios estrangeiros e da educação;\n\nd) As provas têm a duração máxima de 90 minutos em função dos níveis e faixas etárias dos alunos;\n\ne) A realização das provas é assegurada pelas coordenações de ensino em cada país abrangido pelas áreas de atuação do Ensino Português no Estrangeiro ou no âmbito das missões diplomáticas, posteriormente enviadas para o júri;\n\nf) A classificação de cada prova é realizada de acordo com os critérios de avaliação estabelecidos no âmbito do QuaREPE;\n\ng) A classificação das provas é comunicada aos alunos após validação pelo júri das provas nomeado pelo Camões, I. P., e pela DGE;\n\nh) A publicitação dos resultados é feita através dos sítios eletrónicos do Camões, I. P., da DGE e das Coordenações de Ensino Português no Estrangeiro."
+  },
+  "107812205": {
+   "fragment_id": "107810190",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição do júri\n\n1 - O júri nacional é nomeado pelo Camões, I. P., e pela DGE, sendo composto por um elemento de cada organismo e por especialistas da área específica do EPE, tendo a incumbência de supervisionar o processo de realização e correção das provas.\n\n2 - O júri local é composto pelo coordenador de ensino e por dois docentes por si nomeados que supervisionam a realização e correção das provas."
+  },
+  "107812206": {
+   "fragment_id": "107810191",
+   "type": 11,
+   "heading": "Artigo 7.º — Certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Certificados\n\n1 - A certificação a que se refere o artigo 2.º é formalizada através de certificado cujo modelo se publica em anexo a esta portaria.\n\n2 - Dos certificados de proficiência constam obrigatoriamente os seguintes elementos:\n\na) Identificação do aluno;\n\nb) Nível de proficiência, de acordo com o QuaREPE;\n\nc) Classificações alcançadas nos domínios oral e escrito, de acordo com o QuaREPE;\n\nd) Avaliação quantitativa, sempre que isso se torne necessário e de acordo com o sistema de avaliação em vigor no país onde a certificação for obtida;\n\ne) Assinatura dos responsáveis pela certificação;\n\nf) Data de emissão."
+  },
+  "107812207": {
+   "fragment_id": "107810192",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107812232": {
+   "fragment_id": "107810189",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo de certificação",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Processo de certificação\n\nA certificação dos alunos do EPE é atribuída de acordo com o seguinte:\n\na) A aprovação em prova é elaborada de acordo com os critérios estabelecidos no QuaREPE para os domínios oral e escrito;\n\nb) A realização das provas é publicitada anualmente nos portais das instituições responsáveis pela certificação;\n\nc) O acesso à prova é de inscrição obrigatória, sendo devida propina de inscrição a fixar por despacho conjunto dos ministérios responsáveis pela área dos negócios estrangeiros e da educação;\n\nd) As provas têm a duração máxima de 120 minutos em função dos níveis e faixas etárias dos alunos;\n\ne) A realização das provas é assegurada pelas coordenações de ensino em cada país abrangido pelas áreas de atuação do Ensino Português no Estrangeiro ou no âmbito das missões diplomáticas, posteriormente enviadas para o júri;\n\nf) A classificação de cada prova é realizada de acordo com os critérios de avaliação estabelecidos no âmbito do QuaREPE;\n\ng) A classificação das provas é comunicada aos alunos após validação pelo júri das provas nomeado pelo Camões, I. P., e pela DGE;\n\nh) A publicitação dos resultados é feita através dos sítios eletrónicos do Camões, I. P., da DGE e das Coordenações de Ensino Português no Estrangeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901), em vigor a partir de 2018-01-01"
+  },
+  "107812233": {
+   "fragment_id": "107810191",
+   "type": 11,
+   "heading": "Artigo 7.º — Certificados",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Certificados\n\n1 - A certificação a que se refere o artigo 2.º é formalizada através de certificado cujo modelo se publica em anexo a esta portaria.\n\n2 - Dos certificados de proficiência constam obrigatoriamente os seguintes elementos:\n\na) Identificação do aluno;\n\nb) Nível de proficiência, de acordo com o QuaREPE;\n\nc) Classificações alcançadas nos domínios oral e escrito, de acordo com o QuaREPE;\n\nd) Avaliação quantitativa, sempre que isso se torne necessário e de acordo com o sistema de avaliação em vigor no país onde a certificação for obtida;\n\ne) Assinatura dos responsáveis pela certificação;\n\nf) Data de emissão.\n\n3 - A identificação do aluno é feita através da apresentação de documento de identificação válido em Portugal ou no país de residência.\n\n4 - Para efeitos do número anterior, e nos casos em que no país de residência o documento de identificação não seja obrigatório, a identificação dos alunos procede-se através da indicação da data de nascimento, filiação e escola que o aluno frequenta.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901), em vigor a partir de 2018-01-01"
+  },
+  "107812224": {
+   "fragment_id": "107810204",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Pedido de revisão de prova",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901), em vigor a partir de 2017-08-08"
+   ],
+   "markdown": "###### Artigo 7.º-A — Pedido de revisão de prova\n\n1 - É permitido o pedido de revisão da parte escrita da prova.\n\n2 - O pedido é efetuado através de requerimento, dirigido pelo encarregado de educação do aluno ao presidente do júri local, no prazo de 5 dias úteis, após a publicação das pautas com a classificação da mesma, nos sítios eletrónicos do Camões, I. P., da DGE e das Coordenações de Ensino Português no Estrangeiro.\n\n3 - O pedido de revisão da prova implica o pagamento do valor de (euro) 20, junto da Coordenação de Ensino Local, que é devolvido ao requerente caso seja atribuída classificação superior na revisão da prova.\n\n4 - O júri local envia a prova digitalizada ao requerente, no prazo de 3 dias úteis, após receção do pedido de revisão de prova.\n\n5 - O requerente dirige ao júri local um pedido fundamentado de revisão da classificação, no prazo de 3 dias úteis, a contar da data de receção do recibo de leitura da mensagem eletrónica.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901), em vigor a partir de 2017-08-08"
+  },
+  "107812228": {
+   "fragment_id": "107810205",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Revisão de prova",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901), em vigor a partir de 2017-08-08"
+   ],
+   "markdown": "###### Artigo 7.º-B — Revisão de prova\n\n1 - Ao júri local compete a reapreciação da parte escrita da prova, apresentando no prazo de 5 dias úteis, a contar da receção do pedido de revisão, uma proposta de resposta ao júri nacional.\n\n2 - O júri nacional emite deliberação final, no prazo de 15 dias úteis após a receção, deferindo ou indeferindo a proposta de resposta apresentada pelo júri local.\n\n3 - A decisão é comunicada ao requerente, no prazo máximo de 3 dias úteis, pelo meio mais expedito.\n\n4 - Não é admitido pedido de revisão que incida sobre prova revista.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901), em vigor a partir de 2017-08-08"
+  },
+  "107812229": {
+   "fragment_id": "107810192",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107812230": {
+   "fragment_id": "107810193",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado das Comunidades Portuguesas, José de Almeida Cesário, em 10 de julho de 2012. - A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 12 de julho de 2012.\n\n(ver documento original)"
+  },
+  "107812234": {
+   "fragment_id": "107810203",
+   "type": 14,
+   "heading": "CERTIFICADO",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "## CERTIFICADO\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 246/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/246-2017-107805901), em vigor a partir de 2018-01-01"
+  }
+ }
+}

@@ -1,0 +1,1811 @@
+---
+schema_version: '1.0'
+id: eu:celex:32002L0080:por
+title: Directiva 2002/80/CE da Comissão, de 3 de Outubro de 2002
+short_title: null
+summary: Directiva 2002/80/CE da Comissão, de 3 de Outubro de 2002, que adapta ao progresso técnico a Directiva 70/220/CEE
+  do Conselho relativa às medidas a tomar contra a poluição do ar pelas emissões provenientes dos veículos a motor (Texto
+  relevante para efeitos do EEE.)
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2002/80
+official_date: null
+publication_date: '2002-10-28'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 291 de 28.10.2002
+  number: '291'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/80846f31-3109-4352-b11d-a28cd0e53ee0.0010.02/DOC_1
+entry_into_force_dates:
+- '2002-10-31'
+end_of_validity_date: '2013-01-01'
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32002L0080
+  eli: http://data.europa.eu/eli/dir/2002/80/oj
+  oj: oj:JOL_2002_291_R_0020_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32002L0080:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32002L0080
+  metadata_url: http://publications.europa.eu/resource/cellar/80846f31-3109-4352-b11d-a28cd0e53ee0.0010
+  content_url: http://publications.europa.eu/resource/cellar/80846f31-3109-4352-b11d-a28cd0e53ee0.0010.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T03:10:53Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-25T17:02:21.472+01:00'
+integrity:
+  source_sha256: 6a3a752ab93a9c655cb2605e8063e608916de3252d3c84633d18fbe5648955ee
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T03:10:53Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- aproximação das legislações
+- mudança tecnológica
+- norma técnica
+- poluição automóvel
+- proteção do ambiente
+- qualidade do ar
+- veículo motorizado
+relationships:
+- type: amends
+  target: celex:31970L0220
+  label: null
+  source: http://publications.europa.eu/resource/cellar/74aff344-5915-4985-b56e-a38a647c828d
+  date: '2003-01-14'
+- type: based_on
+  target: celex:31970L0156
+  label: null
+  source: http://publications.europa.eu/resource/cellar/33214808-2cf0-4970-9dec-8f8843c3468d
+  date: '2002-12-05'
+- type: based_on
+  target: celex:31970L0220
+  label: null
+  source: http://publications.europa.eu/resource/cellar/74aff344-5915-4985-b56e-a38a647c828d
+  date: '2003-01-14'
+- type: cited_by
+  target: pt:dre:494052:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31998L0070
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9cdbfc9b-d814-4e9e-b05d-49dbb7c97ba1
+- type: cites
+  target: celex:31998L0077
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b03ea409-cc99-4c9e-9fe2-ae7fc309f090
+- type: corrected_by
+  target: celex:32002L0080R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c70df475-3e8e-4bc2-a05d-a4c2e0dc9d7e
+  date: '2003-08-08'
+- type: repealed_by
+  target: celex:32007R0715
+  label: null
+  source: http://publications.europa.eu/resource/cellar/03e19ce5-448d-43dd-b49a-1c68d75c78f4
+  date: '2007-06-29'
+article_structure:
+  article_count: 8
+  section_count: 4
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T03:10:53Z'
+  warnings:
+  - Versão consolidada 02002L0080-20130102 indisponível (Sem expressão na língua por para CELEX 02002L0080-20130102.); usado
+    o texto do JO.
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Directiva 2002/80/CE da Comissão, de 3 de Outubro de 2002
+
+**Directiva 2002/80/CE da Comissão, de 3 de Outubro de 2002, que adapta ao progresso técnico a Directiva 70/220/CEE do Conselho relativa às medidas a tomar contra a poluição do ar pelas emissões provenientes dos veículos a motor (Texto relevante para efeitos do EEE.)** *Jornal Oficial nº L 291 de 28/10/2002 p. 0020 - 0056*
+
+Directiva 2002/80/CE da Comissão
+
+de 3 de Outubro de 2002
+
+que adapta ao progresso técnico a Directiva 70/220/CEE do Conselho relativa às medidas a tomar contra a poluição do ar pelas emissões provenientes dos veículos a motor
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta a Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação dos veículos a motor e seus reboques(1) com a última redacção que lhe foi dada pela Directiva 2001/116/CE da Comissão(2), e, nomeadamente, o n.o 2 do seu artigo 13.o,
+
+Tendo em conta a Directiva 70/220/CEE do Conselho, de 20 de Março de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes às medidas a tomar contra a poluição do ar pelas emissões provenientes dos veículos a motor(3), com a última redacção que lhe foi dada pela Directiva 2001/100/CE do Parlamento Europeu e do Conselho(4), e, nomeadamente, o seu artigo 5.o,
+
+Considerando o seguinte:
+
+(1) A Directiva 70/220/CEE é uma das directivas específicas no âmbito do processo de homologação estabelecido pela Directiva 70/156/CEE.
+
+(2) A Directiva 70/220/CEE introduziu um método para verificar a conformidade dos veículos em circulação. Deve definir-se o tipo de dados que um fabricante deverá coligir e apresentar como base para o exame pela entidade homologadora no sentido de verificar se um veículo satisfaz os requisitos da Directiva 70/220/CEE durante o período exigido de durabilidade. É oportuno completar a definição de um veículo que possa ser considerado responsável por emissões anómalas, no caso de uma amostra representativa de veículos de um dado modelo ser sujeita a ensaios e a análise estatística para confirmar o comportamento funcional em termos de emissões desse modelo.
+
+(3) Há que definir as modalidades técnicas para a homologação, enquanto unidades técnicas, dos catalisadores de substituição, para garantir o comportamento funcional das suas emissões e, eventualmente, a sua compatibilidade com o sistema de diagnóstico a bordo (OBD) do veículo para o qual foram concebidos. Há que adoptar medidas referentes à marcação dos catalisadores de substituição e dos catalisadores de substituição originais e das suas embalagens, de modo a apoiar a aplicação dessas modalidades técnicas nos Estados-Membros. Solicitam-se ainda informações suplementares que devem acompanhar os catalisadores de substituição que tiverem sido fabricados e introduzidos no mercado da Comunidade antes da introdução da presente directiva.
+
+(4) A Directiva 70/220/CEE introduziu novas disposições para os sistemas OBD. Para assegurar que a concepção de peças de substituição que sejam fundamentais para o correcto funcionamento do sistema OBD não seja prejudicada pela inexistência das informações pertinentes relativas ao OBD, devem ser introduzidas prescrições que exijam que o fabricante do veículo comunique essas informações à entidade homologadora.
+
+(5) As exigências técnicas relativas às estratégias de indicação de anomalias são clarificadas de modo a que se considere que ocorreu uma anomalia se forem ultrapassados os limiares do OBD ou se o sistema OBD não puder satisfazer as exigências básicas de monitorização do OBD, apresentadas na presente directiva.
+
+(6) É necessário introduzir alterações específicas no processamento da informação OBD para se avaliar independentemente o funcionamento do veículo a gasolina ou a gás.
+
+(7) Devido ao breve período de lançamento, até 1 de Janeiro de 2003, data a partir da qual os novos modelos de veículos alimentados a gás terão de estar equipados com um sistema OBD, é necessário autorizar a homologação de veículos alimentados a gás que apresentem um número limitado de deficiências menores, susceptíveis de ser detectadas aquando ou antes da data da homologação. A entidade homologadora pode também emitir uma extensão do certificado de homologação para veículos já homologados nos casos em que sejam posteriormente detectadas deficiências no sistema OBD dos veículos em circulação. Tais extensões não podem ser emitidas se houver uma falta total de capacidade de monitorização. Deve ser especificado um prazo para a rectificação das deficiências autorizadas pela entidade homologadora nos veículos a fabricar futuramente.
+
+(8) A Directiva 70/220/CEE deve ser actualizada para se adaptar ao progresso técnico, de modo a contemplar, designadamente, as novas definições dos códigos de anomalia mais comuns, os códigos de anomalia mais específicos dos fabricantes, os novos códigos hexadecimais, bem como as normas ISO n.o 15031-6 e SAE n.o J2012 que foram actualizadas.
+
+(9) A Directiva 98/70/CE do Parlamento Europeu e do Conselho, de 13 de Outubro de 1998, relativa à qualidade da gasolina e do combustível para motores diesel que altera a Directiva 93/12/CEE(5) do Conselho, com a última redacção que lhe foi dada pela Directiva 2000/71/CE da Comissão(6) exige que a gasolina e o combustível para motores diesel à venda em toda a Comunidade, a partir de 1 de Janeiro de 2005, apresentem um teor máximo de enxofre de 50 mg/kg (partes por milhão, ppm). Os combustíveis de referência usados nos ensaios de homologação dos veículos, em comparação com os limites de emissões aplicáveis a partir de 2005, devem agora ser redefinidos de modo a reflectirem melhor, se for adequado, o teor de enxofre, aromatizantes e oxigénio da gasolina e do combustível para motores diesel que existirão no mercado a partir de 2005 e que terão de ser usados pelos veículos que disponham de sistemas avançados de controlo de emissões ou tecnologia de "motores a gasolina de injecção directa".
+
+(10) A Directiva 70/220/CEE deve, por conseguinte, ser alterada.
+
+(11) As disposições da presente directiva estão em conformidade com o parecer do Comité de Adaptação ao Progresso Técnico instituído pela Directiva 70/156/CEE,
+
+ADOPTOU A PRESENTE DIRECTIVA:
+
+###### Artigo 1.º
+
+1. O artigo 1.o da Directiva 70/220/CEE passa a ter a seguinte redacção:
+
+"Artigo 1.o
+
+Para efeitos da presente directiva, entende-se por:
+
+a) 'veículo', qualquer veículo definido na parte A do anexo II da Directiva 70/156/CEE;
+
+b) 'veículo alimentado a GPL ou GN', um veículo equipado com um sistema de alimentação do motor a GPL ou GN. Esse veículo a GPL ou a GN pode ser concebido e construído como veículo monocombustível ou veículo bicombustível;
+
+c) 'veículo monocombustível', um veículo concebido essencialmente para funcionar permanentemente com GPL ou GN, mas que também pode ter um sistema de gasolina para emergências ou arranque apenas, não podendo o seu reservatório de gasolina conter mais de 15 litros;
+
+d) 'veículo bicombustível', um veículo que pode funcionar a tempo parcial com gasolina e, também a tempo parcial, com GPL ou com GN.".
+
+2. Os anexos I, II, III, IX, IX a, X, XI e XIII da Directiva 70/220/CEE são alterados de acordo com o anexo da presente directiva.
+
+###### Artigo 2.º
+
+1. A partir de 1 de Julho de 2003, se os veículos satisfizerem os requisitos da Directiva 70/220/CEE, alterada pela presente directiva, os Estados-Membros não podem:
+
+a) Recusar a homologação CE nos termos do n.o 1 do artigo 4.o da Directiva 70/156/CEE; nem
+
+b) Recusar a homologação de âmbito nacional; nem
+
+c) Proibir a matrícula, a venda ou a entrada em circulação de veículos, nos termos do artigo 7.o da Directiva 70/156/CEE.
+
+2. Se um novo modelo de veículo não cumprir o disposto na Directiva 70/220/CEE, alterada pela presente directiva, os Estados-Membros deixam de conceder, a partir de 1 de Julho de 2003:
+
+a) A homologação CE nos termos do n.o 1 do artigo 4.o da Directiva 70/156/CE; ou
+
+b) A homologação nacional.
+
+Todavia, os Estados-Membros podem continuar a conceder as homologações referidas na primeira alínea se forem invocadas as disposições do n.o 2 do artigo 8.o da Directiva 70/156/CEE.
+
+3. Se os veículos não satisfizerem o disposto na Directiva 70/220/CEE, alterada pela presente directiva, os Estados-Membros devem:
+
+a) Considerar que os certificados de conformidade que acompanham os veículos novos nos termos da Directiva 70/156/CEE deixam de ser válidos para efeitos do n.o 1 do artigo 7.o dessa directiva; e
+
+b) Recusar a matrícula, a venda ou a entrada em circulação de veículos novos que não possuam um certificado de conformidade válido nos termos da Directiva 70/156/CEE, excepto quando for invocado o disposto no n.o 2 do artigo 8.o da Directiva 70/156/CEE.
+
+4. O n.o 3 aplica-se a partir de 1 de Janeiro de 2006 aos:
+
+a) Veículos da categoria M, exceptuados os veículos com uma massa máxima superior a 2500 kg; e
+
+b) Veículos da categoria N1 classe I.
+
+O n.o 3 aplica-se a partir de 1 de Janeiro de 2007 aos:
+
+a) Veículos da categoria N1, classes II e III, definidos no quadro do ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE; e
+
+b) Veículos da categoria M com uma massa máxima superior a 2500 kg.
+
+###### Artigo 3.º
+
+1. No que diz respeito aos novos catalisadores de substituição destinados a ser instalados em veículos homologados de acordo com a Directiva 70/220/CEE, alterada pela presente directiva, os Estados-Membros não podem, a partir de 1 de Julho de 2003:
+
+a) Recusar a homologação CE nos termos do n.o 1 do artigo 4.o da Directiva 70/156/CEE, nem
+
+b) Proibir a sua venda ou instalação num veículo.
+
+2. A partir de 1 de Julho de 2003, os Estados-Membros deixam de conceder a homologação CE nos termos do disposto no n.o 1 do artigo 4.o da Directiva 70/156/CEE, para um catalisador de substituição novo, se este não for de um tipo homologado nos termos da Directiva 70/220/CEE, alterada pela presente directiva.
+
+3. Os Estados-Membros permitem a venda e a instalação de catalisadores de substituição novos relativamente aos quais tenha sido concedida uma homologação enquanto unidade técnica, antes da entrada em vigor da presente directiva, para veículos já em circulação.
+
+###### Artigo 4.º
+
+Até 1 de Julho de 2005, os fabricantes tomarão medidas para fornecer informações suplementares, directamente aos pontos de venda ou a qualquer distribuidor, relativas a todos os catalisadores de substituição novos que tiverem sido introduzidos no mercado da UE antes da entrada em vigor da presente directiva e que também não satisfaçam as exigências da Directiva 98/77/CE da Comissão(7).
+
+As informações suplementares devem cumprir as condições fixadas no ponto 7 do anexo XIII da presente directiva.
+
+###### Artigo 5.º
+
+A partir da data de entrada em vigor da presente directiva, as disposições do ponto 7 do anexo I da Directiva 70/220/CEE, alterada pela presente directiva, respeitantes especificamente à conformidade dos veículos em circulação, são aplicáveis a todos os veículos que tenham sido homologados de acordo com os requisitos da Directiva 70/220/CEE, alterada pela Directiva 98/69/CE do Parlamento Europeu e do Conselho(8) ou por directivas posteriores.
+
+###### Artigo 6.º
+
+1. Os Estados-Membros adoptarão e publicarão as disposições necessárias para darem cumprimento à presente directiva, antes de 31 de Maio de 2003. Do facto informarão imediatamente a Comissão.
+
+Os Estados-Membros aplicarão essas disposições a partir de 1 de Junho de 2003.
+
+Quando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros.
+
+2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva.
+
+###### Artigo 7.º
+
+A presente directiva entrará em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+###### Artigo 8.º
+
+Os Estados-Membros são os destinatários da presente directiva.
+
+Feito em Bruxelas, em 3 de Outubro de 2002.
+
+Pela Comissão
+
+Erkki Liikanen
+
+Membro da Comissão
+
+(1) JO L 42 de 23.2.1970, p. 1. Edição especial portuguesa: capítulo 13, fascículo 1, p. 174.
+
+(2) JO L 18 de 21.1.2002, p. 11.
+
+(3) JO L 76 de 6.4.1970, p. 1. Edição especial portuguesa: capítulo 13, fascículo 1, p. 195.
+
+(4) JO L 16 de 18.1.2002, p. 32.
+
+(5) JO L 350 de 28.2.1998, p. 58.
+
+(6) JO L 287 de 14.11.2000, p. 46.
+
+(7) JO L 286 de 23.10.1998, p. 34.
+
+(8) JO L 350 de 28.12.1998, p. 1.
+
+## ANEXO — ALTERAÇÕES DOS ANEXOS I, II, III, IX, IXa, X, XI E XIII DA DIRECTIVA 70/220/CEE
+
+A. O anexo I deve ser alterado do seguinte modo:
+
+1. O último parágrafo do ponto 1 passa ter a seguinte redacção: "A presente directiva aplica-se igualmente ao processo de homologação CE para catalisadores de substituição enquanto unidades técnicas destinadas a ser instaladas em veículos das categorias M1 e N1.".
+
+2. Os pontos 2.17 e 2.18 passam a ter a seguinte redacção e o ponto 2.19 é substituído pelo seguinte:
+
+2.17. "Catalisador original", um catalisador ou conjunto de catalisadores abrangido pela homologação concedida ao veículo e que está indicado no ponto 1.10 do apêndice do anexo X da presente directiva.
+
+2.18. "Catalisador de substituição", um catalisador ou conjunto de catalisadores destinado(s) a substituir um catalisador original num veículo homologado de acordo com a Directiva 70/220/CEE, que pode ser homologado enquanto unidade técnica conforme definido no n.o 1, alínea d), do artigo 4.o da Directiva 70/156/CEE.
+
+2.19. "Catalisador de substituição original", um catalisador ou conjunto de catalisadores cujo tipo está indicado no ponto 1.10 do apêndice do anexo X da presente directiva, mas é apresentado no mercado, pelo detentor da homologação do veículo, como unidade técnica..
+
+3. O ponto 3.2 passa a ter a seguinte redacção:
+
+3.2. Um modelo da ficha de informações relativa às emissões pelo tubo de escape, às emissões por evaporação, à durabilidade e ao sistema de diagnóstico a bordo (OBD) figura no anexo II. As informações enunciadas no ponto 3.2.12.2.8.6 do anexo II devem ser incluídas no apêndice 2 "Informações pertinentes relativas ao OBD" do certificado de homologação CE apresentado no anexo X..
+
+4. O ponto 5.2.2 passa a ter seguinte redacção:
+
+5.2.2. Os veículos com motor de ignição comandada alimentados a GPL ou GN (monocombustível ou bicombustível) devem ser submetidos aos seguintes ensaios:
+
+Tipo I (controlo da média das emissões pelo tubo de escape após o arranque a frio),
+
+Tipo II (controlo das emissões de monóxido de carbono em regime de marcha lenta sem carga),
+
+Tipo III (emissões de gases do cárter),
+
+Tipo IV (emissões por evaporação), quando aplicável,
+
+Tipo V (durabilidade dos dispositivos de controlo da poluição),
+
+Tipo VI (verificação da média das emissões de monóxido de carbono a baixa temperatura e das emissões de hidrocarbonetos pelo tubo de escape após o arranque a frio), sempre que aplicável,
+
+sempre que aplicável, ensaio do OBD..
+
+5. A figura I.5.2 é substituída pela figura seguinte:
+
+">POSIÇÃO NUMA TABELA>"
+
+6. Na nota de pé-de-página 1 no ponto 5.3.7.3, os coeficientes de Hcv e Ocv são alterados do seguinte modo:
+
+Hcv = Relação atómica hidrogénio/carbono [1,73], no caso do GPL [2,53], no caso do GN [4,0]
+
+Ocv = Relação atómica oxigénio/carbono [0,02], no caso do GPL [zero], no caso do GN [zero].
+
+7. O ponto 5.3.8 passa a ter a seguinte redacção:
+
+5.3.8. Catalisadores de substituição e catalisadores de substituição originais
+
+5.3.8.1. Os catalisadores de substituição destinados a equiparem veículos com homologação CE devem ser ensaiados de acordo com o anexo XIII.
+
+5.3.8.2. Os catalisadores de substituição originais, do tipo indicado no ponto 1.10 do apêndice do anexo X e que se destinam a equipar veículos abrangidos pelo documento de homologação pertinente, não precisam de estar conformes com o anexo XIII da presente directiva desde que preencham as condições indicadas nos pontos 5.3.8.2.1 e 5.3.8.2.2.
+
+5.3.8.2.1. Marcação
+
+Os catalisadores de substituição originais devem incluir, pelo menos, as seguintes indicações:
+
+5.3.8.2.1.1. A denominação ou a marca do fabricante do veículo.
+
+5.3.8.2.1.2. A marca e o número de identificação de peça do catalisador de substituição original tal como registado na informação indicada no ponto 5.3.8.3.
+
+5.3.8.2.2. Documentação
+
+Os catalisadores de substituição originais serão acompanhados pelas seguintes informações:
+
+5.3.8.2.2.1. A denominação ou a marca do fabricante do veículo.
+
+5.3.8.2.2.2. A marca e o número de identificação de peça do catalisador de substituição original tal como registado na informação indicada no ponto 5.3.8.3.
+
+5.3.8.2.2.3. Os veículos para os quais o catalisador de substituição é do tipo abrangido pelo ponto 1.10 do apêndice do anexo X, incluindo, sempre que for adequado, uma marcação para identificar se o catalisador de substituição é adequado para instalação num veículo que esteja equipado com um sistema de diagnóstico a bordo (OBD).
+
+5.3.8.2.2.4. Instruções de instalação, sempre que necessário.
+
+5.3.8.2.2.5. Estas informações devem ser fornecidas:
+
+- sob a forma de um folheto que acompanha o catalisador de substituição original, ou
+
+- na embalagem que o catalisador de substituição original é vendido, ou
+
+- de qualquer outra forma aplicável.
+
+De qualquer forma, a informação deve estar disponível no catálogo do produto que é distribuído nos pontos de venda pelo fabricante do veículo.
+
+5.3.8.3. O fabricante do veículo deverá prestar ao serviço técnico e/ou à entidade homologadora as informações necessárias em formato electrónico que façam a ligação entre os números de peça pertinentes e a documentação de homologação.
+
+Esta informação deverá incluir:
+
+- marca(s) e modelo(s) do veículo,
+
+- marca(s) e tipo(s) do catalisador de substituição original,
+
+- número(s) de peça do catalisador de substituição original,
+
+- número de homologação do(s) modelo(s) de veículos pertinente(s)..
+
+8. O ponto 7.1.1 passa a ter a seguinte redacção:
+
+7.1.1. A auditoria da conformidade em circulação pela entidade homologadora efectua-se com base em informações pertinentes na posse do fabricante, segundo procedimentos semelhantes aos definidos no n.o 1 e no n.o 2 do artigo 10.o da Directiva 70/156/CEE e nos pontos 1 e 2 do anexo 10 dessa directiva.
+
+As figuras I.8 e I.9 do apêndice 4 do presente anexo ilustram o procedimento de verificação da conformidade em circulação.
+
+7.1.1.1. Parâmetros que definem a família de veículos em circulação
+
+A família de veículos em circulação pode ser definida por meio de parâmetros de concepção básicos comuns a todos os veículos da família em questão. Assim sendo, os modelos de veículos que têm em comum ou dentro das tolerâncias indicadas, pelo menos, os parâmetros a seguir descritos são considerados como pertencendo à mesma família de veículos em circulação:
+
+- processo de combustão (dois tempos, quatro tempos, rotativo),
+
+- número de cilindros,
+
+- configuração do bloco de cilindros (em linha, V, radial, horizontalmente opostos, outra). A inclinação ou orientação dos cilindros não constitui um critério,
+
+- método de alimentação do motor em combustível (por exemplo, injecção indirecta ou directa),
+
+- tipo de sistema de arrefecimento (ar, água, óleo),
+
+- método de aspiração (normalmente aspirado, sobrealimentado),
+
+- combustível para o qual o motor foi concebido (gasolina, combustível para motores diesel, GN, GPL, etc.). Os veículos bicombustível podem ser agrupados com veículos de combustível específico desde que um dos combustíveis seja comum,
+
+- tipo de catalisador [catalisador de três vias ou outro(s)],
+
+- tipo de colector de partículas (com ou sem),
+
+- recirculação dos gases de escape (com ou sem),
+
+- cilindrada do maior motor da família, menos 30 %.
+
+7.1.1.2. A entidade homologadora procederá à auditoria da conformidade em circulação com base nas informações fornecidas pelo fabricante. Essas informações incluirão, no mínimo, os seguintes aspectos:
+
+7.1.1.2.1. Nome e endereço do fabricante.
+
+7.1.1.2.2. Nome, endereço, números de telefone e de fax e endereço e-mail do seu representante autorizado nas áreas abrangidas pelas informações do fabricante.
+
+7.1.1.2.3. Designação(ões) do tipo dos veículos incluídos nas informações do fabricante.
+
+7.1.1.2.4. Quando adequado, a lista dos modelos dos veículos abrangidos pelas informações do fabricante, isto é, o grupo da família em circulação, de acordo com o ponto 7.1.1.1.
+
+7.1.1.2.5. Os códigos do número de identificação do veículo (VIN) aplicáveis a esses modelos de veículos na família em circulação (prefixo do VIN).
+
+7.1.1.2.6. Os números das homologações aplicáveis a esses modelos de veículos da família em circulação, incluindo, quando aplicável, os números de todas as extensões e correcções locais/convocações (grandes modificações).
+
+7.1.1.2.7. Pormenores de extensões das homologações e correcções locais/convocações dos veículos abrangidos pelas informações do fabricante (se solicitado pela entidade homologadora).
+
+7.1.1.2.8. O período de recolha de informações do fabricante.
+
+7.1.1.2.9. O período de construção do veículo abrangido pelas informações do fabricante (por exemplo, "veículos fabricados durante o ano civil de 2001").
+
+7.1.1.2.10. O procedimento de verificação da conformidade em circulação do fabricante, incluindo:
+
+7.1.1.2.10.1. Método de localização do veículo.
+
+7.1.1.2.10.2. Critérios de selecção e de rejeição dos veículos.
+
+7.1.1.2.10.3. Tipos e métodos de ensaio utilizados no programa.
+
+7.1.1.2.10.4. Os critérios de aceitação/rejeição do fabricante para o grupo da família em circulação.
+
+7.1.1.2.10.5. Zona(s) geográfica(s) na(s) qual(is) o fabricante recolheu informações.
+
+7.1.1.2.10.6. Dimensão da amostra e plano de amostragem utilizado.
+
+7.1.1.2.11. Os resultados do procedimento da conformidade em circulação do fabricante, incluindo:
+
+7.1.1.2.11.1. Identificação dos veículos incluídos no programa (submetidos a ensaio ou não). A identificação incluirá:
+
+- nome do modelo,
+
+- número de identificação do veículo (VIN),
+
+- número de matrícula do veículo,
+
+- data de fabrico,
+
+- região de utilização (se conhecida),
+
+- pneumáticos montados.
+
+7.1.1.2.11.2. A(s) razão(ões) de rejeição de um veículo da amostra.
+
+7.1.1.2.11.3. Antecedentes de serviço de cada veículo da amostra (incluindo quaisquer grandes modificações).
+
+7.1.1.2.11.4. Antecedentes de reparações de cada veículo da amostra (se conhecida).
+
+7.1.1.2.11.5. Dados do ensaio, incluindo:
+
+- data do ensaio,
+
+- local do ensaio,
+
+- distância indicada no conta-quilómetros,
+
+- especificações do combustível de ensaio (por exemplo, combustível de referência para os ensaios ou combustível de mercado),
+
+- condições de ensaio (temperatura, humidade, massa de inércia do banco de ensaios),
+
+- regulações do banco de ensaios (por exemplo, regulação da potência),
+
+- resultados do ensaio (de pelo menos três veículos diferentes por família).
+
+7.1.1.2.12. Registos de indicações do sistema OBD..
+
+9. O ponto 7.1.2 passa a ter a seguinte redacção:
+
+7.1.2. As informações reunidas pelo fabricante devem ser suficientemente abrangentes para garantir a possibilidade de avaliação do comportamento do veículo em circulação em condições normais de utilização, tal como se define no ponto 7.1, e para permitir que essa avaliação seja feita de uma forma representativa da penetração geográfica do fabricante.
+
+Para efeitos da presente directiva, o fabricante não será obrigado a realizar uma auditoria da conformidade em circulação de um modelo de veículo, se puder demonstrar, de forma satisfatória para a entidade homologadora, que as vendas anuais desse modelo, na Comunidade, são inferiores a 5000..
+
+10. O ponto 7.1.7 passa a ter a redacção que se segue. Os pontos 7.1.7.1 a 7.1.7.5 permanecem inalterados:
+
+7.1.7. Com base na auditoria referida no ponto 7.1.1, a entidade homologadora:
+
+- decidirá que a conformidade em circulação de um modelo de veículo ou de uma família de veículos em serviço é satisfatória e não tomará qualquer outra medida, ou
+
+- decidirá que os dados fornecidos pelo fabricante não são suficientes para chegar a uma decisão e solicitará mais informações ou dados de ensaio ao fabricante, ou
+
+- decidirá que a conformidade em circulação de um modelo de veículo ou de modelos de veículos que fazem parte de uma família em circulação não é satisfatória e ordenará que se proceda ao ensaio de tais modelos de veículos de acordo com o apêndice 3 do presente anexo.
+
+Se o fabricante tiver sido dispensado da auditoria de um modelo específico, de acordo com o ponto 7.1.2, a entidade homologadora poderá realizar ensaios desse modelo de veículo, de acordo com o apêndice 3 do presente anexo..
+
+11. O ponto 2.6 do apêndice 3 passa a ter a seguinte redacção:
+
+2.6. Os teores de chumbo e de enxofre de uma amostra de combustível recolhida no reservatório de combustível do veículo devem cumprir as normas fixadas na Directiva 98/70/CE(1) e não deve haver qualquer indício da utilização de combustíveis inadequados. Para o efeito, poderá, por exemplo, examinar-se o tubo de escape..
+
+12. O ponto 6.1 do apêndice 3 passa a ter a seguinte redacção:
+
+6.1. Se se verificar que existe mais do que um veículo responsável por emissões anómalas que:
+
+- cumpre as condições referidas no ponto 3.2.3 do anexo 4 e tanto a entidade homologadora ou o fabricante concordarem que o excesso de emissões tem a mesma causa, ou
+
+- cumpre as condições do ponto 3.2.4 do anexo 4 tendo a entidade homologadora determinado que o excesso de emissões tem a mesma causa,
+
+a entidade homologadora deve solicitar ao fabricante que apresente um plano de medidas correctoras para eliminar essa não conformidade..
+
+13. O apêndice 4 do anexo I é alterado da seguinte forma:
+
+a) O ponto 3 passa a ter a seguinte redacção:
+
+3. PROCEDIMENTO A SEGUIR RELATIVAMENTE A VEÍCULOS DA AMOSTRA RESPONSÁVEIS POR EMISSÕES ANÓMALAS(2)
+
+3.1. Sendo três o tamanho mínimo da amostra e sendo o tamanho máximo determinado pelo procedimento descrito no ponto 4, é aleatoriamente retirado da amostra um veículo e as emissões dos poluentes regulamentados são medidas para determinar se o veículo é responsável por emissões anómalas.
+
+3.2. Diz-se que um veículo é responsável por emissões anómalas quando cumpre as condições indicadas nos pontos 3.2.1 ou 3.2.2.
+
+3.2.1. No caso de um veículo que tiver sido homologado de acordo com os valores-limite indicados na linha A do quadro do ponto 5.3.1.4 do anexo I, considera-se que o veículo é responsável por emissões anómalas se o valor-limite aplicável para qualquer poluente regulamentado for superado por um factor de 1,2.
+
+3.2.2. No caso de um veículo que tiver sido homologado de acordo com os valores-limite indicados na linha B do quadro do ponto 5.3.1.4 do anexo I, considera-se que o veículo é responsável por emissões anómalas se o valor-limite aplicável para qualquer poluente regulamentado for superado por um factor de 1,5.
+
+3.2.3. No caso específico de um veículo com emissões medidas para qualquer poluente regulamentado, no âmbito da "zona intermédia"(3).
+
+3.2.3.1. Se o veículo cumprir as condições do presente ponto, deve ser determinada a causa do excesso de emissões, sendo então aleatoriamente retirado da amostra outro veículo.
+
+3.2.3.2. Se mais do que um veículo cumprir as condições do presente ponto, a entidade homologadora e o fabricante devem determinar se o excesso de emissões dos veículos tem a mesma causa.
+
+3.2.3.2.1. Se a entidade homologadora e o fabricante concordarem que o excesso de emissões tem a mesma causa, considera-se que a amostra não é aceite, sendo aplicado o plano de medidas correctoras mencionado no ponto 6 do apêndice 3.
+
+3.2.3.2.2. Se a entidade homologadora e o fabricante não puderem chegar a acordo quanto à causa do excesso de emissões de um único veículo, ou se as causas referentes a mais do que um veículo forem as mesmas, será aleatoriamente retirado da amostra outro veículo, a menos que já se tenha atingido o tamanho máximo da amostra.
+
+3.2.3.3. Se apenas tiver sido detectado um veículo que cumpra as condições do presente ponto, ou se for detectado mais do que um veículo e a entidade homologadora e o fabricante concordarem que as causas são diferentes, será aleatoriamente retirado da amostra outro veículo, a menos que já se tenha atingido o tamanho máximo da amostra.
+
+3.2.3.4. Se for atingido o tamanho máximo da amostra e não se detectar mais do que um veículo que cumpra as condições do presente ponto, sendo o excesso de emissões devido à mesma causa, considera-se que a amostra passou no que diz respeito aos requisitos do ponto 3 do presente apêndice.
+
+3.2.3.5. Se a amostra inicial tiver sido esgotada, será acrescentado a essa amostra outro veículo que será retirado.
+
+3.2.3.6. Sempre que outro veículo for retirado da amostra, aplica-se o procedimento estatístico do ponto 4 do presente apêndice à amostra alargada.
+
+3.2.4. No caso específico de um veículo com emissões medidas para qualquer poluente regulamentado, no âmbito da "zona de não aceitação"(4).
+
+3.2.4.1. Se o veículo cumpre as condições do presente ponto, a entidade homologadora deve determinar a causa do excesso de emissões, sendo aleatoriamente retirado da amostra outro veículo.
+
+3.2.4.2. Se mais de que um veículo cumprir as condições do presente ponto e a entidade homologadora determinar que o excesso de emissões se deve à mesma causa, o fabricante será informado de que a amostra não é aceite, bem como dos motivos de tal decisão, sendo aplicado o plano de medidas correctoras mencionado no ponto 6 do apêndice 3.
+
+3.2.4.3. Se apenas tiver sido detectado um veículo que cumpra as condições do presente ponto, ou se for detectado mais do que um veículo e a entidade homologadora determinar que as causas são diferentes, será aleatoriamente retirado da amostra outro veículo, a menos que já se tenha atingido o tamanho máximo da amostra.
+
+3.2.4.4. Se for atingido o tamanho máximo da amostra e não se detectar mais do que um veículo que cumpra as condições do presente ponto, sendo o excesso de emissões devido à mesma causa, considera-se que a amostra passou no que diz respeito aos requisitos do ponto 3 do presente apêndice.
+
+3.2.4.5. Se a amostra inicial tiver sido esgotada, será acrescentado a essa amostra outro veículo que será retirado.
+
+3.2.4.6. Sempre que outro veículo for retirado da amostra, aplica-se o procedimento estatístico do ponto 4 do presente apêndice à amostra alargada.
+
+3.2.5. Se o veículo não for responsável por emissões anómalas, será aleatoriamente retirado da amostra outro veículo..
+
+b) No ponto 4.2, a expressão "(ver figura I.7)" é substituída por "(ver figura I.9)".
+
+c) O título da figura I.7 é alterado para "Figura I.9. Ensaio da conformidade em circulação - selecção e ensaio dos veículos".
+
+Na figura I.9, a palavra "no" imediatamente acima da caixa em forma de losango, que se encontra em baixo à direita, deve ser substituída por "no, or uncertain".
+
+d) É inserida a nova "Figura I.8." seguinte:
+
+Figura I.8.
+
+Verificação da conformidade em circulação - procedimento de auditoria
+
+>PIC FILE= "L_2002291PT.003101.TIF">
+
+B. O anexo II é alterado do seguinte modo:
+
+1. É aditado o ponto 3.2.12.2.8.6 com a seguinte redacção:
+
+3.2.12.2.8.6. O fabricante do veículo deve fornecer as seguintes informações suplementares, para permitir o fabrico de peças de substituição ou de acessórios compatíveis com os sistemas OBD e de ferramentas de diagnóstico e equipamentos de ensaio, a não ser que essas informações estejam protegidas por direitos de propriedade intelectual ou constituam saber-fazer específico do fabricante ou do(s) fornecedor(es) de equipamentos de origem.
+
+A informação constante do presente ponto deve ser repetida no apêndice 2 do certificado de homologação CE (anexo X da presente directiva):
+
+3.2.12.2.8.6.1. Uma descrição do tipo e número de ciclos de pré-condicionamento usados para a primeira homologação do veículo.
+
+3.2.12.2.8.6.2. Uma descrição do tipo de ciclo de demonstração do OBD usado para a primeira homologação do veículo relativa ao componente controlado pelo sistema OBD.
+
+3.2.12.2.8.6.3. Um documento exaustivo que descreva todos os componentes monitorizados, com a estratégia para detecção de anomalias e activação do IA (número fixo de ciclos de condução ou método estatístico), incluindo uma lista de parâmetros monitorizados secundários pertinentes para cada componente controlado pelo sistema OBD. Lista de todos os formatos e códigos de saída do OBD utilizados (com uma explicação de cada um deles) associados a cada componente do conjunto propulsor relacionado com as emissões e a cada componente não relacionado com as emissões, nos casos em que a monitorização dos componentes seja usada para determinar a activação do IA. Deve, em especial, apresentar-se uma explicação exaustiva em relação aos dados correspondentes ao serviço $05 (Teste ID $21 a FF) e ao serviço $06. No caso de modelos de veículos que utilizem uma ligação de comunicação de acordo com a norma ISO 15765-4 "Road vehicles - Diagnostics on Controller Area Network (CAN) - Part 4: Requirements for emissions-related systems", deve apresentar-se uma explicação exaustiva dos dados fornecidos no serviço $06 (Teste ID $00 a FF) no que diz respeito a cada ID de monitor OBD suportado.
+
+3.2.12.2.8.6.4. As informações solicitadas neste ponto podem ser apresentadas, por exemplo, pelo preenchimento do quadro abaixo, que será apenso ao presente anexo:
+
+>POSIÇÃO NUMA TABELA>
+
+C. O anexo III é alterado do seguinte modo:
+
+1. É aditado o ponto 2.3.5 com a seguinte redacção:
+
+2.3.5. Em relação a um modelo de veículo em que a velocidade do motor em marcha lenta sem carga seja superior à velocidade do motor durante as operações 5, 12 e 24 do ciclo urbano elementar (parte um), a embraiagem poderá ser desengatada durante a operação anterior..
+
+2. O ponto 3.2 passa a ter a seguinte redacção:
+
+3.2. Combustível
+
+Ao realizar o ensaio de um veículo em função dos valores-limite das emissões, estabelecidos na linha A do quadro do ponto 5.3.1.4 do anexo I da presente directiva, o combustível de referência adequado deve cumprir as especificações indicadas na secção A do anexo IX ou, no caso dos combustíveis gasosos de referência, no ponto A.1 ou no ponto B do anexo IXa.
+
+Ao realizar o ensaio de um veículo em função dos valores-limite das emissões, estabelecidos na linha B do quadro do ponto 5.3.1.4 do anexo I da presente directiva, o combustível de referência adequado deve cumprir as especificações indicadas na secção B do anexo IX ou, no caso dos combustíveis gasosos de referência, no ponto A.2 ou no ponto B do anexo IXa..
+
+3. Na coluna 5 do quadro III.1.2 [intitulada: "velocidade (km/h)"], a operação 23 passa a ter a seguinte redacção: "35 - 10".
+
+D. No anexo VII, o ponto 3.4.1 é alterado do seguinte modo:
+
+3.4.1. O combustível de ensaio deve satisfazer as especificações da secção C do anexo IX..
+
+E. O anexo IX é substituído pelo seguinte:
+
+"ANEXO IX
+
+A. Especificações dos combustíveis de referência para o ensaio de veículos em função dos limites de emissões indicados na linha a do quadro do ponto 5.3.1.4 do anexo I - ensaio do tipo I
+
+1. CARACTERÍSTICAS TÉCNICAS DO COMBUSTÍVEL DE REFERÊNCIA A UTILIZAR PARA O ENSAIO DE VEÍCULOS EQUIPADOS COM MOTOR DE IGNIÇÃO COMANDADA
+
+Modelo: Gasolina sem chumbo
+
+>POSIÇÃO NUMA TABELA>
+
+2. CARACTERÍSTICAS TÉCNICAS DO COMBUSTÍVEL DE REFERÊNCIA A UTILIZAR PARA O ENSAIO DE VEÍCULOS EQUIPADOS COM MOTOR DE IGNIÇÃO POR COMPRESSÃO
+
+Modelo: Combustível para motores diesel
+
+>POSIÇÃO NUMA TABELA>
+
+B. Especificações dos combustíveis de referência para o ensaio de veículos em função dos limites de emissões indicados na linha b do quadro do ponto 5.3.1.4 do anexo I - ensaio do tipo I
+
+1. CARACTERÍSTICAS TÉCNICAS DO COMBUSTÍVEL DE REFERÊNCIA A UTILIZAR PARA O ENSAIO DE VEÍCULOS EQUIPADOS COM MOTOR DE IGNIÇÃO COMANDADA
+
+Modelo: Gasolina sem chumbo
+
+>POSIÇÃO NUMA TABELA>
+
+2. CARACTERÍSTICAS TÉCNICAS DO COMBUSTÍVEL DE REFERÊNCIA A UTILIZAR PARA O ENSAIO DE VEÍCULOS EQUIPADOS COM MOTOR DE IGNIÇÃO POR COMPRESSÃO
+
+Modelo: Combustível para motores diesel
+
+>POSIÇÃO NUMA TABELA>
+
+C. Especificações do combustível de referência a utilizar para o ensaio do tipo de veículos equipados com motor de ignição comandada a baixa temperatura - ensaio do tipo VI
+
+Modelo: Gasolina sem chumbo
+
+>POSIÇÃO NUMA TABELA>".
+
+F. O anexo IX passa a ter a seguinte redacção:
+
+"ANEXO IX
+
+A. Especificações dos combustíveis de referência para o ensaio de veículos em função dos limites de emissões indicados na linha a do quadro do ponto 5.3.1.4 do anexo I - ensaio do tipo I
+
+1. CARACTERÍSTICAS TÉCNICAS DO COMBUSTÍVEL DE REFERÊNCIA A UTILIZAR PARA O ENSAIO DE VEÍCULOS EQUIPADOS COM MOTOR DE IGNIÇÃO COMANDADA
+
+Modelo: Gasolina sem chumbo
+
+>POSIÇÃO NUMA TABELA>
+
+2. CARACTERÍSTICAS TÉCNICAS DO COMBUSTÍVEL DE REFERÊNCIA A UTILIZAR PARA O ENSAIO DE VEÍCULOS EQUIPADOS COM MOTOR DE IGNIÇÃO POR COMPRESSÃO
+
+Modelo: Combustível para motores diesel
+
+>POSIÇÃO NUMA TABELA>
+
+B. Especificações dos combustíveis de referência para o ensaio de veículos em função dos limites de emissões indicados na linha b do quadro do ponto 5.3.1.4 do anexo I - ensaio do tipo I
+
+1. CARACTERÍSTICAS TÉCNICAS DO COMBUSTÍVEL DE REFERÊNCIA A UTILIZAR PARA O ENSAIO DE VEÍCULOS EQUIPADOS COM MOTOR DE IGNIÇÃO COMANDADA
+
+Modelo: Gasolina sem chumbo
+
+>POSIÇÃO NUMA TABELA>
+
+2. CARACTERÍSTICAS TÉCNICAS DO COMBUSTÍVEL DE REFERÊNCIA A UTILIZAR PARA O ENSAIO DE VEÍCULOS EQUIPADOS COM MOTOR DE IGNIÇÃO POR COMPRESSÃO
+
+Modelo: Combustível para motores diesel
+
+>POSIÇÃO NUMA TABELA>
+
+C. Especificações do combustível de referência a utilizar para o ensaio do tipo de veículos equipados com motor de ignição comandada a baixa temperatura - ensaio do tipo VI
+
+Modelo: Gasolina sem chumbo
+
+>POSIÇÃO NUMA TABELA>"
+
+G. O anexo X é alterado do seguinte modo:
+
+1. A terceira linha do título passa a ter a seguinte redacção: "CERTIFICADO DE HOMOLOGAÇÃO CE"
+
+2. O ponto 1.8.1.1 passa a ter a seguinte redacção:
+
+1.8.1.1. Repetir o quadro para todos os gases de referência do GPL ou do GN, indicando se os resultados são medidos ou calculados e repetir o quadro para o (um) resultado final das emissões de veículos a GPL ou GN. No caso de um veículo bicombustível, mostrar o resultado em relação à gasolina e repetir o quadro para todos os gases de referência do GPL ou do GN, indicando se os resultados são medidos ou calculados e repetir o quadro para o (um) resultado final das emissões dos veículos a GPL ou GN..
+
+3. O "apêndice" passa a "apêndice 1" e o título é alterado para "Adenda ao certificado de homologação CE n.o...".
+
+4. É aditado o ponto 1.10 ao apêndice 1 com a seguinte redacção:
+
+1.10. Catalisadores
+
+1.10.1. Catalisador original ensaiado em relação a todos os requisitos da presente directiva
+
+1.10.1.1. Marca e tipo do catalisador original, de acordo com o ponto 3.2.12.2.1 do anexo II da presente directiva (ficha de informações):
+
+1.10.2. Catalisador de substituição original, ensaiado em relação a todos os requisitos da presente directiva
+
+1.10.2.1. Marca(s) e tipo(s) do catalisador de substituição original, de acordo com o ponto 3.2.12.2.1 do anexo II da presente directiva (ficha de informações):.
+
+5. É aditado o apêndice 2 com a seguinte redacção:
+
+"Apêndice 2
+
+Informações relativas ao OBD
+
+Conforme se indica no ponto 3.2.12.2.8.6 da ficha de informações, a informação constante deste apêndice é fornecida pelo construtor do veículo para permitir o fabrico de peças de substituição ou de acessórios compatíveis com o sistema OBD, bem como de ferramentas de diagnóstico e equipamentos de ensaio. O fabricante não será obrigado a fornecer essas informações se elas estiverem abrangidas por direitos de propriedade intelectual ou constituírem um saber-fazer específico do fabricante ou do(s) fornecedor(es) de equipamentos de origem.
+
+Este apêndice será fornecido, mediante pedido e sem discriminação, a qualquer fabricante de componentes, ferramentas de diagnóstico ou equipamentos de ensaio que esteja interessado.
+
+1. Uma descrição do tipo e número de ciclos de pré-condicionamento usados para a primeira homologação do veículo.
+
+2. Uma descrição do tipo de ciclo de demonstração do OBD usado para a primeira homologação do veículo relativa ao componente controlado pelo sistema OBD.
+
+3. Um documento exaustivo que descreva todos os componentes monitorizados, com a estratégia para detecção de anomalias e activação do IA (número fixo de ciclos de condução ou método estatístico), incluindo uma lista de parâmetros monitorizados secundários pertinentes para cada componente controlado pelo sistema OBD. Lista de todos os formatos e códigos de saída do OBD utilizados (com uma explicação de cada um deles) associados a cada componente do conjunto propulsor relacionado com as emissões e a cada componente não relacionado com as emissões, nos casos em que a monitorização dos componentes seja usada para determinar a activação do IA. Deve, em especial, apresentar-se uma explicação exaustiva em relação aos dados correspondentes ao serviço $05 (Teste ID $21 a FF) e ao serviço $06. No caso de modelos de veículos que utilizem uma ligação de comunicação de acordo com a norma ISO 15765-4 "Road vehicles - Diagnostics on Controller Area Network (CAN) - Part 4: Requirements for emissions-related systems", deve apresentar-se uma explicação exaustiva dos dados fornecidos no serviço $06 (Teste ID $00 a FF) no que diz respeito a cada ID de monitor OBD suportado.
+
+>POSIÇÃO NUMA TABELA>"
+
+H. O anexo XI é alterado do seguinte modo:
+
+1. O ponto 2.6 passa a ter a seguinte redacção:
+
+2.6. "Anomalia", uma falha de um componente ou sistema relacionado com as emissões de que resultem níveis de emissões superiores aos limites previstos no ponto 3.3.2 ou se o sistema OBD não puder satisfazer as exigências básicas de monitorização do presente anexo..
+
+2. O ponto 3.5.2 passa a ter a seguinte redacção:
+
+3.5.2. Quando uma estratégia de diagnóstico tiver sido concebida para que a activação do IA exija mais de dois ciclos de pré-condicionamento, o fabricante deve fornecer dados e/ou uma avaliação técnica que demonstre convenientemente que o sistema de monitorização detecta a deterioração dos componentes de um modo igualmente eficaz e atempado. Não serão aceites estratégias que exijam, em média, mais de 10 ciclos de condução para a activação do IA. O IA também deve ser activado sempre que o sistema de controlo do motor passe a um modo de funcionamento pré-estabelecido permanente no que respeita às emissões e os limites de emissões previstos no ponto 3.3.2 sejam excedidos ou se o sistema OBD não puder satisfazer as exigências básicas de monitorização pelo OBD, especificadas no ponto 3.3.3 ou no ponto 3.3.4 do presente anexo. Nos períodos em que ocorrerem falhas de ignição do motor numa proporção (a especificar pelo fabricante) susceptível de danificar o catalisador, o IA deve funcionar num modo avisador distinto (por exemplo, emissão de um sinal luminoso intermitente). Por outro lado, o IA deve permanecer activado enquanto o motor não arrancar ou rodar depois de a chave da ignição do veículo ter sido colocada na posição "ligado" e deve desactivar-se depois do arranque do motor, se, entretanto, não for detectada qualquer anomalia..
+
+3. O ponto 3.6 passa a ter a seguinte redacção:
+
+3.6. O sistema OBD deve registar o(s) código(s) de anomalia indicativo(s) do estado do sistema de controlo das emissões. Devem ser utilizados códigos de estado diferentes para identificar os sistemas de controlo das emissões que funcionam correctamente e os sistemas de controlo das emissões cuja avaliação completa exige que o veículo continue a ser operado. Devem ser armazenados códigos de anomalia que correspondam à activação do indicador de anomalias devido a deterioração, outras anomalias ou passagem a um modo de funcionamento pré-estabelecido permanente no que respeita às emissões e esses códigos devem identificar o tipo de anomalia em questão. Também deve ser armazenado um código de anomalia nos casos mencionados nos pontos 3.3.3.5 e 3.3.4.5 do presente anexo..
+
+4. É aditado o ponto 3.9 com a seguinte redacção:
+
+3.9. Veículo bicombustível funcionando a gás
+
+3.9.1. Para os veículos bicombustíveis funcionando a gás, os procedimentos:
+
+- activação do indicador de anomalias (IA) (ver ponto 3.5 do presente anexo),
+
+- armazenamento de códigos de anomalia (ver ponto 3.6 do presente anexo),
+
+- corte do IA (ver ponto 3.7 do presente anexo),
+
+- apagamento de um código de anomalia (ver ponto 3.8 do presente anexo),
+
+devem ser executados independentemente uns dos outros quando o veículo funcionar a gasolina ou a gás. Quando o veículo funcionar a gasolina, o resultado de qualquer dos procedimentos acima indicados não deve ser afectado quando o veículo funcionar a gás. Quando o veículo funcionar a gás, o resultado de qualquer dos procedimentos acima indicados não deve ser afectado quando o veículo funcionar a gasolina.
+
+Sem prejuízo deste requisito, o código de estado (referido no ponto 3.6. do presente anexo) deve indicar a avaliação completa dos sistemas de controlo para ambos os tipos de combustível (gasolina e gás), quando tiver sido efectuada a avaliação completa dos sistemas de controlo para um dos tipos de combustível..
+
+5. Os pontos 4.4 e 4.5 passam a ter a seguinte redacção:
+
+4.4. Antes da homologação ou aquando da homologação, não será deferido qualquer pedido relativo a uma deficiência em relação aos requisitos do ponto 6.5, com excepção do ponto 6.5.3.4 do apêndice 1 do presente anexo. Este ponto não é aplicável aos veículos bicombustível funcionando a gás.
+
+4.5. Veículos bicombustível funcionando a gás
+
+4.5.1. Sem prejuízo dos requisitos do ponto 3.9.1, e sempre que solicitado pelo fabricante, a entidade homologadora aceitará as seguintes deficiências como estando em conformidade com os requisitos do presente anexo para efeitos da homologação de veículos bicombustível funcionando a gás:
+
+- apagamento de códigos de anomalia; distância percorrida e trama retida correspondente após 40 ciclos de aquecimento do motor, independentemente do combustível utilizado,
+
+- activação do IA em ambos os tipos de combustível (gasolina e gás) após a detecção de uma anomalia em um dos tipos de combustível,
+
+- desactivação do IA depois de efectuados três ciclos de condução consecutivos sem anomalia, independentemente do combustível utilizado na altura,
+
+- utilização de dois códigos de estado, um para cada tipo de combustível.
+
+O fabricante poderá solicitar mais opções cujo deferimento ficará à descrição da entidade homologadora.
+
+4.5.2. Sem prejuízo dos requisitos do ponto 6.6.1 do apêndice 1 do presente anexo, e sempre que solicitado pelo fabricante, a entidade homologadora aceitará as seguintes deficiências como estando em conformidade com os requisitos do presente anexo para efeitos de avaliação e transmissão de sinais de diagnóstico:
+
+- transmissão de sinais de diagnóstico relativos ao combustível utilizado num só endereço fonte,
+
+- avaliação de um conjunto de sinais de diagnóstico para ambos os tipos de combustível (correspondente à avaliação em veículos monocombustível a gás, e independentemente do combustível utilizado),
+
+- selecção de um conjunto de sinais de diagnóstico (associado a um ou dois tipos de combustível) através da posição de um comutador de combustível.
+
+O fabricante poderá solicitar mais opções cujo deferimento ficará à descrição da entidade homologadora..
+
+6. O ponto 4.6 passa a 4.7:
+
+7. É aditado um novo ponto 4.6 com a seguinte redacção:
+
+4.6. Período autorizado para manutenção de uma deficiência
+
+4.6.1. Uma deficiência pode continuar a manter-se por um período de dois anos após a data de homologação do modelo de veículo em causa, a não ser que possa ser devidamente demonstrado que seriam necessárias modificações substanciais nos equipamentos do veículo e um período de tempo suplementar superior a dois anos para a corrigir. Nesse caso, a deficiência poderá manter-se por um período não superior a três anos.
+
+4.6.1.1. No caso de um veículo bicombustível funcionando a gás, uma deficiência autorizada em conformidade com o disposto no ponto 4.5 pode manter-se por um período de três anos após a data da homologação do modelo de veículo em causa, a não ser que possa ser devidamente demonstrado que seriam necessárias modificações substanciais nos equipamentos do veículo e um período de tempo suplementar superior a três anos para a corrigir. Nesse caso, a deficiência poderá manter-se por um período não superior a quatro anos.
+
+4.6.2. Um fabricante pode solicitar à entidade homologadora que autorize a posteriori uma deficiência se esta for detectada após a concessão da homologação inicial. Neste caso, a deficiência poderá manter-se por um período de dois anos após a data da notificação à entidade homologadora, a não ser que possa ser devidamente demonstrado que seriam necessárias modificações substanciais nos equipamentos do veículo e um período de tempo suplementar superior a dois anos para a corrigir. Nesse caso, a deficiência poderá manter-se por um período não superior a três anos..
+
+8. É aditado o ponto 5 com a seguinte redacção:
+
+5. ACESSO ÀS INFORMAÇÕES RELATIVAS AO OBD
+
+5.1. Os pedidos de homologação ou de alteração de uma homologação, em conformidade com o n.o 5 do artigo 3.o da Directiva 70/156/CEE devem ser acompanhados das informações pertinentes relativas ao sistema OBD do veículo. Estas informações permitirão aos fabricantes de peças de substituição ou de equipamento de retromontagem fabricar essas peças de forma compatível com o sistema OBD do veículo, a fim de evitar a ocorrência de erros e proteger o utilizador do veículo contra anomalias; Do mesmo modo, essas informações permitirão aos fabricantes de ferramentas de diagnóstico e equipamentos de ensaio fabricar ferramentas e equipamentos que realizem diagnósticos eficazes e rigorosos dos sistemas de controlo de emissões dos veículos.
+
+5.2. O apêndice 2 do certificado de homologação CE, com as respectivas informações, será fornecido pelas entidades homologadoras a qualquer fabricante de componentes, ferramentas de diagnóstico ou equipamentos de ensaio que esteja interessado, mediante pedido e sem discriminação.
+
+5.2.1. Se uma entidade homologadora receber, da parte de qualquer fabricante de componentes, ferramentas de diagnóstico ou equipamentos de ensaio que esteja interessado, um pedido de informação sobre o sistema OBD de um veículo que tenha sido homologado de acordo com uma versão anterior da Directiva 70/220/CEE,
+
+- a entidade homologadora deverá, no prazo de 30 dias, solicitar ao fabricante do veículo em questão que disponibilize as informações solicitadas no ponto 3.2.12.2.8.6 do anexo II. Não se aplica o requisito do segundo parágrafo do ponto 3.2.12.2.8.6,
+
+- o fabricante transmitirá essas informações à entidade homologadora no prazo de dois meses a contar do pedido,
+
+- a entidade homologadora transmitirá as informações às entidades homologadoras dos Estados-Membros e a entidade que concedeu a primeira homologação deverá acrescentá-las ao anexo II da informação sobre a homologação do veículo.
+
+Este requisito não invalidará qualquer homologação previamente concedida ao abrigo da Directiva 70/220/CEE nem impedirá a extensão de tais homologações nos termos da directiva ao abrigo da qual foram inicialmente concedidas.
+
+5.2.2. Só é possível solicitar informações sobre peças de substituição ou acessórios que estejam sujeitos a homologação CE ou sobre componentes que façam parte de um sistema que esteja sujeito a homologação CE.
+
+5.2.3. O pedido de informação deve identificar a especificação exacta do modelo relativamente ao qual a informação é solicitada. O pedido deve confirmar que a informação é necessária para o desenvolvimento de peças de substituição ou de retromontagem, ferramentas de diagnóstico ou equipamentos de ensaio..
+
+I. O apêndice 1 do anexo XI é alterado do seguinte modo:
+
+1. O ponto 3.2 passa a ter a seguinte redacção:
+
+3.2. Combustível
+
+Para os ensaios, devem ser utilizados os combustíveis de referência adequados definidos no anexo IX para a gasolina e o gasóleo e no anexo IXa para os combustíveis GPL e GN. O tipo de combustível para cada tipo de anomalia a testar (descrito no ponto 6.3 do presente apêndice) poderá ser seleccionado pela entidade homologadora de entre os combustíveis de referência mencionados no anexo IXa, no caso de um ensaio de um veículo monocombustível funcionando a gás, e de entre os combustíveis de referência mencionados nos anexos IX ou IXa, no caso de um ensaio de um veículo bicombustível funcionando a gás. O tipo de combustível seleccionado não deve ser alterado durante nenhuma das fases de ensaio (descrita nos pontos 2.1 e 2.3 do presente apêndice). No caso de utilização de GPL ou GN como combustível, é admissível que o motor arranque com gasolina e seja comutado para GPL ou GN após um período pré-determinado de tempo, que é controlado automaticamente e não está sob o controlo do condutor..
+
+2. Os pontos 6.3.1.4 e 6.3.1.5 passam a ter a seguinte redacção:
+
+6.3.1.4. Desconexão eléctrica de qualquer outro componente relacionado com as emissões e ligado a um computador de gestão da propulsão (se activado para o tipo de combustível seleccionado).
+
+6.3.1.5. Desconexão eléctrica do dispositivo electrónico de controlo da purga de emissões por evaporação (se o veículo estiver equipado com este tipo de dispositivo e se este estiver activado para o tipo de combustível seleccionado). Para esta anomalia específica, não é preciso proceder ao ensaio de tipo I.
+
+3. Os pontos 6.4.1.5 e 6.4.1.6 passam a ter a seguinte redacção:
+
+6.4.1.5. Desconexão eléctrica do dispositivo electrónico de controlo da purga de emissões por evaporação (se o veículo estiver equipado com este tipo de dispositivo e se este estiver activado para o tipo de combustível seleccionado).
+
+6.4.1.6. Desconexão eléctrica de qualquer outro componente do conjunto propulsor relacionado com as emissões e ligado a um computador de que resultem níveis de emissões que excedam um ou mais dos limites previstos no ponto 3.3.2 do presente anexo (se activado para o tipo de combustível seleccionado)..
+
+4. O ponto 6.5.3 passa a ter a seguinte redacção:
+
+6.5.3. O acesso ao sistema de diagnóstico utilizado no controlo das emissões deve ser normalizado e, além disso, o sistema deve ser conforme com as normas ISO e/ou a especificação SAE a seguir enumeradas.
+
+6.5.3.1. As ligações de comunicação entre o equipamento de bordo e o equipamento externo devem obedecer a uma das normas a seguir indicadas, com as restrições previstas:
+
+ISO 9141 - 2: 1994 (alterada em 1996) "Road Vehicles - Diagnostic Systems - Part 2: CARB requirements for interchange of digital information";
+
+SAE J1850: Março de 1998 "Class B Data Communication Network Interface". As mensagens relacionadas com as emissões devem utilizar o controlo de redundância cíclica e o cabeçalho de três bytes, mas não a separação inter-bytes ou somas de controlo;
+
+ISO 14230 - Part 4 "Road Vehicles - Keyword protocol 2000 for diagnostic systems - Part 4: Requirements for emission-relate systems";
+
+ISO DIS 15765-4 "Road vehicles - Diagnostics on Controller Area Network (CAN) - Part 4: Requirements for emissions-related systems", com data de 1 de Novembro de 2001.
+
+6.5.3.2. O equipamento de ensaio e os instrumentos de diagnóstico necessários para comunicar com os sistemas OBD devem satisfazer ou exceder as especificações funcionais da norma ISO DIS 15031-4 "Road Vehicles - Communication between vehicle and external test equipment for emissions-related diagnostics - Part 4: External test equipment", com data de 1 de Novembro de 2001.
+
+6.5.3.3. Os dados básicos de diagnóstico (especificados no ponto 6.5.1 do presente apêndice) e as informações do controlo bidireccional devem ser fornecidos no formato e unidades previstos na norma ISO DIS 15031-5 "Road Vehicles - Communication between vehicle and external test equipment for emissions-related diagnostics - Part 5: Emissions-related diagnostic services", com data de 1 de Novembro de 2001, e devem ser acessíveis por meio de um instrumento de diagnóstico que satisfaça os requisitos da norma ISO DIS 15031-4.
+
+O fabricante do veículo deve fornecer a um organismo nacional de normalização os dados de diagnóstico relativos a emissões, por exemplo, PID, ID do monitor OBD, ID de Testes não especificados na ISO DIS 15031-5, mas relacionados com a presente directiva.
+
+6.5.3.4. Quando se regista uma anomalia, o fabricante deve identificar a anomalia utilizando um código de anomalia adequado compatível com os dados no ponto 6.3 da norma ISO DIS 15031-6 "Road Vehicles - Communication between vehicle and external test equipment for emissions-related diagnostics - Part 6: Diagnostic trouble code definitions", relativa a "emission related system diagnostic trouble codes". Se tal identificação não for possível, o fabricante pode utilizar códigos de avarias de diagnóstico de acordo com os pontos 5.3 e 5.6 da norma ISO DIS 15031-6. Os códigos de anomalia devem ser integralmente acessíveis por meio de um equipamento de diagnóstico normalizado que satisfaça os requisitos do ponto 6.5.3.2.
+
+O fabricante do veículo deve fornecer a um organismo nacional de normalização os dados de diagnóstico relativos a emissões, por exemplo, PID, ID do monitor OBD, ID de Testes não especificados na ISO DIS 15031-5, mas relacionados com a presente directiva.
+
+6.5.3.5. A interface de conexão entre o veículo e o ensaiador do sistema de diagnóstico deve ser normalizada e preencher todos os requisitos da norma ISO DIS 15031-3 "Road Vehicles - Communication between vehicle and external test equipment for emissions-related diagnostics - Part 3: Diagnostic connector and related electrical circuits: specification and use", com data de 1 de Novembro de 2001.
+
+A posição de montagem, que depende do acordo da autoridade de homologação, deve ser facilmente acessível ao pessoal técnico e estar protegida contra danos acidentais em condições normais de utilização..
+
+5. É aditado o ponto 6.6 com a seguinte redacção:
+
+6.6. Veículos bicombustível funcionando a gás
+
+6.6.1. Para veículos bicombustível funcionando a gás, os sinais de diagnóstico (conforme descritos no ponto 6.5 do apêndice 1 do presente anexo) para o funcionamento a gasolina e para o funcionamento a gás devem ser avaliados e transmitidos independentemente uns dos outros. A pedido de um instrumento de diagnóstico, os sinais de diagnóstico para um veículo a gasolina devem ser transmitidos a um endereço fonte e os sinais de diagnóstico do veículo a gás devem ser transmitidos a outro endereço fonte. A utilização de endereços fonte está descrita na norma ISO DIS 15031-5 "Road Vehicles - Communication between vehicle and external test equipment for emissions-related diagnostics - Part 5: External test equipment", com data de 1 de Novembro de 2001..
+
+J. O anexo XIII é substituído pelo seguinte
+
+"ANEXO XIII
+
+HOMOLOGAÇÃO CE DE CATALISADORES DE SUBSTITUIÇÃO ENQUANTO UNIDADES TÉCNICAS
+
+1. DOMÍNIO DE APLICAÇÃO
+
+O presente anexo aplica-se à homologação CE, enquanto unidades técnicas na acepção do n.o 1, alínea d), do artigo 4.o da Directiva 70/156/CEE, de catalisadores a instalar em um ou mais modelos de veículos a motor das categorias M1 e N1(1) como peças de substituição.
+
+2. DEFINIÇÕES
+
+Para efeitos do presente anexo, entende-se por:
+
+2.1. "Catalisador original" - ver ponto 2.17 do anexo I.
+
+2.2. "Catalisador de substituição" - ver ponto 2.18 do anexo I.
+
+2.3. "Catalisador de substituição original" - ver ponto 2.19 do anexo I.
+
+2.4. "Tipo de catalisador" - catalisadores que não diferem entre si em aspectos essenciais como:
+
+2.4.1. Número de substratos revestidos, estrutura e material
+
+2.4.2. Tipo de actividade catalítica (por oxidação, de três vias, etc.)
+
+2.4.3. Volume, relação da área frontal e comprimento do substrato
+
+2.4.4. Conteúdo do material catalisador
+
+2.4.5. Relação do material catalisador
+
+2.4.6. Densidade das células
+
+2.4.7. Dimensões e forma
+
+2.4.8. Protecção térmica
+
+2.5. "Modelo de veículo", o modelo de veículo definido no ponto 2.1 do anexo I.
+
+2.6. "Homologação de um catalisador de substituição", a homologação de um catalisador destinado a ser instalado como peça de substituição em um ou mais modelos específicos de veículos no que diz respeito à limitação das emissões de poluentes, ao nível de ruído e ao efeito no comportamento funcional do veículo e, sempre que aplicável, ao OBD.
+
+2.7. "Catalisador de substituição deteriorado", um catalisador envelhecido ou que se encontra artificialmente deteriorado, de tal forma que satisfaça os requisitos do n.o 1 do apêndice 1 ao anexo XI da presente directiva(2).
+
+3. PEDIDO DE HOMOLOGAÇÃO CE
+
+3.1. O pedido de homologação CE nos termos do n.o 4 do artigo 3.o da Directiva 70/156/CEE de um tipo de catalisador de substituição deve ser apresentado pelo seu fabricante.
+
+3.2. No apêndice 1 do presente anexo figura um modelo da ficha de informações.
+
+3.3. Em caso de pedido de homologação de um catalisador de substituição, devem ser apresentados ao serviço técnico responsável pela realização do ensaio de homologação:
+
+3.3.1. Um ou mais veículos de um modelo homologado de acordo com a Directiva 70/220/CEE, equipados com um catalisador original novo. Esses veículos devem ser seleccionados pelo requerente com o acordo do serviço técnico, devendo satisfazer os requisitos do ponto 3 do anexo III da presente directiva.
+
+Os veículos de ensaio não devem ter defeitos no sistema de controlo das emissões; quaisquer peças originais relacionadas com as emissões ou com avarias excessivamente gastas devem ser reparadas ou substituídas. Os veículos de ensaio devem ser afinados correctamente e regulados para a especificação do fabricante antes dos ensaios de emissões.
+
+3.3.2. Uma amostra do tipo de catalisador de substituição. Essa amostra deve ser clara e indelevelmente marcada com a firma ou marca do requerente e a sua designação comercial.
+
+3.3.3. Uma amostra adicional do tipo de catalisador de substituição, no caso de um catalisador de substituição destinado a ser instalado num veículo equipado com um sistema OBD. Essa amostra deve ser clara e indelevelmente marcada com a firma ou marca do requerente e a sua designação comercial. O catalisador deve ter sido deteriorado conforme definido no ponto 2.7.
+
+4. HOMOLOGAÇÃO CE
+
+4.1. Se forem satisfeitos os requisitos relevantes, será concedida a homologação CE nos termos do n.o 3 do artigo 4.o da Directiva 70/156/CEE.
+
+4.2. No apêndice 2 do presente anexo figura um modelo do certificado de homologação CE.
+
+4.3. A cada tipo de catalisador de substituição homologado deve ser atribuído um número de homologação conforme com o anexo VII da Directiva 70/156/CEE. Um Estado-Membro não pode atribuir o mesmo número a outro tipo de catalisador de substituição. O mesmo número de homologação pode abranger a utilização desse tipo de catalisador de substituição em vários modelos diferentes de veículos.
+
+5. MARCAÇÃO DE HOMOLOGAÇÃO CE
+
+5.1. Os catalisadores de substituição conformes com um tipo homologado enquanto unidade técnica com base na presente directiva devem ostentar uma marca de homologação CE.
+
+5.2. Essa marca deve ser constituída por um rectângulo envolvendo a letra "e", seguida das letras ou número distintivos do Estado-Membro que procedeu à homologação:
+
+1 para a Alemanha
+
+2 para França
+
+3 para Itália
+
+4 para os Países Baixos
+
+5 para a Suécia
+
+6 para a Bélgica
+
+9 para Espanha
+
+11 para o Reino Unido
+
+12 para a Áustria
+
+13 para o Luxemburgo
+
+17 para a Finlândia
+
+18 para a Dinamarca
+
+21 para Portugal
+
+23 para a Grécia
+
+24 para a Irlanda,
+
+e pelo "número de homologação de base" que constitui a secção 4 do número de homologação objecto do anexo VII da Directiva 70/156/CEE, precedido do número sequencial de dois algarismos atribuindo à mais recente alteração técnica significativa da Directiva 70/220/CEE à data da concessão da homologação CE, ambos a figurar na proximidade do rectângulo; o número sequencial correspondente à presente directiva é 01.
+
+5.3. A marca de homologação CE referida no ponto 5.2 deve ser claramente legível e indelével e, sempre que possível, ser visível quando o catalisador de substituição estiver instalado no veículo.
+
+5.4. O apêndice 3 do presente anexo dá exemplos de disposições da marca de homologação e dos dados de homologação acima referidos.
+
+6. REQUISITOS
+
+6.1. Requisitos gerais
+
+6.1.1. O catalisador de substituição deve ser concebido, construído e capaz de ser montado de modo a permitir que o veículo satisfaça as disposições da presente directiva com as quais estava originalmente em conformidade e que as emissões de poluentes sejam efectivamente limitadas durante a vida normal do veículo em condições normais de utilização.
+
+6.1.2. A instalação do catalisador de substituição deve ser efectuada na posição exacta do catalisador original e a posição da(s) sonda(s) de oxigénio e de outros sensores na linha de escape, se aplicável, não deve ser modificada.
+
+6.1.3. Se o catalisador original incluir uma protecção térmica, o catalisador de substituição deve incluir uma protecção equivalente.
+
+6.1.4. O catalisador de substituição deve ser durável, ou seja, concebido, construído e capaz de ser montado de modo a obter uma resistência razoável aos fenómenos de corrosão e de oxidação a que está exposto, tendo em conta as condições de utilização do veículo.
+
+6.2. Requisitos relativos às emissões
+
+Os veículos indicados no ponto 3.3.1 do presente anexo, equipados com um catalisador de substituição do tipo cuja homologação se solicita, devem ser sujeitos a um ensaio do tipo I, nas condições descritas no anexo correspondente da presente directiva, de modo a comparar o seu comportamento funcional com o do catalisador original de acordo com o procedimento a seguir descrito.
+
+6.2.1. Determinação da base de comparação
+
+Os veículos devem ser equipados com um catalisador original novo (ver ponto 3.3.1) e sujeitos a rodagem durante 12 ciclos extra-urbanos (parte dois do ensaio do tipo I).
+
+Após este pré-condicionamento, os veículos devem ser mantidos numa sala em que a temperatura esteja relativamente constante entre 293 e 303 K (20 e 30 °C). Este condicionamento deve ser efectuado durante pelo menos seis horas e continuar até que as temperaturas do lubrificante e do líquido de arrefecimento do motor estejam a ± 2 K da temperatura da sala. Efectuam-se de seguida três ensaios do tipo I.
+
+6.2.2. Ensaio do tipo I (gases de escape) com o catalisador de substituição
+
+O catalisador original dos veículos de ensaio é substituído pelo catalisador de substituição (ver ponto 3.3.2), que é sujeito a rodagem durante 12 ciclos extra-urbanos (parte 2 do ensaio do tipo I).
+
+Após este pré-condicionamento, os veículos devem ser mantidos numa sala em que a temperatura esteja relativamente constante entre 293 e 303 K (20 e 30 °C). Este condicionamento deve ser efectuado durante pelo menos seis horas e continuar até que as temperaturas do lubrificante e do líquido de arrefecimento do motor estejam a ± 2 K da temperatura da sala. Efectuam-se de seguida três ensaios do tipo I.
+
+6.2.3. Avaliação da emissão de poluentes dos veículos equipados com catalisadores de substituição.
+
+Os veículos de ensaio com o catalisador original devem satisfazer os valores-limite nos termos da homologação dos veículos, incluindo - se aplicável - os factores de deterioração aplicados durante a homologação dos veículos.
+
+Presume-se que os requisitos relativos às emissões dos veículos equipados com o catalisador de substituição são cumpridos se os resultados satisfizerem, no que diz respeito a cada poluente regulamentado (CO, HX, NOx e partículas), as seguintes condições:
+
+>REFERÊNCIA A UM GRÁFICO>
+
+>REFERÊNCIA A UM GRÁFICO>
+
+sendo:
+
+M o valor médio das emissões de um poluente ou a soma de dois poluentes(3), obtido a partir dos três ensaios do tipo I com o catalisador de substituição.
+
+S o valor médio das emissões de um poluente ou a soma de dois poluentes(4), obtido a partir dos três ensaios do tipo I com o catalisador original.
+
+G é o valor-limite das emissões de um poluente ou a soma de dois poluentes(5) nos termos da homologação dos veículos, dividido - se aplicável - pelos factores de deterioração determinados de acordo com o ponto 6.4.
+
+Se se solicitar a homologação para diferentes modelos de veículos do mesmo fabricante, e desde que esses diferentes modelos de veículos estejam equipados com o mesmo tipo de catalisador original, o ensaio do tipo I pode ser limitado, no mínimo, a dois veículos seleccionados após acordo com o serviço técnico responsável pela homologação.
+
+6.3. Requisitos relativos ao ruído e à contrapressão de escape
+
+O catalisador de substituição deve satisfazer os requisitos técnicos do anexo II da Directiva 70/157/CEE.
+
+6.4. Requisitos relativos à durabilidade
+
+O catalisador de substituição deve satisfazer os requisitos do ponto 5.3.5 do anexo I da presente directiva relativos ao ensaio do tipo V ou os factores de deterioração do quadro a seguir para os resultados dos ensaios do tipo I.
+
+Quadro XIII.6.4.
+
+>POSIÇÃO NUMA TABELA>
+
+6.5. Requisitos relativos à compatibilidade do OBD (aplicável a catalisadores de substituição destinados a ser instalados em veículos equipados com um sistema OBD)
+
+A demonstração da compatibilidade do OBD é exigida apenas quando o catalisador original tiver sido monitorizado na configuração original.
+
+6.5.1. A compatibilidade do catalisador de substituição com o sistema OBD deve ser demonstrada utilizando os procedimentos descritos no apêndice 1 do anexo XI da Directiva 98/69/CE.
+
+6.5.2. As disposições contidas no apêndice 1 do anexo XI da Directiva 98/69/CE aplicáveis a outros componentes que não sejam o catalisador não devem ser aplicadas.
+
+6.5.3. O fabricante do catalisador de substituição pode utilizar o mesmo método de pré-condicionamento e de ensaio que o utilizado durante a homologação original. Neste caso, a autoridade de homologação deve fornecer, mediante pedido e sem discriminação, o apêndice 2 do certificado de homologação CE, que contém o número de ciclos de pré-condicionamento e o tipo do ciclo de ensaios utilizado pelo fabricante do equipamento original para o ensaio de OBD do catalisador.
+
+6.5.4. Para verificar a correcta instalação e o correcto funcionamento de todos os outros componentes monitorizados pelo sistema OBD, este não deve indicar qualquer avaria e não ter armazenados códigos de anomalia antes da instalação de qualquer um dos catalisadores de substituição. Pode ser utilizada para esse fim uma avaliação do estado do sistema OBD no final dos ensaios descritos no ponto 6.2.1 do presente anexo.
+
+6.5.5. O IA (ver ponto 2.5 do anexo XI da presente directiva) não deve ser activado durante o funcionamento do veículo exigido pelo ponto 6.2.2 do presente anexo.
+
+7. DOCUMENTAÇÃO
+
+7.1. Todas as embalagens que contenham um catalisador de substituição novo devem ser acompanhadas pelas seguintes informações:
+
+7.1.1. A denominação ou marca do fabricante do catalisador.
+
+7.1.2. Os veículos (incluindo o ano de fabrico) para os quais o catalisador de substituição foi homologado, incluindo, sempre que for adequado, uma marcação para identificar se o catalisador de substituição é adequado para instalação num veículo que esteja equipado com um sistema de diagnóstico a bordo (OBD).
+
+7.1.3. Instruções de instalação, sempre que necessário.
+
+7.2. Estas informações devem ser fornecidas:
+
+sob a forma de um folheto que acompanha o catalisador de substituição, ou
+
+na embalagem que o catalisador de substituição é vendido, ou
+
+de qualquer outra forma aplicável.
+
+De qualquer forma, a informação deve estar disponível no catálogo do produto que é distribuído nos pontos de venda pelo fabricante de catalisadores de substituição.
+
+8. MODIFICAÇÃO DO MODELO E ALTERAÇÕES DE HOMOLOGAÇÕES
+
+No caso de modificação do tipo homologado nos termos da presente directiva, aplicam-se as disposições do artigo 5.o da Directiva 70/156/CEE.
+
+9. CONFORMIDADE DA PRODUÇÃO
+
+As medidas destinadas a garantir a conformidade da produção devem ser tomadas de acordo com o disposto no artigo 10.o da Directiva 70/156/CEE.
+
+9.2. Prescrições particulares
+
+9.2.1. As verificações referidas no ponto 2.2 do anexo X da Directiva 70/156/CEE devem incluir a satisfação das características definidas no ponto 2.4 do presente anexo.
+
+9.2.2. No que diz respeito à aplicação do ponto 2.3.5 do anexo X da Directiva 70/156/CEE, podem ser efectuados os ensaios descritos no ponto 6.2 do presente anexo (requisitos relativos às emissões). Neste caso, o titular da homologação pode solicitar, como alternativa, utilizar como base de comparação não o catalisador original mas o catalisador de substituição que foi utilizado durante os ensaios de homologação (ou outra amostra comprovada como estando em conformidade com o tipo homologado). Os valores das emissões medidos com a amostra em verificação não devem, em média, exceder em mais de 15 % os valores médios medidos com a amostra utilizada como referência.
+
+(1) Conforme definida na parte A do anexo II da Directiva 70/156/CEE.
+
+(2) Para efeitos do teste de demonstração dos veículos equipados com motores de ignição comandada, quando o valor HC, medido de acordo com o ponto 6.2.1 do presente anexo, for superior ao valor medido durante a homologação do veículo, a diferença tem de ser acrescentada aos valores-limite mencionados no ponto 3.3.2 do anexo XI, aos quais se aplica o excesso permitido no ponto 1 do apêndice 1 ao anexo XI.
+
+(3) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+(4) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+(5) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+## ANEXO XIII — HOMOLOGAÇÃO CE DE CATALISADORES DE SUBSTITUIÇÃO ENQUANTO UNIDADES TÉCNICAS
+
+1. DOMÍNIO DE APLICAÇÃO
+
+O presente anexo aplica-se à homologação CE, enquanto unidades técnicas na acepção do n.o 1, alínea d), do artigo 4.o da Directiva 70/156/CEE, de catalisadores a instalar em um ou mais modelos de veículos a motor das categorias M1 e N1(1) como peças de substituição.
+
+2. DEFINIÇÕES
+
+Para efeitos do presente anexo, entende-se por:
+
+2.1. "Catalisador original" - ver ponto 2.17 do anexo I.
+
+2.2. "Catalisador de substituição" - ver ponto 2.18 do anexo I.
+
+2.3. "Catalisador de substituição original" - ver ponto 2.19 do anexo I.
+
+2.4. "Tipo de catalisador" - catalisadores que não diferem entre si em aspectos essenciais como:
+
+2.4.1. Número de substratos revestidos, estrutura e material
+
+2.4.2. Tipo de actividade catalítica (por oxidação, de três vias, etc.)
+
+2.4.3. Volume, relação da área frontal e comprimento do substrato
+
+2.4.4. Conteúdo do material catalisador
+
+2.4.5. Relação do material catalisador
+
+2.4.6. Densidade das células
+
+2.4.7. Dimensões e forma
+
+2.4.8. Protecção térmica
+
+2.5. "Modelo de veículo", o modelo de veículo definido no ponto 2.1 do anexo I.
+
+2.6. "Homologação de um catalisador de substituição", a homologação de um catalisador destinado a ser instalado como peça de substituição em um ou mais modelos específicos de veículos no que diz respeito à limitação das emissões de poluentes, ao nível de ruído e ao efeito no comportamento funcional do veículo e, sempre que aplicável, ao OBD.
+
+2.7. "Catalisador de substituição deteriorado", um catalisador envelhecido ou que se encontra artificialmente deteriorado, de tal forma que satisfaça os requisitos do n.o 1 do apêndice 1 ao anexo XI da presente directiva(2).
+
+3. PEDIDO DE HOMOLOGAÇÃO CE
+
+3.1. O pedido de homologação CE nos termos do n.o 4 do artigo 3.o da Directiva 70/156/CEE de um tipo de catalisador de substituição deve ser apresentado pelo seu fabricante.
+
+3.2. No apêndice 1 do presente anexo figura um modelo da ficha de informações.
+
+3.3. Em caso de pedido de homologação de um catalisador de substituição, devem ser apresentados ao serviço técnico responsável pela realização do ensaio de homologação:
+
+3.3.1. Um ou mais veículos de um modelo homologado de acordo com a Directiva 70/220/CEE, equipados com um catalisador original novo. Esses veículos devem ser seleccionados pelo requerente com o acordo do serviço técnico, devendo satisfazer os requisitos do ponto 3 do anexo III da presente directiva.
+
+Os veículos de ensaio não devem ter defeitos no sistema de controlo das emissões; quaisquer peças originais relacionadas com as emissões ou com avarias excessivamente gastas devem ser reparadas ou substituídas. Os veículos de ensaio devem ser afinados correctamente e regulados para a especificação do fabricante antes dos ensaios de emissões.
+
+3.3.2. Uma amostra do tipo de catalisador de substituição. Essa amostra deve ser clara e indelevelmente marcada com a firma ou marca do requerente e a sua designação comercial.
+
+3.3.3. Uma amostra adicional do tipo de catalisador de substituição, no caso de um catalisador de substituição destinado a ser instalado num veículo equipado com um sistema OBD. Essa amostra deve ser clara e indelevelmente marcada com a firma ou marca do requerente e a sua designação comercial. O catalisador deve ter sido deteriorado conforme definido no ponto 2.7.
+
+4. HOMOLOGAÇÃO CE
+
+4.1. Se forem satisfeitos os requisitos relevantes, será concedida a homologação CE nos termos do n.o 3 do artigo 4.o da Directiva 70/156/CEE.
+
+4.2. No apêndice 2 do presente anexo figura um modelo do certificado de homologação CE.
+
+4.3. A cada tipo de catalisador de substituição homologado deve ser atribuído um número de homologação conforme com o anexo VII da Directiva 70/156/CEE. Um Estado-Membro não pode atribuir o mesmo número a outro tipo de catalisador de substituição. O mesmo número de homologação pode abranger a utilização desse tipo de catalisador de substituição em vários modelos diferentes de veículos.
+
+5. MARCAÇÃO DE HOMOLOGAÇÃO CE
+
+5.1. Os catalisadores de substituição conformes com um tipo homologado enquanto unidade técnica com base na presente directiva devem ostentar uma marca de homologação CE.
+
+5.2. Essa marca deve ser constituída por um rectângulo envolvendo a letra "e", seguida das letras ou número distintivos do Estado-Membro que procedeu à homologação:
+
+1 para a Alemanha
+
+2 para França
+
+3 para Itália
+
+4 para os Países Baixos
+
+5 para a Suécia
+
+6 para a Bélgica
+
+9 para Espanha
+
+11 para o Reino Unido
+
+12 para a Áustria
+
+13 para o Luxemburgo
+
+17 para a Finlândia
+
+18 para a Dinamarca
+
+21 para Portugal
+
+23 para a Grécia
+
+24 para a Irlanda,
+
+e pelo "número de homologação de base" que constitui a secção 4 do número de homologação objecto do anexo VII da Directiva 70/156/CEE, precedido do número sequencial de dois algarismos atribuindo à mais recente alteração técnica significativa da Directiva 70/220/CEE à data da concessão da homologação CE, ambos a figurar na proximidade do rectângulo; o número sequencial correspondente à presente directiva é 01.
+
+5.3. A marca de homologação CE referida no ponto 5.2 deve ser claramente legível e indelével e, sempre que possível, ser visível quando o catalisador de substituição estiver instalado no veículo.
+
+5.4. O apêndice 3 do presente anexo dá exemplos de disposições da marca de homologação e dos dados de homologação acima referidos.
+
+6. REQUISITOS
+
+6.1. Requisitos gerais
+
+6.1.1. O catalisador de substituição deve ser concebido, construído e capaz de ser montado de modo a permitir que o veículo satisfaça as disposições da presente directiva com as quais estava originalmente em conformidade e que as emissões de poluentes sejam efectivamente limitadas durante a vida normal do veículo em condições normais de utilização.
+
+6.1.2. A instalação do catalisador de substituição deve ser efectuada na posição exacta do catalisador original e a posição da(s) sonda(s) de oxigénio e de outros sensores na linha de escape, se aplicável, não deve ser modificada.
+
+6.1.3. Se o catalisador original incluir uma protecção térmica, o catalisador de substituição deve incluir uma protecção equivalente.
+
+6.1.4. O catalisador de substituição deve ser durável, ou seja, concebido, construído e capaz de ser montado de modo a obter uma resistência razoável aos fenómenos de corrosão e de oxidação a que está exposto, tendo em conta as condições de utilização do veículo.
+
+6.2. Requisitos relativos às emissões
+
+Os veículos indicados no ponto 3.3.1 do presente anexo, equipados com um catalisador de substituição do tipo cuja homologação se solicita, devem ser sujeitos a um ensaio do tipo I, nas condições descritas no anexo correspondente da presente directiva, de modo a comparar o seu comportamento funcional com o do catalisador original de acordo com o procedimento a seguir descrito.
+
+6.2.1. Determinação da base de comparação
+
+Os veículos devem ser equipados com um catalisador original novo (ver ponto 3.3.1) e sujeitos a rodagem durante 12 ciclos extra-urbanos (parte dois do ensaio do tipo I).
+
+Após este pré-condicionamento, os veículos devem ser mantidos numa sala em que a temperatura esteja relativamente constante entre 293 e 303 K (20 e 30 °C). Este condicionamento deve ser efectuado durante pelo menos seis horas e continuar até que as temperaturas do lubrificante e do líquido de arrefecimento do motor estejam a ± 2 K da temperatura da sala. Efectuam-se de seguida três ensaios do tipo I.
+
+6.2.2. Ensaio do tipo I (gases de escape) com o catalisador de substituição
+
+O catalisador original dos veículos de ensaio é substituído pelo catalisador de substituição (ver ponto 3.3.2), que é sujeito a rodagem durante 12 ciclos extra-urbanos (parte 2 do ensaio do tipo I).
+
+Após este pré-condicionamento, os veículos devem ser mantidos numa sala em que a temperatura esteja relativamente constante entre 293 e 303 K (20 e 30 °C). Este condicionamento deve ser efectuado durante pelo menos seis horas e continuar até que as temperaturas do lubrificante e do líquido de arrefecimento do motor estejam a ± 2 K da temperatura da sala. Efectuam-se de seguida três ensaios do tipo I.
+
+6.2.3. Avaliação da emissão de poluentes dos veículos equipados com catalisadores de substituição.
+
+Os veículos de ensaio com o catalisador original devem satisfazer os valores-limite nos termos da homologação dos veículos, incluindo - se aplicável - os factores de deterioração aplicados durante a homologação dos veículos.
+
+Presume-se que os requisitos relativos às emissões dos veículos equipados com o catalisador de substituição são cumpridos se os resultados satisfizerem, no que diz respeito a cada poluente regulamentado (CO, HX, NOx e partículas), as seguintes condições:
+
+>REFERÊNCIA A UM GRÁFICO>
+
+>REFERÊNCIA A UM GRÁFICO>
+
+sendo:
+
+M o valor médio das emissões de um poluente ou a soma de dois poluentes(3), obtido a partir dos três ensaios do tipo I com o catalisador de substituição.
+
+S o valor médio das emissões de um poluente ou a soma de dois poluentes(4), obtido a partir dos três ensaios do tipo I com o catalisador original.
+
+G é o valor-limite das emissões de um poluente ou a soma de dois poluentes(5) nos termos da homologação dos veículos, dividido - se aplicável - pelos factores de deterioração determinados de acordo com o ponto 6.4.
+
+Se se solicitar a homologação para diferentes modelos de veículos do mesmo fabricante, e desde que esses diferentes modelos de veículos estejam equipados com o mesmo tipo de catalisador original, o ensaio do tipo I pode ser limitado, no mínimo, a dois veículos seleccionados após acordo com o serviço técnico responsável pela homologação.
+
+6.3. Requisitos relativos ao ruído e à contrapressão de escape
+
+O catalisador de substituição deve satisfazer os requisitos técnicos do anexo II da Directiva 70/157/CEE.
+
+6.4. Requisitos relativos à durabilidade
+
+O catalisador de substituição deve satisfazer os requisitos do ponto 5.3.5 do anexo I da presente directiva relativos ao ensaio do tipo V ou os factores de deterioração do quadro a seguir para os resultados dos ensaios do tipo I.
+
+Quadro XIII.6.4.
+
+>POSIÇÃO NUMA TABELA>
+
+6.5. Requisitos relativos à compatibilidade do OBD (aplicável a catalisadores de substituição destinados a ser instalados em veículos equipados com um sistema OBD)
+
+A demonstração da compatibilidade do OBD é exigida apenas quando o catalisador original tiver sido monitorizado na configuração original.
+
+6.5.1. A compatibilidade do catalisador de substituição com o sistema OBD deve ser demonstrada utilizando os procedimentos descritos no apêndice 1 do anexo XI da Directiva 98/69/CE.
+
+6.5.2. As disposições contidas no apêndice 1 do anexo XI da Directiva 98/69/CE aplicáveis a outros componentes que não sejam o catalisador não devem ser aplicadas.
+
+6.5.3. O fabricante do catalisador de substituição pode utilizar o mesmo método de pré-condicionamento e de ensaio que o utilizado durante a homologação original. Neste caso, a autoridade de homologação deve fornecer, mediante pedido e sem discriminação, o apêndice 2 do certificado de homologação CE, que contém o número de ciclos de pré-condicionamento e o tipo do ciclo de ensaios utilizado pelo fabricante do equipamento original para o ensaio de OBD do catalisador.
+
+6.5.4. Para verificar a correcta instalação e o correcto funcionamento de todos os outros componentes monitorizados pelo sistema OBD, este não deve indicar qualquer avaria e não ter armazenados códigos de anomalia antes da instalação de qualquer um dos catalisadores de substituição. Pode ser utilizada para esse fim uma avaliação do estado do sistema OBD no final dos ensaios descritos no ponto 6.2.1 do presente anexo.
+
+6.5.5. O IA (ver ponto 2.5 do anexo XI da presente directiva) não deve ser activado durante o funcionamento do veículo exigido pelo ponto 6.2.2 do presente anexo.
+
+7. DOCUMENTAÇÃO
+
+7.1. Todas as embalagens que contenham um catalisador de substituição novo devem ser acompanhadas pelas seguintes informações:
+
+7.1.1. A denominação ou marca do fabricante do catalisador.
+
+7.1.2. Os veículos (incluindo o ano de fabrico) para os quais o catalisador de substituição foi homologado, incluindo, sempre que for adequado, uma marcação para identificar se o catalisador de substituição é adequado para instalação num veículo que esteja equipado com um sistema de diagnóstico a bordo (OBD).
+
+7.1.3. Instruções de instalação, sempre que necessário.
+
+7.2. Estas informações devem ser fornecidas:
+
+sob a forma de um folheto que acompanha o catalisador de substituição, ou
+
+na embalagem que o catalisador de substituição é vendido, ou
+
+de qualquer outra forma aplicável.
+
+De qualquer forma, a informação deve estar disponível no catálogo do produto que é distribuído nos pontos de venda pelo fabricante de catalisadores de substituição.
+
+8. MODIFICAÇÃO DO MODELO E ALTERAÇÕES DE HOMOLOGAÇÕES
+
+No caso de modificação do tipo homologado nos termos da presente directiva, aplicam-se as disposições do artigo 5.o da Directiva 70/156/CEE.
+
+9. CONFORMIDADE DA PRODUÇÃO
+
+As medidas destinadas a garantir a conformidade da produção devem ser tomadas de acordo com o disposto no artigo 10.o da Directiva 70/156/CEE.
+
+9.2. Prescrições particulares
+
+9.2.1. As verificações referidas no ponto 2.2 do anexo X da Directiva 70/156/CEE devem incluir a satisfação das características definidas no ponto 2.4 do presente anexo.
+
+9.2.2. No que diz respeito à aplicação do ponto 2.3.5 do anexo X da Directiva 70/156/CEE, podem ser efectuados os ensaios descritos no ponto 6.2 do presente anexo (requisitos relativos às emissões). Neste caso, o titular da homologação pode solicitar, como alternativa, utilizar como base de comparação não o catalisador original mas o catalisador de substituição que foi utilizado durante os ensaios de homologação (ou outra amostra comprovada como estando em conformidade com o tipo homologado). Os valores das emissões medidos com a amostra em verificação não devem, em média, exceder em mais de 15 % os valores médios medidos com a amostra utilizada como referência.
+
+(1) Conforme definida na parte A do anexo II da Directiva 70/156/CEE.
+
+(2) Para efeitos do teste de demonstração dos veículos equipados com motores de ignição comandada, quando o valor HC, medido de acordo com o ponto 6.2.1 do presente anexo, for superior ao valor medido durante a homologação do veículo, a diferença tem de ser acrescentada aos valores-limite mencionados no ponto 3.3.2 do anexo XI, aos quais se aplica o excesso permitido no ponto 1 do apêndice 1 ao anexo XI.
+
+(3) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+(4) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+(5) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+## ANEXO XIII — HOMOLOGAÇÃO CE DE CATALISADORES DE SUBSTITUIÇÃO ENQUANTO UNIDADES TÉCNICAS
+
+1. DOMÍNIO DE APLICAÇÃO
+
+O presente anexo aplica-se à homologação CE, enquanto unidades técnicas na acepção do n.o 1, alínea d), do artigo 4.o da Directiva 70/156/CEE, de catalisadores a instalar em um ou mais modelos de veículos a motor das categorias M1 e N1(1) como peças de substituição.
+
+2. DEFINIÇÕES
+
+Para efeitos do presente anexo, entende-se por:
+
+2.1. "Catalisador original" - ver ponto 2.17 do anexo I.
+
+2.2. "Catalisador de substituição" - ver ponto 2.18 do anexo I.
+
+2.3. "Catalisador de substituição original" - ver ponto 2.19 do anexo I.
+
+2.4. "Tipo de catalisador" - catalisadores que não diferem entre si em aspectos essenciais como:
+
+2.4.1. Número de substratos revestidos, estrutura e material
+
+2.4.2. Tipo de actividade catalítica (por oxidação, de três vias, etc.)
+
+2.4.3. Volume, relação da área frontal e comprimento do substrato
+
+2.4.4. Conteúdo do material catalisador
+
+2.4.5. Relação do material catalisador
+
+2.4.6. Densidade das células
+
+2.4.7. Dimensões e forma
+
+2.4.8. Protecção térmica
+
+2.5. "Modelo de veículo", o modelo de veículo definido no ponto 2.1 do anexo I.
+
+2.6. "Homologação de um catalisador de substituição", a homologação de um catalisador destinado a ser instalado como peça de substituição em um ou mais modelos específicos de veículos no que diz respeito à limitação das emissões de poluentes, ao nível de ruído e ao efeito no comportamento funcional do veículo e, sempre que aplicável, ao OBD.
+
+2.7. "Catalisador de substituição deteriorado", um catalisador envelhecido ou que se encontra artificialmente deteriorado, de tal forma que satisfaça os requisitos do n.o 1 do apêndice 1 ao anexo XI da presente directiva(2).
+
+3. PEDIDO DE HOMOLOGAÇÃO CE
+
+3.1. O pedido de homologação CE nos termos do n.o 4 do artigo 3.o da Directiva 70/156/CEE de um tipo de catalisador de substituição deve ser apresentado pelo seu fabricante.
+
+3.2. No apêndice 1 do presente anexo figura um modelo da ficha de informações.
+
+3.3. Em caso de pedido de homologação de um catalisador de substituição, devem ser apresentados ao serviço técnico responsável pela realização do ensaio de homologação:
+
+3.3.1. Um ou mais veículos de um modelo homologado de acordo com a Directiva 70/220/CEE, equipados com um catalisador original novo. Esses veículos devem ser seleccionados pelo requerente com o acordo do serviço técnico, devendo satisfazer os requisitos do ponto 3 do anexo III da presente directiva.
+
+Os veículos de ensaio não devem ter defeitos no sistema de controlo das emissões; quaisquer peças originais relacionadas com as emissões ou com avarias excessivamente gastas devem ser reparadas ou substituídas. Os veículos de ensaio devem ser afinados correctamente e regulados para a especificação do fabricante antes dos ensaios de emissões.
+
+3.3.2. Uma amostra do tipo de catalisador de substituição. Essa amostra deve ser clara e indelevelmente marcada com a firma ou marca do requerente e a sua designação comercial.
+
+3.3.3. Uma amostra adicional do tipo de catalisador de substituição, no caso de um catalisador de substituição destinado a ser instalado num veículo equipado com um sistema OBD. Essa amostra deve ser clara e indelevelmente marcada com a firma ou marca do requerente e a sua designação comercial. O catalisador deve ter sido deteriorado conforme definido no ponto 2.7.
+
+4. HOMOLOGAÇÃO CE
+
+4.1. Se forem satisfeitos os requisitos relevantes, será concedida a homologação CE nos termos do n.o 3 do artigo 4.o da Directiva 70/156/CEE.
+
+4.2. No apêndice 2 do presente anexo figura um modelo do certificado de homologação CE.
+
+4.3. A cada tipo de catalisador de substituição homologado deve ser atribuído um número de homologação conforme com o anexo VII da Directiva 70/156/CEE. Um Estado-Membro não pode atribuir o mesmo número a outro tipo de catalisador de substituição. O mesmo número de homologação pode abranger a utilização desse tipo de catalisador de substituição em vários modelos diferentes de veículos.
+
+5. MARCAÇÃO DE HOMOLOGAÇÃO CE
+
+5.1. Os catalisadores de substituição conformes com um tipo homologado enquanto unidade técnica com base na presente directiva devem ostentar uma marca de homologação CE.
+
+5.2. Essa marca deve ser constituída por um rectângulo envolvendo a letra "e", seguida das letras ou número distintivos do Estado-Membro que procedeu à homologação:
+
+1 para a Alemanha
+
+2 para França
+
+3 para Itália
+
+4 para os Países Baixos
+
+5 para a Suécia
+
+6 para a Bélgica
+
+9 para Espanha
+
+11 para o Reino Unido
+
+12 para a Áustria
+
+13 para o Luxemburgo
+
+17 para a Finlândia
+
+18 para a Dinamarca
+
+21 para Portugal
+
+23 para a Grécia
+
+24 para a Irlanda,
+
+e pelo "número de homologação de base" que constitui a secção 4 do número de homologação objecto do anexo VII da Directiva 70/156/CEE, precedido do número sequencial de dois algarismos atribuindo à mais recente alteração técnica significativa da Directiva 70/220/CEE à data da concessão da homologação CE, ambos a figurar na proximidade do rectângulo; o número sequencial correspondente à presente directiva é 01.
+
+5.3. A marca de homologação CE referida no ponto 5.2 deve ser claramente legível e indelével e, sempre que possível, ser visível quando o catalisador de substituição estiver instalado no veículo.
+
+5.4. O apêndice 3 do presente anexo dá exemplos de disposições da marca de homologação e dos dados de homologação acima referidos.
+
+6. REQUISITOS
+
+6.1. Requisitos gerais
+
+6.1.1. O catalisador de substituição deve ser concebido, construído e capaz de ser montado de modo a permitir que o veículo satisfaça as disposições da presente directiva com as quais estava originalmente em conformidade e que as emissões de poluentes sejam efectivamente limitadas durante a vida normal do veículo em condições normais de utilização.
+
+6.1.2. A instalação do catalisador de substituição deve ser efectuada na posição exacta do catalisador original e a posição da(s) sonda(s) de oxigénio e de outros sensores na linha de escape, se aplicável, não deve ser modificada.
+
+6.1.3. Se o catalisador original incluir uma protecção térmica, o catalisador de substituição deve incluir uma protecção equivalente.
+
+6.1.4. O catalisador de substituição deve ser durável, ou seja, concebido, construído e capaz de ser montado de modo a obter uma resistência razoável aos fenómenos de corrosão e de oxidação a que está exposto, tendo em conta as condições de utilização do veículo.
+
+6.2. Requisitos relativos às emissões
+
+Os veículos indicados no ponto 3.3.1 do presente anexo, equipados com um catalisador de substituição do tipo cuja homologação se solicita, devem ser sujeitos a um ensaio do tipo I, nas condições descritas no anexo correspondente da presente directiva, de modo a comparar o seu comportamento funcional com o do catalisador original de acordo com o procedimento a seguir descrito.
+
+6.2.1. Determinação da base de comparação
+
+Os veículos devem ser equipados com um catalisador original novo (ver ponto 3.3.1) e sujeitos a rodagem durante 12 ciclos extra-urbanos (parte dois do ensaio do tipo I).
+
+Após este pré-condicionamento, os veículos devem ser mantidos numa sala em que a temperatura esteja relativamente constante entre 293 e 303 K (20 e 30 °C). Este condicionamento deve ser efectuado durante pelo menos seis horas e continuar até que as temperaturas do lubrificante e do líquido de arrefecimento do motor estejam a ± 2 K da temperatura da sala. Efectuam-se de seguida três ensaios do tipo I.
+
+6.2.2. Ensaio do tipo I (gases de escape) com o catalisador de substituição
+
+O catalisador original dos veículos de ensaio é substituído pelo catalisador de substituição (ver ponto 3.3.2), que é sujeito a rodagem durante 12 ciclos extra-urbanos (parte 2 do ensaio do tipo I).
+
+Após este pré-condicionamento, os veículos devem ser mantidos numa sala em que a temperatura esteja relativamente constante entre 293 e 303 K (20 e 30 °C). Este condicionamento deve ser efectuado durante pelo menos seis horas e continuar até que as temperaturas do lubrificante e do líquido de arrefecimento do motor estejam a ± 2 K da temperatura da sala. Efectuam-se de seguida três ensaios do tipo I.
+
+6.2.3. Avaliação da emissão de poluentes dos veículos equipados com catalisadores de substituição.
+
+Os veículos de ensaio com o catalisador original devem satisfazer os valores-limite nos termos da homologação dos veículos, incluindo - se aplicável - os factores de deterioração aplicados durante a homologação dos veículos.
+
+Presume-se que os requisitos relativos às emissões dos veículos equipados com o catalisador de substituição são cumpridos se os resultados satisfizerem, no que diz respeito a cada poluente regulamentado (CO, HX, NOx e partículas), as seguintes condições:
+
+>REFERÊNCIA A UM GRÁFICO>
+
+>REFERÊNCIA A UM GRÁFICO>
+
+sendo:
+
+M o valor médio das emissões de um poluente ou a soma de dois poluentes(3), obtido a partir dos três ensaios do tipo I com o catalisador de substituição.
+
+S o valor médio das emissões de um poluente ou a soma de dois poluentes(4), obtido a partir dos três ensaios do tipo I com o catalisador original.
+
+G é o valor-limite das emissões de um poluente ou a soma de dois poluentes(5) nos termos da homologação dos veículos, dividido - se aplicável - pelos factores de deterioração determinados de acordo com o ponto 6.4.
+
+Se se solicitar a homologação para diferentes modelos de veículos do mesmo fabricante, e desde que esses diferentes modelos de veículos estejam equipados com o mesmo tipo de catalisador original, o ensaio do tipo I pode ser limitado, no mínimo, a dois veículos seleccionados após acordo com o serviço técnico responsável pela homologação.
+
+6.3. Requisitos relativos ao ruído e à contrapressão de escape
+
+O catalisador de substituição deve satisfazer os requisitos técnicos do anexo II da Directiva 70/157/CEE.
+
+6.4. Requisitos relativos à durabilidade
+
+O catalisador de substituição deve satisfazer os requisitos do ponto 5.3.5 do anexo I da presente directiva relativos ao ensaio do tipo V ou os factores de deterioração do quadro a seguir para os resultados dos ensaios do tipo I.
+
+Quadro XIII.6.4.
+
+>POSIÇÃO NUMA TABELA>
+
+6.5. Requisitos relativos à compatibilidade do OBD (aplicável a catalisadores de substituição destinados a ser instalados em veículos equipados com um sistema OBD)
+
+A demonstração da compatibilidade do OBD é exigida apenas quando o catalisador original tiver sido monitorizado na configuração original.
+
+6.5.1. A compatibilidade do catalisador de substituição com o sistema OBD deve ser demonstrada utilizando os procedimentos descritos no apêndice 1 do anexo XI da Directiva 98/69/CE.
+
+6.5.2. As disposições contidas no apêndice 1 do anexo XI da Directiva 98/69/CE aplicáveis a outros componentes que não sejam o catalisador não devem ser aplicadas.
+
+6.5.3. O fabricante do catalisador de substituição pode utilizar o mesmo método de pré-condicionamento e de ensaio que o utilizado durante a homologação original. Neste caso, a autoridade de homologação deve fornecer, mediante pedido e sem discriminação, o apêndice 2 do certificado de homologação CE, que contém o número de ciclos de pré-condicionamento e o tipo do ciclo de ensaios utilizado pelo fabricante do equipamento original para o ensaio de OBD do catalisador.
+
+6.5.4. Para verificar a correcta instalação e o correcto funcionamento de todos os outros componentes monitorizados pelo sistema OBD, este não deve indicar qualquer avaria e não ter armazenados códigos de anomalia antes da instalação de qualquer um dos catalisadores de substituição. Pode ser utilizada para esse fim uma avaliação do estado do sistema OBD no final dos ensaios descritos no ponto 6.2.1 do presente anexo.
+
+6.5.5. O IA (ver ponto 2.5 do anexo XI da presente directiva) não deve ser activado durante o funcionamento do veículo exigido pelo ponto 6.2.2 do presente anexo.
+
+7. DOCUMENTAÇÃO
+
+7.1. Todas as embalagens que contenham um catalisador de substituição novo devem ser acompanhadas pelas seguintes informações:
+
+7.1.1. A denominação ou marca do fabricante do catalisador.
+
+7.1.2. Os veículos (incluindo o ano de fabrico) para os quais o catalisador de substituição foi homologado, incluindo, sempre que for adequado, uma marcação para identificar se o catalisador de substituição é adequado para instalação num veículo que esteja equipado com um sistema de diagnóstico a bordo (OBD).
+
+7.1.3. Instruções de instalação, sempre que necessário.
+
+7.2. Estas informações devem ser fornecidas:
+
+sob a forma de um folheto que acompanha o catalisador de substituição, ou
+
+na embalagem que o catalisador de substituição é vendido, ou
+
+de qualquer outra forma aplicável.
+
+De qualquer forma, a informação deve estar disponível no catálogo do produto que é distribuído nos pontos de venda pelo fabricante de catalisadores de substituição.
+
+8. MODIFICAÇÃO DO MODELO E ALTERAÇÕES DE HOMOLOGAÇÕES
+
+No caso de modificação do tipo homologado nos termos da presente directiva, aplicam-se as disposições do artigo 5.o da Directiva 70/156/CEE.
+
+9. CONFORMIDADE DA PRODUÇÃO
+
+As medidas destinadas a garantir a conformidade da produção devem ser tomadas de acordo com o disposto no artigo 10.o da Directiva 70/156/CEE.
+
+9.2. Prescrições particulares
+
+9.2.1. As verificações referidas no ponto 2.2 do anexo X da Directiva 70/156/CEE devem incluir a satisfação das características definidas no ponto 2.4 do presente anexo.
+
+9.2.2. No que diz respeito à aplicação do ponto 2.3.5 do anexo X da Directiva 70/156/CEE, podem ser efectuados os ensaios descritos no ponto 6.2 do presente anexo (requisitos relativos às emissões). Neste caso, o titular da homologação pode solicitar, como alternativa, utilizar como base de comparação não o catalisador original mas o catalisador de substituição que foi utilizado durante os ensaios de homologação (ou outra amostra comprovada como estando em conformidade com o tipo homologado). Os valores das emissões medidos com a amostra em verificação não devem, em média, exceder em mais de 15 % os valores médios medidos com a amostra utilizada como referência.
+
+(1) Conforme definida na parte A do anexo II da Directiva 70/156/CEE.
+
+(2) Para efeitos do teste de demonstração dos veículos equipados com motores de ignição comandada, quando o valor HC, medido de acordo com o ponto 6.2.1 do presente anexo, for superior ao valor medido durante a homologação do veículo, a diferença tem de ser acrescentada aos valores-limite mencionados no ponto 3.3.2 do anexo XI, aos quais se aplica o excesso permitido no ponto 1 do apêndice 1 ao anexo XI.
+
+(3) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+(4) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+(5) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+## ANEXO XIII — HOMOLOGAÇÃO CE DE CATALISADORES DE SUBSTITUIÇÃO ENQUANTO UNIDADES TÉCNICAS
+
+1. DOMÍNIO DE APLICAÇÃO
+
+O presente anexo aplica-se à homologação CE, enquanto unidades técnicas na acepção do n.o 1, alínea d), do artigo 4.o da Directiva 70/156/CEE, de catalisadores a instalar em um ou mais modelos de veículos a motor das categorias M1 e N1(1) como peças de substituição.
+
+2. DEFINIÇÕES
+
+Para efeitos do presente anexo, entende-se por:
+
+2.1. "Catalisador original" - ver ponto 2.17 do anexo I.
+
+2.2. "Catalisador de substituição" - ver ponto 2.18 do anexo I.
+
+2.3. "Catalisador de substituição original" - ver ponto 2.19 do anexo I.
+
+2.4. "Tipo de catalisador" - catalisadores que não diferem entre si em aspectos essenciais como:
+
+2.4.1. Número de substratos revestidos, estrutura e material
+
+2.4.2. Tipo de actividade catalítica (por oxidação, de três vias, etc.)
+
+2.4.3. Volume, relação da área frontal e comprimento do substrato
+
+2.4.4. Conteúdo do material catalisador
+
+2.4.5. Relação do material catalisador
+
+2.4.6. Densidade das células
+
+2.4.7. Dimensões e forma
+
+2.4.8. Protecção térmica
+
+2.5. "Modelo de veículo", o modelo de veículo definido no ponto 2.1 do anexo I.
+
+2.6. "Homologação de um catalisador de substituição", a homologação de um catalisador destinado a ser instalado como peça de substituição em um ou mais modelos específicos de veículos no que diz respeito à limitação das emissões de poluentes, ao nível de ruído e ao efeito no comportamento funcional do veículo e, sempre que aplicável, ao OBD.
+
+2.7. "Catalisador de substituição deteriorado", um catalisador envelhecido ou que se encontra artificialmente deteriorado, de tal forma que satisfaça os requisitos do n.o 1 do apêndice 1 ao anexo XI da presente directiva(2).
+
+3. PEDIDO DE HOMOLOGAÇÃO CE
+
+3.1. O pedido de homologação CE nos termos do n.o 4 do artigo 3.o da Directiva 70/156/CEE de um tipo de catalisador de substituição deve ser apresentado pelo seu fabricante.
+
+3.2. No apêndice 1 do presente anexo figura um modelo da ficha de informações.
+
+3.3. Em caso de pedido de homologação de um catalisador de substituição, devem ser apresentados ao serviço técnico responsável pela realização do ensaio de homologação:
+
+3.3.1. Um ou mais veículos de um modelo homologado de acordo com a Directiva 70/220/CEE, equipados com um catalisador original novo. Esses veículos devem ser seleccionados pelo requerente com o acordo do serviço técnico, devendo satisfazer os requisitos do ponto 3 do anexo III da presente directiva.
+
+Os veículos de ensaio não devem ter defeitos no sistema de controlo das emissões; quaisquer peças originais relacionadas com as emissões ou com avarias excessivamente gastas devem ser reparadas ou substituídas. Os veículos de ensaio devem ser afinados correctamente e regulados para a especificação do fabricante antes dos ensaios de emissões.
+
+3.3.2. Uma amostra do tipo de catalisador de substituição. Essa amostra deve ser clara e indelevelmente marcada com a firma ou marca do requerente e a sua designação comercial.
+
+3.3.3. Uma amostra adicional do tipo de catalisador de substituição, no caso de um catalisador de substituição destinado a ser instalado num veículo equipado com um sistema OBD. Essa amostra deve ser clara e indelevelmente marcada com a firma ou marca do requerente e a sua designação comercial. O catalisador deve ter sido deteriorado conforme definido no ponto 2.7.
+
+4. HOMOLOGAÇÃO CE
+
+4.1. Se forem satisfeitos os requisitos relevantes, será concedida a homologação CE nos termos do n.o 3 do artigo 4.o da Directiva 70/156/CEE.
+
+4.2. No apêndice 2 do presente anexo figura um modelo do certificado de homologação CE.
+
+4.3. A cada tipo de catalisador de substituição homologado deve ser atribuído um número de homologação conforme com o anexo VII da Directiva 70/156/CEE. Um Estado-Membro não pode atribuir o mesmo número a outro tipo de catalisador de substituição. O mesmo número de homologação pode abranger a utilização desse tipo de catalisador de substituição em vários modelos diferentes de veículos.
+
+5. MARCAÇÃO DE HOMOLOGAÇÃO CE
+
+5.1. Os catalisadores de substituição conformes com um tipo homologado enquanto unidade técnica com base na presente directiva devem ostentar uma marca de homologação CE.
+
+5.2. Essa marca deve ser constituída por um rectângulo envolvendo a letra "e", seguida das letras ou número distintivos do Estado-Membro que procedeu à homologação:
+
+1 para a Alemanha
+
+2 para França
+
+3 para Itália
+
+4 para os Países Baixos
+
+5 para a Suécia
+
+6 para a Bélgica
+
+9 para Espanha
+
+11 para o Reino Unido
+
+12 para a Áustria
+
+13 para o Luxemburgo
+
+17 para a Finlândia
+
+18 para a Dinamarca
+
+21 para Portugal
+
+23 para a Grécia
+
+24 para a Irlanda,
+
+e pelo "número de homologação de base" que constitui a secção 4 do número de homologação objecto do anexo VII da Directiva 70/156/CEE, precedido do número sequencial de dois algarismos atribuindo à mais recente alteração técnica significativa da Directiva 70/220/CEE à data da concessão da homologação CE, ambos a figurar na proximidade do rectângulo; o número sequencial correspondente à presente directiva é 01.
+
+5.3. A marca de homologação CE referida no ponto 5.2 deve ser claramente legível e indelével e, sempre que possível, ser visível quando o catalisador de substituição estiver instalado no veículo.
+
+5.4. O apêndice 3 do presente anexo dá exemplos de disposições da marca de homologação e dos dados de homologação acima referidos.
+
+6. REQUISITOS
+
+6.1. Requisitos gerais
+
+6.1.1. O catalisador de substituição deve ser concebido, construído e capaz de ser montado de modo a permitir que o veículo satisfaça as disposições da presente directiva com as quais estava originalmente em conformidade e que as emissões de poluentes sejam efectivamente limitadas durante a vida normal do veículo em condições normais de utilização.
+
+6.1.2. A instalação do catalisador de substituição deve ser efectuada na posição exacta do catalisador original e a posição da(s) sonda(s) de oxigénio e de outros sensores na linha de escape, se aplicável, não deve ser modificada.
+
+6.1.3. Se o catalisador original incluir uma protecção térmica, o catalisador de substituição deve incluir uma protecção equivalente.
+
+6.1.4. O catalisador de substituição deve ser durável, ou seja, concebido, construído e capaz de ser montado de modo a obter uma resistência razoável aos fenómenos de corrosão e de oxidação a que está exposto, tendo em conta as condições de utilização do veículo.
+
+6.2. Requisitos relativos às emissões
+
+Os veículos indicados no ponto 3.3.1 do presente anexo, equipados com um catalisador de substituição do tipo cuja homologação se solicita, devem ser sujeitos a um ensaio do tipo I, nas condições descritas no anexo correspondente da presente directiva, de modo a comparar o seu comportamento funcional com o do catalisador original de acordo com o procedimento a seguir descrito.
+
+6.2.1. Determinação da base de comparação
+
+Os veículos devem ser equipados com um catalisador original novo (ver ponto 3.3.1) e sujeitos a rodagem durante 12 ciclos extra-urbanos (parte dois do ensaio do tipo I).
+
+Após este pré-condicionamento, os veículos devem ser mantidos numa sala em que a temperatura esteja relativamente constante entre 293 e 303 K (20 e 30 °C). Este condicionamento deve ser efectuado durante pelo menos seis horas e continuar até que as temperaturas do lubrificante e do líquido de arrefecimento do motor estejam a ± 2 K da temperatura da sala. Efectuam-se de seguida três ensaios do tipo I.
+
+6.2.2. Ensaio do tipo I (gases de escape) com o catalisador de substituição
+
+O catalisador original dos veículos de ensaio é substituído pelo catalisador de substituição (ver ponto 3.3.2), que é sujeito a rodagem durante 12 ciclos extra-urbanos (parte 2 do ensaio do tipo I).
+
+Após este pré-condicionamento, os veículos devem ser mantidos numa sala em que a temperatura esteja relativamente constante entre 293 e 303 K (20 e 30 °C). Este condicionamento deve ser efectuado durante pelo menos seis horas e continuar até que as temperaturas do lubrificante e do líquido de arrefecimento do motor estejam a ± 2 K da temperatura da sala. Efectuam-se de seguida três ensaios do tipo I.
+
+6.2.3. Avaliação da emissão de poluentes dos veículos equipados com catalisadores de substituição.
+
+Os veículos de ensaio com o catalisador original devem satisfazer os valores-limite nos termos da homologação dos veículos, incluindo - se aplicável - os factores de deterioração aplicados durante a homologação dos veículos.
+
+Presume-se que os requisitos relativos às emissões dos veículos equipados com o catalisador de substituição são cumpridos se os resultados satisfizerem, no que diz respeito a cada poluente regulamentado (CO, HX, NOx e partículas), as seguintes condições:
+
+>REFERÊNCIA A UM GRÁFICO>
+
+>REFERÊNCIA A UM GRÁFICO>
+
+sendo:
+
+M o valor médio das emissões de um poluente ou a soma de dois poluentes(3), obtido a partir dos três ensaios do tipo I com o catalisador de substituição.
+
+S o valor médio das emissões de um poluente ou a soma de dois poluentes(4), obtido a partir dos três ensaios do tipo I com o catalisador original.
+
+G é o valor-limite das emissões de um poluente ou a soma de dois poluentes(5) nos termos da homologação dos veículos, dividido - se aplicável - pelos factores de deterioração determinados de acordo com o ponto 6.4.
+
+Se se solicitar a homologação para diferentes modelos de veículos do mesmo fabricante, e desde que esses diferentes modelos de veículos estejam equipados com o mesmo tipo de catalisador original, o ensaio do tipo I pode ser limitado, no mínimo, a dois veículos seleccionados após acordo com o serviço técnico responsável pela homologação.
+
+6.3. Requisitos relativos ao ruído e à contrapressão de escape
+
+O catalisador de substituição deve satisfazer os requisitos técnicos do anexo II da Directiva 70/157/CEE.
+
+6.4. Requisitos relativos à durabilidade
+
+O catalisador de substituição deve satisfazer os requisitos do ponto 5.3.5 do anexo I da presente directiva relativos ao ensaio do tipo V ou os factores de deterioração do quadro a seguir para os resultados dos ensaios do tipo I.
+
+Quadro XIII.6.4.
+
+>POSIÇÃO NUMA TABELA>
+
+6.5. Requisitos relativos à compatibilidade do OBD (aplicável a catalisadores de substituição destinados a ser instalados em veículos equipados com um sistema OBD)
+
+A demonstração da compatibilidade do OBD é exigida apenas quando o catalisador original tiver sido monitorizado na configuração original.
+
+6.5.1. A compatibilidade do catalisador de substituição com o sistema OBD deve ser demonstrada utilizando os procedimentos descritos no apêndice 1 do anexo XI da Directiva 98/69/CE.
+
+6.5.2. As disposições contidas no apêndice 1 do anexo XI da Directiva 98/69/CE aplicáveis a outros componentes que não sejam o catalisador não devem ser aplicadas.
+
+6.5.3. O fabricante do catalisador de substituição pode utilizar o mesmo método de pré-condicionamento e de ensaio que o utilizado durante a homologação original. Neste caso, a autoridade de homologação deve fornecer, mediante pedido e sem discriminação, o apêndice 2 do certificado de homologação CE, que contém o número de ciclos de pré-condicionamento e o tipo do ciclo de ensaios utilizado pelo fabricante do equipamento original para o ensaio de OBD do catalisador.
+
+6.5.4. Para verificar a correcta instalação e o correcto funcionamento de todos os outros componentes monitorizados pelo sistema OBD, este não deve indicar qualquer avaria e não ter armazenados códigos de anomalia antes da instalação de qualquer um dos catalisadores de substituição. Pode ser utilizada para esse fim uma avaliação do estado do sistema OBD no final dos ensaios descritos no ponto 6.2.1 do presente anexo.
+
+6.5.5. O IA (ver ponto 2.5 do anexo XI da presente directiva) não deve ser activado durante o funcionamento do veículo exigido pelo ponto 6.2.2 do presente anexo.
+
+7. DOCUMENTAÇÃO
+
+7.1. Todas as embalagens que contenham um catalisador de substituição novo devem ser acompanhadas pelas seguintes informações:
+
+7.1.1. A denominação ou marca do fabricante do catalisador.
+
+7.1.2. Os veículos (incluindo o ano de fabrico) para os quais o catalisador de substituição foi homologado, incluindo, sempre que for adequado, uma marcação para identificar se o catalisador de substituição é adequado para instalação num veículo que esteja equipado com um sistema de diagnóstico a bordo (OBD).
+
+7.1.3. Instruções de instalação, sempre que necessário.
+
+7.2. Estas informações devem ser fornecidas:
+
+sob a forma de um folheto que acompanha o catalisador de substituição, ou
+
+na embalagem que o catalisador de substituição é vendido, ou
+
+de qualquer outra forma aplicável.
+
+De qualquer forma, a informação deve estar disponível no catálogo do produto que é distribuído nos pontos de venda pelo fabricante de catalisadores de substituição.
+
+8. MODIFICAÇÃO DO MODELO E ALTERAÇÕES DE HOMOLOGAÇÕES
+
+No caso de modificação do tipo homologado nos termos da presente directiva, aplicam-se as disposições do artigo 5.o da Directiva 70/156/CEE.
+
+9. CONFORMIDADE DA PRODUÇÃO
+
+As medidas destinadas a garantir a conformidade da produção devem ser tomadas de acordo com o disposto no artigo 10.o da Directiva 70/156/CEE.
+
+9.2. Prescrições particulares
+
+9.2.1. As verificações referidas no ponto 2.2 do anexo X da Directiva 70/156/CEE devem incluir a satisfação das características definidas no ponto 2.4 do presente anexo.
+
+9.2.2. No que diz respeito à aplicação do ponto 2.3.5 do anexo X da Directiva 70/156/CEE, podem ser efectuados os ensaios descritos no ponto 6.2 do presente anexo (requisitos relativos às emissões). Neste caso, o titular da homologação pode solicitar, como alternativa, utilizar como base de comparação não o catalisador original mas o catalisador de substituição que foi utilizado durante os ensaios de homologação (ou outra amostra comprovada como estando em conformidade com o tipo homologado). Os valores das emissões medidos com a amostra em verificação não devem, em média, exceder em mais de 15 % os valores médios medidos com a amostra utilizada como referência.
+
+(1) Conforme definida na parte A do anexo II da Directiva 70/156/CEE.
+
+(2) Para efeitos do teste de demonstração dos veículos equipados com motores de ignição comandada, quando o valor HC, medido de acordo com o ponto 6.2.1 do presente anexo, for superior ao valor medido durante a homologação do veículo, a diferença tem de ser acrescentada aos valores-limite mencionados no ponto 3.3.2 do anexo XI, aos quais se aplica o excesso permitido no ponto 1 do apêndice 1 ao anexo XI.
+
+(3) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+(4) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+(5) Eventualmente, em relação aos valores-limite definidos no ponto 5.3.1.4 do anexo I da Directiva 70/220/CEE na versão de acordo com a qual o veículo equipado com o catalisador original foi homologado.
+
+Apêndice 3
+
+>PIC FILE= "L_2002291PT.005602.TIF">
+
+Modelo de marca de homologação CE
+
+(ver ponto 5.2 do presente anexo)
+
+A marca de homologação acima afixada num componente de um catalisador de substituição indica que o modelo em questão foi homologado em França (e 2), nos termos da presente directiva. Os primeiros dois algarismos do número de homologação (00) referem-se ao número sequencial atribuído às alterações mais recentes introduzidas na Directiva 70/220/CEE. Os quatro algarismos seguintes (1234) são os algarismos atribuídos pelas autoridades de homologação ao catalisador de substituição como número de homologação de base.".
+
+(1) JO L 350 de 28.12.1998, p. 58.
+
+(2) Com base nos dados de serviço efectivos que serão fornecidos até 31 de Dezembro de 2003 pelos Estados-Membros, as normas do presente ponto poderão ser revistas e considerar-se-á, a) se a definição de veículo responsável por emissões anómalas deve ser revista no que diz respeito a veículos que foram homologados de acordo com os valores-limite indicados na linha B do quadro 5.3.1.4 do anexo I, b) se o processo de identificação de veículos responsáveis por emissões anómalas deve ser alterado, e c) se os procedimentos a respeitar para o ensaio da conformidade em circulação devem ser substituídos, na devida altura, por um novo procedimento estatístico. Se oportuno, a Comissão proporá as alterações necessárias, de acordo com o procedimento instituído no artigo 13.o da Directiva 70/156/CEE.
+
+(3) Para qualquer veículo, a "zona intermédia" é determinada do modo em seguida explicado. O veículo deve cumprir as condições referidas nos pontos 3.2.1 ou 3.2.2 e, além disso, o valor medido para o mesmo poluente regulamentado deve ser inferior ao nível determinado a partir do produto do valor-limite para o mesmo poluente regulamentado indicado na linha A do quadro do ponto 5.3.1.4 do anexo I multiplicado por um factor de 2,5.
+
+(4) Para qualquer veículo, a "zona de não aceitação" é determinada do modo em seguida explicado. O valor medido para qualquer poluente regulamentado supera um nível que é determinado a partir do produto do valor-limite para o mesmo poluente regulamentado indicado na linha A do quadro do ponto 5.3.1.4 do anexo I multiplicado por um factor de 2,5.

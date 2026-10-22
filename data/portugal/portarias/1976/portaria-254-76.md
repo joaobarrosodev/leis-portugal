@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:502215:por
+title: Portaria n.º 254/76
+short_title: null
+summary: Introduz alterações nos artigos 3.º e 6.º do Regulamento do Código da Estrada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Secretaria de Estado dos Transportes e Comunicações - Direcção-Geral de Viação
+proposing_entity: null
+official_number: 254/76
+official_date: null
+publication_date: '1976-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/1976, Série I de 1976-04-22
+  number: '95'
+  series: I
+  supplement: null
+  pages: 870 - 872
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/04/09500/08700872.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '502215'
+  dre_path: /dr/detalhe/portaria/254-1976-502215
+  internal: pt:dre:502215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-1976-502215
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-1976-502215
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-04-22T00:00:00Z'
+integrity:
+  source_sha256: 9a73914bb3e61abe7713dddb03f09c566325c0fbe0b8491be36cd3cc59795124
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-254-502215.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 254/76
+
+de 22 de Abril
+
+Enquanto decorrem os estudos conducentes à publicação de um novo Código da Estrada, entende-se ser inadiável a criação de uma regulamentação pormenorizada da matéria respeitante a marcas rodoviárias, até ao presente muito deficientemente contida no artigo 6.º do Regulamento do Código da Estrada.
+
+Nestes termos, e considerando o disposto no artigo 2.º do [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes e Comunicações, o seguinte:
+
+1.º Os artigos 3.º, n.º 6, e 6.º do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, passam a ter a seguinte redacção:
+
+###### ARTIGO 3.º — Sinais de perigo
+
+...
+
+6. A indicação dada pelo sinal 14 será, sempre que possível, completada pela colocação, a assinalar os limites das obras existentes na faixa de rodagem, de barreiras pintadas com listas alternadas das cores vermelha e branca. Durante a noite as obras serão assinaladas com luzes, ou luzes e reflectores, que podem ser colocadas nas referidas barreiras.
+
+Nas bermas, passeios ou placas existentes nas vias públicas podem colocar-se, para assinalar a sua delimitação durante a noite, luzes ou reflectores das cores vermelha, amarela ou branca. Serão de cor vermelha os que se destinarem a assinalar o lado direito da faixa de rodagem, de cor branca os que se destinarem a assinalar o lado esquerdo e de cor amarela os que se destinarem a delimitar as placas, obras, obstáculos ou refúgios existentes na própria faixa de rodagem.
+
+###### ARTIGO 6.º
+
+1 - As marcas rodoviárias, representadas no quadro IV anexo ao presente Regulamento, destinam-se a regular a circulação e a advertir e orientar os utentes das vias públicas, podendo ser completadas com outros meios de sinalização.
+
+2 - As marcas rodoviárias terão sempre a cor branca, com as excepções constantes do presente artigo.
+
+3 - As marcas longitudinais, referidas nos n.os 3 a 8, são linhas apostas na faixa de rodagem, separando sentidos de trânsito ou vias de tráfego e com os significados seguintes:
+
+a) Linha contínua (marca M1): significa para o condutor proibição de a pisar ou transpor e, bem assim, o dever de transitar à sua direita quando aquela fizer separação de sentidos de trânsito;
+
+b) Linha descontínua (marca M2): significa para o condutor o dever de se manter na via de tráfego que ela delimita, só podendo ser pisada ou transposta para efectuar manobras;
+
+c) Linha mista, constituída por uma linha contínua adjacente a outra descontínua (marca M3): tem para o condutor o significado referido nas alíneas a) ou b), consoante a linha que lhe estiver mais próxima for contínua ou descontínua.
+
+4 - A linha descontínua de aviso, constituída por traços de largura normal com intervalos curtos, indica a aproximação de uma linha contínua ou de passagem perigosa (marca M4).
+
+5 - As linhas delimitadoras de vias com sentido reversível, constituídas por duas linhas descontínuas adjacentes, destinam-se a delimitar de ambos os lados as vias de tráfego nas quais o sentido de trânsito pode ser alterado através de outros meios de sinalização (marca M5).
+
+6 - A linha descontínua de abrandamento ou aceleração, constituída por traços largos, indica mudança para via em que se pratica uma velocidade diferente (marcas M6 e M6a).
+
+7 - As marcas constituídas por linhas largas, contínuas ou descontínuas, delimitando uma via de tráfego, destinam-se a identificar essa via de tráfego como corredor de circulação para veículos de transporte público, devendo ser completadas pela inscrição do símbolo «BUS», aposto no início do corredor e repetido logo após os cruzamentos ou entroncamentos (marcas M7 e M7a).
+
+8 - Na proximidade de lombas, cruzamentos, entroncamentos e locais de visibilidade reduzida, que ofereçam particular perigo para a circulação, poderão ser utilizadas, excepcionalmente, duas linhas contínuas adjacentes, que terão o mesmo significado que a linha contínua.
+
+9 - As marcas transversais, apostas no sentido da largura das faixas de rodagem e que podem ser completadas por determinados símbolos, são as seguintes:
+
+a) Linha de paragem, consistindo numa linha transversal contínua (marca M8): indica o local de paragem obrigatória, imposta por outro meio de sinalização; esta linha pode ser completada pela inscrição do símbolo «STOP» no pavimento quando a paragem seja imposta por sinalização vertical (marca M6a);
+
+b) Linha de cedência de prioridade, consistindo numa linha transversal descontínua (marca M9): indica o local da eventual paragem, quando a sinalização vertical imponha ao condutor que dê prioridade de passagem; esta linha pode ser completada pela inscrição no pavimento do símbolo constituído por um triângulo com a base paralela à mesma (marca M9a);
+
+c) Passagem para ciclistas, constituída por quadrados ou paralelogramos (marcas M10 e M10a): indica o local por onde os ciclistas devem fazer o atravessamento da via;
+
+d) Passagem para peões, constituída por bandas em zebra, paralelas ao eixo da via, ou por duas linhas transversais contínuas (marcas M11 e M11a): indica o local por onde os peões devem efectuar o atravessamento da via.
+
+10 - Para regular o estacionamento e a paragem poderão ser utilizadas as seguintes marcas, de cor amarela:
+
+a) Linha contínua, aposta no bordo da faixa de rodagem (marca M12) ou no passeio, junto a esta (marca M12a): indica que é proibido parar ou estacionar desse lado da faixa de rodagem e em toda a extensão dessa linha; esta proibição pode limitar-se no tempo ou a determinada espécie de veículos, de acordo com indicações constantes de sinalização vertical;
+
+b) Linha descontínua, aposta no bordo da faixa de rodagem (marca M13) ou no passeio, junto a esta (marca M13a): indica que é proibido estacionar desse lado da faixa de rodagem e em toda a extensão dessa linha; esta proibição pode também limitar-se no tempo ou a determinada espécie de veículos, de acordo com indicações constantes de sinalização vertical;
+
+c) Linha em ziguezague (marca M14): significa proibição de estacionar do lado da faixa de rodagem em que se situa esta linha, em toda a extensão da mesma.
+
+11 - Para delimitar os lugares destinados ao estacionamento de veículos poderão ser utilizadas linhas descontínuas, paralelas, perpendiculares ou oblíquas ao eixo da via e definindo espaços rectangulares.
+
+12 - Para orientar os sentidos de trânsito na vizinhança de cruzamentos ou entroncamentos podem ser utilizadas setas de selecção (marcas M15 a M15f), que significam, quando apostas em vias de tráfego delimitadas por linhas contínuas, obrigatoriedade de seguir no sentido ou num dos sentidos por elas apontados; estas setas podem ser antecedidas de outras com igual configuração e com função de pré-aviso, as quais podem conter a indicação de via sem saída.
+
+Em vias de sentido único podem ser utilizadas setas de configuração igual às de selecção, com a finalidade de confirmar o sentido de circulação.
+
+13 - As setas de desvio (marcas M16 e M16a), de orientação oblíqua ao eixo da via e repetidas, indicam a conveniência de passar para a via de tráfego que elas apontam, ou mesmo a obrigatoriedade de o fazer em consequência de outra sinalização.
+
+14 - Para fornecer determinadas indicações ou repetir as já dadas por outros meios de sinalização, podem ser utilizadas marcas nos termos seguintes:
+
+a) Raias oblíquas delimitadas por uma linha contínua (marcas M17 e M17a): significam proibição de entrar na área por elas abrangida;
+
+b) Raias oblíquas delimitadas por uma linha descontínua: significam proibição de estacionar e de entrar na área por elas abrangida, a não ser para a realização de manobras que manifestamente não apresentem perigo;
+
+c) Listras alternadas de cores amarela e negra (marca M18): assinalam a presença de obstáculos ou construções que possam constituir perigo.
+
+15 - Para delimitar mais visivelmente a faixa de rodagem podem ser utilizadas, junto dos bordos da mesma, guias constituídas por linhas que não são consideradas marcas longitudinais nos termos do n.º 3 (marca M19).
+
+16 - As marcas rodoviárias podem ser materializadas por pinturas, lancis, fiadas de calçada, elementos metálicos ou de outro material, fixados no pavimento.
+
+17 - Serão punidas com a multa de 300$00 as transgressões ao disposto na alínea a) do n.º 3, na alínea c) do mesmo número, quando a linha mais próxima do condutor for contínua, no n.º 8, na alínea a) do n.º 9, bem como o estacionamento nos locais sinalizados com a marca prevista na alínea a) do n.º 10.
+
+Serão punidas com a multa de 200$00 as transgressões ao disposto na alínea b) do n.º 3, na alínea c) do mesmo número, quando a linha mais próxima do condutor for descontínua, nas alíneas b) e c) do n.º 9, nas alíneas b) e c) do n.º 10, no n.º 12 e nas alíneas a) e b) do n.º 14.
+
+Ministério dos Transportes e Comunicações, 5 de Abril de 1976. - O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.

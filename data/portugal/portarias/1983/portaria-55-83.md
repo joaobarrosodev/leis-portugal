@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:308351:por
+title: Portaria n.º 55/83
+short_title: null
+summary: Aprova a tabela de equivalência para a recuperação de pensões degradadas, respeitante ao pessoal civil dos serviços
+  departamentais das Forças Armadas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Defesa Nacional, das Finanças e do Plano e da Reforma Administrativa
+proposing_entity: null
+official_number: 55/83
+official_date: null
+publication_date: '1983-01-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1983, Série I de 1983-01-25
+  number: '20'
+  series: I
+  supplement: null
+  pages: 157 - 161
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/01/02000/01570161.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '308351'
+  dre_path: /dr/detalhe/portaria/55-1983-308351
+  internal: pt:dre:308351:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/55-1983-308351
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/55-1983-308351
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-01-25T00:00:00Z'
+integrity:
+  source_sha256: 00ca37be39a613e0689ccde1c5b5ba9b4a1db86da0779cf811e74a5c70df7248
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-55-308351.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 55/83
+
+de 25 de Janeiro
+
+1. O [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto, veio aditar várias disposições ao [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, com vista a promover a recuperação das pensões de aposentação, reforma, invalidez, sobrevivência, preço de sangue e outras a cargo do Ministério das Finanças e do Plano.
+
+No respeitante às Forças Armadas, o artigo 7.º-B do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, aditado pelo [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto, especifica no seu n.º 3 que as tabelas de equivalência sejam elaboradas pelos serviços competentes dos respectivos estados-maiores e aprovadas por portaria conjunta do Chefe do Estado-Maior-General das Forças Armadas, do Ministro da Defesa Nacional, do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa.
+
+2. As dificuldades encontradas na equivalência de algumas categorias já extintas e a necessidade premente de fazer publicar as tabelas de equivalências das categorias dos aposentados levaram a optar-se por, numa primeira fase, publicar aquelas em que não existem quaisquer dúvidas, remetendo as restantes para uma segunda fase.
+
+3. Os critérios adoptados nas equivalências constantes no mapa anexo a esta portaria foram idênticos aos adoptados na [Portaria n.º 877/82](https://diariodarepublica.pt/dr/detalhe/portaria/877-1982-375831), de 17 de Setembro.
+
+Serviu como base para termos de equiparação a [Portaria n.º 962/81](https://diariodarepublica.pt/dr/detalhe/portaria/962-1981-568699), de 10 de Novembro, que engloba todas as carreiras e categorias existentes nos serviços departamentais das Forças Armadas, a partir de 1 de Julho de 1979.
+
+Sempre que a categoria do aposentado constasse da [Portaria n.º 962/81](https://diariodarepublica.pt/dr/detalhe/portaria/962-1981-568699), de 10 de Novembro, foi-lhe atribuída a nova designação e letra correspondente, mesmo que considerada a extinguir.
+
+Quando a categoria do aposentado não constasse da [Portaria n.º 962/81](https://diariodarepublica.pt/dr/detalhe/portaria/962-1981-568699), de 10 de Novembro, procurou-se encontrar o diploma que a extinguiu ou lhe alterou a designação e, em última análise, recorreu-se às tabelas de equivalência anexas à [Portaria n.º 877/82](https://diariodarepublica.pt/dr/detalhe/portaria/877-1982-375831), de 17 de Setembro.
+
+4. As categorias dos aposentados sem referência à classe foram reclassificadas na base da carreira correspondente, excepto aquelas que, constituindo casos específicos e pontuais, foram reclassificadas em determinada classe pela [Portaria n.º 962/81](https://diariodarepublica.pt/dr/detalhe/portaria/962-1981-568699), de 10 de Novembro.
+
+Nestes termos:
+
+Considerando o disposto no n.º 3 do artigo 7.º-B do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, aditado pelo [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Reforma Administrativa, o seguinte:
+
+1.º Para efeitos do disposto no artigo 7.º-B do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, aditado pelo [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto, é aprovada a tabela de equivalências, a que se refere o mapa anexo à presente portaria, respeitante ao pessoal civil dos serviços departamentais das Forças Armadas.
+
+2.º Pela aplicação do disposto nas alíneas a), b) e c) do artigo 7.º-A do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, aditado pelo [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto, a letra de vencimento a ter em conta no cálculo das pensões não pode ser inferior àquela que serviu de base ao seu cálculo inicial.
+
+3.º Quando se verifique a existência de categorias sem classe à data da atribuição da pensão, e o interessado, em requerimento, invoque fundamentadamente perante os respectivos serviços processadores que o vencimento que serviu de base ao cálculo da pensão correspondia, naquela data, a classe superior àquela que lhe é atribuída na tabela de equivalências, a pensão será actualizada de harmonia com a percentagem de vencimento da classe que lhe corresponda, nos termos do artigo 7.º-A do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, aditado pelo [Decreto-Lei n.º 245/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), de 24 de Agosto.
+
+Ministérios da Defesa Nacional, das Finanças e do Plano e da Reforma Administrativa, 10 de Janeiro de 1983. - Pelo Ministro da Defesa Nacional, Carlos José Sanches Vaz Pardal, Secretário de Estado da Defesa Nacional. - Pelo Ministro das Finanças e do Plano, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado das Finanças. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
+
+Mapa a que se refere o n.º 1 da Portaria n.º 55/83, de 25 de Janeiro
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/01/02000/01570161.pdf))](https://files.diariodarepublica.pt/1s/1983/01/02000/01570161.pdf)

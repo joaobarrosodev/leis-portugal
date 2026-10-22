@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:2202940:por
+title: Portaria n.º 254/2008
+short_title: null
+summary: Cartões de identificação da IG MCTES
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Ciência, Tecnologia e Ensino Superior - Gabinete do Ministro
+proposing_entity: null
+official_number: 254/2008
+official_date: null
+publication_date: '2008-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 52/2008, Série II de 2008-03-13
+  number: '52'
+  series: II
+  supplement: null
+  pages: 10906 - 10907
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/03/052000000/1090610907.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2202940'
+  dre_path: /dr/detalhe/portaria/254-2008-2202940
+  internal: pt:dre:2202940:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-2008-2202940
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-2008-2202940
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-08-29T00:00:00Z'
+integrity:
+  source_sha256: 377c5ac378e8f32a4675484055c013266a4c682e92babfe46729c8c80a5fb8a7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-254-2202940.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:174789:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 254/2008
+
+Nos termos do disposto nos n.os 1 e 2 do artigo 17.º do [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de Julho, os dirigentes dos serviços de inspecção e o pessoal de inspecção têm direito a cartão de identificação profissional e de livre-trânsito próprios, de modelos a aprovar por portaria do ministro responsável pelo serviço de inspecção respectivo, que devem exibir no exercício das suas funções. O modelo do cartão de identificação do restante pessoal de inspecção deverá, igualmente, ser aprovado por portaria do ministro responsável, nos termos do n.º 2 do referido preceito.
+
+Assim:
+
+Considerando a necessidade de ser criado o modelo de cartão de livre-trânsito para a identificação dos dirigentes e pessoal da carreira técnica superior de inspecção da Inspecção-Geral do Ministro da Ciência, Tecnologia e Ensino Superior (IGMCTES), bem como o modelo do cartão de identificação dos demais funcionários da IGMCTES, ao abrigo dos n.os 1 e 2 do artigo 17.º do [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de Julho:
+
+Manda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - É aprovado o modelo de cartão de identificação profissional e livre-trânsito para uso do pessoal dirigente e da carreira técnica superior de inspecção da Inspecção-Geral do Ministério da Ciência, Tecnologia e Ensino Superior (IGMCTES), nos termos do anexo I à presente portaria, da qual faz parte integrante.
+
+2 - É ainda aprovado o modelo de cartão de identificação profissional do restante pessoal da IGMCTES, nos termos do anexo II à presente portaria, da qual faz parte integrante.
+
+###### Artigo 2.º — Cores e dimensões
+
+Os cartões referidos no artigo anterior são de material plástico, de cor branca, com faixa diagonal verde e vermelha, símbolo do Ministério e banda magnética no verso, e podem ter, para além da função de identificação, outras funções, nomeadamente registo de assiduidade, multibanco e porta-moedas.
+
+###### Artigo 3.º — Emissão e autenticação
+
+1 - Os cartões são emitidos pela IGMCTES, assinados pelo portador e autenticados com a assinatura do Inspector-Geral ou do seu substituto legal.
+
+2 - Em caso de extravio, destruição ou deterioração dos cartões, pode ser emitida uma segunda via, da qual se faz indicação expressa.
+
+###### Artigo 4.º — Validade e recolha
+
+1 - Os cartões são válidos por três anos, devendo ser substituídos quando expirado o respectivo prazo de validade ou quando se verifique qualquer alteração essencial nos elementos deles constantes.
+
+2 - Os cartões são obrigatoriamente recolhidos quando se verifique cessação ou suspensão de funções do respectivo titular.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+25 de Fevereiro de 2008. - O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago.
+
+## ANEXO I — (Modelo de cartão para dirigentes e pessoal da carreira técnica superior de inspecção da Inspecção-Geral)
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/052000000/1090610907.pdf))](https://files.diariodarepublica.pt/2s/2008/03/052000000/1090610907.pdf)
+
+## ANEXO II — (Modelo de cartão para restante pessoal da Inspecção-Geral)
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2008/03/052000000/1090610907.pdf))](https://files.diariodarepublica.pt/2s/2008/03/052000000/1090610907.pdf)

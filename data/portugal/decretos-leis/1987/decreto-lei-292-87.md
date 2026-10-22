@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:417195:por
+title: Decreto-Lei n.º 292/87
+short_title: null
+summary: Regulamenta o imposto sobre produtos petrolíferos (ISP)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 292/87
+official_date: null
+publication_date: '1987-07-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/1987, Série I de 1987-07-30
+  number: '173'
+  series: I
+  supplement: null
+  pages: 2968 - 2969
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/07/17300/29682969.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '417195'
+  dre_path: /dr/detalhe/decreto-lei/292-1987-417195
+  internal: pt:dre:417195:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1987-417195
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1987-417195
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-07-25T00:00:00Z'
+integrity:
+  source_sha256: 59da78ef19daa426cc2940e61c6a31749a6369dd327b5203fa732a215263d74b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-292-417195.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:416073:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 292/87
+
+de 30 de Julho
+
+Nos termos do artigo 41.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, foi criado o imposto sobre produtos petrolíferos (ISP), como forma de substituição do sistema que regulava, por via meramente administrativa, os aspectos parafiscais da chamada «economia de combustíveis».
+
+As operações de determinação e cobrança do imposto continuaram, todavia, a processar-se na base de normativos anteriormente aplicáveis aos extintos «diferenciais de preços», realidade que se impõe seja alterada, particularmente em razão da integração das receitas geradas pelo imposto no Orçamento do Estado.
+
+Por outro lado, a assunção dos diferenciais sobre combustíveis líquidos e gasosos como imposto determina que as operações de cobrança sejam cometidas à administração fiscal.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O imposto sobre produtos petrolíferos, abreviadamente designado por ISP, incidente sobre cada um dos produtos indicados nos n.os 4 e 5 do artigo 41.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, é devido e torna-se exigível:
+
+a) Quanto ao gás de cidade, no momento em que for posto à disposição da Electricidade de Portugal (EDP), E. P.;
+
+b) Quanto aos restantes produtos, no momento em que for numerada a declaração de importação para consumo.
+
+###### Art. 2.º - 1 - A determinação e a cobrança do ISP, bem como a fixação do custo dos produtos importados, competem à Direcção-Geral das Alfândegas, abreviadamente designada por DGA.
+
+2 - Para efeitos do disposto no número anterior, a EDP e os titulares de declarações de importação para consumo enviarão à DGA, mensalmente, por produto, até ao dia 15 do mês seguinte àquele a que respeitam, os seguintes elementos:
+
+a) Informação sobre os números e quantidades submetidos a declaração de importação, separando a produção nacional da importação sob a forma de produtos acabados;
+
+b) Informação das quantidades vendidas, individualizando aquelas que, pelo fim a que se destinaram, não foram oneradas com o ISP;
+
+c) Indicação das quantidades afectas a uso próprio;
+
+d) Indicação das existências disponíveis nas suas instalações, separando as de produção nacional das de importação sob a forma de produtos acabados, relativamente às quantidades já declaradas para consumo;
+
+e) Os elementos de custo dos produtos não oriundos da produção nacional.
+
+3 - Na ausência dos elementos de custo a que se refere a alínea e) do número anterior, a DGA calculará, com base nas informações disponíveis, o respectivo custo.
+
+###### Art. 3.º - 1 - A determinação do imposto é feita com base nas quantidades indicadas nas declarações de importação para consumo e na informação referida na alínea b) do artigo anterior.
+
+2 - A DGA dará conhecimento à EDP e aos titulares de declarações de importação para consumo processadas no mês anterior do imposto liquidado nos termos do presente diploma e remeterá até ao dia 25 de cada mês as respectivas guias de cobrança.
+
+###### Art. 4.º - 1 - A EDP e os titulares de declarações de importação para consumo são obrigados a pagar até ao último dia útil de cada mês o imposto devido, sem direito a qualquer fraccionamento.
+
+2 - Não sendo pago o imposto no prazo previsto no número anterior, começarão a correr imediatamente juros de mora.
+
+3 - Passados 30 dias sobre o vencimento do imposto sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo.
+
+###### Art. 5.º - 1 - No prazo máximo de 30 dias após a entrada em vigor deste diploma, a EDP e os titulares de declarações de importação para consumo informarão a DGA do volume e valor das suas existências naquela data, com decomposição idêntica à solicitada na alínea d) do n.º 2 do artigo 2.º
+
+2 - Nos 25 dias subsequentes, a DGA dará conhecimento e emitirá as guias de cobrança do imposto devido pelas existências, que deverá ser pago nos termos do definido no artigo 4.º
+
+###### Art. 6.º - 1 - Os valores dos componentes de variação mensal, VA, FR e FC, aplicáveis aos produtos oriundos da produção nacional, e os valores de MC, aplicáveis à produção nacional e à importação, tal como definidos no n.º 2.º da [Portaria n.º 99/87](https://diariodarepublica.pt/dr/detalhe/portaria/99-1987-662926), de 12 de Fevereiro, serão propostos à DGE e à DGA pela refinadora nacional e pelas empresas comercializadoras até quinze dias antes do mês a que irão ser aplicados.
+
+Os valores anteriormente referidos serão fixados conjuntamente pela DGA e DGE, competindo a esta última a sua comunicação aos interessados nos quinze dias subsequentes.
+
+2 - Os valores dos componentes de variação semestral da fórmula definida no n.º 2.º da [Portaria n.º 99/87](https://diariodarepublica.pt/dr/detalhe/portaria/99-1987-662926), de 12 de Fevereiro, serão propostos à DGE e à DGA pela refinadora nacional e pelas empresas comercializadoras até 45 dias antes do início de cada semestre relativamente ao qual a formula é aplicada.
+
+Os valores anteriormente referidos, uma vez ouvida a Inspecção-Geral de Finanças, serão fixados conjuntamente pela DGA e DGE, competindo a esta última a sua comunicação aos interessados até quinze dias antes do início daquele mesmo semestre.
+
+A falta de resposta até ao primeiro dia do mês do semestre em questão pressupõe a aceitação tácita dos valores propostos.
+
+###### Art. 7.º As referências à DGE constantes do despacho conjunto dos Ministros das Finanças e da Indústria e Comércio de 28 de Abril de 1980 e da [Portaria n.º 573/86](https://diariodarepublica.pt/dr/detalhe/portaria/573-1986-221546), de 4 de Outubro, passam a considerar-se como feitas à DGE e à DGA.
+
+###### Art. 8.º É revogada a alínea b) do artigo 10.º do [Decreto-Lei n.º 442/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1986-627067), de 31 de Dezembro, e o n.º 9.º da [Portaria n.º 99/87](https://diariodarepublica.pt/dr/detalhe/portaria/99-1987-662926), de 12 de Fevereiro.
+
+###### Art. 9.º O presente decreto-lei entra em vigor no dia 1 de Junho de 1987.
+
+Visto e aprovado em Conselho de Ministros de 14 de Maio de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
+
+**Promulgado em 17 de Julho de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 21 de Julho de 1987.**
+
+Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

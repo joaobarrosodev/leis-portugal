@@ -1,0 +1,438 @@
+---
+schema_version: '1.0'
+id: pt:dre:492230:por
+title: Portaria n.º 731/2009
+short_title: null
+summary: Cria o sistema de formação e de certificação em competências TIC (tecnologias de informação e comunicação) para docentes
+  em exercício de funções nos estabelecimentos da educação pré-escolar e dos ensinos básicos e secundário
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 731/2009
+official_date: null
+publication_date: '2009-07-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 129/2009, Série I de 2009-07-07
+  number: '129'
+  series: I
+  supplement: null
+  pages: 4340 - 4343
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/07/12900/0434004343.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2013-11-02'
+version_history:
+  file: portaria-731-2009.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-04-25'
+    amending: pt:dre:613247:por
+    amending_title: Portaria n.º 224/2010
+    changes:
+    - Altera Anexo I
+  - date: '2013-11-02'
+    amending: pt:dre:502838:por
+    amending_title: Portaria n.º 321/2013
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/731/2009/p/cons/20131028/pt/html
+  oj: null
+  dre: '492230'
+  dre_path: /dr/detalhe/portaria/731-2009-492230
+  internal: pt:dre:492230:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/731-2009-492230
+  metadata_url: https://data.dre.pt/eli/port/731/2009/p/cons/20131028/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-869762519
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-869762519
+  retrieved_at: '2026-10-22T13:10:02Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3ef6ef30d4f68ccc9c08d0bbeeddf3538cf8ab829ea92e18109a8e892276dd6a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:10:02Z'
+  notes: 3 versão(ões); histórico completo em portaria-731-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Plano Tecnológico
+- Formação Profissional
+- Certificação Profissional
+- Plano de Estudos
+- Curso de Formação
+- Gabinete de Estatística e Planeamento da Educação
+- TIC
+- Política de Educação
+- Sistema de Informação
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Educação Permanente
+- Ensino Básico
+- Educação Pré-escolar
+relationships:
+- type: amended_by
+  target: pt:dre:613247:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/224-2010-613247
+  date: '2010-04-20'
+- type: amended_by
+  target: pt:dre:502838:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838
+  date: '2013-10-28'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/137/2007/09/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/137/2007/09/18/p/dre
+article_structure:
+  article_count: 13
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:10:02Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 731/2009
+
+Portaria n.º 731/2009
+
+de 7 de Julho
+
+Com a estratégia de Lisboa, a União Europeia reconhece a mudança significativa resultante da globalização e responde aos desafios da nova economia baseada no conhecimento.
+
+No âmbito dos objectivos estratégicos estabelecidos para 2010, a União Europeia propõe-se criar condições para uma efectiva preparação dos cidadãos para a utilização das tecnologias de informação e comunicação (TIC), reconhecendo nas competências TIC um factor decisivo de integração na economia do conhecimento.
+
+No quadro da estratégia de Lisboa, o XVII Governo Constitucional avança com a proposta ambiciosa de colocar Portugal entre os cinco países europeus mais avançados em matéria de modernização tecnológica do ensino em 2010, através do Plano Tecnológico da Educação.
+
+O Plano Tecnológico da Educação estrutura-se em três eixos temáticos de intervenção: tecnologia, conteúdos e formação.
+
+A componente da formação visa o reforço das qualificações e a valorização das competências, ultrapassando os principais factores inibidores da modernização tecnológica do sistema educativo, promovendo a utilização das TIC nos processos de ensino e aprendizagem e na gestão escolar, a formação de docentes centrada na utilização pedagógica das TIC e a existência de mecanismos de certificação de competências TIC.
+
+Com o presente diploma regulamentar são criadas as condições normativas para a execução do programa de formação e de certificação de competências TIC para docentes proposto pela Resolução do Conselho de Ministros n.º 137/2007, de 18 de Setembro.
+
+O Sistema de Formação e de Certificação de Competências TIC assenta nos princípios de aprofundamento e desenvolvimento das competências adquiridas e da sua integração no contexto profissional e na dupla perspectiva de validação e aquisição de novos conhecimentos funcionalizados à utilização pedagógica da TIC no quadro jurídico da formação contínua de professores e de validação de competências profissionais adquiridas fora do quadro jurídico da formação contínua de professores, tomando, para o efeito, em consideração sejam os conhecimentos adquiridos no decurso do percurso profissional do docente, sejam os conhecimentos adquiridos no quadro da formação complementar académica especializada.
+
+A formação estrutura-se em cursos modulares, sequenciais, disciplinares e profissionalmente orientados.
+
+Em paralelo, são criados três certificados, a saber: o certificado de competências digitais, o certificado de competências pedagógicas e profissionais com TIC e o certificado de competências avançadas em TIC na educação. O certificado de competências digitais visa certificar competências básicas que possibilitam a utilização instrumental das TIC no contexto profissional. O certificado de competências pedagógicas e profissionais com TIC visa certificar competências que permitem ao docente a sua utilização como recurso pedagógico no processo de ensino e aprendizagem. O certificado de competências avançadas em TIC na educação certifica conhecimentos que habilitam o docente à sua utilização como recurso pedagógico numa perspectiva de inovação e investigação educacional.
+
+O Sistema de Formação e de Certificação de Competências TIC, com o inerente reforço das qualificações e valorização das competências que lhes estão associados, são instrumentos privilegiados para a melhoria da qualidade das aprendizagens e para o sucesso escolar dos alunos.
+
+Assim:
+
+Ao abrigo do disposto na Resolução do Conselho de Ministros n.º 137/2007, de 18 de Setembro, manda o Governo, pela Ministra da Educação, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - A presente portaria estabelece o sistema de formação e de certificação em competências no domínio das tecnologias de informação e comunicação, TIC, a aplicar aos docentes em exercício de funções nos estabelecimentos da educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação e Ciência.
+
+2 - O Sistema de Formação e de Certificação em Competências TIC para docentes organiza-se em três níveis, de acordo com os princípios de aprofundamento, diversificação e ampliação progressiva das competências adquiridas e dos contextos profissionais de utilização e integração das TIC.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 321/2013 - Diário da República n.º 208/2013, Série I de 2013-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838), em vigor a partir de 2013-11-02
+
+###### Artigo 2.º — Objectivos
+
+O sistema de formação e certificação em competências TIC tem os seguintes objetivos:
+
+a) Promover a generalização das competências digitais e das competências pedagógicas com o recurso às TIC dos docentes, com vista à generalização de práticas de ensino mais inovadoras e à melhoria das aprendizagens;
+
+b) Potenciar a utilização pedagógica dos equipamentos TIC existentes nas escolas;
+
+c) Disponibilizar aos docentes um dispositivo articulado de formação TIC, modular, e disciplinarmente orientado;
+
+d) Facilitar a integração da formação no percurso formativo de cada docente;
+
+e) Aprofundar o referencial de competências TIC através do recurso à inovação e inspiração nas melhores práticas.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 321/2013 - Diário da República n.º 208/2013, Série I de 2013-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838), em vigor a partir de 2013-11-02
+
+### Capítulo II — Formação em competências TIC
+
+###### Artigo 3.º — Formação em competências TIC
+
+1 - A formação em competências TIC estrutura-se em ações de formação organizadas em três níveis:
+
+a) Formação em competências digitais (nível 1);
+
+b) Formação em competências pedagógicas e profissionais com TIC (nível 2);
+
+c) Formação em competências avançadas em TIC na educação (nível 3).
+
+2 - O acesso aos cursos e níveis referidos no número anterior não está sujeito a qualquer regime de precedências.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 321/2013 - Diário da República n.º 208/2013, Série I de 2013-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838), em vigor a partir de 2013-11-02
+
+###### Artigo 4.º — Formação em competências digitais
+
+A formação em competências digitais é composta por um dos cursos de formação alternativos, acreditados no quadro do regime jurídico da formação contínua de professores, de acordo com o anexo i ao presente diploma e que dele faz parte integrante.
+
+###### Artigo 5.º — Formação em competências pedagógicas e profissionais com TIC
+
+1 - A formação em competências pedagógicas e profissionais em TIC é composta pela frequência, no mínimo, do conteúdo de uma das seguintes alíneas:
+
+a) Quatro cursos de formação num total de 60 horas de formação;
+
+b) Três oficinas de formação num total de 90 horas de formação;
+
+c) Três cursos e ou oficinas de formação num total de 75 horas de formação.
+
+2 - Para efeitos do n.º 1 consideram-se os cursos e oficinas de formação acreditados no quadro do regime jurídico da formação contínua de professores designadamente:
+
+a) Os cursos e oficinas de formação de acordo com o anexo II do presente diploma e que dele faz parte integrante;
+
+b) Os cursos e oficinas de formação, acreditadas pelo Conselho Científico-Pedagógico da Formação Contínua, que as entidades formadoras considerem pertinentes para integrar o nível 2 do sistema de certificação e formação em competências pedagógicas e profissionais com TIC, obtido o parecer positivo das entidades competentes.
+
+3 - O parecer a que se refere a alínea b) do n.º anterior obedece à seguinte tramitação:
+
+a) O formulário de acreditação da ação de formação é enviado para a Direção-Geral da Administração Escolar (DGAE);
+
+b) A ação de formação tem de ter no mínimo a duração de 15 horas presenciais;
+
+c) A emissão do parecer é da responsabilidade de uma equipa, constituída por um elemento da Direção-Geral de Estatísticas da Educação e Ciência (DGEEC), um elemento da Direção-Geral da Administração Escolar (DGAE) e um elemento da Direção-Geral da Educação (DGE), constituída para o efeito;
+
+d) A lista de ações de formação com parecer positivo é divulgada no Portal das Escolas (https://www.portaldasescolas.pt/).
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 321/2013 - Diário da República n.º 208/2013, Série I de 2013-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838), em vigor a partir de 2013-11-02
+
+###### Artigo 6.º — Formação em competências avançadas em TIC na educação
+
+A formação em competências avançadas em TIC na educação é composta por programas de mestrado e doutoramento geridos por instituições do ensino superior.
+
+### Capítulo III — Certificação de competências TIC
+
+###### Artigo 7.º — Certificados de competências TIC
+
+1 - A certificação em competências TIC estrutura-se em três níveis de certificação:
+
+a) Certificado de competências digitais (nível 1);
+
+b) Certificado de competências pedagógicas e profissionais com TIC (nível 2);
+
+c) Certificado de competências avançadas em TIC na educação (nível 3).
+
+2 - O acesso a cada um dos certificados referidos no número anterior não está sujeito a qualquer regime de precedências.
+
+3 - Os modelos dos certificados de competências TIC previstos no n.º 1 são aprovados por despacho conjunto do director-geral do Gabinete de Estatística e Planeamento da Educação, do director-geral dos Recursos Humanos da Educação e do director-geral de Inovação e de Desenvolvimento Curricular.
+
+###### Artigo 8.º — Certificado de competências digitais
+
+1 - O certificado de competências digitais certifica os conhecimentos adquiridos pelo docente que lhe permitem uma utilização instrumental das TIC como ferramentas funcionais no seu contexto profissional.
+
+2 - O certificado de competências digitais pode ser atribuído em resultado das seguintes modalidades de reconhecimento de competências adquiridas:
+
+a) Certificação por validação de competências profissionais, atribuível ao docente que reúna pelo menos um dos seguintes requisitos:
+
+i) Possua habilitação própria ou profissional para leccionar o grupo de recrutamento 550;
+
+ii) Tenha desempenhado o cargo de coordenador de TIC, nos termos do despacho n.º 26 691/2005, de 30 de Novembro, publicado no Diário da República, 2.ª série, n.º 247, de 27 de Dezembro de 2005;
+
+iii) Participe ou tenha participado como docente responsável pela componente pedagógica ou pela componente técnica do Plano Tecnológico da Educação, nos termos do despacho n.º 700/2009, de 19 de Dezembro de 2008, publicado no Diário da República, 2.ª série, n.º 6, de 9 de Janeiro de 2009;
+
+b) Certificação por validação de competências associadas, atribuível ao docente portador de pelo menos um dos seguintes certificados:
+
+i) Diplomas de bacharelato, licenciatura ou equiparados, pós-graduação, mestrado ou doutoramento, cujas áreas de educação e formação se inscrevam na área de estudo de Informática (48), de acordo com a classificação nacional das áreas de educação e formação;
+
+ii) Certificado de formador em TIC nas áreas A40 - Informática, B15 - Tecnologia e Comunicação Educativa e C15 - Tecnologias Educativas (Informática/Aplicação da Informática), no quadro do regime jurídico da formação contínua de professores;
+
+iii) Outros certificados ou diplomas de acordo com o anexo III do presente diploma e que dele faz parte integrante;
+
+c) Certificação por reconhecimento de percurso formativo, atribuível ao docente que se encontre em pelo menos uma das seguintes situações:
+
+i) Tenha frequentado ações de formação contínua no domínio das TIC, com aproveitamento, no quadro do regime jurídico da formação contínua de professores, correspondentes a um total mínimo de 50 horas, cumpridas a partir de 1 de janeiro de 2000;
+
+ii) Tenha frequentado, com aproveitamento, um dos cursos de formação TIC de nível 1, de acordo com o modelo de formação em competências TIC, nos termos do artigo 4.º;
+
+iii) Tenha frequentado, com aproveitamento, os dois cursos de formação TIC de nível 2 obrigatórios, de acordo com o modelo de formação em competências TIC, nos termos do artigo 5.º
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 321/2013 - Diário da República n.º 208/2013, Série I de 2013-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838), em vigor a partir de 2013-11-02
+
+###### Artigo 9.º — Certificado de competências pedagógicas e profissionais com TIC
+
+1 - O certificado de competências pedagógicas e profissionais com TIC certifica os conhecimentos adquiridos pelo docente que o habilitam a integrar as TIC nas suas práticas, explorando-as como recurso pedagógico e didáctico e mobilizando-as para o desenvolvimento de estratégias de ensino, numa perspectiva de melhoria da qualidade do processo de aprendizagem dos alunos.
+
+2 - O certificado de competências pedagógicas e profissionais em TIC é atribuído, nos termos do artigo 5.º, em resultado de uma das seguintes modalidades de reconhecimento de competências adquiridas:
+
+a) Certificação por reconhecimento de percurso formativo, atribuível ao docente que tenha frequentado, com aproveitamento:
+
+i) Os cursos e oficinas de formação de acordo com o estabelecido no anexo II ao presente diploma;
+
+ii) As ações de formação com parecer positivo nos termos da alínea b) do n.º 2, do artigo 5.º;
+
+b) Certificação por validação de competências associadas, atribuível ao docente portador das seguintes condições:
+
+i) Formador certificado pelo Conselho Científico-Pedagógico da Formação Contínua que comprove ter ministrado, no mínimo, duas ações de formação distintas, no quadro do regime jurídico da formação contínua de professores, na área de utilização pedagógico-didática, no domínio das TIC;
+
+ii) Formador certificado no âmbito do PTE para, pelo menos, uma das ações de formação constantes nos anexos II e III e que, cumulativamente, tenha orientado um mínimo de três daqueles cursos ou oficinas de formação.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 321/2013 - Diário da República n.º 208/2013, Série I de 2013-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838), em vigor a partir de 2013-11-02
+
+###### Artigo 10.º — Certificado de competências avançadas em TIC na educação
+
+1 - O certificado de competências avançadas em TIC na educação certifica os conhecimentos adquiridos pelo docente que o habilitam a inovar práticas pedagógicas com as TIC, a gerir as suas experiências e reflexões numa perspectiva investigativa e num sentido de partilha e colaboração com a comunidade educativa.
+
+2 - O certificado de competências avançadas em TIC na educação pode ser atribuído aos docentes portadores de diplomas de mestrado ou doutoramento na área de educação e formação das Ciências da Educação (142), de acordo com a Classificação Nacional das Áreas de Educação e Formação, nos termos a definir por despacho conjunto da Direção-Geral de Estatísticas da Educação e Ciência, Direção-Geral da Administração Escolar e da Direção-Geral da Educação.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 321/2013 - Diário da República n.º 208/2013, Série I de 2013-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838), em vigor a partir de 2013-11-02
+
+###### Artigo 11.º — Processo de certificação
+
+1 - A atribuição de certificados previstos no presente diploma compete aos diretores dos centros de formação de associações de escolas, com exceção dos previstos no n.º 7 do presente artigo.
+
+2 - Para a obtenção de certificado, o docente deverá requerer a respetiva emissão, via Portal das Escolas (https://www.portaldasescolas.pt), cujo pedido será submetido à validação do diretor do agrupamento de escolas ou escola não agrupada, onde o docente se encontra em exercício de funções.
+
+3 - Caso o processo individual do docente não esteja disponível no estabelecimento de ensino onde exerce funções ou houver dúvida sobre os elementos nele constantes, o diretor do centro de formação de associação de escolas pode solicitar as informações e ou os comprovativos necessários ao docente ou ao diretor do estabelecimento de ensino onde o processo se encontre.
+
+4 - Sem prejuízo do referido no número anterior, no prazo de quinze dias a contar da receção dos elementos solicitados, o diretor do centro de formação de associação de escolas decide da atribuição do certificado.
+
+5 - Sempre que a decisão seja de não atribuição do certificado, a decisão devidamente fundamentada é notificada ao interessado.
+
+6 - Para efeito de certificação de competências TIC do diretor de estabelecimento de ensino, o requerimento dirigido ao diretor do centro de formação de associação de escolas é formulado pelo interessado, via Portal das Escolas, sendo que:
+
+a) Os comprovativos da formação requerida são remetidos ao centro de formação de associação de escolas;
+
+b) O diretor do centro de formação de associação de escolas verifica e valida a atribuição ou não do certificado requerido.
+
+7 - Para efeito de certificação de competências TIC do diretor do centro de formação de associação de escolas, o requerimento é formulado via Portal das Escolas, sendo que:
+
+a) Os comprovativos da formação requerida são remetidos à Direção-Geral da Administração Escolar;
+
+b) O Diretor-Geral da Administração Escolar emite parecer fundamentado e decide pela atribuição ou não do certificado requerido.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 321/2013 - Diário da República n.º 208/2013, Série I de 2013-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838), em vigor a partir de 2013-11-02
+
+### Capítulo IV — Disposições transitórias e finais
+
+###### Artigo 12.º — Monitorização
+
+1 - O acompanhamento e a monitorização do sistema de formação e certificação de competências TIC são efetuados no âmbito da equipa constituída pelos elementos designados pela Direção-Geral de Estatísticas da Educação e Ciência, Direção-Geral da Administração Escolar e da Direção-Geral da Educação.
+
+2 -A manutenção e o desenvolvimento do sistema de informação de suporte à formação e certificação de competências TIC ficam a cargo da Direção-Geral de Estatísticas da Educação e Ciência.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 321/2013 - Diário da República n.º 208/2013, Série I de 2013-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/321-2013-502838), em vigor a partir de 2013-11-02
+
+###### Artigo 13.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia 1 de Setembro de 2009.
+
+A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 29 de Junho de 2009.
+
+## Anexo I — (a que se refere o artigo 4.º)
+
+1 - Cursos de formação contínua - Competências digitais (nível 1)
+
+Modalidade - Cursos de formação
+
+Duração: 15 horas
+
+(ver documento original)
+
+2 - Cursos de formação contínua - Competências pedagógicas e profissionais com TIC (nível 2)
+
+Modalidade - Cursos de formação
+
+Duração de cada curso: 15 horas
+
+Cursos obrigatórios
+
+Ensino e aprendizagem com TIC:
+
+Na Língua Portuguesa;
+
+Na Matemática;
+
+Nas Línguas Estrangeiras;
+
+Nas Humanidades e Ciências Sociais;
+
+Nas Artes e Expressões;
+
+Nas Ciências Experimentais;
+
+Na educação pré-escolar e no 1.º ciclo do ensino básico;
+
+Na educação especial.
+
+Avaliação das aprendizagens com TIC.
+
+Cursos opcionais
+
+Quadros interactivos multimédia:
+
+No ensino/aprendizagem da Língua Portuguesa;
+
+No ensino/aprendizagem da Matemática;
+
+No ensino/aprendizagem das Línguas Estrangeiras;
+
+No ensino/aprendizagem das Humanidades e Ciências Sociais;
+
+No ensino/aprendizagem das Artes e Expressões;
+
+No ensino/aprendizagem das Ciências Experimentais;
+
+Na educação pré-escolar e no 1.º ciclo do ensino básico.
+
+Plataformas de gestão de aprendizagens (LMS).
+
+Biblioteca escolar, literacias e currículo.
+
+Necessidades educativas especiais e TIC.
+
+Recursos educativos digitais - criação e avaliação.
+
+Portefólios educativos digitais.
+
+Liderança e modernização tecnológica das escolas.
+
+Coordenação de projectos TIC.
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 224/2010 - Diário da República n.º 76/2010, Série I de 2010-04-20](https://diariodarepublica.pt/dr/detalhe/portaria/224-2010-613247), em vigor a partir de 2010-04-25

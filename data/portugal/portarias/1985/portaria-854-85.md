@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:171517:por
+title: Portaria n.º 854/85
+short_title: null
+summary: Considera empresas de comunicação social, para efeitos do disposto na Portaria n.º 234/85, de 24 de Abril, as que
+  se dediquem, de forma predominante, à edição de jornais ou revistas de periodicidade, pelo menos, trimestral, à difusão
+  de informação através de meios áudio-visuais ou à procura, colecção e redacção de informação para oferecer e transmitir,
+  mediante pagamento, a outras empresas suas assinantes (agências noticiosas)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento Social
+proposing_entity: null
+official_number: 854/85
+official_date: null
+publication_date: '1985-11-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 258/1985, Série I de 1985-11-09
+  number: '258'
+  series: I
+  supplement: null
+  pages: 3766 - 3767
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/11/25800/37663767.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '171517'
+  dre_path: /dr/detalhe/portaria/854-1985-171517
+  internal: pt:dre:171517:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/854-1985-171517
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/854-1985-171517
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-04-26T00:00:00Z'
+integrity:
+  source_sha256: 5f4dfb54e137bff77f13286ec0eea53ac0797602e7cd114188971ac4e5a00f02
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-854-171517.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:195201:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 854/85
+
+de 9 de Novembro
+
+A [Portaria n.º 234/85](https://diariodarepublica.pt/dr/detalhe/portaria/234-1985-324357), de 24 de Abril, criou um novo meio de apoio às empresas de comunicação social, na área das comunicações.
+
+O acesso a esta medida por parte das empresas ficou dependente, nos termos do n.º 6.º do diploma citado, da sua inclusão em relação elaborada pela Direcção-Geral da Comunicação Social.
+
+Importa, entretanto, fixar o conjunto de requisitos a preencher pelas empresas para inclusão na relação e acesso ao benefício, de modo a não subverter o espírito que presidiu à concessão da medida, com uma atribuição indiscriminada e carente de uniformidade e rigor.
+
+De igual modo, se revela como necessária a determinação dos meios de telecomunicação abrangidos na tríplice exigência da afectação a empresa de comunicação social, de instalação em dependências desta e de utilização exclusiva para prossecução do objecto predominante da empresa.
+
+Nestes termos, ouvidas as empresas públicas Correios e Telecomunicações de Portugal (CTT) e Telefones de Lisboa e Porto (TLP) e ao abrigo do artigo 35.º do [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, aprovar o seguinte:
+
+1.º Consideram-se empresas de comunicação social, para efeitos do disposto na [Portaria n.º 234/85](https://diariodarepublica.pt/dr/detalhe/portaria/234-1985-324357), de 24 de Abril, as que, com personalidade jurídica de direito português e sede no território nacional, se dediquem, de forma predominante, à edição de jornais ou revistas de periodicidade, pelo menos, trimestral, à difusão de informação através de meios áudio-visuais ou à procura, colecção e redacção de informação para oferecer e transmitir, mediante pagamento, a outras empresas suas assinantes (agências noticiosas).
+
+2.º O apoio a conceder pelo referido diploma abrange, somente, os meios de telecomunicação requisitados em seu nome pelas empresas de comunicação social instalados nas suas dependências, de seu uso exclusivo e indispensáveis à elaboração dos jornais e revistas ou à difusão áudio-visual da informação.
+
+3.º Ficam excluídas do apoio a conceder as empresas de comunicação social escrita que não reúnam as condições necessárias para a obtenção do subsídio para a compra do papel e isenção de porte pago na distribuição de jornais, bem como as despesas com meios de telecomunicação não instalados nas dependências afectas, directamente, aos fins enunciados no número anterior, nomeadamente os colocados ao serviço exclusivo da administração ou de quaisquer trabalhadores das referidas empresas, bem como os de uso misto.
+
+4.º Os CTT e os TLP poderão reclamar para a Direcção-Geral de Comunicação Social, com efeitos suspensivos quanto à aplicação do desconto previsto, da requisição de novos meios de telecomunicação pelas empresas já beneficiárias.
+
+5.º Esta portaria entra em vigor com efeitos reportados a 1 de Janeiro de 1985.
+
+Ministério do Equipamento Social.
+
+**Assinada em 16 de Outubro de 1985.**
+
+**O Ministro do Equipamento Social, Carlos Montez Melancia.**

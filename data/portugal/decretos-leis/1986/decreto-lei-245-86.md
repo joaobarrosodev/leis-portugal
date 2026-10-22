@@ -1,0 +1,143 @@
+---
+schema_version: '1.0'
+id: pt:dre:219094:por
+title: Decreto-Lei n.º 245/86
+short_title: null
+summary: Introduz alterações ao regime de admissão ao doutoramento e concessão de bolsas para esse fim
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Cultura
+proposing_entity: null
+official_number: 245/86
+official_date: null
+publication_date: '1986-08-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/1986, Série I de 1986-08-21
+  number: '191'
+  series: I
+  supplement: null
+  pages: 2110 - 2111
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19100/21102111.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '219094'
+  dre_path: /dr/detalhe/decreto-lei/245-1986-219094
+  internal: pt:dre:219094:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1986-219094
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1986-219094
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-08-31T00:00:00Z'
+integrity:
+  source_sha256: 95584d97edb47cd33e5c28e8dda931837b68b7c0f6f483dc6bf92e0124015af9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-245-219094.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:488485:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 245/86
+
+de 21 de Agosto
+
+O Estatuto da Carreira Docente Universitária (ECDU), aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, alterado, por ratificação, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, garantia aos assistentes que atingissem o termo dos períodos referidos no n.º 1 do artigo 26.º e que não tivessem requerido as provas de doutoramento ou que, tendo-as realizado, nelas não tivessem sido aprovados a manutenção de vínculo ao Estado por passagem à carreira técnica superior.
+
+O [Decreto-Lei n.º 48/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1985-327146), de 27 de Fevereiro, veio retirar esta garantia, por revogação do artigo 28.º do referido Estatuto da Carreira Docente Universitária. Entende-se agora que a revogação pura e simples do citado artigo 28.º é demasiado drástica, pois se deve distinguir entre os assistentes que não se doutoram por razões que lhes são imputáveis e os assistentes que não se doutoram por razões imputáveis à instituição onde exercem funções ou dificuldades do sistema de ensino superior português, nomeadamente por inexistência de supervisores ou por impossibilidade de exercer o direito de dispensa de serviço docente consagrado no artigo 27.º do Estatuto da Carreira Docente Universitária.
+
+Impõe-se também responsabilizar as instituições do ensino superior pela formação dos docentes que contratam e dar um sentido mais preciso e eficaz à formação e orientação de assistentes e assistentes estagiários, tal como é definida no artigo 81.º do mesmo Estatuto.
+
+Importa igualmente reconhecer que as instituições de ensino superior atingiram graus de desenvolvimento muito diferentes, indo de situações em que o número de doutorados já se aproxima da saturação até ao extremo oposto, em que há cursos que funcionam exclusivamente com recurso a assistentes e a monitores. Por este motivo, urge fixar critérios moralizadores da situação vigente e a tomada de medidas que favoreçam a mobilidade do corpo docente, por forma a deslocar os assistentes das instituições menos desenvolvidas para aquelas onde poderão obter a formação necessária ao prosseguimento da carreira docente universitária.
+
+Conclui-se, portanto, que é imperioso definir uma política global para atribuição de bolsas e respectivas áreas que permita desenvolver as áreas mais desfavorecidas, compensar devidamente as instituições capazes de garantir a formação a nível pós-graduado e permitir que aos docentes mais jovens sejam facultados todos os meios para um progresso normal dentro da carreira docente.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - Se até 30 dias antes do termo do 3.º ano de exercício de funções o assistente não tiver manifestado intenção de se preparar para o doutoramento, nos termos do n.º 1 do artigo 5.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, o professor que, nos termos do artigo 81.º do Estatuto da Carreira Docente Universitária, é responsável pela sua formação e orientação deve, em relatório fundamentado, propor, obrigatoriamente, o reconhecimento ou negação da capacidade do assistente com vista à preparação de doutoramento.
+
+2 - O conselho científico pronunciar-se-á obrigatoriamente no prazo de 30 dias.
+
+3 - Nos casos de decisão desfavorável, o assistente pode candidatar-se a doutoramento em outras instituições de ensino superior.
+
+###### Art. 2.º - 1 - Os assistentes que obtiverem, nos termos do artigo 1.º, parecer favorável do conselho científico deverão declarar, até ao termo do 4.º ano de contrato, a sua intenção de preparar doutoramento, devendo o conselho científico, no prazo de três meses, designar supervisor e tomar as medidas necessárias a assegurar os meios para a prossecução do trabalho de investigação conducente ao doutoramento.
+
+2 - Em relação aos assistentes aos quais o conselho científico reconheceu capacidade para obter doutoramento, mas não exista supervisor na instituição, deve, até ao termo do ano civil em curso, elaborar-se uma lista a remeter à Direcção-Geral do Ensino Superior e ao Instituto Nacional de Investigação Científica.
+
+###### Art. 3.º Até ao termo de cada ano civil, as instituições de ensino superior remeterão ao Instituto Nacional de Investigação Científica e à Direcção-Geral do Ensino Superior uma lista das áreas em que supervisionam doutoramento, com indicação de supervisores, temas de doutoramentos e números de doutorandos a admitir, sem prejuízo de serem contactadas outras instituições para suprir essa inexistência.
+
+###### Art. 4.º Em face das listas constantes dos artigos 2.º e 3.º e sob propostas fundamentadas pelo Instituto Nacional de Investigação Científica, o Ministério da Educação e Cultura definirá, por despacho, os critérios para a atribuição das bolsas de doutoramento e respectivas áreas.
+
+###### Art. 5.º Sempre que, por razões devidamente justificadas, não for possível assegurar aos assistentes o direito a dispensa de actividades docentes previsto no n.º 1 do artigo 27.º do Estatuto da Carreira Docente Universitária, as instituições a que os mesmos se encontrem vinculados ficam obrigadas a prorrogar o respectivo contrato por mais um ano, renovável por mais um biénio e com dispensa total de serviço docente, exclusivamente para preparação do doutoramento.
+
+###### Art. 6.º - 1 - Terão o contrato terminado no termo do prazo fixado no n.º 1 do artigo 26.º do Estatuto da Carreira Docente Universitária os assistentes que:
+
+a) Tendo tido parecer favorável do conselho científico para prepararem doutoramento, não manifestem, até ao termo do 4.º ano de exercício de funções como assistentes, intenção de para ele se prepararem;
+
+b) Não tendo tido parecer favorável do conselho científico para prepararem doutoramento, não consigam ser admitidos à preparação de doutoramento por outras instituições de ensino superior.
+
+2 - Os assistentes que tenham requerido provas de doutoramento e sejam reprovados nessas provas terão o contrato terminado no termo do prazo fixado no n.º 1 do artigo 26.º do Estatuto da Carreira Docente Universitária ou imediatamente, caso esse prazo já tenha sido excedido por força de prorrogações efectuadas nos termos legais.
+
+###### Art. 7.º Com vista a uma mais criteriosa distribuição de financiamentos, a Direcção-Geral do Ensino Superior e o Instituto Nacional de Investigação Científica manterão uma estatística actualizada dos doutoramentos efectuados em Portugal, referindo, nomeadamente, a sua distribuição, número de aprovações e reprovações e recusas de admissão a doutoramento.
+
+###### Art. 8.º O Ministro da Educação e Cultura, em casos especiais devidamente justificados, pode determinar que certas áreas estão em situação de crise, definindo, sob proposta do Instituto Nacional de Investigação Científica, os meios e as acções específicos a adoptar com vista à resolução dessas situações pontuais.
+
+Visto e aprovado em Conselho de Ministros de 10 de Julho de 1986. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
+
+**Promulgado em 29 de Julho de 1986.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 30 de Julho de 1986.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

@@ -1,0 +1,309 @@
+---
+schema_version: '1.0'
+id: pt:dre:298273:por
+title: Despacho Normativo n.º 146/78
+short_title: null
+summary: Autoriza o Departamento Central de Planeamento a preparar um relatório preliminar, a submeter a Conselho de Ministros,
+  apontando formas alternativas de defrontar os problemas fundamentais da economia e da sociedade portuguesa até 1984 e cria
+  vários grupos de trabalho em seu apoio para orientar os seus trabalhos
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Planeamento - Gabinete do Secretário de Estado
+proposing_entity: null
+official_number: 146/78
+official_date: null
+publication_date: '1978-06-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 146/1978, Série I de 1978-06-28
+  number: '146'
+  series: I
+  supplement: null
+  pages: 1143 - 1146
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/06/14600/11431146.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '298273'
+  dre_path: /dr/detalhe/despacho-normativo/146-1978-298273
+  internal: pt:dre:298273:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/146-1978-298273
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/146-1978-298273
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-06-28T00:00:00Z'
+integrity:
+  source_sha256: a35aa740ef46e35c816b25648c82211aa1170953d26eee9d8b76027c1277e9c7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-146-298273.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 146/78
+
+O Governo assumiu o compromisso de apresentar à Assembleia da República, até 15 de Outubro, um relatório definidor das grandes opções a que deve obedecer o Plano de Médio Prazo para 1979-1984.
+
+Não obstante o prazo bastante curto que a orgânica de planeamento dispõe para a elaboração do relatório de fundamentação técnica daquelas opções, há que reconhecer que o processo de preparação poderá ser simplificado, tendo em conta o material e a informação recolhidos e trabalhos para a elaboração das grandes opções para o período de 1977-1980, que não chegaram a ser discutidas pela Assembleia da República.
+
+Por outro lado, pretende-se igualmente estabelecer desde já um processo interactivo entre os órgãos técnicos, entre si e entre estes e o Governo, já que a preparação das grandes opções pressupõe uma permanente orientação política sobre os grandes problemas da economia e da sociedade portuguesa.
+
+Nestes termos, estabelece-se o seguinte programa de trabalhos, que mereceu a concordância da Comissão Técnica Interministerial de Planeamento:
+
+1.º O Departamento Central de Planeamento preparará um relatório preliminar, a submeter a Conselho de Ministros, apontando formas alternativas de defrontar os problemas fundamentais da economia e da sociedade portuguesa até 1984, para que seja estabelecida uma orientação política sobre o prosseguimento dos trabalhos.
+
+2.º São criados, em apoio ao Departamento Central de Planeamento, os grupos de trabalho a seguir indicados, que, numa óptica intersectorial, deverão orientar os seus trabalhos sobretudo para os domínios que pela sua natureza são susceptíveis de produzirem acentuados impactes no padrão de desenvolvimento nacional ou reflectirem intensamente os seus efeitos.
+
+Grupo de trabalho 1 - Recursos humanos, emprego e formação profissional
+
+Mandato:
+
+a) Análise critica das projecções da população até 1990 elaboradas pelo INE, considerando eventualmente hipóteses alternativas quanto à determinante da emigração e crescimento natural;
+
+b) Elaboração de um diagnóstico da situação do mercado de emprego;
+
+c) Formulação de objectivos e estratégias alternativas nos domínios do emprego e produtividade;
+
+d) Consideração de acções complementares para combater certos aspectos do desemprego, considerando a procura do primeiro emprego, especialmente o desemprego juvenil;
+
+e) Elaboração de um diagnóstico da formação profissional e inventariação dos principais problemas;
+
+f) Perspectivas futuras para a formação profissional, visando não só o primeiro emprego mas também a reconversão profissional, enquadradas nos objectivos decorrentes das estratégias de desenvolvimento consideradas e em articulação com o sistema educativo;
+
+g) Apreciação de alguns aspectos das relações e condições de trabalho, designadamente no relativo a regulamentação colectiva, duração de trabalho e despedimento.
+
+O grupo de trabalho será composto por representantes do Departamento Central de Planeamento, do Centro de Estudos de Planeamento, do Instituto Nacional de Estatística, da Junta Nacional de Investigação Científica e Tecnológica e por representantes de cada um dos Gabinetes de Planeamento dos seguintes Ministérios ou Secretarias de Estado:
+
+Agricultura e Pescas;
+
+Indústria e Tecnologia;
+
+Obras Públicas;
+
+Habitação;
+
+Transportes e Comunicações;
+
+Educação;
+
+Saúde
+
+Trabalho;
+
+Emigração;
+
+Comércio Interno;
+
+Turismo.
+
+Grupo de trabalho 2 - Rendimentos e qualidade de vida
+
+Mandato:
+
+a) Caracterização sintética da situação nos domínios dos rendimentos e qualidade de vida, tendo por base a análise dos relatórios elaborados para a preparação do Plano de Médio Prazo 1977-1980 e das informações contidas no Plano de 1978;
+
+b) Identificação e caracterização dos principais problemas e dos factores determinantes da situação existente, tendo designadamente em consideração os aspectos de qualidade de vida numa óptica regional;
+
+c) Fixação de objectivos e formulação de estratégias alternativas a prosseguir no período de 1979-1984;
+
+d) Identificação dos aspectos das condições de vida que deverão ser enquadrados numa perspectiva de longo prazo.
+
+O grupo de trabalho será composto por representantes do Departamento Central de Planeamento e de cada um dos Gabinetes de Planeamento dos seguintes Ministérios ou Secretarias de Estado:
+
+Finanças e do Plano;
+
+Trabalho;
+
+Educação e Cultura;
+
+Habitação e Obras Públicas;
+
+Comércio Interno;
+
+Saúde;
+
+Segurança Social;
+
+Reforma Administrativa;
+
+Transportes e Comunicações.
+
+Grupo de trabalho 3 - Preços
+
+O grupo de trabalho criado por Resolução do Conselho de Ministros n.º 39/78, com o mandato de preparar o projecto do Código de Preços, enquadrar-se-á no âmbito dos trabalhos de preparação do Plano de Médio Prazo no que se refere à definição da política de preços, podendo a sua composição ser ajustada em função do mandato que lhe seja oportunamente fixado.
+
+Grupo de trabalho 4 - Relações económicas externas
+
+Mandato:
+
+a) Análise do enquadramento internacional da economia portuguesa;
+
+b) Revisão crítica da análise de médio prazo das várias componentes da balança de pagamentos, efectuada com vista ao Plano de 1977-1980;
+
+c) Discussão das estratégias globais constantes do relatório preliminar;
+
+d) Identificação dos sectores de importação e exportação, sua estrutura empresarial, canais de ligação ao exterior e principais determinantes dos respectivos custos;
+
+e) Estudo de novas possibilidades de desenvolvimento das exportações, tendo em conta as tendências dos mercados internacionais e nomeadamente as perspectivas da integração europeia;
+
+f) Avaliação das necessidades de importação de bens alimentares em função da possível substituição de importações, a ser levada a efeito nos sectores da agricultura e pescas, e da capacidade de execução das mesmas à luz das condicionantes resultantes do elevado deficit externo existente;
+
+g) Consideração das possibilidades de substituição de importações de bens industriais em ligação com o Grupo de Fomento de Substituição de Importações, tendo presente a perspectiva de integração europeia;
+
+h) Propostas quanto à melhoria da captação de receitas de turismo, remessas dos emigrantes e maior participação das empresas nacionais de transporte no comércio externo português;
+
+i) Participação na elaboração final das estratégias de exportação e substituição de importações.
+
+O grupo de trabalho será composto por representantes do Departamento Central de Planeamento, do Banco de Portugal, do Instituto de Investimento Estrangeiro, da Comissão para a Integração Europeia, do Grupo de Fomento de Substituição de Importações e de cada um dos Gabinetes de Planeamento dos seguintes Ministérios ou Secretarias de Estado:
+
+Comércio Externo;
+
+Comércio Interno;
+
+Turismo;
+
+Indústria e Tecnologia;
+
+Agricultura e Pescas;
+
+Transportes e Comunicações.
+
+Grupo de trabalho 5 - Organização da economia
+
+Mandato:
+
+a) Caracterização do sector empresarial do Estado, sector de propriedade social e sector privado (para o que se utilizarão os trabalhos preparatórios do Plano de 1977-1980, considerando também a evolução mais recente); identificação dos principais problemas característicos destes sectores;
+
+b) Definição de alternativas quanto à forma de articulação e integração de planeamento ao nível das empresas do sector empresarial do Estado com o planeamento a nível sectorial, regional e nacional;
+
+c) Perspectivar a evolução e desenvolvimento dos três sectores no período do Plano e o contributo possível de cada um deles para a realização dos objectivos que vierem a ser definidos, tendo em conta a política de estabilização de 1978;
+
+d) Definição da articulação entre os três sectores e o papel que caberá a cada um deles no Plano, tendo em conta a orientação política do Governo;
+
+e) Definição dos objectivos, estratégias e orientações de política para cada um dos sectores no período do Plano (1979-1984), com especial detalhe para o primeiro triénio (1979-1981);
+
+f) Proceder à identificação e caracterização de projectos ou programas fundamentais a realizar - concluir, prosseguir ou lançar - em cada um dos sectores, tendo em conta a sua importância sectorial ou intersectorial, e avaliar o seu contributo na implementação da estratégia proposta; proceder à avaliação preliminar dos recursos materiais, humanos e financeiros inerentes às propostas elaboradas, nomeadamente daquelas cuja realização esteja prevista para o triénio de 1979-1981.
+
+O grupo de trabalho será composto por representantes do Departamento Central de Planeamento, do Instituto das Participações do Estado, do INSCOOP, do IAPMEI, do Instituto Nacional de Empresas em Autogestão e de cada um dos Gabinetes de Planeamento dos seguintes Ministérios ou Secretarias de Estado:
+
+Finanças e do Plano;
+
+Indústria e Tecnologia;
+
+Agricultura;
+
+Pescas;
+
+Transportes e Comunicações;
+
+Habitação;
+
+Obras Públicas;
+
+Comércio Interno;
+
+Turismo;
+
+Trabalho.
+
+Grupo de trabalho 6 - Desenvolvimento regional
+
+Mandato:
+
+a) Apreciar o relatório preliminar apresentado ao Governo, nomeadamente nos seus aspectos regionais;
+
+b) Analisar, na óptica de longo prazo, os principais problemas regionais e definir as perspectivas e condicionantes sectoriais ao desenvolvimento regional, no quadro das orientações estabelecidas pelo Governo, face ao relatório preliminar;
+
+c) Formular as perspectivas gerais de enquadramento que servirão de base a um documento sobre objectivos, estratégias e medidas de política regional a elaborar pelo DCP na perspectiva da regionalização do Plano;
+
+d) Referenciar e apreciar os projectos de investimento que, pela sua dimensão e efeitos, sejam susceptíveis de provocarem acentuados impactes regionais.
+
+O grupo de trabalho será composto por representantes do Departamento Central de Planeamento, do Centro de Estudos de Planeamento, da Direcção-Geral da Acção Regional e Local e de cada um dos Gabinetes de Planeamento dos seguintes Ministérios ou Secretarias de Estado:
+
+Agricultura e Pescas;
+
+Indústria e Tecnologia;
+
+Transportes e Comunicações;
+
+Comércio Interno;
+
+Turismo;
+
+Educação e Cultura;
+
+Saúde;
+
+Segurança Social;
+
+Obras Públicas;
+
+Habitação, Urbanismo e Ambiente;
+
+Trabalho.
+
+Grupo de trabalho 7 - Financiamento da economia
+
+Mandato:
+
+a) Determinar as potencialidades e necessidades da economia para o período de 1979-1984, repartidas pelos principais agentes económicos e pelos principais sectores de actividade;
+
+b) Estabelecer um quadro prospectivo, para o período do Plano, das receitas e despesas da Administração Pública, incluindo a segurança social, considerando, nomeadamente, hipóteses alternativas de alteração da estrutura fiscal;
+
+c) Propor as linhas gerais de política de crédito aos sectores privado e cooperativo, tendo em conta as prioridades sectoriais e regionais;
+
+d) Proceder a uma avaliação da política de incentivos fiscais e financeiros que venha a ser redefinida à luz das novas orientações sobre esta matéria;
+
+e) Analisar os aspectos institucionais do sistema financeiro;
+
+f) Projectar o montante e modalidades de financiamento externo em função dos deficits previsíveis.
+
+O grupo de trabalho será composto por representantes do Departamento Central de Planeamento, do Banco de Portugal, da Caixa Geral de Depósitos, do Banco de Fomento Nacional, do Instituto do Investimento Estrangeiro, do Instituto das Participações do Estado, da Comissão Coordenadora do Financiamento das Empresas do Sector Empresarial do Estado, do Gabinete de Planeamento do Ministério das Finanças e do Plano e da Secretaria de Estado da Segurança Social.
+
+3.º Sem prejuízo do que oportunamente vier a ser determinado sobre o prosseguimento dos trabalhos cometidos aos grupos referidos no número anterior, para a preparação do Plano de Médio Prazo, fixa-se a data de 31 de Julho para termo da sua primeira intervenção relativamente à fundamentação das grandes opções. Devem, por isso, proceder inicialmente à detecção dos principais problemas e estrangulamentos verificados em cada domínio e, até 30 de Junho, já no quadro de uma orientação política definida, desenvolver os aspectos específicos constantes do respectivo mandato, por forma que seja possível, no decurso do mês de Julho, realizar a integração das contribuições sectoriais - a cargo dos departamentos sectoriais de planeamento e dos grupos de trabalho.
+
+4.º Ficam os coordenadores que vierem a ser nomeados para cada grupo de trabalho autorizados a, para melhor cumprimento das tarefas que lhes estão cometidas, solicitar a colaboração de outras entidades, públicas e privadas, e bem assim, sempre que conveniente, chamar a participar em reuniões de trabalho representantes de entidades patronais, sindicais ou de organismos cooperativos e ainda especialistas de reconhecida idoneidade e competência para emitirem pareceres sobre questões abrangidas pelo âmbito de cada grupo de trabalho.
+
+Secretaria de Estado do Planeamento, 15 de Maio de 1978. - O Secretário de Estado do Planeamento, José Manuel Gonçalves Serrão.

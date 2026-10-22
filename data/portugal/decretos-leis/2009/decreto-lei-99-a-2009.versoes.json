@@ -1,0 +1,271 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:409884:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-167902774",
+ "dre_path": "/dr/detalhe/decreto-lei/99-a-2009-409884",
+ "source_lastmod": "2025-02-03",
+ "versions": [
+  {
+   "date": "2009-04-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "167906738",
+    "167906739",
+    "167906740",
+    "167906741",
+    "167906742",
+    "167906743",
+    "167906744",
+    "167906745",
+    "167906746",
+    "167906747",
+    "167906748",
+    "167906749",
+    "167906750",
+    "167906751",
+    "167906752",
+    "167906753",
+    "167906754",
+    "167906755",
+    "167906756",
+    "167906757",
+    "167906758",
+    "167906759",
+    "167906760",
+    "167906761",
+    "167906762",
+    "167906763",
+    "167906764",
+    "167906765"
+   ]
+  }
+ ],
+ "fragments": {
+  "167906738": {
+   "fragment_id": "167907075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 99-A/2009\n\nde 29 de Abril\n\nO Parque Natural da Ria Formosa, com uma área aproximada de 18 000 ha e cujo território se estende ao longo de uma faixa de 57 km de extensão no litoral algarvio, foi criado pelo Decreto-Lei n.º 373/87, de 9 de Dezembro, com o objectivo de preservar a fauna e flora específicas da região, com especial relevo para as aves migratórias e os respectivos habitats, e promover um uso ordenado do território e dos seus recursos naturais, assegurando a continuidade dos processos evolutivos e promovendo o desenvolvimento económico, social e cultural da população residente de forma compatível com os valores naturais e culturais existentes na área.\n\nPosteriormente à criação legal da referida área protegida e à sua consequente integração na Rede Nacional de Áreas Protegidas, uma parte do território do Parque Natural da Ria Formosa passou igualmente a estar classificada no âmbito da Rede Natura 2000.\n\nCom efeito, a Resolução do Conselho de Ministros n.º 142/97, de 28 de Agosto, que aprovou a lista nacional de sítios (1.ª fase), integrava, entre outros, o sítio PTCON0013 - Ria Formosa/Castro Marim, tendo em conta as espécies da fauna e da flora que aí ocorrem, para além de alguns habitats naturais constantes do anexo i da Directiva n.º <a href=\"eurlex.asp?ano=1992&id=392L0043\" title=\"Link para Directiva da Comunidade Europeia\">92/43/CEE</a>, do Conselho, de 21 de Maio (vulgarmente designada por directiva habitats), enquanto que, através do Decreto-Lei n.º 384-B/99, de 23 de Setembro, foi criada a zona de protecção especial da ria Formosa (PTZPE0017), para a conservação das aves e dos seus habitats.\n\nConsiderando que os trabalhos de elaboração do Plano Sectorial da Rede Natura 2000, aprovado pela Resolução do Conselho de Ministros n.º 115-A/2008, de 21 de Julho, assim como os estudos científicos de caracterização efectuados no âmbito do processo de revisão do Plano de Ordenamento do Parque Natural da Ria Formosa, determinada pela Resolução do Conselho de Ministros n.º 37/2001, de 3 de Abril, revelaram a ocorrência de valores naturais relevantes na área terrestre envolvente do sistema lagunar da ria Formosa, tais como o habitat prioritário 3170* charcos temporários mediterrânicos, as espécies florísticas Tuberaria major e Thymus lotocephalus e ainda as espécies faunísticas Emys orbicularis, Mauremys leprosa e Chalcides bedriagai, incluídos nos anexos i, ii e iv da directiva habitats, verifica-se a necessidade de garantir um estatuto de protecção adequado à manutenção do seu estado de conservação favorável.\n\nDado que a actual definição de duas zonas distintas enquadradas no Parque Natural da Ria Formosa se afigura tributária do facto desta área protegida ter sido inicialmente criada como uma reserva natural através do Decreto n.º 45/78, de 2 de Maio, a qual foi posteriormente ampliada e reclassificada, impõe-se proceder à clarificação do carácter único do seu estatuto de protecção.\n\nFace ao exposto, impõe-se proceder à alteração do Decreto-Lei n.º 373/87, de 9 de Dezembro, clarificando o âmbito territorial do Parque Natural da Ria Formosa sem que daí resulte qualquer aumento ou redução da área inicialmente fixada para a área protegida em causa.\n\nParalelamente, no âmbito da alteração do Decreto-Lei n.º 373/87, de 9 de Dezembro, são modificadas algumas das suas normas tendo em vista a sua actualização face às alterações normativas entretanto ocorridas, como sejam a reestruturação e a redenominação decorrentes do Decreto-Lei n.º 136/2007, de 27 de Abril, que aprovou a orgânica do Instituto da Conservação da Natureza e da Biodiversidade, I. P., sendo ainda revogadas disposições que se afiguram desajustadas, quer quanto ao estatuído no regime jurídico da conservação da natureza e da biodiversidade, aprovado pelo Decreto-Lei n.º 142/2008, de 24 de Julho, quer quanto ao modelo e às opções de gestão compatíveis com a utilização sustentável do território, matéria que se inscreve no conteúdo material dos planos especiais de ordenamento do território e que por essa razão deve ser consagrada no Plano de Ordenamento do Parque Natural da Ria Formosa.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "167906739": {
+   "fragment_id": "167907076",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração ao Decreto-Lei n.º 373/87, de 9 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao Decreto-Lei n.º 373/87, de 9 de Dezembro\n\nOs artigos 1.º, 2.º, 3.º, 12.º, 14.º e 26.º do Decreto-Lei n.º 373/87, de 9 de Dezembro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - O Parque rege-se pelas disposições do presente decreto-lei, pelo respectivo plano de ordenamento e, subsidiariamente, pelo regime jurídico da conservação da natureza e da biodiversidade e demais legislação aplicável em razão da matéria.\n\nArtigo 2.º\n\n[...]\n\nA criação do Parque tem por fim:\n\na) A preservação, conservação e defesa do sistema lagunar da ria Formosa e da área terrestre envolvente que contém valores naturais e paisagísticos relevantes ou excepcionais;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nArtigo 3.º\n\nLimites\n\n1 - A descrição e a cartografia dos limites do Parque constam, respectivamente, dos anexos i e ii ao presente decreto-lei, do qual fazem parte integrante.\n\n2 - Os limites do Parque junto ao mar vão até à linha de costa, ficando contidas na sua área as barreiras arenosas, com as respectivas dunas e praias, áreas intertidais, incluindo as permanentemente emersas devido às acções de drenagem e áreas aquáticas e ribeirinhas dos cursos de água que desaguam na ria.\n\n3 - O original da carta mencionada no número anterior, à escala de 1:25 000, fica arquivado no Instituto da Conservação da Natureza e da Biodiversidade, I. P. (ICNB, I. P.).\n\nArtigo 12.º\n\nExpropriação\n\n1 - Os bens imóveis na área do Parque e os direitos a eles inerentes podem ser objecto de expropriação a efectuar pelo ICNB, I. P., nos termos definidos no Código das Expropriações.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\nArtigo 14.º\n\nDireito de preferência\n\n1 - O ICNB, I. P., goza do direito de preferência nas alienações, a título oneroso, de quaisquer bens imóveis que se situem na área do Parque.\n\n2 - ...\n\n3 - ...\n\nArtigo 26.º\n\nPlano de Ordenamento\n\n1 - O Parque dispõe obrigatoriamente de um plano de ordenamento, que estabelece o regime de salvaguarda de recursos e valores naturais e o regime de gestão compatível com a utilização sustentável do território.\n\n2 - O Plano de Ordenamento do Parque pode prever áreas de protecção total que devem ser mantidas no seu estado natural e em que seja condicionada a presença e a intervenção humana.\n\n3 - (Revogado.)»"
+  },
+  "167906740": {
+   "fragment_id": "167907077",
+   "type": 11,
+   "heading": "Artigo 2.º — Aditamento ao Decreto-Lei n.º 373/87, de 9 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aditamento ao Decreto-Lei n.º 373/87, de 9 de Dezembro\n\n1 - Os anexos i e ii do presente decreto-lei são aditados ao Decreto-Lei n.º 373/87, de 9 de Dezembro, como anexos i e ii, respectivamente, do qual fazem parte integrante.\n\n2 - São aditados os artigos 3.º-A, 3.º-B e 3.º-C ao Decreto-Lei n.º 373/87, de 9 de Dezembro, com a seguinte redacção:\n\n«Artigo 3.º-A\n\nGestão\n\nO Parque é gerido pelo ICNB, I. P.\n\nArtigo 3.º-B\n\nPlano de gestão\n\nO ICNB, I. P., pode adoptar um plano de gestão para o Parque ou planos específicos de acção para a conservação e recuperação de espécies e habitats, nos termos do n.º 2 do artigo 9.º do regime jurídico da conservação da natureza e da biodiversidade.\n\nArtigo 3.º-C\n\nRecursos financeiros, materiais e humanos\n\nOs recursos financeiros, materiais e humanos para a gestão do Parque são assegurados pelo ICNB, I. P.»"
+  },
+  "167906741": {
+   "fragment_id": "167907078",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\n1 - São revogados os artigos 4.º a 11.º, 13.º e 15.º a 25.º, os n.os 2 e 3 do artigo 12.º e o n.º 3 do artigo 26.º do Decreto-Lei n.º 373/87, de 9 de Dezembro.\n\n2 - É revogado o mapa anexo ao Decreto-Lei n.º 373/87, de 9 de Dezembro."
+  },
+  "167906742": {
+   "fragment_id": "167907079",
+   "type": 11,
+   "heading": "Artigo 4.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Republicação\n\nÉ republicado, no anexo iii ao presente decreto-lei, do qual faz parte integrante, o Decreto-Lei n.º 373/87, de 9 de Dezembro, com a redacção actual."
+  },
+  "167906743": {
+   "fragment_id": "167907080",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "167906744": {
+   "fragment_id": "167907081",
+   "type": 11,
+   "heading": "Artigo 6.º — Mapas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mapas\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906745": {
+   "fragment_id": "167907082",
+   "type": 11,
+   "heading": "Artigo 7.º — Actividades interditas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Actividades interditas\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906746": {
+   "fragment_id": "167907083",
+   "type": 11,
+   "heading": "Artigo 8.º — Actividades condicionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Actividades condicionadas\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906747": {
+   "fragment_id": "167907084",
+   "type": 11,
+   "heading": "Artigo 9.º — Licenciamento: âmbito e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Licenciamento: âmbito e regime\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906748": {
+   "fragment_id": "167907085",
+   "type": 11,
+   "heading": "Artigo 10.º — Estudos de impacte ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estudos de impacte ambiental\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906749": {
+   "fragment_id": "167907086",
+   "type": 11,
+   "heading": "Artigo 11.º — Taxas de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Taxas de licenciamento\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906750": {
+   "fragment_id": "167907087",
+   "type": 11,
+   "heading": "Artigo 12.º — Expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Expropriação\n\n1 - Os bens imóveis na área do Parque e os direitos a eles inerentes podem ser objecto de expropriação a efectuar pelo ICNB, I. P., nos termos definidos no Código das Expropriações.\n\n2 - (Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)\n\n3 - (Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906751": {
+   "fragment_id": "167907088",
+   "type": 11,
+   "heading": "Artigo 13.º — Bens do património do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Bens do património do Estado\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906752": {
+   "fragment_id": "167907089",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direito de preferência\n\n1 - O ICNB, I. P., goza do direito de preferência nas alienações, a título oneroso, de quaisquer bens imóveis que se situem na área do Parque.\n\n2 - O direito de preferência referido no número anterior tem o conteúdo e alcance previstos no artigo 28.º do Decreto-Lei n.º 794/76, de 5 de Novembro, e regula-se pelas normas do Decreto Regulamentar n.º 862/76, de 22 de Dezembro.\n\n3 - Os transmitentes deverão efectuar a comunicação a que se refere o artigo 3.º do Decreto Regulamentar n.º 862/76, podendo o titular do direito de preferência exercê-lo a todo o tempo, nos termos previstos no mesmo diploma legal."
+  },
+  "167906753": {
+   "fragment_id": "167907090",
+   "type": 11,
+   "heading": "Artigo 15.º — Exploração de projectos de actividades; comparticipação do SNPRCN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Exploração de projectos de actividades; comparticipação do SNPRCN\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906754": {
+   "fragment_id": "167907091",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução de obras: competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução de obras: competência\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906755": {
+   "fragment_id": "167907092",
+   "type": 11,
+   "heading": "Artigo 17.º — Administração do Parque: princípios e órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Administração do Parque: princípios e órgãos\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906756": {
+   "fragment_id": "167907093",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência para a fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência para a fiscalização\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906757": {
+   "fragment_id": "167907094",
+   "type": 11,
+   "heading": "Artigo 19.º — Contra-ordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contra-ordenações e coimas\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906758": {
+   "fragment_id": "167907095",
+   "type": 11,
+   "heading": "Artigo 20.º — Regra de competência das autoridades administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regra de competência das autoridades administrativas\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906759": {
+   "fragment_id": "167907096",
+   "type": 11,
+   "heading": "Artigo 21.º — Obrigação de reposição da situação anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Obrigação de reposição da situação anterior\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906760": {
+   "fragment_id": "167907097",
+   "type": 11,
+   "heading": "Artigo 22.º — Cobrança: execução fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Cobrança: execução fiscal\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906761": {
+   "fragment_id": "167907098",
+   "type": 11,
+   "heading": "Artigo 23.º — Impossibilidade de reposição da situação anterior Indemnização ao Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Impossibilidade de reposição da situação anterior Indemnização ao Estado\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906762": {
+   "fragment_id": "167907099",
+   "type": 11,
+   "heading": "Artigo 24.º — Distribuição do produto das coimas e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Distribuição do produto das coimas e sanções\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906763": {
+   "fragment_id": "167907100",
+   "type": 11,
+   "heading": "Artigo 25.º — Renaturalizações e cessação ou adaptação de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Renaturalizações e cessação ou adaptação de actividades\n\n(Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906764": {
+   "fragment_id": "167907101",
+   "type": 11,
+   "heading": "Artigo 26.º — Plano de ordenamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Plano de ordenamento\n\n1 - O Parque dispõe obrigatoriamente de um plano de ordenamento, que estabelece o regime de salvaguarda de recursos e valores naturais e o regime de gestão compatível com a utilização sustentável do território.\n\n2 - O Plano de Ordenamento do Parque pode prever áreas de protecção total que devem ser mantidas no seu estado natural e em que seja condicionada a presença e a intervenção humana.\n\n3 - (Revogado pelo Decreto-Lei n.º 99-A/2009, de 29 de Abril.)"
+  },
+  "167906765": {
+   "fragment_id": "167907102",
+   "type": 11,
+   "heading": "Artigo 27.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Legislação revogada\n\nFica revogado o Decreto n.º 45/78, de 2 de Maio, e demais disposições legais que contrariem o disposto no presente diploma."
+  }
+ }
+}

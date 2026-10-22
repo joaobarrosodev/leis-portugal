@@ -1,0 +1,311 @@
+---
+schema_version: '1.0'
+id: pt:dre:454838:por
+title: Decreto n.º 22/2008
+short_title: null
+summary: Aprova o Acordo entre a República Portuguesa e a República da Eslováquia de Cooperação Científica e Tecnológica,
+  assinado em Lisboa em 17 de Fevereiro de 2003
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 22/2008
+official_date: null
+publication_date: '2008-07-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 146/2008, Série I de 2008-07-30
+  number: '146'
+  series: I
+  supplement: null
+  pages: 5113 - 5117
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/22/2008/07/30/p/dre/pt/html
+  oj: null
+  dre: '454838'
+  dre_path: /dr/detalhe/decreto/22-2008-454838
+  internal: pt:dre:454838:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-2008-454838
+  metadata_url: https://data.dre.pt/eli/dec/22/2008/07/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-2008-454838
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-07-30T00:00:00Z'
+integrity:
+  source_sha256: 883a41f1b866838b8068f98ace668d46d49bd5dbb28d2cb9558c62555bcfa02c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-22-454838.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Portugal
+- Lisboa
+- Cooperação Tecnológica
+- Cooperação Científica
+relationships: []
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 22/2008
+
+de 30 de Julho
+
+Tendo como objectivo desenvolver a cooperação nos domínios científico e tecnológico entre a República Portuguesa e a República Eslovaca, no sentido de fortalecer as relações de amizade entre os dois países;
+
+Considerando a importância do aprofundamento da cooperação nestes domínios para o desenvolvimento das economias de ambos os Estados;
+
+Atendendo à necessidade da existência de um enquadramento jurídico actualizado que possibilite dar resposta às exigências actuais em matéria de cooperação científica e tecnológica, através, entre outros, da realização de projectos conjuntos, do fomento da mobilidade de investigadores, cientistas e peritos;
+
+Tendo como objectivo apoiar o desenvolvimento da cooperação bilateral nas áreas da ciência e da tecnologia, a qual basear-se-á, sobretudo, no intercâmbio de informação e documentação, na realização de conferências, simpósios e seminários, bem como de projectos conjuntos de investigação e desenvolvimento;
+
+Assim:
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o Acordo entre a República Portuguesa e a República Eslovaca de Cooperação Científica e Tecnológica, assinado em Lisboa, em 17 de Fevereiro de 2003, cujo texto, nas versões autenticadas nas línguas portuguesa, eslovaca e inglesa, se publica em anexo.
+
+Visto e aprovado em Conselho de Ministros de 19 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - José Mariano Rebelo Pires Gago.
+
+**Assinado em 16 de Julho de 2008.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 18 de Julho de 2008.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ESLOVACA DE COOPERAÇÃO CIENTÍFICA E TECNOLÓGICA
+
+A República Portuguesa e a República Eslovaca (de aqui em diante designadas «As Partes»), desejando fortalecer relações de amizade entre os dois países e promover o desenvolvimento da cooperação nos domínios da ciência e tecnologia;
+
+Reconhecendo a importância da ciência e da tecnologia para o desenvolvimento das economias nacionais de ambos os países:
+
+Acordaram o seguinte:
+
+###### Artigo 1.º
+
+As Partes promoverão, guiadas pelos termos deste Acordo e obedecendo às suas respectivas leis e regulamentos, a cooperação no domínio da ciência e tecnologia entre os dois países, na base da igualdade e do benefício mútuo.
+
+###### Artigo 2.º
+
+As entidades responsáveis pela aplicação das disposições do presente Acordo são o Ministério da Ciência e do Ensino Superior da República Portuguesa e o Ministério da Educação da República Eslovaca (de aqui em diante designados «Entidades Responsáveis»), que poderão delegar em diversos serviços ou agências as capacidades executivas para dar cumprimento ao presente Acordo.
+
+###### Artigo 3.º
+
+Nos termos deste Acordo, a cooperação no domínio da ciência e tecnologia deverá incluir:
+
+a) Projectos científicos e tecnológicos conjuntos, em áreas mutuamente acordadas;
+
+b) Intercâmbio de cientistas, peritos, investigadores e professores;
+
+c) Troca de informação científica e tecnológica, assim como de documentação, amostras laboratoriais e equipamento, no âmbito das actividades de cooperação;
+
+d) Conferências, simpósios e grupos de trabalho conjuntos e outros encontros e exposições;
+
+e) Quaisquer outras formas de cooperação que mereçam o acordo mútuo das Partes.
+
+###### Artigo 4.º
+
+1 - Para garantir as melhores condições na prossecução deste Acordo, as Entidades Responsáveis nomearão uma comissão mista para a cooperação científica e tecnológica (daqui em diante designada «Comissão Mista»), que será constituída por um número igual de representantes (de cada País).
+
+2 - A Comissão Mista reunirá a cada dois anos, ou quando uma das Entidades Responsáveis o solicitar, alternativamente na República Eslovaca ou na República Portuguesa, em datas mutuamente acordadas.
+
+3 - A Comissão Mista poderá definir o seu regulamento interno e propor a formação de grupos de trabalho em assuntos científicos.
+
+###### Artigo 5.º
+
+A Comissão Mista terá as seguintes funções:
+
+a) Promover o desenvolvimento de projectos e programas conjuntos;
+
+b) Avaliar o progresso das actividades de cooperação realizadas no âmbito deste Acordo;
+
+c) Definir as áreas e programas de cooperação a desenvolver no âmbito deste Acordo;
+
+d) Apreciar quaisquer outros assuntos relacionados com este Acordo.
+
+###### Artigo 6.º
+
+1 - As Partes suportarão as despesas decorrentes das actividades de cooperação desenvolvidas à luz deste Acordo na base do princípio da igualdade e reciprocidade e da disponibilidade de meios financeiros e em respeito pelas leis e regulamentos nacionais.
+
+2 - Os custos inerentes ao intercâmbio de cientistas, investigadores, pessoal técnico, peritos e outros especialistas realizados no âmbito deste Acordo serão cobertos na seguinte forma:
+
+a) A Parte Visitante financiará os custos das viagens internacionais;
+
+b) A Parte Anfitriã financiará, no seu território, os custos diários de alojamento e transportes necessários à prossecução dos programas e projectos.
+
+###### Artigo 7.º
+
+Os direitos de propriedade intelectual emergentes do desenvolvimento das actividades de cooperação previstas neste Acordo serão regulados por actividades acordadas entre as organizações cooperantes. A protecção da propriedade intelectual estará sujeita aos acordos internacionais relativos à lei de propriedade intelectual de que tanto a República Portuguesa como a República Eslovaca sejam signatários, assim como estará sujeita às leis nacionais vigentes.
+
+###### Artigo 8.º
+
+Poderão ser convidados a participar, por mútuo consentimento das instituições cooperantes, nos programas e projectos desenvolvidos no âmbito deste Acordo, cientistas, peritos e instituições de países terceiros. Os custos de tais participações serão suportados pelas instituições terceiras interessadas em participar, a menos que as Entidades Responsáveis decidam, por escrito e de mútuo acordo, de forma diferente.
+
+###### Artigo 9.º
+
+1 - Este Acordo poderá ser revisto ou corrigido por mútuo consentimento e por escrito. Qualquer revisão ou resolução do Acordo será efectiva sem prejuízo de qualquer direito ou obrigação, contemplados ou decorrentes deste Acordo, que tenham sido constituídos em data anterior a tal revisão ou resolução.
+
+2 - Quaisquer dúvidas ou litígios quanto à interpretação ou prossecução deste Acordo serão resolvidos por consultas mútuas entre a Comissão Conjunta e as Entidades Responsáveis.
+
+###### Artigo 10.º
+
+Nada neste Acordo restringirá direitos ou obrigações das Partes emergentes de outros acordos bilaterais ou multilaterais de que sejam signatários.
+
+###### Artigo 11.º
+
+1 - Este Acordo entrará em vigor 90 dias após a troca de notas diplomáticas que confirmem terem as Partes completado os trâmites jurídicos internos necessários à entrada em vigor deste Acordo.
+
+2 - Este Acordo será válido por um período de cinco anos, renovado automaticamente por iguais e sucessivos períodos, a menos que uma das Partes notifique, por escrito e com a antecedência de seis meses, a sua vontade de denunciar este Acordo.
+
+3 - A cessação deste Acordo não afectará os projectos promovidos nos termos deste Acordo e que, à data dessa denúncia, não tenham ainda sido concluídos.
+
+Feito aos 17 do mês de Fevereiro de 2003 nas línguas portuguesa, eslovaca e inglesa, em duas cópias de cada, sendo os seus textos igualmente autênticos. No caso de divergência de interpretação prevalecerá o texto inglês.
+
+Pela República Portuguesa,
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf)
+
+Pela República Eslovaca,
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf)
+
+DOHODA MEDZI SLOVENSKOU REPUBLIKOU A PORTUGALSKOU REPUBLIKOU O VEDECKO-TECHNICKEJ SPOLUPRÁCI
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf)
+
+AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE SLOVAK REPUBLIC ON SCIENTIFIC AND TECHNOLOGICAL COOPERATION.
+
+The Portuguese Republic and the Slovak Republic (hereinafter referred to as «the Parties»), desirous of strengthening friendly relationships between the two countries and promoting the development of co-operation in science technology;
+
+Recognizing the importance of science and technology for the development of the national economies of both countries;
+
+Have agreed as follows:
+
+Article 1
+
+The Parties shall promote, in accordance with this Agreement and their respective laws and regulations, the co-operation in the field of science and technology between the two countries on the basis of equality and mutual benefit.
+
+Article 2
+
+The responsible bodies implementation of the provisions of the present Agreement are the Ministry for Science and Higher Education of the Portuguese Republic and the Ministry of Education of the Slovak Republic (hereinafter referred to as"responsible bodies"), which may confer to particular Services or Agencies the executive capacities to carry on the present Agreement.
+
+Article 3
+
+Under this Agreement, co-operation in the field of science and technology shall comprise:
+
+a) Joint scientific and technological projects in mutually agreed areas;
+
+b) Exchange of scientists, experts, researchers, university professors and experts;
+
+c) Exchange of scientific and technological information, documentation, as well as laboratory samples and equipment in the context of co-operative activities;
+
+d) Joint scientific conferences, symposia, workshops, other meetings and exhibitions;
+
+e) Any other forms of co-operation which can be mutually agreed upon by the Parties.
+
+Article 4
+
+1 - In order to ensure optimum conditions for the application of this Agreement, the responsible bodies shall establish a Joint Commission for Scientific and Technological Co-operation (hereinafter referred to as «Joint Commission»), consisting of an equal number of representatives of the Parties.
+
+2 - Joint Commission shall meet every two years, or at the request of either responsible body, alternately in the Slovak Republic and in the Portuguese Republic on mutually convenient dates.
+
+3 - The Joint Commission may define its internal regulations and propose the creation of working groups on scientific themes.
+
+Article 5
+
+The tasks of the Joint Commission shall be:
+
+a) Support the implementation of joint projects and programmes,
+
+b) Review the progress in co-operative activities under the Agreement,
+
+c) Define the areas and programmes of co-operation under this Agreement,
+
+d) Discuss on any other matters related to this Agreement.
+
+Article 6
+
+1 - The Parties shall bear the expenses incurred in connection with the co-operative activities under this Agreement on the basis of the principle of equality and reciprocity and the availability of financing resources in accordance with national laws and regulations.
+
+2 - The costs of the exchange of scientists, researchers, technical personnel, experts and other specialists, resulting from the present Agreement, will be covered on the following basis:
+
+a) The Sending Party shall cover the costs of international travel;
+
+b) The Receiving Party shall cover within its state the costs of lodging, per diem, and local transportation necessary to carry out programmes and projects.
+
+Article 7
+
+The intellectual property rights arising, from the co-operative activities under this Agreement shall be regulated by implementing arrangements between the co-operating organizations. Intellectual property protection shall be subject to the international agreements on intellectual property law, to which both the Portuguese Republic and the Slovak Republic are parties, as well as subject to national laws in force.
+
+Article 8
+
+Scientists, experts and institutions of third countries or international organizations may be invited, upon consent of the co-operating institutions, to participate in projects and programmes carried out under this Agreement. The cost of such participation shall be covered by the interested institutions of a third party unless the Bodies otherwise agree in writing.
+
+Article 9
+
+1 - This Agreement may be revised or amended by mutual consent, by written procedure. Any revision or of this Agreement shall be effected without prejudice to any right or obligation according or incurred this Agreement prior to the effective date of such revision or termination.
+
+2 - Any disputes concerning the interpretation or implementation of this Agreement shall be settled through consultations within the Joint Commission or by the Executive Bodies.
+
+Article 10
+
+Nothing in this Agreement shall affect the rights and obligations of the Parties arising from their other bilateral and multilateral agreements.
+
+Article 11
+
+1 - This Agreement shall enter into force ninety days upon an exchange of diplomatic notes confirming that the Parties have completed their legal internal procedures required for the entry into force of this Agreement.
+
+2 - This Agreement shall remain in force for a period of five years and shall continue to remain in force thereafter, for successive periods of five years unless one of the Party gives notice in writing, at least six months in advance, of its intentions to terminate this Agreement.
+
+3 - The termination of this Agreement shall not affect the projects undertaken under this Agreement and not fully executed at the time of the termination of this Agreement.
+
+Done in Lisbon on 17th February 2003, in the Portuguese, Slovak and English languages, in two copies each, all text being equally authentic. In case of any divergence in interpretation, the English text shall prevail.
+
+For the Portuguese Republic,
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf)
+
+For The Slovak Republic
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14600/0511305117.pdf)

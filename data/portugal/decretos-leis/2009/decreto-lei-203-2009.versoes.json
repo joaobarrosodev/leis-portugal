@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:488484:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-114472761",
+ "dre_path": "/dr/detalhe/decreto-lei/203-2009-488484",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114484983",
+    "114484984",
+    "114484985",
+    "114484986",
+    "114484987"
+   ]
+  },
+  {
+   "date": "2011-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144217:por",
+     "title": "Decreto-Lei n.º 29-A/2011",
+     "published": "2011-03-01",
+     "dre_path": "/dr/detalhe/decreto-lei/29-a-2011-144217"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "114484983",
+    "114484984",
+    "114484985",
+    "114484990",
+    "114484987",
+    "114484988"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "114484983",
+    "114484984",
+    "114484991",
+    "114484992",
+    "114484987",
+    "114484988"
+   ]
+  }
+ ],
+ "fragments": {
+  "114484983": {
+   "fragment_id": "114472762",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 203/2009\n\nde 31 de Agosto\n\nAtravés do Decreto-Lei n.º 186/2008, de 19 de Setembro, foi criado o passe escolar, designado 4_18@escola.tp, uma medida destinada a todas as crianças e jovens estudantes dos 4 aos 18 anos, garantindo-se uma redução do preço do título de transporte, a qual corresponde a um desconto de 50 % no uso regular do transporte público nas deslocações casa-escola, a deduzir do valor de tarifa inteira relativa aos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\nTendo em conta as dificuldades financeiras originadas pela crise económica internacional, torna-se necessário um esforço adicional por parte do Estado no sentido de apoiar as famílias portuguesas, reforçando os apoios sociais aos estudantes do ensino superior que o Governo tem vindo a adoptar, de modo a proporcionar a todos os estudantes até aos 23 anos de idade melhores condições de frequência do ensino superior.\n\nNeste sentido, é criado um novo passe para os transportes públicos: o passe sub23@superior.tp.\n\nEsta medida destina-se a garantir a todos os estudantes que frequentem o ensino superior, qualquer que seja a instituição pública ou privada, até aos 23 anos de idade as mesmas condições de que beneficiam os jovens entre os 4 e os 18 anos abrangidos pelo passe escolar, mas no percurso entre casa e o estabelecimento de ensino superior.\n\nDeste modo, cumpre-se um duplo objectivo: apoiar as famílias em despesas essenciais, por um lado, e incentivar o uso do transporte colectivo, por outro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114484984": {
+   "fragment_id": "114472763",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei cria um título de transporte destinado a todos os estudantes do ensino superior, o qual é designado por passe sub23@superior.tp."
+  },
+  "114484985": {
+   "fragment_id": "114472764",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O passe sub23@superior.tp abrange os estudantes do ensino superior até aos 23 anos, inclusive.\n\n2 - O passe sub23@superior.tp é aplicável aos serviços de transporte colectivo de passageiros autorizados ou concessionados pelos organismos da administração central, bem como aos serviços de transporte de iniciativa dos municípios, se estes vierem a aderir ao sistema passe sub23@superior.tp."
+  },
+  "114484986": {
+   "fragment_id": "114472765",
+   "type": 11,
+   "heading": "Artigo 3.º — Passe sub23@superior.tp",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Passe sub23@superior.tp\n\n1 - Os estudantes do ensino superior até aos 23 anos, inclusive, beneficiam de redução do preço do título de transporte, a qual corresponde a um desconto de 50 % a deduzir do valor da tarifa inteira relativa aos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha, correspondentes ao percurso entre a sua casa e o estabelecimento de ensino superior.\n\n2 - Compete a cada estabelecimento de ensino superior a emissão de declaração comprovativa de inscrição no ensino superior, segundo modelo a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, dos transportes, do ensino superior e da administração local.\n\n3 - As condições de atribuição do desconto a que se refere o n.º 1, bem como as relativas à operacionalização do sistema passe sub23@superior.tp, são definidas pela portaria referida no número anterior.\n\n4 - As compensações financeiras a atribuir aos operadores de transporte em razão da obrigação tarifária decorrente da implementação do passe sub23@superior.tp são estabelecidas em termos a acordar entre o Governo e as empresas de transporte.\n\n> Nota: [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217) As alterações introduzidas aplicam -se à aquisição de títulos de transportes respeitantes ao mês seguinte ao da sua publicação"
+  },
+  "114484987": {
+   "fragment_id": "114472766",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nO presente decreto-lei produz os seus efeitos em 1 de Setembro de 2009."
+  },
+  "114484990": {
+   "fragment_id": "114472765",
+   "type": 11,
+   "heading": "Artigo 3.º — Passe sub23@superior.tp",
+   "in_force_from": "2011-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Passe sub23@superior.tp\n\n1 - Os estudantes do ensino superior até aos 23 anos, inclusive, beneficiam de uma redução do preço do título de transporte a deduzir do valor da tarifa inteira relativa aos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\n2 - Compete a cada estabelecimento de ensino superior a emissão de declaração comprovativa de inscrição no ensino superior, segundo modelo a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, dos transportes, do ensino superior e da administração local.\n\n3 - O desconto e as condições de atribuição do mesmo, a que se refere o n.º 1, bem como as relativas à operacionalização do sistema do passe sub23@superior.tp, são definidos pela portaria referida no número anterior.\n\n4 - As compensações financeiras a atribuir aos operadores de transporte em razão da obrigação tarifária decorrente da implementação do passe sub23@superior.tp são estabelecidas em termos a acordar entre o Governo e as empresas de transporte.\n\n> Nota: [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217) As alterações introduzidas aplicam -se à aquisição de títulos de transportes respeitantes ao mês seguinte ao da sua publicação\n\n> Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01"
+  },
+  "114484988": {
+   "fragment_id": "114472767",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia - José Mariano Rebelo Pires Gago.\n\nPromulgado em 23 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de Agosto de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "114484991": {
+   "fragment_id": "114472764",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 169.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O passe sub23@superior.tp abrange todos os estudantes do ensino superior até aos 23 anos, inclusive, de todas as instituições de ensino superior no País.\n\n2 - O passe sub23@superior.tp é aplicável aos serviços de transporte coletivo de passageiros autorizados ou concessionados pelos organismos da administração central e regional, bem como aos serviços de transporte de iniciativa dos municípios, se estes vierem a aderir ao sistema passe sub23@superior.tp.\n\n> Alterado pelo/a Artigo 169.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "114484992": {
+   "fragment_id": "114472765",
+   "type": 11,
+   "heading": "Artigo 3.º — Passe sub23@superior.tp",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 169.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Passe sub23@superior.tp\n\n1 - Os estudantes do ensino superior até aos 23 anos, inclusive, beneficiam de uma redução do preço do título de transporte a deduzir do valor da tarifa inteira relativa aos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\n2 - Para efeitos do número anterior, os estudantes de ensino superior inscritos nos cursos de Medicina e Arquitetura beneficiam do mesmo desconto até aos 24 anos de idade.\n\n3 - Compete a cada estabelecimento de ensino superior a emissão de declaração comprovativa de inscrição no ensino superior, segundo modelo a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, dos transportes, do ensino superior e da administração local.\n\n4 - O desconto e as condições de atribuição do mesmo, a que se refere o n.º 1, bem como as relativas à operacionalização do sistema do passe sub23@superior.tp, são definidos pela portaria referida no número anterior.\n\n5 - As compensações financeiras a atribuir aos operadores de transporte em razão da obrigação tarifária decorrente da implementação do passe sub23@superior.tp são estabelecidas em termos a acordar entre o Governo e as empresas de transporte.\n\n> Nota: [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217) As alterações introduzidas aplicam -se à aquisição de títulos de transportes respeitantes ao mês seguinte ao da sua publicação\n\n> Alterado pelo/a Artigo 169.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01"
+  }
+ }
+}

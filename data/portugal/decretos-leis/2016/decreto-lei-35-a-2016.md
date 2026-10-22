@@ -1,0 +1,245 @@
+---
+schema_version: '1.0'
+id: pt:dre:74843537:por
+title: Decreto-Lei n.º 35-A/2016
+short_title: null
+summary: Procede à primeira alteração ao Decreto-Lei n.º 18/2016, de 13 de abril, que estabelece as normas de execução do
+  Orçamento do Estado para 2016
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Finanças
+proposing_entity: null
+official_number: 35-A/2016
+official_date: null
+publication_date: '2016-06-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30
+  number: '124'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2032-(4) a 2032-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/06/12401/0000400006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/35-a/2016/06/30/p/dre/pt/html
+  oj: null
+  dre: '74843537'
+  dre_path: /dr/detalhe/decreto-lei/35-a-2016-74843537
+  internal: pt:dre:74843537:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-a-2016-74843537
+  metadata_url: https://data.dre.pt/eli/dec-lei/35-a/2016/06/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-a-2016-74843537
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2016-06-30T00:00:00Z'
+integrity:
+  source_sha256: 2bd61b9c09e8e795436b4bfc7be8f7f760dbd85617a2c3a4602fae6986b0eaa2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2016/DRE-2016-35-A-74843537.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Conta de Gerência
+- Contrato
+- Despesas Públicas
+- Direcção Geral dos Recursos Naturais
+- Empresa Pública
+- Execução do Orçamento
+- Secretaria Geral
+- Ministério da Economia
+- Ministério da Cultura
+- Ministério das Finanças
+- Instituto da Conservação da Natureza e das Florestas
+- Orçamento Geral do Estado
+- Orçamento
+- Prestação de Contas
+- Presidência do Conselho de Ministros
+- Ministério dos Negócios Estrangeiros
+- Entidade Contabilística Ação Governativa
+- Entidade Contabilística Gestão Administrativa e Financeira
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2016/04/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2016/04/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 35-A/2016
+
+de 30 de junho
+
+O [Decreto-Lei n.º 18/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2016-74126124), de 13 de abril, estabelece as disposições necessárias à execução do Orçamento do Estado para 2016, aprovado pela [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março.
+
+O referido decreto-lei estabeleceu as regras de consolidação orçamental e de prestação de contas no âmbito do Ministério das Finanças, do Ministério dos Negócios Estrangeiros, do Ministério da Cultura, do Ministério da Economia e da Presidência do Conselho de Ministros.
+
+Contudo, tendo em conta que o modelo de funcionamento de partilha de atividades comuns é prosseguido de forma distinta em cada um dos ministérios em causa, importa garantir que a operacionalização do modelo definido decorra em conformidade com cada uma das estruturas e considerando os sistemas existentes.
+
+Finalmente importa clarificar as situações de exceção aplicáveis aos quadros de pessoal do setor empresarial do Estado e o âmbito de aplicação do controle dos gastos operacionais das empresas públicas.
+
+Foram ouvidos os órgãos de governo próprio das regiões autónomas, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à primeira alteração ao [Decreto-Lei n.º 18/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2016-74126124), de 13 de abril, que estabelece as disposições necessárias à execução do Orçamento do Estado para 2016.
+
+###### Artigo 2.º
+
+Alteração ao [Decreto-Lei n.º 18/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2016-74126124), de 13 de abril.
+
+Os artigos 17.º, 34.º, 95.º e 96.º do [Decreto-Lei n.º 18/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2016-74126124), de 13 de abril, passam a ter a seguinte redação:
+
+«Artigo 17.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - As subentidades referidas nas subalíneas da alínea b) do n.º 2 constituem centros de responsabilidades e de custos com níveis de crédito próprios da entidade contabilística 'Gestão Administrativa e Financeira do Ministério das Finanças'.
+
+5 - As subentidades referidas nas subalíneas das alíneas c), d) e e) do n.º 2 e nas alíneas do n.º 3 constituem centros de responsabilidades e de custos, respetivamente, das entidades contabilísticas 'Gestão Administrativa e Financeira do Ministério dos Negócios Estrangeiros', 'Gestão Administrativa e Financeira do Ministério da Cultura', 'Gestão Administrativa e Financeira do Ministério da Economia' e 'Gestão Administrativa e Financeira da Presidência do Conselho de Ministros'.
+
+6 - A Secretaria-Geral do MF é o serviço responsável pelas entidades contabilísticas 'Ação Governativa do MF' e 'Gestão Administrativa e Financeira do Ministério das Finanças', que integra as subentidades do MF referidas na alínea b) do n.º 2.
+
+7 - A Secretaria-Geral do MNE é o serviço responsável pelas entidades contabilísticas 'Ação Governativa do MNE' e 'Gestão Administrativa e Financeira do Ministério dos Negócios Estrangeiros', que integra as subentidades do MNE referidas na alínea c) do n.º 2.
+
+8 - A Secretaria-Geral do ME é o serviço responsável pelas entidades contabilísticas 'Ação Governativa do ME' e 'Gestão Administrativa e Financeira do Ministério da Economia', que integra as subentidades do ME referidas na alínea e) do n.º 2.
+
+9 - A Secretaria-Geral da PCM é o serviço responsável pelas entidades contabilísticas 'Ação Governativa da PCM' e 'Gestão Administrativa e Financeira da Presidência do Conselho de Ministros' e 'Gestão Administrativa e Financeira do Ministério da Cultura' que integram, respetivamente, as subentidades da PCM referidas no n.º 3 e as subentidades do MC, referidas na alínea d) do n.º 2.
+
+10 - (Anterior n.º 9.)
+
+11 - (Anterior n.º 10.)
+
+12 - (Anterior n.º 11.)
+
+13 - A prestação de contas do exercício correspondente ao primeiro semestre de 2016 da entidade contabilística 'Gestão Administrativa e Financeira do Ministério das Finanças' é apresentada pela Secretaria-Geral do MF através de uma única conta de gerência, sendo a prestação de contas do exercício correspondente ao segundo semestre de 2016 realizada nos termos do presente decreto-lei.
+
+###### Artigo 34.º — [...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...]:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) As despesas a realizar pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, com a celebração de contratos de empreitada e aquisições de bens e serviços, quando necessárias para a realização de obras de proteção portuária e de dragagens, quando o valor dos contratos a celebrar exceda os limites referidos na alínea a) do artigo 19.º e na alínea a) do n.º 1 do artigo 20.º do CCP.
+
+6 - [...]:
+
+a) [...]
+
+b) [...]
+
+c) O ICNF, I. P., relativamente aos procedimentos que respeitem diretamente à execução do Plano de Ação Nacional de Controlo do Nemátodo da Madeira do Pinheiro, bem como aos procedimentos relativos ao abate e destroçamento de árvores com sintomas de declínio.
+
+7 - [...].
+
+###### Artigo 95.º — [...]
+
+1 - [...]:
+
+a) [...]
+
+b) No caso das empresas do setor empresarial do Estado com resultados antes de juros, impostos, depreciações e amortizações (EBITDA) positivos, desde que o seu volume de negócios tenha aumentado em 2015 e se projete aumentar em 2016 e tenham previsto a correspondente verba no seu orçamento, mediante autorização a conferir por despacho dos membros do Governo responsáveis pela respetiva área setorial e pela área das finanças.
+
+2 - [...].
+
+###### Artigo 96.º — [...]
+
+1 - Durante o ano de 2016, as empresas públicas, com exceção das entidades públicas empresariais integradas no SNS e da SPMS-Serviços Partilhados do Ministério da Saúde, E. P. E., devem prosseguir uma política de otimização da estrutura de gastos operacionais que promova o equilíbrio operacional, mediante a adoção, designadamente, das seguintes medidas:
+
+a) [...]
+
+b) [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - O disposto no número anterior pode ser excecionado, por despacho dos membros do Governo responsáveis pela respetiva área setorial e pela área das finanças, caso se verifique que se encontra a decorrer um processo de restruturação, internacionalização ou de aumento de atividade devidamente justificados e aceites pela respetiva tutela setorial.»
+
+###### Artigo 3.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos à data da entrada em vigor do [Decreto-Lei n.º 18/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2016-74126124), de 13 de abril.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 16 de junho de 2016. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - João Rodrigo Reis Carvalho Leão - José Alberto de Azeredo Ferreira Lopes - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Carrilho de Castro Mendes - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - Cláudia Sofia de Almeida Gaspar Joaquim - Fernando Manuel Ferreira Araújo - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
+
+**Promulgado em 28 de junho de 2016.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 30 de junho de 2016.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:637192:por
+title: Resolução da Assembleia da República n.º 40/2007
+short_title: null
+summary: Constituição de um grupo de trabalho para a elaboração de um guia de boas práticas sobre requerimentos e perguntas
+  ao Governo
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 40/2007
+official_date: null
+publication_date: '2007-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 159/2007, Série I de 2007-08-20
+  number: '159'
+  series: I
+  supplement: null
+  pages: 5404 - 5404
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/08/15900/0540405404.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/40/2007/08/20/p/dre/pt/html
+  oj: null
+  dre: '637192'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/40-2007-637192
+  internal: pt:dre:637192:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/40-2007-637192
+  metadata_url: https://data.dre.pt/eli/resolassrep/40/2007/08/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/40-2007-637192
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-08-20T00:00:00Z'
+integrity:
+  source_sha256: 09794a5926bd6347ffbfa7e57d8459a90b778098ebc424ce622a36c941e7fefb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-40-637192.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Grupo de Trabalho
+- Manual de Boas Práticas
+- Assembleia da República
+- Governo
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 40/2007
+
+Constituição de um grupo de trabalho para a elaboração de um guia de boas práticas sobre requerimentos e perguntas ao Governo
+
+A Assembleia da República, nos termos do n.º 5 do artigo 166.º da Constituição, resolve o seguinte:
+
+1 - A constituição de um grupo de trabalho, com composição pluripartidária a decidir em Conferência de Líderes, para a elaboração de um guia de boas práticas sobre os requerimentos e perguntas ao Governo, previstos no artigo 156.º da Constituição.
+
+2 - Este grupo de trabalho tem como objectivo apresentar propostas com vista a melhorar a elaboração dos requerimentos e perguntas e o conteúdo das respostas.
+
+3 - Este grupo de trabalho deverá apresentar uma proposta de guia de boas práticas até ao final de 2007, com o intuito de ser apreciado pela Assembleia da República, tendo em vista a sua eventual adopção.
+
+4 - Deverá, igualmente, ser recomendada a adopção do guia de boas práticas ao Governo.
+
+Aprovada em 19 de Julho de 2007.
+
+**O Presidente da Assembleia da República, Jaime Gama.**

@@ -1,0 +1,172 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:835809052:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-902121984",
+ "dre_path": "/dr/detalhe/decreto-lei/134-2023-835809052",
+ "source_lastmod": "2025-01-03",
+ "versions": [
+  {
+   "date": "2023-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "902104226",
+    "902104227",
+    "902104228",
+    "902104229",
+    "902104230",
+    "902104231",
+    "902104232",
+    "902104233"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901667918:por",
+     "title": "Lei n.º 45-A/2024",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/lei/45-a-2024-901667918"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "902104226",
+    "902104227",
+    "902104235",
+    "902104229",
+    "902104230",
+    "902104231",
+    "902104232",
+    "902104233",
+    "902104234"
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1126594009:por",
+     "title": "Decreto-Lei n.º 105/2026",
+     "published": "2026-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2026-1126594009"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "902104226",
+    "902104227",
+    "1127141875",
+    "902104229",
+    "902104230",
+    "902104231",
+    "902104232",
+    "902104233",
+    "902104234"
+   ]
+  }
+ ],
+ "fragments": {
+  "902104226": {
+   "fragment_id": "902121985",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 134/2023\n\nde 28 de dezembro\n\nSumário: Aprova o prémio salarial de valorização da qualificação como incentivo financeiro ao exercício da profissão em território nacional.\n\nCom o duplo objetivo de recompensar o prosseguimento de estudos superiores e de contribuir para a valorização dos rendimentos dos jovens qualificados que trabalham no País, é aprovado o prémio salarial de valorização das qualificações no mercado de trabalho.\n\nA medida abrange todos os contribuintes residentes em território nacional, até aos 35 anos de idade, que tenham obtido o grau de licenciado e/ou mestre em instituições do ensino superior nacionais, públicas ou privadas, em qualquer área científica, ou graus académicos estrangeiros reconhecidos com o nível, objetivos e natureza idêntico aos graus portugueses de licenciado e mestre, nos anos de 2023 e seguintes.\n\nOs licenciados e mestres passam a ter direito a receber anualmente um prémio salarial no valor de 697 euros por cada ano de licenciatura e 1500 euros por cada ano de mestrado.\n\nEste incentivo é atribuído pelo número de anos de trabalho equivalente à duração regular do ciclo de estudos concluído.\n\nOs licenciados e mestres que tenham obtidos o grau académico em data anterior a 2023 têm direito ao prémio salarial desde que o número de anos subsequente à atribuição do grau académico elegível seja inferior ao número de anos do ciclo de estudos. Nestes casos, os beneficiários têm direito a receber o valor do prémio pelo número de anos remanescente.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "902104227": {
+   "fragment_id": "902121986",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei cria o prémio salarial de valorização das qualificações no mercado de trabalho (prémio salarial)."
+  },
+  "902104228": {
+   "fragment_id": "902121987",
+   "type": 11,
+   "heading": "Artigo 2.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Destinatários\n\n1 - Consideram-se elegíveis para beneficiar do prémio salarial os jovens trabalhadores que apresentem declaração do imposto sobre o rendimento das pessoas singulares (IRS) em território nacional detentores do grau académico de licenciado ou de mestre, ou graus académicos estrangeiros reconhecidos com o nível, objetivos e natureza idêntico aos graus portugueses de licenciado ou de mestre.\n\n2 - Para efeitos do presente decreto-lei, entende-se por graus académicos estrangeiros reconhecidos com o nível, objetivos e natureza idêntico aos graus portugueses de licenciado e mestre os graus que sejam objeto de reconhecimento automático, reconhecimento de nível ou reconhecimento específico nos termos previstos no Decreto-Lei n.º 66/2018, de 16 de agosto, na sua redação atual.\n\n3 - A atribuição do prémio salarial depende da verificação cumulativa dos seguintes requisitos:\n\na) Sejam titulares de grau académico de licenciado ou mestre, ou de grau académico estrangeiro reconhecido, com data de atribuição no ano de 2023 ou seguintes, inclusive, considerando-se como tal o primeiro grau académico obtido pelo beneficiário atribuído por instituições de ensino superior nacionais, públicas ou privadas, ou reconhecido em Portugal;\n\nb) Tenham auferido rendimentos de categoria A ou B do IRS;\n\nc) Tenham, no ano de atribuição do prémio salarial, até 35 anos de idade, inclusive;\n\nd) Sejam residentes em território nacional, nos termos e para os efeitos do disposto no artigo 19.º do Decreto-Lei n.º 398/98, de 17 de dezembro, na sua redação atual; e\n\ne) Tenham a sua situação tributária e contributiva regularizada perante a autoridade tributária e a segurança social."
+  },
+  "902104229": {
+   "fragment_id": "902121988",
+   "type": 11,
+   "heading": "Artigo 3.º — Valor do prémio salarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valor do prémio salarial\n\n1 - Os montantes anuais do prémio salarial correspondem a:\n\na) Licenciatura: 697 euros;\n\nb) Mestrado: 1500 euros; ou\n\nc) Mestrado integrado: 697 euros pelo período correspondente à licenciatura e 1500 euros pelo período correspondente ao mestrado.\n\n2 - O prémio salarial é pago anualmente durante o número de anos equivalentes ao ciclo de estudos conducente à atribuição de cada grau académico, desde que anualmente se verifiquem os requisitos de atribuição.\n\n3 - Os montantes referidos no número anterior podem ser concedidos de forma consecutiva ou interpolada, desde que a idade máxima do beneficiário não ultrapasse os 35 anos, inclusive, e se verifiquem os restantes requisitos para a sua atribuição.\n\n4 - Sobre os montantes referidos no n.º 1 não incide IRS, nem os mesmos constituem base de incidência de contribuições para a segurança social.\n\n5 - Os montantes referidos no n.º 1 não compensam com dívidas cobradas pela Autoridade Tributária e Aduaneira (AT) ou à segurança social."
+  },
+  "902104230": {
+   "fragment_id": "902121989",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuição do prémio salarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuição do prémio salarial\n\n1 - O prémio salarial é requerido pelo sujeito passivo em formulário eletrónico, após a obtenção do grau académico de licenciado ou de mestre, ou do reconhecimento do grau académico estrangeiro.\n\n2 - O pagamento do prémio salarial é efetuado pela AT, por transferência bancária, através do International Bank Account Number (IBAN) constante dos respetivos sistemas.\n\n3 - O âmbito, procedimentos e demais condições específicas de operacionalização que se revelem necessárias ao apuramento, atribuição e pagamento do presente apoio são definidos por portaria do membro do Governo responsável pela área das finanças.\n\n4 - A atribuição do prémio salarial ordenada pela AT aos beneficiários identificados no artigo 2.º é paga por abate à receita do IRS, considerando-se autorizado o respetivo processamento e pagamento, nos termos e para os efeitos do artigo 35.º do Decreto-Lei n.º 155/92, de 28 de julho, e do Decreto-Lei n.º 492/88, de 30 de dezembro, ambos na sua redação atual."
+  },
+  "902104231": {
+   "fragment_id": "902121990",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\n1 - Compete à Inspeção-Geral de Finanças (IGF) e à Inspeção-Geral da Educação e Ciência (IGEC) proceder ao controlo e fiscalização posterior dos dados declarados pelos beneficiários relevantes para efeitos do presente incentivo.\n\n2 - Caso se verifiquem irregularidades na atribuição do prémio salarial, devem as entidades referidas no número anterior solicitar o processamento das devidas correções."
+  },
+  "902104232": {
+   "fragment_id": "902121991",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime transitório\n\n1 - Os beneficiários que tenham concluído um grau académico elegível em ano anterior a 2023 podem beneficiar do prémio salarial desde que o número de anos subsequente à atribuição daquele grau académico seja inferior ao número de anos equivalentes ao ciclo de estudos respetivo.\n\n2 - Nos casos referidos no número anterior, os beneficiários podem receber o prémio salarial pelo número de anos remanescente."
+  },
+  "902104233": {
+   "fragment_id": "902121992",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte à sua publicação."
+  },
+  "902104235": {
+   "fragment_id": "902121987",
+   "type": 11,
+   "heading": "Artigo 2.º — Destinatários",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 331.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Destinatários\n\n1 - Consideram-se elegíveis para beneficiar do prémio salarial os jovens trabalhadores que apresentem declaração do imposto sobre o rendimento das pessoas singulares (IRS) em território nacional detentores do grau académico de licenciado ou de mestre, ou graus académicos estrangeiros reconhecidos com o nível, objetivos e natureza idêntico aos graus portugueses de licenciado ou de mestre.\n\n2 - Para efeitos do presente decreto-lei, entende-se por graus académicos estrangeiros reconhecidos com o nível, objetivos e natureza idêntico aos graus portugueses de licenciado e mestre os graus que sejam objeto de reconhecimento automático, reconhecimento de nível ou reconhecimento específico nos termos previstos no Decreto-Lei n.º 66/2018, de 16 de agosto, na sua redação atual.\n\n3 - A atribuição do prémio salarial depende da verificação cumulativa dos seguintes requisitos:\n\na) Sejam titulares de grau académico de licenciado ou mestre, ou de grau académico estrangeiro reconhecido, com data de atribuição no ano de 2023 ou seguintes, inclusive, considerando-se como tal o primeiro grau académico obtido pelo beneficiário atribuído por instituições de ensino superior nacionais, públicas ou privadas, ou reconhecido em Portugal;\n\nb) Tenham auferido rendimentos de categoria A ou B do IRS;\n\nc) Tenham, no ano de atribuição do prémio salarial, até 35 anos de idade, inclusive;\n\nd) Sejam residentes em território nacional, nos termos e para os efeitos do disposto no artigo 19.º do Decreto-Lei n.º 398/98, de 17 de dezembro, na sua redação atual; e\n\ne) Tenham a sua situação tributária e contributiva regularizada perante a autoridade tributária e a segurança social.\n\n4 - Sem prejuízo do disposto no n.º 1, consideram-se elegíveis os jovens trabalhadores que legalmente apresentem declaração do IRS conjunta com outros sujeitos passivos, designadamente com ascendentes.\n\n> Alterado pelo/a Artigo 331.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01"
+  },
+  "902104234": {
+   "fragment_id": "902121993",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Elvira Maria Correia Fortunato - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nPromulgado em 18 de dezembro de 2023.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 19 de dezembro de 2023.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n117198167"
+  },
+  "1127141875": {
+   "fragment_id": "902121987",
+   "type": 11,
+   "heading": "Artigo 2 — Destinatários",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 331.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2 — Destinatários\n\n1 - Consideram-se elegíveis para beneficiar do prémio salarial os jovens trabalhadores que apresentem declaração do imposto sobre o rendimento das pessoas singulares (IRS) em território nacional detentores do grau académico de licenciado ou de mestre, ou graus académicos estrangeiros reconhecidos com o nível, objetivos e natureza idêntico aos graus portugueses de licenciado ou de mestre.\n\n2 - Para efeitos do presente decreto-lei, entende-se por graus académicos estrangeiros reconhecidos com o nível, objetivos e natureza idêntico aos graus portugueses de licenciado e mestre os graus que sejam objeto de reconhecimento automático, reconhecimento de nível ou reconhecimento específico nos termos previstos no Decreto-Lei n.º 66/2018, de 16 de agosto, na sua redação atual.\n\n3 - A atribuição do prémio salarial depende da verificação cumulativa dos seguintes requisitos:\n\na) Sejam titulares de grau académico de licenciado ou mestre, ou de grau académico estrangeiro reconhecido, com data de atribuição no ano de 2023 ou seguintes, inclusive, considerando-se como tal o primeiro grau académico obtido pelo beneficiário atribuído por instituições de ensino superior nacionais, públicas ou privadas, ou reconhecido em Portugal;\n\nb) Tenham auferido rendimentos de categoria A ou B do IRS;\n\nc) Tenham, no ano de atribuição do prémio salarial, até 35 anos de idade, inclusive;\n\nd) Não beneficiem da aplicação do disposto no artigo 12.º-B do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro;\n\ne) Sejam residentes em território nacional, nos termos e para os efeitos do disposto no artigo 19.º do Decreto-Lei n.º 398/98, de 17 de dezembro, na sua redação atual; e\n\nf) Tenham a sua situação tributária e contributiva regularizada perante a autoridade tributária e a segurança social.\n\n4 - Sem prejuízo do disposto no n.º 1, consideram-se elegíveis os jovens trabalhadores que legalmente apresentem declaração do IRS conjunta com outros sujeitos passivos, designadamente com ascendentes.\n\n> Alterado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 331.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01"
+  }
+ }
+}

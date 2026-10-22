@@ -1,0 +1,1839 @@
+---
+schema_version: '1.0'
+id: pt:dre:420460:por
+title: Decreto Regulamentar n.º 43/87
+short_title: null
+summary: Define as medidas nacionais de conservação dos recursos biológicos aplicáveis ao exercício da pesca em águas, quer
+  oceânicas, quer interiores, sob soberania e jurisdição portuguesas
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 43/87
+official_date: null
+publication_date: '1987-07-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1987, Série I de 1987-07-17
+  number: '162'
+  series: I
+  supplement: null
+  pages: 2814 - 2830
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/07/16200/28142830.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-01-01'
+version_history:
+  file: decreto-regulamentar-43-87.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1987-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-02-02'
+    amending: pt:dre:610965:por
+    amending_title: Decreto Regulamentar n.º 3/89
+    changes:
+    - Adita Artigo 85.º-A
+    - Adita Artigo 85.º-B
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 34.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 48.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 56.º
+    - Altera Artigo 59.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 70.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º
+    - Altera Artigo 79.º
+    - Altera Artigo 83.º
+    - Altera Anexo
+  - date: '1990-09-16'
+    amending: pt:dre:557856:por
+    amending_title: Decreto Regulamentar n.º 28/90
+    changes:
+    - Adita Artigo 51.º-A
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 30.º
+    - Altera Artigo 34.º
+    - Altera Artigo 45.º
+    - Altera Artigo 52.º
+    - Altera Artigo 82.º
+    - Altera Anexo
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+  - date: '1998-12-02'
+    amending: pt:dre:217326:por
+    amending_title: Decreto-Lei n.º 383/98
+    changes:
+    - Revoga Artigo 82.º
+  - date: '2000-06-04'
+    amending: pt:dre:292958:por
+    amending_title: Decreto Regulamentar n.º 7/2000
+    changes:
+    - Adita Capítulo I
+    - Adita Capítulo II
+    - Adita Capítulo III
+    - Adita Artigo 74.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Título II
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 45.º
+    - Altera Artigo 48.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Título III
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 56.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 72.º
+    - Altera Artigo 74.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º
+    - Altera Artigo 80.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+  - date: '2015-09-21'
+    amending: pt:dre:70309904:por
+    amending_title: Decreto Regulamentar n.º 16/2015
+    changes:
+    - Altera Artigo 45.º
+    - Altera Artigo 64.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 72.º
+    - Altera Artigo 75.º
+    - Altera Artigo 78.º
+    - Revoga Artigo 40.º
+    - Revoga Artigo 41.º
+    - Revoga Artigo 42.º
+    - Revoga Artigo 43.º
+    - Revoga Artigo 44.º
+  - date: '2021-01-01'
+    amending: pt:dre:143527213:por
+    amending_title: Decreto-Lei n.º 73/2020
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/43/1987/p/cons/20200923/pt/html
+  oj: null
+  dre: '420460'
+  dre_path: /dr/detalhe/decreto-regulamentar/43-1987-420460
+  internal: pt:dre:420460:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460
+  metadata_url: https://data.dre.pt/eli/decregul/43/1987/p/cons/20200923/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1987-840370193
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1987-840370193
+  retrieved_at: '2026-10-22T13:03:05Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: bf5b15c975a47d774e242d3b62fcb199ba888a3eeb1cc0928cc43b415b98d6d8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:03:05Z'
+  notes: 7 versão(ões); histórico completo em decreto-regulamentar-43-87.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Albufeiras
+- Contra-ordenação
+- Embarcação
+- Gestão dos Recursos
+- Jurisdição
+- Licenciamento
+- Mar Territorial
+- Pesca
+- Proteção do Ambiente
+- Recursos do Mar
+relationships:
+- type: amended_by
+  target: pt:dre:610965:por
+  label: Adita Artigo 85.º-A; Adita Artigo 85.º-B; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo
+    12.º; Altera Artigo 13.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo
+    27.º; Altera Artigo 28.º; Altera Artigo 29.º; Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 34.º; Altera Artigo
+    39.º; Altera Artigo 40.º; Altera Artigo 48.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965
+  date: '1989-01-28'
+- type: amended_by
+  target: pt:dre:557856:por
+  label: Adita Artigo 51.º-A; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo
+    23.º; Altera Artigo 30.º; Altera Artigo 34.º; Altera Artigo 45.º; Altera Artigo 52.º; Altera Artigo 82.º; Altera Anexo;
+    Revoga Artigo 35.º; Revoga Artigo 36.º; Revoga Artigo 37.º; Revoga Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856
+  date: '1990-09-11'
+- type: amended_by
+  target: pt:dre:217326:por
+  label: Revoga Artigo 82.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326
+  date: '1998-11-27'
+- type: amended_by
+  target: pt:dre:292958:por
+  label: Adita Capítulo I; Adita Capítulo II; Adita Capítulo III; Adita Artigo 74.º-A; Altera Artigo 1.º; Altera Artigo 2.º;
+    Altera Título II; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera
+    Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 45.º; Altera Artigo 48.º; Altera Artigo 50.º; Altera
+    Artigo 51.º; Altera Título III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958
+  date: '2000-05-30'
+- type: amended_by
+  target: pt:dre:70309904:por
+  label: Altera Artigo 45.º; Altera Artigo 64.º; Altera Artigo 67.º; Altera Artigo 68.º; Altera Artigo 72.º; Altera Artigo
+    75.º; Altera Artigo 78.º; Revoga Artigo 40.º; Revoga Artigo 41.º; Revoga Artigo 42.º; Revoga Artigo 43.º; Revoga Artigo
+    44.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904
+  date: '2015-09-16'
+- type: amended_by
+  target: pt:dre:143527213:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213
+  date: '2020-09-23'
+- type: cites
+  target: celex:31984R2108
+  label: null
+  source: null
+- type: cites
+  target: celex:31997R2550
+  label: null
+  source: null
+- type: cites
+  target: celex:31998R0850
+  label: null
+  source: null
+- type: cites
+  target: celex:32011R0404
+  label: null
+  source: null
+article_structure:
+  article_count: 90
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:03:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 43/87
+
+Decreto Regulamentar n.º 43/87
+
+de 17 de Julho
+
+O Decreto-Lei n.º 278/87, de 7 de Julho, fixou o quadro legal regulamentador do exercício da actividade da pesca e das culturas marinhas tendo em vista, nomeadamente, a conservação, gestão e exploração racional, fomento e valorização dos recursos, bem como a adequação da pesca aos níveis de produtividade dos recursos disponíveis, diferindo para regulamentação posterior o desenvolvimento dos princípios que consagra.
+
+Essa regulamentação abrange aspectos multifacetados, que exigem tratamento separado e autónomo, pelo que não é viável reuni-la num único diploma.
+
+Assim, optou-se por proceder à referida regulamentação por fases, dando-se prioridade à definição das medidas nacionais de conservação dos recursos biológicos aplicáveis ao exercício da pesca em águas, quer oceânicas, quer interiores não oceânicas, sob jurisdição da autoridade marítima, ao estabelecimento, relativamente às embarcações de pesca nacionais ou estrangeiras afretadas por pessoas singulares ou colectivas nacionais, das respectivas áreas de operação, requisitos técnicos e características, à regulamentação do regime de autorização e licenciamento do exercício da pesca e à definição dos tipos legais das contra-ordenações e respectivas coimas nesses domínios.
+
+É a regulamentação desses vários aspectos, considerados da máxima prioridade, que se estabelece através do presente diploma.
+
+Assim:
+
+Ouvidos os órgãos de governo próprio das regiões autónomas;
+
+Tendo em vista o disposto no n.º 2 do artigo 3.º e no artigo 4.º, ambos do Decreto-Lei n.º 278/87, de 7 de Julho:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+## Título I — Disposições gerais
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+###### Artigo 1.º — Objecto
+
+O presente diploma tem por objecto definir as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, sem auxílio de embarcações, com embarcações nacionais ou com embarcações estrangeiras afretadas por pessoas singulares ou colectivas nacionais ou de um Estado membro da União Europeia ou ainda de um Estado parte do Acordo Económico Europeu, bem como estabelecer, relativamente àquelas embarcações, as áreas de operação e os respectivos requisitos e características para a actividade desenvolvida nas referidas águas ou fora delas e ainda regulamentar o regime de autorização e licenciamento do exercício da pesca, da actividade das embarcações e da utilização das artes de pesca.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma entende-se por:
+
+a) 'Águas oceânicas' as águas marítimas que se situam para fora das linhas de base normais e de base rectas, e abrangem o mar territorial, a zona contígua e do restante espaço marítimo jurisdicional até ao limite exterior da zona económica exclusiva;
+
+b) 'Águas interiores marítimas' as águas que se situam entre as linhas de fecho naturais das embocaduras dos rios, rias, lagoas, portos artificiais e docas e as linhas de base rectas;
+
+c) 'Águas interiores não marítimas' todas as águas designadamente rios, estuários, rias, lagoas, portos artificiais e docas, que se encontram para dentro das respectivas linhas de fecho naturais e estão sob jurisdição das capitanias dos portos nos termos da legislação em vigor, com excepção dos troços internacionais.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+## Título II — Da pesca em águas oceânicas e em águas interiores marítimas
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+### Capítulo I — Métodos de pesca
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 3.º — Métodos de pesca
+
+1 - Em águas oceânicas e em águas interiores marítimas: a pesca só pode ser exercida por meio dos seguintes métodos de pesca:
+
+a) Apanha;
+
+b) Pesca à linha;
+
+c) Pesca por armadilha;
+
+d) Pesca por arte de arrasto;
+
+e) Pesca por arte envolvente-arrastante;
+
+f) Pesca por arte de cerco;
+
+g) Pesca por rede de emalhar.
+
+2 - Sem prejuízo do disposto no número anterior, e sempre que tal se justifique, poderá o membro do Governo responsável pelo sector das pescas estabelecer e regular por portaria outros métodos de pesca.
+
+3 - As disposições reguladoras das características das artes e condições do exercício da pesca por qualquer dos métodos referidos no n.º 1 são aprovadas por portaria do membro do Governo responsável pelo sector das pescas e outros competentes em razão da matéria.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+> Retificado pelo/a [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634), produz efeitos a partir de 1987-09-15
+
+###### Artigo 4.º — Apanha
+
+Por apanha entende-se qualquer método de pesca que se caracteriza por ser uma actividade individual em que, de um modo geral, não são utilizados utensílios especialmente fabricados para esse fim, mas apenas as mãos ou os pés, ou eventualmente um animal, sem provocar ferimentos graves nas capturas.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 5.º — Pesca à linha
+
+Por pesca à linha entende-se qualquer método de pesca que se caracteriza pela existência de linhas e, em regra, de um ou mais anzóis.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+> Retificado pelo/a [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634), produz efeitos a partir de 1987-09-15
+
+###### Artigo 6.º — Pesca por armadilha
+
+Por pesca por armadilha entende-se qualquer método de pesca passivo pelo qual a presa é atraída ou encaminhada para dispositivo que lhe dificulta ou impossibilita a fuga, sem que para tal tenha abandonado o seu elemento natural.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 7.º — Pesca por arte de arrasto
+
+Por pesca por arte de arrasto entende-se qualquer método de pesca que utiliza estruturas rebocadas essencialmente compostas por bolsa, em geral grande, e podendo ser prolongada para os lados por 'asas' relativamente pequenas.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 8.º — Pesca por arte envolvente-arrastante
+
+Por pesca por arte envolvente-arrastante entende-se qualquer método de pesca que utiliza estruturas de rede, com frequência dotadas de bolsa central e grandes 'asas' laterais que arrastam e, prévia ou simultaneamente, envolvem ou cercam.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 9.º — Pesca por arte de cerco
+
+Por pesca por arte de cerco entende-se qualquer método de pesca que utiliza parede de rede sempre longa e alta, que é largada de modo a cercar completamente as presas e a reduzir a capacidade de fuga.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 10.º — Pesca por rede de emalhar
+
+Por pesca por rede de emalhar entende-se qualquer método de pesca que utiliza estrutura de rede com forma rectangular, constituída por um, dois ou três panos de diferente malhagem, mantidos em posição vertical devido a cabo de flutuação e cabo de lastros, que pode actuar isolada ou em 'caçadas' (conjunto de várias peças, ficando os espécimes presos na própria rede).
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+###### Artigo 11.º — Dimensões das redes
+
+As dimensões das redes de cercar para bordo, bem como o processo para a sua medição, são fixados por por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Retificado pelo/a [Declaração - Diário da República n.º 252/1990, 2º Suplemento, Série I de 1990-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-624208), produz efeitos a partir de 1990-09-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+###### Artigo 12.º — Profundidade
+
+1 - Sem prejuízo do disposto no número seguinte, dentro de 1 milha de distância à linha da costa só é permitido utilizar redes de cercar para bordo em profundidades superiores a 20 m.
+
+2 - Na Região Autónoma da Madeira a utilização de redes de cercar para bordo só é permitida a profundidades superiores a 50 m.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 13.º — Fontes luminosas para efeitos de chamariz
+
+1 - Entende-se por fonte luminosa, para efeitos de chamariz, uma estrutura dispondo de um ou mais focos de luz preparados especificamente para atrair o peixe, independentemente de estar a bordo da embarcação principal ou da embarcação auxiliar ou de ser um simples suporte flutuante, não sendo consideradas, para este efeito, as luzes normais de posição e de sinalização das embarcações envolvidas.
+
+2 - Por cada embarcação de pesca é interdito utilizar mais de duas fontes luminosas para efeitos de chamariz, que deverão estar separadas uma da outra por uma distância não superior a 50 m, não podendo essas fontes estar activas a não ser em presença da própria embarcação.
+
+3 - As embarcações só poderão largar a arte ou acender as fontes luminosas a uma distância superior a um quarto de milha de outra embarcação que as tenha já acendido ou que esteja em faina de pesca.
+
+4 - A distância mínima à linha de costa do continente, a partir da qual é permitida a utilização de fontes luminosas para efeitos de chamariz, será fixada por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+5 - O disposto no n.º 3 não se aplica à pesca do candil dentro da área de jurisdição da capitania da Nazaré.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 14.º — Definição da arte
+
+1 - Entende-se por rede de emalhar fundeada uma arte rectangular que é calada no fundo ou próximo deste por ferros ou poitas, tendo pesos na tralha inferior e bóias na parte superior, de modo a manter a rede em posição vertical.
+
+2 - A rede de emalhar fundeada pode ser de um pano, denominando-se rede de emalhar fundeada de um pano, ou pode ser composta de três panos de rede, sendo o do meio - miúdo - de malha mais fechada e os exteriores - alvitanas - de malha bastante mais larga, denominando-se rede de tresmalho.
+
+3 - A rede de emalhar de deriva é uma arte rectangular mantida à superfície ou próximo desta por meio de bóias e que voga livremente ao sabor da corrente por si só ou em conjunto com a embarcação a que se encontre amarrada.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 15.º — Rede de tresmalho de deriva
+
+É proibida a utilização de redes de tresmalho de deriva.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 16.º — Áreas de pesca
+
+1 - É proibido o exercício da pesca com redes de emalhar fundeadas a uma distância inferior a 1/4 de milha da linha de costa.
+
+2 - Sem prejuízo do disposto no número anterior, por portaria do Ministro da Agricultura, Pescas e Alimentação poderão ser estabelecidas outras limitações ao exercício da pesca com redes de emalhar fundeadas que se mostrem necessárias à prossecução do objecto do presente diploma.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+> Retificado pelo/a [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634), produz efeitos a partir de 1987-09-15
+
+###### Artigo 17.º — Embarcações
+
+1 - Às embarcações com mais de 20 t de arqueação bruta não é permitido utilizar nem ter a bordo redes de emalhar de deriva de um pano para a captura de pequenos pelágicos, salvo o disposto no número seguinte.
+
+2 - As embarcações com mais de 20 tAB que estejam licenciadas para utilizar estes tipos de rede podem continuar a operar com elas transitoriamente durante os 24 meses posteriores à entrada em vigor do presente diploma.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+> Retificado pelo/a [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634), produz efeitos a partir de 1987-09-15
+
+###### Artigo 18.º — Malhagens mínimas
+
+A malhagem mínima das redes referidas neste capítulo é fixada por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+###### Artigo 19.º — Dimensões das redes
+
+As dimensões das redes de emalhar que cada embarcação pode calar são determinadas por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 20.º — Entralhação da rede
+
+O Ministro da Agricultura, Pescas e Alimentação poderá estabelecer, mediante portaria, a sujeição da utilização de redes de emalhar a sistemas de entralhação com fio biodegradável.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 21.º — Espécies
+
+1 - É proibida a utilização de redes de emalhar na captura de crustáceos, podendo, no entanto, ser mantida a bordo uma quantidade de capturas destas espécies não superior a 5% do peso total do pescado a bordo.
+
+2 - No cálculo da percentagem referida no número anterior devem ser observadas as disposições aplicáveis do artigo 5.º
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 22.º — Distância entre redes caladas
+
+Não é permitido calar redes de emalhar de maneira a que a distância entre elas ou entre conjuntos autónomos de peças ligadas entre si, topo a topo, comummente designadas por «caçadas», seja inferior a 1/4 de milha.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 23.º — Tempo de permanência na água
+
+1 - As redes de emalhar fundeadas não podem permanecer caladas por tempo indefinido.
+
+2 - O tempo de calagem consecutiva das redes de emalhar fundeadas é fixado por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+###### Artigo 24.º — Definições
+
+1 - Entende-se por aparelho de anzol qualquer arte formada basicamente por linhas e anzóis, podendo ser das seguintes modalidades:
+
+a) Linha de mão;
+
+b) Vara e salto;
+
+c) Corrico;
+
+d) Palangre e espinel.
+
+2 - Linha de mão é um aparelho, com um ou poucos anzóis, que actua normalmente ligado à mão do pescador.
+
+3 - Vara e salto são canas de pesca marítima, com um só anzol, destinadas à captura de tunídeos e similares com isco vivo.
+
+4 - Corrico é um aparelho de anzol que actua à superfície ou à subsuperfície rebocado por uma embarcação, podendo ou não ter amostra.
+
+5 - Palangre e espinel são aparelhos, com muitos anzóis, formados basicamente por uma linha ou cabo denominado madre, de comprimento variável, do qual partem estralhos ou baixadas com anzóis, podendo ser fundeados ou de deriva, consoante são ou não fixados ao fundo marinho.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 25.º — Características da arte
+
+O Ministro da Agricultura, Pescas e Alimentação poderá estabelecer, por portaria, o número máximo de anzóis ou o comprimento máximo dos aparelhos ou a distância mínima entre os anzóis, consoante as dimensões das embarcações ou as espécies a que a pesca seja dirigida.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 26.º — Abandono de aparelhos de anzol no mar
+
+Os aparelhos de anzol não podem ser abandonados no mar, salvo em casos de mau tempo, avaria, sinistro ou qualquer outra razão de força maior, dos quais deve ser dado conhecimento imediato à capitania do porto onde a embarcação entrar.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 27.º — Definição da arte
+
+1 - Sob o termo genérico de armadilhas designam-se as artes de pesca fixas que se utilizam para capturar peixes, moluscos ou crustáceos, sendo constituídas por uma câmara com superfície exterior malhada ou reticulada, construídas em diversos materiais não poluentes e dispondo de uma ou mais entradas ou aberturas concebidas e implantadas de tal modo que permitam a entrada dos animais e dificultem o mais possível a respectiva saída, sendo, normalmente, caladas no fundo com ou sem isco, isoladas ou em teias e ligadas a um ou mais cabos de alagem referenciados à superfície por bóias de sinalização.
+
+2 - É proibido utilizar armadilhas monobloco construídas integralmente em materiais não biodegradáveis.
+
+3 - Não são abrangidas neste capítulo as armadilhas designadas por alcatruzes, cuja caracterização será fixada nos termos dos artigos 30.º e seguintes.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 28.º — Características, malhagem e número de armadilhas
+
+As características e as dimensões do vazio da malha ou retículo das armadilhas bem como o tempo de calagem e o número de armadilhas que cada embarcação pode utilizar no exercício da pesca serão fixados por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 29.º — Confecção da arte
+
+Por portaria do Ministro da Agricultura, Pescas e Alimentação poderá ser determinada a utilização de fio biodegradável em uma ou mais das seguintes partes das armadilhas:
+
+a) Entralhamento das tampas;
+
+b) Sistema de fecho das tampas;
+
+c) Entralhamento dos andiches ou bocas;
+
+d) Entralhamento dos corpos componentes, no caso de serem construídas integralmente em materiais sintéticos.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 30.º — Definição da arte
+
+1 - O alcatruz é um pote de secção circular que se destina à pesca do polvo.
+
+2 - Os alcatruzes são calados em teias fundeadas, constituídas por um linha principal, chamada madre, à qual se ligam, a intervalos regulares, linhas secundárias, designadas baixadas, nas extremidades de cada uma das quais se fixa um alcatruz.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Retificado pelo/a [Declaração - Diário da República n.º 252/1990, 2º Suplemento, Série I de 1990-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-624208), produz efeitos a partir de 1990-09-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+###### Artigo 31.º — Áreas de pesca
+
+Por portaria do Ministro da Agricultura, Pescas e Alimentação serão fixadas as áreas em que pode ser exercida a pesca com arte de ganchorra.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 32.º — Características e número de alcatruzes
+
+As características bem como o número de alcatruzes que cada embarcação pode utilizar no exercício da pesca serão fixados por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 33.º — Definição da arte
+
+1 - Entende-se por ganchorra uma arte de arrastar, destinada à captura de moluscos bivalves, constituída por uma armação metálica com um pente de dentes ou com um varão ou tubo cilíndrico na parte inferior, à qual está ligado um saco de rede que serve para a recolha dos bivalves.
+
+2 - A ganchorra poderá ser provida com uma grelha de barras paralelas soldadas à parte inferior da armação e dirigida ao interior do saco.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 34.º — Regime do exercício da pesca com ganchorra
+
+O regime do exercício da pesca com ganchora, nomeadamente a definição das características e dimensões desta arte, respectiva malhagem do saco da rede, áreas de pesca em que pode ser utilizada, número de ganchorras permitidas por embarcação e potência propulsora das embarcações, é estabelecido por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 35.º — Características e dimensões da ganchorra
+
+1 - A largura máxima da boca da ganchorra é de 150 cm, quando utilizada a norte do paralelo de Pedrógão, e de 100 cm, quando utilizada a sul do mesmo paralelo.
+
+2 - Quando a ganchorra for provida de pente de dentes este deverá obedecer aos seguintes requisitos:
+
+a) Comprimento máximo dos dentes de 17 cm para a pesca da amêijoa branca e da conquilha e de 30 cm para a pesca do longueirão ou navalha;
+
+b) Intervalo mínimo entre os dentes de 2 cm para a pesca da amêijoa branca e da conquilha e de 1,5 cm para a pesca do longueirão ou navalha.
+
+3 - No caso de utilização de grelha a distância entre as barras não deverá ser inferior a 2 cm.
+
+4 - A ganchorra não poderá ter qualquer dispositivo em forma de lâmina na parte inferior da armação metálica.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+###### Artigo 36.º — Malhagem do saco de rede
+
+É proibido utilizar saco de rede cuja malhagem seja inferior a:
+
+a) 40 mm para a amêijoa branca;
+
+b) 35 mm para a conquilha e longueirão ou navalha.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+###### Artigo 37.º — Número de ganchorras por embarcação
+
+Cada embarcação não pode utilizar simultaneamente e na mesma viagem de pesca mais do que duas ganchorras com as mesmas características.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+###### Artigo 38.º — Potência propulsora máxima das embarcações
+
+A potência propulsora das embarcações dedicadas a esta pesca não pode exceder:
+
+a) A norte do paralelo de Pedrógão - 150 cv ou 110 kW;
+
+b) A sul do mesmo paralelo - 100 cv ou 75 kW.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+###### Artigo 39.º — Outras artes de pesca
+
+1 - São abrangidas neste capítulo as artes de pesca designadas por redes camaroeiras ou do pilado, xávegas, sacadas e toneiras, sendo-lhes aplicáveis as disposições deste diploma constantes do capítulo XI.
+
+2 - Atendendo à especificidade e incidência marcadamente local das artes referidas no número anterior, o Ministro da Agricultura, Pescas e Alimentação ou os órgãos de governo próprio das regiões autónomas estabelecerão, por diploma próprio, as disposições reguladoras do exercício da pesca com aquelas artes, respectivamente para o continente e para aquelas regiões.
+
+3 - Os regimes das actividades de pesca intermédias, nomeadamente a de captura de espécies para utilização como isco vivo, serão estabelecidos por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+4 - Até à entrada em vigor das disposições referidas no n.º 2, a utilização das artes mencionadas no n.º 1 continuará a reger-se pela legislação vigente na parte que não contrarie o presente diploma.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+### Capítulo II — Sinalização e exercício da pesca
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 40.º — Sinalização exercício da pesca
+
+No exercício da pesca, em obediência à parte aplicável da Convenção Relativa ao Exercício da Pesca no Atlântico Norte, aprovada, por ratificação, pelo Decreto-Lei n.º 48509, de 30 de Julho de 1968, as embarcações devem sinalizar as suas artes como se especifica nos artigos 41.º, 42.º, 43.º, 44.º e 45.º, assinalar as diferentes fases da faina de pesca como se especifica no artigo 46.º e exercer a sua actividade como estabelece o artigo 47.º
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 41.º — Sinalização das artes de deriva
+
+1 - As redes e os aparelhos de linhas e anzóis de deriva são sinalizados em cada extremidade e a intervalos não superiores a 2 milhas por bóias, cada uma com um mastro, guarnecido, de dia, com uma bandeira ou reflector de radar e, de noite, com um farol.
+
+2 - A extremidade de uma arte que esteja amarrada a uma embarcação não necessita de ser sinalizada.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958)
+
+###### Artigo 42.º — Sinalização das artes fundeadas horizontalmente
+
+1 - As redes, aparelhos de linhas e anzóis e outras artes de pesca fundeados e dispostos horizontalmente na água são sinalizados em cada extremidade e a intervalos não superiores a 1 milha por bóias, cada uma com um mastro, guarnecido da forma seguinte:
+
+a) Bóia da extremidade oeste - de dia, com duas bandeiras ou uma bandeira e um reflector de radar e, de noite, com dois faróis;
+
+b) Bóia da extremidade leste - de dia, com uma bandeira ou um reflector de radar e, de noite, com um farol;
+
+c) Bóias intermédias - cada uma, de dia, com uma bandeira ou um reflector e, de noite, o maior número possível, com um farol cada uma.
+
+2 - A extremidade de uma arte ou instrumento de pesca que esteja amarrada a uma embarcação não necessita de ser sinalizada.
+
+3 - O número de faróis que, nos termos da alínea c) do n.º 1, devem guarnecer, de noite, os mastros das bóias intermédias deve ser tal que a distância entre dois faróis consecutivos não exceda, em caso algum, 2 milhas.
+
+4 - Uma bóia suplementar, com um mastro guarnecido, de dia, com uma bandeira ou um reflector de radar e, de noite, com um farol, pode ser colocada de 70 m a 100 m de distância de cada uma das bóias das extremidades, a fim de indicarem a direcção em que a arte ou instrumento de pesca está lançado.
+
+5 - Para efeitos do disposto neste artigo, consideram-se como oeste os quadrantes sudoeste e noroeste da agulha, incluindo o norte, e como leste os quadrantes nordeste e sueste da agulha, incluindo o sul.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958)
+
+###### Artigo 43.º — Sinalização das artes fundeadas não horizontalmente
+
+As artes e outros instrumentos de pesca fundeados que não se disponham horizontalmente na água são sinalizados por uma bóia com um mastro, guarnecido, de dia, com uma bandeira ou um reflector de radar e, de noite, com um farol.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958)
+
+###### Artigo 44.º — Caracterização da sinalização das artes
+
+A sinalização das artes e instrumentos de pesca, que tem por fim a segurança da navegação de superfície, obedece às seguintes disposições:
+
+a) As bóias das extremidades referidas nos artigos 41.º e 42.º e a bóia singular referida no artigo 43.º devem ser de cor vermelha e marcadas com o conjunto de identificação da embarcação a que pertencem, devendo adevendo a referida no artigo 43.º manter suspenso um cabo de alar a arte com cerca de 20 m de comprimento e um peso adequado na sua extremidade;
+
+b) Os mastros a colocar nas bóias devem ter altura não inferior a 2 m, medidos acima da bóia;
+
+c) Os reflectores de radar devem ser de metal ou plástico metalizado ou de outro material aprovado e dispostos ou construídos de maneira a reflectirem a energia que incida de qualquer azimute, devendo, sempre que possível, ser da cor das bandeiras respectivas;
+
+d) As bandeiras devem ser quadradas, de 50 cm de lado, sendo:
+
+1) Alaranjadas, as das extremidades das artes e outros instrumentos de pesca fundeados e dispostos horizontalmente na água;
+
+2) Vermelhas e amarelas, em duas faixas verticais iguais, com a vermelha junto ao mastro, as das artes e outros instrumentos de pesca fundeados que não se disponham horizontalmente na água;
+
+3) Amarelas, as das extremidades das artes de deriva;
+
+4) Brancas, as das bóias intermédias;
+
+e) Os faróis devem ser de luz branca, visíveis a uma distância não inferior a 2 milhas em condições de boa visibilidade.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958)
+
+> Retificado pelo/a [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634), produz efeitos a partir de 1987-09-15
+
+###### Artigo 45.º — Marcação e identificação das artes de pesca
+
+1 - A marcação e a identificação das artes de pesca deve obedecer às normas previstas no Regulamento de Execução (UE) n.º 404/2011, da Comissão, de 8 de abril de 2011, sendo da responsabilidade dos titulares das licenças de pesca e dos responsáveis pelo comando dos navios de pesca assegurar o seu cumprimento.
+
+2 - Podem ser fixadas, por portaria do membro do Governo responsável pela área do mar, regras específicas de marcação e identificação das artes aplicáveis ao exercício da pesca no mar territorial, águas interiores marítimas e águas interiores não-marítimas.
+
+3 - Revogado;
+
+4 - Revogado.
+
+5 - As artes e os apetrechos de pesca encontrados em abandono e sem identificação serão considerados arrojos de mar e entregues à instância aduaneira, quando a autoridade marítima verificar a impossibilidade de identificação do proprietário.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+###### Artigo 46.º — Assinalamento das fases da faina da pesca
+
+No exercício da pesca as embarcações devem mostrar os faróis, bandeiras e balões prescritos no Regulamento Internacional para Evitar Abalroamentos no Mar (RIEAM).
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958)
+
+###### Artigo 47.º — Normas para o exercício da pesca por embarcações
+
+1 - Sem prejuízo do cumprimento do RIEAM, todas as embarcações devem conduzir a faina e manobras de pesca em obediência às seguintes normas:
+
+a) Devem manobrar de modo a não interferir com a faina da pesca de outras embarcações ou com aparelhos de pesca;
+
+b) À chegada a um pesqueiro onde já estejam outras embarcações devem informar-se acerca da posição e extensão das artes já em pesca e não devem colocar-se ou largar as suas artes de modo a interferir ou impedir as fainas já em curso;
+
+c) Quando utilizem artes que se desloquem na água devem tomar todas as medidas possíveis para evitar redes, linhas e mais artes que estejam fixas e dar-lhes um resguardo não inferior a um terço de milha.
+
+2 - Às embarcações é vedado:
+
+a) Fundear ou pairar nos locais onde se esteja a pescar, se tal puder interferir com essa pesca, excepto:
+
+1) Em caso de necessidade resultante da sua própria faina de pesca;
+
+2) Em consequência de um acidente ou de outras circunstâncias de força maior;
+
+b) Salvo em caso de força maior, deitar ao mar qualquer objecto ou substância susceptível de prejudicar a pesca ou o peixe ou de avariar as artes de pesca ou as embarcações;
+
+c) Utilizar ou ter a bordo explosivos destinados à pesca;
+
+d) Cortar redes de outras embarcações que estejam enleadas nas suas, a não ser com o consentimento das partes interessadas, a menos que não seja possível desprendê-las de outro modo;
+
+e) Cortar linhas de pesca de outras embarcações que estejam enleadas nas suas, a não ser com o consentimento das partes interessadas, a menos que não seja possível desprendê-las de outro modo, devendo, sempre que possível, emendar imediatamente as linhas cortadas;
+
+f) Cortar, enganchar ou levantar redes, linhas ou outras artes de pesca, ou atracar-se a elas, se não lhes pertencerem, excepto nos casos previstos nas alíneas d) e e) e em caso de salvamento.
+
+3 - Além do disposto no número anterior devem ainda as embarcações:
+
+a) Agir por forma a reduzir ao mínimo os prejuízos que possam causar a redes, linhas e outras artes com que colidam ou com que interfiram de qualquer outra maneira;
+
+b) Evitar toda a acção que arrisque agravar o prejuízo para as suas próprias redes, linhas e outras artes por motivo de colisão ou interferência de outra embarcação;
+
+c) Envidar todos os esforços para recobrar artes de pesca que tenham perdido e, sempre que as não recobrarem, comunicar à repartição marítima do primeiro porto nacional em que entrem as circunstâncias dessa perda e a posição geográfica em que se deu;
+
+d) Tentar recobrar as artes que tenham feito perder por colisão ou qualquer outra forma de interferência, ficando responsáveis pelo pagamento de todos os prejuízos, excepto se as artes não estavam marcadas conforme se dispõe no presente regulamento.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958)
+
+### Capítulo III — Disposições comuns
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 48.º — Tamanhos mínimos dos peixes, crustáceos e moluscos
+
+1 - De acordo com os artigos 17.º e 19.º do Regulamento (CE) n.º 850/98, de 30 de Março, os peixes, crustáceos e moluscos cujos tamanhos forem inferiores às dimensões mínimas fixadas no anexo XII devem ser imediatamente devolvidos ao mar, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos, colocados à venda ou vendidos.
+
+2 - Para as espécies relativamente às quais não estejam fixados tamanhos mínimos pela legislação comunitária poderão os mesmos ser fixados por portaria do membro do Governo responsável pelo sector das pescas.
+
+3 - A medição do tamanho dos peixes, crustáceos e moluscos faz-se em conformidade com o anexo XIII do Regulamento (CE) n.º 850/98, de 30 de Março.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+> Retificado pelo/a [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634), produz efeitos a partir de 1987-09-15
+
+###### Artigo 49.º — Áreas ou períodos de interdição ou restrição da pesca
+
+Tendo em conta as informações científicas disponíveis sobre o estado e a evolução dos recursos biológicos e ponderando as implicações económicas e sociais no sector da pesca, poderão ser constituídas, modificadas ou extintas, por portaria do Ministro da Agricultura, Pescas e Alimentação, áreas ou períodos de interdição ou restrição da pesca.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958)
+
+###### Artigo 50.º — Determinação do vazio da malha
+
+1 - A malhagem das redes é verificada pela determinação do vazio da malha com bitola, cuja descrição, modo de utilização e demais regras de medição estão definidos no Regulamento (CEE) n.º 2108/84, com as alterações introduzidas pelo Regulamento (CE) n.º 2550/97, sem prejuízo do disposto no número seguinte.
+
+2 - A medição de armadilhas de rede rígida é feita de tal forma que a bitola entre no vazio da malha rodando em qualquer das direcções no plano perpendicular àquela.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 51.º — Operações de transformação
+
+1 - De acordo com o artigo 42.º do Regulamento (CE) n.º 850/98, de 30 de Março, é proibido efectuar a bordo de um navio de pesca qualquer transformação física ou química dos peixes para a produção de farinha, óleo ou produtos similares.
+
+2 - O disposto no número anterior não se aplica à transformação de restos de peixe.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 51.º-A — Outros condicionalismos ao exercício da pesca
+
+1 - Não é permitido a qualquer embarcação transportar ou manter a bordo artes de pesca ou apetrechos proibidos ou para cujo uso não esteja licenciada.
+
+2 - O exercício da pesca por embarcações que sejam licenciadas para utilizarem, em áreas determinadas, artes de pesca com características diferentes das genericamente estabelecidas pode ser sujeito a condicionalismos de actividade adicionais aos já existentes, nomeadamente no que se refere ao respectivo licenciamento e áreas de operação, a estabelecer por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+## Título III — Da pesca em águas interiores não marítimas
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 52.º — Métodos e práticas de pesca proibidos
+
+1 - É proibida a pesca nas águas interiores não marítimas com utilização dos seguintes métodos de pesca:
+
+a) Que utilizem o movimento das marés, designadamente o tapa-esteiro, também conhecido por cerco, estacada ou tapada, e o botirão;
+
+b) Pesca por arte de arrasto, com excepção do disposto na alínea e) do n.º 1 do artigo seguinte;
+
+c) Pesca por arte de cerco;
+
+d) Pesca por rede de emalhar de um pano, excepto nas estacadas para a captura de lampreia;
+
+e) Fisgas, excepto como auxiliar da pesca da lampreia nas estacadas.
+
+2 - São proibidas as seguintes práticas de pesca:
+
+a) O «batuque», ou «valar águas», ou sistema semelhante;
+
+b) A utilização de fontes luminosas - candeio - para efeito de chamariz de peixe, excepto para a pesca do meixão referida no artigo 54.º e para a pesca com toneiras ou taloeiras.
+
+3 - Por portaria do membro do Governo responsável pelo sector das pescas, ou por acto correspondente dos órgãos de governo próprio das Regiões Autónomas, poderá ser proibida a utilização de outros métodos de pesca, atentos os princípios gerais consagrados no Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro.
+
+4 - O disposto nas alíneas b) e d) do n.º 1 não se aplica ao exercício da pesca nas águas interiores não oceânicas do rio Tejo.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 53.º — Métodos e artes de pesca e condições da sua utilização
+
+1 - A pesca nas águas interiores não marítimas pode ser exercida por meio dos seguintes métodos de pesca e artes nas condições e para as espécies referidas nas alíneas seguintes:
+
+a) Apanha;
+
+b) Pesca à linha utilizando aparelhos de anzol, desde que fundeados, e toneiras;
+
+c) Pesca por armadilha, designadamente os covos, os galrichos ou nassas para a captura de enguia e a estacada, utilizando fisgas como auxiliar de pesca;
+
+d) Pesca por rede de saco com boca fixa, designadamente os xalavares ou camaroeiras para a captura de caranguejos, búzios e camarões e a rapeta para a captura do meixão;
+
+e) Pesca por arrasto, apenas com berbigoeiro, e ancinho de mão;
+
+f) Pesca por arte envolvente-arrastante, designadamente o chinchorro;
+
+g) Pesca por rede de emalhar com redes de tresmalho de deriva, para a captura de anádromos (lampreia, sável, salmão, truta-marisca e saboga) e fundeadas;
+
+h) Outras artes que tenham um âmbito de utilização marcadamente local, cujas características serão fixadas nos regulamentos de incidência local, a publicar ao abrigo do artigo 59.º do presente diploma.
+
+2 - Por pesca por rede de saco com boca fixa entende-se qualquer método de pesca que utiliza artes com forma de saco, cuja boca seja mantida aberta por estrutura rígida.
+
+3 - Para os métodos e artes de pesca referidos, poderão ser estabelecidos por portaria do membro do Governo responsável pelo sector das pescas ou pelos órgãos de governo próprio das Regiões Autónomas sistemas de entralhação com fio biodegradável.
+
+4 - Os regulamentos de incidência local previstos no artigo 59.º deste diploma poderão estabelecer outros requisitos e condicionamentos das artes de pesca referidas no n.º 1.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+> Retificado pelo/a [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634), produz efeitos a partir de 1988-07-16
+
+###### Artigo 54.º — Pesca do meixão
+
+1 - É proibida a pesca do meixão.
+
+2 - Sem prejuízo do disposto no número anterior, por portaria do membro do Governo responsável pelo sector da pesca será estabelecido o regime de pesca do meixão com utilização de rapeta, para a safra de 2000-2001.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Retificado pelo/a [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634), produz efeitos a partir de 1988-07-16
+
+###### Artigo 55.º — Sinalização e identificação das artes de pesca
+
+As artes de pesca deverão ser devidamente sinalizadas e identificadas de acordo com as disposições a estabelecer nos regulamentos de incidência local previstos no artigo 59.º deste diploma.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+###### Artigo 56.º — Captura de espécies destinadas ao povoamento de estabelecimentos de aquacultura
+
+1 - A captura de espécies destinadas a repovoamento de estabelecimentos de aquicultura está sujeita a autorização e licenciamento a requerer à Direcção-Geral das Pescas e Aquicultura (DGPA) ou aos órgãos de governo próprio das Regiões Autónomas caso tais capturas ocorram em águas abrangidas nas respectivas Regiões.
+
+2 - A autorização e licenciamento referidos no número anterior só serão concedidos desde que não seja possível efectuar o repovoamento com recurso a espécies criadas em cativeiro ou qualquer outro método.
+
+3 - À captura de espécies para repovoamento não são aplicáveis as condicionantes previstas no artigo 52.º ou os normativos respeitantes a tamanhos mínimos.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 57.º — Locais de pesca proibidos
+
+O exercício da pesca nas águas interiores não oceânicos é proibido:
+
+a) De maneira a causar prejuízos à navegação;
+
+b) Nas proximidades de certos locais, nomeadamente esgotos, docas, portos de abrigo, embarcadouros, estaleiros de construção naval, ponte-cais e de acesso rodoviário, barras e seus acessos e embocaduras, canais, esteiros-ribeiros, acessos a estabelecimentos de aquacultura, a viveiros de moluscos bivalves e a zonas de produção natural de recursos vivos, em condições e a distâncias mínimas a definir nos regulamentos de incidência local previstos no artigo 59.º deste diploma.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634), produz efeitos a partir de 1988-07-16
+
+###### Artigo 58.º — Proibição da pesca em zonas insalubres
+
+1 - Por motivo de ordem sanitária a pesca pode ser proibida em determinadas zonas do continente consideradas insalubres, ou durante períodos bem definidos, por despacho conjunto dos Ministros da Agricultura, Pescas e Alimentação e da Saúde, mediante proposta da DGP, ouvidos o INIP e a autoridade sanitária.
+
+2 - A autoridade marítima, em caso de perigo para a saúde pública e a solicitação da autoridade sanitária, pode estabelecer de imediato a proibição da pesca, comunicando desde logo o facto à DGP e ao INIP.
+
+3 - A medida prevista no número anterior tem carácter temporário e carece de confirmação, por despacho conjunto dos Ministros da Agricultura, Pescas e Alimentação e da Saúde, nos 30 dias imediatos.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+###### Artigo 59.º — Regulamentos de pesca de incidência local
+
+1 - Sob proposta da DGP e ouvidos o INIP e as capitanias de porto da respectiva área, o Ministro da Agricultura, Pescas e Alimentação estabelecerá, mediante portaria, as normas reguladoras do exercício da pesca em áreas determinadas de águas interiores não oceânicas e com marcada especificidade local.
+
+2 - Nas regiões autónomas compete aos respectivos órgãos do governo regional a fixação dos regulamentos referidos no número anterior.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 60.º — Editais
+
+Enquanto não forem publicados os regulamentos previstos no artigo anterior mantêm-se em vigor as disposições dos editais das capitanias de portos publicados ao abrigo de Decreto-Lei n.º 30148, de 16 de Dezembro de 1939, e as dos diplomas que regulam a pesca no rio Lima e na ria de Aveiro, na parte em que não contrariem as do presente regulamento.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 61.º — Outras disposições aplicáveis
+
+As disposições constantes do capítulo XI do título II do presente diploma aplicam-se, com as necessárias adaptações, ao exercício da pesca em águas interiores não oceânicas.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+## Título IV — Das áreas de operação, requisitos e características das embarcações
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+###### Artigo 62.º — Classificação das embarcações
+
+As embarcações de pesca, considerando a área em que podem operar, classificam-se em:
+
+a) Embarcações de pesca local;
+
+b) Embarcações de pesca costeira;
+
+c) Embarcações de pesca do largo.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+###### Artigo 63.º — Embarcações de pesca local
+
+1 - As embarcações de pesca local são as que, sendo propriedade exclusiva de inscritos marítimos profissionais, podem operar nas seguintes áreas:
+
+a) Quando de convés aberto - dentro da área de jurisdição da capitania do porto em que estão registadas e das áreas das capitanias limítrofes, não podendo afastar-se mais de 6 milhas da costa;
+
+b) Quando de convés parcialmente fechado à proa, com cabina - dentro da área de jurisdição da capitania do porto em que estão registadas e das áreas das capitanias limítrofes, não podendo afastar-se mais de 12 milhas da costa, devendo dispor de equipamento e meios de segurança de acordo com a sua área de operação;
+
+c) Quando de convés fechado - dentro da área de jurisdição da capitania em que estão registados e das áreas das capitanias limítrofes, com excepção das águas interiores não oceânicas definidas no artigo 2.º, não podendo afastar-se mais de 30 milhas da costa, sem prejuízo do disposto no número seguinte.
+
+2 - Em situações devidamente identificadas e de âmbito marcadamente local, poderão operar em águas interiores não oceânicas embarcações de convés fechado, em condições a estabelecer nos regulamentos de incidência local a que se refere o artigo 59.º
+
+3 - Por motivos de segurança, e atendendo às habilitações da tripulação, o capitão do porto de registo de cada embarcação poderá fixar-lhes áreas de operação mais restritas do que as referidas no n.º 1.
+
+4 - Tendo em conta a topografia dos fundos marinhos e a especificidade da actividade da pesca na subárea da zona económica exclusiva dos Açores, o limite previsto na alínea a) do n.º 1 será de 12 milhas da costa.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 64.º — Áreas de operação das embarcações de pesca costeira
+
+1 - As embarcações de pesca costeira são as que podem operar nas áreas definidas nos n.os 2, 3 e 4, sem prejuízo do disposto no n.º 5.
+
+2 - As registadas nos portos do continente:
+
+a) Na área limitada a norte pelo paralelo 48ºN., a oeste pelo meridiano 14ºW., a sul pelo paralelo 30ºN., e a leste pela costa africana, pela linha que une Orão a Almeria e pela costa europeia;
+
+b) Na área limitada a norte pelo paralelo 30º N., a oeste pelo meridiano 16º W., a sul pelo paralelo 25º N. e a leste pela costa africana;
+
+c) Nos bancos Gorringe (Gettysburg), Josephine, Ampère, Seine e Dácia.
+
+3 - As registadas nos portos da Região Autónoma da Madeira:
+
+a) Na área circunscrita pelo limite exterior das subáreas da Madeira e dos Açores da zona económica exclusiva, bem como entre os pontos mais próximos das respectivas subáreas, sempre que se desloquem de uma para outra;
+
+b) Nos bancos Gorringe (Gettysburg), Josephine e Dácia.
+
+4 - As registadas nos portos da Região Autónoma dos Açores:
+
+a) Na área circunscrita pelo limite exterior das subáreas dos Açores e da Madeira da zona económica exclusiva, bem como entre os pontos mais próximos das respectivas subáreas, sempre que se desloquem de uma para outra;
+
+b) No banco Chaucer.
+
+5 - As embarcações de pesca costeira com arqueação bruta (GT) superior a 100 e a 260 ficam proibidas de operar, respetivamente, a menos de 6 milhas e 12 milhas de distância à linha da costa portuguesa ou ao alinhamento dos cabos Raso e Espichel e ao alinhamento dos cabos Espichel e Sines.
+
+6 - (Revogado.)
+
+7 - A limitação da área de operação estabelecida no n.º 5 não se aplica à pesca do cerco nem à pesca à linha na modalidade de vara e salto.
+
+8 - O Ministro da Agricultura, Pescas e Alimentação ou os órgãos próprios das regiões autónomas poderão fixar, respectivamente, para as embarcações de pesca costeira registadas em portos do continente ou em portos das regiões, áreas de operação mais restritas do que as definidas nos números anteriores, atendendo aos requisitos de segurança estabelecidos pela entidade competente.
+
+9 - O Ministro da Agricultura, Pescas e Alimentação poderá autorizar embarcações de pesca costeira a exercer a sua actividade fora das áreas de operação definidas nos n.os 2, 3 e 4, nas águas atlânticas compreendidas nas regiões comunitárias 2, 3, 4 e 5, desde que satisfaçam determinados requisitos técnicos e de segurança, nomeadamente a autonomia, estabelecidos pela entidade competente.
+
+10 - Fora das regiões referidas nos números anteriores as embarcações de pesca costeira só podem operar a partir de bases, flutuantes ou em terra, de navios-mãe ou em frotas combinadas.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 65.º — Embarcações de pesca do largo
+
+1 - Sem prejuízo do disposto no número seguinte, as embarcações de pesca do largo são as que podem operar em qualquer área, excepto para dentro de 12 milhas de distância à linha da costa portuguesa ou ao alinhamento dos cabos Raso, Espichel e Sines.
+
+2 - A limitação de área de operação estabelecida no número anterior não se aplica às embarcações de pesca do largo que se dediquem, exclusiva ou principalmente, à pesca de tunídeos e similares com isco vivo nas águas adjacentes às subáreas da Zona Económica Exclusiva dos Açores e da Madeira.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 66.º — Características e requisitos técnicos das embarcações
+
+1 - As embarcações de pesca devem possuir as características e os requisitos técnicos que lhes permitam exercer a actividade para que estão autorizadas em condições de segurança, com mar grosso e vento fresco, tendo em conta a natureza e extensão das viagens e a distância e localização dos pesqueiros mais afastados em que estão autorizadas a operar.
+
+2 - As características e os requisitos técnicos referidos no número anterior devem atender, nomeadamente, aos seguintes factores:
+
+a) Dimensões, propulsão, equipamentos, alojamentos, porões e conservação de pescado;
+
+b) Capacidade e peso máximos de transporte, tanto em pescado e gelo como em artes e outros instrumentos de pesca;
+
+c) Meios de salvação e equipamentos de navegação, segurança e de radiocomunicações;
+
+d) Certificação técnica e demais documentação de bordo exigível nos termos legais;
+
+e) Condições e outros factores de higiene e segurança, nomeadamente os constantes da legislação em vigor.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 67.º — Requisitos das embarcações de pesca local
+
+1 - Os requisitos específicos a que as embarcações de pesca local devem obedecer, com ressalva do disposto nos n.os 2 e 3, são:
+
+a) Comprimento de fora a fora - até 9 m;
+
+b) Potência do motor propulsor - não superior a 100 cv ou 75 kW.
+
+2 - Sem prejuízo do disposto no número seguinte, as embarcações de convés aberto que, nos termos da alínea a) do n.º 1 do artigo 63.º, podem exercer a pesca nas águas interiores não marítimas devem ter as seguintes características:
+
+a) Comprimento de fora a fora - não superior a 7 m, ou não superior a 9 m, no caso das registadas nas Regiões Autónomas;
+
+b) Potência do motor - não superior a 35 cv ou 25 kW.
+
+3 - Em situações devidamente identificadas e de âmbito marcadamente local, podem ser autorizadas a pescar nas águas interiores não marítimas embarcações com requisitos técnicos diferentes dos fixados nos números anteriores e nas condições a estabelecer nos regulamentos de incidência local a que se refere o artigo 59.º
+
+4 - As embarcações da pesca local que usem um único motor propulsor podem dispor de um segundo motor propulsor amovível, de potência não superior a 35 cv ou 26 kW, utilizado exclusivamente como alternativo no caso de falha do motor principal.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 68.º — Requisitos das embarcações de pesca costeira
+
+1 - Os requisitos específicos das embarcações de pesca costeira são:
+
+a) Comprimento de fora a fora - superior a 9 m e igual ou inferior a 33 m;
+
+b) Potência do motor propulsor - igual ou superior a 35 cv ou 26 kW;
+
+c) Autonomia - estabelecida de acordo com a área de operação fixada para a embarcação.
+
+2 - As embarcações com comprimento de fora a fora superior a 9 m e com potência de motor inferior a 35 cv ou 26 kW e as embarcações que, nas condições do n.º 3 do artigo anterior, sejam autorizadas a pescar nas águas interiores não marítimas são classificadas como embarcações de pesca local.
+
+3 - As embarcações licenciadas apenas para a pesca com arte-xávega com comprimento fora a fora superior a 9 m e que não ultrapassem 12 m são classificadas como embarcações de pesca local.
+
+4 - Serão também classificadas como embarcações de pesca local, na Região Autónoma dos Açores, as embarcações de convés aberto com comprimento de fora a fora superior a 9 m e inferior a 14 m que não respeitem as exigências estabelecidas por lei para as de pesca costeira, relativamente a meios de salvação e equipamentos de navegação e de radiocomunicações.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 69.º — Requisitos das embarcações de pesca do largo
+
+Os requisitos específicos das embarcações de pesca do largo são:
+
+a) Arqueação - com GT superior a 100;
+
+b) Autonomia - mínimo de quinze dias.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+## Título V — Do regime de autorização e licenciamento
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+### Capítulo I — Autorizações
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+###### Artigo 70.º — Autorização para aquisição, construção e modificação de embarcações de pesca
+
+1 - A aquisição, construção e modificação de embarcações de pesca a registar ou registadas em portos nacionais estão sujeitas a autorização prévia.
+
+2 - Os pedidos para a concessão da autorização referida no número anterior devem ser dirigidos às entidades competentes mencionadas no n.º 1 do artigo 8.º do Decreto-Lei n.º 278/87.
+
+3 - Para as embarcações a registar ou registadas nos portos do continente os pedidos devem ser entregues na DGP ou para ela canalizados através das capitanias de porto.
+
+4 - As autorizações previstas no n.º 1, um vez concedidas e não utilizadas, poderão caducar nas condições e prazos a definir por despacho do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 71.º — Elementos do pedido
+
+Os pedidos de autorização referidos no artigo anterior deverão ser acompanhados dos seguintes elementos:
+
+a) Identificação completa do requerente;
+
+b) Plano de arranjo geral e memória descritiva da embarcação, bem como descrição das artes a utilizar, das áreas de operação e das espécies a que a pesca se dirija;
+
+c) Justificação técnica e económica do projecto;
+
+d) Discriminação dos custos do projecto e prova da capacidade financeira do requerente.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+###### Artigo 72.º — Autorização para o afretamento de embarcações
+
+1 - Os pedidos para a concessão de autorização para o afretamento de embarcações de pesca estrangeiras devem ser dirigidos às entidades mencionadas no artigo 9.º do Decreto-Lei n.º 278/87.
+
+2 - Os requerentes que tenham o seu domicílio no continente deverão dirigir o pedido à DGP, directamente ou através das capitanias de porto, acompanhado dos seguintes elementos:
+
+a) Identificação completa do requerente;
+
+b) Características da embarcação a afretar, bem como das artes a utilizar, e das áreas em que pretende operar e das espécies a explorar;
+
+c) Identificação e características da embarcação cuja construção ou modificação já tenha sido autorizada e que se destine a ser substituída pela embarcação a afretar, se for o caso;
+
+d) Explicitação dos novos tipos de embarcação, das novas artes ou técnicas de pesca ou das novas áreas de operação que se visem experimentar com o afretamento, se for o caso;
+
+e) Minuta do contrato de afretamento acordada entre as partes.
+
+3 - A autorização referida no n.º 1 é concedida pelo prazo máximo de dois anos, caducando logo que deixem de subsistir os motivos determinantes da sua concessão, se estes se verificarem antes de decorrido aquele prazo.
+
+4 - O afretamento de embarcações de pesca nacionais para operarem em águas de países terceiros ou em águas internacionais, designadamente no âmbito das organizações regionais de pesca, está sujeito a autorização das entidades referidas no n.º 1, devendo o pedido ser dirigido à DGRM, acompanhado por:
+
+a) Identificação do proprietário da embarcação e do afretador;
+
+b) Identificação da embarcação a fretar;
+
+c) Característica das artes a utilizar, das áreas de pesca, em que se pretende operar e das espécies a explorar;
+
+d) Documento que comprove que as capturas de espécies sujeitas a quota são deduzidas na quota de pesca do país afretador;
+
+e) Minuta do contrato de afretamento.
+
+5 - O afretamento de embarcações de pesca nacionais, para operarem em águas da União Europeia ou em águas sob soberania ou jurisdição nacional e com as artes para que estão licenciadas, está sujeito a autorização das entidades referidas no n.º 1, devendo o pedido ser dirigido à DGRM, acompanhado por:
+
+a) Identificação do proprietário da embarcação e do afretador;
+
+b) Identificação da embarcação a fretar;
+
+c) Minuta do contrato de afretamento.
+
+6 - A autorização referida no número anterior tem a duração de um ano, renovável automaticamente por igual período, caso não haja manifestação de vontade de qualquer uma das partes em sentido contrário.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 73.º — Autorização para o exercício da actividade e para o uso de artes
+
+1 - A concessão das autorizações referidas nos artigos 70.º e 72.º abrangerá automaticamente a autorização para o exercício da pesca pelas embarcações ali mencionadas, bem como para a utilização das artes ou para a exploração de espécies expressamente consignadas no acto de autorização.
+
+2 - A utilização de artes ou a exploração de espécies diferentes daquelas para as quais a embarcação foi autorizada, bem como o exercício da pesca e o uso de artes sem auxílio de embarcações, ou com o auxílio de embarcações dispensadas da autorização referida no n.º 1 do artigo 70.º, estão sujeitos a autorização prévia.
+
+3 - Os pedidos de autorização referidos no número anterior devem ser dirigidos às entidades competentes mencionadas no n.º 2 do artigo 8.º do Decreto-Lei n.º 278/87 acompanhados dos seguintes elementos:
+
+a) Identificação completa do requerente;
+
+b) Caracterização da actividade eventualmente desenvolvida pelo requerente no sector da pesca, com indicação, nomeadamente, do número de embarcações e artes utilizadas;
+
+c) Áreas de operação e espécies a explorar, bem como os períodos de utilização de cada arte.
+
+4 - O Ministro da Agricultura, Pescas e Alimentação ou os órgãos próprios das regiões autónomas poderão, no âmbito das suas competências, definidas no artigo 8.º do Decreto-Lei n.º 278/87, fixar números máximos de autorizações para o exercício da pesca, para a actividade das embarcações e para a utilização das artes de pesca.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 15/2007 - Diário da República n.º 62/2007, Série I de 2007-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2007-520253), produz efeitos a partir de 2007-01-01
+
+### Capítulo II — Licenciamento
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+###### Artigo 74.º — Licenciamento
+
+1 - O exercício da pesca e a utilização de artes ou utensílios com ou sem o auxílio de embarcações, seja em águas sob soberania e jurisdição nacional, em águas comunitárias de países terceiros ou em alto mar, estão sujeitos a licenciamento, a requerer anualmente.
+
+2 - As licenças de pesca têm uma vigência de 12 meses, sem prejuízo de poderem ser fixados períodos mais restritos para a utilização de cada arte, bem como do disposto no número seguinte.
+
+3 - Poderão ser concedidas licenças excepcionais, a todo o tempo revogáveis, quando esteja em causa, nomeadamente, a recolha de espécies para fins científicos, incluindo a experimentação, ou para repovoamento, desde que controlada pela administração das pescas e supervisionada por instituições científicas de reconhecido mérito.
+
+4 - Revogado.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 15/2007 - Diário da República n.º 62/2007, Série I de 2007-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2007-520253), produz efeitos a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 74.º-A — Critérios e condições
+
+Os critérios e condições relativos ao licenciamento para o exercício da actividade da pesca são fixados por despacho do membro do Governo responsável do sector das pescas ou pelos órgãos de governo próprio das Regiões Autónomas, no caso de a competência para o licenciamento lhes estar atribuída, tendo em consideração:
+
+a) A situação dos recursos em geral e em particular da espécie alvo;
+
+b) A área de actuação das embarcações;
+
+c) A actividade das embarcações comprovada pela frequência de idas à lota e pelas descargas verificadas, bem como a coerência que deve existir entre a composição dos desembarques e as artes correspondentes;
+
+d) A selectividade e o número de artes de cada embarcação;
+
+e) As características e o estado das embarcações; e
+
+f) O incumprimento reiterado das normas reguladoras do exercício da pesca.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 75.º — Trâmites do licenciamento
+
+1 - Compete à Direcção-Geral das Pescas e Aquicultura (DGPA) a concessão do licenciamento, excepto nos casos seguintes, em que a competência cabe aos órgãos próprios das Regiões Autónomas:
+
+a) Licenciamento para o exercício da atividade de embarcações registadas nos portos das regiões autónomas, bem como para as artes por elas utilizadas, que se destinam à captura de recursos que ocorram em águas sob jurisdição nacional abrangidas pela Região onde as embarcações estão registadas, ou por outra Região, caso em que o licenciamento está sujeito a parecer prévio, vinculativo, dos órgãos próprios da Região em cujas águas as embarcações pretendem operar;
+
+b) Licenciamento para o exercício da actividade da pesca e respectivas artes, sem auxílio de embarcações, de recursos que ocorram em águas abrangidas nas respectivas Regiões.
+
+2 - O requerimento para o primeiro licenciamento deve ser apresentado pelos titulares das autorizações referidas nos artigos 70.º e 72.º, à DGPA, por intermédio dos serviços centrais ou regionais ou das capitanias do porto de registo das embarcações, ou da área em que seja exercida a pesca sem auxílio de embarcações.
+
+3 - Os pedidos de renovação das licenças devem ser apresentados às entidades referidas no número anterior até 31 de Agosto de cada ano, instruídos com a documentação prevista no despacho a que se refere o artigo 74.º-A.
+
+4 - As licenças excepcionais, referidas no n.º 3 do artigo 74.º, podem ser requeridas a todo o tempo.
+
+5 - Os requerimentos referidos no n.º 3 poderão ainda ser apresentados nos 30 dias seguintes para além do prazo ali previsto, sendo, neste caso, a taxa da licença agravada para o triplo.
+
+6 - O incumprimento dos prazos previstos nos n.os 3 e 5 determina a extemporaneidade do pedido, pelo que o mesmo será indeferido, salvo justificação apresentada pelo requerente até 15 de Dezembro e aceite pela DGPA.
+
+7 - O membro do Governo responsável pelo sector das pescas estabelecerá os prazos e procedimentos administrativos para a concessão das licenças para o exercício da apanha de plantas marinhas ou de outras actividades marcadamente sazonais que, como tal, por ele vierem a ser caracterizadas.
+
+8 - As falsas declarações sobre os elementos referidos no n.º 3 serão punidas nos termos da lei.
+
+9 - Assim que possível, os pedidos referidos nos artigos 70.º, 72.º, 73.º e 74.º podem ser apresentados de forma desmaterializada, através de sítio na Internet da DGRM, acessível através do balcão único eletrónico a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do Portal do Cidadão.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 15/2007 - Diário da República n.º 62/2007, Série I de 2007-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2007-520253), produz efeitos a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 76.º — Concessão das licenças
+
+1 - A renovação das licenças de pesca será sempre concedida aos que a tiverem requerido nos termos do artigo anterior, salvo recusa expressa da DGPA, a comunicar ao requerente, com conhecimento à capitania do porto do registo, até 30 de Novembro de cada ano, com fundamento nos critérios e condições fixados no despacho previsto no artigo 74.º-A.
+
+2 - No caso previsto nos n.os 4 e 6 do artigo anterior, o prazo de que a DGPA dispõe para notificar os requerentes é de 90 dias.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 77.º — Emissão e formalização das licenças
+
+1 - As licenças de pesca são tituladas por documento a emitir pela DGPA, cuja informação mínima é aprovada por portaria do membro do Governo responsável pelo sector das pescas.
+
+2 - Para efeitos do disposto no n.º 1, à DGPA compete:
+
+a) Enviar às capitanias do porto de registo as licenças referidas nos n.os 2, 4, 5 e 6 do artigo 75.º no prazo máximo de 15 dias a contar da sua concessão;
+
+b) Enviar às capitanias do porto de registo, até 30 de Novembro de cada ano, as licenças que se hajam renovado nesse ano, devidamente emitidas;
+
+c) Para efeitos do disposto no n.º 1, compete às capitanias do porto de registo fazer entrega das licenças aos interessados que para esse efeito lhes sejam remetidas pela DGPA.
+
+3 - Até 31 de Dezembro de cada ano, devem os interessados proceder junto das capitanias do porto de registo ao levantamento das licenças concedidas nesse ano, data após a qual as mesmas são devolvidas à DGPA.
+
+4 - Nos casos previstos na alínea a) do n.º 2, a DGPA notificará os interessados da remessa das licenças para a capitania do porto de registo, fixando um prazo de 30 dias para o seu levantamento.
+
+5 - A DGPA procederá à anulação das licenças não levantadas até ao dia 31 de Janeiro do ano a que respeitam, bem como das não levantadas nos termos da parte final do número anterior.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 15/2007 - Diário da República n.º 62/2007, Série I de 2007-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2007-520253), produz efeitos a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 78.º — Taxas
+
+1 - A concessão de licenças de pesca está sujeita ao pagamento de taxas pelos respetivos beneficiários, cujos montantes e formas de cobrança são estabelecidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e do mar.
+
+2 - Os valores das taxas são automaticamente atualizados a 1 de março de cada ano, por aplicação do índice de preços no consumidor, publicado pelo Instituto Nacional de Estatística, I. P., arredondando-se o resultado para a casa decimal superior, devendo a DGRM proceder à divulgação dos valores em vigor no seu sítio na Internet.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904), em vigor a partir de 2015-09-21
+
+###### Artigo 79.º — Vistoria das artes e das condições de conservação
+
+As características das artes e de outros instrumentos de pesca, bem como as condições para conservação do pescado a bordo das embarcações, devem ser aprovadas na altura da concessão da licença inicial e verificadas com a periodicidade de pelo menos uma vez em cada três anos pela DGP ou pelos órgãos competentes das regiões autónomas, consoante se trate de embarcações registadas nos portos do continente ou nos portos daquelas regiões.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 80.º — Livrete de actividade das embarcações
+
+1 - As embarcações de pesca deverão possuir um livrete de actividade, a emitir pela DGP, segundo modelo e em condições a aprovar pelo Ministro da Agricultura, Pescas e Alimentação.
+
+2 - Deverão constar desse livrete os seguintes elementos, devidamente actualizados:
+
+a) As áreas de operação;
+
+b) A capacidade e o peso máximos, tanto em pescado e gelo como em artes e outros instrumentos de pesca, nomeadamente o número máximo de redes que podem transportar;
+
+c) As artes e outros instrumentos que estão autorizados a usar, bem como as suas características.
+
+3 - A licença só será concedida após o averbamento no livrete de actividade dos elementos referidos no número anterior.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 15/2007 - Diário da República n.º 62/2007, Série I de 2007-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2007-520253), produz efeitos a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 81.º — Regulamentação complementar
+
+O Ministro da Agricultura, Pescas e Alimentação e os órgãos próprios das regiões autónomas, no âmbito das suas competências, fixarão os procedimentos administrativos específicos para a concessão das autorizações e das licenças de pesca referidas no presente capítulo.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+## Título VI — Das contra-ordenações
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+###### Artigo 82.º — Contra-ordenações
+
+As infracções tipificadas nos n.os 1 a 4 do presente artigo constituem contra-ordenação punível nos seguintes termos:
+
+1 - Com coima de 120000$00 a 2000000$00:
+
+a) Exercer a pesca sem para tal dispor das necessárias autorizações e dos licenciamentos exigíveis;
+
+b) Utilizar artes de pesca proibidas ou não licenciadas;
+
+c) Utilizar artes de pesca cuja malhagem seja inferior aos mínimos estabelecidos ou usar dispositivos ou sistemas que possam obstruir ou reduzir essas malhagens;
+
+d) Exercer a pesca em áreas proibidas ou temporariamente vedadas ao seu exercício;
+
+e) Exercer a pesca nos períodos em que a mesma seja proibida;
+
+f) Exercer a pesca a distâncias da costa ou de outros pontos de referência ou em profundidades inferiores ao legalmente estabelecido para o tipo de artes utilizadas;
+
+g) Operar com embarcações aquém do limite interior das respectivas áreas de operação legalmente fixadas;
+
+h) Deter, transportar, manter a bordo ou exercer a pesca com armas de fogo, substâncias explosivas, venenosas, tóxicas, corrente eléctrica ou por outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes, bem como deitar ao mar objectos ou substâncias susceptíveis de afectarem o meio marinho.
+
+2 - Com coima de 40000$00 a 600000$00:
+
+a) Manter a bordo, transbordar, desembarcar, transportar, armazenar, vender, expor ou colocar à venda peixes, crustáceos e moluscos, cuja pesca seja proibida ou que não tenham o tamanho ou o peso mínimos exigidos;
+
+b) Manter a bordo espécies capturadas em percentagens superiores às legalmente fixadas;
+
+c) Utilizar artes de pesca cujo número, dimensões ou características técnicas, não referidas na alínea c) do n.º 1, não obedeçam às normas estabelecidas;
+
+d) Transportar, deter, manter a bordo, depositar ou abandonar no mar, no cais ou nas margens dos leitos das águas artes de pesca proibidas, não licenciadas ou cujas malhagens e restantes características técnicas não se conformem com as legalmente estabelecidas;
+
+e) Abandonar artes de pesca ou mantê-las em operação por tempo superior ao fixado;
+
+f) Utilizar fontes luminosas para efeitos de chamariz de peixe, em desconformidade com o legalmente estabelecido;
+
+g) Não respeitar as normas referidas no artigo 47.º, sem prejuízo do disposto na alínea h) do número anterior;
+
+h) Operar com embarcações cujas dimensões ou características técnicas não obedeçam as normas estabelecidas;
+
+i) Operar com embarcações que não respeitem as características, requisitos técnicos e de segurança legalmente estabelecidos nos domínios mencionados no n.º 2 do artigo 66.º;
+
+j) Exercer a pesca com o recurso a práticas de pesca proibidas, tais como «bater» nas águas («batuque»), «valar águas», «socar», «lançar pedras», percutir ou usar práticas semelhantes;
+
+l) Exercer a pesca fora dos períodos diários que estejam legalmente fixados;
+
+m) Exercer a pesca em zonas consideradas insalubres;
+
+n) Utilizar artes de pesca que não tenham as características de entralhação ou de confecção fixadas;
+
+o) Exercer a pesca com embarcações de potência propulsora superior à legalmente fixada para o tipo de pesca para que estão licenciadas.
+
+3 - Com coima de 30000$00 a 300000$00:
+
+a) Usar artes de pesca sem respeitar as regras de utilização legalmente estabelecidas, nomeadamente quanto à forma e locais de calagem, distâncias relativamente a outras artes, forma e distância de lançamento e sistemas de fixação;
+
+b) Utilizar artes ou acessórios de pesca que não estejam sinalizados nem identificados de acordo com as disposições aplicáveis e não respeitar as normas de assinalamento das fases da faina da pesca;
+
+c) Exercer a pesca em locais proibidos por motivos específicos que não se relacionem com a conservação de recursos, nomeadamente por razões de segurança e de tráfego marítimo, fixados no presente diploma e respectiva legislação complementar;
+
+d) Efectuar a bordo de embarcações de pesca quaisquer transformações físicas ou químicas do pescado, não expressamente autorizadas;
+
+e) Exercer a pesca sem ser portador da respectiva licença.
+
+4 - Com coima de 20000$00 a 150000$00:
+
+a) Utilizar em águas interiores não oceânicas, como isco ou engodo, ovas de peixe;
+
+b) Utilizar, em águas interiores não oceânicas, práticas de pesca destinadas a encaminhar os espécimes para espaços de onde não possam sair, os forçem a passar por locais estreitos ou os impeçam de circular livremente;
+
+c) Exercer a pesca em águas interiores não oceânicas, cujo nível possa fazer perigar a fauna aquícola;
+
+d) Praticar a caça submarina em áreas e períodos proibidos;
+
+e) Praticar a pesca desportiva em águas interiores não oceânicas sem respeitar as normas relativas à utilização de embarcações, número e tipo de apetrechos de pesca, abertura dos anzóis, períodos hábeis para a prática desta modalidade de pesca e tamanhos mínimos dos espécimes, previstas nos regulamentos de incidência local referidos no artigo 59.º
+
+5 - Em função da gravidade das contra-ordenações previstas no n.º 1, sempre que haja dolo do agente, deve ser cumulativamente aplicada a sanção acessória prevista na alínea c) do n.º 1 do artigo 22.º do Decreto-Lei n.º 278/87, de 7 de Julho, dentro dos seguintes limites:
+
+a) De 30 dias a um ano, no caso das contra-ordenações tipificadas nas alíneas b), c), j) e h) do n.º 1;
+
+b) De 10 dias a um ano, no caso das contra-ordenações tipificadas nas restantes alíneas do referido n.º 1.
+
+6 - Se o responsável pela contra-ordenação for pessoa singular, a coima aplicável não poderá exceder o limite máximo previsto no n.º 1 do artigo 17.º do Decreto-Lei n.º 433/82, de 27 de Outubro.
+
+7 - Os montantes das coimas referidos nos n.os 1, 2, 3 e 4 serão reduzidos a metade sempre que as infracções sejam praticadas com embarcações de convés aberto ou sem auxílio de embarcações.
+
+8 - A negligência e a tentativa são sempre puníveis, sendo, neste último caso, os limites mínimos e máximo da correspondente coima reduzidos a metade.
+
+9 - As artes e apetrechos de pesca ilegais ou em operação ilegal, quando não identificados, devem ser sempre apreendidos.
+
+10 - Os bens apreendidos nos termos do número anterior são considerados perdidos a favor do Estado, desde que não seja possível identificar o seu proprietário.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+> Retificado pelo/a [Declaração - Diário da República n.º 252/1990, 2º Suplemento, Série I de 1990-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-624208), produz efeitos a partir de 1990-09-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+> Retificado pelo/a [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634), produz efeitos a partir de 1988-07-16
+
+## Título VII — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+###### Artigo 83.º — Obtenção do livrete de actividade
+
+1 - Os proprietários das embarcações de pesca deverão até 30 de Junho de 1989, obter junto da DGP o livrete de actividade das suas embarcações, em conformidade com o disposto no artigo 80.º, sem o qual as mesmas não poderão ser licenciadas a partir daquela data.
+
+2 - Com vista à obtenção do livrete dentro do prazo referido no número anterior, deverão os interessados requerê-lo atempadamente ao director-geral das Pescas e:
+
+a) Juntar cópia do título de registo de propriedade (TRP);
+
+b) Declarar quais as artes ou outros instrumentos de pesca que foram utilizados pela embarcação nos últimos três anos;
+
+c) Comprovar ter exercido a pesca por um período não inferior a 6 meses, ou 100 dias em cada um dos últimos 3 anos, com cada arte que pretende utilizar, para o que deverão juntar declarações passadas pelas associações de armadores ou de proprietários ou por outras entidades idóneas, bem como cópia do rol de matrícula ou rol de tripulação;
+
+d) Juntar declaração sobre as vendas de pescado efectuadas nos últimos três anos.
+
+3 - O requerimento a que se refere o número anterior poderá ser entregue na capitania do porto de registo da embarcação.
+
+4 - As falsas declarações sobre os elementos referidos no n.º 2 serão punidas nos termos da lei.
+
+5 - Para efeitos da emissão de livrete as embarcações poderão ser sujeitas a vistoria por uma comissão de vistoria nomeada pela DGP.
+
+6 - Poderão ser estabelecidos na altura desta vistoria e averbados no livrete quaisquer condicionamentos adicionais ao uso das artes de pesca.
+
+7 - O Ministério da Agricultura, Pescas e Alimentação publicará no Diário da República, no prazo máximo de dois anos a contar da data da publicação do presente diploma, as listas das embarcações autorizadas a utilizar cada arte de pesca.
+
+8 - As competências que neste artigo são atribuídas à DGP e ao director-geral das Pescas são exercidas nas regiões autónomas pelos correspondentes órgãos de governo próprio.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 84.º — Embarcações de pesca em actividade
+
+As embarcações de pesca que à data da publicação do presente diploma não satisfaçam as disposições nele estabelecidas quanto a áreas de operação, características e requisitos técnicos, mas que se encontrem devidamente autorizadas e licenciadas, poderão continuar nessa situação até à sua modificação ou abate ao registo, mas nunca após o dia 31 de Dezembro de 1990, apenas podendo ser substituídas por outras que satisfaçam ao disposto no presente diploma.
+
+> Nota: [Artigo 1.º, Decreto Regulamentar n.º 30/91 - Diário da República n.º 127/1991, Série I-B de 1991-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1991-629462) prorroga a data limite fixada no presente artigo, para 31 de Dezembro de 1992.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 85.º — Protocolos de cooperação
+
+Quando as circunstâncias o aconselhem, poderão os organismos com competência na execução do presente diploma, nomeadamente a DGP, estabelecer protocolos de cooperação com outras entidades, nomeadamente a Direcção-Geral de Marinha e a Inspecção-Geral de Navios.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+###### Artigo 85.º-A — Apanha de espécies marinhas
+
+A apanha de espécies marinhas em áreas não especialmente concessionadas para cultura dessas espécies bem como as regras de comercialização das espécies provenientes daquela actividade serão regulamentadas para o continente por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação, da Saúde e do Comércio e Turismo e para as regiões autónomas por diploma dos órgãos de governo próprio dessas regiões.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 85.º-B — Legislação revogada
+
+1 - Sem prejuízo do disposto no número seguinte, são revogadas todas as disposições legais relativas à apanha de espécies marinhas e sua comercialização constantes do Decreto Regulamentar n.º 446/72, de 10 de Novembro, da Portaria n.º 254/79, de 31 de Maio, e do Decreto Regulamentar n.º 11/80, de 7 de Maio.
+
+2 - Enquanto não forem publicados os regulamentos a que se refere o artigo anterior, são mantidas, em relação às respectivas matérias, as disposições legais em vigor.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02
+
+###### Artigo 86.º — Entrada em vigor
+
+O presente diploma entrará em vigor no prazo de 60 dias a contar da data da publicação, com excepção das disposições dos títulos III e V, que entrarão em vigor 1 ano após a publicação deste diploma.
+
+Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+Promulgado em 4 de Junho de 1987.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 8 de Junho de 1987.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+## Anexo — ANEXO I ao ANEXO VII
+
+(ver documento original)
+
+> Nota: [Anexo, Declaração - Diário da República n.º 252/1990, 2º Suplemento, Série I de 1990-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-624208) Tendo sido publicados com várias inexactidões, os anexos I, V e VI são republicados integralmente.
+
+> Nota: [Declaração - Diário da República n.º 252/1990, 2º Suplemento, Série I de 1990-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-624208) retifica o anexo IV nos seguintes termos: Na coluna «Espécies», na antepenúltima linha, onde se lê «Donzela-azul (Molva dylerygia)» deve ler-se «Donzela-azul (Molva dypterygia)
+
+> Nota: [Artigo 4.º, Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856) elimina os anexos II e III ao presente diploma.
+
+> Nota: [Declaração - Diário da República n.º 199/1987, 1º Suplemento, Série I de 1987-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239634) retifica o presente anexo, nos seguintes termos: No mapa do anexo I, nas 3.ª e 4.ª colunas, onde se lê «espécies alvo» deve ler-se «espécies-alvo». No mapa do anexo I, onde se lê «Lagostim (Nephrops norvevegicus)» deve ler-se «Lagostim (Nephrops norvegicus)». No mapa do anexo I, onde se lê «Gamba (Parapeneaus longirostris)» deve ler-se «Gamba (Parapenaeus longirostris)». O mapa do anexo III deve ser substituído pelo que se junta em anexo. No mapa do anexo IV, na coluna das espécies, onde se lê «Rodavalho» deve ler-se «Rodovalho». O mapa do anexo V deve ser substituído pelo que se junta em anexo. No mapa do anexo VI, onde se lê «(a) Tamanho a determinar nos termos do artigo 48.º, n.º 10, do Decreto-Lei n.º 278/87» deve ler-se «(a) Tamanho a determinar nos termos do artigo 48.º, n.º 10, do presente decreto regulamentar
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto-Lei n.º 73/2020 - Diário da República n.º 186/2020, Série I de 2020-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), em vigor a partir de 2021-01-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2000 - Diário da República n.º 125/2000, Série I-B de 2000-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), em vigor a partir de 2000-06-04
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 28/90 - Diário da República n.º 210/1990, Série I de 1990-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856), em vigor a partir de 1990-09-16
+
+> Alterado pelo/a Anexo I do/a [Decreto Regulamentar n.º 3/89 - Diário da República n.º 24/1989, Série I de 1989-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), em vigor a partir de 1989-02-02

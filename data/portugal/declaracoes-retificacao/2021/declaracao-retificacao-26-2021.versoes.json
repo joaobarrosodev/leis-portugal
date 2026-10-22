@@ -1,0 +1,38 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:167923979:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao-retificacao/2021-167923999",
+ "dre_path": "/dr/detalhe/declaracao-retificacao/26-2021-167923979",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:170649063:por",
+     "title": "Declaração de Retificação n.º 29/2021",
+     "published": "2021-09-03",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/29-2021-170649063"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "170748578"
+   ],
+   "acts_without_text_change": []
+  }
+ ],
+ "fragments": {
+  "170748578": {
+   "fragment_id": "167924000",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-01",
+   "changed_by": [],
+   "markdown": "Declaração de Retificação n.º 26/2021\n\nSumário: Retifica a Portaria n.º 136/2021, de 30 de junho, que procede à primeira alteração à Portaria n.º 166/2019, de 29 de maio, que aprovou os Estatutos do Instituto da Conservação da Natureza e das Florestas, I. P.\n\nNos termos da alínea f) do n.º 1 do artigo 5.º do Decreto-Lei n.º 20/2012, de 15 de março, conjugada com o disposto no n.º 1 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 15/2016, de 21 de dezembro, e nos artigos 5.º e 6.º da Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho, declara-se que a Portaria n.º 136/2021, publicada no Diário da República, 1.ª série, n.º 125, de 30 de junho de 2021, saiu com inexatidões que, mediante declaração da entidade emitente, assim se retificam:\n\nNo artigo 3.º, onde se lê:\n\n«1 - São cargos de direção intermédia de 1.º grau os diretores de departamento, o diretor nacional de gestão do programa de fogos rurais, o comandante da Força de Sapadores Bombeiros Florestais e os diretores regionais adjuntos responsáveis por apoiar os diretores regionais na interlocução institucional com as entidades regionais que operam no domínio da Gestão Integrada dos Fogos Rurais.\n\n2 - São cargos de direção intermédia de 2.º grau os chefes de divisão, os chefes de gabinete e os coordenadores de unidade.\n\n3 - [...]\n\n4 - [...]»\n\ndeve ler-se:\n\n«1 - São cargos de direção intermédia de 1.º grau os diretores de departamento, o diretor nacional de gestão do programa de fogos rurais, o comandante da Força de Sapadores Bombeiros Florestais e os diretores regionais adjuntos responsáveis por apoiar os diretores regionais na interlocução institucional com as entidades regionais que operam no domínio da Gestão Integrada dos Fogos Rurais.\n\n2 - São cargos de direção intermédia de 2.º grau os chefes de divisão, os chefes de gabinete e os coordenadores de unidade.»\n\nNo n.º 2 do artigo 4.º, onde se lê:\n\n«2 - No âmbito da gestão patrimonial, contratação pública e logística, compete ao DGAFSI:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) Garantir o aprovisionamento de bens e serviços necessários a intervenção do ICNF, I. P., no SGIFR;»\n\ndeve ler-se:\n\n«2 - No âmbito da gestão patrimonial, contratação pública e logística, compete ao DGAFSI:\n\na) Planear e assegurar, em articulação com os serviços territorialmente desconcentrados, a gestão do património privado ou afeto ao ICNF, I. P., propondo ações de verificação e vistorias, valorização, alienação, aquisição, cedência, manutenção e cumprir as disposições legais relativas ao registo de imóveis, mantendo atualizado o cadastro patrimonial;\n\nb) Gerir as instalações, o parque de veículos e o economato, mantendo organizado o respetivo cadastro, em articulação com os serviços territorialmente desconcentrados;\n\nc) Garantir o aprovisionamento de bens e serviços necessários à atividade do ICNF, I. P.;\n\nd) Assegurar a execução dos procedimentos pré-contratuais de aquisição de bens e serviços, a gestão administrativa dos processos e a execução dos contratos;\n\ne) Assegurar as atividades inerentes à gestão documental e processual, designadamente através de regulamentação, organização e classificação, manutenção, disponibilização e conservação do arquivo do ICNF, I. P., no âmbito das suas competências, prestando o necessário apoio às demais unidades orgânicas e aos serviços territorialmente desconcentrados, e ainda o serviço de expediente;\n\nf) Emitir declarações, certidões e proceder à autenticação de documentos;\n\ng) Garantir o aprovisionamento de bens e serviços necessários à intervenção do ICNF, I. P., no SGIFR.»\n\nSecretaria-Geral, 13 de julho de 2021. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.\n\n114416748"
+  }
+ }
+}

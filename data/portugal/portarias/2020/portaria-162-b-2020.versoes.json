@@ -1,0 +1,267 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:137022279:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-153472475",
+ "dre_path": "/dr/detalhe/portaria/162-b-2020-137022279",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-06-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "153472575",
+    "153472576",
+    "153472577",
+    "153472579",
+    "153472580",
+    "153472581",
+    "153472582",
+    "153472583",
+    "153472584",
+    "153472585",
+    "153472586",
+    "153472587",
+    "153472588",
+    "153472589",
+    "153472590",
+    "153472591",
+    "153472592",
+    "153472593",
+    "153472594"
+   ]
+  },
+  {
+   "date": "2021-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:153341281:por",
+     "title": "Portaria n.º 11/2021",
+     "published": "2021-01-08",
+     "dre_path": "/dr/detalhe/portaria/11-2021-153341281"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "153472575",
+    "153472576",
+    "153472577",
+    "153472578",
+    "153472579",
+    "153472580",
+    "153472581",
+    "153472582",
+    "153484780",
+    "153472584",
+    "153472585",
+    "153484781",
+    "153472587",
+    "153472588",
+    "153472589",
+    "153472590",
+    "153472591",
+    "153484782",
+    "153472593",
+    "153472594"
+   ]
+  }
+ ],
+ "fragments": {
+  "153472575": {
+   "fragment_id": "153472476",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 162-B/2020\n\nde 30 de junho\n\nSumário: Aprova o Regulamento do Regime de Compensação aos Aquicultores pela Suspensão ou Redução Temporárias da Produção e das Vendas em consequência do surto de COVID-19, do Programa Operacional (PO) Mar 2020, para Portugal Continental.\n\nA pandemia causada por coronavírus - COVID-19 obrigou a que vários países, incluindo Portugal, adotassem medidas extraordinárias de emergência de saúde pública que, sendo a resposta necessária à contenção da doença, provocam, no entanto, inúmeras consequências de ordem económica e social dado o forte constrangimento ao exercício das atividades económicas.\n\nO setor da pesca e da aquicultura tem sido particularmente atingido pelas perturbações do mercado geradas por uma redução significativa da procura e dos preços, a que se junta a vulnerabilidade e complexidade da cadeia de abastecimento.\n\nNeste contexto, ao nível da União Europeia foi adotado o Regulamento (UE) 2020/560 do Parlamento Europeu e do Conselho, de 23 de abril de 2020, que altera os Regulamentos (UE) n.º 508/2014 e (EU) n.º 1379/2013, no que respeita a medidas específicas destinadas a atenuar o impacto do surto de COVID-19 no setor da pesca e da aquicultura.\n\nEm concreto, por alteração dos n.os 1 e 2 do artigo 55.º do referido Regulamento (UE) n.º 508/2014, passou a prever-se a possibilidade de ser disponibilizado apoio do Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP) para medidas que compensem as perdas económicas resultantes do surto de COVID-19 dos operadores nas atividades de aquicultura, nomeadamente as que resultem da suspensão ou redução temporárias da produção e das vendas por efeito do fecho dos mercados e canais de distribuição.\n\nIntroduzida que foi aquela alteração regulamentar, sem, no entanto, haver uma atribuição de fundos europeus suplementares ao Programa Operacional Mar 2020, pretende-se responder a esta necessidade de apoio das empresas aquícolas com recurso a realocação de verbas ainda disponíveis no programa, procedendo-se, se necessário, ao rateio dos apoios, de modo a garantir apoio a todos os operadores económicos que vejam aprovadas as respetivas candidaturas.\n\nO Decreto-Lei n.º 159/2014, de 27 de outubro, veio prever, sob a alínea d) do n.º 1 do artigo 4.º e na alínea b) do n.º 2 do artigo 5.º, respetivamente, que o regime jurídico dos Fundos Europeus Estruturais e de Investimento (FEEI) é também integrado pela regulamentação específica dos programas operacionais e que, no caso do FEAMP, a mesma é aprovada por portaria do membro do Governo responsável pela área do mar.\n\nForam ouvidas as associações representativas do setor e os representantes dos sindicatos acerca da medida de apoio acima descrita.\n\nAssim, ao abrigo do disposto no n.º 1 e na alínea d) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de julho, alterado pelos Decretos-Leis n.os 218/91, de 17 de junho, 383/98, de 27 de novembro, 10/2017, de 10 de janeiro, 40/2017, de 4 de abril, e 35/2019, de 11 de março, e na alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, manda o Governo, pelo Ministro do Mar, o seguinte:"
+  },
+  "153472576": {
+   "fragment_id": "153472477",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado, para 2020 e como anexo à presente Portaria, dela fazendo parte integrante, o Regulamento do Regime de Compensação aos Aquicultores pela Suspensão ou Redução Temporárias da Produção e das Vendas em consequência do surto de COVID-19, ao abrigo da prioridade da União Europeia estabelecida no n.º 2 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), e com enquadramento na medida prevista na alínea b) do n.º 1 do artigo 55.º do mesmo Regulamento."
+  },
+  "153472577": {
+   "fragment_id": "153472478",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "153472579": {
+   "fragment_id": "153472480",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nRegulamento do Regime de Compensação aos Aquicultores pela Suspensão ou Redução Temporárias da Produção e das Vendas em consequência do surto de COVID-19"
+  },
+  "153472580": {
+   "fragment_id": "153472481",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento estabelece o Regulamento do Regime de Compensação aos Aquicultores pela Suspensão ou Redução Temporárias da Produção e das Vendas em consequência do surto de COVID-19, do Programa Operacional (PO) Mar 2020, para Portugal Continental."
+  },
+  "153472581": {
+   "fragment_id": "153472482",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos no presente Regulamento têm como finalidade compensar os aquicultores pela suspensão ou redução temporárias da produção e das vendas, motivadas pelo surto do novo coronavírus - COVID-19."
+  },
+  "153472582": {
+   "fragment_id": "153472483",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente Regulamento e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, entende-se por:\n\na) «Empresa», qualquer pessoa singular ou coletiva que, independentemente da sua forma jurídica, exerce uma atividade económica;\n\nb) «Empresas aquícolas», as empresas que detenham um dos seguintes códigos de atividade económica:\n\ni) Divisão 03, Grupo 032, Classe 0321, subclasse 03210, Aquicultura em águas salgadas e salobras;\n\nii) Divisão 03, Grupo 032, Classe 0322, subclasse 03220, Aquicultura em águas doces.\n\nc) «Micro, pequenas e médias empresas (PME)», as definidas como tal na Recomendação n.º 2003/361/CE, de 6 de maio."
+  },
+  "153472583": {
+   "fragment_id": "153472484",
+   "type": 11,
+   "heading": "Artigo 4.º — Elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Elegibilidade das operações\n\n1 - Podem beneficiar de apoios ao abrigo do presente regime as operações que visem a compensação de perdas económicas correspondentes a mais de 25 % da faturação média do beneficiário, resultantes da suspensão ou redução temporária da produção aquícola e das respetivas vendas no período compreendido entre 1 de março e 30 de junho de 2020.\n\n2 - A aferição da perda económica resulta da comparação entre a faturação média mensal relativa ao período referido no número anterior e a faturação média mensal correspondente ao período homólogo de 2019."
+  },
+  "153472584": {
+   "fragment_id": "153472485",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elegibilidade dos beneficiários\n\nSem prejuízo do disposto no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, apenas são elegíveis as empresas aquícolas que:\n\na) Tenham pelo menos 12 meses de atividade, à data de apresentação da candidatura;\n\nb) Sejam detentoras de licença de exploração ou Título de Atividade Aquícola (TAA) válidos;\n\nc) Tenham cumprido as obrigações previstas no n.º 1 do artigo 32.º do Decreto-Lei n.º 40/2017, de 4 de abril, nomeadamente a entrega dos inquéritos à produção relativos a 2019;\n\nd) Tenham a sua situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, podendo a mesma ser aferida até à data de apresentação do pedido de pagamento."
+  },
+  "153472585": {
+   "fragment_id": "153472486",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza e montante do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza e montante do apoio\n\n1 - Os apoios públicos previstos no presente regime revestem a forma de subvenção não reembolsável.\n\n2 - A taxa máxima de apoio público para os projetos apresentados ao abrigo do presente regime é de 100 %, dos quais 75 % são financiados pelo FEAMP.\n\n3 - As operações beneficiam de um apoio público correspondente:\n\na) Ao valor médio mensal da quebra de faturação registada, caso o valor dessa quebra seja superior a 25 % e inferior ou igual a 40 % do histórico de faturação média mensal, apurado com base no disposto no n.º 2 do artigo 4.º;\n\nb) A duas vezes o valor médio mensal da quebra de faturação registada, caso o valor dessa quebra, calculada como previsto na alínea anterior, seja superior a 40 %.\n\n4 - Caso as operações que reúnem condições de aprovação envolvam pedidos de apoio que, no cômputo geral, ultrapassem as disponibilidades financeiras existentes, procede-se ao respetivo rateio da dotação, com recurso à modelação da taxa máxima de apoio prevista no n.º 2."
+  },
+  "153472586": {
+   "fragment_id": "153472487",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas online, até 31 de julho de 2020, através do Balcão 2020, em www.balcao.portugal2020.pt.\n\n2 - A apresentação das candidaturas efetua-se nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt.\n\n3 - As candidaturas devem ser instruídas com os elementos exigidos no respetivo formulário online, nomeadamente comprovativo do e-fatura, extraído do sítio da Internet da Autoridade Tributária e Aduaneira, relativo ao período de 1 de março a 30 de junho de 2020 e ao período homologo de 2019.\n\n4 - Ao abrigo do presente regime de apoio, apenas é admitida uma candidatura por beneficiário."
+  },
+  "153472587": {
+   "fragment_id": "153472488",
+   "type": 11,
+   "heading": "Artigo 8.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Análise e decisão das candidaturas\n\n1 - As Direções Regionais de Agricultura e Pescas (DRAP), no âmbito das suas competências enquanto organismos intermédios do Mar 2020, analisam e emitem parecer sobre as candidaturas, competindo-lhes verificar, nomeadamente, se estão reunidos os requisitos da atribuição dos apoios previstos nos artigos 4.º e 5.º\n\n2 - O parecer referido no número anterior é emitido num prazo de 20 dias úteis a contar da data limite para a apresentação das candidaturas.\n\n3 - O secretariado técnico aprecia as candidaturas com vista a assegurar que as mesmas são selecionadas em conformidade com as regras e critérios aplicáveis ao Mar 2020 e submete-as a decisão do gestor.\n\n4 - A Comissão de Gestão emite parecer sobre as propostas de decisão relativas às candidaturas.\n\n5 - Antes de ser emitida a decisão final, os candidatos são ouvidos, para efeitos de audiência de interessados, nos termos do Código de Procedimento Administrativo, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n6 - Sem prejuízo do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, as candidaturas são objeto de decisão pelo gestor no prazo de 30 dias úteis contados a partir da data limite para a respetiva apresentação, sendo a mesma comunicada aos candidatos pela autoridade de gestão, na data da sua emissão.\n\n7 - A decisão de aprovação, total ou parcial, das candidaturas é igualmente comunicada pela autoridade de gestão do Mar 2020 ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) na data da sua emissão."
+  },
+  "153472588": {
+   "fragment_id": "153472489",
+   "type": 11,
+   "heading": "Artigo 9.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Termo de aceitação\n\n1 - A aceitação do apoio pelo beneficiário nos termos e condições definidos na decisão da sua atribuição é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, salvo motivo justificado não imputável ao beneficiário e aceite pelo gestor."
+  },
+  "153472589": {
+   "fragment_id": "153472490",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamento dos apoios\n\n1 - O pagamento do apoio é feito pelo IFAP, I. P., após a assinatura do termo de aceitação e apresentação pelo beneficiário do pedido de pagamento, da forma e nos termos previstos nos números seguintes.\n\n2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n3 - O pedido de pagamento reporta-se à compensação aprovada, devendo os documentos de suporte eventualmente exigidos serem submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal."
+  },
+  "153472590": {
+   "fragment_id": "153472491",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\nSem prejuízo das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, constituem obrigações do beneficiário:\n\na) Manter o estabelecimento em atividade pelo período de cinco anos, ou de três anos, quando esteja em causa apoio a PME, a contar da data do pagamento ao beneficiário, salvo por motivos de força maior ou por causas não imputáveis ao beneficiário;\n\nb) Informar a DRAP de qualquer alteração dos pressupostos em que assentou a decisão de atribuição do apoio."
+  },
+  "153472591": {
+   "fragment_id": "153472492",
+   "type": 11,
+   "heading": "Artigo 12.º — Acumulação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acumulação dos apoios\n\nOs apoios concedidos ao abrigo do presente Regulamento não são acumuláveis com quaisquer outros apoios nacionais ou europeus que visem a compensação pela perda de rendimentos provocada pela pandemia de COVID-19 no mesmo período de referência."
+  },
+  "153472592": {
+   "fragment_id": "153472493",
+   "type": 11,
+   "heading": "Artigo 13.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cobertura orçamental\n\n1 - Os encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P..\n\n2 - A despesa pública alocada ao presente regime de apoio é de (euro) 4 000 000 (quatro milhões de euros), dos quais (euro) 3 000 000 (três milhões de euros) do FEAMP."
+  },
+  "153472593": {
+   "fragment_id": "153472494",
+   "type": 11,
+   "heading": "Artigo 14.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reduções e exclusões\n\n1 - Os apoios objeto do presente Regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e demais legislação aplicável, designadamente quando ocorra alguma das seguintes situações:\n\na) Incumprimento, pelo beneficiário, das obrigações decorrentes da decisão de atribuição do apoio, do termo de aceitação, do presente Regulamento ou da legislação nacional e europeia aplicável;\n\nb) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação do projeto, ou falsificando documentos fornecidos no âmbito do mesmo.\n\n2 - O encerramento da atividade da empresa antes de decorrido o período a que alude a alínea a) do artigo 11.º implica o dever de reembolso pro rata temporis da compensação recebida.\n\n3 - Caso incumpra a obrigação prevista no número anterior, o beneficiário fica obrigado a restituir a totalidade da compensação financeira paga.\n\n4 - À redução dos montantes indevidamente recebidos aplica-se o disposto no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, no artigo 12.º do Decreto-Lei n.º 195/2012, de 23 de agosto, e na demais legislação aplicável."
+  },
+  "153472594": {
+   "fragment_id": "153472495",
+   "type": 11,
+   "heading": "Artigo 15.º — Extinção ou modificação da operação por iniciativa do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Extinção ou modificação da operação por iniciativa do beneficiário\n\nO beneficiário pode requerer ao gestor a extinção da operação desde que proceda à restituição das importâncias recebidas.\n\n113356952"
+  },
+  "153472578": {
+   "fragment_id": "153472479",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro do Mar, Ricardo da Piedade Abreu Serrão Santos, em 30 de junho de 2020."
+  },
+  "153484780": {
+   "fragment_id": "153472484",
+   "type": 11,
+   "heading": "Artigo 4.º — Elegibilidade das operações",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/11-2021-153341281), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 4.º — Elegibilidade das operações\n\n1 - Podem beneficiar de apoios ao abrigo do presente regime as operações que visem a compensação de perdas económicas correspondentes a mais de 25 % da faturação média do beneficiário, resultantes da suspensão ou redução temporária da produção aquícola e das respetivas vendas nos períodos compreendidos entre 1 de março e 30 de junho de 2020 e entre 1 de outubro e 31 de dezembro de 2020.\n\n2 - A aferição da perda económica resulta da comparação entre a faturação média mensal relativa a cada um dos períodos referidos no número anterior e a faturação média mensal correspondente aos períodos homólogos de 2019.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/11-2021-153341281), em vigor a partir de 2021-01-08"
+  },
+  "153484781": {
+   "fragment_id": "153472487",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação das candidaturas",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/11-2021-153341281), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 7.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas online, até 31 de julho de 2020 e até 15 de fevereiro de 2021, respetivamente para o 1.º e para o 2.º dos períodos referidos no n.º 1 do artigo 4.º do presente Regulamento, através do Balcão 2020, em www.balcao.portugal2020.pt.\n\n2 - A apresentação das candidaturas efetua-se nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt.\n\n3 - As candidaturas devem ser instruídas com os elementos exigidos no respetivo formulário online, nomeadamente comprovativo do e-fatura, extraído do sítio da Internet da Autoridade Tributária e Aduaneira, relativo ao período de 1 de março a 30 de junho de 2020, para as candidaturas submetidas até 31 de julho de 2020, e relativo ao período de 1 de outubro a 31 de dezembro de 2020, para as candidaturas submetidas até 15 de fevereiro de 2021, bem como os períodos homólogos de 2019.\n\n4 - Ao abrigo do presente regime de apoio, apenas é admitida uma candidatura por beneficiário.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/11-2021-153341281), em vigor a partir de 2021-01-08"
+  },
+  "153484782": {
+   "fragment_id": "153472493",
+   "type": 11,
+   "heading": "Artigo 13.º — Cobertura orçamental",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/11-2021-153341281), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 13.º — Cobertura orçamental\n\n1 - Os encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P..\n\n2 - A despesa pública alocada ao presente regime de apoio é de (euro) 1 700 000 (um milhão e setecentos mil euros), dos quais (euro) 1 275 000 (um milhão duzentos e setenta e cinco mil euros) do FEAMP\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/11-2021-153341281), em vigor a partir de 2021-01-08"
+  }
+ }
+}

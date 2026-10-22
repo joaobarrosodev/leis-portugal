@@ -1,0 +1,871 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:613401:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-176653695",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-2010-613401",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-04-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176713190",
+    "176713191",
+    "176713192",
+    "176713193",
+    "176713194",
+    "176713195",
+    "176713196",
+    "176713197",
+    "176713198",
+    "176713199",
+    "176713200",
+    "176713201",
+    "176713202",
+    "176713204",
+    "176713205",
+    "176713206",
+    "176713207",
+    "176713208",
+    "176713209",
+    "176713210",
+    "176713211",
+    "176713212",
+    "176713213",
+    "176713214",
+    "176713215",
+    "176713216",
+    "176713217",
+    "176713218",
+    "176713219",
+    "176713220",
+    "176713221",
+    "176713222",
+    "176713223",
+    "176713224",
+    "176713225",
+    "176713226",
+    "176713227",
+    "176713228",
+    "176713229",
+    "176713230",
+    "176713231",
+    "176713232",
+    "176713233",
+    "176713234",
+    "176713235"
+   ]
+  },
+  {
+   "date": "2011-11-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146487:por",
+     "title": "Decreto Legislativo Regional n.º 27/2011/A",
+     "published": "2011-11-11",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/27-2011-146487"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "176713190",
+    "176713191",
+    "176713192",
+    "176713193",
+    "176713194",
+    "176713195",
+    "176713196",
+    "176713197",
+    "176713198",
+    "176713199",
+    "176713200",
+    "176713201",
+    "176713586",
+    "176713587",
+    "176713588",
+    "176713589",
+    "176713205",
+    "176713206",
+    "176713207",
+    "176713208",
+    "176713209",
+    "176713585",
+    "176713211",
+    "176713212",
+    "176713213",
+    "176713214",
+    "176713215",
+    "176713216",
+    "176713217",
+    "176713218",
+    "176713219",
+    "176713220",
+    "176713221",
+    "176713222",
+    "176713223",
+    "176713224",
+    "176713225",
+    "176713226",
+    "176713227",
+    "176713228",
+    "176713229",
+    "176713230",
+    "176713231",
+    "176713232",
+    "176713233",
+    "176713234",
+    "176713235"
+   ]
+  },
+  {
+   "date": "2014-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345929:por",
+     "title": "Decreto Legislativo Regional n.º 7/2014/A",
+     "published": "2014-06-03",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/7-2014-25345929"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "176713190",
+    "176713191",
+    "176713590",
+    "176713591",
+    "176713194",
+    "176713195",
+    "176713196",
+    "176713592",
+    "176713198",
+    "176713199",
+    "176713200",
+    "176713201",
+    "176713586",
+    "176713587",
+    "176713588",
+    "176713589",
+    "176713205",
+    "176713206",
+    "176713207",
+    "176713593",
+    "176713209",
+    "176713585",
+    "176713211",
+    "176713212",
+    "176713213",
+    "176713214",
+    "176713215",
+    "176713216",
+    "176713217",
+    "176713218",
+    "176713219",
+    "176713220",
+    "176713221",
+    "176713222",
+    "176713223",
+    "176713224",
+    "176713225",
+    "176713226",
+    "176713227",
+    "176713228",
+    "176713594",
+    "176713230",
+    "176713231",
+    "176713232",
+    "176713233",
+    "176713234",
+    "176713235"
+   ]
+  },
+  {
+   "date": "2022-01-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176631062:por",
+     "title": "Decreto Legislativo Regional n.º 39/2021/A",
+     "published": "2021-12-28",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/39-2021-176631062"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 11.º-A",
+    "Revoga Artigo 12.º",
+    "Revoga Assinatura"
+   ],
+   "fragments": [
+    "176713190",
+    "913617797",
+    "913617798",
+    "913617799",
+    "913617800",
+    "913617801",
+    "913617802",
+    "913617803",
+    "913617804",
+    "913617805",
+    "913617806",
+    "913617807",
+    "913617808",
+    "913617809",
+    "913617810",
+    "176713589",
+    "176713205",
+    "176713206",
+    "176713207",
+    "176713593",
+    "176713209",
+    "176713585",
+    "176713211",
+    "176713212",
+    "176713213",
+    "176713214",
+    "176713215",
+    "176713216",
+    "176713217",
+    "176713218",
+    "176713219",
+    "176713220",
+    "176713221",
+    "176713222",
+    "176713223",
+    "176713224",
+    "176713225",
+    "176713226",
+    "176713227",
+    "176713228",
+    "176713594",
+    "176713230",
+    "176713231",
+    "176713232",
+    "176713233",
+    "176713234",
+    "176713235"
+   ]
+  }
+ ],
+ "fragments": {
+  "176713190": {
+   "fragment_id": "176653696",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 16/2010/A\n\nCria a Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.\n\nO sector empresarial do Estado assume hoje um papel relevante na organização administrativa moderna. O desenvolvimento sócio-económico e a transformação dos paradigmas clássicos da Administração rumo a uma crescente racionalização da gestão, de que é corolário o regime das parcerias público-privadas, motivaram o crescimento da empresarialização pública, enquanto forma ágil de dar cabal satisfação à prossecução do interesse público, ao mesmo tempo que garante a transparência, isenção, rigor e funcionalidade económica e social.\n\nO Governo Regional dos Açores, na senda da reestruturação do sector empresarial regional que tem levado a cabo, nomeadamente através do regime jurídico estabelecido no Decreto Legislativo Regional n.º 7/2008/A, de 24 de Março, republicado pelo Decreto Legislativo Regional n.º 17/2009/A, de 14 de Outubro, não pode ignorar a evolução da organização administrativa e da eficácia na prossecução do interesse público.\n\nA experiência adquirida nas diversas áreas em que a administração regional intervém, ou interveio, sob a forma empresarial, confirma exactamente esta postura e essa intenção de o executivo modernizar e tornar eficazes as áreas que estão sujeitas à acção de entidades empresariais públicas.\n\nReafirmam-se, deste modo, os princípios fundamentais da actuação do X Governo Regional no que se refere ao sector público empresarial regional, assegurando a efectiva definição de orientações de gestão estratégica deste, designadamente através da aplicação dos princípios da racionalidade económica, do interesse público e do reforço da função reguladora e fiscalizadora.\n\nA intervenção empresarial na área da participação, informação, divulgação, sensibilização, educação e formação dos cidadãos em matéria de ambiente justifica-se e impõe-se, desde logo, pela necessidade de reforçar a participação pública e aumentar o valor natural dos Açores, numa perspectiva de desenvolvimento sustentável.\n\nA opção pela atribuição destas competências a uma sociedade anónima de capitais públicos corresponde à percepção clara de ser esta a solução que, de entre toda a panóplia de formas jurídicas colocadas ao dispor pelo Decreto Legislativo Regional n.º 7/2008/A, de 24 de Março, republicado pelo Decreto Legislativo Regional n.º 17/2009/A, de 14 de Outubro, melhor se adequa aos objectivos a que se propõe.\n\nPor um lado, garante os poderes de autoridade de que está investida nos termos do citado diploma e que são essenciais para obter uma plataforma alargada de protecção e uma sensibilização para os princípios ambientais inerentes à conservação, por outro, a forma de sociedade anónima permite-lhe uma indiscutível agilização de procedimentos, nomeadamente quanto ao relacionamento com entidades terceiras, a possibilidade de, com maior autonomia, desenvolver a sua actividade dentro daquelas que são as orientações definidas para o sector, a racionalização da gestão patrimonial e a obtenção de condições mais favoráveis no plano financeiro e comercial.\n\nDota-se, por isso, a Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A., do exercício de poderes e prerrogativas de autoridade pública, conforme permite, desde logo, o disposto no artigo 18.º do Decreto Legislativo Regional n.º 7/2008/A, de 24 de Março, alterado e republicado pelo Decreto Legislativo Regional n.º 17/2009/A, de 14 de Outubro.\n\nAssim, nos termos do disposto nos artigos 227.º, n.º 1, alínea a), e 112.º, n.º 4, da Constituição da República Portuguesa e nos artigos 37.º, n.os 1 e 2, e 57.º, n.os 1 e 2, alíneas a) a d), i), j) e n), do Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa da Região Autónoma dos Açores decreta o seguinte:"
+  },
+  "176713191": {
+   "fragment_id": "176653697",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada a Sociedade de Gestão Ambiental e Conservação da Natureza, S. A., abreviadamente designada por AZORINA, S. A.\n\n2 - A AZORINA, S. A., rege-se pelos respectivos Estatutos, pelas normas especiais do regime jurídico do sector público empresarial da Região Autónoma dos Açores, do sector público empresarial do Estado e regime das empresas públicas e pelas normas reguladoras das sociedades comerciais.\n\n3 - A AZORINA, S. A., durará por tempo indeterminado."
+  },
+  "176713192": {
+   "fragment_id": "176653698",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto social da Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto social da Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.\n\n1 - A Sociedade tem por objecto principal a promoção de acções de gestão ambiental e de conservação da natureza e dos recursos naturais, incluindo actividades no domínio da promoção da participação pública em matéria ambiental e da informação, divulgação e educação ambiental.\n\n2 - A Sociedade concretizará o seu objecto, nomeadamente através:\n\na) Da promoção e apoio à gestão integrada das áreas protegidas terrestres e marinhas, valorizando os recursos naturais e paisagísticos e a biodiversidade e geodiversidade do arquipélago dos Açores;\n\nb) Da realização de projectos e acções destinados a proteger a biodiversidade, a geodiversidade e os recursos ambientais, nomeadamente os hídricos e geológicos, bem como a adopção das consequentes medidas de gestão do território;\n\nc) Da construção, exploração e manutenção de infra-estruturas destinadas à recolha, transferência, valorização e destino final de resíduos, águas residuais e seus derivados;\n\nd) Da promoção e apoio ao desenvolvimento de valências para a participação, informação, sensibilização, educação e formação dos cidadãos em matéria de ambiente, nomeadamente as integradas na rede regional de ecotecas, centros de interpretação ambiental e estruturas similares;\n\ne) Da construção, exploração e manutenção de infra-estruturas necessárias à conservação, protecção e valorização do ambiente, à melhoria da segurança de pessoas e bens e à promoção dos valores ambientais para a sua fruição sustentada.\n\n3 - Acessoriamente, a Sociedade poderá desenvolver outras actividades relacionadas com o seu objecto principal, designadamente promover estudos, implementar e desenvolver acções e projectos que se destinem à protecção e valorização ambiental da área de intervenção e que se revelem importantes para a protecção das zonas abrangidas.\n\n4 - Para a prossecução do seu objecto, a Sociedade pode, nomeadamente:\n\na) Requerer a expropriação, por utilidade pública, de imóveis situados nas suas áreas de intervenção, nos termos que lhe são conferidos pela lei;\n\nb) Promover a concessão, arrendamento e compra e venda de imóveis situados nas áreas de interesse para a conservação da natureza e protecção dos recursos naturais que sejam necessárias à prossecução do seu objecto;\n\nc) Atribuir indemnizações por perda de rendimentos resultantes de medidas de conservação da biodiversidade, da geodiversidade ou de protecção dos recursos hídricos ou geológicos e adoptar as consequentes medidas de gestão sustentada do território;\n\nd) Candidatar-se e gerir fundos regionais, nacionais e comunitários necessários à salvaguarda da prossecução das tarefas de gestão ambiental e de conservação da natureza.\n\n5 - Para o desenvolvimento das actividades referidas nos números anteriores, a Sociedade poderá celebrar contratos-programa com a Região Autónoma dos Açores.\n\n6 - A AZORINA, S. A., poderá adquirir participações sociais em sociedades de responsabilidade limitada com objecto diferente do seu, em sociedades reguladas por leis especiais, em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico ou associar-se com outras entidades sob outras formas de associação."
+  },
+  "176713193": {
+   "fragment_id": "176653699",
+   "type": 11,
+   "heading": "Artigo 3.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Património\n\n1 - O património da AZORINA, S. A., é constituído pelos bens ou direitos mobiliários ou imobiliários que lhe forem atribuídos ou por ela adquiridos.\n\n2 - Por despacho do membro do Governo Regional competente em matéria de património podem ser transferidos para a AZORINA, S. A., os bens móveis e imóveis integrados no património da Região Autónoma dos Açores que estejam afectos aos centros de interpretação ambiental e ecotecas e a estruturas de processamento e valorização de resíduos e águas residuais bem como os direitos a eles relativos.\n\n3 - Podem igualmente ser transferidos para a AZORINA, S. A., nos termos fixados no número anterior, imóveis de qualquer natureza que estejam afectos, ou devam estar afectos, a actividades de conservação da natureza e de protecção da qualidade ambiental.\n\n4 - A Região Autónoma dos Açores poderá transmitir à AZORINA, S. A., outros bens imóveis ou direitos a eles relativos.\n\n5 - Caberá à AZORINA, S. A., promover junto das conservatórias competentes o registo dos bens e direitos que lhe pertençam e que estejam legalmente sujeitos a registo.\n\n6 - O presente diploma constitui título de aquisição bastante, para todos os efeitos legais, incluindo os de registo, dos bens referidos nos números anteriores."
+  },
+  "176713194": {
+   "fragment_id": "176653700",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital social\n\n1 - A AZORINA, S. A., terá, inicialmente, um capital social de (euro)50 000, integralmente subscrito e realizado pela Região Autónoma dos Açores à data de entrada em vigor do presente diploma, dividido em 10 000 acções com o valor nominal de (euro) 5 cada.\n\n2 - Sem prejuízo do disposto no Código das Sociedades Comerciais, o valor do capital social poderá ser alterado, mediante o simples registo da alteração, em função do resultado da avaliação que vier a ser feita.\n\n3 - A Região poderá alienar parte do capital social, contanto que não perca a qualidade de empresa pública, nos termos do disposto no artigo 3.º do Decreto Legislativo Regional n.º 7/2008/A, de 24 de Março."
+  },
+  "176713195": {
+   "fragment_id": "176653701",
+   "type": 11,
+   "heading": "Artigo 5.º — Titularidade e função accionista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Titularidade e função accionista\n\n1 - As acções representativas do capital subscrito pela Região Autónoma dos Açores serão detidas pelo Governo Regional, através dos serviços do membro do Governo Regional com competência em matéria de finanças, sem prejuízo de a sua gestão poder ser cometida a pessoa colectiva de direito público ou a outras entidades de capitais públicos.\n\n2 - Sem prejuízo do disposto no número anterior, os direitos de accionista da Região Autónoma dos Açores são exercidos por um representante a designar por despacho do Presidente do Governo Regional, sob proposta conjunta dos membros do Governo Regional com competência em matéria de finanças e ambiente."
+  },
+  "176713196": {
+   "fragment_id": "176653702",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres especiais de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres especiais de informação\n\n1 - Para além do disposto na lei quanto à prestação de informações aos accionistas ou a outras entidades, o conselho de administração prestará a informação que lhe for solicitada pelos membros do Governo Regional com competência em matéria de finanças e ambiente.\n\n2 - O conselho de administração enviará aos membros do Governo Regional com competência em matéria de finanças e ambiente, com, pelo menos, 30 dias de antecedência sobre a data de realização da assembleia geral anual:\n\na) O relatório de gestão do conselho de administração, o relatório de contas e o parecer do fiscal único ou conselho fiscal do exercício;\n\nb) Quaisquer outros elementos necessários, úteis ou adequados à análise integral da situação económica e financeira da Sociedade, eficiência de gestão e perspectivas de evolução."
+  },
+  "176713197": {
+   "fragment_id": "176653703",
+   "type": 11,
+   "heading": "Artigo 7.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Poderes de autoridade\n\nPara a prossecução do seu objecto, a AZORINA, S. A., dispõe, nomeadamente, dos seguintes poderes de autoridade:\n\na) Requerer a expropriação por utilidade pública de imóveis e de direitos a eles inerentes, bem como requerer a constituição de servidões administrativas;\n\nb) Utilizar e administrar bens do domínio público ou privado da Região Autónoma dos Açores que estejam ou venham a estar afectos ao exercício da sua actividade;\n\nc) Concessionar, nos termos da legislação aplicável à utilização do domínio público, a ocupação ou o exercício de qualquer actividade relacionada com o domínio público ou com o seu objecto social nos imóveis que lhe estejam ou venham a estar afectos;\n\nd) Exercer os poderes e prerrogativas da Região Autónoma dos Açores quanto à protecção, desocupação, demolição e defesa administrativa da posse de terrenos e ou instalações que lhe estejam ou venham a estar afectos e das obras por si contratadas."
+  },
+  "176713198": {
+   "fragment_id": "176653704",
+   "type": 11,
+   "heading": "Artigo 8.º — Primeira reunião da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Primeira reunião da assembleia geral\n\nAté ao 30.º dia após a entrada em vigor do presente diploma, o Presidente do Governo Regional nomeará o representante a que se refere o n.º 2 do artigo 5.º, o qual convocará a assembleia geral de eleição dos titulares dos órgãos sociais para os 30 dias posteriores à publicação do despacho de nomeação."
+  },
+  "176713199": {
+   "fragment_id": "176653705",
+   "type": 11,
+   "heading": "Artigo 9.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pessoal\n\n1 - O recrutamento do pessoal efectua-se nos termos da legislação em vigor.\n\n2 - Os trabalhadores que exercem funções na administração regional, nos institutos públicos por ela tutelados e nas autarquias locais ou pertencentes a quadros de empresas públicas ou do sector empresarial público regional, podem ser autorizados a exercer funções na AZORINA, S. A., para o desempenho de funções inerentes às respectivas atribuições, nos termos previstos na lei.\n\n3 - O pessoal da AZORINA, S. A., não pode prestar trabalho ou outros serviços, remunerados ou não, a empresas cuja actividade colida com as suas atribuições ou seja susceptível de gerar conflito de interesses."
+  },
+  "176713200": {
+   "fragment_id": "176653706",
+   "type": 11,
+   "heading": "Artigo 10.º — Estatutos e registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estatutos e registos\n\n1 - São aprovados os Estatutos da AZORINA, S. A., constantes do anexo do presente diploma e que dele fazem parte integrante.\n\n2 - Os Estatutos da AZORINA, S. A., não carecem de redução a escritura pública, produzindo efeitos relativamente a terceiros, independentemente do registo, o qual deverá ser requerido nos 60 dias seguintes à entrada em vigor do presente diploma.\n\n3 - O presente decreto legislativo regional constitui título bastante e suficiente para a comprovação, para todos os efeitos legais, incluindo os de registo, de todos os factos nele previstos, devendo quaisquer actos necessários ao cumprimento das formalidades legalmente exigíveis ser realizados pelos serviços competentes mediante simples comunicação subscrita por dois membros do conselho de administração da AZORINA, S. A."
+  },
+  "176713201": {
+   "fragment_id": "176653707",
+   "type": 11,
+   "heading": "Artigo 11.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Normas transitórias\n\n1 - O conselho de administração da AZORINA, S. A., promoverá a avaliação do património no prazo de 180 dias após a entrada em vigor do presente diploma, salvo prorrogação autorizada pelo membro do Governo Regional com competências em matéria de finanças públicas.\n\n2 - A avaliação será feita por entidade a designar por despacho conjunto dos membros do Governo Regional com competências em matéria de finanças públicas e ambiente.\n\n3 - Cabe à AZORINA, S. A., promover junto das conservatórias competentes o registo dos bens e direitos que lhe pertençam e que estejam legalmente sujeitos a registo."
+  },
+  "176713202": {
+   "fragment_id": "176653708",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "176713204": {
+   "fragment_id": "176653710",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "176713205": {
+   "fragment_id": "176653711",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, sede e objecto"
+  },
+  "176713206": {
+   "fragment_id": "176653712",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação e duração\n\nA sociedade adopta a forma de sociedade anónima e a denominação Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A., regendo-se pelos presentes Estatutos, pelas normas especiais do regime jurídico do sector público empresarial da Região Autónoma dos Açores, do sector público empresarial do Estado e pelas normas reguladoras das sociedades comerciais, e durará por tempo indeterminado."
+  },
+  "176713207": {
+   "fragment_id": "176653713",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A Sociedade tem a sua sede na ilha do Faial.\n\n2 - Por deliberação do conselho de administração, a Sociedade pode estabelecer ou encerrar as formas de representação que entender necessárias à prossecução das suas atribuições."
+  },
+  "176713208": {
+   "fragment_id": "176653714",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto social\n\n1 - A Sociedade tem por objecto principal a promoção de acções de gestão ambiental e de conservação da natureza e dos recursos naturais, incluindo actividades no domínio da promoção da participação pública em matéria ambiental e da informação, divulgação e educação ambiental.\n\n2 - A Sociedade concretizará o seu objecto, nomeadamente, através:\n\na) Da promoção e apoio à gestão integrada das áreas protegidas terrestres e marinhas, valorizando os recursos naturais e paisagísticos e a biodiversidade e geodiversidade do arquipélago dos Açores;\n\nb) Da realização de projectos e acções destinados a proteger a biodiversidade, a geodiversidade e os recursos ambientais, nomeadamente os hídricos e geológicos;\n\nc) Da construção, exploração e manutenção de infra-estruturas destinadas à recolha, transferência, valorização e destino final de resíduos, águas residuais e seus derivados;\n\nd) Da promoção e apoio ao desenvolvimento de valências para a participação, informação, sensibilização, educação e formação dos cidadãos em matéria de ambiente, nomeadamente, as integradas na rede regional de ecotecas, centros de interpretação ambiental e estruturas similares;\n\ne) Da construção, exploração e manutenção de infra-estruturas necessárias à conservação, protecção e valorização do ambiente, à melhoria da segurança de pessoas e bens e à promoção dos valores ambientais para a sua fruição sustentada.\n\n3 - Acessoriamente, a Sociedade poderá desenvolver outras actividades relacionadas com o seu objecto principal, designadamente promover estudos, implementar e desenvolver acções e projectos, que se destinem à protecção e valorização ambiental da área de intervenção e que se revelem importantes para a protecção das zonas abrangidas.\n\n4 - Para a prossecução do seu objecto, a Sociedade pode, nomeadamente:\n\na) Requerer a expropriação por utilidade pública, de imóveis situados nas suas áreas de intervenção, nos termos que lhe são conferidos pela lei;\n\nb) Promover a concessão, arrendamento e compra e venda de imóveis situados nas áreas de interesse para a conservação da natureza e protecção dos recursos naturais que sejam necessárias à prossecução do seu objecto;\n\nc) Atribuir indemnizações por perda de rendimentos resultantes de medidas de conservação da biodiversidade, da geodiversidade ou de protecção dos recursos hídricos ou geológicos e adoptar as consequentes medidas de gestão sustentada do território;\n\nd) Candidatar-se e gerir fundos regionais, nacionais e comunitários necessários à salvaguarda da prossecução das tarefas de gestão ambiental e de conservação da natureza.\n\n5 - Para o desenvolvimento das actividades referidas nos números anteriores, a Sociedade poderá celebrar contratos-programa com a Região Autónoma dos Açores.\n\n6 - A AZORINA, S. A., poderá adquirir participações sociais em sociedades de responsabilidade limitada com objecto diferente do seu, em sociedades reguladas por leis especiais, em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico ou associar-se com outras entidades sob outras formas de associação."
+  },
+  "176713209": {
+   "fragment_id": "176653715",
+   "type": 1,
+   "heading": "Capítulo II — Capital social, obrigações e prestações suplementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital social, obrigações e prestações suplementares"
+  },
+  "176713210": {
+   "fragment_id": "176653716",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital social e acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital social e acções\n\n1 - O capital social é de (euro)50 000, integralmente subscrito e realizado, encontrando-se dividido em 10 000 acções, do valor nominal unitário de (euro) 5.\n\n2 - A totalidade das acções representativas do capital social é detida pela Região Autónoma dos Açores, sem prejuízo da possibilidade de alienação nos termos da lei.\n\n3 - As acções representativas do capital social da AZORINA, S. A., são nominativas, podendo revestir a forma escritural.\n\n4 - Podem ser emitidos títulos de 1, 10, 100 acções e múltiplos de 100."
+  },
+  "176713211": {
+   "fragment_id": "176653717",
+   "type": 11,
+   "heading": "Artigo 5.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações\n\nA Sociedade poderá emitir quaisquer modalidades ou tipo de obrigações, nos termos que lhe sejam permitidos pela lei e nas condições que forem fixadas pela assembleia geral."
+  },
+  "176713212": {
+   "fragment_id": "176653718",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos sociais"
+  },
+  "176713213": {
+   "fragment_id": "176653719",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos sociais\n\n1 - São órgãos sociais da Sociedade a assembleia geral, o conselho de administração e o fiscal único.\n\n2 - Os membros dos órgãos sociais são eleitos em assembleia geral por mandatos de três anos, podendo ser reeleitos uma ou mais vezes, e mantêm-se em funções até à eleição de quem os deva substituir.\n\n3 - Os membros do conselho de administração estão dispensados de prestar caução."
+  },
+  "176713214": {
+   "fragment_id": "176653720",
+   "type": 11,
+   "heading": "Artigo 7.º — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Assembleia geral\n\n1 - A assembleia geral é composta pelo accionista ou accionistas com direito a voto.\n\n2 - A cada 100 acções corresponde um voto, podendo os accionistas possuidores de um número inferior de acções agrupar-se e fazer-se representar na assembleia geral por um deles.\n\n3 - Os direitos da Região como accionista serão exercidos através da pessoa que for designada por despacho do Presidente do Governo Regional sob proposta conjunta dos membros do Governo Regional com competência em matéria de finanças e do ambiente.\n\n4 - Os restantes accionistas far-se-ão representar pelo membro do respectivo órgão de gestão que for designado por meio de carta enviada ao presidente da mesa com a antecedência de dois dias em relação à data da assembleia geral.\n\n5 - Os accionistas sem direito a voto e os obrigacionistas não poderão assistir às reuniões da assembleia geral, sem prejuízo do direito de se fazerem representar nos termos legais."
+  },
+  "176713215": {
+   "fragment_id": "176653721",
+   "type": 11,
+   "heading": "Artigo 8.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reuniões\n\n1 - A assembleia geral deverá ser convocada sempre que a lei o determine ou quando tal for solicitado pelo conselho de administração, pelo conselho fiscal ou por accionistas que representem, pelo menos, 5 % do capital social.\n\n2 - As reuniões da assembleia geral serão convocadas pelo presidente da mesa, mediante carta registada com aviso de recepção remetida com a antecedência mínima de 21 dias em relação à data prevista.\n\n3 - Da convocatória constarão especificadamente os assuntos da ordem de trabalhos."
+  },
+  "176713216": {
+   "fragment_id": "176653722",
+   "type": 11,
+   "heading": "Artigo 9.º — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mesa da assembleia geral\n\n1 - A mesa da assembleia geral é constituída por um presidente e um secretário, que poderão não ser accionistas, eleitos em assembleia geral conjuntamente com os órgãos de gestão e de fiscalização da Sociedade, por períodos de três anos.\n\n2 - Compete ao presidente da mesa convocar as reuniões da assembleia geral e dirigir os seus trabalhos, bem como exercer as demais funções que lhe sejam conferidas pela lei ou por delegação da própria assembleia.\n\n3 - O presidente da mesa é substituído pelo secretário nas suas faltas ou impedimentos.\n\n4 - Faltando à reunião ambos os membros da mesa, a assembleia designará substitutos para a respectiva reunião."
+  },
+  "176713217": {
+   "fragment_id": "176653723",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência\n\nSem prejuízo das demais competências da assembleia geral, nos termos da legislação geral e especial aplicável e dos presentes Estatutos, compete-lhe, em especial:\n\na) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do fiscal único e decidir sobre a aplicação dos resultados do exercício;\n\nb) Eleger e exonerar os membros da mesa da assembleia geral, os membros do conselho de administração e o fiscal único;\n\nc) Deliberar sobre quaisquer alterações dos Estatutos e aumentos de capital social;\n\nd) Deliberar sobre as remunerações dos membros dos corpos sociais, de acordo com a legislação aplicável;\n\ne) Definir políticas relativas à actividade da Sociedade, com vista à prossecução do objecto social, mediante a aprovação de planos anuais e plurianuais de empresa, que incluirão o orçamento de exploração, os planos de investimentos e planos financeiros, no qual se explicitará o nível de endividamento empresarial;\n\nf) Autorizar a aquisição, a oneração e a alienação de imóveis e a realização de investimentos quando o respectivo valor exceda o limite a fixar anualmente em assembleia geral e não estejam contemplados no plano anual de actividades ou no orçamento da Sociedade;\n\ng) Autorizar a contracção de empréstimos de duração superior a cinco anos e daqueles que levem a exceder o nível de endividamento explicitado no plano financeiro;\n\nh) Autorizar a emissão de obrigações e de outros valores mobiliários;\n\ni) Tratar de qualquer outro assunto para que tenha sido convocada."
+  },
+  "176713218": {
+   "fragment_id": "176653724",
+   "type": 11,
+   "heading": "Artigo 11.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Deliberações\n\n1 - As deliberações da assembleia geral são tomadas por maioria de votos dos accionistas presentes ou representados, sempre que a lei ou os presentes Estatutos não exijam maior número.\n\n2 - Para efeitos de eleição dos titulares dos órgãos sociais, a assembleia geral só pode deliberar estando presentes ou representados accionistas que sejam titulares de acções correspondentes, pelo menos, a 51 % do capital social."
+  },
+  "176713219": {
+   "fragment_id": "176653725",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conselho de administração\n\n1 - O conselho de administração é constituído pelo presidente e por dois vogais, eleitos em assembleia geral e a quem compete exercer a administração nos termos do artigo seguinte.\n\n2 - As vagas ou impedimentos definitivos que ocorram no conselho de administração serão preenchidas por cooptação dos administradores em exercício, desde que estes sejam em número suficiente para o conselho poder funcionar e deliberar."
+  },
+  "176713220": {
+   "fragment_id": "176653726",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência\n\nPara além das competências e obrigações que por lei, pelos presentes Estatutos ou por deliberação da assembleia geral lhe sejam conferidas, compete, nomeadamente, ao conselho de administração:\n\na) Exercer os mais amplos poderes de administração da Sociedade e praticar todos os actos e operações tendentes à realização do seu objecto social;\n\nb) Elaborar, submeter a deliberação da assembleia geral e pôr em execução os planos de actividade anuais ou plurianuais;\n\nc) Rever periodicamente a evolução das actividades da Sociedade, estratégias e políticas;\n\nd) Propor à assembleia geral a participação no capital social de outras sociedades ou noutro tipo de associações;\n\ne) Representar a Sociedade em juízo e fora dele, activa e passivamente, confessar, desistir ou transigir em processo e celebrar convenções de arbitragem;\n\nf) Adquirir, alienar ou, por qualquer forma, onerar quaisquer bens ou direitos, móveis ou imóveis, sem prejuízo do disposto nas alíneas f) e g) do artigo 10.º;\n\ng) Constituir mandatários, fixando-lhes as respectivas atribuições;\n\nh) Nomear o administrador-delegado;\n\ni) Cooptar substitutos dos membros que venham a faltar definitivamente;\n\nj) Estabelecer, quando necessário, acordos com outras entidades legalmente competentes, relativamente a interesses públicos."
+  },
+  "176713221": {
+   "fragment_id": "176653727",
+   "type": 11,
+   "heading": "Artigo 14.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Delegação de competências\n\nSem prejuízo do disposto no n.º 2 do artigo 407.º do Código das Sociedades Comerciais, o conselho de administração poderá delegar em algum ou alguns dos seus membros alguma ou algumas das suas competências, definindo em acta os limites e condições de tal delegação."
+  },
+  "176713222": {
+   "fragment_id": "176653728",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência do presidente do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência do presidente do conselho de administração\n\n1 - Compete ao presidente do conselho de administração:\n\na) Representar o conselho de administração;\n\nb) Coordenar a actividade do conselho e convocar e dirigir as respectivas reuniões;\n\nc) Zelar pela correcta execução das deliberações do conselho de administração;\n\nd) Exercer as demais competências que lhe sejam conferidas por lei ou delegação.\n\n2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito."
+  },
+  "176713223": {
+   "fragment_id": "176653729",
+   "type": 11,
+   "heading": "Artigo 16.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reuniões\n\n1 - O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores.\n\n2 - Qualquer membro do conselho poderá fazer-se representar numa reunião por outro administrador, mediante documento escrito dirigido ao presidente, que será válido unicamente para essa reunião.\n\n3 - O conselho não poderá reunir nem tomar deliberações sem que esteja presente ou devidamente representada a maioria dos seus membros.\n\n4 - As deliberações do conselho serão tomadas por maioria de votos, tendo o presidente voto de qualidade, em caso de empate."
+  },
+  "176713224": {
+   "fragment_id": "176653730",
+   "type": 11,
+   "heading": "Artigo 17.º — Forma de obrigar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Forma de obrigar\n\n1 - A Sociedade obriga-se:\n\na) Pela assinatura de dois membros do conselho de administração;\n\nb) Pela assinatura do administrador-delegado, no uso das competências que lhe tenham sido delegadas;\n\nc) Pela assinatura de um administrador, quando haja delegação expressa do conselho de administração para a prática de um determinado acto;\n\nd) Pela assinatura de mandatário constituído, no âmbito do correspondente mandato.\n\n2 - Os actos de mero expediente podem ser assinados por um só membro do conselho de administração ou por um só mandatário com poderes para o efeito."
+  },
+  "176713225": {
+   "fragment_id": "176653731",
+   "type": 11,
+   "heading": "Artigo 18.º — Órgão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Órgão de fiscalização\n\n1 - Sem prejuízo dos poderes conferidos por lei a outras entidades, a fiscalização da actividade social compete a um fiscal único eleito em assembleia geral.\n\n2 - Deverá ser sempre eleito um fiscal suplente.\n\n3 - Quer o fiscal único efectivo quer o suplente serão revisores oficiais de contas."
+  },
+  "176713226": {
+   "fragment_id": "176653732",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competência do fiscal único\n\nAlém das atribuições constantes da lei geral e dos presentes Estatutos, compete especialmente ao fiscal único efectivo:\n\na) Assistir às reuniões do conselho de administração, sempre que este o entenda conveniente;\n\nb) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas anuais;\n\nc) Chamar a atenção do conselho de administração para qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão."
+  },
+  "176713227": {
+   "fragment_id": "176653733",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão patrimonial e financeira"
+  },
+  "176713228": {
+   "fragment_id": "176653734",
+   "type": 11,
+   "heading": "Artigo 20.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Princípios gerais\n\nA gestão da Sociedade deve nortear-se pela busca do equilíbrio económico e financeiro no desenvolvimento das suas competências, assegurando níveis de autofinanciamento e de remuneração do capital investido."
+  },
+  "176713229": {
+   "fragment_id": "176653735",
+   "type": 11,
+   "heading": "Artigo 21.º — Contratos com a Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contratos com a Região Autónoma dos Açores\n\n1 - Para a realização das suas atribuições, a Sociedade pode celebrar contratos de concessão ou contratos-programa com a Região Autónoma dos Açores, definindo metas e objectivos a alcançar e fixando as contrapartidas públicas em resultado da gestão de serviços de interesse público geral.\n\n2 - Nestes contratos, de carácter plurianual, estabelecer-se-ão objectivos e metas qualitativas e quantitativas, a sua calendarização, os meios e os instrumentos para os prosseguir, designadamente de investimento, e os demais direitos e obrigações assumidos pelas partes.\n\n3 - Na medida em que envolvam a assunção de obrigações ou de compromissos financeiros por parte da Região Autónoma dos Açores, estes contratos deverão prever a respectiva quantificação e validação, cabendo ao membro do Governo Regional com competência em matéria de finanças a sua apreciação prévia, bem como o acompanhamento geral da execução das suas cláusulas financeiras."
+  },
+  "176713230": {
+   "fragment_id": "176653736",
+   "type": 11,
+   "heading": "Artigo 22.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Receitas\n\nConstituem receitas da Sociedade as provenientes da prossecução do seu objecto social, nomeadamente:\n\na) O rendimento do seu património, bem como o produto da sua alienação e da constituição de direitos sobre o mesmo;\n\nb) Os recebimentos por serviços prestados;\n\nc) As comparticipações e indemnizações compensatórias, no quadro dos contratos celebrados com a Região Autónoma dos Açores;\n\nd) As dotações, comparticipações ou verbas provenientes de outros actos ou contratos de que seja beneficiária;\n\ne) Doações, heranças e legados;\n\nf) As disponibilidades financeiras provenientes da contracção de empréstimos ou de outras formas de financiamento resultantes do recurso a contratos celebrados com instituições de crédito;\n\ng) Os juros de importâncias depositadas e o rendimento de quaisquer aplicações financeiras relativas à Sociedade;\n\nh) Quaisquer outros rendimentos ou valores que resultem da sua actividade ou que, por lei ou contrato, lhe devam pertencer."
+  },
+  "176713231": {
+   "fragment_id": "176653737",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "176713232": {
+   "fragment_id": "176653738",
+   "type": 11,
+   "heading": "Artigo 23.º — Ano social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Ano social\n\nO ano social e o exercício económico coincidem com o ano civil."
+  },
+  "176713233": {
+   "fragment_id": "176653739",
+   "type": 11,
+   "heading": "Artigo 24.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Pessoal\n\n1 - O recrutamento do pessoal efectua-se nos termos da legislação em vigor.\n\n2 - Os trabalhadores que exercem funções na administração regional, nos institutos públicos por ela tutelados e nas autarquias locais ou pertencentes a quadros de empresas públicas ou do sector empresarial público regional, podem ser autorizados a exercer funções na AZORINA, S. A., para o desempenho de funções inerentes às respectivas atribuições, nos termos previstos na lei.\n\n3 - O pessoal da AZORINA, S. A., não pode prestar trabalho ou outros serviços, remunerados ou não, a empresas cuja actividade colida com as suas atribuições."
+  },
+  "176713234": {
+   "fragment_id": "176653740",
+   "type": 11,
+   "heading": "Artigo 25.º — Resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Resultados\n\nOs lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:\n\na) Cobertura de prejuízos anteriores;\n\nb) Constituição ou reintegração da reserva legal e das reservas especiais que a assembleia geral vier a deliberar;\n\nc) Uma percentagem a distribuir pelos accionistas, a título de dividendo, que, no caso de não se observar a atribuição mínima prevista pelo n.º 1 do artigo 294.º do Código das Sociedades Comerciais, deverá ser deliberada por uma maioria de três quartos dos votos dos accionistas presentes;\n\nd) O restante, para os fins que a assembleia geral delibere de interesse para a Sociedade."
+  },
+  "176713235": {
+   "fragment_id": "176653741",
+   "type": 11,
+   "heading": "Artigo 26.º — Dissolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Dissolução\n\n1 - A Sociedade dissolver-se-á nos termos legais.\n\n2 - A assembleia geral determinará a forma de liquidação e nomeará a comissão liquidatária, que poderá ser constituída pelos administradores em exercício."
+  },
+  "176713586": {
+   "fragment_id": "176713547",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Integração",
+   "in_force_from": "2011-11-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2011/A - Diário da República n.º 217/2011, Série I de 2011-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2011-146487), em vigor a partir de 2011-11-16, produz efeitos a partir de 2011-11-14"
+   ],
+   "markdown": "###### Artigo 11.º-A — Integração\n\n1 - Transitam para a Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A., todos os activos e passivos da SPRAçores - Sociedade de Promoção e Gestão Ambiental, S. A., incluindo o respectivo capital social e o demais património da Região Autónoma dos Açores colocado sob sua gestão.\n\n2 - Os contratos de que a SPRAçores - Sociedade de Promoção e Gestão Ambiental, S. A., seja titular, incluindo os contratos de trabalho, são integralmente assumidos pela Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A., nos termos gerais de direito aplicáveis em função da sua natureza.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2011/A - Diário da República n.º 217/2011, Série I de 2011-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2011-146487), em vigor a partir de 2011-11-16, produz efeitos a partir de 2011-11-14"
+  },
+  "176713587": {
+   "fragment_id": "176653708",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "176713588": {
+   "fragment_id": "176653709",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de Março de 2010.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 30 de Março de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita.\n\nANEXO\n\nESTATUTOS DA SOCIEDADE DE GESTÃO AMBIENTAL E CONSERVAÇÃO DA NATUREZA, S. A. - AZORINA, S. A."
+  },
+  "176713589": {
+   "fragment_id": "176653710",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "176713585": {
+   "fragment_id": "176653716",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital social e acções",
+   "in_force_from": "2011-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 27/2011/A - Diário da República n.º 217/2011, Série I de 2011-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2011-146487), em vigor a partir de 2011-11-16, produz efeitos a partir de 2011-11-14"
+   ],
+   "markdown": "###### Artigo 4.º — Capital social e acções\n\n1 - O capital social é de (euro) 100 000, integralmente subscrito e realizado, encontrando-se dividido em 20 000 acções, do valor nominal unitário de (euro) 5.\n\n2 - A totalidade das acções representativas do capital social é detida pela Região Autónoma dos Açores, sem prejuízo da possibilidade de alienação nos termos da lei.\n\n3 - As acções representativas do capital social da AZORINA, S. A., são nominativas, podendo revestir a forma escritural.\n\n4 - Podem ser emitidos títulos de 1, 10, 100 acções e múltiplos de 100.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 27/2011/A - Diário da República n.º 217/2011, Série I de 2011-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2011-146487), em vigor a partir de 2011-11-16, produz efeitos a partir de 2011-11-14"
+  },
+  "176713590": {
+   "fragment_id": "176653698",
+   "type": 11,
+   "heading": "Artigo 2.º — Objeto social da Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.",
+   "in_force_from": "2014-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 2.º — Objeto social da Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.\n\n1. A sociedade tem por objeto principal a promoção de ações de gestão ambiental e de conservação da natureza e dos recursos naturais, incluindo atividades no domínio da promoção da participação pública em matéria ambiental e da informação, divulgação e educação ambiental, a implementação de planos especiais de ordenamento do território em todo o arquipélago dos Açores, incluindo a compra, venda, permuta e a propositura para a expropriação por utilidade pública de imóveis situados nas áreas de intervenção dos respetivos planos, aprovados ou a aprovar, assim como o desenvolvimento e a implementação de uma estratégia para a promoção, divulgação e comercialização do património florestal da Região Autónoma dos Açores ou sob jurisdição ou gestão desta.\n\n2. A Sociedade concretizará o seu objeto, nomeadamente, através:\n\na) Da promoção e apoio à gestão integrada das áreas protegidas terrestres e marinhas, valorizando os recursos naturais e paisagísticos e a biodiversidade e geodiversidade do arquipélago dos Açores;\n\nb) Da realização de projectos e acções destinados a proteger a biodiversidade, a geodiversidade e os recursos ambientais, nomeadamente os hídricos e geológicos, bem como a adopção das consequentes medidas de gestão do território;\n\nc) Da construção, exploração e manutenção de infra-estruturas destinadas à recolha, transferência, valorização e destino final de resíduos, águas residuais e seus derivados;\n\nd) Da promoção e apoio ao desenvolvimento de valências para a participação, informação, sensibilização, educação e formação dos cidadãos em matéria de ambiente, nomeadamente as integradas na rede regional de ecotecas, centros de interpretação ambiental e estruturas similares;\n\ne) Da construção, exploração e manutenção de infra-estruturas necessárias à conservação, protecção e valorização do ambiente, à melhoria da segurança de pessoas e bens e à promoção dos valores ambientais para a sua fruição sustentada.\n\nf) Da promoção, desenvolvimento e exploração da fileira florestal, nomeadamente na vertente estratégica da sua comercialização e da criação dos canais e de todos os procedimentos necessários para a valorização económica e sustentável do património florestal da Região Autónoma dos Açores ou sob jurisdição ou gestão desta.\n\n3. Acessoriamente, a Sociedade poderá desenvolver outras atividades relacionadas com o seu objeto principal, designadamente promover estudos, implementar e desenvolver ações e projetos quer no âmbito dos planos especiais de ordenamento do território e dos planos de ordenamento das bacias hidrográficas, quer se destinem à proteção e valorização ambiental e florestal da sua área de intervenção e que se revelem importantes para a proteção e promoção das zonas abrangidas.\n\n4. Para a prossecução do seu objeto, a Sociedade pode, nomeadamente:\n\na) Propor ao departamento do Governo Regional competente em razão da matéria a expropriação por utilidade pública de imóveis situados nas suas áreas de intervenção;\n\nb) Promover a concessão, arrendamento, compra, venda e permuta de imóveis situados nas áreas de interesse para a conservação da natureza e proteção dos recursos naturais que sejam necessários à prossecução do seu objeto;\n\nc) Atribuir indemnizações por perda de rendimentos resultantes de medidas de conservação da biodiversidade, da geodiversidade ou de protecção dos recursos hídricos ou geológicos e adoptar as consequentes medidas de gestão sustentada do território;\n\nd) Comercializar o material resultante das áreas florestais património da Região Autónoma dos Açores ou sob jurisdição ou gestão desta;\n\ne) Disponibilizar os meios necessários para a execução de todas as atividades necessárias e acessórias de suporte à gestão sustentada das áreas florestais referidas na alínea anterior;\n\nf) Candidatar-se e gerir fundos regionais, nacionais e comunitários necessários à salvaguarda da prossecução das tarefas de gestão ambiental, de conservação da natureza e da gestão e conservação do património florestal.\n\n5. A Sociedade desenvolve as atividades referidas nos números anteriores mediante a celebração com a Região Autónoma dos Açores de contratos de concessão ou de contratos-programa.\n\n6 - A AZORINA, S. A., poderá adquirir participações sociais em sociedades de responsabilidade limitada com objecto diferente do seu, em sociedades reguladas por leis especiais, em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico ou associar-se com outras entidades sob outras formas de associação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+  },
+  "176713591": {
+   "fragment_id": "176653699",
+   "type": 11,
+   "heading": "Artigo 3.º — Património",
+   "in_force_from": "2014-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 3.º — Património\n\n1 - O património da AZORINA, S. A., é constituído pelos bens ou direitos mobiliários ou imobiliários que lhe forem atribuídos ou por ela adquiridos.\n\n2 - Por despacho do membro do Governo Regional competente em matéria de património podem ser transferidos para a AZORINA, S. A., os bens móveis e imóveis integrados no património da Região Autónoma dos Açores que estejam afectos aos centros de interpretação ambiental e ecotecas e a estruturas de processamento e valorização de resíduos e águas residuais bem como os direitos a eles relativos.\n\n3 - Podem igualmente ser transferidos para a AZORINA, S. A., nos termos fixados no número anterior, imóveis de qualquer natureza que estejam afectos, ou devam estar afectos, a actividades de conservação da natureza e de protecção da qualidade ambiental.\n\n4 - A Região Autónoma dos Açores poderá transmitir à AZORINA, S. A., outros bens imóveis ou direitos a eles relativos.\n\n5. A Região Autónoma dos Açores pode transferir para a AZORINA, S. A., o material produtivo do seu património florestal ou sob sua jurisdição ou gestão, designadamente com o objetivo da sua comercialização.\n\n6 - Caberá à AZORINA, S. A., promover junto das conservatórias competentes o registo dos bens e direitos que lhe pertençam e que estejam legalmente sujeitos a registo.\n\n7 - O presente diploma constitui título de aquisição bastante, para todos os efeitos legais, incluindo os de registo, dos bens referidos nos números anteriores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+  },
+  "176713592": {
+   "fragment_id": "176653703",
+   "type": 11,
+   "heading": "Artigo 7.º — Poderes de autoridade",
+   "in_force_from": "2014-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 7.º — Poderes de autoridade\n\nPara a prossecução do seu objecto, a AZORINA, S. A., dispõe, nomeadamente, dos seguintes poderes de autoridade:\n\na) Propor ao departamento do Governo Regional competente em razão da matéria a expropriação por utilidade pública de imóveis e de direitos a eles inerentes, bem como requerer a constituição de servidões administrativas;\n\nb) Utilizar e administrar bens do domínio público ou privado da Região Autónoma dos Açores que estejam ou venham a estar afectos ao exercício da sua actividade;\n\nc) Concessionar, nos termos da legislação aplicável à utilização do domínio público, a ocupação ou o exercício de qualquer actividade relacionada com o domínio público ou com o seu objecto social nos imóveis que lhe estejam ou venham a estar afectos;\n\nd) Exercer os poderes e prerrogativas da Região Autónoma dos Açores quanto à protecção, desocupação, demolição e defesa administrativa da posse de terrenos e ou instalações que lhe estejam ou venham a estar afectos e das obras por si contratadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+  },
+  "176713593": {
+   "fragment_id": "176653714",
+   "type": 11,
+   "heading": "Artigo 3.º — Objeto social da Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.",
+   "in_force_from": "2014-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 3.º — Objeto social da Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.\n\n1. A sociedade tem por objeto principal a promoção de ações de gestão ambiental e de conservação da natureza e dos recursos naturais, incluindo atividades no domínio da promoção da participação pública em matéria ambiental e da informação, divulgação e educação ambiental, a implementação de planos especiais de ordenamento do território em todo o arquipélago dos Açores, incluindo a compra, venda, permuta e a propositura para a expropriação por utilidade pública de imóveis situados nas áreas de intervenção dos respetivos planos, aprovados ou a aprovar, assim como o desenvolvimento e a implementação de uma estratégia para a promoção, divulgação e comercialização do património florestal da Região Autónoma dos Açores ou sob jurisdição ou gestão desta.\n\n2. A Sociedade concretizará o seu objeto, nomeadamente, através:\n\na) Da promoção e apoio à gestão integrada das áreas protegidas terrestres e marinhas, valorizando os recursos naturais e paisagísticos e a biodiversidade e geodiversidade do arquipélago dos Açores;\n\nb) Da realização de projectos e acções destinados a proteger a biodiversidade, a geodiversidade e os recursos ambientais, nomeadamente os hídricos e geológicos;\n\nc) Da construção, exploração e manutenção de infra-estruturas destinadas à recolha, transferência, valorização e destino final de resíduos, águas residuais e seus derivados;\n\nd) Da promoção e apoio ao desenvolvimento de valências para a participação, informação, sensibilização, educação e formação dos cidadãos em matéria de ambiente, nomeadamente, as integradas na rede regional de ecotecas, centros de interpretação ambiental e estruturas similares;\n\ne) Da construção, exploração e manutenção de infra-estruturas necessárias à conservação, protecção e valorização do ambiente, à melhoria da segurança de pessoas e bens e à promoção dos valores ambientais para a sua fruição sustentada.\n\nf) Da promoção, desenvolvimento e exploração da fileira florestal, nomeadamente na vertente estratégica da sua comercialização e da criação dos canais e de todos os procedimentos necessários para a valorização económica e sustentável do património florestal da Região Autónoma dos Açores ou sob jurisdição ou gestão desta.\n\n3. Acessoriamente, a Sociedade poderá desenvolver outras atividades relacionadas com o seu objeto principal, designadamente promover estudos, implementar e desenvolver ações e projetos quer no âmbito dos planos especiais de ordenamento do território e dos planos de ordenamento das bacias hidrográficas, quer se destinem à proteção e valorização ambiental e florestal da sua área de intervenção e que se revelem importantes para a proteção e promoção das zonas abrangidas.\n\n4. Para a prossecução do seu objeto, a Sociedade pode, nomeadamente:\n\na) Propor ao departamento do Governo Regional competente em razão da matéria a expropriação por utilidade pública de imóveis situados nas suas áreas de intervenção;\n\nb) Promover a concessão, arrendamento, compra, venda e permuta de imóveis situados nas áreas de interesse para a conservação da natureza e proteção dos recursos naturais que sejam necessários à prossecução do seu objeto;\n\nc) Atribuir indemnizações por perda de rendimentos resultantes de medidas de conservação da biodiversidade, da geodiversidade ou de protecção dos recursos hídricos ou geológicos e adoptar as consequentes medidas de gestão sustentada do território;\n\nd) Comercializar o material resultante das áreas florestais património da Região Autónoma dos Açores ou sob jurisdição ou gestão desta;\n\ne) Disponibilizar os meios necessários para a execução de todas as atividades necessárias e acessórias de suporte à gestão sustentada das áreas florestais referidas na alínea anterior;\n\nf) Candidatar-se e gerir fundos regionais, nacionais e comunitários necessários à salvaguarda da prossecução das tarefas de gestão ambiental, de conservação da natureza e da gestão e conservação do património florestal.\n\n5. A Sociedade desenvolve as atividades referidas nos números anteriores mediante a celebração com a Região Autónoma dos Açores de contratos de concessão ou de contratos-programa.\n\n6 - A AZORINA, S. A., poderá adquirir participações sociais em sociedades de responsabilidade limitada com objecto diferente do seu, em sociedades reguladas por leis especiais, em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico ou associar-se com outras entidades sob outras formas de associação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+  },
+  "176713594": {
+   "fragment_id": "176653735",
+   "type": 11,
+   "heading": "Artigo 21.º — Contratos com a Região Autónoma dos Açores",
+   "in_force_from": "2014-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 21.º — Contratos com a Região Autónoma dos Açores\n\n1. A Sociedade realiza as suas atribuições mediante a celebração de contratos de concessão ou contratos-programa com a Região Autónoma dos Açores, definindo metas e objetivos a alcançar e fixando as contrapartidas públicas em resultado da gestão de serviços de interesse público geral.\n\n2 - Nestes contratos, de carácter plurianual, estabelecer-se-ão objectivos e metas qualitativas e quantitativas, a sua calendarização, os meios e os instrumentos para os prosseguir, designadamente de investimento, e os demais direitos e obrigações assumidos pelas partes.\n\n3 - Na medida em que envolvam a assunção de obrigações ou de compromissos financeiros por parte da Região Autónoma dos Açores, estes contratos deverão prever a respectiva quantificação e validação, cabendo ao membro do Governo Regional com competência em matéria de finanças a sua apreciação prévia, bem como o acompanhamento geral da execução das suas cláusulas financeiras.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+  },
+  "913617797": {
+   "fragment_id": "176653697",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada a Sociedade de Gestão Ambiental e Conservação da Natureza, S. A., abreviadamente designada por AZORINA, S. A.\n\n2 - A AZORINA, S. A., rege-se pelos respectivos Estatutos, pelas normas especiais do regime jurídico do sector público empresarial da Região Autónoma dos Açores, do sector público empresarial do Estado e regime das empresas públicas e pelas normas reguladoras das sociedades comerciais.\n\n3 - A AZORINA, S. A., durará por tempo indeterminado.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+  },
+  "913617798": {
+   "fragment_id": "176653698",
+   "type": 11,
+   "heading": "Artigo 2.º — Objeto social da Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 2.º — Objeto social da Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.\n\n1. A sociedade tem por objeto principal a promoção de ações de gestão ambiental e de conservação da natureza e dos recursos naturais, incluindo atividades no domínio da promoção da participação pública em matéria ambiental e da informação, divulgação e educação ambiental, a implementação de planos especiais de ordenamento do território em todo o arquipélago dos Açores, incluindo a compra, venda, permuta e a propositura para a expropriação por utilidade pública de imóveis situados nas áreas de intervenção dos respetivos planos, aprovados ou a aprovar, assim como o desenvolvimento e a implementação de uma estratégia para a promoção, divulgação e comercialização do património florestal da Região Autónoma dos Açores ou sob jurisdição ou gestão desta.\n\n2. A Sociedade concretizará o seu objeto, nomeadamente, através:\n\na) Da promoção e apoio à gestão integrada das áreas protegidas terrestres e marinhas, valorizando os recursos naturais e paisagísticos e a biodiversidade e geodiversidade do arquipélago dos Açores;\n\nb) Da realização de projectos e acções destinados a proteger a biodiversidade, a geodiversidade e os recursos ambientais, nomeadamente os hídricos e geológicos, bem como a adopção das consequentes medidas de gestão do território;\n\nc) Da construção, exploração e manutenção de infra-estruturas destinadas à recolha, transferência, valorização e destino final de resíduos, águas residuais e seus derivados;\n\nd) Da promoção e apoio ao desenvolvimento de valências para a participação, informação, sensibilização, educação e formação dos cidadãos em matéria de ambiente, nomeadamente as integradas na rede regional de ecotecas, centros de interpretação ambiental e estruturas similares;\n\ne) Da construção, exploração e manutenção de infra-estruturas necessárias à conservação, protecção e valorização do ambiente, à melhoria da segurança de pessoas e bens e à promoção dos valores ambientais para a sua fruição sustentada.\n\nf) Da promoção, desenvolvimento e exploração da fileira florestal, nomeadamente na vertente estratégica da sua comercialização e da criação dos canais e de todos os procedimentos necessários para a valorização económica e sustentável do património florestal da Região Autónoma dos Açores ou sob jurisdição ou gestão desta.\n\n3. Acessoriamente, a Sociedade poderá desenvolver outras atividades relacionadas com o seu objeto principal, designadamente promover estudos, implementar e desenvolver ações e projetos quer no âmbito dos planos especiais de ordenamento do território e dos planos de ordenamento das bacias hidrográficas, quer se destinem à proteção e valorização ambiental e florestal da sua área de intervenção e que se revelem importantes para a proteção e promoção das zonas abrangidas.\n\n4. Para a prossecução do seu objeto, a Sociedade pode, nomeadamente:\n\na) Propor ao departamento do Governo Regional competente em razão da matéria a expropriação por utilidade pública de imóveis situados nas suas áreas de intervenção;\n\nb) Promover a concessão, arrendamento, compra, venda e permuta de imóveis situados nas áreas de interesse para a conservação da natureza e proteção dos recursos naturais que sejam necessários à prossecução do seu objeto;\n\nc) Atribuir indemnizações por perda de rendimentos resultantes de medidas de conservação da biodiversidade, da geodiversidade ou de protecção dos recursos hídricos ou geológicos e adoptar as consequentes medidas de gestão sustentada do território;\n\nd) Comercializar o material resultante das áreas florestais património da Região Autónoma dos Açores ou sob jurisdição ou gestão desta;\n\ne) Disponibilizar os meios necessários para a execução de todas as atividades necessárias e acessórias de suporte à gestão sustentada das áreas florestais referidas na alínea anterior;\n\nf) Candidatar-se e gerir fundos regionais, nacionais e comunitários necessários à salvaguarda da prossecução das tarefas de gestão ambiental, de conservação da natureza e da gestão e conservação do património florestal.\n\n5. A Sociedade desenvolve as atividades referidas nos números anteriores mediante a celebração com a Região Autónoma dos Açores de contratos de concessão ou de contratos-programa.\n\n6 - A AZORINA, S. A., poderá adquirir participações sociais em sociedades de responsabilidade limitada com objecto diferente do seu, em sociedades reguladas por leis especiais, em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico ou associar-se com outras entidades sob outras formas de associação.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+  },
+  "913617799": {
+   "fragment_id": "176653699",
+   "type": 11,
+   "heading": "Artigo 3.º — Património",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 3.º — Património\n\n1 - O património da AZORINA, S. A., é constituído pelos bens ou direitos mobiliários ou imobiliários que lhe forem atribuídos ou por ela adquiridos.\n\n2 - Por despacho do membro do Governo Regional competente em matéria de património podem ser transferidos para a AZORINA, S. A., os bens móveis e imóveis integrados no património da Região Autónoma dos Açores que estejam afectos aos centros de interpretação ambiental e ecotecas e a estruturas de processamento e valorização de resíduos e águas residuais bem como os direitos a eles relativos.\n\n3 - Podem igualmente ser transferidos para a AZORINA, S. A., nos termos fixados no número anterior, imóveis de qualquer natureza que estejam afectos, ou devam estar afectos, a actividades de conservação da natureza e de protecção da qualidade ambiental.\n\n4 - A Região Autónoma dos Açores poderá transmitir à AZORINA, S. A., outros bens imóveis ou direitos a eles relativos.\n\n5. A Região Autónoma dos Açores pode transferir para a AZORINA, S. A., o material produtivo do seu património florestal ou sob sua jurisdição ou gestão, designadamente com o objetivo da sua comercialização.\n\n6 - Caberá à AZORINA, S. A., promover junto das conservatórias competentes o registo dos bens e direitos que lhe pertençam e que estejam legalmente sujeitos a registo.\n\n7 - O presente diploma constitui título de aquisição bastante, para todos os efeitos legais, incluindo os de registo, dos bens referidos nos números anteriores.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+  },
+  "913617800": {
+   "fragment_id": "176653700",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital social",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Capital social\n\n1 - A AZORINA, S. A., terá, inicialmente, um capital social de (euro)50 000, integralmente subscrito e realizado pela Região Autónoma dos Açores à data de entrada em vigor do presente diploma, dividido em 10 000 acções com o valor nominal de (euro) 5 cada.\n\n2 - Sem prejuízo do disposto no Código das Sociedades Comerciais, o valor do capital social poderá ser alterado, mediante o simples registo da alteração, em função do resultado da avaliação que vier a ser feita.\n\n3 - A Região poderá alienar parte do capital social, contanto que não perca a qualidade de empresa pública, nos termos do disposto no artigo 3.º do Decreto Legislativo Regional n.º 7/2008/A, de 24 de Março.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+  },
+  "913617801": {
+   "fragment_id": "176653701",
+   "type": 11,
+   "heading": "Artigo 5.º — Titularidade e função accionista",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 5.º — Titularidade e função accionista\n\n1 - As acções representativas do capital subscrito pela Região Autónoma dos Açores serão detidas pelo Governo Regional, através dos serviços do membro do Governo Regional com competência em matéria de finanças, sem prejuízo de a sua gestão poder ser cometida a pessoa colectiva de direito público ou a outras entidades de capitais públicos.\n\n2 - Sem prejuízo do disposto no número anterior, os direitos de accionista da Região Autónoma dos Açores são exercidos por um representante a designar por despacho do Presidente do Governo Regional, sob proposta conjunta dos membros do Governo Regional com competência em matéria de finanças e ambiente.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+  },
+  "913617802": {
+   "fragment_id": "176653702",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres especiais de informação",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 6.º — Deveres especiais de informação\n\n1 - Para além do disposto na lei quanto à prestação de informações aos accionistas ou a outras entidades, o conselho de administração prestará a informação que lhe for solicitada pelos membros do Governo Regional com competência em matéria de finanças e ambiente.\n\n2 - O conselho de administração enviará aos membros do Governo Regional com competência em matéria de finanças e ambiente, com, pelo menos, 30 dias de antecedência sobre a data de realização da assembleia geral anual:\n\na) O relatório de gestão do conselho de administração, o relatório de contas e o parecer do fiscal único ou conselho fiscal do exercício;\n\nb) Quaisquer outros elementos necessários, úteis ou adequados à análise integral da situação económica e financeira da Sociedade, eficiência de gestão e perspectivas de evolução.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+  },
+  "913617803": {
+   "fragment_id": "176653703",
+   "type": 11,
+   "heading": "Artigo 7.º — Poderes de autoridade",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 7.º — Poderes de autoridade\n\nPara a prossecução do seu objecto, a AZORINA, S. A., dispõe, nomeadamente, dos seguintes poderes de autoridade:\n\na) Propor ao departamento do Governo Regional competente em razão da matéria a expropriação por utilidade pública de imóveis e de direitos a eles inerentes, bem como requerer a constituição de servidões administrativas;\n\nb) Utilizar e administrar bens do domínio público ou privado da Região Autónoma dos Açores que estejam ou venham a estar afectos ao exercício da sua actividade;\n\nc) Concessionar, nos termos da legislação aplicável à utilização do domínio público, a ocupação ou o exercício de qualquer actividade relacionada com o domínio público ou com o seu objecto social nos imóveis que lhe estejam ou venham a estar afectos;\n\nd) Exercer os poderes e prerrogativas da Região Autónoma dos Açores quanto à protecção, desocupação, demolição e defesa administrativa da posse de terrenos e ou instalações que lhe estejam ou venham a estar afectos e das obras por si contratadas.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04"
+  },
+  "913617804": {
+   "fragment_id": "176653704",
+   "type": 11,
+   "heading": "Artigo 8.º — Primeira reunião da assembleia geral",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 8.º — Primeira reunião da assembleia geral\n\nAté ao 30.º dia após a entrada em vigor do presente diploma, o Presidente do Governo Regional nomeará o representante a que se refere o n.º 2 do artigo 5.º, o qual convocará a assembleia geral de eleição dos titulares dos órgãos sociais para os 30 dias posteriores à publicação do despacho de nomeação.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+  },
+  "913617805": {
+   "fragment_id": "176653705",
+   "type": 11,
+   "heading": "Artigo 9.º — Pessoal",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 9.º — Pessoal\n\n1 - O recrutamento do pessoal efectua-se nos termos da legislação em vigor.\n\n2 - Os trabalhadores que exercem funções na administração regional, nos institutos públicos por ela tutelados e nas autarquias locais ou pertencentes a quadros de empresas públicas ou do sector empresarial público regional, podem ser autorizados a exercer funções na AZORINA, S. A., para o desempenho de funções inerentes às respectivas atribuições, nos termos previstos na lei.\n\n3 - O pessoal da AZORINA, S. A., não pode prestar trabalho ou outros serviços, remunerados ou não, a empresas cuja actividade colida com as suas atribuições ou seja susceptível de gerar conflito de interesses.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+  },
+  "913617806": {
+   "fragment_id": "176653706",
+   "type": 11,
+   "heading": "Artigo 10.º — Estatutos e registos",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 10.º — Estatutos e registos\n\n1 - São aprovados os Estatutos da AZORINA, S. A., constantes do anexo do presente diploma e que dele fazem parte integrante.\n\n2 - Os Estatutos da AZORINA, S. A., não carecem de redução a escritura pública, produzindo efeitos relativamente a terceiros, independentemente do registo, o qual deverá ser requerido nos 60 dias seguintes à entrada em vigor do presente diploma.\n\n3 - O presente decreto legislativo regional constitui título bastante e suficiente para a comprovação, para todos os efeitos legais, incluindo os de registo, de todos os factos nele previstos, devendo quaisquer actos necessários ao cumprimento das formalidades legalmente exigíveis ser realizados pelos serviços competentes mediante simples comunicação subscrita por dois membros do conselho de administração da AZORINA, S. A.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+  },
+  "913617807": {
+   "fragment_id": "176653707",
+   "type": 11,
+   "heading": "Artigo 11.º — Normas transitórias",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 11.º — Normas transitórias\n\n1 - O conselho de administração da AZORINA, S. A., promoverá a avaliação do património no prazo de 180 dias após a entrada em vigor do presente diploma, salvo prorrogação autorizada pelo membro do Governo Regional com competências em matéria de finanças públicas.\n\n2 - A avaliação será feita por entidade a designar por despacho conjunto dos membros do Governo Regional com competências em matéria de finanças públicas e ambiente.\n\n3 - Cabe à AZORINA, S. A., promover junto das conservatórias competentes o registo dos bens e direitos que lhe pertençam e que estejam legalmente sujeitos a registo.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+  },
+  "913617808": {
+   "fragment_id": "176713547",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Integração",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2011/A - Diário da República n.º 217/2011, Série I de 2011-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2011-146487), em vigor a partir de 2011-11-16, produz efeitos a partir de 2011-11-14"
+   ],
+   "markdown": "###### Artigo 11.º-A — Integração\n\n1 - Transitam para a Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A., todos os activos e passivos da SPRAçores - Sociedade de Promoção e Gestão Ambiental, S. A., incluindo o respectivo capital social e o demais património da Região Autónoma dos Açores colocado sob sua gestão.\n\n2 - Os contratos de que a SPRAçores - Sociedade de Promoção e Gestão Ambiental, S. A., seja titular, incluindo os contratos de trabalho, são integralmente assumidos pela Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A., nos termos gerais de direito aplicáveis em função da sua natureza.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2011/A - Diário da República n.º 217/2011, Série I de 2011-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2011-146487), em vigor a partir de 2011-11-16, produz efeitos a partir de 2011-11-14"
+  },
+  "913617809": {
+   "fragment_id": "176653708",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+  },
+  "913617810": {
+   "fragment_id": "176653709",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-01-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+   ],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de Março de 2010.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 30 de Março de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita.\n\nANEXO\n\nESTATUTOS DA SOCIEDADE DE GESTÃO AMBIENTAL E CONSERVAÇÃO DA NATUREZA, S. A. - AZORINA, S. A.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2021-176631062), em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31"
+  }
+ }
+}

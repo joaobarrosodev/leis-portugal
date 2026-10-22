@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:377529:por
+title: Despacho Normativo n.º 202/79
+short_title: null
+summary: Determina que aos titulares de autorizações gerais de importação de produtos petrolíferos não serão atribuídas, por
+  efeito de autorização excepcional nos anos de 1979 a 1983, quotas de importação
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Indústria e Tecnologia - Secretaria de Estado da Energia e Indústrias de Base - Gabinete do Secretário de
+  Estado
+proposing_entity: null
+official_number: 202/79
+official_date: null
+publication_date: '1979-08-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 188/1979, Série I de 1979-08-16
+  number: '188'
+  series: I
+  supplement: null
+  pages: 1925 - 1926
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18800/19251926.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '377529'
+  dre_path: /dr/detalhe/despacho-normativo/202-1979-377529
+  internal: pt:dre:377529:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/202-1979-377529
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/202-1979-377529
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-08-16T00:00:00Z'
+integrity:
+  source_sha256: aaa0299799f9e6bc16779754f612d345bb0208b33d016cae50b1878baa4eef57
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-202-377529.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 202/79
+
+Em cumprimento do determinado pelo n.º 2 da Resolução do Conselho de Ministros de 11 de Julho de 1979, e dentro da orientação na mesma definida, determino o seguinte:
+
+1.º Aos titulares de autorizações gerais de importação de produtos petrolíferos a seguir indicados não serão atribuídas, por efeito de autorização excepcional, nos anos de 1979 a 1983, quotas de importação cujo valor global seja superior ao que resulta da aplicação das seguintes percentagens ao consumo total de cada um dos produtos do mercado interno contingentado:
+
+Mobil Oil Portuguesa, S. A. R. L.:
+
+... Percentagens
+
+Gasolinas auto ... 17,5
+
+Petróleo ... 22
+
+Gasóleo ... 9,5
+
+Fuelóleo ... 0,5
+
+Shell Portuguesa, S. A. R. L.:
+
+Gasolinas auto ... 14
+
+Petróleo ... 13
+
+Gasóleo ... 19
+
+Fuelóleo ... 18,5
+
+Companhia Portuguesa de Petróleos, BP, S. A. R. L.:
+
+Gasolinas auto ... 9
+
+Petróleo ... 5,5
+
+Gasóleo ... 3
+
+2.º Para os titulares de autorizações gerais, Leacock & C.ª, Lda., e a Casa Bensaúde, Importações e Exportações, S. A. R. L., que só distribuem, respectivamente, na Região Autónoma da Madeira e na Região Autónoma dos Açores, a atribuição de autorizações excepcionais será objecto de análise pontual, de acordo com as necessidades das respectivas Regiões.
+
+3.º - 1 - Nos anos de 1980 a 1983, as entidades mencionadas no n.º 1.º obrigam-se a entregar à Petrogal - Petróleos de Portugal, E. P., se esta assim o pretender, os quantitativos de petróleo bruto equivalentes à soma das quantidades que aquelas entidades se proponham importar nos termos do mesmo n.º 1.º
+
+2 - Não poderão ser consideradas, para o petróleo bruto referido no n.º 1, condições mais onerosas do que as verificadas em média para as aquisições efectuadas directamente pela Petrogal, no ano a que respeitam aquelas entregas, em condições comparáveis de qualidade e frete, salvo casos devidamente justificados e aceites pelo Ministério da Indústria e Tecnologia.
+
+4.º - 1 - A Petrogal - Petróleos de Portugal, E. P., declarará, até 1 de Outubro de cada ano, se deseja exercer, para o ano seguinte, o direito de opção que decorre do consignado no número anterior, sem prejuízo, porém, da obrigação de fornecer às entidades mencionadas no n.º 1.º os correspondentes produtos refinados.
+
+2 - Não poderão exceder 20% as variações anuais dos quantitativos da opção.
+
+5.º Os preços de venda de produtos refinados destinados ao mercado interno contingentado, a praticar pela Petrogal às entidades mencionadas no n.º 1., serão homologados por despacho do Secretário de Estado da Energia e Indústrias de Base e, quando esses preços difiram dos valores correspondentes da fórmula oficial, as diferenças serão objecto de compensação, nos termos correntemente praticados.
+
+6.º Durante os anos de 1980 a 1983, os titulares das autorizações referidas no n.º 1.º do presente despacho ficam obrigados a entregar à Petrogal - Petróleos de Portugal, E. P., líquidos dos impostos que sobre aqueles titulares impendam:
+
+50% da margem de lucro;
+
+50% da margem para cobertura de encargos de estrutura;
+
+designados, respectivamente, por b(índice 3) e b(índice 2) na fórmula oficial de cálculo dos preços, pelas vendas que excedam os quantitativos correspondentes às autorizações gerais de importação e até ao limite das autorizações correspondentes às quotas globais referidas no n.º 1.º do presente despacho, elevando-se aquelas percentagens para 100% relativamente aos quantitativos que excedam essas quotas.
+
+7.º O valor, líquido de impostos, da parte remanescente da aplicação do disposto no n.º 6.º ao elemento b(índice 3) da fórmula de preço será aplicado em investimentos de diversificação relativos a projectos aprovados pelo Ministério da Indústria e Tecnologia, considerando-se como investimentos, para efeitos deste número, os montantes que, directamente ou por via de associação com outras empresas, os titulares de autorizações gerais de importação referidos no n.º 1.º tenham envolvido nos citados projectos de diversificação.
+
+8.º Para 1979, os quantitativos das vendas para o efeito da dedução das margens b(índice 3) e b(índice 2) referidos nos n.os 6.º e 7.º serão deduzidos dos quantitativos correspondentes aos produtos despachados existentes em 1 de Janeiro de 1979 nas instalações principais e dos quantitativos que, naquela mesma data, cada distribuidora tivesse a receber de qualquer outra.
+
+9.º Dos projectos de diversificação referidos no número anterior são considerados de primeira prioridade os respeitantes ao sector energético, nomeadamente no que se refere à conservação de energia e ao desenvolvimento das energias renováveis. Como segunda prioridade, situam-se as actividades orientadas para a exportação de bens ou serviços.
+
+10.º Dos montantes consignados ao abrigo do n.º 7.º, as quantias que até final de 1983 não tiverem sido gastas ou não se encontrem comprometidas em projectos aprovados, revertem para a Direcção-Geral de Energia para aplicação no desenvolvimento do sector energético.
+
+11.º É revogado o despacho de 8 de Agosto de 1972 do Secretário de Estado da Indústria, relativo à concessão de autorizações gerais e excepcionais de produtos de petróleo.
+
+Ministério da Indústria e Tecnologia, 23 de Julho de 1979. - O Secretário de Estado da Energia e Indústrias de Base, Hugo Fernando de Jesus.

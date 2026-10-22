@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:864253850:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2024-1170978375",
+ "dre_path": "/dr/detalhe/aviso/9863-2024-864253850",
+ "source_lastmod": "2026-09-16",
+ "versions": [
+  {
+   "date": "2024-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1170992875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1170992875": {
+   "fragment_id": "1170978475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do disposto dos n.os 4 e 5 do artigo 46.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, torna-se público que, por despacho, da Diretora-Geral, Doutora Maria Inês Cordeiro, de 14 de março de 2024,foi homologada a avaliação final do período experimental da trabalhadora Rita Valéria Tomás Gomes, na carreira/categoria de assistente técnica. O referido período experimental foi concluído com sucesso."
+  }
+ }
+}

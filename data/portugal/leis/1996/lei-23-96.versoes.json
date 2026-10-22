@@ -1,0 +1,578 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:408366:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1996-34491275",
+ "dre_path": "/dr/detalhe/lei/23-1996-408366",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1996-07-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47878175",
+    "47878275",
+    "47878375",
+    "47878475",
+    "47878575",
+    "47878675",
+    "47878775",
+    "47878875",
+    "47878975",
+    "47879075",
+    "47879175",
+    "47879275",
+    "47879375",
+    "47879475",
+    "47879575"
+   ]
+  },
+  {
+   "date": "2008-05-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247453:por",
+     "title": "Lei n.º 12/2008",
+     "published": "2008-02-26",
+     "dre_path": "/dr/detalhe/lei/12-2008-247453"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "47878175",
+    "58929870",
+    "47878375",
+    "47878475",
+    "58935950",
+    "58935951",
+    "47878775",
+    "47878875",
+    "58935955",
+    "58935957",
+    "58935960",
+    "58940578",
+    "58940579",
+    "58940508",
+    "58940517",
+    "58929858",
+    "58929868",
+    "58929869"
+   ]
+  },
+  {
+   "date": "2008-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:448955:por",
+     "title": "Lei n.º 24/2008",
+     "published": "2008-06-02",
+     "dre_path": "/dr/detalhe/lei/24-2008-448955"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "47878175",
+    "58929870",
+    "47878375",
+    "47878475",
+    "58935950",
+    "58935951",
+    "47878775",
+    "47878875",
+    "58935955",
+    "58935957",
+    "58940580",
+    "58940578",
+    "58940579",
+    "58940508",
+    "58940517",
+    "58940581",
+    "58929868",
+    "58929869"
+   ]
+  },
+  {
+   "date": "2011-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:279444:por",
+     "title": "Lei n.º 6/2011",
+     "published": "2011-03-10",
+     "dre_path": "/dr/detalhe/lei/6-2011-279444"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "47878175",
+    "58929870",
+    "47878375",
+    "47878475",
+    "58935950",
+    "58935951",
+    "47878775",
+    "47878875",
+    "58935955",
+    "58935957",
+    "58940580",
+    "58940578",
+    "58940579",
+    "58940508",
+    "58940517",
+    "58940588",
+    "58929868",
+    "58929869"
+   ]
+  },
+  {
+   "date": "2011-07-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670065:por",
+     "title": "Lei n.º 44/2011",
+     "published": "2011-06-22",
+     "dre_path": "/dr/detalhe/lei/44-2011-670065"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "47878175",
+    "58929870",
+    "47878375",
+    "47878475",
+    "58935950",
+    "58935951",
+    "47878775",
+    "47878875",
+    "58935955",
+    "58940591",
+    "58940580",
+    "58940578",
+    "58940579",
+    "58940508",
+    "58940517",
+    "58940588",
+    "58929868",
+    "58929869"
+   ]
+  },
+  {
+   "date": "2013-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:257004:por",
+     "title": "Lei n.º 10/2013",
+     "published": "2013-01-28",
+     "dre_path": "/dr/detalhe/lei/10-2013-257004"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "47878175",
+    "58929870",
+    "47878375",
+    "47878475",
+    "58935950",
+    "58940599",
+    "47878775",
+    "47878875",
+    "58935955",
+    "58940591",
+    "58940580",
+    "58940578",
+    "58940579",
+    "58940508",
+    "58940517",
+    "58940601",
+    "58929868",
+    "58929869"
+   ]
+  },
+  {
+   "date": "2019-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123545109:por",
+     "title": "Lei n.º 51/2019",
+     "published": "2019-07-29",
+     "dre_path": "/dr/detalhe/lei/51-2019-123545109"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "47878175",
+    "123540904",
+    "47878375",
+    "47878475",
+    "58935950",
+    "58940599",
+    "47878775",
+    "47878875",
+    "58935955",
+    "58940591",
+    "58940580",
+    "58940578",
+    "58940579",
+    "58940508",
+    "58940517",
+    "58940601",
+    "58929868",
+    "58929869"
+   ]
+  }
+ ],
+ "fragments": {
+  "47878175": {
+   "fragment_id": "35111075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Cria no ordenamento jurídico alguns mecanismos destinados a proteger o utente de serviços públicos essenciais\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "47878275": {
+   "fragment_id": "35666675",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito e finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e finalidade\n\n1 - A presente lei consagra regras a que deve obedecer a prestação de serviços públicos essenciais em ordem à protecção do utente.\n\n2 - São os seguintes os serviços públicos abrangidos:\n\na) Serviço de fornecimento de água;\n\nb) Serviço de fornecimento de energia eléctrica;\n\nc) Serviço de fornecimento de gás;\n\nd) Serviço de telefone.\n\n3 - Considera-se utente, para os efeitos previstos neste diploma, a pessoa singular ou colectiva a quem o prestador do serviço se obriga a prestá-lo."
+  },
+  "47878375": {
+   "fragment_id": "35666775",
+   "type": 11,
+   "heading": "Artigo 2.º — Direito de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direito de participação\n\n1 - As organizações representativas dos utentes têm o direito de ser consultadas quanto aos actos de definição do enquadramento jurídico dos serviços públicos e demais actos de natureza genérica que venham a ser celebrados entre o Estado, as Regiões Autónomas ou as autarquias e as entidades concessionárias.\n\n2 - Para esse efeito, as entidades públicas que representem o Estado, as Regiões Autónomas ou as autarquias nos actos referidos no número anterior devem comunicar atempadamente às organizações representativas dos utentes os respectivos projectos e propostas, de forma que aquelas se possam pronunciar sobre estes no prazo que lhes for fixado e que não será inferior a 15 dias.\n\n3 - As organizações referidas no n.º 1 têm ainda o direito de ser ouvidas relativamente à definição das grandes opções estratégicas das empresas concessionárias do serviço público, nos termos referidos no número anterior, desde que este serviço seja prestado em regime de monopólio."
+  },
+  "47878475": {
+   "fragment_id": "35666875",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípio geral\n\nO prestador do serviço deve proceder de boa fé e em conformidade com os ditames que decorram da natureza pública do serviço, tendo igualmente em conta a importância dos interesses dos utentes que se pretende proteger."
+  },
+  "47878575": {
+   "fragment_id": "35666975",
+   "type": 11,
+   "heading": "Artigo 4.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dever de informação\n\n1 - O prestador do serviço deve informar conveniente a outra parte das condições em que o serviço é fornecido e prestar-lhe todos os esclarecimentos que se justifiquem, de acordo com as circunstâncias.\n\n2 - Os operadores de serviços de telecomunicações informarão regularmente, de forma atempada e eficaz, os utentes sobre as tarifas aplicáveis aos serviços prestados, designadamente as respeitantes à comunicação entre a rede fixa e a rede móvel."
+  },
+  "47878675": {
+   "fragment_id": "35667075",
+   "type": 11,
+   "heading": "Artigo 5.º — Suspensão do fornecimento do serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Suspensão do fornecimento do serviço público\n\n1 - A prestação do serviço não pode ser suspensa sem pré-aviso adequado, salvo caso fortuito ou de força maior.\n\n2 - Em caso de mora do utente que justifique a suspensão do serviço, esta só poderá ocorrer após o utente ter sido advertido, por escrito, com a antecedência mínima de oito dias relativamente à data em que ela venha a ter lugar.\n\n3 - A advertência a que se refere o número anterior, para além de justificar o motivo da suspensão, deve informar o utente dos meios que tem ao seu dispor para evitar a suspensão do serviço e, bem assim, para a retoma do mesmo, sem prejuízo de poder fazer valer os direitos que lhe assistam nos termos gerais.\n\n4 - A prestação do serviço público não pode ser suspensa em consequência de falta de pagamento de qualquer outro serviço, ainda que incluído na mesma factura, salvo se forem funcionalmente indissociáveis.\n\n5 - Sem prejuízo do disposto no número anterior, o Governo regulamentará, mediante decreto-lei, no prazo de 120 dias, as questões relativas aos serviços de valor acrescentado."
+  },
+  "47878775": {
+   "fragment_id": "35667175",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito a quitação parcial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito a quitação parcial\n\nNão pode ser recusado o pagamento de um serviço público, ainda que facturado juntamente com outros, tendo o utente direito a que lhe seja dada quitação daquele, salvo o disposto na parte final do n.º 4 do artigo anterior."
+  },
+  "47878875": {
+   "fragment_id": "35667275",
+   "type": 11,
+   "heading": "Artigo 7.º — Padrões de qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Padrões de qualidade\n\nA prestação de qualquer serviço deverá obedecer a elevados padrões de qualidade, neles devendo incluir-se o grau de satisfação dos utentes, especialmente quando a fixação do preço varie em função desses padrões."
+  },
+  "47878975": {
+   "fragment_id": "35667375",
+   "type": 11,
+   "heading": "Artigo 8.º — Consumos mínimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Consumos mínimos\n\nSão proibidas a imposição e a cobrança de consumos mínimos."
+  },
+  "47879075": {
+   "fragment_id": "35667475",
+   "type": 11,
+   "heading": "Artigo 9.º — Facturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Facturação\n\n1 - O utente tem direito a uma factura que especifique devidamente os valores que apresenta.\n\n2 - No caso do serviço telefónico, e a pedido do interessado, a factura deve traduzir com o maior pormenor possível os serviços prestados, sem prejuízo de o prestador do serviço dever adoptar as medidas técnicas adequadas à salvaguarda dos direitos à privacidade e ao sigilo das comunicações."
+  },
+  "47879175": {
+   "fragment_id": "35667575",
+   "type": 11,
+   "heading": "Artigo 10.º — Prescrição e caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prescrição e caducidade\n\n1 - O direito de exigir o pagamento do preço do serviço prestado prescreve no prazo de seis meses após a sua prestação.\n\n2 - Se, por erro do prestador do serviço, foi paga importância inferior à que corresponde ao consumo efectuado, o direito ao recebimento da diferença de preço caduca dentro de seis meses após aquele pagamento.\n\n3 - O disposto no presente artigo não se aplica ao fornecimento de energia eléctrica em alta tensão."
+  },
+  "47879275": {
+   "fragment_id": "35667675",
+   "type": 11,
+   "heading": "Artigo 11.º — Carácter injuntivo dos direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Carácter injuntivo dos direitos\n\n1 - É nula qualquer convenção ou disposição que exclua ou limite os direitos atribuídos aos utentes pela presente lei.\n\n2 - A nulidade referida no número anterior apenas pode ser invocada pelo utente.\n\n3 - O utente pode optar pela manutenção do contrato quando alguma das suas cláusulas seja nula."
+  },
+  "47879375": {
+   "fragment_id": "35667775",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito ressalvado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito ressalvado\n\nFicam ressalvadas todas as disposições legais que, em concreto, se mostrem mais favoráveis ao utente."
+  },
+  "47879475": {
+   "fragment_id": "35667875",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições finais\n\n1 - O disposto neste diploma é também aplicável às relações que subsistam à data da sua entrada em vigor.\n\n2 - A extensão das regras da presente lei aos serviços de telecomunicações avançadas, bem como aos serviços postais, terá lugar no prazo de 120 dias, mediante decreto-lei, ouvidas as entidades representativas dos respectivos sectores.\n\n3 - O elenco das organizações representativas dos utentes, com direito de participação nos termos do artigo 2.º e do número anterior, será certificado e actualizado pelo departamento governamental competente, nos termos das disposições regulamentares da presente lei."
+  },
+  "47879575": {
+   "fragment_id": "35667975",
+   "type": 11,
+   "heading": "Artigo 14.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vigência\n\nO presente diploma entra em vigor 90 dias após a sua publicação, com excepção do disposto nos artigos 5.º, n.º 5, e 13.º, n.º 2."
+  },
+  "58929870": {
+   "fragment_id": "35666675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - A presente lei consagra regras a que deve obedecer a prestação de serviços públicos essenciais em ordem à protecção do utente.\n\n2 - São os seguintes os serviços públicos abrangidos:\n\na) Serviço de fornecimento de água;\n\nb) Serviço de fornecimento de energia eléctrica;\n\nc) Serviço de fornecimento de gás natural e gases de petróleo liquefeitos canalizados;\n\nd) Serviço de comunicações electrónicas;\n\ne) Serviços postais;\n\nf) Serviço de recolha e tratamento de águas residuais;\n\ng) Serviços de gestão de resíduos sólidos urbanos.\n\n3 - Considera-se utente, para os efeitos previstos nesta lei, a pessoa singular ou colectiva a quem o prestador do serviço se obriga a prestá-lo.\n\n4 - Considera-se prestador dos serviços abrangidos pela presente lei toda a entidade pública ou privada que preste ao utente qualquer dos serviços referidos no n.º 2, independentemente da sua natureza jurídica, do título a que o faça ou da existência ou não de contrato de concessão.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58935950": {
+   "fragment_id": "35666975",
+   "type": 11,
+   "heading": "Artigo 4.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453)"
+   ],
+   "markdown": "###### Artigo 4.º — Dever de informação\n\n1 - O prestador do serviço deve informar, de forma clara e conveniente, a outra parte das condições em que o serviço é fornecido e prestar-lhe todos os esclarecimentos que se justifiquem, de acordo com as circunstâncias.\n\n2 - O prestador do serviço informa directamente, de forma atempada e eficaz, os utentes sobre as tarifas aplicáveis pelos serviços prestados, disponibilizando-lhes informação clara e completa sobre essas tarifas.\n\n3 - Os prestadores de serviços de comunicações electrónicas informam regularmente, de forma atempada e eficaz, os utentes sobre as tarifas aplicáveis aos serviços prestados, designadamente as respeitantes às redes fixa e móvel, ao acesso à Internet e à televisão por cabo.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453)"
+  },
+  "58935951": {
+   "fragment_id": "35667075",
+   "type": 11,
+   "heading": "Artigo 5.º — Suspensão do fornecimento do serviço público",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 5.º — Suspensão do fornecimento do serviço público\n\n1 - A prestação do serviço não pode ser suspensa sem pré-aviso adequado, salvo caso fortuito ou de força maior.\n\n2 - Em caso de mora do utente que justifique a suspensão do serviço, esta só poderá ocorrer após o utente ter sido advertido, por escrito, com a antecedência mínima de 10 dias relativamente à data em que ela venha a ter lugar.\n\n3 - A advertência a que se refere o número anterior, para além de justificar o motivo da suspensão, deve informar o utente dos meios que tem ao seu dispor para evitar a suspensão do serviço e, bem assim, para a retoma do mesmo, sem prejuízo de poder fazer valer os direitos que lhe assistam nos termos gerais.\n\n4 - A prestação do serviço público não pode ser suspensa em consequência de falta de pagamento de qualquer outro serviço, ainda que incluído na mesma factura, salvo se forem funcionalmente indissociáveis.\n\n5 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58935955": {
+   "fragment_id": "35667375",
+   "type": 11,
+   "heading": "Artigo 8.º — Consumos mínimos e contadores",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 8.º — Consumos mínimos e contadores\n\n1 -São proibidas a imposição e a cobrança de consumos mínimos.\n\n2 - É proibida a cobrança aos utentes de:\n\na) Qualquer importância a título de preço, aluguer, amortização ou inspecção periódica de contadores ou outros instrumentos de medição dos serviços utilizados;\n\nb) Qualquer outra taxa de efeito equivalente à utilização das medidas referidas na alínea anterior, independentemente da designação utilizada;\n\nc) Qualquer taxa que não tenha uma correspondência directa com um encargo em que a entidade prestadora do serviço efectivamente incorra, com excepção da contribuição para o audiovisual;\n\nd) Qualquer outra taxa não subsumível às alíneas anteriores que seja contrapartida de alteração das condições de prestação do serviço ou dos equipamentos utilizados para esse fim, excepto quando expressamente solicitada pelo consumidor.\n\n3 - Não constituem consumos mínimos, para efeitos do presente artigo, as taxas e tarifas devidas pela construção, conservação e manutenção dos sistemas públicos de água, de saneamento e resíduos sólidos, nos termos do regime legal aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58935957": {
+   "fragment_id": "35667475",
+   "type": 11,
+   "heading": "Artigo 9.º — Facturação",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 9.º — Facturação\n\n1 - O utente tem direito a uma factura que especifique devidamente os valores que apresenta.\n\n2 - A factura a que se refere o número anterior deve ter uma periodicidade mensal, devendo discriminar os serviços prestados e as correspondentes tarifas.\n\n3 - No caso do serviço de comunicações electrónicas, e a pedido do interessado, a factura deve traduzir com o maior pormenor possível os serviços prestados, sem prejuízo do legalmente estabelecido em matéria de salvaguarda dos direitos à privacidade e ao sigilo das comunicações.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58935960": {
+   "fragment_id": "35667575",
+   "type": 11,
+   "heading": "Artigo 10.º — Prescrição e caducidade",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 10.º — Prescrição e caducidade\n\n1 - O direito ao recebimento do preço do serviço prestado prescreve no prazo de seis meses após a sua prestação.\n\n2 - Se, por qualquer motivo, incluindo o erro do prestador do serviço, tiver sido paga importância inferior à que corresponde ao consumo efectuado, o direito do prestador ao recebimento da diferença caduca dentro de seis meses após aquele pagamento.\n\n3 - A exigência de pagamento por serviços prestados é comunicada ao utente, por escrito, com uma antecedência mínima de 10 dias úteis relativamente à data limite fixada para efectuar o pagamento.\n\n4 - O prazo para a propositura da acção pelo prestador de serviços é de seis meses, contados após a prestação do serviço ou do pagamento inicial, consoante os casos.\n\n5 - O disposto no presente artigo não se aplica ao fornecimento de energia eléctrica em alta tensão.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58940578": {
+   "fragment_id": "35667675",
+   "type": 11,
+   "heading": "Artigo 11.º — Ónus da prova",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 11.º — Ónus da prova\n\n1 - Cabe ao prestador do serviço a prova de todos os factos relativos ao cumprimento das suas obrigações e ao desenvolvimento de diligências decorrentes da prestação dos serviços a que se refere a presente lei.\n\n2 - Incide sobre o prestador do serviço o ónus da prova da realização das comunicações a que se refere o artigo 10.º, relativas à exigência do pagamento e do momento em que as mesmas foram efectuadas.\n\n> Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58940579": {
+   "fragment_id": "35667775",
+   "type": 11,
+   "heading": "Artigo 12.º — Acerto de valores cobrados",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Republicado pelo/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 12.º — Acerto de valores cobrados\n\nSempre que, em virtude do método de facturação utilizado, seja cobrado ao utente um valor que exceda o correspondente ao consumo efectuado, o valor em excesso é abatido da factura em que tenha sido efectuado o acerto, salvo caso de declaração em contrário, manifestada expressamente pelo utente do serviço.\n\n> Republicado pelo/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58940508": {
+   "fragment_id": "35667875",
+   "type": 11,
+   "heading": "Artigo 13.º — Carácter injuntivo dos direitos",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 13.º — Carácter injuntivo dos direitos\n\n1 - É nula qualquer convenção ou disposição que exclua ou limite os direitos atribuídos aos utentes pela presente lei.\n\n2 - A nulidade referida no número anterior apenas pode ser invocada pelo utente.\n\n3 - O utente pode optar pela manutenção do contrato quando alguma das suas cláusulas seja nula.\n\n> Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58940517": {
+   "fragment_id": "35667975",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito ressalvado",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 14.º — Direito ressalvado\n\nFicam ressalvadas todas as disposições legais que, em concreto, se mostrem mais favoráveis ao utente.\n\n> Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58929858": {
+   "fragment_id": "58929709",
+   "type": 11,
+   "heading": "Artigo 15.º — Resolução de litígios",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 15.º — Resolução de litígios\n\nQuando as partes, em caso de litígio resultante da prestação de um serviço público essencial, optem por recorrer a mecanismos de resolução extrajudicial de conflitos de consumo, suspende-se no seu decurso o prazo para a interposição da acção judicial.\n\n> Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58929868": {
+   "fragment_id": "58929721",
+   "type": 11,
+   "heading": "Artigo 16.º — Disposições finais",
+   "in_force_from": "2008-05-26",
+   "changed_by": [
+    "Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 16.º — Disposições finais\n\nO elenco das organizações representativas dos utentes, com direito de participação nos termos do artigo 2.º, será certificado e actualizado pelo departamento governamental competente, nos termos das disposições regulamentares da presente lei.\n\n> Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58929869": {
+   "fragment_id": "35668075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de Maio de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 4 de Julho de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 8 de Julho de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "58940580": {
+   "fragment_id": "35667575",
+   "type": 11,
+   "heading": "Artigo 10.º — Prescrição e caducidade",
+   "in_force_from": "2008-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 24/2008 - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/lei/24-2008-448955), em vigor a partir de 2008-06-07, produz efeitos a partir de 2005-05-26",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 10.º — Prescrição e caducidade\n\n1 - O direito ao recebimento do preço do serviço prestado prescreve no prazo de seis meses após a sua prestação.\n\n2 - Se, por qualquer motivo, incluindo o erro do prestador do serviço, tiver sido paga importância inferior à que corresponde ao consumo efectuado, o direito do prestador ao recebimento da diferença caduca dentro de seis meses após aquele pagamento.\n\n3 - A exigência de pagamento por serviços prestados é comunicada ao utente, por escrito, com uma antecedência mínima de 10 dias úteis relativamente à data limite fixada para efectuar o pagamento.\n\n4 - O prazo para a propositura da acção ou da injunção pelo prestador de serviços é de seis meses, contados após a prestação do serviço ou do pagamento inicial, consoante os casos.\n\n5 - O disposto no presente artigo não se aplica ao fornecimento de energia eléctrica em alta tensão.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 24/2008 - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/lei/24-2008-448955), em vigor a partir de 2008-06-07, produz efeitos a partir de 2005-05-26\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58940581": {
+   "fragment_id": "58929709",
+   "type": 11,
+   "heading": "Artigo 15.º — Resolução de litígios",
+   "in_force_from": "2008-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 24/2008 - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/lei/24-2008-448955), em vigor a partir de 2008-06-07, produz efeitos a partir de 2008-05-26",
+    "Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 15.º — Resolução de litígios\n\nQuando as partes, em caso de litígio resultante da prestação de um serviço público essencial, optem por recorrer a mecanismos de resolução extrajudicial de conflitos, suspende-se no seu decurso o prazo para a interposição da acção judicial ou da injunção.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 24/2008 - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/lei/24-2008-448955), em vigor a partir de 2008-06-07, produz efeitos a partir de 2008-05-26\n\n> Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58940588": {
+   "fragment_id": "58929709",
+   "type": 11,
+   "heading": "Artigo 15.º — Resolução de litígios e arbitragem necessária",
+   "in_force_from": "2011-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 6/2011 - Diário da República n.º 49/2011, Série I de 2011-03-10](https://diariodarepublica.pt/dr/detalhe/lei/6-2011-279444), em vigor a partir de 2011-03-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 24/2008 - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/lei/24-2008-448955), em vigor a partir de 2008-06-07, produz efeitos a partir de 2008-05-26",
+    "Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 15.º — Resolução de litígios e arbitragem necessária\n\n1 - Os litígios de consumo no âmbito dos serviços públicos essenciais estão sujeitos a arbitragem necessária quando, por opção expressa dos utentes que sejam pessoas singulares, sejam submetidos à apreciação do tribunal arbitral dos centros de arbitragem de conflitos de consumo legalmente autorizados.\n\n2 - Quando as partes, em caso de litígio resultante de um serviço público essencial, optem por recorrer a mecanismos de resolução extrajudicial de conflitos suspende-se no seu decurso o prazo para a propositura da acção judicial ou da injunção.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 6/2011 - Diário da República n.º 49/2011, Série I de 2011-03-10](https://diariodarepublica.pt/dr/detalhe/lei/6-2011-279444), em vigor a partir de 2011-03-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 24/2008 - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/lei/24-2008-448955), em vigor a partir de 2008-06-07, produz efeitos a partir de 2008-05-26\n\n> Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58940591": {
+   "fragment_id": "35667475",
+   "type": 11,
+   "heading": "Artigo 9.º — Facturação",
+   "in_force_from": "2011-07-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2011 - Diário da República n.º 119/2011, Série I de 2011-06-22](https://diariodarepublica.pt/dr/detalhe/lei/44-2011-670065), em vigor a partir de 2011-07-22",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 9.º — Facturação\n\n1 - O utente tem direito a uma factura que especifique devidamente os valores que apresenta.\n\n2 - A factura a que se refere o número anterior deve ter uma periodicidade mensal, devendo discriminar os serviços prestados e as correspondentes tarifas.\n\n3 - No caso do serviço de comunicações electrónicas, e a pedido do interessado, a factura deve traduzir com o maior pormenor possível os serviços prestados, sem prejuízo do legalmente estabelecido em matéria de salvaguarda dos direitos à privacidade e ao sigilo das comunicações.\n\n4 - Quanto ao serviço de fornecimento de energia eléctrica, a factura referida no n.º 1 deve discriminar, individualmente, o montante referente aos bens fornecidos ou serviços prestados, bem como cada custo referente a medidas de política energética, de sustentabilidade ou de interesse económico geral (geralmente denominado de custo de interesse económico geral), e outras taxas e contribuições previstas na lei.\n\n5 - O disposto no número anterior não poderá constituir um acréscimo do valor da factura.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2011 - Diário da República n.º 119/2011, Série I de 2011-06-22](https://diariodarepublica.pt/dr/detalhe/lei/44-2011-670065), em vigor a partir de 2011-07-22\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58940599": {
+   "fragment_id": "35667075",
+   "type": 11,
+   "heading": "Artigo 5.º — Suspensão do fornecimento do serviço público",
+   "in_force_from": "2013-04-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), em vigor a partir de 2013-04-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 5.º — Suspensão do fornecimento do serviço público\n\n1 - A prestação do serviço não pode ser suspensa sem pré-aviso adequado, salvo caso fortuito ou de força maior.\n\n2 - Em caso de mora do utente que justifique a suspensão do serviço, esta só pode ocorrer após o utente ter sido advertido, por escrito, com a antecedência mínima de 20 dias relativamente à data em que ela venha a ter lugar.\n\n3 - A advertência a que se refere o número anterior, para além de justificar o motivo da suspensão, deve informar o utente dos meios que tem ao seu dispor para evitar a suspensão do serviço e, bem assim, para a retoma do mesmo, sem prejuízo de poder fazer valer os direitos que lhe assistam nos termos gerais.\n\n4 - A prestação do serviço público não pode ser suspensa em consequência de falta de pagamento de qualquer outro serviço, ainda que incluído na mesma factura, salvo se forem funcionalmente indissociáveis.\n\n5 - À suspensão de serviços de comunicações eletrónicas prestados a consumidores aplica-se o regime previsto no artigo 52.º-A da Lei n.º 5/2004, de 10 de fevereiro, alterada pelo Decreto-Lei n.º 176/2007, de 8 de maio, pela Lei n.º 35/2008, de 28 de julho, pelos Decretos-Leis n.os 123/2009, de 21 de maio, e 258/2009, de 25 de setembro, pela Lei n.º 46/2011, de 24 de junho, e alterada e republicada pela Lei n.º 51/2011, de 13 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), em vigor a partir de 2013-04-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "58940601": {
+   "fragment_id": "58929709",
+   "type": 11,
+   "heading": "Artigo 15.º — Resolução de litígios e arbitragem necessária",
+   "in_force_from": "2013-04-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), em vigor a partir de 2013-04-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 6/2011 - Diário da República n.º 49/2011, Série I de 2011-03-10](https://diariodarepublica.pt/dr/detalhe/lei/6-2011-279444), em vigor a partir de 2011-03-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 24/2008 - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/lei/24-2008-448955), em vigor a partir de 2008-06-07, produz efeitos a partir de 2008-05-26",
+    "Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 15.º — Resolução de litígios e arbitragem necessária\n\n1 - Os litígios de consumo no âmbito dos serviços públicos essenciais estão sujeitos a arbitragem necessária quando, por opção expressa dos utentes que sejam pessoas singulares, sejam submetidos à apreciação do tribunal arbitral dos centros de arbitragem de conflitos de consumo legalmente autorizados.\n\n2 - Quando as partes, em caso de litígio resultante de um serviço público essencial, optem por recorrer a mecanismos de resolução extrajudicial de conflitos, suspendem-se, no seu decurso, os prazos previstos nos n.os 1 e 4 do artigo 10.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), em vigor a partir de 2013-04-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 6/2011 - Diário da República n.º 49/2011, Série I de 2011-03-10](https://diariodarepublica.pt/dr/detalhe/lei/6-2011-279444), em vigor a partir de 2011-03-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 24/2008 - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/lei/24-2008-448955), em vigor a partir de 2008-06-07, produz efeitos a partir de 2008-05-26\n\n> Republicado pelo/a Artigo 5.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  },
+  "123540904": {
+   "fragment_id": "35666675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2019-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 51/2019 - Diário da República n.º 143/2019, Série I de 2019-07-29](https://diariodarepublica.pt/dr/detalhe/lei/51-2019-123545109), em vigor a partir de 2019-08-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - A presente lei consagra regras a que deve obedecer a prestação de serviços públicos essenciais em ordem à protecção do utente.\n\n2 - São os seguintes os serviços públicos abrangidos:\n\na) Serviço de fornecimento de água;\n\nb) Serviço de fornecimento de energia eléctrica;\n\nc) Serviço de fornecimento de gás natural e gases de petróleo liquefeitos canalizados;\n\nd) Serviço de comunicações electrónicas;\n\ne) Serviços postais;\n\nf) Serviço de recolha e tratamento de águas residuais;\n\ng) Serviços de gestão de resíduos sólidos urbanos.\n\nh) Serviço de transporte de passageiros.\n\n3 - Considera-se utente, para os efeitos previstos nesta lei, a pessoa singular ou colectiva a quem o prestador do serviço se obriga a prestá-lo.\n\n4 - Considera-se prestador dos serviços abrangidos pela presente lei toda a entidade pública ou privada que preste ao utente qualquer dos serviços referidos no n.º 2, independentemente da sua natureza jurídica, do título a que o faça ou da existência ou não de contrato de concessão.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 51/2019 - Diário da República n.º 143/2019, Série I de 2019-07-29](https://diariodarepublica.pt/dr/detalhe/lei/51-2019-123545109), em vigor a partir de 2019-08-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), em vigor a partir de 2008-05-26"
+  }
+ }
+}

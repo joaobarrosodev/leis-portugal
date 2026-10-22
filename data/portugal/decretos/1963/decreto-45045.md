@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:627646:por
+title: Decreto n.º 45045
+short_title: null
+summary: Determina que na província ultramarina da Guiné os serviços de agricultura e florestas e os serviços de veterinária
+  passem a constituir duas repartições provinciais distintas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '45045'
+official_date: null
+publication_date: '1963-05-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 123/1963, Série I de 1963-05-24
+  number: '123'
+  series: I
+  supplement: null
+  pages: 639 - 639
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/05/12300/06390639.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '627646'
+  dre_path: /dr/detalhe/decreto/45045-1963-627646
+  internal: pt:dre:627646:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45045-1963-627646
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45045-1963-627646
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1964-12-07T00:00:00Z'
+integrity:
+  source_sha256: e04b7a273730141e2e943269a591b6dfc46933bfa5f50b457d1e2a76f157c79b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-45045-627646.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:517412:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45045
+
+Pela alínea 2) do artigo 41.º do Estatuto Político-Administrativo da Província da Guiné, aprovado pelo [Decreto n.º 40223](https://diariodarepublica.pt/dr/detalhe/decreto/40223-1955-238409), de 5 de Julho de 1955, os serviços de agricultura e veterinária foram concentrados numa única repartição provincial;
+
+Em consequência, o artigo 5.º do [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, estabeleceu que, na mesma província, os serviços de agricultura e florestas fossem agrupados numa secção para constituírem com os de veterinária a Repartição de Agricultura e Veterinária;
+
+Considerando, porém, que o interesse público recomenda que os serviços de veterinária e os de agricultura e florestas funcionem separadamente, constituindo cada um deles uma repartição provincial distinta;
+
+Considerando que daí resultarão grandes benefícios para a província da Guiné e que o aumento de despesa é inferior a 70000$00 anuais;
+
+Por motivo de urgência e nos termos do § 1.º do artigo 150.º da Constituição Política;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º do mesmo diploma, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º Na província da Guiné os serviços de agricultura e florestas e os serviços de veterinária passam a constituir duas repartições provinciais distintas.
+
+###### Art. 2.º A chefia dos serviços provinciais de que trata o artigo anterior será exercida, em comissão, por funcionários dos respectivos quadros, de conformidade com as regras aplicáveis do n.º V da base XLI da Lei Orgânica do Ultramar Português e com o disposto no artigo seguinte.
+
+###### Art. 3.º O lugar de chefe da Repartição Provincial dos Serviços de Agricultura e Florestas será desempenhado por um engenheiro agrónomo de 1.ª classe e o de chefe da Repartição Provincial dos Serviços de Veterinária por um médico veterinário de 1.ª classe.
+
+###### Art. 4.º Os quadros do pessoal das Repartições Provinciais dos Serviços de Agricultura e Florestas e dos Serviços de Veterinária são os que estão presentemente atribuídos, respectivamente, à secção de agricultura e à secção de veterinária dos actuais serviços de agricultura e veterinária com as alterações resultantes do disposto no artigo 5.º e seus parágrafos.
+
+§ único. Os funcionários das referidas secções transitam, mediante simples portaria do Ministro do Ultramar e independentemente de nova nomeação, visto e posse, para os correspondentes lugares das novas repartições provinciais, observando-se, porém, o disposto no artigo seguinte.
+
+###### Art. 5.º Um dos lugares de médico veterinário de 1.ª classe previstos no quadro da actual secção de veterinária considerar-se-á extinto logo que seja nomeado o chefe dos serviços provinciais de veterinária.
+
+§ 1.º Transita para o quadro dos serviços provinciais de veterinária, mediante simples portaria do governador da província e independentemente de nova nomeação, visto e posse, o segundo-oficial da actual secção de agricultura.
+
+§ 2.º São criados um lugar de aspirante e um lugar de dactilógrafo para o quadro do pessoal de nomeação da Repartição Provincial de Veterinária.
+
+###### Art. 6.º No corrente ano económico as despesas de todas as classes dos serviços provinciais de agricultura e florestas e de veterinária serão satisfeitas pelas disponibilidades das verbas inscritas no orçamento geral da província da Guiné para o ano de 1963, respectivamente, para a secção de agricultura e para a secção de veterinária dos actuais serviços de agricultura e veterinária, procedendo-se ao seu reforço, se for necessário, com contrapartida em recursos orçamentais.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 24 de Maio de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial da Guiné. - Peixoto Correia.

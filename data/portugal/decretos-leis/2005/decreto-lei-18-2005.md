@@ -1,0 +1,222 @@
+---
+schema_version: '1.0'
+id: pt:dre:624873:por
+title: Decreto-Lei n.º 18/2005
+short_title: null
+summary: Transfere para a Região Autónoma da Madeira as atribuições e competências fiscais cometidas à Direcção de Finanças
+  da Região Autónoma da Madeira
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 18/2005
+official_date: null
+publication_date: '2005-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 12/2005, Série I-A de 2005-01-18
+  number: '12'
+  series: I
+  supplement: null
+  pages: 321 - 323
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/01/012a00/03210323.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/18/2005/01/18/p/dre/pt/html
+  oj: null
+  dre: '624873'
+  dre_path: /dr/detalhe/decreto-lei/18-2005-624873
+  internal: pt:dre:624873:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2005-624873
+  metadata_url: https://data.dre.pt/eli/dec-lei/18/2005/01/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2005-624873
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-03-10T00:00:00Z'
+integrity:
+  source_sha256: d0e4e9d402ed69bb3b07df1752995b886ac57b9cc9d23904230e5004590ba4b8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-18-624873.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autonomia Financeira
+- Autonomia Regional
+- Cobrança de Impostos
+- Política Fiscal
+- Governo Regional
+- Definição de Competências
+- Direção de Finanças
+- Secretaria Regional do Plano e Finanças
+- Extinção de Serviços
+- Ministério das Finanças
+- Integração de Trabalhadores
+- Direcção de Finanças da Região Autónoma da Madeira
+- Madeira.região Autónoma
+- Receita Fiscal
+- Regionalização
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:106579666:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1998/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1998/02/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 18/2005
+
+de 18 de Janeiro
+
+O regime político-administrativo próprio das Regiões Autónomas, consagrado no artigo 225.º da Constituição da República Portuguesa e desenvolvido no Estatuto Político-Administrativo das Regiões Autónomas, determina a transferência para as Regiões Autónomas de todas as funções e correspondentes serviços cuja descentralização permita corresponder melhor aos interesses das respectivas populações, sem contender no entanto com o princípio da unidade e com a soberania do Estado.
+
+Ora, a alínea i) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, assim como a alínea f) do n.º 1 do artigo 37.º, e o artigo 107.º do Estatuto Político-Administrativo da Região Autónoma da Madeira atribuem à referida Região Autónoma poder tributário próprio, consistindo o mesmo, designadamente, no direito de dispor de todas as receitas fiscais cobradas no seu território, independentemente da sua natureza e da sua categoria específica, e de dispor das mesmas.
+
+O artigo 5.º do referido Estatuto Político-Administrativo consagra a autonomia fiscal da Região Autónoma da Madeira a exercer no respeito pela soberania nacional, no quadro da Constituição e daquele Estatuto, ao que o artigo 140.º do mesmo diploma assim como a alínea a) do n.º 2 do artigo 39.º da [Lei n.º 13/98](https://diariodarepublica.pt/dr/detalhe/lei/13-1998-210978), de 24 de Fevereiro, acrescentam ser competência administrativa regional a criação dos serviços fiscais competentes para o lançamento, liquidação e cobrança dos impostos de que é sujeito activo.
+
+Está assim criado o quadro legal que possibilita e aconselha a regionalização dos serviços fiscais da Região Autónoma da Madeira como forma de concretizar a autonomia financeira regional, possibilitando um efectivo controlo regional sobre as diversas actividades fiscais e o cumprimento cabal dos citados preceitos constitucionais e estatutários sobre a titularidade das receitas.
+
+A descentralização operada pela presente iniciativa legislativa passa no entanto pelo aproveitamento dos meios humanos que aí prestam serviço, a qual terá de ser feita sem prejuízo dos direitos adquiridos e com garantia das justas aspirações e expectativas que possuíam. Para o efeito são criadas situações de transição, com vista à salvaguarda desses direitos, e faz-se depender do funcionário a sua desvinculação ou não do serviço originário.
+
+O presente diploma tem ainda a preocupação de realisticamente encarar a transferência de competências como um processo de mudança que permite à Região a efectiva condução de uma política regional no domínio em questão, com respeito pelas grandes linhas de política nacional e pelas orientações técnicas normativas de execução dessa política.
+
+Por decreto regulamentar regional será criado e definido o âmbito de actuação de um novo serviço regional, com vista à prossecução das competências anteriormente cometidas à Direcção de Finanças da Região Autónoma da Madeira e aos serviços dela dependentes.
+
+Foram ouvidos os órgãos de governo próprio da Região Autónoma da Madeira e a Comissão Nacional de Protecção de Dados.
+
+Foram observados os procedimentos da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - São transferidas para a Região Autónoma da Madeira as atribuições e competências fiscais que no âmbito da Direcção de Finanças da Região Autónoma da Madeira e de todos os serviços dela dependentes vinham sendo exercidas no território da Região pelo Governo da República, sem prejuízo do disposto nos artigos 140.º e 141.º da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto.
+
+2 - Compete ao Governo Regional da Região Autónoma da Madeira exercer a plenitude das competências previstas na Constituição e na lei em relação às receitas fiscais próprias, praticando todos os actos necessários à sua administração e gestão.
+
+3 - Pelo presente diploma são extintos a Direcção de Finanças da Região Autónoma da Madeira e os serviços locais dela dependentes.
+
+###### Artigo 2.º — Órgão regional
+
+Por decreto regulamentar regional será criado um organismo com vista à prossecução na Região Autónoma da Madeira das atribuições e competências cometidas à Direcção de Finanças da Região Autónoma da Madeira, extinta pelo presente diploma nos termos do n.º 3 do artigo anterior.
+
+###### Artigo 3.º — Cooperação
+
+1 - O Ministério das Finanças prestará ao Governo Regional da Madeira o apoio técnico e administrativo necessário ao funcionamento dos serviços referidos no artigo anterior, com vista a assegurar um sistema fiscal único e a sua aplicação uniforme em todo o território nacional.
+
+2 - Para os efeitos do disposto no número anterior, o Ministério das Finanças comunicará ao Governo Regional da Madeira, designadamente, as informações, os dados constantes dos respectivos sistemas informáticos, os despachos, as instruções e as circulares de natureza interpretativa de âmbito fiscal relacionados com todas as actividades desenvolvidas no território da Região Autónoma da Madeira, assim como as desenvolvidas em qualquer outra circunscrição do território nacional por sujeitos passivos da referida Região Autónoma.
+
+3 - Os serviços fiscais da Região Autónoma da Madeira comunicam, igualmente, ao Ministério das Finanças os dados pessoais dos sujeitos passivos que se mostrem necessários à adequada aplicação do sistema fiscal nacional.
+
+4 - Qualquer informação recebida pela Região e pelos seus funcionários, nos termos do presente diploma e da demais legislação nacional aplicável, é de natureza sigilosa, do mesmo modo e nos mesmos termos do disposto para a legislação fiscal nacional.
+
+###### Artigo 4.º — Pessoal
+
+1 - Enquanto não for criado o novo organismo de âmbito regional, manter-se-ão as estruturas organizacionais da Direcção de Finanças da Região Autónoma da Madeira, ficando o respectivo pessoal afecto funcionalmente à Secretaria Regional do Plano e Finanças.
+
+2 - O pessoal da Direcção de Finanças da Região Autónoma da Madeira que se encontre em regime de comissão de serviço em cargos de director de serviços, chefe de divisão ou equiparados ou ainda cargos de chefia tributária mantém as respectivas comissões de serviço no prazo nelas previsto até à aprovação da organização do serviço regional que lhe suceder.
+
+3 - O pessoal da Direcção-Geral dos Impostos adstrito aos serviços extintos e que desempenha funções na Região Autónoma da Madeira qualquer que seja a sua forma de provimento transitará, se assim o desejar, para a estrutura regional que vier a suceder-lhe, mantendo todos os direitos adquiridos à data da transferência, designadamente em matéria de antiguidade e categoria profissional.
+
+4 - A transição prevista no número anterior será efectuada com a criação da orgânica do novo organismo regional mediante lista nominativa e independentemente de quaisquer formalidades, salvo a publicação no Diário da República e no Jornal Oficial.
+
+5 - Os funcionários que não desejarem a integração nos quadros do organismo a que se refere o artigo 3.º devem apresentar a respectiva declaração no prazo de 180 dias a contar da publicação do presente diploma no Diário da República.
+
+6 - Os funcionários a exercerem funções na Direcção de Finanças da Região Autónoma da Madeira que não optarem pela integração no quadro regional podem continuar a exercer funções em regime de destacamento ou requisição nos termos da legislação aplicável.
+
+###### Artigo 5.º — Estatuto remuneratório
+
+1 - Até à criação da orgânica do organismo a que se refere o artigo 2.º do presente diploma, manter-se-á em vigor o regime remuneratório aplicável ao pessoal da Direcção-Geral dos Impostos, nomeadamente os suplementos e bonificações existentes.
+
+2 - Sem prejuízo do disposto no número anterior, são salvaguardados os direitos adquiridos dos actuais funcionários.
+
+###### Artigo 6.º — Formação
+
+O Ministério das Finanças assegurará a sua colaboração ao novo organismo no que respeita à formação dos respectivos quadros, nomeadamente através da abertura dos seus planos de formação aos referidos funcionários.
+
+###### Artigo 7.º — Património
+
+1 - É transferida para a Região Autónoma da Madeira, sem a necessidade de quaisquer formalidades, a propriedade dos bens patrimoniais afectos aos serviços extintos pelo presente diploma.
+
+2 - A transferência da propriedade do património referida no número anterior será comunicada aos respectivos conservadores, sempre que necessário, para que procedam oficiosamente aos necessários registos.
+
+###### Artigo 8.º — Cessão da posição contratual
+
+1 - São transferidos para a Região Autónoma da Madeira, independentemente de quaisquer formalidades, os direitos e obrigações, incluindo posições contratuais, nomeadamente direitos de arrendamento, na titularidade do Estado que estejam relacionados com os serviços da Direcção de Finanças da Região Autónoma da Madeira.
+
+2 - A partir da data da entrada em vigor do presente diploma, a execução de obras e a aquisição de equipamento já adjudicados relacionados com os serviços da Direcção de Finanças da Região Autónoma da Madeira ficam sob a responsabilidade do Governo Regional da Madeira.
+
+3 - Para os efeitos do número anterior, o Governo da República transferirá para o Governo Regional as verbas necessárias orçamentadas para aqueles fins, ficando estas consignadas ao pagamento daqueles encargos.
+
+###### Artigo 9.º — Regime financeiro
+
+As despesas necessárias ao funcionamento dos serviços referidos no artigo 2.º do presente diploma constituem encargos da Região Autónoma da Madeira.
+
+###### Artigo 10.º — Impostos municipais
+
+1 - Com a entrada em funcionamento dos serviços fiscais regionais, passam a ser da sua competência a liquidação e a cobrança dos impostos que constituem receita dos municípios da Região Autónoma da Madeira, nos termos da legislação em vigor.
+
+2 - Os serviços referidos no número anterior podem ser remunerados nos termos previstos na Lei das Finanças Locais, e o seu produto constitui receita da Região Autónoma da Madeira.
+
+Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix.
+
+**Promulgado em 5 de Janeiro de 2005.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 10 de Janeiro de 2005.**
+
+**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**

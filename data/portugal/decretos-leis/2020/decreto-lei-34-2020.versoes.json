@@ -1,0 +1,569 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:137444365:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-137509038",
+ "dre_path": "/dr/detalhe/decreto-lei/34-2020-137444365",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-07-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "137442680",
+    "137442681",
+    "137442682",
+    "137442683",
+    "137442684",
+    "137442685",
+    "137442686",
+    "137442687",
+    "137442688",
+    "137442689",
+    "137442690",
+    "137442691",
+    "137442692",
+    "137442693",
+    "137442694",
+    "137442695",
+    "137442696",
+    "137442697",
+    "137442698",
+    "137442699",
+    "137442700",
+    "137442701",
+    "137442702",
+    "137442703",
+    "137442704",
+    "137442705",
+    "137442706",
+    "137442707",
+    "137442708",
+    "137442709",
+    "137442710",
+    "137442711",
+    "137442712",
+    "137442713",
+    "137442714",
+    "137442715",
+    "137442716",
+    "137442717",
+    "137442718",
+    "137442719",
+    "137442720",
+    "137442721",
+    "137442722",
+    "137442723",
+    "137442724",
+    "137442725",
+    "137442727"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "137442680",
+    "137442681",
+    "137442682",
+    "137442683",
+    "137442684",
+    "137442685",
+    "137442686",
+    "137442687",
+    "137442688",
+    "137442689",
+    "137442690",
+    "137442691",
+    "137442692",
+    "137442693",
+    "137442694",
+    "137442695",
+    "137442696",
+    "137442697",
+    "137442698",
+    "137442699",
+    "137442700",
+    "137442701",
+    "137442702",
+    "137442703",
+    "137442704",
+    "137442705",
+    "137442706",
+    "137442707",
+    "137442708",
+    "137442709",
+    "137442710",
+    "137442711",
+    "157266024",
+    "157266025",
+    "137442714",
+    "157266026",
+    "157266027",
+    "157266028",
+    "137442718",
+    "137442719",
+    "137442720",
+    "137442721",
+    "137442722",
+    "137442723",
+    "137442724",
+    "137442725",
+    "137442726",
+    "137442727"
+   ]
+  }
+ ],
+ "fragments": {
+  "137442680": {
+   "fragment_id": "137509039",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 34/2020\n\nde 9 de julho\n\nSumário: Assegura a execução, na ordem jurídica nacional, do Regulamento (UE) n.º 2016/424, relativo às instalações por cabo.\n\nAs instalações por cabo concebidas, construídas e exploradas tendo em vista o transporte de pessoas são um sistema que permite a partilha deste com outros modos de transporte, o que possibilita a melhoria da mobilidade das populações, designadamente no transporte urbano e no apoio ao turismo, e ao mesmo tempo contribuem para o desenvolvimento do ordenamento do território, para a salvaguarda do meio ambiente.\n\nA Diretiva n.º 2000/9/CE, do Parlamento Europeu e do Conselho, de 20 de março de 2000, relativa às instalações por cabo para transporte de pessoas, que foi transposta para o ordenamento jurídico interno pelo Decreto-Lei n.º 313/2002, de 23 de dezembro, alterado pelo Decreto-Lei n.º 143/2004, de 11 de junho, veio regular estes modos de transporte terrestre que possuem caraterísticas técnicas específicas.\n\nA experiência adquirida revelou a necessidade de alterar algumas das disposições, clarificando e atualizando as condições, de modo a assegurar uma maior segurança jurídica quanto à aplicação e à avaliação da conformidade dos subsistemas, bem como quanto à segurança das instalações por cabo, designadamente quanto às condições do local, à qualidade dos produtos industriais fornecidos e ao modo como são montados, implementados no local e controlados durante a exploração.\n\nA fim de garantir que as instalações por cabo e a respetiva infraestrutura, bem como os subsistemas e os componentes de segurança, garantissem um elevado nível de proteção da saúde e segurança das pessoas e dos bens, o Regulamento (UE) n.º 2016/424, do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às instalações por cabo, veio estabelecer regras para a sua conceção e construção, revogando a Diretiva n.º 2000/9/CE, do Parlamento Europeu e do Conselho, de 20 de março.\n\nAssim, o Regulamento (UE) n.º 2016/424, do Parlamento Europeu e do Conselho, de 9 de março de 2016, aplica-se integralmente às novas instalações por cabo, às alterações de instalações por cabo que exijam uma nova autorização e, ainda, abrange os subsistemas e componentes de segurança novos, produzidos por um fabricante estabelecido na União Europeia, ou os subsistemas e componentes de segurança, novos ou em segunda mão, importados de um país terceiro. Aplica-se tanto para o transporte como para as atividades de lazer.\n\nO referido Regulamento não se aplica à relocalização de instalações por cabo implantadas no território da União Europeia ou à relocalização de subsistemas ou componentes de segurança que foram incorporados nessas instalações, exceto se a relocalização implicar uma modificação importante da instalação por cabo.\n\nO Regulamento determina que são os Estados-Membros que devem estabelecer no seu território nacional o regime sancionatório aplicável às violações cometidas pelos operadores económicos às regras e condições fixadas no mesmo ou no direito nacional, bem como o estabelecimento de regras específicas para a conceção, construção, entrada em serviço, exploração e fiscalização técnica destas instalações.\n\nDeste modo, o presente decreto-lei institui um regime sancionatório, através da aplicação do direito de mera ordenação social ou de sanções administrativas, quer como sanção principal, como seja o instituto da suspensão ou revogação da autorização, ou ainda, quando se justifique, a aplicação simultânea com a coima de uma sanção acessória, procurando que o regime seja equilibrado e promova a qualidade da prestação do serviço em segurança e o controlo da fraude.\n\nPara além do regime sancionatório é também necessário identificar as entidades responsáveis pela execução do Regulamento, sendo atribuído ao Instituto da Mobilidade e dos Transportes, I. P., a competência para autorizar e acompanhar as instalações de transporte por cabo. O Instituto Português da Qualidade, I. P., é a autoridade nacional notificadora, que irá proceder à notificação dos organismos de avaliação da conformidade, os quais devem ser previamente acreditados pelo Instituto Português de Acreditação, I. P., enquanto organismo nacional de acreditação.\n\nÀ Autoridade Tributária e Aduaneira, no âmbito das suas competências, incumbe-lhe efetuar o controlo na fronteira externa dos componentes de segurança para a construção e instalação por cabo e, por último, a entidade responsável pela fiscalização do mercado é a Autoridade de Segurança Alimentar e Económica.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "137442681": {
+   "fragment_id": "137509040",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "137442682": {
+   "fragment_id": "137509041",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente decreto-lei assegura a execução na ordem jurídica interna do Regulamento (UE) n.º 2016/424, do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às instalações por cabo, que revoga a Diretiva n.º 2000/9/CE, do Parlamento Europeu e do Conselho, de 20 de março, adiante designado por Regulamento.\n\n2 - Para concretização do disposto no número anterior, o presente decreto-lei procede:\n\na) À definição do regime aplicável à construção, modificação, colocação em serviço, exploração e fiscalização das instalações por cabo para o transporte de pessoas;\n\nb) À definição de um regime adaptado aplicável às instalações por cabo classificadas de interesse histórico, cultural ou patrimonial, que tenham entrado em serviço antes de 1 de janeiro de 1986;\n\nc) À identificação das autoridades nacionais responsáveis pela notificação, avaliação e controlo dos organismos de avaliação da conformidade e pela fiscalização do mercado; e\n\nd) À definição do regime sancionatório aplicável ao incumprimento das regras aplicáveis às instalações por cabo, à conceção, à construção, à entrada em serviço e exploração das novas instalações por cabo de pessoas, bem como às violações cometidas pelos operadores económicos previstas no Regulamento e no presente decreto-lei."
+  },
+  "137442683": {
+   "fragment_id": "137509042",
+   "type": 1,
+   "heading": "Capítulo II — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Instalações"
+  },
+  "137442684": {
+   "fragment_id": "137509043",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "137442685": {
+   "fragment_id": "137509044",
+   "type": 11,
+   "heading": "Artigo 2.º — Autorização das instalações por cabo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autorização das instalações por cabo\n\nPara efeitos do disposto no artigo 9.º do Regulamento, o Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), estabelece o processo de autorização para a construção e entrada em serviço das instalações por cabo em território nacional."
+  },
+  "137442686": {
+   "fragment_id": "137509045",
+   "type": 11,
+   "heading": "Artigo 3.º — Construção e alterações das instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Construção e alterações das instalações\n\n1 - A construção de instalações e as alterações que impliquem modificações de conceção ou de construção significativas têm de ser previamente autorizadas pelo IMT, I. P.\n\n2 - A autorização referida no número anterior está dependente de que os projetos respeitem os requisitos essenciais e as regras definidas no Regulamento, bem como os requisitos definidos no presente decreto-lei.\n\n3 - O dono da obra, ou o seu mandatário, deve apresentar ao IMT, I. P., para além dos elementos exigidos no n.º 2 do artigo 9.º do Regulamento, os seguintes documentos:\n\na) Projeto de construção ou de alteração da instalação;\n\nb) Um plano de ensaios que permita comprovar a conformidade das instalações com o projeto e, bem assim, assegurar que a sua exploração, uma vez colocada em serviço, respeita todos os requisitos essenciais.\n\n4 - A verificação da conformidade do projeto com os requisitos essenciais, bem como a análise de segurança, para a fase de conceção, é realizada por organismo independente, escolhido pelo dono da obra, ou pelo seu mandatário, e aceite, para esse efeito, pelo IMT, I. P.\n\n5 - A autorização do IMT, I. P., não prejudica a necessidade de obtenção das demais autorizações ou aprovações que sejam exigidas por outras disposições legais ou regulamentares.\n\n6 - O IMT, I. P., decide sobre o pedido de autorização em prazo não superior a 90 dias a contar da receção da última informação ou de documentação complementar enviada pela empresa requerente.\n\n7 - Para efeitos do presente decreto-lei, consideram-se alterações que impliquem modificações de conceção ou de construção significativas todas aquelas que possam afetar materialmente a aptidão, capacidade ou segurança das instalações."
+  },
+  "137442687": {
+   "fragment_id": "137509046",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em serviço\n\n1 - A entrada em serviço de novas instalações ou de instalações que tenham efetuado modificações de conceção ou construção significativas tem de ser previamente autorizada pelo IMT, I. P.\n\n2 - O dono da obra, ou o seu mandatário, deve apresentar ao IMT, I. P.:\n\na) Análise de segurança para a fase de entrada em serviço e relatório de segurança, de acordo com o exigido no artigo 8.º do Regulamento;\n\nb) Declaração do dono da obra atestando que a mesma se encontra terminada, de acordo com o projeto, e que reúne condições para entrar em serviço com segurança;\n\nc) Documentos que demonstrem a conformidade da instalação com os requisitos essenciais do Regulamento;\n\nd) Dossier técnico contendo o relatório final dos ensaios e verificações realizadas;\n\ne) Declarações UE de conformidade e outros documentos relativos à conformidade dos subsistemas e componentes de segurança, caso não tenham sido enviados ao abrigo do artigo anterior;\n\nf) Documentos que demonstrem o preenchimento dos requisitos de capacidade técnica e de cobertura da responsabilidade civil.\n\n3 - A análise de segurança e a verificação da conformidade do projeto de construção ou modificação com os requisitos essenciais é realizada por organismo independente escolhido pelo dono da obra, ou pelo seu mandatário, e aceite, para esse efeito, pelo IMT, I. P.\n\n4 - A autorização de entrada em serviço é emitida após a instrução do processo e vistoria do IMT, I. P.\n\n5 - O IMT, I. P., decide sobre o pedido de autorização, em prazo não superior a 90 dias a contar da receção da última informação ou de documentação complementar enviada pela empresa requerente."
+  },
+  "137442688": {
+   "fragment_id": "137509047",
+   "type": 11,
+   "heading": "Artigo 5.º — Declaração de conformidade da instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Declaração de conformidade da instalação\n\n1 - Nos casos em que a instalação esteja concluída sem que seja conhecida a entidade que vai proceder à sua exploração, o IMT, I. P., pode, a pedido do dono da obra ou do seu mandatário, emitir declaração de conformidade da instalação.\n\n2 - Para efeitos do número anterior, a verificação da conformidade com os requisitos essenciais é feita por um organismo independente escolhido pelo dono da obra, ou pelo seu mandatário, e aceite, para esse efeito, pelo IMT, I. P.\n\n3 - A declaração de conformidade deve ser emitida em prazo não superior a 60 dias a contar da receção da última informação ou de documentação complementar enviada pela empresa requerente.\n\n4 - A declaração de conformidade da instalação não prejudica a necessidade da autorização de entrada em serviço das instalações, aplicando-se à entidade que vai proceder à sua exploração o disposto no artigo anterior."
+  },
+  "137442689": {
+   "fragment_id": "137509048",
+   "type": 8,
+   "heading": "Secção II — Instalações classificadas como de interesse histórico, cultural ou patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Instalações classificadas como de interesse histórico, cultural ou patrimonial"
+  },
+  "137442690": {
+   "fragment_id": "137509049",
+   "type": 11,
+   "heading": "Artigo 6.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Definição\n\nPara efeitos do presente decreto-lei entende-se por instalações por cabo classificadas como instalações de interesse histórico, cultural ou patrimonial as previstas no Decreto-Lei n.º 309/2009, de 23 de outubro, na sua redação atual, que tenham entrado em serviço antes de 1 de janeiro de 1986, ainda estejam em funcionamento e não tenham sofrido alterações de conceção ou de construção significativas, inclusive nos subsistemas e nos componentes de segurança especificamente concebidos para elas."
+  },
+  "137442691": {
+   "fragment_id": "137509050",
+   "type": 11,
+   "heading": "Artigo 7.º — Alterações de instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alterações de instalações\n\n1 - Dependem de autorização prévia do IMT, I. P., as alterações significativas que impliquem modificações de conceção ou de construção das instalações, incluindo os subsistemas e componentes de segurança das instalações especialmente concebidos para elas, estando ainda sujeitas ao disposto no artigo 3.º, com as devidas adaptações.\n\n2 - A entrada em serviço das alterações previstas no número anterior tem de ser previamente autorizada pelo IMT, I. P.\n\n3 - Para efeitos do número anterior, o dono da obra, ou o seu mandatário, deve apresentar ao IMT, I. P., os documentos referidos nas alíneas a) a e) do n.º 2 do artigo 4.º, com as devidas adaptações.\n\n4 - Dadas as especificidades técnicas destas instalações, as alterações não significativas de subsistemas e componentes de segurança estão dispensadas de apresentação de declarações UE de conformidade, bem como de marcação CE de conformidade.\n\n5 - Em situações devidamente justificadas, as alterações significativas de subsistemas e componentes de segurança destas instalações podem ser dispensadas de apresentação de declarações UE de conformidade, bem como de marcação CE de conformidade."
+  },
+  "137442692": {
+   "fragment_id": "137509051",
+   "type": 8,
+   "heading": "Secção III — Exploração das instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Exploração das instalações"
+  },
+  "137442693": {
+   "fragment_id": "137509052",
+   "type": 11,
+   "heading": "Artigo 8.º — Capacidade técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Capacidade técnica\n\n1 - O requisito da capacidade técnica considera-se preenchido desde que a entidade que vai proceder à exploração das instalações por cabo para o transporte de pessoas disponha de:\n\na) Um responsável técnico que assegure um controlo seguro e eficaz da exploração das instalações;\n\nb) Serviços adequados de condução nos postos de comando, de vigilância e de manutenção das instalações;\n\nc) Um sistema de manutenção que garanta a segurança da exploração;\n\nd) Um sistema de gestão da segurança apto a assegurar a segurança da operação de transporte em condições de exploração normais e excecionais.\n\n2 - O responsável técnico pela exploração, mencionado na alínea a), bem como os serviços referidos na alínea b) do número anterior, podem ser objeto de subcontratação, desde que sejam aceites, para esse efeito, pelo IMT, I. P.\n\n3 - A minuta do contrato de subcontratação a subscrever deve ser apresentada ao IMT, I. P., para verificação, nomeadamente, de que:\n\na) Os trabalhadores subcontratados para uma dada atividade cumprem todos os requisitos legalmente exigíveis;\n\nb) Os trabalhadores subcontratados para uma dada atividade não podem ser livremente substituídos pela entidade subcontratada;\n\nc) O poder de direção dos trabalhadores subcontratados é funcionalmente delegado na entidade que vai proceder à exploração das instalações por cabo para o transporte de pessoas."
+  },
+  "137442694": {
+   "fragment_id": "137509053",
+   "type": 11,
+   "heading": "Artigo 9.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Seguro de responsabilidade civil\n\nAs entidades que exploram instalações por cabo para o transporte de pessoas devem subscrever um seguro de responsabilidade civil que cubra os riscos decorrentes das instalações e da sua atividade."
+  },
+  "137442695": {
+   "fragment_id": "137509054",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento das instalações por cabo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionamento das instalações por cabo\n\n1 - As entidades que exploram as instalações por cabo para o transporte de pessoas devem cumprir as condições estabelecidas no relatório de segurança e manter preenchidos os requisitos de capacidade técnica e de cobertura da responsabilidade civil.\n\n2 - O cumprimento das condições e o preenchimento dos requisitos referidos no número anterior devem ser verificados pelo IMT, I. P., de três em três anos, após inspeção da instalação, para a emissão da autorização de continuação em serviço.\n\n3 - As entidades que procedem à exploração das instalações devem remeter ao IMT, I. P., para efeitos do número anterior, um relatório intercalar de segurança, que deve conter os níveis de desempenho das instalações em matéria de segurança no período a que respeitam, acompanhado dos elementos necessários à comprovação do preenchimento dos requisitos de capacidade técnica e de cobertura da responsabilidade civil.\n\n4 - Caso o IMT, I. P., constate, no decurso do processo de verificação do cumprimento dos requisitos ou pelo relatório de ação de fiscalização, que as condições estabelecidas no relatório de segurança não estão a ser cumpridas ou que não se mantêm preenchidos os requisitos de capacidade técnica e ou de cobertura da responsabilidade civil, determina a suspensão da exploração da instalação até que se mostrem restabelecidas as condições ou preenchidos os requisitos em falta, que não podem exceder o prazo de seis meses, sob pena de revogação da autorização.\n\n5 - Sem prejuízo do referido no n.º 3, o IMT, I. P., pode realizar ações de supervisão das instalações a todo o momento.\n\n6 - Devem ser mantidas cópias, nas instalações por cabo, dos relatórios de segurança, da declaração de conformidade das instalações, das declarações UE de conformidade, da documentação técnica relativa aos componentes de segurança e aos subsistemas referidos no anexo i ao Regulamento e da documentação relativa a eventuais restrições de utilização."
+  },
+  "137442696": {
+   "fragment_id": "137509055",
+   "type": 11,
+   "heading": "Artigo 11.º — Mudança das entidades que procedem à exploração das instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Mudança das entidades que procedem à exploração das instalações\n\n1 - A exploração das instalações por cabo para o transporte de pessoas por entidades diferentes das que procediam à sua exploração aquando da respetiva entrada em serviço só pode fazer-se depois de verificado, pelo IMT, I. P., que essas entidades preenchem os requisitos de capacidade técnica e de cobertura da responsabilidade civil.\n\n2 - O IMT, I. P., decide sobre o pedido de autorização, em prazo não superior a 90 dias a contar da receção da última informação ou de documentação complementar enviada pela empresa requerente."
+  },
+  "137442697": {
+   "fragment_id": "137509056",
+   "type": 11,
+   "heading": "Artigo 12.º — Responsabilidade em matéria de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Responsabilidade em matéria de segurança\n\n1 - As entidades que explorem instalações por cabo são responsáveis perante os utilizadores, os trabalhadores e terceiros pela segurança da exploração e pelo controlo dos riscos associados, incluindo pela contratação de produtos e serviços.\n\n2 - Sem prejuízo do referido no número anterior, o produtor, fornecedor de produtos, detentor, prestador de serviços e entidade adjudicante são responsáveis por garantir que os veículos, instalações, equipamentos e materiais por eles fornecidos, bem como os serviços prestados, estão em conformidade com os requisitos e as condições de utilização indicadas para o seu uso em segurança na exploração do sistema pelas entidades."
+  },
+  "137442698": {
+   "fragment_id": "137509057",
+   "type": 11,
+   "heading": "Artigo 13.º — Conformidade dos componentes de segurança e subsistemas a incorporar nas instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conformidade dos componentes de segurança e subsistemas a incorporar nas instalações\n\n1 - Os subsistemas e componentes de segurança para a instalação por cabo devem estar conformes com as normas harmonizadas ou partes destas, nos termos do previsto no artigo 17.º do Regulamento.\n\n2 - Só podem ser incorporados nas instalações por cabo para o transporte de pessoas os componentes de segurança ou subsistemas fixados no Regulamento."
+  },
+  "137442699": {
+   "fragment_id": "137509058",
+   "type": 11,
+   "heading": "Artigo 14.º — Colocação e disponibilização no mercado e entrada em serviço dos subsistemas e componentes de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Colocação e disponibilização no mercado e entrada em serviço dos subsistemas e componentes de segurança\n\nAs instalações por cabo, nomeadamente os subsistemas e componentes de segurança que as integrem, só devem ser colocados no mercado e entrar em serviço quando se encontrem em conformidade com o previsto no Regulamento e no presente decreto-lei por via da respetiva declaração UE de conformidade, prevista no artigo 19.º do Regulamento, devendo todos os componentes de segurança ser sujeitos a manutenção e utilizados para o fim a que se destinam."
+  },
+  "137442700": {
+   "fragment_id": "137509059",
+   "type": 1,
+   "heading": "Capítulo III — Obrigações dos operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Obrigações dos operadores económicos"
+  },
+  "137442701": {
+   "fragment_id": "137509060",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações dos fabricantes, mandatários, importadores e distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigações dos fabricantes, mandatários, importadores e distribuidores\n\nOs fabricantes, mandatários, importadores e distribuidores devem cumprir o estabelecido no capítulo ii do Regulamento."
+  },
+  "137442702": {
+   "fragment_id": "137509061",
+   "type": 11,
+   "heading": "Artigo 16.º — Medidas de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Medidas de salvaguarda\n\n1 - Caso o IMT, I. P., verifique que um componente de segurança provido de marcação CE de conformidade, colocado no mercado e utilizado de acordo com o fim a que se destina, ou um subsistema que dispõe de declaração UE de conformidade e é utilizado de acordo com o fim a que se destina, pode pôr em risco a segurança e a saúde de pessoas ou a segurança de bens, determina a proibição da sua utilização ou a restrição ao seu campo de aplicação que se mostre necessária.\n\n2 - A decisão referida no número anterior deve especificar, na respetiva fundamentação, se a causa de não conformidade decorre:\n\na) Da não observância dos requisitos essenciais estabelecidos no Regulamento;\n\nb) De uma aplicação incorreta das especificações europeias, na medida em que seja invocada a aplicação dessas especificações;\n\nc) De uma lacuna nas especificações europeias."
+  },
+  "137442703": {
+   "fragment_id": "137509062",
+   "type": 1,
+   "heading": "Capítulo IV — Marcação CE de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Marcação CE de conformidade"
+  },
+  "137442704": {
+   "fragment_id": "137509063",
+   "type": 11,
+   "heading": "Artigo 17.º — Marcação CE de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Marcação CE de conformidade\n\n1 - A marcação CE de conformidade deve cumprir os requisitos estabelecidos no Regulamento.\n\n2 - É proibido apor nos componentes de segurança marcações ou inscrições suscetíveis de induzir terceiros em erro quanto ao significado e ao grafismo da marcação UE de conformidade, podendo ser aposta qualquer outra marcação, desde que não reduza a visibilidade e a legibilidade da marcação CE de conformidade."
+  },
+  "137442705": {
+   "fragment_id": "137509064",
+   "type": 1,
+   "heading": "Capítulo V — Notificação dos organismos de avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Notificação dos organismos de avaliação da conformidade"
+  },
+  "137442706": {
+   "fragment_id": "137509065",
+   "type": 11,
+   "heading": "Artigo 18.º — Autoridade notificadora e notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Autoridade notificadora e notificação\n\n1 - O Instituto Português da Qualidade, I. P. (IPQ, I. P.), é, para os efeitos previstos no Regulamento, a autoridade notificadora.\n\n2 - Ao IPQ, I. P., compete notificar a Comissão Europeia dos organismos responsáveis pela realização da avaliação da conformidade.\n\n3 - O IPQ, I. P., deve informar a Comissão Europeia dos respetivos procedimentos de notificação dos organismos de avaliação da conformidade e de qualquer alteração nessa matéria, nos termos previstos no Regulamento.\n\n4 - Os procedimentos de notificação, designadamente o início das atividades pelos organismos, devem cumprir os termos dispostos no Regulamento.\n\n5 - Sempre que seja informado pelo Instituto Português de Acreditação, I. P. (IPAC, I. P.), de que um organismo notificado deixou de cumprir os requisitos estabelecidos no Regulamento, ou não cumpre as suas obrigações, o IPQ, I. P., deve restringir, suspender ou retirar a notificação, consoante o caso, e deve informar imediatamente a Comissão Europeia e os outros Estados-Membros desse facto, conforme disposto no Regulamento.\n\n6 - Em caso de restrição, suspensão ou retirada de uma notificação, ou quando o organismo notificado tenha cessado a atividade, o IPQ, I. P., toma as medidas necessárias para que os processos do organismo sejam tratados por outro organismo notificado."
+  },
+  "137442707": {
+   "fragment_id": "137509066",
+   "type": 11,
+   "heading": "Artigo 19.º — Acreditação dos organismos de avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acreditação dos organismos de avaliação da conformidade\n\n1 - Compete ao IPAC, I. P., enquanto organismo nacional de acreditação, nos termos do n.º 1 do artigo 2.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, e dos n.os 1 e 2 do artigo 3.º do Decreto-Lei n.º 81/2012, de 27 de março, a avaliação e o controlo dos organismos de avaliação da conformidade.\n\n2 - Para efeitos de notificação, os organismos de avaliação da conformidade devem ser previamente acreditados pelo IPAC, I. P., para as atividades de avaliação da conformidade que pretendem executar, bem como satisfazer os requisitos previstos no Regulamento.\n\n3 - Os organismos notificados que subcontratem tarefas específicas relacionadas com a avaliação da conformidade, ou que recorram a filiais, asseguram que a subcontratada ou filial cumpre os requisitos estabelecidos no Regulamento e informam a autoridade notificadora e o IPAC, I. P."
+  },
+  "137442708": {
+   "fragment_id": "137509067",
+   "type": 1,
+   "heading": "Capítulo VI — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Fiscalização e regime sancionatório"
+  },
+  "137442709": {
+   "fragment_id": "137509068",
+   "type": 11,
+   "heading": "Artigo 20.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Fiscalização\n\n1 - A fiscalização do cumprimento das disposições constantes do presente decreto-lei compete ao IMT, I. P.\n\n2 - A fiscalização do mercado e controlo das fronteiras rege-se pelo disposto no Decreto-Lei n.º 23/2011, de 11 de fevereiro, e compete, nos termos do disposto nos artigos 21.º e 22.º do presente decreto-lei, à Autoridade de Segurança Alimentar e Económica (ASAE) e à Autoridade Tributária e Aduaneira (AT)."
+  },
+  "137442710": {
+   "fragment_id": "137509069",
+   "type": 11,
+   "heading": "Artigo 21.º — Fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fiscalização do mercado\n\n1 - Sem prejuízo das competências atribuídas por lei a outras entidades, compete à ASAE, enquanto autoridade de fiscalização competente ao nível do mercado interno, a fiscalização da colocação no mercado dos subsistemas e dos componentes de segurança.\n\n2 - A ASAE pode solicitar o auxílio de quaisquer entidades sempre que o julgue necessário para o exercício das suas funções."
+  },
+  "137442711": {
+   "fragment_id": "137509070",
+   "type": 11,
+   "heading": "Artigo 22.º — Controlo na fronteira externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo na fronteira externa\n\nCompete à AT, nos termos do artigo 5.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, efetuar o controlo na fronteira externa dos subsistemas e dos componentes de segurança para as instalações por cabo provenientes de países terceiros abrangidos pelo presente decreto-lei e pelo Regulamento."
+  },
+  "137442712": {
+   "fragment_id": "137509071",
+   "type": 11,
+   "heading": "Artigo 23.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Contraordenações\n\n1 - Constituem contraordenação, punível com coima no valor de (euro) 250 a (euro) 3500, caso se trate de pessoa singular, e de (euro) 2500 a (euro) 40 000, caso se trate de pessoa coletiva, as seguintes infrações:\n\na) A construção de instalações e as alterações que impliquem modificações de conceção ou de construção significativas sem a autorização prevista no n.º 1 do artigo 3.º;\n\nb) A entrada em serviço de novas instalações ou de instalações que tenham efetuado modificações de conceção ou construção significativas sem a autorização prevista no n.º 1 do artigo 4.º;\n\nc) A violação do disposto no n.º 1 do artigo 7.º;\n\nd) A entrada em serviço de alterações em violação do disposto no n.º 2 do artigo 7.º;\n\ne) A violação de qualquer dos requisitos previstos no n.º 1 do artigo 8.º;\n\nf) A falta do seguro de responsabilidade civil previsto no artigo 9.º;\n\ng) A violação da exploração de instalações por cabo por entidades não autorizadas nos termos do disposto nos n.os 1 e 3 do artigo 10.º;\n\nh) A violação do disposto no n.º 6 do artigo 10.º;\n\ni) A violação do disposto no n.º 1 do artigo 11.º;\n\nj) A violação do disposto no artigo 13.º;\n\nk) A violação do disposto no artigo 14.º;\n\nl) A violação, pelo fabricante, pelos mandatários, pelos importadores ou pelos distribuidores, do disposto no artigo 15.º\n\n2 - Constitui contraordenação, punível com coima no valor de (euro) 1000 a (euro) 3740, caso se trate de pessoa singular, e de (euro) 2500 a (euro) 44 890, caso se trate de pessoa coletiva, a infração das regras e condições de aposição da marca CE, previstas no artigo 17.º, e de outras marcações previstas no n.º 2 do mesmo artigo.\n\n3 - A negligência é punível, sendo nesse caso os limites mínimo e máximo da coima aplicável reduzidos a metade.\n\n4 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "137442713": {
+   "fragment_id": "137509072",
+   "type": 11,
+   "heading": "Artigo 24.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sanções acessórias\n\nSem prejuízo da responsabilidade civil e criminal a que haja lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no regime jurídico do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual."
+  },
+  "137442714": {
+   "fragment_id": "137509073",
+   "type": 11,
+   "heading": "Artigo 25.º — Instrução e decisão dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Instrução e decisão dos processos\n\n1 - Compete ao IMT, I. P., à ASAE e à AT, no âmbito do regime contraordenacional aplicável ao exercício das suas competências, a instrução dos processos de contraordenação instaurados no âmbito do presente decreto-lei.\n\n2 - A aplicação das coimas e sanções acessórias compete ao conselho diretivo do IMT, I. P., ao inspetor-geral da ASAE e à AT, consoante o caso."
+  },
+  "137442715": {
+   "fragment_id": "137509074",
+   "type": 11,
+   "heading": "Artigo 26.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Medidas cautelares\n\nAs entidades responsáveis pela fiscalização do disposto no presente decreto-lei e no Regulamento podem determinar a aplicação de medidas cautelares, no âmbito do regime contraordenacional aplicável ao exercício das suas competências."
+  },
+  "137442716": {
+   "fragment_id": "137571375",
+   "type": 11,
+   "heading": "Artigo 27.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 10 % para a entidade que levanta o auto;\n\nb) 30 % para a entidade competente para a aplicação da coima;\n\nc) 60 % para o Estado."
+  },
+  "137442717": {
+   "fragment_id": "137571376",
+   "type": 11,
+   "heading": "Artigo 28.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Direito subsidiário\n\nÀs contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime jurídico do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual"
+  },
+  "137442718": {
+   "fragment_id": "137571377",
+   "type": 11,
+   "heading": "Artigo 29.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Taxas\n\nSão devidas taxas pela prática de atos realizados pelo IMT, I. P., previstos no presente decreto-lei, de acordo com a tabela fixada no anexo ao mesmo e do qual faz parte integrante."
+  },
+  "137442719": {
+   "fragment_id": "137571378",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "137442720": {
+   "fragment_id": "137571379",
+   "type": 11,
+   "heading": "Artigo 30.º — Acompanhamento e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Acompanhamento e coordenação\n\nCompete ao IMT, I. P., proceder ao acompanhamento e coordenação global da aplicação do presente decreto-lei e do Regulamento, exercendo, designadamente, as seguintes competências:\n\na) Representar o Estado Português nos trabalhos do Comité das Instalações por Cabo, nos termos do Regulamento (UE) n.º 182/2011, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011;\n\nb) Cooperar com a ASAE no exercício das respetivas competências, sempre que solicitado;\n\nc) Acompanhar, em coordenação com o IPQ, I. P., e com o IPAC, I. P., a atividade dos organismos notificados;\n\nd) Recolher dados e informações relativos à aplicação do presente decreto-lei, bem como do Regulamento, junto das autoridades de fiscalização do mercado e do controlo das fronteiras, assim como da autoridade notificadora e de acreditação."
+  },
+  "137442721": {
+   "fragment_id": "137571380",
+   "type": 11,
+   "heading": "Artigo 31.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regiões autónomas\n\n1 - Os atos e os procedimentos necessários à execução do presente decreto-lei, bem como do Regulamento, nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - O produto resultante da aplicação das respetivas coimas pelas regiões autónomas constitui receita própria das mesmas."
+  },
+  "137442722": {
+   "fragment_id": "137571381",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regime aplicável\n\nO Regulamento n.º 227/2012, de 24 de maio, publicado no Diário da República, 2.ª série, de 18 de junho de 2012, relativo à concessão e aos processos de autorização de construção e entrada em serviço de instalações por cabo para o transporte de pessoas mantém-se em vigor, com as necessárias adaptações ao previsto no presente decreto-lei e no Regulamento."
+  },
+  "137442723": {
+   "fragment_id": "137571382",
+   "type": 11,
+   "heading": "Artigo 33.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Norma transitória\n\nConsideram-se conformes com o Regulamento todas as instalações por cabo, designadamente os subsistemas e componentes de segurança instalados antes de 21 de abril de 2018, até ao termo de validade da sua autorização, mas que não tenham sido objeto de qualquer alteração."
+  },
+  "137442724": {
+   "fragment_id": "137571383",
+   "type": 11,
+   "heading": "Artigo 34.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 313/2002, de 23 de dezembro, na sua redação atual."
+  },
+  "137442725": {
+   "fragment_id": "137571384",
+   "type": 11,
+   "heading": "Artigo 35.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "137442727": {
+   "fragment_id": "137571386",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 29.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 29.º)\n\nTabela de taxas\n\n(ver documento original)\n\n113377631"
+  },
+  "157266024": {
+   "fragment_id": "137509071",
+   "type": 11,
+   "heading": "Artigo 23.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 23.º — Contraordenações\n\n1 - Constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), as seguintes infrações:\n\na) A construção de instalações e as alterações que impliquem modificações de conceção ou de construção significativas sem a autorização prevista no n.º 1 do artigo 3.º;\n\nb) A entrada em serviço de novas instalações ou de instalações que tenham efetuado modificações de conceção ou construção significativas sem a autorização prevista no n.º 1 do artigo 4.º;\n\nc) A violação do disposto no n.º 1 do artigo 7.º;\n\nd) A entrada em serviço de alterações em violação do disposto no n.º 2 do artigo 7.º;\n\ne) A violação de qualquer dos requisitos previstos no n.º 1 do artigo 8.º;\n\nf) A falta do seguro de responsabilidade civil previsto no artigo 9.º;\n\ng) A violação da exploração de instalações por cabo por entidades não autorizadas nos termos do disposto nos n.os 1 e 3 do artigo 10.º;\n\nh) A violação do disposto no n.º 6 do artigo 10.º;\n\ni) A violação do disposto no n.º 1 do artigo 11.º;\n\nj) A violação do disposto no artigo 13.º;\n\nk) A violação do disposto no artigo 14.º;\n\nl) A violação, pelo fabricante, pelos mandatários, pelos importadores ou pelos distribuidores, do disposto no artigo 15.º\n\nm) A violação das regras e condições de aposição da marca CE, previstas no artigo 17.º, e de outras marcações previstas no n.º 2 do mesmo artigo.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157266025": {
+   "fragment_id": "137509072",
+   "type": 11,
+   "heading": "Artigo 24.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 24.º — Sanções acessórias\n\nSem prejuízo da responsabilidade civil e criminal a que haja lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157266026": {
+   "fragment_id": "137509074",
+   "type": 11,
+   "heading": "Artigo 26.º — Medidas cautelares",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 26.º — Medidas cautelares\n\nAs entidades responsáveis pela fiscalização do disposto no presente decreto-lei e no Regulamento podem determinar a aplicação de medidas cautelares previstas no RJCE.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157266027": {
+   "fragment_id": "137571375",
+   "type": 11,
+   "heading": "Artigo 27.º — Produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 27.º — Produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157266028": {
+   "fragment_id": "137571376",
+   "type": 11,
+   "heading": "Artigo 28.º — Direito subsidiário",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 28.º — Direito subsidiário\n\nÀs contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "137442726": {
+   "fragment_id": "137571385",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de junho de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 3 de julho de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 6 de julho de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

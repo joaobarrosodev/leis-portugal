@@ -1,0 +1,237 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:998824793:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2026-1000360642",
+ "dre_path": "/dr/detalhe/portaria/12-a-2026-998824793",
+ "source_lastmod": "2026-06-29",
+ "versions": [
+  {
+   "date": "2026-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1139897691:por",
+     "title": "Portaria n.º 277/2026/1",
+     "published": "2026-06-29",
+     "dre_path": "/dr/detalhe/portaria/277-2026-1139897691"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "1000737975",
+    "1000738175",
+    "1000738375",
+    "1000738575",
+    "1000738875",
+    "1000739075",
+    "1000739275",
+    "1000739475",
+    "1000739675",
+    "1000739975",
+    "1000740175",
+    "1000740375",
+    "1000740575",
+    "1000740775",
+    "1000740975",
+    "1000741275",
+    "1000741475",
+    "1000741675",
+    "1000741875",
+    "1000742075",
+    "1140164775",
+    "1000742575",
+    "1000742775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1000737975": {
+   "fragment_id": "1000737875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 37-A/2025, de 24 de março, define o modelo para a atribuição do Subsídio Social de Mobilidade (SSM), aplicável aos serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira, bem como entre estas Regiões.\n\nNos termos do artigo 11.º do referido decreto-lei, compete à Entidade de Tesouro e Finanças (ETF) assegurar os recursos necessários ao pagamento do SSM, da prestação do respetivo serviço de gestão e da prestação dos serviços de desenvolvimento e manutenção da plataforma eletrónica dedicada para o efeito e, ainda, ao pagamento dos custos do mecanismo financeiro.\n\nO referido diploma prevê, também, a criação de uma plataforma eletrónica própria que assegure, designadamente, a tramitação digital dos pedidos de reembolso, a validação da elegibilidade dos beneficiários, a verificação do embarque nas viagens e a emissão dos respetivos pagamentos, garantindo maior transparência, rastreabilidade e eficiência na atribuição e gestão do mencionado subsídio.\n\nA operacionalização da plataforma eletrónica exige a definição clara do modelo de governação por parte da entidade responsável pelo seu desenvolvimento e operação, bem como dos princípios de funcionamento, dos diferentes perfis de acesso, das regras de validação e dos mecanismos de controlo e auditoria.\n\nA presente portaria estabelece, assim, ao abrigo do citado Decreto-Lei n.º 37-A/2025, de 24 de março, esse enquadramento, clarificando o papel da entidade gestora da plataforma, que consiste na prestação do serviço de atribuição do referido subsídio, de gestão da plataforma e respetivo apoio logístico e administrativo, junto das entidades responsáveis pelos processos de pagamento e de fiscalização do SSM.\n\nA plataforma será acessível através do Portal Único de Serviços Digitais - o gov.pt, com autenticação via Autenticação.gov, e integrará os sistemas da Administração Pública e operadores de transporte aderentes.\n\nDado que esta nova plataforma implicará uma mudança da forma de interação com os respetivos beneficiários do SSM, promovendo a total desmaterialização do processo de solicitação deste subsídio, entendeu-se ser necessário definir um período transitório, o qual será implementado através de alteração ao Decreto-Lei n.º 37-A/2025, de 24 de março.\n\nAssim, de modo a garantir a continuidade da prestação do serviço de atribuição do subsídio, prevê-se um período transitório, previsivelmente até ao dia 30 de junho de 2026, durante o qual, a entidade prestadora do serviço de pagamento do subsídio a 31 de dezembro de 2025, continua a prestar apoio presencial, designadamente na utilização da plataforma e na tramitação dos pedidos de subsídio em casos ainda não suportados pela plataforma, nomeadamente os pedidos apresentados por pessoas coletivas e no âmbito do Programa Estudante Insular da Região Autónoma da Madeira.\n\nEm paralelo, com a presente portaria, pretende-se adotar uma metodologia de implementação progressiva de funcionalidades e melhorias, à medida que vão sendo desenvolvidas, para garantir o nível de serviço estabelecido e assegurando, simultaneamente, maior comodidade para os respetivos beneficiários.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira, a Autoridade Nacional da Aviação Civil (ANAC), a Autoridade da Mobilidade e dos Transportes (AMT) e a Comissão Nacional de Proteção de Dados (CNPD), nos termos legais aplicáveis.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 7.º do Decreto-Lei n.º 37-A/2025, de 24 de março, manda o Governo, pelo Ministro de Estado e das Finanças, pelo Ministro Adjunto e da Reforma do Estado e pelo Secretário de Estado das Infraestruturas, o seguinte:"
+  },
+  "1000738175": {
+   "fragment_id": "1000738075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria cria e regulamenta a forma de disponibilização e funcionamento da plataforma eletrónica para a gestão, atribuição e pagamento do Subsídio Social de Mobilidade (doravante, «SSM»), prevista no artigo 7.º do Decreto-Lei n.º 37-A/2025, de 24 de março, estabelecendo os princípios de funcionamento e as competências das entidades intervenientes.\n\n2 - A plataforma, que suporta a prestação do serviço relativo ao SSM, tem como finalidade a digitalização e automatização do processo de atribuição e pagamento do SSM, garantindo maior eficiência, transparência e rastreabilidade."
+  },
+  "1000738375": {
+   "fragment_id": "1000738275",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidade gestora da plataforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidade gestora da plataforma\n\n1 - É designada, como entidade gestora da plataforma que suporta a prestação do serviço relativo ao SSM, a Entidade de Serviços Partilhados da Administração Pública, I. P. (eSPap), ao abrigo do artigo 7.º do Decreto-Lei n.º 37-A/2025, de 24 de março.\n\n2 - Compete à entidade gestora:\n\na) Operar funcionalmente a plataforma;\n\nb) Validar a elegibilidade dos beneficiários;\n\nc) Gerir os pedidos de reembolso, incluindo os pedidos coletivos;\n\nd) Acompanhar a emissão, pela plataforma, de ordens de pagamento e acompanhar os fluxos de estorno;\n\ne) Configurar os parâmetros operacionais da plataforma, tais como limites, deduções, regras de emparelhamento, indicadores de risco, de acordo com o previsto legalmente.\n\n3 - A entidade gestora pode celebrar acordos e protocolos de cooperação com outras entidades para assegurar a prestação integral do serviço SSM.\n\n4 - Compete, ainda, à entidade gestora, assegurar a conformidade com o Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados - RGPD), incluindo:\n\na) Nomear o encarregado de proteção de dados da plataforma;\n\nb) Obter o consentimento explícito por parte do cidadão ou pessoa coletiva, para proceder ao tratamento de dados;\n\nc) Assegurar que os dados pessoais são conservados apenas pelo período necessário às finalidades do tratamento, procedendo-se à anonimização ou eliminação 24 meses após o encerramento do processo, salvo disposição legal em contrário;\n\nd) Assegurar a separação lógica entre dados operacionais e dados históricos para auditoria."
+  },
+  "1000738575": {
+   "fragment_id": "1000738475",
+   "type": 11,
+   "heading": "Artigo 3.º — Desenvolvimento e manutenção da plataforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Desenvolvimento e manutenção da plataforma\n\n1 - A plataforma que suporta a prestação do serviço relativo ao SSM é propriedade da eSPap, sendo os serviços de desenvolvimento e manutenção da plataforma da sua responsabilidade, de acordo com o n.º 3 do artigo 7.º do Decreto-Lei n.º 37-A/2025, de 24 de março.\n\n2 - Os serviços de desenvolvimento e manutenção da plataforma consistem em:\n\na) Desenvolver e manter a infraestrutura tecnológica da plataforma;\n\nb) Assegurar a interoperabilidade com sistemas da Administração Pública e operadores de transporte;\n\nc) Implementar os perfis e permissões definidos pela Entidade Gestora, através da infraestrutura central de gestão de identidades e acessos (IAM);\n\nd) Garantir a segurança, rastreabilidade e conformidade técnica da plataforma;\n\ne) Registar todas as alterações técnicas e parametrizações com data, autor e valor anterior.\n\n3 - Para efeitos da prestação dos serviços referidos no presente artigo e no artigo anterior, a eSPap é remunerada nos termos a fixar por despacho do membro do Governo responsável pela área das finanças."
+  },
+  "1000738875": {
+   "fragment_id": "1000738775",
+   "type": 11,
+   "heading": "Artigo 4.º — Acesso à plataforma e autenticação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acesso à plataforma e autenticação\n\n1 - A plataforma disponibiliza dois pontos de entrada:\n\na) Um acesso dedicado aos beneficiários para submissão e tramitação dos pedidos de subsídio social de mobilidade;\n\nb) Um acesso reservado às demais entidades referidas no artigo seguinte.\n\n2 - A autenticação dos utilizadores é efetuada de acordo com os pontos de entrada:\n\na) O acesso referido na alínea a) do número anterior é realizado exclusivamente através do Portal Único dos Serviços Digitais, o gov.pt, que assegura um ponto único de acesso e de partilha de informação para os cidadãos;\n\nb) O acesso referido na alínea b) do número anterior é realizado através de binómio utilizador/palavra-passe com multifator de autenticação.\n\n3 - Para efeitos da autenticação prevista na alínea a) do número anterior, a autenticação dos beneficiários é efetuada por via da Autenticação.gov, utilizando:\n\na) Cartão de cidadão, incluindo dados de autenticação, com leitor compatível; ou\n\nb) Chave Móvel Digital, associada a um número de telemóvel e código PIN."
+  },
+  "1000739075": {
+   "fragment_id": "1000738975",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades intervenientes\n\nAs Entidades que operam diretamente na plataforma cujo acesso é feito de acordo com o perfil funcional específico e, para efeitos da sua gestão, operação, validação, auditoria, consulta ou utilização da Plataforma são as seguintes:\n\na) A entidade gestora da plataforma;\n\nb) A entidade que assegura os serviços de manutenção e desenvolvimento da plataforma;\n\nc) A Entidade do Tesouro e Finanças (ETF);\n\nd) A Inspeção-Geral de Finanças (IGF);\n\ne) A Autoridade Nacional da Aviação Civil (ANAC); e\n\nf) A Autoridade da Mobilidade e dos Transportes."
+  },
+  "1000739275": {
+   "fragment_id": "1000739175",
+   "type": 11,
+   "heading": "Artigo 6.º — Interoperabilidade de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Interoperabilidade de dados\n\nSão assegurados serviços de interoperabilidade de dados para validação ou execução de operações, através das seguintes entidades:\n\na) Agência para a Reforma Tecnológica do Estado, I. P. (ARTE): através da Autenticação.gov, serviço que disponibiliza uma autenticação forte, utilizado por beneficiários, membros do seu agregado familiar e representantes legais das pessoas coletivas, nos termos do artigo 13.º, e através da Plataforma de Interoperabilidade da Administração Pública (iAP), a qual suporta a integração técnica com serviços da Autoridade Tributária e Aduaneira (AT) e do Instituto da Segurança Social, I. P. (ISS), e recebimentos (emissão de documentos únicos de cobrança - DUC);\n\nb) AT: fornece dados para validação, mediante o consentimento do beneficiário, da residência fiscal, há mais de seis meses face à data de apresentação do pedido, e emite declaração de não dívida a ser submetida pelo beneficiário para esse efeito;\n\nc) ISS: valida a situação contributiva dos Beneficiários;\n\nd) Agência de Gestão de Tesouraria e da Dívida Pública (IGCP, E. P. E.): através da prestação de serviços bancários, garante a execução das ordens de pagamento emitidas pela plataforma, comunica retornos e assegura reconciliação financeira;\n\ne) Companhias aéreas aderentes ao FlightService: as companhias aéreas aderentes ao FlightService comunicam automaticamente à Plataforma a informação sobre o embarque dos passageiros, garantindo transmissão segura, tempestiva e íntegra, em conformidade com a estrutura de dados definida pela entidade gestora."
+  },
+  "1000739475": {
+   "fragment_id": "1000739375",
+   "type": 11,
+   "heading": "Artigo 7.º — Perfis de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Perfis de acesso\n\n1 - Às entidades que necessitam de operar diretamente na plataforma, para efeito de gestão, operação, validação, auditoria, consulta ou utilização desta, são atribuídos perfis funcionais específicos, de acordo com as suas funções operacionais, técnicas ou institucionais.\n\n2 - Os perfis são atribuídos e geridos através do IAM, com base em credenciais institucionais ou autenticação via Autenticação.gov, conforme aplicável, de acordo com a respetiva finalidade.\n\n3 - A atribuição, alteração ou revogação dos perfis é da responsabilidade da Entidade Gestora, sendo todas as ações registadas em histórico de auditoria, indicando a data, o autor e o tipo de operação."
+  },
+  "1000739675": {
+   "fragment_id": "1000739575",
+   "type": 11,
+   "heading": "Artigo 8.º — Canais de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Canais de comunicação\n\n1 - A plataforma disponibiliza canais de comunicação para que os beneficiários, com perfil criado ou que o desejem criar, possam solicitar suporte técnico e operacional à Entidade Gestora, bem como para os operadores e gestores permitindo veicular informação relevante aos beneficiários, relacionada com a utilização da plataforma.\n\n2 - Cada comunicação enviada aos beneficiários através dos canais de comunicação referidos nos números anteriores, deve ser notificada, através de email para os respetivos de endereços de correio eletrónico."
+  },
+  "1000739975": {
+   "fragment_id": "1000739775",
+   "type": 11,
+   "heading": "Artigo 9.º — Parâmetros de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Parâmetros de funcionamento\n\n1 - A definição dos parâmetros de funcionamento da plataforma é da responsabilidade da entidade gestora da mesma, a quem compete assegurar que as regras operacionais e requisitos técnicos estão em conformidade com o regime do SSM, em cada momento.\n\n2 - A entidade responsável pelo desenvolvimento e manutenção assegura a configuração técnica dos parâmetros definidos, de acordo com as melhores práticas, garantido a rastreabilidade das alterações efetuadas."
+  },
+  "1000740175": {
+   "fragment_id": "1000740075",
+   "type": 11,
+   "heading": "Artigo 10.º — Validação da elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Validação da elegibilidade dos beneficiários\n\n1 - A plataforma valida a elegibilidade dos beneficiários, com base em dados obtidos por integração com sistemas da Administração Pública e/ou documentos submetidos pelo próprio beneficiário.\n\n2 - O estado de elegibilidade é considerado válido por um período máximo de seis meses, após a última autenticação com sucesso na plataforma.\n\n3 - A revalidação da elegibilidade pode ser feita automaticamente, com base em dados atualizados das Entidades Externas, ou manualmente, mediante nova análise documental pela Entidade Gestora."
+  },
+  "1000740375": {
+   "fragment_id": "1000740275",
+   "type": 11,
+   "heading": "Artigo 11.º — Agregado familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Agregado familiar\n\n1 - O beneficiário pode associar membros do seu agregado familiar à sua conta na plataforma, desde que os mesmos sejam elegíveis, nos termos do regime do SSM.\n\n2 - A validação dos elementos do agregado familiar é realizada pela Entidade Gestora, com base em documentação submetida pelo beneficiário, nomeadamente:\n\na) Declaração de composição do agregado familiar obtida junto da AT;\n\nb) Documentos comprovativos de dependência, quando aplicável.\n\n3 - Os membros do agregado familiar, que sejam maiores de idade e que utilizem Autenticação.gov, devem autorizar explicitamente a sua inclusão na conta do beneficiário titular."
+  },
+  "1000740575": {
+   "fragment_id": "1000740475",
+   "type": 11,
+   "heading": "Artigo 12.º — Validação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Validação dos pedidos\n\n1 - A plataforma valida, automaticamente, se os pedidos submetidos estão em conformidade com os requisitos previstos no Regime do SSM, designadamente, se estes são submetidos dentro dos prazos previstos ou se cumprem as regras de emparelhamento de voos e de intervalos temporais para escalas marítimas e/ou aéreas.\n\n2 - Sem prejuízo do disposto no número anterior, a Entidade Gestora da Plataforma pode, em situações excecionais e devidamente fundamentadas, autorizar a reabertura de pedidos fora do prazo, quando o atraso seja imputável a erro do sistema ou a motivo de força maior não imputável ao beneficiário.\n\n3 - A plataforma bloqueia, automaticamente, pedidos cujo emparelhamento exceda o limite temporal definido no regime do SSM."
+  },
+  "1000740775": {
+   "fragment_id": "1000740675",
+   "type": 11,
+   "heading": "Artigo 13.º — Pedidos coletivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pedidos coletivos\n\n1 - As pessoas coletivas podem submeter pedidos de reembolso, em nome de passageiros que viajem ao seu serviço ou por sua conta, desde que:\n\na) A fatura da viagem seja emitida em nome da pessoa coletiva e se encontre discriminada por passageiro com todas as componentes do custo elegível (tarifa e taxas);\n\nb) Os passageiros estejam previamente registados e validados na plataforma como beneficiários, ou como membros do agregado familiar de um beneficiário registado e validado;\n\nc) Seja apresentada declaração comprovativa da atribuição de poderes de representação ao respetivo representante legal da pessoa coletiva, devendo este último autenticar-se via Autenticação.gov.\n\n2 - Os pedidos coletivos são iniciados através de pré-registo dos passageiros, com indicação do nome, número de identificação fiscal e consentimento explícito de cada passageiro.\n\n3 - O pagamento de SSM, relativo a pedidos coletivos, é processado apenas após validação da elegibilidade dos passageiros identificados no pedido coletivo e a confirmação de embarque de todos os passageiros identificados no pedido coletivo.\n\n4 - Não é permitida a submissão de pedidos coletivos por intermediários comerciais, tais como agências de viagens, operadores turísticos ou entidades equiparadas, em nome dos seus clientes."
+  },
+  "1000740975": {
+   "fragment_id": "1000740875",
+   "type": 11,
+   "heading": "Artigo 14.º — Verificação de comparência nas viagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Verificação de comparência nas viagens\n\n1 - A validação da comparência de beneficiários nas viagens é obrigatória, para efeitos de pagamento ou devolução do subsídio, sendo assegurada na plataforma através de integração com o serviço técnico FlightService, disponibilizado pelas companhias aéreas aderentes, ou submissão de comprovativos por parte do beneficiário, nos casos em que a companhia aérea não disponibilize dados automaticamente.\n\n2 - Caso os beneficiários solicitem reembolso por viagens em companhias aderentes ao FlightService, o SSM pode ser solicitado imediatamente após a compra da viagem.\n\n3 - A Entidade Gestora divulga, no Portal Único de Serviços Digitais - o gov.pt e noutros locais, que se revelem convenientes, a lista das companhias aéreas que são aderentes ao serviço FlightService, e que por esse motivo permitem o pagamento do SSM após a aquisição e antes da realização da viagem."
+  },
+  "1000741275": {
+   "fragment_id": "1000741075",
+   "type": 11,
+   "heading": "Artigo 15.º — Dever de conservação dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Dever de conservação dos documentos\n\nOs beneficiários devem conservar os documentos submetidos para efeitos de obtenção SSM pelo prazo de dois anos, em formato físico ou digital."
+  },
+  "1000741475": {
+   "fragment_id": "1000741375",
+   "type": 11,
+   "heading": "Artigo 16.º — Localização e segurança dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Localização e segurança dos dados\n\n1 - Os dados tratados pela plataforma são armazenados em conformidade com o RGPD.\n\n2 - A plataforma assegura mecanismos de segurança aplicáveis a todos os perfis e entidades internas, em conformidade dos mecanismos de segurança com as normas da Administração Pública e com as recomendações da Comissão Nacional de Proteção de Dados."
+  },
+  "1000741675": {
+   "fragment_id": "1000741575",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamento do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pagamento do subsídio\n\n1 - O pagamento do SSM é instruído pela plataforma, após validação do pedido pela Entidade Gestora, com base na elegibilidade confirmada.\n\n2 - A execução financeira é realizada através de conta previamente provisionada, pela ETF, junto do IGCP, mediante integração técnica com o módulo de pagamentos da plataforma.\n\n3 - Deve ser assegurado o pagamento célere do SSM, salvo quando sejam solicitados esclarecimentos ou documentação adicional."
+  },
+  "1000741875": {
+   "fragment_id": "1000741775",
+   "type": 11,
+   "heading": "Artigo 18.º — Devoluções e estornos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Devoluções e estornos\n\n1 - Sempre que à data da realização da viagem o passageiro não reúna os requisitos de elegibilidade ou se verifique a não comparência do beneficiário na viagem para a qual foi atribuído o subsídio, o valor pago adiantadamente é objeto de estorno.\n\n2 - A plataforma identifica automaticamente situações de não comparência, com base na informação recebida das companhias aéreas aderentes ao serviço FlightService ou por ausência de comprovativos válidos submetidos pelo beneficiário, quando exigidos.\n\n3 - O beneficiário é notificado da situação de estorno, dispondo de um prazo de 10 dias úteis para exercer o seu direito de audiência prévia, podendo apresentar justificação ou comprovativo de embarque.\n\n4 - A decisão sobre a manutenção ou cancelamento do estorno é da responsabilidade da Entidade Gestora, com base na análise da documentação apresentada.\n\n5 - Caso não seja apresentada justificação válida ou esta seja rejeitada, o sistema emite automaticamente um DUC, para regularização do valor a devolver, no prazo de 30 dias úteis a contar da notificação referida no n.º 3, nos termos definidos pela Entidade Gestora.\n\n6 - A plataforma suspende o pagamento de novos pedidos de SSM a beneficiários que tenham valores a regularizar nos termos definidos no número anterior."
+  },
+  "1000742075": {
+   "fragment_id": "1000741975",
+   "type": 11,
+   "heading": "Artigo 19.º — Funcionalidades disponíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Funcionalidades disponíveis\n\n1 - A plataforma permite, inicialmente, o registo e a autenticação de beneficiários e dependentes, bem como a submissão de pedidos em ambiente controlado.\n\n2 - A plataforma é desenvolvida de forma faseada, podendo a entidade responsável pelo desenvolvimento e manutenção da mesma acrescentar novas funcionalidades, melhorias e evoluções, desde que respeitem o enquadramento legal aplicável.\n\n3 - A Entidade Gestora divulga, no Portal Único de Serviços Digitais - o gov.pt e noutros locais, que se revelem convenientes, as funcionalidades disponíveis na plataforma em cada momento e a informação referida no n.º 3 do artigo 14.º"
+  },
+  "1140164775": {
+   "fragment_id": "1000742175",
+   "type": 11,
+   "heading": "Artigo 20.º — Período transitório",
+   "in_force_from": "2026-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 277/2026/1 - Diário da República n.º 123/2026, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/277-2026-1139897691), em vigor a partir de 2026-06-30."
+   ],
+   "markdown": "###### Artigo 20.º — Período transitório\n\n1 - Sem prejuízo do disposto no n.º 1 do artigo 2.º, até ao dia 30 de junho de 2027, o apoio presencial ao serviço de pagamento do subsídio é exclusivamente assegurado pela entidade prestadora responsável a 31 de dezembro de 2025, designadamente na utilização da plataforma e na tramitação dos pedidos de subsídio em casos ainda não suportados pela plataforma, nomeadamente os pedidos apresentados por pessoas coletivas e no âmbito do Programa Estudante Insular da Região Autónoma da Madeira.\n\n2 - Até 30 de junho de 2027, são criadas as condições para a assunção do apoio referido no número anterior pela eSPap, entidade gestora da Plataforma.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 277/2026/1 - Diário da República n.º 123/2026, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/277-2026-1139897691), em vigor a partir de 2026-06-30."
+  },
+  "1000742575": {
+   "fragment_id": "1000742475",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação, sem prejuízo de a data de entrada em funcionamento da plataforma eletrónica ser divulgada no Portal Único de Serviços Digitais - o gov.pt e noutros locais que se revelem convenientes."
+  },
+  "1000742775": {
+   "fragment_id": "1000742675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 6 de janeiro de 2026.\n\nO Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - O Ministro Adjunto e da Reforma do Estado, Gonçalo Nuno da Cruz Saraiva Matias. - O Secretário de Estado das Infraestruturas, Hugo Morato Alface do Espírito Santo."
+  }
+ }
+}

@@ -1,0 +1,534 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:278178:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-107771074",
+ "dre_path": "/dr/detalhe/portaria/102-2011-278178",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-03-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107773278",
+    "107773279",
+    "107773280",
+    "107773281",
+    "107773282",
+    "107773283",
+    "107773284",
+    "107773285",
+    "107773286",
+    "107773287",
+    "107773288",
+    "107773289",
+    "107773290",
+    "107773291",
+    "107773292",
+    "107773293",
+    "107773294",
+    "107773295",
+    "107773296",
+    "107773297",
+    "107773298",
+    "107773299",
+    "107773300",
+    "107773301",
+    "107773302",
+    "107773303"
+   ]
+  },
+  {
+   "date": "2013-03-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:259402:por",
+     "title": "Portaria n.º 115/2013",
+     "published": "2013-03-22",
+     "dre_path": "/dr/detalhe/portaria/115-2013-259402"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "107773278",
+    "107773279",
+    "107773280",
+    "107773281",
+    "107773282",
+    "107773283",
+    "172902984",
+    "107773285",
+    "107773286",
+    "172902985",
+    "107773288",
+    "107773289",
+    "172902986",
+    "107773291",
+    "107773292",
+    "107773293",
+    "107773294",
+    "172902987",
+    "172902988",
+    "107773297",
+    "107773298",
+    "107773299",
+    "172902989",
+    "107773301",
+    "107773302",
+    "107773303"
+   ]
+  },
+  {
+   "date": "2014-01-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571049:por",
+     "title": "Portaria n.º 15/2014",
+     "published": "2014-01-23",
+     "dre_path": "/dr/detalhe/portaria/15-2014-571049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "107773278",
+    "107773279",
+    "107773280",
+    "107773281",
+    "107773282",
+    "107773283",
+    "172902984",
+    "107773285",
+    "107773286",
+    "172902985",
+    "107773288",
+    "107773289",
+    "172902986",
+    "107773291",
+    "107773292",
+    "107773293",
+    "107773294",
+    "172902987",
+    "172902990",
+    "107773297",
+    "107773298",
+    "107773299",
+    "172902989",
+    "107773301",
+    "107773302",
+    "107773303"
+   ]
+  },
+  {
+   "date": "2017-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107761912:por",
+     "title": "Portaria n.º 232/2017",
+     "published": "2017-07-27",
+     "dre_path": "/dr/detalhe/portaria/232-2017-107761912"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "107773278",
+    "107773279",
+    "107773280",
+    "107773281",
+    "107773282",
+    "107773283",
+    "172902984",
+    "107773285",
+    "107773286",
+    "172902985",
+    "107773288",
+    "107773289",
+    "172902986",
+    "107773291",
+    "107773292",
+    "107773293",
+    "107773294",
+    "172902987",
+    "172902991",
+    "107773297",
+    "107773298",
+    "107773299",
+    "172902989",
+    "107773301",
+    "107773302",
+    "107773303"
+   ]
+  },
+  {
+   "date": "2021-10-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172878296:por",
+     "title": "Portaria n.º 207/2021",
+     "published": "2021-10-15",
+     "dre_path": "/dr/detalhe/portaria/207-2021-172878296"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "107773278",
+    "107773279",
+    "107773280",
+    "107773281",
+    "172902992",
+    "107773283",
+    "172902984",
+    "107773285",
+    "107773286",
+    "172902985",
+    "172902993",
+    "107773289",
+    "172902986",
+    "107773291",
+    "107773292",
+    "107773293",
+    "107773294",
+    "172902987",
+    "172902991",
+    "107773297",
+    "107773298",
+    "107773299",
+    "172902989",
+    "107773301",
+    "107773302",
+    "107773303"
+   ]
+  }
+ ],
+ "fragments": {
+  "107773278": {
+   "fragment_id": "107775875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 102/2011\n\nde 11 de Março\n\nNos termos do artigo 1.º do Decreto-Lei n.º 84/85, de 28 de Março, o direito de promover concursos de apostas mútuas é reservado ao Estado, que concedeu a sua organização e exploração em regime de exclusivo para todo o território nacional à Santa Casa da Misericórdia de Lisboa.\n\nConstata-se que algumas das matérias previstas no Regulamento do jogo social do Estado denominado Totoloto, que se encontra regulamentado pela Portaria n.º 553/2001, de 31 de Maio, com diversas alterações, devem ser suprimidas, outras revistas e melhoradas, tendo em conta a experiência adquirida desde 2001.\n\nNestes termos, pela presente portaria é aprovado o novo Regulamento do Totoloto, merecendo especial destaque a introdução de uma categoria especial de prémios denominada «Número da Sorte», que consiste na selecção de 1 de 13 números possíveis. O prémio desta nova categoria, cumulativo com o prémio das restantes categorias, corresponde à importância despendida pelo jogador com as apostas adquiridas no Totoloto no respectivo concurso, exceptuando o JOKER.\n\nVerifica-se, ainda, que se torna desnecessária a previsão da existência de um sistema de registo e validação mecânico, uma vez que o sistema de registo e validação informático, efectuado através dos terminais de jogo, se encontra instalado e em pleno funcionamento em todos os mediadores dos jogos sociais do Estado.\n\nAssim:\n\nAo abrigo dos artigos 4.º do Decreto-Lei n.º 84/85, de 28 de Março, e 2.º e 27.º, n.º 3, alínea i), dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo Decreto-Lei n.º 235/2008, de 3 de Dezembro, manda o Governo, pela Ministra do Trabalho e da Solidariedade Social, o seguinte:"
+  },
+  "107773279": {
+   "fragment_id": "107775876",
+   "type": 11,
+   "heading": "Artigo 1.º — Regulamento do Totoloto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regulamento do Totoloto\n\nÉ aprovado o Regulamento do jogo social do Estado denominado Totoloto, que se publica em anexo à presente portaria, dela fazendo parte integrante."
+  },
+  "107773280": {
+   "fragment_id": "107775877",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Regulamento do JOKER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Regulamento do JOKER\n\nO artigo 8.º do Regulamento do JOKER, aprovado pela Portaria n.º 550/2001, de 31 de Maio, alterada pelas Portarias n.os 1214/2003, de 16 de Outubro, 867/2006, de 28 de Agosto, 699/2009, de 2 de Julho, 973/2009, de 31 de Agosto, e 65/2011, de 4 de Fevereiro, passa a ter a seguinte redacção:\n\n«Artigo 8.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - Quando o jogo principal é o Totoloto ou o EUROMILHÕES, o terminal emite um recibo autónomo para o JOKER, no qual constam os seguintes dados:\n\na)...\n\nb)...\n\nc)...\n\nd)...\n\ne)...\n\nf)...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - ...\n\n17 - ...\n\n18 - ...\n\n19 - ...\n\n20 - ...\n\n21 - ...»"
+  },
+  "107773281": {
+   "fragment_id": "107775878",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 553/2001, de 31 de Maio, com a redacção dada pelas Portarias n.os 1048/2001, de 1 de Setembro, 1215/2003, de 16 de Outubro, 256/2006, de 10 de Março, 867/2006, de 28 de Agosto, 833/2009, de 31 de Julho, 973/2009, de 31 de Agosto, e 65/2011, de 4 de Fevereiro."
+  },
+  "107773282": {
+   "fragment_id": "107775879",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposição transitória\n\nSe não forem escrutinadas apostas com direito ao 1.º prémio nos concursos do Totoloto, cujos sorteios se realizam nos dias 7 e 12 de Março de 2011, os montantes a eles destinados acrescem, respectivamente, ao valor do 1.º prémio do concurso imediatamente seguinte.\n\n> Nota: [Artigo 3.º, Portaria n.º 207/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/207-2021-172878296) A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do concurso n.º 85 do «Totoloto»."
+  },
+  "107773283": {
+   "fragment_id": "107775880",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 13 de Março de 2011.\n\nPela Ministra do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 7 de Março de 2011.\n\nREGULAMENTO DO TOTOLOTO\n\nArtigo 1.º\n\nObjecto\n\nO presente Regulamento estabelece as normas de participação no jogo social do Estado denominado Totoloto, que consiste em concursos de apostas mútuas sobre o sorteio de números, organizado, nos termos da lei, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, adiante designado abreviadamente por Departamento de Jogos.\n\nArtigo 2.º\n\nConcursos\n\n1 - O Totoloto tem dois concursos semanais, cujos sorteios se realizam à quarta-feira e ao sábado, podendo ser determinadas outras datas pelo Departamento de Jogos, devidamente publicitadas.\n\n2 - A data de cada concurso é a do dia dos respectivos sorteios.\n\n3 - Os concursos semanais referidos no n.º 1 são designados por Loto 1, o que se realiza ao sábado, e Loto 2, o que se realiza à quarta-feira.\n\nArtigo 3.º\n\nCondições gerais de participação nos concursos\n\n1 - A participação nos concursos do Totoloto inicia-se com o registo e validação das apostas pelo sistema central do Departamento de Jogos e o pagamento do respectivo preço, nos termos da lei e do presente Regulamento.\n\n2 - Tal participação pressupõe o integral conhecimento, adesão e plena aceitação das referidas normas.\n\n3 - A participação só se torna efectiva quando estiverem reunidas todas as condições regulamentares de validade das apostas.\n\n4 - O mesmo bilhete permite a participação simultânea em dois concursos, nos termos dos números seguintes.\n\n5 - Para participar nos concursos referidos no número anterior apenas podem ser utilizados os bilhetes emitidos e outros suportes disponibilizados pelo Departamento de Jogos, nos termos do presente Regulamento.\n\n6 - A participação num dos concursos não implica nem depende da participação no outro concurso.\n\n7 - O jogador indica de forma clara em que concurso(s) pretende participar, preenchendo de forma regulamentar o(s) rectângulo(s) que, para o efeito, existe(m) nos bilhetes, por solicitação de digitação ao mediador dos jogos sociais do Estado, ou por opção nos outros canais da plataforma de acesso multicanal; mas caso não indique qual o concurso, o jogador participa no concurso imediatamente seguinte ao do momento da celebração da aposta.\n\nArtigo 4.º\n\nPreço da aposta\n\nO preço de cada aposta é fixado em (euro) 0,90.\n\nArtigo 5.º\n\nPrognósticos\n\n1 - Os prognósticos fazem-se pela marcação de cruzes (X), cujos pontos de intersecção devem estar dentro de cada um dos rectângulos dos conjuntos existentes no bilhete.\n\n2 - Os prognósticos podem também ser gerados aleatoriamente ou ser escolhidos pelos jogadores, mediante solicitação de digitação e impressão no terminal de jogo por mediador dos jogos sociais do Estado, através do sítio da Internet www.jogossantacasa.pt e noutros canais, nos termos regulados pelo Departamento de Jogos, cujo acesso é disponibilizado através da sua plataforma de acesso multicanal."
+  },
+  "107773284": {
+   "fragment_id": "107775881",
+   "type": 11,
+   "heading": "Artigo 6.º — Apostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apostas\n\n1 - Os prognósticos inscritos no bilhete no conjunto de 49 números e no conjunto de 13 números, denominado «Número da Sorte», aos quais corresponde um preço, constituem uma aposta.\n\n2 - As apostas podem preencher-se numa de duas modalidades: simples e múltiplas.\n\n3 - É sempre obrigatória a marcação de uma única cruz no conjunto de 13 números do bilhete, denominado «Número da Sorte», para que os prognósticos nas apostas simples e nas apostas múltiplas estejam completos.\n\n4 - Sem prejuízo do número anterior, as apostas simples são inscritas nos conjuntos de 49 números existentes no bilhete, nos termos do n.º 4 do artigo seguinte.\n\n5 - Sem prejuízo do n.º 3, as apostas múltiplas são inscritas, obrigatoriamente, no primeiro conjunto de 49 números.\n\n6 - As apostas registadas e não anuladas nos termos do presente diploma são obrigatoriamente pagas pelo mediador nos termos do regulamento respectivo."
+  },
+  "107773285": {
+   "fragment_id": "107775882",
+   "type": 11,
+   "heading": "Artigo 7.º — Apostas simples",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apostas simples\n\n1 - O preenchimento das apostas simples faz-se pela marcação de 5 dos 49 números inscritos nos rectângulos de cada conjunto e da marcação de 1 dos 13 números do conjunto do bilhete denominado «Número da Sorte».\n\n2 - As apostas simples inscrevem-se em cada conjunto de 49 números, em sequência contínua no sentido vertical e, sob pena de anulação, começando obrigatoriamente pelo primeiro conjunto."
+  },
+  "107773286": {
+   "fragment_id": "107775883",
+   "type": 11,
+   "heading": "Artigo 8.º — Apostas múltiplas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apostas múltiplas\n\n1 - O preenchimento das apostas múltiplas faz-se pela marcação de 6, 7, 8, 9, 10 ou 11 números dos inscritos, obrigatoriamente, no primeiro conjunto do bilhete, de acordo com a tabela constante do anexo i, assinalando-se o grupo escolhido no local a isso destinado, e da marcação de 1 dos 13 números do conjunto do bilhete denominado «Número da Sorte».\n\n2 - Sem prejuízo do n.º 3 do artigo 6.º, na aposta múltipla feita pela marcação de 4 números fixos, esses números combinam uma vez com cada um dos restantes 45 números, perfazendo um total de 45 apostas.\n\n3 - Mediante publicitação e divulgação pública, através dos órgãos de comunicação social de âmbito nacional, o Departamento de Jogos pode criar outras apostas múltiplas."
+  },
+  "107773287": {
+   "fragment_id": "107775884",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo e validação de apostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo e validação de apostas\n\n1 - Existe um único sistema de registo e validação de apostas, que é o sistema de registo e validação informático.\n\n2 - O sistema referido no número anterior permite a aceitação de apostas nos mediadores dos jogos sociais do Estado, através de um terminal de jogo, e directamente com o Departamento de Jogos, através da utilização do cartão de jogador, previsto no Decreto-Lei n.º 282/2003, de 8 de Novembro, identificando o respectivo número e código de segurança, nos outros canais da plataforma de acesso multicanal, nomeadamente pelo acesso ao sítio da Internet www.jogossantacasa.pt."
+  },
+  "107773288": {
+   "fragment_id": "107775885",
+   "type": 11,
+   "heading": "Artigo 10.º — Distribuição das receitas para prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Distribuição das receitas para prémios\n\n1 - Da receita de cada concurso, constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 55 %.\n\n2 - Da importância prevista no número anterior poderá ser destinada a um fundo especial para jackpots a percentagem que venha a ser definida legalmente.\n\n3 - Da importância para prémios 10 % destinam-se à constituição e manutenção de um fundo que garante o valor mínimo de (euro) 1 000 000 para o 1.º prémio e assegura, quando necessário, o direito ao pagamento dos prémios da categoria especial de prémios, denominada «Número da Sorte».\n\n4 - A importância destinada a prémios, depois de deduzidos os montantes referidos nos números anteriores, é dividida em seis partes, na forma seguinte:\n\na) 40,46 % para o 1.º prémio;\n\nb) 4 % para o 2.º prémio;\n\nc) 5 % para o 3.º prémio;\n\nd) 5 % para o 4.º prémio;\n\ne) 30 % para o 5.º prémio;\n\nf) 15,54 % para a categoria especial de prémio denominado «Número da Sorte».\n\n5 - Têm direito a prémio as apostas que apresentem os seguintes prognósticos:\n\na) Ao 1.º, as que tenham prognosticado os 5 números extraídos na primeira esfera de entre 49 números, bem como o número extraído da segunda esfera de entre os 13 números possíveis, denominado «Número da Sorte»;\n\nb) Ao 2.º, as que tenham prognosticado 5 números extraídos na primeira esfera de entre 49 números;\n\nc) Ao 3.º, as que tenham prognosticado 4 dos 5 números extraídos na primeira esfera de entre 49 números;\n\nd) Ao 4.º, as que tenham prognosticado 3 dos 5 números extraídos na primeira esfera de entre 49 números;\n\ne) Ao 5.º, as que tenham prognosticado 2 dos 5 números extraídos na primeira esfera de entre 49 números;\n\nf) Ao prémio de categoria especial denominado «Número da Sorte», as que tenham prognosticado o respectivo número extraído de entre os 13 números possíveis na segunda esfera.\n\n6 - Os prémios a que têm direito as apostas múltiplas, nas condições do número anterior, encontram-se na tabela constante do anexo ii.\n\n7 - Quando não forem escrutinadas apostas com direito ao 1.º prémio, o montante a ele destinado irá acrescer ao montante do 1.º prémio do concurso imediatamente seguinte.\n\n8 - Quando não forem escrutinadas apostas com direito ao 2.º prémio ou a algum dos restantes, os respectivos montantes acrescem ao prémio da categoria imediatamente inferior até ao 5.º prémio, ou ao montante do 1.º prémio, no caso de não serem escrutinadas apostas com direito ao 5.º prémio.\n\n9 - Quando não forem escrutinadas apostas com direito a prémio em qualquer das cinco primeiras categorias estabelecidas, os montantes correspondentes acrescem aos que vierem a ser apurados para cada categoria no concurso imediatamente seguinte.\n\n10 - A importância de cada um dos cinco primeiros prémios é repartida em quinhões iguais, pelas apostas premiadas de cada uma das cinco primeiras categorias de prémios referidas no n.º 4, arredondada para a quantia em cêntimos imediatamente inferior.\n\n11 - Nos termos do número anterior, se o quinhão de cada uma das apostas com direito a prémio for menor do que o quinhão que cabe a cada uma das apostas com direito a prémio da categoria imediatamente inferior, os montantes correspondentes às duas categorias são adicionados, sendo o total dividido entre ambas, em quinhões iguais.\n\n12 - Ao prémio de categoria especial denominado «Número da Sorte» corresponde a importância despendida pelo jogador com as apostas adquiridas no Totoloto no respectivo concurso, exceptuando o JOKER.\n\n13 - O prémio de categoria especial denominado «Número da Sorte» é cumulativo com as restantes categorias de prémios.\n\n14 - O «Número da Sorte» apenas permite conferir direito a um 1.º prémio por cada bilhete ou conjunto de apostas.\n\n15 - Quando não forem escrutinadas apostas com direito ao prémio de categoria especial denominado «Número da Sorte» ou o montante correspondente ao número de apostas com prémio não atingir a totalidade do valor a elas destinado, o remanescente integra o fundo previsto no n.º 3.\n\n> Nota: [Artigo 3.º, Portaria n.º 207/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/207-2021-172878296) A presente alteração entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do concurso n.º 85 do «Totoloto»."
+  },
+  "107773289": {
+   "fragment_id": "107775886",
+   "type": 11,
+   "heading": "Artigo 11.º — Mediadores dos jogos sociais do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Mediadores dos jogos sociais do Estado\n\n1 - Os mediadores dos jogos sociais do Estado são representantes dos concorrentes junto do Departamento de Jogos e agem exclusivamente nessa qualidade.\n\n2 - Os erros ou omissões cometidos pelos mediadores dos jogos sociais do Estado no exercício das suas funções não são imputáveis ao Departamento de Jogos.\n\n3 - Os mediadores dos jogos sociais do Estado representam os jogadores junto do Departamento de Jogos, não representando, em caso algum, o Departamento de Jogos junto dos jogadores.\n\n4 - O mediador é responsável perante o Departamento de Jogos pelo pagamento do preço de todas as apostas registadas através dos terminais de jogo que lhe estão atribuídos e que não tenham sido anuladas, nos termos do regulamento respectivo."
+  },
+  "107773290": {
+   "fragment_id": "107775887",
+   "type": 11,
+   "heading": "Artigo 12.º — Sistema de registo e validação informático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sistema de registo e validação informático\n\n1 - O registo de apostas no sistema de registo e validação informático processa-se mediante:\n\na) A apresentação ao mediador dos jogos sociais do Estado de bilhete emitido pelo Departamento de Jogos no qual se encontrem inscritos os prognósticos de acordo com as normas do presente Regulamento;\n\nb) A solicitação ao mediador dos jogos sociais do Estado de uma «aposta automática», pela qual o terminal gera aleatoriamente os prognósticos com os quais o jogador faz a sua aposta;\n\nc) A digitação no terminal, pelo mediador dos jogos sociais do Estado, dos prognósticos do jogador;\n\nd) A utilização do cartão de jogador nos outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, nos termos do Decreto-Lei n.º 282/2003, de 8 de Novembro.\n\n2 - A inscrição dos prognósticos nos bilhetes não pode ser feita a tinta vermelha.\n\n3 - Para efeitos da alínea a) do n.º 1 do presente artigo, o bilhete serve unicamente como suporte de leitura, pelo que carece de qualquer outro valor.\n\n4 - Os dados referentes às apostas apresentadas nos terminais dos mediadores dos jogos sociais do Estado são transmitidos ao sistema central para registo e validação em suporte informático.\n\n5 - Sem a validação e registo no sistema central dos dados apresentados nos terminais as apostas não participam no concurso.\n\n6 - Após a validação, o terminal emite o recibo respectivo, no qual constam os seguintes dados:\n\na) Tipo de jogo;\n\nb) Concurso(s) e semana(s) em que participa;\n\nc) Prognósticos efectuados;\n\nd) Número de apostas;\n\ne) Valor das apostas;\n\nf) Números de código e de controlo;\n\ng) Dia e hora em que é efectuado o registo e validação no sistema central.\n\n7 - Para todos os efeitos o recibo será identificado pelos números de controlo que nele figuram.\n\n8 - Quando o jogador participe em dois concursos, o terminal expedirá um recibo autónomo respeitante a cada um.\n\n9 - O concorrente efectuará o pagamento da importância correspondente às apostas registadas e validadas informaticamente antes de o mediador dos jogos sociais do Estado lhe entregar o recibo(s) emitido(s) através do terminal.\n\n10 - O mediador dos jogos sociais do Estado não pode entregar o recibo ao jogador antes de receber o pagamento correspondente.\n\n11 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas efectuadas, as mesmas serão anuladas; tal facto constará de um novo recibo emitido pelo terminal que, juntamente com o recibo anulado, será enviado ao Departamento de Jogos pelo mediador dos jogos sociais do Estado, não podendo em caso algum ser entregue ao jogador.\n\n12 - As apostas podem ser anuladas no terminal onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o concurso a que respeitam, conforme a que ocorrer primeiro, sendo sempre emitido recibo de cancelamento.\n\n13 - O recibo anulado nunca é entregue ao jogador.\n\n14 - O sistema central anula igualmente as apostas registadas e validadas através do sistema de registo e validação informático quando se verificar que as mesmas foram efectuadas com violação do disposto no artigo 3.º, n.º 3, tendo o jogador direito à devolução do preço das apostas pagas.\n\n15 - O recibo emitido através do terminal de jogo é o único título válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos concursos.\n\n16 - Para as apostas realizadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, o cartão de jogador com o qual foi efectuada a aposta é o único documento válido para solicitar o pagamento dos prémios e constitui a única prova da participação nos concursos.\n\n17 - A participação nos concursos mediante registo e validação informático só é válida quando:\n\na) As apostas tenham sido registadas validamente e não tenham sido anuladas nos suportes informáticos do sistema central, de acordo com os requisitos e procedimentos estabelecidos no presente Regulamento;\n\nb) A cópia de segurança dos ditos suportes se encontre em poder do júri dos concursos e arquivada, sob sua custódia, em lugar de segurança antes da hora do começo do sorteio.\n\n18 - Para todos os efeitos, entender-se-á como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, materializados em disco óptico, cassete, banda magnética ou outro em que se encontrem gravadas as apostas correspondentes a cada concurso.\n\n19 - O Departamento de Jogos pode autorizar a utilização de outros meios e suportes para o registo de apostas, nomeadamente telefone fixo ou móvel, Internet, televisão ou qualquer outro que venha a ser determinado.\n\n20 - Relativamente às apostas efectuadas com utilização dos meios previstos no número anterior, as únicas provas de participação nos concursos são os registos informáticos do sistema central do Departamento de Jogos e as respectivas cópias de segurança."
+  },
+  "107773291": {
+   "fragment_id": "107775888",
+   "type": 11,
+   "heading": "Artigo 13.º — Cartão de jogador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cartão de jogador\n\n1 - Para efectuar os pagamentos e receber os prémios do Totoloto, através do sistema de registo e validação informático, podem os jogadores utilizar um cartão de jogador emitido pelo Departamento de Jogos.\n\n2 - O cartão de jogador, identificado pelo respectivo número e código de segurança, está associado a uma conta bancária à ordem, possibilitando o pagamento antecipado de jogo, que consiste no seu carregamento até determinado montante para utilização na participação nos jogos sociais do Estado, sendo recarregável e permitindo creditar, até determinado montante, o valor dos prémios, dos mesmos jogos, a que tenha direito.\n\n3 - Os montantes referidos no número anterior, bem como as respectivas regras de utilização, são definidos pelo Departamento de Jogos nas Condições Gerais de Utilização do Cartão de Jogador, as quais são divulgadas publicamente, através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social de âmbito nacional, pela Internet e por quaisquer outros meios julgados adequados, e constam da documentação necessariamente entregue ao jogador no momento da aquisição do cartão."
+  },
+  "107773292": {
+   "fragment_id": "107775889",
+   "type": 11,
+   "heading": "Artigo 14.º — Júri dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Júri dos concursos\n\n1 - Ao júri dos concursos, com a constituição fixada no artigo 30.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de Dezembro, compete também:\n\na) A recepção e a guarda em segurança da cópia dos registos das apostas efectuadas através do sistema de registo e validação informático, previstas no artigo 12.º, n.º 17, alínea b);\n\nb) A comprovação do direito a prémio, a qual tem lugar através da leitura da cópia de segurança, mencionada no artigo 12.º, n.º 17, alínea b), que se encontra em poder do júri dos concursos.\n\n2 - Das operações previstas no número anterior é lavrada acta."
+  },
+  "107773293": {
+   "fragment_id": "107775890",
+   "type": 11,
+   "heading": "Artigo 15.º — Sorteios dos números",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sorteios dos números\n\n1 - O sorteio dos números do Totoloto efectua-se mediante a extracção de 5 bolas de uma esfera, contendo 49 bolas homogéneas, iguais em material, volume e peso, numeradas de 1 a 49, e a extracção de 1 bola de uma segunda esfera, contendo 13 bolas homogéneas, iguais em material, volume e peso, numeradas de 1 a 13.\n\n2 - Os sorteios dos números têm lugar à quarta-feira e ao sábado.\n\n3 - O Departamento de Jogos pode determinar a realização dos sorteios em outros dias da semana, mediante prévia publicitação.\n\n4 - As esferas dos sorteios podem ser accionadas por meios automáticos ou manuais.\n\n5 - Em caso de interrupção por motivo de avaria ou de força maior, os sorteios serão retomados logo que possível ou, quando a interrupção exceder duas horas, no dia imediatamente seguinte, mas os números das bolas extraídas mantêm-se válidos.\n\n6 - A extracção de um número só se concretiza quando a respectiva bola sair completamente fora da esfera, não existindo antes desse momento.\n\n7 - Os actos dos sorteios são presididos e fiscalizados pelo júri dos concursos, podendo ser transmitidos pela televisão ou outro suporte de divulgação pública, e deles é lavrada a respectiva acta."
+  },
+  "107773294": {
+   "fragment_id": "107775891",
+   "type": 11,
+   "heading": "Artigo 16.º — Escrutínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Escrutínio\n\n1 - O escrutínio é o conjunto de operações pelas quais se procede ao apuramento do direito aos prémios.\n\n2 - A partir das apostas que participaram no concurso através do sistema de registo e validação informático é gerado no sistema central um ficheiro de apostas premiadas, classificadas por categorias de prémios.\n\n3 - O sistema informático central fornece ao júri dos concursos e aos serviços de escrutínio informação detalhada da receita obtida e do número de prémios por categoria de cada concurso, relativamente às apostas feitas através do sistema de registo e validação informático.\n\n4 - O controlo dos prémios relativos a apostas efectuadas no sistema de registo e validação informático é efectuado pelo júri dos concursos, por comparação com a cópia de segurança prevista no artigo 12.º, n.º 17, alínea b), prevalecendo esta em caso de dúvida.\n\n5 - O controlo das apostas premiadas é feito:\n\na) Por amostragem, quando os respectivos valores forem inferiores a (euro) 5000;\n\nb) Directamente pelo júri dos concursos, quando iguais ou superiores a (euro) 5000."
+  },
+  "107773295": {
+   "fragment_id": "107775892",
+   "type": 11,
+   "heading": "Artigo 17.º — Divulgação das apostas premiadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Divulgação das apostas premiadas\n\n1 - O número provisório das apostas premiadas em cada concurso e o valor dos respectivos quinhões são divulgados através do sítio da Internet www.jogossantacasa.pt, pelos órgãos de comunicação social de âmbito nacional, e constam de um cartaz informativo do Departamento de Jogos afixado nos estabelecimentos onde se exerce a actividade de mediação dos jogos sociais do Estado.\n\n2 - Quando haja alteração dos resultados provisórios, o número definitivo das apostas premiadas bem como o valor dos respectivos quinhões são tornados públicos através do cartaz referido no número anterior, após o julgamento das reclamações nos termos do artigo 19.º"
+  },
+  "107773296": {
+   "fragment_id": "107775893",
+   "type": 11,
+   "heading": "Artigo 18.º — Pagamento dos prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pagamento dos prémios\n\n1 - Os prémios são pagos pelos mediadores dos jogos sociais do Estado ou pelas entidades bancárias expressamente autorizadas pelo Departamento de Jogos nas condições que este determine.\n\n2 - O pagamento dos prémios, no caso de apostas registadas através do sistema de registo e validação informático, obedece aos seguintes trâmites:\n\na) O mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes no sistema central, apresenta mensagem, indicando o valor do prémio e, após confirmação do mediador, emite recibo de pagamento do prémio pelo mediador, ou dá informação de que o prémio é pago num estabelecimento bancário autorizado;\n\nb) Quando esse valor for igual ou inferior a (euro) 150, é pago em qualquer mediador dos jogos sociais do Estado, independentemente daquele onde foi registada a aposta;\n\nc) Caso o mediador de jogos sociais do Estado não tenha disponibilidade de caixa para fazer o pagamento, o jogador pode dirigir-se a qualquer outro estabelecimento onde se exerce a actividade de mediação dos jogos sociais do Estado, dirigir-se directamente ao Departamento de Jogos ou aguardar que exista disponibilidade por parte do mediador primeiramente solicitado;\n\nd) A efectivação do pagamento ficará sempre registada no sistema central e dará origem à emissão de um recibo comprovativo que ficará na posse do mediador dos jogos sociais do Estado;\n\ne) Quando o valor do prémio for superior a (euro) 150 e inferior a (euro) 5000, é pago num estabelecimento bancário, através de cheque ou ordem de pagamento emitida pelo Departamento de Jogos, a qual é enviada ao mediador através do qual a aposta foi efectuada;\n\nf) Os prémios superiores a (euro) 150 e inferior a (euro) 5000 podem ser pagos por crédito na conta bancária do jogador, mediante solicitação deste, nos termos definidos pelo Departamento de Jogos;\n\ng) Quando o recibo emitido pelo terminal do sistema de registo e validação informático não for lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprovará a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emitirá outro documento que permita o respectivo pagamento.\n\n3 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia-se no dia seguinte à realização dos respectivos concursos, para os prémios de montante inferior ou igual a (euro) 150.\n\n4 - Os prémios de valor superior a (euro) 150 também podem ser pagos pelos mediadores dos jogos sociais do Estado, que posteriormente recebem as importâncias desembolsadas no estabelecimento bancário através do qual se processem as demais transacções entre aqueles e o Departamento de Jogos.\n\n5 - As ordens de pagamento não reclamadas de valor superior a (euro) 150 têm de ser devolvidas pelos mediadores dos jogos sociais do Estado ao Departamento de Jogos 45 dias após a data do respectivo concurso.\n\n6 - Os prémios iguais ou superiores a (euro) 5000 são pagos após o julgamento das reclamações.\n\n7 - O direito aos prémios caduca decorridos 90 dias sobre a data da realização do respectivo concurso.\n\n8 - A verificação do direito a um prémio no sistema central, mediante apresentação e leitura de um recibo premiado em qualquer mediador de jogos sociais do Estado, impede a verificação da caducidade, independentemente do momento em que o valor do prémio, por ordem de pagamento, cheque ou transferência bancária, entre na posse do jogador.\n\n9 - As normas constantes dos números anteriores são aplicadas, com as devidas adaptações, às apostas registadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, de acordo com as respectivas regras de utilização.\n\n10 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n11 - Sempre que o prémio seja de valor igual ou superior ao previsto na Lei n.º 25/2008, de 5 de Junho, é obrigatória a identificação do apresentante do título pelo Departamento de Jogos, através de documento de identificação que comprove a sua identidade, nos termos e para os efeitos da referida lei."
+  },
+  "107773297": {
+   "fragment_id": "107775894",
+   "type": 11,
+   "heading": "Artigo 19.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reclamações\n\n1 - Todo o possuidor de um recibo emitido pelo sistema de registo e validação informático que tendo apresentado o mesmo para pagamento, num mediador dos jogos sociais do Estado, seja informado de que não tem direito a prémio, de que o prémio já foi pago ou de que existe algum outro motivo que impeça o seu pagamento tem o direito de reclamar.\n\n2 - As reclamações são apresentadas por escrito, em formulário próprio, a entregar no Departamento de Jogos.\n\n3 - As reclamações também podem ser apresentadas por carta, telegrama, e-mail ou telecópia desde que sejam indicados, pelo menos, os seguintes elementos:\n\na) Nome completo e morada do reclamante;\n\nb) Semana a que se reporta o concurso e data do mesmo;\n\nc) Número do terminal que registou o bilhete;\n\nd) Números de impressão e de registo do bilhete ou números de controlo;\n\ne) Motivo da reclamação.\n\n4 - O prazo para apresentação de reclamação conta-se a partir da data do respectivo concurso e é de 12 dias para os prémios de valor igual ou superior a (euro) 5000 e de 60 dias para os outros, salvo no caso de acumulação com prémios de valor superior a (euro) 5000, em que o prazo é de 12 dias.\n\n5 - O prazo é de caducidade, não sendo considerada qualquer reclamação que dê entrada no Departamento de Jogos fora do prazo."
+  },
+  "107773298": {
+   "fragment_id": "107775895",
+   "type": 11,
+   "heading": "Artigo 20.º — Júri de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Júri de reclamações\n\n1 - As reclamações são julgadas por um júri constituído nos termos do artigo 35.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de Dezembro.\n\n2 - Deste júri não pode fazer parte quem tenha tido intervenção na decisão reclamada.\n\n3 - As deliberações do júri de reclamações podem ser impugnadas judicialmente no tribunal da jurisdição administrativa com sede na área de Lisboa."
+  },
+  "107773299": {
+   "fragment_id": "107775896",
+   "type": 11,
+   "heading": "Artigo 21.º — Fraudes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fraudes\n\nA prática de actos fraudulentos com vista ao recebimento de prémios, nomeadamente a falsificação de recibos emitidos através do terminal no sistema de registo e validação informático, é objecto de participação para efeitos de procedimento criminal, nos termos da lei."
+  },
+  "107773300": {
+   "fragment_id": "107775897",
+   "type": 11,
+   "heading": "Artigo 22.º — Casos omissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Casos omissos\n\nOs casos omissos e os duvidosos são resolvidos pelo Departamento de Jogos, ouvido o júri de reclamações."
+  },
+  "107773301": {
+   "fragment_id": "107775898",
+   "type": 11,
+   "heading": "Artigo 23.º — Tabelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Tabelas\n\nSão publicadas as tabelas constantes dos anexos i e ii, relativas, respectivamente, às apostas múltiplas e aos prémios em apostas múltiplas, as quais fazem parte integrante do presente Regulamento."
+  },
+  "107773302": {
+   "fragment_id": "107775899",
+   "type": 14,
+   "heading": "Anexo I — Tabela de apostas múltiplas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Tabela de apostas múltiplas\n\n(ver documento original)"
+  },
+  "107773303": {
+   "fragment_id": "107775900",
+   "type": 14,
+   "heading": "Anexo II — Tabela dos prémios em apostas múltiplas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Tabela dos prémios em apostas múltiplas\n\n(ver documento original)"
+  },
+  "172902984": {
+   "fragment_id": "107775881",
+   "type": 11,
+   "heading": "Artigo 6.º — Apostas",
+   "in_force_from": "2013-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+   ],
+   "markdown": "###### Artigo 6.º — Apostas\n\n1 - Os prognósticos inscritos no bilhete no conjunto de 49 números e no conjunto de 13 números, denominado «Número da Sorte», aos quais corresponde um preço, constituem uma aposta.\n\n2 - As apostas podem preencher-se numa de duas modalidades: simples e múltiplas.\n\n3 - É sempre obrigatória a marcação de uma única cruz no conjunto de 13 números do bilhete, denominado «Número da Sorte», para que os prognósticos nas apostas simples e nas apostas múltiplas estejam completos.\n\n4 - Sem prejuízo do número anterior, as apostas simples são inscritas nos conjuntos de 49 números existentes no bilhete, nos termos do artigo seguinte.\n\n5 - Sem prejuízo do n.º 3, as apostas múltiplas são inscritas, obrigatoriamente, no primeiro conjunto de 49 números.\n\n6 - As apostas registadas e não anuladas nos termos do presente diploma são obrigatoriamente pagas pelo mediador nos termos do regulamento respectivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+  },
+  "172902985": {
+   "fragment_id": "107775884",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo e validação de apostas",
+   "in_force_from": "2013-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+   ],
+   "markdown": "###### Artigo 9.º — Registo e validação de apostas\n\n1 - O sistema de registo e validação de apostas é informático.\n\n2 - O sistema referido no número anterior apenas pode operar nos mediadores dos jogos sociais do Estado, através dos terminais de jogo ou da plataforma de acesso multicanal, sem prejuízo da possibilidade de disponibilização direta pelo Departamento de Jogos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+  },
+  "172902986": {
+   "fragment_id": "107775887",
+   "type": 11,
+   "heading": "Artigo 12.º — Sistema de registo e validação informático",
+   "in_force_from": "2013-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+   ],
+   "markdown": "###### Artigo 12.º — Sistema de registo e validação informático\n\n1 - O registo de apostas no sistema de registo e validação informático processa-se mediante:\n\na) A apresentação ao mediador dos jogos sociais do Estado de bilhete emitido pelo Departamento de Jogos no qual se encontrem inscritos os prognósticos de acordo com as normas do presente Regulamento;\n\nb) A solicitação ao mediador dos jogos sociais do Estado de uma «aposta automática», pela qual o terminal gera aleatoriamente os prognósticos com os quais o jogador faz a sua aposta;\n\nc) A digitação no terminal, pelo mediador dos jogos sociais do Estado, dos prognósticos do jogador;\n\nd) A utilização do cartão de jogador nos outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, nos termos do Decreto-Lei n.º 282/2003, de 8 de Novembro.\n\n2 - A inscrição dos prognósticos nos bilhetes não pode ser feita a tinta vermelha.\n\n3 - Para efeitos da alínea a) do n.º 1 do presente artigo, o bilhete serve unicamente como suporte de leitura, pelo que carece de qualquer outro valor.\n\n4 - Os dados referentes às apostas apresentadas nos terminais dos mediadores dos jogos sociais do Estado são transmitidos ao sistema central para registo e validação em suporte informático.\n\n5 - Sem a validação e registo no sistema central dos dados apresentados nos terminais as apostas não participam no concurso.\n\n6 - Após a validação, o terminal emite o recibo respectivo, no qual constam os seguintes dados:\n\na) Tipo de jogo;\n\nb) Concurso(s) e semana(s) em que participa;\n\nc) Prognósticos efectuados;\n\nd) Número de apostas;\n\ne) Valor das apostas;\n\nf) Números de código e de controlo;\n\ng) Dia e hora em que é efectuado o registo e validação no sistema central.\n\n7 - Para todos os efeitos o recibo será identificado pelos números de controlo que nele figuram.\n\n8 - Quando o jogador participe em dois concursos, o terminal expedirá um recibo autónomo respeitante a cada um.\n\n9 - O concorrente efectuará o pagamento da importância correspondente às apostas registadas e validadas informaticamente antes de o mediador dos jogos sociais do Estado lhe entregar o recibo(s) emitido(s) através do terminal.\n\n10 - O mediador dos jogos sociais do Estado não pode entregar o recibo ao jogador antes de receber o pagamento correspondente.\n\n11 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas efetuadas, as mesmas serão anuladas pelo mediador através da reintrodução do recibo no terminal que imprimirá a palavra \"ANULADO\" ou \"CANCELADO\", valor da aposta, data e hora, e que será enviado ao Departamento de Jogos pelo mediador dos jogos sociais do Estado, não podendo em caso algum ser entregue ao jogador.\n\n12 - As apostas podem ser anuladas no terminal onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o concurso a que respeitam, conforme a que ocorrer primeiro.\n\n13 - O recibo anulado nunca é entregue ao jogador.\n\n14 - O sistema central anula igualmente as apostas registadas e validadas através do sistema de registo e validação informático quando se verificar que as mesmas foram efectuadas com violação do disposto no artigo 3.º, n.º 3, tendo o jogador direito à devolução do preço das apostas pagas.\n\n15 - O recibo emitido através do terminal de jogo é o único título válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos concursos.\n\n16 - Para as apostas realizadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, o cartão de jogador com o qual foi efectuada a aposta é o único documento válido para solicitar o pagamento dos prémios e constitui a única prova da participação nos concursos.\n\n17 - A participação nos concursos mediante registo e validação informático só é válida quando:\n\na) As apostas tenham sido registadas validamente e não tenham sido anuladas nos suportes informáticos do sistema central, de acordo com os requisitos e procedimentos estabelecidos no presente Regulamento;\n\nb) A cópia de segurança dos ditos suportes se encontre em poder do júri dos concursos e arquivada, sob sua custódia, em lugar de segurança antes da hora do começo do sorteio.\n\n18 - Para todos os efeitos, entender-se-á como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, materializados em disco óptico, cassete, banda magnética ou outro em que se encontrem gravadas as apostas correspondentes a cada concurso.\n\n19 - O Departamento de Jogos pode autorizar a utilização de outros meios e suportes para o registo de apostas, nomeadamente telefone fixo ou móvel, Internet, televisão ou qualquer outro que venha a ser determinado.\n\n20 - Relativamente às apostas efectuadas com utilização dos meios previstos no número anterior, as únicas provas de participação nos concursos são os registos informáticos do sistema central do Departamento de Jogos e as respectivas cópias de segurança.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+  },
+  "172902987": {
+   "fragment_id": "107775892",
+   "type": 11,
+   "heading": "Artigo 17.º — Divulgação das apostas premiadas",
+   "in_force_from": "2013-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+   ],
+   "markdown": "###### Artigo 17.º — Divulgação das apostas premiadas\n\n1 - O número provisório das apostas premiadas em cada concurso e o valor dos respectivos quinhões são divulgados através do sítio da Internet www.jogossantacasa.pt, pelos órgãos de comunicação social de âmbito nacional, e constam de um cartaz informativo do Departamento de Jogos afixado nos estabelecimentos onde se exerce a actividade de mediação dos jogos sociais do Estado.\n\n2 - Quando haja alteração dos resultados provisórios, o número definitivo das apostas premiadas bem como o valor dos respectivos quinhões são tornados públicos através do cartaz referido no número anterior, após o julgamento das reclamações nos termos do artigo 19.º\n\n3 - As apostas premiadas são divulgadas pelo seu valor ilíquido.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+  },
+  "172902988": {
+   "fragment_id": "107775893",
+   "type": 11,
+   "heading": "Artigo 18.º — Pagamento dos prémios",
+   "in_force_from": "2013-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+   ],
+   "markdown": "###### Artigo 18.º — Pagamento dos prémios\n\n1 - Os prémios de valor inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n2 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n3 - O pagamento dos prémios é efetuado obedecendo aos seguintes trâmites:\n\na) Por solicitação do jogador, o mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes do sistema central, sendo apresentado no visor uma mensagem indicando o valor do prémio ou com a indicação para o jogador se deslocar ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa;\n\nb) No caso de o recibo apresentar um prémio igual ou inferior a (euro) 150, após confirmação por parte do jogador premiado de que pretende receber o seu prémio, é impressa pelo terminal na frente do recibo a palavra \"PAGO\", valor do prémio, data e hora, e o mediador ou o Departamento de Jogos procedem ao pagamento do prémio;\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 5.000 o pagamento pode ser feito através de ordem de pagamento, emitida pelo Departamento de Jogos, que é remetida para o mediador, ou tem de ser por este solicitada, ou através de depósito na conta do portador do título premiado, nos termos definidos pelo Departamento de Jogos;\n\nd) Os prémios de valor superior a (euro) 150 e inferior a (euro) 5.000 também podem ser pagos pelos mediadores dos jogos sociais do Estado, que posteriormente recebem as importâncias desembolsadas no estabelecimento bancário através do qual se processam as demais transações entre aqueles e o Departamento de Jogos;\n\ne) Os prémios de valor igual ou superior a (euro) 5.000 apenas podem ser pagos junto do Departamento de Jogos e mediante identificação pessoal do portador do título premiado, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) A efetivação do pagamento fica sempre registada no sistema central e dá origem à emissão de um recibo comprovativo, que fica na posse do mediador dos jogos sociais do Estado;\n\ng) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprova a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.\n\n4 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia -se no dia imediatamente seguinte ao da realização do sorteio, para os prémios de montante inferior a (euro) 5.000.\n\n5 - Os prémios iguais ou superiores a (euro) 5.000 são pagos após o prazo das reclamações a que se refere o artigo seguinte.\n\n6 - O direito a prémios caduca decorridos 90 dias sobre a data do respetivo concurso.\n\n7 - O pagamento das apostas registadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, são pagos da seguinte forma e de acordo com as condições de utilização do cartão do jogador:\n\na) Os prémios de valor igual ou inferior a (euro) 150 são transferidos automaticamente para o cartão do jogador;\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 5.000 são pagos por depósito na conta bancária do jogador por este indicada ou através da rede Multibanco;\n\nc) Os prémios de valor igual ou superior a (euro) 5.000 são pagos após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n8 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n9 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o Departamento de Jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do disposto nos artigos 19.º e 20.º.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+  },
+  "172902989": {
+   "fragment_id": "107775897",
+   "type": 11,
+   "heading": "Artigo 22.º — Casos omissos",
+   "in_force_from": "2013-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+   ],
+   "markdown": "###### Artigo 22.º — Casos omissos\n\nOs casos omissos e os duvidosos são resolvidos pelo Administrador Executivo do Departamento de Jogos, exceto em matéria de atribuição de prémios, em que é competente o júri de reclamações\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+  },
+  "172902990": {
+   "fragment_id": "107775893",
+   "type": 11,
+   "heading": "Artigo 18.º — Pagamento dos prémios",
+   "in_force_from": "2014-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2014-571049), em vigor a partir de 2014-01-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+   ],
+   "markdown": "###### Artigo 18.º — Pagamento dos prémios\n\n1 - Os prémios de valor inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n2 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n3 - O pagamento dos prémios é efetuado obedecendo aos seguintes trâmites:\n\na) Por solicitação do jogador, o mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes do sistema central, sendo apresentado no visor uma mensagem indicando o valor do prémio ou com a indicação para o jogador se deslocar ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa;\n\nb) No caso de o recibo apresentar um prémio igual ou inferior a (euro)150, após confirmação por parte do jogador premiado de que pretende receber o seu prémio, é impressa pelo terminal na frente do recibo a palavra \"PAGO\", o valor do prémio, a data e hora, e o mediador ou o Departamento de Jogos procedem ao pagamento do prémio;\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro)150 e inferior a (euro)5.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) [revogado];\n\ne) Os prémios de valor igual ou superior a (euro)5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para conta bancária do portador do título premiado, após a respetiva identificação pessoal, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) A efetivação do pagamento fica sempre registada no sistema central e dá origem à emissão de um talão de pagamento, que é entregue ao apostador;\n\ng) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprova a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.\n\n4 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia -se no dia imediatamente seguinte ao da realização do sorteio, para os prémios de montante inferior a (euro) 5.000.\n\n5 - Os prémios iguais ou superiores a (euro) 5.000 são pagos após o prazo das reclamações a que se refere o artigo seguinte.\n\n6 - O pagamento das apostas registadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, são pagos da seguinte forma e de acordo com as condições de utilização do cartão de jogador:\n\na) Os prémios de valor igual ou inferior a (euro)150 são transferidos automaticamente para o cartão de jogador;\n\nb) Os prémios de valor superior a (euro)150 e inferior a (euro)5.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro)5.000 são pagos através de transferência para conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n7 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n8 - O direito a prémios caduca decorridos 90 dias sobre a data do respetivo concurso.\n\n9 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o Departamento de Jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do disposto nos artigos 19.º e 20.º.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2014-571049), em vigor a partir de 2014-01-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+  },
+  "172902991": {
+   "fragment_id": "107775893",
+   "type": 11,
+   "heading": "Artigo 18.º — Pagamento dos prémios",
+   "in_force_from": "2017-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 232/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), em vigor a partir de 2017-07-28",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2014-571049), em vigor a partir de 2014-01-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+   ],
+   "markdown": "###### Artigo 18.º — Pagamento dos prémios\n\n1 - Os prémios de valor inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n2 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n3 - O pagamento dos prémios é efetuado obedecendo aos seguintes trâmites:\n\na) Por solicitação do jogador, o mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes do sistema central, sendo apresentado no visor uma mensagem indicando o valor do prémio ou com a indicação para o jogador se deslocar ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa;\n\nb) No caso de o recibo apresentar um prémio igual ou inferior a (euro)150, após confirmação por parte do jogador premiado de que pretende receber o seu prémio, é impressa pelo terminal na frente do recibo a palavra \"PAGO\", o valor do prémio, a data e hora, e o mediador ou o Departamento de Jogos procedem ao pagamento do prémio;\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 2.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) [revogado];\n\ne) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para a conta bancária do portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\ng) A efetivação do pagamento fica sempre registada no sistema central e dá origem à emissão de um talão de pagamento, que é entregue ao apostador;\n\nh) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprova a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.\n\n4 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia -se no dia imediatamente seguinte ao da realização do sorteio, para os prémios de montante inferior a (euro) 5.000.\n\n5 - Os prémios iguais ou superiores a (euro) 5.000 são pagos após o prazo das reclamações a que se refere o artigo seguinte.\n\n6 - O pagamento das apostas registadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, são pagos da seguinte forma e de acordo com as condições de utilização do cartão de jogador:\n\na) Os prémios de valor igual ou inferior a (euro)150 são transferidos automaticamente para o cartão de jogador;\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:\n\ni) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via de dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\nii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;\n\niii) Identificação presencial junto do Departamento de Jogos;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.\n\n7 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n8 - O direito a prémios caduca decorridos 90 dias sobre a data do respetivo concurso.\n\n9 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o Departamento de Jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do disposto nos artigos 19.º e 20.º.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 232/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), em vigor a partir de 2017-07-28\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2014-571049), em vigor a partir de 2014-01-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 115/2013 - Diário da República n.º 58/2013, Série I de 2013-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/115-2013-259402), em vigor a partir de 2013-03-23"
+  },
+  "172902992": {
+   "fragment_id": "107775879",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição transitória",
+   "in_force_from": "2021-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 207/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/207-2021-172878296), em vigor a partir de 2021-10-16"
+   ],
+   "markdown": "###### Artigo 4.º — Disposição transitória\n\nO preço de cada aposta é fixado em 1,00 (euro).\n\n> Nota: [Artigo 3.º, Portaria n.º 207/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/207-2021-172878296) A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do concurso n.º 85 do «Totoloto».\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 207/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/207-2021-172878296), em vigor a partir de 2021-10-16"
+  },
+  "172902993": {
+   "fragment_id": "107775885",
+   "type": 11,
+   "heading": "Artigo 10.º — Distribuição das receitas para prémios",
+   "in_force_from": "2021-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 207/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/207-2021-172878296), em vigor a partir de 2021-10-16"
+   ],
+   "markdown": "###### Artigo 10.º — Distribuição das receitas para prémios\n\n1 - Da receita de cada concurso, constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 55 %.\n\n2 - Da importância prevista no número anterior poderá ser destinada a um fundo especial para jackpots a percentagem que venha a ser definida legalmente.\n\n3 - Da importância para prémios, 10 % destinam-se à constituição e manutenção de um fundo que garanta o valor mínimo de 1 000 000,00 (euro) para o primeiro prémio, assegure, quando necessário, o direito ao pagamento dos prémios da categoria especial de prémios, denominada 'Número da Sorte' e, ainda, quando o Departamento de Jogos o determine, seja utilizado para incrementar o valor do primeiro prémio ou de outras categorias de prémios a concurso.\n\n4 - A importância destinada a prémios, depois de deduzidos os montantes referidos nos números anteriores, é dividida em seis partes, na forma seguinte:\n\na) 40,46 % para o 1.º prémio;\n\nb) 4 % para o 2.º prémio;\n\nc) 5 % para o 3.º prémio;\n\nd) 5 % para o 4.º prémio;\n\ne) 30 % para o 5.º prémio;\n\nf) 15,54 % para a categoria especial de prémio denominado «Número da Sorte».\n\n5 - Têm direito a prémio as apostas que apresentem os seguintes prognósticos:\n\na) Ao 1.º, as que tenham prognosticado os 5 números extraídos na primeira esfera de entre 49 números, bem como o número extraído da segunda esfera de entre os 13 números possíveis, denominado «Número da Sorte»;\n\nb) Ao 2.º, as que tenham prognosticado 5 números extraídos na primeira esfera de entre 49 números;\n\nc) Ao 3.º, as que tenham prognosticado 4 dos 5 números extraídos na primeira esfera de entre 49 números;\n\nd) Ao 4.º, as que tenham prognosticado 3 dos 5 números extraídos na primeira esfera de entre 49 números;\n\ne) Ao 5.º, as que tenham prognosticado 2 dos 5 números extraídos na primeira esfera de entre 49 números;\n\nf) Ao prémio de categoria especial denominado «Número da Sorte», as que tenham prognosticado o respectivo número extraído de entre os 13 números possíveis na segunda esfera.\n\n6 - Os prémios a que têm direito as apostas múltiplas, nas condições do número anterior, encontram-se na tabela constante do anexo ii.\n\n7 - Quando não forem escrutinadas apostas com direito ao 1.º prémio, o montante a ele destinado irá acrescer ao montante do 1.º prémio do concurso imediatamente seguinte.\n\n8 - Quando não forem escrutinadas apostas com direito ao 2.º prémio ou a algum dos restantes, os respectivos montantes acrescem ao prémio da categoria imediatamente inferior até ao 5.º prémio, ou ao montante do 1.º prémio, no caso de não serem escrutinadas apostas com direito ao 5.º prémio.\n\n9 - Quando não forem escrutinadas apostas com direito a prémio em qualquer das cinco primeiras categorias estabelecidas, os montantes correspondentes acrescem aos que vierem a ser apurados para cada categoria no concurso imediatamente seguinte.\n\n10 - A importância de cada um dos cinco primeiros prémios é repartida em quinhões iguais, pelas apostas premiadas de cada uma das cinco primeiras categorias de prémios referidas no n.º 4, arredondada para a quantia em cêntimos imediatamente inferior.\n\n11 - Nos termos do número anterior, se o quinhão de cada uma das apostas com direito a prémio for menor do que o quinhão que cabe a cada uma das apostas com direito a prémio da categoria imediatamente inferior, os montantes correspondentes às duas categorias são adicionados, sendo o total dividido entre ambas, em quinhões iguais.\n\n12 - Ao prémio de categoria especial denominado «Número da Sorte» corresponde a importância despendida pelo jogador com as apostas adquiridas no Totoloto no respectivo concurso, exceptuando o JOKER.\n\n13 - O prémio de categoria especial denominado «Número da Sorte» é cumulativo com as restantes categorias de prémios.\n\n14 - O «Número da Sorte» apenas permite conferir direito a um 1.º prémio por cada bilhete ou conjunto de apostas.\n\n15 - Quando não forem escrutinadas apostas com direito ao prémio de categoria especial denominado «Número da Sorte» ou o montante correspondente ao número de apostas com prémio não atingir a totalidade do valor a elas destinado, o remanescente integra o fundo previsto no n.º 3.\n\n> Nota: [Artigo 3.º, Portaria n.º 207/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/207-2021-172878296) A presente alteração entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do concurso n.º 85 do «Totoloto».\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 207/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/207-2021-172878296), em vigor a partir de 2021-10-16"
+  }
+ }
+}

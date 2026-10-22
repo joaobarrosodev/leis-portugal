@@ -1,0 +1,285 @@
+---
+schema_version: '1.0'
+id: pt:dre:576540:por
+title: Decreto Regulamentar Regional n.º 40/81/A
+short_title: null
+summary: Cria na Secretaria Regional da Administração Pública a Inspecção Administrativa Regional (IAR)
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Administração Pública
+proposing_entity: null
+official_number: 40/81/A
+official_date: null
+publication_date: '1981-08-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 183/1981, Série I de 1981-08-11
+  number: '183'
+  series: I
+  supplement: null
+  pages: 2075 - 2078
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/08/18300/20752078.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '576540'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/40-1981-576540
+  internal: pt:dre:576540:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1981-576540
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1981-576540
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-02-15T00:00:00Z'
+integrity:
+  source_sha256: 767846dfdd9b4aa98fd2518698963e11024c9425c0a42c7b19a87c8abe195fe3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1981/DRE-1981-40-576540.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:197555:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 40/81/A
+
+Considerando a competência do Governo Regional quanto ao exercício de tutela sobre a administração autárquica;
+
+Considerando que a administração regional autónoma, após cerca de cinco anos, constitui, pelas suas atribuições, competências e dimensão, um sector fundamental da Administração Pública dos Açores;
+
+Considerando ainda a existência de institutos públicos, empresas públicas e outras pessoas colectivas de direito público sujeitas à tutela do Governo Regional:
+
+O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
+
+### CAPÍTULO I — Organização e competência
+
+###### Artigo 1.º - 1 - É criada na Secretaria Regional da Administração Pública a Inspecção Administrativa Regional (IAR), incumbindo-lhe preparar e executar as acções ligadas à competência do Governo Regional quanto ao exercício da tutela inspectiva sobre a administração local autárquica, bem como a inspecção administrativa dos serviços da administração regional.
+
+2 - Poderá também a IAR prestar colaboração a quaisquer departamentos do Governo Regional relativamente à inspecção respeitante às pessoas colectivas de direito público, institutos públicos ou empresas públicas sujeitas a intervenção tutelar do Governo Regional.
+
+3 - Compete ainda à IAR propor medidas legislativas e administrativas tendentes a facilitar, em geral, função inspectiva e de controle.
+
+4 - As atribuições e competência da IAR não prejudicam o exercício normal dos poderes legais de fiscalização, de disciplina e de controle dos órgãos e serviços das administrações regional e local.
+
+###### Art. 2.º - 1 - No exercício da tutela inspectiva do Governo Regional sobre as autarquias locais, contribuindo para o seu prestígio, dignidade, autonomia e aperfeiçoamento dos serviços, compete à IAR:
+
+a) Averiguar do cumprimento das obrigações impostas por lei às autarquias locais;
+
+b) Proceder às visitas de inspecção ordinária previstas no respectivo plano, designadamente de acordo com o questionário referido no artigo 6.º, e às visitas de inspecção extraordinária superiormente determinadas;
+
+c) Prestar aos responsáveis pelos serviços das autarquias locais os esclarecimentos necessários para o suprimento das deficiências e irregularidades encontradas;
+
+d) Instruir todos os processos que lhe sejam cometidos pelo Secretário Regional da Administração Pública;
+
+e) Remeter cópia dos relatórios elaborados em resultado das visitas de inspecção ao membro do Governo com competência própria nas matérias neles versadas;
+
+f) Estudar e propor medidas que visem uma maior eficiência do exercício da tutela inspectiva do Governo sobre as autarquias;
+
+g) Informar acerca da competência e zelo dos funcionários do quadro geral administrativo, utilizando para o efeito boletim de modelo uniforme devidamente aprovado, e propor a instauração de processos disciplinares.
+
+2 - As faltas disciplinares detectadas no decurso das visitas de inspecção ou de inquéritos e sindicâncias às autarquias locais devem de imediato ser objecto do processo respectivo, o qual será apresentado à entidade com competência disciplinar para apreciação e decisão final, sem prejuízo do que se encontra previsto na lei geral.
+
+###### Art. 3.º A inspecção a exercer sobre os serviços da administração regional tem em vista o aperfeiçoamento dos serviços e correcção de anomalias, bem como a reintegração do interesse público e da legalidade violados, competindo-lhe, designadamente:
+
+a) Averiguar do cumprimento da lei;
+
+b) Prestar aos responsáveis pelos serviços os esclarecimentos necessários para o suprimento das deficiências e irregularidades encontradas;
+
+c) Instruir os processos disciplinares que lhe sejam cometidos pelo Secretário Regional da Administração Pública;
+
+d) Remeter cópia dos relatórios elaborados em resultado das visitas de inspecção aos serviços da Secretaria Regional com competência própria nas matérias neles versadas;
+
+e) Comunicar ao membro do Governo competente as faltas disciplinares detectadas e instruir os processos disciplinares que o mesmo determinar;
+
+f) Proceder à elaboração de inquéritos e sindicâncias sempre que tal lhe seja determinado pelo Secretário Regional da Administração Pública.
+
+###### Art. 4.º A acção a exercer pela IAR nos termos do n.º 2 do artigo 1.º será definida em cada caso por despacho conjunto do Secretário Regional da Administração Pública e do membro do Governo interessado.
+
+### CAPÍTULO II — Dos funcionários e serviços em geral
+
+#### SECÇÃO I — Do inspector regional
+
+###### Art. 5.º A IAR será chefiada por um inspector regional, equiparado para todos os efeitos a director regional.
+
+###### Art. 6.º Competência específica do inspector regional:
+
+Compete especialmente ao inspector regional:
+
+a) Organizar e dirigir os serviços de inspecção, orientando e fiscalizando a acção dos seus subordinados;
+
+b) Emitir parecer sobre o relatório dos processos e submetê-los à apreciação do Secretário Regional;
+
+c) Distribuir pelos seus subordinados os serviços de inspecção, sindicâncias, inquéritos e processos disciplinares, bem como os serviços de visita para simples orientação dos órgãos e serviços das administrações regional e local autárquica;
+
+d) Elaborar relatório anual sobre o funcionamento dos serviços;
+
+e) Dar conhecimento ao Secretário Regional das deficiências encontradas nos serviços e dos incidentes ocorridos na actividade da inspecção, propondo o que entender conveniente ao bom funcionamento dos mesmos serviços;
+
+f) Propor à aprovação do Secretário Regional os modelos de questionário a preencher pelos funcionários encarregados das visitas de inspecção ou orientação e estabelecer as normas que devem ser adoptadas na organização dos processos;
+
+g) Desempenhar as demais funções que por lei ou determinação superior lhe sejam cometidas;
+
+h) Elaborar e submeter à aprovação do Secretário Regional os planos das visitas de inspecção ordinária;
+
+i) Propor inquéritos e sindicâncias, designadamente em resultado das visitas de inspecção;
+
+j) Fixar e prorrogar os prazos para conclusão dos serviços e apresentação do relatório, salvo nos casos em que o prazo tenha sido fixado superiormente.
+
+#### SECÇÃO II — Competência e direitos do pessoal de inspecção
+
+###### Art. 7.º - 1 - Aos inspectores compete, em geral, a execução de todas as tarefas inerentes ao exercício das actividades cometidas à IAR pelo presente diploma, designadamente a organização e instrução dos processos de inspecção, sindicância, inquérito, disciplinares ou relativos a serviços de averiguação ou esclarecimento, e ainda a realização, na sede da IAR, de trabalhos que lhes forem especialmente confiados.
+
+2 - Os trabalhos externos que visem especialmente conhecer da actividade dos órgãos das autarquias locais serão, em todos os casos, confiados à chefia e responsabilidade de inspector de categoria não inferior à de inspector principal.
+
+###### Art. 8.º Os funcionários da IAR gozam, para além dos enunciados, dos direitos e prerrogativas seguintes:
+
+a) A utilizar nos locais de trabalho, por cedência das respectivas entidades inspeccionadas, instalações servidas das indispensáveis condições para o eficaz desempenho das suas funções;
+
+b) A corresponder-se, quando em serviço fora da sede da IAR, com todas as autoridades e, bem assim, com quaisquer pessoas singulares ou colectivas sobre assuntos de serviço da sua competência;
+
+c) Ao acesso e livre trânsito em todos os serviços e instalações das entidades inspeccionadas, sempre que necessário ao desempenho das suas funções.
+
+###### Art. 9.º Os funcionários de inspecção não poderão ser mandados inspeccionar serviços, ou neles executar inquéritos, sindicâncias e processos disciplinares, quando ali prestem actividade parentes seus ou afins em qualquer grau da linha recta ou até ao 3.º grau da linha colateral.
+
+###### Art. 10.º - 1 - O pessoal de inspecção, sempre que, por motivo de serviço, se desloque da sua residência oficial, tem direito a ajudas de custo e à utilização de transportes em 1.ª classe, nas condições estabelecidas na lei geral aplicável.
+
+2 - Nos casos em que não consiga obter alojamento condigno na localidade onde deva prestar serviço, poderá o pessoal de inspecção escolhê-lo em localidade vizinha, com direito a transporte, dando do facto conhecimento e justificação ao inspector regional.
+
+3 - É proibido ao pessoal de inspecção aceitar hospedagem de funcionários e agentes da administração regional e das autarquias locais, seus órgãos e serviços quando estes forem objecto de inspecção.
+
+4 - Tendo em conta a natureza específica das suas funções, quando numa mesma localidade se encontrem deslocados inspectores de categorias diferentes, serão a todos abonadas ajudas de custo do quantitativo que competir ao inspector de maior categoria.
+
+###### Art. 11.º Enquanto não for publicado o regime geral de gratificações da função inspectiva, o pessoal tem direito às gratificações que são atribuídas às categorias correspondentes da Inspecção-Geral da Administração Interna.
+
+#### SECÇÃO III — Funcionamento do serviço
+
+###### Art. 12.º - 1 - Os planos a que se refere a alínea b) do artigo 2.º devem ser elaborados de forma que cada município seja, em princípio, objecto de uma visita de inspecção pelo menos uma vez durante o período normal do mandato dos seus órgãos.
+
+2 - As visitas de inspecção deverão guiar-se por um questionário sistemático que abranja os aspectos essenciais à averiguação da actuação legal dos órgãos e serviços autárquicos.
+
+###### Art. 13.º As declarações, depoimentos e peritagens realizar-se-ão de acordo com a lei geral, tendo-se em conta, designadamente, o disposto no artigo 64.º do [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro.
+
+###### Art. 14.º Nas visitas de inspecção não devem, em regra, ser ouvidas testemunhas ou tomadas declarações.
+
+###### Art. 15.º Os funcionários de inspecção, quando assim o exigirem as necessidades dos trabalhos que estejam a executar, podem determinar a interrupção, pelo menor período de tempo possível, do gozo da licença para férias de qualquer funcionário dos serviços visitados cuja imediata presença se tome imprescindível.
+
+###### Art. 16.º - 1 - Os serviços externos deverão ser iniciados e concluídos dentro do prazo que, para cada caso, for superiormente fixado.
+
+2 - Só com autorização do Secretário Regional da Administração Pública poderá a duração de qualquer serviço exceder o prazo de noventa dias.
+
+3 - No final de cada serviço será elaborado relatório dos trabalhos realizados e, quando se trate de visitas de inspecção, deverá nele chamar-se a atenção para os aspectos que especialmente o justifiquem e, bem assim, sugerir-se as providências que se entenda deverem ser adoptadas.
+
+4 - O relatório, com o respectivo processo, será entregue até vinte dias depois de terminado o serviço a que respeita, salvo se prazo diferente for fixado pelo inspector regional.
+
+### CAPÍTULO III — Pessoal
+
+###### Art. 17.º - 1 - As categorias da IAR são as constantes do quadro anexo a este diploma, que dele faz parte integrante.
+
+2 - Quando a natureza do serviço o exigir, será obtido o concurso de técnicos ou profissionais especializados de departamentos das administrações central, regional ou local, de empresas e institutos públicos, em regime de requisição, ou do sector privado na forma que for acordada.
+
+3 - Ao pessoal referido nos artigos anteriores aplica-se o disposto nos artigos 9.º, 10.º e 11.º e nas alíneas a) e c) do artigo 8.º
+
+###### Art. 18.º - 1 - O lugar de inspector superior administrativo será provido, mediante provas de avaliação curricular, que incluirão a discussão de trabalhos apresentados para o efeito, de entre inspectores coordenadores administrativos, licenciados, com a classificação de serviço de Muito bom e com um mínimo de três anos de bom e efectivo serviço na categoria e nove anos na carreira.
+
+2 - Os lugares de inspector administrativo coordenador serão providos de entre:
+
+a) Inspectores administrativos principais com mais de três anos de bom e efectivo serviço na categoria e seis na carreira, habilitados com a licenciatura adequada;
+
+b) Técnicos superiores principais, licenciados, com mais de seis anos na carreira que prestem serviço na SRAP, no MAI, no MRA ou na administração autárquica;
+
+c) Técnicos superiores de 1.ª classe, licenciados, com, pelo menos, três anos de bom e efectivo serviço na categoria e seis na carreira.
+
+3 - Os lugares de inspector administrativo principal serão providos de entre:
+
+a) Inspectores administrativos com, pelo menos, três anos de bom e efectivo serviço na categoria;
+
+b) Técnicos superiores de 1.ª classe que prestem serviço na SRAP, no MAI, no MRA ou na administração autárquica;
+
+c) Técnicos superiores de 2.ª classe com, pelo menos, três anos de exercício de funções nos departamentos e organismos referidos na alínea anterior;
+
+d) Chefes de secretaria de municípios urbanos de 2.ª ordem com, pelo menos, três anos na carreira;
+
+e) Chefes de repartição com, pelo menos, três anos de serviço na categoria;
+
+f) Chefes de secretaria de município rural de 2.ª ordem com, pelo menos, três anos na categoria.
+
+4 - Os lugares de inspector administrativo serão providos de entre:
+
+a) Licenciados em Direito ou com outra licenciatura adequada;
+
+b) Técnicos habilitados com curso superior adequado e que exerçam funções, há mais de três anos, na área administrativa;
+
+c) Chefes de secção de repartição de serviços administrativos com mais de três anos de bom e efectivo serviço na categoria;
+
+d) Chefes de secção dos serviços de contabilidade com mais de três anos de bom e efectivo serviço na categoria;
+
+e) Técnicos auxiliares principais com mais de cinco anos de exercício de funções na área administrativa;
+
+f) Chefes de secretaria de municípios com mais de três anos de bom e efectivo serviço na categoria.
+
+5 - O provimento dos lugares a que se referem os n.os 3 e 4 por não licenciados não pode exceder metade do número dos lugares do quadro.
+
+6 - O provimento nos lugares de inspector administrativo fica condicionado ao aproveitamento em estágio com a duração de doze meses, devendo ser incumbidos de trabalhos adequados aos aperfeiçoamentos da sua formação, sendo remunerados pelo vencimento da letra H, salvo se, sendo funcionários, vencerem por letra superior, caso em que manterão o respectivo vencimento.
+
+7 - O tempo de serviço prestado durante o estágio a que se refere o número anterior será contado para todos os efeitos legais e, se o estagiário for funcionário, não abre vaga, durante o estágio, no lugar de origem, a ele regressando se não obtiver aproveitamento.
+
+Aprovado pelo Governo Regional em 3 de Junho de 1981.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 22 de Julho de 1981.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+
+Quadro a que se refere o artigo 17.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/18300/20752078.pdf))](https://files.diariodarepublica.pt/1s/1981/08/18300/20752078.pdf)
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**

@@ -1,0 +1,625 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:540659:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2006-75079803",
+ "dre_path": "/dr/detalhe/lei/43-2006-540659",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75086575",
+    "75086577",
+    "75086578",
+    "75086579",
+    "75086580",
+    "75086581",
+    "75086582",
+    "75086583",
+    "75086584",
+    "75086586",
+    "75086587",
+    "75086588",
+    "75086590"
+   ]
+  },
+  {
+   "date": "2012-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:551986:por",
+     "title": "Lei n.º 21/2012",
+     "published": "2012-05-17",
+     "dre_path": "/dr/detalhe/lei/21-2012-551986"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "75086575",
+    "75093798",
+    "75093804",
+    "75093810",
+    "75093816",
+    "75093822",
+    "75093828",
+    "75093834",
+    "75093840",
+    "75093846",
+    "75093852",
+    "75093858",
+    "75093864",
+    "75093870",
+    "75093876",
+    "75093880"
+   ]
+  },
+  {
+   "date": "2018-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115203957:por",
+     "title": "Lei n.º 18/2018",
+     "published": "2018-05-02",
+     "dre_path": "/dr/detalhe/lei/18-2018-115203957"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "75086575",
+    "75093798",
+    "75093804",
+    "75093810",
+    "75093816",
+    "115174047",
+    "115174048",
+    "75093834",
+    "75093840",
+    "75093846",
+    "75093852",
+    "75093858",
+    "75093864",
+    "75093870",
+    "75093876",
+    "75093880"
+   ]
+  },
+  {
+   "date": "2020-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:147096350:por",
+     "title": "Lei n.º 64/2020",
+     "published": "2020-11-02",
+     "dre_path": "/dr/detalhe/lei/64-2020-147096350"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "75086575",
+    "75093798",
+    "75093804",
+    "75093810",
+    "75093816",
+    "147219498",
+    "115174048",
+    "75093834",
+    "75093840",
+    "75093846",
+    "75093852",
+    "75093858",
+    "75093864",
+    "75093870",
+    "75093876",
+    "75093880"
+   ]
+  },
+  {
+   "date": "2023-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:219915286:por",
+     "title": "Lei n.º 44/2023",
+     "published": "2023-08-14",
+     "dre_path": "/dr/detalhe/lei/44-2023-219915286"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Adita Artigo 7.º-B",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "75086575",
+    "75093798",
+    "75093804",
+    "219822457",
+    "219822463",
+    "219822464",
+    "219822465",
+    "219822466",
+    "219822467",
+    "219822468",
+    "219822469",
+    "219990576",
+    "219990577",
+    "219990578",
+    "219990579",
+    "219990580",
+    "219990581",
+    "219990582"
+   ]
+  }
+ ],
+ "fragments": {
+  "75086575": {
+   "fragment_id": "75079804",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 43/2006\n\nde 25 de Agosto\n\nAcompanhamento, apreciação e pronúncia pela Assembleia da República no âmbito do processo de construção da União Europeia\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "75086577": {
+   "fragment_id": "75079806",
+   "type": 11,
+   "heading": "Artigo 1.º — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Disposição geral\n\n1 - A Assembleia da República emite pareceres sobre matérias da esfera da sua competência legislativa reservada pendentes de decisão em órgãos da União Europeia e em conformidade com o princípio da subsidiariedade, além de acompanhar e apreciar a participação de Portugal na construção da União Europeia, nos termos da presente lei.\n\n2 - Para o efeito do desempenho das suas funções, é estabelecido um processo regular de consulta entre a Assembleia da República e o Governo."
+  },
+  "75086578": {
+   "fragment_id": "75079807",
+   "type": 11,
+   "heading": "Artigo 2.º — Pronúncia no âmbito de matérias de competência legislativa reservada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pronúncia no âmbito de matérias de competência legislativa reservada\n\n1 - Quando estiverem pendentes de decisão em órgãos da União Europeia matérias que recaiam na esfera da competência legislativa reservada da Assembleia da República, esta pronuncia-se nos termos dos números seguintes.\n\n2 - Sempre que ocorrer a situação referida no número anterior, o Governo deve informar a Assembleia da República e solicitar-lhe parecer, enviando, em tempo útil, informação que contenha um resumo do projecto ou proposta, uma análise das suas implicações e a posição que o Governo pretende adoptar, se já estiver definida.\n\n3 - O parecer é preparado pela Comissão de Assuntos Europeus, em articulação com as comissões especializadas em razão da matéria.\n\n4 - Uma vez aprovado na Comissão, o parecer é submetido a plenário, para efeitos de discussão e votação, excepto em caso de fundamentada urgência, circunstância em que é suficiente a deliberação da Comissão.\n\n5 - Em qualquer fase subsequente do processo de decisão dos órgãos da União Europeia, a Assembleia pode, por iniciativa própria ou mediante iniciativa do Governo, elaborar e votar novos pareceres."
+  },
+  "75086579": {
+   "fragment_id": "75079808",
+   "type": 11,
+   "heading": "Artigo 3.º — Parecer sobre a conformidade com o princípio da subsidiariedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Parecer sobre a conformidade com o princípio da subsidiariedade\n\n1 - A Assembleia da República, por via de resolução, pode dirigir aos Presidentes do Parlamento Europeu, do Conselho, da Comissão Europeia e, se for caso disso, do Comité das Regiões e do Comité Económico e Social um parecer fundamentado sobre as razões do incumprimento da observância do princípio da subsidiariedade de uma proposta de texto legislativo ou regulamentar de que tenha tomado conhecimento, nos termos do artigo 5.º da presente lei, ou de propostas de alteração subsequentes.\n\n2 - Em caso de fundamentada urgência, é suficiente um parecer emitido pela Comissão de Assuntos Europeus.\n\n3 - Quando o parecer se refira a matéria da competência das Assembleias Legislativas das Regiões Autónomas, estas devem ser consultadas em tempo útil."
+  },
+  "75086580": {
+   "fragment_id": "75079809",
+   "type": 11,
+   "heading": "Artigo 4.º — Meios de acompanhamento e apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Meios de acompanhamento e apreciação\n\n1 - A Assembleia da República procede ao acompanhamento e à apreciação da participação portuguesa no processo de construção da União Europeia, designadamente, através da realização de:\n\na) Debate em sessão plenária, com a participação do Governo, após a conclusão do último Conselho Europeu de cada presidência da União Europeia, podendo também o debate do 1.º semestre incluir a apreciação da estratégia política anual da Comissão Europeia e o do 2.º semestre a apreciação do seu programa legislativo e de trabalho;\n\nb) Debate anual em sessão plenária, com a presença do Governo, para discussão e aprovação do relatório anual enviado pelo Governo, nos termos do disposto no n.º 3 do artigo 5.º;\n\nc) Reuniões nas semanas anterior e posterior à data da realização do Conselho Europeu, entre a Comissão de Assuntos Europeus e o Governo, excepto quando, nos termos da alínea a), o debate se encontre agendado em sessão plenária;\n\nd) Reuniões conjuntas entre a Comissão de Assuntos Europeus, a comissão especializada em razão da matéria e o membro do Governo competente, na semana anterior ou posterior à data da realização do Conselho, nas suas diferentes configurações.\n\n2 - A Assembleia da República, por sua iniciativa ou a pedido do Governo e no exercício das suas competências, aprecia, nos termos regimentais, os projectos de legislação e de orientação das políticas e acções da União Europeia.\n\n3 - A Assembleia da República aprecia a programação financeira da construção da União Europeia, designadamente no que respeita aos fundos estruturais e ao Fundo de Coesão, nos termos da lei do enquadramento do Orçamento do Estado, das Grandes Opções do Plano, do Plano de Desenvolvimento Regional ou de outros programas nacionais em que se preveja a utilização daqueles fundos.\n\n4 - A Assembleia da República ou o Governo podem ainda, sem prejuízo do disposto nos números anteriores, suscitar o debate sobre todos os assuntos e posições em discussão nas instituições europeias que envolvam matéria da sua competência."
+  },
+  "75086581": {
+   "fragment_id": "75079810",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação à Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informação à Assembleia da República\n\n1 - O Governo deve manter informada, em tempo útil, a Assembleia da República sobre os assuntos e posições a debater nas instituições europeias, bem como sobre as propostas em discussão e as negociações em curso, enviando, logo que sejam apresentados ou submetidos ao Conselho, toda a documentação relevante, designadamente:\n\na) Projectos de acordos ou tratados a concluir pelas Comunidades Europeias, pela União Europeia ou entre Estados membros no contexto da União Europeia, sem prejuízo das regras de reserva ou confidencialidade que vigorem para o processo negocial;\n\nb) Propostas de actos vinculativos e não vinculativos a adoptar pelas instituições da União Europeia, com excepção dos actos de gestão corrente;\n\nc) Projectos de actos de direito complementar, nomeadamente de decisões de representantes dos governos dos Estados membros reunidos em Conselho;\n\nd) A estratégia política anual e o programa legislativo e de trabalho da Comissão Europeia, assim como qualquer outro instrumento de programação legislativa;\n\ne) Resoluções legislativas sobre posições comuns do Conselho;\n\nf) Autorizações concedidas ao Conselho para deliberar por maioria qualificada, nos casos em que as deliberações sejam tomadas, em regra, por unanimidade;\n\ng) Ordens do dia e resultados das sessões do Conselho, incluindo as actas das sessões em que este delibere sobre propostas legislativas;\n\nh) Relatórios sobre a aplicação do princípio da subsidiariedade;\n\ni) Documentos de consulta;\n\nj) Documentos referentes às grandes linhas de orientação económica e social, bem como orientações sectoriais;\n\nl) Relatório anual do Tribunal de Contas Europeu.\n\n2 - Os deputados à Assembleia da República podem requerer a documentação comunitária disponível sobre o desenvolvimento das propostas referidas no número anterior.\n\n3 - O Governo apresenta à Assembleia da República, no 1.º trimestre de cada ano, um relatório que permita o acompanhamento da participação de Portugal no processo de construção da União Europeia, devendo aquele relatório informar, nomeadamente, sobre as deliberações com maior impacte para Portugal tomadas no ano anterior pelas instituições europeias e as medidas postas em prática pelo Governo em resultado dessas deliberações."
+  },
+  "75086582": {
+   "fragment_id": "75079811",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissão de Assuntos Europeus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comissão de Assuntos Europeus\n\n1 - A Comissão de Assuntos Europeus é a comissão parlamentar especializada permanente para o acompanhamento e apreciação global dos assuntos europeus, sem prejuízo da competência do plenário e das outras comissões especializadas.\n\n2 - Compete especificamente à Comissão de Assuntos Europeus:\n\na) Apreciar todos os assuntos que interessem a Portugal no quadro da construção europeia, das instituições europeias ou no da cooperação entre Estados membros da União Europeia, designadamente a actuação do Governo respeitante a tais assuntos;\n\nb) Preparar parecer quando estiverem pendentes de decisão em órgãos da União Europeia matérias que recaiam na esfera da competência legislativa reservada da Assembleia da República;\n\nc) Incentivar uma maior participação da Assembleia da República na actividade desenvolvida pelas instituições europeias;\n\nd) Articular com as comissões especializadas competentes em razão da matéria a troca de informações e formas adequadas de colaboração para alcançar uma intervenção eficiente da Assembleia da República em matérias respeitantes à construção da União Europeia, designadamente no que se refere à elaboração do parecer referido no artigo 3.º;\n\ne) Formular projectos de resolução destinados à apreciação de propostas de actos comunitários de natureza normativa;\n\nf) Realizar anualmente uma reunião com os membros das Assembleias Legislativas das Regiões Autónomas e solicitar-lhes parecer, nos termos do n.º 3 do artigo 3.º e sempre que estiverem em causa competências legislativas regionais;\n\ng) Intensificar o intercâmbio entre a Assembleia da República e o Parlamento Europeu, propondo a concessão de facilidades recíprocas adequadas e encontros regulares com os deputados interessados, designadamente os eleitos em Portugal;\n\nh) Promover reuniões ou audições com as instituições, órgãos e agências da União Europeia sobre assuntos relevantes para a participação de Portugal na construção da União Europeia;\n\ni) Promover a cooperação interparlamentar no seio da União Europeia;\n\nj) Designar os representantes portugueses à Conferência dos Órgãos Especializados em Assuntos Comunitários (COSAC) dos parlamentos nacionais, apreciar a sua actuação e os resultados da Conferência;\n\nl) Proceder à audição das personalidades a designar ou a nomear pelo Governo Português e à apreciação dos seus curricula, nos casos previstos nos artigos 10.º e 11.º;\n\nm) Promover audições e debates com representantes da sociedade civil sobre questões europeias, contribuindo para a criação de um espaço público europeu ao nível nacional."
+  },
+  "75086583": {
+   "fragment_id": "75079812",
+   "type": 11,
+   "heading": "Artigo 7.º — Processo de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Processo de apreciação\n\n1 - A Comissão de Assuntos Europeus procede à distribuição das propostas de conteúdo normativo, bem como de outros documentos de orientação referidos no artigo 5.º, quer pelos seus membros, quer pelas outras comissões especializadas em razão da matéria, para conhecimento ou parecer.\n\n2 - Sempre que tal seja solicitado pela Comissão de Assuntos Europeus, as outras comissões especializadas emitem pareceres fundamentados.\n\n3 - Os pareceres a que se referem os números anteriores podem concluir com propostas concretas, para apreciação pela Comissão de Assuntos Europeus.\n\n4 - Sempre que delibere elaborar relatório sobre matéria da sua competência, a Comissão de Assuntos Europeus anexa os pareceres solicitados a outras comissões.\n\n5 - Quando esteja em causa a apreciação de propostas de actos comunitários de natureza normativa, a Comissão de Assuntos Europeus, recolhidos os pareceres necessários, pode formular um projecto de resolução, a submeter a plenário.\n\n6 - Nos restantes casos, a Comissão de Assuntos Europeus formula pareceres sobre as matérias em relação às quais seja chamada a pronunciar-se, podendo concluir com uma proposta concreta ou com um projecto de resolução.\n\n7 - Os relatórios e pareceres emitidos pela Comissão de Assuntos Europeus são enviados ao Presidente da Assembleia da República e ao Governo.\n\n8 - O relatório anual do Tribunal de Contas Europeu é sujeito a parecer da comissão competente em razão da matéria e enviado à Comissão de Assuntos Europeus."
+  },
+  "75086584": {
+   "fragment_id": "75079813",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos humanos, técnicos e financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recursos humanos, técnicos e financeiros\n\nA Assembleia da República deve dotar a Comissão de Assuntos Europeus dos recursos humanos, técnicos e financeiros indispensáveis ao exercício das suas competências nos termos da presente lei."
+  },
+  "75086586": {
+   "fragment_id": "75079815",
+   "type": 11,
+   "heading": "Artigo 9.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Âmbito\n\n1 - A selecção, nomeação ou designação pelo Governo de personalidades para cargos nas instituições, órgãos ou agências da União Europeia cujo preenchimento não esteja sujeito a concurso, submete-se ao processo e regras definidos na presente lei.\n\n2 - O presente regime não se aplica aos candidatos a membro da Comissão Europeia, do Comité das Regiões e do Comité Económico e Social, bem como aos candidatos a deputado do Parlamento Europeu."
+  },
+  "75086587": {
+   "fragment_id": "75079816",
+   "type": 11,
+   "heading": "Artigo 10.º — Cargos de natureza não jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cargos de natureza não jurisdicional\n\n1 - Previamente à nomeação ou designação, pelo Governo, de personalidades para cargos nas instituições ou órgãos da União Europeia de natureza não jurisdicional, os respectivos nomes e curricula são transmitidos à Assembleia da República, devendo a Comissão de Assuntos Europeus proceder à sua audição e à apreciação dos respectivos curricula.\n\n2 - O procedimento do número anterior aplica-se à nomeação ou designação para cargos dirigentes das agências europeias, quando tal seja compatível com o específico processo de selecção e escolha de acordo com as regras da União Europeia."
+  },
+  "75086588": {
+   "fragment_id": "75079817",
+   "type": 11,
+   "heading": "Artigo 11.º — Cargos de natureza jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cargos de natureza jurisdicional\n\n1 - Previamente à nomeação ou designação, pelo Governo, de personalidades para cargos de natureza jurisdicional, designadamente de juiz do Tribunal de Justiça, juiz do Tribunal de Primeira Instância, juiz do Tribunal de Contas e advogado-geral, os respectivos nomes e curricula são transmitidos à Assembleia da República, devendo a Comissão de Assuntos Europeus proceder à sua audição e à apreciação dos respectivos curricula.\n\n2 - Para efeitos do número anterior o Governo transmitirá uma lista de, pelo menos, três nomes de candidatos para cada lugar a preencher."
+  },
+  "75086590": {
+   "fragment_id": "75079819",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação\n\nÉ revogada a Lei n.º 20/94, de 15 de Junho."
+  },
+  "75093798": {
+   "fragment_id": "75079806",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei define as competências da Assembleia da República no que toca ao acompanhamento, à apreciação e à pronúncia sobre a participação portuguesa no processo de construção da União Europeia e ao exercício dos poderes dos Parlamentos nacionais enunciados nos tratados que regem a União Europeia.\n\n2 - Para o efeito do desempenho das suas funções, é estabelecido um processo regular de consulta entre a Assembleia da República e o Governo.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093804": {
+   "fragment_id": "75094445",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Pronúncia",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 1.º-A — Pronúncia\n\nA Assembleia da República emite pareceres sobre matérias da esfera da sua competência legislativa reservada pendentes de decisão em órgãos da União Europeia e sobre as demais iniciativas das instituições europeias, assegurando a análise do seu conteúdo e, quando aplicável, o respeito pelos princípios da subsidiariedade e da proporcionalidade.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093810": {
+   "fragment_id": "75079807",
+   "type": 11,
+   "heading": "Artigo 2.º — Pronúncia no âmbito de matérias de competência legislativa reservada",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 2.º — Pronúncia no âmbito de matérias de competência legislativa reservada\n\n1 - Quando estiverem pendentes de decisão em órgãos da União Europeia matérias que recaiam na esfera da competência legislativa reservada da Assembleia da República, esta pronuncia-se nos termos dos números seguintes.\n\n2 - Sempre que ocorrer a situação referida no número anterior, o Governo deve informar a Assembleia da República e solicitar-lhe parecer, enviando, em tempo útil, informação que contenha um resumo do projecto ou proposta, uma análise das suas implicações e a posição que o Governo pretende adoptar, se já estiver definida.\n\n3 - O parecer é preparado pela Comissão de Assuntos Europeus, em articulação com as comissões parlamentares competentes em razão da matéria.\n\n4 - O parecer é submetido a Plenário, para efeitos de discussão e votação, sob a forma de projeto de resolução.\n\n5 - Em qualquer fase subsequente do processo de decisão dos órgãos da União Europeia, a Assembleia pode, por iniciativa própria ou mediante iniciativa do Governo, elaborar e votar novos pareceres ou atualizar aquele que tiver sido aprovado.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093816": {
+   "fragment_id": "75079808",
+   "type": 11,
+   "heading": "Artigo 3.º — Pronúncia sobre a conformidade com o princípio da subsidiariedade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 3.º — Pronúncia sobre a conformidade com o princípio da subsidiariedade\n\n1 - A Assembleia da República assegura o exercício dos poderes enunciados no Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia e no Protocolo Relativo à Aplicação dos Princípios da Subsidiariedade e da Proporcionalidade anexos aos tratados que regem a União Europeia.\n\n2 - O exercício dos poderes previstos no número anterior é assegurado pela Comissão de Assuntos Europeus, sem prejuízo da competência do Plenário e das outras comissões parlamentares.\n\n3 - O parecer que, tendo sido aprovado pela Comissão de Assuntos Europeus, conclua pela violação do princípio da subsidiariedade é submetido a Plenário, para efeitos de discussão e votação, sob a forma de projeto de resolução.\n\n4 - Quando o parecer se refira a matéria da competência das Assembleias Legislativas das Regiões Autónomas, estas devem ser consultadas em tempo útil.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093822": {
+   "fragment_id": "75079809",
+   "type": 11,
+   "heading": "Artigo 4.º — Meios de acompanhamento e apreciação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 4.º — Meios de acompanhamento e apreciação\n\n1 - A Assembleia da República procede ao acompanhamento e à apreciação da participação portuguesa no processo de construção da União Europeia, designadamente, através da realização de:\n\na) Debate em sessão plenária, com a participação do Primeiro-Ministro, iniciado pela sua intervenção, a realizar antes de cada Conselho Europeu, sem prejuízo das disposições legais e regimentais;\n\nb) Debate em sessão plenária, com a participação do Governo, no início de cada presidência do Conselho da União Europeia sobre as respetivas prioridades, podendo também o debate do 2.º semestre incluir a discussão e aprovação do relatório anual enviado pelo Governo, nos termos do disposto no n.º 4 do artigo 5.º;\n\nc) Debate em sessão plenária, com a participação do Governo, sobre o Estado da União, após o respetivo debate no Parlamento Europeu, a realizar no último trimestre de cada ano;\n\nd) Debate em sessão plenária, com a participação do Governo, sobre os diversos instrumentos da governação económica da União Europeia, que integram o Semestre Europeu, designadamente, sobre o Programa de Estabilidade e Crescimento, no 2.º trimestre do ano;\n\ne) Debate na Comissão de Assuntos Europeus, com a presença de membro do Governo, do Programa de Trabalho da Comissão Europeia, no último trimestre do ano;\n\nf) Reuniões nas semanas anterior e posterior à data da realização do Conselho Europeu, entre a Comissão de Assuntos Europeus e membro do Governo, exceto quando, nos termos da alínea a), o debate se encontre agendado para sessão plenária;\n\ng) Reuniões conjuntas, sempre que consideradas necessárias, entre a Comissão de Assuntos Europeus, a comissão parlamentar competente em razão da matéria e o membro do Governo competente, na semana anterior ou posterior à data da realização do Conselho, nas suas diferentes configurações;\n\nh) Reuniões na Comissão de Assuntos Europeus com membros do Governo sobre iniciativas europeias;\n\ni) Audição de personalidades nomeadas ou designadas pelo Governo para cargos da União Europeia.\n\n2 - A Assembleia da República, por sua iniciativa ou a pedido do Governo e no exercício das suas competências, aprecia, nos termos regimentais, os projetos de orientação das políticas e ações da União Europeia.\n\n3 - A Assembleia da República aprecia a programação financeira da União Europeia, designadamente no que respeita aos fundos estruturais e ao Fundo de Coesão, nos termos da Lei de Enquadramento Orçamental, das Grandes Opções do Plano, do Plano de Desenvolvimento Regional ou de outros programas nacionais em que se preveja a utilização daqueles fundos.\n\n4 - A Assembleia da República ou o Governo podem ainda, sem prejuízo do disposto nos números anteriores, suscitar o debate sobre todos os assuntos e posições em discussão nas instituições europeias que envolvam matéria da sua competência.\n\n5 - Nos termos do Protocolo Relativo à Aplicação dos Princípios da Subsidiariedade e da Proporcionalidade anexo aos tratados que regem a União Europeia, a Assembleia da República pode, através de resolução, instar o Governo a interpor recurso junto do Tribunal de Justiça da União Europeia com fundamento em violação do princípio da subsidiariedade por ato legislativo da União Europeia.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093828": {
+   "fragment_id": "75079810",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação à Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 5.º — Informação à Assembleia da República\n\n1 - O Governo deve manter informada, em tempo útil, a Assembleia da República sobre os assuntos e posições a debater nas instituições europeias, bem como sobre as propostas em discussão e as negociações em curso, enviando, logo que sejam apresentados ou submetidos ao Conselho, toda a documentação relevante, designadamente:\n\na) Projetos de acordos ou tratados a concluir pela União Europeia ou entre Estados membros no contexto da União Europeia, sem prejuízo das regras de reserva ou confidencialidade que vigorem para o processo negocial;\n\nb) Informação sobre os assuntos e posições a debater nas instituições europeias, bem como sobre as propostas em discussão e as negociações em curso;\n\nc) Posição que assumiu ou que pretende assumir a propósito de um projeto de ato legislativo de que a Assembleia da República tenha tomado conhecimento nos termos do Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia anexo aos tratados que regem a União Europeia, quando solicitado por esta.\n\nd) (Revogado.)\n\ne) (Revogado.)\n\nf) (Revogado.)\n\ng) (Revogado.)\n\nh) (Revogado.)\n\ni) (Revogado.)\n\nj) (Revogado.)\n\nl) (Revogado.)\n\n2 - Nos termos do Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia anexo aos tratados que regem a União Europeia, a Assembleia da República recebe, designadamente:\n\na) Propostas de atos legislativos e não legislativos a adotar pelas instituições da União Europeia;\n\nb) Análise anual de crescimento e programa de trabalho da Comissão Europeia, assim como qualquer outro instrumento de programação legislativa ou de estratégia política;\n\nc) Iniciativas tomadas pelo Conselho Europeu para autorizar o Conselho a deliberar por maioria qualificada, nos casos em que os tratados que regem a União Europeia determinem que a deliberação seja tomada por unanimidade;\n\nd) Iniciativas tomadas pelo Conselho Europeu para autorizar o Conselho a adotar atos legislativos de acordo com o processo legislativo ordinário, quando os tratados que regem a União Europeia determinem que o Conselho adote esses atos de acordo com o processo legislativo especial;\n\ne) Ordens do dia e resultados das sessões do Conselho, incluindo as atas das reuniões em que este delibere sobre projetos de atos legislativos;\n\nf) Relatórios sobre a aplicação do princípio da subsidiariedade;\n\ng) Documentos de consulta;\n\nh) Relatório anual do Tribunal de Contas Europeu.\n\n3 - Os Deputados à Assembleia da República podem requerer qualquer documentação nacional ou europeia disponível que releve para o exercício das competências previstas na presente lei.\n\n4 - O Governo apresenta à Assembleia da República, no 1.º trimestre de cada ano, um relatório sucinto que permita o acompanhamento da participação de Portugal no processo de construção da União Europeia, devendo aquele relatório informar, nomeadamente, sobre as deliberações com maior impacto para Portugal tomadas no ano anterior pelas instituições europeias e as medidas postas em prática pelo Governo em resultado dessas deliberações, com particular incidência na transposição de diretivas.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093834": {
+   "fragment_id": "75079811",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissão de Assuntos Europeus",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 6.º — Comissão de Assuntos Europeus\n\n1 - A Comissão de Assuntos Europeus é a comissão parlamentar competente para o acompanhamento e apreciação global dos assuntos europeus, sem prejuízo da competência do Plenário e das outras comissões parlamentares.\n\n2 - Compete especificamente à Comissão de Assuntos Europeus:\n\na) Apreciar todos os assuntos que interessem a Portugal no quadro da construção europeia, das instituições europeias ou no da cooperação entre Estados membros da União Europeia;\n\nb) Apreciar a atuação do Governo respeitante a tais assuntos, promovendo, designadamente, as audições previstas na presente lei;\n\nc) Apreciar, votar parecer e formular projeto de resolução quando estiverem pendentes de decisão em órgãos da União Europeia matérias que recaiam na esfera da competência legislativa reservada da Assembleia da República;\n\nd) Apreciar, votar parecer e, eventualmente, formular projeto de resolução sobre o cumprimento do princípio da subsidiariedade por projeto de ato legislativo;\n\ne) Incentivar uma maior participação da Assembleia da República na actividade desenvolvida pelas instituições europeias;\n\nf) Articular com as comissões parlamentares competentes em razão da matéria a troca de informações e formas adequadas de colaboração para alcançar uma intervenção eficiente da Assembleia da República em matérias respeitantes à construção da União Europeia;\n\ng) Preparar e aprovar parecer sobre documento que o Governo submeta à Assembleia da República ou esteja obrigado, legal ou regulamentarmente, a submeter a instituições da União Europeia;\n\nh) Realizar anualmente uma reunião com os membros das Assembleias Legislativas das Regiões Autónomas e solicitar-lhes parecer, nos termos do n.º 4 do artigo 3.º, sempre que estiverem em causa competências legislativas regionais;\n\ni) Intensificar o intercâmbio entre a Assembleia da República e o Parlamento Europeu, propondo a concessão de facilidades recíprocas, encontros regulares e a possibilidade de realização de videoconferências com os deputados, designadamente os eleitos em Portugal, os quais são regularmente ouvidos pela Comissão de Assuntos Europeus;\n\nj) Promover reuniões ou audições com as instituições, órgãos e agências da União Europeia sobre assuntos relevantes para a participação de Portugal na construção da União Europeia;\n\nl) Promover a cooperação interparlamentar no seio da União Europeia, designadamente, no âmbito da aplicação do Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia e do Protocolo Relativo à Aplicação dos Princípios da Subsidiariedade e da Proporcionalidade anexos aos tratados que regem a União Europeia;\n\nm) Designar os representantes portugueses à Conferência dos Órgãos Parlamentares Especializados nos Assuntos da União (COSAC), apreciar a sua atuação e os resultados da conferência;\n\nn) Proceder à audição das personalidades a designar ou a nomear pelo Governo Português e à apreciação dos seus curricula, nos termos do artigo 7.º-A;\n\no) Promover audições e debates com representantes da sociedade civil sobre questões europeias, contribuindo para a criação de um espaço público europeu ao nível nacional.\n\n3 - À Comissão de Assuntos Europeus compete ainda aprovar a metodologia que defina o processo para a elaboração de relatórios e pareceres sobre o cumprimento do princípio da subsidiariedade por projeto de ato legislativo da União Europeia tendo em conta os prazos e procedimentos decorrentes do Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia e do Protocolo Relativo à Aplicação dos Princípios da Subsidiariedade e da Proporcionalidade anexos aos tratados que regem a União Europeia e o estipulado no artigo seguinte.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093840": {
+   "fragment_id": "75079812",
+   "type": 11,
+   "heading": "Artigo 7.º — Processo de apreciação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 7.º — Processo de apreciação\n\n1 - A Comissão de Assuntos Europeus procede à distribuição, pelos seus membros e pelas demais comissões parlamentares, dos projetos de atos legislativos, bem como de outros documentos referidos no n.º 2 do artigo 5.º\n\n2 - Sempre que tal seja solicitado pela Comissão de Assuntos Europeus, ou por iniciativa própria, as outras comissões parlamentares emitem relatórios.\n\n3 - Os relatórios a que se refere o número anterior podem concluir com propostas concretas para apreciação pela Comissão de Assuntos Europeus.\n\n4 - Sempre que aprove parecer sobre matéria da sua competência, a Comissão de Assuntos Europeus anexa os relatórios das outras comissões, prevalecendo o parecer em caso de divergência no que diz respeito à análise da observância do princípio da subsidiariedade.\n\n5 - Em situações de urgência, ou quando entender conveniente, a Comissão dos Assuntos Europeus pode simplesmente adotar o relatório da comissão parlamentar competente em razão da matéria ou elaborar parecer sem prévia solicitação ou produção de relatório.\n\n6 - A Comissão de Assuntos Europeus pode formular projeto de resolução, a submeter a Plenário na sequência da apreciação de uma iniciativa europeia.\n\n7 - Os pareceres emitidos pela Comissão de Assuntos Europeus são enviados ao Presidente da Assembleia da República, que os remete aos Presidentes do Parlamento Europeu, do Conselho, da Comissão Europeia e, se for caso disso, do Comité das Regiões e do Comité Económico e Social, bem como ao Governo.\n\n8 - Os documentos de consulta, o programa de trabalho e qualquer outro instrumento de programação legislativa ou de estratégia política da Comissão Europeia podem ser objeto de parecer da Comissão de Assuntos Europeus, seguindo-se, com as adaptações necessárias, o procedimento definido para a apreciação de projetos de atos legislativos da União Europeia.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093846": {
+   "fragment_id": "75094447",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Audição de personalidades nomeadas ou designadas pelo Governo para cargos da União Europeia",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 7.º-A — Audição de personalidades nomeadas ou designadas pelo Governo para cargos da União Europeia\n\n1 - A Assembleia da República, através da Comissão de Assuntos Europeus, procede à audição das personalidades que o Governo pretende nomear ou designar para cargos nas instituições, órgãos ou agências da União Europeia cujo preenchimento não esteja sujeito a concurso e em que por força das normas aplicáveis devam ser nomeados ou designados membros de cada um dos Estados membros.\n\n2 - O procedimento do número anterior aplica-se à nomeação ou designação de personalidades para cargos de natureza jurisdicional, designadamente de juiz do Tribunal de Justiça da União Europeia, incluindo do Tribunal de Justiça e do Tribunal Geral, de juiz do Tribunal de Contas Europeu e de advogado-geral.\n\n3 - O procedimento do n.º 1 aplica-se à nomeação ou designação para cargos dirigentes das agências europeias, quando tal seja compatível com o específico processo de seleção e escolha de acordo com as regras da União Europeia.\n\n4 - O presente regime não se aplica aos candidatos a membro da Comissão Europeia, do Banco Central Europeu, do Comité das Regiões e do Comité Económico e Social, bem como aos candidatos a deputado ao Parlamento Europeu.\n\n5 - Previamente à nomeação ou designação de personalidades, nos termos do n.º 1, os respetivos nomes e curricula, bem como a verificação do preenchimento dos requisitos para o exercício do cargo em causa, são transmitidos pelo Governo à Assembleia da República, com uma antecedência razoável tendo em conta os prazos para a nomeação ou designação.\n\n6 - Para efeitos do número anterior, quando não se trate da recondução de personalidade que já exerça o cargo, o Governo transmite uma lista de pelo menos três candidatos para o lugar a preencher.\n\n7 - A Assembleia da República, através da Comissão de Assuntos Europeus, elabora e aprova relatório de que dá conhecimento ao Governo.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093852": {
+   "fragment_id": "75079813",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos humanos, técnicos e financeiros",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 8.º — Recursos humanos, técnicos e financeiros\n\nA Assembleia da República dota a Comissão de Assuntos Europeus dos recursos humanos, técnicos e financeiros indispensáveis ao exercício das suas competências nos termos da presente lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093858": {
+   "fragment_id": "75079815",
+   "type": 11,
+   "heading": "Artigo 9.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 9.º — Âmbito\n\n1 - A selecção, nomeação ou designação pelo Governo de personalidades para cargos nas instituições, órgãos ou agências da União Europeia cujo preenchimento não esteja sujeito a concurso, submete-se ao processo e regras definidos na presente lei.\n\n2 - O presente regime não se aplica aos candidatos a membro da Comissão Europeia, do Comité das Regiões e do Comité Económico e Social, bem como aos candidatos a deputado do Parlamento Europeu.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093864": {
+   "fragment_id": "75079816",
+   "type": 11,
+   "heading": "Artigo 10.º — Cargos de natureza não jurisdicional",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 10.º — Cargos de natureza não jurisdicional\n\n1 - Previamente à nomeação ou designação, pelo Governo, de personalidades para cargos nas instituições ou órgãos da União Europeia de natureza não jurisdicional, os respectivos nomes e curricula são transmitidos à Assembleia da República, devendo a Comissão de Assuntos Europeus proceder à sua audição e à apreciação dos respectivos curricula.\n\n2 - O procedimento do número anterior aplica-se à nomeação ou designação para cargos dirigentes das agências europeias, quando tal seja compatível com o específico processo de selecção e escolha de acordo com as regras da União Europeia.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093870": {
+   "fragment_id": "75079817",
+   "type": 11,
+   "heading": "Artigo 11.º — Cargos de natureza jurisdicional",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 11.º — Cargos de natureza jurisdicional\n\n1 - Previamente à nomeação ou designação, pelo Governo, de personalidades para cargos de natureza jurisdicional, designadamente de juiz do Tribunal de Justiça, juiz do Tribunal de Primeira Instância, juiz do Tribunal de Contas e advogado-geral, os respectivos nomes e curricula são transmitidos à Assembleia da República, devendo a Comissão de Assuntos Europeus proceder à sua audição e à apreciação dos respectivos curricula.\n\n2 - Para efeitos do número anterior o Governo transmitirá uma lista de, pelo menos, três nomes de candidatos para cada lugar a preencher.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "75093876": {
+   "fragment_id": "75079819",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação\n\nÉ revogada a Lei n.º 20/94, de 15 de Junho."
+  },
+  "75093880": {
+   "fragment_id": "75079820",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de Julho de 2006.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 11 de Agosto de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 12 de Agosto de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "115174047": {
+   "fragment_id": "75079809",
+   "type": 11,
+   "heading": "Artigo 4.º — Meios de acompanhamento e apreciação",
+   "in_force_from": "2018-05-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2018 - Diário da República n.º 84/2018, Série I de 2018-05-02](https://diariodarepublica.pt/dr/detalhe/lei/18-2018-115203957), em vigor a partir de 2018-05-07",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 4.º — Meios de acompanhamento e apreciação\n\n1 - A Assembleia da República procede ao acompanhamento e à apreciação da participação portuguesa no processo de construção da União Europeia, designadamente, através da realização de:\n\na) Debate em sessão plenária, com a participação do Primeiro-Ministro, iniciado pela sua intervenção, a realizar antes de cada Conselho Europeu, sem prejuízo das disposições legais e regimentais;\n\nb) Debate em sessão plenária, com a participação do Governo, no início de cada presidência do Conselho da União Europeia sobre as respetivas prioridades, podendo também o debate do 2.º semestre incluir a discussão e aprovação do relatório anual enviado pelo Governo, nos termos do disposto no n.º 4 do artigo 5.º;\n\nc) Debate em sessão plenária, com a participação do Governo, sobre o Estado da União, após o respetivo debate no Parlamento Europeu, a realizar no último trimestre de cada ano;\n\nd) Debate em sessão plenária, com a participação do Governo, sobre os diversos instrumentos da governação económica da União Europeia, que integram o Semestre Europeu, designadamente, sobre o Programa de Estabilidade e Crescimento, no 2.º trimestre do ano;\n\ne) Debate na Comissão de Assuntos Europeus, com a presença de membro do Governo, do Programa de Trabalho da Comissão Europeia, no último trimestre do ano;\n\nf) Reuniões nas semanas anterior e posterior à data da realização do Conselho Europeu, entre a Comissão de Assuntos Europeus e membro do Governo, exceto quando, nos termos da alínea a), o debate se encontre agendado para sessão plenária;\n\ng) Reuniões conjuntas, sempre que consideradas necessárias, entre a Comissão de Assuntos Europeus, a comissão parlamentar competente em razão da matéria e o membro do Governo competente, na semana anterior ou posterior à data da realização do Conselho, nas suas diferentes configurações;\n\nh) Reuniões na Comissão de Assuntos Europeus com membros do Governo sobre iniciativas europeias;\n\ni) Audição de personalidades nomeadas ou designadas pelo Governo para cargos da União Europeia.\n\nj) Reuniões conjuntas, entre a Comissão de Assuntos Europeus, a comissão parlamentar competente em razão da matéria e o membro do Governo competente, na semana anterior à data das reuniões do Conselho dos Ministros dos Negócios Estrangeiros, sempre que forem discutidas questões relativas à Cooperação Estruturada Permanente;\n\nk) Debate anual em sessão plenária a realizar no primeiro trimestre de cada ano, com a participação do Governo, sobre a participação de Portugal na Cooperação Estruturada Permanente, nos termos do disposto no n.º 6 do artigo 42.º e do artigo 46.º do Tratado da União Europeia.\n\n2 - A Assembleia da República, por sua iniciativa ou a pedido do Governo e no exercício das suas competências, aprecia, nos termos regimentais, os projetos de orientação das políticas e ações da União Europeia.\n\n3 - A Assembleia da República aprecia a programação financeira da União Europeia, designadamente no que respeita aos fundos estruturais e ao Fundo de Coesão, nos termos da Lei de Enquadramento Orçamental, das Grandes Opções do Plano, do Plano de Desenvolvimento Regional ou de outros programas nacionais em que se preveja a utilização daqueles fundos.\n\n4 - A Assembleia da República ou o Governo podem ainda, sem prejuízo do disposto nos números anteriores, suscitar o debate sobre todos os assuntos e posições em discussão nas instituições europeias que envolvam matéria da sua competência.\n\n5 - Nos termos do Protocolo Relativo à Aplicação dos Princípios da Subsidiariedade e da Proporcionalidade anexo aos tratados que regem a União Europeia, a Assembleia da República pode, através de resolução, instar o Governo a interpor recurso junto do Tribunal de Justiça da União Europeia com fundamento em violação do princípio da subsidiariedade por ato legislativo da União Europeia.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2018 - Diário da República n.º 84/2018, Série I de 2018-05-02](https://diariodarepublica.pt/dr/detalhe/lei/18-2018-115203957), em vigor a partir de 2018-05-07\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "115174048": {
+   "fragment_id": "75079810",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação à Assembleia da República",
+   "in_force_from": "2018-05-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2018 - Diário da República n.º 84/2018, Série I de 2018-05-02](https://diariodarepublica.pt/dr/detalhe/lei/18-2018-115203957), em vigor a partir de 2018-05-07",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 5.º — Informação à Assembleia da República\n\n1 - O Governo deve manter informada, em tempo útil, a Assembleia da República sobre os assuntos e posições a debater nas instituições europeias, bem como sobre as propostas em discussão e as negociações em curso, enviando, logo que sejam apresentados ou submetidos ao Conselho, toda a documentação relevante, designadamente:\n\na) Projetos de acordos ou tratados a concluir pela União Europeia ou entre Estados membros no contexto da União Europeia, sem prejuízo das regras de reserva ou confidencialidade que vigorem para o processo negocial;\n\nb) Informação sobre os assuntos e posições a debater nas instituições europeias, bem como sobre as propostas em discussão e as negociações em curso;\n\nc) Posição que assumiu ou que pretende assumir a propósito de um projeto de ato legislativo de que a Assembleia da República tenha tomado conhecimento nos termos do Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia anexo aos tratados que regem a União Europeia, quando solicitado por esta.\n\nd) (Revogado.)\n\ne) (Revogado.)\n\nf) (Revogado.)\n\ng) (Revogado.)\n\nh) (Revogado.)\n\ni) (Revogado.)\n\nj) (Revogado.)\n\nl) (Revogado.)\n\n2 - Nos termos do Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia anexo aos tratados que regem a União Europeia, a Assembleia da República recebe, designadamente:\n\na) Propostas de atos legislativos e não legislativos a adotar pelas instituições da União Europeia;\n\nb) Análise anual de crescimento e programa de trabalho da Comissão Europeia, assim como qualquer outro instrumento de programação legislativa ou de estratégia política;\n\nc) Iniciativas tomadas pelo Conselho Europeu para autorizar o Conselho a deliberar por maioria qualificada, nos casos em que os tratados que regem a União Europeia determinem que a deliberação seja tomada por unanimidade;\n\nd) Iniciativas tomadas pelo Conselho Europeu para autorizar o Conselho a adotar atos legislativos de acordo com o processo legislativo ordinário, quando os tratados que regem a União Europeia determinem que o Conselho adote esses atos de acordo com o processo legislativo especial;\n\ne) Ordens do dia e resultados das sessões do Conselho, incluindo as atas das reuniões em que este delibere sobre projetos de atos legislativos;\n\nf) Relatórios sobre a aplicação do princípio da subsidiariedade;\n\ng) Documentos de consulta;\n\nh) Relatório anual do Tribunal de Contas Europeu.\n\n3 - Os Deputados à Assembleia da República podem requerer qualquer documentação nacional ou europeia disponível que releve para o exercício das competências previstas na presente lei.\n\n4 - O Governo apresenta à Assembleia da República, no 1.º trimestre de cada ano, um relatório sucinto que permita o acompanhamento da participação de Portugal no processo de construção da União Europeia, devendo aquele relatório informar, nomeadamente, sobre as deliberações com maior impacto para Portugal tomadas no ano anterior pelas instituições europeias e as medidas postas em prática pelo Governo em resultado dessas deliberações, com particular incidência na transposição de diretivas.\n\n5 - O relatório previsto no número anterior deve incluir um capítulo específico relativo à participação de Portugal na Cooperação Estruturada Permanente, nos termos do disposto no n.º 6 do artigo 42.º e do artigo 46.º do Tratado da União Europeia.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2018 - Diário da República n.º 84/2018, Série I de 2018-05-02](https://diariodarepublica.pt/dr/detalhe/lei/18-2018-115203957), em vigor a partir de 2018-05-07\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "147219498": {
+   "fragment_id": "75079809",
+   "type": 11,
+   "heading": "Artigo 4.º — Meios de acompanhamento e apreciação",
+   "in_force_from": "2020-11-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2020 - Diário da República n.º 213/2020, Série I de 2020-11-02](https://diariodarepublica.pt/dr/detalhe/lei/64-2020-147096350), em vigor a partir de 2020-11-03",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2018 - Diário da República n.º 84/2018, Série I de 2018-05-02](https://diariodarepublica.pt/dr/detalhe/lei/18-2018-115203957), em vigor a partir de 2018-05-07",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 4.º — Meios de acompanhamento e apreciação\n\n1 - A Assembleia da República procede ao acompanhamento e à apreciação da participação portuguesa no processo de construção da União Europeia, designadamente, através da realização de:\n\na) Debate em sessão plenária, com a participação do Primeiro-Ministro, iniciado pela sua intervenção, para preparação e avaliação dos Conselhos Europeus, a realizar duas vezes em cada semestre, sem prejuízo da realização de debate adicional, a pedido da Comissão de Assuntos Europeus, quando circunstâncias excecionais o justifiquem;\n\nb) Debate anual em sessão plenária a realizar no primeiro trimestre de cada ano, com a participação do Governo, sobre a participação de Portugal na Cooperação Estruturada Permanente, nos termos do disposto no n.º 6 do artigo 42.º e do artigo 46.º do Tratado da União Europeia;\n\nc) Debate em sessão plenária, com a participação do Governo, no início de cada presidência do Conselho da União Europeia sobre as respetivas prioridades, podendo também o debate do 2.º semestre incluir a discussão e aprovação do relatório anual enviado pelo Governo, nos termos do disposto no n.º 4 do artigo 5.º;\n\nd) Debate em sessão plenária, com a participação do Governo, sobre o Estado da União, após o respetivo debate no Parlamento Europeu, a realizar no último trimestre de cada ano;\n\ne) Debate em sessão plenária, com a participação do Governo, sobre os diversos instrumentos da governação económica da União Europeia, que integram o Semestre Europeu, designadamente, sobre o Programa de Estabilidade e Crescimento, no 2.º trimestre do ano;\n\n2 - A Assembleia da República procede ainda ao acompanhamento e à apreciação da participação portuguesa no processo de construção da União Europeia, através da Comissão de Assuntos Europeus, designadamente, através da realização de:\n\na) Debate na Comissão de Assuntos Europeus, com a presença de membro do Governo, a realizar antes de cada Conselho Europeu, exceto quando, nos termos da alínea a) do número anterior, o debate se encontre agendado para sessão plenária;\n\nb) Debate na Comissão de Assuntos Europeus, com a presença de membro do Governo, do Programa de Trabalho da Comissão Europeia, no último trimestre do ano;\n\nc) Reuniões nas semanas posteriores à data da realização do Conselho Europeu, entre a Comissão de Assuntos Europeus e membro do Governo, para avaliação das respetivas conclusões;\n\nd) Reuniões conjuntas entre a Comissão de Assuntos Europeus, a comissão parlamentar competente em razão da matéria e o membro do Governo competente sobre os diversos instrumentos de governação económica da União Europeia, que integram o Semestre Europeu;\n\ne) Reuniões conjuntas, sempre que consideradas necessárias, entre a Comissão de Assuntos Europeus, a comissão parlamentar competente em razão da matéria e o membro do Governo competente, na semana anterior ou posterior à data da realização do Conselho, nas suas diferentes configurações;\n\nf) Reuniões na Comissão de Assuntos Europeus com membros do Governo sobre iniciativas europeias;\n\ng) Audição de personalidades nomeadas ou designadas pelo Governo para cargos da União Europeia.\n\nh) Reuniões conjuntas, entre a Comissão de Assuntos Europeus, a comissão parlamentar competente em razão da matéria e o membro do Governo competente, na semana anterior à data das reuniões do Conselho dos Ministros dos Negócios Estrangeiros, sempre que forem discutidas questões relativas à Cooperação Estruturada Permanente;\n\n3 - A Assembleia da República, por sua iniciativa ou a pedido do Governo e no exercício das suas competências, aprecia, nos termos regimentais, os projetos de orientação das políticas e ações da União Europeia.\n\n4 - A Assembleia da República aprecia a programação financeira da União Europeia, designadamente no que respeita aos fundos estruturais e ao Fundo de Coesão, nos termos da Lei de Enquadramento Orçamental, das Grandes Opções do Plano, do Plano de Desenvolvimento Regional ou de outros programas nacionais em que se preveja a utilização daqueles fundos.\n\n5 - A Assembleia da República ou o Governo podem ainda, sem prejuízo do disposto nos números anteriores, suscitar o debate sobre todos os assuntos e posições em discussão nas instituições europeias que envolvam matéria da sua competência.\n\n6 - Nos termos do Protocolo Relativo à Aplicação dos Princípios da Subsidiariedade e da Proporcionalidade anexo aos tratados que regem a União Europeia, a Assembleia da República pode, através de resolução, instar o Governo a interpor recurso junto do Tribunal de Justiça da União Europeia com fundamento em violação do princípio da subsidiariedade por ato legislativo da União Europeia.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2020 - Diário da República n.º 213/2020, Série I de 2020-11-02](https://diariodarepublica.pt/dr/detalhe/lei/64-2020-147096350), em vigor a partir de 2020-11-03\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2018 - Diário da República n.º 84/2018, Série I de 2018-05-02](https://diariodarepublica.pt/dr/detalhe/lei/18-2018-115203957), em vigor a partir de 2018-05-07\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219822457": {
+   "fragment_id": "75079807",
+   "type": 11,
+   "heading": "Artigo 2.º — Pronúncia no âmbito de matérias de competência legislativa reservada",
+   "in_force_from": "2023-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 2.º — Pronúncia no âmbito de matérias de competência legislativa reservada\n\n1 - Quando estiverem pendentes de decisão em órgãos da União Europeia matérias que recaiam na esfera da competência legislativa reservada da Assembleia da República, esta pronuncia-se nos termos dos números seguintes.\n\n2 - Sempre que ocorrer a situação referida no número anterior, o Governo deve informar a Assembleia da República e solicitar-lhe parecer, enviando, em tempo útil, informação que contenha um resumo do projecto ou proposta, uma análise das suas implicações e a posição que o Governo pretende adoptar, se já estiver definida.\n\n3 - O parecer é preparado pela Comissão de Assuntos Europeus, após emissão de parecer obrigatório pelas comissões parlamentares competentes em razão da matéria.\n\n4 - O parecer é submetido a Plenário, para efeitos de discussão e votação, sob a forma de projeto de resolução.\n\n5 - Em qualquer fase subsequente do processo de decisão dos órgãos da União Europeia, a Assembleia pode, por iniciativa própria ou mediante iniciativa do Governo, elaborar e votar novos pareceres ou atualizar aquele que tiver sido aprovado.\n\n6 - O parecer deve, além de analisar o mérito da iniciativa, pronunciar-se sobre a conformidade com os princípios da subsidiariedade e da proporcionalidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219822463": {
+   "fragment_id": "219915372",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Aprovação do regime de eleição dos deputados ao Parlamento Europeu",
+   "in_force_from": "2023-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01"
+   ],
+   "markdown": "###### Artigo 2.º-A — Aprovação do regime de eleição dos deputados ao Parlamento Europeu\n\nPara efeitos do processo legislativo especial, previsto no artigo 223.º do Tratado sobre o Funcionamento da União Europeia, para a definição das regras de eleição dos deputados ao Parlamento Europeu, a Assembleia da República pronuncia-se através de resolução elaborada nos termos do artigo anterior, com as necessárias adaptações.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01"
+  },
+  "219822464": {
+   "fragment_id": "75079808",
+   "type": 11,
+   "heading": "Artigo 3.º — Pronúncia sobre a conformidade com os princípios da subsidiariedade e da proporcionalidade",
+   "in_force_from": "2023-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 3.º — Pronúncia sobre a conformidade com os princípios da subsidiariedade e da proporcionalidade\n\n1 - A Assembleia da República assegura o exercício dos poderes enunciados no Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia e no Protocolo Relativo à Aplicação dos Princípios da Subsidiariedade e da Proporcionalidade anexos aos tratados que regem a União Europeia.\n\n2 - O exercício dos poderes previstos no número anterior é assegurado pela Comissão de Assuntos Europeus, sem prejuízo da competência do Plenário e das outras comissões parlamentares.\n\n3 - O parecer que, tendo sido aprovado pela Comissão de Assuntos Europeus, conclua pela violação do princípio da subsidiariedade e ou do princípio da proporcionalidade é submetido a plenário, para efeitos de discussão e votação, sob a forma de projeto de resolução.\n\n4 - Quando o parecer se refira a matéria da competência das Assembleias Legislativas das Regiões Autónomas, estas devem ser consultadas em tempo útil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219822465": {
+   "fragment_id": "75079809",
+   "type": 11,
+   "heading": "Artigo 4.º — Meios de acompanhamento e apreciação",
+   "in_force_from": "2023-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2020 - Diário da República n.º 213/2020, Série I de 2020-11-02](https://diariodarepublica.pt/dr/detalhe/lei/64-2020-147096350), em vigor a partir de 2020-11-03",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2018 - Diário da República n.º 84/2018, Série I de 2018-05-02](https://diariodarepublica.pt/dr/detalhe/lei/18-2018-115203957), em vigor a partir de 2018-05-07",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 4.º — Meios de acompanhamento e apreciação\n\n1 - A Assembleia da República procede ao acompanhamento e à apreciação da participação portuguesa no processo de construção da União Europeia, designadamente, através da realização de:\n\na) Debate em sessão plenária, com a participação do Primeiro-Ministro, iniciado pela sua intervenção, para preparação e avaliação dos Conselhos Europeus, a realizar duas vezes em cada semestre, sem prejuízo da realização de debate adicional, a pedido da Comissão de Assuntos Europeus, quando circunstâncias excecionais o justifiquem;\n\nb) Debate anual em sessão plenária a realizar no primeiro trimestre de cada ano, com a participação do Governo, sobre a participação de Portugal na Cooperação Estruturada Permanente, nos termos do disposto no n.º 6 do artigo 42.º e do artigo 46.º do Tratado da União Europeia;\n\nc) Debate em sessão plenária, com a participação do Governo, no início de cada presidência do Conselho da União Europeia sobre as respetivas prioridades, podendo também o debate do 2.º semestre incluir a discussão e aprovação do relatório anual enviado pelo Governo, nos termos do disposto no n.º 4 do artigo 5.º;\n\nd) Debate em sessão plenária, com a participação do Governo, sobre o Estado da União, após o respetivo debate no Parlamento Europeu, a realizar no último trimestre de cada ano;\n\ne) Debate em sessão plenária, com a participação do Governo, sobre os diversos instrumentos da governação económica da União Europeia, que integram o Semestre Europeu, designadamente, sobre o Programa de Estabilidade e Crescimento, no 2.º trimestre do ano;\n\n2 - A Assembleia da República procede ainda ao acompanhamento e à apreciação da participação portuguesa no processo de construção da União Europeia, através da Comissão de Assuntos Europeus, designadamente, através da realização de:\n\na) Debate na Comissão de Assuntos Europeus, com a presença de membro do Governo, a realizar antes de cada Conselho Europeu, exceto quando, nos termos da alínea a) do número anterior, o debate se encontre agendado para sessão plenária;\n\nb) Debate na Comissão de Assuntos Europeus, com a presença de membro do Governo, do Programa de Trabalho da Comissão Europeia, no último trimestre do ano;\n\nc) Reuniões nas semanas posteriores à data da realização do Conselho Europeu, entre a Comissão de Assuntos Europeus e membro do Governo, para avaliação das respetivas conclusões;\n\nd) Reuniões conjuntas entre a Comissão de Assuntos Europeus, a comissão parlamentar competente em razão da matéria e o membro do Governo competente sobre os diversos instrumentos de governação económica da União Europeia, que integram o Semestre Europeu;\n\ne) Reuniões conjuntas, sempre que consideradas necessárias, entre a Comissão de Assuntos Europeus, a comissão parlamentar competente em razão da matéria e o membro do Governo competente, na semana anterior ou posterior à data da realização do Conselho, nas suas diferentes configurações;\n\nf) Reuniões na Comissão de Assuntos Europeus com membros do Governo sobre iniciativas europeias;\n\ng) Audição de personalidades nomeadas ou designadas pelo Governo para cargos da União Europeia.\n\nh) Reuniões conjuntas, entre a Comissão de Assuntos Europeus, a comissão parlamentar competente em razão da matéria e o membro do Governo competente, na semana anterior à data das reuniões do Conselho dos Ministros dos Negócios Estrangeiros, sempre que forem discutidas questões relativas à Cooperação Estruturada Permanente;\n\n3 - A Assembleia da República, por sua iniciativa ou a pedido do Governo e no exercício das suas competências, aprecia, nos termos regimentais, os projetos de orientação das políticas e ações da União Europeia.\n\n4 - A Assembleia da República aprecia a programação financeira da União Europeia, designadamente no que respeita aos fundos estruturais e ao Fundo de Coesão, nos termos da Lei de Enquadramento Orçamental, das Grandes Opções do Plano, do Plano de Desenvolvimento Regional ou de outros programas nacionais em que se preveja a utilização daqueles fundos.\n\n5 - A Assembleia da República ou o Governo podem ainda, sem prejuízo do disposto nos números anteriores, suscitar o debate sobre todos os assuntos e posições em discussão nas instituições europeias que envolvam matéria da sua competência.\n\n6 - Nos termos do Protocolo Relativo à Aplicação dos Princípios da Subsidiariedade e da Proporcionalidade anexo aos tratados que regem a União Europeia, a Assembleia da República pode, através de resolução, instar o Governo a interpor recurso junto do Tribunal de Justiça da União Europeia, com fundamento em violação do princípio da subsidiariedade e ou do princípio da proporcionalidade por ato legislativo da União Europeia.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2020 - Diário da República n.º 213/2020, Série I de 2020-11-02](https://diariodarepublica.pt/dr/detalhe/lei/64-2020-147096350), em vigor a partir de 2020-11-03\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2018 - Diário da República n.º 84/2018, Série I de 2018-05-02](https://diariodarepublica.pt/dr/detalhe/lei/18-2018-115203957), em vigor a partir de 2018-05-07\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219822466": {
+   "fragment_id": "75079810",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação à Assembleia da República",
+   "in_force_from": "2023-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2018 - Diário da República n.º 84/2018, Série I de 2018-05-02](https://diariodarepublica.pt/dr/detalhe/lei/18-2018-115203957), em vigor a partir de 2018-05-07",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 5.º — Informação à Assembleia da República\n\n1 - O Governo deve manter informada, em tempo útil, a Assembleia da República sobre os assuntos e posições a debater nas instituições europeias, bem como sobre as propostas em discussão e as negociações em curso, enviando, logo que sejam apresentados ou submetidos ao Conselho, toda a documentação relevante, designadamente:\n\na) Projetos de acordos ou tratados a concluir pela União Europeia ou entre Estados membros no contexto da União Europeia, sem prejuízo das regras de reserva ou confidencialidade que vigorem para o processo negocial;\n\nb) Informação sobre os assuntos e posições a debater nas instituições europeias, bem como sobre as propostas em discussão e as negociações em curso;\n\nc) Posição que assumiu ou que pretende assumir a propósito de um projeto de ato legislativo de que a Assembleia da República tenha tomado conhecimento nos termos do Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia anexo aos tratados que regem a União Europeia, quando solicitado por esta.\n\nd) (Revogado.)\n\ne) (Revogado.)\n\nf) (Revogado.)\n\ng) (Revogado.)\n\nh) (Revogado.)\n\ni) (Revogado.)\n\nj) (Revogado.)\n\nl) (Revogado.)\n\nm) Tabelas de correspondência relativas aos procedimentos de transposição de diretiva, após a sua comunicação à Comissão Europeia.\n\n2 - Nos termos do Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia anexo aos tratados que regem a União Europeia, a Assembleia da República recebe, designadamente:\n\na) Propostas de atos legislativos e não legislativos a adotar pelas instituições da União Europeia;\n\nb) Análise anual de crescimento e programa de trabalho da Comissão Europeia, assim como qualquer outro instrumento de programação legislativa ou de estratégia política;\n\nc) Iniciativas tomadas pelo Conselho Europeu para autorizar o Conselho a deliberar por maioria qualificada, nos casos em que os tratados que regem a União Europeia determinem que a deliberação seja tomada por unanimidade;\n\nd) Iniciativas tomadas pelo Conselho Europeu para autorizar o Conselho a adotar atos legislativos de acordo com o processo legislativo ordinário, quando os tratados que regem a União Europeia determinem que o Conselho adote esses atos de acordo com o processo legislativo especial;\n\ne) Ordens do dia e resultados das sessões do Conselho, incluindo as atas das reuniões em que este delibere sobre projetos de atos legislativos;\n\nf) Relatórios sobre a aplicação do princípio da subsidiariedade;\n\ng) Documentos de consulta;\n\nh) Relatório anual do Tribunal de Contas Europeu.\n\n3 - Os Deputados à Assembleia da República podem requerer qualquer documentação nacional ou europeia disponível que releve para o exercício das competências previstas na presente lei.\n\n4 - O Governo apresenta à Assembleia da República, no 1.º trimestre de cada ano, um relatório sucinto que permita o acompanhamento da participação de Portugal no processo de construção da União Europeia, devendo aquele relatório informar, nomeadamente, sobre as deliberações com maior impacto para Portugal tomadas no ano anterior pelas instituições europeias e as medidas postas em prática pelo Governo em resultado dessas deliberações, com particular incidência na transposição de diretivas.\n\n5 - O relatório previsto no número anterior, no capítulo relacionado com a transposição de diretivas, deve incluir informação sobre todas as diretivas que foram aprovadas nas instâncias europeias nos dois anos anteriores.\n\n6 - O relatório previsto no n.º 4 deve incluir um capítulo específico relativo à participação de Portugal na Cooperação Estruturada Permanente, nos termos do disposto no n.º 6 do artigo 42.º e do artigo 46.º do Tratado da União Europeia.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2018 - Diário da República n.º 84/2018, Série I de 2018-05-02](https://diariodarepublica.pt/dr/detalhe/lei/18-2018-115203957), em vigor a partir de 2018-05-07\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219822467": {
+   "fragment_id": "75079811",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissão de Assuntos Europeus",
+   "in_force_from": "2023-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 6.º — Comissão de Assuntos Europeus\n\n1 - A Comissão de Assuntos Europeus é a comissão parlamentar competente para o acompanhamento e apreciação global dos assuntos europeus, sem prejuízo da competência do Plenário e das outras comissões parlamentares.\n\n2 - Compete especificamente à Comissão de Assuntos Europeus:\n\na) Apreciar todos os assuntos que interessem a Portugal no quadro da construção europeia, das instituições europeias ou no da cooperação entre Estados membros da União Europeia;\n\nb) Apreciar a atuação do Governo respeitante a tais assuntos, promovendo, designadamente, as audições previstas na presente lei;\n\nc) Apreciar, votar parecer e formular projeto de resolução quando estiverem pendentes de decisão em órgãos da União Europeia matérias que recaiam na esfera da competência legislativa reservada da Assembleia da República;\n\nd) Apreciar, votar parecer e, eventualmente, apresentar um projeto de resolução sobre o cumprimento dos princípios da subsidiariedade e da proporcionalidade por projeto de ato legislativo;\n\ne) Incentivar uma maior participação da Assembleia da República na actividade desenvolvida pelas instituições europeias;\n\nf) Articular com as comissões parlamentares competentes em razão da matéria a troca de informações e formas adequadas de colaboração para alcançar uma intervenção eficiente da Assembleia da República em matérias respeitantes à construção da União Europeia;\n\ng) Preparar e aprovar parecer sobre documento que o Governo submeta à Assembleia da República ou esteja obrigado, legal ou regulamentarmente, a submeter a instituições da União Europeia;\n\nh) Realizar anualmente uma reunião com os membros das Assembleias Legislativas das Regiões Autónomas e solicitar-lhes parecer, nos termos do n.º 4 do artigo 3.º, sempre que estiverem em causa competências legislativas regionais;\n\ni) Intensificar o intercâmbio entre a Assembleia da República e o Parlamento Europeu, propondo a concessão de facilidades recíprocas, encontros regulares e a possibilidade de realização de videoconferências com os deputados, designadamente os eleitos em Portugal, os quais são regularmente ouvidos pela Comissão de Assuntos Europeus;\n\nj) Promover reuniões ou audições com as instituições, órgãos e agências da União Europeia sobre assuntos relevantes para a participação de Portugal na construção da União Europeia;\n\nl) Promover a cooperação interparlamentar no seio da União Europeia, designadamente, no âmbito da aplicação do Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia e do Protocolo Relativo à Aplicação dos Princípios da Subsidiariedade e da Proporcionalidade anexos aos tratados que regem a União Europeia;\n\nm) Designar os representantes portugueses à Conferência dos Órgãos Parlamentares Especializados nos Assuntos da União (COSAC), apreciar a sua atuação e os resultados da conferência;\n\nn) Proceder à audição das personalidades a designar ou a nomear pelo Governo Português e à apreciação dos seus curricula, nos termos do artigo 7.º-A;\n\no) Promover audições e debates com representantes da sociedade civil sobre questões europeias, contribuindo para a criação de um espaço público europeu ao nível nacional.\n\n3 - À Comissão de Assuntos Europeus compete ainda aprovar a metodologia que defina o processo para a elaboração de relatórios e pareceres sobre o cumprimento dos princípios da subsidiariedade e da proporcionalidade por projeto de ato legislativo da União Europeia tendo em conta os prazos e procedimentos decorrentes do Protocolo Relativo ao Papel dos Parlamentos Nacionais na União Europeia e do Protocolo Relativo à Aplicação dos Princípios da Subsidiariedade e da Proporcionalidade, anexos aos tratados que regem a União Europeia e o previsto no artigo seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219822468": {
+   "fragment_id": "75079812",
+   "type": 11,
+   "heading": "Artigo 7.º — Processo de apreciação",
+   "in_force_from": "2023-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 7.º — Processo de apreciação\n\n1 - A Comissão de Assuntos Europeus procede à distribuição, pelos seus membros e pelas demais comissões parlamentares, dos projetos de atos legislativos, bem como de outros documentos referidos no n.º 2 do artigo 5.º\n\n2 - Sempre que tal seja solicitado pela Comissão de Assuntos Europeus, ou por iniciativa própria, as outras comissões parlamentares emitem relatórios.\n\n3 - Os relatórios a que se refere o número anterior podem concluir com propostas concretas para apreciação pela Comissão de Assuntos Europeus.\n\n4 - Sempre que aprove parecer sobre matéria da sua competência, a Comissão de Assuntos Europeus anexa os relatórios das outras comissões, prevalecendo o parecer em caso de divergência no que diz respeito à análise da observância do princípio da subsidiariedade ou do princípio da proporcionalidade.\n\n5 - Em situações de urgência, ou quando entenda aderir integralmente aos seus termos, a Comissão dos Assuntos Europeus pode adotar o relatório da comissão parlamentar competente em razão da matéria.\n\n6 - A Comissão de Assuntos Europeus pode formular projeto de resolução, a submeter a Plenário na sequência da apreciação de uma iniciativa europeia.\n\n7 - Os pareceres emitidos pela Comissão de Assuntos Europeus são enviados ao Presidente da Assembleia da República, que os remete aos Presidentes do Parlamento Europeu, do Conselho, da Comissão Europeia e, se for caso disso, do Comité das Regiões e do Comité Económico e Social, bem como ao Governo.\n\n8 - Os documentos de consulta, o programa de trabalho e qualquer outro instrumento de programação legislativa ou de estratégia política da Comissão Europeia podem ser objeto de parecer da Comissão de Assuntos Europeus, seguindo-se, com as adaptações necessárias, o procedimento definido para a apreciação de projetos de atos legislativos da União Europeia.\n\n9 - O processo de apreciação pela Comissão de Assuntos Europeus do cumprimento do princípio da subsidiariedade por projeto de ato legislativo da União Europeia, ocorrido ao abrigo do presente artigo, inclui a análise do cumprimento do princípio da proporcionalidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219822469": {
+   "fragment_id": "75094447",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Audição de personalidades nomeadas ou designadas pelo Governo para cargos da União Europeia",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 7.º-A — Audição de personalidades nomeadas ou designadas pelo Governo para cargos da União Europeia\n\n1 - A Assembleia da República, através da Comissão de Assuntos Europeus, procede à audição das personalidades que o Governo pretende nomear ou designar para cargos nas instituições, órgãos ou agências da União Europeia cujo preenchimento não esteja sujeito a concurso e em que por força das normas aplicáveis devam ser nomeados ou designados membros de cada um dos Estados membros.\n\n2 - O procedimento do número anterior aplica-se à nomeação ou designação de personalidades para cargos de natureza jurisdicional, designadamente de juiz do Tribunal de Justiça da União Europeia, incluindo do Tribunal de Justiça e do Tribunal Geral, de juiz do Tribunal de Contas Europeu e de advogado-geral.\n\n3 - O procedimento do n.º 1 aplica-se à nomeação ou designação para cargos dirigentes das agências europeias, quando tal seja compatível com o específico processo de seleção e escolha de acordo com as regras da União Europeia.\n\n4 - O presente regime não se aplica aos candidatos a membro da Comissão Europeia, do Banco Central Europeu, do Comité das Regiões e do Comité Económico e Social, bem como aos candidatos a deputado ao Parlamento Europeu.\n\n5 - Previamente à nomeação ou designação de personalidades, nos termos do n.º 1, os respetivos nomes e curricula, bem como a verificação do preenchimento dos requisitos para o exercício do cargo em causa, são transmitidos pelo Governo à Assembleia da República, com uma antecedência razoável tendo em conta os prazos para a nomeação ou designação.\n\n6 - Para efeitos do número anterior, quando não se trate da recondução de personalidade que já exerça o cargo, o Governo transmite uma lista de pelo menos três candidatos para o lugar a preencher.\n\n7 - A Assembleia da República, através da Comissão de Assuntos Europeus, elabora e aprova relatório de que dá conhecimento ao Governo.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219990576": {
+   "fragment_id": "219915373",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Audições do Governo sobre as reuniões ministeriais do Conselho da União Europeia",
+   "in_force_from": "2023-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01"
+   ],
+   "markdown": "###### Artigo 7.º-B — Audições do Governo sobre as reuniões ministeriais do Conselho da União Europeia\n\nNo âmbito das audições regimentais dos ministros nas comissões parlamentares permanentes, previstas no Regimento da Assembleia da República, é dedicada uma ronda ao conhecimento e ponderação dos assuntos europeus, nomeadamente as posições a debater ou debatidas nas reuniões ministeriais do Conselho da União Europeia, consoante a audição seja antes ou depois da sua realização.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 44/2023 - Diário da República n.º 157/2023, Série I de 2023-08-14](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), em vigor a partir de 2023-09-01"
+  },
+  "219990577": {
+   "fragment_id": "75079813",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos humanos, técnicos e financeiros",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 8.º — Recursos humanos, técnicos e financeiros\n\nA Assembleia da República dota a Comissão de Assuntos Europeus dos recursos humanos, técnicos e financeiros indispensáveis ao exercício das suas competências nos termos da presente lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219990578": {
+   "fragment_id": "75079815",
+   "type": 11,
+   "heading": "Artigo 9.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 9.º — Âmbito\n\n1 - A selecção, nomeação ou designação pelo Governo de personalidades para cargos nas instituições, órgãos ou agências da União Europeia cujo preenchimento não esteja sujeito a concurso, submete-se ao processo e regras definidos na presente lei.\n\n2 - O presente regime não se aplica aos candidatos a membro da Comissão Europeia, do Comité das Regiões e do Comité Económico e Social, bem como aos candidatos a deputado do Parlamento Europeu.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219990579": {
+   "fragment_id": "75079816",
+   "type": 11,
+   "heading": "Artigo 10.º — Cargos de natureza não jurisdicional",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 10.º — Cargos de natureza não jurisdicional\n\n1 - Previamente à nomeação ou designação, pelo Governo, de personalidades para cargos nas instituições ou órgãos da União Europeia de natureza não jurisdicional, os respectivos nomes e curricula são transmitidos à Assembleia da República, devendo a Comissão de Assuntos Europeus proceder à sua audição e à apreciação dos respectivos curricula.\n\n2 - O procedimento do número anterior aplica-se à nomeação ou designação para cargos dirigentes das agências europeias, quando tal seja compatível com o específico processo de selecção e escolha de acordo com as regras da União Europeia.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219990580": {
+   "fragment_id": "75079817",
+   "type": 11,
+   "heading": "Artigo 11.º — Cargos de natureza jurisdicional",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+   ],
+   "markdown": "###### Artigo 11.º — Cargos de natureza jurisdicional\n\n1 - Previamente à nomeação ou designação, pelo Governo, de personalidades para cargos de natureza jurisdicional, designadamente de juiz do Tribunal de Justiça, juiz do Tribunal de Primeira Instância, juiz do Tribunal de Contas e advogado-geral, os respectivos nomes e curricula são transmitidos à Assembleia da República, devendo a Comissão de Assuntos Europeus proceder à sua audição e à apreciação dos respectivos curricula.\n\n2 - Para efeitos do número anterior o Governo transmitirá uma lista de, pelo menos, três nomes de candidatos para cada lugar a preencher.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 21/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), em vigor a partir de 2012-05-22"
+  },
+  "219990581": {
+   "fragment_id": "75079819",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação\n\nÉ revogada a Lei n.º 20/94, de 15 de Junho."
+  },
+  "219990582": {
+   "fragment_id": "75079820",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de Julho de 2006.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 11 de Agosto de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 12 de Agosto de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

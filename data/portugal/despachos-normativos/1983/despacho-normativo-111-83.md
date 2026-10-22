@@ -1,0 +1,143 @@
+---
+schema_version: '1.0'
+id: pt:dre:450811:por
+title: Despacho Normativo n.º 111/83
+short_title: null
+summary: Determina a distribuição das verbas para financiamento de construção de sedes de juntas de freguesia em 1983
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 111/83
+official_date: null
+publication_date: '1983-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/1983, Série I de 1983-05-09
+  number: '106'
+  series: I
+  supplement: null
+  pages: 1633 - 1636
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/05/10600/16331636.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '450811'
+  dre_path: /dr/detalhe/despacho-normativo/111-1983-450811
+  internal: pt:dre:450811:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/111-1983-450811
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/111-1983-450811
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-05-09T00:00:00Z'
+integrity:
+  source_sha256: c80be8ef23990b94f9822862bb487b0fc6df212a5f857bf72869289bb0bc430b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-111-450811.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 111/83
+
+O artigo 46.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, ao inscrever uma dotação de 269585 contos no OE destinada ao financiamento, pelo Governo, da construção de sedes de juntas de freguesia em 1983, determinou no n.º 2 do referido artigo que os critérios e o plano de distribuição das verbas fossem estabelecidos por despacho normativo.
+
+É este o objecto do presente despacho. No essencial, os critérios têm em conta as freguesias anteriormente dotadas e o grau de necessidades aferido pelos pedidos apresentados.
+
+Procura-se, assim, à semelhança do que sucedeu nos anos anteriores, assegurar uma distribuição geográfica equilibrada e respeitar a representação partidária resultante das eleições autárquicas.
+
+A aplicação dos critérios referidos às disponibilidades financeiras permitirá, assim, definir o elenco das freguesias a financiar no corrente ano. No entanto, a existência de compromissos assumidos em anos anteriores nos termos do [Despacho Normativo n.º 225/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/225-1981-577940), de 31 de Julho, e ainda não satisfeitos, exigem a cativação prévia de parte da verba orçamentada para 1983 para a resolução dos casos pendentes.
+
+Por último, inserem-se algumas disposições que permitam assegurar o acompanhamento dos dispêndios efectuados e articular com eficácia as solicitações, os meios financeiros e o grau de realização dos empreendimentos.
+
+Nestes termos, ao abrigo do artigo 36.º da [Lei n.º 79/77](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), de 25 de Outubro, determina-se o seguinte:
+
+1 - Serão financiadas no corrente ano, até ao limite de 269585 contos, as solicitações de apoio financeiro apresentadas na Direcção-Geral de Acção Regional e Local e destinadas à construção de instalações para sedes de juntas de freguesia que respeitem a compromissos já assumidos, à conclusão de obras em curso, a obras novas de construção ou reconstrução de edifícios e a aquisição de edifícios.
+
+2 - Manter-se-ão os limites máximos das transferências financeiras para cada freguesia estabelecidos no n.º 2 do [Despacho Normativo n.º 225/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/225-1981-577940), de 31 de Julho, bem como o critério de classificação de freguesias em urbanas e rurais aí explicitado.
+
+3 - A transferência da verba atribuída a cada freguesia processar-se-á como determina o n.º 4 do despacho normativo atrás citado, consoante se trate de conclusão de obras em curso, obras novas de construção de edifícios ou aquisição de edifícios.
+
+4 - A transferência de novos processamentos de verbas apenas será operada quando justificados os anteriores, bem como a parcela a financiar como adiantamento.
+
+5 - No caso de a verba se destinar a obras novas, deverá ser apresentada, aquando do pedido de financiamento, uma declaração emitida pela câmara municipal relativa à existência de projecto de construção aprovado.
+
+6 - Após o recebimento de qualquer verba processada deverá cada junta de freguesia acusar a respectiva recepção, por escrito, à Direcção-Geral de Acção Regional e Local.
+
+7 - A não observância do disposto no número anterior implicará a interrupção dos subsequentes processamentos a favor das respectivas juntas de freguesia.
+
+8 - Serão financiadas com a verba de 29946 contos as juntas de freguesia constantes dos quadros I, II e III anexos ao presente despacho, que constituem compromissos assumidos em anos anteriores, de acordo com os critérios definidos no [Despacho Normativo n.º 225/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/225-1981-577940), de 31 de Julho.
+
+9 - Para ocorrer a eventuais correcções, derivadas quer de necessidade de processamento de transferências não recebidas em anos anteriores quer de reclassificação como urbanas de freguesia rurais constantes do plano de financiamento aprovado, fica cativa a verba de 639 contos, que será distribuída, no final do ano, de acordo com os critérios do número seguinte, caso não se revele necessária a sua total utilização.
+
+10 - O remanescente da verba 239000 contos, que constitui a dotação para o financiamento da construção de sedes de juntas de freguesia em 1983, será distribuído de acordo com os critérios enunciados no [Despacho Normativo n.º 225/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/225-1981-577940), de 31 de Julho, e, ainda, atendendo a uma distribuição geográfica equilibrada, ao grau de carência e à representação partidária nas assembleias de freguesia resultante das eleições autárquicas.
+
+11 - À Direcção-Geral de Acção Regional o Local compete o acompanhamento de todo o processo e a avaliação dos resultados, devendo, em conformidade, proceder aos estudos necessários e propor as medidas que julgue adequadas ao seu aperfeiçoamento.
+
+12 - De acordo com os critérios enunciados no presente despacho normativo, é aprovado o plano de distribuição das verbas para financiamento das sedes de juntas de freguesia em 1983, constante dos quadros anexos ao presente diploma e que dele faz parte integrante.
+
+Ministério da Administração Interna, 31 de Março de 1983. - O Ministro da Administração Interna, José Ângelo Ferreira Correia.
+
+QUADRO I
+
+Compromissos assumidos em 1981 e 1982
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10600/16331636.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10600/16331636.pdf)
+
+QUADRO II
+
+Reatribuição de verbas não recebidas em anos anteriores
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10600/16331636.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10600/16331636.pdf)
+
+QUADRO III
+
+Reformulação financeira de acordo com a classificação das freguesias
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10600/16331636.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10600/16331636.pdf)
+
+QUADRO IV
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10600/16331636.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10600/16331636.pdf)

@@ -1,0 +1,553 @@
+---
+schema_version: '1.0'
+id: pt:dre:600135:por
+title: Despacho Normativo n.º 696/94
+short_title: null
+summary: Aprova os Regulamentos de Estágio para Ingresso nas Carreiras de Inspecção, Técnica Superior e Técnica de Finanças
+  da Inspecção-Geral de Finanças
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 696/94
+official_date: null
+publication_date: '1994-10-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 228/1994, Série I-B de 1994-10-01
+  number: '228'
+  series: I
+  supplement: null
+  pages: 6037 - 6041
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/10/228b00/60376041.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/696/1994/10/01/p/dre/pt/html
+  oj: null
+  dre: '600135'
+  dre_path: /dr/detalhe/despacho-normativo/696-1994-600135
+  internal: pt:dre:600135:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/696-1994-600135
+  metadata_url: https://data.dre.pt/eli/despnorm/696/1994/10/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/696-1994-600135
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-02-22T00:00:00Z'
+integrity:
+  source_sha256: c07262e6ec48891315a29ef66e393d2c63c0874996894f7c000395460be13ae4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-696-600135.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Inspeção Geral de Finanças
+- Carreira Profissional
+- Pessoal de Inspecção
+- Pessoal Técnico de Inspecção
+- Pessoal Técnico Superior de Inspecção
+- Estágio de Formação
+- Regulamento de Estágio
+relationships:
+- type: amended_by
+  target: pt:dre:264940:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 49
+  section_count: 10
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 696/94
+
+Ao abrigo do disposto no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, n.os 9 e 10 do artigo 26.º, e em cumprimento do preceituado no [Decreto-Lei n.º 353/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1989-549019), de 16 de Outubro, alínea c) do n.º 1 e n.º 4, ambos do artigo 30.º, alínea c) do n.º 1 do artigo 31.º e artigo 33.º, e de acordo com o [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, alínea d) do n.º 1 do artigo 3.º e artigo 5.º:
+
+Determino o seguinte:
+
+1 - São aprovados os Regulamentos de Estágio para Ingresso nas Carreiras de Inspecção, Técnica Superior e Técnica de Finanças da Inspecção-Geral de Finanças.
+
+2 - Os Regulamentos, anexos ao presente despacho e que dele fazem parte integrante, entram em vigor no dia seguinte ao da sua publicação.
+
+Ministério das Finanças, 15 de Setembro de 1994. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa.
+
+Regulamento de Estágio para Ingresso na Carreira de Inspecção da Inspecção-Geral de Finanças
+
+### CAPÍTULO I — Âmbito de aplicação e objectivos do estágio
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se ao estágio de ingresso na carreira de inspecção da Inspecção-Geral de Finanças (IGF).
+
+###### Artigo 2.º — Objectivos
+
+O estágio tem como objectivos a formação e preparação teórico-prática do estagiário para o desempenho das funções, nos termos em que estão definidas no conteúdo funcional da respectiva carreira, bem como a avaliação da sua capacidade de adaptação ao serviço.
+
+### CAPÍTULO II — Realização do estágio
+
+###### Artigo 3.º — Natureza e duração
+
+O estágio tem carácter probatório e a duração de um ano.
+
+###### Artigo 4.º — Estrutura do estágio
+
+1 - O estágio compreende duas fases sequenciais:
+
+a) Fase de sensibilização;
+
+b) Fase teórico-prática.
+
+2 - A fase de sensibilização desenvolve-se mediante um processo de acolhimento do estagiário e destina-se a facultar um adequado conhecimento orgânico e funcional da IGF e a proporcionar uma visão global dos direitos e deveres dos funcionários da Administração Pública.
+
+3 - A fase teórico-prática destina-se a:
+
+a) Proporcionar os conhecimentos básicos indispensáveis ao exercício das respectivas funções;
+
+b) Contribuir para a aquisição de métodos de trabalho, de estudo, pesquisa e análise, visando um desenvolvimento e actualização permanentes;
+
+c) Avaliar a capacidade de adaptação à função e ao serviço.
+
+###### Artigo 5.º — Plano de estágio
+
+A elaboração do plano de estágio é da competência do dirigente máximo do respectivo serviço.
+
+###### Artigo 6.º — Orientador do estágio
+
+1 - O estágio decorre sob a orientação do chefe de 1.º nível na dependência do qual o estagiário desempenhe funções.
+
+2 - Ao orientador do estágio compete, designadamente:
+
+a) Promover as acções que considere oportunas no âmbito do plano de estágio;
+
+b) Acompanhar o desenvolvimento do estágio, atribuindo progressivamente ao estagiário, atentos os diferentes graus de responsabilidade e complexidade das funções a desempenhar, as tarefas correspondentes ao conteúdo funcional do lugar a prover;
+
+c) Atribuir a classificação de serviço relativa ao período de estágio;
+
+d) Facultar ao júri de estágio todos os elementos necessários à avaliação e classificação finais do estagiário.
+
+3 - Quando a orientação do estágio tiver sido exercida por diversas chefias ao longo do ano, considera-se orientador aquela de quem o estagiário dependeu durante mais tempo, devendo, para efeitos de atribuição da classificação de serviço, ouvir-se também as restantes chefias.
+
+###### Artigo 7.º — Coordenador do estágio
+
+1 - Sempre que existam estagiários sob a orientação de mais de um chefe de 1.º nível, o júri designará, de entre os seus membros, um elemento responsável pela coordenação do estágio.
+
+2 - Compete ao coordenador, nomeadamente, realizar reuniões periódicas com estagiários e ou com os orientadores com a finalidade de discutir as questões suscitadas no decurso do estágio.
+
+###### Artigo 8.º — Cessação antecipada do estágio
+
+1 - Sempre que um estagiário revele notória inadequação para o exercício da função, deve o dirigente máximo do serviço propor ao inspector-geral a cessação imediata do estágio.
+
+2 - Para efeitos do número anterior, devem considerar-se, designadamente, os seguintes factores:
+
+a) Desinteresse ou dificuldade em integrar-se nos objectivos e estrutura do serviço ou incapacidade para a execução de funções que lhe são cometidas;
+
+b) Incapacidade para entender ou aplicar normas e instruções;
+
+c) Incorrecção ou demora injustificada na execução de tarefas;
+
+d) Mau relacionamento estabelecido com os superiores e, em geral, com todos aqueles que desempenham funções no local de estágio;
+
+e) Incompreensão quanto às condições e limites do exercício da sua autoridade.
+
+3 - A proposta a apresentar ao inspector-geral deve ser acompanhada de informação escrita devidamente fundamentada.
+
+4 - O inspector-geral poderá fazer cessar o estágio, consoante os casos, por rescisão do contrato administrativo de provimento ou por cessação da comissão de serviço extraordinária.
+
+### CAPÍTULO III — Avaliação e classificação finais do estágio
+
+###### Artigo 9.º — Competência para a avaliação e classificação finais
+
+A avaliação e classificação finais dos estagiários competem a um júri, em colaboração com o orientador do estágio.
+
+###### Artigo 10.º — Constituição e composição do júri
+
+1 - O júri é composto por um presidente e dois vogais, designados por despacho do inspector-geral, ouvidos os respectivos serviços.
+
+2 - O despacho constitutivo do júri designará, também, dois vogais suplentes, bem como o vogal efectivo que substituirá o presidente nas situações de ausência, falta ou impedimento.
+
+3 - O júri só pode deliberar na presença de todos os membros, sendo lavradas actas das suas reuniões.
+
+###### Artigo 11.º — Elementos de avaliação
+
+A classificação final dos estagiários terá em conta a classificação de serviço relativa ao período de estágio, a classificação obtida nos cursos especiais de provimento ou nas provas que os substituam, nos termos do n.º 3 do artigo 44.º do [Decreto-Lei n.º 353/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1989-549019), de 16 de Outubro, e a avaliação do relatório de estágio.
+
+###### Artigo 12.º — Classificação de serviço
+
+1 - Aos estagiários será atribuída uma classificação de serviço cuja tramitação se inicia findo o 10.º mês de estágio.
+
+2 - A classificação de serviço deverá observar, com as devidas adaptações, o disposto nas Normas de Classificação Anual do Pessoal do Quadro da IGF.
+
+3 - As menções qualitativas em que se traduz a classificação de serviço são convertidas de acordo com a seguinte tabela de equivalências:
+
+Insuficiente - 7;
+
+Sofrível - 10;
+
+Bom - 14;
+
+Bom com distinção - 16;
+
+Muito bom - 20.
+
+###### Artigo 13.º — Cursos especiais de provimento
+
+Sem prejuízo do disposto no n.º 3 do artigo 44.º do [Decreto-Lei n.º 353/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1989-549019), de 16 de Outubro, os estagiários serão submetidos, nos termos das respectivas Normas, à frequência de cursos especiais de provimento.
+
+###### Artigo 14.º — Relatório de estágio
+
+1 - Cada estagiário deve elaborar um relatório de estágio a apresentar ao júri no prazo de 10 dias úteis, contados a partir do termo do estágio.
+
+2 - Constituem parâmetros de ponderação na avaliação do relatório a estrutura, a criatividade, as capacidades de análise e de síntese, a forma de expressão escrita e a clareza de exposição.
+
+3 - A classificação do relatório de estágio é expressa numa escala de 0 a 20 valores.
+
+###### Artigo 15.º — Classificação final
+
+1 - A classificação final é atribuída no termo do prazo de duração do estágio e resulta da méda ponderada das pontuações obtidas nos elementos de avaliação.
+
+2 - Os elementos de avaliação são ponderados da seguinte forma:
+
+Classificação de serviço - 6;
+
+Curso especial de provimento - 4;
+
+Relatório de estágio - 1.
+
+3 - A classificação final do estágio é expressa numa escala de 0 a 20 valores.
+
+4 - Não se consideram aprovados os estagiários sem aproveitamento no curso especial de provimento ou que obtenham uma classificação final inferior a 14 valores, considerando-se como tal, por arredondamento, as classificações inferiores a 13,5 valores.
+
+###### Artigo 16.º — Ordenação dos estagiários
+
+1 - O júri elaborará a lista dos resultados, sendo os estagiários ordenados de acordo com a classificação final do estágio.
+
+2 - A lista de classificação final é dada a conhecer aos interessados. Estes, no prazo de 10 dias úteis a contar da sua recepção, podem, mediante requerimento dirigido ao presidente do júri, pronunciar-se sobre a classificação atribuída.
+
+###### Artigo 17.º — Homologação, publicitação e recurso da lista de classificação final
+
+1 - Nos 10 dias úteis subsequentes ao termo do prazo referido no n.º 2 do artigo anterior, o júri apreciará os requerimentos que eventualmente lhe tenham sido dirigidos e submeterá ao inspector-geral, para homologação, a lista de classificação.
+
+2 - Não se verificando a apresentação de requerimentos nos termos do n.º 2 do artigo anterior, o júri, no 1.º dia útil seguinte ao termo do prazo aí estabelecido, submeterá a lista de classificação ao inspector-geral para homologação.
+
+3 - Em matéria de homologação, publicitação, reclamação e recursos aplicam-se, com as necessárias adaptações, as regras previstas na lei geral sobre concursos na função pública.
+
+### CAPÍTULO IV — Artigo 18.º
+
+Disposição transitória
+
+As normas constantes do presente Regulamento aplicam-se aos estágios já iniciados à data da sua entrada em vigor.
+
+Regulamento de Estágio para Ingresso na Carreira Técnica Superior
+
+da Inspecção-Geral de Finanças
+
+### CAPÍTULO I — Âmbito de aplicação e objectivos do estágio
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se ao estágio de ingresso na carreira técnica superior da Inspecção-Geral de Finanças (IGF).
+
+###### Artigo 2.º — Objectivos
+
+O estágio tem como objectivos a formação e preparação teórico-prática do estagiário para o desempenho das funções, nos termos em que estão definidas no conteúdo funcional da respectiva carreira, bem como a avaliação da sua capacidade de adaptação ao serviço.
+
+### CAPÍTULO II — Realização do estágio
+
+###### Artigo 3.º — Natureza e duração
+
+O estágio tem carácter probatório e a duração de um ano.
+
+###### Artigo 4.º — Estrutura do estágio
+
+1 - O estágio compreende duas fases sequenciais:
+
+a) Fase de sensibilização;
+
+b) Fase teórico-prática.
+
+2 - A fase de sensibilização desenvolve-se mediante um processo de acolhimento do estagiário e destina-se a facultar um adequado conhecimento orgânico e funcional da IGF e a proporcionar uma visão global dos direitos e deveres dos funcionários da Administração Pública.
+
+3 - A fase teórico-prática destina-se a:
+
+a) Proporcionar os conhecimentos básicos indispensáveis ao exercício das respectivas funções;
+
+b) Contribuir para a aquisição de métodos de trabalho, de estudo, pesquisa e análise, visando um desenvolvimento e actualização permanentes;
+
+c) Avaliar a capacidade de adaptação à função e ao serviço.
+
+###### Artigo 5.º — Plano de estágio
+
+A elaboração do plano de estágio é da competência do dirigente máximo do respectivo serviço.
+
+###### Artigo 6.º — Orientador do estágio
+
+1 - O estágio decorre sob a orientação do chefe de 1.º nível na dependência do qual o estagiário desempenhe funções.
+
+2 - Ao orientador do estágio compete, designadamente:
+
+a) Promover as acções que considere oportunas no âmbito do plano de estágio;
+
+b) Acompanhar o desenvolvimento do estágio, atribuindo progressivamente ao estagiário, atentos os diferentes graus de responsabilidade e complexidade das funções a desempenhar, as tarefas correspondentes ao conteúdo funcional do lugar a prover;
+
+c) Atribuir a classificação de serviço relativa ao período de estágio;
+
+d) Facultar ao júri de estágio todos os elementos necessários à avaliação e classificação finais do estagiário.
+
+3 - Quando a orientação do estágio tiver sido exercida por diversas chefias ao longo do ano, considera-se orientador aquela de quem o estagiário dependeu durante mais tempo, devendo, para efeitos de atribuição da classificação de serviço, ouvir-se também as restantes chefias.
+
+###### Artigo 7.º — Coordenador do estágio
+
+1 - Sempre que existam estagiários sob a orientação de mais de um chefe de 1.º nível, o júri designará, de entre os seus membros, um elemento responsável pela coordenação do estágio.
+
+2 - Compete ao coordenador, nomeadamente, realizar reuniões periódicas com estagiários e ou com os orientadores com a finalidade de discutir as questões suscitadas no decurso do estágio.
+
+### CAPÍTULO III — Avaliação e classificação finais do estágio
+
+###### Artigo 8.º — Competência para a avaliação e classificação finais
+
+A avaliação e classificação finais dos estagiários competem a um júri.
+
+###### Artigo 9.º — Constituição e composição do júri
+
+1 - O júri é composto por um presidente e dois vogais, designados por despacho do inspector-geral, ouvidos os respectivos serviços.
+
+2 - O despacho constitutivo do júri designará, também, dois vogais suplentes, bem como o vogal efectivo que substituirá o presidente nas situações de ausência, falta ou impedimento.
+
+3 - O júri só pode deliberar na presença de todos os membros, sendo lavradas actas das suas reuniões.
+
+###### Artigo 10.º — Elementos de avaliação
+
+A classificação final dos estagiários terá em conta a classificação de serviço relativa ao período de estágio, a classificação obtida no curso de formação frequentado ou, tratando-se de vários cursos, a respectiva média simples e a avaliação do relatório de estágio.
+
+###### Artigo 11.º — Classificação de serviço
+
+1 - Aos estagiários será atribuída uma classificação de serviço cuja tramitação se inicia findo o 10.º mês de estágio.
+
+2 - A classificação de serviço deverá observar, com as devidas adaptações, o disposto nas Normas de Classificação Anual do Pessoal do Quadro da IGF.
+
+3 - As menções qualitativas em que se traduz a classificação de serviço são convertidas de acordo com a seguinte tabela de equivalências:
+
+Insuficiente - 7;
+
+Sofrível - 10;
+
+Bom - 14;
+
+Bom com distinção - 16;
+
+Muito bom - 20.
+
+###### Artigo 12.º — Cursos de formação profissional
+
+Os estagiários da carreira técnica superior serão submetidos, nos termos das respectivas Normas, à frequência de cursos de formação profissional.
+
+###### Artigo 13.º — Relatório de estágio
+
+1 - Cada estagiário deve elaborar um relatório de estágio a apresentar ao júri no prazo de 10 dias úteis, contados a partir do termo do estágio.
+
+2 - Constituem parâmetros de ponderação na avaliação do relatório a estrutura, a criatividade, as capacidades de análise e de síntese, a forma de expressão escrita e a clareza de exposição.
+
+3 - A classificação do relatório de estágio é expressa numa escala de 0 a 20 valores.
+
+###### Artigo 14.º — Classificação final
+
+1 - A classificação final é atribuída no termo do prazo de duração do estágio e resulta da méda ponderada das pontuações obtidas nos elementos de avaliação.
+
+2 - Os elementos de avaliação são ponderados da seguinte forma:
+
+Classificação de serviço - 6;
+
+Curso de formação profissional - 4;
+
+Relatório de estágio - 1.
+
+3 - A classificação final do estágio é expressa numa escala de 0 a 20 valores.
+
+4 - Não se consideram aprovados os estagiários que obtenham pontuação inferior a 14 valores.
+
+###### Artigo 15.º — Ordenação dos estagiários
+
+1 - O júri elaborará a lista dos resultados, sendo os estagiários ordenados de acordo com a classificação final do estágio.
+
+2 - A lista de classificação final é dada a conhecer aos interessados. Estes, no prazo de 10 dias úteis a contar da sua recepção, podem, mediante requerimento dirigido ao presidente do júri, pronunciar-se sobre a classificação atribuída.
+
+###### Artigo 16.º — Homologação, publicitação e recurso da lista de classificação final
+
+1 - Nos 10 dias úteis subsequentes ao termo do prazo referido no n.º 2 do artigo anterior, o júri apreciará os requerimentos que eventualmente lhe tenham sido dirigidos e submeterá ao inspector-geral, para homologação, a lista de classificação.
+
+2 - Não se verificando a apresentação de requerimentos nos termos do n.º 2 do artigo anterior, o júri, no 1.º dia útil seguinte ao termo do prazo aí estabelecido, submeterá a lista de classificação ao inspector-geral para homologação.
+
+3 - Em matéria de homologação, publicitação, reclamação e recursos aplicam-se, com as necessárias adaptações, as regras previstas na lei geral sobre concursos na função pública.
+
+Regulamento de Estágio para Ingresso na Carreira Técnica de Finanças da Inspecção-Geral de Finanças
+
+### CAPÍTULO I — Âmbito de aplicação e objectivos do estágio
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se ao estágio de ingresso na carreira técnica de finanças da Inspecção-Geral de Finanças (IGF).
+
+###### Artigo 2.º — Objectivos
+
+O estágio tem como objectivos a formação e preparação teórico-prática do estagiário para o desempenho das funções, nos termos em que estão definidas no conteúdo funcional da respectiva carreira, bem como a avaliação da sua capacidade de adaptação ao serviço.
+
+### CAPÍTULO II — Realização do estágio
+
+###### Artigo 3.º — Natureza e duração
+
+O estágio tem carácter probatório e a duração de um ano.
+
+###### Artigo 4.º — Estrutura do estágio
+
+1 - O estágio compreende duas fases sequenciais:
+
+a) Fase de sensibilização;
+
+b) Fase teórico-prática.
+
+2 - A fase de sensibilização desenvolve-se mediante um processo de acolhimento do estagiário e destina-se a facultar um adequado conhecimento orgânico e funcional da IGF e a proporcionar uma visão global dos direitos e deveres dos funcionários da Administração Pública.
+
+3 - A fase teórico-prática destina-se a:
+
+a) Proporcionar os conhecimentos básicos indispensáveis ao exercício das respectivas funções;
+
+b) Contribuir para a aquisição de métodos de trabalho, de estudo, pesquisa e análise, visando um desenvolvimento e actualização permanentes;
+
+c) Avaliar a capacidade de adaptação à função e ao serviço.
+
+###### Artigo 5.º — Plano de estágio
+
+A elaboração do plano de estágio é da competência do dirigente máximo dos Serviços Administrativos.
+
+###### Artigo 6.º — Orientador do estágio
+
+1 - O estágio decorre sob a orientação do chefe de 1.º nível na dependência do qual o estagiário desempenhe funções.
+
+2 - Ao orientador do estágio compete, designadamente:
+
+a) Promover as acções que considere oportunas no âmbito do plano de estágio;
+
+b) Acompanhar o desenvolvimento do estágio, atribuindo progressivamente ao estagiário, atentos os diferentes graus de responsabilidade e complexidade das funções a desempenhar, as tarefas correspondentes ao conteúdo funcional do lugar a prover;
+
+c) Atribuir a classificação de serviço relativa ao período de estágio;
+
+d) Facultar ao júri de estágio todos os elementos necessários à avaliação e classificação finais do estagiário.
+
+3 - Quando a orientação do estágio tiver sido exercida por diversas chefias ao longo do ano, considera-se orientador aquela de quem o estagiário dependeu durante mais tempo, devendo, para efeitos de atribuição da classificação de serviço, ouvir-se também as restantes chefias.
+
+###### Artigo 7.º — Coordenador do estágio
+
+1 - Sempre que existam estagiários sob a orientação de mais de um chefe de 1.º nível, o júri designará, de entre os seus membros, um elemento responsável pela coordenação do estágio.
+
+2 - Compete ao coordenador, nomeadamente, realizar reuniões periódicas com estagiários e ou com os orientadores com a finalidade de discutir as questões suscitadas no decurso do estágio.
+
+### CAPÍTULO III — Avaliação e classificação finais do estágio
+
+###### Artigo 8.º — Competência para a avaliação e classificação finais
+
+A avaliação e classificação finais dos estagiários competem a um júri.
+
+###### Artigo 9.º — Constituição e composição do júri
+
+1 - O júri é composto por um presidente e dois vogais, designados por despacho do inspector-geral, ouvidos os respectivos serviços.
+
+2 - O despacho constitutivo do júri designará, também, dois vogais suplentes, bem como o vogal efectivo que substituirá o presidente nas situações de ausência, falta ou impedimento.
+
+3 - O júri só pode deliberar na presença de todos os membros, sendo lavradas actas das suas reuniões.
+
+###### Artigo 10.º — Elementos de avaliação
+
+A classificação final dos estagiários terá em conta a classificação de serviço relativa ao período de estágio, a classificação obtida no curso de formação frequentado ou, tratando-se de vários cursos, a respectiva média simples e a avaliação do relatório de estágio.
+
+###### Artigo 11.º — Classificação de serviço
+
+1 - Aos estagiários será atribuída uma classificação de serviço cuja tramitação se inicia findo o 10.º mês de estágio.
+
+2 - A classificação de serviço deverá observar, com as devidas adaptações, o disposto nas Normas de Classificação Anual do Pessoal do Quadro da IGF.
+
+3 - As menções qualitativas em que se traduz a classificação de serviço são convertidas de acordo com a seguinte tabela de equivalências:
+
+Insuficiente - 7;
+
+Sofrível - 10;
+
+Bom - 14;
+
+Bom com distinção - 16;
+
+Muito bom - 20.
+
+###### Artigo 12.º — Cursos de formação profissional
+
+Os estagiários da carreira técnica serão submetidos à frequência de cursos de formação profissional nos termos em que se encontram regulamentados nas correspondentes Normas.
+
+###### Artigo 13.º — Relatório de estágio
+
+1 - Cada estagiário deve elaborar um relatório de estágio a apresentar ao júri no prazo de 10 dias úteis, contados a partir do termo do estágio.
+
+2 - Constituem parâmetros de ponderação na avaliação do relatório a estrutura, a criatividade, as capacidades de análise e de síntese, a forma de expressão escrita e a clareza de exposição.
+
+3 - A classificação do relatório de estágio é expressa numa escala de 0 a 20 valores.
+
+###### Artigo 14.º — Classificação final
+
+1 - A classificação final é atribuída no termo do prazo de duração do estágio e resulta da méda ponderada das pontuações obtidas nos elementos de avaliação.
+
+2 - Os elementos de avaliação são ponderados da seguinte forma:
+
+Classificação de serviço - 6;
+
+Curso de formação profissional - 4;
+
+Relatório de estágio - 1.
+
+3 - A classificação final do estágio é expressa numa escala de 0 a 20 valores.
+
+4 - Não se consideram aprovados os estagiários que obtenham pontuação inferior a 14 valores.
+
+###### Artigo 15.º — Ordenação dos estagiários
+
+1 - O júri elaborará a lista dos resultados, sendo os estagiários ordenados de acordo com a classificação final do estágio.
+
+2 - A lista de classificação final é dada a conhecer aos interessados. Estes, no prazo de 10 dias úteis a contar da sua recepção, podem, mediante requerimento dirigido ao presidente do júri, pronunciar-se sobre a classificação atribuída.
+
+###### Artigo 16.º — Homologação, publicitação e recurso da lista de classificação final
+
+1 - Nos 10 dias úteis subsequentes ao termo do prazo referido no n.º 2 do artigo anterior, o júri apreciará os requerimentos que eventualmente lhe tenham sido dirigidos e submeterá ao inspector-geral, para homologação, a lista de classificação.
+
+2 - Não se verificando a apresentação de requerimentos nos termos do n.º 2 do artigo anterior, o júri, no 1.º dia útil seguinte ao termo do prazo aí estabelecido, submeterá a lista de classificação ao inspector-geral para homologação.
+
+3 - Em matéria de homologação, publicitação, reclamação e recursos aplicam-se, com as necessárias adaptações, as regras previstas na lei geral sobre concursos na função pública.

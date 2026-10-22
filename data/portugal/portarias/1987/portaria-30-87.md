@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:663504:por
+title: Portaria n.º 30/87
+short_title: null
+summary: Aprova o programa do casino da zona de jogo permanente de Vidago-Pedras Salgadas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria de Estado do Turismo
+proposing_entity: null
+official_number: 30/87
+official_date: null
+publication_date: '1987-01-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/1987, Série I de 1987-01-16
+  number: '13'
+  series: I
+  supplement: null
+  pages: 225 - 226
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01300/02250226.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '663504'
+  dre_path: /dr/detalhe/portaria/30-1987-663504
+  internal: pt:dre:663504:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/30-1987-663504
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/30-1987-663504
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-11-20T00:00:00Z'
+integrity:
+  source_sha256: 6c311887c62b15bd710a7f942a8e6cb3dd7fb2ca8815538580ad82e68cba28bb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-30-663504.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:321485:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 30/87
+
+de 16 de Janeiro
+
+Em conformidade com o disposto na alínea a) do n.º 1 do artigo 2.º do [Decreto Regulamentar n.º 73/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/73-1986-210582), de 23 de Dezembro, a concessionária da zona de jogo permanente de Vidago-Pedras Salgadas será obrigada a construir um casino dotado das características e requisitos de conforto e funcionalidade definidos por portaria da Secretaria de Estado do Turismo.
+
+Nestes termos e de harmonia com o citado preceito legal:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Turismo, aprovar o programa do casino da zona de jogo permanente de Vidago-Pedras Salgadas, anexo a esta portaria, e que dela faz parte integrante.
+
+Secretaria de Estado do Turismo.
+
+**Assinada em 30 de Dezembro de 1986.**
+
+**O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.**
+
+1 - O casino deverá ser dotado dos indispensáveis requisitos de conforto, funcionalidade e dignidade estética, tendo em atenção que o casino não se destina exclusivamente à prática dos jogos, circunstância que imporá que a respectiva concepção seja orientada no sentido da realização de um efectivo centro social de elevado nível que possibilite - sem prejuízo daquela finalidade específica - o adequado desenvolvimento de funções de recreio, cultura e turismo que constituam factor de promoção e animação da zona.
+
+2 - A seguir se indicam, ainda que sumariamente, as instalações cuja existência é essencial:
+
+a) Vestíbulo de entrada. - Nele se situarão as bilheteiras, bengaleiros e outros serviços, como telefone e marcações, com capacidade a estabelecer de acordo com a frequência máxima do edifício;
+
+b) Hall. - Permitirá a adequada distribuição dos frequentadores para os diversos sectores de exploração, sendo de área proporcional ao dimensionamento previsto para o conjunto desses sectores.
+
+Nele se integrará, por forma a possibilitar o máximo aproveitamento para os utentes, uma área destinada a exposições.
+
+Nele se situarão os sanitários - homens e senhoras - de utilização geral dos frequentadores;
+
+c) Restaurante com capacidade para, pelo menos, 150 pessoas e dotado de palco que permita a exibição de variedades e atracções de nível internacional;
+
+d) Sector do jogo. - Constituído pelas salas de jogos de fortuna ou azar e pelas instalações anexas e necessárias ao respectivo funcionamento, com hall privativo, desenvolver-se-á por forma que a distribuição das referidas salas se faça a partir do mencionado hall privativo, no qual se integrará o serviço de identificação, de modo a exercer as funções a que se refere o artigo 18.º do [Decreto n.º 41812](https://diariodarepublica.pt/dr/detalhe/decreto/41812-1958-352076), de 9 de Agosto de 1958, em relação à totalidade de acessos às salas de jogos (sujeitos às restrições referidas no artigo 30.º e seus parágrafos do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840)), e que constituirá prolongamento do hall geral.
+
+O sector do jogo constituirá uma importante zona do conjunto, sem que se possa perder de vista, porém, que, constituindo, em princípio, a principal fonte de receitas das explorações, não pode orientar-se no sentido de reduzir os demais sectores.
+
+Distintas e sem comunicações entre si ou com as demais dependências do casino, salvo as dos serviços inerentes, de administração e de inspecção, funcionarão, nas condições de acesso antes referidas (um único acesso para cada uma), as salas de jogos tradicionais, a sala de jogos de máquinas automáticas e, ainda, sala para bingo.
+
+A capacidade da primeira deve comportar o funcionamento, pelo menos, das seguintes mesas de jogo:
+
+Quatro de roleta tipo francês;
+
+Um de roleta tipo americano;
+
+Três de banca francesa;
+
+Um de bacará ponto e banca;
+
+Três de black-jack/21;
+
+Um de bacará chemin de fer;
+
+Dez máquinas automáticas.
+
+Admite-se o seccionamento do funcionamento da sala, devendo, porém, os jogos por espécie encontrar-se agrupados, podendo também criar-se, a partir da principal, outras salas para determinados jogos.
+
+A sala especial de máquinas automáticas deve ter capacidade para o funcionamento de, pelo menos, 100 máquinas em condições de desafogo, conforto e comodidade para os frequentadores.
+
+A sala do bingo deve ser dimensionada por forma a permitir a instalação de, pelo menos, 250 lugares.
+
+O serviço de identificação, com a situação a que antes se aludiu, será projectado por forma que a consulta dos ficheiros seja o mais possível discreta e terá ligação com a antecâmara do gabinete da inspecção do Estado.
+
+Este gabinete, que será dotado de luz e ar directos, terá acessos para o hall privativo do jogo e para as salas de jogos, devendo ter capacidade que permita o trabalho simultâneo de três funcionários.
+
+No sector do jogo situar-se-ão os gabinetes do conjunto dos serviços necessários ao respectivo funcionamento, os quais se manterão independentes das restantes actividades desenvolvidas no casino.
+
+Nos serviços de apoio à sala de jogos atender-se-á a que os gabinetes dos caixas-vendedores e compradores serão independentes entre si e que o recinto destinado à compra de cheques bem como o serviço de câmbios, se instalado em dependência especial em vez de simples balcão dentro da sala de jogos, não podem ter portas opacas.
+
+Os serviços de compra e venda de fichas efectuar-se-ão em guichets ou balcões.
+
+Além dos órgãos de apoio funcional das salas de jogos, estas deverão dispor de sanitários e lavabos privativos para os respectivos frequentadores e de instalações de repouso para o pessoal adstrito ao funcionamento do jogo, com instalações complementares apropriadas e sanitários também privativos;
+
+e) Sector dos serviços. - No casino funcionarão e centralizar-se-ão todos os serviços necessários à exploração das actividades neles desenvolvidas, bem como os de contabilidade, relativos ao conjunto das actividades objecto da concessão, além dos especiais do jogo.
+
+O casino será, assim, a sede da empresa concessionária no período da concessão.
+
+No dimensionamento do sector dos serviços há-de ter-se em conta este condicionamento, dotando-se o imóvel de todo o conjunto de peças necessárias, como direcção dos diversos sectores, fiscal e controle, economato, despensa geral, garrafeira, despensa do dia, câmaras frigoríficas, oficinas, armazéns, arrecadações e instalações para o pessoal superior e outro, com salas de estar, refeitórios privativos, vestiários, sanitários, etc.;
+
+f) Criar-se-ão dependências próprias para o estabelecimento de eficiente sistema de condicionamento de ar e climatização.
+
+3 - O casino será dotado de parque de estacionamento com protecção contra raios solares, por meio de arborização, evitando soluções de completa nudez do recinto, com capacidade adequada ao movimento previsível.
+
+4 - Faltando rede pública de esgotos, a concessionária construirá sistema privativo que assegure a salubridade do conjunto.

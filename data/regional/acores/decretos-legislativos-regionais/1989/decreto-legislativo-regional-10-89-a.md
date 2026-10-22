@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:619936:por
+title: Decreto Legislativo Regional n.º 10/89/A
+short_title: null
+summary: Cria, na Região Autónoma dos Açores, o Instituto de Investimento e Privatizações dos Açores (IIPA)
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 10/89/A
+official_date: null
+publication_date: '1989-07-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/1989, Série I de 1989-07-25
+  number: '169'
+  series: I
+  supplement: null
+  pages: 2918 - 2919
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/07/16900/29182919.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '619936'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/10-1989-619936
+  internal: pt:dre:619936:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-05-26T00:00:00Z'
+integrity:
+  source_sha256: dfa653937b41e283866695b54f486642904537668062678b354fa470281e3d98
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1989/DRE-1989-10-619936.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:291927:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 10/89/A
+
+Instituto de Investimento e Privatizações dos Açores (IIPA)
+
+Ampliar e modernizar o tecido industrial e reduzir a intervenção da Região no sector empresarial, potenciando e acelerando o desenvolvimento económico, são grandes objectivos do Governo Regional para o quadriénio 1988-1992.
+
+Entende-se ser chegado o momento de criar um organismo que estude, acompanhe, promova e, na medida em que isso não caiba na competência específica de outros organismos ou órgãos da administração pública regional, execute as medidas e desenvolva as actividades necessárias à dinamização e aceleração do processo de desenvolvimento económico. A esse instituto caberá colaborar com o Governo na definição das políticas de desenvolvimento na área da economia, recorrendo à colaboração dos consultores e peritos que entenda convenientes.
+
+Caber-lhe-á ainda gerir os apoios e incentivos financeiros regionais, nacionais e comunitários ao investimento, o acompanhamento da privatização das empresas hoje integradas no sector público regional, propondo ao Governo Regional o quadro legal a que a mesma deverá obedecer, os processos e formas melhor adaptados a cada caso no cumprimento dos princípios e regras que vierem a ser legalmente definidos.
+
+Ao instituto caberá ainda a gestão das participações da Região Autónoma dos Açores no capital de sociedades e fomentar o investimento na Região, sobretudo nas áreas que vierem a ser definidas como prioritárias.
+
+Nestes termos:
+
+A Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º É criado, na Região Autónoma dos Açores, o Instituto de Investimento e Privatizações dos Açores, abrevidamente designado por IIPA, instituto de direito público, dotado de personalidade jurídica, com a autonomia administrativa e financeira e património próprio.
+
+###### Art. 2.º - 1 - O IIPA reger-se-á pelo presente decreto legislativo regional, pelo seu estatuto, a aprovar por decreto regulamentar regional, e, subsidiariamente, pelo ordenamento jurídico das empresas públicas.
+
+2 - Aplicam-se ao IIPA, nas suas relações com terceiros, as normas de direito privado.
+
+###### Art. 3.º O IIPA terá a sua sede na Região Autónoma dos Açores, podendo criar delegações e outras formas locais de representação.
+
+###### Art. 4.º São atribuições do IIPA, além das que vierem a ser fixadas no seu estatuto, as seguintes:
+
+a) Colaborar com o Governo Regional na definição das políticas de desenvolvimento na área da economia;
+
+b) Propor regras e acompanhar e gerir o processo regional de privatizações nos termos que vierem a ser legalmente definidos;
+
+c) Desenvolver e gerir sistemas de apoio e incentivos financeiros ao investimento;
+
+d) Colaborar na definição e execução das medidas de política de comércio externo que interessam à Região;
+
+e) Colaborar na orientação do investimento directo estrangeiro e da importação de tecnologia na Região;
+
+f) Gerir as participações da Região Autónoma dos Açores no capital de sociedades que para esse efeito lhe vierem a ser cometidas;
+
+g) Adquirir, a título originário ou derivado, participação no capital de sociedades, bem como alienar ou onerar por qualquer forma as que tenham sido integradas no seu património, e ainda participar em institutos, associações e outras entidades que tenham por objecto o desenvolvimento económico;
+
+h) Fomentar o investimento privado regional.
+
+###### Art. 5.º São órgãos do IIPA:
+
+a) O conselho de administração;
+
+b) O administrador-delegado;
+
+c) A comissão de fiscalização.
+
+###### Art. 6.º - 1 - O conselho de administração será constituído por três membros, um dos quais será o administrador-delegado e os outros vogais.
+
+2 - O administrador-delegado, que por inerência exercerá as funções de presidente do conselho de administração, será nomeado por resolução do Governo Regional, sob proposta do Secretário Regional da Economia.
+
+3 - Os vogais serão nomeados por despacho do Secretário Regional da Economia, sendo um designado pelo Secretário Regional das Finanças e Planeamento e o outro pelas organizações empresárias.
+
+###### Art. 7.º A comissão de fiscalização será constituída por três membros, um dos quais será o presidente e os outros vogais, nomeados por despacho do Secretário Regional da Economia, sendo o presidente designado pelo Secretário Regional das Finanças e Planeamento e um dos vogais revisor oficial de contas ou sociedade de revisores de contas.
+
+###### Art. 8.º - 1 - São receitas do IIPA, além de outras que foram definidas nos estatutos, as seguintes:
+
+a) As remunerações de serviços que preste a entidades públicas, cooperativas ou privadas;
+
+b) Os lucros, juros ou outros rendimentos que resultem da gestão ou alienação do seu património;
+
+c) As verbas que lhe sejam afectadas por quaisquer serviços, fundos ou organismos, personalizados ou não, da Região Autónoma;
+
+d) As comparticipações e subsídios que lhe venham a ser atribuídos por quaisquer entidades regionais, nacionais ou estrangeiras, bem como eventuais dotações inscritas no orçamento da Região.
+
+2 - Transitarão para o ano seguinte os saldos das gerências anteriores.
+
+3 - Constituem encargos do IIPA as despesas inerentes ao funcionamento e às actividades resultantes das atribuições previstas no presente diploma ou no seu estatuto.
+
+4 - O IIPA terá o regime fiscal previsto para os serviços e organismos da Região Autónoma.
+
+###### Art. 9.º - 1 - O pessoal do IIPA rege-se pelas normas aplicáveis ao contrato individual de trabalho.
+
+2 - O administrador-delegado ficará, para todos os efeitos, sujeito ao Estatuto do Gestor Público que vigorar.
+
+3 - As funções de vogal do conselho de administração conferirão direito a uma gratificação mensal a determinar por despacho conjunto dos Secretários Regionais da Economia, das Finanças e Planeamento e da Administração Interna.
+
+4 - Os membros da comissão de fiscalização, com excepção do revisor oficial de contas ou da sociedade de revisores de contas, que serão, para o efeito, contratados e correspondentemente remunerados, terão direito a uma gratificação a fixar por despacho conjunto das entidades referidas no número anterior.
+
+###### Art. 10.º Os funcionários do Estado, das regiões autónomas, dos institutos públicos e das autarquias locais, bem como os trabalhadores das empresas públicas, podem ser autorizados a exercer funções no IIPA, em regime de requisição, com garantia do seu lugar de origem, nos direitos nele adquiridos e com possibilidade de optar pelas respectivas remunerações.
+
+###### Art. 11.º Os poderes de tutela do Governo Regional serão exercidos pelo Secretário Regional da Economia.
+
+Aprovado pela Assembleia Regional dos Açores, na Horta, em 12 de Maio de 1989.
+
+**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+
+**Assinado em Angra do Heroísmo em 12 de Julho de 1989.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**

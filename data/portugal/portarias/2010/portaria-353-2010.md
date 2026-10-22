@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:335680:por
+title: Portaria n.º 353/2010
+short_title: null
+summary: Procede à revogação das medidas transitórias e excepcionais inseridas no âmbito do Programa Qualificação Emprego
+  instituídas para o ano de 2010
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 353/2010
+official_date: null
+publication_date: '2010-06-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/2010, Série I de 2010-06-21
+  number: '118'
+  series: I
+  supplement: null
+  pages: 2207 - 2207
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11800/0220702207.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/353/2010/06/21/p/dre/pt/html
+  oj: null
+  dre: '335680'
+  dre_path: /dr/detalhe/portaria/353-2010-335680
+  internal: pt:dre:335680:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/353-2010-335680
+  metadata_url: https://data.dre.pt/eli/port/353/2010/06/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/353-2010-335680
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-06-21T00:00:00Z'
+integrity:
+  source_sha256: e42e9ff194f21e6cccbc67ad9f62add7eed38af9f1a869f8a1c4ad2b3264d7e4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-353-335680.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Entidade Patronal
+- Qualificação Profissional
+- Programa Qualificação-emprego
+- Política de Emprego
+- TAXA Contributiva
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/199/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/199/1999/06/08/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 353/2010
+
+de 21 de Junho
+
+Face à actual conjuntura económica e à necessidade urgente de conter o crescimento da despesa pública, o XVIII Governo Constitucional aprovou um conjunto de medidas adicionais ao Programa de Estabilidade e Crescimento 2010-2013, visando uma redução sustentada do défice orçamental, já a partir de 2010.
+
+Nessa conformidade e perante um conjunto de indicadores conjunturais que apontam para uma perspectiva de recuperação da actividade económica, as actuais medidas de reforço de consolidação orçamental passam pela revogação de anteriores medidas de carácter temporário que haviam sido tomadas para o corrente ano com o objectivo de apoiar as empresas e os cidadãos num período excepcional de crise, nomeadamente, as que se reportam ao benefício, concedido às entidades empregadoras, de redução de três pontos percentuais da taxa contributiva relativamente aos trabalhadores que tenham 45 ou mais anos e àquelas que se enquadram no âmbito do Programa Qualificação Emprego para sectores de actividade com maior exposição à crise económica e sazonabilidade.
+
+Ainda neste contexto, impõe-se igualmente o cancelamento da implementação de algumas das medidas previstas no âmbito do Programa Iniciativa Emprego 2010, designadamente, do programa de requalificação de jovens licenciados em áreas de baixa empregabilidade e do reforço da linha de crédito bonificada para o apoio à criação de empresas por parte da população desempregada.
+
+Foram ouvidos os parceiros sociais com assento na Comissão Permanente da Concertação Social.
+
+Assim:
+
+Nos termos do disposto no artigo 7.º do [Decreto-Lei n.º 199/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1999-311258), de 8 de Junho, e no n.º 1 do artigo 17.º do [Decreto-Lei n.º 132/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1999-534598), de 21 de Abril, manda o Governo, pela Ministra do Trabalho e da Solidariedade Social, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - A presente portaria procede à revogação das medidas transitórias e excepcionais inseridas no âmbito do Programa Qualificação Emprego (PQE), instituídas para o ano de 2010 pelas Portarias n.os 126/2010, de 1 de Março, e 274/2010, de 18 de Maio.
+
+2 - A presente portaria procede ainda à revogação do apoio concedido às entidades empregadoras, de redução de três pontos percentuais da taxa contributiva, previsto no artigo 4.º da Portaria n.º 130/2009, de 30 de Janeiro, prorrogado para o ano de 2010, ao abrigo do disposto no artigo 10.º da Portaria n.º 99/2010, de 15 de Fevereiro, e do artigo 15.º da Portaria n.º 125/2010.
+
+###### Artigo 2.º — Norma revogatória
+
+A presente portaria revoga:
+
+a) A Portaria n.º 126/2010, de 1 de Março;
+
+b) A Portaria n.º 274/2010, de 18 de Maio;
+
+c) O artigo 4.º da Portaria n.º 130/2009, de 30 de Janeiro, o artigo 10.º da Portaria n.º 99/2010, de 15 de Fevereiro, e o n.º 2 do artigo 15.º da Portaria n.º 125/2010, de 1 de Março.
+
+###### Artigo 3.º — Disposição transitória
+
+1 - Sem prejuízo do disposto nas alíneas a) e b) do artigo anterior, às candidaturas ao PQE apresentadas até ao dia 30 de Junho de 2010 aplica-se o regime jurídico previsto na Portaria n.º 126/2010, de 1 de Março, e na Portaria n.º 274/2010, de 18 de Maio.
+
+2 - Sem prejuízo do disposto na alínea c) do artigo anterior, a redução da taxa contributiva prevista nas disposições legais aí referidas aplica-se às contribuições devidas até 31 de Maio de 2010, ainda que o respectivo prazo legal de pagamento seja posterior.
+
+###### Artigo 4.º — Entrada em vigor
+
+1 - O disposto nas alíneas a) e b) do n.º 1 do artigo 2.º entra em vigor no dia 1 de Julho de 2010.
+
+2 - O disposto na alínea c) do n.º 1 do artigo 2.º entra em vigor no dia seguinte ao da publicação da presente portaria.
+
+**A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 18 de Junho de 2010.**

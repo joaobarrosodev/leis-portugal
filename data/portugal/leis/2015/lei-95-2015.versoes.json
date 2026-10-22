@@ -1,0 +1,470 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70025050:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-131290439",
+ "dre_path": "/dr/detalhe/lei/95-2015-70025050",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-08-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "131290531",
+    "131290532",
+    "131290533",
+    "131290534",
+    "131290535",
+    "131290536",
+    "131290537",
+    "131290538",
+    "131290539",
+    "131290540",
+    "131290541",
+    "131290542",
+    "131290543",
+    "131290544",
+    "131290545"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "131290531",
+    "131290532",
+    "131290533",
+    "131290534",
+    "131290535",
+    "131290536",
+    "131290537",
+    "131290538",
+    "131290547",
+    "131290540",
+    "131290541",
+    "131290542",
+    "131290543",
+    "131290544",
+    "131290545",
+    "131290546"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639825:por",
+     "title": "Lei n.º 75-B/2020",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/lei/75-b-2020-152639825"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "131290531",
+    "131290532",
+    "131290533",
+    "131290534",
+    "131290535",
+    "131290536",
+    "131290537",
+    "131290538",
+    "152942105",
+    "131290540",
+    "131290541",
+    "131290542",
+    "131290543",
+    "131290544",
+    "131290545",
+    "131290546"
+   ]
+  },
+  {
+   "date": "2023-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:212982266:por",
+     "title": "Lei n.º 19/2023",
+     "published": "2023-05-12",
+     "dre_path": "/dr/detalhe/lei/19-2023-212982266"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "131290531",
+    "213025790",
+    "213025791",
+    "213025792",
+    "131290535",
+    "213025793",
+    "213025794",
+    "212982163",
+    "213025795",
+    "213025796",
+    "212982166",
+    "212982173",
+    "213025797",
+    "213025780",
+    "213025781",
+    "213025798",
+    "213025786",
+    "213025787",
+    "213025788",
+    "213025789"
+   ]
+  }
+ ],
+ "fragments": {
+  "131290531": {
+   "fragment_id": "131290440",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 95/2015\n\nde 17 de agosto\n\nEstabelece as regras e os deveres de transparência a que fica sujeita a realização de campanhas de publicidade institucional do Estado, bem como as regras aplicáveis à sua distribuição em território nacional, através dos órgãos de comunicação social locais e regionais, revogando o Decreto-Lei n.º 231/2004, de 13 de dezembro.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "131290532": {
+   "fragment_id": "131290441",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece as regras e os deveres de transparência a que fica sujeita a realização de campanhas de publicidade institucional do Estado.\n\n2 - A presente lei estabelece ainda as regras aplicáveis à distribuição da publicidade institucional do Estado, em território nacional, através dos órgãos de comunicação social locais e regionais."
+  },
+  "131290533": {
+   "fragment_id": "131290442",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nFicam abrangidas pela presente lei as ações de publicidade institucional da iniciativa das seguintes entidades:\n\na) Serviços da administração direta do Estado;\n\nb) Institutos públicos;\n\nc) Entidades que integram o setor público empresarial."
+  },
+  "131290534": {
+   "fragment_id": "131290443",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos da presente lei, entende-se por:\n\na) «Publicidade institucional do Estado», as campanhas, ações informativas e publicitárias e quaisquer outras formas de comunicação realizadas pelas entidades referidas no artigo anterior, divulgadas a uma pluralidade de destinatários indeterminados, com o objetivo direto ou indireto de promover iniciativas ou de difundir uma mensagem relacionada com os seus fins, atribuições ou missões de serviço público, mediante a aquisição onerosa de espaços publicitários;\n\nb) «Órgãos de comunicação social regional ou local», aqueles que, independentemente do suporte de distribuição ou difusão e tendo sede em qualquer das áreas geográficas de atuação das comissões de coordenação e desenvolvimento regional, se encontrem devidamente registados e demonstrem que o espaço ou tempo de emissão é predominantemente dedicado a publicar ou difundir conteúdos respeitantes a aspetos da vida política, cultural, económica, social ou ambiental de uma comunidade regional ou local, de acordo com o seu estatuto editorial;\n\nc) «Órgãos de comunicação social digitais», aqueles que, com distribuição ou acesso exclusivo através das plataformas digitais, se encontrem devidamente registados e demonstrem que mais de metade do seu conteúdo redatorial ou tempo de emissão radiofónico ou televisivo, consoante o caso, é predominantemente dedicado a publicar ou difundir, de forma regular, conteúdos próprios respeitantes a aspetos da vida política, cultural, económica, social ou ambiental da comunidade regional ou local onde se insere, de acordo com o seu estatuto editorial;\n\nd) «Meios de comunicação social regional ou local», a imprensa, a rádio, a televisão e informação incluída em suportes eletrónicos que se dedicam a publicar ou difundir conteúdos respeitantes a aspetos da vida política, cultural, económica, social ou ambiental de uma comunidade regional ou local;\n\ne) «Entidades promotoras», as entidades abrangidas pela presente lei, nos termos do artigo anterior."
+  },
+  "131290535": {
+   "fragment_id": "131290444",
+   "type": 11,
+   "heading": "Artigo 4.º — Promoção das campanhas de publicidade institucional do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Promoção das campanhas de publicidade institucional do Estado\n\n1 - A promoção de campanhas ou ações de publicidade institucional do Estado deve ser desenvolvida na prossecução das atribuições próprias ou de competências delegadas da entidade promotora, quando fundadas razões de interesse público o justificarem.\n\n2 - As campanhas de publicidade institucional do Estado devem indicar claramente a sua natureza e os fins que visam prosseguir, identificando de forma percetível aos destinatários a identidade da entidade promotora.\n\n3 - As campanhas de publicidade institucional do Estado devem contribuir para fomentar uma cultura de respeito pelos direitos fundamentais e a igualdade de género e, sempre que possível ou quando o seu objeto o permita, devem assegurar a disponibilização dos seus conteúdos através de suportes adequados aos cidadãos com necessidades especiais."
+  },
+  "131290536": {
+   "fragment_id": "131290445",
+   "type": 11,
+   "heading": "Artigo 5.º — Adjudicação da publicidade institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Adjudicação da publicidade institucional\n\n1 - As campanhas ou ações de publicidade institucional do Estado referidas no artigo anterior podem ser adjudicadas pela entidade promotora a agências de publicidade que reúnam, cumulativamente, os seguintes requisitos:\n\na) Se encontrem em exercício de atividade há mais de 12 meses à data do início do processo de adjudicação; e\n\nb) Apresentem elementos curriculares indicadores de solidez e capacidade profissional exigíveis para a realização das tarefas a contratar, nomeadamente na área de publicidade institucional do Estado.\n\n2 - Sem prejuízo do disposto em legislação especial, a adjudicação das ações informativas e publicitárias previstas na presente lei obedece ao disposto no Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, sem prejuízo do cumprimento dos demais regimes que se mostrem aplicáveis.\n\n3 - As entidades promotoras devem acompanhar a execução dos contratos celebrados nos termos dos números anteriores, nomeadamente no que respeita às relações de subcontratação e à aquisição de espaços publicitários através de agências de publicidade, com vista a assegurar níveis elevados de eficiência da aquisição publicitária e a recolha de elementos para os seus relatórios de atividades, bem como assegurar o estrito cumprimento das normas relativas à contratação de serviços de colocação de publicidade.\n\n4 - Os órgãos de comunicação social locais e regionais beneficiários do regime previsto na presente lei devem dispor de uma situação tributária e contributiva regularizada perante o Estado e a Segurança Social."
+  },
+  "131290537": {
+   "fragment_id": "131290446",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicidade institucional do Estado vedada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Publicidade institucional do Estado vedada\n\n1 - Não é permitida a realização e divulgação de ações informativas e publicitárias pelas entidades referidas no artigo 2.º que:\n\na) Incluam mensagens com teor discriminatório, nomeadamente de teor sexista, racista, homofóbico ou contrário aos princípios, valores e direitos constitucionalmente consagrados;\n\nb) Incitem, de forma direta ou indireta, à violência ou a comportamentos contrários ao Estado de direito democrático;\n\nc) Incluam símbolos, expressões, desenhos ou imagens que possam conduzir a confusão com qualquer formação política ou organização religiosa ou social.\n\n2 - Não é também permitida a realização de ações de publicidade institucional em:\n\na) Órgãos de comunicação social locais que sejam maioritariamente detidos, direta ou indiretamente, por entidades públicas;\n\nb) Órgãos de comunicação social que sejam maioritariamente detidos, direta ou indiretamente, pelas entidades referidas no artigo 2.º, com exceção dos órgãos de serviço público da Rádio e Televisão de Portugal, SA, e da LUSA - Agência de Notícias de Portugal, SA, bem como de quaisquer serviços ou departamentos deles dependentes;\n\nc) Publicações que ocupem com conteúdo publicitário comercial uma superfície superior a 50 % do espaço disponível de edição, incluindo suplementos e encartes, calculada com base na média das edições publicadas nos últimos 12 meses;\n\nd) Publicações que não se integrem no conceito de imprensa, nos termos da lei;\n\ne) Publicações periódicas gratuitas."
+  },
+  "131290538": {
+   "fragment_id": "131290447",
+   "type": 11,
+   "heading": "Artigo 7.º — Deveres de comunicação e transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deveres de comunicação e transparência\n\n1 - A aquisição de espaço publicitário prevista na presente lei deve ser comunicada pela entidade promotora à Entidade Reguladora para a Comunicação Social (ERC) até 15 dias após a sua contratação, através do envio de cópia da respetiva documentação de suporte.\n\n2 - As entidades abrangidas pela presente lei devem incluir nos respetivos planos e relatórios de atividades uma secção especificamente dedicada à informação sintética sobre as iniciativas de publicidade institucional do Estado, nos termos definidos na regulamentação aplicável.\n\n3 - Os dirigentes dos serviços e dos organismos abrangidos pela presente lei devem integrar na informação da publicidade institucional do Estado, referida no número anterior, os dados relativos ao cumprimento do disposto no artigo seguinte."
+  },
+  "131290539": {
+   "fragment_id": "131290448",
+   "type": 11,
+   "heading": "Artigo 8.º — Distribuição da publicidade institucional do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Distribuição da publicidade institucional do Estado\n\n1 - Deve ser afeta aos órgãos de comunicação social regionais e locais uma percentagem não inferior a 25 % do custo global previsto de cada campanha de publicidade institucional do Estado de valor unitário igual ou superior a (euro) 15 000.\n\n2 - O disposto no número anterior não é aplicável à publicidade institucional do Estado que seja especialmente destinada ao estrangeiro, não se considerando para este efeito a mera difusão da indicação em suporte eletrónico de que a publicidade é especialmente destinada ao estrangeiro.\n\n3 - A distribuição da publicidade pelos vários meios de comunicação social locais e regionais tem por objetivo promover a otimização da difusão da mensagem, nomeadamente tendo em conta a audiência e circulação dos meios selecionados.\n\n4 - Nos termos do disposto nos números anteriores, a distribuição deve, sempre que adequado aos fins da campanha, respeitar tendencialmente as seguintes percentagens de afetação:\n\na) Imprensa: 7 %;\n\nb) Rádio: 6 %;\n\nc) Televisão: 6 %;\n\nd) Órgãos de comunicação social digitais: 6 %.\n\n5 - Sem prejuízo do disposto no n.º 1, sempre que as percentagens previstas no número anterior não sejam cumpridas, a entidade promotora, quando solicitada pelo órgão de fiscalização, deve fundamentar tecnicamente a necessidade de uso de determinado ou determinados meios de comunicação local e regional em detrimento de um outro ou outros e fazer prova da afetação realizada.\n\n6 - A publicidade institucional do Estado realizada na Rádio e Televisão de Portugal, S. A. (RTP), concessionária dos serviços públicos de rádio e televisão, não releva para efeitos das percentagens de afetação constantes do n.º 4."
+  },
+  "131290540": {
+   "fragment_id": "131290449",
+   "type": 11,
+   "heading": "Artigo 9.º — Planeamento da publicidade institucional do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Planeamento da publicidade institucional do Estado\n\n1 - A distribuição das percentagens de afetação referida no artigo anterior deve obedecer aos seguintes critérios, em função de cada um dos meios de comunicação social local e regional:\n\na) Imprensa:\n\ni) A incidência geográfica da publicação;\n\nii) O público-alvo;\n\niii) O volume de tiragem e número de assinantes;\n\niv) A periodicidade das publicações;\n\nv) A audiência, quando exista estudo de mercado; e\n\nvi) A qualidade de impressão da publicação;\n\nb) Rádio:\n\ni) A incidência geográfica da radiodifusão;\n\nii) O público-alvo a que se destina a radiodifusão;\n\niii) As audiências radiofónicas, quando exista estudo de mercado;\n\niv) A qualidade radiofónica;\n\nc) Televisão:\n\ni) A incidência geográfica da emissão;\n\nii) O público-alvo a que se destina a emissão;\n\niii) As audiências televisivas, quando exista estudo de mercado;\n\nd) Órgãos de comunicação social digitais:\n\ni) O público-alvo a que se destina o suporte eletrónico;\n\nii) A periodicidade ou atualização de conteúdos;\n\niii) Métricas de avaliação do impacto da publicidade em suporte digital, quando existam.\n\n2 - No preenchimento e integração dos critérios enunciados no número anterior, aplicam-se os regimes legais específicos da imprensa, da radiodifusão, da televisão e da publicidade."
+  },
+  "131290541": {
+   "fragment_id": "131290450",
+   "type": 11,
+   "heading": "Artigo 10.º — Registo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Registo e fiscalização\n\n1 - Compete à ERC verificar e fiscalizar o cumprimento dos deveres de comunicação e transparência previstos na presente lei, bem como o dever de aplicação da percentagem a afetar a órgãos de comunicação local e regional em cada campanha, de acordo com o n.º 4 do artigo 8.º\n\n2 - Não é permitido o pagamento de campanhas de publicidade institucional sem que a respetiva despesa esteja antecipadamente registada na ERC e sem que esteja cumprido o disposto no artigo 8.º\n\n3 - A ERC deve comunicar ao Tribunal de Contas os casos de incumprimento dos deveres referidos no n.º 1."
+  },
+  "131290542": {
+   "fragment_id": "131290451",
+   "type": 11,
+   "heading": "Artigo 11.º — Informação sobre publicidade institucional do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Informação sobre publicidade institucional do Estado\n\n1 - A ERC fica responsável pela elaboração de um relatório atualizado sobre a adjudicação das ações informativas e publicitárias, bem como sobre a sua distribuição, a ser disponibilizado mensalmente no sítio na Internet daquela entidade, sem prejuízo do disposto no número seguinte.\n\n2 - Compete ainda à ERC a elaboração de um relatório anual de avaliação sobre o grau de cumprimento da presente lei, que remete à Assembleia da República até ao final do primeiro semestre de cada ano civil."
+  },
+  "131290543": {
+   "fragment_id": "131290452",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposição transitória\n\nA base de dados eletrónica que integra a informação relativa à publicidade institucional do Estado mantém-se operacional, com todos os efeitos aplicáveis, até que seja acordada a sua forma de transmissão entre a Secretaria-Geral da Presidência do Conselho de Ministros e a ERC."
+  },
+  "131290544": {
+   "fragment_id": "131290453",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 231/2004, de 13 de dezembro;\n\nb) A alínea i) do n.º 2 do artigo 2.º do Decreto Regulamentar n.º 49/2012, de 31 de agosto;\n\nc) A Portaria n.º 1297/2010, de 21 de dezembro;\n\nd) A alínea g) do artigo 3.º da Portaria n.º 58/2013, de 11 de fevereiro."
+  },
+  "131290545": {
+   "fragment_id": "131290454",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor 60 dias após a sua publicação."
+  },
+  "131290547": {
+   "fragment_id": "131290448",
+   "type": 11,
+   "heading": "Artigo 8.º — Distribuição da publicidade institucional do Estado",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 394.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 8.º — Distribuição da publicidade institucional do Estado\n\n1 - No caso de utilização de mais do que um meio de comunicação social, deve ser afeta aos órgãos de comunicação social regionais e locais uma percentagem não inferior a 25 % do custo global previsto de cada campanha de publicidade institucional do Estado de valor unitário igual ou superior a 5000 (euro).\n\n2 - O disposto no número anterior não é aplicável à publicidade institucional do Estado que seja especialmente destinada ao estrangeiro, não se considerando para este efeito a mera difusão da indicação em suporte eletrónico de que a publicidade é especialmente destinada ao estrangeiro.\n\n3 - A distribuição da publicidade pelos vários meios de comunicação social locais e regionais tem por objetivo promover a otimização da difusão da mensagem, nomeadamente tendo em conta a audiência e circulação dos meios selecionados.\n\n4 - Nos termos do disposto nos números anteriores, a distribuição deve, sempre que adequado aos fins da campanha, respeitar tendencialmente as seguintes percentagens de afetação:\n\na) Imprensa: 7 %;\n\nb) Rádio: 6 %;\n\nc) Televisão: 6 %;\n\nd) Órgãos de comunicação social digitais: 6 %.\n\n5 - Sem prejuízo do disposto no n.º 1, sempre que as percentagens previstas no número anterior não sejam cumpridas, a entidade promotora, quando solicitada pelo órgão de fiscalização, deve fundamentar tecnicamente a necessidade de uso de determinado ou determinados meios de comunicação local e regional em detrimento de um outro ou outros e fazer prova da afetação realizada.\n\n6 - A publicidade institucional do Estado realizada na Rádio e Televisão de Portugal, S. A. (RTP), concessionária dos serviços públicos de rádio e televisão, não releva para efeitos das percentagens de afetação constantes do n.º 4.\n\n> Alterado pelo/a Artigo 394.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "131290546": {
+   "fragment_id": "131290455",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 26 de junho de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 10 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 11 de agosto de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "152942105": {
+   "fragment_id": "131290448",
+   "type": 11,
+   "heading": "Artigo 8.º — Distribuição da publicidade institucional do Estado",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 432.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 394.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 8.º — Distribuição da publicidade institucional do Estado\n\n1 - Deve ser afeta aos órgãos de comunicação social regionais e locais uma percentagem não inferior a 25 % do custo global previsto de cada campanha de publicidade institucional do Estado de valor unitário igual ou superior a 5000 (euro).\n\n2 - O disposto no número anterior não é aplicável à publicidade institucional do Estado que seja especialmente destinada ao estrangeiro, não se considerando para este efeito a mera difusão da indicação em suporte eletrónico de que a publicidade é especialmente destinada ao estrangeiro.\n\n3 - A distribuição da publicidade pelos vários meios de comunicação social locais e regionais tem por objetivo promover a otimização da difusão da mensagem, nomeadamente tendo em conta a audiência e circulação dos meios selecionados.\n\n4 - Nos termos do disposto nos números anteriores, a distribuição deve, sempre que adequado aos fins da campanha, respeitar tendencialmente as seguintes percentagens de afetação:\n\na) Imprensa: 7 %;\n\nb) Rádio: 6 %;\n\nc) Televisão: 6 %;\n\nd) Órgãos de comunicação social digitais: 6 %.\n\n5 - Sem prejuízo do disposto no n.º 1, sempre que as percentagens previstas no número anterior não sejam cumpridas, a entidade promotora, quando solicitada pelo órgão de fiscalização, deve fundamentar tecnicamente a necessidade de uso de determinado ou determinados meios de comunicação local e regional em detrimento de um outro ou outros e fazer prova da afetação realizada.\n\n6 - A publicidade institucional do Estado realizada na Rádio e Televisão de Portugal, S. A. (RTP), concessionária dos serviços públicos de rádio e televisão, não releva para efeitos das percentagens de afetação constantes do n.º 4.\n\n> Alterado pelo/a Artigo 432.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 394.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "213025790": {
+   "fragment_id": "131290441",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece as regras e os deveres de transparência a que fica sujeita a realização de campanhas de publicidade institucional do Estado.\n\n2 - A presente lei estabelece ainda as regras aplicáveis à distribuição da publicidade institucional do Estado:\n\na) Em território nacional, através dos órgãos de comunicação social locais e regionais;\n\nb) Em território nacional ou fora dele, através dos órgãos de comunicação social direcionados às comunidades portuguesas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025791": {
+   "fragment_id": "131290442",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nFicam abrangidas pela presente lei as ações de publicidade institucional da iniciativa das seguintes entidades:\n\na) Assembleia da República, bem como órgãos e entidades administrativas que funcionam junto desta;\n\nb) Serviços da administração direta do Estado;\n\nc) Institutos públicos;\n\nd) Entidades administrativas independentes, exceto a ERC - Entidade Reguladora para a Comunicação Social;\n\ne) Entidades que integram o setor público empresarial.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025792": {
+   "fragment_id": "131290443",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos da presente lei, entende-se por:\n\na) «Publicidade institucional do Estado», as campanhas, ações informativas e publicitárias e quaisquer outras formas de comunicação realizadas pelas entidades referidas no artigo anterior, divulgadas a uma pluralidade de destinatários indeterminados, com o objetivo direto ou indireto de promover iniciativas ou de difundir uma mensagem relacionada com os seus fins, atribuições ou missões de serviço público, mediante a aquisição onerosa de espaços publicitários;\n\nb) «Órgãos de comunicação social regional ou local», aqueles que, independentemente do suporte de distribuição ou difusão e tendo sede em qualquer das áreas geográficas de atuação das comissões de coordenação e desenvolvimento regional, se encontrem devidamente registados e demonstrem que o espaço ou tempo de emissão é predominantemente dedicado a publicar ou difundir conteúdos respeitantes a aspetos da vida política, cultural, económica, social ou ambiental de uma comunidade regional ou local, de acordo com o seu estatuto editorial;\n\nc) 'Órgãos de comunicação social direcionados às comunidades portuguesas', aqueles que, independentemente do suporte de distribuição ou difusão e tendo sede em território nacional ou fora dele, se encontrem devidamente registados e demonstrem que o espaço ou tempo de emissão é dedicado a publicar ou difundir conteúdos respeitantes a aspetos da vida política, cultural, económica ou social das comunidades portuguesas no estrangeiro, ou que facultem o acesso das mesmas a informação sobre Portugal;\n\nd) «Órgãos de comunicação social digitais», aqueles que, com distribuição ou acesso exclusivo através das plataformas digitais, se encontrem devidamente registados e demonstrem que mais de metade do seu conteúdo redatorial ou tempo de emissão radiofónico ou televisivo, consoante o caso, é predominantemente dedicado a publicar ou difundir, de forma regular, conteúdos próprios respeitantes a aspetos da vida política, cultural, económica, social ou ambiental da comunidade regional ou local onde se insere, de acordo com o seu estatuto editorial;\n\ne) «Meios de comunicação social regional ou local», a imprensa, a rádio, a televisão e informação incluída em suportes eletrónicos que se dedicam a publicar ou difundir conteúdos respeitantes a aspetos da vida política, cultural, económica, social ou ambiental de uma comunidade regional ou local;\n\nf) «Entidades promotoras», as entidades abrangidas pela presente lei, nos termos do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025793": {
+   "fragment_id": "131290445",
+   "type": 11,
+   "heading": "Artigo 5.º — Adjudicação da publicidade institucional",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Adjudicação da publicidade institucional\n\n1 - As campanhas ou ações de publicidade institucional do Estado referidas no artigo anterior podem ser adjudicadas pela entidade promotora a agências de publicidade que reúnam, cumulativamente, os seguintes requisitos:\n\na) Se encontrem em exercício de atividade há mais de 12 meses à data do início do processo de adjudicação; e\n\nb) Apresentem elementos curriculares indicadores de solidez e capacidade profissional exigíveis para a realização das tarefas a contratar, nomeadamente na área de publicidade institucional do Estado.\n\n2 - Sem prejuízo do disposto em legislação especial, a adjudicação das ações informativas e publicitárias previstas na presente lei obedece ao disposto no Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, sem prejuízo do cumprimento dos demais regimes que se mostrem aplicáveis.\n\n3 - As entidades promotoras devem acompanhar a execução dos contratos celebrados nos termos dos números anteriores, nomeadamente no que respeita às relações de subcontratação e à aquisição de espaços publicitários através de agências de publicidade, com vista a assegurar níveis elevados de eficiência da aquisição publicitária e a recolha de elementos para os seus relatórios de atividades, bem como assegurar o estrito cumprimento das normas relativas à contratação de serviços de colocação de publicidade.\n\n4 - Os órgãos de comunicação social locais e regionais beneficiários do regime previsto na presente lei devem dispor de uma situação tributária e contributiva regularizada perante o Estado e a Segurança Social.\n\n5 - Sem prejuízo do disposto no n.º 1, as campanhas ou ações de publicidade institucional do Estado também podem ser adjudicadas às associações representativas do setor certificadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025794": {
+   "fragment_id": "131290446",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicidade institucional do Estado vedada",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 6.º — Publicidade institucional do Estado vedada\n\n1 - Não é permitida a realização e divulgação de ações informativas e publicitárias pelas entidades referidas no artigo 2.º que:\n\na) Incluam mensagens com teor discriminatório, nomeadamente de teor sexista, racista, homofóbico ou contrário aos princípios, valores e direitos constitucionalmente consagrados;\n\nb) Incitem, de forma direta ou indireta, à violência ou a comportamentos contrários ao Estado de direito democrático;\n\nc) Incluam símbolos, expressões, desenhos ou imagens que possam conduzir a confusão com qualquer formação política ou organização religiosa ou social.\n\n2 - Não é também permitida a realização de ações de publicidade institucional em:\n\na) Órgãos de comunicação social locais que sejam maioritariamente detidos, direta ou indiretamente, por entidades públicas;\n\nb) Órgãos de comunicação social que sejam maioritariamente detidos, direta ou indiretamente, pelas entidades referidas no artigo 2.º, com exceção dos órgãos de serviço público da Rádio e Televisão de Portugal, SA, e da LUSA - Agência de Notícias de Portugal, SA, bem como de quaisquer serviços ou departamentos deles dependentes;\n\nc) Publicações que ocupem com conteúdo publicitário comercial uma superfície superior a 50 % do espaço disponível de edição, incluindo suplementos e encartes, calculada com base na média das edições publicadas nos últimos 12 meses;\n\nd) Publicações que não se integrem no conceito de imprensa, nos termos da lei;\n\ne) Publicações periódicas gratuitas, com exceção das que se dirigem às comunidades portuguesas residentes no estrangeiro;\n\nf) Órgãos de comunicação social locais e regionais que tenham participação de forma maioritária, direta ou indiretamente, por entidades públicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "212982163": {
+   "fragment_id": "213004805",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Registo",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Registo\n\n1 - Os órgãos de comunicação social direcionados às comunidades portuguesas que não tenham sede em território nacional devem constar de registo junto da ERC para efeitos do acesso ao regime previsto na presente lei.\n\n2 - Do registo referido no número anterior devem constar a respetiva identificação, titularidade das participações sociais, país onde se encontram sediados, tiragem, visualizações ou audiência.\n\n3 - Os órgãos de comunicação social direcionados às comunidades portuguesas que se registem, nos termos do presente artigo, para beneficiarem do regime da publicidade institucional previstos na presente lei, consideram-se sob jurisdição do Estado português para esse efeito.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025795": {
+   "fragment_id": "131290447",
+   "type": 11,
+   "heading": "Artigo 7.º — Deveres de comunicação e transparência",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Deveres de comunicação e transparência\n\n1 - A aquisição de espaço publicitário prevista na presente lei deve ser comunicada pela entidade promotora à ERC até 15 dias antes do final da campanha, através do envio de cópia da respetiva documentação de suporte.\n\n2 - As entidades abrangidas pela presente lei devem incluir nos respetivos planos e relatórios de atividades uma secção especificamente dedicada à informação sintética sobre as iniciativas de publicidade institucional do Estado, nos termos definidos na regulamentação aplicável.\n\n3 - Os dirigentes dos serviços e dos organismos abrangidos pela presente lei devem integrar na informação da publicidade institucional do Estado, referida no número anterior, os dados relativos ao cumprimento do disposto no artigo seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025796": {
+   "fragment_id": "131290448",
+   "type": 11,
+   "heading": "Artigo 8.º — Distribuição da publicidade institucional do Estado",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01",
+    "Alterado pelo/a Artigo 432.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 394.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 8.º — Distribuição da publicidade institucional do Estado\n\n1 - Deve ser afeta aos órgãos de comunicação social regionais e locais uma percentagem não inferior a 25 % do custo global previsto de cada campanha de publicidade institucional do Estado de valor unitário igual ou superior a 5000 (euro).\n\n2 - O disposto no número anterior não é aplicável à publicidade institucional do Estado que seja especialmente destinada a um público ou instituições estrangeiras.\n\n3 - A distribuição da publicidade pelos vários meios de comunicação social locais e regionais tem por objetivo promover a otimização da difusão da mensagem, nomeadamente tendo em conta a audiência e circulação dos meios selecionados.\n\n4 - Nos termos do disposto nos números anteriores, a distribuição deve, sempre que adequado aos fins da campanha, respeitar tendencialmente as seguintes percentagens de afetação:\n\na) Imprensa: 7 %;\n\nb) Rádio: 6 %;\n\nc) Televisão: 6 %;\n\nd) Órgãos de comunicação social digitais: 6 %.\n\n5 - Sem prejuízo do disposto no n.º 1, sempre que as percentagens previstas no número anterior não sejam cumpridas, a entidade promotora, quando solicitada pelo órgão de fiscalização, deve fundamentar tecnicamente a necessidade de uso de determinado ou determinados meios de comunicação local e regional em detrimento de um outro ou outros e fazer prova da afetação realizada.\n\n6 - A publicidade institucional do Estado realizada na Rádio e Televisão de Portugal, S. A. (RTP), concessionária dos serviços públicos de rádio e televisão, não releva para efeitos das percentagens de afetação constantes do n.º 4.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01\n\n> Alterado pelo/a Artigo 432.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 394.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "212982166": {
+   "fragment_id": "131290449",
+   "type": 11,
+   "heading": "Artigo 9.º — Planeamento da publicidade institucional do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Planeamento da publicidade institucional do Estado\n\n1 - A distribuição das percentagens de afetação referida no artigo anterior deve obedecer aos seguintes critérios, em função de cada um dos meios de comunicação social local e regional:\n\na) Imprensa:\n\ni) A incidência geográfica da publicação;\n\nii) O público-alvo;\n\niii) O volume de tiragem e número de assinantes;\n\niv) A periodicidade das publicações;\n\nv) A audiência, quando exista estudo de mercado; e\n\nvi) A qualidade de impressão da publicação;\n\nb) Rádio:\n\ni) A incidência geográfica da radiodifusão;\n\nii) O público-alvo a que se destina a radiodifusão;\n\niii) As audiências radiofónicas, quando exista estudo de mercado;\n\niv) A qualidade radiofónica;\n\nc) Televisão:\n\ni) A incidência geográfica da emissão;\n\nii) O público-alvo a que se destina a emissão;\n\niii) As audiências televisivas, quando exista estudo de mercado;\n\nd) Órgãos de comunicação social digitais:\n\ni) O público-alvo a que se destina o suporte eletrónico;\n\nii) A periodicidade ou atualização de conteúdos;\n\niii) Métricas de avaliação do impacto da publicidade em suporte digital, quando existam.\n\n2 - No preenchimento e integração dos critérios enunciados no número anterior, aplicam-se os regimes legais específicos da imprensa, da radiodifusão, da televisão e da publicidade."
+  },
+  "212982173": {
+   "fragment_id": "213004806",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Publicidade institucional do Estado destinada às comunidades portuguesas",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Publicidade institucional do Estado destinada às comunidades portuguesas\n\n1 - As campanhas de publicidade institucional do Estado cujos conteúdos sejam respeitantes, no todo ou em parte, a aspetos da vida política, cultural, económica, associativa, consular ou social relacionados com as comunidades portuguesas no estrangeiro devem obrigatoriamente ser veiculadas nos órgãos de comunicação social direcionados às comunidades portuguesas.\n\n2 - Para efeitos do disposto no número anterior, deve ser afeta aos órgãos de comunicação social direcionados às comunidades portuguesas no estrangeiro uma percentagem não inferior a 10 % do custo global previsto de cada campanha de publicidade institucional do Estado de valor unitário igual ou superior a 5000 (euro).\n\n3 - As campanhas ou ações de publicidade institucional do Estado referidas no n.º 1 devem ser direcionadas aos órgãos de comunicação social destinados às comunidades portuguesas que reúnam, cumulativamente, os seguintes requisitos:\n\ni) Cumprimento de todas as obrigações aplicáveis à atividade de comunicação social no país onde se encontrem sediadas;\n\nii) Utilização da língua portuguesa em pelo menos 50 % da publicação ou programação.\n\n4 - A publicidade institucional do Estado realizada na RTP, concessionária dos serviços públicos de rádio e televisão, não releva para efeitos das percentagens de afetação constantes do n.º 2.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025797": {
+   "fragment_id": "131290450",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigatoriedade de registo prévio",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Obrigatoriedade de registo prévio\n\n1 - (Revogado.)\n\n2 - Não é permitido o pagamento de campanhas de publicidade institucional sem que a respetiva despesa esteja antecipadamente registada na ERC e sem que esteja cumprido o disposto no artigo 8.º\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025780": {
+   "fragment_id": "213004807",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Fiscalização",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 10.º-A — Fiscalização\n\nCompete à ERC:\n\na) Verificar e fiscalizar o cumprimento dos deveres de comunicação e transparência previstos na presente lei e do dever de aplicação da percentagem a afetar a órgãos de comunicação em cada campanha, previstos nos artigos 8.º e 9.º-A;\n\nb) Processar as contraordenações e aplicar as coimas previstas no artigo 12.º-A;\n\nc) Comunicar ao Tribunal de Contas os casos de incumprimento do disposto no n.º 2 do artigo 10.º\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025781": {
+   "fragment_id": "131290451",
+   "type": 11,
+   "heading": "Artigo 11.º — Informação sobre publicidade institucional do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Informação sobre publicidade institucional do Estado\n\n1 - A ERC fica responsável pela elaboração de um relatório atualizado sobre a adjudicação das ações informativas e publicitárias, bem como sobre a sua distribuição, a ser disponibilizado mensalmente no sítio na Internet daquela entidade, sem prejuízo do disposto no número seguinte.\n\n2 - Compete ainda à ERC a elaboração de um relatório anual de avaliação sobre o grau de cumprimento da presente lei, que remete à Assembleia da República até ao final do primeiro semestre de cada ano civil."
+  },
+  "213025798": {
+   "fragment_id": "131290452",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposição transitória",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 12.º — Disposição transitória\n\nA base de dados eletrónica que integra a informação relativa à publicidade institucional do Estado mantém-se operacional, com todos os efeitos aplicáveis, até que seja acordada a sua forma de transmissão entre a Secretaria-Geral da Presidência do Conselho de Ministros e a ERC.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025786": {
+   "fragment_id": "213004808",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Regime sancionatório",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 12.º-A — Regime sancionatório\n\n1 - A violação do disposto no n.º 1 do artigo 7.º é punida com coima de 1000 a 15 000 (euro).\n\n2 - A violação do disposto no n.º 1 do artigo 8.º e do disposto nos n.os 1 e 2 do artigo 9.º-A é punida com coima de 2500 a 25 000 (euro).\n\n3 - As receitas das coimas revertem em 60 % para a ERC e em 40 % para o Estado.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2023 - Diário da República n.º 92/2023, Série I de 2023-05-12](https://diariodarepublica.pt/dr/detalhe/lei/19-2023-212982266), em vigor a partir de 2023-06-01"
+  },
+  "213025787": {
+   "fragment_id": "131290453",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 231/2004, de 13 de dezembro;\n\nb) A alínea i) do n.º 2 do artigo 2.º do Decreto Regulamentar n.º 49/2012, de 31 de agosto;\n\nc) A Portaria n.º 1297/2010, de 21 de dezembro;\n\nd) A alínea g) do artigo 3.º da Portaria n.º 58/2013, de 11 de fevereiro."
+  },
+  "213025788": {
+   "fragment_id": "131290454",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor 60 dias após a sua publicação."
+  },
+  "213025789": {
+   "fragment_id": "131290455",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 26 de junho de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 10 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 11 de agosto de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

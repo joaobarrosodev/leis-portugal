@@ -1,0 +1,265 @@
+---
+schema_version: '1.0'
+id: pt:dre:520460:por
+title: Decreto-Lei n.º 91/2007
+short_title: null
+summary: Aprova a orgânica da Direcção-Geral das Artes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 91/2007
+official_date: null
+publication_date: '2007-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 63/2007, Série I de 2007-03-29
+  number: '63'
+  series: I
+  supplement: null
+  pages: 1910 - 1912
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/19101912.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/91/2007/03/29/p/dre/pt/html
+  oj: null
+  dre: '520460'
+  dre_path: /dr/detalhe/decreto-lei/91-2007-520460
+  internal: pt:dre:520460:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2007-520460
+  metadata_url: https://data.dre.pt/eli/dec-lei/91/2007/03/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2007-520460
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-03-27T00:00:00Z'
+integrity:
+  source_sha256: efcb2a4f495f86ae37c47197a843ad7fd2bd694bfdf1c9a49014e58eae1a0053
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-91-520460.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Definição de Competências
+- Diretor Geral
+- Ministério da Cultura
+- Direcção Geral das Artes
+- Subdirector Geral
+relationships:
+- type: amended_by
+  target: pt:dre:553950:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/181/2003/08/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/181/2003/08/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/215/2006/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/2006/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/225/2006/11/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/225/2006/11/13/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 91/2007
+
+de 29 de Março
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa, à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 215/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2006-545647), de 27 de Outubro, que aprova a lei orgânica do Ministério da Cultura, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+O presente decreto-lei é enformado pelos princípios orientadores da organização e funcionamento dos serviços da administração directa do Estado preconizados pelo XVII Governo Constitucional, o que permite a opção por uma regulamentação capaz de acolher a necessária flexibilidade de funcionamento.
+
+Com efeito, o apoio a agentes culturais independentes, a promoção activa da internacionalização da arte e dos artistas portugueses, a divulgação de trabalhos de criadores e intérpretes através de publicações em diversos suportes, o estímulo à inovação e à experimentação no campo das artes, são alguns dos principais objectivos da Direcção-Geral das Artes, no quadro de uma estratégia mais abrangente de incentivo à criação e difusão artísticas, formação de novos públicos e dinamização da cooperação e intercâmbio cultural internacional.
+
+No âmbito das atribuições desta Direcção-Geral, que sucede ao Instituto da Artes, avulta nomeadamente a implementação do novo regime de apoio às artes, aprovado pelo [Decreto-Lei n.º 225/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2006-546070), de 13 de Novembro, que estabelece as bases para a consolidação e sustentabilidade de um tecido de agentes culturais independentes com densidade técnico-profissional, distribuído de uma forma equilibrada pelas diferentes regiões do País, e que introduz novas modalidades de intervenção, promovendo a articulação com outras políticas sectoriais bem como parcerias com a administração local, de apoio à criação e à programação, com especial relevo para a valorização e dinamização da rede de cine-teatros municipais.
+
+Utilizando plenamente os instrumentos hoje disponíveis para uma gestão virtual da informação, cabe ainda à Direcção-Geral das Artes assegurar o registo, a organização e a divulgação documentais da criação contemporânea, gerando ou integrando redes de informação nacionais e internacionais acessíveis aos profissionais e ao público em geral e contribuindo também deste modo para a implementação do Portal da Cultura.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Direcção-Geral das Artes, abreviadamente designada por DGARTES, é um serviço central da administração directa do Estado, dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DGARTES tem por missão a coordenação e execução das políticas de apoio às artes, dinamizando parcerias institucionais e promovendo políticas adequadas a garantir a universalidade na sua fruição, bem como a liberdade e a qualificação da criação artística.
+
+2 - A DGARTES prossegue as seguintes atribuições:
+
+a) Propor e assegurar a execução das medidas de política estruturantes do sector das artes;
+
+b) Promover o alargamento da oferta cultural qualificada, incentivando a diversidade na criação cultural e proporcionando as condições adequadas ao seu crescimento e desenvolvimento profissional;
+
+c) Assegurar a diversificação e descentralização da criação e da difusão das artes, promovendo a igualdade de acesso às produções artísticas de forma a corrigir as assimetrias regionais e os desequilíbrios sociais e culturais;
+
+d) Promover a captação e formação de públicos, proporcionando-lhes a fruição e compreensão dos fenómenos artísticos;
+
+e) Propor as prioridades de investimento para o sector, identificando os critérios técnico-artísticos que integram a base de fundamentação das opções do Estado na aplicação dos recursos públicos;
+
+f) Fomentar a criação, a formação, a produção e a difusão das artes, mediante a definição de sistemas e modalidades de incentivo, a regulamentação de programas e critérios de apoio e fixação de contrapartidas exigíveis, assegurando a adopção de metodologias de fiscalização e avaliação de resultados;
+
+g) Contribuir para a melhoria dos equipamentos culturais, através da comparticipação em programas de construção, desenvolvimento, recuperação e requalificação de espaços e infra-estruturas;
+
+h) Promover a dignificação e valorização profissionais dos criadores, produtores e outros agentes culturais;
+
+i) Projectar as artes contemporâneas portuguesas nos circuitos internacionais;
+
+j) Assegurar o registo, a edição e a divulgação de documentos e obras relativos às áreas de intervenção da DGARTES;
+
+l) Promover, em colaboração com outros organismos da administração central e local, acções de articulação entre a promoção das artes e outras políticas sectoriais;
+
+m) Assegurar e fomentar a recolha e tratamento de informação sobre todos os domínios artísticos, criando ou integrando redes de informação nacionais e internacionais acessíveis aos profissionais e ao público em geral.
+
+3 - No desenvolvimento das suas atribuições, a DGARTES pode conceder os seguintes apoios e incentivos:
+
+a) Apoios cuja concessão lhe esteja atribuída por lei;
+
+b) Apoios que decorram de acordos institucionais celebrados com entidades públicas ou privadas;
+
+c) Apoios para a concretização da participação portuguesa em redes internacionais;
+
+d) Prémios.
+
+4 - A DGARTES possui capacidade editorial própria, em suportes distintos, bem como capacidade para promover a produção de réplicas e demais material de apoio a criadores e agentes culturais e ao público em geral, podendo proceder à venda ou, de qualquer modo, dispor do respectivo produto, assegurando os direitos editoriais ou autorais ao mesmo referentes.
+
+###### Artigo 3.º — Órgãos
+
+A DGLB é dirigida por um director-geral, coadjuvado por um subdirector-geral.
+
+###### Artigo 4.º — Director-geral
+
+1 - O director-geral exerce as competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas.
+
+2 - Ao subdirector-geral compete substituir o director nas suas faltas e impedimentos e exercer as competências que por este lhe sejam delegadas ou subdelegadas.
+
+###### Artigo 5.º — Organização interna
+
+A DGARTES exerce as suas competências através do seguinte modelo estrutural misto:
+
+a) Nas áreas de actividade relativas a concursos, comunicação, promoção, formação de públicos e internacionalização, o modelo de estrutura matricial;
+
+b) Nas restantes áreas de actividade, o modelo de estrutura hierarquizada.
+
+###### Artigo 6.º — Receitas
+
+1 - A DGARTES dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A DGARTES dispõe ainda das seguintes receitas próprias:
+
+a) Os subsídios e comparticipações atribuídos por quaisquer entidades, públicas ou privadas, nacionais ou estrangeiras;
+
+b) As quantias cobradas pelos serviços prestados a entidades públicas ou privadas;
+
+c) O produto da venda de publicações editadas em qualquer tipo de suporte pela DGARTES;
+
+d) O produto da alienação ou cedência de direitos do seu património, nomeadamente do direito de reprodução;
+
+e) O produto de venda de bilhetes de ingresso nas actividades de exposição;
+
+f) O produto da exploração económica das exposições produzidas e realizadas;
+
+g) Os valores cobrados pela inscrição e frequência das acções de formação promovidas pela DGARTES no âmbito das suas atribuições;
+
+h) Os valores cobrados pela participação da DGARTES em acções culturais ou científicas que empreender e que devam ser objecto de remuneração;
+
+i) As doações, heranças e legados que lhe forem atribuídos;
+
+j) O produto de apoios que lhe forem concedidos ao abrigo do Estatuto do Mecenato para projectos de manifesto interesse cultural;
+
+l) Quaisquer outras receitas que, por lei, contrato ou qualquer outro título, lhe sejam atribuídas.
+
+3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da DGARTES durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+
+4 - Os serviços prestados pela DGARTES são remunerados segundo tabela a aprovar por despacho do Membro do Governo responsável pela área da Cultura.
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da DGARTES as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 8.º — Quadro de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus, bem como de direcção intermédia de 1.º grau, constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+
+###### Artigo 9.º — Estatuto remuneratório dos chefes de equipas multidisciplinares
+
+Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão.
+
+###### Artigo 10.º — Sucessão
+
+A Direcção-Geral das Artes sucede nas atribuições do Instituto das Artes, bem como do Centro Português de Fotografia relativas ao apoio e à difusão da criação fotográfica e nas atribuições do Instituto do Cinema, Audiovisual e Multimédia na área da multimédia.
+
+###### Artigo 11.º — Critérios de selecção de pessoal
+
+São fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições fixadas no artigo 2.º:
+
+a) O exercício de funções no Centro Português de Fotografia directamente relacionadas com o apoio à difusão da criação fotográfica;
+
+b) O exercício de funções no Instituto do Cinema, Audiovisual e Multimédia directamente relacionadas com a área da multimédia.
+
+###### Artigo 12.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 181/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2003-660295), de 16 de Agosto.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Vieira de Carvalho.
+
+**Promulgado em 22 de Março de 2007.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 23 de Março de 2007.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+## ANEXO — (mapa a que se refere o artigo 8.º)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06300/19101912.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06300/19101912.pdf)

@@ -1,0 +1,285 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629125:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-165263175",
+ "dre_path": "/dr/detalhe/decreto-lei/348-2007-629125",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-10-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165262376",
+    "165262377",
+    "165262378",
+    "165262379",
+    "165262380",
+    "165262381",
+    "165262382",
+    "165262383",
+    "165262384",
+    "165262385",
+    "165262386",
+    "165262387",
+    "165262388",
+    "165262389",
+    "165262390",
+    "165262391",
+    "165262392",
+    "165262393",
+    "165262394",
+    "165262395",
+    "165262396",
+    "165262397",
+    "165262398"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "165262376",
+    "165262377",
+    "165262378",
+    "165262379",
+    "165262380",
+    "165274781",
+    "165262382",
+    "165262383",
+    "165262384",
+    "165262385",
+    "165262386",
+    "165262387",
+    "165262388",
+    "165262389",
+    "165262390",
+    "165262391",
+    "165262392",
+    "165262393",
+    "165262394",
+    "165262395",
+    "165262396",
+    "165262397",
+    "165262398",
+    "165262399"
+   ]
+  }
+ ],
+ "fragments": {
+  "165262376": {
+   "fragment_id": "165263176",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 348/2007\n\nde 19 de Outubro\n\nA Lei n.º 58/2005, de 29 de Dezembro (Lei da Água), prevê, no seu artigo 70.º, a possibilidade de totalidade ou parte dos utilizadores do domínio público hídrico de uma bacia ou sub-bacia hidrográfica se constituir em associação de utilizadores do domínio público hídrico com o objectivo de gerir em comum as licenças ou concessões de uma ou mais utilizações afins do domínio público hídrico.\n\nAs associações de utilizadores do domínio público hídrico constituem uma forma de garantir a participação dos utilizadores na gestão dos recursos hídricos. Para além da gestão partilhada de títulos, a lei prevê a possibilidade de serem delegadas nestas associações competências de gestão da totalidade ou parte das águas abrangidas pelos títulos de utilização por elas geridos.\n\nImporta, pois, dando cumprimento ao que determina a Lei da Água, aprovar as regras de criação, reconhecimento, estatutos e de funcionamento das associações de utilizadores, ficando desta forma completo o quadro legal necessário ao surgimento destas entidades que, mesmo tendo natureza privada, são susceptíveis de vir a originar, em parceria com a administração dos recursos hídricos, modelos de funcionamento inovadores na gestão da água.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Federação Nacional de Regantes de Portugal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta:"
+  },
+  "165262377": {
+   "fragment_id": "165263177",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime a que fica sujeito o reconhecimento das associações de utilizadores do domínio público hídrico, abreviadamente designadas por associações de utilizadores."
+  },
+  "165262378": {
+   "fragment_id": "165263178",
+   "type": 11,
+   "heading": "Artigo 2.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Reconhecimento\n\n1 - Compete ao Instituto da Água (INAG), I. P., reconhecer as associações de utilizadores.\n\n2 - Podem ser reconhecidas como associações de utilizadores as associações sem fins lucrativos constituídas por utilizadores do domínio público hídrico com o objectivo de gerir em comum as respectivas licenças ou concessões de utilização dos recursos hídricos e que reúnam as condições necessárias para contribuir para uma gestão mais eficaz dos recursos hídricos.\n\n3 - As associações de utilizadores podem ser associações de direito público ou associações constituídas nos termos da lei civil, por entes de direito privado, de direito público ou de ambos os tipos.\n\n4 - A denominação Associação de Utilizadores do Domínio Público Hídrico apenas pode ser utilizada pelas associações que forem reconhecidas como tal pelo INAG, I. P., nos termos do n.º 2 e enquanto tal reconhecimento subsistir."
+  },
+  "165262379": {
+   "fragment_id": "165263179",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1 - O pedido de reconhecimento é apresentado junto do INAG, I. P., instruído com os seguintes elementos:\n\na) Lista dos associados e dos corpos gerentes;\n\nb) Planos de acção futura no domínio da gestão de recursos hídricos;\n\nc) Descrição da actividade já desenvolvida no domínio de gestão de recursos hídricos;\n\nd) Meios humanos e patrimoniais afectos e a afectar à actividade de gestão dos recursos hídricos.\n\n2 - O INAG, I. P., deve obter oficiosamente os estatutos das associações de utilizadores no sítio da Internet de acesso público, regulado por portaria do membro do Governo responsável pela área da justiça, onde os mesmos se encontram publicados.\n\n3 - O INAG, I. P., pode solicitar a apresentação de outros documentos ou elementos de informação que permitam avaliar a aptidão da associação de utilizadores para colaborar com os serviços e organismos da administração central na gestão dos recursos hídricos.\n\n4 - O reconhecimento pode ser revogado pelo INAG, I. P., depois de ouvida a associação, sempre que a mesma não ofereça garantias adequadas de colaboração positiva na gestão dos recursos hídricos e, designadamente, nos casos seguintes:\n\na) Quando o seu fim se tenha esgotado ou se haja tornado impossível;\n\nb) Quando o seu fim real não coincida com o fim expresso no acto de constituição ou nos estatutos;\n\nc) Quando o seu fim seja sistematicamente prosseguido por meios ilícitos ou imorais;\n\nd) Quando deixe de possuir meios humanos e materiais suficientes para a efectivação dos fins estatutários e se reconheça não existirem legítimas expectativas de os virem a adquirir."
+  },
+  "165262380": {
+   "fragment_id": "165263180",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Registo\n\n1 - O INAG, I. P., promove a realização oficiosa de um registo das associações reconhecidas como associações de utilizadores.\n\n2 - As regras de organização e funcionamento do registo constam de portaria a aprovar pelo membro do Governo responsável pela área do ambiente, da qual consta:\n\na) A definição dos objectivos e conteúdo do registo;\n\nb) A especificação dos actos sujeitos a registo;\n\nc) A determinação dos efeitos do registo, em especial dos relacionados com a validade ou eficácia dos actos a ele sujeitos;\n\nd) Os trâmites e formalidades do processo de registo;\n\ne) Os fundamentos de cancelamento do registo;\n\nf) As condições de realização dos registos provisórios e oficiosos;\n\ng) A definição dos serviços competentes para a efectivação do registo e das comunicações exigidas pelo n.º 2 do artigo 168.º do Código Civil.\n\n3 - Compete ao INAG, I. P., a divulgação anual no seu sítio na Internet da lista das associações de utilizadores registadas."
+  },
+  "165262381": {
+   "fragment_id": "165263181",
+   "type": 11,
+   "heading": "Artigo 5.º — Declaração de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Declaração de utilidade pública\n\n1 - As associações de utilizadores devidamente reconhecidas e registadas podem requerer a declaração da sua utilidade pública, nos termos e para os efeitos do Decreto-Lei n.º 460/77, de 7 de Novembro, com observância das seguintes particularidades:\n\na) O pedido é instruído com parecer favorável do INAG, I. P.;\n\nb) As associações de utilizadores são equiparadas para este efeito a pessoas colectivas de utilidade pública administrativa local.\n\n2 - A revogação do reconhecimento de uma associação como associação de utilizadores pelo INAG, I. P., determina a caducidade automática da declaração da sua utilidade pública."
+  },
+  "165262382": {
+   "fragment_id": "165263182",
+   "type": 11,
+   "heading": "Artigo 6.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estatutos\n\n1 - As associações de utilizadores regem-se por estatutos elaborados com respeito pelo disposto no presente decreto-lei e demais legislação aplicável.\n\n2 - Dos estatutos das associações de utilizadores deve constar obrigatoriamente:\n\na) A denominação, que deve incluir a menção «Associação de Utilizadores do Domínio Público Hídrico» e não pode confundir-se com denominações de associações de utilizadores já existentes;\n\nb) A sede e âmbito de acção geográfico;\n\nc) Os fins e actividades da associação;\n\nd) A forma do seu funcionamento, incluindo a denominação, a composição e a competência dos corpos gerentes;\n\ne) A forma de designação dos respectivos membros;\n\nf) As condições de admissão e saída dos associados, os seus direitos e obrigações e as sanções pelo não cumprimento dessas obrigações;\n\ng) As quotas, donativos ou serviços com que os associados concorrem para o património social;\n\nh) A duração, quando a associação se não constitua por tempo indeterminado;\n\ni) O regime financeiro.\n\n3 - As associações de utilizadores que prossigam fins de diversa natureza devem mencionar nos seus estatutos os fins tidos como principais."
+  },
+  "165262383": {
+   "fragment_id": "165263183",
+   "type": 11,
+   "heading": "Artigo 7.º — Associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Associados\n\n1 - Só os utilizadores do domínio público hídrico, ao abrigo de um título de utilização ou desde que tal utilização lhe seja afecta por lei ou ao abrigo dela, podem ser associados das associações de utilizadores.\n\n2 - Quando das associações de utilizadores façam parte pessoas colectivas de direito público, a estas compete a nomeação de um terço dos titulares dos corpos gerentes, incluindo o presidente, gozando estas ainda do direito de veto sobre as matérias enunciadas nas alíneas a), c), d) e e) do n.º 2 do artigo 8.º do presente decreto-lei.\n\n3 - Quando das associações de utilizadores façam parte mais do que uma pessoa colectiva pública, deve ser eleito um representante comum, a quem compete o exercício dos direitos especiais referidos no número anterior.\n\n4 - A cada diferente título de utilização do domínio hídrico pode corresponder uma qualidade diferente de associado, nos termos definidos nos respectivos estatutos.\n\n5 - O disposto no n.º 1 não impede que sejam sócios extraordinários das associações de utilizadores, sem direito de voto ou com direitos de voto limitados globalmente a 20  % dos votos totais, os proprietários de terrenos confinantes com os recursos hídricos abrangidos que não sejam utilizadores desses recursos, sempre que a sua participação contribua para aumentar a capacidade das associações para colaborar na gestão dos recursos hídricos."
+  },
+  "165262384": {
+   "fragment_id": "165263184",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos\n\n1 - As associações de utilizadores dispõem, pelo menos, de um órgão colegial de administração e outro com funções de fiscalização, ambos constituídos por um número ímpar de titulares, dos quais um será o respectivo presidente.\n\n2 - Nas associações de utilizadores há sempre uma assembleia geral de associados com competência para deliberar sobre todas as matérias não compreendidas nas atribuições legais ou estatutárias dos outros órgãos e, necessariamente, para:\n\na) Definir as linhas fundamentais de actuação da associação;\n\nb) Eleger e destituir a totalidade ou a maioria dos membros dos órgãos de administração e de fiscalização;\n\nc) Apreciar e votar anualmente o orçamento e o programa de acção para o exercício seguinte, bem como o relatório e contas de gerência;\n\nd) Deliberar sobre a aquisição onerosa e a alienação, a qualquer título, de bens imóveis;\n\ne) Deliberar sobre a alteração dos estatutos e sobre a extinção, cisão ou fusão da associação;\n\nf) Autorizar a associação a demandar os membros dos corpos gerentes por factos praticados no exercício das suas funções;\n\ng) Fixar a remuneração dos membros dos corpos gerentes.\n\n3 - Os membros dos corpos gerentes são responsáveis civil e criminalmente pelas faltas ou irregularidades cometidas no exercício do mandato.\n\n4 - Além dos motivos previstos na lei geral, os membros dos corpos gerentes ficam exonerados de responsabilidade se:\n\na) Não tiverem tomado parte na deliberação e a reprovarem com declaração na acta da sessão imediata em que se estiverem presentes;\n\nb) Tiverem votado contra essa deliberação e o fizerem consignar na acta respectiva."
+  },
+  "165262385": {
+   "fragment_id": "165263185",
+   "type": 11,
+   "heading": "Artigo 9.º — Incapacidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Incapacidades e impedimentos\n\n1 - Não podem ser reeleitos ou novamente designados os membros de corpos gerentes que tenham sido responsáveis por irregularidades cometidas no exercício dessas funções ou judicialmente removidos dos cargos que desempenhavam, da mesma ou de outra associação de utilizadores.\n\n2 - Os membros dos corpos gerentes não podem votar em assuntos que directamente lhes digam respeito ou nos quais sejam interessados os respectivos cônjuges, ascendentes, descendentes e equiparados, ou sociedades por si ou por estes dominadas directa ou indirectamente.\n\n3 - Os membros dos corpos gerentes e as pessoas e entidades referidas no número anterior não podem contratar directa ou indirectamente com a associação de utilizadores, salvo se por deliberação unânime dos órgãos de direcção e de fiscalização for reconhecido que do contrato resulta manifesto benefício para a associação."
+  },
+  "165262386": {
+   "fragment_id": "165263186",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\n1 - As associações de utilizadores estão sujeitas à fiscalização da Administração de Região Hidrográfica com jurisdição na área que é objecto da respectiva actividade, abreviadamente designada ARH.\n\n2 - No caso de associações de utilizadores cuja actividade se alargue a áreas de jurisdição de duas ARH, a fiscalização é exercida por aquela onde se situar a principal área de actividade da associação.\n\n3 - O INAG, I. P., ou as ARH podem ordenar a realização de inquéritos, sindicâncias e inspecções às associações de utilizadores e seus estabelecimentos.\n\n4 - A Direcção-Geral de Agricultura e Desenvolvimento Rural pode requerer ao INAG, I.P., a realização dos inquéritos, sindicâncias e inspecções previstos no número anterior às associações de utilizadores que tenham entre os seus associados, pelo menos, uma entidade gestora de aproveitamentos hidroagrícolas."
+  },
+  "165262387": {
+   "fragment_id": "165263187",
+   "type": 11,
+   "heading": "Artigo 11.º — Requisição de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Requisição de bens\n\n1 - O membro do Governo responsável pela área do ambiente pode requisitar os bens afectos às actividades das associações de utilizadores para serem utilizados com o mesmo fim e na mesma área por outras associações de utilizadores ou pelas respectivas ARH, quando aquelas associações deixem de ser reconhecidas ou suspendam o exercício de actividades e se verifique que os utilizadores ou a protecção dos recursos são por esse motivo gravemente prejudicados.\n\n2 - A requisição cessa quando:\n\na) Os bens não forem mais necessários ao exercício das acções a que estavam afectos;\n\nb) As associações de utilizadores voltem a ser reconhecidas ou a assegurar a efectiva realização das mesmas actividades;\n\nc) Houver lugar à atribuição definitiva de bens."
+  },
+  "165262388": {
+   "fragment_id": "165263188",
+   "type": 11,
+   "heading": "Artigo 12.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Mandato\n\nOs detentores de títulos de utilização dos recursos hídricos do domínio público apenas podem conferir mandato para a gestão dos mesmos às associações de utilizadores devidamente reconhecidas e registadas."
+  },
+  "165262389": {
+   "fragment_id": "165263189",
+   "type": 11,
+   "heading": "Artigo 13.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Delegação de competências\n\n1 - A ARH pode delegar nas associações de utilizadores competências de gestão de totalidade ou parte das águas abrangidas pelos títulos de utilização geridos por cada associação.\n\n2 - A delegação prevista no número anterior pode realizar-se ao abrigo de contrato-programa ou de qualquer outro instrumento contratual, o qual fica sempre sujeito, entre outras, às seguintes condições:\n\na) A delegação pode ser avocada total ou parcialmente, permanente ou temporariamente, a qualquer momento pela ARH no caso de se constatar que a actividade da associação de utilizadores não contribui de forma positiva para a boa gestão dos recursos hídricos;\n\nb) A associação de utilizadores deve observar sempre as instruções e orientações da ARH no desempenho das funções que lhe foram delegadas.\n\n3 - A delegação prevista no n.º 1 pode abranger, designadamente:\n\na) A preparação ou a colaboração na preparação de instrumento de planeamento;\n\nb) A realização de acções de monitorização;\n\nc) A realização de trabalhos para cumprimento de planos específicos das águas ou de outros instrumentos de planeamento dos recursos hídricos;\n\nd) Outras acções necessárias à boa gestão dos recursos hídricos abrangidos.\n\n4 - As deliberações dos órgãos das associações de utilizadores, tomadas no âmbito da delegação conferida nos termos do presente artigo, podem, com fundamento na violação das normas e orientações a que estão sujeitas nos termos do presente decreto-lei, ser revogadas pela ARH, nos termos da lei."
+  },
+  "165262390": {
+   "fragment_id": "165263190",
+   "type": 11,
+   "heading": "Artigo 14.º — Contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contratos-programa\n\n1 - A associação de utilizadores delegatária de competências nos termos do artigo anterior que assuma a obrigação de realização de tarefas ou acções definidas em contrato-programa celebrado com a ARH pode beneficiar das seguintes receitas:\n\na) Parte dos valores provenientes de cobrança da taxa de recursos hídricos;\n\nb) Subsídios provenientes do Estado ou de outras pessoas colectivas de direito público.\n\n2 - Os orçamentos e as contas das associações de utilizadores que beneficiem da atribuição de parte dos valores da taxa de recursos hídricos são aprovados pelos órgãos competentes, nos termos estatutários, após emissão de parecer favorável da respectiva ARH.\n\n3 - Podem ser dispensados do parecer referido no número anterior, os orçamentos e contas das associações de utilizadores de valor inferior ao que vier a ser fixado por portaria do membro do Governo responsável pela área do ambiente, sem prejuízo da possibilidade de verificação dos instrumentos de receita e de despesa por meio de inspecção."
+  },
+  "165262391": {
+   "fragment_id": "165263191",
+   "type": 11,
+   "heading": "Artigo 15.º — Outras actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Outras actividades\n\n1 - As associações de utilizadores podem também:\n\na) Explorar total ou parcialmente empreendimentos de fins múltiplos que utilizem os recursos hídricos que são geridos pela associação de utilizadores;\n\nb) Gerir por concessão infra-estruturas hidráulicas na área dos recursos hídricos que são geridos pela associação de utilizadores.\n\n2 - As associações de utilizadores fornecem prontamente ao INAG, I. P., e às ARH que exerçam a respectiva a tutela as informações e os dados sobre os recursos hídricos em que intervêm, de harmonia com as instruções transmitidas por estes organismos."
+  },
+  "165262392": {
+   "fragment_id": "165263192",
+   "type": 11,
+   "heading": "Artigo 16.º — Autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Autonomia\n\n1 - No termos da legislação aplicável, as associações de utilizadores escolhem as suas áreas de actividade no seu âmbito de intervenção geográfica e prosseguem autonomamente a sua acção, no respeito pelos instrumentos de ordenamento e planeamento dos recursos hídricos em vigor e pelas instruções das ARH e do INAG, I. P.\n\n2 - Sem prejuízo das disposições estatutárias e da legislação aplicável, as associações de utilizadores estabelecem livremente a sua organização interna."
+  },
+  "165262393": {
+   "fragment_id": "165263193",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoio técnico e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apoio técnico e financeiro\n\n1 - O Estado, nomeadamente por intermédio das ARH ou do INAG, I. P., pode prestar apoio técnico ou financeiro às associações de utilizadores através de contratos-programa, protocolos ou contratos de parceria ou qualquer outra modalidade prevista na lei.\n\n2 - Mediante a celebração dos acordos mencionados no número anterior ou por concessão, as associações de utilizadores podem encarregar-se da gestão de instalações, equipamentos e infra-estruturas hidráulicas pertencentes ao Estado ou às autarquias locais."
+  },
+  "165262394": {
+   "fragment_id": "165263194",
+   "type": 11,
+   "heading": "Artigo 18.º — Destino dos bens das associações de utilizadores extintas ou cujo reconhecimento seja revogado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destino dos bens das associações de utilizadores extintas ou cujo reconhecimento seja revogado\n\n1 - Os bens das associações de utilizadores extintas revertem preferencialmente para outras associações de utilizadores com finalidades idênticas, nos termos das disposições estatutárias ou, na sua falta, mediante deliberação dos órgãos competentes.\n\n2 - Não havendo disposição estatutária aplicável nem deliberação dos órgãos competentes, os bens são atribuídos a outras associações de utilizadores com sede ou estabelecimento na bacia ou sub-bacia hidrográfica onde estes se localizem, dando-se preferência àquelas que prossigam acções semelhantes às exercidas pelas associações de utilizadores extintas, ou, na sua falta, às respectivas ARH.\n\n3 - Aos bens deixados ou doados com qualquer encargo ou afectados a determinados fins será dado destino de acordo com o disposto nos números anteriores, respeitando, sempre que possível, a intenção do encargo ou da afectação.\n\n4 - Os bens adquiridos por uma associação de utilizadores ou para ela transferidos, no pressuposto de que a mesma continuaria a ser como tal reconhecida, revertem para outras associações de utilizadores, nos termos do n.º 1, se tal reconhecimento for revogado, ainda que a associação se mantenha em vigor depois dessa revogação.\n\n5 - A atribuição a outra associação dos bens de uma associação de utilizadores extinta que interessem directamente ao cumprimento de acordos com terceiros, nomeadamente acordos de cooperação, carece de concordância das entidades intervenientes no acordo."
+  },
+  "165262395": {
+   "fragment_id": "165263195",
+   "type": 11,
+   "heading": "Artigo 19.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Extinção\n\n1 - As associações de utilizadores extinguem-se:\n\na) Por deliberação da assembleia geral;\n\nb) Pelo decurso do prazo, se tiverem sido constituídas por tempo determinado;\n\nc) Pela verificação de qualquer outra causa extintiva prevista no acto de constituição ou nos estatutos;\n\nd) Por decisão judicial que declare a sua insolvência.\n\n2 - As associações de utilizadores extinguem-se ainda por decisão judicial, podendo a declaração de extinção ser pedida pelo Ministério Público ou por qualquer interessado.\n\n3 - Nos casos previstos nas alíneas b) e c) do n.º 1, a extinção só produz efeitos se nos 30 dias subsequentes à data em que devia operar-se a assembleia geral não decidir a prorrogação da associação ou a modificação dos seus estatutos.\n\n4 - A extinção em virtude da declaração de insolvência dá-se em consequência da própria declaração."
+  },
+  "165262396": {
+   "fragment_id": "165263196",
+   "type": 11,
+   "heading": "Artigo 20.º — Efeitos da extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Efeitos da extinção\n\n1 - No caso de extinção, é eleita uma comissão liquidatária pela assembleia geral ou pela entidade que decretou a extinção.\n\n2 - Os poderes da comissão liquidatária ficam limitados à prática dos actos meramente conservatórios e necessários, quer à liquidação do património social, quer à ultimação dos negócios pendentes.\n\n3 - A associação de utilizadores só responde perante terceiros pelas obrigações que os administradores contraírem se estes tiverem agido de boa fé e se à extinção não tiver sido dada a devida publicidade."
+  },
+  "165262397": {
+   "fragment_id": "165263197",
+   "type": 11,
+   "heading": "Artigo 21.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regiões Autónomas\n\nO presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que possam ser introduzidas através de diploma regional adequado, cabendo a sua execução administrativa aos serviços competentes das administrações regionais."
+  },
+  "165262398": {
+   "fragment_id": "165263198",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma transitória\n\nAté à disponibilização dos estatutos das associações de utilizadores no sítio da Internet de acesso público prevista no n.º 2 do artigo 3.º, o pedido de reconhecimento apresentado junto do INAG, I. P., deve ser instruído com os mesmos."
+  },
+  "165274781": {
+   "fragment_id": "165263181",
+   "type": 11,
+   "heading": "Artigo 5.º — Declaração de utilidade pública",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Declaração de utilidade pública\n\n1 - As associações de utilizadores devidamente reconhecidas e registadas podem requerer a declaração da sua utilidade pública, nos termos e para os efeitos do Decreto-Lei n.º 460/77, de 7 de Novembro, com observância das seguintes particularidades:\n\na) O pedido é instruído com parecer favorável do INAG, I. P.;\n\nb) As associações de utilizadores são equiparadas para este efeito a pessoas colectivas de utilidade pública administrativa local.\n\n2 - A revogação do reconhecimento de uma associação como associação de utilizadores pelo INAG, I. P., determina a caducidade automática da declaração da sua utilidade pública.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165262399": {
+   "fragment_id": "165263199",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.\n\nPromulgado em 27 de Setembro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 1 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

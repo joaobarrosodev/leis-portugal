@@ -1,0 +1,237 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:372388:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/2001-1003478869",
+ "dre_path": "/dr/detalhe/despacho-normativo/10-2001-372388",
+ "source_lastmod": "2026-02-02",
+ "versions": [
+  {
+   "date": "2001-03-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1005069575",
+    "1005069775",
+    "1005070175",
+    "1005070375",
+    "1005070575",
+    "1005070775",
+    "1005070975",
+    "1005071175",
+    "1005071375",
+    "1005071575",
+    "1005071775",
+    "1005071975",
+    "1005072175",
+    "1005072375",
+    "1005072575",
+    "1005072775"
+   ]
+  },
+  {
+   "date": "2003-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:190583:por",
+     "title": "Despacho Normativo n.º 6/2003",
+     "published": "2003-02-19",
+     "dre_path": "/dr/detalhe/despacho-normativo/6-2003-190583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "1005069575",
+    "1005069775",
+    "1005069975",
+    "1005070175",
+    "1005070375",
+    "1005070575",
+    "1005070775",
+    "1005070975",
+    "1029684117",
+    "1005071375",
+    "1005071575",
+    "1005071775",
+    "1029684118",
+    "1029684119",
+    "1005072375",
+    "1005072575",
+    "1005072775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1005069575": {
+   "fragment_id": "1005069475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Programa Operacional Pesca, adiante designado por MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca, no âmbito do eixo «Protecção e desenvolvimento dos recursos aquáticos, aquicultura, equipamentos de portos de pesca, transformação e comercialização», prevê a medida «Protecção e desenvolvimento dos recursos aquáticos», a qual visa proteger os juvenis e aumentar o potencial de produção dos recursos aquáticos nas zonas de pesca costeira. Esta medida vem dar continuidade às experiências e aos projectos já realizados na década de 90 com a instalação de recifes artificiais ao largo do litoral algarvio.\n\nAssim, tendo em consideração a Decisão C(2000) n.º 2361, de 1 de Agosto, que aprovou o Programa Operacional Pesca do QCA III, e o Decreto-Lei n.º 224/2000, de 9 de Setembro, que define e regula o quadro legal daquele Programa, determino o seguinte:\n\n1 - É aprovado o Regulamento de Aplicação da Medida «Protecção e Desenvolvimento dos Recursos Aquáticos», anexo ao presente despacho, que dele faz parte integrante.\n\n2 - O presente despacho entra em vigor no dia seguinte à sua publicação."
+  },
+  "1005069775": {
+   "fragment_id": "1005069675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 8 de Fevereiro de 2001. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos."
+  },
+  "1005070175": {
+   "fragment_id": "1005070075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nO presente Regulamento tem por objectivos apoiar os projectos que visem:\n\na) Proteger os juvenis;\n\nb) Aumentar o potencial da produção dos recursos aquáticos nas zonas de pesca costeira."
+  },
+  "1005070375": {
+   "fragment_id": "1005070275",
+   "type": 11,
+   "heading": "Artigo 2.º — Promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Promotores\n\nPodem apresentar candidaturas no âmbito deste Regulamento o Instituto de Investigação das Pescas e do Mar (IPIMAR), as autarquias locais e outros organismos públicos com atribuições e competências no âmbito do domínio público hídrico."
+  },
+  "1005070575": {
+   "fragment_id": "1005070475",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipos de projectos\n\nPoderão ser apoiados os projectos que prossigam a instalação de recifes artificiais e o acompanhamento científico desses recifes."
+  },
+  "1005070775": {
+   "fragment_id": "1005070675",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de acesso\n\n1 - Os promotores devem reunir as seguintes condições de acesso, sempre que aplicáveis:\n\na) Ter a situação regularizada perante a administração fiscal, a segurança social e as entidades pagadoras de quaisquer apoios públicos;\n\nb) Dispor de contabilidade actualizada nos termos legais;\n\nc) Demonstrar deter mérito técnico e científico na investigação haliêutica ou apresentar acordo com entidade de investigação de reconhecido mérito nas ciências do mar.\n\n2 - Os projectos devem reunir as seguintes condições:\n\na) Apresentar um valor de investimento superior a 100000 euros;\n\nb) Demonstrar que do projecto resulta um benefício colectivo;\n\nc) Prever o acompanhamento técnico e científico do impacte dos recifes nas espécies haliêuticas e no meio ambiente durante pelo menos cinco anos;\n\nd) Estar garantida a cobertura financeira do projecto;\n\ne) Demonstrar o cumprimento das disposições legais em matéria de concursos públicos e de ambiente."
+  },
+  "1005070975": {
+   "fragment_id": "1005070875",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de selecção\n\n1 - Constituem critérios de selecção das candidaturas:\n\na) O impacte previsível na protecção dos recursos haliêuticos, em especial de juvenis;\n\nb) A qualidade técnica e científica da equipa afecta ao projecto;\n\nc) A integração da execução física com o acompanhamento científico e a divulgação dos impactes;\n\nd) A utilização de materiais não agressivos para o ambiente.\n\n2 - Para efeitos de selecção será dada prioridade às candidaturas relativamente às quais se verifique o preenchimento de maior número dos critérios anteriormente previstos."
+  },
+  "1005071175": {
+   "fragment_id": "1005071075",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis\n\nPara efeitos de concessão de apoios, são elegíveis as despesas que, directa ou indirectamente, contribuam para a implementação e desenvolvimento dos projectos, nomeadamente:\n\na) Estudos de impacte ambiental, projectos técnicos e outros levantamentos;\n\nb) Infra-estruturas e estruturas imersas e de apoio em terra;\n\nc) Trabalhos de levantamento, monitorização e controlo das áreas a intervencionar;\n\nd) Estudos técnicos e científicos de acompanhamento dos recifes artificiais instalados e publicações, vídeos, CD-ROM e outros suportes de comunicação associados à sua divulgação;\n\ne) Despesas imprevistas de investimento, incluindo revisões de preços, até ao limite máximo de 12% das despesas elegíveis."
+  },
+  "1005071375": {
+   "fragment_id": "1005071275",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas não elegíveis\n\nPara efeitos de concessão dos apoios previstos neste Regulamento, não são elegíveis as seguintes despesas:\n\na) Encargos administrativos e financeiros;\n\nb) Imposto sobre o valor acrescentado (IVA) recuperável pelo promotor;\n\nc) Aquisição de veículos;\n\nd) Aquisição de equipamentos em segunda mão;\n\ne) Aquisição de equipamentos dispensáveis à exequibilidade do projecto."
+  },
+  "1005071575": {
+   "fragment_id": "1005071475",
+   "type": 11,
+   "heading": "Artigo 8.º — Natureza e montantes dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Natureza e montantes dos apoios\n\nOs apoios são concedidos sob a forma de subsídio a fundo perdido, no montante de 75% do valor do investimento elegível, através de uma comparticipação financeira do Instrumento Financeiro de Orientação da Pesca (IFOP)."
+  },
+  "1005071775": {
+   "fragment_id": "1005071675",
+   "type": 11,
+   "heading": "Artigo 9.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Candidaturas\n\n1 - As candidaturas ao presente Regulamento são apresentadas na sede ou direcções regionais da Direcção-Geral das Pescas e Aquicultura (DGPA) ou nos serviços regionais do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\n2 - Os processos de candidatura são apresentados em triplicado, mediante o preenchimento dos formulários próprios, devendo ser obrigatoriamente acompanhados dos documentos referidos nos anexos a esses formulários.\n\n3 - Após a recepção das candidaturas podem ser solicitados através da DGPA ou do IFADAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 15 dias, se outro não for fixado.\n\n4 - A ausência de resposta do promotor equivale a desistência da candidatura a que se refere, excepto se o interessado demonstrar que aquela não lhe é imputável.\n\n5 - O fecho das candidaturas ocorrerá em 30 de Junho de 2006, se data anterior não for determinada pelo gestor."
+  },
+  "1005071975": {
+   "fragment_id": "1005071875",
+   "type": 11,
+   "heading": "Artigo 10.º — Apreciação e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apreciação e decisão\n\n1 - A apreciação dos projectos candidatos compete à DGPA.\n\n2 - A decisão final sobre as candidaturas é objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação ou subdelegação dessa competência, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n3 - As candidaturas são decididas no prazo máximo de 120 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos."
+  },
+  "1005072175": {
+   "fragment_id": "1005072075",
+   "type": 11,
+   "heading": "Artigo 11.º — Atribuição dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Atribuição dos apoios\n\n1 - A concessão dos apoios é formalizada por protocolo a celebrar entre o promotor e o IFADAP no prazo de 30 dias após a recepção da comunicação da concessão do apoio.\n\n2 - A não celebração do protocolo no prazo referido no número anterior determina a perda do direito ao apoio, salvo se o promotor comprovar que aquela não lhe é imputável nos 15 dias subsequentes.\n\n3 - O pagamento do apoio é feito pelo IFADAP, após a verificação de que o promotor tem a situação contributiva regularizada perante a administração fiscal e a segurança social.\n\n4 - Os pagamentos são efectuados após apresentação pelo promotor dos documentos comprovativos do pagamento das despesas em conformidade com os formulários próprios.\n\n5 - A primeira prestação dos apoios só será paga após realização de 25% do investimento elegível.\n\n6 - O apoio será pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação da componente prevista na alínea a) do artigo 12.º representar, pelo menos, 20% do respectivo apoio, salvo o disposto no número seguinte.\n\n7 - Poderão ser estabelecidos mecanismos de adiantamento do apoio, nos termos do protocolo referido no n.º 1."
+  },
+  "1005072375": {
+   "fragment_id": "1005072275",
+   "type": 11,
+   "heading": "Artigo 12.º — Execução dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Execução dos projectos\n\nA execução dos projectos aprovados desenvolve-se segundo duas componentes:\n\na) Uma relativa aos trabalhos de instalação dos elementos fixos ou móveis destinados a proteger e desenvolver os recursos aquáticos;\n\nb) Outra relativa ao acompanhamento científico do projecto, designadamente a avaliação e o controlo da evolução dos recursos marinhos."
+  },
+  "1005072575": {
+   "fragment_id": "1005072475",
+   "type": 11,
+   "heading": "Artigo 13.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigações dos promotores\n\nSem prejuízo das obrigações previstas no artigo 8.º do Decreto-Lei n.º 224/2000, de 9 de Setembro, constituem obrigações dos promotores, sempre que aplicáveis:\n\na) Cumprir as normas de publicitação do co-financiamento do investimento no local da realização do projecto a partir da data de assinatura do respectivo protocolo de atribuição dos apoios;\n\nb) Iniciar a execução do projecto no prazo máximo de 180 dias a contar da data da outorga do protocolo e completar essa execução no prazo previsto no cronograma do projecto;\n\nc) Apresentar ao IFADAP um relatório devidamente fundamentado sobre a execução material e financeira da componente do projecto prevista na alínea a) do artigo 12.º no prazo de um ano a contar da sua conclusão;\n\nd) Durante pelo menos cinco anos, apresentar ao gestor relatórios anuais relativos à execução da componente do projecto prevista na alínea b) do artigo 12.º;\n\ne) Aplicar integralmente os apoios na realização do projecto de investimento aprovado;\n\nf) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando nem modificando o mesmo sem prévia autorização do gestor;\n\ng) Garantir a igualdade de oportunidades entre homens e mulheres;\n\nh) Fornecer todos os elementos que forem solicitados pela DGPA, pelo IFADAP ou por entidade por estes mandatada para fiscalização, acompanhamento e avaliação do resultado dos projectos;\n\ni) Não alienar, sem autorização prévia do gestor, os equipamentos que beneficiaram de apoio financeiro ao abrigo do presente Regulamento num prazo de seis anos a contar da data da sua aquisição e zelar pela manutenção dos objectivos do projecto;\n\nj) Contabilizar os apoios recebidos nos termos da legislação aplicável."
+  },
+  "1005072775": {
+   "fragment_id": "1005072675",
+   "type": 11,
+   "heading": "Artigo 14.º — Alterações aos projectos aprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alterações aos projectos aprovados\n\n1 - Podem ser propostas alterações aos projectos aprovados, desde que se trate de alterações técnicas que não modifiquem a concepção estrutural e económica do projecto inicial.\n\n2 - A proposta de alterações deverá identificar, de forma rigorosa, as rubricas que se pretendem alterar, através de peças escritas e desenhadas, e ser acompanhada dos respectivos orçamentos discriminados.\n\n3 - As alterações previstas no n.º 1 carecem da aprovação prévia do gestor."
+  },
+  "1005069975": {
+   "fragment_id": "1005069875",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DA MEDIDA «PROTECÇÃO E DESENVOLVIMENTO DOS RECURSOS AQUÁTICOS»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DA MEDIDA «PROTECÇÃO E DESENVOLVIMENTO DOS RECURSOS AQUÁTICOS»"
+  },
+  "1029684117": {
+   "fragment_id": "1005071075",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas elegíveis",
+   "in_force_from": "2003-02-20",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 6/2003 - Diário da República n.º 42/2003, Série I-B de 2003-02-19](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2003-190583), em vigor a partir de 2003-02-20"
+   ],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis\n\nPara efeitos de concessão de apoios, são elegíveis as despesas que, directa ou indirectamente, contribuam para a implementação e desenvolvimento dos projectos, nomeadamente:\n\na) Estudos de impacte ambiental, projectos técnicos e outros levantamentos;\n\nb) Infra-estruturas e estruturas imersas e de apoio em terra;\n\nc) Trabalhos de levantamento, monitorização e controlo das áreas a intervencionar;\n\nd) Estudos técnicos e científicos de acompanhamento dos recifes artificiais instalados e publicações, vídeos, CD-ROM e outros suportes de comunicação associados à sua divulgação;\n\ne) Despesas imprevistas de investimento, incluindo revisões de preços, até ao limite máximo de 12% das despesas elegíveis previstas nas alíneas anteriores.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2003 - Diário da República n.º 42/2003, Série I-B de 2003-02-19](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2003-190583), em vigor a partir de 2003-02-20"
+  },
+  "1029684118": {
+   "fragment_id": "1005071875",
+   "type": 11,
+   "heading": "Artigo 10.º — Apreciação e decisão",
+   "in_force_from": "2003-02-20",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 6/2003 - Diário da República n.º 42/2003, Série I-B de 2003-02-19](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2003-190583), em vigor a partir de 2003-02-20"
+   ],
+   "markdown": "###### Artigo 10.º — Apreciação e decisão\n\n1 - A apreciação dos projectos candidatos compete à DGPA.\n\n2 - A decisão final sobre as candidaturas é objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação ou subdelegação dessa competência, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n3 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.\n\n4 - A comunicação da decisão das candidaturas será efectuada pela DGPA.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2003 - Diário da República n.º 42/2003, Série I-B de 2003-02-19](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2003-190583), em vigor a partir de 2003-02-20"
+  },
+  "1029684119": {
+   "fragment_id": "1005072075",
+   "type": 11,
+   "heading": "Artigo 11.º — Atribuição dos apoios",
+   "in_force_from": "2003-02-20",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 6/2003 - Diário da República n.º 42/2003, Série I-B de 2003-02-19](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2003-190583), em vigor a partir de 2003-02-20"
+   ],
+   "markdown": "###### Artigo 11.º — Atribuição dos apoios\n\n1 - A concessão dos apoios é formalizada por protocolo a celebrar entre o promotor e o IFADAP no prazo de 30 dias após a recepção da comunicação da concessão do apoio.\n\n2 - A não celebração do protocolo no prazo referido no número anterior determina a perda do direito ao apoio, salvo se o promotor comprovar que aquela não lhe é imputável nos 15 dias subsequentes.\n\n3 - O pagamento do apoio é feito pelo IFADAP, após a verificação de que o promotor tem a situação contributiva regularizada perante a administração fiscal e a segurança social.\n\n4 - Os pagamentos são efectuados após apresentação pelo promotor dos documentos comprovativos do pagamento das despesas em conformidade com os formulários próprios.\n\n5 - A primeira prestação dos apoios só será paga após realização de 25% do investimento elegível previsto para o primeiro ano de execução do projecto.\n\n6 - O apoio será pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação da componente prevista na alínea a) do artigo 12.º representar, pelo menos, 10% do respectivo apoio, salvo o disposto no número seguinte.\n\n7 - Poderão ser estabelecidos mecanismos de adiantamento do apoio e do reembolso das despesas inerentes à componente prevista na alínea b) do artigo 12.º, nos termos do protocolo referido no n.º 1.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2003 - Diário da República n.º 42/2003, Série I-B de 2003-02-19](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2003-190583), em vigor a partir de 2003-02-20"
+  }
+ }
+}

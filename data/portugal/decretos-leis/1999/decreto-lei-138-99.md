@@ -1,0 +1,532 @@
+---
+schema_version: '1.0'
+id: pt:dre:534612:por
+title: Decreto-Lei n.º 138/99
+short_title: null
+summary: Regula a fixação de obrigações de serviço público e as ajudas do Estado relativamente a serviços aéreos para regiões
+  insulares, periféricas ou em desenvolvimento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 138/99
+official_date: null
+publication_date: '1999-04-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/1999, Série I-A de 1999-04-23
+  number: '95'
+  series: I
+  supplement: null
+  pages: 2162 - 2167
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/04/095a00/21622167.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2011-05-07'
+version_history:
+  file: decreto-lei-138-99.versoes.json
+  count: 3
+  source_lastmod: '2024-08-28'
+  versions:
+  - date: '1999-04-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-24'
+    amending: pt:dre:480517:por
+    amending_title: Decreto-Lei n.º 208/2004
+    changes:
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+  - date: '2011-05-07'
+    amending: pt:dre:286960:por
+    amending_title: Lei n.º 14/2011
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/138/1999/p/cons/20110502/pt/html
+  oj: null
+  dre: '534612'
+  dre_path: /dr/detalhe/decreto-lei/138-1999-534612
+  internal: pt:dre:534612:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1999-534612
+  metadata_url: https://data.dre.pt/eli/dec-lei/138/1999/p/cons/20110502/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-886155685
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-886155685
+  retrieved_at: '2026-10-22T13:13:19Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-28T00:00:00Z'
+integrity:
+  source_sha256: b9e42bb6e95d0ea5893842745773784bb6b618b682c5c7a332e6dbbf688361ce
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:13:19Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-138-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arbitragem
+- Região Autónoma
+- Financiamento
+- Titulo de Transporte
+- Multa
+- Companhia Aérea
+- Transporte Aéreo
+- Compensação Financeira
+- Concurso Público
+- Governo Regional
+- Contra-ordenação
+- Contrato de Concessão
+- Instituto Nacional de Aviação Civil
+- Fiscalização
+- Interesse Público
+- Ministro do Equipamento do Planeamento e da Administração do Território
+- Serviço Público
+- Madeira.região Autónoma
+- ROTA Aérea
+- Sanção
+- Açores
+- Subsídio
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:480517:por
+  label: Altera Artigo 23.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517
+  date: '2004-08-19'
+- type: amended_by
+  target: pt:dre:286960:por
+  label: Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/14-2011-286960
+  date: '2011-05-02'
+- type: cites
+  target: celex:31992R2407
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2407/oj
+- type: cites
+  target: celex:31992R2408
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2408/oj
+article_structure:
+  article_count: 31
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:13:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 138/99
+
+Decreto-Lei n.º 138/99
+
+de 23 de Abril
+
+Através do Decreto-Lei n.º 234/89, de 25 de Julho, o transporte aéreo regular no interior do continente foi objecto de normatização, tendo ficado por consagrar um regime legal das ligações aéreas envolvendo as Regiões Autónomas que tivesse em conta as suas especificidades.
+
+O Regulamento (CEE) n.º 2408/92, do Conselho, de 23 de Julho, estabelece no seu artigo 4.º um regime de obrigações de serviço público no transporte aéreo para regiões periféricas ou em desenvolvimento.
+
+Por outro lado, tendo em atenção a experiência colhida nós últimos anos no serviço público de transporte aéreo e os regulamentos comunitários em vigor, considera-se aconselhável concentrar num mesmo diploma o regime dos serviços aéreos regulares estabelecidos entre o continente e as Regiões Autónomas, entre estas, no interior de cada uma delas, ou para qualquer outra região periférica ou em desenvolvimento do território nacional, bem como dos serviços aéreos em ligações de fraca densidade de tráfego, quando sujeitos a obrigações de serviço público.
+
+Pretende-se assim assegurar que as transportadoras aéreas garantam a regularidade e qualidade na exploração dessas rotas, sem que tal dependa estritamente dos seus interesses comerciais.
+
+Para alcançar esse desiderato, são previstos mecanismos de subsídio ou compensações que, respeitando claramente o ordenamento da União Europeia, permitem a prática de tarifários reduzidos junto dos interessados em termos de rentabilidade económica para as transportadoras.
+
+Desta forma, julgam-se criados os instrumentos aptos a diminuir o distanciamento, social e económico, que atinge as populações das Regiões Autónomas, regiões periféricas ou em desenvolvimento.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Âmbito e aplicação da lei
+
+O presente diploma regula as obrigações de serviço público e as ajudas do Estado aplicadas e prestadas no âmbito dos serviços aéreos regulares entre o continente e as Regiões Autónomas da Madeira e dos Açores, entre estas, no interior de cada Região Autónoma, ou para qualquer outra região periférica ou em desenvolvimento do território nacional, bem como em ligações aéreas de fraca densidade de tráfego.
+
+###### Artigo 2.º — Noções e conceitos
+
+Para efeitos do presente diploma legal entende-se por:
+
+«Transportadora aérea» uma empresa de transporte aéreo titular de uma licença de exploração válida e adequada;
+
+«Serviço aéreo» um voo ou uma série de voos transportando passageiros, carga e ou correio, a título oneroso;
+
+«Serviço aéreo regular» uma série de voos que reúna todas as características seguintes:
+
+Ser realizada por meio de aeronaves destinadas ao transporte de passageiros, carga e ou correio mediante pagamento, de forma que em cada voo existam lugares disponíveis para aquisição individual pelo público (directamente na transportadora aérea ou através dos agentes autorizados);
+
+Ser explorada de modo a assegurar o tráfego entre os mesmos dois ou mais aeroportos:
+
+Quer de acordo com um horário publicado;
+
+Quer mediante voos que, pela sua regularidade ou frequência, constituam, de forma patente, uma série sistemática;
+
+«Obrigação de serviço público» qualquer obrigação imposta a uma transportadora aérea, em relação a qualquer rota para cuja exploração lhe tenha sido concedida uma licença por um Estado membro da União Europeia, de adoptar todas as medidas necessárias para garantir a prestação de um serviço que satisfaça normas estabelecidas de continuidade, regularidade, capacidade e fixação de preços, normas essas que a transportadora aérea não respeitaria se atendesse apenas aos seus interesses comerciais;
+
+«INAC» Instituto Nacional de Aviação Civil.
+
+### Capítulo II — Obrigações de serviço público
+
+###### Artigo 3.º — Pressupostos e requisitos para a aplicação de obrigações de serviço público
+
+O Estado pode recorrer aos regimes de obrigação de serviço público, no que se refere aos serviços aéreos regulares para as regiões mencionadas no artigo 1.º do presente diploma, quando:
+
+a) A rota for considerada vital para o desenvolvimento económico da região;
+
+b) As condições do mercado dos transportes aéreos não garantam a existência de serviços aéreos regulares satisfazendo padrões adequados de continuidade, regularidade, qualidade, quantidade ou preço.
+
+###### Artigo 4.º — Adequação dos serviços aéreos regulares
+
+A adequação dos serviços aéreos regulares, para efeitos de fixação de obrigações de serviço público, deve ser avaliada pelo Estado tendo em conta:
+
+a) O interesse público;
+
+b) A possibilidade de recorrer a outros meios de transporte, com destino, origem ou passagem pelas Regiões Autónomas ou outras regiões a que se faz referência no artigo 1.º e a capacidade desses meios para dar resposta às necessidades de transporte em questão;
+
+c) As condições que podem ser oferecidas aos clientes, incluindo o preço do transporte;
+
+d) O efeito combinado de todas as transportadoras aéreas que operam ou tencionam operar na rota.
+
+###### Artigo 5.º — Competência para fixar obrigações de serviço público
+
+1 - São competentes para fixar obrigações de serviço público:
+
+a) O Ministro do Equipamento, do Planeamento e da Administração do Território, por sua iniciativa ou mediante proposta do INAC, relativamente a serviços objecto do presente diploma, sem prejuízo do disposto na alínea seguinte;
+
+b) Os Governos das Regiões Autónomas para serviços entre aeroportos ou aeródromos situados na respectiva Região.
+
+2 - O Ministro do Equipamento, do Planeamento e Administração do Território ouvirá os órgãos de governo próprio das Regiões Autónomas, sempre que os serviços envolvam aeroportos ou aeródromos situados nas mesmas, e consultará previamente as autoridades competentes de outro Estado membro da União Europeia, quando os serviços envolvam aeroportos ou aeródromos situados nesse Estado.
+
+###### Artigo 6.º — Natureza e publicitação das obrigações
+
+1 - As obrigações de serviço público são fixadas para rotas específicas, com indicação da data da sua entrada em vigor, e com termo certo ou por períodos mínimos, podendo revestir, entre outras, a forma de imposições quanto a continuidade, regularidade ou pontualidade dos serviços, requisitos mínimos operacionais e de equipamento, padrões mínimos de qualidade, frequência e horário de serviço, capacidade mínima de transporte, condições tarifárias ou preços máximos para determinadas categorias de tráfego.
+
+2 - Nos casos em que não seja possível assegurar um serviço adequado e ininterrupto através de outras formas de transporte, o Estado poderá incluir na obrigação de serviço público a condição de todas as transportadoras aéreas que pretendam operar na rota apresentarem garantias de que o farão durante um determinado período.
+
+3 - As obrigações de serviço público deverão ser escrupulosamente cumpridas por todas as transportadoras aéreas que explorem serviços aéreos regulares nas rotas abrangidas pelas referidas obrigações.
+
+4 - As obrigações são notificadas à Comissão Europeia pelas autoridades nacionais competentes, nos termos das normas comunitárias aplicáveis, e são posteriormente publicadas no Jornal Oficial das Comunidades Europeias.
+
+5 - O INAC difundirá igualmente as obrigações através de aviso publicado no Diário da República.
+
+6 - Nas publicações acima referidas, o conteúdo de cada obrigação será claramente definido e, quando possível, quantificado.
+
+7 - Previamente às publicações referidas nos n.os 4 e 5, o INAC informa as transportadoras aéreas que explorem a rota ou rotas em causa de que tais serviços irão ser objecto de imposição de obrigações.
+
+###### Artigo 7.º — Sistemas de ajudas
+
+As ajudas a conceder pelo Estado ao transporte aéreo decorrentes da imposição ou contratação de obrigações de serviço público, nos termos do presente diploma, podem traduzir-se em:
+
+a) Subsídio ao preço do bilhete, que consiste no pagamento de parte percentual do preço de venda dos bilhetes, relativamente a determinadas categorias de passageiros do serviço aéreo;
+
+b) Compensação financeira, a atribuir à transportadora aérea.
+
+### Capítulo III — Subsídio ao preço do bilhete
+
+###### Artigo 8.º — Sistema de subsídio ao preço do bilhete
+
+O subsídio ao preço do bilhete é fixado para uma rota ou conjunto de rotas específicas e aplica-se obrigatoriamente aos serviços aéreos regulares de qualquer transportadora que explore tais serviços nessas rotas, salvo quando o serviço seja explorado no regime de concessão.
+
+###### Artigo 9.º — Fixação do desconto
+
+A especificação das rotas e dos passageiros beneficiários, bem como a taxa percentual do subsídio ao preço do bilhete e ainda os valores máximos em dinheiro que o referido subsídio não poderá exceder, são fixados por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, ouvidos os órgãos de governo próprio das Regiões Autónomas, ou por portaria dos órgãos regionais competentes quanto às situações previstas no âmbito da alínea b) do n.º 1 do artigo 5.º
+
+###### Artigo 10.º — Preço do bilhete
+
+1 - O preço do bilhete a pagar pelo passageiro beneficiário não pode exceder a diferença entre o valor de venda ao público e o desconto resultante da aplicação da taxa percentual em vigor no momento da aquisição.
+
+2 - Caso o valor do desconto resultante da aplicação da referida taxa percentual exceda o valor máximo de subsídio fixado na portaria referida no artigo 9.º, considerar-se-á o valor do subsídio reduzido àquele valor máximo.
+
+3 - Todos os estabelecimentos e agências de venda aptos para a comercialização de bilhetes de transporte aéreo para as rotas abrangidas pelo sistema de subsídio ao preço do bilhete são obrigados a praticar o regime de descontos na venda de bilhetes aos passageiros beneficiários.
+
+4 - As transportadoras aéreas que explorem os serviços aéreos regulares sujeitos ao regime do artigo 8.º são reembolsadas pelo valor dos descontos efectuados ao abrigo do presente artigo, de acordo com os procedimentos e prazos previstos no artigo 18.º
+
+###### Artigo 11.º — Beneficiários
+
+1 - Podem ser beneficiários do regime de subsídio ao preço do bilhete público os seguintes passageiros de serviços aéreos, independentemente da sua nacionalidade:
+
+a) Os residentes há pelo menos seis meses nas zonas e regiões mencionadas no artigo 1.º;
+
+b) Os estudantes, até 26 anos, que preencham especificamente uma das seguintes condições:
+
+i) Frequência de estabelecimento de ensino no continente e com última residência habitual na Região Autónoma dos Açores ou na Região Autónoma da Madeira;
+
+ii) Frequência de estabelecimento de ensino na Região Autónoma dos Açores e com última residência habitual na Região Autónoma da Madeira ou no continente;
+
+iii) Frequência de estabelecimento de ensino na Região Autónoma da Madeira e com última residência habitual na Região Autónoma dos Açores ou no continente;
+
+iv) Frequência de estabelecimento de ensino nas Regiões Autónomas em ilha distinta daquela que é a sua última residência habitual;
+
+v) Frequência de estabelecimento de ensino no continente e com última residência habitual em qualquer outra região periférica ou em desenvolvimento do território nacional;
+
+c) Os membros dos Governos Regionais da Madeira e dos Açores e os cidadãos requisitados por esses Governos para serviço nas Regiões Autónomas, ainda que residam há menos de seis meses numa daquelas Regiões;
+
+d) Os funcionários da Administração Pública, civis ou militares, quando deslocados em comissão de serviço requisição ou destacamento, nas regiões abrangidas, ainda que aí residam há menos de seis meses;
+
+e) Os trabalhadores nacionais, com menos de seis meses de residência nas Regiões Autónomas que se encontrem vinculados por contrato de trabalho celebrado com entidade patronal com sede ou estabelecimento nessas regiões e ao abrigo do qual o local de trabalho seja uma dessas regiões;
+
+f) Os cidadãos que sejam titulares de autorização de residência válida e domicílio fiscal permanente nas regiões abrangidas.
+
+2 - Os subsídios podem ainda aplicar-se a estudantes deslocados que frequentem estabelecimentos de ensino noutro Estado da União Europeia.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 14/2011 - Diário da República n.º 84/2011, Série I de 2011-05-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2011-286960), em vigor a partir de 2011-05-07
+
+###### Artigo 12.º — Documentos necessários
+
+1 - Aquando da emissão e pagamento do bilhete, os beneficiários referidos na alínea a) do n.º 1 do artigo anterior deverão exibir o respectivo cartão de contribuinte e o cartão do cidadão, bilhete de identidade ou o passaporte ou a cédula pessoal, nos quais conste a indicação da residência numa das regiões abrangidas, cujo número será inscrito no bilhete.
+
+2 - No caso dos cidadãos nacionais de qualquer outro Estado membro da União Europeia, é suficiente a apresentação de documento de identificação legalmente emitido pelo país de origem ou de passaporte e documento emitido pelas autoridades portuguesas onde conste que o titular reside há pelo menos seis meses em alguma região abrangida.
+
+3 - No caso dos cidadãos nacionais de outro Estado que não integre a União Europeia, são obrigatórias a apresentação do respectivo cartão de contribuinte e autorização de residência válida.
+
+4 - Para além da documentação exigida nos termos dos números anteriores, os beneficiários referidos na alínea b) do n.º 1 do artigo anterior deverão apresentar certificado emitido e autenticado pelo estabelecimento de ensino que comprove estarem devidamente matriculados no ano em referência.
+
+5 - Os beneficiários menores de idade deverão, no acto da compra do bilhete, além da sua própria identificação, exibir documento emitido por um dos pais ou curador, referindo o local de residência do menor e a autorização para a realização da viagem.
+
+6 - Os membros dos governos e funcionários referidos nas alíneas c) e d) do n.º 1 do artigo anterior deverão também exibir, para além da identificação exigida no n.º 1, credencial passada pelo respectivo órgão de governo ou da Administração.
+
+7 - Para além da identificação exigida no n.º 1 os trabalhadores referidos na alínea e) do n.º 1 do artigo anterior devem também exibir, na altura da compra do bilhete, declaração passada pela entidade patronal ou folha de remuneração comprovativa da existência da relação e local de trabalho.
+
+8 - Para além dos documentos de identificação referidos nos números anteriores, os estabelecimentos ou agências de venda aptos para a comercialização de bilhetes de transporte aéreo para essas rotas exigirão aos beneficiários, no acto da compra do bilhete, que preencham um formulário próprio, conforme modelos a aprovar por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 14/2011 - Diário da República n.º 84/2011, Série I de 2011-05-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2011-286960), em vigor a partir de 2011-05-07
+
+###### Artigo 13.º
+
+Os critérios de elegibilidade dos beneficiários, assim como a documentação a que se referem os artigos 11.º e 12.º, podem ser regulamentados por portaria dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+### Capítulo IV — Contrato de concessão
+
+###### Artigo 14.º — Disposições gerais
+
+1 - O Estado pode atribuir, em regime de concessão, a exploração exclusiva de uma rota ou de um conjunto de rotas por forma a assegurar a exequibilidade e eficácia das obrigações de serviço público.
+
+2 - A concessão prevista no número anterior só poderá ter lugar quando nenhuma transportadora aérea tiver iniciado a exploração ou apresentado ao INAC, dentro dos prazos fixados, um programa de exploração relativo à prestação de serviços aéreos regulares, sem contrapartida financeira, na rota ou rotas em causa de acordo com as obrigações de serviço público.
+
+###### Artigo 15.º — Concurso público
+
+1 - A concessão referida no n.º 1 do artigo anterior será obrigatoriamente precedida de concurso público de acordo com as disposições constantes do presente diploma, aplicando-se ao concurso o regime do Decreto-Lei n.º 55/95, de 29 de Março, a tudo o mais que aqui não se encontre previsto.
+
+2 - As concessões atribuídas nos termos do artigo precedente não poderão ter duração superior a três anos.
+
+3 - O recurso à concessão não poderá ter lugar nos casos excepcionados no Regulamento (CEE) n.º 2408/92, do Conselho, de 23 de Julho.
+
+###### Artigo 16.º — Regime geral da concessão
+
+1 - Em caso de concessão, o regime de ajudas consistirá exclusivamente na atribuição à concessionária de uma compensação financeira, cujo valor será fixado de acordo com a proposta apresentada no concurso pela transportadora aérea.
+
+2 - A compensação financeira a pagar à concessionária não poderá exceder o défice de exploração dos serviços objecto da concessão, devidamente apurado pelas entidades fiscalizadoras, dentro do limite máximo dos valores constantes da proposta da transportadora concessionária apresentada a concurso.
+
+3 - Para efeitos de cálculo do défice serão tidos em conta os custos e proveitos da exploração efectivos do serviço, excluindo custos financeiros, bem como uma remuneração razoável do investimento, a fixar no programa de concurso.
+
+4 - O concurso para atribuição da concessão poderá determinar níveis máximos de compensação ou outra forma de cálculo, mas sempre em conformidade com as regras contidas no n.º 2.
+
+###### Artigo 17.º — Do processo de concurso público
+
+1 - A abertura do concurso cabe à entidade que fixar as obrigações de serviço público, nos termos do artigo 5.º
+
+2 - O aviso de concurso e o contrato subsequente deverão explicitar, designadamente, os seguintes pontos:
+
+a) Normas exigidas pelas obrigações de serviço público;
+
+b) Condições de exploração;
+
+c) Regras relativas à duração, alteração ou rescisão do contrato, especialmente para ter em conta quaisquer mudanças imprevisíveis;
+
+d) Período de validade do contrato;
+
+e) Sanções a aplicar em caso de incumprimento das obrigações previstas no contrato;
+
+f) Compensações financeiras e respectivos regimes;
+
+g) Condições e pressupostos de validade do aviso.
+
+3 - Têm legitimidade para apresentar propostas, em virtude do aviso, todas as transportadoras aéreas titulares de uma licença de exploração válida, emitida nos termos do Regulamento (CEE) n.º 2407/92, do Conselho, de 23 de Julho, e de um certificado de operador adequado para o efeito.
+
+4 - O prazo para apresentação das candidaturas para o concurso público não poderá ser inferior a um mês a contar da data da publicação do aviso no Jornal Oficial das Comunidades Europeias.
+
+5 - A selecção das propostas terá em conta a adequação dos serviços, incluindo os preços e as condições oferecidas aos utentes e o montante da compensação financeira pedida ao Estado, segundo critérios a estipular no programa de concurso.
+
+6 - A decisão final do concurso deverá ser proferida, sempre que possível, dentro dos 120 dias seguintes à publicação do aviso de concurso.
+
+### Capítulo V — Procedimentos e prazos de pagamento às transportadoras aéreas
+
+###### Artigo 18.º — Subsídio ao preço do bilhete
+
+1 - Para efeitos do reembolso do montante relativo ao subsídio ao preço dos bilhetes, as transportadoras aéreas apresentarão à Inspecção-Geral de Finanças, nos 60 dias subsequentes a cada trimestre vencido, listagem de todos os bilhetes vendidos com desconto, nos termos dos artigos 9.º a 12.º, agrupados por grupo de beneficiários (rota, tipo de beneficiário e tarifa utilizada) e com indicação dos montantes de subsídio concedido, global e por grupo de beneficiários.
+
+2 - A Inspecção-Geral de Finanças pode exigir que as listagens referidas no número anterior sejam acompanhadas de cópias dos bilhetes em causa e da documentação comprovativa da elegibilidade dos beneficiários, de acordo com o disposto no artigo 12.º
+
+3 - Em qualquer caso, as transportadoras deverão manter, por um período de dois anos, contados da data de conclusão do transporte, os originais dos bilhetes e da documentação referida, e deverão apresentá-los à Inspecção-Geral de Finanças quando esta o solicite.
+
+4 - Sem prejuízo de direito de regresso relativamente aos seus agentes, as transportadoras aéreas são responsáveis pela verificação da documentação comprovativa da elegibilidade do beneficiário, não lhes sendo devido pelo Estado qualquer reembolso por bilhetes vendidos indevidamente ou com base em documentação incompleta ou incorrecta.
+
+5 - Os estabelecimentos e agências de venda são responsáveis pela entrega às transportadoras aéreas de toda a documentação comprovativa da elegibilidade dos beneficiários.
+
+6 - A Inspecção-Geral de Finanças, nos 120 dias subsequentes à apresentação das listagens referidas no n.º 1 do presente artigo, devidamente instruídas, certificará as importâncias devidas a título de reembolso, para efeitos de disponibilização das verbas pela Direcção-Geral do Tesouro ou, nos casos previstos na alínea b) do n.º 1 do artigo 5.º, pelos competentes serviços regionais.
+
+7 - Aquando da certificação referida no número anterior serão deduzidos os montantes referentes a descontos indevidamente concedidos, que sejam detectados mesmo que tenham ocorrido em trimestres anteriores.
+
+8 - Os procedimentos constantes do presente artigo podem ser regulamentados por portaria dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+###### Artigo 19.º — Regime de concessão
+
+Os procedimentos e prazos de pagamento da compensação financeira a praticar junto da transportadora aérea concessionária dos serviços aéreos de transporte sujeitos a obrigações de serviço público serão fixados no respectivo contrato de concessão.
+
+### Capítulo VI — Contra-ordenações
+
+#### Secção I — Disposições gerais
+
+###### Artigo 20.º — Regime geral
+
+1 - A violação das disposições contidas no presente diploma pelas transportadoras aéreas, seus representantes ou auxiliares constitui contra-ordenação, punível com coima, sem prejuízo dos casos em que tais violações sejam passíveis de procedimento criminal.
+
+2 - Ao que não se encontrar especialmente regulado neste capítulo aplicar-se-á o regime geral das contra-ordenações em vigor no momento da prática do ilícito.
+
+###### Artigo 21.º — Punibilidade da negligência
+
+1 - A omissão de um dever de que resulte o pagamento de coima não isenta do seu cumprimento sempre que este for ainda possível.
+
+2 - A negligência é sempre punível.
+
+###### Artigo 22.º — Destino das coimas
+
+O produto das coimas aplicadas em processos de contra-ordenação reverterá em 60% a favor do Estado, ou da Região Autónoma, se se tratar de serviços prestados no interior dessa Região, e em 40% a favor do INAC.
+
+#### Secção II — Das contra-ordenações
+
+###### Artigo 23.º — Contra-ordenações
+
+1 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações muito graves:
+
+a) A violação das obrigações de serviço público, fixadas de acordo com o disposto no artigo 6.º;
+
+b) A violação do disposto nos n.os 1, 2 e 3 do artigo 10.º;
+
+c) A venda indevida de bilhetes a quem não seja beneficiário do regime de subsídio ao preço do bilhete, ou a sua venda em violação do disposto no artigo 12.º, por parte das transportadoras aéreas ou os seus agentes;
+
+d) A violação pelas transportadoras aéreas das regras relativas à apresentação de dados à Inspecção-Geral de Finanças, para efeitos do reembolso relativo ao subsídio do preço dos bilhetes, estabelecidas nos n.os 1, 2 e 3 do artigo 18.º, bem como a apresentação de dados incorrectos ou deturpados;
+
+e) A apresentação pelas transportadoras aéreas de dados contabilísticos incorrectos ou deturpados, para efeitos do cálculo da compensação financeira.
+
+2 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constitui contra-ordenação grave a violação, por parte das transportadoras aéreas, da obrigação de informação estabelecida no n.º 4 do artigo 28.º
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+###### Artigo 24.º — Sanções acessórias
+
+1 - Às contra-ordenações previstas no n.º 1 do artigo anterior podem ser aplicadas, em simultâneo com a coima, as sanções acessórias seguintes:
+
+a) Suspensão da licença de transporte aéreo, por um período máximo de dois anos;
+
+b) Privação do direito ao subsídio ao preço do bilhete ou à compensação financeira, pelo período máximo de dois anos.
+
+2 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do Decreto-Lei n.º 10/2004, de 9 de Janeiro.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24
+
+#### Secção III — Do processo
+
+###### Artigo 25.º
+
+1 - O processamento das contra-ordenações previstas no artigo 23.º é da competência do INAC.
+
+2 - O conselho de administração do INAC tem competência para a aplicação das coimas e sanções acessórias, podendo delegá-la ou autorizar a subdelegação nos termos da lei.
+
+3 - No âmbito da sua acção fiscalizadora, a Inspecção-Geral de Finanças comunicará ao INAC as infracções que, nos termos do presente diploma, consubstanciem contra-ordenação.
+
+### Capítulo VII — Disposições finais e transitórias
+
+###### Artigo 26.º — Informação
+
+Os órgãos de governo próprio das Regiões Autónomas serão informados pelo Governo, anualmente, das condições de execução pelas transportadoras aéreas das obrigações de serviço público que lhes digam respeito.
+
+###### Artigo 27.º — Ajudas do Estado
+
+As verbas correspondentes ao encargo anual das ajudas do Estado referidas no presente diploma, no que respeita a serviços aéreos regulares interilhas, poderão ser fixadas, a título excepcional, no Orçamento do Estado.
+
+###### Artigo 28.º — Fiscalização
+
+1 - Compete à Inspecção-Geral de Finanças e ao INAC fiscalizar a actuação das transportadoras aéreas, estabelecimentos e agências de venda que se encontram sujeitos aos regimes estatuídos no presente diploma, sem prejuízo do disposto nos artigos anteriores.
+
+2 - A fiscalização a cargo da Inspecção-Geral de Finanças compreenderá, de uma forma geral, as operações económicas, financeiras e fiscais praticadas pelas transportadoras aéreas no âmbito de uma concessão, ou em aplicação de subsídios ao preço do bilhete, devendo pronunciar-se sobre os montantes de compensação ou subsídio devidos por força do disposto no presente diploma.
+
+3 - O INAC fiscalizará, de um modo geral, a execução das obrigações de serviço público por parte das transportadoras aéreas, nomeadamente no âmbito técnico, de qualidade e de segurança.
+
+4 - As transportadoras aéreas sujeitas às obrigações de serviço público no âmbito dos serviços aéreos regulares deverão prestar às entidades fiscalizadoras a que se alude nos números anteriores toda a informação necessária, adequada e requerida por aquelas para a prossecução das suas funções de fiscalização.
+
+###### Artigo 29.º — Arbitragem
+
+As questões que se suscitem sobre interpretação, validade ou execução das obrigações de serviço público objecto de contrato de concessão que não sejam dirimidas por meios graciosos ou conciliatórios poderão ser submetidas a tribunal arbitral, podendo o Estado, para o efeito, celebrar com a concessionária convenções de arbitragem ou compromissos arbitrais.
+
+###### Artigo 30.º — Direito subsidiário
+
+Em tudo que não esteja especialmente previsto no presente diploma recorrer-se-á às leis e regulamentos administrativos que prevejam casos análogos, aos princípios gerais do direito administrativo e, na sua falta ou insuficiência, às disposições da lei civil.
+
+###### Artigo 31.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, ficando ressalvados todos os regimes já celebrados ou que venham a ser celebrados na sequência de aviso já lançado, sem prejuízo de aplicação àqueles regimes das disposições contidas neste diploma que com eles não estejam em contradição.
+
+2 - Os regimes que se encontram, até à presente data, nas condições referidas no número anterior são:
+
+a) Convénio de serviço público, de 29 de Dezembro de 1995, entre o Estado e a Transportes Aéreos Portugueses, S. A. (TAP - Air Portugal), relativo a serviços de transporte aéreo regular nas rotas entre o continente e as Regiões Autónomas e entre estas;
+
+b) Convénio de serviço público, de 29 de Dezembro de 1995, entre o Estado e a Transportes Aéreos Portugueses, S. A. (TAP - Air Portugal), relativo a serviços de transporte aéreo regular na rota Funchal-Porto Santo-Funchal;
+
+c) Convénio de serviço público, de 27 de Agosto de 1997, entre o Estado e a ATA, Aerocondor Transportes Aéreos, Lda., relativo a serviços de transporte aéreo regular nas rotas Lisboa-Bragança v. v. e Bragança-Vila Real-Lisboa v. v.;
+
+d) Imposição de obrigações de serviço público e subsídio ao preço do bilhete, a partir de 1 de Janeiro de 1999, nas rotas Lisboa-Funchal v. v., Porto-Funchal v. v. e Lisboa-Porto Santo v. v.;
+
+e) Imposição de obrigações de serviço público e subsídio ao preço do bilhete, a partir de 1 de Janeiro de 1999, na rota Funchal-Porto Santo v. v.;
+
+f) Imposição de obrigações de serviço público, a partir de 1 de Janeiro de 1999, nas rotas Ponta Delgada-Lisboa v. v., Ponta Delgada-Porto v. v., Terceira-Lisboa v. v., Horta-Lisboa v. v. e Ponta Delgada-Funchal v. v.;
+
+g) Contratos de concessão de serviço público, de 26 de Dezembro de 1998, entre o Estado e a SATA Internacional, Serviço de Transportes Aéreos, S. A., a partir de 1 de Janeiro de 1999, nas rotas Ponta Delgada-Lisboa v. v., Ponta Delgada-Porto v. v. e Ponta Delgada-Funchal v. v.;
+
+h) Contratos de concessão de serviço público, de 26 de Dezembro de 1998, entre o Estado e a Transportes Aéreos Portugueses, S. A., (TAP - Air Portugal), a partir de 1 de Janeiro de 1999, nas rotas Terceira-Lisboa v. v. e Horta-Lisboa v. v.
+
+3 - Os subsídios ao preço do bilhete referidos nas alíneas d) e e) do n.º 2 produzem efeitos a partir de 1 de Janeiro de 1999.
+
+Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues.
+
+Promulgado em 15 de Abril de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 5 de Abril de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -1,0 +1,577 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:440567:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2008-154360942",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/19-2008-440567",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-11-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "154485886",
+    "154485887",
+    "154485888",
+    "154485889",
+    "154485890",
+    "154485891",
+    "154485892",
+    "154485893",
+    "154485894",
+    "154485895",
+    "154485896",
+    "154485897",
+    "154485898",
+    "154485899",
+    "154485900",
+    "154485901",
+    "154485902",
+    "154485903",
+    "154485904",
+    "154485905",
+    "154485906",
+    "154485907",
+    "154485908",
+    "154485909",
+    "154485910",
+    "154485911",
+    "154485912",
+    "154485913",
+    "154485914"
+   ]
+  },
+  {
+   "date": "2021-01-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:154356478:por",
+     "title": "Decreto-Lei n.º 7/2021",
+     "published": "2021-01-18",
+     "dre_path": "/dr/detalhe/decreto-lei/7-2021-154356478"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 19.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "154485886",
+    "154485887",
+    "154485888",
+    "154485889",
+    "154485930",
+    "154485891",
+    "154485892",
+    "154485893",
+    "154485894",
+    "154485895",
+    "154485896",
+    "154485932",
+    "154485916",
+    "154485917",
+    "154485918",
+    "154485919",
+    "154485920",
+    "154485902",
+    "154485933",
+    "154485921",
+    "154485934",
+    "154485926",
+    "154485927",
+    "154485928",
+    "154485929",
+    "154485908",
+    "154485909",
+    "154485910",
+    "154485911",
+    "154485912",
+    "154485931",
+    "154485914",
+    "154485915"
+   ]
+  },
+  {
+   "date": "2023-11-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224576580:por",
+     "title": "Decreto Regulamentar n.º 4/2023",
+     "published": "2023-11-21",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/4-2023-224576580"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º-A",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "154485886",
+    "154485887",
+    "154485888",
+    "154485889",
+    "224577224",
+    "154485891",
+    "154485892",
+    "154485893",
+    "154485894",
+    "154485895",
+    "154485896",
+    "154485932",
+    "224577226",
+    "154485917",
+    "154485918",
+    "154485919",
+    "154485920",
+    "224577223",
+    "154485902",
+    "154485933",
+    "154485921",
+    "154485934",
+    "154485926",
+    "154485927",
+    "154485928",
+    "154485929",
+    "154485908",
+    "154485909",
+    "154485910",
+    "154485911",
+    "224577225",
+    "154485931",
+    "154485914",
+    "154485915"
+   ]
+  }
+ ],
+ "fragments": {
+  "154485886": {
+   "fragment_id": "154360943",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 19/2008\n\nde 27 de Novembro\n\nA Lei n.º 63/2007, de 6 de Novembro, definiu a missão, as atribuições e as bases da organização interna da Guarda Nacional Republicana.\n\nA anterior Lei Orgânica da GNR definia exaustivamente toda a organização do comando-geral, no qual se incluíam o estado-maior geral ou coordenador e o estado-maior especial ou técnico, com as respectivas repartições e chefias de serviços, num total de 20.\n\nAs principais mudanças operadas pela nova lei reflectem o objectivo de promover a racionalização do modelo da sua organização e da utilização dos respectivos recursos.\n\nAssim, no que concerne ao comando, foi criada uma estrutura que compreende, além do Comando da Guarda e dos respectivos órgãos de inspecção, conselho e apoio, três órgãos superiores de comando e direcção, que asseguram o comando funcional, respectivamente, das áreas de operações (Comando Operacional), dos recursos humanos, materiais e financeiros (Comando da Administração dos Recursos Internos) e da doutrina e formação (Comando de Doutrina e Formação).\n\nEsta nova organização da estrutura de comando da Guarda concretiza-se a dois níveis: a lei define, além dos órgãos de inspecção, conselho e apoio do Comando da Guarda, quais as áreas abrangidas pelos órgãos superiores de comando e direcção e o respectivo nível de enquadramento, habilitando o Governo a definir o número, as competências e a estrutura interna dos serviços destes órgãos, bem como o posto correspondente à respectiva chefia.\n\nA profunda reforma orgânica do Ministério da Administração Interna (MAI) forneceu os instrumentos adequados à implementação de serviços partilhados, designadamente nos domínios das relações internacionais, aquisições e sistemas de informação e comunicações. Por outro lado, a execução do plano tecnológico do Ministério da Administração Interna e a implementação de programas transversais como o projecto SIRESP e a constituição da Rede Nacional de Segurança Interna dotam as forças de segurança de novos instrumentos de trabalho, desmaterializando actos e simplificando procedimentos através do uso de novas tecnologias de informação e comunicação. Através do esforço conjugado destas medidas estão criadas as condições necessárias para uma redução do peso da área administrativa ao longo da estrutura hierárquica da GNR.\n\nNo desenvolvimento da Lei n.º 63/2007, de 6 de Novembro, importa, agora, definir o número, as competências, a estrutura interna e o posto correspondente à chefia dos serviços de apoio directamente dependentes do comandante-geral e dos serviços dos órgãos superiores de comando e direcção, observando-se, com as adaptações decorrentes da respectiva Lei Orgânica, o disposto na Lei n.º 4/2004, de 15 de Janeiro, republicada pelo Decreto-Lei n.º 105/2007, de 3 de Abril, que estabelece os princípios e normas a que obedece a organização da administração directa do Estado.\n\nNo respeito pelos princípios supra-enunciados, o presente decreto regulamentar estabelece, relativamente ao modelo anterior, uma clara redução do número de serviços na estrutura superior de comando da Guarda. Prevê-se, assim, a criação de uma unidade orgânica nuclear na directa dependência do comandante-geral, a Direcção de Justiça e Disciplina, e, no âmbito dos Comandos Operacional, da Administração dos Recursos Internos e da Doutrina e Formação, a criação, respectivamente, de cinco unidades nucleares nos dois primeiros e duas no último destes Comandos.\n\nÉ igualmente fixado o número máximo de unidades orgânicas flexíveis da estrutura de comando da Guarda, o que será completado pela sua efectiva criação e conformação através de despacho do comandante-geral.\n\nForam ouvidas, a título facultativo, as associações profissionais dos militares da Guarda Nacional Republicana.\n\nAssim:\n\nAo abrigo do disposto no artigo 35.º e no n.º 5 do artigo 53.º da Lei n.º 63/2007, de 6 de Novembro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "154485887": {
+   "fragment_id": "154360944",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "154485888": {
+   "fragment_id": "154360945",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto regulamentar estabelece o número, as competências, a estrutura interna e o posto correspondente à chefia dos serviços directamente dependentes do comandante-geral e dos serviços dos órgãos superiores de comando e direcção da Guarda Nacional Republicana, adiante designada por Guarda."
+  },
+  "154485889": {
+   "fragment_id": "154360946",
+   "type": 11,
+   "heading": "Artigo 2.º — Serviços directamente dependentes do comandante-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Serviços directamente dependentes do comandante-geral\n\nNa dependência directa do comandante-geral funcionam os seguintes serviços:\n\na) Secretaria-Geral da Guarda, serviço de apoio geral;\n\nb) Direcção de Justiça e Disciplina, unidade orgânica nuclear."
+  },
+  "154485890": {
+   "fragment_id": "154360947",
+   "type": 11,
+   "heading": "Artigo 3.º — Serviços dos órgãos superiores de comando e direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviços dos órgãos superiores de comando e direcção\n\n1 - O Comando Operacional (CO), que assegura o comando de toda a actividade operacional da Guarda, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direcção de Operações;\n\nb) Direcção de Informações;\n\nc) Direcção de Investigação Criminal;\n\nd) Direcção do Serviço de Protecção da Natureza e do Ambiente;\n\ne) Direcção de Comunicações e Sistemas de Informação.\n\n2 - O Comando da Administração dos Recursos Internos (CARI), que assegura o comando e a direcção de toda a actividade da Guarda nos domínios da administração dos recursos humanos, materiais e financeiros, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direcção de Recursos Humanos;\n\nb) Direcção de Recursos Financeiros;\n\nc) Direcção de Recursos Logísticos;\n\nd) Direcção de Infra-Estruturas;\n\ne) Direcção de Saúde e Assistência na Doença.\n\n3 - O Comando da Doutrina e Formação (CDF), que assegura o comando e a direcção de toda a actividade da Guarda nos domínios da doutrina e da formação do efectivo, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direcção de Doutrina;\n\nb) Direcção de Formação."
+  },
+  "154485891": {
+   "fragment_id": "154360948",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura interna e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura interna e competências"
+  },
+  "154485892": {
+   "fragment_id": "154360949",
+   "type": 8,
+   "heading": "Secção I — Serviços directamente dependentes do comandante-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços directamente dependentes do comandante-geral"
+  },
+  "154485893": {
+   "fragment_id": "154360950",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Secretaria-Geral\n\nÀ Secretaria-Geral da Guarda (SGG) compete:\n\na) Assegurar o apoio e o enquadramento administrativo, para efeitos operacionais e de disciplina, de todo o pessoal em serviço no Comando-Geral, bem como administrar e garantir o controlo das instalações, dos equipamentos e demais material daquela unidade e o seu normal funcionamento;\n\nb) Assegurar a administração do pessoal que presta serviço em órgãos externos à Guarda;\n\nc) A recepção, o registo e expedição de toda a correspondência do Comando da Guarda e dos órgãos superiores de comando e direcção;\n\nd) Prestar apoio administrativo, em colaboração com os serviços do CARI, às unidades especializadas, de representação e de intervenção e reserva e ao estabelecimento de ensino;\n\ne) Elaborar e publicar a Ordem à Guarda e a Ordem de Serviço do Comando-Geral;\n\nf) Assegurar o apoio técnico-jurídico aos órgãos superiores de comando e direcção da Guarda;\n\ng) Garantir a publicação da Revista da Guarda;\n\nh) Assegurar o funcionamento da Biblioteca, do Museu e do Arquivo Histórico da Guarda e coordenar o sistema de arquivos da Guarda;\n\ni) Estudar e apresentar medidas de simplificação e racionalização dos processos, procedimentos e circuitos administrativos;\n\nj) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485894": {
+   "fragment_id": "154360951",
+   "type": 11,
+   "heading": "Artigo 5.º — Direcção de Justiça e Disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direcção de Justiça e Disciplina\n\nÀ Direcção de Justiça e Disciplina (DJD) compete:\n\na) Estudar, propor e coordenar as medidas respeitantes à administração da justiça e disciplina e aos assuntos respeitantes a condecorações e louvores visando a uniformização de procedimentos;\n\nb) Estudar, informar e accionar todos os processos, em matéria de justiça e disciplina, assegurando o controlo de toda actividade processual;\n\nc) Organizar e informar os processos de condecorações e louvores nos termos dos respectivos regulamentos;\n\nd) Analisar e consolidar os dados estatísticos e elementos de informação sobre assuntos relativos à justiça e disciplina;\n\ne) Apoiar o comandante-geral em matéria de justiça e disciplina;\n\nf) Apreciar e submeter a decisão do comandante-geral os processos relativos a infracções disciplinares ou quaisquer outros processos graciosos que a este compita decidir, bem como os relativos a acidentes em serviço;\n\ng) Analisar e apresentar propostas de decisão ao comandante-geral sobre recursos hierárquicos que lhe são dirigidos e elaborar as pronúncias relativas aos recursos hierárquicos e contenciosos dirigidos à tutela;\n\nh) Estudar, analisar e propor soluções para a resolução dos problemas decorrentes da responsabilidade civil, na sequência de procedimento disciplinar, e prestar a colaboração necessária ao Ministério Público na representação judicial do Estado, em matéria de indemnizações contenciosas daquela natureza;\n\ni) Elaborar pedidos de indemnização civil junto dos tribunais e informações sobre custas judiciais e no âmbito do apoio judiciário;\n\nj) Produzir informações com vista à aplicação de penas disciplinares da competência do comandante-geral e de natureza estatutária;\n\nl) Apoiar, secretariar e fornecer ao Conselho de Ética, Deontologia e Disciplina os elementos indispensáveis ao seu funcionamento;\n\nm) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485895": {
+   "fragment_id": "154360952",
+   "type": 8,
+   "heading": "Secção II — Serviços dos órgãos superiores de comando e direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços dos órgãos superiores de comando e direcção"
+  },
+  "154485896": {
+   "fragment_id": "154360953",
+   "type": 3,
+   "heading": "Subsecção I — Comando Operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Comando Operacional"
+  },
+  "154485897": {
+   "fragment_id": "154360954",
+   "type": 11,
+   "heading": "Artigo 6.º — Direcção de Operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direcção de Operações\n\nÀ Direcção de Operações (DO) compete:\n\na) Elaborar, difundir e assegurar a coordenação do cumprimento das directivas e orientações relativas às missões de segurança, protecção e defesa atribuídas à Guarda, designadamente em matéria de:\n\ni) Polícia administrativa;\n\nii) Segurança pública;\n\niii) Policiamento e segurança de pessoas e bens;\n\niv) Vigilância e protecção de pontos sensíveis, nomeadamente infra-estruturas rodoviárias, ferroviárias, aeroportuárias e portuárias, edifícios públicos e outras instalações críticas;\n\nv) Ordenamento e regulação do trânsito, fiscalização do cumprimento dos regulamentos de transportes terrestres e segurança e prevenção rodoviária;\n\nvi) Protecção civil e socorro;\n\nvii) Prevenção criminal, policiamento comunitário e programas especiais, nomeadamente no âmbito da violência doméstica, do apoio e protecção de menores, idosos e outros grupos especialmente vulneráveis ou de risco;\n\nviii) Acção tributária, fiscal e aduaneira;\n\nix) Vigilância marítima e controlo costeiro, em coordenação com a Autoridade Marítima Nacional;\n\nx) Missões, cerimónias e honras militares;\n\nb) Proceder ao estudo e apresentar propostas no âmbito da organização do dispositivo territorial da Guarda;\n\nc) Estudar, planear e conduzir o treino e emprego de forças em operações, nomeadamente internacionais e de cooperação;\n\nd) Assegurar a ligação da Guarda às organizações e entidades responsáveis pela cooperação internacional a nível operacional;\n\ne) Elaborar os dados estatísticos relativos à actividade operacional e outros que lhe sejam cometidos;\n\nf) Proceder aos estudos técnicos relevantes para a actuação policial e militar;\n\ng) Planear, coordenar e supervisionar a execução de missões de controlos móveis e outras acções operacionais de cooperação transfronteiriça;\n\nh) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485898": {
+   "fragment_id": "154360955",
+   "type": 11,
+   "heading": "Artigo 7.º — Direcção de Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direcção de Informações\n\nÀ Direcção de Informações (DI) compete:\n\na) Elaborar, difundir e assegurar a supervisão do cumprimento das directivas, normas de execução e orientações técnicas, bem como elaborar estudos referentes às actividades de informações policiais e de segurança e de contra-informação;\n\nb) Proceder à pesquisa, análise e difusão de notícias e informações com interesse para a missão da Guarda;\n\nc) Proceder à difusão de notícias e de informações às forças e serviços de segurança e a outras entidades a quem, nos termos da lei, devam ser comunicadas;\n\nd) Apoiar as unidades da Guarda na recolha de notícias necessárias ao cumprimento das suas missões;\n\ne) Orientar superiormente o esforço de pesquisa de notícias com interesse para a missão da Guarda;\n\nf) Elaborar estudos sobre a realidade sociológica e criminológica e relatórios analíticos de delinquência nas áreas de intervenção da Guarda;\n\ng) Proceder à identificação, análise e avaliação de riscos específicos associados ao cumprimento das missões da Guarda;\n\nh) Centralizar, manter e assegurar o desenvolvimento e manutenção do sistema integrado de informações operacionais policiais;\n\ni) Definir e assegurar a coordenação dos procedimentos de segurança das informações e das matérias classificadas, definir as normas de segurança para as instalações e promover as credenciações de segurança dos militares da Guarda;\n\nj) Realizar as adequadas averiguações de segurança em caso de quebra ou comprometimento de segurança de informação, nos termos da legislação em vigor;\n\nl) Promover a realização de auditorias de segurança e assegurar a supervisão da troca de correspondência classificada, através do Posto de Controlo;\n\nm) Assegurar o ponto de contacto nacional para intercâmbio de informações relativas à criminalidade automóvel transfronteiriça;\n\nn) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485899": {
+   "fragment_id": "154360956",
+   "type": 11,
+   "heading": "Artigo 8.º — Direcção de Investigação Criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Investigação Criminal\n\nÀ Direcção de Investigação Criminal (DIC) compete:\n\na) Coordenar o funcionamento das actividades da Guarda em matéria de investigação criminal, nas vertentes operativa, criminalística e de análise de informação criminal;\n\nb) Elaborar, difundir e assegurar o cumprimento das normas técnicas no âmbito da actividade de investigação criminal;\n\nc) Apoiar tecnicamente as unidades, propondo e difundindo instruções, em especial relativamente a crimes de maior gravidade, complexidade ou dispersão territorial, que justifiquem a gestão concentrada da investigação;\n\nd) Assegurar o funcionamento de uma unidade operativa de pesquisa e recolha de informações de natureza criminal, centralizando os principais meios e recursos especiais de pesquisa, de recolha de prova e de apoio tecnológico às investigações;\n\ne) Realizar perícias criminalísticas e garantir o apoio às unidades nas actividades de polícia técnico-científica e do uso de meios centralizados;\n\nf) Proceder ao tratamento da informação criminal em coordenação com a direcção de informações e assegurar a difusão de notícias e elementos de informação;\n\ng) Acompanhar a evolução da criminalidade e o surgimento de novas tácticas e técnicas aplicáveis à investigação criminal;\n\nh) Assegurar, no âmbito das suas competências, a coordenação com outras entidades, designadamente em matéria de polícia científica;\n\ni) Assegurar o funcionamento das actividades de negociação em apoio às unidades;\n\nj) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485900": {
+   "fragment_id": "154360957",
+   "type": 11,
+   "heading": "Artigo 9.º — Direcção do Serviço de Protecção da Natureza e do Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção do Serviço de Protecção da Natureza e do Ambiente\n\nÀ Direcção do Serviço de Protecção da Natureza e do Ambiente (DSEPNA) compete:\n\na) Assegurar o planeamento, coordenação e supervisão técnica do Serviço de Protecção da Natureza e do Ambiente (SEPNA);\n\nb) Propor, difundir e assegurar o cumprimento das normas técnicas no âmbito da actividade de protecção da natureza e do ambiente;\n\nc) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485901": {
+   "fragment_id": "154360958",
+   "type": 11,
+   "heading": "Artigo 10.º — Direcção de Comunicações e Sistemas de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Comunicações e Sistemas de Informação\n\nÀ Direcção de Comunicações e Sistemas de Informação (DCSI) compete:\n\na) Assegurar a direcção, coordenação, controlo, gestão e execução das actividades da Guarda em matéria de comunicações, electrónica, sistemas e tecnologias da informação, segurança da informação e da simulação assistida por computador e da segurança e limpeza electrónica e dos sistemas complementares de segurança física;\n\nb) Propor, difundir e assegurar o cumprimento das normas técnicas e elaborar pareceres necessários à selecção e distribuição de equipamentos e sistemas de informação e comunicações, bem como os planos necessários à implementação e optimização das telecomunicações e das comunicações de dados e os que visem a adopção de metodologias e normas de procedimentos;\n\nc) Garantir a segurança da informação e das comunicações e das matérias classificadas, nomeadamente sub-registo e postos de controlo;\n\nd) Apoiar os utilizadores dos sistemas instalados da Guarda;\n\ne) Assegurar a instalação, configuração, operação e sustentação das infra-estruturas de comunicações e dos sistemas de informação e de segurança electrónica em apoio ao dispositivo e das forças destacadas;\n\nf) Assegurar, em coordenação com as entidades nacionais responsáveis, o abastecimento, sustentação, operação e controlo das actividades da Guarda no domínio específico dos sistemas criptográficos e de segurança da informação;\n\ng) Administrar, em coordenação com as autoridades nacionais competentes, a gestão das frequências atribuídas à Guarda;\n\nh) Garantir o funcionamento, administrar as infra-estruturas e assegurar a manutenção dos equipamentos de comunicações, das tecnologias de informação e dos sistemas complementares de segurança física;\n\ni) Assegurar, no âmbito da Guarda, o funcionamento interoperacional com a Rede Nacional de Segurança Interna (RNSI) e com o Sistema Integrado de Redes de Emergência e Segurança de Portugal (SIRESP), bem como o funcionamento das aplicações e sistemas específicos de segurança e de emergência, designadamente o 112, e a interoperabilidade dos sistemas de informação e comunicações da Guarda com os demais sistemas nacionais, no âmbito da segurança, defesa e protecção civil;\n\nj) Elaborar, em colaboração com as demais entidades competentes, estudos de análise e de desenvolvimento de aplicações, com vista à simplificação do tratamento da informação entre os serviços, assegurando igualmente a interoperabilidade com os demais sistemas de informação das forças e serviços de segurança;\n\nl) Colaborar na formação dos utilizadores;\n\nm) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485902": {
+   "fragment_id": "154360959",
+   "type": 3,
+   "heading": "Subsecção II — Comando da Administração dos Recursos Internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Comando da Administração dos Recursos Internos"
+  },
+  "154485903": {
+   "fragment_id": "154360960",
+   "type": 11,
+   "heading": "Artigo 11.º — Direcção de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direcção de Recursos Humanos\n\nÀ Direcção de Recursos Humanos (DRH) compete:\n\na) O planeamento, recrutamento, organização e gestão dos recursos humanos, em articulação com os demais serviços e com as unidades da Guarda;\n\nb) Propor as normas relativas à colocação e mobilidade dos recursos humanos e assegurar a sua aplicação uniforme em todas as unidades e subunidades da Guarda;\n\nc) Elaborar estudos, inquéritos e outros trabalhos tendentes à definição e desenvolvimento da política de recursos humanos;\n\nd) Assegurar a gestão do processo de avaliação de desempenho do pessoal;\n\ne) Organizar os trabalhos preparatórios e secretariar o Conselho Superior da Guarda, na sua composição alargada, e o conselho coordenador da avaliação;\n\nf) Assegurar toda a actividade administrativa relativa à gestão do pessoal da Guarda, designadamente:\n\ni) Organizar e manter actualizados os registos biográficos e de assiduidade do pessoal;\n\nii) Processar remunerações e outros abonos do pessoal;\n\niii) Organizar as listas anuais de antiguidade e os processos de promoção;\n\niv) Administrar os militares na situação de reserva e promover a elaboração dos processos de reforma e aposentação;\n\nv) Emitir os documentos de identificação do pessoal da Guarda e quaisquer certidões requeridas pelo mesmo;\n\nvi) Providenciar pela emissão de passaportes especiais do pessoal em missão no estrangeiro;\n\ng) Elaborar o balanço social;\n\nh) Coordenar o apoio psicossocial;\n\ni) Diagnosticar as necessidades de formação, em colaboração com os demais serviços e unidades da Guarda;\n\nj) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485904": {
+   "fragment_id": "154360961",
+   "type": 11,
+   "heading": "Artigo 12.º — Direcção de Recursos Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção de Recursos Financeiros\n\nCompete à Direcção de Recursos Financeiros (DRF):\n\na) Preparar os projectos orçamentais da Guarda;\n\nb) Promover a execução e o controlo do orçamento da Guarda;\n\nc) Preparar e promover os pedidos de libertação de créditos por conta das dotações inscritas no orçamento da Guarda;\n\nd) Assegurar a administração financeira do comando da Guarda e dos órgãos superiores de comando e direcção;\n\ne) Promover a uniformidade da administração financeira da Guarda, através da elaboração de normas de execução internas, garantindo a coordenação e o apoio adequado aos órgãos e serviços de si dependentes tecnicamente;\n\nf) Assegurar a execução de um adequado sistema contabilístico, integrando as componentes orçamental, patrimonial e analítica, respeitando o enquadramento legal vigente, de forma a manter disponível a informação de gestão para o Comando e para prestar a entidades externas à Guarda;\n\ng) Estudar e dar parecer sobre assuntos de contencioso administrativo-financeiro;\n\nh) Exercer a autoridade técnica e a realização de auditorias no âmbito da administração financeira, propondo, sempre que se justifique, a realização de inspecções e ou auditorias com recurso a entidades internas ou externas;\n\ni) Assegurar a arrecadação e a administração das receitas através do órgão de tesouraria do Estado e propor as medidas adequadas à utilização dos recursos que lhe são atribuídos;\n\nj) Assegurar o pagamento das despesas através do órgão de tesouraria do Estado, emitindo ainda as certidões para cobrança coerciva quando não haja reposição voluntária;\n\nl) Verificar a conformidade dos processos que devam ser submetidos a despacho ou fiscalização prévia de entidade exterior à Guarda;\n\nm) Elaborar estudos e fazer recomendações para a racionalização e optimização dos recursos financeiros disponíveis;\n\nn) Elaborar a conta de gerência da Guarda;\n\no) Colaborar com a inspecção da Guarda na auditoria dos procedimentos e da gestão financeira dos demais serviços e das unidades da Guarda;\n\np) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485905": {
+   "fragment_id": "154360962",
+   "type": 11,
+   "heading": "Artigo 13.º — Direcção de Recursos Logísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção de Recursos Logísticos\n\nCompete à Direcção de Recursos Logísticos (DRL):\n\na) Elaborar o plano anual de necessidades logísticas;\n\nb) Realizar estudos e apresentar propostas, no âmbito das políticas de aquisição e de gestão de bens e serviços, em articulação com os demais serviços e com as unidades da Guarda;\n\nc) Elaborar, difundir e supervisionar as normas técnicas relativas à gestão de bens patrimoniais, à utilização dos transportes da Guarda e às actividades de manutenção;\n\nd) Promover a aquisição e a distribuição de fardamento, viaturas e respectivo material acessório, armamento e material técnico e demais equipamentos necessários à actividade da Guarda, em articulação com os demais serviços e com as unidades da Guarda;\n\ne) Assegurar a supervisão das actividades logísticas das unidades no âmbito do reabastecimento e dos transportes e manutenção;\n\nf) Promover e organizar os procedimentos para a aquisição de bens e serviços, privilegiando a centralização das compras em articulação com a Unidade Ministerial de Compras do Ministério da Administração Interna;\n\ng) Elaborar as condições técnicas para os cadernos de encargos referentes aos concursos públicos para aquisição de bens e de serviços;\n\nh) Propor práticas e procedimentos que promovam a redução da despesa e uma maior eficiência ambiental na aquisição de bens e serviços;\n\ni) Efectuar e manter actualizadas as estatísticas relativas à actividade logística desenvolvida pela Guarda;\n\nj) Organizar e manter actualizada a inventariação dos bens móveis sob administração da Guarda;\n\nl) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485906": {
+   "fragment_id": "154360963",
+   "type": 11,
+   "heading": "Artigo 14.º — Direcção de Infra-Estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Infra-Estruturas\n\nCompete à Direcção de Infra-Estruturas (DIE):\n\na) Elaborar o plano anual de necessidades de infra-estruturas;\n\nb) Propor as medidas e normas relativas às características, funcionalidades e segurança específicas das instalações das unidades e subunidades da Guarda;\n\nc) Elaborar estudos, projectos e pareceres técnicos referentes a infra-estruturas;\n\nd) Apresentar propostas de atribuição de verbas para acções de manutenção de infra-estruturas;\n\ne) Superintender nos assuntos técnicos referentes à conservação de infra-estruturas;\n\nf) Propor práticas e procedimentos que promovam a redução da despesa e uma maior eficiência ambiental na realização de obras;\n\ng) Organizar e manter actualizada a inventariação dos bens imóveis afectos à Guarda;\n\nh) Promover, organizar e acompanhar os procedimentos necessários à execução de obras de manutenção e conservação em infra-estruturas da Guarda;\n\ni) Acompanhar e fiscalizar a realização de obras em infra-estruturas da Guarda;\n\nj) Promover e organizar os procedimentos para a execução de contratos de arrendamento;\n\nl) Coordenar com as entidades exteriores à Guarda os assuntos relativos aos bens imóveis;\n\nm) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485907": {
+   "fragment_id": "154360964",
+   "type": 11,
+   "heading": "Artigo 15.º — Direcção de Saúde e Assistência na Doença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção de Saúde e Assistência na Doença\n\nCompete à Direcção de Saúde e Assistência na Doença (DSAD):\n\na) Propor e implementar medidas adequadas à prevenção de acidentes de serviço e de prevenção e rastreio de doenças potenciadas pela actividade profissional;\n\nb) Propor e desenvolver a aplicação de medidas de saúde individuais e dos princípios e práticas da medicina preventiva;\n\nc) Organizar, implementar e controlar o sistema de assistência na doença, exercendo as competências previstas na lei no que respeita ao pessoal ao serviço da Guarda;\n\nd) Propor as medidas adequadas à utilização dos recursos que lhe são atribuídos de forma a prosseguir os seus fins dentro dos princípios de uma gestão por objectivos;\n\ne) Propor a celebração dos acordos, convenções, contratos e protocolos que interessem ao desempenho da sua missão e supervisionar o cumprimento rigoroso dos mesmos;\n\nf) Constituir uma bolsa de ofertas para celebração de novas convenções e analisar as candidaturas dos oferentes;\n\ng) Promover e manter actualizado o registo da situação de beneficiário;\n\nh) Gerir os benefícios a aplicar no domínio da assistência na doença, designadamente:\n\ni) Processar e conferir a facturação relativa a cuidados de saúde prestados;\n\nii) Processar as comparticipações a pagar aos beneficiários;\n\niii) Desenvolver os mecanismos de controlo inerentes à atribuição de benefícios;\n\niv) Notificar os beneficiários que devam repor valores indevidamente despendidos;\n\ni) Estudar a evolução e a caracterização do universo dos beneficiários, elaborar estatísticas relativas à assistência prestada na doença, bem como relatórios das acções desenvolvidas e respectivos encargos;\n\nj) Estudar as necessidades de técnicos para a área da saúde, bem como definir as especificações dos equipamentos, materiais e medicamentos a adquirir;\n\nl) Coordenar a assistência na doença ao pessoal da Guarda;\n\nm) Assegurar o funcionamento do serviço de saúde da Guarda;\n\nn) Dar apoio técnico e administrativo à Junta Superior de Saúde, às juntas médicas e às juntas de selecção e recrutamento;\n\no) Proceder ao controlo e gestão do efectivo animal;\n\np) Promover o apoio de medicina veterinária, de acordo com as directivas superiores, nas seguintes áreas:\n\ni) Apoio sanitário ao efectivo animal;\n\nii) Qualidade e segurança alimentar;\n\niii) Saúde pública, veterinária e bem-estar animal;\n\niv) Aquisição de canídeos e de solípedes;\n\nq) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485908": {
+   "fragment_id": "154360965",
+   "type": 3,
+   "heading": "Subsecção III — Comando de Doutrina e Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Comando de Doutrina e Formação"
+  },
+  "154485909": {
+   "fragment_id": "154360966",
+   "type": 11,
+   "heading": "Artigo 16.º — Direcção de Doutrina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direcção de Doutrina\n\nCompete à Direcção de Doutrina (DD):\n\na) Avaliar permanentemente a situação do corpo doutrinário existente, de acordo com a doutrina militar nacional, na perspectiva conjunta e combinada, bem como a sua evolução e actualização;\n\nb) Accionar, coordenar e controlar a execução da produção doutrinária e estabelecer ciclos de produção de doutrina, de acordo com as prioridades estabelecidas pelo comandante-geral;\n\nc) Coordenar a produção e a difusão de publicações doutrinárias da Guarda;\n\nd) Propor a validação interna de processos e da produção doutrinária e acompanhar e colaborar na validação externa;\n\ne) Assegurar a normalização, uniformização e validação da terminologia;\n\nf) Desenvolver acções de investigação e análise numa lógica prospectiva e recolher, analisar, integrar e explorar o retorno de experiências;\n\ng) Promover, organizar e ou colaborar na realização de reuniões, seminários e palestras com interesse para a doutrina da Guarda;\n\nh) Assegurar a supervisão da aplicação da doutrina da Guarda;\n\ni) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485910": {
+   "fragment_id": "154360967",
+   "type": 11,
+   "heading": "Artigo 17.º — Direcção de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direcção de Formação\n\nCompete à Direcção de Formação (DF):\n\na) Propor perfis de formação e planos de desenvolvimento de competências, obtidos e identificados a partir do modelo de gestão e avaliação por competências;\n\nb) Elaborar e difundir o planeamento global da formação;\n\nc) Propor a criação e a reestruturação curricular dos cursos, designadamente os ministrados na Escola da Guarda;\n\nd) Planear, gerir e coordenar a actividade desportiva na Guarda;\n\ne) Planear e controlar a execução das diferentes modalidades de tiro na Guarda;\n\nf) Gerir e coordenar a realização de quaisquer acções de formação externas, em território nacional ou no estrangeiro;\n\ng) Colaborar no planeamento e acompanhamento da cooperação no âmbito da formação com outros países;\n\nh) Efectuar a análise dos relatórios resultantes de todas as actividades formativas e assegurar a avaliação do sistema de formação em vista a garantir a qualidade global da formação ministrada na Guarda;\n\ni) Manter actualizada uma bolsa de formadores, no quadro do estatuto do formador;\n\nj) Criar e manter actualizados os registos, ficheiros, estatísticas e outros elementos de informação relativos às actividades formativas da Guarda;\n\nl) Promover a inovação da formação, através da implementação e o emprego de novas metodologias e tecnologias, designadamente plataformas digitais;\n\nm) Desenvolver o processo de acreditação do ensino na Guarda e as actividades de reconhecimento, validação e certificação de competências;\n\nn) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485911": {
+   "fragment_id": "154360968",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "154485912": {
+   "fragment_id": "154360969",
+   "type": 11,
+   "heading": "Artigo 18.º — Unidades orgânicas flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Unidades orgânicas flexíveis\n\n1 - Por decisão do comandante-geral da Guarda podem ser criadas, modificadas ou extintas unidades orgânicas flexíveis na estrutura de comando, integradas ou não em unidades orgânicas nucleares.\n\n2 - O número máximo de unidades orgânicas flexíveis é fixado em 40."
+  },
+  "154485913": {
+   "fragment_id": "154360970",
+   "type": 11,
+   "heading": "Artigo 19.º — Chefia dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Chefia dos serviços\n\n1 - A Secretaria-Geral da Guarda e as unidades orgânicas nucleares criadas pelo presente decreto regulamentar são chefiadas por um oficial com o posto de coronel.\n\n2 - As unidades orgânicas flexíveis criadas nos termos do artigo anterior são chefiadas por um oficial com o posto de coronel ou tenente-coronel."
+  },
+  "154485914": {
+   "fragment_id": "154360971",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do 2.º mês seguinte ao da sua publicação."
+  },
+  "154485930": {
+   "fragment_id": "154360947",
+   "type": 11,
+   "heading": "Artigo 3.º — Serviços dos órgãos superiores de comando e direcção",
+   "in_force_from": "2021-01-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+   ],
+   "markdown": "###### Artigo 3.º — Serviços dos órgãos superiores de comando e direcção\n\n1 - O Comando Operacional (CO), que assegura o comando de toda a actividade operacional da Guarda, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) (Revogada)\n\nb) Departamento de Operações;\n\nc) Direcção de Informações;\n\nd) Direcção de Investigação Criminal;\n\ne) Direcção do Serviço de Protecção da Natureza e do Ambiente;\n\nf) Direcção de Comunicações e Sistemas de Informação.\n\n2 - O Comando da Administração dos Recursos Internos (CARI), que assegura o comando e a direcção de toda a actividade da Guarda nos domínios da administração dos recursos humanos, materiais e financeiros, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) Departamento de Recursos Humanos;\n\nd) Departamento de Recursos Financeiros;\n\ne) Direcção de Recursos Logísticos;\n\nf) Direcção de Infra-Estruturas;\n\ng) Direcção de Saúde e Assistência na Doença.\n\n3 - O Comando da Doutrina e Formação (CDF), que assegura o comando e a direcção de toda a actividade da Guarda nos domínios da doutrina e da formação do efectivo, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direcção de Doutrina;\n\nb) Direcção de Formação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+  },
+  "154485932": {
+   "fragment_id": "154360954",
+   "type": 11,
+   "heading": "Artigo 6.º — Direcção de Operações",
+   "in_force_from": "2021-01-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+   ],
+   "markdown": "###### Artigo 6.º — Direcção de Operações\n\nÀ Direcção de Operações (DO) compete:\n\na) Elaborar, difundir e assegurar a coordenação do cumprimento das directivas e orientações relativas às missões de segurança, protecção e defesa atribuídas à Guarda, designadamente em matéria de:\n\ni) Polícia administrativa;\n\nii) Segurança pública;\n\niii) Policiamento e segurança de pessoas e bens;\n\niv) Vigilância e protecção de pontos sensíveis, nomeadamente infra-estruturas rodoviárias, ferroviárias, aeroportuárias e portuárias, edifícios públicos e outras instalações críticas;\n\nv) Ordenamento e regulação do trânsito, fiscalização do cumprimento dos regulamentos de transportes terrestres e segurança e prevenção rodoviária;\n\nvi) Protecção civil e socorro;\n\nvii) Prevenção criminal, policiamento comunitário e programas especiais, nomeadamente no âmbito da violência doméstica, do apoio e protecção de menores, idosos e outros grupos especialmente vulneráveis ou de risco;\n\nviii) Acção tributária, fiscal e aduaneira;\n\nix) Vigilância marítima e controlo costeiro, em coordenação com a Autoridade Marítima Nacional;\n\nx) Missões, cerimónias e honras militares;\n\nb) Proceder ao estudo e apresentar propostas no âmbito da organização do dispositivo territorial da Guarda;\n\nc) Estudar, planear e conduzir o treino e emprego de forças em operações, nomeadamente internacionais e de cooperação;\n\nd) Assegurar a ligação da Guarda às organizações e entidades responsáveis pela cooperação internacional a nível operacional;\n\ne) Elaborar os dados estatísticos relativos à actividade operacional e outros que lhe sejam cometidos;\n\nf) Proceder aos estudos técnicos relevantes para a actuação policial e militar;\n\ng) Planear, coordenar e supervisionar a execução de missões de controlos móveis e outras acções operacionais de cooperação transfronteiriça;\n\nh) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+  },
+  "154485916": {
+   "fragment_id": "154360973",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Departamento de Operações",
+   "in_force_from": "2021-01-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+   ],
+   "markdown": "###### Artigo 6.º-A — Departamento de Operações\n\n1 - O Departamento de Operações assegura a coordenação e controlo das atividades da Guarda no domínio do cumprimento das missões de natureza operacional, garantindo o apoio à direção operacional das unidades e dispositivo territorial, de acordo com as orientações estratégicas, os planos e as diretivas superiores.\n\n2 - O Departamento de Operações é responsável pelo planeamento das operações futuras e condução das operações correntes de âmbito nacional ou de operações que justifiquem o seu planeamento e gestão pelo comando da Guarda, assegurando a coordenação e funcionamento do Grupo Integrado de Planeamento de Operações.\n\n3 - O Grupo Integrado de Planeamento de Operações é constituído quando a natureza, complexidade e envergadura das operações e da atividade operacional o justifiquem, sendo liderado pelo chefe do Departamento de Operações, enquanto responsável pelo planeamento, gestão e sincronização das mesmas.\n\n4 - Ao Departamento de Operações compete, em especial:\n\na) Coordenar o planeamento, gestão e sincronização das operações da Guarda;\n\nb) Executar os planos de operações, emitindo as ordens necessárias aos escalões subordinados;\n\nc) Coordenar com o Centro Integrado Nacional de Gestão Operacional a monitorização e condução das operações correntes;\n\nd) Elaborar, difundir e assegurar a coordenação do cumprimento das directivas e orientações relativas às missões de segurança, protecção e defesa atribuídas à Guarda, designadamente em matéria de:\n\ni) Polícia administrativa;\n\nii) Segurança pública;\n\niii) Policiamento e segurança de pessoas e bens;\n\niv) Vigilância e protecção de pontos sensíveis, nomeadamente infra-estruturas rodoviárias, ferroviárias, aeroportuárias e portuárias, edifícios públicos e outras instalações críticas;\n\nv) Ordenamento e regulação do trânsito, fiscalização do cumprimento dos regulamentos de transportes terrestres e segurança e prevenção rodoviária;\n\nvi) Protecção civil e socorro;\n\nvii) Prevenção criminal, policiamento comunitário e programas especiais, nomeadamente no âmbito da violência doméstica, do apoio e protecção de menores, idosos e outros grupos especialmente vulneráveis ou de risco;\n\nviii) Acção tributária, fiscal e aduaneira;\n\nix) Vigilância marítima e controlo costeiro, em coordenação com a Autoridade Marítima Nacional;\n\nx) Missões, cerimónias e honras militares;\n\ne) Participar na elaboração da doutrina relativa às suas competências;\n\nf) Colaborar nos sistemas de gestão da qualidade e de lições aprendidas do âmbito operacional;\n\ng) Proceder ao estudo e apresentar propostas no âmbito da organização do dispositivo territorial da Guarda;\n\nh) c) Estudar, planear e conduzir o treino e emprego de forças em operações, nomeadamente internacionais e de cooperação;\n\ni) Assegurar a ligação da Guarda às organizações e entidades responsáveis pela cooperação internacional a nível operacional;\n\nj) Elaborar os relatórios e os dados estatísticos relativos à atividade operacional e outros que lhe sejam cometidos;\n\nk) Proceder aos estudos técnicos relevantes para a actuação policial e militar;\n\nl) Planear, coordenar e supervisionar a execução de missões de controlos móveis e outras acções operacionais de cooperação transfronteiriça;\n\nm) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+  },
+  "154485917": {
+   "fragment_id": "154360955",
+   "type": 11,
+   "heading": "Artigo 7.º — Direcção de Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direcção de Informações\n\nÀ Direcção de Informações (DI) compete:\n\na) Elaborar, difundir e assegurar a supervisão do cumprimento das directivas, normas de execução e orientações técnicas, bem como elaborar estudos referentes às actividades de informações policiais e de segurança e de contra-informação;\n\nb) Proceder à pesquisa, análise e difusão de notícias e informações com interesse para a missão da Guarda;\n\nc) Proceder à difusão de notícias e de informações às forças e serviços de segurança e a outras entidades a quem, nos termos da lei, devam ser comunicadas;\n\nd) Apoiar as unidades da Guarda na recolha de notícias necessárias ao cumprimento das suas missões;\n\ne) Orientar superiormente o esforço de pesquisa de notícias com interesse para a missão da Guarda;\n\nf) Elaborar estudos sobre a realidade sociológica e criminológica e relatórios analíticos de delinquência nas áreas de intervenção da Guarda;\n\ng) Proceder à identificação, análise e avaliação de riscos específicos associados ao cumprimento das missões da Guarda;\n\nh) Centralizar, manter e assegurar o desenvolvimento e manutenção do sistema integrado de informações operacionais policiais;\n\ni) Definir e assegurar a coordenação dos procedimentos de segurança das informações e das matérias classificadas, definir as normas de segurança para as instalações e promover as credenciações de segurança dos militares da Guarda;\n\nj) Realizar as adequadas averiguações de segurança em caso de quebra ou comprometimento de segurança de informação, nos termos da legislação em vigor;\n\nl) Promover a realização de auditorias de segurança e assegurar a supervisão da troca de correspondência classificada, através do Posto de Controlo;\n\nm) Assegurar o ponto de contacto nacional para intercâmbio de informações relativas à criminalidade automóvel transfronteiriça;\n\nn) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485918": {
+   "fragment_id": "154360956",
+   "type": 11,
+   "heading": "Artigo 8.º — Direcção de Investigação Criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Investigação Criminal\n\nÀ Direcção de Investigação Criminal (DIC) compete:\n\na) Coordenar o funcionamento das actividades da Guarda em matéria de investigação criminal, nas vertentes operativa, criminalística e de análise de informação criminal;\n\nb) Elaborar, difundir e assegurar o cumprimento das normas técnicas no âmbito da actividade de investigação criminal;\n\nc) Apoiar tecnicamente as unidades, propondo e difundindo instruções, em especial relativamente a crimes de maior gravidade, complexidade ou dispersão territorial, que justifiquem a gestão concentrada da investigação;\n\nd) Assegurar o funcionamento de uma unidade operativa de pesquisa e recolha de informações de natureza criminal, centralizando os principais meios e recursos especiais de pesquisa, de recolha de prova e de apoio tecnológico às investigações;\n\ne) Realizar perícias criminalísticas e garantir o apoio às unidades nas actividades de polícia técnico-científica e do uso de meios centralizados;\n\nf) Proceder ao tratamento da informação criminal em coordenação com a direcção de informações e assegurar a difusão de notícias e elementos de informação;\n\ng) Acompanhar a evolução da criminalidade e o surgimento de novas tácticas e técnicas aplicáveis à investigação criminal;\n\nh) Assegurar, no âmbito das suas competências, a coordenação com outras entidades, designadamente em matéria de polícia científica;\n\ni) Assegurar o funcionamento das actividades de negociação em apoio às unidades;\n\nj) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485919": {
+   "fragment_id": "154360957",
+   "type": 11,
+   "heading": "Artigo 9.º — Direcção do Serviço de Protecção da Natureza e do Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção do Serviço de Protecção da Natureza e do Ambiente\n\nÀ Direcção do Serviço de Protecção da Natureza e do Ambiente (DSEPNA) compete:\n\na) Assegurar o planeamento, coordenação e supervisão técnica do Serviço de Protecção da Natureza e do Ambiente (SEPNA);\n\nb) Propor, difundir e assegurar o cumprimento das normas técnicas no âmbito da actividade de protecção da natureza e do ambiente;\n\nc) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485920": {
+   "fragment_id": "154360958",
+   "type": 11,
+   "heading": "Artigo 10.º — Direcção de Comunicações e Sistemas de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Comunicações e Sistemas de Informação\n\nÀ Direcção de Comunicações e Sistemas de Informação (DCSI) compete:\n\na) Assegurar a direcção, coordenação, controlo, gestão e execução das actividades da Guarda em matéria de comunicações, electrónica, sistemas e tecnologias da informação, segurança da informação e da simulação assistida por computador e da segurança e limpeza electrónica e dos sistemas complementares de segurança física;\n\nb) Propor, difundir e assegurar o cumprimento das normas técnicas e elaborar pareceres necessários à selecção e distribuição de equipamentos e sistemas de informação e comunicações, bem como os planos necessários à implementação e optimização das telecomunicações e das comunicações de dados e os que visem a adopção de metodologias e normas de procedimentos;\n\nc) Garantir a segurança da informação e das comunicações e das matérias classificadas, nomeadamente sub-registo e postos de controlo;\n\nd) Apoiar os utilizadores dos sistemas instalados da Guarda;\n\ne) Assegurar a instalação, configuração, operação e sustentação das infra-estruturas de comunicações e dos sistemas de informação e de segurança electrónica em apoio ao dispositivo e das forças destacadas;\n\nf) Assegurar, em coordenação com as entidades nacionais responsáveis, o abastecimento, sustentação, operação e controlo das actividades da Guarda no domínio específico dos sistemas criptográficos e de segurança da informação;\n\ng) Administrar, em coordenação com as autoridades nacionais competentes, a gestão das frequências atribuídas à Guarda;\n\nh) Garantir o funcionamento, administrar as infra-estruturas e assegurar a manutenção dos equipamentos de comunicações, das tecnologias de informação e dos sistemas complementares de segurança física;\n\ni) Assegurar, no âmbito da Guarda, o funcionamento interoperacional com a Rede Nacional de Segurança Interna (RNSI) e com o Sistema Integrado de Redes de Emergência e Segurança de Portugal (SIRESP), bem como o funcionamento das aplicações e sistemas específicos de segurança e de emergência, designadamente o 112, e a interoperabilidade dos sistemas de informação e comunicações da Guarda com os demais sistemas nacionais, no âmbito da segurança, defesa e protecção civil;\n\nj) Elaborar, em colaboração com as demais entidades competentes, estudos de análise e de desenvolvimento de aplicações, com vista à simplificação do tratamento da informação entre os serviços, assegurando igualmente a interoperabilidade com os demais sistemas de informação das forças e serviços de segurança;\n\nl) Colaborar na formação dos utilizadores;\n\nm) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485933": {
+   "fragment_id": "154360960",
+   "type": 11,
+   "heading": "Artigo 11.º — Direcção de Recursos Humanos",
+   "in_force_from": "2021-01-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+   ],
+   "markdown": "###### Artigo 11.º — Direcção de Recursos Humanos\n\nÀ Direcção de Recursos Humanos (DRH) compete:\n\na) O planeamento, recrutamento, organização e gestão dos recursos humanos, em articulação com os demais serviços e com as unidades da Guarda;\n\nb) Propor as normas relativas à colocação e mobilidade dos recursos humanos e assegurar a sua aplicação uniforme em todas as unidades e subunidades da Guarda;\n\nc) Elaborar estudos, inquéritos e outros trabalhos tendentes à definição e desenvolvimento da política de recursos humanos;\n\nd) Assegurar a gestão do processo de avaliação de desempenho do pessoal;\n\ne) Organizar os trabalhos preparatórios e secretariar o Conselho Superior da Guarda, na sua composição alargada, e o conselho coordenador da avaliação;\n\nf) Assegurar toda a actividade administrativa relativa à gestão do pessoal da Guarda, designadamente:\n\ni) Organizar e manter actualizados os registos biográficos e de assiduidade do pessoal;\n\nii) Processar remunerações e outros abonos do pessoal;\n\niii) Organizar as listas anuais de antiguidade e os processos de promoção;\n\niv) Administrar os militares na situação de reserva e promover a elaboração dos processos de reforma e aposentação;\n\nv) Emitir os documentos de identificação do pessoal da Guarda e quaisquer certidões requeridas pelo mesmo;\n\nvi) Providenciar pela emissão de passaportes especiais do pessoal em missão no estrangeiro;\n\ng) Elaborar o balanço social;\n\nh) Coordenar o apoio psicossocial;\n\ni) Diagnosticar as necessidades de formação, em colaboração com os demais serviços e unidades da Guarda;\n\nj) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+  },
+  "154485921": {
+   "fragment_id": "154483075",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Departamento de Recursos Humanos",
+   "in_force_from": "2021-01-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+   ],
+   "markdown": "###### Artigo 11.º-A — Departamento de Recursos Humanos\n\n1 - O Departamento de Recursos Humanos assegura a coordenação e controlo das atividades da Guarda no domínio do apoio à administração e gestão estratégica dos recursos humanos, de acordo com os planos e as diretivas superiores.\n\n2 - O Departamento de Recursos Humanos é responsável pela gestão e articulação institucional do modelo de gestão de recursos humanos, adequando o perfil de competências funcionais aos cargos organicamente estabelecidos, em estreita ligação com as estruturas operacionais e de formação.\n\n3 - Ao Departamento de Recursos Humanos compete, em especial:\n\na) O planeamento, recrutamento, organização e gestão dos recursos humanos, em articulação com os demais serviços e com as unidades da Guarda;\n\nb) Propor as normas relativas à colocação e mobilidade dos recursos humanos e assegurar a sua aplicação uniforme em todas as unidades e subunidades da Guarda, garantindo o necessário nível de descentralização e responsabilidade nos comandos das unidades;\n\nc) Elaborar estudos, inquéritos e outros trabalhos tendentes à definição e desenvolvimento da política de recursos humanos;\n\nd) Assegurar a gestão do processo de avaliação de desempenho do pessoal;\n\ne) Organizar os trabalhos preparatórios e secretariar o Conselho Superior da Guarda, na sua composição alargada, e o conselho coordenador da avaliação;\n\nf) Assegurar toda a actividade administrativa relativa à gestão do pessoal da Guarda, designadamente:\n\ni) Organizar e manter actualizados os registos biográficos e de assiduidade do pessoal;\n\nii) Processar remunerações e outros abonos do pessoal;\n\niii) Organizar as listas anuais de antiguidade e os processos de promoção;\n\niv) Administrar os militares na situação de reserva e promover a elaboração dos processos de reforma e aposentação;\n\nv) Emitir os documentos de identificação do pessoal da Guarda e quaisquer certidões requeridas pelo mesmo;\n\nvi) Providenciar pela emissão de passaportes especiais do pessoal em missão no estrangeiro;\n\ng) Elaborar o balanço social;\n\nh) Coordenar o apoio psicossocial;\n\ni) Diagnosticar as necessidades de formação, em colaboração com os demais serviços e unidades da Guarda;\n\nj) Participar na elaboração da doutrina relativa às suas competências;\n\nk) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+  },
+  "154485934": {
+   "fragment_id": "154360961",
+   "type": 11,
+   "heading": "Artigo 12.º — Direcção de Recursos Financeiros",
+   "in_force_from": "2021-01-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+   ],
+   "markdown": "###### Artigo 12.º — Direcção de Recursos Financeiros\n\nCompete à Direcção de Recursos Financeiros (DRF):\n\na) Preparar os projectos orçamentais da Guarda;\n\nb) Promover a execução e o controlo do orçamento da Guarda;\n\nc) Preparar e promover os pedidos de libertação de créditos por conta das dotações inscritas no orçamento da Guarda;\n\nd) Assegurar a administração financeira do comando da Guarda e dos órgãos superiores de comando e direcção;\n\ne) Promover a uniformidade da administração financeira da Guarda, através da elaboração de normas de execução internas, garantindo a coordenação e o apoio adequado aos órgãos e serviços de si dependentes tecnicamente;\n\nf) Assegurar a execução de um adequado sistema contabilístico, integrando as componentes orçamental, patrimonial e analítica, respeitando o enquadramento legal vigente, de forma a manter disponível a informação de gestão para o Comando e para prestar a entidades externas à Guarda;\n\ng) Estudar e dar parecer sobre assuntos de contencioso administrativo-financeiro;\n\nh) Exercer a autoridade técnica e a realização de auditorias no âmbito da administração financeira, propondo, sempre que se justifique, a realização de inspecções e ou auditorias com recurso a entidades internas ou externas;\n\ni) Assegurar a arrecadação e a administração das receitas através do órgão de tesouraria do Estado e propor as medidas adequadas à utilização dos recursos que lhe são atribuídos;\n\nj) Assegurar o pagamento das despesas através do órgão de tesouraria do Estado, emitindo ainda as certidões para cobrança coerciva quando não haja reposição voluntária;\n\nl) Verificar a conformidade dos processos que devam ser submetidos a despacho ou fiscalização prévia de entidade exterior à Guarda;\n\nm) Elaborar estudos e fazer recomendações para a racionalização e optimização dos recursos financeiros disponíveis;\n\nn) Elaborar a conta de gerência da Guarda;\n\no) Colaborar com a inspecção da Guarda na auditoria dos procedimentos e da gestão financeira dos demais serviços e das unidades da Guarda;\n\np) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+  },
+  "154485926": {
+   "fragment_id": "154483076",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Departamento de Recursos Financeiros",
+   "in_force_from": "2021-01-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+   ],
+   "markdown": "###### Artigo 12.º-A — Departamento de Recursos Financeiros\n\n1 - O Departamento de Recursos Financeiros assegura as atividades da Guarda no domínio do apoio à administração estratégica dos recursos financeiros, de acordo com os planos e as diretivas superiores.\n\n2 - O Departamento de Recursos Financeiros assegura de forma permanente o apoio direto ao comandante-geral, sendo responsável pela administração e gestão financeira, pela coerência, integridade institucional e funcional do sistema de informação financeira da Guarda, garantindo a disponibilização equilibrada de recursos financeiros para as diferentes atividades.\n\n3 - Ao Departamento de Recursos Financeiros, compete, em especial:\n\na) Preparar os projectos orçamentais da Guarda;\n\nb) Promover a execução e o controlo do orçamento da Guarda;\n\nc) Preparar e promover os pedidos de libertação de créditos por conta das dotações inscritas no orçamento da Guarda;\n\nd) Assegurar a administração financeira do comando da Guarda e dos órgãos superiores de comando e direcção;\n\ne) Promover a uniformidade da administração financeira da Guarda, através da elaboração de normas de execução internas, garantindo a coordenação e o apoio adequado aos órgãos e serviços de si dependentes tecnicamente;\n\nf) Assegurar a execução de um adequado sistema contabilístico, integrando as componentes orçamental, patrimonial e analítica, respeitando o enquadramento legal vigente, de forma a manter disponível a informação de gestão para o Comando e para prestar a entidades externas à Guarda;\n\ng) Estudar e dar parecer sobre assuntos de contencioso administrativo-financeiro;\n\nh) Exercer a autoridade técnica e a realização de auditorias no âmbito da administração financeira, propondo, sempre que se justifique, a realização de inspecções e ou auditorias com recurso a entidades internas ou externas;\n\ni) Assegurar a arrecadação e a administração das receitas através do órgão de tesouraria do Estado e propor as medidas adequadas à utilização dos recursos que lhe são atribuídos;\n\nj) Assegurar o pagamento das despesas através do órgão de tesouraria do Estado, emitindo ainda as certidões para cobrança coerciva quando não haja reposição voluntária;\n\nl) Verificar a conformidade dos processos que devam ser submetidos a despacho ou fiscalização prévia de entidade exterior à Guarda;\n\nm) Elaborar estudos e fazer recomendações para a racionalização e optimização dos recursos financeiros disponíveis;\n\nn) Elaborar a conta de gerência da Guarda;\n\no) Colaborar com a inspecção da Guarda na auditoria dos procedimentos e da gestão financeira dos demais serviços e das unidades da Guarda;\n\np) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+  },
+  "154485927": {
+   "fragment_id": "154360962",
+   "type": 11,
+   "heading": "Artigo 13.º — Direcção de Recursos Logísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção de Recursos Logísticos\n\nCompete à Direcção de Recursos Logísticos (DRL):\n\na) Elaborar o plano anual de necessidades logísticas;\n\nb) Realizar estudos e apresentar propostas, no âmbito das políticas de aquisição e de gestão de bens e serviços, em articulação com os demais serviços e com as unidades da Guarda;\n\nc) Elaborar, difundir e supervisionar as normas técnicas relativas à gestão de bens patrimoniais, à utilização dos transportes da Guarda e às actividades de manutenção;\n\nd) Promover a aquisição e a distribuição de fardamento, viaturas e respectivo material acessório, armamento e material técnico e demais equipamentos necessários à actividade da Guarda, em articulação com os demais serviços e com as unidades da Guarda;\n\ne) Assegurar a supervisão das actividades logísticas das unidades no âmbito do reabastecimento e dos transportes e manutenção;\n\nf) Promover e organizar os procedimentos para a aquisição de bens e serviços, privilegiando a centralização das compras em articulação com a Unidade Ministerial de Compras do Ministério da Administração Interna;\n\ng) Elaborar as condições técnicas para os cadernos de encargos referentes aos concursos públicos para aquisição de bens e de serviços;\n\nh) Propor práticas e procedimentos que promovam a redução da despesa e uma maior eficiência ambiental na aquisição de bens e serviços;\n\ni) Efectuar e manter actualizadas as estatísticas relativas à actividade logística desenvolvida pela Guarda;\n\nj) Organizar e manter actualizada a inventariação dos bens móveis sob administração da Guarda;\n\nl) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485928": {
+   "fragment_id": "154360963",
+   "type": 11,
+   "heading": "Artigo 14.º — Direcção de Infra-Estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Infra-Estruturas\n\nCompete à Direcção de Infra-Estruturas (DIE):\n\na) Elaborar o plano anual de necessidades de infra-estruturas;\n\nb) Propor as medidas e normas relativas às características, funcionalidades e segurança específicas das instalações das unidades e subunidades da Guarda;\n\nc) Elaborar estudos, projectos e pareceres técnicos referentes a infra-estruturas;\n\nd) Apresentar propostas de atribuição de verbas para acções de manutenção de infra-estruturas;\n\ne) Superintender nos assuntos técnicos referentes à conservação de infra-estruturas;\n\nf) Propor práticas e procedimentos que promovam a redução da despesa e uma maior eficiência ambiental na realização de obras;\n\ng) Organizar e manter actualizada a inventariação dos bens imóveis afectos à Guarda;\n\nh) Promover, organizar e acompanhar os procedimentos necessários à execução de obras de manutenção e conservação em infra-estruturas da Guarda;\n\ni) Acompanhar e fiscalizar a realização de obras em infra-estruturas da Guarda;\n\nj) Promover e organizar os procedimentos para a execução de contratos de arrendamento;\n\nl) Coordenar com as entidades exteriores à Guarda os assuntos relativos aos bens imóveis;\n\nm) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485929": {
+   "fragment_id": "154360964",
+   "type": 11,
+   "heading": "Artigo 15.º — Direcção de Saúde e Assistência na Doença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção de Saúde e Assistência na Doença\n\nCompete à Direcção de Saúde e Assistência na Doença (DSAD):\n\na) Propor e implementar medidas adequadas à prevenção de acidentes de serviço e de prevenção e rastreio de doenças potenciadas pela actividade profissional;\n\nb) Propor e desenvolver a aplicação de medidas de saúde individuais e dos princípios e práticas da medicina preventiva;\n\nc) Organizar, implementar e controlar o sistema de assistência na doença, exercendo as competências previstas na lei no que respeita ao pessoal ao serviço da Guarda;\n\nd) Propor as medidas adequadas à utilização dos recursos que lhe são atribuídos de forma a prosseguir os seus fins dentro dos princípios de uma gestão por objectivos;\n\ne) Propor a celebração dos acordos, convenções, contratos e protocolos que interessem ao desempenho da sua missão e supervisionar o cumprimento rigoroso dos mesmos;\n\nf) Constituir uma bolsa de ofertas para celebração de novas convenções e analisar as candidaturas dos oferentes;\n\ng) Promover e manter actualizado o registo da situação de beneficiário;\n\nh) Gerir os benefícios a aplicar no domínio da assistência na doença, designadamente:\n\ni) Processar e conferir a facturação relativa a cuidados de saúde prestados;\n\nii) Processar as comparticipações a pagar aos beneficiários;\n\niii) Desenvolver os mecanismos de controlo inerentes à atribuição de benefícios;\n\niv) Notificar os beneficiários que devam repor valores indevidamente despendidos;\n\ni) Estudar a evolução e a caracterização do universo dos beneficiários, elaborar estatísticas relativas à assistência prestada na doença, bem como relatórios das acções desenvolvidas e respectivos encargos;\n\nj) Estudar as necessidades de técnicos para a área da saúde, bem como definir as especificações dos equipamentos, materiais e medicamentos a adquirir;\n\nl) Coordenar a assistência na doença ao pessoal da Guarda;\n\nm) Assegurar o funcionamento do serviço de saúde da Guarda;\n\nn) Dar apoio técnico e administrativo à Junta Superior de Saúde, às juntas médicas e às juntas de selecção e recrutamento;\n\no) Proceder ao controlo e gestão do efectivo animal;\n\np) Promover o apoio de medicina veterinária, de acordo com as directivas superiores, nas seguintes áreas:\n\ni) Apoio sanitário ao efectivo animal;\n\nii) Qualidade e segurança alimentar;\n\niii) Saúde pública, veterinária e bem-estar animal;\n\niv) Aquisição de canídeos e de solípedes;\n\nq) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas."
+  },
+  "154485931": {
+   "fragment_id": "154360970",
+   "type": 11,
+   "heading": "Artigo 19.º — Chefia dos serviços",
+   "in_force_from": "2021-01-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+   ],
+   "markdown": "###### Artigo 19.º — Chefia dos serviços\n\n1 - Os departamentos previstos no presente decreto regulamentar são chefiados por oficiais com o posto de brigadeiro-general.\n\n2 - A Secretaria-Geral da Guarda e as direções previstas no presente decreto regulamentar são chefiadas por um oficial com o posto de coronel.\n\n3 - As unidades orgânicas flexíveis criadas nos termos do artigo anterior são chefiadas por um oficial com o posto de coronel ou tenente-coronel.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+  },
+  "154485915": {
+   "fragment_id": "154360972",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira.\n\nPromulgado em 7 de Novembro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de Novembro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "224577224": {
+   "fragment_id": "154360947",
+   "type": 11,
+   "heading": "Artigo 3.º — Serviços dos órgãos superiores de comando e direcção",
+   "in_force_from": "2023-11-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2023 - Diário da República n.º 225/2023, Série I de 2023-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2023-224576580), em vigor a partir de 2023-11-22, produz efeitos a partir de 2023-10-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+   ],
+   "markdown": "###### Artigo 3.º — Serviços dos órgãos superiores de comando e direcção\n\n1 - O Comando Operacional (CO), que assegura o comando de toda a actividade operacional da Guarda, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) (Revogada)\n\nb) Departamento de Operações;\n\nc) Direcção de Informações;\n\nd) Direcção de Investigação Criminal;\n\ne) Direcção do Serviço de Protecção da Natureza e do Ambiente;\n\nf) Direcção de Comunicações e Sistemas de Informação.\n\ng) Direção de Fronteiras e de Controlo Costeiro.\n\n2 - O Comando da Administração dos Recursos Internos (CARI), que assegura o comando e a direcção de toda a actividade da Guarda nos domínios da administração dos recursos humanos, materiais e financeiros, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) Departamento de Recursos Humanos;\n\nd) Departamento de Recursos Financeiros;\n\ne) Direcção de Recursos Logísticos;\n\nf) Direcção de Infra-Estruturas;\n\ng) Direcção de Saúde e Assistência na Doença.\n\n3 - O Comando da Doutrina e Formação (CDF), que assegura o comando e a direcção de toda a actividade da Guarda nos domínios da doutrina e da formação do efectivo, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direcção de Doutrina;\n\nb) Direcção de Formação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2023 - Diário da República n.º 225/2023, Série I de 2023-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2023-224576580), em vigor a partir de 2023-11-22, produz efeitos a partir de 2023-10-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+  },
+  "224577226": {
+   "fragment_id": "154360973",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Departamento de Operações",
+   "in_force_from": "2023-11-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2023 - Diário da República n.º 225/2023, Série I de 2023-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2023-224576580), em vigor a partir de 2023-11-22, produz efeitos a partir de 2023-10-29",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+   ],
+   "markdown": "###### Artigo 6.º-A — Departamento de Operações\n\n1 - O Departamento de Operações assegura a coordenação e controlo das atividades da Guarda no domínio do cumprimento das missões de natureza operacional, garantindo o apoio à direção operacional das unidades e dispositivo territorial, de acordo com as orientações estratégicas, os planos e as diretivas superiores.\n\n2 - O Departamento de Operações é responsável pelo planeamento das operações futuras e condução das operações correntes de âmbito nacional ou de operações que justifiquem o seu planeamento e gestão pelo comando da Guarda, assegurando a coordenação e funcionamento do Grupo Integrado de Planeamento de Operações.\n\n3 - O Grupo Integrado de Planeamento de Operações é constituído quando a natureza, complexidade e envergadura das operações e da atividade operacional o justifiquem, sendo liderado pelo chefe do Departamento de Operações, enquanto responsável pelo planeamento, gestão e sincronização das mesmas.\n\n4 - Ao Departamento de Operações compete, em especial:\n\na) Coordenar o planeamento, gestão e sincronização das operações da Guarda;\n\nb) Executar os planos de operações, emitindo as ordens necessárias aos escalões subordinados;\n\nc) Coordenar com o Centro Integrado Nacional de Gestão Operacional a monitorização e condução das operações correntes;\n\nd) Elaborar, difundir e assegurar a coordenação do cumprimento das directivas e orientações relativas às missões de segurança, protecção e defesa atribuídas à Guarda, designadamente em matéria de:\n\ni) Polícia administrativa;\n\nii) Segurança pública;\n\niii) Policiamento e segurança de pessoas e bens;\n\niv) Vigilância e protecção de pontos sensíveis, nomeadamente infra-estruturas rodoviárias, ferroviárias, aeroportuárias e portuárias, edifícios públicos e outras instalações críticas;\n\nv) Ordenamento e regulação do trânsito, fiscalização do cumprimento dos regulamentos de transportes terrestres e segurança e prevenção rodoviária;\n\nvi) Protecção civil e socorro;\n\nvii) Prevenção criminal, policiamento comunitário e programas especiais, nomeadamente no âmbito da violência doméstica, do apoio e protecção de menores, idosos e outros grupos especialmente vulneráveis ou de risco;\n\nviii) Acção tributária, fiscal e aduaneira;\n\nix) [Revogada.]\n\nx) Missões, cerimónias e honras militares;\n\ne) Participar na elaboração da doutrina relativa às suas competências;\n\nf) Colaborar nos sistemas de gestão da qualidade e de lições aprendidas do âmbito operacional;\n\ng) Proceder ao estudo e apresentar propostas no âmbito da organização do dispositivo territorial da Guarda;\n\nh) c) Estudar, planear e conduzir o treino e emprego de forças em operações, nomeadamente internacionais e de cooperação;\n\ni) Assegurar a ligação da Guarda às organizações e entidades responsáveis pela cooperação internacional a nível operacional;\n\nj) Elaborar os relatórios e os dados estatísticos relativos à atividade operacional e outros que lhe sejam cometidos;\n\nk) Proceder aos estudos técnicos relevantes para a actuação policial e militar;\n\nl) [Revogada.]\n\nm) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2023 - Diário da República n.º 225/2023, Série I de 2023-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2023-224576580), em vigor a partir de 2023-11-22, produz efeitos a partir de 2023-10-29\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 7/2021 - Diário da República n.º 11/2021, Série I de 2021-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478), em vigor a partir de 2021-01-19"
+  },
+  "224577223": {
+   "fragment_id": "224576614",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Direção de Fronteiras e de Controlo Costeiro",
+   "in_force_from": "2023-11-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 4/2023 - Diário da República n.º 225/2023, Série I de 2023-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2023-224576580), em vigor a partir de 2023-11-22, produz efeitos a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 10.º-A — Direção de Fronteiras e de Controlo Costeiro\n\nCompete à Direção de Fronteiras e de Controlo Costeiro (DFCC):\n\na) Elaborar, difundir e assegurar a supervisão do cumprimento das diretivas e orientações relativas às missões atribuídas à Guarda, designadamente em matéria de:\n\ni) Vigilância, fiscalização e controlo das fronteiras marítima e terrestre nos postos de fronteira autorizados e entre estes;\n\nii) Fiscalização das atividades de captura, desembarque, cultura e comercialização das espécies marinhas, em articulação com a Autoridade Marítima Nacional e no âmbito da legislação aplicável ao exercício da pesca marítima e cultura das espécies marinhas;\n\niii) Execução do cumprimento das decisões das entidades competentes para o afastamento coercivo, das decisões judiciais de expulsão e dos processos de readmissão de cidadãos estrangeiros na área de jurisdição da Guarda;\n\niv) Verificação do cumprimento do regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, na área de jurisdição da Guarda;\n\nv) Gestão dos espaços equiparados de instalação temporária na área de jurisdição da Guarda;\n\nb) Analisar legislação publicada nas áreas referidas na alínea anterior, elaborando e difundindo normas técnicas com vista à uniformização de procedimentos na atividade operacional;\n\nc) Planear e coordenar a realização de controlos móveis e de operações conjuntas com serviços ou forças de segurança congéneres, nacionais ou estrangeiros, nas suas áreas de jurisdição;\n\nd) Assegurar e promover a ligação da Guarda às entidades nacionais e internacionais no âmbito da cooperação operacional nas matérias de gestão de fronteiras;\n\ne) Planear, coordenar e supervisionar o treino e emprego de forças em operações nacionais e internacionais;\n\nf) Assegurar o conhecimento da situação nacional relativa à gestão da fronteira externa em estreita coordenação com o Centro Nacional de Coordenação EUROSUR (European Border Surveillance System);\n\ng) Centralizar, analisar e difundir informações no âmbito da Gestão Integrada de Fronteiras;\n\nh) Elaborar estudos técnicos e apresentar propostas relevantes para a atividade operacional no âmbito da gestão de fronteiras;\n\ni) Assegurar a extensão das atribuições de proteção da natureza e do ambiente no litoral e mar territorial, sem prejuízo das competências dos órgãos da Autoridade Marítima Nacional;\n\nj) Centralizar os dados estatísticos relativos à atividade operacional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 4/2023 - Diário da República n.º 225/2023, Série I de 2023-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2023-224576580), em vigor a partir de 2023-11-22, produz efeitos a partir de 2023-10-29"
+  },
+  "224577225": {
+   "fragment_id": "154360969",
+   "type": 11,
+   "heading": "Artigo 18.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2023-11-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2023 - Diário da República n.º 225/2023, Série I de 2023-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2023-224576580), em vigor a partir de 2023-11-22, produz efeitos a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 18.º — Unidades orgânicas flexíveis\n\n1 - Por decisão do comandante-geral da Guarda podem ser criadas, modificadas ou extintas unidades orgânicas flexíveis na estrutura de comando, integradas ou não em unidades orgânicas nucleares.\n\n2 - O número máximo de unidades orgânicas flexíveis é fixado em 44.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2023 - Diário da República n.º 225/2023, Série I de 2023-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2023-224576580), em vigor a partir de 2023-11-22, produz efeitos a partir de 2023-10-29"
+  }
+ }
+}

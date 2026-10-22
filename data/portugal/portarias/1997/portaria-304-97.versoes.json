@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:384602:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1997-169775441",
+ "dre_path": "/dr/detalhe/portaria/304-1997-384602",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-05-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:583795:por",
+     "title": "Declaração de Rectificação n.º 10-G/97",
+     "published": "1997-05-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-g-1997-583795"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "169774940"
+   ]
+  }
+ ],
+ "fragments": {
+  "169774940": {
+   "fragment_id": "169775442",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1997-05-09",
+   "changed_by": [],
+   "markdown": "Portaria n.º 304/97\n\nde 9 de Maio\n\nConsiderando que, pelo Decreto-Lei n.º 34/97, de 31 de Janeiro, foi criado o Instituto da Comunicação Social;\n\nConsiderando que importa dotar aquele Instituto dos meios humanos necessários ao desempenho das funções que lhe foram cometidas;\n\nAo abrigo do n.º 2 do artigo 17.º do Decreto-Lei n.º 34/97, de 31 de Janeiro:\n\nManda o Governo, pelos Ministros das Finanças e Adjunto, que seja aprovado o quadro de pessoal constante do anexo à presente portaria, que desta faz parte integrante."
+  }
+ }
+}

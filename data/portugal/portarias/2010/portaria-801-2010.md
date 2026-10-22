@@ -1,0 +1,455 @@
+---
+schema_version: '1.0'
+id: pt:dre:343587:por
+title: Portaria n.º 801/2010
+short_title: null
+summary: Estabelece os requisitos mínimos relativos à organização e funcionamento, recursos humanos e instalações técnicas
+  das unidades privadas de serviços de saúde onde se exerça a prática de enfermagem
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 801/2010
+official_date: null
+publication_date: '2010-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 163/2010, Série I de 2010-08-23
+  number: '163'
+  series: I
+  supplement: null
+  pages: 3675 - 3678
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/16300/0367503678.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-03-12'
+version_history:
+  file: portaria-801-2010.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-08-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-15'
+    amending: pt:dre:359557:por
+    amending_title: Portaria n.º 1056-A/2010
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 20.º
+  - date: '2024-03-12'
+    amending: pt:dre:854635716:por
+    amending_title: Portaria n.º 86/2024/1
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/801/2010/p/cons/20240311/pt/html
+  oj: null
+  dre: '343587'
+  dre_path: /dr/detalhe/portaria/801-2010-343587
+  internal: pt:dre:343587:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/801-2010-343587
+  metadata_url: https://data.dre.pt/eli/port/801/2010/p/cons/20240311/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-855277086
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-855277086
+  retrieved_at: '2026-10-22T13:03:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 78c67688f6ba1659d42c8af52c8c206f38df41fef1b4b075b9395475b7b21664
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:03:41Z'
+  notes: 3 versão(ões); histórico completo em portaria-801-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Enfermagem
+- Medicina Privada
+- Enfermagem
+- Especificação Técnica
+- Licenciamento
+- Normas de Construção
+- Normas de Segurança
+- Pessoal de Enfermagem
+- Informação do Consumidor
+- Recursos Humanos
+relationships:
+- type: amended_by
+  target: pt:dre:359557:por
+  label: Altera Artigo 3.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º;
+    Altera Artigo 15.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1056-a-2010-359557
+  date: '2010-10-14'
+- type: amended_by
+  target: pt:dre:854635716:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716
+  date: '2024-03-11'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
+article_structure:
+  article_count: 22
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:03:41Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 801/2010
+
+Portaria n.º 801/2010
+
+de 23 de Agosto
+
+O Decreto-Lei n.º 279/2009, de 6 de Outubro, estabelece o novo regime jurídico a que ficam sujeitos a abertura, a modificação e o funcionamento das unidades privadas de saúde.
+
+O novo modelo visa garantir que seja assegurada a qualidade dos serviços prestados no sector privado e, em paralelo, consagrar um procedimento mais simplificado, assumindo os agentes a responsabilidade pelo cumprimento dos requisitos técnicos exigidos.
+
+O procedimento de licenciamento dos centros de enfermagem passa a ser disponibilizado online, o que permite com uma declaração electrónica validamente submetida a imediata obtenção de licença, sem prejuízo da subsequente vistoria.
+
+O novo procedimento simplificado de licenciamento é exigente quanto ao cumprimento dos requisitos técnicos e de qualidade.
+
+Importa assim estabelecer os requisitos técnicos a que devem obedecer o exercício da actividade dos centros de enfermagem.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Saúde, ao abrigo do n.º 4 do artigo 1.º, do artigo 25.º e do artigo 27.º do Decreto-Lei n.º 279/2009, de 6 de Outubro, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 1.º — Objecto
+
+A presente portaria estabelece os requisitos mínimos relativos à organização e funcionamento, recursos humanos e instalações técnicas das unidades privadas de serviços de saúde onde se exerça a prática de enfermagem.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 2.º — Definições
+
+Para efeitos da presente portaria, consideram-se centros de enfermagem as unidades ou estabelecimentos de saúde privados onde se exerça a prática de enfermagem.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+### Capítulo II — Organização e funcionamento
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 3.º — Qualidade e segurança
+
+As normas de qualidade e segurança devem ser cumpridas em todas as situações previstas na presente portaria de acordo com as regras e os códigos científicos e técnicos internacionalmente reconhecidos nas áreas abrangidas, competindo à Ordem dos Enfermeiros ou, após parecer desta, à Direcção-Geral da Saúde, propor ao membro do Governo responsável pela área da saúde a sua adopção.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1056-A/2010 - Diário da República n.º 200/2010, 1º Suplemento, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/1056-a-2010-359557), em vigor a partir de 2010-10-15
+
+###### Artigo 4.º — Informação aos utentes
+
+Deve ser colocado em local bem visível do público o horário de funcionamento, o nome do enfermeiro responsável e o número de cédula profissional, os procedimentos a adoptar em situações de emergência e os direitos e deveres dos utentes, devendo ainda estar disponível para consulta a tabela de preços.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 5.º — Seguro profissional e de actividade
+
+A responsabilidade civil e profissional, bem como a responsabilidade pela actividade dos centros de enfermagem, devem ser transferidas para empresas de seguros.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 6.º — Regulamento interno
+
+Os centros de enfermagem devem dispor de um regulamento interno, definido pelo enfermeiro responsável, do qual deve constar, pelo menos, o seguinte:
+
+a) Identificação do enfermeiro responsável, bem como dos restantes colaboradores;
+
+b) Estrutura organizacional do centro de enfermagem;
+
+c) Normas de assistência de enfermagem;
+
+d) Normas de funcionamento.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 7.º — Registo, conservação e arquivo
+
+Os centros de enfermagem devem possuir o registo do nome do doente, a data, os cuidados prestados e, em caso de referenciação de outro profissional de saúde, a sua identificação ou, em alternativa, a menção de que o doente compareceu ou solicitou espontaneamente os serviços do posto ou centro de enfermagem.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1056-A/2010 - Diário da República n.º 200/2010, 1º Suplemento, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/1056-a-2010-359557), em vigor a partir de 2010-10-15
+
+### Capítulo III — Instrução do processo
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 8.º — Documentação
+
+1 - Os centros de enfermagem devem dispor em arquivo da seguinte documentação:
+
+a) Cópia autenticada do cartão de identificação de pessoa colectiva ou, no caso de pessoa singular, do bilhete de identidade do requerente e do respectivo cartão de contribuinte ou, em alternativa, do cartão do cidadão;
+
+b) Relação nominal do pessoal e respectivo mapa com a distribuição pelos diferentes grupos profissionais;
+
+c) Levantamento actualizado de arquitectura;
+
+d) Autorização de utilização para comércio ou serviços ou indústria ou outra finalidade mais específica emitida pela câmara municipal competente;
+
+e) Certidão actualizada do registo comercial;
+
+f) Cópia do contrato com entidade certificada para a gestão de resíduos hospitalares.
+
+2 - Adicionalmente se aplicável os centros de enfermagem devem dispor da seguinte documentação:
+
+a) Cópia do contrato com entidade certificada para o fornecimento de artigos esterilizados;
+
+b) Cópia do termo de responsabilidade pela exploração das instalações eléctricas;
+
+c) Certificado de inspecção das instalações de gás.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1056-A/2010 - Diário da República n.º 200/2010, 1º Suplemento, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/1056-a-2010-359557), em vigor a partir de 2010-10-15
+
+###### Artigo 9.º — Condições de licenciamento
+
+1 - São condições de atribuição da licença de funcionamento:
+
+a) A idoneidade do requerente, a qual, no caso de se tratar de pessoa colectiva, deve ser preenchida pelos administradores, ou directores ou gerentes que detenham a direcção efectiva do estabelecimento;
+
+b) A idoneidade profissional do enfermeiro responsável e demais pessoal;
+
+c) O cumprimento dos requisitos que permitam a garantia da qualidade técnica dos cuidados a prestar, bem como dos equipamentos de que ficarão dotados.
+
+2 - Para efeitos do disposto no presente diploma, são consideradas idóneas as pessoas relativamente às quais se não verifique algum dos seguintes impedimentos:
+
+a) Proibição legal do exercício do comércio, função ou profissão;
+
+b) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;
+
+c) Inibição do exercício da actividade profissional pela respectiva Ordem ou associação profissional durante o período determinado.
+
+3 - O disposto no número anterior deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1056-A/2010 - Diário da República n.º 200/2010, 1º Suplemento, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/1056-a-2010-359557), em vigor a partir de 2010-10-15
+
+### Capítulo IV — Recursos humanos
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 10.º — Enfermeiro responsável
+
+Cada centro de enfermagem funcionará sob a responsabilidade de um enfermeiro com o título profissional adequado aos cuidados de enfermagem a prestar e portador de cédula profissional válida.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1056-A/2010 - Diário da República n.º 200/2010, 1º Suplemento, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/1056-a-2010-359557), em vigor a partir de 2010-10-15
+
+###### Artigo 11.º — Pessoal
+
+1 - Os centros de enfermagem devem, para além do enfermeiro responsável e dos enfermeiros que aí prestem serviço, dispor de pessoal de atendimento.
+
+2 - Os enfermeiros prestam cuidados de enfermagem no âmbito do exercício autónomo consagrado no Regulamento do Exercício Profissional do Enfermeiro (REPE) e Estatuto da Ordem dos Enfermeiros, respeitando os padrões de qualidade e perfil de competências de cuidados gerais e especializados definidos pela Ordem dos Enfermeiros e pela Organização Mundial de Saúde (OMS).
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1056-A/2010 - Diário da República n.º 200/2010, 1º Suplemento, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/1056-a-2010-359557), em vigor a partir de 2010-10-15
+
+###### Artigo 12.º — Recurso a serviços contratados
+
+Os centros de enfermagem podem recorrer a serviços de terceiros, nomeadamente no âmbito do transporte de doentes, tratamento de roupa, do fornecimento de refeições, de gases medicinais e produtos esterilizados, e ainda a gestão dos resíduos hospitalares, quando as entidades prestadoras de tais serviços se encontrem, nos termos da legislação em vigor, licenciadas, certificadas ou acreditadas para o efeito.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+### Capítulo V — Requisitos técnicos
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 13.º — Meio físico e espaço envolvente
+
+1 - Os centros de enfermagem devem situar-se em locais de fácil acessibilidade e que disponham de infra-estruturas viárias, de abastecimento de água, de saneamento, de energia eléctrica e de telecomunicações.
+
+2 - Os centros de enfermagem devem garantir, por si ou com recurso a terceiros, a gestão de resíduos em conformidade com as disposições legais.
+
+3 - Os centros de enfermagem não devem ter no espaço envolvente próximo indústrias poluentes ou produtoras de ruído, zonas insalubres e zonas perigosas.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 14.º — Normas genéricas de construção
+
+1 - A construção deve contemplar a eliminação de barreiras arquitectónicas, nos termos da legislação em vigor.
+
+2 - A sinalética deve ser concebida de forma a ser compreendida pelos utentes.
+
+3 - Os acabamentos utilizados nos centros de enfermagem devem permitir a manutenção de um grau de higienização compatível com a actividade desenvolvida nos locais a que se destinam.
+
+4 - Os centros de enfermagem devem garantir a localização de instalações técnicas, de armazenagem de fluidos inflamáveis ou perigosos e de gases medicinais, caso existam, nas condições de segurança legalmente impostas.
+
+5 - Os corredores e demais circulações horizontais deverão ter como pé direito útil mínimo 2,40 m.
+
+6 - Para efeitos do número anterior, entende-se por pé direito útil a altura livre do pavimento ao tecto ou tecto falso.
+
+7 - Sempre que o posto ou centro de enfermagem não disponha de acesso de nível ao exterior e ou tenha um desenvolvimento em altura superior a 3 pisos, deve dispor de ascensor ou outro aparelho elevatório adequado.
+
+8 - Caso o posto ou centro de enfermagem preste cuidados a doentes acamados deve dispor adicionalmente de, pelo menos, um ascensor com capacidade para o transporte de camas com dimensões interiores não inferiores a 2,40 m, 1,40 m e 2,10 m, respectivamente de comprimento, de largura e de altura.
+
+9 - Os centros de enfermagem devem garantir as condições que permitam o respeito pela privacidade e dignidade dos utentes.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 15.º — Climatização
+
+Os compartimentos devem satisfazer as condições de qualidade do ar, de temperatura e de humidade previstas na legislação em vigor sobre comportamento térmico e sistemas energéticos dos edifícios e sobre higiene e segurança do trabalho.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1056-A/2010 - Diário da República n.º 200/2010, 1º Suplemento, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/1056-a-2010-359557), em vigor a partir de 2010-10-15
+
+###### Artigo 16.º — Equipamentos de desinfecção e esterilização
+
+1 - Para a obtenção de artigos esterilizados, devem adoptar-se as seguintes modalidades:
+
+a) Utilização exclusiva de artigos descartáveis, sendo proibido o reprocessamento para utilização posterior;
+
+b) Utilização de artigos esterilizados em entidade externa certificada;
+
+c) Utilização de artigos esterilizados em serviço interno de esterilização para uma parte ou a totalidade das necessidades da unidade de saúde. Em caso de esterilização pelo serviço interno de apenas uma parte do material, o restante deverá ser obtido com recurso às opções descritas em a) e b);
+
+d) Utilização de artigos esterilizados em serviço central de esterilização.
+
+2 - Todos os dispositivos potencialmente contaminados são manipulados, recolhidos e transportados em caixas ou carros fechados para a área de descontaminação de forma a evitar o risco de contaminação dos circuitos envolventes e de doentes e pessoal.
+
+3 - O serviço interno de esterilização deve satisfazer as regras em vigor com vista a assegurar o cumprimento das seguintes fases:
+
+a) Recolha de instrumentos ou dispositivos médicos;
+
+b) Limpeza e desinfecção;
+
+c) Triagem, montagem e embalagem;
+
+d) Esterilizador validado e mantido de acordo com a legislação nacional, adaptado às necessidades do serviço e ao tipo de técnicas utilizadas;
+
+e) Em caso de existência de uma central de esterilização para a totalidade dos artigos esterilizados da unidade de saúde, esta deve estar concebida, organizada e equipada de acordo com os normativos e legislação em vigor, dispor da capacidade adequada às necessidades da unidade de saúde e estar certificada.
+
+4 - Qualquer que seja a origem dos artigos esterilizados, deve existir evidência que valide a eficácia do ciclo de esterilização.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 17.º — Equipamentos frigoríficos
+
+Deverá existir frigorífico para conservação de medicamentos dotado de dispositivo automático de registo de temperatura.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 18.º — Instalações e equipamentos eléctricos
+
+1 - As instalações eléctricas devem satisfazer as regras e regulamentos aplicáveis.
+
+2 - Todos os compartimentos devem dispor do número de tomadas necessárias à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista, ou seja, uma tomada por equipamento, a que se deve acrescentar uma tomada adicional para equipamento de limpeza.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 19.º — Especificações técnicas
+
+São aprovadas especificações técnicas no que diz respeito aos compartimentos dos centros de enfermagem, aos requisitos mínimos de equipamento sanitário e ao equipamento médico e equipamento geral nos anexos i, ii e iii à presente portaria, da qual fazem parte integrante.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+### Capítulo VI — Disposições finais
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 20.º — Outros serviços de saúde
+
+Sempre que a unidade dispuser de outros serviços de saúde, estes devem cumprir as exigências e requisitos constantes nos respectivos diplomas.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1056-A/2010 - Diário da República n.º 200/2010, 1º Suplemento, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/1056-a-2010-359557), em vigor a partir de 2010-10-15
+
+###### Artigo 21.º — Livro de reclamações
+
+Os centros de enfermagem estão sujeitos à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+###### Artigo 22.º — Início de vigência
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+O Secretário de Estado da Saúde, Óscar Manuel de Oliveira Gaspar, em 11 de Agosto de 2010.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+## Anexo I — (a que se refere o artigo 19.º)
+
+Centros de enfermagem
+
+Compartimentos a considerar
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+## Anexo II — (a que se refere o artigo 19.º)
+
+Equipamento sanitário
+
+Requisitos mínimos a considerar
+
+(ver documento original)
+
+Todos os compartimentos devem ser dotados de dispensador de sabão líquido, SABA (solução anti-séptica de base alcoólica), porta-toalhetes e balde de lixo accionado por pedal.
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12
+
+## Anexo III — (a que se refere o artigo 19.º)
+
+Equipamento médico e equipamento geral
+
+Equipamento médico e geral a considerar
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 22.º do/a [Portaria n.º 86/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/86-2024-854635716), em vigor a partir de 2024-03-12

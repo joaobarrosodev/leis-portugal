@@ -1,0 +1,1127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:159114:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-131050932",
+ "dre_path": "/dr/detalhe/decreto-lei/393-a-1999-159114",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-10-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "216567209",
+    "131051016",
+    "131051017",
+    "131051018",
+    "131051019",
+    "131051020",
+    "131051021",
+    "131051022",
+    "131051023",
+    "131051024",
+    "131051025",
+    "131051026",
+    "131051027",
+    "131051028",
+    "131051029",
+    "131051030",
+    "131051031",
+    "131051032",
+    "131051033",
+    "131051034",
+    "131051035",
+    "131051036",
+    "131051037",
+    "131051038",
+    "131051039",
+    "131051040",
+    "131051041",
+    "131051042",
+    "131051043",
+    "131051044",
+    "131051045",
+    "131051046",
+    "131051047",
+    "131051048",
+    "131051049",
+    "131051050",
+    "131051051",
+    "131051052",
+    "131051053",
+    "131051054",
+    "131051055",
+    "131051056",
+    "131051057",
+    "131051058"
+   ]
+  },
+  {
+   "date": "2009-10-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490957:por",
+     "title": "Decreto-Lei n.º 272/2009",
+     "published": "2009-10-01",
+     "dre_path": "/dr/detalhe/decreto-lei/272-2009-490957"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "131051015",
+    "131051016",
+    "131051017",
+    "131051018",
+    "131051319",
+    "131051020",
+    "131051021",
+    "131051022",
+    "131051023",
+    "131051024",
+    "131051025",
+    "131051026",
+    "131051027",
+    "131051028",
+    "131051029",
+    "131051030",
+    "131051031",
+    "131051032",
+    "131051033",
+    "131051034",
+    "131051035",
+    "131051036",
+    "131051037",
+    "131051038",
+    "131051039",
+    "131051322",
+    "131051320",
+    "131051321",
+    "131051043",
+    "131051044",
+    "131051045",
+    "131051046",
+    "131051047",
+    "131051048",
+    "131051049",
+    "131051050",
+    "131051051",
+    "131051052",
+    "131051053",
+    "131051054",
+    "131051055",
+    "131051056",
+    "131051057",
+    "131051058",
+    "131051059"
+   ]
+  },
+  {
+   "date": "2020-04-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:131016733:por",
+     "title": "Decreto-Lei n.º 11/2020",
+     "published": "2020-04-02",
+     "dre_path": "/dr/detalhe/decreto-lei/11-2020-131016733"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "131051015",
+    "131051016",
+    "131051017",
+    "131051018",
+    "131051319",
+    "131051020",
+    "131051323",
+    "131051022",
+    "131051023",
+    "131051024",
+    "131051025",
+    "131051026",
+    "131051027",
+    "131051028",
+    "131051029",
+    "131051030",
+    "131051031",
+    "131051032",
+    "131051033",
+    "131051034",
+    "131051035",
+    "131051036",
+    "131051037",
+    "131051038",
+    "131051039",
+    "131051322",
+    "131051320",
+    "131051324",
+    "131051043",
+    "131051044",
+    "131051045",
+    "131051046",
+    "131051047",
+    "131051048",
+    "131051049",
+    "131051050",
+    "131051051",
+    "131051052",
+    "131051053",
+    "131051054",
+    "131051055",
+    "131051056",
+    "131051057",
+    "131051058",
+    "131051059"
+   ]
+  },
+  {
+   "date": "2023-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216512899:por",
+     "title": "Decreto-Lei n.º 64-A/2023",
+     "published": "2023-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/64-a-2023-216512899"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "216567209",
+    "216567210",
+    "216567211",
+    "216567212",
+    "216567213",
+    "216567214",
+    "216567215",
+    "216567216",
+    "216567217",
+    "216567218",
+    "216567219",
+    "216567220",
+    "216567221",
+    "216567222",
+    "216567223",
+    "216567224",
+    "216567225",
+    "216567226",
+    "216567227",
+    "216567228",
+    "216567229",
+    "216567230",
+    "216567231",
+    "216567232",
+    "216567233",
+    "216567234",
+    "216567235",
+    "216567236",
+    "216567237",
+    "216567238",
+    "216567239",
+    "216567240",
+    "216567241",
+    "216567242",
+    "216567243",
+    "216567244",
+    "216567245",
+    "216567246",
+    "216567247",
+    "216567248",
+    "216567249",
+    "216567250",
+    "216567251",
+    "216567252",
+    "216567253"
+   ]
+  }
+ ],
+ "fragments": {
+  "216567209": {
+   "fragment_id": "131050933",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-08-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 393-A/99\n\nde 2 de Outubro\n\nO Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelo Decreto-Lei n.º 99/99, de 30 de Março, regulou o regime geral de acesso e ingresso no ensino superior, no novo quadro fixado pela redacção dada ao artigo 12.º da Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro) pela Lei n.º 115/97, de 19 de Setembro.\n\nAtravés do presente diploma são regulados os regimes especiais de acesso e ingresso no ensino superior destinados a estudantes que reúnem condições habilitacionais e pessoais específicas, os quais sucedem aos regimes previstos no artigo 45.º do Decreto-Lei n.º 28-B/96, de 4 de Abril, alterado pelo Decreto-Lei n.º 75/97, de 3 de Abril, regulados pela Portaria n.º 317-B/96, de 29 de Julho, alterada pelas Portarias n.os 525-B/96, de 30 de Setembro, e 371/98, de 29 de Junho.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "131051016": {
+   "fragment_id": "131050934",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "131051017": {
+   "fragment_id": "131050935",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula os regimes especiais de acesso e ingresso no ensino superior."
+  },
+  "131051018": {
+   "fragment_id": "131050936",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito e aplicação\n\n1 - Os regimes regulados pelo presente diploma aplicam-se ao acesso e ingresso nos estabelecimentos de ensino superior público, particular e cooperativo, para a frequência de cursos de bacharelato e licenciatura.\n\n2 - O presente diploma não se aplica aos cursos ministrados em estabelecimentos de ensino superior militar e policial."
+  },
+  "131051019": {
+   "fragment_id": "131050937",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários dos regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários dos regimes especiais\n\nPodem beneficiar de condições especiais de acesso, nos termos fixados pelo presente diploma, os estudantes que se encontrem numa das seguintes situações:\n\na) Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares que os acompanhem;\n\nb) Cidadãos portugueses bolseiros no estrangeiro ou funcionários públicos em missão oficial no estrangeiro e seus familiares que os acompanhem;\n\nc) Oficiais do quadro permanente das Forças Armadas Portuguesas, no âmbito da satisfação de necessidades específicas de formação das Forças Armadas;\n\nd) Estudantes bolseiros nacionais de países africanos de expressão portuguesa, no quadro dos acordos de cooperação firmados pelo Estado Português;\n\ne) Funcionários estrangeiros de missão diplomática acreditada em Portugal e seus familiares aqui residentes, em regime de reciprocidade;\n\nf) Atletas praticantes com estatuto de alta competição ou integrados no percurso de alta competição a que se refere o Decreto-Lei n.º 125/95, de 31 de Maio, alterado pelo Decreto-Lei n.º 123/96, de 10 de Agosto, regulado pela Portaria n.º 947/95, de 1 de Agosto;\n\ng) Naturais e filhos de naturais do território de Timor Leste."
+  },
+  "131051020": {
+   "fragment_id": "131050938",
+   "type": 11,
+   "heading": "Artigo 4.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Restrições\n\n1 - Num ano lectivo cada estudante apenas pode requerer matrícula e inscrição através de um dos regimes especiais previstos no presente diploma.\n\n2 - Não podem requerer matrícula e inscrição através dos regimes especiais previstos no presente diploma os titulares de um curso superior português ou estrangeiro.\n\n3 - Exceptuam-se do disposto no número anterior:\n\na) Os titulares do grau de bacharel que pretendam prosseguir estudos tendo em vista a obtenção do grau de licenciado na mesma área;\n\nb) Os requerentes ao abrigo da alínea c) do artigo 3.º"
+  },
+  "131051021": {
+   "fragment_id": "131050939",
+   "type": 11,
+   "heading": "Artigo 5.º — Titulares de um curso de ensino secundário português",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Titulares de um curso de ensino secundário português\n\nOs estudantes que requeiram a matrícula e inscrição invocando a titularidade de um curso de ensino secundário português só o podem fazer para par estabelecimento/curso para que comprovem aprovação nas disciplinas do ensino secundário correspondentes às provas de ingresso exigidas no ano em causa.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733) As alterações introduzidas pelo presente decreto-lei produzem efeitos a partir da candidatura à matrícula e inscrição no ensino superior do ano letivo de 2020-2021."
+  },
+  "131051022": {
+   "fragment_id": "131050940",
+   "type": 11,
+   "heading": "Artigo 6.º — Cursos que exijam pré-requisitos ou requisitos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cursos que exijam pré-requisitos ou requisitos especiais\n\n1 - O requerimento de matrícula e inscrição em pares estabelecimento/curso para os quais sejam exigidos pré-requisitos, nos termos do n.º 2 do artigo 16.º do Decreto-Lei n.º 296-A/98, está condicionado à satisfação destes.\n\n2 - O requerimento de matrícula e inscrição em pares estabelecimento/curso objecto de concurso local, nos termos da alínea b) do n.º 2 do artigo 7.º do Decreto-Lei n.º 296-A/98, está condicionado à satisfação dos requisitos especiais objecto de avaliação no concurso."
+  },
+  "131051023": {
+   "fragment_id": "131050941",
+   "type": 11,
+   "heading": "Artigo 7.º — Familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Familiar\n\nPara efeitos do presente diploma, entende-se por familiar o cônjuge, o parente e afim até ao 2.º grau da linha recta ou colateral que não tenha idade superior a 25 anos em 31 de Dezembro do ano em que requer a matrícula e inscrição."
+  },
+  "131051024": {
+   "fragment_id": "131050942",
+   "type": 1,
+   "heading": "Capítulo II — Regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regimes especiais"
+  },
+  "131051025": {
+   "fragment_id": "131050943",
+   "type": 8,
+   "heading": "Secção I — Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares"
+  },
+  "131051026": {
+   "fragment_id": "131050944",
+   "type": 11,
+   "heading": "Artigo 8.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Âmbito\n\nSão abrangidos pelo regime da alínea a) do n.º 1 do artigo 3.º os funcionários portugueses de missão diplomática portuguesa no estrangeiro ou seus familiares que os acompanhem habilitados com:\n\na) Curso de ensino secundário estrangeiro completado em país estrangeiro quando em missão ou acompanhando o familiar em missão e que constitua, nesse país, habilitação académica suficiente para ingresso no ensino superior oficial;\n\nb) Curso de ensino secundário português completado em país estrangeiro quando em missão ou acompanhando o familiar em missão."
+  },
+  "131051027": {
+   "fragment_id": "131050945",
+   "type": 11,
+   "heading": "Artigo 9.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição\n\n1 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário estrangeiro podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior congénere do curso para que dispõem de habilitação académica para ingresso no ensino superior oficial do país respectivo.\n\n2 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário português podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º"
+  },
+  "131051028": {
+   "fragment_id": "131050946",
+   "type": 8,
+   "heading": "Secção II — Bolseiros no estrangeiro ou funcionários públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Bolseiros no estrangeiro ou funcionários públicos"
+  },
+  "131051029": {
+   "fragment_id": "131050947",
+   "type": 11,
+   "heading": "Artigo 10.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Âmbito\n\nSão abrangidos pelo regime da alínea b) do n.º 1 do artigo 3.º os cidadãos portugueses e seus familiares que os acompanhem que, à data de apresentação do requerimento de matrícula e inscrição, se encontrem há mais de dois anos em país estrangeiro na qualidade de bolseiros, ou equiparados, do Governo Português, na qualidade de funcionários públicos em missão oficial no estrangeiro ou na de funcionários portugueses da União Europeia, e que, cumulativamente:\n\na) Sejam titulares de:\n\ni) Curso de ensino secundário estrangeiro completado em país estrangeiro que aí constitua habilitação académica suficiente para ingresso no ensino superior oficial; ou\n\nii) Curso de ensino secundário português completado em país estrangeiro;\n\nb) À data de apresentação do requerimento de matrícula e inscrição tenham residência permanente há mais de dois anos nesse país estrangeiro."
+  },
+  "131051030": {
+   "fragment_id": "131050948",
+   "type": 11,
+   "heading": "Artigo 11.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição\n\n1 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário estrangeiro podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior congénere do curso para que dispõem de habilitação académica para ingresso no ensino superior oficial do país respectivo.\n\n2 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário português podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º"
+  },
+  "131051031": {
+   "fragment_id": "131050949",
+   "type": 8,
+   "heading": "Secção III — Oficiais das Forças Armadas Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Oficiais das Forças Armadas Portuguesas"
+  },
+  "131051032": {
+   "fragment_id": "131050950",
+   "type": 11,
+   "heading": "Artigo 12.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Âmbito\n\nSão abrangidos pelo regime da alínea c) do n.º 1 do artigo 3.º os oficiais do quadro permanente das Forças Armadas Portuguesas, nos termos de acordos específicos de formação estabelecidos entre estas e as instituições de ensino superior, no âmbito da satisfação das necessidades específicas de formação daquelas."
+  },
+  "131051033": {
+   "fragment_id": "131050951",
+   "type": 11,
+   "heading": "Artigo 13.º — Estabelecimentos e cursos em que se matriculam e inscrevem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Estabelecimentos e cursos em que se matriculam e inscrevem\n\nOs estudantes abrangidos por este regime matriculam-se e inscrevem-se nos estabelecimentos e cursos expressamente previstos nos acordos firmados."
+  },
+  "131051034": {
+   "fragment_id": "131050952",
+   "type": 8,
+   "heading": "Secção IV — Bolseiros nacionais de países africanos de expressão portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Bolseiros nacionais de países africanos de expressão portuguesa"
+  },
+  "131051035": {
+   "fragment_id": "131050953",
+   "type": 11,
+   "heading": "Artigo 14.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Âmbito\n\n1 - São abrangidos pelo regime da alínea d) do n.º 1 do artigo 3.º os estudantes nacionais dos países africanos de expressão portuguesa que satisfaçam, cumulativamente, as seguintes condições:\n\na) O pedido de admissão à matrícula e inscrição no ensino superior público português ser feito pela via diplomática, no âmbito dos acordos de cooperação firmados pelo Estado Português;\n\nb) Serem titulares de um curso de ensino secundário português ou de habilitação equivalente;\n\nc) Não terem igualmente a nacionalidade portuguesa, salvo se tiverem concluído, após frequência de pelo menos dois anos lectivos, o curso de ensino secundário num dos países africanos de expressão portuguesa;\n\nd) Serem bolseiros:\n\ni) Do Governo Português;\n\nii) Dos governos respectivos, nos termos e limites estabelecidos por acordos firmados no âmbito de comissões paritárias;\n\niii) Ao abrigo de convenções internacionais celebradas com a União Europeia;\n\niv) Da Fundação Calouste Gulbenkian.\n\n2 - São igualmente abrangidos por este regime os estudantes nacionais dos Estados a que se refere o n.º 1 que satisfaçam, cumulativamente, as seguintes condições:\n\na) Preencherem o disposto nas alíneas a), c) e d) do n.º 1;\n\nb) Terem estado inscritos num curso estrangeiro de ensino superior em pelo menos um ano curricular, com aproveitamento na totalidade das disciplinas que integram o respectivo plano de estudos, ou em dois anos curriculares, desde que com aproveitamento em pelo menos 50% das disciplinas que integram o respectivo plano de estudos.\n\n3 - São também abrangidos por este regime os estudantes nacionais dos Estados a que se refere o n.º 1 que satisfaçam, cumulativamente, as seguintes condições:\n\na) Preencherem o disposto nas alíneas a), c) e d) do n.º 1;\n\nb) Terem estado matriculados e inscritos em estabelecimento e curso de ensino superior público português e pretendam retomar os estudos no mesmo curso ou em curso congénere, ainda que em estabelecimento diferente, após terem interrompido a matrícula no ensino superior público português por, pelo menos, um ano lectivo.\n\n4 - Aos estudantes que, cumulativamente:\n\na) Satisfaçam as condições previstas nas alíneas a), c) e d) do n.º 1;\n\nb) Sejam titulares de diploma terminal do ensino secundário do seu país de origem não equivalente ao ensino secundário português;\n\né facultada a matrícula no ensino secundário português para a conclusão de um curso secundário adequado ao plano curricular seguido no país de origem e às condições de acesso ao curso superior português em que pretendem inscrever-se.\n\n5 - Dentro dos limites da capacidade de acolhimento das instituições de ensino superior, podem ainda ser admitidos ao abrigo deste regime outros bolseiros não abrangidos pela alínea d) do n.º 1 que satisfaçam as restantes condições, nomeadamente os bolseiros ao abrigo de protocolos, convénios, contratos ou outros que hajam sido homologados pelo Ministro da Educação."
+  },
+  "131051036": {
+   "fragment_id": "131050954",
+   "type": 11,
+   "heading": "Artigo 15.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição\n\n1 - Os estudantes abrangidos pelos n.os 1 e 4 do artigo anterior podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º\n\n2 - Os estudantes abrangidos pelo n.º 2 do artigo anterior podem requerer a matrícula e inscrição em:\n\na) Par estabelecimento/curso congénere daquele em que tenham estado inscritos;\n\nb) Par estabelecimento/curso não congénere daquele em que tenham estado inscritos, desde que comprovem a aprovação nas disciplinas correspondentes às provas de ingresso exigidas no ano em causa.\n\n3 - Os estudantes abrangidos pelo n.º 3 do artigo anterior podem requerer a matrícula e inscrição no par estabelecimento/curso em que tenham estado inscritos ou em par estabelecimento/curso congénere.\n\n4 - Aos estudantes abrangidos pelo n.º 5 do artigo anterior aplicam-se, conforme o caso, os n.os 1, 2 ou 3 do presente artigo."
+  },
+  "131051037": {
+   "fragment_id": "131050955",
+   "type": 8,
+   "heading": "Secção V — Missão diplomática acreditada em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Missão diplomática acreditada em Portugal"
+  },
+  "131051038": {
+   "fragment_id": "131050956",
+   "type": 11,
+   "heading": "Artigo 16.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Âmbito\n\n1 - São abrangidos pelo regime da alínea e) do n.º 1 do artigo 3.º os funcionários estrangeiros de missão diplomática acreditada em Portugal e seus familiares aqui residentes, habilitados com um curso de ensino secundário estrangeiro, completado em país estrangeiro ou em estabelecimento de ensino estrangeiro em Portugal, que constitua, nesse país, habilitação académica suficiente para ingresso no ensino superior oficial, ou com um curso de ensino secundário português.\n\n2 - A aplicação do número anterior tem ainda como condição a demonstração de tratamento recíproco aos cidadãos portugueses."
+  },
+  "131051039": {
+   "fragment_id": "131050957",
+   "type": 11,
+   "heading": "Artigo 17.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição\n\n1 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário estrangeiro podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior congénere do curso para que dispõem de habilitação académica para ingresso no ensino superior oficial do país respectivo.\n\n2 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário português podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º"
+  },
+  "131051040": {
+   "fragment_id": "131050958",
+   "type": 8,
+   "heading": "Secção VI — Atletas com estatuto ou percurso de alta competição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Atletas com estatuto ou percurso de alta competição"
+  },
+  "131051041": {
+   "fragment_id": "131050959",
+   "type": 11,
+   "heading": "Artigo 18.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Âmbito\n\nSão abrangidos pelo regime da alínea f) do n.º 1 do artigo 3.º os estudantes que satisfaçam, cumulativamente, as seguintes condições:\n\na) Nos termos do Decreto-Lei n.º 125/95, de 31 de Maio, alterado pelo Decreto-Lei n.º 123/96, de 10 de Agosto, regulado pela Portaria n.º 947/95, de 1 de Agosto:\n\ni) Sejam atletas praticantes com estatuto de alta competição; ou\n\nii) Sejam atletas praticantes integrados no percurso de alta competição; ou\n\niii) Tenham deixado de satisfazer às condições constantes das alíneas i) ou ii) há menos de dois anos contados na data de apresentação do requerimento de matrícula e inscrição;\n\nb) Sejam titulares de um curso de ensino secundário ou de habilitação legalmente equivalente."
+  },
+  "131051042": {
+   "fragment_id": "131050960",
+   "type": 11,
+   "heading": "Artigo 19.º — Cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Cursos para que podem requerer a matrícula e inscrição\n\nOs estudantes abrangidos por este regime podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 34/2022 - Diário da República n.º 98/2022, Série I de 2022-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2022-183691729) derroga, para efeitos de acesso e ingresso no ensino superior no ano letivo de 2022-2023, por candidatos abrangidos pelo presente decreto-lei, o n.º 2 do presente artigo .\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 70-C/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-c-2021-169269297) Derroga o n.º 2 do presente artigo, estabelecendo o regime transitório aplicável ao ano letivo de 2021-2022. A derrogação dispensa os candidatos da substituição de provas de ingresso pelos exames finais de disciplinas, passando a utilizar-se, para efeitos de cálculo da respetiva nota de candidatura, a classificação final das disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam, convertida para a escala de 0 a 200 quando necessário.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 33/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2020-136990468) Derroga o n.º 2 do presente artigo, estabelecendo o regime transitório aplicável ao ano letivo de 2020-2021. A derrogação dispensa os candidatos da substituição de provas de ingresso pelos exames finais de disciplinas, passando a utilizar-se, para efeitos de cálculo da respetiva nota de candidatura, a classificação final das disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam, convertida para a escala de 0 a 200 quando necessário.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733) As alterações introduzidas pelo presente decreto-lei produzem efeitos a partir da candidatura à matrícula e inscrição no ensino superior do ano letivo de 2020-2021."
+  },
+  "131051043": {
+   "fragment_id": "131050961",
+   "type": 8,
+   "heading": "Secção VII — Naturais de Timor Leste",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Naturais de Timor Leste"
+  },
+  "131051044": {
+   "fragment_id": "131050962",
+   "type": 11,
+   "heading": "Artigo 20.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Âmbito\n\nSão abrangidos pelo regime da alínea g) do n.º 1 do artigo 3.º os estudantes naturais e filhos de naturais do território de Timor Leste que sejam titulares de um curso de ensino secundário ou de habilitação legalmente equivalente."
+  },
+  "131051045": {
+   "fragment_id": "131050963",
+   "type": 11,
+   "heading": "Artigo 21.º — Cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cursos para que podem requerer a matrícula e inscrição\n\nOs estudantes abrangidos por este regime podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º"
+  },
+  "131051046": {
+   "fragment_id": "131050964",
+   "type": 1,
+   "heading": "Capítulo III — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Colocação"
+  },
+  "131051047": {
+   "fragment_id": "131050965",
+   "type": 11,
+   "heading": "Artigo 22.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Limites\n\n1 - O número de estudantes abrangidos pelos regimes especiais previstos nas alíneas a), b), d), e), f) e g) do n.º 1 do artigo 3.º a admitir em cada par estabelecimento/curso para o conjunto dos regimes especiais não pode exceder, em cada ano lectivo, 10% das vagas aprovadas para o concurso nacional ou local de acesso ou para os concursos institucionais relativos ao ano em causa.\n\n2 - Quando o número de estudantes que requer matrícula e inscrição num par estabelecimento/curso exceder o limite previsto no número anterior, o director-geral do Ensino Superior pode autorizar, mediante a prévia anuência do estabelecimento de ensino, que o número de colocações exceda aquele limite.\n\n3 - O número de estudantes a admitir ao abrigo do regime especial a que se refere a alínea c) do n.º 1 do artigo 3.º é o fixado no acordo firmado entre as Forças Armadas e o estabelecimento de ensino em causa."
+  },
+  "131051048": {
+   "fragment_id": "131050966",
+   "type": 11,
+   "heading": "Artigo 23.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Colocação\n\n1 - Os estudantes abrangidos pelos regimes especiais previstos nas alíneas a), b), d), e), f) e g) do n.º 1 do artigo 3.º são colocados, sempre que possível, no par estabelecimento/curso requerido.\n\n2 - A decisão sobre a colocação é da competência do director-geral do Ensino Superior, que procede a audição prévia do estabelecimento de ensino superior respectivo.\n\n3 - Caso o número de lugares disponíveis num par estabelecimento/curso seja inferior ao número de estudantes que nele requerem a matrícula e inscrição, o director-geral do Ensino Superior, considerando as outras preferências manifestadas pelos requerentes e as disponibilidades de lugares, procede à colocação dos estudantes ponderando, nomeadamente, as suas qualificações académicas e uma equilibrada repartição dos lugares pelos estudantes dos diferentes regimes."
+  },
+  "131051049": {
+   "fragment_id": "131050967",
+   "type": 11,
+   "heading": "Artigo 24.º — Prioridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Prioridades\n\n1 - Os atletas praticantes com estatuto de alta competição têm prioridade sobre os atletas praticantes integrados no percurso de alta competição.\n\n2 - A prioridade a que se refere o número anterior aplica-se igualmente em relação aos estudantes a que se refere a alínea a), iii), do artigo 18.º\n\n3 - Os estudantes a que se referem os n.os 1 a 4 do artigo 14.º têm prioridade sobre aqueles a que se refere o n.º 5 do mesmo artigo."
+  },
+  "131051050": {
+   "fragment_id": "131050968",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "131051051": {
+   "fragment_id": "131050969",
+   "type": 11,
+   "heading": "Artigo 25.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regulamentação\n\n1 - Compete ao Ministro da Educação aprovar, por portaria, o regulamento dos regimes especiais, o qual contempla:\n\na) As regras a que obedece o requerimento de matrícula e inscrição;\n\nb) As condições de aplicação do disposto no n.º 4 do artigo 14.º\n\n2 - Compete ao director-geral do Ensino Superior fixar, por seu despacho, os prazos em que devem ser praticados os actos a que se refere o presente diploma."
+  },
+  "131051052": {
+   "fragment_id": "131050970",
+   "type": 11,
+   "heading": "Artigo 26.º — Curso congénere",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Curso congénere\n\nPara efeitos do presente diploma, entende-se por curso congénere de um determinado curso aquele que, embora eventualmente designado de forma diferente, tenha o mesmo nível académico e ministre uma formação equivalente."
+  },
+  "131051053": {
+   "fragment_id": "131050971",
+   "type": 11,
+   "heading": "Artigo 27.º — Ensino superior particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Ensino superior particular e cooperativo\n\nO requerimento de matrícula e inscrição em estabelecimento e curso de ensino superior particular e cooperativo está condicionado à obtenção, por parte do estudante, da prévia anuência do estabelecimento de ensino."
+  },
+  "131051054": {
+   "fragment_id": "131050972",
+   "type": 11,
+   "heading": "Artigo 28.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Aplicação\n\nEste diploma aplica-se ao acesso e ingresso a partir do ano lectivo de 1999-2000, inclusive."
+  },
+  "131051055": {
+   "fragment_id": "131050973",
+   "type": 11,
+   "heading": "Artigo 29.º — Regra transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regra transitória\n\n1 - O disposto no artigo 7.º só se aplica a partir do ano lectivo de 2000-2001, inclusive.\n\n2 - Para o ano lectivo de 1999-2000, para efeitos do presente diploma, entende-se por familiar o cônjuge, o parente e afim em qualquer grau da linha recta e até ao 3.º grau da linha colateral que não tenha idade superior a 25 anos em 31 de Dezembro do ano em que requer a matrícula e inscrição."
+  },
+  "131051056": {
+   "fragment_id": "131050974",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "131051057": {
+   "fragment_id": "131051175",
+   "type": 1,
+   "heading": "Capítulo V — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Outras disposições"
+  },
+  "131051058": {
+   "fragment_id": "131051176",
+   "type": 11,
+   "heading": "Artigo 31.º — Incentivos à mobilidade dos recursos humanos da Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Incentivos à mobilidade dos recursos humanos da Administração Pública\n\nEm relação aos incentivos de natureza não pecuniária à mobilidade dos recursos humanos da Administração Pública, procede-se de acordo com o disposto no n.º 3 do artigo 5.º do Decreto-Lei n.º 190/99, de 5 de Junho, conjugado com o disposto na alínea a) do n.º 1 do artigo 11.º do mesmo diploma."
+  },
+  "131051015": {
+   "fragment_id": "131050933",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 393-A/99\n\nde 2 de Outubro\n\nO Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelo Decreto-Lei n.º 99/99, de 30 de Março, regulou o regime geral de acesso e ingresso no ensino superior, no novo quadro fixado pela redacção dada ao artigo 12.º da Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro) pela Lei n.º 115/97, de 19 de Setembro.\n\nAtravés do presente diploma são regulados os regimes especiais de acesso e ingresso no ensino superior destinados a estudantes que reúnem condições habilitacionais e pessoais específicas, os quais sucedem aos regimes previstos no artigo 45.º do Decreto-Lei n.º 28-B/96, de 4 de Abril, alterado pelo Decreto-Lei n.º 75/97, de 3 de Abril, regulados pela Portaria n.º 317-B/96, de 29 de Julho, alterada pelas Portarias n.os 525-B/96, de 30 de Setembro, e 371/98, de 29 de Junho.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "131051319": {
+   "fragment_id": "131050937",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários dos regimes especiais",
+   "in_force_from": "2009-10-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+   ],
+   "markdown": "###### Artigo 3.º — Beneficiários dos regimes especiais\n\nPodem beneficiar de condições especiais de acesso, nos termos fixados pelo presente diploma, os estudantes que se encontrem numa das seguintes situações:\n\na) Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares que os acompanhem;\n\nb) Cidadãos portugueses bolseiros no estrangeiro ou funcionários públicos em missão oficial no estrangeiro e seus familiares que os acompanhem;\n\nc) Oficiais do quadro permanente das Forças Armadas Portuguesas, no âmbito da satisfação de necessidades específicas de formação das Forças Armadas;\n\nd) Estudantes bolseiros nacionais de países africanos de expressão portuguesa, no quadro dos acordos de cooperação firmados pelo Estado Português;\n\ne) Funcionários estrangeiros de missão diplomática acreditada em Portugal e seus familiares aqui residentes, em regime de reciprocidade;\n\nf) Praticantes desportivos de alto rendimento;\n\ng) Naturais e filhos de naturais do território de Timor Leste.\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+  },
+  "131051322": {
+   "fragment_id": "131050958",
+   "type": 8,
+   "heading": "Secção VI — Praticantes desportivos de alto rendimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957)"
+   ],
+   "markdown": "#### Secção VI — Praticantes desportivos de alto rendimento\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957)"
+  },
+  "131051320": {
+   "fragment_id": "131050959",
+   "type": 11,
+   "heading": "Artigo 18.º — Âmbito",
+   "in_force_from": "2009-10-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+   ],
+   "markdown": "###### Artigo 18.º — Âmbito\n\nSão abrangidos pelo regime da alínea f) do artigo 3.º os estudantes que satisfaçam, cumulativamente, as seguintes condições:\n\na) Sejam titulares de um curso de ensino secundário ou de habilitação legalmente equivalente;\n\nb) Preencham as condições previstas na alínea c) do artigo 2.º ou no artigo 43.º do Decreto-Lei n.º 272/2009, de 1 de Outubro.\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+  },
+  "131051321": {
+   "fragment_id": "131050960",
+   "type": 11,
+   "heading": "Artigo 19.º — Cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": "2009-10-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+   ],
+   "markdown": "###### Artigo 19.º — Cursos para que podem requerer a matrícula e inscrição\n\nOs estudantes abrangidos por este regime podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que tenham realizado as provas de ingresso respectivas e tenham obtido as classificações mínimas fixadas pelos estabelecimentos de ensino superior para as provas de ingresso e para nota de candidatura no âmbito do regime geral de acesso.\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+  },
+  "131051059": {
+   "fragment_id": "131051177",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 29 de Setembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "131051323": {
+   "fragment_id": "131050939",
+   "type": 11,
+   "heading": "Artigo 5.º — Titulares de um curso de ensino secundário português",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 5.º — Titulares de um curso de ensino secundário português\n\n1 - Os estudantes que requeiram a matrícula e inscrição invocando a titularidade de um curso de ensino secundário português só o podem fazer para par estabelecimento/curso para que comprovem aprovação nas disciplinas do ensino secundário correspondentes às provas de ingresso exigidas no ano em causa.\n\n2 - Sem prejuízo do disposto no número anterior, até três dias úteis após a divulgação do resultado de exame final nacional do ensino secundário, com efeitos na respetiva classificação, é facultada a:\n\na) Apresentação da candidatura, aos interessados que só então reúnam condições para o fazer;\n\nb) Alteração da candidatura, aos candidatos que já a hajam apresentado.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733) As alterações introduzidas pelo presente decreto-lei produzem efeitos a partir da candidatura à matrícula e inscrição no ensino superior do ano letivo de 2020-2021.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "131051324": {
+   "fragment_id": "131050960",
+   "type": 11,
+   "heading": "Artigo 19.º — Cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07",
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+   ],
+   "markdown": "###### Artigo 19.º — Cursos para que podem requerer a matrícula e inscrição\n\n1 - Os estudantes abrangidos por este regime podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que tenham realizado as provas de ingresso respectivas e tenham obtido as classificações mínimas fixadas pelos estabelecimentos de ensino superior para as provas de ingresso e para nota de candidatura no âmbito do regime geral de acesso.\n\n2 - Para os estudantes titulares de cursos não portugueses legalmente equivalentes ao ensino secundário português, as provas de ingresso podem ser substituídas através da aplicação do disposto no artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733) As alterações introduzidas pelo presente decreto-lei produzem efeitos a partir da candidatura à matrícula e inscrição no ensino superior do ano letivo de 2020-2021.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+  },
+  "216567210": {
+   "fragment_id": "131050934",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567211": {
+   "fragment_id": "131050935",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula os regimes especiais de acesso e ingresso no ensino superior.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567212": {
+   "fragment_id": "131050936",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e aplicação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito e aplicação\n\n1 - Os regimes regulados pelo presente diploma aplicam-se ao acesso e ingresso nos estabelecimentos de ensino superior público, particular e cooperativo, para a frequência de cursos de bacharelato e licenciatura.\n\n2 - O presente diploma não se aplica aos cursos ministrados em estabelecimentos de ensino superior militar e policial.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567213": {
+   "fragment_id": "131050937",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários dos regimes especiais",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+   ],
+   "markdown": "###### Artigo 3.º — Beneficiários dos regimes especiais\n\nPodem beneficiar de condições especiais de acesso, nos termos fixados pelo presente diploma, os estudantes que se encontrem numa das seguintes situações:\n\na) Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares que os acompanhem;\n\nb) Cidadãos portugueses bolseiros no estrangeiro ou funcionários públicos em missão oficial no estrangeiro e seus familiares que os acompanhem;\n\nc) Oficiais do quadro permanente das Forças Armadas Portuguesas, no âmbito da satisfação de necessidades específicas de formação das Forças Armadas;\n\nd) Estudantes bolseiros nacionais de países africanos de expressão portuguesa, no quadro dos acordos de cooperação firmados pelo Estado Português;\n\ne) Funcionários estrangeiros de missão diplomática acreditada em Portugal e seus familiares aqui residentes, em regime de reciprocidade;\n\nf) Praticantes desportivos de alto rendimento;\n\ng) Naturais e filhos de naturais do território de Timor Leste.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+  },
+  "216567214": {
+   "fragment_id": "131050938",
+   "type": 11,
+   "heading": "Artigo 4.º — Restrições",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 4.º — Restrições\n\n1 - Num ano lectivo cada estudante apenas pode requerer matrícula e inscrição através de um dos regimes especiais previstos no presente diploma.\n\n2 - Não podem requerer matrícula e inscrição através dos regimes especiais previstos no presente diploma os titulares de um curso superior português ou estrangeiro.\n\n3 - Exceptuam-se do disposto no número anterior:\n\na) Os titulares do grau de bacharel que pretendam prosseguir estudos tendo em vista a obtenção do grau de licenciado na mesma área;\n\nb) Os requerentes ao abrigo da alínea c) do artigo 3.º\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567215": {
+   "fragment_id": "131050939",
+   "type": 11,
+   "heading": "Artigo 5.º — Titulares de um curso de ensino secundário português",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 5.º — Titulares de um curso de ensino secundário português\n\n1 - Os estudantes que requeiram a matrícula e inscrição invocando a titularidade de um curso de ensino secundário português só o podem fazer para par estabelecimento/curso para que comprovem aprovação nas disciplinas do ensino secundário correspondentes às provas de ingresso exigidas no ano em causa.\n\n2 - Sem prejuízo do disposto no número anterior, até três dias úteis após a divulgação do resultado de exame final nacional do ensino secundário, com efeitos na respetiva classificação, é facultada a:\n\na) Apresentação da candidatura, aos interessados que só então reúnam condições para o fazer;\n\nb) Alteração da candidatura, aos candidatos que já a hajam apresentado.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733) As alterações introduzidas pelo presente decreto-lei produzem efeitos a partir da candidatura à matrícula e inscrição no ensino superior do ano letivo de 2020-2021.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "216567216": {
+   "fragment_id": "131050940",
+   "type": 11,
+   "heading": "Artigo 6.º — Cursos que exijam pré-requisitos ou requisitos especiais",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 6.º — Cursos que exijam pré-requisitos ou requisitos especiais\n\n1 - O requerimento de matrícula e inscrição em pares estabelecimento/curso para os quais sejam exigidos pré-requisitos, nos termos do n.º 2 do artigo 16.º do Decreto-Lei n.º 296-A/98, está condicionado à satisfação destes.\n\n2 - O requerimento de matrícula e inscrição em pares estabelecimento/curso objecto de concurso local, nos termos da alínea b) do n.º 2 do artigo 7.º do Decreto-Lei n.º 296-A/98, está condicionado à satisfação dos requisitos especiais objecto de avaliação no concurso.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567217": {
+   "fragment_id": "131050941",
+   "type": 11,
+   "heading": "Artigo 7.º — Familiar",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 7.º — Familiar\n\nPara efeitos do presente diploma, entende-se por familiar o cônjuge, o parente e afim até ao 2.º grau da linha recta ou colateral que não tenha idade superior a 25 anos em 31 de Dezembro do ano em que requer a matrícula e inscrição.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567218": {
+   "fragment_id": "131050942",
+   "type": 1,
+   "heading": "Capítulo II — Regimes especiais",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo II — Regimes especiais\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567219": {
+   "fragment_id": "131050943",
+   "type": 8,
+   "heading": "Secção I — Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "#### Secção I — Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567220": {
+   "fragment_id": "131050944",
+   "type": 11,
+   "heading": "Artigo 8.º — Âmbito",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Âmbito\n\nSão abrangidos pelo regime da alínea a) do n.º 1 do artigo 3.º os funcionários portugueses de missão diplomática portuguesa no estrangeiro ou seus familiares que os acompanhem habilitados com:\n\na) Curso de ensino secundário estrangeiro completado em país estrangeiro quando em missão ou acompanhando o familiar em missão e que constitua, nesse país, habilitação académica suficiente para ingresso no ensino superior oficial;\n\nb) Curso de ensino secundário português completado em país estrangeiro quando em missão ou acompanhando o familiar em missão.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567221": {
+   "fragment_id": "131050945",
+   "type": 11,
+   "heading": "Artigo 9.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 9.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição\n\n1 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário estrangeiro podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior congénere do curso para que dispõem de habilitação académica para ingresso no ensino superior oficial do país respectivo.\n\n2 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário português podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567222": {
+   "fragment_id": "131050946",
+   "type": 8,
+   "heading": "Secção II — Bolseiros no estrangeiro ou funcionários públicos",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "#### Secção II — Bolseiros no estrangeiro ou funcionários públicos\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567223": {
+   "fragment_id": "131050947",
+   "type": 11,
+   "heading": "Artigo 10.º — Âmbito",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 10.º — Âmbito\n\nSão abrangidos pelo regime da alínea b) do n.º 1 do artigo 3.º os cidadãos portugueses e seus familiares que os acompanhem que, à data de apresentação do requerimento de matrícula e inscrição, se encontrem há mais de dois anos em país estrangeiro na qualidade de bolseiros, ou equiparados, do Governo Português, na qualidade de funcionários públicos em missão oficial no estrangeiro ou na de funcionários portugueses da União Europeia, e que, cumulativamente:\n\na) Sejam titulares de:\n\ni) Curso de ensino secundário estrangeiro completado em país estrangeiro que aí constitua habilitação académica suficiente para ingresso no ensino superior oficial; ou\n\nii) Curso de ensino secundário português completado em país estrangeiro;\n\nb) À data de apresentação do requerimento de matrícula e inscrição tenham residência permanente há mais de dois anos nesse país estrangeiro.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567224": {
+   "fragment_id": "131050948",
+   "type": 11,
+   "heading": "Artigo 11.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 11.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição\n\n1 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário estrangeiro podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior congénere do curso para que dispõem de habilitação académica para ingresso no ensino superior oficial do país respectivo.\n\n2 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário português podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567225": {
+   "fragment_id": "131050949",
+   "type": 8,
+   "heading": "Secção III — Oficiais das Forças Armadas Portuguesas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "#### Secção III — Oficiais das Forças Armadas Portuguesas\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567226": {
+   "fragment_id": "131050950",
+   "type": 11,
+   "heading": "Artigo 12.º — Âmbito",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — Âmbito\n\nSão abrangidos pelo regime da alínea c) do n.º 1 do artigo 3.º os oficiais do quadro permanente das Forças Armadas Portuguesas, nos termos de acordos específicos de formação estabelecidos entre estas e as instituições de ensino superior, no âmbito da satisfação das necessidades específicas de formação daquelas.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567227": {
+   "fragment_id": "131050951",
+   "type": 11,
+   "heading": "Artigo 13.º — Estabelecimentos e cursos em que se matriculam e inscrevem",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 13.º — Estabelecimentos e cursos em que se matriculam e inscrevem\n\nOs estudantes abrangidos por este regime matriculam-se e inscrevem-se nos estabelecimentos e cursos expressamente previstos nos acordos firmados.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567228": {
+   "fragment_id": "131050952",
+   "type": 8,
+   "heading": "Secção IV — Bolseiros nacionais de países africanos de expressão portuguesa",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "#### Secção IV — Bolseiros nacionais de países africanos de expressão portuguesa\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567229": {
+   "fragment_id": "131050953",
+   "type": 11,
+   "heading": "Artigo 14.º — Âmbito",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 14.º — Âmbito\n\n1 - São abrangidos pelo regime da alínea d) do n.º 1 do artigo 3.º os estudantes nacionais dos países africanos de expressão portuguesa que satisfaçam, cumulativamente, as seguintes condições:\n\na) O pedido de admissão à matrícula e inscrição no ensino superior público português ser feito pela via diplomática, no âmbito dos acordos de cooperação firmados pelo Estado Português;\n\nb) Serem titulares de um curso de ensino secundário português ou de habilitação equivalente;\n\nc) Não terem igualmente a nacionalidade portuguesa, salvo se tiverem concluído, após frequência de pelo menos dois anos lectivos, o curso de ensino secundário num dos países africanos de expressão portuguesa;\n\nd) Serem bolseiros:\n\ni) Do Governo Português;\n\nii) Dos governos respectivos, nos termos e limites estabelecidos por acordos firmados no âmbito de comissões paritárias;\n\niii) Ao abrigo de convenções internacionais celebradas com a União Europeia;\n\niv) Da Fundação Calouste Gulbenkian.\n\n2 - São igualmente abrangidos por este regime os estudantes nacionais dos Estados a que se refere o n.º 1 que satisfaçam, cumulativamente, as seguintes condições:\n\na) Preencherem o disposto nas alíneas a), c) e d) do n.º 1;\n\nb) Terem estado inscritos num curso estrangeiro de ensino superior em pelo menos um ano curricular, com aproveitamento na totalidade das disciplinas que integram o respectivo plano de estudos, ou em dois anos curriculares, desde que com aproveitamento em pelo menos 50% das disciplinas que integram o respectivo plano de estudos.\n\n3 - São também abrangidos por este regime os estudantes nacionais dos Estados a que se refere o n.º 1 que satisfaçam, cumulativamente, as seguintes condições:\n\na) Preencherem o disposto nas alíneas a), c) e d) do n.º 1;\n\nb) Terem estado matriculados e inscritos em estabelecimento e curso de ensino superior público português e pretendam retomar os estudos no mesmo curso ou em curso congénere, ainda que em estabelecimento diferente, após terem interrompido a matrícula no ensino superior público português por, pelo menos, um ano lectivo.\n\n4 - Aos estudantes que, cumulativamente:\n\na) Satisfaçam as condições previstas nas alíneas a), c) e d) do n.º 1;\n\nb) Sejam titulares de diploma terminal do ensino secundário do seu país de origem não equivalente ao ensino secundário português;\n\né facultada a matrícula no ensino secundário português para a conclusão de um curso secundário adequado ao plano curricular seguido no país de origem e às condições de acesso ao curso superior português em que pretendem inscrever-se.\n\n5 - Dentro dos limites da capacidade de acolhimento das instituições de ensino superior, podem ainda ser admitidos ao abrigo deste regime outros bolseiros não abrangidos pela alínea d) do n.º 1 que satisfaçam as restantes condições, nomeadamente os bolseiros ao abrigo de protocolos, convénios, contratos ou outros que hajam sido homologados pelo Ministro da Educação.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567230": {
+   "fragment_id": "131050954",
+   "type": 11,
+   "heading": "Artigo 15.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 15.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição\n\n1 - Os estudantes abrangidos pelos n.os 1 e 4 do artigo anterior podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º\n\n2 - Os estudantes abrangidos pelo n.º 2 do artigo anterior podem requerer a matrícula e inscrição em:\n\na) Par estabelecimento/curso congénere daquele em que tenham estado inscritos;\n\nb) Par estabelecimento/curso não congénere daquele em que tenham estado inscritos, desde que comprovem a aprovação nas disciplinas correspondentes às provas de ingresso exigidas no ano em causa.\n\n3 - Os estudantes abrangidos pelo n.º 3 do artigo anterior podem requerer a matrícula e inscrição no par estabelecimento/curso em que tenham estado inscritos ou em par estabelecimento/curso congénere.\n\n4 - Aos estudantes abrangidos pelo n.º 5 do artigo anterior aplicam-se, conforme o caso, os n.os 1, 2 ou 3 do presente artigo.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567231": {
+   "fragment_id": "131050955",
+   "type": 8,
+   "heading": "Secção V — Missão diplomática acreditada em Portugal",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "#### Secção V — Missão diplomática acreditada em Portugal\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567232": {
+   "fragment_id": "131050956",
+   "type": 11,
+   "heading": "Artigo 16.º — Âmbito",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 16.º — Âmbito\n\n1 - São abrangidos pelo regime da alínea e) do n.º 1 do artigo 3.º os funcionários estrangeiros de missão diplomática acreditada em Portugal e seus familiares aqui residentes, habilitados com um curso de ensino secundário estrangeiro, completado em país estrangeiro ou em estabelecimento de ensino estrangeiro em Portugal, que constitua, nesse país, habilitação académica suficiente para ingresso no ensino superior oficial, ou com um curso de ensino secundário português.\n\n2 - A aplicação do número anterior tem ainda como condição a demonstração de tratamento recíproco aos cidadãos portugueses.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567233": {
+   "fragment_id": "131050957",
+   "type": 11,
+   "heading": "Artigo 17.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 17.º — Estabelecimentos e cursos para que podem requerer a matrícula e inscrição\n\n1 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário estrangeiro podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior congénere do curso para que dispõem de habilitação académica para ingresso no ensino superior oficial do país respectivo.\n\n2 - Os estudantes abrangidos por este regime que sejam titulares de um curso de ensino secundário português podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567234": {
+   "fragment_id": "131050958",
+   "type": 8,
+   "heading": "Secção VI — Praticantes desportivos de alto rendimento",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957)"
+   ],
+   "markdown": "#### Secção VI — Praticantes desportivos de alto rendimento\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957)"
+  },
+  "216567235": {
+   "fragment_id": "131050959",
+   "type": 11,
+   "heading": "Artigo 18.º — Âmbito",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+   ],
+   "markdown": "###### Artigo 18.º — Âmbito\n\nSão abrangidos pelo regime da alínea f) do artigo 3.º os estudantes que satisfaçam, cumulativamente, as seguintes condições:\n\na) Sejam titulares de um curso de ensino secundário ou de habilitação legalmente equivalente;\n\nb) Preencham as condições previstas na alínea c) do artigo 2.º ou no artigo 43.º do Decreto-Lei n.º 272/2009, de 1 de Outubro.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+  },
+  "216567236": {
+   "fragment_id": "131050960",
+   "type": 11,
+   "heading": "Artigo 19.º — Cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07",
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+   ],
+   "markdown": "###### Artigo 19.º — Cursos para que podem requerer a matrícula e inscrição\n\n1 - Os estudantes abrangidos por este regime podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que tenham realizado as provas de ingresso respectivas e tenham obtido as classificações mínimas fixadas pelos estabelecimentos de ensino superior para as provas de ingresso e para nota de candidatura no âmbito do regime geral de acesso.\n\n2 - Para os estudantes titulares de cursos não portugueses legalmente equivalentes ao ensino secundário português, as provas de ingresso podem ser substituídas através da aplicação do disposto no artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 34/2022 - Diário da República n.º 98/2022, Série I de 2022-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2022-183691729) derroga, para efeitos de acesso e ingresso no ensino superior no ano letivo de 2022-2023, por candidatos abrangidos pelo presente decreto-lei, o n.º 2 do presente artigo .\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 70-C/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-c-2021-169269297) Derroga o n.º 2 do presente artigo, estabelecendo o regime transitório aplicável ao ano letivo de 2021-2022. A derrogação dispensa os candidatos da substituição de provas de ingresso pelos exames finais de disciplinas, passando a utilizar-se, para efeitos de cálculo da respetiva nota de candidatura, a classificação final das disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam, convertida para a escala de 0 a 200 quando necessário.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 33/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2020-136990468) Derroga o n.º 2 do presente artigo, estabelecendo o regime transitório aplicável ao ano letivo de 2020-2021. A derrogação dispensa os candidatos da substituição de provas de ingresso pelos exames finais de disciplinas, passando a utilizar-se, para efeitos de cálculo da respetiva nota de candidatura, a classificação final das disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam, convertida para a escala de 0 a 200 quando necessário.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733) As alterações introduzidas pelo presente decreto-lei produzem efeitos a partir da candidatura à matrícula e inscrição no ensino superior do ano letivo de 2020-2021.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 272/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), em vigor a partir de 2009-10-06"
+  },
+  "216567237": {
+   "fragment_id": "131050961",
+   "type": 8,
+   "heading": "Secção VII — Naturais de Timor Leste",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "#### Secção VII — Naturais de Timor Leste\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567238": {
+   "fragment_id": "131050962",
+   "type": 11,
+   "heading": "Artigo 20.º — Âmbito",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 20.º — Âmbito\n\nSão abrangidos pelo regime da alínea g) do n.º 1 do artigo 3.º os estudantes naturais e filhos de naturais do território de Timor Leste que sejam titulares de um curso de ensino secundário ou de habilitação legalmente equivalente.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567239": {
+   "fragment_id": "131050963",
+   "type": 11,
+   "heading": "Artigo 21.º — Cursos para que podem requerer a matrícula e inscrição",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 21.º — Cursos para que podem requerer a matrícula e inscrição\n\nOs estudantes abrangidos por este regime podem requerer a matrícula e inscrição em par estabelecimento/curso de ensino superior para que satisfaçam ao disposto no artigo 5.º\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567240": {
+   "fragment_id": "131050964",
+   "type": 1,
+   "heading": "Capítulo III — Colocação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo III — Colocação\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567241": {
+   "fragment_id": "131050965",
+   "type": 11,
+   "heading": "Artigo 22.º — Limites",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 22.º — Limites\n\n1 - O número de estudantes abrangidos pelos regimes especiais previstos nas alíneas a), b), d), e), f) e g) do n.º 1 do artigo 3.º a admitir em cada par estabelecimento/curso para o conjunto dos regimes especiais não pode exceder, em cada ano lectivo, 10% das vagas aprovadas para o concurso nacional ou local de acesso ou para os concursos institucionais relativos ao ano em causa.\n\n2 - Quando o número de estudantes que requer matrícula e inscrição num par estabelecimento/curso exceder o limite previsto no número anterior, o director-geral do Ensino Superior pode autorizar, mediante a prévia anuência do estabelecimento de ensino, que o número de colocações exceda aquele limite.\n\n3 - O número de estudantes a admitir ao abrigo do regime especial a que se refere a alínea c) do n.º 1 do artigo 3.º é o fixado no acordo firmado entre as Forças Armadas e o estabelecimento de ensino em causa.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567242": {
+   "fragment_id": "131050966",
+   "type": 11,
+   "heading": "Artigo 23.º — Colocação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 23.º — Colocação\n\n1 - Os estudantes abrangidos pelos regimes especiais previstos nas alíneas a), b), d), e), f) e g) do n.º 1 do artigo 3.º são colocados, sempre que possível, no par estabelecimento/curso requerido.\n\n2 - A decisão sobre a colocação é da competência do director-geral do Ensino Superior, que procede a audição prévia do estabelecimento de ensino superior respectivo.\n\n3 - Caso o número de lugares disponíveis num par estabelecimento/curso seja inferior ao número de estudantes que nele requerem a matrícula e inscrição, o director-geral do Ensino Superior, considerando as outras preferências manifestadas pelos requerentes e as disponibilidades de lugares, procede à colocação dos estudantes ponderando, nomeadamente, as suas qualificações académicas e uma equilibrada repartição dos lugares pelos estudantes dos diferentes regimes.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567243": {
+   "fragment_id": "131050967",
+   "type": 11,
+   "heading": "Artigo 24.º — Prioridades",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 24.º — Prioridades\n\n1 - Os atletas praticantes com estatuto de alta competição têm prioridade sobre os atletas praticantes integrados no percurso de alta competição.\n\n2 - A prioridade a que se refere o número anterior aplica-se igualmente em relação aos estudantes a que se refere a alínea a), iii), do artigo 18.º\n\n3 - Os estudantes a que se referem os n.os 1 a 4 do artigo 14.º têm prioridade sobre aqueles a que se refere o n.º 5 do mesmo artigo.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567244": {
+   "fragment_id": "131050968",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567245": {
+   "fragment_id": "131050969",
+   "type": 11,
+   "heading": "Artigo 25.º — Regulamentação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 25.º — Regulamentação\n\n1 - Compete ao Ministro da Educação aprovar, por portaria, o regulamento dos regimes especiais, o qual contempla:\n\na) As regras a que obedece o requerimento de matrícula e inscrição;\n\nb) As condições de aplicação do disposto no n.º 4 do artigo 14.º\n\n2 - Compete ao director-geral do Ensino Superior fixar, por seu despacho, os prazos em que devem ser praticados os actos a que se refere o presente diploma.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567246": {
+   "fragment_id": "131050970",
+   "type": 11,
+   "heading": "Artigo 26.º — Curso congénere",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 26.º — Curso congénere\n\nPara efeitos do presente diploma, entende-se por curso congénere de um determinado curso aquele que, embora eventualmente designado de forma diferente, tenha o mesmo nível académico e ministre uma formação equivalente.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567247": {
+   "fragment_id": "131050971",
+   "type": 11,
+   "heading": "Artigo 27.º — Ensino superior particular e cooperativo",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 27.º — Ensino superior particular e cooperativo\n\nO requerimento de matrícula e inscrição em estabelecimento e curso de ensino superior particular e cooperativo está condicionado à obtenção, por parte do estudante, da prévia anuência do estabelecimento de ensino.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567248": {
+   "fragment_id": "131050972",
+   "type": 11,
+   "heading": "Artigo 28.º — Aplicação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 28.º — Aplicação\n\nEste diploma aplica-se ao acesso e ingresso a partir do ano lectivo de 1999-2000, inclusive.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567249": {
+   "fragment_id": "131050973",
+   "type": 11,
+   "heading": "Artigo 29.º — Regra transitória",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 29.º — Regra transitória\n\n1 - O disposto no artigo 7.º só se aplica a partir do ano lectivo de 2000-2001, inclusive.\n\n2 - Para o ano lectivo de 1999-2000, para efeitos do presente diploma, entende-se por familiar o cônjuge, o parente e afim em qualquer grau da linha recta e até ao 3.º grau da linha colateral que não tenha idade superior a 25 anos em 31 de Dezembro do ano em que requer a matrícula e inscrição.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567250": {
+   "fragment_id": "131050974",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567251": {
+   "fragment_id": "131051175",
+   "type": 1,
+   "heading": "Capítulo V — Outras disposições",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo V — Outras disposições\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567252": {
+   "fragment_id": "131051176",
+   "type": 11,
+   "heading": "Artigo 31.º — Incentivos à mobilidade dos recursos humanos da Administração Pública",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 31.º — Incentivos à mobilidade dos recursos humanos da Administração Pública\n\nEm relação aos incentivos de natureza não pecuniária à mobilidade dos recursos humanos da Administração Pública, procede-se de acordo com o disposto no n.º 3 do artigo 5.º do Decreto-Lei n.º 190/99, de 5 de Junho, conjugado com o disposto na alínea a) do n.º 1 do artigo 11.º do mesmo diploma.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567253": {
+   "fragment_id": "131051177",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 29 de Setembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  }
+ }
+}

@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:59118383:por
+title: Decreto Legislativo Regional n.º 23/2014/A
+short_title: null
+summary: Procede à criação de novos índices remuneratórios para os docentes contratados a termo resolutivo nas escolas públicas
+  do Sistema Educativo Regional
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 23/2014/A
+official_date: null
+publication_date: '2014-11-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 231/2014, Série I de 2014-11-28
+  number: '231'
+  series: I
+  supplement: null
+  pages: 6005 - 6006
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/11/23100/0600506006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/23/2014/11/28/a/dre/pt/html
+  oj: null
+  dre: '59118383'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/23-2014-59118383
+  internal: pt:dre:59118383:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2014-59118383
+  metadata_url: https://data.dre.pt/eli/declegreg/23/2014/11/28/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2014-59118383
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-12-17T00:00:00Z'
+integrity:
+  source_sha256: 93204e0675e58044fd367a597394411c33f15cd8f43f7b6dc1c97f3250b85ad5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2014/DRE-2014-23-59118383.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Tempo de Serviço
+- Contrato de Trabalho a Termo
+- Ensino Oficial
+- Estatuto
+- Estatuto da Carreira Docente
+- Sistema Retributivo
+- Carreira Profissional
+- Ensino Secundário
+- Pessoal Docente
+- Ensino Básico
+- Remuneração
+- Açores
+- Educação Pré-escolar
+relationships:
+- type: amended_by
+  target: pt:dre:72909748:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/11/2009/07/21/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/11/2009/07/21/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/21/2007/08/30/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/21/2007/08/30/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/4/2009/04/20/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/4/2009/04/20/a/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 23/2014/A
+
+PROCEDE À CRIAÇÃO DE NOVOS ÍNDICES REMUNERATÓRIOS PARA OS DOCENTES CONTRATADOS A TERMO RESOLUTIVO NAS ESCOLAS PÚBLICAS DO SISTEMA EDUCATIVO REGIONAL
+
+Ao longo dos últimos dezasseis anos os docentes que exercem funções na Região Autónoma dos Açores viram toda a sua atividade profissional ser objeto de regulação específica, por se entender que a natureza das funções docentes a exercer justificava a aprovação de um estatuto próprio que lhes possibilitasse a adequação das condições de trabalho à realidade própria da Região e criasse, assim, melhores condições para o exercício da atividade docente, ajustadas à realidade insular. Com a aprovação do Estatuto da Carreira Docente na Região Autónoma dos Açores visou-se, pois, a promoção da qualidade, da educação e do ensino regionais e, consequentemente, dos resultados escolares dos nossos alunos.
+
+Sem prejuízo daquele estatuto e de um regulamento de concursos, houve sempre um compromisso, não só de manter a paridade entre a carreira docente nacional e regional e respetiva estrutura remuneratória, incluindo os índices remuneratórios dos docentes contratados a termo resolutivo, mas também de adequar a remuneração dos docentes às realidades e exigências atuais, com vista à justa retribuição do trabalho prestado e, em decorrência, ao alcance de um bom desempenho no exercício das suas funções em prol do sucesso do sistema educativo regional e da sociedade.
+
+Por forma a garantir essa equidade em termos remuneratórios, torna-se necessário criar novos índices remuneratórios para o pessoal docente contratado a termo resolutivo certo.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e dos números 1 e 2 do artigo 37.º e da alínea a) do n.º 2 do artigo 62.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma estabelece os novos índices remuneratórios para os docentes contratados a termo resolutivo nas escolas públicas do Sistema Educativo Regional.
+
+###### Artigo 2.º — Índices remuneratórios
+
+1 - Os docentes contratados a termo resolutivo são remunerados pelo índice 167 da escala indiciária constante do anexo ao presente diploma, sendo a retribuição mensal respetiva calculada na proporção do período normal de trabalho semanal.
+
+2 - A retribuição mensal devida pelo exercício de funções docentes em regime de contrato de trabalho a termo resolutivo, com horário completo, pelos docentes licenciados profissionalizados em exercício de funções com habilitação própria, é igualmente determinada pelos índices constantes do anexo do presente diploma, sendo aplicável o índice 151 ou 167 consoante corresponda ou não ao primeiro ano de serviço.
+
+3- A retribuição horária devida pela prestação de funções em regime de contrato ou de prestação de serviços como formador de cursos profissionais é igualmente determinada pelos índices constantes no anexo do presente diploma para os docentes contratados a termo resolutivo, considerando-se como profissionalizados os que sejam detentores de certificado de formador válido para a área a ministrar.
+
+4 - O docente contratado a termo resolutivo que tenha completado 1461 dias de serviço efetivo em horário anual, completo e sucessivo, prestado com a menção qualitativa mínima de Bom, passa a ser remunerado pelo índice 188 da mesma escala indiciária.
+
+5 - A contagem do tempo de serviço é sujeita às regras gerais aplicadas à Administração Pública em matéria de contagem de tempo para efeitos da carreira.
+
+6 - O valor a que correspondem a escala indiciária e índices referidos nos números anteriores é o que estiver fixado no Estatuto da Carreira Docente na Região Autónoma dos Açores, sendo os mesmos calculados tendo por base o valor do índice 100 que estiver fixado para os docentes diretamente dependentes da administração central.
+
+###### Artigo 3.º — Revogação
+
+São revogados os números 2 e 3 do artigo 85.º do Estatuto da Carreira Docente na Região Autónoma dos Açores, aprovado pelo [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de agosto, alterado e republicado pelo [Decreto Legislativo Regional n.º 4/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2009-603770), de 20 de abril e pelo [Decreto Legislativo Regional n.º 11/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2009-492723), de 21 de julho.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de setembro de 2014.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 28 de outubro de 2014.
+
+**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+
+**Assinado em Angra do Heroísmo em 13 de novembro de 2014.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+## ANEXO — Índices remuneratórios do pessoal docente contratado a termo resolutivo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/23100/0600506006.pdf))](https://files.diariodarepublica.pt/1s/2014/11/23100/0600506006.pdf)

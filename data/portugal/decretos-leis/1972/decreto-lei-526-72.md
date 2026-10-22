@@ -1,0 +1,177 @@
+---
+schema_version: '1.0'
+id: pt:dre:685591:por
+title: Decreto-Lei n.º 526/72
+short_title: null
+summary: Cria a Comissão Nacional de Segurança da Aviação Civil
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Comunicações - Gabinete do Ministro
+proposing_entity: null
+official_number: 526/72
+official_date: null
+publication_date: '1972-12-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 293/1972, Série I de 1972-12-19
+  number: '293'
+  series: I
+  supplement: null
+  pages: 1994 - 1994
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/12/29300/19941994.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '685591'
+  dre_path: /dr/detalhe/decreto-lei/526-1972-685591
+  internal: pt:dre:685591:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1972-685591
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1972-685591
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1972-12-19T00:00:00Z'
+integrity:
+  source_sha256: 70691689c5ce6d6af571a4f90d910b493fe4b0c57bebefb76152d8b357a37835
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1972/DRE-1972-526-685591.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 526/72
+
+de 19 de Dezembro
+
+A necessidade de proteger o transporte aéreo contra a prática, cada vez mais frequente, de actos de terrorismo, entre os quais avulta a apropriação ilícita de aeronaves, vem conduzindo as organizações internacionais interessadas e a maioria dos países à adopção de normas especiais de segurança.
+
+Em face do desenvolvimento já atingido pelos nossos transportes aéreos e da importância de que os aeroportos portugueses se revestem no tráfego internacional, impõe-se que tal orientação seja também seguida entre nós, quer na metrópole, quer no ultramar.
+
+O estudo e a aplicação em cada Estado das normas em causa exigem, porém, a intervenção coordenada de um conjunto de serviços públicos e entidades privadas ligados à aviação civil.
+
+Torna-se, pois, indispensável, conforme o recomendado internacionalmente e à semelhança do que tem vindo a ser posto em prática em grande número de Estados, criar entre nós os órgãos que assegurem não só a coordenação, no plano nacional, da execução das normas de segurança aplicáveis nos aeródromos e instalações de apoio à navegação aérea, como ainda a integração do país no sistema de prevenção e permuta de informações estabelecidas para a aviação civil internacional.
+
+Nestes termos:
+
+Usando da faculdade conferida na 1.ª parte do n.º 2.» do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. É criada junto da Direcção-Geral da Aeronáutica Civil a Comissão Nacional de Segurança da Aviação Civil, constituída por representantes:
+
+a) Da Direcção-Geral e Segurança;
+
+b) Da Direcção-Geral das Alfândegas;
+
+c) Da Direcção-Geral dos Negócios Económicos;
+
+d) Da Inspecção Superior das Alfândegas do Ultramar;
+
+e) Da Direcção-Geral da Aeronáutica Civil;
+
+f) Dos Correios e Telecomunicações de Portugal;
+
+g) Das empresas nacionais de navegação aérea;
+
+h) Do Departamento de Defesa Nacional.
+
+2. Sempre que tal se mostre conveniente, a Comissão poderá ainda solicitar a colaboração de outros serviços públicos ou entidades privadas.
+
+3. Presidirá à Comissão o representante da Direcção-Geral da Aeronáutica Civil que para o efeito for designado.
+
+4. O expediente da Comissão será assegurado pela Direcção-Geral da Aeronáutica Civil.
+
+###### Art. 2.º Compete à Comissão Nacional de Segurança da Aviação Civil:
+
+a) Estudar e propor as normas de segurança a aplicar nos aeródromos, instalações e serviços de apoio à navegação aérea (contrôle do tráfego aéreo, telecomunicações e ajudas à navegação aérea e meteorologia);
+
+b) Estudar e propor as normas de segurança do transporte aéreo nos aeródromos e espaços aéreos sob contrôle das autoridades portuguesas;
+
+c) Dar parece e participar na preparação das convenções e acordos internacionais sobre segurança da aviação civil;
+
+d) Promover e fiscalizar a aplicação das convenções e acordos internacionais sobre segurança da aviação civil de que o País seja parte, e bem assim das normas nacionais nesta matéria;
+
+e) Coordenar, para o efeito, a participação dos diferentes departamentos e serviços intervindo na execução das normas de segurança aplicáveis ao transporte aéreo, aeródromos e instalações de apoio à navegação aérea;
+
+f) Estabelecer, no âmbito nacional, os sistemas de permuta de informações e avisos de prevenção estabelecidos para a segurança da aviação civil internacional;
+
+g) Promover a constituição, orientar e coordenar o funcionamento de comissões provinciais de segurança da aviação civil junto dos serviços da aeronáutica civil das províncias ultramarinas;
+
+h) Orientar e coordenar o funcionamento das comissões aeroportuárias de segurança da aviação civil.
+
+###### Art. 3.º - 1. São criadas, junto dos aeroportos nacionais, com carácter permanente, comissões aeroportuárias de segurança da aviação civil constituídas, em cada aeroporto, por:
+
+a) O director do aeroporto;
+
+b) O chefe do posto da Direcção-Geral de Segurança;
+
+c) O chefe da delegação aduaneira;
+
+d) O chefe da estação de correios e telecomunicações;
+
+e) Os chefes de escala das empresas nacionais de navegação aérea.
+
+2. A Comissão poderá ainda solicitar a colaboração dos representantes das empresas de navegação aérea estrangeiras, bem como de outros serviços públicos ou entidades privadas directa ou indirectamente ligadas ao funcionamento do respectivo aeroporto.
+
+3. As comissões aeroportuárias serão presididas pelo director do aeroporto a que a comissão respeitar.
+
+4. Aos aeroportos compete assegurar o expediente das respectivas comissões aeroportuárias.
+
+###### Art. 4.º Compete às comissões aeroportuárias de segurança da aviação civil, nos respectivos aeroportos:
+
+a) Promover a aplicação das normas de segurança da aviação civil em vigor;
+
+b) Propor as alterações que a experiência aconselhe a introduzir nas normas em vigor para a segurança do transporte aéreo e instalações aeroportuárias;
+
+c) Coordenar a participação dos diferentes representantes e serviços intervindo na execução das normas de seguança da aviação civil;
+
+d) Estabelecer os sistemas de permuta de informações e avisos de prevenção estabelecidos para a segurança da aviação civil internacional.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - Rui Alves da Silva Sanches.
+
+**Promulgado em 15 de Dezembro de 1972.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas - J. da Silva Cunha.

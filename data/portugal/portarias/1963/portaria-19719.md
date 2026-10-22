@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:193257:por
+title: Portaria n.º 19719
+short_title: null
+summary: Institui no Ministério 53 bolsas de estudo e estabelece o regime para a sua concessão
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: '19719'
+official_date: null
+publication_date: '1963-02-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 43/1963, Série I de 1963-02-20
+  number: '43'
+  series: I
+  supplement: null
+  pages: 182 - 184
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/02/04300/01820184.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '193257'
+  dre_path: /dr/detalhe/portaria/19719-1963-193257
+  internal: pt:dre:193257:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19719-1963-193257
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19719-1963-193257
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1963-08-23T00:00:00Z'
+integrity:
+  source_sha256: b31d4a879da4c989d71589d1a4a9f07b12013c9e0a311fef3ad35b43c4b016b2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-19719-193257.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:694005:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19719
+
+Tem sido preocupação constante do Governo promover, no ultramar, a par do progresso económico, o acesso de todas as classes da população aos diferentes graus de ensino.
+
+Com este objectivo, os governos e numerosas instituições públicas e privadas das províncias ultramarinas mantêm considerável número de bolsas de estudo.
+
+Na mesma orientação, o Ministério do Ultramar criou, pelas Portarias n.os 17888, de 8 de Agosto de 1960, e 18565, de 1 de Julho de 1961, 20 bolsas, sendo 10 para estudantes destinados ao então denominado Instituto Superior de Estudos Ultramarinos e 10 para candidatos ao Instituto de Serviço Social.
+
+Além disso, por sucessivos despachos ministeriais haviam sido concedidas outras bolsas, em número de 14.
+
+Na sequência desta política, e tendo em vista a vantagem de proporcionar a um número cada vez maior de estudantes formação técnica e de nível universitário, criam-se agora mais 19 bolsas de estudo e concede-se a todos os bolseiros assistência médica gratuita.
+
+Por último, aproveita-se a oportunidade para submeter a concessão das bolsas a um regime uniforme e, dada a circunstância de entretanto haverem sido criados nas províncias de Angola, S. Tomé e Príncipe e Moçambique institutos de educação e serviço social, altera-se a proporção da distribuição pelos diferentes cursos das bolsas a conceder.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+
+1.º O Ministério do Ultramar institui 53 bolsas de estudo, a conceder nos termos das disposições da presente portaria.
+
+2.º A distribuição destas 53 bolsas será feita como segue:
+
+a) 26 bolsas para frequência do Instituto Superior de Ciências Sociais e Política Ultramarina;
+
+b) 12 bolsas para frequência de outros cursos superiores;
+
+c) 5 bolsas para frequência dos cursos dos institutos industriais e comerciais;
+
+d) 5 bolsas para frequência dos cursos do Instituto de Serviço Social;
+
+e) 5 bolsas para frequência dos cursos das escolas do magistério primário.
+
+3.º As bolsas referidas na alínea a) do número anterior poderão ser concedidas a estudantes de qualquer ponto do território nacional, com preferência absoluta para os provenientes das províncias ultramarinas.
+
+4.º Das bolsas referidas na alínea b) do n.º 2.º são excluídos os candidatos de Angola e Moçambique aos cursos superiores professados nos estudos gerais universitários destas províncias e das previstas nas alíneas c), d) e e) do mesmo número os candidatos a cursos professados nas províncias donde são provenientes.
+
+5.º Para efeito de atribuição de bolsas de estudo consideram-se estudantes provenientes das províncias ultramarinas aqueles que tenham o seu domicílio nas mesmas por tempo que, à data da abertura do concurso para concessão das bolsas, não seja inferior a dois anos, sem interrupções.
+
+6.º Na contagem do tempo previsto no n.º 5.º pode ser incluído todo o que corresponder a domicílio consecutivo em qualquer das províncias ultramarinas, em geral, e não apenas naquela em que o tenha à data da abertura do concurso.
+
+7.º Poderá o Ministro do Ultramar, por simples despacho, utilizar as bolsas disponíveis inscritas nas diversas alíneas do n.º 2.º para os concorrentes de qualquer delas.
+
+8.º O montante de cada bolsa será de 5000$00 anuais, a pagar em dez prestações mensais durante o ano lectivo, correndo por conta da Agência-Geral do Ultramar o encargo de manutenção dos bolseiros no Lar Ultramarino ou nos lares da Mocidade Portuguesa masculina ou feminina.
+
+Poderá, contudo, o Ministro do Ultramar, por simples despacho, determinar que sejam arbitradas bolsas de 15000$00 anuais, a pagar em prestações mensais, como se prevê no número anterior, ficando, porém, neste caso, a cargo do bolseiro a sua manutenção.
+
+9.º O beneficiário de uma bolsa de estudo não poderá ter outra concedida pelo Estado ou pelas províncias ultramarinas, ou por quaisquer entidades de direito público ou privado, nem subsídio atribuído, para os mesmos fins, a si, seu pai, tutor ou quem suas vezes fizer.
+
+10.º Os bolseiros terão direito a assistência clínica gratuita, em consulta externa, no Hospital do Ultramar, quando portadores de guia passada pela Mocidade Portuguesa masculina ou feminina ou pelo estabelecimento de ensino que frequentem.
+
+11.º Quando houver necessidade de internar os bolseiros no Hospital, as regras a observar na hospitalização serão as mesmas que estiverem fixadas para os funcionários ultramarinos que tenham direito a 2.ª classe.
+
+12.º As isenções ou reduções de propinas que os bolseiros possam obter, nos termos da legislação vigente, para os cursos que frequentarem não prejudicam a atribuição da bolsa.
+
+13.º A Agência-Geral do Ultramar, durante o mês de Junho de cada ano, abrirá concurso para a concessão das bolsas de estudo, mediante avisos publicados no Diário do Governo e no Boletim Oficial das províncias ultramarinas, nos quais se indicarão o número de vagas existentes e o prazo para entrega dos documentos, que decorrerão, obrigatòriamente, de 1 de Julho a 15 de Agosto.
+
+14.º Os concorrentes dirigirão os pedidos ao Ministro do Ultramar, em requerimentos com a assinatura devidamente reconhecida, os quais deverão dar entrada na Agência-Geral do Ultramar até ao termo do prazo fixado no n.º 13.º
+
+Os requerimentos deverão ser acompanhados dos seguintes documentos:
+
+a) Certidão ou diploma das habilitações legais necessárias para frequência dos respectivos cursos;
+
+b) Declaração, passada pela autoridade competente, para os efeitos do disposto no n.º 16.º e alínea b) do n.º 17.º;
+
+c) Atestado de bom comportamento moral e civil, passado por autoridade competente;
+
+d) Declaração do concorrente, em papel selado e, se for menor, assinada, também, por seu pai ou tutor, para os efeitos do disposto no n.º 9.º da presente portaria;
+
+e) Declaração, passada pelo concorrente, em papel selado e, se for menor, assinada também por seu pai ou tutor, em que se comprometam a informar a Agência-Geral do Ultramar de qualquer alteração nos seus proventos materiais que modifique a situação legal do beneficiado ou de outra bolsa ou subsídio que lhe seja atribuído.
+
+15.º Serão admitidos condicionalmente os candidatos que, não possuindo, à data do concurso, as habilitações exigidas para o ingresso nos cursos a que se destinam, comprovem a possibilidade de as completar na época de Outubro.
+
+16.º As bolsas instituídas pela presente portaria só poderão ser concedidas àqueles a respeito dos quais se considere que os seus recursos económicos não permitem prosseguir os seus estudos na metrópole e que tenham a classificação mínima de 12 valores.
+
+17.º Na concessão de bolsas de estudo, desde que os candidatos sejam em número superior ao das bolsas instituídas, considerar-ão as seguintes condições de preferência:
+
+a) Terem completado na 1.ª época de exames as habilitações literárias exigidas;
+
+b) A maior carência de recursos;
+
+c) A melhor classificação;
+
+d) A menor idade.
+
+18.º A Agência-Geral do Ultramar, dentro de quinze dias, a contar da data do termo do prazo do concurso, organizará mapas donde constem o número de vagas existentes, os nomes de todos os concorrentes, idade, classificação, proventos e quaisquer outros elementos necessários à apreciação dos pedidos, que, acompanhados do parecer da comissão referida no n.º 19.º, submeterá a despacho ministerial.
+
+19.º Em cada ano, a apreciação dos pedidos de bolsas será feita por uma comissão presidida pelo agente-geral do Ultramar e por dois funcionários da Direcção-Geral do Ensino, com a categoria mínima de inspector, designados pelo Ministro do Ultramar.
+
+20.º O bolseiro obriga-se a entregar, na Agência-Geral do Ultramar, no final de cada período escolar, documentos comprovativos da sua assiduidade e aproveitamento e de comportamento passado pela secretaria do estabelecimento de ensino que frequente.
+
+21.º Os processos individuais de concessão de bolsas estão sujeitos a revisão no decurso do ano lectivo a que as mesmas respeitam, quando:
+
+a) Se verifique alteração de proventos materiais do bolseiro ou de seus pais, ou beneficie de outras bolsas ou subsídios;
+
+b) Seja duvidosa a adaptação do bolseiro às suas obrigações escolares em face das informações prestadas pelos respectivos estabelecimentos de ensino.
+
+22.º Perde o direito à bolsa de estudo o bolseiro que:
+
+a) Não efectue a respectiva matrícula no estabelecimento de ensino a que se destina;
+
+b) Não transite de ano, salvo no caso do n.º 23.º;
+
+c) Deixe de reunir todas as condições exigidas para a concessão da bolsa.
+
+23.º Se a falta de aproveitamento for determinada pelo cumprimento obrigatório dos deveres militares ou por motivo de doença comprovada pela Junta de Saúde do Ultramar, o interessado conservará o direito à respectiva bolsa. Se estudar fora de Lisboa, a comprovação da doença deverá ser feita por documento passado pelas autoridades sanitárias locais.
+
+24.º O bolseiro que, tendo deixado de reunir as condições necessárias para a concessão da bolsa, ocultar, por qualquer forma, os factos determinantes dessa situação, ficará obrigado a repor as importâncias recebidas a partir do momento em que tais factos se deram até àquele em que os mesmos chegaram ao conhecimento da Agência-Geral do Ultramar.
+
+25.º As despesas resultantes da concessão das bolsas de estudo de que trata o n.º 2.º, inclusive a parte concernente à manutenção dos bolseiros no Lar Ultramarino ou nos lares da Mocidade Portuguesa prevista no n.º 8.º, constituirão encargo do orçamento privativo da Agência-Geral do Ultramar, a satisfazer por dotação própria subordinada à segunda rubrica da respectiva tabela de despesa: «Encargos com 53 bolsas de estudo de que trata o n.º 2.º da Portaria n.º 19719, de 20 de Fevereiro de 1963».
+
+26.º (Transitório). No corrente ano económico os encargos serão suportados pelas disponibilidades das verbas do referido orçamento para 1963, inscritas no capítulo único, artigo 11.º, n.os 6) e 7), sob as rubricas «10 bolsas de estudo, nos termos da [Portaria n.º 18565](https://diariodarepublica.pt/dr/detalhe/portaria/18565-1961-172892), de 1 de Julho de 1961», e «10 bolsas de estudo, nos termos da [Portaria n.º 17889](https://diariodarepublica.pt/dr/detalhe/portaria/17889-1960-500774), de 8 de Agosto de 1960», e, no restante, pela verba do capítulo único, artigo 9.º, n.º 2), alínea e), sob a rubrica «Outros serviços de propaganda que forem determinados pelo Ministro», para o que é desde já autorizado o reforço necessário, com contrapartida nos saldos dos anos económicos findos dos orçamentos privativos da mesma Agência.
+
+27.º Ficam revogadas as Portarias n.os 17889, de 8 de Agosto de 1960, e 18565, de 1 de Julho de 1961.
+
+28.º (Transitório). Durante o corrente ano lectivo os actuais bolseiros terão direito aos quantitativos das bolsas que vinham recebendo.
+
+29.º (Transitório). Será aberto concurso, no mais curto espaço de tempo, para concessão das bolsas ainda não distribuídas e para as criadas por esta portaria.
+
+Ministério do Ultramar, 20 de Fevereiro de 1963. - O Ministro do Ultramar, António Augusto Peixoto Correia.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.

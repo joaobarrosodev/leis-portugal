@@ -1,0 +1,232 @@
+---
+schema_version: '1.0'
+id: pt:dre:140476:por
+title: Decreto-Lei n.º 17/95
+short_title: null
+summary: Altera o Decreto-Lei n.º 125/90, de 16 de Abril (fixa o regime jurídico das obrigações hipotecárias)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 17/95
+official_date: null
+publication_date: '1995-01-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 23/1995, Série I-A de 1995-01-27
+  number: '23'
+  series: I
+  supplement: null
+  pages: 479 - 480
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/01/023a00/04790480.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/17/1995/01/27/p/dre/pt/html
+  oj: null
+  dre: '140476'
+  dre_path: /dr/detalhe/decreto-lei/17-1995-140476
+  internal: pt:dre:140476:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1995-140476
+  metadata_url: https://data.dre.pt/eli/dec-lei/17/1995/01/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1995-140476
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-03-20T00:00:00Z'
+integrity:
+  source_sha256: 8151a122e4ec3dab15c11293f5cad5810d597bfd81626be83c166f8084ce6c34
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-17-140476.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:667889:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 17/95
+
+de 27 de Janeiro
+
+O [Decreto-Lei n.º 125/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1990-332000), de 16 de Abril, veio regular pela primeira vez, na nossa ordem jurídica, as denominadas «obrigações hipotecárias», instrumento financeiro bem conhecido e já largamente utilizado em grande parte dos Estados membros da União Europeia.
+
+O novo produto foi concebido com preocupações de desburocratização e flexibilidade.
+
+No entanto, a experiência colhida durante a sua vigência torna aconselhável a introdução de algumas alterações de forma a eliminar certos constrangimentos que não se justificam nas circunstâncias actuais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. Os artigos 2.º a 7.º, 10.º, 11.º, 14.º, 15.º, 16.º e 18.º do [Decreto-Lei n.º 125/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1990-332000), de 16 de Abril, passam a ter a seguinte redacção:
+
+###### Artigo 2.º — [...]
+
+Podem emitir obrigações hipotecárias, nos termos do presente diploma, as instituições de crédito legalmente autorizadas a conceder créditos garantidos por hipoteca, para financiamento da construção ou aquisição de imóveis, e que disponham de fundos próprios não inferiores a 1500000000$00.
+
+###### Artigo 3.º — [...]
+
+1 - ...
+
+2 - A emissão deverá ter lugar no prazo máximo de seis meses após a deliberação referida no número anterior, que caducará no termo desse prazo.
+
+###### Artigo 4.º — Formalidades da emissão
+
+1 - A emissão e a oferta pública de subscrição de obrigações hipotecárias não estão sujeitas a autorização administrativa ou a registo público.
+
+2 - As instituições emitentes deverão, previamente a qualquer oferta pública de subscrição de obrigações hipotecárias, publicar num jornal de grande circulação um prospecto contendo, em termos sintéticos, toda a informação relevante sobre as características das obrigações e as condições da emissão, nomeadamente o montante total da emissão, a indicação do privilégio creditório conferido pelo n.º 1 do artigo 6.º e as menções das alíneas a), b) e e) a j) do n.º 1 do artigo 5.º
+
+3 - O prospecto referido no número anterior deve ser enviado ao Banco de Portugal, antes de iniciada a colocação das obrigações, e posto à disposição do público em todos os locais onde se proceda à subscrição, durante toda a duração desta.
+
+###### Artigo 5.º — [...]
+
+1 - ...
+
+2 - Os títulos de obrigações hipotecárias podem revestir a forma escritural, aplicando-se o disposto no Código do Mercado de Valores Mobiliários, devendo, neste caso, o respectivo registo mencionar os elementos aludidos no número anterior.
+
+3 - ...
+
+###### Artigo 6.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - O privilégio creditório estabelecido no n.º 1 não carece de inscrição no registo predial.
+
+4 - O extracto de inscrição da hipoteca deverá conter a menção especial de que o crédito por ela garantido fica afecto ao cumprimento de obrigações hipotecárias, sempre que tal afectação resulte do título constitutivo ou de declaração da entidade emitente anexa ao pedido de registo.
+
+5 - No caso de hipotecas já constituídas, a menção a que se refere o número anterior será efectuada por averbamento com base em declaração da entidade emitente.
+
+6 - O cancelamento do ónus de afectação é efectuado com base em declaração da instituição credora.
+
+7 - Pelos actos de registo referidos nos n.os 5 e 6, bem como pelo cancelamento dos registos de ónus de afectação que tenham sido lavrados ao abrigo deste diploma, não são devidos quaisquer emolumentos em função do valor do facto inscrito.
+
+###### Artigo 7.º — Disciplina legal
+
+Não são aplicáveis à emissão de obrigações hipotecárias:
+
+a) ...
+
+b) ...
+
+c) O capítulo II do título II do Código do Mercado de Valores Mobiliários.
+
+###### Artigo 10.º — [...]
+
+1 - As emissões de obrigações hipotecárias de cupão zero ou taxa de juro fixa apenas podem ter por suporte créditos hipotecários que vençam juros a taxa fixa.
+
+2 - ...
+
+###### Artigo 11.º — [...]
+
+1 - ...
+
+2 - O montante de um crédito hipotecário não pode exceder o valor do bem hipotecado.
+
+3 - ...
+
+4 - São considerados créditos hipotecários os garantidos por fiança de uma instituição de crédito ou por adequado contrato de seguro, com contragarantia por hipoteca que reúna as condições indicadas no n.º 1.
+
+###### Artigo 14.º — [...]
+
+A avaliação referida no artigo anterior é objecto de relatório circunstanciado, da exclusiva responsabilidade da entidade emitente.
+
+###### Artigo 15.º — [...]
+
+1 - ...
+
+2 - ...
+
+a) Afectação de novos créditos hipotecários;
+
+b) ...
+
+c) ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+###### Artigo 16.º — [...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Cartório notarial onde foi celebrada a respectiva escritura de hipoteca;
+
+e) ...
+
+3 - ...
+
+###### Artigo 18.º — [...]
+
+1 - ...
+
+2 - As obrigações hipotecárias podem integrar o património dos fundos de investimento imobiliário, nas condições que vierem a ser definidas na regulamentação própria, e são equiparadas a títulos cotados em bolsas de valores nacionais para efeitos de composição das reservas das instituições de segurança social.
+
+3 - ...
+
+4 ...
+
+Visto e aprovado em Conselho de Ministros de 24 de Novembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
+
+**Promulgado em 28 de Dezembro de 1994.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 2 de Janeiro de 1995.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

@@ -1,0 +1,2575 @@
+---
+schema_version: '1.0'
+id: pt:dre:470458:por
+title: Decreto-Lei n.º 267/80
+short_title: null
+summary: Lei Eleitoral para a Assembleia Regional dos Açores
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Administração Interna
+proposing_entity: null
+official_number: 267/80
+official_date: null
+publication_date: '1980-08-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 182/1980, Série I de 1980-08-08
+  number: '182'
+  series: I
+  supplement: null
+  pages: 2087 - 2112
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18200/20872112.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-09-11'
+version_history:
+  file: decreto-lei-267-80.versoes.json
+  count: 10
+  source_lastmod: '2026-09-16'
+  versions:
+  - date: '1980-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-12-01'
+    amending: pt:dre:428825:por
+    amending_title: Lei n.º 72/93
+    changes:
+    - Revoga Capítulo III
+    - Revoga Artigo 143.º
+    - Revoga Artigo 144.º
+    - Revoga Artigo 145.º
+  - date: '2000-07-15'
+    amending: pt:dre:580786:por
+    amending_title: Declaração de Rectificação n.º 9/2000; Lei Orgânica n.º 2/2000
+    changes:
+    - Retifica Artigo 15.º
+    - Retifica Artigo 48.º
+    - Retifica Artigo 99.º
+    - Retifica Artigo 130.º
+    - Adita Artigo 23.º
+    - Adita Artigo 52.º
+    - Adita Artigo 77.º
+    - Adita Artigo 78.º
+    - Adita Artigo 79.º
+    - Adita Artigo 80.º
+    - Adita Artigo 113.º
+    - Adita Artigo 167.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+  - date: '2001-08-30'
+    amending: pt:dre:540392:por
+    amending_title: Lei Orgânica n.º 5/2006; Lei Orgânica n.º 2/2001
+    changes:
+    - Altera Artigo 78.º
+    - Altera Artigo 77.º
+  - date: '2006-09-01'
+    amending: pt:dre:540392:por
+    amending_title: Lei Orgânica n.º 5/2006
+    changes:
+    - Adita Artigo 81.º
+    - Adita Artigo 151.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 35.º
+    - Altera Artigo 70.º
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º
+    - Altera Artigo 96.º
+    - Altera Artigo 119.º
+    - Altera Artigo 122.º
+    - Altera Anexo I
+    - Elimina Artigo 96.º
+  - date: '2012-06-15'
+    amending: pt:dre:178786:por
+    amending_title: Lei Orgânica n.º 2/2012
+    changes:
+    - Adita Artigo 11.º-A
+    - Altera Artigo 13.º
+  - date: '2015-02-13'
+    amending: pt:dre:66487455:por
+    amending_title: Lei Orgânica n.º 3/2015
+    changes:
+    - Altera Artigo 11.º-A
+    - Altera Artigo 13.º
+  - date: '2015-03-17'
+    amending: pt:dre:66761447:por
+    amending_title: Lei Orgânica n.º 4/2015
+    changes:
+    - Adita Artigo 15.º-A
+    - Adita Artigo 15.º-B
+    - Adita Título VII
+    - Adita Artigo 159.º-A
+    - Adita Artigo 159.º-B
+    - Adita Artigo 159.º-C
+    - Adita Artigo 159.º-D
+    - Altera Título VII
+  - date: '2020-08-22'
+    amending: pt:dre:140950556:por
+    amending_title: Lei Orgânica n.º 1-B/2020
+    changes:
+    - Adita Artigo 45.º-A
+    - Adita Artigo 77.º-A
+    - Altera Artigo 25.º
+    - Altera Artigo 41.º
+    - Altera Artigo 44.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 77.º
+    - Altera Artigo 80.º
+    - Altera Artigo 86.º
+    - Altera Artigo 87.º
+    - Altera Artigo 89.º
+    - Altera Artigo 98.º
+    - Altera Artigo 100.º
+    - Altera Artigo 107.º
+    - Revoga Artigo 78.º
+    - Revoga Artigo 79.º
+  - date: '2026-09-11'
+    amending: pt:dre:1168979169:por
+    amending_title: Lei Orgânica n.º 3/2026
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 15.º-A
+    - Altera Artigo 54.º
+    - Altera Artigo 97.º
+    - Altera Artigo 98.º
+    - Altera Artigo 99.º
+    - Altera Artigo 102.º
+    - Altera Artigo 159.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/267/1980/p/cons/20220204/pt/html
+  oj: null
+  dre: '470458'
+  dre_path: /dr/detalhe/decreto-lei/267-1980-470458
+  internal: pt:dre:470458:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1980-470458
+  metadata_url: https://data.dre.pt/eli/dec-lei/267/1980/p/cons/20220204/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1980-67428908
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1980-67428908
+  retrieved_at: '2026-10-22T13:55:05Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-16T00:00:00Z'
+integrity:
+  source_sha256: ebdbc4cffa8c4d27b74511e43f68be8f8adf417c44a8782964e66dcce21d272c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:55:05Z'
+  notes: 10 versão(ões); histórico completo em decreto-lei-267-80.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Regional
+- Açores
+- Campanha Eleitoral
+- Eleição Regional
+- Sistema Eleitoral
+relationships:
+- type: amended_by
+  target: pt:dre:428825:por
+  label: Revoga Capítulo III; Revoga Artigo 143.º; Revoga Artigo 144.º; Revoga Artigo 145.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:319955:por
+  label: Retifica Artigo 15.º; Retifica Artigo 48.º; Retifica Artigo 99.º; Retifica Artigo 130.º; Adita Artigo 23.º; Adita
+    Artigo 52.º; Adita Artigo 77.º; Adita Artigo 78.º; Adita Artigo 79.º; Adita Artigo 80.º; Adita Artigo 113.º; Adita Artigo
+    167.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 9.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955
+  date: '2000-07-14'
+- type: amended_by
+  target: pt:dre:580786:por
+  label: Retifica Artigo 15.º; Retifica Artigo 48.º; Retifica Artigo 99.º; Retifica Artigo 130.º; Adita Artigo 23.º; Adita
+    Artigo 52.º; Adita Artigo 77.º; Adita Artigo 78.º; Adita Artigo 79.º; Adita Artigo 80.º; Adita Artigo 113.º; Adita Artigo
+    167.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 9.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2000-580786
+  date: '2000-09-02'
+- type: amended_by
+  target: pt:dre:515638:por
+  label: Altera Artigo 78.º; Altera Artigo 77.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2001-515638
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:540392:por
+  label: Altera Artigo 78.º; Altera Artigo 77.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392
+  date: '2006-08-31'
+- type: amended_by
+  target: pt:dre:178786:por
+  label: Adita Artigo 11.º-A; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2012-178786
+  date: '2012-06-14'
+- type: amended_by
+  target: pt:dre:66487455:por
+  label: Altera Artigo 11.º-A; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2015-66487455
+  date: '2015-02-12'
+- type: amended_by
+  target: pt:dre:66761447:por
+  label: Adita Artigo 15.º-A; Adita Artigo 15.º-B; Adita Título VII; Adita Artigo 159.º-A; Adita Artigo 159.º-B; Adita Artigo
+    159.º-C; Adita Artigo 159.º-D; Altera Título VII
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447
+  date: '2015-03-16'
+- type: amended_by
+  target: pt:dre:140950556:por
+  label: Adita Artigo 45.º-A; Adita Artigo 77.º-A; Altera Artigo 25.º; Altera Artigo 41.º; Altera Artigo 44.º; Altera Artigo
+    47.º; Altera Artigo 48.º; Altera Artigo 49.º; Altera Artigo 77.º; Altera Artigo 80.º; Altera Artigo 86.º; Altera Artigo
+    87.º; Altera Artigo 89.º; Altera Artigo 98.º; Altera Artigo 100.º; Altera Artigo 107.º; Revoga Artigo 78.º; Revoga Artigo
+    79.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556
+  date: '2020-08-21'
+- type: amended_by
+  target: pt:dre:1168979169:por
+  label: Altera Artigo 2.º; Altera Artigo 15.º-A; Altera Artigo 54.º; Altera Artigo 97.º; Altera Artigo 98.º; Altera Artigo
+    99.º; Altera Artigo 102.º; Altera Artigo 159.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2026-1168979169
+  date: '2026-09-10'
+article_structure:
+  article_count: 173
+  section_count: 35
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:55:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 267/80
+
+Decreto-Lei n.º 267/80
+
+de 8 de Agosto
+
+A Lei n.º 21/80, de 26 de Julho, concedeu ao Governo autorização para rever o regime jurídico da eleição da Assembleia Regional dos Açores.
+
+O presente diploma traduz o uso dessa autorização legislativa, permitindo que as eleições para este importante órgão, no quadro do sistema autonómico, decorram segundo um regime actualizado e coerente, a um tempo, com o Estatuto da Região Autónoma dos Açores e com o sistema eleitoral geral para a Assembleia da República, órgão legislativo de âmbito nacional.
+
+O regime que ora se institui tem, pois, como base a disciplina vigente das eleições para a Assembleia da República, com as adaptações impostas pelo Estatuto da Região Autónoma dos Açores e pelas circunstâncias próprias da Região, e corresponde aos desejos expressos pelo Governo Regional.
+
+Nestes termos, ouvido o Governo Regional dos Açores, ao abrigo da autorização legislativa concedida pela Lei n.º 21/80, de 26 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+> Nota: [Artigo 3.º, Lei Orgânica n.º 2/2012 - Diário da República n.º 114/2012, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2012-178786) Caducidade: a lei orgânica n.º 2/2012, de 14 de junho aplica-se unicamente à eleição da X Legislatura da Assembleia Legislativa da Região Autónoma dos Açores, caducando com a sessão constitutiva da mesma.
+
+## Título I — Capacidade eleitoral
+
+### Capítulo I — Capacidade eleitoral activa
+
+###### Artigo 1.º — (Capacidade eleitoral activa)
+
+1 - Gozam de capacidade eleitoral activa os cidadãos portugueses maiores de 18 anos.
+
+2 - Os portugueses havidos também como cidadãos de outro Estado não perdem por esse facto a capacidade eleitoral activa.
+
+###### Artigo 2.º — (Incapacidades eleitorais activas)
+
+Não gozam de capacidade eleitoral activa:
+
+a) [Revogada.]
+
+b) Os que notoriamente apresentem limitação ou alteração grave das funções mentais, ainda que não sujeitos a acompanhamento, quando internados em estabelecimento psiquiátrico ou como tais declarados por uma junta de dois médicos;
+
+c) Os que estejam privados de direitos políticos, por decisão transitada em julgado.
+
+> Nota: [Acórdão n.º 748/93 - Diário da República n.º 298/1993, Série I-A de 1993-12-23](https://diariodarepublica.pt/dr/detalhe/acordao/748-1993-541443) Declarada a inconstitucionalidade, com força obrigatória geral, das normas constantes da al. c) do presente artigo 2º, na parte em que estabelecem a incapacidade eleitoral activa dos definitivamente condenados a pena de prisão por crime doloso (ou por crime doloso infamante) enquanto não hajam expiado a respectiva pena.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2026 - Diário da República n.º 176/2026, Série I de 2026-09-10](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2026-1168979169), em vigor a partir de 2026-09-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 3.º — (Direito de voto)
+
+São eleitores da Assembleia Legislativa da Região Autónoma dos Açores os cidadãos inscritos no recenseamento eleitoral no território regional.
+
+> Nota: [Resolução n.º 68/82 - Diário da República n.º 93/1982, Série I de 1982-04-22](https://diariodarepublica.pt/dr/detalhe/resolucao/68-1982-606538) A Resolução n.º 68/82, de 22 de abril, declarou com força obrigatória geral, a inconstitucionalidade do n.º 2 do presente artigo 3.º, por contrariar o princípio da soberania popular, tal como a Constituição o configura na sua particular dimensão regional, o princípio da unidade da cidadania e o princípio da unidade do Estado e por a violar ainda o princípio da igualdade contido no artigo 13.º, n.os 1 e 2, da Constituição.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+### Capítulo II — Capacidade eleitoral passiva
+
+###### Artigo 4.º — (Capacidade eleitoral passiva)
+
+São elegíveis os cidadãos portugueses eleitores, salvo as restrições estabelecidas na lei.
+
+> Nota: [Resolução n.º 68/82 - Diário da República n.º 93/1982, Série I de 1982-04-22](https://diariodarepublica.pt/dr/detalhe/resolucao/68-1982-606538) A Resolução n.º 68/82, de 22 de abril, declarou com força obrigatória geral, a inconstitucionalidade parcial do presente artigo 4.º, por infringir o princípio constante no artigo 18.º, n.º 2, da Constituição.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 5.º — (Inelegibilidades gerais)
+
+São inelegíveis para a Assembleia Legislativa da Região Autónoma dos Açores:
+
+a) O Presidente da República;
+
+b) Os Representantes da República;
+
+c) Os governadores civis e vice-governadores em exercício de funções;
+
+d) Os magistrados judiciais ou do Ministério Público em efectividade de serviço;
+
+e) Os juízes em exercício de funções não abrangidos pela alínea anterior;
+
+f) Os militares e os elementos das forças militarizadas pertencentes aos quadros permanentes, enquanto prestarem serviço activo;
+
+g) Os diplomatas de carreira em efectividade de serviço;
+
+h) Aqueles que exerçam funções diplomáticas à data da apresentação das candidaturas, desde que não incluídos na alínea anterior;
+
+i) Os membros da Comissão Nacional de Eleições.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 6.º — (Inelegibilidades especiais)
+
+1 - Não podem ser candidatos pelo círculo onde exerçam a sua actividade os directores e chefes de repartição de finanças e os ministros de qualquer religião ou culto com poderes de jurisdição.
+
+2 - A qualidade de deputado à Assembleia da República é impeditiva da de candidato a deputado da Assembleia Legislativa da Região Autónoma dos Açores.
+
+> Nota: [Resolução n.º 68/82 - Diário da República n.º 93/1982, Série I de 1982-04-22](https://diariodarepublica.pt/dr/detalhe/resolucao/68-1982-606538) A Resolução n.º 68/82, de 22 de abril, declarou, com força obrigatória geral, a inconstitucionalidade do n.º 2 do presente artigo 6.º, por contrariar o princípio da soberania popular, tal como a Constituição o configura na sua particular dimensão regional, o princípio da unidade da cidadania e o princípio da unidade do Estado.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 7.º — (Funcionários públicos)
+
+Os funcionários civis do Estado ou de outras pessoas colectivas públicas não carecem de autorização para se candidatarem a deputados à Assembleia Legislativa da Região Autónoma dos Açores.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+### Capítulo III — Estatuto dos candidatos
+
+###### Artigo 8.º — (Direito a dispensa de funções)
+
+Durante o período da campanha eleitoral, os candidatos têm direito à dispensa do exercício das respectivas funções, sejam públicas ou privadas, contando esse tempo para todos os efeitos, incluindo o direito à retribuição, como tempo de serviço efectivo.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+###### Artigo 9.º — Obrigatoriedade de suspensão do mandato
+
+Desde a data da apresentação de candidaturas e até ao dia das eleições os candidatos que sejam presidentes de câmaras municipais ou que legalmente os substituam não podem exercer as respectivas funções.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 10.º — (Imunidades)
+
+1 - Nenhum candidato pode ser sujeito a prisão preventiva, a não ser em caso de flagrante delito, por crime punível com pena de prisão superior a três anos.
+
+2 - Movido procedimento criminal contra algum candidato e indiciado este por despacho de pronúncia ou equivalente, o processo só pode seguir após a proclamação dos resultados das eleições.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 11.º — (Natureza do mandato)
+
+Os deputados da Assembleia Legislativa da Região Autónoma dos Açores representam toda a Região e não os círculos por que são eleitos.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 11.º-A — Limite de deputados
+
+A Assembleia Legislativa da Região Autónoma dos Açores é composta por um máximo de cinquenta e sete deputados.
+
+> Nota: [Artigo 2.º, Lei Orgânica n.º 3/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2015-66487455) O legislador na Lei Orgânica n.º 3/2015, de 12 de fevereiro determina o aditamento deste artigo, o qual já havia sido aditado pela Lei Orgânica n.º 2/2012, de 14 de junho. Por este motivo foi efetuada somente a devida alteração.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2015-66487455), em vigor a partir de 2015-02-13
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 2/2012 - Diário da República n.º 114/2012, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2012-178786), em vigor a partir de 2012-06-15
+
+## Título II — Sistema eleitoral
+
+### Capítulo I — Organização dos círculos eleitorais
+
+###### Artigo 12.º — (Círculos eleitorais)
+
+1 - O território eleitoral divide-se, para efeito de eleição dos deputados à Assembleia Legislativa da Região Autónoma dos Açores, em círculos eleitorais, correspondendo a cada um deles um colégio eleitoral.
+
+2 - No território eleitoral há nove círculos eleitorais coincidentes com cada uma das ilhas da Região e designados pelo respectivo nome, e um círculo regional de compensação, assim designado, coincidente com a totalidade da área da Região.
+
+> Nota: [Resolução n.º 68/82 - Diário da República n.º 93/1982, Série I de 1982-04-22](https://diariodarepublica.pt/dr/detalhe/resolucao/68-1982-606538) A Resolução n.º 68/82, de 22 de abril, declarou, com força obrigatória geral, a inconstitucionalidade dos n.os 3 e 4 do presente artigo 12.º, por contrariarem o princípio da soberania popular, tal como a Constituição o configura na sua particular dimensão regional, o princípio da unidade da cidadania e o princípio da unidade do Estado e por violar ainda no nº 3 do presente artigo 12.º o princípio da igualdade contido no artigo 13.º, n.os 1 e 2, da Constituição.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 13.º — (Distribuição de deputados)
+
+1 -  Em cada círculo eleitoral de ilha são eleitos dois deputados e mais um por cada 7250 eleitores ou fração superior a 1000, nos termos do n.º 3.
+
+2 - O círculo regional de compensação elege cinco deputados.
+
+3 - As frações superiores a 1000 eleitores de todos os círculos eleitorais de ilha são ordenadas por ordem decrescente e os deputados distribuídos pelos círculos eleitorais, de acordo com essa ordenação, até ao limite estabelecido no artigo 11.º-A.
+
+4 - A Comissão Nacional de Eleições publica no Diário da República, 1ª série, entre os 60 e os 55 dias anteriores à data marcada para a realização das eleições, um mapa com o número de deputados e a sua distribuição pelos círculos.
+
+5 -  Quando as eleições sejam marcadas com antecedência inferior a 60 dias, a Comissão Nacional de Eleições faz publicar o mapa com o número e a distribuição dos deputados entre os 55 dias e os 53 dias anteriores ao dia marcado para a realização das eleições.
+
+6 - O mapa referido nos números anteriores é elaborado com base no número de eleitores segundo a última actualização do recenseamento.
+
+> Nota: [Resolução n.º 68/82 - Diário da República n.º 93/1982, Série I de 1982-04-22](https://diariodarepublica.pt/dr/detalhe/resolucao/68-1982-606538) A Resolução n.º 68/82, de 22 de abril, declarou com força obrigatória geral, a inconstitucionalidade do n.º 2 do presente artigo 13.º, por contrariar o princípio da soberania popular, tal como a Constituição o configura na sua particular dimensão regional, o princípio da unidade da cidadania e o princípio da unidade do Estado.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2015-66487455), em vigor a partir de 2015-02-13
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2012 - Diário da República n.º 114/2012, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2012-178786), em vigor a partir de 2012-06-15
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+### Capítulo II — Regime da eleição
+
+###### Artigo 14.º — (Modo de eleição)
+
+Os deputados da Assembleia Legislativa da Região Autónoma dos Açores são eleitos por listas plurinominais em cada círculo eleitoral, dispondo o eleitor de um voto singular de lista.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 15.º — (Organização das listas)
+
+1 - As listas propostas à eleição devem conter a indicação de candidatos efectivos em número igual ao dos mandatos atribuídos ao círculo eleitoral a que se refiram e de candidatos suplentes em número não inferior a dois nem superior a oito.
+
+2 - Os candidatos de cada lista consideram-se ordenados segundo a sequência da respectiva declaração de candidatura.
+
+3 - É condição para a candidatura no círculo regional ser simultaneamente candidato num círculo de ilha.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 9/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2000-580786), em vigor a partir de 2000-07-15
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 15.º-A — Composição das listas
+
+1 - As listas de candidaturas apresentadas para a Assembleia Legislativa da Região Autónoma dos Açores são compostas de modo a promover a paridade entre homens e mulheres.
+
+2 - Para efeitos do disposto no número anterior, entende-se por paridade a representação mínima de 40 % de cada um dos sexos nas listas, arredondada, sempre que necessário, para a unidade mais próxima.
+
+3 - Para cumprimento do disposto no número anterior, as listas apresentadas não podem conter mais de dois candidatos do mesmo sexo colocados, consecutivamente, na ordenação da lista.
+
+4 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2026 - Diário da República n.º 176/2026, Série I de 2026-09-10](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2026-1168979169), em vigor a partir de 2026-09-11.
+
+> Aditado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 4/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447), em vigor a partir de 2015-03-17
+
+###### Artigo 15.º-B — Notificação do mandatário
+
+No caso de uma lista não observar o disposto no artigo anterior, o mandatário é notificado, nos termos e para os efeitos do disposto no artigo 28.º
+
+> Aditado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 4/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447), em vigor a partir de 2015-03-17
+
+###### Artigo 16.º — (Critério de eleição)
+
+1 - A conversão dos votos em mandatos, nos círculos de ilha, faz-se de acordo com o método de representação proporcional de Hondt, obedecendo às seguintes regras:
+
+a) Apura-se em separado o número de votos recebidos por cada lista no círculo eleitoral respectivo;
+
+b) O número de votos apurado por cada lista é dividido, sucessivamente, por 1, 2, 3, 4, 5, etc., sendo os quocientes alinhados pela ordem decrescente da sua grandeza numa série de tantos termos quantos os mandatos atribuídos ao círculo eleitoral respectivo;
+
+c) Os mandatos pertencem às listas a que correspondem os termos da série estabelecida pela regra anterior, recebendo cada uma das listas tantos mandatos quantos os seus termos na série;
+
+d) No caso de restar um só mandato para distribuir e de os termos seguintes da série serem iguais e de listas diferentes, o mandato cabe à lista que tiver obtido menor número de votos.
+
+2 - No círculo regional de compensação, a conversão dos votos em mandatos faz-se de acordo com o método de representação proporcional de Hondt, com compensação pelos mandatos já obtidos nos círculos de ilha, obedecendo às seguintes regras:
+
+a) Apura-se o número total de votos recebidos por cada lista no conjunto dos círculos de ilha;
+
+b) O número de votos apurado por cada lista é dividido, sucessivamente, por 1, 2, 3, 4, 5, etc., sendo os quocientes alinhados pela ordem decrescente da sua grandeza;
+
+c) São eliminados, para cada lista, tantos quocientes quantos os mandatos já atribuídos, para o conjunto dos círculos de ilha, nos termos do número anterior;
+
+d) Os mandatos de compensação pertencem às listas a que correspondem os maiores termos da série estabelecida pelas regras definidas nas alíneas a) e b), recebendo cada uma das listas tantos mandatos quantos os seus termos da série;
+
+e) No caso de restar um só mandato para distribuir e de os termos seguintes da série serem iguais e de listas diferentes, o mandato cabe à lista que tiver obtido menor número de votos.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+###### Artigo 17.º — (Distribuição dos lugares dentro das listas)
+
+1 - Dentro de cada lista, os mandatos são conferidos aos candidatos pela ordem de precedência indicada no n.º 2 do artigo 15.º
+
+2 - Caso ao mesmo candidato corresponda um mandato atribuído no círculo regional de compensação e num círculo de ilha, o candidato ocupa o mandato atribuído no círculo de ilha, sendo o mandato no círculo regional de compensação conferido ao candidato imediatamente seguinte, na lista do círculo regional de compensação, na referida ordem de preferência.
+
+3 - No caso de morte do candidato ou de doença que determine impossibilidade física ou psíquica, o mandato é conferido ao candidato imediatamente seguinte na referida ordem de precedência.
+
+4 - A existência de incompatibilidade entre as funções desempenhadas pelo candidato e o exercício do cargo de deputado não impede a atribuição do mandato.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+###### Artigo 18.º — (Vagas ocorridas na Assembleia)
+
+1 - As vagas ocorridas na Assembleia Legislativa da Região Autónoma dos Açores são preenchidas pelo cidadão imediatamente a seguir na ordem da respectiva lista ou, tratando-se de coligação, pelo cidadão imediatamente a seguir do partido pelo qual havia sido proposto o candidato que deu origem à vaga.
+
+2 - Quando, por aplicação da regra contida na parte final do número anterior, se torne impossível o preenchimento da vaga por cidadão proposto pelo mesmo partido, o mandato será conferido ao candidato imediatamente a seguir na ordem da lista apresentada pela coligação.
+
+3 - Não há lugar ao preenchimento de vaga no caso de já não existirem candidatos efectivos ou suplentes não eleitos da lista a que pertencia o titular do mandato vago.
+
+4 - Os deputados que forem nomeados membros do Governo não podem exercer o mandato até à cessação daquelas funções e são substituídos nos termos do n.º 1.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+## Título III — Organização do processo eleitoral
+
+### Capítulo I — Marcação da data das eleições
+
+###### Artigo 19.º — (Marcação das eleições)
+
+1 - O Presidente da República marca a data das eleições dos deputados à Assembleia Legislativa da Região Autónoma dos Açores com a antecedência mínima de 60 dias ou, em caso de dissolução, com a antecedência mínima de 55 dias.
+
+2 - As eleições realizam-se, normalmente, entre o dia 28 de Setembro e o dia 28 de Outubro do ano correspondente ao termo da legislatura.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 20.º — (Dia das eleições)
+
+O dia das eleições é o mesmo em todos os círculos eleitorais, devendo recair em domingo ou feriado nacional.
+
+### Capítulo II — Apresentação de candidaturas
+
+#### Secção I — Propositura
+
+###### Artigo 21.º — (Poder de apresentação)
+
+1 - As candidaturas são apresentadas pelos partidos políticos, isoladamente ou em coligação, desde que registados até ao início do prazo de apresentação de candidaturas, e as listas podem integrar cidadãos não inscritos nos respectivos partidos.
+
+2 - Nenhum partido pode apresentar mais de uma lista de candidatos no mesmo círculo eleitoral.
+
+3 - Com excepção do disposto no n.º 3 do artigo 15.º, ninguém pode ser candidato por mais de um círculo eleitoral ou figurar em mais de uma lista, sob pena de inelegibilidade.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+###### Artigo 22.º — (Coligações para fins eleitorais)
+
+1 - As coligações de partidos para fins eleitorais devem ser anotadas pelo Tribunal Constitucional e comunicadas, até à apresentação efectiva das candidaturas, em documento assinado conjuntamente pelos órgãos competentes dos respectivos partidos, a esse mesmo Tribunal, com indicação das suas denominações, siglas e símbolos, bem como anunciadas dentro do mesmo prazo em dois dos jornais diários mais lidos na Região.
+
+2 - As coligações deixam de existir logo que for tornado público o resultado definitivo das eleições, mas podem transformar-se em coligações de partidos políticos, nos termos e para os efeitos do disposto no artigo 11.º da Lei Orgânica n.º 2/2003, de 22 de Agosto.
+
+3 - É aplicável às coligações de partidos para fins eleitorais o disposto no n.º 3 do artigo 11.º da Lei Orgânica n.º 2/2003, de 22 de Agosto.
+
+> Nota: [Lei n.º 28/82 - Diário da República n.º 264/1982, Série I de 1982-11-15](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508) Atribuídas ao Tribunal Constitucional, em plenário, as competências da Comissão Nacional de Eleições previstas no presente artigo.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 23.º — Decisão
+
+1 - No dia seguinte à apresentação para anotação das coligações, o Tribunal Constitucional, em secção, aprecia a legalidade das denominações, siglas e símbolos, bem como a sua identidade com as de outros partidos, coligações ou frentes.
+
+2 - A decisão prevista no número anterior é imediatamente publicitada por edital mandado afixar pelo Presidente à porta do Tribunal.
+
+3 - No prazo de vinte e quatro horas a contar da afixação do edital, podem os mandatários de qualquer lista apresentada em qualquer círculo, por qualquer coligação ou partido, recorrer da decisão para o plenário do Tribunal Constitucional.
+
+4 - O Tribunal Constitucional decide em plenário dos recursos referidos no número anterior no prazo de quarenta e oito horas.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 24.º — (Apresentação de candidaturas)
+
+1 - A apresentação de candidaturas cabe aos órgãos competentes dos partidos políticos.
+
+2 - A apresentação faz-se até ao 41.º dia anterior à data prevista para as eleições perante o juiz:
+
+a) Da comarca de Ponta Delgada, para o círculo de São Miguel e para o círculo regional de compensação;
+
+b) Da comarca de Angra do Heroísmo, para o círculo da Terceira;
+
+c) Da comarca da ilha das Flores, para os círculos das Flores e do Corvo;
+
+d) Das restantes comarcas, para os círculos das ilhas a que cada um corresponda.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 25.º — (Requisitos de apresentação)
+
+1 - A apresentação consiste na entrega da lista contendo os nomes e demais elementos de identificação dos candidatos e do mandatário da lista, bem como da declaração de candidatura, e ainda, no caso de lista apresentada por coligação, a indicação do partido que propõe cada um dos candidatos.
+
+2 - Para efeito do disposto no número anterior, entendem-se por elementos de identificação os seguintes: idade, filiação, profissão, naturalidade e residência, bem como número de identificação civil.
+
+3 - A declaração de candidatura é assinada conjunta ou separadamente pelos candidatos e dela deve constar que:
+
+a) Não estão abrangidos por qualquer inelegibilidade;
+
+b) Não se candidatam por qualquer outro círculo eleitoral nem figuram em mais nenhuma lista de candidatura, sem prejuízo da candidatura relativa ao círculo regional de compensação;
+
+c) Aceitam a candidatura pelo partido ou coligação eleitoral proponente da lista;
+
+d) Concordam com o mandatário indicado na lista.
+
+4 - Cada lista é instruída com os seguintes documentos:
+
+a) Certidão, ou pública-forma de certidão, do Tribunal Constitucional comprovativa do registo do partido político e da respectiva data e ainda, no caso de lista apresentada por coligação, documentos comprovativos dos requisitos exigidos no n.º 1 do artigo 22.º;
+
+b) Certidão de inscrição no recenseamento eleitoral de cada um dos candidatos, bem como do mandatário, identificando-os em função dos elementos referidos no n.º 2.
+
+5 - Para além do disposto nos números anteriores, a lista relativa ao círculo regional de compensação é instruída com cópias das listas dos círculos de ilha donde também constem os candidatos ao círculo regional de compensação.
+
+> Nota: [Acórdão n.º 136/90 - Diário da República n.º 126/1990, Série I de 1990-06-01](https://diariodarepublica.pt/dr/detalhe/acordao/136-1990-574876) Declarada a inconstitucionalidade, com força obrigatória geral, da al. c) do nº 4 do presente artigo, pelo Acórdão 136/90.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 26.º — (Mandatários das listas)
+
+1 - Os candidatos de cada lista designam de entre eles ou de entre os eleitores inscritos no respectivo círculo mandatário para os representar nas operações referentes ao julgamento da elegibilidade e nas operações subsequentes.
+
+2 - A morada do mandatário é sempre indicada no processo de candidatura e, quando ele não residir na sede do círculo, escolhe ali domicílio para efeitos de ser notificado.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 27.º — (Publicação das listas e verificação das candidaturas)
+
+1 - Terminado o prazo para a apresentação de listas, o juiz manda afixar cópias à porta do edifício do tribunal.
+
+2 - Nos dois dias subsequentes ao termo do prazo de apresentação de candidaturas, o juiz verifica a regularidade do processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 28.º — (Irregularidades processuais)
+
+Verificando-se irregularidade processual, o juiz manda notificar imediatamente o mandatário da lista para a suprir no prazo de dois dias.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 29.º — (Rejeição de candidaturas)
+
+1 - São rejeitados os candidatos inelegíveis.
+
+2 - O mandatário da lista é imediatamente notificado para que se proceda à substituição do candidato ou candidatos inelegíveis no prazo de dois dias, sob pena de rejeição de toda a lista.
+
+3 - No caso de a lista não conter o número total de candidatos, o mandatário deve completá-la no prazo de dois dias, sob pena de rejeição de toda a lista.
+
+4 - Findos os prazos dos n.os 2 e 3, o juiz, em quarenta e oito horas, faz operar nas listas as rectificações ou aditamentos requeridos pelos respectivos mandatários.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 30.º — (Publicação das decisões)
+
+Findo o prazo do n.º 4 do artigo anterior ou do n.º 2 do artigo 26.º, se não houver alterações nas listas, o juiz faz afixar à porta do edifício do tribunal as listas rectificadas ou completadas e a indicação das que tenham sido admitidas ou rejeitadas.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 31.º — (Reclamações)
+
+1 - Das decisões do juiz relativas à apresentação das candidaturas podem reclamar para o próprio juiz, no prazo de dois dias após a publicação referida no artigo anterior, os candidatos, os seus mandatários e os partidos políticos concorrentes à eleição no círculo.
+
+2 - Tratando-se de reclamação apresentada contra a admissão de qualquer candidatura, o juiz manda notificar imediatamente o mandatário da respectiva lista para responder, querendo, no prazo de vinte e quatro horas.
+
+3 - Tratando-se de reclamação apresentada contra a não admissão de qualquer candidatura, o juiz manda notificar imediatamente os mandatários das restantes listas, ainda que não admitidas, para responderem, querendo, no prazo de vinte e quatro horas.
+
+4 - O juiz deve decidir no prazo de vinte e quatro horas a contar do termo do prazo previsto nos números anteriores.
+
+5- Quando não hajam reclamações ou decididas as que tenham sido apresentadas, o juiz manda afixar à porta do edifício do tribunal uma relação completa de todas as listas admitidas.
+
+6 - É enviada cópia destas listas ao membro do Governo Regional com competência em matéria eleitoral.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 32.º — (Sorteio das listas apresentadas)
+
+1 - No dia seguinte ao fim do prazo de apresentação de candidaturas, o juiz procede, na presença dos candidatos ou dos seus mandatários que compareçam, ao sorteio das listas apresentadas, para o efeito de lhes atribuir uma ordem nos boletins de voto, lavrando-se auto do sorteio.
+
+2 - A realização do sorteio e a impressão dos boletins de voto não implicam a admissão das candidaturas, devendo considerar-se sem efeito relativamente à lista ou listas que, nos termos dos artigos 28.º e seguintes, venham a ser definitivamente rejeitadas.
+
+3 - O resultado do sorteio é afixado à porta do tribunal, sendo enviadas cópias do auto à Comissão Nacional de Eleições e ao membro do Governo Regional com competência em matéria eleitoral.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+#### Secção II — Contencioso da apresentação das candidaturas
+
+###### Artigo 33.º — Recurso para o Tribunal Constitucional
+
+1 - Das decisões finais do juiz relativas à apresentação de candidaturas cabe recurso para o Tribunal Constitucional.
+
+2 - O recurso deve ser interposto no prazo de dois dias a contar da data da afixação das listas a que se refere o n.º 5 do artigo 30.º
+
+> Nota: [Lei n.º 28/82 - Diário da República n.º 264/1982, Série I de 1982-11-15](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508) Atribuídas ao Tribunal Constitucional as competências dos tribunais da relação previstas no n.º 1 do presente artigo.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 34.º — (Legitimidade)
+
+Têm legitimidade para interpor recurso os candidatos, os respectivos mandatários e os partidos políticos concorrentes à eleição no círculo.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 35.º — Interposição e subida do recurso
+
+1 - O requerimento da interposição de recurso, do qual devem constar os seus fundamentos, é entregue no tribunal que proferiu a decisão recorrida, acompanhado de todos os elementos de prova.
+
+2 - A interposição e a fundamentação dos recursos perante o Tribunal Constitucional podem ser feitas por correio electrónico ou por fax, sem prejuízo de posterior envio de todos os elementos de prova referidos no número anterior.
+
+3 - Tratando-se de recurso contra a admissão de qualquer candidatura, o tribunal recorrido manda notificar imediatamente o mandatário da respectiva lista para este, os candidatos ou os partidos políticos proponentes responderem, querendo, no prazo de vinte e quatro horas.
+
+4 - Tratando-se de recurso contra a não admissão de qualquer candidatura, o tribunal recorrido manda notificar imediatamente a entidade que tiver impugnado a sua admissão, nos termos do artigo 30.º, se a houver, para responder, querendo, no prazo de vinte e quatro horas.
+
+5 - O recurso sobe ao Tribunal Constitucional nos próprios autos.
+
+> Nota: [Lei n.º 28/82 - Diário da República n.º 264/1982, Série I de 1982-11-15](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508) Atribuídas ao Tribunal Constitucional as competências dos tribunais da relação previstas no presente artigo.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 36.º — (Decisão)
+
+1 - O Tribunal Constitucional, em plenário, decide definitivamente no prazo de quarenta e oito horas a contar da data da recepção dos autos prevista no artigo anterior, comunicando por telecópia a decisão, no próprio dia, ao juiz.
+
+2 - O Tribunal Constitucional proferirá um único acórdão em relação a cada círculo eleitoral, no qual decidirá todos os recursos relativos às listas concorrentes nesse círculo.
+
+> Nota: [Lei n.º 28/82 - Diário da República n.º 264/1982, Série I de 1982-11-15](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508) Atribuídas ao Tribunal Constitucional as competências dos tribunais da relação previstas no presente artigo.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 37.º — (Publicação das listas)
+
+1 - As listas definitivamente admitidas são imediatamente afixadas à porta do tribunal e enviadas, por cópia, à Comissão Nacional de Eleições, ao membro do Governo Regional com competência em matéria eleitoral e aos presidentes das câmaras municipais do círculo, que as publicam, no prazo de vinte e quatro horas, por editais afixados à porta das respectivas sedes.
+
+2 - No dia das eleições, as listas sujeitas a sufrágio são novamente publicadas por editais afixados à porta e no interior das assembleias de voto, a cujo presidente são enviadas pelo membro do Governo Regional com competência em matéria eleitoral, juntamente com os boletins de voto.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+#### Secção III — Substituição e desistência de candidaturas
+
+###### Artigo 38.º — (Substituição de candidaturas)
+
+1 - Apenas há lugar à substituição de candidatos, até quinze dias antes das eleições, nos seguintes casos:
+
+a) Eliminação em virtude de julgamento definitivo de recurso fundado na inelegibilidade;
+
+b) Morte ou doença que determine impossibilidade física ou psíquica;
+
+c) Desistência do candidato.
+
+2 - Sem prejuízo do disposto no artigo 15.º, a substituição é facultativa, passando os substitutos a figurar na lista a seguir ao último dos suplentes.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 39.º — (Nova publicação das listas)
+
+Em caso de substituição de candidatos ou de anulação de decisão de rejeição de qualquer lista, procede-se a nova publicação das respectivas listas.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 40.º — (Desistência)
+
+1 - É lícita a desistência da lista até quarenta e oito horas antes do dia das eleições.
+
+2 - A desistência deve ser comunicada pelo partido proponente ao juiz, o qual, por sua vez, a comunica ao membro do Governo Regional com competência em matéria eleitoral.
+
+3 - É igualmente lícita a desistência de qualquer candidato, mediante declaração por ele subscrita com a assinatura reconhecida perante o notário, mantendo-se, porém, a validade da lista apresentada.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+### Capítulo III — Constituição das assembleias de voto
+
+###### Artigo 41.º — (Assembleia de voto)
+
+1 - A cada freguesia corresponde uma assembleia de voto.
+
+2 - As assembleias de voto nas freguesias com um número de eleitores sensivelmente superior a 1000 são divididas em secções de voto, de maneira que o número de eleitores de cada uma não ultrapasse sensivelmente esse número.
+
+3 - Até ao 35.º dia anterior ao dia da eleição, o presidente da câmara municipal determina os desdobramentos previstos no número anterior, comunicando-os imediatamente à correspondente junta de freguesia.
+
+4 - Da decisão referida no número anterior cabe recurso, a interpor no prazo de dois dias, por iniciativa das juntas de freguesia ou de, pelo menos, 10 eleitores de qualquer assembleia de voto, para a instância local do tribunal de comarca, competente em matéria cível, com jurisdição na área do município, que decide, em definitivo e em igual prazo.
+
+5 - O mapa definitivo das assembleias e secções de voto é imediatamente afixado nas câmaras municipais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 42.º — (Dia e hora das assembleias de voto)
+
+As assembleias de voto reúnem-se no dia marcado para as eleições, às 8 horas da manhã, em todo o território regional.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 43.º — (Local das assembleias de voto)
+
+1 - As assembleias de voto devem reunir-se em edifícios públicos, de preferência escolas, sedes de municípios ou juntas de freguesias que ofereçam as indispensáveis condições de capacidade, segurança e acesso. Na falta de edifícios públicos em condições aceitáveis, recorrer-se-á a edifício particular requisitado para o efeito.
+
+2 - Compete ao presidente da câmara municipal ou da comissão administrativa municipal determinar os locais em que funcionam as assembleias eleitorais.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 44.º — (Editais sobre as assembleias de voto)
+
+1 - Até ao 15.º dia anterior ao das eleições, os presidentes das câmaras municipais anunciam, por editais afixados nos lugares do estilo, o dia, a hora e os locais em que se reúnem as assembleias de voto e os desdobramentos destas, se a eles houver lugar.
+
+2 - No caso de desdobramento de assembleias de voto, consta igualmente dos editais o número de identificação civil dos cidadãos que devem votar em cada assembleia.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 45.º — (Mesas das assembleias e secções de voto)
+
+1 - Em cada assembleia ou secção de voto é constituída uma mesa para promover e dirigir as operações eleitorais.
+
+2 - A mesa é composta por um presidente, pelo seu suplente e por três vogais, sendo um secretário e dois escrutinadores.
+
+3 - Os membros da mesa, salvo nos casos previstos no n.º 3 do artigo 47.º, devem fazer parte da assembleia eleitoral para que foram nomeados e não podem ser designados para tal função os eleitores que não saibam ler e escrever português.
+
+4 - Salvo motivo de força maior ou justa causa, é obrigatório o desempenho das funções de membro da mesa da assembleia ou secção de voto.
+
+5 - São causas justificativas de impedimento:
+
+a) Idade superior a 65 anos;
+
+b) Doença ou impossibilidade física comprovada pelo delegado de saúde municipal;
+
+c) Mudança de residência para a área de outro município, comprovada pela junta de freguesia da nova residência;
+
+d) Ausência da ilha em que reside habitualmente, devidamente comprovada;
+
+e) Exercício de actividade profissional de carácter inadiável, devidamente comprovada por superior hierárquico.
+
+6 - A invocação de causa justificativa é feita, até três dias antes da eleição, perante o presidente da câmara municipal.
+
+7 - No caso previsto no número anterior, o presidente da câmara procede imediatamente à substituição, nomeando outro eleitor pertencente à assembleia de voto.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 45.º-A — Mesas de voto antecipado em mobilidade
+
+1 - São constituídas as seguintes mesas de voto antecipado em mobilidade:
+
+a) No território do continente, dezoito mesas, a funcionar uma em cada câmara municipal da sede de distrito;
+
+b) Na Região Autónoma dos Açores, dezanove mesas, a funcionar uma por cada concelho, na respetiva câmara municipal;
+
+c) Na Região Autónoma da Madeira, duas mesas, a funcionar uma na Câmara Municipal do Funchal e outra na Câmara Municipal do Porto Santo.
+
+2 - Sempre que relativamente a alguma mesa de voto não haja, até ao fim do prazo legal, nenhum eleitor registado para votar antecipadamente, pode o membro do Governo Regional com competência em matéria eleitoral determinar que a mesma seja dispensada do seu funcionamento.
+
+3 - Sempre que numa mesa de voto se registe um número de eleitores sensivelmente superior a 500, pode o presidente da câmara do município, nas 24 horas seguintes à comunicação efetuada pelo membro do Governo Regional com competência em matéria eleitoral, determinar os desdobramentos necessários, de modo a que cada uma delas não ultrapasse sensivelmente esse número.
+
+4 - A designação dos membros das mesas é efetuada nos termos do artigo 48.º
+
+> Aditado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+###### Artigo 46.º — (Delegados das listas)
+
+1 - Em cada assembleia ou secção de voto há um delegado, e respectivo suplente, de cada lista de candidatos às eleições.
+
+2 - Os delegados das listas podem não estar inscritos no recenseamento correspondente à assembleia ou secção de voto em que devem exercer as suas funções.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 47.º — (Designação dos delegados das listas)
+
+1 - Até ao vigésimo quinto dia anterior ao da eleição, os candidatos ou os mandatários das diferentes listas indicam por escrito ao presidente da câmara municipal os delegados e suplentes para as respetivas assembleias e secções de voto.
+
+2 - A designação dos delegados e suplentes das mesas de voto antecipado em mobilidade efetua-se no vigésimo quarto dia anterior ao da eleição.
+
+3 - A cada delegado e respetivo suplente é antecipadamente entregue uma credencial, a ser preenchida pelo partido ou coligação, devendo ser apresentada para assinatura e autenticação à autoridade referida no n.º 1 aquando da respetiva indicação, e na qual figuram obrigatoriamente o nome, a freguesia de inscrição no recenseamento, o número de identificação civil e a identificação da assembleia eleitoral onde irá exercer as suas funções.
+
+4 - Não é lícito aos partidos impugnar a eleição com base na falta de qualquer delegado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 48.º — (Designação dos membros da mesa)
+
+1 - Até ao vigésimo quarto dia anterior ao da eleição, devem os delegados reunir-se na sede da junta de freguesia, a convocação do respetivo presidente, para procederem à escolha dos membros da mesa das assembleias ou secções de voto, devendo essa escolha ser imediatamente comunicada ao presidente da câmara municipal. Quando a assembleia de voto haja sido desdobrada, está presente à reunião apenas um delegado de cada lista de entre os que tiverem sido propostos pelos candidatos ou pelos mandatários das diferentes listas.
+
+2 - Na falta de acordo, o delegado de cada lista propõe, por escrito, no vigésimo terceiro ou vigésimo segundo dia anterior ao da eleição, ao presidente da câmara municipal, dois cidadãos por cada lugar ainda por preencher, para que entre eles se faça a escolha, no prazo de 24 horas, através de sorteio efetuado no edifício da câmara municipal e na presença dos delegados das listas concorrentes à eleição, na secção de voto em causa. Nos casos em que não tenham sido propostos cidadãos pelos delegados das listas, compete ao presidente da câmara municipal nomear os membros da mesa cujos lugares estejam por preencher.
+
+3 - Nas secções de voto em que o número de cidadãos com os requisitos necessários à constituição das mesas seja comprovadamente insuficiente, compete aos presidentes das câmaras municipais ou das comissões administrativas municipais nomear, de entre os cidadãos inscritos no recenseamento eleitoral da mesma freguesia, os membros em falta.
+
+4 - Os nomes dos membros da mesa escolhidos peles delegados das listas ou pelas autoridades referidas nos números anteriores são publicados em edital afixado, no prazo de quarenta e oito horas, à porta da sede da junta de freguesia, podendo qualquer eleitor reclamar contra a escolha perante o presidente da câmara municipal nos dois dias seguintes, com fundamento em preterição dos requisitos fixados na presente lei.
+
+5 - Aquela autoridade decide a reclamação em vinte e quatro horas e, se a atender, procede imediatamente a nova designação através de sorteio efectuado no edifício da câmara municipal e na presença dos delegados das listas concorrentes à eleição na secção de voto em causa.
+
+6 - Até ao décimo segundo dia anterior ao da eleição, o presidente da câmara lavra o alvará de nomeação dos membros das assembleias eleitorais e comunica as nomeações às juntas de freguesia competentes.
+
+7 - Os que forem designados membros de mesa de assembleia eleitoral e que até três dias antes das eleições justifiquem, nos termos legais, a impossibilidade de exercerem essas funções são imediatamente substituídos, nos termos do n.º 2, pelo presidente da câmara municipal.
+
+8 - À designação dos membros das mesas do voto antecipado em mobilidade aplica-se o disposto nos números anteriores com as seguintes adaptações:
+
+a) A reunião a que se refere o n.º 1 é realizada na sede do município, a convocação do respetivo presidente;
+
+b) Compete aos presidentes das câmaras municipais para efeitos do disposto no n.º 3, nomear os membros das mesas em falta de entre os cidadãos inscritos no recenseamento eleitoral das freguesias do seu concelho;
+
+c) O edital a que se refere o n.º 4 é afixado na respetiva câmara municipal;
+
+d) A reclamação a que se refere o n.º 4 é feita perante o membro do Governo Regional com competência em matéria eleitoral.
+
+9 - Para efeitos do disposto do n.º 3 do artigo 45.º-A, o presidente da câmara municipal pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 9/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2000-580786), em vigor a partir de 2000-07-15
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 49.º — (Constituição da mesa)
+
+1 - A mesa da assembleia ou secção de voto não pode constituir-se antes da hora marcada para a reunião da assembleia nem em local diverso do que houver sido determinado, sob pena de nulidade de todos os actos em que participar e da eleição.
+
+2 - Após a constituição da mesa, é logo afixado à porta do edifício em que estiver reunida a assembleia de voto um edital, assinado pelo presidente, contendo os nomes e os números de identificação civil dos cidadãos que formam a mesa, bem como o número de eleitores inscritos.
+
+3 - Sem prejuízo do disposto no n.º 1, os membros das mesas das assembleias ou secções de voto devem estar presentes no local do seu funcionamento uma hora antes da marcada para o início das operações eleitorais, a fim de que estas possam começar à hora fixada.
+
+4 - Se até uma hora após a hora marcada para abertura da assembleia for impossível constituir a mesa por não estarem presentes os membros indispensáveis ao seu funcionamento, o presidente da junta de freguesia designa, mediante acordo unânime dos delegados de lista presentes, substitutos dos membros ausentes, de entre cidadãos eleitores de reconhecida idoneidade inscritos nessa assembleia ou secção, considerando-se sem efeito a partir deste momento a designação dos anteriores membros da mesa que não tenham comparecido.
+
+5 - Os membros das mesas de assembleias eleitorais são dispensados do dever de comparência ao respectivo emprego ou serviço no dia das eleições e no dia seguinte , sem prejuízo de todos os seus direitos e regalias, incluindo o direito à retribuição, devendo, para o efeito, fazer prova bastante dessa qualidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 224/1980, Série I de 1980-09-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-461657)
+
+###### Artigo 50.º — (Permanência na mesa)
+
+1 - A mesa, uma vez constituída, não pode ser alterada, salvo caso de força maior. Da alteração e das suas razões é dado conta em edital afixado no local indicado no artigo anterior.
+
+2 - Para a validade das operações eleitorais é necessária a presença, em cada momento, do presidente ou do seu suplente e de, pelo menos, dois vogais.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 51.º — (Poderes dos delegados das listas)
+
+1 - Os delegados das listas têm os seguintes poderes:
+
+a) Ocupar os lugares mais próximos da mesa, de modo a poder fiscalizar todas as operações de votação;
+
+b) Consultar a todo o momento as cópias dos cadernos de recenseamento eleitoral utilizadas pela mesa da assembleia de voto;
+
+c) Ser ouvidos e esclarecidos acerca de todas as questões suscitadas durante o funcionamento da assembleia de voto, quer na fase de votação quer na fase de apuramento;
+
+d) Apresentar, oralmente ou por escrito, reclamações, protestos ou contraprotestos relativos às operações de voto;
+
+e) Assinar a acta e rubricar, selar e lacrar todos os documentos respeitantes às operações de voto;
+
+f) Obter certidões das operações de votação e apuramento.
+
+2 - Os delegados das listas não podem ser designados para substituir membros da mesa faltosos.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 52.º — Imunidades e direitos
+
+1 - Os delegados das listas não podem ser detidos durante o funcionamento da assembleia de voto, a não ser por crime punível com pena de prisão superior a três anos e em flagrante delito.
+
+2 - Os delegados das listas gozam do direito consignado no n.º 5 do artigo 48.º
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 53.º — (Cadernos de recenseamento)
+
+1 - Logo que definidas as assembleias e secções de voto e designados os membros das mesas, a comissão de recenseamento deve fornecer a estas, a seu pedido, duas cópias ou fotocópias autenticadas dos cadernos de recenseamento.
+
+2 - Quando houver desdobramento da assembleia de voto, as cópias ou fotocópias abrangem apenas as folhas dos cadernos correspondentes aos eleitores que hajam de votar em cada secção de voto.
+
+3 - As cópias ou fotocópias previstas nos números anteriores devem ser obtidas o mais tardar até dois dias antes da eleição.
+
+4 - Os delegados das listas podem, a todo o momento, consultar as cópias ou fotocópias dos cadernos de recenseamento.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 54.º — (Outros elementos de trabalho da mesa)
+
+1 - O presidente da câmara municipal municipal entrega a cada presidente de assembleia ou secção de voto, até três dias antes do dia designado para as eleições, um caderno destinado às actas das operações eleitorais, com termo de abertura por ele assinado e com todas as folhas por ele rubricadas, bem como os impressos e mapas que se tornem necessários.
+
+2 - A entidade referida no número anterior entrega também a cada presidente de assembleia ou secção de voto, até três dias antes do dia designado para a eleição, os boletins de voto e as respetivas matrizes em braille, acompanhadas de instruções claras relativas à sua utilização, remetidos pelo membro do Governo Regional com competência em matéria eleitoral.
+
+3 - Os presidentes de assembleia ou secção de voto verificam, no ato da receção, a integridade e quantidade dos materiais, assinando um auto de verificação e conservação.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2026 - Diário da República n.º 176/2026, Série I de 2026-09-10](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2026-1168979169), em vigor a partir de 2026-09-11.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+## Título IV — Campanha eleitoral
+
+### Capítulo I — Princípios gerais
+
+###### Artigo 55.º — (Início e termo da campanha eleitoral)
+
+O período da campanha eleitoral inicia-se no 14.º dia anterior ao dia designado para as eleições e finda às 24 horas da antevéspera do mesmo.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 56.º — (Promoção, realização e âmbito da campanha eleitoral)
+
+1 - A promoção e realização da campanha eleitoral cabe sempre aos candidatos e aos partidos políticos, sem prejuízo da participação activa dos cidadãos.
+
+2 - Qualquer candidato ou partido político pode livremente realizar a campanha eleitoral em todo o território regional.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 57.º — (Denominações, siglas e símbolos)
+
+1 - Cada partido utiliza sempre, durante a campanha eleitoral, a denominação, a sigla e o símbolo respectivos.
+
+2 - Em caso de coligação, podem ser utilizadas as denominações, as siglas e os símbolos dos partidos coligados ou adoptadas novas denominações, siglas e símbolos.
+
+3 - A denominação, a sigla e o símbolo das coligações devem obedecer aos requisitos fixados na legislação aplicável.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 58.º — (Igualdade de oportunidades das candidaturas)
+
+Os candidatos e os partidos políticos ou coligações que os propõem têm direito a igual tratamento por parte das entidades públicas e privadas a fim de efectuarem, livremente e nas melhores condições, a sua campanha eleitoral.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 59.º — (Neutralidade e imparcialidade das entidades públicas)
+
+1 - Os órgãos do Estado, das Regiões Autónomas, das autarquias locais, das demais pessoas colectivas de direito público, das sociedades de capitais públicos ou de economia mista e das sociedades concessionárias de serviços públicos, de bens do domínio público ou de obras públicas, bem como, nessa qualidade, os respectivos titulares, não podem intervir directa ou indirectamente em campanha eleitoral nem praticar quaisquer actos que favoreçam ou prejudiquem uma candidatura em detrimento ou vantagem de outra ou outras, devendo assegurar a igualdade de tratamento e a imparcialidade em qualquer intervenção nos procedimentos eleitorais.
+
+2 - Os funcionários e agentes das entidades referidas no número anterior observam, no exercício das suas funções, rigorosa neutralidade perante as diversas candidaturas, bem como perante os diversos partidos.
+
+3 - É vedada a exibição de símbolos, siglas, autocolantes ou outros elementos de propaganda por titulares de órgãos, funcionários e agentes das entidades referidas no n.º 1 durante o exercício das suas funções.
+
+4 - O regime previsto no presente artigo é aplicável a partir da publicação do decreto que marque a data das eleições.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 224/1980, Série I de 1980-09-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-461657)
+
+###### Artigo 60.º — (Liberdade de expressão e de informação)
+
+1 - No decurso da campanha eleitoral não pode ser imposta qualquer limitação à expressão de princípios políticos, económicos e sociais, sem prejuízo de eventual responsabilidade civil ou criminal.
+
+2 - Durante o período da campanha eleitoral não podem ser aplicadas às empresas que explorem meios de comunicação social, nem aos seus agentes, quaisquer sanções por actos integrados na campanha, sem prejuízo da responsabilidade em que incorram, a qual só pode ser efectivada após o dia da eleição.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 61.º — (Liberdade de reunião)
+
+A liberdade de reunião para fins eleitorais no período de campanha eleitoral rege-se pelo disposto na lei geral sobre direito de reunião, com as seguintes especialidades:
+
+a) O aviso a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 406/74, de 29 de Agosto, deve ser feito pelo órgão competente do partido político, quando se trate de reuniões, comícios, manifestações ou desfiles em lugares públicos ou abertos ao público e a realizar por esse partido;
+
+b) Os cortejos, os desfiles e a propaganda sonora podem ter lugar em qualquer dia e hora, respeitando-se apenas os limites impostos pela manutenção da ordem pública, da liberdade de trânsito e de trabalho e ainda os decorrentes do período de descanso dos cidadãos;
+
+c) O auto a que alude o n.º 2 do artigo 5.º do Decreto-Lei n.º 406/74, de 29 de Agosto, deve ser enviado por cópia ao presidente da Comissão Nacional de Eleições e ao órgão competente do partido político interessado;
+
+d) A ordem de alteração dos trajectos ou desfiles é dada pela autoridade competente e por escrito ao órgão competente do partido político interessado e comunicada à Comissão Nacional de Eleições;
+
+e) A utilização dos lugares públicos a que se refere o artigo 9.º do Decreto-Lei n.º 406/74, de 29 de Agosto, deve ser repartida igualmente pelos concorrentes no círculo em que se situarem;
+
+f) A presença de agentes de autoridade em reuniões organizadas por qualquer partido político apenas pode ser solicitada pelo órgão competente do partido que as organizar, ficando esse órgão responsável pela manutenção da ordem quando não faça tal solicitação;
+
+g) O limite a que alude o artigo 11.º do Decreto-Lei n.º 406/74, de 29 de Agosto, é alargado até às 2 horas da madrugada durante a campanha eleitoral.
+
+h) O recurso previsto no n.º 1 do artigo 14.º do Decreto-Lei n.º 406/74, de 29 de Agosto, é interposto no prazo de quarenta e oito horas para o Tribunal Constitucional.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+### Capítulo II — Propaganda eleitoral
+
+###### Artigo 62.º — (Propaganda eleitoral)
+
+Entende-se por propaganda eleitoral toda a actividade que vise directa ou indirectamente promover candidaturas, seja dos candidatos, dos partidos políticos, dos titulares dos seus órgãos ou seus agentes ou de quaisquer outras pessoas, nomeadamente a publicação de textos ou imagens que exprimam ou reproduzam o conteúdo dessa actividade.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 63.º — (Direito de antena)
+
+1 - Os partidos políticos e as coligações têm direito de acesso, para propaganda eleitoral, às estações de rádio e de televisão públicas e privadas, tanto públicas como privadas.
+
+2 - Durante o período da campanha eleitoral, as estações de rádio e televisão reservam aos partidos políticos e às coligações os seguintes tempos de antena:
+
+a) O Centro Regional dos Açores da Radiotelevisão Portuguesa, S. A.:
+
+De segunda-feira a sexta-feira - quinze minutos, entre as 19 e as 22 horas;
+
+Aos sábados e domingos - trinta minutos, entre as 19 e as 22 horas;
+
+b) O Centro Regional dos Açores da Radiodifusão Portuguesa, S. A., em onda média e frequência modulada, sessenta minutos diários, dos quais vinte minutos entre as 7 e as 12 horas, vinte minutos entre as 12 e as 19 horas e vinte minutos entre as 19 e as 24 horas;
+
+c) As estações privadas (onda média e frequência modulada), ligadas a todos os seus emissores, quando os tiverem, trinta minutos diários.
+
+3 - Até dez dias antes da abertura da campanha, as estações devem indicar à Comissão Nacional de Eleições o horário previsto para as emissões.
+
+4 - As estações de rádio e de televisão registam e arquivam, pelo prazo de um ano, as emissões correspondentes ao exercício do direito de antena.
+
+5 - Em caso de coincidência entre o período da campanha eleitoral para a eleição de deputados à Assembleia Legislativa Regional e o correspondente período para a eleição do Presidente da República ou para a eleição dos deputados à Assembleia da República, o disposto no presente artigo e nas disposições correspondentes da respectiva lei eleitoral serão objecto de conciliação, sem perda de tempo de antena, por iniciativa da Comissão Nacional de Eleições, com a colaboração dos partidos concorrentes e da administração das estações de rádio e televisão.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 64.º — (Distribuição dos tempos reservados)
+
+1 - Os tempos de emissão reservados pelo Centro Regional dos Açores da Radiotelevisão Portuguesa, S. A. e pelas estações de rádio privadas que emitam a partir da Região serão repartidos pelos partidos políticos e coligações que hajam apresentado candidatos, em proporção do número destes.
+
+2 - Os tempos de emissão reservados pelo Centro Regional dos Açores da Radiodifusão Portuguesa, S. A. e pelas restantes estações privadas serão repartidos em igualdade entre os partidos políticos e as coligações que tiverem apresentado candidatos no círculo ou num dos círculos eleitorais cobertos, no todo ou na sua maior parte, pelas respectivas emissões.
+
+3 - A Comissão Nacional de Eleições, até três dias antes da abertura da campanha eleitoral, organiza, de acordo com os critérios referidos nos números anteriores, tantas séries de emissões quantos os partidos políticos e as coligações com direito a elas, procedendo-se a sorteio entre os que estiverem colocados em posição idêntica, comunicando a distribuição no mesmo prazo.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 65.º — (Publicações de carácter jornalístico)
+
+1 - As publicações noticiosas diárias ou não diárias de periodicidade inferior a oito dias que pretendam inserir matéria respeitante à campanha eleitoral devem comunicá-lo à Comissão Nacional de Eleições até três dias antes da abertura da campanha eleitoral.
+
+2 - Essas publicações devem dar tratamento jornalístico não discriminatório às diversas candidaturas, nos termos do Decreto-Lei n.º 85-D/75, de 26 de Fevereiro, e demais legislação aplicada.
+
+3 - O disposto no n.º 1 não se aplica à imprensa estatizada, que deve inserir sempre matéria respeitante à campanha eleitoral e cumprir, para efeito de igualdade de tratamento, o preceituado na legislação referida no número anterior.
+
+4 - As publicações referidas no n.º 1 que não tenham feito a comunicação ali prevista não podem inserir propaganda eleitoral, mas apenas a matéria que eventualmente lhes seja enviada pela Comissão Nacional de Eleições.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 66.º — (Salas de espectáculos)
+
+1 - Os proprietários de salas de espectáculos ou de outros recintos de normal utilização pública que reúnam condições para serem utilizados na campanha eleitoral devem declará-lo ao presidente da câmara municipal até dez dias antes da abertura da campanha eleitoral, indicando as datas e horas em que as salas ou recintos podem ser utilizados para aquele fim. Na falta de declaração ou em caso de comprovada carência, o presidente da câmara municipal pode requisitar as salas e os recintos que considere necessários à campanha eleitoral, sem prejuízo da actividade normal e programada para os mesmos.
+
+2 - O tempo destinado a propaganda eleitoral, nos termos do número anterior, é repartido igualmente pelos partidos políticos e coligações que o desejem e tenham apresentado candidaturas no círculo onde se situar a sala.
+
+3 - Até três dias antes da abertura da campanha eleitoral, o presidente da câmara municipal, ouvidos os mandatários das listas, indica os dias e as horas atribuídos a cada partido e coligação, de modo a assegurar a igualdade entre todos.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 67.º — (Propaganda gráfica e sonora)
+
+1 - As juntas de freguesia devem estabelecer, até três dias antes do início da campanha eleitoral, espaços especiais em locais certos destinados à afixação de cartazes, fotografias, jornais murais, manifestos e avisos.
+
+2 - Os espaços reservados nos locais previstos no número anterior devem ser tantos quantas as listas de candidatos propostas à eleição pelo círculo.
+
+3 - A afixação de cartazes e a propaganda sonora não carecem de autorização nem de comunicação às autoridades administrativas.
+
+4 - Não é permitida a afixação de cartazes nem a realização de inscrições ou pinturas murais em monumentos nacionais, nos edifícios religiosos, nos edifícios sede de órgãos de soberania, de regiões autónomas ou do Poder Local, nos sinais de trânsito ou placas de sinalização rodoviária, no interior de quaisquer repartições ou edifícios públicos ou franqueados ao público, incluindo os estabelecimentos comerciais.
+
+> Republicado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 68.º — (Utilização em comum ou troca)
+
+Os partidos políticos e as coligações podem acordar na utilização em comum ou na troca entre si de tempo de emissão ou espaço de publicação que lhes pertençam ou das salas de espectáculos cujo uso lhes seja atribuído.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 69.º — (Edifícios públicos)
+
+Os presidentes das câmaras municipais devem procurar assegurar a cedência do uso, para os fins da campanha eleitoral, de edifícios públicos e recintos pertencentes ao Estado e outras pessoas colectivas de direito público, repartindo com igualdade a sua utilização pelos concorrentes do círculo em que se situar o edifício ou recinto.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 70.º — (Custo da utilização)
+
+1 - É gratuita a utilização, nos termos consignados nos artigos precedentes, das emissões das estações públicas e privadas de rádio e de televisão, das publicações de carácter jornalístico e dos edifícios ou recintos públicos.
+
+2 - A Região compensará as estações de rádio e televisão pela utilização, devidamente comprovada, correspondente às emissões previstas no n.º 2 do artigo 62.º mediante o pagamento de quantia constante de tabelas a homologar pelo membro do Governo Regional com competência em matéria eleitoral até ao 6.º dia anterior à abertura da campanha eleitoral.
+
+3 - As tabelas referidas no número anterior são fixadas para a televisão e para as rádios que emitam a partir da Região por uma comissão arbitral composta por um representante da Direcção Regional de Organização e Administração Pública, que preside e tem voto de qualidade, um representante da Inspecção Administrativa Regional, um representante da televisão e um representante das estações de rádio.
+
+4 - Os proprietários das salas de espectáculos ou os que as explorem, quando fizerem a declaração prevista no n.º 1 do artigo 65.º ou quando tenha havido a requisição prevista no mesmo número, devem indicar o preço a cobrar pela sua utilização, o qual não poderá ser superior à receita líquida correspondente a um quarto da lotação da respectiva sala num espectáculo normal.
+
+5 - O preço referido no número anterior e demais condições de utilização são uniformes para todas as candidaturas.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 224/1980, Série I de 1980-09-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-461657)
+
+###### Artigo 71.º — (Órgãos dos partidos políticos)
+
+O preceituado nos artigos anteriores não é aplicável às publicações de carácter jornalístico que sejam propriedade de partidos políticos, desde que esse facto conste dos respectivos cabeçalhos.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 72.º — (Esclarecimento cívico)
+
+Cabe à Comissão Nacional de Eleições promover, através do Centro Regional dos Açores da Radiotelevisão Portuguesa, S. A., do Centro Regional dos Açores da Radiodifusão Portuguesa, S. A., e da imprensa da Região, o esclarecimento objectivo dos cidadãos sobre o significado das eleições para a vida da Região, sobre o processo eleitoral e sobre o processo de votação.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 73.º — (Publicidade comercial)
+
+A partir da publicação do decreto que marque a data das eleições é proibida a propaganda política feita, directa ou indirectamente, através dos meios de publicidade comercial.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 74.º — (Instalação de telefone)
+
+1 - Os partidos políticos têm direito à instalação de um telefone por cada círculo em que apresentem candidatos.
+
+2 - A instalação de telefone pode ser requerida a partir da data de apresentação das candidaturas e deve ser efectuada no prazo de oito dias a contar do requerimento.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 75.º — (Arrendamento)
+
+1 - A partir da data da publicação do decreto que marcar o dia das eleições e até vinte dias após o acto eleitoral, os arrendatários dos prédios urbanos podem, por qualquer meio, incluindo a sublocação por valor não excedente ao da renda, destiná-los, através de partidos ou coligações, à preparação e realização da campanha eleitoral, seja qual for o fim do arrendamento e sem embargo de disposição em contrário do respectivo contrato.
+
+2 - Os arrendatários, candidatos e partidos políticos são solidariamente responsáveis por todos os prejuízos causados pela utilização prevista no número anterior.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+## Título V — Eleição
+
+### Capítulo I — Sufrágio
+
+#### Secção I — Exercício do direito de sufrágio
+
+###### Artigo 76.º — (Pessoalidade e presencialidade do voto)
+
+1 - O direito de voto é exercido directamente pelo cidadão eleitor.
+
+2 - Sem prejuízo do disposto no artigo 99.º, não é admitida nenhuma forma de representação ou delegação no exercício do direito de sufrágio.
+
+3 - O direito de voto é exercido presencialmente pelo cidadão eleitor, sem prejuízo das particularidades previstas nos artigos 77.º a 81.º
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 77.º — Voto antecipado
+
+1 - Podem votar antecipadamente:
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) Os eleitores que por motivo de doença se encontrem internados ou presumivelmente internados em estabelecimento hospitalar e impossibilitados de se deslocar à assembleia de voto;
+
+f) Os eleitores que se encontrem presos e não privados de direitos políticos;
+
+g) (Revogada).
+
+2 - Podem também votar antecipadamente os seguintes eleitores deslocados no estrangeiro:
+
+a) Militares, agentes militarizados e civis integrados em operações de manutenção de paz, cooperação técnico-militar ou equiparadas;
+
+b) Médicos, enfermeiros e outros cidadãos integrados em missões humanitárias, como tal reconhecidas pelo Governo Regional dos Açores;
+
+c) Investigadores e bolseiros em instituições universitárias ou equiparadas, como tal reconhecidas pelo ministério competente;
+
+d) Estudantes de escolas superiores, ao abrigo de programas de intercâmbio;
+
+e) Membros integrantes de delegações oficiais do Estado e da Região Autónoma.
+
+3 - Podem ainda votar antecipadamente os cidadãos eleitores cônjuges ou equiparados, parentes ou afins que vivam com os eleitores mencionados no número anterior.
+
+4 - Só são considerados os votos recebidos na sede da junta de freguesia correspondente à assembleia de voto em que o eleitor deveria votar até ao dia anterior ao da realização da eleição.
+
+5 - As listas concorrentes à eleição podem nomear, nos termos gerais, delegados para fiscalizar as operações de voto antecipado, os quais gozam de todas as imunidades e direitos previstos no artigo 52.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2001 - Diário da República n.º 197/2001, Série I-A de 2001-08-25](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2001-515638), em vigor a partir de 2001-08-30
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 77.º-A — Modo de exercício do direito de voto antecipado em mobilidade
+
+1 - Podem votar, antecipadamente, em mobilidade, todos os eleitores recenseados na Região Autónoma dos Açores que pretendam exercer o seu direito de voto.
+
+2 - Os eleitores exercem o seu direito de sufrágio numa mesa de voto antecipado em mobilidade constituída para o efeito nos termos do artigo 45.º-A.
+
+3 - Os eleitores que pretendam votar antecipadamente em mobilidade devem manifestar essa intenção, por via postal ou por meio eletrónico disponibilizado para esse efeito pelos serviços do membro do Governo Regional com competência em matéria eleitoral, entre o décimo quarto e o décimo dias anteriores ao da eleição, promovendo estes serviços de imediato o seu reencaminhamento para a Secretaria Geral do Ministério da Administração Interna, para efeito de validação dos dados fornecidos pelo cidadão eleitor ou deteção de eventual desconformidade do mesmo, de modo a cumprir-se o prazo previsto no n.º 5.
+
+4 - Da manifestação de intenção de votar antecipadamente deve constar a seguinte informação:
+
+a) Nome completo do eleitor;
+
+b) Data de nascimento;
+
+c) Número de identificação civil;
+
+d) Morada;
+
+e) Mesa de voto antecipado em mobilidade onde pretende exercer o seu direito de voto;
+
+f) Endereço de correio eletrónico ou contacto telefónico.
+
+5 - Caso seja detetada alguma desconformidade nos dados fornecidos, o eleitor será contactado pelos serviços do membro do Governo Regional com competência em matéria eleitoral, no prazo de 24 horas, por meio eletrónico ou via postal, com vista ao seu esclarecimento.
+
+6 - Os serviços do membro do Governo Regional com competência em matéria eleitoral comunicam aos presidentes da câmara dos municípios onde os eleitores optaram por essa modalidade de votação a relação nominal destes.
+
+7 - Os serviços do membro do Governo Regional com competência em matéria eleitoral providenciam pelo envio dos boletins de voto aos presidentes das câmaras dos municípios indicados pelos eleitores nos termos do n.º 3.
+
+8 - Para exercer o direito de voto, o eleitor dirige-se à mesa de voto por si escolhida no sétimo dia anterior ao da eleição e identifica-se mediante apresentação do seu documento de identificação civil, indicando o círculo eleitoral e a freguesia onde se encontra recenseado.
+
+9 - O eleitor exerce o direito de voto através de boletim de voto.
+
+10 - O presidente da mesa entrega ao eleitor o boletim de voto correspondente ao seu círculo eleitoral e dois sobrescritos, um de cor branca e outro de cor azul.
+
+11 - O sobrescrito de cor branca destina-se a receber o boletim de voto e o de cor azul a conter o sobrescrito anterior, devendo conter espaços destinados ao preenchimento do nome, número de identificação civil, o círculo eleitoral e a freguesia onde se encontra recenseado.
+
+12 - O eleitor preenche o boletim em condições que garantam o segredo de voto, dobra-o em quatro, introduzindo-o no sobrescrito de cor branca, que fecha adequadamente.
+
+13 - Em seguida, o sobrescrito de cor branca é introduzido no sobrescrito de cor azul, que é então fechado, preenchido de forma legível e selado com uma vinheta de segurança, em modelo a aprovar por despacho do membro do Governo Regional com competência em matéria eleitoral.
+
+14 - O presidente da mesa entrega ao eleitor o duplicado da vinheta aposta no sobrescrito de cor azul, o qual serve de comprovativo do exercício do direito de voto.
+
+15 - Terminadas as operações de votação, a mesa elabora uma ata das operações efetuadas, remetendo-a ao presidente da assembleia de apuramento geral.
+
+16 - Da ata referida no número anterior consta, obrigatoriamente, o número de eleitores que exerceram o direito de voto antecipado, por cada círculo eleitoral, nela se mencionando expressamente o nome do eleitor, o seu número de identificação civil, o círculo eleitoral e a freguesia onde se encontra inscrito, bem como quaisquer ocorrências que dela devam constar nos termos gerais.
+
+17 - No dia seguinte ao do voto antecipado, as forças de segurança procedem à recolha do material eleitoral das mesas de voto em mobilidade, em todo o território nacional, para entrega aos presidentes das câmaras municipais, que providenciam pela sua remessa às juntas de freguesia onde os eleitores se encontram inscritos.
+
+18 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até ao dia e hora previstos no artigo 42.º
+
+> Aditado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+###### Artigo 78.º — Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança, trabalhadores dos transportes e membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva
+
+1 - Qualquer eleitor que esteja nas condições previstas nas alíneas a), b), c) e g) do n.º 1 do artigo anterior pode dirigir-se ao presidente da câmara do município em cuja área se encontre recenseado, entre o 10.º e o 5.º dias anteriores ao da eleição, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
+
+2 - O eleitor identifica-se por forma idêntica à prevista nos n.os 1 e 2 do artigo 96.º e faz prova do impedimento invocado, apresentando documentos autenticados pelo seu superior hierárquico ou pela entidade patronal, consoante os casos.
+
+3 - O presidente da câmara entrega ao eleitor um boletim de voto e dois sobrescritos.
+
+4 - Um dos sobrescritos, de cor branca, destina-se a receber o boletim de voto e o outro, de cor azul, a conter o sobrescrito anterior e o documento comprovativo a que se refere o n.º 2.
+
+5 - O eleitor preenche o boletim em condições que garantam o segredo de voto, dobra-o em quatro, introduzindo-o no sobrescrito de cor branca, que fecha adequadamente.
+
+6 - Em seguida, o sobrescrito de cor branca é introduzido no sobrescrito de cor azul fechado, lacrado e assinado no verso, de forma legível, pelo presidente da câmara municipal e pelo eleitor.
+
+7 - O presidente da câmara municipal entrega ao eleitor recibo comprovativo do exercício do direito de voto de modelo anexo a esta lei, do qual constem o seu nome, residência, número do bilhete de identidade e assembleia de voto a que pertence, bem como o respectivo número de inscrição no recenseamento, sendo o documento assinado pelo presidente da câmara e autenticado com o carimbo ou selo branco do município.
+
+8 - O presidente da câmara municipal elabora uma acta das operações efectuadas, nela mencionando expressamente o nome, o número de inscrição e a freguesia onde o eleitor se encontra inscrito, enviando cópia da mesma à assembleia de apuramento geral.
+
+9 - O presidente da câmara municipal envia, pelo seguro do correio, o sobrescrito azul à mesa da assembleia de voto em que o eleitor deveria exercer o direito de sufrágio, ao cuidado da respectiva junta de freguesia, até ao 4.º dia anterior ao da realização da eleição.
+
+10 - A junta de freguesia remete os votos recebidos ao presidente da mesa da assembleia de voto até à hora prevista no artigo 41.º
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2001-08-30
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2001 - Diário da República n.º 197/2001, Série I-A de 2001-08-25](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2001-515638), em vigor a partir de 2001-08-30
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 79.º — Modo de exercício do direito de voto por estudantes
+
+1 - Qualquer eleitor que esteja nas condições previstas na alínea d) do n.º 1 do artigo 79.º-A pode requerer ao presidente da câmara do município em que se encontre recenseado, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, enviando fotocópias autenticadas do seu bilhete de identidade e do seu cartão de eleitor e juntando documento comprovativo passado pelo estabelecimento de ensino onde se encontre matriculado ou inscrito.
+
+2 - O presidente da câmara envia, por correio registado com aviso de recepção, até ao 17.º dia anterior ao da eleição:
+
+a) Ao eleitor, a documentação necessária ao exercício do direito de voto, acompanhada dos documentos enviados pelo eleitor;
+
+b) Ao presidente da câmara do município onde se encontrem eleitores nas condições definidas no n.º 1, a relação nominal dos referidos eleitores.
+
+3 - O presidente da câmara do município onde se situe o estabelecimento de ensino em que o eleitor se encontre matriculado ou inscrito notifica, até ao 16.º dia anterior ao da eleição, as listas concorrentes à eleição para cumprimento dos fins previstos no n.º 3 do artigo 79.º
+
+4 - A nomeação de delegados das listas deve ser transmitida ao presidente da câmara até ao 14.º dia anterior ao da eleição.
+
+5 - A votação dos estudantes realizar-se-á nos paços do concelho do município em que se situar o respectivo estabelecimento de ensino, no 9.º dia anterior ao da eleição, entre as 9 e as 19 horas, sob a responsabilidade do presidente da câmara municipal, ou vereador por ele designado, cumprindo-se o disposto nos n.os 3, 4, 5, 6, 7 e 8 do artigo 79.º-B.
+
+6 - O presidente da câmara municipal envia, pelo seguro do correio, o sobrescrito azul à mesa da assembleia de voto em que o eleitor deveria exercer o direito de sufrágio, ao cuidado da respectiva junta de freguesia, até ao 7.º dia anterior ao da realização da eleição.
+
+7 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até à hora prevista no artigo 41.º
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 80.º — Modo de exercício do direito de voto antecipado por doentes internados e por presos
+
+1 - Qualquer eleitor que esteja nas condições previstas nas alíneas e) e f) do n.º 1 do artigo 77.º pode requerer ao presidente da câmara do município em que se encontre recenseado, por meios eletrónicos ou por via postal, até ao vigésimo dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, indicando o seu número de identificação civil e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direção do estabelecimento hospitalar, ou emitido pelo diretor do estabelecimento prisional, conforme os casos.
+
+2 - O presidente da câmara envia, por correio registado com aviso de recepção, até ao 17.º dia anterior ao da eleição:
+
+a) Ao eleitor, a documentação necessária ao exercício do direito de voto, acompanhada dos documentos enviados pelo eleitor;
+
+b) Ao presidente da câmara do município onde se encontrem eleitores nas condições definidas no n.º 1, a relação nominal dos referidos eleitores e a indicação dos estabelecimentos hospitalares ou prisionais abrangidos.
+
+3 - O presidente da câmara do município onde se situe o estabelecimento hospitalar ou prisional em que o eleitor se encontre internado notifica, até ao 16.º dia anterior ao da eleição, as listas concorrentes à eleição para cumprimento dos fins previstos no n.º 3 do artigo 79.º, dando conhecimento dos locais onde se realiza o voto antecipado.
+
+4 - A nomeação de delegados das listas deve ser transmitida ao presidente da câmara até ao 14.º dia anterior ao da eleição.
+
+5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara municipal em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se ao mesmo estabelecimento a fim de ser dado cumprimento, com as necessárias adaptações ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os 10 a 18 do artigo 77.º-A.
+
+6 - O presidente da câmara pode excepcionalmente fazer-se substituir, para o efeito da diligência prevista no número anterior, por qualquer vereador do município, devidamente credenciado.
+
+7 - O presidente da câmara municipal envia, pelo seguro do correio, o sobrescrito azul à mesa da assembleia de voto em que o eleitor deveria exercer o direito de sufrágio, ao cuidado da respectiva junta de freguesia, até ao 7.º dia anterior ao da realização da eleição.
+
+8 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até à hora prevista no artigo 41.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 81.º — Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
+
+1 - Qualquer eleitor que esteja nas condições previstas no n.º 2 do artigo 77.º pode exercer o direito de sufrágio entre o 12.º e o 10.º dias anteriores ao acto eleitoral, junto das representações diplomáticas, consulares ou nas delegações externas dos ministérios e instituições portuguesas previamente definidas pelo membro do Governo Regional com competência em matéria eleitoral em coordenação com o Ministério dos Negócios Estrangeiros, nos termos previstos no artigo 77.º, sendo a intervenção do presidente da câmara municipal da competência do funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respectiva.
+
+2 - No caso dos eleitores mencionados nas alíneas a) e b) do n.º 2 do artigo 77.º, o Ministério dos Negócios Estrangeiros, se reconhecer a impossibilidade da sua deslocação aos locais referidos no número anterior, designa um funcionário diplomático, que procede à recolha da correspondência eleitoral, no período acima referido.
+
+3 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelas listas que nomeiem delegados até ao 16.º dia anterior à eleição.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+###### Artigo 82.º — (Unicidade do voto)
+
+A cada eleitor só é permitido votar uma vez.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 83.º — (Direito e dever de votar)
+
+1 - O sufrágio constitui um direito e um dever cívico.
+
+2 - Os responsáveis pelas empresas ou serviços em actividade no dia das eleições devem facilitar aos trabalhadores dispensa do serviço pelo tempo suficiente para o exercício do direito de voto.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 84.º — (Segredo do voto)
+
+1 - Ninguém pode ser, sob qualquer pretexto, obrigado a revelar o seu voto nem, salvo caso de recolha de dados estatísticos não identificáveis, ser perguntado sobre o mesmo por qualquer autoridade.
+
+2 - Dentro da assembleia de voto e fora dela, até à distância de 500 m, ninguém pode revelar em qual lista vai votar ou votou.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 85.º — (Requisitos do exercício do direito de voto)
+
+Para que o eleitor seja admitido a votar deve estar inscrito no caderno eleitoral e ser reconhecida pela mesa a sua identidade.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 86.º — (Local de exercício de sufrágio)
+
+O direito de voto é exercido, em regra, junto da mesa de voto correspondente ao local por onde o eleitor está recenseado, salvo o disposto quanto aos modos de exercício do voto antecipado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 87.º — Informação sobre o local de exercício de sufrágio
+
+Os eleitores podem obter informação sobre o local onde exercer o seu direito de voto na sua junta de freguesia, aberta para esse efeito no dia da eleição, para além de outras formas de acesso à referida informação disponibilizadas pela administração eleitoral.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+#### Secção II — Votação
+
+###### Artigo 88.º — (Abertura da votação)
+
+1 - Constituída a mesa, o presidente declara iniciadas as operações eleitorais, manda afixar o edital a que se refere o n.º 2 do artigo 48.º, procede com os restantes membros da mesa e os delegados das listas à revista da câmara de voto e dos documentos de trabalho da mesa e exibe a urna perante os eleitores, para que todos se possam certificar de que se encontra vazia.
+
+2 - Não havendo nenhuma irregularidade, votam imediatamente o presidente, os vogais e os delegados das listas, desde que se encontrem inscritos nessa assembleia ou secção de voto.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 89.º — Procedimento da mesa, em relação aos votos antecipados
+
+1 - Após terem votado os elementos da mesa e no caso de existirem votos antecipados, o presidente procederá à sua abertura e lançamento na urna, de acordo com o disposto nos números seguintes.
+
+2 - O presidente entrega os sobrescritos azuis aos escrutinadores para verificarem se o eleitor se encontra devidamente inscrito.
+
+3 - Feita a descarga no caderno de recenseamento, o presidente abre o sobrescrito branco e introduz o boletim de voto na urna.
+
+4 - Os eleitores inscritos para o voto antecipado em mobilidade, que não o tenham exercido, podem fazê-lo no dia da eleição nas assembleias de voto do círculo eleitoral onde se encontrem recenseados.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 90.º — (Ordem de votação)
+
+1 - Os eleitores votam pela ordem de chegada à assembleia de voto, dispondo-se para o efeito em fila.
+
+2 - Os presidentes das assembleias ou secções de voto devem permitir que os membros das mesas e delegados de candidatura em outras assembleias ou secções de voto exerçam o seu direito de sufrágio logo que se apresentem e exibam o alvará ou credencial respectivos.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 91.º — (Continuidade das operações eleitorais e encerramento da votação)
+
+1 - A assembleia eleitoral funciona ininterruptamente até serem concluídas todas as operações de votação e apuramento.
+
+2 - A admissão de eleitores na assembleia de voto faz-se até às 19 horas. Depois desta hora apenas podem votar os eleitores presentes.
+
+3 - O presidente declara encerrada a votação logo que tiverem votado todos os eleitores inscritos ou, depois das 19 horas, logo que tiverem votado todos os eleitores presentes na assembleia de voto.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 92.º — (Não realização da votação em qualquer assembleia de voto)
+
+1 - Não pode realizar-se a votação em qualquer assembleia de voto se a mesa não se puder constituir, se ocorrer qualquer tumulto que determine a interrupção das operações eleitorais por mais de três horas ou se na freguesia se registar alguma calamidade no dia marcado para as eleições ou nos três dias anteriores.
+
+2 - Ocorrendo alguma das situações previstas no número anterior aplicar-se-ão, pela respectiva ordem, as regras seguintes:
+
+a) Não realização de nova votação, se o resultado for indiferente para a atribuição dos mandatos;
+
+b) Realização de uma nova votação no mesmo dia da semana seguinte, no caso contrário;
+
+c) Realização do apuramento definitivo sem ter em conta a votação em falta, se se tiver revelado impossível a realização da votação prevista na alínea anterior.
+
+3 - O reconhecimento da impossibilidade definitiva da realização da votação ou o seu adiamento competem ao membro do Governo Regional com competência em matéria eleitoral.
+
+4 - Na realização de nova votação, os membros das mesas podem ser nomeados pelo membro do Governo Regional com competência em matéria eleitoral.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 93.º — (Polícia da assembleia de voto)
+
+1 - Compete ao presidente da mesa, coadjuvado pelos vogais desta, assegurar a liberdade dos eleitores, manter a ordem e, em geral, regular a polícia da assembleia, adoptando para esse efeito as providências necessárias.
+
+2 - Não é admitida na assembleia de voto a presença de pessoas manifestamente embriagadas ou drogadas ou que sejam portadoras de qualquer arma ou instrumento susceptível de como tal ser usado.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 94.º — (Proibição de propaganda)
+
+1 - É proibida qualquer propaganda dentro das assembleias de voto e fora delas até à distância de 500 m.
+
+2 - Por propaganda entende-se também a exibição de símbolos, siglas, sinais, distintivos ou autocolantes de quaisquer listas.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 95.º — (Proibição da presença de não eleitores)
+
+1 - O presidente da assembleia eleitoral deve mandar sair do local onde ela estiver reunida os cidadãos que aí não possam votar, salvo se se tratar de candidatos e mandatários ou delegados das listas.
+
+2 - Exceptuam-se deste princípio os agentes dos órgãos de comunicação social, que podem deslocar-se às assembleias ou secções de voto para obtenção de imagens ou de outros elementos de reportagem.
+
+3 - Os agentes dos órgãos de comunicação social devem:
+
+a) Identificar-se perante a mesa antes de iniciarem a sua actividade, exibindo documento comprovativo da sua profissão e credencial do órgão que representam;
+
+b) Não colher imagens nem de qualquer modo aproximar-se das câmaras de voto a ponto de poderem comprometer o carácter secreto do sufrágio;
+
+c) Não obter outros elementos de reportagem que possam violar o segredo do voto, quer no interior da assembleia de voto, quer no exterior dela, até à distância de 500 m;
+
+d) De um modo geral não perturbar o acto eleitoral.
+
+4 - As imagens ou outros elementos de reportagem obtidos nos termos referidos no número anterior só podem ser transmitidos após o encerramento das assembleias ou secções de voto.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 96.º — (Proibição de presença de força armada e casos em que pode comparecer)
+
+1 - Salvo o disposto nos números seguintes, nos locais onde se reunirem as assembleias de voto, e num raio de 100 m, é proibida a presença de força armada.
+
+2 - Quando for necessário pôr termo a algum tumulto ou obstar a qualquer agressão ou violência, quer dentro do edifício da assembleia ou secção de voto, quer na sua proximidade, ou ainda em caso de desobediência às suas ordens, pode o presidente da mesa, consultada esta, requisitar a presença de força armada, sempre que possível por escrito, ou, no caso de impossibilidade, com menção na acta eleitoral das razões da requisição e do período da presença da força armada.
+
+3 - O comandante da força armada que possua indícios seguros de que se exerce sobre os membros da mesa coacção física ou psíquica que impeça o presidente de fazer a requisição pode intervir por iniciativa própria, a fim de assegurar a genuinidade do processo eleitoral, devendo retirar-se logo que pelo presidente, ou por quem o substitua, lhe seja formulado pedido nesse sentido, ou quando verifique que a sua presença já não se justifica.
+
+4 - Quando o entenda necessário, o comandante da força armada, ou um seu delegado credenciado, pode visitar, desarmado e por um período máximo de dez minutos, a assembleia ou secção de voto, a fim de estabelecer contacto com o presidente da mesa ou com quem o substitua.
+
+5 - Nos casos previstos nos n.os 2 e 3, as operações eleitorais na assembleia ou secção de voto são suspensas, sob pena de nulidade da eleição, até que o presidente da mesa considere verificadas as condições para que possam prosseguir.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 97.º — (Boletins de voto)
+
+1 - Os boletins de voto são de forma rectangular, com as dimensões apropriadas para neles caber a indicação de todas as listas submetidas à votação em cada círculo, e são impressos em papel branco, reciclado, liso e não transparente.
+
+2 - No caso de no mesmo dia se realizarem a eleição do Presidente da República ou dos Deputados da Assembleia da República, os boletins de voto para a eleição dos Deputados da Assembleia Legislativa Regional serão impressos em papel de cor.
+
+3 - Em cada boletim de voto são impressos, de harmonia com o modelo anexo a esta lei, as denominações, as siglas e os símbolos dos partidos e coligações proponentes de candidaturas, dispostos horizontalmente, uns abaixo dos outros, pela ordem resultante do sorteio efectuado nos termos do artigo 31.º, os quais devem reproduzir os constantes do registo ou da anotação do Tribunal Constitucional, conforme os casos, devendo os símbolos respeitar rigorosamente a composição, a configuração e as proporções dos registados ou anotados.
+
+4 - Na linha correspondente a cada partido ou coligação figura um quadrado em branco destinado a ser assinalado com a escolha do eleitor.
+
+5 - São elaboradas matrizes em braille dos boletins de voto, em tudo idênticas a estes e com os espaços correspondentes aos quadrados das listas concorrentes.
+
+6 - A impressão dos boletins de voto e a elaboração das matrizes em braille constituem encargo da Região, através do membro do Governo Regional com competência em matéria eleitoral.
+
+7 - O membro do Governo Regional com competência em matéria eleitoral remete a cada presidente de câmara municipal os boletins de voto e as matrizes em braille para que este cumpra o preceituado no n.º 2 do artigo 54.º
+
+8 - Os boletins de voto, em número igual ao dos eleitores inscritos na assembleia ou secção de voto mais 10 %, bem como as respetivas matrizes em braille, em número não inferior a duas por cada assembleia ou secção de voto e, sempre que possível, em número proporcional à estimativa de eleitores com deficiência visual previamente comunicada pelas juntas de freguesia, são remetidos em sobrescrito fechado e lacrado.
+
+9 - Sempre que possível, as matrizes em braille devem ser produzidas em coordenação com associações de apoio a cidadãos com deficiência visual, com validação de conformidade por estas entidades.
+
+10 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao membro do Governo Regional com competência em matéria eleitoral dos boletins de voto e das matrizes em braille que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe, no dia seguinte ao da eleição, os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores, bem como as matrizes em braille.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2026 - Diário da República n.º 176/2026, Série I de 2026-09-10](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2026-1168979169), em vigor a partir de 2026-09-11.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 98.º — (Modo como vota cada eleitor)
+
+1 - Cada eleitor, apresentando-se perante a mesa, indica o seu nome, entregando ao presidente o seu documento de identificação civil, se o tiver.
+
+2 - Na falta de documento de identificação civil, a identificação do eleitor faz-se por meio de qualquer outro documento que contenha fotografia atualizada e que seja geralmente utilizado para identificação, ou através de dois cidadãos eleitores que atestem, sob compromisso de honra, a sua identidade, ou ainda por reconhecimento unânime dos membros da mesa.
+
+3 - Identificado o eleitor, o presidente diz em voz alta o seu nome e número de identificação civil e, depois de verificada a inscrição, entrega-lhe um boletim de voto.
+
+4 - Sempre que o eleitor requerer uma matriz do boletim de voto em braille, esta é-lhe entregue sobreposta ao boletim de voto para que possa proceder à sua leitura e expressar o seu voto com uma cruz no recorte do quadrado da lista correspondente à sua opção de voto.
+
+5 - A matriz deve estar previamente desinfetada e colocada num envelope individual reutilizável para garantir higiene e integridade.
+
+6 - Em seguida, o eleitor entra na câmara de voto situada na assembleia e aí, sozinho, marca uma cruz no quadrado respectivo da lista em que vota e dobra o boletim em quatro.
+
+7 - Voltando para junto da mesa, o eleitor entrega o boletim ao presidente, que o introduz na urna, enquanto os escrutinadores descarregam o voto, rubricando os cadernos eleitorais na coluna a isso destinada e na linha correspondente ao nome do eleitor.
+
+8 - Após votar, o eleitor que tenha requerido uma matriz do boletim de voto em braille devolve-a à mesa.
+
+9 - A mesa de voto é responsável pela higienização e guarda da matriz após cada utilização, até ao encerramento do ato eleitoral.
+
+10 - Se, por inadvertência, o eleitor deteriorar o boletim, deve pedir outro ao presidente, devolvendo-lhe o primeiro.
+
+11 - O presidente escreve no boletim devolvido a nota de inutilizado, rubrica-o e conserva-o para os efeitos do n.º 10 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2026 - Diário da República n.º 176/2026, Série I de 2026-09-10](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2026-1168979169), em vigor a partir de 2026-09-11.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 99.º — Voto dos eleitores com deficiência
+
+1 - O eleitor afectado por doença ou deficiência física notórias, que a mesa verifica não poder praticar os actos descritos no artigo 98.º, vota acompanhado de outro eleitor por si escolhido, que garanta a fidelidade de expressão do seu voto e que fica obrigado a sigilo absoluto.
+
+2 - Se a mesa deliberar que não se verifica a notoriedade da doença ou deficiência física, exige que lhe seja apresentado no acto de votação atestado comprovativo da impossibilidade da prática dos actos referidos no número anterior, emitido pelo médico que exerça poderes de autoridade sanitária na área do município e autenticado com selo do respectivo serviço.
+
+3 - Para efeitos do número anterior, devem os centros de saúde manter-se abertos no dia da eleição, durante o período de funcionamento das assembleias eleitorais.
+
+4 - Sem prejuízo da decisão da mesa sobre a admissibilidade do voto, qualquer dos respectivos membros ou dos delegados dos partidos políticos ou coligação pode lavrar protesto.
+
+5 - Os eleitores com deficiência visual podem, caso o pretendam, requerer à mesa a disponibilização de matriz do boletim de voto em braille que lhes permita, sozinhos, praticar os atos descritos no artigo 98.º
+
+6 - Os presidentes de mesa devem anunciar, no início do ato eleitoral, a existência de matrizes do boletim de voto em braille disponíveis para consulta e utilização no interior da assembleia ou secção de voto.
+
+7 - Os membros das mesas de voto devem receber formação prévia sobre o manuseamento e disponibilização das matrizes do boletim de voto em braille, bem como sobre a comunicação acessível a pessoas com deficiência visual.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2026 - Diário da República n.º 176/2026, Série I de 2026-09-10](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2026-1168979169), em vigor a partir de 2026-09-11.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 100.º — (Voto em branco ou nulo)
+
+1 - Considera-se voto em branco o do boletim de voto que não tenha sido objecto de qualquer tipo de marca.
+
+2 - Considera-se voto nulo o do boletim de voto:
+
+a) No qual tenha sido assinalado mais de um quadrado ou quando haja dúvidas sobre qual o quadrado assinalado;
+
+b) No qual tenha sido assinalado o quadrado correspondente a uma lista que tenha desistido das eleições ou não tenha sido admitida;
+
+c) No qual tenha sido feito qualquer corte, desenho ou rasura ou quando tenha sido escrita qualquer palavra.
+
+3 - Não se considera voto nulo o do boletim de voto no qual a cruz, embora não perfeitamente desenhada ou excedendo os limites do quadrado, assinale inequivocamente a vontade do eleitor.
+
+4 - Considera-se ainda como voto nulo o voto antecipado quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 77.º-A a 81.º ou seja recebido em sobrescrito que não esteja devidamente fechado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 9/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2000-580786), em vigor a partir de 2000-07-15
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 101.º — (Dúvidas, reclamações, protestos e contraprotestos)
+
+1 - Qualquer eleitor inscrito na assembleia de voto ou qualquer dos delegados das listas pode suscitar dúvidas e apresentar, por escrito, reclamação, protesto ou contraprotesto relativos às operações eleitorais da mesma assembleia e instruí-los com os documentos convenientes.
+
+2 - A mesa não pode negar-se a receber as reclamações, os protestos e os contraprotestos, devendo rubricá-los e apensá-los às actas.
+
+3 - As reclamações, os protestos e os contraprotestos têm de ser objecto de deliberação da mesa, que pode tomá-la no final, se entender que isso não afecta o andamento normal da votação.
+
+4 - Todas as deliberações da mesa são tomadas por maioria absoluta dos membros presentes e fundamentadas, tendo o presidente voto de desempate.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+### Capítulo II — Apuramento
+
+#### Secção I — Apuramento parcial
+
+###### Artigo 102.º — (Operação preliminar)
+
+1 - Encerrada a votação, o presidente da assembleia ou secção de voto procede à contagem dos boletins que não foram utilizados e dos que foram inutilizados pelos eleitores e encerra-os em sobrescrito próprio, que fecha e lacra para o efeito do n.º 10 do artigo 97.º
+
+2 - De igual modo, as matrizes em braille, utilizadas ou não, devem ser contabilizadas, higienizadas e acondicionadas em sobrescrito próprio.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2026 - Diário da República n.º 176/2026, Série I de 2026-09-10](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2026-1168979169), em vigor a partir de 2026-09-11.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 103.º — (Contagem dos votantes e dos boletins de voto)
+
+1 - Encerrada a operação preliminar, o presidente da assembleia ou secção de voto manda contar os votantes pelas descargas efectuadas nos cadernos eleitorais.
+
+2 - Concluída essa contagem, o presidente manda abrir a urna, a fim de conferir o número de boletins de voto entrados e, no fim da contagem, volta a introduzi-los nela.
+
+3 - Em caso de divergência entre o número de votantes apurados nos termos do n.º 1 e dos boletins de voto contados, prevalece, para efeitos de apuramento, o segundo destes números.
+
+4 - É dado imediato conhecimento público do número de boletins de voto através de edital, que, depois de lido em voz alta pelo presidente, é afixado à porta principal da assembleia ou secção de voto.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 104.º — (Contagem dos votos)
+
+1 - Um dos escrutinadores desdobra os boletins, um a um, e anuncia em voz alta qual a lista votada. O outro escrutinador regista numa folha branca ou, de preferência, num quadro bem visível, e separadamente, os votos atribuídos a cada lista, os votos em branco e os votos nulos.
+
+2 - Simultaneamente, os boletins de voto são examinados e exibidos pelo presidente, que, com a ajuda de um dos vogais, os agrupa em lotes separados, correspondentes a cada uma das listas votadas, aos votos em branco e aos votos nulos.
+
+3 - Terminadas essas operações, o presidente procede à contraprova da contagem, pela contagem dos boletins de cada um dos lotes separados.
+
+4 - Os delegados das listas têm o direito de examinar depois os lotes dos boletins separados, sem alterar a sua composição, e, no caso de terem dúvidas ou objecções em relação à contagem ou qualificação dada ao voto de qualquer boletim, têm o direito de solicitar esclarecimento ou apresentar reclamações ou protestos perante o presidente.
+
+5 - Se a reclamação ou protesto não forem atendidos pela mesa, os boletins de voto reclamados ou protestados são separados, anotados no verso, com a indicação da qualificação dada pela mesa e do objecto da reclamação ou do protesto e rubricados pelo presidente e, se o desejar, pelo delegado da lista.
+
+6 - A reclamação ou protesto não atendidos não impedem a contagem do boletim de voto para efeitos de apuramento parcial.
+
+7 - O apuramento assim efectuado é imediatamente publicado por edital afixado à porta principal do edifício da assembleia ou secção de voto, em que se discriminam o número de votos de cada lista, o número de votos em branco e o de votos nulos.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 105.º — (Destino dos boletins de voto nulos ou objecto de reclamação ou protesto)
+
+Os boletins de voto nulos e aqueles sobre os quais haja reclamação ou protesto são, depois de rubricados, remetidos à assembleia de apuramento geral, com os documentos que lhes digam respeito.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 106.º — (Destino dos restantes boletins)
+
+1 - Os restantes boletins de voto são colocados em pacotes devidamente lacrados e confiados à guarda do juiz de direito da comarca.
+
+2 - Esgotado o prazo para interposição dos recursos contenciosos ou decididos definitivamente estes, o juiz promove a destruição dos boletins.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Alterado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 107.º — (Acta das operações eleitorais)
+
+1 - Compete ao secretário proceder à elaboração da acta das operações de votação e apuramento.
+
+2 - Da acta devem constar:
+
+a) Os números de identificação civil e os nomes dos membros da mesa e dos delegados das listas;
+
+b) A hora de abertura e encerramento da votação e o local da assembleia ou secção de voto;
+
+c) As deliberações tomadas pela mesa durante as operações;
+
+d) O número total de eleitores inscritos e o de votantes;
+
+e) O número de identificação civil dos eleitores que votaram antecipadamente;
+
+f) O número de votos obtidos por cada lista, o de votos em branco e o de votos nulos;
+
+g) O número de boletins de voto sobre os quais haja incidido reclamação ou protesto;
+
+h) As divergências de contagem, se as houver, a que se refere o n.º 3 do artigo 103.º, com indicação precisa das diferenças notadas;
+
+i) O número de reclamações, protestos e contraprotestos apensos à acta;
+
+j) Quaisquer outras ocorrências que a mesa julgar dever mencionar.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1-B/2020 - Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556), em vigor a partir de 2020-08-22
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 108.º — (Envio à assembleia de apuramento geral)
+
+Nas vinte e quatro horas seguintes à votação, os presidentes das assembleias ou secções de voto entregam ao presidente da assembleia de apuramento geral ou remetem pelo seguro do correio, ou por próprio, que cobra recibo de entrega, as actas, os cadernos e demais documentos respeitantes à eleição.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+#### Secção II — Apuramento geral
+
+###### Artigo 109.º — (Apuramento geral dos círculos)
+
+O apuramento dos resultados da eleição em cada círculo eleitoral e a proclamação dos candidatos eleitos competem a uma assembleia de apuramento geral, que inicia os seus trabalhos às 9 horas do 2.º dia posterior ao da eleição, no edifício sede dos serviços do membro do Governo Regional com competência em matéria eleitoral.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 110.º — (Assembleia de apuramento geral)
+
+1 - A assembleia de apuramento geral será composta por:
+
+a) O juiz presidente do Círculo Judicial de Ponta Delgada, que presidirá com voto de qualidade;
+
+b) Dois juristas escolhidos pelo presidente;
+
+c) Dois professores de Matemática que leccionem na Região, designados pelo membro do Governo Regional com competência em matéria de educação;
+
+d) Nove presidentes de assembleia de voto, designados pelo membro do Governo Regional com competência em matéria eleitoral;
+
+e) O secretário judicial da Secretaria Judicial do Tribunal de Ponta Delgada, que servirá de secretário, sem voto.
+
+2 - A assembleia deve estar constituída até à antevéspera da eleição, dando-se imediato conhecimento público dos nomes dos cidadãos que a compõem, através de edital a afixar à porta do membro do Governo Regional com competência em matéria eleitoral. As designações previstas nas alíneas c) e d) do número anterior deverão ser comunicadas ao presidente até três dias antes da eleição.
+
+3 - Os candidatos e os mandatários das listas podem assistir, sem voto, mas com direito de reclamação protesto ou contraprotesto, aos trabalhos da assembleia de apuramento geral.
+
+4 - Os cidadãos que façam parte da assembleia de apuramento geral são dispensados do dever de comparência ao respectivo emprego ou serviço durante o período de funcionamento daquela, sem prejuízo de todos os seus direitos ou regalias, incluindo o direito à retribuição, desde que provem o exercício de funções através de documento assinado pelo presidente da assembleia.
+
+5 - No caso de realização simultânea de eleição do Presidente da República ou da Assembleia da República, presidirá à assembleia de apuramento geral o juiz da comarca da sede dos serviços do membro do Governo Regional com competência em matéria eleitoral e servirá de secretário o respectivo secretário judicial.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 111.º — (Elementos do apuramento geral)
+
+1 - O apuramento geral é feito com base nas actas das operações das assembleias de voto, nos cadernos eleitorais e demais documentos que os acompanharem.
+
+2 - Se faltarem os elementos de alguma das assembleias de voto, o apuramento inicia-se com base nos elementos já recebidos, designando o presidente nova reunião, dentro das quarenta e oito horas seguintes, para se concluírem os trabalhos, tomando, entretanto, as providências necessárias para que a falta seja reparada.
+
+3 - O apuramento geral pode basear-se em correspondência por telecópia transmitida pelos presidentes das câmaras municipais.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 112.º — (Operação preliminar)
+
+1 - No início dos seus trabalhos a assembleia de apuramento decide sobre os boletins de voto em relação aos quais tenha havido reclamação ou protesto, corrigindo, se for caso disso, o apuramento da respectiva assembleia de voto.
+
+2 - A assembleia verifica os boletins de voto considerados nulos e, reapreciados estes segundo um critério uniforme, corrige, se for caso disso, o apuramento em cada uma das assembleias de voto.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 113.º — (Operações do apuramento geral)
+
+O apuramento geral consiste:
+
+a) Na verificação do número total de eleitores inscritos e de votantes em cada círculo eleitoral;
+
+b) Na verificação, em cada círculo, do número total de votos obtidos por cada lista, do número de votos em branco e do número de votos nulos;
+
+c) Na distribuição de mandatos de Deputados pelas diversas listas em cada círculo;
+
+d) Na determinação, em cada círculo, dos candidatos eleitos por cada lista.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 114.º — Termo do apuramento geral
+
+1 - O apuramento geral estará concluído até ao 10.º dia posterior à eleição, sem prejuízo do disposto no número seguinte.
+
+2 - Em caso de adiamento ou declaração de nulidade da votação em qualquer assembleia ou secção de voto, a assembleia de apuramento geral reunirá no dia seguinte ao da votação ou ao do reconhecimento da sua impossibilidade, nos termos do n.º 3 do artigo 90.º, para completar as operações de apuramento do círculo.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 115.º — (Proclamação e publicação dos resultados)
+
+Os resultados do apuramento geral são proclamados pelo presidente e, em seguida, publicados por meio de edital afixado à porta do edifício do membro do Governo Regional com competência em matéria eleitoral.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 116.º — (Acta do apuramento geral)
+
+1 - Do apuramento geral é imediatamente lavrada acta, donde constem os resultados das respectivas operações, as reclamações, os protestos e os contraprotestos apresentados de harmonia com o disposto no n.º 3 do artigo 110.º e as decisões que sobre eles tenham recaído.
+
+2 - Nos dois dias posteriores àquele em que se concluiu o apuramento geral, o presidente envia, por seguro do correio ou por próprio, contra recibo, dois exemplares da acta à Comissão Nacional de Eleições e ao membro do Governo Regional com competência em matéria eleitoral.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 117.º — (Destino da documentação)
+
+1 - Os cadernos eleitorais e demais documentação presente à assembleia de apuramento geral são entregues ao membro do Governo Regional com competência em matéria eleitoral, que os conserva e guarda sob sua responsabilidade.
+
+2 - Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o membro do Governo Regional com competência em matéria eleitoral remete às comissões de recenseamento os cadernos de recenseamento das freguesias respectivas e procede à destruição dos restantes documentos, com excepção das actas das assembleias eleitorais.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 118.º — (Mapa nacional da eleição)
+
+Nos oito dias subsequentes à recepção da acta do apuramento geral, a Comissão Nacional de Eleições elabora e faz publicar no Diário da República, 1.ª série, um mapa oficial com o resultado das eleições, de que conste:
+
+a) Número dos eleitores inscritos, por círculos e total;
+
+b) Número de votantes, por círculos e total;
+
+c) Número de votos em branco, por círculos e total;
+
+d) Número de votos nulos, por círculos e total;
+
+e) Número, com a respectiva percentagem, de votos atribuídos a cada partido ou coligação, por círculos e total;
+
+f) Número de mandatos atribuídos a cada partido ou coligação, por círculos e total;
+
+g) Nomes dos Deputados eleitos, por círculos e por partidos ou coligações.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 119.º — (Certidão ou fotocópia do apuramento)
+
+Aos candidatos e aos mandatários de cada lista proposta à eleição, bem como, se o requerer, a qualquer partido, ainda que não tenha apresentado candidatos, são passadas pelo membro do Governo Regional com competência em matéria eleitoral certidões ou fotocópias da acta do apuramento geral.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+### Capítulo III — Contencioso eleitoral
+
+###### Artigo 120.º — (Recurso contencioso)
+
+1 - As irregularidades ocorridas no decurso da votação e no apuramento parcial e geral podem ser apreciadas em recurso contencioso, desde que hajam sido objecto de reclamação ou protesto apresentado no acto em que se verificaram.
+
+2 - Da decisão sobre a reclamação ou protesto podem recorrer, além do apresentante da reclamação, do protesto ou do contraprotesto, os candidatos os seus mandatários e os partidos políticos que, no círculo, concorrem à eleição.
+
+3 - A petição específica quais os fundamentos de facto e de direito do recurso e é acompanhada de todos os elementos de prova, incluindo fotocópia da acta da assembleia em que a irregularidade tiver ocorrido.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 121.º — Tribunal competente, processo e prazos
+
+1 - O recurso é interposto no prazo de vinte e quatro horas a contar da afixação do edital a que se refere o artigo 115.º, perante o Tribunal Constitucional, sendo aplicável o disposto no n.º 2 do artigo 35.º
+
+2 - O Presidente do Tribunal Constitucional manda notificar imediatamente os mandatários das listas concorrentes no círculo em causa para que estes, os candidatos e os partidos políticos respondam, querendo, no prazo de vinte e quatro horas.
+
+3 - Nas quarenta e oito horas subsequentes ao termo do prazo previsto no número anterior, o Tribunal Constitucional, em plenário, decide definitivamente do recurso, comunicando imediatamente a decisão à Comissão Nacional de Eleições e ao membro do Governo Regional com competência em matéria eleitoral.
+
+> Nota: [Lei n.º 28/82 - Diário da República n.º 264/1982, Série I de 1982-11-15](https://diariodarepublica.pt/dr/detalhe/lei/28-1982-377508) Atribuídas ao Tribunal Constitucional as competências dos tribunais da relação previstas no n.º 1 do presente artigo.
+
+> Republicado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 122.º — (Nulidade das eleições)
+
+1 - A votação em qualquer assembleia de voto e a votação em todo o círculo só são julgadas nulas quando se hajam verificado ilegalidades que possam influir no resultado final do círculo.
+
+2 - Declarada a nulidade da eleição de uma assembleia de voto ou de todo o círculo, os actos eleitorais correspondentes são repetidos no 2.º domingo posterior à decisão.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 123.º — (Verificação de poderes)
+
+1 - A Assembleia Legislativa da Região Autónoma dos Açores verifica os poderes dos candidatos proclamados eleitos.
+
+2 - Para efeitos do número anterior, o membro do Governo Regional com competência em matéria eleitoral envia à Assembleia Legislativa da Região Autónoma dos Açores um exemplar da acta de apuramento geral.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+## Título VI — Ilícito eleitoral
+
+### Capítulo I — Princípios gerais
+
+###### Artigo 124.º — (Concorrência com crimes mais graves e responsabilidade disciplinar)
+
+1 - As sanções cominadas nesta lei não excluem a aplicação de outras mais graves pela prática de qualquer crime previsto na legislação penal.
+
+2 - As infracções previstas nesta lei constituem também falta disciplinar quando cometidas por agente sujeito a essa responsabilidade.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 125.º — (Circunstâncias agravantes gerais)
+
+Para além das previstas na lei penal, constituem circunstâncias agravantes gerais do ilícito eleitoral:
+
+a) O facto de a infracção influir no resultado da votação;
+
+b) O facto de a infracção ser cometida por membro da mesa de assembleia ou secção de voto ou agente da administração eleitoral;
+
+c) O facto de o agente ser candidato, delegado de partido político ou mandatário de lista.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 126.º — (Punição da tentativa e do crime frustrado)
+
+A tentativa e o crime frustrado são punidos da mesma forma que o crime consumado.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 127.º — (Não suspensão ou substituição das penas)
+
+As penas aplicadas por infracções eleitorais dolosas não podem ser suspensas nem substituídas por qualquer outra pena.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 128.º — Prescrição
+
+O procedimento por infracções eleitorais prescreve no prazo de um ano a contar da prática do facto punível.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 129.º — (Constituição dos partidos políticos como assistentes)
+
+Qualquer partido político pode constituir-se assistente nos processos por infracções criminais eleitorais cometidas na área dos círculos em que haja apresentado candidatos.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 224/1980, Série I de 1980-09-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-461657)
+
+### Capítulo II — Infracções eleitorais
+
+#### Secção I — Infracções relativas à apresentação de candidaturas
+
+###### Artigo 130.º — (Candidatura de cidadão inelegível)
+
+Aquele que, não tendo capacidade eleitoral passiva, dolosamente aceitar a sua candidatura é punido com prisão de 6 meses a 2 anos e multa de (euro) 1000 a (euro) 10000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+#### Secção II — Infracções relativas à campanha eleitoral
+
+###### Artigo 131.º — (Violação de deveres de neutralidade e imparcialidade)
+
+Os cidadãos abrangidos pelo artigo 59.º que infringirem os deveres de neutralidade e imparcialidade aí prescritos são punidos com prisão até 1 ano e multa de (euro) 500 a (euro) 2000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 9/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2000-580786), em vigor a partir de 2000-07-15
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 132.º — (Utilização indevida de denominação, sigla ou símbolo)
+
+Aquele que durante a campanha eleitoral utilizar a denominação, a sigla ou o símbolo do partido ou coligação com o intuito de o prejudicar ou injuriar é punido com prisão até 1 ano e multa de (euro) 100 a (euro) 500.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 133.º — (Utilização de publicidade comercial)
+
+Aquele que infringir o disposto no artigo 73.º é punido com multa de (euro) 1000 a (euro) 10000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 134.º — Violação dos deveres das estações de rádio e televisão
+
+1 - O não cumprimento dos deveres impostos pelos artigos 63.º e 64.º constitui contra-ordenação, sendo cada infracção punível com coima:
+
+a) De (euro) 37500 a (euro) 125000, no caso das estações de rádio;
+
+b) De (euro) 125000 a (euro) 250000, no caso da estação de televisão.
+
+2 - Compete à Comissão Nacional de Eleições a aplicação das coimas previstas no n.º 1.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 135.º — Suspensão do direito de antena
+
+1 - É suspenso o exercício do direito de antena da candidatura que:
+
+a) Use expressões ou imagens que possam constituir crime de difamação ou injúria, ofensa às instituições democráticas, apelo à desordem ou à insurreição ou incitamento ao ódio, à violência ou à guerra;
+
+b) Faça publicidade comercial.
+
+2 - A suspensão é graduada entre um dia e o número de dias que a campanha ainda durar, consoante a gravidade da falta e o seu grau de frequência, e abrange o exercício do direito de antena em todas as estações de rádio e televisão, mesmo que o facto que a determinou se tenha verificado apenas numa delas.
+
+3 - A suspensão é independente da responsabilidade civil ou criminal.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 136.º — Processo de suspensão do exercício do direito de antena
+
+1 - A suspensão do exercício do direito de antena é requerida ao Tribunal Constitucional pelo Ministério Público, por iniciativa deste ou a solicitação da Comissão Nacional de Eleições ou de qualquer outro partido ou coligação interveniente.
+
+2 - O órgão competente da candidatura cujo direito de antena tenha sido objecto de pedido de suspensão é imediatamente notificado por telecópia para contestar, querendo, no prazo de vinte e quatro horas.
+
+3 - O Tribunal Constitucional requisita às estações de rádio ou de televisão os registos das emissões que se mostrarem necessários, os quais lhe são imediatamente facultados.
+
+4 - O Tribunal Constitucional decide no prazo de um dia e, no caso de ordenar a suspensão do direito de antena, notifica logo a decisão às respectivas estações de rádio e de televisão para cumprimento imediato.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 224/1980, Série I de 1980-09-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-461657)
+
+###### Artigo 137.º — (Violação da liberdade de reunião eleitoral)
+
+Aquele que impedir a realização ou o prosseguimento de reunião, comício, cortejo ou desfile de propaganda eleitoral é punido com prisão de 6 meses a 1 ano e multa de (euro) 100 a (euro) 1000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 138.º — (Reuniões, comícios, desfiles ou cortejos ilegais)
+
+Aquele que promover reuniões, comícios, desfiles ou cortejos em contravenção com o disposto no artigo 61.º é punido com prisão até 6 meses.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 139.º — (Violação de deveres dos proprietários de salas de espectáculos e dos que as explorem)
+
+O proprietário de sala de espectáculos ou aquele que a explore que não cumprir os deveres impostos pelo n.º 2 do artigo 66.º e pelo artigo 70.º é punido com prisão até 6 meses e multa de (euro) 1000 a (euro) 5000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 140.º — (Violação dos limites da propaganda gráfica e sonora)
+
+Aquele que violar o disposto no n.º 4 do artigo 67.º é punido com multa de (euro) 50 a (euro) 250.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 141.º — (Dano em material de propaganda eleitoral)
+
+1 - Aquele que roubar, furtar, destruir, rasgar ou por qualquer forma inutilizar, no todo ou em parte, ou tornar ilegível o material de propaganda eleitoral afixado ou o desfigurar, ou colocar por cima dele qualquer material com o fim de o ocultar, é punido com prisão até 6 meses e multa de (euro) 100 a (euro) 1000.
+
+2 - Não serão punidos os factos previstos no número anterior se o material de propaganda houver sido afixado na própria casa ou estabelecimento do agente sem o seu consentimento ou contiver matéria francamente desactualizada.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 142.º — (Desvio de correspondência)
+
+O empregado dos correios que desencaminhar, retiver ou não entregar ao destinatário circulares, cartazes ou papéis de propaganda eleitoral de qualquer lista é punido com prisão até 1 ano e multa de (euro) 50 a (euro) 500.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 143.º — (Propaganda depois de encerrada a campanha eleitoral)
+
+1 - Aquele que no dia da eleição ou no anterior fizer propaganda eleitoral por qualquer meio é punido com prisão até 6 meses e multa de (euro) 50 a (euro) 500.
+
+2 - Aquele que no dia da eleição fizer propaganda nas assembleias de voto ou nas suas imediações até 500 m é punido com prisão até 6 meses e multa de (euro) 100 a (euro) 1000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+#### Secção III — Infracções relativas à eleição
+
+###### Artigo 144.º — (Violação do direito de voto)
+
+1 - Aquele que, não possuindo capacidade eleitoral, se apresentar a votar é punido com multa de (euro) 50 a (euro) 500.
+
+2 - Se o fizer fraudulentamente, tomando a identidade de cidadão inscrito, é punido com prisão de 6 meses a 2 anos e multa de (euro) 200 a (euro) 2000.
+
+3 - Aquele que dolosamente violar o disposto no artigo 76.º é punido com prisão de 6 meses a 2 anos e multa de (euro) 50 a (euro) 200.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 145.º — (Admissão ou exclusão abusiva do voto)
+
+Aquele que concorrer para que seja admitido a votar quem não tem esse direito ou para a exclusão de quem o tiver e, bem assim, o médico que atestar falsamente uma impossibilidade de exercício do direito de voto são punidos com prisão até 2 anos e multa de (euro) 100 a (euro) 1000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 146.º — (Impedimento do sufrágio por abuso de autoridade)
+
+O agente de autoridade que dolosamente, no dia das eleições, sob qualquer pretexto, fizer sair do seu domicílio ou permanecer fora dele qualquer eleitor para que não possa ir votar é punido com prisão até 2 anos e multa de (euro) 500 a (euro) 2000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 147.º — (Mandatário infiel)
+
+Aquele que acompanhar eleitor afectado por doença ou deficiência física notórias a votar e com dolo exprimir infielmente a sua vontade é punido com prisão de 6 meses a 2 anos e multa de (euro) 500 a (euro) 2000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 148.º — (Abuso de funções públicas ou equiparadas)
+
+O cidadão investido de poder público, o funcionário ou agente do Estado ou de outra pessoa colectiva pública e o ministro de qualquer culto que, abusando das suas funções ou no exercício das mesmas, se servir delas para constranger ou induzir os eleitores a votar em determinada ou determinadas listas, ou a abster-se de votar nelas, são punidos com prisão de 6 meses a 2 anos e multa de (euro) 1000 a (euro) 10000.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 149.º — (Não exibição da urna)
+
+1 - O presidente da mesa de assembleia ou secção de voto que não exibir a urna perante os eleitores antes do início da votação é punido com multa de (euro) 100 a (euro) 1000.
+
+2 - Se se verificar que na urna não exibida se encontravam boletins de voto, o presidente é também punido com pena de prisão até 6 meses, sem prejuízo do disposto no artigo seguinte.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 150.º — (Introdução do boletim na urna e desvio desta ou de boletins de voto)
+
+Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois do início da votação, se apoderar da urna com os boletins de voto nela recolhidos mas ainda não apurados ou se apoderar de um ou mais boletins de voto em qualquer momento, desde a abertura da assembleia eleitoral até ao apuramento geral da eleição, é punido com prisão de 6 meses a 2 anos e multa de (euro) 2000 a (euro) 20000.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 151.º — Desvio de voto antecipado
+
+Quem desencaminhar, retiver ou não entregar à junta de freguesia voto antecipado, nos casos previstos nesta lei, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+###### Artigo 152.º — (Fraudes da mesa de assembleia de voto e da assembleia de apuramento geral)
+
+1 - O membro da mesa da assembleia ou secção de voto que dolosamente apuser ou consentir que se aponha nota de descarga em eleitor que não votar ou que não a apuser em eleitor que votou, que trocar na leitura dos boletins de voto a lista votada, que diminuir ou aditar votos a uma lista no apuramento ou que por qualquer modo falsear a verdade da eleição é punido com prisão de 6 meses a 2 anos e multa de (euro) 2000 a (euro) 10000.
+
+2 - As mesmas penas são aplicadas ao membro da assembleia de apuramento geral que cometer qualquer dos actos previstos no número anterior.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 153.º — (Obstrução à fiscalização)
+
+1 - Aquele que impedir a entrada ou saída de qualquer dos delegados das listas nas assembleias eleitorais ou que por qualquer modo tentar opor-se a que eles exerçam todos os poderes que lhes são conferidos pela presente lei será punido com pena de prisão.
+
+2 - Se se tratar do presidente da mesa, a pena não será, em qualquer caso, inferior a seis meses.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 154.º — (Recusa de receber reclamações, protestos ou contraprotestos)
+
+O presidente da mesa da assembleia eleitoral que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto é punido com prisão até 1 ano e multa de (euro) 100 a (euro) 500.
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 155.º — (Não comparência da força armada)
+
+Sempre que seja necessária a presença de força armada nos casos previstos no n.º 2 do artigo 96.º, o comandante da mesma é punido com pena de prisão até 1 ano se injustificadamente não comparecer.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 156.º — (Não cumprimento do dever de participação no processo eleitoral)
+
+Aquele que for nomeado para fazer parte da mesa da assembleia eleitoral e, sem motivo justificado, não assumir ou abandonar essas funções é punido com multa de (euro) 100 a (euro) 2000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 157.º — (Denúncia caluniosa)
+
+Aquele que dolosamente imputar a outrem, sem fundamento, a prática de qualquer infracção prevista na presente lei será punido com as penas aplicáveis à denúncia caluniosa.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 158.º — (Reclamação e recurso de má fé)
+
+Aquele que, com má fé, apresentar reclamação, recurso, protesto ou contraprotesto, ou que impugnar decisões dos órgãos eleitorais através de recurso manifestamente infundado, é punido com multa de (euro) 50 a (euro) 1000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 159.º — (Não cumprimento de outras obrigações impostas por lei)
+
+Aquele que não cumprir quaisquer obrigações que lhe sejam impostas pela presente lei ou não praticar os actos administrativos necessários para a sua pronta execução ou ainda retardar injustificadamente o seu cumprimento é, na falta de incriminação prevista nos artigos anteriores, punido com multa de (euro) 100 a (euro) 1000.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+## Título VII — Violação do princípio da paridade
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 4/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447), em vigor a partir de 2015-03-17
+
+###### Artigo 159.º-A — Efeitos da não correção das listas não paritárias
+
+A não correção das listas de candidatura não paritárias no prazo previsto no artigo 28.º determina a rejeição de toda a lista.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2026 - Diário da República n.º 176/2026, Série I de 2026-09-10](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2026-1168979169), em vigor a partir de 2026-09-11.
+
+> Aditado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 4/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447), em vigor a partir de 2015-03-17
+
+###### Artigo 159.º-B — Deveres de divulgação
+
+As listas que, não respeitando a paridade tal como definida no artigo 15.º-A, não sejam corrigidas nos termos do disposto no artigo 28.º são afixadas à porta do edifício do tribunal respetivo com a indicação de que contêm irregularidades por violação do princípio da paridade e comunicadas, no prazo de quarenta e oito horas, à Comissão Nacional de Eleições.
+
+> Aditado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 4/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447), em vigor a partir de 2015-03-17
+
+###### Artigo 159.º-C — Divulgação na Internet pela Comissão Nacional de Eleições
+
+1 - A Comissão Nacional de Eleições assegura, no prazo de quarenta e oito horas após a receção da comunicação prevista no artigo anterior, a divulgação através do seu sítio na Internet das listas de candidatura que não respeitem o princípio da paridade tal como definido no artigo 15.º-A.
+
+2 - As listas de candidatura divulgadas nos termos do número anterior são agrupadas sob a identificação dos respetivos proponentes.
+
+> Aditado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 4/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447), em vigor a partir de 2015-03-17
+
+###### Artigo 159.º-D — Redução da subvenção para as campanhas eleitorais
+
+1 - Os partidos ou coligações, conforme o caso, que violem o disposto no n.º 2 do artigo 15.º-A, sofrem uma redução na participação nos 80 % da subvenção pública para as campanhas eleitorais previstas no n.º 2 do artigo 18.º da Lei n.º 19/2003, de 20 de junho, alterada pelo Decreto-Lei n.º 287/2003, de 12 de novembro, e pelas Leis n.os 64-A/2008, de 31 de dezembro, 55/2010, de 24 de dezembro, e 1/2013, de 3 de janeiro, nos seguintes termos:
+
+a) Se um dos sexos estiver representado na lista de candidatura em percentagem inferior a 20 %, é reduzida a participação naquela subvenção pública em 50 %;
+
+b) Se um dos sexos estiver representado na lista de candidatura em percentagem igual ou superior a 20 % e inferior a 33,3 %, é reduzida a participação naquela subvenção pública em 25 %.
+
+2 - Os partidos ou coligações, conforme o caso, que violem o disposto no n.º 3 do artigo 15.º-A, sofrem uma redução de 50 % na participação nos 80 % da subvenção pública para as campanhas eleitorais a que teriam direito nos termos do disposto no n.º 2 do artigo 18.º da Lei n.º 19/2003, de 20 de junho, alterada pelo Decreto-Lei n.º 287/2003, de 12 de novembro, e pelas Leis n.os 64-A/2008, de 31 de dezembro, 55/2010, de 24 de dezembro, e 1/2013, de 3 de janeiro.
+
+> Aditado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 4/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447), em vigor a partir de 2015-03-17
+
+## Título VIII — Disposições finais e transitórias
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 4/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447), em vigor a partir de 2015-03-17
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 160.º — (Certidões)
+
+São obrigatoriamente passadas, a requerimento de qualquer interessado, no prazo de três dias:
+
+a) As certidões necessárias para instrução do processo de apresentação das candidaturas;
+
+b) As certidões de apuramento geral.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 161.º — (Isenções)
+
+São isentos de quaisquer taxas ou emolumentos, do imposto do selo e do imposto de justiça, conforme os casos:
+
+a) As certidões a que se refere o artigo anterior;
+
+b) Todos os documentos destinados a instruir quaisquer reclamações, protestos ou contraprotestos nas assembleias eleitorais ou de apuramento geral, bem como quaisquer reclamações ou recursos previstos na lei;
+
+c) Os reconhecimentos notariais em documentos para fins eleitorais;
+
+d) As procurações forenses a utilizar em reclamações e recursos previstos na presente lei, devendo as mesmas especificar o fim a que se destinam;
+
+e) Quaisquer requerimentos, incluindo os judiciais, relativos ao processo eleitoral.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 162.º — (Termo de prazos)
+
+1 - Quando qualquer acto processual previsto na presente lei envolva a intervenção de entidades ou serviços públicos, o termo dos prazos respectivos considera-se referido ao termo do horário normal dos competentes serviços ou repartições.
+
+2 - Para efeitos do disposto no artigo 24.º, as secretarias judiciais terão o seguinte horário:
+
+Das 9 horas às 12 horas e 30 minutos;
+
+Das 13 horas e 30 minutos às 16 horas.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 163.º — Direito subsidiário
+
+Em tudo o que não estiver regulado no presente diploma aplica-se aos actos que impliquem intervenção de qualquer tribunal o disposto no Código de Processo Civil quanto ao processo declarativo, com excepção dos n.os 4 e 5 do artigo 145.º
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+###### Artigo 164.º — (Entrada em vigor)
+
+Este diploma entra em vigor na data imediata à da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral.
+
+Promulgado em 5 de Agosto de 1980
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+> Republicado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Republicado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+## Anexo I — Recibo comprovativo de voto antecipado
+
+Para efeitos da lei eleitoral para a Assembleia Legislativa Regional dos Açores se declara que ... (nome do cidadão eleitor), residente em ..., portador do bilhete de identidade n.º ..., de ... de ... de ..., inscrito na assembleia de voto (ou secção de voto) de ... com o n.º ..., exerceu antecipadamente o seu direito de voto no dia ... de ... de ...
+
+O Presidente da Câmara Municipal de ...
+
+... (assinatura).
+
+(ver boletim de voto no documento original)
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 5/2006 - Diário da República n.º 168/2006, Série I de 2006-08-31](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392), em vigor a partir de 2006-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2000 - Diário da República n.º 161/2000, Série I-A de 2000-07-14](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), em vigor a partir de 2000-07-15
+
+## Anexo 2 — (Boletim de voto a que se refere o n.º 3 do artigo 95.º)
+
+(ver documento original)
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 224/1980, Série I de 1980-09-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-461657)

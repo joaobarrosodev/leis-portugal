@@ -1,0 +1,1226 @@
+---
+schema_version: '1.0'
+id: pt:dre:538614:por
+title: Decreto-Lei n.º 157/2006
+short_title: null
+summary: Aprova o regime jurídico das obras em prédios arrendados
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 157/2006
+official_date: null
+publication_date: '2006-08-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/2006, Série I de 2006-08-08
+  number: '152'
+  series: I
+  supplement: null
+  pages: 5638 - 5645
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15200/56385645.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-06-20'
+version_history:
+  file: decreto-lei-157-2006.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-22'
+    amending: pt:dre:483154:por
+    amending_title: Decreto-Lei n.º 306/2009
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+  - date: '2012-11-12'
+    amending: pt:dre:175304:por
+    amending_title: Lei n.º 30/2012
+    changes:
+    - Adita Secção IV
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Subsecção II
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Secção IV
+    - Revoga Artigo 5.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
+    - Revoga Artigo 40.º
+    - Revoga Artigo 41.º
+  - date: '2015-01-18'
+    amending: pt:dre:65949851:por
+    amending_title: Lei n.º 79/2014
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+  - date: '2017-06-15'
+    amending: pt:dre:107514240:por
+    amending_title: Lei n.º 43/2017
+    changes:
+    - Adita Artigo 9.º-A
+    - Altera Artigo 25.º
+  - date: '2019-02-13'
+    amending: pt:dre:119397715:por
+    amending_title: Lei n.º 13/2019
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Artigo 9.º-B
+    - Adita Artigo 10.º-A
+    - Adita Subsecção III
+    - Adita Artigo 22.º-A
+    - Adita Artigo 22.º-B
+    - Adita Artigo 22.º-C
+    - Adita Artigo 22.º-D
+    - Adita Artigo 26.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 15.º
+    - Altera Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+  - date: '2019-06-20'
+    amending: pt:dre:122349220:por
+    amending_title: Decreto-Lei n.º 66/2019
+    changes:
+    - Revoga Artigo 20.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/157/2006/p/cons/20190521/pt/html
+  oj: null
+  dre: '538614'
+  dre_path: /dr/detalhe/decreto-lei/157-2006-538614
+  internal: pt:dre:538614:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2006-538614
+  metadata_url: https://data.dre.pt/eli/dec-lei/157/2006/p/cons/20190521/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34529275
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34529275
+  retrieved_at: '2026-10-22T11:49:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 406cee15616c41d810bcfa07a510f4580ce022af8b6edd52a74fba7960f7358e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:49:45Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-157-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Coeficiente de Actualização
+- Comissão Arbitral Municipal
+- Obras de Conservação e Restauro
+- Arrendamento Urbano não Habitacional
+- Definição de Competências
+- Direito de Preferência
+- Coeficiente de Conservação
+- Prédio Rústico
+- Regime Jurídico
+- Prédio Urbano
+- Arrendamento Urbano para Habitação
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:483154:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 26.º;
+    Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154
+  date: '2009-10-23'
+- type: amended_by
+  target: pt:dre:175304:por
+  label: Adita Secção IV; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera
+    Artigo 8.º; Altera Subsecção II; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera
+    Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 23.º; Altera
+    Artigo 25.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304
+  date: '2012-08-14'
+- type: amended_by
+  target: pt:dre:65949851:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 24.º; Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851
+  date: '2014-12-19'
+- type: amended_by
+  target: pt:dre:107514239:por
+  label: Adita Artigo 9.º-A; Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/42-2017-107514239
+  date: '2017-06-14'
+- type: amended_by
+  target: pt:dre:107514240:por
+  label: Adita Artigo 9.º-A; Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/43-2017-107514240
+  date: '2017-06-14'
+- type: amended_by
+  target: pt:dre:119397715:por
+  label: Adita Artigo 5.º-A; Adita Artigo 9.º-B; Adita Artigo 10.º-A; Adita Subsecção III; Adita Artigo 22.º-A; Adita Artigo
+    22.º-B; Adita Artigo 22.º-C; Adita Artigo 22.º-D; Adita Artigo 26.º-A; Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo
+    6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 15.º; Altera Artigo 25.º; Revoga Artigo 26.º; Revoga Artigo 29.º;
+    Revoga Artigo 30.º; Revoga Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715
+  date: '2019-02-12'
+- type: amended_by
+  target: pt:dre:122349220:por
+  label: Revoga Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220
+  date: '2019-05-21'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/156/2006/08/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/156/2006/08/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/257/1995/09/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/257/1995/09/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/6/2006/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/6/2006/02/27/p/dre
+article_structure:
+  article_count: 60
+  section_count: 15
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:49:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 157/2006
+
+A Lei n.º 6/2006, de 27 de Fevereiro, aprovou o Novo Regime do Arrendamento Urbano (NRAU), dando resposta à necessidade, por todos sentida, de reformar profundamente esta área do ordenamento jurídico.
+
+O NRAU, para sua completa aplicação, carece de um conjunto de legislação complementar, alguma da qual objecto de autorização legislativa da Assembleia da República. Entre esses diplomas complementares encontra-se o diploma relativo ao regime das obras em prédios arrendados, que ora se publica, matéria fulcral tanto na regulação dos novos contratos como na resolução dos problemas de degradação urbanística já existentes.
+
+O presente diploma estrutura-se em duas grandes partes. A primeira aplica-se aos contratos que se vierem a celebrar após a sua entrada em vigor e, ainda, em tudo o que não é excepcionado na segunda parte, aos contratos já existentes. A segunda parte contém um regime especial transitório, aplicável aos contratos de arrendamento para habitação celebrados antes do RAU e aos contratos de arrendamento para fins não habitacionais celebrados antes da entrada em vigor do Decreto-Lei n.º 257/95, de 30 de Setembro.
+
+O presente decreto-lei regula as obras efectuadas por iniciativa do senhorio, prevendo a possibilidade de suspensão do contrato ou a sua denúncia. Nos contratos habitacionais anteriores a 1990, a denúncia terá sempre como contrapartida o realojamento. Revoga, pois, a Lei n.º 2088, de 3 de Julho de 1957, a qual, além de ser de difícil aplicação, visava promover a construção nova, objectivo que já não corresponde às necessidades actuais. O diploma regula ainda as obras coercivas realizadas pelos municípios em prédios arrendados, substituindo o que a este respeito se dispunha no RAU.
+
+Finalmente, em relação aos contratos antigos, o decreto-lei regula os direitos de intervenção dos arrendatários. Se, em relação aos contratos novos, não é de prever que o problema da degradação urbana se venha a colocar significativamente, fruto da adequação dos valores das rendas e da maior mobilidade, o problema da degradação dos prédios objecto de arrendamentos antigos é sobejamente conhecido. Aqui, não basta enunciar o dever de conservação, é necessário criar os instrumentos legais que possibilitem a efectiva reabilitação. Tal passa por apoiar a reabilitação por parte dos proprietários, o que é tratado em legislação própria, mas exige ainda que seja possível intervir quando o proprietário não possa ou não queira reabilitar o seu património.
+
+Assim, possibilita-se ao arrendatário a realização de obras de reabilitação, com posterior compensação no valor da renda. Possibilita-se ainda ao arrendatário, mediante acção judicial, a aquisição da propriedade do prédio ou fracção, quando esta seja a última solução viável. Este será o caso quando o proprietário não efectue as obras necessárias e o município, a tal instado, também o não faça. Este direito de aquisição pelo arrendatário acarreta a obrigação para o adquirente - e para quem o substitua nos 20 anos seguintes - de reabilitação e de manutenção do prédio. A degradação urbana é um problema que não afecta apenas os habitantes dos prédios degradados, ela afecta toda a comunidade, sendo um obstáculo à sã vivência das cidades e ao próprio desenvolvimento económico, nomeadamente com reflexos negativos no turismo.
+
+Possibilitar a recuperação dos centros históricos, reabilitando em lugar de construir de novo, é objectivo a prosseguir com empenho, devendo o direito de aquisição do locado que este decreto-lei regula ser visto a esta luz, e não somente como um modo de composição do conflito entre as partes.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional dos Municípios Portugueses, a Ordem dos Advogados, a Ordem dos Engenheiros e a Ordem dos Arquitectos.
+
+Foram, ainda, ouvidas as várias associações com interesses no sector, designadamente a Associação Lisbonense de Proprietários, a Associação dos Inquilinos Lisbonense, a Associação dos Inquilinos do Norte, a Confederação do Comércio e Serviços de Portugal, a Confederação do Turismo Português, a Federação da Restauração, Cafés, Pastelarias e Similares de Portugal, a Federação Portuguesa da Indústria de Construção e Obras Públicas, a Federação Nacional de Comércio, a Associação Portuguesa para a Defesa do Consumidor, e ainda várias entidades representativas das empresas de consultoria e avaliação imobiliária, de mediação mobiliária, de fundos de investimento e de fundos de pensões.
+
+Assim:
+
+No uso da autorização legislativa concedida pela alínea a) do n.º 1 e pelo n.º 2 do artigo 63.º da Lei n.º 6/2006, de 27 de Fevereiro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+#### Secção I — Disposições comuns
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente decreto-lei aprova o regime jurídico aplicável:
+
+a) À denúncia do contrato para demolição ou para realização de obra de remodelação ou restauro profundos, nos termos do n.º 11 do artigo 1103.º do Código Civil;
+
+b) À realização de obras coercivas;
+
+c) À edificação em prédio rústico arrendado e não sujeito a regime especial;
+
+d) (Revogada.);
+
+e) À desocupação do locado para realização de obras de conservação;
+
+f) À suspensão do contrato de arrendamento para realização de obras de remodelação ou restauro profundos.
+
+2 - O presente decreto-lei estabelece ainda o regime aplicável nos contratos de arrendamento para fim habitacional celebrados antes da vigência do Regime do Arrendamento Urbano (RAU), aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de outubro:
+
+a) À denúncia ou suspensão do contrato de arrendamento para demolição ou realização de obras de remodelação ou restauro profundos, quando o arrendatário tiver idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %;
+
+b) À realização de obras pelo arrendatário.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 2.º — Regra geral
+
+1- Cabe ao senhorio efectuar as obras necessárias à manutenção do estado de conservação do prédio arrendado, nos termos dos artigos 1074.º e 1111.º do Código Civil, bem como da legislação urbanística aplicável, nomeadamente do regime jurídico da urbanização e da edificação e do regime jurídico da reabilitação urbana.
+
+2 - No caso de o senhorio não efetuar as obras a que está obrigado, o município ou a entidade gestora da operação de reabilitação urbana podem intimá-lo à sua realização, bem como proceder à sua realização coerciva.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 3.º — Obras de conservação
+
+1 - Quando seja indispensável para realização das obras referidas no n.º 1 do artigo anterior, o senhorio tem o direito a solicitar ao arrendatário, com uma antecedência mínima de três meses, que desocupe o locado pelo prazo necessário à execução das obras, o qual não pode ser superior a 60 dias.
+
+2 - Na situação prevista no número anterior, o senhorio está obrigado ao realojamento do arrendatário, em condições análogas às que este detinha no locado, nos termos previstos nos n.os 3 a 5 do artigo 6.º e a suportar as despesas inerentes a essa desocupação.
+
+3 - Para efeitos do exercício da faculdade prevista no n.º 1, o senhorio envia uma comunicação ao arrendatário, informando-o do prazo necessário à realização das obras, das condições do realojamento fornecido, assim como da data para a entrega das respetivas chaves e da data para desocupação do locado.
+
+4 - O arrendatário tem direito a ser indemnizado pelos danos que possam advir do não cumprimento do prazo máximo da desocupação.
+
+5 - O senhorio só pode comunicar a necessidade de desocupação do locado para realização de obras de conservação, nos termos do n.º 3, se não tiver usado da mesma faculdade nos oito anos anteriores e se o contrato já tiver, pelo menos, dois anos de duração efetiva.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+#### Secção II — Regime geral
+
+##### Subsecção I — Iniciativa do senhorio
+
+###### Artigo 4.º — Remodelação ou restauro profundos
+
+1 - Para efeitos do presente decreto-lei, são obras de remodelação ou restauro profundos:
+
+a) As obras de reconstrução, definidas na alínea c) do artigo 2.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro; ou
+
+b) As obras de alteração ou ampliação, definidas respetivamente na alínea d) e e) do artigo 2.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, em que:
+
+i) Destas resulte um nível bom ou superior no estado de conservação do locado, de acordo com a tabela referida no n.º 3 do artigo 6.º da Portaria n.º 1192-B/2006, de 3 de novembro; e
+
+ii) O custo da obra a realizar no locado, incluindo imposto sobre valor acrescentado, corresponda, pelo menos, a 25 % do valor aplicável ao locado em função da sua localização e área bruta de construção, de acordo com o valor mediano das vendas por m2 de alojamentos familiares (euro), por concelho, divulgado pelo Instituto Nacional de Estatística, I. P., para o trimestre anterior.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - As obras referidas no n.º 1 podem decorrer de intervenções urbanísticas realizadas em área de reabilitação urbana.
+
+5 - Além dos demais elementos previstos na lei, o requerimento de controlo prévio urbanístico respeitante às operações referidas no n.º 1 deve ser acompanhado dos seguintes elementos:
+
+a) Indicação da situação de arrendamento existente, se aplicável; e
+
+b) Nos casos da alínea b) do n.º 1:
+
+i) Orçamento total da operação a realizar, incluindo estimativa do custo total da operação urbanística;
+
+ii) Caderneta predial, que inclui área bruta de construção correspondente ao locado.
+
+6 - Ao arrendatário não pode, em qualquer caso, ser negada a consulta ou a emissão de reprodução ou certidão do processo respeitante ao controlo prévio urbanístico relativo ao locado, dispondo os órgãos competentes do prazo improrrogável de 10 dias para assegurar a garantia de acesso, sem prejuízo dos demais direitos previstos na Lei n.º 26/2016, de 22 de agosto, que aprova o regime de acesso à informação administrativa e ambiental e de reutilização dos documentos administrativos.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 43/2017 - Diário da República n.º 114/2017, Série I de 2017-06-14](https://diariodarepublica.pt/dr/detalhe/lei/43-2017-107514240)
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 5.º — Vicissitudes contratuais em caso de remodelação, restauro ou demolição do locado
+
+1 - Quando o senhorio pretenda realizar obras de remodelação ou restauro profundos, nomeadamente de conservação e reconstrução, pode haver lugar a denúncia do contrato ou suspensão da sua execução pelo período de decurso daquelas.
+
+2 - A suspensão do contrato é obrigatória quando:
+
+a) No caso de obras não estruturais, estas impliquem a inexistência de condições de habitabilidade no locado durante a obra;
+
+b) No caso de obras estruturais, se preveja a existência de local com características equivalentes às do locado após a obra.
+
+3 - Quando o senhorio pretenda demolir o locado, pode haver lugar a denúncia do contrato.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 5.º-A — Vicissitudes contratuais em caso de demolição ou obras de remodelação ou restauro profundos
+
+1 - Quando o senhorio pretenda realizar obras de remodelação ou restauro profundos, há lugar à suspensão da execução do contrato de arrendamento pelo período de decurso daquelas, sem prejuízo do disposto no número seguinte.
+
+2 - Em caso de demolição ou de obras de remodelação ou restauro profundos que não resulte local com características equivalentes às do locado, onde seja possível a manutenção do arrendamento, o senhorio pode denunciar o contrato de arrendamento, nos termos da alínea b) do artigo 1101.º do Código Civil.
+
+> Aditado pelo/a Artigo 8.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+###### Artigo 6.º — Denúncia para remodelação ou restauro
+
+1 - A denúncia do contrato de duração indeterminada para realização de obra de remodelação ou restauro profundos, nos termos da alínea b) do artigo 1101.º do Código Civil, obriga o senhorio, mediante acordo e em alternativa:
+
+a) Ao pagamento de uma indemnização no valor mínimo correspondente a dois anos de renda, não podendo este ser inferior a duas vezes o montante de 1/15 do valor patrimonial tributário do locado;
+
+b) A garantir o realojamento do arrendatário por período não inferior a três anos.
+
+2 - Caso as partes não cheguem a acordo no prazo de 60 dias a contar da receção da comunicação prevista no n.º 1 do artigo 1103.º do Código Civil, aplica-se o disposto na alínea b) do número anterior, sem prejuízo do disposto no n.º 9.
+
+3 - O realojamento do arrendatário previsto na alínea b) do n.º 1 é feito em condições análogas às que aquele já detinha, quer quanto ao local, quer quanto ao valor da renda e encargos.
+
+4 - Para efeitos do disposto no número anterior, considera-se realojamento em condição análogas quanto ao local o realojamento do arrendatário na área da mesma freguesia ou de freguesia limítrofe, em fogo em estado de conservação igual ou superior ao do locado primitivo e adequado às necessidades do agregado familiar do arrendatário.
+
+5 - Para efeitos do disposto nos n.os 3 e 4, presume-se adequado às necessidades do agregado familiar do arrendatário o fogo cujo tipo se situe entre o mínimo e o máximo previstos no quadro seguinte, de modo que não se verifique sobreocupação:
+
+(ver documento original)
+
+6 - Tratando-se de obra realizada no âmbito do regime da reabilitação urbana aplica-se o disposto no artigo 73.º daquele regime.
+
+7 - O regime previsto no presente artigo não é aplicável nos casos em que um estabelecimento ou uma entidade situados no locado tenham sido reconhecidos pelo município como de interesse histórico e cultural ou social local, nos termos do respetivo regime jurídico, casos em que o estabelecimento ou entidade se mantém no locado.
+
+8 - Em caso de remodelação ou restauro profundos de imóvel em que esteja situado estabelecimento ou entidade reconhecidos como de interesse histórico e cultural ou social local, cabe aos municípios salvaguardar a manutenção da atividade e património material existentes no locado, designadamente impondo para o efeito as condicionantes necessárias, no âmbito da respetiva competência de controlo prévio urbanístico e demais competências em matéria urbanística.
+
+9 - Caso o arrendatário não aceite proposta de realojamento conforme com o disposto nos n.os 3 a 5 ou caso, tratando-se de arrendamento não habitacional, não seja possível o realojamento, é aplicável o disposto na alínea a) do n.º 1.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 43/2017 - Diário da República n.º 114/2017, Série I de 2017-06-14](https://diariodarepublica.pt/dr/detalhe/lei/43-2017-107514240)
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 42/2017 - Diário da República n.º 114/2017, Série I de 2017-06-14](https://diariodarepublica.pt/dr/detalhe/lei/42-2017-107514239), em vigor a partir de 2017-06-24
+
+> Retificado pelo/a [Declaração de Retificação n.º 59-B/2012 - Diário da República n.º 198/2012, 1º Suplemento, Série I de 2012-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/59-b-2012-406280), produz efeitos a partir de 2006-09-07
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 7.º — Denúncia para demolição
+
+1 - A denúncia do contrato pelo senhorio, nos termos da alínea b) do artigo 1101.º do Código Civil, pode ocorrer quando a demolição:
+
+a) Seja ordenada nos termos do n.º 3 do artigo 89.º do regime jurídico da urbanização e da edificação ou do artigo 57.º do regime jurídico da reabilitação urbana;
+
+b) Seja necessária por força da degradação do prédio, a atestar pelo município;
+
+c) Resulte de plano de ordenamento do território aplicável, nomeadamente de plano de pormenor de reabilitação urbana.
+
+2 - Nas situações previstas no número anterior, aplica-se, com as devidas adaptações, o disposto no artigo anterior, sem prejuízo do disposto nos números seguintes.
+
+3 - No caso previsto na alínea c) do n.º 1, o proprietário pode pedir à entidade responsável pela execução do plano o ressarcimento dos custos suportados com o realojamento ou indemnização dos arrendatários.
+
+4 - À denúncia para demolição de imóveis onde se encontrem instalados estabelecimentos ou entidades de interesse histórico e cultural ou social local é aplicável o disposto nos números anteriores e no artigo seguinte.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 42/2017 - Diário da República n.º 114/2017, Série I de 2017-06-14](https://diariodarepublica.pt/dr/detalhe/lei/42-2017-107514239), em vigor a partir de 2017-06-24
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 7.º-A — Denúncia para demolição em caso de estabelecimento ou entidade de interesse histórico e cultural ou social local
+
+1 - Caso um estabelecimento ou uma entidade situados no locado tenham sido reconhecidos pelo município como de interesse histórico e cultural ou social local, estando verificado um dos pressupostos previstos no n.º 1 do artigo anterior, a demolição do imóvel em causa só pode ser permitida pelos órgãos municipais competentes:
+
+a) Nos casos de situação de ruína ou de verificação em concreto da primazia de um bem jurídico superior ao que está presente na tutela dos bens em causa, desde que, em qualquer dos casos, se não mostre viável nem razoável, por qualquer outra forma, a salvaguarda ou o deslocamento do estabelecimento; e
+
+b) Quando a situação de ruína não seja causada pelo incumprimento do dever de conservação exigível ao proprietário.
+
+2 - O disposto no número anterior não prejudica a possibilidade de decretamento das medidas adequadas à manutenção de todos os elementos que se possam salvaguardar, autorizando-se apenas as demolições estritamente necessárias.
+
+3 - Quando a situação de ruína seja causada pelo incumprimento do dever de conservação, consagrado no artigo 89.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, ou do dever de reabilitação de edifícios, consagrado no artigo 6.º do regime jurídico da reabilitação urbana, aprovado pelo Decreto-Lei n.º 307/2009, de 23 de outubro, o valor da indemnização previsto na alínea a) do n.º 1 do artigo 6.º é duplicado.
+
+4 - Caso a situação de ruína resulte de ação ou omissão culposa por parte do proprietário, o valor da indemnização é de dez anos de renda, determinada de acordo com os critérios previstos nas alíneas a) e b) do n.º 2 do artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, que aprova o Novo Regime do Arrendamento Urbano (NRAU).
+
+> Aditado pelo/a Artigo 11.º do/a [Lei n.º 42/2017 - Diário da República n.º 114/2017, Série I de 2017-06-14](https://diariodarepublica.pt/dr/detalhe/lei/42-2017-107514239), em vigor a partir de 2017-06-24
+
+###### Artigo 8.º — Efectivação da denúncia
+
+1 - A denúncia do contrato é feita mediante comunicação ao arrendatário com antecedência não inferior a seis meses sobre a data pretendida para a desocupação e da qual conste, de forma expressa e sob pena de ineficácia, o fundamento da denúncia.
+
+2 - A comunicação referida no número anterior é acompanhada, sob pena de ineficácia da denúncia:
+
+a) De comprovativo de que foi iniciado, junto da entidade competente, procedimento de controlo prévio da operação urbanística a efetuar no locado;
+
+b) De termo de responsabilidade do técnico autor do projeto legalmente habilitado que ateste que a operação urbanística a realizar constitui uma obra de remodelação ou restauro profundos ou uma obra de demolição, nos termos previstos no n.º 1 do artigo 4.º e do n.º 2 do artigo 5.º-A ou no n.º 1 do artigo anterior;
+
+c) Nos casos em que estejam em causa obras de alteração ou ampliação, nos termos da alínea b) do n.º 1 do artigo 4.º, de cópia dos elementos entregues juntamente com o requerimento de controlo prévio, referidos na alínea b) do n.º 5 do mesmo artigo 4.º, bem como de documento emitido pelo município que ateste a entrega pelo senhorio destes elementos, no pedido de controlo prévio da operação urbanística.
+
+3 - A denúncia a que se referem os números anteriores é confirmada, sob pena de ineficácia, mediante comunicação ao arrendatário, acompanhada de:
+
+a) Comprovativo de deferimento do correspondente pedido, no caso de operação urbanística sujeita a licença administrativa; ou
+
+b) Comprovativo de que a pretensão não foi rejeitada, no caso de operação urbanística sujeita a comunicação prévia.
+
+4 - No caso previsto no número anterior, a desocupação tem lugar no prazo de 60 dias contados da receção da confirmação, salvo se não se encontrar decorrido o prazo previsto no n.º 1, caso em que a desocupação tem lugar até ao termo do último prazo.
+
+5 - Metade da indemnização deve ser paga após a confirmação da denúncia e o restante no ato da entrega do locado, sob pena de ineficácia.
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 43/2017 - Diário da República n.º 114/2017, Série I de 2017-06-14](https://diariodarepublica.pt/dr/detalhe/lei/43-2017-107514240)
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 9.º — Suspensão
+
+1 - Quando optar por suspender a execução do contrato para remodelação ou restauro profundos, pelo período de decurso das obras, nos termos do artigo 5.º, o senhorio fica obrigado a assegurar o realojamento do arrendatário durante esse tempo.
+
+2 - Aplica-se ao realojamento do arrendatário o disposto na alínea b) do n.º 1 e no n.º 5 do artigo 6.º ou, se for o caso, o disposto no artigo 73.º do regime jurídico da reabilitação urbana.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 9.º-A — Direito de preferência em caso de novo arrendamento
+
+1 - O arrendatário no contrato objeto de denúncia nos termos dos artigos anteriores tem direito a exercer direito de preferência no âmbito de novo arrendamento celebrado pelo senhorio.
+
+2 - O direito previsto no presente artigo é oponível ao senhorio que promoveu a denúncia do contrato durante o prazo de dois anos contados a partir da data de cessação do mesmo.
+
+3 - É aplicável, com as devidas adaptações, o regime constante dos artigos 414.º e seguintes do Código Civil, sendo, porém, o prazo para o exercício do direito de preferência de 15 dias.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 43/2017 - Diário da República n.º 114/2017, Série I de 2017-06-14](https://diariodarepublica.pt/dr/detalhe/lei/43-2017-107514240), em vigor a partir de 2017-06-15
+
+###### Artigo 9.º-B — Suspensão
+
+1 - Quando haja lugar à suspensão da execução do contrato para remodelação ou restauro profundos, pelo período de decurso das obras, nos termos do artigo 5.º-A, o senhorio fica obrigado a assegurar o realojamento do arrendatário durante esse período.
+
+2 - O realojamento temporário previsto no número anterior deve ser feito no mesmo concelho, em fogo em estado de conservação igual ou superior ao do locado primitivo e adequado às necessidades do agregado familiar do arrendatário, nos termos do n.º 5 do artigo 6.º, sem prejuízo do disposto no artigo 73.º do regime jurídico da reabilitação urbana, aprovado pelo Decreto-Lei n.º 307/2009, de 23 de outubro, quando se trate da execução de operação de reabilitação urbana.
+
+3 - No realojamento temporário, mantém-se o valor da renda e encargos do contrato.
+
+4 - Sem prejuízo da manutenção da obrigação de pagamento da renda, o contrato de arrendamento suspende-se no momento da desocupação do locado pelo arrendatário.
+
+> Aditado pelo/a Artigo 8.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+###### Artigo 10.º — Efectivação da suspensão
+
+1 - A suspensão da execução do contrato para remodelação ou restauro profundos é feita mediante comunicação do senhorio ao arrendatário:
+
+a) Da intenção de proceder a obras que obrigam à desocupação do locado por colocarem em causa as condições de habitabilidade;
+
+b) Do local e das condições do realojamento fornecido;
+
+c) Da data de início e duração previsível das obras.
+
+2 - O arrendatário, após a comunicação prevista no número anterior, pode, em alternativa à suspensão, denunciar o contrato.
+
+3 - No caso previsto no número anterior, cabe ao arrendatário indicar o momento de produção de efeitos da denúncia, que deve ocorrer antes da data de início das obras.
+
+4 - O arrendatário que não aceite as condições propostas ou a possibilidade de suspensão do contrato e não deseje denunciar o contrato comunica esse facto, mediante declaração, ao senhorio, que pode então recorrer à CAM.
+
+5 - No caso de o arrendamento ser para fim não habitacional, o arrendatário pode, mediante declaração, preferir ao realojamento uma indemnização por todas as despesas e danos, patrimoniais e não patrimoniais, decorrentes da suspensão, sendo a CAM competente para a sua fixação.
+
+6 - A denúncia do contrato de arrendamento ou a declaração de não aceitação da suspensão são comunicadas ao senhorio no prazo de 30 dias a contar da comunicação referida no n.º 1.
+
+7 - O contrato de arrendamento suspende-se no momento da desocupação do locado pelo arrendatário.
+
+8 - O senhorio comunica ao arrendatário a conclusão das obras, devendo o arrendatário reocupar o locado no prazo de três meses, salvo justo impedimento, sob pena de caducidade do contrato de arrendamento.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 10.º-A — Efetivação da suspensão
+
+1 - A suspensão da execução do contrato para remodelação ou restauro profundos é feita mediante comunicação do senhorio ao arrendatário:
+
+a) Da intenção de proceder a obras que obrigam à desocupação do locado por colocarem em causa as condições de habitabilidade;
+
+b) Do local e das condições do realojamento fornecido;
+
+c) Da data de início e duração previsível das obras.
+
+2 - O arrendatário, após a comunicação prevista no número anterior, pode, em alternativa à suspensão, denunciar o contrato.
+
+3 - No caso previsto no número anterior, cabe ao arrendatário indicar o momento de produção de efeitos da denúncia, que deve ocorrer antes da data de início das obras.
+
+4 - A denúncia do contrato de arrendamento é comunicada ao senhorio no prazo de 30 dias a contar da comunicação referida no n.º 1.
+
+5 - Sem prejuízo da manutenção da obrigação de pagamento da renda, o contrato de arrendamento suspende-se no momento da desocupação do locado pelo arrendatário.
+
+6 - O senhorio comunica ao arrendatário a conclusão das obras, devendo o arrendatário reocupar o locado no prazo de três meses, salvo justo impedimento, sob pena de caducidade do contrato de arrendamento.
+
+> Aditado pelo/a Artigo 8.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+###### Artigo 11.º — Edificação em prédio rústico
+
+O disposto na presente subsecção é aplicável, com as necessárias adaptações, à denúncia de arrendamento de prédio rústico quando o senhorio pretenda aí construir um edifício.
+
+##### Subsecção II — Iniciativa do município ou da entidade gestora da operação de reabilitação urbana
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 12.º — Âmbito
+
+O disposto na presente subsecção aplica-se às obras coercivas executadas em prédios total ou parcialmente arrendados:
+
+a) Pelo município, nos termos do regime jurídico da urbanização e da edificação;
+
+b) Pelo município ou pela entidade gestora da operação de reabilitação urbana, nos termos do regime jurídico da reabilitação urbana.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 13.º — Poderes do município e da entidade gestora da operação de reabilitação urbana
+
+Para os efeitos previstos no artigo anterior, a entidade promotora das obras coercivas pode proceder ao despejo administrativo e ocupar o prédio ou fogos, total ou parcialmente, até ao período de um ano após a data da conclusão das obras, após o qual tal ocupação cessa automaticamente.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 14.º — Orçamento
+
+1 - O início das obras é precedido da elaboração de um orçamento do respetivo custo, a comunicar ao senhorio, por escrito.
+
+2 - O valor a suportar é acrescido do custo dos trabalhos a mais, decorrentes de circunstâncias imprevisíveis à data da elaboração do orçamento, que se mostrem indispensáveis para a conclusão da obra, com o limite estabelecido no n.º 3 do artigo 370.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na redação que lhe foi dada pelo Decreto-Lei n.º 278/2009, de 2 de Outubro.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 15.º — Realojamento ou indemnização
+
+1 - A entidade promotora das obras coercivas não pode proceder ao despejo administrativo sem assegurar simultaneamente o realojamento temporário dos arrendatários existentes, sendo aplicável o disposto no artigo 9.º-B.
+
+2 - Durante o realojamento mantém-se a obrigação de pagamento da renda, havendo lugar ao seu depósito, nos termos do artigo 19.º
+
+3 - No caso de arrendamento não habitacional, não sendo possível o realojamento ou não concordando o arrendatário com as condições oferecidas, a entidade promotora das obras coercivas indemniza o arrendatário nos termos da alínea a) do n.º 1 do artigo 6.º, tendo o direito de arrendar o local após as obras, nos termos do artigo 20.º, para se ressarcir do valor da indemnização paga.
+
+4 - Nos casos previstos nas alíneas a) e b) do n.º 1 do artigo 7.º, aplica-se, com as devidas adaptações, o disposto no artigo 6.º, cabendo ao proprietário ressarcir a entidade promotora das obras coercivas dos custos suportados com o realojamento ou indemnização dos arrendatários.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Retificado pelo/a [Declaração de Retificação n.º 59-B/2012 - Diário da República n.º 198/2012, 1º Suplemento, Série I de 2012-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/59-b-2012-406280), produz efeitos a partir de 2006-09-07
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 16.º — Comunicação ao arrendatário
+
+Com antecedência não inferior a 30 dias, o arrendatário é notificado, por carta registada ou por afixação de edital na porta da respectiva casa e na sede da junta de freguesia:
+
+a) Da data do despejo administrativo;
+
+b) Do local de realojamento que lhe foi destinado;
+
+c) Da obrigação de retirar todos os bens do local despejando;
+
+d) Da duração previsível das obras;
+
+e) Da obrigação de depositar as rendas, nos termos do artigo 19.º
+
+###### Artigo 17.º — Reocupação pelo arrendatário
+
+A entidade promotora das obras coercivas comunica ao arrendatário o fim das obras, devendo o arrendatário reocupar o locado no prazo de três meses, salvo justo impedimento, sob pena de caducidade do contrato de arrendamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 18.º — Compensação
+
+1 - O ressarcimento do custo das obras coercivas, nos termos do artigo 14.º, e, sendo caso disso, do realojamento temporário dos arrendatários existentes, é feito através do recebimento das rendas.
+
+2 - Quando o senhorio o requeira, demonstrando que as rendas são indispensáveis para o sustento do seu agregado familiar ou para a sustentabilidade económica da pessoa coletiva, a entidade promotora das obras coercivas pode autorizar o levantamento de 50 % do valor dos depósitos da renda vigente aquando do início das obras, acrescida das atualizações ordinárias anuais, revertendo o restante para a entidade promotora das obras coercivas.
+
+3 - A autorização referida no número anterior é emitida no prazo de 10 dias após a apresentação do requerimento, acompanhado dos elementos de prova necessários.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 19.º — Depósito das rendas
+
+1 - O arrendatário deposita a renda, nos termos dos artigos 17.º e seguintes do NRAU, enquanto a entidade promotora das obras coercivas não se encontrar totalmente ressarcida.
+
+2 - No prazo de 10 dias após o ressarcimento integral, a entidade promotora das obras coercivas notifica os arrendatários da cessação do dever de depositar a renda.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 20.º — Arrendamento pela entidade promotora das obras coercivas
+
+1 - Sem prejuízo do disposto no n.º 4, existindo fogos devolutos no prédio reabilitado, pode a entidade promotora das obras coercivas arrendá-los, mediante concurso público, pelo prazo de dois anos, renovável nos termos do artigo 1096.º do Código Civil.
+
+2 - Existindo arrendamento nos termos do número anterior, o proprietário só tem o direito de se opor à renovação do contrato quando o fim do respetivo prazo se verifique após o ressarcimento integral da entidade promotora das obras coercivas.
+
+3 - A renda a praticar nos contratos referidos nos números anteriores é determinada de acordo com os critérios previstos nas alíneas a) e b) do n.º 2 do artigo 35.º do NRAU.
+
+4 - O disposto no n.º 1 não é aplicável se o proprietário arrendar os fogos devolutos, por valor não inferior ao previsto no número anterior, no prazo de quatro meses após a ocupação do prédio pela entidade promotora das obras coercivas ou após a conclusão das obras.
+
+5 - Aos titulares dos contratos de arrendamento previstos neste artigo é aplicável o disposto no artigo anterior, cabendo ao senhorio o direito previsto no n.º 2 do artigo 18.º
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220), em vigor a partir de 2019-06-20
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 21.º — Arrolamento de bens
+
+1 - Se, no momento da ocupação, forem encontrados bens no local a ocupar, proceder-se-á ao seu arrolamento.
+
+2 - Para efeitos do arrolamento referido no número anterior, procede-se da seguinte forma:
+
+a) É lavrado auto em que se descrevem os bens, em verbas numeradas, e se mencionam quaisquer ocorrências relevantes;
+
+b) O auto é assinado pelo funcionário que o lavrar e pelo possuidor dos bens, se existir, devendo intervir duas testemunhas quando não for assinado por este último;
+
+c) Ao acto de arrolamento assiste o possuidor ou detentor dos bens, sempre que queira e esteja no local ou seja possível chamá-lo, podendo fazer-se representar por mandatário judicial;
+
+d) Os bens arrolados ficam depositados à guarda da entidade promotora das obras coercivas e são entregues ao respetivo dono, a requerimento deste, sem prejuízo de só poderem ser repostos no fogo despejando após a conclusão das respetivas obras;
+
+e) São aplicáveis ao arrolamento as disposições relativas à penhora, com as devidas adaptações, em tudo que não contrarie o estabelecido neste artigo.
+
+3 - O arrendatário é responsável pelas despesas resultantes do despejo.
+
+4 - O dono dos bens é responsável pelas despesas resultantes do depósito e arrolamento daqueles.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 22.º — Obras por iniciativa de outras entidades
+
+O disposto na presente subsecção é aplicável, com as devidas adaptações, à realização de obras em prédios arrendados por entidade à qual a lei confira esse direito, nomeadamente sociedades de reabilitação urbana, fundos de investimento imobiliário e fundos de pensões.
+
+##### Subsecção III — Execução de obras pelo arrendatário
+
+> Aditado pelo/a Artigo 9.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+###### Artigo 22.º-A — Âmbito
+
+1 - O disposto na presente subsecção aplica-se à execução das seguintes obras pelo arrendatário, em substituição do senhorio:
+
+a) Obras objeto de intimação prevista no n.º 2 do artigo 89.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, ou no n.º 1 do artigo 55.º do regime jurídico da reabilitação urbana, aprovado pelo Decreto-Lei n.º 307/2009, de 23 de outubro nos termos do artigo seguinte;
+
+b) Reparações previstas no n.º 1 artigo 1036.º do Código Civil.
+
+2 - O disposto nos números 3 e 4 do artigo 22.º-C e no artigo 22.º-D aplica-se, ainda, às obras previstas no n.º 2 artigo 1036.º do Código Civil.
+
+3 - As obras previstas nos números anteriores incluem a execução de obras nas partes comuns previstas no artigo 1427.º do Código Civil ou determinadas pela assembleia de condóminos.
+
+4 - A execução das obras previstas nos números anteriores confere ao arrendatário direito a compensação, nos termos dos artigos seguintes.
+
+5 - O comprovativo da qualidade de arrendatário constitui título habilitante para a promoção dos procedimentos de controlo prévio de operações urbanísticas e demais autorizações que se mostrem devidos para a execução das obras previstas nos números anteriores.
+
+> Aditado pelo/a Artigo 8.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+###### Artigo 22.º-B — Execução de intimação
+
+1 - Caso o senhorio não cumpra os prazos de início ou de conclusão das obras previstas na alínea a) do n.º 1 do artigo anterior, tem o arrendatário a possibilidade de fazê-las extrajudicialmente.
+
+2 - Cessa o disposto no número anterior quando o senhorio não der início à obra por motivo imputável à Administração Pública, nomeadamente por demora no licenciamento da obra ou na decisão sobre a atribuição de apoio à reabilitação do prédio.
+
+3 - No caso previsto no n.º 1, a obra deve limitar-se ao objeto da intimação a que se reporta, em cujo procedimento o arrendatário é interessado.
+
+> Aditado pelo/a Artigo 8.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+###### Artigo 22.º-C — Comunicações ao senhorio
+
+1 - Nos casos previstos no n.º 1 do artigo 22.º-A, o arrendatário que pretenda exercer o direito à execução das obras comunica essa intenção ao senhorio com antecedência mínima de 15 dias em relação à data prevista para início da execução, expondo os fatos que lhe conferem o direito de as efetuar e juntando o respetivo orçamento, mapa de quantidades, data prevista para o início e conclusão das obras e indicação da necessidade de realojamento temporário de arrendatários que se mostre indispensável para o efeito.
+
+2 - Ao orçamento das obras, aplica-se, com as devidas adaptações, o disposto no artigo 14.º
+
+3 - A conclusão das obras é comunicada pelo arrendatário ao senhorio no prazo máximo de 30 dias, junto com a apresentação dos comprovativos das despesas realizadas e indicando:
+
+a) O valor da compensação devida nos termos do n.º 1 do artigo seguinte;
+
+b) O valor já deduzido por conta da compensação, previsto no n.º 2 do artigo seguinte;
+
+c) O valor da compensação em dívida pelo senhorio, nos termos do n.º 3 do artigo seguinte;
+
+d) A modalidade de pagamento da compensação em dívida, nos termos do n.º 4 do artigo seguinte, e as respetivas condições de pagamento.
+
+4 - As comunicações previstas no presente artigo são feitas nos termos do artigo 9.º do NRAU.
+
+> Aditado pelo/a Artigo 8.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+###### Artigo 22.º-D — Compensação
+
+1 - O valor a ter em conta para efeitos de compensação é o correspondente às despesas das obras efetuadas e orçamentadas e respetivos juros, acrescidas de 5 % destinados a despesas de administração, e aos custos suportados com o realojamento temporário dos arrendatários.
+
+2 - O arrendatário pode, por conta da compensação devida nos termos do presente artigo, deduzir o valor despendido com as obras no valor das rendas mensais vincendas a partir do início da execução.
+
+3 - Concluída a execução das obras, o valor da compensação em dívida corresponde ao valor da compensação devida nos termos do n.º 2, subtraído do valor deduzido nos termos do número anterior.
+
+4 - Para pagamento do valor da compensação em dívida, o arrendatário pode optar por uma das seguintes modalidades:
+
+a) Pagamento direto pelo senhorio, em prazo não inferior a 60 dias;
+
+b) Dedução no valor das rendas mensais vincendas a partir da data da receção da comunicação prevista no n.º 3 do artigo anterior.
+
+5 - Cessando, por qualquer causa, o contrato de arrendamento antes do ressarcimento completo do arrendatário, este tem o direito de receber o valor em falta.
+
+> Aditado pelo/a Artigo 8.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+#### Secção III — Regime especial transitório
+
+##### Subsecção I — Disposições gerais
+
+###### Artigo 23.º — Âmbito de aplicação
+
+1 - O disposto na presente secção aplica-se apenas aos contratos de arrendamento para habitação celebrados antes da entrada em vigor do RAU, aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de outubro.
+
+2 - Em tudo o não previsto na presente secção aplica-se o disposto na secção anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+##### Subsecção II — Iniciativa do senhorio
+
+###### Artigo 24.º — Denúncia para demolição
+
+1 - A faculdade de denúncia para demolição rege-se pelo disposto no artigo 7.º, sem prejuízo do disposto no artigo seguinte.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 25.º — Denúncia do contrato com arrendatário com idade igual ou superior a 65 anos ou com deficiência com grau de incapacidade igual ou superior a 60 %
+
+1 - À denúncia do contrato de duração indeterminada para demolição ou realização de obra de remodelação ou restauro profundos, nos termos da alínea b) do artigo 1101.º do Código Civil, quando o arrendatário tiver idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %, aplica-se o disposto no artigo 6.º, sem prejuízo do disposto no número seguinte.
+
+2 - O realojamento previsto na alínea b) do n.º 1 do artigo 6.º dá lugar à celebração de novo contrato por duração indeterminada, não sendo aplicável o disposto na alínea c) do artigo 1101.º do Código Civil.
+
+3 - À renda a pagar pelo novo contrato de arrendamento é aplicável, com as necessárias adaptações, o disposto nas alíneas a) e b) do n.º 2 do artigo 35.º do NRAU, sem prejuízo do disposto no número seguinte.
+
+4 - Se o arrendatário invocar e comprovar que o RABC do seu agregado familiar é inferior a cinco RMNA, aplica-se para efeitos do valor da renda a que se refere o número anterior o disposto no n.º 7, na alínea a) do n.º 9 e no n.º 10 do artigo 36.º do NRAU.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+12 - (Revogado).
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 43/2017 - Diário da República n.º 114/2017, Série I de 2017-06-14](https://diariodarepublica.pt/dr/detalhe/lei/43-2017-107514240), em vigor a partir de 2017-06-15
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 26.º — Suspensão do contrato para remodelação ou restauro
+
+1 - Se optar pela suspensão da execução do contrato nos termos do n.º 5 do artigo anterior, o senhorio fica obrigado a garantir o realojamento do arrendatário durante esse período, aplicando-se o disposto no n.º 1 do artigo anterior quanto às condições do realojamento ou, se for caso disso, no artigo 73.º do regime jurídico da reabilitação urbana.
+
+2 - Sem prejuízo da manutenção da obrigação de pagamento da renda, o contrato de arrendamento suspende-se no momento da desocupação do locado pelo arrendatário.
+
+3 - O senhorio comunica ao arrendatário a conclusão das obras, devendo o arrendatário reocupar o locado no prazo de três meses, salvo justo impedimento, sob pena de caducidade do contrato de arrendamento.
+
+4 - À desocupação do locado em consequência da suspensão da execução do contrato nos termos dos números anteriores é aplicável, com as necessárias adaptações, o disposto nos artigos 15.º-A a 15.º-S do NRAU.
+
+5 - Para efeitos do disposto no número anterior, o requerimento de despejo a que se refere o artigo 15.º-B do NRAU deve ser acompanhado da comunicação prevista nos n.os 5 e 6 do artigo anterior.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Retificado pelo/a [Declaração de Retificação n.º 59-B/2012 - Diário da República n.º 198/2012, 1º Suplemento, Série I de 2012-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/59-b-2012-406280), produz efeitos a partir de 2006-09-07
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+###### Artigo 26.º-A — Suspensão da execução do contrato para remodelação ou restauro profundos
+
+1 - Em caso de suspensão da execução do contrato para remodelação ou restauro profundos, pelo período de decurso das obras, nos termos do artigo 5.º-A, quando o arrendatário tiver idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %, aplica-se o disposto nos artigos 9.º-B e 10.º-A, sem prejuízo do disposto nos números seguintes.
+
+2 - Caso opte pela denúncia do contrato nos termos do n.º 2 do artigo 10.º-A, o arrendatário tem direito à indemnização prevista na alínea a) do n.º 1 do artigo 6.º
+
+3 - Ao realojamento temporário do arrendatário é aplicável o disposto nos n.os 3 a 5 do artigo 6.º.
+
+> Aditado pelo/a Artigo 8.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+###### Artigo 27.º — Actualização da renda
+
+1 - O senhorio que realize obras de reabilitação ou que participe em operação urbanística de reabilitação nos três anos antes de proceder à actualização da renda nos termos da secção ii do NRAU, das quais resulte a atribuição à totalidade do prédio ou fracção onde se situa o locado de nível de conservação bom ou excelente, nos termos do Decreto-Lei n.º 156/2006, de 8 de Agosto, pode actualizar a renda anual tendo por base a fórmula seguinte:
+
+R = VPC x CC x 4 %
+
+2 - Para efeitos da fórmula referida no número anterior:
+
+a) VPC é o valor patrimonial corrigido, correspondente ao valor da avaliação realizada nos termos dos artigos 38.º e seguintes do Código do Imposto Municipal sobre Imóveis (CIMI), sem consideração do coeficiente de vetustez;
+
+b) CC é o coeficiente de conservação, previsto no artigo 33.º do NRAU;
+
+c) R é a renda anual.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 306/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154), em vigor a partir de 2009-11-22
+
+> Retificado pelo/a [Declaração de Rectificação n.º 68/2006 - Diário da República n.º 191/2006, Série I de 2006-10-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/68-2006-541793), produz efeitos a partir de 2006-09-07
+
+##### Subsecção III — Iniciativa do município
+
+###### Artigo 28.º — Actualização da renda
+
+1 - A realização de obras pelo município visa a obtenção pelo prédio de um nível de conservação compatível com a actualização da renda, nos termos dos artigos 30.º e seguintes do NRAU, com as devidas adaptações e as especialidades constantes deste artigo.
+
+2 - A comunicação ao arrendatário prevista no artigo 16.º tem o efeito da comunicação pelo senhorio prevista no artigo 34.º do NRAU, sendo a indicação do valor da renda futura substituída pela indicação de que haverá aumento da renda, para montante a indicar após a conclusão das obras.
+
+3 - À comunicação referida no número anterior é aplicável o disposto nas alíneas c), d) e e) do n.º 4 e no n.º 5 do artigo 38.º do NRAU.
+
+4 - Após a conclusão das obras, a câmara municipal promove a avaliação fiscal do prédio e a determinação do seu nível de conservação e comunica ao arrendatário o fim das obras e o valor da renda actualizada, contendo essa comunicação os elementos previstos nas alíneas a) e b) do n.º 4 do artigo 38.º do NRAU.
+
+5 - É aplicável à actualização da renda o disposto no artigo anterior.
+
+6 - A nova renda, determinada de acordo com o faseamento aplicável ao caso, é devida a partir do 3.º mês a contar da comunicação prevista no n.º 4.
+
+7 - O arrendatário pode denunciar o contrato enquanto não reocupar o locado.
+
+8 - O valor a levantar pelo senhorio, nos termos do n.º 2 do artigo 18.º, não pode ser superior ao valor da renda vigente aquando do início das obras, acrescida das actualizações ordinárias anuais.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+##### Subsecção IV — Iniciativa do arrendatário
+
+##### Divisão I — Âmbito de aplicação
+
+###### Artigo 29.º — Responsabilidade pelas obras ou pelos danos
+
+O disposto na presente subsecção aplica-se apenas quando:
+
+a) As obras de conservação do locado não estejam a cargo do arrendatário, salvo quando estejam em causa obras a realizar em outras partes do prédio, nomeadamente partes comuns;
+
+b) A degradação do prédio não se deva a actuação ilícita do arrendatário.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+##### Divisão II — Manutenção do arrendamento
+
+###### Artigo 30.º — Actuação do arrendatário
+
+1 - Quando ao locado tenha sido atribuído nível de conservação mau ou péssimo, nos termos definidos em diploma próprio, o arrendatário pode intimar o senhorio à realização das obras necessárias à obtenção de um nível médio ou superior.
+
+2 - Se o senhorio, sendo a tal intimado, não iniciar as obras dentro do prazo de seis meses ou declarar não o pretender fazer dentro desse prazo, o arrendatário pode solicitar ao município competente a realização de obras coercivas ou tomar a iniciativa da sua realização, nos termos dos artigos seguintes.
+
+3 - Cessa o disposto no número anterior quando o senhorio não der início à obra por motivo imputável à Administração Pública, nomeadamente por demora no licenciamento da obra ou na decisão sobre a atribuição de apoio à reabilitação do prédio.
+
+4 - A intimação para obras e a declaração de não pretender realizá-las só são eficazes quando efectuadas por escrito.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 31.º — Legitimidade
+
+1 - Além do caso previsto no n.º 2 do artigo anterior, o arrendatário pode realizar obras de conservação quando o senhorio, a tal instado pelo município, a elas não proceda dentro do prazo estabelecido.
+
+2 - O arrendatário pode ainda realizar obras no caso de o senhorio ter suspendido a execução de obras anteriormente iniciadas e não as ter retomado no prazo de 90 dias a contar da suspensão, desde que o arrendatário tenha posteriormente intimado o senhorio a retomá-las em prazo não superior a 30 dias, sendo também aqui aplicável o disposto no n.º 3 do artigo anterior.
+
+3 - Havendo pluralidade de arrendatários em prédio não sujeito a propriedade horizontal, a realização de obras, relativamente às partes comuns, depende do assentimento de, pelo menos, metade deles, ficando os restantes vinculados a tal decisão e aos correspondentes encargos.
+
+4 - O arrendatário só pode realizar as obras necessárias para se atingir o nível médio de conservação, nos termos definidos em diploma próprio.
+
+5 - Encontrando-se o edifício constituído em propriedade horizontal, o arrendatário pode substituir-se ao senhorio na execução de obras nas partes comuns, determinadas pela assembleia de condóminos ou impostas nos termos previstos no artigo 89.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, e no artigo 55.º do regime jurídico da reabilitação urbana, aprovado pelo Decreto-Lei n.º 307/2009, de 23 de outubro.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 32.º — Procedimento
+
+1 - O início das obras pelo arrendatário depende de prévia comunicação dessa intenção ao senhorio.
+
+2 - A comunicação referida no número anterior é feita com o mínimo de um mês de antecedência face ao início das obras e contém o respectivo orçamento e a exposição dos factos que conferem o direito de as efectuar.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 33.º — Compensação
+
+1 - O arrendatário que efectue obras no locado compensa o valor despendido com as obras com o valor da renda, a partir do início daquelas.
+
+2 - O valor das obras a ter em conta para efeitos de compensação é o correspondente às despesas efectuadas e orçamentadas e respectivos juros, acrescidos de 5% destinados a despesas de administração.
+
+3 - Cessando, por qualquer causa, o contrato de arrendamento antes do ressarcimento completo do arrendatário, este tem o direito de receber o valor em falta.
+
+4- Durante o período de duração da compensação, o senhorio tem o direito de receber o valor correspondente a 50% da renda vigente aquando do início das obras, acrescida das actualizações ordinárias anuais.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 34.º — Compensação e valor da renda
+
+1 - O valor da renda a ter em conta para os efeitos do artigo anterior é o resultante da aplicação dos artigos 31.º a 33.º do NRAU, considerando-se um nível médio de conservação e um faseamento em cinco anos.
+
+2 - Durante o período de duração da compensação, o senhorio tem o direito de receber o valor correspondente a 50% da renda vigente aquando do início das obras, acrescida das actualizações ordinárias anuais.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+##### Divisão III — Aquisição do locado pelo arrendatário
+
+###### Artigo 35.º — Legitimidade
+
+1 - Quando ao locado tenha sido atribuído um nível de conservação de mau ou péssimo, nos termos do Decreto-Lei n.º 156/2006, de 8 de Agosto, o arrendatário que pretenda reabilitá-lo pode adquirir o locado desde que, cumulativamente:
+
+a) O senhorio, a tal intimado, não tenha iniciado as obras dentro do prazo de seis meses ou tenha declarado não o pretender fazer dentro desse prazo;
+
+b) O arrendatário tenha solicitado ao município competente a realização de obras coercivas, nos termos do n.º 2 do artigo 30.º, sem que este as tenha iniciado no prazo de seis meses.
+
+2 - O arrendatário pode ainda adquirir o locado no caso de o senhorio ou o município terem suspendido a execução de obras anteriormente iniciadas nos termos das alíneas do número anterior e não as terem retomado no prazo de 90 dias a contar da suspensão, desde que o arrendatário tenha posteriormente intimado ao seu reinício em prazo não superior a 30 dias.
+
+3 - Cessa o disposto nos números anteriores quando o senhorio não der início à obra por motivo imputável à Administração Pública, nomeadamente por demora no licenciamento da obra ou na decisão sobre a atribuição de apoio à reabilitação do prédio.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 36.º — Acção de aquisição
+
+1 - O arrendatário com direito de aquisição pode exercê-lo, no prazo de três anos a contar do final do prazo previsto na alínea b) do n.º 1 do artigo anterior, desde que o senhorio não tenha entretanto iniciado as obras, mediante a propositura de acção judicial a tal destinada.
+
+2 - A petição inicial contém a descrição das obras que o autor pretende realizar e é acompanhada de comprovativo da aprovação pelo município do projecto de arquitectura, quando exigível.
+
+3 - A sentença tem por efeito a transmissão da propriedade para o arrendatário e só é proferida mostrando-se integralmente pago o preço e satisfeitas as obrigações fiscais inerentes à transmissão.
+
+4 - A sentença declara o cumprimento ou a isenção das obrigações fiscais e refere a obrigação de reabilitação e manutenção que recaem sobre o adquirente.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 37.º — Legitimidade passiva
+
+A acção deve ser proposta contra o senhorio e ainda, quando não seja a mesma pessoa, contra o proprietário, superficiário ou usufrutuário.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 38.º — Valor da aquisição
+
+1 - O valor de aquisição é o resultante de avaliação feita nos termos do CIMI há menos de três anos.
+
+2 - O autor tem legitimidade para requerer a avaliação fiscal referida no número anterior.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 39.º — Obrigação de reabilitação e manutenção
+
+1 - O adquirente do prédio deve realizar as obras indicadas na ficha de avaliação do estado de conservação como necessárias para a obtenção de uma classificação de médio.
+
+2 - As obras devem ser iniciadas no prazo de 120 dias a contar da aquisição, aplicando-se, com as necessárias adaptações, o disposto no n.º 3 do artigo 35.º
+
+3 - O adquirente do prédio deve mantê-lo em estado de conservação médio, ou superior, durante os 20 anos subsequentes à aquisição.
+
+4 - Em caso de transmissão ocorrida nos 20 anos seguintes à aquisição pelo arrendatário, o novo titular sucede nas obrigações previstas nos números anteriores.
+
+5 - O disposto no n.º 1 não impede o adquirente de efectuar outras obras, nomeadamente tendentes a melhorar o prédio em mais do que aquilo a que está obrigado.
+
+6 - O adquirente pode efectuar obras de reconstrução ou de alteração, tal como definidas nas alíneas c) e e) do artigo 2.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, desde que mantenha condições de ocupação análogas às anteriores para todos os ocupantes do prédio.
+
+7 - Não se aplica a restrição prevista na parte final do número anterior quando haja acordo dos ocupantes.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 40.º — Reversão
+
+1 - Se o disposto no artigo anterior não for cumprido, o anterior proprietário tem direito à reaquisição do prédio pelo mesmo preço.
+
+2 - O direito à reaquisição é exercido através de acção judicial, seguindo-se, com as necessárias adaptações, o disposto no artigo 36.º
+
+3 - Em caso de reversão, é aplicável o disposto nos n.os 3 e 4 do artigo anterior.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 41.º — Registo predial
+
+O registo da aquisição pelo arrendatário contém referência à obrigação prevista nos n.os 2 e 3 do artigo 39.º
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 42.º — Prédios constituídos em propriedade horizontal
+
+1 - Estando o prédio constituído em propriedade horizontal, o arrendatário pode adquirir a fracção autónoma locada.
+
+2 - Se as obras necessárias à obtenção de um nível de conservação médio incidirem sobre outras fracções autónomas ou sobre partes comuns do prédio, o arrendatário pode adquirir as fracções necessárias à realização da obra, podendo, quando indispensável, adquirir a totalidade das fracções.
+
+3 - O titular de fracção autónoma a adquirir pode, na contestação da acção de aquisição, declarar estar disposto a participar nas obras necessárias, caso em que a acção improcede quanto a ele.
+
+4 - A declaração prevista no número anterior vale como título executivo para a execução da obrigação dela decorrente.
+
+5 - Pretendendo o arrendatário adquirir fracção além daquela que arrenda, os demais condóminos podem declarar pretender a aquisição, para si, dessa fracção, caso em que se abre licitação entre os interessados, revertendo o excesso para o alienante.
+
+6 - O condómino interessado na aquisição prevista no número anterior que não seja parte no processo pode intervir na acção para esse efeito.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 43.º — Prédios não constituídos em propriedade horizontal
+
+1 - Se o locado consistir em edifício composto por uma única unidade, ou em edifício composto por diversas unidades e que, por qualquer motivo, não possa ser submetido ao regime da propriedade horizontal, a aquisição opera em relação à totalidade do prédio.
+
+2 - Se o locado consistir em unidade de um edifício composto por diversas fracções em condições de constituírem fracções autónomas, sem que o mesmo se encontre constituído em propriedade horizontal, o arrendatário pode, na própria acção de aquisição e em alternativa:
+
+a) Solicitar ao tribunal a constituição judicial da propriedade horizontal, operando a aquisição da propriedade apenas em relação à fracção autónoma que vier a corresponder ao locado;
+
+b) Solicitar ao tribunal a constituição judicial da propriedade horizontal, operando a aquisição da propriedade em relação à fracção autónoma que vier a corresponder ao locado e ainda em relação às fracções necessárias à realização da obra, nos termos do n.º 2 do artigo anterior.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 44.º — Aquisição de outras fracções
+
+1 - No caso previsto na alínea b) do n.º 2 do artigo anterior, são partes passivas os sujeitos referidos no artigo 36.º e ainda, no caso de as fracções a adquirir se encontrarem arrendadas, os respectivos arrendatários.
+
+2 - O réu não arrendatário pode, na contestação da acção de aquisição, optar por manter a titularidade de uma ou mais fracções, à excepção da ocupada pelo autor.
+
+3 - O réu arrendatário pode, na contestação da acção de aquisição, optar pela aquisição da fracção por si ocupada, direito este que substitui o direito de preferência previsto no artigo 1091.º do Código Civil, quando existente.
+
+4 - As opções previstas nos n.os 2 e 3 pressupõem a obrigação de participar nas obras necessárias, sendo aplicável o disposto no n.º 3 do artigo 42.º
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 45.º — Responsabilidade contraordenacional
+
+1 - Sem prejuízo da responsabilidade civil, criminal ou disciplinar, são puníveis como contraordenação as falsas declarações dos técnicos autores de projetos no termo de responsabilidade previsto na alínea a) do n.º 2 do artigo 8.º
+
+2 - A contraordenação prevista no número anterior é punível com coima de (euro) 3000 a (euro) 200 000.
+
+3 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+
+4 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
+
+5 - Consoante a gravidade da contraordenação e a culpa do agente, pode ser aplicada, simultaneamente com a coima, a sanção acessória de interdição do exercício, até ao máximo de quatro anos, da profissão ou atividade conexas com a infração praticada.
+
+6 - As sanções previstas nos números anteriores são comunicadas à ordem ou associação profissional respetiva, quando exista.
+
+7 - Sem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, a competência para determinar a instauração dos processos de contraordenação, para designar o instrutor e para aplicar as coimas e as sanções acessórias pertence ao presidente da câmara municipal ou, se houver delegação de competências, aos vereadores.
+
+8 - O produto da aplicação das coimas reverte a favor do município, inclusive quando as mesmas sejam cobradas em juízo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 46.º — Responsabilidade criminal
+
+1 - As falsas declarações ou informações prestadas no termo de responsabilidade previsto na alínea a) do n.º 2 do artigo 8.º pelos técnicos autores de projetos são puníveis nos termos do artigo 256.º do Código Penal.
+
+2 - O disposto no número anterior não prejudica a aplicação do artigo 277.º do Código Penal.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+#### Secção IV — Disposições sancionatórias
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+#### Secção V — Disposições finais e transitórias
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2012 - Diário da República n.º 157/2012, Série I de 2012-08-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2012-175304), em vigor a partir de 2012-11-12
+
+###### Artigo 47.º — Comunicações
+
+Às comunicações entre senhorio e arrendatário previstas no presente decreto-lei aplica-se o disposto nos artigos 9.º a 12.º do NRAU.
+
+###### Artigo 48.º — Alteração ao Decreto-Lei n.º 555/99, de 16 de Dezembro
+
+1 - O artigo 92.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, passa a ter a seguinte redacção:
+
+«Artigo 92.º
+
+Despejo administrativo
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Ao despejo de ocupante titular de contrato de arrendamento aplica-se o disposto no Decreto-Lei n.º 157/2006, de 8 de Agosto.»
+
+2 - O prazo previsto no n.º 2 do artigo 71.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, para requerer a emissão do alvará não corre na pendência das acções de aquisição ou denúncia previstas neste decreto-lei.
+
+###### Artigo 49.º — Norma revogatória
+
+É revogada a Lei n.º 2088, de 3 de Junho de 1957.
+
+###### Artigo 50.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 30.º dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.
+
+Promulgado em 26 de Julho de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 27 de Julho de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

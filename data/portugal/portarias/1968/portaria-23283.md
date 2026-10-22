@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:234739:por
+title: Portaria n.º 23283
+short_title: null
+summary: Aprova como normas definitivas, com os n.os NP-500, NP-501, NP-502 e NP-503, as normas provisórias P-500, P-501,
+  P-502 e P-503 - Tubos de grés cerâmico
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Indústria - Inspecção-Geral dos Produtos Agrícolas e Industriais
+proposing_entity: null
+official_number: '23283'
+official_date: null
+publication_date: '1968-03-25'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 72/1968, Série I de 1968-03-25
+  number: '72'
+  series: I
+  supplement: null
+  pages: 396 - 396
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/03/07200/03960396.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '234739'
+  dre_path: /dr/detalhe/portaria/23283-1968-234739
+  internal: pt:dre:234739:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/23283-1968-234739
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23283-1968-234739
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1968-03-25T00:00:00Z'
+integrity:
+  source_sha256: f88c6abad253e758cfaf901d418c0501e18f950ee483dfd364474b9b11a1a7c2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1968/DRE-1968-23283-234739.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 23283
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, nos termos do artigo 8.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952, aprovar como normas definitivas, com as alterações propostas nos respectivos pareceres do Conselho de Normalização e com os n.os NP-500, NP-501, NP-502 e NP-503, as seguintes normas provisórias:
+
+P-500 - Tubos de grés cerâmico. Características e recepção.
+
+P-501 - Tubos de grés cerâmico. Determinação das dimensões.
+
+P-502 - Tubos de grés cerâmico. Ensaio de pressão interior.
+
+P-503 - Tubos de grés cerâmico. Ensaio de compressão diametral.
+
+Secretaria de Estado da Indústria, 25 de Março de 1968. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.

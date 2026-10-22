@@ -1,0 +1,245 @@
+---
+schema_version: '1.0'
+id: pt:dre:158614:por
+title: Decreto n.º 13/92
+short_title: null
+summary: Aprova, para adesão, o Protocolo Que Emenda a Convenção para a Prevenção da Poluição Marítima Causada por Operações
+  de Imersão Efectuadas por Navios e Aeronaves
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 13/92
+official_date: null
+publication_date: '1992-02-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 43/1992, Série I-A de 1992-02-20
+  number: '43'
+  series: I
+  supplement: null
+  pages: 1024 - 1026
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/02/043a00/10241026.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/13/1992/02/20/p/dre/pt/html
+  oj: null
+  dre: '158614'
+  dre_path: /dr/detalhe/decreto/13-1992-158614
+  internal: pt:dre:158614:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-1992-158614
+  metadata_url: https://data.dre.pt/eli/dec/13/1992/02/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/13-1992-158614
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-02-20T00:00:00Z'
+integrity:
+  source_sha256: a0872b7b73702012490dcc5077002b9e7a863324ef3bce31905bd217947f3387
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-13-158614.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embarcação
+- Avião
+- Convenção
+- Portugal
+- Imersão de Resíduos
+- Meio Marinho
+- Resíduo
+- OSLO
+- Proteção do Ambiente
+- Poluição Marinha
+- Poluição pelos Navios
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 13/92
+
+de 20 de Fevereiro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado, para adesão, o Protocolo Que Emenda a Convenção para a Prevenção da Poluição Marítima Causada por Operações de Imersão Efectuadas por Navios e Aeronaves, adoptado em 14 de Junho de 1987, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 28 de Novembro de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
+
+Ratificado em 21 de Janeiro de 1992.
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 4 de Fevereiro de 1992.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+PROTOCOL AMENDING THE CONVENTION FOR THE PREVENTION OF MARINE POLLUTION BY DUMPING FROM SHIPS AND AIR CRAFT.
+
+Article I
+
+Article 2 of the Convention shall be amended to read as follows:
+
+The present Convention shall apply to the maritime area within the following limits:
+
+a) Those parts of the Atlantic and Arctic Oceans and the dependent seas which lie north of 36º north latitude and between 42º west longitude and 51º east longitude, but excluding:
+
+i) The Baltic Sea and Belts lying to the south and east of lines drawn from Hasenore Head to Gniben Point, from Korshage to Spodsbierg and from Gilbjerg to the Kullen; and
+
+ii) The Mediterranean Sea and its dependent seas as far as the point of intersection of the parallel of 36º north latitude and the meridian of 5º36' west longitude;
+
+b) That part of the Atlantic Ocean north of 59º north latitude and between 44º west longitude and 42º west longitude.
+
+Article II
+
+Article 15, 1), c), of the Convention shall be amended to read as follows:
+
+c) By ships and aircraft believed to be engaged in dumping within its internal waters of within its territorial sea.
+
+Article III
+
+Article 15, 2), of the Convention shall be amended to read as follows:
+
+Each Contracting Party undertakes to issue instructions to its maritime inspection vessels and aircraft and to other appropriate services to report to its authorities any incidents or conditions on the high seas or in that part of the sea beyond and adjacent to the territorial sea under its jurisdiction in accordance with international law which give rise to suspicious that dumping in contravention of the provisions of the present Convention has occurred or is about to occur. That Contracting Party shall, if it considers it appropriate, report accordingly to any other Contracting Party concerned.
+
+Article IV
+
+The following paragraph shall be added to article 19 of the Convention:
+
+4) «Maritime area» means that part of the internal waters of a Contracting Party designated by that Contracting Party for the purpose of this Convention, the territorial sea of a Contracting Party, that part of the sea beyond and adjacent to the territorial sea under the jurisdiction of a Contracting Party in accordance with international law, and the high seas.
+
+Article V
+
+Article 22 of this Convention shall be amended to read as follows:
+
+This Convention, as amended by the Protocols opened for signature on 5 December 1989 and on 6 March 1990, shall be open for accession by any State referred to in article 20. The Contracting Parties may unanimously invite other States do accede to te Convention as amended. The instruments of accession shall be deposited with the Government of Norway.
+
+Article VI
+
+This Protocol shall be open for signature at Oslo from 5 December 1989 until 6 March 1990 by the States which are Parties to the Convention on the data of the opening for signature of this Protocol.
+
+Article VII
+
+This Protocol shall be subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Government of Norway.
+
+Article VIII
+
+This Protocol shall be open for accession by any State referred to in article 22 of the Convention which has not signed this Protocol. The instruments of accession shall be deposited with the Government of Norway.
+
+Article IX
+
+1) This Protocol shall enter into force on the first day of the second month following the date on which all States referred to in article VI of this Protocol shall have deposited their instrument of ratification, acceptance, appproval or accession.
+
+2) For any State accending to this Protocol after its entry into force, this Protocol shall enter into force on the first day of the second month following the date on which that State shall have deposited its instrument of accession.
+
+Article X
+
+The depository Government shall inform the Contracting Parties to the Convention of signatures of this Protocol and of the deposit of instruments of ratification, acceptance, approval or accession, in accordance with articles VI, VII and VIII.
+
+Article XI
+
+The original of this Protocol, of which the English and French texts are equaly authentic, shall be deposited with the Government of Norway, which shall send certified copies thereof to the Contracting Parties to the Convention. It shall transmit a certified copy to the Secretary-General of the United Nations for registration and publication in accordance with article 102 of the Charter of the United Nations.
+
+PROTOCOLO QUE EMENDA A CONVENÇÃO PARA A PREVENÇÃO DA POLUIÇÃO MARÍTIMA CAUSADA POR OPERAÇÕES DE IMERSÃO EFECTUADAS POR NAVIOS E AERONAVES.
+
+Artigo I
+
+O artigo 2 da Convenção deverá ser emendado forma a ficar como segue:
+
+A presente Convenção aplica-se à área marítima dentro dos seguintes limites:
+
+a) Aquelas partes dos oceanos Atlântico e Árctico e dos seus mares secundários que ficam a norte da latitude 36º norte e entre as longitudes de 42º oeste e 51º leste, excluindo, porém:
+
+i) O mar Báltico e os Belts ao sul e a leste das linhas que vão de Hasenore Head a Gnibit Point, de Korshage a Spodsbierg e de Gilbierg Head a Kullen; e
+
+ii) O mar Mediterrâneo e os mares secundários até ao ponto de intersecção do paralelo de 36º de latitude norte com o meridiano de 5º36' de longitude oeste;
+
+b) A parte do oceano Atlântico a norte da latitude de 59º norte e entre as longitudes de 42º e 44º oeste.
+
+Artigo II
+
+O artigo 15, 1), c), da Convenção será emendado de forma a ficar como segue:
+
+c) Pelos navios e aeronaves que se pense estarem a praticar a imersão dentro das suas águas interiores ou das suas águas territoriais.
+
+Artigo III
+
+O artigo 15, 2), da Convenção será emendado de forma a ficar como segue:
+
+Cada Parte Contratante compromete-se a emitir instruções aos seus navios e aeronaves de inspecção marítima, assim como outros serviços qualificados, no sentido de assinalarem às suas autoridades nacionais quaisquer incidentes ou situações no alto mar ou na parte do mar adjacente e para além das águas territoriais, sob sua jurisdição de acordo com o direito internacional, que façam suspeitar que aí ocorreu ou está prestes a ocorrer uma imersão em contravenção das disposições da presente Convenção. A Parte Contratante em questão informará do facto, se assim o julgar apropriado, qualquer outra Parte Contratante interessada.
+
+Artigo IV
+
+Ao artigo 19 da Convenção será acrescentado o seguinte parágrafo:
+
+4) «Área marítima» significa a parcela das águas interiores de uma Parte Contratante por ela designada para efeitos desta Convenção, as águas territoriais da Parte Contratante, a parte do mar adjacente às águas territoriais e para além destas, sob jurisdição da Parte Contratante de acordo com o direito internacional, e o alto mar.
+
+Artigo V
+
+O artigo 22 desta Convenção deverá ser emendado de forma a ficar como segue:
+
+Esta Convenção, tal como emendada pelos Protocolos, foi aberta à assinatura em 5 de Dezembro de 1989 e em 6 de Março de 1990 ficará aberta à adesão de todos os Estados designados no artigo 20. As Partes Contratantes poderão, por unanimidade, convidar outros Estados a aderir à Convenção, como emendada. Os instrumentos de adesão serão depositados junto do Governo da Noruega.
+
+Artigo VI
+
+Este Protocolo estará aberto em Oslo, de 5 de Dezembro de 1989 a 5 de Março de 1990, à assinatura dos Estados que forem Partes Contratantes da Convenção na data de abertura deste Protocolo à assinatura.
+
+Artigo VII
+
+Este Protocolo estará sujeito a ratificação, aceitação ou aprovação. Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Governo da Noruega.
+
+Artigo VIII
+
+Este Protocolo estará aberto à adesão de qualquer Estado referido no artigo 22 da Convenção que não tenha assinado este Protocolo. Os instrumentos de adesão serão depositados junto do Governo da Noruega.
+
+Artigo IX
+
+Este Protocolo entrará em vigor no 1.º dia do 2.º mês a seguir à data na qual todos os Estados referidos no artigo VI deste Protocolo tenham depositado os seus instrumentos de ratificação, aceitação, aprovação ou adesão.
+
+Para qualquer Estado que venha a aderir a este Protocolo depois da sua entrada em vigor, este Protocolo entrará em vigor no 1.º dia do 2.º mês a seguir à data em que esse Estado tiver depositado os seus instrumentos de adesão.
+
+Artigo X
+
+O Governo depositário informará as Partes Contratantes da Convenção das assinaturas deste Protocolo e do depósito dos instrumentos de ratificação, aceitação, aprovação ou adesão, de acordo com os artigos VI, VII e VIII.
+
+Artigo XI
+
+O original deste Protocolo, cujo texto é igualmente autêntico em francês e em inglês, ficará depositado junto do Governo da Noruega, o qual deverá enviar cópias autenticadas às Partes Contratantes da Convenção. Enviará ainda uma cópia autenticada ao Secretário-Geral das Nações Unidas, para registo e publicação, de acordo com o artigo 102.º da Carta das Nações Unidas.

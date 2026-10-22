@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:853547752:por
+title: Declaração de Retificação n.º 143/2024
+short_title: null
+summary: Retifica o Aviso n.º 2689/2024, de 2 de fevereiro, publicado no Diário da República, 2.ª série, n.º 24, de 2 de fevereiro
+  de 2024, que aprova o projeto do Regulamento do Fundo Verde de Apoio às Famílias de Cascais
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Cascais
+proposing_entity: null
+official_number: 143/2024
+official_date: null
+publication_date: '2024-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 39/2024, Série II de 2024-02-23
+  number: '39'
+  series: II
+  supplement: null
+  pages: 237 - 238
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/02/039000000/0023700238.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '853547752'
+  dre_path: /dr/detalhe/declaracao-retificacao/143-2024-853547752
+  internal: pt:dre:853547752:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/143-2024-853547752
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/143-2024-853547752
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-02-23T00:00:00Z'
+integrity:
+  source_sha256: bf08b1ff31eb767d564df4901bc58b4e3c2added82698c21d45fc99277170c95
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-143-853547752.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 143/2024
+
+Para os devidos efeitos, observado o disposto no artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, S. A., de 13 de julho de 2023, e obtido parecer favorável da entidade emitente, declara-se que o [Aviso n.º 2689/2024](https://diariodarepublica.pt/dr/detalhe/aviso/2689-2024-840061881), de 2 de fevereiro, publicado no Diário da República, 2.ª série, n.º 24, de 2 de fevereiro de 2024, saiu com incorreções na formatação das tabelas referentes às tipologias 1 a 5.
+
+Assim, mediante declaração da entidade emitente, republicam-se as referidas tabelas, na versão corrigida, em anexo à presente declaração de retificação, da qual são parte integrante.
+
+12 de fevereiro de 2024. - O Diretor da Unidade do Diário da República da Imprensa Nacional-Casa da Moeda, S. A., Bruno Pereira.
+
+## ANEXO
+
+Tipologia 1: Substituição de janelas não eficientes por janelas eficientes, de classe energética «A»
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Medidas - Escalão IRS | Taxa de comparticipação | Taxa de comparticipação | Taxa de comparticipação | Limite | Limite |
+| Medidas - Escalão IRS | 1.º - 2.º escalão | 3.º - 4.º escalão | 5.º - 9.º escalão | 1.º - 4.º escalão | 5.º - 9.º escalão |
+| Janelas eficientes... | 100 % | 90 % | 70 % | 3 000 (euro) | 3 000 (euro) |
+
+Tipologia 2: Aplicação ou substituição de isolamento térmico em coberturas, paredes ou pavimentos, bem como a substituição de portas de entrada
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Medidas - Escalão IRS | Taxa de Comparticipação | Taxa de Comparticipação | Taxa de Comparticipação | Limite | Limite |
+| Medidas - Escalão IRS | 1.º - 2.º escalão | 3.º - 4.º escalão | 5.º - 9.º escalão | 1.º - 4.º escalão | 5.º - 9.º escalão |
+| Coberturas e/ou pavimentos | Coberturas e/ou pavimentos | Coberturas e/ou pavimentos | Coberturas e/ou pavimentos | Coberturas e/ou pavimentos | Coberturas e/ou pavimentos |
+| Recorrendo a materiais de base natural (ecomateriais) ou que incorporem materiais reciclados... | 100 % | 90 % | 80 % | 5 000 (euro) | 5 000 (euro) |
+| Recorrendo a outros materiais ... | 100 % | 90 % | 60 % | 4 500 (euro) | 4 500 (euro) |
+| Paredes | Paredes | Paredes | Paredes | Paredes | Paredes |
+| Recorrendo a materiais de base natural (ecomateriais) ou que incorporem materiais reciclados... | 100 % | 90 % | 80 % | 5 000 (euro) | 5 000 (euro) |
+| Recorrendo a outros materiais ... | 100 % | 90 % | 60 % | 4 500 (euro) | 4 500 (euro) |
+| Portas de entrada | Portas de entrada | Portas de entrada | Portas de entrada | Portas de entrada | Portas de entrada |
+| Portas de entrada... | 100 % | 90 % | 70 % | 750 (euro) | 750 (euro) |
+
+Tipologia 3: Sistemas de aquecimento e/ou arrefecimento ambiente e/ou de águas quentes sanitárias (AQS), que recorram a energia renovável, de classe energética «A»
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Medidas - Escalão IRS | Taxa de Comparticipação | Taxa de Comparticipação | Taxa de Comparticipação | Limite | Limite |
+| Medidas - Escalão IRS | 1.º - 2.º escalão | 3.º - 4.º escalão | 5.º - 9.º escalão | 1.º - 4.º escalão | 5.º - 9.º escalão |
+| Bombas de calor... | 100 % | 90 % | 70 % | 2 500 (euro) | 2 500 (euro) |
+| Sistemas solares térmicos ... | 100 % | 90 % | 70 % | 2 500 (euro) | 2 500 (euro) |
+| Caldeiras e recuperadores a biomassa com elevada eficiência ... | 100 % | 90 % | 70 % | 1 500 (euro) | 1 500 (euro) |
+| Termoacumulador ... | 100 % | 90 % | 70 % | 400 (euro) | 400 (euro) |
+
+Tipologia 4: Instalação de painéis fotovoltaicos e outros equipamentos de produção de energia renovável para autoconsumo com ou sem armazenamento
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Medidas - Escalão IRS | Taxa de comparticipação | Taxa de comparticipação | Taxa de comparticipação | Limite | Limite |
+| Medidas - Escalão IRS | 1.º - 2.º escalão | 3.º - 4.º escalão | 5.º - 9.º escalão | 1.º - 4.º escalão | 5.º - 9.º escalão |
+| Painéis fotovoltaicos... | 100 % | 90 % | 50 % | 1 500 (euro) | 1 500 (euro) |
+
+Tipologia 5: Instalação e substituição de equipamentos
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Medidas - Escalão IRS | Taxa de comparticipação | Taxa de comparticipação | Taxa de comparticipação | Limite | Limite |
+| Medidas - Escalão IRS | 1.º - 2.º escalão | 3.º - 4.º escalão | 5.º - 9.º escalão | 1.º - 4.º escalão | 5.º - 9.º escalão |
+| Frigoríficos... | 100 % | 90 % | 70 % | 700 (euro) | 700 (euro) |
+| Máquinas de lavar loiça... | 100 % | 90 % | 70 % | 1 000 (euro) | 1 000 (euro) |
+| Máquinas de lavar roupa... | 100 % | 90 % | 70 % | 500 (euro) | 500 (euro) |
+| Placas vitrocerâmica... | 100 % | 90 % | 70 % | 200 (euro) | 200 (euro) |
+| Fornos elétricos... | 100 % | 90 % | 70 % | 500 (euro) | 500 (euro) |

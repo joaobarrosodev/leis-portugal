@@ -1,0 +1,248 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70641451:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-114685679",
+ "dre_path": "/dr/detalhe/portaria/352-2015-70641451",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-10-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114670859",
+    "114670860",
+    "114670861",
+    "114670862",
+    "114670863",
+    "114670865",
+    "114670866",
+    "114670867",
+    "114670868",
+    "114670869",
+    "114670870",
+    "114670871",
+    "114670872",
+    "114670873",
+    "114670874"
+   ]
+  },
+  {
+   "date": "2018-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114682828:por",
+     "title": "Portaria n.º 46/2018",
+     "published": "2018-02-12",
+     "dre_path": "/dr/detalhe/portaria/46-2018-114682828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "114670859",
+    "114670860",
+    "114687376",
+    "114670862",
+    "114670863",
+    "114670864",
+    "114670865",
+    "114670866",
+    "114670867",
+    "114670868",
+    "114670869",
+    "114670870",
+    "114670871",
+    "114670872",
+    "114670873",
+    "114670874"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176907500:por",
+     "title": "Portaria n.º 331/2021",
+     "published": "2021-12-31",
+     "dre_path": "/dr/detalhe/portaria/331-2021-176907500"
+    }
+   ],
+   "changes": [
+    "Altera Anexo IX"
+   ],
+   "fragments": [
+    "114670859",
+    "114670860",
+    "114687376",
+    "114670862",
+    "114670863",
+    "114670864",
+    "114670865",
+    "114670866",
+    "114670867",
+    "114670868",
+    "114670869",
+    "114670870",
+    "114670871",
+    "114670872",
+    "177082979",
+    "114670874"
+   ]
+  }
+ ],
+ "fragments": {
+  "114670859": {
+   "fragment_id": "114685680",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 352/2015\n\nde 13 de outubro\n\nA Portaria n.º 50/2015, de 25 de fevereiro, estabelece o regime de aplicação dos apoios n.os 7.4, «Conservação do solo», 7.5, «Uso eficiente da água», 7.6, «Culturas permanentes tradicionais», 7.7, «Pastoreio extensivo», 7.9, «Mosaico agroflorestal», e 7.12, «Apoio agroambiental à apicultura», da medida n.º 7, «Agricultura e recursos naturais», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.\n\nOs beneficiários dos apoios pagos no âmbito das ações n.os 7.4 a 7.7, 7.9 e 7.12 devem cumprir determinadas obrigações durante o período mínimo de duração do compromisso, sob pena de redução ou exclusão dos apoios.\n\nNos termos do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014 da Comissão, de 11 de março de 2014, a redução ou exclusão do apoio deve ter em conta a gravidade, extensão, duração e recorrência do incumprimento dos compromissos e outras obrigações.\n\nNeste contexto e para assegurar a aplicação uniforme de reduções ou exclusões de acordo com os critérios fixados no Regulamento Delegado (UE) n.º 640/2014 da Comissão, de 11 de março de 2014, estabelece-se, em portaria própria, uma tabela de avaliação dos incumprimentos de compromissos relativos às ações n.os 7.4 a 7.7, 7.9 e 7.12 da medida n.º 7 do PDR 2020.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto na alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no n.º 5 do artigo 77.º da Portaria n.º 50/2015, de 25 de fevereiro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "114670860": {
+   "fragment_id": "114685681",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece os termos e os critérios aplicáveis à avaliação dos incumprimentos de compromissos ou outras obrigações, para efeitos da aplicação das reduções e exclusões previstas no n.º 5 do artigo 77.º da Portaria n.º 50/2015, de 25 de fevereiro, que estabelece o regime de aplicação dos apoios n.os 7.4, «Conservação do solo», 7.5, «Uso eficiente da água», 7.6, «Culturas permanentes tradicionais», 7.7, «Pastoreio extensivo», 7.9, «Mosaico agroflorestal», e 7.12, «Apoio agroambiental à apicultura», da medida n.º 7, «Agricultura e recursos naturais», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "114670861": {
+   "fragment_id": "114685682",
+   "type": 11,
+   "heading": "Artigo 2.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Reduções e exclusões\n\nAs reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às ações n.os 7.4, «Conservação do solo», 7.5, «Uso eficiente da água», 7.6, «Culturas permanentes tradicionais», 7.7, «Pastoreio extensivo», 7.9, «Mosaico agroflorestal», e 7.12, «Apoio agroambiental à apicultura», da medida n.º 7, «Agricultura e recursos naturais», determinam-se respetivamente nos seguintes termos:\n\na) Incumprimentos de compromissos da operação «Sementeira direta ou mobilização na linha» da ação n.º 7.4, «Conservação do solo», nos termos da tabela constante do anexo i da presente portaria, da qual faz parte integrante;\n\nb) Incumprimentos de compromissos da operação «Enrelvamento da entrelinha de culturas permanentes» da ação n.º 7.4, «Conservação do solo», nos termos da tabela constante do anexo ii da presente portaria, da qual faz parte integrante;\n\nc) Incumprimentos de compromissos da ação n.º 7.5, «Uso eficiente da água», nos termos da tabela constante do anexo iii da presente portaria, da qual faz parte integrante;\n\nd) Incumprimentos de compromissos da operação n.º 7.6.1, «Culturas permanentes tradicionais» da ação n.º 7.6, «Culturas permanentes tradicionais», nos termos da tabela constante do anexo iv da presente portaria, da qual faz parte integrante;\n\ne) Incumprimentos de compromissos da operação n.º 7.6.2, «Culturas permanentes tradicionais - Douro Vinhateiro» da ação n.º 7.6, «Culturas permanentes tradicionais», nos termos da tabela constante do anexo v da presente portaria, da qual faz parte integrante;\n\nf) Incumprimentos de compromissos da operação «Manutenção de lameiros de alto valor natural» da ação n.º 7.7, «Pastoreio extensivo», nos termos da tabela constante do anexo vi da presente portaria, da qual faz parte integrante;\n\ng) Incumprimentos de compromissos da operação «Manutenção de sistemas agrossilvopastoris sob montado» da ação n.º 7.7, «Pastoreio extensivo», nos termos da tabela constante do anexo vii da presente portaria, da qual faz parte integrante;\n\nh) Incumprimentos de compromissos da operação «Proteção do lobo-ibérico» da ação n.º 7.7, «Pastoreio extensivo», nos termos da tabela constante do anexo viii da presente portaria, da qual faz parte integrante;\n\ni) Incumprimentos de compromissos da ação n.º 7.9, «Mosaico agroflorestal», nos termos da tabela constante do anexo ix da presente portaria, da qual faz parte integrante;\n\nj) Incumprimentos de compromissos da ação n.º 7.12, «Apoio agroambiental à apicultura», nos termos da tabela constante do anexo x da presente portaria, da qual faz parte integrante."
+  },
+  "114670862": {
+   "fragment_id": "114685683",
+   "type": 11,
+   "heading": "Artigo 3.º — Orientações técnicas e normas de procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Orientações técnicas e normas de procedimento\n\nCompete ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), aprovar as orientações técnicas e normas de procedimento complementares de execução do disposto na presente portaria, nos termos do disposto na alínea e) do n.º 1 do artigo 43.º do Decreto-Lei n.º 137/2014, de 12 de setembro, e da alínea g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 159/2014, de 27 de outubro."
+  },
+  "114670863": {
+   "fragment_id": "114685684",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia útil seguinte ao da sua publicação e produz efeitos à data da entrada em vigor da Portaria n.º 50/2015, de 25 de fevereiro."
+  },
+  "114670865": {
+   "fragment_id": "114685686",
+   "type": 14,
+   "heading": "Anexo I — Incumprimentos de compromissos da operação «Sementeira direta ou mobilização na linha» da ação n.º 7.4, «Conservação do solo»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Incumprimentos de compromissos da operação «Sementeira direta ou mobilização na linha» da ação n.º 7.4, «Conservação do solo»\n\n[a que se refere a alínea a) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "114670866": {
+   "fragment_id": "114685687",
+   "type": 14,
+   "heading": "Anexo II — Incumprimentos de compromissos da operação «Enrelvamento da entrelinha de culturas permanentes» da ação n.º 7.4, «Conservação do solo»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Incumprimentos de compromissos da operação «Enrelvamento da entrelinha de culturas permanentes» da ação n.º 7.4, «Conservação do solo»\n\n[a que se refere a alínea b) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "114670867": {
+   "fragment_id": "114685688",
+   "type": 14,
+   "heading": "Anexo III — Incumprimentos de compromissos da ação n.º 7.5, «Uso eficiente da água»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Incumprimentos de compromissos da ação n.º 7.5, «Uso eficiente da água»\n\n[a que se refere a alínea c) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "114670868": {
+   "fragment_id": "114685689",
+   "type": 14,
+   "heading": "Anexo IV — Incumprimentos de compromissos da operação n.º 7.6.1, «Culturas permanentes tradicionais» da ação n.º 7.6, «Culturas permanentes tradicionais»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Incumprimentos de compromissos da operação n.º 7.6.1, «Culturas permanentes tradicionais» da ação n.º 7.6, «Culturas permanentes tradicionais»\n\n[a que se refere a alínea d) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "114670869": {
+   "fragment_id": "114685690",
+   "type": 14,
+   "heading": "Anexo V — Incumprimentos de compromissos da operação n.º 7.6.2, «Culturas permanentes tradicionais - Douro Vinhateiro» da ação n.º 7.6, «Culturas permanentes tradicionais»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Incumprimentos de compromissos da operação n.º 7.6.2, «Culturas permanentes tradicionais - Douro Vinhateiro» da ação n.º 7.6, «Culturas permanentes tradicionais»\n\n[a que se refere a alínea e) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "114670870": {
+   "fragment_id": "114685691",
+   "type": 14,
+   "heading": "Anexo VI — Incumprimentos de compromissos da operação «Manutenção de lameiros de alto valor natural» da ação n.º 7.7, «Pastoreio extensivo»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Incumprimentos de compromissos da operação «Manutenção de lameiros de alto valor natural» da ação n.º 7.7, «Pastoreio extensivo»\n\n[a que se refere a alínea f) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "114670871": {
+   "fragment_id": "114685692",
+   "type": 14,
+   "heading": "Anexo VII — Incumprimentos de compromissos da operação «Manutenção de sistemas agrossilvopastoris sob montado» da ação n.º 7.7, «Pastoreio extensivo»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — Incumprimentos de compromissos da operação «Manutenção de sistemas agrossilvopastoris sob montado» da ação n.º 7.7, «Pastoreio extensivo»\n\n[a que se refere a alínea g) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "114670872": {
+   "fragment_id": "114685693",
+   "type": 14,
+   "heading": "Anexo VIII — Incumprimentos de compromissos da operação «Proteção do lobo-ibérico» da ação n.º 7.7, «Pastoreio extensivo»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — Incumprimentos de compromissos da operação «Proteção do lobo-ibérico» da ação n.º 7.7, «Pastoreio extensivo»\n\n[a que se refere a alínea h) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "114670873": {
+   "fragment_id": "114685694",
+   "type": 14,
+   "heading": "Anexo IX — Incumprimentos de compromissos da ação n.º 7.9, «Mosaico agroflorestal»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — Incumprimentos de compromissos da ação n.º 7.9, «Mosaico agroflorestal»\n\n[a que se refere a alínea i) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "114670874": {
+   "fragment_id": "114685695",
+   "type": 14,
+   "heading": "Anexo X — Incumprimentos de compromissos da ação n.º 7.12, «Apoio agroambiental à apicultura»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X — Incumprimentos de compromissos da ação n.º 7.12, «Apoio agroambiental à apicultura»\n\n[a que se refere a alínea j) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "114687376": {
+   "fragment_id": "114685682",
+   "type": 11,
+   "heading": "Artigo 2.º — Reduções e exclusões",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 2.º — Reduções e exclusões\n\n1- As reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às ações n.os 7.4, «Conservação do solo», 7.5, «Uso eficiente da água», 7.6, «Culturas permanentes tradicionais», 7.7, «Pastoreio extensivo», 7.9, «Mosaico agroflorestal», e 7.12, «Apoio agroambiental à apicultura», da medida n.º 7, «Agricultura e recursos naturais», determinam-se respetivamente nos seguintes termos:\n\na) Incumprimentos de compromissos da operação «Sementeira direta ou mobilização na linha» da ação n.º 7.4, «Conservação do solo», nos termos da tabela constante do anexo i da presente portaria, da qual faz parte integrante;\n\nb) Incumprimentos de compromissos da operação «Enrelvamento da entrelinha de culturas permanentes» da ação n.º 7.4, «Conservação do solo», nos termos da tabela constante do anexo ii da presente portaria, da qual faz parte integrante;\n\nc) Incumprimentos de compromissos da ação n.º 7.5, «Uso eficiente da água», nos termos da tabela constante do anexo iii da presente portaria, da qual faz parte integrante;\n\nd) Incumprimentos de compromissos da operação n.º 7.6.1, «Culturas permanentes tradicionais» da ação n.º 7.6, «Culturas permanentes tradicionais», nos termos da tabela constante do anexo iv da presente portaria, da qual faz parte integrante;\n\ne) Incumprimentos de compromissos da operação n.º 7.6.2, «Culturas permanentes tradicionais - Douro Vinhateiro» da ação n.º 7.6, «Culturas permanentes tradicionais», nos termos da tabela constante do anexo v da presente portaria, da qual faz parte integrante;\n\nf) Incumprimentos de compromissos da operação «Manutenção de lameiros de alto valor natural» da ação n.º 7.7, «Pastoreio extensivo», nos termos da tabela constante do anexo vi da presente portaria, da qual faz parte integrante;\n\ng) Incumprimentos de compromissos da operação «Manutenção de sistemas agrossilvopastoris sob montado» da ação n.º 7.7, «Pastoreio extensivo», nos termos da tabela constante do anexo vii da presente portaria, da qual faz parte integrante;\n\nh) Incumprimentos de compromissos da operação «Proteção do lobo-ibérico» da ação n.º 7.7, «Pastoreio extensivo», nos termos da tabela constante do anexo viii da presente portaria, da qual faz parte integrante;\n\ni) Incumprimentos de compromissos da ação n.º 7.9, «Mosaico agroflorestal», nos termos da tabela constante do anexo ix da presente portaria, da qual faz parte integrante;\n\nj) Incumprimentos de compromissos da ação n.º 7.12, «Apoio agroambiental à apicultura», nos termos da tabela constante do anexo x da presente portaria, da qual faz parte integrante.\n\n2 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n> Alterado pelo/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "114670864": {
+   "fragment_id": "114685685",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 14 de setembro de 2015."
+  },
+  "177082979": {
+   "fragment_id": "114685694",
+   "type": 14,
+   "heading": "Anexo IX — Incumprimentos de compromissos da ação n.º 7.9, «Mosaico agroflorestal»",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "## Anexo IX — Incumprimentos de compromissos da ação n.º 7.9, «Mosaico agroflorestal»\n\n[a que se refere a alínea i) do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-01"
+  }
+ }
+}

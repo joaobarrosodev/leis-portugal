@@ -1,0 +1,1163 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:213558633:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-213558674",
+ "dre_path": "/dr/detalhe/decreto-lei/36-2023-213558633",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-05-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213504149",
+    "213504150",
+    "213504151",
+    "213504152",
+    "213504153",
+    "213504154",
+    "213504155",
+    "213504156",
+    "213504157",
+    "213504158",
+    "213504159",
+    "213504160",
+    "213504161",
+    "213504162",
+    "213504164",
+    "213504165",
+    "213504166",
+    "213504167",
+    "213504168",
+    "213504169",
+    "213504170",
+    "213504171",
+    "213504172",
+    "213504173",
+    "213504174",
+    "213622475",
+    "213622476",
+    "213622477",
+    "213622478",
+    "213622479",
+    "213622480",
+    "213622481",
+    "213622482",
+    "213622483",
+    "213622484",
+    "213622485",
+    "213622486",
+    "213622487",
+    "213622488",
+    "213622489",
+    "213622490",
+    "213622491",
+    "213622492",
+    "213622493",
+    "213622494",
+    "213622495",
+    "213622496",
+    "213622497",
+    "213622498",
+    "213622499",
+    "213622500",
+    "213622501",
+    "213622502",
+    "213622503",
+    "213622504",
+    "213622505",
+    "213622506",
+    "213622507",
+    "213622508",
+    "213622509",
+    "213622510",
+    "213622511",
+    "213622512",
+    "213622513",
+    "213622514"
+   ]
+  },
+  {
+   "date": "2023-12-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225125603:por",
+     "title": "Decreto-Lei n.º 114/2023",
+     "published": "2023-12-04",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2023-225125603"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 40.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "213504149",
+    "213504150",
+    "213504151",
+    "213504152",
+    "213504153",
+    "213504154",
+    "213504155",
+    "213504156",
+    "213504157",
+    "213504158",
+    "213504159",
+    "213504160",
+    "216491553",
+    "213504162",
+    "213504163",
+    "213504164",
+    "213504165",
+    "213504166",
+    "213504167",
+    "213504168",
+    "213504169",
+    "213504170",
+    "213504171",
+    "213504172",
+    "213504173",
+    "213504174",
+    "213622475",
+    "225028456",
+    "213622477",
+    "213622478",
+    "213622479",
+    "213622480",
+    "213622481",
+    "213622482",
+    "213622483",
+    "213622484",
+    "213622485",
+    "213622486",
+    "213622487",
+    "213622488",
+    "213622489",
+    "213622490",
+    "213622491",
+    "213622492",
+    "213622493",
+    "213622494",
+    "213622495",
+    "213622496",
+    "213622497",
+    "213622498",
+    "213622499",
+    "213622500",
+    "213622501",
+    "213622502",
+    "213622503",
+    "213622504",
+    "213622505",
+    "213622506",
+    "213622507",
+    "213622508",
+    "213622509",
+    "213622510",
+    "213622511",
+    "216491554",
+    "213622513",
+    "225028457",
+    "213622514"
+   ]
+  },
+  {
+   "date": "2024-12-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:899204480:por",
+     "title": "Decreto-Lei n.º 103/2024",
+     "published": "2024-12-06",
+     "dre_path": "/dr/detalhe/decreto-lei/103-2024-899204480"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "213504149",
+    "213504150",
+    "213504151",
+    "213504152",
+    "213504153",
+    "213504154",
+    "213504155",
+    "213504156",
+    "213504157",
+    "213504158",
+    "213504159",
+    "213504160",
+    "216491553",
+    "213504162",
+    "213504163",
+    "213504164",
+    "213504165",
+    "213504166",
+    "213504167",
+    "902223777",
+    "902223778",
+    "213504170",
+    "902223779",
+    "213504172",
+    "213504173",
+    "213504174",
+    "213622475",
+    "902223780",
+    "213622477",
+    "213622478",
+    "213622479",
+    "213622480",
+    "213622481",
+    "902223781",
+    "213622483",
+    "213622484",
+    "213622485",
+    "213622486",
+    "902223782",
+    "213622488",
+    "213622489",
+    "213622490",
+    "213622491",
+    "213622492",
+    "213622493",
+    "213622494",
+    "213622495",
+    "213622496",
+    "213622497",
+    "213622498",
+    "213622499",
+    "213622500",
+    "213622501",
+    "213622502",
+    "213622503",
+    "213622504",
+    "213622505",
+    "213622506",
+    "213622507",
+    "213622508",
+    "213622509",
+    "213622510",
+    "213622511",
+    "902223776",
+    "213622513",
+    "225028457",
+    "213622514"
+   ]
+  },
+  {
+   "date": "2025-11-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:944410938:por",
+     "title": "Decreto-Lei n.º 117/2025",
+     "published": "2025-11-05",
+     "dre_path": "/dr/detalhe/decreto-lei/117-2025-944410938"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "213504149",
+    "213504150",
+    "213504151",
+    "213504152",
+    "213504153",
+    "213504154",
+    "213504155",
+    "213504156",
+    "213504157",
+    "213504158",
+    "213504159",
+    "213504160",
+    "216491553",
+    "213504162",
+    "213504163",
+    "213504164",
+    "213504165",
+    "213504166",
+    "213504167",
+    "944648697",
+    "944648698",
+    "213504170",
+    "902223779",
+    "213504172",
+    "213504173",
+    "213504174",
+    "213622475",
+    "902223780",
+    "213622477",
+    "213622478",
+    "213622479",
+    "213622480",
+    "213622481",
+    "902223781",
+    "213622483",
+    "213622484",
+    "213622485",
+    "213622486",
+    "902223782",
+    "213622488",
+    "213622489",
+    "213622490",
+    "213622491",
+    "213622492",
+    "213622493",
+    "213622494",
+    "213622495",
+    "213622496",
+    "213622497",
+    "213622498",
+    "213622499",
+    "213622500",
+    "213622501",
+    "213622502",
+    "213622503",
+    "213622504",
+    "213622505",
+    "213622506",
+    "213622507",
+    "213622508",
+    "213622509",
+    "213622510",
+    "213622511",
+    "902223776",
+    "213622513",
+    "225028457",
+    "213622514"
+   ]
+  },
+  {
+   "date": "2025-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:992627243:por",
+     "title": "Decreto-Lei n.º 131/2025",
+     "published": "2025-12-24",
+     "dre_path": "/dr/detalhe/decreto-lei/131-2025-992627243"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "213504149",
+    "213504150",
+    "213504151",
+    "213504152",
+    "213504153",
+    "213504154",
+    "213504155",
+    "213504156",
+    "213504157",
+    "213504158",
+    "213504159",
+    "213504160",
+    "216491553",
+    "213504162",
+    "213504163",
+    "213504164",
+    "213504165",
+    "213504166",
+    "213504167",
+    "993773660",
+    "993773661",
+    "213504170",
+    "993773662",
+    "213504172",
+    "213504173",
+    "213504174",
+    "213622475",
+    "993773663",
+    "213622477",
+    "213622478",
+    "213622479",
+    "213622480",
+    "213622481",
+    "993773664",
+    "213622483",
+    "213622484",
+    "213622485",
+    "213622486",
+    "993773665",
+    "213622488",
+    "213622489",
+    "213622490",
+    "213622491",
+    "213622492",
+    "213622493",
+    "213622494",
+    "213622495",
+    "213622496",
+    "213622497",
+    "213622498",
+    "213622499",
+    "213622500",
+    "213622501",
+    "213622502",
+    "213622503",
+    "213622504",
+    "213622505",
+    "213622506",
+    "213622507",
+    "213622508",
+    "213622509",
+    "213622510",
+    "213622511",
+    "902223776",
+    "213622513",
+    "225028457",
+    "213622514"
+   ]
+  }
+ ],
+ "fragments": {
+  "213504149": {
+   "fragment_id": "213622375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 36/2023\n\nde 26 de maio\n\nSumário: Procede à conversão das Comissões de Coordenação e Desenvolvimento Regional em institutos públicos.\n\nO Programa do XXIII Governo Constitucional, no seu ponto I.III.5, «Aprofundar a descentralização: mais democracia e melhor serviço público», consagra que depois de ter sido levado a cabo o maior processo de descentralização de competências das últimas décadas para as autarquias locais e de ter sido concretizada a democratização das Comissões de Coordenação e Desenvolvimento Regional (CCDR), é essencial aprofundar o processo de reforma do Estado, através da reforma da administração desconcentrada ao nível regional para garantir maior coesão e desenvolvimento regional.\n\nNesse contexto, a Resolução do Conselho de Ministros n.º 123/2022, de 14 de dezembro, veio determinar a integração de alguns dos serviços periféricos da administração direta e indireta do Estado nas CCDR, concretizada através de uma alteração à sua orgânica, que assegure a integração dos referidos serviços, com uma redefinição estratégica no que diz respeito à missão e atribuições das CCDR, às competências dos seus órgãos, às formas de funcionamento e articulação com as demais entidades.\n\nAtravés deste processo, as atuais CCDR passam a constituir-se como institutos públicos, integrando as diversas políticas públicas que prosseguem estratégias de promoção do desenvolvimento integrado do território.\n\nDeste modo, cumpre-se um dos objetivos já há muito pugnado, no sentido das CCDR se constituírem como os serviços que coordenam as respostas de âmbito regional do Estado, desempenhando um papel privilegiado na construção de regiões mais desenvolvidas e sustentáveis.\n\nPara a concretização deste desiderato, importa proceder à alteração da orgânica das CCDR, adaptando o seu regime jurídico a esta nova realidade, prevendo, todavia, que a conclusão dos processos de integração e de reestruturação dos serviços periféricos da administração direta e indireta do Estado se materializem de uma forma progressiva e em momentos temporais distintos, de modo a que se efetue todas as operações e decisões necessárias a uma reorganização eficaz, tendo em consideração, por um lado, a necessidade de adaptação dos serviços e dos respetivos trabalhadores, e, por outro lado, a salvaguarda da prossecução das suas atividades, garantindo a continuidade de uma resposta adequada aos cidadãos.\n\nEsta reforma da administração periférica do Estado assenta, assim, nos seguintes princípios orientadores: i) subsidiariedade e governação: decisões mais próximas dos cidadãos, das empresas e das instituições que os representam, determinando uma organização do Estado e da administração regional com diferentes escalas territoriais e respetivas circunscrições; ii) intersectorialidade e políticas regionais: respostas a problemas e potencialidade de desenvolvimento que não resultem na simples soma de políticas públicas de âmbito sectorial, constituindo o território a matriz para a sua integração, para o estabelecimento das necessárias complementaridades, para a política de desenvolvimento regional.\n\nCom esta reforma do Estado, os serviços desconcentrados passam a trabalhar em conjunto e de forma articulada, sob orientação da respetiva CCDR, dotando-as de maior autonomia, e aumentando a eficácia e a eficiência na implementação de políticas de âmbito transversal nos seus territórios, indispensáveis ao desenvolvimento regional, garantindo a permanência e a manutenção dos serviços integrados, e salvaguardando os direitos e as garantias dos trabalhadores.\n\nA articulação entre as medidas de política pública nacional, os objetivos, as metas e as prioridades a alcançar nas estratégias e nos programas com incidência no desenvolvimento regional e a sua operacionalização e concretização a nível regional é assegurada por via de contrato-programa, que define as estratégias e os programas com incidência no desenvolvimento regional, a aprovar pelo Conselho de Concertação Territorial, instituído pelo Decreto-Lei n.º 35/2023.\n\nFoi levado em consideração o Relatório da Comissão Independente para a Descentralização de julho de 2019, criada pela Lei n.º 58/2018, de 21 de agosto, nomeadamente no que concerne à descentralização administrativa e à desconcentração e deslocalização administrativas.\n\nFoi ouvido o Conselho de Concertação Territorial, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "213504150": {
+   "fragment_id": "213622376",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei:\n\na) Procede à reestruturação das Comissões de Coordenação e Desenvolvimento Regional (CCDR), instituídas pelo Decreto-Lei n.º 228/2012, de 25 de outubro, na sua redação atual, convertendo-as em institutos públicos de regime especial e âmbito regional e aprova a respetiva lei orgânica em anexo ao presente decreto-lei e do qual faz parte integrante;\n\nb) Transfere atribuições de serviços periféricos da administração direta e indireta do Estado para as Comissões de Coordenação e Desenvolvimento Regional, I. P. (CCDR, I. P.);\n\nc) Reestrutura e procede à integração de diversos serviços periféricos da administração direta e indireta do Estado nas CCDR, I. P.\n\n2 - O disposto nas alíneas b) e c) do número anterior é operacionalizado assegurando a neutralidade orçamental."
+  },
+  "213504151": {
+   "fragment_id": "213622377",
+   "type": 11,
+   "heading": "Artigo 2.º — Comissões de Coordenação e Desenvolvimento Regional, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comissões de Coordenação e Desenvolvimento Regional, I. P.\n\nAs CCDR são constituídas em institutos públicos de regime especial integrados na administração indireta do Estado, com personalidade jurídica própria, dotados de autonomia administrativa, financeira e patrimonial, passando a designar-se por:\n\na) Comissão de Coordenação e Desenvolvimento Regional do Norte, I. P. (CCDR Norte, I. P.);\n\nb) Comissão de Coordenação e Desenvolvimento Regional do Centro, I. P. (CCDR Centro, I. P.);\n\nc) Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo, I. P. (CCDR Lisboa e Vale do Tejo, I. P.);\n\nd) Comissão de Coordenação e Desenvolvimento Regional do Alentejo, I. P. (CCDR Alentejo, I. P.);\n\ne) Comissão de Coordenação e Desenvolvimento Regional do Algarve, I. P. (CCDR Algarve, I. P.)"
+  },
+  "213504152": {
+   "fragment_id": "213622378",
+   "type": 11,
+   "heading": "Artigo 3.º — Integração de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Integração de serviços\n\n1 - São objeto de integração nas CCDR, I. P.:\n\na) As Direções Regionais de Agricultura e Pescas (DRAP), mantendo na CCDR, I. P., respetiva as unidades orgânicas regionais de Mirandela, Castelo Branco, Santarém, Évora e Faro;\n\nb) As Direções Regionais da Cultura (DRC), no que concerne às atribuições previstas nas alíneas h) e i) do n.º 1 do artigo 4.º do anexo ao presente decreto-lei, mantendo na CCDR, I. P., respetiva as unidades orgânicas regionais de Vila Real, Coimbra, Évora e Faro;\n\nc) Os departamentos de licenciamento e planeamento industrial da Direção de Proximidade Regional e Licenciamento da Agência para a Competitividade e Inovação, I. P., no que concerne às atribuições previstas nas alíneas b), c) e d) do n.º 1 do artigo 4.º do anexo ao presente decreto-lei.\n\n2 - O processo de integração das entidades previstas na alínea a) do número anterior é concluído no prazo de 60 dias úteis.\n\n3 - Os processos de integração das entidades previstas nas alíneas b) e c) do n.º 1 são concluídos até 31 de março de 2024.\n\n4 - Os titulares dos cargos de direção ou de chefia das entidades referidas nos números anteriores mantêm-se em funções até à conclusão do respetivo processo de integração.\n\n5 - Os processos de integração decorrem sob a responsabilidade do presidente do conselho diretivo da CCDR, I. P., respetiva, sendo-lhes aplicável, com as necessárias adaptações, o disposto no artigo 5.º do Decreto-Lei n.º 200/2006, de 25 de outubro."
+  },
+  "213504153": {
+   "fragment_id": "213622379",
+   "type": 11,
+   "heading": "Artigo 4.º — Reestruturação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reestruturação de serviços\n\n1 - São objeto de reestruturação:\n\na) A Direção-Geral dos Estabelecimentos Escolares, no que concerne à atribuição prevista na alínea j) do n.º 1 do artigo 4.º do anexo ao presente decreto-lei;\n\nb) O Instituto da Conservação da Natureza e das Florestas, I. P., no que concerne à atribuição prevista na alínea g) do n.º 1 do artigo 4.º do anexo ao presente decreto-lei;\n\nc) A Direção-Geral do Território, no que concerne às atribuições previstas nas alíneas f) e g) do n.º 1 do artigo 4.º do anexo ao presente decreto-lei.\n\n2 - A CCDR LVT, I. P., sucede, ainda, nas atribuições e competências, bem como nos direitos, obrigações e na posição contratual, dos seguintes serviços que são objeto de reestruturação:\n\na) Da Direção-Geral do Património Cultural (DGPC), na circunscrição territorial de Lisboa e Vale do Tejo, relativas a:\n\ni) Ações regionais e locais de salvaguarda e acompanhamento do património arqueológico;\n\nii) Emissão de parecer sobre os planos, projetos, trabalhos e intervenções nas zonas de proteção dos imóveis classificados ou em vias de classificação e respetivo acompanhamento e fiscalização, exceto nas zonas de proteção dos imóveis afetos à DGPC;\n\nb) Da Direção-Geral das Artes, no apoio a iniciativas culturais locais ou regionais, de caráter não profissional, na circunscrição territorial de Lisboa e Vale do Tejo.\n\n3 - Os processos de reestruturação das entidades previstas no n.º 1 são concluídos no prazo de 60 dias úteis após entrada em vigor da portaria que aprova os estatutos da respetiva CCDR, I. P.\n\n4 - As comissões de serviço dos titulares de cargos de direção superior das entidades referidas nos números anteriores não cessam na sequência dos processos de reestruturação e as dos titulares de cargos de direção intermédia ou de chefia das direções de serviços objeto de reestruturação mantêm-se até à conclusão dos processos de reestruturação a que se refere o presente artigo, podendo cessar por decisão fundamentada da entidade competente para a sua designação, quando, por efeito da reestruturação, exista necessidade de reformular ou imprimir nova orientação à gestão das respetivas entidades e ou unidades orgânicas.\n\n5 - Aos processos de reestruturação referidos nos números anteriores aplica-se, com as necessárias adaptações, o disposto no artigo 6.º do Decreto-Lei n.º 200/2006, de 25 de outubro."
+  },
+  "213504154": {
+   "fragment_id": "213622380",
+   "type": 11,
+   "heading": "Artigo 5.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sucessão\n\n1 - As CCDR, I. P., sucedem nas atribuições e competências, nos direitos, obrigações e na posição contratual:\n\na) Das CCDR;\n\nb) Das DRC, relativas a:\n\ni) Ações regionais e locais de salvaguarda e acompanhamento do património arqueológico;\n\nii) Emissão de parecer sobre os planos, projetos, trabalhos e intervenções nas zonas de proteção dos imóveis classificados ou em vias de classificação e respetivo acompanhamento e fiscalização, exceto nas zonas de proteção dos imóveis afetos à DGPC;\n\niii) Apoio a iniciativas culturais locais ou regionais, de caráter não profissional;\n\nc) Das DRAP, relativas a ações de formulação e execução das políticas nas áreas da agricultura, do desenvolvimento rural e das pescas;\n\nd) Dos outros serviços desconcentrados de natureza territorial regional da administração direta e indireta do Estado no âmbito das atribuições que são transferidas para as CCDR, I. P., nos termos do previsto nos artigos 3.º e 4.º\n\n2 - As atribuições das DRAP em matéria de controlo no âmbito da segurança alimentar e da sanidade vegetal transitam para a Direção-Geral de Alimentação e Veterinária."
+  },
+  "213504155": {
+   "fragment_id": "213622381",
+   "type": 11,
+   "heading": "Artigo 6.º — Bens móveis e imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Bens móveis e imóveis\n\nOs bens móveis e imóveis, incluindo os bens imóveis arrendados e os veículos, das entidades objeto de integração ao abrigo do presente decreto-lei, nos termos do artigo 3.º, são transferidos para as CCDR, I. P., geograficamente correspondentes, sendo-lhes aplicável com as necessárias adaptações o disposto no Decreto-Lei n.º 200/2006, de 25 de outubro."
+  },
+  "213504156": {
+   "fragment_id": "213622382",
+   "type": 11,
+   "heading": "Artigo 7.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Referências\n\n1 - Todas as referências feitas em diplomas legais ou regulamentares às CCDR ou aos serviços desconcentrados da administração direta ou indireta do Estado no âmbito das atribuições ou competências que são transferidas, por integração ou reestruturação nos termos do previsto presente decreto-lei, e no que a estas diz respeito, devem considerar-se como feitas para as CCDR, I. P.\n\n2 - Todas as remissões feitas para o Decreto-Lei n.º 228/2012, de 25 de outubro, na sua redação atual, consideram-se feitas para o presente decreto-lei."
+  },
+  "213504157": {
+   "fragment_id": "213622383",
+   "type": 11,
+   "heading": "Artigo 8.º — Reafetação de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reafetação de pessoal\n\n1 - Integram os mapas de pessoal das CCDR, I. P., os trabalhadores dos mapas de pessoal das CCDR geograficamente correspondentes.\n\n2 - Integram, ainda, os mapas de pessoal das CCDR, I. P., os trabalhadores dos serviços desconcentrados da administração direta e indireta do Estado no âmbito das atribuições que são transferidas para as CCDR, I. P., aplicando-se o regime da valorização profissional dos trabalhadores com vínculo de emprego público, aprovado pela Lei n.º 25/2017, de 30 de maio, bem como o disposto no artigo 11.º, no n.º 2 do artigo 25.º, no artigo 334.º e no n.º 1 do artigo 372.º, todos da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual."
+  },
+  "213504158": {
+   "fragment_id": "213622384",
+   "type": 11,
+   "heading": "Artigo 9.º — Mandatos dos presidentes e vice-presidentes em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mandatos dos presidentes e vice-presidentes em curso\n\nOs mandatos dos atuais presidentes e vice-presidentes das CCDR mantêm-se até ao respetivo termo, sem prejuízo do disposto no n.º 5 do artigo 13.º do anexo ao presente decreto-lei."
+  },
+  "213504159": {
+   "fragment_id": "213622385",
+   "type": 11,
+   "heading": "Artigo 10.º — Área de atuação transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Área de atuação transitória\n\nPara efeitos dos ciclos de programação do Portugal 2020 e do Portugal 2030, associada à gestão dos respetivos programas, bem como para efeito dos Programas de Cooperação Territorial Europeia referentes aos mesmos períodos de programação, a área de atuação das CCDR Centro, I. P., Lisboa e Vale do Tejo, I. P., e Alentejo, I. P., corresponde às circunscrições territoriais a Nomenclatura das Unidades Territoriais para Fins Estatísticos II (NUTS II) do Centro, Área Metropolitana de Lisboa, e Alentejo, respetivamente, estabelecidas pelo Decreto-Lei n.º 46/89, de 15 de fevereiro, na sua redação atual, com as atualizações do Regulamento (UE) 2016/2066 da Comissão, de 21 de novembro de 2016."
+  },
+  "213504160": {
+   "fragment_id": "213622386",
+   "type": 11,
+   "heading": "Artigo 11.º — Alteração ao Decreto-Lei n.º 73/2009, de 31 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração ao Decreto-Lei n.º 73/2009, de 31 de março\n\nO artigo 33.º do Decreto-Lei n.º 73/2009, de 31 de março, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 33.º\n\n[...]\n\n1 - [...]\n\na) Um representante da área governativa da agricultura, a designar de entre os dirigentes dos serviços, pelo membro do Governo responsável pela área da agricultura, que presidirá;\n\nb) [...]\n\nc) [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]»"
+  },
+  "213504161": {
+   "fragment_id": "213622387",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\n1 - São revogados:\n\na) A alínea d) do n.º 2 do artigo 17.º-A do Decreto-Lei n.º 125/2011, de 29 de dezembro, na sua redação atual, que aprova a Lei Orgânica do Ministério da Educação e Ciência;\n\nb) As alíneas a), b) e c) do n.º 2, as alíneas b), c), d), e), f), h), i), j), k), l), m), n) e o) do n.º 3 e os n.os 4 e 5 do artigo 2.º do Decreto-Lei n.º 114/2012, de 25 de maio, na sua redação atual, que aprova a orgânica das Direções Regionais de Cultura;\n\nc) O Decreto-Lei n.º 228/2012, de 25 de outubro, na sua redação atual, que aprova a orgânica das Comissões de Coordenação e Desenvolvimento Regional;\n\nd) A subalínea iii) da alínea g) do n.º 2 do artigo 3.º do Decreto-Lei n.º 266/2012, de 28 de dezembro, na sua redação atual, que aprova a orgânica do IAPMEI - Agência para a Competitividade e Inovação, I. P.;\n\ne) A alínea k) do n.º 2 do artigo 3.º do Decreto-Lei n.º 266-F/2012, de 31 de dezembro, na sua redação atual, que aprova a orgânica da Direção-Geral dos Estabelecimentos Escolares, e procede à primeira alteração ao Decreto-Lei n.º 14/2012, de 20 de janeiro, que aprova a orgânica da Direção-Geral da Educação, e à primeira alteração ao Decreto Regulamentar n.º 25/2012, de 17 de fevereiro, que aprova a orgânica da Direção-Geral da Administração Escolar;\n\nf) O n.º 2 do artigo 4.º e o artigo 13.º do Decreto-Lei n.º 18/2014, de 4 de fevereiro, na sua redação atual, que aprova a Lei Orgânica do Ministério da Agricultura e do Mar;\n\ng) As alíneas a), c), d), e), f), h), i), j), l), n), o) e p) do n.º 2 do artigo 2.º do Decreto Regulamentar n.º 30/2012, de 13 de março, na sua redação atual, que aprova a orgânica da Direção-Geral do Território;\n\nh) O Decreto Regulamentar n.º 39/2012, de 11 de abril, que aprova a orgânica das Direções Regionais de Agricultura e Pescas;\n\ni) A Portaria n.º 305/2012, de 4 de outubro, que fixa a estrutura nuclear das Direções Regionais de Agricultura e Pescas;\n\nj) As alíneas g) e i) do artigo 3.º da Portaria n.º 29/2013, de 29 de janeiro, na sua redação atual, que fixa a estrutura nuclear da Direção-Geral dos Estabelecimentos Escolares.\n\n2 - O disposto no número anterior não prejudica o exercício das competências legalmente previstas até à conclusão dos processos de restruturação e integração previstos no presente decreto-lei."
+  },
+  "213504162": {
+   "fragment_id": "213622388",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação."
+  },
+  "213504164": {
+   "fragment_id": "213622390",
+   "type": 14,
+   "heading": "Anexo — Orgânica das Comissões de Coordenação e Desenvolvimento Regional (CCDR)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Orgânica das Comissões de Coordenação e Desenvolvimento Regional (CCDR)\n\n[a que se refere a alínea a) do n.º 1 do artigo 1.º]"
+  },
+  "213504165": {
+   "fragment_id": "213622391",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "213504166": {
+   "fragment_id": "213622392",
+   "type": 11,
+   "heading": "Artigo 1.º — Comissões de Coordenação e Desenvolvimento Regional, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Comissões de Coordenação e Desenvolvimento Regional, I. P.\n\n1 - As Comissões de Coordenação e Desenvolvimento Regional, I. P. (CCDR, I. P.), são institutos públicos de regime especial, integrados na administração indireta do Estado, dotados de autonomia administrativa, financeira e património próprio, estando sujeitos à superintendência e à tutela do membro do Governo indicado na respetiva lei de organização e funcionamento, aplicando-se, com as necessárias adaptações, o disposto na Lei n.º 3/2004, de 15 de janeiro, na sua redação atual.\n\n2 - Os estatutos das CCDR, I. P., são aprovados por portaria dos membros do Governo responsáveis pelas áreas da administração pública, das finanças e da tutela, ouvidas as áreas governativas sectoriais, no prazo de 60 dias úteis após entrada em vigor do presente decreto-lei."
+  },
+  "213504167": {
+   "fragment_id": "213622393",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial e sede\n\n1 - As CCDR, I. P., exercem as suas atribuições nas circunscrições territoriais dos municípios indicados no anexo i à presente lei orgânica e da qual faz parte integrante.\n\n2 - As sedes das CCDR, I. P., são definidas na portaria que aprova os respetivos estatutos.\n\n3 - As CCDR, I. P., podem dispor de serviços desconcentrados."
+  },
+  "213504168": {
+   "fragment_id": "213622394",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\nAs CCDR, I. P., têm por missão:\n\na) Definir e executar as respetivas estratégias de desenvolvimento regional;\n\nb) Integrar e articular territorialmente políticas públicas indispensáveis à execução das políticas de desenvolvimento regional nos domínios do ambiente, cidades, economia, cultura, educação, saúde, ordenamento do território, conservação da natureza, e agricultura e pescas;\n\nc) Assegurar o planeamento e a gestão da política de coesão no âmbito dos programas regionais, e dos programas de cooperação territorial europeia, enquadrados nos ciclos de programação das políticas da União Europeia, tendo em vista o desenvolvimento económico, social e cultural dos territórios que constituem as respetivas circunscrições;\n\nd) Apoiar tecnicamente as autarquias locais e as suas associações."
+  },
+  "213504169": {
+   "fragment_id": "213622395",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - Sem prejuízo da descentralização de competências para as autarquias locais e para as entidades intermunicipais, as CCDR, I. P., prosseguem, no respetivo âmbito territorial, as seguintes atribuições:\n\na) Contribuir para a definição da política de desenvolvimento regional no quadro da política de desenvolvimento económico e social do País, dinamizando e participando nos processos de planeamento estratégico de base territorial e de desenvolvimento rural, promovendo o desenvolvimento de sistemas ou ecossistemas regionais de inovação, nomeadamente através do fomento de parcerias entre agentes regionais, entre as entidades do sistema científico e tecnológico e a comunidade, o desenvolvimento de estudos de articulação de políticas sectoriais no espaço regional e elaborar programas integrados visando a coesão e a competitividade territoriais;\n\nb) Contribuir para o estímulo da competitividade das regiões, dinamizando o empreendedorismo a nível local através da criação e desenvolvimento de negócios, designadamente de base científica e tecnológica, e promovendo o investimento empresarial inovador, orientado para produtos e atividades relacionados com as novas tecnologias, processos de produção e recursos humanos qualificados, bem como para a captação de investimento direto estrangeiro;\n\nc) Proceder ao licenciamento dos estabelecimentos industriais e de zonas empresariais responsáveis nos termos do previsto no regime do Sistema da Indústria Responsável (SIR);\n\nd) Intervir na gestão de áreas e parques empresariais vocacionados para instalação de empresas, nomeadamente para promoção de dinâmicas de inovação, de agregação empresarial e de sinergia logística;\n\ne) Dinamizar e promover a mobilização de fundos nacionais e europeus, bem como as necessárias políticas públicas com o objetivo de contribuir para a competitividade económica, social e para a coesão territorial, assegurando, nomeadamente, as responsabilidades de gestão que lhe sejam confiadas no âmbito da política de coesão e da política agrícola comum da União Europeia;\n\nf) Assegurar a coerência do sistema de gestão territorial, garantindo a articulação dos instrumentos de gestão territorial, elaborando, monitorizando e avaliando os de âmbito regional, bem como acompanhar a elaboração dos instrumentos de gestão territorial de âmbito intermunicipal e municipal;\n\ng) Executar, avaliar e fiscalizar as políticas públicas nos domínios do ordenamento do território, urbanismo, ambiente, da conservação da natureza e do bem-estar animal, bem como desenvolver os necessários processos de avaliação ambiental;\n\nh) Assegurar o apoio às iniciativas culturais de caráter não profissional, bem como a salvaguarda, a valorização e a divulgação do património cultural nas zonas de proteção de imóveis classificados, ou em vias de classificação;\n\ni) Participar e dinamizar iniciativas culturais, designadamente no quadro de eventos como a Capital Europeia de Cultura, a Capital Portuguesa da Cultura, redes regionais de cultura e de valorização do património cultural e dos museus;\n\nj) Assegurar a articulação com as autarquias locais nos domínios da rede de equipamentos escolares;\n\nk) Participar no planeamento regional dos recursos necessários à prestação de cuidados de saúde, em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.);\n\nl) Colaborar com a DE-SNS, I. P., a nível regional, no âmbito do apoio técnico a prestar às instituições e serviços prestadores de cuidados de saúde, bem como da respetiva avaliação;\n\nm) Executar as políticas agrícola e de pescas, agroalimentar e de desenvolvimento rural, bem como assegurar o planeamento e a coordenação na aplicação dos respetivos financiamentos, nacionais e europeus, reforçando lógicas de proximidade territorial na interação com os diferentes agentes e operadores sectoriais;\n\nn) Executar as medidas respeitantes à aplicação dos regimes de incentivos do Estado à comunicação social, bem como assegurar a fiscalização do respetivo cumprimento, nos termos da lei;\n\no) Dinamizar a cooperação transfronteiriça, inter-regional e transnacional, contribuindo para a integração europeia das diferentes regiões e do espaço regional, nomeadamente no contexto da cooperação territorial europeia, para o desenvolvimento de processos de concertação estratégica e de planeamento;\n\np) Apoiar tecnicamente as autarquias locais e as suas associações e assegurar a sua articulação com outras entidades públicas e privadas na dinamização de estratégias de desenvolvimento sustentável locais e sub-regionais;\n\nq) Assegurar a articulação entre instituições da administração direta do Estado, autarquias locais e entidades intermunicipais, entidades do sistema científico e tecnológico e entidades do terceiro sector;\n\nr) Desenvolver políticas de captação de mecenato;\n\ns) Exercer a ação fiscalizadora nos termos do previsto no presente decreto-lei.\n\n2 - As CCDR, I. P., são o balcão único dos pedidos de licenciamento ou de parecer cuja decisão seja da sua competência ou da competência de outras entidades do Estado, devendo articular com as entidades envolvidas, através de um sistema de interoperabilidade, assegurando, a conferência de serviços, nos termos da lei, sem prejuízo das competências legalmente atribuídas a entidades coordenadoras nos respetivos regimes de licenciamento.\n\n3 - A CCDR Norte, I. P., prossegue, ainda, as seguintes atribuições:\n\na) Zelar pela manutenção dos atributos que conferem integridade e autenticidade à «Paisagem Cultural Evolutiva e Viva do Alto Douro Vinhateiro» como património mundial, com vista a preservar o seu valor universal excecional, bem como a salvaguardar os valores paisagísticos, ambientais e culturais em presença, em articulação com os municípios e com as demais entidades públicas territorialmente competentes;\n\nb) Participar no estudo e no desenvolvimento de políticas públicas para o Alto Douro Vinhateiro consonantes com as exigências da Convenção para a Proteção do Património Mundial, Cultural e Natural, adotada pela Conferência Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) e aprovada, para adesão, pelo Decreto n.º 49/79, de 6 de junho;\n\nc) Promover a articulação e coordenação entre as entidades das administrações central e local com competências na Região do Douro, estimular a participação e a iniciativa da sociedade civil e dinamizar ações para o seu desenvolvimento integrado."
+  },
+  "213504170": {
+   "fragment_id": "213622396",
+   "type": 11,
+   "heading": "Artigo 5.º — Balcão Único de Pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Balcão Único de Pedidos\n\n1 - São obrigatoriamente decididos em reunião da conferência de serviços todos os pedidos de licenciamento, autorização ou parecer da competência de qualquer órgão, serviço ou pessoa coletiva quando, envolvendo mais do que um órgão ou serviço, preencham pelo menos um dos seguintes requisitos:\n\na) Investimento inicial bruto igual ou superior a (euro) 3 000 000;\n\nb) Projetos financiados por fundos europeus;\n\nc) Projetos sujeitos a avaliação de impacte ambiental (AIA), cuja autoridade de AIA seja a CCDR, I. P., nos termos do Decreto-Lei n.º 151-B/2013, de 31 de outubro, na sua redação atual.\n\n2 - Às reuniões da conferência de serviços externa, previstos no número anterior aplica-se o regime do Código do Procedimento Administrativo (CPA) para as conferências procedimentais deliberativas com as especificidades do presente diploma.\n\n3 - O disposto no n.º 1 não se aplica aos projetos financiados pelo Plano de Recuperação e Resiliência e aos Projetos de Potencial Interesse Nacional, à luz do Decreto-Lei n.º 154/2013, de 5 de novembro, na sua redação atual."
+  },
+  "213504171": {
+   "fragment_id": "213622397",
+   "type": 11,
+   "heading": "Artigo 6.º — Contrato-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contrato-programa\n\n1 - A articulação entre as medidas de política pública nacional e a sua operacionalização e concretização a nível regional é assegurada por via de contrato-programa, que define as estratégias e os programas com incidência no desenvolvimento regional, a aprovar pelo Conselho de Concertação Territorial, instituído pelo Decreto-Lei n.º 35/2023.\n\n2 - O contrato-programa é elaborado pelo membro do Governo responsável pela área da coesão territorial, em articulação com as CCDR, I. P., e as áreas governativas cujas políticas públicas são indispensáveis à definição da política de desenvolvimento regional.\n\n3 - O contrato-programa estabelece os objetivos, metas e prioridades a alcançar nas estratégias e nos programas com incidência no desenvolvimento regional, bem como, se for o caso, os recursos humanos e financeiros afetos ao cumprimento dos mesmos.\n\n4 - Após a sua aprovação, nos termos do disposto no n.º 1, o contrato-programa é assinado pelo Primeiro-Ministro e pelo presidente do conselho diretivo da CCDR, I. P., respetiva.\n\n5 - O contrato-programa vigora até ao final do ciclo de fundos europeus a que respeita, sujeito a revisão anual ou sempre que alterações significativas da política pública nacional o justifiquem, designadamente na sequência da tomada de posse de um novo Governo.\n\n6 - A execução do contrato-programa é monitorizada pelo conselho de coordenação intersectorial da CCDR, I. P., respetiva."
+  },
+  "213504172": {
+   "fragment_id": "213622398",
+   "type": 1,
+   "heading": "Capítulo II — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização"
+  },
+  "213504173": {
+   "fragment_id": "213622399",
+   "type": 8,
+   "heading": "Secção I — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos"
+  },
+  "213504174": {
+   "fragment_id": "213622400",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\n1 - São órgãos das CCDR, I. P.:\n\na) O conselho diretivo;\n\nb) O conselho regional;\n\nc) O conselho de coordenação intersectorial;\n\nd) A conferência de serviços;\n\ne) O fiscal único.\n\n2 - Ao presidente e aos membros do conselho diretivo é aplicável o estatuto remuneratório estabelecido no Estatuto do Gestor Público (EGP), aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, na sua redação atual."
+  },
+  "213622475": {
+   "fragment_id": "213622401",
+   "type": 8,
+   "heading": "Secção II — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho diretivo"
+  },
+  "213622476": {
+   "fragment_id": "213622402",
+   "type": 11,
+   "heading": "Artigo 8.º — Natureza e composição do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Natureza e composição do conselho diretivo\n\n1 - O conselho diretivo é o órgão executivo das CCDR, I. P.\n\n2 - O conselho diretivo é composto por um presidente e até quatro vice-presidentes."
+  },
+  "213622477": {
+   "fragment_id": "213622403",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências do conselho diretivo\n\n1 - Sem prejuízo de outras competências que lhe sejam conferidas, e no âmbito da orientação e gestão das CCDR, I. P., compete ao conselho diretivo:\n\na) Assegurar a prossecução da missão e das atribuições das CCDR, I. P., nos termos estabelecidos, respetivamente, nos artigos 3.º e 4.º do presente decreto-lei;\n\nb) Dirigir, acompanhar e avaliar sistematicamente a atividade desenvolvida pelas CCDR, I. P.;\n\nc) Elaborar a estratégia de desenvolvimento regional correspondente a cada um dos períodos de programação das políticas da União Europeia;\n\nd) Participar nos órgãos e mecanismos de governação da política de coesão e outras políticas da União Europeia, nos termos da lei;\n\ne) Aprovar os planos anuais e plurianuais de atividades e assegurar a respetiva execução;\n\nf) Aprovar o relatório de atividades;\n\ng) Aprovar o balanço social;\n\nh) Exercer os poderes de direção, gestão e disciplina dos trabalhadores;\n\ni) Aprovar os regulamentos previstos nos estatutos e os necessários à prossecução das atribuições da CCDR, I. P.;\n\nj) Proceder, junto das entidades competentes, à comunicação necessária ao registo de bens e direitos que pertençam à CCDR, I. P.;\n\nk) Prestar informações ao conselho regional sobre a atividade da CCDR, I. P.;\n\nl) Solicitar pareceres ao fiscal único;\n\nm) Nomear os representantes e constituir mandatários da CCDR, I. P., em juízo e fora dele;\n\nn) De entre os seus membros, designar um secretário a quem compete certificar os atos e deliberações;\n\no) Elaborar e aprovar o seu regulamento interno;\n\np) Autorizar a aceitação de doações, heranças e legados.\n\n2 - O conselho diretivo pode delegar competências em qualquer dos seus membros, com faculdade de subdelegação.\n\n3 - Compete ao presidente do conselho diretivo:\n\na) Presidir às reuniões do conselho diretivo, orientar os seus trabalhos e assegurar o cumprimento das respetivas deliberações;\n\nb) Presidir à conferência de serviços, orientar os seus trabalhos e assegurar o cumprimento das respetivas deliberações;\n\nc) Submeter a deliberação da conferência de serviços todos os pedidos de parecer remetidos à CCDR, I. P., bem como todos os pedidos de autorização e licenciamento que sejam competência da CCDR, I. P., ou que devam ser decididos em conferência de serviços ao abrigo do artigo 5.º;\n\nd) Representar as CCDR, I. P., nos órgãos e mecanismos de governação da política de coesão e outras políticas da União Europeia, nos termos da lei;\n\ne) Promover e garantir uma adequada articulação intersectorial entre os serviços desconcentrados do Estado de âmbito regional, nas áreas de política pública referidos na alínea a) do n.º 1 do artigo 3.º, em termos de concertação estratégica e de planeamento numa ótica de desenvolvimento regional;\n\nf) Presidir ao conselho de coordenação intersectorial;\n\ng) Prestar informações ao conselho regional sobre a atividade da CCDR, I. P."
+  },
+  "213622478": {
+   "fragment_id": "213622404",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionamento do conselho diretivo\n\n1 - O conselho diretivo reúne ordinariamente duas vezes por mês e extraordinariamente sempre que o presidente o convoque, por sua iniciativa ou a solicitação de dois vice-presidentes.\n\n2 - Nas votações não há lugar a abstenções, mas podem ser proferidas declarações de voto.\n\n3 - As atas das reuniões estão sujeitas a aprovação e são assinadas por todos os membros presentes, podendo os membros discordantes nelas exarar as respetivas declarações de voto.\n\n4 - O presidente do conselho diretivo tem voto de qualidade em caso de empate."
+  },
+  "213622479": {
+   "fragment_id": "213622405",
+   "type": 11,
+   "heading": "Artigo 11.º — Estatuto dos membros do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estatuto dos membros do conselho diretivo\n\nÉ subsidiariamente aplicável aos membros do conselho diretivo o estatuto dos titulares dos órgãos de direção dos institutos públicos decorrente da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, designadamente em termos de responsabilidade, exclusividade no exercício das funções e incompatibilidades e impedimentos."
+  },
+  "213622480": {
+   "fragment_id": "213622406",
+   "type": 11,
+   "heading": "Artigo 12.º — Contrato de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contrato de gestão\n\n1 - Os membros do conselho diretivo das CCDR, I. P., celebram um contrato de gestão, no âmbito do qual se definem as formas de concretização das orientações e diretivas a que se refere o artigo 42.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, aplicando-se ao mesmo o disposto no artigo 18.º do Decreto-Lei n.º 71/2007, de 27 de março, na sua redação atual, e os diplomas que o regulamentam, com as devidas adaptações e sem prejuízo do disposto nos números seguintes.\n\n2 - Os elementos do contrato de gestão a que se refere o número anterior, incluindo indicadores e respetivas metas, devem ser propostos pelo conselho diretivo da CCDR, I. P., ao membro do Governo que exerce a tutela e a superintendência sobre a CCDR, I. P., no prazo de um mês contado a partir da data da designação a que se refere o n.º 1 do artigo seguinte.\n\n3 - O contrato de gestão é celebrado no prazo de um mês após a receção da proposta a que se refere o número anterior, entre cada membro do conselho diretivo e o membro do Governo que exerce a tutela e a superintendência sobre a CCDR, I. P., caducando a respetiva designação quando ultrapassado este prazo por causa imputável ao membro do conselho diretivo ou o prazo estabelecido no número anterior.\n\n4 - O resultado da verificação do cumprimento do estabelecido no contrato de gestão é tido em conta na avaliação do desempenho dos membros do conselho diretivo das CCDR, I. P., realizado nos termos da lei, e é considerado para efeitos da aplicação do disposto na alínea a) do n.º 3 do artigo 18.º\n\n5 - O contrato de gestão não pode estabelecer regimes específicos de remuneração, indemnização ou qualquer outro tipo de compensação por cessação de funções, nem contrariar o que se encontra estabelecido na legislação aplicável em matéria de remunerações, de outros abonos ou benefícios.\n\n6 - O resultado da verificação do cumprimento do estabelecido no contrato de gestão releva na avaliação do desempenho dos membros do conselho diretivo das CCDR, I. P., realizado nos termos da lei.\n\n7 - O contrato de gestão prevê expressamente a demissão dos membros do conselho diretivo quando a avaliação do seu desempenho seja negativa, designadamente por incumprimento das obrigações estabelecidas no âmbito do n.º 1, o qual é considerado para efeitos da aplicação do disposto na alínea a) do n.º 3 do artigo 18.º\n\n8 - O contrato de gestão é divulgado no sítio na Internet da respetiva CCDR, I. P."
+  },
+  "213622481": {
+   "fragment_id": "213622407",
+   "type": 8,
+   "heading": "Secção III — Designação e eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Designação e eleição"
+  },
+  "213622482": {
+   "fragment_id": "213622408",
+   "type": 11,
+   "heading": "Artigo 13.º — Designação do presidente e dos vice-presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Designação do presidente e dos vice-presidentes\n\n1 - O presidente e os vice-presidentes são designados por resolução do Conselho de Ministros, na sequência dos procedimentos previstos nos números seguintes.\n\n2 - O presidente é indicado na sequência do processo eleitoral a que se refere o artigo seguinte.\n\n3 - Um vice-presidente é eleito pelos presidentes das câmaras municipais que integram a área geográfica abrangida pela respetiva CCDR, I. P., nos termos do artigo 15.º, com as devidas adaptações.\n\n4 - Um vice-presidente é eleito pelos membros do conselho regional, que não integrem o referido conselho em representação de autarquias locais ou associações de autarquias locais.\n\n5 - Até dois vice-presidentes são designados após procedimento de cooptação, mediante deliberação dos membros do conselho diretivo referidos nos números anteriores, por proposta do presidente.\n\n6 - Os vice-presidentes exercem as competências que lhe sejam delegadas ou subdelegadas pelo presidente e ou pelo conselho diretivo.\n\n7 - O presidente identifica qual o vice-presidente a que compete substituí-lo nas suas faltas e impedimentos."
+  },
+  "213622483": {
+   "fragment_id": "213622409",
+   "type": 11,
+   "heading": "Artigo 14.º — Eleição do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Eleição do presidente\n\n1 - O presidente é eleito por um colégio eleitoral composto pelos seguintes eleitos locais da área geográfica da respetiva CCDR, I. P.:\n\na) Presidentes das câmaras municipais;\n\nb) Presidentes das assembleias municipais;\n\nc) Vereadores eleitos;\n\nd) Deputados municipais, incluindo os presidentes das juntas de freguesia.\n\n2 - O sufrágio é individual e secreto, em urna, e cada eleitor dispõe de um voto."
+  },
+  "213622484": {
+   "fragment_id": "213622410",
+   "type": 11,
+   "heading": "Artigo 15.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Elegibilidade\n\nSão elegíveis para presidentes e vice-presidentes os cidadãos maiores cujas habilitações literárias confiram o grau académico de licenciado e que possuam capacidade eleitoral passiva nos termos do n.º 1 do artigo 5.º da Lei Orgânica n.º 1/2001, de 14 de agosto, na sua redação atual."
+  },
+  "213622485": {
+   "fragment_id": "213622411",
+   "type": 11,
+   "heading": "Artigo 16.º — Ato eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Ato eleitoral\n\n1 - O ato eleitoral realiza-se nos 90 dias seguintes às eleições para os órgãos das autarquias locais.\n\n2 - O ato eleitoral é convocado pelo membro do Governo responsável pela área das autarquias locais com a antecedência mínima de 30 dias relativamente à data da sua realização, através de comunicação escrita dirigida às assembleias municipais da área geográfica de atuação da respetiva CCDR, I. P.\n\n3 - O regulamento eleitoral é aprovado por portaria do membro do Governo responsável pela área das autarquias locais e é publicado na 2.ª série do Diário da República.\n\n4 - O regulamento eleitoral a que se refere o número anterior define os termos do acompanhamento do ato eleitoral pela Direção-Geral das Autarquias Locais (DGAL).\n\n5 - O ato eleitoral para o cargo de presidente decorre nas instalações das assembleias municipais, sob a responsabilidade da respetiva mesa eleitoral.\n\n6 - O ato eleitoral para o cargo de vice-presidente referido no n.º 3 do artigo 13.º decorre nas instalações das comunidades intermunicipais e das áreas metropolitanas, sob a responsabilidade da respetiva mesa eleitoral.\n\n7 - Pode ser constituída uma segunda mesa eleitoral em local a definir por acordo entre todas as candidaturas.\n\n8 - Cumpre ao tribunal central administrativo competente o contencioso sobre o processo eleitoral."
+  },
+  "213622486": {
+   "fragment_id": "213622412",
+   "type": 11,
+   "heading": "Artigo 17.º — Resultados eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Resultados eleitorais\n\n1 - São eleitos presidente e vice-presidente os candidatos que obtiverem o maior número de votos validamente expressos dos respetivos colégios eleitorais, não se considerando como tal os votos em branco.\n\n2 - Os resultados eleitorais são publicados na 2.ª série do Diário da República, por iniciativa da DGAL, após homologação pelo membro do Governo responsável pela área das autarquias locais."
+  },
+  "213622487": {
+   "fragment_id": "213622413",
+   "type": 11,
+   "heading": "Artigo 18.º — Mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Mandatos\n\n1 - A duração dos mandatos do presidente e dos vice-presidentes é de quatro anos, estando sujeitos ao limite de três mandatos consecutivos, seja na mesma ou em diferente CCDR, I. P.\n\n2 - Os mandatos do presidente e dos vice-presidentes cessam:\n\na) Pelo seu termo;\n\nb) Por renúncia ou pedido de demissão do respetivo titular, consoante, respetivamente, sejam eleitos ou cooptados, mediante comunicação escrita dirigida ao membro do Governo responsável pela área da coesão territorial, com a antecedência mínima de três meses;\n\nc) Pela tomada de posse ou pelo exercício, a qualquer título, de outro cargo ou função incompatível com o estatuto de membro do conselho diretivo;\n\nd) Por extinção da CCDR, I. P.;\n\ne) Por deliberação do Governo, devidamente fundamentada, após audiência prévia do respetivo titular e ouvido o conselho regional da respetiva área geográfica, mediante resolução do Conselho de Ministros, nos casos previstos no número seguinte;\n\nf) Por caducidade, nos termos do n.º 5 do artigo 12.º\n\n3 - Determinam a cessação do mandato do presidente e dos vice-presidentes nos termos da alínea e) do número anterior a verificação das seguintes circunstâncias:\n\na) O incumprimento das orientações estratégicas estabelecidas no contrato-programa e dos objetivos fixados para as CCDR, I. P.;\n\nb) A prática de infrações graves ou reiteradas às normas que regem as CCDR, I. P.;\n\nc) A grave violação dos princípios de gestão fixados nos diplomas legais e regulamentares aplicáveis.\n\n4 - Em caso de vacatura do cargo de presidente, a designação em substituição é feita, de entre os vice-presidentes, pelo membro do Governo responsável pela tutela e superintendência das CCDR, I. P., de modo a garantir a continuidade da ação da respetiva CCDR, I. P., até à convocação da nova eleição e designação de novo titular.\n\n5 - Em caso de vacatura do cargo de vice-presidente previsto no n.º 3 do artigo 13.º, a designação do novo titular é feita nos termos previstos na referida norma, nos três meses seguintes à data da verificação da vacatura.\n\n6 - Nos casos previstos nos números anteriores, o novo titular desempenha funções apenas até ao termo do mandato do titular anterior."
+  },
+  "213622488": {
+   "fragment_id": "213622414",
+   "type": 8,
+   "heading": "Secção IV — Conselho regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho regional"
+  },
+  "213622489": {
+   "fragment_id": "213622415",
+   "type": 11,
+   "heading": "Artigo 19.º — Natureza e composição do conselho regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Natureza e composição do conselho regional\n\n1 - O conselho regional é o órgão que assegura a representatividade dos vários interesses e entidades relevantes para a prossecução da missão e das atribuições da CCDR, I. P., garantindo a respetiva execução e acompanhando a atividade do conselho diretivo.\n\n2 - O conselho regional é composto por:\n\na) Presidentes das câmaras municipais do respetivo âmbito territorial;\n\nb) Três representantes das freguesias situadas no respetivo âmbito territorial indicado pela Associação Nacional de Freguesias;\n\nc) Um representante de cada entidade com assento na comissão permanente de concertação social do Conselho Económico e Social, por elas indicado;\n\nd) Dois representantes das instituições de ensino universitário, dois representantes das instituições de ensino politécnico e um representante das instituições de ensino superior privadas, com sede na região, indicados, respetivamente, pelo Conselho de Reitores das Universidades Portuguesas, pelo Conselho Coordenador dos Institutos Superiores Politécnicos e pela Associação Portuguesa do Ensino Superior Privado;\n\ne) Um representante designado pelo Conselho das Escolas;\n\nf) Um representante da Comissão Nacional da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO);\n\ng) Um representante da Comissão Nacional Portuguesa do Conselho Internacional dos Monumentos e dos Sítios (ICOMOS - Portugal);\n\nh) Um representante dos hospitais, um representante dos agrupamentos de centros de saúde e um representante das unidades locais de saúde, a indicar pela DE-SNS, I. P.;\n\ni) Um representante da Entidade Regional da Reserva Agrícola;\n\nj) Um representante da Confederação Nacional de Agricultura;\n\nk) Um representante da Confederação Nacional das Cooperativas Agrícolas de Portugal;\n\nl) Um representante da Associação dos Jovens Agricultores de Portugal;\n\nm) Um representante da Associações Portuguesa dos Aquacultores;\n\nn) Um representante das organizações de produtores do sector da pesca indicados pelo presidente do conselho diretivo da respetiva CCDR, I. P.;\n\no) Um representante das associações das indústrias de transformação dos produtos da pesca, indicados pelo presidente do conselho diretivo da respetiva CCDR, I. P.;\n\np) Um representante das entidades regionais de turismo, por elas indicado;\n\nq) Dois representantes das associações empresariais, de âmbito regional, indicados pelo presidente do conselho diretivo da respetiva CCDR, I. P.;\n\nr) Um representante das organizações não governamentais do ambiente, indicado pela respetiva confederação nacional;\n\ns) Um representante das associações de desenvolvimento regional, indicado pela Associação Nacional das Agências de Desenvolvimento Regional;\n\nt) Um representante das associações de desenvolvimento local, indicado pela Federação Portuguesa de Associações de Desenvolvimento Local;\n\nu) Um representante das associações cívicas com expressão regional, indicado pela Associação Portuguesa para o Desenvolvimento Local;\n\nv) Um representante das associações de defesa dos animais, indicados pelo presidente do conselho diretivo da respetiva CCDR, I. P.;\n\nw) Até duas individualidades de reconhecido mérito na região, indicados pelo presidente do conselho diretivo da respetiva CCDR, I. P.\n\n3 - A designação dos membros do conselho regional é comunicada por escrito ao presidente do conselho diretivo da respetiva CCDR, I. P., e é efetuada:\n\na) Pelo órgão máximo da instituição, sempre que o membro a designar represente apenas uma instituição;\n\nb) Por consenso das várias instituições, sempre que o membro a designar represente diversas instituições.\n\n4 - O conselho regional considera-se constituído quando se encontrar designada metade dos membros com direito de voto.\n\n5 - Participa no conselho regional, sem direito de voto, o presidente do conselho diretivo e os membros do conselho de coordenação intersectorial da respetiva CCDR, I. P.\n\n6 - Sob proposta do presidente do conselho regional, podem ser convidadas a assistir e participar nas reuniões, sem direito a voto, entidades ou personalidades cuja audição e participação sejam consideradas relevantes, atenta a natureza das questões constantes da ordem de trabalhos."
+  },
+  "213622490": {
+   "fragment_id": "213622416",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências do conselho regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências do conselho regional\n\n1 - Compete ao conselho regional:\n\na) Aprovar o seu regimento;\n\nb) Eleger o presidente, o vice-presidente, o secretário e até quatro vogais para a comissão permanente;\n\nc) Eleger um vice-presidente da respetiva CCDR, I. P., nos termos do previsto no n.º 4 do artigo 13.º;\n\nd) Pronunciar-se sobre o relatório e as contas anuais;\n\ne) Pronunciar-se sobre a estratégia de desenvolvimento regional correspondente a cada um dos períodos de programação das políticas da União Europeia, bem como outras estratégias, planos e programas regionais;\n\nf) Acompanhar a execução dos programas regionais e temáticos financiados pela política de coesão, pela política agrícola comum e outras políticas da União Europeia, avaliando os seus resultados e impactos regionais;\n\ng) Acompanhar o desenvolvimento das atividades da respetiva CCDR, I. P., podendo formular propostas, sugestões ou recomendações convenientes, solicitar esclarecimentos ao conselho diretivo e ao fiscal único e pronunciar-se sobre todos os assuntos que respeitam à região e à missão e atribuições das CCDR, I. P., respetivas;\n\nh) Pronunciar-se sobre os projetos de relevância nacional a executar na região, bem como dar parecer sobre os programas de investimentos da administração central na região e formular propostas quando do respetivo processo de programação e orçamentação;\n\ni) Pronunciar-se sobre medidas de descentralização e desconcentração administrativa suscetíveis de impacto no modelo e na organização territorial das políticas públicas aos níveis regional e local e sobre ações e iniciativas intersectoriais de interesse regional;\n\nj) Apreciar os relatórios de execução de programas e projetos de interesse regional e pronunciar-se sobre instrumentos de gestão territorial a diferentes escalas territoriais, como o plano regional de ordenamento do território;\n\nk) Eleger os representantes das autarquias locais do âmbito territorial da respetiva CCDR, I. P., para o Conselho Económico e Social, de acordo com a alínea k) do n.º 1 do artigo 3.º da Lei n.º 108/91, de 17 de agosto, na sua redação atual;\n\nl) Apreciar a informação prestada pelo conselho diretivo por iniciativa própria ou solicitada pelo conselho regional.\n\n2 - Na eleição a que se refere a alínea c) do número anterior participam apenas os membros do conselho regional que não representem autarquias locais ou associações de autarquias locais.\n\n3 - A participação no conselho regional não é remunerada."
+  },
+  "213622491": {
+   "fragment_id": "213622417",
+   "type": 11,
+   "heading": "Artigo 21.º — Funcionamento do conselho regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Funcionamento do conselho regional\n\nO conselho regional reúne semestralmente e sempre que convocado pelo seu presidente, por sua iniciativa, ou por solicitação do conselho diretivo, ou a pedido de um terço dos seus membros."
+  },
+  "213622492": {
+   "fragment_id": "213622418",
+   "type": 8,
+   "heading": "Secção V — Conselho de coordenação intersectorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Conselho de coordenação intersectorial"
+  },
+  "213622493": {
+   "fragment_id": "213622419",
+   "type": 11,
+   "heading": "Artigo 22.º — Natureza e composição do conselho de coordenação intersectorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Natureza e composição do conselho de coordenação intersectorial\n\n1 - O conselho de coordenação intersectorial é o órgão que promove a coordenação técnica da execução e monitorização das políticas sectoriais, nomeadamente nas áreas do desenvolvimento regional, ambiente, cidades, economia, cultura, educação, saúde, ordenamento do território, conservação da natureza, agricultura e pescas.\n\n2 - O conselho de coordenação intersectorial é composto pelo presidente da CCDR, I. P., que preside, pelos representantes de todas as áreas governativas e pelos representantes das entidades intermunicipais.\n\n3 - Os membros do conselho de coordenação intersectorial são designados pelos membros do Governo responsáveis pelas respetivas áreas e pelos presidentes das entidades intermunicipais.\n\n4 - Os representantes das áreas governativas provêm da administração central, serviços desconcentrados ou unidades orgânicas de serviços da administração central.\n\n5 - Por convocação do presidente do conselho de coordenação intersectorial, podem ser convidadas a assistir e participar nas reuniões, sem direito a voto, entidades ou personalidades cuja audição e participação sejam consideradas relevantes, atenta a natureza das questões constantes da ordem de trabalhos."
+  },
+  "213622494": {
+   "fragment_id": "213622420",
+   "type": 11,
+   "heading": "Artigo 23.º — Competências do conselho de coordenação intersectorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competências do conselho de coordenação intersectorial\n\n1 - Compete ao conselho de coordenação intersectorial:\n\na) Monitorizar a execução do contrato-programa;\n\nb) Propor medidas tendentes à compatibilização das atuações das CCDR, I. P., com as orientações de política pública nacional, nomeadamente para cumprimento do contrato-programa;\n\nc) Dinamizar a articulação intersectorial em termos de concertação estratégica regional, de ordenamento do território e de planeamento das intervenções de natureza económica, social e ambiental, numa ótica de desenvolvimento regional integrado e sustentável;\n\nd) Acompanhar o planeamento estratégico, tendo em vista o desenvolvimento regional integrado;\n\ne) Pronunciar-se sobre o orçamento de investimento atribuído à região;\n\nf) Dar parecer sobre matérias da sua competência por solicitação do conselho regional;\n\ng) Aprovar o respetivo regulamento de funcionamento.\n\n2 - A participação no conselho de coordenação intersectorial não é remunerada."
+  },
+  "213622495": {
+   "fragment_id": "213622421",
+   "type": 11,
+   "heading": "Artigo 24.º — Funcionamento do conselho de coordenação intersectorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Funcionamento do conselho de coordenação intersectorial\n\nO conselho de coordenação intersectorial reúne trimestralmente e sempre que convocado pelo seu presidente, por sua iniciativa, ou por solicitação do conselho diretivo, ou a pedido de um terço dos seus membros."
+  },
+  "213622496": {
+   "fragment_id": "213622422",
+   "type": 8,
+   "heading": "Secção VI — Conferência de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Conferência de serviços"
+  },
+  "213622497": {
+   "fragment_id": "213622423",
+   "type": 11,
+   "heading": "Artigo 25.º — Natureza e composição da conferência de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Natureza e composição da conferência de serviços\n\n1 - A conferência de serviços tem as seguintes modalidades:\n\na) Conferência de serviços interna, quando a competência decisória for apenas da CCDR, I. P., sem decisão ou participação de outras pessoas coletivas públicas;\n\nb) Conferência de serviços externa, nos casos do artigo 5.º\n\n2 - São membros da conferência de serviços interna:\n\na) O presidente da CCDR, I. P., ou o vice-presidente com competência delegada, que preside;\n\nb) Os dirigentes da CCDR, I. P, relevantes em função da matéria, indicados na agenda da conferência.\n\n3 - São membros da conferência de serviços externa:\n\na) O presidente da CCDR, I. P., que preside;\n\nb) Os representantes das entidades com intervenção nos procedimentos em causa.\n\n4 - São membros da conferência de serviços com direito de voto:\n\na) Na conferência de serviços interna, todos os membros;\n\nb) Na conferência de serviços externa, o presidente da CCDR, I. P., e os representantes das entidades com intervenção nos procedimentos em causa, quando essas entidades tenham competência para a prática de um ato administrativo, pronúncia em sede de comunicação prévia com prazo ou emissão de parecer vinculativo.\n\n5 - O presidente da CCDR, I. P., pode fazer-se substituir na presidência da comissão da conferência de serviços através de um vice-presidente da CCDR, I. P.\n\n6 - A designação de um representante para a conferência de serviços externa implica o exercício por este de todas as competências legais relativas à entidade que representa, sem necessidade de qualquer delegação, procuração ou outra formalidade.\n\n7 - O representante na conferência de serviços externa designado nos termos do número anterior não pode invocar a ausência de diretivas ou instruções relativamente ao seu sentido de voto nas deliberações da conferência de serviços.\n\n8 - Consideram-se feitas à conferência de serviços interna todas as referências legais e regulamentares que atribuam competência aos presidentes das CCDR, I. P., em matéria de licenciamentos, autorizações, aprovações, pronúncias em sede de comunicação prévia com prazo, ou emissão de pareceres.\n\n9 - Consideram-se feitas à conferência de serviços externa:\n\na) Todas as referências legais e regulamentares que atribuam competência às entidades representadas na conferência para a prática de qualquer ato permissivo ou parecer vinculativo, incluindo para a emissão de licenças, autorizações, aprovações ou pronúncias em sede de comunicação prévia com prazo, exceto quanto a competências das autarquias locais;\n\nb) Todas as referências legais e regulamentares que atribuam competência às entidades representadas na conferência para a emissão de parecer não vinculativo."
+  },
+  "213622498": {
+   "fragment_id": "213622424",
+   "type": 11,
+   "heading": "Artigo 26.º — Agendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Agendamento\n\n1 - A conferência de serviços interna reúne ordinariamente todas as semanas, às 10h00 de terças-feiras, e extraordinariamente sempre que convocada pelo presidente.\n\n2 - A conferência de serviços externa reúne ordinariamente todas as semanas, às 15h00 de terças-feiras, e extraordinariamente sempre que convocada pelo presidente."
+  },
+  "213622499": {
+   "fragment_id": "213622425",
+   "type": 11,
+   "heading": "Artigo 27.º — Agenda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Agenda\n\n1 - Cada pedido em matéria de licenciamentos, autorizações, aprovações, pronúncias em sede de comunicação prévia com prazo, ou emissão de pareceres, cuja decisão seja competência da CCDR, I. P., ou que deva ser decidido em conferência de serviços ao abrigo do artigo 5.º, é agendado para deliberação no prazo máximo de 10 dias a contar do início do procedimento, sendo agendado em prazo mais curto sempre que necessário para assegurar o prazo de decisão.\n\n2 - A convocatória da reunião da conferência deve ser feita com a antecedência mínima de três dias em relação à data da reunião, podendo os órgãos participantes, em caso de impossibilidade fundamentada, propor um adiamento não superior a 5 dias.\n\n3 - A agenda da conferência de serviços possui três partes:\n\na) A primeira, relativa a deliberações que ainda não tenham sido objeto de apreciação pela conferência de serviços;\n\nb) A segunda, relativa a deliberações que já tenham sido objeto de apreciação pela conferência de serviço, mas que carecem de nova apreciação, designadamente na sequência de audiência prévia dos interessados;\n\nc) A terceira para realização de audiência prévia dos interessados."
+  },
+  "213622500": {
+   "fragment_id": "213622426",
+   "type": 11,
+   "heading": "Artigo 28.º — Quórum e maioria na deliberação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Quórum e maioria na deliberação\n\n1 - A conferência de serviços pode deliberar quando a maioria do número legal dos seus membros com direito a voto esteja fisicamente presente ou a participar através de meios telemáticos.\n\n2 - A conferência de serviços interna delibera por consenso, podendo, o presidente da CCDR, I. P., sujeitar a deliberação a votação, caso em que esta é tomada por maioria relativa.\n\n3 - A conferência de serviços externa delibera por maioria absoluta, sendo necessário o voto favorável dos representantes das autarquias locais.\n\n4 - Quando na conferência procedimental participem órgãos titulares de competência para a emissão de parecer não vinculativo, estes exprimem o sentido da sua decisão de forma oral, constando o sentido da sua pronúncia da ata da reunião."
+  },
+  "213622501": {
+   "fragment_id": "213622427",
+   "type": 11,
+   "heading": "Artigo 29.º — Direito de audiência prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direito de audiência prévia\n\nO direito de audiência prévia dos interessados é exercido nos termos do artigo 80.º do CPA."
+  },
+  "213622502": {
+   "fragment_id": "213622428",
+   "type": 8,
+   "heading": "Secção VII — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Fiscal único"
+  },
+  "213622503": {
+   "fragment_id": "213622429",
+   "type": 11,
+   "heading": "Artigo 30.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Função\n\nO fiscal único é o órgão de fiscalização da respetiva CCDR, I. P., responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial."
+  },
+  "213622504": {
+   "fragment_id": "213622430",
+   "type": 11,
+   "heading": "Artigo 31.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Designação\n\nO fiscal único é designado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da coesão territorial, observando, no que concerne ao mandato, remuneração máxima e competências, o disposto na Lei n.º 3/2004, de 15 de janeiro, na sua redação atual."
+  },
+  "213622505": {
+   "fragment_id": "213622431",
+   "type": 1,
+   "heading": "Capítulo III — Da organização e do regime financeiro e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da organização e do regime financeiro e patrimonial"
+  },
+  "213622506": {
+   "fragment_id": "213622432",
+   "type": 11,
+   "heading": "Artigo 32.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Organização interna\n\nA organização interna, incluindo o número máximo de unidades orgânicas nucleares e flexíveis, constam dos estatutos da respetiva CCDR, I. P."
+  },
+  "213622507": {
+   "fragment_id": "213622433",
+   "type": 11,
+   "heading": "Artigo 33.º — Dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Dever de cooperação\n\nNa prossecução da sua missão, as CCDR, I. P., articulam-se e podem recorrer a entidades e serviços públicos integrantes da administração direta, indireta e autónoma do Estado e das instituições de direito privado com atribuições de gestão de serviços públicos, nas matérias necessárias ao cabal desempenho das suas atribuições, bem como prestar a colaboração que lhes for solicitada pelas mesmas entidades."
+  },
+  "213622508": {
+   "fragment_id": "213622434",
+   "type": 11,
+   "heading": "Artigo 34.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Receitas\n\n1 - As CCDR, I. P., dispõem das receitas provenientes de dotações que lhes forem atribuídas no Orçamento do Estado.\n\n2 - As CCDR, I. P., dispõem ainda das seguintes receitas próprias:\n\na) As taxas devidas pelos serviços de licenciamento, autorização ou pareceres em procedimento administrativo ou outros, quando legalmente exigidos, no âmbito das respetivas competências;\n\nb) O produto da venda de bens ou da prestação de serviços, no âmbito das suas atribuições;\n\nc) Os subsídios, donativos ou comparticipações atribuídas por instituições públicas ou privadas, nacionais ou internacionais;\n\nd) Os juros das aplicações financeiras efetuadas junto do Tesouro ou a remuneração de concessões ou licenças de bens públicos cuja administração lhes esteja atribuída;\n\ne) As transferências relativas a fundos, intervenções ou projetos no âmbito das atribuições das CCDR, I. P., designadamente dos fundos europeus;\n\nf) O produto da venda de objetos ou materiais apreendidos e declarados perdidos a seu favor por decisão transitada em julgado em processos de contraordenação;\n\ng) O produto de coimas que lhes seja legalmente atribuído;\n\nh) Quaisquer outras receitas que por lei, contrato ou outro título lhes sejam atribuídas;\n\ni) As receitas geradas pelos bens imóveis que lhe estão afetos;\n\nj) As receitas decorrentes da cedência temporária de espaços para a realização de atividades e a recolha ou a cedência de imagens, relativo ao património das CCDR, I. P.;\n\nk) O produto de edições ou reedições de publicações;\n\nl) As receitas arrecadadas ao abrigo da lei do mecenato;\n\nm) As taxas devidas pelos atos e serviços prestados ao abrigo de legislação respeitante aos animais de companhia e aos animais potencialmente perigosos.\n\n3 - As receitas previstas no número anterior são consignadas à realização de despesas da respetiva CCDR, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos da lei.\n\n4 - O elenco dos serviços prestados pelas CCDR, I. P., referidos na alínea b) do n.º 2, bem como o montante das taxas a cobrar pela sua prestação, é definido por portaria dos membros do Governo responsáveis pelas áreas das finanças e da coesão territorial."
+  },
+  "213622509": {
+   "fragment_id": "213622435",
+   "type": 11,
+   "heading": "Artigo 35.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Despesas\n\n1 - Constituem despesas das CCDR, I. P., as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n2 - As obras promovidas pelas CCDR, I. P., nos imóveis que lhes estejam afetos e nos serviços dependentes estão isentas de pedidos de licenciamento ou autorização e do pagamento de quaisquer taxas."
+  },
+  "213622510": {
+   "fragment_id": "213622436",
+   "type": 11,
+   "heading": "Artigo 36.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Património\n\nO património das CCDR, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "213622511": {
+   "fragment_id": "213622437",
+   "type": 11,
+   "heading": "Artigo 37.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Poderes de autoridade\n\n1 - Para a prossecução das suas atribuições, as CCDR, I. P., exercem os poderes de autoridade do Estado, nomeadamente no que respeita:\n\na) À liquidação e cobrança de taxas e preços e outros rendimentos provenientes da sua atividade;\n\nb) À execução coerciva das decisões de autoridade, nos termos da lei geral;\n\nc) À defesa dos bens do domínio público sob a sua administração;\n\nd) À prevenção, ao controlo de infrações e à aplicação de sanções por atividades ilícitas, no domínio das atribuições das CCDR, I. P., de acordo com a legislação aplicável;\n\ne) À competência para requerer a declaração de utilidade pública, com ou sem caráter de urgência, para o efeito de expropriação de bens e direitos nos termos da lei;\n\nf) Ao reconhecimento de capacidade judiciária para efeitos da efetivação de responsabilidade civil extracontratual visando a reparação de danos causados ao ambiente ou aos interesses gerais do ordenamento do território.\n\n2 - Os trabalhadores das CCDR, I. P., que exerçam funções de fiscalização e vigilância são detentores dos decorrentes poderes de autoridade e, no exercício dessas funções, gozam das seguintes prerrogativas, sem prejuízo de outras constantes da legislação específica:\n\na) Solicitar a colaboração das autoridades policiais quando necessário à imposição de comportamentos legalmente devidos, à prevenção de infrações à lei ou à salvaguarda da inviolabilidade de bens públicos e interesses gerais no âmbito das atribuições das CCDR, I. P.;\n\nb) Determinar, a título preventivo, e com efeitos imediatos, mediante ordem escrita e fundamentada, a suspensão ou cessação de atividades lesivas ou potencialmente danosas para o ambiente, património cultural, o encerramento de instalações quando da não aplicação dessas medidas possa resultar risco iminente para a proteção da saúde pública e para segurança de pessoas e bens;\n\nc) Identificar quaisquer pessoas ou entidades que violem disposições legais e regulamentares nos domínios das atribuições das CCDR, I. P.;\n\nd) Intimar à imediata remoção de ocupações ilegais em bens do domínio público sob a administração das CCDR, I. P., e determinar o embargo de quaisquer construções em áreas de ocupação proibida ou condicionada em zonas de proteção estabelecidas por lei ou em violação da lei, dos regulamentos ou das condições de licenciamento ou autorização.\n\n3 - No exercício das suas funções, os dirigentes e os trabalhadores das unidades orgânicas da área do património gozam dos poderes de autoridade do Estado quando em serviço e sempre que tal se demonstre necessário à aplicação dos respetivos regimes jurídicos.\n\n4 - Os trabalhadores das CCDR, I. P., que desempenhem funções de fiscalização e vigilância usam um documento de identificação próprio, de modelo a aprovar por portaria do membro do Governo responsável pela área da coesão territorial."
+  },
+  "213622512": {
+   "fragment_id": "213622438",
+   "type": 11,
+   "heading": "Artigo 38.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Patrocínio judiciário\n\nO patrocínio judiciário das CCDR, I. P., pode ser assegurado pelo Centro de Competências Jurídicas do Estado - JurisAPP, nos termos do Decreto-Lei n.º 148/2000, de 19 de julho, na sua redação atual, sempre que de tal patrocínio não resultem conflitos de interesses."
+  },
+  "213622513": {
+   "fragment_id": "213622439",
+   "type": 11,
+   "heading": "Artigo 39.º — Mapas de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Mapas de pessoal\n\nAs CCDR, I. P., elaboram, nos termos da lei, os respetivos mapas de pessoal correspondentes às necessidades inerentes à prossecução das respetivas atribuições e exercício das suas competências."
+  },
+  "213622514": {
+   "fragment_id": "213622440",
+   "type": 14,
+   "heading": "Anexo I — Âmbito territorial de atuação das Comissões de Coordenação e Desenvolvimento Regional, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Âmbito territorial de atuação das Comissões de Coordenação e Desenvolvimento Regional, I. P.\n\n(a que se refere o n.º 1 do artigo 2.º)\n\n(ver documento original)\n\n116507244"
+  },
+  "216491553": {
+   "fragment_id": "213622387",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 15-A/2023 - Diário da República n.º 143/2023, 1º Suplemento, Série I de 2023-07-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-a-2023-216187412), produz efeitos a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\n1 - São revogados:\n\na) A alínea d) do n.º 2 do artigo 17.º-A do Decreto-Lei n.º 125/2011, de 29 de dezembro, na sua redação atual, que aprova a Lei Orgânica do Ministério da Educação e Ciência;\n\nb) As alíneas a), b) e c) do n.º 2, as alíneas b), c), d), e), f), h), i), j), k), l), m), n) e o) do n.º 3 e os n.os 4 e 5 do artigo 2.º do Decreto-Lei n.º 114/2012, de 25 de maio, na sua redação atual, que aprova a orgânica das Direções Regionais de Cultura;\n\nc) O Decreto-Lei n.º 228/2012, de 25 de outubro, na sua redação atual, que aprova a orgânica das Comissões de Coordenação e Desenvolvimento Regional;\n\nd) A subalínea iii) da alínea g) do n.º 2 do artigo 3.º do Decreto-Lei n.º 266/2012, de 28 de dezembro, na sua redação atual, que aprova a orgânica do IAPMEI - Agência para a Competitividade e Inovação, I. P.;\n\ne) A alínea k) do n.º 2 do artigo 3.º do Decreto-Lei n.º 266-F/2012, de 31 de dezembro, na sua redação atual, que aprova a orgânica da Direção-Geral dos Estabelecimentos Escolares, e procede à primeira alteração ao Decreto-Lei n.º 14/2012, de 20 de janeiro, que aprova a orgânica da Direção-Geral da Educação, e à primeira alteração ao Decreto Regulamentar n.º 25/2012, de 17 de fevereiro, que aprova a orgânica da Direção-Geral da Administração Escolar;\n\nf) O n.º 2 do artigo 4.º e o artigo 13.º do Decreto-Lei n.º 18/2014, de 4 de fevereiro, na sua redação atual, que aprova a Lei Orgânica do Ministério da Agricultura e do Mar;\n\ng) As alíneas a), c), e), f), h), i), l) e o) do n.º 2 do artigo 2.º do Decreto Regulamentar n.º 30/2012, de 13 de março, na sua redação atual, que aprova a orgânica da Direção-Geral do Território;\n\nh) O Decreto Regulamentar n.º 39/2012, de 11 de abril, que aprova a orgânica das Direções Regionais de Agricultura e Pescas;\n\ni) A Portaria n.º 305/2012, de 4 de outubro, que fixa a estrutura nuclear das Direções Regionais de Agricultura e Pescas;\n\nj) As alíneas g) e i) do artigo 3.º da Portaria n.º 29/2013, de 29 de janeiro, na sua redação atual, que fixa a estrutura nuclear da Direção-Geral dos Estabelecimentos Escolares.\n\n2 - O disposto no número anterior não prejudica o exercício das competências legalmente previstas até à conclusão dos processos de restruturação e integração previstos no presente decreto-lei.\n\n> Retificado pelo/a [Declaração de Retificação n.º 15-A/2023 - Diário da República n.º 143/2023, 1º Suplemento, Série I de 2023-07-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-a-2023-216187412), produz efeitos a partir de 2023-06-01"
+  },
+  "213504163": {
+   "fragment_id": "213622389",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de março de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - António José da Costa Silva - Pedro Adão e Silva Cardoso Pereira - João Miguel Marques da Costa - Manuel Francisco Pizarro de Sampaio e Castro - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão - Maria do Céu de Oliveira Antunes.\n\nPromulgado em 19 de maio de 2023.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 23 de maio de 2023.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "225028456": {
+   "fragment_id": "213622402",
+   "type": 11,
+   "heading": "Artigo 8.º — Natureza e composição do conselho diretivo",
+   "in_force_from": "2023-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2023 - Diário da República n.º 233/2023, Série I de 2023-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), em vigor a partir de 2023-12-05"
+   ],
+   "markdown": "###### Artigo 8.º — Natureza e composição do conselho diretivo\n\n1 - O conselho diretivo é o órgão executivo das CCDR, I. P.\n\n2 - O conselho diretivo é composto por um presidente e até quatro vice-presidentes.\n\n3 - O número concreto de vice-presidentes em cada CCDR, I. P., atenta à sua dimensão e especificidades, é:\n\na) CCDR Norte, I. P.: quatro vice-presidentes;\n\nb) CCDR Centro, I. P.: quatro vice-presidentes;\n\nc) CCDR Lisboa e Vale do Tejo, I. P.: quatro vice-presidentes;\n\nd) CCDR Alentejo, I. P.: quatro vice-presidentes;\n\ne) CCDR Algarve, I. P.: três vice-presidentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2023 - Diário da República n.º 233/2023, Série I de 2023-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), em vigor a partir de 2023-12-05"
+  },
+  "216491554": {
+   "fragment_id": "213622438",
+   "type": 11,
+   "heading": "Artigo 38.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 15-A/2023 - Diário da República n.º 143/2023, 1º Suplemento, Série I de 2023-07-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-a-2023-216187412), produz efeitos a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 38.º — Patrocínio judiciário\n\nO patrocínio judiciário das CCDR, I. P., pode ser assegurado pelo Centro de Competências Jurídicas do Estado - JurisAPP, sempre que de tal patrocínio não resultem conflitos de interesses.\n\n> Retificado pelo/a [Declaração de Retificação n.º 15-A/2023 - Diário da República n.º 143/2023, 1º Suplemento, Série I de 2023-07-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-a-2023-216187412), produz efeitos a partir de 2023-06-01"
+  },
+  "225028457": {
+   "fragment_id": "225166113",
+   "type": 11,
+   "heading": "Artigo 40.º — Cargos de direção intermédia",
+   "in_force_from": "2023-12-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2023 - Diário da República n.º 233/2023, Série I de 2023-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), em vigor a partir de 2023-12-05"
+   ],
+   "markdown": "###### Artigo 40.º — Cargos de direção intermédia\n\n1 - São cargos de direção intermédia de 1.º grau das CCDR, I. P., os diretores de unidade.\n\n2 - São cargos de direção intermédia de 2.º grau das CCDR, I. P., os chefes de divisão.\n\n3 - O estatuto remuneratório dos chefes de equipa que dirigem os núcleos das CCDR, I. P., pode ser fixado até ao limite do estatuto remuneratório de chefe de divisão.\n\n4 - A remuneração base dos diretores e dos chefes de divisão é determinada em percentagem da remuneração base do presidente da CCDR, I. P., nas seguintes proporções:\n\na) Diretores - 60/prct.;\n\nb) Chefes de divisão - 55/prct.\n\n5 - As despesas de representação dos diretores e dos chefes de divisão são determinadas em percentagem das despesas de representação do presidente da CCDR, I. P., nas seguintes proporções:\n\na) Diretores - 20/prct.;\n\nb) Chefes de divisão - 15/prct.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2023 - Diário da República n.º 233/2023, Série I de 2023-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), em vigor a partir de 2023-12-05"
+  },
+  "902223777": {
+   "fragment_id": "213622394",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2024-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\nAs CCDR, I. P., têm por missão:\n\na) Definir e executar as respetivas estratégias de desenvolvimento regional;\n\nb) Integrar e articular territorialmente políticas públicas indispensáveis à execução das políticas de desenvolvimento regional nos domínios do ambiente, cidades, economia, cultura, educação, saúde, ordenamento do território, conservação da natureza, e agricultura e pescas;\n\nc) Assegurar o planeamento e a gestão da política de coesão no âmbito dos programas regionais, e dos programas de cooperação territorial europeia, enquadrados nos ciclos de programação das políticas da União Europeia, tendo em vista o desenvolvimento económico, social e cultural dos territórios que constituem as respetivas circunscrições;\n\nd) Participar na formulação e execução das políticas públicas nas áreas da agricultura, do desenvolvimento rural e das pescas, apoiar os agricultores e as suas organizações e executar as ações necessárias no âmbito dos projetos de investimento apoiados por fundos públicos;\n\ne) Participar na formulação e execução de outras políticas públicas, cujos serviços desconcentrados sejam integrados nas CCDR, I. P.;\n\nf) Apoiar tecnicamente as autarquias locais e as suas associações.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "902223778": {
+   "fragment_id": "213622395",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2024-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - Sem prejuízo da descentralização de competências para as autarquias locais e para as entidades intermunicipais, as CCDR, I. P., prosseguem, no respetivo âmbito territorial, as seguintes atribuições:\n\na) Contribuir para a definição da política de desenvolvimento regional no quadro da política de desenvolvimento económico e social do País, dinamizando e participando nos processos de planeamento estratégico de base territorial e de desenvolvimento rural, promovendo o desenvolvimento de sistemas ou ecossistemas regionais de inovação, nomeadamente através do fomento de parcerias entre agentes regionais, entre as entidades do sistema científico e tecnológico e a comunidade, o desenvolvimento de estudos de articulação de políticas sectoriais no espaço regional e elaborar programas integrados visando a coesão e a competitividade territoriais;\n\nb) Contribuir para o estímulo da competitividade das regiões, dinamizando o empreendedorismo a nível local através da criação e desenvolvimento de negócios, designadamente de base científica e tecnológica, e promovendo o investimento empresarial inovador, orientado para produtos e atividades relacionados com as novas tecnologias, processos de produção e recursos humanos qualificados, bem como para a captação de investimento direto estrangeiro;\n\nc) Proceder ao licenciamento dos estabelecimentos industriais e de zonas empresariais responsáveis nos termos do previsto no regime do Sistema da Indústria Responsável (SIR);\n\nd) Intervir na gestão de áreas e parques empresariais vocacionados para instalação de empresas, nomeadamente para promoção de dinâmicas de inovação, de agregação empresarial e de sinergia logística;\n\ne) Dinamizar e promover a mobilização de fundos nacionais e europeus, bem como as necessárias políticas públicas com o objetivo de contribuir para a competitividade económica, social e para a coesão territorial;\n\nf) Assegurar as responsabilidades de gestão que lhe sejam confiadas no âmbito da política de coesão e de outras políticas da União Europeia;\n\ng) Assegurar a coerência do sistema de gestão territorial, garantindo a articulação dos instrumentos de gestão territorial, elaborando, monitorizando e avaliando os de âmbito regional, bem como acompanhar a elaboração dos instrumentos de gestão territorial de âmbito intermunicipal e municipal;\n\nh) Executar, avaliar e fiscalizar as políticas públicas nos domínios do ordenamento do território, urbanismo, ambiente, da conservação da natureza e do bem-estar animal, bem como desenvolver os necessários processos de avaliação ambiental;\n\ni) Assegurar o apoio às iniciativas culturais de caráter não profissional, bem como a salvaguarda, a valorização e a divulgação do património cultural nas zonas de proteção de imóveis classificados, ou em vias de classificação;\n\nj) Participar e dinamizar iniciativas culturais, designadamente no quadro de eventos como a Capital Europeia de Cultura, a Capital Portuguesa da Cultura, redes regionais de cultura e de valorização do património cultural e dos museus;\n\nk) Assegurar a articulação com as autarquias locais nos domínios da rede de equipamentos escolares;\n\nl) Participar no planeamento regional dos recursos necessários à prestação de cuidados de saúde, em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.);\n\nm) Colaborar com a DE-SNS, I. P., a nível regional, no âmbito do apoio técnico a prestar às instituições e serviços prestadores de cuidados de saúde, bem como da respetiva avaliação;\n\nn) Executar as políticas agrícola e de pescas, agroalimentar e de desenvolvimento rural, bem como assegurar o planeamento e a coordenação na aplicação dos respetivos financiamentos, nacionais e europeus, reforçando lógicas de proximidade territorial na interação com os diferentes agentes e operadores sectoriais;\n\no) Realizar o levantamento das caraterísticas e das necessidades dos subsetores agrícola, agroindustrial e pescas, no quadro do sistema estatístico nacional;\n\np) Dinamizar a cooperação transfronteiriça, inter-regional e transnacional, contribuindo para a integração europeia das diferentes regiões e do espaço regional, nomeadamente no contexto da cooperação territorial europeia, para o desenvolvimento de processos de concertação estratégica e de planeamento;\n\nq) Apoiar tecnicamente as autarquias locais e as suas associações e assegurar a sua articulação com outras entidades públicas e privadas na dinamização de estratégias de desenvolvimento sustentável locais e sub-regionais;\n\nr) Assegurar a articulação entre instituições da administração direta do Estado, autarquias locais e entidades intermunicipais, entidades do sistema científico e tecnológico e entidades do terceiro sector;\n\ns) Desenvolver políticas de captação de mecenato;\n\nt) Exercer a ação fiscalizadora nos termos do previsto no presente decreto-lei.\n\n2 - As CCDR, I. P., são o balcão único dos pedidos de licenciamento ou de parecer cuja decisão seja da sua competência ou da competência de outras entidades do Estado, devendo articular com as entidades envolvidas, através de um sistema de interoperabilidade, assegurando, a conferência de serviços, nos termos da lei, sem prejuízo das competências legalmente atribuídas a entidades coordenadoras nos respetivos regimes de licenciamento.\n\n3 - A CCDR Norte, I. P., prossegue, ainda, as seguintes atribuições:\n\na) Zelar pela manutenção dos atributos que conferem integridade e autenticidade à «Paisagem Cultural Evolutiva e Viva do Alto Douro Vinhateiro» como património mundial, com vista a preservar o seu valor universal excecional, bem como a salvaguardar os valores paisagísticos, ambientais e culturais em presença, em articulação com os municípios e com as demais entidades públicas territorialmente competentes;\n\nb) Participar no estudo e no desenvolvimento de políticas públicas para o Alto Douro Vinhateiro consonantes com as exigências da Convenção para a Proteção do Património Mundial, Cultural e Natural, adotada pela Conferência Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) e aprovada, para adesão, pelo Decreto n.º 49/79, de 6 de junho;\n\nc) Promover a articulação e coordenação entre as entidades das administrações central e local com competências na Região do Douro, estimular a participação e a iniciativa da sociedade civil e dinamizar ações para o seu desenvolvimento integrado.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "902223779": {
+   "fragment_id": "213622397",
+   "type": 11,
+   "heading": "Artigo 6.º — Contrato-programa",
+   "in_force_from": "2024-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 6.º — Contrato-programa\n\n1 - A articulação entre as medidas de política pública nacional e a sua operacionalização e concretização a nível regional é assegurada por via de contrato-programa, que define as estratégias e os programas com incidência no desenvolvimento regional, a aprovar pelo Conselho de Concertação Territorial, instituído pelo Decreto-Lei n.º 35/2023.\n\n2 - O contrato-programa é elaborado pelos membros do Governo responsáveis pelas áreas da coesão territorial e da agricultura e pescas, em articulação com as demais áreas governativas cujas políticas públicas são indispensáveis à definição da política de desenvolvimento regional.\n\n3 - O contrato-programa estabelece os objetivos, metas e prioridades a alcançar nas estratégias e nos programas com incidência no desenvolvimento regional, bem como, se for o caso, os recursos humanos e financeiros afetos ao cumprimento dos mesmos.\n\n4 - Após a sua aprovação, nos termos do disposto no n.º 1, o contrato-programa é assinado pelo Primeiro-Ministro e pelo presidente do conselho diretivo da CCDR, I. P., respetiva.\n\n5 - O contrato-programa vigora até ao final do ciclo de fundos europeus a que respeita, sujeito a revisão anual ou sempre que alterações significativas da política pública nacional o justifiquem, designadamente na sequência da tomada de posse de um novo Governo.\n\n6 - A execução do contrato-programa é monitorizada pelo conselho de coordenação intersectorial da CCDR, I. P., respetiva.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "902223780": {
+   "fragment_id": "213622402",
+   "type": 11,
+   "heading": "Artigo 8.º — Natureza e composição do conselho diretivo",
+   "in_force_from": "2024-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2023 - Diário da República n.º 233/2023, Série I de 2023-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), em vigor a partir de 2023-12-05"
+   ],
+   "markdown": "###### Artigo 8.º — Natureza e composição do conselho diretivo\n\n1 - O conselho diretivo é o órgão executivo das CCDR, I. P.\n\n2 - O conselho diretivo é composto por um presidente e até cinco vice-presidentes.\n\n3 - O número concreto de vice-presidentes em cada CCDR, I. P., atenta à sua dimensão e especificidades, é:\n\na) CCDR Norte, I. P.: cinco vice-presidentes;\n\nb) CCDR Centro, I. P.: cinco vice-presidentes;\n\nc) CCDR Lisboa e Vale do Tejo, I. P.: cinco vice-presidentes;\n\nd) CCDR Alentejo, I. P.: cinco vice-presidentes;\n\ne) CCDR Algarve, I. P.: quatro vice-presidentes.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2023 - Diário da República n.º 233/2023, Série I de 2023-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), em vigor a partir de 2023-12-05"
+  },
+  "902223781": {
+   "fragment_id": "213622408",
+   "type": 11,
+   "heading": "Artigo 13.º — Designação do presidente e dos vice-presidentes",
+   "in_force_from": "2024-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 13.º — Designação do presidente e dos vice-presidentes\n\n1 - O presidente e os vice-presidentes são designados por resolução do Conselho de Ministros, na sequência dos procedimentos previstos nos números seguintes.\n\n2 - O presidente é indicado na sequência do processo eleitoral a que se refere o artigo seguinte.\n\n3 - Um vice-presidente é eleito pelos presidentes das câmaras municipais que integram a área geográfica abrangida pela respetiva CCDR, I. P., nos termos do artigo 15.º, com as devidas adaptações.\n\n4 - Um vice-presidente é eleito pelos membros do conselho regional, que não integrem o referido conselho em representação de autarquias locais ou associações de autarquias locais.\n\n5 - Um vice-presidente é designado sob proposta do membro do Governo responsável pela agricultura e pescas, de cuja superintendência e tutela depende, e é responsável pelos departamentos da CCDR, I. P., dedicados à agricultura, desenvolvimento rural e pescas.\n\n6 - Até dois vice-presidentes são designados após procedimento de cooptação, mediante deliberação dos membros do conselho diretivo referidos nos números anteriores, por proposta do presidente.\n\n7 - Os vice-presidentes exercem as competências que lhe sejam delegadas ou subdelegadas pelo presidente ou pelo conselho diretivo, sem prejuízo do disposto no n.º 5.\n\n8 - Os serviços centrais dos Ministérios da Agricultura e Pescas articulam a sua ação funcional e, no âmbito do disposto no n.º 5, transmitem as respetivas orientações aos serviços operativos correspondentes das CCDR, I. P., através do respetivo vice-presidente.\n\n9 - O presidente identifica qual o vice-presidente a que compete substituí-lo nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "902223782": {
+   "fragment_id": "213622413",
+   "type": 11,
+   "heading": "Artigo 18.º — Mandatos",
+   "in_force_from": "2024-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 18.º — Mandatos\n\n1 - A duração dos mandatos do presidente e dos vice-presidentes é de quatro anos, estando sujeitos ao limite de três mandatos consecutivos, seja na mesma ou em diferente CCDR, I. P.\n\n2 - Os mandatos do presidente e dos vice-presidentes cessam:\n\na) Pelo seu termo;\n\nb) Por renúncia ou pedido de demissão do respetivo titular, consoante, respetivamente, sejam eleitos ou cooptados, mediante comunicação escrita dirigida ao membro do Governo responsável pela área da coesão territorial, com a antecedência mínima de três meses;\n\nc) Pela tomada de posse ou pelo exercício, a qualquer título, de outro cargo ou função incompatível com o estatuto de membro do conselho diretivo;\n\nd) Por extinção da CCDR, I. P.;\n\ne) Por deliberação do Governo, devidamente fundamentada, após audiência prévia do respetivo titular e ouvido o conselho regional da respetiva área geográfica, mediante resolução do Conselho de Ministros, nos casos previstos no número seguinte;\n\nf) Por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela coesão territorial ou, no caso do vice-presidente responsável pela agricultura e pescas, sob proposta do membro do Governo responsável pela agricultura e pescas;\n\ng) Por caducidade, nos termos do n.º 5 do artigo 12.º\n\n3 - Determinam a cessação do mandato do presidente e dos vice-presidentes nos termos da alínea e) do número anterior a verificação das seguintes circunstâncias:\n\na) O incumprimento das orientações estratégicas estabelecidas no contrato-programa e dos objetivos fixados para as CCDR, I. P.;\n\nb) A prática de infrações graves ou reiteradas às normas que regem as CCDR, I. P.;\n\nc) A grave violação dos princípios de gestão fixados nos diplomas legais e regulamentares aplicáveis.\n\n4 - Em caso de vacatura do cargo de presidente, a designação em substituição é feita, de entre os vice-presidentes, pelo membro do Governo responsável pela tutela e superintendência das CCDR, I. P., de modo a garantir a continuidade da ação da respetiva CCDR, I. P., até à convocação da nova eleição e designação de novo titular.\n\n5 - Em caso de vacatura do cargo de vice-presidente previsto no n.º 3 do artigo 13.º, a designação do novo titular é feita nos termos previstos na referida norma, nos três meses seguintes à data da verificação da vacatura.\n\n6 - Nos casos previstos nos números anteriores, o novo titular desempenha funções apenas até ao termo do mandato do titular anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "902223776": {
+   "fragment_id": "213622438",
+   "type": 11,
+   "heading": "Artigo 38.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 68/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), produz efeitos a partir de 2025-01-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 15-A/2023 - Diário da República n.º 143/2023, 1º Suplemento, Série I de 2023-07-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-a-2023-216187412), produz efeitos a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 38.º — Patrocínio judiciário\n\nO patrocínio judiciário das CCDR, I. P., pode ser assegurado pelo Centro de Competências Jurídicas do Estado - JurisAPP, sempre que de tal patrocínio não resultem conflitos de interesses.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 68/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), produz efeitos a partir de 2025-01-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 15-A/2023 - Diário da República n.º 143/2023, 1º Suplemento, Série I de 2023-07-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-a-2023-216187412), produz efeitos a partir de 2023-06-01"
+  },
+  "944648697": {
+   "fragment_id": "213622394",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2025-11-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\nAs CCDR, I. P., têm por missão:\n\na) Definir e executar as respetivas estratégias de desenvolvimento regional;\n\nb) Integrar e articular territorialmente políticas públicas indispensáveis à execução das políticas de desenvolvimento regional nos domínios do ambiente, cidades, economia, cultura, educação, saúde, ordenamento do território, conservação da natureza, e agricultura e pescas;\n\nc) Assegurar o planeamento e a gestão da política de coesão no âmbito dos programas regionais, e dos programas de cooperação territorial europeia, enquadrados nos ciclos de programação das políticas da União Europeia, tendo em vista o desenvolvimento económico, social e cultural dos territórios que constituem as respetivas circunscrições;\n\nd) Participar na formulação e execução das políticas públicas nas áreas da agricultura, do desenvolvimento rural e das pescas, apoiar os agricultores e as suas organizações e executar as ações necessárias no âmbito dos projetos de investimento apoiados por fundos públicos;\n\ne) Participar na formulação e execução de outras políticas públicas, cujos serviços desconcentrados sejam integrados nas CCDR, I. P.;\n\nf) Apoiar tecnicamente as autarquias locais e as suas associações;\n\ng) Participar no planeamento das políticas públicas na área da educação e da formação profissional não superiores, nos seus diferentes níveis e modalidades, bem como acompanhar a organização e funcionamento das escolas, em estreita articulação com os municípios, as comunidades intermunicipais e os demais órgãos, serviços e organismos da área governativa da educação, ciência e inovação, de modo a promover o desenvolvimento e a consolidação da sua autonomia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "944648698": {
+   "fragment_id": "213622395",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2025-11-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - Sem prejuízo da descentralização de competências para as autarquias locais e para as entidades intermunicipais, as CCDR, I. P., prosseguem, no respetivo âmbito territorial, as seguintes atribuições:\n\na) Contribuir para a definição da política de desenvolvimento regional no quadro da política de desenvolvimento económico e social do País, dinamizando e participando nos processos de planeamento estratégico de base territorial e de desenvolvimento rural, promovendo o desenvolvimento de sistemas ou ecossistemas regionais de inovação, nomeadamente através do fomento de parcerias entre agentes regionais, entre as entidades do sistema científico e tecnológico e a comunidade, o desenvolvimento de estudos de articulação de políticas sectoriais no espaço regional e elaborar programas integrados visando a coesão e a competitividade territoriais;\n\nb) Contribuir para o estímulo da competitividade das regiões, dinamizando o empreendedorismo a nível local através da criação e desenvolvimento de negócios, designadamente de base científica e tecnológica, e promovendo o investimento empresarial inovador, orientado para produtos e atividades relacionados com as novas tecnologias, processos de produção e recursos humanos qualificados, bem como para a captação de investimento direto estrangeiro;\n\nc) Proceder ao licenciamento dos estabelecimentos industriais e de zonas empresariais responsáveis nos termos do previsto no regime do Sistema da Indústria Responsável (SIR);\n\nd) Intervir na gestão de áreas e parques empresariais vocacionados para instalação de empresas, nomeadamente para promoção de dinâmicas de inovação, de agregação empresarial e de sinergia logística;\n\ne) Dinamizar e promover a mobilização de fundos nacionais e europeus, bem como as necessárias políticas públicas com o objetivo de contribuir para a competitividade económica, social e para a coesão territorial;\n\nf) Assegurar as responsabilidades de gestão que lhe sejam confiadas no âmbito da política de coesão e de outras políticas da União Europeia;\n\ng) Assegurar a coerência do sistema de gestão territorial, garantindo a articulação dos instrumentos de gestão territorial, elaborando, monitorizando e avaliando os de âmbito regional, bem como acompanhar a elaboração dos instrumentos de gestão territorial de âmbito intermunicipal e municipal;\n\nh) Executar, avaliar e fiscalizar as políticas públicas nos domínios do ordenamento do território, urbanismo, ambiente, da conservação da natureza e do bem-estar animal, bem como desenvolver os necessários processos de avaliação ambiental;\n\ni) Assegurar o apoio às iniciativas culturais de caráter não profissional, bem como a salvaguarda, a valorização e a divulgação do património cultural nas zonas de proteção de imóveis classificados, ou em vias de classificação;\n\nj) Participar e dinamizar iniciativas culturais, designadamente no quadro de eventos como a Capital Europeia de Cultura, a Capital Portuguesa da Cultura, redes regionais de cultura e de valorização do património cultural e dos museus;\n\nk) Assegurar a articulação com as autarquias locais nos domínios da rede de equipamentos escolares;\n\nl) Participar no planeamento regional dos recursos necessários à prestação de cuidados de saúde, em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.);\n\nm) Colaborar com a DE-SNS, I. P., a nível regional, no âmbito do apoio técnico a prestar às instituições e serviços prestadores de cuidados de saúde, bem como da respetiva avaliação;\n\nn) Executar as políticas agrícolas e de pescas, agroalimentar e de desenvolvimento rural, bem como assegurar o planeamento e a coordenação na aplicação dos respetivos financiamentos, nacionais e europeus, e coordenar, sem prejuízo da possibilidade de celebrar contratos administrativos com os municípios, as escolas profissionais agrícolas públicas, reforçando lógicas de proximidade territorial na integração com os diferentes agentes e operadores setoriais;\n\no) Realizar o levantamento das caraterísticas e das necessidades dos subsetores agrícola, agroindustrial e pescas, no quadro do sistema estatístico nacional;\n\np) Dinamizar a cooperação transfronteiriça, inter-regional e transnacional, contribuindo para a integração europeia das diferentes regiões e do espaço regional, nomeadamente no contexto da cooperação territorial europeia, para o desenvolvimento de processos de concertação estratégica e de planeamento;\n\nq) Apoiar tecnicamente as autarquias locais e as suas associações e assegurar a sua articulação com outras entidades públicas e privadas na dinamização de estratégias de desenvolvimento sustentável locais e sub-regionais;\n\nr) Assegurar a articulação entre instituições da administração direta do Estado, autarquias locais e entidades intermunicipais, entidades do sistema científico e tecnológico e entidades do terceiro sector;\n\ns) Desenvolver políticas de captação de mecenato;\n\nt) Participar no planeamento da rede escolar da circunscrição regional e da oferta formativa, nos seus diferentes níveis e modalidades, nomeadamente do ensino profissional e dos cursos técnicos superiores profissionais, sem prejuízo das competências de aprovação e validação dos serviços da área governativa da educação, ciência e inovação, contribuindo para um melhor alinhamento com a estratégia de desenvolvimento regional;\n\nu) Colaborar na recolha de informação para efeitos de controlo e de monitorização da execução das políticas educativas na sua dimensão regional, em articulação com os serviços da área governativa da educação, ciência e invocação;\n\nv) Contribuir para o planeamento e para a concretização da política nacional no domínio das instalações e equipamentos escolares, em articulação com os municípios, as comunidades intermunicipais e os serviços da área governativa da educação, ciência e inovação, assegurando o acompanhamento das iniciativas de requalificação, modernização e conservação da rede escolar;\n\nw) Acompanhar a organização e funcionamento das escolas, em articulação com os municípios, as comunidades intermunicipais e os serviços da área governativa da educação, ciência e inovação, promovendo o desenvolvimento e consolidação da sua autonomia;\n\nx) Planear as redes de dupla certificação para jovens, de ofertas educativas para adultos e dos centros especializados em qualificação escolar de adultos, sem prejuízo da supervisão estratégica e da definição de orientações por parte do Instituto de Educação, Qualidade e Avaliação, I. P., e os demais serviços da área governativa da educação, ciência e inovação;\n\ny) Exercer a ação fiscalizadora nos termos do previsto no presente decreto-lei.\n\n2 - As CCDR, I. P., são o balcão único dos pedidos de licenciamento ou de parecer cuja decisão seja da sua competência ou da competência de outras entidades do Estado, devendo articular com as entidades envolvidas, através de um sistema de interoperabilidade, assegurando, a conferência de serviços, nos termos da lei, sem prejuízo das competências legalmente atribuídas a entidades coordenadoras nos respetivos regimes de licenciamento.\n\n3 - A CCDR Norte, I. P., prossegue, ainda, as seguintes atribuições:\n\na) Zelar pela manutenção dos atributos que conferem integridade e autenticidade à «Paisagem Cultural Evolutiva e Viva do Alto Douro Vinhateiro» como património mundial, com vista a preservar o seu valor universal excecional, bem como a salvaguardar os valores paisagísticos, ambientais e culturais em presença, em articulação com os municípios e com as demais entidades públicas territorialmente competentes;\n\nb) Participar no estudo e no desenvolvimento de políticas públicas para o Alto Douro Vinhateiro consonantes com as exigências da Convenção para a Proteção do Património Mundial, Cultural e Natural, adotada pela Conferência Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) e aprovada, para adesão, pelo Decreto n.º 49/79, de 6 de junho;\n\nc) Promover a articulação e coordenação entre as entidades das administrações central e local com competências na Região do Douro, estimular a participação e a iniciativa da sociedade civil e dinamizar ações para o seu desenvolvimento integrado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "993773660": {
+   "fragment_id": "213622394",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\nAs CCDR, I. P., têm por missão:\n\na) Definir e executar as respetivas estratégias de desenvolvimento regional;\n\nb) Integrar e articular territorialmente políticas públicas indispensáveis à execução das políticas de desenvolvimento regional nos domínios do ambiente, cidades, economia, cultura, educação, saúde, ordenamento do território, conservação da natureza, e agricultura e pescas;\n\nc) Assegurar o planeamento e a gestão da política de coesão no âmbito dos programas regionais, e dos programas de cooperação territorial europeia, enquadrados nos ciclos de programação das políticas da União Europeia, tendo em vista o desenvolvimento económico, social e cultural dos territórios que constituem as respetivas circunscrições;\n\nd) Participar na formulação e execução das políticas públicas nas áreas da agricultura, do desenvolvimento rural e das pescas, apoiar os agricultores e as suas organizações e executar as ações necessárias no âmbito dos projetos de investimento apoiados por fundos públicos;\n\ne) Participar na formulação e execução de outras políticas públicas, cujos serviços desconcentrados sejam integrados nas CCDR, I. P.;\n\nf) Apoiar tecnicamente as autarquias locais e as suas associações;\n\ng) Participar no planeamento das políticas públicas na área da educação e da formação profissional não superiores, nos seus diferentes níveis e modalidades, bem como acompanhar a organização e funcionamento das escolas, em estreita articulação com os municípios, as comunidades intermunicipais e os demais órgãos, serviços e organismos da área governativa da educação, ciência e inovação, de modo a promover o desenvolvimento e a consolidação da sua autonomia.\n\nh) Participar no planeamento das políticas públicas na área da saúde, nomeadamente no planeamento regional de programas e planos de saúde pública, dos grandes investimentos em infraestruturas e em equipamentos médicos pesados, e nas iniciativas transfronteiriças na área da saúde.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "993773661": {
+   "fragment_id": "213622395",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - Sem prejuízo da descentralização de competências para as autarquias locais e para as entidades intermunicipais, as CCDR, I. P., prosseguem, no respetivo âmbito territorial, as seguintes atribuições:\n\na) Contribuir para a definição da política de desenvolvimento regional no quadro da política de desenvolvimento económico e social do País, dinamizando e participando nos processos de planeamento estratégico de base territorial e de desenvolvimento rural, promovendo o desenvolvimento de sistemas ou ecossistemas regionais de inovação, nomeadamente através do fomento de parcerias entre agentes regionais, entre as entidades do sistema científico e tecnológico e a comunidade, o desenvolvimento de estudos de articulação de políticas sectoriais no espaço regional e elaborar programas integrados visando a coesão e a competitividade territoriais;\n\nb) Contribuir para o estímulo da competitividade das regiões, dinamizando o empreendedorismo a nível local através da criação e desenvolvimento de negócios, designadamente de base científica e tecnológica, e promovendo o investimento empresarial inovador, orientado para produtos e atividades relacionados com as novas tecnologias, processos de produção e recursos humanos qualificados, bem como para a captação de investimento direto estrangeiro;\n\nc) Proceder ao licenciamento dos estabelecimentos industriais e de zonas empresariais responsáveis nos termos do previsto no regime do Sistema da Indústria Responsável (SIR);\n\nd) Intervir na gestão de áreas e parques empresariais vocacionados para instalação de empresas, nomeadamente para promoção de dinâmicas de inovação, de agregação empresarial e de sinergia logística;\n\ne) Dinamizar e promover a mobilização de fundos nacionais e europeus, bem como as necessárias políticas públicas com o objetivo de contribuir para a competitividade económica, social e para a coesão territorial;\n\nf) Assegurar as responsabilidades de gestão que lhe sejam confiadas no âmbito da política de coesão e de outras políticas da União Europeia;\n\ng) Assegurar a coerência do sistema de gestão territorial, garantindo a articulação dos instrumentos de gestão territorial, elaborando, monitorizando e avaliando os de âmbito regional, bem como acompanhar a elaboração dos instrumentos de gestão territorial de âmbito intermunicipal e municipal;\n\nh) Executar, avaliar e fiscalizar as políticas públicas nos domínios do ordenamento do território, urbanismo, ambiente, da conservação da natureza e do bem-estar animal, bem como desenvolver os necessários processos de avaliação ambiental;\n\ni) Assegurar o apoio às iniciativas culturais de caráter não profissional, bem como a salvaguarda, a valorização e a divulgação do património cultural nas zonas de proteção de imóveis classificados, ou em vias de classificação;\n\nj) Participar e dinamizar iniciativas culturais, designadamente no quadro de eventos como a Capital Europeia de Cultura, a Capital Portuguesa da Cultura, redes regionais de cultura e de valorização do património cultural e dos museus;\n\nk) Assegurar a articulação com as autarquias locais nos domínios da rede de equipamentos escolares;\n\nl) Identificar e planear o investimento em infraestruturas e grandes equipamentos de saúde, assegurando uma distribuição regional equilibrada e coerente com as necessidades demográficas, epidemiológicas e territoriais, promovendo a equidade no acesso em todo o território nacional, em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.);\n\nm) Acompanhar, a nível regional, a programação, a apresentação, a elegibilidade e a execução das candidaturas a fundos comunitários destinadas a investimentos em saúde, assegurando a articulação com os instrumentos de planeamento territorial, as prioridades regionais e os objetivos estratégicos do Serviço Nacional de Saúde (SNS);\n\nn) Colaborar e apoiar iniciativas no domínio da partilha de instalações, meios e equipamentos de saúde pelas populações dos Territórios Transfronteiriços, em articulação com as entidades do SNS, a exemplo do projeto 112 transfronteiriço;\n\no) Integrar a perspetiva da saúde nas políticas regionais de desenvolvimento económico, social, ambiental e territorial, incluindo a implementação de metodologias de avaliação de impacto em saúde, assegurando a coerência com as orientações nacionais e os objetivos de saúde pública;\n\np) Desenvolver estratégias regionais para a saúde sustentável, alinhadas com o Plano Nacional de Saúde e com os Planos Locais de Saúde, sob orientação técnica da Direção-Geral da Saúde (DGS);\n\nq) Contribuir para a contextualização territorial e operacionalização dos programas nacionais de saúde, garantindo a sua adaptação às especificidades regionais, sob orientação da DGS e em coordenação com as estruturas de saúde de âmbito local;\n\nr) Participar na preparação e resposta a emergências de saúde pública a nível regional, em articulação com as autoridades de saúde e com a proteção civil;\n\ns) Promover e apoiar a dinamização de campanhas regionais de promoção da saúde e de prevenção da doença, incluindo iniciativas de literacia em saúde e de promoção de estilos de vida saudáveis, em parceria com as estruturas de saúde de âmbito local, as autarquias, instituições do setor social e demais entidades relevantes;\n\nt) Promover e apoiar iniciativas regionais de prevenção e promoção da saúde mental, em articulação com as redes e programas nacionais existentes;\n\nu) Promover a cooperação transfronteiriça na área da saúde, designadamente através de programas europeus e dos acordos de cooperação estabelecidos entre o Estado Português e o Reino de Espanha ou com as respetivas regiões autónomas;\n\nv) Colaborar com a DE-SNS, I. P., a nível regional, no âmbito do apoio técnico a prestar às instituições e serviços prestadores de cuidados de saúde, bem como da respetiva avaliação;\n\nw) Executar as políticas agrícolas e de pescas, agroalimentar e de desenvolvimento rural, bem como assegurar o planeamento e a coordenação na aplicação dos respetivos financiamentos, nacionais e europeus, e coordenar, sem prejuízo da possibilidade de celebrar contratos administrativos com os municípios, as escolas profissionais agrícolas públicas, reforçando lógicas de proximidade territorial na integração com os diferentes agentes e operadores setoriais;\n\nx) Realizar o levantamento das caraterísticas e das necessidades dos subsetores agrícola, agroindustrial e pescas, no quadro do sistema estatístico nacional;\n\ny) Dinamizar a cooperação transfronteiriça, inter-regional e transnacional, contribuindo para a integração europeia das diferentes regiões e do espaço regional, nomeadamente no contexto da cooperação territorial europeia, para o desenvolvimento de processos de concertação estratégica e de planeamento;\n\nz) Apoiar tecnicamente as autarquias locais e as suas associações e assegurar a sua articulação com outras entidades públicas e privadas na dinamização de estratégias de desenvolvimento sustentável locais e sub-regionais;\n\naa) Assegurar a articulação entre instituições da administração direta do Estado, autarquias locais e entidades intermunicipais, entidades do sistema científico e tecnológico e entidades do terceiro sector;\n\nbb) Desenvolver políticas de captação de mecenato;\n\ncc) Participar no planeamento da rede escolar da circunscrição regional e da oferta formativa, nos seus diferentes níveis e modalidades, nomeadamente do ensino profissional e dos cursos técnicos superiores profissionais, sem prejuízo das competências de aprovação e validação dos serviços da área governativa da educação, ciência e inovação, contribuindo para um melhor alinhamento com a estratégia de desenvolvimento regional;\n\ndd) Colaborar na recolha de informação para efeitos de controlo e de monitorização da execução das políticas educativas na sua dimensão regional, em articulação com os serviços da área governativa da educação, ciência e invocação;\n\nee) Contribuir para o planeamento e para a concretização da política nacional no domínio das instalações e equipamentos escolares, em articulação com os municípios, as comunidades intermunicipais e os serviços da área governativa da educação, ciência e inovação, assegurando o acompanhamento das iniciativas de requalificação, modernização e conservação da rede escolar;\n\nff) Acompanhar a organização e funcionamento das escolas, em articulação com os municípios, as comunidades intermunicipais e os serviços da área governativa da educação, ciência e inovação, promovendo o desenvolvimento e consolidação da sua autonomia;\n\ngg) Planear as redes de dupla certificação para jovens, de ofertas educativas para adultos e dos centros especializados em qualificação escolar de adultos, sem prejuízo da supervisão estratégica e da definição de orientações por parte do Instituto de Educação, Qualidade e Avaliação, I. P., e os demais serviços da área governativa da educação, ciência e inovação;\n\nhh) Exercer a ação fiscalizadora nos termos do previsto no presente decreto-lei.\n\n2 - As CCDR, I. P., são o balcão único dos pedidos de licenciamento ou de parecer cuja decisão seja da sua competência ou da competência de outras entidades do Estado, devendo articular com as entidades envolvidas, através de um sistema de interoperabilidade, assegurando, a conferência de serviços, nos termos da lei, sem prejuízo das competências legalmente atribuídas a entidades coordenadoras nos respetivos regimes de licenciamento.\n\n3 - A CCDR Norte, I. P., prossegue, ainda, as seguintes atribuições:\n\na) Zelar pela manutenção dos atributos que conferem integridade e autenticidade à «Paisagem Cultural Evolutiva e Viva do Alto Douro Vinhateiro» como património mundial, com vista a preservar o seu valor universal excecional, bem como a salvaguardar os valores paisagísticos, ambientais e culturais em presença, em articulação com os municípios e com as demais entidades públicas territorialmente competentes;\n\nb) Participar no estudo e no desenvolvimento de políticas públicas para o Alto Douro Vinhateiro consonantes com as exigências da Convenção para a Proteção do Património Mundial, Cultural e Natural, adotada pela Conferência Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) e aprovada, para adesão, pelo Decreto n.º 49/79, de 6 de junho;\n\nc) Promover a articulação e coordenação entre as entidades das administrações central e local com competências na Região do Douro, estimular a participação e a iniciativa da sociedade civil e dinamizar ações para o seu desenvolvimento integrado.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2025 - Diário da República n.º 214/2025, Série I de 2025-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2025-944410938), em vigor a partir de 2025-11-06\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "993773662": {
+   "fragment_id": "213622397",
+   "type": 11,
+   "heading": "Artigo 6.º — Contrato-programa",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 6.º — Contrato-programa\n\n1 - A articulação entre as medidas de política pública nacional e a sua operacionalização e concretização a nível regional é assegurada por via de contrato-programa, que define as estratégias e os programas com incidência no desenvolvimento regional, a aprovar pelo Conselho de Concertação Territorial, instituído pelo Decreto-Lei n.º 35/2023.\n\n2 - O contrato-programa é elaborado pelos membros do Governo responsáveis pelas áreas da coesão territorial, educação, saúde, ambiente, cultura e agricultura e pescas, em articulação com as demais áreas governativas cujas políticas públicas são indispensáveis à definição da política de desenvolvimento regional.\n\n3 - O contrato-programa estabelece os objetivos, metas e prioridades a alcançar nas estratégias e nos programas com incidência no desenvolvimento regional, bem como, se for o caso, os recursos humanos e financeiros afetos ao cumprimento dos mesmos.\n\n4 - Após a sua aprovação, nos termos do disposto no n.º 1, o contrato-programa é assinado pelo Primeiro-Ministro e pelo presidente do conselho diretivo da CCDR, I. P., respetiva.\n\n5 - O contrato-programa vigora até ao final do ciclo de fundos europeus a que respeita, sujeito a revisão anual ou sempre que alterações significativas da política pública nacional o justifiquem, designadamente na sequência da tomada de posse de um novo Governo.\n\n6 - A execução do contrato-programa é monitorizada pelo conselho de coordenação intersectorial da CCDR, I. P., respetiva.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "993773663": {
+   "fragment_id": "213622402",
+   "type": 11,
+   "heading": "Artigo 8.º — Natureza e composição do conselho diretivo",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2023 - Diário da República n.º 233/2023, Série I de 2023-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), em vigor a partir de 2023-12-05"
+   ],
+   "markdown": "###### Artigo 8.º — Natureza e composição do conselho diretivo\n\n1 - O conselho diretivo é o órgão executivo das CCDR, I. P.\n\n2 - O conselho diretivo é composto por um presidente e sete vice-presidentes.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2023 - Diário da República n.º 233/2023, Série I de 2023-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2023-225125603), em vigor a partir de 2023-12-05"
+  },
+  "993773664": {
+   "fragment_id": "213622408",
+   "type": 11,
+   "heading": "Artigo 13.º — Designação dos membros do conselho diretivo",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 13.º — Designação dos membros do conselho diretivo\n\n1 - O presidente e os vice-presidentes são designados por resolução do Conselho de Ministros, na sequência dos procedimentos previstos nos números seguintes.\n\n2 - O presidente é indicado na sequência do processo eleitoral a que se refere o artigo seguinte.\n\n3 - Um vice-presidente é eleito pelos presidentes das câmaras municipais que integram a área geográfica abrangida pela respetiva CCDR, I. P., nos termos do artigo 15.º, com as devidas adaptações.\n\n4 - Um vice-presidente é eleito pelos membros do conselho regional, que não integrem o referido conselho em representação de autarquias locais ou associações de autarquias locais.\n\n5 - Além do presidente e dos vice-presidentes eleitos nos termos dos números anteriores, o conselho diretivo integra ainda cinco vice-presidentes designados, ouvido o presidente do conselho diretivo da CCDR, I. P., sob proposta dos membros do Governo responsáveis pelas áreas da educação, saúde, ambiente, cultura e agricultura e pescas, e de cuja superintendência e tutela dependem.\n\n6 - Os vice-presidentes designados nos termos do número anterior articulam a sua ação com os demais membros do conselho diretivo, sob coordenação do presidente do concelho diretivo da CCDR, I. P.\n\n7 - Além de coordenarem os departamentos da CCDR, I. P., da respetiva área setorial, os vice-presidentes exercem as competências que lhes sejam delegadas ou subdelegadas pelo presidente ou pelo conselho diretivo da CCDR, I. P.\n\n8 - Os serviços centrais dos ministérios a que respeitam as várias áreas setoriais articulam a sua ação funcional e transmitem as respetivas orientações aos serviços operativos correspondentes das CCDR, I. P., através do respetivo vice-presidente.\n\n9 - O presidente identifica qual o vice-presidente que o substitui nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  },
+  "993773665": {
+   "fragment_id": "213622413",
+   "type": 11,
+   "heading": "Artigo 18.º — Mandatos",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 18.º — Mandatos\n\n1 - A duração dos mandatos do presidente e dos vice-presidentes é de quatro anos, estando sujeitos ao limite de três mandatos consecutivos, seja na mesma ou em diferente CCDR, I. P.\n\n2 - Os mandatos do presidente e dos vice-presidentes cessam:\n\na) Pelo seu termo;\n\nb) Por renúncia ou pedido de demissão do respetivo titular, consoante, respetivamente, sejam eleitos ou cooptados, mediante comunicação escrita dirigida ao membro do Governo responsável pela área da coesão territorial, com a antecedência mínima de três meses;\n\nc) Pela tomada de posse ou pelo exercício, a qualquer título, de outro cargo ou função incompatível com o estatuto de membro do conselho diretivo;\n\nd) Por extinção da CCDR, I. P.;\n\ne) Por deliberação do Governo, devidamente fundamentada, após audiência prévia do respetivo titular e ouvido o conselho regional da respetiva área geográfica, mediante resolução do Conselho de Ministros, nos casos previstos no número seguinte;\n\nf) Por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela coesão territorial ou, no caso do vice-presidentes a que se refere o n.º 5 do artigo 13.º, ouvido o presidente do conselho diretivo da CCDR, I. P., sob proposta dos membros do Governo de cuja superintendência e tutela dependem;\n\ng) Por caducidade, nos termos do n.º 5 do artigo 12.º\n\n3 - Determinam a cessação do mandato do presidente e dos vice-presidentes nos termos da alínea e) do número anterior a verificação das seguintes circunstâncias:\n\na) O incumprimento das orientações estratégicas estabelecidas no contrato-programa e dos objetivos fixados para as CCDR, I. P.;\n\nb) A violação grave ou reiterada de resultados definidos pelo Governo, desde que suportados pelas orientações estratégicas definidas no contrato-programa;\n\nc) A prática de infrações graves ou reiteradas às normas que regem as CCDR, I. P.;\n\nd) A grave violação dos princípios de gestão fixados nos diplomas legais e regulamentares aplicáveis;\n\ne) A prática de comportamentos pessoais ou funcionais ofensivos da honra e da dignidade inerentes ao cargo.\n\n4 - Em caso de vacatura do cargo de presidente, a designação em substituição é feita, de entre os vice-presidentes, pelo membro do Governo responsável pela tutela e superintendência das CCDR, I. P., de modo a garantir a continuidade da ação da respetiva CCDR, I. P., até à convocação da nova eleição e designação de novo titular.\n\n5 - Em caso de vacatura do cargo de vice-presidente previsto no n.º 3 do artigo 13.º, a designação do novo titular é feita nos termos previstos na referida norma, nos três meses seguintes à data da verificação da vacatura.\n\n6 - Nos casos previstos nos números anteriores, o novo titular desempenha funções apenas até ao termo do mandato do titular anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2024 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2024-899204480), em vigor a partir de 2024-12-11"
+  }
+ }
+}

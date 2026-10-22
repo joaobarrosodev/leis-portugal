@@ -1,0 +1,240 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:397363:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-108134531",
+ "dre_path": "/dr/detalhe/decreto-lei/14-2009-397363",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-01-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108134628",
+    "108134629",
+    "108134630",
+    "108134631",
+    "108134632",
+    "108134633",
+    "108134634",
+    "108134635"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146221:por",
+     "title": "Decreto-Lei n.º 114/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2011-146221"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "108134628",
+    "117133003",
+    "117133004",
+    "117133005",
+    "117133006",
+    "117133007",
+    "108134634",
+    "108134635",
+    "108134636"
+   ]
+  },
+  {
+   "date": "2018-12-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117128624:por",
+     "title": "Decreto-Lei n.º 98/2018",
+     "published": "2018-11-27",
+     "dre_path": "/dr/detalhe/decreto-lei/98-2018-117128624"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "108134628",
+    "117133003",
+    "117133004",
+    "117133008",
+    "117133009",
+    "117133010",
+    "108134634",
+    "108134635",
+    "108134636"
+   ]
+  }
+ ],
+ "fragments": {
+  "108134628": {
+   "fragment_id": "108134532",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 14/2009\n\nde 14 de Janeiro\n\nO presente decreto-lei estabelece actos praticados pelos governadores civis e pelos governos civis pelos quais são cobradas taxas e o respectivo regime, os quais acarretam custos elevados com a deslocação de trabalhadores e a remuneração por trabalho extraordinário ou em dia de descanso.\n\nDesta forma, passam a ser devidas taxas pela autorização para a exploração de modalidades afins de jogos de fortuna ou azar e outras formas de jogo quando organizada por entidades com fins lucrativos, pela ajuramentação, pela presença em actos da actividade de prestamista e pela passagem de certidões e fotocópias de documentos constantes em processos, termos e rubricas em livros.\n\nO regime que agora se institui coaduna-se com a natureza do órgão governador civil, que representa o Governo na área de cada distrito. Os actos pelos quais são cobradas as taxas previstas no presente decreto-lei e as correspectivas taxas inscrevem-se no âmbito dessa competência genérica, prevista na Constituição e na lei.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108134629": {
+   "fragment_id": "108134533",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece actos praticados pelos governadores civis e pelos governos civis pelos quais são cobradas taxas e o respectivo regime."
+  },
+  "108134630": {
+   "fragment_id": "108134534",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - São devidas taxas pelos seguintes actos:\n\na) Autorização para a exploração de modalidades afins de jogos de fortuna ou azar e outras formas de jogo, prevista no n.º 1 do artigo 160.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, com a redacção dada pelo Decreto-Lei n.º 10/95, de 19 de Janeiro, quando organizada por entidades com fins lucrativos;\n\nb) Ajuramentação prevista no n.º 3 do artigo 54.º do Decreto-Lei n.º 39 870, de 21 de Agosto de 1954, com a redacção dada pelo Decreto Regulamentar n.º 6/82, de 19 de Fevereiro, no n.º 2 do artigo 3.º da Lei n.º 25/2006, de 30 de Junho, no n.º 2 do artigo 5.º da Lei n.º 28/2006, de 4 de Julho, e no artigo 9.º do Decreto-Lei n.º 9/2009, de 9 de Janeiro;\n\nc) Presença em actos da actividade de prestamista, no âmbito do disposto nos artigos 22.º e 23.º do Decreto-Lei n.º 365/99, de 17 de Setembro;\n\nd) Passagem de certidões e fotocópias de documentos constantes em processos, termos e rubricas em livros.\n\n2 - Nos casos previstos nas alíneas a) a c) do número anterior, acrescem:\n\na) Despesas de deslocação, quando necessária, do funcionário ao local da diligência e de regresso ao governo civil calculadas ao valor do subsídio de transporte em automóvel próprio em vigor na Administração Pública e de ajudas de custo, quando devidas;\n\nb) Custos com remuneração por trabalho extraordinário ou em dia de descanso que sejam devidos, se a deslocação se realizar fora do horário de trabalho ou se estender para além do mesmo."
+  },
+  "108134631": {
+   "fragment_id": "108134535",
+   "type": 11,
+   "heading": "Artigo 3.º — Isenção de taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Isenção de taxas\n\nO governador civil pode conceder a isenção das taxas referidas no artigo anterior quando o requerente do acto for entidade sem fins lucrativos ou de utilidade pública."
+  },
+  "108134632": {
+   "fragment_id": "108134536",
+   "type": 11,
+   "heading": "Artigo 4.º — Valor das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Valor das taxas\n\n1 - Os valores das taxas previstas nas alíneas a), c) e d) do n.º 1 do artigo 2.º são fixados por portaria do membro do Governo responsável pela área da administração interna, a qual deve especificar, numa óptica de simplificação administrativa, as categorias de certidões e de documentos cuja emissão ou cópia estão sujeitas a pagamento de taxa.\n\n2 - O valor da taxa prevista na alínea b) do n.º 1 do artigo 2.º é fixado por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna, das obras públicas e dos transportes."
+  },
+  "108134633": {
+   "fragment_id": "108134537",
+   "type": 11,
+   "heading": "Artigo 5.º — Produto das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produto das taxas\n\nO produto das taxas a cobrar nos termos do presente decreto-lei constitui receita dos governos civis."
+  },
+  "108134634": {
+   "fragment_id": "108134538",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração à Lei n.º 28/2006, de 4 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração à Lei n.º 28/2006, de 4 de Julho\n\nO artigo 5.º da Lei n.º 28/2006, de 4 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\n2 - Os agentes de fiscalização referidos no número anterior são devidamente ajuramentados e credenciados pelo governador civil do distrito da sede da empresa, devendo este manter um registo permanente e actualizado de tais agentes de fiscalização.»"
+  },
+  "108134635": {
+   "fragment_id": "108134539",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.\n\n2 - O disposto no presente decreto-lei só é aplicável aos procedimentos iniciados após a data da sua entrada em vigor."
+  },
+  "117133003": {
+   "fragment_id": "108134533",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime e a cobrança de taxas pela prática de actos administrativos relativos a autorizações para a exploração de modalidades afins de jogos de fortuna ou azar e outras formas de jogo, ajuramentações e presença em actos da actividade de prestamista.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "117133004": {
+   "fragment_id": "108134534",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - São devidas taxas pelos seguintes actos:\n\na) Autorização para a exploração de modalidades afins de jogos de fortuna ou azar e outras formas de jogo, prevista no n.º 1 do artigo 160.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, com a redacção dada pelo Decreto-Lei n.º 10/95, de 19 de Janeiro, quando organizada por entidades com fins lucrativos;\n\nb) Ajuramentação prevista no n.º 3 do artigo 54.º do Decreto-Lei n.º 39 870, de 21 de Agosto de 1954, com a redacção dada pelo Decreto Regulamentar n.º 6/82, de 19 de Fevereiro, no n.º 2 do artigo 3.º da Lei n.º 25/2006, de 30 de Junho, no n.º 2 do artigo 5.º da Lei n.º 28/2006, de 4 de Julho, e no artigo 9.º do Decreto-Lei n.º 9/2009, de 9 de Janeiro;\n\nc) Presença em actos da actividade de prestamista, no âmbito do disposto nos artigos 22.º e 23.º do Decreto-Lei n.º 365/99, de 17 de Setembro;\n\nd) (Revogada).\n\n2 - Nos casos previstos nas alíneas a) a c) do número anterior, acrescem:\n\na) Despesas de deslocação, quando necessária, do funcionário ao local da diligência e de regresso ao local de trabalho, calculadas ao valor do subsídio de transporte em automóvel próprio em vigor na Administração Pública e de ajudas de custo, quando devidas;\n\nb) Custos com remuneração por trabalho extraordinário ou em dia de descanso que sejam devidos, se a deslocação se realizar fora do horário de trabalho ou se estender para além do mesmo.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "117133005": {
+   "fragment_id": "108134535",
+   "type": 11,
+   "heading": "Artigo 3.º — Isenção de taxas",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 3.º — Isenção de taxas\n\nA entidade responsável pela cobrança pode conceder a isenção das taxas referidas no artigo anterior quando o requerente do acto for entidade sem fins lucrativos ou de utilidade pública.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "117133006": {
+   "fragment_id": "108134536",
+   "type": 11,
+   "heading": "Artigo 4.º — Valor das taxas",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Valor das taxas\n\nOs valores das taxas previstas no artigo 2.º são fixados por portaria do membro do Governo responsável pela área em que se encontre organicamente inserida a entidade competente para o acto respectivo.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "117133007": {
+   "fragment_id": "108134537",
+   "type": 11,
+   "heading": "Artigo 5.º — Produto das taxas",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 5.º — Produto das taxas\n\nO produto das taxas a cobrar nos termos do presente decreto-lei constitui receita da entidade competente para o acto respectivo.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "108134636": {
+   "fragment_id": "108134540",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - Rui Carlos Pereira - Luís Medeiros Vieira - Mário Lino Soares Correia.\n\nPromulgado em 5 de Dezembro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 10 de Dezembro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "117133008": {
+   "fragment_id": "108134535",
+   "type": 11,
+   "heading": "Artigo 3.º — Isenção de taxas",
+   "in_force_from": "2018-12-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2018-117128624), em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 3.º — Isenção de taxas\n\n1- A entidade responsável pela cobrança pode conceder a isenção das taxas referidas no artigo anterior quando o requerente do acto for entidade sem fins lucrativos ou de utilidade pública.\n\n2 - O regulamento que fixe as taxas municipais pela autorização referida na alínea a) do n.º 1 do artigo anterior pode conceder isenção ao requerente se este for entidade sem fins lucrativos ou de utilidade pública.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2018-117128624), em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "117133009": {
+   "fragment_id": "108134536",
+   "type": 11,
+   "heading": "Artigo 4.º — Valor das taxas",
+   "in_force_from": "2018-12-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2018-117128624), em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Valor das taxas\n\n1- Os valores das taxas previstas no artigo 2.º são fixados por portaria do membro do Governo responsável pela área em que se encontre organicamente inserida a entidade competente para o acto respectivo.\n\n2 - O valor da taxa prevista na alínea a) do n.º 1 do artigo 2.º, é fixado pelo órgão deliberativo do respetivo município.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2018-117128624), em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "117133010": {
+   "fragment_id": "108134537",
+   "type": 11,
+   "heading": "Artigo 5.º — Produto das taxas",
+   "in_force_from": "2018-12-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2018-117128624), em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 5.º — Produto das taxas\n\nO produto das taxas referidas no artigo anterior constitui receita do município.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2018-117128624), em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  }
+ }
+}

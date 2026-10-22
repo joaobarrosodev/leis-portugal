@@ -1,0 +1,889 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:307405:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1975-886301246",
+ "dre_path": "/dr/detalhe/decreto-lei/503-1975-307405",
+ "source_lastmod": "2024-08-29",
+ "versions": [
+  {
+   "date": "1975-09-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886307677",
+    "886307678",
+    "886307679",
+    "886307680",
+    "886307681",
+    "886307682",
+    "886307683",
+    "886307684",
+    "886307685",
+    "886307686",
+    "886307687",
+    "886307688",
+    "886307689",
+    "886307690",
+    "886307691",
+    "886307692",
+    "886307693",
+    "886307694",
+    "886307695",
+    "886307696",
+    "886307697",
+    "886307698",
+    "886307699",
+    "886307700",
+    "886307701",
+    "886307702",
+    "886307703",
+    "886307704",
+    "886307705",
+    "886307706",
+    "886307707",
+    "886307708",
+    "886307709",
+    "886307710",
+    "886307711",
+    "886307712",
+    "886307713",
+    "886307714",
+    "886307715",
+    "886307716",
+    "886307717",
+    "886307718",
+    "886307719",
+    "886307720",
+    "886307721",
+    "886307722",
+    "886307723",
+    "886307724",
+    "886307725",
+    "886307726"
+   ]
+  },
+  {
+   "date": "1995-07-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:475078:por",
+     "title": "Decreto-Lei n.º 154/95",
+     "published": "1995-07-01",
+     "dre_path": "/dr/detalhe/decreto-lei/154-1995-475078"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "886307677",
+    "886307678",
+    "886307679",
+    "886307680",
+    "886307681",
+    "886307682",
+    "886307683",
+    "886307684",
+    "886307685",
+    "886307686",
+    "886307687",
+    "886307688",
+    "886307689",
+    "886307690",
+    "886307691",
+    "886307692",
+    "886307693",
+    "886307694",
+    "886307695",
+    "886307743",
+    "886307697",
+    "886307698",
+    "886307744",
+    "886307700",
+    "886307701",
+    "886307702",
+    "886307703",
+    "886307704",
+    "886307705",
+    "886307745",
+    "886307707",
+    "886307708",
+    "886307709",
+    "886307710",
+    "886307711",
+    "886307712",
+    "886307770",
+    "886307714",
+    "886307750",
+    "886307746",
+    "886307747",
+    "886307748",
+    "886307749",
+    "886307720",
+    "886307721",
+    "886307722",
+    "886307723",
+    "886307724",
+    "886307725",
+    "886307726",
+    "886307727",
+    "886307752"
+   ]
+  },
+  {
+   "date": "2009-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:601774:por",
+     "title": "Lei n.º 5/2009",
+     "published": "2009-01-29",
+     "dre_path": "/dr/detalhe/lei/5-2009-601774"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "886307677",
+    "886307678",
+    "886307679",
+    "886307680",
+    "886307681",
+    "886307682",
+    "886307683",
+    "886307684",
+    "886307685",
+    "886307686",
+    "886307687",
+    "886307688",
+    "886307689",
+    "886307690",
+    "886307691",
+    "886307692",
+    "886307693",
+    "886307694",
+    "886307695",
+    "886307743",
+    "886307697",
+    "886307698",
+    "886307744",
+    "886307700",
+    "886307701",
+    "886307702",
+    "886307703",
+    "886307704",
+    "886307705",
+    "886307745",
+    "886307707",
+    "886307708",
+    "886307709",
+    "886307710",
+    "886307711",
+    "886307712",
+    "886312291",
+    "886307714",
+    "886307750",
+    "886307746",
+    "886307747",
+    "886307748",
+    "886307749",
+    "886307720",
+    "886307721",
+    "886307722",
+    "886307723",
+    "886307724",
+    "886307725",
+    "886307726",
+    "886307727",
+    "886307752"
+   ]
+  },
+  {
+   "date": "2017-05-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107061864:por",
+     "title": "Decreto-Lei n.º 50/2017",
+     "published": "2017-05-24",
+     "dre_path": "/dr/detalhe/decreto-lei/50-2017-107061864"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "886307677",
+    "886307678",
+    "886307679",
+    "886307680",
+    "886307681",
+    "886307682",
+    "886307683",
+    "886307684",
+    "886307685",
+    "886307686",
+    "886307687",
+    "886307688",
+    "886307689",
+    "886307690",
+    "886307691",
+    "886307692",
+    "886307693",
+    "886307694",
+    "886307695",
+    "886307743",
+    "886307697",
+    "886307698",
+    "886307744",
+    "886307700",
+    "886307701",
+    "886307702",
+    "886307703",
+    "886307704",
+    "886307705",
+    "886307745",
+    "886307707",
+    "886307708",
+    "886307709",
+    "886307710",
+    "886307711",
+    "886307712",
+    "886312297",
+    "886307714",
+    "886307750",
+    "886307746",
+    "886307747",
+    "886307748",
+    "886307749",
+    "886307720",
+    "886307721",
+    "886307722",
+    "886307723",
+    "886307724",
+    "886307725",
+    "886307726",
+    "886307727",
+    "886307752"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901400366:por",
+     "title": "Decreto-Lei n.º 115/2024",
+     "published": "2024-12-27",
+     "dre_path": "/dr/detalhe/decreto-lei/115-2024-901400366"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "886307677",
+    "886307678",
+    "886307679",
+    "886307680",
+    "886307681",
+    "886307682",
+    "886307683",
+    "886307684",
+    "886307685",
+    "886307686",
+    "886307687",
+    "886307688",
+    "886307689",
+    "886307690",
+    "886307691",
+    "886307692",
+    "886307693",
+    "886307694",
+    "886307695",
+    "886307743",
+    "886307697",
+    "886307698",
+    "886307744",
+    "886307700",
+    "886307701",
+    "886307702",
+    "886307703",
+    "886307704",
+    "886307705",
+    "886307745",
+    "886307707",
+    "886307708",
+    "886307709",
+    "886307710",
+    "886307711",
+    "886307712",
+    "901452020",
+    "886307714",
+    "886307750",
+    "886307746",
+    "886307747",
+    "886307748",
+    "886307749",
+    "886307720",
+    "886307721",
+    "886307722",
+    "886307723",
+    "886307724",
+    "886307725",
+    "886307726",
+    "886307727",
+    "886307752"
+   ]
+  }
+ ],
+ "fragments": {
+  "886307677": {
+   "fragment_id": "886301247",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 503/75\n\nde 13 de Setembro\n\n1. A evolução técnica dos sistemas de navegação aérea e a modificação dos conceitos técnicos da condução de voos impuseram aos diferentes governos uma pesada responsabilidade na criação de serviços de apoio e de contrôle do tráfego aéreo.\n\nPara poderem assumir eficazmente essa responsabilidade e, ao mesmo tempo, responder às exigências dos utilizadores, foram criados acordos internacionais em que se definem, além das normas de execução, a sua participação nos postos de montagem e operação de tais serviços.\n\nPortugal, ao aderir a esses acordos, assumiu um compromisso internacional na prestação de um adequado serviço de apoio e de contrôle do tráfego aéreo.\n\nPara satisfazer tal compromisso revela-se prioritária a criação da profissão de controlador do tráfego aéreo nos moldes prescritos pela Organização da Aviação Civil Internacional, de que Portugal é membro contratante.\n\n2. A função de controlador do tráfego aéreo vem sendo desempenhada pela categoria de oficial de circulação aérea, criada pelo Decreto-Lei n.º 36619, de 24 de Novembro de 1947.\n\nOs quadros então formados, num contexto aeronáutico totalmente diferente, dificilmente acompanharam o desenvolvimento e expansão verificados no transporte aéreo, tanto nacional como internacional.\n\nHá que salientar a falta de pessoal especializado, originado na pouca atracção que oferece a carreira actualmente existente, face à preparação e responsabilidade que as modernas técnicas aeronáuticas, mais do que nunca, hoje o exigem.\n\nPor outro lado, há que criar condições de mobilidade indispensáveis à pronta e eficaz execução das complexas tarefas de contrôle do tráfego aéreo, que a carreira de oficial de circulação aérea, com a inadequada divisão em classes, está longe de poder corresponder, mesmo de maneira satisfatória.\n\nFinalmente, impõe-se solucionar a situação dos inúmeros elementos que, por força das circunstâncias, vêm desempenhando funções não integradas nos quadros permanentes, situação que só aparentemente beneficia a Administração e é indiscutivelmente contrária aos interesses dos trabalhadores.\n\n3. Face à situação exposta, facilmente se alcançará a oportunidade e urgência da publicação do presente diploma, visando a reorganização do pessoal técnico dos serviços de contrôle do tráfego aéreo, aproximando-o das modernas estruturas aeronáuticas internacionais, sem perder de vista, contudo, as realidades nacionais.\n\nNa fixação de categorias teve-se especialmente em atenção exigências de ordem técnica, fazendo-lhes corresponder funções de harmonia com o grau de preparação e experiência obtidas.\n\nA apreciável melhoria que, de uma maneira geral, beneficia todo o pessoal, justifica-se, por um lado, pelo grau de formação que lhe é exigido, e, por outro lado, pela indiscutível responsabilidade das funções que lhe são cometidas, de difícil ou até impossível comparação com outras dentro da função pública.\n\nÉ oportuno salientar-se que os controladores do tráfego aéreo, além de deverem permanecer durante dois anos, no mínimo, na categoria de controlador do tráfego aéreo auxiliar para o qual se exige o curso complementar dos liceus ou habilitações equivalentes e um curso de especialização adequado, exercem as funções operacionais, sendo, por conseguinte, os principais responsáveis pela segurança de todos aqueles que se fazem transportar por via aérea, dentro dos circuitos sob o seu contrôle.\n\nSalientar-se-á, também, o facto de as especiais condições em que são exercidas as funções de contrôle justificarem a fixação do horário semanal de trinta e cinco horas, tanto mais que, conforme recomendação da IFATCA - Associação Internacional dos Controladores do Tráfego Aéreo -, a duração do trabalho, nestes casos, não deveria exceder trinta e duas horas semanais.\n\nFinalmente, referir-se-á que o mesmo condicionalismo e o desgaste psicofisiológico dele decorrente justificam, também, desde já, a fixação de um regime especial de aposentação, visando a protecção da integridade humana do pessoal e proporcionando o necessário descongelamento dos quadros, indispensável para um eficaz funcionamento dos serviços, muito especialmente no que diz respeito à segurança aérea.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "886307678": {
+   "fragment_id": "886301248",
+   "type": 1,
+   "heading": "Capítulo I — Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Generalidades"
+  },
+  "886307679": {
+   "fragment_id": "886301249",
+   "type": 11,
+   "heading": "Artigo 1.º — (Criação dos controladores do tráfego aéreo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Criação dos controladores do tráfego aéreo)\n\n1. No quadro técnico da Direcção-Geral da Aeronáutica Civil é criado o grupo dos controladores de tráfego aéreo, que abrange as categorias seguintes:\n\na) Controlador do tráfego aéreo sénior;\n\nb) Controlador do tráfego aéreo;\n\nc) Controlador do tráfego aéreo auxiliar.\n\n2. A categoria de controlador do tráfego aéreo desdobra-se, de acordo com as qualificações obtidas, em:\n\na) Controlador do tráfego aéreo de aeródromo;\n\nb) Controlador do tráfego aéreo de aproximação ou regional;\n\nc) Controlador do tráfego aéreo de radar."
+  },
+  "886307680": {
+   "fragment_id": "886301250",
+   "type": 11,
+   "heading": "Artigo 2.º — (Dotação e vencimentos dos controladores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Dotação e vencimentos dos controladores)\n\n1. O pessoal a que se refere o artigo antecedente e os respectivos vencimentos são os constantes no mapa I anexo a este diploma, que fica a constituir parte integrante do mesmo.\n\n2. Os vencimentos a que se refere este artigo são acumuláveis com quaisquer outras remunerações que sejam devidas ao mesmo pessoal nos termos da legislação em vigor."
+  },
+  "886307681": {
+   "fragment_id": "886301251",
+   "type": 11,
+   "heading": "Artigo 3.º — (Distribuição dos controladores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Distribuição dos controladores)\n\nA distribuição do mesmo pessoal será feita logo após a publicação da lista a que se refere o artigo 31.º deste diploma, constando de mapas oportunamente a publicar por portaria do Ministro dos Transportes e Comunicações."
+  },
+  "886307682": {
+   "fragment_id": "886301252",
+   "type": 11,
+   "heading": "Artigo 4.º — (Revisão dos mapas da dotação e distribuição dos controladores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Revisão dos mapas da dotação e distribuição dos controladores)\n\n1. Os mapas da dotação e distribuição dos controladores, a que se referem os artigos antecedentes, poderão ser revistos sempre que as necessidades dos serviços de contrôle do tráfego aéreo ou as exigências da evolução da técnica aeronáutica assim o impuserem.\n\n2. A revisão dos mapas de dotação será feita por portaria conjunta dos Ministros dos Transportes e Comunicações, Administração Interna e Finanças; a revisão dos mapas de distribuição será feita por portaria do Ministro dos Transportes e Comunicações."
+  },
+  "886307683": {
+   "fragment_id": "886301253",
+   "type": 11,
+   "heading": "Artigo 5.º — (Regime jurídico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Regime jurídico)\n\n1. Sem prejuízo do disposto neste diploma e noutras normas específicas, o pessoal dos serviços do tráfego aéreo fica sujeito ao regime estabelecido para a função pública.\n\n2. Subsidiariamente, ser-lhe-á aplicável a regulamentação ICAO apropriada, desde que ratificada pelo Governo Português."
+  },
+  "886307684": {
+   "fragment_id": "886301254",
+   "type": 1,
+   "heading": "Capítulo II — Admissão e acesso dos controladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Admissão e acesso dos controladores"
+  },
+  "886307685": {
+   "fragment_id": "886301255",
+   "type": 8,
+   "heading": "Secção I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições comuns"
+  },
+  "886307686": {
+   "fragment_id": "886301256",
+   "type": 11,
+   "heading": "Artigo 6.º — (Recrutamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Recrutamento)\n\nO recrutamento do pessoal técnico referido no artigo 1.º deste diploma será feito nos termos que vierem a ser estabelecidos por portaria conjunta dos Ministros dos Transportes e Comunicações e da Administração Interna, ouvido o director-geral da Aeronáutica Civil, observando-se o disposto nos artigos seguintes."
+  },
+  "886307687": {
+   "fragment_id": "886301257",
+   "type": 11,
+   "heading": "Artigo 7.º — (Provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Provimento)\n\nO provimento do mesmo pessoal será feito por nomeação ou contrato."
+  },
+  "886307688": {
+   "fragment_id": "886301258",
+   "type": 8,
+   "heading": "Secção II — Admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Admissão"
+  },
+  "886307689": {
+   "fragment_id": "886301259",
+   "type": 11,
+   "heading": "Artigo 8.º — (Categoria de admissão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Categoria de admissão)\n\nA admissão proceder-se-á sempre pela categoria de controlador do tráfego aéreo auxiliar."
+  },
+  "886307690": {
+   "fragment_id": "886301260",
+   "type": 11,
+   "heading": "Artigo 9.º — (Condições de admissão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Condições de admissão)\n\nSem prejuízo das condições exigidas na legislação geral para o provimento em cargos públicos, os candidatos a controlador do tráfego aéreo auxiliar deverão satisfazer, cumulativamente, as condições seguintes:\n\na) Não terem idade superior a 30 anos;\n\nb) Terem, pelo menos, o curso complementar dos liceus ou equivalente;\n\nc) Serem titulares de uma licença portuguesa de controlador do tráfego aéreo nos termos do anexo I à Convenção sobre Aviação Civil Internacional."
+  },
+  "886307691": {
+   "fragment_id": "886301261",
+   "type": 11,
+   "heading": "Artigo 10.º — (Preferência na admissão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Preferência na admissão)\n\nEm igualdade de circunstâncias, e tratando-se de candidatos do sexo masculino, terão preferência na admissão os que tenham cumprido o serviço militar ou dele ficado isentos."
+  },
+  "886307692": {
+   "fragment_id": "886301262",
+   "type": 8,
+   "heading": "Secção III — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Acesso"
+  },
+  "886307693": {
+   "fragment_id": "886301263",
+   "type": 11,
+   "heading": "Artigo 11.º — (Condições de acesso a controlador do tráfego aéreo de aeródromo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Condições de acesso a controlador do tráfego aéreo de aeródromo)\n\nO acesso a controlador do tráfego aéreo do aeródromo será feito entre os indivíduos que satisfaçam, cumulativamente, as condições seguintes:\n\na) Terem prestado, no mínimo, dois anos de serviço efectivo como controlador do tráfego aéreo auxiliar;\n\nb) Possuírem a qualificação de aeródromo."
+  },
+  "886307694": {
+   "fragment_id": "886301264",
+   "type": 11,
+   "heading": "Artigo 12.º — (Condições de acesso a controlador do tráfego aéreo de aproximação ou regional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Condições de acesso a controlador do tráfego aéreo de aproximação ou regional)\n\nO acesso a controlador do tráfego aéreo de aproximação ou regional será feito entre os controladores do tráfego aéreo de aeródromo que tenham obtido a qualificação de contrôle de aproximação ou regional."
+  },
+  "886307695": {
+   "fragment_id": "886301265",
+   "type": 11,
+   "heading": "Artigo 13.º — (Condições de acesso a controlador do tráfego aéreo de radar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Condições de acesso a controlador do tráfego aéreo de radar)\n\nO acesso a controlador do tráfego aéreo de radar será feito entre os controladores do tráfego aéreo de aproximação ou regionl que satisfaçam, cumulativamente, as condições seguintes:\n\na) Tenham frequentado com aproveitamento o respectivo curso de radar;\n\nb) Tenham obtido a qualificação de contrôle radar correspondente."
+  },
+  "886307696": {
+   "fragment_id": "886301266",
+   "type": 11,
+   "heading": "Artigo 14.º — (Condições de acesso a controlador do tráfego aéreo sénior)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Condições de acesso a controlador do tráfego aéreo sénior)\n\nO acesso à categoria de controlador do tráfego aéreo sénior será feito de entre os indivíduos que satisfaçam, cumulativamente, as condições seguintes:\n\na) Terem prestado, no mínimo, seis anos de serviço efectivo na categoria de controlador do tráfego aéreo;\n\nb) Terem frequentado, com aproveitamento, um curso de especialização adequado às soluções a exercer."
+  },
+  "886307697": {
+   "fragment_id": "886301267",
+   "type": 1,
+   "heading": "Capítulo III — Qualificações dos controladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Qualificações dos controladores"
+  },
+  "886307698": {
+   "fragment_id": "886301268",
+   "type": 11,
+   "heading": "Artigo 15.º — (Modalidades das qualificações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Modalidades das qualificações)\n\nAs qualificações dos controladores poderão ser das modalidades seguintes:\n\na) De contrôle aeródromo A/D.\n\nb) De contrôle de aproximação APP.\n\nc) De contrôle regional ACC.\n\nd) De contrôle aproximação radar APP/R.\n\ne) De contrôle regional radar ACC/R."
+  },
+  "886307699": {
+   "fragment_id": "886301269",
+   "type": 11,
+   "heading": "Artigo 16.º — (Concessão das qualidades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Concessão das qualidades)\n\n1. As qualificações referidas no artigo antecedente só serão concedidas aos controladores que satisfaçam as condições expressas, para cada caso, no anexo I da Convenção sobre a Aviação Civil Internacional.\n\n2. Sem prejuízo do disposto no número antecedente, as qualificações de contrôle radar só poderão ser concedidas a quem seja titular das qualificações de contrôle de aproximação ou de contrôle regional correspondente.\n\n3. É competente para a concessão das qualificações a que se refere este artigo o chefe do órgão de contrôle a que respeita a qualificação."
+  },
+  "886307700": {
+   "fragment_id": "886301270",
+   "type": 11,
+   "heading": "Artigo 17.º — (Caducidade das qualificações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Caducidade das qualificações)\n\n1. Uma qualificação caducará quando o controlador não tiver utilizado os respectivos privilégios por um período de seis meses.\n\n2. Uma qualificação manter-se-á caduca até que o controlador comprove de novo a sua aptidão para o desempenho das funções inerentes aos privilégios dessa qualificação."
+  },
+  "886307701": {
+   "fragment_id": "886301271",
+   "type": 1,
+   "heading": "Capítulo IV — Formação e aperfeiçoamento do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Formação e aperfeiçoamento do pessoal"
+  },
+  "886307702": {
+   "fragment_id": "886301272",
+   "type": 11,
+   "heading": "Artigo 18.º — (Formação do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Formação do pessoal)\n\nSerão criados os meios necessários à adequada formação do pessoal dos serviços do tráfego aéreo, em ordem ao bom desempenho das diversas funções que lhe sejam cometidas."
+  },
+  "886307703": {
+   "fragment_id": "886301273",
+   "type": 11,
+   "heading": "Artigo 19.º — (Aperfeiçoamento do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Aperfeiçoamento do pessoal)\n\nCom vista ao aperfeiçoamento do nível de trabalho do mesmo pessoal, serão implantados, nos diversos órgãos dos serviços do tráfego aéreo, sistemas internos de actualização."
+  },
+  "886307704": {
+   "fragment_id": "886301274",
+   "type": 1,
+   "heading": "Capítulo V — Atribuições dos controladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Atribuições dos controladores"
+  },
+  "886307705": {
+   "fragment_id": "886311775",
+   "type": 11,
+   "heading": "Artigo 20.º — (Atribuições do controlador do tráfego aéreo sénior)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Atribuições do controlador do tráfego aéreo sénior)\n\nAo controlador do tráfego aéreo sénior compete o desempenho de funções específicas no âmbito dos serviços do tráfego aéreo, designadamente:\n\na) Funções de superintendência: dirigir, coordenar e inspeccionar todas as actividades dos órgãos dos serviços do tráfego aéreo;\n\nb) Funções de exploração: dar pareceres e fornecer os relatórios que lhe sejam solicitados pelas entidades competentes; estudar procedimentos, revê-los e adaptá-los; analilisar queixas, incidentes ou acidentes por si ou em colaboração com outras entidades; analisar e divulgar novas técnicas de operação e desempenhar outras funções conexas que lhe sejam atribuídas por quem de direito;\n\nc) Funções de instrução: ministrar as matérias da programação de cursos do tráfego aéreo e desempenhar outras funções conexas que lhe sejam atribuídas."
+  },
+  "886307706": {
+   "fragment_id": "886311776",
+   "type": 11,
+   "heading": "Artigo 21.º — (Atribuições do controlador do tráfego aéreo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Atribuições do controlador do tráfego aéreo)\n\n1. Ao controlador do tráfego aéreo compete, em geral:\n\na) Supervisionar ou prestar o serviço de contrôle do tráfego aéreo para que esteja qualificado;\n\nb) Desempenhar outras tarefas que lhe sejam atribuídas dentro do âmbito dos serviços de contrôle do tráfego aéreo.\n\n2. Independentemente do disposto no número antecedente, compete ao mesmo funcionário, de acordo com as qualificações obtidas, as atribuições específicas seguintes:\n\na) Qualificação de contrôle de aeródromo ou aeródromos correspondentes à qualificação de que é detentor;\n\nb) Qualificação de contrôle de aproximação: executar ou supervisionar a execução de serviço de contrôle de aproximação para o aeródromo ou aeródromos correspondentes à qualificação de que é detentor, no interior do espaço aéreo colocado pela autoridade competente sob contrôle do órgão, assegurando o contrôle de aproximação;\n\nc) Qualificação de contrôle regional: executar ou supervisionar a execução do serviço de contrôle regional, na região de contrôle correspondente à qualificação de que é detentor ou no interior do sector deste espaço aéreo que corresponder à qualificação de que é detentor;\n\nd) Qualificações de contrôle de radar: executar ou supervisionar a execução do serviço de contrôle correspondente à sua qualificação.\n\n3. Para o desempenho das atribuições enumeradas nas alíneas a), b) e c) do número antecedente, o controlador do tráfego aéreo deverá tomar conhecimento de todas as informações úteis recentes."
+  },
+  "886307707": {
+   "fragment_id": "886311777",
+   "type": 11,
+   "heading": "Artigo 22.º — (Atribuições do controlador do tráfego aéreo auxiliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Atribuições do controlador do tráfego aéreo auxiliar)\n\n1. Ao controlador do tráfego aéreo auxiliar compete, em especial:\n\na) Prestar serviço de informação de voo;\n\nb) Coadjuvar os agentes que asseguram o contrôle do tráfego aéreo;\n\nc) Desempenhar outras tarefas que lhe sejam atribuídas dentro do âmbito dos serviços do tráfego aéreo.\n\n2. Sem prejuízo do disposto no número antecedente, quando titular de qualificação de aeródromo, compete-lhe também a execução do serviço de contrôle correspondente, nos termos estabelecidos neste diploma para os controladores do tráfego aéreo, embora sob a direcção e responsabilidade directa destes."
+  },
+  "886307708": {
+   "fragment_id": "886311778",
+   "type": 1,
+   "heading": "Capítulo VI — Prestação do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Prestação do serviço"
+  },
+  "886307709": {
+   "fragment_id": "886311779",
+   "type": 11,
+   "heading": "Artigo 23.º — (Duração do serviço normal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Duração do serviço normal)\n\n1. A duração da prestação semanal de serviço será a seguinte:\n\na) Pessoal em funções operacionais - trinta e cinco horas;\n\nb) Pessoal em funções de instrução - trinta e seis horas, com o máximo de vinte e duas horas de aula;\n\nc) Pessoal desempenhando outras funções - a duração que estiver em vigor para o pessoal de secretaria da função pública.\n\n2. Sem prejuízo do disposto na alínea a) do número antecedente, considera-se horário ideal para o pessoal em funções operacionais entre seis e oito horas de serviço diário, durante cinco dias consecutivos, seguidos de dois dias de folga."
+  },
+  "886307710": {
+   "fragment_id": "886311780",
+   "type": 11,
+   "heading": "Artigo 24.º — (Serviço por turnos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Serviço por turnos)\n\n1. Quando o serviço deva ser prestado em regime de turnos, o intervalo mínimo entre o fim de um turno e o início do turno seguinte não poderá ser inferior a doze horas.\n\n2. Durante a prestação de serviço em regime de turnos serão concedidos ao pessoal períodos de descanso nas circunstâncias e com a duração aproximada seguinte:\n\na) Vinte minutos por cada três horas em posição de contrôle convencional;\n\nb) Vinte minutos por cada duas horas em posição de contrôle radar;\n\nc) Uma hora para refeição nos turnos de duração superior a sete horas;\n\nd) Duas horas por período de serviço prestado entre as 0 horas e as 8 horas."
+  },
+  "886307711": {
+   "fragment_id": "886311781",
+   "type": 11,
+   "heading": "Artigo 25.º — (Serviço extraordinário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Serviço extraordinário)\n\n1. Quando as necessidades de serviço imperiosamente o exigirem, poderá haver lugar à prestação de serviço extraordinário.\n\n2. A soma do número de horas de serviço extraordinário com as horas de serviço normal que imediatamente seguem ou antecedem aquele não poderá exceder doze horas seguidas."
+  },
+  "886307712": {
+   "fragment_id": "886311782",
+   "type": 11,
+   "heading": "Artigo 26.º — (Escala de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Escala de serviço)\n\n1. A escala de serviço será mensal.\n\n2. A mesma escala será fixada, para conhecimento do pessoal dos serviços do tráfego aéreo, até ao dia 20 do mês anterior a que se refira."
+  },
+  "886307713": {
+   "fragment_id": "886311783",
+   "type": 11,
+   "heading": "Artigo 27.º — (Limite de idade para o exercício de funções operacionais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Limite de idade para o exercício de funções operacionais)\n\nO limite de idade para o exercício de funções operacionais é fixado em 52 anos."
+  },
+  "886307714": {
+   "fragment_id": "886311784",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "886307715": {
+   "fragment_id": "886311785",
+   "type": 11,
+   "heading": "Artigo 28.º — (Concessão das licenças do actual pessoal dos serviços do tráfego aéreo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Concessão das licenças do actual pessoal dos serviços do tráfego aéreo)\n\n1. Desde que satisfaçam às condições para o efeito exigidas pelo anexo I à Convenção sobre Aviação Civil Internacional, serão concedidas licenças de controlador do tráfego aéreo ao pessoal seguinte:\n\na) Aos actuais servidores da Direcção-Geral da Aeronáutica Civil que nesta prestam serviço, a qualquer título, nas categorias a seguir enumeradas:\n\nInspectores de contrôle;\n\nOficiais de circulação aérea principal;\n\nOficiais de circulação aérea de 1.ª, 2.ª e 3.ª classes;\n\nAssistentes do controlador do tráfego aéreo;\n\nb) Aos actuais servidores dependentes do Ministério da Coordenação Interterritorial a seguir indicados:\n\nChefe de centro de contrôle regional;\n\nControlador de tráfego aéreo de 1.ª e 2.ª classes.\n\n2. A concessão das licenças ao pessoal a que se refere a alínea do número anterior deverá ter lugar no prazo máximo de sessenta dias a contar da data da publicação deste decreto-lei."
+  },
+  "886307716": {
+   "fragment_id": "886311786",
+   "type": 11,
+   "heading": "Artigo 29.º — (Integração do actual pessoal nas categorias criadas por este diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Integração do actual pessoal nas categorias criadas por este diploma)\n\n1. O actual pessoal dos serviços do tráfego aéreo referido na alínea a) do n.º 1 do artigo 28.º deste diploma, ao qual sejam concedidas licenças de controlador do tráfego aéreo, será integrado nas novas categorias criadas por este decreto-lei, pela forma seguinte:\n\na) Os actuais inspectores de contrôle e oficiais de circulação aérea principal serão integrados na categoria de controlador do tráfego aéreo sénior;\n\nb) Os actuais oficiais de circulação aérea de 1.ª e 2.ª classes, bem como os actuais oficiais de circulação aérea de 3.ª classe e os assistentes de controlador já dados como aptos para o desempenho de funções de controlador do tráfego aéreo, serão integrados na categoria de controlador do tráfego aéreo, de acordo com a qualificação obtida mais elevada;\n\nc) Os oficiais de circulação aérea de 3.ª classe e os assistentes de controlador que não se encontrem nas condições enumeradas na alínea antecedente serão integrados na categoria de controlador do tráfego aéreo auxiliar."
+  },
+  "886307717": {
+   "fragment_id": "886311787",
+   "type": 11,
+   "heading": "Artigo 30.º — (Situação do actual pessoal que não se insere nas categorias criadas por este diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Situação do actual pessoal que não se insere nas categorias criadas por este diploma)\n\n1. Em relação ao actual pessoal dos serviços do tráfego aéreo a seguir indicado que não se integre nas novas categorias nos termos do n.º 1 do artigo antecedente, observar-se-á o seguinte:\n\na) Os actuais inspectores de contrôle manterão a mesma categoria, com o vencimento correspondente à letra E;\n\nb) Os actuais oficiais de circulação aérea principal serão integrados na categoria de inspectores de contrôle, com o vencimento referido na alínea anterior;\n\nc) Os actuais oficiais de circulação aérea de 1.ª, 2.ª e 3.ª classes passarão a designar-se por oficiais de circulação aérea, com vencimento correspondente às letras G ou H, de acordo com a qualificação obtida mais elevada;\n\nd) Os actuais assistentes de controlador do tráfego aéreo manterão a mesma categoria, com o vencimento correspondente à letra M.\n\n2. As atribuições do pessoal referido no número antecedente são as que lhe estejam cometidas à data da publicação deste diploma.\n\n3. A distribuição do mesmo pessoal constará dos mapas a que se refere o artigo 3.º, podendo estes ser revistos nos termos do artigo 4.º, ambos deste diploma."
+  },
+  "886307718": {
+   "fragment_id": "886311788",
+   "type": 11,
+   "heading": "Artigo 31.º — (Lista de ordenamento das novas situações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Lista de ordenamento das novas situações)\n\n1. As novas situações do actual pessoal dos serviços do tráfego aéreo, decorrentes da execução do disposto no n.º 1 do artigo 29.º e artigo 30.º, ambos deste diploma, resultarão de listas a elaborar pela Direcção-Geral da Aeronáutica Civil, aprovadas pelo Ministro dos Transportes e Comunicações, donde consta o lugar em que cada funcionário ficou provido, a publicar no Diário do Governo, no máximo de sessenta dias, a partir da data da publicação deste diploma.\n\n2. Na elaboração das listas considerar-se-á em primeiro lugar a categoria actual dos interessados e, dentro de cada categoria, a antiguidade na mesma, referida a 31 de Dezembro de 1974, com dispensa de idade e habilitações literárias.\n\n3. As novas situações do pessoal e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas."
+  },
+  "886307719": {
+   "fragment_id": "886311789",
+   "type": 11,
+   "heading": "Artigo 32.º — (Extinção de categorias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Extinção de categorias)\n\n1. A partir da data da publicação da lista a que se refere o artigo antecedente deste diploma, consideram-se automaticamente extintas as categorias seguintes:\n\na) Oficiais de circulação aérea principal;\n\nb) Oficiais de circulação aérea de 1.ª, 2.ª e 3.ª classes;\n\nc) Inspectores de contrôle e assistentes de controlador do tráfego aéreo, se da execução do disposto no artigo 29.º deste diploma resultar a vacatura de todos os lugares das respectivas categorias.\n\n2. Serão extintos, à medida que vagarem, os lugares providos correspondentes às categorias seguintes:\n\na) Inspectores de contrôle e assistentes de controlador do tráfego aéreo, se não se verificar a sua extinção automática nos termos do número antecedente;\n\nb) Oficiais de circulação aérea que porventura subsistam à data da publicação da lista atrás mencionada."
+  },
+  "886307720": {
+   "fragment_id": "886311790",
+   "type": 11,
+   "heading": "Artigo 33.º — (Aplicação progressiva do limite de idade para o exercício de funções operacionais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Aplicação progressiva do limite de idade para o exercício de funções operacionais)\n\nO disposto no artigo 27.º deste diploma será aplicado progressivamente até 1980, tendo em consideração as possibilidades de recrutamento e formação de pessoal para os serviços do tráfego aéreo."
+  },
+  "886307721": {
+   "fragment_id": "886311791",
+   "type": 11,
+   "heading": "Artigo 34.º — (Tempo de serviço para a aposentação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Tempo de serviço para a aposentação)\n\n1. O tempo de serviço prestado pelo pessoal dos serviços do tráfego aéreo em funções operacionais será sempre acrescido de 25%, para efeitos de aposentação.\n\n2. Relativamente ao tempo de serviço já prestado pelo mesmo pessoal, até à data da publicação deste diploma, no exercício de idênticas funções, observar-se-á o seguinte:\n\na) O tempo de serviço prestado em funções operacionais nos órgãos de contrôle de Lisboa e Santa Maria será acrescido de 30%;\n\nb) O tempo de serviço prestado em funções operacionais nos restantes órgãos de contrôle será acrescido de 25%."
+  },
+  "886307722": {
+   "fragment_id": "886311792",
+   "type": 11,
+   "heading": "Artigo 35.º — (Contagem do tempo de serviço em casos especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Contagem do tempo de serviço em casos especiais)\n\nPara efeitos de aposentação, bem como de antiguidade no serviço do tráfego aéreo, considerar-se-á o tempo de serviço prestado pelo actual pessoal dos serviços do tráfego aéreo em funções de contrôle, independentemente da designação com que as tenha exercido."
+  },
+  "886307723": {
+   "fragment_id": "886311793",
+   "type": 11,
+   "heading": "Artigo 36.º — (Encargos decorrentes da execução deste diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Encargos decorrentes da execução deste diploma)\n\nOs encargos decorrentes da execução deste diploma serão suportados pelo Ministério das Finanças e Direcção-Geral da Aeronáutica Civil, nos termos que vierem a ser acordados."
+  },
+  "886307724": {
+   "fragment_id": "886311794",
+   "type": 11,
+   "heading": "Artigo 37.º — (Resolução de dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Resolução de dúvidas)\n\nAs dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvidos os Ministros da Administração Interna e das Finanças, quando for caso disso."
+  },
+  "886307725": {
+   "fragment_id": "886311795",
+   "type": 11,
+   "heading": "Artigo 38.º — (Legislação revogada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Legislação revogada)\n\nÉ revogada toda a legislação que disponha em contrário a este diploma, designadamente, na parte respeitante:\n\na) Decreto-Lei n.º 36619, de 24 de Novembro de 1947;\n\nb) Decreto-Lei n.º 49191, de 16 de Agosto de 1969;\n\nc) Decreto-Lei n.º 365/71, de 25 de Agosto;\n\nd) Decreto-Lei n.º 93/72, de 18 de Março."
+  },
+  "886307726": {
+   "fragment_id": "886311796",
+   "type": 11,
+   "heading": "Artigo 39.º — (Entrada em vigor deste diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Entrada em vigor deste diploma)\n\n1. Este diploma entra imediatamente em vigor.\n\n2. O disposto no artigo 31.º deste decreto-lei e direitos dele resultantes produzem efeitos a partir do dia 1 de Maio de 1975."
+  },
+  "886307743": {
+   "fragment_id": "886301266",
+   "type": 11,
+   "heading": "Artigo 14.º — (Condições de acesso a controlador do tráfego aéreo sénior)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+   ],
+   "markdown": "###### Artigo 14.º — (Condições de acesso a controlador do tráfego aéreo sénior)\n\nO acesso à categoria de controlador do tráfego aéreo sénior será feito de entre os indivíduos que satisfaçam, cumulativamente, as condições seguintes:\n\na) Terem prestado, no mínimo, seis anos de serviço efectivo na categoria de controlador do tráfego aéreo;\n\nb) Terem frequentado, com aproveitamento, um curso de especialização adequado às funções a exercer.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+  },
+  "886307744": {
+   "fragment_id": "886301269",
+   "type": 11,
+   "heading": "Artigo 16.º — (Concessão das qualificações)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+   ],
+   "markdown": "###### Artigo 16.º — (Concessão das qualificações)\n\n1. As qualificações referidas no artigo antecedente só serão concedidas aos controladores que satisfaçam as condições expressas, para cada caso, no anexo I da Convenção sobre a Aviação Civil Internacional.\n\n2. Sem prejuízo do disposto no número antecedente, as qualificações de contrôle radar só poderão ser concedidas a quem seja titular das qualificações de contrôle de aproximação ou de contrôle regional correspondente.\n\n3. É competente para a concessão das qualificações a que se refere este artigo o chefe do órgão de contrôle a que respeita a qualificação.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+  },
+  "886307745": {
+   "fragment_id": "886311776",
+   "type": 11,
+   "heading": "Artigo 21.º — (Atribuições do controlador do tráfego aéreo)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+   ],
+   "markdown": "###### Artigo 21.º — (Atribuições do controlador do tráfego aéreo)\n\n1. Ao controlador do tráfego aéreo compete, em geral:\n\na) Supervisionar ou prestar o serviço de contrôle do tráfego aéreo para que esteja qualificado;\n\nb) Desempenhar outras tarefas que lhe sejam atribuídas dentro do âmbito dos serviços de contrôle do tráfego aéreo.\n\n2. Independentemente do disposto no número antecedente, compete ao mesmo funcionário, de acordo com as qualificações obtidas, as atribuições específicas seguintes:\n\na) Qualificação de contrôle de aeródromo: executar ou supervisionar a execução do serviço de contrôle de aeródromo ou aeródromos correspondente à qualificação de que é detentor;\n\nb) Qualificação de contrôle de aproximação: executar ou supervisionar a execução de serviço de contrôle de aproximação para o aeródromo ou aeródromos correspondentes à qualificação de que é detentor, no interior do espaço aéreo colocado pela autoridade competente sob contrôle do órgão, assegurando o contrôle de aproximação;\n\nc) Qualificação de contrôle regional: executar ou supervisionar a execução do serviço de contrôle regional, na região de contrôle correspondente à qualificação de que é detentor ou no interior do sector deste espaço aéreo que corresponder à qualificação de que é detentor;\n\nd) Qualificações de contrôle de radar: executar ou supervisionar a execução do serviço de contrôle correspondente à sua qualificação.\n\n3. Para o desempenho das atribuições enumeradas nas alíneas a), b) e c) do número antecedente, o controlador do tráfego aéreo deverá tomar conhecimento de todas as informações úteis recentes.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+  },
+  "886307770": {
+   "fragment_id": "886311783",
+   "type": 11,
+   "heading": "Artigo 27.º — (Limite de idade para o exercício de funções operacionais)",
+   "in_force_from": "1995-07-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 154/95 - Diário da República n.º 150/1995, Série I-A de 1995-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1995-475078), em vigor a partir de 1995-07-06"
+   ],
+   "markdown": "###### Artigo 27.º — (Limite de idade para o exercício de funções operacionais)\n\nO limite de idade para o exercício de funções operacionais é de 55 anos.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 154/95 - Diário da República n.º 150/1995, Série I-A de 1995-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1995-475078), em vigor a partir de 1995-07-06"
+  },
+  "886307750": {
+   "fragment_id": "886311785",
+   "type": 11,
+   "heading": "Artigo 28.º — (Concessão das licenças do actual pessoal dos serviços do tráfego aéreo)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+   ],
+   "markdown": "###### Artigo 28.º — (Concessão das licenças do actual pessoal dos serviços do tráfego aéreo)\n\n1. Desde que satisfaçam às condições para o efeito exigidas pelo anexo I à Convenção sobre Aviação Civil Internacional, serão concedidas licenças de controlador do tráfego aéreo ao pessoal seguinte:\n\na) Aos actuais servidores da Direcção-Geral da Aeronáutica Civil que nesta prestam serviço, a qualquer título, nas categorias a seguir enumeradas:\n\nInspectores de contrôle do tráfego aéreo;\n\nOficiais de circulação aérea principal;\n\nOficiais de circulação aérea de 1.ª, 2.ª e 3.ª classes;\n\nAssistentes do controlador do tráfego aéreo;\n\nb) Aos actuais servidores dependentes do Ministério da Coordenação Interterritorial a seguir indicados:\n\nChefe de centro de contrôle regional;\n\nControlador de tráfego aéreo de 1.ª e 2.ª classes.\n\n2. A concessão das licenças ao pessoal a que se refere a alínea do número anterior deverá ter lugar no prazo máximo de sessenta dias a contar da data da publicação deste decreto-lei.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+  },
+  "886307746": {
+   "fragment_id": "886311786",
+   "type": 11,
+   "heading": "Artigo 29.º — (Integração do actual pessoal nas categorias criadas por este diploma)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+   ],
+   "markdown": "###### Artigo 29.º — (Integração do actual pessoal nas categorias criadas por este diploma)\n\n1. O actual pessoal dos serviços do tráfego aéreo referido na alínea a) do n.º 1 do artigo 28.º deste diploma, ao qual sejam concedidas licenças de controlador do tráfego aéreo, será integrado nas novas categorias criadas por este decreto-lei, pela forma seguinte:\n\na) Os actuais inspectores de contrôle do tráfego aéreo e oficiais de circulação aérea principal serão integrados na categoria de controlador do tráfego aéreo sénior;\n\nb) Os actuais oficiais de circulação aérea de 1.ª e 2.ª classes, bem como os actuais oficiais de circulação aérea de 3.ª classe e os assistentes de controlador já dados como aptos para o desempenho de funções de controlador do tráfego aéreo, serão integrados na categoria de controlador do tráfego aéreo, de acordo com a qualificação obtida mais elevada;\n\nc) Os oficiais de circulação aérea de 3.ª classe e os assistentes de controlador que não se encontrem nas condições enumeradas na alínea antecedente serão integrados na categoria de controlador do tráfego aéreo auxiliar.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+  },
+  "886307747": {
+   "fragment_id": "886311787",
+   "type": 11,
+   "heading": "Artigo 30.º — (Situação do actual pessoal que não se insere nas categorias criadas por este diploma)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+   ],
+   "markdown": "###### Artigo 30.º — (Situação do actual pessoal que não se insere nas categorias criadas por este diploma)\n\n1. Em relação ao actual pessoal dos serviços do tráfego aéreo a seguir indicado que não se integre nas novas categorias nos termos do n.º 1 do artigo antecedente, observar-se-á o seguinte:\n\na)  Os actuais inspectores de contrôle do tráfego aéreo manterão a mesma categoria, com o vencimento correspondente à letra E;\n\nb) Os actuais oficiais de circulação aérea principal serão integrados na categoria de inspectores de contrôle, com o vencimento referido na alínea anterior;\n\nc) Os actuais oficiais de circulação aérea de 1.ª, 2.ª e 3.ª classes passarão a designar-se por oficiais de circulação aérea, com vencimento correspondente às letras G ou H, de acordo com a qualificação obtida mais elevada;\n\nd) Os actuais assistentes de controlador do tráfego aéreo manterão a mesma categoria, com o vencimento correspondente à letra M.\n\n2. As atribuições do pessoal referido no número antecedente são as que lhe estejam cometidas à data da publicação deste diploma.\n\n3. A distribuição do mesmo pessoal constará dos mapas a que se refere o artigo 3.º, podendo estes ser revistos nos termos do artigo 4.º, ambos deste diploma.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+  },
+  "886307748": {
+   "fragment_id": "886311788",
+   "type": 11,
+   "heading": "Artigo 31.º — (Lista de ordenamento das novas situações)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+   ],
+   "markdown": "###### Artigo 31.º — (Lista de ordenamento das novas situações)\n\n1. As novas situações do actual pessoal dos serviços do tráfego aéreo, decorrentes da execução do disposto no n.º 1 do artigo 29.º e artigo 30.º, ambos deste diploma, resultarão de listas a elaborar pela Direcção-Geral da Aeronáutica Civil, aprovadas pelo Ministro dos Transportes e Comunicações, donde consta o lugar em que cada funcionário ficou provido, a publicar no Diário do Governo, no máximo de sessenta dias, a partir da data da publicação deste diploma.\n\n2. Na elaboração das listas considerar-se-á em primeiro lugar a categoria actual dos interessados e, dentro de cada categoria, a antiguidade na mesma, referida a 31 de Dezembro de 1974, com dispensa do limite de idade e de habilitações literárias.\n\n3. As novas situações do pessoal e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+  },
+  "886307749": {
+   "fragment_id": "886311789",
+   "type": 11,
+   "heading": "Artigo 32.º — (Extinção de categorias)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+   ],
+   "markdown": "###### Artigo 32.º — (Extinção de categorias)\n\n1. A partir da data da publicação da lista a que se refere o artigo antecedente deste diploma, consideram-se automaticamente extintas as categorias seguintes:\n\na) Oficiais de circulação aérea principal;\n\nb) Oficiais de circulação aérea de 1.ª, 2.ª e 3.ª classes;\n\nc)  Inspectores de contrôle do tráfego aéreo e assistentes de controlador do tráfego aéreo, se da execução do disposto no artigo 29.º deste diploma resultar a vacatura de todos os lugares das respectivas categorias.\n\n2. Serão extintos, à medida que vagarem, os lugares providos correspondentes às categorias seguintes:\n\na) Inspectores de contrôle do tráfego aéreo e assistentes de controlador do tráfego aéreo, se não se verificar a sua extinção automática nos termos do número antecedente;\n\nb) Oficiais de circulação aérea que porventura subsistam à data da publicação da lista atrás mencionada.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+  },
+  "886307727": {
+   "fragment_id": "886311797",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Alfredo António Cândido de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - Henrique Manuel Araújo de Oliveira Sá.\n\nPromulgado em 1 de Setembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "886307752": {
+   "fragment_id": "886311818",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+   ],
+   "markdown": "## Anexo\n\nMAPA I\n\nMapa a que se refere o artigo 2.º do Decreto-Lei n.º 503/75\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 39/1976, Série I de 1976-02-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-506813), produz efeitos a partir de 1975-09-14"
+  },
+  "886312291": {
+   "fragment_id": "886311783",
+   "type": 11,
+   "heading": "Artigo 27.º — (Limite de idade para o exercício de funções operacionais)",
+   "in_force_from": "2009-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 5/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/5-2009-601774), em vigor a partir de 2009-02-03",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 154/95 - Diário da República n.º 150/1995, Série I-A de 1995-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1995-475078), em vigor a partir de 1995-07-06"
+   ],
+   "markdown": "###### Artigo 27.º — (Limite de idade para o exercício de funções operacionais)\n\nO limite superior de idade para o exercício de funções operacionais é de 57 anos.\n\n> Alterado pelo/a [Lei n.º 5/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/5-2009-601774), em vigor a partir de 2009-02-03\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 154/95 - Diário da República n.º 150/1995, Série I-A de 1995-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1995-475078), em vigor a partir de 1995-07-06"
+  },
+  "886312297": {
+   "fragment_id": "886311783",
+   "type": 11,
+   "heading": "Artigo 27.º — (Limite de idade para o exercício de funções operacionais)",
+   "in_force_from": "2017-05-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2017-107061864), em vigor a partir de 2017-05-25",
+    "Alterado pelo/a [Lei n.º 5/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/5-2009-601774), em vigor a partir de 2009-02-03",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 154/95 - Diário da República n.º 150/1995, Série I-A de 1995-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1995-475078), em vigor a partir de 1995-07-06"
+   ],
+   "markdown": "###### Artigo 27.º — (Limite de idade para o exercício de funções operacionais)\n\nO limite superior de idade para o exercício de funções operacionais é de 58 anos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2017-107061864), em vigor a partir de 2017-05-25\n\n> Alterado pelo/a [Lei n.º 5/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/5-2009-601774), em vigor a partir de 2009-02-03\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 154/95 - Diário da República n.º 150/1995, Série I-A de 1995-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1995-475078), em vigor a partir de 1995-07-06"
+  },
+  "901452020": {
+   "fragment_id": "886311783",
+   "type": 11,
+   "heading": "Artigo 27.º — (Limite de idade para o exercício de funções operacionais)",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2024 - Diário da República n.º 251/2024, Série I de 2024-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2024-901400366), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2017-107061864), em vigor a partir de 2017-05-25",
+    "Alterado pelo/a [Lei n.º 5/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/5-2009-601774), em vigor a partir de 2009-02-03",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 154/95 - Diário da República n.º 150/1995, Série I-A de 1995-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1995-475078), em vigor a partir de 1995-07-06"
+   ],
+   "markdown": "###### Artigo 27.º — (Limite de idade para o exercício de funções operacionais)\n\nO limite superior de idade para o exercício de funções operacionais é de 60 anos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2024 - Diário da República n.º 251/2024, Série I de 2024-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2024-901400366), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2017-107061864), em vigor a partir de 2017-05-25\n\n> Alterado pelo/a [Lei n.º 5/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/5-2009-601774), em vigor a partir de 2009-02-03\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 154/95 - Diário da República n.º 150/1995, Série I-A de 1995-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1995-475078), em vigor a partir de 1995-07-06"
+  }
+ }
+}

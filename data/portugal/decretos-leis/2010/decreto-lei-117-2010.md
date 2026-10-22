@@ -1,0 +1,1385 @@
+---
+schema_version: '1.0'
+id: pt:dre:307650:por
+title: Decreto-Lei n.º 117/2010
+short_title: null
+summary: Estabelece os critérios de sustentabilidade para a produção e utilização de biocombustíveis e biolíquidos e define
+  os limites de incorporação obrigatória de biocombustíveis para os anos 2011 a 2020, transpondo os artigos 17.º a 19.º e
+  os anexos III e V da Directiva n.º 2009/28/CE, do Conselho e do Parlamento Europeu, de 23 de Abril, e o n.º 6 do artigo
+  1.º e o anexo IV da Directiva n.º 2009/30/CE, do Parlamento Europeu e do Conselho, de 23 de Abril
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia, da Inovação e do Desenvolvimento
+proposing_entity: null
+official_number: 117/2010
+official_date: null
+publication_date: '2010-10-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 207/2010, Série I de 2010-10-25
+  number: '207'
+  series: I
+  supplement: null
+  pages: 4782 - 4795
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/10/20700/0478204795.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-12-10'
+version_history:
+  file: decreto-lei-117-2010.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-18'
+    amending: pt:dre:544388:por
+    amending_title: Decreto-Lei n.º 6/2012
+    changes:
+    - Altera Artigo 11.º
+  - date: '2016-11-04'
+    amending: pt:dre:75644170:por
+    amending_title: Decreto-Lei n.º 69/2016
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+  - date: '2018-01-01'
+    amending: pt:dre:114337041:por
+    amending_title: Decreto-Lei n.º 152-C/2017
+    changes:
+    - Adita Artigo 19.º-A
+    - Adita Anexo III
+    - Adita Anexo IV
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Anexo I
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+  - date: '2021-01-21'
+    amending: pt:dre:154483167:por
+    amending_title: Decreto-Lei n.º 8/2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 19.º-A
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Anexo IV
+  - date: '2022-12-10'
+    amending: pt:dre:204502328:por
+    amending_title: Decreto-Lei n.º 84/2022
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/117/2010/p/cons/20221209/pt/html
+  oj: null
+  dre: '307650'
+  dre_path: /dr/detalhe/decreto-lei/117-2010-307650
+  internal: pt:dre:307650:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2010-307650
+  metadata_url: https://data.dre.pt/eli/dec-lei/117/2010/p/cons/20221209/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-75648897
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-75648897
+  retrieved_at: '2026-10-22T12:08:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: bc2d760553bbfb22b3ca76ed00157c39c6234f64134c6d7ca08a5a635f8d4a14
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:08:46Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-117-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Contra-ordenação
+- Transporte Rodoviário
+- Definição de Competências
+- Combustível
+- Fiscalização
+- Direção Geral de Energia e Geologia
+- Gasóleo
+- Gasolina
+- Importação
+- Laboratório Nacional de Energia e Geologia
+- Produtor
+- Indústria Transformadora
+- Comércio
+- Transporte
+- Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:544388:por
+  label: Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2012-544388
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:75644170:por
+  label: Altera Artigo 4.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo
+    18.º; Altera Artigo 24.º; Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2016-75644170
+  date: '2016-11-03'
+- type: amended_by
+  target: pt:dre:114337041:por
+  label: Adita Artigo 19.º-A; Adita Anexo III; Adita Anexo IV; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera
+    Artigo 10.º; Altera Artigo 11.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera
+    Artigo 20.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Anexo I; Revoga Artigo
+    28.º; Revoga Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041
+  date: '2017-12-11'
+- type: amended_by
+  target: pt:dre:154483167:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º;
+    Altera Artigo 19.º; Altera Artigo 19.º-A; Altera Artigo 20.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º;
+    Altera Artigo 25.º; Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167
+  date: '2021-01-20'
+- type: amended_by
+  target: pt:dre:204502328:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328
+  date: '2022-12-09'
+- type: cites
+  target: celex:31998L0070
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/70/oj
+- type: cites
+  target: celex:32001L0077
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/77/oj
+- type: cites
+  target: celex:32002R1774
+  label: null
+  source: null
+- type: cites
+  target: celex:32003L0030
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/30/oj
+- type: cites
+  target: celex:32008L0098
+  label: null
+  source: null
+- type: cites
+  target: celex:32009L0028
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/28/oj
+- type: cites
+  target: celex:32009L0030
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/30/oj
+- type: cites
+  target: celex:32009R0073
+  label: null
+  source: http://data.europa.eu/eli/reg/2009/73/oj
+- type: cites
+  target: celex:32009R1069
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R1306
+  label: null
+  source: null
+- type: cites
+  target: celex:32016D1196
+  label: null
+  source: null
+- type: transposes
+  target: celex:31998L0070
+  label: null
+  source: null
+- type: transposes
+  target: celex:32009L0028
+  label: null
+  source: null
+- type: transposes
+  target: celex:32009L0030
+  label: null
+  source: null
+- type: transposes
+  target: celex:32015L1513
+  label: null
+  source: null
+article_structure:
+  article_count: 35
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:08:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 117/2010
+
+Decreto-Lei n.º 117/2010
+
+de 25 de Outubro
+
+O Programa do XVIII Governo aponta como uma das linhas fundamentais de modernização estrutural do País liderar na revolução energética, assegurando os mecanismos para a sua efectivação e contribuindo para o desenvolvimento de uma economia sustentável, eficiente e competitiva, menos dependente dos combustíveis fósseis.
+
+Assim, a Resolução do Conselho de Ministros n.º 29/2010, de 15 de Abril, que aprova a Estratégia Nacional para a Energia 2020 (ENE 2020), prevê, no âmbito da aposta nas energias renováveis, que os biocombustíveis continuarão a ser um contributo para que Portugal cumpra as suas metas de energias renováveis no consumo final do sector dos transportes, tendo o Governo se comprometido na definição dos critérios de sustentabilidade dos biocombustíveis e na promoção da utilização de recursos endógenos para a produção deste tipo de combustíveis, estreitando a ligação com a agricultura nacional e as soluções ligadas aos biocombustíveis de segunda geração.
+
+De facto, a incorporação de biocombustíveis nos transportes terrestres, em substituição dos combustíveis fósseis, para além de contribuir decisivamente para alcançar o objectivo de 31 % do consumo final de energia com origem renovável, assume especial relevância para a redução das emissões de gases com efeito de estufa, para a diversificação da origem da energia primária e para a redução da dependência energética externa em relação aos produtos petrolíferos, cumprindo os objectivos subjacentes à ENE 2020. Estes aspectos contribuem para reforçar a segurança do abastecimento energético e para dar cumprimento aos compromissos assumidos no âmbito da União Europeia decorrentes do Protocolo de Quioto e, em especial, para o cumprimento da Estratégia Nacional para a Energia e do Programa Nacional para as Alterações Climáticas (PNAC).
+
+Neste sentido, a Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0028" title="Link para Directiva da Comunidade Europeia">2009/28/CE</a>, do Parlamento Europeu e do Conselho, de 23 de Abril, relativa à promoção da utilização de energia proveniente de fontes renováveis, que altera e subsequentemente revoga as Directivas n.os <a href="eurlex.asp?ano=2001&id=301L0077" title="Link para Directiva da Comunidade Europeia">2001/77/CE</a> e <a href="eurlex.asp?ano=2003&id=303L0030" title="Link para Directiva da Comunidade Europeia">2003/30/CE</a> (Directiva FER), vem fixar uma meta de incorporação de 10 % de fontes de energia renovável até ao ano de 2020 no consumo final de energia no sector dos transportes.
+
+Deste modo, o presente decreto-lei determina os critérios para a qualificação dos biocombustíveis e biolíquidos como sustentáveis e cria um novo mecanismo de apoio à incorporação dos biocombustíveis no cabaz de combustíveis consumidos no sector dos transportes, dando continuidade aos mecanismos de promoção da utilização dos biocombustíveis, previstos nos Decretos-Leis n.os 62/2006, de 21 de Março, e 49/2009, de 26 de Fevereiro.
+
+Para verificação do cumprimento das metas de incorporação é criado um sistema de emissão de títulos de biocombustíveis (TdB), atribuindo-se uma valorização adicional aos biocombustíveis produzidos a partir de resíduos e detritos ou de matéria-prima com origem lenho-celulósica, bem como os que sejam produzidos a partir de matérias endógenas, de forma a privilegiar o valor acrescentado nacional e em concordância com a ENE 2020.
+
+Este sistema de TdB permite que os mesmos sejam transaccionáveis pelos agentes económicos, dando a cada incorporador, como forma de comprovação do cumprimento da sua meta, a opção entre obter os TdB necessários através da incorporação de biocombustíveis ou adquirir esses títulos a agentes que os tenham em excesso. O incorporador que não entregue os títulos que comprovem o cumprimento da meta de incorporação definida fica obrigado ao pagamento de uma compensação.
+
+Foram ouvidas, a título facultativo, a APETRO - Associação Portuguesa de Empresas Petrolíferas e a APPB - Associação Portuguesa de Produtores de Biocombustíveis.
+
+Foi promovida a audição do Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente decreto-lei:
+
+a) Transpõe para a ordem jurídica interna os artigos 17.º a 19.º e os anexos iii, v, viii e ix da Diretiva 2009/28/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à promoção da utilização de energia proveniente de fontes renováveis, na redação que lhes foi conferida pela Diretiva (UE) 2015/1513, do Parlamento Europeu e do Conselho, de 9 de setembro de 2015;
+
+b) (Revogada.)
+
+c) Transpõe para a ordem jurídica interna os artigos 7.º-B a 7.º-E e os anexos iv e v da Diretiva 98/70/CE, do Parlamento Europeu e do Conselho, de 13 de outubro de 1998, relativa à qualidade da gasolina e do combustível para motores diesel, na redação que lhes foi conferida pela Diretiva 2009/30/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, e Diretiva (UE) 2015/1513, do Parlamento Europeu e do Conselho, de 9 de setembro de 2015;
+
+d) Estabelece os critérios de sustentabilidade de produção e utilização de biocombustíveis e de biolíquidos, independentemente da sua origem;
+
+e) Estabelece os mecanismos de promoção de biocombustíveis no setor dos transportes;
+
+f) Estabelece metas de incorporação obrigatória de biocombustíveis e limita a contribuição dos biocombustíveis produzidos a partir de cereais e de outras culturas ricas em amido, de culturas açucareiras e oleaginosas e de culturas feitas como culturas principais essencialmente para fins energéticos em terrenos agrícolas.
+
+2 - O presente decreto-lei é aplicável aos produtores de biocombustíveis e biolíquidos e aos comercializadores de combustíveis líquidos ou gasosos utilizados nos transportes terrestres.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente decreto-lei entende-se por:
+
+a) «Alteração Indireta do Uso dos Solos», o impacto que ocorre quando os terrenos agrícolas ou de pastagem são desviados para a produção de matérias-primas para biocombustíveis e se torna necessário satisfazer a procura para fins distintos da produção de biocombustíveis, mediante a utilização de outros terrenos, não agrícolas, o que constitui uma alteração indireta do uso do solo, que pode implicar a conversão de terrenos com elevado teor de carbono e gerar consideráveis emissões de gases com efeito de estufa;
+
+b) «Biocombustíveis», os combustíveis líquidos ou gasosos, utilizados nos transportes, produzidos a partir de biomassa;
+
+c) «Biocombustíveis avançados», os biocombustíveis produzidos a partir das matérias-primas enumeradas na parte A do anexo iv ao presente decreto-lei, do qual faz parte integrante;
+
+d) «Biocombustíveis convencionais», os combustíveis produzidos a partir de cereais e de outras culturas ricas em amido, de culturas açucareiras e oleaginosas e de culturas feitas como culturas principais essencialmente para fins energéticos em terrenos agrícolas;
+
+e) «Biocombustíveis e biolíquidos com baixo risco de alteração indireta do uso do solo», biocombustíveis e biolíquidos cujas matérias-primas foram produzidas no âmbito de regimes que reduzem a deslocação da produção para outros fins distintos da produção de biocombustíveis e de biolíquidos e que foram produzidos respeitando os critérios de sustentabilidade para biocombustíveis e biolíquidos previstos nos artigos 4.º, 6.º, 7.º e 8.º;
+
+f) «Biodiesel», o biocombustível substituto do gasóleo, cujas especificações se encontram previstas na norma EN 14214;
+
+g) «Biolíquidos», os combustíveis líquidos para fins energéticos, com exceção dos destinados aos transportes, incluindo produção de eletricidade, aquecimento e arrefecimento, produzidos a partir de biomassa;
+
+h) «Biomassa», a fração biodegradável de produtos, resíduos ou detritos de origem biológica provenientes da agricultura, incluindo substâncias de origem animal e vegetal, da exploração florestal e de indústrias afins, incluindo da pesca e da aquicultura, bem como a fração biodegradável dos resíduos industriais e urbanos;
+
+i) «Combustíveis líquidos e gasosos renováveis de origem não biológica para os transportes», combustíveis líquidos ou gasosos, com exceção dos biocombustíveis, cujo teor energético provém de fontes de energia renováveis distintas da biomassa e que são usados nos transportes;
+
+j) «Culturas perenes», as culturas plurianuais cujo caule não é normalmente cortado anualmente, como a talhadia de rotação curta e as palmeiras;
+
+k) «Culturas ricas em amido», as culturas constituídas principalmente por cereais (independentemente de se utilizarem apenas os grãos ou, como no caso do milho verde, toda a planta), tubérculos e raízes (como as batatas, tupinambos, batatas doces, mandiocas e inhames) e cormos, como o taro;
+
+l) «Detrito» ou «detrito de transformação», uma substância que, não constituindo um resíduo, não é o produto ou produtos finais que se procura obter diretamente com um processo de produção, não sendo o objetivo primário do processo de produção e não tendo este sido deliberadamente modificado para o produzir;
+
+m) «Detritos da agricultura, aquicultura, pescas e silvicultura», detritos diretamente gerados pela atividade agrícola, aquícola, piscícola e silvícola, que não são resíduos; não incluem os detritos das indústrias conexas nem da transformação;
+
+n) «DGEG», a Direção-Geral de Energia e Geologia;
+
+o) «ECS», a entidade coordenadora do cumprimento dos critérios de sustentabilidade, prevista no artigo 20.º;
+
+p) «ENSE, E. P. E.», a Entidade Nacional para o Setor Energético, E. P. E.;
+
+q) «ERSE», a Entidade Reguladora dos Serviços Energéticos;
+
+r) «Importadores de biocombustíveis e biolíquidos», as entidades que adquiram a outros Estados-Membros e países terceiros biocombustíveis ou biolíquidos não produzidos em território nacional, e que estejam registados na ECS;
+
+s) «Incorporadores», as entidades que introduzam combustíveis rodoviários no consumo, processando as declarações de introdução no consumo nos termos do Código dos Impostos Especiais de Consumo, aprovado em anexo ao Decreto-Lei n.º 73/2010, de 21 de junho, na sua redação atual (CIEC), e que estejam registados na DGEG para efeitos do cadastro nacional centralizado do Sistema Petrolífero Nacional, nos termos do artigo 13.º-A do Decreto-Lei n.º 31/2006, de 15 de fevereiro, na sua redação atual;
+
+t) «LNEG, I. P.», o Laboratório Nacional de Energia e Geologia, I. P.;
+
+u) «Material celulósico não alimentar», as matérias-primas constituídas sobretudo por celulose e hemicelulose e que têm um teor de lenhina inferior ao material lenho-celulósico, os nomeadamente os detritos de colheitas para consumo humano e animal, como palha, caules de milho, peles e carolos, as culturas energéticas de gramíneas com baixo teor de amido, como azevém, panicum, miscanthus, arundinaria gigantea e culturas de cobertura antes e depois das culturas principais, os desperdícios industriais, incluindo os provenientes de culturas destinadas à alimentação humana e animal, após a extração de óleos vegetais, açúcares, amidos e proteínas, e material de biorresíduos;
+
+v) «Material lenho-celulósico», o material constituído por lenhina, celulose e hemicelulose, como por exemplo a biomassa produzida a partir de florestas, culturas energéticas lenhosas e desperdícios e resíduos das indústrias do setor florestal;
+
+w) «Operadores económicos», os produtores, incluindo pequenos produtores dedicados, os importadores de biocombustíveis e biolíquidos e os incorporadores;
+
+x) «Produtores de biocombustíveis», as entidades que produzam biocombustíveis em território nacional em entreposto fiscal de transformação constituído nos termos do CIEC, e que estejam registados na ECS;
+
+y) «Pequeno Produtor Dedicado (PPD)», entidade produtora de biocombustíveis reconhecida nos termos do artigo 19.º;
+
+z) «Regimes voluntários», sistemas de certificação de biocombustíveis reconhecidos pela Comissão Europeia, no âmbito dos quais entidades reconhecidas pela Comissão Europeia, contratadas para o efeito, realizam auditorias aos operadores económicos para a emissão de certificados de sustentabilidade, aos operadores económicos, que abrangem parte ou toda a cadeia de valor dos biocombustíveis, nos termos das Diretivas 2009/28/CE, do Parlamento e do Conselho, de 23 de abril de 2009, e 2015/1513, do Parlamento Europeu e do Conselho, de 9 de setembro de 2015;
+
+aa) «Resíduo», definido conforme a alínea ee) do artigo 3.º do Decreto-Lei n.º 178/2006, de 5 de setembro, na sua redação atual; não estão abrangidas por esta definição as substâncias que foram intencionalmente modificadas ou contaminadas para satisfazer esta definição;
+
+bb) «SPN», o Sistema Petrolífero Nacional;
+
+cc) «TdB», título de biocombustível representativo de uma tonelada equivalente de petróleo (tep) de biocombustível, sem prejuízo do disposto no artigo 14.º, destinado a ser incorporado no consumo nacional em todos os modos de transporte e que cumpre os critérios de sustentabilidade previstos nos artigos 4.º, 6.º, 7.º e 8.º;
+
+dd) «Terrenos de pastagem ricos em biodiversidade» são os terrenos de pastagem naturais, incluindo aqueles que continuariam a ser terrenos de pastagem caso não tivesse havido intervenção humana, e que mantêm a composição de espécies e as características e processos ecológicos naturais, e ainda, os terrenos de pastagens não naturais, que deixariam de o ser caso não tivesse havido intervenção humana, com grande variedade de espécies e não degradados, a menos que se comprove que a colheita das referidas matérias-primas é necessária para a preservação do seu estatuto de terrenos de pastagem;
+
+ee) «Terrenos fortemente contaminados», terrenos inaptos para o cultivo de géneros alimentícios ou de alimentos para animais devido à contaminação do solo;
+
+ff) «Terrenos gravemente degradados», terrenos que durante um período importante foram fortemente salinizados ou cujo teor em matérias orgânicas é particularmente reduzido e que sofreram uma erosão severa;
+
+gg) «Valor por defeito», para efeitos do cálculo das emissões de GEE, corresponde ao valor derivado de um valor típico através da aplicação de fatores predeterminados e que, em circunstâncias especificadas no presente decreto-lei, pode ser utilizado em vez de um valor real;
+
+hh) «Valor real», para efeitos do cálculo das emissões de gases com efeito de estufa (GEE), corresponde à redução de emissões de GEE resultante de todas ou algumas das fases de um determinado processo de produção de biocombustível ou biolíquidos, calculada segundo o método estabelecido na parte C do anexo i ao presente decreto-lei;
+
+ii) «Valor típico», para efeitos do cálculo das emissões de GEE, corresponde a uma estimativa da redução representativa de emissões de gases com efeito de estufa num determinado modo de produção de biocombustível ou biolíquidos.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+### Capítulo II — Produção e critérios de sustentabilidade
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 3.º — Critérios de sustentabilidade
+
+1 - São considerados sustentáveis os biocombustíveis e biolíquidos que:
+
+a) Reúnam os critérios para a redução dos gases com efeito de estufa, previstos no artigo seguinte;
+
+b) Reúnam os critérios previstos no artigo 6.º, quando se tratem de biocombustíveis ou biolíquidos produzidos a partir de matérias-primas agrícolas cultivadas em territórios dos Estados membros;
+
+c) Reúnam os critérios de uso dos solos previstos nos artigos 7.º e 8.º
+
+2 - Os biocombustíveis e biolíquidos produzidos a partir de resíduos ou detritos não provenientes da agricultura, aquicultura, pescas ou exploração florestal são sustentáveis desde que cumpram os critérios de sustentabilidade estabelecidos no artigo seguinte.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 4.º — Critérios para a redução das emissões de gases com efeito de estufa
+
+1 - Os biocombustíveis e biolíquidos são sustentáveis quando a redução mínima de emissões de gases com efeito de estufa resultantes da sua utilização, em comparação com o combustível que visam substituir, corresponda a:
+
+a) (Revogada);
+
+b) (Revogada);
+
+c) (Revogada);
+
+d) 35 % até 31 de dezembro de 2017 e 50 % a partir de 1 de janeiro de 2018 para os biocombustíveis e aos biolíquidos produzidos em instalações que tenham entrado em funcionamento antes de 5 de outubro de 2015.
+
+e) 60 % relativamente aos biocombustíveis e aos biolíquidos produzidos em instalações que tenham entrado em funcionamento após 5 de outubro de 2015. Considera-se que uma instalação se encontra em funcionamento se a produção física de biocombustíveis ou de biolíquidos tiver tido lugar.
+
+2 - (Revogado).
+
+3 - A redução de emissões de gases com efeito de estufa resultantes da utilização de biocombustíveis e biolíquidos é calculada nos termos do n.º 1 do artigo seguinte.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 69/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2016-75644170), em vigor a partir de 2016-11-04
+
+###### Artigo 5.º — Cálculo do impacto dos biocombustíveis e biolíquidos nos gases com efeito de estufa
+
+1 - A redução de emissões de gases com efeito de estufa resultante da utilização de biocombustíveis e biolíquidos é calculada do seguinte modo:
+
+a) Caso a parte A ou B do anexo i ao presente decreto-lei, do qual faz parte integrante, estabeleça um valor por defeito para a redução de emissões de gases com efeito de estufa para o modo de produção e o valor el para esses biocombustíveis ou biolíquidos, calculado de acordo com o n.º 7 da parte C do anexo i ao presente decreto-lei, seja equivalente ou inferior a zero, é utilizado esse valor por defeito;
+
+b) Utilizando um valor real calculado segundo a metodologia estabelecida na parte C do anexo i ao presente decreto-lei; ou
+
+c) Utilizando um valor calculado a partir da soma dos factores da fórmula referida no n.º 1 da parte C do anexo i ao presente decreto-lei, caso os valores por defeito discriminados referidos nas partes D ou E do anexo i ao presente decreto-lei possam ser utilizados para alguns dos factores e valores reais, calculados segundo a metodologia estabelecida na parte C do anexo i ao presente decreto-lei, para todos os outros factores.
+
+2 - Os valores por defeito indicados na parte A do anexo i ao presente decreto-lei para os biocombustíveis e os valores por defeito discriminados para o cultivo na parte D do anexo i ao presente decreto-lei para os biocombustíveis e biolíquidos aplicam-se apenas quando as suas matérias-primas forem:
+
+a) Cultivadas fora da Comunidade;
+
+b) Cultivadas na Comunidade, em zonas, incluídas nas listas fornecidas pelos Estados membros da União Europeia, em que seja possível esperar que as emissões típicas de gases de efeito de estufa provenientes do cultivo de matérias-primas sejam inferiores ou iguais às emissões notificadas na rubrica «Cultivo» da parte D do anexo i ao presente decreto-lei; ou
+
+c) Resíduos não provenientes da agricultura, da aquicultura ou das pescas.
+
+3 - Para os biocombustíveis e biolíquidos não abrangidos pelo disposto no número anterior, são utilizados valores reais para o cultivo.
+
+4 - Revogado.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+###### Artigo 6.º — Matérias-primas agrícolas provenientes dos Estados membros
+
+As matérias-primas agrícolas cultivadas em território dos Estados-Membros e utilizadas para a produção de biocombustíveis e biolíquidos têm de cumprir com os critérios fixados nos artigos seguintes, assim como com os requisitos e normas previstos:
+
+a) Na rubrica 'Ambiente, alterações climáticas e boas condições agrícolas das terras', bem como do requisito legal de gestão (RLG) 10 do anexo ii do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;
+
+b) No artigo 94.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+###### Artigo 7.º — Produção em terrenos ricos em biodiversidade
+
+1 - Não reúnem critérios de sustentabilidade os biocombustíveis e biolíquidos produzidos a partir de matérias-primas provenientes de terrenos ricos em biodiversidade.
+
+2 - Para efeito do disposto no número anterior, são terrenos ricos em biodiversidade aqueles que detivessem, ainda que o tenham perdido, em Janeiro de 2008 ou após essa data, um dos seguintes estatutos:
+
+a) Floresta primária e outros terrenos arborizados, ou seja, floresta e outros terrenos arborizados de espécies indígenas, caso não haja indícios claramente visíveis de actividade humana e os processos ecológicos não se encontrem significativamente perturbados;
+
+b) Áreas integradas no Sistema Nacional de Áreas Classificadas, de acordo com o Decreto-Lei n.º 142/2008, de 24 de Julho, ou outras áreas designadas por lei ou por autoridades e entidades competentes, para fins de conservação da natureza, a menos que se comprove que a produção das referidas matérias-primas não afectou ou afecta os respectivos fins de conservação da natureza;
+
+c) Outras áreas de protecção de espécies ou ecossistemas raros, ameaçados ou em risco de extinção, reconhecidas por acordos internacionais ou incluídas em listas elaboradas por organizações intergovernamentais ou pela União Internacional para a Conservação da Natureza, como tal reconhecidas pela Comissão Europeia, a menos que se comprove que a produção das referidas matérias-primas não afectou ou afecta os respectivos fins de conservação da natureza;
+
+d) Terrenos de pastagem ricos em biodiversidade, cujos critérios e limites geográficos são definidos por portaria dos membros do Governo responsáveis pelas áreas do ambiente e da agricultura.
+
+3 - As áreas reconhecidas pela Comissão Europeia referidas na alínea c) do número anterior que se situem em território nacional devem ser publicitadas por despacho do membro do Governo responsável pela área da conservação da natureza.
+
+4 - A portaria referida na alínea d) do n.º 2 deve ter em consideração e é aprovada após a emissão das orientações da Comissão Europeia para o efeito.
+
+5 - Para efeitos da alínea d) do n.º 2 são considerados terrenos de pastagem ricos em biodiversidade:
+
+a) Os terrenos de pastagens naturais, ou seja, os que continuariam a ser terrenos de pastagem caso não tivesse havido intervenção humana, e que mantêm a composição de espécies e as características e processos ecológicos naturais; ou
+
+b) Os terrenos de pastagens não naturais, ou seja, os que deixariam de ser terrenos de pastagem caso não tivesse havido intervenção humana, com grande variedade de espécies e não degradados, a menos que se comprove que a colheita das referidas matérias-primas é necessária para a preservação do seu estatuto de terrenos de pastagem.
+
+6 - Incluem-se no n.º 2 os terrenos que desde Janeiro de 2008 se tenham incluído naqueles estatutos, ainda que entretanto tenham perdido as respectivas características.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 8.º — Produção em terrenos com elevado teor de carbono e turfeiras
+
+1 - Os biocombustíveis e biolíquidos não são sustentáveis quando produzidos a partir de matérias-primas provenientes de terrenos com elevado teor de carbono.
+
+2 - Para efeitos do número anterior consideram-se terrenos com elevado teor de carbono os terrenos que em Janeiro de 2008 tinham um dos seguintes estatutos mas já não o têm:
+
+a) Zonas húmidas, ou seja, terrenos cobertos de água ou saturados de água permanentemente ou durante uma parte significativa do ano;
+
+b) Zonas continuamente arborizadas, ou seja, terrenos com uma extensão superior a 1 ha com árvores de mais de 5 m de altura e um coberto florestal de mais de 30 %, ou árvores que possam alcançar esses limiares in situ;
+
+c) Terrenos com uma extensão superior a 1 ha com árvores de mais de 5 m de altura e um coberto florestal entre 10 % e 30 %, ou árvores que possam alcançar esses limiares in situ, com excepção daqueles cujo carbono armazenado na zona antes e depois da conversão seja suficiente para o cumprimento das condições estabelecidas no n.º 2 do artigo 7.º, quando seja aplicada a metodologia prevista na parte C do anexo i ao presente decreto-lei.
+
+3 - O disposto no n.º 1 não se aplica se, no momento da obtenção da matéria-prima, o terreno tiver o mesmo estatuto que em Janeiro de 2008.
+
+4 - Para serem considerados sustentáveis os biocombustíveis e biolíquidos não podem ser produzidos a partir de matérias-primas provenientes de terrenos que, em Janeiro de 2008, tivessem o estatuto de turfeiras, excepto se o cultivo e a colheita das matérias-primas em causa não impliquem a drenagem de solo anteriormente não drenado.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 9.º — Verificação do cumprimento dos critérios de sustentabilidade
+
+1 - Os produtores, incluindo os PPD, e os importadores de biocombustíveis ou biolíquidos devem fazer prova do cumprimento dos critérios de sustentabilidade definidos nos artigos 4.º, 6.º, 7.º e 8.º, recorrendo a um método de balanço de massa que:
+
+a) Permita misturar lotes de matérias-primas ou biocombustíveis ou biolíquidos com diferentes características de sustentabilidade;
+
+b) Implique que a informação sobre as características de sustentabilidade e as dimensões dos lotes referidos na alínea anterior se mantenha associada à mistura; e
+
+c) Preveja que a soma de todos os lotes retirados da mistura seja descrita como tendo as mesmas características de sustentabilidade, nas mesmas quantidades, que a soma de todos os lotes adicionados à mistura.
+
+2 - A informação prestada ao abrigo do disposto na alínea a) do número anterior é certificada por auditoria independente que verifique que os sistemas utilizados pelos referidos operadores económicos são exatos e seguros e que avalie a frequência e metodologia de amostragem e a solidez dos dados.
+
+3 - Da informação prevista no número anterior devem constar:
+
+a) Dados relativos ao cumprimento dos critérios de sustentabilidade, previstos nos artigos 4.º, 6.º, 7.º e 8.º;
+
+b) Medidas tomadas para protecção dos solos, da água e do ar, a reconstituição dos terrenos degradados; e
+
+c) Medidas relativas à prevenção do consumo excessivo de água em zonas em que a água é escassa.
+
+4 - Caso os biocombustíveis, biolíquidos ou as matérias-primas utilizadas na produção de biocombustíveis e biolíquidos sejam provenientes de países da União Europeia, devem ser acompanhados da certificação do cumprimento dos critérios de sustentabilidade emitida ao abrigo de um regime voluntário reconhecido pela Comissão Europeia, nos termos do disposto na Diretiva 2009/28/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, devendo os operadores económicos previstos no n.º 1 apresentá-la à ECS.
+
+5 - Caso os biocombustíveis, biolíquidos ou as matérias-primas utilizadas na produção de biocombustíveis ou biolíquidos sejam provenientes de países terceiros que tenham celebrado acordos com a União Europeia para fins de reconhecimento da sustentabilidade desses materiais, nos termos dos artigos 4.º, 7.º e 8.º, os operadores económicos previstos no n.º 1 têm de demonstrar à ECS a sua origem e o cumprimento do acordo.
+
+6 - Nos casos previstos do número anterior, os operadores económicos previstos no n.º 1 podem optar pela apresentação de certificação emitida ao abrigo de um regime voluntário reconhecido pela Comissão Europeia, nos termos do disposto na Diretiva 2009/28/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+### Capítulo III — Comercialização de biocombustíveis
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+#### Secção I — Metas e condições de incorporação
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 10.º — Comercialização de biocombustíveis
+
+1 - Os biocombustíveis podem ser comercializados, em estado puro ou misturados com combustíveis fósseis.
+
+2 - É permitido exclusivamente aos produtores de biocombustíveis a venda de biocombustível no estado puro para a sua utilização em frotas de transporte de passageiros ou mercadorias.
+
+3 - (Revogado.)
+
+4 - Para efeitos do n.º 2, devem os produtores notificar a ENSE, E. P. E., dos contratos celebrados com empresas que possuam frotas de transporte, com exceção dos PPD, que os reportam à DGEG.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2016-75644170), em vigor a partir de 2016-11-04
+
+###### Artigo 11.º — Metas e obrigação de incorporação
+
+1 - Os incorporadores estão obrigados a contribuir para o cumprimento das metas de incorporação nas seguintes percentagens de biocombustíveis, em teor energético, relativamente às quantidades de combustíveis rodoviários por si introduzidos no consumo, com exceção do gás de petróleo liquefeito e do gás natural:
+
+a) 2011 e 2012 - 5,0 %;
+
+b) 2013 e 2014 - 5,5 %;
+
+c) 2015 e 2016 - 7,5 %;
+
+d) 2017 e 2018 - 9,0 %;
+
+e) 2019 e 2020 - 10,0 %.
+
+f) 2021 - 11,0 %.
+
+2 - A obrigação de incorporação é comprovada pelos incorporadores, trimestralmente e até ao final do mês seguinte ao trimestre a que respeita, através da apresentação de TdB junto da ENSE, E. P. E., através do Balcão Único da Energia, que procede posteriormente ao seu cancelamento.
+
+3 - (Revogado).
+
+4 - Sem prejuízo do disposto no número seguinte, para efeitos do cumprimento das metas de incorporação de biocombustíveis fixadas no n.º 1, a quantidade de biocombustíveis convencionais não pode ser superior a 7 %, em teor energético, da quantidade de combustíveis rodoviários introduzidos no consumo pelo incorporador, para o ano de 2020.
+
+5 - Para efeitos do cumprimento da meta de incorporação de biocombustíveis fixada na alínea f) do n.º 1, a quota de biocombustíveis convencionais não pode ser superior a 1 ponto percentual da percentagem incorporada em 2020, com um máximo de 7 % em teor energético, da quantidade de combustíveis rodoviários introduzidos no consumo pelo incorporador.
+
+6 - A quota de energia proveniente de biocombustíveis produzidos a partir de culturas feitas como culturas principais, sobretudo para fins energéticos em terrenos agrícolas, com exceção dos cereais e de outras culturas ricas em amido e das culturas açucareiras e oleaginosas, não é contabilizada para o limite previsto nos n.os 5 e 6 desde que:
+
+a) A verificação do cumprimento dos critérios de sustentabilidade definidos nos artigos 4.º, 6.º, 7.º e 8.º tenha sido realizada nos termos do artigo 9.º; e
+
+b) Essas culturas tenham sido feitas em terrenos abrangidos pelo n.º 8 da parte C do anexo I ao presente decreto-lei e a correspondente bonificação "e(índice B)"definida no n.º 7 da parte C do anexo I ao presente decreto-lei tenha sida incluída no cálculo das emissões de gases com efeito de estufa para a demonstração da conformidade com o n.º 1 do artigo 4.º
+
+7 - Os biocombustíveis produzidos a partir das matérias-primas mencionadas no anexo iv ao presente decreto-lei não são contabilizados para efeitos do apuramento previsto nos n.os 5 e 6.
+
+8 - Para o ano de 2020, é estabelecida uma meta nacional indicativa de 0,5 %, em teor energético, a cumprir com biocombustíveis avançados, da quota de energia proveniente de fontes renováveis nos transportes, prevista no Decreto-Lei n.º 141/2010, de 31 de dezembro, na sua redação atual, fixada em 10 % para efeitos da presente disposição.
+
+9 - A meta nacional indicativa de 0,5 % estabelecida no número anterior considera-se vinculativa para o ano de 2021.
+
+10 - Os biocombustíveis produzidos a partir de matérias-primas não constantes do anexo iv ao presente decreto-lei, determinados como sendo resíduos, detritos, material celulósico não alimentar ou material lenho-celulósico pelas autoridades nacionais competentes e usados em instalações existentes antes de 5 de outubro de 2015, são contabilizados para as metas nacionais estabelecidas nos números anteriores.
+
+11 - Os valores do teor energético a considerar para os vários combustíveis são fixados nos termos do anexo ii ao presente decreto-lei, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2016-75644170), em vigor a partir de 2016-11-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6/2012 - Diário da República n.º 12/2012, Série I de 2012-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2012-544388), em vigor a partir de 2012-01-18
+
+###### Artigo 12.º — Condições de incorporação
+
+1 - A incorporação de biocombustíveis em combustíveis fósseis deve realizar-se em condições que assegurem a sua qualidade e homogeneidade e permitam determinar o seu conteúdo em biocombustíveis e o cumprimento das especificações técnicas, previstas no Decreto-Lei n.º 89/2008, de 30 de Maio.
+
+2 - Os incorporadores devem informar os grossistas, retalhistas ou consumidores finais por si fornecidos do conteúdo de biocombustíveis nos produtos que forneçam, em percentagem do volume total do produto fornecido e, no caso de a percentagem de incorporação ser superior às previstas no Decreto-Lei n.º 89/2008, de 30 de Maio, cumprir as obrigações de informação previstas no n.º 4 do artigo 10.º do referido decreto-lei.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+#### Secção II — Títulos de biocombustíveis
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 13.º — Títulos de biocombustíveis (TdB)
+
+1 - A incorporação no mercado de biocombustíveis é comprovada por títulos de biocombustíveis (TdB), válidos por dois anos.
+
+2 - (Revogado.)
+
+3 - Os TdB podem assumir as seguintes formas:
+
+a) «TdB-G», correspondente a um TdB emitido para um biocombustível substituto da gasolina;
+
+b) «TdB-D», correspondente a um TdB para um biocombustível substituto do gasóleo;
+
+c) «TdB-O», correspondente a um TdB para um biocombustível que substitua outro combustível, diferente da gasolina e do gasóleo.
+
+d) 'TdB-A', correspondente a um TdB para um biocombustível avançado.
+
+4 - Os TdB são transaccionáveis por produtores de biocombustíveis e incorporadores, nos termos do artigo 17.º
+
+5 - Os TdB são numerados aquando da sua emissão, cabendo à ENSE, E. P. E., definir, em regulamento próprio, os termos da respetiva numeração.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+###### Artigo 14.º — Emissão de TdB
+
+1 - A entidade emissora dos TdB é a ENSE, E. P. E.
+
+2 - Cada TdB é emitido ao produtor de biocombustíveis ou ao incorporador, tal como definidos nas alíneas v) e q) do artigo 2.º, respetivamente.
+
+3 - Caso as matérias-primas utilizadas na produção de biocombustíveis sejam as referidas no anexo IV ao presente decreto-lei, por cada Tep de biocombustíveis incorporados no consumo há lugar à emissão de 2 TdB.
+
+4 - (Revogado.)
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+7 - Para efeitos do disposto no n.º 3, as referidas matérias-primas são acompanhadas de documentação que comprove a sua natureza e origem, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da energia, do ambiente e da agricultura.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2016-75644170), em vigor a partir de 2016-11-04
+
+###### Artigo 15.º — Critérios de emissão de TdB
+
+1 - A emissão de TdB referida no artigo anterior depende da prévia verificação do cumprimento dos critérios de sustentabilidade fixados nos artigos 4.º, 6.º, 7.º e 8.º, a ser efetuada pela ECS.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 69/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2016-75644170), em vigor a partir de 2016-11-04
+
+###### Artigo 16.º — Prestação de informação para emissão de TdB
+
+1 - Os incorporadores devem fornecer a seguinte informação à ECS, com vista à emissão dos TdB:
+
+a) Certificado comprovativo do cumprimento dos critérios de sustentabilidade previstos nos artigos 4.º, 6.º, 7.º e 8.º emitido ao abrigo de um regime voluntário reconhecido pela Comissão Europeia, nos termos do disposto na Diretiva 2009/28/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, ou de toda a documentação necessária à verificação do cumprimento dos referidos critérios de sustentabilidade;
+
+b) Certificado comprovativo do cumprimento dos critérios de sustentabilidade previstos nos artigos 4.º, 6.º, 7.º e 8.º emitido pela entidade competente do Estado-Membro de origem, quando os biocombustíveis tenham sido produzidos num país com o qual exista um acordo bilateral prévio entre a respetiva entidade competente e a ECS para o reconhecimento mútuo dos seus esquemas de verificação do cumprimento dos critérios de sustentabilidade;
+
+c) Identificação do produtor do biocombustível e país de origem.
+
+2 - Os incorporadores devem fornecer ainda à ENSE, E. P. E., documentação comprovativa:
+
+a) Da qualidade dos ésteres metílicos de ácidos gordos (FAME) e etanol, a incorporar ou já incorporado, nos combustíveis fósseis, apresentando cópia do documento emitido por laboratório acreditado pelo Instituto Português de Acreditação, I. P., enquanto organismo nacional de acreditação, ou por organismo de acreditação signatário do acordo de reconhecimento mútuo relevante do ILAC (International Laboratory Accreditation Cooperation) que comprove, quando aplicável, a conformidade da qualidade do biocombustível com as especificações técnicas nacionais, ou, caso estas não existam, com as correspondentes normas europeias;
+
+b) No caso do biocombustível já incorporado nos combustíveis fósseis, documento, emitido pela entidade competente do Estado-Membro ou do país de origem onde é efetuada essa incorporação, atestando a quantidade de biocombustível incorporado.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 17.º — Prestação de informação para transacção de TdB
+
+1 - Os TdB podem ser transacionados, sendo que a transação de TdB não acompanhado do correspondente volume de biocombustível está sujeita à celebração de contrato escrito.
+
+2 - As transações previstas no número anterior devem ser comunicadas à ENSE, E. P. E., pelo vendedor/cedente, no prazo de cinco dias após a sua realização.
+
+3 - Os produtores, à exceção dos PPD, e os importadores de biocombustíveis e biolíquidos, informam a ENSE, E. P. E., numa base mensal e até ao dia 15 do mês seguinte a que disser respeito, do volume de biocombustíveis produzidos e/ou importados, do volume de biocombustíveis fornecidos aos incorporadores, bem como das quantidades por si introduzidas no consumo e exportadas, bem como do número de TdB transacionados.
+
+4 - Os incorporadores informam a ENSE, E. P. E., numa base mensal e até ao dia 15 do mês seguinte a que disser respeito, do volume de biocombustíveis adquirido, do número e tipo de TdB emitidos, das transações de TdB efetuadas, bem como das quantidades de combustíveis rodoviários colocados no mercado.
+
+5 - As comunicações referidas nos números anteriores são efetuadas no Balcão Único da Energia, sendo criada uma conta de TdB para cada um dos operadores económicos.
+
+6 - Os termos e condições de acesso e funcionamento da plataforma referida no número anterior, que será integrada no balcão único eletrónico referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, na sua redação atual, e acessível através do Portal ePortugal.gov.pt., são definidos em regulamento próprio, a emitir pela ENSE, E. P. E.
+
+7 - A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente decreto-lei, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+###### Artigo 18.º — Cancelamento dos TdB
+
+1 - A verificação do cumprimento da obrigação de incorporação prevista no n.º 1 do artigo 11.º é efetuada trimestralmente pela entidade fiscalizadora especializada para o setor energético.
+
+2 - Para efeitos do disposto no número anterior, os incorporadores apresentamos TdB comprovativos da obrigação de incorporação junto da entidade fiscalizadora especializada para o setor energético, até ao final do mês seguinte ao trimestre a que esta respeita.
+
+3 - A entidade fiscalizadora especializada para o setor energético, procede ao cancelamento dos TdB apresentados ao abrigo do n.º 2 do artigo 11.º e do número anterior.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), produz efeitos a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2016-75644170), em vigor a partir de 2016-11-04
+
+#### Secção III — Pequenos produtores dedicados
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 19.º — Pequenos produtores dedicados
+
+1 - Entende-se por pequeno produtor dedicado (PPD) a empresa que, cumulativamente:
+
+a) Tenha uma produção máxima anual de 5000 toneladas de biocombustível ou de outros combustíveis renováveis;
+
+b) Tenha a sua produção com origem no aproveitamento de, no mínimo, 80 % em massa de matérias-primas constantes do anexo IV ao presente decreto-lei, ou com recurso a processos e tecnologias avançadas ou em fase de demonstração, destinados à produção de biocombustíveis avançados e de outros combustíveis renováveis;
+
+c) Coloque toda a sua produção em frotas e consumidores cativos, devidamente identificados; e
+
+d) Cumpra os critérios de sustentabilidade previstos nos artigos 4.º, 6.º, 7.º e 8.º
+
+2 - Considera-se ainda PPD, a autarquia local ou o conjunto de autarquias, o serviço ou organismo dependente de uma ou mais autarquias locais e a empresa do sector empresarial local, tal como definida no artigo 2.º da Lei n.º 50/2012, de 31 de agosto, que, cumulativamente:
+
+a) Tenha uma produção máxima anual de 5000 toneladas de biocombustível ou de outros combustíveis renováveis;
+
+b) A sua produção tenha origem no aproveitamento de matérias residuais, sendo que pelo menos 80 % dessa produção deverá ter por base a utilização de óleos alimentares usados do setor doméstico e de hotelaria e restauração, a utilização de resíduos sólidos urbanos ou de águas residuais, bem como das matérias residuais constantes do anexo IV ao presente decreto-lei, desde que a sua proveniência se reporte à área geográfica da sua competência;
+
+c) Coloque toda a sua produção em frota própria ou, de forma não lucrativa, em frotas de autarquias locais ou dos respetivos serviços, de organismos ou empresas do setor empresarial local, ou, ainda, de entidades sem fins lucrativos.
+
+d) Cumpra os critérios de sustentabilidade previstos nos artigos 4.º, 6.º, 7.º e 8.º
+
+3 - O reconhecimento como PPD está sujeito a despacho conjunto do diretor geral de Energia e Geologia e do diretor geral da Autoridade Tributária e Aduaneira (AT), no qual são fixadas as quantidades de biocombustível objeto de isenção de ISP, bem como as demais condições específicas exigidas.
+
+4 - Os PPD beneficiam de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP) nos termos do CIEC.
+
+5 - Os procedimentos de reconhecimento como PPD e de aplicação da respetiva isenção de ISP são os constantes da portaria prevista no n.º 4 do artigo 90.º do CIEC.
+
+6 - Os PPD a que se refere o n.º 2 são equiparados a entreposto fiscal de transformação, desde que comuniquem por escrito à AT a sua intenção de produção, o que substitui o procedimento a que se referem os artigos 22.º e 23.º do CIEC, e ficam sujeitos a todas as obrigações adstritas aos entrepostos fiscais.
+
+7 - Os PPD devem comunicar à DGEG e à AT, até ao dia 20 dos meses de janeiro, abril, julho e outubro, as quantidades de biocombustíveis ou de outros combustíveis renováveis por si produzidas e consumidas no trimestre anterior, bem como a identificação dos consumidores e das respetivas quantidades que lhes tenham sido fornecidas.
+
+8 - Os TdB correspondentes aos biocombustíveis introduzidos no consumo pelos PPD que beneficiam de isenção de ISP revertem para a DGEG.
+
+9 - Por despacho do diretor-geral de Energia e Geologia e do diretor-geral da AT, poderá ser autorizada anualmente aos PPD, a venda do seu produto para fins distintos da utilização em frotas e consumidores cativos, não beneficiando contudo essas quantidades de isenção de ISP.
+
+10 - Para efeitos do número anterior, os PPD apresentam um requerimento à DGEG, indicando uma estimativa da quantidade anual de produto a fornecer não destinado à utilização em frotas e consumidores cativos, bem como o contrato promessa correspondente a essas quantidades efetuado com o consumidor cativo.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 19.º-A — Leilões de TdB
+
+1 - A DGEG pode colocar a leilão os TdB que lhe são devidos, correspondentes aos TdB identificados no n.º 8 do artigo anterior e no n.º 6 do artigo 24.º
+
+2 - Podem ser realizados até quatro leilões por ano, um em cada trimestre, devendo a publicitação e os procedimentos de cada leilão, a definir pela DGEG, serem lançados até ao final dos meses de março, julho, outubro e dezembro.
+
+3 - Os procedimentos de cada leilão referidos no número anterior são submetidos a consulta prévia da ERSE, que emite parecer no prazo máximo de 10 dias úteis.
+
+4 - A receita do leilão reverte:
+
+a) Em 50 % para a DGEG;
+
+b) Em 50 % para a ERS.
+
+5 - A receita prevista na alínea a) do número anterior destina-se exclusivamente ao desenvolvimento e à promoção da produção de biocombustíveis avançados e de outros combustíveis renováveis para transportes, designadamente no âmbito da implementação do Plano Nacional para a Promoção de Biorrefinarias, aprovado pela Resolução do Conselho de Ministros n.º 163/2017, de 21 de outubro.
+
+6 - Os avisos lançados pelo fundo referido na alínea a) do n.º 4 são elaborados com o apoio e consulta obrigatória da DGEG.
+
+7 - Os registos associados aos leilões de TdB são submetidos no Balcão Único da Energia.
+
+8 - A ERSE elabora um relatório relativo a cada leilão, o qual deve incluir, nomeadamente, as entidades que participaram, os TdB transacionados, os preços obtidos, as receitas do leilão e os respetivos vencedores.
+
+9 - Os relatórios referidos no número anterior devem ser enviados ao membro do Governo responsável pela área da energia no prazo máximo de 30 dias úteis e publicados no sítio na Internet da ERSE, em conformidade com o disposto no n.º 7 do artigo 17.º
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+### Capítulo IV — Coordenação e supervisão
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 20.º — Verificação do cumprimento dos critérios de sustentabilidade
+
+1 - As funções de ECS são desempenhadas pelo LNEG, competindo-lhe, designadamente:
+
+a) Criar, manter e gerir um sistema de registo do cumprimento dos critérios de sustentabilidade dos lotes de combustíveis e biolíquidos consumidos no território nacional;
+
+b) Proceder ao registo das entidades produtoras e importadoras de biocombustíveis e biolíquidos;
+
+c) Proceder à verificação do cumprimento dos critérios de sustentabilidade do biocombustível, nos termos do presente decreto-lei;
+
+d) Emitir um certificado comprovativo do cumprimento dos critérios de sustentabilidade dos biocombustíveis declarados pelos produtores e importadores, conducente à emissão de TdB;
+
+e) Criar e manter uma base de dados de elementos tipo, que integrem as matérias-primas e a sua origem;
+
+f) Manter a lista das entidades produtoras e incorporadoras no consumo de biocombustíveis devidamente atualizada;
+
+g) Realizar as inspeções necessárias à verificação dos requisitos que determinam a sustentabilidade dos biocombustíveis produzidos e importados junto dos operadores económicos inscritos na ECS, diretamente ou através de entidades contratadas para o efeito, comunicando à ENSE, E. P. E., o seu resultado;
+
+h) Comunicar à ENSE, E. P. E., até ao dia 20 de cada mês, o número de TdB a emitir a cada produtor e importador de biocombustíveis.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 21.º — Regulamento da Entidade Coordenadora
+
+1 - No prazo de 60 dias, após a publicação do presente decreto-lei, é aprovado o Regulamento de Funcionamento da Entidade Coordenadora do Cumprimento dos Critérios de Sustentabilidade, por portaria dos membros do Governo responsáveis pela área da energia, do ambiente e da agricultura.
+
+2 - No Regulamento referido no número anterior é previsto o pagamento de taxas pela verificação do cumprimento dos critérios de sustentabilidade.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 22.º — Supervisão e fiscalização
+
+1 - Compete à ERSE a supervisão do setor dos biocombustíveis, ao abrigo dos seus Estatutos, nos termos da qual elabora um relatório anual que envia ao membro do Governo responsável pela área da energia, que inclui, nomeadamente:
+
+a) A tipologia de biocombustíveis produzidos e importados;
+
+b) A comercialização de biocombustíveis, incluindo os leilões de TdB;
+
+c) Os preços médios praticados;
+
+d) A apreciação do nível de cumprimento das metas de incorporação de biocombustíveis.
+
+2 - Compete à DGEG supervisionar os procedimentos efetuados pela ECS.
+
+3 - Compete à ENSE, E. P. E., a fiscalização do cumprimento das disposições constantes no presente decreto-lei, sem prejuízo das competências próprias que a lei atribua a outras entidades.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 23.º — Comunicação à Comissão Europeia
+
+1 - A DGEG comunica à Comissão Europeia, de dois em dois anos, até 31 de dezembro, com início em 2017, as quantidades de biocombustíveis incorporadas no consumo nos dois anos anteriores.
+
+2 - Na comunicação referida no número anterior, as quantidades de biocombustíveis provenientes das matérias-primas e outros combustíveis enumerados no Anexo IV do presente decreto-lei são consideradas a dobrar.
+
+3 - A comunicação deve conter informação relativa ao desenvolvimento e partilha de biocombustíveis produzidos a partir de matérias-primas enumeradas no anexo IV ao presente decreto-lei, incluindo uma avaliação de recursos centrada nos aspetos de sustentabilidade relacionados com o efeito de substituição de produtos da alimentação humana e animal pela produção de biocombustível, tendo devidamente em conta os princípios da hierarquia de resíduos estabelecidos no Decreto-Lei n.º 178/2006, de 5 de setembro, na sua redação atual, e o princípio da utilização da biomassa em cascata levando em consideração as circunstâncias económicas e tecnológicas, regionais e locais, a manutenção do necessário teor de carbono nos solos e a qualidade dos solos e dos ecossistemas.
+
+4 - Esta comunicação deve ainda incluir um capítulo referente à análise da verificação do cumprimento dos requisitos de sustentabilidade previstos nos artigos 4.º, 6.º, 7.º e 8.º e à indicação das quantidades de biocombustíveis e de biolíquidos, em teor energético, que correspondem a cada uma das categorias de matérias-primas enumeradas no anexo III ao presente decreto-lei, bem como informação relativa às medidas tomadas para assegurar a fiabilidade e a proteção contra a fraude, de forma a prevenir que as matérias-primas sejam intencionalmente modificadas ou rejeitadas para poderem ser abrangidas pelo anexo IV ao presente decreto-lei.
+
+5 - Para cumprimento do disposto nos números anteriores, o LNEG, I. P., e a ENSE, E. P. E., disponibilizam à DGEG, até dia 10 de setembro de cada ano civil, as informações relevantes para a comunicação prevista no n.º 1.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+### Capítulo V — Compensações e regime contra-ordenacional
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 24.º — Compensações
+
+1 - O incumprimento das obrigações de apresentação dos TdB como comprovativo da incorporação de biocombustíveis nos termos do n.º 2 do artigo 11.º e do artigo 13.º determina o pagamento de compensações, por cada TdB em falta, no montante correspondente a duas vezes o valor mais elevado do TdB licitado, no conjunto dos três últimos leilões realizados pela DGEG.
+
+2 - Em alternativa ao disposto no número anterior, a entidade fiscalizadora especializada para o setor energético, mediante requerimento do incorporador, pode autorizar o cumprimento da obrigação de incorporação no trimestre seguinte, considerando-se a obrigação cumprida com a apresentação dos TdB na razão de 1,5 vezes por cada TdB em falta.
+
+3 - Para efeitos do número anterior, os incorporadores apresentam o requerimento junto da ENSE, E. P. E., no prazo de 10 dias úteis após a notificação para audiência prévia dos interessados, no âmbito do respetivo procedimento de verificação de incumprimento das metas, e caso os TdB em falta não sejam apresentados até ao final do trimestre seguinte nos termos do número anterior, é aplicado o disposto no n.º 1.
+
+4 - No caso de os incorporadores em incumprimento não regularizarem a respetiva obrigação de incorporação nos termos dos números anteriores, a entidade fiscalizadora especializada para o setor energético comunica o incumprimento à DGEG para determinação de suspensão da certificação de interveniente do Sistema Petrolífero Nacional, até à regularização da situação de incumprimento.
+
+5 - A determinação e liquidação do pagamento das compensações compete à ENSE, E. P. E.
+
+6 - No caso de aplicação do disposto no n.º 2, a ENSE, E. P. E., deve proceder ao cancelamento dos TdB em número equivalente ao número de TdB em falta, devendo os remanescentes reverter para a DGEG, que os pode colocar a leilão nos termos do artigo 19.º-A.
+
+7 - (Revogado.)
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2016-75644170), em vigor a partir de 2016-11-04
+
+###### Artigo 25.º — Contra-ordenações
+
+1 - Constitui contra-ordenação punível com coima de (euro) 500 a (euro) 3740, no caso de pessoas singulares, e de (euro) 2500 a (euro) 44 891, no caso de pessoas colectivas:
+
+a) (Revogada);
+
+b) A não prestação de informação no prazo estabelecido ou a prestação de informações incorretas ou incompletas no âmbito do artigo 17.º;
+
+c) (Revogada.)
+
+2 - Em função da gravidade da infração e da culpa do infrator, podem ser aplicadas sanções acessórias previstas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual.
+
+3 - Constituem contraordenações ambientais muito graves, nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a entrega de documentação ou certificados com informação incorreta, ou que tenham por base informação incorreta, para efeitos de comprovação do cumprimento dos critérios de sustentabilidade previstos nos artigos 4.º, 6.º, 7.º e 8.º
+
+4 - A condenação pela prática das contra-ordenações ambientais previstas no número anterior pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstracta aplicável.
+
+5 - Sempre que a gravidade da infracção o justifique, pode a autoridade competente, com a aplicação da coima, determinar a aplicação de sanções acessórias que se mostrem adequadas, nos termos do disposto na Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual.
+
+6 - A autoridade competente pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual.
+
+7 - A tentativa e a negligência são puníveis.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 69/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2016-75644170), em vigor a partir de 2016-11-04
+
+###### Artigo 26.º — Instrução dos processos
+
+A instrução dos processos de contraordenação, instaurados no âmbito do presente decreto-lei, e a aplicação das correspondentes coimas e sanções acessórias compete à entidade fiscalizadora especializada para o setor energético, sem prejuízo das competências próprias de outras entidades.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 27.º — Produto das compensações e das coimas
+
+1 - O produto das compensações previstas no presente decreto-lei é distribuído da seguinte forma:
+
+a) 70 % para o Fundo Ambiental;
+
+b) 30 % para o Fundo de Eficiência Energética.
+
+2 - O produto resultante da aplicação das coimas previstas no n.º 1 do artigo 25.º tem a seguinte distribuição:
+
+a) 60 % para o Estado;
+
+b) 20 % para a entidade instrutora;
+
+c) 20 % para a entidade que aplica a coima.
+
+3 - A afetação do produto das coimas resultante da aplicação das contraordenações ambientais previstas no n.º 3 do artigo 25.º é feita nos termos do artigo 73.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+### Capítulo VI — Disposições finais
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 28.º — Obrigação de incorporação até 2014
+
+1 - Sem prejuízo do disposto no artigo 11.º, os incorporadores estão obrigados, até ao final do ano de 2014, a incorporar um valor mínimo de 6,75 % em volume de biodiesel no gasóleo utilizado no sector dos transportes terrestres.
+
+2 - Entende-se por biodiesel o biocombustível substituto do gasóleo, cujas especificações se encontram previstas na norma EN 14214.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 29.º — Emissão de TdB-D
+
+1 - Até 31 de Dezembro 2014 pode ser objecto de emissão de TdB-D o biodiesel produzido por produtores de biocombustíveis até ao limite da quantidade de incorporação obrigatória prevista no n.º 1 do artigo anterior, sem prejuízo do disposto no n.º 1 do artigo 15.º e no artigo 32.º
+
+2 - A emissão de TdB-D depende da atribuição de quantidades máximas fixadas nos termos do número seguinte a requerimento do produtor de biocombustíveis que reúna as seguintes condições:
+
+a) Ter capacidade instalada superior a 20 000 t de biodiesel por ano;
+
+b) Ter-se constituído como entreposto fiscal de transformação até ao final Novembro do ano antecedente.
+
+3 - As quantidades máximas a atribuir aos produtores de biocombustíveis são definidas anualmente por despacho do DGEG, devendo:
+
+a) A cada produtor ser atribuída uma quantidade correspondente a metade da quantidade de biodiesel por si incorporada no consumo no ano anterior;
+
+b) A quantidade remanescente ser distribuída por todos os produtores que a ela se candidatem, de forma proporcional à capacidade instalada, não sendo considerado para este efeito os valores de capacidade instalada que superem as 120 000 t.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 30.º — Apresentação de requerimento
+
+1 - Até ao dia 15 de Dezembro do ano anterior à emissão, os produtores de biocombustíveis devem apresentar requerimento para atribuição das quantidades máximas para o ano seguinte, devendo apresentar documentação que comprove a sua capacidade instalada.
+
+2 - Até que sejam apuradas as quantidades incorporadas no ano anterior por cada produtor, é atribuída uma quantidade provisória correspondente a um duodécimo por cada mês da quantidade a si atribuída nesse ano.
+
+3 - Até ao final do mês de Abril de cada ano, os produtores de biocombustíveis podem abdicar total ou parcialmente das quantidades atribuídas mediante comunicação à DGEG, que procede à redistribuição dessa quota pelos restantes produtores, nos termos da alínea b) do n.º 3 do artigo anterior.
+
+4 - Caso os produtores de biocombustíveis não incorporem no mercado a quantidade de biodiesel atribuída nos termos do n.º 3 do artigo anterior, devem proceder ao pagamento de compensações nos termos do disposto no artigo 24.º
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 31.º — Preço do biodiesel
+
+1 - Até 31 de Dezembro de 2014 o biodiesel tem um preço máximo de venda, calculado nos termos de fórmula a definir por portaria do membro responsável pela área da energia que deve ter em conta, entre outros factores, índices de referência internacionais de gasóleo e de biodiesel.
+
+2 - Considera-se legítima a recusa de venda por parte dos produtores de biocombustíveis quando os custos de produção do biodiesel pela indústria nacional sejam, demonstradamente, superiores ao limite de preço de venda estabelecido no número anterior.
+
+3 - Os incorporadores não se encontram obrigados a incorporar os limites previstos no n.º 1 do artigo 28.º, no caso de, demonstradamente, os produtores de biocombustíveis não cumprirem os limites de preço de venda estabelecidos no n.º 1 e de volume de venda correspondentes à quota que lhe foi atribuída nos termos do n.º 3 do artigo 29.º
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 32.º — Pequenos produtores
+
+O limite previsto no n.º 1 do artigo 28.º não se aplica às quantidades de biocombustível produzido por PPD que se tenham constituído como EFT, sendo os TdB correspondentes emitidos nos termos do disposto no n.º 4 do artigo 19.º
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+###### Artigo 33.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 62/2006, de 21 de Março, com excepção dos artigos 6.º e 7.º
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+###### Artigo 34.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor a 1 de Janeiro de 2011, sem prejuízo do n.º 1 do artigo 15.º, que entra em vigor em 1 de Julho de 2011.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+Visto e aprovado em Conselho de Ministros de 16 de Julho de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Rui Carlos Pereira - José Manuel Santos de Magalhães - José António Fonseca Vieira da Silva - Rui Pedro de Sousa Barreiro - Paulo Jorge Oliveira Ribeiro de Campos - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
+
+Promulgado em 6 de Outubro de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 6 de Outubro de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+## Anexo I
+
+Regras para o cálculo do impacto dos biocombustíveis, outros biolíquidos e dos combustíveis fósseis de referência na formação de gases com efeito de estufa
+
+A - Valores típicos e valores por defeito para os biocombustíveis produzidos sem emissões líquidas de carbono devidas a alterações da afectação dos solos
+
+(ver documento original)
+
+B - Valores típicos e valores por defeito estimados para os futuros biocombustíveis que, em Janeiro de 2008, não existiam no mercado ou nele estavam presentes em quantidades pouco significativas, produzidos sem emissões líquidas de carbono devidas a alterações da afectação dos solos
+
+(ver documento original)
+
+C - Metodologia
+
+1 - As emissões de gases com efeito de estufa provenientes da produção e utilização de combustíveis para transportes, biocombustíveis e biolíquidos são calculadas pela seguinte fórmula:
+
+E = eec + el + ep + etd + eu - esca - eccs - eccr - eee
+
+em que:
+
+E são as emissões totais da utilização do combustível;
+
+eec são as emissões provenientes da extracção ou cultivo de matérias-primas;
+
+el é a contabilização anual das emissões provenientes de alterações do carbono armazenado devidas a alterações do uso do solo;
+
+ep são as emissões do processamento;
+
+etd são as emissões do transporte e distribuição;
+
+eu são as emissões do combustível na utilização;
+
+esca é a redução de emissões resultante da acumulação de carbono no solo através de uma gestão agrícola melhorada;
+
+eccs é a redução de emissões resultante da captura e fixação de carbono e armazenamento geológico de carbono;
+
+eccr é a redução de emissões resultante da captura e substituição de carbono;
+
+eee é a redução de emissões resultante da produção excedentária de electricidade na co-geração.
+
+Não são tidas em conta as emissões do fabrico de máquinas e equipamento.
+
+2 - As emissões de gases com efeito de estufa dos combustíveis, E, são expressas em gramas de equivalente de CO(índice 2) por MJ de combustível, gCO(índice 2eq)/MJ.
+
+3 - Em derrogação ao n.º 2, no caso dos combustíveis para transportes, os valores calculados em termos de gCO(índice 2eq)/MJ podem ser ajustados de modo a ter em conta as diferenças entre combustíveis em termos de trabalho útil fornecido, expressas em km/MJ, sendo efectuados esses ajustamentos quando for feita prova das diferenças em termos de trabalho útil fornecido.
+
+4 - A redução de emissões de gases com efeito de estufa dos biocombustíveis e biolíquidos é calculada pela seguinte fórmula:
+
+REDUÇÃO = (EF - EB)/EF
+
+em que:
+
+EB são as emissões totais do biocombustível ou biolíquido;
+
+EF são as emissões totais do combustível fóssil de referência.
+
+5 - Os gases com efeito de estufa considerados para efeitos do n.º 1 são o CO(índice 2), N(índice 2)O e CH(índice 4). Para efeitos do cálculo da equivalência de CO(índice 2), estes gases têm os seguintes valores:
+
+CO(índice 2) - 1;
+
+N(índice 2)O - 296;
+
+CH(índice 4) - 23.
+
+6 - As emissões provenientes da extracção ou cultivo de matérias-primas, eec, incluem as emissões do próprio processo de extracção ou cultivo, da colheita de matéria-prima, de resíduos e perdas e da produção de produtos químicos ou produtos utilizados na extracção ou cultivo. Não é considerada a captura de CO(índice 2) no cultivo de matérias-primas. Devem ser deduzidas as reduções certificadas de emissões de gases com efeito de estufa resultantes da queima nos locais de produção de petróleo em qualquer parte do mundo. As estimativas das emissões provenientes do cultivo podem ser feitas utilizando médias calculadas para áreas geográficas menores que as utilizadas no cálculo dos valores por defeito, em alternativa à utilização de valores reais.
+
+7 - A contabilização anual das emissões provenientes de alterações do carbono armazenado devidas a alterações do uso do solo, el, deve ser feita dividindo as emissões totais em quantidades iguais ao longo de 20 anos. Para o cálculo dessas emissões, aplica-se a seguinte fórmula:
+
+el = (CSR-CSA) x 3,664 x 1/20 x 1/P-eB
+
+em que:
+
+3,664 é o quociente obtido dividindo a massa molecular do CO(índice 2) (44,010 g/mol) pela massa molecular do carbono (12,011 g/mol);
+
+el, é a contabilização anual das emissões provenientes de alterações do carbono armazenado devidas a alterações do uso do solo [medidas em massa (gramas) de equivalente de CO2 por unidade de energia de biocombustíveis ou de biolíquidos (megajoules)]. Os "terrenos de cultura" (tal como definidos pelo PIAC) e os "terrenos de culturas perenes" são considerados um uso do solo;
+
+CSR, é o carbono armazenado por unidade de superfície associado ao uso de referência do solo (medido em massa (toneladas) de carbono por unidade de superfície, incluindo solo e vegetação). A referência de uso do solo deve ser o uso do solo em janeiro de 2008, ou 20 anos antes da obtenção da matéria-prima, consoante o que ocorrer mais tarde;
+
+CSA, é o carbono armazenado por unidade de superfície associado ao uso efetivo do solo (medido em massa (toneladas) de carbono por unidade de superfície, incluindo solo e vegetação). Nos casos em que o carbono armazenado se acumule durante mais de um ano, o valor atribuído ao CSA é o do armazenamento estimado por unidade de superfície passados vinte anos ou quando a cultura atingir o estado de maturação, consoante o que ocorrer primeiro;
+
+P, é a produtividade da cultura (medida em energia de biocombustível ou de biolíquido por unidade de superfície por ano); e eB, é a bonificação de 29 gCO2eq/MJ para os biocombustíveis ou os biolíquidos cuja biomassa é obtida a partir de solos degradados reconstituídos, nas condições previstas no n.º 8.
+
+8 - A bonificação de 29 gCO(índice 2eq)/MJ é atribuída se existirem elementos que atestem que o terreno em questão:
+
+a) Não era explorado para fins agrícolas ou outros em Janeiro de 2008; e
+
+b) Se inclui numa das seguintes categorias:
+
+i) Terreno gravemente degradado, incluindo terrenos anteriormente explorados para fins agrícolas;
+
+ii) Terreno fortemente contaminado.
+
+A bonificação de 29 gCO(índice 2eq)/MJ é aplicável durante um período de até 10 anos a partir da data de conversão do terreno em exploração agrícola, desde que um aumento regular do teor de carbono, bem como uma redução apreciável da erosão no que se refere ao incluído na categoria i), sejam assegurados e, para os terrenos incluídos na categoria ii), que a contaminação seja reduzida.
+
+9 - As categorias referidas na alínea b) do n.º 8 são definidas como se segue:
+
+a) «Terrenos gravemente degradados», terrenos que durante um período importante foram fortemente salinizados ou cujo teor em matérias orgânicas é particularmente reduzido e que sofreram uma erosão severa;
+
+b) «Terrenos fortemente contaminados», terrenos inaptos para o cultivo de géneros alimentícios ou de alimentos para animais devido à contaminação do solo.
+
+Esses terrenos devem incluir os terrenos objecto de uma decisão da Comissão nos termos do quarto parágrafo do n.º 4 do artigo 18.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0028" title="Link para Directiva da Comunidade Europeia">2009/28/EC</a>.
+
+10 - A Comissão prevê aprovar directrizes para o cálculo das reservas de carbono nos solos com base nas orientações de 2006 do PIAC para os inventários nacionais de gases com efeito de estufa - volume 4. As directrizes da Comissão servem de base para o cálculo das reservas de carbono nos solos para efeitos da presente directiva.
+
+11 - As emissões do processamento, ep, incluem as emissões do próprio processamento, de resíduos e perdas e da produção de produtos químicos ou produtos utilizados no processamento.
+
+Para contabilizar o consumo de electricidade não produzida na instalação de produção de combustível, considera-se que a intensidade das emissões de gases com efeito de estufa resultante da produção e distribuição dessa electricidade é igual à intensidade média das emissões resultante da produção e distribuição de electricidade numa dada região. Em derrogação a esta regra os produtores podem utilizar um valor médio para a electricidade produzida numa dada instalação de produção de electricidade, se essa instalação não estiver ligada à rede eléctrica.
+
+12 - As emissões do transporte e distribuição, etd, incluem as emissões provenientes do transporte e armazenamento de matérias-primas e materiais semiacabados e do armazenamento e distribuição de materiais acabados. As emissões provenientes do transporte e da distribuição a ter em conta no n.º 6 não estão abrangidas pelo presente número.
+
+13 - As emissões do combustível na utilização, eu, são consideradas nulas para os biocombustíveis e biolíquidos.
+
+14 - A redução de emissões resultante da captura e armazenamento geológico de carbono, eccs, que ainda não tenha sido tida em conta em ep, é limitada às emissões evitadas graças à captura e fixação do CO(índice 2) emitido directamente ligadas à extracção, transporte, processamento e distribuição de combustível.
+
+15 - A redução de emissões resultante da captura e substituição de carbono, eccr, é limitada às emissões evitadas graças à captura de CO(índice 2) cujo carbono provenha da biomassa e que seja utilizado para substituir o CO(índice 2) derivado de energia fóssil utilizada em produtos e serviços comerciais.
+
+16 - A redução de emissões resultante da produção excedentária de electricidade na co-geração, eee, é contabilizada se for relativa à produção excedentária de electricidade em sistemas de produção de combustível que utilizam a co-geração, excepto se o combustível utilizado para a co-geração for um co-produto que não seja um resíduo de culturas agrícolas. Ao contabilizar essa produção excedentária de electricidade, parte-se do princípio de que a dimensão da unidade de co-geração é a mínima necessária para esta fornecer o calor necessário à produção do combustível. A redução de emissões de gases com efeito de estufa associada a essa electricidade excedentária é considerada igual à quantidade de gases com efeito de estufa que seria emitida produzindo uma quantidade igual de electricidade numa central alimentada com o mesmo combustível que a unidade de co-geração.
+
+17 - Se um processo de produção de combustível produzir, em combinação, o combustível para o qual se calculam as emissões e um ou mais produtos diferentes (co-produtos), as emissões de gases com efeito de estufa são repartidas entre o combustível ou o seu produto intermédio e os co-produtos proporcionalmente ao seu teor energético (determinado pelo poder calorífico inferior no caso dos co-produtos com excepção da electricidade).
+
+18 - Para efeitos do cálculo referido no n.º 17, as emissões a repartir são eec + el + as fracções de ep, etd e eee que têm lugar até, inclusive, à fase do processo em que é produzido um co-produto. Se tiverem sido atribuídas emissões a co-produtos em fases anteriores do processo durante o ciclo de vida, é utilizada para esse fim a fracção dessas emissões atribuída ao produto combustível intermédio na última dessas fases, em lugar do total das emissões.
+
+No caso dos biocombustíveis e biolíquidos, todos os co-produtos, incluindo a electricidade, que não é incluída no âmbito do n.º 16, são considerados para efeitos deste cálculo, exceptuando os resíduos de culturas agrícolas, como palha, bagaço, peles, carolo e cascas de frutos secos. Para efeitos do cálculo, é atribuído um valor energético zero aos co-produtos que tenham um teor energético negativo.
+
+Considera-se que resíduos e detritos de culturas agrícolas, como palha, bagaço, peles, carolo e cascas de frutos secos, e os resíduos de processamento, incluindo glicerina não refinada, têm um valor zero de emissões de gases com efeito de estufa durante o ciclo de vida até à colheita de tais materiais.
+
+Para os combustíveis produzidos em refinarias, a unidade de análise para efeitos do cálculo referido no número anterior é a refinaria.
+
+19 - Para os biocombustíveis, para efeitos do cálculo referido no n.º 4, o valor do combustível fóssil de referência EF é o último valor disponível para as emissões médias reais provenientes da parte fóssil da gasolina e do gasóleo rodoviário consumidos na Comunidade, comunicadas nos termos da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0070" title="Link para Directiva da Comunidade Europeia">98/70/CE</a>. Na ausência de tais dados, o valor utilizado é 83,8 gCO(índice 2eq)/MJ.
+
+Para os biolíquidos utilizados para a produção de electricidade, para efeitos do cálculo referido no n.º 4, o valor do combustível fóssil de referência EF é 91 gCO(índice 2eq)/MJ.
+
+Para os biolíquidos utilizados para a produção de calor, para efeitos do cálculo referido no n.º 4, o valor do combustível fóssil de referência EF é 77 gCO(índice 2eq)/MJ.
+
+Para os biolíquidos utilizados para a co-geração, para efeitos do cálculo referido no n.º 4, o valor do combustível fóssil de referência EF é 85 gCO(índice 2eq)/MJ.
+
+D - Valores por defeito discriminados para os biocombustíveis e biolíquidos
+
+Valores por defeito discriminados para o cultivo: «eec», definido na parte C do presente anexo
+
+(ver documento original)
+
+Valores por defeito discriminados para o processamento (incluindo electricidade excedentária): «ep - eee», definido na parte C do presente anexo
+
+(ver documento original)
+
+Valores por defeito discriminados para o transporte e distribuição: «etd», definido na parte C do presente anexo
+
+(ver documento original)
+
+E - Estimativa dos valores por defeito discriminados para os futuros biocombustíveis e biolíquidos que, em Janeiro de 2008, não estavam no mercado ou nele estavam presentes em quantidades pouco significativas.
+
+Valores por defeito discriminados para o cultivo: «eec», definido na parte C do presente anexo
+
+(ver documento original)
+
+Valores por defeito discriminados para o processamento (incluindo electricidade excedentária): «ep - eee», definido na parte C do presente anexo
+
+(ver documento original)
+
+Valores por defeito discriminados para o transporte e distribuição: «etd», definido na parte C do presente anexo
+
+(ver documento original)
+
+Total para o cultivo, processamento, transporte e distribuição
+
+(ver documento original)
+
+> Nota: [Artigo 58.º, Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328) Os anexos i e ii do presente decreto-lei mantiveram-se em vigor até à publicação da Portaria n.º 110-A/2023, de 24 de abril, ou seja, até 24 de abril de 2023.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+## Anexo II — Teor energético dos combustíveis para transportes
+
+(lista não exaustiva)
+
+(ver documento original)
+
+> Nota: [Artigo 58.º, Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328) Os anexos i e ii do presente decreto-lei mantiveram-se em vigor até à publicação da Portaria n.º 110-A/2023, de 24 de abril, ou seja, até 24 de abril de 2023.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+## Anexo III
+
+Parte A. Estimativas provisórias de emissões de matérias-primas para biocombustíveis e biolíquidos decorrentes da alteração indireta do uso do solo (gCO2eq/MJ)
+
+A tabela seguinte apresenta estimativas de valores médios de emissões associadas à alteração indireta do uso do solo para grupos de matérias-primas agrícolas utilizadas na produção de biocombustíveis e biolíquidos. Estes valores médios representam uma média ponderada dos valores das matérias-primas modelados individualmente. A magnitude dos valores no presente anexo é sensível ao conjunto de pressupostos (como o tratamento de coprodutos, evolução dos rendimentos, teor de carbono e deslocação de outras produções) que são utilizados nos modelos económicos elaborados para a sua estimação. Por conseguinte, embora não seja possível caracterizar por completo a variância de incerteza associada a tais estimativas, foi realizada uma análise de sensibilidade dos resultados com base na variação aleatória de parâmetros chave, a chamada análise de Monte Carlo.
+
+(ver documento original)
+
+A variância acima incluída reflete 90 % dos resultados utilizando os percentis 5 e 95 resultantes da análise. O percentil 5 sugere um valor abaixo do qual foram feitas 5 % das observações (ou seja, 5 % do total dos dados utilizados deram resultados inferiores a 8, 4 e 33 gCO(índice 2eq)/MJ). O percentil 95 sugere um valor abaixo do qual foram feitas 95 % das observações (ou seja, 5 % do total dos dados utilizados deram resultados superiores a 16, 17 e 66 gCO(índice 2eq)/MJ).
+
+Parte B. Biocombustíveis e biolíquidos cujas emissões estimadas decorrentes da alteração indireta do uso do solo são consideradas nulas
+
+Os biocombustíveis e os biolíquidos produzidos a partir das categorias de matérias-primas a seguir indicadas são considerados como tendo emissões estimadas decorrentes da alteração indireta do uso do solo nulas:
+
+1) Matérias-primas não enumeradas na parte A do presente anexo.
+
+2) Matérias-primas cuja produção levou a uma alteração direta do uso do solo, ou seja, a uma alteração de uma das seguintes categorias de ocupação do solo do PIAC: terrenos florestais, terrenos de pastagem, zonas húmidas, povoações ou outros tipos de terrenos, para terrenos de cultura ou terrenos de culturas perenes. Nesse caso, deve ter sido calculado um valor de emissões decorrentes da alteração direta do uso do solo (el) conforme estabelecido no anexo I, parte C, ponto 7.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+## Anexo IV
+
+Parte A. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável
+
+a) Algas, se cultivadas em terra, em lagos naturais ou fotobiorreatores;
+
+b) Fração de biomassa de resíduos urbanos mistos, mas não de resíduos domésticos separados sujeitos a objetivos de reciclagem nos termos do artigo 11.º, n.º 2, alínea a), da Diretiva 2008/98/CE;
+
+c) Biorresíduos, tal como definidos no artigo 3.º, n.º 4, da Diretiva 2008/98/CE, das habitações, sujeitos à recolha seletiva tal como definida no artigo 3.º, n.º 11, dessa diretiva;
+
+d) Fração de biomassa de resíduos industriais não apropriada para uso na cadeia alimentar humana ou animal, incluindo material da venda a retalho ou por grosso e da indústria agroalimentar e da pesca e aquicultura, e excluindo as matérias-primas enumeradas na parte B do presente anexo;
+
+e) Palha de cereais ou de outros produtos agrícolas, desde que seja assegurado o cumprimentos dos critérios de sustentabilidade referentes ao uso dos solos;
+
+f) Estrume animal e lamas de depuração;
+
+g) Efluentes da produção de óleo de palma e cachos de frutos de palma vazios;
+
+h) Breu de tall oil;
+
+i) Glicerina não refinada;
+
+j) Bagaço;
+
+k) Bagaços de uvas e borras de vinho;
+
+l) Cascas de frutos secos;
+
+m) Peles;
+
+n) Carolos limpos dos grãos de milho;
+
+o) Fração de biomassa de resíduos provenientes da silvicultura e de indústrias conexas, tais como cascas, ramos, desbastes pré-comerciais, folhas, agulhas, copas das árvores, serradura, aparas, licor negro, licor de sulfito, lamas de fibra de papel, lenhina e tall oil;
+
+p) Outro material celulósico não alimentar, tal como definido na alínea t) do artigo 2.º do presente decreto-lei;
+
+q) Outro material lenho-celulósico, tal como definido na alínea u) do artigo 2.º do presente decreto-lei, exceto toros para serrar e madeira para folhear;
+
+r) Combustíveis líquidos e gasosos renováveis de origem não biológica para os transportes;
+
+s) Captura e utilização de carbono para fins de transporte, se a fonte de energia for renovável nos termos do artigo 2.º, segundo parágrafo, alínea a) da Diretiva 2009/28/CE;
+
+t) Bactérias, se a fonte de energia for renovável nos termos do artigo 2.º, segundo parágrafo, alínea a) da Diretiva 2009/28/CE;
+
+Parte B. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável
+
+a) Óleos alimentares usados, mediante a apresentação de documento(s) que:
+
+i) Comprove a autorização sanitária da importação daquela remessa de OAU, no quadro da Decisão (CE) 2016/1196 de 20 de julho;
+
+ii) Ateste a rastreabilidade dos OAU, desde a origem até ao seu destino final;
+
+b) Gorduras animais classificadas como de categorias 1 e 2 em conformidade com o Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho, que define regras sanitárias relativas a subprodutos animais e produtos derivados não destinados ao consumo humano e que revoga o Regulamento (CE) n.º 1774/2002 (Regulamento relativo aos subprodutos animais).»
+
+110984851
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2022-204502328), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8/2021 - Diário da República n.º 13/2021, Série I de 2021-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2021-154483167), em vigor a partir de 2021-01-21
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01

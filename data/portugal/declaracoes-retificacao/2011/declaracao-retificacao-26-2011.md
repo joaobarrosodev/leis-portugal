@@ -1,0 +1,214 @@
+---
+schema_version: '1.0'
+id: pt:dre:671578:por
+title: Declaração de Rectificação n.º 26/2011
+short_title: null
+summary: Rectifica a Portaria n.º 258/2011, de 14 de Julho, do Ministério da Educação e Ciência, que aprova o Regulamento
+  do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 2011-2012
+  e revoga a Portaria n.º 478/2010, de 9 de Julho, publicada no Diário da República, 1.ª série, n.º 134, de 14 de Julho de
+  2011
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros - Centro Jurídico
+proposing_entity: null
+official_number: 26/2011
+official_date: null
+publication_date: '2011-08-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 156/2011, Série I de 2011-08-16
+  number: '156'
+  series: I
+  supplement: null
+  pages: 4270 - 4272
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/08/15600/0427004272.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/26/2011/08/16/p/dre/pt/html
+  oj: null
+  dre: '671578'
+  dre_path: /dr/detalhe/declaracao-rectificacao/26-2011-671578
+  internal: pt:dre:671578:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2011-671578
+  metadata_url: https://data.dre.pt/eli/declrectif/26/2011/08/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2011-671578
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-08-16T00:00:00Z'
+integrity:
+  source_sha256: b4c2e40f6b7958c599c72489a73f417778799629f102916fb04690a65cc43938
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-26-671578.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Ensino Oficial
+- Concurso Nacional de Acesso e Ingresso
+- Prova de Ingresso
+- Direção Geral do Ensino Superior
+- Numerus Clausus
+- Ensino Superior
+- Matrícula
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/393-b/1999/10/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/393-b/1999/10/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/258/2011/07/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/258/2011/07/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/478/2010/07/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/478/2010/07/09/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 26/2011
+
+Ao abrigo das disposições conjugadas da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do [Decreto-Lei n.º 162/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2007-521257), de 3 de Maio, e dos n.os 2 e 3 do artigo 41.º do Código do Procedimento Administrativo, por vacatura dos cargos de director e director-adjunto, declara-se que a Portaria n.º 258/2011, de 14 de Julho, publicada no Diário da República, 1.ª série, n.º 134, de 14 de Julho de 2011, saiu com as seguintes inexactidões, que, mediante declaração da entidade emitente, assim se rectificam:
+
+1 - No Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 2011-2012, no artigo 10.º, que deveria terminar no n.º 7, foi, por lapso, incluído um n.º 8, cujo texto pertence ao artigo 12.º, pelo que onde se lê:
+
+«7 - Os candidatos às vagas do contingente especial para a Região Autónoma da Madeira podem ainda concorrer a vagas desse contingente respeitantes a cursos congéneres dos professados na Universidade da Madeira sem que concorram, antes daquelas, na lista ordenada de opções a que se refere o n.º 2 do artigo 20.º, às vagas dos cursos congéneres da referida Universidade, quando não reúnam, em relação a estes, as condições a que se referem as alíneas b) e d) do artigo 6.º
+
+8 - Considera-se como familiar de emigrante português, para efeitos da alínea b) do n.º 1, desde que cumpridos os requisitos fixados na referida alínea, a pessoa que com ele viva em união de facto ou economia comum, nos termos previstos em legislação específica.»
+
+deve ler-se:
+
+«7 - Os candidatos às vagas do contingente especial para a Região Autónoma da Madeira podem ainda concorrer a vagas desse contingente respeitantes a cursos congéneres dos professados na Universidade da Madeira sem que concorram, antes daquelas, na lista ordenada de opções a que se refere o n.º 2 do artigo 20.º, às vagas dos cursos congéneres da referida Universidade, quando não reúnam, em relação a estes, as condições a que se referem as alíneas b) e d) do artigo 6.º.»
+
+2 - No Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 2011-2012, no artigo 12.º, foi por lapso suprimido o n.º 5, pelo que onde se lê:
+
+«4 - O requerimento a que se refere o número anterior é objecto de análise casuística, competindo a decisão sobre o mesmo ao director-geral do Ensino Superior.»
+
+deve ler-se:
+
+«4 - O requerimento a que se refere o número anterior é objecto de análise casuística, competindo a decisão sobre o mesmo ao director-geral do Ensino Superior.
+
+5 - Considera-se como familiar de emigrante português, para efeitos da alínea b) do n.º 1, desde que cumpridos os requisitos fixados na referida alínea, a pessoa que com ele viva em união de facto ou economia comum, nos termos previstos em legislação específica.»
+
+3 - No n.º 1 do artigo 43.º do Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 2011-2012, onde se lê:
+
+«1 - Na 2.ª fase são colocadas a concurso:
+
+a) As vagas sobrantes da 1.ª fase do concurso (VS1);
+
+b) As vagas sobrantes dos concursos especiais a que se refere o [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de Outubro (VSCE);
+
+c) As vagas ocupadas na 1.ª fase do concurso em que não se concretizou a matrícula e inscrição (VSM), com excepção das vagas adicionais criadas nos termos do n.º 4 do artigo 8.º;
+
+d) As vagas libertadas em consequência da recolocação de estudantes colocados na 1.ª fase (VL), com excepção das vagas adicionais criadas nos termos do n.º 4 do artigo 8.º, depois de deduzidas:
+
+da) As vagas adicionais criadas nos termos do n.º 5 do artigo 38.º (VE);
+
+db) As vagas que, até ao início da seriação dos candidatos, sejam utilizadas nos termos do n.º 1 do artigo 60.º (VR).»
+
+deve ler-se:
+
+«1 - Na 2.ª fase são colocadas a concurso:
+
+a) As vagas sobrantes da 1.ª fase do concurso (VS1);
+
+b) As vagas sobrantes dos concursos especiais a que se refere o [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de Outubro (VSCE);
+
+c) As vagas ocupadas na 1.ª fase do concurso em que não se concretizou a matrícula e inscrição (VSM), com excepção das vagas adicionais criadas nos termos do n.º 4 do artigo 8.º;
+
+d) As vagas libertadas em consequência da recolocação de estudantes colocados na 1.ª fase (VL), com excepção das vagas adicionais criadas nos termos do n.º 4 do artigo 8.º;
+
+e) Às vagas referidas nas alíneas anteriores são deduzidas:
+
+ea) As vagas adicionais criadas nos termos do n.º 5 do artigo 38.º (VE);
+
+eb) As vagas que, até ao início da seriação dos candidatos, sejam utilizadas nos termos do n.º 1 do artigo 60.º (VR).»
+
+4 - No n.º 7 do artigo 43.º do Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 2011-2012, onde se lê:
+
+«7 - Os valores a que se referem as alíneas a) a f) do n.º 1 são divulgados, através de edital do director-geral do Ensino Superior, em simultâneo com a divulgação do resultado final da 2.ª fase do concurso.»
+
+deve ler-se:
+
+«7 - Os valores a que se referem as alíneas a) a e) do n.º 1 são divulgados, através de edital do director-geral do Ensino Superior, em simultâneo com a divulgação do resultado final da 2.ª fase do concurso.»
+
+5 - No n.º 1 do artigo 48.º do Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 2011-2012, onde se lê:
+
+«1 - Na 3.ª fase são colocadas a concurso:
+
+a) A totalidade das vagas sobrantes da 2.ª fase do concurso (VS2), salvo nos casos em que as instituições expressamente comuniquem, no prazo fixado nos termos do artigo 61.º, que não pretendem colocar estas vagas a concurso na 3.ª fase ou pretendem apenas colocar uma parte das mesmas;
+
+b) As vagas ocupadas na 2.ª fase do concurso em que não se concretizou a matrícula e inscrição (VSM2), com excepção das vagas adicionais criadas nos termos do n.º 4 do artigo 8.º;
+
+c) As vagas libertadas em consequência da recolocação na 3.ª fase de estudantes colocados nas 1.ª ou 2.ª fases (VL2), com excepção das vagas adicionais criadas nos termos do n.º 4 do artigo 8.º, depois de deduzidas:
+
+ca) As vagas adicionais criadas na 2.ª fase nos termos do n.º 5 do artigo 38.º (VE2);
+
+cb) As vagas que, até ao início da seriação dos candidatos, sejam utilizadas nos termos do n.º 1 do artigo 60.º (VR2).»
+
+deve ler-se:
+
+«1 - Na 3.ª fase são colocadas a concurso:
+
+a) A totalidade das vagas sobrantes da 2.ª fase do concurso (VS2), salvo nos casos em que as instituições expressamente comuniquem, no prazo fixado nos termos do artigo 61.º, que não pretendem colocar estas vagas a concurso na 3.ª fase ou pretendem apenas colocar uma parte das mesmas;
+
+b) As vagas ocupadas na 2.ª fase do concurso em que não se concretizou a matrícula e inscrição (VSM2), com excepção das vagas adicionais criadas nos termos do n.º 4 do artigo 8.º;
+
+c) As vagas libertadas em consequência da recolocação na 3.ª fase de estudantes colocados nas 1.ª ou 2.ª fases (VL2), com excepção das vagas adicionais criadas nos termos do n.º 4 do artigo 8.º;
+
+d) Às vagas referidas nas alíneas anteriores são deduzidas:
+
+da) As vagas adicionais criadas na 2.ª fase nos termos do n.º 5 do artigo 38.º (VE2);
+
+db) As vagas que, até ao início da seriação dos candidatos, sejam utilizadas nos termos do n.º 1 do artigo 60.º (VR2).»
+
+6 - No n.º 5 do artigo 48.º do Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 2011-2012, onde se lê:
+
+«5 - Os valores a que se referem as alíneas a) a e) do n.º 1 são divulgados, através de edital do director-geral do Ensino Superior, em simultâneo com a divulgação do resultado final da 3.ª fase do concurso.»
+
+deve ler-se:
+
+«5 - Os valores a que se referem as alíneas a) a d) do n.º 1 são divulgados, através de edital do director-geral do Ensino Superior, em simultâneo com a divulgação do resultado final da 3.ª fase do concurso.»
+
+Centro Jurídico, 10 de Agosto de 2011. - O Director, em substituição, nos termos do artigo 41.º do Código do Procedimento Administrativo, José Manuel Bento Ferreira de Almeida.

@@ -1,0 +1,164 @@
+---
+schema_version: '1.0'
+id: pt:dre:147842:por
+title: Decreto n.º 515/70
+short_title: null
+summary: Estabelece normas sobre o funcionamento dos vários órgãos colegiais de governo das Universidades e das Faculdades
+  e escolas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação Nacional - Direcção-Geral do Ensino Superior e das Belas-Artes
+proposing_entity: null
+official_number: 515/70
+official_date: null
+publication_date: '1970-11-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 254/1970, Série I de 1970-11-02
+  number: '254'
+  series: I
+  supplement: null
+  pages: 1637 - 1638
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/11/25400/16371638.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '147842'
+  dre_path: /dr/detalhe/decreto/515-1970-147842
+  internal: pt:dre:147842:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/515-1970-147842
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/515-1970-147842
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1970-11-02T00:00:00Z'
+integrity:
+  source_sha256: 69f9c5beba8287290450446e8e27efaf1e15f3f09521e00d0c2e960f7c88db0b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1970/DRE-1970-515-147842.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 515/70
+
+de 2 de Novembro
+
+Tem-se revelado inconveniente a carência quase total de normas escritas sobre o funcionamento dos vários órgãos colegiais de governo das Universidades e das Faculdades e escolas.
+
+Poderia optar-se por recomendar que cada um deles elaborasse o seu próprio regimento, remetendo-se, assim, para os seus reconhecidos poderes de auto-organização.
+
+A urgência de suprir a carência existente e a circunstância de ser necessário que o regime de tantos órgãos, idênticos na estrutura e na índole, seja também idêntico, assente, como está, em normas habitualmente adoptadas, leva o Governo a adoptar a via do regulamento único.
+
+Assim:
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º - 1. Nas reuniões do senado universitário a presidência cabe ao reitor da Universidade ou, na sua falta, a um dos vice-reitores, por ordem de nomeação; na falta destes, preside o professor catedrático mais antigo.
+
+2. Serve de secretário do senado o secretário da Universidade e, na sua falta, o funcionário que legalmente o substitua na secretaria.
+
+###### Art. 2.º O senado reúne na sala da Universidade para tal habitualmente destinada ou noutra que o reitor escolher e anunciar na convocação.
+
+###### Art. 3.º - 1. O senado não pode funcionar em primeira convocação sem que esteja presente a maioria dos seus membros.
+
+2. Se à hora fixada não houver quórum, o reitor, ou quem suas vezes fizer, fará lavrar no livro de actas um termo, assinado por ele e pelo secretário, indicando os nomes dos vogais que compareceram e dos que deixaram de o fazer com ou sem justificação.
+
+3. Não tendo havido número legal, será a reunião adiada e feita nova convocação, funcionando então o senado com qualquer número de membros.
+
+4. A comparência às reuniões do senado é obrigatória e prefere a qualquer outro serviço docente, sendo os vogais que a elas tenham de comparecer dispensados da regência de aulas e trabalhos práticos nos dias em que haja reuniões.
+
+5. A todos os vogais que faltarem sem motivo justificado a reunião do senado será descontado um dia de vencimentos.
+
+###### Art. 4.º - 1. As reuniões do senado são ordinárias e extraordinárias; as primeiras realizam-se durante o ano escolar, no principio de cada mês; as segundas quando for oportuno, por iniciativa do reitor ou a requerimento de cinco dos seus membros em que se indique o assunto a tratar.
+
+2. Os avisos convocatórios serão distribuídos com, pelo menos, três dias de antecedência, salvo caso de urgência.
+
+3. Na convocação devem mencionar-se os assuntos que no senado hajam de ser objecto de deliberação.
+
+###### Art. 5.º As reuniões do senado são sempre secretas, cumprindo aos seus membros conservar em sigilo as discussões havidas e as deliberações tomadas.
+
+###### Art. 6.º Ao reitor pertence convocar, adiar, abrir, suspender e encerrar as reuniões do senado, dar e retirar a palavra aos seus membros, dirigir as discussões e submeter os assuntos a votação.
+
+###### Art. 7.º A ordem do dia não pode ser alterada na reunião e as deliberações não podem ser tomadas antes de as reuniões do senado terem sido formalmente abertas pelo presidente nem depois de elas terem por este sido suspensas ou encerradas.
+
+###### Art. 8.º - 1. As votações do senado podem ser nominais, nos casos comuns, e secretas, quando se trate de assuntos de carácter pessoal.
+
+2. Nas votações, a chamada será feita pela ordem inversa das precedências, votando o presidente no final.
+
+3. Salvo quando a lei ou os regulamentos aplicáveis disponham diversamente, as deliberações do senado são tomadas à pluralidade absoluta de votos dos membros presentes.
+
+4. No caso de empate em votação nominal, o presidente tem, além do seu voto, o de qualidade; quando haja empate em votação secreta, proceder-se-á imediatamente a nova votação e, se o empate se mantiver, ficará o assunto adiado para a reunião seguinte; mas, se nesta ainda houver empate, proceder-se-á a votação nominal.
+
+5. Se no primeiro escrutínio não houver maioria absoluta de votos nem empate, proceder-se-á imediatamente a nova votação; se nesta suceder o mesmo, numa terceira votação bastará a maioria relativa.
+
+6. É lícito aos membros do senado escusar-se de votar; o voto com lista branca equivale, nas votações secretas, a escusa.
+
+###### Art. 9.º Os membros do senado não podem assistir a reuniões ou a parte daquelas em que, segundo a lei, não devam tomar parte, nem àquelas em que estejam directamente interessados ou que digam respeito a seus parentes consanguíneos ou afins até ao 2.º grau; em tais casos, os membros nessas condições não entram no cálculo do quórum.
+
+###### Art. 10.º - 1. Quando no decurso de uma reunião se verificar falta de número, a discussão da ordem do dia prosseguirá e só se não farão as votações se o presidente considerar justificadas as ausências e se não houver prejuízos graves no adiamento desses actos.
+
+2. Para efeito das votações adiadas, o senado poderá funcionar na reunião seguinte, conforme o disposto no n.º 3 do artigo 3.º
+
+###### Art. 11.º Esgotada a matéria da ordem do dia, pode o presidente conceder a palavra a qualquer dos membros do senado para tratar de assunto pertinente às suas atribuições e competência.
+
+###### Art. 12.º Compete à presidência providenciar por que os oradores se não afastem da matéria em discussão nem abordem assuntos estranhos às atribuições e competência do órgão eu perturbem os trabalhos, podendo, em caso de necessidade, retirar a palavra aos que, depois de advertidos, persistirem no procedimento irregular.
+
+###### Art. 13.º - 1. De tudo o que ocorrer nas reuniões do senado se lavrará acta em livro especial, numerado e rubricado pelo reitor, que assinará os termos de abertura e encerramento.
+
+2. A acta será redigida e subscrita pelo secretário e submetida pelo presidente a aprovação do senado na reunião seguinte, posto o que será por ele assinada.
+
+3. Na acta deve mencionar-se o que seja útil para a compreensão das discussões, bem como o teor das propostas e emendas apresentadas e das deliberações tomadas, omitindo-se sempre palavras, expressões eu frases inconvenientes que porventura hajam sido pronunciadas, velando o reitor por que assim se cumpria.
+
+4. Qualquer membro do senado tem o direito de fazer constar da acta o seu voto e os motivos que o determinaram, contanto que estes tenham sido expressos durante a discussão e a votação não haja sido secreta.
+
+###### Art. 14.º As disposições deste decreto são aplicáveis ao conselho universitário da Universidade Técnica de Lisboa e, com as necessárias adaptações, em tudo quanto não esteja diversamente regulado, às assembleias gerais das Universidades e aos conselhos das Faculdades e escolas superiores.
+
+Marcello Caetano - José Veiga Simão.
+
+**Promulgado em 21 de Outubro de 1970.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

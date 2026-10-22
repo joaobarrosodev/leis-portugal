@@ -1,0 +1,172 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:151323088:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-174875825",
+ "dre_path": "/dr/detalhe/portaria/288-2020-151323088",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-12-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174875876",
+    "174875877",
+    "174875878",
+    "174875879",
+    "174875880",
+    "174875881",
+    "174875882",
+    "174875883"
+   ]
+  },
+  {
+   "date": "2023-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205822994:por",
+     "title": "Portaria n.º 22/2023",
+     "published": "2023-01-06",
+     "dre_path": "/dr/detalhe/portaria/22-2023-205822994"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "174875876",
+    "174875877",
+    "174875878",
+    "205745645",
+    "174875880",
+    "174875881",
+    "174875882",
+    "174875883",
+    "174875884"
+   ]
+  },
+  {
+   "date": "2023-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215097643:por",
+     "title": "Portaria n.º 189/2023",
+     "published": "2023-07-04",
+     "dre_path": "/dr/detalhe/portaria/189-2023-215097643"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "174875876",
+    "174875877",
+    "174875878",
+    "215193303",
+    "174875880",
+    "174875881",
+    "174875882",
+    "174875883",
+    "174875884"
+   ]
+  }
+ ],
+ "fragments": {
+  "174875876": {
+   "fragment_id": "174875826",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 288/2020\n\nde 16 de dezembro\n\nSumário: Estabelece um regime excecional de incentivos à realização de atividade assistencial não realizada ou adiada por força da situação epidemiológica provocada pela COVID-19.\n\nÀ semelhança do sucedido em outros sistemas de saúde, a necessidade de prontidão, adequação e segurança da resposta dos estabelecimentos e serviços do Serviço Nacional de Saúde (SNS) à pandemia da doença COVID-19, tem conduzido ao adiamento de atividade assistencial não urgente que, pela sua natureza ou prioridade clínica, não implique risco de vida para os utentes, limitação do seu prognóstico e/ou limitação de acesso a tratamentos periódicos ou de vigilância.\n\nEste facto tem tido impacto nos tempos de espera para a realização de consultas referenciadas pelo Consulta a Tempo e Horas, e bem assim para a realização de cirurgias no âmbito do Sistema Integrado de Gestão de Inscritos para Cirurgia.\n\nAtenta a relevância da recuperação da atividade assistencial não realizada ou adiada, a Portaria n.º 171/2020, de 14 de julho, veio já prever, para o ano de 2020, um regime específico de incentivos.\n\nTal regime revelou resultados positivos, tendo-se observado, no final do verão e antes da segunda vaga da pandemia, uma retoma de níveis assistenciais de consulta e cirurgia alinhados com os verificados anteriormente.\n\nAssim, em face da situação epidemiológica atual, importa que se mantenha idêntico mecanismo de incentivos para os estabelecimentos hospitalares no ano de 2021, sem prejuízo de outros que igualmente se prevê venham a ser definidos no âmbito dos cuidados de saúde primários.\n\nAssim:\n\nAo abrigo do disposto no artigo 23.º e no n.º 1 do artigo 25.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de janeiro, na sua redação atual, e no n.º 5 do artigo 27.º-A da Lei n.º 15/2014, de 21 de março, na sua redação atual, manda o Governo, pela Ministra da Saúde, o seguinte:\n\n> Nota: [Artigo 3.º, Portaria n.º 189/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/189-2023-215097643) mantém em vigor, até 31 de março de 2024, o regime excecional de incentivo à realização da atividade assistencial não realizada ou adiada, previsto na presente Portaria.\n\n> Nota: [Artigo 3.º, Portaria n.º 22/2023 - Diário da República n.º 5/2023, Série I de 2023-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/22-2023-205822994) mantém em vigor, até 30 de junho de 2023, o regime excecional de incentivo à realização da atividade assistencial não realizada ou adiada, previsto na presente Portaria.\n\n> Nota: [Artigo 2.º, Portaria n.º 264/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/264-2021-174824636) mantém em vigor, em 2022, o regime excecional de incentivo à realização da atividade assistencial não realizada ou adiada, em função da evolução da situação epidemiológica provocada pela doença COVID-19, previsto na presente Portaria."
+  },
+  "174875877": {
+   "fragment_id": "174875827",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece um regime excecional de incentivos à realização de atividade assistencial não realizada ou adiada por força da situação epidemiológica provocada pela COVID-19."
+  },
+  "174875878": {
+   "fragment_id": "174875828",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO disposto nesta portaria aplica-se à produção adicional referente a atividade de primeiras consultas e de cirurgias realizadas no âmbito do Serviço Nacional de Saúde (SNS), conforme prevista no anexo ii à Portaria n.º 207/2017, de 11 de julho, na sua redação atual."
+  },
+  "174875879": {
+   "fragment_id": "174875829",
+   "type": 11,
+   "heading": "Artigo 3.º — Incentivos à realização de atividade assistencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Incentivos à realização de atividade assistencial\n\n1 - O limite máximo do valor a pagar às equipas por produção adicional referente a atividade de primeiras consultas, nos termos da alínea a) do n.º 6 do artigo 4.º do anexo ii da Portaria n.º 207/2017, de 11 de julho, na sua redação atual, é de 95 %.\n\n2 - O limite máximo do valor a pagar às equipas por produção adicional referente a atividade de cirurgias, nos termos da alínea b) do n.º 6 do artigo 4.º do anexo ii da referida Portaria n.º 207/2017, de 11 de julho, na sua redação atual, é de 75 %."
+  },
+  "174875880": {
+   "fragment_id": "174875830",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de aplicação\n\n1 - Os incentivos previstos no artigo anterior aplicam-se à produção adicional de primeiras consultas e de cirurgias necessárias para efeitos de atividade assistencial não realizada ou adiada por força da pandemia de COVID-19 e não prejudica o cumprimento da atividade assistencial base contratualizada.\n\n2 - A produção adicional referida no número anterior incide, sem prejuízo da garantia da prioridade clínica, sobre:\n\na) Todas as primeiras consultas não realizadas, em especial aquelas em que se verifique maior volume de doentes em lista de espera e maior grau de incumprimento dos tempos máximos de resposta garantidos (TMRG); e\n\nb) Todos os procedimentos cirúrgicos não realizados, com especial enfoque naqueles em que existe maior volume de doentes em lista de inscritos para cirurgia e em que se verifique maior grau de incumprimento dos TMRG.\n\n3 - A produção adicional prevista nos números anteriores é realizada nos termos da alínea a) do n.º 2 do artigo 1.º do anexo ii da Portaria n.º 207/2017, de 11 de julho, na sua redação atual, fora do horário de trabalho das equipas, nomeadamente aos fins de semana, com garantia de composição mínima necessária das referidas equipas."
+  },
+  "174875881": {
+   "fragment_id": "174875831",
+   "type": 11,
+   "heading": "Artigo 5.º — Acompanhamento e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acompanhamento e monitorização\n\nA Administração Central do Sistema de Saúde, I. P., acompanha e monitoriza a implementação do regime excecional constante da presente portaria, em articulação com as respetivas Administrações Regionais de Saúde, I. P."
+  },
+  "174875882": {
+   "fragment_id": "174875832",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor a 1 de janeiro de 2021."
+  },
+  "174875883": {
+   "fragment_id": "174875833",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nA presente portaria produz efeitos desde a data da sua entrada em vigor e até 31 de dezembro de 2021."
+  },
+  "205745645": {
+   "fragment_id": "174875829",
+   "type": 11,
+   "heading": "Artigo 3.º — Incentivos à realização de atividade assistencial",
+   "in_force_from": "2023-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 22/2023 - Diário da República n.º 5/2023, Série I de 2023-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/22-2023-205822994), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Incentivos à realização de atividade assistencial\n\n1 - O limite máximo do valor a pagar às equipas por produção adicional referente a atividade de primeiras consultas, nos termos da alínea a) do n.º 6 do artigo 4.º do anexo ii da Portaria n.º 207/2017, de 11 de julho, na sua redação atual, é de 90 %.\n\n2 - O limite máximo do valor a pagar às equipas por produção adicional referente a atividade de cirurgias, nos termos da alínea b) do n.º 6 do artigo 4.º do anexo ii da referida Portaria n.º 207/2017, de 11 de julho, na sua redação atual, é de 70 %.\n\n3 - Nos serviços organizados em Centros de Responsabilidade Integrados, as percentagens previstas nos números anteriores são, respetivamente, de 100 % e 80 %.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 22/2023 - Diário da República n.º 5/2023, Série I de 2023-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/22-2023-205822994), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-01-01"
+  },
+  "174875884": {
+   "fragment_id": "174875834",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Saúde, Marta Alexandra Fartura Braga Temido de Almeida Simões, em 14 de dezembro de 2020.\n\n113807206"
+  },
+  "215193303": {
+   "fragment_id": "174875829",
+   "type": 11,
+   "heading": "Artigo 3.º — Incentivos à realização de atividade assistencial",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 189/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/189-2023-215097643), em vigor a partir de 2023-07-05, produz efeitos a partir de 2023-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 22/2023 - Diário da República n.º 5/2023, Série I de 2023-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/22-2023-205822994), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Incentivos à realização de atividade assistencial\n\n1 - O limite máximo do valor a pagar às equipas por produção adicional referente a atividade de primeiras consultas, nos termos da alínea a) do n.º 6 do artigo 4.º do anexo ii da Portaria n.º 207/2017, de 11 de julho, na sua redação atual, é de 85 %.\n\n2 - O limite máximo do valor a pagar às equipas por produção adicional referente a atividade de cirurgias, nos termos da alínea b) do n.º 6 do artigo 4.º do anexo ii da referida Portaria n.º 207/2017, de 11 de julho, na sua redação atual, é de 65 %.\n\n3 - Nos serviços organizados em Centros de Responsabilidade Integrados, as percentagens previstas nos números anteriores são, respetivamente, de 100 % e 80 %.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 189/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/189-2023-215097643), em vigor a partir de 2023-07-05, produz efeitos a partir de 2023-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 22/2023 - Diário da República n.º 5/2023, Série I de 2023-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/22-2023-205822994), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-01-01"
+  }
+ }
+}

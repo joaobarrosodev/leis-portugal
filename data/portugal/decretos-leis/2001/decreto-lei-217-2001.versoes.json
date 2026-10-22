@@ -1,0 +1,417 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:375402:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-168293975",
+ "dre_path": "/dr/detalhe/decreto-lei/217-2001-375402",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-08-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "168293809",
+    "168293810",
+    "168293811",
+    "168293812",
+    "168293813",
+    "168293814",
+    "168293815",
+    "168293816",
+    "168293817",
+    "168293818",
+    "168293819",
+    "168293820",
+    "168293821",
+    "168293822",
+    "168293823",
+    "168293824",
+    "168293825",
+    "168293826",
+    "168293827",
+    "168293828",
+    "168293829",
+    "168293830",
+    "168293831",
+    "168293832",
+    "168293833",
+    "168293834",
+    "168293835",
+    "168293836",
+    "168293837",
+    "168293838",
+    "168293839",
+    "168293840",
+    "168293841",
+    "168293843"
+   ]
+  },
+  {
+   "date": "2002-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:300611:por",
+     "title": "Decreto-Lei n.º 79/2002",
+     "published": "2002-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/79-2002-300611"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "168293809",
+    "168293810",
+    "168293811",
+    "168293812",
+    "168293813",
+    "168293814",
+    "168293815",
+    "168293816",
+    "168293817",
+    "168293818",
+    "168293819",
+    "168293845",
+    "168293821",
+    "168293846",
+    "168293823",
+    "168293824",
+    "168293847",
+    "168293826",
+    "168293827",
+    "168293828",
+    "168293829",
+    "168293830",
+    "168293831",
+    "168293832",
+    "168293833",
+    "168293834",
+    "168293835",
+    "168293836",
+    "168293837",
+    "168293838",
+    "168293839",
+    "168293840",
+    "168293841",
+    "168293842",
+    "168293843"
+   ]
+  }
+ ],
+ "fragments": {
+  "168293809": {
+   "fragment_id": "168293976",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 217/2001\n\nde 3 de Agosto\n\nA Lei Orgânica do XIV Governo Constitucional, na redacção que lhe foi dada pelo Decreto-Lei n.º 267-A/2000, de 20 de Outubro, criou o Ministério da Juventude e do Desporto como estrutura responsável pela concepção, condução, execução e avaliação das políticas de juventude e do desporto, o qual passou a agregar entidades que, até então, desenvolviam a sua actividade sob a dependência de tutelas ministeriais diversas, frequentemente sujeitas a alterações ditadas por diferentes figurinos governamentais.\n\nO Ministério da Juventude e do Desporto surge fundamentalmente com a missão de elaborar e desenvolver as medidas normativas adequadas à prossecução das políticas de juventude e do desporto definidas pelo Governo, visando o estímulo à participação cívica e associativa e a promoção da integração social, cultural e económica dos jovens, bem como o fomento da prática desportiva, pilar estruturante do desenvolvimento da pessoa humana e, em particular, das camadas mais jovens da população.\n\nO novo Ministério foi, assim, dotado de um conjunto de estruturas que lhe conferem racionalidade, eficácia e eficiência na prossecução das suas atribuições. Nesta linha de orientação surge, desde logo, a criação de uma secretaria-geral, que se assume como um serviço fundamental de qualquer estrutura ministerial, enquanto órgão de apoio técnico, administrativo e jurídico dos gabinetes dos membros do Governo e dos órgãos e serviços do Ministério da Juventude e do Desporto. Desta forma, permite-se que o Ministério disponha de uma estrutura de apoio administrativo e de apoio técnico aos órgãos, serviços, comissões e grupos de trabalho, nas áreas de organização e gestão de recursos humanos, coordenação financeira, modernização e qualidade, relações públicas e assessoria jurídica.\n\nPor seu turno, a nova inspecção-geral, enquanto serviço central de inspecção, fiscalização e auditoria do Ministério da Juventude e do Desporto, assume a sua vocação enquanto instância de controlo do funcionamento dos organismos tutelados pelo Ministério, alargando o seu âmbito de acção às entidades privadas que beneficiem de apoios financeiros concedidos ou disponibilizados através daqueles organismos.\n\nTrata-se de uma realidade institucional nova com vastas competências, em consonância com as actuais exigências de um sistema de controlo interno do Estado, credível e eficaz, que recomenda o alargamento do âmbito de intervenção das inspecções administrativas para se garantir uma cobertura integral. Assim, o universo de intervenção da inspecção-geral vai dos serviços de administração directa do Estado, passando pelos institutos e empresas públicas, até às cooperativas, associações e outras instituições privadas.\n\nTendo em vista o reforço das competências do Ministério nas áreas que passa a tutelar, é criado o Instituto do Desporto de Portugal, o Instituto Nacional de Formação e Estudos do Desporto e o Gabinete de Gestão de Equipamentos Desportivos. O primeiro, herdeiro em larga medida das atribuições e competência do Instituto Nacional do Desporto, vê as suas atribuições reforçadas, em matéria de desporto, no domínio dos assuntos europeus e relações internacionais, em particular no que se refere às relações de Portugal com a União Europeia. Por sua vez, o segundo, sucessor das atribuições e competências do Centro de Estudos e Formação Desportiva, permanece enquanto organismo responsável pela realização de estudos com vista ao desenvolvimento desportivo integrado e pela execução da política de formação no âmbito do desporto, sendo as suas atribuições clarificadas. Por último, o terceiro surge como o organismo responsável por proporcionar as estruturas materiais necessárias à prática desportiva em todos os seus níveis.\n\nNo âmbito dos serviços já existentes, o Instituto Português da Juventude, organismo responsável pela concretização das medidas adoptadas no âmbito da política de juventude, para além de as suas atribuições serem esclarecidas, passa a agregar as competências do Gabinete de Apoio, Estudos e Planeamento. Por seu lado, o Gabinete do Serviço Cívico dos Objectores de Consciência mantém-se como o serviço responsável pelo planeamento, organização e coordenação, a nível nacional, do serviço cívico dos objectores de consciência.\n\nNo sentido de manter permanentemente um diálogo aberto e articulado com os vários parceiros e demais representantes da sociedade civil, mantiveram-se todas as estruturas de consulta e de apoio, que agora, e pela primeira vez, surgem alicerçadas numa estrutura ministerial única e estabilizada. Nesse sentido, estabelece-se que o Conselho Consultivo da Juventude seja o órgão de consulta do Ministério para a concertação das políticas de juventude, prevê-se que o Conselho Nacional Antidopagem seja o órgão responsável pela organização e coordenação, a nível nacional, das acções de combate à dopagem no desporto, consagra-se que o Conselho Nacional contra a Violência no Desporto seja o órgão que promova e coordene a adopção de medidas adequadas ao combate das manifestações de violência associadas ao desporto e à promoção da segurança das competições desportivas e, por último, que o Conselho Superior do Desporto seja o órgão responsável pelo acompanhamento da evolução do sistema desportivo.\n\nAssim:\n\nNos termos do disposto no n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "168293810": {
+   "fragment_id": "168293977",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Ministério da Juventude e do Desporto, adiante designado por MJD, é o departamento governamental responsável pela concepção, condução, execução e avaliação das políticas de juventude e de desporto definidas pelo Governo."
+  },
+  "168293811": {
+   "fragment_id": "168293978",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - São atribuições do MJD:\n\na) Elaborar as bases gerais das políticas de juventude e do desporto, visando o estímulo à participação cívica e associativa e a promoção da integração social, cultural e económica dos jovens e o fomento da prática desportiva, em articulação com os restantes departamentos governamentais responsáveis;\n\nb) Providenciar a adopção das medidas normativas adequadas à prossecução das políticas de juventude e do desporto definidas pelo Governo, bem como assegurar o estudo, elaboração e acompanhamento da execução das medidas normativas integradas nessa área;\n\nc) Assegurar o planeamento das acções e investimentos no domínio das políticas de juventude e do desporto em articulação com as acções dos fundos comunitários;\n\nd) Garantir que o desenvolvimento e a regulamentação da prática desportiva prossigam objectivos de ordem formativa, ética e sociocultural, tendo em conta o grau de evolução individual e a inserção na vida social;\n\ne) Desenvolver parcerias com as autarquias locais, entidades públicas e privadas e com o movimento associativo, com vista a dotar o País de uma rede harmoniosa de infra-estruturas e equipamentos desportivos, em particular de apoio à infância e juventude;\n\nf) Apoiar a investigação científica na área do desporto e da juventude;\n\ng) Promover o acesso dos jovens à informação e às novas tecnologias da sociedade da informação e do conhecimento;\n\nh) Estimular e apoiar a iniciativa, a criatividade e o espírito empreendedor dos jovens;\n\ni) Coordenar, a nível nacional, o serviço cívico dos objectores de consciência perante o serviço militar;\n\nj) Assegurar, no domínio das políticas de juventude e do desporto, as relações com a União Europeia, outros países e organizações internacionais, bem como a representação no quadro da celebração de acordos internacionais, de natureza bilateral ou multilateral, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros;\n\nl) Gerir os recursos humanos, financeiros e materiais afectos à prossecução das políticas do Ministério, sem prejuízo da competência própria de outros órgãos e departamentos administrativos;\n\nm) Promover a formação e a qualificação dos quadros necessários ao exercício das funções específicas nas áreas da juventude e do desporto;\n\nn) Dirigir os serviços de administração directa e exercer superintendência e tutela, nos termos da lei, sobre os organismos de administração indirecta integrados no âmbito deste Ministério.\n\n2 - As atribuições do MJD podem ser prosseguidas por organismos dotados de personalidade jurídica e sujeitos à sua superintendência e tutela."
+  },
+  "168293812": {
+   "fragment_id": "168293979",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura\n\nO MJD integra serviços de administração directa do Estado, organismos sob superintendência e tutela, órgãos consultivos e de apoio."
+  },
+  "168293813": {
+   "fragment_id": "168293980",
+   "type": 11,
+   "heading": "Artigo 4.º — Serviços de administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Serviços de administração directa do Estado\n\nSão serviços de administração directa do Estado, integrados no MJD:\n\na) A Secretaria-Geral;\n\nb) A Inspecção-Geral do Ministério da Juventude e do Desporto;\n\nc) O Gabinete do Serviço Cívico dos Objectores de Consciência."
+  },
+  "168293814": {
+   "fragment_id": "168293981",
+   "type": 11,
+   "heading": "Artigo 5.º — Organismos sob superintendência e tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Organismos sob superintendência e tutela\n\nEncontram-se sujeitos aos poderes de superintendência e tutela do Ministro da Juventude e do Desporto os seguintes organismos:\n\na) O Instituto do Desporto de Portugal;\n\nb) O Instituto Português da Juventude;\n\nc) O Instituto Nacional de Formação e Estudos do Desporto;\n\nd) O Gabinete de Gestão de Equipamentos Desportivos."
+  },
+  "168293815": {
+   "fragment_id": "168293982",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos consultivos e de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos consultivos e de apoio\n\nJunto do Ministro da Juventude e do Desporto funcionam os seguintes órgãos consultivos e de apoio:\n\na) O Conselho Consultivo da Juventude;\n\nb) O Conselho Nacional Antidopagem;\n\nc) O Conselho Nacional contra a Violência no Desporto;\n\nd) O Conselho Superior do Desporto."
+  },
+  "168293816": {
+   "fragment_id": "168293983",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços desconcentrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços desconcentrados\n\nO MJD pode prosseguir as suas atribuições através de serviços distritais desconcentrados, dirigidos por um delegado a nomear por despacho do Ministro da Juventude e do Desporto, sob proposta do dirigente máximo do respectivo serviço."
+  },
+  "168293817": {
+   "fragment_id": "168293984",
+   "type": 11,
+   "heading": "Artigo 8.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Secretaria-Geral\n\n1 - É criada a Secretaria-Geral (SG) do MJD.\n\n2 - A SG é o serviço incumbido do apoio técnico, administrativo e jurídico aos gabinetes dos membros do Governo e aos órgãos e serviços sem estruturas de apoio administrativo, bem como do apoio técnico aos órgãos, serviços, comissões e grupos de trabalho do Ministério, nas áreas de organização e gestão de recursos humanos, coordenação financeira, modernização e qualidade, relações públicas e assessoria jurídica.\n\n3 - Compete à SG:\n\na) Assegurar o apoio técnico-administrativo aos gabinetes dos membros do Governo das áreas da juventude e do desporto e aos órgãos, serviços, comissões e grupos de trabalho não dotados de estrutura de apoio administrativo;\n\nb) Coordenar e acompanhar a política de recursos humanos do Ministério;\n\nc) Colaborar em acções de recrutamento, selecção e formação de pessoal no âmbito do Ministério;\n\nd) Apoiar a elaboração e execução dos projectos de reorganização administrativa dos órgãos e serviços do Ministério;\n\ne) Coordenar a elaboração dos projectos de orçamento e dos planos de investimento e acompanhar a respectiva execução, em colaboração com os demais serviços e organismos;\n\nf) Elaborar e executar os orçamentos dos gabinetes dos membros do Governo e da SG;\n\ng) Elaborar estudos, projectos e informações no domínio das suas atribuições, por sua iniciativa ou a solicitação dos membros do Governo ou dos serviços e órgãos que integram o Ministério;\n\nh) Propor medidas de aperfeiçoamento, de modernização e inovação administrativas, conducentes à melhoria de funcionamento das estruturas e ao incremento da qualidade dos serviços prestados;\n\ni) Organizar e manter um centro de documentação nas áreas de interesse dos serviços por si apoiados, bem como cuidar da preservação do arquivo histórico do Ministério;\n\nj) Assegurar, em articulação com os demais órgãos e serviços, o atendimento ao público, o encaminhamento de pedidos, sugestões e reclamações e a prestação de informações pertinentes;\n\nl) Garantir um serviço geral de relações públicas e de protocolo;\n\nm) Assegurar a conservação e administração dos bens móveis e imóveis afectos aos gabinetes dos membros do Governo, à excepção dos atribuídos a outros serviços;\n\nn) Velar pela segurança de pessoas e bens e assegurar a manutenção e conservação das instalações da sede do Ministério;\n\no) Emitir pareceres, elaborar informações e proceder a estudos jurídicos sobre quaisquer assuntos que sejam submetidos à sua apreciação pelos membros do Governo do MJD;\n\np) Colaborar, sempre que solicitada, na elaboração de projectos de diplomas legais e verificar o conteúdo e o rigor técnico-jurídico dos projectos de diplomas que lhe sejam apresentados;\n\nq) Intervir nos procedimentos e nos processos contenciosos que digam respeito ao MJD, promovendo todas as diligências necessárias à sua tramitação;\n\nr) Exercer outras competências previstas no diploma que aprove a respectiva orgânica.\n\n4 - A SG articula a sua acção, nomeadamente nos domínios dos recursos humanos, da modernização administrativa, do planeamento e da gestão financeira e patrimonial com os competentes serviços centrais da Administração Pública.\n\n5 - A SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, equiparados, para todos os efeitos legais, respectivamente, a director-geral e a subdirector-geral."
+  },
+  "168293818": {
+   "fragment_id": "168293985",
+   "type": 11,
+   "heading": "Artigo 9.º — Inspecção-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inspecção-Geral\n\n1 - É criada a Inspecção-Geral do Ministério da Juventude e do Desporto (IGMJD).\n\n2 - A IGMJD é o serviço responsável pelo controlo e auditoria de gestão e legalidade dos órgãos, serviços e organismos do Ministério e pela fiscalização das entidades privadas que beneficiem de apoios financeiros concedidos ou disponibilizados através dos organismos tutelados pelo Ministério.\n\n3 - São competências da IGMJD:\n\na) Efectuar auditorias, sindicâncias, inquéritos e inspecções com o objectivo de apreciar a legalidade dos actos e avaliar o desempenho e a gestão administrativa e financeira dos serviços e organismos integrados no Ministério;\n\nb) Propor a instauração de processos disciplinares e instruir aqueles que forem determinados pelo Ministro da Juventude e do Desporto ou por ele avocados;\n\nc) Apreciar as queixas, reclamações e denúncias apresentadas por eventuais violações da legalidade e, em geral, as suspeitas de irregularidade na deficiência do funcionamento dos serviços;\n\nd) Verificar a realização, pelos órgãos, serviços e organismos do Ministério, dos objectivos definidos por programas de modernização administrativa;\n\ne) Participar no sistema de controlo interno;\n\nf) Assegurar as relações com o Tribunal de Contas e outros órgãos de controlo estratégico, bem como uma ligação funcional com as inspecções-gerais sectoriais e regionais e outros órgãos de controlo, nacionais e comunitários, no âmbito das funções que lhe são legalmente atribuídas, tendo em vista garantir a racionalidade e complementaridade das intervenções e conferir natureza sistémica ao controlo;\n\ng) Exercer outras funções que lhe sejam atribuídas por lei ou determinadas superiormente;\n\nh) Exercer outras competências previstas no diploma que aprove a respectiva orgânica.\n\n4 - A IGMJD é dirigida por um inspector-geral, coadjuvado por um subinspector-geral, equiparados, para todos os efeitos legais, respectivamente, a director-geral e a subdirector-geral."
+  },
+  "168293819": {
+   "fragment_id": "168293986",
+   "type": 11,
+   "heading": "Artigo 10.º — Gabinete do Serviço Cívico dos Objectores de Consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gabinete do Serviço Cívico dos Objectores de Consciência\n\n1 - O Gabinete do Serviço Cívico dos Objectores de Consciência (GSCOC) é o organismo responsável pelo planeamento, organização e coordenação, a nível nacional, do serviço cívico dos objectores de consciência.\n\n2 - Compete ao GSCOC:\n\na) Assegurar, a nível nacional, a organização e o funcionamento do serviço cívico dos objectores de consciência perante o serviço militar;\n\nb) Informar acerca do estatuto de objector de consciência e dos direitos e deveres dele decorrentes;\n\nc) Fornecer apoio técnico-administrativo, documental e logístico à Comissão Nacional de Objecção de Consciência;\n\nd) Elaborar o registo nacional dos objectores de consciência através de inscrição dos cidadãos que tenham obtido o respectivo estatuto;\n\ne) Elaborar e manter actualizado um ficheiro dos organismos disponíveis para receber prestadores de serviço cívico;\n\nf) Celebrar com as entidades interessadas protocolos respeitantes à prestação do serviço cívico;\n\ng) Promover a colocação, formação e acompanhamento dos objectores de consciência em cumprimento do serviço cívico;\n\nh) Fornecer toda a informação necessária e proceder à instrução dos processos de amparo, adiamento, interrupção e dispensa do serviço cívico;\n\ni) Exercer outras competências previstas no diploma que aprove a respectiva orgânica.\n\n3 - O GSCOC é dirigido por um director, equiparado para todos os efeitos legais a director-geral, incumbindo-lhe, para além do exercício das competências que lhe são conferidas por lei, representar o Gabinete na Comissão Nacional de Objecção de Consciência."
+  },
+  "168293820": {
+   "fragment_id": "168293987",
+   "type": 11,
+   "heading": "Artigo 11.º — Instituto do Desporto de Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Instituto do Desporto de Portugal\n\n1 - O Instituto do Desporto de Portugal (IDP) é o organismo responsável pelo apoio e fomento do desporto, colaborando na criação das condições técnicas e materiais para o seu desenvolvimento.\n\n2 - São atribuições do IDP:\n\na) Promover e apoiar técnica, material e financeiramente o desenvolvimento da prática desportiva, nas vertentes do rendimento e da recreação;\n\nb) Propor a adopção de programas com vista à generalização da prática desportiva, nomeadamente junto dos grupos dela especialmente carenciados;\n\nc) Propor medidas tendo em vista a prevenção e o combate à dopagem, à violência e à corrupção no desporto;\n\nd) Propor e pronunciar-se sobre a adopção de normas de segurança e de qualidade das infra-estruturas desportivas, no âmbito dos procedimentos de construção e de licenciamento de empreendimentos desportivos;\n\ne) Assegurar, no domínio do desporto, as relações com as organizações internacionais competentes e com a União Europeia, com excepção das matérias que se relacionem com a área da formação no desporto;\n\nf) Exercer outras atribuições previstas no diploma que aprove a respectiva orgânica.\n\n3 - O IDP é dirigido por um presidente, coadjuvado por dois vice-presidentes, equiparados, para todos os efeitos legais, respectivamente, a director-geral e a subdirector-geral."
+  },
+  "168293821": {
+   "fragment_id": "168293988",
+   "type": 11,
+   "heading": "Artigo 12.º — Instituto Português da Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instituto Português da Juventude\n\n1 - O Instituto Português da Juventude (IPJ) é o organismo responsável pela concretização das medidas adoptadas no âmbito da política de juventude.\n\n2 - São atribuições do IPJ:\n\na) Proceder à promoção e coordenação, no âmbito da política de juventude, das áreas das relações internacionais, estudos e projectos;\n\nb) Dinamizar a integração social dos jovens, com especial atenção para os jovens mais desfavorecidos e fragilizados, designadamente apoiando a sua participação em actividades sociais, culturais, educativas, artísticas, científicas, desportivas, políticas ou económicas;\n\nc) Apoiar as associações juvenis e de estudantes;\n\nd) Estimular a participação cívica dos jovens;\n\ne) Promover o acesso dos jovens à informação através da criação, desenvolvimento e promoção de sistemas integrados de informação;\n\nf) Promover, criar e desenvolver programas para jovens, nas áreas do voluntariado, da cooperação, da valorização dos tempos livres, do associativismo, da formação, da mobilidade e do intercâmbio, da saúde e da prevenção de comportamentos de risco nos jovens;\n\ng) Criar mecanismos de estímulo e apoio à capacidade de iniciativa, à criatividade e ao espírito empreendedor dos jovens;\n\nh) Exercer outras atribuições previstas no diploma que aprove a respectiva orgânica.\n\n3 - O IPJ é dirigido por uma comissão executiva composta por um presidente e por três vogais, equiparados, para todos os efeitos legais, respectivamente, a director-geral e a subdirector-geral."
+  },
+  "168293822": {
+   "fragment_id": "168293989",
+   "type": 11,
+   "heading": "Artigo 13.º — Instituto Nacional de Formação e Estudos do Desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Instituto Nacional de Formação e Estudos do Desporto\n\n1 - O Instituto Nacional de Formação e Estudos do Desporto (INED) é o organismo responsável pela realização de estudos com vista ao desenvolvimento desportivo integrado e pela execução da política de formação no âmbito do desporto.\n\n2 - São atribuições do INED:\n\na) Conceber, propor e acompanhar a execução da política de formação e actualização, na via não académica, dos diversos agentes desportivos;\n\nb) Realizar estudos, nomeadamente na área do direito comparado, sobre as medidas legislativas a adoptar com vista à reforma e actualização do sistema desportivo;\n\nc) Conceder apoios a projectos de investigação ou de formação complementar na área das ciências do desporto desenvolvidos no âmbito do ensino superior;\n\nd) Promover a realização de cursos, colóquios, conferências e seminários no âmbito das acções de formação de praticantes, técnicos e dirigentes desportivos, bem como colaborar na organização de iniciativas da mesma natureza promovidas por outras entidades e serviços;\n\ne) Conceber, produzir e difundir informação relativa ao sistema desportivo, designadamente no que respeita a materiais auxiliares de ensino, apoio à formação contínua e difusão de estudos;\n\nf) Assegurar, no domínio da formação no desporto, as relações com as organizações internacionais competentes e com a União Europeia;\n\ng) Exercer outras atribuições previstas no diploma que aprove a respectiva orgânica.\n\n3 - O INED é dirigido por um presidente, equiparado para todos os efeitos legais a director-geral."
+  },
+  "168293823": {
+   "fragment_id": "168293990",
+   "type": 11,
+   "heading": "Artigo 14.º — Gabinete de Gestão de Equipamentos Desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Gabinete de Gestão de Equipamentos Desportivos\n\n1 - O Gabinete de Gestão de Equipamentos Desportivos (GED) é o organismo responsável por proporcionar as estruturas materiais necessárias à prática desportiva em todos os seus níveis.\n\n2 - São atribuições do GED:\n\na) Assegurar a gestão das instalações desportivas integradas no Gabinete ou outras que, por lei ou por contrato, lhe venham a ser adstritas;\n\nb) Dinamizar a utilização das instalações referidas na alínea anterior, designadamente no âmbito da formação, estágio e aperfeiçoamento dos praticantes, técnicos e dirigentes desportivos;\n\nc) Celebrar com instituições congéneres, nacionais ou estrangeiras, públicas ou privadas, protocolos que permitam o intercâmbio e a utilização de outras instalações desportivas pelos agentes desportivos;\n\nd) Apoiar a realização das actividades desportivas de recreação que possam verificar-se nas instalações desportivas que lhe estão afectas;\n\ne) Apoiar acções de formação e investigação no domínio da gestão das infra-estruturas desportivas;\n\nf) Exercer outras atribuições previstas no diploma que aprove a respectiva orgânica.\n\n3 - O GED é dirigido por um presidente, equiparado para todos os efeitos legais a director-geral."
+  },
+  "168293824": {
+   "fragment_id": "168293991",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho Consultivo da Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselho Consultivo da Juventude\n\n1 - O Conselho Consultivo da Juventude (CCJ) é um órgão de consulta para a concertação das políticas de juventude.\n\n2 - O CCJ funciona na dependência directa do Ministro da Juventude e do Desporto.\n\n3 - A composição, competência, organização e modo de funcionamento do CCJ são definidos em diploma próprio."
+  },
+  "168293825": {
+   "fragment_id": "168293992",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho Nacional Antidopagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conselho Nacional Antidopagem\n\n1 - O Conselho Nacional Antidopagem (CNA) é o órgão responsável pela organização e coordenação, a nível nacional, das acções de prevenção e de combate à dopagem no desporto.\n\n2 - O CNA funciona junto do Ministro da Juventude e do Desporto.\n\n3 - A composição, competência, organização e modo de funcionamento do CNA são definidos em diploma próprio."
+  },
+  "168293826": {
+   "fragment_id": "168293993",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho Nacional contra a Violência no Desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conselho Nacional contra a Violência no Desporto\n\n1 - O Conselho Nacional contra a Violência no Desporto (CNVD) é o órgão que tem como objectivos promover e coordenar a adopção de medidas adequadas ao combate às manifestações de violência associadas ao desporto e de promoção da segurança dos eventos desportivos.\n\n2 - O CNVD funciona na dependência directa do Ministro da Juventude e do Desporto.\n\n3 - A composição, competência, organização e modo de funcionamento do CNVD são definidos em diploma próprio."
+  },
+  "168293827": {
+   "fragment_id": "168293994",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho Superior do Desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conselho Superior do Desporto\n\n1 - O Conselho Superior do Desporto (CSD) é o órgão responsável pelo acompanhamento da evolução do sistema desportivo.\n\n2 - O CSD funciona junto do Ministro da Juventude e do Desporto.\n\n3 - A composição, competência, organização e modo de funcionamento do CSD são definidos em diploma próprio."
+  },
+  "168293828": {
+   "fragment_id": "168293995",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime de pessoal\n\n1 - O regime jurídico do pessoal dos serviços de administração directa integrados no Ministério é o constante do presente diploma, de legislação específica e da legislação aplicável à função pública.\n\n2 - O regime jurídico do pessoal dos institutos públicos e demais entidades públicas sujeitas a superintendência e tutela do Ministro da Juventude e do Desporto é definido nos respectivos diplomas orgânicos, podendo ser determinada a aplicação de regras de direito privado."
+  },
+  "168293829": {
+   "fragment_id": "168293996",
+   "type": 11,
+   "heading": "Artigo 20.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Quadros de pessoal\n\n1 - O pessoal dirigente dos serviços e organismos do MJD referidos nos artigos 4.º e 5.º, com cargos de inspector-geral, subinspector-geral, director-geral e subdirector-geral ou equiparados, consta de mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Os lugares do restante pessoal dirigente constam dos respectivos diplomas orgânicos.\n\n3 - Os quadros do pessoal dos serviços criados, reestruturados ou fundidos pelo presente diploma são aprovados por portaria conjunta dos Ministros das Finanças, da Reforma do Estado e da Administração Pública e da Juventude e do Desporto."
+  },
+  "168293830": {
+   "fragment_id": "168293997",
+   "type": 11,
+   "heading": "Artigo 21.º — Equipas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Equipas de projecto\n\n1 - Por despacho do Ministro da Juventude e do Desporto podem ser criadas equipas de projecto de duração limitada, sem prejuízo do disposto no número seguinte.\n\n2 - As equipas de projecto que integrem elementos não afectos ao MJD, que envolvam a participação de individualidades não pertencentes à Administração Pública ou que, envolvendo-a, impliquem a atribuição de retribuição própria para o efeito, são constituídas por despacho conjunto dos Ministros das Finanças, da Reforma do Estado e da Administração Pública e da Juventude e do Desporto.\n\n3 - Os despachos previstos nos números anteriores devem prever a constituição das equipas, a nomeação dos respectivos coordenadores, o período de duração, os objectivos a prosseguir, o respectivo orçamento e as retribuições dos seus membros, quando a elas haja lugar."
+  },
+  "168293831": {
+   "fragment_id": "168293998",
+   "type": 11,
+   "heading": "Artigo 22.º — Serviços Sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Serviços Sociais\n\nOs funcionários e agentes do MJD ficam abrangidos pelos Serviços Sociais da Presidência do Conselho de Ministros, cabendo à SG do MJD e aos serviços autónomos assegurar as responsabilidades daí decorrentes."
+  },
+  "168293832": {
+   "fragment_id": "168293999",
+   "type": 11,
+   "heading": "Artigo 23.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transição de pessoal\n\n1 - O pessoal dos serviços e organismos reestruturados ou fundidos pelo presente diploma transita para os quadros de pessoal dos serviços que sucederem nas respectivas atribuições e competências, nos termos do Decreto-Lei n.º 535/99, de 13 de Dezembro, e dos diplomas orgânicos dos serviços.\n\n2 - Ao pessoal dos serviços do MJD que, nos termos do disposto no número anterior, transite para carreira e categoria diversa, é contado o tempo de serviço prestado, para efeitos de progressão, caso a transição para a escala indiciária da nova categoria se faça em escalão a que corresponde índice remuneratório igual.\n\n3 - O cargo de chefe de repartição dos quadros de pessoal dos serviços referidos no artigo 5.º é extinto, sendo os respectivos titulares reclassificados de acordo com o disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho."
+  },
+  "168293833": {
+   "fragment_id": "168294000",
+   "type": 11,
+   "heading": "Artigo 24.º — Situações pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Situações pendentes\n\n1 - Mantêm-se em vigor os concursos de pessoal abertos até à data da entrada em vigor das portarias que aprovam os quadros de pessoal nos termos do disposto no artigo 20.º, n.º 3, sendo que a transição do pessoal aprovado nesses concursos para as vagas que se mantenham nos novos quadros se opera de acordo com o disposto no n.º 2 do artigo 11.º do Decreto-Lei n.º 535/99, de 13 de Dezembro.\n\n2 - O pessoal que à data da entrada em vigor do presente diploma se encontre em regime de estágio mantém-se nessa situação até à conclusão do mesmo.\n\n3 - O pessoal que se encontra em situação de licença mantém os direitos que detinha à data de início da mesma, nos termos da lei aplicável.\n\n4 - O pessoal que se encontra em regime de destacamento, requisição ou comissão de serviço mantém-se em idêntico regime, nos termos que vierem a ser determinados nos diplomas previstos no artigo 32.º, n.º 1, sem prejuízo do disposto no artigo 25.º, sendo a transição desse pessoal para os quadros de pessoal dos serviços e organismos reestruturados ou fundidos pelo presente diploma feita nos termos do estipulado no Decreto-Lei n.º 535/99, de 13 de Dezembro."
+  },
+  "168293834": {
+   "fragment_id": "168294001",
+   "type": 11,
+   "heading": "Artigo 25.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Pessoal dirigente\n\n1 - As comissões de serviço dos directores-gerais, subdirectores-gerais ou equiparados dos órgãos, serviços e organismos do MJD cessam na data da entrada em vigor do presente diploma, mantendo-se os mesmos no exercício de funções de gestão corrente até à nomeação dos novos titulares dos cargos.\n\n2 - As comissões de serviço dos directores de serviços e dos chefes de divisão ou equiparados, mantêm-se válidas até à entrada em vigor dos diplomas orgânicos dos serviços, sem prejuízo do respectivo termo.\n\n3 - Os lugares de inspector-geral, subinspector-geral, director-geral e subdirector-geral ou equiparados dos órgãos, serviços e organismos constantes do mapa anexo ao presente diploma podem ser providos antes de publicados os respectivos diplomas orgânicos."
+  },
+  "168293835": {
+   "fragment_id": "168294002",
+   "type": 11,
+   "heading": "Artigo 26.º — Regulamentos em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regulamentos em vigor\n\nA entrada em vigor do presente diploma não prejudica a manutenção dos regulamentos existentes aprovados nos termos da legislação aplicável, designadamente em matéria de estágio para ingresso nas carreiras, programas de provas e horários de trabalho."
+  },
+  "168293836": {
+   "fragment_id": "168294003",
+   "type": 11,
+   "heading": "Artigo 27.º — Sucessão em direitos e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Sucessão em direitos e obrigações\n\n1 - Os direitos, posições contratuais e obrigações de que sejam titulares os serviços ou organismos reestruturados, fundidos ou extintos transferem-se, sem qualquer formalidade, para os que lhes sucedam nas respectivas atribuições e competências.\n\n2 - Sem prejuízo de regras especiais constantes dos diplomas de aprovação da nova orgânica dos serviços ou organismos que recebam as atribuições dos serviços ou organismos extintos pelo presente diploma, àqueles ficam consignadas as verbas orçamentais que a estes estavam destinadas pelo Orçamento do Estado no presente ano económico, bem como o património que lhes estava afecto."
+  },
+  "168293837": {
+   "fragment_id": "168294004",
+   "type": 11,
+   "heading": "Artigo 28.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Património\n\n1 - A gestão do património do Estado afecto aos gabinetes dos membros do Governo do MJD é transferida para a SG deste Ministério.\n\n2 - O disposto no número anterior só produz efeitos decorrido o prazo de 120 dias contado da data da entrada em vigor do diploma que aprova a lei orgânica da SG do MJD."
+  },
+  "168293838": {
+   "fragment_id": "168294005",
+   "type": 11,
+   "heading": "Artigo 29.º — Receitas próprias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Receitas próprias\n\nOs serviços e organismos do MJD podem proceder à venda de publicações e outros trabalhos por si editados, bem como à prestação de serviços a outras entidades, constituindo o seu produto receita própria a inscrever na adequada subdivisão dos orçamentos respectivos."
+  },
+  "168293839": {
+   "fragment_id": "168294006",
+   "type": 11,
+   "heading": "Artigo 30.º — Providências orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Providências orçamentais\n\n1 - Até à entrada em vigor dos diplomas referidos no artigo 32.º, os encargos referentes aos serviços e organismos aí mencionados continuam a ser processados nos termos da actual expressão orçamental.\n\n2 - São efectuadas as alterações orçamentais necessárias à execução do presente diploma decorrentes da criação da SG e da IGMJD a que se referem os artigos 4.º, 8.º e 9.º, nos termos da lei do Orçamento do Estado.\n\n3 - O disposto no número anterior não impede o provimento, desde já, dos lugares de pessoal dirigente criados pelo presente diploma, sendo os encargos suportados pelo Gabinete do Ministro da Juventude e do Desporto."
+  },
+  "168293840": {
+   "fragment_id": "168294007",
+   "type": 11,
+   "heading": "Artigo 31.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Extinção\n\nCom a entrada em vigor dos diplomas que aprovam as leis orgânicas dos serviços e organismos que lhes sucedem nas atribuições e competências, são extintos:\n\na) O Instituto Nacional do Desporto;\n\nb) O Centro de Estudos e de Formação Desportiva;\n\nc) O Complexo de Apoio às Actividades Desportivas;\n\nd) O Gabinete de Apoio, Estudos e Planeamento."
+  },
+  "168293841": {
+   "fragment_id": "168294008",
+   "type": 11,
+   "heading": "Artigo 32.º — Legislação orgânica complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Legislação orgânica complementar\n\n1 - Os diplomas que aprovam as leis orgânicas dos serviços ou organismos criados, reestruturados ou fundidos pelo presente diploma devem ser aprovados no prazo de 120 dias após a entrada em vigor do presente diploma.\n\n2 - Até à entrada em vigor dos diplomas referidos no número anterior, os serviços e organismos continuam a reger-se pelas disposições normativas que lhes são aplicáveis."
+  },
+  "168293843": {
+   "fragment_id": "168294010",
+   "type": 14,
+   "heading": "Anexo — (mapa a que se refere o artigo 20.º, n.º 1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (mapa a que se refere o artigo 20.º, n.º 1)\n\n(ver mapa no documento original)"
+  },
+  "168293845": {
+   "fragment_id": "168293987",
+   "type": 11,
+   "heading": "Artigo 11.º — Instituto do Desporto de Portugal",
+   "in_force_from": "2002-03-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 79/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2002-300611), em vigor a partir de 2002-03-31"
+   ],
+   "markdown": "###### Artigo 11.º — Instituto do Desporto de Portugal\n\n1 - O Instituto do Desporto de Portugal (IDP) é o organismo responsável pelo apoio e fomento do desporto, colaborando na criação das condições técnicas e materiais para o seu desenvolvimento.\n\n2 - São atribuições do IDP:\n\na) Promover e apoiar técnica, material e financeiramente o desenvolvimento da prática desportiva, nas vertentes do rendimento e da recreação;\n\nb) Propor a adopção de programas com vista à generalização da prática desportiva, nomeadamente junto dos grupos dela especialmente carenciados;\n\nc) Propor medidas tendo em vista a prevenção e o combate à dopagem, à violência e à corrupção no desporto;\n\nd) Propor e pronunciar-se sobre a adopção de normas de segurança e de qualidade das infra-estruturas desportivas, no âmbito dos procedimentos de construção e de licenciamento de empreendimentos desportivos;\n\ne) Assegurar, no domínio do desporto, as relações com organizações internacionais competentes e com a União Europeia, com excepção das matérias que se relacionam com as áreas da cooperação e formação no desporto, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nf) Exercer outras atribuições previstas no diploma que aprove a respectiva orgânica.\n\n3 - O IDP é dirigido por um presidente, coadjuvado por dois vice-presidentes, equiparados, para todos os efeitos legais, respectivamente, a director-geral e a subdirector-geral.\n\n> Alterado pelo/a [Decreto-Lei n.º 79/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2002-300611), em vigor a partir de 2002-03-31"
+  },
+  "168293846": {
+   "fragment_id": "168293989",
+   "type": 11,
+   "heading": "Artigo 13.º — Instituto Nacional de Formação e Estudos do Desporto",
+   "in_force_from": "2002-03-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 79/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2002-300611), em vigor a partir de 2002-03-31"
+   ],
+   "markdown": "###### Artigo 13.º — Instituto Nacional de Formação e Estudos do Desporto\n\n1 - O Instituto Nacional de Formação e Estudos do Desporto (INED) é o organismo responsável pela realização de estudos com vista ao desenvolvimento desportivo integrado e pela execução da política de formação no âmbito do desporto.\n\n2 - São atribuições do INED:\n\na) Conceber, propor e acompanhar a execução da política de formação e actualização, na via não académica, dos diversos agentes desportivos;\n\nb) Realizar estudos, nomeadamente na área do direito comparado, sobre as medidas legislativas a adoptar com vista à reforma e actualização do sistema desportivo;\n\nc) Conceder apoios a projectos de investigação ou de formação complementar na área das ciências do desporto desenvolvidos no âmbito do ensino superior;\n\nd) Promover a realização de cursos, colóquios, conferências e seminários no âmbito das acções de formação de praticantes, técnicos e dirigentes desportivos, bem como colaborar na organização de iniciativas da mesma natureza promovidas por outras entidades e serviços;\n\ne) Conceber, produzir e difundir informação relativa ao sistema desportivo, designadamente no que respeita a materiais auxiliares de ensino, apoio à formação contínua e difusão de estudos;\n\nf) Assegurar, nos domínios da cooperação e formação no desporto, as relações com a União Europeia, com as organizações internacionais competentes e com outros países, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\ng) Exercer outras atribuições previstas no diploma que aprove a respectiva orgânica.\n\n3 - O INED é dirigido por um presidente, equiparado para todos os efeitos legais a director-geral.\n\n> Alterado pelo/a [Decreto-Lei n.º 79/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2002-300611), em vigor a partir de 2002-03-31"
+  },
+  "168293847": {
+   "fragment_id": "168293992",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho Nacional Antidopagem",
+   "in_force_from": "2002-03-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 79/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2002-300611), em vigor a partir de 2002-03-31"
+   ],
+   "markdown": "###### Artigo 16.º — Conselho Nacional Antidopagem\n\n1 - O Conselho Nacional Antidopagem (CNAD) é o órgão responsável pela organização e coordenação, a nível nacional, das acções de prevenção e de combate à dopagem no desporto.\n\n2 - O CNAD funciona junto do Ministro da Juventude e do Desporto.\n\n3 - A composição, competência, organização e modo de funcionamento do CNAD são definidos em diploma próprio.\n\n> Alterado pelo/a [Decreto-Lei n.º 79/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2002-300611), em vigor a partir de 2002-03-31"
+  },
+  "168293842": {
+   "fragment_id": "168294009",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Maio de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins - José Manuel Lello Ribeiro de Almeida.\n\nPromulgado em 19 de Julho de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Julho de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:609781:por
+title: Despacho Normativo n.º 47/89
+short_title: null
+summary: Cria no Colégio Internato dos Carvalhos o curso complementar técnico-profissional de Biotecnologia
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 47/89
+official_date: null
+publication_date: '1989-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 129/1989, Série I de 1989-06-06
+  number: '129'
+  series: I
+  supplement: null
+  pages: 2218 - 2219
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/06/12900/22182219.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '609781'
+  dre_path: /dr/detalhe/despacho-normativo/47-1989-609781
+  internal: pt:dre:609781:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-1989-609781
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-1989-609781
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-10-16T00:00:00Z'
+integrity:
+  source_sha256: f8628c2ab227b3840543b9d54387eaa16fed1ee8318fee9705f95567f70ad358
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-47-609781.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:226439:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 47/89
+
+Considerando que o [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611) prevê a realização de experiências pedagógicas em estabelecimentos de ensino particular que assim o solicitem e ofereçam as necessárias garantias;
+
+Considerando que o ensino particular e cooperativo tem dado um contributo importante na qualificação profissional dos jovens, devido às suas características específicas que o vocacionam para a inovação pedagógica;
+
+Considerando a necessidade de fornecer aos jovens formação adequada ao desempenho de uma profissão qualificada;
+
+Ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967, determino:
+
+1 - É criado no Colégio Internato dos Carvalhos, como experiência pedagógica a desenvolver nos termos do presente despacho, o curso complementar técnico-profissional de Biotecnologia.
+
+2 - O curso técnico-profissional de Biotecnologia agora criado visa a formação de profissionais de nível intermédio, no campo das indústrias alimentares, simultaneamente com uma preparação geral equivalente à área A do ensino secundário complementar.
+
+3 - Para ingresso no curso técnico-profissional de Biotecnologia é necessário o 9.º ano de escolaridade ou equivalente.
+
+4 - O curso técnico-profissional de Biotecnologia - Indústrias Alimentares tem a duração de três anos, correspondentes aos 10.º, 11.º e 12.º anos de escolaridade, e será ministrado de acordo com o plano de estudos que consta do quadro anexo ao presente despacho.
+
+5 - O plano de estudos insere-se, em linhas gerais, no modelo actual do ensino secundário complementar, incluindo as componentes de formação geral, formação específica e formação técnico-profissional, podendo comportar estágios de aproximação à vida activa, pós-escolares ou incluídos no período de escolaridade.
+
+6 - O curso técnico-profissional de Biotecnologia conferirá, cumulativamente:
+
+6.1 - Um diploma de fim de estudos secundários, que permitirá o acesso ao ensino superior, nos termos da respectiva legislação, em paralelo com os restantes cursos complementares.
+
+6.2 - Um diploma de formação técnico-profissional, comprovativo da qualificação obtida, para efeito de ingresso no mundo do trabalho.
+
+7 - Os diplomas referidos no n.º 6 do presente despacho têm valor oficial equivalente aos diplomas referidos no n.º 5 do [Despacho Normativo n.º 194-A/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/194-a-1983-398556), de 21 de Outubro.
+
+8 - O curso técnico-profissional de Biotecnologia do Colégio Internato dos Carvalhos funcionará em regime de autonomia pedagógica, nos termos do n.º 1 do artigo 35.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
+
+9 - As possíveis alterações ao consignado no número anterior serão submetidas a parecer do Gabinete de Educação Tecnológica, Artística e Profissional.
+
+10 - O Colégio Internato dos Carvalhos elaborará anualmente um relatório detalhado sobre o funcionamento da experiência pedagógica criada pelo presente despacho, para apreciação pelo Gabinete de Educação Tecnológica, Artística e Profissional.
+
+Ministério da Educação, 24 de Maio de 1989. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
+
+Área da estudos: A - Científico-Naturais
+
+Via técnico-profissional
+
+Curso de Biotecnologia
+
+Área ocupacional: Alimentação e Saúde
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/12900/22182219.pdf))](https://files.diariodarepublica.pt/1s/1989/06/12900/22182219.pdf)

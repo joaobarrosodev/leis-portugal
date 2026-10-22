@@ -1,0 +1,605 @@
+---
+schema_version: '1.0'
+id: pt:dre:262088:por
+title: Portaria n.º 49/2007
+short_title: null
+summary: Define as regras a que deve obedecer o financiamento público dos cursos profissionais de nível secundário
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Trabalho e da Solidariedade Social e da Educação
+proposing_entity: null
+official_number: 49/2007
+official_date: null
+publication_date: '2007-01-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 5/2007, Série I de 2007-01-08
+  number: '5'
+  series: I
+  supplement: null
+  pages: 148 - 153
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/01/00500/01480153.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-11-18'
+version_history:
+  file: portaria-49-2007.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-01-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-02'
+    amending: pt:dre:480968:por
+    amending_title: Portaria n.º 1009-A/2010
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Anexo
+  - date: '2012-07-19'
+    amending: pt:dre:656132:por
+    amending_title: Portaria n.º 216-A/2012
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+  - date: '2023-09-14'
+    amending: pt:dre:221610876:por
+    amending_title: Portaria n.º 281-B/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Anexo
+  - date: '2023-11-18'
+    amending: pt:dre:224427499:por
+    amending_title: Portaria n.º 379/2023
+    changes:
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/49/2007/p/cons/20231117/pt/html
+  oj: null
+  dre: '262088'
+  dre_path: /dr/detalhe/portaria/49-2007-262088
+  internal: pt:dre:262088:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-2007-262088
+  metadata_url: https://data.dre.pt/eli/port/49/2007/p/cons/20231117/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-221611888
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-221611888
+  retrieved_at: '2026-10-22T12:59:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ef2a2d2871d37d0b53bab07a196f7e238168a662e2e4e763273070d075d70af3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:59:25Z'
+  notes: 5 versão(ões); histórico completo em portaria-49-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Direcção Regional de Educação de Lisboa e VALE do TEJO
+- Ensino Particular
+- Ensino Profissional
+- Curso Profissional
+- Escola Profissional
+- Regime Jurídico
+- Subsídio
+relationships:
+- type: amended_by
+  target: pt:dre:480968:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera
+    Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968
+  date: '2010-10-01'
+- type: amended_by
+  target: pt:dre:656132:por
+  label: Altera Artigo 12.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/216-a-2012-656132
+  date: '2012-07-18'
+- type: amended_by
+  target: pt:dre:221610876:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 17.º;
+    Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876
+  date: '2023-09-13'
+- type: amended_by
+  target: pt:dre:224427499:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/379-2023-224427499
+  date: '2023-11-17'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/213/2006/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/213/2006/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/4/1998/01/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/4/1998/01/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/246/2005/03/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/246/2005/03/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+article_structure:
+  article_count: 23
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:59:25Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 49/2007
+
+Portaria n.º 49/2007
+
+de 8 de Janeiro
+
+A Portaria n.º 246/2005, de 9 de Março, aprovou, em conformidade com as orientações constantes do Decreto-Lei n.º 4/98, de 8 de Janeiro, um regulamento de financiamento público dos cursos profissionais regulados pela Portaria n.º 550-C/2004, de 21 de Maio, e ministrados em escolas profissionais privadas criadas ao abrigo do referido decreto-lei e a funcionar em regiões não abrangidas pelos fundos comunitários. O modelo de financiamento adoptado assentou nos princípios do respeito da liberdade de escolha da oferta formativa do nível secundário e da comparticipação estatal nas despesas com os cursos de manifesto interesse público, de modo a garantir a possibilidade de frequência nos mesmos em condições de equidade com os alunos dos restantes cursos do nível secundário de educação.
+
+Tendo o modelo de financiamento público aprovado pela Portaria n.º 246/2005, de 9 de Março, revelado as suas potencialidades na promoção do ensino profissional ministrado em estabelecimentos privados de ensino, não se afigura, de momento, necessária uma intervenção de fundo neste domínio, pelo que são de manter as principais directrizes do regime jurídico adoptado por aquela portaria.
+
+Tendo o modelo de financiamento constante da Portaria n.º 246/2005, de 9 de Março, sido gizado para um universo de escolas profissionais privadas correspondente à rede existente ao nível da região de Lisboa e Vale do Tejo, enquanto região que deixou de beneficiar dos financiamentos provenientes do Fundo Social Europeu, considerou-se adequada a delimitação do regime a aplicar em matéria de financiamento público de escolas profissionais privadas ao espaço territorial compreendido por aquela região.
+
+A principal razão que está na origem da presente alteração normativa prende-se, no entanto, com a concentração na Direcção Regional de Educação de Lisboa e Vale do Tejo do conjunto de competências previstas para a condução do processo de atribuição de financiamento público às entidades proprietárias das escolas profissionais privadas localizadas na região de Lisboa e Vale do Tejo, incluindo as competências que, ao abrigo da Portaria n.º 246/2005, de 9 de Março, estavam expressamente sob a alçada da Direcção-Geral de Formação Vocacional, sendo assim revista a dupla intervenção institucional adoptada por aquela portaria.
+
+Em nome de uma maior praticabilidade do modelo de financiamento delineado pela Portaria n.º 246/2005, de 9 de Março, procede-se a uma adaptação e desenvolvimento das regras vigentes quanto à determinação e alteração do valor do subsídio por turma, por curso, a atribuir às entidades proprietárias das escolas profissionais privadas. Assim, considerando que os valores fixados para o ciclo de formação de 2005 a 2008 se revelaram consentâneos com o quadro de custos de formação associados às diferentes ofertas formativas financiadas, deverão tais valores passar a assumir um carácter referencial na definição dos subsídios por turma, por curso, ficando sujeitos, no entanto, às correcções necessárias em função das transformações socioeconómicas que venham a afectar, directamente, os cursos profissionais objecto de financiamento. Não obstante, prevê-se que aqueles valores referenciais venham a ser alvo de uma reapreciação trienal, sustentada na análise técnico-contabilística da média dos custos de formação relacionados com os diferentes cursos profissionais, assim como na respectiva natureza. Assiste-se igualmente a um aprofundamento da disciplina da modificação do valor do subsídio por turma, por curso, previamente definido para uma escola profissional privada, para um ciclo de formação.
+
+Por fim, aproveita-se ainda para introduzir uma nova sistematização da matéria do financiamento público das escolas profissionais privadas não compreendidas pelo apoio dos fundos comunitários, suprimindo-se a sua regulação através de dois actos de natureza regulamentar, complementares entre si, por um só diploma, com um conteúdo que se procurou tornar mais acessível, beneficiando, em parte, da experiência adquirida com a aplicação do modelo resultante da Portaria n.º 246/2005, de 9 de Março, no âmbito das candidaturas apresentadas para o ciclo de formação de 2005-2008. A simplificação e a clarificação das soluções adoptadas, associadas ao rigor e coerência das mesmas, são propósitos a que a presente portaria procura dar cumprimento.
+
+A presente portaria produzirá os seus efeitos a partir do ciclo de formação de 2006 a 2009, pelo que o início da sua eficácia deverá reportar-se à data de abertura do processo de candidatura ao financiamento público regulado por este diploma para aquele ciclo de formação, salvo quanto a matérias que reclamam uma tutela específica das expectativas geradas pelo direito vigente.
+
+Assim:
+
+Atento o disposto nos artigos 19.º e 20.º do Decreto-Lei n.º 4/98, de 8 de Janeiro, nos artigos 16.º e 17.º do Decreto-Lei n.º 213/2006, de 27 de Outubro, e no artigo 17.º do Decreto-Lei n.º 211/2006, de 27 de Outubro:
+
+Manda o Governo, pelos Secretários de Estado do Emprego e da Formação Profissional e da Educação, o seguinte:
+
+### Capítulo I — Âmbito de aplicação
+
+###### Artigo 1.º — Objecto
+
+O presente diploma define as regras a que deve obedecer o financiamento público dos cursos profissionais de nível secundário regulados pela Portaria n.º 235-A/2018, de 23 de agosto, e dos cursos de educação e formação de jovens regulados pelo Despacho Conjunto n.º 453/2004, publicado no Diário da República, 2.ª série, n.º 175, de 27 de julho de 2004, na sua redação atual, ministrados em escolas profissionais privadas sujeitas ao regime jurídico previsto no Decreto-Lei n.º 92/2014, de 20 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 2.º — Oferta formativa a financiar
+
+O apoio financeiro incide sobre a seguinte oferta formativa ministrada nas escolas profissionais privadas:
+
+a) Cursos profissionais de nível secundário que constam das autorizações prévias de funcionamento (APF) e respectivos aditamentos emitidos até à data de início do período de candidatura, formalizada nos termos do artigo 6.º;
+
+b) Cursos de educação e formação de jovens, cuja candidatura é formalizada nos termos do artigo 6.º
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 3.º — Destinatários da oferta formativa a financiar
+
+1 - Sem prejuízo do disposto no número seguinte, são destinatários da oferta formativa a financiar referida no artigo 1.º:
+
+a) Nos cursos profissionais, os jovens com idade não superior a 25 anos que concluíram com aproveitamento o 3.º ciclo do ensino básico ou equivalente e não disponham da habilitação correspondente ao ensino secundário ou equivalente;
+
+b) Nos cursos de educação e formação, os jovens com idade não superior a 23 anos, com habilitações de acordo com as condições de acesso para cada tipologia, definidas no anexo i do Regulamento dos Cursos de Educação e Formação de Jovens anexo ao Despacho Conjunto n.º 453/2004, publicado no Diário da República, 2.ª série, n.º 175, de 27 de julho de 2004, na sua redação atual.
+
+2 - Mediante aprovação da Direção-Geral dos Estabelecimentos Escolares, as escolas profissionais privadas podem, a título excecional, autorizar, para os efeitos do presente diploma:
+
+a) A frequência dos cursos profissionais a jovens com idade superior a 25 anos, desde que, feita a distribuição, no período normal de matrículas, dos alunos candidatos que reúnam os requisitos previstos no número anterior, subsistam vagas em turmas constituídas ou a constituir;
+
+b) A frequência dos cursos de educação e formação a jovens com idade superior a 23 anos, desde que, feita a distribuição, no período normal de matrículas, dos alunos candidatos que reúnam os requisitos previstos no número anterior, subsistam vagas em turmas constituídas ou a constituir.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 4.º — Entidades candidatas
+
+Podem ter acesso ao apoio financeiro regulado no âmbito do presente diploma as entidades proprietárias de escolas profissionais privadas sujeitas ao regime jurídico previsto no Decreto-Lei n.º 92/2014, de 20 de junho, na sua redação atual, relativamente às ofertas formativas previstas no artigo 2.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+### Capítulo II — Candidaturas
+
+###### Artigo 5.º — Proposta de oferta formativa a financiar
+
+1 - O pedido de financiamento é efetuado junto da Direção-Geral dos Estabelecimentos Escolares, mediante a apresentação, por parte das entidades candidatas, da respetiva proposta de oferta formativa para o ciclo de formação a iniciar no ano civil em que decorre a candidatura, proposta essa a ser efetuada através da plataforma do Sistema Integrado de Gestão das Ofertas - SIGO.
+
+2 - A proposta de oferta formativa integra os cursos profissionais e os cursos de educação e formação de jovens, nos termos do artigo 2.º, que, no quadro das respectivas saídas profissionais, procurem dar resposta às necessidades do tecido empresarial e social de cada região.
+
+3 - A fundamentação da proposta de oferta formativa deverá apresentar uma clara definição dos seus objectivos, baseada na identificação dos públicos e das saídas profissionais alvo, no âmbito das respectivas áreas de formação, numa perspectiva regional e nacional.
+
+4 - Da proposta de oferta formativa deve constar:
+
+a) No caso dos cursos profissionais, a respectiva identificação, com indicação previsional do número de turmas e número de alunos, por curso, mencionando a portaria de criação dos mesmos, bem como o número da APF ou do respectivo aditamento de que constam;
+
+b) No caso dos cursos de educação e formação de jovens, a respectiva identificação, com indicação previsional do número de turmas e número de alunos, por curso;
+
+c) A fundamentação da necessidade e da adequação da oferta formativa proposta, nomeadamente, através da harmonização com a rede de oferta formativa profissionalmente qualificante, bem como da ligação da escola profissional privada à comunidade, avaliada em função das parcerias e protocolos celebrados ou a celebrar com entidades envolvidas no processo formativo;
+
+d) A identificação e caracterização dos recursos humanos e materiais afectos à formação;
+
+e) Informação relativa às taxas de conclusão, tempo despendido até à conclusão e taxas de empregabilidade, por curso.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 6.º — Formalização da candidatura
+
+1 - A formalização do pedido de financiamento é efectuada cumulativamente através da Plataforma do Sistema Integrado de Gestão de Ofertas - SIGO e de um formulário de candidatura integrando os seguintes elementos:
+
+a) Identificação da escola profissional privada onde é ministrada a oferta formativa a financiar;
+
+b) Proposta de oferta formativa a financiar;
+
+c) Cópia do cartão de pessoa colectiva relativo à entidade proprietária da escola profissional privada mencionada na alínea a).
+
+2 - O aviso de abertura de procedimento, bem como as demais informações e documentação relativas à formalização da candidatura, nomeadamente no que respeita aos respetivos prazos, são publicitados anualmente na página eletrónica da Direção-Geral dos Estabelecimentos Escolares.
+
+3 - A proposta de oferta formativa deve ser assinada e as respetivas páginas rubricadas pelos órgãos representativos da escola profissional privada, nos termos dos artigos 15.º e 25.º do Decreto-Lei n.º 92/2014, de 20 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 7.º — Critérios de análise e selecção
+
+1 - A análise e a selecção dos pedidos de financiamento terão em conta os seguintes critérios:
+
+a) A fundamentação da pertinência e adequação da oferta formativa proposta, em função das necessidades do tecido socioeconómico, a nível regional e nacional;
+
+b) A harmonização da oferta formativa proposta com a rede de oferta formativa profissionalmente qualificante existente na região;
+
+c) O envolvimento institucional da escola profissional privada no tecido económico, social e cultural da comunidade onde se integra, aferido, nomeadamente, através da existência de parcerias e protocolos entre as entidades candidatas e empresas ou outras organizações envolvidas no processo formativo;
+
+d) A qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta;
+
+e) A capacidade, qualidade e adequação das instalações e equipamentos educativos afectos à oferta formativa proposta;
+
+f) Os mecanismos de auto-avaliação organizacional e pedagógica e de avaliação de impacte estabelecidos ao nível das escolas profissionais privadas relativamente aos cursos nelas ministrados;
+
+g) O grau de sucesso escolar e profissional dos cursos ministrados na escola profissional privada.
+
+2 - Os requisitos e critérios a adoptar na análise e selecção das ofertas formativas a financiar encontram-se sistematizados no anexo do presente diploma, de que faz parte integrante.
+
+3 - Os critérios de análise e selecção constantes do n.º 1 têm como objectivo a hierarquização das propostas de oferta formativa no que respeita à sua qualidade técnico-pedagógica e às necessidades de formação que as mesmas visam satisfazer.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 8.º — Análise e decisão
+
+1 - A Direção-Geral dos Estabelecimentos Escolares procede à análise dos pedidos de financiamento com base nos critérios estabelecidos na presente portaria, tendo em vista a elaboração de proposta final a submeter à homologação do membro do Governo responsável pela área da educação.
+
+2 - Sempre que, na análise do processo de candidatura, venha a ser solicitada pela Direção-Geral dos Estabelecimentos Escolares a prestação de informações ou a apresentação de quaisquer documentos ou outros elementos de prova adicionais, a resposta ao requerido deverá ocorrer no prazo máximo de 10 dias, ou outro que venha a ser especialmente fixado, a partir da data da notificação efetuada para o efeito.
+
+3 - A decisão final do procedimento é emitida, ao abrigo do n.º 1, dentro dos 90 dias subsequentes à data limite fixada para a apresentação das candidaturas, nos termos do n.º 2 do artigo 6.º do presente diploma.
+
+4 - Da decisão final do procedimento deverão constar os cursos a apoiar, o número de turmas subsidiadas, por escola, por curso, bem como o valor do subsídio, por turma, por curso, previamente definido por despacho do membro do Governo responsável pela área da educação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 9.º — Notificação da decisão e prática de actos subsequentes
+
+1 - A notificação às entidades candidatas da decisão de aprovação ou de indeferimento da candidatura será efetuada pela Direção-Geral dos Estabelecimentos Escolares, no prazo de 10 dias contados desde a decisão final do procedimento a que se alude no n.º 3 do artigo anterior.
+
+2 - É igualmente de 10 dias o prazo para os interessados apresentarem reclamação da decisão final do procedimento e ou requererem quaisquer actos relativos ao processo de candidatura, a partir da data da notificação da decisão, prevista no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 10.º — Divulgação de resultados
+
+O conteúdo da decisão final do procedimento previsto no n.º 4 do artigo 8.º, com as eventuais alterações decorrentes das reclamações apresentadas nos termos do n.º 2 do artigo anterior, é tornado público pela Direção-Geral dos Estabelecimentos Escolares na sua página eletrónica, assim como por cada uma das escolas profissionais privadas, no que respeita às suas ofertas formativas objeto de financiamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 11.º — Prazos
+
+A contagem dos prazos previstos no presente capítulo regula-se pelo disposto no Código do Procedimento Administrativo.
+
+### Capítulo III — Financiamento
+
+###### Artigo 12.º — Apoio financeiro
+
+1 - O financiamento objecto do presente diploma é assegurado pelo Ministério da Educação.
+
+2 - (Revogado.)
+
+3 - O apoio financeiro a conceder consiste na atribuição de um subsídio por turma, por curso, definido por despacho do membro do Governo responsável pela área da educação, de valor correspondente ao limite máximo anual a pagar pelo Estado durante o período de um ciclo de formação, para comparticipação dos custos de formação respetivos.
+
+4 - As turmas que resultarem da agregação de cursos diferentes, atendendo à sua reduzida dimensão, serão objeto de apoio através da aplicação do escalão de financiamento mais elevado, no caso de o subsídio anual aplicável a esses cursos não ser do mesmo escalão.
+
+5 - O valor do subsídio anual por turma, por curso, previsto no n.º 3 do presente artigo pode ser atualizado anualmente até à proporção da atualização do IAS, através de despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+6 - O acesso efetivo pelas entidades candidatas ao valor do subsídio por turma por curso, está dependente dos limites legalmente estabelecidos em matéria de constituição de turmas.
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+7 - As entidades proprietárias das escolas profissionais privadas não poderão ser beneficiárias de outro tipo de apoios ao mesmo fim destinados relativamente aos alunos que integram as turmas objecto do financiamento.
+
+8 - Nos casos em que as entidades proprietárias das escolas profissionais privadas estabeleçam parcerias com estabelecimentos de ensino da rede pública para o desenvolvimento de componentes do plano curricular no âmbito de cursos financiados, a comparticipação financeira desses cursos será reduzida da parcela correspondente às componentes curriculares desenvolvidas pelos estabelecimentos de ensino da rede pública nos seguintes termos:
+
+a) Componente de formação sócio-cultural: 35 %;
+
+b) Componente de formação científica: 20 %;
+
+c) Componente de formação técnica/tecnológica: 45 %.
+
+9 - As tabelas referentes aos apoios financeiros a conceder por turma, por curso, para as ofertas formativas em causa serão objeto de aprovação por despacho do membro do Governo responsável pela área da educação, sendo devidamente divulgadas através da página eletrónica da Direção-Geral dos Estabelecimentos Escolares.
+
+> Nota: [Artigo 3.º, Portaria n.º 216-A/2012 - Diário da República n.º 138/2012, 1º Suplemento, Série I de 2012-07-18](https://diariodarepublica.pt/dr/detalhe/portaria/216-a-2012-656132) As alterações introduzidas às alíneas a) e b) do n.º 6 do presente artigo aplicam-se aos ciclos de formação a iniciar nos anos letivos de 2012/2013 e seguintes.
+
+> Nota: [Artigo 3.º, Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968) Para os efeitos das alíneas d) do n.º 4 e d) do n.º 5 do artigo 12.º, a primeira reapreciação do valor referencial por aluno por ano ocorrerá no ano de 2013, para o ciclo de formação de 2013-2016. As tabelas, com os novos valores do subsídio por turma e por curso, aprovadas nos termos do n.º 9 do artigo 12.º pelo Ministro da Educação, são aplicadas a partir dos ciclos de formação que iniciarem no ano lectivo mencionado no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216-A/2012 - Diário da República n.º 138/2012, 1º Suplemento, Série I de 2012-07-18](https://diariodarepublica.pt/dr/detalhe/portaria/216-a-2012-656132), em vigor a partir de 2012-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 13.º — Alteração do valor do subsídio
+
+1 - O valor do subsídio anual por turma, por curso, definido nos termos do artigo anterior será objeto de redução para efeitos do contrato a celebrar com as escolas profissionais privadas quando as ofertas autorizadas nos termos do artigo 2.º não cumpram no início do ciclo formativo os limites definidos no que se refere ao número mínimo de alunos conforme previsto no n.º 6 do artigo 12.º
+
+2 - O valor do subsídio anual por turma, por curso, será também objeto de redução, no início de cada ano letivo do ciclo de formação correspondente, sempre que as listas nominais a enviar anualmente pelas escolas profissionais privadas à Direção-Geral dos Estabelecimentos Escolares, nos termos do n.º 5, revelarem um número de alunos matriculados inferior aos limites referidos no número anterior.
+
+3 - A redução referida nos números anteriores será efetuada quando se verifiquem as seguintes situações:
+
+a) No caso dos cursos profissionais, sempre que o número de alunos nas turmas apoiadas seja inferior a 20;
+
+b) No caso dos cursos profissionais de Música, de Interpretação e Animação Circenses, de Luz, Som e Efeitos Cénicos, de Cenografia, Figurinos e Adereços e de Intérprete de Dança Contemporânea, da área de educação e formação de Artes do Espetáculo, sempre que o número de alunos nas turmas apoiadas seja inferior a 14;
+
+c) No caso dos cursos de educação e formação de jovens, sempre que o número de alunos nas turmas apoiadas seja inferior a 15;
+
+d) Nos cursos profissionais sempre que no relatório técnico-pedagógico seja identificada como medida de acesso à aprendizagem e à inclusão a necessidade da integração do aluno em turma reduzida, não podendo esta incluir mais de dois alunos nestas condições, o limite mínimo de alunos seja inferior a 16;
+
+e) Nos estabelecimentos de ensino integrados nos territórios caracterizados como de baixa densidade populacional para efeitos de financiamento público, nos cursos profissionais, as turmas são constituídas por um número mínimo de 16 alunos e um máximo de 28 alunos, exceto nos cursos profissionais de Música, de Interpretação e Animação Circenses, de Luz, Som e Efeitos Cénicos, de Cenografia, Figurinos e Adereços e de Intérprete de Dança Contemporânea, da área de educação e formação de Artes do Espetáculo, em que o limite mínimo é de 14.
+
+4 - A redução ao valor anual do subsídio por turma por curso prevista no número anterior corresponderá, nos cursos profissionais, ao quantitativo de 3,33 % por cada aluno abaixo dos limites referidos e, nos cursos de educação e formação de jovens, de 5 % por cada aluno abaixo dos limites referidos.
+
+5 - Para efeitos de aplicação dos números anteriores e sem embargo do disposto nos números seguintes, são considerados alunos matriculados aqueles que constarem das listas nominais a enviar anualmente à Direção-Geral dos Estabelecimentos Escolares, pelas escolas profissionais privadas, até à data de 6 de outubro, podendo as listas nominais serem atualizadas com alunos matriculados, devidamente autorizados.
+
+6 - Os alunos que, fazendo parte do universo de uma turma financiada nos termos do presente diploma, vierem a renovar a matrícula em módulos de disciplinas, unidades de competências e unidades de formação de curta duração não concluídas, ou na formação em contexto de trabalho, integradas no plano de estudos da oferta formativa, no ano escolar subsequente ao ano de conclusão do ciclo de formação, poderão, mediante decisão tomada pela escola profissional privada, dentro do espaço de autonomia que lhe é reconhecido, frequentar uma turma subsidiada de outro ciclo de formação ao abrigo deste diploma, não sendo os mesmos, no entanto, considerados para efeitos de financiamento da turma, nem integrando as listas nominais a que respeita o número anterior.
+
+7 - O disposto no número anterior não é aplicado sempre que a renovação de matrícula se dever a facto comprovadamente não imputável ao aluno, designadamente por motivo de doença prolongada, impeditiva da conclusão do respectivo curso no período fixado para o termo do ciclo de formação, caso em que o aluno deverá ser integrado, com todos os efeitos daí decorrentes, em turma subsidiada de outro ciclo de formação, passando a constar da lista nominal correspondente a que se refere o n.º 5.
+
+> Nota: [Artigo 3.º, Portaria n.º 379/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-2023-224427499) As alterações introduzidas às alíneas a) e d) do n.º 3 do presente artigo aplicam-se aos ciclos de formação a iniciar nos anos letivos de 2012/2013 e seguintes.
+
+> Nota: [Artigo 3.º, Portaria n.º 216-A/2012 - Diário da República n.º 138/2012, 1º Suplemento, Série I de 2012-07-18](https://diariodarepublica.pt/dr/detalhe/portaria/216-a-2012-656132) As alterações introduzidas às alíneas a), b) e c) do n.º 3 e ao n.º 4 do presente artigo aplicam-se aos ciclos de formação a iniciar nos anos letivos de 2012/2013 e seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-2023-224427499), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216-A/2012 - Diário da República n.º 138/2012, 1º Suplemento, Série I de 2012-07-18](https://diariodarepublica.pt/dr/detalhe/portaria/216-a-2012-656132), em vigor a partir de 2012-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+> Retificado pelo/a [Declaração de Rectificação n.º 17/2007 - Diário da República n.º 45/2007, Série I de 2007-03-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2007-519018), produz efeitos a partir de 2007-01-09
+
+###### Artigo 14.º — Contratos-programa
+
+1 - O Estado celebrará contratos-programa, de carácter plurianual e respeitando os ciclos de formação, com as entidades proprietárias das escolas profissionais privadas relativamente às ofertas formativas aprovadas para financiamento, nos quais serão definidos os montantes, as condições e as modalidades dos pagamentos a efectuar, com base nas listas nominais de alunos matriculados nas turmas objectos de financiamento previstas no n.º 5 do artigo anterior.
+
+2 - O montante da comparticipação financeira fixado no momento da assinatura do contrato corresponde a valores previsionais, podendo o mesmo sofrer alterações decorrentes do disposto no artigo anterior, as quais obedecerão aos termos e condições fixados contratualmente e serão objecto de aditamento.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 15.º — Pagamentos
+
+1 - O processamento do pagamento das prestações relativas à comparticipação financeira fixada em contrato-programa compete à Direção-Geral dos Estabelecimentos Escolares.
+
+2 - No termo do ciclo de formação, a Direção-Geral dos Estabelecimentos Escolares procederá, aquando do pagamento da última prestação prevista no contrato-programa celebrado ao abrigo do artigo anterior, à verificação do número de alunos efetivamente matriculados e da respetiva taxa de desistência e abandono relativamente ao período correspondente ao último ano letivo de execução do contrato, de modo a apurar da existência de qualquer débito suplementar ou crédito remanescente, os quais serão calculados proporcionalmente com base nos critérios fixados no artigo 13.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 16.º — Direito subsidiário
+
+Em tudo o que não se encontra expresso neste capítulo, aplica-se aos contratos-programa a legislação em vigor.
+
+### Capítulo IV — Deveres das entidades beneficiárias do financiamento
+
+###### Artigo 17.º — Controlo, acompanhamento e avaliação
+
+As entidades beneficiárias do financiamento ao abrigo do presente diploma são objeto de ações de controlo, acompanhamento e avaliação que incidem sobre as componentes técnico-pedagógica, contabilística e financeira dos cursos ministrados nas respetivas escolas profissionais, efetuadas pela Direção-Geral dos Estabelecimentos Escolares, pela Agência Nacional para a Qualificação e o Ensino Profissional, I. P., e pela Inspeção-Geral da Educação e Ciência ou por outras entidades credenciadas para o efeito, no âmbito das respetivas competências legais, ficando obrigadas a colocar à disposição todos os elementos relacionados com o desenvolvimento dos cursos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 18.º — Processo técnico-pedagógico
+
+As entidades beneficiárias do financiamento ficam obrigadas a organizar um processo, no todo ou em parte, em suporte electrónico, sobre cada um dos cursos com turmas subsidiadas ao abrigo do presente diploma, o qual deverá conter os seguintes elementos:
+
+a) Planificação anual do curso;
+
+b) Manuais e textos de apoio, bem como indicação de outros recursos didácticos utilizados no desenvolvimento da formação;
+
+c) Identificação dos docentes ou formadores afectos à formação;
+
+d) Relatórios de acompanhamento de estágio, visitas de estudo e outras actividades extracurriculares;
+
+e) Livro de ponto actualizado;
+
+f) Registo biográfico dos alunos actualizado;
+
+g) Relatórios de trabalhos e estágios realizados;
+
+h) Avaliação do desempenho dos docentes ou formadores;
+
+i) Originais de toda a publicidade e informação produzida para a divulgação do curso;
+
+j) Parcerias ou protocolos de colaboração que mantenham com outras entidades, quer no domínio do processo de ensino-aprendizagem quer no da inserção profissional.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+###### Artigo 19.º — Processo contabilístico
+
+1 - As entidades beneficiárias do financiamento são obrigadas a dispor de contabilidade organizada, segundo o Plano Oficial de Contabilidade (POC) ou outro plano sectorial, em conformidade com o direito aplicável, devendo, em qualquer circunstância, ficar salvaguardada a utilização de um centro de custos específico que permita a individualização dos custos de cada curso subsidiado por ciclo de formação.
+
+2 - A contabilidade é obrigatoriamente elaborada sob a responsabilidade de um técnico oficial de contas (TOC), com certificação realizada por um revisor oficial de contas (ROC), sempre que a legislação a isso obrigue.
+
+3 - Os originais dos documentos de receitas, de despesas e de outras quitações devem estar arquivados em pastas próprias de acordo com a organização da contabilidade adoptada, a qual deverá evidenciar a respectiva contabilidade de custos.
+
+###### Artigo 20.º — Propinas e outras taxas
+
+As entidades beneficiárias do financiamento não podem cobrar aos alunos que frequentam as turmas subsidiadas, constantes das listas nominais a que se refere o n.º 5 do artigo 13.º, qualquer montante, a título de propina de frequência, que exceda os valores previstos para o mesmo nível de educação e aplicados nos estabelecimentos de ensino público, bem como outras taxas sem que as mesmas sejam objecto de concordância por parte dos eventuais contribuintes e se destinem a objectivos educativos e pedagógicos, devidamente publicitados, fixados e registados no orçamento de receitas próprias da escola.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02
+
+### Capítulo V — Disposições finais
+
+###### Artigo 21.º — Norma revogatória
+
+São revogados a Portaria n.º 246/2005, de 9 de Março, e o despacho conjunto n.º 278/2005, de 31 de Março.
+
+###### Artigo 22.º — Disposição transitória
+
+O pagamento da prestação, relativa ao ano civil de 2006, da contrapartida financeira objecto de contrato-programa celebrado entre o Estado e as entidades proprietárias das escolas profissionais privadas, para os efeitos do presente diploma, compete à Direcção-Geral de Formação Vocacional.
+
+###### Artigo 23.º — Entrada em vigor e produção de efeitos
+
+1 - A presente portaria entra em vigor no dia imediato ao da sua publicação e produz efeitos, sem prejuízo do disposto nos números seguintes, a partir do ciclo de formação de 2006-2009, desde 4 de Abril de 2006, salvo quanto aos critérios de análise e selecção previstos no artigo 7.º e discriminados no anexo do presente diploma, que dele faz parte integrante, cujos efeitos se produzem a partir do ciclo de formação de 2007-2010.
+
+2 - Sem prejuízo do artigo 21.º, a aplicação do disposto no artigo 13.º da presente portaria ao ciclo de formação de 2006-2009 apenas terá início no ano lectivo de 2007-2008.
+
+3 - A aplicação do disposto no artigo 20.º da presente portaria ao ciclo de formação de 2006-2009 apenas terá início no ano lectivo de 2007-2008, não podendo os contratos-programa outorgados ao abrigo do artigo 14.º prever a cobrança de qualquer quantitativo a título de propina de frequência para o ano lectivo de 2006-2007.
+
+4 - Para os efeitos do n.º 5 do artigo 12.º, a primeira reapreciação do valor referencial por aluno por ano ocorrerá no ano de 2008, para o ciclo de formação de 2008- 2011.
+
+Em 18 de Dezembro de 2006.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 17/2007 - Diário da República n.º 45/2007, Série I de 2007-03-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2007-519018), produz efeitos a partir de 2007-01-09
+
+O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia. - O Secretário de Estado da Educação, Valter Victorino Lemos.
+
+## Anexo — (a que se refere o n.º 2 do artigo 7.º)
+
+Proposta de oferta formativa - Cursos profissionais
+
+Grelha de requisitos e critérios de análise
+
+| Legislação | Requisito(s)/critério(s) | Incidência da análise/avaliação |
+| --- | --- | --- |
+|  |  |  |
+| Artigo 2.º da presente portaria. | APF... | Adequação dos dados apresentados na candidatura relativamente aos dados constantes na APF:<br>Designação da escola profissional privada; |
+|  |  | Designação dos cursos e portarias de criação ou referencial do CNQ;<br>Lotação;<br>Responsável(eis) pedagógico(s);<br>Localização do funcionamento dos cursos. |
+| Alíneas c) e d) do n.º 1 do artigo 14.º do Decreto-Lei n.º 92/2014, de 20 de junho;<br>Alínea c) do n.º 4 do artigo 5.º e alínea a) do n.º 1 do artigo 7.º da presente portaria. | Fundamentação da necessidade e da adequação da oferta formativa proposta. | Documentação que sustente a relevância e prioridade das ofertas formativas constantes da candidatura:<br>Áreas de formação consideradas prioritárias de acordo com documentos que contenham orientações estratégicas;<br>Referência em estudos de levantamento de necessidades de formação elaborados, nomeadamente, por associações socioprofissionais, associações empresariais e outros; |
+|  |  | Taxas de empregabilidade na área de formação, a nível regional e nacional, relativas aos diplomados da escola e aos dados gerais de emprego. |
+| Alíneas c) e d) do n.º 1 do artigo 14.º do Decreto-Lei n.º 92/2014, de 20 de junho;<br>Alínea c) do n.º 4 do artigo 5.º e alínea b) do n.º 1 do artigo 7.º da presente portaria. | Harmonização da proposta na rede de oferta formativa profissionalmente qualificante. | Enquadramento na rede de oferta regional e nacional:<br>Cursos profissionais; cursos de educação e formação e cursos de aprendizagem. |
+| Alínea c) do n.º 4 do artigo 5.º e alínea c) do n.º 1 do artigo 7.º da presente portaria;<br>N.º 4 do artigo 16.º da Portaria n.º 235-A/2018, de 23 de agosto;<br>Alínea d) do n.º 1 do artigo 14.º do Decreto-Lei n.º 92/2014, de 20 de junho. | Envolvimento institucional da escola profissional privada no tecido económico, social e cultural da comunidade onde se integra. | Protocolos celebrados ou a celebrar e parcerias existentes entre as entidades proprietárias das escolas profissionais privadas e empresas, associações empresariais, socioprofissionais, entidades participantes na coordenação do sistema de certificação profissional e núcleos empresariais regionais, relativos, nomeadamente, ao desenvolvimento da formação em contexto de trabalho e inserção profissional dos diplomados.<br>Participação de instituições locais e regionais representativas do tecido económico, social e cultural nos órgãos da escola profissional privada. |
+| Artigos 25.º, 30.º e 31.º do Decreto-Lei n.º 92/2014, de 20 de junho;<br>Alínea d) do n.º 4 do artigo 5.º e alínea d) do n.º 1 do artigo 7.º da presente portaria. | Qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta. | Discriminação do pessoal docente afeto à oferta formativa:<br>Perfil académico e profissional dos professores ou formadores e elementos da direção técnico-pedagógica;<br>Número de professores profissionalizados/em profissionalização e não profissionalizados;<br>Situação contratual. |
+| Alínea d) do n.º 4 do artigo 5.º e alínea e) do n.º 1 do artigo 7.º da presente portaria;<br>Despacho Normativo n.º 27/99, de 25 de maio. | Capacidade, qualidade e adequação das instalações e equipamentos educativos afetos à oferta formativa proposta. | Cumprimento do Despacho Normativo n.º 27/99, de<br>25 de maio, designadamente quanto a:<br>Salas de aula, sem requisitos especiais;<br>Salas de aula específicas, para as diversas áreas de formação;<br>Laboratórios;<br>Espaços oficinais, para a componente técnica; |
+|  |  | Espaços especializados, para as diversas áreas de formação;<br>Centro de recursos educativos/mediateca;<br>Espaços sociais e de convívio;<br>Espaços de apoio socioeducativo e profissional;<br>Espaços de direção, administração e gestão;<br>Espaços de apoio geral. |
+| Alínea f) do n.º 1 do artigo 7.º da presente portaria. | Mecanismos de autoavaliação organizacional e pedagógica e de avaliação de impacte estabelecidos ao nível das escolas profissionais privadas relativamente aos cursos nelas ministrados. | Existência de estratégias, metodologias e planos de ação, definidos pela escola profissional privada, relativos à avaliação da organização, funcionamento e sucesso escolar dos cursos profissionais nela ministrados. |
+| Alínea e) do n.º 4 do artigo 5.º e alínea g) do n.º 1 do artigo 7.º da presente portaria. | Grau de sucesso escolar e profissional dos cursos profissionais realizados na escola profissional privada e aqueles a que respeita a proposta de oferta formativa. | Taxas de conclusão dos cursos ministrados na escola profissional privada.<br>Informação quanto ao tempo médio despendido para conclusão do curso.<br>Taxas de empregabilidade dos diplomados pela escola profissional privada, na área de formação, por curso. |
+|  |  | Taxas de empregabilidade globais dos diplomados pela escola profissional privada, por curso.<br>Taxas de prosseguimento de estudos globais dos diplomados pela escola profissional privada, por curso. |
+| Alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 55/2018, de 6 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. | Ações de promoção da igualdade de género, igualdade de acesso e não discriminação.<br>Medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. |
+| Subalínea v) da alínea a) do anexo i à Portaria n.º 235-A/2018, de 23 de agosto. | Grau de incorporação de medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. | Medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. |
+
+Proposta de oferta formativa - Cursos de educação e formação de jovens
+
+Grelha de requisitos e critérios de análise
+
+| Legislação | Requisito(s)/critério(s) | Incidência da análise/avaliação |
+| --- | --- | --- |
+|  |  |  |
+| Artigo 2.º da presente portaria. | APF ... | Adequação dos dados apresentados na candidatura relativamente aos dados constantes na APF:<br>Designação da escola profissional privada;<br>Designação dos cursos;<br>Lotação;<br>Responsável(eis) pedagógico(s);<br>Localização do funcionamento dos cursos. |
+| Alínea c) do n.º 4 do artigo 5.º e alínea a) do n.º 1 do artigo 7.º da presente portaria. | Fundamentação da necessidade e da adequação da oferta formativa proposta. | Documentação que sustente a relevância e prioridade das ofertas formativas constantes da candidatura:<br>Áreas de formação consideradas prioritárias de acordo com documentos que contenham orientações estratégicas; |
+|  |  | Referência em estudos de levantamento de necessidades de formação elaborados, nomeadamente, por associações socioprofissionais, associações empresariais e outros; |
+|  |  | Taxas de empregabilidade na área de formação, a nível regional e nacional, relativas aos diplomados da escola e aos dados gerais de emprego. |
+| Alínea c) do n.º 4 do artigo 5.º e alínea b) do n.º 1 do artigo 7.º da presente portaria. | Harmonização da proposta na rede de oferta formativa profissionalmente qualificante. | Enquadramento na rede de oferta regional e nacional:<br>Cursos profissionais; cursos de educação e formação e cursos de aprendizagem. |
+| Alínea c) do n.º 4 do artigo 5.º e alínea c) do n.º 1 do artigo 7.º da presente portaria. | Envolvimento institucional da escola profissional privada no tecido económico, social e cultural da comunidade onde se integra. | Protocolos celebrados ou a celebrar e parcerias existentes entre as entidades proprietárias das escolas profissionais privadas e empresas, associações empresariais, socioprofissionais, entidades participantes na coordenação do sistema de certificação profissional e núcleos empresariais regionais, relativos, nomeadamente, ao desenvolvimento da formação em contexto de trabalho e inserção profissional dos diplomados. |
+|  |  | Participação de instituições locais e regionais representativas do tecido económico, social e cultural nos órgãos da escola profissional privada. |
+| Alínea d) do n.º 4 do artigo 5.º e alínea d) do n.º 1 do artigo 7.º da presente portaria. | Qualificação dos recursos humanos que dirigem e ministram a oferta formativa proposta. | Discriminação do pessoal docente afeto à oferta formativa:<br>Perfil académico e profissional dos professores ou formadores e elementos da direção técnico-pedagógica;<br>Número de professores profissionalizados/em profissionalização e não profissionalizados;<br>Situação contratual. |
+| Alínea d) do n.º 4 do artigo 5.º e alínea e) do n.º 1 do artigo 7.º da presente portaria;<br>Despacho Normativo n.º 27/99, de 25 de maio. | Capacidade, qualidade e adequação das instalações e equipamentos educativos afetos à oferta formativa proposta. | Cumprimento do Despacho Normativo n.º 27/99, de<br>25 de maio, designadamente quanto a:<br>Salas de aula, sem requisitos especiais;<br>Salas de aula específicas, para as diversas áreas de formação;<br>Laboratórios;<br>Espaços oficinais, para a componente técnica; |
+|  |  | Espaços especializados, para as diversas áreas de formação;<br>Centro de recursos educativos/mediateca;<br>Espaços sociais e de convívio;<br>Espaços de apoio socioeducativo e profissional;<br>Espaços de direção, administração e gestão;<br>Espaços de apoio geral. |
+| Alínea f) do n.º 1 do artigo 7.º da presente portaria. | Mecanismos de autoavaliação organizacional e pedagógica e de avaliação de impacte estabelecidos ao nível das escolas profissionais privadas relativamente aos cursos nelas ministrados. | Existência de estratégias, metodologias e planos de ação, definidos pela escola profissional privada, relativos à avaliação da organização, funcionamento e sucesso escolar dos cursos de educação e formação de jovens nela ministrados. |
+| Alínea e) do n.º 4 do artigo 5.º e alínea g) do n.º 1 do artigo 7.º da presente portaria. | Grau de sucesso escolar e profissional dos cursos de educação e formação de jovens realizados na escola profissional privada e aqueles a que respeita a proposta de oferta formativa. | Taxas de conclusão dos cursos ministrados na escola profissional privada.<br>Informação quanto ao tempo médio despendido para conclusão do curso.<br>Taxas de empregabilidade dos diplomados pela escola profissional privada, na área de formação, por curso. |
+|  |  | Taxas de empregabilidade globais dos diplomados pela escola profissional privada, por curso.<br>Taxas de prosseguimento de estudos globais dos diplomados pela escola profissional privada, por curso. |
+| Alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 55/2018, de 6 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. | Ações de promoção da igualdade de género, igualdade de acesso e não discriminação.<br>Medidas e ou instrumentos que contribuam para a promoção da igualdade de género, igualdade de acesso e não discriminação. |
+| Alínea c) do n.º 3 do artigo 3.º do Regulamento dos Cursos de Educação e Formação anexo ao Despacho Conjunto n.º 453/2004, de 27 de julho. | Grau de incorporação de medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. | Medidas e ou instrumentos que contribuam para um maior valor acrescentado ambiental. |
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-B/2023 - Diário da República n.º 178/2023, 1º Suplemento, Série I de 2023-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2023-221610876), em vigor a partir de 2023-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1009-A/2010 - Diário da República n.º 192/2010, 2º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1009-a-2010-480968), em vigor a partir de 2010-10-02

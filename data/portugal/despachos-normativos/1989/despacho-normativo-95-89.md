@@ -1,0 +1,198 @@
+---
+schema_version: '1.0'
+id: pt:dre:401278:por
+title: Despacho Normativo n.º 95/89
+short_title: null
+summary: Regulamenta a contratação de professores do ensino primário e educadores de infância profissionalizados não pertencentes
+  aos quadros. Revoga o Despacho Normativo n.º 91/88, de 22 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e da Educação
+proposing_entity: null
+official_number: 95/89
+official_date: null
+publication_date: '1989-10-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 236/1989, 2º Suplemento, Série I de 1989-10-13
+  number: '236'
+  series: I
+  supplement: 2º Suplemento
+  pages: 4484-(4) a 4484-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23602/00040005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '401278'
+  dre_path: /dr/detalhe/despacho-normativo/95-1989-401278
+  internal: pt:dre:401278:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-1989-401278
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-1989-401278
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-01-19T00:00:00Z'
+integrity:
+  source_sha256: 06ae69eae99bd74ebc6f9f9cb92bdbef4d710dbb0baf60847b497fe14469409f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-95-401278.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:624793:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 95/89
+
+Ao abrigo do disposto no n.º 2 do artigo 67.º do [Decreto-Lei n.º 35/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1988-282714), de 4 de Fevereiro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 350/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1989-548980), de 13 de Outubro, determina-se o seguinte:
+
+I
+
+Disposições gerais
+
+1 - Para efeitos do disposto no n.º 1 do artigo 67.º do [Decreto-Lei n.º 35/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1988-282714), de 4 de Fevereiro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 350/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1989-548980), de 13 de Outubro, os professores do ensino primário e os educadores de infância profissionalizados não pertencentes aos quadros são colocados em regime de contrato administrativo de provimento.
+
+2 - Consideram-se nulos os contratos que não obedecerem ao estabelecido no presente despacho normativo.
+
+3 - Para os efeitos do presente diploma, entende-se por docentes educadores de infância e professores do ensino primário.
+
+II
+
+Celebração de contrato
+
+4 - O contrato a que se refere o n.º 1 é celebrado na data da aceitação da colocação pelo docente.
+
+5 - A aceitação da colocação pelo docente referida no número anterior deve ter lugar no prazo de três dias úteis contados a partir do dia seguinte ao da comunicação da colocação, na ausência do que fica esta automaticamente sem efeito.
+
+6 - O início do exercício de funções tem lugar no dia útil imediatamente seguinte à data da aceitação da colocação.
+
+7 - O início do exercício de funções não pode ser anterior à data do início do ano escolar a que respeita a colocação do docente.
+
+8 - O contrato regulamentado no presente despacho normativo é celebrado em impresso de modelo anexo constituído por um original e quatro cópias, exclusivo da Imprensa Nacional-Casa da Moeda, sendo assinado pelo delegado escolar da área onde se situa a escola de colocação do docente, ou por quem as suas vezes fizer, em representação do Ministério da Educação, e pelo docente interessado.
+
+9 - No acto da assinatura do contrato será utilizada estampilha fiscal no valor correspondente ao imposto do selo devido pela posse.
+
+10 - No prazo de 30 dias contados a partir da data da assinatura do contrato os docentes devem entregar nas respectivas delegações escolares os seguintes documentos:
+
+a) Certidão de nascimento ou fotocópia autenticada do bilhete de identidade;
+
+b) Diploma ou certidão das habilitações profissionais legalmente exigidas;
+
+c) Certidão antituberculose;
+
+d) Certificado de robustez física para o exercício da função docente;
+
+e) Certificado do registo criminal;
+
+f) Documento comprovativo de ter cumprido as leis do recrutamento militar, se for caso disso.
+
+11 - Por despacho do delegado escolar respectivo, o prazo fixado no número anterior pode ser prorrogado por 30 dias, a requerimento do interessado, por motivos devidamente fundamentados.
+
+12 - Quando o contrato se referir a docentes que tenham exercido funções no ano escolar imediatamente anterior, é dispensada a apresentação dos documentos referidos no n.º 10, desde que constem de processo individual do docente existente nos serviços centrais ou regionais competentes do Ministério da Educação e não tenha decorrido prazo de interrupção superior a 90 dias contado a partir do último dia de abono de vencimento.
+
+13 - É ainda dispensada a apresentação dos documentos referidos nas alíneas a) e b) do n.º 10 quando constem de processo individual do docente existente em algum dos serviços centrais ou regionais do Ministério da Educação.
+
+14 - Os contratos celebrados nos termos do presente diploma devem ser submetidos a visto do Tribunal de Contas pelas respectivas direcções regionais de educação.
+
+III
+
+Vigência do contrato
+
+15 - Os contratos previstos no presente diploma podem ser celebrados pelo período de um ano escolar ou por períodos inferiores a um ano escolar, de acordo com o prazo pelo qual se encontre vago ou disponível o lugar cujo preenchimento se visa assegurar.
+
+16 - Os contratos previstos no presente diploma vigoram pelo período mínimo de 30 dias.
+
+17 - O contrato celebrado pelo período de um ano escolar vigora até 31 de Agosto.
+
+18 - O contrato celebrado por período inferior a um ano escolar vigora até três dias úteis após a apresentação do docente titular do lugar, sem prejuízo do disposto no número seguinte.
+
+19 - Nos casos em que o docente titular do lugar se apresente ao serviço após o dia 31 de Maio, o contrato mantém-se em vigor até ao final do ano escolar.
+
+IV
+
+Renovação do contrato
+
+20 - Os contratos celebrados pelo período de um ano escolar não são renováveis.
+
+21 - Os contratos celebrados por período inferior a um ano escolar podem ser renovados até ao termo do ano escolar em que foram celebrados, por períodos de 30 dias, mediante simples anotação.
+
+22 - A renovação dos contratos depende de comunicação aos docentes, a realizar pelas delegações escolares respectivas com a antecedência mínima de cinco dias úteis.
+
+23 - Sem prejuízo do disposto no n.º 21, é considerada renovação a celebração de contratos por um mesmo docente por períodos inferiores a um ano escolar para prestação de serviço no mesmo distrito, não sendo considerados os dias de interrupção da actividade.
+
+V
+
+Cessação da vigência do contrato
+
+24 - Os contratos previstos no presente diploma caducam automaticamente com o decurso do prazo pelo qual foram celebrados.
+
+25 - Os contratos previstos no presente diploma podem ser denunciados a todo o momento por qualquer das partes com a antecedência mínima de 15 dias.
+
+26 - Os contratos previstos no presente diploma podem ser rescindidos a todo o tempo, por conveniência de serviço, mediante despacho do director regional de educação competente.
+
+27 - Os contratos podem ainda ser rescindidos, a pedido do docente, com a antecedência mínima de 15 dias, desde que da rescisão do contrato não resulte prejuízo para o sistema educativo.
+
+28 - Os contratos previstos no presente diploma cessam por incumprimento dos prazos previstos nos n.os 10 e 11 e por recusa de visto do Tribunal de Contas na data em que o docente dela tomar conhecimento.
+
+VI
+
+Disposições finais
+
+29 - O tempo de serviço prestado nos termos do presente diploma é considerado para todos os efeitos legais, designadamente para aposentação, diuturnidades, concursos e concessão de fases.
+
+30 - Aos educadores de infância e aos professores do ensino primário contratados nos termos do presente diploma são devidos os vencimentos legalmente fixados para o pessoal docente profissionalizado da educação pré-escolar e do ensino primário não pertencentes aos quadros, acrescidos das diuturnidades a que tiverem direito.
+
+31 - Em tudo o que não estiver previsto no presente diploma aplicam-se aos contratados nele previstos as disposições legais em vigor em matéria de contratos administrativos de provimento, designadamente o [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
+
+32 - Os encargos resultantes da aplicação deste diploma serão suportados pelo orçamento do Ministério da Educação e pelas competentes rubricas de vencimentos de pessoal docente para o ensino primário e para a educação pré-escolar.
+
+33 - É revogado o [Despacho Normativo n.º 91/88](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/91-1988-203458), de 22 de Outubro.
+
+34 - O presente diploma produz efeitos a partir do dia 1 de Outubro de 1989.
+
+Ministérios das Finanças e da Educação, 12 de Outubro de 1989. - O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado Adjunto do Ministro da Educação, José Augusto Perestrello de Alarcão Troni.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23602/00040005.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23602/00040005.pdf)

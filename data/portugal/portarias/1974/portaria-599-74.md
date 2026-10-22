@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:473885:por
+title: Portaria n.º 599/74
+short_title: null
+summary: Manda lançar em circulação o último grupo de selos da nova série ordinária criada pela Portaria n.º 266/71
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento Social e do Ambiente - Correios e Telecomunicações de Portugal
+proposing_entity: null
+official_number: 599/74
+official_date: null
+publication_date: '1974-09-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 217/1974, Série I de 1974-09-17
+  number: '217'
+  series: I
+  supplement: null
+  pages: 1102 - 1102
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/09/21700/11021102.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '473885'
+  dre_path: /dr/detalhe/portaria/599-1974-473885
+  internal: pt:dre:473885:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/599-1974-473885
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/599-1974-473885
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1974-09-17T00:00:00Z'
+integrity:
+  source_sha256: f14803e1a89f601c7a23720addf734fce92bc3c80e4e282670bfa7572b5c10e6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1974/DRE-1974-599-473885.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 599/74
+
+de 17 de Setembro
+
+Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado dos Transportes e Comunicações, que, nos termos do n.º 3.º da [Portaria n.º 266/71](https://diariodarepublica.pt/dr/detalhe/portaria/266-1971-644570), seja lançado em circulação o último grupo de selos da nova série ordinária criada pela referida portaria, nas condições que a seguir se estabelecem:
+
+1. O grupo será constituído pelos seguintes valores e motivos:
+
+$10 - Ponte romana (Ponte de Lima).
+
+$30 - Interior do Mosteiro de Alcobaça.
+
+2$00 - Domus Municipalis (Bragança).
+
+4$00 - Porta Nova (Braga).
+
+4$50 - Anta de Carrazeda (Vila Praia de Âncora).
+
+5$00 - Templo romano (Évora).
+
+6$00 - Mosteiro de Leça do Bailio.
+
+7$50 - Castelo de Almourol.
+
+2. Os selos, impressos a três cores, terão as dimensões de 25,6 mm x 20,8 mm, denteado 13,5 e levarão no verso uma impressão de segurança, em contínuo, com as letras CTT e o ano da sua edição.
+
+3. Os valores correspondentes da actual série ordinária, bem como os de $20, $90, 1$40 e 2$30, que não constam da nova série, manterão a sua validade postal até 30 de Setembro de 1975.
+
+4. Os selos referidos no número anterior que se encontrem na posse de quaisquer entidades poderão, a partir de 1 de Agosto de 1975 e até 31 de Dezembro seguinte, ser trocados nas estações do correio de Lisboa (Terreiro do Paço), Porto (Município), Coimbra, Funchal e Castelo Branco e nas Tesourarias da Fazenda Pública das restantes localidades por outros valores postais que estejam em vigor.
+
+5. Os selos provenientes da troca serão devolvidos ao 3.º Depósito Central dos CTT a partir da data do seu recebimento e até 31 de Março de 1976.
+
+Ministério do Equipamento Social e do Ambiente, 11 de Setembro de 1974. - O Secretário de Estado dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

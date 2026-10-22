@@ -1,0 +1,593 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:225397119:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-854083053",
+ "dre_path": "/dr/detalhe/portaria/415-2023-225397119",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-12-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "854124828",
+    "854124829",
+    "854124830",
+    "854124831",
+    "854124832",
+    "854124833",
+    "854124834",
+    "854124835",
+    "854124836",
+    "854124837",
+    "854124838",
+    "854124839",
+    "854124840",
+    "854124841",
+    "854124842",
+    "854124843",
+    "854124844",
+    "854124845",
+    "854124846",
+    "854124847",
+    "854124848",
+    "854124849",
+    "854124850",
+    "854124851",
+    "854124852",
+    "854124853",
+    "854124854",
+    "854124855",
+    "854124856",
+    "854124857",
+    "854124858",
+    "854124859",
+    "854124860",
+    "854124861",
+    "854124862",
+    "854124863",
+    "854124864",
+    "854124865",
+    "854124866",
+    "854124867",
+    "854124868",
+    "854124869"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:854054398:por",
+     "title": "Portaria n.º 79/2024/1",
+     "published": "2024-03-04",
+     "dre_path": "/dr/detalhe/portaria/79-2024-854054398",
+     "date": "2024-01-05"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:854054398:por",
+     "title": "Portaria n.º 79/2024/1",
+     "published": "2024-03-04",
+     "dre_path": "/dr/detalhe/portaria/79-2024-854054398"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 34.º"
+   ],
+   "fragments": [
+    "854124828",
+    "854126583",
+    "854126584",
+    "854124831",
+    "854124832",
+    "854126585",
+    "854124834",
+    "854126586",
+    "854124836",
+    "854124837",
+    "854126587",
+    "854126588",
+    "854126589",
+    "854124841",
+    "854124842",
+    "854124843",
+    "854124844",
+    "854124845",
+    "854124846",
+    "854126590",
+    "854124848",
+    "854124849",
+    "854124850",
+    "854124851",
+    "854124852",
+    "854126591",
+    "854124854",
+    "854124855",
+    "854124856",
+    "854124857",
+    "854124858",
+    "854126592",
+    "854124860",
+    "854124861",
+    "854126593",
+    "854124863",
+    "854124864",
+    "854124865",
+    "854124866",
+    "854124867",
+    "854124868",
+    "854124869",
+    "854124870"
+   ]
+  }
+ ],
+ "fragments": {
+  "854124828": {
+   "fragment_id": "854083054",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 415/2023\n\nde 7 de dezembro\n\nSumário: Estabelece as condições de criação, instalação, organização e funcionamento a que deve obedecer a resposta social serviço de assistência pessoal de apoio à pessoa com deficiência ou incapacidade que assenta no desenvolvimento do Modelo de Apoio à Vida Independente.\n\nO Programa do XXIII Governo Constitucional estabeleceu como uma das prioridades da ação governativa a promoção da inclusão das pessoas com deficiência ou incapacidade enquanto imperativo de uma sociedade coesa e que pretende realizar todo o seu potencial.\n\nNo desenvolvimento das políticas de inclusão das pessoas com deficiência ou incapacidade, o Governo reconhece como fundamental a garantia de condições de acesso e de exercício de direitos de cidadania através da sua participação nos diversos contextos de vida em igualdade com os demais cidadãos e cidadãs e com a máxima autonomia e autodeterminação possíveis.\n\nA Constituição da República Portuguesa consagra o princípio da igualdade de todos os cidadãos e de todas as cidadãs, reafirmando, expressamente, no n.º 1 do seu artigo 71.º, que os cidadãos portadores de deficiência física ou mental gozam plenamente dos direitos e estão sujeitos aos deveres nela consignados, com ressalva do exercício ou do cumprimento daqueles para os quais se encontrem incapacitados.\n\nNo desenvolvimento desse imperativo constitucional, a Lei n.º 38/2004, de 18 de agosto, que aprovou as bases do regime jurídico da prevenção, habilitação, reabilitação e participação das pessoas com deficiência, definiu como grandes objetivos neste domínio a promoção da igualdade de oportunidades, a promoção de oportunidades de educação, trabalho e formação ao longo da vida, a promoção do acesso a serviços de apoio e a promoção de uma sociedade para todos, através da eliminação das barreiras e da adoção de medidas que visem a plena participação das pessoas com deficiência ou incapacidade.\n\nNeste sentido, é essencial garantir condições para a autonomia e autodeterminação das pessoas com deficiência ou incapacidade, pressupostos fundamentais da plena inclusão e da efetiva participação em todos os contextos de vida.\n\nNo plano internacional, com a ratificação da Convenção das Nações Unidas sobre os Direitos das Pessoas com Deficiência, em julho de 2009, a República Portuguesa comprometeu-se a promover, proteger e garantir condições de vida dignas às pessoas com deficiência ou incapacidade, assumindo a responsabilidade pela adoção das medidas necessárias para garantir o pleno reconhecimento e o exercício dos seus direitos, num quadro de igualdade de oportunidades.\n\nO direito à assistência pessoal encontra-se definido na alínea b) do artigo 19.º da Convenção, no qual é estipulado que as pessoas com deficiência têm acesso a uma variedade de serviços domiciliários, residenciais e outros serviços de apoio da comunidade, incluindo a assistência pessoal necessária para apoiar a vida e inclusão na comunidade e prevenir o isolamento ou a segregação da comunidade.\n\nO Governo comprometeu-se, igualmente, a desenvolver esforços para a implementação da Estratégia da Comissão Europeia para a Promoção dos Direitos das Pessoas com Deficiência 2021-2030 e da Estratégia para a Deficiência 2017-2023, do Conselho da Europa. Confirmando esta vontade, a Estratégia Nacional para a Inclusão das Pessoas com Deficiência 2021-2025 determina, como uma das suas medidas, a aprovação do modelo definitivo de apoio à vida independente.\n\nCom efeito, em 2017, e com vista a prosseguir este desiderato, o XXI Governo Constitucional instituiu o Modelo de Apoio à Vida Independente - Assistência Pessoal, através do Decreto-Lei n.º 129/2017, de 9 de outubro, na sua atual redação.\n\nPromovido como projeto-piloto, teve como um dos objetivos permitir a inovação e a aprendizagem no domínio das medidas de política de apoio à autonomia das pessoas com deficiência ou incapacidade.\n\nCom mais de mil beneficiários, a avaliação do projeto-piloto contribuiu para identificar as melhorias necessárias e a sua incorporação no modelo definitivo, visando tornar a assistência pessoal mais efetiva no apoio à salvaguarda de vida independente.\n\nColhendo a experiência dos projetos-piloto e com o envolvimento e a participação das pessoas com deficiência ou incapacidade, suas famílias e das organizações representativas, e em desenvolvimento do regime estabelecido na Lei n.º 38/2004, de 18 de agosto, o XXIII Governo Constitucional propõe-se criar o Modelo de Apoio à Vida Independente (MAVI), integrado e inovador no sistema português de proteção social e de promoção da não institucionalização.\n\nO MAVI assenta no primado do direito das pessoas com deficiência ou incapacidade à autodeterminação, assegurando condições para o exercício do direito a tomar decisões sobre a sua vida, ainda que existam diferentes situações de deficiência, com graus diferenciados de dependência e de tipologias de incapacidade, que carecem de apoios distintos.\n\nO MAVI possibilita a disponibilização de assistência pessoal a pessoas com deficiência ou incapacidade para a realização de atividades de vida diária e de mediação em situações diversas, permitindo também a melhoria de condições de contexto.\n\nA presente portaria procede, neste contexto, à operacionalização do MAVI, estabelecendo as regras de criação, organização, gestão e funcionamento dos centros de apoio à vida independente (CAVI), o exercício da atividade de assistência pessoal, definindo as pessoas destinatárias abrangidas e as condições de elegibilidade, assim como de financiamento.\n\nConsiderando a missão do Instituto Nacional para a Reabilitação, I. P., de assegurar o pla-\n\nneamento, execução e coordenação das políticas nacionais destinadas a promover os direitos das pessoas com deficiência e/ou incapacidade e as atribuições que lhe estão associadas, a operacionalização do MAVI, mesmo enquanto resposta social, não pode deixar de contar com a intervenção, nomeadamente na dimensão técnica, deste instituto, sem prejuízo do papel próprio que o Instituto da Segurança Social, I. P., detém neste âmbito.\n\nForam ouvidas as organizações representativas das pessoas com deficiência que integram a Comissão de Políticas de Inclusão das Pessoas com Deficiência, o Mecanismo Nacional de Monitorização da Implementação da Convenção sobre os Direitos das Pessoas com Deficiência, centros de apoio à vida independente e sector social e solidário.\n\nAssim, nos termos dos artigos 26.º, 29.º e 30.º da Lei n.º 4/2007, de 16 de janeiro, na sua redação atual, e nos termos do artigo 8.º da Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual, manda o Governo, pelo Secretário de Estado da Segurança Social e pela Secretária de Estado da Inclusão, no uso das competências delegadas ao abrigo do Despacho n.º 7910/2022, de 21 de junho, publicado no Diário da República, 2.ª série, n.º 123, de 28 de junho de 2022, o seguinte:"
+  },
+  "854124829": {
+   "fragment_id": "854083055",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as condições de criação, instalação, organização e funcionamento a que deve obedecer a resposta social serviço de assistência pessoal de apoio à pessoa com deficiência ou incapacidade, que assenta no desenvolvimento do Modelo de Apoio à Vida Independente, adiante identificada como MAVI."
+  },
+  "854124830": {
+   "fragment_id": "854083056",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A presente portaria aplica-se às entidades que promovam e disponibilizem o serviço de assistência pessoal de apoio à pessoa com deficiência ou incapacidade, que tenham natureza de organização não governamental das pessoas com deficiência, doravante designada por ONGPD, e estatuto de instituição particular de solidariedade social, doravante designada por IPSS, nos termos da legislação aplicável.\n\n2 - As regras previstas na presente portaria aplicam-se a todas as entidades que asseguram o desenvolvimento da atividade de assistência pessoal a pessoas com deficiência, independentemente da fonte de financiamento."
+  },
+  "854124831": {
+   "fragment_id": "854083057",
+   "type": 11,
+   "heading": "Artigo 3.º — Modelo de Apoio à Vida Independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Modelo de Apoio à Vida Independente\n\n1 - O MAVI concretiza-se através da disponibilização de um serviço especializado de assistência pessoal de apoio à pessoa com deficiência ou incapacidade para a realização de atividades que, em razão das limitações decorrentes da sua interação com as condições do meio, esta não possa, ou tenha sérias limitações em, realizar por si própria.\n\n2 - A implementação do MAVI é operacionalizada pelos centros de apoio à vida independente (CAVI), que são as entidades beneficiárias e legalmente responsáveis pela promoção da disponibilização do serviço de assistência pessoal de apoio às pessoas com deficiência ou incapacidade, os quais devem obedecer aos requisitos previstos nos artigos 16.º e seguintes.\n\n3 - A solicitação de assistência pessoal decorre da iniciativa da pessoa com deficiência e/ou incapacidade, expressa pela própria ou por quem a represente legalmente, através de manifestação de interesse formal junto de um CAVI, e é traduzida num plano individualizado de assistência pessoal."
+  },
+  "854124832": {
+   "fragment_id": "854083058",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios fundamentais\n\nSão princípios orientadores do desenvolvimento e concretização do MAVI:\n\na) O princípio da universalidade, que implica que cada uma e todas as pessoas com deficiência ou incapacidade tenham acesso aos apoios de que possam necessitar na prossecução dos seus objetivos de vida;\n\nb) O princípio da autodeterminação, que preconiza o direito da pessoa com deficiência ou incapacidade a viver de forma independente e o direito a decidir sobre a definição e condução da sua própria vida;\n\nc) O princípio da individualização, que implica um planeamento individualizado com pessoa com deficiência ou incapacidade, devendo os apoios ser decididos caso a caso, de acordo com as suas necessidades específicas, interesses e preferências;\n\nd) O princípio da funcionalidade dos apoios, que implica que estes tenham em conta o contexto de vida da pessoa com deficiência ou incapacidade, devendo ser os necessários e suficientes para promover a sua autonomia e a plena participação nos diversos contextos de vida;\n\ne) O princípio da inclusão, que implica que a sociedade se organize para acolher todos os cidadãos, independentemente do seu grau de funcionalidade, para que as pessoas com deficiência ou incapacidade possam viver integradas na comunidade, usufruindo de todos os recursos disponíveis em condições de equidade com os demais cidadãos e cidadãs;\n\nf) O princípio da cidadania, que implica que a pessoa com deficiência ou incapacidade tem direito a usufruir das condições necessárias e suficientes que lhe permitam aceder a todos os bens, serviços e contextos de vida, em condições de equidade, bem como o direito e o dever de desempenhar um papel ativo no desenvolvimento da sociedade;\n\ng) O princípio da participação, que implica o direito das pessoas com deficiência ou incapacidade de participarem de forma plena e efetiva na sociedade em condições de igualdade com os demais cidadãos e cidadãs;\n\nh) O princípio da igualdade de oportunidades, que implica que os diversos sistemas da sociedade e do meio envolvente, tais como serviços, atividades, informação e documentação, se tornam acessíveis a todos e em especial às pessoas com deficiência ou incapacidade."
+  },
+  "854124833": {
+   "fragment_id": "854083059",
+   "type": 11,
+   "heading": "Artigo 5.º — Atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atividades\n\n1 - Para efeitos da presente portaria, consideram-se atividades a realizar no âmbito da assistência pessoal disponibilizada no MAVI, designadamente, as seguintes:\n\na) Atividades de apoio nos domínios da higiene, alimentação e cuidados pessoais;\n\nb) Atividades de apoio em assistência doméstica, de caráter pontual;\n\nc) Atividades de acompanhamento a consultas, tratamentos e intervenções de reabilitação;\n\nd) Atividades de apoio em deslocações;\n\ne) Atividades de mediação da comunicação;\n\nf) Atividades de apoio em contexto laboral e em atividades socialmente úteis;\n\ng) Atividades de apoio à frequência de formação profissional;\n\nh) Atividades de apoio à educação formal;\n\ni) Atividades de apoio à frequência de ensino superior e de investigação;\n\nj) Atividades de apoio em cultura, lazer e desporto;\n\nk) Atividades de apoio na procura ativa de emprego;\n\nl) Atividades de apoio à criação e desenvolvimento de redes sociais de apoio;\n\nm) Atividades de apoio à participação e cidadania;\n\nn) Atividades de apoio à tomada de decisão, incluindo a recolha e interpretação de informação necessária à mesma.\n\n2 - As atividades previstas na alínea h) do número anterior só podem ser realizadas no desenvolvimento das atividades letivas, nos termos a regulamentar pelos membros do Governo responsáveis pela área da educação e inclusão.\n\n3 - As atividades previstas no n.º 1, e em especial nas alíneas m) e n), não consubstanciam nem prejudicam o exercício da representação legal e respetivo regime jurídico."
+  },
+  "854124834": {
+   "fragment_id": "854083060",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano individualizado de assistência pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Plano individualizado de assistência pessoal\n\n1 - O plano individualizado de assistência pessoal é o documento-programa obrigatoriamente concebido com a pessoa com deficiência ou incapacidade destinatária de assistência pessoal resultante de uma planificação centrada na sua pessoa, em que o poder de decidir cabe à própria ou a quem legalmente a represente, e cujo conteúdo é decidido em função da sua visão de futuro, motivações e desejos.\n\n2 - O plano individualizado de assistência pessoal documenta as necessidades de assistência pessoal da pessoa destinatária, o modo como se desenvolvem as atividades de apoio à vida independente e a monitorização da sua operacionalização.\n\n3 - O modelo do plano individualizado de assistência pessoal é aprovado por deliberação do conselho diretivo do Instituto Nacional para a Reabilitação, I. P. (INR, I. P.), e inclui, nomeadamente:\n\na) Os dados de identificação da pessoa destinatária da assistência pessoal;\n\nb) Os dados de identificação do representante legal, quando aplicável;\n\nc) Grau de incapacidade constante do atestado médico de incapacidade multiúso ou cartão de deficiente das Forças Armadas;\n\nd) Identificação dos fatores do contexto que funcionam como facilitadores ou como barreiras à atividade e participação da pessoa com deficiência ou incapacidade, incluindo os apoios mencionados no n.º 6 do artigo 7.º;\n\ne) Definição da execução da assistência pessoal a prestar;\n\nf) Número de horas atribuídas para assistência pessoal e distribuição horária das diferentes atividades previstas, assegurando a flexibilidade necessária;\n\ng) Identificação dos/das assistentes pessoais;\n\nh) Definição do processo de monitorização e avaliação da execução da assistência pessoal;\n\ni) Compromisso ético celebrado entre o/a assistente pessoal e a pessoa destinatária de assistência pessoal;\n\nj) Declaração, sob compromisso de honra do/a assistente pessoal, do cumprimento da condição estabelecida no n.º 11 do artigo 11.º;\n\nk) Declaração, sob compromisso de honra da pessoa destinatária de assistência pessoal, do cumprimento das regras estabelecidas no artigo 33.º;\n\nl) A data e assinatura dos/as participantes na respetiva elaboração.\n\n4 - As alterações ao plano individualizado de assistência pessoal determinadas pela pessoa destinatária da assistência pessoal devem dele passar a constar expressamente."
+  },
+  "854124835": {
+   "fragment_id": "854083061",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio em assistência pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio em assistência pessoal\n\n1 - A assistência pessoal disponibilizada como um serviço de apoio organiza-se através dos recursos disponíveis para a prossecução do plano de vida independente da pessoa com deficiência ou incapacidade, mediante a distribuição de horas de apoio.\n\n2 - As horas de apoio referidas no número anterior podem ser disponibilizadas de forma consecutiva ou cumulativa, sendo o limite máximo por pessoa destinatária de 56 horas por semana.\n\n3 - Em situações excecionais e devidamente fundamentadas e referenciadas pela equipa técnica à equipa multidisciplinar prevista no artigo 31.º, quando a plena realização do projeto de vida independente da pessoa destinatária implique um número de horas semanais de apoio superior ao estabelecido no número anterior, pode aquele limite não ser observado, devendo as horas de apoio corresponder às necessárias na situação em concreto, até às 24 horas diárias.\n\n4 - Compete à pessoa com deficiência ou incapacidade, ou a quem legalmente a represente, conjuntamente com o/a assistente pessoal e com o CAVI, estabelecer e organizar as horas de apoio, de acordo com as necessidades identificadas no plano individualizado de assistência pessoal.\n\n5 - A pessoa com deficiência ou incapacidade destinatária de assistência pessoal pode solicitar ao CAVI a alteração das horas de apoio inicialmente fixadas ou alterar a sua distribuição diária ou semanal, assim como as atividades, devendo as alterações constar expressamente do plano individualizado de assistência pessoal.\n\n6 - Desde que devidamente fundamentado no plano individualizado de assistência pessoal, o serviço de assistência pessoal pode, ainda, ser complementado através do financiamento a rendas destinadas à habitação, a transportes e a acessibilidades."
+  },
+  "854124836": {
+   "fragment_id": "854083062",
+   "type": 11,
+   "heading": "Artigo 8.º — Pessoas destinatárias de assistência pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pessoas destinatárias de assistência pessoal\n\n1 - São destinatárias de assistência pessoal as pessoas com deficiência certificada por atestado médico de incapacidade multiúso ou cartão de deficiente das Forças Armadas com grau de incapacidade igual ou superior a 60 % e idade igual ou superior a 14 anos.\n\n2 - As pessoas com deficiência intelectual, com doença mental e no espetro do autismo, desde que com idade igual ou superior a 14 anos, podem ser destinatárias de assistência pessoal independentemente do grau de incapacidade atribuído.\n\n3 - Os maiores acompanhados podem beneficiar de assistência pessoal, devendo ser assegurada a sua participação ativa no processo da formação da vontade e na efetivação das suas decisões, sem prejuízo do regime legal das incapacidades e respetivo suprimento."
+  },
+  "854124837": {
+   "fragment_id": "854083063",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos e deveres da pessoa destinatária da assistência pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direitos e deveres da pessoa destinatária da assistência pessoal\n\n1 - A pessoa destinatária de assistência pessoal tem direito, nomeadamente, a:\n\na) Ser tratada com dignidade, respeito e correção;\n\nb) Ver salvaguardado o seu conforto, bem-estar e segurança, em total respeito pelas condições determinadas pelo próprio, e respeitada a sua integridade psicológica, psicossocial, física, ética e moral;\n\nc) Ver garantida a confidencialidade dos elementos e informações constantes do seu processo individual;\n\nd) Ter acesso total e incondicional ao seu processo individual e a poder a qualquer momento solicitar alterações ao mesmo, apresentando para o efeito a respetiva justificação, sem prejuízo da salvaguarda de eventual informação confidencial relativa ao/à assistente pessoal;\n\ne) Elaborar, com a colaboração da equipa técnica do CAVI, o plano individualizado de assistência pessoal de acordo com o estabelecido na presente portaria;\n\nf) Alterar o plano individualizado de assistência pessoal de acordo com as suas decisões, vontades, preferências, prioridades ou necessidades, nos termos do n.º 4 do artigo 6.º;\n\ng) Participar ativamente no processo de seleção dos/as assistentes pessoais, designadamente através da realização de entrevistas conjuntas;\n\nh) Propor ou designar o/a assistente pessoal a contratar, nos termos do artigo 11.º;\n\ni) Apresentar críticas e sugestões relativas ao funcionamento da assistência pessoal;\n\nj) Conhecer de forma acessível e compreensível o regulamento interno do CAVI;\n\nk) Fazer cessar a assistência pessoal no caso de quebra da especial relação de confiança com o/a assistente pessoal, desde que devidamente fundamentado.\n\n2 - Constituem deveres da pessoa destinatária de assistência pessoal, nomeadamente, os seguintes:\n\na) Tratar com respeito e correção o/a assistente pessoal;\n\nb) Não utilizar a assistência pessoal para fins alheios aos estabelecidos no plano individualizado de assistência pessoal;\n\nc) Prestar toda a colaboração necessária ao desempenho das funções do/a assistente pessoal;\n\nd) Monitorizar e avaliar o desempenho do/a assistente pessoal;\n\ne) Contribuir para o saudável relacionamento e bom ambiente necessários à colaboração entre todas as partes;\n\nf) Comunicar proativa e diligentemente com a equipa técnica do CAVI, prestando todas as informações necessárias à monitorização da assistência pessoal, nomeadamente sempre que se verifiquem ou antecipem alterações nos horários de assistência pessoal ou suspensão da assistência pessoal;\n\ng) Participar, sempre que possível, em atividades de divulgação e promoção da vida independente."
+  },
+  "854124838": {
+   "fragment_id": "854083064",
+   "type": 11,
+   "heading": "Artigo 10.º — Direitos e deveres do assistente pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direitos e deveres do assistente pessoal\n\n1 - O/a assistente pessoal é a pessoa que contribui para que a pessoa com deficiência ou incapacidade tenha uma vida independente, apoiando-a na realização das atividades elencadas na presente portaria.\n\n2 - O/a assistente pessoal tem direito, nomeadamente, a:\n\na) Prestar auxílio e assistência à pessoa destinatária da assistência pessoal, sempre que necessário;\n\nb) Ser tratado/a com respeito e correção pela pessoa destinatária da assistência pessoal ou por qualquer membro do seu agregado familiar;\n\nc) Ver salvaguardada a sua segurança e respeitada a sua integridade física e moral;\n\nd) Ver garantida a confidencialidade dos elementos e informações constantes do seu processo individual;\n\ne) Apresentar críticas e sugestões relativas ao funcionamento da assistência pessoal;\n\nf) Conhecer de forma acessível e compreensível o regulamento interno do CAVI;\n\ng) Frequentar a formação definida no artigo 14.º;\n\nh) Conhecer e compreender a informação constante do plano individualizado de assistência pessoal com relevância para o desempenho das suas funções;\n\ni) Desempenhar as atividades para as quais foi contratado/a;\n\nj) Ver assegurado apoio psicossocial por parte do CAVI, no âmbito do cumprimento do regime jurídico da promoção da segurança e saúde no trabalho;\n\n3 - Constituem deveres do/a assistente pessoal, nomeadamente, os seguintes:\n\na) Ser assíduo/a e pontual e empenhado/a no cumprimento de todos os seus deveres no âmbito das atividades em que presta apoio;\n\nb) Respeitar e fazer respeitar a dignidade da pessoa com deficiência ou incapacidade destinatária da assistência pessoal;\n\nc) Respeitar as preferências e necessidades da pessoa com deficiência ou incapacidade em termos de conforto, segurança e bem-estar, e contribuir para a sua efetiva autonomização nos termos e condições que lhe forem indicados;\n\nd) Ser flexível e adaptar-se, dentro dos limites razoáveis, aos imprevistos que surjam na vida da pessoa com deficiência ou incapacidade a quem presta apoio;\n\ne) Tratar com respeito e correção a pessoa destinatária da assistência pessoal e os membros do seu agregado familiar;\n\nf) Guardar lealdade para com a pessoa destinatária da assistência pessoal e todos os membros do seu agregado familiar;\n\ng) Zelar pelo uso correto das instalações, mobiliário e equipamentos, no âmbito da execução das competentes atividades de assistência pessoal;\n\nh) Não captar sons ou imagens, ainda que involuntariamente, suscetíveis de colocar em causa a honra, reputação ou simples decoro da pessoa destinatária da assistência pessoal ou do seu agregado familiar;\n\ni) Respeitar a reserva da vida privada e familiar, o domicílio e as comunicações da pessoa destinatária da assistência pessoal e do seu agregado familiar;\n\nj) Cumprir com as orientações internas, com os procedimentos e prazos estabelecidos pelo CAVI para o bom funcionamento do serviço, desde que não conflituantes com o plano individualizado de assistência pessoal."
+  },
+  "854124839": {
+   "fragment_id": "854083065",
+   "type": 11,
+   "heading": "Artigo 11.º — Recrutamento, seleção e contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Recrutamento, seleção e contratação\n\n1 - Compete ao CAVI proceder ao recrutamento, seleção e contratação dos/as assistentes pessoais de acordo com os critérios estabelecidos na presente portaria.\n\n2 - Apenas podem ser candidatas as pessoas que preencham, cumulativamente, os requisitos seguintes:\n\na) Idade igual ou superior a 18 anos;\n\nb) Escolaridade obrigatória.\n\n3 - No processo de seleção dos/as candidatos/as a assistentes pessoais, são aplicáveis, designadamente, os seguintes critérios:\n\na) Ter idoneidade adequada para a realização das atividades abrangidas pela assistência pessoal;\n\nb) Possuir equilíbrio emocional e competências comportamentais adequadas ao apoio individual e próximo na promoção da autonomização de pessoas com deficiência;\n\nc) Possuir robustez física e psíquica para as funções em causa.\n\n4 - Nos processos de seleção dos/as candidatos/as a assistentes pessoais, podem ser definidos outros critérios específicos, em função das atividades a desempenhar tendo em conta as circunstâncias concretas das pessoas destinatárias de assistência pessoal, e sempre que se justifique, nomeadamente:\n\na) Ser detentor ou detentora de carta de condução;\n\nb) Possuir competências técnicas na área das tecnologias de informação e comunicação na ótica do utilizador;\n\nc) Possuir competências de comunicação em língua gestual portuguesa;\n\nd) Possuir competências técnicas em orientação e mobilidade;\n\ne) Ter conhecimento na área da saúde, nomeadamente ao nível do suporte básico de vida e primeiros socorros.\n\n5 - Os critérios previstos nos números anteriores são verificados por profissionais com habilitação adequada para o efeito, segundo critérios técnicos devidamente fundamentados.\n\n6 - O conselho diretivo do INR, I. P., em articulação com o Instituto da Segurança Social, I. P. (ISS, I. P.), aprova, por deliberação, linhas orientadoras do perfil de competências a que se referem as alíneas a) e b) do n.º 3.\n\n7 - Os/as assistentes pessoais não podem ter, nem nunca ter tido, qualquer relação jurídica familiar de casamento, união de facto, adoção, parentesco ou afinidade até ao segundo grau da linha reta, ou quarto grau da linha colateral, com a pessoa destinatária da assistência pessoal.\n\n8 - Após o procedimento de seleção previsto no número anterior, cada CAVI procede à contratação dos/das assistentes pessoais.\n\n9 - O CAVI assegura que os/as assistentes pessoais frequentam a formação inicial prevista no Catálogo Nacional de Qualificações, sem prejuízo da formação contínua legalmente obrigatória.\n\n10 - O CAVI assegura os direitos da pessoa destinatária da assistência pessoal a participar na escolha do/a assistente pessoal a contratar, tal como previsto nas alíneas g) e h) do n.º 1 do artigo 9.º\n\n11 - O processo de seleção previsto no artigo anterior não é aplicável quando a pessoa destinatária de assistência pessoal indique desde logo o/a assistente pessoal a contratar, o/a qual deve apenas cumprir o disposto nos n.os 2 e 7."
+  },
+  "854124840": {
+   "fragment_id": "854083066",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime laboral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime laboral\n\n1 - O/a assistente pessoal é contratado/a pelo CAVI para exercer funções junto da pessoa com deficiência ou incapacidade destinatária de assistência pessoal, através da celebração de contrato de trabalho em comissão de serviço, de acordo com o estabelecido no Código do Trabalho.\n\n2 - Sem prejuízo do disposto no número seguinte, o/a assistente pessoal pode ser contratado/a pelo CAVI enquanto trabalhador em regime de prestação de serviços, para exercer funções junto da pessoa com deficiência ou incapacidade destinatária de assistência pessoal, desde que o CAVI não tenha mais de 30 % dos seus colaboradores nestas circunstâncias e seja desempenhado o número máximo de 4 horas diárias.\n\n3 - Excecionalmente, no caso de baixa médica, internamento e férias dos/das assistentes pessoais contratados/as em regime de comissão de serviço, o CAVI pode ainda recorrer à contratação de prestadores de serviços por um período máximo de 30 dias."
+  },
+  "854124841": {
+   "fragment_id": "854083067",
+   "type": 11,
+   "heading": "Artigo 13.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cessação de funções\n\n1 - O CAVI pode fazer cessar as funções do/da assistente pessoal sempre que a pessoa destinatária da assistência considere verificada uma quebra de confiança no/a assistente pessoal, relativamente às funções que este exerce.\n\n2 - Para os efeitos estabelecidos no número anterior, constituem fundamentos da quebra de confiança, designadamente, os seguintes:\n\na) Desobediência ilegítima às orientações emanadas pela pessoa destinatária da assistência pessoal;\n\nb) Desinteresse repetido pelo cumprimento, com a diligência devida, das obrigações inerentes ao exercício das funções que lhe estão cometidas;\n\nc) Lesão de interesses patrimoniais sérios da pessoa destinatária da assistência pessoal ou do seu agregado familiar;\n\nd) Faltas não justificadas ao trabalho que determinem prejuízos ou riscos sérios para a pessoa destinatária da assistência pessoal;\n\ne) Prática de violência física ou psíquica, de injúrias ou de outras ofensas sobre a pessoa destinatária da assistência pessoal ou membros do agregado familiar;\n\nf) Quebra de sigilo sobre qualquer assunto de que tenha conhecimento em virtude da convivência decorrente da natureza do contrato e de cuja revelação possa resultar prejuízo para a honra, bom nome ou património do agregado familiar;\n\ng) Manifesta falta de urbanidade no trato habitual com a pessoa destinatária da assistência pessoal ou com os membros do agregado familiar, designadamente as crianças e os idosos, ou com outras pessoas que, regular ou acidentalmente, sejam recebidas na família;\n\nh) Introdução abusiva no domicílio da pessoa destinatária da assistência pessoal;\n\ni) Recusa em prestar contas de dinheiros que lhe tenham sido confiados para compras ou pagamentos, ou irregularidades na prestação dessas contas;\n\nj) Hábitos ou comportamentos que não se coadunem com o ambiente normal do agregado familiar da pessoa destinatária da assistência pessoal, ou tendam a afetar gravemente a respetiva saúde ou qualidade de vida;\n\nk) Negligência reprovável e reiterada na utilização de equipamentos, eletrodomésticos, utensílios de serviço ou similares, quando daí resulte avaria, quebra ou inutilização dos mesmos, com danos graves para a pessoa destinatária da assistência pessoal ou do seu agregado familiar.\n\n3 - A substituição do/a assistente pessoal é efetuada por pedido fundamentado da pessoa com deficiência ou incapacidade destinatária da assistência pessoal, ou de quem legalmente a represente, junto do CAVI."
+  },
+  "854124842": {
+   "fragment_id": "854083068",
+   "type": 11,
+   "heading": "Artigo 14.º — Qualificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Qualificação profissional\n\n1 - Sem prejuízo do disposto no n.º 4, o exercício da atividade de assistente pessoal está dependente da posse de formação profissional específica ou da certificação de qualificações obtida através do processo de reconhecimento, validação e certificação de competências (RVCC).\n\n2 - A formação profissional inicial específica tem lugar após a celebração do contrato de trabalho ou do início da prestação de serviços, durante os primeiros 30 dias úteis de prestação de atividade.\n\n3 - A formação referida no número anterior é assegurada de acordo com o estabelecido no Regime Jurídico do Sistema Nacional de Qualificações e no Catálogo Nacional de Qualificações, em concreto no Percurso Formativo de Assistência Pessoal para Apoio da Vida Independente da Pessoa com Deficiência ou Incapacidade.\n\n4 - É dispensada a realização da formação prevista no n.º 1, nas seguintes situações:\n\na) A quem detenha certificado de qualificações relativo às unidades de competência e ou unidades de formação de curta duração do percurso de assistente pessoal integrado no Catálogo Nacional de Qualificações;\n\nb) A quem detenha certificado da formação prevista no Decreto-Lei n.º 129/2017, de 9 de outubro, na sua atual redação, e tenha prestado trabalho efetivo.\n\n5 - Aos/às assistentes pessoais é assegurada a formação contínua, nos termos legalmente previstos no Código do Trabalho.\n\n6 - A formação contínua pode ser desenvolvida pela entidade empregadora ou por outras entidades formadoras.\n\n7 - Compete ao CAVI assegurar condições para a formação contínua de acordo com as necessidades identificadas pelas equipas técnicas, destinatários da assistência pessoal e assistentes pessoais."
+  },
+  "854124843": {
+   "fragment_id": "854083069",
+   "type": 11,
+   "heading": "Artigo 15.º — Cartão de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cartão de identificação\n\n1 - O/a assistente pessoal, no exercício da sua atividade, deve ser titular de cartão de identificação, que deve ser apresentado sempre que solicitado.\n\n2 - O modelo do cartão de identificação referido no número anterior é aprovado por deliberação do conselho diretivo do INR, I. P, mediante prévia articulação com o ISS, I. P.\n\n3 - Cada CAVI é responsável pela emissão dos cartões de identificação dos respetivos assistentes pessoais."
+  },
+  "854124844": {
+   "fragment_id": "854083070",
+   "type": 11,
+   "heading": "Artigo 16.º — Centro de apoio à vida independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Centro de apoio à vida independente\n\nO CAVI é a estrutura de gestão do serviço de assistência pessoal, prestado segundo modelos de apoio à vida independente, responsável pela disponibilização da assistência pessoal às pessoas com deficiência ou incapacidade, de acordo com o estabelecido na presente portaria."
+  },
+  "854124845": {
+   "fragment_id": "854083071",
+   "type": 11,
+   "heading": "Artigo 17.º — Missão e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Missão e competências\n\n1 - O CAVI tem por missão assumir funções de gestão, de coordenação e de apoio dos serviços de assistência pessoal.\n\n2 - São competências do CAVI, no âmbito da organização e funcionamento dos serviços de assistência pessoal, nomeadamente:\n\na) Elaborar o regulamento interno;\n\nb) Definir critérios próprios para a disponibilização de assistência pessoal às pessoas destinatárias, de acordo com requisitos estabelecidos na presente portaria;\n\nc) Receber os pedidos de assistência pessoal das pessoas destinatárias ou de quem legalmente as represente;\n\nd) Definir o tempo de afetação da equipa técnica em função do número de pessoas com deficiência ou incapacidade;\n\ne) Proceder ao recrutamento, apoio na seleção e contratação dos ou das assistentes pessoais;\n\nf) Colaborar na elaboração do plano individualizado de assistência pessoal com a pessoa destinatária da assistência pessoal;\n\ng) Acompanhar a implementação do plano individualizado de assistência pessoal;\n\nh) Redefinir o plano individualizado de assistência pessoal sempre que a pessoa destinatária o solicite em função das suas necessidades de cada momento;\n\ni) Coordenar a gestão das atividades a desenvolver pelos ou pelas assistentes pessoais de acordo com os planos individualizados de assistência pessoal;\n\nj) Assegurar que o tempo de trabalho contratado com o/a assistente pessoal é efetivamente prestado no apoio à pessoa destinatária;\n\nk) Assegurar condições para a formação profissional dos ou das assistentes pessoais;\n\nl) Promover ações de sensibilização, capacitação, esclarecimentos e debates sobre a vida independente às pessoas apoiadas, às famílias, às entidades relevantes da comunidade e a demais públicos considerados pertinentes;\n\nm) Promover reuniões interpares das pessoas destinatárias da assistência pessoal, para troca de experiências, aprendizagem e resolução de problemas na condução da assistência pessoal;\n\nn) Assegurar o acompanhamento e mediação do serviço prestado e garantir a avaliação da sua qualidade;\n\no) Recolher dados, sistematizá-los e mantê-los disponíveis para efeitos de avaliação do desenvolvimento da resposta;\n\np) Pugnar pela boa gestão dos projetos de assistência pessoal que operacionaliza;\n\nq) Preparar e apresentar as candidaturas submetidas a financiamento visando o desenvolvimento e execução dos projetos de assistência pessoal.\n\n3 - No desenvolvimento da sua missão, os CAVI devem respeitar os princípios fundamentais da presente portaria, bem como os estabelecidos na Lei n.º 38/2004, de 18 de agosto, que define as bases gerais do regime jurídico da prevenção, habilitação, reabilitação e participação da pessoa com deficiência, e os princípios enunciados na Convenção sobre os Direitos das Pessoas com Deficiência."
+  },
+  "854124846": {
+   "fragment_id": "854083072",
+   "type": 11,
+   "heading": "Artigo 18.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Organização\n\nPara os efeitos estabelecidos na presente portaria, quando a atividade seja desenvolvida por entidade prevista no artigo 2.º que prossiga diversas atividades, o CAVI deve organizar-se como um núcleo autónomo privilegiando a integração de pessoas com deficiência ou incapacidade."
+  },
+  "854124847": {
+   "fragment_id": "854083073",
+   "type": 11,
+   "heading": "Artigo 19.º — Equipa técnica do centro de apoio à vida independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Equipa técnica do centro de apoio à vida independente\n\n1 - A equipa do CAVI é constituída por técnicos e técnicas com habilitações de nível superior, nomeadamente nas áreas de psicologia, sociologia, gestão e administração, serviço social e reabilitação.\n\n2 - A equipa referida no número anterior é composta até ao máximo de quatro elementos, sendo que a sua composição bem como o tempo de afetação são determinados em função das necessidades, designadamente do número de pessoas com deficiência ou incapacidade apoiadas.\n\n3 - A direção técnica do CAVI é assegurada por uma das pessoas referidas no n.º 1, sob direção dos órgãos de gestão da entidade que desenvolve o CAVI.\n\n4 - A constituição da equipa do CAVI deve incluir a integração de pessoas com deficiência ou incapacidade, certificada por atestado médico de incapacidade multiúso ou cartão de deficiente das Forças Armadas, com grau de incapacidade igual ou superior a 60 %.\n\n5 - Sempre que se demonstre necessário, designadamente por falta de meios humanos, o CAVI pode contratualizar com empresas ou pessoal especializado a prestação de atividades auxiliares de suporte, designadamente de recrutamento e seleção, formação, contabilidade, serviços jurídicos e serviços técnicos de avaliação do grau de acessibilidade dos edifícios e instalações previstas no Decreto-Lei n.º 163/2006, de 8 de agosto, na sua atual redação."
+  },
+  "854124848": {
+   "fragment_id": "854083074",
+   "type": 11,
+   "heading": "Artigo 20.º — Processo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Processo individual\n\n1 - O CAVI deve obrigatoriamente organizar um processo individual por pessoa destinatária de assistência pessoal, do qual conste, designadamente:\n\na) O plano individualizado de assistência pessoal;\n\nb) A informação sobre a necessidade dos serviços ou apoios complementares à assistência pessoal, desde que devidamente fundamentado no plano individualizado de assistência pessoal;\n\nc) A avaliação, pela pessoa destinatária, da qualidade do serviço;\n\nd) O registo com data do início e termo do apoio, do número de horas e respetiva distribuição semanal, por atividades apoiadas, local da sua realização e número de assistentes pessoais envolvidos.\n\n2 - O processo individual deve estar permanentemente atualizado e é de acesso restrito, nos termos da legislação relativa à proteção de dados pessoais, sem prejuízo do direito de acesso por parte da pessoa a quem o mesmo respeita."
+  },
+  "854124849": {
+   "fragment_id": "854125475",
+   "type": 11,
+   "heading": "Artigo 21.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regulamento interno\n\n1 - O CAVI deve possuir um regulamento interno, do qual devem constar, nomeadamente:\n\na) Definição da missão, visão e objetivo do CAVI;\n\nb) Tipo de organização e regras de funcionamento;\n\nc) Identificação da equipa do CAVI;\n\nd) Indicação de direitos e deveres das pessoas destinatárias de assistência pessoal;\n\ne) Definição do perfil das pessoas destinatárias de assistência pessoal;\n\nf) Condições e critérios de acesso das pessoas destinatárias de assistência pessoal;\n\ng) Definição das atividades e serviços prestados;\n\nh) Minuta de contrato de trabalho ou prestação de serviços;\n\ni) Horário de funcionamento e de atendimento;\n\nj) Sistema de reclamações ou sugestões por parte das pessoas destinatárias.\n\n2 - O regulamento interno deve ser dado a conhecer ao/à destinatário/a da assistência pessoal de forma acessível e compreensível, bem como ao/à assistente pessoal."
+  },
+  "854124850": {
+   "fragment_id": "854125476",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime de funcionamento\n\n1 - O CAVI deve disponibilizar assistência pessoal durante todo o ano civil, com horários adequados às necessidades das pessoas destinatárias.\n\n2 - O CAVI dispõe de livro de reclamações, nos termos da legislação em vigor."
+  },
+  "854124851": {
+   "fragment_id": "854125477",
+   "type": 11,
+   "heading": "Artigo 23.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Acesso à informação\n\nO CAVI deve proceder à afixação, de forma acessível, visível e compreensiva, designadamente, da informação seguinte:\n\na) Mapa de pessoal afeto ao CAVI e respetivo horário de trabalho;\n\nb) Identificação da equipa e direção técnica do CAVI;\n\nc) Horário de funcionamento;\n\nd) Publicação dos apoios financeiros da segurança social e dos fundos europeus, quando aplicável;\n\ne) Regulamento interno."
+  },
+  "854124852": {
+   "fragment_id": "854125478",
+   "type": 11,
+   "heading": "Artigo 24.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Instalações\n\nAs instalações do CAVI devem reunir condições de segurança, de privacidade, funcionalidade e conforto, nomeadamente em matéria de edificado, acessibilidades, segurança e higiene no trabalho, em conformidade com a legislação em vigor."
+  },
+  "854124853": {
+   "fragment_id": "854125479",
+   "type": 11,
+   "heading": "Artigo 25.º — Processo de reconhecimento do centro de apoio à vida independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Processo de reconhecimento do centro de apoio à vida independente\n\n1 - Compete ao INR, I. P., em articulação com o ISS, I. P., reconhecer os CAVI constituídos nos termos da presente portaria.\n\n2 - Apenas podem ser reconhecidas as entidades que cumpram os requisitos específicos estabelecidos na presente portaria.\n\n3 - Um CAVI só pode funcionar com um mínimo de 10 e um máximo de 50 pessoas destinatárias de assistência pessoal.\n\n4 - Excecionalmente, em casos devidamente fundamentados pela equipa técnica, pode o CAVI disponibilizar assistência pessoal a mais de 50 pessoas, desde que seja obtida a correspondente autorização da equipa multidisciplinar prevista no artigo 31.º\n\n5 - A notificação da decisão é efetuada pelo INR. I. P., à entidade requerente no prazo máximo de 15 dias após a receção do pedido de reconhecimento previsto no n.º 10.\n\n6 - A decisão de não reconhecimento é precedida de audiência dos interessados, nos termos do Código do Procedimento Administrativo.\n\n7 - O reconhecimento como CAVI deve constar de arquivo organizado pelo INR, I. P.\n\n8 - Sem prejuízo de se afigurar necessária a sua revalidação, os CAVI reconhecidos no âmbito do projeto-piloto estabelecido pelo Decreto-Lei n.º 129/2017, de 9 de outubro, mantêm válido o respetivo reconhecimento.\n\n9 - A decisão de reconhecimento do CAVI deve ser revista com periodicidade quinquenal.\n\n10 - O reconhecimento é pedido mediante o preenchimento de formulário disponibilizado para o efeito pelo INR, I. P."
+  },
+  "854124854": {
+   "fragment_id": "854125480",
+   "type": 11,
+   "heading": "Artigo 26.º — Acompanhamento das entidades reconhecidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acompanhamento das entidades reconhecidas\n\n1 - Cabe ao INR, I. P., em articulação com o ISS, I. P., e à equipa multidisciplinar nacional, acompanhar a atividade dos CAVI, assegurando o cumprimento do disposto na presente portaria.\n\n2 - Os serviços desenvolvidos pelo CAVI são acompanhados pelo ISS, I. P., no âmbito das regras estabelecidas para a cooperação e em articulação com as demais entidades envolvidas.\n\n3 - As entidades reconhecidas devem facultar o acesso às suas instalações, bem como facilitar o acesso e a análise de toda a documentação relevante para os efeitos estabelecidos no número anterior.\n\n4 - Cada ação de acompanhamento deve dar origem a um relatório, no qual podem ser emitidas recomendações."
+  },
+  "854124855": {
+   "fragment_id": "854125481",
+   "type": 11,
+   "heading": "Artigo 27.º — Suspensão e cessação do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Suspensão e cessação do reconhecimento\n\n1 - O incumprimento superveniente do disposto na presente portaria pelas entidades reconhecidas como CAVI pode determinar a suspensão do respetivo reconhecimento.\n\n2 - No caso de incumprimento reiterado, pode cessar o reconhecimento.\n\n3 - Cabe ao INR, I. P., por decisão fundamentada, determinar a suspensão ou cessação do reconhecimento como CAVI, procedendo à sua devida notificação e comunicação à entidade responsável pelo financiamento.\n\n4 - A decisão de suspensão ou de cessação do reconhecimento é precedida de audiência dos interessados, nos termos do Código do Procedimento Administrativo."
+  },
+  "854124856": {
+   "fragment_id": "854125482",
+   "type": 11,
+   "heading": "Artigo 28.º — Acompanhamento, monitorização, avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Acompanhamento, monitorização, avaliação\n\nO acompanhamento, monitorização e avaliação dos acordos é realizado pelo ISS, I. P., e pelo INR, I. P., e incide, entre outras matérias, sobre:\n\na) Cumprimento dos objetivos estabelecidos;\n\nb) Qualidade do serviço prestado;\n\nc) Intervenção técnica realizada."
+  },
+  "854124857": {
+   "fragment_id": "854125483",
+   "type": 11,
+   "heading": "Artigo 29.º — Incumprimento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Incumprimento e fiscalização\n\nA competência de fiscalização e aplicação de sanções decorrentes do incumprimento das cláusulas constantes dos acordos e da legislação aplicável é exercida pelo ISS, I. P."
+  },
+  "854124858": {
+   "fragment_id": "854125484",
+   "type": 11,
+   "heading": "Artigo 30.º — Entidade coordenadora nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entidade coordenadora nacional\n\nA entidade coordenadora nacional do MAVI é constituída pelo INR, I. P., e ISS, I. P., nos termos a definir em despacho próprio a emitir pelo membro do Governo responsável pela área da segurança social."
+  },
+  "854124859": {
+   "fragment_id": "854125485",
+   "type": 11,
+   "heading": "Artigo 31.º — Equipa multidisciplinar nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Equipa multidisciplinar nacional\n\n1 - É criada uma equipa multidisciplinar nacional de apoio ao MAVI, constituída por elementos designados pelo INR, I. P., e ISS, I. P., cujos termos de organização e funcionamento são definidos através de regulamento, sujeito à aprovação da área governativa responsável pela área da inclusão.\n\n2 - A equipa multidisciplinar nacional é presidida pelo INR, I. P.\n\n3 - Compete à equipa multidisciplinar nacional, nomeadamente:\n\na) Elaborar o competente relatório técnico, sempre que se afigure necessário a assistência pessoal ser disponibilizada num maior número de horas de apoio, previsto no n.º 3 do artigo 7.º;\n\nb) Autorizar que o número máximo de pessoas apoiadas seja superior ao definido no n.º 4 do artigo 25.º;\n\nc) Monitorizar e avaliar a composição da equipa técnica;\n\nd) Promover todas as diligências necessárias à implementação, desenvolvimento e execução do MAVI;\n\ne) Elaborar e propor minuta de contrato de trabalho ou prestação de serviços;\n\nf) Apoiar todas as entidades que manifestem interesse em disponibilizar o serviço de assistência pessoal de apoio à pessoa com deficiência ou incapacidade;\n\ng) Recolher e disponibilizar toda a informação relevante para o desenvolvimento e monitorização efetiva do MAVI;\n\nh) Elaborar a avaliação anual prevista no artigo 32.º"
+  },
+  "854124860": {
+   "fragment_id": "854125486",
+   "type": 11,
+   "heading": "Artigo 32.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Avaliação\n\n1 - Compete ao INR, I. P., em articulação com o ISS, I. P., definir indicadores, monitorizar e garantir a disponibilização de informação de implementação do MAVI.\n\n2 - A equipa multidisciplinar prevista no artigo anterior apresenta relatórios trimestrais de monitorização e um relatório anual de avaliação interna.\n\n3 - É realizada, com caráter obrigatório e por entidade independente, uma avaliação do MAVI, cujos resultados são apresentados ao membro do Governo responsável pela área da segurança social visando a sua contínua melhoria e ajustamento.\n\n4 - A primeira avaliação a que se refere o número anterior decorre três anos após o início da implementação do MAVI, e as subsequentes de cinco em cinco anos.\n\n5 - Para efeitos do referido no número anterior, a avaliação deve obrigatoriamente considerar os contributos de pessoas apoiadas, dos CAVI e demais organizações representativas da área da deficiência."
+  },
+  "854124861": {
+   "fragment_id": "854125487",
+   "type": 11,
+   "heading": "Artigo 33.º — Acumulações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Acumulações\n\n1 - Excetuando as atividades previstas na alínea a) do n.º 1 do artigo 5.º, a assistência pessoal é acumulável com o subsídio de assistência de terceira pessoa e com o complemento por dependência, ou outros apoios financeiros e subsídios de ação social.\n\n2 - Desde que salvaguardada a não duplicação de atividades e períodos de tempo de serviço, a assistência pessoal é acumulável com as seguintes respostas sociais:\n\na) Centro de atividades e capacitação para a inclusão (CACI);\n\nb) Residências de autonomização e inclusão (RAI);\n\nc) Serviço de apoio domiciliário (SAD);\n\nd) Centro de atendimento, acompanhamento e reabilitação social para pessoas com deficiência ou incapacidade (CAARPD);\n\ne) A pessoa com deficiência ou incapacidade que beneficie de uma resposta social de tipo residencial pode optar pela disponibilização de assistência pessoal, beneficiando de um prazo de transição de seis meses durante o qual é possível a frequência de ambas as respostas."
+  },
+  "854124862": {
+   "fragment_id": "854125488",
+   "type": 11,
+   "heading": "Artigo 34.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Financiamento\n\n1 - O MAVI é financiado através do regime da cooperação entre a área governativa que tutela a segurança social e as entidades previstas no artigo 2.º, sendo o financiamento, as despesas elegíveis e respetivos limites definidos em despacho do membro do Governo responsável pela área da segurança social.\n\n2 - O serviço de assistência pessoal de apoio à pessoa com deficiência ou incapacidade não determina o pagamento de comparticipação familiar.\n\n3 - Entre o ISS, I. P., e as entidades que visam implementar um CAVI, são celebrados acordos de cooperação visando o desenvolvimento e execução da resposta social.\n\n4 - O acordo de cooperação deve ser elaborado em conformidade com as normas previstas na Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual.\n\n5 - No âmbito dos acordos a celebrar, o ISS, I. P., assume a atribuição do financiamento e as entidades beneficiárias assumem a execução da resposta.\n\n6 - A atribuição do financiamento está dependente da verificação do cumprimento dos requisitos previstos na presente portaria, assim como na Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual.\n\n7 - Aos acordos de cooperação são aplicáveis as disposições respeitantes à suspensão e cessação de apoios previstos nos artigos 33.º e seguintes da Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual."
+  },
+  "854124863": {
+   "fragment_id": "854125489",
+   "type": 11,
+   "heading": "Artigo 35.º — Outros serviços e/ou apoios complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Outros serviços e/ou apoios complementares\n\nAs despesas com serviços e/ou apoios complementares ao desenvolvimento do serviço de assistência pessoal prestada pelos CAVI, com caráter inovador, nomeadamente as referentes a rendas destinadas à habitação, acessibilidades e transporte, não enquadradas nos acordos de cooperação nos termos da presente portaria, desde que devidamente fundamentado no plano individualizado de assistência pessoal, são passíveis de financiamento, nos termos regulados por despacho do membro do Governo responsável pela área da segurança social."
+  },
+  "854124864": {
+   "fragment_id": "854125490",
+   "type": 11,
+   "heading": "Artigo 36.º — Financiamento por fundos europeus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Financiamento por fundos europeus\n\n1 - O MAVI é passível de financiamento proveniente de fundos europeus.\n\n2 - Para efeitos do disposto no número anterior, o MAVI deve ser desenvolvido em conformidade com a legislação nacional e europeia aplicável."
+  },
+  "854124865": {
+   "fragment_id": "854125491",
+   "type": 11,
+   "heading": "Artigo 37.º — Requisitos aplicáveis às entidades gestoras dos CAVI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Requisitos aplicáveis às entidades gestoras dos CAVI\n\nA entidade gestora do CAVI deve, para além do previsto nos respetivos regimes jurídicos enquadradores, reunir os seguintes requisitos:\n\na) Estar regularmente constituída e registada, incluindo no registo central do beneficiário efetivo (RCBE);\n\nb) Ter a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;\n\nc) Ter a situação regularizada em matéria de restituições no âmbito do financiamento pelos fundos europeus;\n\nd) Dispor de contabilidade organizada de acordo com o previsto na lei, quando aplicável;\n\ne) Não deter, nem ter detido nos últimos três anos, por si ou pelo seu cônjuge, separado ou não de pessoas e bens, ou pelos seus ascendentes e descendentes até ao primeiro grau, capital numa percentagem superior a 50 %, em entidades com situação não regularizada em matéria de restituições no âmbito dos fundos europeus;\n\nf) Não ter pagamento de salários em atraso;\n\ng) Não se encontrar em processo de insolvência;\n\nh) Não ter sido condenada em processo-crime ou contraordenacional por violação muito grave da legislação laboral, por violação da legislação sobre trabalho de menores ou discriminação no trabalho e emprego, nomeadamente em função do sexo, da deficiência e da existência de risco agravado de saúde, nos termos dos impedimentos e condicionamentos previstos no regime geral de aplicação dos fundos europeus."
+  },
+  "854124866": {
+   "fragment_id": "854125492",
+   "type": 11,
+   "heading": "Artigo 38.º — Acesso a locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Acesso a locais\n\n1 - Com o objetivo de permitir a concretização da missão dos ou das assistentes pessoais, todas as entidades públicas e privadas devem permitir que a pessoa que beneficia da assistência pessoal se faça acompanhar do seu ou da sua assistente pessoal, assegurando o respetivo acesso e permanência junto dela.\n\n2 - Excecionam-se do número anterior as situações que impliquem a salvaguarda de interesses essenciais, designadamente segurança, segredo comercial ou industrial, segredo sobre a vida interna da empresa ou entidade pública ou reserva da intimidade da vida privada de terceiros."
+  },
+  "854124867": {
+   "fragment_id": "854125493",
+   "type": 11,
+   "heading": "Artigo 39.º — Cooperação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Cooperação com outras entidades\n\n1 - No âmbito do apoio à vida independente, os CAVI podem celebrar protocolos de parceria com entidades relevantes para a sua atividade e atribuições, desde que não colidam com os princípios e com os requisitos estabelecidos na presente portaria.\n\n2 - No caso do disposto no número anterior, só são financiados os custos incorridos pelo CAVI."
+  },
+  "854124868": {
+   "fragment_id": "854125494",
+   "type": 11,
+   "heading": "Artigo 40.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Norma transitória\n\n1 - Ficam salvaguardadas as situações jurídicas constituídas ao abrigo do Decreto-Lei n.º 129/2017, de 9 de outubro, na sua atual redação, até à integral execução dos projetos.\n\n2 - A formação é assegurada pelos CAVI de acordo com os conteúdos formativos deliberados pelo INR, I. P., até que se encontrem reunidas as condições necessárias à exequibilidade do regime de qualificação, previsto no n.º 3 do artigo 14.º"
+  },
+  "854124869": {
+   "fragment_id": "854125495",
+   "type": 11,
+   "heading": "Artigo 41.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2024.\n\n2 - O disposto no n.º 3 do artigo 14.º entra em vigor quando se encontrem reunidas as condições necessárias à exequibilidade do regime de qualificação.\n\nEm 30 de novembro de 2023."
+  },
+  "854126583": {
+   "fragment_id": "854083055",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-01-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as condições de criação, instalação, organização e funcionamento a que deve obedecer a resposta social serviço de apoio à vida independente (SAVI), que se consubstancia na assistência pessoal de apoio à pessoa com deficiência ou incapacidade, e assenta no desenvolvimento do Modelo de Apoio à Vida Independente (MAVI)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-01-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854126584": {
+   "fragment_id": "854083056",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A presente portaria e as regras de financiamento previstas nos artigos 34.º a 37.º aplicam-se às entidades que promovem e disponibilizam o serviço de assistência pessoal de apoio à pessoa com deficiência ou incapacidade, que tenham a natureza de organização não governamental das pessoas com deficiência (ONGPD) e com estatuto de instituição particular de solidariedade social (IPSS), nos termos da legislação aplicável.\n\n2 - As regras respeitantes à criação, organização e funcionamento a que deve obedecer o MAVI, aplicam-se também às entidades de carácter público e privado, que assegurem o seu desenvolvimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854126585": {
+   "fragment_id": "854083059",
+   "type": 11,
+   "heading": "Artigo 5.º — Atividades",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Atividades\n\n1 - Para efeitos da presente portaria, consideram-se atividades a realizar no âmbito da assistência pessoal disponibilizada no MAVI, designadamente, as seguintes:\n\na) Atividades de apoio nos domínios da higiene, alimentação e cuidados pessoais;\n\nb) Atividades de apoio em assistência doméstica, de caráter pontual;\n\nc) Atividades de acompanhamento a consultas, tratamentos e intervenções de reabilitação;\n\nd) Atividades de apoio em deslocações;\n\ne) Atividades de mediação da comunicação;\n\nf) Atividades de apoio em contexto laboral e em atividades socialmente úteis;\n\ng) Atividades de apoio à frequência de formação profissional;\n\nh) Atividades de apoio à educação formal;\n\ni) Atividades de apoio à frequência de ensino superior e de investigação;\n\nj) Atividades de apoio em cultura, lazer e desporto;\n\nk) Atividades de apoio na procura ativa de emprego;\n\nl) Atividades de apoio à criação e desenvolvimento de redes sociais de apoio;\n\nm) Atividades de apoio à participação e cidadania;\n\nn) Atividades de apoio à tomada de decisão, incluindo a recolha e interpretação de informação necessária à mesma.\n\n2 - As atividades previstas na alínea h) do número anterior só podem ser realizadas no desenvolvimento das atividades letivas, nos termos a regulamentar pelos membros do Governo responsáveis pelas áreas da educação, segurança social e inclusão.\n\n3 - As atividades previstas no n.º 1, e em especial nas alíneas m) e n), não consubstanciam nem prejudicam o exercício da representação legal e respetivo regime jurídico.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854126586": {
+   "fragment_id": "854083061",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio em assistência pessoal",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Apoio em assistência pessoal\n\n1 - A assistência pessoal disponibilizada como um serviço de apoio organiza-se através dos recursos disponíveis para a prossecução do plano de vida independente da pessoa com deficiência ou incapacidade, mediante a distribuição de horas de apoio.\n\n2 - As horas de apoio referidas no número anterior podem ser disponibilizadas de forma consecutiva ou cumulativa, sendo o limite máximo por pessoa destinatária de 240 horas por mês.\n\n3 - Em situações excecionais e devidamente fundamentadas e referenciadas pela equipa técnica à equipa multidisciplinar prevista no artigo 31.º, quando a plena realização do projeto de vida independente da pessoa destinatária implique um número de horas semanais de apoio superior ao estabelecido no número anterior, pode aquele limite não ser observado, devendo as horas de apoio corresponder às necessárias na situação em concreto, até às 24 horas diárias.\n\n4 - Compete à pessoa com deficiência ou incapacidade, ou a quem legalmente a represente, conjuntamente com o/a assistente pessoal e com o CAVI, estabelecer e organizar as horas de apoio, de acordo com as necessidades identificadas no plano individualizado de assistência pessoal.\n\n5 - A pessoa com deficiência ou incapacidade destinatária de assistência pessoal pode solicitar ao CAVI a alteração das horas de apoio inicialmente fixadas ou alterar a sua distribuição diária ou semanal, assim como as atividades, devendo as alterações constar expressamente do plano individualizado de assistência pessoal.\n\n6 - Desde que devidamente fundamentado no plano individualizado de assistência pessoal, o serviço de assistência pessoal pode, ainda, ser complementado através do financiamento a rendas destinadas à habitação, a transportes e a acessibilidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854126587": {
+   "fragment_id": "854083064",
+   "type": 11,
+   "heading": "Artigo 10.º — Direitos e deveres do assistente pessoal",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Direitos e deveres do assistente pessoal\n\n1 - O/a assistente pessoal é a pessoa que contribui para que a pessoa com deficiência ou incapacidade tenha uma vida independente, apoiando-a na realização das atividades elencadas na presente portaria.\n\n2 - O/a assistente pessoal tem direito, nomeadamente, a:\n\na) Ser tratado/a com respeito e correção pela pessoa destinatária da assistência pessoal ou por qualquer membro do seu agregado familiar;\n\nb) Ver salvaguardada a sua segurança e respeitada a sua integridade física e moral;\n\nc) Ver garantida a confidencialidade dos elementos e informações constantes do seu processo individual;\n\nd) Apresentar críticas e sugestões relativas ao funcionamento da assistência pessoal;\n\ne) Conhecer de forma acessível e compreensível o regulamento interno do CAVI;\n\nf) Frequentar a formação definida no artigo 14.º;\n\ng) Conhecer e compreender a informação constante do plano individualizado de assistência pessoal com relevância para o desempenho das suas funções;\n\nh) Desempenhar as atividades para as quais foi contratado/a;\n\ni) Ver assegurado apoio psicossocial por parte do CAVI, no âmbito do cumprimento do regime jurídico da promoção da segurança e saúde no trabalho.\n\n3 - Constituem deveres do/a assistente pessoal, nomeadamente, os seguintes:\n\na) Ser assíduo/a e pontual e empenhado/a no cumprimento de todos os seus deveres no âmbito das atividades em que presta apoio;\n\nb) Respeitar e fazer respeitar a dignidade da pessoa com deficiência ou incapacidade destinatária da assistência pessoal;\n\nc) Respeitar as preferências e necessidades da pessoa com deficiência ou incapacidade em termos de conforto, segurança e bem-estar, e contribuir para a sua efetiva autonomização nos termos e condições que lhe forem indicados;\n\nd) Ser flexível e adaptar-se, dentro dos limites razoáveis, aos imprevistos que surjam na vida da pessoa com deficiência ou incapacidade a quem presta apoio;\n\ne) Tratar com respeito e correção a pessoa destinatária da assistência pessoal e os membros do seu agregado familiar;\n\nf) Guardar lealdade para com a pessoa destinatária da assistência pessoal e todos os membros do seu agregado familiar;\n\ng) Zelar pelo uso correto das instalações, mobiliário e equipamentos, no âmbito da execução das competentes atividades de assistência pessoal;\n\nh) Não captar sons ou imagens, ainda que involuntariamente, suscetíveis de colocar em causa a honra, reputação ou simples decoro da pessoa destinatária da assistência pessoal ou do seu agregado familiar;\n\ni) Respeitar a reserva da vida privada e familiar, o domicílio e as comunicações da pessoa destinatária da assistência pessoal e do seu agregado familiar;\n\nj) Cumprir com as orientações internas, com os procedimentos e prazos estabelecidos pelo CAVI para o bom funcionamento do serviço, desde que não conflituantes com o plano individualizado de assistência pessoal.\n\nk) Prestar auxílio e assistência à pessoa destinatária da assistência pessoal, sempre que necessário.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854126588": {
+   "fragment_id": "854083065",
+   "type": 11,
+   "heading": "Artigo 11.º — Recrutamento, seleção e contratação",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Recrutamento, seleção e contratação\n\n1 - Compete ao CAVI proceder ao recrutamento, seleção e contratação dos/as assistentes pessoais de acordo com os critérios estabelecidos na presente portaria.\n\n2 - Apenas podem ser candidatas as pessoas que preencham, cumulativamente, os requisitos seguintes:\n\na) Idade igual ou superior a 18 anos;\n\nb) Escolaridade obrigatória.\n\n3 - No processo de seleção dos/as candidatos/as a assistentes pessoais, são aplicáveis, designadamente, os seguintes critérios:\n\na) Ter idoneidade adequada para a realização das atividades abrangidas pela assistência pessoal;\n\nb) Possuir equilíbrio emocional e competências comportamentais adequadas ao apoio individual e próximo na promoção da autonomização de pessoas com deficiência;\n\nc) Possuir robustez física e psíquica para as funções em causa.\n\n4 - Nos processos de seleção dos/as candidatos/as a assistentes pessoais, podem ser definidos outros critérios específicos, em função das atividades a desempenhar tendo em conta as circunstâncias concretas das pessoas destinatárias de assistência pessoal, e sempre que se justifique, nomeadamente:\n\na) Ser detentor ou detentora de carta de condução;\n\nb) Possuir competências técnicas na área das tecnologias de informação e comunicação na ótica do utilizador;\n\nc) Possuir competências de comunicação em língua gestual portuguesa;\n\nd) Possuir competências técnicas em orientação e mobilidade;\n\ne) Ter conhecimento na área da saúde, nomeadamente ao nível do suporte básico de vida e primeiros socorros.\n\n5 - Os critérios previstos nos números anteriores são verificados por profissionais com habilitação adequada para o efeito, segundo critérios técnicos devidamente fundamentados.\n\n6 - O conselho diretivo do INR, I. P., em articulação com o Instituto da Segurança Social, I. P. (ISS, I. P.), aprova, por deliberação, linhas orientadoras do perfil de competências a que se referem as alíneas a) e b) do n.º 3.\n\n7 - Os/as assistentes pessoais não podem ter, nem nunca ter tido, qualquer relação jurídica familiar de casamento, união de facto, adoção, parentesco ou afinidade até ao segundo grau da linha reta, ou quarto grau da linha colateral, com a pessoa destinatária da assistência pessoal.\n\n8 - Após o procedimento de seleção previsto no presente artigo, cada CAVI procede à contratação dos/das assistentes pessoais.\n\n9 - O CAVI assegura que os/as assistentes pessoais frequentam a formação inicial prevista no Catálogo Nacional de Qualificações, sem prejuízo da formação contínua legalmente obrigatória.\n\n10 - O CAVI assegura os direitos da pessoa destinatária da assistência pessoal a participar na escolha do/a assistente pessoal a contratar, tal como previsto nas alíneas g) e h) do n.º 1 do artigo 9.º\n\n11 - O processo de seleção previsto no presente artigo não é aplicável quando a pessoa destinatária de assistência pessoal indique desde logo o/a assistente pessoal a contratar, o/a qual deve apenas cumprir o disposto nos n.os 2 e 7.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854126589": {
+   "fragment_id": "854083066",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime laboral",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Regime laboral\n\n1 - O/a assistente pessoal é contratado/a pelo CAVI para exercer funções junto da pessoa com deficiência ou incapacidade destinatária de assistência pessoal, através da celebração de contrato de trabalho em comissão de serviço, de acordo com o estabelecido no Código do Trabalho.\n\n2 - Sem prejuízo do disposto no número seguinte, o/a assistente pessoal pode ser contratado/a pelo CAVI enquanto trabalhador em regime de prestação de serviços, para exercer funções junto da pessoa com deficiência ou incapacidade destinatária de assistência pessoal, desde que o CAVI não tenha mais de 30 % dos seus colaboradores nestas circunstâncias e seja desempenhado o número máximo de 4 horas diárias.\n\n3 - No caso de incapacidade temporária para o trabalho por motivo de doença, licença por parentalidade e férias dos/as assistentes pessoais contratados/as em regime de comissão de serviço, o CAVI pode ainda recorrer à contratação de prestadores de serviços, pelo período de substituição necessário.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854126590": {
+   "fragment_id": "854083073",
+   "type": 11,
+   "heading": "Artigo 19.º — Equipa técnica do centro de apoio à vida independente",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Equipa técnica do centro de apoio à vida independente\n\n1 - A equipa do CAVI é constituída por técnicos e técnicas com habilitações de nível superior, nomeadamente nas áreas de psicologia, sociologia, gestão e administração, serviço social e reabilitação.\n\n2 - A equipa referida no número anterior é afeta a 100 % e composta até ao máximo de quatro elementos, sendo a sua composição determinada em função das necessidades, designadamente do número de pessoas com deficiência ou incapacidade apoiadas, de acordo com o seguinte critério:\n\na) 2 elementos de equipa para a 10 a 19 pessoas apoiadas;\n\nb) 3 elementos de equipa para 20 a 39 pessoas apoiadas;\n\nc) 4 elementos de equipa para 40 a 50, ou um número superior a este, de pessoas apoiadas.\n\n3 - A direção técnica do CAVI é assegurada por uma das pessoas referidas no n.º 1, sob direção dos órgãos de gestão da entidade que desenvolve o CAVI.\n\n4 - A constituição da equipa do CAVI deve incluir a integração de pessoas com deficiência ou incapacidade, certificada por atestado médico de incapacidade multiúso ou cartão de deficiente das Forças Armadas, com grau de incapacidade igual ou superior a 60 %.\n\n5 - Sempre que se demonstre necessário, designadamente por falta de meios humanos, o CAVI pode contratualizar com empresas ou pessoal especializado a prestação de atividades auxiliares de suporte, designadamente de recrutamento e seleção, formação, contabilidade, serviços jurídicos e serviços técnicos de avaliação do grau de acessibilidade dos edifícios e instalações previstas no Decreto-Lei n.º 163/2006, de 8 de agosto, na sua atual redação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854126591": {
+   "fragment_id": "854125479",
+   "type": 11,
+   "heading": "Artigo 25.º — Processo de reconhecimento do centro de apoio à vida independente",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Processo de reconhecimento do centro de apoio à vida independente\n\n1 - Compete ao INR, I. P., em articulação com o ISS, I. P., reconhecer os CAVI constituídos nos termos da presente portaria.\n\n2 - Apenas podem ser reconhecidas as entidades que cumpram os requisitos específicos estabelecidos na presente portaria.\n\n3 - Um CAVI só pode funcionar com um mínimo de 10 e um máximo de 50 pessoas destinatárias de assistência pessoal.\n\n4 - Excecionalmente, em casos devidamente fundamentados pela equipa técnica, pode o CAVI disponibilizar assistência pessoal a mais de 50 pessoas, desde que seja obtida a correspondente autorização da equipa multidisciplinar prevista no artigo 31.º\n\n5 - A notificação da decisão é efetuada pelo INR. I. P., à entidade requerente no prazo máximo de 15 dias após a receção do pedido de reconhecimento previsto no n.º 10.\n\n6 - A decisão de não reconhecimento é precedida de audiência dos interessados, nos termos do Código do Procedimento Administrativo.\n\n7 - O reconhecimento como CAVI deve constar de arquivo organizado pelo INR, I. P.\n\n8 - Sem prejuízo de se afigurar necessária a sua revalidação, os CAVI reconhecidos no âmbito do projeto-piloto estabelecido pelo Decreto-Lei n.º 129/2017, de 9 de outubro, mantêm válido o respetivo reconhecimento, a capacidade de horas e o número de destinatários abrangidos, à data da produção de efeitos da presente portaria.\n\n9 - A decisão de reconhecimento do CAVI deve ser revista com periodicidade quinquenal.\n\n10 - O reconhecimento é pedido mediante o preenchimento de formulário disponibilizado para o efeito pelo INR, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854126592": {
+   "fragment_id": "854125485",
+   "type": 11,
+   "heading": "Artigo 31.º — Equipa multidisciplinar nacional",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Equipa multidisciplinar nacional\n\n1 - É criada uma equipa multidisciplinar nacional de apoio ao MAVI, integrada na entidade coordenadora nacional, constituída por elementos designados pelo INR, I. P., e ISS, I. P., cujos termos de organização e funcionamento são definidos através de regulamento, sujeito à aprovação da área governativa responsável pela área da segurança social e inclusão.\n\n2 - A equipa multidisciplinar nacional é presidida pelo INR, I. P.\n\n3 - Compete à equipa multidisciplinar nacional, nomeadamente:\n\na) Elaborar o competente relatório técnico, sempre que se afigure necessário a assistência pessoal ser disponibilizada num maior número de horas de apoio, previsto no n.º 3 do artigo 7.º;\n\nb) Autorizar que o número máximo de pessoas apoiadas seja superior ao definido no n.º 4 do artigo 25.º;\n\nc) Monitorizar e avaliar a composição da equipa técnica;\n\nd) Promover todas as diligências necessárias à implementação, desenvolvimento e execução do MAVI;\n\ne) Elaborar e propor minuta de contrato de trabalho ou prestação de serviços;\n\nf) Apoiar todas as entidades que manifestem interesse em disponibilizar o serviço de assistência pessoal de apoio à pessoa com deficiência ou incapacidade;\n\ng) Recolher e disponibilizar toda a informação relevante para o desenvolvimento e monitorização efetiva do MAVI;\n\nh) Elaborar a avaliação anual prevista no artigo 32.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854126593": {
+   "fragment_id": "854125488",
+   "type": 11,
+   "heading": "Artigo 34.º — Financiamento",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 34.º — Financiamento\n\n1 - O MAVI é financiado através do regime de cooperação entre a área governativa que tutela a segurança social, e as entidades previstas no n.º 1 do artigo 2.º, devendo o acordo de cooperação definir, nomeadamente a capacidade de horas e de número de destinatários abrangidos, recursos humanos e comparticipação financeira.\n\n2 - O serviço de assistência pessoal de apoio à pessoa com deficiência ou incapacidade não determina o pagamento de comparticipação familiar.\n\n3 - Entre o ISS, I. P., e as entidades que visam implementar um CAVI, são celebrados acordos de cooperação visando o desenvolvimento e execução da resposta social.\n\n4 - O acordo de cooperação deve ser elaborado em conformidade com as normas previstas na Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual.\n\n5 - No âmbito dos acordos a celebrar, o ISS, I. P., assume a atribuição do financiamento e as entidades beneficiárias assumem a execução da resposta.\n\n6 - A atribuição do financiamento está dependente da verificação do cumprimento dos requisitos previstos na presente portaria, assim como na Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual.\n\n7 - Aos acordos de cooperação são aplicáveis as disposições respeitantes à suspensão e cessação de apoios previstos nos artigos 33.º e seguintes da Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/79-2024-854054398), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01"
+  },
+  "854124870": {
+   "fragment_id": "854125496",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos. - A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes.\n\n117135748"
+  }
+ }
+}

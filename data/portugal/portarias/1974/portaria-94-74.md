@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:407484:por
+title: Portaria n.º 94/74
+short_title: null
+summary: Fixa o novo regime de preços dos sabões, sabonetes, detergentes e abrasivos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Comissão de Coordenação Económica
+proposing_entity: null
+official_number: 94/74
+official_date: null
+publication_date: '1974-02-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 32/1974, Série I de 1974-02-07
+  number: '32'
+  series: I
+  supplement: null
+  pages: 198 - 198
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/02/03200/01980198.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '407484'
+  dre_path: /dr/detalhe/portaria/94-1974-407484
+  internal: pt:dre:407484:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-1974-407484
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-1974-407484
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-03-01T00:00:00Z'
+integrity:
+  source_sha256: e101177d4bf87d64239e7e25fcc3a99970a7a6f367975a004e024d955e402304
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1974/DRE-1974-94-407484.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:315546:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 94/74
+
+de 7 de Fevereiro
+
+Em face da conjuntura actual no sector das matérias-primas, em que as cotações internacionais se apresentam instáveis, considera-se conveniente dar maior maleabilidade à formação dos preços dos sabões, sabonetes, detergentes e abrasivos.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, ao abrigo dos Decretos-Leis n.os 41204, de 24 de Julho de 1957, e 196/72, de 12 de Junho, o seguinte:
+
+1.º O sabão do tipo Offenbach deixa de estar sujeito ao regime de tabelamento de preço, passando a estar abrangido pelo regime de homologação prévia previsto no artigo 2.º do referido [Decreto-Lei n.º 196/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1972-249521).
+
+2.º Os restantes sabões comuns e especiais, os sabonetes e os detergentes e abrasivos deixam de estar sujeitos ao mencionado regime de homologação prévia.
+
+3.º As margens de lucro máximo na comercialização dos sabões comuns e especiais a que se refere o número anterior são as seguintes:
+
+a) Em geral: 6% para o armazenista e 8% para o retalhista;
+
+b) Para o sabão do tipo amêndoa: 8% para o armazenista e 15% para o retalhista.
+
+4.º Ficam revogados os despachos a que se referem as declarações publicadas no Diário do Governo, 1.ª série, de 24 de Junho de 1965, de 16 de Agosto de 1965 e de 26 de Dezembro de 1968.
+
+Secretaria de Estado do Comércio, 29 de Janeiro de 1974. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.

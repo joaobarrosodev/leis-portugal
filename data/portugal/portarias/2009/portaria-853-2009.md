@@ -1,0 +1,326 @@
+---
+schema_version: '1.0'
+id: pt:dre:493482:por
+title: Portaria n.º 853/2009
+short_title: null
+summary: Altera a Portaria n.º 1129/2000, de 29 de Novembro, que estabelece a data e os termos em que passa a ser alimentada
+  a classe de oficiais técnicos superiores navais, a extinção da classe de oficiais farmacêuticos navais e aprova o regulamento
+  do concurso de admissão ao curso de formação complementar de oficiais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 853/2009
+official_date: null
+publication_date: '2009-08-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/2009, Série I de 2009-08-11
+  number: '154'
+  series: I
+  supplement: null
+  pages: 5202 - 5203
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15400/0520205203.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/853/2009/08/11/p/dre/pt/html
+  oj: null
+  dre: '493482'
+  dre_path: /dr/detalhe/portaria/853-2009-493482
+  internal: pt:dre:493482:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/853-2009-493482
+  metadata_url: https://data.dre.pt/eli/port/853/2009/08/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/853-2009-493482
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-08-11T00:00:00Z'
+integrity:
+  source_sha256: 4c866432f62b74db6765f9938388244bb5b65e7418aaac925f13f0340fc7dc01
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-853-493482.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Concurso
+- Marinha
+- Formação Complementar
+- Recrutamento de Pessoal
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Regulamento
+- Militar
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/166/2005/09/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/166/2005/09/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197-a/2003/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197-a/2003/08/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/236/1999/06/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/236/1999/06/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/310/2007/09/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/310/2007/09/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/70/2005/03/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/2005/03/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1129/2000/11/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1129/2000/11/29/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 853/2009
+
+de 11 de Agosto
+
+A classe de técnicos superiores navais dos quadros permanentes da Marinha vem sendo alimentada desde 1 de Setembro de 2001, nos termos da [Portaria n.º 1129/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2000-599694), de 29 de Novembro.
+
+Decorridos oito anos desde a sua entrada em vigor, existe necessidade de serem aperfeiçoados e ajustados procedimentos.
+
+Por outro lado, na sequência da publicação do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março, que aprovou o novo regime jurídico dos graus e diplomas do ensino superior, é necessário adequar o grau de ensino superior exigido para acesso ao concurso de admissão.
+
+Pretende-se, assim, com esta alteração, tornar o procedimento de recrutamento e selecção mais objectivo, por um lado, e, por outro, seleccionar recursos humanos que demonstrem uma preparação multifacetada e experiência profissional adequada à exigência do serviço naval.
+
+Nestes termos, ao abrigo do disposto no n.º 2 do artigo 222.º do Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000), de 25 de Junho, com as alterações introduzidas pela [Lei n.º 25/2000](https://diariodarepublica.pt/dr/detalhe/lei/25-2000-324143), de 23 de Agosto, e pelos Decretos-Leis n.os [197-A/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-2003-426744), de 30 de Agosto, [70/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2005-574568), de 17 de Março, [166/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2005-147857), de 23 de Setembro, e [310/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2007-640149), de 11 de Setembro:
+
+Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
+
+###### Artigo 1.º — Alteração à [Portaria n.º 1129/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2000-599694), de 29 de Novembro
+
+É alterado o n.º 4.º da [Portaria n.º 1129/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2000-599694), de 29 de Novembro, que passa a ter a seguinte redacção:
+
+«1.º...
+
+2.º...
+
+3.º...
+
+4.º A antiguidade dos oficiais que ingressam na classe TSN é reportada à data em que concluam com aproveitamento o respectivo CFCO.
+
+5.º...
+
+6.º...
+
+7.º...
+
+8.º...
+
+9.º...
+
+10.º...
+
+11.º...
+
+12.º...
+
+13.º...»
+
+###### Artigo 2.º — Alteração do anexo à [Portaria n.º 1129/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2000-599694), de 29 de Novembro
+
+Os artigos 1.º, 2.º, 3.º, 4.º, 7.º, 9.º, 10.º e 11.º do regulamento do concurso de admissão ao CFCO, em anexo à [Portaria n.º 1129/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2000-599694), de 29 de Novembro, passam a ter a seguinte redacção:
+
+«ANEXO
+
+Regulamento do concurso de admissão ao CFCO
+
+###### Artigo 1.º
+
+1 - ...
+
+a)...
+
+b)...
+
+c)...
+
+2 - Ao concurso interno limitado podem candidatar-se os militares da Marinha, habilitados com licenciatura obtida antes da adequação aos princípios do processo de Bolonha ou com o 1.º e o 2.º ciclos obtidos depois da adequação ao processo de Bolonha, desde que ambos se reportem à área para que foi aberto o concurso e reúnam as condições gerais de admissão previstas no artigo 2.º do presente regulamento.
+
+3 - Ao concurso interno geral podem candidatar-se militares de qualquer ramo das Forças Armadas, habilitados com licenciatura obtida antes da adequação aos princípios do processo de Bolonha ou com o 1.º e o 2.º ciclos obtidos depois da adequação ao processo de Bolonha, desde que ambos se reportem à área para que foi aberto o concurso e reúnam as condições gerais de admissão previstas no artigo 3.º do presente regulamento.
+
+4 - Ao concurso externo podem candidatar-se, para além dos militares referidos nos números anteriores, civis habilitados com licenciatura obtida antes da adequação aos princípios do processo de Bolonha ou com o 1.º e o 2.º ciclos obtidos depois da adequação ao processo de Bolonha, desde que ambos se reportem à área para que foi aberto o concurso e reúnam as condições gerais de admissão previstas no artigo 4.º do presente regulamento.
+
+###### Artigo 2.º
+
+...
+
+a) Estar habilitado, à data de abertura do concurso, com licenciatura ou com o 1.º e o 2.º ciclos constantes no respectivo aviso de abertura, obtidos em estabelecimento de ensino nacional ou, se obtidos no estrangeiro, oficialmente reconhecidos;
+
+b) Ter idade não superior a 38 anos, até 31 de Dezembro do ano de abertura do concurso;
+
+c) Ter cumprido, à data limite para a apresentação da candidatura, pelo menos dois anos de serviço efectivo.
+
+###### Artigo 3.º
+
+...
+
+a) Estar habilitado, à data de abertura do concurso, com licenciatura ou com o 1.º e o 2.º ciclos constantes no respectivo aviso de abertura, obtidos em estabelecimento de ensino nacional ou, se obtidos no estrangeiro, oficialmente reconhecidos;
+
+b) Ter idade não superior a 32 anos, até 31 de Dezembro do ano de abertura do concurso;
+
+c)...
+
+###### Artigo 4.º
+
+...
+
+a) Estar habilitado, à data de abertura do concurso, com licenciatura ou com o 1.º e o 2.º ciclos constantes no respectivo aviso de abertura, obtidos em estabelecimento de ensino nacional ou, se obtidos no estrangeiro, oficialmente reconhecidos;
+
+b) Ter idade não superior a 32 anos, até 31 de Dezembro do ano de abertura do concurso;
+
+c)...
+
+###### Artigo 7.º
+
+1 - O concurso compreende as fases documental e de prestação de provas.
+
+2 - As provas referidas no número anterior têm carácter eliminatório à excepção da prova de entrevista profissional.
+
+3 - (Anterior n.º 2.)
+
+4 - (Anterior n.º 3.)
+
+###### Artigo 9.º
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - A eliminação dos candidatos numa das provas determina a não realização das restantes, sendo os candidatos eliminados notificados desse facto.
+
+6 - A entrevista referida na alínea e) do n.º 4 do artigo 8.º é classificada numa escala de 0 a 20, em valores inteiros.
+
+7 - A classificação da entrevista é obtida com base nos seguintes factores:
+
+a) Motivação para a vida militar naval;
+
+b) Cultura naval e grau de conhecimento da organização geral e das missões da Marinha.
+
+###### Artigo 10.º
+
+1 - Os candidatos aprovados para cada uma das áreas definidas no concurso são ordenados de acordo com a classificação final (CF) que obtiverem, através das seguintes fórmulas:
+
+a)...
+
+b)...
+
+c)...
+
+em que:
+
+L = licenciatura ou 1.º e 2.º ciclos;
+
+A = avaliação de mérito;
+
+T = tempo de serviço;
+
+E = entrevista.
+
+2 - A CF do concurso, aproximada às centésimas, compreende:
+
+L - nota da licenciatura obtida antes do processo de adequação aos princípios do processo de Bolonha ou do mestrado integrado ou do 2.º ciclo obtido depois da adequação ao processo de Bolonha (0 a 20 em valores inteiros);
+
+A - avaliação de mérito, factor que integra a fórmula no concurso interno limitado:
+
+A = (3i + d + c)/5
+
+em que:
+
+i - média aritmética da avaliação individual, até aos cinco últimos anos, convertida na escala de 0 a 20, aproximada às centésimas, através da multiplicação por 4;
+
+d - classificação atribuída pelo júri de selecção, na escala de 0 a 20, à avaliação disciplinar, de acordo com o Regulamento de Avaliação de Mérito dos Militares da Marinha (RAM);
+
+c - classificação atribuída pelo júri de selecção, na escala de 0 a 20, à avaliação de formação e complementar nos termos do RAM;
+
+T - tempo de serviço efectivo dos candidatos militares é determinado em meses, transformado em escala de 0 a 20, com aproximação às centésimas, por cálculo proporcional entre os seguintes valores:
+
+24 meses - 10 valores;
+
+60 meses - 19 valores;
+
+72 meses - 20 valores;
+
+E - entrevista - a classificação deste método de selecção é atribuída numa escala de 0 a 20 valores.
+
+3 - ...
+
+4 - ...
+
+###### Artigo 11.º
+
+1 - Após a fase documental e a elaboração pelo júri da lista provisória relativa à classificação e ordenação finais, os candidatos são notificados pelo júri para a realização da audiência dos interessados para, no prazo de 10 dias, se pronunciarem por escrito.
+
+2 - (Anterior n.º 1.)
+
+3 - (Anterior n.º 2.)
+
+4 - (Anterior n.º 3.)»
+
+###### Artigo 3.º — Norma revogatória
+
+É revogado o n.º 12.º da Portaria n.º1129/2000, de 29 de Novembro.
+
+###### Artigo 4.º — Entrada em vigor
+
+1 - Sem prejuízo do disposto no número seguinte, a presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+2 - A presente portaria não se aplica aos processos de admissão ao CFCO e ingresso no quadro de técnico superior naval pendentes à data da sua entrada em vigor.
+
+Pelo Ministro da Defesa Nacional, João António da Costa Mira Gomes, Secretário de Estado da Defesa Nacional e dos Assuntos do Mar, em 20 de Julho de 2009.

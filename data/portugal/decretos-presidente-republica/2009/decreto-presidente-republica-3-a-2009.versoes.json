@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:634915:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2009-970235675",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/3-a-2009-634915",
+ "source_lastmod": "2026-05-26",
+ "versions": [
+  {
+   "date": "2009-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1123290375",
+    "971521375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1123290375": {
+   "fragment_id": "971521075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:\n\nÉ exonerado, sob proposta do Governo, o embaixador António Victor Martins Monteiro do cargo de Embaixador de Portugal em Paris."
+  },
+  "971521375": {
+   "fragment_id": "971521275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinado em 21 de Janeiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 27 de Janeiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado."
+  }
+ }
+}

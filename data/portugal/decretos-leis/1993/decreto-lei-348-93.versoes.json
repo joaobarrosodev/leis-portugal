@@ -1,0 +1,185 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:646298:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-886137962",
+ "dre_path": "/dr/detalhe/decreto-lei/348-1993-646298",
+ "source_lastmod": "2024-08-28",
+ "versions": [
+  {
+   "date": "1993-10-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886138822",
+    "886138823",
+    "886138824",
+    "886138825",
+    "886138826",
+    "886138827",
+    "886138828",
+    "886138829",
+    "886138830",
+    "886138831",
+    "886138832",
+    "886138833",
+    "886138834"
+   ]
+  },
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345124:por",
+     "title": "Lei n.º 113/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/113-1999-345124"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "886138822",
+    "886138823",
+    "886138824",
+    "886138825",
+    "886138826",
+    "886138827",
+    "886138828",
+    "886138829",
+    "886138830",
+    "886138831",
+    "886138832",
+    "886138833",
+    "886138836",
+    "886138835"
+   ]
+  }
+ ],
+ "fragments": {
+  "886138822": {
+   "fragment_id": "886137963",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 348/93\n\nde 1 de Outubro\n\nO Decreto-Lei n.º 441/91, de 14 de Novembro, estabelece o regime jurídico do enquadramento da segurança, higiene e saúde no trabalho, referindo-se expressamente, no n.º 2 do seu artigo 23.º, à regulamentação derivada da transposição para o direito interno das directivas comunitárias.\n\nNestes termos, o presente diploma visa transpor para a ordem jurídica interna a Directiva n.º 89/656/CEE, do Conselho, de 30 de Novembro, relativa às prescrições mínimas de segurança e de saúde dos trabalhadores na utilização de equipamentos de protecção individual, que constitui a terceira directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva n.º 89/391/CEE, do Conselho, de 12 de Junho, e atender aos princípios orientadores constantes da Comunicação da Comissão n.º 89/C328/02, de 30 de Novembro, relativa à avaliação do ponto de vista da segurança dos equipamentos de protecção individual.\n\nPretende-se, assim, cumprir a exigência de fixação de prescrições mínimas de segurança e de saúde no quadro da dimensão social do mercado interno, cuja observância levará à melhoria do nível de prevenção e de protecção dos trabalhadores na utilização dos equipamentos de protecção individual.\n\nO presente diploma foi apreciado em sede do Conselho Nacional de Segurança, Higiene e Saúde no Trabalho, reflectindo os consensos ali alcançados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886138823": {
+   "fragment_id": "886137964",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º 89/656/CEE, do Conselho, de 30 de Novembro, relativa às prescrições mínimas de segurança e de saúde dos trabalhadores na utilização de equipamentos de protecção individual."
+  },
+  "886138824": {
+   "fragment_id": "886137965",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente diploma tem o âmbito de aplicação estabelecido no artigo 2.º do Decreto-Lei n.º 441/91, de 14 de Novembro."
+  },
+  "886138825": {
+   "fragment_id": "886137966",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por equipamento de protecção individual todo o equipamento, bem como qualquer complemento ou acessório, destinado a ser utilizado pelo trabalhador para se proteger dos riscos, para a sua segurança e para a sua saúde.\n\n2 - A definição do número anterior não abrange:\n\na) Vestuário vulgar de trabalho e uniformes não destinados à protecção da segurança e da saúde do trabalhador;\n\nb) Equipamentos de serviços de socorro e salvamento;\n\nc) Equipamentos de protecção individual dos militares, polícias e pessoas dos serviços de manutenção da ordem;\n\nd) Equipamentos de protecção individual utilizados nos meios de transporte rodoviários;\n\ne) Material de desporto;\n\nf) Material de autodefesa ou dissuasão;\n\ng) Aparelhos portáteis para detecção e sinalização de riscos e factores nocivos."
+  },
+  "886138826": {
+   "fragment_id": "886137967",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípio geral\n\nOs equipamentos de protecção individual devem ser utilizados quando os riscos existentes não puderem ser evitados ou suficientemente limitados por meios técnicos de protecção colectiva ou por medidas, métodos ou processos de organização do trabalho."
+  },
+  "886138827": {
+   "fragment_id": "886137968",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições gerais\n\n1 - Todo o equipamento de protecção individual deve:\n\na) Estar conforme com as normas aplicáveis à sua concepção e fabrico em matéria de segurança e saúde;\n\nb) Ser adequado aos riscos a prevenir e às condições existentes no local de trabalho, sem implicar por si próprio um aumento de risco;\n\nc) Atender às exigências ergonómicas e de saúde do trabalhador;\n\nd) Ser adequado ao seu utilizador.\n\n2 - Os equipamentos de protecção individual utilizados simultaneamente devem ser compatíveis entre si e manter a sua eficácia relativamente aos riscos contra os quais se visa proteger o trabalhador.\n\n3 - O equipamento de protecção individual é de uso pessoal.\n\n4 - Em casos devidamente justificados, o equipamento de protecção individual pode ser utilizado por mais que um trabalhador, devendo, neste caso, ser tomadas medidas apropriadas para salvaguarda das condições de higiene e de saúde dos diferentes utilizadores.\n\n5 - As condições de utilização do equipamento de protecção individual, nomeadamente no que se refere à sua duração, são determinadas em função da gravidade do risco, da frequência da exposição ao mesmo e das características do posto de trabalho.\n\n6 - O equipamento de protecção individual deve ser usado de acordo com as instruções do fabricante."
+  },
+  "886138828": {
+   "fragment_id": "886137969",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações do empregador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações do empregador\n\nConstitui obrigação do empregador:\n\na) Fornecer equipamento de protecção individual e garantir o seu bom funcionamento;\n\nb) Fornecer e manter disponível nos locais de trabalho informação adequada sobre cada equipamento de protecção individual;\n\nc) Informar os trabalhadores dos riscos contra os quais o equipamento de protecção individual os visa proteger;\n\nd) Assegurar a formação sobre a utilização dos equipamentos de protecção individual, organizando, se necessário, exercícios de segurança."
+  },
+  "886138829": {
+   "fragment_id": "886137970",
+   "type": 11,
+   "heading": "Artigo 7.º — Descrição técnica do equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Descrição técnica do equipamento\n\nA descrição técnica do equipamento de protecção individual, bem como das actividades e sectores de actividade para os quais aquele pode ser necessário, é objecto de portaria do Ministro do Emprego e da Segurança Social."
+  },
+  "886138830": {
+   "fragment_id": "886137971",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigações dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações dos trabalhadores\n\nConstitui obrigação dos trabalhadores:\n\na) Utilizar correctamente o equipamento de protecção individual de acordo com as instruções que lhe forem fornecidas;\n\nb) Conservar e manter em bom estado o equipamento que lhe for distribuído;\n\nc) Participar de imediato todas as avarias ou deficiências do equipamento de que tenha conhecimento."
+  },
+  "886138831": {
+   "fragment_id": "886137972",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação dos trabalhadores\n\nOs trabalhadores, assim como os seus representantes, devem dispor de informação sobre todas as medidas a tomar relativas à segurança e saúde na utilização dos equipamentos de protecção individual."
+  },
+  "886138832": {
+   "fragment_id": "886137973",
+   "type": 11,
+   "heading": "Artigo 10.º — Consulta dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Consulta dos trabalhadores\n\nOs trabalhadores, assim como os seus representantes, devem ser consultados sobre a escolha do equipamento de protecção individual."
+  },
+  "886138833": {
+   "fragment_id": "886137974",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\nA fiscalização do cumprimento das normas constantes do presente diploma e respectiva regulamentação, bem como a aplicação das correspondentes sanções, compete ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, sem prejuízo da competência fiscalizadora específica atribuída a outras entidades, conforme o disposto no artigo 21.º do Decreto-Lei n.º 441/91, de 14 de Novembro."
+  },
+  "886138834": {
+   "fragment_id": "886139675",
+   "type": 11,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De 30000$00 a 50000$00, por cada trabalhador abrangido, sem prejuízo do limite máximo fixado na lei geral, a violação da obrigação de fornecer equipamento adequado;\n\nb) De 50000$00 a 200000$00, a violação dos deveres de informação e de consulta previstos nos artigos 9.º e 10.º;\n\nc) De 100000$00 a 500000$00, a violação do dever de formação previsto na alínea d) do artigo 6.º\n\n2 - Metade do produto das coimas reverte para o Fundo de Garantia e Actualização de Pensões, destinando-se a outra metade à entidade que as aplica, em conformidade com o disposto no artigo 4.º do Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto."
+  },
+  "886138836": {
+   "fragment_id": "886139675",
+   "type": 11,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\nConstitui contra-ordenação grave a violação dos artigos 6.º, 9.º e 10.º\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+  },
+  "886138835": {
+   "fragment_id": "886139676",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Filipe Alves Monteiro - José Martins Nunes - José Albino da Silva Peneda.\n\nPromulgado em 3 de Setembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 7 de Setembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

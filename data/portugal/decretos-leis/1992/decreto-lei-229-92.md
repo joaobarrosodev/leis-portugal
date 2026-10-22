@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:221362:por
+title: Decreto-Lei n.º 229/92
+short_title: null
+summary: Estabelece o regime que regula o acesso à profissão de transportador público rodoviário interno de passageiros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 229/92
+official_date: null
+publication_date: '1992-10-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 243/1992, Série I-A de 1992-10-21
+  number: '243'
+  series: I
+  supplement: null
+  pages: 4902 - 4904
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/10/243a00/49024904.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/229/1992/10/21/p/dre/pt/html
+  oj: null
+  dre: '221362'
+  dre_path: /dr/detalhe/decreto-lei/229-1992-221362
+  internal: pt:dre:221362:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1992-221362
+  metadata_url: https://data.dre.pt/eli/dec-lei/229/1992/10/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1992-221362
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-01-10T00:00:00Z'
+integrity:
+  source_sha256: 233354a5b4d2de2c61c074800d1a7a20ea9d6ff1d7e43c83392d88fd4ab37e16
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-229-221362.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Autorização de Transporte
+- Empresa
+- CEE
+- Transporte Terrestre
+- Transporte Rodoviário
+- Transporte de Passageiros
+- Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:239247:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31974L0562
+  label: null
+  source: http://data.europa.eu/eli/dir/1974/562/oj
+- type: cites
+  target: celex:31985L0579
+  label: null
+  source: http://data.europa.eu/eli/dir/1985/579/oj
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 229/92
+
+de 21 de Outubro
+
+Pelo presente diploma cria-se o quadro legal que regulamenta o acesso à profissão de transportador público rodoviário interno de passageiros.
+
+As regras ora adoptadas visam assegurar que, numa zona tão sensível como é a dos transportes internos, existam os padrões adequados de idoneidade, segurança e qualidade dos serviços prestados, por forma a garantir uma mais correcta prestação de tão importante serviço público.
+
+O regime consagrado no presente diploma acolhe as regras comunitárias em vigor para o sector (constantes das Directivas do Conselho n.os [74/562/CEE](http://data.europa.eu/eli/dir/1974/562/oj?locale=pt), de 12 de Novembro de 1974, e [85/579/CEE](http://data.europa.eu/eli/dir/1985/579/oj?locale=pt), de 20 de Dezembro de 1985) e constitui um importante passo para a sua modernização.
+
+Atendendo às suas especiais características, o disposto no presente diploma não se aplica aos transportes públicos rodoviários internos de passageiros que sejam explorados directa e exclusivamente pelos municípios ou por agências de viagens e turismo, sendo que estes continuarão a reger-se pela sua legislação específica.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+O disposto no presente diploma aplica-se aos transportes públicos rodoviários internos de passageiros.
+
+###### Artigo 2.º — Definição
+
+Para efeitos do presente diploma e respectivas normas regulamentares, entende-se por transportes públicos rodoviários internos de passageiros qualquer transporte por estrada, por meio de veículos construídos ou adaptados para o transporte de mais de nove pessoas, incluindo o condutor, que se realize entre pontos situados em território português.
+
+###### Artigo 3.º — Acesso à profissão
+
+1 - Os transportes públicos rodoviários internos de passageiros só poderão ser realizados por empresas autorizadas para o efeito pela Direcção-Geral de Transportes Terrestres.
+
+2 - A autorização a que se refere o número anterior só pode ser concedida às empresas constituídas sob a forma de sociedades anónimas ou por quotas, ou de cooperativas, que preencham os requisitos de idoneidade, capacidade profissional e financeira.
+
+3 - O requisito de idoneidade deve ser preenchido pelos administradores, directores ou gerentes que detenham a direcção efectiva da empresa.
+
+4 - O requisito de capacidade profissional deve ser preenchido, pelo menos, por um administrador, director ou gerente, que detenha a direcção efectiva da empresa.
+
+###### Artigo 4.º — Idoneidade
+
+1 - Para efeitos do disposto no presente diploma, são consideradas idóneas as pessoas relativamente às quais se não verifique algum dos seguintes impedimentos:
+
+a) Proibição legal do exercício do comércio;
+
+b) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador;
+
+c) Condenação, com trânsito em julgado, por infracções graves e repetidas à regulamentação sobre os tempos de condução e de repouso, ou à regulamentação sobre segurança rodoviária, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador;
+
+d) Condenação, com trânsito em julgado, por infracções cometidas no exercício da actividade transportadora às normas relativas ao regime das prestações de natureza retributiva ou às condições de higiene e segurança no trabalho, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador.
+
+2 - O disposto no número anterior deixa de produzir efeitos após a reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
+
+###### Artigo 5.º — Capacidade profissional
+
+1 - O requisito da capacidade profissional consiste na posse das aptidões verificadas no âmbito de um exame escrito, efectuado pela Direcção-Geral de Transportes Terrestres, nas matérias que vierem a ser definidas por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+2 - As pessoas que tenham concluído curso superior que implique conhecimento em alguma das matérias a que se reporta o número anterior serão dispensadas do exame referente a essa ou essas matérias.
+
+3 - Será, igualmente, reconhecida capacidade profissional às pessoas que comprovem documentalmente um experiência de, pelo menos, cinco anos consecutivos na direcção de uma empresa de transporte rodoviário de passageiros.
+
+4 - Constituem receita própria da Direcção-Geral de Transportes Terrestres os montantes que vierem a ser fixados, por portaria, para as inscrições no exame a que se refere o n.º 1.
+
+###### Artigo 6.º — Capacidade financeira
+
+As empresas que se dediquem, ou pretendam dedicar-se, à exploração de transportes públicos rodoviários internos de passageiros devem dispor dos recursos financeiros necessários para garantir o arranque e a boa gestão da empresa, nos termos a definir por portaria conjunta do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações.
+
+###### Artigo 7.º — Falta superveniente de requisitos
+
+1 - A falta superveniente dos requisitos de idoneidade, de capacidade profissional ou de capacidade financeira deve ser suprida no prazo de 120 dias a contar da data da sua ocorrência.
+
+2 - Decorrido o prazo referido no número anterior sem que a falta seja suprida, e enquanto o não for, o exercício da actividade é, para todos os efeitos, considerado como exercício da actividade de transportador público rodoviário interno de passageiros por entidade não autorizada nos termos do artigo 3.º
+
+###### Artigo 8.º — Veículos
+
+Na realização de transportes a que se refere o presente diploma podem ser utilizados os veículos pesados de passageiros de que a empresa seja titular, em regime de propriedade, de locação financeira ou de aluguer.
+
+###### Artigo 9.º — Coimas
+
+1 - Constitui contra-ordenação punível com coima mínima de 2000000$00 e máxima de 3000000$00, no caso de pessoa colectiva, e de 400000$00 a 500000$00, no caso de pessoa singular, a realização dos transportes abrangidos pelo presente diploma por entidades não autorizadas nos termos do artigo 3.º
+
+2 - Constitui contra-ordenação punível com coima mínima de 100000$00 e máxima de 300000$00 a utilização de veículos com inobservância dos regimes estabelecidos no artigo 8.º
+
+3 - A negligência é punível.
+
+###### Artigo 10.º — Instrução do processo e aplicação das coimas
+
+1 - A instrução do processo por contra-ordenações previstas neste diploma compete à Direcção-Geral de Transportes Terrestres.
+
+2 - A aplicação das coimas é da competência do director-geral de Transportes Terrestres.
+
+###### Artigo 11.º — Fiscalização
+
+1 - São competentes para a fiscalização do cumprimento do disposto no presente diploma e respectiva regulamentação as seguintes entidades:
+
+a) Direcção-Geral de Transportes Terrestres;
+
+b) Direcção-Geral de Viação;
+
+c) Guarda Nacional Republicana;
+
+d) Polícia de Segurança Pública;
+
+e) Inspecção-Geral do Trabalho.
+
+2 - As entidades referidas no número anterior podem proceder, no âmbito da respectiva competência, junto dos transportadores, bem como de qualquer pessoa singular ou colectiva participante num contrato de transporte ou na sua execução, a todas as investigações e verificações necessárias para o exercício da sua competência fiscalizadora.
+
+3 - É obrigatória a apresentação às autoridades referidas no n.º 1 das licenças, autorizações e outros documentos exigíveis nos termos da regulamentação aplicável.
+
+4 - Os autos de notícia por infracção ao disposto no presente diploma são remetidos pelas entidades fiscalizadoras, no prazo de cinco dias úteis, à Direcção-Geral de Transportes Terrestres, para instrução do competente processo contra-ordenacional.
+
+###### Artigo 12.º — Produto das coimas
+
+A afectação do produto das coimas far-se-á da forma seguinte:
+
+a) 20% para a entidade competente para a aplicação da coima;
+
+b) 20% para a entidade fiscalizadora, excepto quando esta não disponha da faculdade de arrecadar receitas próprias, revertendo, nesse caso, para os cofres do Estado;
+
+c) 60% para o Estado.
+
+###### Artigo 13.º — Salvaguarda de direitos adquiridos
+
+As empresas já titulares de concessões, nos termos da legislação vigente à data da entrada em vigor do presente diploma, para exploração de transportes públicos rodoviários internos de passageiros conservam o direito de realizar esses transportes, sem prejuízo de, no período máximo de dois anos, fazerem prova, perante a Direcção-Geral de Transportes Terrestres, da posse dos requisitos de idoneidade e capacidade profissional e financeira.
+
+###### Artigo 14.º — Serviços Municipalizados de Transportes e Transportes Turísticos
+
+Os requisitos de acesso à profissão constantes do presente diploma não se aplicam aos serviços de transporte público rodoviário interno de passageiros explorados directa e exclusivamente pelos municípios ou por agências de viagens e turismo, que continuam a reger-se pelo quadro legal próprio em vigor à data da publicação do presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Jorge Manuel Mendes Antas - José Albino da Silva Peneda.
+
+**Promulgado em 6 de Outubro de 1992.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 7 de Outubro de 1992.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

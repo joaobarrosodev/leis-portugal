@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:343947:por
+title: Portaria n.º 813/2010
+short_title: null
+summary: Segunda alteração à Portaria n.º 441/2009, de 27 de Abril, que estabelece as regras nacionais complementares da ajuda
+  à diversificação definida no Programa Nacional de Reestruturação do sector do açúcar e da ajuda suplementar à diversificação
+  definida no artigo 7.º do Regulamento (CE) n.º 320/2006, do Conselho, de 20 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 813/2010
+official_date: null
+publication_date: '2010-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 167/2010, Série I de 2010-08-27
+  number: '167'
+  series: I
+  supplement: null
+  pages: 3710 - 3711
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/16700/0371003711.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/813/2010/08/27/p/dre/pt/html
+  oj: null
+  dre: '343947'
+  dre_path: /dr/detalhe/portaria/813-2010-343947
+  internal: pt:dre:343947:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/813-2010-343947
+  metadata_url: https://data.dre.pt/eli/port/813/2010/08/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/813-2010-343947
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-08-27T00:00:00Z'
+integrity:
+  source_sha256: 29c6525751f72990d678559283e758247a608aaac6f621ebe5c0048e5ae33590
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-813-343947.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Feaga
+- IFAP
+- Reestruturação Industrial
+- Açúcar
+- Página na Internet
+- Internet
+- Política Agrícola
+- Refinaria de Açúcar
+relationships:
+- type: cites
+  target: celex:32006R0320
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/320/oj
+- type: cites
+  target: celex:32006R0968
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/968/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/441/2009/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/441/2009/04/27/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 813/2010
+
+de 27 de Agosto
+
+A Portaria n.º 441/2009, de 27 de Abril, relativa às regras nacionais complementares da ajuda à diversificação definida no Programa Nacional de Reestruturação do sector do açúcar e da ajuda suplementar à diversificação definida no artigo 7.º do Regulamento (CE) n.º [320/2006](https://data.europa.eu/eli/reg/2006/320/oj?locale=pt), do Conselho, de 20 de Fevereiro, foi alterada pela Portaria n.º 256/2010, de 6 de Maio.
+
+Com efeito, através desta última foram introduzidas modificações no sentido de rever certos aspectos da referida portaria, nomeadamente em matéria de prazos.
+
+Contudo, verificaram-se alguns constrangimentos operacionais ao nível dos produtores de beterraba, constrangimentos esses que conduziram à impossibilidade de cumprimento da data limite para apresentação dos pedidos de pagamento junto do Instituto de Financiamento da Agricultura e Pescas, I. P., (IFAP, I. P.).
+
+Neste contexto, considera-se adequado prolongar o prazo para a entrega do pedido de pagamento, mantendo-se todavia a data limite para pagamento, por razões de cumprimento dos requisitos orçamentais estabelecidos no quadro do Fundo Europeu Agrícola de Garantia (FEAGA).
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no Regulamento (CE) n.º [320/2006](https://data.europa.eu/eli/reg/2006/320/oj?locale=pt), do Conselho, de 20 de Fevereiro, e do Regulamento (CE) n.º [968/2006](https://data.europa.eu/eli/reg/2006/968/oj?locale=pt), da Comissão, de 27 de Junho, o seguinte:
+
+###### Artigo 1.º — Alteração à Portaria n.º 441/2009, de 27 de Abril
+
+O artigo 16.º da Portaria n.º 441/2009, de 27 de Abril, com a redacção que lhe foi conferida pela Portaria n.º 256/2010, de 6 de Maio, passa a ter a seguinte redacção:
+
+«Artigo 16.º
+
+[...]
+
+1 - O pedido de pagamento deve ser formalizado pelo beneficiário, através da apresentação, até ao dia 2 de Setembro de 2010, junto do IFAP, I. P., de modelo próprio, disponível em www.ifap.pt, devidamente preenchido e assinado.
+
+2 - ...»
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia da sua publicação.
+
+**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano, em 23 de Agosto de 2010.**

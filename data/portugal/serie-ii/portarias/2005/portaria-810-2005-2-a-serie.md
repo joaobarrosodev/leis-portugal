@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:804706:por
+title: Portaria n.º 810/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 810/2005 (2.ª série)
+official_date: null
+publication_date: '2005-08-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 160/2005, Série II de 2005-08-22
+  number: '160'
+  series: II
+  supplement: null
+  pages: 11994 - 11995
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/08/160000000/1199411995.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '804706'
+  dre_path: /dr/detalhe/portaria/810-2005-804706
+  internal: pt:dre:804706:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/810-2005-804706
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/810-2005-804706
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-08-22T00:00:00Z'
+integrity:
+  source_sha256: e52a366cff5877ab6d4f87c08123994aabd466d744af84f25cb3b20f1b9f17a2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-810-804706.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 810/2005 (2.ª série)
+
+Portaria n.º 810/2005 (2.ª série). - Louvo o coronel de artilharia NIM 13078471, José António Machado Alves de Matos, pela forma altamente dedicada, eficiente, permanente disponibilidade e inexcedível sentido de responsabilidade como desempenhou as funções de director técnico do Projecto n.º 1, "Apoio técnico à organização superior da defesa e das forças de defesa de Moçambique", inscrito no Programa Quadro da Cooperação Técnico-Militar Luso-Moçambicana.
+
+Mercê do seu empenho pessoal e do elevado profissionalismo com que efectuou inúmeros pareceres e propostas sobre as mais diversas matérias com que a Cooperação Técnico-Militar se vê confrontada, contribuiu em permanência para a consolidação do Projecto, que dirigiu, revelando, a par de um excepcional sentido do dever, elevadas capacidades de análise e síntese, atributos que foram de enorme utilidade para informação e apoio para a tomada de decisão do director-geral de Política de Defesa Nacional, nomeadamente nos assuntos que relevam do apoio à organização, modernização e funcionamento do Sistema de Defesa Nacional Moçambicano, bem como das suas Forças Armadas.
+
+De salientar, também, que o envolvimento no planeamento do processo relativo ao levantamento da Academia das Forças Armadas de Moçambique foi em grande medida decisivo para a eficácia e sucesso da execução técnica deste Projecto, merecendo destaque a sua acção na elaboração de estudos e planos e apresentação de propostas ajustadas, coerentes e fundamentadas, nomeadamente de orientações para a concepção dos respectivos instrumentos jurídico-legais, revelando elevada competência técnico-profissional e superior espírito de colaboração.
+
+Ao longo do período da sua missão, merece ainda destaque a sensibilidade e o pragmatismo com que tratou os assuntos que se lhe depararam, muitas vezes, de elevada complexidade, especialmente os relativos à colaboração que lhe foi solicitada no âmbito do Sistema de Protecção Civil e Apoio de Emergência de Moçambique, que muito contribuíram de modo relevante para a eficácia das capacidades instaladas pela Cooperação Técnico-Militar e visibilidade e prestígio de Portugal.
+
+Possuidor de reconhecida verticalidade, extremamente sensato e ponderado, agindo com inegável lealdade e elevado espírito de missão, esmerado no trato e sabendo estimular o bom relacionamento pessoal, reuniu com naturalidade a estima, o respeito e a admiração dos oficiais nacionais e moçambicanos que com ele lidaram continuamente.
+
+Do excelente desempenho das suas funções resultou o reconhecimento público de autoridades políticas e militares de Moçambique e neste contexto são de relevar os encómios que o Ministro da Defesa Nacional da República de Moçambique achou por bem registar no que se refere ao coronel Alves de Matos.
+
+Oficial de elevadas qualidades pessoais e profissionais, onde sobrelevam vincados dotes de carácter e lealdade, detentor de profundos conhecimentos nas áreas da cooperação técnico-militar e de elevado sentido de serviço e espírito de missão, e que o creditam para o exercício de funções de maior responsabilidade, o coronel Alves de Matos no desempenho das suas funções revelou qualidades que o creditam como um distinto oficial do Exército e de que, inequivocamente, resultou honra e lustre para as Forças Armadas e para Portugal, devendo os serviços por si prestados ser considerados como relevantes, extraordinários e distintos.
+
+Assim:
+
+Atento o presente louvor, manda o Governo, pelo Ministro da Defesa Nacional, nos termos do n.º 1 do artigo 34.º, do artigo 13.º e da alínea a) n.º 1 do artigo 16.º do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de Dezembro, condecorar com a medalha de serviços distintos de prata o coronel de artilharia NIM 13078471, José António Machado Alves de Matos.
+
+1 de Junho de 2005. - O Ministro da Defesa Nacional, Luís Filipe Marques Amado.

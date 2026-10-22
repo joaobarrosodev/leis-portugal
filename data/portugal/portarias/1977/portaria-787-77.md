@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:280026:por
+title: Portaria n.º 787/77
+short_title: null
+summary: Substitui os anexos I e II ao Decreto-Lei n.º 76/77, de 1 de Março, que fixam as categorias do pessoal da administração
+  regional e local
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Administração Interna
+proposing_entity: null
+official_number: 787/77
+official_date: null
+publication_date: '1977-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 296/1977, Série I de 1977-12-24
+  number: '296'
+  series: I
+  supplement: null
+  pages: 3039 - 3048
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/12/29600/30393048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '280026'
+  dre_path: /dr/detalhe/portaria/787-1977-280026
+  internal: pt:dre:280026:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-08-22T00:00:00Z'
+integrity:
+  source_sha256: 3eb05822fb5f175a4fb11b7d9e0ccbf4fdd2914e5208e9c23cf073e3ace41fb4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-787-280026.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:575932:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 787/77
+
+de 24 de Dezembro
+
+Considerando o disposto no artigo 19.º do [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, que estabelece o princípio de integração das categorias omissas no anexo I do referido diploma;
+
+Considerando que essa integração implica a necessidade de rever a articulação de algumas categorias e respectivas classes, sem que isso traduza matéria inovadora face aos princípios que presidiram à elaboração do [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496);
+
+Considerando a necessidade de, em termos de gestão eficaz, publicar de novo os anexos ao mencionado [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496) e que consequentemente importa também reproduzir o normativo constante do n.º 2 do artigo 2.º do referido diploma, estabelecendo coerentemente a produção de efeitos para as categorias e classes reposicionadas;
+
+Reconhecendo que importa a breve trecho proceder à reformulação da estrutura e da dinâmica de algumas carreiras da administração regional e local, nomeadamente a carreira administrativa, considerando que tal necessidade não se inscreve no âmbito do disposto no artigo 19.º do [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), devendo por isso remeter-se a sua solução para sede legislativa própria:
+
+Afigura-se oportuna e conveniente a revisão dos anexos ao referido diploma legal, ao que se procede após participação, nos respectivos trabalhos preparatórios, dos Sindicatos dos Trabalhadores da Administração Local (STAL) e dos Trabalhadores dos Serviços Municipalizados.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Administração Pública e da Administração Regional e Local:
+
+1.º Os anexos I e II ao [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, são substituídos pelos anexos à presente portaria, aplicando-se a todos os serviços e organismos da administração regional e local.
+
+2.º Os corpos administrativos, as federações dos municípios e os conselhos de administração dos serviços municipalizados deverão proceder ao ajustamento dos lugares e categorias do seu pessoal, em conformidade com o anexo I à presente portaria.
+
+3.º O ajustamento a que se refere o número anterior deverá fazer-se no prazo de trinta dias após a publicação desta portaria, o qual produzirá efeitos:
+
+a) Desde 1 de Janeiro de 1976, quanto às categorias constantes do anexo I ao [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março;
+
+b) A partir de 1 de Janeiro de 1977, quanto às categorias constantes do anexo I à presente portaria não previstas no [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496) e que consubstanciem a adopção de categorias omissas;
+
+c) A partir de 1 de Janeiro de 1978, nos casos que resultem da nova articulação de categorias e respectivas classes.
+
+4.º Para efeitos do ajustamento a que se refere o n.º 2.º desta portaria, transitam para as categorias de operário principal, constantes do anexo I, os trabalhadores anteriormente providos nessa categoria.
+
+5.º O desenvolvimento das carreiras operárias para as quais se estabelece a categoria de principal obedecerá às seguintes proporções:
+
+Principal - 1.
+
+1.ª classe - 2.
+
+2.ª classe - 2.
+
+3.ª classe - 3.
+
+Secretarias de Estado da Administração Pública e da Administração Regional e Local, 30 de Novembro de 1977. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais. - O Secretário de Estado da Administração Regional e Local, Manuel Ferreira Lima.
+
+## ANEXO I — Categorias do pessoal da administração regional e local
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/29600/30393048.pdf))](https://files.diariodarepublica.pt/1s/1977/12/29600/30393048.pdf)
+
+## ANEXO II — Alteração de designações de categorias
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/29600/30393048.pdf))](https://files.diariodarepublica.pt/1s/1977/12/29600/30393048.pdf)
+
+**O Secretário de Estado da Administração Pública, José Dias dos Santos Pais. - O Secretário de Estado da Administração Regional e Local, Manuel Ferreira Lima.**

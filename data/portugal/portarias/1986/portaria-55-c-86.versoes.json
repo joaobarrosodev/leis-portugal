@@ -1,0 +1,201 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:528852:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1986-989382461",
+ "dre_path": "/dr/detalhe/portaria/55-c-1986-528852",
+ "source_lastmod": "2025-12-17",
+ "versions": [
+  {
+   "date": "1986-02-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "989535999"
+   ]
+  },
+  {
+   "date": "1993-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:645304:por",
+     "title": "Decreto-Lei n.º 352/93",
+     "published": "1993-10-07",
+     "dre_path": "/dr/detalhe/decreto-lei/352-1993-645304"
+    }
+   ],
+   "changes": [
+    "Revoga 3.º"
+   ],
+   "fragments": [
+    "989535999",
+    "989536011",
+    "989536010",
+    "989735850",
+    "989536008",
+    "989536007",
+    "989536006",
+    "989536005",
+    "989536004",
+    "989536003",
+    "989536002",
+    "989536001",
+    "989536000",
+    "989536012",
+    "989536013",
+    "989536014",
+    "989536015",
+    "989536016"
+   ]
+  }
+ ],
+ "fragments": {
+  "989535999": {
+   "fragment_id": "989382462",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 55-C/86\n\nde 12 de Fevereiro\n\nConsiderando que a expansão do sistema educativo impõe um progressivo alargamento das estruturas físicas de acolhimento dos alunos;\n\nConsiderando que, como resultante do Programa Especial de Execução de Escolas Preparatórias e Secundárias, criado pelo Decreto-Lei n.º 76/80, de 15 de Abril, vão entrar no parque escolar novos equipamentos que permitirão uma gestão mais equilibrada e uma melhor distribuição e alojamento dos alunos;\n\nConsiderando que com a criação e entrada em funcionamento de novas escolas em localidades manifestamente carenciadas deixa de existir a necessidade de se manterem algumas secções de estabelecimentos de ensino;\n\nConsiderando ainda que os quadros docentes se encontram, para além de dispersos por vários diplomas, desactualizados e desfasados da realidade actual;\n\nConsiderando finalmente que o novo modelo de formação do pessoal e a pretendida e imprescindível estabilidade do corpo docente implicam um reajustamento dos mencionados quadros docentes:\n\nDe acordo com o disposto nos Decretos-Leis n.os 47480, de 2 de Janeiro de 1967, 48541, de 23 de Agosto de 1968, 48572, de 9 de Setembro de 1968, 260-B/75, de 26 de Maio, 219/79, de 17 de Julho, 519-E2/79, de 29 de Dezembro, 57/80, de 26 de Março, e 46/85, de 22 de Fevereiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e da Educação e Cultura, o seguinte:\n\n1.º Os quadros de pessoal docente das escolas preparatórias, preparatórias e secundárias (C + S) e secundárias, incluindo as agora criadas, passam a ser os constantes do mapa I anexo à presente portaria.\n\n2.º São criadas, para entrar em funcionamento em 1 de Outubro de 1986, as seguintes escolas:\n\na) Escolas preparatórias:\n\nDistrito do Porto:\n\nAlpendurada, Marco de Canaveses.\n\nDistrito de Setúbal:\n\nBarreiro n.º 2;\n\nQuinta do Conde, Sesimbra;\n\nb) Escolas preparatórias e secundárias (C + S):\n\nDistrito de Leiria:\n\nSão Martinho do Porto, Alcobaça;\n\nÓbidos;\n\nCaranguejeira, Leiria.\n\nDistrito de Portalegre:\n\nMonforte.\n\nDistrito de Setúbal:\n\nAlvalade do Sado, Santiago do Cacém.\n\nDistrito de Viseu:\n\nCampo de Besteiros, Tondela;\n\nc) Escolas secundárias:\n\nDistrito de Aveiro:\n\nCouto de Cucujães, Oliveira de Azeméis.\n\nDistrito de Braga:\n\nMaximinos, Braga;\n\nVila Verde.\n\nDistrito de Bragança:\n\nBragança n.º 3.\n\nDistrito de Castelo Branco:\n\nAlcains, Castelo Branco.\n\nDistrito de Coimbra:\n\nPedrulha, Coimbra;\n\nFigueira da Foz n.º 3;\n\nMontemor-o-Velho.\n\nDistrito da Guarda:\n\nGouveia;\n\nSabugal.\n\nDistrito de Lisboa:\n\nAlvide, Cascais;\n\nLumiar n.º 2, Lisboa;\n\nSão João da Talha, Loures;\n\nPontinha, Loures;\n\nRio de Mouro, Sintra;\n\nDistrito de Portalegre:\n\nPonte de Sor.\n\nDistrito do Porto:\n\nSão Mamede de Infesta, Matosinhos;\n\nÁguas Santas n.º 2, Maia.\n\nDistrito de Setúbal:\n\nCorroios, Seixal.\n\nDistrito de Viana do Castelo:\n\nMelgaço;\n\nParedes de Coura;\n\nPortuzelo, Viana do Castelo.\n\nDistrito de Vila Real:\n\nChaves n.º 3;\n\nMontalegre;\n\nVila Real n.º 3.\n\nDistrito de Viseu:\n\nMortágua;\n\nPenalva do Castelo.\n\n3.º Para efeitos do disposto na presente portaria, a Escola de Música de Calouste Gulbenkian, em Braga, é transformada em escola C + S.\n\n4.º Em resultado da criação das escolas secundárias referidas no n.º 2.º da presente portaria, são transformadas em escolas preparatórias as seguintes escolas preparatórias e secundárias:\n\nDistrito de Braga:\n\nVila Verde.\n\nDistrito de Castelo Branco:\n\nAlcains, Castelo Branco.\n\nDistrito de Coimbra:\n\nMontemor-o-Velho.\n\nDistrito da Guarda:\n\nGouveia.\n\nDistrito de Portalegre:\n\nPonte de Sor.\n\nDistrito de Viana do Castelo:\n\nMelgaço;\n\nParedes de Coura.\n\nDistrito de Vila Real:\n\nMontalegre.\n\nDistrito de Viseu:\n\nMortágua.\n\n5.º São extintas, em resultado da criação das escolas preparatórias e secundárias (C + S) a que se refere o n.º 2.º da presente portaria, as seguintes escolas preparatórias do distrito de Leiria:\n\nSão Martinho do Porto, Alcobaça;\n\nÓbidos.\n\n6.º Os cursos ministrados nas escolas secundárias agora criadas são os constantes do mapa II anexo à presente portaria.\n\n7.º Os quadros de pessoal administrativo e auxiliar de apoio das escolas agora criadas, bem como os das escolas preparatórias e secundárias transformadas em escolas preparatórias, são os constantes, respectivamente, dos mapas III, IV e v anexos à presente portaria.\n\n8.º A actual Escola Preparatória do Barreiro passa a designar-se Escola Preparatória do Barreiro n.º 1.\n\n9.º As actuais Escolas secundárias do Lumiar, em Lisboa, e das Águas Santas, Maia, no Porto, passam a designar-se, respectivamente, Escola Secundária do Lumiar n.º 1 e Escola Secundária de Águas Santas n.º 1.\n\n10.º São extintas, a partir de 1 de Outubro de 1986, as seguintes secções das escolas secundárias:\n\nDistrito de Braga:\n\nSecção da Escola Secundária D. Maria II, em Braga.\n\nDistrito de Lisboa:\n\nSecção da Escola Secundária da Cidadela, em Cascais.\n\nDistrito de Setúbal:\n\nSecção da Escola Secundária do Laranjeiro, em Corroios, Seixal.\n\n11.º Consideram-se revogados e substituídos pelo mapa I anexo a esta portaria todos os quadros de pessoal docente das escolas preparatórias, preparatórias e secundárias (C + S) e secundárias.\n\nMinistérios das Finanças e da Educação e Cultura."
+  },
+  "989536011": {
+   "fragment_id": "989382474",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nOs quadros de pessoal docente das escolas preparatórias, preparatórias e secundárias (C + S) e secundárias, incluindo as agora criadas, passam a ser os constantes do mapa I anexo à presente portaria.\n\n> Nota: [Portaria n.º 148/86 - Diário da República n.º 88/1986, Série I de 1986-04-16](https://diariodarepublica.pt/dr/detalhe/portaria/148-1986-195793) A Escola Secundária de Gouveia, criada pela alínea b) do presente número, entra em funcionamento a partir de 1 de Outubro de 1985."
+  },
+  "989536010": {
+   "fragment_id": "989382473",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nSão criadas, para entrar em funcionamento em 1 de Outubro de 1986, as seguintes escolas:\n\na) Escolas preparatórias:\n\nDistrito do Porto:\n\nAlpendurada, Marco de Canaveses.\n\nDistrito de Setúbal:\n\nBarreiro n.º 2;\n\nQuinta do Conde, Sesimbra;\n\nb) Escolas preparatórias e secundárias (C + S):\n\nDistrito de Leiria:\n\nSão Martinho do Porto, Alcobaça;\n\nÓbidos;\n\nCaranguejeira, Leiria.\n\nDistrito de Portalegre:\n\nMonforte.\n\nDistrito de Setúbal:\n\nAlvalade do Sado, Santiago do Cacém.\n\nDistrito de Viseu:\n\nCampo de Besteiros, Tondela;\n\nc) Escolas secundárias:\n\nDistrito de Aveiro:\n\nCouto de Cucujães, Oliveira de Azeméis.\n\nDistrito de Braga:\n\nMaximinos, Braga;\n\nVila Verde.\n\nDistrito de Bragança:\n\nBragança n.º 3.\n\nDistrito de Castelo Branco:\n\nAlcains, Castelo Branco.\n\nDistrito de Coimbra:\n\nPedrulha, Coimbra;\n\nFigueira da Foz n.º 3;\n\nMontemor-o-Velho.\n\nDistrito da Guarda:\n\nGouveia;\n\nSabugal.\n\nDistrito de Lisboa:\n\nAlvide, Cascais;\n\nLumiar n.º 2, Lisboa;\n\nSão João da Talha, Loures;\n\nPontinha, Loures;\n\nRio de Mouro, Sintra;\n\nDistrito de Portalegre:\n\nPonte de Sor.\n\nDistrito do Porto:\n\nSão Mamede de Infesta, Matosinhos;\n\nÁguas Santas n.º 2, Maia.\n\nDistrito de Setúbal:\n\nCorroios, Seixal.\n\nDistrito de Viana do Castelo:\n\nMelgaço;\n\nParedes de Coura;\n\nPortuzelo, Viana do Castelo.\n\nDistrito de Vila Real:\n\nChaves n.º 3;\n\nMontalegre;\n\nVila Real n.º 3.\n\nDistrito de Viseu:\n\nMortágua;\n\nPenalva do Castelo."
+  },
+  "989735850": {
+   "fragment_id": "989382472",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "1993-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 352/93 - Diário da República n.º 235/1993, Série I-A de 1993-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1993-645304), em vigor a partir de 1993-10-12"
+   ],
+   "markdown": "###### 3.º\n\nPara efeitos do disposto na presente portaria, a Escola de Música de Calouste Gulbenkian, em Braga, é transformada em escola C + S.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 352/93 - Diário da República n.º 235/1993, Série I-A de 1993-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1993-645304) A revogação do presente número produz efeitos a partir da entrada em vigor dos regulamentos a que se refere o artigo 17.º do Decreto-Lei n.º 352/93, de 7 de outubro.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 352/93 - Diário da República n.º 235/1993, Série I-A de 1993-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1993-645304), em vigor a partir de 1993-10-12"
+  },
+  "989536008": {
+   "fragment_id": "989382471",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nEm resultado da criação das escolas secundárias referidas no n.º 2.º da presente portaria, são transformadas em escolas preparatórias as seguintes escolas preparatórias e secundárias:\n\nDistrito de Braga:\n\nVila Verde.\n\nDistrito de Castelo Branco:\n\nAlcains, Castelo Branco.\n\nDistrito de Coimbra:\n\nMontemor-o-Velho.\n\nDistrito da Guarda:\n\nGouveia.\n\nDistrito de Portalegre:\n\nPonte de Sor.\n\nDistrito de Viana do Castelo:\n\nMelgaço;\n\nParedes de Coura.\n\nDistrito de Vila Real:\n\nMontalegre.\n\nDistrito de Viseu:\n\nMortágua.\n\n> Nota: [Portaria n.º 148/86 - Diário da República n.º 88/1986, Série I de 1986-04-16](https://diariodarepublica.pt/dr/detalhe/portaria/148-1986-195793) A Escola Preparatória de Gouveia, a que se refere o presente número, entra em funcionamento a partir de 1 de Outubro de 1985."
+  },
+  "989536007": {
+   "fragment_id": "989382470",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nSão extintas, em resultado da criação das escolas preparatórias e secundárias (C + S) a que se refere o n.º 2.º da presente portaria, as seguintes escolas preparatórias do distrito de Leiria:\n\nSão Martinho do Porto, Alcobaça;\n\nÓbidos."
+  },
+  "989536006": {
+   "fragment_id": "989382469",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nOs cursos ministrados nas escolas secundárias agora criadas são os constantes do mapa II anexo à presente portaria."
+  },
+  "989536005": {
+   "fragment_id": "989382468",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nOs quadros de pessoal administrativo e auxiliar de apoio das escolas agora criadas, bem como os das escolas preparatórias e secundárias transformadas em escolas preparatórias, são os constantes, respectivamente, dos mapas III, IV e v anexos à presente portaria."
+  },
+  "989536004": {
+   "fragment_id": "989382467",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nA actual Escola Preparatória do Barreiro passa a designar-se Escola Preparatória do Barreiro n.º 1."
+  },
+  "989536003": {
+   "fragment_id": "989382466",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nAs actuais Escolas secundárias do Lumiar, em Lisboa, e das Águas Santas, Maia, no Porto, passam a designar-se, respectivamente, Escola Secundária do Lumiar n.º 1 e Escola Secundária de Águas Santas n.º 1."
+  },
+  "989536002": {
+   "fragment_id": "989382465",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nSão extintas, a partir de 1 de Outubro de 1986, as seguintes secções das escolas secundárias:\n\nDistrito de Braga:\n\nSecção da Escola Secundária D. Maria II, em Braga.\n\nDistrito de Lisboa:\n\nSecção da Escola Secundária da Cidadela, em Cascais.\n\nDistrito de Setúbal:\n\nSecção da Escola Secundária do Laranjeiro, em Corroios, Seixal."
+  },
+  "989536001": {
+   "fragment_id": "989382464",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\nConsideram-se revogados e substituídos pelo mapa I anexo a esta portaria todos os quadros de pessoal docente das escolas preparatórias, preparatórias e secundárias (C + S) e secundárias."
+  },
+  "989536000": {
+   "fragment_id": "989382463",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios das Finanças e da Educação e Cultura.\n\nAssinada em 13 de Fevereiro de 1986.\n\nO Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro."
+  },
+  "989536012": {
+   "fragment_id": "989541475",
+   "type": 4,
+   "heading": "Mapa I — (a que se refere o n.º 1.º da Portaria n.º 55-C/86, de 12 de Fevereiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa I — (a que se refere o n.º 1.º da Portaria n.º 55-C/86, de 12 de Fevereiro)\n\n(ver documento original)"
+  },
+  "989536013": {
+   "fragment_id": "989541476",
+   "type": 4,
+   "heading": "Mapa II — (a que se refere o n.º 6.º da Portaria n.º 55-C/86, de 12 de Fevereiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa II — (a que se refere o n.º 6.º da Portaria n.º 55-C/86, de 12 de Fevereiro)\n\n(ver documento original)"
+  },
+  "989536014": {
+   "fragment_id": "989541477",
+   "type": 4,
+   "heading": "Mapa III — (a que se refere o n.º 7.º da Portaria n.º 55-C/86, de 12 de Fevereiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa III — (a que se refere o n.º 7.º da Portaria n.º 55-C/86, de 12 de Fevereiro)\n\n(ver documento original)"
+  },
+  "989536015": {
+   "fragment_id": "989541478",
+   "type": 4,
+   "heading": "Mapa IV — (a que se refere o n.º 7.º da Portaria n.º 55-C/86, de 12 de Fevereiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa IV — (a que se refere o n.º 7.º da Portaria n.º 55-C/86, de 12 de Fevereiro)\n\n(ver documento original)"
+  },
+  "989536016": {
+   "fragment_id": "989541479",
+   "type": 4,
+   "heading": "Mapa V — (a que se refere o n.º 7.º da Portaria n.º 55-C/86, de 12 de Fevereiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa V — (a que se refere o n.º 7.º da Portaria n.º 55-C/86, de 12 de Fevereiro)\n\n(ver documento original)"
+  }
+ }
+}

@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: pt:dre:475366:por
+title: Portaria n.º 203/91
+short_title: null
+summary: Regulamenta o processamento e liquidação das multas e coimas por infracções do Código da Estrada. Revoga o n.º 1
+  do artigo 48.º do Regulamento do Código da Estrada, aprovado pelo Decreto n.º 39932, de 24 de Janeiro de 1954
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 203/91
+official_date: null
+publication_date: '1991-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/1991, Série I-B de 1991-03-13
+  number: '60'
+  series: I
+  supplement: null
+  pages: 1272 - 1274
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/03/060b00/12721274.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/203/1991/03/13/p/dre/pt/html
+  oj: null
+  dre: '475366'
+  dre_path: /dr/detalhe/portaria/203-1991-475366
+  internal: pt:dre:475366:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-1991-475366
+  metadata_url: https://data.dre.pt/eli/port/203/1991/03/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-1991-475366
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-04-18T00:00:00Z'
+integrity:
+  source_sha256: 083c6178c05fc3edd84bb5b31361bbc26c5b97b19875f143c9a838c106b65d70
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-203-475366.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código da Estrada
+- Multa
+- Impresso
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:264745:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 203/91
+
+de 13 de Março
+
+O [Decreto-Lei n.º 138/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1989-625603), de 28 de Abril, consignou a favor das entidades que têm a seu cargo a fiscalização rodoviária uma percentagem das multas e coimas por infracções ao Código da Estada, seu Regulamento e demais legislação complementar.
+
+As Portarias n.os [425/89](https://diariodarepublica.pt/dr/detalhe/portaria/425-1989-620350), de 12 de Junho, e [55/90](https://diariodarepublica.pt/dr/detalhe/portaria/55-1990-333570), de 23 de Janeiro, estabeleceram e distribuíram, respectivamente, as importâncias resultantes daquelas multas e coimas.
+
+Face às disposições dos diplomas referidos, importa proceder à regulamentação do processamento e liquidação dos montantes decorrentes das infracções praticadas, em vista à atribuição das percentagens devidas a cada uma das entidades envolvidas.
+
+Do mesmo modo, face à alteração dos modos de pagamento das multas e coimas, operado pelo presente diploma, revela-se imperioso promover a revogação do n.º 1 do artigo 48.º do Regulamento do Código da Estrada.
+
+Assim:
+
+Manda o Governo, pelos Ministros das Finanças, da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações, ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 138/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1989-625603), de 28 de Abril, o seguinte:
+
+1.º O pagamento das multas por infracções ao Código da Estrada e demais legislação complementar é feito, através de guia, nas tesourarias da Fazenda Pública.
+
+2.º O pagamento das coimas por infracções ao Código da Estrada e demais legislação complementar é feito, através de guia, na Caixa Geral de Depósitos, à ordem da entidade administrativa materialmente competente.
+
+3.º Os quantitativos cobrados nos termos do número anterior serão entregues pelas respectivas autoridades administrativas na tesouraria da Fazenda Pública através de guia (modelos I-A ou I-B, anexo ao presente diploma).
+
+4.º - a) O depósito das multas por infracções ao Código da Estrada e demais legislação complementar é constituído e colocado à ordem da Direcção-Geral de Viação ou do tribunal da comarca da área do cometimento da infracção, consoante o autuado deseje, ou não, reclamar.
+
+b) O depósito das multas por infracção ao Regulamento de Transporte Automóvel e legislação complementar é constituído e colocado à ordem da Direcção-Geral de Transportes Terrestres.
+
+5.º O pagamento das multas e coimas ou depósito das multas pode ser efectuado por um dos seguintes meios:
+
+a) Numerário;
+
+b) Cheque.
+
+6.º O pagamento ou depósito através de cheque deve obedecer aos requisitos em vigor para os pagamentos a efectuar nas tesourarias da Fazenda Pública.
+
+7.º O pagamento ou depósito por infractores não domiciliados em Portugal poderá ser efectuado directamente ao agente autuante, no acto da verificação da infracção, caso em que este fará a cobrança mediante recibo.
+
+8.º O pagamento ou depósito referidos no número precedente é efectuado em numerário.
+
+9.º Os quantitativos referidos no n.º 7 devem ser entregues pela entidade autuante nas tesourarias da Fazenda Pública ou na Caixa Geral de Depósitos, conforme o caso, através da respectiva guia.
+
+10.º A guia a que se refere o n.º 1.º, é dos modelos I-A e I-B anexos ao presente diploma, quadripartido e a preencher pela entidade fiscalizadora em cujo posto seja adquirida, mediante apresentação de notificação, e destinando-se:
+
+a) O destacável A, à Tesouraria da Fazenda Pública;
+
+b) O destacável B, a ser entregue ao depositante e servindo de recibo de quitação, depois de certificado;
+
+c) O destacável C, a ser remetido à entidade que procedeu ao levantamento do auto;
+
+d) O destacável D, à Direcção-Geral materialmente competente.
+
+11.º Os modelos de impresso I-A e I-B são, respectivamente, de cor azul para as infracções do âmbito de competência da Direcção-Geral de Viação e de cor verde para as infracções do âmbito de competência da Direcção-Geral dos Transportes Terrestres.
+
+12.º Os documentos de depósito e de pagamento a que se referem os n.os 2.º e 4.º são:
+
+a) Para os depósitos a efectuar à ordem dos tribunais territorialmente competentes ou da Direcção-Geral de Viação, a do modelo II-A anexo ao presente diploma;
+
+b) Para os depósitos a efectuar à ordem da Direcção-Geral de Transportes Terrestres, o modelo II-B;
+
+c) Para os pagamentos a efectuar à ordem da autoridade administrativa materialmente competente, os modelos III-A e III-B anexos à presente portaria.
+
+13.º As repartições de finanças, com base nos elementos constantes das guias de remessa passadas e pagas, contabilizarão mensalmente as verbas devidas:
+
+a) À Direcção-Geral de Viação e Direcção-Geral de Transportes Terrestes, nas respectivas rubricas de contas de ordem;
+
+b) À PSP e GNR, em conta de ordem a identificar após a publicação do diploma.
+
+14.º É revogado o n.º 1 do artigo 48.º do Regulamento do Código da Estrada, aprovado pelo Decreto n.º 39932, de 24 de Janeiro de 1954.
+
+15.º O presente diploma entra em vigor 90 dias após a sua publicação.
+
+Ministérios das Finanças, da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações.
+
+**Assinada em 7 de Fevereiro de 1991.**
+
+**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Administração Interna, Manuel Pereira. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/060b00/12721274.pdf))](https://files.diariodarepublica.pt/1s/1991/03/060b00/12721274.pdf)

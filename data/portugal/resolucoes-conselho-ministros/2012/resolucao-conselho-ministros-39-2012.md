@@ -1,0 +1,170 @@
+---
+schema_version: '1.0'
+id: pt:dre:553900:por
+title: Resolução do Conselho de Ministros n.º 39/2012
+short_title: null
+summary: Suspende parcialmente, pelo prazo de três anos, o Plano de Ordenamento da Orla Costeira de Ovar-Marinha Grande, com
+  vista à implantação de equipamentos de utilização coletiva
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 39/2012
+official_date: null
+publication_date: '2012-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 64/2012, Série I de 2012-03-29
+  number: '64'
+  series: I
+  supplement: null
+  pages: 1519 - 1520
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06400/0151901520.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/39/2012/03/29/p/dre/pt/html
+  oj: null
+  dre: '553900'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/39-2012-553900
+  internal: pt:dre:553900:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2012-553900
+  metadata_url: https://data.dre.pt/eli/resolconsmin/39/2012/03/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2012-553900
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-03-29T00:00:00Z'
+integrity:
+  source_sha256: e188a1d0c88901acdefc899c80a1cf91e64ca854b27b3828a0098ed6490f4389
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-39-553900.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Orla Costeira
+- Ovar
+- Proteção do Ambiente
+- Plano de Ordenamento da Orla Costeira
+- Política de Solos
+- Marinha Grande
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/181/2009/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/181/2009/08/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/2/2011/01/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/2/2011/01/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/316/2007/09/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/316/2007/09/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/46/2009/02/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/46/2009/02/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/142/2000/10/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/142/2000/10/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/76/2005/03/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/76/2005/03/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 39/2012
+
+O Plano de Ordenamento da Orla Costeira (POOC) de Ovar-Marinha Grande foi aprovado pela [Resolução do Conselho de Ministros n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-2000-533814), de 20 de outubro, e alterado pela [Resolução do Conselho de Ministros n.º 76/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2005-578559), de 21 de março, encontrando-se presentemente em fase de revisão, nos termos previstos no [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de setembro, que estabelece o regime jurídico dos instrumentos de gestão territorial (RJIGT), revisto e republicado pelo [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de fevereiro, e posteriormente alterado pelos Decretos-Leis n.os [181/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2009-494006), de 7 de agosto, e [2/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), de 6 de janeiro.
+
+Nos termos conjugados do n.º 3 do artigo 6.º e do n.º 1 do artigo 48.º do Regulamento do POOC de Ovar-Marinha Grande, está prevista a existência de unidades operativas de planeamento e gestão (UOPG), identificadas na planta de síntese e que demarcam espaços de intervenção a tratar a um nível de planeamento de maior pormenor, estabelecendo-se, ainda, que uma das categorias de estudos ou projetos compreendidos pelas UOPG consiste nos planos municipais de ordenamento do território, que abrangem áreas urbanas e urbanizáveis e áreas de equipamentos e que correspondem a planos de urbanização e a planos de pormenor.
+
+No que em particular concerne à Costa Nova, no concelho de Ílhavo, a alínea h) do n.º 2 do artigo 48.º do Regulamento do POOC de Ovar-Marinha Grande delimita a UOPG correspondente ao Plano de Pormenor da Área de Equipamentos da Frente Marítima da Costa Nova, que, de acordo com o artigo 57.º do mesmo Regulamento, tem como objetivos a constituição de equipamentos, infraestruturas e espaços exteriores de utilização coletiva de lazer e apoio às atividades específicas da orla costeira, bem como a requalificação ambiental e paisagística e a valorização cénica da área abrangida.
+
+O mencionado artigo 57.º do Regulamento do POOC de Ovar-Marinha Grande define, ainda, um conjunto de condicionantes de natureza urbanística, a considerar na elaboração do Plano de Pormenor da Área de Equipamentos da Frente Marítima da Costa Nova.
+
+As condicionantes urbanísticas à criação de equipamentos e respetivas instalações constantes do Regulamento do POOC de Ovar-Marinha Grande, que devem ser atendidas na elaboração do Plano de Pormenor da Área de Equipamentos da Frente Marítima da Costa Nova, impedem, nalguns casos, a adequada prossecução dos objetivos definidos para a área abrangida pelo referido Plano de Pormenor. Encontra-se nesta situação o disposto na alínea f) do n.º 3 do artigo 57.º do Regulamento do POOC de Ovar-Marinha Grande, que impõe como limite máximo da cércea 3,5 m, contados a partir da cota de soleira do edifício.
+
+Após a alteração ao artigo 44.º do RJIGT efetuada pelo [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de setembro, os planos especiais de ordenamento do território, entre os quais se incluem os planos de ordenamento da orla costeira, passaram a prever apenas regimes de salvaguarda de recursos e valores naturais e o regime de gestão compatível com a utilização sustentável do território, deixando de fixar os usos compatíveis com aquela utilização.
+
+A dinâmica do planeamento impõe que os instrumentos de gestão territorial possam ser objeto de alteração, de revisão e de suspensão, como resulta do artigo 93.º do RJIGT.
+
+As opções iniciais do POOC de Ovar-Marinha Grande encontram-se atualmente em ponderação no âmbito do processo de revisão do mencionado POOC, em consonância com a alteração significativa da situação de referência que fundamentou o modelo de ordenamento e desenvolvimento e a respetiva concretização normativa, designadamente no que respeita às UOPG.
+
+De acordo com o n.º 1 do artigo 100.º do RJIGT, a suspensão, total ou parcial, de planos especiais de ordenamento do território é determinada por resolução do Conselho de Ministros, ouvidas as câmaras municipais das autarquias abrangidas, quando se verifiquem circunstâncias excecionais resultantes de alteração significativa das perspetivas de desenvolvimento económico e social ou da realidade ambiental que determinou a sua elaboração, incompatíveis com a concretização das opções estabelecidas no plano.
+
+Na presente situação, constata-se que se encontram verificados os pressupostos da suspensão parcial do Regulamento do POOC de Ovar-Marinha Grande.
+
+Efetivamente, a proposta de Plano de Pormenor da Área de Equipamentos da Frente Marítima da Costa Nova demonstra, dos pontos de vista estratégico e ambiental, elevado potencial, traduzido em efeitos cumulativos positivos, quer ao nível socioeconómico, quer no domínio da promoção da biodiversidade e conservação da natureza - como a valorização ambiental dos habitats naturais e do sistema dunar em presença e o melhoramento paisagístico e cénico de infraestruturas e equipamentos existentes -, quer ainda através da promoção de fatores de coesão social, como a igualdade de oportunidades, a qualificação e a acessibilidade urbanas, com impacto na população permanente e sazonal.
+
+Por outro lado, a mencionada proposta de Plano de Pormenor da Área de Equipamentos da Frente Marítima da Costa Nova promove, também, a valorização da frente marítima da Costa Nova, através da implantação de equipamentos de utilização coletiva - socioculturais, de saúde, desporto e lazer -, que permitem reduzir as carências em equipamentos e em serviços de apoio ao turismo e contribuem para a redução da sua sazonalidade e para a qualificação e atratividade turísticas daquele aglomerado costeiro, em consonância com os objetivos definidos no n.º 1 do artigo 57.º do Regulamento do POOC de Ovar-Marinha Grande.
+
+Acresce que aquela proposta de Plano de Pormenor não abrange áreas identificadas como de potencial risco.
+
+Assim, a referida proposta de Plano de Pormenor da Área de Equipamentos da Frente Marítima da Costa Nova, através de novos equipamentos, da disponibilização de serviços, da qualificação urbana e da criação e da dinamização de hábitos de lazer, cultura e desporto, propiciará à comunidade piscatória da Costa Nova, em particular, e aos utilizadores desta área, em geral, importantes ganhos de cariz socioeconómico, cultural e ambiental.
+
+No âmbito dos procedimentos de concertação para a aprovação da proposta de Plano de Pormenor da Área de Equipamentos da Frente Marítima da Costa Nova, foi manifestada a necessidade de proceder à suspensão da alínea f) do n.º 3 do artigo 57.º do Regulamento do POOC de Ovar-Marinha Grande, disposição de índole estritamente urbanística.
+
+Não sendo expectável que o processo de revisão do POOC de Ovar-Marinha Grande, que se encontra a decorrer, esteja concluído a tempo de permitir a intervenção em apreço, afigura-se adequado e justificado proceder à suspensão parcial do mencionado POOC, nos termos e para os efeitos do RJIGT.
+
+A referida suspensão obteve a concordância da Administração da Região Hidrográfica do Centro, I. P., da Comissão de Coordenação e Desenvolvimento Regional do Centro e do Instituto da Água, I. P.
+
+Foi ainda ouvida a Câmara Municipal de Ílhavo, que se pronunciou favoravelmente sobre a proposta em apreço.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 100.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de setembro, que estabelece o regime jurídico dos instrumentos de gestão territorial, revisto e republicado pelo [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de fevereiro, e posteriormente alterado pelos Decretos-Leis n.os [181/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2009-494006), de 7 de agosto, e [2/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), de 6 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Suspender, pelo prazo de três anos, a alínea f) do n.º 3 do artigo 57.º do Regulamento do Plano de Ordenamento da Orla Costeira de Ovar-Marinha Grande, aprovado pela [Resolução do Conselho de Ministros n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-2000-533814), de 20 de outubro, e alterado pela [Resolução do Conselho de Ministros n.º 76/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2005-578559), de 21 de março.
+
+2 - Determinar que a suspensão referida no número anterior incide sobre a área delimitada na planta anexa à presente resolução, da qual faz parte integrante, e se destina à implantação de um equipamento sociocultural e extensão de saúde, que se enquadra na subalínea a.3) da alínea a) do n.º 3 do artigo 57.º do Regulamento do Plano de Ordenamento da Orla Costeira de Ovar-Marinha Grande.
+
+Presidência do Conselho de Ministros, 22 de março de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+Extrato da planta síntese do Plano de Ordenamento da Orla Costeira de Ovar-Marinha Grande, com a delimitação da área abrangida pela suspensão parcial
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06400/0151901520.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06400/0151901520.pdf)

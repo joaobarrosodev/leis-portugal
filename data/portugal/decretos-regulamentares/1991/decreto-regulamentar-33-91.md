@@ -1,0 +1,206 @@
+---
+schema_version: '1.0'
+id: pt:dre:658248:por
+title: Decreto Regulamentar n.º 33/91
+short_title: null
+summary: Aprova a Lei Orgânica da Auditoria Jurídica do Ministério da Educação
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 33/91
+official_date: null
+publication_date: '1991-06-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 130/1991, Série I-B de 1991-06-07
+  number: '130'
+  series: I
+  supplement: null
+  pages: 3102 - 3104
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/06/130b00/31023104.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/33/1991/06/07/p/dre/pt/html
+  oj: null
+  dre: '658248'
+  dre_path: /dr/detalhe/decreto-regulamentar/33-1991-658248
+  internal: pt:dre:658248:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1991-658248
+  metadata_url: https://data.dre.pt/eli/decregul/33/1991/06/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1991-658248
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-04-26T00:00:00Z'
+integrity:
+  source_sha256: 9a3d832a137b09b142a9cc94cc134606de4c8766cac30a53642b7e77b1bfbb72
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-33-658248.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Educação
+- Auditoria Jurídica
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:665342:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 33/91
+
+de 7 de Junho
+
+O [Decreto-Lei n.º 3/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1987-599716), de 3 de Janeiro, que aprovou a Lei Orgânica do Ministério da Educação, prevê a existência de uma Auditoria Jurídica como serviço de apoio e consulta jurídica ao Ministro da Educação e respectivos Secretários de Estado.
+
+Tendo vindo a reger-se pelo [Decreto-Lei n.º 337/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1980-469666), de 29 de Agosto, e encontrando-se este diploma ultrapassado pelas novas soluções legislativas em matéria de regime geral da função pública e desajustado à orgânica do Ministério Público aprovada pela [Lei n.º 47/86](https://diariodarepublica.pt/dr/detalhe/lei/47-1986-222422), de 15 de Outubro, necessário se torna fazer aprovar novo diploma orgânico de que resulte também explícito o alargamento das atribuições da Auditoria na área do contencioso administrativo.
+
+Assim:
+
+Ao abrigo do disposto no artigo 28.º do [Decreto-Lei n.º 3/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1987-599716), de 3 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Auditoria Jurídica do Ministério da Educação é um serviço de consulta e de apoio jurídico do Ministro da Educação, de quem depende funcionalmente, e dos membros do Governo integrados no Ministério da Educação.
+
+###### Artigo 2.º — Atribuições
+
+São atribuições da Auditoria Jurídica o estudo e tratamento dos assuntos de natureza jurídica que lhe sejam submetidos pelo Ministro e Secretários de Estado, nos domínios da consultadoria jurídica, do contencioso administrativo e do poder disciplinar, competindo-lhe, designadamente:
+
+a) Elaborar pareceres e informações e proceder a estudos jurídicos sobre quaisquer assuntos que lhe sejam submetidos;
+
+b) Preparar os projectos de resposta nos recursos e outros processos do contencioso administrativo em que sejam notificados para responder o Ministro ou os Secretários de Estado;
+
+c) Acompanhar o andamento dos processos referidos na alínea anterior, exercendo, de acordo com a Lei de Processo nos Tribunais Administrativos, e através de consultores jurídicos para o efeito designados, os poderes processuais da autoridade recorrida ou requerida;
+
+d) Elaborar os projectos de resposta nos processos de fiscalização da constitucionalidade ou legalidade das normas constantes de diplomas assinados pelo Ministro da Educação ou pelos Secretários de Estado;
+
+e) Intervir, quando solicitada, em processos de sindicância, inquérito, averiguações ou disciplinares;
+
+f) Emitir as informações sobre processos disciplinares que lhe forem solicitadas de acordo com o que dispõe o Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local;
+
+g) Proceder, em colaboração com outros serviços, ao estudo na legislação comunitária e das adaptações a introduzir na legislação interna;
+
+h) Colaborar, quando solicitada, na preparação ou apreciação de projectos de diplomas legais.
+
+###### Artigo 3.º — Auditor jurídico
+
+1 - A Auditoria Jurídica é dirigida tecnicamente por um auditor jurídico, designado nos termos da Lei Orgânica do Ministério Público.
+
+2 - O auditor jurídico depende hierarquicamente do Procurador-Geral da República e funcionalmente do Ministro da Educação.
+
+3 - O auditor jurídico é remunerado nos termos previstos na [Lei n.º 47/86](https://diariodarepublica.pt/dr/detalhe/lei/47-1986-222422), de 15 de Outubro, com as alterações decorrentes da [Lei n.º 2/90](https://diariodarepublica.pt/dr/detalhe/lei/2-1990-333792), de 20 de Janeiro, sendo os encargos suportados por verba própria do orçamento do Ministério da Justiça.
+
+###### Artigo 4.º — Funcionamento
+
+1 - O auditor jurídico orienta e coordena o trabalho técnico-jurídico da Auditoria, devendo pronunciar-se sobre todos os trabalhos produzidos.
+
+2 - Nas suas ausências e impedimentos, o auditor jurídico é substituído, nas funções referidas no número anterior, por quem o Procurador-Geral da República designar.
+
+3 - Para o exercício das suas funções, o auditor poderá corresponder-se directamente com quaisquer organismos ou autoridades, solicitando destes as diligências ou informações que forem julgadas necessárias ao desenvolvimento da sua actividade.
+
+###### Artigo 5.º — Quadro de pessoal
+
+1 - O quadro de pessoal da Auditoria Jurídica é o constante do anexo ao presente diploma, que dele faz parte integrante.
+
+2 - A carreira de consultor jurídico integra-se no grupo de pessoal técnico superior e desenvolve-se pelas categorias de assessor jurídico principal, assessor jurídico, consultor jurídico principal, consultor jurídico de 1.ª classe e consultor jurídico de 2.ª classe.
+
+###### Artigo 6.º — Ingresso e acesso
+
+1 - O ingresso e o acesso na carreira de consultor jurídico regula-se pelas disposições legais aplicáveis à
+
+carreira técnica superior, constituindo habilitação indispensável a licenciatura em Direito.
+
+2 - O exercício das funções de consultor jurídico não depende de inscrição em associação de classe.
+
+###### Artigo 7.º — Transição de pessoal
+
+1 - O pessoal técnico superior integrado na carreira de consultor jurídico constante do anexo II à [Portaria n.º 226-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/226-a-1988-658883), de 13 de Abril, transita para idêntica categoria do quadro anexo ao presente diploma nos termos da lei geral, mantendo a natureza do provimento e sendo-lhe contado, para todos os efeitos legais, o tempo de serviço anteriormente prestado.
+
+2 - O pessoal referido no n.º 1 que esteja nas situações de requisitado ou em comissão de serviço noutros serviços mantém a mesma situação.
+
+3 - A integração no novo quadro faz-se por lista nominativa, aprovada pelo Ministro da Educação, considerando-se efectivada, após fiscalização prévia do Tribunal de Contas, com dispensa de qualquer outra formalidade.
+
+4 - Ao quadro único de pessoal dos organismos e serviços centrais do Ministério da Educação, constante do anexo II à [Portaria n.º 226-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/226-a-1988-658883), de 13 de Abril, são abatidos os correspondentes lugares da carreira de consultor jurídico e acrescidos na carreira técnica superior dois lugares, respectivamente nas categorias de assessor, técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe.
+
+###### Artigo 8.º — Consultores jurídicos afectos a outros serviços do Ministério
+
+1 - Os consultores jurídicos que, à data da entrada em vigor do presente diploma, se encontrem afectos a outros serviços ou organismos do Ministério da Educação transitam, em categoria idêntica à que possuem, para a carreira técnica superior, sendo os correspondentes lugares acrescidos ao quadro único.
+
+2 - Nas situações referidas no número anterior, o tempo de serviço prestado na carreira de consultor jurídico conta, para todos os efeitos legais, como tendo sido prestado, em idênticas categorias, na carreira técnica superior.
+
+###### Artigo 9.º — Apoio administrativo
+
+1 - A Secretaria-Geral do Ministério da Educação assegurará a gestão do pessoal do quadro privativo da Auditoria Jurídica.
+
+2 - A Secretaria-Geral do Ministério da Educação prestará à Auditoria Jurídica o apoio administrativo necessário ao seu funcionamento.
+
+###### Artigo 10.º — Encargos
+
+Os encargos inerentes ao pessoal da Auditoria Jurídica são suportados pelas dotações inscritas no seu orçamento, procedendo-se, para o efeito, à necessária inscrição orçamental, com contrapartida no orçamento da Secretaria-Geral do Ministério da Educação.
+
+###### Artigo 11.º — Regulamento interno
+
+Compete ao Ministro da Educação, sob proposta do auditor jurídico, homologar o regulamento interno da Auditoria Jurídica.
+
+###### Artigo 12.º — Norma especial
+
+O disposto no presente diploma não prejudica os concursos abertos antes da sua entrada em vigor.
+
+Presidência do Conselho de Ministros, 4 de Fevereiro de 1991.
+
+Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Roberto Artur da Luz Carneiro.
+
+**Promulgado em 16 de Maio de 1991.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 21 de Maio de 1991.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+Mapa anexo a que se refere o artigo 5.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/130b00/31023104.pdf))](https://files.diariodarepublica.pt/1s/1991/06/130b00/31023104.pdf)

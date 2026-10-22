@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:622373:por
+title: Portaria n.º 331-C/2009
+short_title: null
+summary: Primeira alteração à Portaria n.º 165-C/2009, de 13 de Fevereiro, que institui no âmbito da medida n.º 1 do Programa
+  AGRO - Modernização, Reconversão e Diversificação das Explorações Agrícolas a acção n.º 1.4., «Apoio a acções promotoras
+  de eficiência energética no âmbito das explorações agrícolas», e o respectivo regime de ajudas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 331-C/2009
+official_date: null
+publication_date: '2009-03-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2009, 1º Suplemento, Série I de 2009-03-30
+  number: '62'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1946-(23) a 1946-(23)
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/03/06201/0002300023.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/331-c/2009/03/30/p/dre/pt/html
+  oj: null
+  dre: '622373'
+  dre_path: /dr/detalhe/portaria/331-c-2009-622373
+  internal: pt:dre:622373:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-c-2009-622373
+  metadata_url: https://data.dre.pt/eli/port/331-c/2009/03/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-c-2009-622373
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-03-30T00:00:00Z'
+integrity:
+  source_sha256: 98e0d28615e7c98a34e209ec2bb56d7e048cf87e594c3fa010c7768c865ed6ff
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-331-C-622373.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda não Reembolsável
+- Financiamento
+- Direcção Regional de Agricultura e Pescas
+- Exploração Pecuária
+- Projeto de Investimento
+- Exploração Agrícola
+- Proteção do Ambiente
+- Modernização do Sector Agrícola
+- Programa AGRO
+- Ifadap
+- Subsídio não Reembolsável
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/165-c/2009/02/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/165-c/2009/02/13/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 331-C/2009
+
+de 30 de Março
+
+A [Portaria n.º 165-C/2009](https://diariodarepublica.pt/dr/detalhe/portaria/165-c-2009-181389), de 13 de Fevereiro, instituiu, no âmbito da medida n.º 1, «Modernização, reconversão e diversificação das explorações agrícolas», do Programa Operacional Agricultura e Desenvolvimento Rural (AGRO), a acção n.º 1.4, designada «Apoio a acções promotoras de eficiência energética no âmbito das explorações agrícolas», destinada a apoiar projectos que visem, designadamente, a produção de energia através de fontes renováveis, com potencial de substituição da energia eléctrica de fontes tradicionais, bem como a eficiência da energia eléctrica utilizada na exploração, incluindo no assento de lavoura.
+
+O prazo para apresentação de candidaturas, definido no artigo 6.º da referida portaria, revelou-se, no entanto, excessivamente curto, face à complexidade técnica que este tipo de projectos pode envolver, pelo que o bom funcionamento desta acção exige que o mencionado prazo seja alargado.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, nos termos do n.º 2 do artigo 22.º do [Decreto-Lei n.º 163-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-a-2000-220892), de 27 de Julho, o seguinte:
+
+###### Artigo 1.º — Alteração à [Portaria n.º 165-C/2009](https://diariodarepublica.pt/dr/detalhe/portaria/165-c-2009-181389), de 13 de Fevereiro
+
+São alterados os artigos 6.º e 7.º da [Portaria n.º 165-C/2009](https://diariodarepublica.pt/dr/detalhe/portaria/165-c-2009-181389), de 13 de Fevereiro, que passam a ter a seguinte redacção:
+
+«Artigo 6.º
+
+[. . .]
+
+As candidaturas serão apresentadas nas direcções regionais de agricultura e pescas (DRAP) até ao dia 15 de Abril de 2009, devendo ser acompanhadas de todos os elementos indicados no formulário de candidatura.
+
+###### Artigo 7.º — [. . .]
+
+1 - . . .
+
+2 - As candidaturas devem ser aprovadas até à data de 30 de Abril de 2009.»
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Março de 2009.**

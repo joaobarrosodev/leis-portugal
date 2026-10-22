@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:3054075:por
+title: Declaração de Rectificação n.º 1133-C/2011
+short_title: null
+summary: Rectificação do aviso n.º 1170/2011, publicado no Diário da República, 2.ª série, n.º 8, de 12 de Janeiro de 2011
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério do Ambiente e do Ordenamento do Território - Agência Portuguesa do Ambiente
+proposing_entity: null
+official_number: 1133-C/2011
+official_date: null
+publication_date: '2011-07-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/2011, 1º Suplemento, Série II de 2011-07-14
+  number: '134'
+  series: II
+  supplement: 1º Suplemento
+  pages: 29636-(3) a 29636-(3)
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/07/134000001/0000300003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3054075'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1133-c-2011-3054075
+  internal: pt:dre:3054075:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1133-c-2011-3054075
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1133-c-2011-3054075
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-07-14T00:00:00Z'
+integrity:
+  source_sha256: e451a877f489b038ffdb89b69a520aa84a12847dc5939a3ca75bd6cc1bd56d68
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-1133-C-3054075.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1133-C/2011
+
+Por ter saído com inexactidão no aviso n.º 1170/2011, publicado no Diário da República, 2.ª série, n.º 8, 12 de Janeiro de 2011, rectifica-se
+
+Através do aviso n.º 1170/2011, publicado no Diário da República, 2.ª série, n.º 8, de 12 de Janeiro de 2011, foi aberto concurso para financiamento de actividades dos sujeitos passivos que contribuam para o cumprimento dos objectivos nacionais em matéria de gestão de resíduos na Região Centro.
+
+Considerando que:
+
+A área de actuação da CCDR Centro não coincide com a área geográfica da NUTS II para a qual foi aberto o aviso n.º 1170/2011, torna-se necessário alterar o referido aviso nos seguintes termos:
+
+1 - O n.º 2, a alínea i) do n.º 5.1 e o n.º 8 do referido aviso passam a ter a seguinte redacção:
+
+«2 - Objectivos do concurso:
+
+Estimular o cumprimento dos objectivos nacionais em matéria de gestão de resíduos através do financiamento de actividades dos sujeitos passivos da taxa de gestão de resíduos que demonstrem relevância estratégica e enquadramento nos objectivos definidos nos planos específicos de gestão de resíduos e nos planos multimunicipais, intermunicipais e municipais de acção e na legislação nacional e da União Europeia em vigor e cujas acções incidam, territorialmente, na área de actuação da Comissão de Coordenação e Desenvolvimento Regional do Centro (CCDR Centro) estabelecida pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 317/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1999-423062), de 11 de Agosto, e pelo artigo 5.º da [Lei n.º 21/2010](https://diariodarepublica.pt/dr/detalhe/lei/21-2010-343580), de 23 de Agosto.
+
+...
+
+5 - Apresentação de candidaturas:
+
+5.1 - Condições de elegibilidade:
+
+As condições de elegibilidade dos beneficiários e das candidaturas são as fixadas no Regulamento, nomeadamente nos artigos 10.º, 11.º e 12.º
+
+Assim, nos termos das condições de admissibilidade e aceitabilidade fixadas, só poderão ser aceites ao presente concurso:
+
+i) Candidaturas de âmbito regional, aplicáveis à área de actuação da CCDR Centro, referida no n.º 2;
+
+ii) ...
+
+iii) ...
+
+iv) ...
+
+...
+
+8 - Âmbito geográfico:
+
+São elegíveis candidaturas de âmbito regional que visem prosseguir os objectivos nacionais em matéria de gestão de resíduos e que incidam territorialmente na área de actuação da CCDR Centro, referida no n.º 2.»
+
+2 - Sem prejuízo dos efeitos já produzidos pelo n.º 6 do aviso n.º 1170/2011, por força da presente alteração é fixado novo prazo para apresentação de candidaturas até às 24 horas do 30.º dia útil imediato ao da publicação do presente aviso no Diário da República.
+
+3 - As candidaturas já apresentadas no âmbito do aviso n.º 1170/2011 valem para todos os efeitos, devendo, no entanto, os proponentes de candidaturas já apresentadas, no prazo referido no número anterior, confirmar se a candidatura se mantém para o âmbito regional correspondente à área de actuação da CCDR Centro, de acordo com o n.º 2.
+
+4 - A confirmação referida no número anterior deve ser feita para o e-mail tgrmaisinfo@apambiente.pt.
+
+5 - É suspenso o prazo de análise de candidaturas estipulado no n.º 11 do aviso n.º 1170/2011 e fixado novo prazo 30 dias úteis contados do último dia para apresentação de candidaturas.
+
+13 de Julho de 2011. - A Directora do Departamento de Gestão de Recursos Humanos Financeiros e Patrimoniais, Fernanda da Piedade Martins Chilrito Mendes Bernardo.

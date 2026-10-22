@@ -1,0 +1,185 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74671911:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-107990616",
+ "dre_path": "/dr/detalhe/decreto-lei/27-2016-74671911",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107985771",
+    "107985772",
+    "107985773",
+    "107985774",
+    "107991575",
+    "107991576",
+    "107991577",
+    "107991578",
+    "107991579",
+    "107991580",
+    "107991581",
+    "107991582",
+    "107991583"
+   ]
+  },
+  {
+   "date": "2017-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107987279:por",
+     "title": "Decreto-Lei n.º 98/2017",
+     "published": "2017-08-10",
+     "dre_path": "/dr/detalhe/decreto-lei/98-2017-107987279"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "107985771",
+    "107985772",
+    "107985773",
+    "107991585",
+    "107991575",
+    "107991576",
+    "107991577",
+    "107991578",
+    "107991579",
+    "107991580",
+    "107991581",
+    "107991582",
+    "107991583",
+    "107991584"
+   ]
+  }
+ ],
+ "fragments": {
+  "107985771": {
+   "fragment_id": "107990617",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 27/2016\n\nde 14 de junho\n\nO setor da suinicultura e o da produção leiteira atravessam uma das mais violentas crises dos últimos anos, provocada, essencialmente, pelo fim do regime de quotas leiteiras, que impunha limites à produção europeia. Esta circunstância, associada ao embargo russo, determinou um excesso de oferta no mercado interno, tanto no setor leiteiro como na suinicultura, deixando os produtores nacionais confrontados com um mercado desequilibrado.\n\nTrata-se de uma crise europeia, para a qual são necessárias medidas no âmbito da União Europeia, algumas já colocadas em prática pela Comissão Europeia. No entanto, tais medidas revelam-se insuficientes para fazer face à situação de emergência com que os produtores estão confrontados. Por essa razão, o Governo português adotou um pacote de medidas nacionais integradas e direcionadas, entre as quais se destaca a isenção do pagamento de 50 % do valor da Taxa Social Única para ambos os setores, bem como as novas regras da rotulagem de carne, que tornam obrigatória a menção do país de origem na carne de suíno, de ovino, de caprino e de aves de capoeira.\n\nA criação de instrumentos financeiros capazes de dar resposta às necessidades destes dois setores, designadamente sob a forma de linhas de crédito garantidas, revela-se fundamental, tendo em conta a situação de dificuldade de acesso ao crédito em que os produtores se encontram. Pretende-se com a criação destas duas linhas de crédito assegurar aos produtores dos referidos setores acesso ao crédito.\n\nAs linhas de crédito agora criadas têm objetivos distintos, destinando-se a primeira a suprimir as dificuldades de tesouraria, e a segunda a permitir que os produtores resolvam situações de endividamento, reestruturando as suas dívidas à banca ou a fornecedores. Ambas as linhas têm um prazo de carência de um ano, ainda que com distintos prazos de maturidade, respetivamente, três anos no caso da linha de apoio à tesouraria, seis anos no caso da linha de apoio à reestruturação.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "107985772": {
+   "fragment_id": "107990618",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei cria duas linhas de crédito garantidas, dirigidas aos produtores de leite de vaca cru e aos produtores de suínos.\n\n2 - A primeira linha de crédito tem como objetivo apoiar encargos de tesouraria dos produtores referidos no número anterior, designada «Linha Tesouraria», enquanto a segunda tem como objetivo apoiar a reestruturação de dívidas com instituições de crédito ou com fornecedores, relacionadas com a atividade desenvolvida pelos produtores referidos no número anterior, designada «Linha Reestruturação»."
+  },
+  "107985773": {
+   "fragment_id": "107990619",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários e condições de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários e condições de elegibilidade\n\n1 - Têm acesso às linhas de crédito criadas pelo presente decreto-lei as explorações de bovinos ativas e que à data de apresentação do pedido de crédito satisfaçam as seguintes condições:\n\na) Desenvolvam a atividade em território nacional;\n\nb) Tenham feito entregas de leite de vaca cru nos 12 meses anteriores à data da apresentação do pedido de crédito;\n\nc) Tenham a situação regularizada perante a administração fiscal e a segurança social.\n\n2 - Têm ainda acesso às linhas de crédito criadas pelo presente decreto-lei as explorações de suínos ativas, que se dediquem à produção de suínos em ciclo fechado, à produção de leitões ou à recria e acabamento de leitões, que à data de apresentação do pedido de crédito satisfaçam as seguintes condições:\n\na) Desenvolvam a atividade em território nacional;\n\nb) Tenham entregue declaração obrigatória de existências de dezembro de 2015 até à data de publicação do presente decreto-lei;\n\nc) Tenham a situação regularizada perante a administração fiscal e a segurança social.\n\n3 - No respeitante à «Linha Reestruturação» o beneficiário compromete-se a não aumentar a produção durante seis meses após a concessão de crédito, aferida em função da média da declaração de entregas no segundo semestre da campanha 2015/2016 no setor do leite e da declaração de existência de dezembro de 2015, no caso da suinicultura."
+  },
+  "107985774": {
+   "fragment_id": "107990620",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante global de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montante global de crédito\n\n1 - O montante global de crédito a conceder é de (euro) 20 000 000,00, sendo atribuídos (euro) 10 000 000,00 a cada uma das linhas de crédito.\n\n2 - Caso o montante do crédito concedido numa das linhas fique aquém do fixado no número anterior, a outra linha é reforçada no valor não utilizado, desde que o montante global não seja ultrapassado e não implique encargos financeiros adicionais para o orçamento do Estado."
+  },
+  "107991575": {
+   "fragment_id": "107990621",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante individual do crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante individual do crédito\n\n1 - O montante individual de crédito garantido a conceder no âmbito da «Linha Tesouraria» é fixado nos seguintes termos:\n\na) (euro) 1 200,00, por fêmea da espécie bovina leiteira, registada no Sistema Nacional de Informação e Registo Animal em nome do requerente, com idade superior a 24 meses, no caso da bovinicultura de leite;\n\nb) (euro) 1 200,00, por fêmea reprodutora da espécie suína, constante da declaração de existência de dezembro de 2015, no caso da suinicultura em ciclo fechado;\n\nc) (euro) 250,00, por fêmea reprodutora da espécie suína, constante da declaração de existência de dezembro de 2015, no caso da suinicultura para produção de leitões;\n\nd) (euro) 260,00, por leitão, constante da declaração de existências de dezembro de 2015, no caso da suinicultura de recria e acabamento de leitões.\n\n2 - Sem prejuízo do disposto no número anterior, o montante máximo de crédito garantido, por beneficiário em cada linha de crédito, não pode ultrapassar (euro) 15 000,00, expressos em equivalente subvenção-bruto."
+  },
+  "107991576": {
+   "fragment_id": "107990622",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma\n\n1 - O crédito é concedido, sob a forma de empréstimo reembolsável, pelas instituições de crédito que celebrem protocolo com o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), e com entidades do Sistema Português de Garantia Mútuo.\n\n2 - As condições de acesso ao crédito e ao sistema português de garantia mútua, nomeadamente a respetiva taxa de juro, a bonificação das comissões de garantia e as condições para a sua amortização, são fixadas no protocolo referido no número anterior.\n\n3 - São igualmente definidas no protocolo referido no n.º 1 as formas de pagamento dos encargos do IFAP, I. P., com as comissões de garantia.\n\n4 - Os encargos financeiros relativos à contragarantia são suportados por transferência orçamental do IFAP, I. P."
+  },
+  "107991577": {
+   "fragment_id": "107990623",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições financeiras dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições financeiras dos empréstimos\n\n1 - Os empréstimos da «Linha Tesouraria» são concedidos pelo prazo máximo de três anos a contar da data de celebração do contrato e amortizáveis anualmente, em prestações de igual montante, vencendo-se a primeira amortização no prazo máximo de dois anos a contar da data da primeira utilização do crédito, permitindo um ano de carência de capital.\n\n2 - Os empréstimos da «Linha Reestruturação» são concedidos pelo prazo máximo de seis anos a contar da data de celebração do contrato e amortizáveis anualmente, em prestações de igual montante, vencendo-se a primeira amortização no prazo máximo de dois anos a contar da data da primeira utilização do crédito, permitindo um ano de carência de capital."
+  },
+  "107991578": {
+   "fragment_id": "107990624",
+   "type": 11,
+   "heading": "Artigo 7.º — Formalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formalização\n\n1 - Os procedimentos relativos aos pedidos de crédito apresentados junto das instituições de crédito, bem como os relativos ao enquadramento e à tramitação das respetivas operações, são estabelecidos em protocolo a celebrar nos termos do artigo 5.º\n\n2 - Os prazos de apresentação dos pedidos de crédito, bem como os procedimentos relativos às linhas de crédito são divulgados no portal do IFAP, I. P.\n\n3 - Os pedidos de crédito são decididos por ordem de entrada até esgotar os montantes globais referidos no artigo 3.º"
+  },
+  "107991579": {
+   "fragment_id": "107990625",
+   "type": 11,
+   "heading": "Artigo 8.º — Pagamento dos encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pagamento dos encargos\n\n1 - O pagamento dos encargos previstos no n.º 3 do artigo 5.º é efetuado pelo IFAP, I. P., enquanto se verificarem as condições de acesso definidas no presente decreto-lei.\n\n2 - A SPGM - Sociedade de Investimento, S. A., e as instituições de crédito devem fornecer ao IFAP, I. P., todas as informações solicitadas por este, relativas aos empréstimos objeto de bonificação das comissões de garantia."
+  },
+  "107991580": {
+   "fragment_id": "107990626",
+   "type": 11,
+   "heading": "Artigo 9.º — Incumprimento pelo beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Incumprimento pelo beneficiário\n\n1 - O incumprimento de qualquer das obrigações do beneficiário, na qualidade de mutuário, é prontamente comunicado pela instituição de crédito ao IFAP, I. P., e à SPGM - Sociedade de Investimento, S. A.\n\n2 - A verificação, em qualquer momento, do incumprimento por parte do beneficiário das condições de elegibilidade previstas no presente decreto-lei, assim como dos termos do protocolo referido no artigo 5.º, determina a obrigação por parte do beneficiário da devolução do apoio concedido relativo aos encargos da comissão de garantia.\n\n3 - Compete à SPGM - Sociedade de Investimento, S. A., a decisão de recuperação e a posterior entrega dos respetivos montantes recuperados ao IFAP, I. P."
+  },
+  "107991581": {
+   "fragment_id": "107990627",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acompanhamento e controlo\n\nO acompanhamento e controlo dos apoios a conceder no âmbito do presente decreto-lei compete ao IFAP, I. P., nos termos a definir no protocolo referido no n.º 1 do artigo 5.º"
+  },
+  "107991582": {
+   "fragment_id": "107990628",
+   "type": 11,
+   "heading": "Artigo 11.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Financiamento\n\nOs encargos financeiros decorrentes da aplicação do presente decreto-lei são assegurados por verbas do programa orçamental do Ministério da Agricultura, Florestas e Desenvolvimento Rural, inscritas no IFAP, I. P."
+  },
+  "107991583": {
+   "fragment_id": "107990629",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107991585": {
+   "fragment_id": "107990620",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante global de crédito",
+   "in_force_from": "2017-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2017 - Diário da República n.º 154/2017, Série I de 2017-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2017-107987279), em vigor a partir de 2017-08-11"
+   ],
+   "markdown": "###### Artigo 3.º — Montante global de crédito\n\n1 - O montante global de crédito a conceder é de (euro) 20 000 000,00, sendo atribuídos (euro) 10 000 000,00 a cada uma das linhas de crédito.\n\n2 - Caso o montante do crédito concedido numa das linhas fique aquém do fixado no número anterior, a outra linha é reforçada no valor não utilizado, desde que o montante global não seja ultrapassado e não implique encargos financeiros adicionais para o orçamento do Estado.\n\n3 - Caso o montante concedido ao abrigo de ambas as linhas de crédito fique aquém do fixado no n.º 1, o montante não utilizado é reafetado a outras linhas de crédito destinadas aos operadores da produção, transformação ou comercialização de produtos do setor agrícola, a criar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2017 - Diário da República n.º 154/2017, Série I de 2017-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2017-107987279), em vigor a partir de 2017-08-11"
+  },
+  "107991584": {
+   "fragment_id": "107990630",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de maio de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Luís Manuel Capoulas Santos.\n\nPromulgado em 3 de junho de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 7 de junho de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

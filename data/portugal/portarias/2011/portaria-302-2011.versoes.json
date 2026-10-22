@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145258:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-907096280",
+ "dre_path": "/dr/detalhe/portaria/302-2011-145258",
+ "source_lastmod": "2025-02-11",
+ "versions": [
+  {
+   "date": "2011-12-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907093586",
+    "907093587",
+    "907093588",
+    "907093589",
+    "907093590"
+   ]
+  }
+ ],
+ "fragments": {
+  "907093586": {
+   "fragment_id": "907096281",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 302/2011\n\nde 2 de Dezembro\n\nO Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de Outubro, com as alterações introduzidas pelo Regulamento (CE) n.º 491/2009, do Conselho, de 25 de Maio, promoveu a uniformização e harmonização das práticas enológicas autorizadas e das restrições aplicáveis à produção e à comercialização de produtos do sector vitivinícola, estabelecendo o Regulamento (CE) n.º 606/2009, da Comissão, de 10 de Julho, as suas regras de execução.\n\nDe acordo com o disposto no n.º 3 do anexo i-C do referido Regulamento, os Estados membros podem estabelecer derrogações aos limites do teor de acidez volátil definidos, relativamente aos vinhos produzidos nos respectivos territórios.\n\nNeste sentido, de forma a garantir e salvaguardar as especificidades de alguns produtos vitivinícolas nacionais, importa definir os limites do teor de acidez volátil para os vinhos licorosos e para os vinhos com denominação de origem (DO) e com indicação geográfica (IG) que tenham sido sujeitos a um período de envelhecimento de pelo menos dois anos ou que tenham sido elaborados segundo métodos especiais.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 46/2007, de 27 de Fevereiro, e no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, através do despacho n.º 12412/2011, de 20 de Setembro, o seguinte:"
+  },
+  "907093587": {
+   "fragment_id": "907096282",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nA presente portaria estabelece, para o território nacional, os limites do teor de acidez volátil para os vinhos licorosos e para os vinhos com denominação de origem (DO) e com indicação geográfica (IG) que tenham sido sujeitos a um período de envelhecimento de pelo menos dois anos ou que tenham sido elaborados segundo métodos especiais, sem prejuízo da definição de limites mais restritivos pelas entidades certificadoras."
+  },
+  "907093588": {
+   "fragment_id": "907096283",
+   "type": 11,
+   "heading": "Artigo 2.º — Vinhos com DO e IG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Vinhos com DO e IG\n\nO teor máximo de acidez volátil dos vinhos com direito a DO e IG com a menção «colheita tardia» é fixado em 30 meq/l."
+  },
+  "907093589": {
+   "fragment_id": "907096284",
+   "type": 11,
+   "heading": "Artigo 3.º — Vinhos licorosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Vinhos licorosos\n\n1 - O teor máximo de acidez volátil dos vinhos licorosos é fixado em 30 meq/l.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) Os vinhos licorosos com direito à DO Madeira, cujo teor máximo de acidez volátil é fixado em:\n\ni) 20 meq/l para os vinhos com idades inferiores ou iguais a 10 anos;\n\nii) 25 meq/l para os vinhos com idades superiores a 10 e inferiores a 20 anos;\n\nb) Os vinhos licorosos com direito à DO Porto e Moscatel Douro, cujo teor máximo de acidez volátil é fixado em 20 meq/l para os vinhos com idade igual ou superior a 10 e inferior a 30 anos;\n\nc) Os vinhos com direito à DO Setúbal, com os designativos tradicionais «Moscatel de Setúbal» e «Moscatel Roxo» ou «Roxo», cujo teor máximo de acidez volátil é fixado em 25 meq/l para vinhos com idade igual ou inferior a 10 anos."
+  },
+  "907093590": {
+   "fragment_id": "907096285",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação."
+  }
+ }
+}

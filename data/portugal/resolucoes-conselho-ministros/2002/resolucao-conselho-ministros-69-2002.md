@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:302882:por
+title: Resolução do Conselho de Ministros n.º 69/2002
+short_title: null
+summary: Define montantes para o tarifário a vigorar no âmbito do empreendimento de fins múltiplos de Alqueva, relativamente
+  ao abastecimento de água para uso agrícola
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 69/2002
+official_date: null
+publication_date: '2002-04-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2002, Série I-B de 2002-04-09
+  number: '83'
+  series: I
+  supplement: null
+  pages: 3390 - 3390
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/04/083b00/33903390.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/69/2002/04/09/p/dre/pt/html
+  oj: null
+  dre: '302882'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/69-2002-302882
+  internal: pt:dre:302882:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2002-302882
+  metadata_url: https://data.dre.pt/eli/resolconsmin/69/2002/04/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2002-302882
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-04-16T00:00:00Z'
+integrity:
+  source_sha256: 37e28126fecbbdd62a4ac042aafe47a9bb61bf0a33ec913e5f71773a88b4e0fe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-69-302882.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Água
+- Empreendimento de Fins Múltiplos do Alqueva
+- Alqueva
+- Aproveitamento Hidroagrícola
+- Preço
+- Agricultura
+- Abastecimento de Água
+relationships:
+- type: amended_by
+  target: pt:dre:613415:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/335/2001/12/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/335/2001/12/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/47/1994/02/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/47/1994/02/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/86/2002/04/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/86/2002/04/06/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 69/2002
+
+Considerando o interesse nacional reconhecido ao projecto do empreendimento de fins múltiplos de Alqueva (EFMA);
+
+Considerando o imperativo de fomento e desenvolvimento do regadio agrícola em toda a área de influência do EFMA;
+
+Considerando, ainda, que a definição, num horizonte de médio prazo, dos montantes para o tarifário aplicável ao abastecimento de água para fins agrícolas constitui um factor imprescindível na formulação das expectativas dos empresários agricultores e na fundamentação das suas decisões de investimento no contexto do EFMA:
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - No contexto do regime tarifário aplicável ao abastecimento de água para uso agrícola no âmbito do empreendimento de fins múltiplos de Alqueva (EFMA), são fixados os seguintes montantes, aplicáveis ao abastecimento de água para uso agrícola à saída da rede secundária de rega, isto é, à entrada das explorações agrícolas integrantes dos perímetros de rega definidos no âmbito do mesmo empreendimento:
+
+a) 11$00/m3 ((euro) 0,054868/m3), a vigorar durante o ano 2002;
+
+b) 16$50/m3 ((euro) 0,082302/m3), a vigorar durante os anos 2008 e seguintes.
+
+2 - O montante estabelecido na alínea a) do n.º 1 será anualmente ajustado até atingir o montante de referência estabelecido na alínea b) do mesmo número.
+
+3 - Os montantes estabelecidos nos números anteriores estão definidos a preços médios do ano 2001, devendo, para efeitos da presente resolução, ser actualizados em função da variação média anual, registada no ano anterior, do índice de preços no consumidor (sem despesas com habitação) no continente de Portugal, definido e publicado pelo Instituto Nacional de Estatística.
+
+4 - Os montantes referidos no n.º 1 incluem o tarifário a fixar nos termos do artigo 3.º do [Decreto-Lei n.º 335/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2001-536640), de 24 de Dezembro, designadamente a taxa de utilização prevista na alínea a) do respectivo n.º 2, fixada nos termos do [Decreto-Lei n.º 47/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1994-515807), de 22 de Fevereiro, bem como as taxas de beneficiação, de conservação e de exploração fixadas nos termos do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, na redacção que lhe foi dada pelo [Decreto-Lei n.º 86/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), de 6 de Abril.
+
+Presidência do Conselho de Ministros, 3 de Setembro de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

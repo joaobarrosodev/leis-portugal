@@ -1,0 +1,187 @@
+---
+schema_version: '1.0'
+id: pt:dre:674420:por
+title: Decreto n.º 42/93
+short_title: null
+summary: Aprova o Protocolo de Cooperação no Domínio da Administração Autárquica entre a República Portuguesa e a República
+  de Cabo Verde
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 42/93
+official_date: null
+publication_date: '1993-11-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 274/1993, Série I-A de 1993-11-23
+  number: '274'
+  series: I
+  supplement: null
+  pages: 6476 - 6477
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/11/274a00/64766477.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/42/1993/11/23/p/dre/pt/html
+  oj: null
+  dre: '674420'
+  dre_path: /dr/detalhe/decreto/42-1993-674420
+  internal: pt:dre:674420:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1993-674420
+  metadata_url: https://data.dre.pt/eli/dec/42/1993/11/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1993-674420
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-11-23T00:00:00Z'
+integrity:
+  source_sha256: 221f90b545df213890cb1526468cf95689819f89695f213f95413f85d729934e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-42-674420.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Cooperação Técnica
+- Portugal
+- Cabo Verde
+- Administração Local
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 42/93
+
+de 23 de Novembro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado o Protocolo de Cooperação no Domínio da Administração Autárquica entre a República Portuguesa e a República de Cabo Verde, assinado na Praia, a 7 de Abril de 1993, cuja versão autêntica segue em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1993. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Domingos Manuel Martins Jerónimo.
+
+**Assinado em 3 de Novembro de 1993.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 4 de Novembro de 1993.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+PROTOCOLO DE COOPERAÇÃO NO DOMÍNIO DA ADMINISTRAÇÃO AUTÁRQUICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE.
+
+A República Portuguesa e a República de Cabo Verde, no desejo de contribuírem para a realização de objectivos de interesse comum, acordam, pelo presente Protocolo, em princípios gerais pelos quais se regerá a cooperação entre os dois países nos domínios da administração autárquica.
+
+I - Finalidade do Protocolo
+
+A finalidade do Protocolo é estabelecer o âmbito e as formas de cooperação, através dos departamentos governamentais adequados, a saber, a Direcção-Geral de Administração Autárquica e a Direcção-Geral da Cooperação, pela Parte Portuguesa, e a Direcção-Geral da Administração Local e a Direcção-Geral da Cooperação Internacional, pela Parte Cabo-Verdiana.
+
+II - Domínios de cooperação
+
+Sem prejuízo de outros domínios que venham a ser reconhecidos de interesse pelas duas Partes, e que se contenham na esfera de competência das respectivas entidades governamentais, pretende-se aproveitar as potencialidades de cooperação dos departamentos mencionados no ponto anterior na resolução de problemas nos domínios da administração autárquica.
+
+III - Acções de cooperação
+
+As acções de cooperação a estabelecer nos domínios gerais mencionados no ponto anterior desenvolver-se-ão principalmente nas seguintes áreas de actuação:
+
+a) Formação técnico-profissional, através de estágios, cursos ou seminários, a realizar em Portugal ou em Cabo Verde, nomeadamente nas áreas de finanças locais, técnicas de organização, gestão de pessoal, informática, gestão de arquivos e modernização administrativa;
+
+b) Assistência técnica, inserida em programa de estudo de projectos e de execução de empreendimentos, que interessem à resolução dos problemas que se apresentem ao Ministério da Administração Interna de Cabo Verde, tendo em atenção os condicionalismos locais do país; a assistência técnica a prestar poderá revestir a forma de contrato, a estabelecer caso a caso, face à natureza e dimensão dos trabalhos a realizar;
+
+c) Intercâmbio de informação e de documentação portuguesa em particular e europeia em geral nos domínios abrangidos por este Protocolo, bem como quanto à realização de conferências, simpósios, seminários ou congressos, que de algum modo interessem ao desenvolvimento dos conhecimentos nas áreas em questão;
+
+d) Prestação de consultoria, nas áreas que venham a ser identificadas, definindo-se na oportunidade os termos e condições em que essa consultoria será prestada.
+
+IV - Gestão do Protocolo e programação de trabalhos
+
+1 - A gestão deste Protocolo será feita por uma comissão coordenadora, com carácter permanente, que integrará um membro de cada departamento, competindo-lhe:
+
+a) Elaborar os programas de trabalho plurianuais e anuais;
+
+b) Velar pelo cumprimento dos programas;
+
+c) Elaborar, no final de cada ano, um relatório sobre as actividades desenvolvidas, com eventuais propostas de correcções a introduzir na acção futura a desenvolver.
+
+Para este efeito a comissão coordenadora deverá reunir uma vez por ano, alternadamente em Portugal e em Cabo Verde e, sempre que possível, no âmbito dos trabalhos de apoio à elaboração e acompanhamento dos programas definidos nas reuniões das comissões mistas.
+
+2 - A definição das linhas gerais do programa respeitante a cada ano será feita até 15 de Novembro do ano anterior.
+
+3 - O programa de trabalhos incluirá a definição concreta das acções a desenvolver, bem como a definição dos meios financeiros ou outros necessários. O programa de trabalhos será submetido à apreciação das entidades governamentais respectivas pela comissão coordenadora, de modo a poder estar aprovado até 15 de Dezembro de cada ano.
+
+4 - O relatório de actividades deverá estar concluído até 31 de Janeiro do ano seguinte a que diz respeito.
+
+V - Encargos e financiamento
+
+1 - O suporte financeiro das acções decorrentes da aplicação deste Protocolo, constante dos programas anuais estabelecidos, será assegurado pela conjugação de disponibilidades de verbas das Partes Portuguesa e Cabo-Verdiana e demais dotações que, para o efeito, vierem a ser consignadas.
+
+2 - A Direcção-Geral da Cooperação suportará os encargos com acções de formação a efectuar em Portugal, através da concessão de bolsas de estudo e participará nos custos das acções de formação de curta duração a realizar em Cabo Verde, de acordo com os programas anuais que venham a ser aprovados, compreendendo estes encargos e pagamento de viagens e ajudas de custo segundo as tabelas em vigor.
+
+3 - O Ministério do Planeamento e da Administração do Território fornecerá gratuitamente as publicações e documentação relevantes editadas pelos departamentos referidos no n.º 1, bem como o acompanhamento na efectivação dos estágios de formação que vierem a ser acordados, quando estes se realizarem nos departamentos dependentes daquele Ministério. A prestação de outra assistência técnica e consultoria será efectuada em moldes a definir caso a caso.
+
+4 - Nas acções a realizar em Cabo Verde o Ministério da Administração Interna dará apoio nos seguintes aspectos:
+
+a) Obtenção dos meios de transportes necessários para as deslocações;
+
+b) Alojamento compatível com a categoria do pessoal deslocado e respectiva alimentação;
+
+c) Assistência médica e medicamentosa;
+
+d) Apoio técnico e administrativo para o bom êxito das missões, designadamente na cedência do pessoal necessário ao acompanhamento dos trabalhos;
+
+e) Colaboração das entidades e serviços públicos locais.
+
+5 - Os custos das viagens dos técnicos e das missões cabo-verdianas a Portugal serão suportados pela República de Cabo Verde.
+
+VI - Duração do Protocolo
+
+O presente Protocolo entrará em vigor na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica de cada uma das Partes e será válido por um período de dois anos, automaticamente prorrogável por períodos iguais e sucessivos, salvo denúncia de uma das Partes, por escrito, com antecedência de, pelo menos, 180 dias antes da sua expiração.
+
+Feito em dois exemplares, fazendo ambos os textos igualmente fé.
+
+Praia, 7 de Abril de 1993.
+
+Pela República Portuguesa:
+
+José Manuel de Morais Briosa e Gala.
+
+Pela República de Cabo Verde:
+
+José Luís Monteiro.

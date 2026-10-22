@@ -1,0 +1,228 @@
+---
+schema_version: '1.0'
+id: pt:dre:531799:por
+title: Decreto-Lei n.º 14/84
+short_title: null
+summary: Altera o regime de julgamento e punição do crime de emissão de cheque sem provisão e institui a medida administrativa
+  de restrição do uso de cheque pelos responsáveis pela emissão de cheques sem provisão
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Justiça e das Finanças e do Plano
+proposing_entity: null
+official_number: 14/84
+official_date: null
+publication_date: '1984-01-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/1984, Série I de 1984-01-11
+  number: '9'
+  series: I
+  supplement: null
+  pages: 105 - 107
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/01/00900/01050107.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '531799'
+  dre_path: /dr/detalhe/decreto-lei/14-1984-531799
+  internal: pt:dre:531799:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1984-531799
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1984-531799
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-11-19T00:00:00Z'
+integrity:
+  source_sha256: 3e3aa9819ce7837ac83a81d5198d65fa13fd0c6f6a87a06e3834f68f9d4184e9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-14-531799.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:694244:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 14/84
+
+de 11 de Janeiro
+
+O aumento preocupante do número de cheques sem provisão impõe a adopção de medidas que modifiquem esta situação.
+
+Assim e ao abrigo da autorização legislativa concedida pela [Lei n.º 12/83](https://diariodarepublica.pt/dr/detalhe/lei/12-1983-455922), de 24 de Agosto, introduzem-se alterações na tramitação processual relativa ao crime de emissão de cheque sem provisão, visando atingir uma mais eficiente e célere administração da justiça, sem prejuízo da garantia dos direitos dos arguidos e da estrutura acusatória do processo prevista no n.º 5 do artigo 32.º da Constituição da República.
+
+Por outro lado, na sequência do [Decreto-Lei n.º 530/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1975-312053), de 25 de Setembro, considera-se conveniente a adopção de uma medida administrativa que restrinja o uso de cheques por parte de pessoas que, reconhecidamente, o fazem de forma indevida.
+
+No uso da autorização legislativa concedida pela [Lei n.º 27/83](https://diariodarepublica.pt/dr/detalhe/lei/27-1983-439432), de 8 de Setembro, penaliza-se o uso de cheques, fora dos casos especialmente previstos, por parte das entidades abrangidas por aquela medida de restrição.
+
+As entidades bancárias são obrigadas a comunicar ao Banco de Portugal todos os casos de apresentação de cheques, dentro dos prazos legais, que não sejam pagos por falta de provisão.
+
+Em certos casos, essas entidades deverão mesmo propor obrigatoriamente ao Banco de Portugal - entidade competente para a instrução dos processos - a aplicação da referida medida de restrição, em ordem a um efectivo cumprimento do presente diploma.
+
+Assim:
+
+No uso das autorizações legislativas conferidas pelo artigo 3.º da [Lei n.º 12/83](https://diariodarepublica.pt/dr/detalhe/lei/12-1983-455922), de 24 de Agosto, e pelo artigo 1.º da [Lei n.º 27/83](https://diariodarepublica.pt/dr/detalhe/lei/27-1983-439432), de 8 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Do processo pelo crime de emissão de cheque sem provisão
+
+###### Artigo 1.º - 1 - Antes de instaurado o procedimento criminal, a responsabilidade pela prática do crime de emissão de cheque sem provisão extingue-se pelo pagamento, efectuado directamente pelo sacador ao portador do cheque, do montante deste, acrescido dos juros compensatórios e moratórias calculados à taxa máxima de juro praticada, no momento do pagamento, pela banca portuguesa para operações activas de crédito.
+
+2 - Se o portador do cheque recusar receber ou dar quitação, poderá ser efectuado depósito à sua ordem dentro do prazo de 30 dias a contar da apresentação do cheque a pagamento.
+
+3 - O pagamento ou o depósito previstos nos números anteriores efectuados até ao encerramento da audiência de julgamento determinação a suspensão da execução da pena que ao caso couber, salvo se o agente já tiver sido condenado pela prática deste crime e entre a data da prática daquele crime e a data da emissão do cheque por que responde não tiver decorrido mais de 5 anos.
+
+###### Art. 2.º Os mandantes, ainda que pessoas colectivas, sociedades ou meras associações de facto, são civil e solidariamente responsáveis pelo pagamento das multas e indemnizações em que forem condenados os seus representantes, contanto que estes tenham agido nessa qualidade e no interesse dos representados.
+
+###### Art. 3.º - 1 - O crime de emissão de cheque sem provisão será averiguado em inquérito preliminar, independentemente das circunstâncias e do seu valor, sem prejuízo da competência dos juízes de instrução em tudo o que se relacione com a eventual prisão dos arguidos.
+
+2 - As entidades e pessoas referidas no n.º 1 do artigo 1.º do [Decreto-Lei n.º 2/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1978-468853), de 9 de Janeiro, são obrigadas a fornecer às autoridades competentes para o inquérito ou instrução os elementos mencionados no n.º 2 do mesmo artigo.
+
+###### Art. 4.º - 1 - Concluído o inquérito preliminar o requerido o julgamento pelo ministério público ou pelos assistentes, o requerimento será notificado ao arguido, entregando-se-lhe cópia com o rol de testemunhas e indicação dos documentos produzidos.
+
+2 - O arguido poderá, no prazo de 5 dias a contar da notificação, requerer a instrução contraditória, o arquivamento do processo ou alegar quaisquer questões de que o juiz deva conhecer no despacho a que se refere o n.º 1 do artigo seguinte.
+
+###### Art. 5.º - 1 - Antes de designar dia para julgamento o juiz conhecerá das nulidades, legitimidade, excepções ou quaisquer outras questões prévias que possam obstar à apreciação do mérito da causa.
+
+2 - Não havendo lugar a instrução contraditória, nada obstando a que o processo prossiga e sendo o facto punível, o juiz receberá sempre o requerimento acusatório e designará dia para julgamento, seguindo-se os termos de processo aplicáveis, com as devidas adaptações, sem prejuízo do disposto no artigo 9.º
+
+3 - O despacho proferido ao abrigo dos números anteriores apenas pode ser impugnado no recurso que venha a ser interposto da decisão final.
+
+4 - Haverá, porém, recurso, a subir imediatamente em separado e com efeito devolutivo, da decisão que respeite a medidas preventivas ordenadas.
+
+###### Art. 6.º Nos processos por crime de emissão de cheque sem provisão só há lugar a instrução contraditória:
+
+a) A requerimento do arguido, nos termos do n.º 2 do artigo 4.º;
+
+b) A requerimento do ministério público ou dos assistentes, quando, concluído o inquérito preliminar, não houver prova bastante para requerer o julgamento e seja de presumir que se complete a prova indiciária contra o arguido.
+
+###### Art. 7.º Finda a instrução, o despacho que receba a acusação não é susceptível de recurso, podendo, porém, ser impugnado no recurso que venha a ser interposto da decisão final.
+
+###### Art. 8.º - 1 - O réu apresentará na audiência de julgamento a contestação e, bem assim, as testemunhas e documentos que ali queira produzir em sua defesa, para o que será expressamente notificado, devendo indicar atempadamente ao tribunal as testemunhas a requisitar nos termos do artigo 85.º do Código de Processo Penal.
+
+2 - O ofendido será notificado com a obrigação expressa de comparecer em julgamento.
+
+3 - Se o réu, devidamente notificado, não comparecer em julgamento, será, representado pelo seu defensor, julgado como se estivesse presente dentro dos 30 dias seguintes, devendo ser notificado com essa cominação.
+
+###### Art. 9.º O tribunal territorialmente competente para conhecer do crime de emissão de cheque sem provisão é o da comarca onde se situe o estabelecimento da instituição de crédito no qual o cheque foi apresentado a pagamento.
+
+### CAPÍTULO II — Da medida de restrição ao uso de cheque
+
+###### Art. 10.º - 1 - A medida de restrição ao uso de cheque a que o presente capítulo se refere é uma providência de natureza administrativa que envolve a proibição às pessoas a quem for aplicada de movimentar por meio de cheques as contas de depósito de que sejam titulares em quaisquer instituições de crédito.
+
+2 - A medida de restrição ao uso de cheque obriga as pessoas a quem for aplicada a devolver às instituições de crédito todos os módulos de cheques ainda em seu poder ou dos seus mandatários e às instituições de crédito a não lhes facultar cheques para a movimentação das suas contas de depósito, sem prejuízo do disposto no número seguinte.
+
+3 - A medida a que se refere este artigo não impede a movimentação de cheques avulsos, visados ou não pelas instituições de crédito sacadas, consoante se destinem a pagamentos ou a simples levantamentos de fundos, devendo aquelas instituições facultar aos interessados os cheques nessas condições.
+
+4 - Os cheques sacados durante o período de aplicação desta medida deverão ser pagos quando a conta tiver provisão, devendo a entidade sacada comunicar a emissão do cheque nessas condições ao Banco de Portugal.
+
+###### Art. 11.º - 1 - A medida de restrição ao uso de cheque é aplicável:
+
+a) Quando no período de 3 meses a mesma entidade saque 3 ou mais cheques que, apresentados a pagamento no prazo legal, não forem pagos por falta de provisão, ainda que sacados sobre instituições de crédito distintas;
+
+b) Quando, tendo sido emitido um ou mais cheques que não tenham sido pagos por falta de provisão, irregularidade de preenchimento ou de saque, se prove que o titular da conta, pela utilização indevida do cheque, põe em causa o espírito de confiança que deve presidir à sua circulação.
+
+2 - A medida de restrição ao uso de cheque recai sobre o sacador e os titulares da conta, contanto que aquele tenha agido na qualidade de representante e no interesse dos titulares da conta sacada.
+
+3 - A medida de restrição ao uso de cheque deve ser aplicada no prazo de 6 meses a contar da verificação dos seus pressupostos, sob pena de caducidade.
+
+###### Art. 12.º - 1 - A medida de restrição ao uso de cheque terá a duração mínima de 6 meses e máxima de 3 anos.
+
+2 - Sob proposta da instituição de crédito sacada ou a requerimento do interessado, quando circunstâncias relevantes o justifiquem, o Banco de Portugal poderá fazer cessar a medida de restrição, desde que tenha decorrido, pelo menos, metade do respectivo prazo.
+
+###### Art. 13.º - 1 - Compete ao Banco de Portugal, por intermédio do seu conselho de administração, decidir sobre a aplicação da medida de restrição ao uso de cheque.
+
+2 - A competência a que se refere o número anterior pode ser delegada nos termos do n.º 2 do artigo 45.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 544/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/544-1975-312213), de 15 de Novembro.
+
+###### Art. 14.º - 1 - O processo para aplicação da medida de restrição ao uso de cheque é instaurado pelo Banco de Portugal, por sua iniciativa ou por proposta de qualquer instituição de crédito.
+
+2 - A proposta é obrigatória para as instituições de crédito sobre quem forem sacados pela mesma entidade 3 ou mais cheques sem provisão num período de 3 meses.
+
+3 - Independentemente de proposta para instauração do processo para aplicação da medida de restrição, as instituições de crédito devem comunicar ao Banco de Portugal os factos a que se refere a alínea b) do n.º 1 do artigo 11.º quando tenham conhecimento de que a irregularidade não foi suprida ou constitui comportamento habitual do titular da conta sacada e sempre que um cheque apresentado a pagamento dentro do prazo legal não seja pago por falta de provisão.
+
+4 - As propostas devem ser fundamentadas, instruídas com os elementos necessários e enviadas ao Banco de Portugal no prazo de 15 dias; o facto será notificado aos interessados pela instituição de crédito proponente.
+
+###### Art. 15.º - 1 - O processo a que se refere o n.º 1 do artigo anterior será instruído pelos serviços do Banco de Portugal, que formularão um relatório final e uma proposta de decisão.
+
+2 - O relatório e proposta de decisão são notificados aos eventuais sujeitos passivos da medida para, no prazo de 8 dias, deduzirem a sua defesa.
+
+3 - A defesa é deduzida por escrito, devendo ser subscrita pelo próprio ou por um seu representante ou mandatário e ser instruída com todos os elementos que o interessado considere relevantes.
+
+4 - Apresentada a defesa ou decorrido o prazo para a sua apresentação e efectuadas as diligências requeridas, o serviço instrutor formulará um parecer final e apresentará o processo para decisão.
+
+5 - Reconhecendo-se a necessidade de diligências complementares ou que houve omissão de actos essenciais, sobrestar-se-á na decisão, fixando-se, tomado em atenção o disposto no artigo 11.º, n.º 3, prazo para serem praticados pelo serviço instrutor.
+
+6 - A decisão deve ser notificada aos interessados e à instituição de crédito proponente; quando ordenar a medida de restrição ao uso de cheque deve ser comunicada a todas as instituições de crédito.
+
+7 - Da decisão final cabe recurso contencioso nos termos gerais de direito.
+
+###### Art. 16.º - 1 - As notificações a que se referem os artigos 14.º e 15.º efectuam-se por meio de carta registada expedida para o último domicílio declarado às instituições de crédito sacadas e presumem-se feitas, salvo prova em contrário, no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte, se esse o não for.
+
+2 - A notificação tem-se por efectuada mesmo que o notificando recuse receber a carta ou não se encontre no domicílio indicado.
+
+###### Art. 17.º - 1 - Quem, estando abrangido pela medida de restrição ao uso de cheque, emitir cheque com provisão fora dos casos previstos no n.º 3 do artigo 10.º, ou no prazo de 8 dias após a notificação não devolver às instituições de crédito os módulos de cheques em seu poder, em conformidade com o n.º 2 do artigo 10.º incorre na pena prevista para o crime de desobediência.
+
+2 - Quem, tendo-lhe sido aplicada a presente medida, emitir cheque sem provisão incorre na pena prevista para o crime de desobediência qualificada, sem prejuízo da responsabilidade pelo crime de emissão de cheque sem provisão.
+
+###### Art. 18.º Compete ao Banco de Portugal fixar os requisitos a observar pelas instituições de crédito na abertura de contas de depósito e no fornecimento de módulos de cheques, designadamente quanto à identificação dos respectivos titulares e representantes e, ainda, transmitir às instituições de crédito instruções tendentes à aplicação uniforme do disposto neste capítulo.
+
+###### Art. 19.º As instituições de crédito que não dêem cumprimento ao disposto no capítulo II deste diploma ou às instruções que o Banco de Portugal, ao abrigo do artigo anterior, lhes transmitir por meio de circulares expedidas sob registo e com aviso de recepção ou entregues mediante protocolo, serão punidas conforme o disposto nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, no artigo 8.º do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966, e nos Decretos-Leis n.os [205/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1970-142291), de 12 de Maio, e [301/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1975-337056), de 20 de Junho.
+
+### CAPÍTULO III — Disposições finais
+
+###### Art. 20.º É revogado o [Decreto-Lei n.º 530/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1975-312053), de 25 de Setembro.
+
+###### Art. 21.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
+
+**Promulgado em 30 de Dezembro de 1983.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 3 de Janeiro de 1984.**
+
+**O Primeiro-Ministro, Mário Soares.**

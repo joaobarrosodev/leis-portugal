@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:288213:por
+title: Portaria n.º 493/2002
+short_title: null
+summary: Fixa uma remuneração de (euro) 100 por cada imóvel ou conjunto de bens móveis a avaliar nos termos do n.º 18 do artigo
+  201.º do Código de Procedimento e de Processo Tributário (CPPT)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 493/2002
+official_date: null
+publication_date: '2002-04-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/2002, Série I-B de 2002-04-27
+  number: '98'
+  series: I
+  supplement: null
+  pages: 4093 - 4093
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/04/098b00/40934093.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/493/2002/04/27/p/dre/pt/html
+  oj: null
+  dre: '288213'
+  dre_path: /dr/detalhe/portaria/493-2002-288213
+  internal: pt:dre:288213:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-2002-288213
+  metadata_url: https://data.dre.pt/eli/port/493/2002/04/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-2002-288213
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-04-27T00:00:00Z'
+integrity:
+  source_sha256: 75afacae28fb01147fe74ff65e7d5b872ab69e062063234e5121434f4fe2f0c3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-493-288213.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Avaliação de Prédios
+- Direcção Geral dos Impostos
+- Contribuições e Impostos
+- Prédio Rústico
+- Receita
+- Remuneração
+- Prédio Urbano
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 493/2002
+
+de 27 de Abril
+
+O artigo 201.º, n.º 18, do Código de Procedimento e de Processo Tributário prevê que as despesas de avaliação, compreendendo os salários e abonos de transporte, da comissão de avaliação constituída nos termos do n.º 3 da referida norma, sejam fixadas por portaria do Ministro das Finanças.
+
+Assim:
+
+Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no n.º 18 do artigo 201.º do Código de Procedimento e de Processo Tributário (CPPT), o seguinte:
+
+1.º Por cada imóvel ou conjunto de bens móveis a avaliar é fixada uma remuneração de (euro) 100.
+
+2.º Ao valor referido no número anterior acresce, no caso de prédios urbanos, a importância de (euro) 0,05 por metro quadrado de área de construção superior a 200 m2 e inferior a 5000 m2 e ainda a importância de (euro) 0,02 por metro quadrado na parte excedente a 5000 m2 de área de construção.
+
+3.º Ao valor referido no n.º 1, no caso dos prédios rústicos, acresce a importância de (euro) 1 por cada hectare nos prédios de área inferior a 500 ha e ainda a importância de (euro) 0,50 por hectare na parte excedente a 500 ha de área.
+
+4.º As remunerações previstas nos números anteriores são distribuídas igualitariamente pelos membros da comissão de avaliação.
+
+5.º Sem prejuízo do disposto no número anterior, os membros que integram a comissão têm ainda direito aos abonos das despesas com transportes, nos mesmos termos dos membros das comissões permanentes de avaliação, previstas no artigo 8.º do [Decreto-Lei n.º 442-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-c-1988-519024), de 30 de Novembro.
+
+6.º A remuneração atribuída ao presidente da comissão de avaliação, nos termos dos n.os 1, 2, 3 e 4, constitui receita da Direcção-Geral dos Impostos.
+
+7.º O disposto na presente portaria aplica-se aos processos instaurados após a sua publicação, bem como aos pendentes relativamente aos quais não tenham ocorrido ainda operações materiais de avaliação.
+
+**O Ministro das Finanças, Guilherme d'Oliveira Martins, em 22 de Março de 2002.**

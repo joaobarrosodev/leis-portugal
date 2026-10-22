@@ -1,0 +1,188 @@
+---
+schema_version: '1.0'
+id: pt:dre:409556:por
+title: Portaria n.º 608/76
+short_title: null
+summary: Determina normas sobre o pessoal a contratar nos termos previstos no Decreto-Lei n.º 66/76, de 24 de Janeiro, para
+  reforçar os meios humanos dos serviços da Direcção-Geral das Contribuições e Impostos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Administração Interna e das Finanças
+proposing_entity: null
+official_number: 608/76
+official_date: null
+publication_date: '1976-10-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 242/1976, Série I de 1976-10-15
+  number: '242'
+  series: I
+  supplement: null
+  pages: 2343 - 2344
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24200/23432344.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '409556'
+  dre_path: /dr/detalhe/portaria/608-1976-409556
+  internal: pt:dre:409556:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/608-1976-409556
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/608-1976-409556
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-01-24T00:00:00Z'
+integrity:
+  source_sha256: 026851e5db8a43a45ea48c691fe512b59370d94525268318d22510e6792f0787
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-608-409556.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:390022:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 608/76
+
+de 15 de Outubro
+
+Tendo em vista reforçar os meios humanos dos serviços tributários, de acordo com as suas necessidades conjunturais, o [Decreto-Lei n.º 66/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1976-506823), de 24 de Janeiro, permite que o Ministro das Finanças contrate pessoal para o efeito, depois de esgotadas as possibilidades de recurso ao quadro geral de adidos.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna e das Finanças, o seguinte:
+
+1. O pessoal a contratar nos termos previstos no [Decreto-Lei n.º 66/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1976-506823), de 24 de Janeiro, destina-se a reforçar os meios humanos dos serviços da Direcção-Geral das Contribuições e Impostos, de acordo com as suas necessidades conjunturais.
+
+2. O pessoal referido no número anterior obriga-se a exercer as funções que lhe forem cometidas e fica sujeito ao regime legal e disciplinar dos trabalhadores da Direcção-Geral das Contribuições e Impostos, excepto no que for incompatível com a natureza da sua situação contratual.
+
+3. O início de funções do pessoal contratado não será precedido de acto de posse e verificar-se-á a partir da data de apresentação nos serviços para que for destinado ou do início dos cursos a que se refere o n.º 18.
+
+4. O pessoal destinado aos serviços centrais desempenhará as funções que lhe forem distribuídas pelo director-geral, devendo possuir as seguintes qualificações:
+
+a) Licenciatura em Direito;
+
+b) Licenciatura em Engenharia Civil;
+
+c) Curso de engenheiro técnico (especialidade de engenharia civil e electricidade).
+
+5. O pessoal destinado ao Serviço de Prevenção e Fiscalização Tributária desempenhará as funções que competem ao pessoal técnico deste Serviço, devendo possuir as seguintes qualificações:
+
+a) Licenciatura em Economia, Finanças ou Gestão de Empresas em cujo plano de curso esteja incluído o ensino de contabilidade;
+
+b) Curso de contabilista dos institutos comerciais ou de Contabilidade dos institutos superiores de contabilidade e administração;
+
+c) Ex-funcionários do Serviço de Prevenção e Fiscalização Tributária com a categoria de técnico verificador.
+
+6. O pessoal destinado às repartições de finanças desempenhará as funções que lhe forem distribuídas pelos respectivos chefes, tendo em vista as necessidades concretas dos serviços e, especialmente, o reforço da fiscalização, devendo possuir a habilitação mínima equivalente à exigida aos aspirantes de finanças.
+
+7. O pessoal necessário para cada localidade, e relativamente a cada tipo de qualificação, constará de um quadro a fixar nos serviços indicados no n.º 9, reduzido do que for possível recrutar mediante o recurso ao quadro geral de adidos, nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 66/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1976-506823), de 24 de Janeiro, ou aos indivíduos aprovados em concurso para técnico economista ou aspirante de finanças.
+
+8. Serão emitidos avisos e comunicações e publicados anúncios na imprensa, em termos de se assegurar uma ampla divulgação do regime de recrutamento previsto na presente portaria.
+
+9. As candidaturas far-se-ão mediante preenchimento e entrega de ficha de inscrição na Direcção de Serviço de Pessoal e Organização, nas direcções e repartições de finanças, podendo apenas ser apresentadas para duas localidades e relativamente a uma qualificação.
+
+10. A selecção dos candidatos será feita por comissões constituídas por um presidente e dois vogais a designar pelo Secretário de Estado do Orçamento.
+
+11. Os candidatos referidos no n.º 4 e nas alíneas a) e b) do n.º 5 serão submetidos a entrevistas de selecção, com excepção dos indivíduos aprovados em concurso para técnico economista.
+
+12. Os candidatos referidos na alínea c) do n.º 5 e no n.º 6 serão submetidos a testes escritos, com excepção dos indivíduos aprovados em concurso para ingresso na categoria de aspirante de finanças.
+
+13. Na selecção ter-se-ão em conta os conhecimentos dos candidatos e o seu curriculum, designadamente quanto à sua experiência profissional.
+
+14. Para cada localidade, e relativamente a cada tipo de qualificação exigida, os candidatos serão graduados segundo as classificações obtidas nas provas prestadas.
+
+15. Entre os candidatos à mesma localidade e ao mesmo tipo de qualificação terão preferência os indivíduos aprovados em concurso para ingresso na categoria de técnico economista ou de aspirante de finanças, pela ordem da lista correspondente.
+
+16. Os candidatos serão admitidos pela ordem das listas a organizar pelas comissões de selecção, nos termos dos n.os 10 a 13 desta portaria, sendo observada, em igualdade de situação, a seguinte ordem de preferência:
+
+a) Maiores habilitações;
+
+b) Experiência profissional mais adequada.
+
+17. As listas a que se refere o número anterior serão afixadas nos serviços referidos no n.º 7, podendo os candidatos reclamar das mesmas no prazo de dez dias após a sua afixação, mediante exposição dirigida ao director-geral.
+
+18. Após a admissão, o pessoal contratado frequentará, em princípio, cursos intensivos organizados pela Direcção do Serviço de Pessoal e Organização, com o apoio do Serviço de Prevenção e Fiscalização Tributária e do Centro de Estudos Fiscais.
+
+19. Os cursos serão ministrados por funcionários da Direcção-Geral das Contribuições e Impostos a designar pelo Secretário de Estado do Orçamento.
+
+20. O período de duração dos cursos referidos nos n.os 18 e 19 é considerado um período experimental.
+
+21. Ao pessoal contratado ao abrigo da presente portaria são atribuídas as seguintes remunerações:
+
+a) Licenciados em Direito, Engenharia Civil, Economia, Finanças ou Gestão de Empresas ... 10200$00
+
+b) Diplomados com o curso de engenheiro técnico ... 8000$00
+
+c) Indivíduos com as qualificações referidas nas alíneas b) e c) do n.º 5 ... 7000$00
+
+d) Indivíduos com as qualificações referidas no n.º 6 ... 6400$00
+
+22. Às remunerações referidas no número anterior acrescem as equivalentes a um mês de subsídio de Natal e o subsídio de férias nas condições determinadas para o funcionalismo público em geral.
+
+23. O pessoal a que se refere a presente portaria terá direito a ajudas de custo, caminhos e transportes, nas mesmas condições que vigoram para o pessoal dos quadros aprovados.
+
+24. Dos contratos constarão obrigatoriamente:
+
+a) O prazo;
+
+b) A remuneração;
+
+c) O serviço onde serão exercidas as funções;
+
+d) As condições de rescisão do contrato.
+
+25. O contrato poderá ser rescindido por qualquer das partes, a todo o tempo, por justa causa ou mediante aviso prévio de trinta dias ou, durante o período experimental previsto no n.º 20, sem necessidade de aviso prévio ou de alegação de justa causa.
+
+26. O pessoal contratado nos termos da presente portaria será distribuído, em princípio, de acordo com as respectivas pretensões manifestadas nas fichas de inscrição, sem prejuízo de poder ser deslocado sempre que as necessidades de serviço o justifiquem.
+
+27. O pessoal a que se refere o número anterior terá, em igualdade de circunstâncias, preferência sobre quaisquer outros indivíduos, exceptuados os funcionários dos quadros de pessoal da Direcção-Geral das Contribuições e Impostos, no preenchimento das vagas actualmente existentes ou que, eventualmente, venham a verificar-se nos referidos quadros.
+
+28. No caso de o pessoal referido na presente portaria ingressar em lugares dos quadros equivalentes aos que vinha desempenhando como contratado e desde que o provimento se faça sem interrupções de exercício superiores a sessenta dias, será prestado para todos os efeitos o tempo de serviço prestado nos termos previstos no artigo 1.º do [Decreto-Lei n.º 66/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1976-506823), de 24 de Janeiro.
+
+29. As dúvidas surgidas com a aplicação da presente portaria serão esclarecidas por despacho conjunto dos Secretários de Estado da Administração Pública e do Orçamento.
+
+Ministérios da Administração Interna e das Finanças, 4 de Outubro de 1976. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira.

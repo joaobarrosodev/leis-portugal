@@ -1,0 +1,291 @@
+---
+schema_version: '1.0'
+id: pt:dre:494006:por
+title: Decreto-Lei n.º 181/2009
+short_title: null
+summary: Primeira alteração ao Decreto-Lei n.º 316/2007, de 19 de Setembro, que procedeu à quinta alteração ao Decreto-Lei
+  n.º 380/99, de 22 de Setembro, que estabelece o regime jurídico dos instrumentos de gestão territorial
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 181/2009
+official_date: null
+publication_date: '2009-08-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/2009, Série I de 2009-08-07
+  number: '152'
+  series: I
+  supplement: null
+  pages: 5139 - 5140
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15200/0513905140.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/181/2009/08/07/p/dre/pt/html
+  oj: null
+  dre: '494006'
+  dre_path: /dr/detalhe/decreto-lei/181-2009-494006
+  internal: pt:dre:494006:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2009-494006
+  metadata_url: https://data.dre.pt/eli/dec-lei/181/2009/08/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2009-494006
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-12-18T00:00:00Z'
+integrity:
+  source_sha256: 57453bdf01b6c4d469a463620cc310ca2f954bd65894422503417422c8a03d73
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-181-494006.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Acompanhamento
+- Ordenamento do Território
+- Comissão Mista de Coordenação
+- Plano Director Municipal
+- Desenvolvimento Regional
+- Planeamento Urbano
+- Publicitação
+- Política de Solos
+- Plano de Pormenor
+- Plano de Urbanização
+- Plano Regional
+- Urbanismo
+- Madeira.região Autónoma
+- Plano Regional de Ordenamento do Território
+- Regime Jurídico
+- Açores
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:189940:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/316/2007/09/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/316/2007/09/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/46/2009/02/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/46/2009/02/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declrectif/104/2007/11/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/declrectif/104/2007/11/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/26/2006/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/26/2006/06/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/42/2007/08/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/42/2007/08/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 181/2009
+
+de 7 de Agosto
+
+O [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, procedeu à quinta alteração ao [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, que estabelece o regime jurídico dos instrumentos de gestão territorial.
+
+No entanto, foi detectado que o [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, foi publicado com algumas inexactidões, o que originou a necessidade da sua rectificação, ao abrigo do artigo 5.º, n.os 1 e 2, da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), de 11 de Novembro, alterada pela [Lei n.º 26/2006](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), de 30 de Junho, e pela [Lei n.º 42/2007](https://diariodarepublica.pt/dr/detalhe/lei/42-2007-640909), de 24 de Agosto, através da [Declaração de Rectificação n.º 104/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-2007-629446), de 2 de Novembro, publicada no Diário da República, 1.ª série, n.º 213, de 6 de Novembro de 2007.
+
+Sucede, porém, que alguns aspectos da referida declaração de rectificação têm vindo a suscitar dúvidas interpretativas susceptíveis de originar insegurança jurídica. Estas dúvidas não foram ultrapassadas pela publicação do [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro, que procedeu à sexta alteração ao [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, que estabelece o regime jurídico dos instrumentos de gestão territorial, republicando-o em anexo.
+
+Deste modo, e procurando eliminar quaisquer focos de dúvida jurídica quanto à redacção dos preceitos efectivamente em vigor, visa-se contribuir com o presente decreto-lei para a correcta aplicação das normas legais constantes do regime jurídico dos instrumentos de gestão territorial. Decide agora o Governo, sob a forma de alteração legislativa, estabelecer a redacção definitiva dos preceitos então objecto da [Declaração de Rectificação n.º 104/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-2007-629446), de 2 de Novembro. Na medida em que se trata de uma intervenção legislativa com o carácter descrito, ao presente decreto-lei é conferida a necessária eficácia retroactiva à data da entrada em vigor do [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro.
+
+Tendo em conta o presente decreto-lei, o regime jurídico dos instrumentos de gestão territorial em vigor é o que consta da republicação anexa ao [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 48/98](https://diariodarepublica.pt/dr/detalhe/lei/48-1998-438067), de 11 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro
+
+A redacção conferida pelos artigos 2.º e 3.º do [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, aos artigos 75.º-B, 77.º, 85.º, 107.º, 148.º e 155.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, passa a ser a seguinte:
+
+«Artigo 75.º-B
+
+[...]
+
+1 - ...
+
+2 - A posição manifestada pelos representantes dos serviços e entidades da administração directa ou indirecta do Estado e das Regiões Autónomas no parecer previsto no n.º 4 do artigo anterior substitui os pareceres que aqueles serviços e entidades devessem emitir, a qualquer título, sobre o plano, nos termos legais e regulamentares.
+
+3 - ...
+
+###### Artigo 77.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - Concluído o período de acompanhamento e, quando for o caso, decorrido o período adicional de concertação, a câmara municipal procede à abertura de um período de discussão pública, através de aviso a publicar no Diário da República e a divulgar através da comunicação social e da respectiva página da Internet, do qual consta a indicação do período de discussão, das eventuais sessões públicas a que haja lugar e dos locais onde se encontra disponível a proposta, o respectivo relatório ambiental, o parecer da comissão de acompanhamento ou a acta da conferência de serviços, os demais pareceres eventualmente emitidos, os resultados da concertação, bem como da forma como os interessados podem apresentar as suas reclamações, observações ou sugestões.
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+###### Artigo 85.º — [...]
+
+1 - ...
+
+2 - Não obstante a existência dos índices, parâmetros e indicadores de natureza supletiva a que alude a alínea j) do número anterior, são directamente aplicáveis às operações urbanísticas a realizar em zona urbana consolidada, como tal identificada no plano, os índices, parâmetros e indicadores de referência para elaboração de plano de urbanização ou de plano de pormenor, nas seguintes condições:
+
+a) ...
+
+b) ...
+
+###### Artigo 107.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+a) ...
+
+b) Obras de construção civil, ampliação, alteração e reconstrução, com excepção das que estejam isentas de procedimento de licenciamento ou comunicação prévia;
+
+c) ...
+
+d) ...
+
+e) ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+###### Artigo 148.º — [...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c)...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) A resolução do Conselho de Ministros que ratifica a suspensão do plano municipal de ordenamento do território, incluindo o respectivo texto das medidas preventivas e a planta de delimitação.
+
+3 - ...
+
+4 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) A deliberação municipal que aprova o plano municipal de ordenamento do território não sujeito a ratificação, incluindo o regulamento, a planta de ordenamento, de zonamento ou de implantação e a planta de condicionantes;
+
+e) ...
+
+f) ...»
+
+###### Artigo 2.º — Produção de efeitos
+
+1 - O presente decreto-lei produz os seus efeitos desde a data da entrada em vigor do [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro.
+
+2 - As alterações feitas pelo artigo 1.º à redacção dada pelo artigo 2.º do [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, à alínea b) do n.º 4 do artigo 107.º e à alínea j) do n.º 2 do artigo 148.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, produzem efeitos desde a entrada em vigor do [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, e até à entrada em vigor do [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro.
+
+Visto e aprovado em Conselho de Ministros de 1 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva - José António de Melo Pinto Ribeiro.
+
+**Promulgado em 29 de Julho de 2009.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 30 de Julho de 2009.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

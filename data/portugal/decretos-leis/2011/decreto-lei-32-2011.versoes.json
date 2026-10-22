@@ -1,0 +1,406 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:279423:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-137924859",
+ "dre_path": "/dr/detalhe/decreto-lei/32-2011-279423",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-03-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "137938103",
+    "137938104",
+    "137938105",
+    "137938106",
+    "137938107",
+    "137938108",
+    "137938109",
+    "137938110",
+    "137938111",
+    "137938112",
+    "137938113",
+    "137938114",
+    "137938115",
+    "137938116",
+    "137938117",
+    "137938118",
+    "137938119",
+    "137938120",
+    "137938121",
+    "137938122",
+    "137938123",
+    "137938124",
+    "137938125",
+    "137938126",
+    "137938127",
+    "137938128",
+    "137938129",
+    "137938130",
+    "137938131",
+    "137938132",
+    "137938133",
+    "137938134",
+    "137938135",
+    "137938136"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "137938103",
+    "137938104",
+    "137938105",
+    "137938106",
+    "137938107",
+    "137938108",
+    "137938109",
+    "137938110",
+    "137938111",
+    "137938112",
+    "137938113",
+    "137938114",
+    "137938115",
+    "137938116",
+    "137938117",
+    "137938118",
+    "137938119",
+    "137938120",
+    "137938121",
+    "137938122",
+    "137938123",
+    "137938124",
+    "137938125",
+    "137938126",
+    "137938127",
+    "137938128",
+    "157115238",
+    "157115239",
+    "137938131",
+    "137938132",
+    "137938133",
+    "137938134",
+    "137938135",
+    "137938136",
+    "137938137"
+   ]
+  }
+ ],
+ "fragments": {
+  "137938103": {
+   "fragment_id": "137924860",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 32/2011\n\nde 7 de Março\n\nO novo quadro legal sobre o acesso e exercício da actividade de organização de campos de férias adopta medidas que agilizam e simplificam o processo de exercício da actividade e a realização dos referidos campos, diminuindo todo o tipo de constrangimentos até agora existentes em torno do licenciamento das instalações destinadas à sua realização.\n\nAs alterações introduzidas visam, assim, um procedimento menos burocrático, desde logo quanto ao conceito de «instalações» ou «campo de férias», quanto ao regime de certificação dos coordenadores e monitores dos campos de férias e à adopção de medidas rigorosas de segurança, saúde e higiene.\n\nEm primeiro lugar, adopta-se a comunicação prévia com prazo como procedimento necessário para o exercício da actividade de organização de campos de férias, bem como a utilização dos meios informáticos na sua apresentação, com regime simplificado que prevê a identificação fiscal da entidade, bem como um exemplar do regulamento interno e do projecto pedagógico, assim como a identificação de pelo menos um coordenador responsável pelo funcionamento do campo de férias.\n\nEm segundo lugar, consideram-se «instalações» as estruturas, com ou sem carácter permanente, destinadas ao alojamento e pernoita dos participantes, bem como todos os espaços onde se desenvolvem as actividades associadas aos programas, incluindo os espaços ao ar livre. Abandona-se, assim, o conceito tradicionalmente ligado à estrutura edificada em alvenaria, alargando-se a qualquer espaço capaz de compreender actividades promovidas nos campos de férias.\n\nEm terceiro lugar, retiram-se do conceito de campos de férias as actividades de tempos livres que, independentemente do horário escolar em que se efectuam, se encontrem integradas no período lectivo e horário escolar.\n\nEm quarto lugar, estabelece-se também a obrigação de se informar o Instituto Português da Juventude, I. P., sobre qualquer alteração à realização dos campos de férias, bem como um regime de validação e certificação do pessoal técnico, a fixar em regulamento próprio, o qual passará por acções de formação e preparação técnica do mesmo.\n\nPor fim, este decreto-lei está também em conformidade com o disposto na Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativa aos serviços no mercado interno, que estabeleceu os princípios e os critérios que devem ser observados pelos regimes de acesso e de exercício de actividades de serviços na União Europeia, transposta para a ordem jurídica interna pelo Decreto-Lei n.º 92/2010, de 26 de Julho.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "137938104": {
+   "fragment_id": "137924861",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "137938105": {
+   "fragment_id": "137924862",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei estabelece o regime jurídico de acesso e de exercício da actividade de organização de campos de férias.\n\n2 - Para efeitos do presente decreto-lei, entende-se por:\n\na) «Campos de férias», as iniciativas destinadas exclusivamente a grupos de crianças e jovens, com idades compreendidas entre os 6 e os 18 anos, cuja finalidade compreenda a realização, durante um período de tempo determinado, de um programa organizado de carácter educativo, cultural, desportivo ou meramente recreativo;\n\nb) «Entidade organizadora», uma pessoa singular ou colectiva, de natureza pública ou privada, com ou sem fins lucrativos, dotada de pessoal técnico devidamente habilitado, que promova a organização das actividades referidas na alínea anterior.\n\n3 - O presente decreto-lei visa ainda conformar o presente regime com o Decreto-Lei n.º 92/2010, de 26 de Julho, que transpôs para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Dezembro, relativa aos serviços no mercado interno, a qual estabelece os princípios e as regras necessárias para simplificar o livre acesso e exercício das actividades de serviços."
+  },
+  "137938106": {
+   "fragment_id": "137924863",
+   "type": 11,
+   "heading": "Artigo 2.º — Exclusão do âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Exclusão do âmbito\n\n1 - Excluem-se do âmbito de aplicação do presente decreto-lei:\n\na) As actividades que se inserem no desenvolvimento da acção escolar, organizadas pelas escolas e pelas direcções regionais de educação, incluindo as actividades de tempos livres que, independentemente do momento em que se efectuam, se encontrem integradas no período lectivo e no horário escolar;\n\nb) As actividades de competição desportiva organizadas pelos clubes, associações e federações das respectivas modalidades;\n\nc) As iniciativas previstas na alínea a) do n.º 2 do artigo anterior, sempre que incluídas num programa com duração inferior a cinco dias consecutivos ou a cinco horas por dia.\n\n2 - Não se consideram abrangidas pela alínea a) do n.º 2 do artigo anterior as actividades das associações escutistas e guidistas desenvolvidas para os seus membros ou para membros de outras associações escutistas e guidistas, salvo quando organizem actividades que expressamente se enquadrem no exercício da actividade de organização de campos de férias."
+  },
+  "137938107": {
+   "fragment_id": "137924864",
+   "type": 1,
+   "heading": "Capítulo II — Comunicação prévia e registo, taxa e base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Comunicação prévia e registo, taxa e base de dados"
+  },
+  "137938108": {
+   "fragment_id": "137924865",
+   "type": 11,
+   "heading": "Artigo 3.º — Exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exercício da actividade\n\n1 - O exercício da actividade de organização de campos de férias depende de comunicação prévia, com prazo, ao Instituto Português da Juventude, I. P. (IPJ, I. P.), nos termos do disposto na alínea a) do n.º 2 do artigo 8.º do Decreto-Lei n.º 92/2010, de 26 de Julho.\n\n2 - Após a recepção da comunicação prévia, o IPJ, I. P., atribui ao interessado um número de registo."
+  },
+  "137938109": {
+   "fragment_id": "137924866",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigação de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigação de identificação\n\n1 - As entidades organizadoras ficam obrigadas à sua clara identificação, com indicação da denominação e número de registo, em todos os locais de atendimento de que disponham.\n\n2 - Independentemente do previsto no número anterior, o número de registo das entidades organizadoras deve constar em todos os actos por estas praticados no âmbito da promoção e organização dos campos de férias."
+  },
+  "137938110": {
+   "fragment_id": "137924867",
+   "type": 11,
+   "heading": "Artigo 5.º — Comunicação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comunicação prévia\n\n1 - A comunicação prévia é efectuada em formulário electrónico dirigido ao presidente do IPJ, I. P., disponibilizado no Portal da Juventude e no balcão único dos serviços acessível através do Portal da Empresa.\n\n2 - Da comunicação prévia devem constar os seguintes elementos:\n\na) Número de identificação fiscal da pessoa singular ou da pessoa colectiva;\n\nb) O regulamento interno de funcionamento e o projecto pedagógico e de animação;\n\nc) Declaração que identifique pelo menos um coordenador, responsável pelo funcionamento dos campos de férias.\n\n3 - Cabe ao IPJ, I. P., proferir uma decisão sobre a comunicação prévia formulada pela entidade organizadora, no prazo de 10 dias.\n\n4 - Decorrido o prazo previsto no número anterior sem que tenha sido proferida a decisão prevista no número anterior, a actividade pode iniciar-se.\n\n5 - Qualquer alteração referente aos elementos indicados no n.º 2 deve ser comunicada ao IPJ, I. P., no prazo máximo de 10 dias, sob pena de caducidade da comunicação prévia e do registo.\n\n6 - O registo tem validade indeterminada, sem prejuízo da sua caducidade, alteração ou revogação."
+  },
+  "137938111": {
+   "fragment_id": "137924868",
+   "type": 11,
+   "heading": "Artigo 6.º — Taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Taxa\n\n1 - O montante da taxa devida pela comunicação prévia é fixado pelo presidente do IPJ, I. P.\n\n2 - As entidades privadas sem fins lucrativos inscritas no Registo Nacional de Associações Juvenis, bem como as autarquias locais ficam isentas da taxa prevista no número anterior."
+  },
+  "137938112": {
+   "fragment_id": "137924869",
+   "type": 11,
+   "heading": "Artigo 7.º — Base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Base de dados\n\n1 - O IPJ, I. P., deve organizar e manter actualizada uma base de dados das entidades habilitadas para a organização de campos de férias, de acesso disponível ao público no Portal da Juventude.\n\n2 - Na base de dados devem constar os seguintes elementos:\n\na) A identificação das entidades, número de identificação fiscal e respectivo domicílio, devendo, no caso de se tratar de pessoa colectiva, constar a firma ou denominação social, a sede social e o objecto social;\n\nb) O número de registo atribuído à entidade que promove e organiza os campos de férias.\n\n3 - Devem, ainda, ser inscritos na base de dados os seguintes elementos:\n\na) A alteração de qualquer dos elementos integrantes no pedido da comunicação prévia;\n\nb) Os relatórios das inspecções e vistorias;\n\nc) As reclamações apresentadas;\n\nd) As sanções aplicadas;\n\ne) Informações que confirmem a abertura do campo e o início das actividades."
+  },
+  "137938113": {
+   "fragment_id": "137924870",
+   "type": 1,
+   "heading": "Capítulo III — Tipologia dos campos de férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Tipologia dos campos de férias"
+  },
+  "137938114": {
+   "fragment_id": "137924871",
+   "type": 11,
+   "heading": "Artigo 8.º — Classificação dos campos de férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Classificação dos campos de férias\n\nOs campos de férias classificam-se de acordo com as seguintes categorias:\n\na) Residenciais, nos casos em que a sua realização implique o alojamento;\n\nb) Não residenciais, nos restantes casos."
+  },
+  "137938115": {
+   "fragment_id": "137924872",
+   "type": 11,
+   "heading": "Artigo 9.º — Acompanhamento dos participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acompanhamento dos participantes\n\nOs participantes dos campos de férias são permanentemente acompanhados pelo pessoal técnico."
+  },
+  "137938116": {
+   "fragment_id": "137924873",
+   "type": 11,
+   "heading": "Artigo 10.º — Alimentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alimentação\n\nAs entidades organizadoras devem disponibilizar aos participantes uma alimentação variada em qualidade e quantidade adequadas à idade dos participantes e à natureza e duração das actividades, devendo, para os campos de férias residenciais, ser repartida em, pelo menos, quatro refeições por dia."
+  },
+  "137938117": {
+   "fragment_id": "137924874",
+   "type": 1,
+   "heading": "Capítulo IV — Organização e exercício da actividade de campos de férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Organização e exercício da actividade de campos de férias"
+  },
+  "137938118": {
+   "fragment_id": "137939375",
+   "type": 11,
+   "heading": "Artigo 11.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Instalações\n\n1 - São instalações as estruturas, com ou sem carácter permanente, destinadas ao alojamento e pernoita dos participantes, bem como todos os espaços onde se desenvolvam as actividades associadas aos programas referidos na alínea a) do n.º 2 do artigo 1.º, incluindo os espaços ao ar livre.\n\n2 - As instalações destinadas especificamente a permitir o alojamento e pernoita dos participantes em campo de férias residenciais, bem como aquelas criadas para a realização de actividades de campos de férias não residenciais, estão sujeitas ao procedimento de controlo prévio previsto no regime jurídico da urbanização e edificação, devendo, ainda, ser acautelados os requisitos previstos em portaria conjunta a emitir pelos membros do Governo responsáveis pelas áreas da juventude, da defesa do consumidor e da reabilitação.\n\n3 - As instalações que se destinam a outros fins podem ser utilizadas para a realização de actividades de campos de férias no âmbito da área objecto do procedimento de controlo prévio.\n\n4 - Nas instalações previstas no número anterior podem realizar-se actividades de campos de férias que não se encontrem compreendidas nas áreas objecto do procedimento de controlo prévio, desde que aquelas instalações e equipamentos sejam previamente sujeitos a vistoria de segurança e higiene por entidade pública ou privada legalmente certificada para o exercício da actividade de inspecção de segurança, higiene e saúde.\n\n5 - As instalações e equipamentos quando destinados ao alojamento e pernoita dos participantes em campos de férias devem ser previamente sujeitos a vistoria de segurança e higiene por entidade pública ou privada legalmente certificada para o exercício da actividade de inspecção de segurança, higiene e saúde.\n\n6 - As edificações destinadas ao funcionamento de serviços públicos ou afectos ao uso directo e imediato do público que estão isentas de procedimento de controlo prévio, nos termos da lei, podem ser utilizadas para a realização de campos de férias.\n\n7 - Quando existam dúvidas sobre a existência de condições de segurança e higiene em qualquer instalação destinada à realização de campos de férias, o IPJ, I. P., pode solicitar à entidade organizadora a realização de vistoria de segurança e higiene por entidade competente para o efeito.\n\n8 - Apenas se podem realizar actividades de campos férias em praias devidamente concessionadas ou em condições de segurança garantida por uma pessoa colectiva de direito público.\n\n9 - A vistoria referida nos n.os 4 e 5 deve ser realizada no período máximo de 12 meses, e mínimo de 30 dias, antes da abertura do campo de férias e realização das actividades."
+  },
+  "137938119": {
+   "fragment_id": "137939376",
+   "type": 11,
+   "heading": "Artigo 12.º — Comunicação e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comunicação e informação\n\n1 - As entidades organizadoras devem comunicar ao IPJ, I. P., e este à Autoridade de Segurança Alimentar e Económica (ASAE) a abertura de cada campo de férias com a antecedência mínima de 20 dias úteis relativamente ao início das respectivas actividades.\n\n2 - Da comunicação referida no número anterior devem constar os seguintes elementos:\n\na) Cronograma descritivo das actividades de cada campo de férias;\n\nb) Identificação do pessoal técnico;\n\nc) Número mínimo e máximo de participantes;\n\nd) Limite mínimo e máximo de idades dos participantes;\n\ne) Preço da inscrição;\n\nf) Identificação das instalações previstas no artigo 11.º;\n\ng) Auto de vistoria para o efeito do cumprimento do disposto no artigo 11.º\n\n3 - Devem ser informadas as entidades policiais, os delegados de saúde e os corpos de bombeiros da área onde se realizam os campos de férias com uma antecedência mínima de 48 horas antes do início das respectivas actividades, bem como uma indicação clara da respectiva localização e calendarização.\n\n4 - Durante todo o período em que decorre o campo de férias devem as entidades organizadoras instruir e manter disponível um ficheiro actualizado no qual constem os seguintes documentos:\n\na) Cronograma de actividades;\n\nb) Projecto pedagógico e de animação;\n\nc) Regulamento interno;\n\nd) Lista identificativa dos participantes e respectiva idade;\n\ne) Contactos e declaração de autorização dos pais ou representantes legais dos jovens menores;\n\nf) Apólices dos seguros obrigatórios;\n\ng) Contactos dos centros de saúde, hospitais, autoridades policiais e corporações de bombeiros mais próximos dos locais onde se realizem as actividades;\n\nh) Ficha sanitária individual;\n\ni) Identificação do pessoal técnico, documentos comprovativos das respectivas qualificações e declaração que confirme a aptidão física e psíquica para o desempenho das funções, nos termos do n.º 1 do artigo 1.º do Decreto-Lei n.º 242/2009, de 16 de Setembro;\n\nj) Autos de vistoria previstos no artigo 11.º\n\n5 - Sempre que as informações previstas no n.º 2 do presente artigo não se encontrem devidamente prestadas deve o IPJ, I. P., solicitar a sua correcção à respectiva entidade organizadora, no prazo máximo de cinco dias, disso dando conhecimento à ASAE."
+  },
+  "137938120": {
+   "fragment_id": "137939377",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamento interno e projecto pedagógico e de animação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamento interno e projecto pedagógico e de animação\n\n1 - As entidades organizadoras devem elaborar um regulamento interno de funcionamento que defina claramente os direitos, deveres e regras a observar por todos os elementos que integram o campo de férias e suas actividades.\n\n2 - As entidades organizadoras devem, ainda, elaborar um projecto pedagógico e de animação, no qual:\n\na) Expressam os princípios, valores, objectivos e estratégias educativas e pedagógicas;\n\nb) Descrevem a metodologia da avaliação a efectuar em cada campo de férias;\n\nc) Indicam as acções previstas, e a ponderar, em relação à selecção, recrutamento e formação complementar do pessoal técnico."
+  },
+  "137938121": {
+   "fragment_id": "137939378",
+   "type": 11,
+   "heading": "Artigo 14.º — Pessoal técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pessoal técnico\n\n1 - A realização de um campo de férias deve compreender, por razões imperiosas de interesse público relacionadas com a segurança dos participantes, no mínimo, o seguinte pessoal técnico:\n\na) Um coordenador;\n\nb) Um ou mais monitores, em quantidade a determinar consoante o número e a idade dos participantes bem como a natureza das actividades desenvolvidas.\n\n2 - O pessoal técnico referido no número anterior deve estar devidamente preparado e habilitado para o exercício das funções a desempenhar.\n\n3 - Os requisitos e a certificação do pessoal técnico são definidos em portaria dos membros do Governo responsáveis pelas áreas da juventude e do emprego e formação profissional."
+  },
+  "137938122": {
+   "fragment_id": "137939379",
+   "type": 11,
+   "heading": "Artigo 15.º — Coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Coordenador\n\n1 - O coordenador é o responsável pelo funcionamento do campo de férias, cabendo-lhe a superintendência técnica, pedagógica e administrativa das actividades do campo.\n\n2 - São deveres do coordenador, nomadamente, os seguintes:\n\na) Elaborar o cronograma das actividades do campo de férias e acompanhar a sua execução;\n\nb) Coordenar a acção do corpo técnico;\n\nc) Assegurar a realização do campo de férias no estrito cumprimento do disposto no presente diploma e da legislação aplicável, bem como do respectivo regulamento interno e conforme o projecto pedagógico e de animação;\n\nd) Zelar pela prudente utilização dos equipamentos e pela boa conservação das instalações;\n\ne) Manter permanentemente disponível e garantir o acesso da ASAE à informação referida no n.º 1 do artigo 17.º;\n\nf) Garantir o cumprimento das normas de saúde, higiene e segurança."
+  },
+  "137938123": {
+   "fragment_id": "137939380",
+   "type": 11,
+   "heading": "Artigo 16.º — Monitores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Monitores\n\n1 - Compete aos monitores acompanhar os participantes durante a execução das actividades do campo de férias, de acordo com o previsto no cronograma de actividades.\n\n2 - Durante o período em que decorrem as actividades do campo de férias por razões imperiosas de interesse público relacionadas com a segurança dos participantes é obrigatória, no mínimo, a presença de:\n\na) Um monitor para cada seis participantes nos casos em que a idade destes seja inferior a 10 anos;\n\nb) Um monitor para cada 10 participantes nos casos em que a idade destes esteja compreendida entre os 10 anos e os 18 anos.\n\n3 - Durante o período de repouso no campos de férias é obrigatória a presença de:\n\na) Um monitor para cada 18 participantes nos casos em que a idade destes seja inferior a 10 anos;\n\nb) Um monitor para cada 25 participantes nos casos em que a idade destes esteja compreendida entre os 10 anos e os 18 anos.\n\n4 - Independentemente do disposto no número anterior, é obrigatória uma presença mínima de dois monitores durante o período de repouso.\n\n5 - O número mínimo de monitores aplicável ao transporte deve respeitar o estabelecido na legislação especial de transporte colectivo de crianças.\n\n6 - Constituem deveres dos monitores, designadamente, os seguintes:\n\na) Coadjuvar o coordenador na organização das actividades do campo de férias e executar as suas instruções;\n\nb) Acompanhar os participantes durante as actividades, prestando-lhes todo o apoio e auxílio de que necessitem;\n\nc) Cumprir e assegurar o cumprimento, pelos participantes, das normas de saúde, higiene e segurança;\n\nd) Verificar a adequação e as condições de conservação e de segurança dos materiais a utilizar pelos participantes, bem como zelar pela manutenção dessas condições."
+  },
+  "137938124": {
+   "fragment_id": "137939381",
+   "type": 11,
+   "heading": "Artigo 17.º — Direitos e deveres dos participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direitos e deveres dos participantes\n\n1 - No acto de inscrição dos participantes deve ser-lhes facultada, por escrito, informação detalhada acerca da organização do campo de férias.\n\n2 - A documentação referida no número anterior deve conter, designadamente:\n\na) A identificação da entidade organizadora e meios de contacto;\n\nb) O projecto pedagógico e de animação;\n\nc) O regulamento interno;\n\nd) O cronograma das actividades do campo de férias;\n\ne) O seguro;\n\nf) O local da realização do campo de férias;\n\ng) O número de registo da entidade.\n\n3 - Sempre que se verifiquem necessidades de alimentação específica ou cuidados especiais de saúde a observar devem os participantes, ou os seus representantes legais, no momento da inscrição, informar por escrito a entidade organizadora.\n\n4 - O tratamento da informação prestada nos termos do número anterior deve respeitar a legislação em vigor relativa à protecção dos dados pessoais.\n\n5 - Todos os participantes devem cumprir o disposto no regulamento interno, bem como as instruções que lhes sejam dadas pelo pessoal técnico."
+  },
+  "137938125": {
+   "fragment_id": "137939382",
+   "type": 11,
+   "heading": "Artigo 18.º — Seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Seguro\n\nAs entidades organizadoras devem celebrar um contrato de seguro que cubra acidentes pessoais dos participantes, com valor mínimo e âmbito de cobertura fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da juventude."
+  },
+  "137938126": {
+   "fragment_id": "137939383",
+   "type": 11,
+   "heading": "Artigo 19.º — Livro de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Livro de reclamações\n\n1 - As entidades organizadoras dos campos de férias são obrigadas a ter um livro de reclamações, nos termos da legislação em vigor.\n\n2 - O original da folha de reclamação deve ser enviado à ASAE, entidade competente para fiscalizar e instruir os processos de contra-ordenação previstos na legislação referida no número anterior."
+  },
+  "137938127": {
+   "fragment_id": "137939384",
+   "type": 1,
+   "heading": "Capítulo V — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime sancionatório"
+  },
+  "137938128": {
+   "fragment_id": "137939385",
+   "type": 11,
+   "heading": "Artigo 20.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Fiscalização\n\n1 - Sem prejuízo das competências especialmente atribuídas a outras entidades, compete à ASAE a fiscalização do cumprimento do presente decreto-lei.\n\n2 - A instrução dos processos por infracção ao disposto no presente decreto-lei compete à ASAE, a quem devem ser remetidos os autos de notícia quando levantados por outras entidades.\n\n3 - Sempre que, no exercício das funções fiscalizadoras referidas na presente norma, sejam identificadas situações susceptíveis de comprometer a saúde ou a segurança dos participantes deve a ASAE, de imediato, informar o IPJ, I. P., e demais entidades competentes, sem prejuízo do disposto no artigo 24.º"
+  },
+  "137938129": {
+   "fragment_id": "137939386",
+   "type": 11,
+   "heading": "Artigo 21.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contra-ordenações\n\n1 - Constituem contra-ordenação, punível com coima:\n\na) A inclusão em campos de férias de participantes cuja idade infrinja o disposto na alínea a) do n.º 2 do artigo 1.º;\n\nb) O incumprimento da obrigação de identificação, em infracção ao disposto no artigo 4.º;\n\nc) A realização de campos de férias por entidades que não se encontrem devidamente registadas, nos termos dos artigos 3.º e 5.º;\n\nd) A falta de comunicação ao IPJ, I. P., da alteração dos elementos referidos no n.º 2 do artigo 5.º, em infracção ao disposto no n.º 5 do artigo 5.º;\n\ne) A organização de campos de férias sem acompanhamento permanente dos participantes pelo pessoal técnico, devidamente preparado e habilitado, em infracção ao disposto nos artigos 9.º, 14.º e 16.º;\n\nf) A utilização de instalações em infracção ao disposto no n.º 2 do artigo 11.º;\n\ng) A utilização de instalações não licenciadas em infracção ao disposto no n.º 3 do artigo 11.º;\n\nh) A inexistência do auto de vistoria de segurança por entidade pública ou privada legalmente certificada para o exercício da actividade de inspecção de segurança, higiene e saúde, em infracção ao disposto no n.º 4 do artigo 11.º;\n\ni) A realização de actividades em praias, em infracção ao disposto no n.º 8 do artigo 11.º;\n\nj) A falta de comunicação ao IPJ, I. P., em infracção ao disposto no n.º 1 do artigo 12.º;\n\nl) A inexistência ou insuficiência de ficheiro actualizado, em infracção ao disposto no n.º 4 do artigo 12.º;\n\nm) A falta de correcção dos elementos referidos na notificação do IPJ, I. P., em infracção do disposto no n.º 5 do artigo 12.º;\n\nn) O incumprimento das obrigações de informação aos participantes, em infracção ao disposto no n.º 1 do artigo 17.º;\n\no) A inexistência de contrato de seguro válido, em infracção ao disposto no artigo 18.º;\n\np) A não realização de vistoria de segurança e higiene por infracção ao disposto no n.º 7 do artigo 11.º;\n\nq) A inexistência de vistoria de segurança por entidade pública ou privada legalmente certificada para o exercício da actividade de inspecção de segurança, higiene e saúde, em infracção ao disposto no n.º 5 do artigo 11.º\n\n2 - As contra-ordenações previstas na alíneas c), e), f), g), h), i), m) e q) do número anterior são punidas com as seguintes coimas:\n\na) De (euro) 1750 a (euro) 3740, quando cometidas por pessoas singulares;\n\nb) De (euro) 3740 a (euro) 25 000, quando cometidas por pessoas colectivas.\n\n3 - As contra-ordenações previstas nas alíneas a), j), l), o) e p) do n.º 1 são punidas com as seguintes coimas:\n\na) De (euro) 500 a (euro) 2500, quando cometidas por pessoas singulares;\n\nb) De (euro) 1000 a (euro) 5000, quando cometidas por pessoas colectivas.\n\n4 - As contra-ordenações previstas nas alíneas b), d) e n) do n.º 1 são punidas com as seguintes coimas:\n\na) De (euro) 100 a (euro) 500, quando cometidas por pessoas singulares;\n\nb) De (euro) 200 a (euro) 1000, quando cometidas por pessoas colectivas.\n\n5 - A tentativa e a negligência são puníveis, sendo os limites referidos nos números anteriores reduzidos para metade.\n\n6 - A aplicação das coimas e sanções acessórias compete à Comissão de Aplicação de Coimas em Matéria Económica e Publicidade (CAMEP)."
+  },
+  "137938130": {
+   "fragment_id": "137939387",
+   "type": 11,
+   "heading": "Artigo 22.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produto das coimas\n\nO produto da aplicação das coimas previstas no presente decreto-lei reverte em:\n\na) 60 % para o Estado;\n\nb) 20 % para a ASAE;\n\nc) 10 % para a CAMEP;\n\nd) 10 % para o IPJ, I. P."
+  },
+  "137938131": {
+   "fragment_id": "137939388",
+   "type": 11,
+   "heading": "Artigo 23.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Sanções acessórias\n\n1 - Em função da gravidade da infracção e da culpa do agente podem ser aplicadas as seguintes sanções acessórias:\n\na) Suspensão do registo;\n\nb) Interdição do exercício da actividade;\n\nc) Encerramento das instalações.\n\n2 - As sanções referidas no número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "137938132": {
+   "fragment_id": "137939389",
+   "type": 11,
+   "heading": "Artigo 24.º — Suspensão das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Suspensão das actividades\n\nSem prejuízo da aplicação das sanções previstas nos artigos anteriores, a realização de campos de férias em condições que possam colocar em risco a saúde ou a segurança dos participantes implica a suspensão imediata do seu funcionamento pelas respectivas autoridades competentes."
+  },
+  "137938133": {
+   "fragment_id": "137939390",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "137938134": {
+   "fragment_id": "137939391",
+   "type": 11,
+   "heading": "Artigo 25.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regulamentação\n\nAs portarias previstas no n.º 2 do artigo 11.º, no n.º 3 do 14.º e no artigo 18.º devem ser publicadas no prazo de 60 dias."
+  },
+  "137938135": {
+   "fragment_id": "137939392",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Norma transitória\n\nAté à publicação das portarias previstas no n.º 2 do artigo 11.º e no artigo 18.º, mantêm-se em vigor, respectivamente, a Portaria n.º 586/2004, de 2 de Junho, e a Portaria n.º 629/2004, de 12 de Junho."
+  },
+  "137938136": {
+   "fragment_id": "137939393",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nO presente decreto-lei revoga o Decreto-Lei n.º 304/2003, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 109/2005, de 8 de Julho, e pelo Decreto-Lei n.º 163/2009, de 22 de Julho."
+  },
+  "157115238": {
+   "fragment_id": "137939386",
+   "type": 11,
+   "heading": "Artigo 21.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 116.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 21.º — Contra-ordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) A realização de campos de férias por entidades que não se encontrem devidamente registadas, nos termos dos artigos 3.º e 5.º;\n\nd) (Revogada.)\n\ne) A organização de campos de férias sem acompanhamento permanente dos participantes pelo pessoal técnico, devidamente preparado e habilitado, em infracção ao disposto nos artigos 9.º, 14.º e 16.º;\n\nf) A utilização de instalações em infracção ao disposto no n.º 2 do artigo 11.º;\n\ng) A utilização de instalações não licenciadas em infracção ao disposto no n.º 3 do artigo 11.º;\n\nh) A inexistência do auto de vistoria de segurança por entidade pública ou privada legalmente certificada para o exercício da actividade de inspecção de segurança, higiene e saúde, em infracção ao disposto no n.º 4 do artigo 11.º;\n\ni) A realização de actividades em praias, em infracção ao disposto no n.º 8 do artigo 11.º;\n\nj) (Revogada.)\n\nl) (Revogada.)\n\nm) A falta de correcção dos elementos referidos na notificação do IPJ, I. P., em infracção do disposto no n.º 5 do artigo 12.º;\n\nn) (Revogada.)\n\no) (Revogada.)\n\np) (Revogada.)\n\nq) A inexistência de vistoria de segurança por entidade pública ou privada legalmente certificada para o exercício da actividade de inspecção de segurança, higiene e saúde, em infracção ao disposto no n.º 5 do artigo 11.º\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE:\n\na) A inclusão em campos de férias de participantes cuja idade infrinja o disposto na alínea a) do n.º 2 do artigo 1.º;\n\nb) A falta de comunicação ao IPDJ, I. P., em infração ao disposto no n.º 1 do artigo 12.º;\n\nc) A inexistência ou insuficiência de ficheiro atualizado, em infração ao disposto no n.º 4 do artigo 12.º;\n\nd) A inexistência de contrato de seguro válido, em infração ao disposto no artigo 18.º;\n\ne) A não realização de vistoria de segurança e higiene por infração ao disposto no n.º 7 do artigo 11.º\n\n3 - Constitui contraordenação económica leve, punível nos termos do RJCE:\n\na) O incumprimento da obrigação de identificação, em infração ao disposto no artigo 4.º;\n\nb) A falta de comunicação ao IPDJ, I. P., da alteração dos elementos referidos no n.º 2 do artigo 5.º, em infração ao disposto no n.º 5 do artigo 5.º;\n\nc) O incumprimento das obrigações de informação aos participantes, em infração ao disposto no n.º 1 do artigo 17.º\n\n4 - (Revogado.)\n\n5 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n6 - A aplicação das coimas e sanções acessórias previstas no presente artigo é da competência do inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 116.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157115239": {
+   "fragment_id": "137939387",
+   "type": 11,
+   "heading": "Artigo 22.º — Produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 116.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 22.º — Produto das coimas\n\nO produto da aplicação das coimas previstas no presente decreto-lei reverte em:\n\na) 60 % para o Estado;\n\nb) 20 % para a ASAE;\n\nc) 10 % para a entidade decisora;\n\nd) 10 % para o IPDJ, I. P.\n\n> Alterado pelo/a Artigo 116.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "137938137": {
+   "fragment_id": "137939394",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Maria Isabel Girão de Melo Veiga Vilar.\n\nPromulgado em 18 de Fevereiro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 24 de Fevereiro de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

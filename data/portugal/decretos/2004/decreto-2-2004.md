@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:241190:por
+title: Decreto n.º 2/2004
+short_title: null
+summary: Aprova o Acordo de Cooperação entre a República Portuguesa e a República de Cabo Verde nos Domínios do Ensino Superior,
+  Ciência e Tecnologia, assinado na Cidade da Praia em 17 de Julho de 2003
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 2/2004
+official_date: null
+publication_date: '2004-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/2004, Série I-A de 2004-01-09
+  number: '7'
+  series: I
+  supplement: null
+  pages: 102 - 104
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/01/007a00/01020104.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/2/2004/01/09/p/dre/pt/html
+  oj: null
+  dre: '241190'
+  dre_path: /dr/detalhe/decreto/2-2004-241190
+  internal: pt:dre:241190:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2004-241190
+  metadata_url: https://data.dre.pt/eli/dec/2/2004/01/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-2004-241190
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-01-09T00:00:00Z'
+integrity:
+  source_sha256: 9bcaaf8fb0a8496310b74f044f4ea1093feb000a64e04acec69e791c13aab748
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-2-241190.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cidade da Praia
+- Convenção
+- Portugal
+- Cooperação Tecnológica
+- Cabo Verde
+- Cooperação Científica
+- Ensino Superior
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 2/2004
+
+de 9 de Janeiro
+
+Considerando que o Acordo de Cooperação entre a República Portuguesa e a República de Cabo Verde no Domínio do Ensino Superior, assinado em 18 de Fevereiro de 1997, com uma duração de cinco anos, admitia a sua renovação após realizada a avaliação dos respectivos resultados;
+
+Considerando que o relatório da avaliação entretanto realizada apresentou a recomendação de que se deveria integrar num só acordo de cooperação Portugal-Cabo Verde quer as vertentes de apoio ao desenvolvimento e consolidação do ensino superior quer as vertentes de apoio à investigação científica e tecnológica e à formação avançada;
+
+Considerando que, actualmente, nos dois países, a ciência e tecnologia e o ensino superior estão sob a alçada de uma só instituição - o Ministério da Ciência e do Ensino Superior (MCES) e o Ministério da Educação e Valorização dos Recursos Humanos (MEVRH) em Cabo Verde;
+
+Considerando que os dois instrumentos jurídicos existentes foram revistos e as actividades nessas áreas foram incluídas num só acordo:
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o Acordo de Cooperação entre a República Portuguesa e a República de Cabo Verde nos Domínios do Ensino Superior, Ciência e Tecnologia, assinado na Cidade da Praia em 17 de Julho de 2003, cujo texto autenticado na língua portuguesa segue em anexo.
+
+Visto e aprovado em Conselho de Ministros de 6 de Novembro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Maria da Graça Martins da Silva Carvalho.
+
+**Assinado em 15 de Dezembro de 2003.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 17 de Dezembro de 2003.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**
+
+## ANEXO
+
+ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE NOS DOMÍNIOS DO ENSINO SUPERIOR, CIÊNCIA E TECNOLOGIA.
+
+Considerando o desejo de estreitar os laços históricos de amizade e de cooperação entre o Ministério da Ciência e do Ensino Superior da República Portuguesa e o Ministério da Educação e Valorização dos Recursos Humanos da República de Cabo Verde (a seguir denominadas «Partes»);
+
+Considerando que o ensino superior constitui uma instituição de cultura e de formação cívica, de actividades sociais, científicas e técnicas e um indicador de referência sobre o desenvolvimento de uma sociedade contemporânea, cabendo-lhe um lugar essencial na produção, desenvolvimento e dinamização da sociedade;
+
+Considerando que, nesta perspectiva, é função da formação superior realizar um integral aproveitamento das capacidades humanas dos cidadãos, dos recursos e dos valores, num todo orientado para a mais completa utilização das riquezas do país;
+
+Considerando que uma longa tradição nesse domínio pode ser invocada a respeito de Cabo Verde, nomeadamente desde meados do século XIX, com a instituição de escolas de elevado nível pedagógico e científico, responsáveis pelo notável quadro actual nos diferentes planos do saber cultural, científico e técnico;
+
+Reconhecendo a importância da cooperação entre Portugal e Cabo Verde no campo da ciência e tecnologia e desejando ampliar e reforçar essa cooperação e aperfeiçoar o intercâmbio entre os dois países nesse campo;
+
+Considerando que a Comunidade dos Países de Língua Portuguesa vem aumentar, por um lado, a importância do desenvolvimento do ensino superior, atendendo ao estreitamento de relações entre o seus membros e, por outro, o sentido da solidariedade entre as instituições de ensino que podem colaborar no desenvolvimento da formação superior considerada nas suas diferentes áreas culturais, científicas e técnicas, onde quer que haja condições de viabilidade;
+
+Considerando a realidade da cooperação existente entre Portugal e Cabo Verde e os resultados positivos alcançados:
+
+A República Portuguesa e a República de Cabo Verde acordam o seguinte:
+
+###### Artigo 1.º — Objecto do Acordo
+
+O presente Acordo tem por objecto:
+
+1 - Conjugar os meios conducentes ao desenvolvimento do ensino superior e da ciência em Cabo Verde, nomeadamente através da colaboração entre as instituições de ensino superior e de investigação de ambos os países.
+
+2 - No que respeita ao ensino superior, o desenvolvimento institucional e organizacional, nos domínios científico, pedagógico e administrativo, numa base sustentada, de igualdade e benefício mútuo entre os dois países.
+
+3 - No que respeita à ciência e tecnologia, o desenvolvimento da cooperação científica e tecnológica entre os dois países numa base de igualdade e benefício mútuo.
+
+4 - As Partes elaborarão em conjunto programas de cooperação, de acordo com a respectiva capacidade técnica e financeira, com vista ao desenvolvimento pedagógico, científico e tecnológico e ao desenvolvimento económico e social de cada uma delas.
+
+5 - As Partes fomentarão e apoiarão a cooperação entre as comunidades e instituições científicas e outras entidades dos dois países em áreas combinadas pelas mesmas.
+
+6 - Os projectos em que seja concretizada a cooperação realizar-se-ão de acordo com as normas e os protocolos específicos que, em cada caso, sejam adoptados para precisar condições concretas da respectiva execução.
+
+###### Artigo 2.º — Formas de cooperação
+
+A cooperação assumirá, entre outras, as seguintes formas:
+
+a) Realização de projectos conjuntos de investigação e desenvolvimento e de formação superior;
+
+b) Avaliação e planeamento estratégico do ensino superior e da ciência e tecnologia;
+
+c) Introdução paulatina de novas tecnologias, particularmente no ensino a distância;
+
+d) Realização de programas de especialização ou estágios para desenvolvimento de recursos humanos, nomeadamente ao nível de mestrados e doutoramentos (formação avançada);
+
+e) Adopção de programas específicos de formação e de metodologias de formação alternativa;
+
+f) Criação de meios de ensino e de investigação (laboratórios, bibliotecas e outros);
+
+g) Atribuição de vagas e bolsas para formação graduada;
+
+h) Intercâmbio de informação e de documentação pedagógica, científica e tecnológica, nomeadamente através de uma ligação directa entre as redes de comunicação científica e académica dos dois países;
+
+i) Intercâmbio de professores, cientistas, investigadores e técnicos, principalmente com vista à preparação de projectos conjuntos, destinados a serem apresentados aos organismos internacionais financiadores de projectos;
+
+j) Promoção de conferências, cursos, seminários e simpósios sobre temas de interesse comum;
+
+l) Realização de consultas recíprocas sobre temas relacionados com a política científica e tecnológica;
+
+m) Qualquer outra modalidade de cooperação científica e técnica requerida pelas circunstâncias e mutuamente acordada.
+
+###### Artigo 3.º — Encargos financeiros
+
+Em todas as missões previstas neste Acordo, a Parte que envia custeará o transporte de ida e volta dos professores, cientistas, investigadores e técnicos do seu país. A Parte que recebe custeará a estada, bem como as deslocações internas necessárias ao cumprimento do programa de trabalho.
+
+###### Artigo 4.º — Aplicação do Acordo
+
+1 - As entidades responsáveis pela aplicação do Acordo são o Gabinete de Relações Internacionais da Ciência e do Ensino Superior, por parte do Ministério da Ciência e do Ensino Superior português, e a Direcção-Geral do Ensino Superior e Ciência, por parte do Ministério da Educação e Valorização dos Recursos Humanos cabo-verdiano.
+
+2 - No âmbito do ensino superior será constituída uma comissão paritária, com a missão de planear, articular, acompanhar e avaliar os trabalhos conducentes à concretização dos objectivos expostos, integrando um máximo de cinco representantes de cada país.
+
+3 - Os elementos da comissão paritária serão nomeados, no prazo de 45 dias a contar da data da entrada em vigor do presente Acordo, pelos Ministros responsáveis em articulação com os Ministros dos Negócios Estrangeiros respectivos.
+
+4 - A comissão paritária reunirá no prazo de 90 dias a contar da data da entrada em vigor do presente Acordo e elaborará um projecto de regulamento, a homologar por ambas as partes, contemplando a sua forma de funcionamento e o plano de actividades que se propõe desenvolver, com vista a atingir os objectivos previstos.
+
+5 - A comissão paritária poderá convidar organizações privadas com trabalho desenvolvido na área do ensino superior para participar nas suas reuniões, às quais será dado estatuto de observador.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente Acordo entrará em vigor 30 dias após a data da última notificação por escrito e por via diplomática de que foram cumpridos todos os requisitos constitucionais e legais exigíveis para ambas as Partes e vigorará por um período de cinco anos, podendo ser denunciado por qualquer das Partes mediante comunicação escrita à outra com uma antecedência mínima de nove meses.
+
+###### Artigo 6.º — Duração e revisão
+
+1 - O presente Acordo poderá ser prorrogado, mediante acordo entre as Partes, por um período susceptível de ir até cinco anos, tendo em conta a avaliação do Acordo feita no decurso do ano lectivo de 2006-2007.
+
+2 - O presente Acordo substitui os acordos nesta matéria anteriormente celebrados entre as Partes, nomeadamente o Convénio de Cooperação Científica e Técnica entre o Ministério da Ciência e da Tecnologia de Portugal e o Ministério da Educação, Ciência e Cultura de Cabo Verde, assinado em 30 de Setembro de 1997, e o Acordo de Cooperação entre a República Portuguesa e a República de Cabo Verde no Domínio do Ensino Superior, assinado em 18 de Fevereiro de 1997.
+
+Feito na Cidade da Praia, aos 17 do mês de Julho de 2003, em dois originais na língua portuguesa, fazendo os dois textos igualmente fé.
+
+Pela República Portuguesa:
+
+[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/01/007a00/01020104.pdf)
+
+Pela República de Cabo Verde:
+
+[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/01/007a00/01020104.pdf)

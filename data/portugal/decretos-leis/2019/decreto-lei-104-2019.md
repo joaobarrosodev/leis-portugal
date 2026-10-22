@@ -1,0 +1,295 @@
+---
+schema_version: '1.0'
+id: pt:dre:123855888:por
+title: Decreto-Lei n.º 104/2019
+short_title: null
+summary: Altera o mecanismo regulatório tendente a assegurar o equilíbrio da concorrência no mercado grossista de eletricidade
+  em Portugal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ambiente e Transição Energética
+official_number: 104/2019
+official_date: null
+publication_date: '2019-08-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/2019, Série I de 2019-08-09
+  number: '152'
+  series: I
+  supplement: null
+  pages: 2 - 6
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15200/0000200006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/104/2019/08/09/p/dre/pt/html
+  oj: null
+  dre: '123855888'
+  dre_path: /dr/detalhe/decreto-lei/104-2019-123855888
+  internal: pt:dre:123855888:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2019-123855888
+  metadata_url: https://data.dre.pt/eli/dec-lei/104/2019/08/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2019-123855888
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-08-09T00:00:00Z'
+integrity:
+  source_sha256: 68579eecf2a0658421013a76f7a529cbc4cbed0faa7098f1faae5641c28ddddb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2019/DRE-2019-104-123855888.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Energia Elétrica
+- Direção Geral de Energia e Geologia
+- Entidade Reguladora dos Serviços Energéticos
+- Prestação de Serviços
+- Sistema Elétrico Nacional
+- Comércio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/29/2006/02/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/2006/02/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/2013/06/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2013/06/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 104/2019
+
+de 9 de agosto
+
+O [Decreto-Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2013-513618), de 4 de junho, estabelece um mecanismo regulatório que visa compensar as distorções que as medidas e eventos extramercado registados no âmbito da União Europeia provocam na formação dos preços médios de eletricidade no mercado grossista em Portugal e que a Entidade Reguladora dos Serviços Energéticos semestralmente identifica.
+
+Sempre que dos referidos eventos extramercado decorram benefícios não expectáveis para os produtores nacionais, é realizada a correspondente compensação, no âmbito da repartição dos custos de interesse económico geral, assegurando o equilíbrio da concorrência do mercado grossista de eletricidade em Portugal.
+
+Sucede que a aplicação deste mecanismo regulatório tem demonstrado dificuldades de interpretação, nomeadamente no que respeita ao seu âmbito de incidência subjetiva, que agora se clarifica, garantindo assim maior segurança jurídica, tanto para os produtores de eletricidade quanto para as entidades intervenientes.
+
+Por outro lado, e conforme previsto no artigo 237.º da Lei do Orçamento do Estado para 2019, aprovada pela [Lei n.º 71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, importa assegurar a harmonização deste tipo de mecanismos no âmbito do Mercado Ibérico de Eletricidade, assim se garantindo melhores condições de concorrência e, simultaneamente, melhor proteção dos consumidores.
+
+Neste contexto, introduz-se a possibilidade de um pagamento por conta que mitiga temporalmente o desfasamento que ocorre entre a verificação do evento extramercado e a respetiva compensação.
+
+Ainda no sentido de garantir uma melhor aplicação deste mecanismo, contempla-se agora a possibilidade de ajustar a incidência do evento extramercado à tecnologia de produção de eletricidade sobre a qual incide, assegurando-se deste modo uma aplicação dirigida que evita as distorções da aplicação indiferenciada sobre todos os produtores.
+
+Foi ouvida a Entidade Reguladora dos Serviços Energéticos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à primeira alteração ao [Decreto-Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2013-513618), de 4 de junho, que prevê a criação de um mecanismo regulatório tendente a assegurar o equilíbrio da concorrência no mercado grossista de eletricidade em Portugal, com incidência na componente de custos de interesse económico geral da tarifa de Uso Global do Sistema.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2013-513618), de 4 de junho
+
+Os artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2013-513618), de 4 de junho, passam a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+[...]:
+
+a) 'Custos de interesse económico geral (CIEG)', os custos decorrentes de medidas de política energética, de sustentabilidade ou de interesse económico geral, definidos nos n.os 2 e 3 do artigo 61.º do [Decreto-Lei n.º 29/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2006-683861), de 15 de fevereiro, na sua redação atual;
+
+b) 'Energia elétrica injetada na rede', a energia ativa a faturar aos produtores medida nos pontos de ligação das suas instalações no nível de tensão respetivo;
+
+c) [Revogada.]
+
+d) [Revogada.]
+
+e) [Revogada.]
+
+###### Artigo 3.º — Repercussão tarifária do mecanismo de equilíbrio concorrencial
+
+1 - Os valores faturados aos produtores de energia elétrica por aplicação do mecanismo de equilíbrio concorrencial são repercutidos na rubrica de CIEG com repartição no âmbito da aplicação da tarifa de Uso Global do Sistema.
+
+2 - [...]:
+
+a) Os preços dos termos tarifários a aplicar à energia elétrica injetada na rede são definidos anualmente;
+
+b) Os preços dos termos tarifários a aplicar à energia elétrica injetada na rede podem ser diferenciados por tecnologia e regime de produção de eletricidade;
+
+c) Os preços dos termos tarifários são aplicados a quantidades de energia efetivamente injetada na rede pelos produtores abrangidos;
+
+d) [Revogada.]
+
+3 - O membro do Governo responsável pela área da energia pode estabelecer, para cada ano, através de despacho, sob proposta da ERSE, um valor de pagamento por conta a aplicar aos produtores de energia elétrica abrangidos pelo presente mecanismo de equilíbrio concorrencial.
+
+4 - A operacionalização do disposto no número anterior faz-se nos termos da portaria a que se refere o n.º 2.
+
+###### Artigo 4.º — Determinação dos valores a faturar
+
+1 - A determinação dos valores a faturar nos termos do artigo 3.º é concretizada por despacho do membro do Governo responsável pela área da energia, com base nos resultados de um estudo a elaborar, para cada ano, pela ERSE, sobre o impacto na formação de preços médios da eletricidade no mercado grossista em Portugal de medidas e eventos extramercado registados no âmbito da União Europeia, o qual deve ponderar, quando aplicável e sempre que justificado, os efeitos de mecanismos de remuneração da capacidade e outras políticas de segurança de abastecimento existentes noutros Estados-Membros na referida formação de preços.
+
+2 - A elaboração do estudo referido no número anterior deve observar o procedimento de consulta do Conselho Tarifário da ERSE, nos termos fixados na portaria a que se refere o n.º 2 do artigo 3.º
+
+3 - [Revogado.]»
+
+###### Artigo 3.º — Aditamento ao [Decreto-Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2013-513618), de 4 de junho
+
+É aditado ao [Decreto-Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2013-513618), de 4 de junho, o artigo 1.º-A, com a seguinte redação:
+
+«Artigo 1.º-A
+
+Âmbito de aplicação subjetivo
+
+São abrangidos pelo disposto no presente decreto-lei:
+
+a) Os produtores de energia elétrica em regime ordinário, assim definidos nos termos do [Decreto-Lei n.º 29/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2006-683861), de 15 de fevereiro, na sua redação atual, com exceção dos centros eletroprodutores abrangidos pela alínea a) do n.º 2 do artigo 17.º daquele diploma, até à data de cessação dos respetivos contratos de aquisição de energia;
+
+b) Os produtores de energia elétrica que explorem aproveitamentos hidroelétricos com potência instalada igual ou superior a 10 MVA;
+
+c) Os produtores de energia elétrica que não beneficiem de qualquer mecanismo de remuneração garantida, com exceção dos produtores:
+
+i) Que efetuem compensações específicas ao Sistema Elétrico Nacional no âmbito do procedimento concorrencial previsto no artigo 5.º-B do [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de agosto, na sua redação atual; e
+
+ii) Cuja potência instalada de cada centro eletroprodutor individualmente considerado seja inferior a 5 MW.»
+
+###### Artigo 4.º — Regime transitório
+
+1 - Os valores que constam do Despacho n.º 9955/2017, publicado no Diário da República, 2.ª série, n.º 222, de 17 de novembro, mantêm-se aplicáveis aos produtores abrangidos pelo artigo 1.º-A até ser aprovado o valor unitário de pagamento por conta referido no número seguinte.
+
+2 - No prazo de 15 dias após a entrada em vigor do presente decreto-lei, a Entidade Reguladora dos Serviços Energéticos (ERSE) submete a aprovação do membro do Governo responsável pela área da energia o valor unitário de pagamento por conta.
+
+3 - Os valores aplicados em 2018 não são sujeitos a qualquer ajustamento, sem prejuízo da concretização do estudo da ERSE para esse ano, nos termos da portaria a que se refere o n.º 2 do artigo 3.º do [Decreto-Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2013-513618), de 4 de junho, com a redação introduzida pelo presente decreto-lei, salvo os ajustamentos que decorram da regulamentação específica aplicável até à data de entrada em vigor do presente decreto-lei.
+
+###### Artigo 5.º — Norma revogatória
+
+São revogadas as alíneas c), d) e e) do artigo 2.º, a alínea d) do n.º 2 do artigo 3.º e o n.º 3 do artigo 4.º do [Decreto-Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2013-513618), de 4 de junho.
+
+###### Artigo 6.º — Republicação
+
+É republicado, no anexo ao presente decreto-lei, do qual faz parte integrante, o [Decreto-Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2013-513618), de 4 de junho, com a redação introduzida pelo presente decreto-lei.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de junho de 2019. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - João Pedro Soeiro de Matos Fernandes.
+
+**Promulgado em 31 de julho de 2019.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 1 de agosto de 2019.**
+
+Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+## ANEXO — (a que se refere o artigo 6.º)
+
+Republicação do [Decreto-Lei n.º 74/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2013-513618), de 4 de junho
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei prevê a criação de um mecanismo regulatório tendente a assegurar o equilíbrio da concorrência no mercado grossista de eletricidade em Portugal, com incidência na componente de custos de interesse económico geral (CIEG) da tarifa de Uso Global do Sistema.
+
+###### Artigo 1.º-A — Âmbito de aplicação subjetivo
+
+São abrangidos pelo disposto no presente decreto-lei:
+
+a) Os produtores de energia elétrica em regime ordinário, assim definidos nos termos do [Decreto-Lei n.º 29/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2006-683861), de 15 de fevereiro, na sua redação atual, com exceção dos centros eletroprodutores abrangidos pela alínea a) do n.º 2 do artigo 17.º daquele diploma, até à data de cessação dos respetivos contratos de aquisição de energia;
+
+b) Os produtores de energia elétrica que explorem aproveitamentos hidroelétricos com potência instalada igual ou superior a 10 MVA;
+
+c) Os produtores de energia elétrica que não beneficiem de qualquer mecanismo de remuneração garantida, com exceção dos produtores:
+
+i) Que efetuem compensações específicas ao Sistema Elétrico Nacional no âmbito do procedimento concorrencial previsto no artigo 5.º-B do [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de agosto, na sua redação atual; e
+
+ii) Cuja potência instalada de cada centro eletroprodutor individualmente considerado seja inferior a 5 MW.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Custos de interesse económico geral (CIEG)», os custos decorrentes de medidas de política energética, de sustentabilidade ou de interesse económico geral, definidos nos n.os 2 e 3 do artigo 61.º do [Decreto-Lei n.º 29/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2006-683861), de 15 de fevereiro, na sua redação atual;
+
+b) «Energia elétrica injetada na rede», a energia ativa a faturar aos produtores medida nos pontos de ligação das suas instalações no nível de tensão respetivo;
+
+c) [Revogada.]
+
+d) [Revogada.]
+
+e) [Revogada.]
+
+###### Artigo 3.º — Repercussão tarifária do mecanismo de equilíbrio concorrencial
+
+1 - Os valores faturados aos produtores de energia elétrica por aplicação do mecanismo de equilíbrio concorrencial são repercutidos na rubrica de CIEG com repartição no âmbito da aplicação da tarifa de Uso Global do Sistema.
+
+2 - O membro do Governo responsável pela área da energia estabelece, através de portaria, ouvida a Entidade Reguladora dos Serviços Energéticos (ERSE), a regulamentação necessária à execução do disposto no número anterior, tendo em conta o seguinte:
+
+a) Os preços dos termos tarifários a aplicar à energia elétrica injetada na rede são definidos anualmente;
+
+b) Os preços dos termos tarifários a aplicar à energia elétrica injetada na rede podem ser diferenciados por tecnologia e regime de produção de eletricidade;
+
+c) Os preços dos termos tarifários são aplicados a quantidades de energia efetivamente injetada na rede pelos produtores abrangidos;
+
+d) [Revogada.]
+
+3 - O membro do Governo responsável pela área da energia pode estabelecer, para cada ano, através de despacho, sob proposta da ERSE, um valor de pagamento por conta a aplicar aos produtores de energia elétrica abrangidos pelo presente mecanismo de equilíbrio concorrencial.
+
+4 - A operacionalização do disposto no número anterior faz-se nos termos da portaria a que se refere o n.º 2.
+
+###### Artigo 4.º — Determinação dos valores a faturar
+
+1 - A determinação dos valores a faturar nos termos do artigo 3.º é concretizada por despacho do membro do Governo responsável pela área da energia, com base nos resultados de um estudo a elaborar, para cada ano, pela ERSE, sobre o impacto na formação de preços médios da eletricidade no mercado grossista em Portugal de medidas e eventos extramercado registados no âmbito da União Europeia, o qual deve ponderar, quando aplicável e sempre que justificado, os efeitos de mecanismos de remuneração da capacidade e outras políticas de segurança de abastecimento existentes noutros Estados-Membros na referida formação de preços.
+
+2 - A elaboração do estudo referido no número anterior deve observar o procedimento de consulta do Conselho Tarifário da ERSE, nos termos fixados na portaria a que se refere o n.º 2 do artigo 3.º
+
+3 - [Revogado.]
+
+###### Artigo 5.º — Norma transitória
+
+No que respeita ao ano de 2013, o estudo referido no n.º 1 do artigo anterior deve ser elaborado até ao final do primeiro semestre.

@@ -1,0 +1,1152 @@
+---
+schema_version: '1.0'
+id: pt:dre:207942900:por
+title: Portaria n.º 54-F/2023
+short_title: null
+summary: Estabelece as regras nacionais complementares do domínio «B.1 - Programa nacional para apoio ao setor da fruta e
+  dos produtos hortícolas», do eixo «B - Abordagem setorial integrada», do Plano Estratégico da Política Agrícola Comum para
+  Portugal (PEPAC Portugal)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura e Alimentação
+proposing_entity: null
+official_number: 54-F/2023
+official_date: null
+publication_date: '2023-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27
+  number: '41'
+  series: I
+  supplement: 1º Suplemento
+  pages: 332-(222) a 332-(291)
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04101/0022200291.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-09-12'
+version_history:
+  file: portaria-54-f-2023.versoes.json
+  count: 6
+  source_lastmod: '2026-09-11'
+  versions:
+  - date: '2023-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-08-20'
+    amending: pt:dre:215980345:por
+    amending_title: Portaria n.º 228/2023
+    changes:
+    - Altera Anexo V
+  - date: '2025-01-04'
+    amending: pt:dre:901998028:por
+    amending_title: Portaria n.º 6/2025/1
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 19.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Artigo 42.º
+    - Altera Artigo 46.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo V
+  - date: '2026-05-21'
+    amending: pt:dre:1124493238:por
+    amending_title: Portaria n.º 228/2026/1
+    changes:
+    - Altera Artigo 9.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+  - date: '2026-08-26'
+    amending: pt:dre:1161801441:por
+    amending_title: Portaria n.º 384/2026/1
+    changes:
+    - Adita Artigo 42.º-A
+    - Altera Artigo 25
+    - Altera Artigo 42
+  - date: '2026-09-12'
+    amending: pt:dre:1169277028:por
+    amending_title: Portaria n.º 430/2026/1
+    changes:
+    - Altera Artigo 27.º
+    - Altera Artigo 33.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/54-f/2023/02/27/p/dre/pt/html
+  oj: null
+  dre: '207942900'
+  dre_path: /dr/detalhe/portaria/54-f-2023-207942900
+  internal: pt:dre:207942900:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-f-2023-207942900
+  metadata_url: https://data.dre.pt/eli/port/54-f/2023/02/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-216056641
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-216056641
+  retrieved_at: '2026-10-22T13:53:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-11T00:00:00Z'
+integrity:
+  source_sha256: 70d7dfdfb82b5b5fc8441590d47b4c212a79f1e07d4e6b72ec44767854929d59
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:53:54Z'
+  notes: 6 versão(ões); histórico completo em portaria-54-f-2023.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:215980345:por
+  label: Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/228-2023-215980345
+  date: '2023-07-21'
+- type: amended_by
+  target: pt:dre:222151282:por
+  label: Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/291-2023-222151282
+  date: '2023-09-28'
+- type: amended_by
+  target: pt:dre:901998028:por
+  label: Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 15.º; Altera Artigo 19.º;
+    Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 27.º; Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo 32.º;
+    Altera Artigo 33.º; Altera Artigo 36.º; Altera Artigo 37.º; Altera Artigo 39.º; Altera Artigo 42.º; Altera Artigo 46.º;
+    Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028
+  date: '2025-01-03'
+- type: amended_by
+  target: pt:dre:1124493238:por
+  label: Altera Artigo 9.º; Altera Anexo I; Altera Anexo II; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/228-2026-1124493238
+  date: '2026-05-20'
+- type: amended_by
+  target: pt:dre:1161801441:por
+  label: Adita Artigo 42.º-A; Altera Artigo 25; Altera Artigo 42
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441
+  date: '2026-08-25'
+- type: amended_by
+  target: pt:dre:1169277028:por
+  label: Altera Artigo 27.º; Altera Artigo 33.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/430-2026-1169277028
+  date: '2026-09-11'
+- type: cites
+  target: celex:32009L0128
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R1308
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1308/oj
+- type: cites
+  target: celex:32014R1144
+  label: null
+  source: null
+- type: cites
+  target: celex:32017R0891
+  label: null
+  source: http://data.europa.eu/eli/reg/2017/891/oj
+- type: cites
+  target: celex:32021R2115
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2115/oj
+- type: cites
+  target: celex:32021R2116
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2116/oj
+- type: cites
+  target: celex:32022R0126
+  label: null
+  source: http://data.europa.eu/eli/reg/2022/126/oj
+- type: cites
+  target: celex:32022R0127
+  label: null
+  source: http://data.europa.eu/eli/reg/2022/127/oj
+- type: cites
+  target: celex:32022R1475
+  label: null
+  source: http://data.europa.eu/eli/reg/2022/1475/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/5/2023/01/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/5/2023/01/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/298/2019/09/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/298/2019/09/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/65/2014/03/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/65/2014/03/12/p/dre
+- type: transposes
+  target: celex:32000L0029
+  label: null
+  source: null
+article_structure:
+  article_count: 48
+  section_count: 15
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:53:54Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 54-F/2023
+
+Portaria n.º 54-F/2023
+
+de 27 de fevereiro
+
+Sumário: Estabelece as regras nacionais complementares do domínio «B.1 - Programa nacional para apoio ao setor da fruta e dos produtos hortícolas», do eixo «B - Abordagem setorial integrada», do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal).
+
+A reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).
+
+O PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.
+
+O Plano Estratégico da Política Agrícola Comum de Portugal, «PEPAC Portugal», foi aprovado pela Comissão Europeia através da Decisão da Comissão n.º C (2022) 6019, de 31 de agosto de 2022, vigorando no período de 2023-2027.
+
+Neste âmbito, as intervenções do domínio «B.1 - Programa nacional para apoio ao setor da fruta e dos produtos hortícolas», do eixo «B - Abordagem setorial integrada», do PEPAC Portugal, cujo financiamento se encontra assegurado pelo FEAGA, designadamente os investimentos em ativos tangíveis e intangíveis, investigação e métodos de produção experimentais e inovadores, os serviços de aconselhamento e de assistência técnica, a formação, incluindo orientação e intercâmbio de boas práticas, promoção, comunicação e comercialização, os regimes de qualidade a nível nacional e da União Europeia, as ações de atenuação das alterações climáticas e de adaptação às mesmas e a criação, constituição e reposição dos fundos mutualistas, a replantação de pomares ou olivais, a retirada do mercado para distribuição gratuita e os seguros de colheitas e de produção.
+
+Pela presente Portaria prevê-se o quadro normativo que institucionaliza e efetiva as intervenções setoriais, acima referidas e identifica as entidades intervenientes e respetivas competências, designadamente, da autoridade de gestão nacional (AGN), o Gabinete de Planeamento, Políticas e Administração Geral (GPP), que nos termos do n.º 3 do artigo 56.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, mediante a celebração de acordo escrito, delega funções na Direção Geral da Agricultura e Desenvolvimento Rural (DGADR), na qualidade de organismo intermédio, continuando a ser plenamente responsável pela eficiência e rigor da gestão e execução das funções em causa.
+
+Assim:
+
+Manda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece as regras nacionais complementares do domínio «B.1 - Programa nacional para apoio ao setor da fruta e dos produtos hortícolas», do eixo «B - Abordagem setorial integrada», do Plano Estratégico da Política Agrícola Comum, para Portugal (PEPAC Portugal), nos termos do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, do Regulamento Delegado (UE) 2022/126, da Comissão e do Regulamento de Execução (UE) 2022/1475, da Comissão.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O regime de aplicação dos apoios previstos na presente portaria inclui as seguintes intervenções:
+
+a) B.1.1 - Gestão do solo;
+
+b) B.1.2 - Gestão da água;
+
+c) B.1.3 - Gestão de energia;
+
+d) B.1.4 - Gestão de resíduos;
+
+e) B.1.5 - Proteção das culturas;
+
+f) B.1.6 - Instalação e reestruturação;
+
+g) B.1.7 - Produção experimental;
+
+h) B.1.8 - Aconselhamento e assistência técnica;
+
+i) B.1.9 - Formação;
+
+j) B.1.10 - Comercialização;
+
+k) B.1.11 - Promoção, comunicação e marketing;
+
+l) B.1.12 - Rastreabilidade e qualidade;
+
+m) B.1.13 - Avaliação e certificação ambiental;
+
+n) B.1.14 - Fundos mutualistas;
+
+o) B.1.15 - Reposição de potencial produtivo;
+
+p) B.1.16 - Retiradas do mercado;
+
+q) B.1.17 - Seguros de colheita.
+
+###### Artigo 3.º — Definições
+
+Para efeitos da presente portaria, entende-se por:
+
+a) «À saída da organização de produtores», o valor do produto, já normalizado (limpo, classificado, calibrado, rotulado), a preços de venda à porta da Organização de Produtores, não incluindo os custos de transporte desde as suas instalações até ao destino seguinte;
+
+b) «Comprovação», procedimento pelo qual a entidade competente, constante de lista a publicitar no sítio da Internet da Direção Geral da Agricultura e do Desenvolvimento Rural (DGADR), em www.dgadr.gov.pt, reconhece formalmente o desempenho esperado para o investimento proposto, tendo em conta as necessidades da organização de produtores ou dos seus membros associados;
+
+c) «Projeto de beneficiação», parte constituinte do programa operacional que apresenta e justifica as melhorias a introduzir com o investimento proposto;
+
+d) «Situação de referência», caracterização do sistema de rega a reconverter ou modernizar, do ponto de vista das infraestruturas existentes, dos métodos de regra utilizados e do consumo de água.
+
+###### Artigo 4.º — Beneficiários
+
+1 - Podem ser beneficiários dos apoios previstos na presente portaria, as organizações de produtores (OP) que cumpram as seguintes condições:
+
+a) Estar reconhecidas para o setor da fruta e produtos hortícolas nos termos da Portaria n.º 298/2019, de 9 de setembro, na sua redação atual;
+
+b) Constituir fundos operacionais nos termos da presente portaria;
+
+c) Apresentar programas operacionais e obter a respetiva aprovação, nos termos da presente portaria.
+
+2 - Nos programas operacionais previstos na alínea c) do número anterior, os produtos relativamente aos quais a OP está reconhecida devem representar mais de 50 % do valor dos produtos abrangidos pela tipologia de intervenção a que se candidata.
+
+3 - Para efeitos da presente portaria, as referências relativas às OP aplicam-se, com as necessárias adaptações, às organizações transnacionais de produtores, associações de organizações de produtores e associações de organizações transnacionais de produtores.
+
+4 - A referência a membros produtores de uma organização de produtores inclui as organizações de produtores que são membros de uma associação de organizações de produtores.
+
+###### Artigo 5.º — Fundos operacionais
+
+1 - As OP podem constituir fundos operacionais, financiados por:
+
+a) Contribuições financeiras dos membros ou da própria OP;
+
+b) Assistência financeira da União Europeia (UE) a que se refere o artigo seguinte.
+
+2 - Os fundos operacionais são utilizados exclusivamente para financiar os programas operacionais aprovados.
+
+3 - As OP podem, para o financiamento da sua contribuição nos fundos operacionais:
+
+a) Utilizar a totalidade ou parte dos seus próprios fundos;
+
+b) Deliberar cobrar contribuições financeiras aos membros produtores associados.
+
+###### Artigo 6.º — Assistência financeira da UE
+
+A assistência financeira da União Europeia às OP constitui parte integrante do Fundo Operacional e é concedida nos termos previstos no artigo 52.º do Regulamento (UE) 2021/2115 e nos termos previstos no artigo 32.º do Regulamento Delegado (UE) 2022/126.
+
+###### Artigo 7.º — Período de referência e limite máximo da assistência financeira da UE
+
+1 - No âmbito da aprovação dos programas operacionais é definido, para cada OP, um período de referência de doze meses, de acordo com o seu período contabilístico, com início a 1 de janeiro do terceiro ano que precede aquele para o qual a ajuda é pedida e com termo até 31 de dezembro do ano que precede aquele para o qual a ajuda é pedida.
+
+2 - No decurso da aplicação de um programa operacional, as OP não podem alterar o período de referência, exceto em condições devidamente justificadas e comprovadas, sendo admitido um único pedido de alteração.
+
+3 - O limite máximo da assistência financeira da UE é calculado em cada ano a que respeita a ajuda, com base no valor da produção comercializada (VPC) da OP, relativo ao período de referência em questão, em 1 de janeiro de cada ano para o qual a ajuda é pedida.
+
+4 - O cálculo do VPC é efetuado nos termos do artigo 31.º do Regulamento Delegado (UE) 2022/126, e tendo em conta o disposto no 7.º da Portaria n.º 298/2019, de 9 de setembro, na sua redação atual.
+
+5 - Caso uma nova OP não disponha de dados para calcular o VPC, o valor a ser utilizado para a determinação do limite máximo da assistência financeira da UE prevista no artigo 52.º do Regulamento (UE) 2021/2115 é o utilizado para efeitos de reconhecimento da entidade como OP, de acordo com o disposto no artigo 30.º do Regulamento Delegado (UE) 2022/126.
+
+6 - Para efeitos do disposto no n.º 4, caso se verifique uma redução do valor de um produto num determinado ano face à média dos três períodos de referência de 12 meses anteriores de, pelo menos, 35 %, aplicam-se as seguintes condições estabelecidas no artigo 32.º do Regulamento Delegado (UE) 2022/126:
+
+a) Se a redução tiver ocorrido por motivos não imputáveis à OP, considera-se que o VPC desse produto representa 65 % do valor médio nos três períodos de referência de 12 meses anteriores;
+
+b) Se a redução tiver ocorrido devido à ocorrência de catástrofes naturais, acontecimentos climáticos, doenças de plantas ou pragas, não imputáveis à OP, considera-se que o VPC desse produto representa 85 % do valor médio nos três períodos de referência de 12 meses anteriores.
+
+7 - Nos casos previstos no número anterior, a OP deve apresentar os respetivos motivos justificativos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+### Capítulo II — Programas operacionais
+
+#### Secção I — Disposições gerais
+
+###### Artigo 8.º — Objetivos
+
+1 - Os programas operacionais devem prosseguir os seguintes objetivos previstos no n.º 3 e na alínea c) do n.º 7, ambos do artigo 50.º do Regulamento (UE) 2021/2115:
+
+a) Concentração da oferta e colocação dos produtos no mercado;
+
+b) Investigação e desenvolvimento de métodos de produção sustentáveis, inclusive nos domínios da resiliência às pragas, da atenuação das alterações climáticas e adaptação às mesmas, bem como de práticas e técnicas de produção inovadoras que promovam a competitividade económica e reforcem a evolução do mercado, desde que associados aos objetivos específicos estabelecidos nas alíneas a), b), c) e i) do n.º 1 do artigo 6.º do Regulamento (UE) 2021/2115;
+
+c) Promoção, desenvolvimento e aplicação:
+
+i) De métodos e técnicas de produção respeitadores do ambiente;
+
+ii) De práticas de produção resilientes às pragas e às doenças;
+
+iii) Da redução dos resíduos e da utilização e gestão ambientalmente sãs dos subprodutos, incluindo a sua reutilização e valorização;
+
+iv) Da proteção e promoção da biodiversidade e da utilização sustentável dos recursos naturais, em especial a proteção das águas, dos solos e do ar;
+
+d) Contribuição para a atenuação das alterações climáticas e a adaptação às mesmas, conforme estabelecido na alínea d) do n.º 1 do artigo 6.º do Regulamento (UE) 2021/2115.
+
+2 - Deve ser observada a coerência estratégica e dimensionamento das intervenções propostas em relação ao programa operacional e aos objetivos da OP, assim como em relação a outros instrumentos financiados pelo Fundo Europeu Agrícola de Garantia (FEAGA) e pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), designadamente em relação a programas operacionais anteriores, a operações em curso ou concluídas.
+
+###### Artigo 9.º — Âmbito
+
+1 - Para que os programas operacionais elaborados pelas organizações de produtores possam beneficiar da ajuda financeira da UE previstas na alínea b) do n.º 1 do artigo 51.º do Regulamento (UE) 2021/2115, devem cumprir as disposições relevantes da legislação da UE, assim como o PEPAC para o setor das frutas e produtos hortícolas, a presente portaria e ser aprovados previamente à sua aplicação.
+
+2 - Os programas operacionais a apresentar pelas OP devem responder a uma avaliação das necessidades da OP, de acordo com as tipologias previstas no anexo I da presente portaria, da qual faz parte integrante.
+
+3 - Cada programa operacional deve incluir as intervenções, as tipologias de intervenção, os investimentos e as tipologias de despesas necessários para a sua realização, de acordo com o disposto no anexo II da presente portaria, que dela faz parte integrante, tendo em conta a lista de despesas não elegíveis previstas na Parte I do anexo II do Regulamento Delegado (UE) 2022/126.
+
+4 - Todas as despesas elegíveis nas tipologias de intervenção B.1.1 - Gestão do solo; B.1.2 - Gestão da água; B.1.3 - Gestão de energia; B.1.4 - Gestão de resíduos; B.1.6 - Instalação e reestruturação; B.1.7 - Produção experimental; B.1.10 - Comercialização; B.1.15 - Reposição de potencial produtivo, constantes do anexo ii da presente portaria, da qual faz parte integrante, podem ser financiadas a pronto pagamento ou em prestações aprovadas e abranger outras formas de aquisição de ativos imobilizados, nomeadamente, a locação financeira, os alugueres de ativos imobilizados aprovados, em alternativa à aquisição, quando economicamente justificado.
+
+5 - Nos termos do anexo i, cada programa operacional deve garantir que:
+
+a) Pelo menos 15 % das despesas respeitem a intervenções ligadas aos objetivos referidos nas alíneas e) e f) do artigo 46.º do Regulamento (UE) 2021/2115;
+
+b) Inclui três ou mais ações ligadas aos objetivos referidos nas alíneas e) e f) do artigo 46.º do Regulamento (UE) 2021/2115;
+
+c) Pelo menos 2 % das despesas respeitem a intervenções ligadas ao objetivo referido na alínea d) do artigo 46.º do Regulamento (UE) 2021/2115.
+
+6 - Quando o programa operacional inclua despesa com a tipologia «B.1.16 - Retiradas de mercado» para distribuição gratuita, esta não deve exceder um terço das despesas totais.
+
+7 - As despesas previstas na ação ‘B.1.15.2 - Replantação de pomares na sequência de arranque obrigatório’, da tipologia ‘B.1.15 - Reposição de potencial produtivo’ não devem exceder 20 % das despesas totais previstas em cada programa operacional.
+
+8 - Para efeitos da alínea b) do n.º 5, quando, pelo menos, 80 % dos membros de uma OP estiverem sujeitos a um ou mais compromissos agroambientais e climáticos previstos no capítulo iv do título iii do Regulamento (UE) 2021/2115, cada um desses compromissos conta como uma ação.
+
+9 - Para efeitos da alínea c) do n.º 5, as ações desenvolvidas podem ser efetuadas em partilha entre várias OP, desde que estejam de acordo com os objetivos definidos em cada programa operacional, devendo, neste caso, uma das OP assumir a liderança do projeto.
+
+10 - As deliberações relativas aos programas operacionais são tomadas em assembleia geral, por maioria de votos de membros produtores presentes na reunião.
+
+> Nota: [Declaração de Retificação n.º 37/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2025-934278890) As alterações introduzidas pela Portaria n.º 288/2025/1, de 19 de agosto, produzem efeitos no dia 13 de agosto de 2025.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 228/2026/1 - Diário da República n.º 97/2026, Série I de 2026-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/228-2026-1124493238), em vigor a partir de 2026-05-21.
+
+> Retificado pelo/a [Declaração de Retificação n.º 37/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2025-934278890), produz efeitos a partir de 2025-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 288/2025/1 - Diário da República n.º 158/2025, Série I de 2025-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/288-2025-932537186)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+###### Artigo 10.º — Duração
+
+Os programas operacionais têm uma duração mínima de três anos e uma duração máxima de sete anos e executam-se por períodos anuais, com início em 1 de janeiro e fim em 31 de dezembro do mesmo ano.
+
+###### Artigo 11.º — Despesas elegíveis
+
+São elegíveis as despesas previstas no anexo ii da presente portaria, da qual faz parte integrante, efetuadas após a data de aprovação do programa operacional, da comunicação de modificação caso não configure uma alteração nos termos do n.º 4 do artigo 31.º, ou após a data de submissão de alteração, ficando, neste último caso, sujeitas à sua aprovação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04, produz efeitos a partir de 2024-01-01
+
+###### Artigo 12.º — Despesas gerais e assistência técnica
+
+1 - Em cada programa operacional a OP pode aplicar uma taxa fixa uniforme para despesas de pessoal e administrativas decorrentes da gestão do fundo operacional ou da elaboração, execução e acompanhamento do programa operacional, até um máximo de 2 % do fundo operacional aprovado.
+
+2 - Na intervenção B.1.8 ‘Aconselhamento e assistência técnica’, são elegíveis as despesas com pessoal qualificado, até ao montante máximo anual, por programa operacional, de 40 013,38 € por técnico, quando funcionário da OP, considerando uma afetação a 100 %.
+
+3 - Podem ser elegíveis despesas com pessoal qualificado que não pertença à OP em casos pontuais e limitados no tempo, desde que devidamente justificada a mais-valia dessa aquisição externa, até ao limite máximo anual, por ação, de 4001,34 € por técnico ou entidade, e desde que o total de aquisições externas não ultrapasse 10 % da despesa total do programa operacional com pessoal qualificado.
+
+4 - As despesas relativas a processos de certificação e respetivo acompanhamento estão previstas nas ações B.1.8.5. - Sistemas públicos de qualidade certificada e B.1.8.6 - Sistemas privados de qualidade certificada, estando limitadas, no seu conjunto, a 10 % da despesa total do programa operacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04, produz efeitos a partir de 2025-01-01
+
+#### Secção II — Disposições Específicas
+
+##### Subsecção I — Prevenção das crises e gestão dos riscos
+
+###### Artigo 13.º — Prevenção das crises e gestão dos riscos
+
+1 - São tipologias integradas na prevenção de crises e gestão de riscos:
+
+a) B.1.14 - Fundos mutualistas;
+
+b) B.1.15 - Reposição de potencial produtivo;
+
+c) B.1.16 - Retiradas do mercado;
+
+d) B.1.17 - Seguros de colheita.
+
+2 - As tipologias previstas no número anterior visam prevenir e resolver as crises nos mercados das frutas e produtos hortícolas, tendo em conta, designadamente, a imprevisibilidade da produção e o carácter perecível destes produtos.
+
+3 - As tipologias previstas no presente artigo regem-se pelas disposições previstas no artigo 76.º do Regulamento (UE) 2021/2115, no anexo II da presente portaria, que dela faz parte integrante e nos artigos seguintes.
+
+###### Artigo 14.º — Fundos mutualistas
+
+1 - A tipologia prevista na presente subsecção visa promover a constituição de fundos mutualistas, através da participação da assistência financeira da UE nas despesas administrativas da constituição e reconstituição dos fundos, os quais devem:
+
+a) Ser acreditados de acordo com a legislação nacional;
+
+b) Ter uma política transparente em relação aos pagamentos e retiradas do fundo;
+
+c) Ter regras claras atribuindo responsabilidades por quaisquer dívidas incorridas.
+
+2 - O montante das despesas elegíveis não pode exceder 20 %, 16 % ou 8 % da contribuição da OP para o capital do fundo mutualista no seu primeiro, segundo e terceiro ano de funcionamento, respetivamente.
+
+3 - Uma OP só pode receber apoio para os custos administrativos da criação de fundos mutualistas uma única vez, e apenas nos três primeiros anos de funcionamento do fundo mutualista.
+
+4 - Se uma OP apenas solicitar a participação no segundo ou terceiro ano de funcionamento do fundo mutualista, a participação é de 16 % ou 8 % da contribuição da OP para o capital do fundo mutualista nos seus segundo e terceiro anos de funcionamento, respetivamente.
+
+###### Artigo 15.º — Retiradas do mercado
+
+1 - Podem ser objeto de operações de retiradas do mercado:
+
+a) Os produtos do anexo V do Regulamento Delegado (UE) 2022/126;
+
+b) Os produtos do anexo III da presente portaria e da qual faz parte integrante.
+
+2 - Os produtos a retirar destinam-se a distribuição gratuita às organizações caritativas com o montante de apoio previsto:
+
+a) No anexo V do Regulamento Delegado (UE) 2022/126, no caso dos produtos referidos na alínea a) do número anterior;
+
+b) No anexo III da presente portaria, da qual faz parte integrante, no caso dos produtos referidos na alínea b) do número anterior.
+
+3 - Os custos de transporte relacionados com as operações de distribuição gratuita de todos os produtos retirados do mercado são elegíveis a título do programa operacional, com base nas tabelas de custos unitários constantes no anexo IV da presente portaria, da qual faz parte integrante.
+
+4 - Os custos de acondicionamento das frutas e produtos hortícolas retirados do mercado para distribuição gratuita em embalagens com menos de vinte e cinco quilogramas de peso líquido, são elegíveis no âmbito dos programas operacionais, até ao montante máximo dos custos estabelecidos no anexo vii do Regulamento Delegado (UE) 2022/126.
+
+5 - No caso dos produtos referidos na alínea a) do n.º 1, os custos de acondicionamento dos produtos retirados para distribuição gratuita, adicionados ao montante do apoio às retiradas do mercado, não pode exceder 80 % do preço de mercado médio «à saída da organização de produtores» do produto em causa no estado fresco nos últimos três anos.
+
+6 - O limite de 50 % de assistência financeira da UE é aumentado para 100 %, em caso de retiradas do mercado de frutas e hortícolas que não excedam 5 % do volume médio dos últimos três anos da produção comercializada de todos os produtos do setor das frutas e hortícolas para o qual a OP é reconhecida, e que sejam escoadas para distribuição gratuita.
+
+7 - Podem ser definidos por despacho do membro do Governo responsável pela área da agricultura, ao abrigo do disposto nos artigos 26.º e 27.º do Regulamento Delegado (UE) 2022/126, outros destinos admissíveis para os produtos retirados, bem como outros produtos elegíveis e o respetivo montante do apoio.
+
+8 - O IFAP, I. P. estabelece os prazos das notificações da intenção de retirar produtos a observar pelas organizações de produtores, os quais são publicitados no respetivo sítio da Internet, em www.ifap.pt.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+###### Artigo 16.º — Seguros de colheita
+
+O apoio aos seguros de colheitas visa contribuir para proteger os rendimentos dos produtores quando se registam prejuízos resultantes de catástrofes naturais, fenómenos climáticos adversos, doenças ou pragas.
+
+###### Artigo 17.º — Condições de elegibilidade
+
+1 - O contrato de seguro elegível abrange apenas as parcelas próprias da OP ou dos membros produtores, cuja produção é comercializada pela OP e para a qual está reconhecida.
+
+2 - É elegível o contrato de seguro referente a qualquer das culturas mencionadas na parte IX do anexo I do Regulamento (UE) 1308/2013, que cubra um ou mais dos seguintes riscos, conforme definidos na Portaria n.º 65/2014, de 12 de março:
+
+a) Ação de queda de raio;
+
+b) Geada;
+
+c) Granizo;
+
+d) Pragas e doenças;
+
+e) Tornado;
+
+f) Queda de neve;
+
+g) Tromba-d'água.
+
+3 - É ainda elegível o contrato de seguro que cubra outros riscos a que as culturas possam estar sujeitas, por acordo entre a empresa de seguros e o tomador, desde que decorrentes de acontecimentos climáticos adversos.
+
+###### Artigo 18.º — Exclusão
+
+Não são elegíveis os contratos de seguro que tenham beneficiado de outros regimes de apoio a prémio de seguros, nacionais ou europeus.
+
+###### Artigo 19.º — Prémio do seguro
+
+1 - É elegível o prémio do seguro, com dedução dos encargos fiscais e parafiscais e dos custos da apólice.
+
+2 - Sem prejuízo das datas limite da produção de efeitos definidas nas condições da apólice, o premio do seguro só é elegível para os riscos cobertos até à data de conclusão da colheita.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+###### Artigo 20.º — Contrato de seguro
+
+1 - O contrato de seguro de grupo pode ser celebrado entre uma OP e qualquer empresa de seguros autorizada a explorar o ramo «Outros danos em coisas».
+
+2 - O contrato de seguro de grupo baseia-se nos princípios da adesão voluntária dos membros produtores e do conhecimento por estes das condições do seguro, devendo a OP adotar as medidas necessárias para o efeito.
+
+3 - O contrato de seguro de grupo garante os valores individuais de valor seguro de cada um dos segurados e, se for o caso, as condições particulares aplicáveis.
+
+4 - O contrato de seguro de grupo deve, quando for o caso, discriminar o valor do prémio que respeita a elementos da apólice não elegíveis, nomeadamente pessoas seguras, bens, produtos e riscos cobertos.
+
+5 - Em caso de sinistro, a OP garante apoio ao produtor no acompanhamento das peritagens.
+
+###### Artigo 21.º — Indemnizações
+
+1 - Não são indemnizáveis os prejuízos resultantes de sinistros cujo montante seja inferior a 20 % do valor seguro, nos casos em que o produtor tenha optado exclusivamente pela cobertura de riscos decorrentes de acontecimentos climáticos adversos equiparados a calamidades naturais.
+
+2 - As intervenções de seguros de colheitas não podem abranger indemnizações de seguros que proporcionem aos produtores compensações superiores a 100 % da perda de rendimentos sofrida, tendo em conta qualquer compensação que os mesmos produtores obtenham de outros regimes de apoio ou seguro relacionados com o risco coberto.
+
+3 - A indemnização de perdas provocadas por pragas e doenças depende da prova da correta manutenção dos registos de aquisição e da utilização dos produtos fitossanitários nos termos definidos no Despacho Normativo n.º 6/2015, de 20 de fevereiro, na sua redação atual e ao cumprimento, sempre que possível, das recomendações emitidas pelo Serviço Nacional de Avisos Agrícolas (SNAA), relativas à execução dos tratamentos fitossanitários, devidamente atestados pelos serviços competentes do Ministério da Agricultura e Alimentação.
+
+4 - Para efeitos do número anterior, considera-se não ser possível o cumprimento das recomendações emitidas pelo SNAA, quando, por efeito de chuvas persistentes, a aplicação dos tratamentos fitossanitários se revele inviável devido à ineficácia da sua realização, ou quando, por encharcamento do terreno, a utilização de máquinas não possa ocorrer.
+
+###### Artigo 22.º — Informação relativa à apólice de seguro
+
+As OP que pretendam incluir no seu programa operacional a intervenção B.1.17 «Seguro de colheitas» devem apresentar, nomeadamente, a seguinte informação:
+
+a) Identificação das parcelas que suportam a produção segura, tal como constam no Documento de Caracterização da Exploração Agrícola (IE), por cada membro produtor, com as respetivas áreas e ocupações culturais;
+
+b) Valor seguro, com discriminação por membro produtor, da produção esperada e do respetivo valor;
+
+c) Riscos cobertos e montante do prémio;
+
+d) Declaração de compromisso da seguradora de reportar ao IFAP, I. P., a informação relativa a sinistros, prejuízos e indemnizações devidas.
+
+##### Subsecção II — Ambiente e clima
+
+###### Artigo 23.º — Contributo positivo agroambiental e climático
+
+1 - A aprovação do programa operacional está sujeita à apresentação, pelas OP, de elementos demonstrativos do contributo positivo previsto e impacto adicional nos objetivos agroambientais e climáticos da respetiva intervenção, conforme previsto nas condições de elegibilidade referidas no anexo ii da presente portaria, da qual faz parte integrante.
+
+2 - Para efeitos do número anterior, deve ser apresentada uma demonstração ex ante através de especificações do projeto ou de outros elementos técnicos, aquando do pedido de aprovação ou de alteração do programa operacional, que permitam demonstrar os resultados passíveis de serem obtidos através da execução da intervenção.
+
+###### Artigo 24.º — Comprovação
+
+1 - Sem prejuízo do disposto no artigo anterior, na tipologia B.1.2.1. - Poupança de água através da reconversão ou modernização de sistemas de rega, as OP devem solicitar a validação da situação de referência relativa à ação em causa através de verificação in loco e emissão de comprovação prévia.
+
+2 - A validação da situação de referência referida no número anterior é realizada por entidade especializada independente da elaboração do projeto de beneficiação, constante de lista a publicitar e através de formulário próprio, ambos disponíveis no sítio da internet da DGADR, em www.dgadr.pt.
+
+3 - Sem prejuízo do disposto no artigo anterior, nas tipologias B.1.3.1. - Recuperação de energia a partir de biomassa e outras matérias orgânicas provenientes da exploração, B.1.3.2. - Utilização de energias renováveis e B.1.3.3. - Melhoria da eficiência energética, as OP solicitam a emissão da comprovação prévia, acompanhada do projeto de beneficiação relativo à ação em causa.
+
+4 - (Revogado.)
+
+5 - A comprovação prévia referida no n.º 3 é realizada por entidade especializada independente da elaboração do projeto de beneficiação, constante de lista a publicitar através de formulário próprio disponível no sítio da internet da DGADR, em www.dgadr.pt.
+
+6 - A validação da situação de referência prevista no n.º 1 e a comprovação prévia prevista no n.º 3 é realizada até à data de submissão do PO ou da data do pedido de alteração para o ano em curso ou para o ano seguinte, de que faz parte.
+
+> Nota: [Artigo 6.º, Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028) As alterações ao presente artigo aplicam-se às despesas executadas a partir de 1 de janeiro de 2025, com exceção da revogação do seu n.º 4, que produz efeitos a 1 de janeiro de 2023.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+### Capítulo III — Obrigações dos beneficiários
+
+###### Artigo 25 — Obrigações gerais
+
+1 - Os beneficiários do apoio aos programas operacionais, sem prejuízo das obrigações previstas no artigo 22.º da Portaria n.º 298/2019, de 9 de setembro, na sua redação atual, devem:
+
+a) [Revogada.]
+
+b) Manter as condições necessárias à manutenção do reconhecimento como OP;
+
+c) [Revogada.]
+
+d) Gerir os fundos operacionais de forma a permitir que as suas despesas e receitas sejam identificadas, controladas e certificadas anualmente por auditores externos;
+
+e) Assegurar que todos os membros produtores possam beneficiar do fundo operacional e de participar democraticamente nas decisões respeitantes à sua utilização e das contribuições financeiras para o fundo operacional;
+
+f) Prever nos respetivos estatutos disposições que assegurem a permanência dos membros produtores na organização durante o período de vigência de um programa operacional, incluindo a definição das condições para eventual renúncia à qualidade de membro antes do termo do programa operacional;
+
+g) [Revogada.]
+
+h) Manter a posse e quando aplicável a propriedade, dos ativos corpóreos e incorpóreos adquiridos, bem como garantir a sua manutenção, até ao termo do período de amortização fiscal, ou por um período de, pelo menos, cinco anos, consoante o que for mais curto, sem prejuízo do previsto no artigo 11.º e no n.º 8 do anexo iii do Regulamento Delegado (UE) 2022/126;
+
+i) [Revogada.]
+
+j) Assegurar a recolha, registo e conservação da informação relevante para a compilação de indicadores relativos ao acompanhamento e avaliação dos programas operacionais, conforme previsto no anexo v, do Regulamento de Execução (UE) 2022/1475, que permita a verificação da qualidade da execução do programa e detete a necessidade de eventual adaptação ou revisão do mesmo;
+
+k) Apresentar relatórios anuais da execução do programa operacional, de acordo com a estrutura prevista no anexo referido na alínea anterior;
+
+l) Apresentar relatório de avaliação do programa operacional, incluindo a análise dos progressos realizados relativamente aos seus objetivos globais, com base nos indicadores referidos na alínea j);
+
+m) Garantir que todos os pagamentos e recebimentos referentes às operações ligadas à realização do programa operacional e à gestão do fundo operacional são efetuados através de conta bancária única, ainda que não exclusiva;
+
+n) Cumprir as demais obrigações em matéria de comunicações e notificações previstas na presente portaria.
+
+2 - Os beneficiários devem, ainda, cumprir os compromissos específicos previstos no anexo II à presente portaria e da qual faz parte integrante, relativamente às intervenções aprovadas no respetivo programa operacional.
+
+> Nota: [Artigo 9.º, Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441) As alterações introduzidas pela Portaria n.º 384/2026/1, de 25 de agosto aplicam-se aos programas operacionais executados no ano de 2026 e seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), em vigor a partir de 2026-08-26.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+###### Artigo 26.º — Obrigações específicas em investimentos
+
+1 - Os investimentos em ativos corpóreos e incorpóreos adquiridos no âmbito dos programas operacionais devem ser efetuados nas instalações da OP ou, se for caso disso, nas instalações dos seus membros produtores.
+
+2 - Caso a OP seja a proprietária do ativo físico objeto de investimento e algum dos seus membros tiver a sua posse, este deve garantir o acesso a esse ativo à organização durante o respetivo período de amortização fiscal.
+
+3 - Caso a ação ou o investimento seja realizado em explorações dos membros produtores associados das OP, só podem ser consideradas elegíveis, desde que se encontrem preenchidas cumulativamente as seguintes condições:
+
+a) Sejam aprovadas em assembleia geral;
+
+b) Contribuam para a prossecução dos objetivos do programa operacional;
+
+c) Seja emitida pelo associado uma declaração na qual aquele garanta o reembolso do investimento ou do seu valor residual, caso se retire da organização antes do fim do período referido na alínea h) do n.º 1 do artigo anterior, não só para o programa operacional em curso como para programas operacionais anteriores;
+
+d) Identificar a localização da parcela onde é feita a ação ou o investimento, quando aplicável.
+
+4 - No caso previsto no número anterior, sem prejuízo da declaração referida na alínea c), verificando-se que o associado se retira da organização antes do fim do período referido na alínea h) do n.º 1 do artigo anterior, a OP tem que reembolsar o investimento ou o seu valor residual, não só para o programa operacional em curso, como para programas operacionais anteriores, sendo o valor recuperado adicionado ao fundo operacional.
+
+### Capítulo IV — Procedimento
+
+###### Artigo 27.º — Apresentação dos programas operacionais
+
+1 - Os programas operacionais são apresentados até 30 de setembro do ano anterior ao início da sua execução, junto da DGADR, através de formulário eletrónico próprio disponível no sítio da Internet da DGADR, em www.dgadr.pt.
+
+2 - Os programas operacionais devem conter os seguintes elementos:
+
+a) Ficha financeira de orçamentação, de acordo com modelos a divulgar no sítio da internet da DGADR;
+
+b) Ficha descritiva da situação inicial da OP, com base em indicadores comuns, de acordo com modelos a divulgar no sítio da internet da DGADR;
+
+c) Elementos comprovativos da criação de um fundo operacional;
+
+d) Compromisso escrito da OP de que respeitará o disposto no Regulamento Delegado (UE) 2022/126 e do Regulamento de Execução (UE) 2022/1475;
+
+e) Compromisso escrito da OP de que não beneficiou nem beneficiará, direta ou indiretamente, de qualquer outro financiamento da UE ou nacional relativamente às ações elegíveis para ajuda a título do Regulamento (UE) 2021/2115 no setor das frutas e produtos hortícolas.
+
+3 - Os programas operacionais devem ainda ser instruídos com a ata da assembleia geral da qual constem as deliberações relativas ao seguinte:
+
+a) Apresentação do programa operacional;
+
+b) Conteúdo do programa operacional;
+
+c) Aspetos financeiros inerentes ao programa operacional.
+
+> Nota: [Artigo 4.º, Portaria n.º 288/2025/1 - Diário da República n.º 158/2025, Série I de 2025-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/288-2025-932537186) O prazo previsto no n.º 1 do presente artigo, excecionalmente em 2025, é prorrogado até 30 de setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 430/2026/1 - Diário da República n.º 177/2026, Série I de 2026-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/430-2026-1169277028), em vigor a partir de 2026-09-12.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04, produz efeitos a partir de 2025-01-01
+
+###### Artigo 28.º — Apresentação por associações de organizações de produtores
+
+1 - As associações de OP podem apresentar programas operacionais globais ou parciais, que contemplem ações identificadas em programas operacionais de duas ou mais organizações de produtores membros, mas que não sejam implementadas por estas.
+
+2 - Os programas referidos no número anterior encontram-se sujeitos, com as necessárias adaptações, às regras previstas na presente portaria, devendo igualmente ser instruídos com os seguintes documentos:
+
+a) Cópia da ata da assembleia geral, na qual conste a aprovação das contribuições financeiras de cada um dos membros para o fundo operacional, de modo a demonstrar que as ações são integralmente financiadas através dos fundos operacionais das organizações de produtores associadas;
+
+b) Cópia da ata da assembleia geral de cada OP associada aprovando que as ações identificadas no programa operacional não são aplicadas pelas próprias.
+
+###### Artigo 29.º — Entidades intervenientes
+
+1 - Sem prejuízo das competências do Gabinete de Planeamento, Políticas e Administração Geral (GPP) enquanto Autoridade de Gestão Nacional, compete à DGADR:
+
+a) A receção dos programas operacionais;
+
+b) A análise e decisão dos programas operacionais;
+
+c) A notificação dos interessados e demais atos de comunicação e contacto com as OP, para efeitos do disposto na presente portaria.
+
+2 - Compete às Direções Regionais de Agricultura e Pescas (DRAP) e às entidades competentes designadas pelos respetivos órgãos de governo das Regiões Autónomas (RA) exercer as competências que lhe venham a ser delegadas pela DGADR e pelo IFAP, I. P..
+
+3 - Nas RA, as entidades competentes para a execução do presente diploma são designadas pelos respetivos órgãos de governo próprio.
+
+###### Artigo 30.º — Análise e decisão
+
+1 - A DGADR analisa os programas operacionais.
+
+2 - Caso se verifiquem faltas ou insuficiências que não sejam oficiosamente supríveis, a DGADR solicita aos requerentes o suprimento das mesmas, concedendo-lhes para o efeito um prazo não superior a 10 dias úteis.
+
+3 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código do Procedimento Administrativo.
+
+4 - A decisão sobre os programas operacionais é proferida pela DGADR, podendo o sentido da mesma ser de aprovação, aprovação parcial, aprovação condicionada à introdução de alterações, ou não aprovação.
+
+5 - A decisão é notificada aos candidatos até 31 de dezembro do ano em que são apresentados.
+
+6 - Em casos excecionais devidamente fundamentados, a decisão sobre os programas operacionais pode ser proferida até 20 de janeiro do ano seguinte ao da sua apresentação e prever que as despesas sejam elegíveis a partir de 1 de janeiro desse ano.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+###### Artigo 31.º — Alterações dos programas operacionais
+
+1 - As organizações de produtores podem apresentar junto da DGADR alterações aos programas operacionais:
+
+a) Para o ano em curso;
+
+b) Para o ano seguinte.
+
+2 - Os pedidos de alteração devem fundamentar e demonstrar os motivos, o caráter e as respetivas implicações, e que os objetivos globais do programa permanecem inalteráveis face ao programa operacional aprovado e continua a cumprir os requisitos estabelecidos na presente portaria para os programas operacionais, assim como no Regulamento (UE) 2021/2115, e no Regulamento Delegado (UE) 2022/126.
+
+3 - Considera-se uma alteração:
+
+a) Execução parcial do programa operacional, incluindo a não execução, total ou parcial, de qualquer uma das tipologias de intervenção, de investimentos ou de despesa aprovada;
+
+b) Inclusão de investimentos ou despesas no âmbito das intervenções, tipologias de intervenção e investimentos;
+
+c) Variação do orçamento do programa operacional ou da despesa aprovada;
+
+d) Mudanças de localização onde se vai realizar o investimento, não se considerando, para este efeito, uma alteração na identificação Sistema de Identificação Parcelar (SIP) da parcela;
+
+e) Alteração do membro associado, bem como a inclusão de novos membros;
+
+f) Inclusão de intervenções, tipologias de intervenção e investimentos destinadas à prevenção de crises e gestão de risco, assim como alterações decorrentes da obrigatoriedade de adaptação às Diretivas ambientais e climáticas.
+
+4 - Não são consideradas alterações:
+
+a) Uma modificação na identificação SIP da parcela;
+
+b) A modificação das características técnicas de um determinado investimento, se devidamente justificada por indisponibilidade ou descontinuidade, desde que não altere o objetivo desse investimento;
+
+c) Sem prejuízo da alínea d) do número anterior, a modificação da parcela onde se irá realizar o investimento aprovado, quando este seja de carácter anual e relacionado com culturas temporárias, se devidamente justificada por questões climatéricas e agronómicas, desde que não se alterem os restantes termos desse investimento.
+
+5 - Todas as modificações a despesas previstas no anexo ii da presente portaria que não configurem uma alteração devem ser comunicadas pela OP à DGADR, antes da sua execução, fazendo-se acompanhar do respetivo Modelo C1 - Ficha financeira do programa operacional.
+
+6 - Todas as alterações devem ser previamente aprovadas em assembleia geral.
+
+7 - Sem prejuízo do número anterior, não é exigida a aprovação prévia da Assembleia Geral quando esteja prevista em ata da Assembleia Geral a possibilidade e as condições em que tal alteração se pode verificar, sendo aquela decisão da exclusiva responsabilidade da OP e dos seus sócios.
+
+8 - Para efeitos do número anterior, todas as alterações ao programa operacional são aprovadas por ratificação da Assembleia Geral, devendo a ata deliberativa ser apresentada em momento anterior à data do pedido de pagamento.
+
+9 - Os pedidos de alteração são objeto de análise e decisão pela DGADR.
+
+10 - Juntamente com a aprovação da alteração dos programas operacionais, a DGADR deve:
+
+a) Aprovar o valor do fundo operacional que a OP deve constituir para financiar o programa operacional modificado;
+
+b) Determinar a ajuda financeira da UE correspondente ao referido fundo operacional;
+
+c) Incluir um resumo do conteúdo do programa operacional alterado.
+
+> Nota: [Declaração de Retificação n.º 37/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2025-934278890) As alterações introduzidas pela Portaria n.º 288/2025/1, de 19 de agosto, produzem efeitos no dia 13 de agosto de 2025.
+
+> Retificado pelo/a [Declaração de Retificação n.º 37/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2025-934278890), produz efeitos a partir de 2025-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 288/2025/1 - Diário da República n.º 158/2025, Série I de 2025-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/288-2025-932537186)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+###### Artigo 32.º — Regras específicas para as alterações do ano em curso
+
+1 - Para além do referido no n.º 3 do artigo anterior, considera-se alteração no ano em curso:
+
+a) (Revogada.)
+
+b) Aumento do valor do fundo operacional até ao limite de 25 % do inicialmente aprovado, desde que respeitado o limite previsto no artigo 6.º e desde que permaneçam inalteráveis os objetivos globais do programa operacional;
+
+c) Redução do fundo operacional até 40 % do montante inicialmente aprovado, desde que respeitado o limite previsto no artigo 6.º;
+
+d) Substituição de uma ação por outra, desde que permaneçam inalteráveis os objetivos globais do programa operacional;
+
+e) A introdução de uma nova ação, devidamente justificada, desde que permaneçam inalteráveis os objetivos globais do programa operacional.
+
+2 - Para efeitos da alínea a) do n.º 1 do artigo anterior, durante o ano em curso as OP podem apresentar no máximo três alterações para o programa operacional, até à data-limite de 31 de outubro, sendo objeto de decisão no prazo máximo de 30 dias úteis a contar da data de apresentação do pedido, e até 31 de dezembro do ano a que respeita a alteração.
+
+3 - O limite de alterações referido no número anterior não se aplica às intervenções de retirada de mercado, nem quando resulte da necessidade de adaptação às diretivas ambientais e climáticas.
+
+4 - As alterações ao conteúdo dos programas operacionais têm como limite máximo 60 % do valor aprovado para o ano em questão.
+
+5 - As alterações ao programa operacional que resultem numa alteração do fundo operacional, ficam limitadas até um aumento máximo de 25 % do fundo operacional ou a uma redução até 40 % do montante inicialmente aprovado.
+
+6 - No caso de programas operacionais com pedido de adiantamento submetido, as alterações ao ano em curso que impliquem uma variação do programa operacional só são admitidas quando resultem num aumento do fundo operacional e do programa operacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04, produz efeitos a partir de 2025-01-01
+
+###### Artigo 33.º — Regras específicas de alteração para o ano seguinte
+
+1 - Para além do referido no n.º 3 do artigo 31.º, considera-se alteração para o ano seguinte:
+
+a) Prorrogação ou redução da duração do programa, desde que respeite uma duração mínima de 3 anos e máxima de 7 anos, e seja coerente com o conteúdo do programa operacional aprovado;
+
+b) Alteração do calendário anual de execução e financiamento das intervenções, tipologias de intervenção e investimentos ou despesas já aprovadas;
+
+c) Alteração da forma de financiamento ou de gestão do fundo operacional;
+
+d) Pedido de aumento da taxa de assistência da UE quando alguma das condições estabelecidas no n.º 2 do artigo 52.º do Regulamento (UE) 2021/2115 estiver preenchida;
+
+e) Qualquer modificação necessária à adaptação do programa operacional às alterações introduzidas no PEPAC Portugal ou em legislação ambiental ou climática;
+
+f) Redução do número de anuidades, quando a OP tenha decidido financiar investimentos ao longo dos vários anos do programa operacional.
+
+2 - Os pedidos de alteração dos programas operacionais para o ano seguinte estão limitados a dois por ano, durante o período de execução do programa operacional, devendo ser apresentados até 30 de setembro do ano anterior, e decididos até 31 de dezembro do ano de apresentação.
+
+3 - Em casos excecionais devidamente fundamentados, a DGADR pode proferir a decisão até 20 de janeiro do ano seguinte ao pedido de alteração e prever que as despesas sejam elegíveis a partir de 1 de janeiro desse ano.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 430/2026/1 - Diário da República n.º 177/2026, Série I de 2026-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/430-2026-1169277028), em vigor a partir de 2026-09-12.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+###### Artigo 34.º — Fusões de organizações de produtores
+
+1 - As OP que procedam a uma fusão e que estejam a executar programas operacionais distintos podem:
+
+a) Prosseguir esses programas separadamente até 1 de janeiro do ano seguinte à fusão, devendo, contudo, apresentar um pedido de fusão dos referidos programas;
+
+b) Fundir os referidos programas operacionais, devendo, para tal, apresentar um pedido de fusão dos referidos programas, não podendo dessa fusão resultar um aumento superior a 50 % ou uma redução superior a 20 % do montante total dos fundos operacionais originais;
+
+c) Executar, em paralelo os programas operacionais distintos até à sua extinção natural, devendo para tal apresentar o respetivo pedido.
+
+2 - A pedido de uma OP o limite de 50 % fixado no n.º 1 do artigo 52.º do Regulamento Delegado (UE) 2022/126 pode ser aumentado para 60 %, quando o programa operacional é executado pela primeira vez por uma OP reconhecida que resulte da fusão de duas ou mais OP.
+
+3 - Os pedidos referidos no número anterior são apresentados junto da DGADR até 30 de setembro do ano em que se verificou a fusão e devem ser devidamente justificados e acompanhados de documentação que fundamente os motivos, o caráter e as respetivas implicações.
+
+4 - A análise e decisão dos pedidos são efetuados pela DGADR nos prazos previstos no artigo 30.º
+
+###### Artigo 35.º — Execução dos programas operacionais
+
+1 - Os programas operacionais são executados por períodos anuais, com início a 1 de janeiro e termo a 31 de dezembro, do ano seguinte à aprovação.
+
+2 - Nos casos previstos no n.º 6 do artigo 30.º e no n.º 3 do artigo 33.º a execução tem início a partir da data da respetiva aprovação do programa operacional ou da alteração, respetivamente.
+
+###### Artigo 36.º — Pedidos de pagamento
+
+1 - As OP devem apresentar os pedidos de pagamento ao IFAP, I. P., até 15 de fevereiro do ano seguinte ao da respetiva execução no âmbito do programa operacional.
+
+2 - A apresentação dos pedidos de pagamento efetua-se através de formulário próprio disponível no sítio da Internet do IFAP, I. P..
+
+3 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo ser instruídos com os respetivos documentos comprovativos, designadamente faturas e extratos bancários, bem como com o relatório anual de execução previsto na alínea k) do n.º 1 do artigo 25.º, ou outros documentos previstos no anexo II.
+
+4 - Os pedidos de pagamento relativos ao penúltimo ano do programa operacional devem ainda ser instruídos com o relatório de avaliação previsto na alínea l) do n.º 1 do artigo 25.º
+
+5 - Os pedidos de pagamento relativos a despesas programadas, mas não efetuadas, podem ser apresentados, se for comprovado que:
+
+a) As ações em causa não puderam ser efetuadas até 31 de dezembro do ano de execução do programa operacional por motivos que não dependem da OP em causa;
+
+b) Essas ações podem ser efetuadas até 30 de abril do ano seguinte àquele para o qual a ajuda é pedida;
+
+c) É mantida no fundo operacional uma contribuição equivalente da OP.
+
+6 - Caso sejam adotadas tabelas de custos unitários, os pedidos de pagamento reportam-se às ações efetivamente realizadas.
+
+7 - Em casos excecionais devidamente justificados, o IFAP, I. P., pode aceitar pedidos de pagamento apresentados após a data prevista no n.º 1, se os controlos necessários tiverem sido efetuados e não tiver ainda decorrido a data limite de pagamento prevista no n.º 1 do artigo 39.º
+
+8 - Os pedidos de pagamento são sujeitos a controlos administrativos e in loco, nos termos previstos, designadamente, no Regulamento (UE) 2021/2116.
+
+9 - Podem ser solicitados às OP elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento bastante para a exclusão parcial ou total das despesas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+###### Artigo 37.º — Adiantamentos
+
+1 - As OP podem apresentar um pedido de adiantamento relativo a um determinado ano num montante que não pode exceder 80 % do valor da assistência financeira da União aprovado para o programa operacional, estando o pagamento sujeito à constituição de uma garantia a favor do IFAP, I. P., de montante não inferior ao do adiantamento solicitado, em conformidade com o Regulamento Delegado (UE) 2022/127, da Comissão.
+
+2 - O pedido de adiantamento a que se refere o número anterior deve ser apresentado, para o ano em curso, até à data-limite do período de execução do programa operacional aprovado e antes da apresentação do pedido de pagamento.
+
+3 - A apresentação dos pedidos de adiantamento efetua-se através de formulário próprio disponível no sítio da Internet do IFAP, I. P.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04, produz efeitos a partir de 2025-01-01
+
+###### Artigo 38.º — Pagamentos parciais
+
+1 - As OP podem solicitar o pagamento da parte da assistência financeira correspondente às despesas resultantes do programa operacional, efetuadas durante os três meses precedentes, devendo os respetivos pedidos ser apresentados em abril, julho e outubro, junto do IFAP, I. P., acompanhado dos documentos comprovativos do pagamento efetuado.
+
+2 - A apresentação dos respetivos pedidos efetua-se através de formulário próprio disponível no sítio da Internet do IFAP, I. P.
+
+3 - O montante dos pagamentos parciais não pode exceder 80 % da parte da assistência financeira correspondente aos valores das despesas executadas no âmbito do programa operacional para o período em questão.
+
+###### Artigo 39.º — Pagamentos
+
+1 - O IFAP, I. P., efetua o pagamento da assistência financeira, relativa aos pedidos de pagamento completos e corretamente instruídos, até 15 de outubro do ano seguinte ao ano de execução do programa.
+
+2 - O pagamento da ajuda prevista no n.º 5 do artigo 36.º é efetuado mediante apresentação de prova da execução das despesas programadas, até 30 de abril do ano seguinte àquele para o qual a despesa em questão estava programada, tomando como base o direito à ajuda efetivamente estabelecido.
+
+3 - À ajuda apurada é deduzido, quando aplicável, o montante de apoio pago a título de adiantamento, sendo a garantia bancária referida no n.º 1 do artigo 37.º liberada no prazo máximo de 60 dias seguidos, contados a partir da data do pagamento do apoio.
+
+4 - Os pagamentos parciais a que se refere o artigo anterior são efetuados até ao último dia do terceiro mês seguinte ao da receção dos respetivos pedidos de pagamento, desde que completos e corretamente instruídos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+###### Artigo 40.º — Controlos
+
+1 - Os programas operacionais e os pedidos de pagamento estão sujeitos a ações de controlo administrativo e in loco, a realizar pelo IFAP, I. P., nos termos previstos, designadamente, no Regulamento (UE) 2021/2116.
+
+2 - O IFAP, I. P., no âmbito das suas atribuições, estabelece um plano de controlo da avaliação da manutenção das condições de elegibilidade e do cumprimento das obrigações e compromissos aplicáveis.
+
+3 - A DRAP ou os serviços competentes das Regiões Autónomas, da área onde se localize a sede das OP, procede à verificação periódica da manutenção das condições de elegibilidade e do cumprimento das obrigações e compromissos aplicáveis, de acordo com o plano anual elaborado pelo IFAP, I. P..
+
+4 - O IFAP, I. P., supervisiona a execução do plano de controlo previsto no n.º 1.
+
+5 - Os controlos devem incluir procedimentos para evitar o duplo financiamento da despesa com outros regimes de apoio.
+
+###### Artigo 41.º — Casos de força maior
+
+Caso se verifiquem casos de força maior que impeçam o cumprimento de obrigações, devem os mesmos ser comunicados à DGADR, acompanhados dos respetivos comprovativos, no prazo máximo de 30 dias úteis a contar da data da ocorrência.
+
+###### Artigo 42 — Incumprimento das obrigações
+
+1 - Em caso de incumprimento das obrigações previstas na presente portaria ou de qualquer irregularidade detetada, e sem prejuízo das regras estabelecidas no regulamento anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, são aplicáveis as disposições nacionais adotadas para efeitos do previsto no título iv do Regulamento (UE) 2021/2116, bem como as reduções e exclusões previstas no artigo 42.º-A.
+
+2 - Sem prejuízo do disposto no n.º 5 do artigo 59.º do Regulamento (EU) 2021/2116, quando o IFAP, I. P., após análise dos pedidos de pagamento globais, anuais ou de saldo, verifique um desvio entre o montante do apoio solicitado e o montante do apoio apurado é aplicável o seguinte:
+
+a) Caso o desvio seja inferior a 10 % o pagamento é efetuado na totalidade do montante do apoio apurado;
+
+b) Caso o desvio seja igual ou superior a 10 % e até 50 % inclusivamente, é aplicável uma redução no montante do apoio apurado, de valor igual à diferença detetada;
+
+c) Caso o desvio seja superior a 50 % não há lugar a qualquer pagamento.
+
+3 - [Revogado.]
+
+4 - [Revogado.]
+
+5 - [Revogado.]
+
+6 - [Revogado.]
+
+> Nota: [Artigo 9.º, Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441) As alterações introduzidas pela Portaria n.º 384/2026/1, de 25 de agosto aplicam-se aos programas operacionais executados no ano de 2026 e seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), em vigor a partir de 2026-08-26.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+###### Artigo 42.º-A — Reduções e exclusões
+
+1 - Para efeitos de aplicação do artigo anterior, são aplicáveis as reduções e exclusões dos apoios concedidos ou a conceder nos seguintes termos:
+
+a) O incumprimento da obrigação prevista na alínea a) do n.º 1 do artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, determina a exclusão dos pagamentos dos apoios realizados ou a realizar, das ações não executadas nos termos aprovados;
+
+b) O incumprimento das obrigações previstas na alínea d) do n.º 1 do artigo 25.º determina a exclusão dos pagamentos dos apoios realizados ou a realizar;
+
+c) O incumprimento da obrigação prevista na alínea h) do n.º 1 do artigo 25.º determina a exclusão dos pagamentos do apoio já realizados ou a realizar, relativos a ativos físicos adquiridos, cuja manutenção não foi assegurada;
+
+d) O incumprimento das obrigações previstas na alínea j) do n.º 1 do artigo 25.º determina a exclusão dos pagamentos do apoio, realizados ou a realizar, no âmbito dos programas operacionais relativamente aos quais não tenha sido assegurada a recolha, registo e conservação da informação relevante para a compilação dos indicadores de acompanhamento e avaliação previstos no anexo v do Regulamento de Execução (UE) 2022/1475;
+
+e) O incumprimento da obrigação prevista na alínea k) do n.º 1 do artigo 25.º determina a exclusão dos pagamentos do apoio, realizados ou a realizar, no âmbito do programa operacional, relativamente aos períodos de execução para os quais não tenham sido apresentados os relatórios anuais de execução, de acordo com a estrutura e conteúdo previstos no anexo v do Regulamento de Execução (UE) 2022/1475;
+
+f) O incumprimento da obrigação prevista na alínea l) do n.º 1 do artigo 25.º determina a exclusão dos pagamentos do apoio, realizados ou a realizar, no âmbito do programa operacional, quando não seja apresentado o relatório de avaliação do programa operacional, incluindo a análise dos progressos realizados relativamente aos objetivos globais definidos, com base nos indicadores de acompanhamento e avaliação aplicáveis;
+
+g) O incumprimento da obrigação prevista na alínea m) do n.º 1 do artigo 25.º determina exclusão dos pagamentos do apoio já realizados ou a realizar, relativos às despesas pagas por conta que não a conta única, ainda que não exclusiva, em situações não devidamente justificadas;
+
+h) O incumprimento da obrigação prevista na alínea n) do n.º 1 do artigo 25.º determina exclusão dos pagamentos do apoio, realizados ou a realizar, no âmbito do programa operacional, em caso de incumprimento das obrigações de comunicação e notificação previstas na presente portaria;
+
+i) O incumprimento da obrigação prevista no n.º 2 do artigo 25.º determina a exclusão dos pagamentos do apoio realizados ou a realizar, das ações para as quais não foram cumpridos os compromissos específicos;
+
+j) O incumprimento da obrigação prevista no n.º 1 do artigo 26.º determina a exclusão dos pagamentos do apoio realizados ou a realizar, dos investimentos em ativos corpóreos e incorpóreos, no âmbito dos programas operacionais, fora das instalações da OP ou das instalações dos seus membros produtores;
+
+k) O incumprimento da obrigação prevista no n.º 2 do artigo 26.º determina a exclusão dos pagamentos do apoio realizados ou a realizar, dos investimentos em ativos físicos, na posse de membros produtores que impedem o acesso aos mesmos durante o respetivo período de amortização fiscal;
+
+l) O incumprimento da obrigação prevista no n.º 3 do artigo 26.º determina o reembolso do investimento ou do seu valor residual, não só para o programa operacional em curso, como para programas operacionais anteriores, sendo o valor recuperado adicionado ao fundo operacional.
+
+2 - Ao incumprimento das obrigações previstas nas alíneas b), e) e f) do artigo 25.º são aplicáveis as sanções administrativas em matéria de reconhecimento das organizações de produtores, previstas no artigo 59.º do Regulamento Delegado (UE) 2017/891.
+
+> Nota: [Artigo 9.º, Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441) As alterações introduzidas pela Portaria n.º 384/2026/1, de 25 de agosto aplicam-se aos programas operacionais executados no ano de 2026 e seguintes.
+
+> Aditado pelo/a Artigo 7.º do/a [Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), em vigor a partir de 2026-08-26.
+
+### Capítulo V — Acompanhamento, avaliação e comunicações
+
+###### Artigo 43.º — Acompanhamento e avaliação
+
+1 - Os programas operacionais são objeto de acompanhamento através de indicadores comuns de desempenho, nos termos do anexo v do Regulamento de Execução (UE) 2022/1475.
+
+2 - A DGADR implementa um sistema de recolha, registo e conservação da informação relevante, em suporte eletrónico, para a compilação dos indicadores referidos no número anterior, com base na informação fornecida pelas OP prevista na alínea j) do n.º 1 do artigo 25.º, e comunica esses dados ao GPP.
+
+###### Artigo 44.º — Grupo específico de acompanhamento
+
+Sem prejuízo do acompanhamento que é efetuado através dos comités de acompanhamento do PEPAC, pode ser criado através de despacho do membro do Governo responsável pela área da agricultura e alimentação, um grupo específico de acompanhamento, de natureza consultiva, para a intervenção setorial das frutas e produtos hortícolas.
+
+###### Artigo 45.º — Contributo para o desempenho do PEPAC Portugal
+
+Para efeito do contributo para os objetivos específicos, bem como para o cumprimento das metas dos indicadores de resultados do PEPAC Portugal, a tabela que estabelece a ligação entre as intervenções, os objetivos específicos e os indicadores de resultados estabelecidos, respetivamente, no artigo 6.º e no anexo I do Regulamento (UE) 2021/2115, consta do anexo V à presente portaria, da qual faz parte integrante.
+
+###### Artigo 46.º — Comunicações
+
+1 - As OP comunicam à DGADR, juntamente com a apresentação dos programas operacionais ou respetivos pedidos de alteração para o ano em curso, os montantes previsionais para o ano seguinte da assistência financeira e das contribuições dos seus membros ou da própria OP para os fundos operacionais, discriminando entre as despesas relativas a medidas de prevenção e gestão de crises e as relativas a outras medidas.
+
+2 - No caso de um programa operacional em curso que não seja objeto de pedido de alteração, a comunicação referida no número anterior é efetuada até 15 de outubro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 47.º — Disposição transitória
+
+1 - Para o ano 2023, os programas operacionais podem ser apresentados durante um período de 15 dias úteis a contar do dia seguinte à data de publicação da presente portaria, sendo a decisão notificada até 10 dias úteis após o termo do referido período.
+
+2 - Os programas operacionais aprovados para o ano 2023, são executados de acordo com o período definido no n.º 2 do artigo 35.º
+
+3 - Para os Programas Operacionais que terão o início da sua execução em 2024, o prazo previsto no n.º 1 do artigo 27.º é prorrogado até ao dia 13 de outubro de 2023.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2023 - Diário da República n.º 189/2023, Série I de 2023-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/291-2023-222151282), em vigor a partir de 2023-09-22, produz efeitos a partir de 2023-02-28
+
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.
+
+## Anexo I — Intervenções elegíveis
+
+(a que se refere o artigo 9.º)
+
+[ver documento original]
+
+> Nota: [Declaração de Retificação n.º 37/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2025-934278890) As alterações introduzidas pela Portaria n.º 288/2025/1, de 19 de agosto, produzem efeitos no dia 13 de agosto de 2025.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 228/2026/1 - Diário da República n.º 97/2026, Série I de 2026-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/228-2026-1124493238), em vigor a partir de 2026-05-21.
+
+> Retificado pelo/a [Declaração de Retificação n.º 37/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2025-934278890), produz efeitos a partir de 2025-08-13
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 288/2025/1 - Diário da República n.º 158/2025, Série I de 2025-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/288-2025-932537186)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+## Anexo II — Condições de elegibilidade, compromissos específicos e condições de pagamento
+
+(a que se referem n.º 3 do artigo 9.º, o artigo 11.º, o n.º 3 do artigo 13.º, o n.º 1 do artigo 23.º, o n.º 2 do artigo 25.º e o n.º 3 do artigo 36.º)
+
+[ver documento original]
+
+> Nota: [Declaração de Retificação n.º 37/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2025-934278890) As alterações introduzidas pela Portaria n.º 288/2025/1, de 19 de agosto, produzem efeitos no dia 13 de agosto de 2025.
+
+> Nota: [Artigo 6.º, Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028) As alterações à tipologia B.1.10.1 do presente anexo produzem efeitos a partir de 1 de janeiro de 2025.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 228/2026/1 - Diário da República n.º 97/2026, Série I de 2026-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/228-2026-1124493238), em vigor a partir de 2026-05-21.
+
+> Retificado pelo/a [Declaração de Retificação n.º 37/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2025-934278890), produz efeitos a partir de 2025-08-13
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 288/2025/1 - Diário da República n.º 158/2025, Série I de 2025-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/288-2025-932537186)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+## Anexo III — Montantes de apoio às retiradas de mercado
+
+(a que se referem as alíneas b) do n.º 1 e alínea b) do n.º 2 do artigo 15.º)
+
+| Produto | Apoio (EUR/100 kg) |
+| --- | --- |
+| Abóbora | 10,91 |
+| Alface | 24,36 |
+| Alho-francês | 26,10 |
+| Ameixa | 46,08 |
+| Amora | 280,12 |
+| Brócolos | 26,23 |
+| Cebola | 18,52 |
+| Cenoura | 11,92 |
+| Couves | 16,82 |
+| Curgete | 41,26 |
+| Feijão-verde | 63,78 |
+| Framboesa | 261,63 |
+| Meloa | 59,48 |
+| Mirtilo | 192,62 |
+| Morango | 108,22 |
+| Pepino | 28,55 |
+| Pimento | 33,88 |
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 228/2026/1 - Diário da República n.º 97/2026, Série I de 2026-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/228-2026-1124493238), em vigor a partir de 2026-05-21.
+
+## Anexo IV — Custos de transporte relacionados com as operações de distribuição gratuita
+
+(a que se refere o n.º 3 do artigo 15.º)
+
+| Distância entre o ponto de retirada e o local de entrega | Despesas de Transporte (€/t)(1) |
+| --- | --- |
+| Inferior ou igual a 25 km | 20.1 |
+| Superior a 25 km mas inferior ou igual a 200 km | 45.6 |
+| Superior a 200 km mas inferior ou igual a 350 km | 59.9 |
+| Superior a 350 km mas inferior ou igual a 500 km | 80.0 |
+| Superior a 500 km mas inferior ou igual a 750 km | 105.1 |
+| Distância superior a 750 km | 119.4 |
+| (1) Suplemento de transporte frigorífico (€/t): 9.4 |  |
+
+## Anexo V — Tabela de ligação entre intervenções, Objetivos Específicos e indicadores de resultado
+
+(a que se refere o artigo 45.º)
+
+| Intervenção | Objetivos Específicos | Indicadores de Resultado |
+| --- | --- | --- |
+| Gestão do solo | OE2- Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização; OE3- Melhorar a posição dos agricultores na cadeia de valor. | R.9 - Modernização das explorações agrícolas R.10 - Melhor organização da cadeia de abastecimento R.11 - Concentração da oferta |
+| Gestão da água | OT- Modernizar as áreas agrícolas e rurais, através da promoção e partilha de conhecimentos, inovação e digitalização na agricultura e nas zonas rurais, e através do incentivo à sua utilização pelos agricultores, em virtude da melhoria do acesso à investigação, à inovação, ao intercâmbio de conhecimentos e à formação; OE2- Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização; OE3- Melhorar a posição dos agricultores na cadeia de valor; OE4- Contribuir para a atenuação das alterações climáticas e a adaptação às mesmas, nomeadamente através da redução das emissões de gases com efeito de estufa e do reforço do sequestro de carbono, bem como promover a energia sustentável; OE5- Promover o desenvolvimento sustentável e uma gestão eficiente dos recursos naturais como a água, os solos e o ar, nomeadamente através da redução da dependência de substâncias químicas. | R.3 - Digitalizar a agricultura R.9 - Modernização das explorações agrícolas R.10 - Melhor organização da cadeia de abastecimento R.11 - Concentração da oferta R.16 - Investimentos relacionados com o clima R.26 - Investimento relacionado com os recursos naturais R.27 - Desempenho em matéria de ambiente ou de clima através do investimento em zonas rurais |
+| Gestão de energia | OT- Modernizar as áreas agrícolas e rurais, através da promoção e partilha de conhecimentos, inovação e digitalização na agricultura e nas zonas rurais, e através do incentivo à sua utilização pelos agricultores, em virtude da melhoria do acesso à investigação, à inovação, ao intercâmbio de conhecimentos e à formação; OE2- Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização; OE3- Melhorar a posição dos agricultores na cadeia de valor; OE4- Contribuir para a atenuação das alterações climáticas e a adaptação às mesmas, nomeadamente através da redução das emissões de gases com efeito de estufa e do reforço do sequestro de carbono, bem como promover a energia sustentável; OE5- Promover o desenvolvimento sustentável e uma gestão eficiente dos recursos naturais como a água, os solos e o ar, nomeadamente através da redução da dependência de substâncias químicas. | R.3 - Digitalizar a agricultura R.9 - Modernização das explorações agrícolas R.10 - Melhor organização da cadeia de abastecimento R.11 - Concentração da oferta R.15 - Energia renovável proveniente da agricultura, da silvicultura e de outras fontes renováveis R.26 - Investimento relacionado com os recursos naturais R.27 - Desempenho em matéria de ambiente ou de clima através do investimento em zonas rurais |
+| Gestão de Resíduos | OE2- Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização; OE3- Melhorar a posição dos agricultores na cadeia de valor; OE4- Contribuir para a atenuação das alterações climáticas e a adaptação às mesmas, nomeadamente através da redução das emissões de gases com efeito de estufa e do reforço do sequestro de carbono, bem como promover a energia sustentável; OE5- Promover o desenvolvimento sustentável e uma gestão eficiente dos recursos naturais como a água, os solos e o ar, nomeadamente através da redução da dependência de substâncias químicas. | R.9 - Modernização das explorações agrícolas R.10 - Melhor organização da cadeia de abastecimento R.11 - Concentração da oferta R.16 - Investimentos relacionados com o clima R.26 - Investimento relacionado com os recursos naturais R.27 - Desempenho em matéria de ambiente ou de clima através do investimento em zonas rurais |
+| Proteção das culturas | OE3- Melhorar a posição dos agricultores na cadeia de valor. | R.10 - Melhor organização da cadeia de abastecimento R.11 - Concentração da oferta |
+| Instalação e reestruturação | OT- Modernizar as áreas agrícolas e rurais, através da promoção e partilha de conhecimentos, inovação e digitalização na agricultura e nas zonas rurais, e através do incentivo à sua utilização pelos agricultores, em virtude da melhoria do acesso à investigação, à inovação, ao intercâmbio de conhecimentos e à formação; OE2- Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização; OE3- Melhorar a posição dos agricultores na cadeia de valor. | R.3 - Digitalizar a agricultura R.9 - Modernização das explorações agrícolas R.10 - Melhor organização da cadeia de abastecimento R.11 - Concentração da oferta |
+| Produção experimental | OT- Modernizar as áreas agrícolas e rurais, através da promoção e partilha de conhecimentos, inovação e digitalização na agricultura e nas zonas rurais, e através do incentivo à sua utilização pelos agricultores, em virtude da melhoria do acesso à investigação, à inovação, ao intercâmbio de conhecimentos e à formação; OE3- Melhorar a posição dos agricultores na cadeia de valor. | R.1 - Melhorar o desempenho através do conhecimento e da inovação R.11 - Concentração da oferta |
+| - Aconselhamento e assistência técnica - Formação | OT- Modernizar as áreas agrícolas e rurais, através da promoção e partilha de conhecimentos, inovação e digitalização na agricultura e nas zonas rurais, e através do incentivo à sua utilização pelos agricultores, em virtude da melhoria do acesso à investigação, à inovação, ao intercâmbio de conhecimentos e à formação; OE3- Melhorar a posição dos agricultores na cadeia de valor; OE5- Promover o desenvolvimento sustentável e uma gestão eficiente dos recursos naturais como a água, os solos e o ar, nomeadamente através da redução da dependência de substâncias químicas. | R.1 - Melhorar o desempenho através do conhecimento e da inovação R.11 - Concentração da oferta R.28 - Desempenho em matéria de ambiente ou de clima através do conhecimento e da inovação |
+| - Comercialização - Promoção, comunicação e marketing - Rastreabilidade e qualidade | OE3- Melhorar a posição dos agricultores na cadeia de valor. | R.10 - Melhor organização da cadeia de abastecimento R.11 - Concentração da oferta |
+| Avaliação e certificação ambiental | OE3- Melhorar a posição dos agricultores na cadeia de valor; OE5- Promover o desenvolvimento sustentável e uma gestão eficiente dos recursos naturais como a água, os solos e o ar, nomeadamente através da redução da dependência de substâncias químicas. | R.10 - Melhor organização da cadeia de abastecimento R.11 - Concentração da oferta R.27 - Desempenho em matéria de ambiente ou de clima através do investimento em zonas rurais |
+| - Fundos mutualistas - Reposição de potencial produtivo - Retiradas do mercado - Seguros de colheita | OE1- Apoiar o rendimento viável das explorações agrícolas e a resiliência do sector agrícola em toda a UE, a fim de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como de garantir a sustentabilidade económica da produção agrícola na UE; OE3- Melhorar a posição dos agricultores na cadeia de valor. | R.5 - Gestão de riscos R.10 - Melhor organização da cadeia de abastecimento R.11 - Concentração da oferta |
+
+116206994
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 6/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/6-2025-901998028), em vigor a partir de 2025-01-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 228/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/228-2023-215980345), em vigor a partir de 2023-08-20

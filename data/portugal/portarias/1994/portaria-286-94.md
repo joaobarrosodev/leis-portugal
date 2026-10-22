@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:263882:por
+title: Portaria n.º 286/94
+short_title: null
+summary: Adita um lugar da carreira técnica superior ao quadro de pessoal da Secretaria-Geral da Presidência da República
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças
+proposing_entity: null
+official_number: 286/94
+official_date: null
+publication_date: '1994-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/1994, Série I-B de 1994-05-13
+  number: '111'
+  series: I
+  supplement: null
+  pages: 2513 - 2513
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/05/111b00/25132513.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/286/1994/05/13/p/dre/pt/html
+  oj: null
+  dre: '263882'
+  dre_path: /dr/detalhe/portaria/286-1994-263882
+  internal: pt:dre:263882:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-1994-263882
+  metadata_url: https://data.dre.pt/eli/port/286/1994/05/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-1994-263882
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-04-10T00:00:00Z'
+integrity:
+  source_sha256: 1079ac1258f3eabbf2971bd9bea55fc549bd1fdfb271a5caaa0d9e0268c23955
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-286-263882.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Lugares
+- Presidência da República
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:468871:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 286/94
+
+de 13 de Maio
+
+O quadro de pessoal da Secretaria-Geral da Presidência da República foi aprovado pelo [Decreto-Lei n.º 513-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-b-1979-393778), de 24 de Dezembro, tendo sido adequado aos princípios e regras do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, pela [Portaria n.º 461/87](https://diariodarepublica.pt/dr/detalhe/portaria/461-1987-421818), de 2 de Junho.
+
+O exercício das atribuições daquele serviço em matéria de gestão e conservação do património impõe que ali seja criado um lugar da carreira técnica superior.
+
+Assim:
+
+Manda o Governo, pelo Primeiro-Ministro e pelo Ministro das Finanças, ao abrigo do n.º 2 do artigo 13.º do [Decreto-Lei n.º 513-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-b-1979-393778), de 24 de Dezembro, que ao quadro de pessoal da Secretaria-Geral da Presidência da República, constante do anexo I à [Portaria n.º 461/87](https://diariodarepublica.pt/dr/detalhe/portaria/461-1987-421818), de 2 de Junho, seja aditado um lugar da carreira técnica superior, de acordo com o mapa anexo ao presente diploma, do qual faz parte integrante.
+
+Presidência do Conselho de Ministros e Ministério das Finanças.
+
+**Assinada em 5 de Maio de 1994.**
+
+Pelo Primeiro-Ministro, Paulo Jorge de Assunção Rodrigues Teixeira Pinto, Secretário de Estado da Presidência do Conselho de Ministros. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/111b00/25132513.pdf))](https://files.diariodarepublica.pt/1s/1994/05/111b00/25132513.pdf)

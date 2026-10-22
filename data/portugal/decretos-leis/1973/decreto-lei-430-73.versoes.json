@@ -1,0 +1,385 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:419811:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1973-915862341",
+ "dre_path": "/dr/detalhe/decreto-lei/430-1973-419811",
+ "source_lastmod": "2025-05-05",
+ "versions": [
+  {
+   "date": "1973-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "915867697",
+    "915867698",
+    "915867699",
+    "915867700",
+    "915867701",
+    "915867702",
+    "915867703",
+    "915867704",
+    "915867705",
+    "915867706",
+    "915867707",
+    "915867708",
+    "915867709",
+    "915867710",
+    "915867711",
+    "915867712",
+    "915867713",
+    "915867714",
+    "915867715",
+    "915867716",
+    "915867717",
+    "915867718"
+   ]
+  },
+  {
+   "date": "1989-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:519003:por",
+     "title": "Decreto-Lei n.º 442-B/88",
+     "published": "1988-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/442-b-1988-519003"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "915867697",
+    "915867698",
+    "915867699",
+    "915867700",
+    "915867701",
+    "915867702",
+    "915867703",
+    "915867704",
+    "915867705",
+    "915867706",
+    "915867707",
+    "915867708",
+    "915867709",
+    "916755067",
+    "915867711",
+    "915867712",
+    "915867713",
+    "915867714",
+    "916755070",
+    "915867716",
+    "915867717",
+    "915867718",
+    "915867719"
+   ]
+  },
+  {
+   "date": "2000-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:411872:por",
+     "title": "Decreto-Lei n.º 36/2000",
+     "published": "2000-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2000-411872"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "915867697",
+    "915867698",
+    "915867699",
+    "915867700",
+    "915867701",
+    "915867702",
+    "915867703",
+    "915867704",
+    "915867705",
+    "916875801",
+    "915867707",
+    "915867708",
+    "915867709",
+    "916755067",
+    "915867711",
+    "915867712",
+    "915867713",
+    "915867714",
+    "916755070",
+    "915867716",
+    "915867717",
+    "915867718",
+    "915867719"
+   ]
+  },
+  {
+   "date": "2002-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:540216:por",
+     "title": "Decreto-Lei n.º 323/2001",
+     "published": "2001-12-17",
+     "dre_path": "/dr/detalhe/decreto-lei/323-2001-540216"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "915867697",
+    "915867698",
+    "915867699",
+    "915867700",
+    "915867701",
+    "915867702",
+    "915867703",
+    "915867704",
+    "915867705",
+    "916875801",
+    "915867707",
+    "915867708",
+    "915867709",
+    "916755067",
+    "915867711",
+    "916875802",
+    "915867713",
+    "915867714",
+    "916755070",
+    "915867716",
+    "915867717",
+    "915867718",
+    "915867719"
+   ]
+  }
+ ],
+ "fragments": {
+  "915867697": {
+   "fragment_id": "915862342",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 430/73\n\nde 25 de Agosto\n\nA Lei n.º 4/73, de 4 de Junho, consagrou a figura dos agrupamentos complementares de empresas, instrumento de política económica bastante divulgado noutros países e que entre nós contava já algumas tentativas de realização, mas para as quais faltava adequado suporte jurídico. Crê-se que o novo instituto contribuirá para resolver muitos problemas que sobretudo as empresas de pequena ou média dimensão defrontam em vários domínios.\n\nTudo aconselha, na verdade, a revigorar a eficiência e a capacidade competitiva de tais empresas, que representam ainda uma parcela muito importante do nosso sistema produtivo e que, conforme a experiência estrangeira, continuam a desempenhar papel de relevo mesmo em estruturas economicamente mais evoluídas. Daí que se impusesse a pronta regulamentação da lei, dentro do espírito de uma rápida aceleração da economia nacional.\n\nOptou-se pelo critério de evitar a repetição dos princípios já consagrados nas bases aprovadas pela Assembleia Nacional. É que não concorrem efectivamente as razões que algumas vezes aconselham o sistema inverso.\n\nAs disposições do presente diploma são, na maioria, de natureza supletiva. As que têm carácter imperativo visam principalmente assegurar que os agrupamentos complementares de empresas se constituam e funcionem segundo os princípios que orientaram a sua criação, de modo que justifiquem os amplos benefícios fiscais que lhes foram concedidos e não possam, pelo contrário, ser meios para fraudar o interesse nacional e a justiça tributária.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "915867698": {
+   "fragment_id": "915862343",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO agrupamento complementar de empresas pode ter por fim acessório a realização e partilha de lucros apenas quando autorizado expressamente pelo contrato constitutivo."
+  },
+  "915867699": {
+   "fragment_id": "915862344",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O contrato do agrupamento fica sujeito às publicações exigidas por lei para a constituição das sociedades comerciais.\n\n2. As modificações do contrato só podem ser deliberadas por maioria não inferior a três quartos do número de agrupados e devem obedecer às exigências de forma e de publicidade requeridas para a constituição do agrupamento."
+  },
+  "915867700": {
+   "fragment_id": "915862345",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A firma do agrupamento poderá consistir numa denominação particular ou ser formada pelos nomes ou firmas de todos os seus membros ou de, pelo menos, um deles.\n\n2. Quando da firma do agrupamento não constarem os nomes ou firmas de todos os seus membros, deverão estes ser especificados em todas as publicações obrigatórias e em todos os actos ou contratos escritos em que o agrupamento intervenha. Se, porém, o número de agrupados for superior a cinco, bastará a especificação do nome ou firma de cinco."
+  },
+  "915867701": {
+   "fragment_id": "915862346",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara fins de registo, o agrupamento é equiparado às sociedades comerciais."
+  },
+  "915867702": {
+   "fragment_id": "915862347",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA capacidade do agrupamento não compreende:\n\na) A aquisição do direito de propriedade ou de outros direitos reais sobre coisas imóveis, salvo se o imóvel se destinar a instalação da sua sede, delegação ou serviço próprio;\n\nb) A participação em sociedades civis ou comerciais ou ainda em outros agrupamentos complementares de empresas;\n\nc) O exercício de cargos sociais em quaisquer sociedades, associações ou agrupamentos complementares de empresas."
+  },
+  "915867703": {
+   "fragment_id": "915862348",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A administração é exercida por uma ou mais pessoas, nos termos designados no contrato.\n\n2. Compete à assembleia geral a nomeação ou exoneração dos administradores ou gerentes não designados no contrato, bem como estabelecer as remunerações, quando devidas.\n\n3. É aplicável aos administradores ou gerentes estranhos ao agrupamento, ainda que tenham sido nomeados no contrato, o disposto no artigo 156.º do Código Comercial, reportando-se a todos os membros a maioria referida no § único do mesmo artigo."
+  },
+  "915867704": {
+   "fragment_id": "915862349",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs deliberações dos sócios são tomadas à pluralidade de votos, contando-se um voto por cada sócio, salvo disposição em contrário do contrato."
+  },
+  "915867705": {
+   "fragment_id": "915862350",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A administração prestará anualmente contas.\n\n2. Não havendo disposição da lei e do contrato sobre a fiscalização da gestão, a assembleia geral poderá designar, pelo período máximo de três anos, renovável, uma ou mais pessoas para fiscalizar a gestão e dar parecer sobre as contas."
+  },
+  "915867706": {
+   "fragment_id": "915862351",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A escritura de constituição poderá especificar os actos proibidos aos agrupados para efeitos do disposto nas artigos 157.º e 158.º do Código Comercial.\n\n2. Na falta de disposição do contrato, é proibida aos membros do agrupamento actividade concorrente da que este tenha por abjecto."
+  },
+  "915867707": {
+   "fragment_id": "915862352",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA admissão de novos membros do agrupamento só pode ter lugar nos termos do contrato ou, se este for omisso, por deliberação unânime dos agrupados."
+  },
+  "915867708": {
+   "fragment_id": "915862353",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A participação dos membros no agrupamento, tenha este ou não capital próprio, não pode ser representada por títulos negociáveis.\n\n2. A transmissão, entre vivos ou por morte, da parte de cada agrupado só pode verificar-se juntamente com a transmissão do respectivo estabelecimento ou empresa.\n\n3. Depende do consentimento do agrupamento a atribuição ao transmissário da qualidade de novo membro."
+  },
+  "915867709": {
+   "fragment_id": "915862354",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. O membro do agrupamento pode exonerar-se nos termos autorizados no contrato, ou tendo-se oposto a modificação neste introduzida, ou ainda se houverem decorrido pelo menos dez anos desde a sua admissão e estiverem cumpridas as obrigações por ele assumidas.\n\n2. A exoneração produzirá efeito vinte dias depois de aviso à administração, por carta registada com aviso de recepção."
+  },
+  "915867710": {
+   "fragment_id": "915862355",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA exclusão de membro do agrupamento compete à assembleia geral e pode ter lugar quando:\n\na) O agrupamento deixar de exercer a actividade económica para a qual o agrupamento serve de complemento;\n\nb) For declarado falido ou insolvente;\n\nc) Estiver em mora na contribuição que lhe caiba para as despesas do agrupamento, depois de notificado pela administração, em carta registada, para satisfazer o pagamento no prazo que lhe seja fixado e nunca inferior a trinta dias."
+  },
+  "915867711": {
+   "fragment_id": "915862356",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA liquidação da parte do membro exonerado ou excluído e ainda a do transmissário não admitido pelo agrupamento será feita de harmonia com o disposto no artigo 1021.º do Código Civil."
+  },
+  "915867712": {
+   "fragment_id": "915862357",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. O agrupamento que exerça actividade acessória directamente lucrativa não autorizada pelo contrato, ou que exerça de modo principal actividade directamente lucrativa autorizada como acessória, fica, para todos os efeitos, incluindo os fiscais, sujeito às regras das sociedades comerciais em nome colectivo.\n\n2. Os administradores ou gerentes do agrupamento que se encontre nas circunstâncias referidas no número anterior são punidos, individualmente, com multa de 50000$00 a 500000$00, sem prejuízo da responsabilidade solidária de todos eles."
+  },
+  "915867713": {
+   "fragment_id": "915862358",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O agrupamento dissolve-se:\n\na) Nos termos do contrato;\n\nb) A requerimento do Ministério Público ou de qualquer interessado, quando violar as normas legais que disciplinam a concorrência ou persistentemente se dedicar, como objecto principal, a actividade directamente lucrativa;\n\nc) A requerimento de membro que houver respondido por obrigações do agrupamento vencidas e em mora.\n\n2. A morte, interdição, inabilitação, falência, insolvência, dissolução ou vontade de um ou mais membros não determina a dissolução do agrupamento, salvo disposição em contrário do contrato."
+  },
+  "915867714": {
+   "fragment_id": "915862359",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO saído da liquidação do agrupamento é partilhado entre os agrupados na proporção das suas entradas para a formação do capital próprio, acrescidas das contribuições que tenham satisfeito."
+  },
+  "915867715": {
+   "fragment_id": "915862360",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO agrupamento é obrigado, dentro do prazo estabelecido para as sociedades comerciais, a participar à repartição de finanças competente a sua constituição e a sua dissolução e ainda a remeter-lhe anualmente cópia do balanço aprovado."
+  },
+  "915867716": {
+   "fragment_id": "915862361",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. O agrupamento que pretenda obter os estímulos financeiros ou as benefícios a que se refere o n.º 4 da base VI da Lei n.º 4/73, de 4 de Junho, formulará a pretensão, documentada com o programa da sua actividade e com os demais elementos de estudo reputados convenientes.\n\n2. Compete ao Ministro das Finanças, ouvido o Ministro da Economia, decidir a pretensão a que se refere o número anterior."
+  },
+  "915867717": {
+   "fragment_id": "915862362",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nNo caso de omissão da lei e deste regulamento, são aplicáveis aos agrupamentos complementares de empresas as disposições que regem as sociedades comerciais em nome colectivo."
+  },
+  "915867718": {
+   "fragment_id": "915862363",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. As sociedades ou associações já constituídas com objectivos análogos aos designados na lei para os agrupamentos complementares de empresas podem transformar-se nestes, sem perder a sua personalidade, desde que respeitem as condições previstas na mesma lei e no presente regulamento.\n\n2. Os agrupamentos complementares de empresas não podem transformar-se."
+  },
+  "916755067": {
+   "fragment_id": "915862355",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 259/1973, Série I de 1973-11-06](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-412606), produz efeitos a partir de 1973-08-30"
+   ],
+   "markdown": "###### Artigo 13.º\n\nA exclusão de membro do agrupamento compete à assembleia geral e pode ter lugar quando:\n\na) O agrupado deixar de exercer a actividade económica para a qual o agrupamento serve de complemento;\n\nb) For declarado falido ou insolvente;\n\nc) Estiver em mora na contribuição que lhe caiba para as despesas do agrupamento, depois de notificado pela administração, em carta registada, para satisfazer o pagamento no prazo que lhe seja fixado e nunca inferior a trinta dias.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 259/1973, Série I de 1973-11-06](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-412606), produz efeitos a partir de 1973-08-30"
+  },
+  "916755070": {
+   "fragment_id": "915862360",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1989-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 442-B/88 - Diário da República n.º 277/1988, 2º Suplemento, Série I de 1988-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), em vigor a partir de 1989-01-01"
+   ],
+   "markdown": "###### Artigo 18.º\n\nO agrupamento é obrigado, dentro do prazo estabelecido para as sociedades comerciais, a participar à repartição de finanças competente a sua constituição e a sua dissolução e ainda a remeter-lhe anualmente cópia do balanço aprovado.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 442-B/88 - Diário da República n.º 277/1988, 2º Suplemento, Série I de 1988-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), em vigor a partir de 1989-01-01"
+  },
+  "915867719": {
+   "fragment_id": "915862364",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 8 de Agosto de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "916875801": {
+   "fragment_id": "915862351",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2000-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1.  O contrato pode especificar os actos proibidos aos agrupados para efeitos do disposto no artigo 180.º do Código das Sociedades Comerciais.\n\n2. Na falta de disposição do contrato, é proibida aos membros do agrupamento actividade concorrente da que este tenha por abjecto.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01"
+  },
+  "916875802": {
+   "fragment_id": "915862357",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1. O agrupamento que exerça actividade acessória directamente lucrativa não autorizada pelo contrato, ou que exerça de modo principal actividade directamente lucrativa autorizada como acessória, fica, para todos os efeitos, incluindo os fiscais, sujeito às regras das sociedades comerciais em nome colectivo.\n\n2. Os administradores ou gerentes do agrupamento que se encontre nas circunstâncias referidas no número anterior são punidos, individualmente, com multa de (euro) 249,40 a (euro) 2493,99, sem prejuízo da responsabilidade solidária de todos eles.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01"
+  }
+ }
+}

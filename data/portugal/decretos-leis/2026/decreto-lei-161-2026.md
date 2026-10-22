@@ -1,0 +1,322 @@
+---
+schema_version: '1.0'
+id: pt:dre:1154275218:por
+title: Decreto-Lei n.º 161/2026
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 27/2026, de 5 de junho, altera o Código do Imposto Único
+  de Circulação.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Finanças
+official_number: 161/2026
+official_date: null
+publication_date: '2026-08-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 149/2026, Série I de 2026-08-04
+  number: '149'
+  series: I
+  supplement: null
+  pages: 10 - 15
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/08/14900/0001000015.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/161/2026/08/04/p/dre/pt/html
+  oj: null
+  dre: '1154275218'
+  dre_path: /dr/detalhe/decreto-lei/161-2026-1154275218
+  internal: pt:dre:1154275218:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2026-1154275218
+  metadata_url: https://data.dre.pt/eli/dec-lei/161/2026/08/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2026-1154275218
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-08-04T00:00:00Z'
+integrity:
+  source_sha256: b678e3f8fcd24373bbee0f7d48e9904f8f957dd640a182cbc410be2b6ac5f90d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2026/DRE-2026-161-1154275218.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade Tributária e Aduaneira
+- Cobrança de Impostos
+- Código do Imposto Único de Circulação
+- Pagamento
+- Imposto Único de Circulação
+- Veículo
+- Liquidação de Pagamentos
+- Pagamento a Prestações
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/125/2021/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/125/2021/12/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/27/2026/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2026/06/05/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 161/2026
+
+de 4 de agosto
+
+A Agenda para a Simplificação Fiscal, aprovada pelo XXIV Governo e cujo seguimento tem sido assegurado pelo XXV Governo, tem em vista a promoção da competitividade da economia portuguesa, através da redução dos custos de cumprimento das obrigações fiscais, do acréscimo de transparência e inteligibilidade das normas tributárias, da simplificação dos procedimentos e do reforço da estabilidade e da justiça tributárias.
+
+Neste contexto, a referida Agenda prevê a adoção de medidas dirigidas à simplificação da liquidação e pagamento do imposto único de circulação (IUC), contribuindo para uma maior previsibilidade e eficiência na relação entre os contribuintes e a administração tributária.
+
+O IUC, de periodicidade anual, é atualmente exigível na data do aniversário da matrícula do veículo, sendo a liquidação efetuada pelo sujeito passivo através do portal das finanças. Este modelo revela-se suscetível de gerar constrangimentos operacionais e administrativos, na medida em que não existe um prazo uniforme de pagamento. Tal circunstância obriga os contribuintes, em especial os detentores de múltiplos veículos, a proceder a verificações mensais, aumentando o risco de incumprimento involuntário.
+
+Importa, por conseguinte, prosseguir com a adoção de medidas que promovam o cumprimento voluntário das obrigações tributárias, agilizando procedimentos e reforçando a confiança e a transparência na relação tributária, prevenindo situações suscetíveis de penalizar o contribuinte.
+
+Para o efeito, o presente decreto-lei prevê que o IUC passe a ser liquidado anualmente, de forma centralizada, por sujeito passivo, abrangendo a totalidade dos veículos do sujeito passivo. O pagamento pode ser efetuado numa única data, no mês de abril, com possibilidade de fracionamento em prestações, segundo um modelo semelhante ao aplicável ao imposto municipal sobre imóveis.
+
+Paralelamente, clarifica-se o acesso dos contribuintes aos meios de garantia previstos na lei geral tributária e no Código de Procedimento e de Processo Tributário, estabelecendo-se que os prazos de reclamação e impugnação se contam a partir do termo do prazo para pagamento voluntário da primeira ou única prestação.
+
+Adicionalmente, consagra-se uma norma transitória para o ano de 2027, que assegura a neutralidade fiscal da medida, permitindo aos sujeitos passivos efetuar o pagamento do imposto numa única prestação, no mês de outubro, quando o montante do imposto seja igual ou inferior a 500 €, ou em duas prestações, nos meses de julho e outubro, nos restantes casos. Prevê-se, ainda, a possibilidade de o sujeito passivo requerer a anulação da liquidação do IUC referente ao ano de 2027 nas situações em que ocorra o cancelamento da matrícula de veículo das categorias A, B, C, D ou E durante esse ano e antes da data de aniversário da matrícula.
+
+Com estas alterações legislativas, reforçam-se, assim, a previsibilidade, a transparência e a eficiência do sistema tributário, promovendo uma relação mais equilibrada entre a administração fiscal e os contribuintes. Assegura-se, igualmente, a neutralidade fiscal da medida, garantindo-se, designadamente através da disposição transitória, que as novas regras não acarretarão qualquer esforço financeiro acrescido para o contribuinte.
+
+Assim:
+
+No uso da autorização legislativa concedida pela [Lei n.º 27/2026](https://diariodarepublica.pt/dr/detalhe/lei/27-2026-1129514949), de 5 de junho, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à alteração ao Código do Imposto Único de Circulação (Código do IUC), aprovado como anexo ii à [Lei n.º 22-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/22-a-2007-226204), de 29 de junho.
+
+###### Artigo 2.º — Alteração ao Código do Imposto Único de Circulação
+
+Os artigos 4.º, 5.º, 7.º, 16.º, 17.º, 20.º e 24.º do Código do IUC, passam a ter a seguinte redação:
+
+«Artigo 4.º
+
+[...]
+
+1 - [...]
+
+2 - O período de tributação corresponde ao ano civil, com exceção do ano da matrícula ou registo do veículo em território nacional, em que aquele período se inicia na data da matrícula ou registo e termina a 31 de dezembro do respetivo ano.
+
+3 - [...]
+
+###### Artigo 5.º — [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [Revogado.]
+
+5 - A isenção prevista na alínea a) do n.º 2 só pode ser usufruída por cada beneficiário em relação a um veículo em cada ano, não podendo ultrapassar o montante anual de 240 €.
+
+6 - [Revogado.]
+
+7 - [...]
+
+8 - [...]
+
+9 - [...]
+
+10 - Quando o período de tributação não corresponda ao ano civil nos termos do n.º 2 do artigo 4.º, aplica-se uma isenção na proporção do número de meses completos decorridos desde 1 de janeiro até à data da matrícula ou registo.
+
+###### Artigo 7.º — [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - O sujeito passivo comunica os elementos previstos na alínea b) do n.º 3 à Autoridade Tributária e Aduaneira, através do portal das finanças, até ao último dia do mês de fevereiro.
+
+###### Artigo 16.º — [...]
+
+1 - [...]
+
+2 - O imposto é liquidado anualmente, relativamente a cada sujeito passivo, integrando todos os veículos matriculados ou registados a 1 de janeiro.
+
+3 - A liquidação do imposto referida no número anterior é obtida pelo próprio sujeito passivo através do portal das finanças, nas condições de registo e acesso às declarações eletrónicas.
+
+4 - No ano da matrícula ou registo do veículo em território nacional, a liquidação do imposto é obtida por solicitação do sujeito passivo através do portal das finanças, nas condições de registo e acesso às declarações eletrónicas.
+
+5 - [Revogado.]
+
+6 - A liquidação do imposto pode ainda ser obtida em qualquer serviço de finanças, por solicitação do sujeito passivo que não esteja abrangido pelas notificações eletrónicas previstas no artigo 38.º-A do Código de Procedimento e de Processo Tributário nem pela obrigação prevista no n.º 12 do artigo 19.º da Lei Geral Tributária.
+
+7 - A liquidação do imposto é obtida em qualquer serviço de finanças sempre que se verifique alguma das seguintes circunstâncias:
+
+a) Os veículos tributáveis não se encontrem matriculados no território nacional, bem como nos casos previstos nos n.<sup>os</sup> 5 e 7 do artigo 17.º;
+
+b) Exista erro de identificação ou omissão de veículo tributável na base de dados, que não permita à Autoridade Tributária e Aduaneira efetuar a respetiva liquidação.
+
+8 - O sujeito passivo comprova, até ao último dia do mês de fevereiro, junto da Autoridade Tributária e Aduaneira, os pressupostos das isenções de que beneficie, com exceção das seguintes:
+
+a) As relativas a veículos da administração central, regional, local e das forças militares e de segurança, previstas na alínea a) do n.º 1 do artigo 5.º;
+
+b) As relativas aos veículos previstos na alínea b) do n.º 1 do artigo 5.º;
+
+c) As relativas a veículos não motorizados, exclusivamente elétricos ou movidos a energias renováveis não combustíveis, veículos especiais de mercadorias sem capacidade de transporte, ambulâncias, veículos funerários e tratores agrícolas, previstas na alínea e) do n.º 1 do artigo 5.º;
+
+d) As relativas aos veículos previstos nas alíneas f), g) e i) do n.º 1 do artigo 5.º, quando os pressupostos tenham sido previamente comunicados pelo organismo público responsável;
+
+e) As previstas na alínea a) do n.º 2 do artigo 5.º, salvo no primeiro ano em que o sujeito passivo requeira o benefício ou quando opte por usufruir do benefício relativamente a outro veículo;
+
+f) As previstas na alínea b) do n.º 2 do artigo 5.º
+
+9 - A liquidação referida no n.º 2 abrange somente os veículos de cuja informação a Autoridade Tributária e Aduaneira disponha até ao último dia de fevereiro de cada ano.
+
+10 - No momento da liquidação do imposto, é emitido documento único de cobrança que, certificado pelos meios em uso na rede da cobrança, comprova o bom pagamento do imposto.
+
+11 - [Anterior n.º 6.]
+
+###### Artigo 17.º — [...]
+
+1 - No ano da matrícula ou registo do veículo em território nacional, o imposto é liquidado e pago pelo sujeito passivo no prazo de 30 dias a contar do termo do prazo legalmente previsto para o respetivo registo.
+
+2 - Nos anos subsequentes, a liquidação do imposto é efetuada até ao último dia do mês de abril.
+
+3 - O pagamento é efetuado nos seguintes termos, tendo por referência o montante global da liquidação anual do imposto por sujeito passivo:
+
+a) Numa única prestação, no mês de abril, quando o montante seja igual ou inferior a 100 €;
+
+b) Em duas prestações, nos meses de abril e outubro, quando o montante seja superior a 100 € e igual ou inferior a 500 €;
+
+c) Em três prestações, nos meses de abril, julho e outubro, quando o montante seja superior a 500 €.
+
+4 - Nos casos previstos nas alíneas b) e c) do número anterior, o imposto pode ser pago numa única prestação até ao último dia do mês de abril.
+
+5 - Os documentos únicos de cobrança relativos às segunda e terceira prestações são obtidos pelo sujeito passivo no portal das finanças.
+
+6 - Na reativação de matrícula cancelada o imposto deve ser liquidado e pago no prazo de 30 dias a contar da data da reativação.
+
+7 - Nas situações a que se refere o n.º 2 do artigo 6.º, o imposto deve ser liquidado e pago pelo sujeito passivo no prazo de 30 dias a contar do termo do período nele previsto.
+
+8 - Nas situações previstas no n.º 4 do artigo 6.º, o imposto deve ser liquidado e pago pelo sujeito passivo no prazo de 30 dias a contar da alteração.
+
+9 - O não pagamento de uma prestação nos prazos estabelecidos no n.º 3 implica o vencimento imediato das restantes.
+
+###### Artigo 20.º — [...]
+
+1 - O cumprimento das obrigações impostas por este código é fiscalizado por todas as autoridades com competência para o efeito, designadamente pela Autoridade Tributária e Aduaneira, pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., pela Guarda Nacional Republicana, pela Polícia de Segurança Pública, pelos municípios, pelas conservatórias do registo automóvel, pelas capitanias dos portos e pela Polícia Marítima, bem como pelos serviços privativos de estradas e aeroportos.
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+###### Artigo 24.º — [...]
+
+[...]
+
+a) [...]
+
+b) [...]
+
+c) Veículos com registo efetuado nos termos das alíneas b), d) e e) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de fevereiro e o sujeito passivo se encontre numa das situações previstas nas alíneas anteriores;
+
+d) Quando os veículos tenham sido definitivamente exportados e relativamente aos quais tenha sido emitida certificação de saída após entrega de uma declaração aduaneira de exportação eletrónica.»
+
+###### Artigo 3.º — Aditamento ao Código do Imposto Único de Circulação
+
+É aditado o artigo 25.º ao Código do IUC, com a seguinte redação:
+
+«Artigo 25.º
+
+Garantias
+
+1 - Os sujeitos passivos podem recorrer aos meios de garantia previstos na lei geral tributária e no Código de Procedimento e de Processo Tributário.
+
+2 - Os prazos de reclamação e impugnação contam-se a partir do termo do prazo para pagamento voluntário da primeira ou da única prestação do imposto.»
+
+###### Artigo 4.º — Alteração sistemática ao Código do Imposto Único de Circulação
+
+É aditado um capítulo iv ao Código do IUC, com a epígrafe «Garantias», que integra o artigo 25.º
+
+###### Artigo 5.º — Norma revogatória
+
+São revogados:
+
+a) Os n.<sup>os</sup>4 e 6 do artigo 5.º e o n.º 5 do artigo 16.º do Código do IUC;
+
+b) O n.º 2 do artigo 9.º do [Decreto-Lei n.º 125/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), de 30 de dezembro.
+
+###### Artigo 6.º — Disposições transitórias
+
+1 - Em 2027, o imposto é pago nos seguintes termos, em função do montante global da liquidação anual do imposto por sujeito passivo:
+
+a) Numa única prestação, no mês de outubro, quando o montante seja igual ou inferior a 500 €;
+
+b) Em duas prestações, nos meses de julho e outubro, nos restantes casos, sem prejuízo da opção pelo pagamento integral no mês de julho, aplicando-se, nesse caso, o disposto no n.º 8 do artigo 17.º do Código do IUC.
+
+2 - Quando, em 2027, ocorra o cancelamento da matrícula de veículo das categorias A, B, C, D ou E antes da respetiva data de aniversário da matrícula, o sujeito passivo pode requerer a anulação da liquidação do IUC referente a esse mesmo ano, nos termos do n.º 4 do artigo 70.º do Código de Procedimento e de Processo Tributário.
+
+###### Artigo 7.º — Entrada em vigor e produção de efeitos
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2027.
+
+Visto e aprovado em Conselho de Ministros de 9 de julho de 2026. - Luís Montenegro - João Alexandre da Silva Lopes.
+
+**Promulgado em 24 de julho de 2026.**
+
+**Publique-se.**
+
+**O Presidente da República, António José Martins Seguro.**
+
+**Referendado em 27 de julho de 2026.**
+
+**O Primeiro-Ministro, Luís Montenegro.**

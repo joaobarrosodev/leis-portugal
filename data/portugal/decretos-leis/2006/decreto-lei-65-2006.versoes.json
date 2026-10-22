@@ -1,0 +1,316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667705:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-156105111",
+ "dre_path": "/dr/detalhe/decreto-lei/65-2006-667705",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-03-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202681973",
+    "156104956",
+    "156104957",
+    "156104958",
+    "156104959",
+    "156104960",
+    "156104961",
+    "156104962",
+    "156104963",
+    "156104964"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "156104955",
+    "156104956",
+    "156104957",
+    "156104958",
+    "156101892",
+    "156101893",
+    "156104961",
+    "156101894",
+    "156104963",
+    "156104964",
+    "156104965"
+   ]
+  },
+  {
+   "date": "2022-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:202849025:por",
+     "title": "Decreto-Lei n.º 75/2022",
+     "published": "2022-10-31",
+     "dre_path": "/dr/detalhe/decreto-lei/75-2022-202849025"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202681973",
+    "202681974",
+    "202899975",
+    "202899976",
+    "202899977",
+    "202899978",
+    "202899979",
+    "202899980",
+    "202899981",
+    "202899982",
+    "202899983"
+   ]
+  }
+ ],
+ "fragments": {
+  "202681973": {
+   "fragment_id": "156105112",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-11-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 65/2006\n\nde 22 de Março\n\nA libertação de poluentes orgânicos persistentes e os efeitos na saúde humana e no ambiente provocados por estas substâncias químicas constituem preocupação do Governo português, consentânea, aliás, com as prioridades definidas pela política comunitária nesta matéria.\n\nNesse sentido, a Convenção sobre Poluentes Orgânicos Persistentes, adoptada em 22 de Maio de 2001, em Estocolmo, foi acolhida pelo Estado Português pelo Decreto n.º 15/2004, de 3 de Junho.\n\nA União Europeia adoptou o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0850\" title=\"Link para Regulamento da Comunidade Europeia\">850/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo a poluentes orgânicos persistentes, o qual alterou a Directiva n.º <a href=\"eurlex.asp?ano=1979&id=379L0117\" title=\"Link para Directiva da Comunidade Europeia\">79/117/CEE</a>, do Conselho, de 21 de Dezembro de 1978, com o objectivo de proteger a saúde humana e o ambiente dos poluentes orgânicos persistentes. Este regulamento adopta um quadro jurídico comum em matéria de poluentes orgânicos persistentes, garantindo a aplicação coerente e efectiva das obrigações comunitárias decorrentes do Protocolo à Convenção de 1979 sobre Poluição Atmosférica Transfronteiriça a Longa Distância Relativo a Poluentes Orgânicos Persistentes e da Convenção de Estocolmo sobre Poluentes Orgânicos Persistentes.\n\nNão obstante o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0850\" title=\"Link para Regulamento da Comunidade Europeia\">850/2004</a>, do Parlamento Europeu e do Conselho, ser directamente aplicável em todos os Estados membros, os seus artigos 13.º e 15.º carecem de instrumento jurídico nacional que estabeleça o respectivo regime sancionatório e designe a autoridade competente para efeitos de aplicação das disposições do referido regulamento. São essas as necessidades que importa agora suprir.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156104956": {
+   "fragment_id": "156105113",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei designa a autoridade competente para desempenhar as funções administrativas estabelecidas no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0850\" title=\"Link para Regulamento da Comunidade Europeia\">850/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, relativo a poluentes orgânicos persistentes, que alterou a Directiva n.º <a href=\"eurlex.asp?ano=1979&id=379L0117\" title=\"Link para Directiva da Comunidade Europeia\">79/117/CEE</a>, do Conselho, de 21 de Dezembro de 1978, adiante designado por regulamento, e estabelece o regime sancionatório relativo ao incumprimento do disposto nesse mesmo regulamento."
+  },
+  "156104957": {
+   "fragment_id": "156105114",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autoridade competente\n\nO Instituto do Ambiente é a autoridade nacional competente para desempenhar as funções administrativas estabelecidas no regulamento."
+  },
+  "156104958": {
+   "fragment_id": "156105115",
+   "type": 11,
+   "heading": "Artigo 3.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fiscalização\n\nA fiscalização do cumprimento das disposições constantes do presente decreto-lei é realizada pela Inspecção-Geral do Ambiente e do Ordenamento do Território, pela Autoridade de Segurança Alimentar e Económica, pelas autoridades policiais e pelas demais entidades competentes em razão da matéria."
+  },
+  "156104959": {
+   "fragment_id": "156105116",
+   "type": 11,
+   "heading": "Artigo 4.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima no montante de (euro) 500 a (euro) 2500, no caso de pessoas singulares, e de (euro) 1500 a (euro) 25000, no caso de pessoas colectivas, a prática dos seguintes actos:\n\na) O incumprimento, pelo detentor de material armazenado constituído ou que contenha substância inscrita no anexo I do regulamento e da qual não seja permitida qualquer utilização, da obrigação de proceder à reciclagem desse material como resíduo, nos termos do disposto no n.º 1 do artigo 5.º do regulamento;\n\nb) O incumprimento, pelo detentor de material armazenado com peso superior a 50 kg, constituído ou que contenha substância inscrita no anexo I do regulamento e cuja utilização seja permitida, da obrigação de fornecer à autoridade competente as informações relativas à natureza e quantidade desse material, no prazo de 12 meses contado a partir da data de entrada em vigor das alterações que venham a ser introduzidas no anexo I do regulamento, nos termos do disposto no n.º 2 do artigo 5.º do regulamento;\n\nc) O incumprimento, pelo detentor de material armazenado com peso superior a 50 kg, constituído ou que contenha substância inscrita no anexo I do regulamento e cuja utilização seja permitida, da obrigação de fornecer à autoridade competente as informações relativas à natureza e quantidade desse material armazenado, com periodicidade anual, até ao termo do prazo fixado para utilização restrita, nos termos do disposto no n.º 2 do artigo 5.º do regulamento;\n\nd) O incumprimento, pelo detentor de material armazenado com peso superior a 50 kg, constituído ou que contenha substância inscrita no anexo I do regulamento e cuja utilização seja permitida, da obrigação de gerir esse material de uma forma tecnicamente segura, eficiente e que não cause danos no ambiente, nos termos do disposto no n.º 2 do artigo 5.º do regulamento;\n\ne) A não eliminação ou a não valorização de resíduos constituídos que contenham ou estejam contaminados por substâncias inscritas no anexo IV do regulamento, nos termos do n.º 2 do artigo 7.º e da parte I do anexo V do regulamento, salvo se abrangidos pelas excepções constantes do n.º 4 do artigo 7.º do regulamento;\n\nf) A violação da proibição constante do n.º 3 do artigo 7.º do regulamento de realizar operações de eliminação ou valorização susceptíveis de dar origem à valorização, reciclagem, recuperação ou reutilização das substâncias inscritas no anexo IV do regulamento;\n\ng) O incumprimento, pelo detentor de resíduos, da obrigação estabelecida pela alínea b) do n.º 5 do artigo 7.º do regulamento de prestar à autoridade competente as informações sobre o teor em poluentes orgânicos persistentes dos resíduos tratados, de acordo com a alínea b) do n.º 4 do artigo 7.º do regulamento.\n\n2 - Constitui contra-ordenação punível com coima no montante de (euro) 1250 a (euro) 3740, no caso de pessoas singulares, e de (euro) 2500 a (euro) 44890, no caso de pessoas colectivas, a prática dos seguintes actos:\n\na) A produção de substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nb) A produção de preparações que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nc) A produção de artigos que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nd) A colocação no mercado de substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\ne) A colocação no mercado de preparações que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nf) A colocação no mercado de artigos que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\ng) A utilização de substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nh) A utilização de preparações que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\ni) A utilização de artigos que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento.\n\n3 - A tentativa e a negligência são puníveis nos termos da lei geral."
+  },
+  "156104960": {
+   "fragment_id": "156105117",
+   "type": 11,
+   "heading": "Artigo 5.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sanções acessórias\n\n1 - A autoridade competente para aplicação da coima pode ainda determinar, nos termos da lei geral e sempre que a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:\n\na) Perda de máquinas ou utensílios pertencentes ao agente utilizados na prática da infracção;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídios ou benefícios outorgados por entidades ou serviços públicos;\n\nd) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\ne) Encerramento de instalações ou estabelecimentos cujo funcionamento esteja sujeito a autorização ou licença da autoridade administrativa e no âmbito do qual tenha sido praticada a infracção;\n\nf) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) a f) do número anterior podem vigorar por um prazo máximo de dois anos contado a partir da data da decisão condenatória definitiva.\n\n3 - Sem prejuízo do disposto no número anterior, o reinício de actividade ou de utilização de bens depende de autorização expressa da respectiva entidade licenciadora."
+  },
+  "156104961": {
+   "fragment_id": "156105118",
+   "type": 11,
+   "heading": "Artigo 6.º — Instrução e aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Instrução e aplicação de coimas\n\n1 - Compete à Inspecção-Geral do Ambiente e do Ordenamento do Território e à Autoridade de Segurança Alimentar e Económica instruir os processos contra-ordenacionais que tenham respectivamente iniciado.\n\n2 - Os autos levantados pelas autoridades policiais ou por autoridades de outra natureza são remetidos à Inspecção-Geral do Ambiente e do Ordenamento do Território para a competente instrução e decisão.\n\n3 - Compete à Inspecção-Geral do Ambiente e do Ordenamento do Território aplicar as coimas e as sanções acessórias."
+  },
+  "156104962": {
+   "fragment_id": "156105119",
+   "type": 11,
+   "heading": "Artigo 7.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produto das coimas\n\nO produto das coimas aplicadas nos termos do presente decreto-lei é afectado, independentemente da fase processual em que estas sejam liquidadas, da seguinte forma:\n\na) 50% para o Estado;\n\nb) 20% para a entidade que aplica a coima;\n\nc) 20% para a entidade que instrui o processo;\n\nd) 10% para a entidade autuante."
+  },
+  "156104963": {
+   "fragment_id": "156105120",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação às Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo de diploma regional que proceda às necessárias adaptações.\n\n2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria."
+  },
+  "156104964": {
+   "fragment_id": "156105121",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "156104955": {
+   "fragment_id": "156105112",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 65/2006\n\nde 22 de Março\n\nA libertação de poluentes orgânicos persistentes e os efeitos na saúde humana e no ambiente provocados por estas substâncias químicas constituem preocupação do Governo português, consentânea, aliás, com as prioridades definidas pela política comunitária nesta matéria.\n\nNesse sentido, a Convenção sobre Poluentes Orgânicos Persistentes, adoptada em 22 de Maio de 2001, em Estocolmo, foi acolhida pelo Estado Português pelo Decreto n.º 15/2004, de 3 de Junho.\n\nA União Europeia adoptou o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0850\" title=\"Link para Regulamento da Comunidade Europeia\">850/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo a poluentes orgânicos persistentes, o qual alterou a Directiva n.º <a href=\"eurlex.asp?ano=1979&id=379L0117\" title=\"Link para Directiva da Comunidade Europeia\">79/117/CEE</a>, do Conselho, de 21 de Dezembro de 1978, com o objectivo de proteger a saúde humana e o ambiente dos poluentes orgânicos persistentes. Este regulamento adopta um quadro jurídico comum em matéria de poluentes orgânicos persistentes, garantindo a aplicação coerente e efectiva das obrigações comunitárias decorrentes do Protocolo à Convenção de 1979 sobre Poluição Atmosférica Transfronteiriça a Longa Distância Relativo a Poluentes Orgânicos Persistentes e da Convenção de Estocolmo sobre Poluentes Orgânicos Persistentes.\n\nNão obstante o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0850\" title=\"Link para Regulamento da Comunidade Europeia\">850/2004</a>, do Parlamento Europeu e do Conselho, ser directamente aplicável em todos os Estados membros, os seus artigos 13.º e 15.º carecem de instrumento jurídico nacional que estabeleça o respectivo regime sancionatório e designe a autoridade competente para efeitos de aplicação das disposições do referido regulamento. São essas as necessidades que importa agora suprir.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156101892": {
+   "fragment_id": "156105116",
+   "type": 11,
+   "heading": "Artigo 4.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 4.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a prática dos seguintes atos:\n\na) O incumprimento, pelo detentor de material armazenado constituído ou que contenha substância inscrita no anexo I do regulamento e da qual não seja permitida qualquer utilização, da obrigação de proceder à reciclagem desse material como resíduo, nos termos do disposto no n.º 1 do artigo 5.º do regulamento;\n\nb) O incumprimento, pelo detentor de material armazenado com peso superior a 50 kg, constituído ou que contenha substância inscrita no anexo I do regulamento e cuja utilização seja permitida, da obrigação de fornecer à autoridade competente as informações relativas à natureza e quantidade desse material, no prazo de 12 meses contado a partir da data de entrada em vigor das alterações que venham a ser introduzidas no anexo I do regulamento, nos termos do disposto no n.º 2 do artigo 5.º do regulamento;\n\nc) O incumprimento, pelo detentor de material armazenado com peso superior a 50 kg, constituído ou que contenha substância inscrita no anexo I do regulamento e cuja utilização seja permitida, da obrigação de fornecer à autoridade competente as informações relativas à natureza e quantidade desse material armazenado, com periodicidade anual, até ao termo do prazo fixado para utilização restrita, nos termos do disposto no n.º 2 do artigo 5.º do regulamento;\n\nd) O incumprimento, pelo detentor de material armazenado com peso superior a 50 kg, constituído ou que contenha substância inscrita no anexo I do regulamento e cuja utilização seja permitida, da obrigação de gerir esse material de uma forma tecnicamente segura, eficiente e que não cause danos no ambiente, nos termos do disposto no n.º 2 do artigo 5.º do regulamento;\n\ne) A não eliminação ou a não valorização de resíduos constituídos que contenham ou estejam contaminados por substâncias inscritas no anexo IV do regulamento, nos termos do n.º 2 do artigo 7.º e da parte I do anexo V do regulamento, salvo se abrangidos pelas excepções constantes do n.º 4 do artigo 7.º do regulamento;\n\nf) A violação da proibição constante do n.º 3 do artigo 7.º do regulamento de realizar operações de eliminação ou valorização susceptíveis de dar origem à valorização, reciclagem, recuperação ou reutilização das substâncias inscritas no anexo IV do regulamento;\n\ng) O incumprimento, pelo detentor de resíduos, da obrigação estabelecida pela alínea b) do n.º 5 do artigo 7.º do regulamento de prestar à autoridade competente as informações sobre o teor em poluentes orgânicos persistentes dos resíduos tratados, de acordo com a alínea b) do n.º 4 do artigo 7.º do regulamento.\n\n2 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a prática dos seguintes atos:\n\na) A produção de substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nb) A produção de preparações que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nc) A produção de artigos que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nd) A colocação no mercado de substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\ne) A colocação no mercado de preparações que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nf) A colocação no mercado de artigos que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\ng) A utilização de substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nh) A utilização de preparações que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\ni) A utilização de artigos que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156101893": {
+   "fragment_id": "156105117",
+   "type": 11,
+   "heading": "Artigo 5.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 5.º — Sanções acessórias\n\n1 - A autoridade competente para aplicação da coima pode ainda determinar, nos termos do RJCE e sempre que a gravidade da infração o justifique, a aplicação das seguintes sanções acessórias:\n\na) Perda de máquinas ou utensílios pertencentes ao agente utilizados na prática da infracção;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídios ou benefícios outorgados por entidades ou serviços públicos;\n\nd) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\ne) Encerramento de instalações ou estabelecimentos cujo funcionamento esteja sujeito a autorização ou licença da autoridade administrativa e no âmbito do qual tenha sido praticada a infracção;\n\nf) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) a f) do número anterior podem vigorar por um prazo máximo de dois anos contado a partir da data da decisão condenatória definitiva.\n\n3 - Sem prejuízo do disposto no número anterior, o reinício de actividade ou de utilização de bens depende de autorização expressa da respectiva entidade licenciadora.\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156101894": {
+   "fragment_id": "156105119",
+   "type": 11,
+   "heading": "Artigo 7.º — Produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156104965": {
+   "fragment_id": "156105122",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra.\n\nPromulgado em 1 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "202681974": {
+   "fragment_id": "156105113",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2022-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei designa a autoridade competente para desempenhar as funções administrativas estabelecidas no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0850\" title=\"Link para Regulamento da Comunidade Europeia\">850/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, relativo a poluentes orgânicos persistentes, que alterou a Directiva n.º <a href=\"eurlex.asp?ano=1979&id=379L0117\" title=\"Link para Directiva da Comunidade Europeia\">79/117/CEE</a>, do Conselho, de 21 de Dezembro de 1978, adiante designado por regulamento, e estabelece o regime sancionatório relativo ao incumprimento do disposto nesse mesmo regulamento.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+  },
+  "202899975": {
+   "fragment_id": "156105114",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridade competente",
+   "in_force_from": "2022-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Autoridade competente\n\nO Instituto do Ambiente é a autoridade nacional competente para desempenhar as funções administrativas estabelecidas no regulamento.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+  },
+  "202899976": {
+   "fragment_id": "156105115",
+   "type": 11,
+   "heading": "Artigo 3.º — Fiscalização",
+   "in_force_from": "2022-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Fiscalização\n\nA fiscalização do cumprimento das disposições constantes do presente decreto-lei é realizada pela Inspecção-Geral do Ambiente e do Ordenamento do Território, pela Autoridade de Segurança Alimentar e Económica, pelas autoridades policiais e pelas demais entidades competentes em razão da matéria.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+  },
+  "202899977": {
+   "fragment_id": "156105116",
+   "type": 11,
+   "heading": "Artigo 4.º — Contra-ordenações",
+   "in_force_from": "2022-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01",
+    "Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 4.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a prática dos seguintes atos:\n\na) O incumprimento, pelo detentor de material armazenado constituído ou que contenha substância inscrita no anexo I do regulamento e da qual não seja permitida qualquer utilização, da obrigação de proceder à reciclagem desse material como resíduo, nos termos do disposto no n.º 1 do artigo 5.º do regulamento;\n\nb) O incumprimento, pelo detentor de material armazenado com peso superior a 50 kg, constituído ou que contenha substância inscrita no anexo I do regulamento e cuja utilização seja permitida, da obrigação de fornecer à autoridade competente as informações relativas à natureza e quantidade desse material, no prazo de 12 meses contado a partir da data de entrada em vigor das alterações que venham a ser introduzidas no anexo I do regulamento, nos termos do disposto no n.º 2 do artigo 5.º do regulamento;\n\nc) O incumprimento, pelo detentor de material armazenado com peso superior a 50 kg, constituído ou que contenha substância inscrita no anexo I do regulamento e cuja utilização seja permitida, da obrigação de fornecer à autoridade competente as informações relativas à natureza e quantidade desse material armazenado, com periodicidade anual, até ao termo do prazo fixado para utilização restrita, nos termos do disposto no n.º 2 do artigo 5.º do regulamento;\n\nd) O incumprimento, pelo detentor de material armazenado com peso superior a 50 kg, constituído ou que contenha substância inscrita no anexo I do regulamento e cuja utilização seja permitida, da obrigação de gerir esse material de uma forma tecnicamente segura, eficiente e que não cause danos no ambiente, nos termos do disposto no n.º 2 do artigo 5.º do regulamento;\n\ne) A não eliminação ou a não valorização de resíduos constituídos que contenham ou estejam contaminados por substâncias inscritas no anexo IV do regulamento, nos termos do n.º 2 do artigo 7.º e da parte I do anexo V do regulamento, salvo se abrangidos pelas excepções constantes do n.º 4 do artigo 7.º do regulamento;\n\nf) A violação da proibição constante do n.º 3 do artigo 7.º do regulamento de realizar operações de eliminação ou valorização susceptíveis de dar origem à valorização, reciclagem, recuperação ou reutilização das substâncias inscritas no anexo IV do regulamento;\n\ng) O incumprimento, pelo detentor de resíduos, da obrigação estabelecida pela alínea b) do n.º 5 do artigo 7.º do regulamento de prestar à autoridade competente as informações sobre o teor em poluentes orgânicos persistentes dos resíduos tratados, de acordo com a alínea b) do n.º 4 do artigo 7.º do regulamento.\n\n2 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a prática dos seguintes atos:\n\na) A produção de substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nb) A produção de preparações que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nc) A produção de artigos que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nd) A colocação no mercado de substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\ne) A colocação no mercado de preparações que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nf) A colocação no mercado de artigos que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\ng) A utilização de substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\nh) A utilização de preparações que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento;\n\ni) A utilização de artigos que contenham substâncias inscritas no anexo I do regulamento, desde que não estejam abrangidas pelas derrogações previstas no artigo 4.º do regulamento.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "202899978": {
+   "fragment_id": "156105117",
+   "type": 11,
+   "heading": "Artigo 5.º — Sanções acessórias",
+   "in_force_from": "2022-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01",
+    "Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 5.º — Sanções acessórias\n\n1 - A autoridade competente para aplicação da coima pode ainda determinar, nos termos do RJCE e sempre que a gravidade da infração o justifique, a aplicação das seguintes sanções acessórias:\n\na) Perda de máquinas ou utensílios pertencentes ao agente utilizados na prática da infracção;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídios ou benefícios outorgados por entidades ou serviços públicos;\n\nd) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\ne) Encerramento de instalações ou estabelecimentos cujo funcionamento esteja sujeito a autorização ou licença da autoridade administrativa e no âmbito do qual tenha sido praticada a infracção;\n\nf) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) a f) do número anterior podem vigorar por um prazo máximo de dois anos contado a partir da data da decisão condenatória definitiva.\n\n3 - Sem prejuízo do disposto no número anterior, o reinício de actividade ou de utilização de bens depende de autorização expressa da respectiva entidade licenciadora.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "202899979": {
+   "fragment_id": "156105118",
+   "type": 11,
+   "heading": "Artigo 6.º — Instrução e aplicação de coimas",
+   "in_force_from": "2022-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+   ],
+   "markdown": "###### Artigo 6.º — Instrução e aplicação de coimas\n\n1 - Compete à Inspecção-Geral do Ambiente e do Ordenamento do Território e à Autoridade de Segurança Alimentar e Económica instruir os processos contra-ordenacionais que tenham respectivamente iniciado.\n\n2 - Os autos levantados pelas autoridades policiais ou por autoridades de outra natureza são remetidos à Inspecção-Geral do Ambiente e do Ordenamento do Território para a competente instrução e decisão.\n\n3 - Compete à Inspecção-Geral do Ambiente e do Ordenamento do Território aplicar as coimas e as sanções acessórias.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+  },
+  "202899980": {
+   "fragment_id": "156105119",
+   "type": 11,
+   "heading": "Artigo 7.º — Produto das coimas",
+   "in_force_from": "2022-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01",
+    "Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "202899981": {
+   "fragment_id": "156105120",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação às Regiões Autónomas",
+   "in_force_from": "2022-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+   ],
+   "markdown": "###### Artigo 8.º — Aplicação às Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo de diploma regional que proceda às necessárias adaptações.\n\n2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+  },
+  "202899982": {
+   "fragment_id": "156105121",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": "2022-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+  },
+  "202899983": {
+   "fragment_id": "156105122",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra.\n\nPromulgado em 1 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 75/2022 - Diário da República n.º 210/2022, Série I de 2022-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2022-202849025), em vigor a partir de 2022-11-01"
+  }
+ }
+}

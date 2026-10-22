@@ -1,0 +1,322 @@
+---
+schema_version: '1.0'
+id: pt:dre:334154:por
+title: Decreto-Lei n.º 89/2010
+short_title: null
+summary: Aprova o regime excepcional de contratação de médicos aposentados pelos serviços e estabelecimentos do Serviço Nacional
+  de Saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 89/2010
+official_date: null
+publication_date: '2010-07-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 140/2010, Série I de 2010-07-21
+  number: '140'
+  series: I
+  supplement: null
+  pages: 2769 - 2771
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/07/14000/0276902771.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- Nos termos do artigo 158.º do Decreto-Lei n.º 13-A/2025, de 10 de março, o regime previsto no presente decreto-lei, com
+  exceção do estabelecido no artigo 8.º,vigora até 31 de dezembro de 2025.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-11'
+version_history:
+  file: decreto-lei-89-2010.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-04-16'
+    amending: pt:dre:66990217:por
+    amending_title: Decreto-Lei n.º 53/2015
+    changes:
+    - Altera Artigo 5.º
+  - date: '2021-11-28'
+    amending: pt:dre:175043500:por
+    amending_title: Decreto-Lei n.º 104/2021
+    changes:
+    - Altera Artigo 10.º
+  - date: '2023-02-09'
+    amending: pt:dre:207177836:por
+    amending_title: Decreto-Lei n.º 10/2023
+    changes:
+    - Altera Artigo 10.º
+  - date: '2024-01-01'
+    amending: pt:dre:835864042:por
+    amending_title: Lei n.º 82/2023
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+  - date: '2025-03-11'
+    amending: pt:dre:910323298:por
+    amending_title: Decreto-Lei n.º 13-A/2025
+    changes:
+    - Altera Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/89/2010/p/cons/20250310/pt/html
+  oj: null
+  dre: '334154'
+  dre_path: /dr/detalhe/decreto-lei/89-2010-334154
+  internal: pt:dre:334154:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2010-334154
+  metadata_url: https://data.dre.pt/eli/dec-lei/89/2010/p/cons/20250310/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-175120272
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-175120272
+  retrieved_at: '2026-10-22T12:47:04Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 17a658937832a2e1b523959e079ada48ce8c34dc86247a5035e8c66fbe466325
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:47:04Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-89-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Regime do Contrato de Trabalho em Funções Públicas
+- Aposentado
+- Médico
+- Serviço Nacional de Saúde
+- Cuidados Médicos
+- Contrato de Trabalho
+- Remuneração
+- Trabalhador com Contrato de Trabalho em Funções Públicas
+relationships:
+- type: amended_by
+  target: pt:dre:66990217:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2015-66990217
+  date: '2015-04-15'
+- type: amended_by
+  target: pt:dre:175043500:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500
+  date: '2021-11-27'
+- type: amended_by
+  target: pt:dre:207177836:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836
+  date: '2023-02-08'
+- type: amended_by
+  target: pt:dre:835864042:por
+  label: Altera Artigo 4.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:910323298:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298
+  date: '2025-03-10'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/176/2009/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/176/2009/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/177/2009/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/177/2009/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/179/2005/11/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/179/2005/11/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/233/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/233/2005/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:47:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 89/2010
+
+Decreto-Lei n.º 89/2010
+
+de 21 de Julho
+
+O Programa do XVIII Governo estabelece que a saúde é um valor para todos e que é fundamental que o Sistema Nacional de Saúde (SNS) disponha de serviços de qualidade.
+
+O presente decreto-lei estabelece as condições em que médicos aposentados podem exercer funções públicas ou prestar trabalho remunerado em estabelecimentos do SNS.
+
+Estabelece-se que, mediante proposta do estabelecimento de saúde onde as funções devam ser exercidas ou o trabalho deva ser prestado e após autorização do membro do Governo responsável pela área da saúde, os médicos aposentados possam continuar a exercer funções no SNS, de acordo com determinadas condições.
+
+Estabelece-se, ainda, a proibição de os médicos aposentados exercerem funções ou prestarem serviços em estabelecimentos ou serviços do SNS, através de contratos celebrados entre as entidades referidas e terceiros, nomeadamente pessoas colectivas de direito privado de natureza empresarial. Trata-se de uma medida que visa regular a contratação de médicos pelo SNS nestas situações e garantir que a utilização dos recursos do SNS é feita de forma clara e transparente.
+
+A aprovação deste regime, que vigorará pelo período de três anos, visa três objectivos.
+
+Em primeiro lugar, continuar a dar resposta à escassez de médicos em Portugal. Desde há muito tempo, um dos grupos profissionais em relação ao qual tem, em geral, sido sentida uma maior escassez de recursos humanos, particularmente evidente em relação a algumas especialidades, é o do pessoal médico.
+
+Trata-se de um problema estrutural que tem vindo a ser objecto de atenção por parte do Governo, designadamente através do aumento das vagas e da abertura de novos cursos de Medicina, como, aliás, consta do Programa do Governo. No entanto, tendo em conta os anos de formação específica que são necessários na área da medicina, o reflexo de aumento do número de médicos formados ainda vai demorar alguns anos a efectivar-se.
+
+Em segundo lugar, assegurar a manutenção dos cuidados de saúde a todos os cidadãos, desde cuidados prestados pelos médicos de família nos centros de saúde aos cuidados realizados noutros estabelecimentos do SNS. Este objectivo é especialmente importante para continuar a garantir cuidados familiares através das unidades de saúde familiares a uma parte significativa da população. Neste momento, as 243 unidades de saúde familiar existentes acompanham já mais de 3 milhões de portugueses e permitiram que mais cerca de 350 000 pessoas passassem a ter médico de família. Mas este objectivo também importa para que, conforme consta do programa do Governo, as unidades de saúde familiar abranjam, até 2013, a totalidade do território nacional.
+
+Finalmente, contribuir para consolidar a prestação de cuidados de saúde com qualidade, uma das prioridades do Governo para o SNS.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece o regime a que obedece o exercício de funções públicas ou a prestação de trabalho remunerado por médicos aposentados em serviços e estabelecimentos do Serviço Nacional de Saúde, independentemente da sua natureza jurídica.
+
+2 - O exercício de funções referidas no número anterior processa-se exclusivamente nos termos do presente decreto-lei.
+
+###### Artigo 2.º — Âmbito de aplicação objectivo
+
+1 - O regime do presente decreto-lei aplica-se, com as necessárias adaptações, ao exercício de funções públicas ou à prestação de trabalho remunerado por médicos aposentados em quaisquer serviços da administração central, regional e autárquica, pessoas colectivas públicas ou empresas públicas.
+
+2 - O exercício de funções públicas ou a prestação de trabalho remunerado referido no número anterior abrange:
+
+a) Todos os tipos de actividade e de serviços, independentemente da sua duração, regularidade e forma de remuneração;
+
+b) Todas as modalidades de contratos, independentemente da respectiva natureza, pública ou privada, laboral ou de prestação de serviços, e da sua forma, escrita ou meramente verbal;
+
+c) Tanto as situações em que o aposentado se obriga pessoalmente como aquelas em que o exercício de funções ou a prestação de trabalho ocorre no âmbito de um contrato celebrado pelo serviço ou estabelecimento de saúde ou equiparado com um terceiro, com o qual aquele tem relação.
+
+###### Artigo 3.º — Âmbito de aplicação subjectivo
+
+1 - O regime disposto no presente decreto-lei aplica-se aos médicos aposentados com ou sem recurso a mecanismos legais de antecipação, uma vez observado o procedimento de autorização previsto no artigo 4.º
+
+2 - Os médicos aposentados compulsivamente e com fundamento em incapacidade não podem, em nenhuma circunstância, voltar a exercer funções ou a prestar trabalho remunerado para as entidades referidas no n.º 1 do artigo anterior.
+
+3 - Os membros do Governo responsáveis pelas áreas das finanças, da administração pública e da saúde definem, por despacho conjunto, os contingentes de médicos aposentados que podem ser contratados num determinado ano.
+
+4 - Não são abrangidos pelo disposto no número anterior os médicos que, cumulativamente, tenham a sua pensão de aposentação suspensa nos termos do presente decreto-lei e exerçam funções ao abrigo de um contrato celebrado nos termos do n.º 6 do artigo 6.º
+
+###### Artigo 4.º — Autorização
+
+1 - O exercício de funções públicas ou a prestação de trabalho remunerado por médicos aposentados, com ou sem recurso aos mecanismos legais de antecipação, depende da autorização do membro do Governo responsável pela área da saúde, que fundamenta o interesse público excepcional em causa, nos termos do n.º 2 do artigo 78.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, com a redacção dada pelo Decreto-Lei n.º 179/2005, de 2 de Novembro.
+
+2 - A autorização prevista no número anterior é precedida de proposta do estabelecimento de saúde onde as funções devam ser exercidas ou o trabalho deva ser prestado, que fundamenta o interesse na contratação em causa, instruído com informação da Caixa Geral de Aposentações sobre a situação do médico aposentado, e produz efeitos durante o período de vigência do presente decreto-lei.
+
+3 - A autorização prevista nos números anteriores pode abranger o exercício da função prevista no n.º 2 do artigo 6.º e no artigo 9.º dos Estatutos dos hospitais, E. P. E., constantes do anexo ii do Decreto-Lei n.º 233/2005, de 29 de Dezembro, com a redacção dada pelos Decretos-Leis n.os 50-A/2007, de 28 de Fevereiro, e 176/2009, de 4 de Agosto.
+
+4 - A competência do membro do Governo responsável pela área da saúde prevista no n.º 1 pode ser delegada no diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P., com faculdade de subdelegação.
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+###### Artigo 5.º — Regime de exercício de funções e da prestação de trabalho por médicos aposentados
+
+Os médicos contratados nos termos do presente decreto-lei:
+
+a) São contratados para o exercício de funções de natureza assistencial através de contrato de trabalho a termo resolutivo certo ou contrato de trabalho em funções públicas a termo resolutivo certo, renovável nos termos do regime legal aplicável à entidade contratante, cuja duração não pode exceder o prazo de vigência do regime excecional de recrutamento regulado pelo presente decreto-lei;
+
+b) Estão sujeitos aos regimes previstos nos Decretos-Leis n.os 176/2009, de 4 de Agosto, e 177/2009, de 4 de Agosto, respectivamente, com as devidas adaptações, bem como aos instrumentos de regulamentação colectiva, quando lhes sejam aplicáveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2015 - Diário da República n.º 73/2015, Série I de 2015-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2015-66990217), em vigor a partir de 2015-04-16
+
+###### Artigo 6.º — Remuneração
+
+1 - Aos médicos aposentados sem recurso a mecanismos legais de antecipação, contratados nos termos do presente decreto-lei, aplica-se o artigo 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, com a redacção dada pelo Decreto-Lei n.º 179/2005, de 2 de Novembro.
+
+2 - Quando a contrapartida pelo exercício de funções seja total ou parcialmente paga em espécie, para efeito do número anterior, atende-se ao valor pecuniário da mesma.
+
+3 - Para efeito do disposto no n.º 1, nos casos em que não seja previamente estipulado um valor certo mensal de remuneração, nomeadamente por a tal obstar a duração do contrato ou o número imprevisível de actos a executar, considera-se o valor total percebido no ano civil, apurando-se o valor a restituir pelo aposentado, por comparação com o abonado a título de pensão no mesmo período, no mês de Janeiro do ano seguinte.
+
+4 - Os médicos aposentados com recurso a mecanismos legais de antecipação, autorizados a exercer funções públicas ou a prestar trabalho nos termos do presente decreto-lei, são remunerados de acordo com a categoria e escalão detidos à data da aposentação e o período normal de trabalho aplicável, com a limitação decorrente do artigo 3.º da Lei n.º 102/88, de 25 de Agosto, e ficam abrangidos pelo regime geral da segurança social.
+
+5 - A pensão de aposentação dos médicos que tenham recorrido a mecanismos legais de antecipação é suspensa no período de duração do contrato.
+
+6 - Com a autorização para o exercício de funções públicas ou a prestação de trabalho remunerado pelos médicos aposentados com recurso a mecanismos legais de antecipação, a quem tenha sido suspensa a pensão de aposentação, constitui-se automaticamente o contrato de trabalho em funções públicas a que se refere a alínea a) do artigo 5.º
+
+7 - Os médicos contratados nos termos do número anterior mantêm os direitos e deveres correspondentes à relação jurídica de emprego público prévia à aposentação, com excepção da inscrição na Caixa Geral de Aposentações e do regime de contribuições, que passa a ser, nos termos da lei, o regime geral da segurança social.
+
+8 - Findo o período de suspensão, o processamento da pensão é retomado, devendo a mesma ser actualizada nos termos da lei.
+
+9 - À pensão referida no número anterior acrescem os direitos inerentes aos descontos legais entretanto efectuados para o regime da segurança social.
+
+###### Artigo 7.º — Dever de comunicação
+
+1 - O início e o termo dos contratos com médicos aposentados são obrigatoriamente comunicados à Caixa Geral de Aposentações pelos serviços ou estabelecimentos do Serviço Nacional de Saúde no prazo máximo de 10 dias a contar dos mesmos, por forma que a Caixa Geral de Aposentações possa suspender a pensão ou reiniciar o seu pagamento o mais rapidamente possível.
+
+2 - O incumprimento pontual do dever de comunicação estabelecido no número anterior constitui o dirigente máximo do serviço ou estabelecimento do Serviço Nacional de Saúde pessoal e solidariamente responsável, juntamente com o médico aposentado, pelo reembolso à Caixa Geral de Aposentações das importâncias que esta venha a abonar indevidamente em consequência daquela omissão.
+
+###### Artigo 8.º — Proibição de prestação de serviços no Serviço Nacional de Saúde através de empresas
+
+É expressamente proibido o exercício de funções ou a prestação de serviços por parte de médicos aposentados, em serviços ou estabelecimentos do Serviço Nacional de Saúde, qualquer que seja a sua natureza jurídica, no quadro de contratos celebrados entre aquelas entidades e terceiros, nomeadamente pessoas colectivas de direito privado de natureza empresarial.
+
+###### Artigo 9.º — Direito transitório
+
+1 - O presente decreto-lei aplica-se a todas as situações de exercício de funções e prestação de trabalho remunerado existentes na data da sua entrada em vigor, independentemente da data da sua constituição.
+
+2 - As situações constituídas ou renovadas ao abrigo do disposto no Decreto-Lei n.º 179/2005, de 2 de Novembro, extinguem-se no fim do prazo referido no n.º 5 do artigo 78.º do Estatuto da Aposentação, com a redacção dada pelo referido decreto-lei.
+
+3 - As situações não abrangidas pelo disposto no número anterior, nomeadamente as tituladas por contratos celebrados entre serviços ou estabelecimentos do Serviço Nacional de Saúde, qualquer que seja a sua natureza jurídica, e terceiros, nomeadamente pessoas colectivas de direito privado de natureza empresarial, devem ser reapreciados no prazo de 90 dias a contar da data de entrada em vigor do presente diploma, de forma a garantir o cumprimento do disposto no presente decreto-lei.
+
+###### Artigo 10.º — Período de vigência
+
+O regime previsto no presente decreto-lei, com exceção do estabelecido no artigo 8.º, vigora até 31 de dezembro de 2025.
+
+> Nota: [Artigo 166.º, Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389) determina a prorrogação da vigência do presente diploma por mais um ano.
+
+> Alterado pelo/a Artigo 158.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 146.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-03-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Junho de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Valter Victorino Lemos - Manuel Francisco Pizarro Sampaio e Castro.
+
+Promulgado em 14 de Julho de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 16 de Julho de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

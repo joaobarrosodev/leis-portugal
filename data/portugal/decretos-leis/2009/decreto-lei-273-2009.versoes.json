@@ -1,0 +1,711 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:490964:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-108063650",
+ "dre_path": "/dr/detalhe/decreto-lei/273-2009-490964",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-10-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108049918",
+    "108049919",
+    "108049920",
+    "108049921",
+    "108049922",
+    "108049923",
+    "108049924",
+    "108049925",
+    "108049926",
+    "108049927",
+    "108049928",
+    "108049929",
+    "108049930",
+    "108049931",
+    "108049932",
+    "108049933",
+    "108049934",
+    "108049935",
+    "108049936",
+    "108049937",
+    "108049938",
+    "108049939",
+    "108049940",
+    "108049941",
+    "108049942",
+    "108049943",
+    "108049944",
+    "108049945",
+    "108049946",
+    "108049947",
+    "108049948",
+    "108049949",
+    "108049950",
+    "108049951",
+    "108049952",
+    "108049953",
+    "108049954",
+    "108049955",
+    "108049956",
+    "108049957",
+    "108049958"
+   ]
+  },
+  {
+   "date": "2017-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108063582:por",
+     "title": "Lei n.º 101/2017",
+     "published": "2017-08-28",
+     "dre_path": "/dr/detalhe/lei/101-2017-108063582"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "108049918",
+    "108049919",
+    "108049920",
+    "108049921",
+    "108049961",
+    "108049923",
+    "108049924",
+    "108049925",
+    "108049926",
+    "108049927",
+    "108049928",
+    "108049929",
+    "108049930",
+    "108049931",
+    "108049962",
+    "108049933",
+    "108049934",
+    "108049935",
+    "108049936",
+    "108049937",
+    "108049938",
+    "108049939",
+    "108049940",
+    "108049941",
+    "108049942",
+    "108049943",
+    "108049963",
+    "108049945",
+    "108049946",
+    "108049947",
+    "108049948",
+    "108049949",
+    "108049950",
+    "108049951",
+    "108049952",
+    "108049960",
+    "108049954",
+    "108049955",
+    "108049956",
+    "108049957",
+    "108049958",
+    "108049959"
+   ]
+  },
+  {
+   "date": "2019-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:121579605:por",
+     "title": "Decreto-Lei n.º 41/2019",
+     "published": "2019-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2019-121579605"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 32.º"
+   ],
+   "fragments": [
+    "108049918",
+    "108049919",
+    "108049920",
+    "108049921",
+    "121557430",
+    "108049923",
+    "108049924",
+    "121557431",
+    "108049926",
+    "108049927",
+    "108049928",
+    "108049929",
+    "108049930",
+    "108049931",
+    "108049962",
+    "108049933",
+    "121557432",
+    "121557433",
+    "121557434",
+    "108049937",
+    "121557435",
+    "108049939",
+    "108049940",
+    "108049941",
+    "108049942",
+    "121557436",
+    "121557437",
+    "121557438",
+    "121557439",
+    "108049947",
+    "121557440",
+    "108049949",
+    "121557441",
+    "108049951",
+    "121557442",
+    "108049960",
+    "108049954",
+    "121557443",
+    "108049956",
+    "108049957",
+    "108049958",
+    "108049959"
+   ]
+  }
+ ],
+ "fragments": {
+  "108049918": {
+   "fragment_id": "108063651",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 273/2009\n\nde 1 de Outubro\n\nCom a publicação da Lei n.º 1/90, de 13 de Janeiro, que aprovou a Lei de Bases do Sistema Desportivo, foi introduzido no nosso ordenamento jurídico-desportivo o princípio de que os apoios e comparticipações financeiras atribuídos pelo Estado, pelas Regiões Autónomas ou pelas autarquias locais às diversas entidades que integram o sistema desportivo, designadamente às federações desportivas, deveriam ser titulados por contratos-programa de desenvolvimento desportivo, publicitados no Diário da República.\n\nPara concretizar tal princípio foi ulteriormente publicado o Decreto-Lei n.º 432/91, de 6 de Novembro, através do qual se estabeleceu o regime jurídico dos referidos contratos-programa de desenvolvimento desportivo.\n\nA experiência colhida pela aplicação deste decreto-lei foi globalmente positiva, pelo que tal princípio veio a ser mantido pela nova Lei de Bases da Actividade Física e do Desporto, aprovada pela Lei n.º 5/2007, de 16 de Janeiro.\n\nNo entanto, a lei referida no parágrafo anterior veio a consagrar novas exigências e requisitos em matéria de financiamento público das diversas estruturas privadas que integram ou dirigem o sistema desportivo, as quais não podem deixar de ser contempladas pelo diploma que, no desenvolvimento do regime jurídico nela consagrado, viesse a regulamentar a matéria relativa aos contratos-programa de desenvolvimento desportivo.\n\nDe entre tais aspectos, ressaltam os seguintes:\n\nA necessidade de parecer prévio vinculativo do membro do Governo responsável pela área do desporto para a concessão de financiamentos do Estado destinados à edificação de instalações desportivas, públicas e privadas;\n\nA subordinação das comparticipações financeiras públicas para construção ou melhoramento de instalações desportivas propriedade de entidades privadas, quando a natureza do investimento o justifique, e, bem assim, dos actos de cedência gratuita do uso ou da gestão de património desportivo público às mesmas entidades, à assunção por parte dos beneficiários de contrapartidas de interesse público;\n\nO prévio reconhecimento do interesse público de eventos desportivos, por despacho do membro do Governo responsável pela área do desporto, como condição para o financiamento público dos mesmos;\n\nA consagração do princípio segundo o qual os clubes desportivos participantes em competições desportivas de natureza profissional não podem beneficiar, nesse âmbito, de apoios ou comparticipações financeiras por parte do Estado, das Regiões Autónomas e das autarquias locais, sob qualquer forma, salvo no tocante à construção ou melhoramento de instalações ou equipamentos desportivos com vista à realização de competições desportivas de interesse público, como tal reconhecidas pelo membro do Governo responsável pela área do desporto;\n\nA obrigação de certificação das contas das entidades beneficiárias de financiamentos públicos, quando os montantes concedidos sejam superiores a um limite a definir no regime jurídico dos contratos-programa de desenvolvimento desportivo;\n\nA proibição de novos financiamentos públicos às entidades que estejam em situação de incumprimento das suas obrigações fiscais ou para com a segurança social, devendo ser suspensos os benefícios financeiros decorrentes de quaisquer contratos-programa em curso enquanto a situação se mantiver;\n\nA insusceptibilidade de apreensão judicial ou de oneração das verbas provenientes de financiamentos públicos, devidamente titulados por contratos-programa, uma vez que as mesmas se consideram exclusivamente afectas às finalidades para as quais foram atribuídas.\n\nA isto acresce, na sequência da publicação do regime jurídico das federações desportivas, aprovado pelo Decreto-Lei n.º 248-B/2008, de 31 de Dezembro, um outro conjunto de exigências que resultam das profundas reformas que aquele novo regime jurídico vem introduzir na orgânica e no funcionamento das federações desportivas, decorrentes das especiais exigências a que as mesmas estão subordinadas em consequência da atribuição do estatuto de utilidade pública desportiva.\n\nDaí que no presente decreto-lei se venha introduzir uma nova regra para disciplina dos financiamentos atribuídos por federações desportivas ou pelo Comité Olímpico ou Paralímpico de Portugal a entidades que lhes estão subordinadas, em consequência de as entidades concedentes terem previamente beneficiado de financiamentos públicos com tal finalidade: nestas circunstâncias estabelece-se que os apoios atribuídos por entidades desportivas devem, eles também, ser titulados por contratos-programa que clarifiquem os objectivos do apoio concedido e as obrigações assumidas pelos beneficiários, uma vez que continuam aqui em causa dinheiros públicos.\n\nFinalmente, o presente decreto-lei consagra ainda um regime destinado a evitar hiatos, decorrentes da transição de anos económicos, no financiamento dos beneficiários de contratos-programa, para o que se prevê a manutenção provisória de financiamentos até que venha a ser celebrado novo contrato-programa.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 5/2007, de 16 de Janeiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108049919": {
+   "fragment_id": "108063652",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "108049920": {
+   "fragment_id": "108063653",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei define o regime jurídico dos contratos-programa de desenvolvimento desportivo."
+  },
+  "108049921": {
+   "fragment_id": "108063654",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito\n\nPara efeitos do presente decreto-lei, entende-se por contrato-programa de desenvolvimento desportivo o contrato celebrado com vista à atribuição, por parte do Estado, das Regiões Autónomas ou das autarquias locais, directamente ou através de organismos dependentes, de apoios financeiros, materiais e logísticos, bem como de patrocínios desportivos."
+  },
+  "108049922": {
+   "fragment_id": "108063655",
+   "type": 11,
+   "heading": "Artigo 3.º — Concessão de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Concessão de apoios\n\n1 - Podem beneficiar da concessão de apoios:\n\na) O Comité Olímpico de Portugal e o Comité Paralímpico de Portugal;\n\nb) A Confederação do Desporto de Portugal;\n\nc) As federações desportivas;\n\nd) As associações ou confederações de praticantes, de treinadores e de árbitros, bem como os clubes desportivos;\n\ne) As sociedades desportivas, nos termos previstos no presente decreto-lei.\n\n2 - Os apoios financeiros directamente atribuídos aos clubes desportivos por parte do Estado só podem ter por objecto planos ou projectos específicos que não caibam nas atribuições próprias das associações de clubes e das federações desportivas e não constituam um encargo ordinário dos mesmos clubes.\n\n3 - Por despacho do membro do Governo responsável pela área do desporto podem igualmente ser concedidos apoios a outras pessoas singulares ou colectivas não previstas no n.º 1, desde que se destinem, directa ou indirectamente, ao apoio de actividades desportivas."
+  },
+  "108049923": {
+   "fragment_id": "108063656",
+   "type": 11,
+   "heading": "Artigo 4.º — Parecer vinculativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Parecer vinculativo\n\nA comparticipação financeira do Estado na edificação de instalações desportivas, públicas ou privadas, carece de parecer prévio e vinculativo do membro do Governo responsável pela área do desporto."
+  },
+  "108049924": {
+   "fragment_id": "108063657",
+   "type": 11,
+   "heading": "Artigo 5.º — Interesse público de eventos ou competições desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Interesse público de eventos ou competições desportivas\n\nPara efeitos do disposto nos n.os 1 e 2 do artigo 46.º da Lei n.º 5/2007, de 16 de Janeiro, são considerados eventos ou competições desportivas de interesse público, para além das que venham a ser reconhecidas por despacho do membro do Governo responsável pela área do desporto, as manifestações desportivas que integrem os quadros competitivos regulares das respectivas federações desportivas nacionais ou internacionais."
+  },
+  "108049925": {
+   "fragment_id": "108063658",
+   "type": 11,
+   "heading": "Artigo 6.º — Insusceptibilidade de penhora, apreensão judicial de bens ou de oneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Insusceptibilidade de penhora, apreensão judicial de bens ou de oneração\n\n1 - Os apoios financeiros concedidos ao abrigo do presente decreto-lei encontram-se exclusivamente afectos às finalidades para as quais foram atribuídos, sendo absolutamente insusceptíveis de penhora ou de outra qualquer forma de apreensão judicial de bens ou oneração.\n\n2 - O disposto no número anterior não se aplica à entidade concedente de apoios financeiros titulados por contrato-programa de desenvolvimento desportivo, quanto aos créditos resultantes de tal contrato.\n\n3 - Para efeitos do disposto no presente artigo, as entidades beneficiárias de apoios titulados por contratos-programa de desenvolvimento desportivo devem incluir no respectivo sistema contabilístico um centro de resultados para registo exclusivo dos proveitos referentes aos apoios concedidos e aos respectivos custos associados, com menção expressa da sua proveniência e da insusceptibilidade de penhora, apreensão judicial ou oneração.\n\n4 - O disposto no n.º 1 é extensivo aos bens adquiridos ou construídos com as verbas resultantes de contrato-programa de desenvolvimento desportivo, devendo, no caso de bens imóveis, ser feito averbamento do ónus de impenhorabilidade ao respectivo registo."
+  },
+  "108049926": {
+   "fragment_id": "108063659",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoios financeiros atribuídos por entidades desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoios financeiros atribuídos por entidades desportivas\n\n1 - Os apoios ou comparticipações financeiras atribuídos pelas federações desportivas aos clubes, associações regionais ou distritais ou ligas profissionais, nelas filiados, são obrigatoriamente titulados por contratos-programa de desenvolvimento desportivo, celebrados nos termos do presente decreto-lei e integralmente publicitados nas páginas electrónicas das entidades concedentes.\n\n2 - O disposto no número anterior é aplicável ao Comité Olímpico de Portugal e ao Comité Paralímpico de Portugal, em relação às verbas de que este tenha beneficiado.\n\n3 - O disposto no n.º 1 não é aplicável ao contrato a que se refere o artigo 23.º da Lei n.º 5/2007, de 16 de Janeiro."
+  },
+  "108049927": {
+   "fragment_id": "108063660",
+   "type": 1,
+   "heading": "Capítulo II — Contratos-programa de desenvolvimento e patrocínio desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Contratos-programa de desenvolvimento e patrocínio desportivos"
+  },
+  "108049928": {
+   "fragment_id": "108063661",
+   "type": 11,
+   "heading": "Artigo 8.º — Finalidade dos contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Finalidade dos contratos-programa\n\nA concessão de apoios mediante a celebração de contratos-programa de desenvolvimento desportivo tem em vista, nomeadamente, os seguintes objectivos:\n\na) Enquadrar a execução de programas concretos de promoção da actividade física e do desporto;\n\nb) Fazer acompanhar a concessão dos apoios por uma avaliação completa dos custos de programa ou projecto, assim como dos graus de autonomia financeira, técnica, material e humana previstos para a sua execução;\n\nc) Permitir a intervenção e mútua vinculação de diversas entidades interessadas na realização de um mesmo programa de desenvolvimento desportivo;\n\nd) Reforçar o sentido de responsabilidade dos outorgantes relativamente ao cumprimento das obrigações por eles livremente assumidas;\n\ne) Assegurar a plena publicidade e transparência das condições com base nas quais os apoios são concedidos."
+  },
+  "108049929": {
+   "fragment_id": "108063662",
+   "type": 11,
+   "heading": "Artigo 9.º — Patrocínio desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Patrocínio desportivo\n\n1 - Podem beneficiar de patrocínios financeiros os agentes desportivos cuja actividade, nesta qualidade, projecte internacionalmente o nome do País, bem como as pessoas, singulares ou colectivas, que promovam ou organizem eventos desportivos.\n\n2 - Aos patrocínios financeiros são aplicáveis, com as necessárias adaptações, as regras aplicáveis aos contratos-programa de desenvolvimento desportivo, salvo as que digam respeito aos programas de desenvolvimento desportivo."
+  },
+  "108049930": {
+   "fragment_id": "108063663",
+   "type": 11,
+   "heading": "Artigo 10.º — Outras partes outorgantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Outras partes outorgantes\n\n1 - Podem igualmente ser partes nos contratos-programa, além dos organismos concedente e beneficiário do apoio, outras entidades interessadas no correspondente programa de desenvolvimento desportivo ou actividade, nomeadamente estabelecimentos de ensino, associações de carácter não desportivo e autarquias locais.\n\n2 - A participação das entidades referidas no número anterior pode traduzir-se na aceitação dos direitos ou das vantagens estabelecidos a seu favor no contrato, bem como na definição de quaisquer obrigações ou contrapartidas que por elas sejam assumidas no quadro das suas atribuições respectivas."
+  },
+  "108049931": {
+   "fragment_id": "108063664",
+   "type": 11,
+   "heading": "Artigo 11.º — Programas de desenvolvimento desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Programas de desenvolvimento desportivo\n\n1 - Os contratos-programa de desenvolvimento desportivo integram, no respectivo clausulado ou em anexo ao mesmo, o programa de desenvolvimento desportivo objecto da comparticipação.\n\n2 - Para efeitos do presente decreto-lei, consideram-se programas de desenvolvimento desportivo:\n\na) Os planos regulares de acção das entidades que fomentam e dirigem, no plano nacional, regional ou local, a prática das diversas modalidades desportivas;\n\nb) Os planos de acção específica destinados a promover e divulgar a actividade física e o desporto, a organizar competições com interesse social ou desportivo relevante ou a apoiar a participação de praticantes portugueses em provas internacionais;\n\nc) Os projectos de construção ou melhoramento de instalações e equipamentos desportivos;\n\nd) As iniciativas que visem o desenvolvimento e a melhoria da prática da actividade física e do desporto, nomeadamente nos domínios da formação, da documentação, da investigação ou das relações com organismos internacionais."
+  },
+  "108049932": {
+   "fragment_id": "108063665",
+   "type": 11,
+   "heading": "Artigo 12.º — Conteúdo do programa de desenvolvimento desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conteúdo do programa de desenvolvimento desportivo\n\n1 - Os programas de desenvolvimento desportivo devem conter os seguintes elementos:\n\na) Descrição e caracterização específica das actividades a realizar;\n\nb) Justificação do programa, nomeadamente do ponto de vista do desenvolvimento das modalidades em causa e das provas, competições ou eventos desportivos a realizar;\n\nc) Quantificação dos resultados esperados com a execução do programa;\n\nd) Previsão de custos e das necessidades de financiamento público, com os respectivos cronogramas ou escalonamentos;\n\ne) Demonstração do grau de autonomia financeira, técnica, material e humana oferecido pela entidade proponente para a execução do programa, incluindo, se for caso disso, a indicação de outras comparticipações, financiamentos ou patrocínios e respectivas condições;\n\nf) Identificação de quaisquer entidades eventualmente associadas à gestão e execução do programa, definindo a natureza da sua intervenção, os seus poderes e as suas responsabilidades;\n\ng) Relações de complementaridade com outros programas já realizados ou em curso de execução na mesma área ou em áreas conexas, se os houver;\n\nh) Calendário e prazo global de execução do programa de desenvolvimento desportivo;\n\ni) Destino dos bens adquiridos ou construídos ao abrigo do programa, se a sua titularidade não ficar a pertencer à entidade outorgante do contrato, bem como a definição da entidade responsável pela sua gestão e manutenção.\n\n2 - Quando o programa tiver em vista a construção de instalações ou equipamentos desportivos deve, ainda, além dos elementos referidos no número anterior, conter a planta da respectiva localização e os estudos prévios ou descrições técnicas necessários à sua apreciação.\n\n3 - Se estiver prevista a participação de terceiras entidades no contrato-programa, devem estas ser igualmente identificadas na proposta, com indicação dos respectivos direitos e obrigações."
+  },
+  "108049933": {
+   "fragment_id": "108063666",
+   "type": 11,
+   "heading": "Artigo 13.º — Princípio da redução a escrito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Princípio da redução a escrito\n\nO texto definitivo do contrato é reduzido a escrito em tantos exemplares quantas as partes outorgantes e por elas assinado, com base em minuta previamente submetida a homologação do membro do Governo responsável pela área do desporto, quando a entidade concedente for o Estado, sem prejuízo das demais autorizações e aprovações exigidas pela lei."
+  },
+  "108049934": {
+   "fragment_id": "108063667",
+   "type": 11,
+   "heading": "Artigo 14.º — Início da vigência dos contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Início da vigência dos contratos-programa\n\n1 - Os contratos-programa entram em vigor na data da sua publicação no Diário da República, quando celebrados pelo Estado, ou na data da sua publicitação sob a forma prevista na lei para os respectivos actos, quando a entidade comparticipante for uma região autónoma ou uma autarquia local.\n\n2 - Salvo estipulação em contrário, os contratos-programa para construção ou melhoramento de instalações desportivas produzem os seus efeitos a partir da data em que tenha sido emitido o alvará que titula a autorização de utilização para actividades desportivas."
+  },
+  "108049935": {
+   "fragment_id": "108063668",
+   "type": 11,
+   "heading": "Artigo 15.º — Conteúdo dos contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conteúdo dos contratos-programa\n\n1 - Sem prejuízo de outras estipulações, os contratos-programa devem regular expressamente os seguintes pontos:\n\na) Objecto do contrato;\n\nb) Obrigações assumidas pela entidade responsável pela execução do programa de desenvolvimento desportivo;\n\nc) Entidades eventualmente associadas à gestão do programa, seus poderes e suas responsabilidades;\n\nd) Prazo de execução do programa;\n\ne) Custo previsto do programa e definição das responsabilidades de financiamento;\n\nf) Candidatura à realização de eventos internacionais;\n\ng) Regime de comparticipação financeira;\n\nh) Destino dos bens adquiridos ou construídos ao abrigo do programa e responsabilidade pela sua gestão e manutenção, bem como as garantias de afectação futura dos mesmos bens aos fins do contrato;\n\ni) Sistema de acompanhamento e controlo da execução do programa;\n\nj) Condições de revisão do contrato e, sendo caso disso, a respectiva fórmula.\n\n2 - A comparticipação financeira não deve ficar dependente de elementos ou factores não determinados no próprio contrato, mas, se for estabelecida com base numa percentagem do custo do programa, entende-se que o seu montante é o que resulta da aplicação dessa percentagem à estimativa contratual do mesmo custo.\n\n3 - Quando a comparticipação financeira tiver por objecto apenas a fase de projecto ou de arranque de uma obra ou de um plano de actividade, o contrato deve definir as obrigações assumidas pela entidade beneficiária em relação à promoção das fases subsequentes da mesma obra ou plano, bem como consequências do respectivo incumprimento."
+  },
+  "108049936": {
+   "fragment_id": "108063669",
+   "type": 11,
+   "heading": "Artigo 16.º — Limitação às remunerações dos membros dos corpos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Limitação às remunerações dos membros dos corpos sociais\n\n1 - Às entidades beneficiárias de apoios financeiros públicos titulados por contratos-programa de desenvolvimento desportivo que, no seu conjunto, correspondam a, pelo menos, 40 % do montante do respectivo orçamento anual, podem ser estabelecidos, nos referidos contratos, limites às remunerações que, directa ou indirectamente, possam ser atribuídas aos respectivos membros dos corpos sociais.\n\n2 - As cláusulas do contrato-programa referidas no número anterior prevalecem sobre quaisquer normas estatutárias ou regulamentares da entidade beneficiária.\n\n3 - A violação do clausulado referido no presente artigo constitui a entidade beneficiária na obrigação de restituição integral, à entidade concedente, dos montantes que lhe foram atribuídos pelo contrato-programa."
+  },
+  "108049937": {
+   "fragment_id": "108063670",
+   "type": 11,
+   "heading": "Artigo 17.º — Contrapartidas de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contrapartidas de interesse público\n\n1 - Os apoios financeiros concedidos por entidades públicas para construção ou melhoramento de instalações desportivas propriedade de entidades privadas, quando a natureza do investimento o justifique, e os actos de cedência gratuita do uso ou da gestão de património desportivo público às mesmas, são condicionados à assunção por estas de contrapartidas de interesse público.\n\n2 - As contrapartidas de interesse público referidas no número anterior constam do contrato-programa que titulou o apoio financeiro concedido ou a cedência gratuita do uso ou gestão do património desportivo público e podem ter por objecto outro património desportivo de que o beneficiário seja titular.\n\n3 - Quando a natureza do investimento, nos termos do n.º 1, não justificar o estabelecimento de contrapartidas de interesse público, deve constar do contrato-programa a justificação da inexistência de tais obrigações.\n\n4 - Compete à entidade concedente do apoio, se outra não for designada no contrato como titular do direito referido nos n.os 1 e 2, o exercício dos poderes de fiscalização e dos procedimentos executivos necessários para assegurar o cumprimento das obrigações assumidas."
+  },
+  "108049938": {
+   "fragment_id": "108063671",
+   "type": 11,
+   "heading": "Artigo 18.º — Contratos plurianuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contratos plurianuais\n\n1 - Os contratos-programa podem ser outorgados para vigorarem por mais de um ano económico, até ao limite de quatro anos correspondentes a cada ciclo olímpico, com especificação dos montantes que devam ser anualmente liquidados ao respectivo beneficiário.\n\n2 - Os contratos-programa referidos no presente artigo podem ser revistos anualmente, por iniciativa da entidade concedente, sempre que se preveja decréscimo na arrecadação anual das receitas próprias da entidade concedente, reajustando-se, em conformidade, os objectivos programados inicialmente."
+  },
+  "108049939": {
+   "fragment_id": "108063672",
+   "type": 11,
+   "heading": "Artigo 19.º — Acompanhamento e controlo da execução dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acompanhamento e controlo da execução dos contratos\n\n1 - Compete à entidade concedente da comparticipação financeira fiscalizar a execução do contrato-programa, podendo realizar, para o efeito, inspecções, inquéritos e sindicâncias, ou determinar a realização de uma auditoria por entidade externa.\n\n2 - As acções inspectivas mencionadas no número anterior podem ainda ter por objecto os outorgantes de contratos-programa celebrados pelos beneficiários de apoios ou comparticipações públicas nos termos previstos no artigo 7.º, devendo ser inserida nos respectivos contratos-programa cláusula expressa nesse sentido.\n\n3 - A entidade ou entidades responsáveis pela realização do programa de desenvolvimento desportivo devem prestar à entidade concedente da comparticipação financeira todas as informações por esta solicitadas acerca da execução do contrato.\n\n4 - A entidade beneficiária da comparticipação financeira inclui nos seus relatórios anuais de actividade uma referência expressa à execução dos contratos-programa celebrados.\n\n5 - Concluída a realização do programa de desenvolvimento desportivo, a entidade beneficiária da comparticipação financeira envia à entidade concedente um relatório final sobre a execução do contrato-programa."
+  },
+  "108049940": {
+   "fragment_id": "108063673",
+   "type": 11,
+   "heading": "Artigo 20.º — Obrigação de certificação das contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Obrigação de certificação das contas\n\n1 - As entidades beneficiárias de apoios nos termos do presente decreto-lei devem fazer certificar as suas contas por revisor oficial de contas ou por sociedade revisora de contas, salvo quando os apoios concedidos no ano económico sejam estimados pela entidade concedente em valor inferior a (euro) 50 000.\n\n2 - Sem prejuízo do disposto no número anterior, as entidades beneficiárias de apoios organizam a sua contabilidade por centros de custo, com reconhecimento claro dos custos incorridos por contrato-programa e a identificação de receitas."
+  },
+  "108049941": {
+   "fragment_id": "108063674",
+   "type": 11,
+   "heading": "Artigo 21.º — Revisão dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revisão dos contratos\n\n1 - Os contratos-programa podem ser modificados ou revistos nas condições que neles se encontrarem estabelecidas e, nos demais casos, por livre acordo das partes.\n\n2 - É sempre admitido o direito à revisão do contrato quando, em virtude de alteração superveniente e imprevista das circunstâncias, a sua execução se torne excessivamente onerosa para a entidade beneficiária da comparticipação financeira ou manifestamente inadequada à realização do interesse público.\n\n3 - A entidade interessada na revisão do contrato envia às demais partes outorgantes uma proposta fundamentada, donde conste expressamente a sua pretensão.\n\n4 - As entidades a quem seja enviada uma proposta de revisão do contrato comunicam a sua resposta no prazo máximo de 30 dias após a recepção da mesma."
+  },
+  "108049942": {
+   "fragment_id": "108076175",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime duodecimal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime duodecimal\n\n1 - Terminado cada ano económico, mediante despacho de autorização da entidade competente para a homologação do respectivo contrato-programa, pode a entidade concedente outorgar com os beneficiários um aditamento ao contrato-programa celebrado para o ano findo, a fim de que sejam liquidadas, até à celebração de novo contrato-programa, as quantias mensais correspondentes ao duodécimo do ano anterior.\n\n2 - O aditamento referido no número anterior não pode ter duração superior a três meses.\n\n3 - Os montantes liquidados nos termos do aditamento são levados em conta nos valores atribuídos pelos novos contratos-programa ou integralmente restituídos se se não vier a outorgar tais contratos."
+  },
+  "108049943": {
+   "fragment_id": "108076176",
+   "type": 11,
+   "heading": "Artigo 23.º — Suspensão do estatuto de utilidade pública desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Suspensão do estatuto de utilidade pública desportiva\n\nEm caso de suspensão do estatuto de utilidade pública desportiva, os apoios decorrentes de contratos-programa de desenvolvimento desportivo, a que a federação desportiva em causa teria direito, são reduzidos em montante proporcional ao período da suspensão, sendo esse valor integrado no orçamento de funcionamento do Instituto do Desporto de Portugal, I. P. (IDP, I. P.)"
+  },
+  "108049944": {
+   "fragment_id": "108076177",
+   "type": 11,
+   "heading": "Artigo 24.º — Combate à violência e à dopagem associadas ao desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Combate à violência e à dopagem associadas ao desporto\n\n1 - O incumprimento da legislação referente quer à luta contra a dopagem no desporto quer ao combate à violência, ao racismo, à xenofobia e à intolerância nos espectáculos desportivos, bem como das determinações das entidades competentes nestas áreas, implica a suspensão de todos os apoios concedidos por parte do Estado, enquanto tal incumprimento se mantiver.\n\n2 - Tratando-se de apoios financeiros decorrentes de contratos-programa de desenvolvimento desportivo, a que a federação desportiva em causa teria direito, são os mesmos reduzidos em montante proporcional ao período da suspensão, sendo esse valor integrado no orçamento de funcionamento do IDP, I. P."
+  },
+  "108049945": {
+   "fragment_id": "108076178",
+   "type": 11,
+   "heading": "Artigo 25.º — Obrigações fiscais e para com a segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Obrigações fiscais e para com a segurança social\n\n1 - Não podem beneficiar de novos apoios financeiros por parte do Estado, das Regiões Autónomas e das autarquias locais, as entidades que se encontram em situação de incumprimento das suas obrigações fiscais ou para com a segurança social, sendo suspensos os apoios decorrentes de quaisquer contratos-programa em curso enquanto a situação se mantiver.\n\n2 - Para efeitos do disposto no número anterior a entidade que pretende beneficiar de apoios financeiros deve prestar consentimento expresso para a consulta da respectiva situação tributária pelos serviços da entidade concedente, nos termos previstos no n.º 1 do artigo 4.º do Decreto-Lei n.º 114/2007, de 19 de Abril."
+  },
+  "108049946": {
+   "fragment_id": "108076179",
+   "type": 11,
+   "heading": "Artigo 26.º — Cessação dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cessação dos contratos\n\n1 - Cessa a vigência dos contratos-programa:\n\na) Quando esteja concluído o programa de desenvolvimento desportivo que constitui o seu objecto;\n\nb) Quando, por causa não imputável à entidade responsável pela execução do programa, se tome objectiva e definitivamente impossível a realização dos seus objectivos essenciais;\n\nc) Quando a entidade concedente do apoio exerça o seu direito de resolver o contrato;\n\nd) Quando, no prazo estipulado pela entidade concedente, não forem apresentados os documentos mencionados no n.º 2 do artigo anterior.\n\n2 - A cessação do contrato efectua-se através de notificação dirigida às demais partes outorgantes, no prazo máximo de 30 dias a contar do conhecimento do facto que lhe serve de fundamento."
+  },
+  "108049947": {
+   "fragment_id": "108076180",
+   "type": 1,
+   "heading": "Capítulo III — Publicitação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Publicitação dos apoios"
+  },
+  "108049948": {
+   "fragment_id": "108076181",
+   "type": 11,
+   "heading": "Artigo 27.º — Publicação dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Publicação dos contratos\n\n1 - Os contratos-programa e os contratos de patrocínio desportivo são publicados na 2.ª série do Diário da República, quando celebrados pelo Estado, ou sob a forma de publicação prevista na lei para os respectivos actos, quando a entidade comparticipante for uma região autónoma ou autarquia local.\n\n2 - A publicação dos contratos mencionados no número anterior é feita com exclusão dos respectivos anexos, os quais, contudo, devem ser publicitados na íntegra, conjuntamente com o contrato a que dizem respeito, na página electrónica da entidade concedente."
+  },
+  "108049949": {
+   "fragment_id": "108076182",
+   "type": 1,
+   "heading": "Capítulo IV — Contencioso dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Contencioso dos contratos"
+  },
+  "108049950": {
+   "fragment_id": "108076183",
+   "type": 11,
+   "heading": "Artigo 28.º — Mora e incumprimento dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Mora e incumprimento dos contratos\n\n1 - O atraso na realização do programa de desenvolvimento desportivo confere à entidade concedente da comparticipação financeira o direito de fixar novo prazo ou novo calendário para a sua execução.\n\n2 - Verificado novo atraso, a entidade concedente tem o direito de resolver o contrato, mas as quantias que já tiverem sido pagas a título de comparticipação só lhe devem ser restituídas na medida em que a realização do objecto do contrato ficar comprometido.\n\n3 - Quando se verifique mora no pagamento da comparticipação financeira, por parte da entidade concedente, a entidade beneficiária tem o direito de ser compensada pelos prejuízos daí resultantes."
+  },
+  "108049951": {
+   "fragment_id": "108076184",
+   "type": 11,
+   "heading": "Artigo 29.º — Direito à restituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direito à restituição\n\n1 - O incumprimento culposo do contrato-programa de desenvolvimento desportivo, por parte da entidade beneficiária da comparticipação financeira, confere à entidade concedente o direito de reaver todas as quantias pagas, quando se verifique a impossibilidade de realização dos fins essenciais do programa.\n\n2 - Nos demais casos não referidos no número anterior, o incumprimento confere à entidade concedente apenas o direito de reduzir proporcionalmente a sua comparticipação.\n\n3 - Quando, em virtude de incumprimento do contrato por parte da entidade beneficiária da comparticipação financeira, fique incompleta a construção de instalações ou equipamentos desportivos, pode a conclusão das obras ser assumida pela entidade concedente com base na revisão, por mútuo acordo, das condições contratuais, havendo lugar, neste caso, apenas a reposição das quantias pagas na parte correspondente ao incumprimento.\n\n4 - Sem prejuízo da responsabilidade das entidades beneficiárias de comparticipações financeiras, os membros dos respectivos órgãos de gestão só respondem pessoalmente pelo reembolso das quantias aplicadas a fins diversos dos fixados no contrato-programa quando se prove ter havido da sua parte actuação dolosa ou fraudulenta."
+  },
+  "108049952": {
+   "fragment_id": "108076185",
+   "type": 11,
+   "heading": "Artigo 30.º — Dever de sustação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Dever de sustação\n\n1 - As entidades que deixarem culposamente de cumprir um contrato-programa de desenvolvimento desportivo não podem beneficiar de novas comparticipações financeiras, enquanto não repuserem as quantias que nos termos do artigo anterior devam ser restituídas.\n\n2 - A reposição das quantias a que se refere o número anterior pode ser efectuada mediante a retenção, por parte do IDP, I. P., de verbas afectas a esse ou outros contratos-programa de desenvolvimento desportivo, celebrados pela mesma entidade, desde que não se coloquem em causa os fins essenciais dos mesmos."
+  },
+  "108049953": {
+   "fragment_id": "108076186",
+   "type": 11,
+   "heading": "Artigo 31.º — Litígios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Litígios\n\n1 - Os litígios emergentes da execução dos contratos-programa de desenvolvimento desportivo são submetidos a arbitragem.\n\n2 - À constituição e ao funcionamento da arbitragem referida no número anterior é aplicável o disposto na Lei n.º 31/86, de 29 de Agosto.\n\n3 - Da decisão arbitral cabe recurso, de facto e de direito, para o tribunal administrativo competente."
+  },
+  "108049954": {
+   "fragment_id": "108076187",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "108049955": {
+   "fragment_id": "108076188",
+   "type": 11,
+   "heading": "Artigo 32.º — Base de dados interministerial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Base de dados interministerial\n\n1 - O IDP, I. P., organiza e mantém uma base de dados interministerial que centralize a totalidade dos apoios concedidos por entidades públicas às entidades desportivas, nos termos a definir por portaria do membro do Governo responsável pela área do desporto.\n\n2 - Os recursos financeiros necessários ao funcionamento da base de dados mencionada no número anterior são assegurados por verbas provenientes do Orçamento de Estado."
+  },
+  "108049956": {
+   "fragment_id": "108076189",
+   "type": 11,
+   "heading": "Artigo 33.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regiões Autónomas\n\nO presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respectiva autonomia político-administrativa, cabendo a sua execução administrativa aos serviços e organismos das respectivas administrações regionais autónomas com atribuições e competências no âmbito do presente decreto-lei, sem prejuízo das atribuições das entidades de âmbito nacional."
+  },
+  "108049957": {
+   "fragment_id": "108076190",
+   "type": 11,
+   "heading": "Artigo 34.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 432/91, de 6 de Novembro."
+  },
+  "108049958": {
+   "fragment_id": "108076191",
+   "type": 11,
+   "heading": "Artigo 35.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "108049961": {
+   "fragment_id": "108063655",
+   "type": 11,
+   "heading": "Artigo 3.º — Concessão de apoios",
+   "in_force_from": "2017-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02"
+   ],
+   "markdown": "###### Artigo 3.º — Concessão de apoios\n\n1 - Podem beneficiar da concessão de apoios:\n\na) O Comité Olímpico de Portugal e o Comité Paralímpico de Portugal;\n\nb) A Confederação do Desporto de Portugal;\n\nc) As federações desportivas;\n\nd) As associações ou confederações de praticantes, de treinadores e de árbitros, bem como os clubes desportivos;\n\ne) As sociedades desportivas, nos termos previstos no presente decreto-lei.\n\n2 - Os apoios financeiros directamente atribuídos aos clubes desportivos por parte do Estado só podem ter por objecto planos ou projectos específicos que não caibam nas atribuições próprias das associações de clubes e das federações desportivas e não constituam um encargo ordinário dos mesmos clubes.\n\n3 - Por despacho do membro do Governo responsável pela área do desporto podem igualmente ser concedidos apoios a outras pessoas singulares ou colectivas não previstas no n.º 1, desde que se destinem, directa ou indirectamente, ao apoio de actividades desportivas.\n\n4 - É condição para a atribuição de apoios à federação desportiva a aprovação e execução por parte desta de programas de prevenção, formação e educação relativos à defesa da integridade das competições, e à luta contra a dopagem, a corrupção e a viciação de resultados, e ao combate à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02"
+  },
+  "108049962": {
+   "fragment_id": "108063665",
+   "type": 11,
+   "heading": "Artigo 12.º — Conteúdo do programa de desenvolvimento desportivo",
+   "in_force_from": "2017-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02"
+   ],
+   "markdown": "###### Artigo 12.º — Conteúdo do programa de desenvolvimento desportivo\n\n1 - Os programas de desenvolvimento desportivo devem conter os seguintes elementos:\n\na) Descrição e caracterização específica das actividades a realizar;\n\nb) Justificação do programa, nomeadamente do ponto de vista do desenvolvimento das modalidades em causa e das provas, competições ou eventos desportivos a realizar;\n\nc) Quantificação dos resultados esperados com a execução do programa;\n\nd) Previsão de custos e das necessidades de financiamento público, com os respectivos cronogramas ou escalonamentos;\n\ne) Demonstração do grau de autonomia financeira, técnica, material e humana oferecido pela entidade proponente para a execução do programa, incluindo, se for caso disso, a indicação de outras comparticipações, financiamentos ou patrocínios e respectivas condições;\n\nf) Identificação de quaisquer entidades eventualmente associadas à gestão e execução do programa, definindo a natureza da sua intervenção, os seus poderes e as suas responsabilidades;\n\ng) Relações de complementaridade com outros programas já realizados ou em curso de execução na mesma área ou em áreas conexas, se os houver;\n\nh) Calendário e prazo global de execução do programa de desenvolvimento desportivo;\n\ni) Destino dos bens adquiridos ou construídos ao abrigo do programa, se a sua titularidade não ficar a pertencer à entidade outorgante do contrato, bem como a definição da entidade responsável pela sua gestão e manutenção.\n\nj) Articulação do programa de desenvolvimento desportivo com os programas de prevenção, formação e educação relativos à defesa da integridade das competições da respetiva federação desportiva.\n\n2 - Quando o programa tiver em vista a construção de instalações ou equipamentos desportivos deve, ainda, além dos elementos referidos no número anterior, conter a planta da respectiva localização e os estudos prévios ou descrições técnicas necessários à sua apreciação.\n\n3 - Se estiver prevista a participação de terceiras entidades no contrato-programa, devem estas ser igualmente identificadas na proposta, com indicação dos respectivos direitos e obrigações.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02"
+  },
+  "108049963": {
+   "fragment_id": "108076177",
+   "type": 11,
+   "heading": "Artigo 24.º — Defesa da integridade e combate à violência, à corrupção e à dopagem associadas ao desporto",
+   "in_force_from": "2017-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02"
+   ],
+   "markdown": "###### Artigo 24.º — Defesa da integridade e combate à violência, à corrupção e à dopagem associadas ao desporto\n\n1 - O incumprimento da legislação referente à defesa da integridade das competições, à luta contra a dopagem, à corrupção e à viciação de resultados, à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos, bem como das determinações das entidades competentes nestas áreas, implica a suspensão de todos os apoios concedidos por parte do Estado, enquanto tal incumprimento se mantiver.\n\n2 - Tratando-se de apoios financeiros decorrentes de contratos-programa de desenvolvimento desportivo, a que a federação desportiva em causa teria direito, são os mesmos reduzidos em montante proporcional ao período da suspensão, sendo esse valor integrado no orçamento de funcionamento do IDP, I. P.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02"
+  },
+  "108049960": {
+   "fragment_id": "108076186",
+   "type": 11,
+   "heading": "Artigo 31.º — Litígios",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 74/2013 - Diário da República n.º 172/2013, Série I de 2013-09-06](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251)"
+   ],
+   "markdown": "###### Artigo 31.º — Litígios\n\n1 - Os litígios emergentes da execução dos contratos-programa de desenvolvimento desportivo são submetidos a arbitragem.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 74/2013 - Diário da República n.º 172/2013, Série I de 2013-09-06](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251)"
+  },
+  "108049959": {
+   "fragment_id": "108076192",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2009. - Fernando Teixeira dos Santos - Carlos Manuel Baptista Lobo - Jorge Lacão Costa - José António Fonseca Vieira da Silva.\n\nPromulgado em 17 de Setembro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 18 de Setembro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "121557430": {
+   "fragment_id": "108063655",
+   "type": 11,
+   "heading": "Artigo 3.º — Concessão de apoios",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02"
+   ],
+   "markdown": "###### Artigo 3.º — Concessão de apoios\n\n1 - Podem beneficiar da concessão de apoios:\n\na) O Comité Olímpico de Portugal e o Comité Paralímpico de Portugal;\n\nb) A Confederação do Desporto de Portugal;\n\nc) As federações desportivas;\n\nd) As associações ou confederações de praticantes, de treinadores e de árbitros, bem como os clubes desportivos e as associações promotoras do desporto;\n\ne) As sociedades desportivas, nos termos previstos no presente decreto-lei.\n\n2 - Os apoios financeiros directamente atribuídos aos clubes desportivos por parte do Estado só podem ter por objecto planos ou projectos específicos que não caibam nas atribuições próprias das associações de clubes e das federações desportivas e não constituam um encargo ordinário dos mesmos clubes.\n\n3 - Por despacho do membro do Governo responsável pela área do desporto podem igualmente ser concedidos apoios a outras pessoas singulares ou colectivas não previstas no n.º 1, desde que se destinem, directa ou indirectamente, ao apoio de actividades desportivas.\n\n4 - É condição para a atribuição de apoios à federação desportiva a aprovação e execução por parte desta de programas de prevenção, formação e educação relativos à defesa da integridade das competições, e à luta contra a dopagem, a corrupção e a viciação de resultados, e ao combate à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02"
+  },
+  "121557431": {
+   "fragment_id": "108063658",
+   "type": 11,
+   "heading": "Artigo 6.º — Insusceptibilidade de penhora, apreensão judicial de bens ou de oneração",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 6.º — Insusceptibilidade de penhora, apreensão judicial de bens ou de oneração\n\n1 - Os apoios financeiros concedidos ao abrigo do presente decreto-lei encontram-se exclusivamente afectos às finalidades para as quais foram atribuídos, sendo absolutamente insusceptíveis de penhora ou de outra qualquer forma de apreensão judicial de bens ou oneração.\n\n2 - O disposto no número anterior não se aplica à entidade concedente de apoios financeiros titulados por contrato-programa de desenvolvimento desportivo, quanto aos créditos resultantes de tal contrato.\n\n3 - Sem prejuízo das normas contabilísticas aplicáveis, para efeitos do disposto no presente artigo, as entidades beneficiárias de apoios titulados por contratos-programa de desenvolvimento desportivo devem manter um registo detalhado e atualizado dos proveitos referentes aos apoios concedidos e aos respetivos custos associados, com menção expressa da sua proveniência e da insuscetibilidade de penhora, apreensão judicial ou oneração, conforme modelo aprovado por despacho do conselho diretivo do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), ou, quando o apoio é prestado por municípios, pela câmara municipal respetiva.\n\n4 - O disposto no n.º 1 é extensivo aos bens adquiridos ou construídos com as verbas resultantes de contrato-programa de desenvolvimento desportivo, devendo, no caso de bens imóveis, ser feito averbamento do ónus de impenhorabilidade ao respectivo registo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557432": {
+   "fragment_id": "108063667",
+   "type": 11,
+   "heading": "Artigo 14.º — Início da vigência dos contratos-programa",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 14.º — Início da vigência dos contratos-programa\n\n1 - Os contratos-programa entram em vigor na data da sua publicitação na página eletrónica das entidades concedentes dos apoios.\n\n2 - Salvo estipulação em contrário, os contratos-programa para construção ou melhoramento de instalações desportivas produzem os seus efeitos a partir da data em que tenha sido emitido o alvará que titula a autorização de utilização para actividades desportivas.\n\n3 - A comparticipação estabelecida no contrato-programa abrange a totalidade do programa desportivo a apoiar, independentemente da data do seu início.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557433": {
+   "fragment_id": "108063668",
+   "type": 11,
+   "heading": "Artigo 15.º — Conteúdo dos contratos-programa",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 15.º — Conteúdo dos contratos-programa\n\n1 - Sem prejuízo de outras estipulações, os contratos-programa devem regular expressamente os seguintes pontos:\n\na) Objecto do contrato;\n\nb) Obrigações assumidas pela entidade responsável pela execução do programa de desenvolvimento desportivo;\n\nc) Entidades eventualmente associadas à gestão do programa, seus poderes e suas responsabilidades;\n\nd) Início e termo de execução do programa;\n\ne) Custo previsto do programa e definição das responsabilidades de financiamento;\n\nf) Candidatura à realização de eventos internacionais;\n\ng) Regime de comparticipação financeira;\n\nh) Destino dos bens adquiridos ou construídos ao abrigo do programa e responsabilidade pela sua gestão e manutenção, bem como as garantias de afectação futura dos mesmos bens aos fins do contrato;\n\ni) Sistema de acompanhamento e controlo da execução do programa;\n\nj) Condições de revisão do contrato e, sendo caso disso, a respectiva fórmula.\n\n2 - A comparticipação financeira não deve ficar dependente de elementos ou factores não determinados no próprio contrato, mas, se for estabelecida com base numa percentagem do custo do programa, entende-se que o seu montante é o que resulta da aplicação dessa percentagem à estimativa contratual do mesmo custo.\n\n3 - Quando a comparticipação financeira tiver por objecto apenas a fase de projecto ou de arranque de uma obra ou de um plano de actividade, o contrato deve definir as obrigações assumidas pela entidade beneficiária em relação à promoção das fases subsequentes da mesma obra ou plano, bem como consequências do respectivo incumprimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557434": {
+   "fragment_id": "108063669",
+   "type": 11,
+   "heading": "Artigo 16.º — Limitação às remunerações dos membros dos corpos sociais",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 16.º — Limitação às remunerações dos membros dos corpos sociais\n\n1 - Às entidades beneficiárias de apoios financeiros públicos titulados por contratos-programa de desenvolvimento desportivo que, no seu conjunto, correspondam a, pelo menos, 40 % do montante do respectivo orçamento anual, podem ser estabelecidos, nos referidos contratos, limites às remunerações que, directa ou indirectamente, possam ser atribuídas aos respectivos membros dos corpos sociais.\n\n2 - A limitação referida no número anterior compreende todas as quantias suscetíveis de serem tributadas em sede de Imposto sobre o Rendimento das Pessoas Singulares.\n\n3 - As cláusulas do contrato-programa referidas no n.º 1 prevalecem sobre quaisquer normas estatutárias ou regulamentares da entidade beneficiária.\n\n4 - Sem prejuízo do disposto no artigo 29.º, a violação do presente artigo constitui a entidade beneficiária na obrigação de restituição à entidade concedente do montante correspondente à parte que ultrapassa a limitação indicada no n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557435": {
+   "fragment_id": "108063671",
+   "type": 11,
+   "heading": "Artigo 18.º — Contratos plurianuais",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 18.º — Contratos plurianuais\n\n1 - Os contratos-programa podem ser outorgados para vigorarem por mais de um ano económico, até ao limite de quatro anos, com especificação dos montantes que devam ser anualmente liquidados ao respetivo beneficiário.\n\n2 - Os contratos-programa referidos no presente artigo podem ser revistos anualmente, por iniciativa da entidade concedente, sempre que se preveja decréscimo na arrecadação anual das receitas próprias da entidade concedente, reajustando-se, em conformidade, os objectivos programados inicialmente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557436": {
+   "fragment_id": "108076176",
+   "type": 11,
+   "heading": "Artigo 23.º — Suspensão do estatuto de utilidade pública desportiva",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 23.º — Suspensão do estatuto de utilidade pública desportiva\n\nEm caso de suspensão do estatuto de utilidade pública desportiva, os apoios decorrentes de contratos-programa de desenvolvimento desportivo, a que a federação desportiva em causa teria direito, são reduzidos em montante proporcional ao período da suspensão, sendo esse valor integrado no orçamento de funcionamento do IPDJ, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557437": {
+   "fragment_id": "108076177",
+   "type": 11,
+   "heading": "Artigo 24.º — Defesa da integridade e combate à violência, à corrupção e à dopagem associadas ao desporto",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02"
+   ],
+   "markdown": "###### Artigo 24.º — Defesa da integridade e combate à violência, à corrupção e à dopagem associadas ao desporto\n\n1 - O incumprimento da legislação referente à defesa da integridade das competições, à luta contra a dopagem, à corrupção e à viciação de resultados, à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos, bem como das determinações das entidades competentes nestas áreas, implica a suspensão de todos os apoios concedidos por parte do Estado, enquanto tal incumprimento se mantiver.\n\n2 - Tratando-se de apoios financeiros decorrentes de contratos-programa de desenvolvimento desportivo, a que a federação desportiva em causa teria direito, são os mesmos reduzidos em montante proporcional ao período da suspensão, sendo esse valor integrado no orçamento de funcionamento do IPDJ, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02"
+  },
+  "121557438": {
+   "fragment_id": "108076178",
+   "type": 11,
+   "heading": "Artigo 25.º — Obrigações fiscais e para com a segurança social",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 25.º — Obrigações fiscais e para com a segurança social\n\n1 - Não podem beneficiar de novos apoios financeiros por parte do Estado, das Regiões Autónomas e das autarquias locais, as entidades que se encontram em situação de incumprimento das suas obrigações fiscais, para com a segurança social ou decorrentes de contratos-programa anteriores ou em vigor, sendo suspensos os apoios decorrentes de quaisquer contratos-programa em curso enquanto a situação se mantiver.\n\n2 - Para efeitos do disposto no número anterior, a entidade que pretende beneficiar de apoios financeiros deve prestar consentimento expresso para a consulta da respetiva situação tributária e contributiva pelos serviços da entidade concedente, nos termos previstos no n.º 1 do artigo 4.º do Decreto-Lei n.º 114/2007, de 19 de abril, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557439": {
+   "fragment_id": "108076179",
+   "type": 11,
+   "heading": "Artigo 26.º — Cessação dos contratos",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 26.º — Cessação dos contratos\n\n1 - Cessa a vigência dos contratos-programa:\n\na) Quando esteja concluído o programa de desenvolvimento desportivo objeto de apoio, sem prejuízo do cabal cumprimento das obrigações contratualmente assumidas;\n\nb) Quando, por causa não imputável à entidade responsável pela execução do programa, se tome objectiva e definitivamente impossível a realização dos seus objectivos essenciais;\n\nc) Quando a entidade concedente do apoio exerça o seu direito de resolver o contrato;\n\nd) Quando, no prazo estipulado pela entidade concedente, não forem apresentados os documentos mencionados no n.º 2 do artigo anterior.\n\n2 - A cessação do contrato efectua-se através de notificação dirigida às demais partes outorgantes, no prazo máximo de 30 dias a contar do conhecimento do facto que lhe serve de fundamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557440": {
+   "fragment_id": "108076181",
+   "type": 11,
+   "heading": "Artigo 27.º — Publicitação dos contratos",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 27.º — Publicitação dos contratos\n\n1 - Os contratos-programa e os contratos de patrocínio desportivo, assim como os respetivos anexos, são publicitados na página eletrónica das entidades concedentes dos apoios.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557441": {
+   "fragment_id": "108076183",
+   "type": 11,
+   "heading": "Artigo 28.º — Mora e incumprimento dos contratos",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 28.º — Mora e incumprimento dos contratos\n\n1 - O atraso na realização do programa de desenvolvimento desportivo confere à entidade concedente da comparticipação financeira o direito de fixar novo prazo ou novo calendário para a sua execução.\n\n2 - Verificado novo atraso, a entidade concedente tem o direito de resolver o contrato, havendo lugar à restituição das quantias que já tiverem sido pagas a título de comparticipação se o objeto do contrato ficar comprometido.\n\n3 - Quando se verifique mora no pagamento da comparticipação financeira, por parte da entidade concedente, a entidade beneficiária tem o direito de ser compensada pelos prejuízos daí resultantes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557442": {
+   "fragment_id": "108076185",
+   "type": 11,
+   "heading": "Artigo 30.º — Dever de sustação",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 30.º — Dever de sustação\n\n1 - As entidades que deixarem culposamente de cumprir um contrato-programa de desenvolvimento desportivo não podem beneficiar de novas comparticipações financeiras, enquanto não repuserem as quantias que nos termos do artigo anterior devam ser restituídas.\n\n2 - A reposição das quantias a que se refere o número anterior pode ser efetuada mediante a retenção, pelas entidades concedentes do apoio, de verbas afetas a esse ou outros contratos-programa de desenvolvimento desportivo, celebrados pela mesma entidade, desde que não se coloquem em causa os fins essenciais dos mesmos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  },
+  "121557443": {
+   "fragment_id": "108076188",
+   "type": 11,
+   "heading": "Artigo 32.º — Base de dados interministerial",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 32.º — Base de dados interministerial\n\n1 - O IPDJ, I. P., organiza e mantém uma base de dados interministerial que centralize a totalidade dos apoios concedidos por entidades públicas às entidades desportivas, nos termos a definir por portaria do membro do Governo responsável pela área do desporto.\n\n2 - Os recursos financeiros necessários ao funcionamento da base de dados mencionada no número anterior são assegurados por verbas provenientes do Orçamento de Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2019-121579605), em vigor a partir de 2019-03-27"
+  }
+ }
+}

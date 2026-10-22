@@ -1,0 +1,253 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:443876:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-906044224",
+ "dre_path": "/dr/detalhe/portaria/1449-2008-443876",
+ "source_lastmod": "2025-02-04",
+ "versions": [
+  {
+   "date": "2008-12-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "906104175",
+    "906104176",
+    "906104177",
+    "906104178",
+    "906104179",
+    "906104180",
+    "906104181",
+    "906104182",
+    "906104183",
+    "906104184",
+    "906104185",
+    "906104186",
+    "906104187",
+    "906104188",
+    "906104189",
+    "906104190",
+    "906104191",
+    "906104192",
+    "906104193",
+    "906104194",
+    "906104195",
+    "906104196",
+    "906104197",
+    "906104198",
+    "906104199",
+    "906104200"
+   ]
+  }
+ ],
+ "fragments": {
+  "906104175": {
+   "fragment_id": "906044225",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1449/2008\n\nde 16 de Dezembro\n\nA Lei n.º 63/2007, de 6 de Novembro, que aprova a orgânica da Guarda Nacional Republicana (GNR), introduziu modificações ao nível dos órgãos de conselho do comandante-geral desta força de segurança, alterando a composição do Conselho Superior da Guarda (CSG), que doravante passa a funcionar em composição restrita ou alargada consoante o tipo de matérias a tratar e o número de membros que o constituem.\n\nAinda no âmbito dos órgãos de conselho dependentes do comandante-geral da GNR, a Lei n.º 63/2007, de 6 de Novembro, cria um novo órgão de consulta em matéria de justiça e disciplina - o Conselho de Ética, Deontologia e Disciplina (CEDD).\n\nQuer o CSG, em composição alargada, quer o CEDD preconizam a participação de representantes das categorias de oficiais, sargentos e guardas, competindo ao ministro da tutela definir, através de portaria, os termos da sua eleição.\n\nNeste contexto, necessário se torna regulamentar o respectivo mecanismo eleitoral, quer quanto à forma e modo da sua aplicabilidade quer quanto ao apuramento final dos referidos representantes.\n\nAssim:\n\nAo abrigo das disposições conjugadas dos artigos 28.º, n.º 3, alínea g), 29.º, n.º 2, alínea h), e 53.º, n.º 6, alínea d), da Lei n.º 63/2007, de 6 de Novembro:\n\nManda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "906104176": {
+   "fragment_id": "906044226",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "906104177": {
+   "fragment_id": "906044227",
+   "type": 11,
+   "heading": "Artigo 1.º — Níveis de designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Níveis de designação\n\nOs representantes das categorias profissionais de oficiais, sargentos e guardas para o Conselho Superior da Guarda (CSG) e para o Conselho de Ética, Deontologia e Disciplina (CEDD) da Guarda Nacional Republicana (GNR), doravante identificados pela sigla respectiva ou designados por Conselhos, são eleitos pelos militares mais votados de cada unidade e do estabelecimento de ensino, sendo uns e outros eleitos nos termos e de acordo com o disposto nas presentes normas."
+  },
+  "906104178": {
+   "fragment_id": "906044228",
+   "type": 11,
+   "heading": "Artigo 2.º — Capacidade eleitoral activa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Capacidade eleitoral activa\n\nTêm capacidade para eleger os representantes da categoria a que pertencem todos os militares dos quadros permanentes da GNR na situação de activo e reserva na efectividade de serviço, bem como os militares reformados dos quadros permanentes da GNR, desde que a prestar serviço efectivo, nos termos previstos no artigo 88.º do Estatuto dos Militares da GNR."
+  },
+  "906104179": {
+   "fragment_id": "906044229",
+   "type": 11,
+   "heading": "Artigo 3.º — Capacidade eleitoral passiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Capacidade eleitoral passiva\n\n1 - Sem prejuízo do disposto no número seguinte, são elegíveis como representantes da categoria respectiva todos os militares da GNR com capacidade eleitoral activa.\n\n2 - Não podem ser eleitos como representantes os militares que se encontrem nas seguintes situações:\n\na) Que, por inerência de funções, sejam membros dos Conselhos;\n\nb) Na situação de activo, quando em qualquer das seguintes situações:\n\ni) Em comissão especial;\n\nii) Em ausência ilegítima de serviço;\n\niii) Colocados nas 3.ª e 4.ª classes de comportamento;\n\niv) De licença sem vencimento;\n\nv) Na situação de reserva fora da efectividade de serviço;\n\nc) Que tenham sido eleitos, consecutivamente, nos últimos dois mandatos."
+  },
+  "906104180": {
+   "fragment_id": "906044230",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição da representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição da representação\n\nO número de representantes de cada uma das categorias profissionais de militares em cada um dos Conselhos é o seguinte:\n\na) Oficiais - três, sendo um oficial superior e dois capitães ou oficiais subalternos;\n\nb) Sargentos - três, sendo um sargento-mor ou sargento-chefe, um sargento-ajudante e um primeiro ou segundo-sargento;\n\nc) Guardas - cinco, sendo um cabo-mor ou cabo-chefe, dois cabos e dois guardas principais ou guardas."
+  },
+  "906104181": {
+   "fragment_id": "906044231",
+   "type": 1,
+   "heading": "Capítulo II — Organização dos processos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização dos processos eleitorais"
+  },
+  "906104182": {
+   "fragment_id": "906044232",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo eleitoral\n\n1 - Os processos destinados a eleger os representantes das diferentes categoriais profissionais dos militares da GNR no CSG em composição alargada e no CEDD são promovidos obrigatoriamente de três em três anos pelo comandante-geral, nos termos e de acordo com o disposto nas presentes normas.\n\n2 - Os processos eleitorais referidos no número anterior podem ser realizados simultaneamente.\n\n3 - A eleição dos representantes referidos no n.º 1 é feita, em todos os escrutínios do processo eleitoral, por voto secreto e pessoal.\n\n4 - O voto é, em regra, presencial e, sempre que possível, deve ocorrer no local onde o militar presta serviço.\n\n5 - Sempre que não seja possível o voto presencial, o militar pode votar por correspondência dirigida ao presidente da mesa de voto.\n\n6 - Em caso de empate na votação, considera-se eleito o militar de maior graduação ou antiguidade.\n\n7 - O comandante-geral determina, por despacho, a data das eleições, com a antecedência mínima de 60 dias relativamente à data de cessação de funções dos representantes."
+  },
+  "906104183": {
+   "fragment_id": "906044233",
+   "type": 11,
+   "heading": "Artigo 6.º — Coordenação e calendarização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Coordenação e calendarização\n\nSem prejuízo do disposto nas presentes normas, as instruções de coordenação e as regras a observar na votação por correspondência, bem como o calendário dos processos eleitorais, são definidas por despacho do comandante-geral."
+  },
+  "906104184": {
+   "fragment_id": "906044234",
+   "type": 11,
+   "heading": "Artigo 7.º — Mesas de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mesas de voto\n\n1 - As mesas de voto são constituídas por dois militares nomeados pelo escalão de comando em que se encontrem integrados, exercendo o mais graduado ou mais antigo as funções de presidente e o outro as funções de vogal.\n\n2 - Compete ao presidente presidir à mesa de voto, receber os votos por correspondência e, juntamente com o vogal, fiscalizar o acto eleitoral.\n\n3 - Compete ao vogal elaborar a acta do escrutínio, referindo o número de votantes, votos válidos, votos nulos e abstenções e, juntamente com o presidente, fiscalizar o acto eleitoral."
+  },
+  "906104185": {
+   "fragment_id": "906044235",
+   "type": 11,
+   "heading": "Artigo 8.º — Listas dos militares elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Listas dos militares elegíveis\n\n1 - São elaboradas pelas unidades as seguintes listas de militares com capacidade eleitoral passiva:\n\na) Listas de oficiais:\n\ni) Lista dos oficiais superiores da unidade;\n\nii) Lista dos capitães e subalternos da unidade;\n\nb) Listas de sargentos:\n\ni) Lista dos sargentos-mores e sargentos-chefes da unidade;\n\nii) Lista dos sargentos-ajudantes da unidade;\n\niii) Lista dos primeiros e segundos-sargentos da unidade;\n\nc) Listas de guardas nas unidades territoriais e especializadas:\n\ni) Listas dos cabos-mores, cabos-chefes e cabos de cada subunidade de escalão destacamento;\n\nii) Listas dos guardas principais e guardas de cada subunidade de escalão destacamento;\n\niii) Listas dos cabos-mores, cabos-chefes e cabos da unidade eleitos ao nível do escalão destacamento;\n\niv) Listas dos guardas principais e guardas da unidade eleitos ao nível do escalão destacamento;\n\nd) Listas de guardas nas restantes unidades:\n\ni) Listas dos cabos-mores, cabos-chefes e cabos da unidade;\n\nii) Listas dos guardas principais e guardas da unidade.\n\n2 - Para efeitos de elaboração das listas, os militares colocados nos Serviços Sociais integram as listas do Comando-Geral."
+  },
+  "906104186": {
+   "fragment_id": "906044236",
+   "type": 11,
+   "heading": "Artigo 9.º — Eleição de oficiais nas unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Eleição de oficiais nas unidades\n\nA eleição dos candidatos a representantes dos oficiais é efectuada entre os oficiais da unidade respectiva, obedecendo às seguintes regras:\n\na) Todos os oficiais com capacidade eleitoral activa votam nominalmente em dois militares de cada uma das listas referidas na alínea a) do n.º 1 do artigo anterior;\n\nb) O oficial mais votado na lista prevista na subalínea i) e os dois oficiais mais votados na lista prevista na subalínea ii), ambas da alínea a) do n.º 1 do artigo anterior, são eleitos candidatos da categoria de oficiais a representantes da unidade para os CSG e CEDD."
+  },
+  "906104187": {
+   "fragment_id": "906044237",
+   "type": 11,
+   "heading": "Artigo 10.º — Eleição de sargentos nas unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Eleição de sargentos nas unidades\n\nA eleição dos candidatos a representantes dos sargentos é efectuada entre os sargentos da unidade respectiva, obedecendo às seguintes regras:\n\na) Todos os sargentos com capacidade eleitoral activa votam nominalmente em dois militares de cada uma das listas referidas na alínea b) do n.º 1 do artigo 8.º;\n\nb) Os sargentos mais votados em cada uma das listas são eleitos candidatos da categoria de sargentos a representantes dos militares da unidade para o CSG ou para o CEDD."
+  },
+  "906104188": {
+   "fragment_id": "906044238",
+   "type": 11,
+   "heading": "Artigo 11.º — Eleição de guardas nas unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Eleição de guardas nas unidades\n\n1 - A eleição dos candidatos a representantes dos guardas das unidades territoriais e especializadas nos Conselhos desenvolve-se em duas fases, nos termos seguintes:\n\na) Na primeira fase, que decorre ao nível das subunidades de escalão destacamento, os guardas votam nominalmente em dois militares de cada uma das listas referidas nas subalíneas i) e ii) da alínea c) do n.º 1 do artigo 8.º;\n\nb) Para efeitos da eleição referida na alínea anterior, consideram-se os comandos das unidades territoriais e especializadas como equivalentes a destacamento, devendo a votação decorrer nos termos da alínea anterior;\n\nc) Na segunda fase, os militares mais votados nas listas a que se referem as subalíneas i) e ii) da alínea c) do n.º 1 do artigo 8.º são inscritos nas listas constantes das subalíneas iii) e iv) da alínea c) do n.º 1 do mesmo artigo e votam nominalmente em dois militares de cada uma destas listas;\n\nd) O militar mais votado na lista prevista na subalínea iii) e os dois militares mais votados na lista prevista na subalínea iv), ambas da alínea c) do n.º 1 do artigo 8.º, são eleitos candidatos da categoria de guardas a representantes dos militares da unidade para o CSG ou para o CEDD.\n\n2 - A eleição dos representantes dos guardas ao nível das restantes unidades obedece às seguintes regras:\n\na) Todos os guardas com capacidade eleitoral activa votam nominalmente em dois militares de cada uma das listas referidas na alínea d) do n.º 1 do artigo 8.º;\n\nb) O militar mais votado na lista prevista na subalínea i) e os dois militares mais votados na lista prevista na subalínea ii), ambas da alínea d) do n.º 1 do artigo 8.º, são eleitos candidatos da categoria de guardas a representantes dos militares da unidade para o CSG ou para o CEDD."
+  },
+  "906104189": {
+   "fragment_id": "906044239",
+   "type": 11,
+   "heading": "Artigo 12.º — Suplentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Suplentes\n\n1 - Os militares que obtenham as 2.ª, 3.ª e 4.ª posições na última fase das votações referidas nos artigos anteriores são considerados suplentes dos representantes das unidades na categoria respectiva, salvo nas situações referidas no número seguinte.\n\n2 - No caso das listas a que se referem as subalíneas ii) da alínea a), iv) da alínea c) e ii) da alínea d), todas do n.º 1 do artigo 8.º, são considerados suplentes os militares que detenham as terceira, quarta e quinta maior votações.\n\n3 - Os militares suplentes dos representantes das unidades ou dos militares eleitos representantes no CSG em composição alargada e no CEDD ocupam o lugar daqueles no seu impedimento ou perda de mandato."
+  },
+  "906104190": {
+   "fragment_id": "906044240",
+   "type": 11,
+   "heading": "Artigo 13.º — Comunicação dos resultados eleitorais das unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comunicação dos resultados eleitorais das unidades\n\nOs resultados eleitorais são comunicados por cada uma das unidades ao Comando da Administração dos Recursos Internos (CARI), no prazo de quarenta e oito horas."
+  },
+  "906104191": {
+   "fragment_id": "906044241",
+   "type": 11,
+   "heading": "Artigo 14.º — Eleição dos representantes no CSG e no CEDD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Eleição dos representantes no CSG e no CEDD\n\n1 - Os militares eleitos ao nível das unidades são integrados, na qualidade de candidatos a representantes das categorias profissionais no CSG e no CEDD, nas seguintes listas a elaborar pelo CARI:\n\na) Oficiais:\n\ni) Lista dos oficiais superiores eleitos nas unidades;\n\nii) Lista dos capitães e subalternos eleitos nas unidades;\n\nb) Sargentos:\n\ni) Lista dos sargentos-mores e sargentos-chefes eleitos nas unidades;\n\nii) Lista dos sargentos-ajudantes eleitos nas unidades;\n\niii) Lista dos primeiros e segundos-sargentos eleitos nas unidades;\n\nc) Guardas:\n\ni) Lista dos cabos-mores, cabos-chefes e cabos eleitos nas unidades;\n\nii) Lista dos guardas principais e guardas eleitos nas unidades.\n\n2 - Os militares eleitos ao nível das unidades constituem três colégios que elegem os representantes dos militares da Guarda, votando nominalmente em três militares de cada uma das listas da categoria a que pertencem para cada um dos Conselhos.\n\n3 - São eleitos representantes dos militares da Guarda no CSG e no CEDD os mais votados em cada uma das listas mencionadas no n.º 1 e, ainda, o segundo militar mais votado no caso das listas de capitães e subalternos e de guardas principais e guardas.\n\n4 - Os três militares mais votados posicionados imediatamente a seguir aos eleitos nos termos do número anterior são considerados suplentes na categoria e lista respectivas.\n\n5 - À constituição e ao funcionamento da mesa de voto aplica-se o disposto no artigo 7.º"
+  },
+  "906104192": {
+   "fragment_id": "906044242",
+   "type": 11,
+   "heading": "Artigo 15.º — Homologação e publicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Homologação e publicação dos resultados\n\n1 - Os resultados das eleições a que se refere o número anterior são homologados pelo comandante-geral e publicados na Ordem à Guarda e nas Ordens de Serviço das unidades.\n\n2 - O comandante-geral pode delegar no comandante do CARI a competência referida no número anterior."
+  },
+  "906104193": {
+   "fragment_id": "906044243",
+   "type": 1,
+   "heading": "Capítulo III — Representantes dos militares no CSG e no CEDD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Representantes dos militares no CSG e no CEDD"
+  },
+  "906104194": {
+   "fragment_id": "906044244",
+   "type": 11,
+   "heading": "Artigo 16.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Representação\n\nOs militares eleitos representantes dos oficiais, sargentos e guardas nos termos do artigo anterior têm assento no CSG em composição alargada e no CEDD, de acordo com o disposto, respectivamente, nas alíneas g) do n.º 3 do artigo 28.º e h) do n.º 2 do artigo 29.º da Lei n.º 63/2007, de 6 de Novembro."
+  },
+  "906104195": {
+   "fragment_id": "906044245",
+   "type": 11,
+   "heading": "Artigo 17.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Mandato\n\n1 - Os representantes eleitos iniciam e cessam os respectivos mandatos no dia imediato ao da publicação, na Ordem à Guarda, dos resultados eleitorais.\n\n2 - O mandato dos representantes é de três anos."
+  },
+  "906104196": {
+   "fragment_id": "906044246",
+   "type": 11,
+   "heading": "Artigo 18.º — Perda de mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Perda de mandato\n\nOs representantes dos militares perdem o seu mandato nos seguintes casos:\n\na) Sempre que mudem de categoria;\n\nb) Sempre que se verifique qualquer das situações previstas no n.º 2 do artigo 3.º das presentes normas."
+  },
+  "906104197": {
+   "fragment_id": "906044247",
+   "type": 11,
+   "heading": "Artigo 19.º — Falta de representação durante o mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Falta de representação durante o mandato\n\n1 - Sempre que, por razões de perda de mandato, esteja inviabilizada a continuação da possibilidade de representação das categorias para as quais os respectivos militares foram eleitos, deve ser realizado novo processo eleitoral nos termos do capítulo anterior.\n\n2 - Os militares eleitos devem garantir as respectivas representações até ao final da duração do mandato em vigor."
+  },
+  "906104198": {
+   "fragment_id": "906044248",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias"
+  },
+  "906104199": {
+   "fragment_id": "906044249",
+   "type": 11,
+   "heading": "Artigo 20.º — Composição da representação e listas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Composição da representação e listas\n\nAté à entrada em vigor de um novo estatuto dos militares da Guarda e da regulamentação dos postos de cabo-mor, guarda principal e guarda na categoria profissional de guardas, devem ser observadas as seguintes adaptações:\n\na) O número de representantes da categoria profissional de guardas, a que se refere a alínea c) do artigo 4.º, é distribuído da seguinte forma: um cabo-chefe, dois cabos e dois soldados;\n\nb) As referências no âmbito das presentes normas a listas de cabos-mores, cabos-chefes e cabos e a listas de guardas principais e guardas consideram-se feitas a listas de cabos-chefes e cabos e a listas de soldados, respectivamente."
+  },
+  "906104200": {
+   "fragment_id": "906044250",
+   "type": 11,
+   "heading": "Artigo 21.º — Primeiro processo eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Primeiro processo eleitoral\n\nO primeiro processo eleitoral a realizar nos termos e de acordo com o disposto nas presentes normas deve estar concluído no prazo de 30 dias a contar da data da sua entrada em vigor."
+  }
+ }
+}

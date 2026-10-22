@@ -1,0 +1,365 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:835994078:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-835994112",
+ "dre_path": "/dr/detalhe/decreto-lei/139-b-2023-835994078",
+ "source_lastmod": "2025-05-12",
+ "versions": [
+  {
+   "date": "2023-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "836101775",
+    "836101776",
+    "836101777",
+    "836101778",
+    "836101779",
+    "836101780",
+    "836101781",
+    "836101782",
+    "836101783",
+    "836101784",
+    "836101785",
+    "836101786",
+    "836101787",
+    "836101788",
+    "836101789",
+    "836101790",
+    "836101791",
+    "836101792",
+    "836101793",
+    "836101794",
+    "836101795",
+    "836101796",
+    "836101797",
+    "836101798",
+    "836101799",
+    "836101800",
+    "836101801",
+    "836101802",
+    "836101803",
+    "836101804",
+    "836101805"
+   ]
+  },
+  {
+   "date": "2025-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:917593145:por",
+     "title": "Decreto-Lei n.º 78/2025",
+     "published": "2025-05-12",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2025-917593145"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "836101775",
+    "836101776",
+    "836101777",
+    "836101778",
+    "836101779",
+    "836101780",
+    "836101781",
+    "836101782",
+    "836101783",
+    "836101784",
+    "836101785",
+    "836101786",
+    "836101787",
+    "836101788",
+    "836101789",
+    "836101790",
+    "836101791",
+    "836101792",
+    "917816275",
+    "836101794",
+    "836101795",
+    "836101796",
+    "836101797",
+    "836101798",
+    "836101799",
+    "836101800",
+    "836101801",
+    "836101802",
+    "836101803",
+    "836101804",
+    "836101805",
+    "836101806"
+   ]
+  }
+ ],
+ "fragments": {
+  "836101775": {
+   "fragment_id": "835994113",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 139-B/2023\n\nde 29 de dezembro\n\nSumário: Regula os concursos de recrutamento do pessoal docente das escolas portuguesas no estrangeiro.\n\nO presente decreto-lei aprova um regime especial de seleção e recrutamento de docentes das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação e dos respetivos polos (EPERP) em concretização do previsto no artigo 53.º do Decreto-Lei n.º 32-A/2023, de 8 de maio.\n\nPela primeira vez, docentes em regime de contrato a termo resolutivo em exercício de funções nestes estabelecimentos de educação e de ensino passam a ter a possibilidade de vincularem aos quadros destas escolas nos mesmos moldes em que tal vinculação ocorre nos agrupamentos de escolas e escolas não agrupadas que integram a rede pública do Ministério da Educação, passando a beneficiar de um sistema ordinário de vinculação, através da imposição de limites à contratação a termo resolutivo tal como acontece no regime geral, bem como da possibilidade de vinculação, desde que cumpridos os critérios exigidos para a vinculação dinâmica, constantes do Decreto-Lei n.º 32-A/2023, de 8 de maio. Desta forma, põe-se termo à inexistência de um sistema de vinculação ordinária para os docentes em exercício de funções nas EPERP.\n\nAcresce que, com este regime, as EPERP passam a dispor de um quadro estável e permanente de docentes, o que garante o efetivo cumprimento da sua missão.\n\nO presente decreto-lei aprova ainda o regime da vinculação extraordinária do pessoal docente a exercer funções nas EPERP.\n\nNo mesmo sentido o presente decreto-lei procede à alteração dos decretos-leis que criam as Escolas Portuguesas de São Paulo, de Cabo Verde, de São Tomé e Príncipe, de Díli e de Moçambique, no que respeita ao regime de seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, adaptando-os ao novo regime.\n\nPor fim, procede-se, ainda, por via do presente decreto-lei à revisão do atual regime do período probatório e ao reconhecimento da aquisição, pelos educadores de infância e pelos professores dos ensinos básico e secundário em regime de contrato de trabalho em funções públicas a termo resolutivo, de mestrados e de doutoramentos em domínios diretamente relacionados com área científica que lecionam ou em Ciências da Educação, através da alteração dos artigos 31.º e 54.º do Estatuto da Carreira Docente.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e o Conselho das Escolas.\n\nForam observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\nAssim:\n\nNos termos do artigo 53.º do Decreto-Lei n.º 32-A/2023, de 8 de maio, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "836101776": {
+   "fragment_id": "835994114",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "836101777": {
+   "fragment_id": "835994115",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação e dos respetivos polos (EPERP).\n\n2 - O presente decreto-lei procede:\n\na) À quarta alteração ao Decreto-Lei n.º 241/99, de 25 de junho, alterado pelos Decretos-Leis n.os 120/2004, de 21 de maio, 47/2009, de 23 de fevereiro, e 211/2015, de 29 de setembro, que cria a Escola Portuguesa de Moçambique - Centro de Ensino e Língua Portuguesa;\n\nb) À segunda alteração ao Decreto-Lei n.º 48/2009, de 23 de fevereiro, alterado pelo Decreto-Lei n.º 214/2015, de 29 de setembro, que cria, ao abrigo do acordo de cooperação celebrado em 4 de dezembro de 2002 entre a República Portuguesa e a República Democrática de Timor-Leste, a Escola Portuguesa de Díli - Centro de Ensino e Língua Portuguesa;\n\nc) À primeira alteração ao Decreto-Lei n.º 212/2015, de 29 de setembro, que cria a Escola Portuguesa de São Tomé e Príncipe - Centro de Ensino e da Língua Portuguesa;\n\nd) À primeira alteração ao Decreto-Lei n.º 213/2015, de 29 de setembro, que cria a Escola Portuguesa de Cabo Verde - Centro de Ensino e da Língua Portuguesa;\n\ne) À primeira alteração ao Decreto-Lei n.º 73/2019, de 28 de maio, que cria a Escola Portuguesa de São Paulo - Centro de Ensino da Língua e Cultura Portuguesa.\n\n3 - O presente decreto-lei procede ainda à décima sexta alteração ao Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado em anexo ao Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual (ECD)."
+  },
+  "836101778": {
+   "fragment_id": "835994116",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito subjetivo\n\nO presente regime é aplicável aos docentes com vínculo de emprego público, titulado por contrato de trabalho celebrado ao abrigo da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual (LTFP) e aos portadores de qualificação profissional para a docência, sem prejuízo do disposto no artigo 15.º"
+  },
+  "836101779": {
+   "fragment_id": "835994117",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza e objetivos\n\n1 - A seleção e o recrutamento do pessoal docente podem revestir a natureza de:\n\na) Concurso interno;\n\nb) Concurso externo;\n\nc) Concursos para a satisfação de necessidades temporárias, através de contratação de escola.\n\n2 - Os concursos interno e externo visam a satisfação das necessidades permanentes de pessoal docente das EPERP.\n\n3 - O concurso interno visa, ainda, a mobilidade dos docentes de carreira que pretendam concorrer a vagas de quadro das EPERP.\n\n4 - O concurso externo destina-se ao recrutamento de candidatos que, preenchendo os requisitos previstos no artigo 22.º do ECD, pretendam ingressar na carreira.\n\n5 - O ingresso na carreira é feito através do preenchimento de vagas de quadro abertas nas EPERP.\n\n6 - Os concursos para a satisfação de necessidades temporárias visam suprir necessidades que não sejam preenchidas pelos concursos interno e externo.\n\n7 - A satisfação de necessidades temporárias pode ser assegurada pela colocação de docentes através do concurso de contratação de escola, em conformidade com o previsto no n.º 1 do artigo 15.º"
+  },
+  "836101780": {
+   "fragment_id": "835994118",
+   "type": 11,
+   "heading": "Artigo 4.º — Candidatos e prioridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Candidatos e prioridades\n\n1 - Os docentes de carreira são opositores ao concurso interno para efeitos de transferência de quadro e ou de grupo de recrutamento.\n\n2 - São opositores ao concurso externo em 1.ª prioridade os candidatos que, à data de abertura dos respetivos concursos, preencham as condições previstas nos n.os 2 e 10 do artigo 16.º e possuam qualificação profissional para o grupo de recrutamento a que se candidatam, bem como os demais requisitos previstos no artigo 22.º do ECD.\n\n3 - São opositores ao concurso externo em 2.ª prioridade os candidatos que possuam qualificação profissional para o grupo de recrutamento a que se candidatam, preencham os demais requisitos previstos no artigo 22.º do ECD e possuam pelo menos 365 dias de tempo de serviço nos últimos seis anos escolares em estabelecimentos de ensino referidos no número seguinte.\n\n4 - Para efeitos do disposto no número anterior é considerado o tempo de serviço prestado em:\n\na) Estabelecimentos integrados na rede pública do Ministério da Educação;\n\nb) Estabelecimentos integrados na rede pública das Regiões Autónomas;\n\nc) Estabelecimentos do ensino superior público;\n\nd) Estabelecimentos ou instituições de ensino dependentes ou sob a tutela de outros ministérios que tenham protocolo com o Ministério da Educação;\n\ne) Estabelecimentos do ensino português no estrangeiro, incluindo ainda o exercício de funções docentes como agentes da cooperação portuguesa nos termos do correspondente estatuto jurídico.\n\n5 - São opositores ao concurso externo em 3.ª prioridade os candidatos que possuam qualificação profissional para o grupo de recrutamento a que se candidatam e preencham os demais requisitos previstos no artigo 22.º do ECD.\n\n6 - São opositores ao concurso para a satisfação das necessidades temporárias os docentes que, à data de abertura dos respetivos concursos, possuam qualificação profissional para a docência e preencham os demais requisitos previstos no artigo 22.º do ECD.\n\n7 - Esgotada a possibilidade de colocação de docentes profissionalizados nos termos do número anterior, aplica-se o disposto no n.º 9 do artigo 40.º do Decreto-Lei n.º 32-A/2023, de 8 de maio."
+  },
+  "836101781": {
+   "fragment_id": "835994119",
+   "type": 11,
+   "heading": "Artigo 5.º — Concursos interno e externo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Concursos interno e externo\n\n1 - Os concursos interno e externo são abertos simultaneamente em todas as EPERP, pelos respetivos diretores, de acordo com a calendarização previamente definida pela Direção-Geral da Administração Escolar (DGAE).\n\n2 - Os procedimentos dos concursos interno e externo efetuam-se exclusivamente em suporte eletrónico disponibilizado pela DGAE, acessível através do Portal Único de Serviços e do sítio na Internet da DGAE.\n\n3 - As vagas para os concursos interno e externo são fixadas por grupo de recrutamento, através de portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n4 - Os concursos interno e externo são abertos em cada EPERP mediante aviso publicado na respetiva página da Internet, em local de estilo das suas instalações e acessível através do Portal Único de Serviços e do sítio na Internet da DGAE.\n\n5 - Nos avisos de abertura dos concursos interno e externo constam obrigatoriamente os seguintes elementos:\n\na) Identificação das vagas a ocupar nos termos do n.º 3;\n\nb) Calendário indicativo do concurso;\n\nc) Requisitos gerais de admissão, motivos de exclusão, critérios de seleção e respetiva ponderação, sistema de valoração final e critérios de desempate;\n\nd) Formas de apresentação da candidatura;\n\ne) Composição e identificação do júri;\n\nf) Documentos exigidos para efeito da avaliação das candidaturas;\n\ng) Forma de publicitação das listas provisórias dos candidatos admitidos e excluídos e das listas de classificação final, de colocação e de exclusão.\n\n6 - No concurso externo o docente só pode ocupar uma vaga diferente daquela cuja abertura deu origem, nos termos do disposto nos n.os 2 e 10 do artigo 16.º, caso se encontrem por preencher vagas em outros grupos de recrutamento para os quais detém qualificação profissional."
+  },
+  "836101782": {
+   "fragment_id": "835994120",
+   "type": 11,
+   "heading": "Artigo 6.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Júri\n\n1 - Para efeitos dos concursos previstos no presente decreto-lei, em cada escola portuguesa no estrangeiro é constituído um júri, composto pelo diretor, que preside, e por dois vogais efetivos e dois suplentes, designados pelo conselho pedagógico.\n\n2 - Em caso de falta ou impedimento, o presidente é substituído pelo primeiro vogal efetivo e este pelo primeiro vogal suplente.\n\n3 - Para a seleção e recrutamento de pessoal docente nos polos, o júri é constituído pelo diretor da respetiva escola portuguesa no estrangeiro e pelo subdiretor que dirige o polo, além de um vogal efetivo e outro suplente, designados pelo conselho pedagógico.\n\n4 - Compete ao júri assegurar a tramitação do procedimento concursal desde a data da sua designação até à elaboração da lista de classificação final.\n\n5 - É, nomeadamente, da competência do júri a prática dos seguintes atos:\n\na) Definir os parâmetros específicos que densificam os critérios gerais de seleção e a respetiva pontuação;\n\nb) Admitir e excluir candidatos ao concurso, nos termos legalmente previstos, fundamentando em ata as respetivas deliberações;\n\nc) Notificar por via eletrónica os candidatos, sempre que tal seja exigido;\n\nd) Garantir aos candidatos o acesso ao conteúdo das atas e dos documentos que as fundamentam e proceder à emissão de certidões ou reproduções autenticadas, no prazo de três dias úteis contados da data da entrada do respetivo requerimento.\n\n6 - O registo dos diferentes procedimentos do concurso é efetuado pelo júri no suporte eletrónico disponibilizado pela DGAE."
+  },
+  "836101783": {
+   "fragment_id": "835994121",
+   "type": 11,
+   "heading": "Artigo 7.º — Funcionamento do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento do júri\n\n1 - O júri delibera com a participação efetiva e presencial de todos os seus membros, devendo as respetivas deliberações ser tomadas por maioria simples dos seus membros e sempre por votação nominal.\n\n2 - As deliberações do júri devem ser fundamentadas e registadas por escrito, podendo os candidatos ter acesso, nos termos da lei, às atas e aos documentos em que elas assentam.\n\n3 - Em caso de impugnação, as deliberações escritas são facultadas à entidade que sobre ela tenha de decidir.\n\n4 - O júri pode ser secretariado por pessoa a designar para esse efeito pelo diretor da EPERP."
+  },
+  "836101784": {
+   "fragment_id": "835994122",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios e métodos de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios e métodos de seleção\n\n1 - São critérios gerais de seleção, de verificação cumulativa a que correspondem as seguintes ponderações:\n\na) A formação profissional: 30 %;\n\nb) A experiência profissional: 30 %;\n\nc) O perfil de competências: 40 %.\n\n2 - A classificação final, obtida na escala de 0 a 100 pontos, resulta da soma das classificações atribuídas em cada um dos critérios gerais de seleção.\n\n3 - Para cada um dos critérios gerais, o júri fixa em ata, em momento prévio à data de abertura do concurso, os parâmetros específicos que densificam os critérios gerais de seleção e a respetiva pontuação, tendo em conta o limite estipulado para cada critério geral.\n\n4 - O perfil de competências é aferido através da realização de uma entrevista profissional de seleção, a realizar pelo júri e obedecendo ao disposto no artigo seguinte.\n\n5 - Na experiência profissional é considerado, sem prejuízo de outros parâmetros específicos, o tempo de serviço prestado em EPERP ou em projetos de cooperação no âmbito do ensino em língua portuguesa.\n\n6 - A aplicação dos critérios de seleção pode ser faseada da seguinte forma:\n\na) Aplicação, num primeiro momento, à totalidade dos candidatos, apenas dos critérios previstos nas alíneas a) e b) do n.º 1;\n\nb) Aplicação do critério previsto na alínea c) do n.º 1 apenas a parte dos candidatos aprovados no método imediatamente anterior, a convocar por conjuntos sucessivos de candidatos, por ordem decrescente de classificação."
+  },
+  "836101785": {
+   "fragment_id": "835994123",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrevista profissional de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrevista profissional de seleção\n\n1 - A entrevista profissional de seleção visa avaliar, de forma objetiva e sistemática, a experiência profissional do candidato e o conhecimento das realidades locais do país onde se situa a escola ou o polo.\n\n2 - Por cada entrevista profissional de seleção é elaborada uma ficha individual contendo o resumo dos temas abordados, os parâmetros de avaliação e a classificação obtida em cada um deles, devidamente fundamentada.\n\n3 - A entrevista profissional de seleção é realizada pelo júri, na presença de todos os seus elementos.\n\n4 - A entrevista profissional de seleção é pública, podendo ser realizada presencialmente ou através de videoconferência de acordo com a opção manifestada pelos candidatos, sendo estes notificados, por via eletrónica, do local, quando aplicável, data e hora da sua realização."
+  },
+  "836101786": {
+   "fragment_id": "835994124",
+   "type": 11,
+   "heading": "Artigo 10.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Candidatura\n\n1 - A apresentação ao concurso é efetuada no prazo de cinco dias úteis, a contar do dia útil seguinte ao da publicitação do aviso, mediante o preenchimento de formulário em formato eletrónico disponibilizado pela DGAE, acessível através do Portal Único de Serviços e no sítio na Internet da DGAE.\n\n2 - O formulário de candidatura deve ser preenchido de acordo com as respetivas instruções, sob pena de ser considerado irregularmente preenchido.\n\n3 - O candidato comprova os elementos constantes do formulário da sua candidatura mediante o carregamento eletrónico dos documentos previstos no aviso de abertura, sendo dispensado da entrega daqueles que se encontrem arquivados e válidos no respetivo processo individual, exceto o registo criminal atualizado ou a declaração de autorização de acesso ao mesmo.\n\n4 - Os documentos a que se refere o número anterior são apresentados pelo candidato até ao final do prazo de candidatura."
+  },
+  "836101787": {
+   "fragment_id": "835994125",
+   "type": 11,
+   "heading": "Artigo 11.º — Apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apreciação das candidaturas\n\n1 - Terminado o prazo para apresentação das candidaturas, o júri procede à verificação dos elementos apresentados pelos candidatos.\n\n2 - Após a conclusão do procedimento previsto no número anterior, o júri elabora e publicita no sítio na Internet da respetiva EPERP, bem como em edital afixado nas suas instalações e no sítio na Internet da DGAE, acessível através do Portal Único de Serviços, as listas provisórias dos candidatos admitidos e excluídos, contendo os motivos que fundamentam a proposta de exclusão.\n\n3 - Após a divulgação das listas provisórias de exclusão, os candidatos dispõem do prazo de cinco dias úteis, a contar do dia útil seguinte ao da publicitação, para apresentarem reclamação, através de formulário eletrónico, sendo os mesmos notificados da decisão no prazo de 15 dias úteis.\n\n4 - Terminado o prazo de 15 dias úteis, a que se refere o número anterior, as listas provisórias convertem-se em definitivas, contendo as alterações decorrentes do deferimento das reclamações, sendo os candidatos ordenados por ordem decrescente, por grupo de recrutamento, em função da classificação final obtida.\n\n5 - As listas de colocação e de exclusão são publicitadas no sítio na Internet de cada EPERP e da DGAE, sendo as listas de colocação homologadas pelo diretor-geral da Administração Escolar."
+  },
+  "836101788": {
+   "fragment_id": "835994126",
+   "type": 11,
+   "heading": "Artigo 12.º — Garantias de impugnação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Garantias de impugnação administrativa\n\nDas listas de classificação final e de exclusão pode ser interposto recurso hierárquico para o membro do Governo responsável pela área da educação, sem efeito suspensivo, a apresentar no prazo de cinco dias úteis, a contar do primeiro dia útil seguinte ao da publicitação, em formulário eletrónico disponibilizado pela DGAE, acessível através do Portal Único de Serviços e no sítio na Internet da DGAE."
+  },
+  "836101789": {
+   "fragment_id": "835994127",
+   "type": 11,
+   "heading": "Artigo 13.º — Aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aceitação\n\n1 - Os candidatos colocados em resultado dos concursos devem, no prazo de dois dias úteis contados a partir do dia útil seguinte ao da publicitação das listas definitivas de colocação, aceitar a colocação na aplicação eletrónica disponibilizada pela DGAE, acessível através do Portal Único de Serviços e no sítio na Internet da DGAE.\n\n2 - A não aceitação da colocação obtida determina a anulação da colocação e extingue o correspondente lugar no quadro da escola para efeitos daquele concurso."
+  },
+  "836101790": {
+   "fragment_id": "835994128",
+   "type": 11,
+   "heading": "Artigo 14.º — Apresentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apresentação\n\n1 - Os candidatos colocados em resultado dos concursos interno e externo devem apresentar-se no 1.º dia útil do mês de setembro na EPERP onde sejam colocados.\n\n2 - Nos casos em que a apresentação, por motivo de férias, parentalidade, doença ou outro motivo previsto na lei, não puder ser presencial, deve o candidato colocado comunicar o facto à EPERP, por si ou por interposta pessoa, no 1.º dia útil do mês de setembro, devendo apresentar até ao 5.º dia útil seguinte o documento justificativo da sua não comparência naquele dia.\n\n3 - O não cumprimento do dever de apresentação determina a anulação da colocação obtida."
+  },
+  "836101791": {
+   "fragment_id": "835994129",
+   "type": 1,
+   "heading": "Capítulo II — Necessidades temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Necessidades temporárias"
+  },
+  "836101792": {
+   "fragment_id": "835994130",
+   "type": 11,
+   "heading": "Artigo 15.º — Satisfação de necessidades temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Satisfação de necessidades temporárias\n\n1 - Para a satisfação das necessidades que subsistam após a realização dos concursos interno e externo ou daquelas que ao longo do ano venham a surgir, as EPERP procedem ao concurso de contratação de escola, nos termos do disposto no artigo 40.º do Decreto-Lei n.º 32-A/2023, de 8 de maio.\n\n2 - Aos contratos celebrados na sequência de colocação obtida no concurso previsto no número anterior aplica-se a LTFP.\n\n3 - A contratação de pessoal docente em regime de contrato de trabalho em funções públicas a termo resolutivo depende de despacho dos membros do Governo responsáveis pelas áreas da Administração Pública, das finanças e da educação que a autorize e que fixa a quota anual de contratos a celebrar."
+  },
+  "836101793": {
+   "fragment_id": "835994131",
+   "type": 11,
+   "heading": "Artigo 16.º — Contrato de trabalho em funções públicas a termo resolutivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contrato de trabalho em funções públicas a termo resolutivo\n\n1 - O contrato de trabalho em funções públicas a termo resolutivo produz efeitos a partir do 1.º dia útil seguinte ao da aceitação e tem a duração mínima de 30 dias e máxima até ao final do ano escolar, incluindo o período de férias.\n\n2 - A sucessão de contratos de trabalho celebrados nos termos do número anterior com a mesma EPERP, na sequência de colocação obtida em um ou em diferentes grupos de recrutamento, não pode exceder o limite previsto no n.º 2 do artigo 42.º do Decreto-Lei n.º 32-A/2023, de 8 de maio.\n\n3 - A vigência dos contratos de trabalho a que se referem os números anteriores não pode exceder em cada ano escolar o dia 31 de agosto.\n\n4 - A renovação dos contratos de trabalho a termo resolutivo em horário anual e completo depende do preenchimento cumulativo dos seguintes requisitos:\n\na) Manutenção da necessidade de horário anual e completo no mesmo grupo de recrutamento, apurado à data em que a necessidade é declarada;\n\nb) Avaliação de desempenho com classificação mínima de Bom;\n\nc) Concordância expressa das partes.\n\n5 - A renovação do contrato é sujeita à forma escrita.\n\n6 - A verificação dos requisitos previstos no n.º 4 é efetuada pelo órgão de direção da EPERP, num único momento, através da plataforma eletrónica da DGAE.\n\n7 - O contrato destinado à substituição temporária de docente vigora pelo tempo necessário à sua substituição ou até ao 3.º dia útil a contar do dia imediato ao da apresentação do docente substituído, sem prejuízo do disposto no número seguinte.\n\n8 - No caso de o docente substituído se apresentar durante o período de realização dos trabalhos de avaliação, o contrato mantém-se em vigor até à sua conclusão.\n\n9 - A verificação do limite indicado no n.º 2 determina a abertura de vaga no quadro da EPERP em que o docente cumpriu a sucessividade de contratos.\n\n10 - A verificação das condições previstas nos n.os 1 e 2 do artigo 43.º do Decreto-Lei n.º 32-A/2023, de 8 de maio, dá lugar à abertura de vaga no quadro da EPERP em que o docente se encontra a lecionar a 31 de dezembro do ano anterior ao da abertura do concurso, sem prejuízo do disposto no número seguinte.\n\n11 - Para efeitos do disposto no número anterior, para determinação do tempo de serviço a que se refere a alínea b) do n.º 1 do artigo 43.º do Decreto-Lei n.º 32-A/2023, de 8 de maio, só releva o tempo de serviço prestado em EPERP com qualificação profissional e componente letiva.\n\n12 - Os contratos de trabalho e as renovações são outorgados pelo órgão de direção da EPERP em representação do Estado português.\n\n13 - Os modelos destinados à celebração do contrato e à renovação são aprovados pela DGAE e disponibilizados na respetiva aplicação informática.\n\n14 - A remuneração do pessoal docente em regime de contrato de trabalho a termo resolutivo é fixada nos termos do artigo 44.º do Decreto-Lei n.º 32-A/2023, de 8 de maio."
+  },
+  "836101794": {
+   "fragment_id": "835994132",
+   "type": 11,
+   "heading": "Artigo 17.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Período experimental\n\nO período experimental é cumprido no primeiro contrato celebrado em cada ano escolar."
+  },
+  "836101795": {
+   "fragment_id": "835994133",
+   "type": 1,
+   "heading": "Capítulo III — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições complementares, transitórias e finais"
+  },
+  "836101796": {
+   "fragment_id": "835994134",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração ao Decreto-Lei n.º 241/99, de 25 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração ao Decreto-Lei n.º 241/99, de 25 de junho\n\nO artigo 13.º do Decreto-Lei n.º 241/99, de 25 de junho, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 13.º\n\n[...]\n\n1 - [...]\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação e dos respetivos polos.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)»"
+  },
+  "836101797": {
+   "fragment_id": "835994135",
+   "type": 11,
+   "heading": "Artigo 19.º — Alteração ao Decreto-Lei n.º 48/2009, de 23 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alteração ao Decreto-Lei n.º 48/2009, de 23 de fevereiro\n\nO artigo 16.º do Decreto-Lei n.º 48/2009, de 23 de fevereiro, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 16.º\n\n[...]\n\n1 - [...].\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)»"
+  },
+  "836101798": {
+   "fragment_id": "835994136",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração ao Decreto-Lei n.º 212/2015, de 29 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração ao Decreto-Lei n.º 212/2015, de 29 de setembro\n\nO artigo 18.º do Decreto-Lei n.º 212/2015, de 29 de setembro, passa a ter a seguinte redação:\n\n«Artigo 18.º\n\n[...]\n\n1 - [...]\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)»"
+  },
+  "836101799": {
+   "fragment_id": "835994137",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração ao Decreto-Lei n.º 213/2015, de 29 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração ao Decreto-Lei n.º 213/2015, de 29 de setembro\n\nO artigo 18.º do Decreto-Lei n.º 213/2015, de 29 de setembro, passa a ter a seguinte redação:\n\n«Artigo 18.º\n\n[...]\n\n1 - [...]\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação e dos respetivos polos.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)»"
+  },
+  "836101800": {
+   "fragment_id": "835994138",
+   "type": 11,
+   "heading": "Artigo 22.º — Alteração ao Decreto-Lei n.º 73/2019, de 28 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração ao Decreto-Lei n.º 73/2019, de 28 de maio\n\nO artigo 18.º do Decreto-Lei n.º 73/2019, de 28 de maio, passa a ter a seguinte redação:\n\n«Artigo 18.º\n\n[...]\n\n1 - [...]\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)»"
+  },
+  "836101801": {
+   "fragment_id": "835994139",
+   "type": 11,
+   "heading": "Artigo 23.º — Concurso extraordinário de 2023",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Concurso extraordinário de 2023\n\n1 - Em 2023 é realizado um concurso externo extraordinário de vinculação de docentes às EPERP.\n\n2 - Podem ser opositores ao concurso os candidatos que preencham os requisitos previstos no artigo 22.º do ECD.\n\n3 - Ao concurso previsto no n.º 1 aplicam-se os n.os 2 a 5 do artigo 4.º, com as seguintes especificidades:\n\na) Para efeitos da verificação do limite previsto no n.º 2 do artigo 42.º do Decreto-Lei n.º 32-A/2023, de 8 de maio, nos termos do n.º 2 do artigo 4.º e do n.º 2 do artigo 16.º, considera-se «horário anual», aquele cuja colocação ocorre até ao último dia do prazo limite para o início do ano letivo, de acordo com o calendário escolar, e que vigora até ao final do ano escolar;\n\nb) São considerados os contratos de trabalho a termo resolutivo celebrados ao abrigo dos Decretos-Leis n.os 241/99, de 25 de junho, na sua redação atual, 48/2009, de 23 de fevereiro, na sua redação atual, 212/2015, de 29 de setembro, 213/2015, de 29 de setembro, e 73/2019, de 28 de maio, e os contratos de trabalho a termo resolutivo celebrados desde 1 de setembro de 2021, ao abrigo do Decreto-Lei n.º 183/2006, de 6 de setembro, na sua redação atual;\n\nc) Os candidatos que reúnam os requisitos previstos no n.º 2 do artigo 4.º são opositores aos lugares do quadro da EPERP onde exercem funções à data de abertura do concurso.\n\n4 - A verificação do preenchimento dos requisitos previstos nos números anteriores é efetuada aquando da admissão ao procedimento.\n\n5 - O procedimento do concurso bem como a aceitação e apresentação dos docentes colocados rege-se pelo disposto nos artigos 5.º a 14.º, com as seguintes especificidades:\n\na) O concurso é aberto pela DGAE mediante aviso a publicitar na sua página da Internet e na página da Internet das EPERP, acessível através do Portal Único de Serviços, sendo ainda afixado nos locais de estilo das instalações das mesmas;\n\nb) As vagas do concurso extraordinário são fixadas, por quadro de escola, através de portaria dos membros do Governo responsáveis pelas áreas da Administração Pública, das finanças e da educação."
+  },
+  "836101802": {
+   "fragment_id": "835994140",
+   "type": 11,
+   "heading": "Artigo 24.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Legislação subsidiária\n\nEm tudo o que não estiver regulado no presente decreto-lei é aplicável, com as necessárias adaptações, o regime de recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, previsto no Decreto-Lei n.º 32-A/2023, de 8 de maio."
+  },
+  "836101803": {
+   "fragment_id": "835994141",
+   "type": 11,
+   "heading": "Artigo 25.º — Alteração ao Estatuto da Carreira Docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Alteração ao Estatuto da Carreira Docente\n\nOs artigos 31.º e 54.º do Estatuto da Carreira Docente passam a ter a seguinte redação:\n\n«Artigo 31.º\n\nPeríodo probatório\n\n1 - [...]\n\n2 - Sem prejuízo do disposto nos n.os 9 a 11 e 17, o período probatório corresponde ao 1.º ano escolar no exercício efetivo de funções docentes.\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]\n\n13 - [...]\n\n14 - [...]\n\n15 - [...]\n\n16 - [...]\n\n17 - O tempo de serviço prestado por docentes com qualificação profissional para a docência em regime de contrato em funções públicas a termo resolutivo, por um período mínimo de dois anos escolares, é contado para efeitos de conclusão do período probatório, desde que classificado com menção qualitativa igual ou superior a Bom.\n\nArtigo 54.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - Aos docentes em exercício de funções em regime de contrato de trabalho em funções públicas a termo resolutivo aplica-se, com as necessárias adaptações, o disposto nos n.os 1, 2 e 4.»"
+  },
+  "836101804": {
+   "fragment_id": "835994142",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Norma revogatória\n\nSão revogados:\n\na) Os n.os 3 a 8 do artigo 13.º do Decreto-Lei n.º 241/99, de 25 de junho, na sua redação atual;\n\nb) Os n.os 3 a 8 do artigo 16.º do Decreto-Lei n.º 48/2009, de 23 de fevereiro, na sua redação atual;\n\nc) Os n.os 3 a 8 do artigo 18.º do Decreto-Lei n.º 212/2015, de 29 de setembro;\n\nd) Os n.os 3 a 8 do artigo 18.º do Decreto-Lei n.º 213/2015, de 29 de setembro;\n\ne) Os n.os 3 a 7 do artigo 18.º do Decreto-Lei n.º 73/2019, de 28 de maio."
+  },
+  "836101805": {
+   "fragment_id": "835994143",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "917816275": {
+   "fragment_id": "835994131",
+   "type": 11,
+   "heading": "Artigo 16.º — Contrato de trabalho em funções públicas a termo resolutivo",
+   "in_force_from": "2025-05-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2025-09-01"
+   ],
+   "markdown": "###### Artigo 16.º — Contrato de trabalho em funções públicas a termo resolutivo\n\n1 - O contrato de trabalho em funções públicas a termo resolutivo produz efeitos a partir do 1.º dia útil seguinte ao da aceitação, tendo o primeiro contrato de trabalho em funções públicas a termo resolutivo celebrado a duração mínima de dois anos escolares, incluindo o período de férias.\n\n2 - A sucessão de contratos de trabalho celebrados nos termos do número anterior com a mesma EPERP, na sequência de colocação obtida em um ou em diferentes grupos de recrutamento, não pode exceder o limite previsto no n.º 2 do artigo 42.º do Decreto-Lei n.º 32-A/2023, de 8 de maio.\n\n3 - (Revogado.)\n\n4 - A renovação dos contratos de trabalho a termo resolutivo em horário anual e completo depende do preenchimento cumulativo dos seguintes requisitos:\n\na) Manutenção da necessidade de horário anual e completo no mesmo grupo de recrutamento, apurado à data em que a necessidade é declarada;\n\nb) Avaliação de desempenho com classificação mínima de Bom;\n\nc) Concordância expressa das partes.\n\n5 - A renovação do contrato é sujeita à forma escrita.\n\n6 - A verificação dos requisitos previstos no n.º 4 é efetuada pelo órgão de direção da EPERP, num único momento, através da plataforma eletrónica da DGAE.\n\n7 - O contrato destinado à substituição temporária de docente vigora pelo tempo necessário à sua substituição ou até ao 3.º dia útil a contar do dia imediato ao da apresentação do docente substituído, sem prejuízo do disposto no número seguinte.\n\n8 - No caso de o docente substituído se apresentar durante o período de realização dos trabalhos de avaliação, o contrato mantém-se em vigor até à sua conclusão.\n\n9 - A verificação do limite indicado no n.º 2 determina a abertura de vaga no quadro da EPERP em que o docente cumpriu a sucessividade de contratos.\n\n10 - A verificação das condições previstas nos n.os 1 e 2 do artigo 43.º do Decreto-Lei n.º 32-A/2023, de 8 de maio, dá lugar à abertura de vaga no quadro da EPERP em que o docente se encontra a lecionar a 31 de dezembro do ano anterior ao da abertura do concurso, sem prejuízo do disposto no número seguinte.\n\n11 - Para efeitos do disposto no número anterior, para determinação do tempo de serviço a que se refere a alínea b) do n.º 1 do artigo 43.º do Decreto-Lei n.º 32-A/2023, de 8 de maio, só releva o tempo de serviço prestado em EPERP com qualificação profissional e componente letiva.\n\n12 - Os contratos de trabalho e as renovações são outorgados pelo órgão de direção da EPERP em representação do Estado português.\n\n13 - Os modelos destinados à celebração do contrato e à renovação são aprovados pela DGAE e disponibilizados na respetiva aplicação informática.\n\n14 - A remuneração do pessoal docente em regime de contrato de trabalho a termo resolutivo é fixada nos termos do artigo 44.º do Decreto-Lei n.º 32-A/2023, de 8 de maio.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2025-09-01"
+  },
+  "836101806": {
+   "fragment_id": "835994144",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - João Miguel Marques da Costa.\n\nPromulgado em 28 de dezembro de 2023.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 29 de dezembro de 2023.\n\nPelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.\n\n117211199"
+  }
+ }
+}

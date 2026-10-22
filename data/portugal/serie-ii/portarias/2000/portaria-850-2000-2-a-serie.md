@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:1926373:por
+title: Portaria n.º 850/2000 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 850/2000 (2.ª série)
+official_date: null
+publication_date: '2000-06-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 127/2000, Série II de 2000-06-01
+  number: '127'
+  series: II
+  supplement: null
+  pages: 9390 - 9390
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/06/127000000/0939009390.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1926373'
+  dre_path: /dr/detalhe/portaria/850-2000-1926373
+  internal: pt:dre:1926373:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/850-2000-1926373
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/850-2000-1926373
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-06-01T00:00:00Z'
+integrity:
+  source_sha256: 57d900edce7f0f938812a3689f0898cf0ece6ea3e6a1c747ae7312d06156cb09
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-850-1926373.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 850/2000 (2.ª série)
+
+Portaria n.º 850/2000 (2.ª série). - A Câmara Municipal de Bragança solicitou a cessão de uma parcela de terreno com a área de 367,50 m2, a destacar do Quartel da Guarda Nacional Republicana, que se encontra inscrito na matriz predial urbana da freguesia da Sé sob o artigo 1865 e descrito na Conservatória do Registo Predial de Bragança sob o n.º 36 572, a fl. 84 v.º do livro B-89.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado do Tesouro e das Finanças, o seguinte:
+
+1.º Autorizar, nos termos do artigo 1.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a cessão, a título definitivo, ao município de Bragança, de uma parcela de terreno com a área de 367,50 m2, situada na Mãe d'Água, freguesia da Sé, concelho de Bragança, a destacar do Quartel da Guarda Nacional Republicana.
+
+2.º Reconhecer a utilidade pública da cessão, em virtude de a parcela de terreno se destinar à execução do arruamento de acesso ao Bairro da Mãe d'Água.
+
+3.º A presente cessão efectua-se mediante a compensação de 370 000$00, a pagar no acto de assinatura do respectivo auto.
+
+4.º Esta cessão fica sujeita ao preceituado no artigo 2.º do citado [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, revertendo o prédio à posse do Estado, sem direito a qualquer indemnização por benfeitorias, se não lhe for conferido o fim que justifica a presente cessão no prazo máximo se dois anos.
+
+19 de Maio de 2000. - O Secretário de Estado do Tesouro e das Finanças, António do Pranto Nogueira Leite.

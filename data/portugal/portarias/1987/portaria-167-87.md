@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:662539:por
+title: Portaria n.º 167/87
+short_title: null
+summary: Altera as tabelas anexas ao Decreto-Lei n.º 430/83, de 13 de Dezembro (Convenção Única sobre Estupefacientes de 1961)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Justiça e da Saúde
+proposing_entity: null
+official_number: 167/87
+official_date: null
+publication_date: '1987-03-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 57/1987, Série I de 1987-03-10
+  number: '57'
+  series: I
+  supplement: null
+  pages: 984 - 984
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05700/09840984.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '662539'
+  dre_path: /dr/detalhe/portaria/167-1987-662539
+  internal: pt:dre:662539:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/167-1987-662539
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/167-1987-662539
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-10-12T00:00:00Z'
+integrity:
+  source_sha256: 76129579521a4760dbf523d5c1b69eb055a740cf84e17d133200446dfaff7749
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-167-662539.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:619306:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 167/87
+
+de 10 de Março
+
+A Convenção Única sobre Estupefacientes de 1961, aprovada por Portugal pelo [Decreto-Lei n.º 435/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1970-149202), de 12 de Setembro, e a Convenção de 1971 sobre Substâncias Psicotrópicas, aprovada pelo [Decreto n.º 10/79](https://diariodarepublica.pt/dr/detalhe/decreto/10-1979-392622), de 30 de Janeiro, vieram acrescentar outras substâncias estupefacientes e psicotrópicas, respectivamente, que devem figurar nas tabelas destas substâncias e preparados sujeitos a controle.
+
+Há que acolher - como de resto preconizam e comandam as Nações Unidas - na legislação Portuguesa tais aditamentos, alterando as tabelas anexas ao [Decreto-Lei n.º 430/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1983-443290), de 13 de Dezembro, pois que estas não o haviam feito.
+
+Assim, nos termos do n.º 2 do artigo 2.º do [Decreto-Lei n.º 430/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1983-443290), de 13 de Dezembro:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Justiça e da Saúde, o seguinte:
+
+1.º São acrescentadas às tabelas anexas ao [Decreto-Lei n.º 430/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1983-443290), de 13 de Dezembro, as seguintes substâncias:
+
+Tabela I-A - Alfentanil-monocloridrato de N-{1[2-(4-etil-4,5-di-hidro-5-oxo-1 H-tetrazol-1 il) etil]-4-(metoximetil)-4-piperidinil}-N-fenilpropanamida;
+
+Tabela II-A:
+
+DOB - 2,5 dimetoxi-4-bromoanfetamina;
+
+MDA - 3,4 metilenadioxianfetamina.
+
+Tabela II-C - Pentazocina-1, 2, 3, 4, 5, 6-hexa-hidro-6, 11, dimetil-3-(3-metil-2-butenil)-2,6-metano-3-benzozocina-8-01.
+
+2.º A importação, exportação e comercialização destas substâncias fica sujeita ao regime previsto no [Decreto Regulamentar n.º 71/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1984-373436), de 7 de Setembro.
+
+Ministérios da Justiça e da Saúde.
+
+**Assinada em 4 de Fevereiro de 1987.**
+
+**O Ministro da Justiça, Mário Ferreira Bastos Raposo. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**

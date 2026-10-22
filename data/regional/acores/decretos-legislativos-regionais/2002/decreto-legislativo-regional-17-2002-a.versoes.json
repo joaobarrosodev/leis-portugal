@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:159117:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2002-886474111",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2002-159117",
+ "source_lastmod": "2024-08-30",
+ "versions": [
+  {
+   "date": "2002-05-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886510948",
+    "886510949",
+    "886510950",
+    "886510951",
+    "886510952",
+    "886510953",
+    "886510954",
+    "886510955"
+   ]
+  },
+  {
+   "date": "2012-01-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:477147:por",
+     "title": "Decreto Legislativo Regional n.º 1/2012/A",
+     "published": "2012-01-11",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2012-477147"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "886510948",
+    "886510949",
+    "886510950",
+    "886510951",
+    "886510952",
+    "886510953",
+    "886673202",
+    "886510955",
+    "886510956"
+   ]
+  }
+ ],
+ "fragments": {
+  "886510948": {
+   "fragment_id": "886474112",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 17/2002/A\n\nAdapta à Região o Decreto-Lei n.º 3/2001, de 10 de Janeiro (unifica o quadro legal dos transportes rodoviários em veículos pesados de passageiros).\n\nA entrada em vigor do Decreto-Lei n.º 3/2001, de 10 de Janeiro, constituiu uma inovação profunda no domínio dos transportes de passageiros por via terrestre, pondo fim a um conjunto de legislação desactualizada e dispersa.\n\nTendo em conta algumas soluções concretas do diploma, há necessidade de proceder à sua adaptação aos aspectos específicos da Região, nomeadamente no que se refere à correspondência entre entidades responsáveis pela sua execução.\n\nAs condições específicas em que se desenvolvem os transportes rodoviários de passageiros na Região implicou, de igual modo, abertura para soluções próprias, quanto ao capital social das transportadoras, quanto ao reconhecimento da capacidade profissional, criando, ainda, um regime de natureza excepcional para o transporte particular de pessoas em veículos de mercadorias.\n\nAssim, a Assembleia Legislativa Regional, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º da Lei n.º 61/98, de 27 de Agosto, Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:"
+  },
+  "886510949": {
+   "fragment_id": "886474113",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO regime jurídico criado pelo Decreto-Lei n.º 3/2001, de 10 de Janeiro, aplica-se à Região Autónoma dos Açores, com as adaptações constantes do presente diploma."
+  },
+  "886510950": {
+   "fragment_id": "886474114",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - As competências cometidas, no diploma ora adaptado, às diversas entidades nele referidas são distribuídas do seguinte modo:\n\na) Reportam-se ao membro do Governo Regional que exerce competências no domínio dos transportes terrestres as referências feitas ao membro do Governo responsável pela área dos transportes terrestres;\n\nb) Reportam-se aos membros do Governo Regional que exercem competências nos domínios dos transportes terrestres e das finanças públicas as referências feitas aos Ministros do Equipamento Social e das Finanças;\n\nc) Reportam-se à Direcção Regional de Obras Públicas e Transportes Terrestres (DROPTT) as referências feitas à Direcção-Geral de Transportes Terrestres e à Inspecção-Geral de Obras Públicas, Transportes e Comunicações, com a salvaguarda do disposto nos números seguintes;\n\nd) Reportam-se ao director regional de Obras Públicas e Transportes Terrestres as referências feitas ao director-geral de Transportes Terrestres.\n\n2 - Por despacho do membro do Governo que exerce competências na área dos transportes terrestres, serão cometidas às delegações de ilha do respectivo departamento governamental regional, nos termos da orgânica do mesmo, algumas das competências cujo exercício se encontre a cargo da DROPTT.\n\n3 - Os montantes que vierem a ser fixados para as inscrições nos exames a que se refere o artigo 7.º do diploma adaptado e o produto das taxas a cobrar pela emissão de certificados, licenças, alvarás, autorizações e outros documentos de controlo constantes do diploma em causa ou de sua regulamentação constituirão receita própria do Fundo Regional de Transportes."
+  },
+  "886510951": {
+   "fragment_id": "886474115",
+   "type": 11,
+   "heading": "Artigo 3.º — Capacidade financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Capacidade financeira\n\nAs empresas devem dispor de um capital social mínimo de (euro) 9000 para efeitos de início de actividade, no caso de ser utilizado um único veículo licenciado, ou de (euro) 5000 por cada veículo licenciado adicional que possuam."
+  },
+  "886510952": {
+   "fragment_id": "886474116",
+   "type": 11,
+   "heading": "Artigo 4.º — Reconhecimento da capacidade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reconhecimento da capacidade profissional\n\nNa Região, o nível de conhecimento a tomar em consideração, para efeitos do reconhecimento da capacidade profissional dos candidatos a transportador, não pode ser inferior à escolaridade obrigatória."
+  },
+  "886510953": {
+   "fragment_id": "886474117",
+   "type": 11,
+   "heading": "Artigo 5.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produto das coimas\n\n1 - O produto das coimas resultantes da aplicação do presente regime na Região Autónoma dos Açores será distribuído da seguinte forma:\n\na) 20% para a entidade fiscalizadora;\n\nb) 80% para o Fundo Regional de Transportes, constituindo receita própria deste.\n\n2 - Sempre que a entidade fiscalizadora pertença à Administração Regional, a percentagem do produto das coimas referida na alínea a) do número anterior constituirá receita da Região Autónoma dos Açores."
+  },
+  "886510954": {
+   "fragment_id": "886474118",
+   "type": 11,
+   "heading": "Artigo 6.º — Dilação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dilação\n\n1 - Até 31 de Dezembro de 2005, quando não existam transportes de passageiros adequados e não seja viável o recurso a outro tipo de veículos, a realização de transportes particulares de pessoas em veículos de mercadorias poderá, excepcionalmente, ser autorizado nos seguintes casos:\n\na) De trabalhadores afectos à execução de obras públicas, entre locais de residência ou concentração e as obras em curso, e vice-versa;\n\nb) De pescadores, bem como de apetrechos de pesca, entre centros piscatórios;\n\nc) De madeireiros, trabalhadores rurais, operários de construção civil e trabalhadores das pedreiras, entre os locais de residência ou concentração e de trabalho, e vice-versa.\n\n2 - As condições e as formalidades inerentes à autorização a que se refere o número anterior serão definidas por portaria do secretário regional com competência em matéria de transportes terrestres.\n\n> Nota: [Artigo 12.º, Decreto Legislativo Regional n.º 1/2012/A - Diário da República n.º 8/2012, Série I de 2012-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-477147) O artigo 13.º do Decreto Legislativo Regional n.º 1/2012/A, de 11 de janeiro, revoga o presente artigo. No entanto, as licenças emitidas em 2010 ao abrigo deste, renovam-se automaticamente em 1 de janeiro de 2011 e caducam decorridos 90 dias após a data da entrada em vigor daquele."
+  },
+  "886510955": {
+   "fragment_id": "886474119",
+   "type": 11,
+   "heading": "Artigo 7.º — Adaptação de regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Adaptação de regime\n\n1 - No prazo de um ano, contado da data da entrada em vigor do presente diploma, as entidades que, na Região Autónoma dos Açores, explorem o serviço de transportes de passageiros, e que se não revistam de uma das formas empresariais previstas no diploma ora adaptado, constituir-se-ão numa dessas formas exigidas por lei, sob pena de suspensão e posterior cessação da concessão de que sejam titulares.\n\n2 - No prazo de um ano, contado da entrada em vigor do presente diploma, as sociedades que possuam capital social inferior ao estipulado no artigo 3.º procederão ao seu aumento, sob pena da suspensão e posterior cessação da concessão ou concessões de que sejam titulares."
+  },
+  "886673202": {
+   "fragment_id": "886474118",
+   "type": 11,
+   "heading": "Artigo 6.º — Dilação",
+   "in_force_from": "2012-01-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 1/2012/A - Diário da República n.º 8/2012, Série I de 2012-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-477147), em vigor a partir de 2012-01-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2006/A - Diário da República n.º 37/2006, Série I-A de 2006-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2006-677061), produz efeitos a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Dilação\n\n1 -     Até 31 de Dezembro de 2010, quando não existam transportes de passageiros adequados e não seja viável o recurso a outro tipo de veículos, a realização de transportes particulares de pessoas em veículos de mercadorias poderá, excepcionalmente, ser autorizada nos seguintes casos:\n\na) De trabalhadores afectos à execução de obras públicas, entre locais de residência ou concentração e as obras em curso, e vice-versa;\n\nb) De pescadores, bem como de apetrechos de pesca, entre centros piscatórios;\n\nc) De madeireiros, trabalhadores rurais, operários de construção civil e trabalhadores das pedreiras, entre os locais de residência ou concentração e de trabalho, e vice-versa.\n\n2 - As condições e as formalidades inerentes à autorização a que se refere o número anterior serão definidas por portaria do secretário regional com competência em matéria de transportes terrestres.\n\n> Nota: [Artigo 12.º, Decreto Legislativo Regional n.º 1/2012/A - Diário da República n.º 8/2012, Série I de 2012-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-477147) O artigo 13.º do Decreto Legislativo Regional n.º 1/2012/A, de 11 de janeiro, revoga o presente artigo. No entanto, as licenças emitidas em 2010 ao abrigo deste, renovam-se automaticamente em 1 de janeiro de 2011 e caducam decorridos 90 dias após a data da entrada em vigor daquele.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 1/2012/A - Diário da República n.º 8/2012, Série I de 2012-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-477147), em vigor a partir de 2012-01-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2006/A - Diário da República n.º 37/2006, Série I-A de 2006-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2006-677061), produz efeitos a partir de 2006-01-01"
+  },
+  "886510956": {
+   "fragment_id": "886474120",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 21 de Março de 2002.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 15 de Abril de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  }
+ }
+}

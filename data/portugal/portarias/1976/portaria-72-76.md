@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:506778:por
+title: Portaria n.º 72/76
+short_title: null
+summary: Define os requisitos e formalidades de inscrição no Instituto dos Produtos Florestais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio Externo - Secretaria de Estado do Comércio Externo
+proposing_entity: null
+official_number: 72/76
+official_date: null
+publication_date: '1976-02-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 34/1976, Série I de 1976-02-10
+  number: '34'
+  series: I
+  supplement: null
+  pages: 303 - 304
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03400/03030304.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '506778'
+  dre_path: /dr/detalhe/portaria/72-1976-506778
+  internal: pt:dre:506778:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/72-1976-506778
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/72-1976-506778
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-02-10T00:00:00Z'
+integrity:
+  source_sha256: 2d7f8a6b4e056469a91c832244b36af05515ea2f6606d5b4f27bc815ad47a652
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-72-506778.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 72/76
+
+de 10 de Fevereiro
+
+O [Decreto-Lei n.º 428/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1972-291608), de 31 de Outubro, que criou o Instituto dos Produtos Florestais, dispõe que se consideravam inscritas no Instituto «as entidades já inscritas na Junta Nacional da Cortiça, na Junta Nacional dos Resinosos e no Grémio dos Exportadores de Madeiras [...]» (artigo 18.º, n.º 3), prevendo-se também genericamente a obrigatoriedade de inscrição neste organismo dos industriais, exportadores, importadores e armazenistas de madeira e vime, pastas celulósicas e papel, cortiça e produtos resinosos, seus derivados e subprodutos, bem como quaisquer comerciantes que interfiram no comércio interno de matérias-primas entre a produção e a indústria.
+
+No mesmo diploma ficou previsto ainda que os requisitos exigíveis para a inscrição destas entidades seriam fixados em portaria do Secretário de Estado do Comércio.
+
+Nesta medida, visando acabar com a disparidade que se verifica entre os sujeitos das actividades económicas a cuja inscrição já se procede no instituto dos Produtos Florestais e outros que escapam ao conhecimento destes serviços, torna-se necessário definir os requisitos e formalidades de inscrição no Instituto de todas as entidades cuja obrigatoriedade de inscrição foi prevista pelo referido decreto-lei. É esse o objectivo da presente portaria.
+
+De um modo geral, a definição dos requisitos de inscrição tem andado confundida com a definição das condições de exercício das actividades, sendo frequentes os diplomas legais em que se procede à fixação simultânea dos dois tipos de requisitos.
+
+Julga-se, porém, que os dois tipos de requisitos devem ser distinguidos e que a regulamentação dos requisitos exigíveis para a inscrição deverá tornar-se independente da regulamentação das condições de exercício das actividades cuja obrigatoriedade de inscrição se prevê.
+
+Assim, prevê-se, por um lado, que só possam ser inscritas as entidades que satisfaçam as condições legais e regulamentares exigidas para o exercício da respectiva actividade; por outro, que, no caso em que venham a ser regulamentarmente definidas condições para o exercício de determinada actividade ainda não regulamentada, as entidades inscritas na categoria respectiva terão de fazer prova de que satisfazem as condições então exigidas, sob pena de verem cancelada a sua inscrição.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, com fundamento nos artigos 18.º e 19.º do [Decreto-Lei n.º 428/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1972-291608), de 31 de Outubro, o seguinte:
+
+###### Artigo 1.º É obrigatória a inscrição no Instituto dos Produtos Florestais de todas as entidades singulares ou colectivas que exerçam ou pretendam exercer qualquer ramo de actividade económica integrado nos sectores coordenados pelo Instituto, ou sejam:
+
+a) Madeira, vime e produtos derivados;
+
+b) Cortiça e seus derivados;
+
+c) Resinosos, seus derivados e subprodutos;
+
+d) Pastas celulósicas e papel.
+
+###### Art. 2.º - 1. Relativamente a cada um destes sectores e subsectores, prevê-se que a inscrição das entidades interessadas tenha lugar em função das seguintes categorias:
+
+a) Industriais;
+
+b) Exportadores ou importadores;
+
+c) Armazenistas;
+
+d) Comerciantes cujas categorias não constem das alíneas anteriores e que interfiram no comércio interno de matérias-primas entre a produção e a indústria.
+
+2. As entidades que exerçam actividades que se integrem em mais do que uma das categorias previstas deverão requerer a sua inscrição nas diferentes categorias praticadas.
+
+3. Os industriais, mesmo que se limitem a exportar os produtos da sua própria actividade, consideram-se também exportadores.
+
+4. Poderão ser inscritas na categoria de industriais as cooperativas constituídas por industriais inscritos no Instituto com o fim de efectuarem a comercialização dos produtos da fabricação dos seus associados.
+
+###### Art. 3.º Constituem os requisitos de inscrição em qualquer das categorias anteriormente previstas:
+
+a) Possuir a necessária capacidade financeira;
+
+b) Estar matriculado no registo comercial;
+
+c) Ter cumprido todas as exigências legais decorrentes da qualidade para que requer a sua inscrição.
+
+###### Art. 4.º - 1. Os requerimentos em que se solicita a inscrição deverão ser elaborados em papel selado, com a assinatura reconhecida notarialmente, e dirigidos ao presidente da direcção do Instituto, acompanhados dos elementos de prova de preenchimento dos requisitos que a condicionam e de uma memória descritiva da respectiva organização e das condições em que a entidade interessada se dispõe a exercer a sua actividade.
+
+2. Se os documentos apresentados com o requerimento forem insuficientes para prova do preenchimento dos requisitos de inscrição, o requerente será convidado a completá-los sem prejuízo das averiguações directas a que o Instituto delibere proceder se for caso disso.
+
+3. Este processo de inscrição deverá estar concluído no prazo de um ano, a partir da data de entrada do requerimento solicitando a inscrição, prazo a partir do qual se considera ter caducado a pretensão do requerente.
+
+4. No caso em que o interessado demonstre a impossibilidade de apresentação de algum ou alguns dos documentos exigidos, por razões não imputáveis ao requerente, poderá a direcção do Instituto admitir a sua inscrição provisória, quando reconheça vantajosa a inscrição imediata do requerente.
+
+5. A inscrição provisória a que se refere o número anterior produzirá todos os efeitos da inscrição definitiva, mas ficará subordinada ao prazo de um ano, findo o qual caducará se entretanto não houver sido convertida em definitiva, mediante a apresentação dos documentos em falta, nem apresentadas razões que justifiquem a prorrogação, que será dada apenas por períodos adicionais de cento e oitenta dias.
+
+6. Da decisão da direcção do Instituto sobre o pedido de inscrição cabe recurso hierárquico necessário para o Ministro do Comércio Externo.
+
+###### Art. 5.º Não poderão ser inscritos no Instituto dos Produtos Florestais:
+
+a) Os falidos, enquanto não se reabilitarem;
+
+b) Os directores, administradores ou gerentes das sociedades falidas enquanto não forem ilibados de culpa ou tiverem cumprido as penas.
+
+###### Art. 6.º - 1. A cessação do preenchimento de qualquer dos requisitos previstos no artigo 3.º ou a verificação superveniente dos factos impeditivos a que se refere o artigo 5.º implicará o cancelamento da inscrição.
+
+2. Será também cancelada a inscrição aos que tenham deixado de exercer actividade industrial ou comercial correspondente à categoria em que se encontrarem inscritos e se mantenham em inactividade durante dois anos consecutivos ou, no caso de se tratar de actividades condicionadas durante o período legal estabelecido na respectiva legislação.
+
+###### Art. 7.º Sempre que sejam publicados novos regulamentos em que se definam as condições de exercício da actividade de alguma ou algumas categorias de entidades inscritas, será fixado um prazo para que estas façam prova de que satisfazem as condições exigidas, sob pena de cancelamento da sua inscrição.
+
+###### Art. 8.º - 1. O exercício ilegal de qualquer das actividades previstas no n.º 1 do artigo 18.º do [Decreto-Lei n.º 428/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1972-291608) constitui contravenção punível nos termos do artigo 34.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 308/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1971-642723), de 16 de Julho.
+
+2. Os interessados deverão requerer a sua inscrição no Instituto, dentro do prazo de três meses, a contar da data da publicação do presente regulamento, desde que já pratiquem qualquer actividade a que se refere o número anterior, para não incorrerem na responsabilidade que nele se prevê.
+
+3. São dispensados da formalidade prevista no número anterior aqueles que se encontram já inscritos no Instituto dos Produtos Florestais ao abrigo da legislação anterior.
+
+###### Art. 9.º - 1. Quando forem encontrados quaisquer produtos do âmbito da acção coordenadora do Instituto em poder de qualquer entidade não inscrita, abrangida pelo disposto no artigo 18.º do [Decreto-Lei n.º 428/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1972-291608), o Instituto promoverá o procedimento a que se refere o artigo 40.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+
+2. Se neste caso for autorizada a venda dos produtos apreendidos a qualquer comerciante ou industrial inscrito no Instituto, os produtos só ficarão libertados na data aposta sobre a participação de compra, a apresentar pelo adquirente, na qual se mencionará o número do respectivo processo.
+
+###### Art. 10.º A direcção do Instituto poderá dispensar da inscrição as entidades abrangidas que, pela natureza artesanal e artística da sua actividade, o justifiquem.
+
+###### Art. 11.º O presente regulamento entra imediatamente em vigor.
+
+Ministério do Comércio Externo, 21 de Janeiro de 1976. - O Secretário de Estado do Comércio Externo, António Miguel de Morais Barreto.

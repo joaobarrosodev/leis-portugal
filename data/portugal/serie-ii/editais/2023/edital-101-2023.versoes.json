@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:206158193:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/edital/2023-1178248875",
+ "dre_path": "/dr/detalhe/edital/101-2023-206158193",
+ "source_lastmod": "2026-10-07",
+ "versions": [
+  {
+   "date": "2023-01-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1178218775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1178218775": {
+   "fragment_id": "1178248975",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Luís António Alves da Encarnação, presidente da Câmara Municipal de Lagoa, faz público, Nos termos e para os efeitos do disposto no n.º 1 do artigo 56.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, que esta Câmara Municipal na sua reunião extraordinária realizada no dia 16 de dezembro do corrente ano, aprovou o Tarifário do Saneamento de Águas Residuais Urbanas, o qual entrará em vigor a 01 de janeiro de 2023 e que a seguir se transcreve:\n\nTarifário do Serviço de Saneamento de Águas Residuais Urbanas\n\n1.1 - Tarifário Utilizadores Domésticos:\n\nTarifa de disponibilidade, expressa em Euros por dia:\n\nTarifa de disponibilidade, expressa em euros por dia - 0,0811 (euro)\n\nTarifa variável, por m3 de água consumida:\n\n1.º escalão - até 5 m3 - 0,3570 (euro)\n\n2.º escalão - superior a 5 e até 15 m3 - 0,5192 (euro)\n\n3.º escalão - superior a 15 e até 25 m3 - 0,6355 (euro)\n\n4.º escalão - superior a 25 m3 - 0,6800 (euro)\n\n1.2 - Utilizadores não-domésticos:\n\nTarifa de disponibilidade, expressa em Euros por dia:\n\nTarifa de disponibilidade, expressa em Euros por dia - 0,1420 (euro)\n\nTarifa variável, por m3 de água consumida:\n\nEscalão único - 0,5561 (euro)\n\n1.3 - Tarifário para rega:\n\nTarifa de disponibilidade, expressa em Euros por dia:\n\nTarifa de disponibilidade, expressa em Euros por dia - 0,1420 (euro)\n\nTarifa variável, por m3 de água consumida:\n\nEscalão único - Isenção.\n\n1.4 - Tarifário social:\n\n1.4.1 - Social - Utilizadores domésticos:\n\nTarifa de disponibilidade, expressa em Euros por dia:\n\nTarifa de disponibilidade, expressa em Euros por dia - Isenção.\n\nTarifa variável, por m3 de água consumida:\n\n1.º escalão - até 5 m3 - 0,3570 (euro)\n\n2.º escalão - superior a 5 e até 15 m3 - 0,3570 (euro)\n\n3.º escalão - superior a 15 e até 25 m3 - 0,6355 (euro)\n\n4.º escalão - superior a 25 m3 - 0,6800 (euro)\n\n1.4.2 - Social - Utilizadores não-domésticos:\n\nTarifa de disponibilidade, expressa em Euros por dia:\n\nTarifa de disponibilidade, expressa em Euros por dia - 0,0811 (euro)\n\nTarifa variável, por m3 de água consumida:\n\nEscalão único - 0,5192 (euro)\n\n1.5 - Tarifário Famílias Numerosas:\n\nTarifa de disponibilidade, expressa em Euros por dia:\n\nTarifa de disponibilidade, expressa em Euros por dia - 0,0811 (euro)\n\nTarifa variável, por m3 de água consumida:\n\n1.º escalão - até 5 m3 - 0,3570 (euro)\n\n2.º escalão - superior a 5 e até 15 m3 - 0,3570 (euro)\n\n3.º escalão - superior a 15 e até 25 m3 - 0,6355 (euro)\n\n4.º escalão - superior a 25 m3 - 0,6800 (euro)\n\n1.6 - Serviços Auxiliares:\n\nExecução de ramais de ligação de diâmetro até 200 mm com extensão superior a 20 metros, por cada metro linear adicional - 92,9590 (euro)\n\nExecução de caixa de ramal completa, por unidade - 336,2325 (euro)\n\nExecução de caixa geral completa, por unidade - 661,8750 (euro)\n\nAlteração de ramal de ligação de diâmetro até 200 mm, por exigência do utilizador ou construção da ramal de ligação adicional de diâmetro até 200 mm, por cada metro linear - 92,9590 (euro)\n\nRealização de vistorias ou ensaios de sistemas prediais e domiciliários de saneamento a pedido dos utilizadores - 11,7477 (euro)\n\nSuspensão e reinício da ligação por incumprimento do utilizador, quando não seja possível a interrupção do serviço de abastecimento de água - 20,5530 (euro)\n\nVerificação extraordinária de medidor de caudal a pedido do utilizador - 53,6913 (euro)\n\nLeitura extraordinária de caudais rejeitados por solicitação do utilizador - 25,9759 (euro)\n\nFornecimento de plantas de localização com informação sobre o sistema de águas residuais, por cada planta - 2,5879 (euro)\n\nLimpeza de fossas particulares:\n\nTarifa de disponibilidade - 82,8135 (euro)\n\nTarifa variável, até 5 m3 - 3,4362 (euro)\n\nTarifa variável, até 10 m3 - 6,8725 (euro)\n\n1.7 - TRH - saneamento - 0,0047 (euro)/m3\n\nE, para constar e produzir os devidos efeitos, se publica este edital e outros de igual teor que vão ser afixados nos lugares de estilo e na internet, no sítio www.cm-lagoa.pt"
+  }
+ }
+}

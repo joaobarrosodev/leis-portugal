@@ -1,0 +1,275 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:169491468:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-206346925",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2021-169491468",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-08-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206346842",
+    "206346843",
+    "206346844",
+    "206346845",
+    "206346846",
+    "206346847",
+    "206346848",
+    "206346849",
+    "206346850",
+    "206346851",
+    "206346852",
+    "206346853",
+    "206346854",
+    "206346855"
+   ]
+  },
+  {
+   "date": "2024-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901536098:por",
+     "title": "Decreto Legislativo Regional n.º 15/2024/A",
+     "published": "2024-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2024-901536098"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "206346842",
+    "206346843",
+    "206346844",
+    "206346845",
+    "206346846",
+    "206346847",
+    "206346858",
+    "206346859",
+    "901662510",
+    "206346861",
+    "206346868",
+    "206346869",
+    "206346870",
+    "206346871",
+    "206346872",
+    "206346873",
+    "206346874"
+   ]
+  }
+ ],
+ "fragments": {
+  "206346842": {
+   "fragment_id": "206346926",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 26/2021/A\n\nSumário: Regime de concessão de bolsas de estudo para a frequência de mestrado na área de formação de professores.\n\nRegime de concessão de bolsas de estudo para a frequência de mestrado na área da formação de professores\n\nO sucesso educativo de qualquer comunidade escolar está diretamente relacionado com a existência de um corpo docente devidamente habilitado e motivado e, bem assim, adequado às necessidades da rede de ensino público. Outros fatores, como a ação social escolar e instalações seguras e funcionais, também concorrem para aquele desígnio, embora de forma não tão determinante.\n\nAs taxas de sucesso educativo, de progressão de estudos, de conclusão do ensino secundário e de abandono escolar precoce, todavia, relegam os Açores para os últimos lugares no País e na Europa. E essa circunstância convoca a formulação de políticas públicas de educação suscetíveis de inverterem tal rumo.\n\nA formação inicial de docentes é uma das estratégias que avulta na prossecução do sucesso educativo, mais ainda em presença da escassez de recursos que, gradualmente, se vem verificando nos últimos anos, em quase todos os grupos de recrutamento.\n\nPrevendo-se que até ao final de 2024, ano terminal da presente legislatura, se registe a aposentação de mais de 300 educadores e professores integrados nos quadros da rede de ensino público dos Açores, mais urgente se torna a adoção de medidas que garantam o provimento daqueles recursos e dos que já hoje faltam nos estabelecimentos de educação e ensino das nossas ilhas.\n\nConsidera-se, por isso, oportuna a criação de uma bolsa de estudo para estudantes que frequentam cursos de mestrado na área da formação de professores, como incentivo à integração na docência. É, pois, esse o desiderato do presente diploma, pela atribuição de um valor pecuniário, com caráter mensal e regular, durante 10 meses em cada ano do mestrado, ficando o beneficiário obrigado a ser opositor ao concurso externo de provimento e oferta de emprego para contratação a termo resolutivo de pessoal docente da educação pré-escolar e dos ensinos básico e secundário da Região Autónoma dos Açores, por período nele determinado.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "206346843": {
+   "fragment_id": "206346927",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - É criada uma bolsa de estudo para estudantes da Região Autónoma dos Açores que frequentam cursos de mestrado na área da formação de professores, com o objetivo de suprir a carência de pessoal docente.\n\n2 - Podem candidatar-se à bolsa de estudo os estudantes que cumulativamente reúnam as seguintes condições:\n\na) Tenham residência na Região Autónoma dos Açores ou nela tenham frequentado todo o ensino secundário;\n\nb) Façam prova de estarem matriculados em curso de mestrado na área da formação de professores;\n\nc) Não sejam detentores de habilitação profissional para a docência."
+  },
+  "206346844": {
+   "fragment_id": "206346928",
+   "type": 11,
+   "heading": "Artigo 2.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Candidatura\n\n1 - A candidatura à bolsa é efetuada através de requerimento dirigido ao membro do Governo Regional competente em matéria de educação, acompanhado de documento comprovativo de matrícula no curso, de documento onde conste a nota de candidatura ao referido curso ou a média de curso e de certificado do 12.º ano, onde conste a escola em que o completou.\n\n2 - O modelo do requerimento, referido no número anterior, é fixado por despacho do membro do Governo Regional competente em matéria de educação, no qual devem constar os direitos e obrigações do bolseiro."
+  },
+  "206346845": {
+   "fragment_id": "206346929",
+   "type": 11,
+   "heading": "Artigo 3.º — Período da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Período da candidatura\n\nA candidatura pode ser apresentada unicamente no período que decorre entre 1 de setembro e 30 de novembro de cada ano ou até 30 dias após o prazo limite para a primeira matrícula no curso de mestrado."
+  },
+  "206346846": {
+   "fragment_id": "206346930",
+   "type": 11,
+   "heading": "Artigo 4.º — Número de bolsas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Número de bolsas\n\nO número máximo de bolsas, por grupo de recrutamento, a atribuir em cada ano é estabelecido, até 30 de junho, por despacho conjunto dos membros do Governo Regional competentes em matéria de educação e emprego, tendo em conta as necessidades futuras de docentes e as disponibilidades orçamentais."
+  },
+  "206346847": {
+   "fragment_id": "206346931",
+   "type": 11,
+   "heading": "Artigo 5.º — Seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Seleção\n\n1 - Os candidatos são ordenados em lista, por ordem decrescente da nota de candidatura ao curso de mestrado, até ao limite do número referido no artigo anterior.\n\n2 - Para efeitos do número anterior, releva o número de créditos quando o candidato já esteja a frequentar o curso de mestrado.\n\n3 - Em caso de igualdade, prefere o candidato cujo agregado familiar tiver o rendimento per capita mais baixo.\n\n4 - A lista ordenada é homologada pelo membro do Governo Regional competente em matéria de educação e notificada a todos os candidatos."
+  },
+  "206346848": {
+   "fragment_id": "206346932",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante da bolsa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Montante da bolsa\n\nO montante da bolsa de estudo corresponde a 65 % da retribuição mínima mensal regional, sendo pago mensalmente, de outubro a julho, inclusive."
+  },
+  "206346849": {
+   "fragment_id": "206346933",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações dos bolseiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações dos bolseiros\n\nCom a aceitação da bolsa de estudo, que se efetiva com o recebimento da primeira mensalidade, os bolseiros assumem as seguintes obrigações:\n\na) Apresentar, no início de cada ano letivo, certificado de matrícula, onde conste o ano que frequentam;\n\nb) Ser opositor ao concurso externo de provimento e oferta de emprego para contratação a termo resolutivo de pessoal docente da educação pré-escolar e dos ensinos básico e secundário imediatamente após a conclusão do curso de mestrado e até ingressar nos quadros de escola ou regional, pelo período máximo de três anos;\n\nc) Aceitar o lugar em que venham a ser colocados no âmbito do concurso externo referido na alínea anterior."
+  },
+  "206346850": {
+   "fragment_id": "206346934",
+   "type": 11,
+   "heading": "Artigo 8.º — Início do pagamento da bolsa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Início do pagamento da bolsa\n\n1 - No primeiro ano da atribuição, a bolsa é paga a partir da data da homologação da lista de candidaturas, produzindo efeitos a partir do mês de outubro do ano da candidatura ou a partir da data de ingresso no curso se esta ocorrer depois daquele mês.\n\n2 - Nos anos seguintes, a bolsa é paga com efeitos a partir do mês de outubro, ocorrendo o seu processamento e pagamento efetivos após a receção, no departamento governamental competente em matéria de educação, do documento referido na alínea a) do artigo anterior."
+  },
+  "206346851": {
+   "fragment_id": "206346935",
+   "type": 11,
+   "heading": "Artigo 9.º — Compatibilidade com outras bolsas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Compatibilidade com outras bolsas\n\n1 - Os bolseiros que, à data de entrada em vigor do presente diploma, beneficiem de bolsa concedida pela administração pública regional dos Açores podem, por requerimento dirigido ao membro do Governo Regional competente em matéria de educação, optar pelo regime agora estabelecido, sem prejuízo do cumprimento das obrigações a que se tenham comprometido, na proporção do tempo que já tiver decorrido.\n\n2 - A bolsa prevista no presente diploma é acumulável com qualquer benefício financeiro ou material atribuído aos bolseiros pelos serviços de ação social da respetiva universidade ou bolsa concedida por instituições não públicas."
+  },
+  "206346852": {
+   "fragment_id": "206346936",
+   "type": 11,
+   "heading": "Artigo 10.º — Situações de reembolso e indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Situações de reembolso e indemnização\n\n1 - Os bolseiros ficam obrigados a reembolsar e indemnizar a Região quando:\n\na) Não cumpram qualquer das obrigações constantes do artigo 7.º;\n\nb) Desistam da frequência do curso;\n\nc) Reprovem, por qualquer razão, mais que um ano ao longo do seu curso.\n\n2 - A reprovação, por motivo de doença clinicamente comprovada, não é considerada para efeitos do número anterior e não implica o reembolso nem a indemnização se os alunos bolseiros repetirem e concluírem o ano com aproveitamento."
+  },
+  "206346853": {
+   "fragment_id": "206346937",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo do reembolso e indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazo do reembolso e indemnização\n\n1 - O pagamento do reembolso e da indemnização é feito pela totalidade, de uma só vez, no prazo de 90 dias a seguir ao facto que lhe deu origem.\n\n2 - O membro do Governo Regional competente em matéria de educação pode autorizar a prorrogação do prazo indicado no número anterior, até ao limite de três anos e o pagamento em prestações, mediante requerimento do interessado que invoque e comprove que a sua situação económica não lhe permite proceder ao pagamento no prazo referido no número anterior."
+  },
+  "206346854": {
+   "fragment_id": "206346938",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma transitória\n\n1 - O número máximo de bolsas, por grupo de recrutamento, a atribuir no ano letivo de 2021-2022, é estabelecido, até 31 de agosto, por despacho dos membros do Governo Regional competentes em matéria de educação e emprego.\n\n2 - Excecionalmente, no ano letivo de 2021-2022, o primeiro pagamento da bolsa terá lugar com a entrada em vigor do Orçamento da Região Autónoma dos Açores para o ano de 2022, produzindo, todavia, efeitos conforme determinado no artigo 8.º"
+  },
+  "206346855": {
+   "fragment_id": "206346939",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte à sua publicação."
+  },
+  "206346858": {
+   "fragment_id": "206346943",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 68.º do/a [Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 5.º-A — Regulamentação\n\n1 - Os regulamentos que se mostrem necessários à boa execução do regime constante do presente diploma revestem a forma de despacho conjunto dos membros do Governo Regional competentes em matéria de educação e emprego.\n\n2 - As direções regionais competentes em matéria de educação e emprego elaboram as orientações internas que se tornem necessárias à execução do presente diploma.\n\n> Aditado pelo/a Artigo 68.º do/a [Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), produz efeitos a partir de 2023-01-01"
+  },
+  "206346859": {
+   "fragment_id": "206346932",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante da bolsa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Montante da bolsa\n\nO montante da bolsa de estudo corresponde a 65 % da retribuição mínima mensal regional, sendo pago mensalmente, de outubro a julho, inclusive."
+  },
+  "901662510": {
+   "fragment_id": "206346933",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações dos bolseiros",
+   "in_force_from": "2024-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 70.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Obrigações dos bolseiros\n\nCom a aceitação da bolsa de estudo, que se efetiva com o recebimento da primeira mensalidade, os bolseiros assumem as seguintes obrigações:\n\na) Apresentar, no início de cada ano letivo, certificado de matrícula, onde conste o ano que frequentam;\n\nb) Ser opositor ao concurso externo de provimento e oferta de emprego para contratação, a termo resolutivo, de pessoal docente da educação pré-escolar e dos ensinos básico e secundário, imediatamente após a conclusão do curso de mestrado, e até ingressar nos quadros de pessoal docente do sistema educativo regional, pelo período máximo de três anos;\n\nc) Aceitar o lugar em que venham a ser colocados no âmbito do concurso externo referido na alínea anterior.\n\n> Alterado pelo/a Artigo 70.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+  },
+  "206346861": {
+   "fragment_id": "206346934",
+   "type": 11,
+   "heading": "Artigo 8.º — Início do pagamento da bolsa",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 68.º do/a [Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Início do pagamento da bolsa\n\n1 - No primeiro ano da atribuição, a bolsa é paga a partir da data da homologação da lista de candidaturas, produzindo efeitos a partir do mês de outubro do ano da candidatura ou a partir da data de ingresso no curso se esta ocorrer depois daquele mês.\n\n2 - Nos anos seguintes, a bolsa é paga com efeitos a partir do mês de outubro, ocorrendo o seu processamento e pagamento efetivos após a receção, no departamento governamental competente em matéria de educação, do documento referido na alínea a) do artigo anterior.\n\n3 - Cabe à direção regional competente em matéria de emprego o processamento do pagamento da bolsa, após a homologação da lista ordenada a que se refere o n.º 4 do artigo 5.º do presente diploma.\n\n4 - O despacho de concessão da bolsa é publicado em Jornal Oficial da Região Autónoma dos Açores.\n\n> Alterado pelo/a Artigo 68.º do/a [Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), produz efeitos a partir de 2023-01-01"
+  },
+  "206346868": {
+   "fragment_id": "206346944",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Financiamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 68.º do/a [Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-A — Financiamento\n\nOs encargos decorrentes da medida prevista no presente diploma são suportados pelo orçamento do Fundo Regional do Emprego, podendo ser cofinanciados por verbas comunitárias.\n\n> Aditado pelo/a Artigo 68.º do/a [Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), produz efeitos a partir de 2023-01-01"
+  },
+  "206346869": {
+   "fragment_id": "206346935",
+   "type": 11,
+   "heading": "Artigo 9.º — Compatibilidade com outras bolsas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Compatibilidade com outras bolsas\n\n1 - Os bolseiros que, à data de entrada em vigor do presente diploma, beneficiem de bolsa concedida pela administração pública regional dos Açores podem, por requerimento dirigido ao membro do Governo Regional competente em matéria de educação, optar pelo regime agora estabelecido, sem prejuízo do cumprimento das obrigações a que se tenham comprometido, na proporção do tempo que já tiver decorrido.\n\n2 - A bolsa prevista no presente diploma é acumulável com qualquer benefício financeiro ou material atribuído aos bolseiros pelos serviços de ação social da respetiva universidade ou bolsa concedida por instituições não públicas."
+  },
+  "206346870": {
+   "fragment_id": "206346936",
+   "type": 11,
+   "heading": "Artigo 10.º — Situações de reembolso e indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Situações de reembolso e indemnização\n\n1 - Os bolseiros ficam obrigados a reembolsar e indemnizar a Região quando:\n\na) Não cumpram qualquer das obrigações constantes do artigo 7.º;\n\nb) Desistam da frequência do curso;\n\nc) Reprovem, por qualquer razão, mais que um ano ao longo do seu curso.\n\n2 - A reprovação, por motivo de doença clinicamente comprovada, não é considerada para efeitos do número anterior e não implica o reembolso nem a indemnização se os alunos bolseiros repetirem e concluírem o ano com aproveitamento."
+  },
+  "206346871": {
+   "fragment_id": "206346937",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo do reembolso e indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazo do reembolso e indemnização\n\n1 - O pagamento do reembolso e da indemnização é feito pela totalidade, de uma só vez, no prazo de 90 dias a seguir ao facto que lhe deu origem.\n\n2 - O membro do Governo Regional competente em matéria de educação pode autorizar a prorrogação do prazo indicado no número anterior, até ao limite de três anos e o pagamento em prestações, mediante requerimento do interessado que invoque e comprove que a sua situação económica não lhe permite proceder ao pagamento no prazo referido no número anterior."
+  },
+  "206346872": {
+   "fragment_id": "206346938",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma transitória\n\n1 - O número máximo de bolsas, por grupo de recrutamento, a atribuir no ano letivo de 2021-2022, é estabelecido, até 31 de agosto, por despacho dos membros do Governo Regional competentes em matéria de educação e emprego.\n\n2 - Excecionalmente, no ano letivo de 2021-2022, o primeiro pagamento da bolsa terá lugar com a entrada em vigor do Orçamento da Região Autónoma dos Açores para o ano de 2022, produzindo, todavia, efeitos conforme determinado no artigo 8.º"
+  },
+  "206346873": {
+   "fragment_id": "206346939",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte à sua publicação."
+  },
+  "206346874": {
+   "fragment_id": "206346940",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de julho de 2021.\n\nO Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.\n\nAssinado em Angra do Heroísmo em 5 de agosto de 2021.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n114479078"
+  }
+ }
+}

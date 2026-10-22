@@ -1,0 +1,626 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:285300:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-886312668",
+ "dre_path": "/dr/detalhe/decreto-lei/141-1988-285300",
+ "source_lastmod": "2024-08-30",
+ "versions": [
+  {
+   "date": "1988-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886330542",
+    "886330543",
+    "886330544",
+    "886330545",
+    "886330546",
+    "886330547",
+    "886330548",
+    "886330549",
+    "886330550",
+    "886330551",
+    "886330552",
+    "886330553",
+    "886330554",
+    "886330555",
+    "886330556",
+    "886330557",
+    "886330558",
+    "886330559",
+    "886330560",
+    "886330561",
+    "886330562",
+    "886330563",
+    "886330564",
+    "886330565",
+    "886330566"
+   ]
+  },
+  {
+   "date": "1990-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:574892:por",
+     "title": "Decreto-Lei n.º 172/90",
+     "published": "1990-05-30",
+     "dre_path": "/dr/detalhe/decreto-lei/172-1990-574892"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Revoga Tabela I",
+    "Revoga Tabela II",
+    "Revoga Tabela III"
+   ],
+   "fragments": [
+    "886330542",
+    "886330543",
+    "886330544",
+    "886330545",
+    "886382885",
+    "886382886",
+    "886330548",
+    "886330549",
+    "886382888",
+    "886330551",
+    "886330552",
+    "886330553",
+    "886330554",
+    "886330555",
+    "886330556",
+    "886330557",
+    "886330558",
+    "886330559",
+    "886330560",
+    "886330561",
+    "886330562",
+    "886330563",
+    "886330564",
+    "886330565",
+    "886330566",
+    "886330567",
+    "886382889",
+    "886382890",
+    "886382891",
+    "886382878"
+   ]
+  },
+  {
+   "date": "1990-11-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:565867:por",
+     "title": "Decreto-Lei n.º 342/90",
+     "published": "1990-10-30",
+     "dre_path": "/dr/detalhe/decreto-lei/342-1990-565867"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "886330542",
+    "886330543",
+    "886330544",
+    "886330545",
+    "886382885",
+    "886382886",
+    "886330548",
+    "886330549",
+    "886382896",
+    "886330551",
+    "886330552",
+    "886330553",
+    "886330554",
+    "886330555",
+    "886330556",
+    "886330557",
+    "886330558",
+    "886330559",
+    "886330560",
+    "886330561",
+    "886330562",
+    "886330563",
+    "886330564",
+    "886330565",
+    "886330566",
+    "886330567",
+    "886382889",
+    "886382890",
+    "886382891",
+    "886382878"
+   ]
+  },
+  {
+   "date": "1993-09-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:324488:por",
+     "title": "Decreto-Lei n.º 288/93",
+     "published": "1993-08-20",
+     "dre_path": "/dr/detalhe/decreto-lei/288-1993-324488"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "886330542",
+    "886330543",
+    "886382974",
+    "886386275",
+    "886386276",
+    "886386277",
+    "886386278",
+    "886330549",
+    "886386279",
+    "886330551",
+    "886386280",
+    "886330553",
+    "886330554",
+    "886330555",
+    "886330556",
+    "886330557",
+    "886330558",
+    "886330559",
+    "886330560",
+    "886330561",
+    "886386281",
+    "886330563",
+    "886330564",
+    "886330565",
+    "886330566",
+    "886330567",
+    "886382889",
+    "886382890",
+    "886382891",
+    "886382878"
+   ]
+  },
+  {
+   "date": "2008-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456492:por",
+     "title": "Decreto-Lei n.º 116/2008",
+     "published": "2008-07-04",
+     "dre_path": "/dr/detalhe/decreto-lei/116-2008-456492"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "886330542",
+    "886330543",
+    "886382974",
+    "886386275",
+    "886386276",
+    "886386277",
+    "886386278",
+    "886330549",
+    "886386279",
+    "886330551",
+    "886386282",
+    "886330553",
+    "886330554",
+    "886330555",
+    "886330556",
+    "886330557",
+    "886330558",
+    "886330559",
+    "886330560",
+    "886330561",
+    "886386281",
+    "886330563",
+    "886330564",
+    "886330565",
+    "886330566",
+    "886330567",
+    "886382889",
+    "886382890",
+    "886382891",
+    "886382878"
+   ]
+  }
+ ],
+ "fragments": {
+  "886330542": {
+   "fragment_id": "886312669",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 141/88\n\nde 22 de Abril\n\nO Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) e o Instituto de Gestão Financeira da Segurança Social (IGFSS) são titulares de milhares de fogos e terrenos cuja alienação se impõe por diversas ordens de razão.\n\nEm primeiro lugar, porque a política do Governo no sector da construção e habitação, e em particular no da habitação social, dirige-se no sentido de incrementar e apoiar o desenvolvimento de programas prosseguidos pelas câmaras municipais, cooperativas de habitação e empresas privadas, como forma de optimizar a aplicação dos recursos disponíveis e mais rapidamente vir a contribuir para a satisfação das necessidades de habitação dos agregados familiares de menores recursos.\n\nCom efeito, à promoção directa da administração central, que se traduz em planos de construção excessivamente longos e, consequentemente, preços de construção anormalmente altos, contrapõem-se os resultados já obtidos pela promoção cooperativa, privada e pública local, totalmente em sentido inverso.\n\nA habitação social, propriedade da administração central, deve conter-se em limites restritos, na medida em que deve ser encarada, na maioria dos casos, como solução provisória ou transitória e suscitar o recurso a outros meios de política habitacional, para além de que a figura do Estado «administrador de casas» gera desperdícios e irracionalidades com pesados encargos para o próprio Estado.\n\nEm segundo lugar, a alienação dos fogos não é meramente uma questão económico-financeira: constitui uma acção eminentemente social, ao dar às famílias de menores recursos o acesso à propriedade, mediante um esforço de poupança compatível ao seu nível de rendimento, através de regimes especiais de compra e venda com sistemas apropriados de amortização.\n\nEm terceiro lugar, porque se entende que os recursos imobiliários do Estado - neste caso, os terrenos - devem ser colocados ao serviço da população pela sua utilização no incremento de programas de habitação social, criando assim melhores condições para uma maior oferta de terrenos e casas, para além dos seus efeitos reguladores directos e indirectos sobre o mercado.\n\nPor último e na medida em que por razões jurídicas, administrativas e processuais se constata que grande parte do património do Estado não está ainda em situação regular, há necessidade de tomar as medidas necessárias para rapidamente o regularizar, sob pena de se comprometer todos os objectivos e políticas definidas.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "886330543": {
+   "fragment_id": "886312670",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nOs fogos de habitação social e terrenos que sejam da propriedade do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) e do Instituto de Gestão Financeira da Segurança Social (IGFSS) podem ser alienados nos termos do presente diploma."
+  },
+  "886330544": {
+   "fragment_id": "886312671",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime obrigatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime obrigatório\n\n1 - Os fogos de habitação social arrendados só podem ser vendidos ao respectivo arrendatário ou cônjuge e, a requerimento destes, aos seus descendentes ou afins na linha recta que com ele coabitem há mais de um ano.\n\n2 - O município pode substituir-se ao arrendatário se este declarar expressamente que não pretende adquirir o fogo.\n\n3 - As pessoas referidas no n.º 1 dispõem do prazo máximo de um ano, contado da data em que aceitaram a realização do contrato, para celebrar as respectivas escrituras, sob pena de lhes poder ser actualizado o preço de venda."
+  },
+  "886330545": {
+   "fragment_id": "886312672",
+   "type": 11,
+   "heading": "Artigo 3.º — Casas de função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Casas de função\n\nAs casas de função só podem ser alienadas às entidades beneficiárias ou ao respectivo município."
+  },
+  "886330546": {
+   "fragment_id": "886312673",
+   "type": 11,
+   "heading": "Artigo 4.º — Preço de venda dos fogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Preço de venda dos fogos\n\n1 - O preço de venda do fogo é o correspondente ao seu valor actualizado, tendo os compradores direito a uma dedução em função do pagamento integral do mesmo ou do valor da entrada inicial de acordo com a tabela I anexa ao presente diploma, que dele faz parte integrante.\n\n2 - O preço de venda do fogo é arredondado para o milhar de escudos superior."
+  },
+  "886330547": {
+   "fragment_id": "886312674",
+   "type": 11,
+   "heading": "Artigo 5.º — Valor actualizado do fogo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Valor actualizado do fogo\n\n1 - O valor actualizado do fogo é calculado de acordo com o n.º 2 do artigo 4.º e artigo 5.º do Decreto-Lei n.º 13/86, de 23 de Janeiro.\n\n2 - Para o efeito do número anterior considera-se que:\n\na) O factor Cc (estado de conservação nos fogos de habitação social arrendados) é de 0,68, podendo, para fogos devolutos, variar entre 0,68 e 1, sendo determinado caso a caso pela entidade proprietária;\n\nb) Para efeitos de cálculo do coeficiente de vetustez (Vt) aplica-se a tabela II anexa ao presente diploma, que dele faz parte integrante;\n\nc) O preço de habitação por metro quadrado é fixado anualmente, por zonas, em Janeiro, por portaria do Ministro das Obras Públicas, Transportes e Comunicações, ouvido o Ministro do Emprego e da Segurança Social."
+  },
+  "886330548": {
+   "fragment_id": "886380475",
+   "type": 11,
+   "heading": "Artigo 6.º — Preço de venda dos terrenos para programas de habitação social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Preço de venda dos terrenos para programas de habitação social\n\nO preço de venda dos terrenos para programas de habitação será fixado por portaria do Ministro das Obras Públicas, Transportes e Comunicações."
+  },
+  "886330549": {
+   "fragment_id": "886380476",
+   "type": 11,
+   "heading": "Artigo 7.º — Terrenos das autarquias locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Terrenos das autarquias locais\n\n1 - Nos empreendimentos de construção do IGAPHE ou do IGFSS implantados em terrenos das autarquias locais, o preço a pagar por estes será calculado nos termos da portaria a que se refere o artigo anterior.\n\n2 - Para todos os efeitos, incluindo os de registo, o IGAPHE ou o IGFSS podem provar a propriedade dos terrenos onde tenham implantadas construções através de autos de cessão, de entrega ou declaração de que uma ou outra foi feita.\n\n3 - No prazo máximo de dois anos a contar da data do registo do terreno a seu favor, devem o IGAPHE ou o IGFSS proceder à liquidação dos valores em dívida às autarquias locais, acrescidos dos respectivos juros.\n\n4 - Por acordo entre as partes, a liquidação a que se refere o número anterior pode ser feita directamente à Caixa Geral de Depósitos para amortização das dívidas dos respectivos municípios a que se refere o Decreto-Lei n.º 410/87, de 31 de Dezembro."
+  },
+  "886330550": {
+   "fragment_id": "886380477",
+   "type": 11,
+   "heading": "Artigo 8.º — Fogos devolutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fogos devolutos\n\n1 - A alienação de fogos devolutos é obrigatoriamente feita por concurso, mediante afixação de anúncios em pelo menos dois dos jornais mais lidos da localidade, e adjudicados por sorteio, sendo o preço de venda calculado nos termos do artigo 5.º do presente diploma.\n\n2 - Não se aplicam aos fogos devolutos as deduções previstas no artigo 4.º\n\n3 - Podem candidatar-se aos fogos referidos no n.º 1 todos os cidadãos nacionais, dando-se preferência aos que, cumulativamente, estejam nas condições seguintes:\n\na) Não possuam habitação própria no município do empreendimento;\n\nb) O respectivo agregado familiar não tenha rendimentos anuais brutos corrigidos, em função da sua dimensão e de harmonia com a tabela III anexa ao presente diploma, que dele faz parte integrante, superiores a três vezes o salário mínimo nacional;\n\nc) Residam há mais de cinco anos no município referido na alínea a).\n\n4 - No caso de não existirem candidatos que reúnam todas as condições previstas no número anterior será dada preferência aos que preencham duas delas, prioritária e sucessivamente.\n\n5 - A comprovação do rendimento anual bruto e da dimensão do agregado familiar deve ser comunicada à entidade proprietária acompanhada das declarações conforme modelos anexos ao presente diploma, que dele fazem parte integrante."
+  },
+  "886330551": {
+   "fragment_id": "886380478",
+   "type": 11,
+   "heading": "Artigo 9.º — Sistema de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sistema de crédito\n\n1 - Os interessados na compra de fogos de habitação social podem ter acesso ao sistema de crédito à habitação em vigor.\n\n2 - O financiamento para aquisição de fogos arrendados pode atingir 100% do preço de venda do fogo."
+  },
+  "886330552": {
+   "fragment_id": "886380479",
+   "type": 11,
+   "heading": "Artigo 10.º — Ónus de inalienabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ónus de inalienabilidade\n\n1 - Os fogos adquiridos ao abrigo do presente diploma são inalienáveis durante os sete anos subsequentes à aquisição, salvo para execução por dívidas relacionadas com a compra do próprio fogo e de que este seja garantia, ou de dívidas fiscais.\n\n2 - O ónus de inalienabilidade está sujeito a registo e cessa ocorrendo a morte ou invalidez permanente e absoluta do adquirente ou automaticamente decorrido o prazo de sete anos após a aquisição do fogo.\n\n3 - Durante o prazo referido no n.º 1, os fogos destinam-se a exclusivamente a residência permanente dos adquirentes.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488) O disposto no n.º 4 do presente artigo aplica-se retroativamente aos contratos celebrados antes da entrada em vigor do presente diploma, podendo o ónus ser cancelado mediante simples declaração do instituto alienante confirmando que já decorreu o respetivo prazo."
+  },
+  "886330553": {
+   "fragment_id": "886380480",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime de renda obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime de renda obrigatória\n\nDecorrido o prazo referido no n.º 1 do artigo anterior, os fogos só podem ser arrendados em regime de renda condicionada."
+  },
+  "886330554": {
+   "fragment_id": "886380481",
+   "type": 11,
+   "heading": "Artigo 12.º — Licenças e alvarás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Licenças e alvarás\n\nO IGAPHE e o IGFSS estão dispensados da apresentação de licenças de construção e de utilização para os actos referidos no artigo 44.º da Lei n.º 46/85, de 20 de Setembro, bem como de licenças para operações de loteamento e obras de urbanização e respectivos alvarás."
+  },
+  "886330555": {
+   "fragment_id": "886380482",
+   "type": 11,
+   "heading": "Artigo 13.º — Trato sucessivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Trato sucessivo\n\nO IGAPHE e o IGFSS estão dispensados do trato sucessivo em relação a todos os seus imóveis."
+  },
+  "886330556": {
+   "fragment_id": "886380483",
+   "type": 11,
+   "heading": "Artigo 14.º — Prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prova\n\n1 - Para prova de transmissão de bens imóveis em que sejam transmissários o IGAPHE ou o IGFSS, constitui título bastante, para todos os efeitos, incluindo os de registo, o auto de entrega ou a declaração de que esta foi feita, assinada pelos legais representantes das entidades intervenientes ou por funcionários a quem as respectivas direcções tenham atribuído poderes para o efeito, donde constem, devidamente relacionados, os bens transmitidos.\n\n2 - Nos casos em que a entidade transmitente tenha sido extinta, ou não seja possível obter a declaração referida no número anterior, esta será substituída por relação de bens a emitir pelo IGAPHE ou pelo IGFSS, conforme os casos, onde deve também constar essa impossibilidade.\n\n3 - A fotocópia dos documentos referidos nos números anteriores tem a mesma força probatória dos originais, desde que nela conste a declaração da conformidade com o original, devidamente autenticada com o selo branco do IGAPHE ou do IGFSS."
+  },
+  "886330557": {
+   "fragment_id": "886380484",
+   "type": 11,
+   "heading": "Artigo 15.º — Constituição em propriedade horizontal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Constituição em propriedade horizontal\n\n1 - A alienação de fogos que não sejam moradias unifamiliares será precedida da respectiva constituição em propriedade horizontal.\n\n2 - A constituição da propriedade horizontal faz-se mediante declaração da entidade proprietária de que estão verificados os respectivos requisitos legais.\n\n3 - A declaração referida no número anterior constitui título bastante para os respectivos registos."
+  },
+  "886330558": {
+   "fragment_id": "886380485",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência para celebração de escrituras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência para celebração de escrituras\n\nOs cartórios privativos para serviços de protesto de letras e outros títulos de crédito são também competentes para a celebração de escrituras de compra e venda de imóveis alienados ao abrigo do presente diploma."
+  },
+  "886330559": {
+   "fragment_id": "886380486",
+   "type": 11,
+   "heading": "Artigo 17.º — Visto do Tribunal de Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Visto do Tribunal de Contas\n\nAs minutas de contratos e escrituras para os fins previstos neste diploma ficam dispensadas do visto do Tribunal de Contas."
+  },
+  "886330560": {
+   "fragment_id": "886380487",
+   "type": 11,
+   "heading": "Artigo 18.º — Isenção de emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Isenção de emolumentos\n\nAs escrituras públicas e os respectivos actos de registo em que sejam transmissários o IGAPHE ou o IGFSS estão isentos de emolumentos."
+  },
+  "886330561": {
+   "fragment_id": "886380488",
+   "type": 11,
+   "heading": "Artigo 19.º — Nulidade de transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Nulidade de transmissão\n\nSão nulas as transmissões de fogos de habitação social feitas contra o disposto neste diploma."
+  },
+  "886330562": {
+   "fragment_id": "886380489",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime especial\n\nOs artigos 12.º a 15.º e 21.º aplicam-se à alienação de fogos propriedade do IGAPHE e do IGFSS que estejam fora do âmbito do artigo 1.º deste diploma, bem como às fracções não habitacionais e terrenos que não sejam afectos a programas de habitação social, os quais serão alienados pelo valor a fixar pela livre negociação entre as partes e nos termos e condições a acordar."
+  },
+  "886330563": {
+   "fragment_id": "886380490",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma excepcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma excepcional\n\nAs alienações dos fogos propriedade do IGFSS ao abrigo deste diploma estão dispensadas de parecer do conselho de gestão a que se refere a alínea g) do n.º 1 do artigo 8.º do Decreto Regulamentar n.º 24/77, de 1 de Abril."
+  },
+  "886330564": {
+   "fragment_id": "886380491",
+   "type": 11,
+   "heading": "Artigo 22.º — Cancelamento de ónus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Cancelamento de ónus\n\nOs ónus de renda económica e de afectação a reservas matemáticas inscritos sobre prédios propriedade do IGFSS, ainda que requeridos a favor de instituições já extintas, podem ser cancelados através de declaração, emitida pelo proprietário, autorizando os referidos cancelamentos, onde constem, devidamente relacionados, quer aqueles, quer os prédios sobre que incidem."
+  },
+  "886330565": {
+   "fragment_id": "886380492",
+   "type": 11,
+   "heading": "Artigo 23.º — Fogos construídos no âmbito de CDHs",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Fogos construídos no âmbito de CDHs\n\nO presente diploma não se aplica aos fogos que sejam da propriedade do IGAPHE e tenham sido construídos no âmbito de contratos de desenvolvimento para a habitação (CDHs)."
+  },
+  "886330566": {
+   "fragment_id": "886380493",
+   "type": 11,
+   "heading": "Artigo 24.º — Legislação a revogar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Legislação a revogar\n\nSão revogados os Decretos-Leis n.os 31/82, de 1 de Fevereiro, e 260/84, de 31 de Julho."
+  },
+  "886382885": {
+   "fragment_id": "886312673",
+   "type": 11,
+   "heading": "Artigo 4.º — Preço de venda dos fogos",
+   "in_force_from": "1990-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+   ],
+   "markdown": "###### Artigo 4.º — Preço de venda dos fogos\n\n1 - O preço da venda do fogo é o correspondente ao seu valor actualizado, tendo os compradores direito a uma dedução em função do pagamento integral do mesmo ou do valor da entrada inicial, de acordo com tabela a aprovar por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.\n\n2 - O preço de venda do fogo é arredondado para o milhar de escudos superior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+  },
+  "886382886": {
+   "fragment_id": "886312674",
+   "type": 11,
+   "heading": "Artigo 5.º — Valor actualizado do fogo",
+   "in_force_from": "1990-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+   ],
+   "markdown": "###### Artigo 5.º — Valor actualizado do fogo\n\n1 - O valor actualizado do fogo é calculado de acordo com o n.º 2 do artigo 4.º e artigo 5.º do Decreto-Lei n.º 13/86, de 23 de Janeiro.\n\n2 - Para o efeito do número anterior considera-se que:\n\na) O factor Cc (estado de conservação nos fogos de habitação social arrendados) é de 0,68, podendo, para fogos devolutos, variar entre 0,68 e 1, sendo determinado caso a caso pela entidade proprietária;\n\nb)  Para efeitos do cálculo do coeficiente vetustez (VT) aplica-se a tabela a aprovar por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.\n\nc) O preço de habitação por metro quadrado é fixado anualmente, por zonas, em Janeiro, por portaria do Ministro das Obras Públicas, Transportes e Comunicações, ouvido o Ministro do Emprego e da Segurança Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+  },
+  "886382888": {
+   "fragment_id": "886380477",
+   "type": 11,
+   "heading": "Artigo 8.º — Fogos devolutos",
+   "in_force_from": "1990-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+   ],
+   "markdown": "###### Artigo 8.º — Fogos devolutos\n\n1 - A alienação de fogos devolutos é obrigatoriamente feita por concurso, mediante afixação de anúncios em pelo menos dois dos jornais mais lidos da localidade, e adjudicados por sorteio, sendo o preço de venda calculado nos termos do artigo 5.º do presente diploma.\n\n2 - Não se aplicam aos fogos devolutos as deduções previstas no artigo 4.º\n\n3 - Podem candidatar-se aos fogos referidos no n.º 1 todos os cidadãos nacionais, dando-se preferência aos que, cumulativamente, estejam nas condições seguintes:\n\na) Não possuam habitação própria no município do empreendimento;\n\nb) O respectivo agregado familiar não tenha rendimentos anuais brutos corrigidos, em função da sua dimensão e de harmonia com a tabela a aprovar por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, superiores a três vezes o salário mínimo nacional;\n\nc) Residam há mais de cinco anos no município referido na alínea a).\n\n4 - No caso de não existirem candidatos que reúnam todas as condições previstas no número anterior será dada preferência aos que preencham duas delas, prioritária e sucessivamente.\n\n5 - A comprovação do rendimento anual bruto e da dimensão do agregado familiar deve ser comunicada à entidade proprietária acompanhada das declarações conforme modelos anexos ao presente diploma, que dele fazem parte integrante.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+  },
+  "886330567": {
+   "fragment_id": "886380494",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins - António José de Castro Bagão Félix.\n\nPromulgado em 9 de Abril de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Abril de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "886382889": {
+   "fragment_id": "886380503",
+   "type": 14,
+   "heading": "Tabela I — (a que se refere o artigo 4.º, n.º 1)",
+   "in_force_from": "1990-06-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+   ],
+   "markdown": "## Tabela I — (a que se refere o artigo 4.º, n.º 1)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+  },
+  "886382890": {
+   "fragment_id": "886380505",
+   "type": 14,
+   "heading": "Tabela II — (a que se refere o artigo 8.º, n.º 3, alínea b, do número 2)",
+   "in_force_from": "1990-06-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+   ],
+   "markdown": "## Tabela II — (a que se refere o artigo 8.º, n.º 3, alínea b, do número 2)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+  },
+  "886382891": {
+   "fragment_id": "886380506",
+   "type": 14,
+   "heading": "Tabela III — (a que se refere o artigo 8.º, n.º 3, alínea b)",
+   "in_force_from": "1990-06-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+   ],
+   "markdown": "## Tabela III — (a que se refere o artigo 8.º, n.º 3, alínea b)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+  },
+  "886382878": {
+   "fragment_id": "886380507",
+   "type": 14,
+   "heading": "Modelos de declarações — (a que se refere o n.º 5 do artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Modelos de declarações — (a que se refere o n.º 5 do artigo 8.º)\n\n(Carta registada com aviso de recepção ou com protocolo de recepção)\n\n(Entidade proprietária)\n\nExmos. Srs.:\n\nPara efeito de habilitação ao concurso de atribuição do fogo sito em ..., declaro que:\n\n1) O meu agregado familiar é composto por:\n\n... ... ...\n\n(nome) (parentesco) (idade)\n\n2) O rendimento mensal bruto do agregado familiar, no ano de ..., foi de ..., conforme fotocópia de declaração do imposto complementar (ou conforme fotocópia dos elementos oficiais adequados).\n\n... (local e data).\n\n... (assinatura reconhecida).\n\nElementos que fazem parte do agregado familiar que não sejam descendentes menores\n\nExmos. Srs.:\n\nEu, abaixo assinado, ... declaro que faço parte integrante do agregado familiar de ..., vivendo em regime de comunhão de mesa e habitação.\n\nMais se declara, para os devidos efeitos, que o meu rendimento mensal bruto foi de ..., no ano de ..., conforme fotocópia da declaração do imposto complementar (ou conforme fotocópia dos elementos adequados).\n\n... (local e data).\n\n... (assinatura reconhecida)."
+  },
+  "886382896": {
+   "fragment_id": "886380477",
+   "type": 11,
+   "heading": "Artigo 8.º — Fogos devolutos",
+   "in_force_from": "1990-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 342/90 - Diário da República n.º 251/1990, Série I de 1990-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1990-565867), em vigor a partir de 1990-11-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+   ],
+   "markdown": "###### Artigo 8.º — Fogos devolutos\n\n1 -    Sem prejuízo do disposto nos n.os 6 e 7, a alienação de fogos devolutos é feita por concurso, mediante afixação de anúncios em pelo menos dois dos jornais mais lidos da localidade, e adjudicados por sorteio, sendo o preço de venda calculado nos termos do artigo 5.º\n\n2 - Não se aplicam aos fogos devolutos as deduções previstas no artigo 4.º\n\n3 - Podem candidatar-se aos fogos referidos no n.º 1 todos os cidadãos nacionais, dando-se preferência aos que, cumulativamente, estejam nas condições seguintes:\n\na) Não possuam habitação própria no município do empreendimento;\n\nb) O respectivo agregado familiar não tenha rendimentos anuais brutos corrigidos, em função da sua dimensão e de harmonia com a tabela a aprovar por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, superiores a três vezes o salário mínimo nacional;\n\nc) Residam há mais de cinco anos no município referido na alínea a).\n\n4 - No caso de não existirem candidatos que reúnam todas as condições previstas no número anterior será dada preferência aos que preencham duas delas, prioritária e sucessivamente.\n\n5 - A comprovação do rendimento anual bruto e da dimensão do agregado familiar deve ser comunicada à entidade proprietária acompanhada das declarações conforme modelos anexos ao presente diploma, que dele fazem parte integrante.\n\n6 - Os fogos devolutos podem ser alienados directamente aos municípios, a outras pessoas colectivas de direito público ou a instituições particulares de solidariedade social, desde que se destinem à realização dos respectivos fins.\n\n7 - Quando, após a realização do concurso referido no n.º 1, se verificar a existência de fogos devolutos por falta de candidatos, podem os mesmos ser alienados directamente a eventuais interessados, de acordo e nos termos das regras processuais a aprovar por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.\n\n> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 342/90 - Diário da República n.º 251/1990, Série I de 1990-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1990-565867), em vigor a partir de 1990-11-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+  },
+  "886382974": {
+   "fragment_id": "886312671",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime de Alienação",
+   "in_force_from": "1993-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+   ],
+   "markdown": "###### Artigo 2.º — Regime de Alienação\n\nOs fogos de habitação social arrendados, incluindo as casas de função, podem ser vendidos ao respectivo arrendatário ou cônjuge e, a requerimento destes, aos seus parentes ou afins ou a outras pessoas que com ele coabitem há mais de um ano.\n\n2 - O instituto alienante pode ainda proceder à venda directa, na globalidade, de prédios ou suas fracções, que constituem agrupamentos habitacionais ou bairros às seguintes entidades:\n\na) Municípios e demais pessoas colectivas de direito público;\n\nb) Pessoas colectivas de direito privado e utilidade pública;\n\nc) Instituições particulares de solidariedade social.\n\n3 - As casas de função que não forem adquiridas nos termos do n.º 1 podem ser alienadas às respectivas entidades beneficiárias ou às entidades referidas no número anterior.\n\n4 - O instituto alienante pode acordar com o arrendatário que não compre a fracção a sua transferência para fracção de outro prédio, mediante as seguintes compensações a conceder casuisticamente:\n\na) Atribuição de um subsídio destinado a cobrir as despesas provocadas pela transferência;\n\nb) Isenção temporária do pagamento da prestação pessoal de renda.\n\n5 - Quando a venda nos termos do n.º 1 não for feita ao arrendatário ou cônjuge pode ser constituído usufruto a favor de qualquer deles ou dos dois conjuntamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+  },
+  "886386275": {
+   "fragment_id": "886312672",
+   "type": 11,
+   "heading": "Artigo 3.º — Propriedade resolúvel e fogos de prefabricação ligeira",
+   "in_force_from": "1993-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+   ],
+   "markdown": "###### Artigo 3.º — Propriedade resolúvel e fogos de prefabricação ligeira\n\n1 - Os direitos e obrigações relativos aos fogos em regime de propriedade resolúvel podem ser transmitidos onerosamente às entidades referidas no n.º 2 do artigo anterior.\n\n2 - Os fogos de prefabricação ligeira, bem como os direitos e obrigações de fogos de idêntica natureza em regime de propriedade resolúvel, podem ser cedidos, a título gratuito, às entidades referidas no número anterior e aos respectivos moradores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+  },
+  "886386276": {
+   "fragment_id": "886312673",
+   "type": 11,
+   "heading": "Artigo 4.º — Preço de venda dos fogos",
+   "in_force_from": "1993-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+   ],
+   "markdown": "###### Artigo 4.º — Preço de venda dos fogos\n\n1 - O preço de venda do fogo é o correspondente ao seu valor actualizado, calculado nos termos do artigo 5.º, sem prejuízo do disposto nos números seguintes.\n\n2 - O preço de venda do fogo pode ser objecto de uma dedução em função do pagamento integral ou do pagamento de uma entrada inicial, de acordo com tabela a aprovar por portaria conjunta dos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.\n\n3 - O preço de venda dos fogos devolutos vendidos ao abrigo do n.º 11 do artigo 8.º é fixado nos mesmos termos e condições dos fogos arrendados.\n\n4 - O preço de venda de fogos do IGAPHE, cuja construção foi comparticipada pela Fundação Calouste Gulbenkian, pode ser objecto de uma redução de 50%, não havendo neste caso direito à dedução prevista no n.º 2.\n\n5 - O preço de venda do fogo é arredondado para o milhar de escudos superior e mantém-se inalterável pelo prazo de um ano a contar da data de aceitação da proposta de venda, findo o qual pode ser actualizado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+  },
+  "886386277": {
+   "fragment_id": "886312674",
+   "type": 11,
+   "heading": "Artigo 5.º — Valor actualizado do fogo",
+   "in_force_from": "1993-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+   ],
+   "markdown": "###### Artigo 5.º — Valor actualizado do fogo\n\n1 - O valor actualizado do fogo é calculado de acordo com o n.º 2 do artigo 4.º e artigo 5.º do Decreto-Lei n.º 13/86, de 23 de Janeiro.\n\n2 - Para o efeito do número anterior considera-se que:\n\na)  Sem prejuízo do disposto no número seguinte, o factor Cc (estado de conservação nos fogos de habitação social arrendados) é de 0,68, podendo, para fogos devolutos, variar entre 0,68 e 1, sendo determinado caso a caso pela entidade proprietária;\n\nb) Para efeitos do cálculo de coeficiente de vetustez (Vt) aplica-se a tabela a aprovar por portaria conjunta dos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social;\n\nc) O preço de habitação por metro quadrado é fixado anualmente, por zonas, em Janeiro, por portaria do Ministro das Obras Públicas, Transportes e Comunicações, ouvido o Ministro do Emprego e da Segurança Social.\n\n3 - Nos fogos propriedade do IGAPHE, excepcionalmente e quando a situação da construção ou da conservação do fogo o justificar, pode o instituto alienante, mediante despacho do Ministro das Obras Públicas, Transportes e Comunicações, fixar um factor de valor inferior ao referido na alínea a) do número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+  },
+  "886386278": {
+   "fragment_id": "886380475",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de alienação e preços de venda dos terrenos para programa de habitação de custos controlados Os terrenos afectos a programas de habitação de custos controlados podem ser vendidos em propriedade plena ou em direito de superfície a entidades públicas ou privadas, nas condições e pelos preços a definir em portaria conjunta dos Ministros das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.",
+   "in_force_from": "1993-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+   ],
+   "markdown": "###### Artigo 6.º — Condições de alienação e preços de venda dos terrenos para programa de habitação de custos controlados Os terrenos afectos a programas de habitação de custos controlados podem ser vendidos em propriedade plena ou em direito de superfície a entidades públicas ou privadas, nas condições e pelos preços a definir em portaria conjunta dos Ministros das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.\n\nCondições de alienação e preços de venda dos terrenos para programa de habitação de custos controlados\n\nOs terrenos afectos a programas de habitação de custos controlados podem ser vendidos em propriedade plena ou em direito de superfície a entidades públicas ou privadas, nas condições e pelos preços a definir em portaria conjunta dos Ministros das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+  },
+  "886386279": {
+   "fragment_id": "886380477",
+   "type": 11,
+   "heading": "Artigo 8.º — Fogos devolutos",
+   "in_force_from": "1993-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19",
+    "Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 342/90 - Diário da República n.º 251/1990, Série I de 1990-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1990-565867), em vigor a partir de 1990-11-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+   ],
+   "markdown": "###### Artigo 8.º — Fogos devolutos\n\n1 -   A alienação de fogos devolutos é feita por concurso nos termos seguintes:\n\na) O instituto alienante abre concurso para a venda de fogos devolutos ou que venham a vagar num ou mais bairros, durante o prazo de validade do mesmo, que não poderá ser superior a dois anos;\n\nb) O concurso é aberto mediante a publicação de anúncios em pelo menos dois dos jornais mais lidos nas respectivas localidades;\n\nc) Os candidatos podem concorrer a diferentes tipologias de fogos, localizados num ou mais bairros e em municípios diferentes, mas a cada concorrente só pode ser adjudicado um fogo.\n\n2 - Não se aplicam aos fogos devolutos as deduções previstas no n.º 2 do artigo 4.º, com excepção dos casos referidos no n.º 11 do presente artigo.\n\n3 - Podem candidatar-se aos fogos referidos no n.º 1 todos os cidadãos nacionais, dando-se preferência aos que, cumulativamente, estejam nas condições seguintes:\n\na) Não possuam habitação própria no município do empreendimento;\n\nb)  O respectivo agregado familiar não tenha rendimentos anuais brutos corrigidos, em função da sua dimensão e de harmonia com a tabela a aprovar por portaria conjunta dos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social, superiores a três vezes o salário mínimo nacional;\n\nc) Residam há mais de cinco anos no município referido na alínea a).\n\n4 - No caso de não existirem candidatos que reúnam todas as condições previstas no número anterior será dada preferência aos que preencham duas delas, prioritária e sucessivamente.\n\n5 - A comprovação do rendimento anual bruto e da dimensão do agregado familiar deve ser comunicada à entidade proprietária acompanhada das declarações conforme modelos anexos ao presente diploma, que dele fazem parte integrante.\n\n6 - Após a selecção dos concorrentes nos termos do n.º 3, é realizado sorteio por bairro e por tipologia, seguindo-se a adjudicação dos fogos devolutos.\n\n7 - Os concorrentes classificados pela ordem do sorteio realizado nos termos do número anterior, aos quais não tenham sido adjudicados fogos, mantêm-se em lista de espera pelo prazo de validade do concurso.\n\n8 - Sempre que fique devoluto um fogo, o primeiro concorrente da lista referida no n.º 7 é notificado por carta registada, com aviso de recepção, identificando o fogo e respectivo preço, para no prazo de 30 dias declarar se aceita a proposta de venda.\n\n9 - Caso o concorrente notificado nos termos do número anterior não declare estar interessado, é contactado o segundo classificado da lista referida no n.º 7, e assim sucessivamente.\n\n10 - Os concorrentes referidos nos n.os 8 e 9 quando declarem expressamente que não estão interessados na compra do fogo ou quando nada declararem são reposicionados nos últimos lugares da lista referida no n.º 7.\n\n11 - Os fogos devolutos podem ser vendidos, nos termos do artigo 2.º, directamente aos arrendatários de outros fogos do instituto alienante, desde que aceitem a revogação do respectivo contrato de arrendamento e entreguem o fogo desocupado.\n\n12 - Quando os fogos devolutos a vender estejam nas condições previstas no n.º 1 do artigo 7.º, ou análogas, os mesmos são adjudicados aos concorrentes que, pela ordem indicada na lista referida no n.º 7, apresentem melhores condições de pagamento.\n\n13 - Os fogos devolutos podem ser alienados directamente a municípios ou outras pessoas colectivas de direito público, a pessoas colectivas de direito privado e utilidade pública e a instituições particulares de solidariedade social, desde que se destinem à realização dos respectivos fins.\n\n14 - Quando, após a realização do concurso referido no n.º 1, se verificar a existência de fogos devolutos por falta de candidatos, podem os mesmos ser vendidos directamente a eventuais interessados, de acordo e nos termos das regras processuais a aprovar por portaria conjunta dos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19\n\n> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 342/90 - Diário da República n.º 251/1990, Série I de 1990-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1990-565867), em vigor a partir de 1990-11-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/90 - Diário da República n.º 124/1990, Série I de 1990-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), em vigor a partir de 1990-06-04"
+  },
+  "886386280": {
+   "fragment_id": "886380479",
+   "type": 11,
+   "heading": "Artigo 10.º — Ónus de inalienabilidade",
+   "in_force_from": "1993-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+   ],
+   "markdown": "###### Artigo 10.º — Ónus de inalienabilidade\n\n1 -  Os fogos adquiridos ao abrigo do presente diploma são inalienáveis durante os cinco anos subsequentes à aquisição, excepto nos seguintes casos:\n\na) Aquisição por alguma das entidades referidas nos n.os 2 e 3 do artigo 2.º e no n.º 13 do artigo 8.º;\n\nb) Venda em execução fiscal;\n\nc) Venda por execução de dívidas contraídas com a compra do próprio fogo e desde que este tenha sido dado como garantia do crédito obtido.\n\n2 - O ónus de inalienabilidade está sujeito a registo e cessa ocorrendo a morte ou invalidez permanente e absoluta do adquirente ou, automaticamente, decorrido o prazo previsto no número anterior.\n\n3 - Durante o prazo referido no n.º 1, os fogos destinam-se a exclusivamente a residência permanente dos adquirentes.\n\n4 - Sempre que, por facto imputável ao instituto alienante, as escrituras de compra e venda dos fogos prometidos vender não tiverem lugar no prazo de um ano a contar da data da celebração dos contratos-promessa de compra e venda, o ónus de inalienabilidade conta-se a partir da data de celebração do contrato-promessa de compra e venda.\n\n5 - A circunstância referida no número anterior é expressamente mencionada na escritura de compra e venda e verificada pelo notário.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488) O disposto no n.º 4 do presente artigo aplica-se retroativamente aos contratos celebrados antes da entrada em vigor do presente diploma, podendo o ónus ser cancelado mediante simples declaração do instituto alienante confirmando que já decorreu o respetivo prazo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+  },
+  "886386281": {
+   "fragment_id": "886380489",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime especial",
+   "in_force_from": "1993-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+   ],
+   "markdown": "###### Artigo 20.º — Regime especial\n\n1 - Os artigos 12.º a 15.º e 21.º aplicam-se à alienação de fogos propriedade do IGAPHE e do IGFSS que estejam fora do âmbito do artigo 1.º deste diploma, bem como às fracções não habitacionais e terrenos que não sejam afectos a programas de habitação social, os quais serão alienados pelo valor a fixar pela livre negociação entre as partes e nos termos e condições a acordar.\n\n2 - O disposto no número anterior aplica-se à alienação de prédios ou suas fracções, bem como à transmissão de direitos e obrigações relativos a fracções em regime de propriedade resolúvel, previstas n.os 2 e 3 do artigo 2.º e no n.º 1 do artigo 3.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+  },
+  "886386282": {
+   "fragment_id": "886380479",
+   "type": 11,
+   "heading": "Artigo 10.º — Ónus de inalienabilidade",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2008-07-21",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+   ],
+   "markdown": "###### Artigo 10.º — Ónus de inalienabilidade\n\n1 -  Os fogos adquiridos ao abrigo do presente diploma são inalienáveis durante os cinco anos subsequentes à aquisição, excepto nos seguintes casos:\n\na) Aquisição por alguma das entidades referidas nos n.os 2 e 3 do artigo 2.º e no n.º 13 do artigo 8.º;\n\nb) Venda em execução fiscal;\n\nc) Venda por execução de dívidas contraídas com a compra do próprio fogo e desde que este tenha sido dado como garantia do crédito obtido.\n\n2 - O ónus de inalienabilidade está sujeito a registo e cessa ocorrendo a morte ou invalidez permanente e absoluta do adquirente ou, automaticamente, decorrido o prazo previsto no número anterior.\n\n3 - Durante o prazo referido no n.º 1, os fogos destinam-se a exclusivamente a residência permanente dos adquirentes.\n\n4 - Sempre que, por facto imputável ao instituto alienante, o contrato de compra e venda dos fogos prometidos vender não tiver lugar no prazo de um ano a contar da data da celebração dos contratos-promessa de compra e venda, o ónus de inalienabilidade conta-se a partir da data de celebração do contrato-promessa de compra e venda.\n\n5 - A circunstância referida no número anterior é expressamente mencionada no contrato de compra e venda e verificada pela entidade que o titular.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488) O disposto no n.º 4 do presente artigo aplica-se retroativamente aos contratos celebrados antes da entrada em vigor do presente diploma, podendo o ónus ser cancelado mediante simples declaração do instituto alienante confirmando que já decorreu o respetivo prazo.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2008-07-21\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/93 - Diário da República n.º 195/1993, Série I-A de 1993-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), em vigor a partir de 1993-09-19"
+  }
+ }
+}

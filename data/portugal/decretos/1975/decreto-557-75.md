@@ -1,0 +1,196 @@
+---
+schema_version: '1.0'
+id: pt:dre:312200:por
+title: Decreto n.º 557/75
+short_title: null
+summary: Aprova o Acordo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia sobre a Cooperação
+  no Domínio do Turismo, assinado em Lisboa em 15 de Março de 1975
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos
+proposing_entity: null
+official_number: 557/75
+official_date: null
+publication_date: '1975-10-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 227/1975, Série I de 1975-10-01
+  number: '227'
+  series: I
+  supplement: null
+  pages: 1522 - 1524
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/10/22700/15221524.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '312200'
+  dre_path: /dr/detalhe/decreto/557-1975-312200
+  internal: pt:dre:312200:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/557-1975-312200
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/557-1975-312200
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-10-01T00:00:00Z'
+integrity:
+  source_sha256: fa85ac5525ab5a632f8b93d331d243b5904e8be7a2134cb94257016316e56998
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-557-312200.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 557/75
+
+de 1 de Outubro
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado para ratificação o Acordo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia sobre a Cooperação no Domínio do Turismo, assinado em Lisboa em 15 de Março de 1975, cujo texto em português vai anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Jorge Fernando Branco de Sampaio.
+
+**Assinado em 15 de Setembro de 1975.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+
+Acordo entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia sobre a Cooperação no Domínio do Turismo.
+
+O Governo da República Portuguesa e o Governo da República Socialista da Roménia;
+
+Convencidos da necessidade do desenvolvimento das relações entre os dois países;
+
+Tendo em consideração a importância do turismo como um dos factores de consolidação das relações de amizade, conhecimento mútuo e compreensão entre os dois povos;
+
+Reconhecendo o interesse comum dos dois países em estabelecer uma cooperação estreita e duradoura no domínio do turismo, em condições de vantagem recíproca;
+
+Inspirados nas recomendações da conferência das Nações Unidas para o turismo e as viagens internacionais, que teve lugar em Roma, de 21 de Agosto a 5 de Setembro de 1963, e da União Internacional dos Organismos Oficiais de Turismo,
+
+Acordaram no seguinte:
+
+###### ARTIGO 1
+
+As Partes Contratantes esforçar-se-ão por todos os meios possíveis no sentido de desenvolver o turismo entre os dois países e de promover relações mais estreitas de cooperação entre os organismos oficiais de turismo, as agências turísticas e outros organismos e organizações que se ocupam da actividade turística.
+
+###### ARTIGO 2
+
+Cada Parte Contratante concederá, em conformidade com a sua legislação, os vistos necessários para fins turísticos e esforçar-se-á por simplificar as formalidades e o contrôle das fronteiras em favor dos turistas da outra Parte Contratante.
+
+###### ARTIGO 3
+
+1. As Partes Contratantes facilitarão numa base de reciprocidade a distribuição de documentação e material promocional, de informação e de publicidade turísticas.
+
+2. As duas Partes tomarão medidas destinadas a respeitar as realidades históricas e culturais dos dois países, na publicidade e na informação turísticas levadas a efeito pelas suas organizações turísticas.
+
+3. O material de propaganda, quer seja adquirido, oferecido ou trocado entre os dois países, quer seja importado directamente pelas delegações de turismo, será isento de direitos aduaneiros e taxas de entrada.
+
+4. Esta isenção será igualmente aplicável ao material destinado a feiras e exposições, incluindo montras, e a qualquer outro material necessário para a publicidade turística, incluindo material de reportagem, importados temporariamente.
+
+###### ARTIGO 4
+
+1. As Partes Contratantes favorecerão a informação recíproca das possibilidades turísticas dos seus países, organizando viagens de jornalistas, repórteres e peritos de turismo.
+
+2. Estabelecer-se-á uma troca efectiva de conhecimentos turísticos, nomeadamente no domínio da legislação, da formação profissional, do equipamento e do ordenamento do território, das estatísticas, da promoção e da planificação do turismo.
+
+3. Para assegurar a troca de experiências entre especialistas, as Partes Contratantes autorizarão, numa base bilateral, a presença temporária, em regime de trabalho, de profissionais de turismo, de hotelaria e de restaurante do outro país.
+
+###### ARTIGO 5
+
+1. As Partes Contratantes encorajarão o desenvolvimento da colaboração entre os automóveis clube dos dois países, para a promoção do turismo automóvel. À medida que for considerado necessário, os automóveis clube dos dois países concluirão protocolos de colaboração.
+
+2. As medidas tomadas relativamente aos automóveis clube poderão ser aplicadas a qualquer outra organização que favoreça as trocas turísticas.
+
+###### ARTIGO 6
+
+1. Serão estabelecidas medidas especiais tendo em vista a facilitação do turismo de grupo, do turismo social e do turismo de jovens, incluindo os participantes e espectadores de manifestações culturais e desportivas.
+
+2. As Partes Contratantes facilitarão contactos entre organizações de turismo de massa dos dois países, a fim de realizar contratos de troca de grupos turísticos, sem despesa em divisas para as prestações turísticas terrestres.
+
+3. No domínio do turismo social, as Partes Contratantes favorecerão a realização de visitas com vista ao conhecimento sócio-económico de cada um dos países.
+
+###### ARTIGO 7
+
+Cada Parte Contratante encorajará as suas agências de viagens no sentido de organizar excursões ao outro país para turistas de terceiros países, quando da sua visita a Portugal e à Roménia, e favorecerão a realização de campanhas publicitárias conjuntas visando os dois países.
+
+###### ARTIGO 8
+
+As Partes Contratantes submeter-se-ão, em matéria de regulamentação sanitária, às recomendações da Organização Mundial de Saúde (OMS).
+
+###### ARTIGO 9
+
+As Partes Contratantes facilitarão, numa base de reciprocidade, a instalação e a actividade das delegações de turismo nos dois países.
+
+###### ARTIGO 10
+
+As Partes Contratantes prestar-se-ão mutuamente assistência no que respeita aos problemas da colaboração internacional e da adesão aos organismos internacionais de turismo.
+
+###### ARTIGO 11
+
+As Partes Contratantes acordam que os pagamentos resultantes das operações realizadas no âmbito do presente Acordo serão efectuados em divisas livremente convertíveis e em conformidade com a regulamentação cambial em vigor em cada um dos países.
+
+###### ARTIGO 12
+
+1. A fim de realizar e assegurar as consultas mútuas relativas ao presente Acordo, as Partes Contratantes decidem constituir uma subcomissão mista, que se reunirá a pedido de uma das Partes Contratantes.
+
+As reuniões terão lugar alternadamente em cada um dos dois países, na data fixada de comum acordo pelas Partes Contratantes.
+
+2. A subcomissão fará um relatório das suas actividades à Comissão Mista Luso-Romena.
+
+###### ARTIGO 13
+
+O presente Acordo será ratificado em conformidade com as disposições constitucionais de cada uma das Partes Contratantes e entrará em vigor na data da troca das respectivas notificações.
+
+O Acordo terá uma duração de cinco anos a partir da sua entrada em vigor e será renovado automaticamente por períodos sucessivos de um ano se nenhuma das Partes Contratantes o denunciar por via diplomática, pelo menos três meses antes da expiração do período de validade.
+
+Feito em Lisboa, em 15 de Março de 1975, em dois exemplares originais nas línguas portuguesa e romena, fazendo os dois textos igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+José Vera Jardim.
+
+Pelo Governo da República Socialista da Roménia:
+
+(Assinatura ilegível.)

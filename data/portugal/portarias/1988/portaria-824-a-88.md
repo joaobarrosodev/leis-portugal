@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:274269:por
+title: Portaria n.º 824-A/88
+short_title: null
+summary: Estabelece que as tarifas relativas ao transporte de passageiros entre Lisboa (ou Madeira) e pontos nos Açores não
+  especificados na Portaria n.º 805-E/88, de 15 de Dezembro, sejam idênticas às estabelecidas para as ligações entre Lisboa
+  (ou Madeira) e Ponta Delgada, Terceira ou Horta
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo
+proposing_entity: null
+official_number: 824-A/88
+official_date: null
+publication_date: '1988-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 299/1988, 2º Suplemento, Série I de 1988-12-28
+  number: '299'
+  series: I
+  supplement: 2º Suplemento
+  pages: 5122-(22) a 5122-(23)
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/12/29902/00220023.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '274269'
+  dre_path: /dr/detalhe/portaria/824-a-1988-274269
+  internal: pt:dre:274269:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/824-a-1988-274269
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/824-a-1988-274269
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-12-28T00:00:00Z'
+integrity:
+  source_sha256: fde204820aae1b66948b714e18d9699a7921dcc5ed1b475c9d1a60176326e1c0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-824-A-274269.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 824-A/88
+
+de 28 de Dezembro
+
+Não tendo sido possível, em tempo útil, aplicar o procedimento previsto no n.º 2.º da [Portaria n.º 805-E/88](https://diariodarepublica.pt/dr/detalhe/portaria/805-e-1988-204808), de 15 de Dezembro, torna-se necessário estabelecer um regime alternativo que atinja os mesmos objectivos, ou seja, não penalizar os utentes que residem em ilhas da Região Autónoma dos Açores não servidos directamente de ligações com o continente e repartir os encargos de uma tarifa comum a toda a região pelos transportadores nacional e regional.
+
+Exceptuam-se deste regime de tarifa comum os utentes que prefiram utilizar um transporte não directo para o seu destino, nos casos em que tal destino seja suficientemente servido em ligações directas.
+
+Nestes termos, após consulta prévia aos órgãos de governo próprios da Região Autónoma dos Açores:
+
+Manda o Governo, pelos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, ao abrigo do disposto no [Decreto-Lei n.º 276/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1987-419984), de 4 de Julho, e nos termos do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, na redacção dada pelos Decretos-Leis n.os [25/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621), de 15 de Fevereiro, e [29/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1984-659899), de 20 de Janeiro, o seguinte:
+
+1.º As tarifas relativas ao transporte de passageiros entre Lisboa (ou Madeira), por um lado, e pontos nos Açores não especificados na [Portaria n.º 805-E/88](https://diariodarepublica.pt/dr/detalhe/portaria/805-e-1988-204808), de 15 de Dezembro, serão idênticas às que foram estabelecidas na referida portaria para as ligações entre Lisboa (ou Madeira) e Ponta Delgada, Terceira ou Horta.
+
+2.º Caberá ao transportador que efectue o transporte entre ilhas dos Açores, incluído nos serviços a que respeitam as tarifas atrás citadas, uma receita correspondente a 74% da tarifa local aplicável à data da entrada em vigor da [Portaria n.º 805-E/88](https://diariodarepublica.pt/dr/detalhe/portaria/805-e-1988-204808), de 15 de Dezembro, cabendo ao transportador que efectue o transporte entre o continente e o ponto de entrada nos Açores o saldo remanescente das tarifas definidas na presente portaria.
+
+3.º Será aplicável ao transporte entre Lisboa e Horta, via Terceira ou Ponta Delgada, a regra de rateio definida no n.º 2.º
+
+4.º As tarifas entre Lisboa e Ponta Delgada, em ligações via Terceira ou Horta, e entre Lisboa e Terceira, em ligações via Ponta Delgada ou Horta, envolvendo o transportador que efectue serviços aéreos no interior dos Açores, serão obtidas por somatório da tarifa aplicável entre Lisboa e o ponto de entrada nos Açores e da tarifa vigente entre os pontos envolvidos nos Açores.
+
+5.º Esta portaria entra imediatamente em vigor.
+
+Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
+
+**Assinada em 27 de Dezembro de 1988.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**

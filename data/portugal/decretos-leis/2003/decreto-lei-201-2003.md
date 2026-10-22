@@ -1,0 +1,516 @@
+---
+schema_version: '1.0'
+id: pt:dre:511826:por
+title: Decreto-Lei n.º 201/2003
+short_title: null
+summary: Regula o registo informático de execuções previsto no Código de Processo Civil
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 201/2003
+official_date: null
+publication_date: '2003-09-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 209/2003, Série I-A de 2003-09-10
+  number: '209'
+  series: I
+  supplement: null
+  pages: 5928 - 5931
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/09/209a00/59285931.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2008-11-21'
+version_history:
+  file: decreto-lei-201-2003.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2003-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-09-14'
+    amending: pt:dre:538423:por
+    amending_title: Decreto-Lei n.º 53/2004
+    changes:
+    - Altera Artigo 2.º
+  - date: '2006-01-01'
+    amending: pt:dre:376234:por
+    amending_title: Lei n.º 60-A/2005
+    changes:
+    - Altera Artigo 6.º
+  - date: '2008-11-21'
+    amending: pt:dre:439815:por
+    amending_title: Decreto-Lei n.º 226/2008
+    changes:
+    - Adita Artigo 16.º-A
+    - Adita Artigo 16.º-B
+    - Adita Artigo 16.º-C
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/201/2003/p/cons/20081120/pt/html
+  oj: null
+  dre: '511826'
+  dre_path: /dr/detalhe/decreto-lei/201-2003-511826
+  internal: pt:dre:511826:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2003-511826
+  metadata_url: https://data.dre.pt/eli/dec-lei/201/2003/p/cons/20081120/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-107463625
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-107463625
+  retrieved_at: '2026-10-22T12:11:32Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: aa378f5d179fc59b8b2365adbfcf8520458a9d03469ea7bccc0154e941ae305e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:11:32Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-201-2003.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Liquidação Judicial
+- Processo Civil
+- Cofre Geral dos Tribunais
+- Comissão Nacional de Protecção de Dados
+- Definição de Competências
+- Processo Laboral
+- Dívida
+- Registo Informático de Execuções
+- Processo Especial de Falência
+- Base de Dados
+- Informatização
+- Segurança da Informação
+- Legitimidade
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Sistema de Informação
+- Cobrança de Dívidas
+- Direcção Geral da Administração da Justiça
+- Execução por Dívidas
+- Processo de Execução
+relationships:
+- type: amended_by
+  target: pt:dre:538423:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: Adita Artigo 16.º-A; Adita Artigo 16.º-B; Adita Artigo 16.º-C; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/38/2003/03/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/38/2003/03/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/233/2003/03/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/233/2003/03/17/p/dre
+article_structure:
+  article_count: 20
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:11:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 201/2003
+
+Decreto-Lei n.º 201/2003
+
+de 10 de Setembro
+
+O novo regime jurídico da acção executiva, aprovado pelo Decreto-Lei n.º 38/2003, de 8 de Março, tem como objectivo claro a simplificação e aperfeiçoamento do actual processo executivo, pondo termo a uma excessiva morosidade para a qual contribuía a forte jurisdicionalização e rigidez dos actos praticados no âmbito do mesmo.
+
+Nessa medida, com o intuito de evitar o impulso processual que venha a revelar-se improfícuo, mas sobretudo de agilizar a fase processual da penhora, conferindo-lhe maior eficácia, o novo regime do processo executivo prevê a existência de um registo informático das execuções.
+
+Pretende-se ainda, com este registo, prevenir potenciais litígios jurisdicionais através do acesso concedido à informação dele constante por parte de quem tenha uma relação contratual ou pré-contratual com o titular dos dados.
+
+Cabe, aliás, referir que a informação constante deste registo informático já é, na sua totalidade, de acesso público, constando dos processos judiciais pendentes em tribunal.
+
+Com essas finalidades, esse registo informático disponibilizará todas as informações necessárias à realização da penhora, nomeadamente um rol dos processos de execução pendentes contra o executado, bem como informação sobre os bens já penhorados no património do mesmo e ainda um elenco das acções instauradas contra o exequente que foram declaradas findas ou suspensas.
+
+A qualidade e tratamento dos dados não foi descurada, pelo que o seu registo e actualização, bem como o registo diário dos pedidos de consulta, dos acessos ao registo informático e dos certificados emitidos, é assegurado pela secretaria. Ainda no âmbito desta matéria, foi atribuída ao titular dos dados a faculdade de requerer, a todo o tempo, a actualização ou rectificação dos dados inscritos no registo.
+
+Com o fito de proteger os dados de acessos ilegítimos, estabelece-se que apenas poderão proceder à consulta do registo informático de execuções determinadas categorias de pessoas: os magistrados judiciais ou do Ministério Público, as pessoas capazes de exercer o mandato judicial ou os solicitadores de execução, quando munidos de título executivo, o mandatário constituído ou o agente de execução nomeado, o próprio titular dos dados e ainda qualquer pessoa que tenha uma relação contratual ou pré-contratual com o executado, neste último caso mediante autorização judicial e verificados determinados requisitos legais.
+
+Ponderados a natureza dos dados inscritos no registo e os objectivos da reforma, as únicas entidades com acesso directo ao registo são os magistrados judiciais ou do Ministério Público; nas restantes situações, a consulta do registo de execuções depende de pedido formulado em requerimento cujo modelo consta de portaria do Ministro da Justiça.
+
+Ainda em obediência a objectivos de garantia da segurança da informação contida no registo de execuções, foram adoptadas medidas legislativas adequadas a proteger os dados pessoais, cabendo ao director-geral da Administração da Justiça velar pela utilização das medidas eficazes à prossecução desse propósito.
+
+Com este diploma dá-se, assim, cumprimento ao disposto no n.º 4 do artigo 807.º do Código de Processo Civil, na redacção que lhe foi conferida pelo Decreto-Lei n.º 38/2003, de 8 de Março.
+
+Nos termos do n.º 2 do artigo 22.º da Lei n.º 67/98, de 26 de Outubro, foi ouvida a Comissão Nacional de Protecção de Dados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e finalidade do registo
+
+1 - O registo informático de execuções contém o rol das execuções cíveis, dos processos laborais de execução e dos processos especiais de insolvência e recuperação de empresas.
+
+2 - O registo informático tem como finalidade a criação de mecanismos expeditos para conferir eficácia à penhora e à liquidação de bens.
+
+3 - O registo informático tem ainda como finalidade a prevenção de eventuais conflitos jurisdicionais resultantes de incumprimento contratual.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+###### Artigo 2.º — Dados do registo
+
+1 - O registo informático de execuções contém o rol das execuções pendentes e, relativamente a cada uma delas, a seguinte informação:
+
+a) Identificação da execução;
+
+b) Identificação do agente de execução, através de nome, domicílio profissional, números de cédula profissional e de identificação fiscal, ou do oficial de justiça, através de nome e número mecanográfico;
+
+c) Identificação das partes, nos termos da alínea a) do n.º 1 do artigo 467.º do Código de Processo Civil, incluindo ainda, sempre que possível, o número de identificação de pessoa colectiva, a filiação, o número de identificação fiscal, o número de bilhete de identidade ou, na impossibilidade atendível da sua apresentação, os números de passaporte ou de licença de condução;
+
+d) Pedido, indicando o fim e o montante, a coisa ou a prestação, consoante os casos;
+
+e) Bens indicados para penhora;
+
+f) Bens penhorados, com indicação da data e hora da penhora e da adjudicação ou venda;
+
+g) Identificação dos créditos reclamados, através do seu titular e montante do crédito.
+
+h) Indicação da realização de citação edital.
+
+2 - Do mesmo registo consta também o rol das execuções findas ou suspensas, mencionando-se, além dos elementos referidos no número anterior:
+
+a) A extinção com pagamento integral;
+
+b) A extinção com pagamento parcial;
+
+c) A extinção da execução por não terem sido encontrados bens penhoráveis, nos termos do disposto no n.º 3 do artigo 832.º e no n.º 6 do artigo 833.º-B do Código de Processo Civil.
+
+3 - Na sequência de despacho judicial, procede-se ainda à introdução dos seguintes dados:
+
+a) A declaração de insolvência e a nomeação de um administrador da insolvência, bem como o encerramento do processo especial de insolvência;
+
+b) O arquivamento do processo executivo de trabalho, por não se terem encontrado bens para penhora.
+
+4 - Os dados previstos no número anterior são acompanhados da identificação do processo e da informação referida na alínea c) do n.º 1.
+
+5 - Não havendo indicação do número de identificação fiscal do titular dos dados ou, em alternativa, do número de identificação civil, passaporte ou licença de condução, deve o agente de execução promover as diligências necessárias à obtenção destes elementos, designadamente mediante consulta das bases de dados, arquivos e outros registos, nos termos previstos no artigo 833.º-A do Código de Processo Civil.
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), em vigor a partir de 2004-09-14
+
+###### Artigo 3.º — Momento da inscrição
+
+O agente de execução inscreve a execução no registo informático após a consulta prévia efectuada nos termos do artigo 832.º do Código de Processo Civil.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+###### Artigo 4.º — Modo de recolha e actualização
+
+1 - Os dados do registo informático de execuções são inscritos e actualizados pelo agente de execução a partir dos elementos de que disponha.
+
+2 - Os dados constantes dos n.os 1 e 2 do artigo 2.º são introduzidos no prazo de dois dias úteis após a sua
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+###### Artigo 5.º — Actualização, rectificação e eliminação dos dados
+
+1 - A actualização ou rectificação dos dados inscritos no registo informático de execuções pode ser requerida pelo respectivo titular, a todo o tempo, junto da secretaria do tribunal materialmente competente.
+
+2 - A extinção da execução por procedência da oposição à execução ou por qualquer outro facto, com excepção dos previstos nas alíneas b) e c) do n.º 2 do artigo 2.º, determina a eliminação oficiosa do registo da execução.
+
+3 - O registo da execução finda com pagamento integral é igualmente eliminado oficiosamente, uma vez determinada ou verificada a extinção da execução.
+
+4 - A menção de execução finda com pagamento parcial ou de execução extinta, nos termos das alíneas b) e c) do n.º 2 do artigo 2.º, é eliminada a requerimento do devedor logo que este prove o cumprimento da obrigação.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+###### Artigo 6.º — Legitimidade para consultar o registo informático
+
+1 - A consulta do registo informático de execuções pode ser efectuada:
+
+a) Por magistrado judicial ou do Ministério Público;
+
+b) Por pessoa capaz de exercer o mandato judicial ou agente de execução;
+
+c) (Revogada.)
+
+d) Pelo titular dos dados;
+
+e) Por quem tenha relação contratual ou pré-contratual com o titular dos dados ou revele outro interesse atendível na consulta, mediante consentimento do titular ou autorização dada por entidade judicial.
+
+2 - Para efeitos da alínea e) do número anterior, considera-se existir interesse atendível quando a consulta do registo informático de execuções se destine à obtenção de certificado para demonstração da natureza incobrável de créditos resultantes de incumprimento contratual.
+
+3 - Para efeitos da alínea e) do número anterior, considera-se existir interesse atendível quando a consulta do registo informático de execuções se destine à obtenção de certificado para demonstração da natureza incobrável de créditos resultantes de incumprimento contratual.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+###### Artigo 7.º — Competência para deferir a consulta
+
+1 - O pedido de consulta é dirigido a qualquer tribunal cível.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+###### Artigo 8.º — Formas de acesso
+
+1 - A consulta do registo de execuções pode ser feito pelas formas seguintes:
+
+a) Certificado passado pela secretaria do tribunal;
+
+b) Acesso directo.
+
+2 - O certificado deve transcrever integralmente todos os dados que o registo de execuções contém relativamente ao titular de dados.
+
+3 - O certificado é passado no prazo máximo de três dias úteis a contar da data em que foi requerido.
+
+4 - A passagem do certificado pode ser requerida com urgência, quando se alegue fundamento razoável, sendo o mesmo passado com preferência sobre o restante serviço, dentro do prazo máximo de vinte e quatro horas.
+
+5 - Pela passagem do certificado é devida a quantia de um quarto de unidade de conta, que reverte, na sua totalidade, para o Instituto de Gestão Financeira e de Infra-Estruturas das Justiça, I. P.
+
+6 - (Revogado.)
+
+7 - No caso de a passagem do certificado ser requerida com urgência, a quantia referida no número anterior é elevada ao dobro.
+
+8 - (Revogado.)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+###### Artigo 9.º — Consulta por acesso directo
+
+1 - Os magistrados judiciais e do Ministério Público, as pessoas capazes de exercer o mandato judicial e os agentes de execução têm acesso directo ao registo informático, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+2 - As pesquisas ou as tentativas de pesquisa directa de informação ficam registadas automaticamente por período nunca inferior a um ano.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2008-11-21
+
+###### Artigo 10.º — Consulta sem necessidade de autorização judicial
+
+1 - O pedido de consulta pelo titular dos dados ou por quem tenha autorização do titular dos dados é dirigido à secretaria do tribunal competente.
+
+2 - O requerimento é formulado em modelo aprovado por portaria do Ministro da Justiça.
+
+3 - A utilização do modelo para requerimento de certificado pode ser dispensada, em condições a fixar por despacho do director-geral da Administração da Justiça, quando o pedido é feito presencialmente nas secretarias judiciais.
+
+4 - O requerimento é acompanhado de comprovativo do pagamento da quantia referida nos n.os 6 e 7 do artigo 8.º ou da estampilha aprovada pela Portaria n.º 233/2003, de 17 de Março, de igual valor.
+
+5 - (Revogado.)
+
+6 - O requerimento é assinado pelo requerente e contém a sua identificação bem como a indicação do titular dos dados a que respeita.
+
+7 - A identificação do requerente é feita pelo nome, estado e residência sendo confirmada:
+
+a) Pela exibição do bilhete de identidade ou de outro documento de identificação idóneo;
+
+b) Pelo reconhecimento da assinatura ou pela aposição de assinatura electrónica.
+
+8 - A passagem do certificado deve ser rejeitada se o requerente não tiver legitimidade ou não respeitar o disposto nos n.os 2 a 4, sendo o requerimento devolvido com decisão fundamentada do oficial de justiça.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+###### Artigo 11.º — Consulta com autorização do tribunal
+
+1 - Nos casos referidos na alínea e) do n.º 1 do artigo 6.º, em que não haja autorização do titular dos dados, o requerimento de autorização para consulta do registo informático de execuções é dirigido ao juiz do tribunal competente, em modelo aprovado nos termos do n.º 2 do artigo anterior.
+
+2 - No requerimento deve o requerente:
+
+a) Designar o tribunal;
+
+b) Identificar-se, indicando o seu nome, residência e, sempre que possível, filiação, número de bilhete de identidade e identificação fiscal;
+
+c) Identificar o titular dos dados a consultar, indicando os elementos de identificação referidos na alínea anterior;
+
+d) Expor os factos e as razões que servem de fundamento ao pedido.
+
+3 - O requerente deve ainda juntar comprovativo do pagamento da quantia referida nos n.os 6 e 7 do artigo 8.º ou estampilha, aprovada pela Portaria n.º 233/2003, de 17 de Março, de igual valor.
+
+4 - A secretaria recusa o recebimento do requerimento, indicando por escrito o fundamento da rejeição, quando o requerente não cumpra o disposto nos números anteriores.
+
+5 - Do acto de recusa de recebimento cabe reclamação para o juiz, não havendo recurso do despacho que confirme o não recebimento.
+
+6 - Recebido o requerimento, o juiz, no prazo de 10 dias, profere despacho fundamentado destinado a:
+
+a) Recusar a consulta do registo informático;
+
+b) Autorizar a consulta do registo informático, ordenando a secretaria a passar o respectivo certificado.
+
+7 - Não cabe recurso dos despachos referidos no número anterior.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+###### Artigo 12.º — Registo diário de acessos
+
+1 - A secretaria assegura o registo diário dos pedidos de consulta, dos acessos ao registo informático de execuções e dos certificados emitidos, nos termos do disposto nos números seguintes, com o fim de evitar o acesso não autorizado aos dados pessoais recolhidos e de garantir o respectivo controlo administrativo.
+
+2 - Feito o requerimento de consulta do registo de execuções, deve ser lançada a respectiva anotação no registo diário, que deve conter os seguintes elementos:
+
+a) A data da entrada do requerimento;
+
+b) O nome do requerente ou o seu cargo, quando se trate de entidade oficial que nessa qualidade assine o requerimento;
+
+c) O nome e número de identificação fiscal do titular dos dados de que se pretende obter informação.
+
+3 - O registo diário deve permitir ainda a identificação dos utilizadores do registo informático de execuções, a data e a hora dos respectivos acessos, bem como uma relação discriminada dos certificados emitidos.
+
+4 - Apenas os funcionários da secretaria poderão consultar o registo diário, de harmonia com as indicações dadas pelos interessados.
+
+5 - Aos dados constantes do registo diário de acessos aplica-se, com as devidas adaptações, o disposto no n.º 1 do artigo 5.º e no artigo seguinte.
+
+###### Artigo 13.º — Conservação dos dados
+
+Sem prejuízo do previsto no artigo 5.º relativamente à eliminação de determinados dados, os dados constantes do registo informático de execuções são conservados em registo até 10 anos após a extinção da execução.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+###### Artigo 14.º — Consulta para fins de investigação criminal ou estatística
+
+1 - Os dados registados na base de dados podem ser consultados, pelas entidades competentes, para efeitos de investigação criminal ou de instrução em processos judiciais, sempre que os dados não possam ou não devam ser obtidos através das entidades a quem respeitam.
+
+2 - A informação contida nos dados pode ser divulgada para fins de estatística, desde que não possam ser identificáveis as pessoas a quem respeitam.
+
+###### Artigo 15.º — Segurança dos dados
+
+1 - São objecto de controlo, tendo em vista a segurança da informação:
+
+a) Os suportes de dados, a fim de impedir que possam ser lidos, copiados, alterados ou eliminados por qualquer pessoa ou por qualquer forma não autorizada;
+
+b) A inserção de dados, a fim de impedir a introdução, bem como qualquer tomada de conhecimento, transmissão, alteração ou eliminação não autorizada de dados pessoais;
+
+c) O acesso aos dados de modo que as pessoas autorizadas só possam ter acesso aos dados que interessem ao exercício dos seus interesses reconhecidos por lei;
+
+d) A transmissão de dados, para garantir que a sua utilização seja limitada às entidades autorizadas;
+
+e) A introdução de dados, de forma a verificar-se quando e por quem foram introduzidos.
+
+2 - Compete ao director-geral da Administração da Justiça garantir o respeito pelo disposto no número anterior, nomeadamente através da implementação de sistemas de acesso mediante palavras-passe, medidas de restrição de acessos aos equipamentos e aplicações, bem como auditorias para verificação dos acessos ao registo informático de execuções, a realizar através dos mecanismos previstos no artigo 12.º
+
+###### Artigo 16.º — Regime transitório
+
+No que respeita às acções entradas antes de 15 de Setembro de 2003, são desde já inscritos no registo informático das execuções os dados actualmente sujeitos a tratamento informático, sendo a inscrição dos restantes efectuada no prazo máximo de um ano a contar da entrada em vigor deste diploma.
+
+###### Artigo 16.º-A — Objecto, finalidades e entidade responsável pela lista pública de execuções
+
+1 - A lista de execuções extintas com pagamento parcial ou por não terem sido encontrados bens penhoráveis, previstas nas alíneas b) e c) do n.º 2 do artigo 2.º, consta de sítio da Internet de acesso público, em termos a regular por portaria do membro do Governo responsável pela área da justiça.
+
+2 - O executado é informado da inclusão do seu nome na lista pública de execuções nos termos da portaria referida no número anterior, que especifica o modo de notificação ao executado, bem como um prazo em que este, de modo a evitar a inclusão do seu nome na lista pública de execuções, pode:
+
+a) Promover o cumprimento da obrigação; ou
+
+b) Aderir a um plano de pagamento de dívidas nos termos do n.º 2 do artigo 16.º-C.
+
+3 - A lista pública das execuções tem as seguintes finalidades:
+
+a) Conferir eficácia à penhora e liquidação de bens;
+
+b) Prevenir eventuais conflitos jurisdicionais resultantes do incumprimento contratual; e
+
+c) Promover o cumprimento pontual das obrigações.
+
+4 - A Direcção-Geral da Administração da Justiça é a entidade responsável pelo tratamento dos dados constantes da lista pública de execuções.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2008-11-21
+
+###### Artigo 16.º-B — Actualização e rectificação de registos na lista pública de execuções
+
+1 - A lista identifica, relativamente a cada execução:
+
+a) O nome do executado;
+
+b) O número de identificação fiscal ou, em alternativa, os números de identificação civil, de passaporte ou de licença de condução;
+
+c) O valor em dívida;
+
+d) O facto que determinou a extinção da execução.
+
+2 - A actualização ou rectificação dos dados inscritos na lista de execuções pode ser efectuada oficiosamente pela secretaria ou requerida pelo respectivo titular nos termos previstos no artigo 5.º, bem como por via electrónica no sítio da Internet de onde conste.
+
+3 - A decisão do requerimento referido no número anterior tem natureza urgente e é adoptada pela secretaria no prazo máximo de dois dias úteis.
+
+4 - Caso a decisão prevista no número anterior não seja adoptada no prazo previsto, os dados do requerente, identificados na lista, são automática e electronicamente dela retirados até que haja decisão.
+
+5 - A ausência de decisão no prazo previsto no n.º 4 é comunicada ao Conselho Superior da Magistratura e ao Conselho dos Oficiais de Justiça, por via electrónica, em termos a regular por portaria do membro do Governo responsável pela área da justiça.
+
+6 - Da decisão da secretaria cabe impugnação para o juiz.
+
+7 - As decisões previstas nos números anteriores são, igualmente, e sempre que possível, notificadas por via electrónica, nos termos de portaria do membro do Governo responsável pela área da justiça.
+
+8 - Havendo lugar a rectificação, o interessado tem o direito, mediante solicitação, que os dados incorrectos constantes da lista de execuções extintas sejam substituídos pelo reconhecimento, expresso e com igual relevo, de se ter verificado a incorrecção.
+
+9 - O cumprimento da obrigação pelo devedor determina a exclusão da lista, aplicando-se o disposto no n.º 3 do artigo 5.º
+
+10 - À lista pública de execuções aplica-se, com as necessárias adaptações, o disposto no artigo 14.º e nas alíneas a), b) e e) do n.º 1 e no n.º 2 do artigo 15.º
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2008-11-21
+
+###### Artigo 16.º-C — Eliminação e suspensão dos registos da lista pública de execuções
+
+1 - Todos os registos constantes da lista pública de execuções referentes a processos executivos findos há mais de cinco anos são oficiosamente retirados.
+
+2 - Os registos referentes a execuções contra executados sobreendividados que adiram e cumpram um plano de pagamento de dívida elaborado por entidades reconhecidas pelo Ministério da Justiça, que prestem apoio a situações de sobreendividamento, podem ser suspensos durante o cumprimento do referido plano, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2008-11-21
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 15 de Setembro de 2003.
+
+Visto e aprovado em Conselho de Ministros de 31 de Julho de 2003. - José Manuel Durão Barroso - João Luís Mota de Campos.
+
+Promulgado em 2 de Setembro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 3 de Setembro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

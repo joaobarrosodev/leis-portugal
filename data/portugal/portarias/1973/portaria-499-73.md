@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:421833:por
+title: Portaria n.º 499/73
+short_title: null
+summary: Constitui messes de oficiais da Força Aérea em várias localidades de Moçambique
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho e Ministério do Ultramar
+proposing_entity: null
+official_number: 499/73
+official_date: null
+publication_date: '1973-07-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 172/1973, Série I de 1973-07-24
+  number: '172'
+  series: I
+  supplement: null
+  pages: 1300 - 1301
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/07/17200/13001301.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421833'
+  dre_path: /dr/detalhe/portaria/499-1973-421833
+  internal: pt:dre:421833:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/499-1973-421833
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/499-1973-421833
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1973-07-24T00:00:00Z'
+integrity:
+  source_sha256: 2ec9576effd709f2fdbd469e201b4ecbfd88b477febe00a6f92e3e5fb688b398
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-499-421833.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 499/73
+
+de 24 de Julho
+
+Convindo reunir num único diploma as Portarias n.os 19136, de 20 de Abril de 1962, e 19356, de 18 de Agosto de 1962, que constituíram messes de oficiais e de sargentos em Lourenço Marques, Beira, Nacala, Nova Freixo e Tete;
+
+Havendo necessidade de constituir em Nampula messes da mesma natureza:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar e pelo Secretário de Estado da Aeronáutica, que se observe o seguinte:
+
+1.º - 1. São constituídas messes de oficiais da Força Aérea em Lourenço Marques, Beira, Nacala, Nova Freixo, Tete e Nampula.
+
+2. As messes referidas são colocadas na dependência directa da delegação da Direcção do Serviço de Intendência e Contabilidade da 3.ª Região Aérea e destinam-se a fornecer alimentação e alojamento a oficiais e suas famílias, nas condições adiante indicadas por ordem de prioridade, entendendo-se que a designação «oficiais» engloba não só os oficiais dos quadros permanentes, como os de complemento e ainda os equiparados a oficiais:
+
+a) Oficiais, com direito a alimentação e alojamento por conta do Estado, e suas famílias, em trânsito;
+
+b) Oficiais, com direito a habitação por conta do Estado, e suas famílias, enquanto não lhes puder ser distribuída habitação;
+
+c) Oficiais, sem direito a habitação por conta do Estado, que não disponham de alojamento nas unidades a que pertencem;
+
+d) Oficiais, sem direito a habitação por conta do Estado, e suas famílias;
+
+e) Oficiais, sem direito a habitação e alojamento por conta do Estado, e suas famílias, em trânsito.
+
+2.º - 1. São constituídas messes de sargentos da Força Aérea em Lourenço Marques, Beira, Nacala, Nova Freixo, Tete e Nampula.
+
+2. As messes referidas são colocadas na dependência directa da delegação da Direcção do Serviço de Intendência e Contabilidade da 3.ª Região Aérea e destinam-se a fornecer alimentação e alojamento a sargentos e suas famílias, nas condições adiante indicadas por ordem de prioridade, entendendo-se que a designação «sargentos» engloba não só os sargentos dos quadros permanentes, como os de complemento e ainda os equiparados a sargentos:
+
+a) Sargentos, com direito a alimentação e alojamento por conta do Estado, e suas famílias, em trânsito;
+
+b) Sargentos, com direito a habitação por conta do Estado, e suas famílias, enquanto não lhes puder ser distribuída habitação;
+
+c) Sargentos, sem direito a habitação por conta do Estado, que não disponham de alojamento nas unidades a que pertencem;
+
+d) Sargentos, sem direito a habitação por conta do Estado, e suas famílias;
+
+e) Sargentos, sem direito a alimentação e alojamento por conta do Estado, e suas famílias, em trânsito.
+
+3.º O funcionamento das messes mencionadas nos números anteriores será regulado por despacho do Secretário de Estado da Aeronáutica.
+
+4.º - 1. O pessoal destinado às messes de que trata esta portaria o constante dos quadros anexos, sendo a sua distribuição feita por despacho do comandante da 3.ª Região Aérea.
+
+2. Em cada localidade o gerente da messe de oficiais é, também, o gerente da messe de sargentos.
+
+5.º Ficam revogadas as Portarias n.os 19136, de 20 de Abril de 1962, e 19356, de 18 de Agosto de 1962.
+
+Presidência do Conselho e Ministério do Ultramar, 6 de Julho de 1973. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.
+
+Para ser publicada no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.
+
+Quadros anexos à Portaria n.º 499/73, de 24 de Julho
+
+Messes de oficiais e messes de sargentos da Força Aérea
+
+A) Oficiais e oficiais milicianos
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/17200/13001301.pdf))](https://files.diariodarepublica.pt/1s/1973/07/17200/13001301.pdf)
+
+B) Pessoal civil contratado
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/17200/13001301.pdf))](https://files.diariodarepublica.pt/1s/1973/07/17200/13001301.pdf)
+
+**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.**

@@ -1,0 +1,89 @@
+---
+schema_version: '1.0'
+id: pt:dre:426882:por
+title: Portaria n.º 321/76
+short_title: null
+summary: Manda aumentar ao efectivo dos navios da Armada, a partir de 7 de Maio de 1976, a embarcação Vega
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Armada
+proposing_entity: null
+official_number: 321/76
+official_date: null
+publication_date: '1976-05-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/1976, Série I de 1976-05-27
+  number: '124'
+  series: I
+  supplement: null
+  pages: 1196 - 1196
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12400/11961196.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '426882'
+  dre_path: /dr/detalhe/portaria/321-1976-426882
+  internal: pt:dre:426882:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/321-1976-426882
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/321-1976-426882
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-05-27T00:00:00Z'
+integrity:
+  source_sha256: 3c83967f58b9d54e2da81898c281cf3111c58d4bca11fa60ed3cb70790a4a447
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-321-426882.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 321/76
+
+de 27 de Maio
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, aumentar ao efectivo dos navios da Armada, a partir de 7 de Maio de 1976, a embarcação Vega.
+
+Estado-Maior da Armada, 7 de Maio de 1976. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz.

@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:507805:por
+title: Portaria n.º 64/91
+short_title: null
+summary: Revoga a Portaria n.º 1041/89, de 2 de Dezembro, que estabelece os preços e condições de venda das publicações da
+  Direcção-Geral de Concorrência e Preços
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 64/91
+official_date: null
+publication_date: '1991-01-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1991, Série I-B de 1991-01-24
+  number: '20'
+  series: I
+  supplement: null
+  pages: 426 - 426
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/01/020b00/04260426.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/64/1991/01/24/p/dre/pt/html
+  oj: null
+  dre: '507805'
+  dre_path: /dr/detalhe/portaria/64-1991-507805
+  internal: pt:dre:507805:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-1991-507805
+  metadata_url: https://data.dre.pt/eli/port/64/1991/01/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-1991-507805
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-01-24T00:00:00Z'
+integrity:
+  source_sha256: 90ec52c51821861c8b0cc2d3ddf7007350d517f97b74fd2a0e6ac89f1c630f24
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-64-507805.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral da Concorrência e Preços
+- Venda de Públicações
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 64/91
+
+de 24 de Janeiro
+
+O [Decreto-Lei n.º 432/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/432-1985-178105), de 23 de Outubro, autorizou a Direcção-Geral de Concorrência e Preços a editar publicações inerentes ao exercício das suas competências e a efectuar as respectivas vendas pelos preços e condições estabelecidos em portaria do Ministro do Comércio e Turismo. Em cumprimento desta determinação foi publicada a [Portaria n.º 1041/89](https://diariodarepublica.pt/dr/detalhe/portaria/1041-1989-550805), de 2 de Dezembro.
+
+Todavia, com a entrada em vigor do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, que expressamente atribui aos directores-gerais competência própria para, na área de gestão orçamental e realização de despesas, autorizar a prestação de serviços e a venda de produtos próprios, fixando os respectivos preços, a [Portaria n.º 1041/89](https://diariodarepublica.pt/dr/detalhe/portaria/1041-1989-550805) tornou-se desnecessária.
+
+Nestes termos:
+
+Manda o Governo, pelo Ministro do Comércio e Turismo, o seguinte:
+
+1.º É revogada a [Portaria n.º 1041/89](https://diariodarepublica.pt/dr/detalhe/portaria/1041-1989-550805), de 2 de Dezembro.
+
+2.º Esta portaria entra imediatamente em vigor.
+
+Ministério do Comércio e Turismo.
+
+**Assinada em 2 de Janeiro de 1991.**
+
+Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.

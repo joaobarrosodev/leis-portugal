@@ -1,0 +1,787 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:73807563:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-122826434",
+ "dre_path": "/dr/detalhe/decreto-lei/16-2016-73807563",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-03-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122826824",
+    "122826825",
+    "122826826",
+    "122826827",
+    "122826828",
+    "122826829",
+    "122826830",
+    "122826831",
+    "122826832",
+    "122826833",
+    "122826834",
+    "122826835",
+    "122826836",
+    "122826837",
+    "122826838",
+    "122826839",
+    "122826840",
+    "122826841",
+    "122826842"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "122826824",
+    "122826825",
+    "122826826",
+    "122826827",
+    "122826828",
+    "122826829",
+    "122826830",
+    "122826831",
+    "122826832",
+    "122826833",
+    "122826834",
+    "122826835",
+    "122826836",
+    "122826837",
+    "122826838",
+    "122826844",
+    "122826840",
+    "122826841",
+    "122826842",
+    "122826843"
+   ]
+  },
+  {
+   "date": "2021-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176800372:por",
+     "title": "Decreto-Lei n.º 123/2021",
+     "published": "2021-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/123-2021-176800372"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Adita Artigo 4.º-C",
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 12.º-B",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "122826824",
+    "122826825",
+    "122826826",
+    "176884829",
+    "176884838",
+    "176830365",
+    "176884781",
+    "176884797",
+    "176884830",
+    "176884839",
+    "176884800",
+    "176884831",
+    "176884832",
+    "176884833",
+    "176884834",
+    "176884840",
+    "176884813",
+    "176884821",
+    "176884822",
+    "176884835",
+    "176884836",
+    "176884825",
+    "176884837",
+    "176884827",
+    "176884828"
+   ]
+  },
+  {
+   "date": "2023-08-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220172308:por",
+     "title": "Decreto-Lei n.º 71/2023",
+     "published": "2023-08-22",
+     "dre_path": "/dr/detalhe/decreto-lei/71-2023-220172308"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º-A",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º-A",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "122826824",
+    "122826825",
+    "122826826",
+    "176884829",
+    "176884838",
+    "220212286",
+    "176884781",
+    "176884797",
+    "176884830",
+    "176884839",
+    "176884800",
+    "176884831",
+    "220212287",
+    "176884833",
+    "176884834",
+    "176884840",
+    "220212290",
+    "176884821",
+    "220212288",
+    "220212289",
+    "176884836",
+    "176884825",
+    "176884837",
+    "176884827",
+    "176884828"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901661921:por",
+     "title": "Decreto-Lei n.º 122/2024",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/122-2024-901661921"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º-C",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º-A",
+    "Altera Artigo 16.º",
+    "Revoga Artigo 12.º-B",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "122826824",
+    "122826825",
+    "122826826",
+    "901966268",
+    "176884838",
+    "220212286",
+    "176884781",
+    "901900215",
+    "176884830",
+    "176884839",
+    "901966269",
+    "901900216",
+    "901900217",
+    "901900218",
+    "901900219",
+    "176884840",
+    "901900220",
+    "901966270",
+    "901966271",
+    "220212289",
+    "176884836",
+    "901900221",
+    "176884837",
+    "176884827",
+    "176884828"
+   ]
+  }
+ ],
+ "fragments": {
+  "122826824": {
+   "fragment_id": "122826435",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 16/2016\n\nde 9 de março\n\nO Programa do XXI Governo Constitucional definiu o Mar como uma das suas prioridades e atribuiu à Ministra do Mar a responsabilidade pela implementação de uma estratégia transversal que materialize esse desígnio nacional.\n\nA aposta no desenvolvimento da economia do mar, na investigação científica e na proteção e monitorização do meio marinho são objetivos centrais da política do mar.\n\nNo quadro da economia do mar, incluem-se as atividades económicas tradicionais, as atividades emergentes que acrescentam elevada incorporação científica e tecnológica, bem como os sistemas portuário e logístico nacionais e o transporte marítimo e de cruzeiros.\n\nAssume, neste contexto, uma particular importância a criação de um mecanismo de incentivo financeiro ao arranque de muitas das atividades ligadas à economia do mar, à proteção do património natural, incluindo a gestão do risco associado aos novos usos do mar, a investigação científica e a investigação e desenvolvimento empresarial. Estas atividades necessitam de investimentos iniciais avultados, pelo que se considera oportuno e fundamental a criação de um fundo dedicado à sua promoção, conciliando o investimento público, o capital de risco e as contribuições associadas às novas atividades a licenciar, bem como prevendo mecanismos de articulação com outros fundos, públicos ou privados, nacionais ou estrangeiros.\n\nO presente decreto-lei vem assim criar este fundo, com a designação Fundo Azul, que se articula com outros fundos nacionais existentes e que já têm hoje objetivos e fontes de financiamento que se relacionam com atividades no domínio do mar. Desta forma, impõe-se a realocação mais eficiente de recursos financeiros existentes, por forma a canalizar para o Fundo Azul a generalidade dos incentivos financeiros subjacentes à prossecução dos seus fins. Pretende-se que, por esta via, se contribua para a racionalização de todos estes fundos, maximizando a sua utilização.\n\nO presente decreto-lei vem, assim, realocar para o Fundo Azul as verbas relativas à componente «mar», constantes do Fundo Português do Carbono, do Fundo para a Conservação da Natureza e da Biodiversidade, do Fundo Sanitário e de Segurança Alimentar Mais e do Fundo para a Sustentabilidade Sistémica do Setor Energético. A citada componente «mar» diz respeito, em particular, às matérias de ecossistemas, captação e sequestração geológica de CO(índice 2), sumidouros de carbono, eficiência energética, energias renováveis, novas tecnologias e utilização de águas sujeitas a planeamento e gestão públicos. A estas matérias acrescem ainda as do domínio público hídrico do Estado, relativamente à piscicultura, aquacultura, marinhas/salinas, produção de energia elétrica e piscicultura com equipamentos localizados no mar, equipamentos de apoio à pesca tradicional, de proteção e segurança alimentar no âmbito das pescas e a eficiência energética no transporte marítimo e no setor das pescas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122826825": {
+   "fragment_id": "122826436",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei cria o Fundo Azul, doravante designado por Fundo."
+  },
+  "122826826": {
+   "fragment_id": "122826437",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza jurídica\n\nO Fundo tem a natureza de património autónomo e goza de autonomia administrativa, financeira e patrimonial, sendo dotado de personalidade judiciária."
+  },
+  "122826827": {
+   "fragment_id": "122826438",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Finalidade e objetivos\n\n1 - O Fundo tem por finalidade o desenvolvimento da economia do mar, a investigação científica e tecnológica, a proteção e monitorização do meio marinho e a segurança marítima, através da criação ou do reforço de mecanismos de financiamento de entidades, atividades ou projetos que cumpram os seguintes objetivos:\n\na) No âmbito do financiamento ao desenvolvimento da economia do mar:\n\ni) Apoio a start-ups tecnológicas da nova economia do mar;\n\nii) Apoio às atividades económicas ligadas ao mar, designadamente no âmbito dos auxílios à formação, ao acesso das pequenas e médias empresas ao financiamento, à investigação, desenvolvimento, e inovação;\n\niii) Dinamização de instrumentos de reforço ou de financiamento de capital próprio ou de capital alheio e de partilha de risco;\n\niv) Ações para proteção e desenvolvimento da segurança alimentar e alimentação escolar;\n\nv) Apoio à promoção das energias renováveis;\n\nb) No âmbito do financiamento à investigação científica e tecnológica do mar:\n\ni) Novas linhas de investigação científica e tecnológica aplicadas às prioridades das políticas públicas para o mar;\n\nii) Desenvolvimento tecnológico para a economia do mar e da biotecnologia;\n\niii) Transferência de conhecimento na área das políticas públicas e economia do mar;\n\niv) Investigação aplicada, em parceria com a indústria;\n\nv) Atualização nas áreas da investigação e do desenvolvimento tecnológico para a economia do mar;\n\nc) No âmbito de financiamento da monitorização e proteção do ambiente marinho:\n\ni) Garantir o bom estado ambiental do domínio público marítimo;\n\nii) Prevenção e combate à poluição do meio marinho;\n\niii) Proteção ou recuperação de ecossistemas e biodiversidade marinha;\n\niv) Resposta a situações de emergência de salvaguarda dos interesses nacionais marítimos;\n\nv) Consciencialização social sobre a importância do mar;\n\nd) No âmbito da segurança marítima, salvaguardar a vida humana no mar."
+  },
+  "122826828": {
+   "fragment_id": "122826439",
+   "type": 11,
+   "heading": "Artigo 4.º — Mecanismos de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Mecanismos de financiamento\n\n1 - A prossecução dos objetivos do Fundo concretiza-se através dos seguintes mecanismos de financiamento:\n\na) No âmbito do desenvolvimento da economia do mar, através de instrumentos de financiamento de capital próprio:\n\ni) Subscrição de títulos emitidos por fundos de capital de risco, fundos especiais de investimento e outros instrumentos de financiamento a intermediários de capital de risco;\n\nii) Financiamento a investidores para atividades na fase «pré-semente» ou «semente» convertíveis em capital de risco em caso de sucesso;\n\niii) Subscrição de títulos emitidos por fundos de sindicação de capital de risco, criados ao abrigo do Decreto-Lei n.º 187/2002, de 21 de agosto, alterado e republicado pelo Decreto-Lei n.º 74/2015, de 11 de maio;\n\niv) Subscrição de títulos emitidos por fundos de participação em outros fundos de capital de risco, designadamente os criados e dinamizados pelo fundo europeu estrutural e de investimento;\n\nb) No âmbito do desenvolvimento da economia do mar, através de instrumentos de financiamento de capital alheio:\n\ni) Pelo reforço de linhas de crédito especiais, nomeadamente, com mecanismos de garantia e de bonificação parcial dos juros e outros encargos;\n\nii) Pela participação em mecanismos de prestação de garantias de financiamento;\n\niii) Pela participação em instrumentos convertíveis de capital e dívida;\n\nc) No âmbito da investigação científica e tecnológica e da monitorização e proteção do ambiente marinho, através do financiamento total ou parcial, não reembolsável, a atividades e projetos neste domínio.\n\n2 - O Fundo pode estabelecer mecanismos de articulação com outras entidades públicas ou privadas, designadamente com outros fundos públicos ou privados de direito nacional, europeu ou internacional, relacionados com o desenvolvimento da economia do mar desde que relacionados com a investigação científica e tecnológica e a proteção e monitorização do meio marinho.\n\n3 - O Fundo pode ter a qualidade de organismo intermédio, para efeitos do Decreto-Lei n.º 137/2014, de 12 de setembro."
+  },
+  "122826829": {
+   "fragment_id": "122826440",
+   "type": 11,
+   "heading": "Artigo 5.º — Reembolso e remuneração de financiamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reembolso e remuneração de financiamentos\n\n1 - Os financiamentos atribuídos pelo Fundo no domínio do desenvolvimento da economia do mar são objeto de reembolso e podem ser objeto de remuneração.\n\n2 - Para efeitos do disposto no número anterior, os financiamentos concedidos pelo Fundo podem ser por este recuperados através da sua participação em receitas que sejam geradas em resultado da execução dos projetos, proporcionalmente ao seu investimento.\n\n3 - As regras de reembolso e remuneração dos montantes de financiamento constam do regulamento de gestão do Fundo, devendo as condições de recuperação do investimento constar, de forma expressa, da decisão de financiamento."
+  },
+  "122826830": {
+   "fragment_id": "122826441",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamento de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamento de gestão\n\n1 - O regulamento de gestão do Fundo determina as condições em que se realizam as despesas do Fundo, o procedimento de apresentação e seleção de projetos, bem como a tipologia de apoios e beneficiários elegíveis, sendo aprovado por portaria dos membros do Governo responsáveis pelas áreas das finanças e do mar.\n\n2 - O regulamento de gestão prevê, designadamente:\n\na) A forma de disponibilização dos financiamentos aprovados e as respetivas regras de pagamento;\n\nb) Os critérios para que, na decisão de financiamento, sejam estabelecidos prazos, termos e condições do respetivo financiamento;\n\nc) As condições que determinem a restituição dos montantes financiados;\n\nd) A forma de fiscalização que assegure o cumprimento das condições que determinaram o financiamento, bem como a eficácia e a eficiência das medidas adotadas."
+  },
+  "122826831": {
+   "fragment_id": "122826442",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão financeira e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão financeira e fiscalização\n\n1 - A gestão financeira do Fundo realiza-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos.\n\n2 - Sem prejuízo da atuação do fiscal único e das competências atribuídas por lei a outros organismos, a fiscalização do fundo é assegurada pela Inspeção-Geral das Finanças (IGF)."
+  },
+  "122826832": {
+   "fragment_id": "122826443",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Receitas\n\n1 - As receitas do Fundo são asseguradas por:\n\na) Contribuições do Estado Português, através de dotação, que lhe sejam atribuídas através do Orçamento do Estado, ou de transferências de entidades do setor empresarial do Estado, designadamente pela alocação de parte do produto das taxas cobradas;\n\nb) Contribuições da União Europeia, sujeitas a orientações fixadas pelas estruturas de gestão dos respetivos programas operacionais e aos regulamentos nacionais e comunitários que subordinam os capitais colocados no fundo;\n\nc) Percentagem das receitas resultantes da cobrança da taxa de utilização do espaço marítimo, prevista na alínea a) do n.º 1 do artigo 86.º do Decreto-Lei n.º 38/2015, de 12 de março, alterado pelo Decreto-Lei n.º 139/2015, de 30 de julho, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\nd) Percentagem dos dividendos de cada administração portuária, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\ne) Percentagem das receitas destinadas aos cofres do Estado e de taxas cobradas por serviços prestados pelas Capitanias dos Portos, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças, da defesa nacional e do mar;\n\nf) Percentagem das receitas destinadas aos cofres do Estado e de taxas cobradas por serviços prestados pela Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\ng) Podem ser afetas ao Fundo, parte das receitas do Imposto sobre os Produtos Petrolíferos cobrado sobre o gasóleo colorido e marcado, a definir anualmente na Lei do Orçamento do Estado;\n\nh) Rendimentos provenientes da aplicação dos recursos do Fundo;\n\ni) Contribuições de fundos de direito privado, nacionais ou estrangeiros;\n\nj) Contribuições financeiras dos titulares da concessão, no domínio da Investigação & desenvolvimento e Inovação tecnológica da pesquisa e produção offshore de petróleo e gás, nomeadamente na segurança das operações offshore através do pagamento de uma taxa destinada ao Fundo Azul, a ser definida por portaria aprovada pelos membros do Governo responsáveis pelas áreas das finanças, da economia e do mar;\n\nk) Nos termos a definir anualmente na Lei do Orçamento do Estado, é alocada parte da receita dos seguintes fundos:\n\ni) Fundo Português de Carbono, criado pelo Decreto-Lei n.º 71/2006, de 24 de março, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, pelo Decreto-Lei n.º 29-A/2011, de 1 de março, e pelas Leis n.os 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, e 82-D/2014, de 31 de dezembro;\n\nii) Fundo para a Conservação da Natureza e da Biodiversidade, criado pelo Decreto-Lei n.º 171/2009, de 3 de agosto, alterado pelo Decreto-Lei n.º 74-A/2010, de 18 de junho;\n\niii) Fundo Sanitário e de Segurança Alimentar Mais, criado pelo Decreto-Lei n.º 119/2012, de 15 de junho;\n\niv) Fundo para a Sustentabilidade Sistémica do Setor Energético, criado pelo Decreto-Lei n.º 55/2014, de 9 de abril;\n\nl) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos, designadamente contribuições mecenáticas, doações, heranças ou legados.\n\n2 - As receitas previstas na alínea c) do número anterior são afetas à realização de despesas afetas a atividades próprias no âmbito do financiamento de investigação científica e tecnológica e do financiamento à monitorização e proteção do ambiente marinho.\n\n3 - Os resultados líquidos do Fundo são, com a aprovação anual das respetivas contas, automaticamente transferidos para resultados transitados.\n\n4 - Os saldos que venham a ser apurados no fim de cada ano económico transitam para o ano seguinte nos termos do decreto de execução orçamental em vigor."
+  },
+  "122826833": {
+   "fragment_id": "122826444",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas\n\nConstituem despesas do Fundo as resultantes dos encargos e responsabilidades decorrentes da prossecução das suas atividades, incluindo as despesas de gestão, o apoio técnico e o apoio administrativo."
+  },
+  "122826834": {
+   "fragment_id": "122826445",
+   "type": 11,
+   "heading": "Artigo 10.º — Condução estratégica do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Condução estratégica do Fundo\n\n1 - A condução estratégica do Fundo incumbe ao membro do Governo responsável pela área do mar.\n\n2 - A condução estratégica do Fundo concretiza-se através de orientações gerais e específicas, em qualquer domínio de ação do Fundo, sendo estas orientações vinculativas da atuação no quadro do respetivo regulamento de gestão do Fundo.\n\n3 - Compete, em especial, aos membros do Governo responsáveis pelas áreas das finanças e do mar:\n\na) A aprovação da política de investimentos do Fundo;\n\nb) A aprovação, sob proposta do conselho de gestão, dos planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nc) A decisão sobre as participações do Fundo superiores a determinado valor, nos termos definidos no regulamento de gestão."
+  },
+  "122826835": {
+   "fragment_id": "122826446",
+   "type": 11,
+   "heading": "Artigo 11.º — Funcionamento e gestão do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Funcionamento e gestão do Fundo\n\nO funcionamento e gestão do Fundo são atribuídos:\n\na) Ao conselho de gestão;\n\nb) Ao conselho consultivo."
+  },
+  "122826836": {
+   "fragment_id": "122826447",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conselho de gestão\n\n1 - O conselho de gestão do Fundo é composto por um presidente e dois vogais, sendo o diretor geral de política do mar, por inerência, o presidente, e os restantes vogais designados pelo membro do Governo responsável pela área do mar, de entre os dirigentes ou gestores públicos de entidades sob a sua tutela ou superintendência.\n\n2 - As funções dos membros do conselho de gestão são exercidas em regime de acumulação e não conferem o direito a qualquer acréscimo de remuneração ou regalias.\n\n3 - Ao conselho de gestão do Fundo compete:\n\na) Representar legalmente o Fundo;\n\nb) Cumprir e executar as orientações estratégicas;\n\nc) Elaborar, para aprovação dos membros do Governo responsáveis pelas áreas das finanças e do mar, os planos financeiros e orçamentos anuais, bem como as contas e os relatórios de execução;\n\nd) Propor ao membro do Governo responsável pela área do mar, no quadro das orientações por este definidas, a política de investimentos do Fundo, pronunciando-se sobre a compatibilidade de todos os investimentos com esta;\n\ne) Elaborar as propostas de regulamentos que se revelem necessários ao normal funcionamento do Fundo e que assegurem o cumprimento das regras exigidas pelas políticas públicas que asseguram a origem dos seus capitais, com vista à sua aprovação pelo membro do Governo responsável pela área do mar;\n\nf) Outorgar os contratos em que o Fundo seja parte;\n\ng) Aprovar as operações que se enquadrem nos objetivos e que não sejam da competência dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\nh) Outorgar os instrumentos que formalizam a articulação do Fundo com outras entidades e fundos, nos termos previstos no presente decreto-lei;\n\ni) Preparar a proposta de decisão e fornecer todos os elementos necessários para que os membros do Governo responsáveis pelas áreas das finanças e do mar se possam pronunciar sobre as operações cuja aprovação seja da sua competência;\n\nj) Adquirir bens para o Fundo, exercer os respetivos direitos, alienar, ou onerar, os bens que integram o seu património, bem como assegurar o pontual cumprimento das suas obrigações;\n\nk) Definir o plano de aplicação dos recursos de tesouraria disponíveis do Fundo, de acordo com critérios de elevada diligência e racionalidade;\n\nl) Assegurar a conformidade da documentação e contabilidade do Fundo de forma a assegurar o registo de todas as operações realizadas e a identificar claramente a sua estrutura patrimonial e de funcionamento;\n\nm) Acompanhar e elaborar relatórios periódicos relativos à evolução da situação económica e financeira das empresas em que o Fundo detenha aplicações e assegurar o acompanhamento da execução de projetos que tenham sido objeto de apoio;\n\nn) Prestar às entidades competentes todas as informações sobre a execução da estratégia de investimentos, financiamentos e sobre as operações realizadas e a realizar, as empresas participadas, e sobre a evolução das contas do Fundo;\n\no) Fornecer às autoridades competentes todas as informações obrigatórias ou as que pelas mesmas sejam solicitadas;\n\np) Elaborar os relatórios e contas da atividade do Fundo e fazer o reporte à IGF;\n\nq) Submeter ao membro do Governo responsável pela área do mar os relatórios e contas da atividade do Fundo acompanhados do parecer da IGF e do relatório do fiscal único."
+  },
+  "122826837": {
+   "fragment_id": "122826448",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conselho consultivo\n\n1 - O conselho consultivo é a estrutura de consulta do Fundo, a quem compete:\n\na) Analisar e emitir opinião sobre a estratégia de investimento do Fundo;\n\nb) Analisar e emitir opinião sobre as grandes linhas de orientação em função dos objetivos preconizados, sugerindo novas áreas de atuação a serem cobertas;\n\nc) Propor medidas que possam melhorar a adequação do Fundo aos seus objetivos e políticas prosseguidas.\n\n2 - A composição do conselho consultivo é definida por despacho do membro do Governo responsável pela área do mar, devendo ser composto por todas as entidades que financiam o Fundo e, por entidades públicas e privadas que atuem, de forma relevante, nas áreas de atuação do Fundo.\n\n3 - Podem ser designadas para o conselho consultivo personalidades de reconhecido mérito nas áreas de atuação do Fundo, até ao número de um terço do total dos seus membros;\n\n4 - Os membros do conselho consultivo do Fundo não são remunerados e não têm direito a qualquer ajuda de custo, senha de presença ou despesa de representação."
+  },
+  "122826838": {
+   "fragment_id": "122826449",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscal único\n\n1 - O Fundo dispõe de um fiscal único, o qual é responsável pelo controlo da legalidade e da regularidade da sua gestão financeira e patrimonial.\n\n2 - O fiscal único é nomeado por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar, o qual fixa os termos do exercício da função.\n\n3 - Compete ao fiscal único:\n\na) Emitir parecer sobre os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nb) Acompanhar com regularidade a gestão do Fundo, através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter informado o conselho consultivo e o conselho de gestão sobre o resultado de verificações ou de exames a que proceda;\n\nd) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica e financeira sempre que lhe seja solicitado pelo conselho consultivo ou pelo conselho de gestão.\n\n4 - O fiscal único exerce as suas funções com independência técnica e funcional e no estrito respeito dos deveres de imparcialidade, isenção e sigilo sobre os factos de que tenha conhecimento no exercício ou por causa dessas funções."
+  },
+  "122826839": {
+   "fragment_id": "122826450",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio técnico, administrativo e logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apoio técnico, administrativo e logístico\n\n1 - O apoio técnico e administrativo ao Fundo é prestado por trabalhadores em regime de cedência de interesse público, sendo a sua remuneração integralmente suportada pelo orçamento do Fundo.\n\n2 - O apoio logístico ao Fundo é prestado pela Direção-Geral de Política do Mar (DGPM)."
+  },
+  "122826840": {
+   "fragment_id": "122826451",
+   "type": 11,
+   "heading": "Artigo 16.º — Extinção do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Extinção do Fundo\n\nEm caso de extinção do Fundo, o destino dos meios financeiros a este afetos, apurados após a respetiva liquidação, é determinado por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar."
+  },
+  "122826841": {
+   "fragment_id": "122826452",
+   "type": 11,
+   "heading": "Artigo 17.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Disposições transitórias\n\n1 - As estruturas de funcionamento e gestão do Fundo iniciam os seus trabalhos nos 60 dias posteriores à entrada em vigor do presente decreto-lei.\n\n2 - Nos seis meses posteriores à data de entrada em vigor do presente decreto-lei, deve ser realizado o capital inicial do Fundo.\n\n3 - Até à data de início do financiamento de entidades, atividades e projetos pelo Fundo, são lançados todos os atos preparatórios dos procedimentos para atribuição de financiamento e dos procedimentos necessários à concretização do disposto nos artigos 36.º e seguintes do Decreto-Lei n.º 137/2014, de 12 de setembro.\n\n4 - O Fundo financia entidades, projetos ou atividades, nos termos do presente decreto-lei, a partir de 1 de janeiro de 2017.\n\n5 - As despesas e encargos com os atos preparatórios necessários à entrada em funcionamento do Fundo, bem como os custos com a instalação das estruturas de funcionamento e gestão, são suportados pelo orçamento da DGPM, sem prejuízo do reembolso que venha a ser efetuado pelo Fundo, após a sua entrada em funcionamento.\n\n6 - As receitas previstas na alínea d) do n.º 1 do artigo 8.º são afetas ao Fundo a partir de 1 de janeiro de 2017."
+  },
+  "122826842": {
+   "fragment_id": "122826453",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "122826844": {
+   "fragment_id": "122826450",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio técnico, administrativo e logístico",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 179.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 15.º — Apoio técnico, administrativo e logístico\n\n1 - O apoio técnico e administrativo ao Fundo é prestado por trabalhadores em regime de cedência de interesse público ou em regime de mobilidade, sendo a sua remuneração integralmente suportada pelo orçamento do Fundo.\n\n2 - O apoio logístico, administrativo e financeiro ao Fundo é prestado pela Direção-Geral de Política do Mar (DGPM).\n\n> Alterado pelo/a Artigo 179.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122826843": {
+   "fragment_id": "122826454",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de março de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.\n\nPromulgado em 7 de março de 2016.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 8 de março de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "176884829": {
+   "fragment_id": "122826438",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade e objetivos",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 3.º — Finalidade e objetivos\n\n1 - O Fundo tem por finalidade apoiar políticas do mar para a prossecução dos objetivos de desenvolvimento sustentável, contribuindo para o cumprimento de metas e compromissos nacionais e internacionais, incluindo o desenvolvimento da economia do mar, a literacia do oceano e a promoção do conhecimento do mar, a investigação científica e tecnológica, a proteção e monitorização do meio marinho e a segurança marítima, através da criação ou do reforço de mecanismos de financiamento de entidades, atividades ou projetos que cumpram os seguintes objetivos:\n\na) No âmbito do financiamento ao desenvolvimento da economia do mar:\n\ni) Apoio a start-ups tecnológicas da nova economia do mar;\n\nii) Apoio às atividades económicas ligadas ao mar, designadamente no âmbito dos auxílios à formação, ao acesso das pequenas e médias empresas ao financiamento, à investigação, desenvolvimento, e inovação;\n\niii) (Revogada.)\n\niv) Ações para proteção e desenvolvimento da segurança alimentar e alimentação escolar;\n\nv) Apoio à promoção das energias renováveis de fonte ou localização oceânica, nomeadamente eólica offshore e energia das ondas e marés;\n\nvi) Criação, desenvolvimento e implementação de infraestruturas, novas ou reabilitadas, de apoio direto à economia do mar, à inovação e transferência de conhecimento e tecnologia no mar, no âmbito do Plano de Recuperação e Resiliência (PRR);\n\nvii) Promoção da bioeconomia azul e dos modelos de negócio circulares e sustentáveis;\n\nviii) Promoção da digitalização, robótica, sensores e inteligência artificial aplicada à economia azul;\n\nix) Promoção de projetos e soluções tecnológicas que fomentem o papel do oceano no combate às alterações climáticas e sua mitigação;\n\nx) Cooperação no âmbito da economia do mar, nomeadamente para o cumprimento de compromissos e metas internacionais;\n\nxi) Apoio à formação profissional, capacitação e qualificação de pessoas para atividades e perfis profissionais relacionados com a economia do mar, no âmbito do PRR;\n\nb) No âmbito do financiamento à investigação científica e tecnológica do mar:\n\ni) Novas linhas de investigação científica e tecnológica aplicadas às prioridades das políticas públicas para o mar;\n\nii) Desenvolvimento tecnológico, inovação e de infraestruturas de apoio para a economia do mar, no âmbito do PRR;\n\niii) Transferência de conhecimento na área das políticas públicas e economia do mar;\n\niv) Investigação aplicada, em parceria com a indústria;\n\nv) Atualização nas áreas da investigação e do desenvolvimento tecnológico para a economia do mar;\n\nc) No âmbito de financiamento da monitorização e proteção do ambiente marinho:\n\ni) Garantir o bom estado ambiental do domínio público marítimo;\n\nii) Prevenção e combate à poluição do meio marinho;\n\niii) Proteção ou recuperação de ecossistemas e biodiversidade marinha;\n\niv) Resposta a situações de emergência de salvaguarda dos interesses nacionais marítimos;\n\nv) Consciencialização social sobre a importância do mar, nomeadamente a promoção da literacia do oceano;\n\nvi) Mapeamento e descrição geomorfológica e oceanográfica, no âmbito do PRR;\n\nd) No âmbito da segurança marítima, salvaguardar a vida humana no mar.\n\n2 - O Fundo pode ter a qualidade de organismo intermédio, para efeitos do Decreto-Lei n.º 137/2014, de 12 de setembro, na sua redação atual, e de beneficiário intermediário, para efeitos do Decreto-Lei n.º 29-B/2021, de 4 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884838": {
+   "fragment_id": "122826439",
+   "type": 11,
+   "heading": "Artigo 4.º — Mecanismos de financiamento",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Mecanismos de financiamento\n\n1 - A prossecução dos objetivos do Fundo concretiza-se através dos seguintes mecanismos de financiamento:\n\na) No âmbito do desenvolvimento da economia do mar, através de instrumentos de financiamento de capital próprio:\n\ni) Subscrição de títulos emitidos por fundos de capital de risco, fundos especiais de investimento e outros instrumentos de financiamento a intermediários de capital de risco;\n\nii) Financiamento a investidores para atividades na fase «pré-semente» ou «semente» convertíveis em capital de risco em caso de sucesso;\n\niii) Subscrição de títulos emitidos por fundos de sindicação de capital de risco, criados ao abrigo do Decreto-Lei n.º 187/2002, de 21 de agosto, alterado e republicado pelo Decreto-Lei n.º 74/2015, de 11 de maio;\n\niv) Subscrição de títulos emitidos por fundos de participação em outros fundos de capital de risco, designadamente os criados e dinamizados pelo fundo europeu estrutural e de investimento;\n\nb) No âmbito do desenvolvimento da economia do mar, através de instrumentos de financiamento de capital alheio:\n\ni) Pelo reforço de linhas de crédito especiais, nomeadamente, com mecanismos de garantia e de bonificação parcial dos juros e outros encargos;\n\nii) Pela participação em mecanismos de prestação de garantias de financiamento;\n\niii) Pela participação em instrumentos convertíveis de capital e dívida;\n\nc) No âmbito da investigação científica e tecnológica e da monitorização e proteção do ambiente marinho, através do financiamento total ou parcial, não reembolsável, a atividades e projetos neste domínio.\n\n2 - O Fundo pode estabelecer mecanismos de articulação com outras entidades públicas ou privadas, designadamente com outros fundos públicos ou privados de direito nacional, europeu ou internacional, relacionados com o desenvolvimento da economia do mar desde que relacionados com a investigação científica e tecnológica e a proteção e monitorização do meio marinho.\n\n3 - O Fundo pode ter a qualidade de organismo intermédio, para efeitos do Decreto-Lei n.º 137/2014, de 12 de setembro.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176830365": {
+   "fragment_id": "176874140",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Forma dos apoios",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 4.º-A — Forma dos apoios\n\n1 - Os apoios financeiros a conceder pelo Fundo podem revestir as formas de subsídios reembolsáveis ou não reembolsáveis, em função dos objetivos estratégicos a atingir e da disponibilidade financeira do Fundo.\n\n2 - A prossecução dos objetivos do Fundo pode concretizar-se, nomeadamente, através dos seguintes mecanismos de financiamento:\n\na) No âmbito do desenvolvimento da economia do mar, através de instrumentos de financiamento de capital próprio:\n\ni) Subscrição de títulos emitidos por fundos de capital de risco, fundos especiais de investimento e outros instrumentos de financiamento a intermediários de capital de risco;\n\nii) Financiamento a investidores para atividades na fase pré-semente ou semente convertíveis em capital de risco em caso de sucesso;\n\niii) Subscrição de títulos emitidos por fundos de sindicação de capital de risco, criados ao abrigo do Decreto-Lei n.º 187/2002, de 21 de agosto, na sua redação atual;\n\niv) Subscrição de títulos emitidos por fundos de participação em outros fundos de capital de risco, designadamente os criados e dinamizados pelo fundo europeu estrutural e de investimento;\n\nb) No âmbito do desenvolvimento da economia do mar, através de instrumentos de financiamento de capital alheio:\n\ni) Pelo reforço de linhas de crédito especiais, nomeadamente, com mecanismos de garantia e de bonificação parcial dos juros e outros encargos;\n\nii) Pela participação em mecanismos de prestação de garantias de financiamento;\n\niii) Pela participação em instrumentos convertíveis de capital e dívida;\n\nc) No âmbito da investigação científica e tecnológica e da monitorização e proteção do ambiente marinho, através do financiamento total ou parcial, não reembolsável, a atividades e projetos neste domínio.\n\n3 - Os apoios a atribuir pelo Fundo podem ser excecionalmente concedidos a título de adiantamento até ao valor de 50 % do apoio, desde que devidamente fundamentadas no aviso de abertura ou no protocolo de colaboração institucional, que pode ser condicionado à prestação de garantia bancária, outras garantias ou forma idónea de caucionamento a favor do Fundo.\n\n4 - Em situações excecionais, devidamente fundamentadas, podem ser concedidas a título de adiantamento apoios de valor superior ao limite previsto no número anterior, desde que tenha sido previamente constituída garantia bancária, outras garantias ou forma idónea de caucionamento a favor do Fundo.\n\n5 - A concessão dos adiantamentos a que se referem os números anteriores fica limitada às disponibilidades financeiras do Fundo.\n\n6 - Os apoios do Fundo podem ser atribuídos no âmbito de apoios prestados por outras entidades.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884781": {
+   "fragment_id": "176874141",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Avisos",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 4.º-B — Avisos\n\nOs avisos promovidos pelo Fundo contemplam as regras gerais e específicas aplicáveis, designadamente quanto aos seguintes aspetos:\n\na) As regras para a apresentação de candidaturas;\n\nb) A tipologia de apoios e beneficiários elegíveis;\n\nc) Os critérios de seleção de candidaturas;\n\nd) A dotação disponível para financiamento de cada aviso;\n\ne) Os prazos, termos e condições do financiamento, incluindo as modalidades de financiamento e as taxas de comparticipação;\n\nf) A forma de disponibilização dos apoios aprovados e as respetivas regras de reembolso e remuneração, quando aplicável;\n\ng) A monitorização e acompanhamento da execução dos projetos;\n\nh) As regras aplicáveis em caso de irregularidades, fraudes e incumprimento, designadamente as condições que determinam a restituição dos montantes financiados, quando aplicável;\n\ni) Os indicadores de acompanhamento e de resultado, sempre que aplicável.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884797": {
+   "fragment_id": "176874142",
+   "type": 11,
+   "heading": "Artigo 4.º-C — Intervenções urgentes ou de excecional relevância",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 4.º-C — Intervenções urgentes ou de excecional relevância\n\n1 - Sem prejuízo do previsto no plano anual de atividades aprovado, o membro do Governo responsável pela área do mar pode, a todo o tempo, declarar, sob proposta do diretor do Fundo, a necessidade de abertura de candidaturas para determinada tipologia de operações consideradas urgentes ou de excecional relevância.\n\n2 - Consideram-se urgentes ou de especial relevância as situações de força maior, designadamente ocorrências climatéricas ou ambientais extremas e adversas, ou ainda factos de natureza excecional e imprevisível, justificadas por catástrofe ou fundado interesse público atendíveis face às exigências de boa gestão do Fundo, mediante despacho do membro do Governo responsável pela área do mar.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884830": {
+   "fragment_id": "122826440",
+   "type": 11,
+   "heading": "Artigo 5.º — Reembolso",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 5.º — Reembolso\n\n1 - Os financiamentos atribuídos pelo Fundo no domínio do desenvolvimento da economia do mar são reembolsáveis e podem ser objeto de remuneração, podendo ser por este recuperados através da sua participação em receitas que sejam geradas em resultado da execução dos projetos, proporcionalmente ao seu investimento.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O prazo de reembolso não deve exceder oito anos contados da data do último pagamento, podendo ser faseado.\n\n5 - O disposto no n.º 1 não é aplicável aos apoios concedidos pelo Fundo na qualidade de beneficiário intermediário do PRR, nos termos do Decreto-Lei n.º 29-B/2021, de 4 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884839": {
+   "fragment_id": "122826441",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamento de gestão",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 6.º — Regulamento de gestão\n\n1 - O regulamento de gestão do Fundo determina as condições em que se realizam as despesas do Fundo, o procedimento de apresentação e seleção de projetos, bem como a tipologia de apoios e beneficiários elegíveis, sendo aprovado por portaria dos membros do Governo responsáveis pelas áreas das finanças e do mar.\n\n2 - O regulamento de gestão prevê, designadamente:\n\na) A forma de disponibilização dos financiamentos aprovados e as respetivas regras de pagamento;\n\nb) Os critérios para que, na decisão de financiamento, sejam estabelecidos prazos, termos e condições do respetivo financiamento;\n\nc) As condições que determinem a restituição dos montantes financiados;\n\nd) A forma de fiscalização que assegure o cumprimento das condições que determinaram o financiamento, bem como a eficácia e a eficiência das medidas adotadas.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884800": {
+   "fragment_id": "122826442",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão financeira e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão financeira e fiscalização\n\n1 - A gestão financeira do Fundo realiza-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos.\n\n2 - Sem prejuízo da atuação do fiscal único e das competências atribuídas por lei a outros organismos, a fiscalização do fundo é assegurada pela Inspeção-Geral das Finanças (IGF)."
+  },
+  "176884831": {
+   "fragment_id": "122826443",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 8.º — Receitas\n\n1 - As receitas do Fundo são asseguradas por:\n\na) Contribuições do Estado Português, através de dotação, que lhe sejam atribuídas através do Orçamento do Estado, ou de transferências de entidades do setor empresarial do Estado, designadamente pela alocação de parte do produto das taxas cobradas;\n\nb) Contribuições da União Europeia, sujeitas a orientações fixadas pelas estruturas de gestão dos respetivos programas operacionais e aos regulamentos nacionais e comunitários que subordinam os capitais colocados no fundo;\n\nc) Percentagem das receitas resultantes da cobrança da taxa de utilização do espaço marítimo, prevista na alínea a) do n.º 1 do artigo 86.º do Decreto-Lei n.º 38/2015, de 12 de março, alterado pelo Decreto-Lei n.º 139/2015, de 30 de julho, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\nd) Percentagem dos dividendos dos portos integrados em administrações portuárias, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças, das infraestruturas e do mar;\n\ne) Percentagem das receitas destinadas aos cofres do Estado e de taxas cobradas por serviços prestados pelas Capitanias dos Portos destinadas a despesas de funcionamento e investimento, excetuando-se as receitas próprias do Instituto de Socorros a Náufragos identificadas no Decreto-Lei n.º 68/2001, de 23 de fevereiro, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças, da defesa nacional e do mar;\n\nf) Percentagem das receitas destinadas aos cofres do Estado e de taxas cobradas por serviços prestados pela Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\ng) Podem ser afetas ao Fundo, parte das receitas do Imposto sobre os Produtos Petrolíferos cobrado sobre o gasóleo colorido e marcado, a definir anualmente na Lei do Orçamento do Estado;\n\nh) Rendimentos provenientes da aplicação dos recursos do Fundo;\n\ni) Contribuições de fundos de direito privado, nacionais ou estrangeiros;\n\nj) Contribuições financeiras dos titulares da concessão, no domínio da Investigação & desenvolvimento e Inovação tecnológica da pesquisa e produção offshore de petróleo e gás, nomeadamente na segurança das operações offshore através do pagamento de uma taxa destinada ao Fundo Azul, a ser definida por portaria aprovada pelos membros do Governo responsáveis pelas áreas das finanças, da economia e do mar;\n\nk) Nos termos a definir anualmente na Lei do Orçamento do Estado, é alocada parte da receita dos seguintes fundos:\n\ni) Fundo Ambiental, criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, na sua redação atual;\n\nii) (Revogada.)\n\niii) Fundo Sanitário e de Segurança Alimentar Mais, criado pelo Decreto-Lei n.º 119/2012, de 15 de junho, na sua redação atual;\n\niv) (Revogada.)\n\nl) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos, designadamente contribuições mecenáticas, doações, heranças ou legados.\n\nm) 5 % dos dividendos da Docapesca - Portos e Lotas, S. A.;\n\nn) Parcela do produto das coimas que lhe seja afeta nos termos da lei.\n\n2 - (Revogado.)\n\n3 - Os resultados líquidos do Fundo são, com a aprovação anual das respetivas contas, automaticamente transferidos para resultados transitados.\n\n4 - Os saldos que venham a ser apurados no fim de cada ano económico transitam para o ano seguinte nos termos do decreto de execução orçamental em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884832": {
+   "fragment_id": "122826444",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 9.º — Despesas\n\n1 - Constituem despesas do Fundo as resultantes dos encargos e responsabilidades decorrentes da prossecução das suas atividades, incluindo uma comissão anual para suportar as despesas de gestão, o apoio técnico, administrativo e logístico.\n\n2 - A comissão anual atribuída à Direção-Geral de Política do Mar (DGPM) nos termos do número anterior é definida por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar, exarado até dia 30 de janeiro de cada ano, até 0,5 % das receitas próprias do Fundo, inscritas em cada ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884833": {
+   "fragment_id": "122826445",
+   "type": 11,
+   "heading": "Artigo 10.º — Condução estratégica do Fundo",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 10.º — Condução estratégica do Fundo\n\n1 - A condução estratégica do Fundo incumbe ao membro do Governo responsável pela área do mar.\n\n2 - A condução estratégica do Fundo concretiza-se através de orientações, gerais ou especificas, em qualquer domínio de intervenção do Fundo, constantes de despacho do membro do Governo responsável pela área do mar sendo estas orientações vinculativas.\n\n3 - Compete, em especial, aos membros do Governo responsáveis pelas áreas das finanças e do mar:\n\na) A aprovação do plano de atividades e da política de investimentos do Fundo, bem como dos planos financeiros e orçamentos anuais;\n\nb) (Revogada.)\n\nc) A decisão sobre as participações do Fundo superiores a (euro) 10 000 000.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884834": {
+   "fragment_id": "122826446",
+   "type": 11,
+   "heading": "Artigo 11.º — Funcionamento e gestão do Fundo",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 11.º — Funcionamento e gestão do Fundo\n\nO funcionamento e gestão do Fundo são atribuídos:\n\na) À entidade gestora;\n\nb) Ao conselho consultivo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884840": {
+   "fragment_id": "122826447",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho de gestão",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 12.º — Conselho de gestão\n\n1 - O conselho de gestão do Fundo é composto por um presidente e dois vogais, sendo o diretor geral de política do mar, por inerência, o presidente, e os restantes vogais designados pelo membro do Governo responsável pela área do mar, de entre os dirigentes ou gestores públicos de entidades sob a sua tutela ou superintendência.\n\n2 - As funções dos membros do conselho de gestão são exercidas em regime de acumulação e não conferem o direito a qualquer acréscimo de remuneração ou regalias.\n\n3 - Ao conselho de gestão do Fundo compete:\n\na) Representar legalmente o Fundo;\n\nb) Cumprir e executar as orientações estratégicas;\n\nc) Elaborar, para aprovação dos membros do Governo responsáveis pelas áreas das finanças e do mar, os planos financeiros e orçamentos anuais, bem como as contas e os relatórios de execução;\n\nd) Propor ao membro do Governo responsável pela área do mar, no quadro das orientações por este definidas, a política de investimentos do Fundo, pronunciando-se sobre a compatibilidade de todos os investimentos com esta;\n\ne) Elaborar as propostas de regulamentos que se revelem necessários ao normal funcionamento do Fundo e que assegurem o cumprimento das regras exigidas pelas políticas públicas que asseguram a origem dos seus capitais, com vista à sua aprovação pelo membro do Governo responsável pela área do mar;\n\nf) Outorgar os contratos em que o Fundo seja parte;\n\ng) Aprovar as operações que se enquadrem nos objetivos e que não sejam da competência dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\nh) Outorgar os instrumentos que formalizam a articulação do Fundo com outras entidades e fundos, nos termos previstos no presente decreto-lei;\n\ni) Preparar a proposta de decisão e fornecer todos os elementos necessários para que os membros do Governo responsáveis pelas áreas das finanças e do mar se possam pronunciar sobre as operações cuja aprovação seja da sua competência;\n\nj) Adquirir bens para o Fundo, exercer os respetivos direitos, alienar, ou onerar, os bens que integram o seu património, bem como assegurar o pontual cumprimento das suas obrigações;\n\nk) Definir o plano de aplicação dos recursos de tesouraria disponíveis do Fundo, de acordo com critérios de elevada diligência e racionalidade;\n\nl) Assegurar a conformidade da documentação e contabilidade do Fundo de forma a assegurar o registo de todas as operações realizadas e a identificar claramente a sua estrutura patrimonial e de funcionamento;\n\nm) Acompanhar e elaborar relatórios periódicos relativos à evolução da situação económica e financeira das empresas em que o Fundo detenha aplicações e assegurar o acompanhamento da execução de projetos que tenham sido objeto de apoio;\n\nn) Prestar às entidades competentes todas as informações sobre a execução da estratégia de investimentos, financiamentos e sobre as operações realizadas e a realizar, as empresas participadas, e sobre a evolução das contas do Fundo;\n\no) Fornecer às autoridades competentes todas as informações obrigatórias ou as que pelas mesmas sejam solicitadas;\n\np) Elaborar os relatórios e contas da atividade do Fundo e fazer o reporte à IGF;\n\nq) Submeter ao membro do Governo responsável pela área do mar os relatórios e contas da atividade do Fundo acompanhados do parecer da IGF e do relatório do fiscal único.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884813": {
+   "fragment_id": "176874143",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Entidade gestora",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 12.º-A — Entidade gestora\n\n1 - A entidade gestora do Fundo é a DGPM, que assegura o apoio técnico, administrativo e logístico necessário ao funcionamento do Fundo.\n\n2 - O Fundo é dirigido por um diretor que é, por inerência, o diretor-geral da DGPM.\n\n3 - O diretor é coadjuvado pelo subdiretor-geral da DGPM.\n\n4 - A gestão financeira é prestada pela DGPM, designadamente os serviços contabilísticos necessários ao funcionamento do Fundo, realizando-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos.\n\n5 - As direções regionais de agricultura e pescas prestam apoio ao Fundo Azul, em matérias relativas ao controlo da execução de projetos financiados nas respetivas regiões, nos termos a definir por despacho dos membros do Governo responsáveis pelas áreas da agricultura e do mar.\n\n6 - O Fundo não possui mapa de pessoal, podendo recorrer a trabalhadores ao abrigo do regime jurídico da cedência de interesse público e da mobilidade, ambos previstos na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, sendo as suas remunerações totalmente suportadas pelo orçamento do Fundo.\n\n7 - Os trabalhadores recrutados por mobilidade ao abrigo do disposto no número anterior podem consolidar a situação de mobilidade, desde que haja lugar no mapa de pessoal da entidade gestora correspondente à carreira, categoria e conteúdo funcional.\n\n8 - O exercício de funções na entidade gestora não confere o direito a qualquer acréscimo de remuneração ou regalias.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884821": {
+   "fragment_id": "176874144",
+   "type": 11,
+   "heading": "Artigo 12.º-B — Gestão do Fundo",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 12.º-B — Gestão do Fundo\n\n1 - Compete ao diretor do Fundo:\n\na) Cumprir e executar as orientações do membro do Governo responsável pela área mar;\n\nb) Desenvolver as ações necessárias para cumprimento dos objetivos do Fundo;\n\nc) Assegurar o regular funcionamento do Fundo e a sua representação para efeitos legais;\n\nd) Propor aos membros do Governo responsáveis pelas áreas das finanças e do mar, no quadro das orientações definidas por este último, a política de investimentos do Fundo, pronunciando-se sobre a compatibilidade de todos os investimentos com esta;\n\ne) Aprovar os manuais de procedimentos internos e para os beneficiários dos apoios a atribuir;\n\nf) Elaborar, para aprovação dos membros do Governo responsáveis pelas áreas das finanças e do mar, os planos financeiros e orçamentos anuais, bem como as contas e os relatórios de execução anuais, incluindo os resultados alcançados;\n\ng) Outorgar os contratos em que o Fundo seja parte;\n\nh) Aprovar as operações que se enquadrem nos objetivos e que não sejam da competência dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\ni) Outorgar os instrumentos que formalizem a articulação do Fundo com outras entidades e fundos, nos termos previstos no presente decreto-lei;\n\nj) Preparar a proposta de decisão e fornecer todos os elementos necessários para que os membros do Governo responsáveis pelas áreas das finanças e do mar se possam pronunciar sobre as operações cuja aprovação seja da sua competência;\n\nk) Adquirir bens para o Fundo, exercer os respetivos direitos, alienar, ou onerar, os bens que integrem o seu património, bem como assegurar o pontual cumprimento das obrigações;\n\nl) Definir o plano de aplicação dos recursos de tesouraria disponíveis do Fundo, de acordo com os critérios de elevada diligência e racionalidade;\n\nm) Assegurar o funcionamento de um sistema de controlo interno que previna e detete irregularidades, fraudes, corrupção e conflitos de interesse e que permita a adoção das medidas corretivas oportunas e adequadas;\n\nn) Manter por um período nunca inferior a seis anos após o termo dos programas de financiamento suportados por fundos europeus, os registos em sistema de informação, de todos os documentos relacionados com os projetos e a sua boa execução, bem como os resultados dos controlos e auditorias, mecanismos de tratamento e reporte de irregularidades graves e ainda os procedimentos de recuperação dos montantes indevidamente pagos;\n\no) Prestar às entidades competentes todas as informações sobre a execução da estratégia de investimentos, financiamentos e sobre as operações realizadas e a realizar, as empresas participadas, e sobre a evolução das contas do Fundo;\n\np) Fornecer às autoridades competentes todas as informações obrigatórias ou as que pelas mesmas sejam solicitadas;\n\nq) Elaborar os relatórios e contas da atividade do Fundo e fazer o reporte à IGF;\n\nr) Submeter ao membro do Governo responsável pela área do mar os relatórios e contas da atividade do Fundo acompanhados do parecer da IGF e do relatório do fiscal único.\n\n2 - O diretor do Fundo pode delegar no subdiretor as competências previstas no número anterior, competindo ainda a este substituir o diretor nas suas ausências, faltas ou impedimentos.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884822": {
+   "fragment_id": "122826448",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conselho consultivo\n\n1 - O conselho consultivo é a estrutura de consulta do Fundo, a quem compete:\n\na) Analisar e emitir opinião sobre a estratégia de investimento do Fundo;\n\nb) Analisar e emitir opinião sobre as grandes linhas de orientação em função dos objetivos preconizados, sugerindo novas áreas de atuação a serem cobertas;\n\nc) Propor medidas que possam melhorar a adequação do Fundo aos seus objetivos e políticas prosseguidas.\n\n2 - A composição do conselho consultivo é definida por despacho do membro do Governo responsável pela área do mar, devendo ser composto por todas as entidades que financiam o Fundo e, por entidades públicas e privadas que atuem, de forma relevante, nas áreas de atuação do Fundo.\n\n3 - Podem ser designadas para o conselho consultivo personalidades de reconhecido mérito nas áreas de atuação do Fundo, até ao número de um terço do total dos seus membros;\n\n4 - Os membros do conselho consultivo do Fundo não são remunerados e não têm direito a qualquer ajuda de custo, senha de presença ou despesa de representação."
+  },
+  "176884835": {
+   "fragment_id": "122826449",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscal único",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 14.º — Fiscal único\n\n1 - O Fundo dispõe de um fiscal único, o qual é responsável pelo controlo da legalidade e da regularidade da sua gestão financeira e patrimonial.\n\n2 - O fiscal único é designado para um mandato de cinco anos, renovável uma única vez, por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar, o qual fixa os termos do exercício da função e a respetiva remuneração.\n\n3 - Compete ao fiscal único:\n\na) Emitir parecer sobre os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nb) Acompanhar com regularidade a gestão do Fundo, através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter informado o conselho consultivo e o conselho de gestão sobre o resultado de verificações ou de exames a que proceda;\n\nd) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica e financeira sempre que lhe seja solicitado pelo conselho consultivo ou pelo conselho de gestão.\n\n4 - O fiscal único exerce as suas funções com independência técnica e funcional e no estrito respeito dos deveres de imparcialidade, isenção e sigilo sobre os factos de que tenha conhecimento no exercício ou por causa dessas funções.\n\n5 - No caso de cessação do mandato o fiscal único mantém-se no exercício de funções até à efetiva substituição ou à declaração ministerial de cessação de funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884836": {
+   "fragment_id": "122826450",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio técnico, administrativo e logístico",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31",
+    "Alterado pelo/a Artigo 179.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 15.º — Apoio técnico, administrativo e logístico\n\n1 - O Fundo pode estabelecer mecanismos de articulação com outras entidades públicas ou privadas, designadamente com outros fundos públicos ou privados de direito nacional, europeu ou internacional, relacionados com o desenvolvimento da economia do mar desde que relacionados com a investigação científica e tecnológica e a proteção e monitorização do meio marinho.\n\n2 - Sempre que seja suscitada qualquer questão de conformidade dos apoios com as normas de direito europeu e nacional da concorrência, o acompanhamento da decisão e do procedimento de atribuição de financiamento é efetuado pela Direção-Geral dos Assuntos Europeus, nos termos da alínea g) do n.º 2 do artigo 2.º do Decreto Regulamentar n.º 12/2012, de 19 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31\n\n> Alterado pelo/a Artigo 179.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "176884825": {
+   "fragment_id": "122826451",
+   "type": 11,
+   "heading": "Artigo 16.º — Extinção do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Extinção do Fundo\n\nEm caso de extinção do Fundo, o destino dos meios financeiros a este afetos, apurados após a respetiva liquidação, é determinado por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar."
+  },
+  "176884837": {
+   "fragment_id": "122826452",
+   "type": 11,
+   "heading": "Artigo 17.º — Disposições transitórias",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 17.º — Disposições transitórias\n\n1 - As estruturas de funcionamento e gestão do Fundo iniciam os seus trabalhos nos 60 dias posteriores à entrada em vigor do presente decreto-lei.\n\n2 - (Revogado.)\n\n3 - Até à data de início do financiamento de entidades, atividades e projetos pelo Fundo, são lançados todos os atos preparatórios dos procedimentos para atribuição de financiamento e dos procedimentos necessários à concretização do disposto nos artigos 36.º e seguintes do Decreto-Lei n.º 137/2014, de 12 de setembro.\n\n4 - O Fundo financia entidades, projetos ou atividades, nos termos do presente decreto-lei, a partir de 1 de janeiro de 2017.\n\n5 - As despesas e encargos com os atos preparatórios necessários à entrada em funcionamento do Fundo, bem como os custos com a instalação das estruturas de funcionamento e gestão, são suportados pelo orçamento da DGPM, sem prejuízo do reembolso que venha a ser efetuado pelo Fundo, após a sua entrada em funcionamento.\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "176884827": {
+   "fragment_id": "122826453",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "176884828": {
+   "fragment_id": "122826454",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de março de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.\n\nPromulgado em 7 de março de 2016.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 8 de março de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "220212286": {
+   "fragment_id": "176874140",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Forma dos apoios",
+   "in_force_from": "2023-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 4.º-A — Forma dos apoios\n\n1 - Os apoios financeiros a conceder pelo Fundo podem revestir as formas de subsídios reembolsáveis ou não reembolsáveis, em função dos objetivos estratégicos a atingir e da disponibilidade financeira do Fundo.\n\n2 - A prossecução dos objetivos do Fundo pode concretizar-se, nomeadamente, através dos seguintes mecanismos de financiamento:\n\na) No âmbito do desenvolvimento da economia do mar, através de instrumentos de financiamento de capital próprio:\n\ni) Subscrição de títulos emitidos por fundos de capital de risco, fundos especiais de investimento e outros instrumentos de financiamento a intermediários de capital de risco;\n\nii) Financiamento a investidores para atividades na fase pré-semente ou semente convertíveis em capital de risco em caso de sucesso;\n\niii) Subscrição de títulos emitidos por fundos de sindicação de capital de risco, criados ao abrigo do Decreto-Lei n.º 187/2002, de 21 de agosto, na sua redação atual;\n\niv) Subscrição de títulos emitidos por fundos de participação em outros fundos de capital de risco, designadamente os criados e dinamizados pelo fundo europeu estrutural e de investimento;\n\nb) No âmbito do desenvolvimento da economia do mar, através de instrumentos de financiamento de capital alheio:\n\ni) Pelo reforço de linhas de crédito especiais, nomeadamente, com mecanismos de garantia e de bonificação parcial dos juros e outros encargos;\n\nii) Pela participação em mecanismos de prestação de garantias de financiamento;\n\niii) Pela participação em instrumentos convertíveis de capital e dívida;\n\nc) No âmbito da investigação científica e tecnológica, da monitorização e proteção do ambiente marinho, da segurança marítima e da salvaguarda da vida humana no mar, através do financiamento total ou parcial, não reembolsável, a atividades e projetos neste domínio.\n\n3 - Os apoios a atribuir pelo Fundo podem ser excecionalmente concedidos a título de adiantamento até ao valor de 50 % do apoio, desde que devidamente fundamentadas no aviso de abertura ou no protocolo de colaboração institucional, que pode ser condicionado à prestação de garantia bancária, outras garantias ou forma idónea de caucionamento a favor do Fundo.\n\n4 - Em situações excecionais, devidamente fundamentadas, podem ser concedidas a título de adiantamento apoios de valor superior ao limite previsto no número anterior, desde que tenha sido previamente constituída garantia bancária, outras garantias ou forma idónea de caucionamento a favor do Fundo.\n\n5 - A concessão dos adiantamentos a que se referem os números anteriores fica limitada às disponibilidades financeiras do Fundo.\n\n6 - Os apoios do Fundo podem ser atribuídos no âmbito de apoios prestados por outras entidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "220212287": {
+   "fragment_id": "122826444",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas",
+   "in_force_from": "2023-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 9.º — Despesas\n\n1 - Constituem despesas do Fundo as resultantes dos encargos e responsabilidades decorrentes da prossecução das suas atividades, incluindo uma comissão anual para suportar as despesas de gestão, o apoio técnico, administrativo e logístico.\n\n2 - A comissão anual atribuída à Secretaria-Geral da Economia nos termos do número anterior é definida por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar, exarado até dia 30 de janeiro de cada ano, até 0,5 % das receitas próprias do Fundo, inscritas em cada ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "220212290": {
+   "fragment_id": "176874143",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Entidade gestora",
+   "in_force_from": "2023-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 12.º-A — Entidade gestora\n\n1 - A entidade gestora do Fundo é a Secretaria-Geral da Economia, que assegura o apoio técnico, administrativo e logístico necessário ao funcionamento do Fundo.\n\n2 - O Fundo é dirigido por um diretor que é, por inerência, o secretário-geral da Economia.\n\n3 - O diretor é coadjuvado pelo secretário-geral adjunto da Economia.\n\n4 - A gestão financeira é prestada pela Secretaria-Geral da Economia, designadamente os serviços contabilísticos necessários ao funcionamento do Fundo, realizando-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos.\n\n5 - As direções regionais de agricultura e pescas prestam apoio ao Fundo Azul, em matérias relativas ao controlo da execução de projetos financiados nas respetivas regiões, nos termos a definir por despacho dos membros do Governo responsáveis pelas áreas da agricultura e do mar.\n\n6 - O Fundo não possui mapa de pessoal, podendo recorrer a trabalhadores ao abrigo do regime jurídico da cedência de interesse público e da mobilidade, ambos previstos na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, sendo as suas remunerações totalmente suportadas pelo orçamento do Fundo.\n\n7 - Os trabalhadores recrutados por mobilidade ao abrigo do disposto no número anterior podem consolidar a situação de mobilidade, desde que haja lugar no mapa de pessoal da entidade gestora correspondente à carreira, categoria e conteúdo funcional.\n\n8 - O exercício de funções na entidade gestora não confere o direito a qualquer acréscimo de remuneração ou regalias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "220212288": {
+   "fragment_id": "122826448",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho consultivo",
+   "in_force_from": "2023-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23"
+   ],
+   "markdown": "###### Artigo 13.º — Conselho consultivo\n\n1 - O conselho consultivo é a estrutura de consulta do Fundo, a quem compete:\n\na) Analisar e emitir opinião sobre a estratégia de investimento do Fundo;\n\nb) Analisar e emitir opinião sobre as grandes linhas de orientação em função dos objetivos preconizados, sugerindo novas áreas de atuação a serem cobertas;\n\nc) Propor medidas que possam melhorar a adequação do Fundo aos seus objetivos e políticas prosseguidas.\n\n2 - A composição do conselho consultivo é definida por despacho do membro do Governo responsável pela área do mar, devendo ser composto por todas as entidades que financiam o Fundo, pela Direção-Geral de Política do Mar, que preside, e por entidades públicas e privadas que atuem, de forma relevante, nas áreas de atuação do Fundo.\n\n3 - Podem ser designadas para o conselho consultivo personalidades de reconhecido mérito nas áreas de atuação do Fundo, até ao número de um terço do total dos seus membros;\n\n4 - Os membros do conselho consultivo do Fundo não são remunerados e não têm direito a qualquer ajuda de custo, senha de presença ou despesa de representação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23"
+  },
+  "220212289": {
+   "fragment_id": "122826449",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscal único",
+   "in_force_from": "2023-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 14.º — Fiscal único\n\n1 - O Fundo dispõe de um fiscal único, o qual é responsável pelo controlo da legalidade e da regularidade da sua gestão financeira e patrimonial.\n\n2 - O fiscal único é designado para um mandato de cinco anos, renovável uma única vez, por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar, o qual fixa os termos do exercício da função e a respetiva remuneração.\n\n3 - Compete ao fiscal único:\n\na) Emitir parecer sobre os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nb) Acompanhar com regularidade a gestão do Fundo, através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter informado o diretor e o conselho consultivo sobre o resultado de verificações ou de exames a que proceda;\n\nd) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica e financeira sempre que lhe seja solicitado pelo diretor ou pelo conselho consultivo.\n\n4 - O fiscal único exerce as suas funções com independência técnica e funcional e no estrito respeito dos deveres de imparcialidade, isenção e sigilo sobre os factos de que tenha conhecimento no exercício ou por causa dessas funções.\n\n5 - No caso de cessação do mandato o fiscal único mantém-se no exercício de funções até à efetiva substituição ou à declaração ministerial de cessação de funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "901966268": {
+   "fragment_id": "122826438",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade e objetivos",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 3.º — Finalidade e objetivos\n\n1 - O Fundo tem por finalidade apoiar políticas do mar para a prossecução dos objetivos de desenvolvimento sustentável, contribuindo para o cumprimento de metas e compromissos nacionais e internacionais, incluindo o desenvolvimento da economia do mar, a literacia do oceano e a promoção do conhecimento do mar, a investigação científica e tecnológica, a proteção e monitorização do meio marinho e a segurança marítima, através da criação ou do reforço de mecanismos de financiamento de entidades, atividades ou projetos que cumpram os seguintes objetivos:\n\na) No âmbito do financiamento ao desenvolvimento da economia do mar:\n\ni) Apoio a start-ups tecnológicas da nova economia do mar;\n\nii) Apoio às atividades económicas ligadas ao mar, designadamente no âmbito dos auxílios à formação, ao acesso das pequenas e médias empresas ao financiamento, à investigação, desenvolvimento, e inovação;\n\niii) (Revogada.)\n\niv) Ações para proteção e desenvolvimento da segurança alimentar e alimentação escolar;\n\nv) Apoio à promoção das energias renováveis de fonte ou localização oceânica, nomeadamente eólica offshore e energia das ondas e marés;\n\nvi) Criação, desenvolvimento e implementação de infraestruturas, novas ou reabilitadas, de apoio direto à economia do mar, à inovação e transferência de conhecimento e tecnologia no mar, no âmbito do Plano de Recuperação e Resiliência (PRR);\n\nvii) Promoção da bioeconomia azul e dos modelos de negócio circulares e sustentáveis;\n\nviii) Promoção da digitalização, robótica, sensores e inteligência artificial aplicada à economia azul;\n\nix) Promoção de projetos e soluções tecnológicas que fomentem o papel do oceano no combate às alterações climáticas e sua mitigação;\n\nx) Cooperação no âmbito da economia do mar, nomeadamente para o cumprimento de compromissos e metas internacionais;\n\nxi) Apoio à formação profissional, capacitação e qualificação de pessoas para atividades e perfis profissionais relacionados com a economia do mar, no âmbito do PRR;\n\nb) No âmbito do financiamento à investigação científica e tecnológica do mar:\n\ni) Novas linhas de investigação científica e tecnológica aplicadas às prioridades das políticas públicas para o mar;\n\nii) Desenvolvimento tecnológico, inovação e de infraestruturas de apoio para a economia do mar, no âmbito do PRR;\n\niii) Transferência de conhecimento na área das políticas públicas e economia do mar;\n\niv) Investigação aplicada, em parceria com a indústria;\n\nv) Atualização nas áreas da investigação e do desenvolvimento tecnológico para a economia do mar;\n\nc) No âmbito de financiamento da monitorização e proteção do ambiente marinho:\n\ni) Garantir o bom estado ambiental do domínio público marítimo;\n\nii) Prevenção e combate à poluição do meio marinho;\n\niii) Proteção ou recuperação de ecossistemas e biodiversidade marinha;\n\niv) Resposta a situações de emergência de salvaguarda dos interesses nacionais marítimos;\n\nv) Consciencialização social sobre a importância do mar, nomeadamente a promoção da literacia do oceano;\n\nvi) Mapeamento e descrição geomorfológica e oceanográfica, no âmbito do PRR;\n\nd) No âmbito da segurança marítima, salvaguardar a vida humana no mar.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "901900215": {
+   "fragment_id": "176874142",
+   "type": 11,
+   "heading": "Artigo 4.º-C — Intervenções urgentes ou de excecional relevância",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 4.º-C — Intervenções urgentes ou de excecional relevância\n\n1 - Sem prejuízo do previsto no plano anual de atividades aprovado, os membros do Governo responsáveis pelas áreas do mar e do ambiente podem, a todo o tempo, declarar, a necessidade de abertura de candidaturas para determinada tipologia de operações consideradas urgentes ou de excecional relevância.\n\n2 - Consideram-se urgentes ou de especial relevância as situações de força maior, designadamente ocorrências climatéricas ou ambientais extremas e adversas, ou ainda factos de natureza excecional e imprevisível, justificadas por catástrofe ou fundado interesse público atendíveis face às exigências de boa gestão do Fundo, mediante despacho dos membros do Governo responsáveis pelas áreas do mar e do ambiente.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "901966269": {
+   "fragment_id": "122826442",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão financeira e fiscalização",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Gestão financeira e fiscalização\n\n1 - A gestão financeira do Fundo realiza-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01"
+  },
+  "901900216": {
+   "fragment_id": "122826443",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 8.º — Receitas\n\n1 - As receitas do Fundo são asseguradas por:\n\na) Contribuições do Estado Português, através de dotação, que lhe sejam atribuídas através do Orçamento do Estado, ou de transferências de entidades do setor empresarial do Estado, designadamente pela alocação de parte do produto das taxas cobradas;\n\nb) Contribuições da União Europeia, sujeitas a orientações fixadas pelas estruturas de gestão dos respetivos programas operacionais e aos regulamentos nacionais e comunitários que subordinam os capitais colocados no fundo;\n\nc) Percentagem das receitas resultantes da cobrança da taxa de utilização do espaço marítimo, prevista na alínea a) do n.º 1 do artigo 86.º do Decreto-Lei n.º 38/2015, de 12 de março, alterado pelo Decreto-Lei n.º 139/2015, de 30 de julho, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\nd) Percentagem dos dividendos dos portos integrados em administrações portuárias, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças, das infraestruturas e do mar;\n\ne) Percentagem das receitas destinadas aos cofres do Estado e de taxas cobradas por serviços prestados pelas capitanias dos portos destinadas a despesas de funcionamento e investimento, excetuando-se as receitas próprias do Instituto de Socorros a Náufragos identificadas no Decreto-Lei n.º 68/2001, de 23 de fevereiro, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças, da defesa nacional e do mar;\n\nf) Percentagem das receitas destinadas aos cofres do Estado e de taxas cobradas por serviços prestados pela Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\ng) Podem ser afetas ao Fundo, parte das receitas do Imposto sobre os Produtos Petrolíferos cobrado sobre o gasóleo colorido e marcado, a definir anualmente na Lei do Orçamento do Estado;\n\nh) Rendimentos provenientes da aplicação dos recursos do Fundo;\n\ni) Contribuições de fundos de direito privado, nacionais ou estrangeiros;\n\nj) Contribuições financeiras dos titulares da concessão, no domínio da Investigação & desenvolvimento e Inovação tecnológica da pesquisa e produção offshore de petróleo e gás, nomeadamente na segurança das operações offshore através do pagamento de uma taxa destinada ao Fundo Azul, a ser definida por portaria aprovada pelos membros do Governo responsáveis pelas áreas das finanças, da economia e do mar;\n\nk) Nos termos a definir anualmente na Lei do Orçamento do Estado, é alocada parte da receita dos seguintes fundos:\n\ni) Fundo Ambiental, criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, na sua redação atual;\n\nii) (Revogada.)\n\niii) Fundo Sanitário e de Segurança Alimentar Mais, criado pelo Decreto-Lei n.º 119/2012, de 15 de junho, na sua redação atual;\n\niv) (Revogada.)\n\nl) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos, designadamente contribuições mecenáticas, doações, heranças ou legados.\n\nm) 5 % dos dividendos da Docapesca - Portos e Lotas, S. A.;\n\nn) Parcela do produto das coimas que lhe seja afeta nos termos da lei.\n\n2 - (Revogado.)\n\n3 - Os resultados líquidos do Fundo são, com a aprovação anual das respetivas contas, automaticamente transferidos para resultados transitados.\n\n4 - Os saldos que venham a ser apurados no fim de cada ano económico transitam para o ano seguinte nos termos do decreto de execução orçamental em vigor.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "901900217": {
+   "fragment_id": "122826444",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 9.º — Despesas\n\n1 - Constituem despesas do Fundo as resultantes dos encargos e responsabilidades decorrentes da prossecução das suas atividades, incluindo uma comissão anual para suportar as despesas de gestão, o apoio técnico, administrativo e logístico.\n\n2 - A comissão anual atribuída à ApC, I. P., nos termos do número anterior, é definida por despacho dos membros do Governo responsáveis pelas áreas das finanças, do ambiente e do mar exarado até dia 30 de janeiro de cada ano, inscritas em cada ano.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "901900218": {
+   "fragment_id": "122826445",
+   "type": 11,
+   "heading": "Artigo 10.º — Condução estratégica do Fundo",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 10.º — Condução estratégica do Fundo\n\n1 -  A condução estratégica do Fundo incumbe aos membros do Governo responsáveis pelas áreas do mar e do ambiente.\n\n2 - A condução estratégica do Fundo concretiza-se através de orientações, gerais ou especificas, em qualquer domínio de intervenção do Fundo, constantes de despacho dos membros do Governo responsáveis pelas áreas do mar e do ambiente, sendo estas orientações vinculativas.\n\n3 - Compete, em especial, aos membros do Governo responsáveis pelas áreas do mar e do ambiente:\n\na) A aprovação do plano de atividades e da política de investimentos do Fundo, bem como dos planos financeiros e orçamentos anuais;\n\nb) (Revogada.)\n\nc) A decisão sobre as participações do Fundo superiores a (euro) 10 000 000.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "901900219": {
+   "fragment_id": "122826446",
+   "type": 11,
+   "heading": "Artigo 11.º — Funcionamento e gestão do Fundo",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 11.º — Funcionamento e gestão do Fundo\n\nO funcionamento e gestão do Fundo são atribuídos à entidade gestora.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "901900220": {
+   "fragment_id": "176874143",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Entidade gestora",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 12.º-A — Entidade gestora\n\n1 - A entidade gestora do Fundo é a ApC, I. P., que assegura o apoio técnico, administrativo e logístico necessário ao funcionamento do Fundo.\n\n2 - O Fundo é dirigido por um vogal do conselho diretivo da ApC, I. P.\n\n3 - (Revogado.)\n\n4 - A gestão financeira é prestada pela ApC, I. P., designadamente os serviços contabilísticos necessários ao funcionamento do Fundo, realizando-se de acordo com os princípios e os instrumentos de gestão aplicáveis aos fundos e serviços autónomos.\n\n5 - (Revogado.)\n\n6 - O Fundo não possui mapa de pessoal.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "901966270": {
+   "fragment_id": "176874144",
+   "type": 11,
+   "heading": "Artigo 12.º-B — Gestão do Fundo",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+   ],
+   "markdown": "###### Artigo 12.º-B — Gestão do Fundo\n\n1 - Compete ao diretor do Fundo:\n\na) Cumprir e executar as orientações do membro do Governo responsável pela área mar;\n\nb) Desenvolver as ações necessárias para cumprimento dos objetivos do Fundo;\n\nc) Assegurar o regular funcionamento do Fundo e a sua representação para efeitos legais;\n\nd) Propor aos membros do Governo responsáveis pelas áreas das finanças e do mar, no quadro das orientações definidas por este último, a política de investimentos do Fundo, pronunciando-se sobre a compatibilidade de todos os investimentos com esta;\n\ne) Aprovar os manuais de procedimentos internos e para os beneficiários dos apoios a atribuir;\n\nf) Elaborar, para aprovação dos membros do Governo responsáveis pelas áreas das finanças e do mar, os planos financeiros e orçamentos anuais, bem como as contas e os relatórios de execução anuais, incluindo os resultados alcançados;\n\ng) Outorgar os contratos em que o Fundo seja parte;\n\nh) Aprovar as operações que se enquadrem nos objetivos e que não sejam da competência dos membros do Governo responsáveis pelas áreas das finanças e do mar;\n\ni) Outorgar os instrumentos que formalizem a articulação do Fundo com outras entidades e fundos, nos termos previstos no presente decreto-lei;\n\nj) Preparar a proposta de decisão e fornecer todos os elementos necessários para que os membros do Governo responsáveis pelas áreas das finanças e do mar se possam pronunciar sobre as operações cuja aprovação seja da sua competência;\n\nk) Adquirir bens para o Fundo, exercer os respetivos direitos, alienar, ou onerar, os bens que integrem o seu património, bem como assegurar o pontual cumprimento das obrigações;\n\nl) Definir o plano de aplicação dos recursos de tesouraria disponíveis do Fundo, de acordo com os critérios de elevada diligência e racionalidade;\n\nm) Assegurar o funcionamento de um sistema de controlo interno que previna e detete irregularidades, fraudes, corrupção e conflitos de interesse e que permita a adoção das medidas corretivas oportunas e adequadas;\n\nn) Manter por um período nunca inferior a seis anos após o termo dos programas de financiamento suportados por fundos europeus, os registos em sistema de informação, de todos os documentos relacionados com os projetos e a sua boa execução, bem como os resultados dos controlos e auditorias, mecanismos de tratamento e reporte de irregularidades graves e ainda os procedimentos de recuperação dos montantes indevidamente pagos;\n\no) Prestar às entidades competentes todas as informações sobre a execução da estratégia de investimentos, financiamentos e sobre as operações realizadas e a realizar, as empresas participadas, e sobre a evolução das contas do Fundo;\n\np) Fornecer às autoridades competentes todas as informações obrigatórias ou as que pelas mesmas sejam solicitadas;\n\nq) Elaborar os relatórios e contas da atividade do Fundo e fazer o reporte à IGF;\n\nr) Submeter ao membro do Governo responsável pela área do mar os relatórios e contas da atividade do Fundo acompanhados do parecer da IGF e do relatório do fiscal único.\n\n2 - O diretor do Fundo pode delegar no subdiretor as competências previstas no número anterior, competindo ainda a este substituir o diretor nas suas ausências, faltas ou impedimentos.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2021-176800372), em vigor a partir de 2021-12-31"
+  },
+  "901966271": {
+   "fragment_id": "122826448",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho consultivo",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23"
+   ],
+   "markdown": "###### Artigo 13.º — Conselho consultivo\n\n1 - O conselho consultivo é a estrutura de consulta do Fundo, a quem compete:\n\na) Analisar e emitir opinião sobre a estratégia de investimento do Fundo;\n\nb) Analisar e emitir opinião sobre as grandes linhas de orientação em função dos objetivos preconizados, sugerindo novas áreas de atuação a serem cobertas;\n\nc) Propor medidas que possam melhorar a adequação do Fundo aos seus objetivos e políticas prosseguidas.\n\n2 - A composição do conselho consultivo é definida por despacho do membro do Governo responsável pela área do mar, devendo ser composto por todas as entidades que financiam o Fundo, pela Direção-Geral de Política do Mar, que preside, e por entidades públicas e privadas que atuem, de forma relevante, nas áreas de atuação do Fundo.\n\n3 - Podem ser designadas para o conselho consultivo personalidades de reconhecido mérito nas áreas de atuação do Fundo, até ao número de um terço do total dos seus membros;\n\n4 - Os membros do conselho consultivo do Fundo não são remunerados e não têm direito a qualquer ajuda de custo, senha de presença ou despesa de representação.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23"
+  },
+  "901900221": {
+   "fragment_id": "122826451",
+   "type": 11,
+   "heading": "Artigo 16.º — Extinção do Fundo",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Extinção do Fundo\n\nEm caso de extinção do Fundo, o destino dos meios financeiros a este afeto, apurados após a respetiva liquidação, é determinado por despacho dos membros do Governo responsáveis pelas áreas das finanças, do ambiente e do mar.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01"
+  }
+ }
+}

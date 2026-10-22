@@ -1,0 +1,283 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:228219:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-163936895",
+ "dre_path": "/dr/detalhe/decreto-lei/182-1986-228219",
+ "source_lastmod": "2025-09-10",
+ "versions": [
+  {
+   "date": "1986-07-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "937017166",
+    "163988384",
+    "163988385",
+    "163988386",
+    "163988387",
+    "163988388",
+    "163988389",
+    "163988390",
+    "163988391"
+   ]
+  },
+  {
+   "date": "1986-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:301053:por",
+     "title": "Declaração",
+     "published": "1986-07-31",
+     "dre_path": "/dr/detalhe/declaracao/1986-301053"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 6.º",
+    "Retifica Artigo 7.º"
+   ],
+   "fragments": [
+    "163988383",
+    "163988384",
+    "163988385",
+    "163988386",
+    "163988387",
+    "163988388",
+    "934788798",
+    "934788799",
+    "163988391",
+    "163988392"
+   ]
+  },
+  {
+   "date": "2021-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:163561196:por",
+     "title": "Lei n.º 28/2021",
+     "published": "2021-05-18",
+     "dre_path": "/dr/detalhe/lei/28-2021-163561196"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "937017166",
+    "937017167",
+    "937017168",
+    "937017169",
+    "937017170",
+    "937017171",
+    "937017172",
+    "937017173",
+    "937017174",
+    "937046675"
+   ]
+  }
+ ],
+ "fragments": {
+  "937017166": {
+   "fragment_id": "163936896",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-05-23",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 182/86\n\nde 10 de Julho\n\nA isenção inserida no n.º 23.º do artigo 14.º do Código da Contribuição Industrial vem gerando desigualdades tributárias que importa eliminar, pois, tratando-se de um sector de actividade que presentemente evidencia a existência de elevados rendimentos, não faria sentido manterem-se estes à margem da tributação. Impõe-se, pois, pôr termo a esta anomalia.\n\nEntendeu-se também fixar em 10000000$00 o limite até ao qual os rendimentos provenientes de quaisquer títulos da dívida pública não ficam abrangidos pela tributação em contribuição industrial.\n\nReconhece-se, por outro lado, que é de toda a justiça desagravar um pouco a carga fiscal que actualmente impende sobre as empresas, o que se procura fazer reduzindo de 40% para 35% a segunda das taxas mencionadas no artigo 80.º do citado Código.\n\nPor último, julga-se oportuno incentivar o financiamento das empresas pela via do aumento de capital social através de entradas em numerário, considerando para o efeito como custo do exercício, a título de remuneração convencional daquele capital, a importância que resultar da aplicação aos aumentos do capital efectuados no exercício de 1986 de uma percentagem que se julgou dever ser igual à taxa de desconto do Banco de Portugal deduzida de quatro pontos.\n\nAssim:\n\nUsando da autorização legislativa concedida pelas alíneas a), b), f) e g) do n.º 1 e pelas alíneas a) e b) do n.º 2 do artigo 20.º da Lei n.º 9/86, de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "163988384": {
+   "fragment_id": "163936897",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ revogado o n.º 23.º do artigo 14.º do Código da Contribuição Industrial."
+  },
+  "163988385": {
+   "fragment_id": "163936898",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO n.º 3.º do artigo 23.º do Código da Contribuição Industrial passa a ter a seguinte redacção:\n\n3.º Os rendimentos de bens ou valores mantidos para reserva ou fruição, excluindo os de quaisquer títulos da dívida pública na parte não excedente a 10000000$00 anuais."
+  },
+  "163988386": {
+   "fragment_id": "163936899",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão aditados ao artigo 54.º do Código da Contribuição Industrial dois parágrafos com a seguinte redacção:\n\n§ 4.º Exceptuando o caso da falta de escrita, confirmada pelos serviços de fiscalização, a mudança de tributação do grupo A para o grupo B só pode ter lugar mediante despacho nesse sentido proferido pelo Secretário de Estado para os Assuntos Fiscais, sobre proposta fundamentada do director-geral das Contribuições e Impostos.\n\n§ 5.º O despacho referido no parágrafo anterior só tem efeito no domínio da determinação da matéria colectável e é judicialmente impugnável."
+  },
+  "163988387": {
+   "fragment_id": "163936900",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA alínea b) do artigo 80.º do Código da Contribuição Industrial passa a ter a seguinte redacção:\n\nb) 35% sobre a parte do rendimento colectável superior a 3000000$00."
+  },
+  "163988388": {
+   "fragment_id": "163936901",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ considerada custo para efeitos de determinação do lucro tributável em contribuição industrial relativo aos exercícios de 1986, 1987 e 1988, a título de remuneração convencional do capital social, uma importância calculada com base no valor dos aumentos de capital realizados em 1986, por entregas em dinheiro, e mediante a aplicação de uma taxa igual à taxa de desconto do Banco de Portugal deduzida de quatro pontos."
+  },
+  "163988389": {
+   "fragment_id": "163936902",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO § 1.º do artigo 138.º do Código da Contribuição Industrial passa a ter a seguinte redacção:\n\n§ 1.º Destas decisões cabe recurso hierárquico para o Ministério das Finanças, a interpor no prazo de 30 dias."
+  },
+  "163988390": {
+   "fragment_id": "163936903",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O disposto no artigo 1.º só se aplica ao exercício de 1987 e seguintes, devendo os contribuintes que já exerçam a respectiva actividade apresentar a declaração modelo n.º 1 a que se refere o artigo 11.º do Código da Contribuição Industrial até 31 de Dezembro de 1986.\n\n2 - A nova redacção dada pelo artigo 2.º ao n.º 3.º do artigo 23.º do Código da Contribuição Industrial é aplicável aos exercícios de 1987 e seguintes.\n\n3 - A alteração introduzida pelo artigo 4.º no artigo 80.º do Código da Contribuição Industrial é aplicável à liquidação da contribuição industrial respeitante aos exercícios de 1985 e seguintes, com excepção da contribuição industrial relativa aos contribuintes que tenham cessado totalmente a actividade e que tenha sido já liquidada à data da entrada em vigor deste diploma."
+  },
+  "163988391": {
+   "fragment_id": "163936904",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO artigo 6.º do Decreto-Lei n.º 409/82, de 29 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 182/85, de 27 de Maio, passa a ter a seguinte redacção:\n\nArt. 6.º Os rendimentos de quaisquer títulos da dívida pública auferidos pelo Banco de Portugal não constituem proveitos ou ganhos para efeitos de tributação em contribuição industrial."
+  },
+  "163988383": {
+   "fragment_id": "163936896",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 182/86\n\nde 10 de Julho\n\nA isenção inserida no n.º 23.º do artigo 14.º do Código da Contribuição Industrial vem gerando desigualdades tributárias que importa eliminar, pois, tratando-se de um sector de actividade que presentemente evidencia a existência de elevados rendimentos, não faria sentido manterem-se estes à margem da tributação. Impõe-se, pois, pôr termo a esta anomalia.\n\nEntendeu-se também fixar em 10000000$00 o limite até ao qual os rendimentos provenientes de quaisquer títulos da dívida pública não ficam abrangidos pela tributação em contribuição industrial.\n\nReconhece-se, por outro lado, que é de toda a justiça desagravar um pouco a carga fiscal que actualmente impende sobre as empresas, o que se procura fazer reduzindo de 40% para 35% a segunda das taxas mencionadas no artigo 80.º do citado Código.\n\nPor último, julga-se oportuno incentivar o financiamento das empresas pela via do aumento de capital social através de entradas em numerário, considerando para o efeito como custo do exercício, a título de remuneração convencional daquele capital, a importância que resultar da aplicação aos aumentos do capital efectuados no exercício de 1986 de uma percentagem que se julgou dever ser igual à taxa de desconto do Banco de Portugal deduzida de quatro pontos.\n\nAssim:\n\nUsando da autorização legislativa concedida pelas alíneas a), b), f) e g) do n.º 1 e pelas alíneas a) e b) do n.º 2 do artigo 20.º da Lei n.º 9/86, de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "934788798": {
+   "fragment_id": "163936902",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1986-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 174/1986, 2º Suplemento, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301053), em vigor a partir de 1986-07-31"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO § 1.º do artigo 138.º do Código da Contribuição Industrial passa a ter a seguinte redacção:\n\n§ 1.º Destas decisões cabe recurso hierárquico para o Ministro das Finanças, a interpor no prazo de 30 dias.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 174/1986, 2º Suplemento, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301053), em vigor a partir de 1986-07-31"
+  },
+  "934788799": {
+   "fragment_id": "163936903",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1986-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 174/1986, 2º Suplemento, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301053), em vigor a partir de 1986-07-31"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - O disposto no artigo 1.º só se aplica ao exercício de 1987 e seguintes, devendo os contribuintes que já exerçam a respectiva actividade apresentar a declaração modelo n.º 1 a que se refere o artigo 111.º do Código da Contribuição Industrial até 31 de Dezembro de 1986.\n\n2 - A nova redacção dada pelo artigo 2.º ao n.º 3.º do artigo 23.º do Código da Contribuição Industrial é aplicável aos exercícios de 1987 e seguintes.\n\n3 - A alteração introduzida pelo artigo 4.º no artigo 80.º do Código da Contribuição Industrial é aplicável à liquidação da contribuição industrial respeitante aos exercícios de 1985 e seguintes, com excepção da contribuição industrial relativa aos contribuintes que tenham cessado totalmente a actividade e que tenha sido já liquidada à data da entrada em vigor deste diploma.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 174/1986, 2º Suplemento, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301053), em vigor a partir de 1986-07-31"
+  },
+  "163988392": {
+   "fragment_id": "163936905",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 26 de Junho de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Junho de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "937017167": {
+   "fragment_id": "163936897",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2021-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ revogado o n.º 23.º do artigo 14.º do Código da Contribuição Industrial.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+  },
+  "937017168": {
+   "fragment_id": "163936898",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO n.º 3.º do artigo 23.º do Código da Contribuição Industrial passa a ter a seguinte redacção:\n\n3.º Os rendimentos de bens ou valores mantidos para reserva ou fruição, excluindo os de quaisquer títulos da dívida pública na parte não excedente a 10000000$00 anuais.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+  },
+  "937017169": {
+   "fragment_id": "163936899",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2021-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+   ],
+   "markdown": "###### Artigo 3.º\n\nSão aditados ao artigo 54.º do Código da Contribuição Industrial dois parágrafos com a seguinte redacção:\n\n§ 4.º Exceptuando o caso da falta de escrita, confirmada pelos serviços de fiscalização, a mudança de tributação do grupo A para o grupo B só pode ter lugar mediante despacho nesse sentido proferido pelo Secretário de Estado para os Assuntos Fiscais, sobre proposta fundamentada do director-geral das Contribuições e Impostos.\n\n§ 5.º O despacho referido no parágrafo anterior só tem efeito no domínio da determinação da matéria colectável e é judicialmente impugnável.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+  },
+  "937017170": {
+   "fragment_id": "163936900",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2021-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+   ],
+   "markdown": "###### Artigo 4.º\n\nA alínea b) do artigo 80.º do Código da Contribuição Industrial passa a ter a seguinte redacção:\n\nb) 35% sobre a parte do rendimento colectável superior a 3000000$00.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+  },
+  "937017171": {
+   "fragment_id": "163936901",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2021-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+   ],
+   "markdown": "###### Artigo 5.º\n\nÉ considerada custo para efeitos de determinação do lucro tributável em contribuição industrial relativo aos exercícios de 1986, 1987 e 1988, a título de remuneração convencional do capital social, uma importância calculada com base no valor dos aumentos de capital realizados em 1986, por entregas em dinheiro, e mediante a aplicação de uma taxa igual à taxa de desconto do Banco de Portugal deduzida de quatro pontos.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+  },
+  "937017172": {
+   "fragment_id": "163936902",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2021-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23",
+    "Retificado pelo/a [Declaração - Diário da República n.º 174/1986, 2º Suplemento, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301053), em vigor a partir de 1986-07-31"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO § 1.º do artigo 138.º do Código da Contribuição Industrial passa a ter a seguinte redacção:\n\n§ 1.º Destas decisões cabe recurso hierárquico para O Ministro das Finanças, a interpor no prazo de 30 dias.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23\n\n> Retificado pelo/a [Declaração - Diário da República n.º 174/1986, 2º Suplemento, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301053), em vigor a partir de 1986-07-31"
+  },
+  "937017173": {
+   "fragment_id": "163936903",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2021-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23",
+    "Retificado pelo/a [Declaração - Diário da República n.º 174/1986, 2º Suplemento, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301053), em vigor a partir de 1986-07-31"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - O disposto no artigo 1.º só se aplica ao exercício de 1987 e seguintes, devendo os contribuintes que já exerçam a respectiva actividade apresentar a declaração modelo n.º 1 a que se refere o Artigo 111.º do Código da Contribuição Industrial até 31 de Dezembro de 1986.\n\n2 - A nova redacção dada pelo artigo 2.º ao n.º 3.º do artigo 23.º do Código da Contribuição Industrial é aplicável aos exercícios de 1987 e seguintes.\n\n3 - A alteração introduzida pelo artigo 4.º no artigo 80.º do Código da Contribuição Industrial é aplicável à liquidação da contribuição industrial respeitante aos exercícios de 1985 e seguintes, com excepção da contribuição industrial relativa aos contribuintes que tenham cessado totalmente a actividade e que tenha sido já liquidada à data da entrada em vigor deste diploma.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23\n\n> Retificado pelo/a [Declaração - Diário da República n.º 174/1986, 2º Suplemento, Série I de 1986-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301053), em vigor a partir de 1986-07-31"
+  },
+  "937017174": {
+   "fragment_id": "163936904",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2021-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+   ],
+   "markdown": "###### Artigo 8.º\n\nO artigo 6.º do Decreto-Lei n.º 409/82, de 29 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 182/85, de 27 de Maio, passa a ter a seguinte redacção:\n\nArt. 6.º Os rendimentos de quaisquer títulos da dívida pública auferidos pelo Banco de Portugal não constituem proveitos ou ganhos para efeitos de tributação em contribuição industrial.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+  },
+  "937046675": {
+   "fragment_id": "163936905",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 26 de Junho de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Junho de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23"
+  }
+ }
+}

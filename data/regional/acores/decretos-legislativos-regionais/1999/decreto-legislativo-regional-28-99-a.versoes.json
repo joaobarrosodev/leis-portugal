@@ -1,0 +1,1483 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:346705:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1999-128355826",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/28-1999-346705",
+ "source_lastmod": "2025-06-20",
+ "versions": [
+  {
+   "date": "1999-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "128056936",
+    "128056937",
+    "128056938",
+    "128056939",
+    "128056940",
+    "128056941",
+    "128056942",
+    "128056943",
+    "128056944",
+    "128056945",
+    "128056946",
+    "128056947",
+    "128056948",
+    "128056949",
+    "128056950",
+    "128056951",
+    "128056952",
+    "128056953",
+    "128056954",
+    "128056955",
+    "128056956",
+    "128056957",
+    "128056958",
+    "128056959",
+    "128056960",
+    "128056961",
+    "128056962",
+    "128056963",
+    "128056964",
+    "128056965",
+    "128056966",
+    "128056967",
+    "128056968",
+    "128056969",
+    "128056970",
+    "128056971",
+    "128056972",
+    "128056973",
+    "128056974",
+    "128398775",
+    "128398776",
+    "128398777",
+    "128398778",
+    "128398779",
+    "128398780",
+    "128398781",
+    "128398782",
+    "128398783",
+    "128398784",
+    "128398785",
+    "128398786",
+    "128398787",
+    "128398788",
+    "128398789",
+    "128398790",
+    "128398791",
+    "128398792",
+    "128398793",
+    "128398794",
+    "128398795",
+    "128398796",
+    "128398797",
+    "128398798",
+    "128398799",
+    "128398800",
+    "128398801",
+    "128398802",
+    "128398803",
+    "128398804",
+    "128398805",
+    "128398806"
+   ]
+  },
+  {
+   "date": "2003-12-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:468405:por",
+     "title": "Decreto Legislativo Regional n.º 41/2003/A",
+     "published": "2003-11-06",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/41-2003-468405"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "128056936",
+    "128056937",
+    "128056938",
+    "128056939",
+    "128056940",
+    "128056941",
+    "128056942",
+    "922168637",
+    "128056944",
+    "128056945",
+    "128056946",
+    "128056947",
+    "128056948",
+    "128056949",
+    "128056950",
+    "128056951",
+    "128056952",
+    "128056953",
+    "128056954",
+    "128056955",
+    "128056956",
+    "128056957",
+    "128056958",
+    "128056959",
+    "128056960",
+    "128056961",
+    "128056962",
+    "128056963",
+    "128056964",
+    "128056965",
+    "128056966",
+    "128056967",
+    "128056968",
+    "128056969",
+    "128056970",
+    "128056971",
+    "128056972",
+    "128056973",
+    "128056974",
+    "128398775",
+    "128398776",
+    "128398777",
+    "128398778",
+    "128398779",
+    "128398780",
+    "128398781",
+    "128398782",
+    "128398783",
+    "128398784",
+    "128398785",
+    "128398786",
+    "128398787",
+    "128398788",
+    "128398789",
+    "128398790",
+    "128398791",
+    "128398792",
+    "128398793",
+    "128398794",
+    "128398795",
+    "128398796",
+    "128398797",
+    "128398798",
+    "128398799",
+    "128398800",
+    "128398801",
+    "128398802",
+    "128398803",
+    "128398804",
+    "922107460",
+    "128398806",
+    "128398807"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:522648:por",
+     "title": "Decreto Legislativo Regional n.º 2/2007/A",
+     "published": "2007-01-24",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2007-522648",
+     "date": "2007-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2010-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:459947:por",
+     "title": "Decreto Legislativo Regional n.º 1/2010/A",
+     "published": "2010-01-04",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2010-459947"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 48.º-A",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "128056936",
+    "128056937",
+    "128056938",
+    "128056939",
+    "128056940",
+    "128056941",
+    "922311479",
+    "922311480",
+    "922311481",
+    "128056945",
+    "922311482",
+    "922311502",
+    "922311513",
+    "922311524",
+    "922311535",
+    "922311546",
+    "922311557",
+    "922311570",
+    "922311559",
+    "922404837",
+    "922404843",
+    "922311562",
+    "922404844",
+    "922311564",
+    "922311565",
+    "922311566",
+    "922311567",
+    "128056957",
+    "922311488",
+    "128056959",
+    "922311568",
+    "128056960",
+    "128056961",
+    "128056962",
+    "128056963",
+    "128056964",
+    "922311489",
+    "128056966",
+    "922311490",
+    "128056968",
+    "128056969",
+    "128056970",
+    "128056971",
+    "922311491",
+    "128056973",
+    "128056974",
+    "128398775",
+    "128398776",
+    "128398777",
+    "922311492",
+    "922311493",
+    "128398780",
+    "128398781",
+    "128398782",
+    "922311494",
+    "128398784",
+    "128398785",
+    "128398786",
+    "922311495",
+    "922311496",
+    "128398789",
+    "128398790",
+    "922404838",
+    "922404839",
+    "922404840",
+    "922404842",
+    "128398794",
+    "128398795",
+    "128398796",
+    "922311499",
+    "128398798",
+    "922311571",
+    "922311500",
+    "128398801",
+    "128398802",
+    "922311501",
+    "128398804",
+    "922107460",
+    "128398806",
+    "128398807"
+   ]
+  },
+  {
+   "date": "2020-01-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:128355822:por",
+     "title": "Decreto Legislativo Regional n.º 4/2020/A",
+     "published": "2020-01-22",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/4-2020-128355822"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "128056936",
+    "128056937",
+    "128056938",
+    "128056939",
+    "128056940",
+    "128056941",
+    "922311479",
+    "922311480",
+    "922311481",
+    "128056945",
+    "922311482",
+    "922311502",
+    "922311513",
+    "922311524",
+    "922311535",
+    "922311546",
+    "922311557",
+    "922311570",
+    "922311559",
+    "922404837",
+    "922404843",
+    "922311562",
+    "922404844",
+    "922311564",
+    "922311565",
+    "922311566",
+    "922311567",
+    "128056957",
+    "922311488",
+    "128056959",
+    "922311568",
+    "128056960",
+    "128056961",
+    "128056962",
+    "128056963",
+    "128056964",
+    "922311489",
+    "128056966",
+    "922311490",
+    "128056968",
+    "922454487",
+    "128056970",
+    "128056971",
+    "922311491",
+    "128056973",
+    "128056974",
+    "128398775",
+    "128398776",
+    "128398777",
+    "922311492",
+    "922311493",
+    "128398780",
+    "128398781",
+    "128398782",
+    "922311494",
+    "128398784",
+    "128398785",
+    "128398786",
+    "922311495",
+    "922311496",
+    "128398789",
+    "128398790",
+    "922404838",
+    "922404839",
+    "922404840",
+    "922404842",
+    "128398794",
+    "128398795",
+    "128398796",
+    "922311499",
+    "128398798",
+    "922311571",
+    "922311500",
+    "128398801",
+    "128398802",
+    "922311501",
+    "128398804",
+    "922107460",
+    "128398806",
+    "128398807"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:203457551:por",
+     "title": "Decreto Legislativo Regional n.º 26/2022/A",
+     "published": "2022-11-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2022-203457551"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "128056936",
+    "128056937",
+    "128056938",
+    "128056939",
+    "128056940",
+    "128056941",
+    "922311479",
+    "922311480",
+    "922311481",
+    "128056945",
+    "922311482",
+    "922311502",
+    "922311513",
+    "922311524",
+    "922311535",
+    "922311546",
+    "922311557",
+    "922311570",
+    "922311559",
+    "922404837",
+    "922404843",
+    "922311562",
+    "922404844",
+    "922311564",
+    "922311565",
+    "922311566",
+    "922311567",
+    "128056957",
+    "922311488",
+    "128056959",
+    "922311568",
+    "128056960",
+    "128056961",
+    "128056962",
+    "128056963",
+    "128056964",
+    "922311489",
+    "128056966",
+    "922311490",
+    "128056968",
+    "922571066",
+    "128056970",
+    "128056971",
+    "922311491",
+    "128056973",
+    "128056974",
+    "128398775",
+    "128398776",
+    "128398777",
+    "922311492",
+    "922311493",
+    "128398780",
+    "128398781",
+    "128398782",
+    "922311494",
+    "128398784",
+    "128398785",
+    "128398786",
+    "922311495",
+    "922311496",
+    "128398789",
+    "128398790",
+    "922404838",
+    "922404839",
+    "922404840",
+    "922404842",
+    "128398794",
+    "128398795",
+    "128398796",
+    "922311499",
+    "128398798",
+    "922311571",
+    "922311500",
+    "128398801",
+    "128398802",
+    "922311501",
+    "128398804",
+    "922107460",
+    "128398806",
+    "128398807"
+   ]
+  }
+ ],
+ "fragments": {
+  "128056936": {
+   "fragment_id": "128355827",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 28/99/A\n\nEstatuto do Serviço Regional de Saúde dos Açores (organização e funcionamento dos serviços de saúde da Região Autónoma dos Açores).\n\nCriado pelo Decreto Regulamentar Regional n.º 32/80/A, de 11 de Dezembro, o Serviço Regional de Saúde, após quase duas décadas de funcionamento, apresenta claras disfunções que urge corrigir, ao mesmo tempo que se lhe introduzem as modificações resultantes dos princípios estabelecidos pela Lei de Bases da Saúde, Lei n.º 48/90, de 24 de Agosto, a qual tem sido objecto de desenvolvimentos legislativos ao nível da administração central.\n\nÉ competência da Região Autónoma dos Açores o desenvolvimento legislativo, em matéria de interesse específico, das leis de base na matéria do Serviço Nacional de Saúde [Constituição da República, artigo 227.º, n.º 1, alínea c), e artigo 165.º, n.º 1, alínea f)].\n\nAssim, considerando o disposto na base VIII da Lei n.º 48/90, de 24 de Agosto, a qual reconhece aos órgãos de governo próprio das Regiões Autónomas a competência para definir e executar a política de saúde nos respectivos territórios, está criado o enquadramento para o desenvolvimento legislativo regional dos princípios estabelecidos pela mesma Lei de Bases da Saúde e pelo Sistema Nacional de Saúde por ela criado.\n\nProcura-se agora, e num quadro de inteiro respeito pelos princípios estabelecidos pela Constituição da República, pelo Estatuto Político-Administrativo da Região Autónoma dos Açores e pela Lei de Bases da Saúde, levar por diante essa intenção, integrando matérias como as referentes à autoridade de saúde, ao plano regional de saúde e à deslocação de doentes e de técnicos de saúde, procurando um maior equilíbrio e integração entre as diversas unidades de saúde e uma maior adequação do sistema às especificidades da Região.\n\nAs modificações introduzidas reforçam a garantia de acessibilidade, qualidade e compreensividade dos cuidados de saúde, promovendo modelos de organização dos cuidados adequados à realidade geográfica da Região Autónoma dos Açores e de gestão descentralizada e participada que, sem preocupações de cariz exclusivamente economicista, mas buscando a maior racionalização da utilização dos recursos disponibilizados, promovam significativamente a obtenção de ganhos em saúde para as populações.\n\nPreocupações que, determinando a necessidade de alterações na filosofia do Serviço Regional de Saúde, aconselham a introdução de algumas modificações estruturais e funcionais, a fim de reforçar a sua compatibilidade com a Lei de Bases da Saúde e com a realidade geográfica e demográfica da Região Autónoma dos Açores.\n\nPor ser uma região por excelência arquipelágica, onde os fenómenos da insularidade se sentem com grande acuidade, a realidade «ilha» assume nos Açores particular importância. Face à penosidade e aos custos envolvidos nas deslocações interilhas, a estrutura do Serviço Regional de Saúde deve adequar-se a essa realidade e procurar dar localmente o máximo de respostas às necessidades de saúde dos seus utentes, ou seja, seguir, na medida do possível, uma estratégia de tendencial auto-suficiência na prestação de cuidados de saúde ao nível de cada ilha.\n\nNeste contexto é importante revalorizar a ilha enquanto unidade base da organização, administração e prestação de cuidados e criar condições para a definição da extensão mínima de cuidados que devem ser assegurados e clarificar a coordenação entre unidades de saúde a esse nível.\n\nPor outro lado, pretendeu-se criar órgãos consultivos que permitam a efectiva participação das populações no processo de decisão que envolve a prestação de cuidados de saúde a nível de cada ilha e, mais generalizadamente, na definição da política de saúde a nível regional.\n\nA maior diversidade e especialização de cuidados de saúde, que caracteriza as ilhas com hospital, justifica a existência de um órgão de apoio e consulta com competência para se pronunciar sobre questões de ordem técnica. Do mesmo modo, nestas ilhas a complexidade na rede de relações entre as diferentes instituições é mais vincada e aconselha a implementar-se a nova filosofia do Serviço Regional de Saúde com carácter gradualista, prevendo-se um período de transição propiciador às necessárias adaptações das estruturas, de molde a garantir o sucesso das inovações a introduzir.\n\nAssim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea c) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea e) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma, o seguinte:\n\n> Nota: [Artigo 20.º, Decreto Legislativo Regional n.º 41/2003/A - Diário da República n.º 257/2003, Série I-A de 2003-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2003-468405) As referências feitas à IGFS no presente diploma consideram-se feitas à SAUDAÇOR."
+  },
+  "128056937": {
+   "fragment_id": "128355828",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e objectivo"
+  },
+  "128056938": {
+   "fragment_id": "128355829",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Serviço Regional de Saúde da Região Autónoma dos Açores, adiante designado por SRS, é um conjunto articulado e coordenado de entidades prestadoras de cuidados de saúde, organizado sob a forma de sistema público de saúde.\n\n2 - No exercício das funções de tutela, a Secretaria Regional competente, através dos seus serviços adequados, exerce em relação ao Serviço Regional de Saúde funções de regulamentação, orientação, planeamento, avaliação e inspecção."
+  },
+  "128056939": {
+   "fragment_id": "128355830",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO estabelecido no presente diploma aplica-se a todas as instituições e serviços que constituem o Serviço Regional de Saúde, bem como às entidades particulares e aos profissionais de saúde em regime liberal integrados na rede de prestação de cuidados de saúde, quando articuladas com o Serviço Regional de Saúde."
+  },
+  "128056940": {
+   "fragment_id": "128355831",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivo\n\nIncumbe ao SRS a efectivação, na Região Autónoma dos Açores, da responsabilidade que a Constituição e a lei atribuem aos seus órgãos de governo próprio na promoção e protecção das condições de saúde dos indivíduos, famílias e comunidade."
+  },
+  "128056941": {
+   "fragment_id": "128355832",
+   "type": 1,
+   "heading": "Capítulo II — Organização, gestão e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização, gestão e funcionamento"
+  },
+  "128056942": {
+   "fragment_id": "128355833",
+   "type": 11,
+   "heading": "Artigo 4.º — Da organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Da organização\n\n1 - São órgãos operativos do SRS as unidades de saúde de ilha.\n\n2 - O SRS disporá de um órgão consultivo designado por Conselho Regional de Saúde.\n\n3 - As funções de gestão financeira e de planeamento global das infra-estruturas são cometidas ao Instituto de Gestão Financeira da Saúde (IGFS).\n\n4 - As funções de auditoria técnica e de inspecção são cometidas à Inspecção Regional de Saúde."
+  },
+  "128056943": {
+   "fragment_id": "128355834",
+   "type": 11,
+   "heading": "Artigo 5.º — Das funções dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Das funções dos órgãos\n\n1 - Sem prejuízo da promoção da complementaridade entre as unidades de saúde de ilha e entre as diversas entidades prestadoras de cuidados de saúde que as integram, o secretário regional da tutela fixará, por portaria, a extensão da intervenção no plano técnico de cada unidade de saúde, de modo a permitir uma tendencial auto-suficiência na prestação de cuidados em cada ilha e a nível regional, garantindo a optimização da utilização dos recursos, introduzindo normas orientadoras do desenvolvimento e fomentando a acessibilidade no âmbito do SRS.\n\n2 - Sem prejuízo do disposto no número anterior, sempre que do ponto de vista tecnológico ou dos recursos tal se justifique, por portaria do secretário regional da tutela serão estabelecidas para especialidades ou áreas bem definidas entidades prestadoras de cuidados de referência, a nível regional ou sub-regional, para as quais se procederá ao encaminhamento das situações que o justifiquem.\n\n3 - O Conselho Regional de Saúde será um órgão consultivo e de participação do SRS.\n\n4 - O IGFS exerce as suas competências no domínio da gestão financeira e do planeamento global das infra-estruturas de saúde, relacionando-se com as unidades de saúde através de contratos-programa, fixando o financiamento a atribuir por parte do orçamento regional de acordo com as metas de prestação de cuidados a que cada unidade se obriga.\n\n5 - A Inspecção Regional de Saúde é o serviço da secretaria regional da tutela cuja actividade se desenvolve no domínio da auditoria técnica, da inspecção e da fiscalização do cumprimento das normas relativas ao sistema de saúde da Região, gozando, no exercício das suas competências, de autonomia técnica e de independência nos termos do respectivo estatuto, a aprovar por decreto regulamentar regional."
+  },
+  "128056944": {
+   "fragment_id": "128355835",
+   "type": 11,
+   "heading": "Artigo 6.º — Das unidades de saúde de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Das unidades de saúde de ilha\n\n1 - A unidade de saúde de ilha (USI) é uma estrutura de planeamento, coordenação e prestação de cuidados integrados de saúde, assumindo a natureza de sistema local de saúde.\n\n2 - No exercício das suas atribuições, as USI são dotadas de autonomia administrativa e financeira, nos termos da lei, dispondo de um conselho de administração e de um conselho consultivo próprios.\n\n3 - As USI com hospital disporão ainda de um conselho técnico.\n\n4 - A USI organiza-se como unidade funcional de prestação de cuidados de saúde, sendo constituída por todas as entidades prestadoras de cuidados de saúde do sector público da respectiva ilha, podendo integrar centros de saúde, hospitais e serviços especializados.\n\n5 - Nas ilhas onde haja uma única entidade prestadora de cuidados de saúde, a USI assumirá directamente as funções de centro de saúde, não havendo lugar à existência deste.\n\n6 - O SRS compreenderá as seguintes USI:\n\na) A Unidade de Saúde de Santa Maria;\n\nb) A Unidade de Saúde de São Miguel, que compreenderá os Centros de Saúde de Lagoa, Nordeste, Ponta Delgada, Povoação, Ribeira Grande e Vila Franca do Campo e o Hospital de Ponta Delgada;\n\nc) A Unidade de Saúde da Terceira, que compreenderá os Centros de Saúde de Angra do Heroísmo e da Praia da Vitória, o Hospital de Santo Espírito de Angra do Heroísmo e o Centro de Oncologia Professor José Conde;\n\nd) A Unidade de Saúde da Graciosa;\n\ne) A Unidade de Saúde de São Jorge, que compreenderá os Centros de Saúde de Calheta e Velas;\n\nf) A Unidade de Saúde do Pico, que compreenderá os Centros de Saúde de Lajes, Madalena e São Roque;\n\ng) A Unidade de Saúde do Faial, que compreenderá o Centro de Saúde da Horta e o Hospital da Horta;\n\nh) A Unidade de Saúde das Flores;\n\ni) A Unidade de Saúde do Corvo.\n\n7 - Cada unidade de saúde disporá de orgânica própria, aprovada por decreto regulamentar regional, adequada à sua dimensão e às características da população a servir.\n\n8 - O diploma referido no número anterior definirá igualmente níveis adequados de autonomia administrativa e financeira às instituições de saúde que integram a USI."
+  },
+  "128056945": {
+   "fragment_id": "128355836",
+   "type": 11,
+   "heading": "Artigo 7.º — Dos centros de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dos centros de saúde\n\n1 - Aos centros de saúde incumbe a prestação de cuidados de saúde essenciais aos utentes residentes na respectiva área de influência.\n\n2 - Aos centros de saúde também pode incumbir a prestação de cuidados de saúde diferenciados.\n\n3 - Os centros de saúde gozam de autonomia técnica na prestação de cuidados de saúde aos seus utentes, sendo dotados de direcção clínica e de enfermagem próprias.\n\n4 - Os centros de saúde têm base concelhia, excepto quando a realidade demográfica e geográfica o não justifique, tendo dimensão e estrutura adequadas à população a servir, podendo dispor ou não de serviços de internamento."
+  },
+  "128056946": {
+   "fragment_id": "128355837",
+   "type": 11,
+   "heading": "Artigo 8.º — Dos hospitais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dos hospitais\n\n1 - Aos hospitais incumbe a prestação de cuidados de saúde diferenciados aos utentes que lhes sejam referenciados por outras entidades prestadoras de cuidados de saúde, ou a eles recorram directamente.\n\n2 - Os hospitais gozam de autonomia técnica na prestação de cuidados de saúde aos seus utentes, sendo dotados de direcção clínica e de enfermagem próprias.\n\n3 - Os hospitais podem integrar na sua orgânica unidades dotadas de autonomia técnica, mesmo quando estas não revistam a natureza de unidades prestadoras de cuidados de saúde.\n\n4 - Da orgânica das USI que integrem hospitais constarão os departamentos e serviços que funcionarão em cada hospital.\n\n5 - Da orgânica referida no número anterior constará também o modelo de gestão financeira do hospital e a articulação das funções de administrador-delegado, se o houver, com as competências do conselho de administração da USI.\n\n6 - Ao administrador-delegado cabe executar deliberações do conselho de administração da USI, nomeadamente de natureza administrativa e de gestão, articulando a sua actuação com os órgãos de direcção técnica das entidades prestadoras de cuidados de saúde do sector público da respectiva ilha."
+  },
+  "128056947": {
+   "fragment_id": "128355838",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências dos órgãos de direcção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências dos órgãos de direcção técnica\n\n1 - À direcção clínica compete, designadamente, promover o funcionamento harmonioso das valências clínicas, coordenar e orientar a prestação de cuidados médicos para garantir a acessibilidade dos utentes aos serviços de saúde e zelar pela qualidade desses actos praticados na instituição.\n\n2 - À direcção de enfermagem compete, designadamente, orientar e coordenar a prestação de cuidados de enfermagem, zelando pela correcção e pela qualidade técnica e humana desses cuidados prestados na instituição."
+  },
+  "128056948": {
+   "fragment_id": "128355839",
+   "type": 11,
+   "heading": "Artigo 10.º — Dos serviços especializados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dos serviços especializados\n\n1 - Para a prestação de cuidados de saúde específicos, ou para a prossecução de funções complementares da prestação de cuidados de saúde, podem ser criados, nas USI, serviços especializados dotados de autonomia técnica.\n\n2 - O Centro de Oncologia Professor José Conde reveste a natureza de serviço especializado nos termos do número anterior."
+  },
+  "128056949": {
+   "fragment_id": "128355840",
+   "type": 11,
+   "heading": "Artigo 11.º — Do conselho de administração das unidades de saúde de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Do conselho de administração das unidades de saúde de ilha\n\n1 - O conselho de administração das USI será integrado, em regra, por um presidente e dois vogais.\n\n2 - O presidente é nomeado pelo secretário regional da tutela, ouvido o conselho consultivo da USI, de entre profissionais com habilitação adequada, em termos a regulamentar no diploma que aprove a orgânica da respectiva USI.\n\n3 - Os vogais são nomeados pelo secretário regional que tutela a saúde, sob proposta do presidente do conselho de administração, sendo um de entre médicos e técnicos superiores de saúde e o outro de entre enfermeiros e técnicos de diagnóstico e terapêutica.\n\n4 - Nas USI onde haja uma única entidade prestadora de cuidados de saúde, os vogais do conselho de administração assumem as funções de direcção clínica e de enfermagem, sendo eleitos, obrigatoriamente, de entre profissionais das carreiras médica e de enfermagem, quando qualquer dos colégios eleitorais seja superior a cinco elementos e, no caso de tal se não verificar, o vogal respectivo será cooptado pelo presidente do conselho de administração.\n\n5 - Nas USI cuja dimensão o justifique poderá a respectiva orgânica determinar a inclusão no conselho de administração de um administrador-delegado com funções de superintendência administrativa.\n\n6 - Nas USI cuja dimensão o justifique poderá a respectiva orgânica determinar a inclusão no conselho de administração de dois vogais não executivos.\n\n7 - O conselho de administração, através do presidente, disporá de competências delegadas ou subdelegadas pelo director regional de Saúde e incumbir-lhe-á, dentro das linhas orientadoras definidas para o SRS pelos órgãos para tal competentes, para além da propositura das medidas que julgar mais adequadas à melhor utilização dos recursos disponíveis na unidade e ao mais correcto funcionamento dos serviços aí sediados, desenvolver funções de planeamento e coordenação dos serviços de saúde que a integrarem, bem como a avaliação sistemática da actividade ali desenvolvida.\n\n8 - O conselho de administração será apoiado por uma estrutura administrativa e, no plano técnico, para além do apoio que lhe deverá ser prestado pelos serviços da Direcção Regional de Saúde, quando solicitado, poderá afectar à sua estrutura de apoio os técnicos necessários ao desempenho das suas funções."
+  },
+  "128056950": {
+   "fragment_id": "128355841",
+   "type": 11,
+   "heading": "Artigo 12.º — Dos vogais não executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Dos vogais não executivos\n\n1 - Os vogais não executivos são designados de entre os titulares dos órgãos de direcção técnica das instituições da respectiva USI, sendo um da área clínica e um da área de enfermagem.\n\n2 - Compete ao conselho técnico, nas USI que o possuam, designar os vogais não executivos."
+  },
+  "128056951": {
+   "fragment_id": "128355842",
+   "type": 11,
+   "heading": "Artigo 13.º — Do conselho consultivo das unidades de saúde de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Do conselho consultivo das unidades de saúde de ilha\n\n1 - Como órgão de participação junto do conselho de administração de cada USI, existirá um conselho consultivo que reunirá anualmente ou extraordinariamente por convocatória do seu presidente, e a quem competirá pronunciar-se, por iniciativa própria ou a solicitação dos órgãos de tutela do SRS, sobre o funcionamento dos serviços de saúde na ilha, designadamente sobre os seus planos de actividade e relatórios e sobre quaisquer outras matérias relacionadas com os serviços de saúde.\n\n2 - O conselho consultivo terá a seguinte composição:\n\na) Dois representantes de cada uma das assembleias municipais da ilha, por elas designados;\n\nb) O presidente de cada uma das câmaras municipais existentes na ilha, ou quem por ele for designado;\n\nc) Um representante de cada uma das misericórdias com sede na ilha, por essas entidades designado;\n\nd) Um representante das instituições particulares de solidariedade social sediadas na ilha, por elas designado;\n\ne) O presidente do conselho de administração da USI;\n\nf) Os vogais do conselho de administração da USI.\n\n3 - O conselho elege o seu presidente, por voto secreto, de entre os seus membros que não sejam funcionários do SRS.\n\n4 - O presidente disporá de voto de qualidade."
+  },
+  "128056952": {
+   "fragment_id": "128355843",
+   "type": 11,
+   "heading": "Artigo 14.º — Do conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Do conselho técnico\n\n1 - O conselho técnico é um órgão de consulta e de apoio técnico, competindo-lhe designadamente cooperar com o conselho de administração da USI e com as direcções técnicas das entidades prestadoras de cuidados de saúde, pronunciando-se por iniciativa própria ou por solicitação daqueles órgãos sobre as matérias da sua competência, nomeadamente visando fomentar a articulação entre as entidades prestadoras de cuidados de saúde, harmonizar a actividade dos diferentes prestadores de cuidados e estimular a eficiência na utilização dos recursos humanos e financeiros disponíveis numa lógica de optimização, por forma a promover uma actuação técnica dentro de parâmetros de qualidade, no respeito pelos princípios da ética e da deontologia.\n\n2 - O conselho técnico tem a seguinte composição:\n\na) Presidente do conselho de administração da USI;\n\nb) Vogais do conselho de administração da USI;\n\nc) Administrador-delegado, quando existir, de acordo com o disposto no n.º 5 do artigo 11.º;\n\nd) Director clínico do hospital;\n\ne) Director de enfermagem do hospital;\n\nf) Director clínico de cada um dos centros de saúde da USI;\n\ng) Director de enfermagem de cada um dos centros de saúde da USI;\n\nh) Órgãos de direcção técnica de cada um dos serviços especializados existentes na USI;\n\ni) Um representante dos técnicos superiores de saúde;\n\nj) Um representante dos técnicos de diagnóstico e terapêutica;\n\nl) Um representante dos técnicos superiores de serviço social;\n\nm) O delegado de saúde de ilha."
+  },
+  "128056953": {
+   "fragment_id": "128355844",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamento das unidades de saúde de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamento das unidades de saúde de ilha\n\n1 - O regulamento das USI será elaborado pelo conselho de administração, ouvidos o conselho consultivo e o conselho técnico, e homologado por despacho do director regional de Saúde.\n\n2 - O regulamento incluirá, entre outras matérias, os horários de funcionamento das diversas valências e as regras gerais de relacionamento entre os utentes e os serviços."
+  },
+  "128056954": {
+   "fragment_id": "128355845",
+   "type": 11,
+   "heading": "Artigo 16.º — Do Conselho Regional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Do Conselho Regional de Saúde\n\n1 - No Conselho Regional de Saúde estarão representadas as entidades interessadas no funcionamento das instituições prestadoras de cuidados de saúde da Região.\n\n2 - O Conselho terá a seguinte composição:\n\na) O Secretário Regional da Educação e Assuntos Sociais, que presidirá;\n\nb) O director regional da Saúde;\n\nc) O director regional da Solidariedade e Segurança Social ou quem ele designar;\n\nd) Um representante de cada uma das associações de utentes dos serviços de saúde que exerçam actividade na Região;\n\ne) Um representante de cada uma das associações de consumidores que exerçam actividade na Região;\n\nf) Um representante das instituições particulares de solidariedade social, designado pela sua associação regional;\n\ng) Um representante das santas casas da misericórdia, designado pela sua união regional;\n\nh) Um representante dos órgãos de comunicação social;\n\ni) Um representante de cada uma das ordens de profissionais de saúde;\n\nj) Um representante de cada uma das centrais sindicais;\n\nl) Um representante da Universidade dos Açores;\n\nm) Um representante de cada uma das escolas superiores de enfermagem da Região;\n\nn) Um representante da Associação Portuguesa dos Médicos de Clínica Geral - Delegação dos Açores.\n\n3 - As competências, o regime de funcionamento e o modo de designação dos membros do CRS serão estabelecidos por decreto regulamentar regional."
+  },
+  "128056955": {
+   "fragment_id": "128355846",
+   "type": 11,
+   "heading": "Artigo 17.º — Aprovação dos planos e programas de acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aprovação dos planos e programas de acção\n\n1 - Os planos e programas de acção de âmbito regional são aprovados por despacho do secretário regional da tutela, ouvido o Conselho Regional de Saúde.\n\n2 - Os planos e programas das diferentes entidades que integram o SRS são aprovados nos termos dos respectivos regulamentos."
+  },
+  "128056956": {
+   "fragment_id": "128355847",
+   "type": 11,
+   "heading": "Artigo 18.º — Princípios de gestão das instituições e dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Princípios de gestão das instituições e dos serviços\n\n1 - A gestão das entidades mencionadas no artigo 6.º deverá obedecer aos seguintes requisitos:\n\na) A participação financeira da Região será estabelecida com base em planos financeiros sectoriais no quadro do seu planeamento geral;\n\nb) Os planos financeiros sectoriais devem, tendencialmente, abranger períodos plurianuais com base em programas propostos pelas entidades prestadoras de cuidados de saúde, ouvido o conselho consultivo e o conselho técnico da USI;\n\nc) Depois de prévia negociação com o IGFS e aprovação pelo secretário regional da tutela, os planos de financiamento são formalizados nos termos do n.º 4 do artigo 5.º do presente diploma;\n\nd) Os membros dos órgãos de gestão são responsáveis pelo cumprimento da lei e pela realização dos objectivos e metas constantes dos planos e programas aprovados.\n\n2 - As USI e o IGFS podem estabelecer contratos com outras entidades, designadamente com empresas e profissionais de saúde em regime liberal para prestação de cuidados de saúde aos utentes e beneficiários do SRS.\n\n3 - Quando o interesse público o exija, nomeadamente em situações de urgência na instalação de serviços, por resolução do Conselho do Governo podem as USI ser autorizadas, por períodos determinados, a reger as suas relações com terceiros no âmbito da aquisição de bens e serviços, por regras de direito privado."
+  },
+  "128056957": {
+   "fragment_id": "128355848",
+   "type": 1,
+   "heading": "Capítulo III — Articulação entre unidades de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Articulação entre unidades de saúde"
+  },
+  "128056958": {
+   "fragment_id": "128355849",
+   "type": 11,
+   "heading": "Artigo 19.º — Comissão de Coordenação Inter-Hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comissão de Coordenação Inter-Hospitalar\n\n1 - Por forma a garantir a coordenação da actividade das unidades hospitalares que integram o SRS funcionará uma Comissão de Coordenação Inter-Hospitalar, com a seguinte composição:\n\na) O director regional de Saúde, que preside, ou quem ele designar;\n\nb) O presidente do conselho de administração das USI que incluam hospitais;\n\nc) O director clínico de cada um dos hospitais;\n\nd) O enfermeiro-director de cada um dos hospitais.\n\n2 - Compete à Comissão, nomeadamente:\n\na) Pronunciar-se, obrigatoriamente, sobre a criação, modificação ou extinção de qualquer serviço ou valência em qualquer dos hospitais;\n\nb) Propor os regulamentos necessários ao encaminhamento dos utentes entre as unidades hospitalares integradas no SRS e entre estas e as unidades de saúde nacionais e estrangeiras que recebam utentes do SRS;\n\nc) Propor os regulamentos necessários para um adequado encaminhamento inter-hospitalar dos utentes que sejam referenciados por outras entidades prestadoras de cuidados de saúde;\n\nd) Propor, para os efeitos do n.º 2 do artigo 5.º, a definição da rede de entidades prestadoras de cuidados de referência;\n\ne) Colaborar na elaboração do plano regional de saúde na vertente hospitalar;\n\nf) Dar parecer sobre os quadros de pessoal das unidades hospitalares;\n\ng) Propor e executar medidas de coordenação das actividades dos hospitais da Região;\n\nh) Dar parecer sobre as propostas de orçamento das unidades hospitalares;\n\ni) Manter actualizada, no que respeita aos hospitais, a carta sanitária da Região."
+  },
+  "128056959": {
+   "fragment_id": "128355850",
+   "type": 11,
+   "heading": "Artigo 20.º — Coordenação entre unidades de saúde de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Coordenação entre unidades de saúde de ilha\n\n1 - Por forma a garantir a coordenação da actividade das unidades de saúde de ilha funcionará uma comissão de coordenação do SRS com a seguinte composição:\n\na) O director regional de Saúde, que preside, ou quem ele designar;\n\nb) O presidente do conselho de administração de cada uma das unidades de saúde de ilha.\n\n2 - Compete à comissão de coordenação do SRS, nomeadamente:\n\na) Coordenar a articulação da actividade das diversas USI;\n\nb) Definir as regras de encaminhamento dos utentes entre as diversas entidades prestadoras de cuidados de saúde;\n\nc) Colaborar na preparação do plano regional de saúde;\n\nd) Pronunciar-se sobre os quadros de pessoal das USI;\n\ne) Pronunciar-se sobre os orçamentos das USI;\n\nf) Pronunciar-se sobre a evacuação de doentes e sobre as estruturas de emergência médica;\n\ng) Coordenar a actualização permanente da carta sanitária da Região."
+  },
+  "128056960": {
+   "fragment_id": "128355851",
+   "type": 1,
+   "heading": "Capítulo IV — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Recursos humanos"
+  },
+  "128056961": {
+   "fragment_id": "128355852",
+   "type": 11,
+   "heading": "Artigo 21.º — Política de recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Política de recursos humanos\n\nA política de recursos humanos é aprovada pelo Governo Regional através da aprovação, por decreto regulamentar regional, dos quadros de pessoal de cada USI e da criação dos necessários mecanismos de contingentação no preenchimento das vagas criadas."
+  },
+  "128056962": {
+   "fragment_id": "128355853",
+   "type": 11,
+   "heading": "Artigo 22.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pessoal\n\n1 - Sem prejuízo de situações associadas à realização de experiências inovadoras de gestão previstas no n.º 1 da base XXXVI da Lei n.º 48/90, de 24 de Agosto, é aplicável ao pessoal do SRS o regime dos funcionários e agentes da administração pública regional.\n\n2 - Para ocorrer a situações de urgente necessidade, pode o secretário regional da tutela autorizar a admissão de pessoal por períodos de seis meses, com sujeição ao regime geral do contrato individual de trabalho, renovável por igual período, até ao máximo de dois anos.\n\n3 - O número de contratos de trabalho a termo certo celebrados nos termos do número anterior não pode em caso algum exceder um terço dos efectivos globais da unidade de saúde, em exercício de funções à data de apresentação da proposta."
+  },
+  "128056963": {
+   "fragment_id": "128355854",
+   "type": 11,
+   "heading": "Artigo 23.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Incompatibilidades\n\n1 - Aos profissionais dos quadros do SRS é permitido, nos termos da lei, o exercício de actividade privada.\n\n2 - Em qualquer caso, o exercício de actividade fora do SRS ocorrerá em observância dos princípios da compatibilidade de horário, do não comprometimento da isenção e da imparcialidade do funcionário ou agente e da inexistência de prejuízo efectivo para o interesse público."
+  },
+  "128056964": {
+   "fragment_id": "128355855",
+   "type": 11,
+   "heading": "Artigo 24.º — Incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Incentivos\n\n1 - Com o objectivo de promover o recrutamento e a fixação de profissionais de saúde qualificados, pode o Governo Regional definir, por decreto regulamentar regional, esquemas de incentivos de carácter remuneratório e não remuneratório.\n\n2 - Os esquemas de incentivos podem incluir, nomeadamente:\n\na) Concessão de bolsas específicas para formação inicial, pós-graduada e de aperfeiçoamento profissional;\n\nb) Incentivos financeiros à fixação em determinadas ilhas ou concelhos.\n\n3 - Os incentivos de carácter remuneratório não podem ter duração superior a cinco anos, sem prejuízo de serem renovados.\n\n4 - Os esquemas de incentivos que envolvem bonificações à contagem de tempo de serviço para progressão nas categorias e carreiras ou para aposentação serão definidos em diploma próprio."
+  },
+  "128056965": {
+   "fragment_id": "128355856",
+   "type": 11,
+   "heading": "Artigo 25.º — Mobilidade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Mobilidade profissional\n\n1 - O secretário regional da tutela pode autorizar, com fundamento em razões de interesse público, que o pessoal com relação jurídica de emprego na Administração Pública, que confira a qualidade de funcionário ou agente, seja contratado por entidades privadas enquadradas no sistema de saúde, sem perda de vínculo, desde que esse pessoal manifeste por escrito a sua concordância.\n\n2 - A mobilidade do pessoal a que se refere o número anterior só pode efectuar-se por requisição ou licença sem vencimento.\n\n3 - A requisição rege-se pelo estabelecido na lei para o pessoal com relação jurídica de emprego público.\n\n4 - A licença sem vencimento rege-se, com as necessárias adaptações, pelo disposto quanto às licenças de longa duração para o pessoal com relação jurídica de emprego público."
+  },
+  "128056966": {
+   "fragment_id": "128355857",
+   "type": 11,
+   "heading": "Artigo 26.º — Licença sem vencimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Licença sem vencimento\n\n1 - A licença sem vencimento terá a duração máxima de 10 anos e terminará, independentemente do prazo por que tenha sido concedida, logo que cessem os pressupostos da sua concessão.\n\n2 - No caso de a licença sem vencimento ser autorizada por período inferior a 10 anos, pode ser sucessivamente renovada até ao limite máximo fixado.\n\n3 - O tempo da licença sem vencimento releva para todos os efeitos legais, podendo o funcionário ou agente optar por continuar a efectuar descontos para efeitos de aposentação ou reforma, sobrevivência e assistência na doença.\n\n4 - A licença sem vencimento determina a abertura de vaga, podendo o funcionário reingressar na função no caso de preenchimento ou extinção do lugar, sendo para tal automaticamente aditado ao quadro, lugar a extinguir quando vagar, na respectiva categoria."
+  },
+  "128056967": {
+   "fragment_id": "128355858",
+   "type": 11,
+   "heading": "Artigo 27.º — Regimes especiais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regimes especiais de trabalho\n\nAs áreas profissionais e o número de profissionais em regime de prevenção, em cada USI, serão definidos em portaria conjunta dos secretários regionais que tutelam a saúde e as finanças."
+  },
+  "128056968": {
+   "fragment_id": "128355859",
+   "type": 1,
+   "heading": "Capítulo V — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Recursos financeiros"
+  },
+  "128056969": {
+   "fragment_id": "128355860",
+   "type": 11,
+   "heading": "Artigo 28.º — Responsabilidade pelos encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Responsabilidade pelos encargos\n\n1 - Além da Região, respondem pelos encargos resultantes da prestação de cuidados de saúde prestados no quadro do SRS:\n\na) Os utentes não beneficiários do SRS e os beneficiários deste e dos subsistemas na parte que lhes couber, tendo em conta as suas condições económicas e sociais;\n\nb) Os subsistemas de saúde, neles incluídas as instituições particulares de solidariedade social, nos termos dos seus diplomas orgânicos ou estatutários;\n\nc) As entidades que estejam a tal obrigadas por força de lei ou de contrato;\n\nd) As entidades que se responsabilizem pelo pagamento devido pela assistência em quarto particular ou por outra modalidade não prevista para a generalidade dos utentes;\n\ne) Os responsáveis por infracção às regras de funcionamento do sistema ou por uso ilícito dos serviços ou material de saúde.\n\n2 - São isentos do pagamento de encargos os utentes que se encontrem em situações clínicas, ou pertençam a grupos social ou financeiramente vulneráveis, constantes de relação a estabelecer em decreto regulamentar regional, bem como os abrangidos por programas de intervenção no âmbito da promoção e defesa da saúde pública.\n\n3 - A demonstração das condições económicas e sociais dos utentes será feita segundo regras a estabelecer, podendo para tal ser considerados os elementos definidores da sua situação fiscal."
+  },
+  "128056970": {
+   "fragment_id": "128355861",
+   "type": 11,
+   "heading": "Artigo 29.º — Seguro alternativo de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Seguro alternativo de saúde\n\n1 - Podem ser celebrados contratos de seguro por força dos quais as entidades seguradoras assumam, no todo ou em parte, a responsabilidade pela prestação de cuidados de saúde aos beneficiários do SRS.\n\n2 - Os contratos a que se refere o número anterior não podem, em caso algum, restringir o direito de acesso aos cuidados de saúde e devem salvaguardar o direito de opção dos beneficiários, podendo, todavia, responsabilizá-los, de acordo com critérios a definir.\n\n3 - Podem ser entidades contratantes de seguros alternativos de saúde as seguintes:\n\na) As empresas legalmente habilitadas à comercialização de seguros nos ramos «Vida» ou «Saúde»;\n\nb) As santas casas da misericórdia;\n\nc) As instituições particulares de solidariedade social e as mutualidades que tenham a prestação deste serviço como objecto específico do seu pacto social.\n\n4 - A administração regional comparticipará os beneficiários dos seguros alternativos de saúde com um montante anual, em função da cobertura em relação à capitação estabelecida no orçamento da Região para o SRS.\n\n5 - O regime de seguros a que se refere o presente artigo será regulamentado em decreto regulamentar regional."
+  },
+  "128056971": {
+   "fragment_id": "128355862",
+   "type": 11,
+   "heading": "Artigo 30.º — Preços dos cuidados de saúde e taxas de comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Preços dos cuidados de saúde e taxas de comparticipação\n\n1 - As taxas sanitárias e os preços a cobrar pelos cuidados prestados no quadro do SRS são estabelecidos por portaria do secretário regional da tutela, tendo em conta os custos reais directos e indirectos e o necessário equilíbrio de exploração.\n\n2 - O regime e modalidades de comparticipação nas despesas de saúde dos beneficiários do SRS são fixados por portaria conjunta dos secretários regionais que tutelam a área das finanças e da saúde."
+  },
+  "128056972": {
+   "fragment_id": "128355863",
+   "type": 11,
+   "heading": "Artigo 31.º — Cobrança e destino do valor do preço dos cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Cobrança e destino do valor do preço dos cuidados de saúde\n\n1 - A cobrança da comparticipação do utente no preço dos serviços prestados e de eventuais taxas moderadoras cabe às entidades prestadoras de cuidados de saúde.\n\n2 - As quantias cobradas nos termos do número anterior constituem receita própria das instituições prestadoras dos cuidados e são inscritas nos orçamentos ou balancetes respectivos.\n\n3 - As USI facturarão ao IGFS a comparticipação que caiba aos subsistemas e seguros alternativos de saúde ou a outras entidades com as quais o SRS tenha contratado a prestação de serviços, em termos a estabelecer nos contratos de financiamento referidos no n.º 4 do artigo 5.º\n\n4 - As comparticipações pagas pelos subsistemas e seguros alternativos de saúde, que tenham estabelecido acordos de prestação de cuidados com o SRS, constituem receita própria do IGFS.\n\n5 - Quando os subsistemas e seguros alternativos de saúde, que tenham estabelecido acordos de prestação de cuidados com o SRS, não satisfaçam, até 180 dias após a data de vencimento acordada, os pagamentos a que se obriguem no âmbito dos referidos acordos, são os mesmos automaticamente rescindidos, transitando os seus beneficiários para o regime geral, cessando os benefícios de natureza contributiva ou outros a que tenham direito.\n\n6 - Por decreto regulamentar regional será fixado o regime de relacionamento entre o sistema de assistência na doença dos funcionários da administração regional e local e o IGFS."
+  },
+  "128056973": {
+   "fragment_id": "128355864",
+   "type": 1,
+   "heading": "Capítulo VI — Contratação com terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Contratação com terceiros"
+  },
+  "128056974": {
+   "fragment_id": "128355865",
+   "type": 11,
+   "heading": "Artigo 32.º — Exploração ou gestão por outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Exploração ou gestão por outras entidades\n\n1 - A gestão de instituições e serviços do SRS pode ser, total ou parcialmente, entregue a outras entidades, mediante contrato de gestão, ou a grupo de profissionais de saúde em regime de convenção.\n\n2 - As condições a que deve obedecer, em regime de convenção, a gestão de instituições ou serviços no âmbito do SRS por grupos de profissionais de saúde, reger-se-ão por normas a estabelecer pelo Governo Regional.\n\n3 - As instituições e serviços de saúde geridos nos termos do número anterior integram-se no SRS, estando as entidades gestoras obrigadas a assegurar o acesso às prestações de saúde nos termos dos demais prestadores de cuidados nele integrados."
+  },
+  "128398775": {
+   "fragment_id": "128355866",
+   "type": 11,
+   "heading": "Artigo 33.º — Dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Dos contratos\n\n1 - A celebração de contrato previsto no n.º 1 do artigo anterior deverá ser precedida de concurso público.\n\n2 - Quando o interesse público ou a natureza da instituição ou do serviço de saúde o exija, ou quando sejam necessárias especiais garantias relativas à entidade contratante, pode, a título excepcional, a entrega ser feita por ajuste directo, mediante resolução do Governo Regional, ouvido o Conselho Regional de Saúde.\n\n3 - Os contratos deverão definir, obrigatoriamente:\n\na) A instituição ou serviço de saúde objecto do contrato;\n\nb) As prestações de saúde que a instituição ou serviço devem garantir;\n\nc) As obras a realizar pela entidade contratante para a exploração da instituição ou serviço;\n\nd) Forma e prazos de pagamento à ou da entidade contratante, incluindo eventuais subsídios para os fins previstos no presente diploma;\n\ne) Prazo de entrega e possibilidade de renovação;\n\nf) As obrigações da entidade contratante relativamente à manutenção do serviço de saúde;\n\ng) Garantias do cumprimento do contrato;\n\nh) Sanções pela inexecução do contrato por parte da entidade contratante;\n\ni) Formas de extinção do contrato, incluindo a rescisão unilateral por imperativo de interesse público;\n\nj) Articulação com outras instituições ou unidades de saúde.\n\n4 - O programa do concurso e o caderno de encargos tipo são aprovados por resolução do Governo Regional."
+  },
+  "128398776": {
+   "fragment_id": "128355867",
+   "type": 11,
+   "heading": "Artigo 34.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regime jurídico\n\n1 - As entidades contratantes regem-se nas suas relações com terceiros por regras de direito privado.\n\n2 - O SRS é responsável pelo pagamento dos cuidados de saúde prestados aos seus beneficiários ali atendidos, de acordo com as tabelas de preços contratualmente fixadas.\n\n3 - Sem prejuízo da celebração de acordos específicos, a entidade contratante pode facturar, nos mesmos termos das outras instituições ou serviços do SRS, a entidades públicas ou privadas responsáveis legal ou contratualmente pelo pagamento de cuidados de saúde, nomeadamente subsistemas de saúde ou entidades seguradoras.\n\n4 - A administração regional ou qualquer outra pessoa colectiva pública pode subsidiar a entidade contratante para os seguintes fins:\n\na) Renovação de equipamentos e remodelação de instalações;\n\nb) Investigação científica;\n\nc) Formação profissional.\n\n5 - Os bens adquiridos pela entidade contratante nos termos da alínea a) do número anterior revertem para a Região findo o contrato, sem prejuízo do direito a compensação relativamente à parte não subsidiada.\n\n6 - São da responsabilidade da entidade contratante todas as despesas motivadas pela prática de actos de administração ordinária indispensáveis ao normal funcionamento e conservação do estabelecimento."
+  },
+  "128398777": {
+   "fragment_id": "128355868",
+   "type": 11,
+   "heading": "Artigo 35.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Pessoal\n\nO pessoal com relação jurídica de emprego na administração pública regional que confira a qualidade de funcionário ou agente e exerça funções na instituição ou serviço de saúde entregue por contrato à outra entidade mantém o vínculo à função pública, com os direitos e deveres inerentes, devendo ser remunerado pela entidade gestora."
+  },
+  "128398778": {
+   "fragment_id": "128355869",
+   "type": 11,
+   "heading": "Artigo 36.º — Convenção com profissionais de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Convenção com profissionais de saúde\n\n1 - Podem ser estabelecidas convenções com profissionais ou grupos de profissionais de saúde para assegurarem, no âmbito do SRS, a prestação de cuidados de saúde em determinada área geográfica.\n\n2 - As condições em que a prestação de cuidados será entregue aos interessados serão definidas em portaria do secretário regional da tutela.\n\n3 - O grupo de profissionais de saúde em regime de convenção que apenas assegure a prestação de cuidados de saúde no âmbito do SRS deve designar um de entre eles como representante comum para exercer os direitos e obrigações que derivem da aceitação, no caso de não se constituírem em pessoa colectiva para o efeito.\n\n4 - Os cuidados de saúde prestados nestas condições serão pagos nos termos do artigo 28.º, devendo ser fixadas contraprestações quando a convenção incluir a utilização de instalações ou de pessoal afecto ao SRS."
+  },
+  "128398779": {
+   "fragment_id": "128355870",
+   "type": 11,
+   "heading": "Artigo 37.º — Contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Contratos-programa\n\n1 - O secretário regional da tutela pode autorizar a celebração de contratos-programa com autarquias locais, misericórdias ou outras instituições particulares de solidariedade social, com vista a recuperar, a explorar ou a gerir instituições ou serviços prestadores de cuidados de saúde.\n\n2 - É aplicável a estes contratos o disposto na lei quanto aos contratos-programa de cooperação técnica e financeira entre a administração e as autarquias."
+  },
+  "128398780": {
+   "fragment_id": "128355871",
+   "type": 1,
+   "heading": "Capítulo VII — Articulação do SRS com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Articulação do SRS com outras entidades"
+  },
+  "128398781": {
+   "fragment_id": "128355872",
+   "type": 11,
+   "heading": "Artigo 38.º — Coordenação entre o SRS e instituições ou serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Coordenação entre o SRS e instituições ou serviços\n\n1 - As instituições ou serviços do SRS e os da segurança social cooperam nos programas e acções que envolvam a protecção social das pessoas ou populações em risco ou carência.\n\n2 - São, entre outras, áreas preferenciais de cooperação:\n\na) Programas gerais de promoção da saúde, prevenção e tratamento da doença, em especial quanto a idosos, deficientes e pessoas em situação de dependência e apoio à maternidade e à infância;\n\nb) Programas coordenados de acção social e saúde;\n\nc) Prevenção, prestação de cuidados e reabilitação das doenças da área laboral;\n\nd) Promoção da saúde escolar."
+  },
+  "128398782": {
+   "fragment_id": "128355873",
+   "type": 11,
+   "heading": "Artigo 39.º — Cooperação no ensino e na investigação científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Cooperação no ensino e na investigação científica\n\nAs instituições e os serviços devem facultar aos estabelecimentos de ensino que ministrem cursos na área da saúde oportunidades de prática profissional, de demonstração e de investigação científica, mediante protocolo que estabeleça a forma de colaboração, as obrigações e prestações mútuas e a repartição dos encargos financeiros ou outros resultantes daquela colaboração."
+  },
+  "128398783": {
+   "fragment_id": "128355874",
+   "type": 11,
+   "heading": "Artigo 40.º — Articulação do SRS com actividades particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Articulação do SRS com actividades particulares\n\n1 - A articulação do SRS com actividades particulares de saúde deverá fazer-se nos seguintes termos:\n\na) No planeamento da cobertura do território pelo SRS podem ser reservadas quotas para o exercício das actividades particulares;\n\nb) Os médicos do SRS com actividade liberal podem assistir os doentes privados nos estabelecimentos oficiais, em condições a estabelecer por decreto regulamentar regional;\n\nc) Podem ser celebrados contratos ou convenções com profissionais de saúde ou com pessoas colectivas privadas para a prestação de cuidados de saúde aos utentes do SRS, nos termos referidos no artigo 37.º;\n\nd) A título excepcional e transitório, se verificar a impossibilidade de prover as necessidades de saúde da população através de recursos próprios do SRS ou das convenções referidas na alínea anterior, pode o secretário regional da tutela autorizar a celebração de convenções com profissionais de saúde que trabalhem no SRS, com salvaguarda dos princípios referidos no n.º 2 do artigo 23.º\n\n2 - Os estabelecimentos privados e os profissionais de saúde que trabalhem em regime liberal e que contratem nos termos do número anterior integram-se na rede regional de prestação de cuidados de saúde e ficam obrigados:\n\na) A receber e cuidar dos utentes, em função do grau de urgência, nos termos dos contratos que hajam celebrado;\n\nb) A cuidar dos doentes com oportunidade e de forma adequada à sua situação clínica;\n\nc) A cumprir as orientações emitidas pelo secretário regional da tutela."
+  },
+  "128398784": {
+   "fragment_id": "128398875",
+   "type": 11,
+   "heading": "Artigo 41.º — Poderes de fiscalização da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Poderes de fiscalização da Região\n\n1 - Os poderes de fiscalização da Região, quanto a instituições, serviços e estabelecimentos prestadores de cuidados de saúde, visam a garantia de qualidade desses cuidados.\n\n2 - As unidades privadas de saúde estão sujeitas a licenciamento e fiscalização, nos termos de legislação própria.\n\n3 - Deve ser estabelecido um sistema regular de auditoria técnica e administrativa para avaliar a qualidade dos cuidados, cabendo ao secretário regional da tutela aprovar normas de qualidade das prestações, sem prejuízo das funções que estejam cometidas por lei às ordens profissionais.\n\n4 - As funções previstas no número anterior são cometidas à Inspecção Regional de Saúde."
+  },
+  "128398785": {
+   "fragment_id": "128398876",
+   "type": 11,
+   "heading": "Artigo 42.º — Assistência religiosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Assistência religiosa\n\n1 - É garantido aos utentes do SRS de qualquer confissão religiosa o acesso dos respectivos ministros às instituições e serviços onde estejam a receber cuidados para aí lhes prestarem assistência religiosa.\n\n2 - A assistência religiosa aos utentes de confissão católica romana é assegurada por capelães ou assistentes religiosos laicos, nos termos de legislação própria."
+  },
+  "128398786": {
+   "fragment_id": "128398877",
+   "type": 1,
+   "heading": "Capítulo VIII — Deslocação de doentes e de técnicos de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Deslocação de doentes e de técnicos de saúde"
+  },
+  "128398787": {
+   "fragment_id": "128398878",
+   "type": 11,
+   "heading": "Artigo 43.º — Deslocação de doentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Deslocação de doentes\n\n1 - Os doentes que apresentem situações clínicas que ultrapassem as possibilidades humanas e técnicas de diagnóstico ou tratamento existentes a nível da entidade prestadora de cuidados de saúde do concelho ou ilha de residência serão enviados para a unidade de saúde pública ou convencionada que disponha dos meios adequados para o tipo de cuidados a prestar, de acordo com o seguinte ordenamento de prioridades:\n\na) Entidades prestadoras de cuidados de saúde da rede pública localizadas na mesma ilha;\n\nb) Unidades de saúde ou prestador de cuidados de saúde convencionados da mesma ilha;\n\nc) Unidade de saúde ou prestador de cuidados de saúde privados da mesma ilha;\n\nd) Atendimento por profissional de saúde que se desloque à ilha no âmbito do SRS;\n\ne) Unidades de saúde da rede pública regional, ainda que localizadas noutra ilha, em que o doente já tenha tratamento em curso;\n\nf) Unidade de saúde da rede pública regional localizada noutra ilha da Região que ofereça um mais rápido acesso aos cuidados de saúde necessários;\n\ng) Unidade de saúde ou prestador de cuidados de saúde convencionados de outra ilha da Região;\n\nh) Unidade de saúde ou prestador de cuidados de saúde privada de outra ilha da Região;\n\ni) Unidades de saúde integradas no Serviço Nacional de Saúde;\n\nj) Unidades de saúde ou prestador de cuidados de saúde convencionados ou privados de outra região do País;\n\nl) Unidades de saúde ou prestadoras de cuidados de saúde no estrangeiro.\n\n2 - As deslocações, salvo nos casos de manifesta urgência devidamente comprovada pelo médico assistente do doente, dependem de autorização prévia das seguintes entidades, ouvido o parecer da respectiva junta médica:\n\na) Do conselho de administração da USI de residência do doente, no caso de deslocação na Região;\n\nb) Da direcção clínica do hospital responsável pelo encaminhamento para fora da Região, no caso de deslocação para outras regiões do País.\n\n3 - As deslocações para tratamento em serviços de saúde no estrangeiro serão autorizadas pelo secretário regional da tutela, ouvida a Direcção Regional de Saúde, sob proposta da direcção clínica do hospital responsável pela assistência ao doente, após parecer da respectiva junta médica.\n\n4 - O regulamento de deslocação de doentes será aprovado por portaria do secretário regional da tutela.\n\n5 - A responsabilidade dos encargos com a deslocação de doentes, enviados a unidades de saúde privadas, é estabelecida nos termos do artigo 28.º deste diploma."
+  },
+  "128398788": {
+   "fragment_id": "128398879",
+   "type": 11,
+   "heading": "Artigo 44.º — Deslocação de técnicos de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Deslocação de técnicos de saúde\n\n1 - Sempre que uma unidade de saúde não disponha nos seus quadros de um número suficiente de técnicos de saúde de determinada especialidade, ou quando, pelo tipo de tarefas que executam, não seja viável a existência desses técnicos na unidade de saúde, serão criados mecanismos de mobilidade permitindo a prestação de serviço, por períodos limitados, desses técnicos nas unidades deles carenciadas.\n\n2 - Independentemente do vínculo contratual que os ligue ao serviço de origem, os técnicos de saúde pertencentes aos quadros do SRS, quando deslocados entre unidades de saúde integradas no SRS, são, para todos os efeitos legais, considerados como deslocando-se ao abrigo do protocolo entre unidades.\n\n3 - O regulamento de deslocação de técnicos de saúde será aprovado por portaria do secretário regional da tutela."
+  },
+  "128398789": {
+   "fragment_id": "128398880",
+   "type": 1,
+   "heading": "Capítulo IX — Autoridades de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Autoridades de saúde"
+  },
+  "128398790": {
+   "fragment_id": "128398881",
+   "type": 11,
+   "heading": "Artigo 45.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Definição\n\nO âmbito, a competência e o funcionamento das entidades que exercem o poder de autoridade de saúde são desenvolvidos por decreto regulamentar regional."
+  },
+  "128398791": {
+   "fragment_id": "128398882",
+   "type": 11,
+   "heading": "Artigo 46.º — Autoridade de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Autoridade de saúde\n\n1 - A autoridade de saúde exerce-se a nível regional, de ilha e concelhio.\n\n2 - As autoridades de saúde dependem hierarquicamente do secretário regional da tutela.\n\n3 - A autoridade de saúde de âmbito regional é exercida pelo director regional de Saúde.\n\n4 - Em cada uma das ilhas a autoridade de saúde será exercida por um delegado de saúde de ilha e um delegado de saúde concelhio por cada concelho com centro de saúde.\n\n5 - O delegado de saúde de ilha é nomeado de entre os delegados de saúde concelhios da respectiva ilha.\n\n6 - Sempre que a dimensão demográfica o justifique, poderá o secretário regional que tutela a saúde nomear mais de um delegado de saúde no mesmo concelho, bem como agrupar concelhos sob a mesma autoridade de saúde.\n\n7 - Das decisões das autoridades de saúde cabe sempre recurso hierárquico e contencioso, nos termos da lei."
+  },
+  "128398792": {
+   "fragment_id": "128398883",
+   "type": 11,
+   "heading": "Artigo 47.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Nomeação\n\n1 - Os delegados de saúde de ilha e concelhios são nomeados por despacho do secretário regional da tutela, sob proposta do director regional de Saúde, pelo período de três anos, renovável, de entre médicos da carreira de saúde pública ou, se tal não for possível, transitoriamente, de entre médicos de outras carreiras.\n\n2 - As funções de delegado de saúde podem ser acumuladas com quaisquer outras.\n\n3 - Por decreto regulamentar regional será regulamentada a nomeação e as condições de exercício das funções de autoridade de saúde, nomeadamente nas situações previstas no n.º 6 do artigo anterior."
+  },
+  "128398793": {
+   "fragment_id": "128398884",
+   "type": 11,
+   "heading": "Artigo 48.º — Competências do delegado de saúde de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Competências do delegado de saúde de ilha\n\nAo delegado de saúde de ilha compete, nomeadamente:\n\na) Elaborar o relatório anual sobre o estado sanitário da ilha e as actividades desenvolvidas, que enviará à autoridade de saúde regional, conjuntamente com a programação para o ano seguinte;\n\nb) Supervisionar, orientar, coordenar e apoiar a execução dos programas das actividades dos delegados de saúde concelhios, de acordo com a lei e as instruções superiormente emanadas;\n\nc) Exercer os demais poderes que lhe sejam atribuídos por lei, regulamento ou que lhe hajam sido delegados ou subdelegados."
+  },
+  "128398794": {
+   "fragment_id": "128398885",
+   "type": 1,
+   "heading": "Capítulo X — Plano regional de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Plano regional de saúde"
+  },
+  "128398795": {
+   "fragment_id": "128398886",
+   "type": 11,
+   "heading": "Artigo 49.º — Plano regional de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Plano regional de saúde\n\n1 - O plano regional de saúde é o instrumento de planeamento estratégico para o desenvolvimento da saúde na Região Autónoma dos Açores, devendo incluir o planeamento das necessidades em pessoal, infra-estruturas de saúde e o planeamento dos programas específicos que foram considerados necessários face às necessidades e à evolução do sistema de saúde.\n\n2 - A fim de permitir um maior entrosamento com os restantes instrumentos de planeamento, nomeadamente o Programa do Governo Regional, o Plano a Médio Prazo e o plano anual, o plano regional de saúde deverá ter o mesmo horizonte temporal que o Plano a Médio Prazo."
+  },
+  "128398796": {
+   "fragment_id": "128398887",
+   "type": 11,
+   "heading": "Artigo 50.º — Elaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Elaboração\n\n1 - A elaboração e acompanhamento do plano regional de saúde é da competência da Direcção Regional de Saúde, seguindo as directrizes para tal emanadas do Governo Regional.\n\n2 - O director regional de Saúde poderá propor ao secretário regional da tutela a criação das comissões necessárias ao tratamento de aspectos específicos do plano ou de qualquer dos seus programas integrantes."
+  },
+  "128398797": {
+   "fragment_id": "128398888",
+   "type": 11,
+   "heading": "Artigo 51.º — Organização do plano regional de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Organização do plano regional de saúde\n\n1 - O plano regional de saúde organiza-se por programas, sendo estes subdivididos em acções.\n\n2 - Cada programa constitui uma unidade básica de planeamento orientada para a solução de um problema específico do Serviço Regional de Saúde e será concebido numa óptica de articulação intersectorial.\n\n3 - Cada programa conterá as acções concretas necessárias à sua aplicação e explicitará as metas e os indicadores de avaliação da sua execução e os meios humanos, financeiros e outros necessários à sua concretização.\n\n4 - Os programas a incluir no plano regional de saúde são estabelecidos por despacho do secretário regional da tutela."
+  },
+  "128398798": {
+   "fragment_id": "128398889",
+   "type": 1,
+   "heading": "Capítulo XI — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Disposições transitórias"
+  },
+  "128398799": {
+   "fragment_id": "128398890",
+   "type": 11,
+   "heading": "Artigo 52.º — Unidades de Saúde de ilha com hospital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Unidades de Saúde de ilha com hospital\n\n1 - Para as USI que integrem hospital é estabelecido um período transitório de três anos, coincidente com o primeiro mandato dos titulares dos órgãos de administração, nos termos dos números seguintes.\n\n2 - Os hospitais continuam a reger-se pelo Decreto Regulamentar Regional n.º 12/90/A, de 20 de Março, e legislação complementar, com as adaptações introduzidas pela orgânica da USI.\n\n3 - Os centros de saúde da USI são geridos e administrados por um único conselho de administração nos termos que forem fixados na orgânica da USI, aplicando-se subsidiariamente o Decreto Regulamentar Regional n.º 3/86/A, de 24 de Janeiro, e legislação complementar.\n\n4 - Durante o período de transição, o conselho de administração da USI terá a seguinte composição:\n\na) Um presidente, nomeado nos termos do n.º 2 do artigo 11.º;\n\nb) Dois vogais, que serão o presidente e o vogal enfermeiro do conselho de administração dos centros de saúde da USI;\n\nc) Três vogais, que serão o presidente do conselho de administração, o director clínico e o enfermeiro-director do hospital.\n\n5 - Este regime de transição será desenvolvido, de forma adequada à dimensão da ilha, no diploma que aprovar a orgânica da USI."
+  },
+  "128398800": {
+   "fragment_id": "128398891",
+   "type": 11,
+   "heading": "Artigo 53.º — Centros de saúde e hospitais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Centros de saúde e hospitais\n\nEnquanto não forem criadas e activadas as USI, os centros de saúde e os hospitais mantêm a posição orgânica e funcional prevista nos Decretos Regulamentares Regionais n.os 3/86/A, de 24 de Janeiro, e 12/90/A, de 20 de Março, e respectiva legislação complementar."
+  },
+  "128398801": {
+   "fragment_id": "128398892",
+   "type": 11,
+   "heading": "Artigo 54.º — Contratos e convenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Contratos e convenções\n\nOs contratos e convenções celebrados no âmbito do Serviço Regional de Saúde que não estejam conformes com o disposto no artigo 36.º do presente diploma mantêm-se em vigor, nas actuais condições, até 180 dias após a sua entrada em vigor."
+  },
+  "128398802": {
+   "fragment_id": "128398893",
+   "type": 11,
+   "heading": "Artigo 55.º — Autoridades de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Autoridades de saúde\n\nAs autoridades de saúde nomeadas ao abrigo do Decreto Regulamentar Regional n.º 49/88/A, de 19 de Outubro, mantêm-se em funções até estarem criadas e activadas as unidades de saúde de ilha."
+  },
+  "128398803": {
+   "fragment_id": "128398894",
+   "type": 11,
+   "heading": "Artigo 56.º — Regulamento dos órgãos colegiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Regulamento dos órgãos colegiais\n\nOs órgãos colegiais previstos neste diploma dispõem de um regulamento interno de funcionamento aprovado pelos próprios órgãos e homologado pelo secretário regional da tutela."
+  },
+  "128398804": {
+   "fragment_id": "128398895",
+   "type": 1,
+   "heading": "Capítulo XII — Norma revogatória e entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Norma revogatória e entrada em vigor"
+  },
+  "128398805": {
+   "fragment_id": "128398896",
+   "type": 11,
+   "heading": "Artigo 57.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Norma revogatória\n\nSão revogados o Decreto Regulamentar Regional n.º 2/80/A, de 11 de Dezembro, o Decreto Regulamentar Regional n.º 49/88/A, de 19 de Outubro, e a Resolução da Assembleia Legislativa Regional n.º 11/96/A, de 23 de Julho."
+  },
+  "128398806": {
+   "fragment_id": "128398897",
+   "type": 11,
+   "heading": "Artigo 58.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "922168637": {
+   "fragment_id": "128355834",
+   "type": 11,
+   "heading": "Artigo 5.º — Das funções dos órgãos",
+   "in_force_from": "2003-12-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 41/2003/A - Diário da República n.º 257/2003, Série I-A de 2003-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2003-468405), em vigor a partir de 2003-12-06"
+   ],
+   "markdown": "###### Artigo 5.º — Das funções dos órgãos\n\n1 - Sem prejuízo da promoção da complementaridade entre as unidades de saúde de ilha e entre as diversas entidades prestadoras de cuidados de saúde que as integram, o secretário regional da tutela fixará, por portaria, a extensão da intervenção no plano técnico de cada unidade de saúde, de modo a permitir uma tendencial auto-suficiência na prestação de cuidados em cada ilha e a nível regional, garantindo a optimização da utilização dos recursos, introduzindo normas orientadoras do desenvolvimento e fomentando a acessibilidade no âmbito do SRS.\n\n2 - Sem prejuízo do disposto no número anterior, sempre que do ponto de vista tecnológico ou dos recursos tal se justifique, por portaria do secretário regional da tutela serão estabelecidas para especialidades ou áreas bem definidas entidades prestadoras de cuidados de referência, a nível regional ou sub-regional, para as quais se procederá ao encaminhamento das situações que o justifiquem.\n\n3 - O Conselho Regional de Saúde será um órgão consultivo e de participação do SRS.\n\n4 - A SAUDAÇOR exerce as suas competências no domínio da gestão financeira e do planeamento global das infra-estruturas de saúde, relacionando-se com as unidades de saúde através de contratos de gestão, fixando o financiamento a atribuir por parte do orçamento regional de acordo com as metas de prestação de cuidados a que cada unidade se obriga.\n\n5 - A Inspecção Regional de Saúde é o serviço da secretaria regional da tutela cuja actividade se desenvolve no domínio da auditoria técnica, da inspecção e da fiscalização do cumprimento das normas relativas ao sistema de saúde da Região, gozando, no exercício das suas competências, de autonomia técnica e de independência nos termos do respectivo estatuto, a aprovar por decreto regulamentar regional.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 41/2003/A - Diário da República n.º 257/2003, Série I-A de 2003-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2003-468405), em vigor a partir de 2003-12-06"
+  },
+  "922107460": {
+   "fragment_id": "128398896",
+   "type": 11,
+   "heading": "Artigo 57.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-A/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-1999-469810), produz efeitos a partir de 1999-08-01"
+   ],
+   "markdown": "###### Artigo 57.º — Norma revogatória\n\nSão revogados o Decreto Regional n.º 32/80/A, de 11 de Dezembro, o Decreto Regulamentar Regional n.º 49/88/A, de 19 de Outubro, e a Resolução da Assembleia Legislativa Regional n.º 11/96/A, de 23 de Julho.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-A/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-1999-469810), produz efeitos a partir de 1999-08-01"
+  },
+  "128398807": {
+   "fragment_id": "128398898",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Junho de 1999.\n\nO Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.\n\nAssinado em Angra do Heroísmo em 9 de Julho de 1999.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "922311479": {
+   "fragment_id": "128355833",
+   "type": 11,
+   "heading": "Artigo 4.º — Da organização",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Da organização\n\n1 - São órgãos operativos do SRS as unidades de saúde de ilha, referidas no artigo 6.º, os hospitais, referidos no artigo 8.º, e os serviços especializados, referidos no n.º 2 do artigo 10.º\n\n2 - O SRS disporá de um órgão consultivo designado por Conselho Regional de Saúde.\n\n3 - As funções de gestão financeira e de planeamento global das infra-estruturas são cometidas a uma estrutura específica, cujo regime consta de diploma próprio.\n\n4 - As funções de auditoria técnica e de inspecção são cometidas à Inspecção Regional de Saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311480": {
+   "fragment_id": "128355834",
+   "type": 11,
+   "heading": "Artigo 5.º — Das funções dos órgãos",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 41/2003/A - Diário da República n.º 257/2003, Série I-A de 2003-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2003-468405), em vigor a partir de 2003-12-06"
+   ],
+   "markdown": "###### Artigo 5.º — Das funções dos órgãos\n\n1 - Sem prejuízo da promoção da complementaridade entre as unidades de saúde de ilha e entre as diversas entidades prestadoras de cuidados de saúde que as integram, o secretário regional da tutela fixará, por portaria, a extensão da intervenção no plano técnico de cada unidade de saúde, de modo a permitir uma tendencial auto-suficiência na prestação de cuidados em cada ilha e a nível regional, garantindo a optimização da utilização dos recursos, introduzindo normas orientadoras do desenvolvimento e fomentando a acessibilidade no âmbito do SRS.\n\n2 - Sem prejuízo do disposto no número anterior, sempre que do ponto de vista tecnológico ou dos recursos tal se justifique, por portaria do secretário regional da tutela serão estabelecidas para especialidades ou áreas bem definidas entidades prestadoras de cuidados de referência, a nível regional ou sub-regional, para as quais se procederá ao encaminhamento das situações que o justifiquem.\n\n3 - O Conselho Regional de Saúde será um órgão consultivo e de participação do SRS.\n\n4 - A estrutura prevista no n.º 3 do artigo 4.º exerce as suas competências no domínio da gestão financeira e do planeamento global das infra-estruturas de saúde, relacionando-se com as unidades de saúde através de contratos de gestão, fixando o financiamento a atribuir por parte do Orçamento Regional de acordo com as metas de prestação de cuidados a que cada unidade se obriga, as quais podem ser sujeitas a uma capitação máxima a ser definida para cada unidade de saúde.\n\n5 - A Inspecção Regional de Saúde é o serviço da secretaria regional da tutela cuja actividade se desenvolve no domínio da auditoria técnica, da inspecção e da fiscalização do cumprimento das normas relativas ao sistema de saúde da Região, gozando, no exercício das suas competências, de autonomia técnica e de independência nos termos do respectivo estatuto, a aprovar por decreto regulamentar regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 41/2003/A - Diário da República n.º 257/2003, Série I-A de 2003-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2003-468405), em vigor a partir de 2003-12-06"
+  },
+  "922311481": {
+   "fragment_id": "128355835",
+   "type": 11,
+   "heading": "Artigo 6.º — Das unidades de saúde de ilha",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Das unidades de saúde de ilha\n\n1 - A unidade de saúde de ilha (USI) é uma estrutura de planeamento, coordenação e prestação de cuidados integrados de saúde, assumindo a natureza de sistema local de saúde.\n\n2 - No exercício das suas atribuições, as USI são dotadas de autonomia administrativa e financeira, nos termos da lei, dispondo de um conselho de administração e de um conselho consultivo próprios.\n\n3 - As USI disporão ainda de um conselho técnico.\n\n4 - A USI organiza-se como unidade funcional de prestação de cuidados de saúde, sendo constituída por todas as entidades prestadoras de cuidados de saúde do sector público da respectiva ilha, podendo integrar centros de saúde, hospitais e serviços especializados.\n\n5 - Nas ilhas onde haja uma única entidade prestadora de cuidados de saúde, a USI assumirá directamente as funções de centro de saúde, não havendo lugar à existência deste.\n\n6 - O SRS compreenderá as seguintes USI:\n\na) A Unidade de Saúde de Santa Maria;\n\nb) A Unidade de Saúde de São Miguel, que compreenderá os Centros de Saúde de Lagoa, Nordeste, Ponta Delgada, Povoação, Ribeira Grande e Vila Franca do Campo;\n\nc) A Unidade de Saúde da Terceira, que compreenderá os Centros de Saúde de Angra do Heroísmo e Praia da Vitória;\n\nd) A Unidade de Saúde da Graciosa;\n\ne) A Unidade de Saúde de São Jorge, que compreenderá os Centros de Saúde de Calheta e Velas;\n\nf) A Unidade de Saúde do Pico, que compreenderá os Centros de Saúde de Lajes, Madalena e São Roque;\n\ng) A Unidade de Saúde do Faial;\n\nh) A Unidade de Saúde das Flores;\n\ni) A Unidade de Saúde do Corvo.\n\n7 - Cada unidade de saúde disporá de orgânica própria, aprovada por decreto regulamentar regional, adequada à sua dimensão e às características da população a servir.\n\n8 - O diploma referido no número anterior definirá igualmente níveis adequados de autonomia administrativa e financeira às instituições de saúde que integram a USI.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311482": {
+   "fragment_id": "128355837",
+   "type": 11,
+   "heading": "Artigo 8.º — Dos hospitais",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Dos hospitais\n\n1 - Aos hospitais incumbe a prestação de cuidados de saúde diferenciados aos utentes que lhes sejam referenciados por outras entidades prestadoras de cuidados de saúde, ou a eles recorram directamente.\n\n2 - A actividade hospitalar, desenvolvida pelos hospitais da Região, compreende prestações de saúde e de acção social, destinando-se as primeiras ao diagnóstico, tratamento e reabilitação dos doentes e as últimas ao estabelecimento de relações entre as necessidades pessoais ou familiares e os casos de doença.\n\n3 - Os hospitais gozam de autonomia técnica na prestação de cuidados de saúde aos seus utentes, sendo dotados de direcção clínica e de enfermagem próprias.\n\n4 - As actividades de ensino, formação profissional e investigação devem constituir, sempre que possível e necessário, responsabilidades dos hospitais.\n\n5 - O transporte de doentes poderá constituir actividade complementar dos hospitais.\n\n6 - Os hospitais podem integrar na sua orgânica unidades dotadas de autonomia técnica, mesmo quando estas não revistam a natureza de unidades prestadoras de cuidados de saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311502": {
+   "fragment_id": "922258630",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Princípios específicos da gestão hospitalar",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-A — Princípios específicos da gestão hospitalar\n\nOs hospitais devem pautar a respectiva gestão pelos seguintes princípios:\n\na) Desenvolvimento da actividade de acordo com instrumentos de gestão previsional, designadamente planos de actividade, anuais e plurianuais, orçamentos e outros;\n\nb) Garantia aos utentes da prestação de cuidados de saúde de qualidade com um controlo rigoroso dos recursos;\n\nc) Desenvolvimento de uma gestão criteriosa no respeito pelo cumprimento dos objectivos definidos pelo membro do Governo Regional com competência em matéria de saúde;\n\nd) Financiamento das suas actividades em função dos actos e serviços a cargo do hospital, de acordo com as metas de prestação de cuidados a que o mesmo se obriga, as quais podem ser sujeitas a uma capitação máxima;\n\ne) Aplicação do Plano Oficial de Contabilidade do Ministério da Saúde, com as adaptações necessárias a estabelecer por despacho conjunto dos membros do Governo Regional com competências nas matérias de finanças e saúde.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311513": {
+   "fragment_id": "922258631",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Articulação dos hospitais com outras entidades",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-B — Articulação dos hospitais com outras entidades\n\n1 - Os hospitais da Região são complementares uns dos outros e cooperam mutuamente.\n\n2 - Os hospitais articulam-se funcionalmente e, em termos de complementaridades, com as USI.\n\n3 - Os serviços prestadores de cuidados de saúde dos hospitais articulam-se, no âmbito do SRS, com os serviços homólogos dos hospitais centrais e escolares da administração central, com o objectivo de assegurar a deslocação de médicos e outros profissionais de saúde à Região, de possibilitar o envio de doentes devidamente credenciados àqueles serviços e de facilitar a realização, parcial ou integral, de internatos complementares, estágios e reciclagens aos médicos da Região.\n\n4 - Sem prejuízo do disposto em lei especial, mediante autorização do membro do Governo Regional com competência em matéria de saúde, os hospitais podem associar-se e celebrar acordos com entidades públicas ou privadas que visem a prestação de cuidados de saúde, com o objectivo de optimizar os recursos disponíveis.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311524": {
+   "fragment_id": "922258632",
+   "type": 11,
+   "heading": "Artigo 8.º-C — Modalidades de prestação de cuidados",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-C — Modalidades de prestação de cuidados\n\n1 - A prestação de cuidados de saúde hospitalares pode assumir as modalidades de internamento ou semi-internamento, de consulta externa, de urgência e no local de catástrofe ou de sinistro.\n\n2 - Os hospitais devem incentivar a prestação de cuidados na modalidade de semi-internamento, procurando implementar soluções adequadas e possíveis, requeridas por 'hospitais de dia'.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311535": {
+   "fragment_id": "922258633",
+   "type": 11,
+   "heading": "Artigo 8.º-D — Regime de funcionamento dos serviços hospitalares prestadores de cuidados de saúde",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-D — Regime de funcionamento dos serviços hospitalares prestadores de cuidados de saúde\n\nOs serviços prestadores de cuidados de saúde devem funcionar, sempre que necessário e possível, em regime de presença médica permanente.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311546": {
+   "fragment_id": "922258635",
+   "type": 11,
+   "heading": "Artigo 8.º-E — Exercício da actividade",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-E — Exercício da actividade\n\nA capacidade jurídica dos hospitais abrange todos os direitos e obrigações necessários à prossecução dos seus fins.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311557": {
+   "fragment_id": "922258636",
+   "type": 11,
+   "heading": "Artigo 8.º-F — Natureza jurídica",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-F — Natureza jurídica\n\n1 - Os hospitais integrados no SRS podem revestir a natureza jurídica de entidades públicas empresariais ou outras legalmente previstas.\n\n2 - Os hospitais que revistam a natureza jurídica de entidades públicas empresariais são criados por decreto legislativo regional.\n\n3 - Os hospitais que revistam a natureza jurídica de entidades públicas empresariais regem-se pelo respectivo diploma de criação, pelos seus regulamentos internos, pelas normas em vigor para os hospitais do SRS que não sejam incompatíveis com a sua natureza jurídica e, subsidiariamente, pelo regime jurídico aplicável às entidades públicas empresariais, não estando sujeitos às normas aplicáveis aos institutos públicos que revistam a natureza de serviços personalizados ou de fundos autónomos.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311570": {
+   "fragment_id": "128355838",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências dos órgãos de direcção técnica",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Competências dos órgãos de direcção técnica\n\n1 - À direcção clínica compete, designadamente, promover o funcionamento harmonioso das valências clínicas, coordenar e orientar a prestação de cuidados médicos para garantir a acessibilidade dos utentes aos serviços de saúde e zelar pela qualidade desses actos praticados na instituição.\n\n2 - À direcção de enfermagem compete, designadamente, orientar e coordenar a prestação de cuidados de enfermagem, zelando pela correcção e pela qualidade técnica e humana desses cuidados prestados na instituição.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311559": {
+   "fragment_id": "128355839",
+   "type": 11,
+   "heading": "Artigo 10.º — Dos serviços especializados",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Dos serviços especializados\n\n1 - Para a prestação de cuidados de saúde específicos, ou para a prossecução de funções complementares de prestação de cuidados de saúde, podem ser criados serviços especializados dotados de autonomia técnica.\n\n2 - O Centro de Oncologia Professor José Conde reveste a natureza de serviço especializado nos termos do número anterior.\n\n3 - Os serviços especializados podem ser integrados nas USI.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922404837": {
+   "fragment_id": "128355840",
+   "type": 11,
+   "heading": "Artigo 11.º — Do conselho de administração das unidades de saúde de ilha",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Do conselho de administração das unidades de saúde de ilha\n\n1 - O conselho de administração das USI é integrado por um presidente e dois vogais.\n\n2 - O presidente e os vogais são nomeados pelo membro do Governo Regional com competência em matéria de saúde de entre profissionais com habilitação adequada, em termos a regulamentar no diploma que aprove a orgânica da respectiva USI.\n\n3 - Nas USI cuja dimensão o justifique pode a respectiva orgânica determinar a inclusão no conselho de administração de até dois vogais não executivos.\n\n4 - Compete ao conselho de administração, dentro das linhas orientadoras definidas para o SRS pelos órgãos competentes, gerir os recursos humanos, materiais e financeiros colocados à sua disposição e assegurar a prestação de cuidados de saúde à população da sua área de intervenção.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922404843": {
+   "fragment_id": "128355841",
+   "type": 11,
+   "heading": "Artigo 12.º — Dos vogais não executivos",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05"
+   ],
+   "markdown": "###### Artigo 12.º — Dos vogais não executivos\n\n1 - Os vogais não executivos são designados de entre os titulares dos órgãos de direcção técnica das instituições da respectiva USI, sendo um da área clínica e um da área de enfermagem.\n\n2 - Compete ao conselho técnico, nas USI que o possuam, designar os vogais não executivos.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05"
+  },
+  "922311562": {
+   "fragment_id": "128355842",
+   "type": 11,
+   "heading": "Artigo 13.º — Do conselho consultivo das unidades de saúde de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Do conselho consultivo das unidades de saúde de ilha\n\n1 - Como órgão de participação junto do conselho de administração de cada USI, existirá um conselho consultivo que reunirá anualmente ou extraordinariamente por convocatória do seu presidente, e a quem competirá pronunciar-se, por iniciativa própria ou a solicitação dos órgãos de tutela do SRS, sobre o funcionamento dos serviços de saúde na ilha, designadamente sobre os seus planos de actividade e relatórios e sobre quaisquer outras matérias relacionadas com os serviços de saúde.\n\n2 - O conselho consultivo terá a seguinte composição:\n\na) Dois representantes de cada uma das assembleias municipais da ilha, por elas designados;\n\nb) O presidente de cada uma das câmaras municipais existentes na ilha, ou quem por ele for designado;\n\nc) Um representante de cada uma das misericórdias com sede na ilha, por essas entidades designado;\n\nd) Um representante das instituições particulares de solidariedade social sediadas na ilha, por elas designado;\n\ne) O presidente do conselho de administração da USI;\n\nf) Os vogais do conselho de administração da USI.\n\n3 - O conselho elege o seu presidente, por voto secreto, de entre os seus membros que não sejam funcionários do SRS.\n\n4 - O presidente disporá de voto de qualidade."
+  },
+  "922404844": {
+   "fragment_id": "128355843",
+   "type": 11,
+   "heading": "Artigo 14.º — Do conselho técnico",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Do conselho técnico\n\n1 - O conselho técnico é um órgão de consulta e de apoio técnico, competindo-lhe designadamente cooperar com o conselho de administração da USI e com as direcções técnicas das entidades prestadoras de cuidados de saúde, pronunciando-se por iniciativa própria ou por solicitação daqueles órgãos sobre as matérias da sua competência, nomeadamente visando fomentar a articulação entre as entidades prestadoras de cuidados de saúde, harmonizar a actividade dos diferentes prestadores de cuidados e estimular a eficiência na utilização dos recursos humanos e financeiros disponíveis numa lógica de optimização, por forma a promover uma actuação técnica dentro de parâmetros de qualidade, no respeito pelos princípios da ética e da deontologia.\n\n2 - O conselho técnico tem a seguinte composição:\n\na) Presidente do conselho de administração da USI;\n\nb) Vogais do conselho de administração da USI;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) Director clínico de cada um dos centros de saúde da USI;\n\ng) Director de enfermagem de cada um dos centros de saúde da USI;\n\nh) Órgãos de direcção técnica de cada um dos serviços especializados existentes na USI;\n\ni) Um representante dos técnicos superiores de saúde;\n\nj) Um representante dos técnicos de diagnóstico e terapêutica;\n\nl) Um representante dos técnicos superiores de serviço social;\n\nm) (Revogada.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311564": {
+   "fragment_id": "128355844",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamento das unidades de saúde de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamento das unidades de saúde de ilha\n\n1 - O regulamento das USI será elaborado pelo conselho de administração, ouvidos o conselho consultivo e o conselho técnico, e homologado por despacho do director regional de Saúde.\n\n2 - O regulamento incluirá, entre outras matérias, os horários de funcionamento das diversas valências e as regras gerais de relacionamento entre os utentes e os serviços."
+  },
+  "922311565": {
+   "fragment_id": "128355845",
+   "type": 11,
+   "heading": "Artigo 16.º — Do Conselho Regional de Saúde",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Do Conselho Regional de Saúde\n\n1 - No Conselho Regional de Saúde estarão representadas as entidades interessadas no funcionamento das instituições prestadoras de cuidados de saúde da Região.\n\n2 - O Conselho terá a seguinte composição:\n\na) O membro do Governo Regional com competência em matéria de saúde, que presidirá;\n\nb) O director regional da Saúde;\n\nc) O director regional da Solidariedade e Segurança Social ou quem ele designar;\n\nd) Um representante de cada uma das associações de utentes dos serviços de saúde que exerçam actividade na Região;\n\ne) Um representante de cada uma das associações de consumidores que exerçam actividade na Região;\n\nf) Um representante das instituições particulares de solidariedade social, designado pela sua associação regional;\n\ng) Um representante das santas casas da misericórdia, designado pela sua união regional;\n\nh) Um representante dos órgãos de comunicação social;\n\ni) Um representante de cada uma das ordens de profissionais de saúde;\n\nj) Um representante de cada uma das centrais sindicais;\n\nl) Um representante da Universidade dos Açores;\n\nm) Um representante de cada uma das escolas superiores de enfermagem da Região;\n\nn) Um representante da Associação Portuguesa dos Médicos de Clínica Geral - Delegação dos Açores.\n\n3 - As competências, o regime de funcionamento e o modo de designação dos membros do CRS serão estabelecidos por decreto regulamentar regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311566": {
+   "fragment_id": "128355846",
+   "type": 11,
+   "heading": "Artigo 17.º — Aprovação dos planos e programas de acção",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Aprovação dos planos e programas de acção\n\n1 - Os planos e programas de acção de âmbito regional são aprovados por despacho do membro do Governo Regional com competência em matéria de saúde, ouvido o Conselho Regional de Saúde.\n\n2 - Os planos e programas das diferentes entidades que integram o SRS são aprovados nos termos dos respectivos regulamentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311567": {
+   "fragment_id": "128355847",
+   "type": 11,
+   "heading": "Artigo 18.º — Princípios de gestão das instituições e dos serviços",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Princípios de gestão das instituições e dos serviços\n\n1 - Sem prejuízo do disposto em legislação especial, a gestão dos órgãos operativos do SRS deverá obedecer aos seguintes requisitos:\n\na) A participação financeira da Região será estabelecida com base em planos financeiros sectoriais no quadro do seu planeamento geral;\n\nb) Os planos financeiros sectoriais devem, tendencialmente, abranger períodos plurianuais com base em programas propostos pelas entidades prestadoras de cuidados de saúde, ouvido o conselho consultivo e o conselho técnico da USI;\n\nc) Depois de prévia negociação com a estrutura prevista no n.º 3 do artigo 4.º e aprovação pelo membro do Governo Regional com competência em matéria de saúde, os planos de financiamento são formalizados nos termos do n.º 4 do artigo 5.º;\n\nd) Os membros dos órgãos de gestão são responsáveis pelo cumprimento da lei e pela realização dos objectivos e metas constantes dos planos e programas aprovados.\n\n2 - Sem prejuízo do disposto em legislação especial, os órgãos operativos do SRS e a estrutura prevista no n.º 3 do artigo 4.º podem estabelecer contratos com outras entidades, designadamente com empresas e profissionais de saúde em regime liberal para prestação de cuidados de saúde aos utentes e beneficiários do SRS.\n\n3 - Quando o interesse público o exija, nomeadamente em situações de urgência na instalação de serviços, por resolução do Conselho do Governo podem as USI ser autorizadas, por períodos determinados, a reger as suas relações com terceiros no âmbito da aquisição de bens e serviços, por regras de direito privado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311488": {
+   "fragment_id": "128355849",
+   "type": 11,
+   "heading": "Artigo 19.º — Comissão de Coordenação Inter-Hospitalar",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Comissão de Coordenação Inter-Hospitalar\n\n1 - Por forma a garantir a coordenação da actividade das unidades hospitalares que integram o SRS funcionará uma Comissão de Coordenação Inter-Hospitalar, com a seguinte composição:\n\na) O director regional de Saúde, que preside, ou quem ele designar;\n\nb) O presidente do conselho de administração de cada hospital;\n\nc) O director clínico de cada um dos hospitais;\n\nd) O enfermeiro-director de cada um dos hospitais.\n\n2 - Compete à Comissão, nomeadamente:\n\na) Pronunciar-se, obrigatoriamente, sobre a criação, modificação ou extinção de qualquer serviço ou valência em qualquer dos hospitais;\n\nb) Propor os regulamentos necessários ao encaminhamento dos utentes entre as unidades hospitalares integradas no SRS e entre estas e as unidades de saúde nacionais e estrangeiras que recebam utentes do SRS;\n\nc) Propor os regulamentos necessários para um adequado encaminhamento inter-hospitalar dos utentes que sejam referenciados por outras entidades prestadoras de cuidados de saúde;\n\nd) Propor, para os efeitos do n.º 2 do artigo 5.º, a definição da rede de entidades prestadoras de cuidados de referência;\n\ne) Colaborar na elaboração do plano regional de saúde na vertente hospitalar;\n\nf) Dar parecer sobre os quadros de pessoal das unidades hospitalares;\n\ng) Propor e executar medidas de coordenação das actividades dos hospitais da Região;\n\nh) Dar parecer sobre as propostas de orçamento das unidades hospitalares;\n\ni) Manter actualizada, no que respeita aos hospitais, a carta sanitária da Região.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311568": {
+   "fragment_id": "922258637",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Articulação entre a USI e o hospital",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 20.º-A — Articulação entre a USI e o hospital\n\nA articulação entre as USI e os hospitais consta de diploma próprio.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311489": {
+   "fragment_id": "128355856",
+   "type": 11,
+   "heading": "Artigo 25.º — Mobilidade profissional",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Mobilidade profissional\n\n1 - O membro do Governo Regional com competência em matéria de saúde pode autorizar, com fundamento em razões de interesse público, que o pessoal com relação jurídica de emprego público na Administração Pública, que confira a qualidade de funcionário ou agente, seja contratado por entidades privadas enquadradas no sistema de saúde, sem perda de vínculo, desde que esse pessoal manifeste por escrito essa concordância.\n\n2 - A mobilidade do pessoal a que se refere o número anterior só pode efectuar-se por requisição ou licença sem vencimento.\n\n3 - A requisição rege-se pelo estabelecido na lei para o pessoal com relação jurídica de emprego público.\n\n4 - A licença sem vencimento rege-se, com as necessárias adaptações, pelo disposto quanto às licenças de longa duração para o pessoal com relação jurídica de emprego público.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311490": {
+   "fragment_id": "128355858",
+   "type": 11,
+   "heading": "Artigo 27.º — Regimes especiais de trabalho",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Regimes especiais de trabalho\n\nSem prejuízo do disposto em legislação especial, as áreas profissionais e o número de profissionais em regime de prevenção em cada órgão operativo do SRS serão definidos em portaria conjunta dos membros do Governo Regional com competência em matérias de finanças e saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311491": {
+   "fragment_id": "128355863",
+   "type": 11,
+   "heading": "Artigo 31.º — Cobrança e destino do valor do preço dos cuidados de saúde",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Cobrança e destino do valor do preço dos cuidados de saúde\n\n1 - A cobrança da comparticipação do utente no preço dos serviços prestados e de eventuais taxas moderadoras cabe às entidades prestadoras de cuidados de saúde.\n\n2 - As quantias cobradas nos termos do número anterior constituem receita própria das instituições prestadoras dos cuidados e são inscritas nos orçamentos ou balancetes respectivos.\n\n3 - Os órgãos operativos do SRS facturarão à estrutura prevista no n.º 3 do artigo 4.º a comparticipação que caiba aos subsistemas e seguros alternativos de saúde ou a outras entidades com as quais o SRS tenha contratado a prestação de serviços, em termos a estabelecer nos contratos de gestão referidos no n.º 4 do artigo 5.º\n\n4 - As comparticipações pagas pelos subsistemas e seguros alternativos de saúde que tenham estabelecido acordos de prestação de cuidados com o SRS constituem receita própria da estrutura prevista no n.º 3 do artigo 4.º\n\n5 - Quando os subsistemas e seguros alternativos de saúde, que tenham estabelecido acordos de prestação de cuidados com o SRS, não satisfaçam, até 180 dias após a data de vencimento acordada, os pagamentos a que se obriguem no âmbito dos referidos acordos, são os mesmos automaticamente rescindidos, transitando os seus beneficiários para o regime geral, cessando os benefícios de natureza contributiva ou outros a que tenham direito.\n\n6 - Por decreto regulamentar regional será fixado o regime de relacionamento entre o sistema de assistência na doença dos funcionários da administração regional e local e a estrutura prevista no n.º 3 do artigo 4.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311492": {
+   "fragment_id": "128355869",
+   "type": 11,
+   "heading": "Artigo 36.º — Convenção com profissionais de saúde",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — Convenção com profissionais de saúde\n\n1 - Podem ser estabelecidas convenções com profissionais ou grupos de profissionais de saúde para assegurarem, no âmbito do SRS, a prestação de cuidados de saúde em determinada área geográfica.\n\n2 - As condições em que a prestação de cuidados será entregue aos interessados serão definidas em portaria do membro do Governo Regional com competência em matéria de saúde.\n\n3 - O grupo de profissionais de saúde em regime de convenção que apenas assegure a prestação de cuidados de saúde no âmbito do SRS deve designar um de entre eles como representante comum para exercer os direitos e obrigações que derivem da aceitação, no caso de não se constituírem em pessoa colectiva para o efeito.\n\n4 - Os cuidados de saúde prestados nestas condições serão pagos nos termos do artigo 28.º, devendo ser fixadas contraprestações quando a convenção incluir a utilização de instalações ou de pessoal afecto ao SRS.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311493": {
+   "fragment_id": "128355870",
+   "type": 11,
+   "heading": "Artigo 37.º — Contratos-programa",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 37.º — Contratos-programa\n\n1 - O membro do Governo Regional com competência em matéria de saúde pode autorizar a celebração de contratos-programa com autarquias locais, misericórdias ou outras instituições particulares de solidariedade social, com vista a recuperar, a explorar ou a gerir instituições ou serviços prestadores de cuidados de saúde.\n\n2 - É aplicável a estes contratos o disposto na lei quanto aos contratos-programa de cooperação técnica e financeira entre a administração e as autarquias.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311494": {
+   "fragment_id": "128355874",
+   "type": 11,
+   "heading": "Artigo 40.º — Articulação do SRS com actividades particulares",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Articulação do SRS com actividades particulares\n\n1 - A articulação do SRS com actividades particulares de saúde deverá fazer-se nos seguintes termos:\n\na) No planeamento da cobertura do território pelo SRS podem ser reservadas quotas para o exercício das actividades particulares;\n\nb) Os médicos do SRS com actividade liberal podem assistir os doentes privados nos estabelecimentos oficiais, em condições a estabelecer por decreto regulamentar regional;\n\nc) Podem ser celebrados contratos ou convenções com profissionais de saúde ou com pessoas colectivas privadas para a prestação de cuidados de saúde aos utentes do SRS, nos termos referidos no artigo 37.º;\n\nd) A título excepcional e transitório, se verificar a impossibilidade de prover as necessidades de saúde da população através de recursos próprios do SRS ou das convenções referidas na alínea anterior, pode o membro do Governo Regional com competência em matéria de saúde autorizar a celebração de convenções com profissionais de saúde que trabalhem no SRS, com salvaguarda dos princípios referidos no n.º 2 do artigo 23.º\n\n2 - Os estabelecimentos privados e os profissionais de saúde que trabalhem em regime liberal e que contratem nos termos do número anterior integram-se na rede regional de prestação de cuidados de saúde e ficam obrigados:\n\na) A receber e cuidar dos utentes, em função do grau de urgência, nos termos dos contratos que hajam celebrado;\n\nb) A cuidar dos doentes com oportunidade e de forma adequada à sua situação clínica;\n\nc) A cumprir as orientações emitidas pelo membro do Governo Regional com competência em matéria de saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311495": {
+   "fragment_id": "128398878",
+   "type": 11,
+   "heading": "Artigo 43.º — Deslocação de doentes",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 43.º — Deslocação de doentes\n\n1 - Os doentes que apresentem situações clínicas que ultrapassem as possibilidades humanas e técnicas de diagnóstico ou tratamento existentes a nível da entidade prestadora de cuidados de saúde do concelho ou ilha de residência serão enviados para a unidade de saúde pública ou convencionada que disponha dos meios adequados para o tipo de cuidados a prestar, de acordo com o seguinte ordenamento de prioridades:\n\na) Entidades prestadoras de cuidados de saúde da rede pública localizadas na mesma ilha;\n\nb) Unidades de saúde ou prestador de cuidados de saúde convencionados da mesma ilha;\n\nc) Unidade de saúde ou prestador de cuidados de saúde privados da mesma ilha;\n\nd) Atendimento por profissional de saúde que se desloque à ilha no âmbito do SRS;\n\ne) Unidades de saúde da rede pública regional, ainda que localizadas noutra ilha, em que o doente já tenha tratamento em curso;\n\nf) Unidade de saúde da rede pública regional localizada noutra ilha da Região que ofereça um mais rápido acesso aos cuidados de saúde necessários;\n\ng) Unidade de saúde ou prestador de cuidados de saúde convencionados de outra ilha da Região;\n\nh) Unidade de saúde ou prestador de cuidados de saúde privada de outra ilha da Região;\n\ni) Unidades de saúde integradas no Serviço Nacional de Saúde;\n\nj) Unidades de saúde ou prestador de cuidados de saúde convencionados ou privados de outra região do País;\n\nl) Unidades de saúde ou prestadoras de cuidados de saúde no estrangeiro.\n\n2 - As deslocações, salvo nos casos de manifesta urgência devidamente comprovada pelo médico assistente do doente, dependem de autorização prévia das seguintes entidades, ouvido o parecer da respectiva junta médica:\n\na) Do conselho de administração da USI de residência do doente, no caso de deslocação na Região;\n\nb) Da direcção clínica do hospital responsável pelo encaminhamento para fora da Região, no caso de deslocação para outras regiões do País.\n\n3 - As deslocações para tratamento em serviços de saúde no estrangeiro serão autorizadas pelo membro do Governo Regional com competência em matéria de saúde, ouvida a Direcção Regional de Saúde, sob proposta da direcção clínica do hospital responsável pela assistência ao doente, após parecer da respectiva junta médica.\n\n4 - O regulamento de deslocação de doentes será aprovado por portaria do membro do Governo Regional com competência em matéria de saúde.\n\n5 - A responsabilidade dos encargos com a deslocação de doentes, enviados a unidades de saúde privadas, é estabelecida nos termos do artigo 28.º deste diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311496": {
+   "fragment_id": "128398879",
+   "type": 11,
+   "heading": "Artigo 44.º — Deslocação de técnicos de saúde",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 44.º — Deslocação de técnicos de saúde\n\n1 - Sempre que uma unidade de saúde não disponha nos seus quadros de um número suficiente de técnicos de saúde de determinada especialidade, ou quando, pelo tipo de tarefas que executam, não seja viável a existência desses técnicos na unidade de saúde, serão criados mecanismos de mobilidade permitindo a prestação de serviço, por períodos limitados, desses técnicos nas unidades deles carenciadas.\n\n2 - Independentemente do vínculo contratual que os ligue ao serviço de origem, os técnicos de saúde pertencentes aos quadros do SRS, quando deslocados entre unidades de saúde integradas no SRS, são, para todos os efeitos legais, considerados como deslocando-se ao abrigo do protocolo entre unidades.\n\n3 - O regulamento de deslocação de técnicos de saúde será aprovado por portaria do membro do Governo Regional com competência em matéria de saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922404838": {
+   "fragment_id": "128398882",
+   "type": 11,
+   "heading": "Artigo 46.º — Autoridade de saúde",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 46.º — Autoridade de saúde\n\n1 - A autoridade de saúde exerce-se a nível regional e concelhio, funcionando em sistema de rede integrada de informação.\n\n2 - As autoridades de saúde dependem hierarquicamente do secretário regional da tutela.\n\n3 - A autoridade de saúde de âmbito regional é exercida pelo director regional de Saúde.\n\n4 - Em cada concelho, a autoridade de saúde é exercida por um delegado de saúde concelhio.\n\n5 - (Revogado.)\n\n6 - Sempre que a dimensão demográfica o justifique, poderá o membro do Governo Regional com competência em matéria de saúde nomear mais de um delegado de saúde no mesmo concelho, bem como agrupar concelhos sob a mesma autoridade de saúde.\n\n7 - Excepcionalmente, a autoridade de saúde de âmbito regional pode delegar no coordenador ou em qualquer delegado de saúde concelhio as competências a definir nos termos do decreto regulamentar regional referido no n.º 4 do artigo 47.º\n\n8 - Das decisões das autoridades de saúde cabe recurso hierárquico e contencioso, nos termos da lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922404839": {
+   "fragment_id": "128398883",
+   "type": 11,
+   "heading": "Artigo 47.º — Nomeação",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 47.º — Nomeação\n\n1 - Os delegados de saúde concelhios são nomeados, em regime de comissão de serviço, por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do director regional da Saúde, de entre médicos da carreira médica de saúde pública ou de entre médicos de outras carreiras, em função do seu perfil, currículo ou experiência adequada.\n\n2 - A nomeação referida no número anterior efectua-se pelo período de três anos, renovável por iguais períodos.\n\n3 - As funções de delegado de saúde podem ser acumuladas com quaisquer outras.\n\n4 - Por decreto regulamentar regional será regulamentada a nomeação e as condições de exercício das funções de autoridade de saúde, nomeadamente nas situações previstas no n.º 6 do artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922404840": {
+   "fragment_id": "128398884",
+   "type": 11,
+   "heading": "Artigo 48.º — Coordenador regional de saúde pública",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05"
+   ],
+   "markdown": "###### Artigo 48.º — Coordenador regional de saúde pública\n\n1 - A autoridade de saúde regional pode ser coadjuvada por um coordenador regional de saúde pública.\n\n2 - O coordenador regional de saúde pública é nomeado, em regime de comissão de serviço, por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do director regional da Saúde, preferencialmente de entre médicos da carreira médica de saúde pública ou de entre médicos de outras carreiras que detenham três ou mais anos de exercício de funções de delegado de saúde.\n\n3 - A nomeação referida no número anterior efectua-se pelo período de três anos, renovável por iguais períodos.\n\n4 - As funções de coordenador regional de saúde pública podem ser acumuladas com quaisquer outras.\n\n5 - O coordenador regional de saúde pública exerce, nomeadamente, as competências previstas no artigo seguinte, bem como aquelas que lhes sejam delegadas pelo director regional da Saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05"
+  },
+  "922404842": {
+   "fragment_id": "922403530",
+   "type": 11,
+   "heading": "Artigo 48.º-A — Competências do coordenador regional de saúde pública",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05"
+   ],
+   "markdown": "###### Artigo 48.º-A — Competências do coordenador regional de saúde pública\n\nAo coordenador regional de saúde pública compete, designadamente:\n\na) Emitir parecer, apoiar e coordenar as actividades das autoridades de saúde concelhias de acordo com a lei e as instruções superiormente emanadas;\n\nb) Elaborar, até 15 de Março, um relatório anual de análise epidemiológica sobre o estado sanitário da Região e das actividades desenvolvidas pelas autoridades de saúde concelhias, para apresentação à autoridade de saúde regional;\n\nc) Dar parecer até 30 de Novembro de cada ano sobre o plano de actividades das autoridades de saúde concelhias para o ano seguinte, para efeitos de aprovação pela autoridade de saúde regional;\n\nd) Promover a articulação e a cooperação eficiente entre as autoridades de saúde e os demais serviços integrados no Serviço Regional de Saúde, bem como com outras entidades externas;\n\ne) Avaliar as necessidades de formação dos diversos grupos profissionais das delegações de saúde da Região, mediante auscultação dos delegados de saúde concelhios, propondo à autoridade de saúde regional planos de formação específica e contínua adequados;\n\nf) Exercer os demais poderes que lhe sejam atribuídos por lei, regulamento ou que lhe tenham sido delegados.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 1/2010/A - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), em vigor a partir de 2010-01-05"
+  },
+  "922311499": {
+   "fragment_id": "128398888",
+   "type": 11,
+   "heading": "Artigo 51.º — Organização do plano regional de saúde",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 51.º — Organização do plano regional de saúde\n\n1 - O plano regional de saúde organiza-se por programas, sendo estes subdivididos em acções.\n\n2 - Cada programa constitui uma unidade básica de planeamento orientada para a solução de um problema específico do Serviço Regional de Saúde e será concebido numa óptica de articulação intersectorial.\n\n3 - Cada programa conterá as acções concretas necessárias à sua aplicação e explicitará as metas e os indicadores de avaliação da sua execução e os meios humanos, financeiros e outros necessários à sua concretização.\n\n4 - Os programas a incluir no plano regional de saúde são estabelecidos por despacho do membro do Governo Regional com competência em matéria de saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311571": {
+   "fragment_id": "128398890",
+   "type": 11,
+   "heading": "Artigo 52.º — Unidades de Saúde de ilha com hospital",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 52.º — Unidades de Saúde de ilha com hospital\n\n1 - Para as USI que integrem hospital é estabelecido um período transitório de três anos, coincidente com o primeiro mandato dos titulares dos órgãos de administração, nos termos dos números seguintes.\n\n2 - Os hospitais continuam a reger-se pelo Decreto Regulamentar Regional n.º 12/90/A, de 20 de Março, e legislação complementar, com as adaptações introduzidas pela orgânica da USI.\n\n3 - Os centros de saúde da USI são geridos e administrados por um único conselho de administração nos termos que forem fixados na orgânica da USI, aplicando-se subsidiariamente o Decreto Regulamentar Regional n.º 3/86/A, de 24 de Janeiro, e legislação complementar.\n\n4 - Durante o período de transição, o conselho de administração da USI terá a seguinte composição:\n\na) Um presidente, nomeado nos termos do n.º 2 do artigo 11.º;\n\nb) Dois vogais, que serão o presidente e o vogal enfermeiro do conselho de administração dos centros de saúde da USI;\n\nc) Três vogais, que serão o presidente do conselho de administração, o director clínico e o enfermeiro-director do hospital.\n\n5 - Este regime de transição será desenvolvido, de forma adequada à dimensão da ilha, no diploma que aprovar a orgânica da USI.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311500": {
+   "fragment_id": "128398891",
+   "type": 11,
+   "heading": "Artigo 53.º — Centros de saúde",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 53.º — Centros de saúde\n\nEnquanto não forem criadas e activadas as USI, os centros de saúde mantêm a posição orgânica e funcional prevista no Decreto Regulamentar Regional n.º 3/86/A, de 24 de Janeiro, e respectiva legislação complementar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922311501": {
+   "fragment_id": "128398894",
+   "type": 11,
+   "heading": "Artigo 56.º — Regulamento dos órgãos colegiais",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 56.º — Regulamento dos órgãos colegiais\n\nOs órgãos colegiais previstos neste diploma dispõem de um regulamento interno de funcionamento aprovado pelos próprios órgãos e homologado pelo membro do Governo Regional com competência em matéria de saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2007/A - Diário da República n.º 17/2007, Série I de 2007-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), em vigor a partir de 2007-01-01"
+  },
+  "922454487": {
+   "fragment_id": "128355860",
+   "type": 11,
+   "heading": "Artigo 28.º — Responsabilidade pelos encargos",
+   "in_force_from": "2020-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 4/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2020-128355822), em vigor a partir de 2020-01-23"
+   ],
+   "markdown": "###### Artigo 28.º — Responsabilidade pelos encargos\n\n1 - Além da Região, respondem pelos encargos resultantes da prestação de cuidados de saúde prestados no quadro do SRS:\n\na) Os utentes não beneficiários do SRS e os beneficiários deste e dos subsistemas na parte que lhes couber, tendo em conta as suas condições económicas e sociais;\n\nb) Os subsistemas de saúde, neles incluídas as instituições particulares de solidariedade social, nos termos dos seus diplomas orgânicos ou estatutários;\n\nc) As entidades que estejam a tal obrigadas por força de lei ou de contrato;\n\nd) As entidades que se responsabilizem pelo pagamento devido pela assistência em quarto particular ou por outra modalidade não prevista para a generalidade dos utentes;\n\ne) Os responsáveis por infracção às regras de funcionamento do sistema ou por uso ilícito dos serviços ou material de saúde.\n\n2 - São isentos do pagamento de encargos os utentes que se encontrem em situações clínicas, ou pertençam a grupos social ou financeiramente vulneráveis, constantes de relação a estabelecer em decreto regulamentar regional, bem como os abrangidos por programas de intervenção no âmbito da promoção e defesa da saúde pública.\n\n3 - A demonstração das condições económicas e sociais dos utentes será feita segundo regras a estabelecer, podendo para tal ser considerados os elementos definidores da sua situação fiscal.\n\n4 - É dispensado o pagamento das taxas moderadoras no âmbito das seguintes prestações de cuidados de saúde:\n\na) Atendimento, consultas e outras prestações de saúde no âmbito dos Cuidados de Saúde Primários;\n\nb) Consultas, atos complementares prescritos e outras prestações de saúde, se a origem de referenciação para estas for o Serviço Regional de Saúde ou o Serviço Nacional de Saúde.\n\n5 - A dispensa de pagamento de taxas moderadoras previstas no número anterior, salvaguardado o disposto no n.º 2, não se aplica em situações de atendimento realizado nas Unidades Básicas de Urgência e nos Serviços de Urgência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 4/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2020-128355822), em vigor a partir de 2020-01-23"
+  },
+  "922571066": {
+   "fragment_id": "128355860",
+   "type": 11,
+   "heading": "Artigo 28.º — Responsabilidade pelos encargos",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 26/2022/A - Diário da República n.º 221/2022, Série I de 2022-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-203457551), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 4/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2020-128355822), em vigor a partir de 2020-01-23"
+   ],
+   "markdown": "###### Artigo 28.º — Responsabilidade pelos encargos\n\n1 - Além da Região, respondem pelos encargos resultantes da prestação de cuidados de saúde prestados no quadro do SRS:\n\na) Os utentes não beneficiários do SRS e os beneficiários deste e dos subsistemas na parte que lhes couber, tendo em conta as suas condições económicas e sociais;\n\nb) Os subsistemas de saúde, neles incluídas as instituições particulares de solidariedade social, nos termos dos seus diplomas orgânicos ou estatutários;\n\nc) As entidades que estejam a tal obrigadas por força de lei ou de contrato;\n\nd) As entidades que se responsabilizem pelo pagamento devido pela assistência em quarto particular ou por outra modalidade não prevista para a generalidade dos utentes;\n\ne) Os responsáveis por infracção às regras de funcionamento do sistema ou por uso ilícito dos serviços ou material de saúde.\n\n2 - São isentos do pagamento de encargos os utentes que se encontrem em situações clínicas ou pertençam a grupos social ou financeiramente vulneráveis, respetivamente:\n\na) Grávidas e parturientes;\n\nb) Doentes transplantados;\n\nc) Utentes com grau de incapacidade igual ou superior a 60 %;\n\nd) Dadores benévolos de sangue;\n\ne) Dadores vivos de células, tecidos e órgãos;\n\nf) Menores de idade;\n\ng) Crianças ou jovens em processo de promoção e proteção a correr termos em comissão de proteção de crianças e jovens ou em processos pendentes de decisão judicial;\n\nh) Crianças ou jovens que se encontrem em cumprimento de medida tutelar de internamento, medida cautelar de guarda em centro educativo ou medida de guarda em instituição pública ou privada;\n\ni) Crianças ou jovens integrados em qualquer das respostas sociais de acolhimento em virtude de decisão judicial proferida em processo tutelar cível e por força da qual a tutela ou o simples exercício das responsabilidades parentais sejam deferidos à instituição onde o menor se encontra integrado;\n\nj) Utentes em situação de insuficiência económica, bem como os dependentes do respetivo agregado familiar, cujo rendimento médio mensal, dividido pelo número de pessoas a quem cabe a direção do agregado familiar, seja igual ou inferior a 1,5 vezes o IAS (indexante de apoios sociais);\n\nk) Desempregados com inscrição válida no centro de emprego que auferiram o subsídio de desemprego em valor de montante igual ou inferior a 1,5 IAS e que em virtude de situação transitória não podem comprovar a sua condição de insuficiência económica nos termos previstos na alínea anterior, bem como os respetivos cônjuges e dependentes;\n\nl) Bombeiros;\n\nm) Órgãos executivos das associações humanitárias de bombeiros voluntários dos Açores;\n\nn) Militares e ex-militares das Forças Armadas que, em virtude da prestação do serviço militar, se encontrem incapacitados de forma permanente.\n\n3 - A demonstração das condições económicas e sociais dos utentes será feita segundo regras a estabelecer, podendo para tal ser considerados os elementos definidores da sua situação fiscal.\n\n4 - Sem prejuízo do disposto no n.º 2, é dispensado o pagamento de taxas moderadoras no âmbito da prestação de cuidados de saúde, mantendo-se apenas nos serviços de atendimento realizado nos serviços de urgência hospitalares.\n\n5 - A dispensa de pagamento das taxas moderadoras prevista no número anterior é também aplicada quando exista referenciação prévia comprovada pelo SRS, pela Linha de Saúde Açores, pelo Serviço Regional de Proteção Civil e Bombeiros dos Açores, pelo Serviço Nacional de Saúde ou nas admissões para internamento através do serviço de urgência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 26/2022/A - Diário da República n.º 221/2022, Série I de 2022-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-203457551), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 4/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2020-128355822), em vigor a partir de 2020-01-23"
+  }
+ }
+}

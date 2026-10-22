@@ -1,0 +1,234 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:166660387:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-166888295",
+ "dre_path": "/dr/detalhe/decreto-lei/56-b-2021-166660387",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202082021",
+    "166888396",
+    "166888397",
+    "166888398",
+    "166888399"
+   ]
+  },
+  {
+   "date": "2021-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:169269295:por",
+     "title": "Decreto-Lei n.º 70-A/2021",
+     "published": "2021-08-06",
+     "dre_path": "/dr/detalhe/decreto-lei/70-a-2021-169269295"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "166888395",
+    "166888396",
+    "166888397",
+    "169256767",
+    "166888399",
+    "166888400"
+   ]
+  },
+  {
+   "date": "2021-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176492316:por",
+     "title": "Decreto-Lei n.º 119-B/2021",
+     "published": "2021-12-23",
+     "dre_path": "/dr/detalhe/decreto-lei/119-b-2021-176492316"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "166888395",
+    "176492254",
+    "166888397",
+    "176492255",
+    "166888399",
+    "166888400"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202082021",
+    "202082022",
+    "202082023",
+    "202082024",
+    "202082025",
+    "202082026"
+   ]
+  }
+ ],
+ "fragments": {
+  "202082021": {
+   "fragment_id": "166888296",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 56-B/2021\n\nde 7 de julho\n\nSumário: Altera o regime excecional para as situações de mora no pagamento da renda e estabelece a garantia de fornecimento de serviços essenciais, no âmbito da pandemia da doença COVID-19.\n\nA Lei n.º 4-C/2020, de 6 de abril, aprovou o regime excecional para as situações de mora no pagamento da renda, que integra um conjunto de medidas excecionais para o arrendamento habitacional e não habitacional.\n\nEssas medidas foram, inicialmente, perspetivadas para vigorar durante a vigência do estado de emergência e no mês subsequente, apoiando, no caso do arrendamento habitacional, os agregados familiares com quebras significativas de rendimentos em consequência do contexto pandémico da COVID-19, ou os senhorios de baixos recursos, com quebra significativa de rendimentos provocada pelo não pagamento de rendas ao abrigo do disposto na lei.\n\nTendo em consideração que a situação epidemiológica tem exigido uma contínua ponderação e reavaliação das medidas de proteção implementadas, a evolução da pandemia em Portugal levou a que estas tenham sido prorrogadas sucessivamente e que, à presente data, permaneça relevante e necessária a adoção e manutenção de medidas económicas e sociais excecionais.\n\nEm consequência e no que respeita ao arrendamento habitacional, verifica-se a necessidade de conservar um conjunto de medidas que visam, a curto prazo, salvaguardar o direito à habitação através da presente prorrogação dos empréstimos já concedidos ou em avaliação junto do Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), até três meses após a cessação do regime excecional em vigor.\n\nAdicionalmente, estas alterações visam garantir que os beneficiários destes apoios, entre o momento da apresentação do pedido de apoio e a decisão final por parte do IHRU, I. P., não se encontrem sujeitos aos efeitos de mora ou incumprimento contratual, com as consequências que tal pode acarretar.\n\nPor fim, com o mesmo desiderato de manter as medidas excecionais que visam debelar os constrangimentos temporários e possibilitar maior liquidez aos cidadãos e às famílias durante o período de normalização de vida, justifica-se também impossibilitar a suspensão de fornecimento de serviços essenciais de água, energia elétrica, gás natural e comunicações eletrónicas até 31 de dezembro de 2021.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "166888396": {
+   "fragment_id": "166888297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei:\n\na) Procede à sexta alteração à Lei n.º 4-C/2020, de 6 de abril, alterada pelas Leis n.os 17/2020, de 29 de maio, e 45/2020, de 20 de agosto, pelo Decreto-Lei n.º 106-A/2020, de 30 de dezembro, e pelas Leis n.os 75-A/2020, de 30 de dezembro, e 75-B/2020, de 31 de dezembro, que aprova o regime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, no âmbito da pandemia COVID-19;\n\nb) Estabelece a garantia do fornecimento dos serviços essenciais de água, energia elétrica, gás natural e comunicações eletrónicas até 31 de dezembro de 2021."
+  },
+  "166888397": {
+   "fragment_id": "166888298",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 4-C/2020, de 6 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 4-C/2020, de 6 de abril\n\nOs artigos 5.º e 14.º da Lei n.º 4-C/2020, de 6 de abril, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - Para efeitos de mora ou incumprimento do contrato de arrendamento, a contagem dos prazos é suspensa desde o momento da apresentação do pedido de apoio financeiro pelo arrendatário até à decisão final por parte do IHRU, I. P.\n\n9 - (Anterior n.º 8.)\n\n10 - (Anterior n.º 9.)\n\n11 - (Anterior n.º 10.)\n\n12 - (Anterior n.º 11.)\n\n13 - (Anterior n.º 12.)\n\nArtigo 14.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - Os empréstimos já concedidos ou em avaliação junto do IHRU, I. P., desde que elegíveis e apresentados até 1 de julho de 2021, podem ser atribuídos até três meses depois da cessação do regime previsto no número anterior.\n\n4 - (Anterior n.º 3.)»"
+  },
+  "166888398": {
+   "fragment_id": "166888299",
+   "type": 11,
+   "heading": "Artigo 3.º — Garantia de acesso aos serviços essenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Garantia de acesso aos serviços essenciais\n\n1 - Até 31 de dezembro de 2021 não pode ser suspenso o fornecimento dos seguintes serviços essenciais, previstos no n.º 2 do artigo 1.º da Lei n.º 23/96, de 26 de julho, na sua redação atual:\n\na) Serviço de fornecimento de água;\n\nb) Serviço de fornecimento de energia elétrica;\n\nc) Serviço de fornecimento de gás natural;\n\nd) Serviço de comunicações eletrónicas.\n\n2 - No caso de existirem valores em dívida relativos ao fornecimento dos serviços referidos no número anterior, por parte do utente, deve ser elaborado, em tempo razoável, um plano de pagamento adequado aos rendimentos atuais do referido utente.\n\n3 - O plano de pagamento referido no número anterior é definido por acordo entre o prestador e o utente."
+  },
+  "166888399": {
+   "fragment_id": "166888300",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 1 de julho de 2021."
+  },
+  "166888395": {
+   "fragment_id": "166888296",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 56-B/2021\n\nde 7 de julho\n\nSumário: Altera o regime excecional para as situações de mora no pagamento da renda e estabelece a garantia de fornecimento de serviços essenciais, no âmbito da pandemia da doença COVID-19.\n\nA Lei n.º 4-C/2020, de 6 de abril, aprovou o regime excecional para as situações de mora no pagamento da renda, que integra um conjunto de medidas excecionais para o arrendamento habitacional e não habitacional.\n\nEssas medidas foram, inicialmente, perspetivadas para vigorar durante a vigência do estado de emergência e no mês subsequente, apoiando, no caso do arrendamento habitacional, os agregados familiares com quebras significativas de rendimentos em consequência do contexto pandémico da COVID-19, ou os senhorios de baixos recursos, com quebra significativa de rendimentos provocada pelo não pagamento de rendas ao abrigo do disposto na lei.\n\nTendo em consideração que a situação epidemiológica tem exigido uma contínua ponderação e reavaliação das medidas de proteção implementadas, a evolução da pandemia em Portugal levou a que estas tenham sido prorrogadas sucessivamente e que, à presente data, permaneça relevante e necessária a adoção e manutenção de medidas económicas e sociais excecionais.\n\nEm consequência e no que respeita ao arrendamento habitacional, verifica-se a necessidade de conservar um conjunto de medidas que visam, a curto prazo, salvaguardar o direito à habitação através da presente prorrogação dos empréstimos já concedidos ou em avaliação junto do Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), até três meses após a cessação do regime excecional em vigor.\n\nAdicionalmente, estas alterações visam garantir que os beneficiários destes apoios, entre o momento da apresentação do pedido de apoio e a decisão final por parte do IHRU, I. P., não se encontrem sujeitos aos efeitos de mora ou incumprimento contratual, com as consequências que tal pode acarretar.\n\nPor fim, com o mesmo desiderato de manter as medidas excecionais que visam debelar os constrangimentos temporários e possibilitar maior liquidez aos cidadãos e às famílias durante o período de normalização de vida, justifica-se também impossibilitar a suspensão de fornecimento de serviços essenciais de água, energia elétrica, gás natural e comunicações eletrónicas até 31 de dezembro de 2021.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "169256767": {
+   "fragment_id": "166888299",
+   "type": 11,
+   "heading": "Artigo 3.º — Garantia de acesso aos serviços essenciais",
+   "in_force_from": "2021-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-A/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2021-169269295), em vigor a partir de 2021-08-11, produz efeitos a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Garantia de acesso aos serviços essenciais\n\n1 - Até 31 de dezembro de 2021, não é permitida a suspensão do fornecimento dos seguintes serviços essenciais, previstos no n.º 2 do artigo 1.º da Lei n.º 23/96, de 26 de julho:\n\na) Serviço de fornecimento de água;\n\nb) Serviço de fornecimento de energia elétrica;\n\nc) Serviço de fornecimento de gás natural e de gases de petróleo liquefeitos canalizados;\n\nd) Serviço de comunicações eletrónicas.\n\n2 - A proibição de suspensão prevista no número anterior aplica-se quando motivada por situação de desemprego, quebra de rendimentos do agregado familiar igual ou superior a 20 % ou por infeção pela doença COVID-19.\n\n3 - Até 31 de dezembro de 2021, os consumidores que se encontrem em situação de desemprego ou com uma quebra de rendimentos do agregado familiar igual ou superior a 20 % face aos rendimentos do mês anterior podem requerer:\n\na) A cessação unilateral de contratos de telecomunicações, sem lugar a compensação ao fornecedor;\n\nb) A suspensão temporária de contratos de telecomunicações, sem penalizações ou cláusulas adicionais para o consumidor, retomando-se a 1 de janeiro de 2022 ou em data a acordar entre o fornecedor e o consumidor.\n\n4 - No caso de existirem valores em dívida relativos ao fornecimento dos serviços referidos no n.º 1, deve ser elaborado em tempo razoável um plano de pagamento adequado aos rendimentos atuais do consumidor.\n\n5 - O plano de pagamento referido no número anterior é definido por acordo entre o fornecedor e o consumidor.\n\n6 - A demonstração da quebra de rendimentos é efetuada nos termos de portaria a aprovar, no prazo de 15 dias, pelos membros do Governo responsáveis pelas áreas da administração local, do ambiente, da energia e das comunicações.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-A/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2021-169269295), em vigor a partir de 2021-08-11, produz efeitos a partir de 2021-07-01"
+  },
+  "166888400": {
+   "fragment_id": "166888301",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de julho de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Pedro Soeiro de Matos Fernandes - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 7 de julho de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 7 de julho de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114390139"
+  },
+  "176492254": {
+   "fragment_id": "166888297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei:\n\na) Procede à sexta alteração à Lei n.º 4-C/2020, de 6 de abril, alterada pelas Leis n.os 17/2020, de 29 de maio, e 45/2020, de 20 de agosto, pelo Decreto-Lei n.º 106-A/2020, de 30 de dezembro, e pelas Leis n.os 75-A/2020, de 30 de dezembro, e 75-B/2020, de 31 de dezembro, que aprova o regime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, no âmbito da pandemia COVID-19;\n\nb) Estabelece a garantia do fornecimento dos serviços essenciais de água, energia elétrica, gás natural e gases de petróleo liquefeitos canalizados e comunicações eletrónicas até 31 de março de 2022.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24"
+  },
+  "176492255": {
+   "fragment_id": "166888299",
+   "type": 11,
+   "heading": "Artigo 3.º — Garantia de acesso aos serviços essenciais",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-A/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2021-169269295), em vigor a partir de 2021-08-11, produz efeitos a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Garantia de acesso aos serviços essenciais\n\n1 - Até 31 de março de 2022, não é permitida a suspensão do fornecimento dos seguintes serviços essenciais, previstos no n.º 2 do artigo 1.º da Lei n.º 23/96, de 26 de julho, na sua redação atual:\n\na) Serviço de fornecimento de água;\n\nb) Serviço de fornecimento de energia elétrica;\n\nc) Serviço de fornecimento de gás natural e de gases de petróleo liquefeitos canalizados;\n\nd) Serviço de comunicações eletrónicas.\n\n2 - A proibição de suspensão prevista no número anterior aplica-se quando motivada por situação de desemprego, quebra de rendimentos do agregado familiar igual ou superior a 20 % ou por infeção pela doença COVID-19.\n\n3 - Até 31 de março de 2022, os consumidores que se encontrem em situação de desemprego ou com uma quebra de rendimentos do agregado familiar igual ou superior a 20 % face aos rendimentos do mês anterior podem requerer:\n\na) A cessação unilateral de contratos de telecomunicações, sem lugar a compensação ao fornecedor;\n\nb) A suspensão temporária de contratos de telecomunicações, sem penalizações ou cláusulas adicionais para o consumidor, retomando-se a 1 de abril de 2022 ou em data a acordar entre o fornecedor e o consumidor.\n\n4 - No caso de existirem valores em dívida relativos ao fornecimento dos serviços referidos no n.º 1, deve ser elaborado em tempo razoável um plano de pagamento adequado aos rendimentos atuais do consumidor.\n\n5 - O plano de pagamento referido no número anterior é definido por acordo entre o fornecedor e o consumidor.\n\n6 - A demonstração da quebra de rendimentos é efetuada nos termos de portaria a aprovar, no prazo de 15 dias, pelos membros do Governo responsáveis pelas áreas da administração local, do ambiente, da energia e das comunicações.\n\n7 - Nos casos em que seja aplicável a proibição de suspensão do fornecimento dos serviços essenciais prevista no n.º 1, considera-se igualmente suspenso, durante a respetiva vigência, o prazo de prescrição previsto no artigo 10.º da Lei n.º 23/96, de 26 de julho, na sua redação atual.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-A/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2021-169269295), em vigor a partir de 2021-08-11, produz efeitos a partir de 2021-07-01"
+  },
+  "202082022": {
+   "fragment_id": "166888297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei:\n\na) Procede à sexta alteração à Lei n.º 4-C/2020, de 6 de abril, alterada pelas Leis n.os 17/2020, de 29 de maio, e 45/2020, de 20 de agosto, pelo Decreto-Lei n.º 106-A/2020, de 30 de dezembro, e pelas Leis n.os 75-A/2020, de 30 de dezembro, e 75-B/2020, de 31 de dezembro, que aprova o regime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, no âmbito da pandemia COVID-19;\n\nb) Estabelece a garantia do fornecimento dos serviços essenciais de água, energia elétrica, gás natural e gases de petróleo liquefeitos canalizados e comunicações eletrónicas até 31 de março de 2022.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24"
+  },
+  "202082023": {
+   "fragment_id": "166888298",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 4-C/2020, de 6 de abril",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 4-C/2020, de 6 de abril\n\nOs artigos 5.º e 14.º da Lei n.º 4-C/2020, de 6 de abril, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - Para efeitos de mora ou incumprimento do contrato de arrendamento, a contagem dos prazos é suspensa desde o momento da apresentação do pedido de apoio financeiro pelo arrendatário até à decisão final por parte do IHRU, I. P.\n\n9 - (Anterior n.º 8.)\n\n10 - (Anterior n.º 9.)\n\n11 - (Anterior n.º 10.)\n\n12 - (Anterior n.º 11.)\n\n13 - (Anterior n.º 12.)\n\nArtigo 14.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - Os empréstimos já concedidos ou em avaliação junto do IHRU, I. P., desde que elegíveis e apresentados até 1 de julho de 2021, podem ser atribuídos até três meses depois da cessação do regime previsto no número anterior.\n\n4 - (Anterior n.º 3.)»\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202082024": {
+   "fragment_id": "166888299",
+   "type": 11,
+   "heading": "Artigo 3.º — Garantia de acesso aos serviços essenciais",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-A/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2021-169269295), em vigor a partir de 2021-08-11, produz efeitos a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Garantia de acesso aos serviços essenciais\n\n1 - Até 31 de março de 2022, não é permitida a suspensão do fornecimento dos seguintes serviços essenciais, previstos no n.º 2 do artigo 1.º da Lei n.º 23/96, de 26 de julho, na sua redação atual:\n\na) Serviço de fornecimento de água;\n\nb) Serviço de fornecimento de energia elétrica;\n\nc) Serviço de fornecimento de gás natural e de gases de petróleo liquefeitos canalizados;\n\nd) Serviço de comunicações eletrónicas.\n\n2 - A proibição de suspensão prevista no número anterior aplica-se quando motivada por situação de desemprego, quebra de rendimentos do agregado familiar igual ou superior a 20 % ou por infeção pela doença COVID-19.\n\n3 - Até 31 de março de 2022, os consumidores que se encontrem em situação de desemprego ou com uma quebra de rendimentos do agregado familiar igual ou superior a 20 % face aos rendimentos do mês anterior podem requerer:\n\na) A cessação unilateral de contratos de telecomunicações, sem lugar a compensação ao fornecedor;\n\nb) A suspensão temporária de contratos de telecomunicações, sem penalizações ou cláusulas adicionais para o consumidor, retomando-se a 1 de abril de 2022 ou em data a acordar entre o fornecedor e o consumidor.\n\n4 - No caso de existirem valores em dívida relativos ao fornecimento dos serviços referidos no n.º 1, deve ser elaborado em tempo razoável um plano de pagamento adequado aos rendimentos atuais do consumidor.\n\n5 - O plano de pagamento referido no número anterior é definido por acordo entre o fornecedor e o consumidor.\n\n6 - A demonstração da quebra de rendimentos é efetuada nos termos de portaria a aprovar, no prazo de 15 dias, pelos membros do Governo responsáveis pelas áreas da administração local, do ambiente, da energia e das comunicações.\n\n7 - Nos casos em que seja aplicável a proibição de suspensão do fornecimento dos serviços essenciais prevista no n.º 1, considera-se igualmente suspenso, durante a respetiva vigência, o prazo de prescrição previsto no artigo 10.º da Lei n.º 23/96, de 26 de julho, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-A/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2021-169269295), em vigor a partir de 2021-08-11, produz efeitos a partir de 2021-07-01"
+  },
+  "202082025": {
+   "fragment_id": "166888300",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 1 de julho de 2021.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202082026": {
+   "fragment_id": "166888301",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de julho de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Pedro Soeiro de Matos Fernandes - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 7 de julho de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 7 de julho de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114390139\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

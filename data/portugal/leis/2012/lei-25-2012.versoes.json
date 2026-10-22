@@ -1,0 +1,346 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:179517:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2012-116052607",
+ "dre_path": "/dr/detalhe/lei/25-2012-179517",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116056295",
+    "116056296",
+    "116056297",
+    "116056298",
+    "116056299",
+    "116056300",
+    "116056301",
+    "116056302",
+    "116056303",
+    "116056304",
+    "116056305",
+    "116056306",
+    "116056307",
+    "116056308",
+    "116056309",
+    "116056310",
+    "116056311",
+    "116056312",
+    "116056313",
+    "116056314",
+    "116056315",
+    "116056316",
+    "116056317",
+    "116056318",
+    "116056319",
+    "116056320"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:116043536:por",
+     "title": "Lei n.º 49/2018",
+     "published": "2018-08-14",
+     "dre_path": "/dr/detalhe/lei/49-2018-116043536",
+     "date": "2018-02-10"
+    }
+   ]
+  },
+  {
+   "date": "2023-08-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215980339:por",
+     "title": "Lei n.º 35/2023",
+     "published": "2023-07-21",
+     "dre_path": "/dr/detalhe/lei/35-2023-215980339"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "116056295",
+    "116056296",
+    "116056297",
+    "116056298",
+    "216056053",
+    "116056300",
+    "216056054",
+    "116056302",
+    "116056303",
+    "116056304",
+    "116056305",
+    "116056306",
+    "116056307",
+    "116056308",
+    "116056309",
+    "116056310",
+    "116056311",
+    "116056323",
+    "116056313",
+    "116056314",
+    "116056315",
+    "116056316",
+    "116056317",
+    "116056318",
+    "116056319",
+    "116056320",
+    "116056321"
+   ]
+  }
+ ],
+ "fragments": {
+  "116056295": {
+   "fragment_id": "116052608",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 25/2012\n\nde 16 de julho\n\nRegula as diretivas antecipadas de vontade, designadamente sob a forma de testamento vital, e a nomeação de procurador de cuidados de saúde e cria o Registo Nacional do Testamento Vital (RENTEV).\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "116056296": {
+   "fragment_id": "116052609",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "116056297": {
+   "fragment_id": "116052610",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o regime das diretivas antecipadas de vontade (DAV) em matéria de cuidados de saúde, designadamente sob a forma de testamento vital (TV), regula a nomeação de procurador de cuidados de saúde e cria o Registo Nacional do Testamento Vital (RENTEV)."
+  },
+  "116056298": {
+   "fragment_id": "116052611",
+   "type": 1,
+   "heading": "Capítulo II — Diretivas antecipadas de vontade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Diretivas antecipadas de vontade"
+  },
+  "116056299": {
+   "fragment_id": "116052612",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição e conteúdo do documento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição e conteúdo do documento\n\n1 - As diretivas antecipadas de vontade, designadamente sob a forma de testamento vital, são o documento unilateral e livremente revogável a qualquer momento pelo próprio, no qual uma pessoa maior de idade e capaz, que não se encontre interdita ou inabilitada por anomalia psíquica, manifesta antecipadamente a sua vontade consciente, livre e esclarecida, no que concerne aos cuidados de saúde que deseja receber, ou não deseja receber, no caso de, por qualquer razão, se encontrar incapaz de expressar a sua vontade pessoal e autonomamente.\n\n2 - Podem constar do documento de diretivas antecipadas de vontade as disposições que expressem a vontade clara e inequívoca do outorgante, nomeadamente:\n\na) Não ser submetido a tratamento de suporte artificial das funções vitais;\n\nb) Não ser submetido a tratamento fútil, inútil ou desproporcionado no seu quadro clínico e de acordo com as boas práticas profissionais, nomeadamente no que concerne às medidas de suporte básico de vida e às medidas de alimentação e hidratação artificiais que apenas visem retardar o processo natural de morte;\n\nc) Receber os cuidados paliativos adequados ao respeito pelo seu direito a uma intervenção global no sofrimento determinado por doença grave ou irreversível, em fase avançada, incluindo uma terapêutica sintomática apropriada;\n\nd) Não ser submetido a tratamentos que se encontrem em fase experimental;\n\ne) Autorizar ou recusar a participação em programas de investigação científica ou ensaios clínicos."
+  },
+  "116056300": {
+   "fragment_id": "116052613",
+   "type": 11,
+   "heading": "Artigo 3.º — Forma do documento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Forma do documento\n\n1 - As diretivas antecipadas de vontade são formalizadas através de documento escrito, assinado presencialmente perante funcionário devidamente habilitado do Registo Nacional do Testamento Vital ou notário, do qual conste:\n\na) A identificação completa do outorgante;\n\nb) O lugar, a data e a hora da sua assinatura;\n\nc) As situações clínicas em que as diretivas antecipadas de vontade produzem efeitos;\n\nd) As opções e instruções relativas a cuidados de saúde que o outorgante deseja ou não receber, no caso de se encontrar em alguma das situações referidas na alínea anterior;\n\ne) As declarações de renovação, alteração ou revogação das diretivas antecipadas de vontade, caso existam.\n\n2 - No caso de o outorgante recorrer à colaboração de um médico para a elaboração das diretivas antecipadas de vontade, a identificação e a assinatura do médico podem constar no documento, se for essa a opção do outorgante e do médico.\n\n3 - O ministério com a tutela da área da saúde aprova, mediante pareceres prévios do Conselho Nacional de Ética para as Ciências da Vida (CNECV) e da Comissão Nacional de Proteção de Dados, um modelo de diretivas antecipadas de vontade, de utilização facultativa pelo outorgante."
+  },
+  "116056301": {
+   "fragment_id": "116052614",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de capacidade\n\nPodem outorgar um documento de diretivas antecipadas de vontade as pessoas que, cumulativamente:\n\na) Sejam maiores de idade;\n\nb) Não se encontrem interditas ou inabilitadas por anomalia psíquica;\n\nc) Se encontrem capazes de dar o seu consentimento consciente, livre e esclarecido."
+  },
+  "116056302": {
+   "fragment_id": "116052615",
+   "type": 11,
+   "heading": "Artigo 5.º — Limites das diretivas antecipadas de vontade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limites das diretivas antecipadas de vontade\n\nSão juridicamente inexistentes, não produzindo qualquer efeito, as diretivas antecipadas de vontade:\n\na) Que sejam contrárias à lei, à ordem pública ou determinem uma atuação contrária às boas práticas;\n\nb) Cujo cumprimento possa provocar deliberadamente a morte não natural e evitável, tal como prevista nos artigos 134.º e 135.º do Código Penal;\n\nc) Em que o outorgante não tenha expressado, clara e inequivocamente, a sua vontade."
+  },
+  "116056303": {
+   "fragment_id": "116052616",
+   "type": 11,
+   "heading": "Artigo 6.º — Eficácia do documento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Eficácia do documento\n\n1 - Se constar do RENTEV um documento de diretivas antecipadas de vontade, ou se este for entregue à equipa responsável pela prestação de cuidados de saúde pelo outorgante ou pelo procurador de cuidados de saúde, esta deve respeitar o seu conteúdo, sem prejuízo do disposto na presente lei.\n\n2 - As diretivas antecipadas de vontade não devem ser respeitadas quando:\n\na) Se comprove que o outorgante não desejaria mantê-las;\n\nb) Se verifique evidente desatualização da vontade do outorgante face ao progresso dos meios terapêuticos, entretanto verificado;\n\nc) Não correspondam às circunstâncias de facto que o outorgante previu no momento da sua assinatura.\n\n3 - O responsável pelos cuidados de saúde regista no processo clínico qualquer dos factos previstos nos números anteriores, dando conhecimento dos mesmos ao procurador de cuidados de saúde, quando exista, bem como ao RENTEV.\n\n4 - Em caso de urgência ou de perigo imediato para a vida do paciente, a equipa responsável pela prestação de cuidados de saúde não tem o dever de ter em consideração as diretivas antecipadas de vontade, no caso de o acesso às mesmas poder implicar uma demora que agrave, previsivelmente, os riscos para a vida ou a saúde do outorgante.\n\n5 - A decisão fundada no documento de diretivas antecipadas de vontade de iniciar, não iniciar ou de interromper a prestação de um cuidado de saúde, deve ser inscrita no processo clínico do outorgante."
+  },
+  "116056304": {
+   "fragment_id": "116052617",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazo de eficácia do documento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prazo de eficácia do documento\n\n1 - O documento de diretivas antecipadas de vontade é eficaz por um prazo de cinco anos a contar da sua assinatura.\n\n2 - O prazo referido no número anterior é sucessivamente renovável mediante declaração de confirmação do disposto no documento de diretivas antecipadas de vontade, de acordo com o disposto no n.º 1 do artigo 3.º\n\n3 - O documento de diretivas antecipadas de vontade mantém-se em vigor quando ocorra a incapacidade do outorgante no decurso do prazo referido no n.º 1.\n\n4 - Os serviços de RENTEV devem informar por escrito o outorgante de DAV, e, caso exista, o seu procurador, da data de caducidade do documento, até 60 dias antes de concluído o prazo referido no n.º 1."
+  },
+  "116056305": {
+   "fragment_id": "116052618",
+   "type": 11,
+   "heading": "Artigo 8.º — Modificação ou revogação do documento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Modificação ou revogação do documento\n\n1 - O documento de diretivas antecipadas de vontade é revogável ou modificável, no todo ou em parte, em qualquer momento, pelo seu autor.\n\n2 - Sem prejuízo do disposto no n.º 4, a modificação do documento de diretivas antecipadas de vontade está sujeita à forma prevista no artigo 3.º\n\n3 - O prazo de eficácia do documento de diretivas antecipadas de vontade é renovado sempre que nele seja introduzida uma modificação.\n\n4 - O outorgante pode, a qualquer momento e através de simples declaração oral ao responsável pela prestação de cuidados de saúde, modificar ou revogar o seu documento de diretivas antecipadas de vontade, devendo esse facto ser inscrito no processo clínico, no RENTEV, quando aí esteja registado, e comunicado ao procurador de cuidados de saúde, quando exista."
+  },
+  "116056306": {
+   "fragment_id": "116052619",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito à objeção de consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direito à objeção de consciência\n\n1 - É assegurado aos profissionais de saúde que prestam cuidados de saúde ao outorgante o direito à objeção de consciência quando solicitados para o cumprimento do disposto no documento de diretivas antecipadas de vontade.\n\n2 - O profissional de saúde que recorrer ao direito de objeção de consciência deve indicar a que disposição ou disposições das diretivas antecipadas de vontade se refere.\n\n3 - Os estabelecimentos de saúde em que a existência de objetores de consciência impossibilite o cumprimento do disposto no documento de diretivas antecipadas de vontade devem providenciar pela garantia do cumprimento do mesmo, adotando as formas adequadas de cooperação com outros estabelecimentos de saúde ou com profissionais de saúde legalmente habilitados."
+  },
+  "116056307": {
+   "fragment_id": "116052620",
+   "type": 11,
+   "heading": "Artigo 10.º — Não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Não discriminação\n\nNinguém pode ser discriminado no acesso a cuidados de saúde ou na subscrição de um contrato de seguro, em virtude de ter ou não outorgado um documento de diretivas antecipadas de vontade."
+  },
+  "116056308": {
+   "fragment_id": "116052621",
+   "type": 1,
+   "heading": "Capítulo III — Procurador e procuração de cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procurador e procuração de cuidados de saúde"
+  },
+  "116056309": {
+   "fragment_id": "116052622",
+   "type": 11,
+   "heading": "Artigo 11.º — Procurador de cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procurador de cuidados de saúde\n\n1 - Qualquer pessoa pode nomear um procurador de cuidados de saúde, atribuindo-lhe poderes representativos para decidir sobre os cuidados de saúde a receber, ou a não receber, pelo outorgante, quando este se encontre incapaz de expressar a sua vontade pessoal e autonomamente.\n\n2 - Só podem nomear e ser nomeadas procurador de cuidados de saúde as pessoas que preencham os requisitos do artigo 4.º, com exceção dos casos previstos no número seguinte.\n\n3 - Não podem ser nomeados procurador de cuidados de saúde:\n\na) Os funcionários do Registo previsto no artigo 1.º e os do cartório notarial que intervenham nos atos regulados pela presente lei;\n\nb) Os proprietários e os gestores de entidades que administram ou prestam cuidados de saúde.\n\n4 - Excetuam-se da alínea b) do número anterior as pessoas que tenham uma relação familiar com o outorgante.\n\n5 - O outorgante pode nomear um segundo procurador de cuidados de saúde, para o caso de impedimento do indicado."
+  },
+  "116056310": {
+   "fragment_id": "116052623",
+   "type": 11,
+   "heading": "Artigo 12.º — Procuração de cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procuração de cuidados de saúde\n\n1 - A procuração de cuidados de saúde é o documento pelo qual se atribui a uma pessoa, voluntariamente e de forma gratuita, poderes representativos em matéria de cuidados de saúde, para que aquela os exerça no caso de o outorgante se encontrar incapaz de expressar de forma pessoal e autónoma a sua vontade.\n\n2 - É aplicável, com as necessárias adaptações, o disposto nos artigos 262.º, 264.º e nos n.os 1 e 2 do artigo 265.º do Código Civil."
+  },
+  "116056311": {
+   "fragment_id": "116052624",
+   "type": 11,
+   "heading": "Artigo 13.º — Efeitos da representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Efeitos da representação\n\n1 - As decisões tomadas pelo procurador de cuidados de saúde, dentro dos limites dos poderes representativos que lhe competem, devem ser respeitadas pelos profissionais que prestam cuidados de saúde ao outorgante, nos termos da presente lei.\n\n2 - Em caso de conflito entre as disposições formuladas no documento de diretivas antecipadas de vontade e a vontade do procurador de cuidados de saúde, prevalece a vontade do outorgante expressa naquele documento."
+  },
+  "116056312": {
+   "fragment_id": "116052625",
+   "type": 11,
+   "heading": "Artigo 14.º — Extinção da procuração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Extinção da procuração\n\n1 - A procuração de cuidados de saúde é livremente revogável pelo seu outorgante.\n\n2 - A procuração de cuidados de saúde extingue-se por renúncia do procurador, que deve informar, por escrito, o outorgante."
+  },
+  "116056313": {
+   "fragment_id": "116052626",
+   "type": 1,
+   "heading": "Capítulo IV — Registo Nacional de Testamento Vital (RENTEV)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Registo Nacional de Testamento Vital (RENTEV)"
+  },
+  "116056314": {
+   "fragment_id": "116052627",
+   "type": 11,
+   "heading": "Artigo 15.º — Criação do Registo Nacional de Testamento Vital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Criação do Registo Nacional de Testamento Vital\n\n1 - É criado no ministério com a tutela da área da saúde o Registo Nacional do Testamento Vital (RENTEV), com a finalidade de rececionar, registar, organizar e manter atualizada, quanto aos cidadãos nacionais, estrangeiros e apátridas residentes em Portugal, a informação e documentação relativas ao documento de diretivas antecipadas de vontade e à procuração de cuidados de saúde.\n\n2 - O tratamento dos dados pessoais contidos no RENTEV processa-se de acordo com o disposto na legislação que regula a proteção de dados pessoais.\n\n3 - A organização e funcionamento do RENTEV são regulamentados pelo Governo.\n\n4 - Compete ao Governo atribuir ao RENTEV os recursos humanos, técnicos e financeiros necessários ao seu funcionamento."
+  },
+  "116056315": {
+   "fragment_id": "116052628",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo de testamento vital/procuração no RENTEV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo de testamento vital/procuração no RENTEV\n\n1 - O registo no RENTEV tem valor meramente declarativo, sendo as diretivas antecipadas de vontade ou procuração de cuidados de saúde nele não inscritas igualmente eficazes, desde que tenham sido formalizadas de acordo com o disposto na presente lei, designadamente no que concerne à expressão clara e inequívoca da vontade do outorgante.\n\n2 - Para proceder ao registo das diretivas antecipadas de vontade e ou procuração dos cuidados de saúde, o outorgante pode apresentar presencialmente o respetivo documento no RENTEV, ou enviá-lo por correio registado, devendo, neste caso, a assinatura do outorgante ser reconhecida.\n\n3 - O RENTEV informa por escrito o outorgante e, caso exista, o seu procurador, da conclusão do processo de registo do documento de diretivas antecipadas de vontade e ou procuração, enviando a cópia respetiva."
+  },
+  "116056316": {
+   "fragment_id": "116052629",
+   "type": 11,
+   "heading": "Artigo 17.º — Consulta do RENTEV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Consulta do RENTEV\n\n1 - O médico responsável pela prestação de cuidados de saúde a pessoa incapaz de expressar de forma livre e autónoma a sua vontade, assegura da existência de documento de diretivas antecipadas de vontade e ou procuração de cuidados de saúde registados no RENTEV.\n\n2 - Caso se verifique a sua existência, o documento de diretivas antecipadas de vontade, e ou procuração de cuidados de saúde, são anexados ao processo clínico do outorgante.\n\n3 - O outorgante do documento de diretivas antecipadas de vontade e ou procuração de cuidados de saúde, ou o seu procurador, podem solicitar ao RENTEV, a qualquer momento, a consulta ou a entrega de cópia da DAV do outorgante."
+  },
+  "116056317": {
+   "fragment_id": "116052630",
+   "type": 11,
+   "heading": "Artigo 18.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Confidencialidade\n\n1 - Todos aqueles que no exercício das suas funções tomem conhecimento de dados pessoais constantes do documento de diretivas antecipadas de vontade e ou procuração de cuidados de saúde ficam obrigados a observar sigilo profissional, mesmo após o termo das respetivas funções.\n\n2 - A violação do dever a que se refere o número anterior constitui ilícito disciplinar, civil e penal, nos termos da lei."
+  },
+  "116056318": {
+   "fragment_id": "116052631",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "116056319": {
+   "fragment_id": "116052632",
+   "type": 11,
+   "heading": "Artigo 19.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regulamentação\n\nO Governo regulamenta a presente lei no prazo de 180 dias a partir da entrada em vigor."
+  },
+  "116056320": {
+   "fragment_id": "116052633",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação."
+  },
+  "216056053": {
+   "fragment_id": "116052612",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição e conteúdo do documento",
+   "in_force_from": "2023-08-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Lei n.º 35/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/lei/35-2023-215980339), em vigor a partir de 2023-08-20"
+   ],
+   "markdown": "###### Artigo 2.º — Definição e conteúdo do documento\n\n1 - As diretivas antecipadas de vontade, designadamente sob a forma de testamento vital, são o documento unilateral e livremente revogável a qualquer momento pelo próprio, no qual uma pessoa maior de idade e capaz manifesta antecipadamente a sua vontade consciente, livre e esclarecida no que concerne aos cuidados de saúde que deseja receber ou não deseja receber, no caso de, por qualquer razão, se encontrar incapaz de expressar a sua vontade pessoal e autonomamente.\n\n2 - Podem constar do documento de diretivas antecipadas de vontade as disposições que expressem a vontade clara e inequívoca do outorgante, nomeadamente:\n\na) Não ser submetido a tratamento de suporte artificial das funções vitais;\n\nb) Não ser submetido a tratamento fútil, inútil ou desproporcionado no seu quadro clínico e de acordo com as boas práticas profissionais, nomeadamente no que concerne às medidas de suporte básico de vida e às medidas de alimentação e hidratação artificiais que apenas visem retardar o processo natural de morte;\n\nc) Receber os cuidados paliativos adequados ao respeito pelo seu direito a uma intervenção global no sofrimento determinado por doença grave ou irreversível, em fase avançada, incluindo uma terapêutica sintomática apropriada;\n\nd) Não ser submetido a tratamentos que se encontrem em fase experimental;\n\ne) Autorizar ou recusar a participação em programas de investigação científica ou ensaios clínicos.\n\n> Alterado pelo/a Artigo 48.º do/a [Lei n.º 35/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/lei/35-2023-215980339), em vigor a partir de 2023-08-20"
+  },
+  "216056054": {
+   "fragment_id": "116052614",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de capacidade",
+   "in_force_from": "2023-08-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 54.º do/a [Lei n.º 35/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/lei/35-2023-215980339), em vigor a partir de 2023-08-20",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2018-02-10"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de capacidade\n\nPodem outorgar um documento de diretivas antecipadas de vontade as pessoas que, cumulativamente:\n\na) Sejam maiores de idade;\n\nb) [Revogada.]\n\nc) Se encontrem capazes de dar o seu consentimento consciente, livre e esclarecido.\n\n> Alterado pelo/a Artigo 54.º do/a [Lei n.º 35/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/lei/35-2023-215980339), em vigor a partir de 2023-08-20\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2018-02-10"
+  },
+  "116056323": {
+   "fragment_id": "116052625",
+   "type": 11,
+   "heading": "Artigo 14.º — Extinção da procuração",
+   "in_force_from": "2018-02-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2018-02-10"
+   ],
+   "markdown": "###### Artigo 14.º — Extinção da procuração\n\n1 - A procuração de cuidados de saúde é livremente revogável pelo seu outorgante.\n\n2 - A procuração de cuidados de saúde extingue-se por renúncia do procurador, que deve informar, por escrito, o outorgante.\n\n3 - A procuração pode ser revogada por decisão do tribunal que instaure o acompanhamento de maior.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2018-02-10"
+  },
+  "116056321": {
+   "fragment_id": "116052634",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 1 de junho de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 5 de julho de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 6 de julho de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

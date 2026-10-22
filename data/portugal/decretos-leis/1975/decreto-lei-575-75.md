@@ -1,0 +1,229 @@
+---
+schema_version: '1.0'
+id: pt:dre:311622:por
+title: Decreto-Lei n.º 575/75
+short_title: null
+summary: Cria a Comissão Nacional de Segurança da Aviação Civil e comissões aeroportuárias de segurança da aviação civil
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 575/75
+official_date: null
+publication_date: '1975-10-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 231/1975, Série I de 1975-10-06
+  number: '231'
+  series: I
+  supplement: null
+  pages: 1572 - 1574
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/10/23100/15721574.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '311622'
+  dre_path: /dr/detalhe/decreto-lei/575-1975-311622
+  internal: pt:dre:311622:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/575-1975-311622
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/575-1975-311622
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-01-17T00:00:00Z'
+integrity:
+  source_sha256: 4e15bf70f1b3b3211302d83dfcb5f680a61c05a0b464f6df06f0c57f0a0f7df5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-575-311622.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:308169:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 575/75
+
+de 6 de Outubro
+
+A necessidade de proteger o transporte aéreo contra a prática, cada vez mais frequente, de actos de terrorismo, entre os quais avulta a apropriação ilícita de aeronaves, vem conduzindo as organizações internacionais interessadas e a maioria dos países à adopção de normas especiais de segurança.
+
+Em face do desenvolvimento já atingido pelos nossos transportes aéreos e da importância de que os aeroportos portugueses se revestem no tráfego internacional, impõe-se que tal orientação seja também seguida entre nós.
+
+O estudo e a aplicação em cada Estado das normas em causa exigem, porém, a intervenção coordenada de um conjunto de serviços públicos e entidades privadas ligados à aviação civil.
+
+Torna-se, pois, indispensável, conforme o recomendado internacionalmente, e à semelhança do que tem vindo a ser posto em prática em grande número de Estados, criar entre nós os órgãos que assegurem não só a coordenação, no plano nacional, da execução das normas de segurança aplicáveis nos aeródromos e instalações de apoio à navegação aérea, como ainda a integração do País no sistema de prevenção e permuta de informações estabelecidas para a aviação civil internacional.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+### CAPÍTULO I — Generalidades
+
+###### ARTIGO 1.º
+
+1. São criadas, tendo em vista a segurança da aviação civil em especial, como instrumento de prevenção contra o terrorismo, as comissões seguintes:
+
+a) Comissão Nacional de Segurança da Aviação Civil;
+
+b) Comissões aeroportuárias de segurança da aviação civil.
+
+2. A Comissão referida na alínea a) do número anterior constitui o órgão central do serviço em causa, superintendendo nas comissões referidas na alínea b).
+
+3. As comissões referidas na alínea b) do n.º 1 deste artigo são órgãos locais que secundam a acção da Comissão referida na sua alínea a).
+
+###### ARTIGO 2.º
+
+1. As comissões a que se refere o artigo anterior revestem a natureza de órgãos de estudo e de apoio, não possuindo competência executiva.
+
+2. De harmonia com o disposto no número anterior, o expediente das comissões de segurança da aviação civil é assegurado da maneira seguinte:
+
+a) Pela Direcção-Geral da Aeronáutica Civil, quanto à Comissão Nacional de Segurança da Aviação Civil;
+
+b) Pelos aeroportos respectivos, quanto às comissões aeroportuárias de segurança da aviação civil.
+
+### CAPÍTULO II — Comissão Nacional de Segurança da Aviação Civil
+
+###### ARTIGO 3.º
+
+1. A Comissão Nacional de Segurança da Aviação Civil é constituída por:
+
+a) Três representantes da Direcção-Geral da Aeronáutica Civil, um dos quais presidirá e outro dos quais secretariará;
+
+b) Um representante do Comando-Geral da Polícia de Segurança Pública;
+
+c) Um representante do Comando-Geral da Guarda Fiscal;
+
+d) Um representante da Polícia Judiciária Interpol;
+
+e) Um representante da Direcção-Geral das Alfândegas;
+
+f) Um representante da Direcção-Geral dos Negócios Económicos;
+
+g) Um representante da Direcção-Geral de Saúde;
+
+h) Um representante dos Correios e Telecomunicações de Portugal;
+
+i) Um representante de cada uma das empresas nacionais de navegação aérea;
+
+j) Um representante do Sindicato do Pessoal de Voo da Aviação Civil.
+
+2. Poderá cada um dos organismos referidos nas alíneas b) a i) do número anterior designar um representante substituto.
+
+###### ARTIGO 4.º — (Colaboração de entidades públicas ou privadas)
+
+Sempre que tal se mostre conveniente, a Comissão poderá ainda solicitar a colaboração de outros serviços públicos ou entidades privadas não representados na Comissão.
+
+###### ARTIGO 5.º — (Competência)
+
+Tendo em vista o disposto nos n.os 1 e 2 do artigo 1.º, compete à Comissão Nacional de Segurança da Aviação Civil, designadamente:
+
+a) Estudar e propor as normas de segurança a aplicar nos aeródromos, instalações e serviços de apoio à navegação aérea (contrôle do tráfego aéreo, telecomunicações e ajudas à navegação aérea e meteorologia);
+
+b) Estudar e propor as normas de segurança do transporte aéreo nos aeródromos e espaços aéreos sob contrôle das autoridades portuguesas;
+
+c) Dar parecer e participar na preparação das convenções e acordos internacionais sobre segurança da aviação civil;
+
+d) Promover e fiscalizar a aplicação das convenções e acordos internacionais sobre segurança da aviação civil de que o País seja parte, e bem assim das normas nacionais nesta matéria;
+
+e) Coordenar, para o efeito, a participação dos diferentes departamentos e serviços intervindo na execução das normas de segurança aplicáveis ao transporte aéreo, aeródromos e instalações de apoio à navegação aérea;
+
+f) Estabelecer, no âmbito nacional, os sistemas de permuta de informações e avisos de prevenção estabelecidos para a segurança da aviação civil internacional;
+
+g) Orientar e coordenar o funcionamento das comissões aeroportuárias de segurança da aviação civil.
+
+### CAPÍTULO III — Comissões aeroportuárias de segurança da aviação civil
+
+###### ARTIGO 6.º — (Constituição)
+
+1. As comissões aeroportuárias de segurança da aviação civil são constituídas, em cada aeroporto, por:
+
+a) O director do aeroporto, que presidirá;
+
+b) O comandante distrital da Polícia de Segurança Pública;
+
+c) O comandante da companhia ou destacamento da Guarda Fiscal;
+
+d) O chefe da delegação aduaneira;
+
+e) O chefe da estação dos Correios e Telecomunicações;
+
+f) Os chefes de escala das empresas nacionais da navegação aérea;
+
+g) Um membro do Gabinete Nacional da Interpol, em representação da Polícia Judiciária.
+
+2. Qualquer das entidades a que se refere o número anterior poderá designar um substituto.
+
+###### ARTIGO 7.º — (Colaboração de entidades públicas ou privadas)
+
+As comissões aeroportuárias poderão solicitar a colaboração dos representantes das empresas de navegação aérea estrangeiras, bem como de outros serviços públicos ou entidades privadas directa ou indirectamente ligadas ao funcionamento do respectivo aeroporto e nelas não representados.
+
+###### ARTIGO 8.º — (Competência)
+
+1. Compete às comissões aeroportuárias de segurança da aviação civil, nos respectivos aeroportos, designadamente:
+
+a) Promover a plicação das normas de segurança da aviação civil em vigor;
+
+b) Propor as alterações que a experiência aconselhe a introduzir nas normas em vigor para a segurança do transporte aéreo e instalações aeroportuárias;
+
+c) Coordenar a participação dos diferentes representantes de serviços intervindo na execução das normas de segurança da aviação civil;
+
+d) Estabelecer os sistemas de permuta de informações e avisos de prevenção estabelecidos para a segurança da aviação civil internacional.
+
+2. O comandante distrital da Polícia de Segurança Pública é o único responsável pelo planeamento, coordenação e execução do sistema da segurança aeroportuária, competindo-lhe especialmente:
+
+a) Planear, coordenar e supervisar o conjunto das medidas de segurança aeroportuária de acordo com as normas em vigor;
+
+b) Estabelecer procedimentos que completem e garantam as normas em vigor para a segurança do transporte aéreo, das instalações aeroportuárias e das pessoas e bens na área do aeroporto;
+
+c) Garantir a execução de todos os procedimentos com os meios postos à sua disposição.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Silvano Ribeiro - Alfredo António Cândido de Moura - Joaquim Pinto da Rocha e Cunha - José Joaquim Fragoso - Mário João de Oliveira Ruivo - Henrique Manuel Araújo de Oliveira Sá - Francisco José Cruz Pereira de Moura.
+
+**Promulgado em 17 de Setembro de 1975.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

@@ -1,0 +1,253 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:902897869:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-937193345",
+ "dre_path": "/dr/detalhe/portaria/9-2025-902897869",
+ "source_lastmod": "2025-12-09",
+ "versions": [
+  {
+   "date": "2025-01-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "937224675",
+    "937224875",
+    "937225075",
+    "937225275",
+    "937225475",
+    "937225675",
+    "937225875",
+    "937226075",
+    "937226275",
+    "937226475",
+    "937226675",
+    "937226875",
+    "937227075",
+    "937227275",
+    "937227475",
+    "937227675",
+    "937227875",
+    "937228075",
+    "937228275",
+    "937228475",
+    "937228675",
+    "937228875",
+    "937229075",
+    "937229275",
+    "937229475",
+    "937229675"
+   ]
+  }
+ ],
+ "fragments": {
+  "937224675": {
+   "fragment_id": "937224575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A saúde mental é uma componente fundamental do bem-estar dos indivíduos e as perturbações mentais são, de entre as doenças crónicas, a primeira causa de incapacidade em Portugal, justificando cerca de um terço dos anos de vida saudáveis perdidos.\n\nO Decreto-Lei n.º 113/2021, de 14 de dezembro, que cria a Coordenação Nacional das Políticas de Saúde Mental (CNPSM), introduziu um conjunto de inovações importantes relativamente à legislação anterior, tais como:\n\na) Consagração do princípio geral segundo o qual a organização e funcionamento dos serviços locais de saúde mental (SLSM) se devem orientar para a recuperação integral das pessoas com doença mental;\n\nb) Configuração de um modelo estrutural no qual existem (i) órgãos consultivos de âmbito nacional, regional e local, (ii) estruturas de coordenação de âmbito nacional e regional e (iii) SLSM de saúde mental de nível local e regional;\n\nc) Criação das coordenações regionais de saúde mental (CRSM);\n\nd) Consagração do princípio geral de avaliação regular da execução das políticas e planos de saúde mental, com participação de entidades independentes;\n\ne) Reconfiguração da organização dos serviços de saúde mental, baseada no princípio da setorização do território, com expansão das equipas comunitárias de saúde mental (ECSM);\n\nf) Qualificação das ECSM como o núcleo fundamental dos SLSM, os quais se devem organizar em centros de responsabilidade integrada (CRI).\n\nAs ECSM são equipas multidisciplinares que asseguram cuidados diferenciados de saúde mental a uma determinada população, numa área geodemográfica definida. Estas equipas, de natureza multiprofissional, são responsáveis pela articulação com os cuidados de saúde primários (CSP), com a Rede Nacional de Cuidados Continuados Integrados (RNCCI), com as unidades forenses, com outros parceiros e estruturas da sua zona de responsabilidade geográfica assistencial, de que são exemplo as câmaras municipais, as juntas de freguesia, as organizações da sociedade civil, as associações de doentes e de familiares.\n\nAs ECSM surgiram na sequência da evolução e investigação de vários modelos de intervenção em saúde mental, decorrentes dos processos de desinstitucionalização e de desenvolvimento comunitário. Estes modelos consideram fundamental o entendimento do contexto, da estrutura e do meio onde as pessoas vivem e adoecem, bem como dos fatores biopsicossociais que contribuem para a causa e manutenção da doença mental, com particular atenção às populações com maior risco e vulnerabilidade. Nesse sentido, as ECSM contribuem para promover a recuperação e integração familiar e social através da prestação de cuidados multidisciplinares de proximidade, em que a participação e envolvimento das pessoas, da e na comunidade, são particularmente valorizadas.\n\nNo contexto do Programa de Recuperação e Resiliência (PRR) foi definida, como meta até final de 2025, a criação de 40 ECSM para adultos e para a infância e adolescência. Destas, 20 já estão em atividade e as restantes 20 encontram-se em processo de implementação.\n\nPara além das ECSM atribuídas no PRR, os SLSM estão a proceder à setorização do território a seu cargo, em conjunto com as CRSM, devendo cada setor ficar sob responsabilidade assistencial de uma ECSM.\n\nAssim, para contribuir para o processo de setorização dos SLSM e melhorar as condições de funcionamento e a diferenciação das ECSM, de acordo com os objetivos do Plano Nacional de Saúde Mental, importa agora definir o regulamento para atribuição de apoios financeiros, incluindo os procedimentos de apreciação e seleção de candidaturas das entidades a apoiar.\n\nNestes termos, manda o Governo, pela Ministra da Saúde, o seguinte:"
+  },
+  "937224875": {
+   "fragment_id": "937224775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado em anexo à presente portaria, da qual faz parte integrante, o Regulamento de Apoios Financeiros à Implementação de Equipas Comunitárias de Saúde Mental."
+  },
+  "937225075": {
+   "fragment_id": "937224975",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "937225275": {
+   "fragment_id": "937225175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Saúde, Ana Paula Martins, em 7 de janeiro de 2025."
+  },
+  "937225475": {
+   "fragment_id": "937225375",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APOIOS FINANCEIROS À IMPLEMENTAÇÃO DE EQUIPAS COMUNITÁRIAS DE SAÚDE MENTAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APOIOS FINANCEIROS À IMPLEMENTAÇÃO DE EQUIPAS COMUNITÁRIAS DE SAÚDE MENTAL"
+  },
+  "937225675": {
+   "fragment_id": "937225575",
+   "type": 11,
+   "heading": "Artigo 1.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Princípios\n\nO presente Regulamento estabelece as normas a considerar para atribuição de apoio financeiro a serviços locais de saúde mental (SLSM), no âmbito do previsto no Decreto-Lei n.º 113/2021, de 14 de dezembro, e das orientações estratégicas da Coordenação Nacional das Políticas de Saúde Mental (CNPSM)."
+  },
+  "937225875": {
+   "fragment_id": "937225775",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivo\n\nOs apoios financeiros previstos no presente Regulamento têm como objetivo promover a diferenciação das equipas comunitárias de saúde mental (ECSM), de molde a melhorar a qualidade da prestação de cuidados numa lógica de proximidade e continuidade."
+  },
+  "937226075": {
+   "fragment_id": "937225975",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito territorial\n\nO presente Regulamento aplica-se a Portugal Continental."
+  },
+  "937226275": {
+   "fragment_id": "937226175",
+   "type": 11,
+   "heading": "Artigo 4.º — Financiamento e operacionalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Financiamento e operacionalização\n\nOs apoios financeiros previstos no presente Regulamento são atribuídos pela CNPSM e operacionalizados pela Secretaria-Geral do Ministério da Saúde (SGMS), no valor total de 1 milhão de euros."
+  },
+  "937226475": {
+   "fragment_id": "937226375",
+   "type": 11,
+   "heading": "Artigo 5.º — Candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Candidatos\n\nPodem candidatar-se à presente linha de financiamento todos os SLSM das instituições do SNS cujo plano de setorização, incluindo expressamente a atribuição de áreas assistenciais a ECSM, já tenha sido aprovado pelas coordenações regionais de saúde mental (CRSM) da respetiva região."
+  },
+  "937226675": {
+   "fragment_id": "937226575",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Financiamento\n\n1 - O montante disponível para os apoios financeiros previstos no presente Regulamento decorre da Portaria n.º 120/2024/1, de 27 de março.\n\n2 - O apoio financeiro a atribuir a cada projeto é de 100 % do valor global elegível, até ao limite máximo de 50 000 euros por instituição.\n\n3 - Para efeitos do disposto no número anterior, considera-se valor global elegível a soma dos valores das despesas consideradas elegíveis, nos termos do artigo seguinte.\n\n4 - O apoio financeiro a conceder tem natureza não reembolsável.\n\n5 - Os montantes referidos nos n.<sup>os</sup> 1 e 2 já incluem o imposto sobre o valor acrescentado (IVA), quando aplicável."
+  },
+  "937226875": {
+   "fragment_id": "937226775",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade de despesas\n\n1 - Todas as despesas a considerar destinam-se, exclusivamente, à prossecução dos projetos referidos no artigo 2.º do presente Regulamento e regem-se por princípios de boa administração, boa gestão financeira e otimização dos recursos disponíveis.\n\n2 - As despesas elegíveis pressupõem um pagamento efetivo por parte da entidade beneficiária dos apoios, a ser devidamente comprovado por esta.\n\n3 - Podem ser consideradas despesas elegíveis:\n\na) Aquisição de viaturas elétricas, adaptadas para cuidados na comunidade, nomeadamente para intervenções domiciliárias, até 35 000 euros;\n\nb) Aquisição de equipamentos, até 15 000 euros:\n\ni) Equipamentos e instrumentos para avaliação e prestação de cuidados;\n\nii) Equipamento informático e/ou de comunicação;\n\niii) Equipamentos gerais, incluindo mobiliário;\n\nc) Requalificação de instalações para o funcionamento extra-hospitalar de ECSM, até 50 000 euros."
+  },
+  "937227075": {
+   "fragment_id": "937226975",
+   "type": 11,
+   "heading": "Artigo 8.º — Limite da elegibilidade de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Limite da elegibilidade de despesas\n\nSão apenas elegíveis as despesas realizadas até ao prazo fixado no aviso de abertura."
+  },
+  "937227275": {
+   "fragment_id": "937227175",
+   "type": 11,
+   "heading": "Artigo 9.º — Cumulação de apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cumulação de apoios financeiros\n\nEstão impedidos de integrar propostas/pedidos no âmbito do presente Regulamento todas as ações e/ou projetos já apoiados através de outros programas de financiamento."
+  },
+  "937227475": {
+   "fragment_id": "937227375",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação de candidaturas\n\n1 - As candidaturas aos apoios financeiros devem ser apresentadas à CNPSM.\n\n2 - Para efeitos de formalização das candidaturas, os candidatos devem preencher o formulário disponível no sítio eletrónico da Secretaria-Geral, e remetê-lo para o endereço: geral@cnpsm.min-saude.pt\n\n3 - Cada candidatura deve ser acompanhada de:\n\na) Declaração da CRSM de aprovação do projeto.\n\nb) Declaração da não comparticipação financeira no projeto de outras entidades externas à instituição.\n\nc) Declaração de compromisso do conselho de administração relativa à manutenção após o financiamento.\n\n4 - Caso a candidatura não se encontre instruída com todos os documentos referidos no número anterior, a CNPSM notifica a entidade candidata para, no prazo de cinco dias úteis, proceder à entrega dos elementos em falta."
+  },
+  "937227675": {
+   "fragment_id": "937227575",
+   "type": 11,
+   "heading": "Artigo 11.º — Período de apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Período de apresentação de candidaturas\n\nA apresentação das propostas ocorre no prazo indicado no aviso de abertura."
+  },
+  "937227875": {
+   "fragment_id": "937227775",
+   "type": 11,
+   "heading": "Artigo 12.º — Análise e aprovação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Análise e aprovação das candidaturas\n\n1 - Cabe à CNPSM a análise das candidaturas, que contempla as seguintes dimensões:\n\na) Coerência da candidatura face aos princípios estabelecidos e aos objetivos definidos no artigo 2.º;\n\nb) Coerência entre o diagnóstico de necessidades, a intervenção proposta e os resultados esperados;\n\nc) Adequação do cronograma e do plano orçamental;\n\n2 - Têm prioridade os SLSM que não foram alvo de investimento prévio pelo PRR.\n\n3 - A CNPSM pode solicitar à entidade proponente, a todo o tempo, os esclarecimentos que considere necessários e até negociar a apresentação de propostas alternativas à que foi primeiramente apresentada.\n\n4 - A entidade proponente tem um prazo de 10 dias úteis para resposta aos pedidos de esclarecimento solicitados."
+  },
+  "937228075": {
+   "fragment_id": "937227975",
+   "type": 11,
+   "heading": "Artigo 13.º — Lista preliminar de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Lista preliminar de classificação\n\n1 - A lista preliminar de classificação das candidaturas inclui as candidaturas admitidas e excluídas, sendo assinalado, quanto às excluídas, o motivo da exclusão.\n\n2 - As candidaturas admitidas são ordenadas na lista por ordem decrescente de pontuação, com indicação das que serão financiadas de acordo com a dotação disponível.\n\n3 - Em caso de empate na pontuação, é relevada a dispersão geográfica e a dificuldade dos acessos, sendo realizado, caso o empate subsista, sorteio.\n\n4 - A lista preliminar de classificação é remetida pelo júri a todas as entidades, para efeitos de audiência prévia, pelo prazo de 10 dias.\n\n5 - As reclamações recebidas, através do endereço eletrónico identificado no aviso de abertura, são apreciadas pelo júri no prazo máximo de 5 dias úteis."
+  },
+  "937228275": {
+   "fragment_id": "937228175",
+   "type": 11,
+   "heading": "Artigo 14.º — Lista final de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Lista final de classificação\n\n1 - A lista final de classificação proposta pelo júri inclui todas as candidaturas rececionadas.\n\n2 - A lista final de classificação ordena, por ordem decrescente de pontuação, todas as candidaturas admitidas, assinalando, pela mesma ordem, as que serão financiadas, até esgotar a dotação disponível.\n\n3 - A lista final de classificação inclui ainda as candidaturas excluídas, com indicação do respetivo motivo de exclusão.\n\n4 - As candidaturas admitidas que não obtenham qualquer pontuação não são passíveis de ser financiadas.\n\n5 - A lista final de classificação é submetida à aprovação do coordenador da CNPSM, homologada pela secretária-geral do Ministério da Saúde e publicitada no sítio eletrónico da SGMS."
+  },
+  "937228475": {
+   "fragment_id": "937228375",
+   "type": 11,
+   "heading": "Artigo 15.º — Prazo de avaliação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Prazo de avaliação das candidaturas\n\nO prazo de avaliação das candidaturas pelo júri não pode exceder 15 dias úteis, contados da data-limite de apresentação das candidaturas devidamente instruídas."
+  },
+  "937228675": {
+   "fragment_id": "937228575",
+   "type": 11,
+   "heading": "Artigo 16.º — Contrato de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contrato de cooperação\n\n1 - O financiamento de cada candidatura aprovada é contratualizado através de um contrato de cooperação, nos termos do disposto no n.º 5 do artigo 5.º-A do Decreto-Lei n.º 18/2008, de 29 de janeiro, a estabelecer entre a SGMS, a CNPSM e a entidade proponente da candidatura, que estabelece o montante máximo do financiamento, bem como o respetivo faseamento.\n\n2 - O financiamento contratualizado é transferido para as entidades proponentes de acordo com o contrato de cooperação assinado.\n\n3 - A assinatura do contrato de cooperação exige a apresentação prévia pela(s) entidade(s) proponente(s) do comprovativo de situação regularizada perante a autoridade tributária e a segurança social e a ficha de entidade fornecedora da Secretaria-Geral do Ministério da Saúde, devidamente preenchida.\n\n4 - A SGMS presta informação mensal à CNPSM sobre os pagamentos efetuados às instituições, e, no caso de existirem, de eventuais incumprimentos processuais que os tenham impedido."
+  },
+  "937228875": {
+   "fragment_id": "937228775",
+   "type": 11,
+   "heading": "Artigo 17.º — Prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prestação de contas\n\n1 - As entidades proponentes ficam obrigadas a produzir dois relatórios de progresso e um relatório final, segundo modelo fornecido pela CNPSM.\n\n2 - Cabe à CNPSM:\n\na) Apreciar os relatórios de progresso e os relatórios finais, verificando a conformidade da execução física e financeira com o previsto no projeto;\n\nb) Promover as diligências necessárias para a correção de eventuais inconformidades;\n\nc) Propor à SGMS a aprovação do pagamento das correspondentes tranches do financiamento, bem como medidas corretivas, se for caso disso."
+  },
+  "937229075": {
+   "fragment_id": "937228975",
+   "type": 11,
+   "heading": "Artigo 18.º — Acumulação com outras fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Acumulação com outras fontes de financiamento\n\n1 - Os financiamentos atribuídos podem ser complementados pelas entidades proponentes e parceiras através de outros apoios e recursos, desde que devidamente declarados e sem incorrer em situações de duplo financiamento das mesmas atividades.\n\n2 - A concessão de outros apoios, financeiros ou não financeiros, necessários ao desenvolvimento dos projetos, deve estar prevista e confirmada no momento da submissão das candidaturas.\n\n3 - Não é permitido o recurso a financiamentos concedidos para completar ou reforçar projetos aprovados por outras fontes de financiamento."
+  },
+  "937229275": {
+   "fragment_id": "937229175",
+   "type": 11,
+   "heading": "Artigo 19.º — Conflito de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conflito de interesses\n\nOs membros da CNPSM e das equipas regionais estão impedidos de apresentar candidaturas."
+  },
+  "937229475": {
+   "fragment_id": "937229375",
+   "type": 11,
+   "heading": "Artigo 20.º — Acompanhamento dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acompanhamento dos projetos\n\n1 - A monitorização da utilização do apoio financeiro é da responsabilidade da CNPSM e tem por objetivo acompanhar a execução das candidaturas, prevenir ou detetar irregularidades e confirmar que os apoios financeiros se destinaram aos fins para os quais foram concedidos.\n\n2 - O acompanhamento é operacionalizado através da apresentação à CNPSM do relatório de execução até ao final do 2.º mês da transferência do financiamento."
+  },
+  "937229675": {
+   "fragment_id": "937229575",
+   "type": 11,
+   "heading": "Artigo 21.º — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Resolução do contrato\n\n1 - O contrato pode ser unilateralmente resolvido pela SGMS, nos seguintes casos:\n\na) Não cumprimento do projeto, nomeadamente do prazo de implementação.\n\nb) Utilização dos apoios financeiros para fins diferentes do aprovado;\n\nc) Recusa de prestação de informações,\n\n2 - A resolução implica a caducidade do apoio financeiro concedido, ficando a entidade beneficiária obrigada a repor as importâncias recebidas."
+  }
+ }
+}

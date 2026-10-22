@@ -1,0 +1,1913 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:216752:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1998-1024650062",
+ "dre_path": "/dr/detalhe/portaria/996-1998-216752",
+ "source_lastmod": "2026-01-27",
+ "versions": [
+  {
+   "date": "1998-12-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:265564:por",
+     "title": "Portaria n.º 1007-A/98",
+     "published": "1998-12-02",
+     "dre_path": "/dr/detalhe/portaria/1007-a-1998-265564"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "1024650181",
+    "1024688408",
+    "1024688409",
+    "1024688410",
+    "1024688411",
+    "1024688412",
+    "1024688413",
+    "1024688414",
+    "1024688421",
+    "1024688415",
+    "1024650182",
+    "1024650183",
+    "1024650184",
+    "1024650185",
+    "1024650186",
+    "1024650187",
+    "1024650188",
+    "1024650189",
+    "1024650190",
+    "1024650191",
+    "1024650192",
+    "1024650193",
+    "1024650194",
+    "1024650195",
+    "1024650196",
+    "1024650197",
+    "1024650198",
+    "1024650199",
+    "1024650200",
+    "1024688416",
+    "1024650201",
+    "1024650202",
+    "1024650203",
+    "1024688407",
+    "1024157661",
+    "1024650205",
+    "1024650206",
+    "1024650207",
+    "1024650208",
+    "1024650209",
+    "1024650210",
+    "1024650211",
+    "1024650212",
+    "1024650213",
+    "1024650214",
+    "1024650215",
+    "1024650216",
+    "1024650217",
+    "1024650218",
+    "1024650219",
+    "1024688417",
+    "1024650220",
+    "1024650221",
+    "1024650222",
+    "1024650223",
+    "1024650224",
+    "1024650225",
+    "1024650226",
+    "1024650227",
+    "1024650228",
+    "1024650229",
+    "1024650230",
+    "1024650231",
+    "1024650232",
+    "1024650233",
+    "1024650234",
+    "1024650235",
+    "1024688423",
+    "1024650237",
+    "1024650238",
+    "1024650239",
+    "1024650240",
+    "1024650241",
+    "1024650242",
+    "1024688418",
+    "1024650243",
+    "1024650244",
+    "1024650245",
+    "1024650246",
+    "1024650247",
+    "1024650248",
+    "1024650249",
+    "1024688419",
+    "1024650250",
+    "1024650251",
+    "1024650252",
+    "1024650253",
+    "1024650254",
+    "1024650255",
+    "1024650256",
+    "1024650257",
+    "1024650258",
+    "1024650259",
+    "1024650260",
+    "1024650261",
+    "1024688424",
+    "1024650263",
+    "1024650264",
+    "1024650265",
+    "1024688420",
+    "1024650266",
+    "1024650267",
+    "1024650268",
+    "1024650269",
+    "1024650270",
+    "1024650271",
+    "1024650272",
+    "1024650273",
+    "1024650274",
+    "1024688375",
+    "1024688376",
+    "1024688377",
+    "1024688378",
+    "1024688379",
+    "1024688380",
+    "1024688381",
+    "1024688382",
+    "1024688383",
+    "1024688384",
+    "1024157662",
+    "1024688386",
+    "1024688387",
+    "1024157663",
+    "1024688389",
+    "1024688390",
+    "1024688391",
+    "1024688392",
+    "1024688393",
+    "1024688394",
+    "1024688395",
+    "1024688396",
+    "1024688397",
+    "1024688398",
+    "1024688399",
+    "1024688400",
+    "1024688401",
+    "1024688402",
+    "1024688403",
+    "1024688404",
+    "1024688405",
+    "1024688406"
+   ]
+  },
+  {
+   "date": "1999-08-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:433812:por",
+     "title": "Portaria n.º 684/99",
+     "published": "1999-08-24",
+     "dre_path": "/dr/detalhe/portaria/684-1999-433812"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 24.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "1024650181",
+    "1024688408",
+    "1024688409",
+    "1024688410",
+    "1024688411",
+    "1024688412",
+    "1024688413",
+    "1024688414",
+    "1024688421",
+    "1024688415",
+    "1024650182",
+    "1024650183",
+    "1024650184",
+    "1024650185",
+    "1024650186",
+    "1024650187",
+    "1024650188",
+    "1024650189",
+    "1024650190",
+    "1024650191",
+    "1024650192",
+    "1024650193",
+    "1024650194",
+    "1024650195",
+    "1024650196",
+    "1024650197",
+    "1024650198",
+    "1024650199",
+    "1024650200",
+    "1024688416",
+    "1024650201",
+    "1024650202",
+    "1024650203",
+    "1024688407",
+    "1024157661",
+    "1024650205",
+    "1024650206",
+    "1024650207",
+    "1024650208",
+    "1024650209",
+    "1024650210",
+    "1024650211",
+    "1024650212",
+    "1024650213",
+    "1024650214",
+    "1024650215",
+    "1024650216",
+    "1024650217",
+    "1028060198",
+    "1024650219",
+    "1024688417",
+    "1028060191",
+    "1024650221",
+    "1024650222",
+    "1024650223",
+    "1024650224",
+    "1024650225",
+    "1024650226",
+    "1024650227",
+    "1024650228",
+    "1024650229",
+    "1024650230",
+    "1024650231",
+    "1024650232",
+    "1024650233",
+    "1024650234",
+    "1028060192",
+    "1024688423",
+    "1024650237",
+    "1028060199",
+    "1024650239",
+    "1024650240",
+    "1024650241",
+    "1024650242",
+    "1024688418",
+    "1024650243",
+    "1024650244",
+    "1024650245",
+    "1024650246",
+    "1024650247",
+    "1024650248",
+    "1024650249",
+    "1024688419",
+    "1024650250",
+    "1024650251",
+    "1024650252",
+    "1024650253",
+    "1024650254",
+    "1024650255",
+    "1024650256",
+    "1024650257",
+    "1024650258",
+    "1024650259",
+    "1024650260",
+    "1024650261",
+    "1024688424",
+    "1024650263",
+    "1024650264",
+    "1024650265",
+    "1024688420",
+    "1024650266",
+    "1024650267",
+    "1024650268",
+    "1024650269",
+    "1024650270",
+    "1024650271",
+    "1024650272",
+    "1024650273",
+    "1024650274",
+    "1024688375",
+    "1024688376",
+    "1024688377",
+    "1024688378",
+    "1024688379",
+    "1024688380",
+    "1024688381",
+    "1024688382",
+    "1024688383",
+    "1024688384",
+    "1024157662",
+    "1024688386",
+    "1024688387",
+    "1028060193",
+    "1024688389",
+    "1024688390",
+    "1024688391",
+    "1024688392",
+    "1024688393",
+    "1024688394",
+    "1024688395",
+    "1024688396",
+    "1024688397",
+    "1024688398",
+    "1028060194",
+    "1028060195",
+    "1024688401",
+    "1024688402",
+    "1028060196",
+    "1024688404",
+    "1024688405",
+    "1028060197"
+   ]
+  },
+  {
+   "date": "2001-09-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:641400:por",
+     "title": "Portaria n.º 1117/2001",
+     "published": "2001-09-20",
+     "dre_path": "/dr/detalhe/portaria/1117-2001-641400"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "1024650181",
+    "1024688408",
+    "1024688409",
+    "1024688410",
+    "1024688411",
+    "1024688412",
+    "1024688413",
+    "1024688414",
+    "1024688421",
+    "1024688415",
+    "1024650182",
+    "1024650183",
+    "1024650184",
+    "1024650185",
+    "1024650186",
+    "1024650187",
+    "1024650188",
+    "1024650189",
+    "1024650190",
+    "1024650191",
+    "1024650192",
+    "1024650193",
+    "1024650194",
+    "1029684165",
+    "1024650196",
+    "1024650197",
+    "1024650198",
+    "1024650199",
+    "1024650200",
+    "1024688416",
+    "1024650201",
+    "1024650202",
+    "1024650203",
+    "1024688407",
+    "1024157661",
+    "1024650205",
+    "1024650206",
+    "1024650207",
+    "1024650208",
+    "1024650209",
+    "1024650210",
+    "1024650211",
+    "1024650212",
+    "1024650213",
+    "1024650214",
+    "1024650215",
+    "1024650216",
+    "1024650217",
+    "1028060198",
+    "1024650219",
+    "1024688417",
+    "1028060191",
+    "1024650221",
+    "1024650222",
+    "1024650223",
+    "1024650224",
+    "1024650225",
+    "1024650226",
+    "1024650227",
+    "1024650228",
+    "1024650229",
+    "1024650230",
+    "1024650231",
+    "1024650232",
+    "1024650233",
+    "1024650234",
+    "1028060192",
+    "1024688423",
+    "1024650237",
+    "1028060199",
+    "1024650239",
+    "1024650240",
+    "1024650241",
+    "1024650242",
+    "1024688418",
+    "1024650243",
+    "1024650244",
+    "1024650245",
+    "1024650246",
+    "1024650247",
+    "1024650248",
+    "1024650249",
+    "1024688419",
+    "1024650250",
+    "1024650251",
+    "1024650252",
+    "1024650253",
+    "1024650254",
+    "1024650255",
+    "1024650256",
+    "1024650257",
+    "1024650258",
+    "1024650259",
+    "1024650260",
+    "1024650261",
+    "1024688424",
+    "1024650263",
+    "1024650264",
+    "1024650265",
+    "1024688420",
+    "1024650266",
+    "1024650267",
+    "1024650268",
+    "1024650269",
+    "1024650270",
+    "1024650271",
+    "1024650272",
+    "1024650273",
+    "1024650274",
+    "1024688375",
+    "1024688376",
+    "1024688377",
+    "1024688378",
+    "1024688379",
+    "1024688380",
+    "1024688381",
+    "1024688382",
+    "1024688383",
+    "1024688384",
+    "1024157662",
+    "1024688386",
+    "1024688387",
+    "1028060193",
+    "1024688389",
+    "1024688390",
+    "1024688391",
+    "1024688392",
+    "1024688393",
+    "1024688394",
+    "1024688395",
+    "1024688396",
+    "1024688397",
+    "1024688398",
+    "1028060194",
+    "1028060195",
+    "1024688401",
+    "1024688402",
+    "1028060196",
+    "1024688404",
+    "1024688405",
+    "1028060197"
+   ]
+  },
+  {
+   "date": "2012-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176062:por",
+     "title": "Portaria n.º 286/2012",
+     "published": "2012-09-20",
+     "dre_path": "/dr/detalhe/portaria/286-2012-176062"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "1024650181",
+    "1024688408",
+    "1024688409",
+    "1024688410",
+    "1024688411",
+    "1024688412",
+    "1024688413",
+    "1024688414",
+    "1024688421",
+    "1024688415",
+    "1024650182",
+    "1024650183",
+    "1024650184",
+    "1024650185",
+    "1024650186",
+    "1024650187",
+    "1024650188",
+    "1024650189",
+    "1024650190",
+    "1033275801",
+    "1024650192",
+    "1024650193",
+    "1024650194",
+    "1029684165",
+    "1024650196",
+    "1024650197",
+    "1024650198",
+    "1024650199",
+    "1024650200",
+    "1024688416",
+    "1024650201",
+    "1024650202",
+    "1024650203",
+    "1024688407",
+    "1024157661",
+    "1024650205",
+    "1024650206",
+    "1024650207",
+    "1024650208",
+    "1024650209",
+    "1024650210",
+    "1024650211",
+    "1024650212",
+    "1024650213",
+    "1024650214",
+    "1024650215",
+    "1024650216",
+    "1024650217",
+    "1028060198",
+    "1024650219",
+    "1024688417",
+    "1028060191",
+    "1024650221",
+    "1024650222",
+    "1024650223",
+    "1024650224",
+    "1024650225",
+    "1024650226",
+    "1024650227",
+    "1024650228",
+    "1024650229",
+    "1024650230",
+    "1024650231",
+    "1024650232",
+    "1024650233",
+    "1024650234",
+    "1028060192",
+    "1024688423",
+    "1024650237",
+    "1028060199",
+    "1024650239",
+    "1024650240",
+    "1024650241",
+    "1024650242",
+    "1024688418",
+    "1024650243",
+    "1024650244",
+    "1024650245",
+    "1024650246",
+    "1024650247",
+    "1024650248",
+    "1024650249",
+    "1024688419",
+    "1024650250",
+    "1024650251",
+    "1024650252",
+    "1024650253",
+    "1024650254",
+    "1024650255",
+    "1024650256",
+    "1024650257",
+    "1024650258",
+    "1024650259",
+    "1024650260",
+    "1024650261",
+    "1024688424",
+    "1024650263",
+    "1024650264",
+    "1024650265",
+    "1024688420",
+    "1024650266",
+    "1024650267",
+    "1024650268",
+    "1024650269",
+    "1024650270",
+    "1024650271",
+    "1024650272",
+    "1024650273",
+    "1024650274",
+    "1024688375",
+    "1024688376",
+    "1024688377",
+    "1024688378",
+    "1024688379",
+    "1024688380",
+    "1024688381",
+    "1024688382",
+    "1024688383",
+    "1024688384",
+    "1024157662",
+    "1024688386",
+    "1033275802",
+    "1028060193",
+    "1024688389",
+    "1024688390",
+    "1024688391",
+    "1024688392",
+    "1024688393",
+    "1024688394",
+    "1024688395",
+    "1024688396",
+    "1024688397",
+    "1024688398",
+    "1028060194",
+    "1028060195",
+    "1024688401",
+    "1024688402",
+    "1028060196",
+    "1024688404",
+    "1024688405",
+    "1028060197"
+   ]
+  }
+ ],
+ "fragments": {
+  "1024650181": {
+   "fragment_id": "1024650063",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 996/98\n\nde 25 de Novembro\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 1 do artigo 3.º do Decreto-Lei n.º 145/85, de 8 de Maio, o seguinte:"
+  },
+  "1024688408": {
+   "fragment_id": "1024688492",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nSão aprovadas as tabelas de emolumentos anexas à presente portaria e que dela fazem parte integrante."
+  },
+  "1024688409": {
+   "fragment_id": "1024688493",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nAs disposições das tabelas referidas no número anterior não admitem interpretação extensiva, ainda que haja identidade ou maioria de razão."
+  },
+  "1024688410": {
+   "fragment_id": "1024688494",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nEm caso de dúvida sobre qual seja o emolumento devido, cobrar-se-á sempre o menor."
+  },
+  "1024688411": {
+   "fragment_id": "1024688495",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nOs serviços dos registos e do notariado devem afixar em local visível e acessível à generalidade dos utentes as tabelas dos emolumentos correspondentes aos actos para cuja prática são competentes."
+  },
+  "1024688412": {
+   "fragment_id": "1024688497",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nA partir de 1 de Janeiro de 1999, os emolumentos devidos por actos registrais ou notariais podem ser liquidados e cobrados, depois de redenominados em euros, pela transposição prevista no n.º 2 do artigo 13.º do Decreto-Lei n.º 343/98, de 6 de Novembro."
+  },
+  "1024688413": {
+   "fragment_id": "1024688499",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nA presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "1024688414": {
+   "fragment_id": "1024688500",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Justiça.\n\nAssinada em 15 de Novembro de 1998.\n\nO Ministro da Justiça, José Eduardo Vera Cruz Jardim."
+  },
+  "1024688421": {
+   "fragment_id": "1024688522",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "1024688415": {
+   "fragment_id": "1024688502",
+   "type": 1,
+   "heading": "Tabela de emolumentos do registo civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabela de emolumentos do registo civil"
+  },
+  "1024650182": {
+   "fragment_id": "1024650064",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPelo assento de casamento civil - 2000$00."
+  },
+  "1024650183": {
+   "fragment_id": "1024650065",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPor cada assento requerido nos termos dos artigos 95.º ou 123.º - 600$00."
+  },
+  "1024650184": {
+   "fragment_id": "1024650066",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 4 do artigo 6.º - 6000$00.\n\n2 - Pelo assento de transcrição de casamento civil lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português - 2000$00.\n\n3 - Pelo assento de transcrição de qualquer acto lavrado no território de Macau - 500$00."
+  },
+  "1024650185": {
+   "fragment_id": "1024650067",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens de assento de casamento - 2000$00."
+  },
+  "1024650186": {
+   "fragment_id": "1024650068",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Pela organização de processo de casamento - 2000$00.\n\n2 - Ao emolumento do número anterior acrescem:\n\na) Por cada nota de substituição de certidão lançada no processo nos termos do artigo 138.º o emolumento correspondente à certidão dispensada;\n\nb) Pela nova publicação de editais nos termos do artigo 145.º - 750$00;\n\nc) Pelo auto de inquirição de testemunhas nos termos do artigo 141.º - 1500$00;\n\nd) Por cada auto de consentimento para casamento de menores lavrado na conservatória - 500$00;\n\ne) Pelo auto de convenção antenupcial - 6000$00.\n\n3 - Por cada um dos certificados previstos nos artigos 146.º e 163.º - 1500$00."
+  },
+  "1024650187": {
+   "fragment_id": "1024650069",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Pelo processo de justificação judicial, quando requerido pelos interessados - 2500$00.\n\n2 - Pelo processo de justificação administrativa requerido pelos interessados - 2500$00."
+  },
+  "1024650188": {
+   "fragment_id": "1024650070",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Pelo processo de dispensa de impedimentos matrimoniais - 2000$00.\n\n2 - Pelo processo de verificação da capacidade matrimonial e respectivo certificado - 2000$00.\n\n3 - Pelo processo de suprimento da certidão de registo - 2000$00."
+  },
+  "1024650189": {
+   "fragment_id": "1024650071",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Pelo processo de divórcio e de separação de pessoas e bens por mútuo consentimento:\n\na) No acto da instauração do processo - 7500$00;\n\nb) No acto da apresentação do pedido da segunda conferência - 7500$00.\n\n2 - Pelo processo de conversão de separação de pessoas e bens em divórcio - 7500$00.\n\n3 - Pelo termo de reconciliação, no processo de separação, previsto no n.º 2 do artigo 1795.º-C do Código Civil - 5000$00."
+  },
+  "1024650190": {
+   "fragment_id": "1024650072",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Pelo processo de alteração de nome - 15000$00.\n\n2 - O emolumento previsto no número anterior pertence, em partes iguais, à conservatória instrutora e à Conservatória dos Registos Centrais."
+  },
+  "1024650191": {
+   "fragment_id": "1024650073",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Pela tradução de documentos realizada por conservador, por cada página ou fracção da tradução, incluindo o respectivo certificado - 5000$00.\n\n2 - Pelo certificado de exactidão de tradução de documento feita por tradutor ajuramentado - 3000$00."
+  },
+  "1024650192": {
+   "fragment_id": "1024650074",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Por cada certidão de registo - 1000$00.\n\n2 - Por cada certidão negativa de registo - 1200$00.\n\n3 - Sendo a certidão para fins de abono de família ou de segurança social e de nascimento para bilhete de identidade - 500$00.\n\n4 - As certidões referidas no número anterior devem mencionar o fim a que se destinam, único para que podem ser utilizadas.\n\n5 - Pela certidão de documento, além do emolumento previsto no n.º 1, acresce, por cada página - 200$00.\n\n6 - Pela requisição de qualquer certidão a outra conservatória - 250$00.\n\n7 - Pelo exame de livros para fins de investigação genealógica, por cada período de duas horas de consulta - 1000$00."
+  },
+  "1024650193": {
+   "fragment_id": "1024688275",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nPela emissão de novo boletim de nascimento, casamento, óbito ou morte fetal - 1000$00."
+  },
+  "1024650194": {
+   "fragment_id": "1024688276",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Pela requisição de cada bilhete de identidade, além do custo dos impressos respectivos - 100$00.\n\n2 - Pelo preenchimento, a pedido dos interessados, do conjunto de impressos para bilhete de identidade - 200$00."
+  },
+  "1024650195": {
+   "fragment_id": "1024688277",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Pelo acto de casamento não urgente celebrado, a pedido das partes, fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia feriado, além do emolumento do assento, acresce o emolumento pessoal de 10000$00.\n\n2 - Por qualquer outro acto praticado fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia feriado, sem prejuízo do emolumento respectivo a que houver lugar - 2000$00.\n\n3 - Os emolumentos dos números anteriores não são devidos nos actos praticados em estabelecimentos prisionais ou hospitalares nem quando os requisitantes dos actos se encontrarem na repartição, aguardando a sua vez, dentro das horas regulamentares.\n\n4 - Aos emolumentos respectivos acrescem as despesas de transporte."
+  },
+  "1024650196": {
+   "fragment_id": "1024688278",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nPor cada auto de redução a escrito de declaração, salvo se respeitante a assento isento ou a depósito de morte fetal, ou de requerimento verbal:\n\na) Para a prática de acto de registo - 600$00;\n\nb) Para fins de instauração de processo de casamento - 600$00;\n\nc) Para fins de instauração de qualquer outro processo regulado no Código do Registo Civil - 1600$00."
+  },
+  "1024650197": {
+   "fragment_id": "1024688279",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Os emolumentos previstos nos artigos 10.º, n.º 1, 11.º, n.º 6, 13.º, n.º 2, 14.º e 15.º da presente tabela têm natureza de emolumentos pessoais.\n\n2 - Dos emolumentos do artigo 14.º reverte:\n\na) A totalidade para o conservador ou para o seu substituto legal, se o acto for por qualquer deles presidido e lavrado;\n\nb) Dois terços para o conservador ou para o seu substituto legal e um terço para o oficial, se o acto for presidido por um daqueles e assistido e lavrado por este.\n\n3 - Os emolumentos dos artigos 10.º, n.º 1, 11.º, n.º 6, 13.º, n.º 2, e 15.º revertem em proveito dos funcionários da conservatória na proporção dos respectivos vencimentos de categoria.\n\n4 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho do Ministro da Justiça."
+  },
+  "1024650198": {
+   "fragment_id": "1024688280",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - Para os efeitos do disposto no artigo 300.º, n.º 1, nos processos de casamento e correspondentes assentos e, bem assim, nos processos de divórcio e de separação de pessoas e bens, quando as situações económicas dos intervenientes sejam diferentes, é devido o pagamento de emolumentos se um deles não beneficiar de isenção.\n\n2 - Havendo contradição entre o conteúdo de documentos apresentados para prova das condições económicas do mesmo interveniente, atende-se apenas ao documento que o indicar em melhor situação."
+  },
+  "1024650199": {
+   "fragment_id": "1024688281",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - Estão isentos os seguintes actos e processos:\n\na) Assento de nascimento;\n\nb) Assento de declaração de maternidade ou de perfilhação;\n\nc) Assento de casamento católico;\n\nd) Assento de casamento civil ou católico urgente;\n\ne) Assento de óbito ou depósito do certificado médico de morte fetal;\n\nf) Assento de transcrição efectuada nos termos do artigo 82.º;\n\ng) Assento de transcrição de nascimento lavrado no estrangeiro, perante autoridade estrangeira, respeitante a indivíduo a quem seja atribuída a nacionalidade portuguesa ou que a adquira;\n\nh) Assento de transcrição de casamento católico, de declaração de maternidade, de perfilhação ou de óbito lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português;\n\ni) Assento de transcrição ou integração de actos de registo lavrados pelos órgãos especiais do registo civil;\n\nj) Assento reformado nos termos dos artigos 25.º e seguintes;\n\nl) Processo de impedimento do casamento;\n\nm) Processo de suprimento de autorização para casamento de menores;\n\nn) Processo de sanação da nulidade do casamento por falta de testemunhas;\n\no) Processo para afastamento da presunção de paternidade;\n\np) Processo de autorização para inscrição tardia de nascimento;\n\nq) Emissão de boletim original de nascimento, casamento, óbito ou morte fetal.\n\n2 - Não são devidos emolumentos nem outros encargos pela substituição ou rectificação de registo ou acto irregular ou deficiente por razão exclusivamente imputável aos serviços.\n\n3 - Os actos que não estiverem expressamente compreendidos nesta tabela são praticados a título gratuito."
+  },
+  "1024650200": {
+   "fragment_id": "1024688282",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs artigos citados sem indicação do respectivo diploma pertencem ao Código do Registo Civil."
+  },
+  "1024688416": {
+   "fragment_id": "1024688505",
+   "type": 1,
+   "heading": "Tabela de emolumentos dos actos de nacionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabela de emolumentos dos actos de nacionalidade"
+  },
+  "1024650201": {
+   "fragment_id": "1024688283",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Pelos actos relativos ao registo de nacionalidade são cobrados os seguintes emolumentos:\n\na) Por cada declaração para aquisição ou perda de nacionalidade - 5000$00;\n\nb) Por cada registo de aquisição ou perda da nacionalidade - 5000$00;\n\nc) Por cada certificado de nacionalidade - 2500$00;\n\nd) Por cada certidão de registo de nacionalidade - 1000$00;\n\ne) Por cada certidão de documento, além do emolumento previsto na alínea anterior, acresce, por cada página - 200$00.\n\n2 - O emolumento previsto na alínea a) do número anterior pertence à repartição onde for prestada a declaração."
+  },
+  "1024650202": {
+   "fragment_id": "1024688284",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ aplicável, subsidiariamente, às certidões e fotocópias extraídas de actos de nacionalidade o disposto no Código do Registo Civil e na respectiva tabela de emolumentos."
+  },
+  "1024650203": {
+   "fragment_id": "1024688285",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão gratuitos:\n\na) As declarações para aquisição de nacionalidade nos termos dos artigos 30.º e 31.º da Lei n.º 37/81, de 3 de Outubro;\n\nb) Os registos das declarações para a aquisição de nacionalidade nos termos dos artigos referidos na alínea anterior e os registos oficiosos lavrados nos termos do artigo 33.º da Lei n.º 37/81, de 3 de Outubro, bem como os documentos necessários para uns e outros;\n\nc) Os registos e as declarações de nacionalidade, bem como os documentos a eles necessários, respeitantes a indivíduos que provem não auferir rendimentos iguais ou superiores ao salário mínimo nacional."
+  },
+  "1024688407": {
+   "fragment_id": "1024688489",
+   "type": 14,
+   "heading": "Tabela de emolumentos do registo predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Tabela de emolumentos do registo predial"
+  },
+  "1024157661": {
+   "fragment_id": "1024688286",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1998-12-03",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1007-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/1007-a-1998-265564), em vigor a partir de 1998-12-03"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Por cada descrição - 1200$00.\n\n2 - Por cada averbamento à descrição de algum facto que aumente o valor anteriormente nela mencionado, bem como pelo de actualização do valor patrimonial quando superior ao valor constante da descrição, são devidos os emolumentos previstos nos n.os 1 e 2 do artigo seguinte, calculados sobre a diferença entre o antigo e o novo, reduzidos a metade.\n\n3 - Para efeitos do cálculo previsto no número anterior, considera-se inexistente o valor de qualquer edifício demolido.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1007-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/1007-a-1998-265564), em vigor a partir de 1998-12-03"
+  },
+  "1024650205": {
+   "fragment_id": "1024688287",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Por cada inscrição - 3500$00;\n\n2 - Sendo a inscrição de valor determinado e superior a 100000$00, acresce sobre o total do valor, por cada 1000$00 ou fracção:\n\na) Até 200000$00 - 10$00;\n\nb) De 200000$00 a 1000000$00 - 5$00;\n\nc) De 1000000$00 a 10000000$00 - 4$00;\n\nd) Acima de 10000000$00, sobre o excedente - 3$00.\n\n3 - O emolumento previsto no número anterior não é devido pelas inscrições de aquisição anteriores à daquele que se apresente a requerer o registo em seu nome.\n\n4 - O emolumento previsto no n.º 1 é elevado para o dobro em caso de inscrição de alteração do título constitutivo de propriedade horizontal de valor indeterminado."
+  },
+  "1024650206": {
+   "fragment_id": "1024688288",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Por cada averbamento de cancelamento, pelos de penhora, arresto, penhor, arrolamento ou afectação de créditos hipotecários ou garantidos por consignação de rendimentos e pelos de cessão ou transmissão de direitos inscritos são devidos os emolumentos do artigo anterior, reduzidos a metade.\n\n2 - Nos cancelamentos parciais referentes a parte do valor da inscrição ou, simultaneamente, a parte desse valor e a bens, o emolumento variável será calculado considerando-se como valor da inscrição o valor cancelado.\n\n3 - Se o cancelamento parcial respeitar apenas a bens, o emolumento variável divide-se igualmente por todos os prédios ou fracções autónomas a que a inscrição respeita.\n\n4 - Os cancelamentos previstos no n.º 3 do artigo 98.º e no n.º 5 do artigo 101.º do Código são gratuitos."
+  },
+  "1024650207": {
+   "fragment_id": "1024688289",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Por cada averbamento, excluídos os referidos no artigo anterior - 1000$00.\n\n2 - Verificando-se pelo averbamento que o valor do facto inscrito é superior àquele que serviu de base para a determinação do emolumento cobrado pela inscrição, acresce ao emolumento do número anterior deste artigo o previsto no n.º 2 do artigo 2.º, calculado sobre a diferença entre os dois valores."
+  },
+  "1024650208": {
+   "fragment_id": "1024688290",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSem prejuízo do disposto no n.º 3 do artigo 3.º, são considerados como um acto único, para efeitos emolumentares, as inscrições ou os averbamentos a inscrições lavradas em fichas diversas para o registo do mesmo facto."
+  },
+  "1024650209": {
+   "fragment_id": "1024688291",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPor cada desistência - 300$00."
+  },
+  "1024650210": {
+   "fragment_id": "1024688292",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPor cada recusa - 300$00."
+  },
+  "1024650211": {
+   "fragment_id": "1024688293",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPela urgência na feitura do registo dentro do prazo legal é devido 1% sobre o valor do facto registado, no mínimo de 7000$00."
+  },
+  "1024650212": {
+   "fragment_id": "1024688294",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Por cada processo de recurso hierárquico que não obtenha provimento - 15000$00.\n\n2 - Tratando-se de recurso hierárquico de conta que não obtenha provimento - 10000$00.\n\n3 - Havendo provimento parcial, o emolumento do n.º 1 é reduzido a metade."
+  },
+  "1024650213": {
+   "fragment_id": "1024688295",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Por cada certidão ou fotocópia, até cinco páginas - 1000$00.\n\n2 - Por cada página a mais - 200$00.\n\n3 - Por cada título de registo de propriedade - 600$00.\n\n4 - Pela confirmação do conteúdo da certidão ou fotocópia ou pela actualização do título de registo é devido o emolumento da respectiva emissão, reduzido a metade."
+  },
+  "1024650214": {
+   "fragment_id": "1024688296",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Por cada informação dada por escrito:\n\na) Em relação a um prédio - 300$00;\n\nb) Por cada prédio a mais - 150$00;\n\nc) Não sendo relativa a prédios - 350$00.\n\n2 - Por cada página de fotocópia não certificada - 100$00."
+  },
+  "1024650215": {
+   "fragment_id": "1024688297",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Para efeitos desta tabela, o valor do facto registado é, em geral, o dos bens que constituem o seu objecto.\n\n2 - O valor dos prédios é o seu valor patrimonial ou aquele que as partes lhes atribuírem, se for superior, e, na falta destes elementos, obtém-se segundo as regras gerais da lei processual ou considera-se indeterminado, se não for possível fixá-lo.\n\n3 - Nos registos de garantia, o valor do facto é o assegurado pelo próprio registo, recorrendo-se às regras da lei processual, se necessário, para a sua determinação.\n\n4 - Na hipoteca relativa a crédito que vença juros são considerados, para a determinação do valor, os juros que a hipoteca garantir, sendo o valor da penhora e do arresto o da importância líquida assegurada.\n\n5 - O valor do usufruto, bem como o dos direitos de uso e habitação, é o de metade do valor patrimonial do prédio ou fracção autónoma, se este for superior ao declarado, e o valor da propriedade onerada com tais encargos é o da propriedade plena.\n\n6 - Os ónus de eventual redução das doações e de indisponibilidade são considerados factos de valor indeterminado.\n\n7 - Na alteração de propriedade horizontal e no reforço de hipoteca, de consignação de rendimentos, de penhora ou de arresto, quando daí resulte aumento de valor, o valor a considerar é o da diferença entre o antigo e o novo, sendo, em qualquer outro caso, as inscrições de alteração ou de reforço consideradas de valor indeterminado."
+  },
+  "1024650216": {
+   "fragment_id": "1024688298",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Abrangendo o facto submetido a registo prédios situados na área de mais de uma conservatória e não se designando a parte do valor do acto que corresponda a cada prédio, o valor total é dividido igualmente por todos eles, de modo que cada conservatória liquide os emolumentos do n.º 2 do artigo 2.º na proporção do número de prédios que lhe pertencer.\n\n2 - Quando um prédio for situado na área de mais de uma conservatória, a parte situada em cada uma delas é considerada uma unidade predial.\n\n3 - A regra prevista no n.º 1 tem aplicação ainda no caso de o facto respeitar simultaneamente a prédios e navios, quotas ou participações sociais.\n\n4 - Se o registo for lavrado por averbamento, a divisão prevista nos números anteriores só terá lugar se for junto documento comprovativo de o facto que deu lugar à inscrição a que o averbamento se reporta ter sido registado sobre todos os bens."
+  },
+  "1024650217": {
+   "fragment_id": "1024688299",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - É fixado em 15000000$00 o limite máximo dos emolumentos devidos por cada acto de registo.\n\n2 - Os emolumentos devidos pelo registo de qualquer facto de valor determinado, mas representado em moeda estrangeira, são calculados pelo último câmbio oficial publicado no momento da respectiva apresentação."
+  },
+  "1024650218": {
+   "fragment_id": "1024688300",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO custo dos títulos de registo de propriedade, bem como as despesas de quaisquer comunicações a que haja lugar, são pagos separadamente pelos interessados."
+  },
+  "1024650219": {
+   "fragment_id": "1024688301",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - a) Pelo requerimento ou preenchimento do impresso-requisição para a realização de qualquer acto de registo - 750$00.\n\nb) Acresce, por cada acto de registo além do primeiro - 250$00.\n\nc) Quando o requerimento ou requisição se destinar a obter uma certidão - 250$00.\n\nd) Quando o requerimento se destinar a outras repartições - 750$00.\n\n2 - a) Pelo estudo e organização do processo pré-registral - 1200$00.\n\nb) Se o estudo previsto na alínea anterior exceder a apreciação da viabilidade do pedido, em face dos documentos apresentados e dos registos anteriores, acresce o seguinte emolumento:\n\nPor requisição até dois actos de registo - 2500$00;\n\nPor requisição de três ou mais actos de registo - 6000$00.\n\n3 - Pelas diligências de aperfeiçoamento do processo registral de que resulte a junção de documentos em apresentação complementar para sanar deficiências que não envolvam novo pedido de registo nem constituam motivo de recusa - 2500$00.\n\n4 - Os emolumentos previstos nos números anteriores têm a natureza de emolumentos pessoais, revertendo para os funcionários da repartição na proporção dos seus vencimentos de categoria.\n\n5 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho do Ministro da Justiça."
+  },
+  "1024688417": {
+   "fragment_id": "1024688517",
+   "type": 1,
+   "heading": "Tabela de emolumentos do registo comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabela de emolumentos do registo comercial"
+  },
+  "1024650220": {
+   "fragment_id": "1024688302",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Por cada inscrição inicial - 4500$00.\n\n2 - Por qualquer outra inscrição - 3500$00.\n\n3 - Sendo a inscrição de valor determinado e superior a 100000$00, acresce sobre o total do valor, por cada 1000$00 ou fracção:\n\na) Até 200000$00 - 10$00;\n\nb) De 200000$00 a 1000000$00 - 5$00;\n\nc) De 1000000$00 a 10000000$00 - 4$00;\n\nd) Acima de 10000000$00, sobre o excedente - 3$00."
+  },
+  "1024650221": {
+   "fragment_id": "1024688303",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O emolumento previsto no n.º 3 do artigo anterior é reduzido a metade nas inscrições que tenham por objecto qualquer modificação do contrato ou do acto constitutivo que não envolva aumento do capital social.\n\n2 - O emolumento previsto no n.º 3 do artigo anterior é reduzido a um quarto nas inscrições de alteração do contrato ou do acto constitutivo que apenas consistam, isolada ou conjuntamente:\n\na) Na modificação da firma;\n\nb) Na mudança de sede para localidade pertencente à área de conservatória diversa daquela em que a entidade está registada;\n\nc) Na redução de capital para cobertura de prejuízos."
+  },
+  "1024650222": {
+   "fragment_id": "1024688304",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Por cada averbamento de cancelamento de inscrição e pelos referidos nas alíneas a) a g) do n.º 1 do artigo 69.º do Código do Registo Comercial, são devidos os emolumentos dos n.os 2 e 3 do artigo 1.º, reduzidos a metade.\n\n2 - Nos cancelamentos parciais, observar-se-á, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 3.º da tabela de emolumentos do registo predial.\n\n3 - Não é devido emolumento pelo cancelamento de ónus ou encargo mandado cancelar judicialmente em processo de execução."
+  },
+  "1024650223": {
+   "fragment_id": "1024688305",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPelo averbamento de qualquer dos factos enumerados nas alíneas h) a p) do n.º 1 do artigo 69.º do Código do Registo Comercial - 1500$00."
+  },
+  "1024650224": {
+   "fragment_id": "1024688306",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPor qualquer outro averbamento independente - 750$00."
+  },
+  "1024650225": {
+   "fragment_id": "1024688307",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPor cada desistência - 300$00."
+  },
+  "1024650226": {
+   "fragment_id": "1024688308",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPor cada recusa - 300$00."
+  },
+  "1024650227": {
+   "fragment_id": "1024688309",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Pela urgência na feitura do registo dentro do prazo legal é devido 1% do valor do facto registado, no mínimo de 7000$00.\n\n2 - O emolumento de urgência não é devido no caso do averbamento da mudança voluntária da sede da sociedade ou outra pessoa colectiva para localidade pertencente à área de conservatória diversa."
+  },
+  "1024650228": {
+   "fragment_id": "1024688310",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Por cada processo de recurso hierárquico que não obtenha provimento - 15000$00.\n\n2 - Tratando-se de recurso hierárquico de conta que não obtenha provimento - 10000$00.\n\n3 - Havendo provimento parcial, o emolumento do n.º 1 é reduzido a metade."
+  },
+  "1024650229": {
+   "fragment_id": "1024688311",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Por cada certidão ou fotocópia, até cinco páginas - 1000$00.\n\n2 - Por cada página a mais - 200$00.\n\n3 - Pela confirmação do conteúdo da certidão ou fotocópia são devidos os emolumentos dos números anteriores, reduzidos a metade."
+  },
+  "1024650230": {
+   "fragment_id": "1024688312",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Por cada informação dada por escrito - 450$00.\n\n2 - Por cada página de fotocópia não certificada com valor de informação - 100$00."
+  },
+  "1024650231": {
+   "fragment_id": "1024688313",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Por cada legalização de livro - 500$00.\n\n2 - Por cada nomeação de auditor ou de revisor oficial de contas - 3200$00."
+  },
+  "1024650232": {
+   "fragment_id": "1024688314",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - O valor do facto registado será, em regra, o que conste dos respectivos títulos ou o que for atribuído pelas partes, na falta daqueles ou se lhe for superior.\n\n2 - Se nos títulos forem mencionados diversos valores, atender-se-á ao mais elevado ou à soma desses valores, quando acresçam entre si, em relação ao facto registado."
+  },
+  "1024650233": {
+   "fragment_id": "1024688315",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Se a inscrição tiver por objecto o contrato ou acto constitutivo, o valor do facto inscrito será o do respectivo capital; no caso de alteração, aquele que dela resultar.\n\n2 - Se o facto inscrito consistir apenas no aumento de capital, o valor a considerar será o do aumento, se a alteração se limitar a nova redacção dos artigos referentes ao quantitativo daquele e à sua distribuição.\n\n3 - Se, além do aumento de capital, houver alteração de quaisquer cláusulas do contrato ou acto constitutivo, atender-se-á ao valor do aumento ou ao do da alteração, conforme o que produzir maior emolumento."
+  },
+  "1024650234": {
+   "fragment_id": "1024688316",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - O valor do usufruto é o de metade do valor nominal da quota-parte social, quando superior ao declarado.\n\n2 - O valor da penhora, arresto ou arrolamento é o da importância líquida que se destina a assegurar ou o dos bens a acautelar.\n\n3 - O valor a considerar no reforço de penhora, arresto ou penhor, quando daí resulte o aumento de valor, é a diferença entre o antigo e o novo; em qualquer outro caso, as inscrições de reforço são consideradas de valor indeterminado.\n\n4 - No penhor relativo a crédito que vença juros, são considerados, para a determinação do valor, os juros que o penhor garantir."
+  },
+  "1024650235": {
+   "fragment_id": "1024688317",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Sempre que não seja possível determinar, mediante a aplicação das normas previstas nos artigos antecedentes, o valor do facto registado, será este considerado de valor indeterminado.\n\n2 - A unificação de quotas, a prestação de contas, as deliberações da assembleia de credores e os actos ou providências que afectem a livre disposição dos bens são, para fins emolumentares, actos de valor indeterminado."
+  },
+  "1024688423": {
+   "fragment_id": "1024688318",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 22-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-a-1998-265563), produz efeitos a partir de 1998-12-01"
+   ],
+   "markdown": "###### Artigo 17.º\n\n1 - Abrangendo o facto submetido a registo quotas ou participações de sociedades com sede em área de outra conservatória e não se designando a parte do valor do acto que corresponde a cada uma, o valor total é dividido igualmente por todas elas, de modo que cada conservatória liquide os emolumentos do n.º 3 do artigo 2.º na proporção do número de quotas ou participações sociais que lhe pertencer.\n\n2 - A regra prevista no número anterior aplica-se ainda no caso de o facto respeitar simultaneamente a quotas ou participações sociais e prédios ou navios.\n\n3 - Se o registo for lavrado por averbamento, a divisão prevista nos números anteriores só será devida se for junto documento comprovativo de o facto que deu lugar à inscrição a que o averbamento se reporta ter sido registado sobre todos os bens.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 22-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-a-1998-265563), produz efeitos a partir de 1998-12-01"
+  },
+  "1024650237": {
+   "fragment_id": "1024688319",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs emolumentos devidos pelo registo de valor determinado, mas representado em moeda estrangeira, são calculados pelo último câmbio oficial publicado no momento da respectiva apresentação."
+  },
+  "1024650238": {
+   "fragment_id": "1024688320",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAs despesas de quaisquer comunicações a que haja lugar são pagas separadamente pelos interessados."
+  },
+  "1024650239": {
+   "fragment_id": "1024688321",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - a) Pelo requerimento ou preenchimento do impresso-requisição para a realização de qualquer acto de registo - 750$00.\n\nb) Acresce, por cada acto de registo além do primeiro - 250$00.\n\nc) Quando o requerimento ou requisição se destinar a obter uma certidão - 250$00.\n\nd) Quando o requerimento se destinar a outras repartições - 750$00.\n\n2 - a) Pelo estudo e organização do processo pré-registral - 1200$00.\n\nb) Se o estudo previsto na alínea anterior exceder a apreciação da viabilidade do pedido, em face dos documentos apresentados e dos registos anteriores, acresce o seguinte emolumento:\n\nPor requisição até dois actos de registo - 2500$00.\n\nPor requisição de três ou mais actos de registo - 6000$00.\n\n3 - Pelas diligências de aperfeiçoamento do processo registral, de que resulte a junção de documentos em apresentação complementar para sanar deficiências que não envolvam novo pedido de registo nem constituam motivo de recusa - 2500$00.\n\n4 - Os emolumentos previstos nos números anteriores têm a natureza de emolumentos pessoais, revertendo para os funcionários da repartição na proporção dos seus vencimentos de categoria.\n\n5 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho do Ministro da Justiça."
+  },
+  "1024650240": {
+   "fragment_id": "1024688322",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nA presente tabela aplica-se às entidades referidas no artigo 1.º do Código do Registo Comercial."
+  },
+  "1024650241": {
+   "fragment_id": "1024688323",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - O registo do acto previsto na alínea v) do artigo 3.º do Código do Registo Comercial beneficia da redução emolumentar de 80%.\n\n2 - Os registos de actos respeitantes a cooperativas beneficiam da redução emolumentar de 50%.\n\n3 - São isentos de emolumentos os registos de actos respeitantes às pessoas colectivas de utilidade pública.\n\n4 - Mantêm-se as isenções emolumentares estabelecidas para as empresas públicas no artigo 5.º do Decreto-Lei n.º 77/79, de 7 de Abril."
+  },
+  "1024650242": {
+   "fragment_id": "1024688324",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nSão fixados, para cada acto de registo, os seguintes limites máximos de emolumentos:\n\na) Pelo acto previsto na alínea v) do artigo 3.º do Código do Registo Comercial - 50000$00;\n\nb) Pelos actos a que se refere o n.º 2 do artigo 2.º da presente tabela, consoante o valor do facto seja:\n\nAté 1000000000$00 - 300000$00;\n\nSuperior a 1000000000$00 e até 10000000000$00 - 500000$00;\n\nSuperior a 10000000000$00 - 1000000$00;\n\nc) Por qualquer outro acto de registo - 15000000$00."
+  },
+  "1024688418": {
+   "fragment_id": "1024688518",
+   "type": 1,
+   "heading": "Tabela de emolumentos do registo de automóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabela de emolumentos do registo de automóveis"
+  },
+  "1024650243": {
+   "fragment_id": "1024688325",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Por cada registo - 4500$00.\n\n2 - Tratando-se de registo de alteração de nome, firma, residência ou sede - 750$00."
+  },
+  "1024650244": {
+   "fragment_id": "1024688326",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Não é devido emolumento pelo cancelamento de ónus ou encargo mandado cancelar judicial ou administrativamente.\n\n2 - Se o registo for pedido fora do prazo, o emolumento previsto no n.º 1 do artigo anterior é devido em dobro."
+  },
+  "1024650245": {
+   "fragment_id": "1024688327",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Por cada fotocópia, certidão ou fotocópia acrescida de certificação de outro facto - 1000$00.\n\n2 - Pela confirmação do conteúdo da certidão - 500$00.\n\n3 - Por cada título emitido em substituição de exemplar deteriorado, destruído ou desaparecido - 1500$00."
+  },
+  "1024650246": {
+   "fragment_id": "1024688328",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Por cada informação dada por escrito relativa:\n\na) Ao actual proprietário inscrito do veículo e aos encargos que o oneram - 200$00;\n\nb) A proprietários anteriores - 500$00.\n\n2 - Pelo fornecimento de cada mapa estatístico referente ao parque automóvel será cobrada uma importância, fixada por despacho do director-geral dos Registos e do Notariado, entre 10000$00 e 50000$00, atendendo à natureza e extensão das informações."
+  },
+  "1024650247": {
+   "fragment_id": "1024688329",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPor cada remessa de requerimentos e documentos - 300$00."
+  },
+  "1024650248": {
+   "fragment_id": "1024688330",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Por cada processo de recurso hierárquico que não obtenha provimento - 15000$00.\n\n2 - Tratando-se de recurso hierárquico de conta que não obtenha provimento - 10000$00.\n\n3 - Havendo provimento parcial, o emolumento do n.º 1 é reduzido a metade."
+  },
+  "1024650249": {
+   "fragment_id": "1024688331",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - a) Pelo requerimento ou preenchimento do impresso-requisição para realização de qualquer acto de registo sobre cada veículo - 750$00.\n\nb) Quando o requerimento ou requisição se destinar a obter uma certidão - 250$00.\n\n2 - Os emolumentos previstos nos números anteriores têm a natureza de emolumentos pessoais, revertendo para os funcionários da repartição na proporção dos seus vencimentos de categoria.\n\n3 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho do Ministro da Justiça."
+  },
+  "1024688419": {
+   "fragment_id": "1024688519",
+   "type": 1,
+   "heading": "Tabela de emolumentos do registo de navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabela de emolumentos do registo de navios"
+  },
+  "1024650250": {
+   "fragment_id": "1024688332",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Por cada inscrição inicial - 4600$00.\n\n2 - Por qualquer outra inscrição - 3500$00.\n\n3 - Sendo a inscrição de valor determinado e superior a 100000$00, acresce sobre o total do valor, por cada 1000$00 ou fracção:\n\na) Até 200000$00 - 10$00;\n\nb) De 200000$00 a 1000000$00 - 5$00;\n\nc) De 1000000$00 a 10000000$00 - 4$00;\n\nd) Acima de 10000000$00, sobre o excedente - 3$00."
+  },
+  "1024650251": {
+   "fragment_id": "1024688333",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPor cada inscrição transcrita em consequência de mudança de capitania ou delegação marítima - 3000$00."
+  },
+  "1024650252": {
+   "fragment_id": "1024688334",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Por cada averbamento de cancelamento de inscrições e pelos de penhor, penhora, arresto ou arrolamento de créditos hipotecários, bem como pelos de cessão ou transmissão de direitos inscritos, são devidos os emolumentos dos n.os 2 e 3 do artigo 1.º, reduzidos a metade.\n\n2 - Nos cancelamentos parciais observar-se-á, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 3.º da tabela de emolumentos do registo predial.\n\n3 - Não é devido emolumento pelo cancelamento de ónus ou encargo mandado cancelar judicial ou administrativamente."
+  },
+  "1024650253": {
+   "fragment_id": "1024688335",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPor qualquer averbamento independente, excluídos os referidos nos artigos anteriores - 1000$00."
+  },
+  "1024650254": {
+   "fragment_id": "1024688336",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPor cada desistência - 300$00."
+  },
+  "1024650255": {
+   "fragment_id": "1024688337",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPor cada recusa - 300$00."
+  },
+  "1024650256": {
+   "fragment_id": "1024688338",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Pela urgência na feitura do registo dentro do prazo legal é devido 1% sobre o valor do facto registado, no mínimo de 7000$00.\n\n2 - O emolumento de urgência não é devido no caso de averbamento de mudança de capitania ou delegação marítima para área de conservatória diversa."
+  },
+  "1024650257": {
+   "fragment_id": "1024688339",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Por cada processo de recurso hierárquico que não obtenha provimento - 15000$00.\n\n2 - Tratando-se de recurso hierárquico de conta que não obtenha provimento - 10000$00.\n\n3 - Havendo provimento parcial, o emolumento do n.º 1 é reduzido a metade."
+  },
+  "1024650258": {
+   "fragment_id": "1024688340",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - É fixado em 500000$00 o limite máximo dos emolumentos devidos por cada acto de registo.\n\n2 - Os emolumentos devidos pelo registo de qualquer facto de valor determinado, mas representado em moeda estrangeira, são calculados pelo último câmbio oficial publicado no momento da respectiva apresentação."
+  },
+  "1024650259": {
+   "fragment_id": "1024688341",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Por cada certidão ou fotocópia, até cinco páginas - 1000$00.\n\n2 - Por cada página a mais - 200$00.\n\n3 - Pela confirmação do conteúdo da certidão ou fotocópia são devidos os emolumentos dos números anteriores, reduzidos a metade."
+  },
+  "1024650260": {
+   "fragment_id": "1024688342",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Por cada informação dada por escrito:\n\na) Em relação a um navio - 300$00;\n\nb) Por cada navio a mais - 150$00;\n\nc) Não sendo relativa a navios - 350$00.\n\n2 - Por cada página de fotocópia não certificada - 100$00."
+  },
+  "1024650261": {
+   "fragment_id": "1024688343",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Para efeitos desta tabela, o valor do facto registado é, em geral, o que consta dos respectivos títulos ou o que for atribuído pelas partes, na falta daqueles ou se lhe for superior.\n\n2 - Se nos títulos forem mencionados diversos valores, atender-se-á ao mais elevado ou à soma desses valores, quando acresçam entre si, em relação ao facto registado."
+  },
+  "1024688424": {
+   "fragment_id": "1024688344",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 22-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-a-1998-265563), produz efeitos a partir de 1998-12-01"
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - Na hipoteca relativa a crédito que vença juros são considerados, para a determinação do valor, os juros que a hipoteca garantir.\n\n2 - O valor da penhora é o da importância líquida assegurada e o do arresto ou arrolamento e, em geral, dos actos ou providências que afectem a livre disposição dos bens, o dos bens a acautelar.\n\n3 - O valor a considerar no reforço de hipoteca, penhora ou arresto, quando daí resulte o aumento de valor, é a diferença entre o antigo e o novo, sendo, em qualquer outro caso, as inscrições de reforço consideradas de valor indeterminado.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 22-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-a-1998-265563), produz efeitos a partir de 1998-12-01"
+  },
+  "1024650263": {
+   "fragment_id": "1024688345",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSempre que não seja possível determinar, mediante a aplicação das normas previstas nos artigos antecedentes, o valor do facto registado, será este considerado de valor indeterminado."
+  },
+  "1024650264": {
+   "fragment_id": "1024688346",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - Abrangendo o facto submetido a registo navios pertencentes à área de mais de uma conservatória e não se designando a parte do valor do acto que corresponde a cada um, o valor total é dividido igualmente por todos eles, de modo que cada conservatória liquide os emolumentos do n.º 3 do artigo 1.º na proporção do número de navios que lhe pertencer.\n\n2 - A regra prevista no número anterior aplica-se ainda no caso de o facto respeitar simultaneamente a navios e prédios, quotas ou participações sociais.\n\n3 - Se o registo for lavrado por averbamento, a divisão prevista nos números anteriores só será devida se for junto documento comprovativo de o facto que deu lugar à inscrição a que o averbamento se reporta ter sido registado sobre todos os bens."
+  },
+  "1024650265": {
+   "fragment_id": "1024688347",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - a) Pelo requerimento ou preenchimento de impresso-requisição para realização de qualquer acto de registo - 750$00.\n\nb) Acresce, por cada acto de registo além do primeiro - 250$00.\n\nc) Quando o requerimento ou requisição se destinar a obter uma certidão - 250$00.\n\nd) Quando o requerimento se destinar a outras repartições - 750$00.\n\n2 - a) Pelo estudo e organização do processo pré-registral - 1200$00.\n\nb) Se o estudo previsto na alínea anterior exceder a apreciação da viabilidade do pedido, em face dos documentos apresentados e dos registos anteriores, acresce o seguinte emolumento:\n\nPor requisição até dois actos de registo - 2500$00;\n\nPor requisição de três ou mais actos de registo - 6000$00.\n\n3 - Pelas diligências de aperfeiçoamento do processo registral de que resulte a junção de documentos em apresentação complementar para sanar deficiências que não envolvam novo pedido de registo nem constituam motivo de recusa - 2500$00.\n\n4 - Os emolumentos previstos nos números anteriores têm a natureza de emolumentos pessoais, revertendo para os funcionários da repartição na proporção dos seus vencimentos de categoria.\n\n5 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho do Ministro da Justiça."
+  },
+  "1024688420": {
+   "fragment_id": "1024688521",
+   "type": 1,
+   "heading": "Tabela de emolumentos do Registo Nacional de Pessoas Colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabela de emolumentos do Registo Nacional de Pessoas Colectivas"
+  },
+  "1024650266": {
+   "fragment_id": "1024688348",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPor cada reserva de firma ou denominação - 3000$00."
+  },
+  "1024650267": {
+   "fragment_id": "1024688349",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPor emissão, renovação ou 2.ª via de certificado de admissibilidade de firma ou denominação - 6000$00."
+  },
+  "1024650268": {
+   "fragment_id": "1024688350",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Por inscrição dos actos e factos referidos nos artigos 6.º a 10.º do Regime do Registo Nacional de Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 129/98, de 13 de Maio - 2000$00.\n\n2 - Por cada inscrição de constituição de pessoa colectiva ou entidade equiparada que exerça actividade de carácter lucrativo acresce ao número anterior 0,5% do capital, no mínimo de 6000$00 e no máximo de 10000000$00.\n\n3 - Por cada inscrição de aumento de capital de pessoa colectiva ou entidade equiparada que exerça actividade de carácter lucrativo acresce ao n.º 1 0,5% do aumento, no máximo de 10000000$00."
+  },
+  "1024650269": {
+   "fragment_id": "1024688351",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPor cada registo de comunicação de nome comercial nos termos do n.º 6 do artigo 33.º do Regime do Registo Nacional de Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 129/98, de 13 de Maio - 6000$00."
+  },
+  "1024650270": {
+   "fragment_id": "1024688352",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPela emissão de cartão de identificação e pela actualização, substituição ou 2.ª via do mesmo - 2000$00."
+  },
+  "1024650271": {
+   "fragment_id": "1024688353",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPor cada certidão ou cópia de registo informático - 1000$00."
+  },
+  "1024650272": {
+   "fragment_id": "1024688354",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPela utilização do serviço de telecópia para transmissão de documentos não autenticados contendo informação nominativa sujeita ao pagamento do emolumento previsto no artigo anterior, por cada folha - 500$00."
+  },
+  "1024650273": {
+   "fragment_id": "1024688355",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Pelo preenchimento de cada impresso a pedido do requerente - 750$00.\n\n2 - O emolumento previsto no número anterior tem a natureza e segue o regime dos emolumentos pessoais."
+  },
+  "1024650274": {
+   "fragment_id": "1024688356",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Por cada processo de recurso hierárquico - 15000$00.\n\n2 - Tratando-se de recurso hierárquico de conta - 10000$00.\n\n3 - O preparo cobrado será devolvido se o recurso obtiver provimento e constitui emolumento no caso de indeferimento.\n\n4 - Havendo provimento parcial, o emolumento previsto no n.º 1 é reduzido a metade."
+  },
+  "1024688375": {
+   "fragment_id": "1024688357",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA emissão de novo certificado para rectificação de erro dos serviços é isenta de emolumentos."
+  },
+  "1024688376": {
+   "fragment_id": "1024688358",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nNas reduções de capital seguidas de aumento e desde que tituladas na mesma escritura pública, o montante do aumento, para efeitos de aplicação da tabela de emolumentos, é determinado pela diferença entre o montante do capital após o aumento e o montante do capital antes da redução."
+  },
+  "1024688377": {
+   "fragment_id": "1024688359",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA isenção ou redução dos emolumentos do registo comercial determina a isenção ou redução de emolumentos do Registo Nacional de Pessoas Colectivas."
+  },
+  "1024688378": {
+   "fragment_id": "1024688360",
+   "type": 14,
+   "heading": "Tabela de emolumentos do notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Tabela de emolumentos do notariado"
+  },
+  "1024688379": {
+   "fragment_id": "1024688361",
+   "type": 1,
+   "heading": "Capítulo I — Valores dos actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Valores dos actos"
+  },
+  "1024688380": {
+   "fragment_id": "1024688362",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O valor dos actos notariais é, em geral, o dos bens que constituem o seu objecto.\n\n2 - Em especial, o valor dos actos será:\n\na) Nas permutas, a soma do valor dos bens, presentes ou futuros, permutados, não sendo de considerar como tal qualquer prestação em dinheiro entregue como suplemento do valor dos referidos bens;\n\nb) Na dação em cumprimento, o das dívidas pagas ou o dos bens dados em cumprimento, se for superior àquele;\n\nc) Nos de garantia, o do capital garantido;\n\nd) Nos arrendamentos, o da renda por todo o tempo de duração do contrato.\n\nNos demais actos que estipulem prestações periódicas ou pensões, o da importância total delas, ou o das prestações ou pensões de 20 anos, se o respectivo número for indeterminado ou superior àquele limite;\n\ne) Nas locações financeiras, o da retribuição por todo o tempo de duração do contrato;\n\nf) Nos de empréstimo, confissão de dívida ou abertura de crédito, o do respectivo capital;\n\ng) Nos de constituição de sociedades, de modificação total ou parcial do respectivo pacto social que não envolva aumento ou redução do capital, de transformação ou de dissolução, o do capital, ainda que as entradas não estejam totalmente efectuadas;\n\nh) Nos de aumento de capital, o do aumento;\n\ni) Nos de aumento de capital com alteração parcial de cláusulas do pacto diversas da directamente determinada pelo aumento, o valor deste ou da modificação referida ao capital com que a sociedade ficar, conforme o que produzir maior emolumento;\n\nj) Nos de aumento de capital com transformação ou com substituição total do pacto social, o do capital com que a sociedade ficar;\n\nl) Nos de redução de capital, com ou sem alteração de outras cláusulas do pacto, o da importância a que o capital ficar reduzido;\n\nm) Nos de fusão por incorporação, o do capital da sociedade ou sociedades incorporadas, ou o do seu património, se superior;\n\nn) Nos de fusão por constituição de nova sociedade, o da soma do capital das sociedades fundidas, ou o da soma dos seus patrimónios, se superior;\n\no) Nos de acordo de credores, o do capital da nova sociedade;\n\np) Nos de associação em participação com entradas, o valor destas;\n\nq) Nos de alteração do título constitutivo de propriedade horizontal que envolva criação ou alteração da composição de fracções autónomas, o das correspondentes fracções;\n\nr) Nos de simples rectificação que envolva aumento de valor do acto rectificado, o da diferença entre o valor primitivo e o novo;\n\ns) Na liquidação ou partilha de bens sociais, ainda que feita simultaneamente com a dissolução, o dos bens do activo liquidado ou partilhado, ou o do capital social, se for superior."
+  },
+  "1024688381": {
+   "fragment_id": "1024688363",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão considerados de valor indeterminado, entre outros, os seguintes actos:\n\na) De constituição ou alteração de agrupamentos complementares de empresas, agrupamentos europeus de interesse económico, associações, cooperativas e fundações;\n\nb) De revogação, aditamento ou alteração de cláusulas que não sejam de pacto social, quando não envolvam aumento do valor do acto inicial;\n\nc) De aceitação e ratificação;\n\nd) De rectificação que não envolva aumento do valor do acto rectificado;\n\ne) De habilitação;\n\nf) De repúdio de herança ou de legado;\n\ng) De renúncia ou de confissão, desistência ou transacção, quando o seu valor económico não resulte do respectivo conteúdo;\n\nh) De alteração de título constitutivo de propriedade horizontal que apenas diga respeito ao destino das fracções ou à fixação do seu valor relativo;\n\ni) De reconhecimento de direitos;\n\nj) De determinação de objecto subsequente a acto de permuta em que uma das prestações verse sobre coisa futura;\n\nl) De convenção antenupcial, sem especificação de bens;\n\nm) De unificação de quotas;\n\nn) De substituição e redução da hipoteca;\n\no) De cessão do grau hipotecário;\n\np) De deslocação da sede social dentro do mesmo concelho ou para concelho limítrofe, decidida ou deliberada pela administração ao abrigo de autorização do contrato social, nos termos previstos no n.º 2 do artigo 12.º do Código das Sociedades Comerciais."
+  },
+  "1024688382": {
+   "fragment_id": "1024688364",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO valor dos bens será, para cada verba, o que as partes lhes atribuírem ou, se for superior, o que lhes corresponder em resultado da aplicação das regras seguintes:\n\na) Quanto a bens imóveis, o seu valor fiscal, independentemente de serem ou não devidos direitos à Fazenda Nacional;\n\nb) Quanto a estabelecimentos comerciais ou industriais, o valor fiscal determinado pelo último balanço;\n\nc) Quanto a partes ou quotas em sociedades que não sejam por acções, o valor nominal, ou o que resultar do último balanço, se superior;\n\nd) Quanto a bens ou actos cujo valor seja fixado em moeda estrangeira, o que lhes corresponder em moeda portuguesa, segundo o último câmbio oficial publicado."
+  },
+  "1024688383": {
+   "fragment_id": "1024688365",
+   "type": 1,
+   "heading": "Capítulo II — Tabelamento dos actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Tabelamento dos actos"
+  },
+  "1024688384": {
+   "fragment_id": "1024688366",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Por cada escritura com um só acto - 10000$00.\n\n2 - Por cada testamento público, testamento internacional, instrumento de aprovação ou de abertura de testamento cerrado - 5000$00.\n\n3 - Por cada instrumento de acta de reunião de organismo social e assistência a ela:\n\na) Durando a reunião até uma hora - 10000$00;\n\nb) Por cada hora a mais ou fracção - 3000$00.\n\n4 - Por quaisquer outros instrumentos avulsos, com excepção dos de protesto de títulos de crédito - 5000$00."
+  },
+  "1024157662": {
+   "fragment_id": "1024688367",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1998-12-03",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1007-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/1007-a-1998-265564), em vigor a partir de 1998-12-03"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Se o acto que constitui objecto da escritura ou do instrumento avulso for de valor determinado, aos emolumentos previstos no artigo anterior acrescem sobre o total do valor, por cada 1000$00 ou fracção:\n\na) Até 200000$00 - 10$00;\n\nb) De 200000$00 a 1000000$00 - 5$00;\n\nc) De 1000000$00 a 10000000$00 - 4$00;\n\nd) Acima de 10000000$00, sobre o excedente - 3$00.\n\n2 - Aos emolumentos previstos no número anterior acresce, nas escrituras de partilha ou de doação, 5000$00 por cada um dos bens descritos, no máximo de 150000$00.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1007-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/1007-a-1998-265564), em vigor a partir de 1998-12-03"
+  },
+  "1024688386": {
+   "fragment_id": "1024688368",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Por cada instrumento de protesto de títulos de crédito:\n\na) Se o valor do título de crédito não exceder 100000$00 - 500$00;\n\nb) Se for superior a 100000$00 e não exceder 1000000$00 - 1000$00;\n\nc) Se for superior a 1000000$00 - 1500$00.\n\n2 - Pelo levantamento de cada título antes de protestado - 500$00.\n\n3 - Pela informação, dada por escrito, referente a registo lavrado no livro de protestos de títulos de crédito, por cada título - 1000$00."
+  },
+  "1024688387": {
+   "fragment_id": "1024688369",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Pela tradução de documentos realizada por notário, por cada página ou fracção da tradução, incluindo o respectivo certificado - 5000$00.\n\n2 - Pelo certificado de exactidão da tradução de cada documento realizado por tradutor ajuramentado - 3000$00."
+  },
+  "1024157663": {
+   "fragment_id": "1024688370",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1998-12-03",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1007-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/1007-a-1998-265564), em vigor a partir de 1998-12-03"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Por cada certidão, fotocópia, certificado diverso do previsto no n.º 2 do artigo anterior, pública-forma, conferência e extracto até 12 páginas, inclusive - 1000$00.\n\nA partir da 13.ª página, por cada página a mais - 200$00.\n\n2 - Por cada página ou fracção de fotocópia simples não autenticada - 100$00.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1007-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/1007-a-1998-265564), em vigor a partir de 1998-12-03"
+  },
+  "1024688389": {
+   "fragment_id": "1024688371",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Pelo reconhecimento de cada assinatura - 500$00.\n\n2 - Por cada reconhecimento de letra e assinatura - 700$00.\n\n3 - Pelo reconhecimento que contenha, a pedido dos interessados, a menção de qualquer circunstância especial - 1000$00.\n\n4 - Por cada termo de autenticação com um só interveniente - 1500$00.\n\n5 - Por cada interveniente a mais - 500$00."
+  },
+  "1024688390": {
+   "fragment_id": "1024688372",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nPor cada registo lavrado no livro a que se refere a alínea f) do n.º 1 do artigo 7.º do Código do Notariado - 500$00."
+  },
+  "1024688391": {
+   "fragment_id": "1024688373",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nPelo registo na Conservatória dos Registos Centrais de cada escritura, testamento público, testamento internacional, instrumento de aprovação, de depósito e abertura de testamento cerrado - 250$00."
+  },
+  "1024688392": {
+   "fragment_id": "1024688374",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSão devidos à Conservatória dos Registos Centrais:\n\na) Pela transcrição de cada escritura ou testamento outorgado no estrangeiro - 2000$00;\n\nb) Por cada boletim de informação - 500$00."
+  },
+  "1024688393": {
+   "fragment_id": "1024688475",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Por cada processo de recurso hierárquico - 15000$00.\n\n2 - Tratando-se de impugnação de conta - 10000$00.\n\n3 - Em caso de procedência do recurso ou da impugnação, haverá lugar à devolução dos respectivos emolumentos.\n\n4 - Havendo provimento parcial, o emolumento do n.º 1 é reduzido a metade."
+  },
+  "1024688394": {
+   "fragment_id": "1024688476",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - É devido o emolumento de 5000$00 pelo estudo e preparação das seguintes escrituras, salvo se se reproduzir minuta apresentada pelas partes:\n\na) Justificação e reconhecimento de direitos;\n\nb) Habilitação;\n\nc) Partilha;\n\nd) Divisão;\n\ne) Permuta;\n\nf) Dação em cumprimento e transacção;\n\ng) Constituição de servidão, do direito de superfície e do direito de habitação periódica;\n\nh) Constituição de propriedade horizontal ou sua alteração;\n\ni) Arrendamento;\n\nj) Locação financeira;\n\nl) Locação de estabelecimento;\n\nm) Constituição, fusão, cisão, transformação e dissolução de sociedades, bem como alteração de contrato de sociedade;\n\nn) Constituição de estabelecimento individual de responsabilidade limitada e alteração do acto constitutivo;\n\no) Constituição de associação, fundação, agrupamento complementar de empresas, consórcio, cooperativa e agrupamento europeu de interesse económico, bem como de alteração dos seus estatutos;\n\np) Aquisição tendente ao domínio total;\n\nq) Qualquer acto que envolva aplicação de normas jurídicas estrangeiras.\n\n2 - Nas escrituras não mencionadas no número anterior em que figurem outras cláusulas para além das respeitantes aos elementos essenciais dos negócios titulados é devido o emolumento do n.º 1, reduzido a metade.\n\n3 - Cumulando-se na mesma escritura mais de um dos actos referidos nos números anteriores, o emolumento é devido por cada um deles.\n\n4 - É devido o emolumento de 1000$00 por cada requerimento directamente relacionado com actos notariais que deva ser apresentado noutras repartições."
+  },
+  "1024688395": {
+   "fragment_id": "1024688477",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - Pela celebração de qualquer acto dentro das horas regulamentares, fora do cartório, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem - 10000$00.\n\n2 - O emolumento do número anterior é contado por inteiro quanto ao primeiro acto praticado e por metade quanto aos demais, se o encargo do pagamento da conta competir ao mesmo interessado.\n\n3 - Contar-se-á apenas uma vez o emolumento deste artigo, quando se trate exclusivamente de reconhecimentos e termos de autenticação.\n\n4 - Não é devido o emolumento quanto a reconhecimentos e termos de autenticação que se pratiquem juntamente com outro acto.\n\n5 - O emolumento do n.º 1 é reduzido a metade nas escrituras de aquisição, a título oneroso, de habitação própria permanente ou habitação social, nas escrituras de mútuo que se destine a essa aquisição e nos testamentos lavrados em estabelecimentos prisionais ou hospitalares."
+  },
+  "1024688396": {
+   "fragment_id": "1024688478",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Para celebração de qualquer acto fora das horas regulamentares, a requisição dos interessados, aos emolumentos que ao acto competirem acrescem - 7500$00.\n\n2 - Ao emolumento do número anterior é aplicável, conforme os casos, o disposto nos n.os 3 e 4 do artigo precedente.\n\n3 - O emolumento do n.º 1 é elevado para o dobro sempre que os actos forem celebrados, de harmonia com a requisição, antes das 8 ou depois das 21 horas, bem como em dia em que o cartório esteja encerrado."
+  },
+  "1024688397": {
+   "fragment_id": "1024688479",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - Pelos actos requisitados que não sejam outorgados por motivos imputáveis às partes, é devido o emolumento de 10000$00.\n\n2 - Tratando-se, porém, de escrituras de partilha ou de doação, ao emolumento do número anterior acrescerá o emolumento previsto no n.º 2 do artigo 5.º, reduzido a metade."
+  },
+  "1024688398": {
+   "fragment_id": "1024688480",
+   "type": 1,
+   "heading": "Capítulo III — Alteração e cumulação de emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alteração e cumulação de emolumentos"
+  },
+  "1024688399": {
+   "fragment_id": "1024688481",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nSe outro benefício mais favorável não decorrer da lei, nas escrituras a seguir mencionadas, os emolumentos a que se refere o artigo 5.º são reduzidos:\n\n1) Em 75%:\n\na) Nas declarativas que apenas reproduzam o pacto social em vigor;\n\nb) Nas que apenas titulem, isolada ou conjuntamente, mudança de sede, modificação da firma e redução de capital para cobertura de prejuízos;\n\n2) Em 50%:\n\na) Nas de aquisição, por título oneroso, de imóvel para habitação própria permanente ou habitação social;\n\nb) Nas de partilha em que sejam interessados incapazes ou pessoas colectivas e o seu valor ultrapassar 50000$00;\n\nc) Nas de reforço de hipoteca;\n\n3) Em 20%:\n\na) Nas de modificação parcial de pacto social que não envolvam aumento ou redução do capital social;\n\nb) Nas de quitação de dívida;\n\nc) Nas de distrate, resolução ou revogação de actos notariais;\n\nd) Nas de transformação ou de modificação de estabelecimento individual de responsabilidade limitada em sociedade unipessoal por quotas, a todo o tempo, ou de uma sociedade por quotas em sociedade unipessoal por quotas, no caso previsto no n.º 2 do artigo 270.º-A do Código das Sociedades Comerciais, neste caso durante os 12 meses seguintes à data da concentração das quotas;\n\n4) As reduções emolumentares previstas nos números anteriores são igualmente aplicáveis aos instrumentos públicos avulsos, sempre que estes sejam lavrados em substituição de escritura."
+  },
+  "1024688400": {
+   "fragment_id": "1024688482",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - Quando uma escritura contiver mais de um acto, cobram-se por inteiro os emolumentos devidos por cada um deles.\n\n2 - Há pluralidade de actos se a denominação correspondente a cada um dos negócios jurídicos cumulados for diferente ou se os respectivos sujeitos activos e passivos não forem os mesmos.\n\n3 - Não são considerados novos actos:\n\na) As intervenções, aquiescências e renúncias de terceiros necessárias à plenitude dos efeitos jurídicos ou à perfeição do acto a que respeitem;\n\nb) As garantias entre os mesmos sujeitos;\n\nc) As garantias a obrigações constituídas por sociedades, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico prestadas pelos sócios e pelos membros dos agrupamentos no mesmo instrumento em que a dívida tenha sido contraída.\n\n4 - Contar-se-ão como um só acto:\n\na) A venda e a cessão onerosa entre os mesmos sujeitos;\n\nb) O arrendamento e o aluguer, bem como o contrato misto de locação e de parceria, entre os mesmos sujeitos e pelo mesmo prazo;\n\nc) A dissolução de sociedades e a liquidação ou partilha do respectivo património;\n\nd) A aquiescência recíproca entre os cônjuges ou a aquiescência conjunta do marido e mulher, para actos lavrados ou a lavrar noutro instrumento;\n\ne) A outorga de poderes de representação ou o seu substabelecimento por marido e mulher, contanto que o representante seja o mesmo;\n\nf) As diversas garantias de terceiros a obrigações entre os mesmos sujeitos prestadas no título em que estas são constituídas, sem prejuízo do disposto na alínea c) do número anterior;\n\ng) As diversas garantias a obrigações entre os mesmos sujeitos em título posterior àquele em que estas foram constituídas."
+  },
+  "1024688401": {
+   "fragment_id": "1024688483",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "1024688402": {
+   "fragment_id": "1024688484",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - Os emolumentos previstos nos artigos 4.º, n.º 3, 7.º, n.º 1, 14.º, 15.º e 16.º têm a natureza de emolumentos pessoais.\n\n2 - Os emolumentos referidos no número anterior estão sujeitos às seguintes regras de distribuição:\n\na) Os dos artigos 4.º, n.º 3, e 7.º, n.º 1, revertem na totalidade para o funcionário que efectuar o correspondente serviço;\n\nb) Os dos artigos 14.º, 15.º e 16.º pertencem dois terços ao notário ou a quem legalmente o substituir, nos casos de vacatura de lugar ou de impedimento, e um terço aos oficiais, na proporção dos seus vencimentos de categoria.\n\n3 - É fixado em montante não superior a metade do respectivo vencimento de categoria o máximo dos emolumentos a perceber mensalmente pelos funcionários, nos termos dos artigos 14.º, n.º 4, e 15.º"
+  },
+  "1024688403": {
+   "fragment_id": "1024688485",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nAlém de outras consagradas em diplomas avulsos, são isentas de emolumentos as seguintes escrituras:\n\na) As de habilitação e as de partilha em que algum interessado seja incapaz ou pessoa colectiva, desde que a abertura da sucessão tenha ocorrido após 7 de Março de 1995, e ainda, quanto às últimas, se o valor do acervo hereditário não ultrapassar 50000$00;\n\nb) As de rectificação resultantes de erros imputáveis ao notário."
+  },
+  "1024688404": {
+   "fragment_id": "1024688486",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - Os emolumentos a cobrar por cada acto não podem exceder a quantia de 15000000$00, sem prejuízo do disposto no número seguinte.\n\n2 - Por cada um dos actos referidos na alínea b) do n.º 1 do artigo 18.º são fixados os seguintes limites máximos de emolumentos, consoante o seu valor seja:\n\nAté 1000000000$00 - 300000$00;\n\nSuperior a 1000000000$00 e até 10000000000$00 - 500000$00;\n\nSuperior a 10000000000$00 - 1000000$00."
+  },
+  "1024688405": {
+   "fragment_id": "1024688487",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nO total da conta será arredondado, por excesso, para a dezena de escudos, acrescendo esse excesso ao total dos emolumentos devidos pelo acto."
+  },
+  "1024688406": {
+   "fragment_id": "1024688488",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - a) Pelo requerimento ou preenchimento do impresso-requisição para a realização de qualquer acto de registo e respectiva remessa à conservatória competente, a pedido do interessado - 750$00.\n\nb) Acresce, por cada acto de registo além do primeiro - 250$00.\n\n2 - O emolumento previsto no número anterior tem a natureza e segue o regime dos emolumentos pessoais.\n\n3 - Ao emolumento previsto no n.º 1 acrescem as despesas de correio."
+  },
+  "1028060198": {
+   "fragment_id": "1024688300",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Revogado pelo/a 3.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+   ],
+   "markdown": "###### Artigo 15.º\n\nO custo dos títulos de registo de propriedade, bem como as despesas de quaisquer comunicações a que haja lugar, são pagos separadamente pelos interessados.\n\n> Revogado pelo/a 3.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+  },
+  "1028060191": {
+   "fragment_id": "1024688302",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Por cada inscrição inicial - 4500$00.\n\n2 - Por qualquer outra inscrição - 3500$00.\n\n3 - Sendo a inscrição de valor determinado e superior a 100000$00, acresce sobre o total do valor, por cada 1000$00 ou fracção:\n\na) Até 200000$00 - 10$00;\n\nb) De 200000$00 a 1000000$00 - 5$00;\n\nc) De 1000000$00 a 10000000$00 - 4$00;\n\nd) Acima de 10000000$00, sobre o excedente - 3$00.\n\n4 - Por cada registo efectuado por simples depósito de documentos é devido o emolumento previsto no n.º 2.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+  },
+  "1028060192": {
+   "fragment_id": "1024688317",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+   ],
+   "markdown": "###### Artigo 16.º\n\n1 - Sempre que não seja possível determinar, mediante a aplicação das normas previstas nos artigos antecedentes, o valor do facto registado, será este considerado de valor indeterminado.\n\n2 - A unificação de quotas, as deliberações da assembleia de credores e os actos ou providências que afectem a livre disposição dos bens são, para fins emolumentares, actos de valor indeterminado.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+  },
+  "1028060199": {
+   "fragment_id": "1024688320",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Revogado pelo/a 3.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+   ],
+   "markdown": "###### Artigo 19.º\n\nAs despesas de quaisquer comunicações a que haja lugar são pagas separadamente pelos interessados.\n\n> Revogado pelo/a 3.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+  },
+  "1028060193": {
+   "fragment_id": "1024688370",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25",
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1007-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/1007-a-1998-265564), em vigor a partir de 1998-12-03"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Por cada certidão, fotocópia, certificado diverso do previsto no n.º 2 do artigo anterior, pública-forma, conferência e extracto até oito páginas, inclusive - 1000$00.\n\nA partir da 9.ª página, por cada página a mais - 200$00.\n\n2 - Por cada página ou fracção de fotocópia simples não autenticada - 100$00.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1007-A/98 - Diário da República n.º 278/1998, 1º Suplemento, Série I-B de 1998-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/1007-a-1998-265564), em vigor a partir de 1998-12-03"
+  },
+  "1028060194": {
+   "fragment_id": "1024688481",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+   ],
+   "markdown": "###### Artigo 18.º\n\nSe outro benefício mais favorável não decorrer da lei, nas escrituras a seguir mencionadas, os emolumentos a que se refere o artigo 5.º são reduzidos:\n\n1) Em 75%:\n\na) Nas declarativas que apenas reproduzam o pacto social em vigor;\n\nb) Nas que apenas titulem, isolada ou conjuntamente, mudança de sede, modificação da firma e redução de capital para cobertura de prejuízos;\n\n2) Em 50%:\n\na) Nas de aquisição, por título oneroso, de imóvel para habitação própria permanente ou habitação social;\n\nb) Nas de partilha em que sejam interessados incapazes ou pessoas colectivas e o seu valor ultrapassar 50000$00;\n\nc) Nas de reforço de hipoteca;\n\n3) Em 20%:\n\na) Nas de modificação parcial do pacto social, desde que não envolvam aumento de capital apenas com alteração da cláusula directamente determinada pelo aumento, nem redução de capital;\n\nb) Nas de quitação de dívida;\n\nc) Nas de distrate, resolução ou revogação de actos notariais;\n\nd) Nas de transformação ou de modificação de estabelecimento individual de responsabilidade limitada em sociedade unipessoal por quotas, a todo o tempo, ou de uma sociedade por quotas em sociedade unipessoal por quotas, no caso previsto no n.º 2 do artigo 270.º-A do Código das Sociedades Comerciais, neste caso durante os 12 meses seguintes à data da concentração das quotas;\n\n4) As reduções emolumentares previstas nos números anteriores são igualmente aplicáveis aos instrumentos públicos avulsos, sempre que estes sejam lavrados em substituição de escritura.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+  },
+  "1028060195": {
+   "fragment_id": "1024688482",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+   ],
+   "markdown": "###### Artigo 19.º\n\n1 - Quando uma escritura contiver mais de um acto, cobram-se por inteiro os emolumentos devidos por cada um deles.\n\n2 - Há pluralidade de actos se a denominação correspondente a cada um dos negócios jurídicos cumulados for diferente ou se os respectivos sujeitos activos e passivos não forem os mesmos.\n\n3 - Não são considerados novos actos:\n\na) As intervenções, aquiescências e renúncias de terceiros necessárias à plenitude dos efeitos jurídicos ou à perfeição do acto a que respeitem;\n\nb) As garantias entre os mesmos sujeitos;\n\nc) As garantias a obrigações constituídas por sociedades, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico prestadas pelos sócios e pelos membros dos agrupamentos no mesmo instrumento em que a dívida tenha sido contraída.\n\n4 - Contar-se-ão como um só acto:\n\na) A venda e a cessão onerosa entre os mesmos sujeitos;\n\nb) O arrendamento e o aluguer, bem como o contrato misto de locação e de parceria, entre os mesmos sujeitos e pelo mesmo prazo;\n\nc) A dissolução de sociedades e a liquidação ou partilha do respectivo património;\n\nd) A aquiescência recíproca entre os cônjuges ou a aquiescência conjunta do marido e mulher, para actos lavrados ou a lavrar noutro instrumento;\n\ne) A outorga de poderes de representação ou o seu substabelecimento por marido e mulher, contanto que o representante seja o mesmo;\n\nf) As diversas garantias de terceiros a obrigações entre os mesmos sujeitos prestadas no título em que estas são constituídas, sem prejuízo do disposto na alínea c) do número anterior;\n\ng) As diversas garantias a obrigações entre os mesmos sujeitos em título posterior àquele em que estas foram constituídas.\n\n5 - O disposto nos números anteriores é igualmente aplicável aos instrumentos avulsos que contenham mais de um acto.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+  },
+  "1028060196": {
+   "fragment_id": "1024688485",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+   ],
+   "markdown": "###### Artigo 21.º\n\nAlém de outros consagrados em diplomas avulsos, são isentos de emolumentos os seguintes actos:\n\na) As escrituras de habilitação e as de partilha em que algum interessado seja incapaz ou pessoa colectiva, desde que a abertura da sucessão tenha ocorrido após 7 de Março de 1995, e ainda, quanto às últimas, se o valor do acervo hereditário não ultrapassar 50000$00;\n\nb) Os de rectificação resultantes de erros imputáveis ao notário.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+  },
+  "1028060197": {
+   "fragment_id": "1024688488",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+   ],
+   "markdown": "###### Artigo 24.º\n\n1 - a) Pelo requerimento ou preenchimento do impresso-requisição para a realização de qualquer acto de registo e respectiva remessa à conservatória competente, a pedido do interessado - 750$00.\n\nb) Acresce, por cada acto de registo além do primeiro - 250$00.\n\n2 - O emolumento previsto no número anterior tem a natureza e segue o regime dos emolumentos pessoais, estando sujeito às regras de distribuição previstas na alínea b) do n.º 2 do artigo 20.º\n\n3 - Ao emolumento previsto no n.º 1 acrescem as despesas de correio.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 684/99 - Diário da República n.º 197/1999, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/684-1999-433812), em vigor a partir de 1999-08-25"
+  },
+  "1029684165": {
+   "fragment_id": "1024688277",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2001-09-29",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1117/2001 - Diário da República n.º 219/2001, Série I-B de 2001-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/1117-2001-641400), em vigor a partir de 2001-09-29"
+   ],
+   "markdown": "###### Artigo 14.º\n\n1 - Pelo acto de casamento não urgente celebrado, a pedido das partes, fora da conservatória ou nesta, mas fora do horário de funcionamento dos serviços ou em sábado, domingo ou dia feriado, além do emolumento do assento, acresce o emolumento pessoal de 14000$00.\n\n2 - Por qualquer outro acto praticado fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia feriado, sem prejuízo do emolumento respectivo a que houver lugar - 2000$00.\n\n3 - Os emolumentos dos números anteriores não são devidos nos actos praticados em estabelecimentos prisionais ou hospitalares nem quando os requisitantes dos actos se encontrarem na repartição, aguardando a sua vez, dentro das horas regulamentares.\n\n4 - Aos emolumentos respectivos acrescem as despesas de transporte.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1117/2001 - Diário da República n.º 219/2001, Série I-B de 2001-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/1117-2001-641400), em vigor a partir de 2001-09-29"
+  },
+  "1033275801": {
+   "fragment_id": "1024650073",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - (Revogado.)\n\n2 - Pelo certificado de exactidão de tradução de documento feita por tradutor ajuramentado - 3000$00.\n\n> Alterado pelo/a Artigo 12.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "1033275802": {
+   "fragment_id": "1024688369",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - (Revogado.)\n\n2 - Pelo certificado de exactidão da tradução de cada documento realizado por tradutor ajuramentado - 3000$00.\n\n> Alterado pelo/a Artigo 12.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  }
+ }
+}

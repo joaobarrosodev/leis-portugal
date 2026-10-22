@@ -1,0 +1,600 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:220114:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2005-984387736",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2005-220114",
+ "source_lastmod": "2026-03-24",
+ "versions": [
+  {
+   "date": "2005-06-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "984518875",
+    "984519075",
+    "984519275",
+    "984519475",
+    "984519675",
+    "984519875",
+    "984520075",
+    "984520275",
+    "984520475",
+    "984520675",
+    "984520875",
+    "984521075",
+    "984521275",
+    "984521475",
+    "984521675",
+    "984521875",
+    "984522075",
+    "984522275",
+    "984522475",
+    "984522675",
+    "984522875",
+    "984523075",
+    "984523275",
+    "984523475",
+    "984523675",
+    "984523875",
+    "984524075",
+    "984524275",
+    "984524475",
+    "1077643675",
+    "984524675",
+    "984524875"
+   ]
+  },
+  {
+   "date": "2011-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:485631:por",
+     "title": "Decreto Legislativo Regional n.º 2/2011/M",
+     "published": "2011-01-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2011-485631"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 21.º-A"
+   ],
+   "fragments": [
+    "984518875",
+    "984519075",
+    "984519275",
+    "984519475",
+    "984519675",
+    "984519875",
+    "984520075",
+    "984520275",
+    "984520475",
+    "984520675",
+    "984520875",
+    "984521075",
+    "984521275",
+    "984521475",
+    "984521675",
+    "984521875",
+    "984522075",
+    "984522275",
+    "984522475",
+    "984522675",
+    "984522875",
+    "984523075",
+    "984523275",
+    "1076923875",
+    "984523675",
+    "984523875",
+    "984524075",
+    "984524275",
+    "984524475",
+    "1077643675",
+    "1077643875",
+    "984524875"
+   ]
+  },
+  {
+   "date": "2016-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74967226:por",
+     "title": "Decreto Legislativo Regional n.º 31/2016/M",
+     "published": "2016-07-19",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/31-2016-74967226"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Revoga Artigo 21.º-A"
+   ],
+   "fragments": [
+    "984518875",
+    "984519075",
+    "1078159875",
+    "1078160075",
+    "1078160275",
+    "1078160475",
+    "984520075",
+    "984520275",
+    "1078160675",
+    "1078160875",
+    "1078161075",
+    "1078161275",
+    "984521275",
+    "1078161475",
+    "1078161675",
+    "1078161875",
+    "1078162075",
+    "984522275",
+    "984522475",
+    "984522675",
+    "1078162275",
+    "984523075",
+    "984523275",
+    "1078162475",
+    "1078162675",
+    "984523875",
+    "984524075",
+    "984524275",
+    "984524475",
+    "1078162875",
+    "1077643875",
+    "984524875"
+   ]
+  }
+ ],
+ "fragments": {
+  "984518875": {
+   "fragment_id": "984518775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regime de cooperação técnica e financeira entre a administração pública regional e a administração local da Região Autónoma da Madeira\n\nA cooperação técnica e financeira entre a administração pública regional da Região Autónoma da Madeira e as autarquias locais situadas na Região tem sido desenvolvida com recurso a diversos instrumentos, alguns resultantes directamente da Lei das Finanças Locais, enquanto outros têm sido pontualmente criados pela Assembleia Legislativa, em resposta às especificidades da Região.\n\nUma das dificuldades sentida resulta, precisamente, dessa dispersão legislativa que urge colmatar, na medida em que a mesma tem impedido uma percepção imediata do quadro definidor das relações financeiras entre o Governo Regional e os órgãos locais.\n\nAlém disso, as preocupações inerentes a uma gestão económica eficiente e eficaz das actividades desenvolvidas pelas autarquias locais, no âmbito das suas atribuições, exigem um conhecimento integral e prévio do contributo do Orçamento regional para o desenvolvimento das comunidades locais.\n\nCom a publicação do presente diploma, veio estabelecer-se o instrumento de enquadramento indispensável a um adequado sistema de gestão financeira, ao nível local e regional, que passa por dar continuidade à política de cooperação já encetada e por adaptar ao nível do território da Região Autónoma da Madeira o sistema de apoios que tem sido desenvolvido a nível nacional.\n\nProssegue-se, por esta via, à concretização da autonomia financeira das autarquias locais situadas na Região e procura-se dar resposta, através da adopção dos instrumentos financeiros adequados, às suas especificidades, resultantes, nomeadamente, da reduzida dimensão e da situação ultraperiférica e de insularidade em que se encontram, que tornam particularmente escassos os meios financeiros disponíveis para fazer face às atribuições e competências que lhes estão cometidas.\n\nO presente decreto legislativo regional obedece, assim, aos princípios contidos na Lei n.º 42/98, de 6 de Agosto, constituindo a regulamentação a que se refere o artigo 35.º daquela lei, de acordo com o disposto no seu artigo 7.º\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos das alíneas a) e d) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, o seguinte:"
+  },
+  "984519075": {
+   "fragment_id": "984518975",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "984519275": {
+   "fragment_id": "984519175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime a que deve obedecer a cooperação técnica e financeira entre a administração pública regional da Região Autónoma da Madeira e as autarquias locais situadas na Região, associações de freguesias e de municípios e empresas de âmbito intermunicipal."
+  },
+  "984519475": {
+   "fragment_id": "984519375",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA cooperação técnica e financeira referida no artigo 1.º poderá assumir as seguintes formas e modalidades:\n\na) Contratos-programa;\n\nb) Protocolos e acordos de colaboração;\n\nc) Contratos de financiamento;\n\nd) Concessão excepcional de auxílios."
+  },
+  "984519675": {
+   "fragment_id": "984519575",
+   "type": 11,
+   "heading": "Artigo 3.º — Comparticipação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comparticipação financeira\n\n1 - Em qualquer das situações identificadas no artigo anterior, as comparticipações financeiras regionais podem ser directas ou indirectas, consoante revistam a forma de apoios não reembolsáveis ou consistam na criação de linhas de crédito bonificado ou na concessão de outras condições especiais.\n\n2 - A cooperação financeira assume carácter complementar na estrutura de financiamento do investimento autárquico, incluindo os projectos de investimento que beneficiam de comparticipação comunitária."
+  },
+  "984519875": {
+   "fragment_id": "984519775",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos gerais\n\nA cooperação técnica e financeira prevista no presente diploma tem como objectivos:\n\na) Contribuir para a realização de investimentos de grande relevância para o desenvolvimento local e regional, incluídos em planos plurianuais de investimentos locais e regional;\n\nb) Assegurar a comparticipação financeira nacional em projectos de investimentos co-financiados pela União Europeia;\n\nc) Contribuir para a resolução de situações de desequilíbrio financeiro estrutural ou de ruptura financeira;\n\nd) Prosseguir a realização do equilíbrio sustentável das finanças locais, dotando as autarquias locais dos meios necessários à eliminação das desigualdades resultantes da situação de insularidade e de ultraperiferia."
+  },
+  "984520075": {
+   "fragment_id": "984519975",
+   "type": 1,
+   "heading": "Capítulo II — Formas de cooperação técnica e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Formas de cooperação técnica e financeira"
+  },
+  "984520275": {
+   "fragment_id": "984520175",
+   "type": 8,
+   "heading": "Secção I — Contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Contratos-programa"
+  },
+  "984520475": {
+   "fragment_id": "984520375",
+   "type": 11,
+   "heading": "Artigo 5.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objecto\n\n1 - Os contratos-programa têm por objecto a execução de projectos de investimentos, incluídos em planos plurianuais de investimentos, que envolvam técnica e financeiramente departamentos da administração regional e uma ou mais autarquias locais, associações de freguesias e de municípios e empresas de âmbito intermunicipal que exerçam a sua actividade nos domínios identificados no número seguinte, nos termos e nas condições fixados no presente diploma.\n\n2 - Podem ser celebrados contratos-programa para a realização de investimentos que se compreendam no âmbito das atribuições e competências das autarquias locais nos seguintes domínios:\n\na) Equipamento rural e urbano:\n\ni) Criação e manutenção de espaços verdes;\n\nii) Grandes beneficiações de ruas e arruamentos;\n\niii) Construção e ampliação de cemitérios municipais;\n\niv) Instalação e equipamento dos serviços públicos das autarquias locais cujo investimento se afigure essencial à funcionalidade dos seus órgãos ou contribua de forma significativa para a modernização e simplificação administrativa;\n\nv) Criação e manutenção de mercados municipais;\n\nb) Energia:\n\ni) Instalação de iluminação pública urbana e rural;\n\nii) Criação de centros produtores de energias alternativas;\n\nc) Transportes e comunicações:\n\ni) Construção e reparação da rede viária de âmbito municipal, incluindo o respectivo equipamento;\n\nii) Aquisição de meios de transporte;\n\niii) Construção de estruturas de apoio aos transportes rodoviários;\n\nd) Educação, ensino e formação profissional:\n\ni) Reconstrução e reparação de edifícios escolares;\n\ne) Património, cultura e ciência:\n\ni) Criação e manutenção de centros de cultura e de centros de ciência;\n\nii) Construção e manutenção de bibliotecas;\n\niii) Manutenção de teatros e museus;\n\niv) Defesa e valorização do património cultural, paisagístico e urbanístico;\n\nf) Tempos livres e desporto:\n\ni) Construção de parques de campismo de interesse municipal;\n\nii) Instalações e equipamentos para a prática desportiva e recreativa de interesse municipal;\n\ng) Habitação:\n\ni) Implementação de programas de renovação urbana e recuperação de habitações degradadas;\n\nh) Protecção civil:\n\ni) Construção, apetrechamento e manutenção de quartéis de bombeiros;\n\nii) Aquisição de equipamentos de prevenção e apoio à luta contra incêndios;\n\niii) Construção e manutenção de infra-estruturas de prevenção e apoio ao combate a fogos florestais;\n\ni) Ambiente e saneamento básico:\n\ni) Construção e manutenção de sistemas municipais de abastecimento de água;\n\nii) Construção e manutenção de sistemas municipais de drenagem e tratamento de águas residuais urbanas;\n\niii) Construção e manutenção de sistemas municipais de limpeza pública e de recolha e tratamento de resíduos sólidos urbanos;\n\nj) Promoção do desenvolvimento;\n\nl) Ordenamento do território e urbanismo;\n\nm) Acção social:\n\ni) Construção de creches, jardins-de-infância, lares ou centros de dia para idosos e centros para deficientes;\n\nn) Sedes das autarquias:\n\ni) Construção, reconstrução ou reparações de edifícios sede dos municípios e das freguesias, cujo investimento revista carácter urgente, tendo em vista assegurar a funcionalidade dos órgãos municipais e das freguesias e a dignidade do exercício do poder local;\n\no) Saúde:\n\ni) Reparações nos edifícios dos centros de saúde."
+  },
+  "984520675": {
+   "fragment_id": "984520575",
+   "type": 11,
+   "heading": "Artigo 6.º — Apresentação de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apresentação de propostas\n\n1 - As propostas de candidatura relativas aos investimentos a que se refere o artigo anterior são apresentadas à secretaria regional com a tutela das finanças, cabendo a esta apreciá-las.\n\n2 - Sem prejuízo das adaptações devidas à natureza dos investimentos em causa, as propostas de candidatura a que se refere o número anterior deverão integrar os seguintes elementos:\n\na) Designação do projecto;\n\nb) Identificação da entidade proponente;\n\nc) Memória descritiva;\n\nd) Planta de localização;\n\ne) Descrição da importância do projecto no contexto regional ou local;\n\nf) Programação física e financeira indicativa;\n\ng) Proposta de modelo de financiamento."
+  },
+  "984520875": {
+   "fragment_id": "984520775",
+   "type": 11,
+   "heading": "Artigo 7.º — Selecção e aprovação das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Selecção e aprovação das propostas\n\n1 - A selecção das propostas basear-se-á, quando for caso disso, na consideração dos seguintes factores:\n\na) Localização do projecto em áreas abrangidas pelo plano director municipal em vigor;\n\nb) Dimensão, interesse e gravidade da situação que se visa corrigir;\n\nc) Importância do projecto para o desenvolvimento sócio-económico local ou regional;\n\nd) Complementaridade em relação a outros projectos já realizados, contribuindo, assim, para soluções integradas;\n\ne) Enquadramento na política de desenvolvimento local e regional traçada para a Região Autónoma da Madeira;\n\nf) À data da sua apresentação, não se encontrem quer física quer financeiramente concluídos os projectos objecto da candidatura.\n\n2 - Atenta a natureza dos investimentos, poderão ser solicitados elementos adicionais para a sua apreciação para além dos referidos no n.º 2 do artigo 6.º do presente diploma, designadamente estudos, projectos técnicos e pareceres sobre os mesmos, emitidos pelas entidades com atribuições nos domínios em causa.\n\n3 - As candidaturas seleccionadas são submetidas à aprovação do Conselho do Governo Regional, através do secretário regional com a tutela das finanças."
+  },
+  "984521075": {
+   "fragment_id": "984520975",
+   "type": 11,
+   "heading": "Artigo 8.º — Celebração, coordenação e publicidade dos contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Celebração, coordenação e publicidade dos contratos-programa\n\n1 - Os contratos-programa são celebrados entre as entidades referidas no artigo 5.º do presente diploma, devendo as respectivas dotações estarem previstas no Orçamento regional e os respectivos projectos de investimento inseridos nos orçamentos e planos plurianuais de investimento das entidades beneficiárias.\n\n2 - Compete às entidades beneficiárias a coordenação da realização dos projectos efectuados neste âmbito.\n\n3 - Os contratos-programa celebrados ao abrigo deste diploma, bem como as suas revisões, serão publicados no Jornal Oficial da Região Autónoma da Madeira.\n\n4 - Os responsáveis pela execução dos projectos financiados ficam obrigados a afixar, em local público bem visível, a designação do projecto, o montante do investimento, o prazo de execução, as entidades financiadoras e as respectivas comparticipações financeiras."
+  },
+  "984521275": {
+   "fragment_id": "984521175",
+   "type": 11,
+   "heading": "Artigo 9.º — Conteúdo dos contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conteúdo dos contratos-programa\n\n1 - Os contratos-programa são celebrados por escrito e devem ter o seguinte conteúdo:\n\na) Entidades outorgantes;\n\nb) Objecto do contrato;\n\nc) Período de vigência do contrato, com as datas dos respectivos início e termo;\n\nd) Direitos e obrigações das partes contratantes;\n\ne) Definição dos instrumentos financeiros utilizáveis;\n\nf) Quantificação da responsabilidade de financiamento de cada uma das partes;\n\ng) Estrutura de acompanhamento e controlo da execução do contrato;\n\nh) Penalizações face a situações de incumprimento por qualquer das partes contratantes;\n\ni) Dotação orçamental.\n\n2 - As alterações dos contratos-programa requerem o acordo de todos os contraentes, excepto se o próprio contrato o dispensar."
+  },
+  "984521475": {
+   "fragment_id": "984521375",
+   "type": 11,
+   "heading": "Artigo 10.º — Revisão e manutenção da vigência dos contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revisão e manutenção da vigência dos contratos-programa\n\n1 - Ocorrendo alteração anormal e imprevisível das circunstâncias que determinaram os termos do contrato-programa, ou face a quaisquer outras consequências provenientes daquela alteração, deverá ser proposta a sua revisão pela parte que, nos termos do contrato, seja responsável pela execução dos investimentos ou das acções que constituem o objecto do contrato.\n\n2 - Através de decreto legislativo regional poder-se-á, mediante proposta fundamentada do Governo Regional, manter em vigor, independentemente de quaisquer formalidades adicionais, excepto o novo escalonamento dos encargos que não tenham sido suportados por orçamentos anteriores, contratos-programa cuja execução não tenha ocorrido até ao termo da sua validade."
+  },
+  "984521675": {
+   "fragment_id": "984521575",
+   "type": 11,
+   "heading": "Artigo 11.º — Resolução dos contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Resolução dos contratos-programa\n\n1 - O incumprimento, por uma das partes, das obrigações assumidas no âmbito do contrato poderá dar origem à resolução por iniciativa da outra parte.\n\n2 - Resolvido um contrato-programa, das eventuais propostas de celebração de novo contrato para realização, total ou parcial, de projectos de investimento abrangidos pelo primeiro deverá constar relatório detalhado das causas que motivaram a sua resolução e responsabilidades de cada uma das partes pelo seu não cumprimento."
+  },
+  "984521875": {
+   "fragment_id": "984521775",
+   "type": 11,
+   "heading": "Artigo 12.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Financiamento\n\n1 - A participação financeira do Governo Regional nos investimentos incluídos em contratos-programa poderá atingir 95% dos respectivos custos totais.\n\n2 - A participação referida no número anterior não abrange os encargos resultantes das revisões de preços, trabalhos a mais, erros ou omissões, bem como as despesas relativas à elaboração dos respectivos projectos de expropriação e de fiscalização de obras.\n\n3 - Compete ao Governo Regional, através de resolução do Conselho do Governo e mediante proposta do secretário regional com a tutela das finanças, fixar a comparticipação financeira da Região, do seguinte modo:\n\na) Projectos de iniciativa das entidades referidas no artigo 5.º poderão atingir até 70% ou até 50%, respectivamente, conforme estejam ou não enquadrados no Plano de Desenvolvimento Económico e Social e no Programa do Governo;\n\nb) Projectos de iniciativa conjunta poderão atingir até 95% ou até 75%, respectivamente, conforme estejam ou não enquadrados no Plano de Desenvolvimento Económico e Social e no Programa do Governo."
+  },
+  "984522075": {
+   "fragment_id": "984521975",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento e apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento e apoio técnico\n\n1 - Sem prejuízo do disposto no número seguinte, cabe à secretaria regional com a tutela das finanças fazer o acompanhamento da execução financeira dos contratos-programa e prestar o apoio técnico às entidades beneficiárias.\n\n2 - As competências da secretaria regional com a tutela das finanças referidas no número anterior poderão ser delegadas noutros departamentos do Governo Regional, nos termos a definir nos respectivos contratos-programa, em função dos domínios de intervenção."
+  },
+  "984522275": {
+   "fragment_id": "984522175",
+   "type": 8,
+   "heading": "Secção II — Protocolos e acordos de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Protocolos e acordos de colaboração"
+  },
+  "984522475": {
+   "fragment_id": "984522375",
+   "type": 11,
+   "heading": "Artigo 14.º — Protocolos e acordos de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Protocolos e acordos de colaboração\n\n1 - Poderão ser celebrados protocolos e acordos de colaboração nos domínios técnico e financeiro entre as entidades referidas no artigo 1.º, sempre que esteja em causa a realização de projectos que não se revistam de complexidade, custo e duração de execução justificativos da celebração de um contrato-programa.\n\n2 - A comparticipação financeira da Região no financiamento dos referidos projectos rege-se pelas disposições aplicáveis aos contratos-programa."
+  },
+  "984522675": {
+   "fragment_id": "984522575",
+   "type": 8,
+   "heading": "Secção III — Contratos de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Contratos de financiamento"
+  },
+  "984522875": {
+   "fragment_id": "984522775",
+   "type": 11,
+   "heading": "Artigo 15.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Objecto\n\n1 - Para assegurar a comparticipação nacional nos sistemas comunitários de incentivos financeiros à execução de programas e projectos de investimento enquadrados no Plano de Desenvolvimento Económico e Social e no Programa do Governo, poderá o Governo Regional celebrar protocolos com instituições financeiras para a criação de linhas de crédito bonificado, assegurando o financiamento de parte dos juros respeitantes aos empréstimos contraídos pelos municípios, associações de municípios e empresas de âmbito intermunicipal.\n\n2 - A cooperação referida no número anterior é objecto de contrato celebrado entre o Governo Regional e as entidades beneficiárias."
+  },
+  "984523075": {
+   "fragment_id": "984522975",
+   "type": 11,
+   "heading": "Artigo 16.º — Participação financeira regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Participação financeira regional\n\nA comparticipação financeira do Governo Regional na modalidade de cooperação referida no artigo anterior corresponde ao pagamento de uma bonificação até ao montante de 70% dos juros."
+  },
+  "984523275": {
+   "fragment_id": "984523175",
+   "type": 8,
+   "heading": "Secção IV — Concessão excepcional de auxílios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Concessão excepcional de auxílios financeiros"
+  },
+  "984523475": {
+   "fragment_id": "984523375",
+   "type": 11,
+   "heading": "Artigo 17.º — Admissibilidade e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Admissibilidade e financiamento\n\n1 - Para além das situações previstas no artigo 7.º, n.º 3, da Lei n.º 42/98, de 6 de Agosto, o Governo Regional poderá tomar providências orçamentais para a concessão de auxílios financeiros às autarquias locais nos seguintes casos e condições:\n\na) Calamidade pública reconhecida através de resolução do Conselho do Governo Regional, desde que se verifiquem prejuízos em infra-estruturas ou equipamentos municipais, que constituam obstáculo à sua utilização ou prestação normal de serviço e em que a reposição oportuna da situação inicial exija meios que excedam a capacidade financeira do município;\n\nb) Autarquias negativamente afectadas por investimentos realizados pela administração regional, designadamente ao nível das infra-estruturas e respectivos equipamentos;\n\nc) Execução de projectos de grande relevância que revistam carácter urgente e seja manifesta a incapacidade financeira das autarquias para lhes fazer face, reconhecida através de resolução do Conselho do Governo Regional, especialmente em domínios cujo investimento se revele prioritário;\n\nd) Municípios em situação de desequilíbrio estrutural ou de ruptura financeira resultante da ocorrência de situações imprevisíveis e excepcionais análogas às referidas no artigo 7.º, n.º 3, da Lei n.º 42/98, de 6 de Agosto, no âmbito da celebração de contratos de reequilíbrio financeiro;\n\ne) Outras situações expressamente reconhecidas em decreto legislativo regional, devidamente fundamentadas nas especificidades da Região;\n\nf) Resultante da ocorrência de situações imprevisíveis e excepcionais análogas às referidas no artigo 7.º, n.º 3, da Lei n.º 42/98, de 6 de Agosto, no âmbito da celebração de contratos de reequilíbrio financeiro;\n\ng) Outras situações expressamente reconhecidas em decreto legislativo regional, devidamente fundamentadas nas especificidades da Região.\n\n2 - O apoio financeiro da Região a que se reporta o número anterior poderá traduzir-se na concessão de um subsídio não reembolsável, na assunção de parte dos encargos com o serviço da dívida ou na criação de linha de crédito bonificado.\n\n3 - O valor da comparticipação financeira da Região será fixado pelo Conselho do Governo Regional consoante a urgência, a gravidade ou a necessidade das situações objecto de apoio, podendo atingir o montante global a investir, o valor em dívida ou os encargos com juros."
+  },
+  "984523675": {
+   "fragment_id": "984523575",
+   "type": 11,
+   "heading": "Artigo 18.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Candidatura\n\n1 - A iniciativa para a concessão de auxílios financeiros excepcionais cabe às autarquias locais, mediante a apresentação de candidatura dirigida à secretaria regional com a tutela das finanças, devidamente instruída com uma memória descritiva da situação para a qual se requer auxílio financeiro e os demais elementos informativos que o candidato considerar pertinentes.\n\n2 - Os municípios em situação de desequilíbrio financeiro estrutural ou de ruptura financeira deverão ainda apresentar o plano de reequilíbrio financeiro, acompanhado dos seguintes elementos:\n\na) Planos anuais e plurianuais de actividades, bem como os respectivos orçamentos;\n\nb) Cópia da acta em que foi reconhecida e declarada pela assembleia municipal a situação de desequilíbrio estrutural ou de ruptura financeira."
+  },
+  "984523875": {
+   "fragment_id": "984523775",
+   "type": 11,
+   "heading": "Artigo 19.º — Ordenação e selecção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Ordenação e selecção das candidaturas\n\nAs candidaturas serão ordenadas e seleccionadas pela secretaria regional com a tutela das finanças tendo em conta o grau de urgência do auxílio a prestar e, quando for caso disso, o interesse do projecto de investimento a realizar."
+  },
+  "984524075": {
+   "fragment_id": "984523975",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "984524275": {
+   "fragment_id": "984524175",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nCom a entrada em vigor do presente decreto legislativo regional são revogados os diplomas e as normas respeitantes às matérias nele reguladas, designadamente o artigo 7.º do Decreto Legislativo Regional n.º 4/93/M, de 26 de Abril, o Decreto Legislativo Regional n.º 17/99/M, de 15 de Junho, e o artigo 5.º do Decreto Legislativo Regional n.º 4-A/2001/M, de 3 de Abril."
+  },
+  "984524475": {
+   "fragment_id": "984524375",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma transitória\n\n1 - Mantêm-se em vigor os contratos-programa e os acordos de colaboração, incluindo os actos que venham a ser adoptados em sua execução, que não estejam abrangidos pelos domínios referidos no artigo 5.º, até ao integral cumprimento das responsabilidades financeiras no âmbito dos mesmos pela administração regional.\n\n2 - Os empréstimos contraídos no âmbito das linhas de crédito criadas pelo Decreto Legislativo Regional n.º 17/99/M, de 15 de Junho, e pelo artigo 5.º do Decreto Legislativo Regional n.º 4-A/2001/M, de 3 de Abril, continuam a reger-se pelo regime deles constante."
+  },
+  "1077643675": {
+   "fragment_id": "1077643575",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Financiamento de trabalhos a mais",
+   "in_force_from": "2011-01-11",
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º-A — Financiamento de trabalhos a mais\n\nNa execução deste diploma, a comparticipação financeira do Governo Regional, atribuída através de contratos-programa, pode ser extensiva a trabalhos a mais quando os mesmos sejam compensados com trabalhos a menos, até ao montante dessa compensação."
+  },
+  "984524675": {
+   "fragment_id": "984524575",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "984524875": {
+   "fragment_id": "984524775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 20 de Abril de 2005.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 5 de Maio de 2005.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "1076923875": {
+   "fragment_id": "984523375",
+   "type": 11,
+   "heading": "Artigo 17.º — Admissibilidade e financiamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 59/2005 - Diário da República n.º 138/2005, Série I-A de 2005-07-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/59-2005-237387), com efeitos a partir de 2005-06-02."
+   ],
+   "markdown": "###### Artigo 17.º — Admissibilidade e financiamento\n\n1 - Para além das situações previstas no artigo 7.º, n.º 3, da Lei n.º 42/98, de 6 de Agosto, o Governo Regional poderá tomar providências orçamentais para a concessão de auxílios financeiros às autarquias locais nos seguintes casos e condições:\n\na) Calamidade pública reconhecida através de resolução do Conselho do Governo Regional, desde que se verifiquem prejuízos em infra-estruturas ou equipamentos municipais, que constituam obstáculo à sua utilização ou prestação normal de serviço e em que a reposição oportuna da situação inicial exija meios que excedam a capacidade financeira do município;\n\nb) Autarquias negativamente afectadas por investimentos realizados pela administração regional, designadamente ao nível das infra-estruturas e respectivos equipamentos;\n\nc) Execução de projectos de grande relevância que revistam carácter urgente e seja manifesta a incapacidade financeira das autarquias para lhes fazer face, reconhecida através de resolução do Conselho do Governo Regional, especialmente em domínios cujo investimento se revele prioritário;\n\nd) Municípios em situação de desequilíbrio estrutural ou de ruptura financeira resultante da ocorrência de situações imprevisíveis e excepcionais análogas às referidas no artigo 7.º, n.º 3, da Lei n.º 42/98, de 6 de Agosto, no âmbito da celebração de contratos de reequilíbrio financeiro;\n\ne) Resultante da ocorrência de situações imprevisíveis e excepcionais análogas às referidas no artigo 7.º, n.º 3, da Lei n.º 42/98, de 6 de Agosto, no âmbito da celebração de contratos de reequilíbrio financeiro;\n\nf) Outras situações expressamente reconhecidas em decreto legislativo regional, devidamente fundamentadas nas especificidades da Região.\n\n2 - O apoio financeiro da Região a que se reporta o número anterior poderá traduzir-se na concessão de um subsídio não reembolsável, na assunção de parte dos encargos com o serviço da dívida ou na criação de linha de crédito bonificado.\n\n3 - O valor da comparticipação financeira da Região será fixado pelo Conselho do Governo Regional consoante a urgência, a gravidade ou a necessidade das situações objecto de apoio, podendo atingir o montante global a investir, o valor em dívida ou os encargos com juros.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 59/2005 - Diário da República n.º 138/2005, Série I-A de 2005-07-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/59-2005-237387), com efeitos a partir de 2005-06-02."
+  },
+  "1077643875": {
+   "fragment_id": "984524575",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "1078159875": {
+   "fragment_id": "984519175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma estabelece o regime a que deve obedecer a cooperação técnica e financeira entre a administração pública regional e as autarquias locais, associações de freguesias e de municípios e empresas de âmbito intermunicipal, situadas na Região Autónoma da Madeira, adiante designadas por entidades beneficiárias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078160075": {
+   "fragment_id": "984519375",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA cooperação técnica e financeira referida no artigo 1.º pode assumir as seguintes formas e modalidades:\n\na) Contratos-programa;\n\nb) Protocolos e acordos de colaboração;\n\nc) Contratos de financiamento;\n\nd) Contratos para a concessão excecional de auxílios.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078160275": {
+   "fragment_id": "984519575",
+   "type": 11,
+   "heading": "Artigo 3.º — Comparticipação financeira",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 3.º — Comparticipação financeira\n\n1 - Em qualquer das formas de cooperação identificadas no artigo anterior, as comparticipações financeiras regionais podem ser diretas ou indiretas, consoante revistam a forma de apoios não reembolsáveis ou consistam na criação de linhas de crédito bonificado ou na concessão de outras condições especiais, as quais são aprovadas por resolução do Conselho do Governo Regional.\n\n2 - A cooperação financeira assume carácter complementar na estrutura de financiamento do investimento autárquico, incluindo os projetos de investimento que beneficiam de comparticipação comunitária.\n\n3 - Na realização de projetos da competência da administração pública regional, a comparticipação financeira pode cobrir o valor total dos mesmos, sendo as correspondentes transferências financeiras suportadas pelos orçamentos dos departamentos ou serviços intervenientes, sem prejuízo de outros apoios técnicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078160475": {
+   "fragment_id": "984519775",
+   "type": 11,
+   "heading": "Artigo 4.º — Objetivos gerais",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 4.º — Objetivos gerais\n\nA cooperação técnica e financeira prevista no presente diploma tem como objetivos:\n\na) Contribuir para a realização de investimentos de grande relevância para o desenvolvimento local e regional, incluídos em planos plurianuais de investimentos de âmbito local ou regional;\n\nb) Assegurar a comparticipação financeira nacional em projetos de investimentos co-financiados pela União Europeia;\n\nc) Contribuir para a resolução de situações de desequilíbrio financeiro estrutural ou de ruptura financeira;\n\nd) Prosseguir a realização do equilíbrio sustentável das finanças locais, dotando as autarquias locais dos meios necessários à eliminação das desigualdades resultantes da situação de insularidade e de ultraperiferia;\n\ne) Permitir, por razões de racionalização de recursos, de melhor gestão e de proximidade das populações locais, a realização de projetos de investimento em domínios de intervenção que se enquadrem nas competências da administração regional, em colaboração com as entidades referidas no artigo 1.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078160675": {
+   "fragment_id": "984520375",
+   "type": 11,
+   "heading": "Artigo 5.º — Objeto dos contratos-programa",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 5.º — Objeto dos contratos-programa\n\n1 - Os contratos-programa têm por objeto a execução de projetos de investimentos, incluídos em planos plurianuais de investimentos, que envolvam técnica e financeiramente departamentos da administração regional e uma ou mais autarquias locais, associações de freguesias e de municípios e empresas de âmbito intermunicipal que exerçam a sua atividade nos domínios identificados no número seguinte, nos termos e nas condições fixados no presente diploma.\n\n2 - Podem ser celebrados contratos-programa para a realização de investimentos da competência dos departamentos ou serviços da administração regional ou para investimentos que se compreendam no âmbito das atribuições e competências das entidades beneficiárias, nos seguintes domínios:\n\na) Equipamento rural e urbano:\n\ni) Criação e manutenção de espaços verdes;\n\nii) Grandes beneficiações de ruas e arruamentos;\n\niii) Construção e ampliação de cemitérios municipais;\n\niv) Instalação e equipamento dos serviços públicos das autarquias locais cujo investimento se afigure essencial à funcionalidade dos seus órgãos ou contribua de forma significativa para a modernização e simplificação administrativa;\n\nv) Criação e manutenção de mercados municipais;\n\nb) Energia:\n\ni) Instalação de iluminação pública urbana e rural;\n\nii) Criação de centros produtores de energias alternativas;\n\nc) Transportes e comunicações:\n\ni) Construção e reparação da rede viária de âmbito municipal, incluindo o respetivo equipamento;\n\nii) Aquisição de meios de transporte;\n\niii) Construção de estruturas de apoio aos transportes rodoviários;\n\nd) Educação, ensino e formação profissional:\n\ni) Reconstrução e reparação de edifícios escolares;\n\ne) Património, cultura e ciência:\n\ni) Criação e manutenção de centros de cultura e de centros de ciência;\n\nii) Construção e manutenção de bibliotecas;\n\niii) Manutenção de teatros e museus;\n\niv) Defesa e valorização do património cultural, paisagístico e urbanístico;\n\nf) Tempos livres e desporto:\n\ni) Construção de parques de campismo de interesse municipal;\n\nii) Instalações e equipamentos para a prática desportiva e recreativa de interesse municipal;\n\ng) Habitação:\n\ni) Implementação de programas de renovação urbana e recuperação de habitações degradadas;\n\nh) Proteção civil:\n\ni) Construção, apetrechamento e manutenção de quartéis de bombeiros;\n\nii) Aquisição de equipamentos de prevenção e apoio à luta contra incêndios;\n\niii) Construção e manutenção de infraestruturas de prevenção e apoio ao combate a fogos florestais;\n\ni) Ambiente e saneamento básico:\n\ni) Construção e manutenção de sistemas municipais de abastecimento de água;\n\nii) Construção e manutenção de sistemas municipais de drenagem e tratamento de águas residuais urbanas;\n\niii) Construção e manutenção de sistemas municipais de limpeza pública e de recolha e tratamento de resíduos sólidos urbanos;\n\nj) Promoção do desenvolvimento;\n\nl) Ordenamento do território e urbanismo;\n\nm) Ação social:\n\ni) Construção de creches, jardins-de-infância, lares ou centros de dia para idosos e centros para deficientes;\n\nn) Sedes das autarquias:\n\ni) Construção, reconstrução ou reparações de edifícios sede dos municípios e das freguesias, cujo investimento revista caráter urgente, tendo em vista assegurar a funcionalidade dos órgãos municipais e das freguesias e a dignidade do exercício do poder local;\n\no) Saúde:\n\ni) Reparações nos edifícios dos centros de saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078160875": {
+   "fragment_id": "984520575",
+   "type": 11,
+   "heading": "Artigo 6.º — Apresentação de propostas",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 6.º — Apresentação de propostas\n\n1 - As propostas de candidatura das entidades beneficiárias e as propostas dos departamentos ou serviços da administração regional relativas aos investimentos a que se refere o artigo anterior são apresentadas à secretaria regional com a tutela das finanças para, respetivamente, apreciação e tramitação do processo ou encaminhamento para o departamento que tenha inscrita a respetiva dotação orçamental ou emissão do parecer previsto no n.º 3 do artigo 7.º\n\n2 - Sem prejuízo das adaptações devidas à natureza dos investimentos em causa, as propostas de candidatura e as propostas da administração regional a que se refere o número anterior devem integrar os seguintes elementos:\n\na) Designação do projeto;\n\nb) Identificação da entidade proponente e da entidade executora;\n\nc) Memória descritiva;\n\nd) Planta de localização;\n\ne) Descrição da importância do projeto no contexto regional ou local;\n\nf) Programação física e financeira indicativa;\n\ng) Proposta de modelo de financiamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078161075": {
+   "fragment_id": "984520775",
+   "type": 11,
+   "heading": "Artigo 7.º — Seleção e aprovação das propostas",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 7.º — Seleção e aprovação das propostas\n\n1 - A seleção das propostas basear-se-á, quando for caso disso, na consideração dos seguintes fatores:\n\na) Localização do projeto em áreas abrangidas pelo plano diretor municipal em vigor;\n\nb) Dimensão, interesse e gravidade da situação que se visa corrigir;\n\nc) Importância do projeto para o desenvolvimento socioeconómico local ou regional;\n\nd) Complementaridade em relação a outros projetos já realizados, contribuindo, assim, para soluções integradas;\n\ne) Enquadramento na política de desenvolvimento local e regional traçada para a Região Autónoma da Madeira;\n\nf) À data da sua apresentação, não se encontrem quer física quer financeiramente concluídos os projetos objeto da candidatura.\n\n2 - Atenta a natureza dos investimentos, podem ser solicitados elementos adicionais para a sua apreciação para além dos referidos no n.º 2 do artigo 6.º do presente diploma, designadamente estudos, projetos técnicos e pareceres sobre os mesmos, emitidos pelas entidades com atribuições nos domínios em causa.\n\n3 - As candidaturas são submetidas à aprovação do Conselho do Governo Regional, mediante, consoante o caso, proposta ou parecer favorável do secretário regional com a tutela das finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078161275": {
+   "fragment_id": "984520975",
+   "type": 11,
+   "heading": "Artigo 8.º — Celebração, coordenação e publicidade dos contratos-programa",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 8.º — Celebração, coordenação e publicidade dos contratos-programa\n\n1 - Os contratos-programa são celebrados entre as entidades referidas no artigo 1.º do presente diploma, devendo as respetivas dotações estar previstas no Orçamento Regional e os respetivos projetos de investimento inseridos nos orçamentos e planos plurianuais de investimento das entidades beneficiárias.\n\n2 - Compete às entidades beneficiárias a coordenação da realização dos projetos efetuados neste âmbito.\n\n3 - Os contratos-programa celebrados ao abrigo deste diploma, bem como as suas revisões, são publicados no Jornal Oficial da Região Autónoma da Madeira.\n\n4 - Os responsáveis pela execução dos projetos financiados ficam obrigados a afixar, em local público bem visível, uma placa publicitária com a designação do projeto, o montante do investimento, o prazo de execução, as entidades financiadoras e as respetivas comparticipações financeiras.\n\n5 - A placa publicitária referida no número anterior é aprovada por portaria do secretário regional com a tutela das finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078161475": {
+   "fragment_id": "984521375",
+   "type": 11,
+   "heading": "Artigo 10.º — Revisão e manutenção da vigência dos contratos-programa",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 10.º — Revisão e manutenção da vigência dos contratos-programa\n\n1 - Ocorrendo alteração anormal e imprevisível das circunstâncias que determinaram os termos do contrato-programa, ou face a quaisquer outras consequências provenientes daquela alteração, deve ser proposta a sua revisão pela parte que, nos termos do contrato, seja responsável pela execução dos investimentos ou das ações que constituem o objeto do contrato.\n\n2 - Através de decreto legislativo regional poder-se-á manter em vigor, independentemente de quaisquer formalidades adicionais, exceto o novo escalonamento dos encargos que não tenham sido suportados por orçamentos anteriores, contratos-programa cuja execução não tenha ocorrido até ao termo da sua validade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078161675": {
+   "fragment_id": "984521575",
+   "type": 11,
+   "heading": "Artigo 11.º — Resolução dos contratos-programa",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 11.º — Resolução dos contratos-programa\n\n1 - O incumprimento, por uma das partes, das obrigações assumidas no âmbito do contrato pode dar origem à resolução por iniciativa da outra parte.\n\n2 - Resolvido um contrato-programa, das eventuais propostas de celebração de novo contrato para realização, total ou parcial, de projetos de investimento abrangidos pelo primeiro deve constar relatório detalhado das causas que motivaram a sua resolução e responsabilidades de cada uma das partes pelo seu não cumprimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078161875": {
+   "fragment_id": "984521775",
+   "type": 11,
+   "heading": "Artigo 12.º — Financiamento",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 12.º — Financiamento\n\n1 - A participação financeira do Governo Regional nos investimentos incluídos em contratos-programa pode atingir 95 % ou 100 % dos respetivos custos totais, consoante se trate, respetivamente, de investimentos no âmbito das competências das entidades beneficiárias ou da administração regional.\n\n2 - Sem prejuízo do número seguinte, a participação referida no número anterior não abrange, no caso dos investimentos que se enquadrem nas atribuições e competências das entidades beneficiárias, os encargos resultantes das revisões de preços, trabalhos a mais, erros ou omissões, bem como as despesas relativas à elaboração dos respetivos projetos, e os custos com expropriações e com a fiscalização.\n\n3 - A comparticipação financeira do Governo Regional pode ser extensiva a trabalhos a mais quando os mesmos sejam compensados com trabalhos a menos, até ao montante dessa compensação.\n\n4 - Compete ao Governo Regional, através de resolução do Conselho do Governo, fixar a comparticipação financeira da Região, de acordo com as seguintes regras:\n\na) Os projetos de iniciativa das entidades beneficiárias podem atingir até 70 % ou até 50 % dos custos elegíveis, conforme, respetivamente estejam ou não enquadrados no Plano de Desenvolvimento Económico e Social ou no Programa do Governo;\n\nb) Os projetos de iniciativa conjunta, a reconhecer por resolução do Conselho do Governo, podem atingir até 95 % ou até 75 %, conforme respetivamente, estejam ou não enquadrados no Plano de Desenvolvimento Económico e Social ou no Programa do Governo;\n\nc) Os projetos de iniciativa da administração regional e que respeitem a domínios de intervenção que não se enquadrem nas atribuições e competências das entidades beneficiárias, podem ser financiados até 100 % dos custos totais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078162075": {
+   "fragment_id": "984521975",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento e apoio técnico",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 13.º — Acompanhamento e apoio técnico\n\n1 - Sem prejuízo do disposto no número seguinte, cabe ao departamento do Governo Regional que outorgar o contrato-programa efetuar o acompanhamento da execução do mesmo e prestar o apoio técnico às entidades beneficiárias.\n\n2 - As competências do departamento do Governo Regional que outorgar o contrato-programa, podem ser delegadas noutros departamentos do Governo Regional, nos termos a definir nos respetivos contratos-programa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078162275": {
+   "fragment_id": "984522775",
+   "type": 11,
+   "heading": "Artigo 15.º — Objeto dos contratos de financiamento",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 15.º — Objeto dos contratos de financiamento\n\n1 - Para assegurar a comparticipação nacional nos sistemas comunitários de incentivos financeiros à execução de programas e projetos de investimento enquadrados no Plano de Desenvolvimento Económico e Social ou no Programa do Governo, pode o Governo Regional celebrar protocolos com instituições financeiras para a criação de linhas de crédito bonificado, assegurando o financiamento de parte dos juros respeitantes aos empréstimos contraídos pelas entidades beneficiárias.\n\n2 - A cooperação referida no número anterior é objeto de contrato celebrado entre o Governo Regional e as entidades beneficiárias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078162475": {
+   "fragment_id": "984523375",
+   "type": 11,
+   "heading": "Artigo 17.º — Admissibilidade e financiamento",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 59/2005 - Diário da República n.º 138/2005, Série I-A de 2005-07-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/59-2005-237387), com efeitos a partir de 2005-06-02."
+   ],
+   "markdown": "###### Artigo 17.º — Admissibilidade e financiamento\n\n1 - Para além das situações previstas no artigo 22.º, n.º 3, da Lei n.º 73/2013, de 3 de setembro, o Governo Regional pode tomar providências orçamentais para a concessão de auxílios financeiros às autarquias locais nos seguintes casos e condições:\n\na) Calamidade pública reconhecida através de resolução do Conselho do Governo Regional, desde que se verifiquem prejuízos em infraestruturas ou equipamentos municipais, que constituam obstáculo à sua utilização ou prestação normal de serviço e em que a reposição oportuna da situação inicial exija meios que excedam a capacidade financeira do município;\n\nb) Autarquias negativamente afetadas por investimentos realizados pela administração regional, designadamente ao nível das infraestruturas e respectivos equipamentos;\n\nc) Execução de projetos de grande relevância que revistam carácter urgente e seja manifesta a incapacidade financeira das autarquias para lhes fazer face, reconhecida através de resolução do Conselho do Governo Regional, especialmente em domínios cujo investimento se revele prioritário;\n\nd) Municípios em situação de mecanismos de recuperação financeira municipal resultante da ocorrência de situações imprevisíveis e excecionais análogas às referidas no artigo 22.º, n.º 3, da Lei n.º 73/2013, de 12 de setembro, no âmbito da celebração de contratos de saneamento ou de recuperação financeira;\n\ne) Circunstâncias graves que afetem drasticamente a operacionalidade das infraestruturas e dos serviços municipais de proteção civil;\n\nf) Reconversão de áreas urbanas de génese ilegal ou programas de reabilitação urbana, quando o seu peso relativo transcenda a capacidade e a responsabilidade autárquica nos termos da lei;\n\ng) Outras situações imprevisíveis e excecionais causadas pela ocorrência de intempéries ou outros fenómenos que não configurem declaração de calamidade pública;\n\nh) Outras situações expressamente reconhecidas em decreto legislativo regional, devidamente fundamentadas nas especificidades da Região.\n\n2 - O apoio financeiro da Região a que se reporta o número anterior pode traduzir-se na concessão de um subsídio não reembolsável, na assunção de parte dos encargos com o serviço da dívida ou na criação de linha de crédito bonificado.\n\n3 - O valor da comparticipação financeira da Região é fixado pelo Conselho do Governo Regional consoante a urgência, a gravidade ou a necessidade das situações objeto de apoio, podendo atingir o montante global a investir, o valor em dívida ou os encargos com juros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 59/2005 - Diário da República n.º 138/2005, Série I-A de 2005-07-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/59-2005-237387), com efeitos a partir de 2005-06-02."
+  },
+  "1078162675": {
+   "fragment_id": "984523575",
+   "type": 11,
+   "heading": "Artigo 18.º — Candidatura",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+   ],
+   "markdown": "###### Artigo 18.º — Candidatura\n\n1 - A iniciativa para a concessão de auxílios financeiros excepcionais cabe às autarquias locais, mediante a apresentação de candidatura dirigida à secretaria regional com a tutela das finanças, devidamente instruída com uma memória descritiva da situação para a qual se requer auxílio financeiro e os demais elementos informativos que o candidato considerar pertinentes.\n\n2 - Os municípios em situação de recuperação financeira devem ainda apresentar para além dos elementos previstos nos artigos 59.º e 61.º da Lei n.º 73/2013, de 3 de setembro, os planos de saneamento financeiro e de recuperação financeira, acompanhado dos seguintes elementos:\n\na) Planos anuais e plurianuais de atividades, bem como os respectivos orçamentos;\n\nb) Cópia da ata em que foi reconhecida e declarada pela assembleia municipal a situação de desequilíbrio estrutural ou de rutura financeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20."
+  },
+  "1078162875": {
+   "fragment_id": "1077643575",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Financiamento de trabalhos a mais",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20.",
+    "Aditado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, com efeitos a partir de 2011-01-01."
+   ],
+   "markdown": "###### Artigo 21.º-A — Financiamento de trabalhos a mais\n\nNa execução deste diploma, a comparticipação financeira do Governo Regional, atribuída através de contratos-programa, pode ser extensiva a trabalhos a mais quando os mesmos sejam compensados com trabalhos a menos, até ao montante dessa compensação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 31/2016/M - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2016-74967226), em vigor a partir de 2016-07-20.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, com efeitos a partir de 2011-01-01."
+  }
+ }
+}

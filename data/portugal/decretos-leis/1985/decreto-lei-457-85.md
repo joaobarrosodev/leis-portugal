@@ -1,0 +1,249 @@
+---
+schema_version: '1.0'
+id: pt:dre:171371:por
+title: Decreto-Lei n.º 457/85
+short_title: null
+summary: Estabelece normas relativas à fixação das lotações para a tripulação de embarcações da marinha mercante e de recreio.
+  Revoga os Decretos-Leis n.os 50/73, de 24 de Fevereiro e 517/77, de 15 de Dezembro, as Portarias n.os 372/75, de 17 de Junho,
+  e 248/80, de 14 de Maio, bem como todas as normas que contrariam o disposto no presente decreto-lei
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Mar
+proposing_entity: null
+official_number: 457/85
+official_date: null
+publication_date: '1985-10-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/1985, Série I de 1985-10-30
+  number: '250'
+  series: I
+  supplement: null
+  pages: 3668 - 3672
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/10/25000/36683672.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '171371'
+  dre_path: /dr/detalhe/decreto-lei/457-1985-171371
+  internal: pt:dre:171371:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1985-171371
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1985-171371
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-05-14T00:00:00Z'
+integrity:
+  source_sha256: 79a5e1b8771c4e69a73555af518056acdbd4fa3962cd55c9cbdcdcd4338b511f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-457-171371.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:374829:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 457/85
+
+de 30 de Outubro
+
+Tornando-se necessário redefinir e modernizar o processo de fixação das lotações de tripulação de navios;
+
+Tendo em conta a necessidade de integrar num todo coerente as recomendações emanadas da [Resolução do Conselho de Ministros n.º 41/84](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-1984-380922), de 25 de Agosto;
+
+Sendo desejável que todos os interessados tomem parte activa na fixação das lotações;
+
+Convindo incrementar a fluidez do processo, dotando-o de regras claras e eficazes;
+
+Reconhecendo-se a importância de introduzir em direito interno os princípios orientadores referentes à segurança, salvaguarda da vida humana no mar e protecção do meio marinho, adoptados pelas organizações internacionais pertinentes;
+
+Atenta a previsão, expressa no artigo 5.º do [Decreto-Lei n.º 517/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1977-279660), de 15 de Dezembro, relativa à revisão da legislação geral sobre lotações:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Âmbito de aplicação)
+
+1 - É da competência do Ministro do Mar a fixação das lotações para a tripulação das embarcações da marinha mercante e de recreio.
+
+2 - O presente diploma aplica-se a todas as embarcações de comércio e pesca, com excepção das:
+
+a) De comércio, registadas no tráfego local;
+
+b) De pesca, registadas na pesca costeira e local;
+
+c) De recreio, rebocadores e auxiliares, costeiros e locais.
+
+3 - Enquanto não for estabelecida legislação reguladora da matéria, as lotações das embarcações não contempladas pelo presente diploma serão estabelecidas nos termos das disposições do título VIII do Regulamento de Inscrição Marítima (RIM) pelas capitanias dos portos, ouvidos os armadores e os sindicatos interessados.
+
+###### Artigo 2.º — (Definições)
+
+1 - Entende-se por lotação mínima de segurança a definida de acordo com os princípios e orientações preconizadas na Resolução A-481 (XII) da IMO.
+
+2 - Lotação provisória é a lotação experimental que tem por objectivo avaliar e confirmar que os elementos nela indicados garantem a segurança da embarcação, dos tripulantes, dos passageiros, das cargas e do meio marinho, e é fixada pelo Ministro do Mar, sob proposta do director-geral do Pessoal do Mar e Estudos Náuticos, com base na lotação mínima de segurança e no parecer da comissão técnica.
+
+3 - Lotação definitiva é a considerada bastante para a eficiente operacionalidade do navio, em resultado da análise, na prática, da lotação provisória pelas entidades interessadas.
+
+###### Artigo 3.º — (Trâmites para a fixação das lotações)
+
+1 - O processo de fixação de uma lotação provisória inicia-se com o requerimento do armador, dirigido ao Ministro do Mar, através do director-geral do Pessoal do Mar e Estudos Náuticos, acompanhado de proposta para o efeito e da respectiva fundamentação, com base nos elementos e nas características que identifiquem o navio ou embarcação e interesse ao processo, acompanhados da especificação técnica e de um plano geral.
+
+2 - A proposta referida no número anterior será apreciada por uma comissão técnica, que terá em conta a lotação mínima de segurança, a especificidade da embarcação, atenta a sua construção e equipamento técnico, actividade e tráfego a que se destina e duração das viagens, de modo a dotar o navio do pessoal suficiente, tendo em conta as tarefas que lhe são exigidas.
+
+3 - Para efeitos do número anterior, a comissão técnica efectuará a vistoria ou vistorias que entenda necessárias, elaborando no prazo de 30 dias relatório e proposta a fim de habilitar o director-geral a propor ao Ministro do Mar a fixação da lotação provisória.
+
+4 - Fixada a lotação provisória, será emitido o respectivo certificado e enviados os correspondentes duplicados à capitania, ao armador e aos sindicatos envolvidos.
+
+5 - Se no prazo de 30 dias após conhecimento da lotação provisória não for apresentada qualquer reclamação, devidamente fundamentada, sobre a mesma, esta passará automaticamente a definitiva, dando-se do facto conhecimento à respectiva capitania.
+
+6 - Em caso de reclamação, o processo transitará para o presidente da comissão de lotações, que se encarregará de reunir a mesma, com vista a apreciar os motivos invocados e lavrar em acta as posições assumidas no prazo de 30 dias.
+
+7 - Obtido o parecer da comissão de lotações sobre a lotação de uma embarcação, o director-geral proporá ao Ministro do Mar a fixação da lotação definitiva.
+
+8 - Da lotação definitiva fixada pelo Ministro do Mar, nos termos do número anterior, será dado conhecimento à capitania e às partes interessadas, através da Direcção-Geral do Pessoal do Mar e Estudos Náuticos, cabendo àquelas a faculdade de reclamar no prazo de 30 dias após o conhecimento da mesma.
+
+9 - A lotação das embarcações que sejam propriedade ou estejam ao serviço do Estado envolvidas exclusivamente em actividades não mercantis é fixada pelo director-geral do Pessoal do Mar e Estudos Náuticos, com base na proposta que lhe seja apresentada para o efeito e no parecer da comissão técnica.
+
+###### Artigo 4.º — (Constituição da comissão técnica)
+
+1 - A comissão técnica a que se refere o n.º 2 do artigo anterior será constituída por um capitão da marinha mercante, que coordenará, e um engenheiro maquinista da marinha mercante, podendo ser ouvidos, a pedido do coordenador, outros elementos quando as circunstâncias o justifiquem.
+
+2 - O capitão da marinha mercante e o engenheiro maquinista acima indicados serão nomeados por despacho do Ministro do Mar.
+
+3 - A comissão elaborará normas internas para o seu funcionamento sujeitas à aprovação do Ministro do Mar.
+
+###### Artigo 5.º — (Composição e funcionamento da comissão de lotações)
+
+1 - A comissão de lotações terá a seguinte composição:
+
+a) 1 presidente, a nomear pelo Ministro do Mar de entre indivíduos com formação e experiência profissional do sector;
+
+b) 1 representante da Secretaria de Estado das Pescas, a nomear pelo respectivo titular;
+
+c) 1 representante do armador;
+
+d) 1 representante do Sindicato dos Capitães da Marinha Mercante;
+
+e) 1 representante do Sindicato dos Capitães, Oficiais Pilotos, Comissários e Radiotécnicos da Marinha Mercante;
+
+f) 1 representante do Sindicato dos Oficiais e Engenheiros Maquinistas da Marinha Mercante;
+
+g) 1 representante do Sindicato dos Marinheiros Mercantes de Portugal;
+
+h) 1 representante do Sindicato dos Fogueiros de Terra e da Mestrança e Marinhagem de Máquinas da Marinha Mercante;
+
+i) 1 representante do Sindicato dos Maquinistas Práticos, Ajudantes e Artífices da Marinha Mercante de Portugal;
+
+j) 1 representante do Sindicato da Mestrança e Marinhagem de Câmaras da Marinha Mercante;
+
+l) 1 representante do sindicato ou sindicatos dos pescadores que exerçam a sua actividade na área de jurisdição da capitania do porto de registo do navio.
+
+2 - A comissão reunirá, para efeitos do n.º 6 do artigo 3.º, com o presidente, o coordenador ou vogal da comissão técnica, como assessor, o representante da Secretaria de Estado das Pescas, quando se trate de embarcações de pesca, o armador do navio (quer seja ou não parte reclamante) e o sindicato reclamante.
+
+3 - A comissão reunirá nas instalações da Direcção-Geral do Pessoal do Mar e Estudos Náuticos, que lhe facultará apoio administrativo.
+
+4 - A comissão elaborará normas internas para o seu funcionamento, sujeitas, no entanto, à aprovação do Ministro do Mar.
+
+###### Artigo 6.º — (Embarque de praticantes)
+
+As condições de embarque dos praticantes de oficial previstas no Regulamento de Inscrição Marítima (RIM) manter-se-ão em vigor até à publicação de legislação reguladora da matéria.
+
+###### Artigo 7.º — (Embarque extralotação)
+
+1 - A requerimento do armador, poderá a Direcção-Geral do Pessoal do Mar e Estudos Náuticos autorizar o embarque de tripulantes extralotação, desde que se encontrem garantidos os necessários meios de habitabilidade e segurança.
+
+2 - Aos assistentes técnicos não classificados como marítimos que a título transitório tenham de desempenhar a bordo funções relacionadas com a respectiva especialidade não contidas no âmbito funcional e profissional marítimo, excepto para efeitos de reparação, poderá igualmente a Direcção-Geral do Pessoal do Mar e Estudos Náuticos, a requerimento do armador, e desde que se encontrem garantidos os necessários meios de habitabilidade e segurança, autorizar a emissão, pela autoridade marítima ou consular, de uma licença de embarque para o efeito, que será apensa ao rol de tripulação.
+
+###### Artigo 8.º — (Cumprimento da lotação fixada)
+
+A requerimento do armador, devidamente fundamentado, poderá o Ministro do Mar, em casos especiais e desde que considere não existir perigo para a salvaguarda da vida humana no mar e meio ambiente marinho, autorizar a saída para o mar de um navio com lotação inferior à fixada, sem prejuízo do disposto no n.º 2 do artigo 12.º
+
+###### Artigo 9.º — (Certificados)
+
+1 - As lotações quer definitivas quer provisórias constarão de um certificado de modelo anexo a este diploma.
+
+2 - Será registado como apostilha se o mesmo é de carácter definitivo ou provisório.
+
+###### Artigo 10.º — (Taxas)
+
+1 - Pela fixação das lotações são devidas taxas, de acordo com a tabela a fixar por portaria conjunta dos Ministros das Finanças e do Plano e do Mar.
+
+2 - As taxas referidas no número anterior constituirão receita própria da Direcção-Geral do Pessoal de Mar e Estudos Náuticos.
+
+###### Artigo 11.º — (Encargos)
+
+1 - Aos membros da comissão técnica referida no artigo 4.º será atribuída, por cada vistoria efectuada, uma gratificação de montante a fixar por portaria conjunta dos Ministros das Finanças e do Plano e do Mar.
+
+###### Artigo 12.º — (Disposições gerais)
+
+1 - As lotações existentes à data da entrada em vigor do presente diploma poderão ser revistas, por iniciativa de qualquer das partes interessadas, durante um período de 2 anos, contados a partir da data da entrada em vigor do presente diploma.
+
+2 - Qualquer lotação definitiva poderá ser revista desde que se alterem os pressupostos básicos referidos no n.º 1 do artigo 3.º, designadamente os de natureza tecnológica que conduzirão à sua fixação.
+
+3 - Uma vez fixada a lotação definitiva e após conhecimento da mesma, deverá o armador, no prazo de 30 dias, requerer que lhe seja passado o correspondente certificado.
+
+4 - Quando o armador ou algum sindicato discordar da lotação fixada nos termos do n.º 3 do artigo 1.º, poderá, no prazo de 30 dias após conhecimento da lotação fixada, recorrer fundamentadamente para o Ministro do Mar, que decidirá em definitivo.
+
+###### Artigo 13.º — (Competências)
+
+As competências que no âmbito do presente diploma estão cometidas ao Ministro do Mar poderão ser delegadas no Secretário de Estado da Marinha Mercante e subdelegadas no director-geral do Pessoal do Mar e Estudos Náuticos.
+
+###### Artigo 14.º — (Revogação)
+
+São revogados os Decretos-Leis n.os 50/73, de 24 de Fevereiro, e [517/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1977-279660), de 15 de Dezembro, as Portarias n.os [372/75](https://diariodarepublica.pt/dr/detalhe/portaria/372-1975-335714), de 17 de Junho, e [248/80](https://diariodarepublica.pt/dr/detalhe/portaria/248-1980-473904), de 14 de Maio, bem como todas as normas que contrariam o disposto no presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1935. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José de Almeida Serra.
+
+**Promulgado em 8 de Outubro de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 10 de Outubro de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25000/36683672.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25000/36683672.pdf)

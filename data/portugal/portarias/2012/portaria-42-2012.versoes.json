@@ -1,0 +1,277 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:543068:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-121875531",
+ "dre_path": "/dr/detalhe/portaria/42-2012-543068",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-02-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "121875590",
+    "121875591",
+    "121875592",
+    "121875593",
+    "121875594",
+    "121875595",
+    "121875596",
+    "121875597",
+    "121875598",
+    "121875599",
+    "121875600",
+    "121875601",
+    "121875603"
+   ]
+  },
+  {
+   "date": "2013-05-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:513600:por",
+     "title": "Portaria n.º 195/2013",
+     "published": "2013-05-28",
+     "dre_path": "/dr/detalhe/portaria/195-2013-513600"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "121875590",
+    "121875591",
+    "121875592",
+    "121875593",
+    "121875594",
+    "121875595",
+    "121875596",
+    "121875615",
+    "121875598",
+    "121875599",
+    "121875600",
+    "121875601",
+    "121875602",
+    "121875603"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:572379:por",
+     "title": "Portaria n.º 52/2014",
+     "published": "2014-02-28",
+     "dre_path": "/dr/detalhe/portaria/52-2014-572379",
+     "date": "2014-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2019-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:121748970:por",
+     "title": "Portaria n.º 96/2019",
+     "published": "2019-04-01",
+     "dre_path": "/dr/detalhe/portaria/96-2019-121748970"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "121875590",
+    "121875591",
+    "121875621",
+    "121875629",
+    "121875594",
+    "121875622",
+    "121875596",
+    "121875623",
+    "121875598",
+    "121875599",
+    "121875600",
+    "121875601",
+    "121875602",
+    "121875630"
+   ]
+  }
+ ],
+ "fragments": {
+  "121875590": {
+   "fragment_id": "121875532",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 42/2012\n\nde 10 de fevereiro\n\nA Política Agrícola Comum, através da organização comum dos mercados agrícolas, prevê a possibilidade dos Estado membros concederem apoios aos produtores no âmbito das medidas de gestão de crises, nomeadamente apoios à contratualização de seguros de colheita de uvas para vinho.\n\nEste mecanismo de apoio é integralmente financiado pelo orçamento da União Europeia e tem como objetivo contribuir para proteger os rendimentos dos produtores, quando sejam afetados por catástrofes naturais de natureza climática, fenómenos climáticos adversos, tais como a geada, o granizo, o gelo, a chuva ou a seca, bem como pragas e doenças da vinha. A presente portaria estabelece as condições de aplicação da medida de apoio à contratualização de seguros de colheita de uva para vinho, prevista no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 23 de outubro, alterado pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0491\" title=\"Link para Regulamento da Comunidade Europeia\">491/2009</a>, do Conselho, de 25 de maio, e no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a> da Comissão, de 27 de junho.\n\nNa conceção desta medida, que se pretende simples, procurou-se restringir as regras de aplicação ao mínimo indispensável ao seu correto funcionamento, nomeadamente ao nível da informação de suporte aos pedidos de apoio e mecanismos de controlo. Em paralelo e dentro dos limites definidos pela legislação europeia, é concedida total flexibilidade às relações contratuais entre os produtores e as empresas de seguros, promovendo desta forma contratos mais adaptados às condições de risco associadas à realidade de cada produtor.\n\nImporta ainda sublinhar que as organizações de produtores desempenham um papel determinante na profissionalização da atividade e consequentemente para a competitividade do setor, pela intervenção em matéria de planeamento da produção, concentração da oferta, promoção conjunta e serviços aos produtores, seja ao nível da assistência técnica seja na aquisição de fatores de produção. Deste modo, considera-se fundamental que as políticas públicas contribuam para a dinamização de todas as formas de organização da produção suscetíveis de gerar valor para os produtores, pelo que se majora, sob determinadas condições, o valor dos apoios a conceder aos produtores que integrem contratos de seguros de grupo.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no n.º 1 do artigo 17.º do Decreto-Lei n.º 86-A/2011, de 12 de julho, e no uso das competências delegadas através do Despacho n.º 12412/2011, de 20 de setembro, o seguinte:"
+  },
+  "121875591": {
+   "fragment_id": "121875533",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as condições de aplicação da medida de apoio à contratualização do seguro vitícola de colheitas, previsto no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a> do Conselho, de 23 de outubro, com a redação introduzida pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0491\" title=\"Link para Regulamento da Comunidade Europeia\">491/2009</a>, do Conselho, de 25 de maio, e no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho."
+  },
+  "121875592": {
+   "fragment_id": "121875534",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto na presente portaria entende-se por:\n\na) «Beneficiário» o produtor que, sendo abrangido por um contrato de seguro, é o destinatário do apoio financeiro nas condições definidas na presente portaria;\n\nb) «Contrato de seguro de grupo» o contrato de seguro celebrado por uma pessoa, singular ou coletiva, agindo no interesse direto de pelo menos 9 produtores aderentes, que representa, tendo por objeto a produção de uvas efetivamente esperada na campanha vitivinícola, considerando-se que agem no interesse direto dos produtores que representam, as seguintes entidades:\n\ni) Organizações e Associações de produtores;\n\nii) Cooperativas Agrícolas;\n\niii) Comissões Vitivinícolas Regionais;\n\niv) Empresas que efetuem a transformação e ou a comercialização da produção.\n\nc) «Contrato de seguro individual» o contrato de seguro celebrado por um produtor, sobre a produção de uvas efetivamente esperada na campanha vitivinícola;\n\nd) «Produção esperada» a produção que se estima vir a obter caso não haja acidentes que diminuam a produção durante o processo produtivo; não sendo possível determiná-la, deve ser considerada a média da produção registada nos últimos 5 anos, retirando o ano de maior e menor produção;\n\ne) «Produtor» a pessoa individual ou coletiva que explora vinha destinada à produção de vinho."
+  },
+  "121875593": {
+   "fragment_id": "121875535",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - Podem beneficiar desta medida de apoio todos os produtores cuja produção segurada seja proveniente de vinhas estabelecidas no território continental, e que celebrem um contrato de seguro, individual ou de grupo, nas condições estabelecidas na presente portaria.\n\n2 - Para efeitos do contrato de seguro, considera-se elegível a vinha plantada para produção de vinho, com situação atualizada no registo central vitícola gerido pelo Instituto da Vinha e do Vinho, I. P. (IVV, I. P.)."
+  },
+  "121875594": {
+   "fragment_id": "121875536",
+   "type": 11,
+   "heading": "Artigo 4.º — Riscos cobertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Riscos cobertos\n\n1 - É elegível, para efeitos do apoio previsto na presente portaria, o seguro que cubra um ou mais dos seguintes riscos:\n\na) Fenómenos climáticos adversos equiparados a catástrofes naturais, considerando-se como tal condições climáticas que destroem mais de 30 % da produção anual média de um dado produtor, calculada com base em três dos cinco anos anteriores, excluídos os valores superior e inferior;\n\nb) Fenómenos climáticos adversos não equiparados a catástrofes naturais, considerando-se como tal condições climáticas que destroem uma parte da produção igual ou inferior a 30 % da produção de uvas esperada na campanha vitivinícola;\n\nc) Pragas e doenças da vinha, desde que as condições climáticas sejam adversas à cultura e tecnicamente não seja possível controlar o seu aparecimento ou desenvolvimento, conduzindo a perdas médias, ao nível do concelho de implantação da parcela segura, superiores a 20 % da produção de uvas esperada na campanha vitivinícola, desde que devidamente atestados pelos serviços competentes do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (MAMAOT).\n\n2 - Para efeitos da contratualização dos riscos cobertos, consideram-se as seguintes definições:\n\na) Ação de queda de raio: descarga atmosférica ocorrida entre nuvem e solo, consistindo em um ou mais impulsos de corrente, que conferem ao fenómeno uma luminosidade característica, raio, e que provocam danos permanentes no bem seguro;\n\nb) Geada: formação de cristais de gelo nos tecidos celulares em consequência da sublimação do vapor de água ou arrefecimento abaixo de 0º C da superfície das plantas, quando o ar adjacente não tendo humidade suficiente para a formação de cristais de gelo, provoca a necrose dos tecidos vegetais por dissecação;\n\nc) Granizo: precipitação de água em estado sólido sob a forma esferoide;\n\nd) Insolação: destruição de folhas e cachos provocada por condições de temperatura elevada e humidade relativa baixa, e por radiação solar direta, causando o dessecamento das folhas e dos bagos, conduzindo a perdas superiores a 20 % da produção de uvas efetivamente esperada na campanha vitivinícola;\n\ne) Queda de neve: queda de finos cristais de gelo, por vezes aglomerados em flocos;\n\nf) Tornado: tempestade giratória muito violenta, sob a forma de coluna nebulosa projetada até ao solo, e ainda vento que no momento do sinistro tenha atingido velocidade instantânea superior a 80 km por hora ou cuja violência destrua ou derrube árvores num raio de 5 km envolventes dos bens seguros;\n\ng) Tromba-d'água: efeitos mediata ou imediatamente resultantes de queda pluviométrica igual ou superior a 10 mm em dez minutos no pluviómetro, incluindo os prejuízos resultantes de inundação, desde que a mesma resulte de queda pluviométrica ocorrida no próprio local.\n\n3 - Para além do referido no número anterior, podem ser cobertos outros riscos comprovadamente climáticos, a definir no contrato de seguro."
+  },
+  "121875595": {
+   "fragment_id": "121875537",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições do contrato de seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições do contrato de seguro\n\n1 - O seguro pode ser celebrado por qualquer empresa de seguros autorizada a explorar o ramo «Outros danos em coisas».\n\n2 - Não são indemnizáveis os prejuízos resultantes de sinistros cujo montante seja inferior a 30 % do valor seguro, nos casos em que o produtor tenha optado pela cobertura de riscos climáticos adversos equiparados a catástrofes naturais.\n\n3 - A indemnização de perdas provocadas por pragas e doenças depende da correta manutenção dos registos de aquisição e utilização dos produtos fitossanitários nos termos definidos no Aviso n.º 2847/2001, de 27 de janeiro, e ao cumprimento, sempre que possível, das recomendações emitidas pelo Serviço Nacional de Avisos Agrícolas relativas à execução dos tratamentos fitossanitários, devidamente atestados pelos serviços competentes do MAMAOT.\n\n4 - Para efeitos do número anterior, considera-se não ser possível o cumprimento das recomendações emitidas pelo Serviço Nacional de Avisos Agrícolas, quando, por efeito de chuvas persistentes, a aplicação dos tratamentos fitossanitários se revele inviável devido à ineficácia da sua realização, ou, por efeito de encharcamento do terreno a utilização de máquinas não possa ocorrer.\n\n5 - A contratação de seguro de colheitas para uma dada parcela, exclui a possibilidade, confirmada por declaração do segurado, de contratação, na mesma campanha, de outro seguro para a mesma parcela, ao abrigo desta medida de apoio ou de regimes de seguro que beneficiem de apoio do Estado Português ou da União Europeia.\n\n6 - O contrato de seguro de grupo deve garantir os valores individuais de valor seguro de cada um dos segurados e, se for o caso, as condições particulares aplicáveis.\n\n7 - O recibo do prémio de seguro deve indicar sempre o valor e a percentagem do apoio atribuído.\n\n8 - Sem prejuízo das datas limite da produção de efeitos definidas nas condições da apólice, o contrato de seguro caduca o mais tardar na data de conclusão da colheita.\n\n9 - Nos contratos de seguro de grupo, deve a entidade que representa os produtores beneficiários, em caso de sinistro, garantir apoio ao produtor, nomeadamente no acompanhamento das peritagens."
+  },
+  "121875596": {
+   "fragment_id": "121875538",
+   "type": 11,
+   "heading": "Artigo 6.º — Nível de apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Nível de apoio financeiro\n\n1 - É elegível para o apoio, o valor total dos prémios de seguro excluído de impostos e taxas, até ao limite dos montantes referidos no anexo à presente portaria, da qual faz parte integrante.\n\n2 - O apoio corresponde às seguintes percentagens do montante elegível:\n\na) Para contratos de seguros individuais:\n\ni) 75 %, no caso em que a apólice cubra exclusivamente a cobertura de riscos climáticos adversos equiparados a catástrofes naturais, conforme definido na alínea a) do artigo 4.º;\n\nii) 50 %, no caso em que a apólice cubra a cobertura de riscos associados a fenómenos climáticos adversos não equiparados a catástrofes naturais, conforme definido na alínea b) do artigo 4.º;\n\niii) 50 %, no caso em que a apólice cubra a cobertura de riscos associados a pragas e doenças.\n\nb) Para contratos de seguros de grupo:\n\ni) 80 %, no caso em que a apólice cubra exclusivamente a cobertura de riscos climáticos adversos equiparados a catástrofes naturais, conforme definido na alínea a) do artigo 4.º;\n\nii) 50 %, no caso em que a apólice cubra a cobertura de riscos associados a fenómenos climáticos adversos não equiparados a catástrofes naturais, conforme definido na alínea b) do artigo 4.º;\n\niii) 50 %, no caso em que a apólice cubra a cobertura de riscos associados a pragas e doenças."
+  },
+  "121875597": {
+   "fragment_id": "121875539",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedidos de apoio\n\n1 - Os apoios são pagos pelo IFAP, I. P., por intermédio das empresas de seguro, até ao dia 30 de setembro do ano da celebração do contrato de seguro, desde que reunidos todos os requisitos necessários.\n\n2 - As empresas de seguros devem remeter ao IFAP, I. P., até ao dia 15 de maio de cada ano, a informação completa relativa aos contratos de seguro para um determinado ano, incluindo, nomeadamente:\n\na) Informação relativa à identificação do produtor;\n\nb) Identificação das parcelas e respetivas áreas seguras por concelho;\n\nc) Valor seguro com discriminação da produção esperada e do respetivo preço;\n\nd) Riscos cobertos, montante do prémio e valor do apoio solicitado;\n\ne) Declaração de compromisso de reporte ao IFAP, I. P., da informação relativa a sinistros, prejuízos e indemnizações devidas.\n\n3 - A ordem de prioridade no acesso à ajuda é a data de entrada dos processos completos no IFAP, I. P."
+  },
+  "121875598": {
+   "fragment_id": "121875540",
+   "type": 11,
+   "heading": "Artigo 8.º — Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlos\n\n1 - O controlo administrativo, previsto no título v do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho, é efetuado de forma sistemática, recaindo sobre todos os pedidos de apoio antes do respetivo pagamento e visam a confirmação da elegibilidade do beneficiário e do nível de apoio.\n\n2 - Os controlos são realizados pelo IFAP, I. P., através da verificação da inscrição das parcelas de vinha que suportam a produção segura no registo central vitícola gerido pelo IVV, I. P., e da confirmação do pagamento dos prémios, deduzido o valor do apoio."
+  },
+  "121875599": {
+   "fragment_id": "121875541",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamentos indevidos e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamentos indevidos e exclusões\n\n1 - Em caso de pagamento indevido, o produtor deve reembolsar o montante em questão, sendo devidos juros relativamente ao período decorrido entre a notificação da obrigação de reembolso, e o efetivo reembolso ou dedução.\n\n2 - Não são efetuados pagamentos aos produtores em relação aos quais se prove terem sido criadas artificialmente as condições exigidas para a obtenção de tais pagamentos, a fim de obterem um benefício contrário aos objetivos da presente medida."
+  },
+  "121875600": {
+   "fragment_id": "121875542",
+   "type": 11,
+   "heading": "Artigo 10.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimentos\n\n1 - Para aplicação da presente medida de apoio compete ao IVV, I. P.:\n\na) Remeter à Comissão Europeia os elementos a que se refere o artigo 188.º-A do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro;\n\nb) Elaborar o relatório anual da execução da medida, incluindo informação reportada pelas empresas de seguros.\n\n2 - Para aplicação da presente medida de apoio compete ao IFAP, I. P.:\n\na) Definir em circular, em colaboração com o IVV, I. P., os procedimentos a observar pelos tomadores e pelas empresas de seguros, bem como os dados técnicos e estatísticos a fornecer por estas;\n\nb) Proceder à análise e à decisão dos pedidos e ao pagamento dos apoios aprovados.\n\n3 - O IVV, I. P., e o IFAP, I. P., estabelecem, por protocolo, as condições de operacionalização desta medida de apoio, bem como as necessidades de informação a obter."
+  },
+  "121875601": {
+   "fragment_id": "121875543",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "121875603": {
+   "fragment_id": "121875545",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 6.º)\n\nLimites elegíveis\n\n(ver documento original)"
+  },
+  "121875615": {
+   "fragment_id": "121875539",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedidos de apoio",
+   "in_force_from": "2013-05-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 195/2013 - Diário da República n.º 102/2013, Série I de 2013-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/195-2013-513600), em vigor a partir de 2013-05-29"
+   ],
+   "markdown": "###### Artigo 7.º — Pedidos de apoio\n\n1 - Os apoios são pagos pelo IFAP, I. P., por intermédio das empresas de seguro, até ao dia 30 de setembro do ano da celebração do contrato de seguro, desde que reunidos todos os requisitos necessários.\n\n2 - As empresas de seguros devem remeter ao IFAP, I. P., até ao dia 15 de maio de cada ano, a informação completa relativa aos contratos de seguro para um determinado ano, incluindo, nomeadamente:\n\na) Informação relativa à identificação do produtor;\n\nb) Identificação das parcelas e respetivas áreas seguras por concelho;\n\nc) Valor seguro com discriminação da produção esperada e do respetivo preço;\n\nd) Riscos cobertos, montante do prémio e valor do apoio solicitado;\n\ne) Declaração de compromisso de reporte ao IFAP, I. P., da informação relativa a sinistros, prejuízos e indemnizações devidas.\n\n3 - O prazo previsto no n.º 2 pode ser prorrogado pelo IFAP, I.P., sempre que as circunstâncias concretas o justifiquem, sendo a prorrogação do prazo publicitada nos sítios do IFAP, I.P., e do IVV, I.P., na Internet.\n\n4 - A ordem de prioridade no acesso à ajuda é a data de entrada dos processos completos no IFAP, I. P.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 195/2013 - Diário da República n.º 102/2013, Série I de 2013-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/195-2013-513600), em vigor a partir de 2013-05-29"
+  },
+  "121875602": {
+   "fragment_id": "121875544",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 6 de fevereiro de 2012."
+  },
+  "121875621": {
+   "fragment_id": "121875534",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 52/2014 - Diário da República n.º 42/2014, Série I de 2014-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/52-2014-572379), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto na presente portaria entende-se por:\n\na) «Beneficiário» o produtor que, sendo abrangido por um contrato de seguro, é o destinatário do apoio financeiro nas condições definidas na presente portaria;\n\nb) «Contrato de seguro de grupo»: o contrato de seguro celebrado por uma pessoa coletiva, agindo no interesse direto de pelo menos 9 produtores aderentes, que representa, tendo por objeto a produção de uvas efetivamente esperada na campanha vitivinícola, considerando-se que agem no interesse direto dos produtores que representam, as seguintes entidades:\n\ni) Organizações e Associações de produtores;\n\nii) Cooperativas Agrícolas;\n\niii) Comissões Vitivinícolas Regionais;\n\niv) Empresas que efetuem a transformação e ou a comercialização.\n\nc) «Contrato de seguro individual» o contrato de seguro celebrado por um produtor, sobre a produção de uvas efetivamente esperada na campanha vitivinícola;\n\nd) «Produção esperada» a produção que se estima vir a obter caso não haja acidentes que diminuam a produção durante o processo produtivo; não sendo possível determiná-la, deve ser considerada a média da produção registada nos últimos 5 anos, retirando o ano de maior e menor produção;\n\ne) «Produtor»: A pessoa individual ou coletiva que explora vinha destinada à produção de vinho, com situação atualizada no registo central vitícola gerido pelo Instituto da Vinha e do Vinho, I.P. durante o período de vigência do contrato de seguro;\n\nf) «Tomador de seguro»: Pessoa coletiva que, nos termos da alínea b), celebra o contrato de seguro de grupo ou o produtor que, nos termos da alínea c), celebra o contrato de seguro individual, com a empresa de seguros, sendo responsável pelo pagamento dos prémios.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 52/2014 - Diário da República n.º 42/2014, Série I de 2014-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/52-2014-572379), em vigor a partir de 2014-01-01"
+  },
+  "121875629": {
+   "fragment_id": "121875535",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 96/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/96-2019-121748970), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - Podem beneficiar desta medida de apoio todos os produtores cuja produção segurada seja proveniente de vinhas estabelecidas no território nacional, e que celebrem um contrato de seguro, individual ou de grupo, nas condições estabelecidas na presente portaria.\n\n2 - Para efeitos do contrato de seguro, considera-se elegível a vinha plantada para produção de vinho, com situação atualizada no registo central vitícola gerido pelo Instituto da Vinha e do Vinho, I. P. (IVV, I. P.).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 96/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/96-2019-121748970), em vigor a partir de 2019-04-02"
+  },
+  "121875622": {
+   "fragment_id": "121875537",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições do contrato de seguro",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 52/2014 - Diário da República n.º 42/2014, Série I de 2014-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/52-2014-572379), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Condições do contrato de seguro\n\n1 - O seguro pode ser celebrado por qualquer empresa de seguros autorizada a explorar o ramo «Outros danos em coisas».\n\n2 - Não são indemnizáveis os prejuízos resultantes de sinistros cujo montante seja inferior a 30 % do valor seguro, nos casos em que o produtor tenha optado pela cobertura de riscos climáticos adversos equiparados a catástrofes naturais.\n\n3 - A indemnização de perdas provocadas por pragas e doenças depende da correta manutenção dos registos de aquisição e utilização dos produtos fitossanitários nos termos definidos no Aviso n.º 2847/2001, de 27 de janeiro, e ao cumprimento, sempre que possível, das recomendações emitidas pelo Serviço Nacional de Avisos Agrícolas relativas à execução dos tratamentos fitossanitários, devidamente atestados pelos serviços competentes do MAMAOT.\n\n4 - Para efeitos do número anterior, considera-se não ser possível o cumprimento das recomendações emitidas pelo Serviço Nacional de Avisos Agrícolas, quando, por efeito de chuvas persistentes, a aplicação dos tratamentos fitossanitários se revele inviável devido à ineficácia da sua realização, ou, por efeito de encharcamento do terreno a utilização de máquinas não possa ocorrer.\n\n5 - A contratação de seguro de colheitas para uma dada parcela, exclui a possibilidade, confirmada por declaração do segurado, de contratação, na mesma campanha, de outro seguro para a mesma parcela, ao abrigo desta medida de apoio ou de regimes de seguro que beneficiem de apoio do Estado Português ou da União Europeia.\n\n6 - O contrato de seguro de grupo deve garantir os valores individuais de valor seguro de cada um dos segurados e, se for o caso, as condições particulares aplicáveis.\n\n7- O recibo do prémio de seguro indica o valor do prémio e o montante do apoio, apurado nos termos do artigo 6.º da presente portaria.\n\n8 - Sem prejuízo das datas limite da produção de efeitos definidas nas condições da apólice, o contrato de seguro caduca o mais tardar na data de conclusão da colheita.\n\n9- No caso de contrato de seguro de grupo, o tomador é solidariamente responsável com o produtor pelas informações prestadas no âmbito do processo de candidatura e de concessão do apoio, devendo respeitar, entre outras a que se encontrem vinculados, as seguintes obrigações especiais:\n\na) Possuir autorização do produtor para a celebração do contrato de seguro e para a consulta dos dados disponibilizados pelo Instituto de Financiamento da Agricultura e Pescas, I.P. (IFAP, I. P.) com vista à formalização da candidatura e à concessão do apoio;\n\nb) Informar o produtor das condições do seguro em cada campanha e do apoio previsto;\n\nc) Prestar apoio ao produtor em caso de sinistro, nomeadamente no acompanhamento de peritagens e arbitragens;\n\nd) Manter e disponibilizar ao IFAP, I.P., ou a qualquer outra entidade por este indicada ou com competência para o efeito, toda a informação necessária à realização do controlo previsto no artigo 8.º da presente portaria;\n\ne) Responder, solidariamente com o produtor, pelo reembolso dos pagamentos indevidos, previstos no artigo 9.º da presente portaria.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 52/2014 - Diário da República n.º 42/2014, Série I de 2014-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/52-2014-572379), em vigor a partir de 2014-01-01"
+  },
+  "121875623": {
+   "fragment_id": "121875539",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedidos de apoio",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 52/2014 - Diário da República n.º 42/2014, Série I de 2014-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/52-2014-572379), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 195/2013 - Diário da República n.º 102/2013, Série I de 2013-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/195-2013-513600), em vigor a partir de 2013-05-29"
+   ],
+   "markdown": "###### Artigo 7.º — Pedidos de apoio\n\n1- Os apoios são pagos pelo IFAP, I. P., por intermédio das empresas de seguro, preferencialmente até ao dia 30 de setembro do ano da celebração do contrato de seguro, desde que as respetivas candidaturas tenham sido objeto de prévio enquadramento financeiro e se encontrem reunidos todos os requisitos necessários para o efeito.\n\n2- As empresas de seguros complementam e atualizam as candidaturas dos tomadores de seguro, devendo para o efeito remeter ao IFAP, I. P., em prazo a definir e a divulgar por este Instituto no seu portal, a informação relativa aos contratos de seguro para um determinado ano, incluindo, nomeadamente:\n\na) Informação relativa à identificação do produtor;\n\nb) Identificação das parcelas e respetivas áreas seguras por município;\n\nc) Valor seguro com discriminação da produção esperada e do respetivo preço;\n\nd) Riscos cobertos, montante do prémio e valor do apoio solicitado;\n\ne) Declaração de compromisso de reporte ao IFAP, I. P., da informação relativa a sinistros, prejuízos e indemnizações devidas;\n\nf) Informação relativa ao recibo, emitido nos termos do n.º 7 do artigo 5.º.\n\n3- (Revogado).\n\n4 - A ordem de prioridade no acesso à ajuda é a data de entrada dos processos completos no IFAP, I. P.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 52/2014 - Diário da República n.º 42/2014, Série I de 2014-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/52-2014-572379), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 195/2013 - Diário da República n.º 102/2013, Série I de 2013-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/195-2013-513600), em vigor a partir de 2013-05-29"
+  },
+  "121875630": {
+   "fragment_id": "121875545",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 6.º)",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 96/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/96-2019-121748970), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 6.º)\n\nLimites elegíveis\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 96/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/96-2019-121748970), em vigor a partir de 2019-04-02"
+  }
+ }
+}

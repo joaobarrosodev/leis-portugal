@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:149832:por
+title: Portaria n.º 70/92
+short_title: null
+summary: Fixa as taxas e tarifas dos serviços postais e de telecomunicações
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo
+proposing_entity: null
+official_number: 70/92
+official_date: null
+publication_date: '1992-02-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 27/1992, Série I-B de 1992-02-01
+  number: '27'
+  series: I
+  supplement: null
+  pages: 689 - 689
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/02/027b00/06890689.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/70/1992/02/01/p/dre/pt/html
+  oj: null
+  dre: '149832'
+  dre_path: /dr/detalhe/portaria/70-1992-149832
+  internal: pt:dre:149832:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/70-1992-149832
+  metadata_url: https://data.dre.pt/eli/port/70/1992/02/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/70-1992-149832
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-02-01T00:00:00Z'
+integrity:
+  source_sha256: 090c89abd4093962b31fb7efc086135155027a1de9867b0b02be121d6516a787
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-70-149832.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Serviço Postal
+- Comunicações
+- Taxa
+- Telex
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 70/92
+
+de 1 de Fevereiro
+
+Manda o Governo, pelos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, nos termos do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 355/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1987-496757), de 14 de Novembro, o seguinte:
+
+1.º Fixar o porte mínimo da carta ordinária em 38$00.
+
+2.º Fixar em 3$70 a taxa de uma palavra telegráfica e em 107$00 a taxa fixa do telegrama ordinário, no serviço nacional.
+
+3.º Fixar em 13$70 a taxa de uma comunicação local de telex com mínimo de duração, em 6650$00 a taxa de assinatura mensal e em 13500$00 a taxa de instalação da linha de rede, não se incluindo nestas taxas o equipamento.
+
+4.º Fixar em 9$80 a taxa unitária de uma conversação telefónica, e em 1550$00 a taxa de assinatura mensal de um posto telefónico principal (linha de rede) e em 12840$00 a respectiva taxa de instalação.
+
+5.º Fixar em 1$40 a taxa do minuto de ligação à TELEPAC, via acesso directo, em 116$00 a taxa por cada quilossegmento e em 49200$00 a taxa de instalação e fixar as taxas de assinatura mensal dos acessos assíncrono a 1200 bits/s e síncrono a 2400 bits/s em 18300$00 e 22500$00, respectivamente.
+
+6.º Autorizar os operadores a, para efeitos de cobrança, arredondarem o valor final das facturas, exceptuadas as que apenas incluam valores respeitantes ao tarifário do correio, para valor inteiro de escudos imediatamente superior.
+
+7.º Determinar que esta portaria entre em vigor no dia 1 de Fevereiro de 1992, podendo os operadores aplicar o novo tarifário à medida que as suas condições técnicas o permitam.
+
+Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
+
+**Assinada em 20 de Janeiro de 1992.**
+
+Pelo Ministro das Finanças, José Manuel Alves Elias da Costa, Secretário de Estado das Finanças. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - Pelo Ministro do Comércio e Turismo, Teresa Paula de Oliveira Ricou, Secretária de Estado do Comércio Interno.

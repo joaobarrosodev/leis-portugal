@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: pt:dre:374452:por
+title: Portaria n.º 831/82
+short_title: null
+summary: Altera alguns artigos do Regulamento sobre a Segurança nas Instalações de Fabrico e de Armazenagem de Produtos Explosivos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Defesa Nacional e da Indústria, Energia e Exportação
+proposing_entity: null
+official_number: 831/82
+official_date: null
+publication_date: '1982-09-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/1982, Série I de 1982-09-01
+  number: '202'
+  series: I
+  supplement: null
+  pages: 2569 - 2570
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/09/20200/25692570.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '374452'
+  dre_path: /dr/detalhe/portaria/831-1982-374452
+  internal: pt:dre:374452:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/831-1982-374452
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/831-1982-374452
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-05-17T00:00:00Z'
+integrity:
+  source_sha256: 9ed1f0dab90a4e67647e76815c4109033cf819a5994a6f44b605f03024bd63bb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-831-374452.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:158636:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 831/82
+
+de 1 de Setembro
+
+Tendo-se verificado, após 2 anos de aplicação do Regulamento sobre a Segurança nas Instalações de Fabrico e de Armazenagem de Produtos Explosivos, aprovado pelo [Decreto-Lei n.º 142/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1979-382786), de 23 de Maio, e rectificado no Diário da República, 1.ª série, n.º 172, de 27 de Julho de 1979 (pp. 1737 e 1738), que algumas das suas disposições, em face de novos conhecimentos, carecem de ser modificadas;
+
+Atendendo a que a matéria correspondente necessitando de alteração, além de ser exclusivamente de natureza técnica, apenas diz respeito ao artigo 16.º (relacionado com a utilização das tabelas I a IV), aos quadros I e II e ao apêndice II do Regulamento sobre a Segurança atrás referido e que, com as modificações a introduzir, se poderão, de futuro:
+
+Evitar explosões simultâneas nas diferentes células de um mesmo edifício de armazenagem, pela construção de paredes fortes de espessura diferente, mesmo no caso de existência de mais de duas células;
+
+Autorizar a armazenagem em conjunto, no mesmo edifício (quer no mesmo compartimento, quer em compartimentos diferentes), de mais alguns produtos explosivos que apresentem comportamento análogo, embora classificados em grupos ou categorias diferentes;
+
+Considerar abrangidos pelas disposições do Regulamento mais alguns metais em pó e as matérias comburentes constituídas por sais que não sejam de metais alcalinos ou alcalino-terrosos:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e da Indústria, Energia e Exportação, nos termos do artigo 3.º do [Decreto-Lei n.º 142/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1979-382786), de 23 de Maio, introduzir as seguintes alterações no Regulamento sobre a Segurança nas Instalações de Fabrico e de Armazenagem de Produtos Explosivos, aprovado por aquele decreto-lei:
+
+1.º O n.º 1 do artigo 16.º (compartimentação dos edifícios em células separadas por paredes fortes) passa a ter a seguinte redacção:
+
+1 - Para a instalação de edifícios contendo produtos capazes de originar risco de fogo em massa ou risco de explosão em massa a distâncias inferiores às distâncias de segurança correspondentes às respectivas lotações poderá recorrer-se à sua compartimentação por paredes fortes de betão armado com, pelo menos, 30 cm de espessura, sobressaindo 1 m em relação às paredes exteriores e aos telhados dos edifícios, por forma a criar, em cada um deles, 2 células bem isoladas uma da outra, com o fim de evitar que uma explosão que tenha lugar numa delas possa simultaneamente verificar-se na outra; poderá também recorrer-se à compartimentação dos edifícios de modo a constituir mais de 2 células, desde que as respectivas paredes fortes sejam construídas com espessuras que difiram, pelo menos, 30 cm (bastando nos edifícios com 3 ou 4 células paredes fortes com 30 cm e 60 cm), para evitar a possível simultaneidade de explosões nas células contíguas a cada célula interior; deste modo, em qualquer dos casos indicados, as distâncias de segurança a considerar poderão determinar-se apenas com base na lotação da célula que em cada edifício for a mais elevada.
+
+2.º No quadro I, os produtos classificados na 1.ª categoria e na 6.ª categoria do grupo I e na 1.ª categoria do grupo IV passam a ser os seguintes:
+
+Grupo I:
+
+1.ª categoria:
+
+Cargas, cartuchos, projécteis, bombas (simuladas), munições para armas ligeiras;
+
+Cápsulas fulminantes, escorvas, estopins:
+
+Cartuchos de caça Flobert;
+
+Cartuchos vazios e outros dispositivos com cápsula.
+
+6.ª categoria:
+
+Metais em pó (alumínio, zinco, magnésio, níquel, zircónio e titânio ou suas misturas);
+
+Metais alcalinos, alcalino-terrosos ou suas ligas.
+
+Grupo IV:
+
+1.ª categoria:
+
+Detonadores (2), com ou sem dispositivo de atraso, espoletas;
+
+Cápsulas de sondagem;
+
+Buchas de ignição.
+
+e a nota (2) situada na parte inferior do quadro passa a ter a seguinte redacção:
+
+(2) As minas antipessoal e anticarro, quando não metálicas, devem ser incluídas na 2.ª categoria do grupo III e os detonadores de matéria plástica ou com invólucro de alumínio ou de cobre de fraca resistência (cápsulas detonadoras) devem ser incluídos na 7.ª categoria do grupo III.
+
+3.º O quadro II é substituído pelo quadro II anexo a esta portaria, contendo as seguintes notas na sua parte inferior:
+
+(a) Para as mechas de combustão lenta da 2.ª categoria do grupo I pode considerar-se C em vez de P, na sua armazenagem com produtos da 1.ª categoria do grupo III.
+
+(b) Para as mechas de combustão rápida da 2.ª categoria do grupo II, pode considerar-se D em vez de P, na sua armazenagem com produtos da 1.ª categoria do grupo III.
+
+4.º Os n.os II e IV do apêndice II passam a ter as seguintes redacções:
+
+II - Os metais em pó, como o alumínio, o zinco, o magnésio, o níquel, o zircónio e o titânio ou suas misturas.
+
+IV - As matérias comburentes, como os cloratos, os percloratos, os cloritos, os nitratos, os peróxidos e os permanganatos, especialmente os de metais alcalinos ou alcalino-terrosos, os percloratos e os nitratos de amónio ou suas misturas (entre as quais os adubos nitrados); o tetranitrometano e os nitritos inorgânicos.
+
+Ministérios da Defesa Nacional e da Indústria, Energia e Exportação, 18 de Agosto de 1982. - Pelo Ministro da Defesa Nacional, Carlos José Sanches Vaz Pardal, Secretário de Estado da Defesa Nacional. - O Ministro da Indústria, Energia e Exportação, Ricardo Manuel Simões Bayão Horta.
+
+QUADRO II
+
+Armazenagem de produtos de natureza diferente
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/20200/25692570.pdf))](https://files.diariodarepublica.pt/1s/1982/09/20200/25692570.pdf)
+
+Nota. - Para averiguar se há ou não compatibilidade de armazenagem em conjunto, no mesmo edifício ou no mesmo compartimento de um edifício, de produtos diferentes incluídos nos grupos ou categorias indicados basta verificar no quadro qual a letra que se encontra no cruzamento da linha com a coluna respeitantes àqueles produtos e atender ao seu significado.

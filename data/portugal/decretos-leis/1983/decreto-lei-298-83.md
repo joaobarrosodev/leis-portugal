@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:452250:por
+title: Decreto-Lei n.º 298/83
+short_title: null
+summary: Extingue diversos organismos do Ministério dos Assuntos Sociais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa
+proposing_entity: null
+official_number: 298/83
+official_date: null
+publication_date: '1983-06-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/1983, Série I de 1983-06-24
+  number: '143'
+  series: I
+  supplement: null
+  pages: 2278 - 2279
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14300/22782279.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '452250'
+  dre_path: /dr/detalhe/decreto-lei/298-1983-452250
+  internal: pt:dre:452250:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1983-452250
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1983-452250
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: fcfdaa16ae5cd5affcac1789c43b018537b53b7bb2ab3c13c43d9a44470a4793
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-298-452250.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 298/83
+
+de 24 de Junho
+
+Pelo [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, foi profundamente reestruturado o sector da segurança social, instituindo-se um sistema baseado nos princípios de integração, descentralização e participação.
+
+Previa aquele diploma, para além dos centros regionais de segurança social, determinados serviços centrais que, a médio prazo, viriam a assumir as acções não só da estrutura central clássica - Direcção-Geral da Assistência Social e Direcção-Geral da Previdência - mas também de organismos como a Federação das Caixas de Previdência e Abono de Família e a Comissão de Equipamentos Colectivos.
+
+Em sua concretização têm vindo a ser aprovadas leis orgânicas concernentes a alguns serviços, das quais se destacam as da Direcção-Geral da Organização e Recursos Humanos e da Direcção-Geral da Segurança Social - Decretos-Leis n.os [137/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1980-474126) e [138/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1980-474127), de 20 de Maio -, na medida em que para estas transitaram as atribuições dos serviços e organismos supramencionados.
+
+Preceituava-se ainda nestes diplomas a extinção da Direcção-Geral da Previdência, da Direcção-Geral da Assistência Social e da Federação das Caixas de Previdência, logo que a Direcção-Geral da Organização e Recursos Humanos n.º 1 do artigo 43.º do [Decreto-Lei n.º 137/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1980-474126) - e a Direcção-Geral da Segurança Social - n.º 1 do artigo 89.º do [Decreto-Lei n.º 138/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1980-474127) - se encontrassem estruturadas.
+
+Relativamente ao Instituto da Família e Acção Social, previa-se no n.º 2 do artigo 43.º do [Decreto-Lei n.º 137/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1980-474126) e no n.º 2 do artigo 89.º do [Decreto-Lei n.º 138/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1980-474127) que este instituto público, criado na dependência da Direcção-Geral da Segurança Social, continuasse a assegurar, nos distritos onde se não encontrasse ainda implantada a organização regional de segurança social, o exercício das atribuições e competências que não tivessem transitado para as Direcções-Gerais da Organização e Recursos Humanos e da Segurança Social. Com a criação do Centro Regional de Segurança Social de Lisboa pelo [Decreto Regulamentar n.º 3/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1981-390388), de 15 de Janeiro, e a integração de órgãos, serviços, instituições e estabelecimentos efectuada através da [Portaria n.º 197/81](https://diariodarepublica.pt/dr/detalhe/portaria/197-1981-391071), de 20 de Fevereiro, foi determinado que a extinção do IFAS se concretizasse após a conclusão do processo dos provimentos do seu pessoal.
+
+No que respeita à Comissão de Equipamentos Colectivos, veio a ser considerado não se justificar a sua consagração como organismo central, preconizando-se na [Portaria n.º 8/81](https://diariodarepublica.pt/dr/detalhe/portaria/8-1981-570489), de 5 de Janeiro, a sua dissolução e posterior integrarão na Direcção-Geral da Organização e Recursos Humanos.
+
+A transferência de atribuições operada por força dos diplomas mencionados teve como consequência que os organismos cuja extinção estava prevista ficassem esvaziados de conteúdo, funcionando meramente como suportes para a resolução de problemas, na sua maioria concernentes a pessoal.
+
+Considerando que, neste momento, são já poucas as questões ainda pendentes e que as mesmas podem obter solução satisfatória no âmbito dos serviços para onde transitaram as atribuições e competências da Comissão de Equipamentos Colectivos, da Direcção-Geral da Assistência Social, da Direcção-Geral da Previdência, da Federação das Caixas de Previdência e Abono de Família e do Instituto da Família e Acção Social, chegou, pois, o momento adequado para se proceder à extinção destes organismos.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º
+
+(Extinção dos organismos)
+
+São extintos a Direcção-Geral da Assistência Social, a Direcção-Geral da Previdência, o Instituto da Família e Acção Social, a Federação das Caixas de Previdência e Abono de Família e a Comissão de Equipamentos Colectivos.
+
+###### ARTIGO 2.º
+
+(Serviços actuariais)
+
+Os serviços actuariais da Direcção-Geral da Previdência são integrados na Direcção-Geral da Segurança Social, para cujo quadro transita, nos termos da lei vigente, o respectivo pessoal.
+
+###### ARTIGO 3.º
+
+(Destino do pessoal)
+
+1 - O pessoal dos organismos extintos por força deste diploma que à data da sua entrada em vigor desempenhe funções, a qualquer título, em serviço, instituição ou estabelecimento do Estado, bem como em institutos públicos, é integrado no quadro ou mapa respectivo, com observância do disposto na legislação vigente e com ressalva de todos os direitos e regalias, designadamente o direito ao provimento definitivo.
+
+2 - Os quadros ou mapas de pessoal dos serviços onde tenham sido ou venham a ser colocados os efectivos dos organismos referidos no artigo 1.º são automaticamente aumentados das categorias e do número de lugares correspondentes.
+
+3 - Para os efeitos do disposto no número anterior, os quadros ou mapas de pessoal devem ser alterados em conformidade, podendo as respectivas alterações ter lugar após a integração a que se refere o n.º 4 deste artigo.
+
+4 - É garantida ao pessoal dos organismos extintos que tenha sido ou venha a ser colocado em serviços em regime de instalação a integração, com o inteiro respeito pelos direitos adquiridos, nos quadros que vierem a ser aprovados no termo daquele regime.
+
+5 - A integração do pessoal prevista nos n.os 1 e 2 será feita no prazo de 180 dias após a publicação do presente diploma, nos termos da lei geral.
+
+6 - Os serviços para onde transitar o pessoal dos organismos extintos deverão, no prazo máximo referido no número anterior, alterar as respectivas leis orgânicas, em conformidade com o disposto no presente diploma.
+
+7 - Os efectivos que à data da entrada em vigor do presente diploma ainda não se encontrem em funções noutros organismos serão integrados, nos termos dos números anteriores, em serviços do Ministério dos Assuntos Sociais com carência de pessoal.
+
+8 - O disposto nos números anteriores é igualmente aplicável ao pessoal que tenha optado, ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho, pela manutenção do regime jurídico da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, devendo contudo constituir, no respectivo organismo onde tenha sido ou venha a ser colocado, um mapa ou quadro de pessoal privativo, nos termos e para os efeitos dos n.os 1 e 2 do artigo 12.º do citado decreto-lei.
+
+###### ARTIGO 4.º
+
+(Integração do pessoal)
+
+A integração do pessoal dos organismos extintos far-se-á de acordo com as seguintes regras:
+
+a) Para categoria idêntica à que actualmente detenha;
+
+b) Para categoria correspondente às funções actualmente desempenhadas, remunerada pela mesma letra de vencimento, ou pela imediatamente superior, quando não se verifique coincidência de remuneração, com respeito pelas habilitações literárias.
+
+###### ARTIGO 5.º
+
+(Contagem de tempo de serviço)
+
+1 - O tempo de serviço prestado nos organismos extintos será contado para todos os efeitos legais, designadamente antiguidade, progressão na carreira, diuturnidades e aposentação.
+
+2 - Para efeitos de progressão na carreira, apenas contará o tempo de serviço prestado em categoria de conteúdo funcional idêntico ao da categoria de transição.
+
+###### ARTIGO 6.º
+
+(Situações especiais)
+
+1 - O pessoal que à data da entrada em vigor do presente diploma se encontre no gozo de licença ilimitada manter-se-á nesta situação, ficando, porém, adstrito ao quadro dos serviços para onde transitarem as atribuições dos organismos a que pertenciam.
+
+2 - O disposto no número anterior é igualmente aplicável ao pessoal nas situações de licença sem retribuição, impedimento prolongado ou equiparado, previstas nos artigos 114.º, 121.º e 97.º, n.º 2, da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril.
+
+###### ARTIGO 7.º
+
+(Património mobiliário)
+
+Todos os bens móveis dos organismos extintos são transferidos, na data da entrada em vigor deste diploma, mediante relações de cadastro devidamente discriminadas e autenticadas, para a propriedade do Estado ou dos serviços com autonomia administrativa e financeira para onde tenham transitado, total ou parcialmente, as suas atribuições e competências.
+
+###### ARTIGO 8.º
+
+(Património imobiliário)
+
+1 - O presente diploma constitui título bastante para determinar a transferência de propriedade dos bens imóveis dos organismos extintos para a esfera jurídica do Estado ou dos centros regionais de segurança social, conforme os casos.
+
+2 - A distribuição dos imóveis pelos serviços a que ficam adstritos será feita por despacho ministerial.
+
+###### ARTIGO 9.º
+
+(Cessação da posição contratual nos arrendamentos)
+
+Com dispensa de quaisquer formalidades, transitam para serviços do Ministério dos Assuntos Sociais, de harmonia com as necessidades que impliquem o exercício das respectivas atribuições e competências, todos os direitos e obrigações derivados dos contratos de arrendamento celebrados pelos organismos extintos por força do presente diploma.
+
+###### ARTIGO 10.º
+
+(Receitas e despesas)
+
+Os saldos orçamentais dos organismos referidos no artigo 1.º serão entregues nos cofres do Tesouro, como receita do Estado, para servirem de contrapartida ao reforço das dotações dos serviços para onde forem transferidas as acções dos organismos extintos.
+
+###### ARTIGO 11.º
+
+(Contas de gerência)
+
+As contas de gerência dos organismos dotados de autonomia administrativa agora extintos serão remetidas ao Tribunal de Contas, para julgamento, dentro dos prazos marcados por lei.
+
+Visto e aprovado em Conselho de Ministros de 12 de Maio de 1983. - Gonçalo Pereira Ribeiro Teles - João Maurício Fernandes Salgueiro - António José de Castro Bagão Félix - José Manuel Meneres Sampaio Pimentel.
+
+**Promulgado em 8 de Junho de 1983.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 8 de Junho de 1983.**
+
+**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**

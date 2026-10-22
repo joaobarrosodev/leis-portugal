@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:324758:por
+title: Decreto n.º 155/78
+short_title: null
+summary: Aprova o Acordo Geral sobre Migração entre a República Democrática de S. Tomé e Príncipe e a República de Portugal
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Gabinete Coordenador para a Cooperação
+proposing_entity: null
+official_number: 155/78
+official_date: null
+publication_date: '1978-12-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 288/1978, Série I de 1978-12-16
+  number: '288'
+  series: I
+  supplement: null
+  pages: 2660 - 2661
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/12/28800/26602661.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '324758'
+  dre_path: /dr/detalhe/decreto/155-1978-324758
+  internal: pt:dre:324758:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/155-1978-324758
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/155-1978-324758
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-12-16T00:00:00Z'
+integrity:
+  source_sha256: e1f6cf48fd54b49061b7185928263d95e2bcebeaaecefef1d60fc7b003d42ce5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-155-324758.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 155/78
+
+de 16 de Dezembro
+
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+
+###### Artigo único. É aprovado o Acordo Geral sobre Migração entre a República Democrática de S. Tomé e Príncipe e a República de Portugal, assinado em 17 de Julho do corrente ano, cujo texto vai anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - Carlos Jorge Mendes Corrêa Gago.
+
+**Assinado em 24 de Novembro de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+Acordo Geral sobre Migração entre a República Democrática de S. Tomé e Príncipe e a República de Portugal
+
+No prosseguimento de uma política comum de amizade e de cooperação entre os povos de S. Tomé e Príncipe e de Portugal;
+
+Conscientes da necessidade de regular as relações emergentes do exercício de actividades profissionais num país por nacionais do outro;
+
+S. Tomé e Príncipe e Portugal acordam no seguinte:
+
+###### ARTIGO 1.º
+
+Cada uma das Partes Contratantes compromete-se a não permitir qualquer pressão no sentido de obrigar os nacionais da outra Parte a permanecerem no país de acolhimento ou a regressarem ao país de origem.
+
+###### ARTIGO 2.º
+
+1 - As Partes Contratantes suportarão as despesas de repatriamento dos respectivos imigrantes que, residindo no território do país de acolhimento à data da independência de S. Tomé e Príncipe, desejem regressar ao país de origem.
+
+2 - Cada uma das Partes Contratantes obriga-se a dar conhecimento das acções de repatriamento à outra Parte.
+
+###### ARTIGO 3.º
+
+O nacional de cada um das Partes Contratantes que pretenda deslocar-se ao território da outra Parte para trabalhar terá de obter, previamente, o respectivo visto junto da autoridade consular do país de imigração.
+
+###### ARTIGO 4.º
+
+Enquanto não forem celebrados acordos bilaterais específicos, cada uma das Partes Contratantes compromete-se a não restringir, no seu território, a aplicação da sua legislação aos nacionais da outra Parte, designadamente em matéria de segurança social e de trabalho, com excepção da referente à função pública.
+
+###### ARTIGO 5.º
+
+As Partes Contratantes assumem o compromisso de estabelecer, oportunamente, contactos, através das entidades competentes, com vista à celebração de um acordo sobre segurança social.
+
+###### ARTIGO 6.º
+
+O Estado Português, a solicitação do Estado de S. Tomé e Príncipe, efectuará diligências tendentes à protecção dos nacionais deste último que emigraram para países com os quais Portugal tenha celebrado convenções de segurança social que abrangiam aqueles nacionais nos assuntos emergentes da sua aplicação.
+
+###### ARTIGO 7.º
+
+Para efeitos de segurança social, sem prejuízo do que sobre a matéria seja especificamente legislado, os documentos apresentados pelos migrantes portugueses e são-tomenses às autoridades competentes do Estado de acolhimento fazem prova como o fariam se fossem apresentados às autoridades correspondentes do país de origem.
+
+###### ARTIGO 8.º
+
+1 - Quando as Partes Contratantes tiverem de conceder prestações pecuniárias em virtude do presente Acordo, fá-lo-ão em moeda do seu próprio país.
+
+2 - Quando houver lugar a transferências, estas efectuar-se-ão conforme os acordos de pagamento vigentes entre ambas as Partes Contratantes ou conforme os mecanismos fixados de comum acordo para esse fim.
+
+###### ARTIGO 9.º
+
+Com vista à aplicação deste Acordo, cada uma das Partes Contratantes designará os organismos ou serviços de ligação que considerar necessários, os quais, sob a orientação dos serviços responsáveis pela cooperação, comunicarão directamente entre si e com os interessados ou seus representantes legais em matéria de assuntos correntes.
+
+###### ARTIGO 10.º
+
+1 - Qualquer diferendo que possa surgir entre as Partes Contratantes sobre a interpretação ou aplicação do presente Acordo será resolvido por negociações directas entre as mesmas Partes.
+
+2 - Se o diferendo não ficar resolvido num prazo de seis meses a contar do início das negociações, será submetido a uma comissão arbitral, cuja composição será determinada de comum acordo entre as Partes. A comissão arbitral deverá resolver os diferendos tendo em conta os princípios fundamentais e o espírito do presente Acordo. As suas decisões serão obrigatórias e definitivas.
+
+###### ARTIGO 11.º
+
+O presente Acordo entrará em vigor, provisoriamente, na data da sua assinatura e, definitivamente, na data da troca de notas confirmando a sua aprovação em conformidade com os requisitos constitucionais de ambos os países e manter-se-á vigente até doze meses depois da data em que qualquer Parte Contratante notifique a outra Parte do seu desejo de denunciar o Acordo.
+
+Feito em S. Tomé aos 17 de Julho de 1978, em dois exemplares, fazendo ambos os textos igualmente fé.
+
+Pelo Governo da República Democrática de S. Tomé e Príncipe:
+
+Celestino Rocha da Costa.
+
+Pelo Governo da República Portuguesa:
+
+João Lima.

@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:194779:por
+title: Portaria n.º 36/86
+short_title: null
+summary: Altera a alínea q) do mapa anexo à Portaria n.º 602/79, de 21 de Novembro, com a redacção dada pela Portaria n.º
+  697/85, de 20 de Setembro (vendas a prestações)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 36/86
+official_date: null
+publication_date: '1986-01-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/1986, Série I de 1986-01-27
+  number: '22'
+  series: I
+  supplement: null
+  pages: 270 - 270
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/01/02200/02700270.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '194779'
+  dre_path: /dr/detalhe/portaria/36-1986-194779
+  internal: pt:dre:194779:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-1986-194779
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-1986-194779
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-06-03T00:00:00Z'
+integrity:
+  source_sha256: 5cc4fa47db059b2792ab8ac62e369cf353452e0a9258626c2c4f4a4604ffa66f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-36-194779.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:290393:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 36/86
+
+de 27 de Janeiro
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro, nos termos do disposto no n.º 3 do artigo 2.º e no artigo 8.º do [Decreto-Lei n.º 457/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1979-367609), de 21 de Novembro, que a alínea q) do mapa anexo à [Portaria n.º 602/79](https://diariodarepublica.pt/dr/detalhe/portaria/602-1979-367607), de 21 de Novembro, cuja redacção actual é a que consta da [Portaria n.º 697/85](https://diariodarepublica.pt/dr/detalhe/portaria/697-1985-177445), de 20 de Setembro, passe a ter a seguinte redacção:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1986/01/02200/02700270.pdf))](https://files.diariodarepublica.pt/1s/1986/01/02200/02700270.pdf)
+
+Secretaria de Estado do Tesouro.
+
+**Assinada em 3 de Janeiro de 1986.**
+
+**O Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro, José Alberto Tavares Moreira.**

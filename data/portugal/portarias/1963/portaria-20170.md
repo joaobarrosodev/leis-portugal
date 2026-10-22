@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:688237:por
+title: Portaria n.º 20170
+short_title: null
+summary: Estabelece a lotação de pessoal militar para o Estado-Maior da Armada e organismos dele dependentes
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Estado-Maior da Armada
+proposing_entity: null
+official_number: '20170'
+official_date: null
+publication_date: '1963-11-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 268/1963, Série I de 1963-11-15
+  number: '268'
+  series: I
+  supplement: null
+  pages: 1738 - 1739
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/11/26800/17381739.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '688237'
+  dre_path: /dr/detalhe/portaria/20170-1963-688237
+  internal: pt:dre:688237:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20170-1963-688237
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20170-1963-688237
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1970-09-09T00:00:00Z'
+integrity:
+  source_sha256: cc61867876938f42d0d240d4f58d190a93ff4893b291f1adfc893ff4dc276382
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-20170-688237.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:148860:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20170
+
+Tendo sido aprovado e posto em execução pela [Portaria n.º 20139](https://diariodarepublica.pt/dr/detalhe/portaria/20139-1963-687853), de 28 de Outubro de 1963, o Regulamento do Estado-Maior da Armada e tornando-se necessário, em face do disposto no referido regulamento, fixar a lotação do pessoal militar do Estado-Maior da Armada:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do disposto no n.º 61.º da [Portaria n.º 20139](https://diariodarepublica.pt/dr/detalhe/portaria/20139-1963-687853), estabelecer para o Estado-Maior da Armada e organismos dele dependentes a lotação de pessoal militar que consta do quadro anexo a esta portaria.
+
+Ministério da Marinha, 15 de Novembro de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
+
+QUADRO
+
+Lotação do pessoal militar do Estado-Maior da Armada e organismos dele dependentes
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1963/11/26800/17381739.pdf))](https://files.diariodarepublica.pt/1s/1963/11/26800/17381739.pdf)
+
+Notas
+
+1. Enquanto os quadros não permitirem que o preenchimento da lotação seja realizado com oficiais do posto indicado na lotação, os capitães-de-fragata podem ser substituídos por capitães-tenentes e os capitães-tenentes por primeiros-tenentes.
+
+2. Os sargentos e praças da classe de abastecimento podem ser substituídos por sargentos e praças de igual graduação das classes dos artilheiros e dos fuzileiros já habilitados com instrução de dactilografia, com excepção do primeiro-sargento em serviço na Secretaria-Geral.
+
+Ministério da Marinha, 15 de Novembro de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

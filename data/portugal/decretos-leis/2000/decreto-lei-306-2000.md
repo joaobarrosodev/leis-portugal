@@ -1,0 +1,311 @@
+---
+schema_version: '1.0'
+id: pt:dre:592711:por
+title: Decreto-Lei n.º 306/2000
+short_title: null
+summary: Institui a Fundação para a Protecção da Gestão Ambiental das Salinas do Samouco e aprova os respectivos estatutos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento Social
+proposing_entity: null
+official_number: 306/2000
+official_date: null
+publication_date: '2000-11-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 275/2000, Série I-A de 2000-11-28
+  number: '275'
+  series: I
+  supplement: null
+  pages: 6733 - 6736
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/11/275a00/67336736.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/306/2000/11/28/p/dre/pt/html
+  oj: null
+  dre: '592711'
+  dre_path: /dr/detalhe/decreto-lei/306-2000-592711
+  internal: pt:dre:592711:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2000-592711
+  metadata_url: https://data.dre.pt/eli/dec-lei/306/2000/11/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2000-592711
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-02-10T00:00:00Z'
+integrity:
+  source_sha256: 7dc7bf83a1410d3149f09a7c4bd6ef05b417d7a9997fdc995bed8c6a1acc5fe2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-306-592711.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fundação
+- Estatuto
+- Salinas do Samouco
+- Proteção do Ambiente
+- Gestão do Ambiente
+- Fundação para a Protecção de Gestão Ambiental das Salinas do Samouco
+relationships:
+- type: amended_by
+  target: pt:dre:601475:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/121/1998/10/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/121/1998/10/15/p/dre
+article_structure:
+  article_count: 20
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 306/2000
+
+de 28 de Novembro
+
+Do quadro de compromissos assumidos com a construção da Ponte de Vasco da Gama, resulta a necessidade de salvaguardar o Complexo das Salinas do Samouco, criando condições para a sua recuperação e manutenção futura.
+
+A constituição da Equipa de Missão para a Protecção e Gestão Ambiental das Salinas do Samouco, efectuada pela [Resolução do Conselho de Ministros n.º 121/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/121-1998-235099), permitiu que se cumprissem tais desideratos, até que fosse possível a instituição da Fundação que, de forma definitiva, prosseguisse os objectivos propostos.
+
+Encontram-se já ultrapassados todos os condicionalismos que obstavam à instituição da Fundação para a Protecção das Salinas do Samouco.
+
+Chegou, deste modo, o momento de concretizar o projecto de constituição da referida Fundação, fazendo convergir a vontade do Estado com a da sociedade civil através, nomeadamente, da LUSOPONTE e do Oceanário.
+
+A Fundação, com horizonte de auto-sustentabilidade a médio prazo, terá como objectivo primordial manter e desenvolver o ecossistema, bem como estudar, implementar e gerir a aplicação prática de um modelo sócio-económico de desenvolvimento sustentável.
+
+Assim:
+
+Nos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+É instituída pelo Estado, através dos Ministros do Equipamento Social, do Ambiente e do Ordenamento do Território, da Agricultura, do Desenvolvimento Rural e das Pescas e da Ciência e da Tecnologia, pela LUSOPONTE, pelo Oceanário de Lisboa e pelo Instituto da Conservação da Natureza, uma fundação denominada por Fundação para a Protecção de Gestão Ambiental das Salinas do Samouco, adiante designada abreviadamente por Fundação.
+
+###### Artigo 2.º
+
+A Fundação é uma instituição de direito privado e utilidade pública, dotada de personalidade jurídica, durará por tempo ilimitado, tem a sua sede em Alcochete e rege-se pelos estatutos em anexo ao presente diploma, que dele fazem parte integrante.
+
+###### Artigo 3.º
+
+A Fundação tem por fim promover a conservação e manutenção das salinas do Samouco, bem como estudar, implementar e gerir a aplicação prática de um modelo sócio-económico do desenvolvimento sustentável para o Complexo das Salinas.
+
+###### Artigo 4.º
+
+O património da Fundação é constituído pelos bens indicados no artigo 3.º dos respectivos estatutos.
+
+###### Artigo 5.º
+
+O presente diploma constitui título suficiente para todos os efeitos legais, incluindo os de registo, os quais se farão sem pagamento de quaisquer taxas.
+
+###### Artigo 6.º
+
+Durante o corrente ano económico a Fundação utilizará as dotações atribuídas no Orçamento do Estado à Equipa de Missão, mantendo-se a respectiva classificação orgânica.
+
+###### Artigo 7.º
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.
+
+**Promulgado em 9 de Novembro de 2000.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 16 de Novembro de 2000.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+## ANEXO I — CAPÍTULO I
+
+Disposições gerais
+
+###### Artigo 1.º — Denominação, duração e sede
+
+A fundação denomina-se Fundação para a Protecção e Gestão Ambiental das Salinas do Samouco, tem a sua sede em Alcochete, Complexo das Salinas, Palácio dos Pinheirinhos, e durará por tempo indeterminado.
+
+###### Artigo 2.º — Fim e actividades
+
+A Fundação tem por fim promover a conservação e manutenção das salinas do Samouco, bem como estudar, implementar e gerir a aplicação prática de um modelo sócio-económico de desenvolvimento sustentável para o Complexo das Salinas, e tem por atribuições:
+
+a) Promover a conservação da natureza, através, nomeadamente, da manutenção de recursos naturais do Complexo das Salinas do Samouco;
+
+b) Estudar, implementar e gerir a aplicação prática de um modelo sócio-económico de desenvolvimento sustentável para o Complexo das Salinas do Samouco;
+
+c) Estudar, implementar e desenvolver modelos de educação ambiental para o Complexo em particular e em geral para as zonas húmidas estuarinas;
+
+d) Promover projectos de investigação científica e tecnológica, em particular para o Complexo das Salinas do Samouco e, em geral, para as zonas húmidas e estuarinas, criando, nomeadamente, um centro de estudos do ambiente;
+
+e) Promover e participar na execução e gestão de projectos de desenvolvimento sustentável para as zonas húmidas e estuarinas;
+
+f) Desenvolver actividade formativa, realizando acções de formação, instituindo cursos, promovendo estágios e efectuando colóquios, seminários ou conferências;
+
+g) Divulgar pelos meios adequados os conhecimentos, actividades e estudos considerados de utilidade.
+
+### CAPÍTULO II — Regime patrimonial
+
+###### Artigo 3.º — Património
+
+1 - O património da Fundação é constituído:
+
+a) Pelo direito de usufruto por 30 anos, concedido pelo Estado, sobre os imóveis expropriados no Complexo das Salinas do Samouco, constantes do anexo II dos presentes estatutos;
+
+b) Por uma comparticipação financeira atribuída, pelo período de três anos, pelo Estado, através dos Ministérios do Equipamento Social e do Ambiente e do Ordenamento do Território;
+
+c) Por um fundo atribuído pela LUSOPONTE;
+
+d) Pelas receitas provenientes das suas actividades e da gestão do seu património;
+
+e) Pelo produto da alienação dos bens e direitos de que seja titular;
+
+f) Por quaisquer subsídios, subvenções, contributos, donativos, heranças, legados ou doações de entidades públicas ou privadas, portuguesas ou estrangeiras;
+
+g) Pelos bens móveis, imóveis e direitos, incluindo quotas, acções e quaisquer outros títulos que a Fundação adquira.
+
+2 - Os actos de disposição dos bens imóveis cedidos pelo Estado carecem de autorização prévia do conselho de administração, cuja deliberação tem de ter voto favorável do respectivo presidente.
+
+###### Artigo 4.º — Participação noutras entidades
+
+A Fundação pode, por deliberação do conselho de administração, filiar-se ou estabelecer acordos de cooperação com instituições nacionais e internacionais.
+
+### CAPÍTULO III — Organização e funcionamento
+
+###### Artigo 5.º — Órgãos
+
+São órgãos da Fundação:
+
+a) O conselho de administração;
+
+b) O conselho de fundadores;
+
+c) O conselho fiscal.
+
+#### SECÇÃO I — Conselho de administração
+
+###### Artigo 6.º — Competência
+
+1 - Ao conselho de administração compete a representação da Fundação e, em geral, a realização dos seus fins e a gestão do seu património.
+
+2 - Compete, em especial, ao conselho de administração:
+
+a) Programar a actividade da Fundação;
+
+b) Organizar e gerir os seus serviços;
+
+c) Administrar o património da Fundação;
+
+d) Elaborar e apresentar anualmente ao conselho de fundadores o plano de actividades para o ano seguinte;
+
+e) Adquirir e dispor dos bens imóveis da Fundação;
+
+f) Contratar pessoal e constituir mandatários;
+
+g) Proceder anualmente a um inventário do património da Fundação e a um balanço de todas as suas receitas e despesas e elaborar o relatório do exercício.
+
+###### Artigo 7.º — Composição e duração do mandato
+
+1 - O conselho de administração é composto por um presidente e um máximo de quatro vogais.
+
+2 - A nomeação do presidente é efectuada por despacho conjunto dos Ministros do Equipamento Social e do Ambiente e do Ordenamento do Território; os restantes membros são designados, em igual número, pelos Ministros do Equipamento Social e do Ambiente e do Ordenamento do Território.
+
+3 - O mandato dos membros do conselho tem a duração de três anos, sem prejuízo da exoneração a todo o tempo.
+
+#### SECÇÃO II — Artigo 8.º
+
+Vinculação
+
+A Fundação obriga-se pela assinatura de dois membros do conselho de administração, sendo uma delas a do presidente ou de quem o substitui nas suas ausências e impedimentos.
+
+###### Artigo 9.º — Conselho de fundadores
+
+O conselho de fundadores é o órgão consultivo do conselho de administração, na definição das linhas gerais de actuação da Fundação.
+
+###### Artigo 10.º — Competência
+
+Compete ao conselho de fundadores:
+
+a) Emitir parecer sobre a política da Fundação definida pelo conselho de administração;
+
+b) Emitir parecer sobre o plano de actividades, bem como sobre o relatório de actividades;
+
+c) Pronunciar-se sobre o relatório e conta de gerência e sobre o relatório anual do conselho fiscal;
+
+d) Apreciar e dar parecer sobre o orçamento;
+
+e) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pelo conselho de administração;
+
+f) Apresentar propostas e sugestões tendentes a fomentar ou a aperfeiçoar a actividade da Fundação.
+
+###### Artigo 11.º — Presidente, funcionamento, deliberações
+
+1 - O conselho de fundadores é composto pelas pessoas singulares ou pelo representante das pessoas colectivas que figurem como instituidoras da Fundação, ou que venham a ser admitidas naquela qualidade.
+
+2 - Os membros do conselho de fundadores elegerão entre si, bienalmente, um presidente.
+
+3 - O conselho de fundadores reunirá, ordinariamente, duas vezes por ano, mediante convocação do presidente, e, extraordinariamente, quer por iniciativa do presidente ou de um terço dos seus membros, quer a pedido do conselho de administração ou do conselho fiscal, deliberando por maioria dos votos expressos, sendo conferido ao presidente voto de qualidade em caso de empate.
+
+#### SECÇÃO III — Conselho fiscal
+
+###### Artigo 12.º — Composição
+
+1 - O conselho fiscal é composto por três membros, sendo um designado pelo conselho de administração, o segundo designado pelo conselho de fundadores e o terceiro revisor oficial de contas, que presidirá, designado pelo Ministro das Finanças.
+
+2 - O mandato dos membros do conselho fiscal é de três anos.
+
+3 - A remuneração dos membros do conselho fiscal será fixada pelo conselho de administração.
+
+###### Artigo 13.º — Competência
+
+Compete ao conselho fiscal:
+
+a) Verificar se a administração da Fundação se exerce de acordo com a lei e os estatutos;
+
+b) Verificar a regularidade dos livros e registos contabilísticos, bem como da exactidão das contas anuais da Fundação.
+
+### CAPÍTULO IV — Modificação dos estatutos e extinção da Fundação
+
+###### Artigo 14.º
+
+1 - O conselho de administração, ouvido o conselho de fundadores, poderá, em situações excepcionais, propor à aprovação dos Ministros do Equipamento Social e do Ambiente e do Ordenamento do Território a modificação dos presentes estatutos.
+
+2 - No caso de extinção da Fundação, o património desta reverte para o Estado.
+
+## ANEXO II — Imóveis expropriados nas salinas do Samouco
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/275a00/67336736.pdf)

@@ -1,0 +1,268 @@
+---
+schema_version: '1.0'
+id: pt:dre:166660:por
+title: Portaria n.º 653/96
+short_title: null
+summary: Ratifica o Plano de Pormenor da Zona Hr B (Zona Norte-Almeirim), no município de Almeirim
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 653/96
+official_date: null
+publication_date: '1996-11-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 263/1996, Série I-B de 1996-11-13
+  number: '263'
+  series: I
+  supplement: null
+  pages: 4015 - 4018
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/11/263b00/40154018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/653/1996/11/13/p/dre/pt/html
+  oj: null
+  dre: '166660'
+  dre_path: /dr/detalhe/portaria/653-1996-166660
+  internal: pt:dre:166660:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/653-1996-166660
+  metadata_url: https://data.dre.pt/eli/port/653/1996/11/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/653-1996-166660
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-11-13T00:00:00Z'
+integrity:
+  source_sha256: 1c99e64482833e7ca280b3b4f410f198e1c10fd5d133fb6dd9022573db088428
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-653-166660.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Almeirim
+- Ordenamento do Território
+- Plano Director Municipal
+- Política de Solos
+- Plano de Pormenor
+- Plano de Urbanização
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/48/1993/06/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/48/1993/06/01/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 653/96
+
+de 13 de Novembro
+
+A Assembleia Municipal de Almeirim aprovou, em 29 de Abril de 1996, o Plano de Pormenor da Zona Hr B (Zona Norte-Almeirim), no município de Almeirim.
+
+Foi realizado o inquérito público, nos termos previstos no artigo 14.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, e emitidos os pareceres pela Comissão de Coordenação da Região de Lisboa e Vale do Tejo e pela Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano.
+
+De referir que não foram consultadas outras entidades em função da área abrangida e das propostas formuladas neste Plano de Pormenor, em virtude de terem emitido pareceres vinculativos aquando da elaboração do Plano Director Municipal de Almeirim, ratificado pela [Resolução do Conselho de Ministros n.º 48/93](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-1993-256213), de 22 de Abril, publicada no Diário da República, 1.ª série-B, n.º 127, de 1 de Junho de 1993, e do Plano Geral de Urbanização de Almeirim, ratificado por despacho do Ministro do Planeamento e da Administração do Território de 11 de Março de 1991, publicado no Diário da República, 2.ª série, n.º 127, de 4 de Junho de 1991.
+
+O presente Plano de Pormenor carece de ratificação, nos termos da alínea d) do n.º 1 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, conjugado com o disposto no n.º 4 do artigo 3.º, na redacção que lhe foi dada pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro.
+
+Assim, ao abrigo do disposto no n.º 4 do artigo 3.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e no uso da delegação de competências conferida pelo Despacho n.º 48/96 do Ministro do Equipamento, do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 69, de 21 de Março de 1996:
+
+Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, que seja ratificado o Plano de Pormenor da Zona Hr B (Zona Norte-Almeirim), no município de Almeirim, cujo regulamento e planta de implantação se publicam em anexo à presente portaria, dela fazendo parte integrante.
+
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+
+**Assinada em 16 de Outubro de 1996.**
+
+**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+
+REGULAMENTO DO PLANO DE PORMENOR DA ZONA Hr B (ZONA NORTE-ALMEIRIM)
+
+Generalidades
+
+Os lotes n.os 33 a 46, inclusive, constituem a última fase da Cooperativa de Habitação Económica de Almeirim, tendo sido aprovado o respectivo projecto de arquitectura de licenciamento municipal conjunto, embora a emissão dos respectivos alvarás de licença de construção sejam faseados.
+
+Os lotes n.os 47 a 50, inclusive, têm de igual modo projecto conjunto elaborado na Divisão de Habitação e Urbanismo da Câmara Municipal, tendo sido os lotes alienados em hasta pública já condicionados ao referido projecto de arquitectura.
+
+Os lotes n.os 51 a 72 têm também projecto de arquitectura elaborado pela Divisão de Habitação e Urbanismo, tendo sido de igual modo alienados em hasta pública sob condição de respeito pelo projecto de arquitectura aprovado pelo executivo municipal.
+
+Dado que, como é referido na planta da situação existente e no relatório que integra o presente Plano de Pormenor, os lotes n.os 1 a 32, inclusive, 52 a 71, inclusive, 78 e 91, 163, 164, 165, 166, 168, 178 a 181, inclusive, e 187 a 201, inclusive, já se encontram construídos, definem-se agora as regras de ocupação para os lotes propostos a edificar e a renovar.
+
+Como é óbvio, não se definem regras exaustivas ou de pormenor, dada a dimensão e complexidade da área de intervenção, procurando-se, em alternativa, referir regras gerais estruturantes e configurando grupos de edificações consoante as suas tipologias e unidades de vizinhança.
+
+Deste modo definem-se seis conjuntos com naturais exigências de especificações próprias, de acordo com os itens definidos no parágrafo anterior:
+
+1 - Moradias unifamiliares isoladas:
+
+Dos lotes n.os 73 a 99, inclusive:
+
+1.1 - Áreas máximas de implantação e respectivos limites. - As áreas máximas de implantação da construção deverão respeitar os limites estabelecidos nas plantas de implantação e de trabalho e que são, com excepção dos lotes de gaveto n.os 92 e 99, de 3 m, quer em relação ao muro da frente do lote quer relativamente aos muros divisórios laterais.
+
+Os casos especiais referidos às implantações das construções nos lotes n.os 73, 81, 82, 83 e 84 estão definidos na planta de trabalho.
+
+1.2 - Número de pisos. - As moradias unifamiliares isoladas serão edificadas com um ou dois pisos, podendo admitir-se a construção de caves com funções de estacionamento e arrumos e de águas-furtadas desde que não revistam carácter habitacional, sob pena de agravarem o índice de construção.
+
+1.3 - Áreas máximas de construção. - As áreas máximas de construção deverão, em cada lote, respeitar as indicadas no quadro da planta de implantação. Estas áreas máximas de construção referidas só poderão ser ultrapassadas através da construção de caves com funções não habitacionais.
+
+1.4 - Construções anexas. - As áreas máximas de implantação das construções anexas deverão respeitar as indicadas nos quadros da planta de implantação para os anexos. Estas construções, que poderão ter função de arrecadação complementar da habitação, poderão de igual modo funcionar como garagens particulares.
+
+Serão sempre construídos em piso térreo e a sua altura máxima não deverá ultrapassar os 4 m.
+
+1.5 - Utilização dos logradouros e muros de vedação. - Nas áreas de logradouro não definidas como áreas de implantação de construção será exclusivamente permitida a sua pavimentação e ou ajardinamento, complementado com o respectivo equipamento (bancos, mesas, caixas de areia, baloiços, piscinas, etc.).
+
+Os muros de vedação terão a altura máxima de 1,5 m, sendo 1 m de alvenaria e a restante altura executada em gradeamento de ferro pintado.
+
+1.6 - Lotes de gaveto. - Nos lotes de gaveto as moradias não deverão ter empenas cegas nas fachadas viradas aos arruamentos circundantes, aconselhando-se o seu tratamento através de soluções volumétricas e fenestrações.
+
+1.7 - Acabamentos exteriores. - Aconselha-se o uso de cores claras na pintura das paredes exteriores.
+
+Para o revestimento das paredes exteriores em socos, cunhais e outras superfícies que se pretendam destacar ou tratar aconselha-se o uso de materiais sóbrios e naturais, como a pedra de moleanos ou vidraço e a tijoleira cerâmica.
+
+O revestimento da cobertura, quando aparente, deverá ser executado em telha cerâmica na cor natural, com os declives apropriados aos factores de ordem climática da região e às soluções estruturais propostas.
+
+Sempre que se pretenda incluir soluções de aproveitamento de energia solar, estas deverão ficar perfeitamente integradas na proposta arquitectónica das edificações.
+
+São excepção deste articulado as construções já edificadas nos lotes n.os 78 e 91, assim como as construções a edificar nos lotes n.os 76 e 77, que, por razões de cadastro preexistente, são condicionadas a uma tipologia geminada, respeitando o afastamento lateral exclusivamente numa das extremas.
+
+2 - Moradias unifamiliares em banda:
+
+Dos lotes n.os 153 a 160, inclusive:
+
+2.1 - Áreas máximas de implantação e respectivos limites. - As áreas máximas de implantação da construção deverão respeitar os limites estabelecidos nas plantas de implantação e de trabalho, aceitando-se de igual modo que a construção possa ficar recuada 3 m do plano marginal, medidos no cunhal mais próximo, desde que este recuo seja comum a todos os lotes da banda.
+
+2.2 - Número de pisos. - As moradias unifamiliares em banda serão edificadas com um ou dois pisos, podendo admitir-se a construção de caves com funções de arrumos.
+
+2.3 - Áreas máximas de construção. - As áreas máximas de construção deverão, em cada lote, respeitar as indicadas no quadro da planta de implantação. Estas áreas máximas de construção referidas só poderão ser ultrapassadas através da construção de caves com funções não habitacionais.
+
+A garagem poderá ser integrada na construção principal (em cave ou no piso térreo) ou ser implantada na área destinada a anexos, caso exista serventia para o quintal.
+
+2.4 - Construções anexas. - As áreas máximas de implantação das construções anexas deverão respeitar as indicadas nos quadros da planta de implantação para os anexos. Estas construções, que poderão ter função de arrecadação complementar da habitação, poderão de igual modo funcionar como garagens particulares.
+
+Serão sempre construídos em piso térreo e sua altura máxima não deverá ultrapassar os 3 m.
+
+2.5 - Utilização dos logradouros e muros de vedação. - Nas áreas de logradouro não definidas como áreas de implantação de construção será exclusivamente permitida a sua pavimentação e ou ajardinamento, complementado com o respectivo equipamento (bancos, mesas, caixas de areia, baloiços, piscinas, etc.).
+
+Os muros de vedação terão a altura máxima de 1,5 m, sendo 1 m em alvenaria pintada de cor branca e a restante altura executada em gradeamento de ferro pintado.
+
+2.6 - Acabamentos exteriores. - Aconselha-se o uso de cores claras na pintura das paredes exteriores.
+
+Para o revestimento das paredes exteriores em socos, cunhais e outras superfícies que se pretendam destacar ou tratar aconselha-se o uso de materiais sóbrios e naturais, como a pedra de moleanos ou vidraço e a tijoleira cerâmica.
+
+O revestimento da cobertura, quando aparente, deverá ser executado em telha cerâmica na cor natural, com os declives apropriados aos factores de ordem climática da região e às soluções estruturais propostas.
+
+Sempre que se pretenda incluir soluções de aproveitamento de energia solar, estas deverão ficar perfeitamente integradas na proposta arquitectónica das edificações.
+
+3 - Moradias em banda integradas no alvará de loteamento n.º 5/82:
+
+Dos lotes n.os 173 a 176 e 183 a 186 inclusive:
+
+Estas construções estão sujeitas às especificações do respectivo alvará, aconselhando-se uma solução formal idêntica à dos lotes construídos n.os 176 a 181, de modo a consolidar a imagem do quarteirão.
+
+O mesmo se especifica para as construções a implantar nos lotes n.os 177 e 182, que pontuam os gavetos com função comercial a nível dos pisos térreos.
+
+4 - Edifícios de habitação colectiva:
+
+Dos lotes n.os 100 a 111, 116 a 121 e 126 a 137, inclusive:
+
+4.1 - Os lotes referidos em epígrafe destinam-se a edifícios de habitação colectiva com funções exclusivamente habitacionais.
+
+Considera-se que devem constituir unidades formalmente coerentes, autónomas e diferenciadas os seguintes conjuntos:
+
+a) Lotes n.os 100 a 105 e 116 a 118;
+
+b) Lotes n.os 106 a 111;
+
+c) Lotes n.os 119 a 121 e 135 a 137;
+
+d) Lotes n.os 126 a 134;
+
+podendo ser idênticos os conjuntos b) e c) e a) e d), respectivamente.
+
+4.2 - Os lotes n.os 103 e 132 deverão ser vazados a nível do piso térreo, com a largura de 7 m especificada na planta de trabalho, de modo a possibilitarem o atravessamento público pedonal.
+
+4.3 - As suas áreas de construção e de implantação, número de pisos, assim como as áreas e o número de unidades funcionais, devem respeitar o especificado nos quadros integrados na planta de implantação.
+
+4.4 - As caves para estacionamento não serão tidas em conta na área de construção máxima dos lotes, podendo estas ser exclusivamente admitidas nos lotes de gaveto n.os 100, 106, 108, 109, 111, 116, 118, 119, 121, 126, 128, 129, 135 e 137, com a rampa de acesso sempre a partir dos impasses adjacentes.
+
+5 - Edifícios de habitação colectiva e comércio:
+
+Dos lotes n.os 112 a 115, 122 a 125 e 138 a 152:
+
+5.1 - Neste grupo estão incluídos dois subgrupos no respeitante à obrigatoriedade de constituição de unidades morfológicas diferenciadas.
+
+Assim o primeiro subgrupo, constituído pelos lotes n.os 112 a 115 e 122 a 125, constitui o cenário da praça central proposta e será caracterizado, para além da sua linguagem arquitectónica própria, por uma tipologia definida por galeria pública a nível do piso térreo enunciada nas plantas de implantação e de trabalho.
+
+As empenas dos lotes de gaveto serão devidamente tratadas, através da introdução de vãos ou de soluções volumétricas.
+
+O número de pisos será de quatro, devendo respeitar as áreas máximas de implantação e construção definidas em quadro anexo à planta de implantação.
+
+Admite-se e considera-se de interesse para a dinamização do espaço público em questão uma ocupação preferencial de escritórios/serviços a nível do 1.º andar, formalizando, neste caso, uma galeria de pé-direito duplo, desde que a solução seja preconizada para a totalidade dos lotes deste subgrupo.
+
+O segundo subgrupo é constituído pelos lotes n.os 138 a 152 e deverá constituir de igual modo uma unidade morfológica, definindo um quarteirão autónomo com aproveitamento do seu interior para «estar público» directamente ligado com as funções totalmente comerciais do piso térreo.
+
+O número de pisos definido é de três, sendo os edifícios de gaveto pontuados com a cércea de quatro.
+
+As áreas de implantação e de construção deverão respeitar o quadro anexo da planta de implantação, devendo os lotes n.os 142 e 149 ser vazados parcialmente a nível do piso térreo de modo a implantar as rampas de entrada e saída dos veículos da cave total de estacionamento a propor a nível do quarteirão.
+
+De igual modo os lotes n.os 138 e 146 deverão ser vazados parcialmente a nível do piso térreo, de acordo com as áreas máximas de implantação definidas em quadro anexo na planta de implantação, permitindo acessos públicos pedonais e acesso de veículos de bombeiros ao interior do quarteirão.
+
+O espaço público interior do quarteirão deverá ser devidamente pavimentado e arborizado, devendo as fachadas posteriores dos pisos comerciais, assim como as dos restantes, observar regras de composição esteticamente dignificantes do local de «estar público» que se pretende implementar.
+
+6 - Lotes de habitação colectiva com logradouro:
+
+Dos lotes n.os 169 a 172, inclusive:
+
+6.1 - Os lotes n.os 169, 170 e 171 estavam já definidos, através do alvará de loteamento n.º 5/82, relativamente às suas áreas de construção, áreas de implantação e número de pisos.
+
+O presente plano de pormenor acrescenta na sua proposta o lote n.º 172 como remate da frente do quarteirão à Rua de 25 de Abril, só possível de implantação após a futura demolição das construções degradadas do Bairro de São Vicente de Paulo.
+
+Nos lotes n.os 170 e 171 serão implantados edifícios de habitação colectiva de três pisos com um logradouro comum com a profundidade mínima de 6 m, complementado com garagens privadas com acesso pelo interior do quarteirão.
+
+O interior do quarteirão deverá ser pavimentado e arborizado conforme especificação do alvará de loteamento.
+
+7 - Considerações finais. - Nas unidades comerciais não é permitida a instalação de actividades que possam causar poluição do ambiente ou sonora ou quaisquer actividades que pelo seu uso ou função desqualifiquem a área residencial.
+
+Em todas as questões não referidas neste Regulamento deverão ser respeitados os regulamentos dos Planos de Urbanização e Director Municipal eficazes, para além do Regulamento Geral das Edificações Urbanas (RGEU) e do Regulamento Municipal de Edificações para o Concelho de Almeirim (RMEUCA).
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/263b00/40154018.pdf))](https://files.diariodarepublica.pt/1s/1996/11/263b00/40154018.pdf)

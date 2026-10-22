@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:376431:por
+title: Resolução do Conselho de Ministros n.º 5/91
+short_title: null
+summary: Autoriza a emissão do empréstimo interno «Obrigações do Tesouro - FIP-1991»
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 5/91
+official_date: null
+publication_date: '1991-02-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 27/1991, 1º Suplemento, Série I-B de 1991-02-01
+  number: '27'
+  series: I
+  supplement: 1º Suplemento
+  pages: 528-(4) a 528-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/02/027b01/00040005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/5/1991/02/01/p/dre/pt/html
+  oj: null
+  dre: '376431'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/5-1991-376431
+  internal: pt:dre:376431:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-1991-376431
+  metadata_url: https://data.dre.pt/eli/resolconsmin/5/1991/02/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-1991-376431
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-02-01T00:00:00Z'
+integrity:
+  source_sha256: c7833910788195f051e6e00cc8f7dd0b19eb2f260d249b69216d20b4ca32a0a6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-5-376431.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Dívida Pública
+- Emissão de Títulos
+- Empréstimo Obrigacionista
+- Obrigações do Tesouro
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 5/91
+
+A [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, autoriza o Governo, nos termos da alínea i) do artigo 164.º da Constituição, a contrair empréstimos internos até perfazer um acréscimo de endividamento global directo de 673,7 milhões de contos, para fazer face às necessidades decorrentes da execução do Orçamento do Estado, dos serviços autónomos e dos fundos autónomos e ainda a outras operações que envolvam a redução ou a substituição da dívida pública.
+
+A presente resolução vem estabelecer as condições em que será emitido o empréstimo interno denominado «Obrigações do Tesouro - FIP, 1991».
+
+Trata-se de um financiamento com recurso directo ao mercado de capitais, sendo a taxa de juro definida por despacho do Ministro das Finanças, atendendo à conjuntura do mercado. O pagamento de juros será semestral e a amortização do empréstimo será efectuada de uma só vez e em diferentes anos.
+
+Assim:
+
+Nos termos das alíneas c) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu o seguinte:
+
+1 - Para financiamento do défice orçamental, com recurso ao mercado de capitais, serão emitidos empréstimos internos, amortizáveis, denominados «Obrigações do Tesouro - FIP - 1991-1997, FIP - 1991-1998, FIP - 1991-1999 e FIP - 1991-2000».
+
+2 - Os empréstimos, cujo serviço é confiado à Junta do Crédito Público, corresponderão a obrigações com o valor nominal de 10000$00 cada uma, até à quantia máxima de 800 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral pela totalidade dos empréstimos.
+
+3 - Por despacho do Ministro das Finanças poderão ser anulados os montantes não colocados destes empréstimos e aumentados, no mesmo valor, os montantes de outros empréstimos autorizados, sendo, neste caso, feitas as respectivas alterações aos limites das correspondentes obrigações gerais.
+
+4 - A colocação e a subsequente movimentação das obrigações destes empréstimos efectuam-se por forma escritural entre contas-títulos.
+
+5 - As contas referidas no número anterior poderão ser individuais ou colectivas.
+
+6 - A colocação dos empréstimos poderá ser feita em séries, sendo as datas de início e encerramento das emissões e de início da contagem de juros de cada série divulgadas pela Junta do Crédito Público.
+
+7 - Os empréstimos serão colocados pela Junta do Crédito Público junto das instituições de crédito ou de outras instituições que para o efeito estejam autorizadas, em cujos balcões decorrerão as subscrições.
+
+8 - Os juros das obrigações serão pagáveis semestralmente, em 1 de Fevereiro e em 1 de Agosto de cada ano, sendo os primeiros juros das subscrições efectuadas até 30 de Junho pagos em 1 de Agosto de 1991 e das efectuadas a partir de 1 de Julho pagos em 1 de Fevereiro de 1992.
+
+9 - As taxas de juro aplicáveis em cada semestre serão referidas a um indexante a definir, ao qual acrescerá uma margem a determinar pelas condições do mercado.
+
+10 - As condições dos empréstimos não poderão exceder as correntes no mercado para empréstimos de prazo e risco semelhantes.
+
+11 - O indexante referido no n.º 9, o processo de determinação da margem e, bem assim, a taxa de juro a vigorar no primeiro período de contagem de juros serão definidos por despacho do Ministro das Finanças, que terá a faculdade de delegar no Secretário de Estado do Tesouro.
+
+12 - As amortizações dos empréstimos ocorrerão em 1 de Fevereiro dos anos de 1997, 1998 e 1999 e em 1 de Agosto de 2000.
+
+13 - A partir de 1 de Fevereiro de 1996 os empréstimos poderão ser objecto de amortização antecipada, total ou parcial, a qual será determinada por despacho do Ministro das Finanças, contemplando um pré-aviso de um semestre.
+
+14 - A importância total das subscrições feitas por intermédio das instituições tomadoras será entregue de acordo com calendário a definir pela Junta do Crédito Público.
+
+15 - As importâncias referidas no número anterior serão transferidas pela Junta do Crédito Público para o Tesouro nos três dias úteis seguintes.
+
+16 - Os empréstimos podem também destinar-se às finalidades previstas nos artigos 9.º e 10.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro.
+
+17 - No Orçamento do Estado serão inscritas as verbas indispensáveis para acorrer aos encargos dos empréstimos regulados por esta resolução.
+
+18 - A presente resolução entra em vigor no dia imediato ao da sua publicação.
+
+Presidência do Conselho de Ministros, 31 de Janeiro de 1991. - O Primeiro-Ministro, Aníbal António Cavaco Silva.

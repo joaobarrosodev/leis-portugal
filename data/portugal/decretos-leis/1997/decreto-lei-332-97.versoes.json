@@ -1,0 +1,267 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:406493:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-34490775",
+ "dre_path": "/dr/detalhe/decreto-lei/332-1997-406493",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-11-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "49614975",
+    "49615075",
+    "49615175",
+    "49615275",
+    "49615375",
+    "49615475",
+    "49615575",
+    "49615675",
+    "49615775",
+    "49615875",
+    "49615975",
+    "49616075"
+   ]
+  },
+  {
+   "date": "2006-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:357349:por",
+     "title": "Lei n.º 24/2006",
+     "published": "2006-06-30",
+     "dre_path": "/dr/detalhe/lei/24-2006-357349"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "49614975",
+    "49615075",
+    "49615175",
+    "49615275",
+    "49615375",
+    "49615475",
+    "49615575",
+    "62012867",
+    "49615775",
+    "49615875",
+    "49615975",
+    "49616075",
+    "49616175"
+   ]
+  },
+  {
+   "date": "2008-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:246532:por",
+     "title": "Lei n.º 16/2008",
+     "published": "2008-04-01",
+     "dre_path": "/dr/detalhe/lei/16-2008-246532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "49614975",
+    "49615075",
+    "49615175",
+    "62017638",
+    "49615375",
+    "49615475",
+    "62017639",
+    "62012867",
+    "49615775",
+    "49615875",
+    "49615975",
+    "49616075",
+    "49616175"
+   ]
+  },
+  {
+   "date": "2019-10-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124417105:por",
+     "title": "Lei n.º 92/2019",
+     "published": "2019-09-04",
+     "dre_path": "/dr/detalhe/lei/92-2019-124417105"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "49614975",
+    "49615075",
+    "49615175",
+    "62017638",
+    "49615375",
+    "49615475",
+    "124445310",
+    "62012867",
+    "49615775",
+    "49615875",
+    "49615975",
+    "49616075",
+    "49616175"
+   ]
+  }
+ ],
+ "fragments": {
+  "49614975": {
+   "fragment_id": "35110575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O presente diploma opera a transposição para a ordem portuguesa da Directiva comunitária n.º <a href=\"eurlex.asp?ano=1992&id=392L0100\" title=\"Link para Directiva da Comunidade Europeia\">92/100/CEE</a>, do Conselho, de 19 de Novembro de 1992, relativa ao direito de aluguer, ao direito de comodato e a certos direitos conexos ao direito de autor. No sentido de tornar certo e claro o regime jurídico do direito de autor, optou-se, na medida do possível, por introduzir a matéria da directiva comunitária nos preceitos e lugares próprios do Código do Direito de Autor e dos Direitos Conexos. Evitou-se a introdução de alterações profundas no corpo dos normativos do Código, por se entender que a revisão deste, se bem que necessária, representa um trabalho a realizar num horizonte de tempo mais longo. O presente diploma introduz o direito de comodato aplicável às obras protegidas pelo direito de autor, mas o seu acolhimento na ordem jurídica portuguesa é feito dentro dos limites admitidos na legislação comunitária e no respeito pela específica situação cultural e de desenvolvimento do País e das medidas e orientações de política cultural daí decorrentes.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela alínea a) do artigo 2.º da Lei n.º 99/97, de 3 de Setembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "49615075": {
+   "fragment_id": "35923775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna o disposto na Directiva n.º <a href=\"eurlex.asp?ano=1992&id=392L0100\" title=\"Link para Directiva da Comunidade Europeia\">92/100/CEE</a>, do Conselho, de 19 de Novembro de 1992, relativa ao direito de aluguer, ao direito de comodato e a certos direitos conexos ao direito de autor em matéria de propriedade intelectual."
+  },
+  "49615175": {
+   "fragment_id": "35923875",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração\n\nA alínea f) do n.º 2 do artigo 68.º do Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de Março, e alterado pelas Leis n.os 45/85, de 17 de Setembro, e 114/91, de 3 de Setembro, adiante designado por Código, passa a ter a seguinte redacção:\n\n«f) Qualquer forma de distribuição do original ou de cópias da obra, tal como venda, aluguer ou comodato.»"
+  },
+  "49615275": {
+   "fragment_id": "35923975",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara os efeitos do disposto na alínea f) do n.º 2 do artigo 68.º do Código, entende-se por:\n\na) «Venda», o acto de colocar à disposição do público, para utilização, o original ou cópias da obra, sem limite de tempo e com benefícios comerciais directos ou indirectos;\n\nb) «Aluguer», o acto de colocar à disposição do público, para utilização, o original ou cópias da obra, durante um período de tempo limitado e com benefícios comerciais directos ou indirectos;\n\nc) «Comodato», o acto de colocar à disposição do público, para utilização, o original ou cópias da obra, durante um período de tempo limitado e sem benefícios económicos ou comerciais directos ou indirectos, quando efectuado através de estabelecimento acessível ao público."
+  },
+  "49615375": {
+   "fragment_id": "35924075",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição comum ao aluguer e comodato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposição comum ao aluguer e comodato\n\n1 - Os direitos de aluguer e de comodato não se esgotam com a venda ou qualquer outro acto de distribuição do original ou de cópias da obra.\n\n2 - As obras de arquitectura e de artes aplicadas não são objecto dos direitos de aluguer e de comodato."
+  },
+  "49615475": {
+   "fragment_id": "35924175",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito de aluguer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito de aluguer\n\n1 - Sempre que o autor transmita ou ceda o direito de aluguer relativo a um fonograma, videograma ou ao original ou cópia de um filme a um produtor de fonogramas ou de filmes, é-lhe reconhecido um direito irrenunciável a remuneração equitativa pelo aluguer.\n\n2 - Para os efeitos do disposto no número anterior, o produtor é responsável pelo pagamento da remuneração, a qual, na falta de acordo, será fixada por via arbitral, nos termos da lei."
+  },
+  "49615575": {
+   "fragment_id": "35924275",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito de comodato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito de comodato\n\n1 - O autor tem direito a remuneração no caso de comodato público do original ou de cópias da obra.\n\n2 - O proprietário do estabelecimento que coloca à disposição do público o original ou as cópias da obra é responsável pelo pagamento da remuneração, a qual, na falta de acordo, será fixada por via arbitral, nos termos da lei.\n\n3 - O disposto neste artigo não se aplica às bibliotecas públicas, escolares, universitárias, museus, arquivos públicos, fundações públicas e instituições privadas sem fins lucrativos."
+  },
+  "49615675": {
+   "fragment_id": "35924375",
+   "type": 11,
+   "heading": "Artigo 7.º — Extensão aos titulares de direitos conexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Extensão aos titulares de direitos conexos\n\n1 - O direito de distribuição, incluindo os direitos de aluguer e comodato, é igualmente reconhecido:\n\na) Ao artista intérprete ou executante, no que respeita à fixação da sua prestação;\n\nb) Ao produtor de fonogramas ou videogramas, no que respeita aos seus fonogramas e videogramas;\n\nc) Ao produtor das primeiras fixações de um filme, no que respeita ao original e às cópias desse filme.\n\n2 - Os direitos previstos no número anterior não se esgotam com a venda ou qualquer outro acto de distribuição dos objectos referidos.\n\n3 - Para além do disposto nos números anteriores, é ainda reconhecido ao produtor das primeiras fixações de um filme o direito de autorizar a reprodução do original e das cópias desse filme.\n\n4 - Para os efeitos do disposto no presente diploma, entende-se por «filme» a obra cinematográfica, a obra audiovisual e toda e qualquer sequência de imagens animadas, acompanhadas ou não de sons."
+  },
+  "49615775": {
+   "fragment_id": "35924475",
+   "type": 11,
+   "heading": "Artigo 8.º — Presunção de cessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presunção de cessão\n\nA celebração de um contrato de produção de filme entre artistas intérpretes ou executantes e o produtor faz presumir, salvo disposição em contrário, a cessão em benefício deste do direito de aluguer do artista, sem prejuízo do direito irrenunciável a uma remuneração equitativa pelo aluguer, nos termos do n.º 2 do artigo 5.º"
+  },
+  "49615875": {
+   "fragment_id": "35924575",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração\n\nO artigo 187.º do Código passa a ter a seguinte redacção:\n\n«1 - Os organismos de radiodifusão gozam do direito de autorizar ou proibir:\n\na) A retransmissão das suas emissões por ondas radioeléctricas;\n\nb) A fixação em suporte material das suas emissões, sejam elas efectuadas com ou sem fio;\n\nc) A reprodução da fixação das suas emissões, quando estas não tiverem sido autorizadas ou quando se tratar de fixação efémera e a reprodução visar fins diversos daqueles com que foi feita;\n\nd) A comunicação ao público das suas emissões, quando essa comunicação é feita em lugar público e com entradas pagas.\n\n2 - Ao distribuidor por cabo que se limita a efectuar a retransmissão de emissões de organismos de radiodifusão não se aplicam os direitos previstos neste artigo.»"
+  },
+  "49615975": {
+   "fragment_id": "35924675",
+   "type": 11,
+   "heading": "Artigo 10.º — Ressalva dos direitos dos autores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ressalva dos direitos dos autores\n\nA protecção dos direitos conexos ao abrigo deste diploma não afecta nem prejudica a protecção dos direitos de autor."
+  },
+  "49616075": {
+   "fragment_id": "35924775",
+   "type": 11,
+   "heading": "Artigo 11.º — Âmbito de aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Âmbito de aplicação no tempo\n\n1 - O presente diploma produz efeitos desde 1 de Julho de 1994, sem prejuízo dos actos de exploração e dos contratos anteriores a esta data.\n\n2 - Em relação aos contratos referidos na parte final do número anterior, o direito a uma remuneração equitativa, prevista no n.º 1 do artigo 5.º e no artigo 8.º, só será aplicável se os autores ou os artistas intérpretes ou executantes, por si ou através dos seus representantes, o exercerem até 1 de Janeiro de 1999."
+  },
+  "62012867": {
+   "fragment_id": "35924375",
+   "type": 11,
+   "heading": "Artigo 7.º — Extensão aos titulares de direitos conexos",
+   "in_force_from": "2006-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 24/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/24-2006-357349), em vigor a partir de 2006-07-05"
+   ],
+   "markdown": "###### Artigo 7.º — Extensão aos titulares de direitos conexos\n\n1 - O direito de distribuição, incluindo os direitos de aluguer e comodato, é igualmente reconhecido:\n\na) Ao artista intérprete ou executante, no que respeita à fixação da sua prestação;\n\nb) Ao produtor de fonogramas, no que respeita aos seus fonogramas;\n\nc) Ao produtor das primeiras fixações de um filme, no que respeita ao original e às cópias desse filme.\n\n2 - Os direitos previstos no número anterior não se esgotam com a venda ou qualquer outro acto de distribuição dos objectos referidos.\n\n3 - Para além do disposto nos números anteriores, é ainda reconhecido ao produtor das primeiras fixações de um filme o direito de autorizar a reprodução do original e das cópias desse filme.\n\n4 - Para os efeitos do disposto no presente diploma, entende-se por «filme» a obra cinematográfica, a obra audiovisual e toda e qualquer sequência de imagens animadas, acompanhadas ou não de sons.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/24-2006-357349), em vigor a partir de 2006-07-05"
+  },
+  "49616175": {
+   "fragment_id": "35924875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Maria Manuela de Brito Arcanjo Marques da Costa - José Eduardo Vera Cruz Jardim - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.\n\nPromulgado em 13 de Novembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 17 de Novembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "62017638": {
+   "fragment_id": "35923975",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2008-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06"
+   ],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos do disposto na alínea f) do n.º 2 do artigo 68.º do Código entende-se por:\n\na) «Venda», o acto de colocar à disposição do público, para utilização, o original ou cópias da obra, sem limite de tempo e com benefícios comerciais directos ou indirectos;\n\nb) «Aluguer», o acto de colocar à disposição do público, para utilização, o original ou cópias da obra, durante um período de tempo limitado e com benefícios comerciais directos ou indirectos;\n\nc) \"Comodato\", o acto de colocar à disposição do público, para utilização, o original ou cópias da obra, durante um período de tempo limitado e sem benefícios económicos ou comerciais directos ou indirectos, quando efectuado através de estabelecimento acessível ao público, à excepção do empréstimo interbibliotecas, da consulta presencial de documentos no estabelecimento e da transmissão de obras em rede.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06"
+  },
+  "62017639": {
+   "fragment_id": "35924275",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito de comodato",
+   "in_force_from": "2008-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06"
+   ],
+   "markdown": "###### Artigo 6.º — Direito de comodato\n\n1 - O autor tem direito a remuneração no caso de comodato público do original ou de cópias da obra.\n\n2 - O proprietário do estabelecimento que coloca à disposição do público o original ou as cópias da obra é responsável pelo pagamento da remuneração, a qual, na falta de acordo, será fixada por via arbitral, nos termos da lei.\n\n3 - O disposto neste artigo não se aplica às bibliotecas públicas da Administração Central, Regional e Local, escolares e universitárias.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06"
+  },
+  "124445310": {
+   "fragment_id": "35924275",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito de comodato",
+   "in_force_from": "2019-10-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06"
+   ],
+   "markdown": "###### Artigo 6.º — Direito de comodato\n\n1 - O autor tem direito a remuneração no caso de comodato público do original ou de cópias da obra.\n\n2 - O proprietário do estabelecimento que coloca à disposição do público o original ou as cópias da obra é responsável pelo pagamento da remuneração, a qual, na falta de acordo, será fixada por via arbitral, nos termos da lei.\n\n3 - O disposto neste artigo não se aplica às bibliotecas públicas da Administração Central, Regional e Local, escolares e universitárias.\n\n4 - É aplicável ao comodato, com as necessárias adaptações, o disposto no artigo 82.º-B do Código de Direito de Autor e dos Direitos Conexos.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06"
+  }
+ }
+}

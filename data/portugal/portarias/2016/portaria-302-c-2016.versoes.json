@@ -1,0 +1,91 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105300340:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-902785165",
+ "dre_path": "/dr/detalhe/portaria/302-c-2016-105300340",
+ "source_lastmod": "2025-01-08",
+ "versions": [
+  {
+   "date": "2016-12-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "902787718",
+    "902787719",
+    "902787720",
+    "902787721",
+    "902787722",
+    "902787723",
+    "902787725",
+    "902787726"
+   ]
+  }
+ ],
+ "fragments": {
+  "902787718": {
+   "fragment_id": "902785166",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 302-C/2016\n\nde 2 de dezembro\n\nO Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, que transpôs para o ordenamento jurídico nacional a Diretiva 2014/107/UE, consagrou as normas jurídicas para a implementação da Norma Comum de Comunicação, instituiu o Regime de acesso automático a informações financeiras relativas a residentes e introduziu alterações ao Decreto-Lei n.º 61/2013, de 10 de maio, veio estabelecer as obrigações das instituições financeiras em matéria de identificação de determinadas contas e de comunicação de informações à Autoridade Tributária e Aduaneira (AT).\n\nPretende-se com este normativo o estabelecimento de um mecanismo geral de acesso e troca automática de informações financeiras no domínio da fiscalidade e a garantia de uma cooperação administrativa mútua mais ampla, quer com outros Estados-membros da União Europeia, quer com outras jurisdições participantes com as quais Portugal deva efetuar troca automática de informações de contas financeiras no âmbito do Acordo Multilateral das Autoridades Competentes para a Troca Automática de Informações de Contas Financeiras, celebrado ao abrigo da Convenção sobre Assistência Mútua em Matéria Fiscal conforme alterada pelo Protocolo de Alteração à Convenção sobre Assistência Mútua em Matéria Fiscal.\n\nNos termos da alínea a) do n.º 3 do artigo 20.º do Decreto-Lei n.º 61/2013, de 10 de maio, as instituições financeiras reportantes estão obrigadas a comunicar à AT as informações de cada conta sujeita a comunicação por elas mantida, nos termos previstos no artigo 1.º do anexo a que se refere o artigo 7.º-A do referido Decreto-Lei, até:\n\na) Ao dia 31 de julho de 2017, no que respeita às informações relativas ao período de tributação a partir de 1 de janeiro de 2016, respeitantes a residentes noutros Estados-membros, bem como noutras jurisdições fora da União Europeia que devam, por força de convenção ou outro instrumento jurídico internacional, prestar as informações especificadas na Norma Comum de Comunicação a partir da mesma data;\n\nb) Ao dia 31 de julho de 2018 e dos anos subsequentes, no que diz a períodos de tributação a partir de 1 de janeiro de 2017 e dos anos subsequentes, no que respeita às demais jurisdições participantes não abrangidas pela alínea anterior.\n\nPor sua vez, os n.os 4 e 5 do artigo 18.º do Decreto-Lei n.º 61/2013, de 10 de maio, vieram estabelecer que as comunicações previstas na alínea a), do n.º 3 do artigo 20.º do Decreto-Lei n.º 61/2013, de 10 de maio, são efetuadas utilizando formatos eletrónicos normalizados cujo conteúdo e estrutura, e também as condições para a respetiva submissão por via eletrónica, são definidos por portaria do membro do Governo responsável pela área das Finanças.\n\nNeste contexto, a presente portaria tem como objetivo aprovar a estrutura e conteúdo do ficheiro a utilizar para efeitos do cumprimento das obrigações de comunicação previstas na alínea a) do n.º 3 do artigo 20.º do Decreto-Lei n.º 61/2013, de 10 de maio.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no n.º 5 do artigo 18.º do Decreto-Lei n.º 61/2013, de 10 de maio:"
+  },
+  "902787719": {
+   "fragment_id": "902785167",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula a estrutura e conteúdo do ficheiro a utilizar para efeitos do cumprimento das obrigações de comunicação previstas na alínea a) do n.º 3 do artigo 20.º do Decreto-Lei n.º 61/2013, de 10 de maio."
+  },
+  "902787720": {
+   "fragment_id": "902785168",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades abrangidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades abrangidas\n\nEstão abrangidas pelas obrigações previstas nos artigos seguintes as entidades referidas no n.º 1 do artigo 4.º-A do Decreto-Lei n.º 61/2013, de 10 de maio, com as exceções previstas no artigo 4.º-B do mesmo diploma, adiante designadas «instituições financeiras reportantes»."
+  },
+  "902787721": {
+   "fragment_id": "902785169",
+   "type": 11,
+   "heading": "Artigo 3.º — Informação a comunicar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Informação a comunicar\n\n1 - As instituições financeiras reportantes devem, nos prazos previstos na alínea a) do n.º 3 do artigo 20.º do Decreto-Lei n.º 61/2013, de 10 de maio, comunicar à Autoridade Tributária e Aduaneira (AT), relativamente a cada uma das contas referidas no n.º 1 do artigo 4.º-C, e sujeitas a comunicação de acordo com o n.º 1 do artigo 4.º-G, ambos do Decreto-Lei n.º 61/2013, de 10 de maio, com as exceções previstas no artigo 4.º-E, do mesmo diploma, os seguintes elementos:\n\na) Nome, endereço e número de identificação fiscal de cada pessoa sujeita a comunicação que seja titular da conta;\n\nb) O número da conta ou, na sua ausência, o equivalente funcional;\n\nc) O nome e número identificador da instituição financeira reportante;\n\nd) O saldo ou o valor da conta, incluindo, no caso de contratos de seguro monetizáveis ou de contratos de renda, o valor em numerário ou o valor do resgate no final de cada ano civil em causa ou, caso a conta tenha sido encerrada no decurso desse ano, o seu encerramento;\n\n2 - Sem prejuízo do disposto no número anterior:\n\na) No caso do titular da conta ser pessoa singular deve ainda ser comunicada a data e o local do respetivo nascimento;\n\nb) No caso do titular da conta ser uma entidade e que, na sequência da aplicação das regras de diligência devida previstas no anexo a que se refere o artigo 7.º-A do Decreto-Lei n.º 61/2013, de 10 de maio, se verifique que uma ou mais pessoas exercem o controlo e sejam pessoas sujeitas a comunicação, deve ainda ser\n\nc) Comunicado o nome, endereço e número de identificação fiscal da entidade e o nome, endereço, número de identificação fiscal e data e local de nascimento da cada pessoa sujeita a comunicação.\n\n3 - Para além dos elementos identificados nos números anteriores, deve ainda ser comunicada a seguinte informação:\n\na) Tratando-se de contas de custódia e relativamente a cada uma delas:\n\ni) O montante bruto total de juros, o montante bruto total de dividendos e o montante bruto total de outros rendimentos gerados pelos ativos detidos na conta que sejam, em qualquer dos casos, pagos ou creditados na conta, ou relativos a essa conta, durante o ano civil relevante; e\n\nii) A totalidade da receita bruta da alienação ou resgate dos ativos paga ou creditada na conta durante o ano civil relevante e por referência ao qual a instituição financeira atuou na qualidade de custodiante, corretor, mandatário ou como representante por qualquer outra forma do titular da conta;\n\nb) Em relação a cada conta de depósito, o montante bruto total dos juros pagos ou creditados na conta durante o ano civil relevante;\n\nc) Em relação a qualquer outra conta não descrita nas alíneas anteriores, o montante bruto total pago ou creditado ao titular da conta relativamente à mesma, durante o ano civil relevante, em relação ao qual a instituição financeira seja o obrigado ou o devedor, incluindo o montante agregado de todos os pagamentos de reembolso efetuados ao titular da conta durante esse ano.\n\n4 - Para efeitos do disposto nos números anteriores, o montante e a caracterização dos pagamentos efetuados em relação a uma conta sujeita a comunicação são determinados em conformidade com o disposto na legislação nacional."
+  },
+  "902787722": {
+   "fragment_id": "902785170",
+   "type": 11,
+   "heading": "Artigo 4.º — Forma de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Forma de comunicação\n\n1 - A comunicação à AT das informações abrangidas pelas obrigações de comunicação previstas no artigo anterior é efetuada através, de um ficheiro com o formato XML, com as características e estrutura disponibilizada no sítio da Internet com o endereço http://www.portaldasfinancas.gov.pt, e cuja estrutura consta do Anexo à presente portaria, da qual faz parte integrante.\n\n2 - O ficheiro referido no número anterior deve respeitar o esquema de validações «CRSxml-Schema», disponível no endereço http://www.portaldasfinancas.gov.pt.\n\n3 - As instituições financeiras reportantes que no final de cada período de reporte não tenham informações abrangidas pela obrigação de comunicação a que se refere o artigo anterior devem comunicar esse facto à AT, mediante o envio do ficheiro previsto nos números anteriores, sem o preenchimento dos campos relativos a contas e titulares, através do referido endereço, no prazo previsto no n.º 1 do mesmo artigo."
+  },
+  "902787723": {
+   "fragment_id": "902785171",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "902787725": {
+   "fragment_id": "902785173",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nO ficheiro a enviar à AT, a que se refere o artigo 4.º da presente portaria, para cumprimento do disposto no artigo 3.º, deve conter a seguinte informação:\n\nUm cabeçalho contendo:\n\n1 - Identificação da Entidade que envia a mensagem;\n\n- Identificação do país que envia a mensagem («PT»);\n\n- Identificação do país que recebe a mensagem (Código do País - ISO 3166-1 Alpha 2 standard);\n\n- Identificação do tipo de mensagem («CRS»);\n\n- Campo para observações;\n\n- Identificação da mensagem (valor único, que permitirá referenciar esta mensagem mais tarde, em caso de necessidade);\n\n- Identificação de mensagem corretiva/alterada/nada a reportar;\n\n- Identificação do ano a que a mensagem diz respeito (no formato AAAA-MM-DD);\n\n- Data/hora em que a mensagem foi elaborada (no formato YYYY-MM-DD'T'hh:mm:ss)\n\n2 - Identificação de um titular de conta que seja pessoa singular:\n\n- País de residência\n\n- Número de identificação Fiscal (NIF);\n\n- Nome;\n\n- Morada;\n\n- Nacionalidade;\n\n- Data de nascimento (no formato AAAA-MM-DD);\n\n- Local de nascimento\n\n3 - Identificação de um titular de conta que seja entidade:\n\n- País de residência\n\n- Número de identificação Fiscal (NIF);\n\n- Nome;\n\n- Morada;\n\n4 - Detalhe da informação da instituição financeira reportante e da conta financeira.\n\n- Identificação do NIF da instituição financeira reportante\n\n- Informação acerca de quem envia a informação (a própria Instituição financeira reportante).\n\n- Identificador da mensagem (dados novos/corrigidos/alterados/anulados);\n\n- Informação acerca das contas:\n\n. Número da conta;\n\n. Tipo de titular da conta financeira (pessoa singular ou entidade);\n\n. Tipo de entidade titular da conta financeira;\n\n. Identificação dos titulares da conta financeira que sejam pessoas singulares sujeitas a comunicação que detenham o controlo da entidade (no caso de ser ENF passiva);\n\n. Saldo ou valor das contas financeiras sujeitas a comunicação;\n\n. Moeda na qual é denominado o montante do saldo ou valor das contas financeira sujeitas a comunicação (standard ISO 4217 Alpha 3)"
+  },
+  "902787726": {
+   "fragment_id": "902785174",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nO ficheiro a enviar à AT, a que se refere o artigo 4.º da presente portaria, para cumprimento do disposto no artigo 3.º, deve conter a seguinte informação:\n\n1 - Cabeçalho (Header)\n\n(ver documento original)\n\n2 - Titular de Conta - Pessoas Singulares\n\n2.1 - Identificação do titular de Conta que seja Pessoa Singular (PersonParty_Type)\n\n(ver documento original)\n\n2.2 - Identificação do Tipo de NIF (TIN Type)\n\n(ver documento original)\n\n2.3 - Código do País de Residência (ResCountryCode)\n\n(ver documento original)\n\n2.4 - Tipo de Nome de Singular (NamePerson_Type)\n\n(ver documento original)\n\n2.5 - Tipo de Morada (Address_Type)\n\n(ver documento original)\n\n2.6 - Nacionalidade (Nationality)\n\n(ver documento original)\n\n2.7 - Informação de Nascimento (BirthInfo)\n\n(ver documento original)\n\n3 - Titular da conta - Entidades (OrganisationParty_Type)\n\n3.1 - Identificação do titular da conta que seja Entidade (OrganisationParty_Type)\n\n(ver documento original)\n\n3.2 - Identificação do Tipo de NIF (TIN Type)\n\n(ver documento original)\n\n3.3 - Código do País de Residência (ResCountryCode)\n\n(ver documento original)\n\n3.4 - Nome da Entidade (NamePerson_Type)\n\n(ver documento original)\n\n4 - Instituição financeira reportante (Reporting FI)\n\n4.1 - Identificação da Instituição financeira reportante (Reporting FI)\n\n(ver documento original)\n\n4.2 - Detalhes da Informação enviada (ReportingGroup)\n\n(ver documento original)\n\n4.3 - Detalhes da Conta (AccountReport)\n\n(ver documento original)\n\n4.4 - Informação agregada (Pool Report)\n\nA informação agregada não é aplicável ao CRS."
+  }
+ }
+}

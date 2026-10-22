@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:321925:por
+title: Portaria n.º 1128/91
+short_title: null
+summary: Estabelece normas sobre a atribuição de prémio comunitário ao arranque de mandarineiras, tradicionalmente conhecidas
+  por tangerineiras, durante as campanhas de 1990-1991 a 1992-1993
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 1128/91
+official_date: null
+publication_date: '1991-10-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 251/1991, Série I-B de 1991-10-31
+  number: '251'
+  series: I
+  supplement: null
+  pages: 5612 - 5613
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/10/251b00/56125613.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1128/1991/10/31/p/dre/pt/html
+  oj: null
+  dre: '321925'
+  dre_path: /dr/detalhe/portaria/1128-1991-321925
+  internal: pt:dre:321925:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1128-1991-321925
+  metadata_url: https://data.dre.pt/eli/port/1128/1991/10/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1128-1991-321925
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-10-31T00:00:00Z'
+integrity:
+  source_sha256: 7b09076cd5c5949e68afa6631d3ee5b0960ccceff61593f9f211df088ac664e7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-1128-321925.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- CEE
+- Citrinos
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Política Agrícola Comum
+- Prémio ao Arranque de Pomares
+- Regulamento CE
+- Fruticultura
+relationships:
+- type: cites
+  target: celex:31990R1196
+  label: null
+  source: http://data.europa.eu/eli/reg/1990/1196/oj
+- type: cites
+  target: celex:31990R3029
+  label: null
+  source: http://data.europa.eu/eli/reg/1990/3029/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1128/91
+
+de 31 de Outubro
+
+Considerando que o Regulamento (CEE) n.º [1196/90](http://data.europa.eu/eli/reg/1990/1196/oj?locale=pt) do Conselho, de 7 de Maio, institui um prémio único ao arranque de mandarineiras, tradicionalmente conhecidas por tangerineiras;
+
+Considerando que o Regulamento (CEE) n.º [3029/90](http://data.europa.eu/eli/reg/1990/3029/oj?locale=pt) da Comissão, de 19 de Outubro, estabelece as normas de execução do regulamento acima citado;
+
+Considerando que importa definir as atribuições e competências, inerentes à prossecução dos objectivos fixados nos citados regulamentos comunitários, dos organismos e serviços do Ministério da Agricultura, Pescas e Alimentação e estabelecer os termos gerais e as condições de atribuição do prémio, bem como a definição das respectivas normas;
+
+Ao abrigo dos citados regulamentos comunitários:
+
+Manda o Governo, pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º Durante as campanhas de 1990-1991 a 1992-1993, os produtores de mandarinas beneficiam, a seu pedido e nas condições definidas na presente portaria, de um prémio único ao arranque de mandarineiras, aqui designado «prémio».
+
+2.º Entende-se por mandarineiras as árvores sãs que são susceptíveis de dar origem a uma produção normal de mandarinas.
+
+3.º O prémio só é concedido ao arranque de pomares de mandarineiras com uma superfície mínima igual ou superior a 0,10 ha.
+
+4.º A operação de arranque deve reportar-se a parcelas inteiras e, se assim for necessário a fim de satisfazer as disposições do n.º 1 do n.º 6.º da presente portaria, a uma parte contínua de uma parcela.
+
+5.º O montante do prémio é fixado em 4000 ECU por hectare, o qual é convertível para escudos mediante a aplicação da taxa de conversão agrícola em vigor no 1.º dia da campanha de comercialização, ou seja, a 1 de Outubro, no decurso da qual é solicitado o prémio.
+
+6.º A concessão do prémio fica subordinada ao compromisso escrito do beneficiário:
+
+1) De proceder ou mandar proceder ao arranque, de uma só vez, antes de 1 de Abril de cada ano civil das campanhas em que vigora este prémio:
+
+a) De todas as mandarineiras da sua exploração, se o pomar das mandarineiras dessa exploração abranger menos de 10 ha;
+
+b) De, pelo menos, metade das mandarineiras da sua exploração, se o pomar das mandarineiras dessa exploração abranger 10 ha ou mais;
+
+2) De renunciar a efectuar qualquer plantação de mandarineiras.
+
+7.º Os agricultores interessados na atribuição do prémio deverão apresentar o seu pedido de concessão do mesmo antes do início das operações de arranque, até 1 de Dezembro de 1992, nos serviços regionais de agricultura da área à qual pertence a exploração, local onde serão postos à sua disposição os modelos de impressos referidos no n.º 9.º da presente portaria.
+
+8.º O pedido referido no número anterior será acompanhado:
+
+a) Pelo compromisso escrito do requerente a renunciar, durante 15 anos, a proceder a qualquer plantação de mandarineiras nas superfícies objecto da operação de arranque e, na hipótese referida na alínea b) do n.º 6.º, a renunciar, durante o mesmo período, a aumentar as superfícies da sua exploração plantadas com mandarineiras que se mantiverem após a operação de arranque;
+
+b) Pela declaração de autorização de arranque, subscrita pelo proprietário das correspondentes parcelas, sempre que o requerente não seja o respectivo proprietário;
+
+c) Pelo compromisso escrito de impor ao novo empresário agrícola, como condição de venda ou de qualquer outro modo de transmissão, o respeito do compromisso de não replantação, compromisso este que produzirá efeitos relativamente a qualquer empresário agrícola ulterior durante o período referido na alínea a).
+
+9.º Os modelos de impresso que constituem o processo de candidatura serão fornecidos pelo Instituto Nacional de Intervenção e Garantia Agrícola (INGA).
+
+10.º Os pedidos de concessão do prémio serão entregues na direcção regional de agricultura da área da exploração, após o que a mesma procederá, através de visitas ao local, à verificação das informações neles contidas e remetê-los-á, devidamente fundamentados, ao INGA no prazo máximo de 30 dias.
+
+11.º O INGA decide do seu deferimento e notifica o interessado até 30 dias após o prazo indicado no número anterior, dando conhecimento à direcção regional respectiva da sua decisão.
+
+12.º A operação de arranque deve ser realizada nos três meses seguintes à notificação referida no número anterior, sem prejuízo da data limite constante do n.º 1 do n.º 6.º, devendo as árvores arrancadas ser destruídas.
+
+13.º O interessado comunicará à direcção regional de agricultura onde o pedido foi apresentado a data prevista para o arranque.
+
+14.º A direcção regional de agricultura verificará, através de visitas a todas as parcelas em causa, se o arranque foi efectuado em conformidade com o disposto na regulamentação comunitária e na presente portaria e certificará a época em que teve lugar, enviando ao INGA, no prazo de 10 dias, o relatório dessa verificação.
+
+15.º O pagamento do prémio é efectuado pelo INGA até dois meses após a verificação referida no número anterior.
+
+16.º A pedido do INGA e com uma periodicidade máxima de cinco anos, as direcções regionais efectuam visitas às explorações que beneficiaram do prémio, de modo a confirmarem o respeito dos compromissos referidos no n.º 8.º da presente portaria, enviando ao INGA os respectivos relatórios no prazo de 60 dias.
+
+17.º Sempre que se verificar incumprimento dos compromissos referidos no n.º 8.º desta portaria, o INGA procederá à recuperação do prémio pago, acrescido dos correspondentes juros à taxa legal em vigor, e imporá ao infractor o pagamento de um montante igual ao do prémio pago.
+
+Ministérios das Finanças e da Agricultura, Pescas Alimentação.
+
+**Assinada em 21 de Outubro de 1991.**
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.

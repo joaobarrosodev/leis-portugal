@@ -1,0 +1,186 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105746098:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-115326084",
+ "dre_path": "/dr/detalhe/portaria/19-2017-105746098",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115325074",
+    "115326175",
+    "115326176",
+    "115326177",
+    "115326178",
+    "115326179",
+    "115326180",
+    "115326181",
+    "115326182",
+    "115326183",
+    "115326184",
+    "115326186"
+   ]
+  },
+  {
+   "date": "2018-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115312061:por",
+     "title": "Decreto-Lei n.º 33/2018",
+     "published": "2018-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2018-115312061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "115325074",
+    "115326189",
+    "115326176",
+    "115326177",
+    "115326190",
+    "115326179",
+    "115326180",
+    "115326181",
+    "115326182",
+    "115326183",
+    "115326184",
+    "115326185",
+    "115326186"
+   ]
+  }
+ ],
+ "fragments": {
+  "115325074": {
+   "fragment_id": "115326085",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 19/2017\n\nde 11 de janeiro\n\nO artigo 18.º da Lei n.º 63/2007, de 6 de novembro, bem como o artigo 16.º da Lei n.º 53/2007, de 31 de agosto, preveem que, sem prejuízo do cumprimento das suas missões, a Guarda Nacional Republicana (GNR) e a Polícia de Segurança Pública (PSP) podem prestar colaboração a outras entidades públicas e privadas que a solicitem para a prestação de serviços, que não visem a segurança de pessoas e bens, mediante pedidos concretos que lhe sejam formulados, os quais serão sujeitos a decisão caso a caso.\n\nDetermina o n.º 3 do artigo 18.º e o n.º 4 do artigo 53.º da Lei n.º 63/2007, de 6 de novembro, bem como o n.º 3 do artigo 16.º e o n.º 2 do artigo 65.º da Lei n.º 53/2007, de 31 de agosto, que o pagamento daqueles serviços é regulado por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e das finanças.\n\nDecorre, ainda, do artigo 50.º e da alínea a) do n.º 1 do artigo 53.º da Lei n.º 63/2007, de 6 de novembro, e do artigo 63.º e da alínea b) do n.º 1 do artigo 65.º da Lei n.º 53/2007, de 31 de agosto, que a atividade da GNR e da PSP, respetivamente, pode implicar a aplicação de taxas e a cobrança de despesas a cargo de entidades que especialmente beneficiem com essa atividade, nos termos a regulamentar em diploma próprio.\n\nConstituem receitas próprias da GNR e da PSP as quantias cobradas por atividades ou serviços prestados, conforme resulta, respetivamente, da alínea b) do n.º 2 do artigo 48.º da Lei n.º 63/2007, de 6 de novembro, e da alínea b) do artigo 60.º da Lei n.º 53/2007, de 31 de agosto.\n\nO acréscimo substancial do número de pedidos de cedência de animais, equipamentos e infraestruturas das forças de segurança e de solicitações de prestação de serviços, para fins que não decorrem diretamente da missão policial, tem originado uma exigência acrescida na alocação de meios humanos e materiais e, consequentemente, a assunção, por parte da GNR e da PSP, de custos económicos significativos que fragilizam, por via do correspondente impacto orçamental, a capacidade de financiamento da sua atividade nuclear.\n\nAtendendo a esta realidade, impõe-se agora identificar um conjunto de atividades e de prestações de serviços, que embora acessoriamente relacionados com a missão e atribuições das forças de segurança, porque envolvem a utilização de recursos públicos, carecem de ser compensados pela perceção de receitas por parte da GNR e da PSP.\n\nAssim, estabelecem-se os valores a cobrar pelas forças de segurança como contrapartida da prestação de serviços e das atividades especialmente desenvolvidas em benefício das entidades requisitantes, considerando o princípio da proporcionalidade dos valores cobrados, indexando-os ao custo da atividade pública e ao benefício auferido pelos cidadãos e agentes económicos.\n\nOs valores, agora, fixados têm em consideração o empenhamento de recursos fora do âmbito da missão policial stricto sensu, tal como a cedência de equipamentos e infraestruturas em benefício de entidades externas.\n\nAssim,\n\nAo abrigo do disposto no n.º 3 do artigo 18.º, na alínea b) do n.º 2 do artigo 48.º, na alínea a) do n.º 1 do artigo 50.º e no n.º 4 do artigo 53.º, todos da Lei n.º 63/2007, de 6 de novembro, e do disposto no n.º 3 do artigo 16.º, na alínea b) do artigo 60.º, no artigo 63.º, na alínea b) do n.º 1 e no n.º 2 do artigo 65.º, todos da Lei n.º 53/2007, de 31 de agosto:\n\nManda o Governo, pelo Ministro das Finanças e pela Ministra da Administração Interna, o seguinte:"
+  },
+  "115326175": {
+   "fragment_id": "115326086",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados os valores devidos à Guarda Nacional Republicana (GNR) e à Polícia de Segurança Pública (PSP) pela prestação de serviços e de atividades especialmente desenvolvidas em benefício das entidades requisitantes, públicas ou privadas, os quais constam do Anexo à presente Portaria, da qual faz parte integrante."
+  },
+  "115326176": {
+   "fragment_id": "115326087",
+   "type": 11,
+   "heading": "Artigo 2.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autorização\n\nA prestação dos serviços previstos no Anexo fica sujeita a prévia autorização da força de segurança, podendo ser suspensa ou anulada em razão das necessidades da missão policial ou da alteração dos factos subjacentes à emissão da autorização."
+  },
+  "115326177": {
+   "fragment_id": "115326088",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nNos casos em que os valores previstos no anexo sejam fixados tendo como referência a hora, o dia ou o mês, qualquer fração inferior a essa medida corresponde, respetivamente, a uma hora, um dia ou um mês, o mesmo se aplicando às frações temporais subsequentes."
+  },
+  "115326178": {
+   "fragment_id": "115326089",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime Especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime Especial\n\n1 - Os valores previstos nos pontos 1.3.2, 1.3.4, 1.3.5, 1.3.6, 2.3.1, 2.3.2, 2.6.1, 2.6.2 e 2.6.3 do anexo são reduzidos em 50 % sempre que se trate de serviços requeridos por entidades públicas.\n\n2 - Os valores previstos nos pontos 2.8.1, 2.8.2 e 2.8.3 do anexo são reduzidos em 50 % sempre que a inscrição seja referente a filhos de funcionários civis, de agentes ou de militares das forças de segurança.\n\n3 - O valor previsto no ponto 2.9.1 do anexo é reduzido em 40 % sempre que se trate de serviços requeridos por militares da GNR.\n\n4 - O valor previsto no ponto 2.4.1 do anexo é reduzido em 50 % no caso de candidatura ao curso de formação de oficiais da PSP por candidato que pertença à carreira de agente ou chefe da PSP.\n\n5 - Os valores previstos nos pontos 1.3.7, 2.5.1, 2.5.2, 2.7.1 e 2.7.2 do anexo não são aplicáveis aos agentes e militares das forças de segurança, nas situações especialmente previstas em regulamentação especial, ou quando outro valor resulte de protocolos celebrados com entidades públicas ou privadas, nacionais ou estrangeiras.\n\n6 - Os valores relativos a perícias e exames forenses constam de regulamentação própria."
+  },
+  "115326179": {
+   "fragment_id": "115326090",
+   "type": 11,
+   "heading": "Artigo 5.º — Caução e seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Caução e seguro de responsabilidade civil\n\n1 - Nas prestações de serviços em que se verifique a cedência de infraestruturas, equipamentos e animais pode ser exigida a prestação de caução, de valor a regulamentar pela força de segurança, destinada a garantir a restituição dos bens, o respetivo valor, ou a reparação de eventuais deteriorações imputáveis ao cessionário, sem prejuízo do regime geral de responsabilidade civil.\n\n2 - A caução é prestada, nos termos gerais, por depósito em dinheiro, garantia bancária ou seguro-caução a favor do Comando-geral da GNR ou da Direção Nacional da PSP, consoante os casos.\n\n3 - A caução é reembolsada findo o período de cedência acordado ou, no caso em que a entidade cesse a atividade, desde que o bem cedido seja devolvido nas mesmas condições de conservação e funcionamento em que se encontrava.\n\n4 - A cedência de animais, armas e veículos pode, nas situações a regulamentar pela força de segurança, estar sujeita à prévia constituição de seguro de responsabilidade civil previsto nos termos da lei, destinado a cobrir os danos causados aos mesmos, bem como os danos decorrentes da sua utilização sofridos por terceiros, por ações ou omissões próprias, pelos quais os cessionários possam ser civilmente responsáveis.\n\n5 - O seguro de responsabilidade civil previsto no número anterior deve ser mantido válido durante o período da cedência.\n\n6 - As entidades públicas ficam excluídas da obrigatoriedade prevista no presente artigo."
+  },
+  "115326180": {
+   "fragment_id": "115326091",
+   "type": 11,
+   "heading": "Artigo 6.º — Acompanhamento Policial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acompanhamento Policial\n\nNas prestações de serviços em que se verifique a cedência de animais, veículos e armas é obrigatório o acompanhamento por elementos das forças de segurança, em regime de prestação de serviços remunerados, nos termos constantes de regulamentação própria."
+  },
+  "115326181": {
+   "fragment_id": "115326092",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime Excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime Excecional\n\nO disposto na presente portaria não prejudica as competências do Conselho de Gestão do Instituto Superior de Ciências Policiais e Segurança Interna, previstas no n.º 2 do artigo 18.º do Decreto-Lei n.º 275/2009, de 2 de outubro."
+  },
+  "115326182": {
+   "fragment_id": "115326093",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Receitas\n\nOs valores constantes do anexo constituem receita própria da respetiva força de segurança."
+  },
+  "115326183": {
+   "fragment_id": "115326094",
+   "type": 11,
+   "heading": "Artigo 9.º — Atualização dos valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Atualização dos valores\n\n1 - Os valores previstos no anexo à presente portaria são atualizados automaticamente, em 1 de março de cada ano, em função da variação do índice médio de preços no consumidor, excluindo a habitação, no continente, relativo ao ano anterior e publicado pelo Instituto Nacional de Estatística, arredondando-se os resultados obtidos ao cêntimo de euro superior.\n\n2 - Não ocorrerá a atualização dos valores sempre que o índice médio de preços, calculado de acordo com o estabelecido no número anterior, apresente um valor negativo, sendo que na subsequente atualização positiva deverá ser tido em consideração esse valor negativo."
+  },
+  "115326184": {
+   "fragment_id": "115326095",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia do mês seguinte à sua publicação."
+  },
+  "115326186": {
+   "fragment_id": "115326097",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 1.º)\n\nValores a cobrar pela Guarda Nacional Republicana e pela Polícia de Segurança Pública\n\n(ver documento original)"
+  },
+  "115326189": {
+   "fragment_id": "115326086",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 171.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - São aprovados os valores devidos à Guarda Nacional Republicana (GNR) e à Polícia de Segurança Pública (PSP) pela prestação de serviços e de atividades especialmente desenvolvidas em benefício das entidades requisitantes, públicas ou privadas, os quais constam do Anexo à presente Portaria, da qual faz parte integrante.\n\n2 - Exceciona-se do disposto no número anterior os serviços prestados entre as forças e serviços de segurança da área governativa da administração interna.\n\n> Alterado pelo/a Artigo 171.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "115326190": {
+   "fragment_id": "115326089",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime Especial",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 171.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 4.º — Regime Especial\n\n1 - Os valores previstos nos pontos 1.3.2, 1.3.4, 1.3.5, 1.3.6, 2.3.1, 2.3.2, 2.6.1, 2.6.2 e 2.6.3 do anexo são reduzidos em 50 % sempre que se trate de serviços requeridos por entidades públicas.\n\n2 - Os valores previstos nos pontos 2.8.1, 2.8.2 e 2.8.3 do anexo são reduzidos em 50 % sempre que a inscrição seja referente a filhos de funcionários civis, de agentes ou de militares das forças de segurança.\n\n3 - O valor previsto no ponto 2.9.1 do anexo é reduzido em 40 % sempre que se trate de serviços requeridos por militares da GNR.\n\n4 - O valor previsto no ponto 2.4.1 do anexo é reduzido em 50 % no caso de candidatura ao curso de formação de oficiais da PSP por candidato que pertença à carreira de agente ou chefe da PSP.\n\n5 - Os valores previstos nos pontos 1.3.7, 2.5.1, 2.5.2, 2.7.1 e 2.7.2 do anexo não são aplicáveis aos agentes e militares das forças de segurança, nas situações especialmente previstas em regulamentação especial, ou quando outro valor resulte de protocolos celebrados com entidades públicas ou privadas, nacionais ou estrangeiras.\n\n6 - Os valores relativos a perícias e exames forenses constam de regulamentação própria.\n\n7 - A prestação do serviço com o código 2.3.2 por parte da GNR ou da PSP ao Gabinete Nacional de Segurança é isenta de pagamento.\n\n> Alterado pelo/a Artigo 171.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "115326185": {
+   "fragment_id": "115326096",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 4 de janeiro de 2017. - A Ministra da Administração Interna, Maria Constança Dias Urbano de Sousa, em 6 de dezembro de 2016."
+  }
+ }
+}

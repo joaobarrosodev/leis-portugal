@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:315564:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34472575",
+ "dre_path": "/dr/detalhe/decreto-lei/28-2001-315564",
+ "source_lastmod": "2025-04-04",
+ "versions": [
+  {
+   "date": "2001-02-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "50382375"
+   ]
+  }
+ ],
+ "fragments": {
+  "50382375": {
+   "fragment_id": "35092375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A dispersão legislativa e a alteração constante das normas em vigor têm propiciado divergências interpretativas e situações propiciadoras de evasão fiscal no tocante aos benefícios fiscais relativos a contas poupança-habitação.\n\nCom este diploma visa-se inserir a matéria referente aos benefícios fiscais na sua sede própria, o Estatuto dos Benefícios Fiscais, garantindo-lhe melhor articulação e estabilidade.\n\nAssim, no uso da autorização legislativa concedida pela alínea a) do n.º 2 do artigo 56.º da Lei n.º 3-B/2000, de 4 de Abril, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  }
+ }
+}

@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:868243134:por
+title: Portaria n.º 570-A/2024/2
+short_title: null
+summary: Aprova a assunção de encargos plurianuais e a realização de despesa com a aquisição de serviços para a implementação
+  de um Ecossistema de Aprendizagem (EA) pela Direção-Geral da Educação.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Educação, Ciência e Inovação - Gabinete do Ministro da Educação, Ciência e Inovação
+proposing_entity: null
+official_number: 570-A/2024/2
+official_date: null
+publication_date: '2024-06-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/2024, Suplemento, Série II de 2024-06-07
+  number: '110'
+  series: II
+  supplement: null
+  pages: 3 - 4
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/06/110000001/0000300004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '868243134'
+  dre_path: /dr/detalhe/portaria/570-a-2024-868243134
+  internal: pt:dre:868243134:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-a-2024-868243134
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-a-2024-868243134
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-06-07T00:00:00Z'
+integrity:
+  source_sha256: cc4402e8cc6c63c2a2936058160db2ef17b676034264eef623f0b707641e48c2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-570-A-868243134.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 570-A/2024/2
+
+O Programa do Governo assenta em pilares estratégicos que, na vertente da área da Educação, Ciência e Inovação, integra, entre outras, diversas linhas de ação traduzidas, por um lado, no combate às desigualdades sociais e territoriais, no sentido da proteção dos mais vulneráveis, num país inovador e competitivo, que investe na educação, na ciência e na inovação, e por outro, na democratização da educação através de um ensino universal, obrigatório e gratuito, que assegure o direito à igualdade de oportunidades de acesso a uma educação de elevada qualidade e que permita aos alunos ter êxito escolar ao longo dos diferentes níveis educativos.
+
+As linhas de ação elencadas no Programa do Governo traduzem-se em objetivos concretos e em medidas específicas, no sentido da concretização de prioridades de investimento na educação, na ciência e na inovação, que estimulam a criatividade e o empreendedorismo, que valorizam o tecido produtivo nacional e que reforçam a sua capacidade exportadora e a sua integração nas cadeias de valor globais.
+
+A necessidade de se reformar o sistema de educação, de modo a alinhá-lo com as necessidades e potencialidades da economia portuguesa, na garantia de uma educação de qualidade e acessível a todos, impõe a disponibilização de "Recursos Educativos Digitais (RED)" que simplifiquem os processos de aprendizagem, fomentando a educação inclusiva desde idade precoce.
+
+O Plano de Recuperação e Resiliência (PRR) desempenha um papel preponderante na dinamização do País, potenciando a sua produtividade e competitividade, contribuindo para a redução das assimetrias regionais, sectoriais e sociais.
+
+A dimensão da "Transição Digital" compreende a componente C20 - "Escola Digital" que integra, entre outros, o projeto de "Universalização do Acesso aos RED" de qualidade, produzidos e a produzir para as disciplinas da matriz curricular, de acordo com as metas da Estratégia Portugal 2030 e do Plano de Ação para a Educação Digital da Comissão Europeia para 2021-2027.
+
+O Investimento TD- C20-i01.01 "Assegurar o fornecimento de conectividade à Internet de qualidade às escolas, e criar condições para a melhoria e utilização generalizada de recursos educativos digitais, incluindo nos processos de avaliação, bem como para a gestão eficiente do processo de transição digital no sistema educativo", prevê a elegibilidade de despesa com a aquisição de infraestrutura tecnológica para alojamento dos RED.
+
+Neste contexto, e havendo necessidade de assegurar o cumprimento das metas e calendarização contratualizadas no âmbito do referido financiamento, torna-se indispensável criar condições para a contratualização, pela Direção-Geral da Educação, da prestação de serviços para a implementação de um "Ecossistema de Aprendizagem (EA)" tendo em vista o alojamento e a disponibilização de RED a alunos, professores e encarregados de educação, com o intuito de promover a equidade e o sucesso educativo.
+
+Assim:
+
+Considerando que se encontram preenchidos os requisitos previstos na alínea c) do n.º 1 do artigo 5.º e nos n.<sup>os</sup>2 e 3 do artigo 6.º, ambos do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual.
+
+Manda o Governo, pelo Ministro da Educação, Ciência e Inovação, ao abrigo dos n.<sup>os</sup>2 e 3 do artigo 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, do artigo 164.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e da alínea c) do n.º 3 do artigo 20.º da Lei Orgânica do XXIV Governo Constitucional, aprovada pelo [Decreto-Lei n.º 32/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2024-864224972), de 10 de maio, o seguinte:
+
+1 - Fica a Direção-Geral da Educação (DGE) autorizada a realizar a despesa com a aquisição de serviços de implementação de um "Ecossistema de Aprendizagem (EA)", até ao montante máximo de 13 356 605,66 € ao qual acresce o IVA à taxa legal em vigor, distribuído da seguinte forma:
+
+a) 2024 - 1 448 601,94 € (um milhão, quatrocentos e quarenta e oito mil, seiscentos e um euros, e noventa e quatro cêntimos), ao qual acresce o IVA à taxa legal em vigor;
+
+b) 2025 - 11 908 003,72 € (onze milhões, novecentos e oito mil e três euros, e setenta e dois cêntimos) ao qual acresce o IVA à taxa legal em vigor.
+
+2 - Estabelecer que o montante fixado no número anterior para o ano económico de 2025 pode ser acrescido do saldo apurado no ano que lhe antecede.
+
+3 - Determinar que os encargos financeiros resultantes da execução da presente portaria são assegurados por verbas adequadas do orçamento da Direção-Geral da Educação "Contrato de Financiamento formalizado entre a Secretaria-Geral da Educação e Ciência e a Direção-Geral da Educação", para a realização do Investimento com o código TD-C20-i01-01 designado por "Assegurar o fornecimento de conectividade à Internet de qualidade às escolas, e criar condições para a melhoria e utilização generalizada de recursos educativos digitais, incluindo nos processos de avaliação, bem como para a gestão eficiente do processo de transição digital no sistema educativo", enquadrado na Componente C20 do PRR.
+
+4 - Delegar no diretor-geral da Educação todas as demais competências atribuídas pelo Código dos Contratos Públicos ao órgão competente para a decisão de contratar, no âmbito da presente portaria.
+
+5 - Determinar que a portaria produz efeitos a partir da data da sua assinatura.
+
+27 de maio de 2024. - O Ministro da Educação, Ciência e Inovação, Fernando Manuel de Almeida Alexandre.

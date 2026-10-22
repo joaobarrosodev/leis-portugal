@@ -1,0 +1,213 @@
+---
+schema_version: '1.0'
+id: pt:dre:1774736:por
+title: Portaria n.º 980-A/2006 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 980-A/2006 (2.ª série)
+official_date: null
+publication_date: '2006-06-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/2006, 2º Suplemento, Série II de 2006-06-14
+  number: '114'
+  series: II
+  supplement: 2º Suplemento
+  pages: 8720-(12) a 8720-(14)
+  pdf_url: https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1774736'
+  dre_path: /dr/detalhe/portaria/980-a-2006-1774736
+  internal: pt:dre:1774736:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/980-a-2006-1774736
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/980-a-2006-1774736
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-12-22T00:00:00Z'
+integrity:
+  source_sha256: 8ea311cef6cd6af0700d51f0b2a0f5ff259ac087cd720c32d79f757288096e13
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-980-A-1774736.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:823878581:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 980-A/2006 (2.ª série)
+
+Portaria n.º 980-A/2006 (2.ª série). - A medalha de mérito de protecção e socorro visa atribuir reconhecimento público a pessoas e instituições que de forma abnegada e decisiva contribuem para o êxito de operações de protecção e socorro, ajudando a minimizar os custos materiais e o sofrimento dos que são afectados por acidentes graves e catástrofes.
+
+Pela presente portaria densificam-se as regras de concessão da medalha nos seus diferentes graus e distintivos e aprova-se o modelo exclusivo das suas insígnias.
+
+Assim:
+
+Manda o Governo, pelo Ministro de Estado e da Administração Interna, o seguinte:
+
+1.º É aprovado o regulamento de concessão da medalha de mérito de protecção e socorro constante do anexo I à presente portaria e que dela faz parte integrante.
+
+2.º É aprovado o modelo de insígnias da medalha de mérito de protecção e socorro, cuja maqueta gráfica e respectiva descrição constam do anexo II à presente portaria e que dela faz parte integrante.
+
+3.º É aprovado o modelo de diploma da medalha de mérito de protecção e socorro constante do anexo III à presente portaria e que dela faz parte integrante.
+
+4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+12 de Junho de 2006. - O Ministro de Estado e da Administração Interna, António Luís Santos Costa.
+
+## ANEXO I — Regulamento de concessão da medalha de mérito de protecção e socorro
+
+###### Artigo 1.º — Medalha de mérito de protecção e socorro
+
+1 - A medalha de mérito de protecção e socorro, adiante designada simplesmente por medalha, é concedida para distinguir as pessoas, singulares ou colectivas, nacionais ou estrangeiras, que se destacam pelas suas actuações na área da protecção e socorro, a nível preventivo e operacional, protegendo e defendendo pessoas e bens em caso de acidente grave, catástrofe ou calamidade, mediante a realização de actos singulares ou colectivos que:
+
+a) Impliquem risco notório, solidariedade excepcional;
+
+b) Impliquem colaboração com as autoridades competentes na direcção e coordenação dos recursos;
+
+c) Impliquem cooperação altruísta com as autoridades em acções de finalidade económico-social, técnico-pedagógica ou de investigação.
+
+2 - No caso de pessoa colectiva a medalha pode distinguir veneranda e exemplar existência da instituição, ao serviço da protecção e socorro das populações.
+
+###### Artigo 2.º — Graus
+
+1 - A medalha compreende os seguintes graus:
+
+a) Medalha de ouro;
+
+b) Medalha de prata;
+
+c) Medalha de cobre.
+
+2 - A concessão de um ou outro grau releva das circunstâncias concorrentes nas acções que se pretende distinguir, nomeadamente quanto à sua importância objectiva, exemplaridade social e eficácia quanto aos fins da protecção e socorro como serviço público, ou ao tempo de vida da instituição, no caso do n.º 2 do artigo anterior.
+
+###### Artigo 3.º — Cores
+
+1 - Cada grau da medalha compreende três distintivos, nas cores azul, laranja e branco.
+
+2 - O azul distingue actos de heroísmo ou de notável solidariedade, bem como, no caso de pessoa colectiva, o decurso de exemplar existência ao serviço da protecção e socorro de populações.
+
+3 - O laranja distingue actos de prestimosa colaboração com as autoridades na direcção e coordenação dos recursos afectos a acções de protecção e socorro.
+
+4 - O branco distingue os actos de abnegada cooperação com as autoridades em acções de finalidade económico-social, técnico-pedagógica, de investigação ou outros considerados de interesse para a protecção civil.
+
+###### Artigo 4.º — Concessão
+
+1 - A medalha no grau ouro é concedida por despacho do Ministro da Administração Interna.
+
+2 - A medalha no grau prata é concedida por despacho do Ministro da Administração Interna, por sua iniciativa ou por proposta fundamentada do presidente do Serviço Nacional de Bombeiros e Protecção Civil, com base em processo onde se demonstre preencher o agraciado os requisitos para a concessão da medalha.
+
+3 - A medalha no grau cobre é concedida por despacho do Ministro da Administração Interna ou do presidente do Serviço Nacional de Bombeiros e Protecção Civil, com base em processo onde se demonstre preencher o agraciado os requisitos para a concessão da medalha.
+
+4 - O processo a que se referem os números anteriores é sumário e inclui o projecto de despacho de concessão e respectiva fundamentação, a incluir no diploma a que se refere o artigo seguinte, e é instruído pelo Serviço Nacional de Bombeiros e Protecção Civil.
+
+5 - O despacho de concessão da medalha de mérito de protecção e socorro é publicado na 2.ª série do Diário da República.
+
+###### Artigo 5.º — Diploma
+
+Ao agraciado é entregue um diploma com a transcrição da fundamentação de concessão e assinado pelo autor do despacho de concessão.
+
+###### Artigo 6.º — Apoio administrativo e registo
+
+O Serviço Nacional de Bombeiros e Protecção Civil assegura os mecanismos e disposições necessários para o cumprimento e execução do disposto neste diploma, incluindo o registo em livro de assentos próprio da concessão dos três graus da medalha de mérito de protecção e socorro.
+
+## ANEXO II — Insígnias da medalha de mérito de protecção e socorro
+
+Medalha (figura 1)
+
+Descrição - medalha circular, de 80 mm de diâmetro e 5 mm de espessura, executada em prata dourada no grau ouro, em cobre prateado no grau prata e em cobre no grau cobre.
+
+Anverso - resultante da combinação de formas sobrepostas em chapa por soldagem que contém gravada a inscrição "Protecção e Socorro - Ministério da Administração Interna - Portugal" na camada base circular da medalha.
+
+Reverso - lisa, contendo gravado o nome da pessoa distinguida com a sua concessão, o número de registo e a data da sua concessão.
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+
+Insígnia de pescoço (concedida a pessoa individual no grau ouro) (figura 2)
+
+Descrição - gravata constituída por fita de seda ondeada na cor do distintivo concedido com a largura de 38 mm, da qual pende medalha de 50 mm de diâmetro e 4 mm de espessura.
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+
+Gravata de bandeira (concedida a pessoa colectiva com bandeira ou estandarte) (figura 3)
+
+Descrição - gravata constituída por fita de suspensão de seda na cor do distintivo concedido com a largura de 100 mm e comprimento de 2 m, com a inscrição "Medalha de mérito de protecção e socorro - Ministério da Administração Interna - Portugal" bordada a fio de seda em ouro, prata ou cobre.
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+
+Insígnia para peito (concedida a pessoa individual) (figura 4)
+
+Descrição - medalha de 30 mm de diâmetro pendente de uma fita de seda ondeada na cor do distintivo concedido com a largura de 30 mm e com o comprimento necessário para que seja de 90 mm a distância do topo superior da fita ao bordo inferior da medalha.
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+
+Roseta (concedida a pessoa individual) (figura 5)
+
+Descrição - cilindro de 20 mm de diâmetro e com a altura de 7 mm forrado a seda ondeada na cor do distintivo.
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+
+Miniatura (concedida a pessoa individual) (figura 6)
+
+Descrição - medalha de 15 mm de diâmetro pendente de fita de suspensão igual à da insígnia para o peito, com a largura máxima de 15 mm e com o comprimento necessário para que seja de 60 mm a distância do topo superior da fita ao bordo inferior da medalha.
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+
+Fita simples (concedida a pessoa individual) (figura 7)
+
+Descrição - a fita simples de tecido igual ao da fita de suspensão da insígnia de peito, com 30 mm de cumprimento e 12 mm de largura, colocada em barra metálica ou de material plástico rígido, com alfinete de segurança para fixação.
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+
+## ANEXO III — Diploma de concessão da medalha de mérito de protecção e socorro
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)

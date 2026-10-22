@@ -1,0 +1,790 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:480712:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2004-122101697",
+ "dre_path": "/dr/detalhe/lei/43-2004-480712",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122090251",
+    "122090252",
+    "122090253",
+    "122090254",
+    "122090255",
+    "122090256",
+    "122090257",
+    "122090258",
+    "122090259",
+    "122090260",
+    "122090261",
+    "122090262",
+    "122090263",
+    "122090264",
+    "122090265",
+    "122090266",
+    "122090267",
+    "122090268",
+    "122090269",
+    "122090270",
+    "122090271",
+    "122090272",
+    "122090273",
+    "122090274",
+    "122102875",
+    "122102876",
+    "122102877",
+    "122102878",
+    "122102879",
+    "122102880",
+    "122102881",
+    "122102882",
+    "122102883",
+    "122102884",
+    "122102885",
+    "122102886",
+    "122102887",
+    "122102888",
+    "122102889",
+    "122102890",
+    "122102891",
+    "122102892",
+    "122102893",
+    "122102895"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344942:por",
+     "title": "Lei n.º 55-A/2010",
+     "published": "2010-12-31",
+     "dre_path": "/dr/detalhe/lei/55-a-2010-344942"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "122090251",
+    "122090252",
+    "122090253",
+    "122090254",
+    "122090255",
+    "122090256",
+    "122090257",
+    "122090258",
+    "122090259",
+    "122090260",
+    "122090261",
+    "122090262",
+    "122090263",
+    "122090264",
+    "122090265",
+    "122090266",
+    "122090267",
+    "122090268",
+    "122090269",
+    "122090270",
+    "122090271",
+    "122090272",
+    "122090273",
+    "122090274",
+    "122102896",
+    "122102876",
+    "122102877",
+    "122102878",
+    "122102879",
+    "122102880",
+    "122102881",
+    "122102882",
+    "122102883",
+    "122102884",
+    "122102885",
+    "122102886",
+    "122102887",
+    "122102888",
+    "122102889",
+    "122102890",
+    "122102891",
+    "122102892",
+    "122102893",
+    "122102894",
+    "122102895"
+   ]
+  },
+  {
+   "date": "2019-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123815982:por",
+     "title": "Lei n.º 58/2019",
+     "published": "2019-08-08",
+     "dre_path": "/dr/detalhe/lei/58-2019-123815982"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A",
+    "Adita Artigo 24.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "122090251",
+    "122090252",
+    "122090253",
+    "123795826",
+    "122090255",
+    "123795827",
+    "122090257",
+    "122090258",
+    "122090259",
+    "122090260",
+    "123795828",
+    "122090262",
+    "122090263",
+    "122090264",
+    "122090265",
+    "122090266",
+    "122090267",
+    "122090268",
+    "123795845",
+    "123795829",
+    "123795830",
+    "123795831",
+    "123795832",
+    "123795819",
+    "122090274",
+    "123795833",
+    "123795834",
+    "122102877",
+    "123795835",
+    "122102879",
+    "123795836",
+    "123795820",
+    "123795837",
+    "123795838",
+    "123795839",
+    "123795840",
+    "123795841",
+    "122102886",
+    "123795842",
+    "123795843",
+    "122102889",
+    "122102890",
+    "122102891",
+    "122102892",
+    "122102893",
+    "122102894",
+    "122102895"
+   ]
+  }
+ ],
+ "fragments": {
+  "122090251": {
+   "fragment_id": "122101698",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 43/2004\n\nde 18 de Agosto\n\nLei de organização e funcionamento da Comissão Nacional de Protecção de Dados\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "122090252": {
+   "fragment_id": "122101699",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "122090253": {
+   "fragment_id": "122101700",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nA presente lei regula a organização e o funcionamento da Comissão Nacional de Protecção de Dados (CNPD), bem como o estatuto pessoal dos seus membros."
+  },
+  "122090254": {
+   "fragment_id": "122101701",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza, atribuições e competências\n\nA CNPD é uma entidade administrativa independente, com poderes de autoridade, que funciona junto da Assembleia da República, com as atribuições e competências definidas na lei."
+  },
+  "122090255": {
+   "fragment_id": "122101702",
+   "type": 1,
+   "heading": "Capítulo II — Membros da CNPD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Membros da CNPD"
+  },
+  "122090256": {
+   "fragment_id": "122101703",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Designação e mandato\n\n1 - Os membros da CNPD são designados nos termos previstos no artigo 25.º da Lei n.º 67/98, de 26 de Outubro.\n\n2 - O mandato dos membros da CNPD é de cinco anos e cessa com a posse dos novos membros, não podendo ser renovado por mais de uma vez."
+  },
+  "122090257": {
+   "fragment_id": "122101704",
+   "type": 11,
+   "heading": "Artigo 4.º — Incapacidades e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Incapacidades e incompatibilidades\n\n1 - Só podem ser membros da CNPD os cidadãos que se encontrem no pleno gozo dos seus direitos civis e políticos.\n\n2 - Os membros da CNPD ficam sujeitos ao regime de incompatibilidades estabelecido para os titulares de altos cargos públicos."
+  },
+  "122090258": {
+   "fragment_id": "122101705",
+   "type": 11,
+   "heading": "Artigo 5.º — Inamovibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Inamovibilidade\n\n1 - Os membros da CNPD são inamovíveis, não podendo as suas funções cessar antes do termo do mandato, salvo nos seguintes casos:\n\na) Morte ou impossibilidade física permanente ou com uma duração que se preveja ultrapassar a data do termo do mandato;\n\nb) Renúncia ao mandato;\n\nc) Perda do mandato.\n\n2 - No caso de vacatura por um dos motivos previstos no número anterior, a vaga deve ser preenchida no prazo de 30 dias após a sua verificação, através da designação de novo membro pela entidade competente.\n\n3 - O membro designado nos termos do número anterior completa o mandato do membro que substitui."
+  },
+  "122090259": {
+   "fragment_id": "122101706",
+   "type": 11,
+   "heading": "Artigo 6.º — Renúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Renúncia\n\n1 - Os membros da CNPD podem renunciar ao mandato através de declaração escrita apresentada à Comissão.\n\n2 - A renúncia torna-se efectiva com o seu anúncio e é publicada na 2.ª série do Diário da República."
+  },
+  "122090260": {
+   "fragment_id": "122101707",
+   "type": 11,
+   "heading": "Artigo 7.º — Perda do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Perda do mandato\n\n1 - Perdem o mandato os membros da CNPD que:\n\na) Sejam abrangidos por qualquer das incapacidades ou incompatibilidades previstas na lei;\n\nb) Faltem, no mesmo ano civil, a três reuniões consecutivas ou a seis interpoladas, salvo motivo justificado;\n\nc) Cometam violação do disposto na alínea c) do artigo 8.º, desde que judicialmente declarada.\n\n2 - A perda do mandato é objecto, conforme os casos, de deliberação ou declaração a publicar na 2.ª série do Diário da República."
+  },
+  "122090261": {
+   "fragment_id": "122101708",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres\n\nConstituem deveres dos membros da CNPD:\n\na) Exercer o respectivo cargo com isenção, rigor e independência;\n\nb) Participar activa e assiduamente nos trabalhos do órgão que integram;\n\nc) Guardar sigilo sobre as questões ou processos que estejam a ser objecto de apreciação, sem prejuízo das obrigações a que se referem os artigos 11.º e 17.º da Lei n.º 67/98, de 26 de Outubro."
+  },
+  "122090262": {
+   "fragment_id": "122101709",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatuto remuneratório\n\n1 - O presidente da CNPD é remunerado de acordo com a tabela indiciária e o regime fixados para o cargo de director-geral, cabendo aos restantes membros uma remuneração igual a 85% daquela, sem prejuízo da faculdade de opção pelas remunerações correspondentes ao lugar de origem.\n\n2 - O presidente da CNPD tem direito a um abono mensal para despesas de representação de montante igual ao atribuído aos directores-gerais.\n\n3 - Os restantes membros da CNPD têm direito a um abono mensal para despesas de representação de montante igual ao atribuído aos subdirectores-gerais.\n\n4 - Os membros da CNPD beneficiam do regime geral de segurança social, se não estiverem abrangidos por outro mais favorável."
+  },
+  "122090263": {
+   "fragment_id": "122101710",
+   "type": 11,
+   "heading": "Artigo 10.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Garantias\n\nOs membros da CNPD beneficiam das seguintes garantias:\n\na) Não podem ser prejudicados na estabilidade do seu emprego, na sua carreira profissional e no regime de segurança social de que beneficiem;\n\nb) O período correspondente ao exercício do mandato considera-se, para todos os efeitos legais, como prestado no lugar de origem;\n\nc) O período de duração do mandato suspende, a requerimento do interessado, a contagem dos prazos para a apresentação de relatórios curriculares ou prestação de provas para a carreira de docente de ensino superior ou para a de investigação científica, bem como a contagem dos prazos dos contratos de professores convidados, assistentes, assistentes estagiários ou convidados;\n\nd) Têm direito a ser dispensados das suas actividades públicas ou privadas, quando se encontrem em funções de representação nacional ou internacional da Comissão."
+  },
+  "122090264": {
+   "fragment_id": "122101711",
+   "type": 11,
+   "heading": "Artigo 11.º — Impedimentos e suspeições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Impedimentos e suspeições\n\n1 - Aos impedimentos e suspeições são aplicáveis, com as devidas adaptações, as disposições do Código do Procedimento Administrativo.\n\n2 - Os impedimentos e suspeições são apreciados pela CNPD."
+  },
+  "122090265": {
+   "fragment_id": "122101712",
+   "type": 11,
+   "heading": "Artigo 12.º — Cartão de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cartão de identificação\n\n1 - Os membros da CNPD possuem cartão de identificação, dele constando o cargo as regalias e os direitos inerentes à sua função.\n\n2 - O cartão de identificação é simultaneamente de livre trânsito e de acesso a todos os locais em que sejam tratados dados pessoais sujeitos ao controlo da CNPD."
+  },
+  "122090266": {
+   "fragment_id": "122101713",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento da CNPD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento da CNPD"
+  },
+  "122090267": {
+   "fragment_id": "122101714",
+   "type": 11,
+   "heading": "Artigo 13.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reuniões\n\n1 - A CNPD funciona com carácter permanente.\n\n2 - A CNPD tem reuniões ordinárias e extraordinárias.\n\n3 - As reuniões extraordinárias têm lugar:\n\na) Por iniciativa do presidente;\n\nb) A pedido de três dos seus membros.\n\n4 - As reuniões da CNPD não são públicas e realizam-se nas suas instalações ou, por sua deliberação, em qualquer outro local do território nacional, sendo a periodicidade estabelecida nos termos adequados ao desempenho das suas funções.\n\n5 - O presidente, quando o entender conveniente, pode, com o acordo da Comissão, convidar a participar nas reuniões, salvo na fase decisória, qualquer pessoa cuja presença seja considerada útil.\n\n6 - Das reuniões é lavrada acta, que, depois de aprovada pela CNPD, é assinada pelo presidente e pelo secretário."
+  },
+  "122090268": {
+   "fragment_id": "122101715",
+   "type": 11,
+   "heading": "Artigo 14.º — Ordem de trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ordem de trabalhos\n\n1 - A ordem de trabalhos para cada reunião ordinária é fixada pelo presidente, devendo ser comunicada aos vogais com a antecedência mínima de dois dias úteis relativamente à data prevista para a sua realização.\n\n2 - A ordem de trabalhos deve incluir os assuntos que para esse fim lhe forem indicados por qualquer vogal, desde que sejam da competência do órgão e o pedido seja apresentado por escrito com uma antecedência mínima de cinco dias sobre a data da reunião."
+  },
+  "122090269": {
+   "fragment_id": "122101716",
+   "type": 11,
+   "heading": "Artigo 15.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Deliberações\n\n1 - A CNPD só pode reunir e deliberar com a presença de pelo menos quatro membros.\n\n2 - As deliberações da CNPD são tomadas por maioria dos membros presentes, tendo o presidente voto de qualidade.\n\n3 - Carecem, porém, de aprovação por maioria dos membros em efectividade de funções as deliberações a que se refere o n.º 3 do artigo 19.º, o n.º 2 do artigo 20.º, o n.º 4 do artigo 22.º, a parte final das alíneas f) e l) do n.º 1 do artigo 23.º, o n.º 2 do artigo 27.º, a alínea a) do n.º 1 do artigo 28.º e o n.º 3 do artigo 32.º, todos da Lei n.º 67/98, de 26 de Outubro, e ainda o n.º 2 do artigo 21.º da presente lei."
+  },
+  "122090270": {
+   "fragment_id": "122101717",
+   "type": 11,
+   "heading": "Artigo 16.º — Publicidade das deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Publicidade das deliberações\n\nSão publicadas na 2.ª série do Diário da República:\n\na) As autorizações referidas na alínea h) do n.º 1 do artigo 23.º da Lei n.º 67/98, de 26 de Outubro;\n\nb) As autorizações previstas no n.º 2 do artigo 27.º da Lei n.º 67/98, de 26 de Outubro;\n\nc) As deliberações que aprovem as directivas a que se referem as alíneas f) e l) do n.º 1 do artigo 23.º da Lei n.º 67/98, de 26 de Outubro;\n\nd) As deliberações que fixem taxas nos termos do n.º 2 do artigo 21.º da presente lei."
+  },
+  "122090271": {
+   "fragment_id": "122101718",
+   "type": 11,
+   "heading": "Artigo 17.º — Reclamações, queixas e petições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reclamações, queixas e petições\n\n1 - As reclamações, queixas e petições são dirigidas por escrito à CNPD, com indicação do nome e endereço dos seus autores, podendo ser exigida a confirmação da identidade destes.\n\n2 - O direito de petição pode ser exercido por correio tradicional ou electrónico, ou através de telégrafo, telefax e outros meios de comunicação.\n\n3 - Quando a questão suscitada não for da competência da CNPD, deve a mesma ser encaminhada para a entidade competente, com informação ao exponente.\n\n4 - As reclamações, queixas e petições manifestamente infundadas podem ser arquivadas pelo membro da Comissão a quem o respectivo processo tenha sido distribuído."
+  },
+  "122090272": {
+   "fragment_id": "122101719",
+   "type": 11,
+   "heading": "Artigo 18.º — Formalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Formalidades\n\n1 - Os documentos dirigidos à CNPD e o processado subsequente não estão sujeitos a formalidades especiais.\n\n2 - A CNPD pode aprovar modelos ou formulários, em suporte papel ou electrónico, com vista a permitir melhor instrução dos pedidos de parecer ou de autorização, bem como das notificações de tratamentos de dados pessoais.\n\n3 - Os pedidos de autorização e as notificações apresentados à CNPD nos termos do artigo 29.º da Lei n.º 67/98, de 26 de Outubro, devem ser assinados pelo responsável do tratamento de dados pessoais ou pelo seu legal representante.\n\n4 - Os pedidos de parecer sobre iniciativas legislativas devem ser remetidos à CNPD pelo titular do órgão legiferante.\n\n5 - Os pedidos de parecer sobre quaisquer outros instrumentos jurídicos comunitários ou internacionais em preparação, relativos ao tratamento de dados pessoais, devem ser remetidos à CNPD pela entidade que representa o Estado Português no processo de elaboração da iniciativa."
+  },
+  "122090273": {
+   "fragment_id": "122101720",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências e substituição do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências e substituição do presidente\n\n1 - Compete ao presidente:\n\na) Representar a Comissão;\n\nb) Superintender nos serviços de apoio;\n\nc) Convocar as sessões e fixar a ordem de trabalhos;\n\nd) Ouvida a Comissão, nomear o pessoal do quadro e autorizar transferências, requisições e destacamentos;\n\ne) Ouvida a Comissão, autorizar a contratação do pessoal referido no n.º 5 do artigo 30.º;\n\nf) Outorgar contratos em nome da Comissão e obrigá-la nos demais negócios jurídicos;\n\ng) Autorizar a realização de despesas dentro dos limites legalmente compreendidos na competência dos ministros;\n\nh) Aplicar coimas e homologar deliberações, nos termos previstos na lei;\n\ni) Ouvida a Comissão, fixar as regras de distribuição dos processos;\n\nj) Submeter à aprovação da Comissão o plano de actividades;\n\nl) Em geral, assegurar o cumprimento das leis e a regularidade das deliberações.\n\n2 - O presidente é substituído, nas suas faltas e impedimentos, pelo vogal que a Comissão designar."
+  },
+  "122090274": {
+   "fragment_id": "122101721",
+   "type": 1,
+   "heading": "Capítulo IV — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime financeiro"
+  },
+  "122102875": {
+   "fragment_id": "122101722",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime de receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime de receitas e despesas\n\n1 - As receitas e despesas da CNPD, que goza de autonomia administrativa, constam de orçamento anual.\n\n2 - Além das dotações que lhe forem atribuídas no orçamento da Assembleia da República, nos termos da Lei n.º 59/90, de 21 de Novembro, constituem receitas da CNPD:\n\na) O produto das taxas cobradas;\n\nb) O produto da venda de formulários e publicações;\n\nc) O produto dos encargos da passagem de certidões e acesso a documentos;\n\nd) A parte que lhe cabe no produto das coimas, nos termos previstos na lei;\n\ne) O saldo de gerência do ano anterior;\n\nf) Os subsídios, subvenções, comparticipações, doações e legados, concedidos por entidades, públicas e privadas, nacionais, estrangeiras, comunitárias ou internacionais;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei ou contrato.\n\n3 - Constituem despesas da CNPD as que resultem dos encargos e responsabilidades decorrentes do seu funcionamento, bem como quaisquer outras relativas à prossecução das suas atribuições.\n\n4 - O orçamento anual, as respectivas alterações bem como as contas são aprovados pela CNPD.\n\n5 - As contas da CNPD ficam sujeitas, nos termos gerais, ao controlo do Tribunal de Contas."
+  },
+  "122102876": {
+   "fragment_id": "122101723",
+   "type": 11,
+   "heading": "Artigo 21.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Taxas\n\n1 - A CNPD pode cobrar taxas:\n\na) Pelo registo das notificações;\n\nb) Pelas autorizações concedidas ao abrigo do disposto no artigo 28.º da Lei n.º 67/98, de 26 de Outubro, ou outras autorizações legalmente previstas.\n\n2 - O montante das taxas, que deve ser proporcional à complexidade do pedido e ao serviço prestado é fixado pela CNPD e não pode ser superior a metade do salário mínimo nacional dos trabalhadores por conta de outrem.\n\n3 - Em caso de comprovada insuficiência económica, o interessado poderá ficar isento, total ou parcialmente, do pagamento das taxas referidas no n.º 1, mediante deliberação da CNPD."
+  },
+  "122102877": {
+   "fragment_id": "122101724",
+   "type": 1,
+   "heading": "Capítulo V — Serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Serviços de apoio"
+  },
+  "122102878": {
+   "fragment_id": "122101725",
+   "type": 11,
+   "heading": "Artigo 22.º — Organização dos serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Organização dos serviços de apoio\n\n1 - A CNPD dispõe de serviços de apoio próprios.\n\n2 - Os serviços de apoio compreendem:\n\na) Serviço Jurídico (SJ);\n\nb) Serviço de Informação e Relações Internacionais (SIRI);\n\nc) Serviço de Informática e Inspecção (SII);\n\nd) Serviço de Apoio Administrativo e Financeiro (SAAF).\n\n3 - Os serviços de apoio são dirigidos por um secretário, o qual tem direito à remuneração mais elevada de consultor-coordenador, bem como a um abono mensal para despesas de representação no valor de 8% da remuneração base.\n\n4 - O secretário é nomeado por despacho do presidente, obtido parecer favorável da Comissão, com observância dos requisitos legais adequados ao desempenho das respectivas funções, escolhido preferencialmente de entre funcionários já pertencentes ao quadro da CNPD, habilitados com licenciatura e de reconhecida competência para o desempenho do lugar.\n\n5 - A nomeação do secretário é feita em regime de comissão de serviço, por períodos de três anos."
+  },
+  "122102879": {
+   "fragment_id": "122101726",
+   "type": 11,
+   "heading": "Artigo 23.º — Competências do secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competências do secretário\n\n1 - Compete ao secretário:\n\na) Secretariar a Comissão;\n\nb) Dar execução às decisões da Comissão, de acordo com as orientações do presidente;\n\nc) Assegurar a boa organização e funcionamento dos serviços de apoio, nomeadamente no tocante à gestão financeira, do pessoal e das instalações e equipamento, de acordo com as orientações do presidente;\n\nd) Elaborar o projecto de orçamento, bem como as respectivas alterações, e assegurar a sua execução;\n\ne) Elaborar o projecto de relatório anual.\n\n2 - O secretário é substituído, nas suas faltas e impedimentos, pelo técnico superior ou consultor designado pelo presidente, obtido parecer favorável da Comissão."
+  },
+  "122102880": {
+   "fragment_id": "122101727",
+   "type": 11,
+   "heading": "Artigo 24.º — Serviço Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Serviço Jurídico\n\nCompete ao SJ assegurar o apoio técnico-jurídico, designadamente:\n\na) Preparar pareceres sobre projectos legislativos;\n\nb) Instruir os processos de registo ou autorização de tratamento de dados pessoais e assegurar a respectiva tramitação;\n\nc) Instruir os processos de contra-ordenação, bem como os relativos a queixas, reclamações e petições;\n\nd) Colaborar na organização de colóquios, seminários e outras iniciativas de difusão das matérias de protecção da vida privada e dos dados pessoais;\n\ne) Coadjuvar os membros da CNPD na participação em actividades de organizações comunitárias ou internacionais;\n\nf) Desempenhar quaisquer outras tarefas de âmbito técnico-jurídico."
+  },
+  "122102881": {
+   "fragment_id": "122101728",
+   "type": 11,
+   "heading": "Artigo 25.º — Serviço de Informação e Relações Internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Serviço de Informação e Relações Internacionais\n\nCompete ao SIRI assegurar o apoio em matérias de informação, documentação e relações públicas, designadamente:\n\na) Promover a difusão dos princípios da protecção da vida privada e dos dados pessoais e dos diplomas legislativos e instrumentos comunitários e internacionais correspondentes;\n\nb) Assegurar os contactos com os órgãos de comunicação social;\n\nc) Organizar e dinamizar a realização de colóquios, seminários e outras iniciativas;\n\nd) Organizar e manter actualizado o centro de documentação;\n\ne) Colaborar na concepção e edição de publicações, bem como no relatório anual de actividades;\n\nf) Colaborar no apoio aos membros da CNPD na participação em actividades de organizações nacionais, comunitárias ou internacionais;\n\ng) Desempenhar quaisquer outras tarefas, no âmbito da informação, da documentação e das relações internacionais."
+  },
+  "122102882": {
+   "fragment_id": "122101729",
+   "type": 11,
+   "heading": "Artigo 26.º — Serviço de Informática e Inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Serviço de Informática e Inspecção\n\nCompete ao SII garantir o normal funcionamento do sistema de informação da CNPD e disponibilizar o apoio técnico considerado necessário na área das tecnologias de informação, nomeadamente:\n\na) Assegurar a gestão do sistema de informação, proporcionando o necessário ambiente operativo (suporte lógico e suporte físico) de acordo com as orientações da CNPD;\n\nb) Garantir os meios técnicos necessários para a criação e manutenção do registo público previsto no artigo 31.º da Lei n.º 67/98, de 26 de Outubro;\n\nc) Propor e zelar pela aplicação de normas de segurança que garantam a fiabilidade, confidencialidade e durabilidade do sistema de informação;\n\nd) Apoiar a gestão do sítio da CNPD, garantindo, em particular, a sua manutenção técnica;\n\ne) Realizar acções de inspecção e de auditoria informática a sistemas de informação, no âmbito de processos em curso, com mandato de qualquer dos membros da CNPD;\n\nf) Colaborar no apoio aos membros da CNPD na participação em actividades de organizações nacionais, comunitárias ou internacionais;\n\ng) Desempenhar quaisquer outras tarefas, no âmbito da utilização das tecnologias de informação e comunicação."
+  },
+  "122102883": {
+   "fragment_id": "122101730",
+   "type": 11,
+   "heading": "Artigo 27.º — Serviço de Apoio Administrativo e Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Serviço de Apoio Administrativo e Financeiro\n\nCompete ao SAAF apoiar a CNPD na gestão dos processos e dos recursos humanos, financeiros e materiais, designadamente:\n\na) Organizar e assegurar toda a tramitação dos processos;\n\nb) Promover o recrutamento, promoção e formação do pessoal, bem como a aplicação dos instrumentos de mobilidade e a contratação de pessoal;\n\nc) Preparar as propostas de orçamento e acompanhar a sua execução;\n\nd) Assegurar o processamento e a contabilização das receitas e das despesas;\n\ne) Elaborar a conta de gerência e o respectivo relatório;\n\nf) Promover as aquisições de bens e serviços, administrar os bens de consumo, bem como gerir as instalações, viaturas e demais equipamentos ao serviço da CNPD;\n\ng) Desempenhar quaisquer outras tarefas de que, no âmbito das suas áreas de intervenção, seja encarregado pelo presidente ou pelo secretário."
+  },
+  "122102884": {
+   "fragment_id": "122101731",
+   "type": 11,
+   "heading": "Artigo 28.º — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regime de pessoal\n\n1 - Ao pessoal da CNPD aplica-se o regime geral da função pública.\n\n2 - O pessoal da CNPD está isento de horário de trabalho, não sendo por isso devida qualquer remuneração a título de horas extraordinárias, sem prejuízo do disposto no artigo 33.º"
+  },
+  "122102885": {
+   "fragment_id": "122101732",
+   "type": 11,
+   "heading": "Artigo 29.º — Cartão de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cartão de identificação\n\nOs funcionários da CNPD possuem cartão de identificação, dele constando o cargo desempenhado e os direitos e regalias inerentes à sua função."
+  },
+  "122102886": {
+   "fragment_id": "122101733",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "122102887": {
+   "fragment_id": "122101734",
+   "type": 11,
+   "heading": "Artigo 30.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Quadro de pessoal\n\n1 - O quadro de pessoal, bem como o conteúdo funcional das respectivas carreiras, é fixado em resolução da Assembleia da República.\n\n2 - Os lugares de consultor da CNPD serão providos em regime de comissão de serviço, por tempo indeterminado, requisição ou destacamento, no caso da nomeação recair em funcionário público, ou em regime de contrato individual de trabalho, quando não vinculados à Administração Pública.\n\n3 - São condições indispensáveis ao recrutamento de consultor a elevada competência profissional e experiência válida para o exercício da função, a avaliar com base nos respectivos curricula.\n\n4 - O prazo previsto no n.º 3 do artigo 27.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, não é aplicável ao regime de requisição ou destacamento aos serviços de apoio à CNPD, podendo porém a comissão de serviço, destacamento ou requisição ser dada por finda por decisão do presidente, ouvida a Comissão, ou a pedido do interessado.\n\n5 - Quando a complexidade e ou especificidade dos assuntos o exigir pode o presidente autorizar a contratação de pessoal em regime de contrato de prestação de serviços."
+  },
+  "122102888": {
+   "fragment_id": "122101735",
+   "type": 11,
+   "heading": "Artigo 31.º — Funcionários e agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Funcionários e agentes\n\nA nomeação em comissão de serviço de funcionários da Administração Pública para o cargo de consultor não determina a abertura de vaga no quadro de origem, ficando salvaguardados todos os direitos inerentes aos seus anteriores cargos ou funções, designadamente para efeitos de promoção ou progressão."
+  },
+  "122102889": {
+   "fragment_id": "122101736",
+   "type": 11,
+   "heading": "Artigo 32.º — Remuneração base, recrutamento, promoção e progressão dos consultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Remuneração base, recrutamento, promoção e progressão dos consultores\n\n1 - A remuneração base mensal dos consultores da CNPD consta do mapa I anexo a esta lei, de que faz parte integrante.\n\n2 - A promoção e progressão nas categorias de consultor-coordenador e consultor rege-se pelos princípios aplicáveis à carreira técnica superior.\n\n3 - Pode haver lugar a recrutamento directo para a categoria de consultor-coordenador, desde que os candidatos possuam adequada qualificação e experiência profissional para o efeito.\n\n4 - Podem ser recrutados como consultores-adjuntos indivíduos licenciados com qualificações para o exercício da função, sempre que não se justifique o recrutamento na categoria de consultor."
+  },
+  "122102890": {
+   "fragment_id": "122101737",
+   "type": 11,
+   "heading": "Artigo 33.º — Disponibilidade permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Disponibilidade permanente\n\n1 - O pessoal da CNPD tem direito a um suplemento remuneratório, a título de disponibilidade permanente, de montante mensal correspondente a 12,5% da remuneração base.\n\n2 - O suplemento é abonado em 12 mensalidades e releva para efeitos de aposentação, sendo considerado no cálculo da pensão pela fórmula prevista na alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação.\n\n3 - Ao pessoal da CNPD abrangido pelos n.os 1, 2, 7 e 9 do artigo 34.º não é atribuído o suplemento referido nos números anteriores."
+  },
+  "122102891": {
+   "fragment_id": "122101738",
+   "type": 11,
+   "heading": "Artigo 34.º — Pessoal actualmente ao serviço da CNPD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Pessoal actualmente ao serviço da CNPD\n\n1 - Os funcionários e agentes que prestam actualmente serviço na CNPD e que beneficiam do regime do n.º 3 do artigo 26.º da Lei n.º 67/98, de 26 de Outubro, transitam para o novo quadro de acordo com as regras dos números seguintes, mantendo o seu actual estatuto remuneratório, que passa a ter a natureza de remuneração pessoal.\n\n2 - Ao pessoal da CNPD, não vinculado à Administração Pública, que se encontre na situação do número anterior aplica-se idêntico regime remuneratório, sendo porém a sua relação jurídica de emprego a do contrato individual de trabalho, ao abrigo da lei geral aplicável à Administração Pública.\n\n3 - Os lugares da carreira técnica superior e especialista de informática previstos no quadro de pessoal, para garantir a transição prevista nos n.os 1 e 2, são lugares a extinguir quando vagarem.\n\n4 - Os funcionários vinculados à Administração Pública a prestar serviço na CNPD à data da entrada em vigor da presente lei transitam para o novo quadro, mediante deliberação daquela, para a carreira e categoria que integre as funções que o funcionário efectivamente desempenhe, sem prejuízo das habilitações e qualificações legalmente exigidas, em escalão a que corresponda o mesmo índice remuneratório, ou, quando não houver coincidência de índice, em escalão a que corresponda o índice superior mais aproximado na estrutura da carreira para que se processe a transição.\n\n5 - A correspondência referida no número anterior fixa-se entre os índices remuneratórios definidos para o escalão 1 da categoria em que o funcionário se encontra e o escalão 1 da categoria da nova carreira.\n\n6 - Aos funcionários que, nos termos do n.º 1, transitem para categoria diversa será contado, nesta última, para todos os efeitos legais, o tempo de serviço prestado na anterior, desde que no exercício de funções idênticas ou semelhantes às da nova carreira.\n\n7 - O disposto no n.º 1 aplica-se igualmente ao actual secretário, com as necessárias adaptações decorrentes do regime de exercício de funções.\n\n8 - A transição para os lugares do quadro da CNPD faz-se por despacho do presidente, independentemente de quaisquer outras formalidades, sem prejuízo do disposto no n.º 1.\n\n9 - A CNPD pode deliberar manter as comissões, requisições ou destacamentos do pessoal ao seu serviço à data da entrada em vigor da presente lei, mantendo os funcionários que beneficiem do n.º 3 do artigo 26.º da Lei n.º 67/98 o seu actual estatuto remuneratório, que passa a ter natureza de remuneração pessoal."
+  },
+  "122102892": {
+   "fragment_id": "122101739",
+   "type": 11,
+   "heading": "Artigo 35.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Norma transitória\n\n1 - A suspensão da comissão de serviço do presidente da CNPD mantém-se até ao termo do seu mandato.\n\n2 - A aplicação da presente lei no corrente ano faz-se no quadro orçamental aprovado para a CNPD em 2004."
+  },
+  "122102893": {
+   "fragment_id": "122101740",
+   "type": 11,
+   "heading": "Artigo 36.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 121/93, de 16 de Abril;\n\nb) A Resolução da Assembleia da República n.º 53/94, de 19 de Agosto."
+  },
+  "122102895": {
+   "fragment_id": "122101742",
+   "type": 14,
+   "heading": "Anexo — MAPA I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — MAPA I\n\n(a que se refere o n.º 1 do artigo 32.º)\n\n(ver mapa no documento original)"
+  },
+  "122102896": {
+   "fragment_id": "122101722",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime de receitas e despesas",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 184.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Regime de receitas e despesas\n\n1 - As receitas e despesas da CNPD, que goza de autonomia administrativa, constam de orçamento anual.\n\n2 - Além das dotações que lhe sejam atribuídas no Orçamento da Assembleia da República, nos termos da Lei n.º 59/90, de 21 de Novembro, constituem receitas da Comissão Nacional de Protecção de Dados a inscrever directamente no Orçamento do Estado:\n\na) O produto das taxas cobradas;\n\nb) O produto da venda de formulários e publicações;\n\nc) O produto dos encargos da passagem de certidões e acesso a documentos;\n\nd) A parte que lhe cabe no produto das coimas, nos termos previstos na lei;\n\ne) O saldo de gerência do ano anterior;\n\nf) Os subsídios, subvenções, comparticipações, doações e legados, concedidos por entidades, públicas e privadas, nacionais, estrangeiras, comunitárias ou internacionais;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei ou contrato.\n\n3 - Constituem despesas da CNPD as que resultem dos encargos e responsabilidades decorrentes do seu funcionamento, bem como quaisquer outras relativas à prossecução das suas atribuições.\n\n4 - O orçamento anual, as respectivas alterações bem como as contas são aprovados pela CNPD.\n\n5 - As contas da CNPD ficam sujeitas, nos termos gerais, ao controlo do Tribunal de Contas.\n\n> Alterado pelo/a Artigo 184.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+  },
+  "122102894": {
+   "fragment_id": "122101741",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de Julho de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 2 de Agosto de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 5 de Agosto de 2004.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "123795826": {
+   "fragment_id": "122101701",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza, atribuições e competências",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza, atribuições e competências\n\n1 - A CNPD é uma entidade administrativa independente, com personalidade jurídica de direito público e poderes de autoridade, dotada de autonomia administrativa e financeira, que funciona junto da Assembleia da República.\n\n2 - A CNPD é a autoridade de controlo nacional para efeitos do Regulamento Geral de Proteção de Dados (RGPD), aprovado pelo Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e da lei que assegura a sua execução na ordem jurídica interna.\n\n3 - A CNPD controla e fiscaliza o cumprimento do RGPD e da presente lei, bem como das demais disposições legais e regulamentares em matéria de proteção de dados pessoais, a fim de defender os direitos, liberdades e garantias das pessoas singulares no âmbito dos tratamentos de dados pessoais.\n\n4 - A CNPD age com independência na prossecução das suas atribuições e no exercício dos poderes que lhe são atribuídos pela presente lei.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795827": {
+   "fragment_id": "122101703",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição, designação e mandato dos membros",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 3.º — Composição, designação e mandato dos membros\n\n1 - A CNPD é composta por sete membros de integridade e mérito reconhecidos:\n\na) Um presidente, eleito pela Assembleia da República;\n\nb) Duas personalidades eleitas pela Assembleia da República segundo o método da média mais alta de Hondt;\n\nc) Dois magistrados, sendo um magistrado judicial, designado pelo Conselho Superior da Magistratura, e um magistrado do Ministério Público, designado pelo Conselho Superior do Ministério Público;\n\nd) Duas personalidades designadas pelo Governo.\n\n2 - O mandato dos membros da CNPD é de cinco anos, renovável duas vezes, e cessa com a posse dos novos membros.\n\n3 - A designação dos membros da CNPD consta de lista publicada na 1.ª série do Diário da República.\n\n4 - Os membros da CNPD tomam posse perante o Presidente da Assembleia da República nos 10 dias seguintes à publicação da lista referida no número anterior.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795828": {
+   "fragment_id": "122101708",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 8.º — Deveres\n\nConstituem deveres dos membros da CNPD:\n\na) Exercer o respectivo cargo com isenção, rigor e independência;\n\nb) Participar activa e assiduamente nos trabalhos do órgão que integram;\n\nc) Guardar sigilo sobre as questões ou processos que estejam a ser objeto de apreciação, nos termos previstos no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e na Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795845": {
+   "fragment_id": "122101716",
+   "type": 11,
+   "heading": "Artigo 15.º — Deliberações",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 15.º — Deliberações\n\n1 - A CNPD só pode reunir e deliberar com a presença de pelo menos quatro membros.\n\n2 - As deliberações da CNPD são tomadas por maioria dos membros presentes, tendo o presidente voto de qualidade.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795829": {
+   "fragment_id": "122101717",
+   "type": 11,
+   "heading": "Artigo 16.º — Publicidade",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 16.º — Publicidade\n\n1 - São publicadas no sítio da Internet da CNPD as deliberações relativas a:\n\na) Acreditação e certificação;\n\nb) Revogação e anulação de acreditação e de certificação;\n\nc) Códigos de conduta;\n\nd) Autorizações;\n\ne) Regras vinculativas.\n\n2 - São ainda publicados naquele sítio os regulamentos e os pareceres sobre disposições legais e regulamentares e instrumentos jurídicos em preparação em instituições da União Europeia e internacionais, bem como as orientações e recomendações genéricas.\n\n3 - São publicados na 2.ª série do Diário da República os regulamentos administrativos, incluindo os relativos à fixação de taxas e os emitidos ao abrigo do disposto no n.º 3 do artigo 22.º\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795830": {
+   "fragment_id": "122101718",
+   "type": 11,
+   "heading": "Artigo 17.º — Denúncias e participações",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 17.º — Denúncias e participações\n\n1 - As denúncias e participações são apresentadas por escrito, em local específico para o efeito no sítio da CNPD, sem prejuízo de, excecionalmente, desde que devidamente fundamentado, se admitir a sua apresentação por correio eletrónico ou correio postal, podendo ser exigida a confirmação da identidade dos seus autores.\n\n2 - (Revogado.)\n\n3 - Quando a questão suscitada não for da competência da CNPD, deve a mesma ser encaminhada para a entidade competente, com informação ao exponente.\n\n4 - As reclamações, queixas e petições manifestamente infundadas podem ser arquivadas pelo membro da Comissão a quem o respectivo processo tenha sido distribuído.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795831": {
+   "fragment_id": "122101719",
+   "type": 11,
+   "heading": "Artigo 18.º — Formalidades",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 18.º — Formalidades\n\n1 - Os documentos dirigidos à CNPD e o processado subsequente não estão sujeitos a formalidades especiais.\n\n2 - A CNPD pode aprovar modelos ou formulários, em suporte eletrónico, com vista a permitir melhor instrução dos processos.\n\n3 - (Revogado.)\n\n4 - Os pedidos de parecer sobre disposições legais e regulamentares em preparação devem ser remetidos à CNPD pelo titular do órgão com poder legiferante ou regulamentar, instruídos com o respetivo estudo de impacto sobre a proteção de dados pessoais.\n\n5 - Os pedidos de parecer sobre quaisquer outros instrumentos jurídicos da União Europeia ou internacionais em preparação, relativos ao tratamento de dados pessoais, devem ser remetidos à CNPD pela entidade que representa o Estado português no processo de elaboração da iniciativa, devidamente instruídos.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795832": {
+   "fragment_id": "122101720",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências e substituição do presidente",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 19.º — Competências e substituição do presidente\n\n1 - Compete ao presidente:\n\na) Representar a Comissão;\n\nb) Superintender nos serviços de apoio;\n\nc) Convocar as sessões e fixar a ordem de trabalhos;\n\nd) Ouvida a Comissão, nomear o pessoal do mapa e autorizar transferências, requisições e destacamentos;\n\ne) Ouvida a Comissão, autorizar a contratação do pessoal referido no n.º 5 do artigo 30.º;\n\nf) Outorgar contratos em nome da Comissão e obrigá-la nos demais negócios jurídicos;\n\ng) Autorizar a realização de despesas dentro dos limites legalmente compreendidos na competência dos ministros;\n\nh) Aplicar coimas e homologar deliberações, nos termos previstos na lei;\n\ni) Ouvida a Comissão, fixar as regras de distribuição dos processos;\n\nj) Submeter à aprovação da Comissão o plano de actividades;\n\nl) Em geral, assegurar o cumprimento das leis e a regularidade das deliberações.\n\n2 - O presidente é substituído, nas suas faltas e impedimentos, pelo vogal que a Comissão designar.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795819": {
+   "fragment_id": "123855902",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Fiscal único",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 64.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 19.º-A — Fiscal único\n\n1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da CNPD, e de consulta por esta nesse domínio.\n\n2 - O fiscal único é um revisor oficial de contas, designado pela Assembleia da República, por resolução, e que toma posse perante o Presidente da Assembleia da República.\n\n3 - O mandato do fiscal único tem a duração de cinco anos, não renovável, permanecendo em exercício de funções até à efetiva substituição.\n\n4 - O fiscal único é remunerado por valor correspondente a 25 % da remuneração base auferida pelos membros da CNPD.\n\n5 - Compete, designadamente, ao fiscal único:\n\na) Acompanhar e controlar a gestão financeira e patrimonial da CNPD;\n\nb) Examinar periodicamente a situação financeira e económica da CNPD e verificar o cumprimento das normas reguladoras da sua atividade;\n\nc) Emitir parecer prévio, no prazo máximo de 10 dias, sobre a aquisição, oneração, arrendamento e alienação de bens móveis;\n\nd) Emitir parecer sobre qualquer assunto que lhe seja submetido pela CNPD;\n\ne) Participar às entidades competentes as irregularidades que detete.\n\n> Aditado pelo/a Artigo 64.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795833": {
+   "fragment_id": "122101722",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime de receitas e despesas",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09",
+    "Alterado pelo/a Artigo 184.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Regime de receitas e despesas\n\n1 - As receitas e despesas da CNPD, que goza de autonomia administrativa e financeira, constam de orçamento anual.\n\n2 - Além das dotações que lhe sejam atribuídas no orçamento da Assembleia da República, nos termos da Lei n.º 59/90, de 21 de novembro, constituem receitas da CNPD:\n\na) O produto das taxas cobradas;\n\nb) O produto da venda de publicações;\n\nc) O produto dos encargos da passagem de certidões e acesso a documentos;\n\nd) O montante das coimas cobradas que, nos termos da lei, revertam a seu favor;\n\ne) O saldo de gerência do ano anterior;\n\nf) Os subsídios, subvenções, comparticipações, doações e legados, concedidos por entidades, públicas e privadas, nacionais, estrangeiras, da União Europeia ou internacionais;\n\n3 - Constituem despesas da CNPD as que resultem dos encargos e responsabilidades decorrentes do seu funcionamento, bem como quaisquer outras relativas à prossecução das suas atribuições.\n\n4 - O orçamento anual, as respectivas alterações bem como as contas são aprovados pela CNPD.\n\n5 - As contas da CNPD ficam sujeitas, nos termos gerais, ao controlo do Tribunal de Contas.\n\n6 - A gestão do orçamento da CNPD, incluindo as dotações não integradas no orçamento da Assembleia da República, fica sujeita ao regime deste último, sendo igualmente aplicável o regime previsto no n.º 10 do artigo 60.º da Lei n.º 71/2018, de 31 de dezembro.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09\n\n> Alterado pelo/a Artigo 184.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+  },
+  "123795834": {
+   "fragment_id": "122101723",
+   "type": 11,
+   "heading": "Artigo 21.º — Taxas",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 21.º — Taxas\n\n1 - A CNPD pode cobrar taxas:\n\na) Pela acreditação e certificação;\n\nb) Pela consulta prévia;\n\nc) Pela emissão de autorizações;\n\nd) Pela apreciação de códigos de conduta;\n\ne) Nos demais casos previstos por lei.\n\n2 - O montante das taxas, que deve ser proporcional à complexidade do pedido e ao serviço prestado, é fixado em regulamento pela CNPD.\n\n3 - Em caso de comprovada insuficiência económica, o interessado poderá ficar isento, total ou parcialmente, do pagamento das taxas referidas no n.º 1, mediante deliberação da CNPD.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795835": {
+   "fragment_id": "122101725",
+   "type": 11,
+   "heading": "Artigo 22.º — Organização dos serviços de apoio",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 22.º — Organização dos serviços de apoio\n\n1 - A CNPD dispõe de serviços de apoio próprios que compreendem unidades e núcleos.\n\n2 - Os serviços de apoio são constituídos pelas seguintes unidades:\n\na) Unidade de Direitos e Sanções;\n\nb) Unidade de Inspeção;\n\nc) Unidade de Relações Públicas e Internacionais;\n\nd) Unidade de Informática;\n\ne) Unidade de Apoio Administrativo e Financeiro.\n\n3 - Compete à CNPD aprovar o regulamento de organização e funcionamento dos serviços de apoio, bem como o regulamento de avaliação dos trabalhadores.\n\n4 - Os serviços de apoio são dirigidos por um secretário, o qual tem direito à remuneração mais elevada de consultor-coordenador, bem como a um abono mensal para despesas de representação no valor de 8% da remuneração base.\n\n5 - O secretário é nomeado por despacho do presidente, obtido parecer favorável da Comissão, com observância dos requisitos legais adequados ao desempenho das respetivas funções, escolhido preferencialmente de entre funcionários já pertencentes ao mapa da CNPD, habilitados com licenciatura e de reconhecida competência para o desempenho do lugar.\n\n6 - A nomeação do secretário é feita em regime de comissão de serviço, por períodos de três anos.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795836": {
+   "fragment_id": "122101727",
+   "type": 11,
+   "heading": "Artigo 24.º — Unidade de Direitos e Sanções",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 24.º — Unidade de Direitos e Sanções\n\nCompete à Unidade de Direitos e Sanções assegurar o apoio técnico-jurídico, designadamente:\n\na) Instruir os processos de contraordenação, bem como outros processos abertos com base em participações ou denúncias;\n\nb) Preparar as peças processuais e representar a CNPD em processos judiciais, quando mandatados para o efeito;\n\nc) Preparar pareceres sobre projetos legislativos e regulamentares e sobre instrumentos jurídicos em preparação em instituições da União Europeia e internacionais;\n\nd) Analisar e preparar orientações sobre estudos de avaliação do impacto sobre a proteção de dados;\n\ne) Instruir e propor decisões sobre processos de autorização prévia nos casos previstos em lei;\n\nf) Instruir e propor decisões sobre processos de acreditação e de revisão de acreditação e certificações;\n\ng) Analisar e preparar decisões em processos de notificação de violações de dados pessoais;\n\nh) Analisar e preparar decisões sobre códigos de conduta;\n\ni) Interagir com encarregados de proteção de dados;\n\nj) Colaborar na organização de colóquios, seminários e outras iniciativas de difusão de matérias de proteção de dados pessoais;\n\nk) Instruir e propor decisões relativas ao exercício de direitos pelos titulares dos dados pessoais;\n\nl) Desempenhar quaisquer outras tarefas de âmbito técnico-jurídico.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795820": {
+   "fragment_id": "123855903",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Unidade de Inspeção",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 64.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 24.º-A — Unidade de Inspeção\n\nCompete à Unidade de Inspeção realizar inspeções e auditorias no âmbito dos processos em curso, com mandato da CNPD, em especial:\n\na) Fiscalizar a conformidade do tratamento de dados pessoais, podendo para tal aceder às instalações do responsável e do subcontratante, aos equipamentos, aos meios de tratamento de dados, bem como a toda a documentação que se revele necessária;\n\nb) Investigar, no âmbito da assistência mútua e das operações conjuntas previstas nos artigos 61.º e 62.º do Regulamento (UE) 2016/679 do Parlamento e do Conselho, de 27 de abril de 2016, os tratamentos de dados pessoais, nas condições previstas na alínea anterior;\n\nc) Realizar as auditorias da parte nacional dos sistemas de informação europeus, nos termos da legislação da União Europeia.\n\n> Aditado pelo/a Artigo 64.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795837": {
+   "fragment_id": "122101728",
+   "type": 11,
+   "heading": "Artigo 25.º — Unidade de Relações Públicas e Internacionais",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 25.º — Unidade de Relações Públicas e Internacionais\n\nCompete à Unidade de Relações Públicas e Internacionais assegurar o apoio em matéria de informação, documentação e relações públicas e na interação com autoridades europeias e internacionais, designadamente:\n\na) Gerir os conteúdos do sítio da Internet e da intranet da CNPD;\n\nb) Organizar e manter atualizado um centro de documentação com a função de recolher bibliografia, documentação, textos, diplomas legais, atos normativos e administrativos e demais elementos de informação científica e técnica relacionada com a proteção de dados pessoais;\n\nc) Promover a divulgação e o esclarecimento de direitos e obrigações relativos à proteção de dados pessoais;\n\nd) Assegurar os contactos com os órgãos de comunicação social;\n\ne) Organizar, assessorar e dinamizar a realização de colóquios, seminários e outros eventos;\n\nf) Colaborar na conceção e edição de publicações, bem como no relatório anual de atividades;\n\ng) Desempenhar quaisquer outras tarefas, no âmbito da informação e comunicação;\n\nh) Gerir as relações institucionais com organizações da União Europeia ou internacionais em matéria de proteção de dados pessoais;\n\ni) Assegurar as relações com as autoridades de controlo congéneres, em especial no âmbito das competências do Comité Europeu para a Proteção de Dados;\n\nj) Instruir e preparar decisões nos procedimentos de cooperação e coerência;\n\nk) Instruir e preparar decisões quanto a transferências internacionais de dados pessoais.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795838": {
+   "fragment_id": "122101729",
+   "type": 11,
+   "heading": "Artigo 26.º — Unidade de Informática",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 26.º — Unidade de Informática\n\n1 - Compete à Unidade de Informática garantir o normal funcionamento das infraestruturas de informação e comunicação da CNPD e o apoio técnico necessário na área das tecnologias de informação, nomeadamente:\n\na) Assegurar a gestão integrada e a manutenção do parque informático da CNPD e do respetivo sistema de comunicações;\n\nb) Assegurar o correto funcionamento da rede informática e dos sistemas de informação da CNPD;\n\nc) Proceder aos estudos técnicos necessários à aquisição de material informático e de comunicação;\n\nd) Assegurar o apoio aos utilizadores dos sistemas de informação e comunicação, bem como fomentar junto dos mesmos boas práticas para uma utilização segura e adequada desses sistemas;\n\ne) Assegurar a aplicação de normas de segurança que garantam a fiabilidade, confidencialidade e durabilidade dos sistemas de informação;\n\nf) Conceber a arquitetura global do sistema de informação da CNPD;\n\ng) Desenhar, desenvolver e operacionalizar as aplicações e as interfaces necessárias ao exercício da atividade da CNPD;\n\nh) Desenhar, desenvolver e operacionalizar o sítio da Internet da CNPD;\n\ni) Efetuar estudos sobre novas tecnologias com impacto no tratamento de dados pessoais.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795839": {
+   "fragment_id": "122101730",
+   "type": 11,
+   "heading": "Artigo 27.º — Unidade de Apoio Administrativo e Financeiro",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 27.º — Unidade de Apoio Administrativo e Financeiro\n\nCompete à Unidade de Apoio Administrativo e Financeiro apoiar a CNPD na gestão dos processos e dos recursos humanos, financeiros e materiais, designadamente:\n\na) Preparar as propostas de orçamento e acompanhar a sua execução;\n\nb) Assegurar o processamento e a contabilização das receitas e das despesas;\n\nc) Elaborar a conta de gerência e o respectivo relatório;\n\nd) Promover as aquisições de bens e serviços;\n\ne) Administrar os bens de consumo, bem como gerir as instalações, viaturas e demais equipamentos ao serviço da CNPD;\n\nf) Elaborar e manter atualizado o inventário geral;\n\ng) Promover o recrutamento, promoção e a contratação de trabalhadores, bem como a aplicação dos instrumentos de mobilidade;\n\nh) Processar os vencimentos dos trabalhadores, dos membros da CNPD e do fiscal único;\n\ni) Organizar e manter atualizada a informação relativa aos trabalhadores, aos membros da CNPD e ao fiscal único;\n\nj) Promover a formação dos trabalhadores;\n\nk) Promover a execução da avaliação dos trabalhadores;\n\nl) Instruir e propor decisão em processos disciplinares;\n\nm) Secretariar o presidente e o secretário;\n\nn) Assegurar o registo e encaminhamento da correspondência, bem como a organização e arquivo de documentos;\n\no) Assegurar o atendimento externo e o apoio a reuniões;\n\np) Assegurar a condução de viaturas e a sua manutenção e receber e entregar expediente e encomendas;\n\nq) Desempenhar quaisquer outras tarefas que, no contexto da sua área funcional, sejam determinadas pelo presidente ou pelo secretário.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795840": {
+   "fragment_id": "122101731",
+   "type": 11,
+   "heading": "Artigo 28.º — Regime de pessoal",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 28.º — Regime de pessoal\n\n1 - Aos trabalhadores da CNPD aplica-se o regime geral do trabalho em funções públicas.\n\n2 - O pessoal da CNPD está isento de horário de trabalho, não sendo por isso devida qualquer remuneração a título de horas extraordinárias, sem prejuízo do disposto no artigo 33.º\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795841": {
+   "fragment_id": "122101732",
+   "type": 11,
+   "heading": "Artigo 29.º — Cartão de identificação",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 29.º — Cartão de identificação\n\nOs trabalhadores da CNPD possuem cartão de identificação, dele constando o cargo desempenhado e os poderes inerentes à sua função.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795842": {
+   "fragment_id": "122101734",
+   "type": 11,
+   "heading": "Artigo 30.º — Quadro de pessoal",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 30.º — Quadro de pessoal\n\n1 - O quadro de pessoal, bem como o conteúdo funcional das respectivas carreiras, é fixado em resolução da Assembleia da República.\n\n2 - Os lugares de consultor da CNPD serão providos em regime de comissão de serviço, por tempo indeterminado, requisição ou destacamento, no caso da nomeação recair em funcionário público, ou em regime de contrato individual de trabalho, quando não vinculados à Administração Pública.\n\n3 - São condições indispensáveis ao recrutamento de consultor a elevada competência profissional e experiência válida para o exercício da função, a avaliar com base nos respectivos curricula.\n\n4 - O prazo previsto no n.º 1 do artigo 97.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, não é aplicável ao regime de mobilidade para os serviços de apoio à CNPD, podendo, porém, a mobilidade ser dada por finda por decisão do presidente, ouvida a Comissão, ou a pedido do interessado.\n\n5 - Quando a complexidade e ou especificidade dos assuntos o exigir pode o presidente autorizar a contratação de pessoal em regime de contrato de prestação de serviços.\n\n6 - Para o desempenho de funções nos serviços de apoio da CNPD no âmbito dos mecanismos de mobilidade, e sempre que se opere por iniciativa do trabalhador, é dispensado o acordo do serviço de origem.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795843": {
+   "fragment_id": "122101735",
+   "type": 11,
+   "heading": "Artigo 31.º — Trabalhadores em funções públicas",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 31.º — Trabalhadores em funções públicas\n\nA nomeação em comissão de serviço de trabalhadores em funções públicas para o cargo de consultor não determina a abertura de vaga no mapa de origem, ficando salvaguardados todos os direitos inerentes aos seus anteriores cargos ou funções, designadamente para efeitos de promoção ou progressão.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  }
+ }
+}

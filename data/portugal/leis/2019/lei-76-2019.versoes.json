@@ -1,0 +1,248 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124346827:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2019-171891469",
+ "dre_path": "/dr/detalhe/lei/76-2019-124346827",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-09-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "171870057",
+    "171870058",
+    "171870059",
+    "171870060",
+    "171870061",
+    "171870062",
+    "171870063",
+    "171870064",
+    "171870065",
+    "171870066",
+    "171870067",
+    "171870068",
+    "171870069",
+    "171870070",
+    "171870071",
+    "171870072"
+   ]
+  },
+  {
+   "date": "2021-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:171871496:por",
+     "title": "Decreto-Lei n.º 78/2021",
+     "published": "2021-09-24",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2021-171871496"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "171870057",
+    "171870058",
+    "171870059",
+    "171870074",
+    "171870061",
+    "171870062",
+    "171870063",
+    "171870064",
+    "171870065",
+    "171929875",
+    "171870067",
+    "171929876",
+    "171870069",
+    "171929877",
+    "171870071",
+    "171870072",
+    "171870073"
+   ]
+  }
+ ],
+ "fragments": {
+  "171870057": {
+   "fragment_id": "171891470",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 76/2019\n\nde 2 de setembro\n\nSumário: Determina a não utilização e não disponibilização de louça de plástico de utilização única nas atividades do setor de restauração e/ou bebidas e no comércio a retalho.\n\nDetermina a não utilização e não disponibilização de louça de plástico de utilização única nas atividades do setor de restauração e/ou bebidas e no comércio a retalho\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "171870058": {
+   "fragment_id": "171891471",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "171870059": {
+   "fragment_id": "171891472",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei determina a não utilização e não disponibilização de louça de plástico de utilização única em todos os estabelecimentos, outros locais e atividades não sedentárias do setor da restauração e/ou de bebidas e no comércio a retalho."
+  },
+  "171870060": {
+   "fragment_id": "171891473",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto na presente lei, entende-se por:\n\na) «Atividade de comércio a retalho», a atividade de revenda ao consumidor final, incluindo profissionais e institucionais, de bens novos ou usados, tal como são adquiridos, ou após a realização de algumas operações associadas ao comércio a retalho, como a escolha, a classificação e o acondicionamento, desenvolvida dentro ou fora de estabelecimentos de comércio, em feiras, mercados municipais, de modo ambulante, à distância, ao domicílio e através de máquinas automáticas;\n\nb) «Atividade de comércio a retalho não sedentária», a atividade de comércio a retalho em que a presença do comerciante nos locais de venda, em feiras ou de modo ambulante, não reveste um caráter fixo e permanente, realizada nomeadamente em unidades móveis ou amovíveis;\n\nc) «Atividade de restauração e/ou bebidas não sedentária», a prestação de serviços de restauração e/ou de bebidas com caráter esporádico e/ou ocasional, devidamente anunciada ao público, independentemente de ser prestada em instalações fixas ou em instalações amovíveis ou prefabricadas, localizadas em recintos de espetáculos, feiras, exposições ou outros espaços;\n\nd) «Estabelecimento de restauração e/ou bebidas», os estabelecimentos, cuja atividade se destina a prestar serviços de alimentação ou de bebidas e cafetaria no próprio estabelecimento ou fora dele, qualquer que seja a sua denominação;\n\ne) «Louça descartável», todos os utensílios utilizados para servir e/ou auxiliar no consumo de alimentação ou bebidas, nomeadamente, pratos, tigelas, copos, colheres, garfos, facas, palhinhas, palhetas, cuja utilização, pelas suas características, apenas seja possível uma vez;\n\nf) «Louça reutilizável», todos os utensílios utilizados para servir e/ou auxiliar no consumo de alimentação ou bebidas, nomeadamente, pratos, tigelas, copos, colheres, garfos, facas, palhinhas, palhetas, cuja utilização, pelas suas características, possibilite a sua reutilização para o mesmo fim para que foram concebidos;\n\ng) «Material biodegradável», material de origem 100 % biológica e renovável, cuja decomposição é efetuada por processos de compostagem doméstica, industrial ou em meio natural;\n\nh) «Operadores económicos», fabricantes, transformadores, importadores, distribuidores, fornecedores, vendedores de utensílios de refeição descartáveis;\n\ni) «Outros locais de atividade de restauração e/ou de bebidas», locais onde se realizam serviços de restauração e/ou de bebidas através da atividade de catering, oferta de serviços de banquetes ou outras, desde que regularmente efetuados, entendendo-se como tal a execução nesses espaços de, pelo menos, 10 eventos anuais;\n\nj) «Plástico», um material composto de um polímero na aceção do n.º 5 do artigo 3.º do Regulamento (CE) n.º 1907/2006, do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, ao qual podem ter sido acrescentados aditivos ou outras substâncias e que pode funcionar como principal componente estrutural de produtos finais, com exceção dos polímeros naturais que não tenham sido quimicamente modificados;\n\nk) «Produto de plástico de utilização única», um produto fabricado total ou parcialmente a partir de plástico e que não é concebido, projetado ou colocado no mercado para perfazer múltiplas viagens ou rotações no seu ciclo de vida mediante a sua devolução ao produtor para reenchimento ou a sua reutilização para o mesmo fim para o qual foi concebido."
+  },
+  "171870061": {
+   "fragment_id": "171891474",
+   "type": 11,
+   "heading": "Artigo 3.º — Utilização de louça nas atividades do setor de restauração e/ou bebidas e no comércio a retalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Utilização de louça nas atividades do setor de restauração e/ou bebidas e no comércio a retalho\n\n1 - Em todos os estabelecimentos, outros locais e atividades não sedentárias do setor da restauração e/ou de bebidas deve ser utilizada louça reutilizável, ou, em alternativa, louça em material biodegradável.\n\n2 - Nas situações em que o consumo de alimentos ou bebidas ocorre em contexto clínico/hospitalar com especiais indicações clínicas, é permitida a utilização de louça de plástico de utilização única, nos termos das referidas indicações clínicas.\n\n3 - Em contexto de emergência social e/ou humanitária é permitida a utilização de louça de plástico de utilização única para consumo de alimentos ou bebidas.\n\n4 - Na atividade de comércio a retalho não pode ser disponibilizada louça de plástico de utilização única para o consumo de alimentação ou bebidas."
+  },
+  "171870062": {
+   "fragment_id": "171902475",
+   "type": 11,
+   "heading": "Artigo 4.º — Promoção e criação de soluções alternativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Promoção e criação de soluções alternativas\n\n1 - O Governo, em cooperação com os operadores económicos e meios académicos, promove a realização de investigação e estudos conducentes à criação de soluções alternativas para colocação no mercado de utensílios de refeição descartáveis produzidos a partir de materiais biodegradáveis.\n\n2 - Promove ainda, em articulação com os operadores económicos, a adoção de práticas alternativas ao uso de utensílios descartáveis em plástico."
+  },
+  "171870063": {
+   "fragment_id": "171902476",
+   "type": 11,
+   "heading": "Artigo 5.º — Ações de sensibilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ações de sensibilização\n\nO Governo, em articulação com outras entidades, promove ações de sensibilização junto dos produtores, distribuidores, fornecedores, vendedores, prestadores de serviços de restauração e/ou bebidas e do consumidor final para que privilegiem o uso de louça reutilizável em detrimento de descartável."
+  },
+  "171870064": {
+   "fragment_id": "171902477",
+   "type": 1,
+   "heading": "Capítulo II — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Fiscalização e regime sancionatório"
+  },
+  "171870065": {
+   "fragment_id": "171902478",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\nSem prejuízo da competência das autoridades policiais e administrativas, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do disposto na presente lei."
+  },
+  "171870066": {
+   "fragment_id": "171902479",
+   "type": 11,
+   "heading": "Artigo 7.º — Contraordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contraordenação\n\nA violação do disposto no n.º 1 e no n.º 4 do artigo 3.º da presente lei constitui contraordenação ambiental punível com coima, nos termos do n.º 2 do artigo 22.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual."
+  },
+  "171870067": {
+   "fragment_id": "171902480",
+   "type": 11,
+   "heading": "Artigo 8.º — Instrução do processo e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instrução do processo e aplicação de sanções\n\nCompete à ASAE instruir os processos relativos às contraordenações referidas nos artigos anteriores e decidir a aplicação da coima."
+  },
+  "171870068": {
+   "fragment_id": "171902481",
+   "type": 11,
+   "heading": "Artigo 9.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produto das coimas\n\nA afetação do produto das coimas é realizada da seguinte forma:\n\na) 10 % para a entidade autuante;\n\nb) 30 % para a ASAE;\n\nc) 60 % para o Estado."
+  },
+  "171870069": {
+   "fragment_id": "171902482",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "171870070": {
+   "fragment_id": "171902483",
+   "type": 11,
+   "heading": "Artigo 10.º — Período transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Período transitório\n\n1 - Os prestadores de serviços de restauração e/ou de bebidas dispõem de um período de um ano para se adaptarem às disposições da presente lei.\n\n2 - Os prestadores de serviços não sedentários de restauração e/ou de bebidas, e os prestadores dos serviços que ocorram em meios de transporte coletivos, nomeadamente, aéreo, ferroviário, marítimo e viário de longo curso, dispõem de um período de dois anos para se adaptarem às disposições da presente lei.\n\n3 - O comércio a retalho dispõe de um período de três anos para se adaptar às disposições da presente lei."
+  },
+  "171870071": {
+   "fragment_id": "171902484",
+   "type": 11,
+   "heading": "Artigo 11.º — Relatório de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Relatório de avaliação\n\nFindo cada período transitório previsto no artigo anterior, o Governo elabora um relatório de avaliação dos impactos ambiental e económico resultantes da aplicação da presente lei, que remete à Assembleia da República no prazo de um ano."
+  },
+  "171870072": {
+   "fragment_id": "171902485",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "171870074": {
+   "fragment_id": "171891473",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto na presente lei, entende-se por:\n\na) «Atividade de comércio a retalho», a atividade de revenda ao consumidor final, incluindo profissionais e institucionais, de bens novos ou usados, tal como são adquiridos, ou após a realização de algumas operações associadas ao comércio a retalho, como a escolha, a classificação e o acondicionamento, desenvolvida dentro ou fora de estabelecimentos de comércio, em feiras, mercados municipais, de modo ambulante, à distância, ao domicílio e através de máquinas automáticas;\n\nb) «Atividade de comércio a retalho não sedentária», a atividade de comércio a retalho em que a presença do comerciante nos locais de venda, em feiras ou de modo ambulante, não reveste um caráter fixo e permanente, realizada nomeadamente em unidades móveis ou amovíveis;\n\nc) «Atividade de restauração e/ou bebidas não sedentária», a prestação de serviços de restauração e/ou de bebidas com caráter esporádico e/ou ocasional, devidamente anunciada ao público, independentemente de ser prestada em instalações fixas ou em instalações amovíveis ou prefabricadas, localizadas em recintos de espetáculos, feiras, exposições ou outros espaços;\n\nd) «Estabelecimento de restauração e/ou bebidas», os estabelecimentos, cuja atividade se destina a prestar serviços de alimentação ou de bebidas e cafetaria no próprio estabelecimento ou fora dele, qualquer que seja a sua denominação;\n\ne) 'Louça de plástico de utilização única', os seguintes produtos de plástico de utilização única utilizados para servir e/ou auxiliar no consumo de alimentação ou de bebidas:\n\ni) Talheres (garfos, facas, colheres, pauzinhos);\n\nii) Pratos;\n\niii) Palhas, exceto se forem abrangidas pelo âmbito de aplicação do Decreto-Lei n.º 145/2009, de 17 de junho, na sua redação atual;\n\niv) Agitadores de bebidas;\n\nv) Recipientes para alimentos feitos de poliestireno expandido, ou seja, recipientes como caixas, com ou sem tampa, utilizados para conter alimentos destinados ao consumo imediato, tanto no local como para levar, tipicamente consumidos a partir do recipiente, e prontos a consumir sem preparação suplementar, ou seja, sem cozinhar, ferver ou aquecer, incluindo os recipientes para alimentos utilizados na restauração rápida ou que contenham qualquer outro tipo de refeição pronta para consumo imediato, excetuando os recipientes para bebidas, os pratos e os sacos e invólucros que contenham alimentos;\n\nvi) Recipientes para bebidas feitos de poliestireno expandido, incluindo as suas cápsulas e tampas; e\n\nvii) Copos para bebidas feitos de poliestireno expandido, incluindo as suas coberturas e tampas;\n\nf) 'Louça reutilizável', os utensílios utilizados para servir e/ou auxiliar no consumo de alimentação ou de bebidas, tipificados na alínea anterior, cuja utilização, pelas suas características, possibilite a sua reutilização para o mesmo fim para que foram concebidos;\n\ng) 'Material biodegradável' material de origem 100 % biológica e renovável, cuja decomposição é efetuada por processos de compostagem doméstica, industrial ou em meio natural, com exceção dos bioplásticos e dos plásticos biodegradáveis;\n\nh) «Operadores económicos», fabricantes, transformadores, importadores, distribuidores, fornecedores, vendedores de utensílios de refeição descartáveis;\n\ni) «Outros locais de atividade de restauração e/ou de bebidas», locais onde se realizam serviços de restauração e/ou de bebidas através da atividade de catering, oferta de serviços de banquetes ou outras, desde que regularmente efetuados, entendendo-se como tal a execução nesses espaços de, pelo menos, 10 eventos anuais;\n\nj) «Plástico», um material composto de um polímero na aceção do n.º 5 do artigo 3.º do Regulamento (CE) n.º 1907/2006, do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, ao qual podem ter sido acrescentados aditivos ou outras substâncias e que pode funcionar como principal componente estrutural de produtos finais, com exceção dos polímeros naturais que não tenham sido quimicamente modificados;\n\nk) «Produto de plástico de utilização única», um produto fabricado total ou parcialmente a partir de plástico e que não é concebido, projetado ou colocado no mercado para perfazer múltiplas viagens ou rotações no seu ciclo de vida mediante a sua devolução ao produtor para reenchimento ou a sua reutilização para o mesmo fim para o qual foi concebido.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929875": {
+   "fragment_id": "171902479",
+   "type": 11,
+   "heading": "Artigo 7.º — Contraordenação",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Contraordenação\n\n1 - A violação do disposto no n.º 1 e no n.º 4 do artigo 3.º constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas, aprovado em anexo ao Decreto-Lei n.º 9/2021, de 29 de janeiro (RJCE).\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929876": {
+   "fragment_id": "171902481",
+   "type": 11,
+   "heading": "Artigo 9.º — Produto das coimas",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 9.º — Produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações previstas no artigo 7.º é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929877": {
+   "fragment_id": "171902483",
+   "type": 11,
+   "heading": "Artigo 10.º — Período transitório",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 10.º — Período transitório\n\n1 - Os prestadores de serviços de restauração e/ou de bebidas dispõem de um período de um ano para se adaptarem às disposições da presente lei.\n\n2 - Os prestadores de serviços não sedentários de restauração e/ou de bebidas, e os prestadores dos serviços que ocorram em meios de transporte coletivos, nomeadamente, aéreo, ferroviário, marítimo e viário de longo curso, dispõem de um período de dois anos para se adaptarem às disposições da presente lei.\n\n3 - O comércio a retalho dispõe de um período de três anos para se adaptar às disposições da presente lei.\n\n4 - O disposto no artigo 7.º aplica-se a partir de 1 de julho de 2022.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171870073": {
+   "fragment_id": "171902486",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de julho de 2019.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 6 de agosto de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 12 de agosto de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112526134"
+  }
+ }
+}

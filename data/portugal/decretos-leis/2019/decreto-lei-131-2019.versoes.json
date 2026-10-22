@@ -1,0 +1,776 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124324703:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-147412898",
+ "dre_path": "/dr/detalhe/decreto-lei/131-2019-124324703",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-08-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "147219518",
+    "147219519",
+    "147219520",
+    "147219521",
+    "147219522",
+    "147219524",
+    "147219525",
+    "147219526",
+    "147219527",
+    "147219528",
+    "147219529",
+    "147219530",
+    "147219531",
+    "147219532",
+    "147219533",
+    "147219534",
+    "147219535",
+    "147219536",
+    "147219537",
+    "147219538",
+    "147219539",
+    "147219540",
+    "147219541",
+    "147219542",
+    "147219543",
+    "147219544",
+    "147219545",
+    "147219546",
+    "147219547",
+    "147219548",
+    "147219549",
+    "147219550",
+    "147219551",
+    "147219552",
+    "147219553",
+    "147219554",
+    "147219555",
+    "147219556",
+    "147219557",
+    "147219558",
+    "147219559",
+    "147219560",
+    "147219561",
+    "147219562",
+    "147219563",
+    "147219564",
+    "147219565",
+    "147219566",
+    "147219567",
+    "147219568",
+    "147219569",
+    "147219570",
+    "147219571",
+    "147219572",
+    "147219573",
+    "147219574",
+    "147431775",
+    "147431776",
+    "147431777",
+    "147431778",
+    "147431779",
+    "147431780",
+    "147431781",
+    "147431782",
+    "147431783",
+    "147431784",
+    "147431785",
+    "147431786",
+    "147431787",
+    "147431788",
+    "147431789"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 29.º",
+    "Altera Artigo 33.º"
+   ],
+   "fragments": [
+    "147219518",
+    "147219519",
+    "147219520",
+    "147219521",
+    "147219522",
+    "147219523",
+    "147219524",
+    "147219525",
+    "147219526",
+    "147219527",
+    "147219528",
+    "147219529",
+    "147219530",
+    "147219531",
+    "147219532",
+    "147219533",
+    "147219534",
+    "147219535",
+    "147219536",
+    "147219537",
+    "147219538",
+    "147219539",
+    "147219540",
+    "147219541",
+    "147219542",
+    "147219543",
+    "147219544",
+    "147219545",
+    "147219546",
+    "147219547",
+    "147219548",
+    "147219549",
+    "147219550",
+    "147219551",
+    "147219552",
+    "147219553",
+    "147219554",
+    "147219555",
+    "147219556",
+    "147219557",
+    "147219558",
+    "147219559",
+    "147219560",
+    "147219561",
+    "147219562",
+    "147219563",
+    "147219564",
+    "157266022",
+    "147219566",
+    "147219567",
+    "147219568",
+    "157266023",
+    "147219570",
+    "147219571",
+    "147219572",
+    "147219573",
+    "147219574",
+    "147431775",
+    "147431776",
+    "147431777",
+    "147431778",
+    "147431779",
+    "147431780",
+    "147431781",
+    "147431782",
+    "147431783",
+    "147431784",
+    "147431785",
+    "147431786",
+    "147431787",
+    "147431788",
+    "147431789"
+   ]
+  }
+ ],
+ "fragments": {
+  "147219518": {
+   "fragment_id": "147412899",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 131/2019\n\nde 30 de agosto\n\nSumário: Aprova o Regulamento de Instalação e de Funcionamento de Recipientes sob Pressão Simples e de Equipamentos sob Pressão.\n\nO presente decreto-lei aprova o Regulamento de Instalação e de Funcionamento de Recipientes sob Pressão Simples e de Equipamentos sob Pressão (Regulamento), concretizando a medida do Programa SIMPLEX+, designada «IPQ.net», que visa simplificar os regimes de licenciamento daqueles equipamentos, nomeadamente através da desmaterialização dos respetivos procedimentos, a concretizar através da sua tramitação em plataforma eletrónica acessível através do Portal ePortugal.\n\nIncluem-se no âmbito de aplicação do Regulamento aprovado em anexo ao presente decreto-lei, do qual faz parte integrante, os recipientes sob pressão simples (RSPS) para conter ar ou azoto e os equipamentos sob pressão (ESP), bem como os conjuntos sujeitos a uma pressão máxima admissível superior a 0,5 bar, tendo as regras aplicáveis à disponibilização no mercado sido estabelecidas, respetivamente, pelo Decreto-Lei n.º 37/2017, de 29 de março, o qual transpôs para a ordem jurídica interna a Diretiva n.º 2014/29/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, e pelo Decreto-Lei n.º 111-D/2017, de 31 de agosto, que transpôs para a ordem jurídica interna a Diretiva n.º 2014/68/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.\n\nA disciplina normativa agora aprovada prevê um conjunto de medidas de simplificação que, adequando os procedimentos de licenciamento de tais equipamentos às regras constantes dos diplomas acima referidos, visa assegurar uma gestão mais eficaz e uma maior celeridade dos procedimentos de licenciamento da responsabilidade do Instituto Português da Qualidade, I. P. (IPQ, I. P.), reduzindo os custos de contexto que lhes estão associados.\n\nCom a publicação deste Regulamento, é revogado o Decreto-Lei n.º 90/2010, de 22 de julho, com vista ao seu alinhamento com as disposições do Decreto-Lei n.º 111-D/2017, de 31 de agosto, prevendo-se que o ensaio de pressão efetuado no fabrico seja aceite para a respetiva colocação em serviço, se efetuado há menos de dois anos, o que corresponde ao prazo considerado para garantia comercial corrente. No sentido de promover a celeridade do procedimento de licenciamento e a inerente redução de custos, o Regulamento contempla, designadamente: (i) a eliminação do ato de registo autónomo; (ii) a comunicação prévia de funcionamento de RSPS; (iii) a redução dos prazos de decisão e de emissão de declarações e certificados pelo IPQ, I. P., de 45 para 30 dias; (iv) o alargamento do prazo de validade geral dos certificados, de 5 para 6 anos, sem prejuízo dos prazos estabelecidos para equipamentos específicos; (v) a emissão de parecer aos projetos de instalação por um organismo de inspeção (OI); e (vi) a isenção de apresentação do projeto de instalação para aprovação pelo IPQ, I. P., para recipientes de gás de petróleo liquefeito (GPL), atendendo às competências de outras entidades.\n\nPor fim, com o propósito de tornar o procedimento de licenciamento mais ágil, elimina-se a obrigação de os OI comunicarem as inspeções programadas ao IPQ, I. P.\n\nO presente decreto-lei foi notificado, na fase de projeto, à Comissão Europeia em cumprimento do disposto na Diretiva (UE) n.º 2015/1535, do Parlamento Europeu e do Conselho, de 9 de setembro de 2015, relativa a um procedimento de informação no domínio das regras técnicas e das regras relativas aos serviços da sociedade da informação.\n\nFoi ouvida a Comissão Nacional de Proteção de Dados.\n\nFoi promovida a audição dos órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "147219519": {
+   "fragment_id": "147412900",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado, em anexo ao presente decreto-lei, do qual faz parte integrante, o Regulamento de Instalação e de Funcionamento de Recipientes sob Pressão Simples e de Equipamentos sob Pressão, adiante designado por Regulamento."
+  },
+  "147219520": {
+   "fragment_id": "147412901",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma transitória\n\n1 - Aos processos de licenciamento em curso à data de entrada em vigor do Regulamento, é aplicável, até à sua conclusão, o regime constante no Decreto-Lei n.º 90/2010, de 22 de julho.\n\n2 - As instruções técnicas complementares (ITC) aprovadas através dos despachos a seguir identificados mantêm-se em vigor até à respetiva revogação:\n\na) Despacho n.º 22332/2001, de 12 de outubro, do Ministro da Economia, publicado no Diário da República, 2.ª série, n.º 252, de 30 de outubro;\n\nb) Despacho n.º 22333/2001, de 12 de outubro, do Ministro da Economia, publicado no Diário da República, 2.ª série, n.º 252, de 30 de outubro;\n\nc) Despacho n.º 1859/2003, de 13 de dezembro, da Secretária de Estado da Indústria, Comércio e Serviços, publicado no Diário da República, 2.ª série, n.º 25, de 30 de janeiro;\n\nd) Despacho n.º 11551/2007, de 21 de maio, do Ministro da Economia e da Inovação, publicado no Diário da República, 2.ª série, n.º 112, de 12 de junho;\n\ne) Despacho n.º 24260/2007, de 10 de outubro, do Ministro da Economia e da Inovação, publicado no Diário da República, 2.ª série, n.º 204, de 23 de outubro;\n\nf) Despacho n.º 24261/2007, de 10 de outubro, do Ministro da Economia e da Inovação, publicado no Diário da República, 2.ª série, n.º 268, de 23 de outubro."
+  },
+  "147219521": {
+   "fragment_id": "147412902",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 90/2010, de 22 de julho."
+  },
+  "147219522": {
+   "fragment_id": "147412903",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 90 dias após a sua publicação."
+  },
+  "147219524": {
+   "fragment_id": "147412905",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE INSTALAÇÃO E DE FUNCIONAMENTO DE RECIPIENTES SOB PRESSÃO SIMPLES E EQUIPAMENTOS SOB PRESSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE INSTALAÇÃO E DE FUNCIONAMENTO DE RECIPIENTES SOB PRESSÃO SIMPLES E EQUIPAMENTOS SOB PRESSÃO\n\n(a que se refere o artigo 1.º)"
+  },
+  "147219525": {
+   "fragment_id": "147412906",
+   "type": 1,
+   "heading": "Capítulo I — Objeto, âmbito e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto, âmbito e definições"
+  },
+  "147219526": {
+   "fragment_id": "147412907",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA instalação e o funcionamento de Recipientes Sob Pressão Simples (RSPS ou Recipientes) e de Equipamentos Sob Pressão (ESP ou Equipamentos), ficam sujeitos aos procedimentos previstos no presente Regulamento."
+  },
+  "147219527": {
+   "fragment_id": "147412908",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente Regulamento aplica-se:\n\na) A todos os RSPS destinados a conter ar ou azoto a uma pressão máxima admissível (PS) superior a 0,5 bar, projetados e construídos de acordo com o Decreto-Lei n.º 37/2017, de 29 de março, ou com a legislação em vigor à data da sua construção;\n\nb) A todos os ESP destinados a conter um fluido - líquido, gás ou vapor - com PS superior a 0,5 bar, projetados e construídos de acordo com o Decreto-Lei n.º 111-D/2017, de 31 de agosto, ou com a legislação em vigor à data da sua construção.\n\n2 - Excluem-se do âmbito de aplicação do Regulamento os RSPS não abrangidos pelo Decreto-Lei n.º 37/2017, de 29 de março, os ESP não abrangidos pelo Decreto-Lei n.º 111-D/2017, de 31 de agosto, bem como os Recipientes e Equipamentos em relação aos quais se verifique uma das seguintes condições:\n\na) Destinados a:\n\ni) Conter gases, gases liquefeitos e vapores do grupo 1 com:\n\nI) PS (igual ou menor que) 2 bar;\n\nII) PS x V (igual ou menor que) 1000 bar L;\n\nii) Conter líquidos do grupo 1 com:\n\nI) PS (igual ou menor que) 4 bar;\n\nII) PS x V (igual ou menor que) 10 000 bar L;\n\niii) Conter gases, gases liquefeitos e vapores do grupo 2 com:\n\nI) PS (igual ou menor que) 4 bar;\n\nII) PS x V (igual ou menor que) 3000 bar L;\n\niv) Conter líquidos do grupo 2 com:\n\nI) PS (igual ou menor que) 10 bar;\n\nII) PS x V (igual ou menor que) 20 000 bar L;\n\nIII) Temperatura máxima admissível (TSmax) (igual ou menor que) 80ºC;\n\nb) Os geradores de vapor e água sobreaquecida com:\n\ni) PS (igual ou menor que) 0,5 bar;\n\nii) PS x V (igual ou menor que) 200 bar L;\n\niii) TSmax (igual ou menor que) 110ºC;\n\nc) Os geradores de água quente com:\n\ni) Potência de saída nominal (igual ou menor que) 400 kW;\n\nii) PS x V (igual ou menor que) 10 000 bar L;\n\nd) As caldeiras de óleo térmico com:\n\ni) PS (igual ou menor que) 2 bar;\n\nii) PS x V (igual ou menor que) 500 bar L;\n\niii) TSmax (igual ou menor que) 125ºC;\n\ne) As tubagens destinadas a:\n\ni) Gases, gases liquefeitos e vapores do grupo 1 com:\n\nI) PS (igual ou menor que) 4 bar;\n\nII) PS x Diâmetro Nominal (DN) (igual ou menor que) 2000 bar;\n\nIII) DN (igual ou menor que) 32;\n\nii) Líquidos do grupo 1 com:\n\nI) PS (igual ou menor que) 4 bar;\n\nII) PS x DN (igual ou menor que) 2000 bar;\n\nIII) DN (igual ou menor que) 50;\n\niii) Gases, gases liquefeitos e vapores do grupo 2 com:\n\nI) PS (igual ou menor que) 4 bar;\n\nII) PS x DN (igual ou menor que) 5000 bar;\n\nIII) DN (igual ou menor que) 100;\n\niv) Líquidos do grupo 2."
+  },
+  "147219528": {
+   "fragment_id": "147412909",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente Regulamento são aplicáveis as definições constantes no artigo 3.º do Decreto-Lei n.º 37/2017, de 29 de março, e do Decreto-Lei n.º 111-D/2017, de 31 de agosto, a que acrescem as seguintes:\n\na) «Acidente» toda a ocorrência responsável por danos em pessoas ou em bens, que seja provocada por ato criminoso ou por mau funcionamento, destruição, deficiente instalação ou acondicionamento, ou ainda por utilização indevida do Recipiente ou Equipamento, incluindo os seus acessórios;\n\nb) «Alteração» a modificação efetuada num Recipiente ou Equipamento com o objetivo de alterar as condições de funcionamento, da instalação ou do seu desempenho;\n\nc) «Caldeira de óleo térmico» gerador de calor em que o fluido de transporte é um líquido distinto da água, com uma pressão de vapor, à temperatura máxima de \"película\", inferior à pressão atmosférica;\n\nd) «Conjunto» vários ESP unidos entre si por um fabricante, por forma a constituírem um todo integrado e funcional;\n\ne) «Conjunto processual» conjunto de ESP e respetivas tubagens de interligação, isoláveis ou não, destinados a conter o mesmo fluido ou fluidos distintos, cujos requisitos aplicáveis estão definidos em instruções técnicas complementares (ITC) específicas;\n\nf) «Família de equipamentos» ESP que contenham o mesmo fluido ou fluidos com características semelhantes, com condições técnicas de instalação semelhantes, ou conjuntos de ESP que pela sua conceção se encontram interligados de um modo permanente;\n\ng) «Fluidos» quaisquer gases, líquidos ou vapores puros e respetivas misturas, podendo conter sólidos em suspensão, os quais são classificados conforme as alíneas h) e i);\n\nh) «Fluidos do grupo 1» abrange substâncias ou misturas, tais como definidas no artigo 2.º, pontos 7 e 8, do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, classificados como perigosos em conformidade com as seguintes classes de perigo físico ou para a saúde, estabelecidas nas partes 2 e 3 do anexo I ao referido regulamento:\n\ni) Explosivos instáveis ou explosivos das divisões 1.1, 1.2, 1.3, 1.4 e 1.5;\n\nii) Gases inflamáveis, categorias 1 e 2;\n\niii) Gases comburentes, categoria 1;\n\niv) Líquidos inflamáveis, categorias 1 e 2;\n\nv) Líquidos inflamáveis, categoria 3, quando a temperatura máxima admissível for superior ao ponto de inflamação;\n\nvi) Sólidos inflamáveis, categorias 1 e 2;\n\nvii) Substâncias e misturas autorreativas, tipos A a F;\n\nviii) Líquidos pirofóricos, categoria 1;\n\nix) Sólidos pirofóricos, categoria 1;\n\nx) Substâncias e misturas que, em contacto com a água, libertam gases inflamáveis, categorias 1, 2, e 3;\n\nxi) Líquidos comburentes, categorias 1, 2 e 3;\n\nxii) Sólidos comburentes, categorias 1, 2 e 3;\n\nxiii) Peróxidos orgânicos, tipos A a F;\n\nxiv) Toxicidade aguda por via oral, categorias 1 e 2;\n\nxv) Toxicidade aguda por via cutânea, categorias 1 e 2;\n\nxvi) Toxicidade aguda por via inalatória, categorias 1, 2 e 3;\n\nxvii) Toxicidade para órgãos-alvo específicos - exposição única, categoria 1.\n\nOs Fluidos do grupo 1 compreendem também as substâncias e misturas contidas num ESP com uma temperatura máxima admissível que exceda o ponto de inflamação do fluido.\n\ni) «Fluidos do grupo 2» inclui todas as substâncias e misturas não referidas na alínea h);\n\nj) «Gerador de água quente» ESP aquecido por chama ou, de outro modo, sujeito ao risco de sobreaquecimento, em que a água está a uma temperatura inferior ou igual a 110 ºC;\n\nk) «Gerador de água sobreaquecida» ESP aquecido por chama ou, de outro modo, sujeito ao risco de sobreaquecimento, em que a água está a uma temperatura superior a 110 ºC, situação que pode acontecer nos economizadores dos geradores de vapor;\n\nl) «Gerador de vapor (GV)» ESP aquecido por chama ou, de outro modo, sujeito ao risco de sobreaquecimento, destinado à produção de vapor de água;\n\nm) «Inspeção baseada no risco (IBR)» realizada a um conjunto processual, em que a metodologia de inspeção (frequência, nível de detalhe e ensaios complementares) é baseada num processo de avaliação e gestão do risco, tendo em conta documentos normativos reconhecidos (ex. API RP 580) e adequados ao tipo de indústria, nomeadamente à indústria química e petroquímica;\n\nn) «Organismo de Inspeção (OI)» entidade habilitada nos termos do artigo 19.º para efetuar os atos inspetivos indicados no artigo 20.º;\n\no) «Placa de identificação» anteriormente designada por placa de registo, identifica o Recipiente ou o Equipamento através de um número de identificação único, onde se especifica o volume, o número de fabrico e a pressão máxima admissível e onde são registados os ensaios de pressão ou ensaios equivalentes a que sejam sujeitos;\n\np) «Potência de saída nominal» potência indicada pelo fabricante, sem considerar a energia do fluido térmico ao entrar no equipamento e capaz de ser fornecida de um modo continuado, expressa em kW;\n\nq) «Pressão máxima admissível (PS)» pressão máxima, em bar, em relação à pressão atmosférica, indicada na declaração de conformidade do equipamento ou no certificado de aprovação de construção, ou ainda a que seja especificada pelo IPQ, I. P.;\n\nr) «Reparação» todos os trabalhos que envolvam soldaduras ou outras técnicas construtivas nas partes sob pressão, ou em componentes que afetem a segurança do Recipiente ou Equipamento e que não alterem as condições de funcionamento, instalação ou o desempenho;\n\ns) «Recipiente ou Equipamento importado» Recipiente ou Equipamento que tem origem num país terceiro, com o fabrico aprovado por organismo notificado, no âmbito do disposto no Decreto-Lei n.º 37/2017, de 29 de março, ou no Decreto-Lei n.º 111-D/2017, de 31 de agosto, respetivamente;\n\nt) «Recipiente ou Equipamento não fixo» Recipiente ou Equipamento que, pela natureza da sua utilização, não está instalado de um modo permanente, podendo deslocar-se no interior da instalação ou entre instalações;\n\nu) «Recipiente ou Equipamento usado» Recipiente ou Equipamento que já foi colocado em serviço ou, não estando em serviço, tenha sido fabricado há mais de seis anos;\n\nv) «Temperatura mínima/máxima admissível (TSmin, TSmax)» as temperaturas mínima e máxima de serviço, em graus Celsius (ºC), indicadas pelo fabricante na declaração de conformidade ou contida no certificado de aprovação de construção, ou as que sejam fixadas pelo IPQ, I. P.;\n\nw) «Utilizador» entidade legal ou pessoa que, não sendo o proprietário, utiliza, mediante autorização escrita daquele, o Recipiente ou Equipamento, assumindo as responsabilidades legais associadas ao mesmo para fins de licenciamento;\n\nx) «Vistoria» a verificação pelo IPQ, I. P., da conformidade do Recipiente ou Equipamento, da instalação e das condições de funcionamento com o disposto no presente Regulamento e ITC associadas;\n\ny) «Volume (V)» volume total, em litros, de todos os compartimentos do ESP, indicado pelo fabricante na declaração de conformidade ou contida no certificado de aprovação de construção, ou ainda o que seja especificado pelo IPQ, I. P."
+  },
+  "147219529": {
+   "fragment_id": "147412910",
+   "type": 1,
+   "heading": "Capítulo II — Reavaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Reavaliação da conformidade"
+  },
+  "147219530": {
+   "fragment_id": "147412911",
+   "type": 11,
+   "heading": "Artigo 4.º — Reavaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reavaliação da conformidade\n\n1 - A reavaliação da conformidade destina-se a comprovar a aptidão do Recipiente ou Equipamento usado, quer seja nacional ou importado, bem como de origem incerta, tendo em conta uma determinada PS, volume e condições de funcionamento.\n\n2 - Os Recipientes ou Equipamentos novos, que sejam alterados após colocação no mercado, estão igualmente sujeitos à reavaliação da conformidade nos termos do presente artigo.\n\n3 - Para efeitos de reavaliação da conformidade, é necessária a realização de uma inspeção nos termos do artigo 20.º, a efetuar por um OI, tendo em conta as características de desempenho do Recipiente ou Equipamento definidas aquando do seu fabrico, o seu histórico e o nível de segurança definido no Decreto-Lei n.º 37/2017, de 29 de março, ou no Decreto-Lei n.º 111-D/2017, de 31 de agosto, respetivamente.\n\n4 - Após a inspeção, o proprietário requer ao IPQ, I. P., a reavaliação da conformidade do Recipiente ou Equipamento, sendo o pedido instruído com a informação e os documentos referidos no anexo I a este Regulamento.\n\n5 - Na falta de elementos instrutórios que permitam comprovar as dimensões, configuração e desempenho do Recipiente ou Equipamento, deve ser apresentado desenho técnico, validado pelo OI, adequado para o recálculo e futuras análises de risco.\n\n6 - A decisão relativa à reavaliação da conformidade do Recipiente ou Equipamento é comunicada ao proprietário no prazo de 15 dias, originando, caso a decisão seja favorável, a emissão de um documento de aprovação da conformidade, do qual consta a informação referida no anexo II ao presente Regulamento e a reemissão do certificado de autorização de funcionamento, considerando as novas condições, quando aplicável.\n\n7 - Concluído o processo de reavaliação da conformidade com a emissão da respetiva aprovação de conformidade do Recipiente ou Equipamento, poderá ser iniciado o processo de licenciamento nos termos do capítulo seguinte, quando aplicável."
+  },
+  "147219531": {
+   "fragment_id": "147412912",
+   "type": 1,
+   "heading": "Capítulo III — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Licenciamento"
+  },
+  "147219532": {
+   "fragment_id": "147412913",
+   "type": 8,
+   "heading": "Secção I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições comuns"
+  },
+  "147219533": {
+   "fragment_id": "147412914",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras de aplicação geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regras de aplicação geral\n\n1 - O pedido de licenciamento é apresentado pelo proprietário do Recipiente ou Equipamento, ou pelo seu representante legalmente autorizado.\n\n2 - Para efeitos de licenciamento é necessária a realização de inspeções nos termos do artigo 20.º, a efetuar por um OI, por solicitação do proprietário ou utilizador do Recipiente ou Equipamento, sem prejuízo dos atos da exclusiva competência do IPQ, I. P., conforme definido neste Regulamento.\n\n3 - Em caso de venda ou de cedência do Recipiente ou Equipamento, o proprietário deve entregar toda a documentação do equipamento ao novo proprietário, informando o IPQ, I. P., nos termos da alínea a) do n.º 1 do artigo 15.º\n\n4 - O IPQ, I. P., pode realizar vistoria à instalação durante o processo de licenciamento, para suporte à tomada de decisão e sempre que existam fundadas dúvidas, queixas ou denúncias relativas às condições de funcionamento do Recipiente ou Equipamento.\n\n5 - A contagem dos prazos de comunicação de decisão ao requerente, previstos no presente Regulamento, tem início após pagamento da taxa aplicável e desde que o processo tenha sido adequadamente instruído, com todos os documentos especificados no anexo aplicável do presente Regulamento.\n\n6 - Sempre que se verifiquem deficiências na instalação ou no funcionamento do Recipiente ou Equipamento, o IPQ, I. P., pode condicionar os parâmetros de funcionamento e de instalação, bem como reduzir a PS ou a validade das aprovações de funcionamento.\n\n7 - A data de realização do ensaio de pressão ou ensaio equivalente, determina o início do prazo de validade, da validação ou aprovação de funcionamento.\n\n8 - O IPQ, I. P., pode declarar a caducidade das validações ou aprovações de funcionamento, sempre que se verifique que as condições do Recipiente ou Equipamento ou da respetiva instalação não estão de acordo com os pressupostos que fundamentaram a validação ou aprovação."
+  },
+  "147219534": {
+   "fragment_id": "147412915",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos de instalação\n\n1 - A instalação do Recipiente ou Equipamento deve ser concebida de modo a salvaguardar a segurança de pessoas e de bens, nomeadamente locais habitados ou públicos confinantes e instalações laborais do proprietário ou de terceiros.\n\n2 - O Recipiente ou Equipamento deve ser instalado em condições adequadas à natureza do fluido que contém e às condições de funcionamento, preferencialmente em local resguardado, amplo, arejado, com iluminação adequada e acessos fáceis, devendo as portas, caso existam, abrir para o exterior.\n\n3 - Na envolvente do Recipiente ou Equipamento deve ser reservado espaço para que sejam asseguradas, em condições adequadas, as operações de inspeção e de manutenção.\n\n4 - As tubagens, os cabos elétricos ou quaisquer outros componentes da instalação não podem impedir o livre acesso ao Recipiente ou Equipamento.\n\n5 - Sem prejuízo do indicado nas ITC, a distância de referência ao limite de propriedade, a locais habitados e a terceiros é de 5 metros, podendo ser aumentada, tendo em conta o nível de risco associado nomeadamente ao tipo de fluido, ou reduzida para 2 metros, caso existam barreiras de proteção apropriadas, conforme disposto no número seguinte.\n\n6 - As barreiras de proteção devem ser projetadas por engenheiro ou engenheiro técnico, legalmente habilitado para a elaboração e subscrição de projetos, o qual emite um termo de responsabilidade.\n\n7 - Em Recipientes ou Equipamentos não fixos devem ser asseguradas as condições de elevação e a proteção contra embates em serviço e durante o transporte."
+  },
+  "147219535": {
+   "fragment_id": "147412916",
+   "type": 11,
+   "heading": "Artigo 7.º — Acessórios de segurança e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acessórios de segurança e controlo\n\n1 - Todos os Recipientes ou Equipamentos devem estar munidos de acessórios de segurança e controlo, de forma a garantir que os parâmetros de funcionamento estabelecidos no projeto são respeitados.\n\n2 - Consideram-se acessórios de segurança essenciais, as válvulas de segurança, ou equipamentos equivalentes, e acessórios de controlo essenciais, os manómetros, ou outros indicadores de pressão equivalentes.\n\n3 - Sem prejuízo do cumprimento, quando aplicável, dos requisitos essenciais de segurança previstos no Decreto-Lei n.º 111-D/2017, de 31 de agosto, a válvula de segurança deve ainda:\n\na) Abrir a uma pressão não superior ao valor de PS;\n\nb) Ser adequada ao fluido do Recipiente ou Equipamento;\n\nc) Estar selada;\n\nd) Ter um caudal adequado à fonte geradora de pressão;\n\ne) Estar devidamente instalada de acordo com as instruções do fabricante e ter o tubo de saída orientado para local seguro.\n\n4 - Os indicadores de pressão devem estar verificados, através de controlo metrológico legal de acordo com a legislação aplicável, ou, não estando abrangidos por aquela legislação, mediante calibração realizada por laboratório acreditado para o efeito.\n\n5 - Os manómetros devem respeitar a norma EN 837-1 ou a norma EN 837-3, conforme aplicável, sendo a classe de exatidão de referência de 1,6, devendo ter um alcance máximo sensivelmente igual ao dobro da PS, mas nunca inferior a 1,5 vezes a PS e, sempre que o equipamento o permita, a PS deve estar marcada com um traço vermelho no mostrador.\n\n6 - Os demais acessórios de segurança e controlo devem cumprir com o estabelecido na respetiva norma ou código de construção, bem como com a legislação específica, quando aplicável.\n\n7 - Quando condições particulares o justifiquem, pode o IPQ, I. P., dispensar alguns dos acessórios de segurança e controlo ou autorizar a sua substituição por outros, tendo em conta a conclusão do OI no relatório de inspeção."
+  },
+  "147219536": {
+   "fragment_id": "147412917",
+   "type": 11,
+   "heading": "Artigo 8.º — Placa de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Placa de identificação\n\n1 - A placa de identificação, a emitir pelo IPQ, I. P., deve ser afixada, sem envolver soldaduras ou quaisquer danos no corpo sujeito a pressão, de modo permanente, no Recipiente ou Equipamento ou, caso não seja possível, numa estrutura solidária ou interligada com este, sem prejuízo de outra solução sujeita a aprovação do IPQ, I. P..\n\n2 - Na placa de identificação é marcada, pelo IPQ, I. P., a data do ensaio de pressão considerado válido para fins da primeira validação ou aprovação do funcionamento.\n\n3 - É proibida a colocação de qualquer outra placa no Recipiente ou Equipamento, salvo a placa relativa às características do equipamento, emitida pelo fabricante, ou outras referidas em legislação específica."
+  },
+  "147219537": {
+   "fragment_id": "147412918",
+   "type": 8,
+   "heading": "Secção II — Licenciamento de RSPS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Licenciamento de RSPS"
+  },
+  "147219538": {
+   "fragment_id": "147412919",
+   "type": 11,
+   "heading": "Artigo 9.º — Validação e revalidação de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Validação e revalidação de funcionamento\n\n1 - Os RSPS estão sujeitos a comunicação prévia de funcionamento, permitindo o início do funcionamento desde que o RSPS tenha sido objeto de inspeção a efetuar por um OI, com resultado favorável, nos termos previstos no artigo 20.º\n\n2 - O requerente dispõe de 60 dias, após o início do funcionamento do RSPS, para solicitar a validação do funcionamento ao IPQ, I. P., sendo a comunicação instruída com a informação e os documentos referidos no anexo III ao presente Regulamento.\n\n3 - Sendo a decisão do IPQ, I. P., favorável, a declaração de validação do funcionamento é emitida no prazo de 15 dias, nos termos do anexo IV ao presente Regulamento, bem como a placa de identificação do RSPS, se esta não tiver sido fornecida anteriormente.\n\n4 - A declaração de validação do funcionamento é válida por seis anos, atento o disposto nos n.os 6 e 7 do artigo 5.º\n\n5 - Para a revalidação do funcionamento, e sempre que se verifique uma mudança do local de instalação do RSPS, é necessária a realização de uma inspeção do OI com resultado favorável, sendo a comunicação instruída com a informação e os documentos referidos no anexo III ao presente Regulamento, o que, caso a decisão seja favorável, origina a emissão pelo IPQ, I. P., da declaração de revalidação do funcionamento, nos termos do anexo IV ao presente Regulamento, no prazo de 15 dias.\n\n6 - As condições de instalação para os RSPS estão definidas na ITC aplicável aos recipientes para ar ou gases inertes comprimidos (RAC)."
+  },
+  "147219539": {
+   "fragment_id": "147412920",
+   "type": 8,
+   "heading": "Secção III — Licenciamento de ESP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Licenciamento de ESP"
+  },
+  "147219540": {
+   "fragment_id": "147412921",
+   "type": 11,
+   "heading": "Artigo 10.º — Classificação de ESP e principais atos de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Classificação de ESP e principais atos de licenciamento\n\n1 - Na classificação do ESP composto por vários compartimentos, considera-se a maior PS a soma dos volumes dos compartimentos e os fluidos, devendo o ESP ser classificado na mais elevada das classes de risco em que cada um dos compartimentos se inclua.\n\n2 - Se um dos compartimentos do ESP contiver vários fluidos, a classificação efetua-se em função do fluido com a classe de risco mais elevada, podendo o IPQ, I. P., em caso de dúvida, considerar cada compartimento como um ESP.\n\n3 - O licenciamento dos ESP abrangidos pelo presente Regulamento compreende como atos principais:\n\na) Aprovação de instalação, quando aplicável;\n\nb) Aprovação de funcionamento;\n\nc) Renovação da aprovação de funcionamento.\n\n4 - Os pedidos de aprovação de instalação, quando aplicável, e de aprovação de funcionamento podem ser apresentados simultaneamente.\n\n5 - O requerente dispõe de um prazo de 60 dias, após realização da inspeção pelo OI, para solicitar, ao IPQ, I. P., a aprovação de funcionamento ou a renovação da mesma."
+  },
+  "147219541": {
+   "fragment_id": "147412922",
+   "type": 11,
+   "heading": "Artigo 11.º — Aprovação de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aprovação de instalação\n\n1 - O pedido de aprovação de instalação, instruído com a informação e os documentos referidos no anexo V ao presente Regulamento, é submetido ao IPQ, I. P..\n\n2 - Para a aprovação da instalação o respetivo projeto deve ser elaborado por um engenheiro ou engenheiro técnico, legalmente habilitado para a elaboração e subscrição de projetos, devendo ser requerida a verificação da sua conformidade por um OI, com resultado favorável nos termos do artigo 20.º\n\n3 - Caso a decisão do IPQ, I. P., seja favorável, é emitida uma declaração de aprovação no prazo de 30 dias\n\n4 - Sempre que se verifique uma mudança de local de instalação do ESP, ou alteração de localização dentro da mesma instalação, deve ser requerida nova aprovação, nos termos do presente artigo.\n\n5 - Ficam sujeitos ou dispensados de aprovação de instalação os ESP descritos no anexo VI ao presente Regulamento."
+  },
+  "147219542": {
+   "fragment_id": "147412923",
+   "type": 11,
+   "heading": "Artigo 12.º — Aprovação de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aprovação de funcionamento\n\n1 - O pedido de aprovação de funcionamento do ESP, instruído com a informação e os documentos referidos no anexo VII ao presente Regulamento, é submetido ao IPQ, I. P.\n\n2 - Para a aprovação de funcionamento do ESP é requerida uma inspeção por um OI sobre a aptidão da instalação e do ESP, a qual deve ter resultado favorável, nos termos do artigo 20.º\n\n3 - Caso a decisão do IPQ, I. P., seja favorável, é emitido, no prazo de 30 dias, um certificado de aprovação de funcionamento, nos termos do anexo VIII ao presente Regulamento, acompanhado da placa de identificação do ESP, caso a mesma não tenha sido anteriormente fornecida.\n\n4 - Sempre que um ESP mude de local de instalação, deve ser requerida nova aprovação de funcionamento, nos termos constantes do presente artigo, sem prejuízo do disposto no artigo 4.º\n\n5 - As aprovações de funcionamento são válidas pelos prazos estabelecidos no anexo IX ao presente Regulamento, atento o disposto nos n.os 6 e 7 do artigo 5.º"
+  },
+  "147219543": {
+   "fragment_id": "147412924",
+   "type": 11,
+   "heading": "Artigo 13.º — Renovação da aprovação de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Renovação da aprovação de funcionamento\n\n1 - A renovação da aprovação de funcionamento do ESP deve ser solicitada junto do IPQ, I. P., até 60 dias antes do fim do prazo constante na aprovação anterior, aplicando-se, com as necessárias adaptações, o disposto no artigo 12.º\n\n2 - Para a renovação da aprovação de funcionamento do ESP é requerida uma inspeção por um OI, sobre a aptidão da instalação e do ESP, a qual deve ter resultado favorável, nos termos do artigo 20.º\n\n3 - Caso a decisão do IPQ, I. P., seja favorável, é emitido, no prazo de 30 dias, um certificado de renovação da aprovação de funcionamento, nos termos do anexo VIII ao presente Regulamento."
+  },
+  "147219544": {
+   "fragment_id": "147412925",
+   "type": 8,
+   "heading": "Secção IV — Atos complementares ao licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Atos complementares ao licenciamento"
+  },
+  "147219545": {
+   "fragment_id": "147412926",
+   "type": 11,
+   "heading": "Artigo 14.º — Atos complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Atos complementares\n\nSão atos complementares ao licenciamento:\n\na) Averbamentos;\n\nb) Reparações e alterações;\n\nc) Instalação e funcionamento em condições provisórias."
+  },
+  "147219546": {
+   "fragment_id": "147412927",
+   "type": 11,
+   "heading": "Artigo 15.º — Averbamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Averbamentos\n\n1 - São objeto de averbamento as seguintes situações:\n\na) Alteração da designação social do titular ou mudança de titularidade do Recipiente ou Equipamento, acompanhado do respetivo comprovativo;\n\nb) Alteração do utilizador do Recipiente ou Equipamento, acompanhado do respetivo comprovativo;\n\nc) Suspensão temporária da utilização do Recipiente ou Equipamento, em que se verifique que o mesmo esteja desligado da rede de distribuição do fluido e despressurizado;\n\nd) Retirada de serviço de forma definitiva do Recipiente ou Equipamento.\n\n2 - Para efeitos do disposto no número anterior, a comunicação ao IPQ, I. P., de qualquer das situações aí referidas, deve ser efetuada no prazo de 60 dias a contar da sua ocorrência.\n\n3 - Para efeitos do disposto na alínea c) do n.º 1, a reentrada em serviço do Recipiente ou Equipamento deve ser comunicada ao IPQ, I. P., no prazo de 30 dias, estando a mesma sujeita a revalidação de funcionamento ou a renovação da aprovação de funcionamento, nos termos dos artigos 9.º e 13.º, respetivamente, se decorrido mais de um ano sobre a colocação do mesmo em suspensão temporária de utilização.\n\n4 - Nos termos do disposto na alínea d) do n.º 1, a retirada de serviço de forma definitiva, determina o cancelamento do processo, devendo ser remetida ao IPQ, I. P., a placa de identificação, ficando a eventual utilização do Recipiente ou Equipamento condicionada a um novo processo de licenciamento, antecedido de uma reavaliação da conformidade, conforme previsto no artigo 4.º"
+  },
+  "147219547": {
+   "fragment_id": "147412928",
+   "type": 11,
+   "heading": "Artigo 16.º — Reparações e alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reparações e alterações\n\n1 - As entidades que efetuam reparações e alterações aos Recipientes ou Equipamentos devem possuir os meios técnicos adequados, bem como pessoal qualificado para a execução das intervenções previstas no presente Regulamento, nomeadamente soldadores certificados por organismo de certificação de pessoas, acreditado pelo Instituto Português de Acreditação, I. P. (IPAC, I. P.), ou por uma entidade por este reconhecida.\n\n2 - As reparações e as alterações estão sujeitas a projeto aprovado pelo OI nos termos da alínea i) do artigo 20.º\n\n3 - O projeto deve ser elaborado com base nas normas harmonizadas aplicáveis, nos códigos de construção, ou normas e códigos equivalentes, nos termos do n.º 1 do anexo X ao presente Regulamento, por um profissional formado em engenharia mecânica, legalmente habilitado para a elaboração e subscrição de projetos.\n\n4 - Se o projeto estiver em conformidade, o OI comunica, no prazo de 30 dias, a sua aprovação ao proprietário, ou utilizador, acompanhada dos documentos indicados no n.º 2 do anexo X ao presente Regulamento.\n\n5 - Após a aprovação do projeto pelo OI, as reparações e as alterações a efetuar estão igualmente sujeitas a aprovação do OI, nos termos da alínea f) do artigo 20.º, que acompanha e verifica as atividades e o cumprimento do respetivo projeto, executa e avalia os ensaios não destrutivos (END) realizados e efetua um ensaio de pressão, uma vez terminada a reparação ou alteração.\n\n6 - Face à análise efetuada aos elementos referidos no número anterior, o OI emite o relatório conclusivo, e devidamente fundamentado, sobre a conformidade da reparação ou alteração, nos termos do n.º 3 do anexo X ao presente Regulamento, e entrega-o ao proprietário ou utilizador, no prazo de 15 dias, remetendo cópia ao IPQ, I. P., que comunica ao proprietário ou utilizador eventuais efeitos na validade do licenciamento.\n\n7 - As alterações que tenham implicações nas características e desempenho do Recipiente ou Equipamento, como sejam o aumento da PS, do volume, da superfície de aquecimento, ou a utilização de um fluido de risco superior, requerem a reavaliação da conformidade do Recipiente ou Equipamento nos termos do artigo 4.º\n\n8 - A alteração da fonte energética do ESP, nomeadamente com mudança de estado do combustível, determina que o respetivo processo de alteração envolva o próprio ESP e a respetiva instalação."
+  },
+  "147219548": {
+   "fragment_id": "147412929",
+   "type": 11,
+   "heading": "Artigo 17.º — Pequena reparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pequena reparação\n\n1 - Consideram-se como pequenas reparações:\n\na) A eliminação de pequenas fissuras no corpo sob pressão, sem substituição de componentes;\n\nb) A reposição da espessura de construção para correção de estados de degradação, desde que:\n\ni) Os materiais de adição sejam de qualidade idêntica aos utilizados na construção;\n\nii) Não seja requerido tratamento térmico;\n\nc) A eliminação de fissuras nas tubuladuras e seus acessórios;\n\nd) A substituição de tubuladuras e seus acessórios por outros do mesmo material, de igual diâmetro e espessura, desde que:\n\ni) O DN das tubuladuras seja igual ou inferior a 100;\n\nii) As tubuladuras não possuam chapa de reforço no corpo sob pressão;\n\niii) Não seja requerido tratamento térmico;\n\ne) A substituição, até 10 %, dos tubos de transferência térmica;\n\nf) A selagem em tubos mandrilados ou equivalentes.\n\n2 - As pequenas reparações estão isentas de projeto, não sendo aplicáveis a ESP destinados a conter gases liquefeitos, atendendo às características de construção dos equipamentos e ao tipo de fluido utilizado.\n\n3 - As pequenas reparações estão sujeitas a aprovação por OI, nos termos da alínea g) do artigo 20.º, o qual acompanha e verifica as atividades, executa END e emite o respetivo relatório conclusivo sobre a conformidade da reparação, nos termos do anexo XI ao presente Regulamento, entregando-o ao proprietário, ou utilizador, no prazo de 15 dias, e remetendo cópia ao IPQ, I. P.\n\n4 - À pequena reparação é aplicável o disposto no n.º 1 do artigo anterior."
+  },
+  "147219549": {
+   "fragment_id": "147412930",
+   "type": 11,
+   "heading": "Artigo 18.º — Instalação e funcionamento em condições provisórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instalação e funcionamento em condições provisórias\n\n1 - Para efeitos de manutenção, reparação ou reforço de consumo emergente, o proprietário ou utilizador pode requerer ao IPQ, I. P., nos termos do anexo XII ao presente Regulamento, a instalação e o funcionamento de um ESP em condições provisórias, pelo prazo máximo de 60 dias, mediante inspeção extraordinária a efetuar por um OI, nos termos da alínea e) do artigo 20.º, com resultado favorável.\n\n2 - Caso a decisão do IPQ, I. P., seja favorável, é emitida uma declaração de aprovação da instalação e funcionamento em condições provisórias, no prazo de 10 dias."
+  },
+  "147219550": {
+   "fragment_id": "147412931",
+   "type": 1,
+   "heading": "Capítulo IV — Inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Inspeção"
+  },
+  "147219551": {
+   "fragment_id": "147412932",
+   "type": 8,
+   "heading": "Secção I — Atividade de inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Atividade de inspeção"
+  },
+  "147219552": {
+   "fragment_id": "147412933",
+   "type": 11,
+   "heading": "Artigo 19.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Requisitos\n\n1 - O exercício da atividade de inspeção no âmbito do presente Regulamento, depende de autorização prévia do IPQ, I. P., condicionada à acreditação dos OI, de acordo com a norma NP EN ISO/IEC 17020, pelo IPAC, I. P., ou por uma entidade por este reconhecida.\n\n2 - O IPQ, I. P., pode determinar a revogação ou suspensão da autorização de um OI, mediante decisão devidamente fundamentada, em caso de suspensão ou anulação da sua acreditação, ou de incumprimento da legislação ou regulamentação aplicável ao exercício da atividade de que resultem anomalias graves de instalação e funcionamento dos Recipientes e Equipamentos.\n\n3 - Para efeitos do disposto nos n.os 1 e 2 do presente artigo, o IPAC, I. P., deve comunicar de imediato ao IPQ, I. P., a concessão, extensão, suspensão e anulação da acreditação dos OI.\n\n4 - Sem prejuízo do disposto no n.º 1 do presente artigo, para a atividade de reavaliação da conformidade, o pessoal técnico do OI deve, adicionalmente, deter conhecimentos e experiência nos módulos de avaliação da conformidade que permitam a avaliação da conceção e do fabrico do Recipiente ou Equipamento, nos termos do Decreto-Lei n.º 37/2017, de 29 de março, ou do Decreto-Lei n.º 111-D/2017, de 31 de agosto, respetivamente.\n\n5 - O OI deve realizar os atos inspetivos como atividades de terceira-parte, cumprindo com os requisitos de tipo A estabelecidos na norma NP EN ISO/IEC 17020.\n\n6 - Os relatórios de inspeção inicial, periódica, intercalar e extraordinária devem ser emitidos pelo OI, nos termos do anexo XIII ao presente Regulamento, e entregues ao requerente no prazo de 30 dias a contar da data da inspeção, exceto no caso da inspeção extraordinária, cujo relatório deve ser remetido ao requerente no prazo de 5 dias.\n\n7 - Os relatórios das inspeções intercalares devem adicionalmente ser submetidos ao IPQ, I. P., pelo OI, por via eletrónica, no prazo de 30 dias a contar da data da inspeção.\n\n8 - Caso sejam detetadas não conformidades no decurso das inspeções, os respetivos relatórios devem indicá-las, bem como as medidas adotadas pelo proprietário ou utilizador para a sua resolução.\n\n9 - Caso o relatório de uma inspeção, com exceção da inspeção inicial, apresente um resultado conclusivo desfavorável, que coloque em causa a segurança de funcionamento do Recipiente ou Equipamento, deve o OI remeter o respetivo relatório por via eletrónica ao IPQ, I. P., no prazo de 3 dias a contar da data da inspeção.\n\n10 - O OI deve manter em arquivo os relatórios de inspeção emitidos e respetivos anexos, no mínimo, pelo prazo estabelecido para a realização das inspeções periódicas."
+  },
+  "147219553": {
+   "fragment_id": "147412934",
+   "type": 11,
+   "heading": "Artigo 20.º — Atos inspetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Atos inspetivos\n\nNo âmbito do presente Regulamento, os OI realizam os seguintes atos inspetivos:\n\na) Inspeção para efeito de reavaliação da conformidade, a qual compreende a realização de ensaio de pressão, END e eventual recálculo, por forma a avaliar a aptidão do Recipiente ou Equipamento e dos respetivos acessórios para o serviço, nos termos do artigo 4.º;\n\nb) Inspeção inicial, destinada a verificar a aptidão do Recipiente ou Equipamento e as condições da instalação, para efeitos de validação ou aprovação do funcionamento ou de mudança de instalação, nos termos e para os efeitos dos artigos 9.º e 12.º;\n\nc) Inspeção intercalar, destinada a verificar as condições de instalação e de funcionamento do Recipiente ou Equipamento, bem como dos acessórios de segurança e controlo, realizada de acordo com a periodicidade definida no anexo IX ao presente Regulamento;\n\nd) Inspeção periódica, destinada a verificar a aptidão do Recipiente ou Equipamento, bem como se as condições da instalação se mantêm, nos termos dos artigos 9.º e 13.º, sendo realizada de acordo com a periodicidade definida no anexo IX ao presente Regulamento;\n\ne) Inspeção extraordinária, destinada a verificar a aptidão do Recipiente ou Equipamento e as condições de segurança da instalação fora do âmbito das inspeções regulares, conforme referidas nas alíneas b), c) e d) do presente artigo, a realizar por solicitação do proprietário, do utilizador ou do IPQ, I. P.;\n\nf) Inspeção a reparações ou alterações, destinada a comprovar a adequabilidade do projeto e a verificar que a reparação ou alteração foi efetuada conforme o mesmo, bem como a avaliar a aptidão do Recipiente ou Equipamento e dos respetivos acessórios em serviço, em cumprimento do artigo 16.º;\n\ng) Inspeção a pequenas reparações, destinada a comprovar o cumprimento dos requisitos de reparação, bem como a avaliar a aptidão do Recipiente ou Equipamento e dos respetivos acessórios em serviço, em cumprimento do artigo 17.º;\n\nh) Inspeção baseada no risco (IBR), destinada a comprovar, de um modo continuado, as condições de segurança e de funcionamento dos ESP integrados em conjuntos processuais, conforme o plano de inspeção e ensaio (PIE), a executar pelo mesmo OI;\n\ni) Verificação da conformidade do projeto de instalação e do projeto de reparação ou de alteração, nos termos e para os efeitos dos artigos 11.º e 16.º, respetivamente."
+  },
+  "147219554": {
+   "fragment_id": "147412935",
+   "type": 8,
+   "heading": "Secção II — Ensaios e verificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Ensaios e verificações"
+  },
+  "147219555": {
+   "fragment_id": "147412936",
+   "type": 11,
+   "heading": "Artigo 21.º — Aptidão do Recipiente ou Equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Aptidão do Recipiente ou Equipamento\n\n1 - A avaliação da aptidão consiste no conjunto de atividades destinadas a comprovar que o Recipiente ou Equipamento e seus acessórios detêm as condições necessárias para entrar ou continuar em funcionamento.\n\n2 - A avaliação da aptidão do Recipiente ou Equipamento compreende um ensaio de pressão, eventualmente complementado por END, um ensaio de estanquidade e ensaios e verificações aos acessórios de segurança e controlo.\n\n3 - Os ensaios indicados no número anterior devem ser efetuados no âmbito do ato inspetivo, com exceção da verificação do indicador de pressão, conforme enquadrado pelo n.º 4 do artigo 7.º\n\n4 - Os ensaios e as verificações referidos no presente Regulamento devem ser efetuados de acordo com os respetivos códigos de construção, ou com as normas europeias e internacionais aplicáveis.\n\n5 - No âmbito do presente Regulamento, consideram-se ensaios e verificações:\n\na) O ensaio de pressão;\n\nb) O ensaio de estanquidade;\n\nc) O ensaio e a verificação dos acessórios de segurança e controlo;\n\nd) Os END.\n\n6 - Em resultado das características do Recipiente ou Equipamento e das condições de instalação, podem ser necessários ensaios ou estudos complementares, relacionados com a estabilidade e os riscos sísmicos e associados a descargas atmosféricas.\n\n7 - Quando o estado de conservação e a idade do Recipiente ou Equipamento o exijam, o OI, deve efetuar recálculo integrado no ato inspetivo."
+  },
+  "147219556": {
+   "fragment_id": "147412937",
+   "type": 11,
+   "heading": "Artigo 22.º — Ensaio de pressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Ensaio de pressão\n\n1 - O ensaio de pressão deve ser hidráulico e efetuado a uma pressão igual a 1,25 vezes a PS, devendo ser consideradas as disposições das ITC, quando aplicável.\n\n2 - O ensaio de pressão pode ser pneumático quando o ESP, pela sua conceção ou condições de serviço, não admita a existência de qualquer vestígio de líquido, não podendo o gás ser do grupo 1, salvo quando o OI o considerar tecnicamente viável e seguro.\n\n3 - Nos termos do número anterior, o valor da pressão de ensaio deve ser igual a 1,1 vezes a PS, sem prejuízo de eventuais ensaios complementares conforme os códigos ou normas aplicáveis determinem.\n\n4 - A temperatura do fluido no interior do Recipiente ou Equipamento, durante o ensaio de pressão, deverá estar entre 10 ºC e 40 ºC, a fim de evitar a rotura frágil do material ou a ocorrência de acidentes devido a temperatura elevada.\n\n5 - Com exceção dos geradores de vapor e equiparados, tendo em conta as limitações de conceção ou as condições de funcionamento do Recipiente ou Equipamento, o OI pode substituir o ensaio de pressão por um PIE alternativo por ele elaborado, tecnicamente fundamentado e aprovado, que incorpore END adequados e ensaio de estanquidade, o qual deve ser anexado ao relatório de inspeção.\n\n6 - O ensaio de pressão efetuado há menos de um ano no âmbito da reavaliação da conformidade do Recipiente ou Equipamento, é válido para a inspeção inicial à instalação, condicionado à apreciação do OI.\n\n7 - O ensaio de pressão efetuado aquando do fabrico do Recipiente ou Equipamento, nos termos do Decreto-Lei n.º 37/2017, de 29 de março, ou do Decreto-Lei n.º 111-D/2017, de 31 de agosto, respetivamente, é válido para a inspeção inicial à instalação se realizado há menos de dois anos, salvo em caso de motivos de segurança claramente justificados, ficando condicionado à apreciação do OI.\n\n8 - O ensaio de pressão efetuado fora do local da instalação no âmbito da reparação ou da alteração do Recipiente ou Equipamento, é válido para a inspeção à instalação, caso tenha sido realizado há menos de um ano, ficando condicionado à apreciação do OI.\n\n9 - Para efeitos do disposto nos n.os 6, 7 e 8 do presente artigo, é requerida a apresentação de um termo de responsabilidade sobre o adequado transporte e manuseamento do Recipiente ou Equipamento até à sua instalação.\n\n10 - Os ensaios de pressão ou ensaios equivalentes realizados no âmbito das inspeções periódicas devem ser marcados pelo OI na placa de identificação."
+  },
+  "147219557": {
+   "fragment_id": "147412938",
+   "type": 11,
+   "heading": "Artigo 23.º — Ensaio de estanquidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Ensaio de estanquidade\n\n1 - O ensaio de estanquidade destina-se a verificar a existência de fugas nas ligações, nas válvulas e nos órgãos de acesso ao interior do Recipiente ou Equipamento.\n\n2 - O ensaio referido no número anterior deve ser efetuado a pressão máxima de serviço, acrescida de 10 %, não ultrapassando o valor da PS, podendo ser usado o fluido contido no Recipiente ou Equipamento."
+  },
+  "147219558": {
+   "fragment_id": "147412939",
+   "type": 11,
+   "heading": "Artigo 24.º — Ensaio e verificação dos acessórios de segurança e de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Ensaio e verificação dos acessórios de segurança e de controlo\n\n1 - O ensaio e a verificação dos acessórios de segurança e de controlo devem ser realizados tendo em conta a sua importância, fiabilidade e eficácia, não apenas para o Recipiente ou Equipamento, mas também para o processo em que estes estejam inseridos.\n\n2 - O ensaio e a verificação dos acessórios de segurança e de controlo destinam-se a evitar que sejam excedidos os estados limites de utilização para que o Recipiente ou Equipamento foi concebido."
+  },
+  "147219559": {
+   "fragment_id": "147412940",
+   "type": 11,
+   "heading": "Artigo 25.º — Ensaios não destrutivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Ensaios não destrutivos\n\n1 - Os END aplicam-se na caracterização dos materiais e na deteção de defeitos, destacando-se para esse feito as seguintes técnicas:\n\na) Ultrassons;\n\nb) Partículas magnéticas;\n\nc) Líquidos penetrantes;\n\nd) Campos elétricos;\n\ne) Radiografia;\n\nf) Ensaio de dureza;\n\ng) Emissão acústica.\n\n2 - Para efeitos de licenciamento apenas são válidos os END efetuados por entidades acreditadas pelo IPAC, I. P. ou por este reconhecidas, para as técnicas mencionadas no número anterior, sem prejuízo de outras técnicas que possam surgir decorrentes da inovação tecnológica."
+  },
+  "147219560": {
+   "fragment_id": "147412941",
+   "type": 1,
+   "heading": "Capítulo V — Acidentes e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Acidentes e segurança"
+  },
+  "147219561": {
+   "fragment_id": "147412942",
+   "type": 11,
+   "heading": "Artigo 26.º — Acidentes e outras ocorrências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acidentes e outras ocorrências\n\n1 - O proprietário ou o utilizador não pode alterar o estado da instalação, bem como o respetivo Recipiente ou Equipamento após um acidente, devendo comunicar de imediato a situação ao IPQ, I. P., sem prejuízo do dever de informação junto de outras entidades ou autoridades competentes, conforme decorra de legislação aplicável.\n\n2 - Perante o conhecimento da ocorrência de um acidente, o IPQ, I. P., inicia um processo de averiguações, auscultando as partes envolvidas, podendo solicitar toda a documentação que considerar adequada e efetuar uma vistoria à instalação.\n\n3 - No caso de existirem indícios de que o acidente foi devido a ato criminoso e sem prejuízo das competências atribuídas a outras entidades, deve a ocorrência do mesmo ser comunicada ao Ministério Público.\n\n4 - O proprietário ou utilizador do Recipiente ou Equipamento deve arquivar a documentação relativa a todas as ocorrências verificadas, de modo a poder ser consultada pelo IPQ, I. P., ou por outras autoridades competentes."
+  },
+  "147219562": {
+   "fragment_id": "147412943",
+   "type": 11,
+   "heading": "Artigo 27.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Segurança\n\n1 - O proprietário ou utilizador do Recipiente ou Equipamento, deve assegurar que eventuais disposições legais complementares ao presente Regulamento são tidas em consideração na instalação e no funcionamento.\n\n2 - Sempre que o IPQ, I. P., detete uma situação de perigo grave para a saúde pública, para a segurança de pessoas e de bens, para a segurança das instalações ou para o ambiente, deve alertar as entidades de fiscalização competentes, para que sejam tomadas as providências adequadas.\n\n3 - As entidades referidas no número anterior devem dar conhecimento ao IPQ, I. P., de todas as ações efetuadas."
+  },
+  "147219563": {
+   "fragment_id": "147412944",
+   "type": 1,
+   "heading": "Capítulo VI — Fiscalização e contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Fiscalização e contraordenações"
+  },
+  "147219564": {
+   "fragment_id": "147412945",
+   "type": 11,
+   "heading": "Artigo 28.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Fiscalização\n\n1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do presente Regulamento compete à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - Sempre que solicitado pelo IPQ, I. P., ou pela entidade fiscalizadora, o proprietário ou utilizador deve disponibilizar a documentação referente ao Recipiente ou Equipamento e ao respetivo licenciamento, facilitando o acesso à respetiva instalação."
+  },
+  "147219565": {
+   "fragment_id": "147412946",
+   "type": 11,
+   "heading": "Artigo 29.º — Contraordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Contraordenações e coimas\n\n1 - Constituem contraordenações as seguintes infrações:\n\na) Funcionamento do Recipiente ou Equipamento usado sem realização da reavaliação da conformidade em violação do disposto no n.º 4 do artigo 4.º;\n\nb) Eliminação ou adulteração da válvula de segurança ou de dispositivo equivalente devidamente autorizado em violação do disposto nos n.os 1 e 3 do artigo 7.º;\n\nc) Adulteração ou utilização indevida da placa de identificação em violação do disposto nos n.os 1 e 3 do artigo 8.º;\n\nd) Funcionamento do RSPS sem documento de validação ou revalidação do funcionamento em violação do disposto nos n.os 2 e 5 do artigo 9.º;\n\ne) Funcionamento do ESP sem certificado válido de aprovação de funcionamento em violação do disposto no n.º 3 do artigo 12.º;\n\nf) Funcionamento do ESP sem certificado válido de renovação da aprovação de funcionamento em violação do disposto nos n.os 1 e 3 do artigo 13.º;\n\ng) Violação do disposto nos n.os 2, 3 e 4 do artigo 15.º;\n\nh) Funcionamento do Recipiente ou Equipamento após reparação e ou alteração não aprovada por um OI em violação do n.º 5 do artigo 16.º;\n\ni) Funcionamento do Recipiente ou Equipamento após pequena reparação não aprovada por um OI em violação do n.º 3 do artigo 17.º;\n\nj) Alteração da instalação e do Recipiente ou Equipamento após o acidente e antes da intervenção do IPQ, I. P., e falta de arquivamento da documentação relativa a todas as ocorrências verificadas, em violação, respetivamente dos n.os 1 e 4 do artigo 26.º;\n\nk) Não realização das inspeções intercalares em violação do disposto no n.º 1 do anexo IX ao presente Regulamento, ou se os prazos estabelecidos forem excedidos em mais de 3 meses.\n\n2 - As contraordenações previstas nas alíneas c) e g) do número anterior são puníveis com as seguintes coimas:\n\na) De (euro) 250 a (euro) 1000, quando cometidas por pessoas singulares;\n\nb) De (euro) 1500 a (euro) 2500, quando cometidas por pessoas coletivas.\n\n3 - As contraordenações previstas nas alíneas a), b), d), e), f), h), i), j) e k) do n.º 1 do presente artigo são puníveis com as seguintes coimas:\n\na) De (euro) 500 a (euro) 3 740,98, quando cometidas por pessoas singulares;\n\nb) De (euro) 5000 a (euro) 10 000, quando cometidas por pessoas coletivas.\n\n4 - A negligência é punível, sendo os montantes das coimas referidos nos números anteriores reduzidos para metade.\n\n5 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "147219566": {
+   "fragment_id": "147412947",
+   "type": 11,
+   "heading": "Artigo 30.º — Instrução e decisão de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Instrução e decisão de processos\n\n1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE."
+  },
+  "147219567": {
+   "fragment_id": "147412948",
+   "type": 11,
+   "heading": "Artigo 31.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Sanções acessórias\n\n1 - Podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias, em função da gravidade da infração e da culpa do agente:\n\na) Privação dos direitos a subsídios ou a benefícios outorgados por entidades ou serviços públicos;\n\nb) Encerramento das instalações.\n\n2 - As sanções acessórias previstas no número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva."
+  },
+  "147219568": {
+   "fragment_id": "147412949",
+   "type": 11,
+   "heading": "Artigo 32.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Produto das coimas\n\nO produto das coimas aplicadas em virtude da violação do presente Regulamento reverte em:\n\na) 60 % para o Estado;\n\nb) 20 % para a ASAE;\n\nc) 10 % para a entidade que levantou o auto de notícia;\n\nd) 10 % para o IPQ, I. P."
+  },
+  "147219569": {
+   "fragment_id": "147412950",
+   "type": 11,
+   "heading": "Artigo 33.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Direito subsidiário\n\nÀs contraordenações previstas no presente Regulamento é subsidiariamente aplicável o regime jurídico do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual."
+  },
+  "147219570": {
+   "fragment_id": "147412951",
+   "type": 1,
+   "heading": "Capítulo VII — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Taxas"
+  },
+  "147219571": {
+   "fragment_id": "147412952",
+   "type": 11,
+   "heading": "Artigo 34.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Taxas\n\n1 - Através de portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia são fixadas taxas devidas por:\n\na) Reavaliação da conformidade;\n\nb) Realização das vistorias previstas no n.º 4 do artigo 5.º;\n\nc) Emissão da placa de identificação, com exceção da inicial;\n\nd) Validação do funcionamento de RSPS;\n\ne) Revalidação do funcionamento de RSPS;\n\nf) Aprovação de instalação de ESP;\n\ng) Aprovação de funcionamento de ESP;\n\nh) Renovação da aprovação de funcionamento de ESP;\n\ni) Averbamento de alteração da designação social, mudança de titularidade e utilizador;\n\nj) Validação de instalação e de funcionamento provisório de ESP.\n\n2 - Os serviços indicados no número anterior são iniciados após o pagamento das respetivas taxas, com exceção do previsto na alínea b) do referido número."
+  },
+  "147219572": {
+   "fragment_id": "147412953",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "147219573": {
+   "fragment_id": "147412954",
+   "type": 11,
+   "heading": "Artigo 35.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Acompanhamento\n\nO IPQ, I. P., é a autoridade nacional competente para o acompanhamento da aplicação do presente Regulamento."
+  },
+  "147219574": {
+   "fragment_id": "147412955",
+   "type": 11,
+   "heading": "Artigo 36.º — Desmaterialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Desmaterialização\n\nA tramitação dos procedimentos previstos no presente Regulamento é efetuada de forma desmaterializada, através do Portal ePortugal, que, de forma integrada, permite:\n\na) A submissão eletrónica de todos os pedidos associados aos diferentes atos de licenciamento;\n\nb) A consulta online e a gestão, pelos interessados, do estado dos respetivos processos, nomeadamente licenciamento, propriedade e validade das declarações e dos certificados;\n\nc) O envio e a receção eletrónica das decisões e das declarações e certificados emitidos;\n\nd) A prestação de informação a diferentes entidades competentes para o acompanhamento e controlo da aplicação do presente Regulamento;\n\ne) O rastreio específico, através da introdução de dados em simulador, nomeadamente sobre o tipo de Recipiente ou Equipamento, fluido, PS, volume, temperatura, entre outros;\n\nf) O pagamento das taxas relativas aos procedimentos através da Plataforma de Pagamentos da Administração Pública, em conformidade com o disposto no artigo 30.º, n.º 4 do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual."
+  },
+  "147431775": {
+   "fragment_id": "147412956",
+   "type": 11,
+   "heading": "Artigo 37.º — Instruções técnicas complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Instruções técnicas complementares\n\n1 - As regras técnicas relativas à instalação e ao funcionamento, a aplicar a equipamentos da mesma família, são fixadas através de ITC, as quais são aprovadas por despacho do presidente do conselho diretivo do IPQ, I. P., publicado na 2.ª série do Diário da República.\n\n2 - Caso não existam ITC aplicáveis a uma determinada família de equipamentos, aplicam-se genericamente as disposições do presente Regulamento, com exceção dos ESP utilizados na armazenagem de gás natural no estado gasoso e dos ESP acumuladores de hidrogénio ou de oxigénio no estado gasoso, aos quais se aplicam, com as necessárias adaptações, a ITC do GPL e a ITC dos RAC, respetivamente.\n\n3 - Tendo como objetivo a melhoria do nível de segurança, dada a grande variedade de ESP, de fluidos e de funcionalidades, o IPQ, I. P., pode associar ESP específicos a uma ITC existente, por despacho do presidente do conselho diretivo."
+  },
+  "147431776": {
+   "fragment_id": "147412957",
+   "type": 11,
+   "heading": "Artigo 38.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Regiões Autónomas\n\n1 - Os atos e procedimentos necessários à execução do presente Regulamento nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - O produto do resultado da aplicação das respetivas coimas pelas Regiões Autónomas constitui receita própria das mesmas."
+  },
+  "147431777": {
+   "fragment_id": "147412958",
+   "type": 14,
+   "heading": "Anexo I — Reavaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Reavaliação da conformidade\n\n(a que se refere o n.º 4 do artigo 4.º do Regulamento)\n\nO requerimento para a instrução do pedido de reavaliação da conformidade deve conter a informação e os documentos seguintes:\n\na) Nome ou designação social, número de identificação fiscal, número de telefone e endereço de e-mail do proprietário ou utilizador;\n\nb) Morada do proprietário ou utilizador e de localização do equipamento, incluindo o código postal, a freguesia, o concelho, o distrito e a localização GPS;\n\nc) Código da atividade económica principal do proprietário;\n\nd) Número de identificação (número de registo) do Recipiente ou Equipamento, se aplicável;\n\ne) Comprovativo de posse do Recipiente ou Equipamento;\n\nf) Documento de aprovação da construção ou declaração da conformidade do Recipiente ou Equipamento;\n\ng) Fotografias visíveis da placa de características e da placa de identificação do Recipiente ou Equipamento, se aplicável;\n\nh) Memória descritiva com indicação das características e do tipo de Recipiente ou Equipamento;\n\ni) Certificado válido de controlo metrológico do indicador de pressão;\n\nj) Relatório de inspeção do OI sobre a aptidão do Recipiente ou Equipamento para o serviço, incluindo resultados de END e eventual recálculo;\n\nk) Desenho detalhado do Recipiente ou Equipamento, quando relevante."
+  },
+  "147431778": {
+   "fragment_id": "147412959",
+   "type": 14,
+   "heading": "Anexo II — Documento de aprovação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Documento de aprovação da conformidade\n\n(a que se refere o n.º 6 do artigo 4.º do Regulamento)\n\nO documento de aprovação da conformidade a emitir pelo IPQ, I. P., deve conter a informação abaixo indicada:\n\na) Número de identificação (número de registo) do Recipiente ou Equipamento, se aplicável;\n\nb) Identificação do proprietário (designação social e código de atividade económica principal);\n\nc) Identificação do utilizador (designação e código de atividade económica principal, se aplicável);\n\nd) Tipo de Recipiente ou Equipamento;\n\ne) Características do Recipiente ou Equipamento (designação social do fabricante, país, número de fabrico, modelo, número de câmaras, PS, volume, fluido, temperaturas máxima e mínima admissíveis, vaporização, superfície de aquecimento, potência e combustível, se aplicável);\n\nf) Data de execução do ensaio de pressão;\n\ng) Número do relatório de inspeção, data de execução e identificação do OI;\n\nh) Data da vistoria do IPQ, I. P., se aplicável;\n\ni) Eventuais condicionantes relativas ao Recipiente ou Equipamento ou à instalação;\n\nj) Data e assinatura."
+  },
+  "147431779": {
+   "fragment_id": "147412960",
+   "type": 14,
+   "heading": "Anexo III — Comunicação prévia de funcionamento de RSPS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Comunicação prévia de funcionamento de RSPS\n\n(a que se referem os n.os 2 e 5 do artigo 9.º do Regulamento)\n\n1 - A comunicação prévia de funcionamento de RSPS deve conter a informação e os documentos seguintes:\n\na) Nome ou designação social, número de identificação fiscal, número de telefone e endereço de e-mail do proprietário ou utilizador;\n\nb) Nome do utilizador e morada do local de instalação, incluindo o código postal, a freguesia, o concelho, o distrito e a localização GPS;\n\nc) Código da atividade económica principal do proprietário;\n\nd) Número de identificação (número de registo) do RSPS, se aplicável;\n\ne) Características do RSPS:\n\ni) Designação social do fabricante, com indicação do país;\n\nii) Modelo;\n\niii) Número e ano de fabrico;\n\niv) PS, volume, fluido e temperaturas máxima e mínima admissíveis;\n\nf) Declaração de conformidade ou certificado de aprovação da construção ou documento de reavaliação da conformidade, se não submetido anteriormente;\n\ng) Fotografia da placa de características do RSPS;\n\nh) Relatório de inspeção do OI com resultado favorável.\n\n2 - Para efeitos de revalidação do funcionamento e sempre que se verifique uma mudança do local de instalação do RSPS o requerente fica dispensado da apresentação dos documentos previstos nas alíneas f) e g) deste anexo."
+  },
+  "147431780": {
+   "fragment_id": "147412961",
+   "type": 14,
+   "heading": "Anexo IV — Documento de validação do funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Documento de validação do funcionamento\n\n(a que se referem os n.os 3 e 5 do artigo 9.º do Regulamento)\n\nO documento de validação do funcionamento do RSPS a emitir pelo IPQ, I. P., deve conter a informação abaixo indicada:\n\na) Número de identificação do Recipiente;\n\nb) Identificação do proprietário (designação social e código de atividade económica principal);\n\nc) Identificação do utilizador (designação e código de atividade económica principal, se aplicável);\n\nd) Identificação do local da instalação, se aplicável;\n\ne) Tipo de Recipiente;\n\nf) Características do Recipiente (designação social do fabricante, país, número de fabrico, modelo, PS, volume, fluido e temperaturas máxima e mínima admissíveis);\n\ng) Data de execução do ensaio de pressão;\n\nh) Número do relatório de inspeção, data de execução e identificação do OI;\n\ni) Data da vistoria do IPQ, I. P., se aplicável;\n\nj) Eventuais condicionantes relativas ao Recipiente ou Equipamento ou à instalação;\n\nk) Prazo de validade."
+  },
+  "147431781": {
+   "fragment_id": "147412962",
+   "type": 14,
+   "heading": "Anexo V — Aprovação de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Aprovação de instalação\n\n(a que se refere o n.º 1 do artigo 11.º do Regulamento)\n\nO requerimento para a instrução do pedido de aprovação da instalação de ESP deve conter a informação e os documentos seguintes:\n\na) Nome ou designação social, número de identificação fiscal, número de telefone e endereço de e-mail do proprietário ou utilizador;\n\nb) Nome do utilizador e morada do local de instalação, incluindo o código postal, a freguesia, o concelho, o distrito e a localização GPS;\n\nc) Código da atividade económica principal do proprietário;\n\nd) Número de identificação do ESP, se aplicável;\n\ne) Características do ESP:\n\ni) Designação social do fabricante, com indicação do país;\n\nii) Modelo;\n\niii) Número e ano de fabrico;\n\niv) Número de câmaras, se aplicável, e respetiva PS, volume, fluido, temperaturas máxima e mínima admissíveis, vaporização, superfície de aquecimento, potência e combustível, se aplicável;\n\nf) Declaração de conformidade ou certificado de aprovação de construção ou documento de reavaliação da conformidade, se não submetido anteriormente;\n\ng) Fotografias do local projetado para a instalação e da placa de características do ESP;\n\nh) Projeto de instalação constituído por:\n\ni) Memória descritiva e justificativa que caracterize local da instalação do ESP, o tipo de construção do edifício ou zona vedada e as distâncias de segurança de acordo com Regulamento e ITC aplicável;\n\nii) Planta de localização à escala conveniente (1:500 ou 1:1000), abrangendo um círculo de 30 metros de raio (centrado no equipamento), de modo a evidenciar os limites da propriedade e a distância a terceiros;\n\niii) Planta de implantação, alçados e cortes (escala de referência 1:100), mostrando o local ou edifício onde o ESP vai estar instalado, com indicação das distâncias de segurança, acessos, pé direito, aberturas de ventilação e iluminação;\n\niv) Desenho geral do equipamento;\n\ni) Termo de responsabilidade subscrito pelo projetista;\n\nj) Verificação da conformidade do projeto emitida pelo OI com resultado favorável."
+  },
+  "147431782": {
+   "fragment_id": "147412963",
+   "type": 14,
+   "heading": "Anexo VI — (a que se refere o n.º 5 do artigo 11.º do Regulamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — (a que se refere o n.º 5 do artigo 11.º do Regulamento)\n\n1 - Os ESP sujeitos a aprovação de instalação são os abaixo indicados:\n\n(ver documento original)\n\n2 - Os ESP ficam dispensados de aprovação de instalação nos seguintes casos:\n\na) ESP não fixos;\n\nb) Reservatórios de GPL com capacidade superior a 7 500 L e inferior ou igual a 200 000 L, se o projeto de instalação tiver sido aprovado pela Câmara Municipal ou pela Direção-Geral de Energia e Geologia;\n\nc) Tubagens."
+  },
+  "147431783": {
+   "fragment_id": "147412964",
+   "type": 14,
+   "heading": "Anexo VII — Aprovação de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — Aprovação de funcionamento\n\n(a que se refere o n.º 1 do artigo 12.º do Regulamento)\n\n1 - O requerimento para a instrução do pedido de aprovação de funcionamento do ESP deve conter a informação e os documentos seguintes:\n\na) Designação social, número de identificação fiscal, número de telefone e endereço de e-mail do proprietário ou utilizador;\n\nb) Nome do utilizador e morada do local de instalação, incluindo o código postal, a freguesia, o concelho, o distrito e a localização GPS;\n\nc) Código da atividade económica principal do proprietário;\n\nd) Número de identificação do ESP, se aplicável;\n\ne) Características do ESP:\n\ni) Designação social do fabricante, com indicação do país;\n\nii) Modelo;\n\niii) Número e ano de fabrico;\n\niv) Número de câmaras, se aplicável, e respetiva PS, volume, fluido, temperaturas máxima e mínima admissíveis, vaporização, superfície de aquecimento, potência e combustível, se aplicável;\n\nf) Declaração de conformidade ou certificado de aprovação da construção ou documento de reavaliação da conformidade, se não tiver sido submetido anteriormente;\n\ng) Fotografia da placa de características do ESP;\n\nh) Relatório de inspeção do OI com resultado favorável;\n\ni) Declaração ou permissão de instalação de ESP pertencente a entidade diferente do proprietário das instalações, se aplicável;\n\nj) Isométrica ou equivalente, para o caso das tubagens.\n\n2 - No caso de ESP não fixo, o pedido deve ser acompanhado dos documentos acima indicados com as devidas adaptações.\n\n3 - Para efeitos do pedido de renovação da aprovação de funcionamento do ESP, o requerente fica dispensado da apresentação dos documentos previstos nas alíneas f) e g) do n.º 1 do presente anexo."
+  },
+  "147431784": {
+   "fragment_id": "147412965",
+   "type": 14,
+   "heading": "Anexo VIII — Certificado de aprovação de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — Certificado de aprovação de funcionamento\n\n(a que se referem os n.os 3 dos artigos 12.º e 13.º do Regulamento)\n\nO certificado de aprovação de funcionamento do ESP a emitir pelo IPQ, I. P., deve conter a informação abaixo indicada:\n\na) Número de identificação do Equipamento;\n\nb) Identificação do proprietário (nome ou designação social);\n\nc) Identificação do utilizador (nome ou designação social);\n\nd) Identificação do local da instalação, se aplicável;\n\ne) Tipo de Equipamento;\n\nf) Características do Equipamento (designação social do fabricante, país, número de fabrico, modelo, número de câmaras, PS, volume, fluido, temperaturas máxima e mínima admissíveis, vaporização, superfície de aquecimento, potência e combustível, se aplicável);\n\ng) Data de execução do ensaio de pressão;\n\nh) Número do relatório de inspeção, data de execução e identificação do OI;\n\ni) Data da vistoria do IPQ, I. P., se aplicável;\n\nj) Eventuais condicionantes relativas ao Equipamento ou à instalação;\n\nk) Prazo de validade."
+  },
+  "147431785": {
+   "fragment_id": "147412966",
+   "type": 14,
+   "heading": "Anexo IX — (a que se referem o n.º 5 do artigo 12.º e as alíneas c) e d) do artigo 20.º do Regulamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — (a que se referem o n.º 5 do artigo 12.º e as alíneas c) e d) do artigo 20.º do Regulamento)\n\n1 - A validade das declarações e certificados de aprovação de funcionamento e a periodicidade das inspeções intercalares são as abaixo indicadas:\n\n(ver documento original)\n\n2 - Para efeitos do disposto no n.º 1 do presente anexo, os conjuntos processuais são classificados em:\n\na) Classe de perigo 1 - inclui os seguintes fluidos do grupo 1, conforme definido na alínea a) do n.º 1 do artigo 14.º do Decreto-Lei n.º 111-D/2017, de 31 de agosto, sempre que estes contenham impurezas corrosivas: flúor, fluoreto de boro, fluoreto de hidrogénio, tricloreto de boro, cloreto de hidrogénio, brometo de hidrogénio, dióxido de azoto, cloreto de carbonilo (ou fosgénio), sulfureto de hidrogénio, cloro e outros com impacto semelhante.\n\nb) Classe de perigo 2 - inclui os fluidos do grupo 1, conforme definido na alínea a) do n.º 1 do artigo 14.º do Decreto-Lei n.º 111-D/2017, de 31 de agosto, excetuando os mencionados na classe de perigo 1;\n\nc) Classe de perigo 3 - inclui os fluidos do grupo 2 conforme definido na alínea a) do n.º 1 do artigo 14.º do Decreto-Lei n.º 111-D/2017, de 31 de agosto."
+  },
+  "147431786": {
+   "fragment_id": "147412967",
+   "type": 14,
+   "heading": "Anexo X — Reparação e alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X — Reparação e alteração\n\n(a que se referem os n.os 3, 4 e 6 do artigo 16.º do Regulamento)\n\n1 - O projeto de reparação ou de alteração deve ser composto por:\n\na) Memória descritiva da intervenção a efetuar, indicando códigos ou normas a adotar e as características do Recipiente ou Equipamento iniciais e finais;\n\nb) Nota de cálculo, se aplicável;\n\nc) Plano de inspeção e de ensaios a efetuar durante a intervenção;\n\nd) Desenhos de conjunto e de pormenor;\n\ne) Procedimentos de soldadura;\n\nf) Termo de responsabilidade, subscrito pelo projetista.\n\n2 - O documento de verificação da conformidade do projeto de reparação ou de alteração com resultado favorável, a emitir pelo OI, deve conter a informação e os documentos abaixo indicados:\n\na) Identificação do utilizador e do proprietário do Recipiente ou Equipamento;\n\nb) Número de identificação do Recipiente ou Equipamento;\n\nc) Características do Recipiente ou Equipamento (fabricante, modelo, número e ano de fabrico, número de câmaras, se aplicável, e respetiva PS, volume, fluido, temperaturas máxima e mínima admissíveis, vaporização, superfície de aquecimento, potência e combustível, se aplicável);\n\nd) Identificação do local da instalação;\n\ne) Referência das normas ou código de construção adotados;\n\nf) Original do projeto, devidamente validado e autenticado pelo OI.\n\n3 - O relatório da conformidade da reparação ou da alteração deve incluir o número de identificação do Recipiente ou Equipamento, a identificação do utilizador, do proprietário e da empresa reparadora e a referência aos controlos e ensaios efetuados, sendo acompanhado, no mínimo, dos seguintes elementos:\n\na) Documento de aprovação do projeto de reparação ou de alteração, conforme número anterior;\n\nb) Termo de responsabilidade da empresa que efetuou a reparação ou alteração;\n\nc) Comprovativo do cumprimento do plano de inspeção e ensaios;\n\nd) Certificados de qualificação dos soldadores emitidos por organismo de certificação de pessoas acreditado pelo IPAC, I. P., ou por entidade por este reconhecida;\n\ne) Certificados dos materiais utilizados;\n\nf) Conclusão fundamentada sobre a conformidade da reparação ou da alteração."
+  },
+  "147431787": {
+   "fragment_id": "147412968",
+   "type": 14,
+   "heading": "Anexo XI — Pequena reparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XI — Pequena reparação\n\n(a que se refere o n.º 3 do artigo 17.º do Regulamento)\n\nO processo de pequena reparação deve ser constituído por um relatório do OI, com resultado favorável, descrevendo as verificações e os ensaios efetuados, acompanhado dos seguintes elementos:\n\na) Memória descritiva com desenho simplificado validado pelo OI;\n\nb) Termo de responsabilidade da empresa que efetuou a reparação;\n\nc) Certificados de qualificação dos soldadores emitidos por organismo de certificação de pessoas acreditado pelo IPAC, I. P., ou por entidade por este reconhecida;\n\nd) Certificados dos materiais utilizados."
+  },
+  "147431788": {
+   "fragment_id": "147412969",
+   "type": 14,
+   "heading": "Anexo XII — Instalação e funcionamento em condições provisórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XII — Instalação e funcionamento em condições provisórias\n\n(a que se refere o n.º 1 do artigo 18.º do Regulamento)\n\nO requerimento para a instrução do pedido de validação de instalação e de funcionamento do ESP em condições provisórias deve ser instruído com a informação e os documentos seguintes:\n\na) Nome ou designação social, número de identificação fiscal, número de telefone e endereço de e-mail do proprietário ou utilizador;\n\nb) Nome do utilizador e morada do local de instalação, incluindo o código postal, a freguesia, o concelho, o distrito e a localização GPS;\n\nc) Número de identificação (número de registo) do ESP, se aplicável;\n\nd) Características do ESP:\n\ni) Designação social do fabricante, com indicação do país;\n\nii) Modelo;\n\niii) Número e ano de fabrico;\n\niv) Número de câmaras, se aplicável, e respetiva PS, volume, fluido, temperaturas máxima e mínima admissíveis, vaporização, superfície de aquecimento, potência e combustível, se aplicável;\n\ne) Relatório de inspeção extraordinária do OI, com resultado favorável, abrangendo a instalação, o ESP e os órgãos de segurança e controlo;\n\nf) Relatório de inspeção da última reavaliação da conformidade, se aplicável;\n\ng) Memória descritiva e justificativa que caracterize local da instalação do ESP, o tipo de construção do edifício ou zona vedada e as distâncias de segurança de acordo com Regulamento e ITC aplicável;\n\nh) Desenho simplificado da instalação."
+  },
+  "147431789": {
+   "fragment_id": "147412970",
+   "type": 14,
+   "heading": "Anexo XIII — Relatório de inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIII — Relatório de inspeção\n\n(a que se refere o n.º 6 do artigo 19.º do Regulamento)\n\n1 - O conteúdo de referência do relatório de inspeção inicial, do relatório de inspeção periódica e do relatório de inspeção extraordinária a emitir pelo OI, sem prejuízo de incorporar informação complementar, é o abaixo indicado:\n\na) Tipo de inspeção;\n\nb) Número de identificação do Recipiente ou Equipamento, se aplicável;\n\nc) Tipo de Recipiente ou Equipamento e ITC quando aplicável;\n\nd) Características do Recipiente ou Equipamento:\n\ni) Designação social do fabricante, com indicação do país;\n\nii) Modelo;\n\niii) Número e ano de fabrico;\n\niv) Número de câmaras, PS, volume, fluido, temperaturas máxima e mínima admissíveis, vaporização, superfície de aquecimento, potência e combustível, se aplicável;\n\ne) Resultados do ensaio da válvula de segurança, ou equipamento equivalente, e outros acessórios complementares;\n\nf) Verificação do controlo metrológico ou da calibração, conforme aplicável, efetuada ao(s) indicador(es) de pressão e sua adequação ao Recipiente ou Equipamento;\n\ng) Estado geral do Recipiente ou Equipamento, dos apoios e eventuais revestimentos de proteção;\n\nh) Resultados do ensaio de pressão ou de ensaios alternativos equivalentes, quando aplicável;\n\ni) PIE alternativo ao ensaio de pressão, se aplicável;\n\nj) Resultados do ensaio de estanquidade;\n\nk) Resultados de END complementares e recálculo, se relevante;\n\nl) Verificação do sistema de queima, se aplicável;\n\nm) Tipificação do local da instalação;\n\nn) Caracterização da envolvente do edifício, dos acessos, da ventilação, de outros Recipientes ou Equipamentos ou de equipamentos complementares;\n\no) Distâncias de segurança e seu cumprimento;\n\np) Combustíveis usados ou armazenados;\n\nq) Termo de responsabilidade sobre o adequado transporte e manuseamento do Recipiente ou Equipamento, se aplicável;\n\nr) Outras informações tendo em conta a ITC aplicável;\n\ns) Conclusões:\n\ni) Não conformidades detetadas, quando aplicável;\n\nii) Medidas adotadas pelo proprietário ou utilizador para resolver as não conformidades, quando aplicável;\n\niii) Parecer conclusivo sobre a conformidade da instalação e a aptidão do Recipiente ou Equipamento para o funcionamento.\n\n2 - O conteúdo de referência do relatório de inspeção intercalar a emitir pelo OI, sem prejuízo de incorporar informação complementar, é o abaixo indicado:\n\na) Tipo de inspeção;\n\nb) Número de identificação do Recipiente ou Equipamento, se aplicável;\n\nc) Tipo de Recipiente ou Equipamento e ITC quando aplicável;\n\nd) Características do Recipiente ou Equipamento:\n\ni) Designação social do fabricante, com indicação do país;\n\nii) Modelo;\n\niii) Número e ano de fabrico;\n\niv) Número de câmaras, PS, volume, fluido, temperaturas máxima e mínima admissíveis, vaporização, superfície de aquecimento, potência e combustível, se aplicável;\n\ne) Resultados do ensaio da válvula de segurança e outros acessórios complementares;\n\nf) Verificação do controlo metrológico efetuado ao(s) indicador(es) de pressão e sua adequação ao Recipiente ou Equipamento;\n\ng) Estado geral do Recipiente ou Equipamento, dos apoios e eventuais revestimentos de proteção;\n\nh) Resultados do ensaio de estanquidade;\n\ni) Resultados de END, se relevantes e sempre que previsto na ITC;\n\nj) Verificação do sistema de queima, se aplicável;\n\nk) Tipificação do local da instalação;\n\nl) Combustíveis usados ou armazenados;\n\nm) Outras informações tendo em conta a ITC aplicável;\n\nn) Conclusões:\n\ni) Não conformidades detetadas, quando aplicável;\n\nii) Medidas adotadas pelo proprietário ou utilizador para resolver as não conformidades, quando aplicável;\n\niii) Parecer conclusivo sobre a conformidade da instalação e a aptidão do Recipiente ou Equipamento para o funcionamento.\n\n3 - Ao relatório de inspeção deve(m) ser anexado(s) o(s) certificado(s) de controlo metrológico do(s) indicador(es) de pressão do Recipiente ou Equipamento.\n\n112543177"
+  },
+  "147219523": {
+   "fragment_id": "147412904",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de julho de 2019. - António Luís Santos da Costa - Eurico Jorge Nogueira Leite Brilhante Dias - Maria de Fátima de Jesus Fonseca - João Jorge Arede Correia Neves.\n\nPromulgado em 26 de julho de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 30 de julho de 2019.\n\nPelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros."
+  },
+  "157266022": {
+   "fragment_id": "147412946",
+   "type": 11,
+   "heading": "Artigo 29.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 176.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 29.º — Contraordenações\n\n1 - Constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), as seguintes infrações:\n\na) Funcionamento do Recipiente ou Equipamento usado sem realização da reavaliação da conformidade em violação do disposto no n.º 4 do artigo 4.º;\n\nb) Eliminação ou adulteração da válvula de segurança ou de dispositivo equivalente devidamente autorizado em violação do disposto nos n.os 1 e 3 do artigo 7.º;\n\nc) (Revogada.)\n\nd) Funcionamento do RSPS sem documento de validação ou revalidação do funcionamento em violação do disposto nos n.os 2 e 5 do artigo 9.º;\n\ne) Funcionamento do ESP sem certificado válido de aprovação de funcionamento em violação do disposto no n.º 3 do artigo 12.º;\n\nf) Funcionamento do ESP sem certificado válido de renovação da aprovação de funcionamento em violação do disposto nos n.os 1 e 3 do artigo 13.º;\n\ng) (Revogada.)\n\nh) Funcionamento do Recipiente ou Equipamento após reparação e ou alteração não aprovada por um OI em violação do n.º 5 do artigo 16.º;\n\ni) Funcionamento do Recipiente ou Equipamento após pequena reparação não aprovada por um OI em violação do n.º 3 do artigo 17.º;\n\nj) Alteração da instalação e do Recipiente ou Equipamento após o acidente e antes da intervenção do IPQ, I. P., e falta de arquivamento da documentação relativa a todas as ocorrências verificadas, em violação, respetivamente dos n.os 1 e 4 do artigo 26.º;\n\nk) Não realização das inspeções intercalares em violação do disposto no n.º 1 do anexo IX ao presente Regulamento, ou se os prazos estabelecidos forem excedidos em mais de 3 meses.\n\n2 - Constituem contraordenação económica leve, punível nos termos do RJCE, as seguintes infrações:\n\na) Adulteração ou utilização indevida da placa de identificação em violação do disposto nos n.os 1 e 3 do artigo 8.º;\n\nb) Violação do disposto nos n.os 2, 3 e 4 do artigo 15.º\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 176.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157266023": {
+   "fragment_id": "147412950",
+   "type": 11,
+   "heading": "Artigo 33.º — Direito subsidiário",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 176.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 33.º — Direito subsidiário\n\nÀs contraordenações económicas previstas no presente Regulamento é subsidiariamente aplicável o RJCE.\n\n> Alterado pelo/a Artigo 176.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:161351312:por
+title: Decreto-Lei n.º 26-B/2021
+short_title: null
+summary: Define a natureza dos apoios sociais de resposta à pandemia da doença COVID-19
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Trabalho, Solidariedade e Segurança Social
+official_number: 26-B/2021
+official_date: null
+publication_date: '2021-04-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 71/2021, 1º Suplemento, Série I de 2021-04-13
+  number: '71'
+  series: I
+  supplement: 1º Suplemento
+  pages: 24-(2) a 24-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/04/07101/0000200002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/26-b/2021/04/13/p/dre/pt/html
+  oj: null
+  dre: '161351312'
+  dre_path: /dr/detalhe/decreto-lei/26-b-2021-161351312
+  internal: pt:dre:161351312:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-b-2021-161351312
+  metadata_url: https://data.dre.pt/eli/dec-lei/26-b/2021/04/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-b-2021-161351312
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-09-30T00:00:00Z'
+integrity:
+  source_sha256: 88947a7858132759f020ae0968ef8508a1b77a5b0c09c70923e42c5360eb0155
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2021/DRE-2021-26-B-161351312.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Doença Infecciosa
+- Epidemia
+- Prestações da Segurança Social
+- Cultura
+- Segurança Social
+- Sistema de Protecção Social de Cidadania
+- Subsídio de Apoio Social
+- Comissão Eventual para o Acompanhamento da Aplicação das Medidas de Resposta à Pandemia da Doença Covid-19
+relationships:
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/180/2020/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/180/2020/08/03/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 26-B/2021
+
+de 13 de abril
+
+A pandemia causada pela doença COVID-19, para além de consistir numa grave emergência de saúde pública a que foi necessário dar resposta no plano sanitário, teve inúmeras consequências de ordem económica e social, que têm motivado a adoção de um grande número de medidas de apoio social e económico às famílias e às empresas.
+
+Neste contexto, num constante esforço e compromisso para responder às necessidades sociais de quem mais precisa, foram sendo adotadas desde o início de março de 2020 diversas medidas com um claro objetivo de apoiar os trabalhadores e os seus rendimentos, o emprego, bem como aqueles que ficaram em situação de desemprego, protegendo os mais vulneráveis.
+
+Considerando o exposto, torna-se necessário clarificar a natureza dos apoios pagos diretamente ao trabalhador no âmbito dessas medidas como prestações sociais do sistema de segurança social.
+
+Adicionalmente, estabelece-se a equiparação a prestações sociais dos apoios previstos na linha de apoio social adicional aos artistas, autores, técnicos, e outros profissionais da cultura.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei clarifica a natureza dos apoios sociais criados no âmbito da resposta à pandemia da doença COVID-19.
+
+###### Artigo 2.º — Natureza dos apoios sociais de resposta à pandemia
+
+1 - Os apoios pagos diretamente aos trabalhadores pela segurança social, no âmbito das medidas excecionais e temporárias de resposta à pandemia da doença COVID-19, são, para todos os efeitos, considerados prestações do sistema de segurança social.
+
+2 - Excluem-se do disposto no número anterior os apoios pagos aos trabalhadores pela segurança social ao abrigo dos artigos 23.º e 24.º do [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2020-130243053), de 13 de março, na sua redação atual.
+
+3 - Os apoios previstos na linha de apoio social adicional aos artistas, autores, técnicos, e outros profissionais da cultura, nos termos da [Portaria n.º 180/2020](https://diariodarepublica.pt/dr/detalhe/portaria/180-2020-139348420), de 3 de agosto, são equiparados a prestações sociais do sistema de segurança social.
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de abril de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+**Promulgado em 12 de abril de 2021.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 12 de abril de 2021.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

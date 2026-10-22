@@ -1,0 +1,286 @@
+---
+schema_version: '1.0'
+id: pt:dre:123666152:por
+title: Decreto Legislativo Regional n.º 7/2019/M
+short_title: null
+summary: Estabelecer as regras e procedimentos a serem adotados pelo Serviço de Saúde da Região Autónoma da Madeira, E. P.
+  E. - SESARAM, E. P. E. - no âmbito do processo de descongelamento das carreiras de enfermagem
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 7/2019/M
+official_date: null
+publication_date: '2019-08-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/2019, Série I de 2019-08-05
+  number: '148'
+  series: I
+  supplement: null
+  pages: 61 - 64
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/08/14800/0006100064.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-08-27'
+version_history:
+  file: decreto-legislativo-regional-7-2019-m.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-08-27'
+    amending: pt:dre:170221047:por
+    amending_title: Decreto Legislativo Regional n.º 22/2021/M
+    changes:
+    - Adita Artigo 3.º-A
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/7/2019/m/cons/20210826/pt/html
+  oj: null
+  dre: '123666152'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/7-2019-123666152
+  internal: pt:dre:123666152:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2019-123666152
+  metadata_url: https://data.dre.pt/eli/declegreg/7/2019/m/cons/20210826/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-170285389
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-170285389
+  retrieved_at: '2026-10-22T12:45:36Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8038cdc2737d9d8f20e094fb4205cf429bbcd3fc2c8f2c06439da761fa612d4a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:45:36Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-7-2019-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Serviço de Saúde
+- Enfermagem
+- Carreira Profissional
+- Documento Eletrónico
+- Notificação
+- Pessoal de Enfermagem
+- Madeira.região Autónoma
+- Progressão na Carreira
+relationships:
+- type: amended_by
+  target: pt:dre:170221047:por
+  label: Adita Artigo 3.º-A; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2021-170221047
+  date: '2021-08-26'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/122/2010/11/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/122/2010/11/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:45:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 7/2019/M
+
+Decreto Legislativo Regional n.º 7/2019/M
+
+Sumário: Estabelecer as regras e procedimentos a serem adotados pelo Serviço de Saúde da Região Autónoma da Madeira, E. P. E. - SESARAM, E. P. E. - no âmbito do processo de descongelamento das carreiras de enfermagem.
+
+Determina as regras relativas ao processo de descongelamento das carreiras de enfermagem do Serviço de Saúde da Região Autónoma da Madeira, E. P. E. - SESARAM, E. P. E. - e de atribuição de pontos para esse efeito
+
+A situação económico-financeira portuguesa vivida nos últimos anos levou a que os sucessivos governos da República tivessem adotado orçamentos do Estado claramente restritivos, com proibição de quaisquer valorizações remuneratórias dos trabalhadores que exercem funções na Administração Pública, designadamente ao nível de alterações de posicionamento remuneratório, progressões, promoções ou nomeações em categorias ou postos superiores.
+
+Tais restrições, que se repercutiram nas várias administrações públicas, foram também aplicadas na Administração Pública da Região Autónoma da Madeira, a qual, de resto e como é consabido, esteve sujeita durante esses anos aos condicionalismos do Plano de Ajustamento Económico e Financeiro.
+
+A par destas restrições financeiras, e em virtude do disposto nos Estatutos do SESARAM, E. P. E., o subsistema de avaliação do desempenho dos trabalhadores da Administração Pública adaptado às carreiras de enfermagem nunca pôde ser aplicado.
+
+Desde 2004 até à presente data, no que se refere ao subsistema de avaliação do desempenho, foram tomadas diversas posições divergentes relativamente à aplicação e atribuição de pontos no SESARAM, E. P. E.
+
+Contrariamente ao que aconteceu a nível nacional, na Região Autónoma da Madeira foi atribuído aos trabalhadores enfermeiros em funções públicas, em sede de suprimento de avaliação de desempenho, referente aos anos de 2004 a 2007, um ponto por cada ano.
+
+Nunca houve, nem por parte das instituições da Região Autónoma da Madeira, nem por parte das instituições competentes do Serviço Nacional de Saúde, uma posição definitiva relativamente ao sistema de avaliação a ser aplicado aos trabalhadores integrados na carreira especial de enfermagem a partir do ano de 2011.
+
+Este impasse determinou que, dependendo das chefias e não de uma política definida e divulgada, ocorressem situações de avaliação/não avaliação, tanto de trabalhadores enfermeiros em regime de direito público, como de trabalhadores enfermeiros em regime de direito privado.
+
+Só agora, no ano de 2019, foi finalmente assumida essa posição a nível nacional, que urge ser harmonizada a nível regional.
+
+É um facto que, em face dos princípios constitucionais e legais vigentes no nosso ordenamento jurídico, os trabalhadores enfermeiros não podem ficar prejudicados por uma situação a que são totalmente alheios.
+
+Por essa mesma razão, não se considera que o reposicionamento remuneratório efetuado nos anos de 2011, 2012 e 2013 (no âmbito das funções públicas) e 2016 (já no âmbito das funções em regime de direito privado) se trate de uma verdadeira alteração da posição remuneratória, mas antes do reconhecimento de um grau académico com a correspondente remuneração, e como tal, os trabalhadores enfermeiros abrangidos por essa atualização salarial não poderão ser penalizados.
+
+De igual forma, as transições para a categoria de enfermeiro graduado, nas situações em que ocorreram por imposição legal, de forma automática e oficiosa, e não por procedimento concursal, não corresponderam a uma verdadeira alteração da posição remuneratória, pelo que tal não poderá determinar o reinício da contagem de pontos, no âmbito das regras do sistema de avaliação do desempenho.
+
+O Serviço de Saúde da Região Autónoma da Madeira, E. P. E. (doravante, SESARAM, E. P. E.) é a única instituição pública cuja missão é: prestar cuidados de saúde, cuidados e tratamentos continuados e cuidados paliativos à população, designadamente aos beneficiários do Serviço Regional de Saúde e aos beneficiários dos subsistemas de saúde ou de entidades externas que com aquele contratem tais cuidados e a todos os cidadãos em geral, de forma integrada, através de uma rede de serviços de fácil acesso, com uma eficiência técnica e social de elevado nível que permita a obtenção de ganhos em saúde; desenvolver atividades de investigação e formação, tanto nos seus serviços, como em unidades específicas; garantir o apoio técnico e logístico ao desenvolvimento dos programas de saúde de âmbito regional, promovidos pelo Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, em termos a celebrar por protocolo.
+
+Importa, por isso, à Região Autónoma da Madeira, no âmbito das suas competências autonómicas, efetuar o respetivo enquadramento jurídico desta situação, conforme, aliás, já decorria do compromisso assumido entre o Governo Regional e os Sindicatos de Enfermagem nos passados dias 18 de março e 29 de abril, ambos de 2019, bem como a forma do respetivo processamento das valorizações e acréscimos remuneratórios decorrentes do processo agora instituído.
+
+Foram observados os procedimentos de auscultação estabelecidos no artigo 470.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na redação atual, e na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na redação atual.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a), do n.º 1, do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa e na alínea c), do n.º 1, do artigo 37.º e alínea m), do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto e 12/2000, de 21 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto legislativo regional vem estabelecer as regras e procedimentos a serem adotados pelo Serviço de Saúde da Região Autónoma da Madeira, E. P. E. - SESARAM, E. P. E. - no âmbito do processo de descongelamento das carreiras de enfermagem.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O regime previsto no presente decreto legislativo regional é aplicável aos trabalhadores das carreiras de enfermagem, em exercício de funções no SESARAM, E. P. E., mediante vínculo de emprego público ou privado, por tempo indeterminado ou sem termo, respetivamente.
+
+###### Artigo 3.º — Regras de atribuição de pontos
+
+1 - Entre os anos de 2004 e 2014, inclusive, são atribuídos, independentemente do vínculo e da existência de avaliação, um ponto e meio, com exceção das seguintes situações:
+
+a) Se a avaliação atribuída tiver sido negativa, é atribuído um ponto negativo;
+
+b) Se em consequência de requerimento de avaliação por ponderação curricular nos anos de 2004 a 2007, inclusive, tiverem sido atribuídos pontos em número superior a um ponto e meio, é essa a pontuação que releva nesse período.
+
+2 - A partir de 2015 e até à alteração dos Estatutos do SESARAM, E. P. E., a qual acomode a estrutura hierárquica determinada para a aplicação do SIADAP aos trabalhadores integrados nas carreiras de enfermagem, é atribuído um ponto por cada ano, por não aplicabilidade do sistema de avaliação.
+
+3 - A atribuição de pontos efetuada nos termos dos números anteriores não permite que seja solicitada, em sua substituição, avaliação por ponderação curricular.
+
+4 - Para efeitos do previsto no n.º 1 do presente artigo, a atribuição dos pontos ocorre desde a última alteração de posição remuneratória, a qualquer título, e antes do ano de 2018, com exceção do previsto no número seguinte.
+
+5 - Para efeitos do disposto na parte final do número anterior, não é considerado como alteração de posição remuneratória as situações seguidamente identificadas:
+
+a) Qualquer mudança de, e na categoria, ou respetiva transição, que tenha ocorrido ao abrigo do disposto no Decreto-Lei n.º 437/91, de 8 de novembro, entre 1 de janeiro de 2004 e 29 de agosto de 2005, nas situações em que a mesma ocorreu por imposição legal, de forma automática e oficiosa, e não por procedimento concursal;
+
+b) O reposicionamento remuneratório ocorrido em virtude da transição para a carreira especial de enfermagem, prevista no artigo 5.º do Decreto-Lei n.º 122/2010, de 11 de novembro, na sua redação atual, e da transição para a carreira de enfermagem prevista na cláusula do Acordo de Empresa publicado no Jornal Oficial da Região Autónoma da Madeira, 3.ª série, n.º 24, de 16 de dezembro de 2015, não é considerado, para os devidos efeitos legais, como alteração da posição remuneratória, mas sim como um reconhecimento da habilitação académica e correspondente remuneração;
+
+c) Progressões do primeiro para o segundo escalão da categoria de enfermeiro graduado, ocorridas entre 1 de janeiro de 2004 e 29 de agosto de 2005;
+
+d) Progressões ou alterações remuneratórias derivadas do desempenho de funções como enfermeiro formador;
+
+e) Progressões ou alterações remuneratórias advenientes da aquisição de graus académicos;
+
+f) Progressões ou alterações remuneratórias derivadas de aprovação em concurso de provas públicas entre 2007 e 2009, incluindo as situações previstas no n.º 2 do artigo 27.º do Decreto-Lei n.º 248/2009, de 22 de setembro, para a então existente categoria de enfermeiro especialista, sempre que das mesmas resulte um posicionamento remuneratório inferior ao de trabalhadores enfermeiros especialistas com menor antiguidade.
+
+6 - Nas alterações obrigatórias de posicionamento remuneratório a efetuar após 1 de janeiro de 2018, quando o trabalhador enfermeiro tenha acumulado até 31 de dezembro de 2017 mais do que os pontos legalmente exigidos para aquele efeito, os pontos em excesso relevam para efeitos de futura alteração do seu posicionamento remuneratório.
+
+7 - Para efeitos de atribuição de pontos ao abrigo do presente diploma, em cada ano, é exigido um período mínimo de serviço efetivo equivalente a seis meses.
+
+8 - Apenas não são consideradas como serviço efetivo as ausências superiores a seis meses por motivo de licença sem remuneração ou por cedência ou qualquer outra forma de mobilidade com suspensão de vínculo.
+
+9 - Exceciona-se do previsto no n.º 7 do presente artigo, o ano de ingresso, de acesso ou do início de funções do trabalhador enfermeiro, o qual é contabilizado para efeitos de atribuição de pontos, isto é, independentemente do tempo de serviço efetivo prestado no respetivo ano.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2021/M - Diário da República n.º 166/2021, Série I de 2021-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2021-170221047), em vigor a partir de 2021-08-27
+
+###### Artigo 3.º-A — Regime excecional de avaliação do desempenho do biénio de 2019-2020, no âmbito da pandemia da doença COVID-19
+
+1 - Na avaliação de desempenho do biénio de 2019-2020, são atribuídos 4 pontos aos profissionais das carreiras de enfermagem do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., independentemente do vínculo e da existência de avaliação.
+
+2 - Caso haja lugar, no biénio referido no número anterior, à atribuição de mais do que 4 pontos, em consequência de requerimento de avaliação por ponderação curricular, é essa a pontuação que releva.
+
+3 - Para efeito do disposto nos números anteriores, quando os trabalhadores tenham acumulado mais do que os pontos legalmente exigidos para a alteração da posição remuneratória, os pontos em excesso relevam para efeitos de futura alteração do seu posicionamento remuneratório.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2021/M - Diário da República n.º 166/2021, Série I de 2021-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2021-170221047), em vigor a partir de 2021-08-27
+
+###### Artigo 4.º — Notificação
+
+A atribuição de pontos é notificada eletronicamente, com a devida discriminação anual e respetiva fundamentação, podendo ser consultada no respetivo processo eletrónico do trabalhador.
+
+###### Artigo 5.º — Pagamento dos acréscimos remuneratórios
+
+1 - O pagamento dos acréscimos remuneratórios decorrentes de alterações obrigatórias de posicionamento remuneratório derivadas da atribuição de pontos é efetuado, em cumprimento do disposto no n.º 8 do artigo 18.º da Lei n.º 114/2017, de 29 de dezembro, e no artigo 16.º da Lei n.º 71/2018, de 31 de dezembro, da seguinte forma:
+
+a) A partir de julho de 2019, será efetuado o pagamento da remuneração mensal, com o acréscimo de 75 %, com efeitos reportados a maio de 2019;
+
+b) A partir de 1 de dezembro 2019, será efetuado o pagamento da respetiva remuneração mensal a 100 %.
+
+2 - Os retroativos respeitantes aos montantes em dívidas vencidos e não pagos das remunerações fixas e variáveis, desde 1 de janeiro de 2018, são pagos de forma faseada, de acordo com o seguinte plano de pagamentos:
+
+a) 10 % no mês de julho de 2019;
+
+b) 10 % no mês de outubro de 2019;
+
+c) 20 % no mês de maio de 2020;
+
+d) 20 % no mês de outubro de 2020;
+
+e) 20 % no mês de maio de 2021;
+
+f) 20 % no mês de outubro de 2021.
+
+###### Artigo 6.º — Imperatividade
+
+O disposto no presente decreto legislativo regional tem natureza imperativa, prevalecendo sobre quaisquer outras normas especiais ou excecionais em contrário, e sobre instrumentos de regulamentação coletiva de trabalho.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de junho de 2019.
+
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
+
+Assinado em 16 de julho de 2019.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+112469443

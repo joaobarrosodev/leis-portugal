@@ -1,0 +1,320 @@
+---
+schema_version: '1.0'
+id: pt:dre:522003:por
+title: Decreto Regulamentar Regional n.º 29/2000/M
+short_title: null
+summary: Regulamenta o Decreto Legislativo Regional n.º 18/99/M, de 28 de Junho, que adapta à especificidade regional os benefícios
+  fiscais em regime contratual previstos no artigo 49.º-A do Estatuto dos Benefícios Fiscais
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 29/2000/M
+official_date: null
+publication_date: '2000-04-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/2000, Série I-B de 2000-04-27
+  number: '98'
+  series: I
+  supplement: null
+  pages: 1742 - 1745
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/04/098b00/17421745.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/29/2000/04/27/m/dre/pt/html
+  oj: null
+  dre: '522003'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/29-2000-522003
+  internal: pt:dre:522003:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2000-522003
+  metadata_url: https://data.dre.pt/eli/decregulreg/29/2000/04/27/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2000-522003
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-08-22T00:00:00Z'
+integrity:
+  source_sha256: 090d9f1322953946f32f2021828ac006ed05441ad91b564c3ce99d30ee5d3c9e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2000/DRE-2000-29-522003.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Agrícola
+- Empresa
+- Turismo
+- Multa
+- Política Fiscal
+- Governo Regional
+- Contrato de Concessão
+- Estatuto dos Benefícios Fiscais
+- Exploração Pecuária
+- Informática
+- Fiscalização
+- Apoio ao Investimento
+- Projeto de Investimento
+- Instituto de Desenvolvimento Empresarial
+- Direcção de Finanças da Região Autónoma da Madeira
+- Secretário Regional do Plano e da Coordenação
+- Plano Oficial de Contabilidade
+- IRC
+- Madeira.região Autónoma
+- Regime Fiscal
+- Indústria Transformadora
+- Relatório
+- Benefícios Fiscais
+- Sanção
+relationships:
+- type: amended_by
+  target: pt:dre:640667:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/18/1999/06/28/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/18/1999/06/28/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 29/2000/M
+
+Regulamenta o [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho, que adapta à especificidade regional os benefícios fiscais em regime contratual previstos no artigo 49.º-A do Estatuto dos Benefícios Fiscais.
+
+O [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho, procedeu à adaptação à Região Autónoma da Madeira do regime dos benefícios fiscais estabelecidos nos n.os 1 a 3 do artigo 49.º-A do Estatuto dos Benefícios Fiscais, na redacção que lhe foi dada pela Lei do Orçamento do Estado para 1999, remetendo para decreto regulamentar regional a regulamentação desse regime.
+
+Assim, procede-se neste diploma à regulamentação do regime dos benefícios fiscais de natureza excepcional e com carácter temporário, aplicáveis a projectos de investimento relevantes para a economia regional, nomeadamente ao nível da criação de postos de trabalho, da inovação e modernização das unidades produtivas e da requalificação ambiental e urbana.
+
+Esta regulamentação obedece aos princípios estabelecidos no [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho, e tem em linha de conta as especificidades da economia regional, nomeadamente os condicionalismos resultantes da sua reduzida dimensão, da descontinuidade territorial e do afastamento dos grandes mercados europeus e mundiais.
+
+Nos termos do artigo 88.º do Tratado da União Europeia, foi participada a implementação do presente regime de auxílios, não se suscitando qualquer objecção por parte da Comissão Europeia.
+
+Assim, nos termos da alínea d) do artigo 69.º da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e do artigo 2.º do [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma visa regulamentar o regime dos benefícios fiscais contratuais, condicionados e temporários, susceptíveis de concessão ao abrigo do [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho.
+
+###### Artigo 2.º — Âmbito e objectivos
+
+1 - São considerados de especial interesse para a economia da Região os projectos que se insiram no âmbito das actividades agrícolas, piscícolas e agro-pecuárias, turísticas, informáticas e conexas, bem como da indústria transformadora.
+
+2 - Os projectos referidos no número anterior devem prosseguir um dos seguintes objectivos:
+
+a) Contribuir para o esforço de inovação das unidades produtivas e de recuperação dos níveis de modernização da economia regional;
+
+b) Contribuir para a modernização das actividades agrícolas, piscícolas ou agro-pecuárias, com especial relevo para a integração e dinamização com actividades industriais, comerciais, científico-experimentais, nomeadamente nas vertentes de exportação e marketing;
+
+c) Visar a requalificação ambiental e urbana, com melhoria do meio ambiente regional, em sintonia com os instrumentos da política regional de ordenamento do território;
+
+d) Contribuir para a redução das assimetrias regionais;
+
+e) Contribuir para a diminuição dos custos de insularidade;
+
+f) Reforçar o posicionamento internacional de serviços de valor acrescentado para a Região e contribuir para a atracção de competências humanas de elevado mérito e competência nos domínios técnico-científicos dos projectos em que se inserem;
+
+g) Contribuir para a fixação de serviços na Região, nomeadamente nas áreas financeira, de telecomunicações e de sistemas de informação;
+
+h) Visar a reconversão, modernização, fusão ou concentração e acordos de cooperação de empresas, que possam constituir uma condição imprescindível para a prossecução de alguns dos objectivos previstos nas alíneas anteriores.
+
+3 - Aos projectos que prossigam um dos objectivos fixados nas alíneas b), c) e d) do número anterior que não se localizem no concelho do Funchal poderão ser concedidos os benefícios previstos no [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho, desde que o montante do investimento seja de valor igual ou superior a 100000 contos, conforme dispõe o n.º 2 do artigo 2.º daquele diploma.
+
+###### Artigo 3.º — Condições de acesso
+
+1 - Só podem ter acesso aos benefícios fiscais as empresas, sob a forma societária ou outra, promotoras dos projectos de investimento que:
+
+a) Demonstrem ter viabilidade técnica, económica e financeira;
+
+b) Demonstrem ter uma situação financeira equilibrada ou possam vir a atingi-la nos quadros do plano proposto e com os benefícios a conceder;
+
+c) Disponham de contabilidade organizada nos termos da legislação em vigor;
+
+d) Façam prova de que não são devedoras ao Estado e à segurança social de quaisquer impostos ou contribuições, ou que tenham o pagamento dos seus débitos devidamente assegurado;
+
+e) Comprovem que possuem a respectiva licença de laboração.
+
+2 - São dispensadas do cumprimento do disposto nas alíneas d) e e) do número anterior as empresas cujo acto de constituição se tenha verificado nos 90 dias anteriores à data da candidatura.
+
+3 - Para efeitos da alínea b) do n.º 1 deste artigo, considera-se que uma empresa tem uma situação financeira equilibrada nos casos em que se verifique que a autonomia financeira medida pelo coeficiente entre o capital próprio e o total do activo, ambos apurados segundo os princípios preconizados pelo Plano Oficial de Contabilidade, seja igual ou superior a 0,2.
+
+###### Artigo 4.º — Condições de elegibilidade dos projectos
+
+1 - São elegíveis os projectos de investimento cuja realização não se tenha iniciado à data da apresentação da candidatura, com excepção da aquisição de terrenos e da elaboração de estudos directamente relacionados com o investimento, que sejam viáveis do ponto de vista económico e financeiro e cujo contributo dos beneficiários para o seu financiamento seja de, pelo menos, 25% das aplicações relevantes, isento de qualquer auxílio.
+
+2 - Para efeitos do disposto no número anterior, considera-se que o início da realização do projecto de investimento se reporta à data da primeira factura emitida às empresas promotoras, relativa a débitos efectuados pelos fornecedores no âmbito do projecto.
+
+###### Artigo 5.º — Critérios para a determinação da intensidade do crédito fiscal
+
+1 - O crédito fiscal em sede de IRC a conceder aos projectos de investimento, a que se refere a alínea a) do n.º 1 do artigo 3.º do [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho, corresponde a 10% das aplicações relevantes do projecto efectivamente realizadas.
+
+2 - A percentagem estabelecida no n.º 1 do presente artigo poderá ser majorada da seguinte forma:
+
+a) Até 10%, caso o projecto proporcione a criação de postos de trabalho e sua manutenção até ao final da vigência do contrato a que se refere o n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho, e obrigatoriamente por um período mínimo de cinco anos, de acordo com os cinco escalões seguintes:
+
+i) 2% - >= 5 postos de trabalho;
+
+ii) 4% - >= 10 postos de trabalho;
+
+iii) 6% - >= 15 postos de trabalho;
+
+iv) 8% - >= 20 postos de trabalho;
+
+v) 10% - >= 25 postos de trabalho;
+
+b) Em 7%, caso o projecto se localize nos concelhos da Calheta, de Câmara de Lobos, de Machico, de Ponta do Sol, de Porto Moniz, de Porto Santo, da Ribeira Brava, de Santa Cruz, de Santana ou de São Vicente;
+
+c) Até 3%, em caso de relevante contributo do projecto para a inovação e modernização tecnológica, para a protecção do ambiente, para a valorização da produção de origem regional ou para a interacção com as instituições relevantes do sistema científico regional.
+
+3 - As percentagens de majoração previstas no n.º 2 deste artigo podem ser atribuídas cumulativamente e sem prejuízo da concessão dos demais benefícios fiscais previstos no n.º 1 do artigo 3.º do [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho.
+
+4 - No caso de reconhecida relevância excepcional do projecto para a economia regional, sob proposta conjunta do Secretário Regional do Plano e da Coordenação e do secretário regional que exerça a tutela do sector em que se insere o projecto em causa, pode ser atribuída pelo Conselho do Governo uma majoração até 5%, respeitando o limite total de 30% das aplicações relevantes.
+
+5 - O benefício fiscal em sede de IRC consiste na dedução ao montante apurado nos termos da alínea a) do n.º 1 do artigo 71.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas (CIRC) da quantia resultante da aplicação das percentagens referidas neste artigo ao valor das aplicações relevantes realizadas em cada exercício, sendo a dedução efectuada em conformidade com o disposto na alínea d) do n.º 2 do artigo 71.º do CIRC.
+
+6 - A dedução a que se refere o número anterior é feita na liquidação de IRC respeitante ao exercício em que foram realizadas as aplicações relevantes, mas, quando o não possa ser integralmente, a importância ainda não deduzida poderá sê-lo, nas mesmas condições, na liquidação dos exercícios até ao termo da vigência do contrato a que se refere o n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho.
+
+7 - Apenas será considerada para efeitos de atribuição do crédito fiscal previsto neste artigo a parte da matéria colectável imputável ao projecto de investimento.
+
+###### Artigo 6.º — Aplicações relevantes
+
+1 - Consideram-se aplicações relevantes, para efeito do cálculo dos benefícios, as despesas associadas aos projectos e relativas a:
+
+a) Activo fixo corpóreo afecto à realização do projecto, com excepção de:
+
+i) Terrenos, salvo no caso de se destinarem à exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em projectos de indústria extractiva;
+
+ii) Edifícios e outras construções não directamente ligados ao processo produtivo ou às actividades administrativas essenciais;
+
+iii) Viaturas ligeiras;
+
+iv) Mobiliário e artigos de conforto e decoração;
+
+b) Activo fixo incorpóreo afecto à realização do projecto, designadamente:
+
+i) Despesas com assistência técnica e elaboração de estudos;
+
+ii) Despesas com investigação e desenvolvimento e com estudos de impacte ambiental;
+
+iii) Despesas com patentes, licenças e alvarás.
+
+2 - Os activos previstos na alínea a) do número anterior poderão ser adquiridos em regime de locação financeira, desde que seja exercida a opção de compra prevista no respectivo contrato durante o período de vigência do contrato de concessão de benefícios fiscais.
+
+3 - Para efeitos dos números anteriores, são excluídas do conceito de aplicações relevantes as relativas a equipamentos usados, bem como aquelas que não se enquadrem nas normas comunitárias aplicáveis.
+
+4 - As aplicações relevantes devem ser contabilizadas como imobilizado das empresas promotoras dos investimentos, devendo as imobilizações corpóreas permanecer no activo da empresa durante o período de vigência do contrato de concessão de benefícios fiscais, excepto se a respectiva alienação for autorizada mediante despacho conjunto do Secretário Regional do Plano e da Coordenação e do secretário regional que exerça a tutela do sector em que se insere o projecto em causa, sem prejuízo, não obstante, das imobilizações corpóreas permanecerem obrigatoriamente no activo da empresa pelo período mínimo de cinco anos.
+
+###### Artigo 7.º — Candidatura e apreciação dos processos
+
+1 - As empresas promotoras dos investimentos deverão apresentar, devidamente caracterizado e fundamentado, o processo de candidatura aos benefícios fiscais no Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira (IDE-RAM).
+
+2 - Compete ao IDE-RAM:
+
+a) Pronunciar-se sobre a adequação do projecto quanto aos objectivos visados pelo regime de benefícios fiscais;
+
+b) Verificar o cumprimento das condições de acesso e de elegibilidade dos projectos mencionados nos artigos 3.º e 4.º deste diploma;
+
+c) Avaliar as aplicações relevantes.
+
+3 - No exercício das competências que lhe são cometidas no número anterior, o IDE-RAM pode recorrer à colaboração de entidades públicas ou privadas, sendo as entidades públicas solicitadas obrigadas a dar resposta ao pedido no prazo de 30 dias.
+
+4 - O IDE-RAM poderá, no decurso da fase de verificação das candidaturas, solicitar aos promotores dos projectos esclarecimentos complementares, os quais deverão ser apresentados no prazo de 60 dias, findo o qual, na ausência de resposta, quando imputável aos promotores, se considera tal atitude como desistência da candidatura.
+
+5 - O IDE-RAM submeterá o processo devidamente instruído, acompanhado do respectivo parecer técnico, nos termos do n.º 2 do presente artigo, à Direcção de Finanças da Região Autónoma da Madeira (DFRAM), no prazo de 60 dias contados a partir da data da apresentação da candidatura, que será interrompido nos casos previstos no número anterior.
+
+6 - A DFRAM emitirá parecer quanto à matéria relativa aos benefícios fiscais, podendo, se for caso disso, ser solicitados esclarecimentos complementares aos promotores, através do IDE-RAM.
+
+###### Artigo 8.º — Fiscalização e acompanhamento
+
+1 - Sem prejuízo das competências próprias da DFRAM, a verificação do cumprimento dos contratos de concessão de benefícios fiscais ao investimento pelos promotores compete ao IDE-RAM.
+
+2 - No exercício das competências que lhe são cometidas no número anterior, o IDE-RAM pode recorrer à colaboração de entidades públicas ou privadas, sendo as entidades públicas solicitadas obrigadas a dar resposta ao pedido no prazo de 30 dias.
+
+3 - Para efeitos do cumprimento do artigo 6.º do Estatuto dos Benefícios Fiscais, o IDE-RAM enviará anualmente à DFRAM os relatórios de verificação do cumprimento dos objectivos previstos nos contratos de concessão de benefícios fiscais.
+
+4 - O IDE-RAM enviará anualmente à Comissão Europeia um relatório com os resultados de aplicação do regime de auxílios previsto neste diploma, elaborado de acordo com as normas aplicáveis.
+
+###### Artigo 9.º — Direito de audição
+
+1 - Caso verifique alguma situação susceptível de conduzir à resolução do contrato, a DFRAM comunicará à entidade beneficiária do incentivo fiscal a sua intenção, podendo esta responder, querendo, no prazo de 30 dias.
+
+2 - Analisada a resposta à comunicação, caso haja divergência entre a DFRAM e a entidade beneficiária do incentivo fiscal, a requerimento desta, será constituída uma comissão formada por um representante da entidade beneficiária do incentivo fiscal, um da DFRAM e um do IDE-RAM, que emitirá um relatório fundamentado, no prazo de 30 dias.
+
+3 - No prazo de 30 dias após a emissão do relatório referido no número anterior, a DFRAM elaborará uma proposta fundamentada em que proporá, se for o caso, a resolução do contrato de concessão de incentivos fiscais.
+
+###### Artigo 10.º — Renegociação
+
+1 - O contrato pode ser objecto de renegociação a pedido de qualquer das partes, caso ocorra algum evento que altere substancialmente as circunstâncias em que as partes fundaram a sua vontade de contratar.
+
+2 - Qualquer alteração contratual decorrente de renegociação prevista no número anterior será submetida a aprovação nos termos do artigo 4.º do [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-392032), de 28 de Junho.
+
+###### Artigo 11.º — Resolução do contrato
+
+1 - A resolução do contrato é declarada por resolução do Conselho de Governo, mediante proposta do Secretário Regional do Plano e da Coordenação e do secretário regional que exerça a tutela do sector em que se insere o projecto em causa, nos seguintes casos:
+
+a) Não cumprimento dos objectivos e obrigações estabelecidos no contrato, nos prazos aí fixados, por facto imputável à empresa promotora;
+
+b) Não cumprimento atempado das obrigações fiscais por parte da empresa promotora;
+
+c) Prestação de informações falsas sobre a situação da empresa ou viciação de dados fornecidos na apresentação e apreciação e no acompanhamento dos projectos.
+
+2 - Para efeitos da aferição do incumprimento nos termos previstos na alínea a) do número anterior deverá ter-se em atenção o grau de cumprimento dos objectivos contratuais acordado contratualmente.
+
+###### Artigo 12.º — Efeitos da resolução do contrato
+
+1 - A resolução do contrato nos termos do artigo anterior implica a perda total dos benefícios fiscais concedidos desde a data do mesmo e ainda a obrigação de, no prazo de 30 dias a contar da respectiva notificação, e independentemente do tempo entretanto decorrido desde a data da verificação dos respectivos factos geradores de imposto, pagar, nos termos da lei, as importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas do juro compensatório, nos termos do artigo 35.º da lei geral tributária.
+
+2 - Na falta de pagamento dentro do prazo de 30 dias referido no número anterior, haverá lugar a procedimento executivo.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte à data da sua publicação.
+
+Aprovado em plenário do Conselho do Governo em 23 de Março de 2000.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+**Assinado em 4 de Abril de 2000.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.**

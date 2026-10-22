@@ -1,0 +1,294 @@
+---
+schema_version: '1.0'
+id: pt:dre:401913:por
+title: Decreto-Lei n.º 146/96
+short_title: null
+summary: Cria os colégios de especialidade
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Ciência e da Tecnologia
+proposing_entity: null
+official_number: 146/96
+official_date: null
+publication_date: '1996-08-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 197/1996, Série I-A de 1996-08-26
+  number: '197'
+  series: I
+  supplement: null
+  pages: 2703 - 2705
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/08/197a00/27032705.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/146/1996/08/26/p/dre/pt/html
+  oj: null
+  dre: '401913'
+  dre_path: /dr/detalhe/decreto-lei/146-1996-401913
+  internal: pt:dre:401913:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1996-401913
+  metadata_url: https://data.dre.pt/eli/dec-lei/146/1996/08/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1996-401913
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-08-26T00:00:00Z'
+integrity:
+  source_sha256: 3985c2bbaf2013c9e5bd33896bcae42efbbb6e5dd5df3ef2b4115fb09190da0e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-146-401913.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Investigador
+- Investigação Científica e Tecnológica
+- Pessoal Dirigente
+- Conselho Superior de Ciência e Tecnologia
+- Criação de Serviços
+- Definição de Competências
+- Colégio de Especialidade
+- Orgânica
+- Política de Investigação e Desenvolvimento
+relationships: []
+article_structure:
+  article_count: 16
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 146/96
+
+de 26 de Agosto
+
+O Governo propõe-se reformar o actual Conselho Superior da Ciência e da Tecnologia (CSCT), reforçando a presença nesse órgão da comunidade científica. E indicou como um dos processos conducentes a essa acrescida participação a criação de colégios de especialidade.
+
+Importa, pois, desde já, regular a constituição e funcionamento desses colégios, para que possam estar presentes no novo CSCT.
+
+Entendem-se os colégios de especialidade como uma das formas de agrupamento da comunidade científica, por grandes áreas de conhecimento, que permita a existência de estruturas de aconselhamento do Ministro da Ciência e da Tecnologia formadas por cientistas eleitos pelos seus pares.
+
+A constituição dos colégios de especialidade previstos neste diploma é informada pela experiência de outros países e, no que respeita à sua contribuição para o reforço e isenção dos mecanismos de avaliação, pela experiência portuguesa no âmbito da actividade de peer review produzida pela Junta Nacional de Investigação Científica e Tecnológica. Essa constituição visa completar os mecanismos institucionais de organização e participação da comunidade científica e tecnológica na construção e acompanhamento das políticas científicas e tecnológicas, introduzindo, a par das formas institucionais baseadas no vínculo laboral ou no associativismo, o referencial da especialidade disciplinar à escala nacional.
+
+Assim, nos termos da alínea a) do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Colégios de especialidade
+
+###### Artigo 1.º — Colégios de especialidade
+
+1 - São criados os colégios de especialidade, dispositivos do sistema científico e tecnológico nacional estruturantes da reflexão sobre a actividade científica e tecnológica por domínios disciplinares.
+
+2 - A designação do âmbito científico de cada colégio de especialidade é feita por despacho do Ministro da Ciência e da Tecnologia, devendo tomar em consideração as principais classificações internacionais das áreas científicas e as especialidades de doutoramento das universidades portuguesas.
+
+3 - O âmbito científico dos colégios de especialidade é objecto de revisão periódica, que será baseada em parecer do Conselho Superior da Ciência e da Tecnologia.
+
+4 - Não poderão existir, em cada momento, mais de 15 colégios de especialidade.
+
+###### Artigo 2.º — Composição
+
+1 - Fazem parte dos colégios de especialidade, desde que solicitem a sua adesão:
+
+a) Os doutores por universidades portuguesas;
+
+b) Os doutores por universidades estrangeiras cujo doutoramento tenha sido reconhecido em Portugal;
+
+c) Os professores das universidades portuguesas com categoria igual ou superior a professor auxiliar;
+
+d) Os investigadores da carreira de investigação científica com a categoria de investigador auxiliar ou superior;
+
+e) Outros investigadores que, pelo seu currículo científico, o colégio respectivo delibere aceitar, nas condições referidas na alínea e) do n.º 3 do artigo 6.º
+
+2 - A adesão aos colégios de especialidade faz-se por declaração escrita acompanhada de documento comprovativo do título académico ou da integração no quadro da carreira de investigação.
+
+3 - A adesão é solicitada para o colégio que abranja a área científica na qual o investigador exerça a sua actividade.
+
+4 - No caso de o mesmo investigador estar em condições de aderir a mais de um colégio, deverá optar por um deles.
+
+5 - Considera-se prova bastante do título académico ou de integração no quadro de investigadores as listagens a fornecer por instituições de ensino superior ou instituições públicas de investigação donde constem esses elementos.
+
+6 - Presume-se que o investigador exerce a sua actividade na área científica correspondente àquela em que apresentou a sua dissertação de doutoramento ou prestou provas na carreira de investigação.
+
+7 - A presunção referida no número anterior é ilidível pela apresentação de prova documental, a apreciar pela direcção do colégio de especialidade respectivo, com recurso para a assembleia, que demonstre que o investigador exerce a sua actividade, no momento da adesão, em área científica diversa da referida no número anterior.
+
+###### Artigo 3.º — Atribuições
+
+1 - Cada colégio de especialidade tem o direito de se fazer representar no Conselho Superior da Ciência e da Tecnologia, através de um representante designado nos termos de regulamento a aprovar pela respectiva assembleia.
+
+2 - Os colégios de especialidade indicam investigadores da respectiva área que podem fazer parte das comissões de avaliação das candidaturas a financiamentos atribuídos no âmbito do Ministério da Ciência e da Tecnologia, nos termos que vierem a ser regulamentados.
+
+3 - Os colégios de especialidade elaboram um relatório anual, a apresentar ao Ministro da Ciência e da Tecnologia, sobre o estado e evolução do conhecimento científico e tecnológico na área respectiva.
+
+###### Artigo 4.º — Órgãos
+
+1 - São órgãos dos colégios de especialidade:
+
+a) A direcção;
+
+b) A assembleia.
+
+2 - Os regimentos de cada colégio podem criar outros órgãos além dos previstos no número anterior.
+
+###### Artigo 5.º — Direcção
+
+1 - A direcção é composta de um presidente, um vice-presidente e três vogais.
+
+2 - A direcção é eleita pelos membros do colégio, segundo regulamento a aprovar pela assembleia.
+
+3 - Compete à direcção:
+
+a) Indicar os membros do colégio que podem fazer parte das comissões de avaliação referidas no n.º 2 do artigo 3.º;
+
+b) Apresentar à assembleia, para aprovação, o relatório anual referido no n.º 3 do artigo 3.º;
+
+c) Aprovar o seu regulamento de funcionamento;
+
+d) Apresentar à assembleia propostas de alteração ao regimento do colégio;
+
+e) Exercer as demais funções que lhe forem cometidas pela assembleia ou pelo regimento.
+
+###### Artigo 6.º — Assembleia
+
+1 - A assembleia é composta por todos os membros do colégio de especialidade.
+
+2 - Salvo disposição em contrário, as deliberações são tomadas por maioria simples.
+
+3 - Compete à assembleia:
+
+a) Eleger a mesa da assembleia;
+
+b) Aprovar o relatório anual mencionado no n.º 3 do artigo 3.º;
+
+c) Aprovar o regimento do colégio;
+
+d) Aprovar o seu regulamento de funcionamento;
+
+e) Decidir, por maioria de dois terços, sobre a adesão dos investigadores referidos na alínea e) do n.º 1 do artigo 2.º;
+
+f) Exercer todas as competências que lhe sejam atribuídas pelo regimento e, em geral, todas as que não forem da competência específica de outros órgãos.
+
+###### Artigo 7.º — Mandato
+
+O mandato dos membros dos órgãos do colégio é de dois anos, renovável uma única vez.
+
+### CAPÍTULO II — Primeira formação dos colégios de especialidade
+
+###### Artigo 8.º — Comissão eleitoral
+
+1 - Para cada colégio de especialidade é designada, por despacho do Ministro da Ciência e da Tecnologia, uma comissão eleitoral composta por cinco investigadores da respectiva área de conhecimento.
+
+2 - Incumbe à comissão eleitoral:
+
+a) Apresentar a lista provisória do recenseamento dos investigadores que podem fazer parte do colégio;
+
+b) Apreciar e decidir das reclamações que os interessados apresentem sobre a inclusão, não inclusão ou inclusão em colégio diverso do da área de actividade actual dos investigadores;
+
+c) Elaborar a lista definitiva de recenseamento;
+
+d) Orientar e dirigir o processo eleitoral conducente à eleição da primeira direcção de cada colégio, nos termos do estabelecido neste decreto-lei.
+
+###### Artigo 9.º — Apresentação da lista
+
+1 - A lista provisória de recenseamento dos investigadores que podem fazer parte do colégio, elaborada a partir das listagens a que se refere o n.º 5 do artigo 2.º, é enviada por correio a cada um deles e a todas as universidades e instituições públicas de investigação.
+
+2 - Juntamente com a lista é enviada uma declaração tipo, a ser subscrita pelos investigadores que desejarem manifestar a sua vontade de aderir ao colégio, a qual deve ser devolvida à comissão eleitoral no prazo de 15 dias sobre a data do envio da lista.
+
+3 - A adesão efectuada nos moldes referidos no número anterior dispensa a apresentação do documento a que se refere o n.º 2 do artigo 2.º
+
+###### Artigo 10.º — Reclamações
+
+1 - Qualquer interessado pode apresentar reclamação, no prazo de 20 dias sobre a data do envio da lista provisória de recenseamento, sobre a inclusão, não inclusão e inclusão em colégio diverso de qualquer investigador.
+
+2 - As reclamações só são admitidas se juntarem documentação que as sustente.
+
+3 - As reclamações são apreciadas pela comissão eleitoral, que decide definitivamente no prazo de 30 dias contados a partir da sua recepção.
+
+###### Artigo 11.º — Lista definitiva
+
+1 - Apreciadas e decididas as reclamações, é elaborada a lista definitiva do recenseamento, que identificará os investigadores que manifestaram a sua vontade de aderir aos colégios.
+
+2 - A lista definitiva é imediatamente divulgada, nos termos do n.º 1 do artigo 9.º
+
+###### Artigo 12.º — Apresentação de candidaturas
+
+1 - Após a elaboração da lista definitiva, abre-se um prazo de 35 dias para a apresentação de candidaturas à direcção do colégio, contado a partir do dia seguinte ao daquela elaboração.
+
+2 - As candidaturas são apresentadas por lista que indique os candidatos a cada um dos lugares da direcção.
+
+3 - Só podem ser candidatos os membros do colégio de especialidade referidos na lista definitiva do recenseamento.
+
+4 - Para efeitos de votação as listas serão designadas por letras, em sucessão alfabética, de acordo com a ordem de entrada na comissão eleitoral.
+
+###### Artigo 13.º — Eleição
+
+1 - As comissões eleitorais enviam, por carta registada, a todos os investigadores incluídos no recenseamento definitivo o elenco das listas de candidaturas e um boletim de voto que contenha a indicação de todas as listas e o local onde deverá ser assinalada a escolha do eleitor.
+
+2 - Cada eleitor remete o seu voto, no prazo de 15 dias após o envio referido no número anterior, em sobrescrito fechado, dentro de outro, dirigido à comissão eleitoral respectiva, em que indique a sua identificação completa.
+
+3 - A comissão eleitoral, em dia previamente anunciado, descarrega no caderno eleitoral os votos recebidos, fazendo entrar na urna os sobrescritos que contenham os votos.
+
+4 - Efectuada a operação referida no número anterior, são abertos todos os sobrescritos que contenham os votos, procedendo-se à respectiva contagem.
+
+5 - É considerada eleita a lista que obtiver o maior número de votos.
+
+6 - Em todo o processo referido neste artigo podem participar delegados das listas concorrentes.
+
+###### Artigo 14.º — Competência da primeira direcção eleita
+
+Incumbe à primeira direcção eleita:
+
+a) Elaborar a proposta do regimento do colégio;
+
+b) Convocar, nos 60 dias após a sua eleição, a assembleia do colégio para eleger a respectiva mesa e discutir e votar a proposta de regimento.
+
+### CAPÍTULO III — Disposições finais
+
+###### Artigo 15.º — Princípio de não remuneração
+
+As funções a desempenhar pelos membros dos colégios de especialidade nos respectivos órgãos não são remuneradas.
+
+###### Artigo 16.º — Apoio logístico
+
+O apoio logístico e material ao processo de constituição e ao funcionamento dos colégios de especialidade é fornecido pelo organismo sujeito a tutela do Ministro da Ciência e da Tecnologia com competência na área da avaliação e do financiamento da investigação científica e tecnológica.
+
+Visto e aprovado em Conselho de Ministros de 29 de Maio de 1996. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - José Mariano Rebelo Pires Gago.
+
+**Promulgado em 8 de Agosto de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 12 de Agosto de 1996.**
+
+**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**

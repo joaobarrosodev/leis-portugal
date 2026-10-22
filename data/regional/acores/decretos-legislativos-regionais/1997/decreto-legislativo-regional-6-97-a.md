@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:397954:por
+title: Decreto Legislativo Regional n.º 6/97/A
+short_title: null
+summary: Aplica à Região Autónoma dos Açores o disposto no Decreto-Lei n.º 202/96, de 23 de Outubro (estabelece o regime de
+  avaliação de incapacidades das pessoas com deficiência)
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 6/97/A
+official_date: null
+publication_date: '1997-05-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/1997, Série I-A de 1997-05-22
+  number: '118'
+  series: I
+  supplement: null
+  pages: 2544 - 2545
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/05/118a00/25442545.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/6/1997/05/22/a/dre/pt/html
+  oj: null
+  dre: '397954'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/6-1997-397954
+  internal: pt:dre:397954:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1997-397954
+  metadata_url: https://data.dre.pt/eli/declegreg/6/1997/05/22/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1997-397954
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-11-19T00:00:00Z'
+integrity:
+  source_sha256: 02c141e61ba536799590d267a569c39c8ed977e39da8124b43433df9e78c8007
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1997/DRE-1997-6-397954.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Deficiente
+- Recurso
+- Atestado Médico
+- Junta Médica
+- Proteção ao Deficiente
+- Incapacidade Física
+- Benefícios Fiscais
+- Açores
+- Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais
+relationships:
+- type: amended_by
+  target: pt:dre:655300:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/202/1996/10/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/1996/10/23/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 6/97/A
+
+Aplica à Região Autónoma dos Açores o regime do [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23 de Outubro (estabelece o regime de avaliação de incapacidades das pessoas com deficiência, tal como definido na [Lei n.º 9/89](https://diariodarepublica.pt/dr/detalhe/lei/9-1989-611899), de 2 de Maio).
+
+Considerando que a [Lei n.º 9/89](https://diariodarepublica.pt/dr/detalhe/lei/9-1989-611899), de 2 de Maio, definiu no seu artigo 2.º o conceito de pessoa com deficiência;
+
+Considerando que com a publicação do [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23 de Outubro, se criou o regime de avaliação de incapacidades das pessoas com deficiência, tal como as definidas naquele artigo, tendo em vista facilitar a sua plena participação na comunidade;
+
+Considerando que, tal como se encontra formulado, o referido decreto-lei não pode ser aplicado à Região, dado ser diferente a organização do Serviço Regional de Saúde:
+
+A Assembleia Legislativa Regional dos Açores decreta, nos termos das alíneas a) e d) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+O disposto no [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23 de Outubro, aplica-se na Região Autónoma dos Açores, com as adaptações constantes do presente diploma.
+
+###### Artigo 2.º — Composição
+
+1 - As juntas médicas, previstas no n.º 1 do seu artigo 2.º, são constituídas por despacho do director regional de Saúde e têm a seguinte composição:
+
+a) A autoridade concelhia de saúde, que presidirá;
+
+b) Um vogal efectivo e um vogal suplente, designados pelo director do centro de saúde.
+
+2 - O 1.º vogal efectivo substituirá o presidente nas suas faltas e impedimentos.
+
+###### Artigo 3.º — Procedimentos
+
+1 - Os requerimentos a que se refere o n.º 1 do artigo 3.º do mesmo diploma são dirigidos ao director regional de Saúde e entregues à autoridade de saúde do concelho de residência dos interessados.
+
+2 - A autoridade de saúde concelhia deve instruir o requerimento com os elementos eventualmente disponíveis e necessários, devendo convocar a junta médica e notificar o requerente da data do exame, a realizar no prazo de 60 dias, a contar da entrega do requerimento.
+
+3 - Findo o exame, o presidente da junta médica passará o respectivo atestado médico de incapacidade, o qual obedecerá ao modelo constante do anexo a este diploma.
+
+###### Artigo 4.º — Recursos
+
+1 - O recurso, referido no n.º 1 do artigo 5.º do mencionado decreto-lei, é apresentado ao director de Saúde, o qual poderá determinar a reavaliação, nomeando outra junta médica com elementos que não participaram na avaliação impugnada, podendo um deles ser proposto pelo interessado.
+
+2 - Da homologação da segunda avaliação pelo director regional de Saúde cabe recurso contencioso nos termos gerais.
+
+###### Artigo 5.º — Comissão de normalização
+
+A competência para nomear a comissão de normalização, a que se refere o artigo 6.º do [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23 de Outubro, cabe ao director regional de Saúde.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente diploma entra em vigor na data da sua publicação e aplica-se aos processos em causa, com as devidas adaptações.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 10 de Abril de 1997.
+
+**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+
+**Assinado em Angra do Heroísmo em 24 de Abril de 1997.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/118a00/25442545.pdf))](https://files.diariodarepublica.pt/1s/1997/05/118a00/25442545.pdf)

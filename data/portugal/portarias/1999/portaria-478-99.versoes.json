@@ -1,0 +1,554 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:392582:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-886100384",
+ "dre_path": "/dr/detalhe/portaria/478-1999-392582",
+ "source_lastmod": "2024-08-28",
+ "versions": [
+  {
+   "date": "1999-06-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886100486",
+    "886100487",
+    "886100488",
+    "886100489",
+    "886100490",
+    "886100491",
+    "886100492",
+    "886100493",
+    "886100494",
+    "886100495",
+    "886100496",
+    "886100497",
+    "886100498",
+    "886100499",
+    "886100500",
+    "886100501",
+    "886100502",
+    "886100503",
+    "886100504",
+    "886100505",
+    "886100506",
+    "886100507",
+    "886100508",
+    "886100509",
+    "886100510",
+    "886100511",
+    "886100512",
+    "886100513",
+    "886100514",
+    "886100515"
+   ]
+  },
+  {
+   "date": "2003-01-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172725:por",
+     "title": "Portaria n.º 71/2003",
+     "published": "2003-01-20",
+     "dre_path": "/dr/detalhe/portaria/71-2003-172725"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "886100486",
+    "886100516",
+    "886100517",
+    "886100518",
+    "886100519",
+    "886100487",
+    "886100488",
+    "886100489",
+    "886100490",
+    "886100491",
+    "886100492",
+    "886100493",
+    "886100522",
+    "886100495",
+    "886100523",
+    "886100524",
+    "886100525",
+    "886100499",
+    "886100500",
+    "886100501",
+    "886100502",
+    "886100503",
+    "886100504",
+    "886100505",
+    "886100506",
+    "886100526",
+    "886100508",
+    "886100527",
+    "886100510",
+    "886100528",
+    "886100529",
+    "886100530",
+    "886100531",
+    "886100532"
+   ]
+  },
+  {
+   "date": "2009-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:492385:por",
+     "title": "Portaria n.º 771/2009",
+     "published": "2009-07-20",
+     "dre_path": "/dr/detalhe/portaria/771-2009-492385"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 24.º"
+   ],
+   "fragments": [
+    "886100486",
+    "886100516",
+    "886100517",
+    "886100518",
+    "886100519",
+    "886100487",
+    "886100488",
+    "886100489",
+    "886100490",
+    "886100491",
+    "886100492",
+    "886100493",
+    "886100522",
+    "886100495",
+    "886100523",
+    "886100524",
+    "886100525",
+    "886100499",
+    "886100500",
+    "886100501",
+    "886100502",
+    "886100503",
+    "886100504",
+    "886100505",
+    "886100506",
+    "886100526",
+    "886100508",
+    "886100527",
+    "886100510",
+    "886100528",
+    "886100529",
+    "886100530",
+    "886100531",
+    "886100532",
+    "886100535"
+   ]
+  }
+ ],
+ "fragments": {
+  "886100486": {
+   "fragment_id": "886100385",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 478/99\n\nde 29 de Junho\n\nA Lei n.º 35/98, de 18 de Julho, define o estatuto das organizações não governamentais de ambiente e revoga a Lei n.º 10/87, de 4 de Abril (Lei das Associações de Defesa do Ambiente).\n\nNos termos do artigo 17.º da referida lei, o Instituto de Promoção Ambiental, IPAMB, organiza, em termos a regulamentar, o registo nacional das ONGA e equiparadas.\n\nNeste contexto, foi elaborada uma proposta de regulamento que foi objecto de discussão pública, tendo nela participado, entre outros interessados, as associações inscritas no Registo Nacional das Associações de Defesa do Ambiente.\n\nAssim, ouvido o conselho directivo do IPAMB:\n\nAo abrigo da alínea c) do artigo 199.º da Constituição e do artigo 22.º da Lei n.º 35/98, de 18 de Julho:\n\nManda o Governo, pela Ministra do Ambiente, o seguinte:"
+  },
+  "886100487": {
+   "fragment_id": "886100386",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "886100488": {
+   "fragment_id": "886100387",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o Regulamento do Registo Nacional das Organizações não Governamentais de Ambiente (ONGA) e Equiparadas, nos termos da Lei n.º 35/98, de 18 de Julho, que define o estatuto das organizações não governamentais de ambiente."
+  },
+  "886100489": {
+   "fragment_id": "886100388",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Registo\n\nO Instituto de Promoção Ambiental, IPAMB, é responsável pela organização do Registo Nacional das ONGA e Equiparadas, nos termos do artigo 17.º da Lei n.º 35/98."
+  },
+  "886100490": {
+   "fragment_id": "886100389",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Entende-se por ONGA as associações dotadas de personalidade jurídica e constituídas nos termos da lei geral que não prossigam fins lucrativos, para si ou para os seus associados, e visem, exclusivamente, a defesa e valorização do ambiente ou do património natural e construído, bem como a conservação da natureza.\n\n2 - Podem ser equiparadas a ONGA, para efeitos dos artigos 5.º, 6.º, 13.º, 14.º e 15.º da Lei n.º 35/98, outras associações, nomeadamente sócio-profissionais, culturais e científicas, que não prossigam fins partidários sindicais ou lucrativos, para si ou para os seus associados e tenham como área de intervenção principal o ambiente, o património natural e construído ou a conservação da natureza.\n\n3 - São ainda consideradas ONGA as associações dotadas de personalidade jurídica e constituídas nos termos da lei geral que não tenham fins lucrativos e resultem do agrupamento de várias ONGA ou destas com equiparadas.\n\n4 - Para efeitos do presente Regulamento, os conceitos de defesa e valorização do ambiente, património natural e construído e conservação da natureza são os constantes da Constituição da República Portuguesa e da Lei de Bases do Ambiente."
+  },
+  "886100491": {
+   "fragment_id": "886100390",
+   "type": 1,
+   "heading": "Capítulo II — Estatuto das ONGA e equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estatuto das ONGA e equiparadas"
+  },
+  "886100492": {
+   "fragment_id": "886100391",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuição de estatuto de ONGA ou equiparada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuição de estatuto de ONGA ou equiparada\n\n1 - O estatuto de ONGA e equiparada a ONGA e os direitos e deveres decorrentes da sua atribuição dependem da inscrição no Registo Nacional das ONGA.\n\n2 - As ONGA que preencham as condições estabelecidas no artigo 4.º da Lei n.º 35/98 têm o direito de obter declaração de utilidade pública, nos termos do Decreto-Lei n.º 460/77, de 7 de Novembro."
+  },
+  "886100493": {
+   "fragment_id": "886100392",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos para a inscrição no Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos para a inscrição no Registo\n\n1 - Podem requerer a inscrição no Registo as ONGA ou equiparadas que preencham os requisitos do artigo 3.º do presente Regulamento e tenham, pelo menos, 100 associados.\n\n2 - Para efeitos de inscrição no Registo, o número de associados das ONGA que resultem do agrupamento de associações é calculado pelo somatório do número de associados das ONGA ou equiparadas que as integram."
+  },
+  "886100494": {
+   "fragment_id": "886100393",
+   "type": 11,
+   "heading": "Artigo 6.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Âmbito\n\n1 - O IPAMB procede, no acto de registo, à atribuição de âmbito às ONGA.\n\n2 - A atribuição de âmbito releva apenas para efeitos de exercício do direito de representação previsto no artigo 7.º da Lei n.º 35/98.\n\n3 - Entende-se por ONGA de âmbito nacional a que observe, cumulativamente, os seguintes requisitos:\n\na) Desenvolva, com carácter regular e permanente, actividades de interesse nacional ou em todo o território nacional;\n\nb) Tenha, pelo menos, 2000 associados.\n\n4 - Entende-se por ONGA de âmbito regional a que observe, cumulativamente, os seguintes requisitos:\n\na) Desenvolva, com carácter regular e permanente, actividades de interesse ou alcance geográfico supramunicipal;\n\nb) Tenha, pelo menos, 400 associados.\n\n5 - Entende-se por ONGA de âmbito local a que observe, cumulativamente, os seguintes requisitos:\n\na) Desenvolva, com carácter regular e permanente, actividades de interesse ou alcance geográfico municipal ou inframunicipal;\n\nb) Tenha, pelo menos, 100 associados.\n\n6 - As ONGA que não preencham os requisitos referidos nos números anteriores são inscritas no Registo sem atribuição de âmbito para efeitos do direito de representação, à excepção do disposto no número seguinte.\n\n7 - As ONGA que não tenham o número de associados necessário à atribuição de âmbito nacional podem optar por ser classificadas de âmbito regional, desde que tenham pelo menos 400 associados e solicitem expressamente ao IPAMB essa classificação.\n\n8 - O disposto nos números anteriores aplica-se às ONGA que resultem do agrupamento de associações, relevando apenas, para apuramento do número de associados, as associações que visem exclusivamente a defesa e valorização do ambiente, do património natural e construído ou a conservação da natureza.\n\n9 - O exercício do direito de representação pelas ONGA que resultem do agrupamento de associações exclui o exercício do mesmo direito pelas ONGA que as integram."
+  },
+  "886100495": {
+   "fragment_id": "886100394",
+   "type": 1,
+   "heading": "Capítulo III — Inscrição no Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Inscrição no Registo"
+  },
+  "886100496": {
+   "fragment_id": "886100395",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inscrição\n\n1 - A inscrição no Registo das ONGA e equiparadas é feita por despacho do presidente, após parecer do conselho directivo do IPAMB.\n\n2 - O despacho do presidente do IPAMB deve ter em consideração o parecer do conselho directivo e, em caso da sua não adopção, incorporar na decisão as razões de facto e de direito que para tal forem determinantes."
+  },
+  "886100497": {
+   "fragment_id": "886100396",
+   "type": 11,
+   "heading": "Artigo 8.º — Formalização do pedido de inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formalização do pedido de inscrição\n\nO requerimento para inscrição no Registo é dirigido ao presidente do IPAMB, instruído com os seguintes documentos:\n\na) Cópia do acto de constituição e dos estatutos actualizados;\n\nb) Cópia do Diário da República ou do Jornal Oficial onde foi publicado o extracto do acto de constituição e a alteração aos estatutos;\n\nc) Cópia do cartão de identificação de pessoa colectiva;\n\nd) Declaração de número de associados;\n\ne) Declaração do valor das quotas dos associados;\n\nf) Plano de actividades;\n\ng) Relatório de actividades e relatório de contas;\n\nh) Indicação da área geográfica de actuação ou do interesse nacional, regional ou local das actividades desenvolvidas;\n\ni) Cópia da acta da assembleia geral relativa à eleição dos membros dos órgãos sociais e respectivo termo de posse;\n\nj) Cópias dos bilhetes de identidade dos membros da direcção."
+  },
+  "886100498": {
+   "fragment_id": "886100397",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento\n\n1 - Os serviços do IPAMB elaboram parecer fundamentado do qual consta a proposta de decisão sobre a inscrição no Registo, bem como o âmbito a atribuir para efeitos de direito de representação.\n\n2 - Para a correcta apreciação do pedido de inscrição, podem ser solicitados à associação elementos adicionais considerados importantes para a decisão.\n\n3 - Após parecer do conselho directivo do IPAMB e depois de audiência dos interessados, nos termos do Código do Procedimento Administrativo, o presidente do IPAMB emite decisão final.\n\n4 - Da decisão final constam os fundamentos de facto e de direito da decisão, bem como o sentido do parecer do conselho directivo do IPAMB.\n\n5 - As ONGA e equiparadas têm direito a obter declaração comprovativa da sua inscrição no Registo Nacional."
+  },
+  "886100499": {
+   "fragment_id": "886100398",
+   "type": 11,
+   "heading": "Artigo 10.º — Comunicação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comunicação da decisão\n\nO IPAMB notifica a ONGA ou equiparada da decisão final, estatuto e âmbito atribuídos bem como do número de inscrição no Registo."
+  },
+  "886100500": {
+   "fragment_id": "886100399",
+   "type": 1,
+   "heading": "Capítulo IV — Direitos e deveres decorrentes do Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Direitos e deveres decorrentes do Registo"
+  },
+  "886100501": {
+   "fragment_id": "886100400",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos\n\nAs ONGA e equiparadas inscritas no registo gozam dos direitos que lhes são conferidos pela Lei n.º 35/98."
+  },
+  "886100502": {
+   "fragment_id": "886100401",
+   "type": 11,
+   "heading": "Artigo 12.º — Estatuto dos dirigentes das ONGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estatuto dos dirigentes das ONGA\n\nOs dirigentes e os membros das ONGA designados para exercer funções de representação, nos termos do artigo 7.º da Lei n.º 35/98, gozam dos direitos consagrados no artigo 8.º da referida lei."
+  },
+  "886100503": {
+   "fragment_id": "886100402",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deveres\n\n1 - As ONGA e equiparadas estão obrigadas a enviar ao IPAMB, até 30 dias úteis após a sua verificação, as alterações aos seguintes elementos:\n\na) Cópia da acta da assembleia geral relativa à eleição dos órgãos sociais e respectivo termo de posse;\n\nb) Cópia da acta da assembleia geral relativa à alteração dos estatutos;\n\nc) Cópia do Diário da República onde foi publicado o extracto da alteração dos estatutos;\n\nd) Alteração do valor da quotização dos seus associados;\n\ne) Alteração da sede.\n\n2 - As ONGA e equiparadas estão ainda obrigadas a enviar anualmente ao IPAMB, até 30 de Abril de cada ano:\n\na) Planos de actividades, relatório de actividades e relatório de contas aprovados pelos órgãos estatutários competentes;\n\nb) Declaração do número de associados em 31 de Dezembro do ano anterior."
+  },
+  "886100504": {
+   "fragment_id": "886100403",
+   "type": 1,
+   "heading": "Capítulo V — Alterações ao Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Alterações ao Registo"
+  },
+  "886100505": {
+   "fragment_id": "886100404",
+   "type": 11,
+   "heading": "Artigo 14.º — Modificação do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Modificação do registo\n\n1 - O IPAMB promove a modificação do registo, oficiosamente ou a requerimento da ONGA ou equiparada, sempre que as características de uma associação registada se alterem de forma a justificar classificação diferente.\n\n2 - No processo de modificação oficiosa do registo, o IPAMB promove a audiência da ONGA ou equiparada interessada.\n\n3 - À modificação do registo aplica-se, com as necessárias adaptações, o procedimento estabelecido para a inscrição."
+  },
+  "886100506": {
+   "fragment_id": "886100405",
+   "type": 11,
+   "heading": "Artigo 15.º — Suspensão do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Suspensão do registo\n\n1 - A inscrição no Registo é suspensa a requerimento da ONGA ou equiparada interessada ou por decisão fundamentada do presidente do IPAMB, proferida na sequência de uma auditoria.\n\n2 - A inscrição é ainda suspensa por decisão do presidente do IPAMB quando a ONGA ou equiparada, depois de devidamente notificada, não envie a documentação relativa ao registo e ao apoio financeiro que está legalmente obrigada a apresentar ao IPAMB, excepto quando tal facto não lhe seja imputável.\n\n3 - A suspensão da inscrição da ONGA ou equiparada no Registo determina a impossibilidade de candidatura a apoio técnico e financeiro do IPAMB enquanto durar a suspensão.\n\n4 - À suspensão do registo aplica-se, com as necessárias adaptações, o procedimento estabelecido para a inscrição."
+  },
+  "886100507": {
+   "fragment_id": "886100406",
+   "type": 11,
+   "heading": "Artigo 16.º — Anulação do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Anulação do registo\n\n1 - A inscrição no Registo é anulada a requerimento da ONGA ou equiparada interessada ou por decisão fundamentada do presidente do IPAMB, proferida na sequência de uma auditoria.\n\n2 - A inscrição é ainda anulada quando se verifique a suspensão de inscrição de uma ONGA ou equiparada por prazo superior a três anos.\n\n3 - À anulação do registo aplica-se, com as necessárias adaptações, o procedimento estabelecido para a inscrição."
+  },
+  "886100508": {
+   "fragment_id": "886100407",
+   "type": 11,
+   "heading": "Artigo 17.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Recurso\n\nDos actos que determinam a inscrição, modificação, suspensão ou anulação do registo cabe recurso nos termos gerais de direito."
+  },
+  "886100509": {
+   "fragment_id": "886100408",
+   "type": 11,
+   "heading": "Artigo 18.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Publicidade\n\n1 - O IPAMB procede semestralmente à publicação de um extracto dos actos que determinam a inscrição, modificação, suspensão ou anulação do registo:\n\na) No Diário da República;\n\nb) Nas publicações periódicas do IPAMB.\n\n2 - Para assegurar a publicidade dos actos que determinam alterações ao registo o IPAMB elabora semestralmente notas informativas a enviar à comunicação social nacional, regional e local.\n\n3 - Todas as alterações ao registo são comunicadas pelo IPAMB às ONGA e equiparadas inscritas."
+  },
+  "886100510": {
+   "fragment_id": "886100409",
+   "type": 1,
+   "heading": "Capítulo VI — Auditorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Auditorias"
+  },
+  "886100511": {
+   "fragment_id": "886100410",
+   "type": 11,
+   "heading": "Artigo 19.º — Auditorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Auditorias\n\n1 - Compete ao IPAMB fiscalizar o cumprimento da Lei n.º 35/98 através da realização de auditorias regulares ou extraordinárias às ONGA e equiparadas inscritas no Registo.\n\n2 - As auditorias têm por objectivo a verificação dos elementos fornecidos ao IPAMB para efeitos de registo ou no quadro do apoio técnico e financeiro, designadamente:\n\na) Plano de actividades, relatório de actividades e relatório de contas;\n\nb) Fichas de associados;\n\nc) Quotizações;\n\nd) Actas de eleição dos corpos sociais.\n\n3 - Das auditorias pode resultar, por despacho do presidente do IPAMB e após parecer do conselho directivo, a suspensão ou a anulação da inscrição no Registo."
+  },
+  "886100512": {
+   "fragment_id": "886100411",
+   "type": 11,
+   "heading": "Artigo 20.º — Comissão de auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comissão de auditoria\n\n1 - As auditorias às ONGA e equiparadas realizam-se na respectiva sede social e são efectuadas por uma comissão, nomeada pelo presidente do IPAMB, ouvido o conselho directivo.\n\n2 - A comissão é constituída por funcionários do IPAMB, por um representante do conselho directivo e, quando necessário, por peritos externos.\n\n3 - No acto de nomeação da comissão referida no número anterior é designado, de entre os membros que a integram, um instrutor, a quem incumbe elaborar o relatório da auditoria."
+  },
+  "886100513": {
+   "fragment_id": "886100412",
+   "type": 11,
+   "heading": "Artigo 21.º — Notificação da auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Notificação da auditoria\n\n1 - A ONGA ou equiparada objecto de auditoria é notificada, por carta registada com aviso de recepção, com a antecedência mínima de cinco dias úteis.\n\n2 - Da notificação consta a indicação do instrutor do processo, a documentação a disponibilizar e os membros da direcção da ONGA ou equiparada que devem estar presentes quando da auditoria.\n\n3 - O relatório da auditoria é aprovado pelo presidente do IPAMB, ouvido o conselho directivo.\n\n4 - O relatório da auditoria é objecto de audiência dos interessados nos termos do Código do Procedimento Administrativo.\n\n5 - A ONGA ou equiparada objecto de auditoria é notificada do despacho do presidente do IPAMB que conclui a auditoria."
+  },
+  "886100514": {
+   "fragment_id": "886100413",
+   "type": 11,
+   "heading": "Artigo 22.º — Auditorias regulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Auditorias regulares\n\n1 - O conselho directivo do IPAMB fixa anualmente, por âmbito, a percentagem de ONGA e equiparadas objecto de auditoria regular.\n\n2 - As ONGA e equiparadas objecto de auditoria são definidas por sorteio, a realizar na presença de um representante do conselho directivo."
+  },
+  "886100515": {
+   "fragment_id": "886100414",
+   "type": 11,
+   "heading": "Artigo 23.º — Auditorias extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Auditorias extraordinárias\n\n1 - As auditorias extraordinárias são desencadeadas por despacho do presidente do IPAMB, após parecer do conselho directivo, quando existam fortes indícios que a ONGA ou equiparada:\n\na) Não preenche os requisitos exigidos para a manutenção da sua inscrição no Registo;\n\nb) Desenvolve acções não compreendidas no respectivo objecto social;\n\nc) Não desenvolve qualquer actividade há mais de seis meses;\n\nd) Não realiza assembleias gerais há mais de 18 meses;\n\ne) Cometeu qualquer irregularidade na aplicação de subsídio concedido pelo IPAMB.\n\n2 - O IPAMB pode ainda desencadear auditorias extraordinárias quando a ONGA ou equiparada:\n\na) Não envie ao IPAMB os elementos a que está obrigada, nos termos do artigo 12.º do presente Regulamento;\n\nb) Não apresente, no prazo fixado, os relatórios relativos à execução de acções subsidiadas pelo IPAMB."
+  },
+  "886100516": {
+   "fragment_id": "886100419",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento do Registo Nacional das Organizações não Governamentais de Ambiente (ONGA) e Equiparadas, publicado em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "886100517": {
+   "fragment_id": "886100420",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA transição do Registo Nacional das Associações de Defesa do Ambiente para o Registo Nacional das ONGA e Equiparadas faz-se nos termos da Lei n.º 35/98, de 18 de Julho, e é acompanhada por uma comissão designada pelo conselho directivo do IPAMB."
+  },
+  "886100518": {
+   "fragment_id": "886100421",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira, em 2 de Junho de 1999."
+  },
+  "886100519": {
+   "fragment_id": "886100422",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO REGISTO NACIONAL DAS ORGANIZAÇÕES NÃO GOVERNAMENTAIS DE AMBIENTE (ONGA) E EQUIPARADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO REGISTO NACIONAL DAS ORGANIZAÇÕES NÃO GOVERNAMENTAIS DE AMBIENTE (ONGA) E EQUIPARADAS"
+  },
+  "886100522": {
+   "fragment_id": "886100393",
+   "type": 11,
+   "heading": "Artigo 6.º — Âmbito",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 6.º — Âmbito\n\n1 - O IPAMB procede, no acto de registo, à atribuição de âmbito às ONGA.\n\n2 - A atribuição de âmbito releva apenas para efeitos de exercício do direito de representação previsto no artigo 7.º da Lei n.º 35/98.\n\n3 - Entende-se por ONGA de âmbito nacional a que observe, cumulativamente, os seguintes requisitos:\n\na) Desenvolva, com carácter regular e permanente, actividades de interesse nacional ou em todo o território nacional;\n\nb) Tenha, pelo menos, 2000 associados.\n\n4 - Entende-se por ONGA de âmbito regional a que observe, cumulativamente, os seguintes requisitos:\n\na) Desenvolva, com carácter regular e permanente, actividades de interesse ou alcance geográfico supramunicipal;\n\nb) Tenha, pelo menos, 400 associados.\n\n5 - Entende-se por ONGA de âmbito local a que observe, cumulativamente, os seguintes requisitos:\n\na) Desenvolva, com carácter regular e permanente, actividades de interesse ou alcance geográfico municipal ou inframunicipal;\n\nb) Tenha, pelo menos, 100 associados.\n\n6 - As ONGA que não tenham o número de associados necessário à atribuição de âmbito nacional podem optar por ser classificadas de âmbito regional, desde que tenham pelo menos 400 associados e solicitem expressamente ao IPAMB essa classificação.\n\n7 - As ONGA que não tenham o número de associados necessário à atribuição de âmbito regional podem optar por ser classificadas de âmbito local, desde que tenham pelo menos 100 associados e solicitem expressamente ao Instituto do Ambiente essa classificação.\n\n8 - As ONGA que não preencham os requisitos referidos nos n.os 3 a 5 nem usem da faculdade prevista nos n.os 6 e 7 são inscritas no Registo sem atribuição de âmbito, não lhes sendo aplicáveis as disposições do artigo 7.º da Lei n.º 35/98, de 18 de Julho.\n\n9 - O disposto nos números anteriores aplica-se às ONGA que resultem do agrupamento de associações, relevando apenas, para apuramento do número de associados, as associações que visem exclusivamente a defesa e valorização do ambiente, do património natural e construído ou a conservação da natureza.\n\n10 - O exercício do direito de representação pelas ONGA que resultem do agrupamento de associações exclui o exercício do mesmo direito pelas ONGA que as integram.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100523": {
+   "fragment_id": "886100395",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 7.º — Inscrição\n\nA inscrição no Registo das ONGA e equiparadas é feita por decisão do presidente do Instituto do Ambiente.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100524": {
+   "fragment_id": "886100396",
+   "type": 11,
+   "heading": "Artigo 8.º — Formalização do pedido de inscrição",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 8.º — Formalização do pedido de inscrição\n\nO requerimento para inscrição no Registo é dirigido ao presidente do IPAMB, instruído com os seguintes documentos:\n\na) Cópia do acto de constituição e dos estatutos actualizados;\n\nb) Cópia do Diário da República ou do Jornal Oficial onde foi publicado o extracto do acto de constituição e a alteração aos estatutos;\n\nc) Cópia do cartão de identificação de pessoa colectiva;\n\nd) Declaração de número de associados;\n\ne) Declaração do valor das quotas dos associados;\n\nf) Plano de actividades;\n\ng) Relatório de actividades e relatório de contas;\n\nh) Indicação da área geográfica de actuação ou do interesse nacional, regional ou local das actividades desenvolvidas;\n\ni) Cópia da acta da assembleia geral relativa à eleição dos membros dos órgãos sociais e respectivo termo de posse;\n\nj) Cópias dos bilhetes de identidade dos membros da direcção.\n\nl) Fotocópia da declaração de IRC entregue na repartição de finanças.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100525": {
+   "fragment_id": "886100397",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 9.º — Procedimento\n\n1 - Os serviços do IPAMB elaboram parecer fundamentado do qual consta a proposta de decisão sobre a inscrição no Registo, bem como o âmbito a atribuir para efeitos de direito de representação.\n\n2 - Para a correcta apreciação do pedido de inscrição, podem ser solicitados à associação elementos adicionais considerados importantes para a decisão.\n\n3 - O Instituto do Ambiente antes da decisão final procede à audiência dos interessados nos termos do Código do Procedimento Administrativo.\n\n4 - Da decisão final constam os fundamentos de facto e de direito da decisão.\n\n5 - As ONGA e equiparadas têm direito a obter declaração comprovativa da sua inscrição no Registo Nacional.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100526": {
+   "fragment_id": "886100406",
+   "type": 11,
+   "heading": "Artigo 16.º — Anulação do registo",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 16.º — Anulação do registo\n\n1 - A inscrição no Registo é anulada a requerimento da ONGA ou equiparada interessada ou por decisão fundamentada do presidente do IPAMB, proferida na sequência de uma auditoria.\n\n2 - A inscrição é ainda anulada quando se verifique a suspensão de inscrição de uma ONGA ou equiparada por prazo superior a dois anos.\n\n3 - À anulação do registo aplica-se, com as necessárias adaptações, o procedimento estabelecido para a inscrição.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100527": {
+   "fragment_id": "886100408",
+   "type": 11,
+   "heading": "Artigo 18.º — Publicidade",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 18.º — Publicidade\n\n1 - O Instituto do Ambiente procede anualmente à publicação no Diário da República de um extracto dos actos que determinam a inscrição, modificação, suspensão ou anulação do registo.\n\n2 - Todas as alterações ao registo são comunicadas pelo IPAMB às ONGA e equiparadas inscritas.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100528": {
+   "fragment_id": "886100410",
+   "type": 11,
+   "heading": "Artigo 19.º — Auditorias",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 19.º — Auditorias\n\n1 - Compete ao IPAMB fiscalizar o cumprimento da Lei n.º 35/98 através da realização de auditorias regulares ou extraordinárias às ONGA e equiparadas inscritas no Registo.\n\n2 - As auditorias têm por objectivo a verificação dos elementos fornecidos ao IPAMB para efeitos de registo ou no quadro do apoio técnico e financeiro, designadamente:\n\na) Plano de actividades, relatório de actividades e relatório de contas;\n\nb) Fichas de associados;\n\nc) Quotizações;\n\nd) Actas de eleição dos corpos sociais.\n\n3 - Das auditorias pode resultar, por decisão fundamentada do presidente do Instituto do Ambiente, a suspensão ou a anulação da inscrição no Registo.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100529": {
+   "fragment_id": "886100411",
+   "type": 11,
+   "heading": "Artigo 20.º — Realização de auditorias",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 20.º — Realização de auditorias\n\n1 - As auditorias às ONGA e equiparadas realizam-se na respectiva sede social e são efectuadas pelo Instituto do Ambiente.\n\n2 - Para a realização das auditorias o Instituto do Ambiente pode recorrer a entidades externas que são sempre acompanhadas por um representante do Instituto.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100530": {
+   "fragment_id": "886100412",
+   "type": 11,
+   "heading": "Artigo 21.º — Notificação da auditoria",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 21.º — Notificação da auditoria\n\n1 - A ONGA ou equiparada objecto de auditoria é notificada, por carta registada com aviso de recepção, com a antecedência mínima de cinco dias úteis.\n\n2 - O relatório da auditoria, aprovado pelo presidente do Instituto do Ambiente, é objecto de audiência dos interessados nos termos do Código do Procedimento Administrativo.\n\n3 - A ONGA ou equiparada objecto de auditoria é notificada da decisão do presidente do Instituto do Ambiente que conclui a auditoria.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100531": {
+   "fragment_id": "886100413",
+   "type": 11,
+   "heading": "Artigo 22.º — Auditorias regulares",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 22.º — Auditorias regulares\n\n1 - O presidente do Instituto do Ambiente fixa anualmente o número de ONGA e equiparadas objecto de auditoria regular.\n\n2 - As ONGA e equiparadas objecto de auditoria são definidas por sorteio, a realizar pelo Instituto do Ambiente.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100532": {
+   "fragment_id": "886100414",
+   "type": 11,
+   "heading": "Artigo 23.º — Auditorias extraordinárias",
+   "in_force_from": "2003-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+   ],
+   "markdown": "###### Artigo 23.º — Auditorias extraordinárias\n\n1 - As auditorias extraordinárias são desencadeadas por decisão do presidente do Instituto do Ambiente, quando existam indícios que a ONGA ou equiparada:\n\na) Não preenche os requisitos exigidos para a manutenção da sua inscrição no Registo;\n\nb) Desenvolve acções não compreendidas no respectivo objecto social;\n\nc) Não desenvolve qualquer actividade há mais de seis meses;\n\nd) Não realiza assembleias gerais há mais de 18 meses;\n\ne) Cometeu qualquer irregularidade na aplicação de apoio financeiro concedido pelo Instituto do Ambiente.\n\n2 - O IPAMB pode ainda desencadear auditorias extraordinárias quando a ONGA ou equiparada:\n\na) Não envie ao Instituto do Ambiente os elementos a que está obrigada, nos termos do artigo 13.º do presente Regulamento;\n\nb) Não apresente, no prazo fixado, os relatórios relativos à execução de acções financiadas pelo Instituto do Ambiente.\n\n> Alterado pelo/a [Portaria n.º 71/2003 - Diário da República n.º 16/2003, Série I-B de 2003-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725), em vigor a partir de 2003-01-25"
+  },
+  "886100535": {
+   "fragment_id": "886100430",
+   "type": 11,
+   "heading": "Artigo 24.º — Apresentação electrónica de dados",
+   "in_force_from": "2009-07-21",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 771/2009 - Diário da República n.º 138/2009, Série I de 2009-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/771-2009-492385), em vigor a partir de 2009-07-21"
+   ],
+   "markdown": "###### Artigo 24.º — Apresentação electrónica de dados\n\nO envio à Agência Portuguesa do Ambiente (APA) dos documentos referidos nos artigos 8.º e 13.º do presente Regulamento, bem como de outras informações exigidas nos termos do mesmo, é feito através do sistema electrónico disponibilizado pela APA no seu sítio na Internet.\n\n> Aditado pelo/a [Portaria n.º 771/2009 - Diário da República n.º 138/2009, Série I de 2009-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/771-2009-492385), em vigor a partir de 2009-07-21"
+  }
+ }
+}

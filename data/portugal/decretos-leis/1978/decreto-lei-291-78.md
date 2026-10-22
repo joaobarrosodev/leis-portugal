@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:329577:por
+title: Decreto-Lei n.º 291/78
+short_title: null
+summary: Estabelece disposições quanto às situações do pessoal da empresa pública Dragagens de Portugal, E. P., Dragapor,
+  nomeadamente no tocante a vencimentos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 291/78
+official_date: null
+publication_date: '1978-09-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 216/1978, Série I de 1978-09-19
+  number: '216'
+  series: I
+  supplement: null
+  pages: 1972 - 1973
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21600/19721973.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '329577'
+  dre_path: /dr/detalhe/decreto-lei/291-1978-329577
+  internal: pt:dre:329577:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1978-329577
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1978-329577
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: ea366ea9f5acedf502f0d1cdc7405b8e049344d04b2de3086289caeaf39d4439
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-291-329577.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 291/78
+
+de 19 de Setembro
+
+1. O [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, para além de referir, no seu preâmbulo, os imperativos inadiáveis de política económica que presidiram à criação da empresa pública Dragagens de Portugal, E. P., estabelece, nomeadamente, que a sua eficiência será condicionada pela adequação dos efectivos a integrar na empresa às tarefas que lhe forem cometidas e, bem assim, pela possibilidade de recrutar e seleccionar os meios humanos exigidos pela importância e complexidade das mesmas.
+
+2. Com efeito, sendo a Dragapor uma empresa sem posição de exclusividade no mercado, desde logo se anteviu que a sua capacidade de competir em eficiência com outras empresas teria antes de mais de passar pela sua própria capacidade de recrutar os meios humanos de que carece, dentro da especificidade própria da actividade.
+
+3. Acontece que os serviços estatais integrados na Dragapor são carecidos de quadros técnicos com formação adequada à nova estrutura empresarial - o que resulta óbvio dada a anterior inserção orgânica dos referidos serviços -, e, bem assim, ao nível do pessoal directamente produtivo não existem efectivos suficientes que possibilitem o lançamento do trabalho por turnos, condição indispensável à extracção de rentabilidade de uma empresa, como a Dragapor, de capital intensivo.
+
+4. Resulta pois que é essencial à operacionalidade da empresa o recurso imediato ao mercado de trabalho, procedimento cujo sucesso depende, no mínimo, da oferta de condições salariais de base que se aproximem das vigentes nas empresas do ramo em que a Dragapor se insere, e que, se já são consideravelmente superiores às que abrangem os trabalhadores da função pública integrados na Dragapor, beneficiam ainda de substanciais empolamentos inerentes às diversas especializações e regimes de trabalho, e consignados na respectiva contratação colectiva.
+
+5. A indispensável e urgente admissão de pessoal do exterior, portanto dentro dos níveis salariais praticados no mercado do trabalho, terá porém de ser acompanhada de medidas de correcção interna, impostas quer por imperativo de justiça quer por exigências de funcionalismo, tendo em conta que há que evitar a todo o custo a criação de sensíveis distorções no seio da empresa.
+
+6. De facto, e em virtude da negociação de uma eventual convenção colectiva de trabalho que só pode ter lugar subsequentemente à publicação do estatuto do pessoal, nos termos do n.º 1 do artigo 11.º do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, há que recorrer à via legislativa no sentido de ser adoptada a solução transitória que compatibilize os interesses em jogo.
+
+7. O [Decreto-Lei n.º 550/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1977-276621), no seu artigo único, consagra para os trabalhadores um direito de opção. Esta faculdade não pode ser exercida no prazo legal, pois a empresa só entrou em funcionamento no passado mês de Junho, o que justifica a prorrogação deste prazo.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - Na empresa pública Dragagens de Portugal, E. P., Dragapor deverá vigorar até à publicação do estatuto do pessoal previsto no n.º 1 do artigo 11.º do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, uma tabela salarial cujo leque, em valores líquidos, não seja superior ao estabelecido para a função pública.
+
+2 - A determinação de valores líquidos dos vencimentos efectua-se mediante dedução dos descontos obrigatórios a reter na fonte, bem como do imposto complementar calculado exclusivamente na base do vencimento individual.
+
+3 - Ao vencimento dos funcionários e agentes oriundos da Administração Pública que se encontrem em comissão de serviço na empresa pública Dragagens de Portugal, E. P., Dragapor ao abrigo do disposto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, acresce um montante uniforme de 1000$00 relativamente aos valores constantes da tabela referida no artigo 1.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio.
+
+###### Art. 2.º - 1 - Os responsáveis pelos órgãos de estrutura orgânica da empresa pública Dragagens de Portugal, E. P., Dragapor deverão auferir, no mínimo, o vencimento correspondente ao escalão imediatamente superior ao trabalhador com melhor vencimento que esteja colocado sob a sua dependência hierárquica.
+
+2 - Compete ao conselho de gerência fixar os escalões de vencimentos dos titulares dos órgãos de estrutura orgânica da empresa, de acordo com o princípio do número anterior e nos limites da tabela referida no artigo 1.º do presente diploma.
+
+###### Art. 3.º Os trabalhadores da empresa pública Dragagens de Portugal, E. P., Dragapor deverão auferir vencimentos líquidos idênticos quando efectivamente desempenharem as mesmas funções quer sejam ou não funcionários e agentes da Administração Pública que se encontrem em comissão de serviço ao abrigo do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto.
+
+###### Art. 4.º - 1 - Será facultado ao pessoal com funções administrativas exclusivamente afecto à actividade de dragagem, quer da Direcção-Geral de Portos, quer da Administração-Geral do Porto de Lisboa, a opção de integração na empresa, que deverá ser manifestada por escrito, no prazo de quinze dias a contar da publicação deste diploma.
+
+2 - É revogado o n.º 3 do artigo 10.º do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, com a redacção que lhe foi introduzida pelo artigo único do [Decreto-Lei n.º 550/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1977-276621), de 31 de Dezembro.
+
+###### Art. 5.º As dúvidas que se suscitarem na interpretação ao aplicado no presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações.
+
+###### Art. 6.º O presente diploma entra imediatamente em vigor e produz efeitos a partir de 1 de Junho de 1978.
+
+Mário Soares - Vítor Manuel Ribeiro Constâncio - Manuel Branco Ferreira Lima.
+
+**Promulgado em 25 de Agosto de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

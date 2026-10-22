@@ -1,0 +1,3978 @@
+---
+schema_version: '1.0'
+id: pt:dre:326921:por
+title: Decreto-Lei n.º 63/85
+short_title: null
+summary: Aprova o Código do Direito de Autor e dos Direitos Conexos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 63/85
+official_date: null
+publication_date: '1985-03-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/1985, Série I de 1985-03-14
+  number: '61'
+  series: I
+  supplement: null
+  pages: 662 - 689
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/03/06100/06620689.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-07-04'
+version_history:
+  file: decreto-lei-63-85.versoes.json
+  count: 17
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1985-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-06-23'
+    amending: pt:dre:181420:por
+    amending_title: Resolução da Assembleia da República n.º 16/85
+    changes:
+    - Entrada Vigor Diploma
+  - date: '1985-09-22'
+    amending: pt:dre:246532:por
+    amending_title: Lei n.º 16/2008; Lei n.º 45/85
+    changes:
+    - Altera Artigo 185.º
+    - Adita Artigo 139.º
+    - Adita Artigo 147.º
+    - Adita Artigo 172.º
+    - Adita Artigo 195.º
+    - Adita Artigo 197.º
+    - Adita Artigo 198.º
+    - Adita Artigo 200.º
+    - Adita Artigo 203.º
+    - Altera Artigo 173.º
+    - Altera Artigo 201.º
+    - Altera Artigo 203.º
+    - Altera Artigo 133.º
+    - Altera Artigo 144.º
+    - Altera Artigo 3.º
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Capítulo V
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+  - date: '1991-09-08'
+    amending: pt:dre:305256:por
+    amending_title: Lei n.º 114/91
+    changes:
+    - Adita Artigo 218.º
+    - Altera Artigo 6.º
+    - Altera Artigo 56.º
+    - Altera Artigo 60.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera Artigo 81.º
+    - Altera Artigo 82.º
+    - Altera Artigo 90.º
+    - Altera Artigo 91.º
+    - Altera Artigo 94.º
+    - Altera Artigo 96.º
+    - Altera Artigo 99.º
+    - Altera Artigo 122.º
+    - Altera Artigo 139.º
+    - Altera Artigo 147.º
+    - Altera Artigo 156.º
+    - Altera Artigo 158.º
+    - Altera Artigo 163.º
+    - Altera Artigo 165.º
+    - Altera Artigo 167.º
+    - Altera Artigo 172.º
+    - Altera Artigo 179.º
+    - Altera Artigo 183.º
+    - Altera Artigo 184.º
+    - Altera Artigo 186.º
+    - Altera Artigo 188.º
+    - Altera Artigo 190.º
+    - Altera Artigo 196.º
+    - Altera Artigo 197.º
+    - Altera Artigo 198.º
+  - date: '1997-12-01'
+    amending: pt:dre:406493:por
+    amending_title: Decreto-Lei n.º 332/97
+    changes:
+    - Altera Artigo 68.º
+  - date: '2004-09-23'
+    amending: pt:dre:479605:por
+    amending_title: Lei n.º 50/2004
+    changes:
+    - Adita Título VI
+    - Adita Artigo 217.º
+    - Adita Artigo 218.º
+    - Adita Artigo 219.º
+    - Adita Artigo 220.º
+    - Adita Artigo 221.º
+    - Adita Artigo 222.º
+    - Adita Artigo 223.º
+    - Adita Artigo 224.º
+    - Adita Artigo 225.º
+    - Adita Artigo 226.º
+    - Adita Artigo 227.º
+    - Adita Artigo 228.º
+    - Adita Artigo 229.º
+    - Altera Artigo 68.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera Artigo 82.º
+    - Altera Artigo 176.º
+    - Altera Artigo 178.º
+    - Altera Artigo 180.º
+    - Altera Artigo 182.º
+    - Altera Artigo 184.º
+    - Altera Artigo 187.º
+    - Altera Artigo 189.º
+    - Elimina Artigo 218.º
+    - Elimina Artigo 217.º
+    - Revoga Artigo 179.º
+    - Revoga Artigo 212.º
+  - date: '2006-07-05'
+    amending: pt:dre:357349:por
+    amending_title: Lei n.º 24/2006
+    changes:
+    - Altera Artigo 54.º
+  - date: '2008-04-06'
+    amending: pt:dre:246532:por
+    amending_title: Lei n.º 16/2008
+    changes:
+    - Adita Artigo 210.º-A
+    - Adita Artigo 210.º-B
+    - Adita Artigo 210.º-C
+    - Adita Artigo 210.º-D
+    - Adita Artigo 210.º-E
+    - Adita Artigo 210.º-F
+    - Adita Artigo 210.º-G
+    - Adita Artigo 210.º-H
+    - Adita Artigo 210.º-I
+    - Adita Artigo 210.º-J
+    - Adita Artigo 210.º-L
+    - Adita Artigo 211.º-A
+    - Adita Artigo 211.º-B
+    - Altera Artigo 180.º
+    - Altera Artigo 187.º
+    - Altera Artigo 201.º
+    - Altera Artigo 205.º
+    - Altera Artigo 206.º
+    - Altera Artigo 209.º
+    - Altera Artigo 211.º
+  - date: '2012-12-21'
+    amending: pt:dre:190197:por
+    amending_title: Lei n.º 65/2012
+    changes:
+    - Altera Artigo 47.º
+  - date: '2013-12-07'
+    amending: pt:dre:484122:por
+    amending_title: Lei n.º 82/2013
+    changes:
+    - Adita Artigo 183.º-A
+  - date: '2015-04-25'
+    amending: pt:dre:67072250:por
+    amending_title: Lei n.º 32/2015
+    changes:
+    - Adita Artigo 26.º-A
+    - Adita Artigo 26.º-B
+    - Altera Artigo 75.º
+    - Altera Artigo 178.º
+    - Altera Artigo 183.º
+  - date: '2015-07-05'
+    amending: pt:dre:67409481:por
+    amending_title: Lei n.º 49/2015
+    changes:
+    - Altera Artigo 82.º
+  - date: '2017-06-03'
+    amending: pt:dre:107458719:por
+    amending_title: Lei n.º 36/2017
+    changes:
+    - Altera Artigo 217.º
+    - Altera Artigo 221.º
+  - date: '2017-08-24'
+    amending: pt:dre:108041479:por
+    amending_title: Decreto-Lei n.º 100/2017
+    changes:
+    - Altera Artigo 184.º
+    - Altera Artigo 204.º
+    - Altera Artigo 208.º
+    - Altera Artigo 210.º-I
+  - date: '2019-10-04'
+    amending: pt:dre:124417105:por
+    amending_title: Lei n.º 92/2019
+    changes:
+    - Adita Secção i
+    - Adita Secção II
+    - Adita Artigo 82.º-A
+    - Adita Artigo 82.º-B
+    - Adita Artigo 82.º-C
+    - Adita Artigo 206.º-A
+    - Altera Capítulo II
+    - Altera Artigo 75.º
+    - Altera Artigo 195.º
+    - Altera Artigo 205.º
+    - Altera Artigo 221.º
+    - Revoga Artigo 80.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 204.º
+    - Altera Artigo 205.º
+    - Altera Artigo 206.º-A
+    - Altera Artigo 208.º
+  - date: '2023-07-04'
+    amending: pt:dre:214524782:por
+    amending_title: Decreto-Lei n.º 47/2023
+    changes:
+    - Adita Artigo 39.º-A
+    - Adita Artigo 44.º-A
+    - Adita Artigo 44.º-B
+    - Adita Artigo 44.º-C
+    - Adita Artigo 44.º-D
+    - Adita Artigo 44.º-E
+    - Adita Artigo 44.º-F
+    - Adita Secção III
+    - Adita Artigo 74.º-A
+    - Adita Artigo 74.º-B
+    - Adita Artigo 74.º-C
+    - Adita Artigo 74.º-D
+    - Adita Secção IV
+    - Adita Artigo 74.º-E
+    - Adita Secção XI
+    - Adita Artigo 175.º-A
+    - Adita Artigo 175.º-B
+    - Adita Artigo 175.º-C
+    - Adita Artigo 175.º-D
+    - Adita Artigo 175.º-E
+    - Adita Artigo 175.º-F
+    - Adita Artigo 175.º-G
+    - Adita Artigo 175.º-H
+    - Adita Artigo 175.º-I
+    - Adita Artigo 188.º-A
+    - Adita Artigo 188.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 14.º
+    - Altera Artigo 26.º-A
+    - Altera Artigo 31.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera Artigo 82.º
+    - Altera Artigo 105.º
+    - Altera Artigo 144.º
+    - Altera Artigo 149.º
+    - Altera Artigo 170.º
+    - Altera Artigo 176.º
+    - Altera Artigo 183.º
+    - Altera Artigo 184.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/63/1985/p/cons/20230619/pt/html
+  oj: null
+  dre: '326921'
+  dre_path: /dr/detalhe/decreto-lei/63-1985-326921
+  internal: pt:dre:326921:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1985-326921
+  metadata_url: https://data.dre.pt/eli/dec-lei/63/1985/p/cons/20230619/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-34475475
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-34475475
+  retrieved_at: '2026-10-22T11:44:07Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 03857b050f8d0fb1187e1c6022ea4d7567c7f36f13dfa645468836e63141fdd8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:44:07Z'
+  notes: 17 versão(ões); histórico completo em decreto-lei-63-85.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código do Direito de Autor e dos Direitos Conexos
+- Direito de Autor
+- Propriedade Intelectual
+relationships:
+- type: amended_by
+  target: pt:dre:422599:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599
+  date: '1985-04-30'
+- type: amended_by
+  target: pt:dre:181420:por
+  label: Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-1985-181420
+  date: '1985-06-18'
+- type: amended_by
+  target: pt:dre:177444:por
+  label: Altera Artigo 185.º; Adita Artigo 139.º; Adita Artigo 147.º; Adita Artigo 172.º; Adita Artigo 195.º; Adita Artigo
+    197.º; Adita Artigo 198.º; Adita Artigo 200.º; Adita Artigo 203.º; Altera Artigo 173.º; Altera Artigo 201.º; Altera Artigo
+    203.º; Altera Artigo 133.º; Altera Artigo 144.º; Altera Artigo 3.º; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo
+    4.º; Altera Artigo 6.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444
+  date: '1985-09-17'
+- type: amended_by
+  target: pt:dre:305256:por
+  label: Adita Artigo 218.º; Altera Artigo 6.º; Altera Artigo 56.º; Altera Artigo 60.º; Altera Artigo 73.º; Altera Artigo
+    74.º; Altera Artigo 75.º; Altera Artigo 76.º; Altera Artigo 81.º; Altera Artigo 82.º; Altera Artigo 90.º; Altera Artigo
+    91.º; Altera Artigo 94.º; Altera Artigo 96.º; Altera Artigo 99.º; Altera Artigo 122.º; Altera Artigo 139.º; Altera Artigo
+    147.º; Altera Artigo 156.º; Altera Artigo 158.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256
+  date: '1991-09-03'
+- type: amended_by
+  target: pt:dre:406483:por
+  label: Adita Artigo 218.º; Altera Artigo 6.º; Altera Artigo 56.º; Altera Artigo 60.º; Altera Artigo 73.º; Altera Artigo
+    74.º; Altera Artigo 75.º; Altera Artigo 76.º; Altera Artigo 81.º; Altera Artigo 82.º; Altera Artigo 90.º; Altera Artigo
+    91.º; Altera Artigo 94.º; Altera Artigo 96.º; Altera Artigo 99.º; Altera Artigo 122.º; Altera Artigo 139.º; Altera Artigo
+    147.º; Altera Artigo 156.º; Altera Artigo 158.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483
+  date: '1997-11-27'
+- type: amended_by
+  target: pt:dre:406493:por
+  label: Altera Artigo 68.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1997-406493
+  date: '1997-11-27'
+- type: amended_by
+  target: pt:dre:479605:por
+  label: Adita Título VI; Adita Artigo 217.º; Adita Artigo 218.º; Adita Artigo 219.º; Adita Artigo 220.º; Adita Artigo 221.º;
+    Adita Artigo 222.º; Adita Artigo 223.º; Adita Artigo 224.º; Adita Artigo 225.º; Adita Artigo 226.º; Adita Artigo 227.º;
+    Adita Artigo 228.º; Adita Artigo 229.º; Altera Artigo 68.º; Altera Artigo 75.º; Altera Artigo 76.º; Altera Artigo 82.º;
+    Altera Artigo 176.º; Altera Artigo 178.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605
+  date: '2004-08-24'
+- type: amended_by
+  target: pt:dre:357349:por
+  label: Altera Artigo 54.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/24-2006-357349
+  date: '2006-06-30'
+- type: amended_by
+  target: pt:dre:246532:por
+  label: Altera Artigo 185.º; Adita Artigo 139.º; Adita Artigo 147.º; Adita Artigo 172.º; Adita Artigo 195.º; Adita Artigo
+    197.º; Adita Artigo 198.º; Adita Artigo 200.º; Adita Artigo 203.º; Altera Artigo 173.º; Altera Artigo 201.º; Altera Artigo
+    203.º; Altera Artigo 133.º; Altera Artigo 144.º; Altera Artigo 3.º; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo
+    4.º; Altera Artigo 6.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532
+  date: '2008-04-01'
+- type: amended_by
+  target: pt:dre:190197:por
+  label: Altera Artigo 47.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/65-2012-190197
+  date: '2012-12-20'
+- type: amended_by
+  target: pt:dre:484122:por
+  label: Adita Artigo 218.º; Altera Artigo 6.º; Altera Artigo 56.º; Altera Artigo 60.º; Altera Artigo 73.º; Altera Artigo
+    74.º; Altera Artigo 75.º; Altera Artigo 76.º; Altera Artigo 81.º; Altera Artigo 82.º; Altera Artigo 90.º; Altera Artigo
+    91.º; Altera Artigo 94.º; Altera Artigo 96.º; Altera Artigo 99.º; Altera Artigo 122.º; Altera Artigo 139.º; Altera Artigo
+    147.º; Altera Artigo 156.º; Altera Artigo 158.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-2013-484122
+  date: '2013-12-06'
+- type: amended_by
+  target: pt:dre:67072250:por
+  label: Adita Artigo 26.º-A; Adita Artigo 26.º-B; Altera Artigo 75.º; Altera Artigo 178.º; Altera Artigo 183.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/32-2015-67072250
+  date: '2015-04-24'
+- type: amended_by
+  target: pt:dre:67409481:por
+  label: Altera Artigo 82.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481
+  date: '2015-06-05'
+- type: amended_by
+  target: pt:dre:107458719:por
+  label: Altera Artigo 217.º; Altera Artigo 221.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/36-2017-107458719
+  date: '2017-06-02'
+- type: amended_by
+  target: pt:dre:108041479:por
+  label: Altera Artigo 184.º; Altera Artigo 204.º; Altera Artigo 208.º; Altera Artigo 210.º-I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2017-108041479
+  date: '2017-08-23'
+- type: amended_by
+  target: pt:dre:124417105:por
+  label: Adita Secção i; Adita Secção II; Adita Artigo 82.º-A; Adita Artigo 82.º-B; Adita Artigo 82.º-C; Adita Artigo 206.º-A;
+    Altera Capítulo II; Altera Artigo 75.º; Altera Artigo 195.º; Altera Artigo 205.º; Altera Artigo 221.º; Revoga Artigo 80.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105
+  date: '2019-09-04'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 204.º; Altera Artigo 205.º; Altera Artigo 206.º-A; Altera Artigo 208.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:214524782:por
+  label: Adita Artigo 39.º-A; Adita Artigo 44.º-A; Adita Artigo 44.º-B; Adita Artigo 44.º-C; Adita Artigo 44.º-D; Adita Artigo
+    44.º-E; Adita Artigo 44.º-F; Adita Secção III; Adita Artigo 74.º-A; Adita Artigo 74.º-B; Adita Artigo 74.º-C; Adita Artigo
+    74.º-D; Adita Secção IV; Adita Artigo 74.º-E; Adita Secção XI; Adita Artigo 175.º-A; Adita Artigo 175.º-B; Adita Artigo
+    175.º-C; Adita Artigo 175.º-D; Adita Artigo 175.º-E
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782
+  date: '2023-06-19'
+- type: cites
+  target: celex:32012R0386
+  label: null
+  source: null
+- type: cites
+  target: celex:32016L0943
+  label: null
+  source: null
+article_structure:
+  article_count: 275
+  section_count: 38
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:44:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 63/85
+
+No nosso país e neste século foram os direitos de autor definidos em 1972 no Decreto-Lei n.º 13725, de 27 de Maio de 1927 (Regime de Propriedade Literária, Científica e Artística), e depois no Decreto-Lei n.º 46980, de 27 de Abril de 1966 (Código do Direito de Autor). Estipulava o preâmbulo deste último que o precedente representara importante processo à data da publicação mas se fora desactualizando com o decorrer do tempo, pelo que se tornava necessário substituí-lo.
+
+Pelas mesmas razões é hoje imprescindível substituir o Código vigente, que se acha, aliás, alterado em vários passos por leis avulsas mais modernas.
+
+Mas não se visa apenas reunir num corpo único e coerente toda a legislação sobre esta importante matéria. Com o presente diploma pretende o Governo actualizar o Código do Direito de Autor em função da realidade portuguesa, decorrente da institucionalização da democracia, dos aperfeiçoamentos deste direito no plano internacional, das convenções internacionais a que vimos aderindo e das necessidades criadas pelo progresso da comunicação e da reprodução.
+
+O novo Código remodela e aperfeiçoa a legislação anterior quanto à gestão de direitos de autor, aos vários contratos que têm por objecto a utilização e exploração das obras literárias ou artísticas, em especial o contrato de edição e aos direitos do tradutor quanto à protecção do seu trabalho, em pé de igualdade com os dos autores traduzidos. Teve-se sempre presente, ao elaborá-lo, a necessidade de assegurar o melhor equilíbrio possível entre os autores e utilizadores das suas obras. A indispensável protecção dos direitos de autor não pode exercer-se em detrimento dos legítimos direitos e interesses de editores, produtores, realizadores e radiodifusores nem dos utentes em geral, pelo que não se deve, ao assegurá-la, perder de vista o interesse público.
+
+A adesão recente de Portugal aos actos de revisão da Convenção de Berna para a Protecção das Obras Literárias e Artísticas (Decreto n.º 73/78, de 26 de Julho) e da Convenção Universal sobre o Direito de Autor (Decreto n.º 140-A/79, de 26 de Dezembro) efectuados em Paris a 24 de Julho de 1971, obrigam a alterações, quer terminológicas quer substanciais, na actual regulamentação do direito de autor.
+
+A importante disciplina da protecção dos titulares de direitos afins do direito de autor, ou com ele conexos, segue de muito perto a Convenção de Roma para Protecção de Artistas Intérpretes ou Executantes, de Produtores de Fonogramas e dos Organismos de Radiodifusão, de 1961. O intérprete e o executante têm, sem dúvida, uma interpretação criadora, digna de protecção. Mas como esta criação se insere necessariamente noutra - a do autor da obra interpretada ou executada -, a protecção outorgada àqueles não pode em nada prejudicar a protecção dos autores desta.
+
+O novo Código toma também em consideração a Convenção de Genebra para Protecção dos Produtores contra Reprodução não Autorizada dos seus Fonogramas, de 1971. Todos aqueles que fabricarem ou duplicarem fonogramas e videogramas passam a estar obrigados a comunicar, periódica e especificamente, à Direcção-Geral dos Espectáculos e do Direito de Autor as quantidades produzidas ou duplicadas. Esta comunicação será acompanhada de prova de autorização dos titulares de direitos sobre as obras fixadas nos fonogramas e videogramas. Prevê-se ainda que no preço de venda ao público de todos e quaisquer aparelhos mecânicos, químicos, eléctricos, electrónicos ou outros que permitam a gravação e reprodução de obras literárias ou artísticas e bem assim no preço de todos e quaisquer suportes de gravações e reproduções que por qualquer desses meios possam obter-se passe a incluir-se uma quantia em benefício dos autores e dos artistas cujo objecto sejam obras gravadas ou reproduzidas pelos meios em apreço.
+
+Anuncie-se, enfim, que o presente Código tem em conta trabalhos anteriores para revisão do precedente e bem assim o parecer e as sugestões, expressamente solicitadas, dos organismos representativos dos interesses em causa.
+
+Por alterar - o que se procurará em momento oportuno - fica a matéria relativa ao registo do direito de autor. As normas registais contempladas no presente Código prendem-se tão-só com a protecção do nome literário e artístico das obras e do respectivo título.
+
+Nestes termos:
+
+No uso da autorização conferida pela Lei n.º 25/84, de 13 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+> Nota: [Artigo 4.º, Lei n.º 82/2013 - Diário da República n.º 237/2013, Série I de 2013-12-06](https://diariodarepublica.pt/dr/detalhe/lei/82-2013-484122) Produção de efeitos: 1 - As normas previstas na presente lei são aplicáveis a todas as fixações de prestações e a todas as produções de fonogramas ainda protegidas em 1 de novembro de 2013, bem como a fixações de prestações e a fonogramas produzidos posteriormente àquela data. 2 - O disposto no número anterior não prejudica os contratos nem quaisquer atos de exploração realizados antes da entrada em vigor da presente lei, nem os direitos entretanto adquiridos por terceiros.
+
+> Nota: [Artigo 9.º, Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605) Produz efeitos desde 22 de Dezembro de 2002, sem prejuízo dos actos de exploração já praticados e dos direitos adquiridos por terceiros, com excepção das disposições relativas a matéria penal.
+
+> Nota: [Artigo 11.º, Decreto-Lei n.º 332/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1997-406493) Produz efeitos desde 1 de Julho de 1994, sem prejuízo dos actos de exploração e dos contratos anteriores a esta data.
+
+> Nota: [Resolução da Assembleia da República n.º 16/85 - Diário da República n.º 137/1985, Série I de 1985-06-18](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-1985-181420) Suspensa a vigência dos artigos 201.º a 215.º pela resolução n.º 16/85, de 18 de junho de 1985.
+
+###### Artigo 1.º
+
+É aprovado o Código do Direito de Autor e dos Direitos Conexos, que faz parte integrante do presente decreto-lei.
+
+###### Artigo 2.º
+
+As regras actuais sobre o registo que não contrariem o disposto neste Código permanecem em vigor até à revisão da disciplina do registo do direito de autor.
+
+###### Artigo 3.º
+
+É revogado o Código do Direito de Autor, aprovado pelo Decreto-Lei n.º 46980, de 27 de Abril de 1966, bem como todos os diplomas especificamente referentes à matéria do direito de autor e protecção de fonogramas e videogramas, exceptuado o Decreto-Lei n.º 150/82, de 29 de Abril.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Augusto Seabra - Joaquim Martins Ferreira do Amaral - António Antero Coimbra Martins.
+
+Promulgado em 4 de Fevereiro de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 7 de Fevereiro de 1985.
+
+O Primeiro-Ministro, Mário Soares.
+
+## Anexo — CÓDIGO DO DIREITO DE AUTOR E DOS DIREITOS CONEXOS
+
+## Título I — Da obra protegida e do direito de autor
+
+### Capítulo I — Da obra protegida
+
+###### Artigo 1.º — (Definição)
+
+1 - Consideram-se obras as criações intelectuais do domínio literário, científico e artístico, por qualquer modo exteriorizadas, que, como tais, são protegidas nos termos deste Código, incluindo-se nessa protecção os direitos dos respectivos autores.
+
+2 - As ideias, os processos, os sistemas, os métodos operacionais, os conceitos, os princípios ou as descobertas não são, por si só e enquanto tais, protegidos nos termos deste Código.
+
+3 - Para os efeitos do disposto neste Código, a obra é independente da sua divulgação, publicação, utilização ou exploração.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 2.º — (Obras originais)
+
+1 - As criações intelectuais do domínio literário, científico e artístico, quaisquer que sejam o género, a forma de expressão, o mérito, o modo de comunicação e o objectivo, compreendem nomeadamente:
+
+a) Livros, folhetos, revistas, jornais e outros escritos;
+
+b) Conferências, lições, alocuções e sermões;
+
+c) Obras dramáticas e dramático-musicais e a sua encenação;
+
+d) Obras coreográficas e pantomimas, cuja expressão se fixa por escrito ou por qualquer outra forma;
+
+e) Composições musicais, com ou sem palavras;
+
+f) Obras cinematográficas televisivas, fonográficas, videográficas e radiofónicas;
+
+g) Obras de desenho, tapeçaria, pintura, escultura, cerâmica, azulejo, gravura, litografia e arquitectura;
+
+h) Obras fotográficas ou produzidas por quaisquer processos análogos aos da fotografia;
+
+i) Obras de artes aplicadas, desenhos ou modelos industriais e obras de design que constituam criação artística, independentemente da protecção relativa à propriedade industrial;
+
+j) Ilustrações e cartas geográficas;
+
+l) Projectos, esboços e obras plásticas respeitantes à arquitectura, ao urbanismo, à geografia ou às outras ciências;
+
+m) Lemas ou divisas, ainda que de carácter publicitário, se se revestirem de originalidade;
+
+n) (Revogada)
+
+2 - As sucessivas edições de uma obra, ainda que corrigidas, aumentadas, refundidas ou com mudança de título ou de formato, não são obras distintas da obra original, nem o são as reproduções de obra de arte, embora com diversas dimensões.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 3.º — (Obras equiparadas a originais)
+
+1 - São obras equiparadas a originais:
+
+a) As traduções, arranjos, instrumentações, dramatizações, cinematizações, e outras transformações de qualquer obra, ainda que esta não seja objecto de protecção;
+
+b) Os sumários e as compilações de obras protegidas ou não, tais como selectas, enciclopédias e antologias que, pela escolha ou disposição das matérias, constituam criações intelectuais;
+
+c) As compilações sistemáticas ou anotadas de textos de convenções, de leis, de regulamentos e de relatórios ou de decisões administrativas, judiciais ou de quaisquer órgãos ou autoridades do Estado ou da Administração.
+
+2 - A protecção conferida a estas obras não prejudica os direitos reconhecidos aos autores da correspondente obra original.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 4.º — (Título da obra)
+
+1 - A protecção da obra é extensiva ao título, independentemente de registo, desde que seja original e não possa confundir-se com o título de qualquer outra obra do mesmo género de outro autor anteriormente divulgada ou publicada.
+
+2 - Consideram-se que não satisfazem estes requisitos:
+
+a) Os títulos consistentes em designação genérica, necessária ou usual do tema ou objecto de obras de certo género;
+
+b) Os títulos exclusivamente constituídos por nomes de personagens históricas, histórico-dramáticas ou literárias e mitológicas ou por nomes de personalidades vivas.
+
+3 - O título de obra não publicada ou não divulgada é protegido se, satisfazendo os requisitos deste artigo, tiver sido registado juntamente com a obra.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 5.º — (Título de jornal ou de qualquer outra publicação periódica)
+
+1 - O título de jornal ou de qualquer outra publicação periódica é protegido, enquanto a respectiva publicação se efectuar com regularidade, desde que devidamente inscrito na competente repartição de registo do departamento governamental com tutela sobre a comunicação social.
+
+2 - A utilização do referido título por publicação congénere só será possível 1 ano após a extinção do direito à publicação, anunciado por qualquer modo, ou decorridos 3 anos sobre a interrupção da publicação.
+
+###### Artigo 6.º — Obra publicada e obra divulgada
+
+1 - A obra publicada é uma obra reproduzida com o consentimento do seu autor, qualquer que seja o modo de fabrico dos respectivos exemplares, desde que efectivamente postos à disposição do público em termos que satisfaçam razoavelmente as necessidades deste, tendo em consideração a natureza da obra.
+
+2 - Não constitui publicação a utilização ou divulgação de uma obra que não importe a sua reprodução nos termos do número anterior.
+
+3 - Obra divulgada é a que foi licitamente trazida ao conhecimento do público por quaisquer meios, como sejam a representação de obra dramática ou dramático-musical, a exibição cinematográfica, a execução de obra musical, a recitação de obra literária, a transmissão ou a radiodifusão, a construção de obra de arquitectura ou de obra plástica nela incorporada e a exposição de qualquer obra artística.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 7.º — (Exclusão de protecção)
+
+1 - Não constituem objecto de protecção:
+
+a) As notícias do dia e os relatos de acontecimentos diversos com carácter de simples informações de qualquer modo divulgados;
+
+b) Os requerimentos, alegações, queixas e outros textos apresentados por escrito ou oralmente perante autoridades ou serviços públicos;
+
+c) Os textos propostos e os discursos proferidos perante assembleias ou outros órgãos colegiais, políticos e administrativos, de âmbito nacional, regional ou local, ou em debates públicos sobre assuntos de interesse comum;
+
+d) Os discursos políticos.
+
+2 - A reprodução integral, em separata, em colectânea ou noutra utilização conjunta, de discursos, peças oratórias e demais textos referidos nas alíneas c) e d) do n.º 1 só pode ser feita pelo autor ou com o seu consentimento.
+
+3 - A utilização por terceiro de obra referida no n.º 1, quando livre, deve limitar-se ao exigido pelo fim a atingir com a sua divulgação.
+
+4 - Não é permitida a comunicação dos textos a que se refere a alínea b) do n.º 1 quando esses textos forem por natureza confidenciais ou dela possa resultar prejuízo para a honra ou reputação do autor ou de qualquer outra pessoa, salvo decisão judicial em contrário proferida em face de prova da existência de interesse legítimo superior ou subjacente à proibição.
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 8.º — (Compilações e anotações de textos oficiais)
+
+1 - Os textos compilados ou anotados, a que se refere a alínea c) do n.º 1 do artigo 3.º, bem como as suas traduções oficiais, não beneficiam de protecção.
+
+2 - Se os textos referidos no número anterior incorporarem obras protegidas, estas poderão ser introduzidas sem o consentimento do autor e sem que tal lhe confira qualquer direito no âmbito da actividade do serviço público de que se trate.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+### Capítulo II — Do direito de autor
+
+#### Secção I — Do conteúdo do direito de autor
+
+###### Artigo 9.º — (Conteúdo do direito de autor)
+
+1 - O direito de autor abrange direitos de carácter patrimonial e direitos de natureza pessoal, denominados direitos morais.
+
+2 - No exercício dos direitos de carácter patrimonial o autor tem o direito exclusivo de dispor da sua obra e de fruí-la e utilizá-la, ou autorizar a sua fruição ou utilização por terceiro, total ou parcialmente.
+
+3 - Independentemente dos direitos patrimoniais, e mesmo depois da transmissão ou extinção destes, o autor goza de direitos morais sobre a sua obra, designadamente o direito de reivindicar a respectiva paternidade e assegurar a sua genuinidade e integridade.
+
+> Republicado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 10.º — (Suportes da obra)
+
+1 - O direito de autor sobre a obra como coisa incorpórea é independente do direito de propriedade sobre as coisas materiais que sirvam de suporte à sua fixação ou comunicação.
+
+2 - O fabricante e o adquirente dos suportes referidos no número anterior não gozam de quaisquer poderes compreendidos no direito de autor.
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção II — Da atribuição do direito de autor
+
+###### Artigo 11.º — (Titularidade)
+
+O direito de autor pertence ao criador intelectual da obra, salvo disposição expressa em contrário.
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 12.º — (Reconhecimento do direito de autor)
+
+O direito de autor é reconhecido independentemente de registo, depósito ou qualquer outra formalidade.
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 13.º — (Obra subsidiada)
+
+Aquele que subsidie ou financie por qualquer forma, total ou parcialmente, a preparação, conclusão, publicação ou divulgação de uma obra não adquire por esse facto sobre esta, salvo convenção escrita em contrário, qualquer dos poderes incluídos no direito de autor.
+
+###### Artigo 14.º — (Determinação da titularidade em casos excepcionais)
+
+1 - Sem prejuízo do disposto no artigo 174.º, a titularidade do direito de autor relativo a obra feita por encomenda ou por conta de outrem, quer em cumprimento de dever funcional quer de contrato de trabalho, determina-se de harmonia com o que tiver sido convencionado.
+
+2 - Na falta de convenção, presume-se que a titularidade do direito de autor relativo a obra feita por conta de outrem pertence ao seu criador intelectual.
+
+3 - A circunstância de o nome do criador da obra não vir mencionado nesta ou não figurar no local destinado para o efeito segundo o uso universal constitui presunção de que o direito de autor fica a pertencer à entidade por conta de quem a obra é feita.
+
+4 - Ainda quando a titularidade do conteúdo patrimonial do direito de autor pertença àquele para quem a obra é realizada, o seu criador intelectual pode exigir, para além da remuneração ajustada e independentemente do próprio facto da divulgação ou publicação, uma remuneração especial:
+
+a) Quando a criação intelectual exceda claramente o desempenho, ainda que zeloso, da função ou tarefa que lhe estava confiada;
+
+b) Quando da obra vierem a fazer-se utilizações ou a retirar-se vantagens não incluídas nem previstas na fixação da remuneração ajustada.
+
+5 - À determinação do montante da remuneração prevista no número anterior aplica-se, com as necessárias adaptações, o disposto nos n.os 2 a 4 do artigo 44.º-C e no artigo 44.º-D.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 14.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 15.º — (Limites à utilização)
+
+1 - Nos casos dos artigos 13.º e 14.º, quando o direito de autor pertença ao criador intelectual, a obra apenas pode ser utilizada para os fins previstos na respectiva convenção.
+
+2 - A faculdade de introduzir modificações na obra depende do acordo expresso do seu criador e só pode exercer-se nos termos convencionados.
+
+3 - O criador intelectual não pode fazer utilização da obra que prejudique a obtenção dos fins para que foi produzida.
+
+> Alterado pelo/a Artigo 15.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 16.º — (Noção de obra feita em colaboração e de obra colectiva)
+
+1 - A obra que for criação de uma pluralidade de pessoas denomina-se:
+
+a) Obra feita em colaboração, quando divulgada ou publicada em nome dos colaboradores ou de alguns deles, quer possam discriminar-se quer não os contributos individuais;
+
+b) Obra colectiva, quando organizada por iniciativa de entidade singular ou colectiva e divulgada ou publicada em seu nome.
+
+2 - A obra de arte aleatória em que a contribuição criativa do ou dos intérpretes se ache originariamente prevista considera-se obra feita em colaboração.
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 17.º — (Obra feita em colaboração)
+
+1 - O direito de autor de obra feita em colaboração, na sua unidade, pertence a todos os que nela tiverem colaborado, aplicando-se ao exercício comum desse direito as regras da compropriedade.
+
+2 - Salvo estipulação em contrário, que deve ser sempre reduzida a escrito, consideram-se de valor igual as partes indivisas dos autores na obra feita em colaboração.
+
+3 - Se a obra feita em colaboração for divulgada ou publicada apenas em nome de algum ou alguns dos colaboradores, presume-se, na falta de designação explícita dos demais em qualquer parte da obra, que os não designados cederam os seus direitos àquele ou àqueles em nome de quem a divulgação ou publicação é feita.
+
+4 - Não se consideram colaboradores e não participam, portanto, dos direitos de autor sobre a obra aqueles que tiverem simplesmente auxiliado o autor na produção e divulgação ou publicação desta, seja qual for o modo por que o tiverem feito.
+
+> Alterado pelo/a Artigo 17.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 18.º — (Direitos individuais dos autores de obra feita em colaboração)
+
+1 - Qualquer dos autores pode solicitar a publicação, a exploração ou a modificação de obra feita em colaboração, sendo, em caso de divergência, a questão resolvida segundo as regras da boa fé.
+
+2 - Qualquer dos autores poderá, sem prejuízo da exploração em comum de obra feita em colaboração, exercer individualmente os direitos relativos à sua contribuição pessoal, quando esta puder discriminar-se.
+
+###### Artigo 19.º — (Obra colectiva)
+
+1 - O direito de autor sobre obra colectiva é atribuído à entidade singular ou colectiva que tiver organizado e dirigido a sua criação e em nome de quem tiver sido divulgada ou publicada.
+
+2 - Se, porém, no conjunto da obra colectiva for possível discriminar a produção pessoal de algum ou alguns colaboradores, aplicar-se-á, relativamente aos direitos sobre essa produção pessoal, o preceituado quanto à obra feita em colaboração.
+
+3 - Os jornais e outras publicações periódicas presumem-se obras colectivas, pertencendo às respectivas empresas o direito de autor sobre as mesmas.
+
+###### Artigo 20.º — (Obra compósita)
+
+1 - Considera-se obra compósita aquela em que se incorpora, no todo ou em parte, uma obra preexistente, com autorização, mas sem a colaboração, do autor desta.
+
+2 - Ao autor de obra compósita pertencem exclusivamente os direitos relativos à mesma, sem prejuízo dos direitos do autor da obra preexistente.
+
+> Republicado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 21.º — (Obra radiodifundida)
+
+1 - Entende-se por obra radiodifundida a que foi criada segundo as condições especiais da utilização pela radiodifusão sonora ou visual e, bem assim, as adaptações a esses meios de comunicação de obras originariamente criadas para outra forma de utilização.
+
+2 - Consideram-se co-autores da obra radiodifundida, como obra feita em colaboração, os autores do texto, da música e da respectiva realização, bem como da adaptação se não se tratar de obra inicialmente produzida para a comunicação áudio-visual.
+
+3 - Aplica-se à autoria da obra radiodifundida, com as necessárias adaptações, o disposto nos artigos seguintes quanto à obra cinematográfica.
+
+> Alterado pelo/a Artigo 18.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 22.º — (Obra cinematográfica)
+
+1 - Consideram-se co-autores da obra cinematográfica:
+
+a) O realizador;
+
+b) O autor do argumento, dos diálogos, se for pessoa diferente, e o da banda musical.
+
+2 - Quando se trate de adaptação de obra não composta expressamente para o cinema, consideram-se também co-autores os autores da adaptação e dos diálogos.
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 23.º — (Utilização de outras obras na obra cinematográfica)
+
+Aos direitos dos criadores que não sejam considerados co-autores, nos termos do artigo 22.º, é aplicável o disposto no artigo 20.º
+
+> Alterado pelo/a Artigo 20.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 24.º — (Obra fonográfica ou videográfica)
+
+Consideram-se autores de obra fonográfica ou videográfica os autores do texto ou da música gravada e ainda, no segundo caso, o realizador.
+
+###### Artigo 25.º — (Obra de arquitectura, urbanismo e «design»)
+
+Autor de obra de arquitectura, de urbanismo ou de design é o criador da sua concepção global e respectivo projecto.
+
+> Alterado pelo/a Artigo 20.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 26.º — (Colaboradores técnicos)
+
+Sem prejuízo dos direitos conexos que por isso lhes competirem, as pessoas singulares ou colectivas intervenientes a título de colaboradores, agentes técnicos, desenhadores, construtores ou outro semelhante na produção e divulgação das obras a que se referem os artigos 21.º e seguintes não podem invocar relativamente a estas quaisquer poderes incluídos no conteúdo do direito de autor.
+
+###### Artigo 26.º-A — Obras órfãs
+
+1 - Consideram-se obras órfãs, as obras intelectuais protegidas em que nenhum dos seus titulares de direitos estiver identificado ou se, apesar de identificado, nenhum deles tiver sido localizado.
+
+2 - Para efeitos do disposto no número anterior, são abrangidas as obras intelectuais objeto de publicação ou distribuição nos Estados membros da União Europeia, nomeadamente:
+
+a) As obras publicadas sob a forma de livros, folhetos, jornais, revistas ou outros escritos, existentes nas coleções de bibliotecas, arquivos, estabelecimentos de ensino ou museus acessíveis ao público e das instituições responsáveis pelo património cinematográfico ou sonoro;
+
+b) As obras cinematográficas ou audiovisuais ou fixadas em fonogramas existentes em coleções das entidades referidas na alínea anterior;
+
+c) As obras cinematográficas ou audiovisuais ou fixadas em fonogramas produzidos por organismos de radiodifusão de serviço público até 31 de dezembro de 2002 e existentes nos seus arquivos;
+
+d) As obras e os fonogramas nunca publicados ou distribuídos mas colocados à disposição do público pelas entidades referidas nas alíneas anteriores, com o consentimento dos titulares de direitos, desde que seja razoável presumir que estes não se oporiam às utilizações dos bens intelectuais feitas pelas entidades na prossecução dos seus objetivos de interesse público;
+
+e) As obras e qualquer outro material protegido inserido ou incorporado nas obras ou fonogramas referidos nas alíneas anteriores.
+
+3 - A atribuição da natureza de obra órfã e a sua utilização no âmbito dos objetivos de interesse público prosseguidos pelas instituições está condicionada à prévia realização e registo de pesquisa diligente e de boa-fé, a cargo das entidades mencionadas no número anterior.
+
+4 - São nomeadamente consideradas fontes adequadas para uma pesquisa diligente e de boa-fé:
+
+a) A base de dados Virtual International Authority File (VIAF);
+
+b) O sistema International Standard Book Number (ISBN);
+
+c) O depósito legal;
+
+d) Os registos da Biblioteca Nacional de Portugal, que inclui a Bibliografia Nacional Portuguesa, o Catálogo Bibliográfico da Biblioteca Nacional de Portugal, o Catálogo Bibliográfico PORBASE e os registos de International Standard Serials Number (ISSN);
+
+e) Os registos da Inspeção-Geral das Atividades Culturais, da Direção-Geral do Livro, dos Arquivos e das Bibliotecas, da Entidade Reguladora para a Comunicação Social e da Direção-Geral do Património Cultural;
+
+f) Os registos da Cinemateca Portuguesa-Museu do Cinema, I. P., designadamente do Arquivo Nacional das Imagens em Movimento e do Centro Português de Fotografia;
+
+g) As bases de dados das associações de editores e livreiros, das associações de produtores fonográficos, dos órgãos da comunicação social e das entidades de gestão coletiva de direitos de autor e direitos conexos.
+
+5 - No caso da primeira publicação ou difusão da obra ter sido efetuada em território português, a pesquisa diligente e de boa-fé deve ser efetuada neste território, com exceção das obras cinematográficas ou audiovisuais e das fixadas em fonograma que sejam produzidas ou coproduzidas por produtores com a sua sede ou a sua residência habitual num Estado membro da União Europeia, caso em que a pesquisa se efetua no Estado membro da sua sede ou da sua residência habitual.
+
+6 - No caso de obras que não tenham sido publicadas ou distribuídas, mas que tenham sido colocadas à disposição do público com o consentimento dos titulares de direitos, a pesquisa diligente e de boa-fé é realizada em Portugal caso a entidade que colocou a obra à disposição do público esteja estabelecida no país.
+
+7 - As entidades referidas no n.º 2 devem manter registos atualizados das suas pesquisas diligentes e de boa-fé e disponibilizá-los, regularmente e com brevidade, para constarem de uma base de dados central e publicamente acessível em linha, sob a gestão da Biblioteca Nacional de Portugal.
+
+8 - Os registos referidos no número anterior devem ser transmitidos regular e imediatamente ao Instituto de Harmonização do Mercado Interno, incluindo designadamente as seguintes informações:
+
+a) Os resultados das pesquisas diligentes que permitem a atribuição a uma obra do estatuto de obra órfã;
+
+b) As utilizações que as entidades fazem das obras órfãs;
+
+c) Todas as alterações feitas ao estatuto de obra órfã;
+
+d) Os dados de contacto e quaisquer informações pertinentes.
+
+9 - As entidades referidas no n.º 2 que façam utilização de obras órfãs, em ordem a assegurar exclusivamente a cobertura dos custos de digitalização, tratamento, salvaguarda e preservação destes bens, podem celebrar acordos comerciais com entidades públicas e privadas e obter os financiamentos devidos, não podendo, contudo, estabelecer qualquer restrição à utilização das referidas obras.
+
+10 - O disposto nos números anteriores e no artigo seguinte é aplicável, com as devidas adaptações, às prestações artísticas, aos fonogramas e aos videogramas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 32/2015 - Diário da República n.º 80/2015, Série I de 2015-04-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2015-67072250), em vigor a partir de 2015-04-25
+
+###### Artigo 26.º-B — Termo do estatuto de obra órfã
+
+1 - Os titulares de direitos anteriormente não identificados ou não localizados podem a todo o tempo reclamar os seus direitos sobre a obra ou outro material protegido, fazendo cessar o estatuto de obra órfã, sem prejuízo da possibilidade de se manter a utilização daqueles bens, caso se verifique a autorização do titular do direito.
+
+2 - Os titulares de direitos que ponham termo ao estatuto de obra órfã, têm direito a receber uma compensação equitativa pela utilização que foi feita das suas obras ou do material protegido, a cargo das entidades referidas no n.º 2 do artigo anterior.
+
+3 - Na fixação da compensação equitativa, tem-se em conta a natureza não comercial da utilização feita, a eventual gratuitidade do ato, os objetivos de interesse público envolvidos, designadamente o acesso à informação, à educação e à cultura, bem como os eventuais danos patrimoniais injustificados sofridos pelos titulares de direitos.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 32/2015 - Diário da República n.º 80/2015, Série I de 2015-04-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2015-67072250), em vigor a partir de 2015-04-25
+
+### Capítulo III — Do autor e do nome literário ou artístico
+
+> Republicado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 27.º — (Paternidade da obra)
+
+1 - Salvo disposição em contrário, autor é o criador intelectual da obra.
+
+2 - Presume-se autor aquele cujo nome tiver sido indicado como tal na obra, conforme o uso consagrado, ou anunciado em qualquer forma de utilização ou comunicação ao público.
+
+3 - Salvo disposição em contrário, a referência ao autor abrange o sucessor e o transmissário dos respectivos direitos.
+
+> Alterado pelo/a Artigo 21.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 28.º — (Identificação do autor)
+
+O autor pode identificar-se pelo nome próprio, completo ou abreviado, as iniciais deste, um pseudónimo ou qualquer sinal convencional.
+
+###### Artigo 29.º — (Protecção do nome)
+
+1 - Não é permitida a utilização de nome literário, artístico ou científico susceptível de ser confundido com outro anteriormente usado em obra divulgada ou publicada, ainda que de género diverso, nem com nome de personagem célebre da história das letras, das artes ou das ciências.
+
+2 - Se o autor for parente ou afim de outro anteriormente conhecido por nome idêntico, pode a distinção fazer-se juntando ao nome civil aditamento indicativo do parentesco ou afinidade.
+
+3 - Ninguém pode usar em obra sua o nome de outro autor, ainda que com autorização deste.
+
+4 - O lesado pelo uso de nome em contravenção do disposto nos números anteriores pode requerer as providências judiciais adequadas a evitar a confusão do público sobre o verdadeiro autor, incluindo a cessação de tal uso.
+
+> Alterado pelo/a Artigo 22.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 30.º — (Obra de autor anónimo)
+
+1 - Aquele que divulgar ou publicar uma obra com o consentimento do autor, sob nome que não revele a identidade deste ou anonimamente, considera-se representante do autor, incumbindo-lhe o dever de defender perante terceiros os respectivo direitos, salvo manifestação de vontade em contrário por parte do autor.
+
+2 - O autor pode a todo o tempo revelar a sua identidade e a autoria da obra, cessando a partir desse momento os poderes de representação referidos no número precedente.
+
+> Alterado pelo/a Artigo 23.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+### Capítulo IV — Da duração
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Alterado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 31.º — Regra geral
+
+1 - O direito de autor caduca, na falta de disposição especial, 70 anos após a morte do criador intelectual, mesmo que a obra só tenha sido publicada ou divulgada postumamente.
+
+2 - A caducidade só opera a partir do dia 1 de janeiro do ano seguinte ao termo do prazo referido no número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 32.º — Obra de colaboração e obra colectiva
+
+1 - O direito de autor sobre a obra feita em colaboração, como tal, caduca 70 anos após a morte do colaborador que falecer em último lugar.
+
+2 - O direito de autor sobre a obra colectiva ou originariamente atribuída a pessoa colectiva caduca 70 anos após a primeira publicação ou divulgação lícitas, salvo se as pessoas físicas que a criaram foram identificadas nas versões da obra tornadas acessíveis ao público.
+
+3 - A duração do direito de autor atribuído individualmente aos colaboradores de obra colectiva, em relação às respectivas contribuições que possam discriminar-se, é a que se estabelece no artigo 31.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 33.º — Obra anónima e equiparada
+
+1 - A duração da protecção de obra anónima ou licitamente publicada ou divulgada sem identificação do autor é de 70 anos após a publicação ou divulgação.
+
+2 - Se a utilização de nome, que não o próprio, não deixar dúvidas quanto à identidade do autor, ou se este a revelar dentro do prazo referido no número anterior, a duração da protecção será a dispensada à obra publicada ou divulgada sob nome próprio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 34.º — Obra cinematográfica ou áudio-visual
+
+O direito de autor sobre obra cinematográfica ou qualquer outra obra áudio-visual caduca 70 anos após a morte do último sobrevivente de entre as pessoas seguintes:
+
+a) O realizador;
+
+b) O autor do argumento ou da adaptação;
+
+c) O autor dos diálogos;
+
+d) O autor das composições musicais especialmente criadas para a obra.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 35.º — Obra publicada ou divulgada em partes
+
+1 - Se as diferentes partes, volumes ou episódios de uma obra não forem publicados ou divulgados simultaneamente, os prazos de protecção legal contam-se separadamente para cada parte, volume ou episódio.
+
+2 - Aplica-se o mesmo princípio aos números ou fascículos de obras colectivas de publicação periódica, tais como jornais ou publicações similares.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 36.º — Programa de computador
+
+1 - O direito atribuído ao criador intelectual sobre a criação do programa extingue-se 70 anos após a sua morte.
+
+2 - Se o direito for atribuído originariamente a pessoa diferente do criador intelectual, o direito extingue-se 70 anos após a data em que o programa foi pela primeira vez licitamente publicado ou divulgado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 37.º — Obra estrangeira
+
+As obras que tiverem como país de origem um país estrangeiro não pertencente à União Europeia e cujo autor não seja nacional de um país da União gozam da duração de protecção prevista na lei do país de origem, se não exceder a fixada nos artigos precedentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 38.º — Domínio público
+
+1 - A obra cai no domínio público quando tiverem decorrido os prazos de protecção estabelecidos neste diploma.
+
+2 - Cai igualmente no domínio público a obra que não for licitamente publicada ou divulgada no prazo de 70 anos a contar da sua criação, quando esse prazo não seja calculado a partir da morte do autor.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 39.º — Obras no domínio público
+
+1 - Quem fizer publicar ou divulgar licitamente, após a caducidade do direito de autor, uma obra inédita beneficia durante 25 anos a contar da publicação ou divulgação de protecção equivalente à resultante dos direitos patrimoniais do autor.
+
+2 - As publicações críticas e científicas de obras caídas no domínio público beneficiam de protecção durante 25 anos a contar da primeira publicação lícita.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+### Capítulo V — Da transmissão e oneração do conteúdo patrimonial do direito de autor
+
+> Republicado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Alterado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 39.º-A — Obras de arte visual no domínio público
+
+Depois de expirado o prazo de proteção de uma obra de arte visual, qualquer material resultante de um ato de reprodução dessa obra no domínio público só é protegido por direito de autor ou direito conexo se for original, resultando da criação intelectual do seu próprio autor.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 40.º — (Disponibilidade dos poderes patrimoniais)
+
+O titular originário, bem como os seus sucessores ou transmissários, podem:
+
+a) Autorizar a utilização da obra por terceiro;
+
+b) Transmitir ou onerar, no todo ou em parte, o conteúdo patrimonial do direito de autor sobre essa obra.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 41.º — (Regime da autorização)
+
+1 - A simples autorização concedida a terceiro para divulgar, publicar, utilizar ou explorar a obra por qualquer processo não implica transmissão do direito de autor sobre ela.
+
+2 - A autorização a que se refere o número anterior só pode ser concedida por escrito, presumindo-se a sua onerosidade e carácter não exclusivo.
+
+3 - Da autorização escrita devem constar obrigatória e especificadamente a forma autorizada de divulgação, publicação e utilização, bem como as respectivas condições de tempo, lugar e preço.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 42.º — (Limites da transmissão e da oneração)
+
+Não podem ser objecto de transmissão nem oneração, voluntárias ou forçadas, os poderes concedidos para tutela dos direitos morais, nem quaisquer outros excluídos por lei.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 43.º — (Transmissão ou oneração parciais)
+
+1 - A transmissão ou oneração parciais têm por mero objecto os modos de utilização designados no acto que as determina.
+
+2 - Os contratos que tenham por objecto a transmissão ou oneração parciais do direito de autor devem constar de documento escrito com reconhecimento notarial das assinaturas, sob pena de nulidade.
+
+3 - No título devem determinar-se as faculdades que são objecto de disposição e as condições de exercício, designadamente quanto ao tempo e quanto ao lugar, e, se o negócio for oneroso, quanto ao preço.
+
+4 - Se a transmissão ou oneração forem transitórias e não se tiver estabelecido duração, presume-se que a vigência máxima é de 25 anos em geral e de 10 anos nos casos de obra fotográfica ou de arte aplicada.
+
+5 - O exclusivo outorgado caduca, porém, se, decorrido o prazo de 7 anos, a obra não tiver sido utilizada.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 44.º — (transmissão total)
+
+A transmissão total e definitiva do conteúdo patrimonial do direito de autor só pode ser efectuada por escritura pública, com identificação da obra e indicação do preço respectivo, sob pena de nulidade.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 44.º-A — Princípio de remuneração adequada e proporcionada
+
+1 - Caso os autores ou os artistas, intérpretes ou executantes, concedam a terceiros uma licença ou transfiram os seus direitos sobre uma obra ou outros materiais protegidos, para exploração, têm direito a receber uma remuneração adequada e proporcionada.
+
+2 - Na aplicação deste princípio e do disposto nos artigos seguintes, devem ser tidos em conta o princípio da liberdade contratual, as práticas e os usos do mercado e do setor cultural específico em causa e o contributo individual do titular originário para o conjunto da obra ou de outro material protegido, com vista a alcançar um equilíbrio justo de direitos e interesses.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 44.º-B — Dever de informação
+
+1 - As contrapartes a quem sejam conferidas licenças exclusivas ou para as quais sejam transferidos direitos de exploração comercial de obras ou outros materiais protegidos, sob qualquer modalidade, bem como os seus sucessores legais, devem prestar aos autores e artistas, intérpretes ou executantes, ou a quem legitimamente os represente, informações atualizadas pertinentes e exaustivas sobre a exploração das suas obras e prestações, nomeadamente sobre o modo de exploração, bem como sobre todas as receitas obtidas pela contraparte em virtude da exploração comercial da obra e sobre as remunerações devidas.
+
+2 - As informações referidas no número anterior devem ser prestadas regularmente e ter em conta as especificidades de cada setor.
+
+3 - A obrigação prevista no número anterior é prestada, no mínimo, uma vez por ano e deve ser proporcional, eficaz e assegurar um nível elevado de transparência, tendo em conta, designadamente, a respetiva utilidade.
+
+4 - Quando os encargos administrativos decorrentes da prestação de elementos informativos se tornem desproporcionados relativamente ao volume de receitas provenientes da exploração, a obrigação pode ser limitada ao tipo e ao nível de informações que possam ser razoavelmente esperados nestas circunstâncias.
+
+5 - O direito previsto no presente artigo aplica-se aos autores ou artistas intérpretes ou executantes que tenham transferido ou licenciado os seus direitos sobre uma obra ou prestação em que tenham tido uma contribuição pessoal significativa, ou, quando a sua contribuição pessoal se não possa considerar significativa, demonstrem a necessidade de obter as informações requeridas para exercerem os seus direitos nos termos do artigo 44.º-C.
+
+6 - Caso os atos de exploração comercial da obra ou prestação sejam praticados por terceiros, ao abrigo de um sublicenciamento celebrado com a contraparte referida no n.º 1, as informações aí previstas podem ser solicitadas aos sublicenciados, através da contraparte diretamente licenciada pelos autores, artistas, intérpretes ou executantes ou seus legítimos representantes, a seu pedido, se, e na medida em que, essa contraparte, não disponha ou não tenha prestado todas as informações exigíveis nos termos dos números anteriores.
+
+7 - Os pedidos de informação referidos no número anterior a um terceiro sublicenciado poderão ser efetuados diretamente pelos autores e pelos artistas intérpretes e executantes, caso tal informação não seja solicitada ao sublicenciado pela contraparte diretamente licenciada.
+
+8 - Para efeitos do disposto no número anterior, as contrapartes diretamente autorizadas pelos autores ou pelos artistas intérpretes ou executantes fornecem a estes, a seu pedido, todas as informações pertinentes e necessárias sobre a identidade e os contactos daqueles a quem sublicenciaram a exploração comercial.
+
+9 - O disposto nos números anteriores não se aplica aos contratos de licenciamento coletivo celebrados por entidades de gestão coletiva do direito de autor e dos direitos conexos, aos quais é aplicável o disposto na Lei n.º 26/2015, de 14 de abril, na sua redação atual, que regula as entidades de gestão coletiva do direito de autor e dos direitos conexos, inclusive quanto ao estabelecimento em território nacional e a livre prestação de serviços das entidades previamente estabelecidas noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, e revoga a Lei n.º 83/2001, de 3 de agosto.
+
+10 - Sempre que o destinatário da informação prestada nos termos do presente artigo tiver acesso a informações sujeitas pelas partes a obrigações de sigilo ou de confidencialidade, está subordinado a tais obrigações e apenas pode utilizar as informações obtidas na medida do necessário para o exercício dos seus direitos.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 44.º-C — Remuneração adicional
+
+1 - Os autores, artistas, intérpretes ou executantes, ou os seus representantes têm o direito de reclamar uma remuneração adicional, adequada e justa, à parte com quem celebraram um contrato de exploração dos seus direitos, ou aos seus sucessores legais, sempre que a remuneração inicialmente acordada se revele desproporcionadamente baixa relativamente a todas as receitas relevantes subsequentes, decorrentes da exploração das suas obras ou prestações e tais receitas se revelarem significativamente mais elevadas que aquelas que as partes poderiam estimar no momento da celebração do contrato.
+
+2 - O disposto no número anterior não é aplicável sempre que existirem acordos de negociação coletiva que prevejam um mecanismo comparável ao estabelecido no presente artigo.
+
+3 - Na atribuição e fixação do montante da remuneração adicional são tidos em conta, entre outros fatores:
+
+a) Todas as receitas relevantes e os ganhos obtidos pela contraparte;
+
+b) As circunstâncias específicas de cada caso, incluindo a contribuição específica do autor ou do artista intérprete ou executante para o resultado final económico e artístico;
+
+c) As especificidades e as práticas de remuneração aplicáveis aos diferentes setores e aos diferentes tipos de obras ou outros materiais protegidos.
+
+4 - O direito de compensação caduca se não for exercido no prazo de dois anos a contar do conhecimento das circunstâncias referidas no n.º 1.
+
+5 - O disposto no presente artigo não é aplicável aos contratos de licenciamento coletivo celebrados através de entidades de gestão coletiva do direito de autor e de direitos conexos.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 44.º-D — Procedimento de resolução alternativa de litígios
+
+1 - Os litígios relativos ao dever de informação previsto no artigo 44.º-B ou relativos à remuneração adicional a que se refere o artigo anterior podem ser submetidos pelas partes a centro de arbitragem institucionalizada a que se reporta o artigo 8.º do Decreto-Lei n.º 47/2023, de 19 de junho, ou à arbitragem nos termos da Lei da Arbitragem Voluntária, aprovada em anexo à Lei n.º 63/2011, de 14 de dezembro.
+
+2 - Os litígios referidos no número anterior estão sujeitos a arbitragem necessária quando, por opção expressa dos autores ou artistas, intérpretes ou executantes, sejam submetidos à apreciação de centro de arbitragem institucionalizada a que se reporta o número anterior.
+
+3 - As entidades de gestão coletiva representativas de autores e de artistas, intérpretes ou executantes têm legitimidade para iniciar e intervir nos procedimentos referidos no número anterior sempre que expressamente mandatadas pelos respetivos titulares de direitos.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 44.º-E — Direito de revogação
+
+1 - Sempre que um autor ou um artista, intérprete ou executante conceda uma licença ou transfira os seus direitos sobre uma obra ou prestação, em regime de exclusividade, pode revogar, no todo ou em parte, aquela licença ou transmissão, em caso de falta de exploração da obra ou de outros materiais protegidos.
+
+2 - O direito de revogação previsto no número anterior só pode ser exercido decorridos cinco anos após a celebração do contrato ou um terço da sua duração inicial, consoante o que ocorra primeiro.
+
+3 - No caso de contratos relativos a obras ou prestações futuras, o prazo referido no número anterior conta-se a partir da conclusão da obra ou da fixação da prestação.
+
+4 - Sem prejuízo do disposto no artigo 136.º, são excluídas do mecanismo previsto no n.º 1 as obras videográficas, cinematográficas ou produzidas por processo análogo à cinematografia.
+
+5 - Caso o autor ou artista intérprete ou executante pretenda prevalecer-se do disposto no n.º 1, deve notificar a contraparte da sua pretensão, por escrito e com prova de receção, fixando-lhe o prazo não inferior a seis meses para a exploração de tais direitos objeto de licença ou de transmissão.
+
+6 - Decorrido o prazo fixado no número anterior e caso subsista a ausência de exploração, pode o autor ou o artista proceder à revogação, ou, em alternativa, optar por pôr termo à exclusividade do contrato, pela forma prevista no número anterior.
+
+7 - Em caso de obras com pluralidade de autores ou prestações com pluralidade de artistas, aplica-se, quanto ao exercício do direito, o disposto no artigo 17.º e seguintes, sendo, todavia, dispensada a anuência de autores ou artistas cuja contribuição para a obra ou outro material protegido não seja significativa.
+
+8 - O disposto no n.º 1 não se aplica se a falta de exploração não for imputável à contraparte licenciada ou transmissária dos direitos, ou resulte de impedimento objetivo cuja reparação esteja fora do seu controlo, bem como quando for essencialmente motivada por circunstâncias ou impedimentos que se possam, razoavelmente, esperar que o autor ou artista, intérprete ou executante possa reparar.
+
+9 - O disposto no presente artigo não prejudica o exercício de qualquer direito contratual ou legalmente conferido ao autor ou ao artista, intérprete ou executante, em virtude do incumprimento contratual da contraparte, nem a aplicação de qualquer disposição contratual que confira àqueles titulares o direito de revogar ou resolver o contrato em termos mais alargados ou com prazos mais reduzidos.
+
+10 - A revogação prevista no presente artigo não é oponível a terceiros para os quais os direitos tenham sido validamente transferidos ou aos quais tenha sido validamente concedida uma licença pela contraparte contratual do autor ou artista, intérprete ou executante, em momento anterior ao exercício do direito de revogação, exceto se a falta de exploração da obra ou de outros materiais protegidos lhes for imputável, caso em que se aplica o regime previsto nos números anteriores.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 44.º-F — Caráter imperativo
+
+1 - Qualquer disposição contratual que obste ao cumprimento dos artigos 44.º-B a 44.º-D é considerada nula, não produzindo quaisquer efeitos em relação aos autores ou aos artistas, intérpretes ou executantes.
+
+2 - Caso todos os outros elementos relevantes da situação se situem, no momento da escolha da lei aplicável, no território de um ou de vários Estados-Membros da União Europeia, a escolha pelas partes de uma lei aplicável ao respetivo contrato que não seja a de um Estado-Membro da União Europeia não prejudica a aplicação das disposições relativas à transparência, aos mecanismos de modificação contratual e aos procedimentos de resolução alternativa de litígios, tal como aplicadas pelo Estado-Membro da União Europeia do foro.
+
+3 - O disposto nos artigos 44.º-A a 44.º-E não se aplica aos autores de programas de computador.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 45.º — (Usufruto)
+
+1 - O direito de autor pode ser objecto de usufruto, tanto legal como voluntário.
+
+2 - Salvo declaração em contrário, só com autorização do titular do direito de autor pode o usufrutuário utilizar a obra objecto do usufruto por qualquer forma que envolva transformação ou modificação desta.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 46.º — (Penhor)
+
+1 - O conteúdo patrimonial do direito de autor pode ser dado em penhor.
+
+2 - Em caso de execução, recairá especificamente sobre o direito ou direitos que o devedor tiver oferecido em garantia relativamente à obra ou obras indicadas.
+
+3 - O credor pignoratício não adquire quaisquer direitos quanto aos suportes materiais da obra.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 47.º — (Penhora e arresto)
+
+1 - Os direitos patrimoniais do autor sobre todas ou algumas das suas obras podem ser objecto de penhora ou arresto, observando-se relativamente arrematação em execução o disposto no artigo 46.º quanto à venda do penhor.
+
+2 - Em caso de penhora do direito patrimonial do criador da obra, aplica-se o regime fixado no Código de Processo Civil na parte relativa à penhora dos vencimentos, salários ou prestações de natureza semelhante.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 65/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/65-2012-190197), em vigor a partir de 2012-12-21
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 48.º — (Disposição antecipada do direito de autor)
+
+1 - A transmissão ou oneração do direito de autor sobre obra futura só pode abranger as que o autor tiver produzido no prazo máximo de 10 anos.
+
+2 - Se o contrato visar obras produzidas em prazo mais dilatado, considerar-se-á reduzido aos limites do número anterior, diminuindo proporcionalmente a remuneração estipulada.
+
+3 - É nulo o contrato de transmissão ou oneração de obras futuras sem prazo limitado.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 49.º — (Compensação suplementar)
+
+1 - Se o criador intelectual ou os seus sucessores, tendo cedido ou onerado o seu direito de exploração a título oneroso, sofrerem grave lesão patrimonial por manifesta desproporção entre os seus proventos e os lucros auferidos pelo beneficiário daqueles actos, poderão reclamar deste uma compensação suplementar, que incidirá sobre os resultados da exploração.
+
+2 - Na falta de acordo, a compensação suplementar a que se refere o número anterior será fixada tendo em conta os resultados normais da exploração do conjunto das obras congéneres do autor.
+
+3 - Se o preço da transmissão ou oneração do direito de autor tiver sido fixado em forma de participação nos proventos que da exploração retirar o beneficiário, o direito à compensação suplementar só subsiste no caso de a percentagem estabelecida ser manifestamente inferior àquelas que correntemente se praticam em transacções da mesma natureza.
+
+4 - O direito de compensação caduca se não for exercido no prazo de 2 anos a contar do conhecimento da grave lesão patrimonial sofrida.
+
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 50.º — (Penhora e arresto de obra inédita ou incompleta)
+
+1 - Quando incompletos, são isentos de penhora e arresto, salvo oferecimento ou consentimento do autor, manuscritos inéditos, esboços, desenhos, telas ou esculturas, tenham ou não assinatura.
+
+2 - Se, porém, o autor tiver revelado por actos inequívocos o seu propósito de divulgar ou publicar os trabalhos referidos, pode o credor obter penhora ou arresto sobre o correspondente direito de autor.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 51.º — (Direito de autor incluído em herança vaga)
+
+1 - Se estiver incluído direito de autor em herança que for declarada vaga para o Estado, tal direito será excluído da liquidação, sendo-lhe no entanto aplicável o regime estabelecido no n.º 3 do artigo 1133.º do Código de Processo Civil.
+
+2 - Decorridos 10 anos sobre a data da vacatura da herança sem que o Estado tenha utilizado ou autorizado a utilização da obra, cairá esta no domínio público.
+
+3 - Se por morte de algum dos autores da obra feita em colaboração a sua herança dever ser devolvida ao Estado, o direito de autor sobre a obra na sua unidade ficará pertencendo apenas aos restantes.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 52.º — (Reedição de obra esgotada)
+
+1 - Se o titular do direito de reedição se recusar a exercê-lo ou a autorizar a reedição depois de esgotadas as edições feitas, poderá qualquer interessado, incluindo o Estado, requerer autorização judicial para proceder à reedição da obra.
+
+2 - A autorização judicial será concedida se houver interesse público na reedição da obra e a recusa se não fundar em razão moral ou material atendível, excluídas as de ordem financeira.
+
+3 - O titular do direito de edição não ficará privado deste, podendo fazer ou autorizar futuras edições.
+
+4 - As disposições deste artigo são aplicáveis, com as necessárias adaptações, a todas as formas de reprodução se o transmissário do direito sobre qualquer obra já divulgada não assegurar a satisfação das necessidades razoáveis do público.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 53.º — (Processo)
+
+1 - A autorização será dada nos termos do processo de suprimento do consentimento e indicará o número de exemplares a editar.
+
+2 - Da decisão cabe recurso, com efeito suspensivo, para a relação, que resolverá em definitivo.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 54.º — (Direito de sequência)
+
+1 - O autor de uma obra de arte original que não seja de arquitectura nem de arte aplicada tem direito a uma participação sobre o preço obtido, livre de impostos, pela venda dessa obra, realizada mediante a intervenção de qualquer agente que actue profissional e estavelmente no mercado de arte, após a sua alienação inicial por aquele.
+
+2 - Para o efeito do disposto no número anterior, entende-se por 'obra de arte original' qualquer obra de arte gráfica ou plástica, tal como quadros, colagens, pinturas, desenhos, serigrafias, gravuras, estampas, litografias, esculturas, tapeçarias, cerâmicas, vidros e fotografias, na medida em que seja executada pelo autor ou se trate de cópias consideradas como obras de arte originais, devendo estas ser numeradas, assinadas ou por qualquer modo por ele autorizadas.
+
+3 - O direito referido no n.º 1 é inalienável e irrenunciável.
+
+4 - A participação sobre o preço prevista no n.º 1 é fixada do seguinte modo:
+
+a) 4% sobre o preço de venda cujo montante esteja compreendido entre (euro) 3000 e (euro) 50000;
+
+b) 3% sobre o preço de venda cujo montante esteja compreendido entre (euro) 50000,01 e (euro) 200000;
+
+c) 1% sobre o preço de venda cujo montante esteja compreendido entre (euro) 200000,01 e (euro) 350000;
+
+d) 0,5% sobre o preço de venda cujo montante esteja compreendido entre (euro) 350000,01 e (euro) 500000;
+
+e) 0,25% sobre o preço de venda cujo montante seja superior a (euro) 500000,01.
+
+5 - O montante total da participação em cada transacção não pode exceder (euro) 12500.
+
+6 - Exceptua-se do disposto nos números anteriores toda e qualquer transacção de obra de arte original que se destine a integrar o património de um museu sem fins lucrativos e aberto ao público.
+
+7 - O pagamento da participação devida ao autor é da responsabilidade do vendedor da obra de arte original e, subsidiariamente, da entidade actuante no mercado de arte através da qual se operou a transacção.
+
+8 - O autor ou o seu mandatário, em ordem a garantir o cumprimento do seu direito de participação, pode reclamar a qualquer interveniente na transacção da obra de arte original as informações estritamente úteis ao referido efeito, usando, se necessário, os meios administrativos e judiciais adequados.
+
+9 - O direito a reclamar as informações referidas no número anterior prescreve no prazo de três anos a contar do conhecimento de cada transacção.
+
+10 - O direito referido no n.º 1 pode ser exercido após a morte do autor pelos herdeiros deste até à caducidade do direito de autor.
+
+11 - A atribuição deste direito a nacionais de países não comunitários está sujeita ao princípio da reciprocidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/24-2006-357349), em vigor a partir de 2006-07-05
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 55.º — (Usucapião)
+
+O direito de autor não pode adquirir-se por usucapião.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+### Capítulo VI — Dos direitos morais
+
+> Alterado pelo/a Artigo 27.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Alterado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 56.º — Definição
+
+1 - Independentemente dos direitos de carácter patrimonial e ainda que os tenha alienado ou onerado, o autor goza durante toda a vida do direito de reivindicar a paternidade da obra e de assegurar a genuinidade e integridade desta, opondo-se à sua destruição, a toda e qualquer mutilação, deformação ou outra modificação da mesma e, de um modo geral, a todo e qualquer acto que a desvirtue e possa afectar a honra e reputação do autor.
+
+2 - Este direito é inalienável, irrenunciável e imprescritível, perpetuando-se, após morte do autor, nos termos do artigo seguinte.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 27.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 57.º — (Exercício)
+
+1 - Por morte do autor, enquanto a obra não cair no domínio público, o exercício destes direitos compete aos seus sucessores.
+
+2 - A defesa da genuinidade e integridade das obras caídas no domínio público compete ao Estado e é exercida através do Ministério da Cultura.
+
+3 - Falecido o autor, pode o Ministério da Cultura avocar a si, e assegurá-la pelos meios adequados, a defesa das obras ainda não caídas no domínio público que se encontrem ameaçadas na sua autenticidade ou dignidade cultural, quando os titulares do direito de autor, notificados para o exercer, se tiverem disso abstido sem motivo atendível.
+
+> Alterado pelo/a Artigo 27.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 58.º — (Reprodução da obra «ne varietur»)
+
+Quando o autor tiver revisto toda a sua obra, ou parte dela, e efectuado ou autorizado a respectiva divulgação ou publicação ne varietur, não poderá a mesma ser reproduzida pelos seus sucessores ou por terceiros em qualquer das versões anteriores.
+
+> Alterado pelo/a Artigo 27.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 59.º — (Modificações da obra)
+
+1 - Não são admitidas modificações da obra sem o consentimento do autor, mesmo naqueles casos em que, sem esse consentimento, a utilização da obra seja lícita.
+
+2- Tratando-se de colectâneas destinadas ao ensino, são permitidas as modificações que a finalidade reclama, sob condição de não se lhes opor o autor nos termos do número seguinte.
+
+3 - Solicitado por carta registada com aviso de recepção o consentimento do autor, dispõe este, para manifestar a sua posição, do prazo de 1 mês a contar da data do registo.
+
+> Alterado pelo/a Artigo 27.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 60.º — Modificações de projecto arquitectónico
+
+1 - O autor de projecto de arquitectura ou de obra plástica executada por outrem e incorporada em obra de arquitectura tem o direito de fiscalizar a sua construção ou execução em todas as fases e pormenores, de maneira a assegurar a exacta conformidade da obra com o projecto de que é autor.
+
+2 - Quando edificada segundo projecto, não pode o dono da obra, durante a construção nem após a conclusão, introduzir nela alterações sem consulta prévia ao autor, sob pena de indemnização por perdas e danos.
+
+3 - Não havendo acordo, pode o autor repudiar a paternidade da obra modificada, ficando vedado ao proprietário invocar para o futuro, em proveito próprio, o nome do autor do projecto inicial.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 27.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 61.º — (Direitos morais no caso de penhora)
+
+1 - Se o arrematante do direito de autor sobre obra penhorada e publicada promover a publicação desta, o direito de revisão das provas e correcção da obra e, em geral, os direitos morais não são afectados.
+
+2 - Se, na hipótese prevista no número anterior, o autor retiver as provas sem justificação por prazo superior a 60 dias, a impressão poderá prosseguir sem a sua revisão.
+
+> Alterado pelo/a Artigo 27.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 62.º — (Direito de retirada)
+
+O autor de obra divulgada ou publicada poderá retirá-la a todo o tempo da circulação e fazer cessar a respectiva utilização, sejam quais forem as modalidades desta, contanto que tenha razões morais atendíveis, mas deverá indemnizar os interessados pelos prejuízos que a retirada lhes causar.
+
+> Alterado pelo/a Artigo 27.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+### Capítulo VII — Do regime internacional
+
+> Republicado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Aditado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 63.º — (Competência da ordem jurídica portuguesa)
+
+A ordem jurídica portuguesa é em exclusivo a competente para determinar a protecção a atribuir a uma obra, sem prejuízo das convenções internacionais ratificadas ou aprovadas.
+
+> Republicado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 64.º — (Protecção das obras estrangeiras)
+
+As obras de autores estrangeiros ou que tiverem como país de origem um país estrangeiro beneficiam da protecção conferida pela lei portuguesa, sob reserva de reciprocidade, salvo convenção internacional em contrário a que o Estado Português esteja vinculado.
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 65.º — (País de origem de obra publicada)
+
+1 - A obra publicada tem como país de origem o país da primeira publicação.
+
+2 - Se a obra tiver sido publicada simultaneamente em vários países que concedam duração diversa ao direito de autor, considera-se como país de origem, na falta de tratado ou acordo internacional aplicável, aquele que conceder menor duração de protecção.
+
+3 - Considera-se publicada simultaneamente em vários países a obra publicada em dois ou mais países dentro de 30 dias a contar da primeira publicação, incluindo esta.
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 66.º — (País de origem de obra não publicada)
+
+1 - Relativamente às obras não publicadas, considera-se país de origem aquele a que pertence o autor.
+
+2 - Todavia, quanto às obras de arquitectura e de artes gráficas ou plásticas incorporadas num imóvel, considera-se país de origem aquele em que essas obras forem edificadas ou incorporadas numa construção.
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+## Título II — Da utilização da obra
+
+> Alterado pelo/a Artigo 28.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+### Capítulo I — Disposições gerais
+
+#### Secção I — Das modalidades de utilização
+
+###### Artigo 67.º — (Fruição e utilização)
+
+1 - O autor tem o direito exclusivo de fruir e utilizar a obra, no todo ou em parte, a obra literária ou artística, no que se compreendem, nomeadamente, as faculdades de a divulgar, publicar e explorar economicamente por qualquer forma, directa ou indirectamente, nos limites da lei.
+
+2 - A garantia das vantagens patrimoniais resultantes dessa exploração constitui, do ponto de vista económico, o objecto fundamental da protecção legal.
+
+> Alterado pelo/a Artigo 28.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 68.º — Formas de utilização
+
+1 - A exploração e, em geral, a utilização da obra podem fazer-se, segundo a sua espécie e natureza, por qualquer dos modos actualmente conhecidos ou que de futuro o venham a ser.
+
+2 - Assiste ao autor, entre outros, o direito exclusivo de fazer ou autorizar, por si ou pelos seus representantes:
+
+a) A publicação pela imprensa ou por qualquer outro meio de reprodução gráfica;
+
+b) A representação, recitação, execução, exibição ou exposição em público;
+
+c) A reprodução, adaptação, representação, execução, distribuição e exibição cinematográficas;
+
+d) A fixação ou adaptação a qualquer aparelho destinado à reprodução mecânica, eléctrica, electrónica ou química e a execução pública, transmissão ou retransmissão por esses meios;
+
+e) A difusão pela fotografia, telefotografia, televisão, radiofonia ou por qualquer outro processo de reprodução de sinais, sons ou imagens e a comunicação pública por altifalantes ou instrumentos análogos, por fios ou sem fios, nomeadamente por ondas hertzianas, fibras ópticas, cabo ou satélite, quando essa comunicação for feita por outro organismo que não o de origem;
+
+f) Qualquer forma de distribuição do original ou de cópias da obra, tal como venda, aluguer ou comodato;
+
+g) A tradução, adaptação, arranjo, instrumentação ou qualquer outra transformação da obra;
+
+h) Qualquer utilização em obra diferente;
+
+i) A reprodução directa ou indirecta, temporária ou permanente, por quaisquer meios e sob qualquer forma, no todo ou em parte;
+
+j) A colocação da obra à disposição do público, por fio ou sem fio, por forma a torná-la acessível a qualquer pessoa a partir do local e no momento por ela escolhido;
+
+l) A construção de obra de arquitectura segundo o projecto, quer haja ou não repetições.
+
+3 - Pertence em exclusivo ao titular do direito de autor a faculdade de escolher livremente os processos e as condições de utilização e exploração da obra.
+
+4 - As diversas formas de utilização da obra são independentes umas das outras e a adopção de qualquer delas pelo autor ou pessoa habilitada não prejudica a adopção das restantes pelo autor ou terceiros.
+
+5 - Os actos de disposição lícitos, mediante a primeira venda ou por outro meio de transferência de propriedade, esgotam o direito de distribuição do original ou de cópias, enquanto exemplares tangíveis, de uma obra na União Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 332/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1997-406493), em vigor a partir de 1997-12-01, produz efeitos a partir de 1994-07-01
+
+> Alterado pelo/a Artigo 29.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 69.º — (Autor incapaz)
+
+O criador intelectual incapaz pode exercer os direitos morais desde que tenha para tanto entendimento natural.
+
+###### Artigo 70.º — (Obras póstumas)
+
+1 - Cabe aos sucessores do autor decidir sobre a utilização das obras deste ainda não divulgadas nem publicadas.
+
+2 - Os sucessores que divulgarem ou publicarem uma obra póstuma terão em relação a ela os mesmos direitos que lhes caberiam se o autor a tivesse divulgado ou publicado em vida.
+
+3 - Se os sucessores não utilizarem a obra dentro de vinte e cinco anos a contar da morte do autor, salvo em caso de impossibilidade ou de demora divulgação ou publicação por ponderosos motivos ordem moral, que poderão ser apreciados judicialmente, não podem aqueles opor-se à divulgação ou publicação da obra, sem prejuízo dos direitos previstos no número anterior.
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 71.º — (Faculdade legal de tradução)
+
+A faculdade legal de utilização de uma obra sem prévio consentimento do autor implica a faculdade de a traduzir ou transformar por qualquer modo, na medida necessária para essa utilização.
+
+> Republicado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção II — Da gestão do direito de autor
+
+###### Artigo 72.º — (Poderes de gestão)
+
+Os poderes relativos à gestão do direito de autor podem ser exercidos pessoalmente pelo seu titular ou por intermédio de representante deste devidamente habilitado.
+
+> Alterado pelo/a Artigo 31.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 73.º — Representantes do autor
+
+1 - As associações e organismos nacionais ou estrangeiros constituídos para gestão do direito de autor desempenham essa função como representantes dos respectivos titulares, resultanto a representação da simples qualidade de sócio ou aderente ou da inscrição como beneficiário dos respectivos serviços.
+
+2 - As associações ou organismos referidos no n.º 1 têm capacidade judiciária para intervir civil e criminalmente em defesa dos interesses e direitos legítimos dos seus representados em matéria de direito de autor, sem prejuízo da intervenção de mandatário expressamente constituído pelos interessados.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 31.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 74.º — Registo da representação
+
+1 - O exercício da representação a que se refere o artigo anterior, expressamente conferido ou resultante das qualidades nele mencionadas, depende de registo na Direcção-Geral dos Espectáculos e do Direito de Autor.
+
+2 - A inscrição no registo faz-se mediante requerimento do representante, acompanhado de documento comprovativo da representação, podendo ser exigida tradução, se estiver redigido em língua estrangeira.
+
+3 - As taxas devidas pelos registos a que este artigo se refere e respectivos certificados são as que constam da tabela anexa ao presente Código e que dele faz parte integrante.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 31.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção III — Utilização de obras fora do circuito comercial
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 74.º-A — Obra fora do circuito comercial e instituição responsável pelo património cultural
+
+1 - Considera-se que uma obra ou outro material protegido estão fora do circuito comercial quando se possa presumir de boa-fé que a obra ou outro material protegido não estão, na sua totalidade, acessíveis ao público através dos canais habituais de comércio, depois de se efetuar um esforço razoável para se determinar a sua disponibilidade ao público.
+
+2 - Um conjunto de obras ou outro material protegido por lei, na sua globalidade, estão fora do circuito comercial quando for razoável presumir que todas as obras ou outro material protegido que integram o mesmo estão fora do circuito comercial.
+
+3 - Sem prejuízo do disposto no número seguinte, o disposto na presente secção não se aplica:
+
+a) Aos conjuntos de obras ou outros materiais protegidos fora do circuito comercial se, tendo em conta o esforço razoável a que alude o n.º 1, subsistirem provas de que tais conjuntos consistem, predominantemente, em obras ou outros materiais protegidos que pela primeira vez tenham sido publicados, ou, na falta de publicação, difundidos, num país terceiro;
+
+b) A obras cinematográficas ou audiovisuais cujos produtores tenham a sua sede ou residência habitual num país terceiro;
+
+c) A obras ou outros materiais protegidos por lei de nacionais de países terceiros, caso, após um esforço razoável, não tenha sido possível determinar o Estado-Membro da União Europeia ou país terceiro.
+
+4 - Mesmo nos casos previstos no número anterior, o disposto na presente secção é, ainda assim, aplicável, caso a entidade de gestão coletiva referida no artigo seguinte seja suficientemente representativa dos titulares de direitos no país terceiro em causa.
+
+5 - O esforço razoável para determinar que um conjunto de obras ou outro material protegido na sua globalidade está fora do circuito comercial incumbe às instituições responsáveis pelo património cultural, que pretendam prevalecer-se do mecanismo de licenciamento coletivo previsto na presente secção, e não deve implicar encargos desproporcionados ou ações repetidas ao longo do tempo, devendo, no entanto, ter em consideração todos os dados facilmente acessíveis sobre a disponibilidade futura de obras ou outro material protegido nos canais habituais de comércio.
+
+6 - No caso das obras a título individual, a avaliação apenas deve ser exigida se tal for considerado razoável, tendo em conta a disponibilidade de informações pertinentes, a probabilidade de disponibilidade comercial e o custo provável da operação.
+
+7 - A verificação da disponibilidade de uma obra ou outro material protegido deve, por regra, ter lugar no território do Estado-Membro da União Europeia onde está estabelecida a instituição responsável pelo património cultural, exceto se a verificação transfronteiriça for considerada razoável.
+
+8 - O estatuto de um conjunto de obras ou outro material protegido fora do circuito comercial pode ser igualmente determinado através de um mecanismo proporcionado, designadamente a amostragem.
+
+9 - Para efeitos do disposto na presente secção e no artigo 75.º, considera-se:
+
+a) 'Instituição responsável pelo património cultural' uma biblioteca ou um museu que sejam acessíveis ao público, um arquivo, um estabelecimento de ensino, ou um organismo de investigação e de radiodifusão do setor público, no que diz respeito aos seus arquivos, ou uma instituição responsável pelo património cinematográfico ou sonoro;
+
+b) Que uma obra ou outro material protegido é parte integrante e permanente das coleções de uma instituição responsável pelo património cultural quando as cópias dessa obra ou outro material protegido sejam propriedade ou estejam definitivamente na posse dessa instituição, nomeadamente na sequência de transferências de propriedade, acordos de concessão de licenças, obrigações de depósito legal ou acordos de custódia a longo prazo.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 74.º-B — Utilizações de obras fora do circuito comercial
+
+1 - Uma entidade de gestão coletiva pode atribuir a uma instituição responsável pelo património cultural uma licença não exclusiva para reproduzir, distribuir, comunicar ao público ou colocar à disposição do público obras ou outros materiais protegidos que, estando fora do circuito comercial, integrem, com caráter permanente, as coleções dessa mesma instituição, nos termos do presente artigo.
+
+2 - A licença referida no número anterior deve ser solicitada a uma ou mais das entidades de gestão coletiva de direitos de autor ou de direitos conexos consoante o tipo de obra ou prestação e as categorias de titulares de direitos em causa, no Estado-Membro da União Europeia em que está estabelecida a instituição responsável pelo património cultural.
+
+3 - As licenças não exclusivas concedidas nos termos do n.º 1 abrangem os titulares dos direitos que sejam membros da entidade de gestão coletiva responsável pela concessão de tais licenças, bem como os titulares de direitos da mesma categoria que não tiverem conferido um mandato à referida entidade de gestão coletiva.
+
+4 - As licenças concedidas nos termos do presente artigo podem permitir a sua utilização em qualquer Estado-Membro da União Europeia.
+
+5 - São excluídas do âmbito das licenças quaisquer utilizações com fins lucrativos, sem prejuízo da possibilidade de as instituições responsáveis pelo património cultural poderem obter receitas com tais utilizações, desde que demonstrem que as mesmas se destinam exclusivamente a cobrir os custos com a licença e os custos inerentes aos processos técnicos diretamente relacionados com a digitalização e disponibilização das obras ou outros materiais protegidos.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 74.º-C — Procedimento e publicitação
+
+1 - Às licenças previstas no artigo anterior é aplicável o previsto nos artigos 36.º-A e 36.º-B da Lei n.º 26/2015, de 14 de abril, na sua redação atual, e o disposto nos números seguintes.
+
+2 - As entidades de gestão coletiva e as instituições responsáveis pelo património cultural devem divulgar, sempre que aplicável, nos seis meses anteriores ao início de qualquer utilização que venha a ser efetuada ao abrigo de uma licença referida no artigo anterior, as informações sobre as partes nos acordos de licença, as utilizações concretas objeto de licenciamento e os territórios abrangidos, bem como todos os elementos disponíveis relativos às obras fora do circuito comercial concretamente abrangidas.
+
+3 - As informações referidas no número anterior devem ser publicitadas no sítio na Internet das entidades de gestão coletiva de direito de autor e direitos conexos, e comunicadas ao portal público em linha criado e gerido pelo Instituto da Propriedade Intelectual da União Europeia, nos termos do Regulamento (UE) n.º 386/2012, do Parlamento e do Conselho, de 19 de abril de 2012.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 74.º-D — Utilizações livres de obra fora do circuito comercial
+
+1 - Caso não exista uma entidade de gestão coletiva que satisfaça as condições estabelecidas nos artigos anteriores, bem como na legislação complementar relativa a entidades de gestão coletiva, as instituições responsáveis pelo património cultural podem proceder à reprodução, comunicação ao público e colocação à disposição do público de obras ou outros materiais protegidos, fora do circuito comercial, que tenham sido publicadas, comunicadas ao público ou colocadas à disposição do público em data anterior a 1 de janeiro de 1980 e que façam parte com caráter permanente das suas coleções, desde que essas obras ou outros materiais protegidos sejam disponibilizados em sítios na Internet não comerciais.
+
+2 - As utilizações previstas no número anterior:
+
+a) Consideram-se como ocorrendo exclusivamente no território do Estado-Membro da União Europeia onde está estabelecida a instituição responsável pelo património cultural que procede a essa utilização;
+
+b) Estão sujeitas, com as necessárias adaptações, ao disposto nos artigos 74.º-A e 74.º-C, bem como o disposto nos n.os 5 a 7 do artigo 36.º-A, na alínea b) do n.º 1 e no n.º 4 do artigo 36.º-B da Lei n.º 26/2015, de 14 de abril, na sua redação atual, competindo às instituições responsáveis pelo património cultural assegurar as comunicações e medidas de publicitação, bem como os direitos dos titulares, aí previstos;
+
+c) Não podem ter quaisquer fins comerciais diretos ou indiretos.
+
+3 - É aplicável às utilizações previstas no n.º 1 o disposto no n.º 4 do artigo 75.º e no n.º 1 do artigo 221.º
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+#### Secção IV — Do acesso a obras audiovisuais através de plataformas de vídeo a pedido e disponibilidade das mesmas
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 74.º-E — Mecanismos de negociação
+
+1 - Quando as partes interessadas em celebrar um acordo, com vista a obter uma autorização para a utilização de obras audiovisuais em serviços de vídeo a pedido, não alcancem um acordo relativo aos termos e condições do acordo, podem recorrer a centro de arbitragem institucionalizada a que se reporta o artigo 8.º do Decreto-Lei n.º 47/2023, de 19 de junho.
+
+2 - Nas situações previstas no número anterior, os mediadores devem prestar assistência às partes nas negociações e ajudá-las a chegar a acordo, apresentando-lhes, nomeadamente, se for caso disso, propostas para o efeito.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+### Capítulo II — Da utilização livre e permitida
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+#### Secção i — Da utilização livre
+
+> Aditado pelo/a Artigo 7.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+###### Artigo 75.º — Âmbito
+
+1 - São excluídos do direito de reprodução os actos de reprodução temporária que sejam transitórios, episódicos ou acessórios, que constituam parte integrante e essencial de um processo tecnológico e cujo único objectivo seja permitir uma transmissão numa rede entre terceiros por parte de um intermediário, ou uma utilização legítima de uma obra protegida e que não tenham, em si, significado económico, incluindo, na medida em que cumpram as condições expostas, os actos que possibilitam a navegação em redes e a armazenagem temporária, bem como os que permitem o funcionamento eficaz dos sistemas de transmissão, desde que o intermediário não altere o conteúdo da transmissão e não interfira com a legítima utilização da tecnologia conforme os bons usos reconhecidos pelo mercado, para obter dados sobre a utilização da informação, e em geral os processos meramente tecnológicos de transmissão.
+
+2 - São lícitas, sem o consentimento do autor, as seguintes utilizações da obra:
+
+a) A reprodução de obra, para fins exclusivamente privados, em papel ou suporte similar, realizada através de qualquer tipo de técnica fotográfica ou processo com resultados semelhantes, com excepção das partituras, bem como a reprodução em qualquer meio realizada por pessoa singular para uso privado e sem fins comerciais directos ou indirectos;
+
+b) A reprodução e a colocação à disposição do público, pelos meios de comunicação social, para fins de informação, de discursos, alocuções e conferências pronunciadas em público que não entrem nas categorias previstas no artigo 7.º, por extracto ou em forma de resumo;
+
+c) A seleção regular de artigos de imprensa periódica, que não tenha por objetivo a obtenção de vantagem económica ou comercial, direta ou indireta;
+
+d) A fixação, reprodução e comunicação pública, por quaisquer meios, de fragmentos de obras literárias ou artísticas, quando a sua inclusão em relatos de acontecimentos de actualidade for justificada pelo fim de informação prosseguido;
+
+e) A reprodução, no todo ou em parte, de uma obra que tenha sido previamente tornada acessível ao público, desde que tal reprodução seja realizada por uma biblioteca pública, um arquivo público, um museu público, um centro de documentação não comercial ou uma instituição científica ou de ensino, e que essa reprodução e o respectivo número de exemplares se não destinem ao público, se limitem às necessidades das actividades próprias dessas instituições e não tenham por objectivo a obtenção de uma vantagem económica ou comercial, directa ou indirecta, incluindo os actos de reprodução necessários à preservação e arquivo de quaisquer obras;
+
+f) A reprodução, distribuição e disponibilização pública, para fins de ensino e educação, de partes de uma obra publicada, contanto que se destinem exclusivamente aos objectivos do ensino nesses estabelecimentos e não tenham por objectivo a obtenção de uma vantagem económica ou comercial, directa ou indirecta;
+
+g) A reprodução, a comunicação ao público ou a colocação à disposição do público, a fim de permitir a utilização digital, de obras e outro material protegido, que tenham sido previamente tornados acessíveis ao público em qualquer território pertencente à União Europeia, ou equiparado, para fins exclusivos de ilustração didática, na medida justificada pelo objetivo não comercial prosseguido e desde que tal utilização ocorra sob a responsabilidade de um estabelecimento de educação e ensino, nas suas instalações ou noutros locais, ou através de um meio eletrónico seguro acessível apenas pelos alunos, docentes e técnicos em contexto escolar desse mesmo estabelecimento de educação e ensino e seja acompanhada da indicação da fonte, incluindo o nome do autor, exceto quando tal se revele impossível;
+
+h) A inserção de citações ou resumos de obras alheias, quaisquer que sejam o seu género e natureza, em apoio das próprias doutrinas ou com fins de crítica, discussão ou ensino, e na medida justificada pelo objectivo a atingir;
+
+i) A inclusão de peças curtas ou fragmentos de obras alheias em obras próprias destinadas ao ensino;
+
+j) A reprodução, a comunicação pública e a colocação à disposição do público a favor de pessoas com deficiência de obra que esteja diretamente relacionada e na medida estritamente exigida por essas específicas deficiências e desde que não tenham, direta ou indiretamente, fins lucrativos, sem prejuízo do disposto nos artigos 82.º-A, 82.º-B e 82.º-C;
+
+k) A execução e comunicação públicas de hinos ou de cantos patrióticos oficialmente adoptados e de obras de carácter exclusivamente religioso durante os actos de culto ou as práticas religiosas;
+
+l) A utilização de obra para efeitos de publicidade relacionada com a exibição pública ou venda de obras artísticas, na medida em que tal seja necessário para promover o acontecimento, com exclusão de qualquer outra utilização comercial;
+
+m) A reprodução, comunicação ao público ou colocação à disposição do público de artigos de actualidade, de discussão económica, política ou religiosa, de obras radiodifundidas ou de outros materiais da mesma natureza, se não tiver sido expressamente reservada;
+
+n) A utilização de obra para efeitos de segurança pública ou para assegurar o bom desenrolar ou o relato de processos administrativos, parlamentares ou judiciais;
+
+o) A comunicação ou colocação à disposição do público, para efeitos de investigação ou estudos pessoais, a membros individuais do público por terminais destinados para o efeito nas instalações de bibliotecas, museus, arquivos públicos e escolas, de obras protegidas não sujeitas a condições de compra ou licenciamento, e que integrem as suas colecções ou acervos de bens;
+
+p) A reprodução de obra, efectuada por instituições sociais sem fins lucrativos, tais como hospitais e prisões, quando a mesma seja transmitida por radiodifusão;
+
+q) A utilização de obras, como, por exemplo, obras de arquitectura ou escultura, feitas para serem mantidas permanentemente em locais públicos;
+
+r) A inclusão episódica de uma obra ou outro material protegido noutro material;
+
+s) A utilização de obra relacionada com a demonstração ou reparação de equipamentos;
+
+t) A utilização de uma obra artística sob a forma de um edifício, de um desenho ou planta de um edifício para efeitos da sua reconstrução ou reparação.
+
+u) A reprodução e a colocação à disposição do público de obras órfãs, para fins de digitalização, indexação, catalogação, preservação ou restauro e ainda os atos funcionalmente conexos com as referidas faculdades, por parte de bibliotecas, estabelecimentos de ensino, museus, arquivos, instituições responsáveis pelo património cinematográfico ou sonoro e organismos de radiodifusão de serviço público, no âmbito dos seus objetivos de interesse público, nomeadamente o direito de acesso à informação, à educação e à cultura, incluindo a fruição de bens intelectuais.
+
+v) O ato de reprodução de obras ou outro material protegido, desde que legalmente acessíveis, quando efetuadas por organismos de investigação ou por instituições responsáveis pelo património cultural, para a realização de prospeção de textos e dados relativos a tais obras ou material protegido, para fins de investigação científica;
+
+w) O ato de reprodução de obra ou outro material protegido, desde que legalmente acessíveis, para fins de prospeção de textos e dados, desde que tal utilização não tenha sido expressamente reservada pelos respetivos titulares de direitos de forma adequada, em particular por meio de leitura ótica no caso de conteúdos disponibilizados ao público em linha, sem prejuízo do disposto na alínea anterior;
+
+x) A reprodução, comunicação ao público e colocação à disposição do público de obras por forma a torná-las acessíveis a qualquer pessoa a partir do local e no momento por ela escolhido, para efeito de caricatura, paródia ou pastiche;
+
+y) A reprodução, por parte de instituições responsáveis pelo património cultural, para obtenção de cópias de obras e outro material protegido que integrem, com caráter permanente, as suas coleções, independentemente do formato ou suporte, exclusivamente para garantia da sua conservação e na medida em que tal seja necessário para assegurar essa conservação.
+
+3 - É também lícita a distribuição dos exemplares licitamente reproduzidos, na medida justificada pelo objectivo do acto de reprodução.
+
+4 - Os modos de exercício das utilizações previstas nos números anteriores não devem atingir a exploração normal da obra, nem causar prejuízo injustificado aos interesses legítimos do autor.
+
+5 - É nula toda e qualquer cláusula contratual que vise eliminar ou impedir o exercício normal pelos beneficiários das utilizações enunciadas nos n.os 1, 2 e 3 deste artigo, sem prejuízo da possibilidade de as partes acordarem livremente nas respectivas formas de exercício, designadamente no respeitante aos montantes das remunerações equitativas.
+
+6 - Para efeitos do disposto no presente Código, considera-se:
+
+a) 'Organismo de investigação' uma universidade, incluindo as suas bibliotecas, um instituto de investigação, um hospital que se dedique à investigação ou qualquer outra entidade cujo principal objetivo seja a realização de investigação científica ou o exercício de atividades didáticas que envolvam igualmente a realização de investigação científica, sem fins lucrativos ou cuja totalidade dos lucros seja estatutária e efetivamente destinada ao reinvestimento na investigação científica ou que desenvolva a sua atividade no quadro de uma missão de interesse público reconhecida por um Estado-Membro da União Europeia e, em qualquer caso, de modo a que o acesso aos resultados provenientes dessa investigação científica não possa beneficiar, em condições preferenciais, uma empresa que exerça uma influência decisiva sobre esse organismo;
+
+b) 'Prospeção de textos e dados' qualquer técnica de análise automática destinada à análise de textos e dados em formato digital, a fim de produzir informações, tais como padrões, tendências e correlações, entre outros.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2015 - Diário da República n.º 80/2015, Série I de 2015-04-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2015-67072250), em vigor a partir de 2015-04-25
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 32.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 76.º — Requisitos
+
+1 - A utilização livre a que se refere o artigo anterior deve ser acompanhada:
+
+a) Da indicação, sempre que possível, do nome do autor e do editor, do título da obra e demais circunstâncias que os identifiquem;
+
+b) Nos casos das alíneas a) e e) do n.º 2 do artigo anterior, de uma remuneração equitativa a atribuir ao autor e ao editor pela entidade que tiver procedido à reprodução;
+
+c) No caso da alínea i) do n.º 2 do artigo anterior, de uma remuneração equitativa a atribuir ao autor e ao editor;
+
+d) No caso da alínea p) do n.º 2 do artigo anterior, de uma remuneração equitativa a atribuir aos titulares de direitos.
+
+2 - As obras reproduzidas ou citadas, nos casos das alíneas b), d), e), f), g), h) e i) do n.º 2 do artigo anterior, não se devem confundir com a obra de quem as utilize, nem a reprodução ou citação podem ser tão extensas que prejudiquem o interesse por aquelas obras.
+
+3 - Só o autor tem o direito de reunir em volume as obras a que se refere a alínea b) do n.º 2 do artigo anterior.
+
+4 - As reproduções de obras ou outro material protegido, efetuadas nos termos das alíneas v) e w) do n.º 2 do artigo anterior, devem ser armazenadas com um nível de segurança adequado e podem ser conservadas para fins de investigação científica enquanto for necessário para prospeção de textos e dados, incluindo para verificação dos resultados da investigação.
+
+5 - Os titulares de direitos podem aplicar medidas para garantir a segurança e a integridade das redes e bases de dados em que as obras ou outro material protegido são conservados para a aplicação do disposto na alínea v) do n.º 2 do artigo anterior, desde que tais medidas não excedam o necessário para alcançar tal objetivo, nem prejudiquem a aplicação efetiva da exceção ali prevista, podendo, designadamente, abranger a validação de acesso por endereços IP selecionados ou a autenticação de utilizadores.
+
+6 - Cabe aos titulares dos direitos de autor e conexos, incluindo direitos desta natureza previstos em leis avulsas, bem como aos organismos de investigação e às instituições responsáveis pelo património cultural, a definição das melhores práticas acordadas para a aplicação do disposto nos n.os 4 e 5.
+
+7 - As utilizações previstas nas alíneas g) e y) do n.º 2 do artigo anterior devem ser consideradas como ocorrendo exclusivamente no território do Estado-Membro da União Europeia onde o estabelecimento de ensino ou a instituição responsável pelo património cultural que procedam às utilizações em causa se encontrem estabelecidos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 33.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 77.º — (Comentários, anotações e polémicas)
+
+1 - Não é permitida a reprodução de obra alheia sem autorização do autor sob pretexto de a comentar ou anotar, sendo, porém, lícito publicar em separata comentários ou anotações próprias com simples referências a capítulos, parágrafos ou páginas de obra alheia.
+
+2 - O autor que reproduzir em livro ou opúsculo os seus artigos, cartas ou outros textos de polémica publicados em jornais ou revistas poderá reproduzir também os textos adversos, assistindo ao adversário ou adversários igual direito, mesmo após a publicação feita por aquele.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105)
+
+> Alterado pelo/a Artigo 33.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 78.º — (Publicação de obra não protegida)
+
+1 - Aqueles que publicarem manuscritos existentes em bibliotecas ou arquivos, públicos ou particulares, não podem opor-se a que os mesmos sejam novamente publicados por outrem, salvo se essa publicação for reprodução da lição anterior.
+
+2 - Podem igualmente opor-se a que seja reproduzida a sua lição divulgada de obra não protegida aqueles que tiverem procedido a uma fixação ou a um estabelecimento ou restabelecimento do texto susceptíveis de alterar substancialmente a respectiva tradição corrente.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105)
+
+> Alterado pelo/a Artigo 33.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 79.º — (Prelecções)
+
+1 - As prelecções dos professores só podem ser publicadas por terceiro com autorização dos autores, mesmo que se apresentem como relato da responsabilidade pessoal de quem as publica.
+
+2 - Não havendo especificação, considera-se que a publicação só se pode destinar ao uso dos alunos.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105)
+
+> Alterado pelo/a Artigo 33.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 80.º — (Processo Braille)
+
+Será sempre permitida a reprodução ou qualquer espécie de utilização, pelo processo Braille ou outro destinado a invisuais, de obras licitamente publicadas, contanto que essa reprodução ou utilização não obedeça a intuito lucrativo.
+
+> Revogado pelo/a Artigo 10.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 81.º — Outras utilizações
+
+É ainda consentida a reprodução:
+
+a) Em exemplar único, para fins de interesse exclusivamente científico ou humanitário, do obras ainda não disponíveis no comércio ou de obtenção impossível, pelo tempo necessário à sua utilização;
+
+b) Para uso exclusivamente privado, desde que não atinja a exploração normal da obra e não cause prejuízo injustificado dos interesses legítimos do autor, não podendo ser utilizada para quaisquer fins de comunicação pública ou comercialização.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105)
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 35.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 82.º — Compensação pela fixação e reprodução
+
+1 - No preço de venda ao público de todos e quaisquer aparelhos mecânicos, químicos, eléctricos, electrónicos ou outros que permitam a fixação e reprodução de obras e, bem assim, de todos e quaisquer suportes materiais das fixações e reproduções que por qualquer desses meios possam obter-se, incluir-se-á uma quantia destinada a beneficiar os autores, os artistas, intérpretes ou executantes, os editores e os produtores fonográficos e videográficos.
+
+2 - (Revogado).
+
+3 - O disposto no n.º 1 não se aplica quando os aparelhos e suportes ali mencionados sejam adquiridos por órgãos de comunicação social e organismos de comunicação audiovisual ou produtores de fonogramas e videogramas exclusivamente para as suas próprias produções ou por organismos que os utilizem para fins exclusivos de auxílio a diminuídos físicos visuais ou auditivos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105)
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 36.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção II — Da utilização permitida
+
+> Aditado pelo/a Artigo 7.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+###### Artigo 82.º-A — Definições
+
+Para efeitos da presente secção, entende-se por:
+
+a) 'Obra ou outro material' uma obra protegida nos termos do presente Código, publicada ou licitamente disponibilizada ao público, sob a forma de um livro, uma publicação periódica, um jornal, uma revista ou outros tipos de escritos ou notações, incluindo partituras, bem como ilustrações conexas, independentemente do respetivo suporte, incluindo sob formato sonoro, como audiolivros, e sob a forma digital;
+
+b) 'Pessoa beneficiária' independentemente de qualquer outra deficiência, uma pessoa cega ou uma pessoa com deficiência visual que não possa ser minorada de modo a proporcionar uma função visual substancialmente equivalente à de uma pessoa não afetada por essa deficiência, e que, nessa medida, seja incapaz de ler obras impressas na mesma medida que uma pessoa não afetada por essa deficiência; ou uma pessoa que tenha uma dificuldade em termos de perceção ou leitura e que, consequentemente, seja incapaz de ler obras impressas na mesma medida que uma pessoa não afetada por tal dificuldade; ou uma pessoa que seja incapaz, devido a uma deficiência física, de segurar ou manusear um livro ou de fixar ou deslocar os olhos de uma forma que permita a leitura;
+
+c) 'Cópia em formato acessível' uma cópia de uma obra ou outro material, num suporte ou formato alternativo que permita à pessoa beneficiária o acesso à obra ou outro material, nomeadamente que lhe permita dispor de um acesso tão fácil e confortável quanto uma pessoa não afetada pelas deficiências ou pelas dificuldades referidas na alínea anterior. Os formatos acessíveis incluem, designadamente, braille, letras grandes, livros digitais adaptados, audiolivros e radiodifusão;
+
+d) 'Entidade autorizada' uma entidade autorizada ou reconhecida por um Estado-Membro para prestar, às pessoas beneficiárias, serviços sem fins lucrativos em matéria de educação, formação pedagógica, leitura adaptada ou acesso à informação. Aqui se incluem as instituições públicas ou organizações sem fins lucrativos que proporcionem os mesmos serviços aos beneficiários no quadro de uma das suas atividades principais, obrigações institucionais ou enquanto parte das suas missões de interesse público.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+###### Artigo 82.º-B — Utilizações permitidas
+
+1 - São lícitas, sem o consentimento do titular do direito de autor e direito conexo, as utilizações de uma obra ou outro material, sem intuito lucrativo, em benefício de pessoas beneficiárias nos termos do presente artigo.
+
+2 - As utilizações previstas no número anterior referem-se aos atos de reprodução, radiodifusão, comunicação ao público, incluindo a sua colocação à disposição do público, distribuição, comodato, bem como os atos previstos nos artigos 7.º e 12.º do Decreto-Lei n.º 122/2000, de 4 de julho, e os previstos nos artigos 5.º e 8.º do Decreto-Lei n.º 252/94, de 20 de outubro, na sua redação atual, desde que sejam necessários para que:
+
+a) Uma pessoa beneficiária ou uma pessoa que atue em seu nome faça uma cópia em formato acessível de uma obra ou de outro material a que tenha acesso legal para a utilização exclusiva da mesma;
+
+b) Uma entidade autorizada faça uma cópia em formato acessível de uma obra ou outro material a que tenha um acesso legal ou que comunique, coloque à disposição, distribua ou disponibilize em comodato, sem fins lucrativos, uma cópia em formato acessível à pessoa beneficiária ou outra entidade autorizada para efeitos de utilização exclusiva daquela.
+
+3 - Cada cópia em formato acessível deverá respeitar a integridade da obra ou outro material, tendo em consideração as alterações necessárias para disponibilizar a obra ou outro material em formato alternativo.
+
+4 - A exceção e os modos de exercício das utilizações previstos no presente artigo não devem atingir a exploração normal da obra ou outro material, nem causar prejuízo injustificado aos interesses legítimos do titular do direito.
+
+5 - É nula a cláusula contratual que vise eliminar ou impedir o exercício normal, pela pessoa beneficiária, das utilizações previstas no presente artigo.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+###### Artigo 82.º-C — Entidades autorizadas
+
+1 - As entidades autorizadas estabelecidas no território nacional que realizem as atividades previstas na alínea b) do n.º 2 do artigo anterior devem garantir, nas suas práticas:
+
+a) Que a distribuição, comunicação e colocação à disposição de cópias em formato acessível se faça unicamente a favor de pessoas beneficiárias ou de outras entidades autorizadas;
+
+b) A adoção de medidas adequadas para desincentivar a reprodução, distribuição, comunicação ou disponibilização ao público de cópias não autorizadas em formato acessível;
+
+c) A adoção das devidas diligências para assegurar o registo adequado e a utilização correta das obras ou de outro material, bem como das respetivas cópias em formato acessível;
+
+d) A publicação e atualização, no seu sítio na Internet se for caso disso, ou através de outros canais, online ou offline, de informações sobre a forma como dá cumprimento às obrigações previstas nas alíneas anteriores.
+
+2 - As práticas referidas no número anterior devem ser estabelecidas e seguidas com respeito pelas regras aplicáveis ao tratamento dos dados pessoais das pessoas beneficiárias.
+
+3 - As entidades autorizadas estabelecidas no território nacional podem realizar os atos previstos na alínea b) do n.º 2 do artigo anterior a favor de uma pessoa beneficiária ou outra entidade autorizada estabelecida em qualquer outro Estado-Membro.
+
+4 - Uma pessoa beneficiária ou entidade autorizada no seu território pode obter ou ter acesso a uma cópia em formato acessível junto de uma entidade autorizada estabelecida em qualquer Estado-Membro.
+
+5 - As entidades autorizadas estabelecidas no território nacional, que levem a cabo as atividades referidas na alínea b) do n.º 2 do artigo anterior, devem fornecer as seguintes informações, mediante pedido e de forma acessível, a qualquer pessoa beneficiária, entidade autorizada ou titular do direito:
+
+a) A lista das obras ou de outro material das quais detenham cópias em formato acessível e os formatos disponíveis; e
+
+b) A denominação e os dados de contacto das entidades autorizadas com as quais tenham efetuado o intercâmbio de cópias em formato acessível nos termos da alínea b) do n.º 2 do artigo anterior.
+
+6 - As entidades autorizadas que levem a cabo as atividades referidas na alínea b) do n.º 2 do artigo anterior, nos termos dos n.os 3 e 4, devem comunicar ao Instituto Nacional para a Reabilitação, I. P., os nomes e contactos das demais entidades.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+### Capítulo III — Das utilizações em especial
+
+#### Secção I — Da edição
+
+###### Artigo 83.º — (Contrato de edição)
+
+Considera-se de edição o contrato pelo qual o autor concede a outrem, nas condições nele estipuladas ou previstas na lei, autorização para produzir por conta própria um número determinado de exemplares de uma obra ou conjunto de obras, assumindo a outra parte a obrigação de os distribuir e vender.
+
+> Alterado pelo/a Artigo 36.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 84.º — (Outros contratos)
+
+1 - Não se considera contrato de edição o acordo pelo qual o autor encarrega outrem de:
+
+a) Produzir por conta própria um determinado número de exemplares de uma obra e assegurar o seu depósito, distribuição e venda, convencionando as partes dividir entre si os lucros ou os prejuízos da respectiva exploração;
+
+b) Produzir um determinado número de exemplares da obra e assegurar o seu depósito, distribuição e venda por conta e risco do titular do direito, contra o pagamento de certa quantia fixa ou proporcional;
+
+c) Assegurar o depósito, distribuição e venda dos exemplares da obra por ele mesmo produzidos, mediante pagamento de comissão ou qualquer outra forma de retribuição.
+
+2 - O contrato correspondente às situações caracterizadas no número anterior rege-se pelo que estipula o seu teor, subsidiariamente pelas disposições legais relativas à associação em participação, no caso da alínea a), e ao contrato de prestação de serviços, nos casos das alíneas b) e c), e supletivamente pelos usos correntes.
+
+> Alterado pelo/a Artigo 37.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 85.º — (Objecto)
+
+O contrato de edição pode ter por objecto uma ou mais obras, existentes ou futuras, inéditas ou publicadas.
+
+> Alterado pelo/a Artigo 37.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 86.º — (Conteúdo)
+
+1 - O contrato de edição deve mencionar o número de edições que abrange, o número de exemplares que cada edição compreenderá e o preço de venda ao público de cada exemplar.
+
+2 - Se o número de edições não tiver sido contratualmente fixado, o editor só está autorizado a fazer uma.
+
+3 - Se o contrato de edição for omisso quanto ao número de exemplares a tirar, o editor fica obrigado a produzir, pelo menos, 2000 exemplares da obra.
+
+4 - O editor que produzir exemplares em número inferior ao convencionado poderá ser coagido a completar a edição e, se o não fizer, poderá o titular do direito de autor contratar com outrem, a expensas do editor, a produção do número de exemplares em falta, sem prejuízo do direito a exigir deste indemnização por perdas e danos.
+
+5 - Se o editor produzir exemplares em número superior ao convencionado, poderá o titular do direito de autor requerer a apreensão judicial dos exemplares a mais e apropriar-se deles, perdendo o editor o custo desses exemplares.
+
+6 - Nos casos de o editor já ter vendido, total ou parcialmente, os exemplares a mais, ou de o titular do direito de autor não ter requerido a apreensão, o editor indemnizará este último por perdas e danos.
+
+7 - O autor tem o direito de fiscalizar, por si ou seu representante, o número de exemplares da edição. Para esse efeito pode, nos termos da lei, exigir exame à escrituração comercial do editor ou da empresa que produziu os exemplares, se esta não pertencer ao editor, ou recorrer a outro meio que não interfira com o fabrico da obra, como seja a aplicação da sua assinatura ou chancela em cada exemplar.
+
+> Alterado pelo/a Artigo 37.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 87.º — (Forma)
+
+1 - O contrato de edição só terá validade quando celebrado por escrito.
+
+2 - A nulidade resultante da falta de redução do contrato a escrito presume-se imputável ao editor e só poderá ser invocada pelo autor.
+
+> Alterado pelo/a Artigo 37.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 88.º — (Efeitos)
+
+1 - O contrato de edição não implica a transmissão, permanente ou temporária, para o editor do direito de publicar a obra, mas apenas a concessão de autorização para a reproduzir e comercializar nos precisos termos do contrato.
+
+2 - A autorização para a edição não confere ao editor o direito de traduzir a obra, de a transformar ou adaptar a outros géneros ou formas de utilização, direito esse que fica sempre reservado ao autor.
+
+3 - O contrato de edição, salvo o disposto no artigo 103.º, n.º 1 ou estipulação em contrário, inibe o autor de fazer ou autorizar nova edição da mesma obra na mesma língua, no País ou no estrangeiro, enquanto, não estiver esgotada a edição anterior ou não tiver decorrido o prazo estipulado, excepto se sobrevierem circunstâncias tais que prejudiquem o interesse da edição e tornem necessária a remodelação ou actualização da obra.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 89.º — (Obrigações do autor)
+
+1 - O autor obriga-se a proporcionar ao editor os meios necessários para cumprimento do contrato, devendo, nomeadamente, entregar, nos prazos convencionados, o original da obra objecto da edição em condições de poder fazer-se a reprodução.
+
+2 - O original referido no número anterior pertence ao autor, que tem o direito de exigir a sua restituição logo que esteja concluída a edição.
+
+3 - Se o autor demorar injustificadamente a entrega do original, de modo a comprometer a expectativa do editor, pode este rescindir o contrato, sem embargo do pedido de indemnização por perdas e danos.
+
+4 - O autor é obrigado a assegurar ao editor o exercício dos direitos emergentes do contrato de edição contra os embaraços e turbações provenientes de direitos de terceiros em relação à obra a que respeita o contrato, mas não contra embaraços e turbações provocados por mero facto de terceiro.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 90.º — Obrigações do editor
+
+1 - O editor é obrigado a consagrar à execução da edição os cuidados necessários à reprodução da obra nas condições convencionadas e a fomentar, com zelo e diligência, a sua promoção e a colocação no mercado dos exemplares produzidos, devendo, em caso de incumprimento, indemnização ao autor por perdas e danos.
+
+2 - Não havendo convenção em contrário, o editor deve iniciar a reprodução da obra no prazo de 6 meses a contar da entrega do original e concluída no prazo de 12 meses a contar da mesma data, salvo caso de força maior devidamente comprovado, em que o editor deve concluir a reprodução no semestre seguinte à expiração deste último prazo.
+
+3 - Não se consideram casos de força maior a falta de financeiros para custear a edição nem o agravamento dos respectivos custos.
+
+4 - Se a obra versar assunto do grande actualidade ou de natureza tal que perca o interesse ou a oportunidade em caso de demora na publicação, o editor será obrigado a dar início imediato à reprodução e a tê-la concluída em prazo susceptível de evitar os prejuízos da perda referida.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 39.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 91.º — Retribuição
+
+1 - O contrato de edição presume-se oneroso.
+
+2 - A retribuição do autor é a estipulada no contrato de edição e pode consistir numa quantia fixa, a pagar pela totalidade da edição, numa percentagem sobre o preço, de capa de cada exemplar, na atribuição ele certo número de exemplares, ou em prestação estabelecida em qualquer outra base, segundo a natureza da obra podendo sempre recorrer-se à combinação das modalidades.
+
+3 - Na falta de estipulação quanto à retribuição do autor, tem este direito a 25% sobre o preço de capa de cada exemplar vendido.
+
+4 - Se a retribuição consistir numa percentagem sobre o preço de capa, incidirão no seu cálculo os aumentos ou reduções do respectivo preço.
+
+5 - Exceptuado o caso do artigo 99.º, o editor só pode determinar reduções do preço com o acordo do autor, a menos que lhe pague a retribuição correspondente ao preço anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 39.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 92.º — (Exigibilidade do pagamento)
+
+O preço da edição considera-se exigível logo após a conclusão da edição, nos prazos e condições que define o artigo 90.º, salvo se a forma de retribuição adoptada fizer depender o pagamento de circunstâncias ulteriores, nomeadamente da colocação total ou parcial dos exemplares produzidos.
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 93.º — (Actualização ortográfica)
+
+Salvo por opção ortográfica de carácter estético do autor, não se considera modificação a actualização ortográfica do texto em harmonia com as regras oficiais vigentes.
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 94.º — Provas
+
+1 - O editor é obrigado a facultar ao autor um jogo de provas de granel, um jogo de provas de página e o projecto gráfico da capa. O autor deverá corrigir a composição daquelas e ser ouvido quanto a este, sendo obrigado, em condições normais, a restituir as provas no prazo de 20 dias e o projecto de capa no prazo de 5 dias.
+
+2 - Se o editor ou o autor demorarem a remessa das provas ou a sua restituição, poderá qualquer deles notificar o outro, por carta registada com aviso de recepção, para que o editor forneça ou o autor restitua as provas dentro de novo e improrrogável prazo.
+
+3 - A notificação referida no número anterior é condição do pedido de indemnização de perdas e danos por demora na publicação.
+
+4 - O autor terá o direito de introduzir correcções de tipografia, cujos custos serão suportados pelo editor, tanto nos granéis, como nas provas de página.
+
+5 - Quanto a correcções, modificações ou aditamentos de texto que não se justifiquem por circunstâncias novas, o seu custo é suportado, salvo convenção em contrário, inteiramente pelo editor, senão exceder 5% do preço da composição, e, acima desta percentagem, pelo autor.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 95.º — (Modificações)
+
+1 - Sem embargo do estabelecido nas disposições anteriores, o editor de dicionários, enciclopédias ou obras didácticas, depois da morte do autor, pode actualizá-las ou completá-las mediante notas, adendas, notas de pé de página ou pequenas alterações do texto.
+
+2 - As actualizações e alterações previstas no número anterior deverão ser devidamente assinaladas sempre que os textos respectivos sejam assinados ou contenham matéria doutrinal.
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 96.º — Prestação de contas
+
+1 - Se a retribuição devida ao autor depender dos resultados da venda ou se o seu pagamento for subordinado à evolução desta, o editor é obrigado a apresentar contas ao autor no prazo convencionado ou, na falta deste, semestralmente, com referência a 30 de Junho e 31 de Dezembro de cada ano.
+
+2 - Para o efeito do disposto no número anterior, o editor remeterá ao autor, por carta registada, nos 30 dias imediatos ao termo do prazo, o mapa da situação das vendas e devoluções ocorridas nesse período, acompanhado do pagamento do respectivo saldo.
+
+3 - O editor facultará sempre ao autor ou ao representante deste os elementos da sua escrita, indispensáveis à boa verificação das contas, a que se refere o número anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 97.º — (Identificação do autor)
+
+O editor deve mencionar em cada exemplar o nome ou pseudónimo do autor ou qualquer outra designação que o identifique.
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 98.º — (Impressão)
+
+1 - A impressão não pode ser feita sem que o autor a autorize.
+
+2 - A restituição das provas de página e do projecto gráfico da capa desacompanhada de declaração em contrário significa autorização para impressão.
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 99.º — Vendo de exemplares em saldo ou a peso
+
+1 - Se a edição da obra se não mostrar esgotada dentro do prazo convencionado ou, na falta de convenção, em cinco anos a contar da data da sua publicação, o editor tem a faculdade de vender em saldo ou a peso os exemplares existentes ou de os destruir.
+
+2 - O editor deve prevenir o autor para este exercer o direito de preferência na aquisição do remanescente da edição por preço fixado na base do que produziria a venda em saldo ou a peso.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 100.º — (Transmissão dos direitos do editor)
+
+1 - O editor não pode, sem consentimento do autor, transferir para terceiros, a título gratuito ou oneroso, direitos seus emergentes do contrato de edição, salvo se a transferência resultar de trespasse do seu estabelecimento.
+
+2 - No caso de o trespasse causar ou vir a causar prejuízos morais ao outro contratante, este tem direito de resolver o contrato no prazo de seis meses a contar do conhecimento do mesmo trespasse, assistindo ao editor direito à indemnização por perdas e danos
+
+3 - Considera-se transmissão dos direitos emergentes de contrato de edição, nos termos deste artigo, ficando, portanto, dependente do consentimento do autor, a inclusão desses direitos na participação do editor no capital de qualquer sociedade comercial.
+
+4 - Não se considera como transmissão dos direitos emergentes do contrato de edição a adjudicação destes a algum dos sócios da sociedade editora por efeito de liquidação judicial ou extrajudicial desta.
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 101.º — (Morte ou incapacidade do autor)
+
+1 - Se o autor morrer ou ficar impossibilitado de terminar a obra depois, de entregar parte apreciável desta, os sucessores do autor poderão resolver o contrato, indemnizando o editor por perdas e danos, mas, se o não fizerem no prazo de três meses, poderá o editor resolver o contrato ou dá-lo por cumprido quanto à parte entregue, contanto que pague ao sucessor ou representante a retribuição correspondente.
+
+2 - Se o autor tiver manifestado vontade de que a obra não seja publicada se não completa, o contrato será resolvido e não poderá a obra incompleta ser editada em caso algum, mas deverá o editor ser reembolsado dos pagamentos que tiver eventualmente efectuado a título de direito de autor.
+
+3 - Uma obra incompleta só pode ser completada por outrem que não o autor com o consentimento escrito deste.
+
+4 - Sem embargo do consentimento previsto no número anterior, a publicação da obra completada só pode fazer-se com clara identificação da parte primitiva e do acrescento e indicação da autoria deste.
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 102.º — (Falência do editor)
+
+1 - Se para a realização do activo no processo de falência do autor houver que proceder à venda por baixo preço, na totalidade ou por grandes lotes, dos exemplares da obra editada existentes nos depósitos do editor, deverá o administrador da massa falida prevenir o autor, com a antecipação de 20 dias, pelo menos, a fim de o habilitar a tomar as providências que julgue convenientes para a defesa dos seus interesses materiais e morais.
+
+2 - Ao autor será, além disso, reconhecido o direito de preferência para a aquisição pelo maior preço alcançado dos exemplares postos em arrematação.
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 103.º — (Obras completas)
+
+1 - O autor que contratou com um ou mais editores a edição separada de cada uma das suas obras mantém a faculdade de contratar a edição completa ou conjunta das mesmas.
+
+2 - O contrato para edição completa não autoriza o editor a editar em separado qualquer das obras compreendidas nessa edição nem prejudica o direito do autor a contratar a edição em separado de qualquer destas, salvo convenção em contrário.
+
+3 - O autor que exercer qualquer dos direitos referidos nos números anteriores deve fazê-lo sem afectar com o novo contrato as vantagens asseguradas ao editor em contrato anterior.
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 104.º — (Obras futuras)
+
+1 - Ao contrato de edição que tenha em vista obras futuras aplica-se o disposto no artigo 48.º
+
+2 - Se a edição de obra futura tiver sido convencionada sem que no contrato se haja fixado prazo para a sua entrega ao editor, terá este o direito de requerer a fixação judicial de prazo para essa entrega.
+
+3 - O prazo fixado em contrato pode ser judicialmente prorrogado, com motivos suficientes, a requerimento do autor.
+
+4 - Se a obra objecto do contrato dever ser escrita à medida que for sendo publicada, em volumes ou fascículos, deverão fixar-se no contrato o número e a extensão, ao menos aproximados, dos volumes ou fascículos, adoptando-se, quanto à extensão, uma tolerância de 10%, salvo convenção que disponha diversamente.
+
+5 - Se o autor exceder, sem prévio acordo do editor, as referidas proporções, não terá direito a qualquer remuneração suplementar e o editor poderá recusar-se a publicar os volumes, fascículos ou páginas em excesso, assistindo todavia ao autor o direito de resolver o contrato, indemnizando o editor das despesas feitas e dos lucros esperados da edição, atendendo-se aos resultados já obtidos para o cálculo da indemnização se tiver começado a venda de parte da obra.
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 105.º — (Reedições e edições sucessivas)
+
+1 - Se o editor tiver sido autorizado a fazer várias edições, as condições estipuladas para a edição originária deverão, em caso de dúvida, aplicar-se às edições subsequentes.
+
+2 - Antes de empreender nova edição, o editor deve facultar ao autor a possibilidade de intervir no texto, para pequenas correcções ou apuramentos que não impliquem modificação substancial da obra.
+
+3 - Mesmo que o preço tenha sido globalmente fixado, o autor tem ainda direito a remuneração suplementar se acordar com o editor modificação substancial da obra, tal como refundição ou ampliação.
+
+4 - À determinação do montante da remuneração prevista no número anterior aplica-se, com as necessárias adaptações, o disposto nos n.os 3 e 4 do artigo 44.º-C e no artigo 44.º-D.
+
+5 - O editor que se tiver obrigado a efectuar edições sucessivas de certa obra deve, sob pena de responder por perdas e danos, executá-las sem interrupção, de forma que nunca venham a faltar exemplares no mercado.
+
+6 - Exceptua-se, em relação ao princípio estabelecido no número anterior, o caso de força maior, não se considerando, porém, como tal a falta de meios financeiros para custear a nova edição nem o agravamento dos respectivos custos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 106.º — (Resolução do contrato)
+
+1 - O contrato de edição pode ser resolvido:
+
+a) Se for declarada a interdição do editor;
+
+b) Por morte do editor em nome individual, se o seu estabelecimento não continuar com algum ou alguns dos seus sucessores;
+
+c) Se o autor não entregar o original dentro do prazo convencionado ou se o editor não concluir a edição no prazo estabelecido no n.º 2 do artigo 90.º, salvo caso de força maior devidamente comprovado;
+
+d) Em todos os demais casos especialmente previstos e, de um modo geral, sempre que se verificar o incumprimento de qualquer das cláusulas contratuais ou das disposições legais directa ou supletivamente aplicáveis.
+
+2 - A resolução do contrato entende-se sempre sem prejuízo da responsabilidade por perdas e danos da parte a quem for imputável.
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção II — Da representação cénica
+
+###### Artigo 107.º — (Noção)
+
+Representação é a exibição perante espectadores de uma obra dramática, dramático-musical, coreográfica, pantomímica ou outra de natureza análoga, por meio de ficção dramática, do canto, da dança, da música ou de outros processos adequados, separadamente ou combinados entre si.
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 108.º — (Autorização)
+
+1 - A utilização da obra na representação depende de autorização do autor, quer a representação se realize em lugar público, quer em lugar privado, com ou sem entradas pagas, com ou sem fim lucrativo.
+
+2 - Se a obra tiver sido divulgada por qualquer forma, e desde que se realize sem fim lucrativo e em privado, num meio familiar, a representação poderá fazer-se independentemente de autorização do autor, princípio que se aplica, aliás, a toda a comunicação.
+
+3 - A concessão do direito de representar presume-se onerosa, excepto quando feita a favor de amadores.
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 109.º — (Forma, conteúdo e efeitos)
+
+1 - Pelo contrato de representação o autor autoriza um empresário a promover a representação da obra, obrigando-se este a fazê-la representar nas condições acordadas.
+
+2 - O contrato de representação deve ser celebrado por escrito e, salvo convenção em contrário, não atribui ao empresário o exclusivo da comunicação directa da obra por esse meio.
+
+3 - O contrato deve definir com precisão as condições e os limites em que a representação da obra é autorizada, designadamente quanto ao prazo, ao lugar, à retribuição do autor e às modalidades do respectivo pagamento.
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 110.º — (Retribuição)
+
+1 - A retribuição do autor pela outorga do direito de representar poderá consistir numa quantia global fixa, numa percentagem sobre as receitas dos espectáculos, em certa quantia por cada espectáculo ou ser determinada por qualquer outra forma estabelecida no contrato.
+
+2 - Se a retribuição for determinada em função da receita do espectáculo, deve ser paga no dia seguinte ao do espectáculo respectivo, salvo se de outro modo tiver sido convencionado.
+
+3 - Sendo a retribuição determinada em função da receita de cada espectáculo, assiste ao autor o direito de fiscalizar por si ou por seu representante as receitas respectivas.
+
+4 - Se o empresário viciar as notas de receita ou fizer uso de quaisquer outros meios fraudulentos para ocultar os resultados exactos da sua exploração incorrerá nas penas aplicáveis aos correspondentes crimes e o autor terá o direito a resolver o contrato.
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 111.º — (Prova de autorização do autor)
+
+Sempre que uma representação de obra não caída no domínio público dependa de licença ou autorização administrativa, será necessário, para a obter, a exibição perante a autoridade competente de documento comprovativo de que o autor consentiu na representação.
+
+> Alterado pelo/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 112.º — (Representação não autorizada)
+
+A representação sem autorização ou que não se conforme com o seu conteúdo confere ao autor o direito de a fazer cessar imediatamente, sem prejuízo de responsabilidade civil ou criminal do empresário ou promotor do espectáculo.
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 113.º — (Direitos do autor)
+
+1 - Do contrato de representação derivam para o autor, salvo estipulação em contrário, os seguintes direitos:
+
+a) De introduzir na obra, independentemente do consentimento da outra parte, as alterações que julgar necessárias, contanto que não prejudiquem a sua estrutura geral, não diminuam o seu interesse dramático ou espectacular nem prejudiquem a programação dos ensaios e da representação;
+
+b) De ser ouvido sobre a distribuição dos papéis;
+
+c) De assistir aos ensaios e fazer as necessárias indicações quanto à interpretação e encenação;
+
+d) De ser ouvido sobre a escolha dos colaboradores da realização artística da obra;
+
+e) De se opor à exibição enquanto não considerar suficientemente ensaiado o espectáculo, não podendo, porém, abusar desta faculdade e protelar injustificadamente a exibição, caso em que responde por perdas e danos;
+
+f) De fiscalizar o espectáculo, por si ou por representante, para o que tanto um como o outro têm livre acesso ao local durante a representação.
+
+2 - Se tiver sido convencionado no contrato que a representação da obra seja confiada a determinados actores ou executantes, a substituição destes só poderá fazer-se por acordo dos outorgantes.
+
+> Alterado pelo/a Artigo 46.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 114.º — (Supressão de passos da obra)
+
+Se, por decisão judicial, for imposta a supressão de algum passo da obra que comprometa ou desvirtue o sentido da mesma, poderá o autor retirá-la e resolver o contrato, sem por esse facto incorrer em qualquer responsabilidade.
+
+> Alterado pelo/a Artigo 46.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 115.º — (Obrigações do empresário)
+
+1 - O empresário assume pelo contrato a obrigação de fazer representar a obra em espectáculo público dentro do prazo convencionado e, na falta de convenção, dentro do prazo de 1 ano a contar da celebração do contrato, salvo tratando-se de obra dramático-musical, caso em que o prazo se eleva a 2 anos.
+
+2 - O empresário é obrigado a realizar os ensaios indispensáveis para assegurar a representação nas condições técnicas adequadas e, de um modo geral, a empregar todos os esforços usuais em tais circunstâncias para o bom êxito da representação.
+
+3 - O empresário é obrigado a fazer representar o texto que lhe tiver sido fornecido, não podendo fazer nele quaisquer modificações, como sejam eliminações, substituições ou aditamentos, sem o consentimento do autor.
+
+4 - O empresário é obrigado a mencionar, por forma bem visível, nos programas, cartazes e quaisquer outros meios de publicidade o nome, pseudónimo ou qualquer outro sinal de identificação adoptado pelo autor.
+
+> Alterado pelo/a Artigo 46.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 116.º — (Sigilo de obra inédita)
+
+Tratando-se de obra que ainda não tenha sido representada nem reproduzida, o empresário não pode dá-la a conhecer antes da primeira representação, salvo para efeitos publicitários, segundo os usos correntes.
+
+> Alterado pelo/a Artigo 46.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 117.º — (Transmissão, reprodução e filmagem da representação)
+
+Para que a representação da obra, no todo ou em parte, possa ser transmitida pela radiodifusão sonora ou visual, reproduzida em fonograma ou videograma, filmada ou exibida, é necessário, para além das autorizações do empresário do espectáculo e dos artistas, o consentimento escrito do autor.
+
+> Alterado pelo/a Artigo 46.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 118.º — (Transmissão dos direitos do empresário)
+
+O empresário não pode transmitir os direitos emergentes do contrato de representação sem o consentimento do autor.
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 119.º — (Representação de obra não divulgada)
+
+O autor que tiver contratado a representação de obra ainda não divulgada poderá publicá-la, impressa ou reproduzida por qualquer outro processo, salvo se outra coisa tiver sido convencionada com o empresário.
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 120.º — (Resolução do contrato)
+
+1 - O contrato de representação pode ser resolvido:
+
+a) Nos casos em que legal ou contratualmente for estabelecido;
+
+b) Nos casos correspondentes aos das alíneas a) e d) do artigo 106.º;
+
+c) No caso de evidente e continuada falta de assistência do público.
+
+2 - A resolução do contrato entende-se sempre sem prejuízo de responsabilidade por perdas e danos da parte a quem for imputável.
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção III — Da recitação e da execução
+
+###### Artigo 121.º — (Equiparação à representação)
+
+1 - A recitação de uma obra literária e a execução por instrumentos ou por instrumentos e cantores de obra musical ou literário-musical são equiparadas à representação definida no artigo 107.º
+
+2 - Ao contrato celebrado para a recitação ou para a execução de tais obras aplica-se, no que não for especialmente regulado, o disposto na secção precedente, contanto que seja compatível com a natureza da obra e da exibição.
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 122.º — Obrigações do promotor
+
+1 - A entidade que promover ou organizar a execução ou a recitação de obra literária, musical ou literário-musical em audição pública deve afixar previamente no local o respectivo programa, do qual devem constar, na medida do possível, a designação da obra e identificação da autoria.
+
+2 - Uma cópia desse programa deve ser fornecida ao autor ou ao seu representante.
+
+3 - Na falta de afixação do programa ou da sua comunicação nos termos dos números anteriores, compete à entidade que promove ou organiza a execução ou a recitação, quando demandada, fazer a prova de que obteve autorização dos autores das obras executadas ou recitadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 49.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 123.º — (Fraude na organização ou realização do programa)
+
+1 - Se a entidade que promover a execução ou a recitação organizar fraudulentamente o programa, designadamente incluindo nele obra que não se propõe fazer executar ou recitar, e promovendo, em lugar desta, a execução ou recitação de outra não anunciada, ou se, no decurso da audição, por motivo que não constitua caso fortuito ou de força maior, deixar de ser executada ou recitada obra constante do programa, poderão os autores prejudicados nos seus interesses morais ou materiais reclamar da referida entidade indemnização por perdas e danos, independentemente da responsabilidade criminal que ao caso couber.
+
+2 - Não implica responsabilidade ou ónus para os organizadores da audição o facto de os artistas, por solicitação insistente do público, executarem ou recitarem quaisquer obras além das constantes do programa.
+
+> Alterado pelo/a Artigo 49.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção IV — Das obras cinematográficas
+
+###### Artigo 124.º — (Produção de obra cinematográfica)
+
+A produção cinematográfica depende da autorização dos autores das obras preexistentes, ainda que estes não sejam considerados autores da obra cinematográfica nos termos do artigo 22.º
+
+> Alterado pelo/a Artigo 49.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 125.º — (Autorização dos autores de obra cinematográfica)
+
+1 - Das autorizações concedidas pelos autores das obras cinematográficas nos termos do artigo 22.º devem constar especificamente as condições da produção, distribuição e exibição da película.
+
+2 - Se o autor tiver autorizado, expressa ou implicitamente, a exibição, o exercício dos direitos de exploração económica da obra cinematográfica compete ao produtor.
+
+> Alterado pelo/a Artigo 49.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 126.º — (Do produtor)
+
+1 - O produtor é o empresário do filme e como tal organiza a feitura da obra cinematográfica, assegura os meios necessários e assume as responsabilidades técnicas e financeiras inerentes.
+
+2 - O produtor deve ser como tal identificado no filme.
+
+3 - Durante o período de exploração, o produtor, se o titular ou titulares do direito de autor não assegurarem de outro modo a defesa dos seus direitos sobre a obra cinematográfica, considera-se como representante daqueles para esse efeito, devendo dar-lhes conta do modo como se desempenhou do mandato.
+
+> Alterado pelo/a Artigo 49.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 127.º — (Efeitos da autorização)
+
+1 - Da autorização deriva para o produtor cinematográfico o direito de produzir o negativo, os positivos, as cópias e os registos magnéticos necessários para exibição da obra.
+
+2 - A autorização para a produção cinematográfica implica, salvo estipulação especial, autorização para a distribuição e exibição do filme em salas públicas de cinema, bem como para a sua exploração económica por este meio, sem prejuízo do pagamento da remuneração estipulada.
+
+3 - Dependem de autorização dos autores das obras cinematográficas a radiodifusão sonora ou visual da película, do filme-anúncio e das bandas ou discos em que se reproduzam trechos da película, a sua comunicação ao público, por fios ou sem fios, nomeadamente por ondas hertzianas, fibras ópticas, cabo ou satélite, e a sua reprodução, exploração ou exibição sob a forma de videograma.
+
+4 - A autorização a que se refere este artigo também não abrange a transmissão radiofónica da banda sonora ou de fonograma em que se reproduzam trechos de obra cinematográfica.
+
+5 - Não carece de autorização do autor a difusão de obras produzidas por organismo de radiodifusão sonora ou audiovisual, ao qual assiste o direito de as transmitir e comunicar ao público, no todo ou em parte, através dos seus próprios canais transmissores.
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 128.º — (Exclusivo)
+
+1 - A autorização dada pelos autores para a produção cinematográfica de uma obra, quer composta especialmente para esta forma de expressão, quer de simples adaptação, implica a concessão de exclusivo, salvo convenção em contrário.
+
+2 - No silêncio das partes, o exclusivo concedido para a produção cinematográfica caduca decorridos 25 anos sobre a celebração do contrato respectivo, sem prejuízo do direito daquele a quem tiver sido atribuída a exploração económica do filme o continuar a projectar, reproduzir e distribuir.
+
+> Alterado pelo/a Artigo 51.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 129.º — (Transformações)
+
+1 - As traduções, dobragens ou quaisquer transformações da obra cinematográfica dependem de autorização escrita dos autores.
+
+2 - A autorização para exibição ou distribuição de um filme estrangeiro em Portugal confere implicitamente autorização para a tradução ou dobragem.
+
+3 - É admissível cláusula em contrário, salvo se a lei só permitir a exibição da obra traduzida ou dobrada.
+
+> Alterado pelo/a Artigo 51.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 130.º — (Conclusão da obra)
+
+Considera-se pronta a obra cinematográfica após o realizador e o produtor estabelecerem, por acordo, a sua versão definitiva.
+
+> Alterado pelo/a Artigo 51.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 131.º — (Retribuição)
+
+A retribuição dos autores de obra cinematográfica pode consistir em quantia global fixa, em percentagem sobre as receitas provenientes da exibição e em quantia certa por cada exibição ou revestir outra forma acordada com o produtor.
+
+> Alterado pelo/a Artigo 51.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 132.º — (Co-produção)
+
+Não havendo convenção em contrário, é lícito ao produtor que contratar com os autores associar-se com outro produtor para assegurar a realização e exploração da obra cinematográfica.
+
+> Alterado pelo/a Artigo 52.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 133.º — (Transmissão dos direitos do produtor)
+
+É igualmente permitido ao produtor transferir a todo o tempo para terceiro, no todo ou em parte, direitos emergentes do contrato, ficando, todavia, responsável para com os autores pelo cumprimento pontual do mesmo.
+
+> Alterado pelo/a Artigo 52.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 134.º — (Identificação da obra e do autor)
+
+1 - O autor ou co-autores de obra cinematográfica têm o direito de exigir que os seus nomes sejam indicados na projecção do filme, mencionando-se igualmente a contribuição de cada um deles para a obra referida.
+
+2 - Se a obra cinematográfica constituir adaptação de obra preexistente, deverá mencionar-se o título desta e o nome, pseudónimo ou qualquer outro sinal de identificação do autor.
+
+> Alterado pelo/a Artigo 52.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 135.º — (Utilização e reprodução separadas)
+
+Os autores da parte literária e da parte musical da obra cinematográfica podem reproduzi-las e utilizá-las separadamente por qualquer modo, contanto que não prejudiquem a exploração da obra no seu conjunto.
+
+> Alterado pelo/a Artigo 52.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 136.º — (Prazo de cumprimento do contrato)
+
+Se o produtor não concluir a produção da obra cinematográfica no prazo de três anos a contar da data da entrega da parte literária e da parte musical ou não fizer projectar a película concluída no prazo de três anos a contar da conclusão, o autor ou co-autores terão o direito de resolver o contrato.
+
+> Alterado pelo/a Artigo 52.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 137.º — (Provas, matrizes e cópias)
+
+1 - O produtor só é obrigado a fazer as cópias ou provas da obra cinematográfica à medida que estas lhe forem requisitadas e a conservar a respectiva matriz, que em nenhum caso poderá destruir.
+
+2 - Não assiste ao produtor da obra cinematográfica o direito de vender a preço de saldo as cópias que tiver produzido, ainda que alegando a falta de procura destas.
+
+> Alterado pelo/a Artigo 52.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 138.º — (Falência do produtor)
+
+Em caso de falência do produtor, se houver de proceder-se à venda por baixo preço, na totalidade ou por lotes, de cópias da obra cinematográfica, deverá o administrador da massa falida prevenir do facto o autor ou co-autores desta com a antecedência mínima de vinte dias, a fim de os habilitar a tomar as providências que julgarem convenientes para defesa dos seus interesses materiais e morais e, bem assim, para exercerem o direito de preferência na aquisição das cópias em arrematação.
+
+> Alterado pelo/a Artigo 52.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 139.º — Regime aplicável
+
+1 - Ao contrato de produção cinematográfica são aplicáveis, com as necessárias adaptações, as disposições relativas ao contrato de edição, representação e execução.
+
+2 - Aplica-se à exibição pública da obra cinematográfica, com as devidas adaptações, o regime previsto nos artigos 122.º e 123.º para a recitação e a execução.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Aditado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 140.º — (Obras produzidas por processo análogo à cinematografia)
+
+As disposições da presente secção são aplicáveis às obras produzidas por qualquer processo análogo à cinematografia.
+
+> Alterado pelo/a Artigo 52.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção V — Da fixação fonográfica e videográfica
+
+###### Artigo 141.º — (Contrato de fixação fonográfica e videográfica)
+
+1 - Depende de autorização do autor a fixação da obra, entendendo-se por fixação a incorporação de sons ou de imagens, separada ou cumulativamente, num suporte material suficientemente estável e duradouro que permita a sua percepção, reprodução ou comunicação de qualquer modo, em período não efémero.
+
+2 - A autorização deve ser dada por escrito e habilita a entidade que a detém a fixar a obra e a reproduzir e vender os exemplares produzidos.
+
+3 - A autorização para executar em público, radiodifundir ou transmitir de qualquer modo a obra fixada deve igualmente ser dada por escrito e pode ser conferida a entidade diversa da que fez a fixação.
+
+4 - A compra de um fonograma ou videograma atribui ao comprador o direito de os utilizar para não atribui ao comprador o direito de os utilizar para quaisquer fins de execução ou transmissão públicas, reprodução revenda ou aluguer com fins comerciais.
+
+> Alterado pelo/a Artigo 53.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 142.º — (Identificação da obra e do autor)
+
+Dos fonogramas e dos videogramas constarão, impressos directamente ou apostos em etiquetas, sempre que a sua natureza o permita, o título da obra ou o modo de a identificar, assim como o nome ou qualquer outro sinal de identificação do autor.
+
+> Alterado pelo/a Artigo 53.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 143.º — (Fiscalização)
+
+1 - O autor tem o direito de fiscalizar os estabelecimentos de prensagem e duplicação de fonogramas e videogramas e armazenamento dos suportes materiais, sendo aplicável o disposto no n.º 7 do artigo 86.º, com as devidas adaptações.
+
+2 - Aqueles que importam, fabricam e vendem materiais para obras fonográficas e videográficas devem comunicar à Direcção-Geral dos Espectáculos e do Direito de Autor as quantidades importadas, fabricadas e vendidas, podendo os autores fiscalizar também os armazéns e fábricas dos suportes materiais.
+
+3 - Aqueles que fabricam ou duplicam fonogramas e videogramas são obrigados a comunicar periódica e especificadamente à Direcção-Geral dos Espectáculos e do Direito de Autor as quantidades de fonogramas e videogramas que prensarem ou duplicarem e a exibir documento do qual conste a autorização do respectivo autor.
+
+4 - A Direcção-Geral dos Espectáculos e do Direito de Autor definirá a periodicidade e as modalidades que deve revestir a comunicação a que se referem os n.os 2 e 3.
+
+> Alterado pelo/a Artigo 54.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444)
+
+###### Artigo 144.º — (Obras que já foram objecto de fixação)
+
+1 - A obra musical e o respectivo texto que foram objecto de fixação fonográfica comercial sem oposição do autor podem voltar a ser fixados.
+
+2 - O autor tem sempre direito a remuneração equitativa, podendo os litígios relativos à fixação da remuneração ser dirimidos por centro de arbitragem institucionalizada a que se reporta o artigo 8.º do Decreto-Lei n.º 47/2023, de 19 de junho.
+
+3 - O autor pode fazer cessar a exploração sempre que a qualidade técnica da fixação comprometer a correcta comunicação da obra.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 54.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 145.º — (Transmissão dos direitos do produtor)
+
+Aquele com quem tiver sido contratada a fixação não pode, salvo no caso de trespasse do estabelecimento, nomeadamente por cisão, transferir para terceiros os direitos emergentes do contrato de autorização sem consentimento dos autores.
+
+> Alterado pelo/a Artigo 54.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 146.º — (Transformações)
+
+A adaptação, arranjo ou outra transformação de qualquer obra para efeitos de fixação, transmissão, execução ou exibição por meios mecânicos, fonográficos ou videográficos depende igualmente de autorização escrita do autor, que deve precisar a qual ou quais daqueles fins se destina a transformação.
+
+> Alterado pelo/a Artigo 54.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 147.º — Remissão
+
+1 - Ao contrato de autorização para fixação fonográfica ou videográfica são aplicáveis, com as necessárias adaptações, as disposições relativas ao contrato de edição.
+
+2 - Aplica-se ao espectáculo consistente na comunicação pública de obra fonográfica ou videográfica, com as devidas adaptações, o regime previsto nos artigos 122.º e 123.º para a recitação e a execução.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Aditado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 148.º — (Âmbito)
+
+As disposições desta secção aplicam-se à reprodução de obra intelectual obtida por qualquer processo análogo à fonografia ou videografia, já existente ou que venha a ser inventado.
+
+> Alterado pelo/a Artigo 54.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção VI — Da radiodifusão e outros processos destinados à reprodução dos sinais, dos sons e das imagens
+
+###### Artigo 149.º — (Autorização)
+
+1 - Depende de autorização do autor a radiodifusão sonora ou visual da obra, tanto directa como por retransmissão, por qualquer modo obtida.
+
+2 - Depende igualmente de autorização a comunicação da obra em qualquer lugar público, por qualquer meio que sirva para difundir sinais, sons ou imagens.
+
+3 - Entende-se por lugar público todo aquele a que seja oferecido o acesso, implícita ou explicitamente, mediante remuneração ou sem ela, ainda que com reserva declarada do direito de admissão.
+
+4 - A autorização para os atos de comunicação ao público de obras incorporadas em fonogramas ou videogramas editados comercialmente, previstos nos n.os 3 e 4 do artigo 205.º, pode ser objeto de gestão coletiva, com efeitos alargados, pelas entidades de gestão coletiva representativas dos autores, aplicando-se para o efeito o disposto nos artigos 36.º-A e 36.º-B da Lei n.º 26/2015, de 14 de abril, na sua redação atual.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 55.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 150.º — (Radiodifusão de obra fixada)
+
+Se a obra foi objecto de fixação para fins de comercialização com autorização do autor, abrangendo expressamente a respectiva comunicação ou radiodifusão sonora ou visual, é desnecessário o consentimento especial deste para cada comunicação ou radiodifusão, sem prejuízo dos direitos morais e do direito a remuneração equitativa.
+
+> Alterado pelo/a Artigo 56.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 151.º — (Pressupostos técnicos)
+
+O proprietário de casa de espectáculos ou de edifício em que deva realizar-se a radiodifusão ou comunicação prevista no artigo 149.º, o empresário e todo aquele que concorra para a realização do espectáculo a transmitir são obrigados a permitir a instalação dos instrumentos necessários para a transmissão como as experiências ou ensaios técnicos para a boa execução desta.
+
+> Alterado pelo/a Artigo 56.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 152.º — (Limites)
+
+1 - Salvo estipulação em contrário, a autorização prevista no artigo 149.º não implica autorização para fixar as obras radiodifundidas.
+
+2 - No entanto, é lícito aos organismos de radiodifusão fixar as obras a radiodifundir, mas unicamente para uso das suas estações emissoras, nos casos de radiodifusão diferida.
+
+3 - As fixações atrás referidas devem, porém, ser destruídas no prazo máximo de três meses, dentro do qual não podem ser transmitidas mais de três vezes, sem prejuízo de remuneração ao autor.
+
+4 - As restrições dos dois números anteriores entendem-se sem prejuízo dos casos em que tais fixações ofereçam interesse excepcional a título de documentação, o qual determinará a possibilidade da sua conservação em arquivos oficiais ou, enquanto estes não existirem, nos da Radiotelevisão Portuguesa - RTP, E. P., e Radiodifusão Portuguesa - RDP, E. P., sem prejuízo do direito de autor.
+
+> Alterado pelo/a Artigo 57.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 153.º — (Âmbito)
+
+1 - A autorização para radiodifundir uma obra é geral para todas as emissões, directas ou em diferido, efectuadas pelas estações da entidade que a obteve, sem prejuízo de remuneração ao autor por cada transmissão.
+
+2 - Não se considera nova transmissão a radiodifusão feita em momentos diferentes, por estações nacionais ligadas à mesma cadeia emissora ou pertencentes à mesma entidade, em virtude de condicionalismos horários ou técnicos.
+
+3 - A transmissão efectuada por entidade diversa da que obteve a autorização referida no n.º 1, quando se faça por cabo ou satélite, e não esteja expressamente prevista naquela autorização, depende de consentimento do autor e confere-lhe o direito a remuneração.
+
+> Alterado pelo/a Artigo 57.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 154.º — (Identificação do autor)
+
+As estações emissoras devem anunciar o nome ou pseudónimo do autor juntamente com o título da obra radiodifundida, ressalvando-se os casos, consagrados pelo uso corrente, em que as circunstâncias e necessidades da transmissão levam a omitir as indicações referidas.
+
+> Alterado pelo/a Artigo 59.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 155.º — (Comunicação pública da obra radiodifundida)
+
+É devida igualmente remuneração ao autor pela comunicação pública da obra radiodifundida, por altifalante ou por qualquer outro instrumento análogo transmissor de sinais, de sons ou de imagens.
+
+> Alterado pelo/a Artigo 59.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 156.º — Regime aplicável
+
+1 - À radiodifusão, bem como à difusão obtida por qualquer processo que sirva para a comunicação de sinais, sons ou imagens, são aplicáveis, com as necessárias adaptações, as disposições relativas ao contrato de edição, representação e execução.
+
+2 - Aplica-se ao espectáculo consistente na comunicação pública de obra radiodifundida, com as devidas adaptações, o regime previsto nos artigos 122.º e 123.º para a recitação e a execução.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 60.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção VII — Da criação de artes plásticas, gráficas a aplicadas
+
+###### Artigo 157.º — (Da exposição)
+
+1 - Só o autor pode expor ou autorizar outrem a expor publicamente as suas obras de arte.
+
+2 - A alienação de obra de arte envolve, salvo convenção expressa em contrário, a atribuição do direito de a expor.
+
+> Alterado pelo/a Artigo 61.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 158.º — Responsabilidade pelas obras expostas
+
+A entidade promotora de exposição de obras de arte responde pela integridade das obras expostas, sendo obrigada a fazer o seguro das mesmas contra incêndio, transporte, roubo e quaisquer outros riscos de destruição ou deterioração, bem como a conservá-las no respectivo recinto até ao termo do prazo fixado para a sua devolução.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 61.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 159.º — (Forma e conteúdo do contrato de reprodução)
+
+1 - A reprodução das criações de artes plásticas, gráficas e aplicadas, design, projectos de arquitectura e planos de urbanização só pode ser feita pelo autor ou por outrem com a sua autorização.
+
+2 - A autorização referida no artigo anterior deve ser dada por escrito, presume-se onerosa e pode ser condicionada.
+
+3 - São aplicáveis ao contrato as disposições do artigo 86.º, devendo, porém, fixar-se nele o número mínimo de exemplares a vender anualmente, abaixo do qual a entidade que explora a reprodução poderá usar das faculdades nesse artigo reconhecidas.
+
+> Alterado pelo/a Artigo 62.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 160.º — (Identificação da obra)
+
+1 - O contrato deverá conter indicações que permitam identificar a obra, tais como a sua descrição sumária, debuxo, desenho ou fotografia, com a assinatura do autor.
+
+2 - As reproduções não podem ser postas à venda sem que o autor tenha aprovado o exemplar submetido a seu exame.
+
+3 - Em todos os exemplares reproduzidos deve figurar o nome, pseudónimo ou outro sinal que identifique o autor.
+
+> Alterado pelo/a Artigo 63.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 161.º — (Estudos e projectos de arquitectura e urbanismo)
+
+1 - Em cada exemplar dos estudos e projectos de arquitectura e urbanismo, junto ao estaleiro da construção da obra de arquitectura e nesta, depois de construída, é obrigatória a indicação do respectivo autor, por forma bem legível.
+
+2 - A repetição da construção de obra de arquitectura, segundo o mesmo projecto, só pode fazer-se com o acordo do autor.
+
+> Alterado pelo/a Artigo 63.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 162.º — (Restituição dos modelos ou elementos utilizados)
+
+1 - Extinto o contrato, devem ser restituídos ao autor os modelos originais e qualquer outro elemento de que se tenha servido aquele que fez as reproduções.
+
+2 - Os instrumentos exclusivamente criados para a reprodução da obra devem, salvo convenção em contrário, ser destruídos ou inutilizados, se o autor não preferir adquiri-los.
+
+> Alterado pelo/a Artigo 63.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 163.º — Extensão de protecção
+
+As disposições constantes desta secção aplicam-se igualmente às maquetas de cenários, figurinos, cartões para tapeçarias, maquetas para painéis cerâmicos, azulejos, vitrais, mosaicos, relevos rurais, cartazes e desenhos publicitários, capas de livros e, eventualmente, à criação gráfica que estes comportem, que sejam criação artística.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 63.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção VIII — Da obra fotográfica
+
+###### Artigo 164.º — (Condições de protecção)
+
+1 - Para que a fotografia seja protegida é necessário que pela escolha do seu objecto ou pelas condições da sua execução possa considerar-se como criação artística pessoal do seu autor.
+
+2 - Não se aplica o disposto nesta secção às fotografias de escritos, de documentos, de papéis de negócios, de desenhos técnicos e de coisas semelhantes.
+
+3 - Consideram-se fotografias os fotogramas das películas cinematográficas.
+
+> Alterado pelo/a Artigo 63.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 165.º — Direitos do autor de obra fotográfica
+
+1 - O autor da obra fotográfica tem o direito exclusivo de a reproduzir, difundir e pôr à venda com as restrições referentes à exposição, reprodução e venda de retratos e sem prejuízo dos direitos de autor sobre a obra reproduzida, no que respeita às fotografias de obras de artes plásticas.
+
+2 - Se a fotografia for efectuada em execução de um contrato de trabalho ou por encomenda, presume-se que o direito previsto neste artigo pertence à entidade patronal ou a pessoa que fez a encomenda.
+
+3 - Aquele que utilizar para fins comerciais a reprodução fotográfica deve pagar ao autor uma remuneração equitativa.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 64.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 166.º — (Alienação do negativo)
+
+A alienação do negativo de uma obra fotográfica importa, salvo convenção em contrário, a transmissão dos direitos referidos nos artigos precedentes.
+
+> Alterado pelo/a Artigo 64.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 167.º — Indicações obrigatórias
+
+1 - Os exemplares de obra fotográfica devem conter as seguintes indicações:
+
+a) Nome do fotógrafo;
+
+b) Em fotografia de obras de artes plásticas, o nome do autor da obra fotografada.
+
+2 - Só pode ser reprimida como abusiva a reprodução irregular das fotografias em que figurem as indicações referidas, não podendo o autor, na falta destas indicações, exigir as retribuições previstas no presente Código, salvo se o fotógrafo provar má-fé de quem fez a reprodução.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 64.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444)
+
+###### Artigo 168.º — (Reprodução de fotografia encomendada)
+
+1 - Salvo convenção em contrário, a fotografia de uma pessoa, quando essa fotografia seja executada por encomenda, pode ser publicada, reproduzida ou mandada reproduzir pela pessoa fotografada ou por seus herdeiros ou transmissários sem consentimento do fotógrafo seu autor.
+
+2 - Se o nome do fotógrafo figurar na fotografia original, deve também ser indicado nas reproduções.
+
+> Alterado pelo/a Artigo 66.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção IX — Da tradução e outras transformações
+
+###### Artigo 169.º — (Autorização do autor)
+
+1 - A tradução, arranjo, instrumentação, dramatização, cinematização e, em geral, qualquer transformação da obra só podem ser feitos ou autorizados pelo autor da obra original, sendo esta protegida nos termos do n.º 2 do artigo 3.º
+
+2 - A autorização deve ser dada por escrito e não comporta concessão de exclusivo, salvo estipulação em contrário.
+
+3 - O beneficiário da autorização deve respeitar o sentido da obra original.
+
+4 - Na medida exigida pelo fim a que o uso da obra se destina, é lícito proceder a modificações que não a desvirtuem.
+
+> Alterado pelo/a Artigo 67.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444)
+
+###### Artigo 170.º — (Compensação suplementar)
+
+1 - O tradutor tem direito a uma compensação suplementar sempre que o editor, o empresário, o produtor ou qualquer outra entidade utilizar a tradução para além dos limites convencionados ou estabelecidos neste Código.
+
+2 - À determinação do montante da remuneração prevista no número anterior aplica-se, com as necessárias adaptações, o disposto nos n.os 3 e 4 do artigo 44.º-C e no artigo 44.º-D.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 171.º — (Indicação do tradutor)
+
+O nome do tradutor deverá sempre figurar nos exemplares da obra traduzida, nos anúncios do teatro, nas comunicações que acompanhem as emissões de rádio e de televisão, na ficha artística dos filmes e em qualquer material de promoção.
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 172.º — Regime aplicável às traduções
+
+1 - As regras relativas à edição de obras originais constantes da secção I deste capítulo aplicam-se à edição das respectivas traduções, quer a autorização para traduzir haja sido concedida ao editor quer ao autor da tradução.
+
+2 - Salvo convenção em contrário, o contrato celebrado entre editor e tradutor não implica cedência nem transmissão, temporária ou permanente, a favor daquele, dos direitos deste sobro a sua tradução.
+
+3 - O editor pode exigir do tradutor as modificações necessárias para assegurar o respeito pela obra original e, quando esta implicar determinada disposição gráfica, a conformidade do texto com ela; caso o tradutor não o faça no prazo máximo de 30 dias, o editor promoverá, por si, tais modificações.
+
+4 - Sempre que a natureza e características da obra exijam conhecimentos específicos, o editor pode promover a revisão da tradução por técnico de sua escolha.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Aditado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção X — Dos jornais e outras publicações periódicas
+
+###### Artigo 173.º — (Protecção)
+
+1 - O direito de autor sobre obra publicada, ainda que sem assinatura, em jornal ou publicação periódica pertence ao respectivo titular e só ele pode fazer ou autorizar a reprodução em separado ou em publicação congénere, salvo convenção escrita em contrário.
+
+2 - Sem prejuízo do disposto no número precedente, o proprietário ou editor da publicação pode reproduzir os números em que foram publicadas as contribuições referidas.
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 174.º — (Trabalhos jornalísticos por conta de outrem)
+
+1 - O direito de autor sobre trabalho jornalístico produzido em cumprimento de um contrato de trabalho que comporte identificação de autoria, por assinatura ou outro meio, pertence ao autor.
+
+2 - Salvo autorização da empresa proprietária do jornal ou publicação congénere, o autor não pode publicar em separado o trabalho referido no número anterior antes de decorridos três meses sobre a data em que tiver sido posta a circular a publicação em que haja sido inserido.
+
+3 - Tratando-se de trabalho publicado em série, o prazo referido no número anterior tem início na data da distribuição do número da publicação em que tiver sido inserido o último trabalho da série.
+
+4 - Se os trabalhos referidos não estiverem assinados ou não contiverem identificação do autor, o direito de autor sobre os mesmos será atribuído à empresa a que pertencer o jornal ou a publicação em que tiverem sido inseridos, e só com autorização desta poderão ser publicados em separado por aqueles que os escreveram.
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 175.º — (Publicação fraccionada e periódica)
+
+1 - O autor ou editor de obra que se publique em volumes, tomos, fascículos ou folhas seguidas e, bem assim, o autor ou editor de publicação periódica podem contratar com outrem a venda por assinatura, à medida que for sendo feita a impressão, por tempo determinado ou indefinido.
+
+2 - A não devolução do primeiro tomo ou fascículo expedido pelo autor ou pelo editor não implica a celebração tácita do contrato, nem o destinatário tem a obrigação de o conservar ou devolver.
+
+3 - A remessa de tomos, fascículos ou folhas por via postal é sempre a risco do expedidor, ficando este os exemplares extraviados sem direito a novo pagamento, salvo convenção em contrário.
+
+> Alterado pelo/a Artigo 71.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+#### Secção XI — Da utilização da obra por prestador de serviços de partilha de conteúdos em linha
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 175.º-A — Definições
+
+1 - Para efeitos do disposto na presente secção, entende-se por:
+
+a) 'Prestador de serviços de partilha de conteúdos em linha' um prestador de um serviço da sociedade da informação que tem como principal objetivo, ou um dos seus principais objetivos, armazenar e facilitar o acesso do público a uma quantidade significativa de obras ou outro material protegido por direitos de autor ou direitos conexos, carregados pelos seus utilizadores, que o prestador de serviços organiza e promove com a finalidade de obter uma vantagem económica ou comercial direta ou indireta;
+
+b) 'Serviço da sociedade da informação' um serviço na aceção da alínea g) do artigo 3.º do Decreto-Lei n.º 30/2020, de 29 de junho.
+
+2 - Para efeitos do disposto na presente secção, não são considerados prestadores de serviços de partilha de conteúdos em linha os prestadores dos seguintes serviços:
+
+a) Enciclopédias em linha sem fins lucrativos;
+
+b) Repositórios científicos e educativos sem fins lucrativos;
+
+c) Plataformas de desenvolvimento e partilha de software livre ou de código aberto;
+
+d) Prestadores de serviços de comunicações eletrónicas na aceção da Lei n.º 5/2004, de 10 de fevereiro, que aprova a Lei das Comunicações Eletrónicas;
+
+e) Os mercados em linha;
+
+f) Os serviços em nuvem, entre empresas; e
+
+g) Os serviços em nuvem que permitem ao seu utilizador carregar conteúdos para uso pessoal do utilizador.
+
+3 - Os mecanismos de isenção de responsabilidade previstos no artigo 175.º-C não são aplicáveis a prestadores de serviços cujo principal objetivo seja realizar ou facilitar a infração de direitos de autor e direitos conexos.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 175.º-B — Utilização de conteúdos protegidos por prestadores de serviços de partilha de conteúdos em linha
+
+1 - Constitui um ato de comunicação ao público, ou de colocação à disposição do público, por parte de prestadores de serviços de partilha de conteúdos em linha, a disponibilização ao público do acesso a obras ou outros materiais protegidos por direitos de autor ou direitos conexos, carregados pelos utilizadores daqueles serviços.
+
+2 - Os prestadores de serviços referidos no número anterior devem obter autorização dos respetivos titulares de direitos, nos termos previstos na lei, a fim de comunicar ao público ou de colocar à sua disposição obras ou outros materiais protegidos.
+
+3 - Caso os titulares de direitos concedam ao prestador de serviços de partilha de conteúdos em linha uma autorização nos termos dos números anteriores, tal autorização compreende os atos de comunicação ou colocação à disposição do público, incluídos nos termos e âmbito da autorização, realizados pelos utilizadores de tais serviços, se estes não agirem com caráter comercial, direto ou indireto, ou se a sua atividade não gerar receitas significativas.
+
+4 - Quando os prestadores de serviços de partilha de conteúdos em linha praticam atos de comunicação ao público ou colocação à disposição do público nos termos do n.º 1, não são aplicáveis as limitações de responsabilidade dos prestadores intermediários de serviços em linha previstas no artigo 16.º do Decreto-Lei n.º 7/2004, de 7 de janeiro, na sua redação atual, sem prejuízo da aplicabilidade de tais limitações a outras atividades desenvolvidas por aqueles prestadores de serviços.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 175.º-C — Atos de comunicação ao público não autorizados
+
+1 - Os prestadores de serviços de partilha de conteúdos em linha são responsáveis pelos atos de comunicação ao público ou de colocação à disposição do público de obras e outros materiais protegidos por direitos de autor, caso não lhes tenha sido concedida uma autorização nos termos referidos no artigo anterior, exceto se os prestadores demonstrarem que, cumulativamente:
+
+a) Envidaram os melhores esforços para obter uma autorização;
+
+b) Efetuaram, de acordo com elevados padrões de diligência profissional do setor, os melhores esforços para assegurar a indisponibilidade de determinadas obras e outros materiais protegidos, relativamente aos quais os titulares de direitos forneceram aos prestadores de serviços as informações pertinentes e necessárias;
+
+c) Agiram, de forma diligente, após receção de uma notificação suficientemente fundamentada pelos titulares de direitos, no sentido de remover ou bloquear o acesso à obra ou outros materiais protegidos, objeto de notificação, dos seus sítios na Internet ou servidores que utilizam para a prestação de serviços, independentemente de os titulares de direitos terem ou não disponibilizado a informação relevante e necessária em momento prévio à notificação, e envidaram os melhores esforços para impedir o futuro carregamento e disponibilização da obra ou outros materiais protegidos, objeto de notificação, nos termos da alínea anterior.
+
+2 - Para determinar se o prestador de serviços cumpriu as obrigações previstas no número anterior, deve ser observado o princípio da proporcionalidade e devem ser tidos em conta, entre outros, os seguintes elementos:
+
+a) O tipo, o público-alvo e a dimensão do serviço;
+
+b) O tipo de obras ou outros materiais protegidos, carregados pelos utilizadores do serviço;
+
+c) A disponibilidade de meios adequados e eficazes para cumprir as obrigações;
+
+d) O custo dos meios referidos na alínea anterior para os prestadores de serviços.
+
+3 - O disposto na presente secção não constitui os titulares de direitos na obrigação de conceder uma autorização ou celebrar um acordo de licenciamento, nem limita o direito de tais titulares autorizarem ou proibirem as utilizações de obras ou outro material protegido, com as limitações que decorrem das normas gerais reguladoras da concorrência.
+
+4 - As obrigações de remoção de conteúdos previstas no n.º 1, impostas aos prestadores de serviços de partilha de conteúdos em linha, não impedem a manutenção de cópias dos mesmos, não acessíveis aos utilizadores destes serviços sempre que tal se afigure necessário para impedir novos carregamentos de conteúdos não autorizados.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 175.º-D — Limitação de obrigações quanto a novos prestadores de serviços de partilha de conteúdos em linha
+
+1 - Os novos prestadores de serviços de partilha de conteúdos em linha cujos serviços tenham sido disponibilizados ao público na União Europeia por um período inferior a três anos podem beneficiar do regime de exclusão de responsabilidade previsto no n.º 1 do artigo anterior desde que demonstrem cumulativamente que:
+
+a) Têm um volume de negócios anual inferior a 10 milhões de euros, calculado nos termos da Recomendação 2003/361/CE da Comissão, de 6 de maio de 2003, relativa à definição de micro, pequenas e médias empresas;
+
+b) O número médio mensal de visitantes individuais desses prestadores de serviços seja inferior a 5 milhões, calculado com base no ano civil precedente, sem prejuízo do disposto no número seguinte;
+
+c) Envidaram os melhores esforços para obter uma autorização ou licença;
+
+d) Agiram, de forma diligente, após receção de uma notificação suficientemente fundamentada pelos titulares de direitos, no sentido de remover ou bloquear o acesso à obra ou outros materiais protegidos, objeto de notificação, dos seus sítios na Internet ou servidores que utilizam para a prestação de serviços.
+
+2 - Sempre que os prestadores de serviços de partilha de conteúdos em linha referidos no número anterior não estejam em condições de demonstrar o disposto na alínea b), devem ainda demonstrar que deram integral cumprimento ao disposto na alínea c) do n.º 1 do artigo anterior, para poderem beneficiar do regime de exclusão de responsabilidade ali previsto.
+
+3 - No juízo sobre a aplicação do regime previsto no presente artigo a um serviço de partilha de conteúdos em linha, deve acautelar-se, especialmente, que este regime não seja utilizado de forma abusiva, mediante disposições que visem prolongar os seus benefícios para além dos primeiros três anos, devendo nomeadamente excluir-se tal aplicação a serviços criados há menos de três anos ou prestados sob nova designação, mas que exercem materialmente a atividade de um prestador de serviços de partilha de conteúdos em linha já existente que não possa beneficiar deste regime ou que deixou de beneficiar do mesmo.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 175.º-E — Dever de informação
+
+1 - Os prestadores de serviços de partilha de conteúdos em linha devem facultar aos titulares de direitos, a pedido destes, com a maior brevidade possível, informações adequadas sobre o funcionamento das suas práticas no que respeita ao disposto nos artigos 175.º-C e 175.º-D e, no caso de serem concedidas autorizações ou concluídos acordos de licenciamento, entre prestadores de serviços e titulares de direitos, informações sobre a utilização dos conteúdos abrangidos pelos referidos acordos.
+
+2 - Os prestadores de serviços de partilha de conteúdos em linha devem informar os seus utilizadores, nas suas condições gerais, da possibilidade de utilizarem obras e outros materiais protegidos ao abrigo das exceções e limitações ao direito de autor e direitos conexos previstas no presente decreto-lei ou em qualquer outra fonte de Direito da União, bem como dos procedimentos referidos no artigo seguinte.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 175.º-F — Procedimento de reclamação e reapreciação
+
+1 - Os prestadores de serviços de partilha de conteúdos em linha devem criar e disponibilizar um mecanismo de reclamação e recurso eficaz e rápido, disponível para todos os utilizadores dos respetivos serviços, aos quais estes possam recorrer para reclamar contra a remoção ou bloqueio indevidos de obras ou outros materiais protegidos por eles carregados, designadamente para permitir as utilizações livres previstas nas alíneas h) e x) do n.º 2 do artigo 75.º
+
+2 - Os prestadores de serviços devem informar as entidades que tiverem solicitado a remoção ou bloqueio do conteúdo em causa da apresentação de reclamação nos termos do número anterior para que estas se possam pronunciar.
+
+3 - Sempre que solicitem a remoção das suas obras ou outros materiais protegidos ou o bloqueio de acesso aos mesmos e, em especial, no âmbito do procedimento de reclamação e recurso, devem os titulares de direitos ou os seus representantes justificar os seus pedidos de modo adequado.
+
+4 - Quando a remoção ou bloqueio for efetuada, os prestadores de serviços de partilha de conteúdos em linha devem informar os utilizadores de tal remoção ou bloqueio e dos respetivos fundamentos.
+
+5 - As queixas apresentadas ao abrigo do presente artigo são processadas sem demora injustificada, sendo as decisões de remoção de conteúdos carregados ou de bloqueio do acesso aos mesmos sujeitas a controlo humano.
+
+6 - Quando, na sequência de reclamação, um conteúdo seja novamente disponibilizado, os prestadores de serviços de partilha de conteúdos em linha devem informar os interessados da decisão e dos respetivos fundamentos.
+
+7 - Os procedimentos referidos no presente artigo devem estar disponíveis e ser processados em língua portuguesa.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 175.º-G — Resolução alternativa de litígios
+
+Os conflitos entre os prestadores de serviços de partilha de conteúdos em linha e os utilizadores dos respetivos serviços, emergentes da remoção ou bloqueio de obras ou outros materiais protegidos por eles carregados, estão sujeitos a arbitragem necessária quando, por opção expressa dos referidos utilizadores, sejam submetidos à apreciação de centro de arbitragem institucionalizada a que se reporta o artigo 8.º do Decreto-Lei n.º 47/2023, de 19 de junho.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 175.º-H — Proteção de dados pessoais
+
+O disposto na presente secção não prejudica nem afasta a aplicação do Regulamento (UE) n.º 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e da Lei n.º 58/2019, de 8 de agosto.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 175.º-I — Disponibilidade de conteúdos
+
+O disposto na presente secção não pode resultar na indisponibilidade de obras ou outro material protegido carregado por utilizadores de serviços de partilha de conteúdos em linha que não violem direitos de autor e direitos conexos, nomeadamente as utilizações abrangidas por uma exceção ou limitação.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+## Título III — Dos direitos conexos
+
+###### Artigo 176.º — Noção
+
+1 - As prestações dos artistas intérpretes ou executantes, dos produtores de fonogramas e de videogramas, dos editores de imprensa e dos organismos de radiodifusão são protegidas nos termos do presente título.
+
+2 - Artistas intérpretes ou executantes são os actores, cantores, músicos, bailarinos e outros que representem, cantem, recitem, declamem, interpretem ou executem de qualquer maneira obras literárias ou artísticas.
+
+3 - Produtor de fonograma ou videograma é a pessoa singular ou colectiva que fixa pela primeira vez os sons provenientes de uma execução ou quaisquer outros, ou as imagens de qualquer proveniência, acompanhadas ou não de sons.
+
+4 - Fonograma é o registo resultante da fixação, em suporte material, de sons provenientes de uma prestação ou de outros sons, ou de uma representação de sons.
+
+5 - Videograma é o registo resultante da fixação, em suporte material, de imagens, acompanhadas ou não de sons, bem como a cópia de obras cinematográficas ou áudio-visuais.
+
+6 - Cópia é o suporte material em que se reproduzem sons e imagens, ou representação destes, separada ou cumulativamente, captados directa ou indirectamente de um fonograma ou videograma, e se incorporam, total ou parcialmente, os sons ou imagens ou representações destes, neles fixados.
+
+7 - Reprodução é a obtenção de cópias de uma fixação, directa ou indirecta, temporária ou permanente, por quaisquer meios e sob qualquer forma, no todo ou em parte dessa fixação.
+
+8 - Distribuição é a actividade que tem por objecto a oferta ao público, em quantidade significativa, de fonogramas ou videogramas, directa ou indirectamente, quer para venda quer para aluguer.
+
+9 - Organismo de radiodifusão é a entidade que efectua emissões de radiodifusão sonora ou visual, entendendo-se por emissão de radiodifusão a difusão dos sons ou de imagens, ou a representação destes, separada ou cumulativamente, por fios ou sem fios, nomeadamente por ondas hertzianas, fibras ópticas, cabo ou satélite, destinada à recepção pelo público.
+
+10 - Retransmissão é a emissão simultânea por um organismo de radiodifusão de uma emissão de outro organismo de radiodifusão.
+
+11 - Para efeitos do disposto no presente Código, considera-se:
+
+a) 'Publicação de imprensa' uma coleção composta, principalmente, por obras literárias de caráter jornalístico, mas que pode, igualmente, incluir outras obras ou outro material protegido, desde que cumulativamente:
+
+i) Constitua uma parte autónoma da publicação periódica ou regularmente atualizada sob um único título, tal como um jornal ou uma revista de interesse geral ou específico;
+
+ii) Tenha por objetivo fornecer ao público em geral informações relacionadas com notícias ou outros temas;
+
+iii) Seja publicada em todos os suportes no âmbito da iniciativa, sob a responsabilidade editorial e o controlo de um prestador de serviços;
+
+iv) Não sejam publicações periódicas com fins científicos ou académicos, onde se incluem designadamente as revistas científicas;
+
+b) 'Editor de imprensa' é a pessoa singular ou coletiva sob cuja iniciativa e responsabilidade é publicada a publicação de imprensa, incluindo, nomeadamente, as empresas jornalísticas, e prestadores de serviços, como os editores de notícias e as agências noticiosas, quando publicam publicações de imprensa na aceção da alínea anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 72.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 177.º — (Ressalva dos direitos dos autores)
+
+A tutela dos direitos conexos em nada afecta a protecção dos autores sobre a obra utilizada.
+
+> Alterado pelo/a Artigo 72.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 178.º — Poder de autorizar ou proibir
+
+1 - Assiste ao artista intérprete ou executante o direito exclusivo de fazer ou autorizar, por si ou pelos seus representantes:
+
+a) A radiodifusão e a comunicação ao público, por qualquer meio, da sua prestação, excepto quando a prestação já seja, por si própria, uma prestação radiodifundida ou quando seja efectuada a partir de uma fixação;
+
+b) A fixação, sem o seu consentimento, das prestações que não tenham sido fixadas;
+
+c) A reprodução directa ou indirecta, temporária ou permanente, por quaisquer meios e sob qualquer forma, no todo ou em parte, sem o seu consentimento, de fixação das suas prestações quando esta não tenha sido autorizada, quando a reprodução seja feita para fins diversos daqueles para os quais foi dado o consentimento ou quando a primeira fixação tenha sido feita ao abrigo do artigo 189.º e a respectiva reprodução vise fins diferentes dos previstos nesse artigo;
+
+d) A colocação à disposição do público, da sua prestação, por fio ou sem fio, por forma que seja acessível a qualquer pessoa, a partir do local e no momento por ela escolhido.
+
+2 - Sempre que um artista intérprete ou executante autorize a fixação da sua prestação para fins de radiodifusão a um produtor cinematográfico ou audiovisual ou videográfico, ou a um organismo de radiodifusão, considerar-se-á que transmitiu os seus direitos de radiodifusão e comunicação ao público, conservando o direito de auferir uma remuneração inalienável, equitativa e única, por todas as autorizações referidas no n.º 1, à excepção do direito previsto na alínea d) do número anterior. A gestão da remuneração equitativa única será exercida através de acordo colectivo celebrado entre os utilizadores e a entidade de gestão colectiva representativa da respectiva categoria, que se considera mandatada para gerir os direitos de todos os titulares dessa categoria, incluindo os que nela não se encontrem inscritos.
+
+3 - A remuneração inalienável e equitativa a fixar nos termos do número antecedente abrangerá igualmente a autorização para novas transmissões, a retransmissão e a comercialização de fixações obtidas para fins exclusivos de radiodifusão.
+
+4 -  O direito previsto na alínea d) do n.º 1 pode ser exercido por uma entidade de gestão coletiva de direitos dos artistas, assegurando-se que, sempre que estes direitos forem geridos por mais que uma entidade de gestão, o titular possa decidir junto de qual dessas entidades deve reclamar os seus direitos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2015 - Diário da República n.º 80/2015, Série I de 2015-04-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2015-67072250), em vigor a partir de 2015-04-25
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 73.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 179.º — Autorização para radiodifundir
+
+1 - Na falta de acordo em contrário, a autorização para radiodifundir uma prestação implica autorização para a sua fixação e posterior radiodifusão e reprodução dessa fixação, bem como para a radiodifusão de fixações licitamente autorizadas por outro organismo de radiodifusão.
+
+2 - O artista tem, todavia, direito a remuneração suplementar sempre que, sem estarem previstas no contrato inicial, forem realizadas as seguintes operações:
+
+a) Uma nova transmissão;
+
+b) A retransmissão por outro organismo de radiodifusão;
+
+c) A comercialização de fixações obtidas para fins de radiodifusão.
+
+3 - A retransmissão e a nova transmissão não autorizadas de uma prestação dão aos artistas que nela intervêm o direito de receberem, no seu conjunto, 20% da remuneração primitivamente fixada.
+
+4 - A comercialização dá aos artistas o direito de receberem, no seu conjunto, 20% da quantia que o organismo de radiodifusão que fixou a prestação receber do adquirente.
+
+5 - O artista pode estipular com o organismo de radiodifusão condições diversas das referidas nos números anteriores, mas não renunciar aos direitos nela consignados.
+
+> Revogado pelo/a Artigo 5.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 74.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 180.º — Identificação
+
+1 - Em toda a divulgação de uma prestação será indicado, ainda que abreviadamente, o nome ou pseudónimo do artista, salvo convenção em contrário ou se o modo de utilização da interpretação ou execução impuser a omissão da menção.
+
+2 - Exceptuam-se os programas sonoros exclusivamente musicais sem qualquer forma de locução e os referidos no artigo 154.º
+
+3 - Presume-se artista, intérprete ou executante, aquele cujo nome tiver sido indicado como tal nas cópias autorizadas da prestação e no respectivo invólucro ou aquele que for anunciado como tal em qualquer forma de utilização lícita, representação ou comunicação ao público.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 74.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 181.º — (Representação dos artistas)
+
+1 - Quando na prestação participem vários artistas, os seus direitos serão exercidos, na falta de acordo, pelo director do conjunto.
+
+2 - Não havendo director do conjunto, os actores serão representados pelo encenador e os membros da orquestra ou os membros do coro pelo maestro ou director respectivo.
+
+> Alterado pelo/a Artigo 74.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 182.º — Utilizações ilícitas
+
+São ilícitas as utilizações que deformem, mutilem e desfigurem uma prestação, que a desvirtuem nos seus propósitos ou que atinjam o artista na sua honra ou na sua reputação.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 183.º — Duração dos direitos conexos
+
+1 - Os direitos conexos caducam decorrido um período de 50 anos:
+
+a) Após a representação ou execução pelo artista intérprete ou executante;
+
+b) Após a primeira fixação, pelo produtor, do videograma ou filme;
+
+c) Após a primeira emissão pelo organismo de radiodifusão, quer a emissão seja efectuada com ou sem fio, incluindo cabo ou satélite.
+
+2 - Se, no decurso do período referido no número anterior, o videograma ou filme protegidos forem objeto de publicação ou comunicação lícita ao público, o prazo de caducidade do direito é de 50 anos, após a data da primeira publicação ou da primeira comunicação ao público, consoante a que tiver ocorrido em primeiro lugar.
+
+3 - Se a fixação da prestação do artista intérprete ou executante num fonograma for objeto de uma publicação ou comunicação ao público lícitas, no decurso do prazo referido no n.º 1, o prazo de caducidade do direito é de 70 anos após a data da primeira publicação ou da primeira comunicação ao público, consoante a que tiver ocorrido em primeiro lugar.
+
+4 - (Revogado).
+
+5 - O termo «filme» designa uma obra cinematográfica ou áudio-visual e toda e qualquer sequência de imagens em movimento, acompanhadas ou não de som.
+
+6 - Os direitos conexos dos editores de imprensa caducam dois anos após a primeira publicação em publicação de imprensa.
+
+7 - É aplicável às entidades referidas nas alíneas a), b) e c) do n.º 1 e no número anterior o disposto no artigo 37.º
+
+8 - Aos prazos de caducidade previstos no presente artigo é aplicável o disposto no n.º 2 do artigo 31.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2015 - Diário da República n.º 80/2015, Série I de 2015-04-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2015-67072250), em vigor a partir de 2015-04-25
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 82/2013 - Diário da República n.º 237/2013, Série I de 2013-12-06](https://diariodarepublica.pt/dr/detalhe/lei/82-2013-484122), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 75.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 183.º-A — Disponibilização de fonogramas pelo produtor
+
+1 - Decorridos 50 anos após um fonograma ser licitamente publicado ou, na ausência desta publicação, ser licitamente comunicado ao público, se o produtor de fonogramas ou o cessionário dos respetivos direitos não colocarem cópias do fonograma à venda no mercado em quantidade suficiente, ou não o colocarem à disposição do público, em transmissão por fio ou sem fio, por forma a torná-lo acessível ao público a partir do local e no momento por ele escolhido individualmente, o artista intérprete ou executante pode resolver o contrato mediante o qual transferiu ou cedeu ao produtor de fonogramas os seus direitos sobre a fixação das suas prestações, apenas na parte respeitante aos fonogramas que reúnam tais condições.
+
+2 - O direito de resolução contratual referido no número anterior é irrenunciável, podendo ser exercido caso o produtor ou o cessionário dos respetivos direitos, no prazo de um ano contado a partir da notificação pelo artista intérprete ou executante da sua vontade de resolver o contrato, não proceda a um dos dois atos de exploração acima mencionados, fazendo desse modo caducar o direito do produtor ou cessionário dos respetivos direitos sobre o fonograma em causa.
+
+3 - Caso um fonograma contenha a fixação das prestações de vários artistas intérpretes ou executantes, podem estes resolver os seus contratos de transferência ou cessão, salvaguardando o disposto no artigo 17.º
+
+4 - Caso um contrato de transferência ou cessão de direitos atribua ao artista intérprete ou executante o direito a uma remuneração não recorrente, tem este o direito irrenunciável de obter uma remuneração suplementar anual do produtor de fonogramas por cada ano completo imediatamente após o quinquagésimo ano subsequente ao fonograma ser licitamente publicado ou, na ausência desta publicação, após o quinquagésimo ano subsequente a ser licitamente comunicado ao público.
+
+5 - O montante global destinado pelo produtor de fonogramas ao pagamento da remuneração suplementar anual referida nos números anteriores deve corresponder a 20 % das receitas por este recebidas no ano anterior ao ano relativamente ao qual a indicada remuneração é paga, pela reprodução, distribuição e colocação à disposição do público desses fonogramas, não sendo dedutíveis ao referido montante quaisquer adiantamentos ou outras deduções previstas no contrato.
+
+6 - Os produtores de fonogramas e ou as entidades mandatadas para gerir os direitos estão obrigados a prestar aos artistas intérpretes ou executantes, mediante solicitação destes, todas as informações necessárias para assegurar a cobrança e distribuição da referida remuneração a fim de garantir o seu efetivo pagamento.
+
+7 - O direito à obtenção da remuneração suplementar anual a que se referem os n.os 4 e 5 deve ser administrado por sociedades de gestão coletiva representativas dos interesses dos artistas intérpretes ou executantes.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 82/2013 - Diário da República n.º 237/2013, Série I de 2013-12-06](https://diariodarepublica.pt/dr/detalhe/lei/82-2013-484122), em vigor a partir de 2013-12-07
+
+###### Artigo 184.º — Autorização do produtor
+
+1 - Assiste ao produtor do fonograma ou do videograma o direito exclusivo de fazer ou autorizar, por si ou pelos seus representantes:
+
+a) A reprodução, direta ou indireta, temporária ou permanente, por quaisquer meios e sob qualquer forma, no todo ou em parte, do fonograma ou do videograma;
+
+b) A distribuição ao público de cópias dos fonogramas ou videogramas, a exibição cinematográfica de videogramas bem como a respetiva importação ou exportação;
+
+c) A colocação à disposição do público, por fio ou sem fio, dos fonogramas ou dos videogramas para que sejam acessíveis a qualquer pessoa a partir do local e no momento por ela escolhido;
+
+d) Qualquer utilização do fonograma ou videograma em obra diferente;
+
+e) A comunicação ao público, de fonogramas e videogramas, incluindo a difusão por qualquer meio e a execução pública direta ou indireta, em local público, na aceção do n.º 3 do artigo 149.º
+
+2 - (Revogado.)
+
+3 - Quando um fonograma ou videograma editado comercialmente, ou uma reprodução dos mesmos, for utilizado por qualquer forma de comunicação pública, o utilizador tem de pagar, como contrapartida da autorização prevista na alínea e) do n.º 1, uma remuneração equitativa e única, a dividir entre o produtor e os artistas, intérpretes ou executantes em partes iguais, salvo acordo em contrário.
+
+4 - A autorização para os atos de comunicação ao público de obras incorporadas em fonogramas ou videogramas editados comercialmente, previstos nos n.os 3 e 4 do artigo 205.º, pode ser objeto de gestão coletiva, com efeitos alargados, pelas entidades de gestão coletiva representativas dos produtores de fonogramas e de videogramas, aplicando-se para o efeito o disposto nos artigos 36.º-A e 36.º-B da Lei n.º 26/2015, de 14 de abril, na sua redação atual.
+
+5 - Os produtores de fonogramas ou de videogramas têm a faculdade de fiscalização análoga à conferida nos n.os 1 e 2 do artigo 143.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 100/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2017-108041479), em vigor a partir de 2017-08-24
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 76.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 185.º — Identificação dos fonogramas a videogramas
+
+1 - É condição da protecção reconhecida aos produtores de fonogramas e videogramas que em todas as cópias autorizadas e no respectivo invólucro se contenha uma menção constituída pelo símbolo P (a letra P rodeada por um círculo), acompanhada da indicação do ano da primeira publicação.
+
+2 - Se a cópia ou o respectivo invólucro não permitirem a identificação do produtor ou do seu representante, a menção a que se refere o número anterior deve incluir igualmente essa identificação.
+
+3 - Presume-se produtor do fonograma ou videograma aquele cujo nome ou denominação figurar como tal nas cópias autorizadas e no respectivo invólucro, nos termos dos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 1985-09-22
+
+> Alterado pelo/a Artigo 76.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 186.º — Duração
+
+A protecção do produtor subsiste pelo período de 50 anos contados a partir do 1.º dia do ano subsequente àquele em que ocorreu a fixação.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 75.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 187.º — Direitos dos organismos de radiodifusão
+
+1 - Os organismos de radiodifusão gozam do direito de autorizar ou proibir:
+
+a) A retransmissão das suas emissões por ondas radioeléctricas;
+
+b) A fixação em suporte material das suas emissões, sejam elas efectuadas com ou sem fio;
+
+c) A reprodução da fixação das suas emissões, quando estas não tiverem sido autorizadas ou quando se tratar de fixação efémera e a reprodução visar fins diversos daqueles com que foi feita;
+
+d) A colocação das suas emissões à disposição do público, por fio ou sem fio, incluindo por cabo ou satélite, por forma que sejam acessíveis a qualquer pessoa a partir do local e no momento por ela escolhido;
+
+e) A comunicação ao público das suas emissões, quando essa comunicação é feita em lugar público e com entradas pagas.
+
+2 - Ao distribuidor por cabo que se limita a efectuar a retransmissão de emissões de organismos de radiodifusão não se aplicam os direitos previstos neste artigo.
+
+3 - Presume-se titular de direitos conexos sobre uma emissão de radiodifusão aquele cujo nome ou denominação tiver sido indicado como tal na respectiva emissão, conforme o uso consagrado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 76.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 188.º — Duração
+
+A protecção da emissão de radiodifusão subsiste pelo período de 50 anos contados do 1.º dia do ano subsequente àquele em que ocorreu o facto gerador da protecção.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 334/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1997-406483), em vigor a partir de 1997-11-02, produz efeitos a partir de 1995-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 75.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 188.º-A — Proteção de publicações de imprensa em utilizações em linha
+
+1 - Assiste aos editores de imprensa estabelecidos num Estado-Membro da União Europeia o direito exclusivo de fazer ou autorizar, por si ou pelos seus representantes, aos prestadores de serviços da sociedade de informação, toda e qualquer reprodução, comunicação ao público ou colocação à disposição do público, total ou parcial, das suas publicações de imprensa em linha, de forma a torná-las acessíveis a qualquer pessoa a partir do local e no momento por ela escolhido.
+
+2 - Sem prejuízo do disposto no artigo 189.º, os direitos previstos no presente artigo não se aplicam:
+
+a) Ao uso privado por utilizadores que sejam pessoas singulares, no exercício do direito de ser informado, mediante acesso lícito e desde que não façam uso comercial, direto ou indireto, das publicações de imprensa que são objeto deste artigo;
+
+b) Ao estabelecimento de hiperligação;
+
+c) À utilização de termos isolados ou de excertos muito curtos de publicações de imprensa.
+
+3 - Os direitos previstos no presente artigo não prejudicam os direitos conferidos pelo Direito da União a autores ou outros titulares de direitos, relativamente a obras e outros materiais protegidos que integram uma publicação de imprensa, não lhes sendo oponíveis os direitos previstos no presente artigo.
+
+4 - Sem prejuízo do disposto no artigo 174.º, os direitos previstos no n.º 1 não podem privar os autores e outros titulares de direitos do direito de exploração das suas obras e outro material protegido de forma independente da publicação de imprensa em que estão integrados.
+
+5 - Sempre que uma obra ou outros materiais protegidos forem integrados numa publicação de imprensa com base numa autorização ou licença não exclusiva, os direitos previstos no n.º 1 não podem ser invocados para proibir a sua utilização por outros utilizadores autorizados ou licenciados.
+
+6 - O previsto nos n.os 3 a 5 não prejudica os acordos contratuais celebrados entre os editores de publicações de imprensa e os autores ou outros titulares de direitos sobre uma obra ou outros materiais protegidos.
+
+7 - Os direitos previstos no n.º 1 não podem ser invocados para proibir a utilização de obras ou outras prestações em relação às quais a proteção legal tenha caducado.
+
+8 - Os litígios entre os editores de imprensa e os prestadores de serviços da sociedade de informação, relativos ao disposto no presente artigo, e à aplicação do n.º 4 do artigo seguinte, bem como os litígios entre os editores de imprensa e os autores relativos à aplicação do n.º 6 do artigo seguinte, estão sujeitos a arbitragem necessária quando, por opção expressa, respetivamente, dos editores de imprensa ou do autor, sejam submetidos à apreciação de centro de arbitragem institucionalizada a que se reporta o artigo 8.º do Decreto-Lei n.º 47/2023, de 19 de junho.
+
+> Nota: [Artigo 14.º, Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782) determina a não aplicação dos direitos conferidos no presente artigo, às publicações de imprensa publicadas pela primeira vez antes do dia 6 de junho de 2019,
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 188.º-B — Remuneração
+
+1 - Sempre que os direitos referidos no artigo anterior forem exercidos através de uma entidade de gestão coletiva, à fixação dos montantes das respetivas remunerações aplica-se o disposto na Lei n.º 26/2015, de 14 de abril, na sua redação atual, em matéria de fixação de tarifários gerais.
+
+2 - Sem prejuízo do disposto no número anterior, a remuneração deve, em especial, ter em conta o valor económico da utilização em linha de publicações de imprensa pelos serviços da sociedade da informação, incluindo, entre outros, qualquer benefício económico direto obtido pelo prestador de serviços da sociedade da informação com a utilização de publicações de imprensa.
+
+3 - Os prestadores de serviços da sociedade da informação devem facultar aos editores de publicações de imprensa, ou, se for o caso, às entidades de gestão coletiva que os representem, informação relevante e fidedigna relativa às utilizações das suas publicações de imprensa que forem feitas pelos utilizadores dos serviços da sociedade da informação, na medida em que tal seja razoável, necessário e proporcional.
+
+4 - Os prestadores de serviços da sociedade da informação não estão obrigados a prestar informação a editores de publicações de imprensa ou às entidades de gestão coletiva que atuem em representação dos editores de publicações de imprensa sempre que se demonstre que a prestação dessa informação implique uma das seguintes situações:
+
+a) A divulgação de segredos comerciais na aceção da Diretiva (UE) 2016/943 do Parlamento e do Conselho, de 8 de junho de 2016;
+
+b) A transmissão não autorizada de conteúdos protegidos por direitos de autor ou por outros direitos de exclusivo;
+
+c) A transmissão, sem fundamento de licitude, de dados pessoais protegidos pelo Regulamento (UE) n.º 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, ou por quaisquer outras disposições normativas relativas à proteção de dados pessoais.
+
+5 - A divulgação de informações comercialmente sensíveis ou que não sejam do domínio público pode ficar condicionada à assinatura de acordos de confidencialidade ou à prestação de outras garantias de confidencialidade.
+
+6 - Os autores de obras que sejam integrados numa publicação de imprensa recebem uma parte adequada e equitativa das receitas que os editores de imprensa recebem pela utilização das suas publicações de imprensa por prestadores de serviços da sociedade da informação.
+
+7 - Aos titulares de direitos a que se refere o número anterior é aplicável o disposto nos artigos 44.º-A a 44.º-F.
+
+8 - O disposto no presente artigo e no artigo anterior não prejudica as disposições legais relativas à titularidade de direitos sobre as publicações de imprensa e obras nelas incluídas ou o exercício de direitos previstos em contratos de trabalho.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+###### Artigo 189.º — Utilizações livres
+
+1 - A protecção concedida neste título não abrange:
+
+a) O uso exclusivamente privado e não comercial;
+
+b) Os excertos de uma prestação, um fonograma, um videograma, de uma emissão de radiodifusão ou de uma publicação de imprensa, contanto que o recurso a esses excertos se justifique por propósito de informação ou crítica ou qualquer outro dos que autorizam as citações ou resumos referidos na alínea h) do n.º 2 do artigo 75.º;
+
+c) A utilização destinada a fins exclusivamente científicos ou pedagógicos;
+
+d) A fixação efémera feita por organismo de radiodifusão;
+
+e) As fixações ou reproduções realizadas por entes públicos ou concessionários de serviços públicos por algum interesse excepcional de documentação ou para arquivo;
+
+f) Os demais casos em que a utilização da obra é licita sem o consentimento do autor.
+
+2 - A protecção outorgada neste capítulo ao artista não abrange a prestação decorrente do exercício de dever funcional ou de contrato de trabalho.
+
+3 - O disposto nos artigos 75.º e 76.º é aplicável aos direitos conexos, em tudo o que for compatível com a natureza destes direitos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+> Alterado pelo/a Artigo 77.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 190.º — Requisitos da protecção
+
+1 - O artista, intérprete ou executante é protegido desde que se verifique uma das seguintes condições:
+
+a) Que seja de nacionalidade portuguesa ou de Estado membro das Comunidades Europeias;
+
+b) Que a prestação ocorra em território português;
+
+c) Que a prestação original seja fixada ou radiodifundida pela primeira vez em território português.
+
+2 - Os fonogramas e os videogramas são protegidos desde que se verifique uma das seguintes condições:
+
+a) Que o produtor seja de nacionalidade portuguesa ou de um Estado membro das Comunidades Europeias ou que tenha a sua sede efectiva em território português ou em qualquer ponto do território comunitário;
+
+b) Que a fixação dos sons e imagens, separada ou cumulativamente, tenha sido feita licitamente em Portugal;
+
+c) Que o fonograma ou videograma tenha sido publicado pela primeira vez ou simultaneamente em Portugal, entendendo-se por simultânea a publicação definida no n.º 3 do artigo 65.º
+
+3 - As emissões de radiodifusão são protegidas desde que se verifique uma das seguintes condições:
+
+a) Que a sede efectiva do organismo esteja situada em Portugal ou em Estado membro das Comunidades Europeias;
+
+b) Que a emissão de radiodifusão tenha sido transmitida a partir de estação situada em território português ou de Estado membro das Comunidades Europeias.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 77.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 191.º — (Presunção de anuência)
+
+Quando, apesar da diligência do interessado, comprovada pelo Ministério da Cultura, não for possível entrar em contacto com o titular do direito ou este se não pronunciar num prazo razoável que para o efeito lhe for assinado, presume-se a anuência, mas o interessado só pode fazer a utilização pretendida se caucionar o pagamento da remuneração.
+
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 77.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 192.º — (Modos de exercício)
+
+1 - As disposições sobre os modos de exercício dos direitos de autor aplicam-se no que couber aos modos de exercício dos direitos conexos.
+
+2 - As disposições da secção xi do capítulo iii do título ii aplicam-se, com as necessárias adaptações, ao exercício dos direitos conexos para as utilizações em linha.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 77.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 193.º — (Extensão da protecção)
+
+Beneficiam também de protecção os artistas, os produtores de fonogramas ou videogramas e os organismos de radiodifusão protegidos por convenções internacionais ratificadas ou aprovadas.
+
+> Alterado pelo/a Artigo 78.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 194.º — (Retroactividade)
+
+1 - A duração da protecção e a contagem do respectivo prazo determinam-se nos termos dos artigos 183.º, 186.º e 188.º, ainda que os factos geradores da protecção tenham ocorrido anteriormente à entrada em vigor deste Código.
+
+2 - No caso de os titulares de direitos conexos beneficiarem, por força de disposição legal, de um prazo de protecção superior aos previstos neste Código, prevalecem estes últimos.
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+## Título IV — Da violação e defesa do direito de autor e dos direitos conexos
+
+###### Artigo 195.º — (Usurpação)
+
+1 - Comete o crime de usurpação quem, sem autorização do autor ou do artista, do produtor de fonograma e videograma, do organismo de radiodifusão ou do editor de publicação de imprensa, utilizar uma obra ou prestação por qualquer das formas previstas no presente Código.
+
+2 - Comete também o crime de usurpação:
+
+a) Quem divulgar ou publicar abusivamente uma obra ainda não divulgada nem publicada pelo seu autor ou não destinada a divulgação ou publicação, mesmo que a apresente como sendo do respectivo autor, quer se proponha ou não obter qualquer vantagem económica;
+
+b) Quem coligir ou compilar obras publicadas ou inéditas sem a autorização do autor;
+
+c) Quem, estando autorizado a utilizar uma obra, prestação de artista, fonograma, videograma, emissão radiodifundida ou publicação de imprensa, exceder os limites da autorização concedida, salvo nos casos expressamente previstos no presente Código.
+
+3 - Será punido com as penas previstas no artigo 197.º o autor que, tendo transmitido, total ou parcialmente, os respectivos direitos ou tendo autorizado a utilização da sua obra por qualquer dos modos previstos neste Código, a utilizar directa ou indirectamente com ofensa dos direitos atribuídos a outrem.
+
+4 - O disposto nos números anteriores não se aplica às situações de comunicação pública de fonogramas e videogramas editados comercialmente, puníveis como ilícito contraordenacional, nos termos dos n.os 3, 4 e 6 a 12 do artigo 205.º
+
+5 - A conduta não é punível quando o prestador de serviços de partilha de conteúdos em linha cumpra as condições previstas, consoante os casos, no n.º 1 do artigo 175.º-C ou nos n.os 1 e 2 do artigo 175.º-D.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+> Aditado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 196.º — Contrafacção
+
+1 - Comete o crime de contrafação quem utilizar, como sendo criação ou prestação sua, obra, prestação de artista, fonograma, videograma, emissão de radiodifusão ou publicação de imprensa, que seja mera reprodução total ou parcial de obra ou prestação alheia, divulgada ou não divulgada, ou por tal modo semelhante que não tenha individualidade própria.
+
+2 - Se a reprodução referida no número anterior representar apenas parte ou fracção da obra ou prestação, só essa parte ou fracção se considera como contrafacção.
+
+3 - Para que haja contrafacção não é essencial que a reprodução seja feita pelo mesmo processo que o original, com as mesmas dimensões ou com o mesmo formato.
+
+4 - Não importam contrafacção:
+
+a) A semelhança entre traduções, devidamente autorizadas, da mesma obra ou entre fotografias, desenhos, gravuras ou outra forma de representação do mesmo objecto, se, apesar das semelhanças decorrentes da identidade do objecto, cada uma das obras tiver individualidade própria;
+
+b) A reprodução pela fotografia ou pela gravura efectuada só para o efeito de documentação da crítica artística.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Alterado pelo/a Artigo 81.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 197.º — Penalidades
+
+1 - Os crimes previstos nos artigos anteriores são punidos com pena de prisão até três anos e multa de 150 a 250 dias, de acordo com a gravidade da infracção, agravadas uma e outra para o dobro em caso de reincidência, se o facto constitutivo da infracção não tipificar crime punível com pena mais grave.
+
+2 - Nos crimes previstos neste título a negligência é punível com multa de 50 a 150 dias.
+
+3 - Em caso de reincidência, não há suspensão da pena.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Aditado pelo/a Artigo 83.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 198.º — Violação do direito moral
+
+É punido com as penas previstas no artigo anterior:
+
+a) Quem se arrogar a paternidade de uma obra de prestação que sabe não lhe pertencer;
+
+b) Quem atentar contra a genuinidade ou integridade da obra ou prestação, praticando acto que a desvirtue e possa afectar a honra ou reputação do autor ou do artista.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/91 - Diário da República n.º 202/1991, Série I-A de 1991-09-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1991-305256), em vigor a partir de 1991-09-08
+
+> Aditado pelo/a Artigo 93.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 199.º — (Aproveitamento de obra contrafeita ou usurpada)
+
+1 - Quem vender, puser à venda, importar, exportar ou por qualquer modo distribuir ao público obra usurpada ou contrafeita ou cópia não autorizada de fonograma ou videograma, quer os respectivos exemplares tenham sido produzidos no País quer no estrangeiro, será punido com as penas previstas no artigo 197.º
+
+2 - A negligência é punível com multa até cinquenta dias.
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 200.º — (Procedimento criminal)
+
+1 - O procedimento criminal relativo aos crimes previstos neste Código não depende de queixa do ofendido, excepto quando a infracção disser exclusivamente respeito à violação de direitos morais.
+
+2 - Tratando-se de obras caídas no domínio público, a queixa deverá ser apresentada pelo Ministério da Cultura.
+
+> Aditado pelo/a Artigo 85.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 201.º — Apreensão e perda de coisas relacionadas com a prática de crime
+
+1 - São sempre apreendidos os exemplares ou cópias das obras usurpadas ou contrafeitas, quaisquer que sejam a natureza da obra e a forma de violação, bem como os respectivos invólucros materiais, máquinas ou demais instrumentos ou documentos de que haja suspeita de terem sido utilizados ou de se destinarem à prática da infracção.
+
+2 - Nos casos de flagrante delito, têm competência para proceder à apreensão as autoridades policiais e administrativas, designadamente a Polícia Judiciária, a Polícia de Segurança Pública, a Polícia Marítima, a Guarda Nacional Republicana, a Autoridade de Segurança Alimentar e Económica e a Inspecção-Geral das Actividades Culturais.
+
+3 - A sentença que julgar do mérito da acção judicial declara perdidos a favor do Estado os bens que tiverem servido ou estivessem destinados directamente a servir para a prática de um ilícito, ou que por este tiverem sido produzidos, sendo as cópias ou exemplares destruídos, sem direito a qualquer indemnização.
+
+4 - Na aplicação destas medidas, o tribunal deve ter em consideração os legítimos interesses de terceiros, em particular dos consumidores.
+
+5 - O tribunal, ponderada a natureza e qualidade dos bens declarados perdidos a favor do Estado, pode atribuí-los a entidades, públicas ou privadas, sem fins lucrativos se o lesado der o seu consentimento expresso para o efeito.
+
+6 - O tribunal pode igualmente impor ao infractor, ou ao intermediário cujos serviços estejam a ser utilizados pelo infractor, uma medida destinada a inibir a continuação da infracção verificada, designadamente a interdição temporária do exercício de certas actividades ou profissões, a privação do direito de participar em feiras ou mercados ou o encerramento temporário ou definitivo do estabelecimento.
+
+7 - Nas decisões de condenação à cessação de uma actividade ilícita, o tribunal pode prever uma sanção pecuniária compulsória destinada a assegurar a respectiva execução.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 86.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 202.º — (Regime especial em caso de violação de direito moral)
+
+1 - Se apenas for reivindicada a paternidade da obra, pode o tribunal, a requerimento do autor, em vez de ordenar a destruição, mandar entregar àquele os exemplares apreendidos, desde que se mostre possível, mediante adição ou substituição das indicações referentes à sua autoria, assegurar ou garantir aquela paternidade.
+
+2 - Se o autor defender a integridade da obra, pode o tribunal, em vez de ordenar a destruição dos exemplares deformados, mutilados ou modificados por qualquer outro modo, mandar entregá-los ao autor, a requerimento deste, se for possível restituir esses exemplares à forma original.
+
+> Alterado pelo/a Artigo 87.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 203.º — (Responsabilidade civil)
+
+A responsabilidade civil emergente da violação dos direitos previstos neste Código é independente do procedimento criminal a que esta dê origem, podendo contudo ser exercida em conjunto com a acção criminal.
+
+> Aditado pelo/a Artigo 88.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 204.º — (Regime das contra-ordenações)
+
+Às contraordenações económicas previstas no presente Código é subsidiariamente aplicável, em tudo quanto não se encontre especialmente regulado, o disposto no Regime Jurídico das Contraordenações Económicas (RJCE).
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 100/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2017-108041479), em vigor a partir de 2017-08-24
+
+> Alterado pelo/a Artigo 89.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 205.º — Contraordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do RJCE:
+
+a) A falta de comunicação pelos importadores, fabricantes e vendedores de suportes materiais para obras fonográficas e videográficas das quantidades importadas, fabricadas e vendidas, nos termos do n.º 2 do artigo 143.º;
+
+b) A falta de comunicação pelos fabricantes e duplicadores de fonogramas e videogramas das quantidades que prensarem ou duplicarem, nos termos do n.º 3 do artigo 143.º
+
+2 - Constitui contraordenação económica leve, punível nos termos do RJCE, a inobservância do disposto no artigo 97.º, no n.º 4 do artigo 115.º, no n.º 2 do artigo 126.º, nos artigos 134.º, 142.º, e 154.º, no n.º 3 do artigo 160.º, nos artigos 171.º e 185.º, bem como, não se dispensando indicação do nome ou pseudónimo do artista, no n.º 1 do artigo 180.º
+
+3 - Constitui contraordenação económica grave, punível nos termos do RJCE, a comunicação ao público de fonogramas previamente editados comercialmente, obras e prestações neles incorporadas, sem autorização do respetivo autor, produtor do fonograma ou dos seus representantes, se a mesma for legalmente exigida, nas seguintes modalidades:
+
+a) Sob a forma de execução pública, por qualquer meio e em qualquer lugar público, na aceção do n.º 3 do artigo 149.º;
+
+b) Sob a forma de radiodifusão audiovisual de fonogramas previamente incorporados em obras audiovisuais com autorização dos respetivos titulares.
+
+4 - Constitui contraordenação económica grave, punível nos termos do RJCE, a comunicação ao público, em qualquer lugar público na aceção do n.º 3 do artigo 149.º, de videogramas previamente editados ou estreados comercialmente, através de emissões e retransmissões televisivas disponibilizadas ao público, bem como das obras e prestações neles incorporadas, sem as autorizações do respetivo autor, do produtor de videogramas ou dos seus representantes, se a mesma for legalmente exigida.
+
+5 - Os atos de colocação à disposição do público, por fio ou sem fio, de fonograma ou videograma, por forma a torná-los acessíveis a qualquer pessoa a partir do local e no momento por ela escolhido, bem como a exibição cinematográfica, não autorizados, não constituem atos de comunicação ao público para efeitos do disposto nos n.os 3 e 4, sendo punidos nos termos do artigo 195.º
+
+6 - Constitui contraordenação económica leve, punível nos termos do RJCE, a utilização de um fonograma e videograma por quem, estando autorizado a utilizá-lo para os fins previstos nos n.os 3 e 4, exceda os limites da autorização concedida.
+
+7 - A negligência e a tentativa são puníveis nos termos do RJCE.
+
+8 - Na determinação da medida da coima, além dos critérios gerais aplicáveis, tem-se em conta a gravidade da lesão, a sua frequência e o alcance da difusão ilícita dos fonogramas e videogramas, assegurando-se que o montante da coima concretamente aplicada não será, fora dos casos de pagamento voluntário da coima, inferior aos valores que seriam devidos caso o infrator tivesse solicitado autorização para utilizar os direitos em questão.
+
+9 - Em caso de reincidência, a mesma é valorada nos termos do RJCE.
+
+10 - Nas situações em que há lugar a procedimento contraordenacional, em função da gravidade da infração e da culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
+
+a) A perda, a favor do Estado, dos bens apreendidos sendo aplicável com as necessárias adaptações o disposto nos n.os 3 a 5 do artigo 201.º;
+
+b) A interdição temporária do exercício de atividade no âmbito da qual ocorreu a contraordenação;
+
+c) A privação temporária do direito do infrator em participar em feiras ou mercados.
+
+11 - Pode ser determinada a publicidade da decisão condenatória, sendo aplicável, com as necessárias adaptações o disposto no artigo 211.º-A.
+
+12 - A instauração de um procedimento de contraordenação pelos factos previstos nos n.os 3, 4 ou 6, não prejudica o recurso, por parte dos titulares dos direitos, lesados ou ofendidos, a qualquer outro meio de tutela legalmente previsto.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 89.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 206.º — Competência para o processamento das contra-ordenações e aplicação das coimas
+
+A competência para o processamento das contra-ordenações é da Inspecção-Geral das Actividades Culturais e a aplicação das coimas pertence ao respectivo inspector-geral.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 90.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 206.º-A — Regras relativas ao procedimento contraordenacional
+
+1 - São competentes para levantar o respetivo auto e efetuar a apreensão referidos nos n.os 2 e 3 as entidades que, nos termos do n.º 2 do artigo 201.º, têm competência para proceder à apreensão, nos casos de flagrante delito, pela prática dos crimes previstos neste Código.
+
+2 - A entidade que levantar o auto deve dar imediato conhecimento desse facto à Inspeção-Geral das Atividades Culturais (IGAC), a qual, nos casos em que tal seja admissível, notifica o infrator para o pagamento voluntário da coima nos termos do RJCE, sem prejuízo das especificidades previstas nos n.os 6 e 7.
+
+3 - Em caso de reincidência, incluindo os casos em que não é respeitada a advertência prevista no número seguinte, são apreendidos os fonogramas, videogramas bem como os respetivos suportes, invólucros materiais, máquinas, aparelhos, equipamentos e demais instrumentos sobre os quais haja suspeita de terem sido utilizados ou que se destinem à prática de infração.
+
+4 - Nos casos de flagrante delito, a autoridade que proceder ao levantamento do auto deve advertir sobre a proibição de prosseguir a comunicação pública de fonogramas e videogramas editados ou estreados comercialmente, sem a prévia obtenção das autorizações em falta, sob pena da prática de um crime de desobediência.
+
+5 - Recebido um auto de contraordenação pelos factos previstos nos n.os 3, 4 ou 6 do artigo 205.º, a IGAC deve notificar as entidades de gestão coletiva que representam os respetivos titulares, do levantamento do respetivo auto, das circunstâncias de tempo, lugar e modo da infração e da identidade do presumível infrator.
+
+6 - O pagamento voluntário da coima pelo montante mínimo só é admitido caso o infrator, até ao momento em que o requerer, demonstre ter obtido a autorização em falta e desde que não se verifique a circunstância prevista no n.º 9 do artigo 205.º
+
+7 - Para o efeito previsto no número anterior, entende-se como obtenção da autorização em falta o documento comprovativo emitido pelo autor, pelos titulares de direitos conexos, ou pelas entidades que respetivamente os representem, quanto à concessão de autorização relativa ao ano em que foi praticada a contraordenação, no caso de prática continuada, e desde a data de início de tal utilização, no caso de prática pontual e isolada, sem prejuízo das regras legais gerais que legitimam a recusa de concessão da autorização.
+
+8 - A decisão final do procedimento contraordenacional determina o destino dos bens apreendidos, em função da respetiva gravidade, de acordo com o previsto no artigo 210.º-I.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+###### Artigo 207.º — (Efeito do recurso)
+
+Não tem efeito suspensivo o recurso da decisão que aplicar coima de montante inferior a 80000$00.
+
+> Alterado pelo/a Artigo 90.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422599), em vigor a partir de 1985-03-19
+
+###### Artigo 208.º — (Destino do produto das coimas)
+
+O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 100/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2017-108041479), em vigor a partir de 2017-08-24
+
+> Alterado pelo/a Artigo 90.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 209.º — Medidas cautelares administrativas
+
+Sem prejuízo das providências cautelares previstas na lei de processo, pode o autor requerer das autoridades policiais e administrativas do lugar onde se verifique a violação do seu direito a imediata suspensão de representação, recitação, execução ou qualquer outra forma de exibição de obra protegida que se estejam realizando sem a devida autorização e, cumulativamente, requerer a apreensão da totalidade das receitas.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 91.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 210.º — (Identificação ilegítima)
+
+O uso ilegítimo do nome literário ou artístico ou de qualquer outra forma de identificação do autor confere ao interessado o direito de pedir, além da cessação de tal uso, indemnização por perdas e danos.
+
+> Alterado pelo/a Artigo 92.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 210.º-A — Medidas para obtenção da prova
+
+1 - Sempre que elementos de prova se encontrem na posse, na dependência ou sob controlo da parte contrária ou de terceiros, pode o interessado requerer ao tribunal que os mesmos sejam apresentados, desde que para fundamentar a sua pretensão apresente indícios suficientes de violação de direito de autor ou de direitos conexos.
+
+2 - Quando estejam em causa actos praticados à escala comercial, pode ainda o requerente solicitar ao tribunal a apresentação de documentos bancários, financeiros, contabilísticos ou comerciais que se encontrem na posse, na dependência ou sob controlo da parte contrária.
+
+3 - Em cumprimento do previsto nos números anteriores, o tribunal, assegurando a protecção de informações confidenciais, notifica a parte requerida para, dentro do prazo designado, apresentar os elementos de prova que se encontrem na sua posse, promovendo as acções necessárias em caso de incumprimento.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 210.º-B — Medidas para preservação da prova
+
+1 - Sempre que haja violação ou fundado receio de que outrem cause lesão grave e dificilmente reparável do direito de autor ou dos direitos conexos, pode o interessado requerer medidas provisórias urgentes e eficazes que se destinem a preservar provas da alegada violação.
+
+2 - As medidas de preservação da prova podem incluir a descrição pormenorizada, com ou sem recolha de amostras, ou a apreensão efectiva de bens que se suspeite violarem direitos de autor ou direitos conexos e, sempre que adequado, dos materiais e instrumentos utilizados na produção ou distribuição desses bens, assim como dos documentos a eles referentes.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 210.º-C — Tramitação e contraditório
+
+1 - Sempre que um eventual atraso na aplicação das medidas possa causar danos irreparáveis ao requerente, ou sempre que exista um risco sério de destruição ou ocultação da prova, as medidas previstas no artigo anterior podem ser aplicadas sem audiência prévia da parte requerida.
+
+2 - Quando as medidas de preservação da prova sejam aplicadas sem audiência prévia da parte requerida, esta é imediatamente notificada.
+
+3 - Na sequência da notificação prevista no número anterior, pode a parte requerida pedir, no prazo de 10 dias, a revisão das medidas aplicadas, produzindo prova e alegando factos não tidos em conta pelo tribunal.
+
+4 - Ouvida a parte requerida, o tribunal pode determinar a alteração, a revogação ou a confirmação das medidas aplicadas.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 210.º-D — Causas de extinção e caducidade
+
+Às medidas de obtenção e de preservação de prova são aplicáveis as causas de extinção e caducidade previstas no artigo 389.º do Código de Processo Civil, salvo quando elas se configurem como medidas preliminares de interposição de providências cautelares nos termos do artigo 210.º-G.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 210.º-E — Responsabilidade do requerente
+
+1 - A aplicação das medidas de preservação de prova pode ficar dependente da constituição, pelo requerente, de uma caução ou outra garantia destinada a assegurar a indemnização prevista no n.º 3.
+
+2 - Na fixação do valor da caução deve ser tida em consideração, entre outros factores relevantes, a capacidade económica do requerente.
+
+3 - Sempre que a medida de preservação da prova aplicada for considerada injustificada ou deixe de produzir efeitos por facto imputável ao requerente, bem como nos casos em que se verifique não ter havido violação de direito de autor ou de direitos conexos, pode o tribunal ordenar ao requerente, a pedido da parte requerida, o pagamento de uma indemnização adequada a reparar qualquer dano causado pela aplicação das medidas.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 210.º-F — Obrigação de prestar informações
+
+1 - O titular de direito de autor ou de direitos conexos, ou o seu representante autorizado, pode requerer a prestação de informações detalhadas sobre a origem e as redes de distribuição dos bens ou serviços em que se materializa a violação de direito de autor ou de direitos conexos, designadamente:
+
+a) Os nomes e os endereços dos produtores, fabricantes, distribuidores, fornecedores e outros possuidores anteriores desses bens ou serviços, bem como dos grossistas e dos retalhistas destinatários;
+
+b) Informações sobre as quantidades produzidas, fabricadas, entregues, recebidas ou encomendadas, bem como sobre o preço obtido pelos bens ou serviços.
+
+2 - A prestação das informações previstas neste artigo pode ser ordenada ao alegado infractor, ou a qualquer pessoa que:
+
+a) Tenha sido encontrada na posse dos bens ou a utilizar ou prestar os serviços, à escala comercial, que se suspeite violarem direito de autor ou direitos conexos;
+
+b) Tenha sido indicada por pessoa referida na alínea anterior, como tendo participado na produção, fabrico ou distribuição dos bens ou na prestação de serviços que se suspeite violarem direito de autor ou direitos conexos.
+
+3 - O previsto no presente artigo não prejudica a aplicação de outras disposições legislativas ou regulamentares que, designadamente:
+
+a) Confiram ao requerente o direito a uma informação mais extensa;
+
+b) Regulem a sua utilização em processos de natureza cível ou penal;
+
+c) Regulem a responsabilidade por abuso do direito à informação;
+
+d) Confiram o direito de não prestar declarações que possam obrigar qualquer das pessoas referidas no n.º 2 a admitir a sua própria participação ou de familiares próximos;
+
+e) Confiram o direito de invocar sigilo profissional, a protecção da confidencialidade das fontes de informação ou o regime legal de protecção dos dados pessoais.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 210.º-G — Providências cautelares
+
+1 - Sempre que haja violação ou fundado receio de que outrem cause lesão grave e dificilmente reparável do direito de autor ou dos direitos conexos, pode o tribunal, a pedido do requerente, decretar as providências adequadas a:
+
+a) Inibir qualquer violação iminente; ou
+
+b) Proibir a continuação da violação.
+
+2 - O tribunal exige que o requerente forneça os elementos de prova para demonstrar que é titular de direito de autor ou de direitos conexos, ou que está autorizado a utilizá-los, e que se verifica ou está iminente uma violação.
+
+3 - As providências previstas no n.º 1 podem também ser decretadas contra qualquer intermediário cujos serviços estejam a ser utilizados por terceiros para violar direito de autor ou direitos conexos, nos termos do artigo 227.º
+
+4 - Pode o tribunal, oficiosamente ou a pedido do requerente, decretar uma sanção pecuniária compulsória com vista a assegurar a execução das providências previstas no n.º 1.
+
+5 - Ao presente artigo é aplicável o disposto nos artigos 210.º-C a 210.º-E.
+
+6 - A pedido da parte requerida, as providências decretadas a que se refere o n.º 1 podem, no prazo de 10 dias, ser substituídas por caução, sempre que esta, ouvido o requerente, se mostre adequada a assegurar a indemnização do titular.
+
+7 - Na determinação das providências previstas neste artigo, deve o tribunal atender à natureza do direito de autor ou dos direitos conexos, salvaguardando nomeadamente a possibilidade de o titular continuar a explorar, sem qualquer restrição, os seus direitos.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 210.º-H — Arresto
+
+1 - Em caso de infracção à escala comercial, actual ou iminente, e sempre que o interessado prove a existência de circunstâncias susceptíveis de comprometer a cobrança da indemnização por perdas e danos, pode o tribunal ordenar a apreensão dos bens móveis e imóveis do alegado infractor, incluindo os saldos das suas contas bancárias, podendo o juiz ordenar a comunicação ou o acesso aos dados e informações bancárias ou comerciais respeitantes ao infractor.
+
+2 - Sempre que haja violação, actual ou iminente, de direitos de autor ou de direitos conexos, pode o tribunal, a pedido do interessado, ordenar a apreensão dos bens que suspeite violarem esses direitos, bem como dos instrumentos que sirvam essencialmente para a prática do ilícito.
+
+3 - Para efeitos do disposto nos números anteriores, o tribunal exige que o requerente forneça todos os elementos de prova razoavelmente disponíveis para demonstrar que é titular do direito de autor ou dos direitos conexos, ou que está autorizado a utilizá-lo, e que se verifica ou está iminente uma violação.
+
+4 - Ao presente artigo é aplicável o disposto nos artigos 210.º-C a 210.º-E.
+
+5 - O disposto neste artigo não prejudica a possibilidade de recurso ao arresto previsto no Código de Processo Civil por parte do titular de um direito de autor ou direito conexo.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 210.º-I — Perda de instrumentos e bens
+
+1 - Sem prejuízo da fixação de uma indemnização por perdas e danos, a decisão judicial de mérito deve, a pedido do lesado e a expensas do infractor, determinar medidas relativas ao destino dos bens em que se tenha verificado violação de direito de autor ou de direitos conexos.
+
+2 - As medidas previstas no número anterior devem ser adequadas, necessárias e proporcionais à gravidade da violação, podendo incluir a destruição, a retirada ou a exclusão definitiva dos circuitos comerciais, sem atribuição de qualquer compensação ao infractor.
+
+3 - O tribunal, ponderada a natureza e qualidade dos bens declarados perdidos a favor do Estado, pode atribuí-los a entidades públicas ou privadas sem fins lucrativos, se o lesado der o seu consentimento expresso para o efeito.
+
+4 - Na aplicação destas medidas, o tribunal deve ter em consideração os legítimos interesses de terceiros, em particular os consumidores.
+
+5 - Os instrumentos utilizados no fabrico dos bens em que se manifeste violação de direito de autor ou direitos conexos devem ser, igualmente, objeto das regras relativas ao destino de bens previstas no presente artigo.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 100/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2017-108041479), em vigor a partir de 2017-08-24
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 210.º-J — Medidas inibitórias
+
+1 - A decisão judicial de mérito pode igualmente impor ao infractor uma medida destinada a inibir a continuação da infracção verificada.
+
+2 - As medidas previstas no número anterior podem compreender:
+
+a) A interdição temporária do exercício de certas actividades ou profissões;
+
+b) A privação do direito de participar em feiras ou mercados;
+
+c) O encerramento temporário ou definitivo do estabelecimento.
+
+3 - Pode o tribunal, oficiosamente ou a pedido do requerente, decretar uma sanção pecuniária compulsória com vista a assegurar a execução das medidas previstas neste artigo.
+
+4 - O disposto neste artigo é aplicável a qualquer intermediário cujos serviços estejam a ser utilizados por terceiros para violar direito de autor ou direitos conexos, nos termos do disposto do artigo 227.º
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 210.º-L — Escala comercial
+
+1 - Para efeitos do disposto no presente Código, entende-se por actos praticados à escala comercial todos aqueles que violem direito de autor ou direitos conexos e que tenham por finalidade uma vantagem económica ou comercial, directa ou indirecta.
+
+2 - Da definição prevista no número anterior excluem-se os actos praticados por consumidores finais agindo de boa-fé.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 211.º — Indemnização
+
+1 - Quem, com dolo ou mera culpa, viole ilicitamente o direito de autor ou os direitos conexos de outrem, fica obrigado a indemnizar a parte lesada pelas perdas e danos resultantes da violação.
+
+2 - Na determinação do montante da indemnização por perdas e danos, patrimoniais e não patrimoniais, o tribunal deve atender ao lucro obtido pelo infractor, aos lucros cessantes e danos emergentes sofridos pela parte lesada e aos encargos por esta suportados com a protecção do direito de autor ou dos direitos conexos, bem como com a investigação e cessação da conduta lesiva do seu direito.
+
+3 - Para o cálculo da indemnização devida à parte lesada, deve atender-se à importância da receita resultante da conduta ilícita do infractor, designadamente do espectáculo ou espectáculos ilicitamente realizados.
+
+4 - O tribunal deve atender ainda aos danos não patrimoniais causados pela conduta do infractor, bem como às circunstâncias da infracção, à gravidade da lesão sofrida e ao grau de difusão ilícita da obra ou da prestação.
+
+5 - Na impossibilidade de se fixar, nos termos dos números anteriores, o montante do prejuízo efectivamente sofrido pela parte lesada, e desde que este não se oponha, pode o tribunal, em alternativa, estabelecer uma quantia fixa com recurso à equidade, que tenha por base, no mínimo, as remunerações que teriam sido auferidas caso o infractor tivesse solicitado autorização para utilizar os direitos em questão e os encargos por aquela suportados com a protecção do direito de autor ou dos direitos conexos, bem como com a investigação e cessação da conduta lesiva do seu direito.
+
+6 - Quando, em relação à parte lesada, a conduta do infractor constitua prática reiterada ou se revele especialmente gravosa, pode o tribunal determinar a indemnização que lhe é devida com recurso à cumulação de todos ou de alguns dos critérios previstos nos n.os 2 a 5.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 92.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 211.º-A — Publicidade das decisões judiciais
+
+1 - A pedido do lesado e a expensas do infractor, pode o tribunal ordenar a publicitação da decisão final.
+
+2 - A publicitação prevista no número anterior pode ser feita através da divulgação em qualquer meio de comunicação que se considere adequado.
+
+3 - A publicitação é feita por extracto, do qual constem elementos da sentença e da condenação, bem como a identificação dos agentes.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 211.º-B — Direito subsidiário
+
+1 - Em tudo o que não estiver especialmente regulado no presente título, são subsidiariamente aplicáveis outras medidas e procedimentos previstos na lei, nomeadamente no Código de Processo Civil.
+
+2 - O disposto no presente título não prejudica a possibilidade de recurso, por parte do titular de um direito de autor ou direito conexo, aos procedimentos e acções previstos no Código de Processo Civil.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06
+
+###### Artigo 212.º — (Concorrência desleal)
+
+A protecção prevista no presente Código não prejudica a protecção assegurada nos termos da legislação sobre concorrência desleal.
+
+> Revogado pelo/a Artigo 5.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23
+
+> Alterado pelo/a Artigo 92.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+## Título V — Do registo
+
+## Tabela a que se refere o n.º 3 do artigo 75.º
+
+Cada registo ... 5000$00
+
+Depósito das listas das sociedades de autores ou de entidades similares - cada lista ... 2000$00
+
+Situação de listas ... Grátis
+
+Depósito de aditamento às listas das sociedades de autores ou entidades similares - cada aditamento ... 1000$00
+
+Pela desistência do acto de registo requerido depois de efectuada a respectiva apresentação no Diário ... 1000$00
+
+Cada certificado ... 1000$00
+
+###### Artigo 213.º — (Regra geral)
+
+O direito de autor e os direitos deste derivados adquirem-se independentemente de registo, sem prejuízo do disposto no artigo seguinte.
+
+> Alterado pelo/a Artigo 92.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 214.º — (Registo constitutivo)
+
+Condiciona a efectividade da protecção legal o registo:
+
+a) Do título da obra não publicada nos termos do n.º 3 do artigo 4.º;
+
+b) Dos títulos dos jornais e outras publicações periódicas.
+
+> Alterado pelo/a Artigo 92.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 215.º — (Objecto do registo)
+
+1 - Estão sujeitos a registo:
+
+a) Os factos que importem constituição, transmissão, oneração, alienação, modificação ou extinção do direito de autor;
+
+b) O nome literário ou artístico;
+
+c) O título da obra ainda não publicada;
+
+d) A penhora e o arresto sobre o direito de autor;
+
+e) O mandato nos termos do artigo 75.º
+
+2 - São igualmente objecto de registo:
+
+a) As acções que tenham por fim principal ou acessório a constituição, o reconhecimento, a modificação ou a extinção do direito de autor;
+
+b) As acções que tenham por fim principal ou acessório a reforma, a declaração de nulidade ou a anulação de um registo ou do seu cancelamento;
+
+c) As respectivas decisões finais, logo que transitem em julgado.
+
+> Alterado pelo/a Artigo 92.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+###### Artigo 216.º — (Nome literário ou artístico)
+
+1 - O nome literário ou artístico só é registável em benefício do criador de obra anteriormente registada.
+
+2 - O registo do nome literário ou artístico não tem outro efeito além da mera publicação do seu uso.
+
+> Alterado pelo/a Artigo 92.º do/a [Lei n.º 45/85 - Diário da República n.º 214/1985, Série I de 1985-09-17](https://diariodarepublica.pt/dr/detalhe/lei/45-1985-177444), em vigor a partir de 1985-09-22
+
+## Título VI — Protecção das medidas de carácter tecnológico e das informações para a gestão electrónica dos direitos
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 217.º — Protecção das medidas tecnológicas
+
+1 - É assegurada protecção jurídica, nos termos previstos neste Código, aos titulares de direitos de autor e conexos, bem como ao titular do direito sui generis previsto no Decreto-Lei n.º 122/2000, de 4 de Julho, com a excepção dos programas de computador, contra a neutralização de qualquer medida eficaz de carácter tecnológico.
+
+2 - Para os efeitos do disposto no número anterior, entende-se por 'medidas de caráter tecnológico' toda a técnica, dispositivo ou componente que, no decurso do seu funcionamento normal, se destinem a impedir ou restringir atos relativos a obras, prestações e produções protegidas, que não sejam utilizações livres previstas no n.º 2 do artigo 75.º, no artigo 81.º, no artigo 82.º-B, no n.º 4 do artigo 152.º e no n.º 1 do artigo 189.º
+
+3 - As medidas de carácter tecnológico são consideradas 'eficazes' quando a utilização da obra, prestação ou produção protegidas seja controlada pelos titulares de direitos mediante a aplicação de um controlo de acesso ou de um processo de protecção como, entre outros, a codificação, cifragem ou outra transformação da obra, prestação ou produção protegidas, ou um mecanismo de controlo da cópia, que garanta a realização do objectivo de protecção.
+
+4 - A aplicação de medidas tecnológicas de controlo de acesso é definida de forma voluntária e opcional pelo detentor dos direitos de reprodução da obra, enquanto tal for expressamente autorizado pelo seu criador intelectual.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 36/2017 - Diário da República n.º 107/2017, Série I de 2017-06-02](https://diariodarepublica.pt/dr/detalhe/lei/36-2017-107458719), em vigor a partir de 2017-06-03
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 218.º — Tutela penal
+
+1 - Quem, não estando autorizado, neutralizar qualquer medida eficaz de carácter tecnológico, sabendo isso ou tendo motivos razoáveis para o saber, é punido com pena de prisão até 1 ano ou com pena de multa até 100 dias.
+
+2 - A tentativa é punível com multa até 25 dias.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 219.º — Actos preparatórios
+
+Quem, não estando autorizado, proceder ao fabrico, importação, distribuição, venda, aluguer, publicidade para venda ou aluguer, ou tiver a posse para fins comerciais de dispositivos, produtos ou componentes ou ainda realize as prestações de serviços que:
+
+a) Sejam promovidos, publicitados ou comercializados para neutralizar a protecção de uma medida eficaz de carácter tecnológico; ou
+
+b) Só tenham limitada finalidade comercial ou utilização para além da neutralização da protecção da medida eficaz de carácter tecnológico; ou
+
+c) Sejam essencialmente concebidos, produzidos, adaptados ou executados com o objectivo de permitir ou facilitar a neutralização da protecção de medidas de carácter tecnológico eficazes;
+
+é punido com pena de prisão até 6 meses ou com pena de multa até 20 dias.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 220.º — Extensão aos acordos
+
+As medidas eficazes de carácter tecnológico resultantes de acordos, de decisões de autoridades ou da aplicação voluntária pelos titulares de direitos de autor e conexos destinadas a permitir as utilizações livres aos beneficiários, nos termos previstos neste Código, gozam da protecção jurídica estabelecida nos artigos anteriores.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 221.º — Limitações à protecção das medidas tecnológicas
+
+1 - As medidas eficazes de caráter tecnológico não podem constituir um obstáculo ao exercício normal pelos beneficiários das utilizações livres e permitidas, previstas no n.º 2 do artigo 75.º, no artigo 81.º, no artigo 82.º-B, no n.º 4 do artigo 152.º e no n.º 1 do artigo 189.º
+
+2 - Está interdita a aplicação de medidas eficazes de caráter tecnológico a obras no domínio público, a novas edições de obras no domínio público e a obras editadas por entidades públicas ou com financiamento público.
+
+3 - A proteção jurídica concedida pelo presente Código não abrange as situações em que se verifique, em resultado de omissão de conduta, que uma medida eficaz de caráter tecnológico impede ou restringe o uso ou a fruição livre de uma obra por parte de um beneficiário que tenha legalmente acesso ao bem protegido, ou que tenha sido aplicada sem autorização do titular de direitos de autor ou de direitos conexos.
+
+4 - Para a resolução de litígios sobre a matéria em causa, é competente o centro de arbitragem institucionalizada a que se reporta o artigo 8.º do Decreto-Lei n.º 47/2023, de 19 de junho.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 36/2017 - Diário da República n.º 107/2017, Série I de 2017-06-02](https://diariodarepublica.pt/dr/detalhe/lei/36-2017-107458719), em vigor a partir de 2017-06-03
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 222.º — Excepção
+
+O disposto no artigo anterior não se aplica às obras, prestações ou produções protegidas disponibilizadas ao público na sequência de acordo entre titulares e utilizadores, de tal forma que a pessoa possa aceder a elas a partir de um local e num momento por ela escolhido.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 223.º — Informação para a gestão electrónica de direitos
+
+1 - É assegurada protecção jurídica, nos termos previstos neste Código, aos titulares de direitos de autor e conexos, bem como ao titular do direito sui generis previsto no Decreto-Lei n.º 122/2000, de 4 de Julho, com a excepção dos programas de computador, contra a violação dos dispositivos de informação para a gestão electrónica dos direitos.
+
+2 - Para efeitos do disposto no número anterior, por 'informação para a gestão electrónica dos direitos' entende-se toda a informação prestada pelos titulares dos direitos que identifique a obra, a prestação e a produção protegidas, a informação sobre as condições de utilização destes, bem como quaisquer números ou códigos que representem essa informação.
+
+3 - A protecção jurídica incide sobre toda a informação para a gestão electrónica dos direitos presente no original ou nas cópias das obras, prestações e produções protegidas ou ainda no contexto de qualquer comunicação ao público.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 224.º — Tutela penal
+
+1 - Quem, não estando autorizado, intencionalmente, sabendo ou tendo motivos razoáveis para o saber, pratique um dos seguintes actos:
+
+a) Suprima ou altere qualquer informação para a gestão electrónica de direitos;
+
+b) Distribua, importe para distribuição, emita por radiodifusão, comunique ou ponha à disposição do público obras, prestações ou produções protegidas, das quais tenha sido suprimida ou alterada, sem autorização, a informação para a gestão electrónica dos direitos, sabendo que em qualquer das situações indicadas está a provocar, permitir, facilitar ou dissimular a violação de direitos de propriedade intelectual;
+
+é punido com pena de prisão até 1 ano ou com pena de multa até 100 dias.
+
+2 - A tentativa é punível com multa até 25 dias.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 225.º — Apreensão e perda de coisas
+
+1 - Relativamente aos crimes previstos nos artigos anteriores, podem ser aplicadas as seguintes penas acessórias:
+
+a) A perda dos instrumentos usados na prática dos crimes, incluindo o lucro ilícito obtido;
+
+b) A inutilização e, caso necessário, a destruição dos instrumentos, dispositivos, produtos e serviços cujo único uso sirva para facilitar a supressão ou neutralização, não autorizadas, das medidas eficazes de carácter tecnológico, ou que permita a supressão ou modificação, não autorizadas, da informação para a gestão electrónica de direitos.
+
+2 - O destino dos bens apreendidos é fixado na sentença final.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 226.º — Responsabilidade civil
+
+A responsabilidade civil emergente da violação dos direitos previstos nos artigos anteriores é independente do procedimento criminal a que esta dê origem, podendo, contudo, ser exercida em conjunto com a acção penal.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 227.º — Procedimentos cautelares
+
+1 - Os titulares de direitos podem, em caso de violação dos mesmos ou quando existam fundadas razões de que esta se vai produzir de modo iminente, requerer ao tribunal o decretamento das medidas cautelares previstas na lei geral, que, segundo as circunstâncias, se mostrem necessárias para garantir a protecção urgente do direito.
+
+2 - O disposto no número anterior aplica-se no caso em que os intermediários, a que recorra um terceiro para infringir um direito de autor ou direitos conexos, possam ser destinatários das medidas cautelares previstas na lei geral, sem prejuízo da faculdade de os titulares de direitos notificarem, prévia e directamente, os intermediários dos factos ilícitos, em ordem à sua não produção ou cessação de efeitos.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 228.º — Tutela por outras disposições legais
+
+A tutela instituída neste Código não prejudica a conferida por regras de diversa natureza relativas, nomeadamente, às patentes, marcas registadas, modelos de utilidade, topografias de produtos semicondutores, caracteres tipográficos, acesso condicionado, acesso ao cabo de serviços de radiodifusão, protecção dos bens pertencentes ao património nacional, depósito legal, à legislação sobre acordos, decisões ou práticas concertadas entre empresas e à concorrência desleal, ao segredo comercial, segurança, confidencialidade, à protecção dos dados pessoais e da vida privada, ao acesso aos documentos públicos e ao direito dos contratos.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+###### Artigo 229.º — Litígios
+
+A resolução de qualquer litígio que não incida sobre direitos indisponíveis, surgido na aplicação das disposições do presente Código, pode ser sujeita pelas partes a arbitragem, nos termos da lei geral.
+
+Tabela a que se refere o n.º 3 do artigo 75.º
+
+Cada registo ... 5000$00
+
+Depósito das listas das sociedades de autores ou de entidades similares - cada lista ... 2000$00
+
+Situação de listas ... Grátis
+
+Depósito de aditamento às listas das sociedades de autores ou entidades similares - cada aditamento ... 1000$00
+
+Pela desistência do acto de registo requerido depois de efectuada a respectiva apresentação no Diário ... 1000$00
+
+Cada certificado ... 1000$00
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23, produz efeitos a partir de 2002-12-22
+
+## Assinatura
+
+Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Augusto Seabra - Joaquim Martins Ferreira do Amaral - António Antero Coimbra Martins.

@@ -1,0 +1,712 @@
+---
+schema_version: '1.0'
+id: pt:dre:391581:por
+title: Decreto-Lei n.º 222/99
+short_title: null
+summary: Cria e regula o funcionamento do Sistema de Indemnização aos Investidores e introduz alterações no Regime Geral das
+  Instituições de Crédito e Sociedades Financeiras e no Código do Mercado de Valores Mobiliários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 222/99
+official_date: null
+publication_date: '1999-06-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/1999, Série I-A de 1999-06-22
+  number: '143'
+  series: I
+  supplement: null
+  pages: 3564 - 3570
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/06/143a00/35643570.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-01'
+version_history:
+  file: decreto-lei-222-99.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-06-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-01'
+    amending: pt:dre:476110:por
+    amending_title: Decreto-Lei n.º 252/2003
+    changes:
+    - Altera Artigo 2.º
+  - date: '2009-07-21'
+    amending: pt:dre:492383:por
+    amending_title: Decreto-Lei n.º 162/2009
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+  - date: '2020-01-01'
+    amending: pt:dre:124917020:por
+    amending_title: Decreto-Lei n.º 144/2019
+    changes:
+    - Altera Artigo 2.º
+  - date: '2022-01-01'
+    amending: pt:dre:176907512:por
+    amending_title: Lei n.º 99-A/2021
+    changes:
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/222/1999/p/cons/20211231/pt/html
+  oj: null
+  dre: '391581'
+  dre_path: /dr/detalhe/decreto-lei/222-1999-391581
+  internal: pt:dre:391581:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1999-391581
+  metadata_url: https://data.dre.pt/eli/dec-lei/222/1999/p/cons/20211231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34488075
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34488075
+  retrieved_at: '2026-10-22T11:45:11Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c2ecc1410cd3f6e01aec0395bd8218dcfe095399d7c55e3b2f1802fd78d143d0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:45:11Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-222-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Valores Mobiliários
+- Instituição de Crédito
+- Sistema de Indemnização aos Investidores
+- Código do Mercado de Valores Mobiliários
+- Multa
+- Comissão Directiva
+- Comissão
+- Fiscalização
+- Fundo de Garantia de Depósitos
+- Indemnização
+- Operações de Bolsa
+- Pessoa Colectiva de Direito Público
+- Presidente
+- Reembolso
+- Regime Geral das Instituições de Crédito e Sociedades Financeiras
+- CMVM
+- Instituição Financeira
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:476110:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2003-476110
+  date: '2003-10-17'
+- type: amended_by
+  target: pt:dre:492383:por
+  label: Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º;
+    Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2009-492383
+  date: '2009-07-20'
+- type: amended_by
+  target: pt:dre:124917020:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020
+  date: '2019-09-23'
+- type: amended_by
+  target: pt:dre:175744218:por
+  label: Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218
+  date: '2021-12-10'
+- type: amended_by
+  target: pt:dre:176907512:por
+  label: Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512
+  date: '2021-12-31'
+- type: cites
+  target: celex:31993L0022
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/22/oj
+- type: cites
+  target: celex:31997L0009
+  label: null
+  source: http://data.europa.eu/eli/dir/1997/9/oj
+article_structure:
+  article_count: 26
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:45:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 222/99
+
+Com o presente decreto-lei é criado o Sistema de Indemnização aos Investidores, transpondo-se para a ordem jurídica portuguesa a Directiva n.º <a href="eurlex.asp?ano=1997&id=397L0009" title="Link para Directiva da Comunidade Europeia">97/9/CE</a>, do Parlamento Europeu e do Conselho, de 3 de Março. A preservação da confiança no sistema financeiro e a protecção dos interesses de todos os que a ele recorrem, na perspectiva de aplicação das suas poupanças, constituem elementos fundamentais para a realização e bom funcionamento do mercado interno dos serviços financeiros.
+
+Em paralelo com a protecção já conferida pelo Fundo de Garantia de Depósitos, cujo limite máximo de garantia se ajusta, o Sistema tem em vista diferentes tipos de operações sobre valores mobiliários e outros instrumentos financeiros, conferindo aos investidores meios efectivos de ressarcimento de direitos que não possam ser satisfeitos devido à situação financeira da entidade prestadora dos serviços de investimento, quer seja uma instituição de crédito, quer seja uma empresa de investimento, que sejam participantes do Sistema.
+
+O Sistema visa garantir o reembolso dos créditos relativos a fundos ou instrumentos financeiros detidos, administrados ou geridos pelas entidades financeiras participantes no âmbito de operações de investimento, até um máximo de 25000 ecu por investidor.
+
+Participam obrigatoriamente no Sistema as instituições de crédito autorizadas a prestar serviços de investimento e as empresas de investimento com sede em Portugal. Reconhece-se, no entanto, às instituições de crédito e empresas de investimento autorizadas noutros Estados membros, e que disponham de sucursais em Portugal, o direito de adesão voluntária ao Sistema quando seja mais favorável que o do país de origem.
+
+Ficam excluídos da cobertura pelo Sistema, entre outros, os créditos decorrentes de operações de investimento realizadas por conta de instituições de crédito e de sociedades financeiras.
+
+As entidades participantes, de acordo com o montante dos fundos e instrumentos financeiros detidos, administrados ou geridos, assumem uma responsabilidade de participação no Sistema em caso de o mesmo ser accionado pelos investidores.
+
+Por último, a aprovação do Sistema impõe a introdução de alterações no Regime Geral das Instituições de Crédito e Sociedades Financeiras e no Código do Mercado de Valores Mobiliários.
+
+Foram ouvidos o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários.
+
+Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Sistema de Indemnização aos Investidores
+
+###### Artigo 1.º — Criação e natureza do Sistema
+
+1 - É criado o Sistema de Indemnização aos Investidores, adiante designado por Sistema, pessoa colectiva de direito público dotada de autonomia administrativa e financeira.
+
+2 - O Sistema tem sede em Lisboa e funciona junto da Comissão do Mercado de Valores Mobiliários, adiante designada CMVM.
+
+###### Artigo 2.º — Definições
+
+1 - Para os efeitos do presente diploma, entende-se por:
+
+a) «Empresa de investimento», uma empresa de investimento tal como definida no Regime das Empresas de Investimento;
+
+b) Instrumentos financeiros: os indicados na secção B do anexo à Directiva n.º <a href="eurlex.asp?ano=1993&id=393L0022" title="Link para Directiva da Comunidade Europeia">93/22/CEE</a>, do Conselho, de 10 de Maio;
+
+c) Operações de investimento: qualquer serviço de investimento nos termos previstos no n.º 1 do artigo 199.º-A do RGIC e o serviço de custódia e administração de um ou mais instrumentos financeiros;
+
+d) Investidor: qualquer pessoa que confiou fundos ou instrumentos financeiros a uma empresa de investimento ou a uma instituição de crédito no âmbito de operações de investimento;
+
+e) Operação colectiva de investimento: uma operação de investimento efectuada por conta de duas ou mais pessoas, ou sobre a qual duas ou mais pessoas têm direitos que podem ser exercidos por uma ou mais de entre elas.
+
+2 - Ficam também sujeitas ao regime previsto no presente decreto-lei para as empresas de investimento as sociedades gestoras de organismos de investimento coletivo autorizadas a exercer a atividade de gestão discricionária e individualizada de carteiras por conta de outrem, com base em mandato conferido pelos investidores.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 252/2003 - Diário da República n.º 241/2003, Série I-A de 2003-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2003-476110), em vigor a partir de 2004-01-01
+
+###### Artigo 3.º — Âmbito
+
+1- O Sistema garante a cobertura dos créditos de que seja sujeito passivo uma entidade participante em consequência de incapacidade financeira desta para, de acordo com as condições legais e contratuais aplicáveis, reembolsar ou restituir aos investidores os fundos que lhes sejam devidos ou que lhes pertençam e que se encontrem especialmente afectos a operações de investimento, ou que sejam detidos, administrados ou geridos por sua conta no âmbito de operações de investimento.
+
+2 - Para efeitos do disposto no número anterior, os fundos devidos aos investidores e que se encontram especialmente afectos a operações de investimento incluem os créditos de que os mesmos sejam titulares sobre uma entidade participante do Sistema e que resultem de operações de investimento cujas condições contratuais estabeleçam uma garantia de reembolso de montantes determinados ou determináveis.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 162/2009 - Diário da República n.º 138/2009, Série I de 2009-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2009-492383), em vigor a partir de 2009-07-21
+
+###### Artigo 4.º — Entidades participantes
+
+1 - Participam obrigatoriamente no Sistema:
+
+a) As empresas de investimento com sede em Portugal;
+
+b) As instituições de crédito com sede em Portugal autorizadas a efectuar operações de investimento.
+
+2 - Sem prejuízo dos acordos bilaterais existentes sobre a matéria, são igualmente obrigadas a participar no Sistema as empresas de investimento e as instituições de crédito que tenham sede em país não membro da Comunidade Europeia, relativamente a créditos decorrentes de operações de investimento efectuadas pelas suas sucursais em Portugal, salvo se esses créditos estiverem cobertos por um sistema de indemnização em termos equivalentes aos proporcionados pelo sistema português.
+
+3 - Compete ao Banco de Portugal e à CMVM a verificação da equivalência prevista na parte final do número anterior.
+
+###### Artigo 5.º — Participação de entidades com sede na Comunidade Europeia
+
+1 - Em complemento da indemnização prevista no país de origem, podem participar no Sistema as empresas de investimento e as instituições de crédito autorizadas a efectuar operações de investimento que tenham sede no território de outro Estado membro da Comunidade Europeia relativamente aos créditos decorrentes de operações de investimento efectuadas pelas suas sucursais em Portugal, se o nível ou o âmbito daquela indemnização forem inferiores aos proporcionados pelo sistema português.
+
+2 - As entidades referidas no número anterior ficam sujeitas às normas legais e regulamentares relativas ao Sistema, designadamente no que respeita ao pagamento de uma quota-parte dos encargos emergentes da cobertura complementar.
+
+3 - As condições segundo as quais as entidades referidas no n.º 1 podem participar no Sistema ou dele serem excluídas serão definidas por regulamento da CMVM, ouvido o Banco de Portugal.
+
+4 - Sempre que uma das entidades mencionadas no n.º 1 participar no Sistema, este estabelecerá com o sistema do Estado membro de origem as regras e procedimentos adequados ao pagamento de indemnizações aos investidores da sucursal em causa.
+
+5 - Se uma das entidades mencionadas no n.º 1 for excluída do Sistema, os créditos decorrentes de operações de investimento efectuadas pelas suas sucursais anteriormente à data da exclusão continuam garantidos até a data da liquidação financeira da operação de investimento, no caso de fundos, ou por um prazo máximo de três meses, no caso de instrumentos financeiros.
+
+###### Artigo 6.º — Obrigações dos participantes
+
+1 - As entidades participantes assumem a obrigação irrevogável de entrega ao Sistema, em caso de accionamento deste, dos montantes necessários para pagamento das indemnizações que forem devidas aos investidores.
+
+2 - A obrigação irrevogável prevista no número anterior deve ser garantida por penhor de valores mobiliários.
+
+3 - Em caso de accionamento do Sistema, a contribuição de cada entidade participante corresponde a uma percentagem do valor global das indemnizações, não podendo exceder um limite dos respectivos fundos próprios, definido por regulamento da CMVM, ouvido o Banco de Portugal.
+
+4 - A percentagem prevista no número anterior resulta do rácio entre o valor dos fundos e dos instrumentos financeiros detidos, administrados ou geridos por essa entidade, no âmbito de operações de investimento, e o valor dos fundos e instrumentos financeiros detidos, administrados ou geridos pelo conjunto das entidades participantes, no âmbito de operações de investimento.
+
+5 - O pagamento, por cada entidade participante, das contribuições referidas no número anterior está sujeito a um limite anual.
+
+6 - As entidades participantes, após terem efectuado o pagamento referido no número anterior, podem solicitar ao Sistema a libertação do penhor de valores mobiliários na parte correspondente aos pagamentos realizados.
+
+7 - As entidades participantes são obrigadas a fornecer ao Sistema a informação que se revele necessária para uma adequada avaliação dos compromissos assumidos, nomeadamente os elementos que permitam analisar a contabilidade da entidade e o montante dos créditos dos investidores, sem prejuízo de a CMVM poder recolher e verificar essa informação nas instalações da entidade participante.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 162/2009 - Diário da República n.º 138/2009, Série I de 2009-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2009-492383), em vigor a partir de 2009-07-21
+
+###### Artigo 7.º — Empréstimos contraídos pelo Sistema
+
+1 - Quando os recursos anuais se mostrem insuficientes para o cumprimento das obrigações do Sistema, os créditos remanescentes devidos aos investidores são pagos com importâncias provenientes de empréstimos contraídos pelo Sistema.
+
+2 - Fora dos casos previstos no número anterior, o recurso a empréstimos para pagamento dos créditos dos investidores deve ser especialmente fundamentado.
+
+3 - O reembolso dos empréstimos contraídos ao abrigo do número anterior é efectuado por recurso a montantes entregues pelas entidades participantes, sem prejuízo do disposto no n.º 5 do artigo 6.º
+
+4 - Os créditos emergentes dos empréstimos contraídos pelo Sistema, para efeitos do disposto no número anterior, gozam de privilégio creditório sobre os direitos do Sistema ao pagamento dos montantes devidos pelas entidades participantes nos termos do mesmo preceito.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 162/2009 - Diário da República n.º 138/2009, Série I de 2009-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2009-492383), em vigor a partir de 2009-07-21
+
+### Capítulo II — Pagamento de indemnizações
+
+###### Artigo 8.º — Créditos cobertos pelo Sistema
+
+O Sistema garante a cobertura dos créditos decorrentes de:
+
+a) Operações de investimento efectuadas em Portugal ou em outros Estados membros da Comunidade Europeia pelas entidades participantes com sede em Portugal, sem prejuízo de, até 31 de Dezembro de 1999, a cobertura relativa a créditos decorrentes de operações de investimento efectuadas nesses Estados membros por sucursais das mencionadas entidades não poder exceder o nível e âmbito máximos da cobertura oferecida pelo sistema de indemnização do país de acolhimento, se forem inferiores aos proporcionados pelo Sistema;
+
+b) Operações de investimento efectuadas em Portugal por sucursais referidas no n.º 2 do artigo 4.º;
+
+c) Operações de investimento efectuadas em Portugal por sucursais de empresas de investimento ou instituições de crédito com sede noutro Estado membro da Comunidade Europeia que participem voluntariamente no Sistema, na parte que exceda a cobertura prevista no sistema do país de origem.
+
+###### Artigo 9.º — Créditos excluídos do Sistema
+
+1 - Excluem-se da cobertura do Sistema:
+
+a) Os créditos decorrentes de operações de investimento de que sejam titulares os investidores qualificados referidos n.º 1 do artigo 30.º do Código dos Valores Mobiliários, quer actuem em nome próprio quer por conta de clientes, ou entidades do sector público administrativo;
+
+b) Os créditos decorrentes de operações de investimento de que seja titular um investidor, qualquer outra pessoa ou parte interessada nessas operações, em relação às quais tenha sido proferida uma condenação penal, transitada em julgado, pela prática de actos de branqueamento de capitais;
+
+c) Os créditos decorrentes de operações de investimento realizadas ou prestadas por entidades não autorizadas para o efeito;
+
+d) Os créditos decorrentes de operações de investimento realizadas directamente fora do âmbito territorial previsto no artigo anterior, designadamente em jurisdição off shore, excepto se o investidor desconhecesse o destino desse investimento;
+
+e) Os créditos decorrentes de operações de investimento realizadas em nome e por conta de membros dos órgãos de administração ou fiscalização da entidade participante, accionistas que nela detenham participação, directa ou indirecta, não inferior a 2 % do respectivo capital social, revisores oficiais de contas ao seu serviço, auditores externos que lhe prestem serviços de auditoria ou investidores com estatuto semelhante noutras empresas que se encontrem em relação de domínio ou de grupo com a entidade participante;
+
+f) Os créditos decorrentes de operações de investimento realizadas em nome ou por conta das pessoas ou entidades que tenham exercido as funções, detido as participações ou prestado os serviços referidos na alínea anterior nos quatro anos anteriores à data do accionamento do Sistema, ou da adopção pelo Banco de Portugal de providências de recuperação e saneamento, nos termos da lei, e cuja acção ou omissão tenha estado na origem das dificuldades financeiras da entidade participante ou tenha contribuído para o agravamento de tal situação;
+
+g) Os créditos decorrentes de operações de investimento realizadas em nome e por conta do cônjuge, parentes ou afins em 1.º grau ou terceiros que actuem por conta de investidores referidos na alínea anterior;
+
+h) Os créditos decorrentes de operações de investimento realizadas em nome e por conta de empresas que se encontrem em relação de domínio ou de grupo com a entidade participante;
+
+i) Os créditos decorrentes de operações de investimento de que sejam titulares investidores responsáveis por factos relacionados com a entidade participante, ou que deles tenham tirado benefício, directamente ou por interposta pessoa, e que estejam na origem das dificuldades financeiras ou tenham contribuído, por acção ou omissão no âmbito das suas responsabilidades, para o agravamento de tal situação;
+
+j) Os créditos decorrentes de garantias de rendibilidade, bem como de garantias de reembolso de fundos afectos a operações de investimento que tenham sido abusivamente acordadas entre investidores e entidades participantes ou por estas concedidas, presumindo-se como tais as que tenham sido constituídas a partir do terceiro mês anterior à data de accionamento do Sistema ou da adopção pelo Banco de Portugal de providências de recuperação e saneamento nos termos da lei;
+
+l) Os créditos decorrentes de operações de investimento de que sejam titulares investidores actuando por conta de quaisquer pessoas ou entidades referidas nas alíneas anteriores.
+
+2 - Nos casos em que existam dúvidas fundadas sobre a verificação de alguma das situações previstas no número anterior, o Sistema suspende o pagamento das indemnizações aos investidores em causa até ser notificado de decisão judicial que reconheça o direito do investidor à indemnização.
+
+3 - Nos casos em que se encontre em curso um processo judicial ou contra-ordenacional pela prática de quaisquer actos relacionados com operações de investimento cobertas pelo Sistema em violação de norma legal ou regulamentar, o Sistema suspende o pagamento das indemnizações aos investidores em causa até ser notificado do despacho de não pronúncia ou da decisão judicial de absolvição, transitada em julgado.
+
+4 - Caso haja uma decisão judicial de não reconhecimento do direito à cobertura do Sistema, após a sua atribuição, a indemnização concedida é revertida em benefício do Sistema.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 162/2009 - Diário da República n.º 138/2009, Série I de 2009-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2009-492383), em vigor a partir de 2009-07-21
+
+###### Artigo 10.º — Critérios de determinação e limite da indemnização
+
+1 - O Sistema garante o reembolso dos créditos decorrentes de operações de investimento de que seja titular o investidor à data em que se verificarem as situações previstas no n.º 1 do artigo seguinte até um limite máximo de (euro) 25 000.
+
+2 - O valor dos créditos do investidor é calculado de acordo com as condições legais e contratuais, nomeadamente as relativas à compensação, aplicáveis na avaliação, à data da verificação ou da publicação referidas no n.º 1 do artigo seguinte, do montante dos fundos ou dos instrumentos financeiros pertencentes ao investidor e que a entidade participante não tenha capacidade de reembolsar ou de restituir.
+
+3 - O valor referido nos números anteriores é determinado com observância dos seguintes critérios:
+
+a) O valor dos instrumentos financeiros é determinado em função do valor estimado de realização na data referida no n.º 1;
+
+b) São convertidos em escudos ou euros, ao câmbio da mesma data, os créditos expressos em moeda estrangeira;
+
+c) Para efeitos do limite previsto no n.º 1, são considerados os créditos de cada investidor sobre a mesma entidade participante, independentemente do número de contas, da divisa e da localização na Comunidade Europeia;
+
+d) Na ausência de disposição em contrário, os créditos resultantes de uma operação colectiva de investimento são repartidos em partes iguais entre os investidores;
+
+e) A parte imputável a cada investidor numa operação colectiva de investimento é tomada em consideração para efeitos do limite previsto no n.º 1;
+
+f) São agregados e tratados como se decorressem de um investimento efectuado por um único investidor os créditos relacionados com uma operação colectiva de investimento sobre a qual duas ou mais pessoas tenham direitos na qualidade de sócios de uma sociedade ou membros de uma associação, ou de qualquer agrupamento de natureza similar, desprovidos de personalidade jurídica;
+
+g) Se o investidor não for o titular do direito aos fundos ou aos instrumentos financeiros, recebe a indemnização o respectivo titular, desde que tenha sido identificado ou seja identificável antes da data referida no n.º 1.
+
+4 - Para efeitos do disposto na alínea a) do número anterior, pode o Sistema recorrer aos serviços de uma entidade idónea e independente.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 162/2009 - Diário da República n.º 138/2009, Série I de 2009-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2009-492383), em vigor a partir de 2009-07-21
+
+###### Artigo 11.º — Pagamento da indemnização
+
+1 - O Sistema é accionado, assegurando o pagamento da indemnização aos investidores, nos seguintes casos:
+
+a) Quando a entidade participante, por razões directamente relacionadas com a sua situação financeira, não tenha possibilidade de cumprir as obrigações resultantes de créditos dos investidores e o Banco de Portugal tenha verificado, ouvida a CMVM, no prazo máximo de 21 dias após se ter certificado pela primeira vez da ocorrência, que a entidade participante não mostra ter possibilidade de proximamente vir a fazê-lo;
+
+b) Quando o Banco de Portugal torne pública a decisão pela qual revogue a autorização da entidade participante, caso tal publicação ocorra antes da verificação referida na alínea anterior;
+
+c) Relativamente aos créditos decorrentes de operações de investimento efectuadas em Portugal por sucursais de empresas de investimentos e instituições de crédito com sede em outro Estado membro da Comunidade Europeia, quando for recebida uma declaração da autoridade de supervisão do país de origem comprovando que se encontra suspenso o exercício dos direitos dos investidores a reclamarem os seus créditos sobre essa entidade.
+
+2 - O Sistema toma as medidas adequadas para informar os investidores da verificação, decisão ou declaração referidas no número anterior.
+
+3 - A indemnização é paga no prazo máximo de três meses contados da verificação da admissibilidade e do montante global dos créditos.
+
+4 - O prazo previsto no número anterior poderá ser prorrogado até seis meses em casos excepcionais mediante solicitação do Sistema junto da CMVM.
+
+5 - Sem prejuízo do prazo de prescrição previsto na lei, o termo do prazo previsto no n.º 3 não prejudica o direito dos investidores a reclamarem do Sistema o montante que por este lhes for devido.
+
+6 - No caso das entidades previstas no artigo 5.º, o Sistema e o sistema do Estado membro de origem devem chegar a acordo quanto à forma de repartição dos encargos a suportar por cada sistema.
+
+###### Artigo 12.º — Sub-rogação
+
+1 - O Sistema fica sub-rogado na titularidade dos direitos dos investidores na medida das indemnizações que tenha efectuado, não lhe sendo oponível qualquer negócio jurídico celebrado entre os investidores e as entidades participantes, nomeadamente a renúncia a direitos.
+
+2 - Para efeitos do disposto no número anterior, o Sistema deve propor as acções que se revelem necessárias a assegurar a reversão das operações de investimento realizadas, em benefício ilegítimo de entidades específicas ou com prejuízo da entidade participante, dos respectivos clientes ou credores, nos quatro anos anteriores à data de accionamento do Sistema, nos termos dos artigos 120.º e seguintes do Código da Insolvência e da Recuperação de Empresas.
+
+3 - Os valores recuperados ao abrigo do disposto no número anterior revertem para a massa insolvente, nos termos da lei, ou para o Sistema, caso em que ficam afectos à cobertura das respectivas responsabilidades.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 162/2009 - Diário da República n.º 138/2009, Série I de 2009-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2009-492383), em vigor a partir de 2009-07-21
+
+###### Artigo 13.º — Suspensão do pagamento da indemnização
+
+1 - O Sistema suspende todos os pagamentos no caso de o investidor, ou qualquer outra pessoa que seja titular dos créditos decorrentes de uma operação de investimento, ou parte interessada nessa operação, tiver sido pronunciado pela prática de actos de branqueamento de capitais.
+
+2 - A suspensão prevista no número anterior mantém-se até ao trânsito em julgado da sentença final.
+
+###### Artigo 14.º — Dever de informação
+
+1 - As empresas de investimento e as instituições de crédito devem prestar ao público, de forma facilmente compreensível, todas as informações pertinentes relativas ao sistema de indemnização de que beneficiem os fundos que recebem, nomeadamente a respectiva identificação e disposições, bem como os respectivos montante, âmbito de cobertura e prazo máximo de pagamento da indemnização.
+
+2 - As empresas de investimento e as instituições de crédito devem, de igual modo, informar os respectivos investidores sempre que as operações de investimento se encontrem excluídas da garantia.
+
+3 - A pedido do interessado, as entidades referidas no número anterior devem prestar informação sobre as condições de que depende o pagamento da indemnização no âmbito do sistema de indemnização e sobre as formalidades necessárias para a sua obtenção.
+
+4 - A informação prevista no n.º 1 deve igualmente encontrar-se disponível nas instalações das entidades referidas no número anterior, em local bem identificado e directamente acessível.
+
+5 - As empresas de investimento e as instituições de crédito devem comunicar à CMVM os termos e condições dos produtos de investimento comercializados junto do público que se encontrem abrangidos pelo âmbito de cobertura do sistema de indemnização.
+
+6 - A CMVM define, por regulamento, os elementos, o modo e a periodicidade da comunicação prevista no número anterior.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 162/2009 - Diário da República n.º 138/2009, Série I de 2009-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2009-492383), em vigor a partir de 2009-07-21
+
+### Capítulo III — Estrutura orgânica
+
+###### Artigo 15.º — Administração do Sistema
+
+1 - O Sistema é administrado por uma comissão directiva, composta por um presidente e dois vogais.
+
+2 - O presidente é designado pelo conselho directivo da CMVM de entre os seus membros.
+
+3 - Um dos vogais é designado pelo conselho de administração do Banco de Portugal, de entre os seus membros, sendo o outro nomeado pelo Ministro das Finanças, ouvidas as associações representativas dos participantes no Sistema.
+
+4 - O presidente da comissão directiva tem voto de qualidade.
+
+5 - O Sistema obriga-se pela assinatura de dois membros da comissão directiva.
+
+6 - Os membros da comissão directiva exercem as suas funções por períodos renováveis de três anos, desde que se mantenham no conselho directivo da CMVM e no conselho de administração do Banco de Portugal, respectivamente.
+
+7 - Os recursos do Sistema são geridos no respeito pelo plano de aplicações aprovado pelo membro do Governo responsável pela área das finanças, sob proposta da comissão diretiva.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), em vigor a partir de 2022-01-01
+
+###### Artigo 16.º — Serviços
+
+A CMVM assegura os serviços técnicos e administrativos indispensáveis ao bom funcionamento do Sistema.
+
+###### Artigo 17.º — Receitas próprias
+
+1 - O Sistema dispõe das seguintes receitas:
+
+a) Entregas dos participantes no cumprimento das obrigações previstas no presente diploma;
+
+b) Liberalidades;
+
+c) Produto das coimas aplicadas pelo Banco de Portugal a empresas de investimento que sejam participantes do Sistema, à data da infracção, nos termos do RGIC;
+
+d) Produto das coimas aplicadas a entidades participantes por incumprimento das obrigações a que se encontram obrigadas no âmbito do Sistema, nos termos do Código do Mercado de Valores Mobiliários;
+
+e) Produto das coimas aplicadas e do benefício económico apreendido pela CMVM a entidades participantes pela violação de deveres de que sejam destinatários os intermediários financeiros, nos termos do Código dos Valores Mobiliários, incluindo nos casos em que aquela condenação surja em processo em que a mesma entidade participante seja condenada também pela violação de outros deveres;
+
+f) Rendimentos da aplicação dos seus recursos;
+
+g) Produto da venda, amortização, liquidação ou qualquer outra transação ou forma de extinção dos instrumentos financeiros considerados abandonados a favor do Estado, bem como os rendimentos dos mesmos.
+
+2 - O produto das coimas referidas nas alíneas c) a e) do número anterior reverte para o Sistema mesmo que haja impugnação judicial ou recurso judicial do processo de aplicação da coima.
+
+3 - Revogado.
+
+> Nota: [Artigo 19.º, Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512) O disposto na alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 222/99, de 22 de junho, na redação introduzida pela presente lei, aplica-se em relação às decisões de aplicação de coimas e de apreensão do benefício económico que se tornem definitivas ou transitem em julgado após a entrada em vigor da presente lei.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), em vigor a partir de 2022-01-01
+
+###### Artigo 18.º — Despesas de funcionamento do Sistema
+
+As despesas de funcionamento do Sistema são suportadas pelas entidades participantes em montante e no prazo fixados por regulamento da CMVM.
+
+###### Artigo 19.º — Períodos de exercício
+
+Os períodos de exercício do Sistema correspondem ao ano civil.
+
+###### Artigo 20.º — Regime financeiro
+
+1 - O plano de contas do Sistema é aprovado pela comissão directiva e é organizado de modo a permitir identificar claramente a sua estrutura patrimonial e o seu funcionamento e a registar todas as operações realizadas.
+
+2 - O normativo contabilístico aplicável ao Sistema é o Sistema de Normalização Contabilística para as Administrações Públicas, aprovado pelo Decreto-Lei n.º 192/2015, de 11 de setembro.
+
+3 - Ao Sistema é aplicável o regime da tesouraria do Estado e, em particular, o princípio e as regras da unidade de tesouraria, sem prejuízo da execução do respetivo plano de aplicações.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), em vigor a partir de 2022-01-01
+
+###### Artigo 21.º — Fiscalização
+
+1 - A comissão de fiscalização da CMVM acompanha a actividade do Sistema, zela pelo cumprimento das leis e regulamentos e emite parecer acerca das contas anuais.
+
+2 - O Sistema está sujeito à jurisdição e controlo financeiro do Tribunal de Contas e ao regime de inspeção e auditoria dos serviços do Estado.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), em vigor a partir de 2022-01-01
+
+###### Artigo 22.º — Relatório e contas
+
+Até 31 de Março de cada ano, o Sistema apresenta ao Ministro das Finanças, para aprovação, o relatório e as contas reportados a 31 de Dezembro do ano anterior, acompanhados do parecer da comissão de fiscalização da CMVM.
+
+### Capítulo IV — Regulamentação
+
+###### Artigo 23.º — Regulamentação
+
+1 - O Ministro das Finanças aprova por portaria, sob proposta da comissão directiva, os regulamentos necessários ao funcionamento do Sistema.
+
+2 - O Ministro das Finanças fixa as remunerações dos membros da comissão directiva do Sistema e da comissão de fiscalização referida no artigo 21.º
+
+3 - São definidos por regulamento da CMVM, ouvido o Banco de Portugal, a comissão directiva do Sistema e as associações representativas das entidades participantes:
+
+a) Os termos da garantia prevista no n.º 2 do artigo 6.º;
+
+b) A percentagem prevista no n.º 3 do artigo 6.º;
+
+c) O montante anual previsto no n.º 5 do artigo 6.º
+
+### Capítulo V — Alterações ao RGIC e ao Código do Mercado de Valores Mobiliários
+
+###### Artigo 24.º — Alterações ao RGIC
+
+Os artigos 22.º, 49.º, 79.º, 89.º, 166.º, 178.º e 225.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, passam a ter a seguinte redacção:
+
+«Artigo 22.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) Se a instituição não cumprir as obrigações decorrentes da sua participação no Fundo de Garantia de Depósitos ou no Sistema de Indemnização aos Investidores;
+
+h) ...
+
+2 - ...
+
+3 - ...
+
+Artigo 49.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) Descrição pormenorizada do Sistema de Indemnização aos Investidores de que a instituição de crédito participe e que assegure a protecção dos investidores clientes da sucursal.
+
+2 - ...
+
+Artigo 79.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) Ao Fundo de Garantia de Depósitos e ao Sistema de Indemnização aos Investidores, no âmbito das respectivas atribuições;
+
+d) ...
+
+e) ...
+
+Artigo 89.º
+
+[...]
+
+1 - ...
+
+2 - As mensagens publicitárias que mencionem a garantia dos depósitos ou a indemnização dos investidores devem limitar-se a referências meramente descritivas e não podem conter quaisquer juízos de valor nem tecer comparações com a garantia dos depósitos ou a indemnização dos investidores asseguradas por outras instituições.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+Artigo 166.º
+
+[...]
+
+1 - O Fundo garante o reembolso da totalidade do valor global dos saldos em dinheiro de cada depositante, desde que esse valor não ultrapasse os 25000 ecu.
+
+2 - Para os efeitos do número anterior, considerar-se-ão os saldos existentes à data em que se verificar a indisponibilidade dos depósitos.
+
+3 - O valor referido no n.º 1 será determinado com observância dos seguintes critérios:
+
+a) [Anterior alínea a) do n.º 4.]
+
+b) [Anterior alínea b) do n.º 4.]
+
+c) [Anterior alínea c) do n.º 4.]
+
+d) [Anterior alínea d) do n.º 4.]
+
+e) [Anterior alínea e) do n.º 4.]
+
+f) Se o direito tiver vários titulares, a parte imputável a cada um deles, nos termos da regra constante da alínea d), será tomada em consideração no cálculo do limite previsto no n.º 1;
+
+g) Os depósitos numa conta à qual tenham acesso várias pessoas na qualidade de membros de uma associação ou de uma comissão especial desprovidos de personalidade jurídica são agregados como se tivessem sido feitos por um único depositante e não contam para efeitos do cálculo do limite previsto no n.º 1 aplicável a cada uma dessas pessoas.
+
+Artigo 178.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) Se a sociedade não cumprir as obrigações decorrentes da sua participação no Sistema de Indemnização aos Investidores.
+
+2 - ...
+
+Artigo 225.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - O valor das coimas reverte integralmente para o Estado, salvo nos casos previstos nos números seguintes.
+
+4 - ...
+
+5 - Reverte para o Sistema de Indemnização aos Investidores o valor das coimas em que forem condenadas as empresas de investimento que sejam participantes daquele Sistema.»
+
+###### Artigo 25.º — Revogação
+
+É revogado o n.º 2 do artigo 166.º e a alínea c) do artigo 199.º-E do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
+
+###### Artigo 26.º — Alteração ao Código do Mercado de Valores Mobiliários
+
+O artigo 40.º do Código do Mercado de Valores Mobiliários, aprovado pelo Decreto-Lei n.º 142-A/91, de 10 de Abril, passa a ter a seguinte redacção:
+
+«Artigo 40.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e)  O produto das coimas aplicadas em processo de contra-ordenação, nos termos dos artigos 670.º e seguintes, mesmo que haja impugnação judicial ou recurso judicial do processo de aplicação da coima, salvo se for legalmente afecto ao Sistema de Indemnização aos Investidores.
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - António Carlos dos Santos.
+
+Promulgado em 2 de Junho de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 9 de Junho de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

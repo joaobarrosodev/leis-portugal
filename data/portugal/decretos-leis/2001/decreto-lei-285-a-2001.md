@@ -1,0 +1,230 @@
+---
+schema_version: '1.0'
+id: pt:dre:274468:por
+title: Decreto-Lei n.º 285-A/2001
+short_title: null
+summary: Aprova a quarta fase de reprivatização do Banco Comercial dos Açores, S. A., e estabelece os seus termos e condições
+  gerais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 285-A/2001
+official_date: null
+publication_date: '2001-11-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 256/2001, 1º Suplemento, Série I-A de 2001-11-05
+  number: '256'
+  series: I
+  supplement: 1º Suplemento
+  pages: 7006-(2) a 7006-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/11/256a01/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/285-a/2001/11/05/p/dre/pt/html
+  oj: null
+  dre: '274468'
+  dre_path: /dr/detalhe/decreto-lei/285-a-2001-274468
+  internal: pt:dre:274468:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-a-2001-274468
+  metadata_url: https://data.dre.pt/eli/dec-lei/285-a/2001/11/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-a-2001-274468
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-11-05T00:00:00Z'
+integrity:
+  source_sha256: 0d583499e0672d472e515714acdf938027d8d7b69885a04b9064ea8692f58b06
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-285-A-274468.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acção Financeira
+- Alienação de Acções
+- Sociedade Anónima
+- Banco Comercial dos Açores
+- Bolsa de Valores
+- Mercado de Cotações Oficiais
+- Capital Social
+- Companhia de Seguros Açoreana
+- Mercado Interno
+- OPV
+- Preço BASE
+- Preço de Venda
+- Privatização
+- Açores
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/91/1995/05/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/91/1995/05/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/91/2000/05/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/91/2000/05/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/100/2000/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/100/2000/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/59/2000/06/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/59/2000/06/29/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 285-A/2001
+
+de 5 de Novembro
+
+O processo de reprivatização do Banco Comercial dos Açores, S. A. (BCA), iniciou-se com a publicação do [Decreto-Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1995-513869), de 9 de Maio, que aprovou a alienação, em duas fases sucessivas, de acções representativas de 66% do respectivo capital social.
+
+A primeira fase do processo de reprivatização consistiu na alienação, por concurso público limitado, de um bloco indivisível de acções representativas de 56% do respectivo capital social. Na segunda fase de reprivatização foram alienadas acções correspondentes a 10% do capital social, através de oferta pública de venda no mercado nacional, com reserva de lotes para trabalhadores da empresa e da sua participada Companhia de Seguros Açoreana, S. A., e para pequenos subscritores e emigrantes.
+
+O duplo objectivo pretendido com as referidas fases consistiu em promover o desenvolvimento dos negócios do BCA, através da especialização e promoção de ligações com parceiros fortes, e, ao mesmo tempo, assegurar as suas características de banco regional.
+
+A terceira fase de reprivatização do BCA, aprovada pelo [Decreto-Lei n.º 91/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2000-300221), de 19 Maio, e regulamentada pelas resoluções do Conselho de Ministros n.os [59/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2000-303148) (2.ª série), de 20 de Maio, e [100/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2000-314655), de 4 de Agosto, realizou-se por via do aumento do capital social do BCA, no âmbito do qual a Região Autónoma dos Açores alienou os direitos de preferência inerentes às acções por privatizar de que era titular.
+
+Entretanto, desde que teve início o processo de abertura do seu capital social, o BCA foi objecto de modificações profundas, tanto ao nível da sua organização interna como na área da especialização e segmentação dos respectivos negócios, tendo reforçado apreciavelmente a sua capacidade de competir quer no mercado da Região Autónoma dos Açores quer junto das comunidades açorianas emigradas para os Estados Unidos da América e Canadá.
+
+Entende o Governo da Região Autónoma dos Açores que é chegado o momento de prosseguir o processo de reprivatização do BCA, mediante a aprovação de uma quarta fase de alienação de acções.
+
+Nesta quarta fase de alienação, que abrangerá uma parcela de acções que não exceda 14,484% do capital da sociedade, retoma-se o modelo de venda já anteriormente experimentado com sucesso na segunda fase, ou seja, uma oferta pública de venda no mercado nacional, onde serão reservados lotes de acções para aquisição por trabalhadores, pequenos subscritores e emigrantes, e ainda para o público em geral.
+
+Considerando que a reprivatização do BCA implica a reprivatização indirecta da participação detida por esta sociedade no capital social da Companhia de Seguros Açoreana, S. A., que também se encontra sujeita ao direito reprivatizador da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, a reserva de acções para trabalhadores é, por isso, alargada aos trabalhadores desta instituição, tal como se verificou em anteriores fases de reprivatização.
+
+O modelo adoptado para a quarta fase de alienação privilegia essencialmente a obtenção de uma adequada dispersão do capital a reprivatizar. Pretende-se, desta forma, ampliar o universo accionista da sociedade junto de pequenos investidores particulares, de modo a permitir a presença do BCA no mercado bolsista português.
+
+Depois de concluída a quarta fase de reprivatização, a Região Autónoma dos Açores deterá ainda uma participação representativa de, pelo menos, cerca de 15% do capital social do BCA, mantendo o direito de veto num conjunto de deliberações essenciais e o poder de designar um dos membros do conselho de administração da sociedade, nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1995-513869), de 9 de Maio.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) a c) do n.º 1 do artigo 198.º da Constituição, precedendo iniciativa e parecer favorável do Governo da Região Autónoma dos Açores, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovada a quarta fase do processo de reprivatização do capital social do Banco Comercial dos Açores, S. A., adiante designado apenas por BCA, a qual implicará a alienação de uma quantidade de acções que não exceda 14,484% do capital da sociedade, a realizar nos termos constantes do presente diploma e das resoluções do Conselho de Ministros que estabelecerem as condições finais e concretas das operações necessárias à sua execução.
+
+###### Artigo 2.º — Modalidade de reprivatização
+
+1 - A alienação referida no artigo anterior realizar-se-á mediante uma oferta pública de venda no mercado nacional, precedida de um processo de recolha de intenções de investimento.
+
+2 - A quantidade de acções a alienar no âmbito da quarta fase do processo de reprivatização do BCA será fixada, em conformidade com o estabelecido no artigo anterior, mediante resolução do Conselho de Ministros.
+
+3 - O BCA deve solicitar a admissão à negociação no mercado de cotações oficiais da Bolsa de Valores de Lisboa e Porto do total de acções do BCA que sejam susceptíveis de serem negociadas em bolsa.
+
+###### Artigo 3.º — Oferta pública de venda
+
+1 - Das acções a alienar na oferta pública de venda serão reservados lotes para aquisição por trabalhadores do BCA e da sua participada Companhia de Seguros Açoreana, S. A., e por pequenos subscritores e emigrantes.
+
+2 - Para o efeito do número anterior, são consideradas trabalhadores as pessoas que, nos termos e com o âmbito do artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, estejam ou hajam estado ao serviço do BCA ou da sua participada Companhia de Seguros Açoreana, S. A., ou das entidades que àquelas sociedades deram origem.
+
+3 - Serão oferecidas ao público em geral as acções não abrangidas pelas reservas referidas no n.º 1, bem como as acções eventualmente não colocadas no âmbito das mesmas.
+
+###### Artigo 4.º — Regime de indisponibilidade das acções reservadas a trabalhadores, pequenos subscritores e emigrantes
+
+1 - Ficarão indisponíveis por um prazo de três meses as acções adquiridas no âmbito das reservas previstas no n.º 1 do artigo 3.º
+
+2 - O prazo de indisponibilidade contar-se-á desde o dia da sessão especial de bolsa destinada à realização da oferta pública de venda.
+
+3 - Durante o prazo de indisponibilidade, as respectivas acções não poderão ser oneradas nem objecto de negócios jurídicos que visem a transmissão da respectiva titularidade, ainda que com eficácia futura.
+
+4 - São nulos os negócios celebrados em violação do número anterior, ainda que antes de iniciado o prazo de indisponibilidade.
+
+5 - As acções adquiridas por pequenos subscritores e emigrantes, no âmbito da reserva a eles destinada, não conferem, durante o prazo de indisponibilidade, direito de voto.
+
+6 - Durante o prazo de indisponibilidade, os direitos de voto inerentes às acções adquiridas por trabalhadores não podem ser exercidos por interposta pessoa.
+
+7 - São nulos os negócios pelos quais os trabalhadores se obriguem a exercer, em determinado sentido, durante o prazo de indisponibilidade, os direitos de voto inerentes às acções referidas no número anterior, ainda que celebrados antes daquele prazo.
+
+8 - As nulidades previstas nos n.os 4 e 7 podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo o próprio BCA.
+
+###### Artigo 5.º — Regulamentação da quarta fase de reprivatização
+
+1 - De acordo com o artigo 14.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, as condições finais e concretas das operações necessárias à realização da presente fase do processo de reprivatização do BCA serão estabelecidas pelo Conselho de Ministros, sob proposta do Governo da Região Autónoma dos Açores, mediante a aprovação de uma ou mais resoluções.
+
+2 - Nas resoluções referidas no número anterior deverá o Conselho de Ministros, designadamente:
+
+a) Fixar a quantidade de acções a alienar nesta fase do processo de reprivatização do BCA;
+
+b) Estabelecer, em conformidade com o artigo 24.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, os termos em que os titulares originários da dívida pública decorrentes das nacionalizações e expropriações poderão mobilizar, ao valor nominal, os respectivos títulos de indemnização para pagamento das acções do BCA a alienar no âmbito desta fase do processo de reprivatização;
+
+c) Fixar a quantidade de acções reservadas para trabalhadores, pequenos subscritores e emigrantes, consoante prevê o n.º 1 do artigo 3.º;
+
+d) Fixar a quantidade de acções a oferecer ao público em geral, nos termos que resultam do n.º 3 do artigo 3.º;
+
+e) Estabelecer os critérios de rateio;
+
+f) Prever a transferência para as demais reservas da oferta de acções eventualmente não colocadas no âmbito de qualquer delas;
+
+g) Estabelecer as condições especiais de aquisição de acções de que beneficiarão os trabalhadores, bem como os pequenos subscritores e emigrantes, designadamente de preço e, no que respeita aos trabalhadores, de prazo de pagamento;
+
+h) Estabelecer condições mais favoráveis para as ordens de compra que tenham sido precedidas de manifestação de intenções de investimento;
+
+i) Fixar as quantidades máximas das acções que podem ser adquiridas por cada pessoa ou entidade dentro das categorias de investidores referidas nas alíneas c) e d).
+
+3 - A competência referida nas alíneas a), c) e d) do número anterior poderá ser delegada no Ministro das Finanças, com a faculdade de subdelegação no Secretário de Estado do Tesouro e Finanças.
+
+###### Artigo 6.º — Determinação do preço
+
+O preço base de venda das acções a alienar na presente oferta pública de venda deve ser fixado com base em avaliação efectuada nos termos do artigo 5.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+
+###### Artigo 7.º — Limite à participação no capital social
+
+1 - Nenhuma entidade, singular ou colectiva, poderá adquirir, no âmbito das operações previstas no presente decreto-lei, acções representativas de mais de 14,484% do capital social do BCA, sendo reduzidas a este limite as propostas de aquisição que o excedam.
+
+2 - Para os efeitos do número anterior, considera-se como a mesma entidade duas ou mais entidades que tenham entre si relações de simples participação ou de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas pelo mesmo sócio.
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 4 de Outubro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins.
+
+**Promulgado em 30 de Outubro de 2001.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 31 de Outubro de 2001.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

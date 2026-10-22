@@ -1,0 +1,404 @@
+---
+schema_version: '1.0'
+id: pt:dre:553927:por
+title: Decreto-Lei n.º 75/2012
+short_title: null
+summary: Estabelece o regime de extinção das tarifas reguladas de venda de eletricidade a clientes finais com consumos em
+  baixa tensão normal (BTN) e adota mecanismos de salvaguarda dos clientes finais economicamente vulneráveis
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 75/2012
+official_date: null
+publication_date: '2012-03-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/2012, Série I de 2012-03-26
+  number: '61'
+  series: I
+  supplement: null
+  pages: 1442 - 1445
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06100/0144201445.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes:
+- Mantém-se  em vigor o regime sancionatório previsto no artigo 4.º-A do presente decreto-lei, em tudo o que não contrarie
+  o disposto no decreto-lei n.º 15/2022, de 14 de janeiro, até à  sua respetiva atualização.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-15'
+version_history:
+  file: decreto-lei-75-2012.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-31'
+    amending: pt:dre:66379753:por
+    amending_title: Decreto-Lei n.º 15/2015
+    changes:
+    - Adita Artigo 4.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+  - date: '2017-09-04'
+    amending: pt:dre:108074433:por
+    amending_title: Lei n.º 105/2017
+    changes:
+    - Adita Artigo 2.º-A
+  - date: '2022-01-15'
+    amending: pt:dre:177634016:por
+    amending_title: Decreto-Lei n.º 15/2022
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º-A
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/75/2012/p/cons/20220114/pt/html
+  oj: null
+  dre: '553927'
+  dre_path: /dr/detalhe/decreto-lei/75-2012-553927
+  internal: pt:dre:553927:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927
+  metadata_url: https://data.dre.pt/eli/dec-lei/75/2012/p/cons/20220114/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-56353878
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-56353878
+  retrieved_at: '2026-10-22T11:54:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 42e0a597aa0743452e30b5049597b5fae60d31ac7032d40788bf6ce98acd8964
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:54:56Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-75-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Pobreza
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Consumidor
+- Contrato
+- Insuficiência Económica
+- Liberalização do Mercado
+- Mercado Interno
+- Entidade Reguladora dos Serviços Energéticos
+- Informação do Consumidor
+- Preço
+- Preço Livre
+- Proteção do Consumidor
+- Sistema Elétrico Nacional
+- Comércio
+- Venda
+relationships:
+- type: amended_by
+  target: pt:dre:66379753:por
+  label: Adita Artigo 4.º-A; Altera Artigo 4.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753
+  date: '2015-01-30'
+- type: amended_by
+  target: pt:dre:108074433:por
+  label: Adita Artigo 2.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/105-2017-108074433
+  date: '2017-08-30'
+- type: amended_by
+  target: pt:dre:177634016:por
+  label: Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 2.º-A; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º;
+    Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016
+  date: '2022-01-14'
+- type: cites
+  target: celex:32009L0072
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/72/oj
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:54:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 75/2012
+
+Decreto-Lei n.º 75/2012
+
+de 26 de março
+
+O Memorando de Entendimento sobre as Condicionalidades de Política Económica, celebrado entre a República Portuguesa e o Banco Central Europeu, a Comissão Europeia e o Fundo Monetário Internacional, no quadro do programa de auxílio financeiro a Portugal, obriga à extinção das tarifas reguladas de venda de eletricidade e gás natural a clientes finais até 1 de janeiro de 2013.
+
+A prossecução destes objetivos, no âmbito do sector elétrico, decorre também da Diretiva n.º <a href="eurlex.asp?ano=2009&id=309L0072" title="Link para Directiva da Comunidade Europeia">2009/72/CE</a>, do Parlamento Europeu e do Conselho, de 13 de julho de 2009, a qual, estabelecendo regras comuns para o mercado interno da eletricidade, obriga à sua liberalização.
+
+Assim, em cumprimento da Diretiva n.º <a href="eurlex.asp?ano=2009&id=309L0072" title="Link para Directiva da Comunidade Europeia">2009/72/CE</a>, do Parlamento Europeu e do Conselho, de 13 de julho de 2009, e do referido Memorando de Entendimento, o Governo aprovou, em 28 de julho, a Resolução do Conselho de Ministros n.º 34/2011, apresentando, desta forma, o calendário para a extinção gradual das tarifas reguladas de venda a clientes finais de eletricidade e de gás natural.
+
+No presente decreto-lei, estabelece-se o regime destinado a permitir a extinção, de forma gradual, por escalão de potência contratada, de todas as tarifas reguladas de venda de eletricidade a clientes finais no território continental, estendendo, assim, à baixa tensão normal (BTN), o processo iniciado pelo Decreto-Lei n.º 104/2010, de 29 de setembro, que determinou a extinção das aludidas tarifas para clientes em muito alta tensão (MAT), alta tensão (AT), média tensão (MT) e baixa tensão especial (BTE).
+
+O processo de extinção das tarifas reguladas concretiza-se através da eliminação das tarifas reguladas de venda de eletricidade a clientes finais em BTN e da introdução de mecanismos regulatórios de incentivo à adesão ao mercado de eletricidade em regime de preço livres, que se manterão regulados, de forma transitória e no máximo, até 31 de dezembro de 2014 e até 31 de dezembro de 2015, consoante os clientes tenham potência contratada superior ou igual a 10,35 kVA ou inferior a 10,35 kVA, respetivamente.
+
+O modelo de extinção gradual das tarifas de venda a clientes finais visa criar condições para que os comercializadores possam oferecer eletricidade num contexto de efetiva concorrência, dinamizando a transição dos clientes para um mercado liberalizado. A concretização deste modelo em função dos escalões de potência contratada, acompanhada da introdução de mecanismos regulatórios que incentivam a transição para um mercado energético liberalizado, toma em consideração a sensibilidade dos clientes compreendidos em cada um dos aludidos escalões à introdução de preços de mercado.
+
+O processo de extinção das tarifas reguladas será, assim, acompanhado pela adoção de mecanismos de salvaguarda dos clientes finais economicamente vulneráveis, designadamente, a possibilidade de serem fornecidos por um comercializador de último recurso e a adoção de instrumentos de relacionamento comercial adaptados às suas necessidades. Tais mecanismos de salvaguarda acrescem aos descontos aplicáveis aos clientes finais economicamente vulneráveis, designadamente à tarifa social da eletricidade, estabelecida pelo Decreto-Lei n.º 138-A/2010, de 28 de dezembro, e ao apoio social extraordinário ao consumidor de energia (ASECE), previsto no Decreto-Lei n.º 102/2011, de 30 de setembro.
+
+Foi ouvida a Entidade Reguladora dos Serviços Energéticos.
+
+Foi promovida a audição ao Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1 - O presente decreto-lei estabelece o regime de extinção das tarifas reguladas de venda de eletricidade a clientes finais com consumos em baixa tensão normal (BTN) e adota mecanismos de salvaguarda dos clientes finais economicamente vulneráveis, nomeadamente no que respeita ao relacionamento comercial e às tarifas e preços.
+
+2 - Para efeitos do presente diploma, são considerados clientes finais economicamente vulneráveis as pessoas que se encontrem nas condições de beneficiar da tarifa social de fornecimento de energia elétrica, nos termos do Decreto-Lei n.º 138-A/2010, de 28 de dezembro.
+
+3 - Para efeitos do presente diploma, entende-se por BTN o fornecimento ou entrega de eletricidade a uma tensão entre fases cujo valor eficaz é inferior ou igual a 1 kV e uma potência contratada inferior ou igual a 41,4 kVA.
+
+4 - Estabelece-se, ainda, a extinção do regime transitório de fornecimento de eletricidade a clientes finais com consumos em muito alta tensão (MAT), alta tensão (AT), média tensão (MT) e baixa tensão especial (BTE), previsto no artigo 6.º do Decreto-Lei n.º 104/2010, de 29 de setembro.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 2.º — Extinção das tarifas reguladas
+
+1 - As tarifas reguladas de venda de eletricidade a clientes finais com consumos em BTN são extintas:
+
+a) A partir de 1 de julho de 2012, para os clientes com potência contratada superior ou igual a 10,35 kVA;
+
+b) A partir de 1 de janeiro de 2013, para os clientes com potência contratada inferior a 10,35 kVA.
+
+2 - A partir das datas previstas no número anterior, os novos contratos de venda de eletricidade a clientes finais são obrigatoriamente celebrados em regime de preços livres, sem prejuízo do estabelecido no número seguinte.
+
+3 - Os clientes finais economicamente vulneráveis, tendo o direito de aderir às formas de contratação oferecidas no mercado, podem optar por ser fornecidos pelo comercializador de último recurso, mantendo, em qualquer dos casos, o direito aos descontos na tarifa de acesso legalmente previstos.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 2.º-A — Direito de opção
+
+1 - Os clientes com contratos em regime de preço livre podem optar por um regime equiparado ao das tarifas transitórias ou reguladas, para fornecimento de eletricidade aos clientes finais de baixa tensão normal, durante o período em que aquele regime vigore.
+
+2 - Às tarifas transitórias ou reguladas, incluindo o regime equiparado não é permitido aplicar qualquer fator de agravamento, devendo o membro do Governo responsável pela área da energia aprovar por portaria, no prazo de 60 dias após a entrada em vigor da presente lei, o regime equiparado ao das tarifas transitórias ou reguladas referidas no número anterior.
+
+3 - O presente artigo aplica-se sem prejuízo do disposto na alínea b) do n.º 1 do artigo 171.º da Lei n.º 42/2016, de 28 de dezembro.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Aditado pelo/a [Lei n.º 105/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/105-2017-108074433), em vigor a partir de 2017-09-04
+
+###### Artigo 3.º — Mecanismos de incentivo à transição para o mercado
+
+1 - A transição para o fornecimento em regime de mercado livre dos clientes finais de eletricidade com consumos em BTN é acompanhada pela criação de mecanismos regulatórios indutores da adesão gradual daqueles clientes às formas de contratação oferecidas no mercado.
+
+2 - Constituem mecanismos regulatórios de incentivo à transição para o regime de mercado livre dos clientes finais de eletricidade com consumos em BTN:
+
+a) As tarifas transitórias de venda aplicáveis ao fornecimento de eletricidade em BTN para o regime de comercialização de último recurso;
+
+b) Os deveres de informação relativos à extinção das tarifas reguladas e à transição para o regime de mercado.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 4.º — Tarifas transitórias
+
+1 - Sem prejuízo da extinção antecipada das tarifas reguladas nos termos e nas datas previstas no artigo 2.º, os comercializadores de último recurso devem continuar a fornecer eletricidade a clientes finais com consumos em BTN que não exerçam o direito de mudança para um comercializador de mercado livre, até data a definir mediante portaria do membro do Governo responsável pela área da energia, ouvida a ERSE.
+
+2 - Na situação referida no número anterior é aplicada uma tarifa de venda transitória, fixada pela ERSE, determinada pela soma das tarifas de energia, de acesso às redes e de comercialização, sobre as quais se aplica um fator de agravamento, o qual visa induzir a adesão gradual às formas de contratação oferecidas no mercado.
+
+3 - O membro do Governo responsável pela área da energia, ouvida a ERSE, estabelece, através de portaria, o mecanismo de determinação do fator de agravamento referido no número anterior.
+
+4 - O mecanismo referido no número anterior deve obedecer a princípios de transparência das regras aplicáveis, clareza da sua aplicação, direito no acesso à informação, igualdade de tratamento e de oportunidades, racionalidade e eficiência e ter em consideração a transição verificada no número de clientes do mercado regulado para o mercado livre.
+
+5 - Os comercializadores em mercado livre não podem indexar o preço do contrato à tarifa transitória de venda a clientes finais, devendo aquele refletir os custos efetivos do fornecimento.
+
+6 - Os comercializadores em mercado livre não podem rever, em função das variações verificadas na aplicação do mecanismo previsto no presente artigo, o preço do contrato por aplicação de regras ou cláusulas de indexação, sob pena da nulidade da cláusula que o previr.
+
+7 - A receita proveniente do fator de agravamento referido no n.º 2 é repercutida a favor dos consumidores de eletricidade através da tarifa de uso global do sistema, em termos a regular pela ERSE.
+
+8 - Às tarifas aplicáveis pelos comercializadores de último recurso aos clientes finais economicamente vulneráveis não é adicionado o montante resultante da aplicação do fator de agravamento referido no n.º 2.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2015 - Diário da República n.º 21/2015, Série I de 2015-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), em vigor a partir de 2015-01-31, produz efeitos a partir de 2015-01-01
+
+###### Artigo 4.º-A — Regime sancionatório
+
+1 - Constitui contraordenação leve, punível nos termos do disposto do artigo 2.º, na alínea j) do n.º 3 do artigo 28.º, e no n.º 4 do artigo 32.º da Lei n.º 9/2013, de 28 de janeiro, a indexação, pelos comercializadores em mercado livre, do preço do contrato de fornecimento à tarifa transitória de venda a clientes finais, bem como a revisão, pelos mesmos agentes, do preço do contrato de fornecimento em função das variações verificadas na aplicação do mecanismo previsto no artigo anterior, através de regras ou cláusulas de indexação, em derrogação do disposto nos n.os 5 e 6 do artigo anterior.
+
+2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+
+3 - A tentativa é punível com a coima aplicável à contraordenação consumada especialmente atenuada.
+
+4 - Os processos de contraordenação previstos no presente decreto-lei são instruídos pela ERSE, aplicando-se, subsidiariamente, o disposto na Lei n.º 9/2013, de 28 de janeiro, que aprova o regime sancionatório do setor energético.
+
+5 - O produto da aplicação das coimas reverte a favor das seguintes entidades:
+
+a) 60 % para o Estado;
+
+b) 40 % para a ERSE.
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 15/2015 - Diário da República n.º 21/2015, Série I de 2015-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), em vigor a partir de 2015-01-31, produz efeitos a partir de 2015-01-01
+
+###### Artigo 5.º — Mecanismos de salvaguarda dos clientes finais economicamente vulneráveis
+
+1 - Os clientes finais economicamente vulneráveis mantêm o direito a ser fornecidos por um comercializador de último recurso, nos termos a estabelecer por diploma legal.
+
+2 - Sem prejuízo do disposto na legislação de defesa do consumidor, em particular no regime jurídico aplicável aos serviços públicos essenciais, os clientes finais economicamente vulneráveis gozam, em especial, dos seguintes direitos:
+
+a) A exigência de pagamento pelo serviço de fornecimento de eletricidade ser comunicada ao cliente final economicamente vulnerável, por escrito, com uma antecedência mínima de 20 dias úteis relativamente à data-limite fixada para efetuar o pagamento;
+
+b) Em caso de mora no pagamento que justifique a interrupção do fornecimento, este só poder ocorrer após o cliente final economicamente vulnerável ter sido interpelado, por escrito e com a antecedência mínima de 15 dias úteis, para cumprir.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 6.º — Deveres de informação
+
+1 - Sem prejuízo da utilização de outros meios complementares de informação que considere necessários, a ERSE publica no seu sítio na Internet toda a informação necessária à mudança de comercializador, designadamente:
+
+a) As datas de extinção das tarifas reguladas de venda de eletricidade a clientes finais, nos termos do artigo 2.º;
+
+b) Os mecanismos regulatórios de incentivo à transição para o regime de mercado livre referidos no n.º 2 do artigo 3.º;
+
+c) Os valores das tarifas transitórias referidas no artigo 4.º;
+
+d) Os efeitos associados à ausência de mudança para um comercializador em regime de mercado livre;
+
+e) A lista de todos os comercializadores de eletricidade a atuar no mercado, registados junto da Direção-Geral de Energia e Geologia;
+
+f) Os mecanismos de salvaguardados clientes finais economicamente vulneráveis.
+
+2 - Sem prejuízo da utilização de outros meios complementares de informação que a ERSE considere necessários, o comercializador de último recurso deve:
+
+a) Até 30 dias após a entrada em vigor do presente decreto-lei, prestar, em conjunto com as faturas, a todos os seus clientes finais de eletricidade com consumos em BTN, a informação prevista no número anterior, repetindo esta informação em conjunto com as faturas que emita subsequentemente;
+
+b) Alertar, os clientes da potência contratada abrangida para o processo de extinção das respetivas tarifas, nos termos definidos em regulamentação da ERSE.
+
+c) Manter a informação prevista no número anterior disponível e atualizada no respetivo sítio na Internet até à extinção das tarifas transitórias, prevista no artigo 4.º
+
+3 - Os operadores das redes de distribuição em baixa tensão devem divulgar, através dos respetivos sítios na Internet, a informação prevista no n.º 1.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2015 - Diário da República n.º 21/2015, Série I de 2015-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), em vigor a partir de 2015-01-31, produz efeitos a partir de 2015-01-01
+
+###### Artigo 7.º — Alteração ao Decreto-Lei n.º 29/2006, de 15 de fevereiro
+
+Os artigos 46.º e 49.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, alterado pelos Decretos-Leis n.os 104/2010, de 29 de setembro, e 78/2011, de 20 de junho, passam a ter a seguinte redação:
+
+«Artigo 46.º
+
+Exercício da atividade de comercialização de último recurso
+
+1 - Considera-se 'comercializador de último recurso' o comercializador que estiver sujeito a obrigações de serviço público universal, nos termos previstos na presente subsecção.
+
+2 - A prestação de serviço público universal implica o fornecimento de eletricidade para satisfação das necessidades dos clientes de eletricidade com fornecimentos ou entregas em BTN, nos termos da legislação aplicável, nomeadamente a relativa à proteção do consumidor.
+
+3 - As obrigações de serviço público universal respeitam ao fornecimento de eletricidade aos clientes finais com potências contratadas iguais ou inferiores a 41,4 kVA enquanto forem aplicáveis as tarifas reguladas ou as tarifas transitórias legalmente previstas e, após a extinção destas, ao fornecimento de eletricidade para satisfação das necessidades dos clientes finais economicamente vulneráveis.
+
+Artigo 49.º
+
+Relacionamento comercial do comercializador de último recurso
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+3 - À venda de eletricidade aplicam-se as seguintes regras:
+
+a) O comercializador de último recurso é obrigado a fornecer eletricidade aos clientes com fornecimentos ou entregas em BTN com potência contratada que o requisitem, até ao limite de potência requisitada para efeitos de ligação, nos termos estabelecidos no n.º 3 do artigo 46.º do Regulamento de Relações Comerciais e com observância das demais exigências regulamentares;
+
+b) O comercializador de último recurso deve aplicar tarifas reguladas de venda aos clientes finais referidos na alínea anterior e, a partir da extinção das tarifas reguladas, as tarifas transitórias e as tarifas aplicáveis aos clientes finais economicamente vulneráveis legalmente previstas, em ambos os casos conforme publicadas pela ERSE, de acordo com o estabelecido no Regulamento Tarifário.»
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 8.º — Alteração ao Decreto-Lei n.º 104/2010, de 29 de setembro
+
+O artigo 6.º do Decreto-Lei n.º 104/2010, de 29 de setembro, passa a ter a seguinte redação:
+
+«Artigo 6.º
+
+Disposição transitória
+
+1 - Os comercializadores de último recurso devem, até 31 de dezembro 2012, continuar a fornecer eletricidade aos clientes finais com consumos em MAT, AT, MT e BTE que não tenham contratado no mercado livre o seu fornecimento.
+
+2 - ...
+
+3 - (Revogado.)
+
+4 - (Revogado.)»
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 9.º — Norma revogatória
+
+São revogados os n.os 3 e 4 do artigo 6.º do Decreto-Lei n.º 104/2010, de 29 de setembro.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 10.º — Regiões Autónomas
+
+O presente decreto-lei não é aplicável às Regiões Autónomas.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, com exceção do n.º 2 do artigo 5.º, que entra em vigor em 1 de junho de 2012.
+
+> Revogado pelo/a Artigo 305.º do/a [Decreto-Lei n.º 15/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), em vigor a partir de 2022-01-15
+
+Visto e aprovado em Conselho de Ministros de 9 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
+
+Promulgado em 15 de março de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 19 de março de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

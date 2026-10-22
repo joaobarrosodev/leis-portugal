@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:430850:por
+title: Portaria n.º 472/76
+short_title: null
+summary: Fixa os preços a aplicar a todos os serviços a prestar pela indústria hoteleira e similares do País
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Comércio Interno e do Comércio Externo
+proposing_entity: null
+official_number: 472/76
+official_date: null
+publication_date: '1976-08-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/1976, Série I de 1976-08-02
+  number: '179'
+  series: I
+  supplement: null
+  pages: 1854 - 1857
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/08/17900/18541857.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '430850'
+  dre_path: /dr/detalhe/portaria/472-1976-430850
+  internal: pt:dre:430850:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/472-1976-430850
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/472-1976-430850
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-12-09T00:00:00Z'
+integrity:
+  source_sha256: b140ae1e95c21f0159ec4a51958e92eafd65e708f712d1b8a7753688ed2ef79e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-472-430850.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:443152:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 472/76
+
+de 2 de Agosto
+
+A presente portaria materializa um sistema de preços aplicáveis à indústria hoteleira e de similares baseado no [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+
+Os sistemas de formação dos preços agora regulamentados estão de acordo com os regimes seguidos nos países europeus donde provem as principais correntes turísticas que nos visitam. Também o cliente nacional porque é agora criada uma base fundamen al para a concorrência interempresarial, irá sentir num prazo que se prevê breve os seus benefícios.
+
+Os preços que figuram em tabelas passam a vigorar semente para aqueles serviços em que a prática internacional - preços de alojamentos e de refeições completas na hotelaria - e a grande quantidade de unidades vendidas - serviços de cafetaria e bebidas - recomendam que se estabeleçam padrões guia para a fixação de preços máximos de venda ao público. Em outros tipos de serviço, em que a qualidade constitui afinal a essência para «bem exercer» uma actividade turística, considera-se negativa a existência de tabelas, que muito contribuíram para empurrar a indústria para a degradação dos serviços por ela prestada ao público ao longo destes últimos anos.
+
+No que respeita particularmente à restauração, pretende-se com esta portaria atingir dois objectivos fundamentais: permitir o melhoramento do nível dos serviços prestados e o funcionamento de um regime de concorrência entre empresas. Como corolário, deseja-se que uma política de preços ajustada às realidades da indústria permita eliminar os inviesamentos existentes na construção do preço do serviço, relegando-se para lugar secundário uma fiscalização que não contemplava qualquer daqueles objectivos.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros do Comércio Interno e do Comércio Externo, ao abrigo do disposto no n.º 2, alínea b), no n.º 1 do artigo 13.º e no artigo 17.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, o seguinte:
+
+I
+
+Regime geral de preços
+
+1.º Os preços a praticar nos estabelecimentos hoteleiros e similares de e sem interesse para o turismo, que não estejam sujeitos a qualquer regime específico, devem obedecer ao regime estabelecido nos números seguintes da presente portaria.
+
+2.º Os preços a praticar em todos os estabelecimentos hoteleiros e similares de e sem interesse para o turismo ficam sujeitos obrigatoriamente ao sistema «tudo incluído» instituído pelo [Decreto-Lei n.º 137/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1973-675061), de 30 de Março;
+
+3.º Os preços de serviço de cafetaria dos estabelecimentos hoteleiros e similares de e sem interesse para o turismo ficam sujeitos ao regime de preços controlados, fixando-se como preços máximos praticados os das tabelas acordadas e reservando-se às Direcções-Gerais do Turismo e do Comércio Alimentar o direito de só aprovarem alterações por grupos de empresas e não casuisticamente;
+
+4.º Os preços do serviço de restaurantes (serviço de refeições tradicionalmente designado por «serviço à carta» a praticar nos estabelecimentos hoteleiros e nos similares de hoteleiros classificados no grupo 1 e a que se refere o n.º 1 do artigo 18.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de ou sem interesse para o turismo, ficam sujeitos ao regime de preços livres.
+
+5.º Os preços de venda a cálice de bebidas espirituosas e licorosas a praticar em todos os estabelecimentos hoteleiros e similares de e sem interesse para o turismo serão calculados de acordo com os factores constantes de tabelas fixadas pelas Direcções-Gerais do Turismo e do Comércio Alimentar.
+
+6.º Os preços de venda de vinhos e espumantes continuam sujeitos a legislação especial.
+
+7.º Em todos os estabelecimentos hoteleiros e similares de e sem interesse para o turismo onde seja praticado o serviço tradicionalmente designado por couvert, deverão observar-se as seguintes regras:
+
+a) Entende-se por couvert todo o conjunto de alimentos e aperitivos fornecidos antes do início da refeição, propriamente dita;
+
+b) A composição e preços do couvert devem constar da lista do estabelecimento, em local bem destacado, de preferência junto aos preços das sopas e acepipes;
+
+c) O couvert só pode ser cobrado se for consumido ou inutilizado.
+
+8.º Em caso algum poderá cobrar-se qualquer importância a título de «talher» ou serviço semelhante.
+
+9.º A prática de consumo mínimo em qualquer estabelecimento hoteleiro ou similar deverá obedecer também às seguintes regras:
+
+a) Para qualquer estabelecimento hoteleiro ou similar poder praticar o «consumo mínimo» é preciso estar previamente autorizado pela Direcção-Geral do Turismo;
+
+b) Para este efeito, as empresas interessadas deverão apresentar na Direcção-Geral do Turismo o seu pedido devidamente fundamentado;
+
+c) Os preços do «consumo mínimo» serão considerados livres, sem prejuízo da obediência aos critérios estabelecidos no artigo 42.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109).
+
+II
+
+Dos estabelecimentos hoteleiros
+
+10.º Os preços do aposento e das refeições completas nos estabelecimentos hoteleiros estão sujeitos às normas fixadas pela [Portaria n.º 168/75](https://diariodarepublica.pt/dr/detalhe/portaria/168-1975-160735), de 7 de Março;
+
+11.º Até 31 de Março de 1977, os preços dos serviços referidos no número anterior serão os constantes da tabela anexa à presente portaria.
+
+12.º Os preços dos serviços complementares prestados nos estabelecimentos hoteleiros, designadamente os de lavandaria, sauna e piscina, ficam sujeitos ao regime de preços declarados.
+
+13.º O n.º 4.º da [Portaria n.º 168/75](https://diariodarepublica.pt/dr/detalhe/portaria/168-1975-160735) passa a ter a seguinte redacção:
+
+4.º Ao hóspede, quando da sua entrada no estabelecimento, deverá obrigatoriamente ser entregue um cartão do modelo anexo, devidamente preenchido, e que conterá no mínimo o nome do cliente, a identificação do estabelecimento, o número do quarto e o seu preço, o que não poderá ser alterado durante a sua estada.
+
+14.º Do preço do aposento fazem parte integrante os serviços de alojamento e pequeno-almoço «continental».
+
+15.º Sempre que o cliente opte pelo serviço de pequeno-almoço «à inglesa», poder-lhe-á ser cobrado um suplemento correspondente à diferença do preço.
+
+16.º Quando um quarto duplo for ocupado por uma pessoa, ao preço do aposento será obrigatoriamente descontado o valor correspondente ao preço de um pequeno-almoço.
+
+17.º Sempre que o estabelecimento esteja impossibilitado de fornecer ao cliente o serviço de pequeno-almoço, o valor correspondente ao preço deste será obrigatoriamente descontado no preço do aposento.
+
+18.º Salvo os casos previstos nos n.os 16.º e 17.º, não poderá ser cobrado ao cliente qualquer quantia pelo serviço de pequeno-almoço, nem exigido ao hoteleiro qualquer desconto.
+
+III
+
+Dos estabelecimentos similares de hoteleiros
+
+19.º Nos estabelecimentos similares de hoteleiros todos os bolos vendidos por unidade deverão obedecer às características fixadas no mapa a que se refere o n.º 2.º da [Portaria n.º 130/75](https://diariodarepublica.pt/dr/detalhe/portaria/130-1975-160508), de 28 de Fevereiro.
+
+IV
+
+Publicidade
+
+20.º Em todos os estabelecimentos similares dos hoteleiros classificados no grupo 2 a que respeita o n.º 3.º do artigo 18.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) deverá afixar-se obrigatoriamente, em local destacado e em termos de permitir uma fácil leitura, a indicação de os preços praticados obedecerem ao sistema «tudo incluído».
+
+21.º Nestes estabelecimentos, todos os produtos que estejam expostos no estabelecimento para venda ao público e sejam fornecidos à peça deverão ter junto a indicação do respectivo preço de modo a que o público possa ter conhecimento dele de forma inequívoca antes da sua aquisição.
+
+22.º Nos estabelecimentos hoteleiros deverá existir um exemplar da tabela a que se refere o n.º 11.º da presente portaria, o qual será obrigatoriamente facultado ao cliente, sempre que este o exija.
+
+V
+
+Das infracções e sua sanção
+
+23.º As infracções ao disposto nos n.os 7.º, 8.º, 9.º, 15.º, 16.º, 17.º, 18.º e 19.º da presente portaria serão punidas nos termos do artigo 244.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), com a redacção que lhe foi dada pelo [Decreto n.º 768/74](https://diariodarepublica.pt/dr/detalhe/decreto/768-1974-461255), de 31 de Dezembro.
+
+VI
+
+Disposições finais
+
+24.º Ficam revogados os n.os 1.º e 4.º da [Portaria n.º 130/75](https://diariodarepublica.pt/dr/detalhe/portaria/130-1975-160508), de 28 de Fevereiro, o n.º 16.º da [Portaria n.º 168/75](https://diariodarepublica.pt/dr/detalhe/portaria/168-1975-160735), de 7 de Março, e o despacho de 29 de Junho de 1971, publicado no Diário do Governo, 2.ª série, n.º 167, de 17 de Julho de 1971.
+
+Ministérios do Comércio Interno e do Comércio Externo, 8 de Julho de 1976. - O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota. - O Ministro do Comércio Externo, Joaquim Jorge de Pinho Campinos.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1976/08/17900/18541857.pdf))](https://files.diariodarepublica.pt/1s/1976/08/17900/18541857.pdf)
+
+**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota. - O Ministro do Comércio Externo, Joaquim Jorge de Pinho Campinos.**

@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:620774:por
+title: Portaria n.º 744-A/93
+short_title: null
+summary: Revê a contingentação global do quadro de pessoal técnico exactor das tesourarias da Fazenda Pública e extingue 13
+  tesourarias da Fazenda Pública
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 744-A/93
+official_date: null
+publication_date: '1993-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 193/1993, 1º Suplemento, Série I-B de 1993-08-18
+  number: '193'
+  series: I
+  supplement: 1º Suplemento
+  pages: 4410-(2) a 4410-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/744-a/1993/08/18/p/dre/pt/html
+  oj: null
+  dre: '620774'
+  dre_path: /dr/detalhe/portaria/744-a-1993-620774
+  internal: pt:dre:620774:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/744-a-1993-620774
+  metadata_url: https://data.dre.pt/eli/port/744-a/1993/08/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/744-a-1993-620774
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-03-10T00:00:00Z'
+integrity:
+  source_sha256: 5083c243a2e1bea5780ee4bab10e64c46ebc9f1b79af9d7826669df0ef3008b6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-744-A-620774.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contingentação
+- Extinção de Serviços
+- Fazenda Pública
+- Pessoal Técnico
+- Quadro de Pessoal
+- Tesouraria da Fazenda Pública
+- Tesoureiro da Fazenda Pública
+relationships:
+- type: amended_by
+  target: pt:dre:158268:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 744-A/93
+
+de 18 de Agosto
+
+O n.º 2 do artigo 4.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, dispõe que os quadros de pessoal das tesourarias da Fazenda Pública poderão ser alterados por portaria do Ministro das Finanças, sob proposta da Direcção-Geral do Tesouro. E o n.º 1 do artigo 6.º do mesmo diploma legal estabelece que o quadro de pessoal será contingentado por portaria do Ministro das Finanças.
+
+A redução e a simplificação das atribuições dos serviços locais da Direcção-Geral do Tesouro determinam a necessidade de introduzir ajustamentos no seu quadro de pessoal.
+
+Por outro lado, o actual sistema de cobranças permite o pagamento de dívidas fiscais em qualquer tesouraria da Fazenda Pública, tendo resultado um desajustamento dos quadros relativamente ao serviço efectivo de cada uma.
+
+Acresce que o processo de cobrança foi objecto de evidente desburocratização, com reflexo no funcionamento das tesourarias da Fazenda Pública.
+
+Face a esta realidade, procedeu-se aos estudos necessários, tendo por objectivo adequar o quadro de pessoal técnico exactor às necessidades permanentes do serviço.
+
+Na sequência dos referidos estudos, impõe-se a redução e redistribuição do pessoal técnico exactor, bem como a extinção de 13 tesourarias da Fazenda Pública.
+
+Assim:
+
+Manda o Governo, pelo Ministro das Finanças, nos termos da alínea c) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), de 7 de Novembro, e ao abrigo do n.º 2 do artigo 4.º e do n.º 1 do artigo 6.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, o seguinte:
+
+1.º É revisto o quadro do pessoal técnico exactor das tesourarias da Fazenda Pública, em conformidade com os mapas I e II anexos à presente portaria.
+
+2.º São extintas as tesourarias da Fazenda Pública de Braga (3.ª), Coimbra (3.ª), Funchal (1.ª), Funchal (3.ª), Cascais (3.ª), Cascais (4.ª), Loures (5.ª), Oeiras (4.ª), Vila Franca de Xira (3.ª), Matosinhos (3.ª), Santo Tirso (3.ª), Vila Nova de Gaia (5.ª) e Seixal (3.ª).
+
+Ministério das Finanças.
+
+**Assinada em 13 de Agosto de 1993.**
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro das Finanças, José Monteiro Fernandes Braz, Secretário de Estado do Tesouro.
+
+MAPA I
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf)
+
+MAPA II
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf)

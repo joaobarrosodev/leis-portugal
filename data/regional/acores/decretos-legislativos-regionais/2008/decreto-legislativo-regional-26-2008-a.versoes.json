@@ -1,0 +1,385 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:454496:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-116740608",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2008-454496",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-07-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116756175",
+    "116756176",
+    "116756177",
+    "116756178",
+    "116756179",
+    "116756180",
+    "116756181",
+    "116756182",
+    "116756183",
+    "116756184",
+    "116756185",
+    "116756186",
+    "116756187",
+    "116756188",
+    "116756189",
+    "116756190"
+   ]
+  },
+  {
+   "date": "2009-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491435:por",
+     "title": "Decreto Legislativo Regional n.º 17/2009/A",
+     "published": "2009-10-14",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2009-491435"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "116756175",
+    "116756176",
+    "116756192",
+    "116756178",
+    "116756179",
+    "116756180",
+    "116756193",
+    "116756378",
+    "116756183",
+    "116756377",
+    "116756185",
+    "116756194",
+    "116756187",
+    "116756188",
+    "116756189",
+    "116756190",
+    "116756191"
+   ]
+  },
+  {
+   "date": "2018-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116747928:por",
+     "title": "Decreto Legislativo Regional n.º 12/2018/A",
+     "published": "2018-10-22",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2018-116747928"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "116756175",
+    "116756176",
+    "116756220",
+    "116756178",
+    "116756179",
+    "116756180",
+    "116756221",
+    "116756222",
+    "116756183",
+    "116756377",
+    "116756185",
+    "116756194",
+    "116756187",
+    "116756188",
+    "116756189",
+    "116756223",
+    "116756191"
+   ]
+  },
+  {
+   "date": "2022-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:186869051:por",
+     "title": "Decreto Legislativo Regional n.º 19/2022/A",
+     "published": "2022-08-01",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/19-2022-186869051"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "116756175",
+    "116756176",
+    "116756220",
+    "116756178",
+    "116756179",
+    "116756180",
+    "186759841",
+    "116756222",
+    "116756183",
+    "116756377",
+    "116756185",
+    "116756194",
+    "116756187",
+    "116756188",
+    "116756189",
+    "116756223",
+    "116756191"
+   ]
+  }
+ ],
+ "fragments": {
+  "116756175": {
+   "fragment_id": "116740609",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 26/2008/A\n\nAdapta à administração pública regional dos Açores a Lei n.º 12-A/2008, de 27 de Fevereiro (estabelece os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas).\n\nA Lei n.º 12-A/2008, de 27 de Fevereiro, veio definir e regular os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, preceituando o seu n.º 2 do artigo 3.º que a sua adaptação às Regiões Autónomas seja efectivada mediante decreto legislativo regional.\n\nO presente diploma visa, pois, dar exequibilidade àquele normativo, procedendo a um conjunto de adaptações que resultam da natureza e características próprias da estrutura organizativa da administração regional dos Açores.\n\nNesse sentido, este diploma mantém os quadros regionais de ilha, regime instituído pelo Decreto Legislativo Regional n.º 49/2006/A, de 11 de Dezembro, na redacção atribuída pelo artigo 9.º do Decreto Legislativo Regional n.º 27/2007/A, de 10 de Dezembro, bem como o regime de mobilidade dos trabalhadores da administração regional estabelecido no Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro, e a bolsa de emprego público - Açores (BEP-Açores) previsto no Decreto Legislativo Regional n.º 50/2006/A, de 12 de Dezembro, porque se consideram diplomas estruturantes da forma de organização da administração pública regional, constituindo instrumentos privilegiados na gestão dos recursos humanos, que urge adequar ao novo regime instituído.\n\nConsagra, ainda, um conjunto de normas instrumentais que visam a intervenção dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública, no sentido de determinados procedimentos administrativos carecerem de prévia autorização, designadamente, em matérias de orçamentação e gestão das despesas com pessoal e no recrutamento de trabalhadores.\n\nPor fim, estabelece algumas regras, de carácter transitório, designadamente as que se referem à manutenção e conversão da relação jurídica de emprego público, à integração nos quadros regionais de ilha dos trabalhadores em situação de precariedade profissional e que vêm desempenhando funções correspondentes a necessidades permanentes dos serviços, bem como à relevância do tempo de serviço, designadamente do período de congelamento das progressões, para efeitos do primeiro reposicionamento remuneratório dos trabalhadores que exercem funções públicas.\n\nO presente diploma foi objecto de negociação sindical nos termos da legislação em vigor.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos das alíneas a) do n.º 1 do artigo 227.º da Constituição da República e c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 265/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/265-2011-670538) Declara a inconstitucionalidade, com força obrigatória geral, da norma constante do artigo 7.º, n.os 1 e 2."
+  },
+  "116756176": {
+   "fragment_id": "116740610",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma adapta à administração regional autónoma da Região Autónoma dos Açores a Lei n.º 12-A/2008, de 27 de Fevereiro, que estabelece os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, bem como a definição do regime jurídico-funcional aplicável a cada modalidade de constituição da relação jurídica de emprego público.\n\n2 - O presente diploma aplica-se também à Assembleia Legislativa da Região Autónoma dos Açores, com as adaptações impostas pela observância das correspondentes competências."
+  },
+  "116756177": {
+   "fragment_id": "116740611",
+   "type": 11,
+   "heading": "Artigo 2.º — Quadros regionais de ilha e outros quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Quadros regionais de ilha e outros quadros de pessoal\n\n1 - As referências a mapas de pessoal reportam-se, na Região, aos quadros regionais de ilha aprovados ao abrigo do disposto no Decreto Legislativo Regional n.º 49/2006/A, de 11 de Dezembro, na redacção atribuída pelo artigo 9.º do Decreto Legislativo Regional n.º 27/2007/A, de 10 de Dezembro, assim como aos quadros do pessoal docente e não docente dos estabelecimentos de ensino não superior, cujo regime se mantém em vigor.\n\n2 - Tendo em conta o disposto na parte final do número anterior, aquando da regulamentação da integração daquele pessoal nos quadros regionais de ilha, serão fixadas as regras de gestão do mesmo."
+  },
+  "116756178": {
+   "fragment_id": "116740612",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicitação das modalidades de vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Publicitação das modalidades de vinculação\n\nTodos os actos relativos às modalidades de vinculação em que legalmente se exige a respectiva publicitação em jornal oficial ou afixação no órgão ou serviço interessado são efectuados na bolsa de emprego público da Região Autónoma dos Açores (BEP-Açores), nos termos determinados pelo Decreto Legislativo Regional n.º 50/2006/A, de 12 de Dezembro, sem prejuízo das adaptações que lhe vierem a ser introduzidas."
+  },
+  "116756179": {
+   "fragment_id": "116740613",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de mobilidade\n\nO regime de mobilidade dos trabalhadores da administração regional autónoma é o estabelecido no Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro, sem prejuízo das adaptações que lhe vierem a ser introduzidas."
+  },
+  "116756180": {
+   "fragment_id": "116740614",
+   "type": 11,
+   "heading": "Artigo 5.º — Orçamentação e gestão das despesas com pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Orçamentação e gestão das despesas com pessoal\n\n1 - As alterações do posicionamento remuneratório, mesmo as que resultarem de um processo de negociação com o trabalhador, carecem de prévia autorização dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública, mediante proposta fundamentada do membro do Governo Regional da tutela.\n\n2 - O regime de orçamentação e gestão das despesas com pessoal aplicáveis aos dirigentes máximos do serviço é extensível aos chefes de gabinete que tenham competências em matéria de pessoal.\n\n3 - Carece, igualmente, de prévia autorização das entidades referidas no n.º 1 a celebração de contratos de prestação de serviços."
+  },
+  "116756181": {
+   "fragment_id": "116740615",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento concursal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento concursal\n\n1 - O recrutamento de trabalhadores necessários à ocupação dos postos de trabalho carece de prévia autorização dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública.\n\n2 - O procedimento concursal, bem como o regime aplicável ao universo dos trabalhadores para a ocupação dos postos de trabalho, observa o disposto no Decreto Legislativo Regional n.º 49/2006/A, de 11 de Dezembro, na redacção atribuída pelo artigo 9.º do Decreto Legislativo Regional n.º 27/2007/A, de 10 de Dezembro, assim como no Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro.\n\n3 - A possibilidade de candidatura a procedimento concursal a quem não seja titular da habilitação exigida carece de autorização prévia do membro do Governo Regional com competência na área da Administração Pública.\n\n4 - O regime estabelecido no artigo 51.º da Lei n.º 12-A/2008, de 27 de Fevereiro, é extensivo aos trabalhadores da administração regional autónoma com nomeação definitiva nos quadros de ilha ou outros quadros de pessoal, considerando-se, para aquele efeito, automaticamente criados os lugares objecto do procedimento concursal, caso neles venham a ser providos com a consequente extinção dos lugares de origem.\n\n5 - O dirigente máximo do serviço pode optar, em alternativa à publicitação de procedimento concursal, pelo recurso a diplomados com o curso de Estudos Avançados em Gestão Pública (CEAGP) ou de outros cursos de idêntica natureza desde que devidamente reconhecidos por despacho conjunto dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 19/2022/A - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2022-186869051) determina que o disposto no n.º 13 do presente artigo aplica-se aos procedimentos concursais que venham a ser desencadeados após 02-08-2022."
+  },
+  "116756182": {
+   "fragment_id": "116740616",
+   "type": 11,
+   "heading": "Artigo 7.º — Manutenção e conversão da relação jurídica de emprego público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Manutenção e conversão da relação jurídica de emprego público\n\n1 - Os actuais trabalhadores da administração regional nomeados definitivamente mantêm a nomeação definitiva, sem prejuízo de, caso assim o entendam, manifestarem por escrito, no prazo de 90 dias, a intenção de transitarem nos termos fixados da Lei n.º 12-A/2008, de 27 de Fevereiro, para a modalidade de contrato por tempo indeterminado.\n\n2 - Os actuais trabalhadores provisoriamente nomeados em comissão de serviço durante o período probatório, bem como em contrato administrativo de provimento para a realização de estágio e em comissão de serviço extraordinária, transitam para a modalidade de nomeação definitiva, aplicando-se o disposto na parte final do número anterior.\n\n3 - Os trabalhadores que actualmente se encontrem em substituição em cargo não dirigente mantêm essa situação de acordo com o regime em que foi constituída, até à alteração do Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro."
+  },
+  "116756183": {
+   "fragment_id": "116740617",
+   "type": 11,
+   "heading": "Artigo 8.º — Integração nos quadros regionais de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Integração nos quadros regionais de ilha\n\n1 - Os actuais trabalhadores em regime de contrato administrativo de provimento e de contrato a termo resolutivo que, à data da entrada em vigor do presente diploma, exerçam, naquelas modalidades contratuais, ininterruptamente funções correspondentes a necessidades permanentes e com horário completo, há mais de dois anos, nos serviços ou organismos da administração pública regional, são integrados nos quadros de pessoal a que se refere o artigo 2.º, na situação de nomeados definitivamente na base das carreiras onde se encontram contratados ou a desempenhar funções, após aprovação num processo de selecção sumário, com respeito pelas habilitações legais exigidas.\n\n2 - São irrelevantes, para os efeitos do número anterior, as interrupções de serviço que a lei equipara a prestação efectiva de serviço, bem como as interrupções de serviço verificadas nos últimos dois anos contados até à data da entrada em vigor do presente diploma, que não excedam 5 % da totalidade do período de tempo de exercício de funções nas modalidades contratuais referidas no número anterior.\n\n3 - São igualmente abrangidos pelo processo de integração nos quadros regionais de ilha os actuais trabalhadores que exerçam ininterruptamente funções nos moldes referidos no n.º 1, nos serviços ou organismos da administração pública regional, em regime de prestação de serviços ou nas modalidades contratuais aí referidas, há pelo menos quatro anos.\n\n4 - Para efeitos do cômputo do tempo a que se refere o número anterior, são irrelevantes as interrupções de serviço que, no seu conjunto, não ultrapassem os 30 dias.\n\n5 - A integração a que se refere o presente artigo abrange, também, os actuais trabalhadores dos hospitais da Região que, à data da entrada em vigor do Decreto Legislativo Regional n.º 2/2007/A, de 24 de Janeiro, possuíam dois anos de serviço efectivo nos moldes referidos no n.º 1, sendo a aplicação do regime previsto no n.º 2 reportada àquela data.\n\n6 - Os actuais trabalhadores em regime de contrato administrativo de provimento que, à data da publicação do presente diploma, exerçam funções naquela modalidade contratual, correspondentes a necessidades permanentes e com horário completo nos serviços ou organismos da administração pública regional, são integrados nos quadros de pessoal referidos no artigo 3.º do Decreto Legislativo Regional n.º 27/2007/A, de 10 de Dezembro, em regime de contrato de trabalho por tempo indeterminado, na base das carreiras onde se encontram contratados, após aprovação num processo de selecção sumário, nos termos dos números seguintes e com respeito pelas habilitações legais exigidas.\n\n7 - No processo de selecção a que se refere o n.º 1, é utilizado como método de selecção a avaliação curricular, só podendo ser opositores ao mesmo os trabalhadores do respectivo serviço ou organismo abrangidos pelo presente diploma.\n\n8 - Concluído o processo de selecção, a integração dos trabalhadores nos quadros de pessoal efectua-se mediante despacho conjunto dos membros do Governo Regional da tutela e dos que tem a seu cargo as áreas da Administração Pública e das finanças, sendo aditados automaticamente o número de lugares considerados necessários para o efeito.\n\n9 - O disposto no presente artigo não se aplica ao pessoal docente dos estabelecimentos de ensino não superior."
+  },
+  "116756184": {
+   "fragment_id": "116740618",
+   "type": 11,
+   "heading": "Artigo 9.º — Trabalhadores em situação de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Trabalhadores em situação de mobilidade\n\nOs actuais trabalhadores requisitados, destacados, ocasional e especialmente cedidos e em afectação mantêm a respectiva situação resultante da aplicação do Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro, enquanto este não for revisto."
+  },
+  "116756185": {
+   "fragment_id": "116740619",
+   "type": 11,
+   "heading": "Artigo 10.º — Concursos, reclassificações e reconversões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Concursos, reclassificações e reconversões\n\nSão válidos os procedimentos relativos a concursos de recrutamento e selecção, reclassificações e reconversões profissionais de pessoal pendentes à data da entrada em vigor do presente diploma ou do Regime do Contrato de Trabalho em Funções Públicas (RCTFP)."
+  },
+  "116756186": {
+   "fragment_id": "116740620",
+   "type": 11,
+   "heading": "Artigo 11.º — Relevância do tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Relevância do tempo de serviço\n\n1 - O tempo de serviço prestado de 2004 a 2008, ambos inclusive, releva para efeitos do reposicionamento remuneratório imediatamente a seguir ao resultante da integração nas novas carreiras, de acordo com os módulos de tempo exigidos no regime anterior para a progressão nas carreiras.\n\n2 - Quando tenha havido alteração da posição remuneratória, por efeito, designadamente, de promoção ocorrida durante aquele período, a contagem de tempo efectua-se a partir daquela mudança.\n\n3 - No ano em que se tenha verificado alteração da posição remuneratória, a classificação de serviço atribuída nesse ano não releva para efeitos de futuro reposicionamento remuneratório.\n\n4 - Para efeitos do reposicionamento remuneratório, são consideradas as classificações de serviço de Muito Bom e Bom, atribuídas no período relevante, ao abrigo do Decreto Regulamentar Regional n.º 11/84/A, de 8 de Março, ou outro sistema de avaliação específico, equiparadas no novo sistema de avaliação de desempenho à menção de Relevante.\n\n5 - O disposto no número anterior aplica-se igualmente ao pessoal que, naquele período, não foi objecto de classificação de serviço.\n\n6 - A partir do ano de 2009 será aplicado o novo regime da avaliação do desempenho dos trabalhadores que exercem funções públicas na administração regional - SIADAPRA.\n\n7 - Sem prejuízo do disposto nos artigos 9.º e 10.º do Decreto Legislativo Regional n.º 21/2007/A, de 30 de Agosto, aos docentes dos estabelecimentos de ensino não superior que à data da entrada em vigor do presente diploma se encontrem a prestar serviço no Sistema Educativo Regional, o tempo de serviço prestado neste sistema durante o período de congelamento, ocorrido de 30 de Agosto de 2005 a 31 de Dezembro de 2007, é relevado, na actual carreira, para efeitos de progressão, de acordo com os módulos de tempo naquela previstos, nos seguintes termos:\n\na) 50 % daquele período de congelamento a partir da data da entrada em vigor do presente diploma;\n\nb) 50 % daquele período de congelamento a partir de 1 de Setembro de 2009."
+  },
+  "116756187": {
+   "fragment_id": "116740621",
+   "type": 11,
+   "heading": "Artigo 12.º — Remuneração complementar regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Remuneração complementar regional\n\nA remuneração complementar regional mantém o regime jurídico definido no Decreto Legislativo Regional n.º 8/2002/A, de 10 de Abril, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 22/2007/A, de 23 de Outubro."
+  },
+  "116756188": {
+   "fragment_id": "116740622",
+   "type": 11,
+   "heading": "Artigo 13.º — Suplementos remuneratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Suplementos remuneratórios\n\nOs suplementos remuneratórios em vigor são mantidos, integralmente, como tal enquanto não forem extintos ou integrados, total ou parcialmente, na remuneração base."
+  },
+  "116756189": {
+   "fragment_id": "116740623",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma de prevalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma de prevalência\n\nO regime estabelecido no presente diploma prevalece sobre quaisquer normas que versem sobre a mesma matéria."
+  },
+  "116756190": {
+   "fragment_id": "116740624",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor e produção de feitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e produção de feitos\n\n1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O n.º 1 do artigo 7.º produz efeitos à data da entrada em vigor do diploma que aprova o RCTFP.\n\n3 - O disposto no número anterior aplica-se, com as necessárias adaptações, às situações previstas no n.º 2 do artigo 7.º"
+  },
+  "116756192": {
+   "fragment_id": "116740611",
+   "type": 11,
+   "heading": "Artigo 2.º — Quadros regionais de ilha e outros quadros de pessoal",
+   "in_force_from": "2009-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 2.º — Quadros regionais de ilha e outros quadros de pessoal\n\n1 - As referências a mapas de pessoal reportam-se, na Região, aos quadros regionais de ilha aprovados ao abrigo do disposto no Decreto Legislativo Regional n.º 49/2006/A, de 11 de Dezembro, na redacção atribuída pelo artigo 9.º do Decreto Legislativo Regional n.º 27/2007/A, de 10 de Dezembro, assim como aos quadros do pessoal docente e não docente dos estabelecimentos de ensino não superior, cujo regime se mantém em vigor.\n\n2 - Tendo em conta o disposto na parte final do número anterior, aquando da regulamentação da integração daquele pessoal nos quadros regionais de ilha, serão fixadas as regras de gestão do mesmo.\n\n3 - As referências feitas a mapas de pessoal reportam-se, igualmente, ao quadro de pessoal da Assembleia Legislativa da Região Autónoma dos Açores, aprovado pelo Decreto Legislativo Regional n.º 54/2006/A, de 22 de Dezembro, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 3/2009/A, de 6 de Março, sem prejuízo da criação de mapas de pessoal quanto às admissões em regime de contrato de trabalho em funções públicas.\n\n4 - Para efeitos do disposto no artigo 57.º do Decreto Legislativo Regional n.º 54/2006/A, de 22 de Dezembro, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 3/2009/A, de 6 de Março, consideram-se automaticamente criados no mapa de pessoal da Assembleia Legislativa da Região Autónoma dos Açores os postos de trabalho necessários à integração daqueles trabalhadores.\n\n5 - Para efeitos de orçamentação e gestão de recursos humanos a que se refere o artigo 7.º da Lei n.º 12-A/2008, de 27 de Fevereiro, as verbas orçamentais dos órgãos e serviços relativas a despesas com o pessoal visam satisfazer os encargos com os trabalhadores que se lhe encontram afectos ou a afectar, nos termos da legislação regional em vigor.\n\n6 - A proposta de orçamento dos órgãos e serviços será acompanhada de informação que indique o número de postos de trabalho que lhes estão afectos, bem como dos que carecem para o desenvolvimento das respectivas actividades, caracterizando-os em função:\n\na) Da atribuição, competência ou actividade que o seu ocupante se destine a cumprir ou a executar;\n\nb) Do cargo ou da carreira e categoria e posição remuneratória que lhes correspondam;\n\nc) Dentro de cada carreira e ou categoria, quando imprescindível, da área de formação académica ou profissional de que o seu ocupante é ou deva ser titular.\n\n7 - Na informação referida no número anterior deve igualmente constar o número de postos de trabalho que podem ser disponibilizados tendo em conta as necessidades de afectação a outros órgãos e serviços.\n\n8 - A informação a que se refere este artigo deve igualmente ser remetida ao membro do Governo Regional responsável pela área da Administração Pública.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "116756193": {
+   "fragment_id": "116740615",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento concursal",
+   "in_force_from": "2009-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimento concursal\n\n1 - O recrutamento de trabalhadores necessários à ocupação dos postos de trabalho carece de prévia autorização dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública.\n\n2 - O procedimento concursal, bem como o regime aplicável ao universo dos trabalhadores para a ocupação dos postos de trabalho, observa o disposto no Decreto Legislativo Regional n.º 49/2006/A, de 11 de Dezembro, na redacção atribuída pelo artigo 9.º do Decreto Legislativo Regional n.º 27/2007/A, de 10 de Dezembro, assim como no Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro.\n\n3 - A possibilidade de candidatura a procedimento concursal a quem não seja titular da habilitação exigida carece de autorização prévia do membro do Governo Regional com competência na área da Administração Pública.\n\n4 - (Revogado).\n\n5 - O dirigente máximo do serviço pode optar, em alternativa à publicitação de procedimento concursal, pelo recurso a diplomados com o curso de Estudos Avançados em Gestão Pública (CEAGP) ou de outros cursos de idêntica natureza desde que devidamente reconhecidos por despacho conjunto dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública.\n\n6 - A determinação do posicionamento remuneratório nos termos do artigo 55.º da Lei n.º 12-A/2008, de 27 de Fevereiro, é antecedida de parecer favorável dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública, quando esteja em causa posição remuneratória superior à do início de cada carreira ou categoria.\n\n7 - A tramitação do procedimento concursal, incluindo a do destinado a constituir reservas de recrutamento em entidade centralizada, bem como a referente a carreiras especiais à qual aquela tramitação se revele desadequada, é regulamentada por resolução do Governo Regional.\n\n8 - Os métodos de selecção a que se refere a alínea b) dos n.os 1 e 2 do artigo 53.º da Lei n.º 12-A/2008, de 27 de Fevereiro, podem ser substituídos por entrevista profissional de selecção nos termos a definir no diploma a que alude o número anterior.\n\n9 - Na tramitação do procedimento concursal não se aplica o disposto na alínea d) do n.º 1 do artigo 54.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "116756378": {
+   "fragment_id": "116740616",
+   "type": 11,
+   "heading": "Artigo 7.º — Manutenção e conversão da relação jurídica de emprego público",
+   "in_force_from": "2009-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 7.º — Manutenção e conversão da relação jurídica de emprego público\n\n1 - Os actuais trabalhadores da administração regional nomeados definitivamente mantêm a nomeação definitiva, sem prejuízo de, caso assim o entendam, manifestarem por escrito, no prazo de 90 dias, a intenção de transitarem nos termos fixados da Lei n.º 12-A/2008, de 27 de Fevereiro, para a modalidade de contrato por tempo indeterminado.\n\n2 - Os actuais trabalhadores provisoriamente nomeados em comissão de serviço durante o período probatório, bem como em contrato administrativo de provimento para a realização de estágio e em comissão de serviço extraordinária, transitam para a modalidade de nomeação definitiva, aplicando-se o disposto na parte final do número anterior.\n\n3 - (Revogado)\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "116756377": {
+   "fragment_id": "116740618",
+   "type": 11,
+   "heading": "Artigo 9.º — Trabalhadores em situação de mobilidade",
+   "in_force_from": "2009-10-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 9.º — Trabalhadores em situação de mobilidade\n\nOs actuais trabalhadores requisitados, destacados, ocasional e especialmente cedidos e em afectação mantêm a respectiva situação resultante da aplicação do Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro, enquanto este não for revisto.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "116756194": {
+   "fragment_id": "116740620",
+   "type": 11,
+   "heading": "Artigo 11.º — Relevância do tempo de serviço",
+   "in_force_from": "2009-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 11.º — Relevância do tempo de serviço\n\n1 - O tempo de serviço prestado de 2004 a 2008, ambos inclusive, releva para efeitos do reposicionamento remuneratório imediatamente a seguir ao resultante da integração nas novas carreiras, de acordo com os módulos de tempo exigidos no regime anterior para a progressão nas carreiras.\n\n2 - Quando tenha havido alteração da posição remuneratória, por efeito, designadamente, de promoção ocorrida durante aquele período, a contagem de tempo efectua-se a partir daquela mudança.\n\n3 - No ano em que se tenha verificado alteração da posição remuneratória, a classificação de serviço atribuída nesse ano não releva para efeitos de futuro reposicionamento remuneratório.\n\n4 - Para efeitos do reposicionamento remuneratório, são consideradas as classificações de serviço de Muito Bom e Bom, atribuídas no período relevante, ao abrigo do Decreto Regulamentar Regional n.º 11/84/A, de 8 de Março, ou outro sistema de avaliação específico, equiparadas no novo sistema de avaliação de desempenho à menção de Relevante.\n\n5 - O disposto no número anterior aplica-se igualmente ao pessoal que, naquele período, não foi objecto de classificação de serviço.\n\n6 - A partir do ano de 2009 será aplicado o novo regime da avaliação do desempenho dos trabalhadores que exercem funções públicas na administração regional - SIADAPRA.\n\n7 - Sem prejuízo do disposto nos artigos 9.º e 10.º do Decreto Legislativo Regional n.º 21/2007/A, de 30 de Agosto, aos docentes dos estabelecimentos de ensino não superior que à data da entrada em vigor do presente diploma se encontrem a prestar serviço no Sistema Educativo Regional, o tempo de serviço prestado neste sistema durante o período de congelamento, ocorrido de 30 de Agosto de 2005 a 31 de Dezembro de 2007, é relevado, na actual carreira, para efeitos de progressão, de acordo com os módulos de tempo naquela previstos, nos seguintes termos:\n\na) 50 % daquele período de congelamento a partir da data da entrada em vigor do presente diploma;\n\nb) 50 % daquele período de congelamento a partir de 1 de Setembro de 2009.\n\n8 - A relevância do tempo de serviço nos termos dos n.os 1 a 6 do presente artigo abrange igualmente os trabalhadores que se mantenham integrados em carreiras subsistentes a que alude o artigo 106.º da Lei n.º 12-A/2008, de 27 de Fevereiro, com efeitos a 1 de Janeiro de 2009.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "116756191": {
+   "fragment_id": "116740625",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de Junho de 2008.\n\nO Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 15 de Julho de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "116756220": {
+   "fragment_id": "116740611",
+   "type": 11,
+   "heading": "Artigo 2.º — Quadros regionais de ilha e outros quadros de pessoal",
+   "in_force_from": "2018-10-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2018/A - Diário da República n.º 203/2018, Série I de 2018-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928), em vigor a partir de 2018-10-23",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 2.º — Quadros regionais de ilha e outros quadros de pessoal\n\n1 - As referências a mapas de pessoal reportam-se, na Região, aos quadros regionais de ilha aprovados ao abrigo do disposto no Decreto Legislativo Regional n.º 49/2006/A, de 11 de Dezembro, na redacção atribuída pelo artigo 9.º do Decreto Legislativo Regional n.º 27/2007/A, de 10 de Dezembro, assim como aos quadros do pessoal docente e não docente dos estabelecimentos de ensino não superior, cujo regime se mantém em vigor.\n\n2 - Tendo em conta o disposto na parte final do número anterior, aquando da regulamentação da integração daquele pessoal nos quadros regionais de ilha, serão fixadas as regras de gestão do mesmo.\n\n3 - As referências feitas a mapas de pessoal reportam-se, igualmente, ao quadro de pessoal da Assembleia Legislativa da Região Autónoma dos Açores, aprovado pelo Decreto Legislativo Regional n.º 54/2006/A, de 22 de Dezembro, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 3/2009/A, de 6 de Março, sem prejuízo da criação de mapas de pessoal quanto às admissões em regime de contrato de trabalho em funções públicas.\n\n4 - Para efeitos do disposto no artigo 57.º do Decreto Legislativo Regional n.º 54/2006/A, de 22 de Dezembro, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 3/2009/A, de 6 de Março, consideram-se automaticamente criados no mapa de pessoal da Assembleia Legislativa da Região Autónoma dos Açores os postos de trabalho necessários à integração daqueles trabalhadores.\n\n5 - Para efeitos de orçamentação e gestão de recursos humanos a que se refere o artigo 7.º da Lei n.º 12-A/2008, de 27 de Fevereiro, as verbas orçamentais dos órgãos e serviços relativas a despesas com o pessoal visam satisfazer os encargos com os trabalhadores que se lhe encontram afectos ou a afectar, nos termos da legislação regional em vigor.\n\n6 - A proposta de orçamento dos órgãos e serviços será acompanhada de informação que indique o número de postos de trabalho que lhes estão afectos, bem como dos que carecem para o desenvolvimento das respectivas actividades, caracterizando-os em função:\n\na) Da atribuição, competência ou actividade que o seu ocupante se destine a cumprir ou a executar;\n\nb) Do cargo ou da carreira e categoria e posição remuneratória que lhes correspondam;\n\nc) Dentro de cada carreira e ou categoria, quando imprescindível, da área de formação académica ou profissional de que o seu ocupante é ou deva ser titular.\n\n7 - Na informação referida no número anterior deve igualmente constar o número de postos de trabalho que podem ser disponibilizados tendo em conta as necessidades de afectação a outros órgãos e serviços.\n\n8 - O mapa anual global consolidado de recrutamento destinado ao recrutamento de entre indivíduos sem vínculo de emprego público ou com vínculo de emprego público a termo é aprovado por despacho dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública durante o primeiro trimestre do respetivo ano orçamental e publicado na bolsa de emprego público dos Açores - BEP-Açores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2018/A - Diário da República n.º 203/2018, Série I de 2018-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928), em vigor a partir de 2018-10-23\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "116756221": {
+   "fragment_id": "116740615",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento concursal",
+   "in_force_from": "2018-10-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2018/A - Diário da República n.º 203/2018, Série I de 2018-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928), em vigor a partir de 2018-10-23",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimento concursal\n\n1 - O recrutamento de trabalhadores necessários à ocupação dos postos de trabalho carece de prévia autorização dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública.\n\n2 - O procedimento concursal, bem como o regime aplicável ao universo dos trabalhadores para a ocupação dos postos de trabalho, observa o disposto no Decreto Legislativo Regional n.º 49/2006/A, de 11 de Dezembro, na redacção atribuída pelo artigo 9.º do Decreto Legislativo Regional n.º 27/2007/A, de 10 de Dezembro, assim como no Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro.\n\n3 - A possibilidade de candidatura a procedimento concursal a quem não seja titular da habilitação exigida carece de autorização prévia do membro do Governo Regional com competência na área da Administração Pública.\n\n4 - (Revogado.)\n\n5 - O dirigente máximo do serviço pode optar, em alternativa à publicitação de procedimento concursal, pelo recurso a diplomados com o curso de Estudos Avançados em Gestão Pública (CEAGP) ou de outros cursos de idêntica natureza desde que devidamente reconhecidos por despacho conjunto dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública.\n\n6 - A determinação do posicionamento remuneratório nos termos do artigo 55.º da Lei n.º 12-A/2008, de 27 de Fevereiro, é antecedida de parecer favorável dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública, quando esteja em causa posição remuneratória superior à do início de cada carreira ou categoria.\n\n7 - A tramitação do procedimento concursal, incluindo a do destinado a constituir reservas de recrutamento em entidade centralizada, bem como a referente a carreiras especiais à qual aquela tramitação se revele desadequada, é regulamentada por resolução do Governo Regional.\n\n8 - Sem prejuízo do disposto nos números seguintes, nos procedimentos concursais para constituição de vínculos de emprego público por tempo indeterminado, a termo ou nomeação transitória, os métodos de seleção obrigatórios são, exclusivamente, a prova de conhecimentos e a avaliação curricular.\n\n9 - Para além dos métodos de seleção obrigatórios, face à natureza das tarefas e responsabilidades inerentes aos postos de trabalho a ocupar e ao perfil de competências previamente definido, pode igualmente ser adotada uma prova específica, desde que prevista na lei e devidamente fundamentada, com exceção da entrevista profissional de seleção, desde que esta não seja obrigatória em legislação nacional específica.\n\n10 - A prova de conhecimentos a realizar no âmbito do procedimento concursal, quando assuma a forma escrita, é efetuada após o sorteio, realizado na presença dos candidatos, de três propostas fechadas apresentadas em envelope branco e opaco.\n\n11 - A ponderação para a valoração final dos métodos de seleção obrigatórios, prova de conhecimentos e avaliação curricular, é de 70 % e 30 %, respetivamente.\n\n12 - No caso previsto no n.º 9, a ponderação para a valoração final dos métodos de seleção, prova de conhecimentos e avaliação curricular, não pode ser inferior, respetivamente, a 50 % e 30 %.\n\n13 - Na tramitação do procedimento concursal não se aplica o disposto na alínea d) do n.º 1 do artigo 54.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2018/A - Diário da República n.º 203/2018, Série I de 2018-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928), em vigor a partir de 2018-10-23\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "116756222": {
+   "fragment_id": "116740616",
+   "type": 11,
+   "heading": "Artigo 7.º — Manutenção e conversão da relação jurídica de emprego público",
+   "in_force_from": "2018-10-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 12/2018/A - Diário da República n.º 203/2018, Série I de 2018-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928), em vigor a partir de 2018-10-23",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 7.º — Manutenção e conversão da relação jurídica de emprego público\n\n1 - Os actuais trabalhadores da administração regional nomeados definitivamente mantêm a nomeação definitiva, sem prejuízo de, caso assim o entendam, manifestarem por escrito, no prazo de 90 dias, a intenção de transitarem nos termos fixados da Lei n.º 12-A/2008, de 27 de Fevereiro, para a modalidade de contrato por tempo indeterminado.\n\n2 - Os actuais trabalhadores provisoriamente nomeados em comissão de serviço durante o período probatório, bem como em contrato administrativo de provimento para a realização de estágio e em comissão de serviço extraordinária, transitam para a modalidade de nomeação definitiva, aplicando-se o disposto na parte final do número anterior.\n\n3 - Os trabalhadores que actualmente se encontrem em substituição em cargo não dirigente mantêm essa situação de acordo com o regime em que foi constituída, até à alteração do Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 12/2018/A - Diário da República n.º 203/2018, Série I de 2018-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928), em vigor a partir de 2018-10-23\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "116756223": {
+   "fragment_id": "116740624",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor e produção de feitos",
+   "in_force_from": "2018-10-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 12/2018/A - Diário da República n.º 203/2018, Série I de 2018-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928), em vigor a partir de 2018-10-23"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e produção de feitos\n\n1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 12/2018/A - Diário da República n.º 203/2018, Série I de 2018-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928), em vigor a partir de 2018-10-23"
+  },
+  "186759841": {
+   "fragment_id": "116740615",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento concursal",
+   "in_force_from": "2022-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2022/A - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2022-186869051), em vigor a partir de 2022-08-02",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2018/A - Diário da República n.º 203/2018, Série I de 2018-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928), em vigor a partir de 2018-10-23",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimento concursal\n\n1 - O recrutamento de trabalhadores necessários à ocupação dos postos de trabalho carece de prévia autorização dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública.\n\n2 - O procedimento concursal, bem como o regime aplicável ao universo dos trabalhadores para a ocupação dos postos de trabalho, observa o disposto no Decreto Legislativo Regional n.º 49/2006/A, de 11 de Dezembro, na redacção atribuída pelo artigo 9.º do Decreto Legislativo Regional n.º 27/2007/A, de 10 de Dezembro, assim como no Decreto Legislativo Regional n.º 29/2007/A, de 10 de Dezembro.\n\n3 - A possibilidade de candidatura a procedimento concursal a quem não seja titular da habilitação exigida carece de autorização prévia do membro do Governo Regional com competência na área da Administração Pública.\n\n4 - (Revogado.)\n\n5 - O dirigente máximo do serviço pode optar, em alternativa à publicitação de procedimento concursal, pelo recurso a diplomados com o curso de Estudos Avançados em Gestão Pública (CEAGP) ou de outros cursos de idêntica natureza desde que devidamente reconhecidos por despacho conjunto dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública.\n\n6 - A determinação do posicionamento remuneratório nos termos do artigo 55.º da Lei n.º 12-A/2008, de 27 de Fevereiro, é antecedida de parecer favorável dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública, quando esteja em causa posição remuneratória superior à do início de cada carreira ou categoria.\n\n7 - A tramitação do procedimento concursal, incluindo a do destinado a constituir reservas de recrutamento em entidade centralizada, bem como a referente a carreiras especiais à qual aquela tramitação se revele desadequada, é regulamentada por resolução do Governo Regional.\n\n8 - Sem prejuízo do disposto nos números seguintes, nos procedimentos concursais para constituição de vínculos de emprego público por tempo indeterminado, a termo ou nomeação transitória, os métodos de seleção obrigatórios são, exclusivamente, a prova de conhecimentos e a avaliação curricular.\n\n9 - Para além dos métodos de seleção obrigatórios, face à natureza das tarefas e responsabilidades inerentes aos postos de trabalho a ocupar e ao perfil de competências previamente definido, pode igualmente ser adotada uma prova específica, desde que prevista na lei e devidamente fundamentada, com exceção da entrevista profissional de seleção, desde que esta não seja obrigatória em legislação nacional específica.\n\n10 - A prova de conhecimentos a realizar no âmbito do procedimento concursal, quando assuma a forma escrita, é efetuada após o sorteio, realizado na presença dos candidatos, de três propostas fechadas apresentadas em envelope branco e opaco.\n\n11 - A ponderação para a valoração final dos métodos de seleção obrigatórios, prova de conhecimentos e avaliação curricular, é de 70 % e 30 %, respetivamente.\n\n12 - No caso previsto no n.º 9, a ponderação para a valoração final dos métodos de seleção, prova de conhecimentos e avaliação curricular, não pode ser inferior, respetivamente, a 50 % e 30 %.\n\n13 - Para efeitos de correção da prova de conhecimentos prevista no n.º 8, na forma escrita, é garantido o anonimato da mesma.\n\n14 - Na tramitação do procedimento concursal não se aplica o disposto na alínea d) do n.º 1 do artigo 54.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 19/2022/A - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2022-186869051) determina que o disposto no n.º 13 do presente artigo aplica-se aos procedimentos concursais que venham a ser desencadeados após 02-08-2022.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2022/A - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2022-186869051), em vigor a partir de 2022-08-02\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2018/A - Diário da República n.º 203/2018, Série I de 2018-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928), em vigor a partir de 2018-10-23\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  }
+ }
+}

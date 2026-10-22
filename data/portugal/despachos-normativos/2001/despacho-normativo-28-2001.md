@@ -1,0 +1,274 @@
+---
+schema_version: '1.0'
+id: pt:dre:322723:por
+title: Despacho Normativo n.º 28/2001
+short_title: null
+summary: Aprova o Regulamento de Apoio à Qualificação de Museus
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 28/2001
+official_date: null
+publication_date: '2001-06-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 132/2001, Série I-B de 2001-06-07
+  number: '132'
+  series: I
+  supplement: null
+  pages: 3488 - 3493
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/06/132b00/34883493.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/28/2001/06/07/p/dre/pt/html
+  oj: null
+  dre: '322723'
+  dre_path: /dr/detalhe/despacho-normativo/28-2001-322723
+  internal: pt:dre:322723:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2001-322723
+  metadata_url: https://data.dre.pt/eli/despnorm/28/2001/06/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2001-322723
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-06-26T00:00:00Z'
+integrity:
+  source_sha256: af17a7db2d76ff6368264ba7685d711efc6cc8ce00f9463e6d436ce33332e077
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-28-322723.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Desenvolvimento Cultural
+- Divulgação Cultural
+- Museu
+- Política Cultural
+- Regulamento
+- Regulamento de Apoio à Qualificação de Museus
+relationships:
+- type: amended_by
+  target: pt:dre:1567651:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/398/1999/10/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/398/1999/10/13/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 28/2001
+
+Ao incremento muito significativo de entidades de índole museológica a que se assiste em Portugal ao longo das últimas décadas, na sequência de diversos movimentos sociais, culturais e patrimoniais, deve corresponder uma política global e concertada, que, indo ao encontro dos principais problemas e necessidades do sector museológico, promova parâmetros de qualidade para os museus portugueses.
+
+O presente Programa de Apoio à Qualificação de Museus desenvolve e concretiza uma das principais competências previstas na alínea b) do artigo 5.º do despacho conjunto n.º 616/2000, de 17 de Maio, que criou a estrutura de projecto denominada por Rede Portuguesa de Museus, dando assim cumprimento ao estatuído na alínea g) do n.º 2 do artigo 3.º do diploma que aprovou a Lei Orgânica do Instituto Português de Museus, [Decreto-Lei n.º 398/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1999-662122), de 13 de Outubro.
+
+A qualificação das entidades museológicas portuguesas constitui um dos eixos centrais do programa de estruturação da Rede Portuguesa de Museus (RPM), entendida como um sistema de mediação e de articulação entre entidades de índole museal, tendo por objectivo a promoção da comunicação e da cooperação, com vista à qualificação da realidade museológica portuguesa. De acordo com esta noção, a RPM incorpora um importante papel de disseminação de informação e de estímulo à comunicação, ao mesmo tempo que favorece a programação, a interconexão e a qualificação de equipamentos e de serviços técnicos. As linhas de acção da RPM orientam-se em três eixos estruturadores e complementares: Eixo n.º 1 - Informação; Eixo n.º 2 - Formação; Eixo n.º 3 - Qualificação, enquadrando-se o presente Programa neste último Eixo.
+
+Com o Programa de Apoio à Qualificação de Museus surge pela primeira vez um programa capaz de disponibilizar apoios técnicos e financeiros a museus não dependentes da administração central, no âmbito de uma política global para o sector museológico.
+
+Ao delinear o Programa de Apoio à Qualificação de Museus, toma-se em linha de conta os diferentes programas existentes no âmbito do III Quadro Comunitário de Apoio, designadamente o Programa Operacional da Cultura, os Programas Operacionais Regionais e o Programa Operacional da Sociedade da Informação que possibilitam, respectivamente, a qualificação dos museus nas vertentes de obras de construção, de remodelação ou de valorização, bem como a modernização dos seus sistemas documentais. Embora enunciados de forma autónoma, estes Programas constituem oportunidades fundamentais de qualificação dos museus, com os quais a RPM mantém importantes linhas de articulação e de cooperação para complementar e reforçar a globalidade dos seus objectivos. Tomou-se igualmente em linha de conta os diferentes programas existentes na área do apoio à investigação.
+
+Considerando, por um lado, os âmbitos dos Programas Operacionais supracitados e a articulação com os mesmos, e, por outro, o âmbito da RPM, o Programa de Apoio à Qualificação de Museus tem por principais finalidades a qualificação dos serviços técnicos e dos espaços funcionais dos museus, bem como das respectivas actividades.
+
+Assim, ao abrigo do artigo 4.º do [Decreto-Lei n.º 398/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1999-662122), de 13 de Outubro, determina-se o seguinte:
+
+1 - É aprovado o Regulamento de Apoio à Qualificação de Museus, publicado em anexo ao presente despacho normativo, que dele faz parte integrante.
+
+2 - O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério da Cultura, 23 de Maio de 2001. - O Ministro da Cultura, José Estêvão Cangarato Sasportes.
+
+## ANEXO — REGULAMENTO DE APOIO À QUALIFICAÇÃO DE MUSEUS
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - O presente Regulamento estabelece as bases normativas do sistema de apoio à qualificação de museus, a conceder pelo Ministério da Cultura, através do Instituto Português de Museus, representado para este efeito pela estrutura de projecto denominada por Rede Portuguesa de Museus, adiante designada por RPM.
+
+2 - O sistema de apoio à qualificação de museus é composto por quatro programas principais e cinco subprogramas, a saber:
+
+Programa de Apoio à Programação Museológica;
+
+Programa de Apoio à Investigação e ao Estudo das Colecções;
+
+Programa de Apoio à Conservação Preventiva, que integra três subprogramas de apoio à aquisição de equipamentos para a conservação preventiva, de apoio à aquisição de equipamentos para reservas e de apoio à aquisição de serviços especializados;
+
+Programa de Apoio a Acções de Comunicação, que integra dois subprogramas de apoio a acções de acolhimento e de comunicação e de apoio a projectos educativos.
+
+3 - A descrição do conteúdo de cada um dos Programas e subprogramas enunciados constam do mapa publicado em anexo.
+
+###### Artigo 2.º — Destinatários
+
+O sistema de apoio a conceder no âmbito do presente Regulamento destina-se a disponibilizar apoios financeiros a museus não dependentes da administração central.
+
+###### Artigo 3.º — Objectivos gerais
+
+Constituem objectivos do presente Regulamento dos programas de apoio:
+
+a) Promover e estimular a adopção de padrões de qualidade por parte dos museus portugueses;
+
+b) Incentivar o desenvolvimento de uma melhor gestão dos museus, nomeadamente no que respeita ao estudo, à conservação e à divulgação do respectivo património e ao cumprimento da sua missão social;
+
+c) Promover a qualificação dos museus, designadamente dos seus espaços funcionais, dos seus serviços técnicos e das suas actividades dirigidas aos públicos;
+
+d) Rentabilizar recursos logísticos, técnicos e financeiros;
+
+e) Estimular o recurso a pessoal qualificado por parte das tutelas dos museus.
+
+###### Artigo 4.º — Requerentes e beneficiários
+
+Podem candidatar-se aos apoios a conceder no âmbito do presente Regulamento todos os museus não dependentes da administração central, integrados na RPM.
+
+###### Artigo 5.º — Modalidades de apoio financeiro
+
+O apoio a conceder pelo IPM/RPM, no âmbito do presente Regulamento, reveste a forma de apoio não reembolsável.
+
+###### Artigo 6.º — Limites dos apoios financeiros
+
+1 - O montante global correspondente ao apoio financeiro a conceder ao abrigo do presente Regulamento não poderá ultrapassar 50% do valor total constante do orçamento apresentado pela entidade beneficiária.
+
+2 - A comparticipação do IPM/RPM não poderá ultrapassar os seguintes montantes por beneficiário, como se discrimina:
+
+a) Programa de Apoio à Programação Museológica - 3 milhões de escudos;
+
+b) Programa de Apoio à Investigação e ao Estudo das Colecções - 2 milhões de escudos;
+
+c) Programa de Apoio à Conservação Preventiva - 8 milhões de escudos;
+
+d) Programa de Apoio a Acções de Comunicação - 5 milhões de escudos.
+
+###### Artigo 7.º — Prazos para apresentação de candidaturas
+
+O prazo para a apresentação de candidaturas aos Programas identificados no artigo 1.º decorre entre o dia 1 de Junho e o dia 31 de Julho de 2001.
+
+###### Artigo 8.º — Instrução das candidaturas
+
+1 - As candidaturas aos apoios financeiros previstos no presente Regulamento devem ser apresentadas à RPM.
+
+2 - O requerimento a que se refere o número anterior deve ser apresentado em formulário fornecido pela RPM, e instruído com os seguintes elementos:
+
+a) Prova de adesão à RPM;
+
+b) Definição do Programa ao qual a entidade se candidata;
+
+c) Explicitação dos objectivos a atingir devidamente justificados no âmbito do desenvolvimento do museu e do cumprimento da sua missão;
+
+d) Indicação dos recursos materiais, humanos e financeiros necessários ao cumprimento dos objectivos propostos;
+
+e) Indicação dos recursos materiais, humanos e financeiros que a entidade candidata se compromete a afectar ao Programa;
+
+f) Indicação da metodologia de trabalho e do respectivo cronograma para a implementação dos objectivos apresentados.
+
+###### Artigo 9.º — Análise e decisão das candidaturas
+
+1 - Compete à RPM a decisão de aceitação ou não das candidaturas apresentadas.
+
+2 - A análise e decisão das candidaturas aos apoios previstos nos respectivos programas será efectuada e comunicada pela RPM até ao dia 15 de Outubro de 2001.
+
+3 - As candidaturas só serão apreciadas aquando da presença de todos os elementos solicitados.
+
+###### Artigo 10.º — Critérios de avaliação
+
+Os critérios de apreciação e de avaliação das candidaturas aos Programas de Apoio deverão basear-se na verificação dos seguintes elementos:
+
+a) Correspondência entre os objectivos do Programa de Apoio e a candidatura apresentada;
+
+b) Coerência entre a candidatura e o desenvolvimento do museu tutelado pela entidade candidata, designadamente a missão do museu, o seu programa museológico, a preservação e a valorização das colecções e acervos e o cumprimento da sua função social, o que poderá ser verificado complementarmente através da candidatura à adesão à RPM;
+
+c) Garantia de condições de sustentabilidade e de manutenção referente aos novos projectos ou estruturas, não apenas relativamente ao âmbito material e financeiro mas também dos recursos humanos qualificados para os efeitos propostos;
+
+d) Localização geográfica do museu em região especialmente carenciada do ponto de vista museológico.
+
+###### Artigo 11.º — Despesas elegíveis
+
+Constituem despesas elegíveis, e, como tal, susceptíveis de integrarem os Programas de Apoio definidos no artigo 1.º do presente despacho normativo, as resultantes directamente de:
+
+1) Aquisições de serviços de investigadores e de especialistas, nomeadamente em museologia e nas diferentes áreas disciplinares e técnicas do museu;
+
+2) Produção e divulgação dos materiais escritos resultantes das investigações efectuadas;
+
+3) Aquisições de equipamentos de conservação preventiva e de mobiliário ou equipamentos para reservas.
+
+###### Artigo 12.º — Formalização dos apoios
+
+1 - A formalização dos apoios será concretizada através da celebração de um acordo de colaboração entre a RPM e a entidade beneficiária no qual serão definidos os direitos e obrigações das partes nele outorgantes, bem como o montante de apoio concedido.
+
+2 - O pagamento é condicionado à apresentação de contas para comprovação da boa aplicação das quantias entregues referentes ao apoio financeiro.
+
+###### Artigo 13.º — Fiscalização
+
+A RPM pode a qualquer momento, por si ou por entidade credenciada para o efeito, verificar as contas referentes à execução do projecto e fiscalizar o desenvolvimento dos trabalhos.
+
+###### Artigo 14.º — Falta de cumprimento de obrigações
+
+A falta injustificada de cumprimento das normas constantes do presente Regulamento e das obrigações assumidas pelo beneficiário para com a RPM impede o mesmo de obter qualquer outro apoio financeiro da RPM enquanto o incumprimento subsistir.
+
+###### Artigo 15.º — Falsas declarações
+
+1 - O beneficiário do apoio financeiro que na instrução do processo tiver prestado falsas declarações ou não prestar os esclarecimentos a que está obrigado deve ser, sem prejuízo de eventual procedimento criminal, excluído do apoio financeiro em causa.
+
+2 - No caso de se apurar a falsidade das declarações ou documentos, após a entrega de alguma prestação, fica o beneficiário obrigado a devolver o valor que tiver recebido acrescido de juros legais.
+
+Lista dos programas e subprogramas
+
+(artigo 1.º, n.º 3)
+
+1 - Programa de Apoio à Programação Museológica.
+
+2 - Programa de Apoio à Investigação e ao Estudo das Colecções.
+
+3 - Programa de Apoio à Conservação Preventiva:
+
+3.1 - Subprograma de apoio à aquisição de equipamento para conservação preventiva;
+
+3.2 - Subprograma de apoio à aquisição de mobiliário ou equipamento apropriado para reservas;
+
+3.3 - Subprograma de apoio à aquisição de serviços especializados em conservação preventiva.
+
+4 - Programa de Apoio a Acções de Comunicação:
+
+4.1 - Subprograma de apoio a acções de acolhimento e de comunicação;
+
+4.2 - Subprograma de apoio a projectos educativos.
+
+Programas
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/06/132b00/34883493.pdf)

@@ -1,0 +1,525 @@
+---
+schema_version: '1.0'
+id: pt:dre:677051:por
+title: Decreto-Lei n.º 40/2006
+short_title: null
+summary: Transpõe para a ordem jurídica nacional a Directiva n.º 2004/36/CE, do Parlamento Europeu e do Conselho, de 21 de
+  Abril, relativa à segurança das aeronaves de países terceiros que utilizem aeroportos comunitários, e cria as regras e os
+  procedimentos das inspecções de placa a aeronaves de países terceiros que aterrem em aeroportos nacionais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 40/2006
+official_date: null
+publication_date: '2006-02-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2006, Série I-A de 2006-02-21
+  number: '37'
+  series: I
+  supplement: null
+  pages: 1404 - 1408
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/02/037a00/14041408.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2012-08-12'
+version_history:
+  file: decreto-lei-40-2006.versoes.json
+  count: 3
+  source_lastmod: '2024-08-29'
+  versions:
+  - date: '2006-02-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-20'
+    amending: pt:dre:444196:por
+    amending_title: Decreto-Lei n.º 239/2008
+    changes:
+    - Adita Anexo IV
+    - Adita Anexo V
+    - Adita Anexo VI
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Revoga Artigo 9.º
+    - Revoga Anexo II
+    - Revoga Anexo III
+  - date: '2012-08-12'
+    amending: pt:dre:179003:por
+    amending_title: Decreto-Lei n.º 183/2012
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/40/2006/p/cons/20120807/pt/html
+  oj: null
+  dre: '677051'
+  dre_path: /dr/detalhe/decreto-lei/40-2006-677051
+  internal: pt:dre:677051:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2006-677051
+  metadata_url: https://data.dre.pt/eli/dec-lei/40/2006/p/cons/20120807/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-886311820
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-886311820
+  retrieved_at: '2026-10-22T13:13:39Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-29T00:00:00Z'
+integrity:
+  source_sha256: e1fbee96474142998353c347fe82c6140b01c26b8f17d5af18747146cedc6f6f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:13:39Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-40-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeroporto
+- Aproximação das Legislações
+- Instituto Nacional de Aviação Civil
+- Fiscalização
+- Países Terceiros
+- Segurança Aérea
+relationships:
+- type: amended_by
+  target: pt:dre:444196:por
+  label: Adita Anexo IV; Adita Anexo V; Adita Anexo VI; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo
+    8.º; Altera Artigo 11.º; Revoga Artigo 9.º; Revoga Anexo II; Revoga Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196
+  date: '2008-12-15'
+- type: amended_by
+  target: pt:dre:179003:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Anexo I; Altera Anexo II; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2012-179003
+  date: '2012-08-07'
+- type: cites
+  target: celex:32004L0036
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/36/oj
+- type: cites
+  target: celex:32006R0736
+  label: null
+  source: null
+- type: cites
+  target: celex:32012R0090
+  label: null
+  source: null
+- type: transposes
+  target: celex:32004L0036
+  label: null
+  source: null
+article_structure:
+  article_count: 12
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:13:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 40/2006
+
+Decreto-Lei n.º 40/2006
+
+de 21 de Fevereiro
+
+A resolução sobre a catástrofe aérea ocorrida ao largo da costa da República Dominicana, aprovada pelo Parlamento Europeu em 15 de Fevereiro de 1996, salienta a necessidade de a Comunidade adoptar uma posição mais activa e desenvolver uma estratégia para aumentar a segurança dos seus cidadãos que viajam por via aérea ou vivem nas proximidades de aeroportos.
+
+Nesse sentido, a Comissão apresentou uma comunicação ao Parlamento Europeu e ao Conselho intitulada «Definição de uma estratégia comunitária para a melhoria da segurança da aviação».
+
+A referida comunicação indica claramente que a segurança pode ser efectivamente melhorada se se garantir que as aeronaves cumprem plenamente as normas internacionais de segurança operacional constantes dos anexos à Convenção sobre a Aviação Civil Internacional, assinada em Chicago em 7 de Dezembro de 1944 (Convenção de Chicago).
+
+Para se estabelecer e manter um nível elevado e uniforme de segurança da aviação civil na Europa, deve enveredar-se por uma abordagem harmonizada da aplicação efectiva das normas internacionais de segurança na Comunidade. Para esse efeito, torna-se necessário harmonizar as regras e os procedimentos das inspecções de placa efectuadas às aeronaves de países terceiros que aterram em aeroportos situados nos Estados membros.
+
+Uma harmonização das posições dos Estados membros, no que respeita ao cumprimento efectivo das normas internacionais de segurança, evita distorções da concorrência. Uma atitude comum em relação às aeronaves de países terceiros que não respeitem as normas de segurança internacionais reverte a favor da posição dos Estados membros.
+
+É necessário, ainda, ter em conta a cooperação e o intercâmbio de informações verificados no âmbito da organização das Autoridades Comuns da Aviação (JAA) e da Conferência Europeia da Aviação Civil (CEAC). Além disso, devem utilizar-se tanto quanto possível as competências existentes em matéria de procedimentos de avaliação da segurança de aeronaves estrangeiras (SAFA).
+
+Na política de segurança da aviação civil, deve também ser tido em conta o papel da Agência Europeia da Segurança Aérea (AESA), nomeadamente no que diz respeito à criação de procedimentos destinados a estabelecer e manter um nível elevado e uniforme de segurança da aviação civil na Europa.
+
+Com estes objectivos, foi publicada a Directiva n.º 2004/36/CE, do Parlamento Europeu e do Conselho, de 21 de Abril, relativa à segurança operacional das aeronaves de países terceiros que utilizem aeroportos comunitários.
+
+No contexto da estratégia global da União Europeia para garantir e manter um nível de segurança da aviação civil elevado e uniforme em toda a Europa, as aeronaves que aterrem em aeroportos portugueses são sujeitas a inspecções sempre que existam suspeitas de incumprimento das normas de segurança internacionais.
+
+Mesmo na ausência de qualquer suspeita particular, as inspecções também podem ser efectuadas de acordo com um procedimento de inspecções aleatórias às aeronaves, desde que seja respeitado o direito comunitário e internacional. Em especial, essas inspecções devem ser efectuadas de um modo não discriminatório.
+
+As inspecções podem ser intensificadas no caso de aeronaves nas quais já tenham sido anteriormente detectadas deficiências ou de aeronaves pertencentes a operadores aéreos cujas aeronaves tenham frequentemente sido referenciadas.
+
+As informações recolhidas pelo Estado Português no âmbito das mencionadas inspecções são postas à disposição dos outros Estados membros e da Comissão, a fim de garantir uma verificação, tão eficaz quanto possível, do cumprimento das normas de segurança internacionais pelas aeronaves de países terceiros.
+
+Por estas razões, é necessário estabelecer um procedimento de avaliação das aeronaves de países terceiros e os correspondentes mecanismos de cooperação entre as autoridades competentes dos Estados membros, a fim de proceder ao intercâmbio de informações.
+
+A natureza sensível das informações relacionadas com a segurança exige que sejam tomadas as medidas necessárias, nos termos da legislação nacional, para garantir a devida confidencialidade das informações recebidas.
+
+O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º 2004/36/CE, do Parlamento Europeu e do Conselho, de 21 de Abril, e cria as regras e procedimentos das inspecções de placa a aeronaves de países terceiros que aterrem em aeroportos nacionais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei transpõe para a ordem jurídica nacional a Directiva n.º 2004/36/CE, do Parlamento Europeu e do Conselho, de 21 de Abril, relativa à segurança operacional das aeronaves de países terceiros que utilizem aeroportos comunitários.
+
+2 - O presente decreto-lei cria ainda as regras e os procedimentos das inspecções de placa a aeronaves de países terceiros que aterrem em aeroportos nacionais.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O disposto no presente decreto-lei não prejudica a realização de outras inspecções não abrangidas pelo seu âmbito de aplicação, e os direitos de imobilização, proibição ou sujeição a determinadas condições relativamente a aeronaves que aterrem nos aeroportos portugueses, de acordo com o direito comunitário e internacional.
+
+2 - Ficam excluídas do âmbito de aplicação do presente decreto-lei as aeronaves de Estado, tal como definidas na Convenção de Chicago, e as aeronaves com um peso máximo à descolagem inferior a 5700 kg que não estejam envolvidas em operações comerciais de transporte aéreo.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Aeronave de país terceiro» uma aeronave que não é utilizada ou explorada sob o controlo da autoridade competente de um Estado membro;
+
+b) «Imobilização» a proibição formal de descolagem de uma aeronave do aeroporto e a tomada de todas as medidas necessárias para esse efeito;
+
+c) 'Inspeção de placa', a inspeção das aeronaves de países terceiros nos termos do anexo ii do presente decreto-lei, do qual faz parte integrante;
+
+d) «Normas de segurança internacionais» as normas de segurança operacional contidas na Convenção de Chicago e nos respectivos anexos em vigor no momento da inspecção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 183/2012 - Diário da República n.º 152/2012, Série I de 2012-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2012-179003), em vigor a partir de 2012-08-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 239/2008 - Diário da República n.º 241/2008, Série I de 2008-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196), em vigor a partir de 2008-12-20
+
+###### Artigo 4.º — Recolha de informações
+
+1 - O Instituto Nacional de Aviação Civil (INAC) recolhe e centraliza todas as informações que sejam úteis para garantir e manter um nível de segurança elevado e uniforme em toda a Europa, mediante o cumprimento efectivo de todas as normas internacionais de segurança operacional.
+
+2 - As informações referidas no número anterior incluem, nomeadamente:
+
+a) Informações de segurança importantes, acessíveis, em especial, através de:
+
+i) Relatórios dos pilotos;
+
+ii) Relatórios dos organismos de manutenção;
+
+iii) Relatórios de incidentes;
+
+iv) Outros organismos, independentes das autoridades competentes dos Estados membros;
+
+v) Participações;
+
+b) Informações sobre acções subsequentes a uma inspecção de placa, nomeadamente:
+
+i) Aeronaves imobilizadas;
+
+ii) Proibição de entrada no espaço aéreo nacional da aeronave ou do operador;
+
+iii) Medidas de correcção necessárias;
+
+iv) Contactos com a autoridade competente do operador;
+
+c) Informação subsequente relativa ao operador, nomeadamente:
+
+i) Medidas de correcção aplicadas;
+
+ii) Recorrência de discrepâncias.
+
+3 - Estas informações são registadas no relatório constante do anexo I do presente decreto-lei e que dele faz parte integrante.
+
+###### Artigo 5.º — Inspecção de placa
+
+1 - Sempre que existam suspeitas de incumprimento das normas internacionais de segurança operacional por parte de aeronaves de países terceiros que aterrem num dos aeroportos nacionais abertos ao tráfego aéreo internacional, o INAC realiza uma inspecção à aeronave em causa na placa.
+
+2 - Constituem fortes indícios de incumprimento das normas internacionais de segurança operacional:
+
+a) A obtenção de informações que indiciem a existência de uma manutenção deficiente, defeitos ou danos óbvios na aeronave;
+
+b) A realização de manobras anómalas após a sua entrada no espaço aéreo nacional, suscitando por esse facto sérias apreensões em matéria de segurança;
+
+c) Ter havido uma inspecção de placa anterior na qual tenham sido detectadas deficiências que tenham suscitado sérias apreensões quanto ao cumprimento das normas internacionais de segurança operacional e sempre que o INAC suspeite que as deficiências possam não ter sido corrigidas;
+
+d) A existência de provas de que as autoridades competentes do país de registo da aeronave nem sempre procedem aos controlos de segurança adequados, nomeadamente através de relatórios do Programa de Auditorias de Segurança da Organização da Aviação Civil Internacional (ICAO); ou
+
+e) A existência de dúvidas decorrentes das informações recolhidas nos termos do artigo 4.º, relativamente a um operador, ou sempre que tenham sido detectadas deficiências numa inspecção de placa efectuada noutra aeronave utilizada pelo mesmo operador.
+
+3 - Sem prejuízo do disposto no número anterior, o INAC pode, sempre que o considere necessário e de forma não discriminatória, realizar inspecções de placa relativas à segurança operacional das aeronaves de países terceiros que utilizem aeroportos nacionais, desde que isso não implique violação do direito comunitário e internacional.
+
+4 - A inspeção de placa deve ser realizada nos termos do anexo ii do presente decreto-lei, do qual faz parte integrante.
+
+5 - Os formulários de relatório de inspeção de placa são os constantes do anexo iii do presente decreto-lei, do qual faz parte integrante.
+
+6 - Após a conclusão da inspeção de placa é preenchido o formulário do certificado de inspeção de placa constante do anexo iv do presente decreto-lei, do qual faz parte integrante, que é entregue ao comandante da aeronave ou, na sua ausência, a um membro da tripulação de voo, ou ao mais alto representante do operador, sendo posteriormente informado pelo INAC, I. P., dos resultados da mesma.
+
+7 - Caso sejam detectadas deficiências significativas, o relatório é enviado ao operador da aeronave e às autoridades competentes responsáveis.
+
+8 - Ao realizar uma inspecção de placa ao abrigo do presente decreto-lei, o INAC envida todos os esforços para evitar um atraso excessivo da aeronave inspeccionada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 183/2012 - Diário da República n.º 152/2012, Série I de 2012-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2012-179003), em vigor a partir de 2012-08-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 239/2008 - Diário da República n.º 241/2008, Série I de 2008-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196), em vigor a partir de 2008-12-20
+
+###### Artigo 6.º — Intercâmbio de informações
+
+1 - Sempre que for solicitado pela autoridade competente de qualquer Estado membro, o INAC fornece informação acerca de quais os aeroportos portugueses abertos ao tráfego internacional, com a indicação, por ano civil, do número de inspecção de placa efectuada e do número de movimentos de aeronaves de países terceiros em cada um desses aeroportos.
+
+2 - Os relatórios referidos no artigo 4.º e no n.º 5 do artigo 5.º ficam à disposição da Comissão Europeia e, a seu pedido, das autoridades competentes de outros Estados membros e da Agência Europeia para a Segurança da Aviação (EASA).
+
+3 - Sempre que os relatórios referidos no número anterior revelem a existência de um risco potencial para a segurança operacional ou que uma determinada aeronave não está em conformidade com as normas internacionais de segurança operacional e pode constituir uma ameaça potencial para a segurança, esses relatórios são enviados sem demora a cada uma das autoridades competentes dos Estados membros e à Comissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 239/2008 - Diário da República n.º 241/2008, Série I de 2008-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196), em vigor a partir de 2008-12-20
+
+###### Artigo 7.º — Protecção e divulgação das informações
+
+1 - O INAC garante a confidencialidade adequada das informações recebidas em aplicação do artigo anterior, devendo as mesmas ser utilizadas exclusivamente para efeitos do presente decreto-lei.
+
+2 - Sempre que as informações relativas a deficiências de aeronaves forem fornecidas voluntariamente, deve ser suprimida a identificação da fonte dessas informações nos relatórios sobre as inspecções de placa mencionados no n.º 5 do artigo 5.º
+
+###### Artigo 8.º — Imobilização de aeronaves
+
+1 - Sempre que o incumprimento das normas internacionais de segurança operacional detectadas pelo INAC na inspecção de placa represente claramente um risco para a segurança do voo, o operador da aeronave é obrigado a tomar as medidas necessárias para corrigir as deficiências antes de iniciar o voo.
+
+2 - O operador da aeronave deve fazer prova junto do INAC de que foram tomadas todas as medidas correctivas antes do início do voo.
+
+3 - Caso o INAC, I. P., considere que não estão cumpridas as obrigações previstas nos números anteriores, procede à imobilização da aeronave, nos termos da alínea b) do n.º 5 do artigo 19.º do Decreto-Lei n.º 145/2007, de 27 de Abril, até que esse risco seja eliminado, e informa, imediatamente, as autoridades competentes do operador em causa e do Estado de registo da aeronave.
+
+4 - O INAC pode, em coordenação com o Estado responsável pelo operador da aeronave em causa ou com o Estado de registo dessa aeronave, estabelecer as condições em que a aeronave pode voar com destino a um aeroporto em que essas deficiências possam ser corrigidas.
+
+5 - Se a deficiência afectar a validade do Certificado de Aeronavegabilidade da aeronave, a medida cautelar de imobilização só pode ser levantada se o operador obtiver licença do Estado ou Estados que vão ser sobrevoados durante esse voo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 239/2008 - Diário da República n.º 241/2008, Série I de 2008-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196), em vigor a partir de 2008-12-20
+
+###### Artigo 9.º — Imposição de uma proibição ou de condições de exploração
+
+1 - O INAC pode proibir ou condicionar a actividade de um determinado operador ou operadores específicos de um país terceiro, a partir dos seus aeroportos, até que a autoridade competente desse país terceiro adopte medidas de correcção satisfatórias.
+
+2 - Quando adopte as medidas previstas no número anterior, o INAC notifica a Comissão das medidas tomadas e a Comissão transmite essa informação aos outros Estados membros.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/2008 - Diário da República n.º 241/2008, Série I de 2008-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196), em vigor a partir de 2008-12-20
+
+###### Artigo 10.º — Contra-ordenações
+
+1 - Constitui contra-ordenação aeronáutica civil muito grave:
+
+a) A não disponibilização ao INAC das informações referidas no artigo 4.º pelas entidades e organismos responsáveis pelo fornecimento das mesmas;
+
+b) O início do voo sem terem sido corrigidas as deficiências detectadas na inspecção de placa, nos termos do disposto no n.º 1 do artigo 8.º;
+
+c) A violação das condições estabelecidas pelo INAC, nos termos do n.º 4 do artigo 8.º
+
+2 - Constitui contra-ordenação aeronáutica civil grave o início do voo sem terem feito prova junto do INAC de que foram tomadas as medidas correctivas necessárias, em violação do disposto no n.º 2 do artigo 8.º
+
+3 - Constitui contra-ordenação aeronáutica civil leve a não disponibilização, no prazo determinado pelo INAC, das informações referidas no artigo 4.º pelas entidades e organismos responsáveis pelo fornecimento das mesmas.
+
+###### Artigo 11.º — Processamento das contra-ordenações
+
+1 - Compete ao INAC, I. P., nos termos do Decreto-Lei n.º 145/2007, de 27 de Abril, instaurar e instruir os processos de contra-ordenação, bem como proceder à aplicação das coimas.
+
+2 - Às contra-ordenações previstas no presente decreto-lei aplica-se o regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 239/2008 - Diário da República n.º 241/2008, Série I de 2008-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196), em vigor a partir de 2008-12-20
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Mário Lino Soares Correia.
+
+Promulgado em 2 de Fevereiro de 2006.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 3 de Fevereiro de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — SAFA - Relatório tipo
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 183/2012 - Diário da República n.º 152/2012, Série I de 2012-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2012-179003), em vigor a partir de 2012-08-12
+
+## Anexo II — Manual de procedimentos CE para as inspeções de placa (SAFA) - Elementos centrais
+
+1 - Instruções gerais:
+
+1.1 - As inspeções de placa devem ser efetuadas por inspetores que possuam os conhecimentos necessários para o domínio total das matérias da inspeção, nomeadamente conhecimentos técnicos, de aeronavegabilidade e operacionais, caso se pretenda examinar todos os elementos da lista de verificação. Quando uma inspeção de placa for efetuada por dois ou mais inspetores, os principais elementos da inspeção - a inspeção visual ao exterior da aeronave, a inspeção à cabina de pilotagem e a inspeção à cabina de passageiros e ou aos compartimentos de carga - podem ser divididos pelos inspetores.
+
+1.2 - Os inspetores devem identificar-se ao comandante da aeronave ou, na sua ausência, a um membro da tripulação de voo ou ao mais alto representante do operador antes de darem início à parte da inspeção efetuada a bordo. Quando não for possível informar o representante do operador ou quando tal representante não estiver presente na aeronave ou perto dela, o princípio geral a aplicar será o da não realização da inspeção de placa, contudo, em circunstâncias especiais, pode decidir-se efetuar a inspeção de placa, mas esta limitar-se-á a uma verificação visual do exterior da aeronave.
+
+1.3 - A inspeção deve ser tão completa quanto possível, tendo em conta o tempo e os recursos disponíveis. Contudo e se apenas se dispuser de um período de tempo ou de recursos reduzidos, pode dispensar-se a verificação de alguns dos elementos da lista de inspeção. Em função do tempo e dos recursos disponíveis para uma inspeção de placa, os elementos a inspecionar são selecionados de acordo e em conformidade com os objetivos do programa SAFA da Comunidade Europeia.
+
+1.4 - Uma inspeção de placa não pode causar um atraso irrazoável na partida da aeronave inspecionada. Podem ser causas de atraso, entre outras, dúvidas relativas à preparação do voo, à aeronavegabilidade da aeronave ou a quaisquer matérias diretamente relacionadas com a segurança da aeronave e dos seus ocupantes.
+
+2 - Qualificações dos inspetores:
+
+2.1 - A partir de 1 de janeiro de 2009, todas as inspeções de placa realizadas no território nacional serão efetuadas por inspetores qualificados.
+
+2.2 - Os inspetores referidos no número anterior devem ser qualificados segundo os critérios de qualificação a seguir enunciados.
+
+2.3 - Critérios de qualificação:
+
+2.3.1 - Critérios de elegibilidade - apenas podem candidatar-se a inspetores SAFA indivíduos que possuam formação aeronáutica e ou conhecimentos práticos relativos às áreas de inspeção, nomeadamente:
+
+a) Operação de aeronaves;
+
+b) Licenciamento do pessoal;
+
+c) Aeronavegabilidade da aeronave;
+
+d) Mercadorias perigosas.
+
+2.3.2 - Exigências de formação - antes da qualificação como inspetores SAFA, os candidatos devem ter completado com aproveitamento a seguinte formação:
+
+Formação teórica em sala de aula ministrada por uma organização de formação SAFA, conforme definida no n.º 2.4;
+
+Formação prática ministrada por uma organização de formação SAFA, conforme definida no n.º 2.4, ou por um inspetor principal designado por um Estado membro, como previsto no n.º 2.5, que age de modo independente de uma organização de formação SAFA;
+
+Formação em exercício ministrada ao longo de uma série de inspeções por um inspetor principal designado por um Estado membro, como previsto no n.º 2.5.
+
+2.3.3 - Requisitos para manter a validade da qualificação - para manter válida a respetiva qualificação o inspetor SAFA deve:
+
+a) Receber regularmente formação teórica em sala de aula ministrada por uma organização de formação SAFA, conforme definida no n.º 2.4;
+
+b) Efetuar um número mínimo de 6 de inspeções na placa em cada período de 12 meses desde a última formação regular SAFA, a menos que o inspetor seja igualmente um inspetor qualificado em operações de voo ou em aeronavegabilidade ao serviço do INAC, I. P., e efetue regularmente inspeções às aeronaves de operadores nacionais.
+
+2.4 - Organizações de formação SAFA:
+
+2.4.1 - As organizações de formação SAFA podem pertencer ao INAC, I. P., a outra autoridade competente de outro Estado membro ou, ainda, ser uma entidade independente.
+
+2.4.2 - Os cursos de formação referidos nos n.os 2.3.2 e 2.3.3, que sejam ministrados pela organização de formação pertencente ao INAC, I. P., devem obedecer, pelo menos, aos programas estabelecidos e publicados pela EASA nesta matéria.
+
+2.4.3 - Os cursos de formação referidos no número anterior só podem ser ministrados por uma organização de formação nacional ou pertencente a outro Estado membro, se a mesma for certificada pelo INAC, I. P., ou por esse Estado membro, respetivamente, e de acordo com as orientações EASA.
+
+2.4.4 - Os programas de formação utilizados pelo INAC, I. P., bem como os requisitos de certificação das organizações de formação terceiras devem ser devidamente alterados para refletir as eventuais recomendações resultantes das auditorias à normalização efetuadas pela EASA, nos ternos do Regulamento (CE) n.º 736/2006, da Comissão, de 16 de maio, relativo aos métodos de trabalho da Agência Europeia para a Segurança da Aviação, no que respeita à realização de inspeções de normalização, alterado pelo Regulamento de Execução (UE) n.º 90/2012, da Comissão, de 2 de fevereiro.
+
+2.4.5 - O INAC, I. P., pode solicitar à EASA uma avaliação das organizações de formação, no âmbito da qual aquela Agência emita um parecer que permita ao INAC, I. P., fundamentar a sua própria avaliação.
+
+2.5 - Inspetores principais:
+
+2.5.1 - O INAC, I. P., pode designar inspetores principais desde que estes satisfaçam pelo menos os seguintes critérios cumulativos de qualificação:
+
+a) Tenha sido inspetor SAFA qualificado nos três anos anteriores à designação;
+
+b) Tenha efetuado, no mínimo, 36 inspeções de placa no âmbito do programa SAFA nos três anos anteriores à designação.
+
+2.5.2 - A formação prática e ou em exercício ministrada pelos inspetores principais do INAC, I. P., deve basear-se nos programas elaborados e publicados pela EASA.
+
+2.5.3 - O INAC, I. P., pode incumbir os seus inspetores principais de ministrarem formação prática e ou formação em exercício a formandos de outros Estados membros.
+
+2.6 - Medidas transitórias:
+
+2.6.1 - Os inspetores SAFA que satisfaçam os critérios de elegibilidade referidos no n.º 2.3.1, assim como os critérios de experiência recente referidos na alínea b) do n.º 2.3.3, à data da entrada em vigor do presente decreto-lei, consideram-se qualificados para a função de inspetor, em conformidade com os requisitos estabelecidos neste número.
+
+2.6.2 - Não obstante o disposto na alínea a) do n.º 2.3.3, os inspetores considerados qualificados nos termos do n.º 2.6.1 devem realizar formação contínua e regular, ministrada por uma organização SAFA o mais tardar até 1 de julho de 2010 e, a partir daí, nos termos previstos na alínea a) do n.º 2.3.3.
+
+3 - Normas:
+
+3.1 - As Normas da ICAO e os Procedimentos Suplementares Regionais Europeus da ICAO constituem a base para a inspeção de uma aeronave e de um operador ao abrigo do programa SAFA da Comunidade Europeia.
+
+3.2 - As inspeções ao estado técnico de uma aeronave são efetuadas com base nas normas do fabricante da aeronave.
+
+4 - Processo de inspeção:
+
+Elementos da lista de verificação
+
+4.1 - Os elementos a inspecionar são escolhidos de entre os mencionados na lista de verificação constante do anexo iii, que contém um total de 54 elementos.
+
+4.2 - A inspeção e as não conformidades que eventualmente desta resultem têm de refletir-se no relatório da inspeção de placa depois de concluída a inspeção.
+
+Orientações detalhadas SAFA
+
+4.3 - No relatório da inspeção de placa, cada elemento da lista inspecionado é objeto de uma descrição detalhada especificando o âmbito e o método de inspeção. Além disso, é feita referência às exigências pertinentes dos anexos da ICAO.
+
+Registo dos relatórios numa base de dados centralizada do programa SAFA
+
+4.4 - O relatório de uma inspeção é introduzido na base de dados centralizada do programa SAFA logo que possível, não ultrapassando o prazo máximo de 15 dias úteis após a data da inspeção, mesmo que não se tenham constatado anomalias.
+
+5 - Classificação das não conformidades:
+
+5.1 - As não conformidades detetadas em cada um dos elementos objeto de verificação, no âmbito das inspeções de placa, que desrespeitem as normas referidas no n.º 3 do presente anexo, classificam-se em três categorias, tendo em conta sua gravidade:
+
+Categoria 1: a não conformidade tem uma influência menor na segurança;
+
+Categoria 2: a não conformidade pode ter uma influência significativa na segurança;
+
+Categoria 3: a não conformidade pode ter grande influência na segurança.
+
+6 - Ações de seguimento:
+
+6.1 - Sem prejuízo do disposto no n.º 1.2, após a conclusão da inspeção de placa, deve ser preenchido um formulário do certificado de inspeção de placa contendo, pelo menos, os elementos constantes do anexo iv, e entregue uma cópia ao comandante da aeronave ou, na sua ausência, a um membro da tripulação de voo ou ao mais alto representante do operador presente na aeronave ou perto dela. A pessoa que recebe o certificado de inspeção deve assinar um comprovativo da receção, o qual deve ser guardado pelo inspetor. A eventual recusa de assinatura é registada no documento.
+
+6.2 - De acordo com as categorias das não conformidades detetadas, o INAC, I. P., toma as seguintes medidas:
+
+6.3 - Medida de classe 1 - medida adotada após cada inspeção, independentemente de terem sido detetadas não conformidades, que consiste em fornecer informações sobre os resultados da inspeção de placa ao comandante da aeronave ou, na sua ausência, a outro membro da tripulação de voo ou ao mais alto representante do operador. Estas informações são comunicadas oralmente, acompanhadas da entrega do certificado de inspeção.
+
+6.4 - Medida de classe 2 - esta medida adota-se quando na inspeção são detetadas não conformidades de categoria 2 ou 3 e consiste no seguinte:
+
+a) Uma comunicação escrita dirigida ao operador em causa contendo um pedido de provas das medidas corretivas tomadas; e
+
+b) Uma comunicação escrita dirigida ao Estado responsável (Estado do operador e ou do registo) referindo os resultados das inspeções efetuadas à aeronave operada sob a supervisão de segurança do respetivo Estado. A comunicação contém, se necessário, um pedido de confirmação de que aquele Estado considera adequadas as medidas corretivas tomadas, referidas na alínea anterior.
+
+O INAC, I. P., disponibiliza à EASA um relatório mensal sobre o grau de avanço das medidas que tenha empreendido no seguimento de inspeções de placa.
+
+6.5 - Medidas de classe 3 - uma medida de classe 3 é empreendida após uma inspeção de que tenha resultado uma não conformidade de categoria 3.
+
+Tendo em conta a gravidade das não conformidades de categoria 3 e a sua potencial influência na segurança da aeronave e dos seus ocupantes, as medidas a adotar pelo INAC, I. P., ou pelo Governo podem ser as seguintes:
+
+a) Classe 3a - restrições ao voo da aeronave: quando o INAC, I. P., conclui que, tendo em conta as deficiências detetadas durante a inspeção, a aeronave apenas pode descolar mediante certas restrições;
+
+b) Classe 3b - ações corretivas antes do voo: a inspeção na placa identifica deficiências que exigem uma ação ou ações corretivas antes de se poder realizar o voo previsto;
+
+c) Classe 3c - aeronave imobilizada pelo INAC, I. P.: uma aeronave é imobilizada quando, após a identificação de não conformidades de categoria 3 (graves), o INAC, I. P., está convicto de que não são tomadas medidas corretivas pelo operador da aeronave para retificar as deficiências antes da partida, o que representa um perigo imediato para a aeronave e para os seus ocupantes. Nestas situações a aeronave permanece imobilizada até ser eliminado o perigo, devendo o INAC, I. P., informar imediatamente as autoridades competentes do operador em causa e do Estado de registo da aeronave.
+
+As ações referidas nas alíneas b) e c) podem incluir um voo de posicionamento sem passageiros nem carga para a base de manutenção;
+
+d) Classe 3d - proibição imediata de operação: o Governo, através do membro que tutela o setor da aviação civil, pode, ouvindo o INAC, I. P., impor a determinados operadores uma proibição de operação, nos termos da legislação nacional e comunitária aplicável como forma de garantir a segurança, destinando-se tal medida a evitar um perigo imediato e óbvio para a segurança aérea.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 183/2012 - Diário da República n.º 152/2012, Série I de 2012-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2012-179003), em vigor a partir de 2012-08-12
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/2008 - Diário da República n.º 241/2008, Série I de 2008-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196), em vigor a partir de 2008-12-20
+
+## Anexo III — Formulário de relatório de inspeção de placa
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 183/2012 - Diário da República n.º 152/2012, Série I de 2012-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2012-179003), em vigor a partir de 2012-08-12
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/2008 - Diário da República n.º 241/2008, Série I de 2008-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196), em vigor a partir de 2008-12-20
+
+## Anexo IV — Formulário do certificado de inspeção de placa
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 183/2012 - Diário da República n.º 152/2012, Série I de 2012-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2012-179003)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 239/2008 - Diário da República n.º 241/2008, Série I de 2008-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196), em vigor a partir de 2008-12-20

@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:1440070:por
+title: Declaração de Rectificação n.º 1180/2011
+short_title: null
+summary: Rectificação do aviso n.º 14235/2011, referente ao procedimento concursal para a celebração de contrato de trabalho
+  em funções públicas por tempo indeterminado
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Comunidade Intermunicipal do Cávado
+proposing_entity: null
+official_number: 1180/2011
+official_date: null
+publication_date: '2011-07-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 142/2011, Série II de 2011-07-26
+  number: '142'
+  series: II
+  supplement: null
+  pages: 31035 - 31035
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/07/142000000/3103531035.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1440070'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1180-2011-1440070
+  internal: pt:dre:1440070:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1180-2011-1440070
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1180-2011-1440070
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-07-26T00:00:00Z'
+integrity:
+  source_sha256: ce106b8fe6d7a0656f249781f8fdbe12b38578a88b9d168d4544d274d7cc4eba
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-1180-1440070.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1180/2011
+
+Procedimento concursal para a celebração de contrato de trabalho em funções públicas por tempo indeterminado
+
+Nos termos do artigo 148.º do Código do Procedimento Administrativo, rectifica-se o n.º 10 do aviso n.º 14235/2011, publicado no Diário da República, 2.ª série, n.º 134, de 14 de Julho de 2011, referente ao procedimento concursal para o preenchimento de um posto de trabalho na carreira de técnico superior da área de geografia e planeamento, para exercer funções na Comunidade Intermunicipal do Cávado (CIM Cávado), que passa a ter o seguinte teor:
+
+«10 - Métodos de selecção:
+
+10.1 - Os candidatos colocados em situação de mobilidade especial que sejam titulares da categoria posta a concurso e tenham exercido, por último, actividades idênticas às do concurso aqui publicitado e os candidatos com relação jurídica por tempo indeterminado que sejam titulares da categoria posta a concurso e exercem actividades idênticas às do concurso aqui publicitado realizarão os seguintes métodos de selecção eliminatórios de per si excepto se tal for afastado por escrito aquando da candidatura:
+
+10.1.1:
+
+a) Avaliação curricular (AC), valorada em 70%, nos termos do artigo 9.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401); e
+
+b) Entrevista profissional de selecção (EPS), valorada em 30%, nos termos do artigo 13.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401) e de acordo com a acta de critérios elaborada pelo júri em 29 de Junho de 2011.
+
+10.1.2 - Ordenação final (OF) = AC (70%) + EPS (30%).
+
+10.2 - Os candidatos com relação jurídica de emprego público por tempo indeterminado a executarem actividades diferentes das do concurso aqui publicitado realizarão os seguintes métodos de selecção eliminatórios de per si:
+
+10.2.1:
+
+a) Avaliação curricular (AC), valorada em 30%, nos termos do artigo 11.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401); e
+
+b) Prova de conhecimentos (PC), valorada em 40%, nos termos do artigo 9.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401); e
+
+c) Avaliação psicológica (AP), valorada em 30%, nos termos do artigo 11.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), tudo de acordo com a acta de critérios elaborada pelo júri em 29 de Junho de 2011.
+
+10.2.2 - Ordenação final (OF) = AC (30%) + PC (40%) + AP (30%).
+
+10.3 - Os candidatos com relação jurídica de emprego público por tempo determinado ou determinável e os candidatos sem relação jurídica de emprego, realizarão os seguintes métodos de selecção eliminatórios de per si:
+
+10.3.1:
+
+a) Avaliação curricular (AC), valorada em 30%, nos termos do artigo 11.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401); e
+
+b) Prova de conhecimentos (PC), valorada em 40%, nos termos do artigo 9.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401); e
+
+c) Avaliação psicológica (AP), valorada em 30%, nos termos do artigo 11.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), tudo de acordo com a acta de critérios elaborada pelo júri em 29 de Junho de 2011.
+
+10.3.2 - Ordenação final (OF) = AC (30%) + PC (40%) + AP (30%).
+
+10.4 - A prova de conhecimentos escrita visa avaliar os conhecimentos académicos e ou profissionais e as competências técnicas dos candidatos necessárias ao exercício da função. Será escrita, de natureza teórica específica, terá a duração de uma hora, não sendo permitido qualquer tipo de consulta. Versará sobre as seguintes temáticas:
+
+[Lei n.º 45/2008](https://diariodarepublica.pt/dr/detalhe/lei/45-2008-453264), de 27 de Agosto - estabelece o regime jurídico do associativismo municipal; [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações da [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro - aprova o código dos contratos públicos; Lei das Finanças Locais, aprovada pela [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro; POCAL, aprovado pelo [Decreto-Lei n.º 54-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-1999-514178), de 22 de Fevereiro, com as alterações introduzidas pela [Lei n.º 162/99](https://diariodarepublica.pt/dr/detalhe/lei/162-1999-570561), de 14 de Setembro, e o [Decreto-Lei n.º 84-A/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-a-2002-150946), de 5 de Abril; QREN - Regulamentos: Regulamento Geral FEDER e Fundo de Coesão; Enquadramento das Estratégias de Eficiência Colectiva; Regulamentos do Programa Operacional Regional do Norte (informação em www.qren.pt); regulamentos comunitários - Regulamento n.º 1080/2006, do Parlamento Europeu, de 5 de Julho de 2006; regulamentos específicos do ON.2 - O Novo Norte (informação em www.ccr-norte.pt - programas 2007-2013); [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro - estabelece os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas; [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro - aprova o regime de contrato de trabalho em funções públicas; Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, com a redacção dada pela [Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/lei/6-1996-621342), de 31 de Janeiro; [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro - Lei da Protecção de Dados; [Lei n.º 46/2007](https://diariodarepublica.pt/dr/detalhe/lei/46-2007-640919), de 24 de Agosto - Lei do Acesso aos Documentos Administrativos, [Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro - Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas.
+
+10.5 - Em situações de igualdade de valoração, aplica -se o disposto no artigo 35.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.»
+
+Torna-se público ainda que o prazo para apresentação de candidaturas fixado no n.º 1 do referido aviso recomeça a sua contagem a partir da data da publicação da presente rectificação.
+
+18 de Julho de 2011. - O Presidente do Conselho Executivo, Francisco Mesquita Machado.

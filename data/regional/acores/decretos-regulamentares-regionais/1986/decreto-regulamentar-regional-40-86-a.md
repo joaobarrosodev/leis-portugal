@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:210848:por
+title: Decreto Regulamentar Regional n.º 40/86/A
+short_title: null
+summary: Define o regime de atribuição de incentivos aos professores destacados na Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Educação e Cultura - Direcção Regional de Administração
+  Escolar
+proposing_entity: null
+official_number: 40/86/A
+official_date: null
+publication_date: '1986-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 299/1986, Série I de 1986-12-30
+  number: '299'
+  series: I
+  supplement: null
+  pages: 3858 - 3858
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29900/38583858.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '210848'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/40-1986-210848
+  internal: pt:dre:210848:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1986-210848
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1986-210848
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-10-23T00:00:00Z'
+integrity:
+  source_sha256: 6e1572d831cb5985a6dbf4a396eb951192329fd23b0d6704a079e179d23d08a5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1986/DRE-1986-40-210848.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:223192:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 40/86/A
+
+Considerando que o regime do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, que alterou o processo de profissionalização dos professores, foi aplicado à Região Autónoma dos Açores, com as adaptações julgadas necessárias, pelo Decreto Legislativo, Regional n.º 8/85/A, de 9 de Julho;
+
+Considerando que o disposto no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, implicou uma revisão das normas sobre concursos e colocações de professores efectivos dos ensinos preparatório e secundário, consagrada no [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro;
+
+Considerando que o [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro, foi aplicado à Região Autónoma dos Açores, com as devidas alterações, pelo [Decreto Legislativo Regional n.º 10/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1986-196179), de 31 de Março;
+
+Considerando que a alínea a) do n.º 5 do artigo 2.º do Decreto Legislativo Regional, n.º 10/86/A prevê a existência de candidatos que, no concurso de professores efectivos, e após terem manifestado disponibilidade para todos os estabelecimentos de ensino, existentes em quatro ou mais ilhas, onde forem declaradas abertas vagas para aquele concurso, no respectivo grupo, subgrupo ou disciplina, sejam colocados na escola que não tenha sido definida, nos termos do n.º 9.º da [Portaria n.º 750/85](https://diariodarepublica.pt/dr/detalhe/portaria/750-1985-177037), de 2 de Outubro, como escola de formação em serviço;
+
+Considerando que, na hipótese de essa situação se vir a concretizar, os candidatos referidos deverão ser destacados para estabelecimentos de ensino onde se realize a respectiva formação;
+
+Considerando que a alínea b) do n.º 5 do artigo 3.º do diploma legal anteriormente citado prevê a atribuição de incentivos aos candidatos destacados, em regime a definir por decreto regulamentar regional:
+
+O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os docentes efectivos de nomeação provisória que, após terem respeitado o disposto no artigo 3.º do [Decreto Legislativo Regional n.º 8/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1985-182661), de 9 de Julho, tendo mencionado obrigatoriamente os estabelecimentos de ensino com formação em serviço, foram colocados em escola que não tenha sido definida, nos termos do n.º 9.º da [Portaria n.º 750/85](https://diariodarepublica.pt/dr/detalhe/portaria/750-1985-177037), de 2 de Outubro, como escola de formação em serviço, tendo sido destacados para estabelecimentos de ensino onde se realiza a respectiva formação, terão direito a:
+
+a) Passagem de ida e volta;
+
+b) Subsídio mensal de instalação, no valor de 10000$00.
+
+###### Art. 2.º Terão direito apenas a passagem de ida e volta os docentes que se desloquem para a respectiva tomada de posse, no estabelecimento de ensino onde foram colocados, e que tenham domicílio voluntário na ilha onde se situa o estabelecimento de ensino onde se realiza a respectiva formação.
+
+###### Art. 3.º Terão direito, cumulativamente, à passagem de ida e volta e ao subsídio mensal de instalação todos os docentes que se tenham de deslocar, na Região Autónoma dos Açores, para o estabelecimento de ensino onde se realiza a respectiva formação, que se situe em ilha diversa do seu domicílio voluntário.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 24 de Outubro de 1986.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 28 de Novembro de 1986.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**

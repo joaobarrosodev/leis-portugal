@@ -1,0 +1,2294 @@
+---
+schema_version: '1.0'
+id: pt:dre:69920324:por
+title: Decreto Regulamentar n.º 12/2015
+short_title: null
+summary: Aprova a orgânica da Força Aérea
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 12/2015
+official_date: null
+publication_date: '2015-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/2015, Série I de 2015-07-31
+  number: '148'
+  series: I
+  supplement: null
+  pages: 5259 - 5275
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14800/0525905275.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-06-07'
+version_history:
+  file: decreto-regulamentar-12-2015.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-06-07'
+    amending: pt:dre:216769883:por
+    amending_title: Declaração de Retificação n.º 17-A/2023; Decreto Regulamentar n.º 2/2023
+    changes:
+    - Retifica Artigo 2.º
+    - Retifica Artigo 6.º
+    - Retifica Artigo 9.º
+    - Retifica Artigo 17.º
+    - Retifica Artigo 25.º
+    - Retifica Artigo 43.º
+    - Retifica Artigo 55.º
+    - Retifica Artigo 56.º
+    - Retifica Artigo 57.º
+    - Retifica Artigo 58.º
+    - Retifica Artigo 68.º
+    - Adita Secção I
+    - Adita Secção II
+    - Adita Artigo 32.º-A
+    - Adita Secção IV
+    - Adita Artigo 33.º-A
+    - Adita Artigo 33.º-B
+    - Adita Artigo 33.º-C
+    - Adita Artigo 52.º-A
+    - Adita Artigo 54.º-A
+    - Adita Artigo 57.º-A
+    - Adita Artigo 58.º-A
+    - Adita Artigo 58.º-B
+    - Adita Artigo 58.º-C
+    - Adita Artigo 71.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Capítulo IV
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/12/2015/p/cons/20230804/pt/html
+  oj: null
+  dre: '69920324'
+  dre_path: /dr/detalhe/decreto-regulamentar/12-2015-69920324
+  internal: pt:dre:69920324:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-2015-69920324
+  metadata_url: https://data.dre.pt/eli/decregul/12/2015/p/cons/20230804/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2015-214136400
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2015-214136400
+  retrieved_at: '2026-10-22T12:57:20Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2d1ad024929190d0512b8700fa8389d0ad361d1a4436bea198214eade6370693
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:57:20Z'
+  notes: 2 versão(ões); histórico completo em decreto-regulamentar-12-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Academia da Força Aérea
+- Reestruturação de Serviços
+- Arquivo Histórico da Força Aérea
+- BASE Aérea
+- Campo de Tiro
+- Chefe do Estado Maior da Força Aérea
+- Comando da Logística
+- Comando de ZONA Aérea
+- Comissão Histórico-cultural da Força Aérea
+- Comando do Pessoal
+- Força Aérea
+- Conselho Superior da Força Aérea
+- Definição de Competências
+- Estado Maior da Força Aérea
+- Comando Aéreo
+- Gabinete do Chefe do Estado Maior da Força Aérea
+- Inspecção Geral da Força Aérea
+- Junta Superior de Saúde
+- Museu do Ar
+- Forças Armadas
+- Orgânica
+- Vice-chefe do Estado Maior da Força Aérea
+- ZONA Aérea da Madeira
+- ZONA Aérea dos Açores
+relationships:
+- type: amended_by
+  target: pt:dre:214042394:por
+  label: Retifica Artigo 2.º; Retifica Artigo 6.º; Retifica Artigo 9.º; Retifica Artigo 17.º; Retifica Artigo 25.º; Retifica
+    Artigo 43.º; Retifica Artigo 55.º; Retifica Artigo 56.º; Retifica Artigo 57.º; Retifica Artigo 58.º; Retifica Artigo 68.º;
+    Adita Secção I; Adita Secção II; Adita Artigo 32.º-A; Adita Secção IV; Adita Artigo 33.º-A; Adita Artigo 33.º-B; Adita
+    Artigo 33.º-C; Adita Artigo 52.º-A; Adita Artigo 54.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394
+  date: '2023-06-06'
+- type: amended_by
+  target: pt:dre:216769883:por
+  label: Retifica Artigo 2.º; Retifica Artigo 6.º; Retifica Artigo 9.º; Retifica Artigo 17.º; Retifica Artigo 25.º; Retifica
+    Artigo 43.º; Retifica Artigo 55.º; Retifica Artigo 56.º; Retifica Artigo 57.º; Retifica Artigo 58.º; Retifica Artigo 68.º;
+    Adita Secção I; Adita Secção II; Adita Artigo 32.º-A; Adita Secção IV; Adita Artigo 33.º-A; Adita Artigo 33.º-B; Adita
+    Artigo 33.º-C; Adita Artigo 52.º-A; Adita Artigo 54.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/17-a-2023-216769883
+  date: '2023-08-04'
+- type: cites
+  target: eli:http://data.dre.pt/e
+  label: null
+  source: http://data.dre.pt/e
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/142/2015/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/142/2015/07/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/184/2014/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/184/2014/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/187/2014/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/187/2014/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/296/2009/10/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/296/2009/10/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/2/2015/02/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/2/2015/02/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/6/2014/09/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/6/2014/09/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+article_structure:
+  article_count: 84
+  section_count: 28
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:57:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 12/2015
+
+Decreto Regulamentar n.º 12/2015
+
+de 31 de julho
+
+A Resolução do Conselho de Ministros n.º 19/2013, de 5 de abril, que aprovou o Conceito Estratégico de Defesa Nacional, e a subsequente Resolução do Conselho de Ministros n.º 26/2013, de 11 de abril, que aprovou a Reforma «Defesa 2020», definiram as orientações políticas para a implementação da reforma estrutural na defesa nacional e nas Forças Armadas.
+
+No âmbito desta reforma, e no seguimento da aprovação da Lei Orgânica n.º 6/2014, de 1 de setembro, que procede à primeira alteração à Lei Orgânica de Bases da Organização das Forças Armadas (LOBOFA), aprovada pela Lei Orgânica n.º 1-A/2009, de 7 de julho, o Decreto-Lei n.º 187/2014, de 29 de dezembro, aprovou a nova orgânica da Força Aérea, determinando que as atribuições, competências e organização da estrutura interna da Força Aérea seriam estabelecidas por decreto regulamentar.
+
+No mesmo sentido, e nos termos da alínea a) do n.º 1 do artigo 17.º da LOBOFA, compete aos chefes de Estado-Maior dos ramos das Forças Armadas dirigir, coordenar e administrar o respetivo ramo. Assim, o presente decreto regulamentar estabelece a organização e competências das estruturas principais da Força Aérea, e fixa as competências dos respetivos comandantes, diretores ou chefes.
+
+Face às suas especificidades, esta organização interna é também articulada com outros diplomas que a complementam, nomeadamente com o disposto no artigo 5.º-A da LOBOFA, que prevê a fixação anual, por decreto-lei, dos efetivos das Forças Armadas em todas as situações, ouvido o Conselho de Chefes de Estado-Maior.
+
+De igual modo, a organização interna deve ter em conta o enquadramento do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e voluntariado dos três ramos das Forças Armadas, designadamente a sua adaptação à criação da tabela remuneratória única e a atualização do regime de abono mensal de despesas de representação dos militares titulares de determinados cargos ou funções na estrutura orgânica das Forças Armadas, fixada no Decreto-Lei n.º 296/2009, de 14 de outubro, alterado pelo Decreto-Lei n.º 142/2015, de 31 de julho.
+
+Neste âmbito, o presente decreto regulamentar desenvolve a reorganização da estrutura orgânica da Força Aérea, designadamente pela adequação das atribuições, competências e organização da sua estrutura interna à extinção do Comando de Instrução e Formação da Força Aérea, às alterações decorrentes da reforma do sistema de saúde das Forças Armadas e à criação da Autoridade Aeronáutica Nacional.
+
+Assim:
+
+Nos termos do artigo 36.º do Decreto-Lei n.º 187/2014, de 29 de dezembro, e da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Chefe do Estado-Maior da Força Aérea
+
+###### Artigo 1.º — Chefe do Estado-Maior da Força Aérea
+
+1 - O Chefe do Estado-Maior da Força Aérea (CEMFA) é o comandante da Força Aérea e tem as competências estabelecidas na lei.
+
+2 - O CEMFA é, por inerência, a Autoridade Aeronáutica Nacional (AAN) e, nesta qualidade funcional, depende do Ministro da Defesa Nacional, nos termos da legislação aplicável.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 2.º — Gabinete do Chefe do Estado-Maior da Força Aérea
+
+1 - O Gabinete do CEMFA (GABCEMFA) tem por missão apoiar o CEMFA no exercício das suas funções e nas relações da Força Aérea com o exterior.
+
+2 - Ao GABCEMFA compete:
+
+a) Assessorar o CEMFA no exercício das suas funções, no âmbito de matérias que transcendam as competências dos outros órgãos da Força Aérea;
+
+b) Assegurar as relações da Força Aérea com os serviços do Estado e demais entidades externas;
+
+c) Assegurar e coordenar as relações institucionais da Força Aérea com os órgãos e serviços do Estado e demais entidades externas;
+
+d) Elaborar planos de comunicação externa da Força Aérea;
+
+e) Assegurar as atividades de comunicação, informação e relações públicas da Força Aérea e promover a sua imagem institucional;
+
+f) Assegurar as atividades de protocolo e cerimonial militar da Força Aérea;
+
+g) Assegurar a elaboração de propostas relativas à concessão ou modificação dos símbolos heráldicos da Força Aérea;
+
+h) Assegurar o apoio aos órgãos de conselho da Força Aérea.
+
+3 - A estrutura e o funcionamento do GABCEMFA e da assessoria do CEMFA são definidos por despacho do CEMFA.
+
+4 - O chefe do GABCEMFA é um major-general.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 3.º — Assessoria do Chefe do Estado-Maior da Força Aérea
+
+1 - O CEMFA dispõe de:
+
+a) Assessores pessoais;
+
+b) Assessoria jurídica.
+
+2 - Aos assessores pessoais do CEMFA compete prestar assessoria direta e apoio técnico especializado.
+
+3 - À assessoria jurídica compete prestar apoio jurídico e de contencioso ao CEMFA e aos órgãos de Conselho e assegurar a coordenação dos assuntos de natureza jurídica na Força Aérea.
+
+4 - O assessor jurídico do CEMFA exerce autoridade funcional e técnica no que respeita à área jurídica na Força Aérea.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 4.º — Gabinete da Autoridade Aeronáutica Nacional
+
+As competências, a estrutura e o funcionamento do Gabinete da Autoridade Aeronáutica Nacional constam de legislação própria.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+### Capítulo II — Vice-Chefe do Estado-Maior da Força Aérea
+
+#### Secção I — Vice-Chefe do Estado-Maior da Força Aérea
+
+> Aditado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 5.º — Natureza, competências e estrutura
+
+1 - O Vice-Chefe do Estado-Maior da Força Aérea (VCEMFA) é o 2.º Comandante da Força Aérea, sendo o tenente-general hierarquicamente superior a todos os oficiais do seu posto na Força Aérea.
+
+2 - Ao VCEMFA compete:
+
+a) Exercer as competências legalmente previstas e que lhe sejam delegadas pelo CEMFA;
+
+b) Promover e coordenar a colaboração dos diversos órgãos da Força Aérea nos trabalhos realizados no Estado-Maior da Força Aérea (EMFA);
+
+c) Submeter ao CEMFA estudos, planos, informações e pareceres elaborados no EMFA;
+
+d) Estabelecer, no âmbito das suas competências, a ligação do EMFA com os órgãos e entidades externas à Força Aérea.
+
+3 - O VCEMFA compreende:
+
+a) O Gabinete do VCEMFA (GABVCEMFA);
+
+b) Os órgãos de apoio direto, criados por despacho do CEMFA.
+
+4 - Dependem do VCEMFA os seguintes órgãos de base:
+
+a) A Unidade de Apoio de Lisboa (UAL);
+
+b) O Serviço Jurídico da Força Aérea (SJFA);
+
+c) O Serviço de Documentação da Força Aérea (SDFA);
+
+d) O Sub-Registo (SR).
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 6.º — Gabinete do Vice-Chefe do Estado-Maior da Força Aérea
+
+1 - O Gabinete do VCEMFA (GABVCEMFA) tem por missão apoiar o VCEMFA e o Subchefe do Estado-Maior da Força Aérea (SUBCEMFA), assegurar o relacionamento institucional entre as divisões e os órgãos do Estado-Maior da Força Aérea (EMFA), e tratar dos assuntos decorrentes das relações entre o EMFA e os outros comandos e chefias da Força Aérea.
+
+2 - Ao GABVCEMFA compete, em especial:
+
+a) Assessorar o VCEMFA na coordenação das suas atividades;
+
+b) Assegurar o encaminhamento dos assuntos que, através do GABVCEMFA, sejam dirigidos ao VCEMFA;
+
+c) Apoiar o VCEMFA nas relações institucionais com as estruturas subordinadas, com outros órgãos e entidades públicas, militares ou civis, e com entidades privadas;
+
+d) Assegurar o apoio administrativo ao SCEMFA e ao EMFA;
+
+e) (Revogada.)
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção II — Estado-Maior da Força Aérea
+
+> Aditado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 7.º — Missão e competências
+
+1 - O EMFA tem por missão o estudo, a conceção e o planeamento das atividades da Força Aérea, para apoio à decisão do CEMFA.
+
+2 - Ao EMFA compete:
+
+a) Preparar as diretivas, regulamentos, planos, ordens, instruções ou publicações, conforme determinação do CEMFA, e coordenar a sua divulgação;
+
+b) Assegurar a coordenação, a supervisão e o controlo de todas as atividades de gestão estratégica da Força Aérea;
+
+c) Contribuir para a elaboração dos projetos relativos aos documentos enquadrantes da defesa nacional, nomeadamente o Conceito Estratégico Militar, as Missões das Forças Armadas, o Sistema de Forças e o Dispositivo de Forças;
+
+d) Promover o planeamento integrado das atividades da Força Aérea, designadamente quanto à edificação, preparação e sustentação das suas capacidades, em coordenação com os órgãos centrais de administração e direção (OCAD) e o Comando Aéreo (CA);
+
+e) Assegurar a condução das atividades integradas no ciclo de planeamento de defesa e no planeamento de forças, no contexto da Organização do Tratado do Atlântico Norte (OTAN) e da União Europeia, em colaboração com o Estado-Maior-General das Forças Armadas (EMGFA);
+
+f) Assegurar a elaboração de propostas e atividades relativas aos anteprojetos de propostas da Lei de Programação Militar (LPM) e da Lei das Infraestruturas Militares (LIM), respeitantes à Força Aérea, e coordenar a respetiva execução material e financeira;
+
+g) Coordenar a elaboração do plano e relatório anual de atividades da Força Aérea;
+
+h) Elaborar os estudos conducentes à definição e desenvolvimento de conceitos, requisitos e doutrina, incluindo o processo de harmonização da identificação, validação, certificação e implementação de lições aprendidas conjuntas e combinadas;
+
+i) Promover o planeamento e programação de recursos nas áreas de pessoal, material, logística, infraestruturas, finanças, comunicações e sistemas de informação;
+
+j) Propor a organização interna das unidades, estabelecimentos e órgãos da Força Aérea;
+
+k) Coordenar a participação da Força Aérea no plano externo, designadamente nas relações com organismos militares internacionais ou com outros países no plano bilateral ou multilateral, bem como no âmbito da cooperação no domínio da defesa;
+
+l) Assegurar a cooperação institucional entre a Força Aérea e as suas congéneres ou outras entidades, nos domínios aéreo, do espaço e ciberespaço;
+
+m) Assegurar, no âmbito da Força Aérea, a coordenação das atividades de informações, contrainformação e segurança militares;
+
+n) Coordenar os assuntos no âmbito da segurança de informação com a Autoridade Nacional de Segurança, em articulação com as organizações nacionais e internacionais com competências neste âmbito;
+
+o) Planear, coordenar e promover a aplicação de padrões e requisitos de interoperabilidade;
+
+p) Estudar e pronunciar-se sobre documentos e publicações nacionais, da OTAN e da União Europeia, relativos a doutrina militar e a acordos de normalização;
+
+q) Promover a inovação e transformação da Força Aérea, com vista à melhoria das suas capacidades, acompanhando a evolução das atividades de investigação e desenvolvimento nas áreas de tecnologias e ciências militares aeronáuticas e espaciais, informacionais e cibernéticas;
+
+r) Assegurar, no âmbito das atividades da Força Aérea, a definição das políticas de gestão ambiental, energia e recursos.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 8.º — Estrutura
+
+O EMFA compreende:
+
+a) O Subchefe do EMFA;
+
+b) Até seis divisões criadas e extintas por despacho do CEMFA.
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 9.º — Subchefe do Estado-Maior da Força Aérea
+
+1 - Ao SUBCEMFA compete, em especial:
+
+a) Supervisionar e coordenar as atividades das divisões, de acordo com as instruções do VCEMFA;
+
+b) Definir e assegurar o cumprimento da política de gestão da informação da Força Aérea, nomeadamente no que concerne aos seus sistemas de informação, tendo como suporte a restante estrutura da informação;
+
+c) (Revogada.)
+
+2 - O SUBCEMFA é um major-general piloto aviador.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 10.º — Divisão de Recursos
+
+1 - A Divisão de Recursos tem por missão efetuar estudos e desenvolver planos no âmbito das políticas de pessoal, logística, financeira e organizacional, bem como elaborar as respetivas propostas de diretivas.
+
+2 - À Divisão de Recursos compete:
+
+a) Elaborar propostas sobre política de pessoal;
+
+b) Elaborar estudos e doutrina sobre carreiras, quadros e categorias de pessoal;
+
+c) Elaborar e promover a definição de métodos e sistemas de recrutamento, convocação, mobilização e seleção de pessoal;
+
+d) Elaborar estudos e planos no domínio do ensino e formação profissional;
+
+e) Proceder ao estudo dos instrumentos adequados à avaliação do mérito dos militares;
+
+f) Estudar e propor a organização superior da Força Aérea, bem como os critérios para a organização de comandos, unidades e órgãos subordinados, incluindo para os quadros orgânicos;
+
+g) Definir a doutrina logística da Força Aérea nos domínios do abastecimento, manutenção, infraestruturas e transportes;
+
+h) Elaborar os planos de infraestruturas e de material;
+
+i) Planear a alienação e destruição de material de guerra da Força Aérea;
+
+j) Definir a doutrina da qualidade e proteção ambiental da Força Aérea e, neste âmbito, coordenar todas as ações com entidades externas;
+
+k) Elaborar estudos e propostas no âmbito das retribuições, prestações sociais, aposentação e apoio social;
+
+l) Desenvolver e elaborar estudos, análises e projetos de âmbito administrativo-financeiro, bem como definir políticas nesta área.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 11.º — Divisão de Operações
+
+1 - A Divisão de Operações tem por missão efetuar estudos, coordenar e regulamentar os assuntos relativos à doutrina, prontidão e emprego de meios da Força Aérea.
+
+2 - À Divisão de Operações compete:
+
+a) Elaborar e atualizar os conceitos de operação dos sistemas de armas da Força Aérea;
+
+b) Elaborar a doutrina de emprego de meios da Força Aérea, decorrente da evolução dos conceitos e doutrinas, para a sua utilização no contexto nacional e internacional;
+
+c) Regulamentar e propor protocolos no âmbito da atividade operacional;
+
+d) Definir os requisitos operacionais dos sistemas de armas, do armamento, do equipamento e da guerra eletrónica e acompanhar a sua integração no dispositivo;
+
+e) Acompanhar, coordenar e avaliar o desenvolvimento, a experimentação e a investigação de novas capacidades;
+
+f) Estudar e desenvolver métodos de análise e de apoio à decisão nos domínios do emprego dos meios e dos recursos, designadamente através da investigação operacional;
+
+g) Estudar, desenvolver e aplicar os métodos de análise quantitativa às questões relacionadas com a prontidão e o emprego de recursos;
+
+h) Colaborar no desenvolvimento da doutrina e requisitos em matéria de organização, métodos, processo e qualidade dos sistemas operacionais;
+
+i) Planear o regime de esforço da atividade aérea e coordenar a sua execução com os sistemas de gestão da Força Aérea;
+
+j) Estabelecer a política e coordenar os assuntos relacionados com as áreas relativas à proteção da força;
+
+k) Promover estudos conducentes à aplicação de normas para a regulamentação da gestão do tráfego aéreo e apoio de aeródromo;
+
+l) Elaborar o Plano de Informações da Força Aérea;
+
+m) Assegurar e coordenar as relações com os adidos de defesa e militares;
+
+n) Desenvolver as ações necessárias à coordenação dos assuntos respeitantes à cooperação e às relações internacionais;
+
+o) Acompanhar a situação político-militar internacional;
+
+p) Planear e coordenar a contribuição da Força Aérea para os teatros de operações, incluindo no âmbito de operações multinacionais;
+
+q) Colaborar na produção de informações militares.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 12.º — Divisão de Comunicações e Sistemas de Informação
+
+1 - A Divisão de Comunicações e Sistemas de Informação tem por missão efetuar estudos e desenvolver planos no âmbito dos sistemas de comunicações e de informação, incluindo os sistemas de comando e controlo, bem como elaborar as respetivas normas e regulamentos gerais.
+
+2 - À Divisão de Comunicações e Sistemas de Informação compete:
+
+a) Estabelecer a política relativa às comunicações, aos sistemas de informação e à gestão da informação, incluindo as questões relacionadas com a sua segurança;
+
+b) Elaborar os planos relativos às comunicações e aos sistemas de informação;
+
+c) Promover e validar a elaboração dos requisitos operacionais dos sistemas de comunicações e de informação, incluindo os relativos aos sistemas de comando e controlo, de informações, de vigilância e de reconhecimento, bem como dos sistemas de identificação e de navegação;
+
+d) Contribuir para o planeamento de forças e de defesa, no âmbito das suas competências;
+
+e) Estudar e acompanhar a evolução das comunicações e dos sistemas de informação, no sentido de manter atualizadas as capacidades da Força Aérea;
+
+f) Estudar e promover a aplicação dos padrões de normalização e interoperabilidade dos sistemas de comunicações e de informação;
+
+g) Colaborar com o Diretor de Informação na definição dos objetivos de informação das áreas funcionais da Força Aérea.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+### Capítulo III — Órgãos centrais de administração e direção
+
+> Alterado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção I — Comando de Pessoal da Força Aérea
+
+###### Artigo 13.º — Natureza e composição
+
+1 - Os OCAD têm caráter funcional e visam assegurar a direção e execução de áreas ou atividades específicas essenciais, designadamente, na gestão de recursos humanos, materiais, financeiros, de informação e de infraestruturas.
+
+2 - São OCAD da Força Aérea:
+
+a) O Comando de Pessoal da Força Aérea (CPESFA) e as direções técnicas referidas no n.º 2 do artigo 15.º;
+
+b) O Comando da Logística da Força Aérea (CLAFA) e as direções técnicas referidas no n.º 2 do artigo 25.º;
+
+c) A Direção de Finanças da Força Aérea (DFFA).
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção II — Comando da Logística da Força Aérea
+
+###### Artigo 14.º — Missão e competências
+
+1 - O Comando de Pessoal da Força Aérea (CPESFA) tem por missão assegurar a administração dos recursos humanos, de acordo com os planos e diretivas aprovados pelo CEMFA.
+
+2 - Ao CPESFA compete:
+
+a) Gerir os efetivos das unidades, órgãos e serviços, em coordenação com os respetivos comandos;
+
+b) Gerir as carreiras do pessoal militar e civil;
+
+c) Efetuar a gestão previsional das vagas para os cursos de promoção do pessoal militar, bem como as propostas de nomeação para a respetiva frequência, exceto para o Curso de Promoção a Oficial General (CPOG);
+
+d) (Revogada.)
+
+e) Gerir os sistemas de avaliação do mérito e do desempenho;
+
+f) (Revogada.)
+
+g) Gerir os processos individuais do pessoal militar e civil;
+
+h) (Revogada.)
+
+i) Gerir o cadastro dos beneficiários no âmbito da Assistência na Doença aos Militares (ADM);
+
+j) Garantir a prestação de cuidados de saúde nas unidades de saúde da Força Aérea;
+
+k) Determinar as mudanças de situação do pessoal, em cumprimento das disposições estatutárias ou em resultado de pareceres da Junta de Saúde da Força Aérea homologados;
+
+l) Preparar planos de mobilização de pessoal e dar-lhes execução, nos termos das diretivas superiores;
+
+m) Definir os meios e procedimentos necessários à manutenção do estado sanitário adequado e a boa forma física do pessoal;
+
+n) Administrar a justiça e disciplina;
+
+o) (Revogada.)
+
+p) Assegurar a assistência religiosa;
+
+q) Prestar a assistência social e promover o bem-estar do pessoal;
+
+r) Proceder ao recrutamento dos efetivos necessários ao preenchimento dos quadros de pessoal;
+
+s) Gerir os planos e programas de formação da Força Aérea que não sejam da competência do Instituto Universitário Militar (IUM);
+
+t) Programar e controlar as atividades de educação física e desportos da Força Aérea;
+
+u) Superintender as atividades de instrução militar ministradas na Força Aérea;
+
+v) Executar inspeções técnicas, em coordenação com a Inspeção-Geral da Força Aérea (IGFA);
+
+w) Publicar as Ordens à Força Aérea (OFA).
+
+x) Coordenar e desenvolver as atividades no domínio da psicologia organizacional.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 15.º — Estrutura
+
+1 - O CPESFA compreende:
+
+a) O Comandante do Pessoal da Força Aérea;
+
+b) Os órgãos de apoio direto.
+
+c) O Serviço de Justiça e Disciplina (SJD);
+
+d) O Serviço de Ação Social (SAS);
+
+e) O Centro de Assistência Religiosa (CAR).
+
+2 - Dependem do CPESFA:
+
+a) A Direção de Pessoal (DP);
+
+b) A Direção de Saúde (DS);
+
+c) A Direção de Formação (DF).
+
+3 - Dependem do CPESFA os seguintes órgãos de base:
+
+a) O Centro de Formação Militar e Técnica da Força Aérea (CFMTFA);
+
+b) O Centro de Psicologia da Força Aérea (CPSIFA);
+
+c) O Centro de Recrutamento da Força Aérea (CRFA);
+
+d) O Serviço de Justiça e Disciplina (SJD);
+
+e) O Serviço de Ação Social (SAS);
+
+f) O Serviço de Assistência Religiosa (SAR).
+
+4 - No CPESFA funcionam os conselhos de especialidades, cuja composição, competência e funcionamento são regulados por legislação própria.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 16.º — Comandante do Pessoal da Força Aérea
+
+1 - O Comandante do Pessoal da Força Aérea exerce autoridade hierárquica sobre os órgãos mencionados no artigo anterior e autoridade funcional e técnica, através dos respetivos comandantes, diretores ou chefes, sobre as unidades, estabelecimentos ou órgãos da Força Aérea, no que respeita às seguintes áreas:
+
+a) Pessoal;
+
+b) Saúde;
+
+c) Formação;
+
+d) Justiça e disciplina;
+
+e) Ação social;
+
+f) Assistência religiosa.
+
+2 - O Comandante do Pessoal da Força Aérea pode delegar nos órgãos que lhe estão diretamente subordinados a competência para a prática de atos relativos às áreas que lhe estão funcionalmente atribuídas, bem como autorizar a subdelegação da mesma.
+
+3 - O Comandante do Pessoal da Força Aérea é um tenente-general, na direta dependência do CEMFA.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 17.º — Órgãos de apoio direto
+
+Os órgãos de apoio direto são criados e extintos por despacho do CEMFA.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 18.º — Serviço de Justiça e Disciplina
+
+1 - O SJD tem por missão estudar e emitir parecer sobre as matérias diretamente relacionadas com a administração da justiça e disciplina na Força Aérea.
+
+2 - Ao SJD compete, em especial:
+
+a) Assessorar o Comandante do Pessoal da Força Aérea em assuntos de justiça e disciplina, através da emissão de pareceres e da organização e informação de processos;
+
+b) Preparar e difundir esclarecimentos no âmbito da justiça e disciplina;
+
+c) Controlar os processos, no âmbito da justiça e disciplina, instruídos nas unidades e órgãos da Força Aérea;
+
+d) Apoiar tecnicamente os gabinetes de justiça das unidades e órgãos da Força Aérea;
+
+e) Efetuar inspeções setoriais na área da justiça e disciplina, aos serviços sob sua dependência funcional, em coordenação com a IGFA;
+
+f) Estudar e informar ou organizar processos relativos à concessão de condecorações.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 19.º — Serviço de Ação Social
+
+1 - O SAS tem por missão promover o bem-estar social e assegurar o apoio social do pessoal da Força Aérea.
+
+2 - Ao SAS compete:
+
+a) Programar a ação social na Força Aérea, promovendo e acompanhando a execução dos programas;
+
+b) Estudar e propor as medidas tendentes a dar solução a situações sociais e psicológicas com efeito negativo na missão;
+
+c) Coordenar o apoio aos familiares dos militares e civis da Força Aérea em missão no exterior;
+
+d) Coordenar o apoio social aos militares da Força Aérea doentes e respetivos familiares, bem como aos familiares dos militares da Força Aérea falecidos;
+
+e) Apoiar as unidades e órgãos da Força Aérea, tendo em vista o desenvolvimento das ações de natureza social e o apoio técnico dos gabinetes de ação social;
+
+f) Realizar estudos na área do serviço social, visando um melhor conhecimento da família militar da Força Aérea;
+
+g) Estudar e propor a celebração de protocolos com entidades públicas e privadas, garantindo a complementaridade do apoio social prestado;
+
+h) Ministrar e promover a frequência de cursos e eventos nos domínios da assistência social e das toxicodependências;
+
+i) Organizar e dirigir a realização de atividades culturais, desportivas e outras de ocupação de tempos livres;
+
+j) Assegurar o cumprimento do Programa para a Prevenção e Combate à Droga e ao Alcoolismo nas Forças Armadas, nos aspetos relativos à ação social;
+
+k) Efetuar inspeções setoriais aos serviços sob a sua dependência funcional, em coordenação com a IGFA.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 20.º — Centro de Assistência Religiosa
+
+1 - O CAR tem por missão assegurar a assistência religiosa na Força Aérea.
+
+2 - Ao CAR compete:
+
+a) Elaborar e propor normas técnicas relativas à assistência religiosa na Força Aérea;
+
+b) Determinar e prover as necessidades de preparação de pessoal auxiliar e de materiais de culto;
+
+c) Elaborar o programa anual da atividade pastoral e proceder à avaliação dos seus resultados;
+
+d) Colaborar em ações culturais;
+
+e) Estudar e propor obras de construção, conservação e restauro do património religioso da Força Aérea.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 21.º — Direção de Pessoal
+
+1 - A Direção de Pessoal (DP) tem por missão gerir os recursos humanos da Força Aérea, assegurando a sua disponibilidade e conciliando as necessidades orgânicas com o desenvolvimento das carreiras.
+
+2 - À DP compete, em especial:
+
+a) Colaborar no recrutamento do pessoal militar;
+
+b) Propor ou promover as colocações e transferências de pessoal;
+
+c) Gerir as carreiras e promover as mudanças de situação;
+
+d) Organizar os processos de promoção;
+
+e) Propor as nomeações para os cursos de promoção do pessoal militar;
+
+f) Gerir os sistemas de avaliação do mérito e do desempenho;
+
+g) Efetuar a gestão dos contratos dos militares em regime de contrato nas suas diversas modalidades e em regime de voluntariado;
+
+h) Instruir os processos dos concursos que sejam abertos a militares ou a cidadãos na reserva da disponibilidade para admissão aos cursos, tirocínios ou estágios que habilitam ao ingresso aos quadros permanentes;
+
+i) Promover e orientar os procedimentos concursais para admissão do pessoal civil e apoiar administrativamente os júris dos concursos;
+
+j) Organizar e manter atualizados os processos individuais de todo o pessoal;
+
+k) Elaborar planos de mobilização e convocação de pessoal da Força Aérea;
+
+l) Instruir processos de reforma, de pensões de invalidez e contagem de tempo de serviço;
+
+m) Efetuar inspeções setoriais aos serviços sob a sua dependência funcional, em coordenação com a IGFA;
+
+n) Organizar e manter atualizado o cadastro dos beneficiários da ADM;
+
+o) Elaborar e proceder à publicação das OFA;
+
+p) Gerir os documentos de identificação e de encarte;
+
+q) Analisar e informar os processos de habilitação ao suplemento de residência;
+
+r) Garantir a gestão do registo, a verificação e a validação dos dados na área de pessoal.
+
+3 - O diretor da DP é um major-general.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 22.º — Direção de Saúde
+
+1 - A DS tem por missão assegurar a prevenção, manutenção e controlo da recuperação da saúde do pessoal da Força Aérea, no âmbito do Sistema de Saúde Militar (SSM), bem como assegurar o apoio médico-sanitário às operações militares atribuídas à Força Aérea, às evacuações aeromédicas e às missões de busca e salvamento.
+
+2 - Sem prejuízo das competências da Direção de Saúde Militar (DIRSAM), à DS compete, em especial:
+
+a) Elaborar estudos no âmbito da saúde militar;
+
+b) Definir normas técnicas e dar pareceres no âmbito da fisiologia de voo;
+
+c) Exercer a autoridade técnica e funcional sobre os órgãos de saúde militar das unidades da Força Aérea, programando, coordenando e controlando a atividade médica, de enfermagem, veterinária e farmacêutica na Força Aérea, em colaboração com a DIRSAM;
+
+d) Garantir o apoio logístico sanitário às unidades de saúde da Força Aérea;
+
+e) Emitir pareceres técnicos sobre matérias relativas a equipamentos e dispositivos médicos, medicamentos e outros produtos de saúde necessários ao desenvolvimento da missão da Força Aérea, bem como sobre a construção, reconversão ou reparação de infraestruturas de saúde, em colaboração com a DIRSAM;
+
+f) Desenvolver, através das unidades de saúde da Força Aérea, inspeções médicas para avaliação da aptidão física e psíquica do pessoal navegante da Força Aérea na efetividade de serviço, em coordenação com o Centro de Medicina Aeronáutica (CMA);
+
+g) Decidir sobre a aptidão física e psíquica e sobre a aptidão médico-sanitária para as operações no exterior, do pessoal navegante da Força Aérea na efetividade de serviço, tendo em conta o resultado das inspeções médicas realizadas pelo CMA;
+
+h) Coordenar a realização pelas unidades de saúde da Força Aérea de inspeções médicas ao pessoal militar não navegante da Força Aérea, na efetividade de serviço, para a avaliação da sua aptidão física e psíquica e aptidão médico-sanitária para operações no exterior;
+
+i) Garantir o controlo médico-sanitário do pessoal civil ao serviço da Força Aérea;
+
+j) Definir e controlar a certificação técnica e operacional do pessoal de saúde que assegura o apoio sanitário às evacuações aeromédicas e às missões de busca e salvamento, assegurando e supervisionando a sua atividade;
+
+k) Programar, executar e controlar as ações de apoio sanitário aos militares da Força Aérea, em cerimónias, exercícios e destacamentos da Força Aérea ou a cargo da Força Aérea, em território nacional e no estrangeiro;
+
+l) Propor programas e outras atividades de formação e assegurar a colaboração nas atividades de ensino e formação na área da saúde, promovendo a investigação e o desenvolvimento da medicina operacional, medicina aeroespacial e evacuações aeromédicas;
+
+m) Definir, promover e colaborar na certificação técnica do pessoal de saúde, programando, em coordenação com o CA, o treino e a qualificação das equipas de saúde integradas em missões operacionais da Força Aérea;
+
+n) Programar, coordenar e apoiar administrativamente as atividades das juntas médicas da Força Aérea;
+
+o) Promover ações de prevenção e combate às toxicodependências e alcoolismo na Força Aérea;
+
+p) Realizar inspeções técnicas em colaboração com a IGFA.
+
+q) (Revogada.)
+
+3 - No âmbito da saúde militar, a DS depende técnica e funcionalmente da DIRSAM.
+
+4 - O diretor da DS é um brigadeiro-general.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 23.º — Direção de Formação
+
+1 - A DF tem por missão conceber, elaborar, implementar e controlar os planos, programas e atividades de formação da sua competência, que incluem as atividades de instrução e formação complementar de voo bem como programar e controlar as atividades de educação física e desportos na Força Aérea.
+
+2 - À DF compete, em especial:
+
+a) Estabelecer, promover e controlar as atividades de formação da responsabilidade da Força Aérea, com exceção dos cursos ministrados na Academia da Força Aérea (AFA);
+
+b) Definir a metodologia de instrução, os critérios de avaliação dos alunos e formadores e de aproveitamento dos alunos;
+
+c) Propor ou estabelecer a estrutura curricular e os planos de estudo dos cursos ministrados no CFMTFA e nas subunidades de instrução;
+
+d) Aprovar os programas das disciplinas dos cursos ministrados na Força Aérea, com exceção dos cursos da Academia da Força Aérea (AFA);
+
+e) Apoiar o IUM na definição e atualização dos programas do curso de formação de sargentos dos quadros permanentes da Força Aérea;
+
+f) Propor e programar a frequência de cursos e estágios técnicos, por pessoal da Força Aérea, em outros estabelecimentos nacionais, militares ou civis, acompanhar o seu desenvolvimento e avaliar os seus resultados;
+
+g) Promulgar as publicações para utilização nas diversas áreas de formação;
+
+h) Promover os concursos de admissão ao regime de contrato e de voluntariado;
+
+i) Promover os concursos de admissão aos cursos de formação dos quadros permanentes, com exceção dos que se referem à categoria de oficiais;
+
+j) Executar inspeções técnicas, em coordenação com a IGFA;
+
+k) Controlar os planos das atividades de formação das unidades e órgãos da Força Aérea, de modo a manter atualizado o catálogo da oferta formativa;
+
+l) Gerir o sistema de preparação física e desportos da Força Aérea, efetuando o controlo da aptidão física dos militares;
+
+m) Coordenar, no âmbito da Força Aérea, as ações de cooperação no domínio da defesa nos projetos em que a Força Aérea participa.
+
+3 - O diretor da DF é um brigadeiro-general.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção III — Direção de Finanças da Força Aérea
+
+###### Artigo 24.º — Missão e competências
+
+1 - O Comando da Logística da Força Aérea (CLAFA) tem por missão administrar os recursos materiais, de comunicações e sistemas de informação e infraestruturas da Força Aérea, de acordo com os planos e diretivas aprovados pelo CEMFA e garantir o cumprimento dos requisitos para a certificação da aeronavegabilidade das aeronaves militares.
+
+2 - Ao CLAFA compete:
+
+a) Garantir o cumprimento dos requisitos de aeronavegabilidade das aeronaves militares;
+
+b) Gerir os recursos materiais da Força Aérea, promovendo a sua obtenção, receção, distribuição, manutenção, inspeção, recuperação e abate;
+
+c) Garantir o sistema de gestão da qualidade e aeronavegabilidade da Força Aérea;
+
+d) Colaborar na preparação dos projetos orçamentais anuais e dos ajustamentos necessários à execução dos planos e programas aprovados;
+
+e) Colaborar na definição dos requisitos operacionais e logísticos dos meios necessários para assegurar as capacidades da Força Aérea e planear o apoio logístico durante o respetivo ciclo de vida;
+
+f) Conduzir atividades de engenharia em todas as fases do ciclo de vida dos sistemas de armas, bem como gerir os programas e projetos do portefólio da Força Aérea que lhe forem atribuídos, nomeadamente a execução dos programas de modernização das capacidades;
+
+g) Elaborar a regulamentação técnica e manter a sua atualização, respeitante às áreas referidas no n.º 1 do artigo 26.º;
+
+h) Promover a elaboração de projetos, estudos e auditorias técnicas nas áreas da sua competência;
+
+i) (Revogada.)
+
+j) Apoiar, no âmbito das suas áreas de atuação técnica, os outros comandos no planeamento e execução das suas tarefas logísticas;
+
+k) (Revogada.)
+
+l) Assegurar o cumprimento, na sua área de responsabilidade técnica, da regulamentação com implicações na prevenção de acidentes;
+
+m) Assegurar o cumprimento das políticas da qualidade e aeronavegabilidade e, ainda, de ambiente, higiene e segurança no trabalho;
+
+n) (Revogada.)
+
+o) Identificar oportunidades de financiamento de fontes diversificadas, incluindo fundos europeus, e instruir e acompanhar os respetivos processos de candidatura;
+
+p) Efetuar inspeções técnicas, em coordenação com a IGFA;
+
+q) Promover e apoiar a implementação de medidas no âmbito de programas de eficiência energética e de recursos;
+
+r) Gerir os processos de disponibilização de locação de meios aéreos para combate aos incêndios rurais;
+
+s) (Revogada.)
+
+t) (Revogada.)
+
+u) (Revogada.)
+
+v) (Revogada.)
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 25.º — Estrutura
+
+1 - O CLAFA compreende:
+
+a) O Comandante da Logística da Força Aérea;
+
+b) Os órgãos de apoio direto.
+
+2 - Dependem do CLAFA:
+
+a) A Direção de Abastecimento e Transportes (DAT);
+
+b) A Direção de Comunicações e Sistemas de Informação (DCSI);
+
+c) A Direção de Engenharia e Programas (DEP);
+
+d) A Direção de Infraestruturas (DI);
+
+e) A Direção de Manutenção de Sistemas de Armas (DMSA).
+
+f) O Gabinete do Coordenador de Missão no Âmbito dos Incêndios Rurais (GCMIR).
+
+3 - Depende do CLAFA, como órgão de base, o Depósito Geral de Material da Força Aérea (DGMFA).
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 26.º — Comandante da Logística da Força Aérea
+
+1 - O Comandante da Logística da Força Aérea exerce autoridade hierárquica sobre os órgãos mencionados no artigo anterior e autoridade funcional e técnica, através dos respetivos comandantes, diretores ou chefes, sobre as unidades, estabelecimentos ou órgãos da Força Aérea, no que respeita às seguintes áreas:
+
+a) Manutenção de sistemas de armas;
+
+b) Armamento;
+
+c) Abastecimento;
+
+d) Recursos materiais;
+
+e) Comunicações e sistemas de informação;
+
+f) Infraestruturas;
+
+g) Sistemas de energia;
+
+h) Transportes.
+
+2 - O Comandante da Logística da Força Aérea pode delegar nas entidades que lhe estão diretamente subordinadas a competência para a prática de atos relativos às áreas que lhe estão funcionalmente atribuídas, bem como autorizar a subdelegação da mesma.
+
+3 - O Comandante da Logística da Força Aérea é um tenente-general, na direta dependência do CEMFA.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 27.º — Órgãos de apoio direto
+
+Os órgãos de apoio direto do CLAFA são criados e extintos por despacho do CEMFA.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 28.º — Direção de Abastecimento e Transportes
+
+1 - A DAT tem por missão dirigir a função abastecimento, assegurar a aquisição e gestão dos recursos materiais da sua área de responsabilidade, as operações de catalogação dos materiais e serviços, a gestão das viaturas e equipamentos de apoio, bem como garantir o apoio logístico das deslocações do pessoal em serviço e desenvolver os processos relativos à movimentação dos recursos materiais.
+
+2 - À DAT compete, em especial:
+
+a) Assegurar a execução de atividades no âmbito da gestão de recursos materiais da Força Aérea, na sua área de atuação, promovendo a sua obtenção, receção, distribuição, manutenção, regeneração, inspeção, recuperação e abate;
+
+b) Promover a identificação e satisfação das necessidades de recursos materiais, no âmbito da sua área de atuação, decorrentes dos planos e programas aprovados;
+
+c) Colaborar, na área da sua competência, na definição dos requisitos logísticos dos meios necessários para assegurar as capacidades da Força Aérea e planear o apoio logístico durante o respetivo ciclo de vida;
+
+d) Elaborar a regulamentação técnica e manter a sua atualização, no respeitante às publicações técnicas, ao abastecimento, ao fardamento, ao combustível, à alimentação, e ao transporte de superfície e equipamentos de apoio da Força Aérea;
+
+e) Assegurar a execução de auditorias técnicas e estudos na área logística, nomeadamente no que concerne a disposições regulamentares técnicas relativas a uniformes e artigos de fardamento, alimentação e combustíveis e lubrificantes;
+
+f) Assegurar o cumprimento da regulamentação e das políticas da qualidade, de ambiente, de higiene e segurança no trabalho, e com implicações na prevenção de acidentes;
+
+g) Executar inspeções técnicas, em coordenação com a IGFA;
+
+h) Assegurar a gestão, uniformização, normalização e catalogação do material em uso na Força Aérea, através do seu registo nos sistemas de informação;
+
+i) Assegurar a aquisição e gestão das publicações técnicas necessárias à operação e à manutenção dos sistemas de armas da Força Aérea.
+
+3 - O diretor da DAT é um brigadeiro-general.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 29.º — Direção de Comunicações e Sistemas de Informação
+
+1 - A DCSI tem por missão desenvolver, disponibilizar e assegurar os serviços nas áreas de sistemas de informação, tecnologias de informação, comunicações, navegação e vigilância aeronáuticas, nas vertentes logística, administrativa e de comando e controlo.
+
+2 - À DCSI compete:
+
+a) Assegurar a execução de atividades no âmbito da gestão dos sistemas de comunicações e sistemas de informação da Força Aérea promovendo a sua obtenção, receção, desenvolvimento, distribuição, sustentação, inspeção, recuperação e abate;
+
+b) Promover a identificação e satisfação das necessidades de sistemas de comunicações e informação decorrentes dos planos e programas aprovados;
+
+c) Colaborar na definição dos requisitos dos sistemas de comunicações e informação para assegurar as capacidades da Força Aérea e planear o apoio logístico durante o respetivo ciclo de vida;
+
+d) Elaborar a regulamentação técnica e manter a sua atualização, no respeitante a comunicações e sistemas de informação da Força Aérea;
+
+e) Promover a elaboração de projetos, estudos e auditorias técnicas nas áreas da sua competência;
+
+f) Assegurar o cumprimento das políticas da qualidade, de ambiente, higiene e segurança no trabalho;
+
+g) Executar inspeções técnicas, em coordenação com a IGFA;
+
+h) Dirigir, sustentar e administrar a satisfação das necessidades em termos de comunicações, de sistemas de informação, de comando e controlo, de ajudas à navegação aérea, e de vigilância no âmbito da segurança militar.
+
+3 - Depende da DCSI o Centro de Manutenção Eletrónica (CME).
+
+4 - O diretor da DCSI é um brigadeiro-general.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 30.º — Direção de Engenharia e Programas
+
+1 - A DEP tem por missão conduzir atividades de engenharia em todas as fases do ciclo de vida dos sistemas de armas, bem como gerir os programas e projetos do portefólio da Força Aérea que lhe forem atribuídos e, ainda, garantir o cumprimento dos requisitos para a certificação da aeronavegabilidade das aeronaves militares.
+
+2 - À DEP compete, em especial:
+
+a) Garantir o sistema de gestão da qualidade e aeronavegabilidade da Força Aérea;
+
+b) Contribuir para o cumprimento dos requisitos de aeronavegabilidade continuada e permanente e da gestão da manutenção das aeronaves militares;
+
+c) Colaborar na definição dos requisitos logísticos, na sua área de atuação, dos meios e sistemas necessários para assegurar as capacidades da Força Aérea;
+
+d) Conduzir atividades de engenharia, experimentação e evolução tecnológica, em todas as fases do ciclo de vida dos sistemas de armas, bem como gerir os programas e projetos do portefólio da Força Aérea que lhe forem atribuídos;
+
+e) Elaborar a regulamentação técnica e manter a sua atualização, no respeitante à sua área de atuação;
+
+f) Promover a elaboração de projetos, estudos e auditorias técnicas nas áreas da sua competência;
+
+g) Assegurar o cumprimento da regulamentação e das políticas da qualidade, de ambiente, de higiene e segurança no trabalho, e com implicações na prevenção de acidentes;
+
+h) Executar inspeções técnicas, em coordenação com a IGFA;
+
+i) Dirigir e controlar programas de sistemas de comando e controlo, radares e comunicações integrados nos sistemas de defesa aérea;
+
+j) Assegurar a implementação das políticas de interoperabilidade dos sistemas de armas e comando e controlo a integrar no sistema de forças;
+
+k) Colaborar na edificação e promover a sustentação de capacidades de simulação e treino sintético na Força Aérea;
+
+l) Apoiar tecnicamente a exploração operacional dos sistemas de guerra eletrónica;
+
+m) Dirigir e controlar os processos associados ao segmento espacial na área de atuação da Força Aérea;
+
+n) Participar e conduzir atividades de investigação, desenvolvimento e inovação, de interesse para a Força Aérea;
+
+o) Identificar oportunidades de financiamento de fontes diversificadas, incluindo fundos europeus, e instruir, coordenar e acompanhar os respetivos processos de candidaturas, atuando como entidade coordenadora;
+
+p) Supervisionar o Laboratório de Metrologia da Força Aérea, de acordo com as normas aplicáveis.
+
+3 - O diretor da DEP é um brigadeiro-general.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 31.º — Direção de Infraestruturas
+
+1 - A DI tem por missão dirigir o projeto, a construção, a recuperação e a conservação de infraestruturas, bem como gerir o património em utilização pela Força Aérea.
+
+a) Assegurar a execução de atividades no âmbito da gestão das infraestruturas da Força Aérea, promovendo a sua edificação, manutenção, regeneração e inspeção;
+
+b) Promover a identificação e satisfação das necessidades de infraestruturas decorrentes dos planos e programas aprovados;
+
+c) Colaborar na definição dos requisitos logísticos das infraestruturas necessárias para assegurar as capacidades da Força Aérea e planear o apoio logístico durante o respetivo ciclo de vida;
+
+d) Conduzir atividades de engenharia em todas as fases do ciclo de vida das infraestruturas da Força Aérea, bem como gerir os programas e projetos do seu portefólio que lhe forem atribuídos;
+
+e) Elaborar a regulamentação técnica e manter a sua atualização, no respeitante a construção e manutenção de infraestruturas e gestão do património imobiliário da Força Aérea;
+
+f) Promover a elaboração de projetos, estudos técnicos e auditorias técnicas nas áreas da sua competência;
+
+g) Promover ou elaborar projetos de infraestruturas, assegurando o seu controlo e execução;
+
+h) Assegurar a emissão de pareceres e subsequente fiscalização no âmbito do licenciamento de construções e de obras nas áreas abrangidas por servidões militares;
+
+i) Assegurar o cumprimento da regulamentação e das políticas da qualidade, de ambiente, de higiene e segurança no trabalho, e com implicações na prevenção de acidentes;
+
+j) Executar inspeções técnicas, em coordenação com a IGFA;
+
+k) Promover e apoiar medidas de melhoria que visem tornar a Força Aérea mais eficiente ao nível da gestão energética e de recursos no âmbito das infraestruturas.
+
+3 - Depende da DI o Centro de Engenharia de Aeródromos (CEA).
+
+4 - O diretor da DI é um brigadeiro-general.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 32.º — Direção de Manutenção de Sistemas de Armas
+
+1 - A DMSA tem por missão gerir a sustentação dos sistemas de armas da responsabilidade da Força Aérea, no âmbito dos requisitos definidos de aeronavegabilidade continuada, tempo e custo.
+
+2 - À DMSA compete, em especial:
+
+a) Garantir o cumprimento dos requisitos de aeronavegabilidade continuada e permanente e da gestão da manutenção das aeronaves militares;
+
+b) Assegurar a execução de atividades no âmbito da gestão de recursos afetos à manutenção aeronáutica, na sua área de atuação, promovendo a sua obtenção, receção, distribuição, manutenção, regeneração, inspeção, recuperação e abate;
+
+c) Promover a identificação e satisfação das necessidades de recursos materiais, no âmbito da sua área de atividade, decorrentes dos planos e programas aprovados;
+
+d) Colaborar na definição dos requisitos logísticos dos sistemas de armas necessários para assegurar as capacidades da Força Aérea e planear o respetivo apoio logístico durante o seu ciclo de vida;
+
+e) Elaborar a regulamentação técnica e manter a sua atualização, no respeitante a manutenção dos sistemas de armas e armamento da Força Aérea;
+
+f) Assegurar o cumprimento das políticas da qualidade, de ambiente, higiene e segurança no trabalho no âmbito da manutenção de sistemas de armas;
+
+g) Executar inspeções técnicas, em coordenação com a IGFA;
+
+h) Executar auditorias técnicas nas suas áreas de competências.
+
+3 - O diretor da DMSA é um major-general.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 32.º-A — Gabinete Coordenador de Missão no âmbito dos Incêndios Rurais
+
+1 - O GCMIR tem por missão a gestão centralizada dos contratos de disponibilização e locação de meios aéreos e de aquisição de serviços de operação, manutenção e gestão da aeronavegabilidade dos meios aéreos próprios do Estado afetos à Força Aérea com registo civil, dedicados exclusivamente ao Dispositivo Especial de Combate a Incêndios Rurais (DECIR) e demais missões de proteção civil e de segurança interna.
+
+2 - Ao GCMIR compete, em especial:
+
+a) Garantir o cumprimento dos requisitos de aeronavegabilidade continuada e permanente e da gestão da manutenção das aeronaves do Estado afetas à Força Aérea com registo civil;
+
+b) Planear, dirigir, executar e controlar os processos de disponibilização e locação de meios aéreos para combate aos incêndios rurais, bem como os relativos aos serviços de operação, manutenção e gestão da aeronavegabilidade de aeronaves com registo civil;
+
+c) Desenvolver as atividades conducentes à coordenação com a Autoridade Nacional de Emergência e Proteção Civil, e outras entidades do Sistema de Gestão Integrada de Fogos Rurais nos termos legalmente previstos, para a definição do dispositivo de meios aéreos, no que concerne à sua tipologia, número, localização e período da operação, no âmbito do DECIR.
+
+3 - O GCMIR é dirigido por um oficial general, na situação de reserva.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção IV — Direção de Finanças da Força Aérea
+
+> Aditado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 33.º — Missão e competências
+
+1 - A Direção de Finanças da Força Aérea (DFFA) tem por missão assegurar a administração dos recursos financeiros postos à disposição da Força Aérea, de acordo com os planos e diretivas aprovadas pelo CEMFA.
+
+2 - À DFFA compete:
+
+a) Elaborar a proposta orçamental da Força Aérea, colaborar na elaboração dos planos financeiros e correspondentes propostas orçamentais, relativos à LPM, LIM e outros projetos ou programas de investimento, e gerir e controlar os orçamentos aprovados;
+
+b) Assegurar a prestação de contas mensal e trimestral consolidada e da conta de gerência da Força Aérea, junto do Tribunal de Contas;
+
+c) Assegurar a efetivação e o controlo do processamento dos vencimentos, pensões, outros abonos e respetivos descontos do pessoal militar e civil da Força Aérea;
+
+d) Assegurar os serviços de tesouraria central, de acordo com o regime da tesouraria do Estado;
+
+e) Apoiar e controlar a gestão financeira dos órgãos, cuja responsabilidade seja atribuída à DFFA;
+
+f) Assegurar o cumprimento das obrigações fiscais, contributivas e declarativas da Força Aérea, nos termos da legislação em vigor;
+
+g) Assegurar a contabilidade de gestão, a avaliação sistemática da situação financeira da Força Aérea e apresentar às entidades competentes os atos de gerência praticados;
+
+h) Elaborar documentação técnica normativa e promover e assegurar o funcionamento do sistema de controlo interno, no âmbito dos recursos financeiros;
+
+i) Executar ações de auditoria interna, de acompanhamento e de apoio técnico, no âmbito dos recursos financeiros e do respetivo sistema de controlo interno;
+
+j) Apoiar o Instituto de Ação Social das Forças Armadas, no âmbito da ADM, relativamente ao processamento das comparticipações do regime de livre escolha dos beneficiários.
+
+3 - Dependem da DFFA:
+
+a) O Serviço Administrativo e Financeiro (SAF);
+
+b) O Serviço de Gestão de Recursos Financeiros (SGRF);
+
+c) O Serviço de Auditoria e Controlo Interno (SACI).
+
+4 - O diretor de Finanças da Força Aérea é um major-general, na direta dependência do CEMFA.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 33.º-A — Serviço Administrativo e Financeiro
+
+O SAF tem por missão assegurar as operações financeiras de natureza central e apoiar e controlar a execução orçamental e a gestão financeira dos órgãos cuja responsabilidade administrativo-financeira lhe seja atribuída.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 33.º-B — Serviço de Gestão de Recursos Financeiros
+
+O SGRF tem por missão assegurar as atividades de planeamento e controlo da gestão dos recursos financeiros e dos vencimentos, pensões e outros abonos, coordenando e elaborando a proposta orçamental e a prestação de contas consolidada da Força Aérea, e desenvolver a contabilidade de gestão e outra informação financeira relevante, como instrumentos de apoio à gestão e à tomada de decisão.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 33.º-C — Serviço de Auditoria e Controlo Interno
+
+O SACI tem por missão assegurar as ações de auditoria e controlo regular da atividade administrativo-financeira e promover o sistema de controlo interno no âmbito da gestão dos recursos financeiros da Força Aérea.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+### Capítulo IV — Comando da componente aérea
+
+> Alterado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção I — Disposições gerais
+
+> Alterado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394)
+
+###### Artigo 34.º — Missão e competências
+
+1 - O CA é o comando da componente aérea.
+
+2 - O CA tem por missão apoiar o exercício do comando por parte do CEMFA, tendo em vista:
+
+a) A preparação, o aprontamento e a sustentação das forças e meios da componente operacional do sistema de forças;
+
+b) O cumprimento das missões que sejam atribuídas pelo Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) à Força Aérea;
+
+c) O exercício da autoridade do Estado nas zonas marítimas sob soberania ou jurisdição nacional e no alto-mar, nos termos da lei e do direito internacional;
+
+d) As missões relativas ao serviço de busca e salvamento aéreo, da responsabilidade da Força Aérea;
+
+e) Participar na cooperação das Forças Armadas com as forças e serviços de segurança, nos termos da lei;
+
+f) Colaborar em missões de proteção civil e em tarefas relacionadas com a satisfação das necessidades básicas e a melhoria da qualidade de vida das populações, incluindo o combate aos incêndios rurais, nos termos da lei;
+
+g) O planeamento e o comando e controlo da atividade aérea;
+
+h) A recolha, processamento, exploração e disseminação de informação operacional de forma centralizada;
+
+i) A administração e direção das unidades e órgãos da componente fixa, colocados na sua direta dependência;
+
+j) O planeamento, a direção e o controlo da segurança militar das unidades e órgãos da Força Aérea.
+
+3 - Para efeitos de apoio ao exercício do comando por parte do CEMGFA, e por sua determinação, o CA é colocado, pelo CEMFA, na dependência direta do CEMGFA, e relaciona-se diretamente com o Comando Conjunto para as Operações Militares (CCOM), atuando de acordo com as modalidades de comando e controlo a definir caso a caso pelo CEMGFA.
+
+4 - Sem prejuízo das competências do CCOM, ao CA compete:
+
+a) Planear, dirigir e controlar o emprego dos meios da Força Aérea, na defesa, vigilância e controlo do espaço aéreo nacional;
+
+b) Supervisionar e controlar outras atividades aéreas militares que se desenvolvam no espaço aéreo ou tenham apoio em território nacional;
+
+c) Coordenar a utilização do espaço aéreo com as autoridades civis competentes, em tempo de paz, e assumir o seu controlo nos termos da declaração do estado de sítio ou no estado de guerra;
+
+d) Promover e garantir os estados de prontidão superiormente definidos para a componente operacional do sistema de forças da responsabilidade da Força Aérea;
+
+e) Garantir a recolha, processamento, exploração e disseminação de informações de âmbito operacional;
+
+f) Programar, dirigir e controlar as atividades relativas aos sistemas de comando e controlo aéreo;
+
+g) Planear o apoio logístico inerente à movimentação, sustentação e emprego das forças;
+
+h) Promover, dirigir e controlar as atividades relativas à prevenção de acidentes e proteção ambiental;
+
+i) Promover, dirigir e controlar as atividades de instrução e treino e qualificação operacional, bem como no âmbito da segurança militar;
+
+j) Planear, coordenar e supervisionar as medidas ativas e passivas de deteção, dissuasão e controlo ou a repressão de ameaças à segurança militar;
+
+k) Assegurar a operacionalidade do sistema de comando e controlo aéreo de Portugal;
+
+l) Assegurar a prontidão dos meios afetos às atividades de projeção e mobilidade;
+
+m) Articular com o Serviço de Policiamento Aéreo o exercício das respetivas competências nos termos da legislação aplicável;
+
+n) Assegurar o funcionamento do Serviço de Busca e Salvamento Aéreo e coordenar as ações de assistência e socorro relativas a acidentes ocorridos com aeronaves;
+
+o) Garantir a capacidade associada à execução de missões de reconhecimento, vigilância e informações;
+
+p) Garantir o emprego das unidades aéreas necessárias ao Sistema Integrado de Vigilância, Fiscalização e Controlo das Atividades da Pesca, bem como integrar, nos termos da lei, a Comissão de Planeamento e Programação deste sistema;
+
+q) Assegurar a coordenação permanente com o Instituto Nacional de Emergência Médica, I. P., e o emprego das unidades aéreas necessárias às evacuações sanitárias por meios aéreos no âmbito do Sistema Integrado de Emergência Médica;
+
+r) Assegurar a permanente ligação às forças e serviços de segurança e à proteção civil, nos termos da legislação aplicável;
+
+s) Planear, dirigir e controlar as atividades de defesa passiva e ativa relativas à proteção da Força.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 35.º — Estrutura
+
+1 - O CA compreende:
+
+a) O Comandante Aéreo;
+
+b) O 2.º Comandante Aéreo;
+
+c) Os órgãos de apoio direto;
+
+d) Os órgãos de operações aéreas;
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+2 - Dependem do CA:
+
+a) Os comandos de zona aérea;
+
+b) As bases aéreas;
+
+c) Os aeródromos de manobra;
+
+d) Os aeródromos de trânsito;
+
+e) A Unidade de Aprontamento e Apoio Operacional (UAAO);
+
+f) As estações de radar;
+
+g) (Revogada.)
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 36.º — Comandante Aéreo
+
+1 - O Comandante Aéreo exerce autoridade hierárquica sobre os órgãos mencionados no artigo anterior e autoridade funcional e técnica, através dos respetivos comandantes, diretores ou chefes, das unidades, estabelecimentos e órgãos da Força Aérea, no que respeita à seguintes áreas:
+
+a) Operações aéreas;
+
+b) Segurança militar.
+
+2 - O Comandante Aéreo é responsável pela direção, coordenação e controlo das atividades desenvolvidas pelo serviço de policiamento aéreo.
+
+3 - O Comandante Aéreo exerce autoridade funcional e técnica sobre o CMA, no âmbito da fisiologia de voo.
+
+4 - O Comandante Aéreo pode delegar nos órgãos que lhe estão diretamente subordinados a competência para a prática de atos relativos às áreas que lhe estão funcionalmente atribuídas, bem como autorizar a subdelegação da mesma.
+
+5 - O Comandante Aéreo é um tenente-general, na direta dependência do CEMFA.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 37.º — 2.º Comandante Aéreo
+
+1 - Ao 2.º Comandante Aéreo compete coadjuvar o Comandante Aéreo no exercício das suas funções e substituí-lo nas suas ausências e impedimentos.
+
+2 - O 2.º Comandante Aéreo é um major-general piloto aviador.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 38.º — Órgãos de apoio direto
+
+Os órgãos de apoio direto do CA são criados e extintos por despacho do CEMFA.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 39.º — Órgãos de operações aéreas
+
+1 - Os órgãos de operações aéreas têm por missão gerir a atividade aérea da Força Aérea, a defesa aérea e o policiamento do espaço nacional.
+
+2 - Aos órgãos de operações aéreas compete:
+
+a) Vigiar e controlar o espaço estratégico de interesse nacional permanente, a fim de dissuadir ameaças ou agressões e garantir a liberdade de utilização das linhas de comunicação aéreas e marítimas;
+
+b) Planear e conduzir missões de forma a combater as ameaças de natureza global e os riscos de natureza ambiental no âmbito das missões atribuídas pelo CEMGFA;
+
+c) Planear, dirigir e controlar a atividade aérea da Força Aérea;
+
+d) Supervisionar ou controlar, quando necessário, a atividade aérea militar que decorra no espaço aéreo nacional ou que tenha apoio em território nacional;
+
+e) Elaborar e disseminar os planos diários de execução da atividade aérea da Força Aérea, incluindo a utilização militar do espaço aéreo;
+
+f) Desenvolver procedimentos para a gestão do tráfego aéreo, nas áreas de responsabilidade militar, assegurando a prestação de serviços de tráfego aéreo, em coordenação com os órgãos civis;
+
+g) Garantir a informação meteorológica necessária ao planeamento e à execução das operações;
+
+h) Adotar as medidas adequadas às mudanças de situação aérea, incluindo as decorrentes das alterações dos estados de alerta;
+
+i) Efetuar a vigilância do espaço aéreo e dirigir e controlar os meios de defesa aérea e de policiamento aéreo atribuídos;
+
+j) Assegurar o cumprimento dos programas de qualificação e treino do pessoal que garante a atividade e controlar a sua execução;
+
+k) Iniciar, conduzir, controlar e coordenar as ações de busca e salvamento nas suas áreas de responsabilidade;
+
+l) Coordenar as operações aéreas com as ações navais e terrestres, estabelecendo a ligação necessária com os comandos navais e terrestres;
+
+m) Coordenar a atividade aérea com os organismos civis envolvidos, no âmbito das outras missões de interesse público que forem cometidas à Força Aérea;
+
+n) Elaborar as normas e procedimentos relativos à atividade de assistência e socorros;
+
+o) Programar e coordenar o transporte de passageiros e de carga em aeronaves da Força Aérea;
+
+p) Recolher, processar, explorar e disseminar, conforme adequado, a informação operacional de forma centralizada;
+
+q) Elaborar o planeamento operacional para o emprego dos meios, de acordo com as diretivas definidas superiormente.
+
+r) (Revogada.)
+
+s) (Revogada.)
+
+t) (Revogada.)
+
+u) (Revogada.)
+
+v) (Revogada.)
+
+w) (Revogada.)
+
+x) (Revogada.)
+
+y) (Revogada.)
+
+z) (Revogada.)
+
+aa) (Revogada.)
+
+bb) (Revogada.)
+
+cc) (Revogada.)
+
+dd) (Revogada.)
+
+ee) (Revogada.)
+
+ff) (Revogada.)
+
+gg) (Revogada.)
+
+hh) (Revogada.)
+
+ii) (Revogada.)
+
+3 - Os órgãos de operações aéreas são dirigidos por um brigadeiro-general piloto aviador, designado por diretor das Operações Aéreas.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 40.º — Órgãos de apoio às operações
+
+1 - Os órgãos de apoio às operações têm por missão o planeamento e apoio à atividade operacional da Força Aérea.
+
+2 - Aos OAO compete:
+
+a) Desenvolver as normas e procedimentos para a gestão do tráfego aéreo, nas áreas de responsabilidade militar e assegurar a gestão de espaço aéreo em coordenação com os órgãos civis;
+
+b) Garantir a informação meteorológica necessária ao planeamento e à conduta das operações;
+
+c) Assegurar o acesso aos diversos sistemas de informação e tecnologias de comunicação e garantir a sua operacionalidade;
+
+d) Assegurar a operacionalidade do Sistema de Comando e Controlo Aéreo (ACCS) de Portugal;
+
+e) Assegurar a prontidão e a exploração dos meios móveis de comando e controlo;
+
+f) Assegurar a prontidão do TACP;
+
+g) Coordenar o emprego do TACP no apoio aos outros ramos das Forças Armadas, no teatro de operações e, em missões especiais, envolvendo as forças e serviços de segurança;
+
+h) Promover a prontidão operacional do NOTP;
+
+i) Assegurar a prontidão dos meios atribuídos ao Núcleo de Mobilidade.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 41.º — Grupo de Apoio
+
+1 - O GA tem por missão assegurar o funcionamento administrativo e logístico do CA e apoiar administrativamente as unidades, na dependência deste Comando, que não sejam dotadas de meios próprios.
+
+2 - Ao GA compete:
+
+a) Garantir a administração financeira do CA e a gestão logística dos meios materiais de intendência;
+
+b) Garantir o funcionamento administrativo-financeiro das unidades, na dependência do CA, que não dispõem de meios próprios para a execução dessa função;
+
+c) Assegurar a operacionalidade e manutenção das infraestruturas, dos transportes, dos equipamentos e ou sistemas elétricos, eletrónicos e térmicos atribuídos, bem como manter operacionais os meios de prevenção e combate a incêndios, de acordo com as normas em vigor;
+
+d) Assegurar a segurança militar e defesa imediata do Complexo Militar de Monsanto;
+
+e) Assegurar o apoio na área de administração e assistência ao pessoal do CA e promover as condições para melhoria da sua formação e bem-estar;
+
+f) Assegurar a função logística abastecimento, com vista a obter, distribuir, armazenar e gerir as existências do material necessário ao CA, bem como promover a aquisição dos bens e serviços destinados a apoiar o seu normal funcionamento;
+
+g) Garantir a execução dos processos administrativos relativos à aquisição de bens, serviços e empreitadas de obras públicas necessários ao CA;
+
+h) Assegurar o estado sanitário do pessoal do CA.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 42.º — Gabinete Coordenador de Segurança Militar da Força Aérea
+
+1 - O GCSMFA tem por missão planear, dirigir e controlar a segurança militar e defesa imediata das unidades e órgãos da Força Aérea.
+
+2 - Ao GCSMFA compete:
+
+a) Assessorar o Comandante Aéreo, elaborando estudos no âmbito da proteção da força, englobando os vetores de segurança militar e defesa imediata, defesa antiaérea, emprego de recursos cinotécnicos, inativação de engenhos explosivos convencionais, improvisados e de proteção no âmbito nuclear, radiológico, biológico ou químico (NRBQ);
+
+b) Identificar as vulnerabilidades das unidades e órgãos da Força Aérea, em função da avaliação da ameaça, e promover a mitigação dos riscos;
+
+c) Coordenar e controlar as atividades de segurança das unidades e órgãos da Força Aérea;
+
+d) Implementar os conceitos de operações e estabelecer os critérios para a elaboração dos planos de contingência, na sua área de responsabilidade;
+
+e) Propor a alteração dos estados de segurança das unidades e órgãos da Força Aérea, decorrente da avaliação da situação;
+
+f) Propor a ativação da Célula de Coordenação de Segurança e Defesa;
+
+g) Efetuar inspeções setoriais aos serviços sob a sua dependência funcional, em coordenação com a IGFA;
+
+h) Supervisionar a prontidão operacional do NOTP;
+
+i) Planear, coordenar e supervisionar as medidas ativas e passivas de deteção, dissuasão e controlo ou a repressão ao tráfico e consumo de drogas ilícitas e ao abuso de álcool, enquanto ameaças à segurança militar.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção II — Comando do Pessoal da Força Aérea
+
+> Alterado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394)
+
+###### Artigo 43.º — Missão e competências
+
+1 - O Comando da Zona Aérea dos Açores (CZAA) tem por missão:
+
+a) Planear, dirigir e controlar a prontidão dos sistemas de armas, quando atribuídos;
+
+b) Assegurar o respeito pela soberania nacional, nos termos previstos nos acordos internacionais aplicáveis, durante o estacionamento de forças estrangeiras.
+
+c) Planear, dirigir e controlar a atividade aérea, na área da sua responsabilidade, para execução dos planos e diretivas superiormente aprovadas;
+
+d) Assegurar, nos termos que estiverem estabelecidos nos respetivos acordos internacionais, as relações com as forças estrangeiras estacionadas nas unidades de base na sua dependência hierárquica, sem prejuízo das competências próprias dos comandantes destas.
+
+2 - Ao CZAA compete:
+
+a) Planear, dirigir e controlar a atividade aérea, na sua área de responsabilidade, para execução dos planos e diretivas superiormente aprovadas;
+
+b) Assegurar, nos termos previstos nos acordos internacionais aplicáveis, as relações com as forças estrangeiras estacionadas na Base Aérea n.º 4, sem prejuízo das competências próprias do comandante desta unidade;
+
+c) Assegurar, nos termos da lei, a ligação com as forças e serviços de segurança e proteção civil, em coordenação com o Comandante Aéreo e com o Comandante Operacional dos Açores;
+
+d) Garantir o funcionamento permanente do Centro de Coordenação de Busca e Salvamento das Lajes e a eficaz organização dos recursos a utilizar no controlo e coordenação das ações de busca e salvamento;
+
+e) Apoiar as missões de transporte aéreo militar na Zona Aérea dos Açores e entre esta e o território continental, nos termos das diretivas e regulamentos superiores;
+
+f) Contribuir para a regular afetação dos bens do domínio público sob responsabilidade da Força Aérea na ZAA;
+
+g) Garantir o funcionamento da Rádio Lajes.
+
+h) Sem prejuízo das modalidades de comando e controlo a definir pelo CEMGFA para a condução de operações militares, articula-se com o Comando Operacional dos Açores;
+
+i) Apoiar o Comando Operacional dos Açores de acordo com as respetivas capacidades instaladas.
+
+3 - o Comandante do CZAA depende diretamente do Comandante Aéreo, com exceção do disposto nos n.os 4 e 5.
+
+4 - Para efeitos do disposto na alínea b) do n.º 2, o Comandante do CZAA depende diretamente do CEMFA.
+
+5 - Para efeitos do disposto na alínea a) do n.º 1 do artigo 35.º do Decreto-Lei n.º 19/2022, de 24 de janeiro, o Comandante do CZAA depende do Comando Operacional dos Açores.
+
+6 - O Comandante do CZAA é um brigadeiro-general piloto aviador.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 44.º — Comandante da Zona Aérea dos Açores
+
+1 - O Comandante da ZAA depende diretamente do Comandante Aéreo, com exceção do disposto nos números seguintes.
+
+2 - Para efeitos do disposto na alínea b) do n.º 2 do artigo anterior, o Comandante do ZAA depende diretamente do CEMFA.
+
+3 - Para efeitos da alínea a) do n.º 1 do artigo 21.º do Decreto-Lei n.º 184/2014, de 29 de dezembro, o Comandante da ZAA depende do Comandante Operacional dos Açores.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção III — Comando da Logística da Força Aérea
+
+> Alterado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394)
+
+###### Artigo 45.º — Missão e competências
+
+1 - O Comando da Zona Aérea da Madeira (CZAM) tem por missão:
+
+a) Planear, dirigir e controlar a prontidão dos sistemas de armas quando atribuídos;
+
+b) Planear, dirigir e controlar a atividade aérea, na área da sua responsabilidade, para execução dos planos e diretivas superiormente aprovadas;
+
+c) Planear, dirigir e controlar a atividade aérea, na área da sua responsabilidade, para execução dos planos e diretivas superiormente aprovadas;
+
+d) Assegurar, nos termos que estiverem estabelecidos nos respetivos acordos internacionais, as relações com as forças estrangeiras estacionadas nas unidades de base na sua dependência hierárquica, sem prejuízo das competências próprias dos comandantes destas.
+
+2 - Ao CZAM compete, em especial:
+
+a) Planear, dirigir e controlar a atividade aérea, na sua área de responsabilidade, para efeitos de execução dos planos e diretivas superiormente aprovadas;
+
+b) Assegurar, nos termos da lei, a ligação com as forças e serviços de segurança e proteção civil, em coordenação com o Comandante Aéreo e com o Comandante Operacional da Madeira;
+
+c) Contribuir para a regular afetação dos bens do domínio público sob responsabilidade da Força Aérea na Zona Aérea da Madeira (ZAM).
+
+d) Sem prejuízo das modalidades de comando e controlo a definir pelo CEMGFA para a condução de operações militares, articular-se com o Comando Operacional da Madeira;
+
+e) Apoiar o Comando Operacional da Madeira de acordo com as respetivas capacidades instaladas.
+
+3 - O Comandante do CZAM depende diretamente do Comandante Aéreo, com exceção do disposto no número seguinte.
+
+4 - Para efeitos da alínea a) do n.º 1 do artigo 38.º do Decreto-Lei n.º 19/2022, de 24 de janeiro, o Comandante do CZAM depende do Comandante Operacional da Madeira.
+
+5 - O Comandante do CZAM é um coronel piloto aviador.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 46.º — Natureza
+
+1 - Os órgãos de conselho destinam-se a apoiar as decisões do CEMFA em assuntos especiais e importantes na preparação, disciplina e administração da Força Aérea.
+
+2 - São órgãos de conselho do CEMFA:
+
+a) O Conselho Superior da Força Aérea (CSFA);
+
+b) O Conselho Superior de Disciplina da Força Aérea (CSDFA);
+
+c) A Junta Superior de Saúde da Força Aérea (JSSFA).
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+### Capítulo V — Órgãos de conselho
+
+> Alterado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção I — Conselho Superior da Força Aérea
+
+###### Artigo 47.º — Competências
+
+1 - O CSFA é o órgão máximo de consulta do CEMFA.
+
+2 - No âmbito das competências que lhe são cometidas pela Lei Orgânica de Bases da Organização das Forças Armadas (LOBOFA) e do Estatuto dos Militares das Forças Armadas (EMFAR), compete ao Conselho Superior da Força Aérea (CSFA) emitir pareceres sobre:
+
+a) Promoções a oficial general e de oficiais generais;
+
+b) Não satisfação das condições gerais de promoção dos militares, nos termos previstos no EMFAR.
+
+3 - Ao CSFA compete ainda emitir parecer sobre as altas questões da Força Aérea, nomeadamente as respeitantes a:
+
+a) Doutrina de emprego, planeamento, preparação e aprontamento das forças que lhe estão atribuídas;
+
+b) Doutrina geral da organização do ramo;
+
+c) Planos e programas de mobilização para situações de estado de emergência ou guerra.
+
+4 - Ao CSFA compete igualmente pronunciar-se sobre outras questões que o CEMFA entenda submeter à sua apreciação, em especial:
+
+a) Promoções por distinção;
+
+b) Promoções a título excecional;
+
+c) Nomeações para a frequência do Curso de Promoção a Oficial General;
+
+d) A distribuição dos efetivos das especialidades por categorias e postos.
+
+5 - O CSFA é convocado pelo CEMFA, que preside.
+
+6 - O CSFA reúne obrigatoriamente, em plenário, com a presença de todos os tenentes-generais da Força Aérea no ativo, quando convocados para se pronunciar sobre as matérias previstas na alínea a) do n.º 2.
+
+7 - O CSFA reúne em sessão restrita, com a presença dos tenentes-generais com funções de comando ou direção na Força Aérea, para se pronunciar sobre as matérias previstas na alínea b) do n.º 2 e nos n.os 3 e 4.
+
+8 - As funções de secretariado do CSFA são desempenhadas pelo tenente-general mais moderno presente na reunião.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 48.º — Funcionamento e composição
+
+1 - O CSFA é convocado pelo CEMFA.
+
+2 - O CSFA reúne obrigatoriamente, em plenário, com a presença de todos os tenentes-generais da Força Aérea no ativo, quando convocado para se pronunciar sobre as matérias previstas na alínea a) do n.º 1 do artigo anterior.
+
+3 - O CSFA reúne em sessão restrita, com a presença dos tenentes-generais com funções de comando ou direção na Força Aérea, para se pronunciar sobre as matérias não previstas no número anterior.
+
+4 - As funções de secretário do CSFA são desempenhadas pelo tenente-general mais moderno presente na reunião.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção II — Conselho Superior de Disciplina da Força Aérea
+
+###### Artigo 49.º — Conselho Superior de Disciplina da Força Aérea
+
+1 - O CSDFA é o órgão consultivo e de apoio ao CEMFA em matéria disciplinar.
+
+2 - A composição, funcionamento e competências do CSDFA constam do Regulamento de Disciplina Militar.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção III — Comissão Histórico-Cultural da Força Aérea
+
+###### Artigo 50.º — Funcionamento e composição
+
+O funcionamento e a composição da Comissão Histórico-Cultural da Força Aérea são definidos por despacho do CEMFA.
+
+> Revogado pelo/a Artigo 109.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção IV — Junta Superior de Saúde da Força Aérea
+
+###### Artigo 51.º — Junta Superior de Saúde da Força Aérea
+
+1 - A JSSFA tem por missão e competência estudar e dar parecer sobre os recursos relativos às decisões das entidades competentes, baseadas em pareceres formulados por outras juntas médicas da Força Aérea, designadamente as juntas médicas referentes ao pessoal navegante.
+
+2 - Os pareceres da JSSFA são submetidos a homologação do CEMFA.
+
+3 - O presidente da JSSFA é um oficial general, em acumulação de funções ou na reserva.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+### Capítulo VI — Órgão de inspeção
+
+> Alterado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 52.º — Inspeção-Geral da Força Aérea
+
+1 - A IGFA tem por missão apoiar o CEMFA no exercício da função de controlo e avaliação e na prevenção e investigação de acidentes.
+
+2 - À IGFA compete:
+
+a) Programar, coordenar e controlar as atividades de inspeção e auditoria na Força Aérea;
+
+b) Realizar, de acordo com os padrões adequados ao escalão em que se situa, os estudos, análises e inspeções e auditorias necessários à avaliação do cumprimento das leis e regulamentos em vigor, da eficácia, da pertinência e da eficiência da ação da Força Aérea em todas as suas atividades;
+
+c) Realizar as inspeções necessárias à avaliação do funcionamento do próprio sistema de inspeções;
+
+d) Coordenar as atividades de inspeção programadas por si, pelos comandos funcionais e outros órgãos, por forma a obter o melhor rendimento do sistema;
+
+e) Gerir a situação das anomalias, acompanhar as ações corretivas tomadas e pronunciar-se sobre a sua eficácia;
+
+f) Realizar as inspeções, auditorias e investigações específicas determinadas pelo CEMFA;
+
+g) Articular com outras forças aéreas o intercâmbio da informação no âmbito da segurança de voo;
+
+h) Realizar as ações necessárias ao funcionamento do sistema de auditoria do pessoal da Força Aérea.
+
+i) (Revogada.)
+
+j) (Revogada.)
+
+k) (Revogada.)
+
+l) (Revogada.)
+
+m) (Revogada.)
+
+n) (Revogada.)
+
+o) (Revogada.)
+
+3 - No exercício das suas competências, a IGFA articula-se com entidades externas competentes no domínio da inspeção, com as quais coopera e partilha informação, nomeadamente no âmbito do planeamento e resultados, a fim de garantir a racionalidade, complementaridade e sinergia das intervenções.
+
+4 - A IGFA compreende:
+
+a) O Gabinete de Prevenção de Acidentes (GPA);
+
+b) Os departamentos de inspeção e auditoria;
+
+c) Os órgãos de apoio direto.
+
+5 - Os departamentos de inspeção e auditoria e os órgãos de apoio direto da IGFA são criados e extintos por despacho do CEMFA.
+
+6 - Depende da IGFA a Comissão Central de Investigação (COCINV), cuja composição e funcionamento são definidas por despacho do CEMFA.
+
+7 - A IGFA é dirigida por um oficial general, na situação de reserva, designado por inspetor-geral da Força Aérea, na dependência direta do CEMFA.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 52.º-A — Gabinete de Prevenção de Acidentes
+
+O GPA tem por missão superintender tecnicamente as unidades, estabelecimentos ou órgãos da Força Aérea, no que respeita à área da prevenção de acidentes.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+### Capítulo VII — Órgãos de base
+
+> Alterado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção I — Academia da Força Aérea
+
+###### Artigo 53.º — Disposições gerais
+
+1 - A AFA é um estabelecimento de ensino superior público universitário militar, regulado por legislação própria.
+
+2 - O Comandante da AFA é um major-general, na direta dependência do CEMFA.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção II — Órgãos de base na dependência do Vice-Chefe do Estado-Maior da Força Aérea
+
+###### Artigo 54.º — Unidade de Apoio de Lisboa
+
+1 - A UAL tem por missão prestar apoio logístico e administrativo às unidades, estabelecimentos e órgãos definidos por despacho do CEMFA, assim como aos militares adidos.
+
+2 - À UAL compete, em especial:
+
+a) Garantir a exploração contínua, eficiente e segura das comunicações e sistemas de informação nas unidades, estabelecimentos e órgãos apoiados;
+
+b) Organizar e realizar os funerais dos militares da Força Aérea falecidos;
+
+c) Assegurar a prevenção de acidentes nos domínios da segurança em terra e ambiente e da segurança de armamento e mísseis nas unidades, estabelecimentos e órgãos apoiados;
+
+d) Assegurar a prontidão dos meios de transporte terrestre, as ações de manutenção e conservação das infraestruturas, dos sistemas de energia, dos sistemas de comunicações e de informação, dos sistemas de vigilância eletrónica e dos sistemas de assistência e socorro às unidades, estabelecimentos e órgãos apoiados;
+
+e) Prestar apoio administrativo, logístico e sanitário aos militares e civis colocados nas unidades, estabelecimentos e órgãos apoiados, bem como aos militares adidos;
+
+f) Garantir a segurança militar e a defesa imediata da Unidade.
+
+g) (Revogada.)
+
+h) (Revogada.)
+
+i) (Revogada.)
+
+j) (Revogada.)
+
+k) (Revogada.)
+
+l) (Revogada.)
+
+m) (Revogada.)
+
+n) (Revogada.)
+
+o) (Revogada.)
+
+p) (Revogada.)
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 54.º-A — Serviço Jurídico da Força Aérea
+
+1 - O SJFA tem por missão conduzir os assuntos de natureza jurídica, no âmbito das atribuições e competências da Força Aérea, sob a dependência técnica e funcional do assessor jurídico do CEMFA.
+
+2 - Ao SJFA compete, em especial:
+
+a) Emitir pareceres, elaborar informações e realizar estudos jurídicos sobre quaisquer questões ou processos submetidos à sua apreciação, assegurando, sempre que necessária, a sua coordenação com as unidades, estabelecimentos e órgãos da Força Aérea;
+
+b) Analisar e elaborar os projetos de diplomas legais e de regulamentação com interesse para a Força Aérea;
+
+c) Assessorar juridicamente as unidades, estabelecimentos e órgãos da Força Aérea;
+
+d) Acompanhar, instruir ou intervir em processos de natureza judicial, administrativa, ou outra, em que a Força Aérea seja parte interessada, incluindo elaborar projetos de resposta no âmbito dos recursos hierárquicos;
+
+e) Assegurar a conformidade legal e regulamentar dos atos praticados no âmbito da atividade de contratação pública;
+
+f) Colaborar com os órgãos e serviços do Ministério da Defesa Nacional (MDN) e do EMGFA, no âmbito das suas competências;
+
+g) Funcionar como ponto de contacto em relação ao exterior, na área jurídica, sem prejuízo das competências do GABCEMFA;
+
+h) Compilar, classificar e divulgar a legislação e regulamentação de interesse para a Força Aérea;
+
+i) Emitir normas de natureza especializada sobre assuntos de natureza jurídica;
+
+j) Executar inspeções técnicas, em coordenação com a IGFA;
+
+k) Colaborar com as unidades, estabelecimentos e órgãos no âmbito do ensino e formação na definição e implementação, nomeadamente a docência, dos conteúdos programáticos das disciplinas da área de direito.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 55.º — Serviço de Documentação da Força Aérea
+
+1 - O SDFA tem por missão assegurar o funcionamento do sistema de documentação da Força Aérea.
+
+2 - Ao SDFA compete, em especial:
+
+a) Processar e difundir a documentação e informação científica, administrativa e legislativa de interesse para a Força Aérea;
+
+b) Assegurar a difusão, analisar a aplicação e verificar o cumprimento das normas e das técnicas de tratamento de documentação e informação não classificada;
+
+c) Processar e controlar o arquivo inativo da Força Aérea;
+
+d) Executar inspeções técnicas, em coordenação com a IGFA.
+
+e) (Revogada.)
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 56.º — Sub-Registo
+
+1 - O SR tem por missão aplicar procedimentos administrativos, de segurança e de normalização, relativos ao acesso e ao controlo da informação classificada por parte do pessoal que presta serviço na Força Aérea.
+
+2 - Ao SR compete, em especial:
+
+a) Assegurar o cumprimento das normas de segurança nacionais e das organizações de que Portugal faz parte, na salvaguarda da informação;
+
+b) Garantir a gestão da informação classificada proveniente dos órgãos nacionais e das organizações de que Portugal faz parte;
+
+c) Processar a credenciação do pessoal da Força Aérea;
+
+d) Coordenar as operações relacionadas com o transporte internacional da documentação classificada;
+
+e) Executar inspeções técnicas, em coordenação com a IGFA, bem como no âmbito da dependência funcional e técnica do Registo Central e Autoridade Nacional de Segurança.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção III — Órgãos de base na dependência do Comando de Pessoal da Força Aérea
+
+###### Artigo 57.º — Centro de Formação Militar e Técnica da Força Aérea
+
+1 - O CFMTFA tem por missão ministrar a formação militar, humanística, técnica e científica do pessoal da Força Aérea, cujo âmbito não esteja coberto pelos órgãos de ensino da Força Aérea e, ainda, garantir a segurança militar e a defesa imediata.
+
+2 - Ao CFMTFA compete:
+
+a) Ministrar cursos de formação militar geral;
+
+b) Ministrar cursos de formação técnica;
+
+c) Garantir o apoio necessário à execução dos cursos de formação e sargentos dos quadros permanentes, ministros pela UPM, nas instalações do CFMTFA;
+
+d) Ministrar cursos de especialização, de qualificação ou de atualização;
+
+e) Ministrar cursos de formação profissional a pessoal civil das Força Aérea;
+
+f) Ministrar cursos de formação em áreas de reconhecido interesse para a Força Aérea ou estabelecidas por acordo do MDN com entidades nacionais e estrangeiras;
+
+g) A certificação de competências no âmbito da formação ministrada.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 57.º-A — Centro de Psicologia da Força Aérea
+
+1 - O CPSIFA tem por missão a avaliação psicológica no âmbito da seleção de pessoal, assim como a intervenção no domínio da psicologia organizacional, em particular nas vertentes aeronáutica e militar.
+
+2 - Ao CPSIFA compete, em especial:
+
+a) Selecionar e classificar os candidatos, civis e militares, oponentes aos concursos internos e externos à Força Aérea, no âmbito das suas características psicológicas;
+
+b) Elaborar e atualizar os perfis de competências para cada especialidade e subespecialidade da Força Aérea, em coordenação com as entidades competentes;
+
+c) Proceder à aplicação, análise e desenvolvimento de instrumentos de avaliação psicológica informatizados, em contexto aeronáutico e de seleção;
+
+d) Avaliar as competências e aptidões cognitivas e instrumentais no âmbito da psicologia do tráfego;
+
+e) Apoiar os alunos militares no decorrer do seu processo de formação e instrução, contribuindo para o desenvolvimento de competências promotoras da sua adaptação;
+
+f) Participar em atividades promotoras da segurança operacional, e em concreto da segurança de voo, através de ações de formação e consultoria a unidades, estabelecimentos e órgãos da Força Aérea;
+
+g) Participar em exercícios nacionais de âmbito operacional, com vista à aquisição, treino, desenvolvimento e aplicação de competências na área de intervenção em crise.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 58.º — Centro de Recrutamento da Força Aérea
+
+1 - O CRFA tem por missão proceder às operações de divulgação e de recrutamento de cidadãos com destino à prestação voluntária do serviço militar, nas suas diferentes formas, e prestar apoio administrativo e social aos militares que se encontram fora da efetividade de serviço.
+
+2 - Ao CRFA compete:
+
+a) Proceder ao recrutamento normal e especial, para a prestação voluntária de serviço militar na Força Aérea, nos quadros permanentes ou em regime de contrato;
+
+b) Planear e coordenar a realização das provas de classificação e seleção dos cidadãos para prestarem serviço militar na Força Aérea;
+
+c) Planear, conceber, executar e coordenar as operações de divulgação dos concursos de admissão da Força Aérea;
+
+d) Prestar apoio administrativo e social aos militares da Força Aérea nas situações de reserva fora da efetividade de serviço, reforma, ex-militares e ainda às famílias de militares falecidos, conforme aplicável;
+
+e) Proceder à convocação dos militares dos quadros permanentes na situação de reserva fora da efetividade de serviço, nos termos do EMFAR;
+
+f) Colaborar na inserção na vida ativa do pessoal na disponibilidade e na reserva fora da efetividade de serviço;
+
+g) Proceder à convocação e mobilização dos cidadãos na situação de reserva de recrutamento ou de disponibilidade, nos termos da Lei do Serviço Militar.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 58.º-A — Serviço de Justiça e Disciplina
+
+1 - O SJD tem por missão estudar e emitir parecer sobre as matérias diretamente relacionadas com a administração da justiça e disciplina na Força Aérea.
+
+2 - Ao SJD compete, em especial:
+
+a) Assessorar o Comandante do Pessoal da Força Aérea em assuntos de justiça e disciplina;
+
+b) Preparar e difundir normas técnicas no âmbito da justiça e disciplina;
+
+c) Controlar os processos, no âmbito da justiça e disciplina, instruídos nas unidades e órgãos da Força Aérea;
+
+d) Apoiar tecnicamente as áreas de justiça e disciplina das unidades e órgãos da Força Aérea na elaboração e instrução dos processos da sua responsabilidade;
+
+e) Estudar e informar ou organizar processos relativos à concessão de ordens honoríficas e condecorações;
+
+f) Apoiar tecnicamente as áreas de pessoal das unidades e órgãos da Força Aérea, na elaboração e instrução de processos de concessão de condecorações;
+
+g) Executar inspeções técnicas, em coordenação com a IGFA.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 58.º-B — Serviço de Ação Social
+
+1 - O SAS tem por missão promover o bem-estar social e assegurar o apoio social ao pessoal da Força Aérea.
+
+2 - Ao SAS compete, em especial:
+
+a) Programar a ação social na Força Aérea, promovendo e acompanhando a execução dos programas;
+
+b) Estudar e propor as medidas tendentes a dar solução a situações sociais com efeito negativo na missão;
+
+c) Coordenar o apoio aos familiares dos militares e civis da Força Aérea em missão no exterior;
+
+d) Coordenar o apoio social aos militares da Força Aérea nas situações de ativo e de reserva na efetividade de serviço e respetivos familiares;
+
+e) Apoiar as unidades e órgãos da Força Aérea, tendo em vista o desenvolvimento das ações de natureza social e o apoio técnico nas áreas de ação social;
+
+f) Organizar e dirigir a realização de atividades culturais e de lazer;
+
+g) Assegurar o cumprimento do Programa para a Prevenção dos Comportamentos Aditivos e Combate às Dependências nas Forças Armadas, nos aspetos relativos à ação social;
+
+h) Executar inspeções técnicas, em coordenação com a IGFA.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 58.º-C — Serviço de Assistência Religiosa
+
+1 - O SAR tem por missão assegurar a assistência religiosa na Força Aérea.
+
+2 - Ao SAR compete, em especial:
+
+a) Planear e coordenar as atividades que respeitem à assistência religiosa;
+
+b) Determinar e prover as necessidades de preparação de pessoal auxiliar e de materiais de culto;
+
+c) Colaborar em ações culturais;
+
+d) Estudar e propor obras de construção, conservação e restauro do património religioso da Força Aérea.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção IV — Órgãos de base na dependência do Comando da Logística da Força Aérea
+
+###### Artigo 59.º — Depósito Geral de Material da Força Aérea
+
+1 - O DGMFA tem por missão receber, armazenar e distribuir o material da Força Aérea sujeito a gestão centralizada.
+
+2 - Ao DGMFA compete:
+
+a) Proceder à receção e integração no sistema integrado de informação, do material utilizado pela Força Aérea sujeito a gestão centralizada e providenciar a sua entrega às unidades, para satisfação das necessidades apresentadas;
+
+b) Manter localizados e em condições de utilização ou de reparação imediata os materiais armazenados, bem como o tratamento do material abatido à corrente geral de abastecimento;
+
+c) Efetuar a identificação e classificação do material, a receção, reprodução e distribuição das publicações técnicas necessárias à Força Aérea e o arquivo de documentos de abastecimento;
+
+d) Fornecer o apoio logístico e administrativo à Repartição de Engenharia de Aeródromos da DI e ao Polo do Museu do Ar de Alverca;
+
+e) Garantir o controlo de tráfego aéreo, meteorologia e comunicações na área de jurisdição da unidade, às aeronaves que a escalem, bem como aquelas cujo movimento e ensaio derivem do acordo de utilização do Aeródromo Militar de Alverca, nos termos do protocolo celebrado com a OGMA - Indústria Aeronáutica de Portugal, S. A.
+
+#### Secção V — Órgãos de base na dependência do Comando Aéreo
+
+###### Artigo 60.º — Bases aéreas
+
+1 - As bases aéreas têm por missão garantir a prontidão das unidades aéreas e o apoio logístico-administrativo de unidades e órgãos nelas sediadas ou destacadas, bem como a segurança militar e a defesa imediata.
+
+2 - As bases aéreas constituem unidades dotadas de aeródromo, com unidades aéreas sediadas ou destinadas a acolher e apoiar destacamentos de longa duração de aeronaves.
+
+3 - As bases aéreas na dependência hierárquica do Comandante Aéreo são:
+
+a) A Base Aérea n.º 1 - Sintra;
+
+b) A Base Aérea n.º 4 - Lajes, através do CZAA;
+
+c) A Base Aérea n.º 5 - Monte Real;
+
+d) A Base Aérea n.º 6 - Montijo;
+
+e) A Base Aérea n.º 8 - Ovar;
+
+f) A Base Aérea n.º 11 - Beja.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 61.º — Aeródromos de manobra
+
+1 - Os aeródromos de manobra têm por missão garantir a prontidão da infraestrutura aeronáutica, o apoio logístico-administrativo de unidades e órgãos neles sediados ou destacados, bem como a segurança militar e a defesa imediata.
+
+2 - Os aeródromos de manobra constituem unidades dotadas de aeródromo destinadas a acolher e apoiar destacamentos temporários de aeronaves.
+
+3 - O Aeródromo de Manobra n.º 3, em Porto Santo, está na dependência hierárquica do Comandante Aéreo, através do CZAM.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 62.º — Aeródromos de trânsito
+
+1 - Os aeródromos de trânsito têm por garantir a prontidão da infraestrutura aeronáutica, o apoio logístico-administrativo de unidades e órgãos neles sediados ou destacados, bem como a segurança militar e a defesa imediata.
+
+2 - Os aeródromos de trânsito constituem unidades destinadas a apoiar a atividade aérea, incluindo para o reabastecimento de meios e apoio a tripulações e passageiros.
+
+3 - O aeródromo de trânsito na dependência hierárquica do Comandante Aéreo é o Aeródromo de Trânsito n.º 1 - Lisboa.
+
+###### Artigo 63.º — Unidade de Aprontamento e Apoio Operacional
+
+1 - A UAAO tem por missão:
+
+a) Disponibilizar à Força Aérea, aos outros ramos das Forças Armadas, às forças de segurança e às indústrias de defesa, os espaços e a segurança necessários para a execução das práticas e experiências com armamento de treino ou real;
+
+b) Ministrar cursos e contribuir para o aprontamento de forças e meios da Força Aérea, designadamente no âmbito da proteção, sobrevivência e salvamento individual e coletivo, incluindo em ambientes de natureza nuclear, radiológica, biológica e química e no reconhecimento e inativação de engenhos explosivos;
+
+c) Assegurar a manutenção da prontidão operacional das capacidades operacionais instaladas, designadamente defesa nuclear, radiológica, biológica e química, reconhecimento e inativação de engenhos explosivos, tactical air control party, operações táticas de projeção, comando e controlo móvel e mobilidade;
+
+d) Garantir a segurança militar e a defesa imediata.
+
+2 - A UAAO apoia no âmbito logístico e administrativo as unidades, estabelecimentos e órgãos da Força Aérea nela instalados.
+
+3 - A UAAO, em Alcochete, está na dependência hierárquica do Comandante Aéreo.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 64.º — Estações de radar
+
+1 - As estações de radar são elementos da componente operacional do sistema de forças, da responsabilidade da Força Aérea, com a missão de garantir a prontidão dos meios de deteção e de comunicações integrados no sistema de comando e controlo aéreo.
+
+2 - As estações de radar na dependência hierárquica do Comandante Aéreo são:
+
+a) A Estação de Radar n.º 1 - Foia;
+
+b) A Estação de Radar n.º 2 - Serra do Pilar;
+
+c) A Estação de Radar n.º 3 - Montejunto;
+
+d) A Estação de Radar n.º 4 - Pico do Areeiro, através do CZAM.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+#### Secção VI — Órgãos de base de natureza cultural
+
+###### Artigo 65.º — Direção Histórico-Cultural da Força Aérea
+
+1 - A Direção Histórico-Cultural da Força Aérea (DHCFA) tem por missão apoiar a representação institucional e a comunicação estratégica da Força Aérea, divulgar e garantir a preservação da sua memória e património histórico-cultural aeronáutico que constitui o acervo dos órgãos de natureza cultural (ONC) na sua dependência, assim como contribuir para o desenvolvimento científico e cultural nacional, no âmbito do ar e das ciências aeronáuticas.
+
+2 - À DHCFA compete, em especial:
+
+a) Dirigir a DHCFA e os ONC na sua direta dependência;
+
+b) Exercer a autoridade funcional e técnica no âmbito da museologia, arquivística e administração do património histórico-cultural aeronáutico, militar e civil, da Força Aérea;
+
+c) Aconselhar o CEMFA em assuntos de natureza cultural;
+
+d) Planear, propor e organizar a representação da Força Aérea e a sua participação em eventos de âmbito cultural histórico-militar nacionais e internacionais;
+
+e) Promover, planear e coordenar a obtenção, recolha, conservação e restauro de património histórico aeronáutico e apoiar a divulgação de estudos de âmbito científico, técnico e cultural sobre o património histórico-militar.
+
+3 - As atividades ou iniciativas de âmbito histórico-cultural das unidades, estabelecimentos e órgãos da Força Aérea são articuladas com a DHCFA.
+
+4 - Dependem da DHCFA os seguintes ONC:
+
+a) O Museu do Ar (MUSAR);
+
+b) O Arquivo Histórico da Força Aérea (AHFA);
+
+c) A revista Mais Alto (MALTO).
+
+5 - O diretor da DHCFA é um oficial general, na situação de reserva, na direta dependência do CEMFA.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 66.º — Museu do Ar
+
+1 - O Museu do Ar (MUSAR) tem por missão colecionar, conservar e preparar para exposição pública o património histórico-museográfico aeronáutico de relevância histórica.
+
+2 - Ao MUSAR compete:
+
+a) Colecionar, estudar, expor e divulgar as peças do seu acervo, dinamizando as relações com o público e garantindo um sistema educativo;
+
+b) Estudar, expor e divulgar os bens culturais de natureza aeronáutica propriedade de museus ou de pessoas singulares ou coletivas, objeto de cedência temporária;
+
+c) Inventariar, catalogar, controlar e promover a conservação e restauro das peças do acervo histórico-cultural aeronáutico da Força Aérea e do património bibliográfico e documental, bem como armazenar o material das reservas nas melhores condições;
+
+d) Coordenar com as unidades, estabelecimentos e órgãos os programas de manutenção das aeronaves à sua guarda, tendo em vista a sua preservação;
+
+e) Colaborar na realização de estudos e pesquisas históricas e museológicas.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 67.º — Arquivo Histórico da Força Aérea
+
+1 - O Arquivo Histórico da Força Aérea (AHFA) tem por missão processar a documentação de valor histórico para a Força Aérea.
+
+2 - Ao AHFA compete:
+
+a) Receber a documentação produzida pela Força Aérea com reconhecido valor histórico-cultural aeronáutico;
+
+b) Receber e fomentar a recolha de espólios documentais de interesse histórico-cultural aeronáutico respeitantes a entidades ou personalidades relacionadas com a Força Aérea;
+
+c) Proceder ao tratamento (organização, descrição e catalogação) do acervo documental à sua guarda;
+
+d) (Revogada.)
+
+e) Produzir instrumentos de descrição documental, tais como catálogos, guias, roteiros e inventários, e promover a sua divulgação;
+
+f) Cooperar em trabalhos de investigação com interesse histórico-cultural aeronáutico;
+
+g) (Revogada.)
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 68.º — Banda de Música da Força Aérea
+
+1 - A BMFA é um ONC sendo a sua dependência definida por despacho do CEMFA.
+
+2 - A BMFA tem como missão assegurar a participação no cerimonial militar da Força Aérea, no protocolo de Estado e em atividades da Força Aérea de caráter cultural, no âmbito da música.
+
+3 - À BMFA compete, em especial:
+
+a) Assegurar o enquadramento musical de atos de índole militar, designadamente dias de unidade, rendições de comando, juramentos de bandeira, guardas de honra, aberturas solenes de ano letivo e desfiles;
+
+b) [Anterior alínea b) do n.º 2.]
+
+c) Executar ações de divulgação técnico-artísticas performativas, promotoras da cultura, imagem e excelência da Força Aérea;
+
+d) Divulgar e ser um agente contínuo de divulgação e de valorização do acervo e espólio musical histórico-cultural aeronáutico nas suas ações performativas.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 69.º — Revista Mais Alto
+
+1 - A Revista Mais Alto tem por missão divulgar atividades e eventos, bem como outros assuntos de interesse aeronáutico para a Força Aérea.
+
+2 - À Revista Mais Alto compete:
+
+a) Planear, programar e elaborar as edições da revista do ponto de vista editorial;
+
+b) Promover a cultura aeronáutica, incluindo a divulgação de eventos ou relatos histórico-aeronáuticos;
+
+c) Divulgar os eventos internos e mensagens de interesse para a população militar e civil;
+
+d) Divulgar as atividades e eventos, de interesse público, onde a Força Aérea participou ou se fez representar;
+
+e) Promover e manter o relacionamento com os órgãos congéneres e entidades nacionais e estrangeiros;
+
+f) Colaborar com entidades internas e externas, nacionais e estrangeiras, na divulgação histórico-aeronáutica.
+
+### Capítulo VIII — Elementos da componente operacional do sistema de forças
+
+> Alterado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 70.º — Disposições gerais
+
+1 - Os elementos da componente operacional do sistema de forças são as forças e os meios da Força Aérea destinados ao cumprimento das missões de natureza operacional.
+
+2 - Constituem elementos da componente operacional do sistema de forças, as seguintes forças e meios da Força Aérea:
+
+a) As unidades aéreas que se constituem como conjuntos integrados de pessoal, de aeronaves, de material e de equipamentos, organizados sob o comando de um comandante para a execução de missões, tarefas e ações operacionais;
+
+b) As unidades de intervenção antiaérea, que têm por missão garantir a defesa antiaérea das unidades e órgãos da Força Aérea, de forças e meios destacados e de outras áreas e pontos sensíveis.
+
+> Alterado pelo/a Artigo 106.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+### Capítulo IX — Disposições finais
+
+> Alterado pelo/a Artigo 108.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 71.º — Cooperação institucional
+
+Cada um dos órgãos e serviços previstos no presente decreto regulamentar coopera e colabora com todos os serviços, organismos e órgãos do MDN, cujas atribuições e competências estejam relacionadas com a sua área de intervenção.
+
+###### Artigo 71.º-A — Organização interna
+
+A organização interna das unidades, estabelecimentos e órgãos da Força Aérea é definida pelo CEMFA.
+
+> Aditado pelo/a Artigo 107.º do/a [Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394), em vigor a partir de 2023-06-07
+
+###### Artigo 72.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto Regulamentar n.º 49/94, de 3 de setembro;
+
+b) O Decreto Regulamentar n.º 50/94, de 3 de setembro;
+
+c) O Decreto Regulamentar n.º 51/94, de 3 de setembro;
+
+d) O Decreto Regulamentar n.º 52/94, de 3 de setembro;
+
+e) O Decreto Regulamentar n.º 53/94, de 3 de setembro;
+
+f) O Decreto Regulamentar n.º 54/94, de 3 de setembro;
+
+g) O Decreto Regulamentar n.º 56/94, de 3 de setembro.
+
+###### Artigo 73.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 25 de junho de 2015. - Paulo Sacadura Cabral Portas - Hélder Manuel Gomes dos Reis - Berta Maria Correia de Almeida de Melo Cabral.
+
+Promulgado em 27 de julho de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 30 de julho de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

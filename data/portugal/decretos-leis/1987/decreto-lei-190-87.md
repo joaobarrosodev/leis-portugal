@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:665758:por
+title: Decreto-Lei n.º 190/87
+short_title: null
+summary: Estabelece as competências que no âmbito do Sistema de Estímulos de Base Regional incumbem às Regiões Autónomas dos
+  Açores e da Madeira
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Plano e da Administração do Território
+proposing_entity: null
+official_number: 190/87
+official_date: null
+publication_date: '1987-04-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/1987, Série I de 1987-04-29
+  number: '98'
+  series: I
+  supplement: null
+  pages: 1763 - 1764
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09800/17631764.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '665758'
+  dre_path: /dr/detalhe/decreto-lei/190-1987-665758
+  internal: pt:dre:665758:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1987-665758
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1987-665758
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-04-29T00:00:00Z'
+integrity:
+  source_sha256: c199845777b293d27cd955de5afd358ebb0a47bc331e2ce1d414da4df85f1188
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-190-665758.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 190/87
+
+de 29 de Abril
+
+O [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro, que institui o Sistema de Estímulos de Base Regional, é de aplicação em todo o território nacional, não tendo, no entanto, ficado suficientemente explicitadas as competências que neste domínio caberão naturalmente às Regiões Autónomas dos Açores e da Madeira.
+
+Há, pois, que tomar a iniciativa de clarificar alguns aspectos de tramitação para a concessão de incentivos a projectos a implementar nas regiões autónomas deixando depois a estas o cuidado de, em conformidade com as respectivas estruturas administrativas, definir em concreto os circuitos e entidades intervenientes nas primeiras fases do processo.
+
+Assim, ouvidos os Governos Regionais:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os processos de candidatura ao Sistema de Estímulos de Base Regional, criado pelo [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro, e relativos a projectos a executar nas regiões autónomas deverão ser entregues nos departamentos competentes dos respectivos órgãos de governo próprio e por eles coordenados.
+
+###### Art. 2.º Concluída a análise e hierarquização dos projectos a nível regional, serão os mesmos enviados para a comissão de selecção adequada, referida no n.º 7 do artigo 10.º do [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro.
+
+###### Art. 3.º As comissões de selecção integrarão um representante de cada uma das Regiões Autónomas dos Açores e da Madeira.
+
+###### Art. 4.º O processo de decisão e de liquidação dos estímulos concedidos será idêntico ao previsto para os projectos executados no continente.
+
+###### Art. 5.º A correcção monetária anual a que se refere o artigo 20.º do [Decreto-Lei n.º 283-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1986-390812), de 5 de Setembro, terá por base a taxa de crescimento do índice de preços no consumidor (excluindo a habitação), publicado pelo serviço regional de estatística de cada região autónoma e nos moldes ali definidos.
+
+###### Art. 6.º O presente decreto-lei produz efeitos a partir de 1 de Setembro de 1986.
+
+Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Vasco Joaquim da Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - Fernando Augusto dos Santos Martins - Luís Fernando Mira Amaral.
+
+**Promulgado em 16 de Abril de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 21 de Abril de 1987.**
+
+Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

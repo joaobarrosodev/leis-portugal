@@ -1,0 +1,435 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:621340:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1996-131058275",
+ "dre_path": "/dr/detalhe/lei/7-1996-621340",
+ "source_lastmod": "2025-06-16",
+ "versions": [
+  {
+   "date": "1996-02-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "131051365",
+    "131051366",
+    "131051367",
+    "131051368",
+    "131051369",
+    "131051370",
+    "131051371",
+    "131051372",
+    "131051373",
+    "131051374",
+    "131058375",
+    "131058376",
+    "131058377",
+    "131058378",
+    "131058379",
+    "131058380",
+    "131058381",
+    "131058382",
+    "131058383",
+    "131058384",
+    "131058385",
+    "131058386",
+    "131058387",
+    "131058388",
+    "131058389",
+    "131058390",
+    "131058391",
+    "131058392",
+    "131058393",
+    "131058394",
+    "131058395",
+    "131058396"
+   ]
+  },
+  {
+   "date": "1996-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571656:por",
+     "title": "Declaração de Rectificação n.º 7/96",
+     "published": "1996-04-18",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/7-1996-571656"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 6.º"
+   ],
+   "fragments": [
+    "131051365",
+    "131051366",
+    "131051367",
+    "131051368",
+    "131051369",
+    "131051370",
+    "131051371",
+    "131051372",
+    "921436252",
+    "131051374",
+    "131058375",
+    "131058376",
+    "131058377",
+    "131058378",
+    "131058379",
+    "131058380",
+    "131058381",
+    "131058382",
+    "131058383",
+    "131058384",
+    "131058385",
+    "131058386",
+    "131058387",
+    "131058388",
+    "131058389",
+    "131058390",
+    "131058391",
+    "131058392",
+    "131058393",
+    "131058394",
+    "131058395",
+    "131058396",
+    "131058397"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "131051365",
+    "131051366",
+    "131051367",
+    "131051368",
+    "131051369",
+    "131051370",
+    "131051371",
+    "131051372",
+    "921436252",
+    "131051374",
+    "131058375",
+    "131058376",
+    "131058377",
+    "131058378",
+    "131058379",
+    "131058380",
+    "131058381",
+    "921690450",
+    "131058383",
+    "131058384",
+    "131058385",
+    "131058386",
+    "131058387",
+    "131058388",
+    "131058389",
+    "131058390",
+    "131058391",
+    "131058392",
+    "131058393",
+    "131058394",
+    "131058395",
+    "131058396",
+    "131058397"
+   ]
+  }
+ ],
+ "fragments": {
+  "131051365": {
+   "fragment_id": "131058276",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 7/96\n\nde 29 de Fevereiro\n\nDefine as estruturas de apoio técnico e pessoal e de gestão patrimonial, administrativa e financeira do órgão de soberania Presidente da República.\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "131051366": {
+   "fragment_id": "131058277",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "131051367": {
+   "fragment_id": "131058278",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei define e regula as estruturas e os serviços integrantes da Presidência da República, que têm por função prestar o apoio técnico, pessoal e de gestão patrimonial, administrativa e financeira ao Presidente da República."
+  },
+  "131051368": {
+   "fragment_id": "131058279",
+   "type": 11,
+   "heading": "Artigo 2.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Órgãos e serviços\n\nA Presidência da República é integrada pelos seguintes serviços e órgãos:\n\na) Serviços de apoio directo ao Presidente da República:\n\nCasa Civil\n\nCasa Militar;\n\nGabinete;\n\nServiço de Segurança;\n\nCentro de Comunicações;\n\nServiço de Apoio Médico;\n\nb) Conselho Administrativo;\n\nc) Secretaria-Geral."
+  },
+  "131051369": {
+   "fragment_id": "131058280",
+   "type": 11,
+   "heading": "Artigo 3.º — Autonomia administrativa e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autonomia administrativa e financeira\n\n1 - A Presidência da República é dotada de autonomia administrativa, financeira e patrimonial, nos termos da presente lei e demais legislação aplicável.\n\n2 - Os membros dos órgãos e serviços de apoio directo são da livre escolha do Presidente da República."
+  },
+  "131051370": {
+   "fragment_id": "131058281",
+   "type": 1,
+   "heading": "Capítulo II — Dos órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos órgãos e serviços"
+  },
+  "131051371": {
+   "fragment_id": "131058282",
+   "type": 11,
+   "heading": "Artigo 4.º — Casa Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Casa Civil\n\n1 - A Casa Civil é um serviço de consulta, de análise, de informação e de apoio técnico ao Presidente da República.\n\n2 - A Casa Civil é constituída pelo chefe da Casa Civil e pelos assessores, adjuntos e secretários, em número a fixar pela legislação regulamentar da presente lei.\n\n3 - Integra ainda a Casa Civil um corpo de consultores, constituído por especialistas.\n\n4 - Junto da Casa Civil funciona um núcleo de apoio administrativo."
+  },
+  "131051372": {
+   "fragment_id": "131058283",
+   "type": 11,
+   "heading": "Artigo 5.º — Chefe da Casa Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Chefe da Casa Civil\n\n1 - O chefe da Casa Civil dirige a Casa Civil e assegura a coordenação administrativa e financeira dos órgãos e serviços da Presidência da República.\n\n2 - As competências administrativas e financeiras legalmente cometidas à Presidência da República, que não caibam a qualquer dos seus órgãos, são exercidas pelo chefe da Casa Civil.\n\n3 - O chefe da Casa Civil representa o Presidente da República sempre que este o determine."
+  },
+  "131051373": {
+   "fragment_id": "131058284",
+   "type": 11,
+   "heading": "Artigo 6.º — Casa Militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Casa Militar\n\n1 - A Casa Militar é um serviço de apoio ao Presidente da República na sua qualidade de Comandante Supremo das Forças Armadas.\n\n2 - A Casa Militar é constituída pelo chefe da Casa Militar e por assessores e ajudantes-de-campo, sendo apoiada por secretários e pessoal administrativo, nos termos previstos na legislação regulamentar da presente lei.\n\n3 - O chefe da Casa Militar é um oficial de patente não inferior a oficial e os assessores e os ajudantes-de-campo são oficiais dos três ramos das Forças Armadas."
+  },
+  "131051374": {
+   "fragment_id": "131058285",
+   "type": 11,
+   "heading": "Artigo 7.º — Chefe da Casa Militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Chefe da Casa Militar\n\n1 - O chefe da Casa Militar dirige a Casa Militar e representa o Presidente da República sempre que este o determine.\n\n2 - O chefe da Casa Militar assegura a ligação entre a Presidência da República e as autoridades militares."
+  },
+  "131058375": {
+   "fragment_id": "131058286",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete\n\n1 - O Gabinete é um serviço de apoio directo e pessoal do Presidente da República.\n\n2 - O Gabinete é constituído por um chefe do Gabinete e demais membros previstos na legislação regulamentar da presente lei."
+  },
+  "131058376": {
+   "fragment_id": "131058287",
+   "type": 11,
+   "heading": "Artigo 9.º — Chefe do Gabinete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Chefe do Gabinete\n\nO chefe do Gabinete dirige o Gabinete e representa o Presidente da República sempre que este o determine."
+  },
+  "131058377": {
+   "fragment_id": "131058288",
+   "type": 11,
+   "heading": "Artigo 10.º — Serviço de Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Serviço de Segurança\n\n1 - O Serviço de Segurança constitui a estrutura especialmente encarregada da protecção e segurança pessoal do Presidente da República, assim como da prevenção, controlo, vigilância, protecção e defesa das instalações, bens e serviços da Presidência da República e das pessoas que nela exercem funções.\n\n2 - O Serviço de Segurança é dirigido por um chefe do Serviço e por um adjunto.\n\n3 - O Serviço de Segurança é integrado por um destacamento da Divisão de Segurança da Polícia de Segurança Pública, um destacamento da Guarda Nacional Republicana e uma esquadra da Polícia de Segurança Pública."
+  },
+  "131058378": {
+   "fragment_id": "131058289",
+   "type": 11,
+   "heading": "Artigo 11.º — Centro de Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Centro de Comunicações\n\nO Centro de Comunicações assegura o sistema de comunicações da Presidência da República, em articulação com os restantes serviços referidos no artigo 2.º"
+  },
+  "131058379": {
+   "fragment_id": "131058290",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviço de Apoio Médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Serviço de Apoio Médico\n\n1 - O Serviço de Apoio Médico presta assistência médica e de enfermagem ao Presidente da República, em articulação com outros serviços de saúde, públicos ou privados.\n\n2 - O funcionamento do Serviço de Apoio Médico é assegurado por pessoal médico e de enfermagem devidamente qualificado."
+  },
+  "131058380": {
+   "fragment_id": "131058291",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conselho Administrativo\n\n1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão patrimonial, administrativa e financeira e tem a seguinte composição:\n\na) O chefe da Casa Civil, que preside;\n\nb) O chefe da Casa Militar;\n\nc) O chefe do Gabinete;\n\nd) O secretário-geral;\n\ne) O director dos serviços administrativos e financeiros da Secretaria-Geral, que secretaria.\n\n2 - As deliberações do Conselho Administrativo são tomadas à pluralidade de votos, estando presente a maioria dos seus membros."
+  },
+  "131058381": {
+   "fragment_id": "131058292",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\nCabe ao Conselho Administrativo:\n\na) Definir a política geral de administração e os meios necessários à sua execução;\n\nb) Elaborar os planos de actividade, anuais e plurianuais;\n\nc) Aprovar o orçamento, sob proposta do secretário-geral;\n\nd) Aprovar o relatório e a conta de gerência;\n\ne) Exercer a gestão financeira, incluindo a autorização de despesas orçamentadas cujo montante exceda o previsto no n.º 1 do artigo 19.º;\n\nf) Elaborar os regulamentos internos que respeitem à gestão das áreas patrimonial, administrativa e do pessoal;\n\ng) Orientar a contabilidade e fiscalizar a sua escrituração;\n\nh) Promover a organização e actualização do inventário do património."
+  },
+  "131058382": {
+   "fragment_id": "131058293",
+   "type": 11,
+   "heading": "Artigo 15.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Secretaria-Geral\n\nA Secretaria-Geral é o serviço de apoio administrativo da Presidência da República, competindo-lhe:\n\na) Assegurar o funcionamento dos serviços administrativos, incluindo os serviços respeitantes à Chancelaria das Ordens Honoríficas Portuguesas;\n\nb) Executar as deliberações do Conselho Administrativo e, em geral, assegurar o funcionamento dos serviços de administração e de gestão financeira e patrimonial;\n\nc) Realizar todas as operações de administração e gestão do pessoal;\n\nd) Elaborar o orçamento, bem como o relatório e a conta de gerência da Presidência da República."
+  },
+  "131058383": {
+   "fragment_id": "131058294",
+   "type": 11,
+   "heading": "Artigo 16.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Secretário-geral\n\n1 - A Secretaria-Geral é dirigida e coordenada pelo secretário-geral, que, por inerência, é o secretário-geral das Ordens Honoríficas Portuguesas.\n\n2 - O secretário-geral pode ser coadjuvado no exercício das suas funções por um adjunto.\n\n3 - O secretário-geral e o adjunto, equiparados para todos os efeitos legais a director e a subdirector-geral, são nomeados pelo Presidente da República, que lhes confere posse, em comissão de serviço e pelo período do mandato, permanecendo em funções até à nomeação do novo secretário-geral.\n\n4 - Das decisões do secretário-geral de que caiba recurso administrativo, é o mesmo interposto para o Conselho Administrativo."
+  },
+  "131058384": {
+   "fragment_id": "131058295",
+   "type": 1,
+   "heading": "Capítulo III — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime financeiro"
+  },
+  "131058385": {
+   "fragment_id": "131058296",
+   "type": 11,
+   "heading": "Artigo 17.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Orçamento\n\n1 - O orçamento da Presidência da República é aprovado pelo Conselho Administrativo, mediante proposta do secretário-geral, e enviado ao Governo para efeitos de inscrição das respectivas dotações na proposta de Orçamento do Estado a submeter à Assembleia da República.\n\n2 - As transferências e reforços de verbas são operados nos termos da legislação em vigor para os organismos autónomos, com as devidas adaptações."
+  },
+  "131058386": {
+   "fragment_id": "131058297",
+   "type": 11,
+   "heading": "Artigo 18.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Receitas\n\nConstituem receitas da Presidência da República:\n\na) As dotações do Orçamento do Estado;\n\nb) O saldo de gerência do ano anterior;\n\nc) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título."
+  },
+  "131058387": {
+   "fragment_id": "131058298",
+   "type": 11,
+   "heading": "Artigo 19.º — Autorização de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Autorização de despesas\n\n1 - Os limites de competência do chefe da Casa Civil para autorização de despesas e celebração de contratos são os que vigoram, nos termos da lei geral, para os órgãos máximos dos serviços e fundos autónomos.\n\n2 - A legislação regulamentar da presente lei especifica os casos em que pode haver delegação dos poderes previstos no número anterior.\n\n3 - A autorização de despesas orçamentadas, cujo montante exceda o disposto no n.º 1, é da competência do Conselho Administrativo."
+  },
+  "131058388": {
+   "fragment_id": "131058299",
+   "type": 11,
+   "heading": "Artigo 20.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Execução\n\nA execução do orçamento da Presidência da República é feita através dos respectivos órgãos e serviços, nos termos dos artigos seguintes."
+  },
+  "131058389": {
+   "fragment_id": "131058300",
+   "type": 11,
+   "heading": "Artigo 21.º — Requisição de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Requisição de fundos\n\n1 - O Conselho Administrativo requisita mensalmente à Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias por conta da dotação global que é atribuída à Presidência da República.\n\n2 - As requisições referidas no número anterior, depois de visadas pela Direcção-Geral da Contabilidade Pública, são expedidas, com as competentes autorizações de pagamento, para o Banco de Portugal, como caixa geral do Tesouro, sendo as importâncias levantadas pela Secretaria-Geral e por ela depositadas, à sua ordem, na Caixa Geral de Depósitos."
+  },
+  "131058390": {
+   "fragment_id": "131058301",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime duodecimal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime duodecimal\n\nCompete ao chefe da Casa Civil, sob proposta do secretário-geral e ouvido o Conselho Administrativo, autorizar a dispensa do regime duodecimal de qualquer das dotações orçamentais da Presidência da República e, bem assim, solicitar a antecipação, total ou parcial, dos respectivos duodécimos."
+  },
+  "131058391": {
+   "fragment_id": "131058302",
+   "type": 11,
+   "heading": "Artigo 23.º — Fundos permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Fundos permanentes\n\nO chefe da Casa Civil, sob proposta do secretário-geral e ouvido o Conselho Administrativo, poderá autorizar a constituição de fundos permanentes na Secretaria-Geral, destinados ao pagamento directo de pequenas despesas, em termos a regulamentar por decreto-lei que fixará as regras do respectivo controlo, sem prejuízo da fiscalização jurisdicional."
+  },
+  "131058392": {
+   "fragment_id": "131058303",
+   "type": 11,
+   "heading": "Artigo 24.º — Conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Conta\n\n1 - O relatório e a conta de gerência da Presidência da República, depois de aprovados, são enviados pelo chefe da Casa Civil ao Tribunal de Contas até 15 de Abril de cada ano.\n\n2 - A conta é publicada no Diário da República, acompanhada do respectivo acórdão do Tribunal de Contas."
+  },
+  "131058393": {
+   "fragment_id": "131058304",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "131058394": {
+   "fragment_id": "131058305",
+   "type": 11,
+   "heading": "Artigo 25.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Património\n\nO património próprio da Presidência da República rege-se por lei especial, a aprovar pela Assembleia da República."
+  },
+  "131058395": {
+   "fragment_id": "131058306",
+   "type": 11,
+   "heading": "Artigo 26.º — Presidente eleito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Presidente eleito\n\nApós a publicação dos resultados eleitorais finais e até à tomada de posse, a Secretaria-Geral presta apoio logístico e administrativo ao Presidente da República eleito, tendo em vista a preparação do exercício do seu mandato."
+  },
+  "131058396": {
+   "fragment_id": "131058307",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposições finais\n\n1 - O Governo regulamenta a presente lei nos 30 dias posteriores à sua entrada em vigor.\n\n2 - O regime de autonomia administrativa e financeira da Presidência da República entra em vigor no próximo ano económico, sem prejuízo da imediata aplicação das normas referentes ao Conselho Administrativo e à autorização de despesas.\n\n3 - Os encargos decorrentes das acções de representação externa do Estado Português continuam a ser regulados pelo quadro legal aplicável no âmbito do Ministério dos Negócios Estrangeiros.\n\n4 - Até à entrada em vigor da legislação prevista no n.º 1, o estatuto dos membros e o quadro dos órgãos e serviços da Presidência da República continuam a reger-se pelas normas vigentes à data da publicação da presente lei."
+  },
+  "921436252": {
+   "fragment_id": "131058284",
+   "type": 11,
+   "heading": "Artigo 6.º — Casa Militar",
+   "in_force_from": "1996-04-18",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 7/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-1996-571656), em vigor a partir de 1996-04-18"
+   ],
+   "markdown": "###### Artigo 6.º — Casa Militar\n\n1 - A Casa Militar é um serviço de apoio ao Presidente da República na sua qualidade de Comandante Supremo das Forças Armadas.\n\n2 - A Casa Militar é constituída pelo chefe da Casa Militar e por assessores e ajudantes-de-campo, sendo apoiada por secretários e pessoal administrativo, nos termos previstos na legislação regulamentar da presente lei.\n\n3 - O chefe da Casa Militar é um oficial de patente não inferior a oficial superior e os assessores e os ajudantes-de-campo são oficiais dos três ramos das Forças Armadas.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 7/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-1996-571656), em vigor a partir de 1996-04-18"
+  },
+  "131058397": {
+   "fragment_id": "131058308",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 1 de Fevereiro de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 7 de Fevereiro de 1996.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 13 de Fevereiro de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "921690450": {
+   "fragment_id": "131058293",
+   "type": 11,
+   "heading": "Artigo 15.º — Secretaria-Geral",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 418.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 15.º — Secretaria-Geral\n\n1 - A Secretaria-Geral é o serviço de apoio administrativo da Presidência da República, competindo-lhe:\n\na) Assegurar o funcionamento dos serviços administrativos, incluindo os serviços respeitantes à Chancelaria das Ordens Honoríficas Portuguesas;\n\nb) Executar as deliberações do Conselho Administrativo e, em geral, assegurar o funcionamento dos serviços de administração e de gestão financeira e patrimonial;\n\nc) Realizar todas as operações de administração e gestão do pessoal;\n\nd) Elaborar o orçamento, bem como o relatório e a conta de gerência da Presidência da República.\n\n2 - Ao pessoal que exerce funções na secretaria-geral é aplicável, com as adaptações decorrentes da orgânica própria dos órgãos e serviços da Presidência da República, o regime especial de prestação de trabalho previsto no artigo 37.º da Lei n.º 77/88, de 1 de julho.\n\n> Alterado pelo/a Artigo 418.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  }
+ }
+}

@@ -1,0 +1,1316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:393007:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-116967153",
+ "dre_path": "/dr/detalhe/decreto-lei/241-1999-393007",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116974840",
+    "116974841",
+    "116974842",
+    "116974843",
+    "116974844",
+    "116974845",
+    "116974846",
+    "116974847",
+    "116974848",
+    "116974849",
+    "116974850",
+    "116974851",
+    "116974852",
+    "116974853",
+    "116974854",
+    "116974855",
+    "116974856",
+    "116974857",
+    "116974858",
+    "116974859",
+    "116974860",
+    "116974861",
+    "116974862",
+    "116974863",
+    "116974864",
+    "116974865",
+    "116974866",
+    "116974867",
+    "116974868",
+    "116974869",
+    "116974870",
+    "116974871",
+    "116974872",
+    "116974873"
+   ]
+  },
+  {
+   "date": "2004-05-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:270809:por",
+     "title": "Decreto-Lei n.º 120/2004",
+     "published": "2004-05-21",
+     "dre_path": "/dr/detalhe/decreto-lei/120-2004-270809"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 24.º"
+   ],
+   "fragments": [
+    "116974840",
+    "116974841",
+    "116974842",
+    "116974843",
+    "836102442",
+    "116974845",
+    "836102443",
+    "836102456",
+    "116974847",
+    "836102444",
+    "836102445",
+    "836102446",
+    "836102447",
+    "836102457",
+    "116974852",
+    "116974853",
+    "116974854",
+    "116974855",
+    "116974856",
+    "116974857",
+    "116974858",
+    "836102448",
+    "836102449",
+    "116974861",
+    "116974862",
+    "836102450",
+    "836102451",
+    "116974865",
+    "836102452",
+    "836102453",
+    "836102454",
+    "116974869",
+    "116974870",
+    "116974871",
+    "836102455",
+    "116974873",
+    "116974874"
+   ]
+  },
+  {
+   "date": "2009-02-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:602029:por",
+     "title": "Decreto-Lei n.º 47/2009",
+     "published": "2009-02-23",
+     "dre_path": "/dr/detalhe/decreto-lei/47-2009-602029"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-B",
+    "Adita Artigo 9.º-C",
+    "Adita Artigo 9.º-D",
+    "Adita Artigo 9.º-E",
+    "Adita Artigo 15.º-A",
+    "Adita Artigo 24.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 5.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º-A",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "116974840",
+    "116974841",
+    "116974842",
+    "836100407",
+    "836102442",
+    "116974845",
+    "836100408",
+    "116974847",
+    "836103278",
+    "836103279",
+    "836103280",
+    "836103281",
+    "836103282",
+    "836103283",
+    "836103284",
+    "836103285",
+    "836103286",
+    "836103287",
+    "116974852",
+    "116974853",
+    "116974854",
+    "116974855",
+    "116974856",
+    "836100413",
+    "836100417",
+    "836100414",
+    "836100422",
+    "836100423",
+    "116974861",
+    "116974862",
+    "836102450",
+    "836102451",
+    "116974865",
+    "836102452",
+    "836102453",
+    "836102454",
+    "116974869",
+    "836100416",
+    "116974871",
+    "836102455",
+    "836100424",
+    "836100425",
+    "116974874"
+   ]
+  },
+  {
+   "date": "2015-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70402846:por",
+     "title": "Decreto-Lei n.º 211/2015",
+     "published": "2015-09-29",
+     "dre_path": "/dr/detalhe/decreto-lei/211-2015-70402846"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 21.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º-A",
+    "Altera Artigo 9.º-B",
+    "Altera Artigo 9.º-C",
+    "Altera Artigo 9.º-D",
+    "Altera Artigo 9.º-E",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 15.º-A",
+    "Altera Artigo 16.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º-A",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "116974840",
+    "116974841",
+    "836103288",
+    "836103289",
+    "836102442",
+    "116974845",
+    "836103290",
+    "116974847",
+    "836103278",
+    "836103291",
+    "836103292",
+    "836103293",
+    "836103314",
+    "836103294",
+    "836103305",
+    "836103295",
+    "836103296",
+    "836103297",
+    "116974852",
+    "116974853",
+    "116974854",
+    "116974855",
+    "116974856",
+    "836103298",
+    "836103299",
+    "836103300",
+    "836103301",
+    "836103302",
+    "116974861",
+    "116974862",
+    "836102450",
+    "836102451",
+    "116974865",
+    "836102452",
+    "836102453",
+    "836102454",
+    "116974869",
+    "836103308",
+    "836103309",
+    "836103310",
+    "836103311",
+    "836103312",
+    "836103313",
+    "116974874"
+   ]
+  },
+  {
+   "date": "2023-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835994078:por",
+     "title": "Decreto-Lei n.º 139-B/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/139-b-2023-835994078"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "116974840",
+    "116974841",
+    "836103288",
+    "836103289",
+    "836102442",
+    "116974845",
+    "836103290",
+    "116974847",
+    "836103278",
+    "836103291",
+    "836103292",
+    "836103293",
+    "836103314",
+    "836103294",
+    "836103305",
+    "836103295",
+    "836103296",
+    "836103297",
+    "116974852",
+    "116974853",
+    "116974854",
+    "116974855",
+    "116974856",
+    "836111175",
+    "836103299",
+    "836103300",
+    "836103301",
+    "836103302",
+    "116974861",
+    "116974862",
+    "836102450",
+    "836102451",
+    "116974865",
+    "836102452",
+    "836102453",
+    "836102454",
+    "116974869",
+    "836103308",
+    "836103309",
+    "836103310",
+    "836103311",
+    "836103312",
+    "836103313",
+    "116974874"
+   ]
+  },
+  {
+   "date": "2025-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:917593145:por",
+     "title": "Decreto-Lei n.º 78/2025",
+     "published": "2025-05-12",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2025-917593145"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "116974840",
+    "116974841",
+    "836103288",
+    "836103289",
+    "836102442",
+    "116974845",
+    "836103290",
+    "116974847",
+    "836103278",
+    "836103291",
+    "836103292",
+    "836103293",
+    "836103314",
+    "836103294",
+    "836103305",
+    "836103295",
+    "836103296",
+    "836103297",
+    "116974852",
+    "116974853",
+    "116974854",
+    "116974855",
+    "116974856",
+    "917584344",
+    "836103299",
+    "917584345",
+    "836103301",
+    "836103302",
+    "116974861",
+    "116974862",
+    "836102450",
+    "836102451",
+    "116974865",
+    "836102452",
+    "836102453",
+    "836102454",
+    "116974869",
+    "836103308",
+    "836103309",
+    "836103310",
+    "836103311",
+    "836103312",
+    "836103313",
+    "116974874"
+   ]
+  }
+ ],
+ "fragments": {
+  "116974840": {
+   "fragment_id": "116967154",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 241/99\n\nde 25 de Junho\n\nA República Portuguesa e a República de Moçambique, pelo Acordo de Cooperação assinado em Maputo em 28 de Julho de 1995, decidiram criar o Centro de Ensino e Língua Portuguesa do Maputo, tendo como objectivos centrais promover o ensino e a difusão da língua e da cultura portuguesas, ampliar a rede escolar ao nível do ensino básico e secundário e alargar aos jovens portugueses e moçambicanos em idade escolar o acesso àqueles níveis de ensino.\n\nA construção de um edifício que pudesse albergar tal desiderato educativo e cultural encontra-se em vias de conclusão, estando, assim, reunidas as condições para que sejam iniciadas as actividades escolares no ano lectivo de 1999-2000.\n\nNeste quadro, procede-se, através do presente diploma, à criação da Escola Portuguesa de Moçambique - Centro de Ensino e Língua Portuguesa, que recebe a sua legitimidade do Acordo de Cooperação acima citado.\n\nO estabelecimento de educação e de ensino agora criado está aberto a cidadãos portugueses, moçambicanos e de outras nacionalidades, constituindo, pela sua gestão pública e pela adopção dos planos curriculares e programas dos ensinos básico e secundário em vigor no sistema educativo português, uma verdadeira escola portuguesa.\n\nPor esta forma, para além dos objectivos atrás referidos, visa-se criar as condições institucionais para que seja possibilitada uma formação de base cultural portuguesa, bem como atribuir à Escola os poderes de acreditação dos planos curriculares e programas portugueses leccionados em escolas de direito privado moçambicano.\n\nTratando-se de uma instituição pública portuguesa que irá funcionar no estrangeiro, a milhares de quilómetros de Portugal, procurou-se, através do presente diploma, dotá-la dos meios que lhe permitam promover uma gestão eficaz e eficiente com vista à realização dos seus objectivos educativos e culturais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "116974841": {
+   "fragment_id": "116967155",
+   "type": 1,
+   "heading": "Capítulo I — Criação, natureza e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Criação, natureza e objectivos"
+  },
+  "116974842": {
+   "fragment_id": "116967156",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criada, ao abrigo do Acordo de Cooperação celebrado entre a República Portuguesa e a República de Moçambique, a Escola Portuguesa de Moçambique - Centro de Ensino e Língua Portuguesa, adiante abreviadamente designada por Escola, da titularidade do Estado Português, e com sede em território da República de Moçambique."
+  },
+  "116974843": {
+   "fragment_id": "116967157",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nA Escola é dotada de personalidade jurídica e de autonomia cultural, pedagógica, administrativa, financeira e património próprio."
+  },
+  "116974844": {
+   "fragment_id": "116967158",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nConstituem objectivos da Escola:\n\na) Promover e difundir a língua e a cultura portuguesas;\n\nb) Aplicar as orientações curriculares para a educação pré-escolar e os planos curriculares e programas dos ensinos básico e secundário em vigor no sistema educativo português;\n\nc) Contribuir para a promoção sócio-educativa de recursos humanos;\n\nd) Proporcionar uma formação de base cultural portuguesa;\n\ne) Permitir a escolarização de filhos de portugueses;\n\nf) Acreditar os planos curriculares e programas portugueses leccionados em escolas privadas de direito moçambicano;\n\ng) Constituir-se como centro de formação de professores e centro de recursos."
+  },
+  "116974845": {
+   "fragment_id": "116967159",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios de actuação\n\nConstituem princípios de actuação da Escola:\n\na) A integração de alunos portugueses e a sua frequência por jovens moçambicanos, bem como de outras nacionalidades;\n\nb) O funcionamento de todos os níveis de educação e ensino, desde a educação pré-escolar até ao ensino secundário;\n\nc) A obediência à orientação científica e pedagógica da responsabilidade do Estado Português, sem prejuízo do disposto no artigo 2.º;\n\nd) A prestação de apoio à formação de pessoal docente e não docente e à comunidade;\n\ne) O funcionamento como centro de apoio à cooperação portuguesa na área da educação;\n\nf) A articulação de funcionamento com o Centro Cultural Português em Maputo;\n\ng) A promoção de critérios igualitários na comparticipação nas despesas escolares entre alunos portugueses e moçambicanos;\n\nh) A racionalização de custos de molde a viabilizar a continuidade da actividade no futuro."
+  },
+  "116974846": {
+   "fragment_id": "116967160",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estrutura orgânica\n\nA estrutura orgânica e os princípios a que obedece a organização interna da Escola são estabelecidos por decreto regulamentar.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 177/2002 - Diário da República n.º 175/2002, Série I-A de 2002-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2002-196972) O decreto regulamentar previsto no presente artigo, deverá ser elaborado no prazo máximo de 180 dias após a entrada em vigor do Decreto-Lei n.º 177/2002, de 31 de julho."
+  },
+  "116974847": {
+   "fragment_id": "116967161",
+   "type": 1,
+   "heading": "Capítulo II — Conselho de patronos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Conselho de patronos"
+  },
+  "116974848": {
+   "fragment_id": "116967162",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição\n\nSem prejuízo da estrutura que vier a ser definida no diploma a que se refere o artigo anterior, a Escola dispõe de um conselho de patronos, constituído por cinco elementos, designados da seguinte forma:\n\na) Um pelo Ministro dos Negócios Estrangeiros;\n\nb) Dois pelo Ministro da Educação;\n\nc) Dois pela cooperativa Escola Portuguesa de Maputo - Cooperativa de Ensino, C. R. L."
+  },
+  "116974849": {
+   "fragment_id": "116967163",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências\n\nO conselho de patronos é o órgão responsável pela definição das linhas orientadoras da actividade da Escola, competindo-lhe, em especial:\n\na) Aprovar o projecto educativo da Escola;\n\nb) Aprovar o plano anual de actividades;\n\nc) Definir as linhas orientadoras para a elaboração do orçamento;\n\nd) Apreciar e aprovar o relatório de contas de gerência;\n\ne) Fixar, sob proposta da comissão instaladora ou do órgão a quem competir a administração e gestão da Escola, as quantias a cobrar pelos serviços prestados, nomeadamente o montante das propinas;\n\nf) Estabelecer os critérios gerais para a contratação do pessoal docente e não docente;\n\ng) Aprovar anualmente o regulamento das bolsas de estudo e das bolsas de mérito;\n\nh) Proceder ao acompanhamento geral das actividades da Escola."
+  },
+  "116974850": {
+   "fragment_id": "116967164",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento e mandato\n\n1 - O presidente do conselho de patronos é nomeado por despacho do Ministro da Educação de entre os dois elementos por si designados nos termos do artigo 6.º\n\n2 - Os membros do conselho de patronos elegem entre si, trienalmente, um vice-presidente.\n\n3 - O conselho de patronos reúne:\n\na) Ordinariamente, três vezes por ano, mediante convocação do seu presidente;\n\nb) Extraordinariamente, por iniciativa do seu presidente ou da maioria dos seus membros.\n\n4 - A duração do mandato de cada elemento do conselho de patronos é de três anos, renovável, ou o correspondente ao período de instalação, conforme o caso, salvo se antes dessa data deixarem de ser reconhecidos como tal pelas entidades que os designaram."
+  },
+  "116974851": {
+   "fragment_id": "116967165",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direitos\n\n1 - Os membros do conselho de patronos que tenham de se deslocar de Portugal a Moçambique, para efeitos de participação nas suas reuniões, são dispensados das suas actividades profissionais, públicas ou privadas, considerando-se, para todos os efeitos, a deslocação como realizada em serviço.\n\n2 - Aos membros referidos no número anterior aplica-se a lei geral da função pública em matéria de abono de despesas de transporte e de ajudas de custo, correspondente ao fixado para as categorias mais elevadas."
+  },
+  "116974852": {
+   "fragment_id": "116967166",
+   "type": 1,
+   "heading": "Capítulo III — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Gestão financeira e patrimonial"
+  },
+  "116974853": {
+   "fragment_id": "116967167",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instrumentos de gestão\n\n1 - Na prossecução dos seus objectivos, a Escola administra os recursos que lhe estão afectos, tendo em consideração os princípios de gestão por objectivos, utilizando os seguintes instrumentos de gestão:\n\na) Planos de actividades e financeiros, anuais e plurianuais;\n\nb) Orçamento anual;\n\nc) Relatório de actividades e financeiro.\n\n2 - A contabilidade da Escola deve ser organizada de forma analítica, de modo a permitir a avaliação dos resultados da gestão."
+  },
+  "116974854": {
+   "fragment_id": "116967168",
+   "type": 11,
+   "heading": "Artigo 11.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Património\n\nO património da Escola é constituído pelos direitos e bens recebidos ou adquiridos no âmbito dos seus objectivos ou para o exercício da sua actividade."
+  },
+  "116974855": {
+   "fragment_id": "116967169",
+   "type": 11,
+   "heading": "Artigo 12.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Receitas\n\n1 - Para além das verbas previstas no Orçamento do Estado, constituem receitas da Escola:\n\na) As propinas, emolumentos e multas;\n\nb) O produto resultante dos serviços prestados;\n\nc) O produto da venda das suas publicações;\n\nd) O rendimento de bens próprios;\n\ne) Os juros das contas de depósitos e outras aplicações financeiras em quaisquer instituições bancárias;\n\nf) Outras receitas que lhe sejam atribuídas por lei, doações, subsídios, subvenções, comparticipações, heranças e legados.\n\n2 - Os saldos apurados no fim de cada exercício, relativamente às receitas próprias, transitam para o exercício seguinte."
+  },
+  "116974856": {
+   "fragment_id": "116967170",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "116974857": {
+   "fragment_id": "116967171",
+   "type": 11,
+   "heading": "Artigo 13.º — Pessoal docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pessoal docente\n\n1 - O recrutamento de pessoal para o exercício de funções docentes na Escola é feito através de contratação local de indivíduos que possuam a necessária habilitação profissional.\n\n2 - Pode ainda, por despacho do Ministro da Educação, proceder-se ao destacamento de docentes vinculados aos quadros que possuam a necessária habilitação profissional.\n\n3 - Esgotada localmente a possibilidade de contratação de indivíduos portadores de habilitação profissional, poderá a Escola proceder à contratação de indivíduos que sejam portadores do grau académico de licenciado ou bacharel habilitados cientificamente para a docência da área disciplinar ou disciplinas em falta.\n\n4 - À contratação a que se refere o presente artigo é aplicável, com as devidas adaptações e exceptuado o regime de contrato aí previsto, o disposto na Portaria n.º 367/98, de 29 de Junho, não conferindo a qualidade de agente ou funcionário da Administração Pública Portuguesa.\n\n> Nota: [Artigo 10.º, Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145) O regime previsto nos n.ºs 9 a 11 do presente artigo, apenas é aplicável às colocações de docentes que tenham lugar a partir do dia 1 de setembro de 2025."
+  },
+  "116974858": {
+   "fragment_id": "116967172",
+   "type": 11,
+   "heading": "Artigo 14.º — Pessoal não docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pessoal não docente\n\n1 - O recrutamento de pessoal para o exercício de funções não docentes na Escola é feito através da contratação local de indivíduos que reúnam as condições necessárias ao desempenho das respectivas funções.\n\n2 - Os funcionários com vínculo à Administração Pública Portuguesa podem ser chamados a desempenhar funções na Escola, em regime de requisição, com garantia do seu lugar de origem e dos direitos adquiridos.\n\n3 - As situações de requisição a que se refere o número anterior são feitas por um período de três anos, renováveis anualmente até ao limite de três anos.\n\n4 - É aplicável ao pessoal não docente contratado o disposto na parte final do n.º 4 do artigo anterior."
+  },
+  "116974859": {
+   "fragment_id": "116967173",
+   "type": 11,
+   "heading": "Artigo 15.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Garantias\n\n1 - O serviço prestado em regime de contratação, nos termos do artigo 13.º, conta, para todos os efeitos legais, como tempo de serviço prestado em funções docentes.\n\n2 - A prestação de serviço docente nos termos do n.º 2 do artigo 13.º é feita, em regime de destacamento, por um período de três anos, renovável anualmente até ao limite de três anos.\n\n3 - O tempo de serviço prestado em regime de destacamento na Escola é contado, para todos os efeitos legais, como exercido no lugar de origem.\n\n4 - Aos docentes que se desloquem de Portugal para o exercício de funções docentes é aplicável, com as necessárias adaptações, o disposto nos n.os 4 a 7 do artigo 19.º\n\n5 - É aplicável ao pessoal não docente, com as devidas adaptações, o disposto nos anteriores n.os 3 e 4."
+  },
+  "116974860": {
+   "fragment_id": "116967174",
+   "type": 11,
+   "heading": "Artigo 16.º — Mapa de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Mapa de pessoal\n\nO pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a aprovar por despacho do Ministro da Educação."
+  },
+  "116974861": {
+   "fragment_id": "116976675",
+   "type": 1,
+   "heading": "Capítulo V — Regime de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime de instalação"
+  },
+  "116974862": {
+   "fragment_id": "116976676",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "116974863": {
+   "fragment_id": "116976677",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime de instalação\n\nA Escola entra em regime de instalação no dia seguinte à publicação do presente diploma."
+  },
+  "116974864": {
+   "fragment_id": "116976678",
+   "type": 11,
+   "heading": "Artigo 18.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Duração\n\nO regime de instalação cessa com a nomeação do órgão ao qual, na estrutura orgânica aprovada pelo diploma a que se refere o artigo 5.º, competem os poderes de administração e gestão da Escola ou no prazo de dois anos após a entrada em vigor do presente diploma."
+  },
+  "116974865": {
+   "fragment_id": "116976679",
+   "type": 8,
+   "heading": "Secção II — Comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Comissão instaladora"
+  },
+  "116974866": {
+   "fragment_id": "116976680",
+   "type": 11,
+   "heading": "Artigo 19.º — Composição e direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Composição e direitos\n\n1 - Na pendência do regime de instalação a Escola é dirigida por uma comissão instaladora, composta por três membros, nomeados por despacho conjunto dos Ministros dos Negócios Estrangeiros e da Educação.\n\n2 - O presidente é equiparado, para efeitos remuneratórios e do disposto no n.º 2 do artigo 5.º do Decreto-Lei n.º 50/78, de 28 de Março, a director-geral.\n\n3 - Os vogais são equiparados, para efeitos remuneratórios, a subdirector-geral.\n\n4 - Os membros da comissão instaladora, quando não residentes originariamente em Moçambique, têm direito aos seguintes suplementos remuneratórios:\n\na) Instalação, para apoio nas despesas de mudança de residência;\n\nb) Residência, para compensar as diferenças de custo de vida entre Portugal e Moçambique.\n\n5 - Os montantes dos suplementos remuneratórios a que se refere o número anterior são fixados por despacho conjunto dos Ministros das Finanças, dos Negócios Estrangeiros e da Educação e do membro do Governo que tutela a Administração Pública.\n\n6 - Os membros da comissão instaladora têm ainda direito, quando determinado pela assunção do cargo, ao reembolso das despesas efectuadas com as suas viagens e as do seu agregado familiar na deslocação para Moçambique e regresso, bem como bagagens, nos termos a definir por despacho conjunto dos membros do Governo referidos no número anterior.\n\n7 - O reembolso das despesas referidas no número anterior não é aplicável, quanto ao regresso, salvo as situações de força maior, nos casos em que seja determinado por exoneração a pedido do próprio."
+  },
+  "116974867": {
+   "fragment_id": "116976681",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competência\n\n1 - À comissão instaladora cabem os poderes de administração e gestão da Escola, incluindo a matéria administrativo-financeira e de coordenação e orientação educativa da Escola.\n\n2 - Compete em especial à comissão instaladora:\n\na) Preparar as questões formais de transição, estabelecendo acordos com a cooperativa Escola Portuguesa de Maputo - Cooperativa de Ensino, C. R. L., e outras entidades;\n\nb) Preparar e propor o orçamento à aprovação do conselho de patronos;\n\nc) Elaborar os regulamentos e normativos necessários e adoptar os procedimentos administrativos que se mostrem convenientes;\n\nd) Propor a colocação e transferência de professores e outro pessoal ao serviço da escola da cooperativa Escola Portuguesa de Maputo - Cooperativa de Ensino, C. R. L., para a Escola e o eventual destacamento de docentes de Portugal, bem como proceder à contratação de pessoal local;\n\ne) Acompanhar os processos de transferência dos alunos;\n\nf) Organizar acções de divulgação da Escola em Moçambique;\n\ng) Preparar e acompanhar a instalação do regime de gestão definitivo;\n\nh) Acompanhar a recepção das instalações e equipamento da Escola e transferência do património que transite da cooperativa Escola Portuguesa de Maputo - Cooperativa de Ensino, C. R. L.;\n\ni) Preparar o lançamento dos anos lectivos de 1999-2000 e seguinte.\n\n3 - A comissão instaladora pode delegar em qualquer dos seus membros o exercício dos seus poderes ou a prática de actos da sua competência."
+  },
+  "116974868": {
+   "fragment_id": "116976682",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências do presidente da comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências do presidente da comissão instaladora\n\n1 - Compete ao presidente da comissão instaladora:\n\na) Cumprir e fazer cumprir as deliberações da comissão instaladora;\n\nb) Representar a Escola perante quaisquer entidades públicas ou privadas, em Portugal ou em Moçambique;\n\nc) Exercer o poder hierárquico, designadamente em matéria disciplinar, em relação ao pessoal docente e não docente;\n\nd) Exercer o poder disciplinar em relação aos alunos;\n\ne) Proceder à avaliação do pessoal docente e não docente;\n\nf) Convocar e dirigir as reuniões da comissão instaladora.\n\n2 - O presidente pode delegar em qualquer dos vogais da comissão instaladora a competência para a prática de actos previstos no número anterior, com excepção dos previstos nas alíneas a), b) e f)."
+  },
+  "116974869": {
+   "fragment_id": "116976683",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "116974870": {
+   "fragment_id": "116976684",
+   "type": 11,
+   "heading": "Artigo 22.º — Início de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Início de actividades\n\nA Escola Portuguesa de Moçambique - Centro de Ensino e Língua Portuguesa inicia as suas actividades escolares no ano lectivo de 1999-2000."
+  },
+  "116974871": {
+   "fragment_id": "116976685",
+   "type": 11,
+   "heading": "Artigo 23.º — Nome da Escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Nome da Escola\n\nPor despacho do Ministro da Educação pode ser conferida à Escola uma denominação que constará do nome de uma personalidade que se tenha distinguido em Moçambique, nomeadamente no âmbito da cultura, ciência ou educação."
+  },
+  "116974872": {
+   "fragment_id": "116976686",
+   "type": 11,
+   "heading": "Artigo 24.º — Apoio à comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Apoio à comissão instaladora\n\nO Ministério dos Negócios Estrangeiros, através da representação diplomática em Moçambique, prestará todo o apoio logístico ao exercício de funções por parte da comissão instaladora."
+  },
+  "116974873": {
+   "fragment_id": "116976687",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "836102442": {
+   "fragment_id": "116967158",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nConstituem objectivos da Escola:\n\na) Promover e difundir a língua e a cultura portuguesas;\n\nb) Aplicar as orientações curriculares para a educação pré-escolar e os planos curriculares e programas dos ensinos básico e secundário em vigor no sistema educativo português;\n\nc) Contribuir para a promoção sócio-educativa de recursos humanos;\n\nd) Proporcionar uma formação de base cultural portuguesa;\n\ne) Permitir a escolarização de filhos de portugueses;\n\nf) Constituir-se como centro de formação de professores e centro de recursos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102443": {
+   "fragment_id": "116967160",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura orgânica",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 5.º — Estrutura orgânica\n\nOs princípios e as normas que estabelecem a organização interna da Escola são definidos nos seus estatutos, aprovados por portaria conjunta dos Ministérios das Finanças, dos Negócios Estrangeiros e da Educação.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 177/2002 - Diário da República n.º 175/2002, Série I-A de 2002-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2002-196972) O decreto regulamentar previsto no presente artigo, deverá ser elaborado no prazo máximo de 180 dias após a entrada em vigor do Decreto-Lei n.º 177/2002, de 31 de julho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102456": {
+   "fragment_id": "836100083",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Órgãos",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 5.º-A — Órgãos\n\nSem prejuízo da estrutura que vier a ser definida no diploma a que se refere o artigo anterior, a Escola dispõe de:\n\na) Um conselho de patronos;\n\nb) Um conselho directivo.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102444": {
+   "fragment_id": "116967162",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho de patronos",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho de patronos\n\nO conselho de patronos é constituído por cinco elementos designados da seguinte forma:\n\na) Um pelo Ministro dos Negócios Estrangeiros;\n\nb) Dois pelo Ministro da Educação;\n\nc) Um representante da Comunidade Portuguesa em Moçambique, indicado pelo Ministro dos Negócios Estrangeiros;\n\nd) Um representante da Associação de Pais dos Alunos da Escola ou de quem os represente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102445": {
+   "fragment_id": "116967163",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 7.º — Competências\n\nO conselho de patronos é um órgão consultivo da Escola, competindo-lhe apoiar e participar na definição das linhas orientadoras da Escola e nas tomadas de decisão do conselho directivo, em especial:\n\na) Emitir parecer sobre:\n\ni) O projecto educativo da Escola;\n\nii) O plano anual de actividades;\n\niii) A proposta de orçamento;\n\niv) O relatório de contas de gerência;\n\nv) A proposta do conselho directivo referente às quantias a cobrar pelos serviços prestados, nomeadamente o montante das propinas;\n\nvi) Os critérios gerais para a contratação do pessoal docente e não docente;\n\nvii) O regulamento interno da Escola;\n\nb) Proceder ao acompanhamento geral das actividades da Escola.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102446": {
+   "fragment_id": "116967164",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento e mandato",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 8.º — Funcionamento e mandato\n\n1 - O presidente do conselho de patronos é nomeado por despacho do Ministro da Educação de entre os dois elementos por si designados nos termos do artigo 6.º\n\n2 - Os membros do conselho de patronos elegem entre si, trienalmente, um vice-presidente.\n\n3 - O conselho de patronos reúne:\n\na) Ordinariamente, três vezes por ano, mediante convocação do seu presidente;\n\nb) Extraordinariamente, por iniciativa do seu presidente ou da maioria dos seus membros.\n\n4 - A duração do mandato de cada elemento do conselho de patronos é de três anos, podendo o mesmo ser renovado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102447": {
+   "fragment_id": "116967165",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 9.º — Direitos\n\n1 - Os membros do conselho de patronos que tenham de se deslocar de Portugal a Moçambique, para efeitos de participação nas suas reuniões, são dispensados das suas actividades profissionais, públicas ou privadas, considerando-se, para todos os efeitos, a deslocação como realizada em serviço.\n\n2 - Aos membros referidos no número anterior aplica-se a lei geral da função pública em matéria de abono de despesas de transporte e de ajudas de custo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102457": {
+   "fragment_id": "836100084",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Conselho directivo",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 9.º-A — Conselho directivo\n\n1 - A direcção da Escola é composta por um presidente e dois vogais, nomeados, em comissão de serviço, por despacho conjunto do Primeiro-Ministro e dos Ministros dos Negócios Estrangeiros e da Educação, por um período de três anos, renovável.\n\n2 - O presidente e os vogais são equiparados a cargos de direcção superior de 1.º e 2.º grau, respectivamente.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102448": {
+   "fragment_id": "116967173",
+   "type": 11,
+   "heading": "Artigo 15.º — Garantias",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 15.º — Garantias\n\n1 - O serviço prestado em regime de contratação, nos termos do artigo 13.º, conta, para todos os efeitos legais, como tempo de serviço prestado em funções docentes.\n\n2 - A prestação de serviço docente nos termos do n.º 2 do artigo 13.º é feita, em regime de destacamento, por um período de três anos, renovável anualmente até ao limite de três anos.\n\n3 - O tempo de serviço prestado em regime de destacamento na Escola é contado, para todos os efeitos legais, como exercido no lugar de origem.\n\n4 - Os docentes que se desloquem de Portugal para o exercício de funções docentes têm direito aos seguintes suplementos remuneratórios:\n\na) Instalação para apoio nas despesas de mudança de residência;\n\nb) Residência para compensar as diferenças de custo de vida entre Portugal e Moçambique.\n\n5 - Os montantes dos suplementos remuneratórios, referidos nas alíneas a) e b) do número anterior, são fixados por despacho conjunto dos Ministros das Finanças, dos Negócios Estrangeiros e da Educação.\n\n6 - Têm ainda direito, quando determinado pela assunção do cargo, ao reembolso das despesas efectuadas com as suas viagens e as do seu agregado familiar na deslocação para Moçambique e regresso, bem como bagagens, nos termos a definir por despacho conjunto dos membros do Governo referidos no número anterior.\n\n7 - O reembolso das despesas previsto no número anterior não é aplicável, quanto ao regresso, salvas as situações de força maior, nos casos em que seja determinado por cessação do destacamento a pedido do próprio.\n\n8 - É aplicável ao pessoal não docente, com as devidas adaptações, o disposto nos anteriores n.os 3, 4, 5, 6 e 7.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102449": {
+   "fragment_id": "116967174",
+   "type": 11,
+   "heading": "Artigo 16.º — Mapa de pessoal",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 16.º — Mapa de pessoal\n\nO pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a aprovar por despacho conjunto dos Ministros das Finanças e da tutela.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102450": {
+   "fragment_id": "116976677",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime de instalação",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 17.º — Regime de instalação\n\nA Escola entra em regime de instalação no dia seguinte à publicação do presente diploma.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102451": {
+   "fragment_id": "116976678",
+   "type": 11,
+   "heading": "Artigo 18.º — Duração",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 18.º — Duração\n\nO regime de instalação cessa com a nomeação do órgão ao qual, na estrutura orgânica aprovada pelo diploma a que se refere o artigo 5.º, competem os poderes de administração e gestão da Escola ou no prazo de dois anos após a entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102452": {
+   "fragment_id": "116976680",
+   "type": 11,
+   "heading": "Artigo 19.º — Composição e direitos",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 19.º — Composição e direitos\n\n1 - Na pendência do regime de instalação a Escola é dirigida por uma comissão instaladora, composta por três membros, nomeados por despacho conjunto dos Ministros dos Negócios Estrangeiros e da Educação.\n\n2 - O presidente é equiparado, para efeitos remuneratórios e do disposto no n.º 2 do artigo 5.º do Decreto-Lei n.º 50/78, de 28 de Março, a director-geral.\n\n3 - Os vogais são equiparados, para efeitos remuneratórios, a subdirector-geral.\n\n4 - Os membros da comissão instaladora, quando não residentes originariamente em Moçambique, têm direito aos seguintes suplementos remuneratórios:\n\na) Instalação, para apoio nas despesas de mudança de residência;\n\nb) Residência, para compensar as diferenças de custo de vida entre Portugal e Moçambique.\n\n5 - Os montantes dos suplementos remuneratórios a que se refere o número anterior são fixados por despacho conjunto dos Ministros das Finanças, dos Negócios Estrangeiros e da Educação e do membro do Governo que tutela a Administração Pública.\n\n6 - Os membros da comissão instaladora têm ainda direito, quando determinado pela assunção do cargo, ao reembolso das despesas efectuadas com as suas viagens e as do seu agregado familiar na deslocação para Moçambique e regresso, bem como bagagens, nos termos a definir por despacho conjunto dos membros do Governo referidos no número anterior.\n\n7 - O reembolso das despesas referidas no número anterior não é aplicável, quanto ao regresso, salvo as situações de força maior, nos casos em que seja determinado por exoneração a pedido do próprio.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102453": {
+   "fragment_id": "116976681",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 20.º — Competência\n\n1 - À comissão instaladora cabem os poderes de administração e gestão da Escola, incluindo a matéria administrativo-financeira e de coordenação e orientação educativa da Escola.\n\n2 - Compete em especial à comissão instaladora:\n\na) Preparar as questões formais de transição, estabelecendo acordos com a cooperativa Escola Portuguesa de Maputo - Cooperativa de Ensino, C. R. L., e outras entidades;\n\nb) Preparar e propor o orçamento à aprovação do conselho de patronos;\n\nc) Elaborar os regulamentos e normativos necessários e adoptar os procedimentos administrativos que se mostrem convenientes;\n\nd) Propor a colocação e transferência de professores e outro pessoal ao serviço da escola da cooperativa Escola Portuguesa de Maputo - Cooperativa de Ensino, C. R. L., para a Escola e o eventual destacamento de docentes de Portugal, bem como proceder à contratação de pessoal local;\n\ne) Acompanhar os processos de transferência dos alunos;\n\nf) Organizar acções de divulgação da Escola em Moçambique;\n\ng) Preparar e acompanhar a instalação do regime de gestão definitivo;\n\nh) Acompanhar a recepção das instalações e equipamento da Escola e transferência do património que transite da cooperativa Escola Portuguesa de Maputo - Cooperativa de Ensino, C. R. L.;\n\ni) Preparar o lançamento dos anos lectivos de 1999-2000 e seguinte.\n\n3 - A comissão instaladora pode delegar em qualquer dos seus membros o exercício dos seus poderes ou a prática de actos da sua competência.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102454": {
+   "fragment_id": "116976682",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências do presidente da comissão instaladora",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 21.º — Competências do presidente da comissão instaladora\n\n1 - Compete ao presidente da comissão instaladora:\n\na) Cumprir e fazer cumprir as deliberações da comissão instaladora;\n\nb) Representar a Escola perante quaisquer entidades públicas ou privadas, em Portugal ou em Moçambique;\n\nc) Exercer o poder hierárquico, designadamente em matéria disciplinar, em relação ao pessoal docente e não docente;\n\nd) Exercer o poder disciplinar em relação aos alunos;\n\ne) Proceder à avaliação do pessoal docente e não docente;\n\nf) Convocar e dirigir as reuniões da comissão instaladora.\n\n2 - O presidente pode delegar em qualquer dos vogais da comissão instaladora a competência para a prática de actos previstos no número anterior, com excepção dos previstos nas alíneas a), b) e f).\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836102455": {
+   "fragment_id": "116976686",
+   "type": 11,
+   "heading": "Artigo 24.º — Apoio à comissão instaladora",
+   "in_force_from": "2004-05-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 24.º — Apoio à comissão instaladora\n\nO Ministério dos Negócios Estrangeiros, através da representação diplomática em Moçambique, prestará todo o apoio logístico ao exercício de funções por parte da comissão instaladora.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "116974874": {
+   "fragment_id": "116976688",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo.\n\nPromulgado em 11 de Junho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 16 de Junho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "836100407": {
+   "fragment_id": "116967157",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - A Escola é um estabelecimento público de educação e ensino com a mesma natureza dos estabelecimentos públicos de educação e de ensino do sistema educativo português e ministra a educação pré-escolar e os ensinos básico e secundário.\n\n2 - Sem prejuízo do disposto no número anterior, a Escola é dotada de autonomia financeira, devendo, nesta matéria, reger-se pelo regime financeiro previsto nos artigos 43.º e seguintes do Decreto-Lei n.º 155/92, de 28 de Julho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836100408": {
+   "fragment_id": "116967160",
+   "type": 11,
+   "heading": "Artigo 5.º — Organização interna",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 5.º — Organização interna\n\nOs princípios e as normas que estabelecem a organização interna da Escola são definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da educação.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 177/2002 - Diário da República n.º 175/2002, Série I-A de 2002-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2002-196972) O decreto regulamentar previsto no presente artigo, deverá ser elaborado no prazo máximo de 180 dias após a entrada em vigor do Decreto-Lei n.º 177/2002, de 31 de julho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103278": {
+   "fragment_id": "836100083",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Órgãos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 5.º-A — Órgãos\n\nA Escola dispõe dos seguintes órgãos:\n\na) O conselho de patronos;\n\nb) A direcção;\n\nc) O conselho pedagógico.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103279": {
+   "fragment_id": "116967162",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho de patronos",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho de patronos\n\n1 - O conselho de patronos tem a seguinte composição:\n\na) O Embaixador de Portugal em Moçambique, que, por inerência, preside;\n\nb) Um representante do Ministério da Educação;\n\nc) Um representante da Associação de Pais e Encarregados de Educação dos alunos da Escola, ou de quem os represente.\n\n2 - Podem, ainda, fazer parte do conselho de patronos individualidades ou representantes de entidades que se tenham distinguido no apoio ao funcionamento da Escola, na promoção e na divulgação da língua e cultura portuguesas em Moçambique ou dos laços linguísticos e culturais entre os povos português e moçambicano, a nomear por despacho do membro do Governo que tenha a responsabilidade pelas escolas portuguesas no estrangeiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103280": {
+   "fragment_id": "116967163",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 7.º — Competências\n\nO conselho de patronos é um órgão consultivo da Escola, competindo-lhe apoiar e participar na definição das linhas orientadoras da Escola e nas tomadas de decisão do conselho directivo, em especial:\n\na) Emitir parecer sobre:\n\ni) O projecto educativo da Escola;\n\nii) O plano anual de actividades;\n\niii) A proposta de orçamento;\n\niv) O relatório de contas de gerência;\n\nv) A proposta do conselho directivo referente às quantias a cobrar pelos serviços prestados, nomeadamente o montante das propinas;\n\nvi) Os critérios gerais para a contratação do pessoal docente e não docente;\n\nvii) O regulamento interno da Escola;\n\nb) Proceder ao acompanhamento geral das actividades da Escola.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103281": {
+   "fragment_id": "116967164",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento e mandato",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 8.º — Funcionamento e mandato\n\n1 - (Revogado.)\n\n2 - Os membros do conselho de patronos elegem entre si, trienalmente, um vice-presidente.\n\n3 - O conselho de patronos reúne:\n\na) Ordinariamente, duas vezes por ano, mediante convocação do seu presidente;\n\nb) Extraordinariamente, por iniciativa do seu presidente ou da maioria dos seus membros.\n\n4 - A duração do mandato de cada elemento do conselho de patronos, com excepção do presidente, é de três anos, podendo o mesmo ser renovado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103282": {
+   "fragment_id": "116967165",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 9.º — Direitos\n\n1 - Os membros do conselho de patronos que tenham de se deslocar de Portugal a Moçambique, para efeitos de participação nas suas reuniões, são dispensados das suas actividades profissionais, públicas ou privadas, considerando-se, para todos os efeitos, a deslocação como realizada em serviço.\n\n2 - Aos membros referidos no número anterior aplica-se a lei geral da função pública em matéria de abono de despesas de transporte e de ajudas de custo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103283": {
+   "fragment_id": "836100084",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Direcção",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 9.º-A — Direcção\n\n1 - A direcção da Escola é composta por um director e dois subdirectores, cargos de direcção superior, respectivamente, de 1.º e 2.º graus.\n\n2 - Os membros da direcção são recrutados, por escolha ou por procedimento concursal, aplicando-se subsidiariamente o procedimento previsto no artigo 20.º da Lei n.º 2/2004, de 15 de Janeiro, de entre indivíduos possuidores, pelo menos, do grau de licenciado, vinculados ou não à Administração Pública Portuguesa, que possuam competência, aptidão, experiência profissional e formação adequadas ao exercício das funções.\n\n3 - Os membros da direcção são designados, em comissão de serviço, da seguinte forma:\n\na) Por despacho conjunto do Primeiro-Ministro e dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, no caso do director;\n\nb) Por despacho conjunto dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, no caso dos subdirectores.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103284": {
+   "fragment_id": "836100135",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Competências",
+   "in_force_from": "2009-02-24",
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-B — Competências\n\n1 - O director tem os poderes de administração e gestão da Escola, incluindo a matéria administrativo-financeira, competindo-lhe especialmente:\n\na) Aprovar o regulamento interno;\n\nb) Definir o regime de funcionamento da Escola;\n\nc) Superintender na constituição de turmas e na elaboração de horários;\n\nd) Distribuir o serviço docente e não docente;\n\ne) Designar os directores de turma;\n\nf) Gerir as instalações, espaços e equipamentos, bem como outros recursos educativos;\n\ng) Proceder à selecção e recrutamento de pessoal docente e não docente;\n\nh) Autorizar a realização de despesas e o respectivo pagamento, fiscalizar a cobrança de receitas e verificar a legalidade da gestão financeira da Escola;\n\ni) Estabelecer protocolos e celebrar acordos de cooperação com outras escolas ou instituições de formação;\n\nj) Promover e incentivar o relacionamento com a comunidade educativa.\n\n2 - Compete, ainda, ao director:\n\na) Representar a Escola;\n\nb) Exercer o poder hierárquico em relação ao pessoal docente e não docente;\n\nc) Exercer o poder disciplinar em relação aos alunos;\n\nd) Intervir nos termos da lei no processo de avaliação de desempenho do pessoal docente;\n\ne) Proceder à avaliação de desempenho do pessoal não docente.\n\n3 - O director pode delegar em qualquer dos membros da direcção o exercício dos seus poderes ou a prática de actos da sua competência."
+  },
+  "836103285": {
+   "fragment_id": "836100136",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Conselho pedagógico",
+   "in_force_from": "2009-02-24",
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-C — Conselho pedagógico\n\n1 - O conselho pedagógico é o órgão de coordenação e orientação educativa da Escola.\n\n2 - A composição do conselho pedagógico é da responsabilidade da Escola, a definir no regulamento interno, devendo ser assegurada a representatividade de todos os participantes na vida da Escola, incluindo os alunos e encarregados de educação, não podendo ter um número de elementos superior a 15.\n\n3 - Nas reuniões em que sejam tratados assuntos que envolvam a avaliação dos alunos apenas participam os membros docentes."
+  },
+  "836103286": {
+   "fragment_id": "836100137",
+   "type": 11,
+   "heading": "Artigo 9.º-D — Competências",
+   "in_force_from": "2009-02-24",
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-D — Competências\n\n1 - O conselho pedagógico é o órgão responsável nos domínios pedagógico-didáctico, da orientação e acompanhamento dos alunos, competindo-lhe, em especial:\n\na) Aprovar o seu regulamento interno;\n\nb) Definir critérios gerais nos domínios da informação e da orientação escolar e vocacional, do acompanhamento pedagógico e da avaliação dos alunos;\n\nc) Definir princípios gerais nos domínios da articulação e diversificação curricular, dos apoios e complementos educativos e das modalidades especiais de educação escolar;\n\nd) Adoptar os manuais escolares, ouvidas as estruturas de orientação educativa;\n\ne) Definir os critérios gerais a que deve obedecer a elaboração dos horários.\n\n2 - O director assume, por inerência, as funções de presidente do conselho pedagógico."
+  },
+  "836103287": {
+   "fragment_id": "836100138",
+   "type": 11,
+   "heading": "Artigo 9.º-E — Estruturas de orientação educativa",
+   "in_force_from": "2009-02-24",
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-E — Estruturas de orientação educativa\n\nA portaria referida no artigo 5.º fixa as estruturas de orientação educativa que colaboram com os conselho pedagógico e directivo no sentido de assegurar o acompanhamento eficaz do percurso escolar dos alunos."
+  },
+  "836100413": {
+   "fragment_id": "116967171",
+   "type": 11,
+   "heading": "Artigo 13.º — Pessoal docente",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 13.º — Pessoal docente\n\n1 - Só pode exercer funções docentes na Escola o pessoal que detenha as habilitações académicas e profissionais exigidas para o exercício das mesmas funções em estabelecimentos públicos portugueses de educação pré-escolar e dos ensinos básico e secundário.\n\n2 - O recrutamento de pessoal para o exercício de funções docentes na Escola é feito através da contratação local.\n\n3 - Esgotada localmente a possibilidade de contratação de indivíduos portadores de habilitação profissional, poderá a Escola proceder à contratação de indivíduos que sejam portadores do grau académico de licenciado ou bacharel habilitados cientificamente para a docência da área disciplinar ou disciplinas em falta.\n\n4 - O exercício de funções docentes na Escola pode ser assegurado, complementarmente, por pessoal docente da carreira do ensino público português portador de qualificação profissional para a docência, de acordo com as formas de mobilidade previstas no Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, na sua redacção actual, abreviadamente designado por Estatuto da Carreira Docente.\n\n5 - Para o exercício de funções docentes na Escola, pode ainda o pessoal docente de carreira do ensino público português portador de qualificação profissional para a docência solicitar licença sem remuneração.\n\n6 - Excepcionalmente, para o exercício de funções de coordenação educativa e de supervisão pedagógica na Escola, exclusiva ou cumulativamente com a função docente, pode, ainda, mediante as formas de mobilidade previstas no Estatuto da Carreira Docente, ser colocado pessoal docente da carreira do ensino público português portador de qualificação profissional para a docência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836100417": {
+   "fragment_id": "116967172",
+   "type": 11,
+   "heading": "Artigo 14.º — Pessoal não docente",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 14.º — Pessoal não docente\n\n1 - O recrutamento de pessoal para o exercício de funções não docentes na Escola é feito através da contratação local de indivíduos que reúnam as condições necessárias ao desempenho das respectivas funções.\n\n2 - Os funcionários com vínculo à Administração Pública Portuguesa podem ser chamados a desempenhar funções na Escola, em regime de requisição, com garantia do seu lugar de origem e dos direitos adquiridos.\n\n3 - As situações de requisição a que se refere o número anterior são feitas por um período de três anos, renováveis anualmente até ao limite de três anos.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836100414": {
+   "fragment_id": "116967173",
+   "type": 11,
+   "heading": "Artigo 15.º — Garantias",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 15.º — Garantias\n\n1 - O serviço prestado em regime de contratação, nos termos do artigo 13.º, conta, para todos os efeitos legais, como tempo de serviço prestado em funções docentes no ensino público português.\n\n2 - A prestação do serviço docente nos termos dos n.os 4 e 6 do artigo 13.º é feita nos termos e dentro dos limites previstos no Estatuto da Carreira Docente.\n\n3 - O tempo de serviço prestado na Escola em regime de mobilidade é contado, para todos os efeitos legais, como prestado no lugar de origem.\n\n4 - A concessão da licença sem remuneração referida no n.º 5 do artigo 13.º considera-se como fundada em circunstâncias de interesse público e é feita por um período inicial de três anos, podendo ser renovada anualmente até ao limite de três anos.\n\n5 - A situação de licença sem remuneração não é impeditiva da celebração dos contratos previstos no n.º 2 do artigo 13.º e tem os efeitos jurídicos previstos no n.º 2 do artigo 41.º do Decreto-Lei n.º 165/2006, de 11 de Agosto.\n\n6 - O pessoal docente em regime de licença sem remuneração pode optar por requerer que lhe seja contado o tempo para efeitos de reforma, aposentação e fruição de benefícios sociais, desde que mantenha os correspondentes descontos com base na remuneração auferida à data da concessão da licença.\n\n7 - Ao pessoal docente em regime de licença sem remuneração cujo contrato cesse antes do seu termo aplicam-se as seguintes regras:\n\na) Se o contrato cessar por razões que não lhe sejam imputáveis pode requerer o regresso antecipado com direito à ocupação de um posto de trabalho no serviço de origem;\n\nb) Se o contrato cessar por razões que lhe sejam imputáveis aplica-se, desde o dia seguinte à cessação, todos os efeitos previstos na lei para as licenças sem remuneração não fundadas em circunstâncias de interesse público.\n\n8 - Os docentes que se desloquem de Portugal para o exercício de funções docentes em regime de mobilidade têm direito aos seguintes abonos ou compensações:\n\na) Instalação para apoio nas despesas de mudança de residência;\n\nb) Residência para compensar as diferenças de custo de vida entre Portugal e Moçambique.\n\n9 - Os montantes dos abonos ou compensações referidos nas alíneas a) e b) do número anterior são fixados por despacho conjunto dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da educação.\n\n10 - Têm ainda direito, quando determinado pela assunção do cargo, ao reembolso das despesas efectuadas com as suas viagens e as do seu agregado familiar na deslocação para Moçambique e regresso, bem como bagagens, nos termos a definir por despacho conjunto dos membros do Governo referidos no número anterior.\n\n11 - O reembolso das despesas previsto no número anterior não é aplicável quanto ao regresso, salvas as situações de força maior, nos casos em que seja determinado por cessação do regime de mobilidade a pedido do próprio.\n\n12 - É aplicável aos membros da direcção e ao pessoal não docente, com as devidas adaptações, o disposto nos n.os 3, 8, 9, 10 e 11.\n\n13 - Na fixação das remunerações do pessoal docente e não docente em regime de contratação local deve ter-se em conta a necessidade de assegurar a estabilidade das condições de vida e a manutenção do poder de compra.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836100422": {
+   "fragment_id": "836100139",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Protecção social",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 15.º-A — Protecção social\n\n1 - Ao pessoal contratado localmente para o exercício de funções docentes na Escola aplica-se a legislação da segurança social determinada pelo instrumento internacional de segurança social que tenha sido celebrado entre Portugal e Moçambique ou, na sua falta, a legislação de segurança social de Moçambique.\n\n2 - Sempre que do disposto no número anterior decorra a obrigação de inscrição no regime de segurança social de Moçambique, cabe à Escola suportar os encargos de conta da entidade patronal.\n\n3 - Complementarmente, em condições a fixar por despacho do membro do Governo responsável pela área da educação, sob proposta da direcção, pode ser celebrado contrato de seguro que garanta a protecção social em Moçambique, sendo esses encargos suportados, em partes iguais, pelo docente e pela Escola.\n\n4 - O disposto nos números anteriores não se aplica, para efeitos de aposentação, aos docentes em situação de licença sem vencimento contratados localmente que, no momento da celebração do contrato, efectuem a opção a que se refere o n.º 6 do artigo 15.º\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836100423": {
+   "fragment_id": "116967174",
+   "type": 11,
+   "heading": "Artigo 16.º — Mapa de pessoal",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 16.º — Mapa de pessoal\n\nO pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a aprovar pelo director e sujeito a ratificação do membro do Governo responsável pela área da educação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836100416": {
+   "fragment_id": "116976684",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 22.º — Avaliação\n\n1 - É aplicável à Escola o sistema de avaliação da educação e do ensino não superior constante da Lei n.º 31/2002, de 20 de Dezembro.\n\n2 - É aplicável ao pessoal docente em exercício de funções na Escola o regime de avaliação de desempenho constante do Estatuto da Carreira Docente e dos Decretos Regulamentares n.os 2/2008, de 10 de Janeiro, e 11/2008, de 23 de Maio.\n\n3 - As adaptações que se mostrem necessárias efectuar ao regime previsto no número anterior em função da especificidade da Escola são aprovadas por decreto regulamentar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836100424": {
+   "fragment_id": "836100140",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Propinas e outros valores",
+   "in_force_from": "2009-02-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 24.º-A — Propinas e outros valores\n\nO montante do valor das propinas, bem como dos serviços prestados, é aprovado pelo membro do Governo que tenha a responsabilidade pelas escolas portuguesas no estrangeiro, sob proposta da direcção.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836100425": {
+   "fragment_id": "116976687",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "836103288": {
+   "fragment_id": "116967156",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+   ],
+   "markdown": "###### Artigo 1.º — Criação\n\n1 - É criada, ao abrigo do Acordo de Cooperação celebrado entre a República Portuguesa e a República de Moçambique, a Escola Portuguesa de Moçambique - Centro de Ensino e Língua Portuguesa, adiante abreviadamente designada por Escola, da titularidade do Estado Português, e com sede em território da República de Moçambique.\n\n2 - É igualmente criado pelo presente decreto-lei, um polo da Escola, que dela faz parte integrante, sediado na Matola, adiante designado por polo da Matola.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+  },
+  "836103289": {
+   "fragment_id": "116967157",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - A Escola é um estabelecimento público de educação e ensino com a mesma natureza dos estabelecimentos públicos de educação e de ensino do sistema educativo português e ministra a educação pré-escolar e os ensinos básico e secundário.\n\n2 - Sem prejuízo do disposto no número anterior, a Escola é dotada de autonomia administrativa e financeira, devendo, nesta matéria, reger-se pelo regime financeiro previsto nos artigos 43.º e seguintes do Decreto-Lei n.º 155/92, de 28 de julho.\n\n3 - No âmbito da sua autonomia pedagógica, a Escola pode:\n\na) Celebrar protocolos ou acordos de colaboração com outras entidades públicas e privadas com vista ao alargamento da sua oferta educativa ou formativa, desde que devidamente autorizada pelo membro do Governo responsável pela área da educação;\n\nb) Celebrar contrato de autonomia.\n\n4 - Para além do polo da Matola referido no n.º 2 do artigo anterior, podem ser criados, por portaria dos membros do Governo responsáveis pelas áreas das finanças, dos negócios estrangeiros e da educação, polos da Escola destinados à ampliação e descentralização da sua oferta de formação e educação, que dela fazem parte integrante.\n\n5 - A Escola sediada na cidade de Maputo constitui-se como Escola sede.\n\n6 - A autonomia, a administração e a gestão da Escola funcionam sob o princípio da responsabilidade e da prestação de contas do Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836103290": {
+   "fragment_id": "116967160",
+   "type": 11,
+   "heading": "Artigo 5.º — Gestão",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 5.º — Gestão\n\n1 - A gestão da Escola e a prestação do serviço público de educação é efetuada diretamente pelo Estado Português.\n\n2 - Sem prejuízo das especificidades previstas no presente diploma, a gestão da Escola é efetuada de acordo com o regime jurídico de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo Decreto-Lei n.º 75/2008, de 22 de abril, alterado pelos Decretos-Leis n.os 224/2009, de 11 de setembro, e 137/2012, de 2 de julho.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 177/2002 - Diário da República n.º 175/2002, Série I-A de 2002-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2002-196972) O decreto regulamentar previsto no presente artigo, deverá ser elaborado no prazo máximo de 180 dias após a entrada em vigor do Decreto-Lei n.º 177/2002, de 31 de julho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103291": {
+   "fragment_id": "116967162",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho de patronos",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho de patronos\n\n1 - O conselho de patronos tem a seguinte composição:\n\na) O Embaixador de Portugal em Moçambique, que, por inerência, preside;\n\nb) Um representante do Ministério da Educação;\n\nc) Um representante da Associação de Pais e Encarregados de Educação dos alunos da Escola, ou de quem os represente.\n\n2 - Podem, ainda, fazer parte do conselho de patronos individualidades ou representantes de entidades que se tenham distinguido no apoio ao funcionamento da Escola, na promoção e na divulgação da língua e cultura portuguesas em Moçambique ou dos laços linguísticos e culturais entre os povos português e moçambicano, a nomear por despacho do membro do Governo que tenha a responsabilidade pelas escolas portuguesas no estrangeiro.\n\n3 - A participação nos trabalhos do conselho de patronos não confere aos respetivos titulares o direito a qualquer remuneração ou abono.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103292": {
+   "fragment_id": "116967163",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 7.º — Competências\n\nO conselho de patronos é o órgão responsável pela definição das linhas orientadoras da atividade da Escola, competindo-lhe, em especial:\n\na) Aprovar o projeto educativo da Escola;\n\nb) Aprovar o regulamento interno;\n\nc) Aprovar o plano anual de atividades;\n\nd) Definir as linhas orientadoras para a elaboração do orçamento;\n\ne) Aprovar o orçamento;\n\nf) Apreciar e aprovar o relatório de contas de gerência;\n\ng) Emitir parecer sobre a proposta das quantias a cobrar pelos serviços prestados, nomeadamente o montante das propinas;\n\nh) Aprovar as propostas de contratos de autonomia, nos termos do artigo 21.º-A;\n\ni) Proceder ao acompanhamento geral das actividades da Escola.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103293": {
+   "fragment_id": "116967164",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento e mandato",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 8.º — Funcionamento e mandato\n\n1 - (Revogado.)\n\n2 - Os membros do conselho de patronos elegem, de entre si, trienalmente, um vice-presidente.\n\n3 - O conselho de patronos reúne:\n\na) Ordinariamente, duas vezes por ano, mediante convocação do seu presidente;\n\nb) Extraordinariamente, por iniciativa do seu presidente ou da maioria dos seus membros.\n\n4 - A duração do mandato de cada elemento do conselho de patronos, com exceção do presidente, é de três anos, podendo o mesmo ser renovado.\n\n5 - Sempre que o presidente considere que as deliberações do conselho de patronos podem pôr em causa o interesse público e a prossecução dos objetivos da Escola, deve submetê-las a homologação do membro do Governo responsável pela área da educação, suspendendo-se a sua execução.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103314": {
+   "fragment_id": "116967165",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 9.º — Direitos\n\n1 - Os membros do conselho de patronos que tenham de se deslocar de Portugal a Moçambique, para efeitos de participação nas suas reuniões, são dispensados das suas actividades profissionais, públicas ou privadas, considerando-se, para todos os efeitos, a deslocação como realizada em serviço.\n\n2 - Aos membros referidos no número anterior aplica-se a lei geral da função pública em matéria de abono de despesas de transporte e de ajudas de custo.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103294": {
+   "fragment_id": "836100084",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Direcção",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 9.º-A — Direcção\n\n1 - A direção da Escola é composta por um diretor e dois subdiretores.\n\n2 - A direção dos polos é assegurada pelo diretor da Escola e por dois subdiretores, a recrutar para o efeito.\n\n3 - Os membros da direção da Escola são recrutados de entre indivíduos que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, através de procedimento concursal a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública e da educação.\n\n4 - Os membros da direção da Escola e da direção dos polos são designados em comissão de serviço pelo período de quatro anos, da seguinte forma:\n\na) Por despacho do Primeiro-Ministro e dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, no caso do diretor;\n\nb) Por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, no caso dos subdiretores.\n\n5 - O diretor e os subdiretores são equiparados, para efeitos remuneratórios, a dirigentes superiores de 1.º e 2.º grau, respetivamente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103305": {
+   "fragment_id": "836100135",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Competências",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+   ],
+   "markdown": "###### Artigo 9.º-B — Competências\n\n1 - O diretor tem os poderes de administração e gestão da Escola nas áreas pedagógica, cultural, administrativa, financeira e patrimonial.\n\n2 - Compete ao diretor:\n\na) Representar a Escola;\n\nb) Distribuir o serviço docente e não docente;\n\nc) Designar os coordenadores dos departamentos e os diretores de turma;\n\nd) Exercer o poder hierárquico em relação ao pessoal docente e não docente;\n\ne) Exercer o poder disciplinar em relação aos alunos;\n\nf) Intervir nos termos da lei no processo de avaliação de desempenho do pessoal docente;\n\ng) Proceder à avaliação de desempenho do pessoal não docente;\n\nh) Gerir as instalações, espaços e equipamentos, bem como outros recursos educativos;\n\ni) Proceder à seleção e recrutamento de pessoal docente e não docente;\n\nj) Celebrar, renovar e rescindir contratos de trabalho do pessoal docente e não docente contratados localmente;\n\nk) Autorizar a realização de despesas e o respetivo pagamento, fiscalizar a cobrança de receitas e verificar a legalidade da gestão financeira da Escola;\n\nl) Estabelecer protocolos e celebrar acordos de cooperação com outras escolas ou instituições de formação;\n\nm) Promover e incentivar o relacionamento com a comunidade educativa.\n\nn) Elaborar o orçamento;\n\no) Praticar todos os atos necessários ao normal funcionamento dos serviços e órgãos no âmbito da gestão dos recursos financeiros, materiais e patrimoniais, designadamente:\n\ni) Autorizar, dentro dos limites estabelecidos pelo respetivo orçamento anual, transferências de verbas subordinadas à mesma classificação orgânica e a antecipação até dois duodécimos por rubrica, com limites fixados pelo Ministério das Finanças;\n\nii) Autorizar a constituição de fundos permanentes das dotações do respetivo orçamento, com exceção das rubricas referentes a pessoal, até ao limite de um duodécimo;\n\niii) Celebrar contratos de seguro e de arrendamento e autorizar a respetiva atualização, nos termos da lei.\n\n3 - Ouvido o conselho pedagógico, compete, ainda, ao diretor:\n\na) Elaborar e submeter à aprovação do conselho de patronos:\n\ni) As alterações ao regulamento interno;\n\nii) Os planos anual e plurianual de atividades;\n\niii) O relatório de atividades;\n\niv) As propostas de celebração de contrato de autonomia;\n\nb) Aprovar o plano de formação e atualização do pessoal docente e não docente;\n\nc) Definir o regime de funcionamento da Escola;\n\nd) Superintender na constituição de turmas e na elaboração de horários.\n\n4 - O diretor submete à aprovação do conselho de patronos o projeto educativo elaborado pelo conselho pedagógico.\n\n5 - O diretor pode delegar nos subdiretores as competências referidas nos números anteriores, com exceção da prevista na alínea f) do n.º 2.\n\n6 - O diretor é substituído, nas suas ausências e impedimentos, pelo subdiretor que designar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+  },
+  "836103295": {
+   "fragment_id": "836100136",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Conselho pedagógico",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+   ],
+   "markdown": "###### Artigo 9.º-C — Conselho pedagógico\n\n1 - O conselho pedagógico é o órgão de coordenação e supervisão pedagógica e orientação educativa da Escola, de orientação e acompanhamento dos alunos e da formação inicial e contínua do pessoal docente.\n\n2 - A composição do conselho pedagógico é da responsabilidade da Escola, a definir no regulamento interno, não devendo ultrapassar o máximo de 17 membros, observando os seguintes princípios:\n\na) Participação dos coordenadores dos departamentos curriculares;\n\nb) Participação das demais estruturas de coordenação e supervisão pedagógica e de orientação educativa, assegurando uma representação pluridisciplinar e das diferentes ofertas formativas.\n\n3 - O diretor é, por inerência, o presidente do conselho pedagógico.\n\n4 - Nos polos da Escola é constituído o conselho pedagógico nos termos dos números anteriores, quando a sua oferta educativa contemple os níveis de escolaridade a partir do 2.º ciclo do ensino básico, cabendo ao diretor da Escola sede presidir ou ao subdiretor em quem for delegada essa função.\n\n5 - No caso da oferta educativa ser constituída até ao 1.º ciclo, um dos subdiretores do polo integra o conselho pedagógico da Escola sede.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+  },
+  "836103296": {
+   "fragment_id": "836100137",
+   "type": 11,
+   "heading": "Artigo 9.º-D — Competências",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+   ],
+   "markdown": "###### Artigo 9.º-D — Competências\n\n1 - Sem prejuízo das competências atribuídas por lei ou pelo regulamento interno, compete ao conselho pedagógico exercer as competências legais definidas no regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário.\n\n2 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+  },
+  "836103297": {
+   "fragment_id": "836100138",
+   "type": 11,
+   "heading": "Artigo 9.º-E — Estruturas de orientação educativa",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+   ],
+   "markdown": "###### Artigo 9.º-E — Estruturas de orientação educativa\n\nO regulamento interno fixa, nos termos do regime jurídico referido no n.º 2 do artigo 5.º, as estruturas que colaboram com a direção e com o conselho pedagógico no sentido de assegurar o acompanhamento eficaz do percurso escolar dos alunos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+  },
+  "836103298": {
+   "fragment_id": "116967171",
+   "type": 11,
+   "heading": "Artigo 13.º — Pessoal docente",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 13.º — Pessoal docente\n\n1 - Aos docentes da Escola é aplicável o Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril (ECD).\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado localmente, com recurso ao procedimento de contratação de escola, nos termos dos artigos 38.º e seguintes do Decreto-Lei n.º 132/2012, de 27 de junho, alterado pelo Decreto-Lei n.º 146/2013, de 22 de outubro, pela Lei n.º 80/2013, de 28 de novembro, e pelo Decreto-Lei n.º 83-A/2014, de 23 de maio.\n\n3 - Esgotada localmente a possibilidade de contratação de pessoal para o exercício de funções docentes, com os requisitos previstos nas alíneas b) e f) do artigo 22.º do ECD e a título excecional, pode proceder-se à contratação de trabalhadores com o grau académico de licenciado, habilitados cientificamente para a docência da área disciplinar ou disciplinas em falta ou sem a realização da prova de avaliação de conhecimentos e capacidades.\n\n4 - Podem, também, exercer funções docentes na Escola, em regime de mobilidade, os professores integrados na carreira do ensino público português.\n\n5 - Podem, ainda, exercer funções na Escola, docentes que se encontrem em licença sem vencimento.\n\n6 - Para o exercício de coordenação educativa e supervisão pedagógica, em regime de exclusividade ou em acumulação com a função docente e por recurso à mobilidade, pode ainda ser colocado na Escola pessoal da carreira docente do ensino público português.\n\n7 - À contratação do pessoal docente recrutado nos termos do n.º 2 aplica-se o regime jurídico de trabalho local, não conferindo a mesma qualquer vínculo à Administração Pública Portuguesa, nos termos do artigo 5.º do Decreto-Lei n.º 83-A/2014, de 23 de maio.\n\n8 - A remuneração do pessoal docente referido no número anterior é fixada nos termos do artigo 43.º do Decreto-Lei n.º 132/2012, de 27 de junho, alterado pelo Decreto-Lei n.º 146/2013, de 22 de outubro, pela Lei n.º 80/2013, de 28 de novembro, e pelo Decreto-Lei n.º 83-A/2014, de 23 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836103299": {
+   "fragment_id": "116967172",
+   "type": 11,
+   "heading": "Artigo 14.º — Pessoal não docente",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 14.º — Pessoal não docente\n\n1 - O recrutamento do pessoal para o exercício de funções não docentes na Escola é efetuado através de contratação local de trabalhadores, nos termos de legislação própria.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836103300": {
+   "fragment_id": "116967173",
+   "type": 11,
+   "heading": "Artigo 15.º — Garantias",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 15.º — Garantias\n\n1 - O tempo de serviço prestado no exercício de funções docentes na Escola é contado como tempo de serviço prestado em funções docentes no ensino público português.\n\n2 - A concessão de licença que tenha como fundamento a celebração de contrato para o desempenho de funções nas escolas portuguesas no estrangeiro considera-se fundamentada em circunstâncias de interesse público.\n\n3 - Os membros da direção, os docentes e o pessoal não docente que se desloquem de Portugal para o exercício de funções em regime de mobilidade têm direito ao reembolso das seguintes despesas, nos termos e em montantes a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças, dos negócios estrangeiros e da educação:\n\na) Com a instalação no local de trabalho;\n\nb) Com a residência no local de trabalho;\n\nc) Efetuadas com as suas viagens e com os membros do seu agregado familiar, incluindo as bagagens;\n\nd) Com seguros de saúde para si e para os membros do seu agregado familiar.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - [Revogado].\n\n9 - [Revogado].\n\n10 - [Revogado].\n\n11 - [Revogado].\n\n12 - [Revogado].\n\n13 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103301": {
+   "fragment_id": "836100139",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Protecção social",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 15.º-A — Protecção social\n\n1 - Ao pessoal contratado localmente para o exercício de funções docentes na Escola aplica-se a legislação da segurança social de Moçambique, sem prejuízo do disposto em instrumento bilateral de segurança social celebrado entre Portugal e Moçambique.\n\n2 - Compete à Escola suportar os encargos por conta da entidade patronal.\n\n3 - Complementarmente, em condições a fixar por despacho do membro do Governo responsável pela área da educação e sob proposta da direção, pode ser celebrado contrato de seguro para cobertura das eventualidades não abrangidas pelo regime de proteção social de Moçambique, sendo esses encargos suportados, nas percentagens de 35 % e 65 %, pelo docente e pela Escola, não podendo a comparticipação do trabalhador, para a formação do prémio de seguro, exceder o montante que o mesmo teria de suportar com a inscrição no regime geral de segurança social português para proteção nas mesmas eventualidades.\n\n4 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836103302": {
+   "fragment_id": "116967174",
+   "type": 11,
+   "heading": "Artigo 16.º — Mapa de pessoal",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 16.º — Mapa de pessoal\n\nO pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a elaborar pelo diretor e a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103308": {
+   "fragment_id": "836103194",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Contrato de autonomia",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+   ],
+   "markdown": "###### Artigo 21.º-A — Contrato de autonomia\n\n1 - Ao contrato de autonomia é aplicável o disposto no Decreto-Lei n.º 137/2012, de 2 de julho, na Portaria n.º 265/2012, de 30 de agosto, alterada pela Portaria n.º 44/2014, de 20 de fevereiro.\n\n2 - O conselho de patronos exerce, relativamente ao processo de celebração do contrato de autonomia, as competências atribuídas ao conselho geral na legislação aplicável.\n\n3 - A comissão de acompanhamento do contrato de autonomia da Escola, prevista no n.º 1 do artigo 9.º da Portaria n.º 265/2012, de 30 de agosto, alterada pela Portaria n.º 44/2014, de 20 de fevereiro, não integra o elemento indicado pelo conselho municipal de educação.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30"
+  },
+  "836103309": {
+   "fragment_id": "116976684",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 22.º — Avaliação\n\n1 - É aplicável à Escola o sistema de avaliação da educação e do ensino não superior constante da Lei n.º 31/2002, de 20 de dezembro, alterado pela Lei n.º 66-B/2012, de 31 de dezembro.\n\n2 - É aplicável ao pessoal docente em exercício de funções na Escola o regime de avaliação de desempenho constante do ECD, do Decreto Regulamentar n.º 26/2012, de 21 de fevereiro, e da Portaria n.º 15/2013, de 15 de janeiro, sem prejuízo das necessárias adaptações.\n\n3 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836103310": {
+   "fragment_id": "116976685",
+   "type": 11,
+   "heading": "Artigo 23.º — Nome da Escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Nome da Escola\n\nPor despacho do Ministro da Educação pode ser conferida à Escola uma denominação que constará do nome de uma personalidade que se tenha distinguido em Moçambique, nomeadamente no âmbito da cultura, ciência ou educação."
+  },
+  "836103311": {
+   "fragment_id": "116976686",
+   "type": 11,
+   "heading": "Artigo 24.º — Apoio à comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 24.º — Apoio à comissão instaladora\n\nO Ministério dos Negócios Estrangeiros, através da representação diplomática em Moçambique, prestará todo o apoio logístico ao exercício de funções por parte da comissão instaladora.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  },
+  "836103312": {
+   "fragment_id": "836100140",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Propinas",
+   "in_force_from": "2015-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 24.º-A — Propinas\n\nO valor das propinas é fixado pela direção é aprovado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "836103313": {
+   "fragment_id": "116976687",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "836111175": {
+   "fragment_id": "116967171",
+   "type": 11,
+   "heading": "Artigo 13.º — Pessoal docente",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 139-B/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), em vigor a partir de 2023-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 13.º — Pessoal docente\n\n1 - Aos docentes da Escola é aplicável o Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril (ECD).\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação e dos respetivos polos.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 139-B/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), em vigor a partir de 2023-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "917584344": {
+   "fragment_id": "116967171",
+   "type": 11,
+   "heading": "Artigo 13.º — Pessoal docente",
+   "in_force_from": "2025-05-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2025-09-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 139-B/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), em vigor a partir de 2023-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+   ],
+   "markdown": "###### Artigo 13.º — Pessoal docente\n\n1 - Aos docentes da Escola é aplicável o Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril (ECD).\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação e dos respetivos polos.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - O docente que, em resultado de concurso, aceite a colocação fica obrigado ao cumprimento de um período mínimo de dois anos de permanência na Escola, a contar da data do início de funções.\n\n10 - O incumprimento do disposto no número anterior constitui o docente na obrigação de indemnizar a Escola do valor correspondente aos custos suportados com o pagamento do apoio à instalação no local de trabalho e determina a perda do direito ao pagamento dos apoios ao regresso a Portugal e relativo à viagem de regresso a Portugal, para si e para os membros do seu agregado familiar, previstos nas alíneas a) e c) do n.º 14 do artigo 15.º, exceto se for devido a motivo de força maior ou a facto não imputável ao docente.\n\n11 - Para o efeito do disposto na parte final do número anterior, constitui motivo de força maior ou facto não imputável ao docente, designadamente:\n\na) Acidente de trabalho;\n\nb) Doença profissional;\n\nc) Internamento hospitalar e tratamento ambulatório na sequência daquele;\n\nd) Doença incapacitante do próprio que exija tratamento prolongado; ou\n\ne) Instabilidade política ou social devidamente reconhecida pelo Estado Português.\n\n> Nota: [Artigo 10.º, Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145) O regime previsto nos n.ºs 9 a 11 do presente artigo, apenas é aplicável às colocações de docentes que tenham lugar a partir do dia 1 de setembro de 2025.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2025-09-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 139-B/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), em vigor a partir de 2023-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24"
+  },
+  "917584345": {
+   "fragment_id": "116967173",
+   "type": 11,
+   "heading": "Artigo 15.º — Garantias",
+   "in_force_from": "2025-05-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2025-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+   ],
+   "markdown": "###### Artigo 15.º — Garantias\n\n1 - O tempo de serviço prestado no exercício de funções docentes na Escola é contado como tempo de serviço prestado em funções docentes no ensino público português.\n\n2 - A concessão de licença que tenha como fundamento a celebração de contrato para o desempenho de funções na Escola considera-se fundamentada em circunstâncias de interesse público.\n\n3 - O exercício de funções docentes no quadro da Escola confere ao docente de carreira vinculado a quadro de agrupamento de escolas, de escola não agrupada ou de quadro de zona pedagógica, consoante o caso, o direito à manutenção do seu lugar de origem, pelo período de até quatro anos.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - [Revogado].\n\n9 - [Revogado].\n\n10 - [Revogado].\n\n11 - [Revogado].\n\n12 - [Revogado].\n\n13 - [Revogado].\n\n14 - Os membros da direção da Escola, os adjuntos e os docentes que se desloquem de Portugal para o exercício de funções na Escola têm direito aos seguintes apoios, nos termos e nos montantes a definir por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da educação:\n\na) Apoio à instalação no local de trabalho e ao regresso a Portugal;\n\nb) Apoio ao custo da residência no local de trabalho, o qual é pago mensalmente, 12 vezes por ano, e é determinado tendo em conta os índices de custo de vida da Organização das Nações Unidas, constantes da publicação mais recente do ‘UN Bulletin of Statistics’, bem como critérios inerentes ao nível de risco e à insalubridade no país do exercício das funções;\n\nc) Apoio relativo à viagem de ida para o país do exercício das funções e de regresso a Portugal, no início e na cessação de funções, para si e para os membros do seu agregado familiar, podendo a sua realização por cada uma dessas pessoas ter lugar em datas distintas;\n\nd) Apoio relativo a uma viagem de ida para Portugal e de regresso ao país do exercício das funções, por cada ano civil de exercício na Escola que não coincida com o do início nem com o da cessação de funções, para si e para os membros do seu agregado familiar, podendo a sua realização por cada uma dessas pessoas ter lugar em datas distintas;\n\ne) Apoio relativo a prémios de seguros de saúde, para si e para os membros do seu agregado familiar;\n\nf) Isenção do pagamento de matrículas, propinas e outras despesas devidas pela frequência dos seus descendentes na Escola.\n\n15 - No caso dos docentes que se desloquem de Portugal para o exercício de funções na Escola, o apoio relativo à viagem de ida e de regresso, para si e para os membros do seu agregado familiar, previsto na alínea d) do número anterior, é devido, no máximo, três vezes.\n\n16 - O docente que cumpra um período de quatro anos de exercício de funções contínuas na Escola tem direito a um prémio de permanência, equivalente ao valor da sua remuneração base mensal, pago uma única vez, no mês seguinte a ter completado os quatro anos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2025-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 211/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846), em vigor a partir de 2015-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2009 - Diário da República n.º 37/2009, Série I de 2009-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029), em vigor a partir de 2009-02-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2004-270809), em vigor a partir de 2004-05-26"
+  }
+ }
+}

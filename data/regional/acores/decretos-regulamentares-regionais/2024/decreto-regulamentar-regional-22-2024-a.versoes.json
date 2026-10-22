@@ -1,0 +1,381 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:899582839:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2024-924709932",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/22-2024-899582839",
+ "source_lastmod": "2025-07-14",
+ "versions": [
+  {
+   "date": "2024-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "924671585",
+    "924671586",
+    "924671587",
+    "924671588",
+    "924671589",
+    "924671590",
+    "924671591",
+    "924671592",
+    "924671593",
+    "924671594",
+    "924671595",
+    "924671596",
+    "924671597",
+    "924671598",
+    "924671599",
+    "924671600",
+    "924671601",
+    "924671602",
+    "924671603",
+    "924671604",
+    "924671605",
+    "924671606",
+    "924671607",
+    "924671608",
+    "924671609"
+   ]
+  },
+  {
+   "date": "2025-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:924672855:por",
+     "title": "Decreto Regulamentar Regional n.º 20/2025/A",
+     "published": "2025-07-14",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "924671585",
+    "924671586",
+    "924671587",
+    "924671588",
+    "924671589",
+    "924671590",
+    "924671591",
+    "924671642",
+    "924671593",
+    "924671594",
+    "924671595",
+    "924671596",
+    "924671643",
+    "924671598",
+    "924671599",
+    "924671600",
+    "924671601",
+    "924671602",
+    "924671644",
+    "924671604",
+    "924671605",
+    "924671606",
+    "924671607",
+    "924671608",
+    "924671609",
+    "924671610"
+   ]
+  },
+  {
+   "date": "2026-03-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1075988798:por",
+     "title": "Decreto Regulamentar Regional n.º 3/2026/A",
+     "published": "2026-03-24",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/3-2026-1075988798"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "924671585",
+    "924671586",
+    "924671587",
+    "924671588",
+    "924671589",
+    "924671590",
+    "924671591",
+    "1076977075",
+    "924671593",
+    "924671594",
+    "924671595",
+    "924671596",
+    "924671643",
+    "924671598",
+    "924671599",
+    "924671600",
+    "924671601",
+    "924671602",
+    "924671644",
+    "924671604",
+    "924671605",
+    "924671606",
+    "924671607",
+    "924671608",
+    "924671609",
+    "924671610"
+   ]
+  }
+ ],
+ "fragments": {
+  "924671585": {
+   "fragment_id": "924709933",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 22/2024/A\n\nRegulamenta a concessão de apoios à compra de sementes de milho e sorgo, para a produção de forragem ou milho grão, na Região Autónoma dos Açores\n\nNuma região com as características produtivas dos Açores, os custos e disponibilidade da alimentação animal são determinantes para a sustentabilidade da produção regional de leite e carne.\n\nA persistente instabilidade dos mercados agrícolas e dos fatores de produção, bem como os impactos cada vez mais determinantes das alterações climáticas na produção agrícola, impõem a adoção de medidas de política pública que incentivem os agricultores a adotar práticas produtivas sustentáveis que fomentem ganhos de produtividade e acréscimos de competitividade nas suas explorações, aumentando a sua resiliência às crises e contribuindo para a segurança alimentar regional.\n\nA produção de forragem ou milho grão, através das culturas de milho e sorgo, é uma produção ambiental e economicamente sustentável e constitui uma excelente alternativa de rotação com as pastagens típicas dos Açores, garantindo facilidade de armazenamento na forma de silagem, fornecendo energia rápida e digestível para os bovinos durante todo o ano, reduzindo os custos de produção e desempenhando um papel fundamental na redução da dependência da Região Autónoma dos Açores em relação a importações de alimentos para os animais e na resiliência do setor aos efeitos das alterações climáticas.\n\nNeste contexto, nos anos de 2022 e 2023 já foram adotadas, com sucesso, medidas de apoio à compra de sementes de milho e sorgo, para a produção de forragem ou milho grão, como forma de minorar os efeitos da invasão da Ucrânia pela Rússia nos mercados agrícolas, importando continuar este apoio para as compras daquelas sementes realizadas durante o ano de 2024.\n\nEstes apoios enquadram-se nos objetivos estratégicos do desenvolvimento rural consagrados no Decreto Legislativo Regional n.º 31/2008/A, de 25 de julho, que aprova o regime jurídico que fixa as bases gerais do desenvolvimento rural, nomeadamente nos objetivos previstos nas alíneas a) e b) do artigo 2.º\n\nA atribuição dos apoios objeto do presente diploma respeita as regras comunitárias aplicáveis em matéria de auxílios de Estado, nomeadamente as disposições do Regulamento (UE) n.º 1408/2013 da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor agrícola.\n\nAssim, nos termos da alínea d) do artigo 227.º da Constituição da República Portuguesa, da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e ao abrigo do disposto no artigo 27.º do Decreto Legislativo Regional n.º 31/2008/A, de 25 de julho, o Governo Regional decreta o seguinte:"
+  },
+  "924671586": {
+   "fragment_id": "924709934",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "924671587": {
+   "fragment_id": "924709935",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma regulamenta a concessão de apoios à compra de sementes de milho e sorgo, destinadas à produção de forragem ou milho grão, para o ano de 2024."
+  },
+  "924671588": {
+   "fragment_id": "924709936",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente diploma é aplicável aos agricultores com exploração agrícola situada no território da Região Autónoma dos Açores."
+  },
+  "924671589": {
+   "fragment_id": "924709937",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nOs apoios objeto do presente diploma prosseguem os objetivos previstos nas alíneas a) e b) do artigo 2.º do Decreto Legislativo Regional n.º 31/2008/A, de 25 de julho."
+  },
+  "924671590": {
+   "fragment_id": "924709938",
+   "type": 1,
+   "heading": "Capítulo II — BENEFICIÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — BENEFICIÁRIOS"
+  },
+  "924671591": {
+   "fragment_id": "924709939",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar dos apoios objeto do presente diploma os agricultores que tenham procedido à compra de sementes de milho e, ou, de sorgo, para o cultivo no ano de 2024."
+  },
+  "924671592": {
+   "fragment_id": "924709940",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade dos beneficiários\n\nOs beneficiários dos apoios previstos no presente diploma devem cumprir as seguintes condições de elegibilidade:\n\na) Terem apresentado pedido de apoio, referente ao ano de 2024, à Ajuda aos Produtores de Culturas Arvenses do subprograma POSEI para a Região Autónoma dos Açores (POSEI - RAA), nos termos da respetiva legislação aplicável;\n\nb) Terem apresentado a declaração relativa ao tipo de empresa, de acordo com o modelo disponível no Portal do Beneficiário (https://beneficiario-agricola.azores.gov.pt), até à data da apresentação do pedido de apoio;\n\nc) Estarem inscritos na Autoridade Tributária e Aduaneira com, pelo menos, um código de Classificação de Atividades Económicas (CAE) identificado em lista a divulgar no aviso referido no artigo 9.º, até à data da apresentação do pedido de apoio;\n\nd) Estarem inscritos no Balcão dos Fundos com o registo de, pelo menos, um código de CAE referido na alínea anterior, até à data da decisão de aprovação do pedido de apoio."
+  },
+  "924671593": {
+   "fragment_id": "924709941",
+   "type": 1,
+   "heading": "Capítulo III — PEDIDOS DE APOIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — PEDIDOS DE APOIO"
+  },
+  "924671594": {
+   "fragment_id": "924709942",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de elegibilidade dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de elegibilidade dos pedidos de apoio\n\n1 - São considerados elegíveis, para efeitos do presente diploma, os pedidos de apoio para a compra de sementes de milho e, ou, de sorgo, que cumpram as seguintes condições de elegibilidade:\n\na) Respeitem as seguintes densidades máximas:\n\ni) No caso das sementes de milho, até uma densidade máxima de 90 000 sementes por hectare de superfície determinada de milho, no âmbito do pedido de ajuda apresentado, a título do ano de 2024, à Ajuda aos Produtores de Culturas Arvenses do subprograma POSEI - RAA;\n\nii) No caso das sementes de sorgo, até uma densidade máxima de 70 kg por hectare de superfície determinada de sorgo, no âmbito do pedido de ajuda apresentado, a título do ano de 2024, à Ajuda aos Produtores de Culturas Arvenses do subprograma POSEI - RAA;\n\nb) Apresentem toda a informação relativa às faturas comprovativas da compra das sementes de milho e, ou, de sorgo, bem como, quando aplicável, aos respetivos documentos retificativos.\n\n2 - As faturas comprovativas da compra das sementes de milho e, ou, de sorgo referidas na alínea b) do número anterior devem ter data compreendida entre 1 de janeiro e 15 de junho de 2024."
+  },
+  "924671595": {
+   "fragment_id": "924709943",
+   "type": 1,
+   "heading": "Capítulo IV — APOIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — APOIOS"
+  },
+  "924671596": {
+   "fragment_id": "924709944",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma e valor do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma e valor do apoio\n\n1 - O apoio é atribuído sob a forma de subvenção não reembolsável.\n\n2 - O valor máximo do apoio a conceder corresponde a 80 % do montante elegível da compra de sementes de milho e, ou, de sorgo, até ao limite de 265,00 € (duzentos e sessenta e cinco euros) por hectare, no caso do milho, e de 145,00 € (cento e quarenta e cinco euros) por hectare, no caso do sorgo.\n\n3 - Para efeitos do disposto no número anterior, o montante elegível corresponde à soma dos montantes constantes das faturas de compra e, quando aplicável, dos respetivos documentos retificativos, excluindo o imposto sobre o valor acrescentado, ajustado, se for o caso, em conformidade com as regras para as reduções e exclusões previstas no artigo 14.º\n\n4 - O valor do apoio a conceder por beneficiário está sujeito ao limite previsto no Regulamento (UE) n.º 1408/2013 da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor agrícola, bem como, ao limite orçamental definido no artigo seguinte.\n\n5 - Os apoios concedidos ao abrigo do presente diploma não são cumuláveis com outros auxílios para as mesmas despesas elegíveis."
+  },
+  "924671597": {
+   "fragment_id": "924709945",
+   "type": 11,
+   "heading": "Artigo 8.º — Limite orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Limite orçamental\n\n1 - O limite orçamental dos apoios a conceder ao abrigo do presente diploma é de 2 200 000,00 € (dois milhões e duzentos mil euros).\n\n2 - Caso o montante total dos pedidos de apoio exceda o limite orçamental disponível, o montante elegível é objeto de rateio, aplicável a todos os beneficiários."
+  },
+  "924671598": {
+   "fragment_id": "924709946",
+   "type": 1,
+   "heading": "Capítulo V — PROCEDIMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — PROCEDIMENTOS"
+  },
+  "924671599": {
+   "fragment_id": "924709947",
+   "type": 11,
+   "heading": "Artigo 9.º — Aviso para apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aviso para apresentação dos pedidos de apoio\n\nO período para apresentação dos pedidos de apoio, bem como a lista referida na alínea c) do artigo 5.º, são definidos em aviso emitido pela Direção Regional de Desenvolvimento Rural, a divulgar no Portal do Governo Regional dos Açores, disponível no sítio da Internet em https://portal.azores.gov.pt/web/drdr."
+  },
+  "924671600": {
+   "fragment_id": "924709948",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação dos pedidos de apoio\n\nOs pedidos de apoio devem ser apresentados, com toda a documentação aplicável, junto dos Serviços de Desenvolvimento Agrário de ilha, ou submetidos através de formulário eletrónico disponível em https://gestpdr.azores.gov.pt, mediante autenticação com a inserção de senha de identificação atribuída para o efeito."
+  },
+  "924671601": {
+   "fragment_id": "924709949",
+   "type": 11,
+   "heading": "Artigo 11.º — Análise e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Análise e decisão\n\nOs pedidos de apoio são analisados pela Direção Regional do Desenvolvimento Rural e são decididos pelo respetivo diretor regional, que pode delegar esta competência nos termos do Código do Procedimento Administrativo."
+  },
+  "924671602": {
+   "fragment_id": "924709950",
+   "type": 1,
+   "heading": "Capítulo VI — PAGAMENTOS E CONTROLOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — PAGAMENTOS E CONTROLOS"
+  },
+  "924671603": {
+   "fragment_id": "924709951",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamentos\n\nOs pagamentos dos apoios objeto do presente diploma são efetuados pela Direção Regional do Desenvolvimento Rural, no ano de 2025."
+  },
+  "924671604": {
+   "fragment_id": "924709952",
+   "type": 11,
+   "heading": "Artigo 13.º — Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Controlos\n\n1 - Os controlos, administrativo e no local, são efetuados de modo a assegurar a verificação eficaz do cumprimento dos requisitos de concessão do apoio.\n\n2 - O controlo administrativo a que se refere o número anterior abrange a totalidade dos pedidos de apoio.\n\n3 - Com base numa amostra, são selecionados para controlo no local, pelo menos, 5 % dos pedidos de apoio, devendo a amostra representar, também, no mínimo, 5 % dos montantes em causa nos pedidos de apoio."
+  },
+  "924671605": {
+   "fragment_id": "924709953",
+   "type": 1,
+   "heading": "Capítulo VII — INCUMPRIMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — INCUMPRIMENTOS"
+  },
+  "924671606": {
+   "fragment_id": "924709954",
+   "type": 11,
+   "heading": "Artigo 14.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reduções e exclusões\n\n1 - Nos casos em que se verifique que o montante declarado no pedido de apoio é superior ao montante determinado, o apoio é calculado com base no montante determinado, sem prejuízo do disposto nos números seguintes.\n\n2 - Sempre que o montante declarado no pedido de apoio exceder o montante determinado, o apoio é calculado da seguinte forma:\n\na) Caso a diferença seja igual ou inferior a 10 % do montante determinado, o apoio é calculado com base no montante determinado;\n\nb) Caso a diferença seja superior a 10 %, mas inferior ou igual a 30 % do montante determinado, o apoio é calculado com base no montante determinado, diminuído do dobro da diferença verificada entre o montante declarado e o montante determinado;\n\nc) Se a diferença for superior a 30 % do montante determinado, não é concedido qualquer apoio.\n\n3 - Caso as superfícies determinadas de milho ou de sorgo sejam nulas, o respetivo montante declarado no pedido de apoio é recusado.\n\n4 - Para efeitos do presente artigo, considera-se montante determinado o montante obtido através de controlos administrativos ou no local."
+  },
+  "924671607": {
+   "fragment_id": "924709955",
+   "type": 1,
+   "heading": "Capítulo VIII — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — DISPOSIÇÕES FINAIS"
+  },
+  "924671608": {
+   "fragment_id": "924709956",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Publicidade\n\nA listagem nominal dos apoios atribuídos consta de despacho do membro do Governo Regional com competência em matéria agricultura, a publicar no Jornal Oficial da Região Autónoma dos Açores."
+  },
+  "924671609": {
+   "fragment_id": "924709957",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "924671642": {
+   "fragment_id": "924709940",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de elegibilidade dos beneficiários",
+   "in_force_from": "2025-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente diploma devem cumprir as seguintes condições de elegibilidade:\n\na) Terem apresentado pedido de apoio, referente ao ano de 2024, à Ajuda aos Produtores de Culturas Arvenses do subprograma POSEI para a Região Autónoma dos Açores (POSEI - RAA), nos termos da respetiva legislação aplicável, sem prejuízo do disposto nos números seguintes;\n\nb) Terem apresentado a declaração relativa ao tipo de empresa, de acordo com o modelo disponível no Portal do Beneficiário (https://beneficiario-agricola.azores.gov.pt), até à data da apresentação do pedido de apoio;\n\nc) Estarem inscritos na Autoridade Tributária e Aduaneira com, pelo menos, um código de Classificação de Atividades Económicas (CAE) identificado em lista a divulgar no aviso referido no artigo 9.º, até à data da apresentação do pedido de apoio;\n\nd) Estarem inscritos no Balcão dos Fundos com o registo de, pelo menos, um código de CAE referido na alínea anterior, até à data da decisão de aprovação do pedido de apoio.\n\n2 - A condição de elegibilidade a que se refere a alínea a) do número anterior, sempre que ocorra a morte de agricultor que a cumpra, tem-se por verificada na herança indivisa, ou em terceiro, desde que obtida a concordância de todos os herdeiros.\n\n3 - A condição de beneficiário prevista no artigo 4.º é transmitida, por morte do agricultor, para a herança indivisa ou para terceiro, desde que obtida a concordância de todos os herdeiros.\n\n4 - Nas situações a que refere o número anterior, a condição de elegibilidade a que se refere a alínea a) do n.º 1 tem-se por verificada na herança indivisa, ou em terceiro, desde que obtida a concordância de todos os herdeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11"
+  },
+  "924671643": {
+   "fragment_id": "924709945",
+   "type": 11,
+   "heading": "Artigo 8.º — Limite orçamental",
+   "in_force_from": "2025-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 8.º — Limite orçamental\n\n1 - O limite orçamental dos apoios a conceder ao abrigo do presente diploma é de 2 700 000,00 € (dois milhões e setecentos mil euros).\n\n2 - Caso o montante total dos pedidos de apoio exceda o limite orçamental disponível, o montante elegível é objeto de rateio, aplicável a todos os beneficiários.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11"
+  },
+  "924671644": {
+   "fragment_id": "924709951",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamentos",
+   "in_force_from": "2025-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 12.º — Pagamentos\n\nOs pagamentos dos apoios objeto do presente diploma são efetuados pela Direção Regional do Desenvolvimento Rural.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11"
+  },
+  "924671610": {
+   "fragment_id": "924709958",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, na Povoação, em 13 de novembro de 2024.\n\nO Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.\n\nAssinado em Angra do Heroísmo em 6 de dezembro de 2024.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n118442107"
+  },
+  "1076977075": {
+   "fragment_id": "924709940",
+   "type": 11,
+   "heading": "Artigo 5 — Condições de elegibilidade dos beneficiários",
+   "in_force_from": "2026-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2026/A - Diário da República n.º 58/2026, Série I de 2026-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1075988798), em vigor a partir de 2026-03-25 00:00:00, com efeitos a partir de 2024-12-11 00:00:00.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11"
+   ],
+   "markdown": "###### Artigo 5 — Condições de elegibilidade dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente diploma devem cumprir as seguintes condições de elegibilidade:\n\na) Terem apresentado pedido de apoio, referente ao ano de 2024, à Ajuda aos Produtores de Culturas Arvenses do subprograma POSEI para a Região Autónoma dos Açores (POSEI - RAA), nos termos da respetiva legislação aplicável, sem prejuízo do disposto nos números seguintes;\n\nb) Terem apresentado a declaração relativa ao tipo de empresa, de acordo com o modelo disponível no Portal do Beneficiário (https://beneficiario-agricola.azores.gov.pt), até à data da apresentação do pedido de apoio;\n\nc) Estarem inscritos na Autoridade Tributária e Aduaneira com, pelo menos, um código de Classificação de Atividades Económicas (CAE) identificado em lista a divulgar no aviso referido no artigo 9.º, até à data da apresentação do pedido de apoio;\n\nd) Estarem inscritos no Balcão dos Fundos ou no sistema de informação de registo central de auxílios de minimis - SIRCAMINIMIS, com, pelo menos, um código de CAE referido na alínea anterior, até à data da decisão de aprovação do pedido de apoio.\n\n2 - A condição de elegibilidade a que se refere a alínea a) do número anterior, sempre que ocorra a morte de agricultor que a cumpra, tem-se por verificada na herança indivisa, ou em terceiro, desde que obtida a concordância de todos os herdeiros.\n\n3 - A condição de beneficiário prevista no artigo 4.º é transmitida, por morte do agricultor, para a herança indivisa ou para terceiro, desde que obtida a concordância de todos os herdeiros.\n\n4 - Nas situações a que refere o número anterior, a condição de elegibilidade a que se refere a alínea a) do n.º 1 tem-se por verificada na herança indivisa, ou em terceiro, desde que obtida a concordância de todos os herdeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2026/A - Diário da República n.º 58/2026, Série I de 2026-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1075988798), em vigor a partir de 2026-03-25 00:00:00, com efeitos a partir de 2024-12-11 00:00:00.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11"
+  }
+ }
+}

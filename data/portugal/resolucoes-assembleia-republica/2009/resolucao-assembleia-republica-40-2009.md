@@ -1,0 +1,164 @@
+---
+schema_version: '1.0'
+id: pt:dre:494180:por
+title: Resolução da Assembleia da República n.º 40/2009
+short_title: null
+summary: Criação e desenvolvimento de uma «Fábrica de Ideias» na Administração Pública
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 40/2009
+official_date: null
+publication_date: '2009-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/2009, Série I de 2009-05-29
+  number: '104'
+  series: I
+  supplement: null
+  pages: 3344 - 3345
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/05/10400/0334403345.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/40/2009/05/29/p/dre/pt/html
+  oj: null
+  dre: '494180'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/40-2009-494180
+  internal: pt:dre:494180:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/40-2009-494180
+  metadata_url: https://data.dre.pt/eli/resolassrep/40/2009/05/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/40-2009-494180
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-05-29T00:00:00Z'
+integrity:
+  source_sha256: 878843c1b09680f74d1526fd4e4d2046f41eb5f7e8e64df06250b6b89b8de902
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-40-494180.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fábrica de Ideias
+- Modernização Administrativa
+- Administração Pública
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 40/2009
+
+Criação e desenvolvimento de uma «Fábrica de Ideias» na Administração Pública
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo a criação de um sistema designado «Fábrica de Ideias» que:
+
+1) Tenha por base boas práticas assentes em cinco princípios de inovação universalmente aceites:
+
+a) Busca da inovação ao nível do conceito do serviço a prestar ao cidadão, levando em conta, designadamente:
+
+Quem são os grupos de cidadãos a servir;
+
+Que produtos ou serviços serão oferecidos;
+
+Como serão oferecidos esses produtos ou serviços (parcerias; canais de contacto com o cidadão, etc.);
+
+Que valor será entregue ao cidadão (em conveniência, confiança e poupança de tempo);
+
+Que custo vai o Estado incorrer para entregar esses benefícios ao cidadão;
+
+b) Importação da inovação para a linha da frente, envolvendo sobretudo os funcionários públicos de primeira linha e os cidadãos, já que os projectos de reorganização de serviços têm sistematicamente demonstrado recorrer à intervenção exclusiva de quadros de topo da administração e por vezes de consultores externos, excluindo-se sistematicamente os funcionários de primeira linha, que têm de facto um contacto diário com os problemas dos cidadãos;
+
+c) Definição do quadro futuro a que se aspira e trabalhar para o atingir - melhorar de forma incremental o que existe é uma acção pragmática e defensável mas é também fundamental estimular uma abordagem prospectiva sobre qual o futuro que cada organização pretende para si própria e com esse ponto de partida, desenvolver um plano de migração do presente para esse futuro;
+
+d) Adopção de uma abordagem estruturada de geração e de aceleração da implementação no terreno de ideias inovadoras - o processo de inovação deverá ser estruturado e completo, assentando nas seguintes fases:
+
+i) Pensar o futuro do serviço público em causa;
+
+ii) Estimular a geração de ideias;
+
+iii) Incubar e experimentar as ideias/projectos;
+
+iv) Fazer crescer os projectos, disseminando a sua implementação em múltiplas áreas da Administração Pública;
+
+e) A inovação só se aprende fazendo - o caminho para um indivíduo desenvolver capacidades individuais de inovação não passa por uma longa formação teórica. A única forma de se aprender a inovar é fazendo inovação, trabalhando sobre temas concretos e reais;
+
+2) Assente em:
+
+Processos de inovação - definição de um processo sistemático para construir uma visão sobre o futuro, gerar ideias, acelerar a sua implementação no terreno e disseminar o seu âmbito de actuação;
+
+Modelo de «governança» - definição dos actores do sistema de inovação (internos e externos à Administração Pública), quais são as suas responsabilidades e poder de decisão. Neste ponto está incluída a definição das competências da central de inovação/Fábrica de Ideias;
+
+Recursos e financiamento - clarificação das origens do financiamento do sistema de inovação, bem como o lançamento e implementação das ideias geradas;
+
+Cultura organizacional e gestão da mudança - é necessário um novo paradigma organizacional na Administração Pública, assente numa nova atitude de abertura aos cidadãos e à sociedade civil, estimulando a iniciativa e o empreendedorismo dos funcionários públicos, recompensando o mérito e eliminando a estigmatização do erro;
+
+Métricas de inovação - definição dos indicadores de desempenho do sistema de inovação, bem como do valor dos contributos dos seus intervenientes, designadamente dos funcionários. Clarificação do mecanismo de reporte de resultados à tutela;
+
+Ecossistema de parceiros para a inovação - definição dos parceiros a envolver, designadamente instituições particulares de solidariedade social (IPSS), empresas, universidades, organizações não governamentais (ONG), co-investidores, etc.);
+
+Ferramentas tecnológicas de suporte - especificação das ferramentas de colaboração necessárias a uma interacção profícua entre funcionários, gestores de topo da Administração Pública, cidadãos e parceiros para a inovação;
+
+3) Atribua prémios, proceda à alocação dos recursos necessários e assegure uma avaliação independente. Para isso propõe-se:
+
+O estabelecimento de um prémio para todas as ideias seleccionadas e implementadas, cuja fórmula de cálculo integre, nomeadamente os seguintes factores:
+
+a) Utilidade da proposta;
+
+b) Factor realização (grau de dificuldade dos problemas e do desenvolvimento do percurso de resolução);
+
+c) Factor aplicação (grau de melhoramento dos serviços);
+
+O sistema de avaliação das propostas, de forma a ser eficaz e capaz de ganhar a confiança de cada funcionário público, deve ser independente dos serviços em concreto e prever a possibilidade de cada funcionário público fazer chegar a sua proposta ao sistema, independentemente do conhecimento do seu superior hierárquico;
+
+A constituição em cada ministério de um núcleo de inovação com a responsabilidade de analisar e fazer a filtragem de cada proposta apresentada relativamente aos serviços que estão na sua dependência;
+
+A constituição de uma central de inovação com competência para:
+
+a) (Re)analisar e apreciar as propostas (re)encaminhadas por parte de cada núcleo de inovação;
+
+b) Desenvolver projectos piloto para as propostas viáveis;
+
+c) Para avaliar e atribuir os prémios;
+
+d) Alocar recursos financeiros para a incubação de ideias inovadoras.
+
+Aprovada em 30 de Abril de 2009.
+
+**O Presidente da Assembleia da República, Jaime Gama.**

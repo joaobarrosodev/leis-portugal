@@ -1,0 +1,528 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:236683:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1977-182069468",
+ "dre_path": "/dr/detalhe/decreto-lei/427-b-1977-236683",
+ "source_lastmod": "2026-03-12",
+ "versions": [
+  {
+   "date": "1978-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:297029:por",
+     "title": "Lei n.º 61/78",
+     "published": "1978-07-28",
+     "dre_path": "/dr/detalhe/lei/61-1978-297029"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 7.º-B",
+    "Adita Artigo 7.º-C",
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 11.º-B",
+    "Adita Artigo 11.º-C",
+    "Adita Artigo 11.º-D",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "182070789",
+    "1071374975",
+    "1071375175",
+    "1071375375",
+    "1071375575",
+    "1071396075",
+    "1071375775",
+    "1071375975",
+    "1071380675",
+    "1071381575",
+    "1071396375",
+    "1071396575",
+    "1071396675",
+    "1071396775",
+    "1071396875",
+    "1071397275",
+    "1071397775",
+    "1071398275",
+    "1071400975",
+    "1071401175",
+    "1071401275"
+   ]
+  },
+  {
+   "date": "2019-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122434535:por",
+     "title": "Lei n.º 36/2019",
+     "published": "2019-05-29",
+     "dre_path": "/dr/detalhe/lei/36-2019-122434535"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1073078675",
+    "1073078875",
+    "1073078975",
+    "1073079075",
+    "1073083175",
+    "1073083275",
+    "1073083375",
+    "1073083475",
+    "1073083575",
+    "1073083675",
+    "1073083775",
+    "1073083875",
+    "1073083975",
+    "1073084075",
+    "1073084175",
+    "1073084275",
+    "1073084375",
+    "1073084475",
+    "1073084575",
+    "1073084675",
+    "1073084775"
+   ]
+  }
+ ],
+ "fragments": {
+  "182070789": {
+   "fragment_id": "182069469",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 427-B/77\n\nde 14 de Outubro\n\nA formação de técnicos de nível médio desapareceu completamente em consequência da aplicação dos Decretos-Leis n.os 830/74, 316/76 e 327/76, de 31 de Dezembro, 29 de Abril e 6 de Maio, respectivamente, que transformaram o antigo ensino médio em ensino superior, sem cuidarem de preencher a lacuna que desse modo se criou, não só no sistema de ensino, como na própria formação de técnicos de que as actividades sócio-económicas carecem.\n\nSe a reconversão dos antigos institutos e escolas de ensino médio se pode aceitar num processo evolutivo das estruturas do ensino em Portugal, a verdade é que ela não veio corrigir as deficiências anteriormente existentes. Apenas se tentou uma transformação dos antigos planos de estudo, aproximando-os do ensino ministrado nos estabelecimentos universitários. Isto é: aumentou-se a produção de diplomados portadores de uma formação teórica semelhante à conferida pelas escolas universitárias, ainda que com diferente duração dos respectivos cursos, sem por outro lado ter havido a preocupação de se estudar a correspondência entre a quantidade de diplomados a formar, pelas escolas e institutos criados ao abrigo daqueles decretos-leis, e as reais necessidades do País, do que tem resultado um evidente desequilíbrio, que poderá vir a ter graves repercussões sociais e económicas.\n\nUrge, pois, promover a criação de escolas de ensino superior de natureza essencialmente prática, voltada para a formação de técnicos qualificados de nível superior intermédio, com um estatuto próprio e uma dignificação profissional correspondente, de forma que seja pela capacidade produtiva que se hierarquizem os valores pessoais de produção e não apenas pelo título académico que cada um possui.\n\nDo mesmo modo será de atender à formação qualificada de educadores de infância e dos professores do ensino primário, cujas funções necessitam igualmente de uma preparação mais graduada, superando as limitações que vêm sendo sentidas nas escolas do magistério primário, pese embora o esforço da modernização que ali tem sido realizado. O alargamento da escolaridade mínima e as exigências que o próprio desenvolvimento científico e social exigem dos educadores de infância e dos professores do ensino primário impõem que lhes seja oferecida uma formação de nível superior.\n\nÀ forma de preencher as lacunas e as necessidades já referidas levou a que, depois de estudo atento, se optasse pela institucionalização de um novo modelo de ensino superior, à semelhança, aliás, do que já vem sendo feito em numerosos países, com resultados marcadamente positivos. É o ensino superior de curta duração que o presente diploma institucionaliza.\n\nEle irá permitir não só uma diversificação do ensino superior, mas também satisfazer necessidades prementes em vários sectores sócio-económicos, pela formação de técnicos qualificados em actividades em que é manifesta a sua falta ou, mesmo, inexistência. Assim, prevê-se, numa fase inicial, a satisfação, entre outras, de necessidades na tecnologia de produtos alimentares, na produção agrícola, pecuária e florestal, na tecnologia industrial, na saúde e nos serviços (secretariado, turismo, administração e contabilidade), para além da já referida formação de educadores de infância e professores do ensino primário. Numa segunda fase, poderão vir a ser satisfeitas outras necessidades ou carências.\n\nA opção agora tornada, além de económica e socialmente correcta, tornará viável a existência de um novo tipo de diplomados, de formação vincadamente prática, especializada e profissionalizante, com muito elevada probabilidade de aceitação no mercado do trabalho, tanto no sector público, como no privado.\n\nUsando da autorização conferida pela Lei n.º 71/77, de 27 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "1071374975": {
+   "fragment_id": "182069470",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ instituído o ensino superior de curta duração tendente à formação de técnicos e de profissionais de educação de nível superior.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071375175": {
+   "fragment_id": "182069471",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - O ensino superior de curta duração será ministrado em estabelecimentos de ensino predominantemente de âmbito regional com a denominação de escolas superiores técnicas e escolas superiores de educação.\n\n2 - Até ao início do ano lectivo de 1979-1980 o MEC definirá por decreto as condições em que as escolas normais de educadores de infância e as escolas do magistério primário serão reconvertidas em escolas superiores de educação.\n\n3 - Até ao início do ano lectivo de 1979-1980 serão definidas por lei as condições em que as escolas de enfermagem poderão ser reconvertidas em escolas superiores de enfermagem.\n\n4 - O Governo criará por decreto os novos estabelecimentos de ensino superior de curta duração que vierem a ser considerados necessários em domínios de âmbito nacional ou regional, tendo em conta as condições de ordem social, económica e cultural das diversas áreas do País.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071375375": {
+   "fragment_id": "182069472",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - As escolas superiores técnicas terão como finalidade:\n\na) Formar profissionais qualificados de nível superior, designadamente nos domínios da tecnologia industrial, da produção agrícola, pecuária e florestal, da saúde e dos serviços;\n\nb) Organizar cursos de aperfeiçoamento e de actualização destinados à valorização de profissionais ligados aos domínios de actividade da escola.\n\nc) Desenvolver a investigação científica e tecnológica dentro do seu âmbito.\n\n2 - As escolas superiores técnicas poderão integrar unidades de prestação de serviço nas áreas respeitantes aos cursos nelas professados.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071375575": {
+   "fragment_id": "182069473",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A escolas superiores de educação terão como finalidade:\n\na) Formar educadores de infância e professores do ensino primário;\n\nb) Organizar cursos de aperfeiçoamento e de actualização destinados à valorização de profissionais ligados aos domínios da actividade da escola, nomeadamente promovendo a sua reciclagem e actualização periódica;\n\nc) Desenvolver investigação educacional dentro do seu âmbito.\n\n2 - Nas escolas superiores de educação poderão ser criados, por despacho do Ministro da Educação e Investigação Científica, cursos de especialização no domínio do ensino especial destinados a profissionais do ensino.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071396075": {
+   "fragment_id": "182069474",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os cursos ministrados nas escolas superiores técnicas e nas escolas superiores de educação terão uma duração compreendida entre quatro e seis semestres e serão estabelecidos e estruturados em função das necessidades nacionais ou regionais, nomeadamente no que concerne à superação de carências de técnicos qualificados, educadores de infância e professores do ensino primário e ao desenvolvimento das actividades sócio-económicas existentes, ou a criar, a nível nacional ou regional.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071375775": {
+   "fragment_id": "182070875",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 6.º\n\nAos diplomados pelas escolas de ensino superior de curta duração será conferido um diploma de técnico superior correspondente à formação especializada concedida pela respectiva escola, cujo valor, para efeitos de funções públicas, não será inferior ao do bacharelato.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071375975": {
+   "fragment_id": "182070876",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - O ingresso nos estabelecimentos de ensino superior de curta duração ficará sujeito ao regime de numerus clausus e ao preenchimento das demais condições genericamente fixadas para o acesso aos restantes estabelecimentos de ensino superior.\n\n2 - O Governo definirá normas especiais que favoreçam o acesso dos trabalhadores a este tipo de ensino, com experiência profissional.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071380675": {
+   "fragment_id": "1071380575",
+   "type": 11,
+   "heading": "Artigo 7.º-A",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 7.º-A\n\nSerá assegurado o ensino nocturno nos estabelecimentos de ensino superior de curta duração sempre que o número de candidatos ao mesmo o justifique.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071381575": {
+   "fragment_id": "1071381475",
+   "type": 11,
+   "heading": "Artigo 7.º-B",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 7.º-B\n\nO Governo regulamentará para cada curso do ensino superior de curta duração as condições que possibilitem o prosseguimento de estudos em cursos afins de sistema universitário.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071396375": {
+   "fragment_id": "1071396275",
+   "type": 11,
+   "heading": "Artigo 7.º-C",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 7.º-C\n\nO Governo regulamentará as condições de acesso aos estabelecimentos de ensino superior de curta duração dos estudantes que tenham frequentado outros estabelecimentos de ensino superior ou universitário.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071396575": {
+   "fragment_id": "182070877",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO pessoal docente das escolas superiores técnicas e das escolas superiores de educação reger-se-á por estatutos próprios, que constarão de decreto-lei."
+  },
+  "1071396675": {
+   "fragment_id": "182070878",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSão criadas as comissões coordenadoras das escolas superiores técnicas e das escolas superiores de educação, cuja composição e competência serão definidas por despacho do Ministro da Educação e Investigação Científica."
+  },
+  "1071396775": {
+   "fragment_id": "182070879",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 10.º\n\nNas escolas superiores técnicas será criado obrigatoriamente um conselho consultivo em que terão assento, para além de representantes dos seus órgãos de gestão, representantes das actividades sociais, culturais e económicas, através das estruturas regionais ou nacionais, responsáveis ou interessadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071396875": {
+   "fragment_id": "182070880",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 11.º\n\nAs escolas de ensino superior de curta duração a criar no âmbito deste diploma ficarão submetidas ao regime de instalação que, na legislação especial, vier a ser definido nos noventa dias imediatamente subsequentes à entrada em vigor deste diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071397275": {
+   "fragment_id": "1071397175",
+   "type": 11,
+   "heading": "Artigo 11.º-A",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 11.º-A\n\nAos estabelecimentos de ensino superior de curta duração aplicam-se as normas de gestão em vigor nos outros estabelecimentos de ensino superior.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071397775": {
+   "fragment_id": "1071397675",
+   "type": 11,
+   "heading": "Artigo 11.º-B",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 11.º-B\n\nSerão revistos, por decreto-lei, os estatutos dos estabelecimentos de ensino existentes à data da publicação do presente diploma, cujos cursos se podem integrar no âmbito do ensino superior de curta duração.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071398275": {
+   "fragment_id": "1071398175",
+   "type": 11,
+   "heading": "Artigo 11.º-C",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 11.º-C\n\nA lei definirá o enquadramento do ensino superior curto agora instituído nas bases gerais do sistema de ensino português.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071400975": {
+   "fragment_id": "1071400875",
+   "type": 11,
+   "heading": "Artigo 11.º-D",
+   "in_force_from": "1978-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 11.º-D\n\nO Ministério da Educação e Cultura fixará, por decreto, as condições de equivalência dos estabelecimentos de ensino privado que ministrem cursos de nível semelhante aos que por este decreto-lei são instituídos.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1071401175": {
+   "fragment_id": "182070881",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica."
+  },
+  "1071401275": {
+   "fragment_id": "182070882",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 13 de Outubro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "1073078675": {
+   "fragment_id": "182069469",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03."
+   ],
+   "markdown": "Decreto-Lei n.º 427-B/77\n\nde 14 de Outubro\n\nA formação de técnicos de nível médio desapareceu completamente em consequência da aplicação dos Decretos-Leis n.os 830/74, 316/76 e 327/76, de 31 de Dezembro, 29 de Abril e 6 de Maio, respectivamente, que transformaram o antigo ensino médio em ensino superior, sem cuidarem de preencher a lacuna que desse modo se criou, não só no sistema de ensino, como na própria formação de técnicos de que as actividades sócio-económicas carecem.\n\nSe a reconversão dos antigos institutos e escolas de ensino médio se pode aceitar num processo evolutivo das estruturas do ensino em Portugal, a verdade é que ela não veio corrigir as deficiências anteriormente existentes. Apenas se tentou uma transformação dos antigos planos de estudo, aproximando-os do ensino ministrado nos estabelecimentos universitários. Isto é: aumentou-se a produção de diplomados portadores de uma formação teórica semelhante à conferida pelas escolas universitárias, ainda que com diferente duração dos respectivos cursos, sem por outro lado ter havido a preocupação de se estudar a correspondência entre a quantidade de diplomados a formar, pelas escolas e institutos criados ao abrigo daqueles decretos-leis, e as reais necessidades do País, do que tem resultado um evidente desequilíbrio, que poderá vir a ter graves repercussões sociais e económicas.\n\nUrge, pois, promover a criação de escolas de ensino superior de natureza essencialmente prática, voltada para a formação de técnicos qualificados de nível superior intermédio, com um estatuto próprio e uma dignificação profissional correspondente, de forma que seja pela capacidade produtiva que se hierarquizem os valores pessoais de produção e não apenas pelo título académico que cada um possui.\n\nDo mesmo modo será de atender à formação qualificada de educadores de infância e dos professores do ensino primário, cujas funções necessitam igualmente de uma preparação mais graduada, superando as limitações que vêm sendo sentidas nas escolas do magistério primário, pese embora o esforço da modernização que ali tem sido realizado. O alargamento da escolaridade mínima e as exigências que o próprio desenvolvimento científico e social exigem dos educadores de infância e dos professores do ensino primário impõem que lhes seja oferecida uma formação de nível superior.\n\nÀ forma de preencher as lacunas e as necessidades já referidas levou a que, depois de estudo atento, se optasse pela institucionalização de um novo modelo de ensino superior, à semelhança, aliás, do que já vem sendo feito em numerosos países, com resultados marcadamente positivos. É o ensino superior de curta duração que o presente diploma institucionaliza.\n\nEle irá permitir não só uma diversificação do ensino superior, mas também satisfazer necessidades prementes em vários sectores sócio-económicos, pela formação de técnicos qualificados em actividades em que é manifesta a sua falta ou, mesmo, inexistência. Assim, prevê-se, numa fase inicial, a satisfação, entre outras, de necessidades na tecnologia de produtos alimentares, na produção agrícola, pecuária e florestal, na tecnologia industrial, na saúde e nos serviços (secretariado, turismo, administração e contabilidade), para além da já referida formação de educadores de infância e professores do ensino primário. Numa segunda fase, poderão vir a ser satisfeitas outras necessidades ou carências.\n\nA opção agora tornada, além de económica e socialmente correcta, tornará viável a existência de um novo tipo de diplomados, de formação vincadamente prática, especializada e profissionalizante, com muito elevada probabilidade de aceitação no mercado do trabalho, tanto no sector público, como no privado.\n\nUsando da autorização conferida pela Lei n.º 71/77, de 27 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03."
+  },
+  "1073078875": {
+   "fragment_id": "182069470",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ instituído o ensino superior de curta duração tendente à formação de técnicos e de profissionais de educação de nível superior.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073078975": {
+   "fragment_id": "182069471",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - O ensino superior de curta duração será ministrado em estabelecimentos de ensino predominantemente de âmbito regional com a denominação de escolas superiores técnicas e escolas superiores de educação.\n\n2 - Até ao início do ano lectivo de 1979-1980 o MEC definirá por decreto as condições em que as escolas normais de educadores de infância e as escolas do magistério primário serão reconvertidas em escolas superiores de educação.\n\n3 - Até ao início do ano lectivo de 1979-1980 serão definidas por lei as condições em que as escolas de enfermagem poderão ser reconvertidas em escolas superiores de enfermagem.\n\n4 - O Governo criará por decreto os novos estabelecimentos de ensino superior de curta duração que vierem a ser considerados necessários em domínios de âmbito nacional ou regional, tendo em conta as condições de ordem social, económica e cultural das diversas áreas do País.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073079075": {
+   "fragment_id": "182069472",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - As escolas superiores técnicas terão como finalidade:\n\na) Formar profissionais qualificados de nível superior, designadamente nos domínios da tecnologia industrial, da produção agrícola, pecuária e florestal, da saúde e dos serviços;\n\nb) Organizar cursos de aperfeiçoamento e de actualização destinados à valorização de profissionais ligados aos domínios de actividade da escola.\n\nc) Desenvolver a investigação científica e tecnológica dentro do seu âmbito.\n\n2 - As escolas superiores técnicas poderão integrar unidades de prestação de serviço nas áreas respeitantes aos cursos nelas professados.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073083175": {
+   "fragment_id": "182069473",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A escolas superiores de educação terão como finalidade:\n\na) Formar educadores de infância e professores do ensino primário;\n\nb) Organizar cursos de aperfeiçoamento e de actualização destinados à valorização de profissionais ligados aos domínios da actividade da escola, nomeadamente promovendo a sua reciclagem e actualização periódica;\n\nc) Desenvolver investigação educacional dentro do seu âmbito.\n\n2 - Nas escolas superiores de educação poderão ser criados, por despacho do Ministro da Educação e Investigação Científica, cursos de especialização no domínio do ensino especial destinados a profissionais do ensino.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073083275": {
+   "fragment_id": "182069474",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os cursos ministrados nas escolas superiores técnicas e nas escolas superiores de educação terão uma duração compreendida entre quatro e seis semestres e serão estabelecidos e estruturados em função das necessidades nacionais ou regionais, nomeadamente no que concerne à superação de carências de técnicos qualificados, educadores de infância e professores do ensino primário e ao desenvolvimento das actividades sócio-económicas existentes, ou a criar, a nível nacional ou regional.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073083375": {
+   "fragment_id": "182070875",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 6.º\n\nAos diplomados pelas escolas de ensino superior de curta duração será conferido um diploma de técnico superior correspondente à formação especializada concedida pela respectiva escola, cujo valor, para efeitos de funções públicas, não será inferior ao do bacharelato.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073083475": {
+   "fragment_id": "182070876",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - O ingresso nos estabelecimentos de ensino superior de curta duração ficará sujeito ao regime de numerus clausus e ao preenchimento das demais condições genericamente fixadas para o acesso aos restantes estabelecimentos de ensino superior.\n\n2 - O Governo definirá normas especiais que favoreçam o acesso dos trabalhadores a este tipo de ensino, com experiência profissional.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073083575": {
+   "fragment_id": "1071380575",
+   "type": 11,
+   "heading": "Artigo 7.º-A",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 7.º-A\n\nSerá assegurado o ensino nocturno nos estabelecimentos de ensino superior de curta duração sempre que o número de candidatos ao mesmo o justifique.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073083675": {
+   "fragment_id": "1071381475",
+   "type": 11,
+   "heading": "Artigo 7.º-B",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 7.º-B\n\nO Governo regulamentará para cada curso do ensino superior de curta duração as condições que possibilitem o prosseguimento de estudos em cursos afins de sistema universitário.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073083775": {
+   "fragment_id": "1071396275",
+   "type": 11,
+   "heading": "Artigo 7.º-C",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 7.º-C\n\nO Governo regulamentará as condições de acesso aos estabelecimentos de ensino superior de curta duração dos estudantes que tenham frequentado outros estabelecimentos de ensino superior ou universitário.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073083875": {
+   "fragment_id": "182070877",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03."
+   ],
+   "markdown": "###### Artigo 8.º\n\nO pessoal docente das escolas superiores técnicas e das escolas superiores de educação reger-se-á por estatutos próprios, que constarão de decreto-lei.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03."
+  },
+  "1073083975": {
+   "fragment_id": "182070878",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03."
+   ],
+   "markdown": "###### Artigo 9.º\n\nSão criadas as comissões coordenadoras das escolas superiores técnicas e das escolas superiores de educação, cuja composição e competência serão definidas por despacho do Ministro da Educação e Investigação Científica.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03."
+  },
+  "1073084075": {
+   "fragment_id": "182070879",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 10.º\n\nNas escolas superiores técnicas será criado obrigatoriamente um conselho consultivo em que terão assento, para além de representantes dos seus órgãos de gestão, representantes das actividades sociais, culturais e económicas, através das estruturas regionais ou nacionais, responsáveis ou interessadas.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073084175": {
+   "fragment_id": "182070880",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 11.º\n\nAs escolas de ensino superior de curta duração a criar no âmbito deste diploma ficarão submetidas ao regime de instalação que, na legislação especial, vier a ser definido nos noventa dias imediatamente subsequentes à entrada em vigor deste diploma.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073084275": {
+   "fragment_id": "1071397175",
+   "type": 11,
+   "heading": "Artigo 11.º-A",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 11.º-A\n\nAos estabelecimentos de ensino superior de curta duração aplicam-se as normas de gestão em vigor nos outros estabelecimentos de ensino superior.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073084375": {
+   "fragment_id": "1071397675",
+   "type": 11,
+   "heading": "Artigo 11.º-B",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 11.º-B\n\nSerão revistos, por decreto-lei, os estatutos dos estabelecimentos de ensino existentes à data da publicação do presente diploma, cujos cursos se podem integrar no âmbito do ensino superior de curta duração.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073084475": {
+   "fragment_id": "1071398175",
+   "type": 11,
+   "heading": "Artigo 11.º-C",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 11.º-C\n\nA lei definirá o enquadramento do ensino superior curto agora instituído nas bases gerais do sistema de ensino português.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073084575": {
+   "fragment_id": "1071400875",
+   "type": 11,
+   "heading": "Artigo 11.º-D",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+   ],
+   "markdown": "###### Artigo 11.º-D\n\nO Ministério da Educação e Cultura fixará, por decreto, as condições de equivalência dos estabelecimentos de ensino privado que ministrem cursos de nível semelhante aos que por este decreto-lei são instituídos.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 61/78 - Diário da República n.º 172/1978, Série I de 1978-07-28](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), em vigor a partir de 1978-08-02."
+  },
+  "1073084675": {
+   "fragment_id": "182070881",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03."
+   ],
+   "markdown": "###### Artigo 12.º\n\nAs dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03."
+  },
+  "1073084775": {
+   "fragment_id": "182070882",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 13 de Outubro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03."
+  }
+ }
+}

@@ -1,0 +1,1251 @@
+---
+schema_version: '1.0'
+id: pt:dre:578678:por
+title: Decreto-Lei n.º 185/81
+short_title: null
+summary: Aprova o Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 185/81
+official_date: null
+publication_date: '1981-07-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/1981, Série I de 1981-07-01
+  number: '148'
+  series: I
+  supplement: null
+  pages: 1546 - 1554
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/07/14800/15461554.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2010-05-14'
+version_history:
+  file: decreto-lei-185-81.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1981-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-03-08'
+    amending: pt:dre:287590:por
+    amending_title: Decreto-Lei n.º 69/88
+    changes:
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+  - date: '2009-09-01'
+    amending: pt:dre:488490:por
+    amending_title: Decreto-Lei n.º 207/2009
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 8.º-A
+    - Adita Artigo 9.º-A
+    - Adita Artigo 10.º-A
+    - Adita Artigo 10.º-B
+    - Adita Artigo 12.º-A
+    - Adita Artigo 12.º-B
+    - Adita Artigo 12.º-C
+    - Adita Artigo 12.º-D
+    - Adita Artigo 12.º-E
+    - Adita Artigo 15.º-A
+    - Adita Artigo 24.º-A
+    - Adita Artigo 29.º-A
+    - Adita Artigo 29.º-B
+    - Adita Artigo 30.º-A
+    - Adita Artigo 33.º-A
+    - Adita Artigo 34.º-A
+    - Adita Artigo 35.º-A
+    - Adita Artigo 35.º-B
+    - Adita Artigo 35.º-C
+    - Adita Artigo 35.º-D
+    - Adita Artigo 36.º-A
+    - Adita Artigo 37.º-A
+    - Adita Artigo 44.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+  - date: '2010-05-14'
+    amending: pt:dre:615030:por
+    amending_title: Lei n.º 7/2010
+    changes:
+    - Adita Artigo 44.º-B
+    - Altera Artigo 10.º
+    - Altera Artigo 10.º-B
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º-A
+    - Altera Artigo 38.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/185/1981/p/cons/20100513/pt/html
+  oj: null
+  dre: '578678'
+  dre_path: /dr/detalhe/decreto-lei/185-1981-578678
+  internal: pt:dre:578678:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678
+  metadata_url: https://data.dre.pt/eli/dec-lei/185/1981/p/cons/20100513/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1981-213109341
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1981-213109341
+  retrieved_at: '2026-10-22T12:56:38Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 54e896e1f116c050ef9afac93ed6072dec5c1bedd754cac8aba5a222b80ecf49
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:56:38Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-185-81.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Superior Politécnico
+- Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico
+- Pessoal Docente
+relationships:
+- type: amended_by
+  target: pt:dre:287590:por
+  label: Altera Artigo 34.º; Altera Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1988-287590
+  date: '1988-03-03'
+- type: amended_by
+  target: pt:dre:488490:por
+  label: Adita Artigo 2.º-A; Adita Artigo 8.º-A; Adita Artigo 9.º-A; Adita Artigo 10.º-A; Adita Artigo 10.º-B; Adita Artigo
+    12.º-A; Adita Artigo 12.º-B; Adita Artigo 12.º-C; Adita Artigo 12.º-D; Adita Artigo 12.º-E; Adita Artigo 15.º-A; Adita
+    Artigo 24.º-A; Adita Artigo 29.º-A; Adita Artigo 29.º-B; Adita Artigo 30.º-A; Adita Artigo 33.º-A; Adita Artigo 34.º-A;
+    Adita Artigo 35.º-A; Adita Artigo 35.º-B; Adita Artigo 35.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490
+  date: '2009-08-31'
+- type: amended_by
+  target: pt:dre:615030:por
+  label: Adita Artigo 44.º-B; Altera Artigo 10.º; Altera Artigo 10.º-B; Altera Artigo 17.º; Altera Artigo 19.º; Altera Artigo
+    35.º-A; Altera Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030
+  date: '2010-05-13'
+article_structure:
+  article_count: 70
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:56:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 185/81
+
+Decreto-Lei n.º 185/81
+
+de 1 de Julho
+
+A preparação para a vida activa e para o trabalho mobiliza, hoje, grandes esforços na generalidade dos países. Com efeito, o desenvolvimento tecnológico e a consequente especialização e diversificação das actividades profissionais reclamam a existência de técnicos aptos, com uma formação que lhes permita acompanhar a evolução continuamente sentida.
+
+O nosso país necessita de avançar decididamente neste campo, onde já foram lançadas as estruturas primordiais pela criação do ensino superior politécnico.
+
+Com o presente diploma cria-se a carreira do pessoal docente do ensino superior politécnico, peça fundamental para o arranque, que se pretende imediato, deste nível de ensino.
+
+A carreira agora criada oferece condições que se julgam aptas à consagração de um adequado equilíbrio entre a competência académica e científica e a competência técnica e profissional dos seus docentes.
+
+De realçar ainda que será no âmbito do ensino superior politécnico que se processará a formação dos professores para a educação pré-escolar e para o ensino básico, contribuindo-se, deste modo, para a valorização da função docente.
+
+A carreira agora criada está, pois, em consonância com o ensino de nível superior, votado à tecnicidade e especificidade das diversas actividades profissionais, instantemente reclamadas pelas sociedades modernas.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+ESTATUTO DA CARREIRA DO PESSOAL DOCENTE DO ENSINO SUPERIOR POLITÉCNICO
+
+###### Artigo 1.º — (Âmbito)
+
+1 - O Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, adiante designado por Estatuto, aplica-se ao pessoal docente dos institutos politécnicos, das escolas politécnicas integradas em universidades e das escolas politécnicas não integradas, que adiante se designam por instituições de ensino superior.
+
+2 - Exceptua-se do âmbito de aplicação do presente Estatuto o pessoal docente das escolas politécnicas militares e policiais, sem prejuízo das disposições que determinem a sua aplicação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 2.º — (Categorias)
+
+A carreira do pessoal docente do ensino superior politécnico compreende as seguintes categorias:
+
+a) (Revogada.)
+
+b) Professor-adjunto;
+
+c) Professor-coordenador;
+
+d) Professor coordenador principal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 2.º-A — Funções dos docentes do ensino superior politécnico
+
+Compete, em geral, aos docentes do ensino superior politécnico:
+
+a) Prestar o serviço docente que lhes for distribuído e acompanhar e orientar os estudantes;
+
+b) Realizar actividades de investigação, de criação cultural ou de desenvolvimento experimental;
+
+c) Participar em tarefas de extensão, de divulgação científica e tecnológica e de valorização económica e social do conhecimento;
+
+d) Participar na gestão das respectivas instituições de ensino superior;
+
+e) Participar em outras tarefas distribuídas pelos órgãos de gestão competentes e que se incluam no âmbito da actividade de docente do ensino superior politécnico.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 3.º — (Conteúdo funcional das categorias)
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Ao professor-adjunto compete colaborar com os professores-coordenadores no âmbito de uma disciplina ou área científica e, designadamente:
+
+a) Reger e leccionar aulas teóricas, teórico-práticas e práticas;
+
+b) Orientar, dirigir e acompanhar estágios, seminários e trabalhos de laboratório ou de campo;
+
+c) Dirigir, desenvolver e realizar actividades de investigação científica e desenvolvimento experimental, segundo as linhas gerais prévia e superiormente definidas no âmbito da respectiva disciplina ou área científica;
+
+d) Cooperar com os restantes professores da disciplina ou área científica na coordenação prevista na alínea d) do número seguinte.
+
+5 - Ao professor-coordenador cabe a coordenação pedagógica, científica e técnica das actividades docentes e de investigação compreendidas no âmbito de uma disciplina ou área científica e, designadamente:
+
+a) Reger e leccionar aulas teóricas, teórico-práticas e práticas;
+
+b) Orientar estágios e dirigir seminários e trabalhos de laboratório ou de campo;
+
+c) Supervisionar as actividades pedagógicas, científicas e técnicas dos professores adjuntos da respectiva disciplina ou área científica;
+
+d) Participar com os restantes professores-coordenadores da sua área científica na coordenação dos programas, metodologias de ensino e linhas gerais de investigação respeitantes às disciplinas dessa área;
+
+e) Dirigir, desenvolver e realizar actividades de investigação científica e desenvolvimento experimental no âmbito da respectiva disciplina ou área científica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 4.º — (Recrutamento de assistentes)
+
+Os assistentes são recrutados, mediante concurso documental, de entre habilitados com curso superior adequado, com informação final mínima de Bom, ou com informação inferior desde que disponham de currículo científico, técnico ou profissional relevante, que satisfaçam, em qualquer caso, os demais requisitos constantes do respectivo edital, a publicar no Diário da República.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 5.º — Recrutamento de professores adjuntos
+
+Os professores adjuntos são recrutados exclusivamente por concurso documental nos termos do presente Estatuto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 6.º — Recrutamento de professores coordenadores
+
+Os professores coordenadores são recrutados exclusivamente por concurso documental nos termos do presente Estatuto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 7.º — (Outras formas de recrutamento)
+
+1 - Poderão ser recrutados mediante concurso documental para a categoria de professor-adjunto os candidatos que, dispondo de currículo científico, técnico ou profissional relevante, estejam habilitados com o grau de mestre ou equivalente ou que tenham obtido um diploma de estudos graduados na área científica em que for aberto o concurso.
+
+2 - Poderão ser recrutados, mediante concurso de provas públicas a realizar nos termos dos artigos 15.º e seguintes, para a categoria de professor-adjunto em área de ensino predominantemente técnica os candidatos habilitados com o curso superior adequado que disponham de currículo técnico ou profissional relevante.
+
+3 - Poderão ser recrutados mediante concurso de provas públicas para a categoria de professor-coordenador os candidatos habilitados com o grau de doutor ou equivalente na área científica em que for aberto o concurso.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 8.º — (Pessoal especialmente contratado)
+
+1 - Poderão ser contratadas para a prestação de serviço docente nos estabelecimentos de ensino superior politécnico individualidades nacionais ou estrangeiras de reconhecida competência científica, técnica, pedagógica ou profissional, cuja colaboração se revista de necessidade e interesse comprovados.
+
+2 - Para efeitos do disposto no número anterior, as individualidades a contratar são equiparadas às categorias da carreira do pessoal docente do ensino superior politécnico cujo conteúdo funcional se adeqúe às funções que têm de prestar e designam-se, conforme o caso, professores coordenadores convidados ou professores adjuntos convidados, salvo quanto aos professores de estabelecimentos de ensino superior estrangeiros e aos investigadores de instituições científicas estrangeiras ou internacionais, que são designados por professores visitantes.
+
+3 - Os contratos a que se referem os números anteriores são precedidos de convite, fundamentado em relatório subscrito por dois professores da área ou áreas disciplinares do convidado e aprovado pela maioria dos membros em efectividade de funções do conselho técnico-científico do estabelecimento de ensino interessado.
+
+4 - O relatório referido no número anterior acompanhará a proposta de contrato da individualidade a que disser respeito.
+
+5 - Quando as individualidades a contratar nos termos do presente artigo pertençam à carreira docente universitária não haverá lugar à elaboração do relatório exigido no n.º 3 e a equiparação a que se refere o n.º 2 não poderá fazer-se para categoria a que corresponda letra de vencimento inferior à da categoria que o interessado já possua, podendo optar pelo vencimento e remuneração a que teria direito no estabelecimento de ensino superior universitário de origem.
+
+6 - (Revogado.)
+
+7 - Podem ainda ser contratados mediante proposta fundamentada apresentada e aprovada pelos órgãos legal e estatutariamente competentes da instituição de ensino superior:
+
+a) Como assistentes convidados, titulares do grau de mestre, ou do grau de licenciado, e de currículo adequado, aos quais é atribuído o exercício das funções docentes sob a orientação de um professor;
+
+b) Como monitores, estudantes de ciclos de estudos de licenciatura ou de mestrado, da própria instituição de ensino superior ou de outra instituição de ensino superior, universitária ou politécnica, pública ou privada, aos quais compete coadjuvar, sem os substituir, os restantes docentes, sob a orientação destes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 8.º-A — Constituição de uma base de recrutamento
+
+O regulamento de cada instituição de ensino superior pode prever que o convite de pessoal especialmente contratado seja precedido por um período de candidaturas, de forma a constituir uma base de recrutamento de entre a qual se deve proceder à escolha através de métodos de selecção objectivos.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 9.º — (Provimento dos assistentes)
+
+1 - Os assistentes são providos por contrato trienal, renovável por igual período.
+
+2 - A renovação terá lugar mediante proposta fundamentada do conselho científico, baseada em relatório apresentado pelo professor responsável pela disciplina ou área científica respectiva e formulada até sessenta dias antes do termo do contrato.
+
+3 - Os assistentes não poderão permanecer no exercício das suas funções se no termo da renovação não tiverem obtido as habilitações necessárias para o acesso à categoria de professor-adjunto.
+
+4 - Aos assistentes que desempenhem funções de professor-adjunto nos termos do n.º 2 do artigo 3.º poderá, para além dos prazos fixados no n.º 1 do presente artigo, ser prorrogado o respectivo contrato pelo período de um ano, renovável por duas vezes.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 9.º-A — Professores coordenadores principais
+
+1 - Aos professores coordenadores principais compete, para além das funções constantes do n.º 5 do artigo 3.º, desenvolver actividades de coordenação intersectorial.
+
+2 - Os professores coordenadores principais são recrutados exclusivamente por concurso documental nos termos do presente Estatuto.
+
+3 - Ao concurso para recrutamento de professores coordenadores principais podem candidatar-se os titulares do grau de doutor há mais de cinco anos igualmente detentores do título de agregado ou de título legalmente equivalente.
+
+4 - A composição dos júris dos concursos para professor coordenador principal obedece, designadamente, às seguintes regras:
+
+a) Serem constituídos:
+
+i) Por professores coordenadores principais, professores catedráticos ou investigadores coordenadores;
+
+ii) Por especialistas de reconhecido mérito, nacionais ou estrangeiros, de instituições públicas ou privadas, tendo em consideração a sua qualificação académica e a sua especial competência no domínio em causa;
+
+b) Serem em número não inferior a cinco nem superior a nove;
+
+c) Serem todos pertencentes à área ou áreas disciplinares para que é aberto o concurso;
+
+d) Serem compostos maioritariamente por individualidades externas à instituição de ensino superior.
+
+5 - Os professores coordenadores principais são contratados por tempo indeterminado.
+
+6 - Se o contrato referido no número anterior não for precedido por um contrato por tempo indeterminado como professor das carreiras docentes do ensino universitário ou do ensino politécnico ou como investigador da carreira de investigação científica, o mesmo tem o período experimental de um ano.
+
+7 - Findo o período experimental, e em função de avaliação específica da actividade desenvolvida realizada de acordo com critérios fixados pelo órgão legal e estatutariamente competente da instituição de ensino superior, o contrato passa a contrato por tempo indeterminado em regime de tenure, nos termos do artigo 10.º-A, salvo se o órgão máximo da instituição de ensino superior, sob proposta fundamentada aprovada por maioria de dois terços do órgão técnico-científico legal e estatutariamente competente, decidir no sentido da sua cessação, decisão que deve ser comunicada ao professor até 90 dias antes do termo daquele período.
+
+8 - Na situação de cessação prevista no número anterior, e sendo o caso, o docente regressa à situação jurídico-funcional de que era titular antes do período experimental, quando constituída e consolidada por tempo indeterminado.
+
+9 - A categoria de professor coordenador principal é equiparada para todos os efeitos remuneratórios à categoria de professor catedrático da carreira docente universitária.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 10.º — Contratação de professores coordenadores
+
+1 - Os professores coordenadores são contratados por tempo indeterminado.
+
+2 - Se o contrato referido no número anterior não for precedido por um contrato por tempo indeterminado como professor das carreiras docentes do ensino universitário ou do ensino politécnico ou como investigador da carreira de investigação científica, o mesmo tem o período experimental de um ano.
+
+3 - Findo o período experimental, em função de avaliação específica da actividade desenvolvida realizada de acordo com critérios fixados pelo órgão legal e estatutariamente competente da instituição de ensino superior, o contrato passa a contrato por tempo indeterminado em regime de tenure, nos termos do artigo 10.º-A, salvo se o órgão máximo da instituição de ensino superior, sob proposta fundamentada aprovada por maioria dos membros em efectividade de funções de categoria superior e de categoria igual desde que não se encontrem em período experimental, do órgão legal e estatutariamente competente, decidir no sentido da sua cessação.
+
+4 - A decisão a que se refere o número anterior é comunicada ao professor até 90 dias antes do termo do período experimental.
+
+5 - Na situação de cessação prevista no n.º 3, e sendo o caso, o docente regressa à situação jurídico-funcional de que era titular antes do período experimental, quando constituída e consolidada por tempo indeterminado.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 7/2010 - Diário da República n.º 93/2010, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030), em vigor a partir de 2010-05-14
+
+###### Artigo 10.º-A — Estatuto reforçado de estabilidade no emprego
+
+1 - Os professores coordenadores principais e os professores coordenadores beneficiam, nos termos do artigo 50.º da Lei n.º 62/2007, de 10 de Setembro, e do presente Estatuto, de um estatuto reforçado de estabilidade no emprego (tenure) que se traduz na garantia da manutenção do posto de trabalho, na mesma categoria e carreira ainda que em instituição diferente, nomeadamente no caso de reorganização da instituição de ensino superior a que pertencem que determine a cessação das respectivas necessidades.
+
+2 - Os professores coordenadores com contrato por tempo indeterminado em regime de tenure quando contratados como professores coordenadores principais mantêm o contrato de trabalho por tempo indeterminado no mesmo regime.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 10.º-B — Contratação de professores adjuntos
+
+1 - Os professores-adjuntos são contratados por tempo indeterminado com um período experimental de cinco anos, findo o qual, e em função de avaliação específica da actividade desenvolvida realizada de acordo com critérios fixados pelo órgão legal e estatutariamente competente da instituição, é mantido o contrato por tempo indeterminado, nos termos do presente Estatuto, salvo se o órgão máximo da instituição de ensino superior, sob proposta fundamentada aprovada por maioria dos membros em efectividade de funções de categoria superior e de categoria igual desde que não se encontrem em período experimental, do órgão legal e estatutariamente competente, decidir no sentido da sua cessação.
+
+2 - Em caso de decisão no sentido da cessação, após um período suplementar de seis meses, de que o docente pode prescindir, cessa a relação contratual, regressando o docente, se for caso disso, à situação jurídico-funcional de que era titular antes do período experimental, quando constituída e consolidada por tempo indeterminado.
+
+3 - A decisão a que se refere o n.º 1 é comunicada ao professor até seis meses antes do termo do período experimental.
+
+4 - Em caso de incumprimento, total ou parcial, do prazo estipulado no número anterior, a instituição de ensino superior fica obrigada a pagar ao docente uma indemnização de valor igual à remuneração base correspondente ao período de antecedência em falta quando haja cessação da relação contratual.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 7/2010 - Diário da República n.º 93/2010, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030), em vigor a partir de 2010-05-14
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 11.º — Período experimental
+
+1 - Aos períodos experimentais previstos nos contratos dos professores coordenadores principais, coordenadores e adjuntos é exclusivamente aplicável o disposto no presente Estatuto.
+
+2 - Durante o período experimental não pode haver lugar a cessação do contrato por iniciativa da instituição de ensino superior, salvo na sequência de procedimento disciplinar.
+
+3 - O tempo de serviço decorrido no período experimental concluído com manutenção do contrato de trabalho por tempo indeterminado é contado, para todos os efeitos legais, na carreira e categoria em causa.
+
+4 - O tempo de serviço decorrido no período experimental que se tenha concluído sem manutenção do contrato de trabalho por tempo indeterminado é contado, sendo o caso, na carreira e categoria às quais o trabalhador regressa.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 12.º — Contratação de professores convidados
+
+1 - Os professores convidados são contratados a termo certo, em regime de tempo parcial, nos termos da lei e de regulamento a aprovar por cada instituição de ensino superior.
+
+2 - Se, excepcionalmente, e nos termos do regulamento respectivo, forem contratados em regime de dedicação exclusiva ou de tempo integral, o contrato e as suas renovações não podem ter uma duração superior a quatro anos.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 12.º-A — Contratação de assistentes convidados
+
+1 - Os assistentes convidados são contratados a termo certo, em regime de dedicação exclusiva, de tempo integral ou de tempo parcial, nos termos da lei e de regulamento a aprovar por cada instituição de ensino superior.
+
+2 - A contratação em regime de dedicação exclusiva, de tempo integral ou de tempo parcial igual ou superior a 60 % só pode ter lugar quando, aberto concurso para a categoria da carreira, este tenha ficado deserto ou não tenha sido possível preencher todos os lugares postos a concurso por não existirem candidatos aprovados em número suficiente que reunissem as condições de admissão a esse concurso.
+
+3 - Em regime de dedicação exclusiva ou de tempo integral, o contrato e as suas renovações não podem ter uma duração superior a quatro anos, não podendo ser celebrado novo contrato nesses regimes entre a mesma instituição de ensino superior e a mesma pessoa.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 12.º-B — Casos especiais de contratação
+
+No âmbito de acordos de colaboração de que a instituição de ensino superior seja parte, ou no quadro da colaboração voluntária de docentes ou investigadores de outras instituições nacionais, estrangeiras ou internacionais, podem ser contratadas, sem remuneração, para o desempenho de funções docentes como professores convidados ou assistentes convidados, individualidades que satisfaçam os requisitos, respectivamente, do n.º 1 do artigo 8.º e da alínea a) do n.º 7 do artigo 8.º
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 12.º-C — Contratação de monitores
+
+Os monitores são contratados a termo certo, em regime de tempo parcial, nos termos da lei e de regulamento a aprovar por cada instituição de ensino superior.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 12.º-D — Casos especiais de contratação
+
+1 - Os docentes podem ser contratados para desenvolver a sua actividade:
+
+a) Num conjunto de instituições de ensino superior;
+
+b) Num consórcio de instituições de ensino superior.
+
+2 - No caso previsto no número anterior, o contrato é celebrado com uma das instituições integrantes do conjunto ou do consórcio.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 12.º-E — Nacionalidade dos docentes
+
+O pessoal docente abrangido pelo Estatuto pode ter nacionalidade portuguesa ou estrangeira ou ser apátrida.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 13.º — (Provimento por urgente conveniência de serviço)
+
+1 - Os assistentes e o pessoal referido no artigo 8.º serão contratados, tendo em conta as necessidades do respectivo estabelecimento de ensino, pelas efectivas disponibilidades das dotações para pessoal ou por força de verbas expressamente inscritas.
+
+2 - O provimento dos assistentes e do pessoal especialmente contratado nos termos do artigo 8.º considera-se sempre efectuado por urgente conveniência de serviço.
+
+3 - O pessoal referido no número anterior será abonado das remunerações a que tenha direito desde o dia da entrada em exercício efectivo de funções.
+
+4 - A não autorização do contrato ou a recusa do visto do Tribunal de Contas determina a cessação dos abonos a partir da data em que de tal facto for dado conhecimento ao interessado, o que deverá verificar-se no prazo máximo de quinze dias, contados a partir da data da comunicação da não autorização do contrato ou da recusa do visto aos serviços respectivos.
+
+5 - As escolas deverão comunicar à entidade competente para a autorização dos contratos, no prazo de dez dias, a entrada em funções do pessoal docente e auxiliar de ensino a contratar por urgente conveniência de serviço.
+
+6 - Se a comunicação a que se refere o número anterior não for feita dentro do prazo estabelecido, considera-se que, para todos os efeitos legais, e nomeadamente para os previstos no n.º 3 do presente artigo, o proposto entrou em funções dez dias antes da data da recepção da comunicação.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 14.º — (Denúncia e rescisão contratual)
+
+Os contratos do pessoal a que se refere o artigo anterior apenas podem ser rescindidos nos casos seguintes:
+
+a) Denúncia, por qualquer das partes contratantes, até trinta dias antes do termo do prazo do contrato;
+
+b) Aviso prévio de sessenta dias por parte do contratado;
+
+c) Mútuo acordo das partes, a todo o tempo;
+
+d) Proposta fundamentada do conselho científico, ouvido o interessado;
+
+e) Decisão final proferida na sequência de processo disciplinar.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 15.º — (Concursos)
+
+1 - Os concursos para recrutamento de professores coordenadores principais, coordenadores e adjuntos são abertos para uma área ou áreas disciplinares a especificar no aviso de abertura.
+
+2 - A especificação da área ou áreas disciplinares não deve ser feita de forma restritiva, que estreite de forma inadequada o universo dos candidatos.
+
+3 - O factor experiência docente não pode ser critério de exclusão e, quando considerado no âmbito do concurso, não se pode restringir à experiência numa determinada instituição ou conjunto de instituições.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 15.º-A — Finalidade dos concursos
+
+Os concursos para professores coordenadores principais, coordenadores e adjuntos destinam-se a averiguar o mérito dos candidatos, da sua capacidade profissional, da sua actividade científica, técnica e de investigação e o valor das suas capacidades pedagógicas, tendo em vista as funções a desempenhar.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 16.º — Órgão máximo da instituição de ensino superior
+
+1 - Compete ao órgão máximo da instituição de ensino superior, nos termos fixados nos respectivos Estatutos:
+
+a) A decisão de abrir concurso;
+
+b) A homologação das deliberações finais dos júris dos concursos;
+
+c) A decisão final sobre a contratação.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - A prática dos actos a que se refere o n.º 1 depende, nos termos da lei, da existência de cabimento orçamental.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 17.º — Candidatos aos concursos para recrutamento de professores adjuntos
+
+Aos concursos para recrutamento de professores-adjuntos podem apresentar-se os detentores do grau de doutor ou do título de especialista na área ou área afim daquela para que é aberto concurso.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 7/2010 - Diário da República n.º 93/2010, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030), em vigor a partir de 2010-05-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 18.º — (Candidatos aos concursos de provas públicas para professores-adjuntos)
+
+Aos concursos de provas públicas para recrutamento de professores-adjuntos para área de ensino predominantemente técnica poderão apresentar-se:
+
+a) Os candidatos referidos no artigo anterior, desde que disponham de currículo técnico ou profissional relevante;
+
+b) Os candidatos habilitados com curso superior adequado que disponham de currículo técnico ou profissional relevante.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 19.º — Candidatos aos concursos para recrutamento de professores coordenadores
+
+Aos concursos para recrutamento de professores-coordenadores podem apresentar-se os detentores do grau de doutor ou do título de especialista, obtido há mais de cinco anos, na área ou área afim daquela para que é aberto concurso.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 7/2010 - Diário da República n.º 93/2010, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030), em vigor a partir de 2010-05-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 20.º — (Requerimento de admissão)
+
+1 - Com o requerimento de admissão os candidatos deverão fazer a entrega dos elementos exigidos em edital e dos documentos comprovativos de que se encontram nas condições necessárias para admissão ao concurso.
+
+2 - Os institutos politécnicos ou as escolas superiores a que se refere o n.º 2 do artigo 15.º deverão comunicar aos candidatos, no prazo de três dias, o despacho ministerial de admissão ou não admissão ao concurso.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 21.º — Nomeação dos júris
+
+1 - Os júris dos concursos são nomeados por despacho do órgão máximo da instituição de ensino superior, nos termos fixados pelos respectivos Estatutos.
+
+2 - Quando a instituição de ensino superior não ministre cursos de mestrado na área ou áreas disciplinares para que o concurso é aberto, o júri é nomeado sob proposta do Conselho Coordenador dos Institutos Superiores Politécnicos.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 22.º — Composição dos júris
+
+1 - A composição dos júris dos concursos para professor coordenador e professor adjunto obedece, designadamente, às seguintes regras:
+
+a) Serem constituídos:
+
+i) Por docentes de instituições de ensino superior politécnicas nacionais públicas pertencentes a categoria superior àquela para que é aberto concurso ou à própria categoria quando se trate de concurso para professor coordenador;
+
+ii) Por outros professores ou investigadores, nacionais ou estrangeiros, com aplicação, com as devidas adaptações, da regra constante da subalínea anterior;
+
+iii) Por especialistas de reconhecido mérito, nacionais ou estrangeiros, de instituições públicas ou privadas, tendo em consideração a sua qualificação académica e a sua especial competência no domínio em causa;
+
+b) Serem em número não inferior a cinco nem superior a nove;
+
+c) Serem todos pertencentes à área ou áreas disciplinares para que é aberto o concurso;
+
+d) Serem compostos maioritariamente por individualidades externas à instituição de ensino superior.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 23.º — Funcionamento dos júris
+
+1 - Os júris:
+
+a) São presididos pelo órgão máximo da instituição de ensino superior ou por um professor da instituição de ensino superior por ele nomeado;
+
+b) Deliberam através de votação nominal fundamentada nos critérios de selecção adoptados e divulgados, não sendo permitidas abstenções;
+
+c) Só podem deliberar quando estiverem presentes pelo menos dois terços dos seus vogais e quando a maioria dos vogais presentes for externa.
+
+2 - O presidente do júri tem voto de qualidade e só vota:
+
+a) Quando seja professor ou investigador da área ou áreas disciplinares para que o concurso foi aberto; ou
+
+b) Em caso de empate.
+
+3 - As reuniões do júri de natureza preparatória da decisão final:
+
+a) Podem ser realizadas por teleconferência;
+
+b) Podem, excepcionalmente, por iniciativa do seu presidente, ser dispensadas sempre que, ouvidos, por escrito, num prazo por este fixado, nenhum dos vogais solicite tal realização, e todos se pronunciem no mesmo sentido.
+
+4 - Sempre que entenda necessário, o júri pode:
+
+a) Solicitar aos candidatos a entrega de documentação complementar relacionada com o currículo apresentado;
+
+b) Decidir promover audições públicas, em igualdade de circunstâncias para todos os candidatos.
+
+5 - Das reuniões do júri são lavradas actas contendo, designadamente, um resumo do que nelas tenha ocorrido, bem como os votos emitidos por cada um dos seus membros e respectiva fundamentação.
+
+6 - O júri deve proceder à apreciação fundamentada, por escrito, em documentos por ele elaborados e aprovados e integrados nas suas actas:
+
+a) Do desempenho técnico-científico e profissional do candidato com base na análise dos trabalhos e actividades constantes do currículo, designadamente dos que hajam sido seleccionados pelo candidato como mais representativos;
+
+b) Da capacidade pedagógica do candidato, tendo designadamente em consideração a análise da qualidade e extensão da sua prática pedagógica anterior;
+
+c) De outras actividades relevantes para a missão da instituição de ensino superior que hajam sido desenvolvidas pelo candidato.
+
+7 - Considerando os aspectos a que se referem os números anteriores, o júri deve proceder à elaboração de uma lista ordenada dos candidatos que hajam sido aprovados em mérito absoluto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 24.º — Garantias de imparcialidade
+
+É aplicável ao procedimento regulado na presente subsecção o regime de garantias de imparcialidade previsto nos artigos 44.º a 51.º do Código do Procedimento Administrativo, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 24.º-A — Prazo de proferimento das decisões
+
+O prazo de proferimento das decisões finais dos júris não pode ser superior a 90 dias seguidos, contados a partir da data limite para a apresentação das candidaturas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 25.º — (Provas públicas para professor-adjunto)
+
+1 - As provas de concurso para professor-adjunto para área de ensino predominantemente técnica compreendem:
+
+a) Discussão de dois temas estritamente relacionados com a área de ensino para que for aberto o concurso, sorteados pelo júri, nos termos dos números seguintes;
+
+b) Discussão de um estudo, proposto pelo candidato, que constitua uma actualização de conhecimentos técnicos ou uma análise critica original sobre tema compreendido na área de ensino para que for aberto o concurso;
+
+c) Apreciação e discussão do curriculum vitae do candidato.
+
+2 - Até quarenta dias antes do início das provas o júri deverá afixar em locais visíveis da escola a relação dos temas propostos, em número de cinco por cada candidato admitido a concurso.
+
+3 - Trinta dias antes do início das provas o júri sorteará, na presença de todos os candidatos admitidos a concurso, de entre a totalidade dos temas propostos, cinco para cada candidato.
+
+4 - O sorteio dos dois temas a discutir por cada candidato realizar-se-á, na sua presença, quarenta e oito horas antes do início da respectiva discussão.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 26.º — (Provas públicas para professor-coordenador)
+
+1 - As provas de concurso para professor-coordenador compreendem:
+
+a) Apresentação de uma lição sobre tema escolhido pelo candidato no âmbito da disciplina ou área científica para que for aberto o concurso;
+
+b) Apresentação e discussão de uma dissertação, de concepção pessoal, sobre um tema da área científica para que for aberto o concurso, reveladora de capacidade para a investigação e que patenteie perspectivas de progresso naquela área;
+
+c) Apreciação e discussão do currículo científico e pedagógico do candidato.
+
+2 - As provas referidas no número anterior deverão revelar capacidade científica, técnica e pedagógica para o desempenho das funções compreendidas na categoria de professor-coordenador.
+
+3 - Os candidatos que se apresentem habilitados com doutoramento na área para que for aberto o concurso e os que tenham sido aprovados em mérito absoluto em anterior concurso para professor-coordenador serão dispensados da prova referida na alínea b) do n.º 1 do presente artigo.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 27.º — (Regime de prestação de provas)
+
+1 - As provas públicas referidas nos artigos 25.º e 26.º do presente diploma serão separadas por intervalos mínimos de vinte e quatro horas, contados entre os respectivos inícios.
+
+2 - Cada uma das provas terá a duração máxima de duas horas e a sua discussão ficará a cargo de um ou dois membros do júri.
+
+3 - Aos candidatos deverá ser proporcionado o tempo necessário para que possam responder às criticas produzidas.
+
+4 - A lição referida na alínea a) do n.º 1 do artigo anterior deverá ter a duração de sessenta minutos.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 28.º — (Apreciação das provas)
+
+1 - Concluídas as provas, o júri reunirá para decisão final, devendo a classificação do candidato ser feita por votação em escrutínio secreto.
+
+2 - Só poderão participar na votação os membros do júri que tiverem assistido integralmente a todas as provas.
+
+3 - Da reunião do júri será elaborada acta, donde constarão, obrigatoriamente, um resumo das provas realizadas, os pareceres fundamentados dos respectivos arguentes e o resultado da votação efectuada.
+
+4 - O presidente do júri só vota em caso de empate, excepto se for professor da área a que correspondam as provas.
+
+5 - O resultado final será expresso pelas fórmulas de Aprovado e Recusado.
+
+6 - No caso de haver mais de um candidato para a mesma vaga, o júri votará primeiramente o mérito absoluto de cada candidato e, em seguida, classificá-los-á em mérito relativo.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 29.º — (Irrecorribilidade)
+
+Das decisões finais proferidas pelos júris não cabe recurso, excepto quando arguidas de vício de forma.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 29.º-A — Regulamentos
+
+1 - O órgão legal e estatutariamente competente de cada instituição de ensino superior aprova a regulamentação necessária à execução do presente Estatuto, a qual abrange, designadamente, os procedimentos, as regras de instrução dos processos e os prazos aplicáveis aos concursos e convites, no quadro da necessária harmonização de regras gerais sobre a matéria.
+
+2 - No que se refere aos concursos, os regulamentos devem abranger a tramitação procedimental, designadamente as regras de instrução de candidaturas, os prazos, os documentos a apresentar, os parâmetros de avaliação, os métodos e critérios de selecção a adoptar e o sistema de avaliação e de classificação final.
+
+3 - Os regulamentos a aprovar pelas instituições não podem afastar as disposições do presente Estatuto.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 29.º-B — Transparência
+
+1 - Os concursos realizados no âmbito do presente Estatuto são divulgados através da sua publicação, com a antecedência mínima de 30 dias úteis em relação à data limite de apresentação das candidaturas:
+
+a) Na 2.ª série do Diário da República;
+
+b) Na bolsa de emprego público;
+
+c) No sítio da Internet da Fundação para a Ciência e a Tecnologia, I. P., nas línguas portuguesa e inglesa;
+
+d) No sítio da Internet da instituição de ensino superior, nas línguas portuguesa e inglesa.
+
+2 - A divulgação abrange toda a informação relevante constante do edital, incluindo a composição do júri, os critérios de selecção e seriação e as datas de realização das eventuais audições públicas a que se refere a alínea b) do n.º 4 do artigo 23.º
+
+3 - São nulos os concursos abertos em violação do disposto nos números anteriores.
+
+4 - A contratação de docentes ao abrigo do presente Estatuto, por concurso ou por convite, é objecto de publicação:
+
+a) Na 2.ª série do Diário da República;
+
+b) No sítio da Internet da instituição de ensino superior.
+
+5 - Da publicação no sítio da Internet da instituição de ensino superior constam, obrigatoriamente, a referência à publicação a que se referem os n.os 1 e 2, bem como os fundamentos que conduziram à decisão, incluindo os relatórios integrais que fundamentaram os convites.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 30.º — Número e percentagem de professores de carreira e de docentes convidados
+
+1 - O conjunto dos professores da carreira deve representar, pelo menos, 70 % do número de docentes de cada instituição de ensino superior.
+
+2 - As instituições de ensino superior devem abrir os concursos que assegurem progressivamente a satisfação do disposto no número anterior.
+
+3 - O número de docentes convidados deve representar, pelo menos, 20 % do número de docentes de cada instituição de ensino superior.
+
+4 - O número de professores coordenadores da carreira não pode ser superior a 50 % do número de professores da carreira de cada instituição de ensino superior.
+
+5 - O número de professores coordenadores principais da carreira não pode ser superior a 15 % do número de professores coordenadores da carreira de cada instituição de ensino superior.
+
+6 - O disposto nos números anteriores deve aplicar-se tendencialmente a cada uma das unidades orgânicas de ensino ou de ensino e investigação de cada instituição de ensino superior.
+
+7 - São critérios para a fixação a que se referem n.º 1 do artigo 120.º e o n.º 1 do artigo 121.º da Lei n.º 62/2007, de 10 de Setembro, os expressamente previstos no presente Estatuto e, ainda, os suportados nas melhores práticas relevantes tendo em conta a dimensão da instituição de ensino superior por referência ao número de estudantes inscritos, ao número de diplomados, à oferta formativa e à capacidade científica avaliada e reconhecida oficialmente.
+
+8 - A Agência de Avaliação e Acreditação do Ensino Superior considera, no âmbito dos processos de avaliação e acreditação das instituições e dos seus ciclos de estudos, o cumprimento das regras a que se referem os números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 30.º-A — Deveres do pessoal docente
+
+São deveres genéricos de todos os docentes, sem prejuízo de melhor explicitação em normas regulamentares que, nesta matéria, sejam aprovadas pelas instituições de ensino superior nos termos dos seus Estatutos:
+
+a) Desenvolver permanentemente uma pedagogia dinâmica e actualizada;
+
+b) Contribuir para o desenvolvimento do espírito crítico, inventivo e criador dos estudantes, apoiando-os e estimulando-os na sua formação cultural, científica, profissional e humana;
+
+c) Orientar e contribuir activamente para a formação científica, técnica, cultural e pedagógica do pessoal docente que consigo colabore, apoiando a sua formação naqueles domínios;
+
+d) Manter actualizados e desenvolver os seus conhecimentos culturais e científicos e efectuar trabalhos de investigação, numa procura constante do progresso científico e técnico e da satisfação das necessidades sociais;
+
+e) Desempenhar activamente as suas funções, nomeadamente elaborando e pondo à disposição dos alunos materiais didácticos actualizados;
+
+f) Cooperar interessadamente nas actividades de extensão da instituição de ensino superior, como forma de apoio ao desenvolvimento da sociedade em que essa acção se projecta;
+
+g) Prestar o seu contributo ao funcionamento eficiente e produtivo da instituição de ensino superior, assegurando o exercício das funções para que tenham sido eleitos ou designados, ou dando cumprimento às acções que lhes hajam sido cometidas pelos órgãos competentes, dentro do seu horário de trabalho e no domínio científico-pedagógico em que a sua actividade se exerça;
+
+h) Conduzir com rigor científico a análise de todas as matérias, sem prejuízo da liberdade de orientação e de opinião consagrada no artigo seguinte;
+
+i) Colaborar com as autoridades competentes e com os órgãos interessados no estudo e desenvolvimento do ensino e da investigação, com vista a uma constante satisfação das necessidades e fins conducentes ao progresso da sociedade portuguesa;
+
+j) Melhorar a sua formação e desempenho pedagógico.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 31.º — (Liberdade de orientação e opinião científica)
+
+O pessoal docente do ensino superior politécnico goza de liberdade de orientação e de opinião científica na leccionação das matérias, sem prejuízo do disposto no artigo seguinte.
+
+###### Artigo 32.º — Programas das unidades curriculares
+
+1 - Os programas das unidades curriculares são fixados de forma coordenada pelos órgãos legal e estatutariamente competentes de cada instituição de ensino superior.
+
+2 - As instituições de ensino superior devem promover uma adequada divulgação dos programas das unidades curriculares, bem como de toda a informação a eles associada, designadamente objectivos, bibliografia e sistema de avaliação, através dos respectivos sítios na Internet.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 33.º — (Sumários)
+
+Os docentes elaboram sumário de cada aula, contendo a indicação da matéria leccionada com referência ao programa da unidade curricular, o qual é dado a conhecer aos alunos através dos meios fixados em regulamento da instituição de ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 33.º-A — Propriedade intelectual
+
+1 - É especialmente garantida aos docentes a propriedade intelectual dos materiais pedagógicos produzidos no exercício das suas funções, sem prejuízo das utilizações lícitas.
+
+2 - Os direitos previstos no número anterior não impedem a livre utilização, sem quaisquer ónus, dos referidos materiais pedagógicos no processo de ensino por parte da instituição de ensino superior ao serviço da qual tenham sido produzidos, nem o respeito pelas normas de partilha e livre disponibilização de recursos pedagógicos que a instituição decida subscrever.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 34.º — (Regime de prestação de serviço)
+
+1 - O pessoal docente de carreira exerce as suas funções, em regra, em regime de dedicação exclusiva.
+
+2 - O exercício de funções é realizado em regime de tempo integral mediante manifestação do interessado nesse sentido.
+
+3 - À transição entre os regimes de dedicação exclusiva e de tempo integral aplica-se o disposto no Decreto-Lei n.º 145/87, de 24 de Março.
+
+4 - Os docentes convidados que desempenhem outras funções, públicas ou privadas, incompatíveis com a prestação de serviços em regime de tempo integral, são contratados em regime de tempo parcial.
+
+5 - Considera-se regime de tempo integral o que corresponde ao horário semanal de trabalho da generalidade dos trabalhadores em funções públicas, compreendendo um máximo de doze horas de aulas semanais e um mínimo de seis, sem prejuízo, contudo, do disposto no artigo 38.º
+
+6 - No regime de tempo parcial, o número total de horas de serviço semanal, incluindo aulas, sua preparação e apoio aos alunos, é contratualmente fixado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+> Alterado pelo/a [Decreto-Lei n.º 69/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1988-287590), em vigor a partir de 1988-03-08
+
+###### Artigo 34.º-A — Dedicação exclusiva
+
+1 - O regime de dedicação exclusiva implica a renúncia ao exercício de qualquer função ou actividade remunerada, pública ou privada, incluindo o exercício de profissão liberal.
+
+2 - A violação do compromisso referido no número anterior implica a reposição das importâncias efectivamente recebidas correspondentes à diferença entre o regime de tempo integral e o regime de dedicação exclusiva, para além da eventual responsabilidade disciplinar.
+
+3 - Não viola o disposto no n.º 1 a percepção de remunerações decorrentes de:
+
+a) Direitos de autor;
+
+b) Realização de conferências, palestras, cursos breves e outras actividades análogas;
+
+c) Ajudas de custo;
+
+d) Despesas de deslocação;
+
+e) Desempenho de funções em órgãos da instituição a que esteja vinculado;
+
+f) Participação em órgãos consultivos de instituição estranha àquela a que pertença, desde que com a anuência prévia desta última e quando a forma de remuneração seja exclusivamente a de senhas de presença;
+
+g) Participação em avaliações e em júris de concursos ou de exames estranhos à instituição a que esteja vinculado;
+
+h) Elaboração de estudos ou pareceres mandados executar por entidades oficiais nacionais, da União Europeia ou internacionais, ou no âmbito de comissões constituídas por sua determinação;
+
+i) Prestação de serviço docente em instituição de ensino superior pública diversa da instituição a que esteja vinculado, quando, com autorização prévia desta última, se realize para além do período semanal de trinta e cinco horas de serviço e não exceda quatro horas semanais;
+
+j) Actividades exercidas, quer no âmbito de contratos entre a instituição a que pertence e outras entidades públicas ou privadas, nacionais, estrangeiras ou internacionais, quer no âmbito de projectos subsidiados por quaisquer dessas entidades, desde que se trate de actividades da responsabilidade da instituição e que os encargos com as correspondentes remunerações sejam satisfeitos através de receitas provenientes dos referidos contratos ou subsídios, nos termos de regulamento aprovado pela própria instituição de ensino superior.
+
+4 - A percepção da remuneração prevista na alínea j) do número anterior só pode ter lugar quando a actividade exercida tiver nível científico ou técnico previamente reconhecido pelo órgão de direcção da instituição de ensino superior como adequado à natureza, dignidade e funções destas últimas, e quando as obrigações decorrentes do contrato ou da aceitação do subsídio não impliquem uma relação estável.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 35.º — (Vencimentos e remunerações)
+
+1 - O regime remuneratório aplicável aos professores de carreira e ao pessoal docente contratado para além da carreira consta de diploma próprio.
+
+2 - Os professores-coordenadores que possuam o título de agregado e contem com, pelo menos, cinco anos de serviço docente efectivo nas categorias de professor-adjunto e ou de professor-coordenador serão abonados pela letra A da tabela de vencimentos do funcionalismo público.
+
+3 - O pessoal da carreira docente do ensino superior politécnico que participe em projectos de investigação científica e ou desenvolvimento experimental nos domínios técnico e educativo terá direito a um subsídio complementar, desde que declare renunciar ao desempenho de outras funções remuneradas, públicas ou privadas, incluindo o exercício de profissão liberal.
+
+4 - O subsídio complementar a que se refere o número anterior será processado a partir do início do mês seguinte ao da apresentação da declaração de renúncia, correspondendo a 35% da respectiva letra de vencimento no caso dos professores e a 15% da respectiva letra de vencimento no caso dos assistentes.
+
+5 - Quando da apresentação da declaração de renúncia, os interessados farão entrega dos documentos que provem estar nas condições exigidas no n.º 3.
+
+6 - A violação do disposto no n.º 3 implica a reposição das importâncias indevidamente percebidas a título de subsídio complementar, bem como a instauração de procedimento disciplinar.
+
+7 - Não envolve quebra do compromisso assumido nos termos da declaração referida no n.º 3 a percepção das remunerações decorrentes de:
+
+a) Pagamento de direitos de autor;
+
+b) Realização de conferências, palestras, cursos breves e actividades análogas;
+
+c) Gratificação pelo desempenho de funções directivas em órgãos da instituição a que pertença;
+
+d) Ajudas do custo;
+
+e) Despesas de deslocação.
+
+8 - O pessoal docente em regime de tempo parcial aufere uma remuneração igual a uma percentagem do vencimento para o regime de tempo integral correspondente à categoria e nível remuneratório para que é convidado, proporcionada à percentagem desse tempo contratualmente fixada.
+
+9 - O regime remuneratório dos monitores é o previsto no n.º 7 do artigo 74.º do Decreto-Lei n.º 448/79, de 13 de Novembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+> Alterado pelo/a [Decreto-Lei n.º 69/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1988-287590), em vigor a partir de 1988-03-08
+
+###### Artigo 35.º-A — Avaliação do desempenho
+
+1 - Os docentes estão sujeitos a um regime de avaliação do desempenho constante de regulamento a aprovar por cada instituição de ensino superior, ouvidas as organizações sindicais.
+
+2 - A avaliação do desempenho constante do regulamento a que se refere o número anterior subordina-se aos seguintes princípios:
+
+a) Orientação visando a melhoria da qualidade do desempenho dos docentes;
+
+b) Consideração de todas as vertentes da actividade dos docentes enunciadas no artigo 2.º-A, na medida em que elas lhes tenham, em conformidade com a lei e o Estatuto, estado afectas no período a que se refere a avaliação;
+
+c) Consideração da especificidade de cada área disciplinar;
+
+d) Consideração dos processos de avaliação conducentes à obtenção pelos docentes de graus e títulos académicos no período em apreciação;
+
+e) Consideração dos relatórios produzidos no período em apreciação no cumprimento de obrigações do estatuto da carreira e a sua avaliação;
+
+f) Responsabilização pelo processo de avaliação do dirigente máximo da instituição de ensino superior;
+
+g) Realização da avaliação pelos órgãos científicos da instituição de ensino superior, através dos meios considerados mais adequados, podendo recorrer à colaboração de peritos externos;
+
+h) Participação dos órgãos pedagógicos da instituição de ensino superior;
+
+i) Realização periódica, pelo menos de três em três anos;
+
+j) Resultados da avaliação do desempenho expressa numa menção reportada a uma escala não inferior a quatro posições que claramente evidencie o mérito demonstrado;
+
+l) Homologação dos resultados da avaliação do desempenho pelo dirigente máximo da instituição de ensino superior, assegurando um justo equilíbrio da distribuição desses resultados, em obediência ao princípio da diferenciação do desempenho;
+
+m) Previsão da audiência prévia dos interessados;
+
+n) Previsão da possibilidade dos interessados impugnarem judicialmente, nos termos gerais, o acto de homologação e a decisão sobre reclamação;
+
+o) Aplicação do regime de garantias de imparcialidade previsto nos artigos 44.º a 51.º do Código do Procedimento Administrativo e consagrado no presente Estatuto para os concursos.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 7/2010 - Diário da República n.º 93/2010, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030), em vigor a partir de 2010-05-14
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 35.º-B — Efeitos da avaliação de desempenho
+
+1 - A avaliação do desempenho positiva é uma das condições que deve ser satisfeita para a:
+
+a) Contratação por tempo indeterminado dos professores adjuntos;
+
+b) Renovação dos contratos a termo certo dos docentes não integrados na carreira.
+
+2 - A avaliação do desempenho tem ainda efeitos na alteração de posicionamento remuneratório na categoria do docente, nos termos previstos no artigo 35.º-C.
+
+3 - Em caso de avaliação do desempenho negativa durante o período de seis anos, é aplicável o regime geral fixado na lei para o efeito.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 35.º-C — Alteração do posicionamento remuneratório
+
+1 - A alteração do posicionamento remuneratório tem lugar nos termos regulados por cada instituição de ensino superior e realiza-se em função da avaliação do desempenho.
+
+2 - O montante máximo dos encargos financeiros que em cada ano pode ser afectado à alteração do posicionamento remuneratório é fixado, anualmente, por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e do ensino superior, publicado no Diário da República, em percentagem da massa salarial total do pessoal docente da instituição.
+
+3 - Na elaboração dos seus orçamentos anuais, as instituições de ensino superior devem contemplar dotações previsionais adequadas às eventuais alterações do posicionamento remuneratório dos seus docentes no limite fixado nos termos do número anterior e das suas disponibilidades orçamentais.
+
+4 - O regulamento a que se refere o n.º 1 deve prever a obrigatoriedade de alteração do posicionamento remuneratório sempre que um docente, no processo de avaliação de desempenho, tenha obtido, durante um período de seis anos consecutivos, a menção máxima.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 35.º-D — Cargos dirigentes
+
+O exercício de cargos dirigentes ao abrigo do estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado não produz quaisquer efeitos na carreira docente politécnica, com excepção dos seguintes:
+
+a) Contagem de tempo na carreira e na categoria;
+
+b) Dispensa de serviço obrigatória a que se refere o n.º 6 do artigo 36.º;
+
+c) Alteração do posicionamento remuneratório na categoria detida, nos termos da Lei n.º 2/2004, de 15 de Janeiro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 36.º — Dispensa de serviço docente dos professores
+
+1 - No termo de cada sexénio de efectivo serviço, podem os professores coordenadores principais, coordenadores e adjuntos, sem perda ou lesão de quaisquer dos seus direitos, requerer a dispensa da actividade docente pelo período de um ano escolar, para fins de actualização científica e técnica e de realização de trabalhos de investigação ou publicação de trabalhos incompatíveis com a manutenção das suas tarefas escolares correntes.
+
+2 - Podem ser concedidas licenças sabáticas parciais, não acumuláveis com as previstas no número anterior, por períodos de seis meses após cada triénio de efectivo serviço.
+
+3 - O período de licença sabática não é considerado para a contagem do sexénio ou triénio a que se referem os números anteriores.
+
+4 - Uma vez terminada a licença sabática a que se referem os números anteriores, o professor contrai a obrigação de, no prazo máximo de dois anos, apresentar ao conselho técnico-científico da instituição de ensino superior os resultados do seu trabalho, sob pena de, quando assim o não faça, vir a ser compelido a repor as quantias correspondentes às remunerações auferidas durante aqueles períodos.
+
+5 - Independentemente do disposto nos números anteriores, os professores em regime de dedicação exclusiva ou de tempo integral podem ser dispensados do serviço docente, mediante decisão do órgão máximo da instituição de ensino superior, sob proposta do conselho técnico-científico, por períodos determinados, para a realização de projectos de investigação ou extensão.
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 36.º-A — Dispensa especial de serviço
+
+No termo do exercício de funções de direcção nas instituições de ensino superior ou de funções mencionadas no n.º 1 do artigo 41.º por período continuado igual ou superior a três anos, o pessoal docente tem direito a uma dispensa de serviço por um período com duração não inferior a seis meses nem superior a um ano para efeitos de actualização científica e técnica, a qual é requerida obrigatoriamente e conta como serviço efectivo.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 37.º — (Formação e orientação dos assistentes)
+
+Os assistentes são permanentemente orientados por professores designados para o efeito pelo conselho científico da escola até ao fim do 1.º trimestre de cada ano lectivo.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 37.º-A — Bolsas de estudo e equiparação a bolseiro
+
+1 - O pessoal docente:
+
+a) Pode ser equiparado a bolseiro, no País ou no estrangeiro, pela duração que se revelar mais adequada ao objectivo e com ou sem vencimento, nos termos de regulamento a aprovar pela instituição de ensino superior, competindo a decisão ao órgão legal e estatutariamente competente da instituição de ensino superior;
+
+b) Pode candidatar-se a bolsas de estudo, no País ou no estrangeiro, obtida a anuência do órgão legal e estatutariamente competente da instituição de ensino superior.
+
+2 - Durante todo o período da equiparação a bolseiro, independentemente da respectiva duração, o bolseiro mantém todos os direitos inerentes ao efectivo desempenho de serviço, designadamente o abono da remuneração, salvo nos casos de equiparação a bolseiro sem vencimento, e a contagem de tempo de serviço para todos os efeitos legais.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 38.º — Serviço dos docentes
+
+1 - Cada instituição de ensino superior aprova um regulamento de prestação de serviço dos docentes, o qual deve ter em consideração, designadamente:
+
+a) Os princípios adoptados pela instituição na sua gestão de recursos humanos;
+
+b) O plano de actividades da instituição;
+
+c) O desenvolvimento da actividade científica;
+
+d) Os princípios informadores do Processo de Bolonha;
+
+e) A necessidade de os docentes, à luz dos novos requisitos de qualificação estabelecidos, poderem desenvolver e concluir os seus projectos de doutoramento em tempo útil.
+
+2 - O regulamento de prestação de serviço dos docentes abrange todas as funções que lhes competem, nos termos dos artigos 2.º-A, 3.º e 9.º-A, e deve, designadamente, nos termos por ele fixados:
+
+a) Permitir que os professores de carreira, numa base de equilíbrio plurianual, por um tempo determinado, e com contabilização e compensação obrigatória das eventuais cargas horárias lectivas excessivas, se possam dedicar, total ou parcialmente, a qualquer das componentes da actividade académica;
+
+b) Permitir que os professores de carreira possam, a seu pedido, participar noutras instituições, designadamente de ciência e tecnologia, sem perda de direitos.
+
+3 - A distribuição de serviço dos docentes é feita pelo órgão legal e estatutariamente competente, de acordo com o regulamento a que se refere o presente artigo.
+
+4 - Compete a cada docente propor o quadro institucional que melhor se adeqúe ao exercício da investigação que deve desenvolver.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 7/2010 - Diário da República n.º 93/2010, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030), em vigor a partir de 2010-05-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 39.º — (Serviço docente nocturno)
+
+1 - Considera-se serviço docente nocturno o que for prestado para além das 20 horas.
+
+2 - Cada hora lectiva nocturna corresponde, para todos os efeitos, a hora e meia lectiva diurna.
+
+###### Artigo 40.º — Acumulação de funções
+
+1 - O limite para a acumulação de funções ao abrigo do disposto no n.º 1 do artigo 51.º da Lei n.º 62/2007, de 10 de Setembro, é de seis horas lectivas semanais.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 41.º — (Serviço prestado em outras funções públicas)
+
+1 - Para além do que se encontre consagrado em legislação própria, é equiparado, para todos os efeitos legais, ao efectivo exercício de funções o serviço prestado pelo pessoal docente em alguma das seguintes situações:
+
+a) Presidente da República;
+
+b) Membro do Governo;
+
+c) Procurador-Geral da República e membro do Conselho Consultivo da Procuradoria-Geral da República;
+
+d) Provedor de Justiça e provedor-adjunto;
+
+e) Deputado à Assembleia da República;
+
+f) Juiz do Supremo Tribunal de Justiça e do Tribunal Constitucional;
+
+g) Juiz do Supremo Tribunal Administrativo;
+
+h) Deputado à assembleia legislativa da região autónoma;
+
+i) Membro do governo regional;
+
+j) Inspector-geral, subinspector-geral, secretário-geral, secretário-geral-adjunto, director-geral, subdirector-geral, presidente, vice-presidente e vogal de conselho directivo de instituto público ou equiparados;
+
+l) Chefe da Casa Civil e assessor da Presidência da República;
+
+m) Chefe do gabinete e adjunto do gabinete de titulares dos demais órgãos de soberania;
+
+n) Presidente de câmara municipal e vereador a tempo inteiro;
+
+o) Governador civil e vice-governador civil;
+
+p) Chefe do gabinete ou membro do gabinete do Procurador-Geral da República;
+
+q) Funções, a tempo inteiro, em gabinete de membro do Governo;
+
+r) Assessor do gabinete dos juízes do Tribunal Constitucional;
+
+s) Titular, em regime a tempo inteiro, de órgão de gestão de instituições de ensino superior públicas;
+
+t) Membro dos órgãos de administração das entidades públicas empresariais;
+
+u) Funções em organizações internacionais de que Portugal seja membro, desde que autorizado nos termos previstos na lei;
+
+v) Desempenho de funções diplomáticas eventuais;
+
+x) Funções sindicais dirigentes a tempo inteiro;
+
+z) Director de hospital e director clínico de unidades de cuidados de saúde onde tenha lugar o ensino do curso de Medicina;
+
+aa) Funções em institutos de ciência e tecnologia nacionais, públicos ou privados de utilidade pública, ou internacionais;
+
+ab) Funções directivas em pessoas colectivas de direito privado de que façam parte instituições de ensino superior ou instituições financiadoras ou integrantes do sistema científico nacional.
+
+2 - O tempo de serviço prestado nas situações constantes do número anterior suspende a duração dos vínculos contratuais e, a pedido do interessado, outras obrigações que sejam previstas nos regulamentos da respectiva instituição de ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 42.º — Aposentação e reforma
+
+1 - O pessoal docente tem direito a aposentação ou reforma nos termos da lei geral.
+
+2 - Ao professor aposentado ou reformado por limite de idade cabe a designação de professor jubilado.
+
+3 - Os professores aposentados, reformados ou jubilados podem:
+
+a) Ser orientadores de dissertações de mestrado e de teses de doutoramento;
+
+b) Ser membros dos júris para atribuição dos graus de mestre e de doutor;
+
+c) Ser membros dos júris para atribuição dos títulos de agregado, de habilitação e de especialista;
+
+d) Investigar em instituições de ensino superior ou de investigação científica.
+
+4 - Os professores aposentados, reformados ou jubilados podem ainda, a título excepcional, quando se revele necessário, tendo em consideração a sua especial competência num determinado domínio:
+
+a) Ser membros dos júris dos concursos abrangidos pelo presente Estatuto e pelos Estatuto da Carreira Docente Universitária e Estatuto da Carreira de Investigação Científica;
+
+b) Leccionar, em situações excepcionais, em instituições de ensino superior, não podendo, contudo, satisfazer necessidades permanentes de serviço docente.
+
+5 - Ao exercício das funções identificadas na alínea b) do número anterior, quando remunerado e em situação de trabalho dependente, é aplicável o regime constante, conforme o caso, do Estatuto da Aposentação ou da legislação da segurança social, cabendo a autorização ao órgão legal e estatutariamente competente da instituição de ensino superior em causa.
+
+6 - Para efeitos de integração em júris de uma instituição de ensino superior, os professores aposentados, reformados ou jubilados dessa instituição não são considerados membros externos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 43.º — (Mobilidade de efectivos)
+
+1 - Sempre que se verifique a existência de vagas no quadro do pessoal docente de uma escola superior politécnica poderá ser requerida a transferência ao Ministro da Educação e Ciência, consoante a categoria a que respeitar a vaga:
+
+a) Por professor-coordenador ou professor-adjunto da disciplina ou área científica a que respeitar a vaga de outra escola superior politécnica;
+
+b) Por professor-coordenador ou professor-adjunto de disciplina ou área científica diferente daquela a que respeitar a vaga da mesma ou de outra escola superior politécnica.
+
+2 - Se a transferência for solicitada nos termos do disposto na alínea b) do número anterior, o requerente juntará os trabalhos que haja publicado sobre matérias respeitantes à área científica do lugar a prover e outros elementos que se afigurem pertinentes à apreciação da viabilidade da pretensão.
+
+3 - É condição de deferimento do pedido de transferência o parecer favorável aprovado por dois terços dos membros do conselho científico da escola a que respeita a vaga e a não existência nela de candidatos que reúnam as condições legais para concorrer ao seu preenchimento.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 44.º — Precedência
+
+1 - As regras para efeitos de precedência entre os docentes são fixadas em regulamento aprovado pelo órgão legal e estatutariamente competente da instituição de ensino superior.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 44.º-A — Resolução alternativa de litígios
+
+1 - Sem prejuízo da possibilidade de recurso a outros mecanismos extrajudiciais de resolução de conflitos, pode ser constituído tribunal arbitral para julgamento de quaisquer litígios emergentes de relações reguladas pelo presente Estatuto, inclusive as relativas à formação dos contratos quando não estejam em causa direitos indisponíveis e quando não resultem de acidente de trabalho ou de doença profissional.
+
+2 - Exceptuam-se do disposto no número anterior, os casos em que existam contra-interessados, salvo se estes aceitarem o compromisso arbitral.
+
+3 - A outorga do compromisso arbitral por parte das instituições de ensino superior compete ao órgão máximo da instituição de ensino superior, nos termos fixados nos respectivos Estatutos.
+
+4 - As instituições de ensino superior podem, ainda, vincular-se genericamente a centros de arbitragem voluntária institucionalizada com competência para dirimir os conflitos referidos no n.º 1, por meio de previsão no regulamento a aprovar por cada instituição de ensino superior, o qual estabelece o tipo e o valor máximo dos litígios, conferindo aos interessados o poder de se dirigirem a esses centros para a resolução de tais litígios.
+
+5 - Sem prejuízo do disposto na lei e nos números anteriores em matéria de arbitragem, são admitidos outros mecanismos de resolução alternativa de litígios emergentes das relações jurídicas reguladas pelo presente Estatuto, designadamente através da mediação e da consulta.
+
+6 - Pode, designadamente, ser requerida pelas partes, no âmbito da consulta, a emissão de parecer por uma comissão paritária constituída por dois representantes da instituição de ensino superior e por dois representantes da associação sindical em que o docente esteja inscrito.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+###### Artigo 44.º-B — Instituições em regime fundacional
+
+1 - O pessoal com relação jurídica de emprego público que se encontre a exercer funções em instituições de ensino superior à data da sua transformação em instituição de ensino superior em regime fundacional transita para esta, com garantia da manutenção integral do seu estatuto jurídico.
+
+2 - As instituições de ensino superior em regime fundacional podem admitir pessoal em regime de contrato de trabalho em funções públicas, observando os requisitos e procedimentos previstos no presente Estatuto.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 7/2010 - Diário da República n.º 93/2010, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030), em vigor a partir de 2010-05-14
+
+###### Artigo 45.º — (Dúvidas)
+
+As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa, de acordo com as respectivas competências.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 207/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), em vigor a partir de 2009-09-01
+
+Visto e aprovado em Conselho de Ministros de 7 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 17 de Junho de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+## Anexo — Tabela a que se refere o n.º 1 do artigo 31.º do Decreto-Lei n.º 185/81
+
+(ver documento original)

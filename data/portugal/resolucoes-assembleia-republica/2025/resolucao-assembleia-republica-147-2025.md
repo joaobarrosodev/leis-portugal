@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:939474951:por
+title: Resolução da Assembleia da República n.º 147/2025
+short_title: null
+summary: Recomenda ao Governo que introduza melhorias e atualizações à legislação sobre doenças profissionais.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 147/2025
+official_date: null
+publication_date: '2025-10-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 197/2025, Série I de 2025-10-13
+  number: '197'
+  series: I
+  supplement: null
+  pages: 7 - 7
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19700/0000700007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/147/2025/10/13/p/dre/pt/html
+  oj: null
+  dre: '939474951'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/147-2025-939474951
+  internal: pt:dre:939474951:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/147-2025-939474951
+  metadata_url: https://data.dre.pt/eli/resolassrep/147/2025/10/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/147-2025-939474951
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-10-13T00:00:00Z'
+integrity:
+  source_sha256: 018c251ee37d354c8fd56339ee8e052afbff1ccaa103a9c5754575b4bc72ff8c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-147-939474951.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Segurança no Trabalho
+- Lista
+- Assembleia da República
+- Doença Profissional
+- Recomendação
+- Condições de Higiene e Segurança no Trabalho
+- Doença
+- Trabalho por Turnos
+- Equipamento de Proteção
+- Governo XXV
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/6/2001/05/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/6/2001/05/05/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 147/2025
+
+Recomenda ao Governo que introduza melhorias e atualizações à legislação sobre doenças profissionais
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que, em articulação com as organizações representativas dos trabalhadores e dos empregadores, avalie a introdução de melhorias e atualizações à legislação sobre doenças profissionais, ponderando designadamente:
+
+a) Rever a lista de doenças profissionais, aprovada em anexo ao [Decreto Regulamentar n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2001-315913), de 5 de maio, por forma a garantir o seu pleno alinhamento com o conhecimento científico disponível e as recomendações da Organização Internacional do Trabalho, assim como assegurar a inclusão de doenças causadas por agentes biológicos emergentes e doenças de foro psíquico contraídas no trabalho ou devido ao mesmo;
+
+b) Simplificar os procedimentos para a certificação de doenças profissionais e atribuição de prestações, com redução da burocracia e do tempo de espera dos trabalhadores e o reforço das respetivas garantias;
+
+c) Reforçar a proteção dos trabalhadores a novos riscos, como os decorrentes do uso de novas tecnologias, de novos métodos de trabalho e de alterações climáticas;
+
+d) Implementar medidas de prevenção de doenças profissionais, incluindo a formação dos trabalhadores, a avaliação regular dos riscos nos locais de trabalho e uma melhor articulação das instituições de saúde e segurança no trabalho e de segurança social;
+
+e) Reforçar a monitorização do cumprimento das medidas de prevenção de doenças profissionais aplicáveis aos trabalhadores em regime de trabalho por turnos, trabalho noturno e laboração contínua;
+
+f) Realizar um estudo para quantificar o impacto de fatores de risco ocupacional na saúde dos trabalhadores, incluindo longas jornadas de trabalho.
+
+Aprovada em 19 de setembro de 2025.
+
+**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**

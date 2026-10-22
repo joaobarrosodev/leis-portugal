@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:224461183:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2023-1169164775",
+ "dre_path": "/dr/detalhe/aviso/22193-2023-224461183",
+ "source_lastmod": "2026-09-16",
+ "versions": [
+  {
+   "date": "2023-11-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1169154075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1169154075": {
+   "fragment_id": "1169164875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Sumário: Cessação da comissão de serviço da mestre Sandra Isabel Silva Pereira no cargo de diretora de Serviços da Direção de Serviços de Planeamento, Informação e Recursos Humanos.\n\nNos termos e para os efeitos previstos na alínea d) do n.º 1 do artigo 4.º da Lei n.º 35/2014, de 20 de junho, torno público que, por meu despacho de 11 de outubro de 2023, foi autorizado o pedido de cessação da comissão de serviço da mestre Sandra Isabel Silva Pereira no cargo de Diretora de Serviços da Direção de Serviços de Planeamento, Informação e Recursos Humanos, com efeitos a 1 de novembro de 2023, nos termos da alínea i) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de janeiro, na sua atual redação."
+  }
+ }
+}

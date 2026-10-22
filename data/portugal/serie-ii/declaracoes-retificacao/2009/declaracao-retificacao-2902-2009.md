@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:1528351:por
+title: Declaração de Rectificação n.º 2902/2009
+short_title: null
+summary: Nomeação de Paula Maria Aleixo Silva Faustino como secretária pessoal do Ministro de Estado e dos Negócios Estrangeiros
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Gabinete do Ministro
+proposing_entity: null
+official_number: 2902/2009
+official_date: null
+publication_date: '2009-11-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 228/2009, Série II de 2009-11-24
+  number: '228'
+  series: II
+  supplement: null
+  pages: 47934 - 47935
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/11/228000000/4793447935.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1528351'
+  dre_path: /dr/detalhe/declaracao-rectificacao/2902-2009-1528351
+  internal: pt:dre:1528351:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2902-2009-1528351
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2902-2009-1528351
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-11-24T00:00:00Z'
+integrity:
+  source_sha256: 62e6b685748c0416285a0ecc4e5696f134f42d31c553f240bb1c4e2a6074e7eb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-2902-1528351.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 2902/2009
+
+Para os devidos efeitos se rectifica o despacho n.º 24578/2009, publicado no Diário da República, 2.ª série, n.º 217, de 9 de Novembro de 2009, a p. 45564, col. 2.ª, pelo que onde se lê:
+
+«1 - Ao abrigo do disposto nos artigos 2.º, 4.º e 5.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho, nomeio para exercer funções de minha secretária pessoal Paula Maria Aleixo Silva Faustino.»
+
+deve ler-se:
+
+«1 - Ao abrigo do disposto nos artigos 2.º, 4.º e 5.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho, nomeio Paula Maria Aleixo Silva Faustino, assistente técnica do quadro de pessoal do Serviço de Estrangeiros e Fronteiras, para exercer funções de minha secretária pessoal, em regime de comissão de serviço, através de acordo de cedência de interesse público.»
+
+18 de Novembro de 2009. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.

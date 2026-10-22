@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:333353:por
+title: Resolução da Assembleia da República n.º 88/2010
+short_title: null
+summary: Instituição do princípio de isenção do pagamento de taxas por parte da população residente nas áreas protegidas
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 88/2010
+official_date: null
+publication_date: '2010-08-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/2010, Série I de 2010-08-06
+  number: '152'
+  series: I
+  supplement: null
+  pages: 3252 - 3252
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15200/0325203252.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/88/2010/08/06/p/dre/pt/html
+  oj: null
+  dre: '333353'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/88-2010-333353
+  internal: pt:dre:333353:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/88-2010-333353
+  metadata_url: https://data.dre.pt/eli/resolassrep/88/2010/08/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/88-2010-333353
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-08-06T00:00:00Z'
+integrity:
+  source_sha256: 57cc45a5871e16cb46c8ea12c0ee0d9bd70bbd98b35c0bfec00e8f28d77de641
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-88-333353.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Zona de Proteção
+- Recomendação
+- Instituto da Conservação da Natureza e da Biodiversidade
+- Taxa
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 88/2010
+
+Instituição do princípio de isenção do pagamento de taxas por parte da população residente nas áreas protegidas
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo a adopção de uma iniciativa legislativa, devidamente estudada, debatida e ponderada, consubstanciada na consagração do princípio basilar de que a população residente nas áreas protegidas não deve ser penalizada, no sentido de:
+
+a) O Governo proceder, de imediato, a um estudo sobre aplicação, destinatários e valor das taxas, tendo em consideração à partida que a população residente nas áreas protegidas deve, em princípio, ficar isenta e, por outro lado, que o estabelecimento daquelas taxas deve obedecer a audição e debate com populações, autarquias e outras entidades locais;
+
+b) Consignar a obrigatoriedade da aplicação do valor das taxas cobradas pelo Instituto da Conservação da Natureza e da Biodiversidade, I. P. (ICNB, I. P.), por actividades desenvolvidas por não residentes, a acções e investimentos valorizantes da respectiva área protegida, por forma a melhorar a qualidade de vida da população residente ou preservar e restaurar os processos ecológicos e a biodiversidade.
+
+Aprovada em 16 de Julho de 2010.
+
+**O Presidente da Assembleia da República, Jaime Gama.**

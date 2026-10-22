@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:469203:por
+title: Decreto Regulamentar Regional n.º 8/97/M
+short_title: null
+summary: Altera o Decreto Regulamentar Regional n.º 3/97/M, de 31 de Janeiro (estabelece as bases da orgânica da Secretaria
+  Regional de Agricultura, Florestas e Pescas e a orgânica do Gabinete do Secretário Regional)
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 8/97/M
+official_date: null
+publication_date: '1997-04-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/1997, Série I-B de 1997-04-21
+  number: '93'
+  series: I
+  supplement: null
+  pages: 1788 - 1789
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/04/093b00/17881789.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/8/1997/04/21/m/dre/pt/html
+  oj: null
+  dre: '469203'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/8-1997-469203
+  internal: pt:dre:469203:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1997-469203
+  metadata_url: https://data.dre.pt/eli/decregulreg/8/1997/04/21/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1997-469203
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-06-15T00:00:00Z'
+integrity:
+  source_sha256: df9c4c99a477a6479f235d95c70fed20f6c960a5d2b06f2d83ee27e8d73b848a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1997/DRE-1997-8-469203.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Gabinete do Secretário Regional de Agricultura Florestas e Pescas
+- Secretaria Regional da Agricultura Florestas e Pescas
+- Orgânica
+- Madeira.região Autónoma
+relationships:
+- type: amended_by
+  target: pt:dre:348315:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/24-a/1996/12/04/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24-a/1996/12/04/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/8/1991/03/18/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/8/1991/03/18/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/3/1997/01/31/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/3/1997/01/31/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 8/97/M
+
+Modifica o [Decreto Regulamentar Regional n.º 3/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1997-571065), de 31 de Janeiro, que consagra as bases da orgânica da Secretaria Regional de Agricultura, Florestas e Pescas e a orgânica do Gabinete do respectivo Secretário Regional.
+
+O [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, adaptado à Região Autónoma da Madeira pelo [Decreto Legislativo Regional n.º 8/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1991-475950), de 18 de Março, na delimitação que faz do pessoal dirigente tipifica os cargos dirigentes da Administração Pública, para os quais estabelece regras de recrutamento, provimento e funcionais.
+
+No seu artigo 2.º, designadamente no seu n.º 5, admite o [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, a criação de cargos dirigentes diversos dos enumerados no n.º 2 do mesmo artigo 2.º, com fundamento na melhor adequação à correspondente solução estrutural ou na especificidade das funções a exercer, cargos esses a prever no diploma orgânico dos respectivos serviços ou organismos.
+
+É precisamente em função de preocupações desta natureza que se entende de alargar o âmbito de recrutamento dos dirigentes a afectar ao Gabinete do Secretário Regional de Agricultura, Florestas e Pescas, cujas funções, pelo grau de complexidade e responsabilidade que representam, exigem experiência específica e adequado perfil.
+
+O presente decreto regulamentar regional procede igualmente ao reajustamento das competências do GEP, gabinete no qual se entendeu adequado fixar tarefas de inventariação de necessidades locais, centralizando assim a coordenação administrativa dos recursos e meios afectos aos «serviços rurais», em ordem a acompanhar de perto o necessário desenvolvimento, aproximação e integração do «mundo rural», melhor viabilizando a racional e eficaz implementação das políticas definidas para o sector.
+
+Nestes termos:
+
+O Governo Regional da Madeira decreta, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição, da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e do n.º 1 do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 9.º, 18.º e 19.º do [Decreto Regulamentar Regional n.º 3/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1997-571065), de 31 de Janeiro, passam a ter a seguinte redacção:
+
+«Artigo 9.º
+
+1 - ...
+
+2 - ...
+
+3 - Sem prejuízo do disposto no n.º 4 do artigo 25.º, o recrutamento para o cargo de director dos Serviços Administrativos poderá fazer-se de entre chefes de repartição com pelo menos seis anos de serviço na categoria e que possuam a experiência e o perfil profissionais adequados à função.
+
+###### Artigo 18.º
+
+1 - O GEP é o serviço de apoio ao Gabinete, no domínio do planeamento e da gestão de meios e recursos afectos à SRA, com as competências previstas no artigo 19.º
+
+2 - O GEP é dirigido por um chefe de divisão e apoiado por uma Secção Administrativa, chefiada por um chefe de secção.
+
+3 - Sem prejuízo do disposto no n.º 4 do artigo 25.º, o recrutamento para o cargo de chefe de divisão do GEP poderá fazer-se de entre chefes de repartição com pelo menos quatro anos de serviço na categoria e que possuam a experiência e o perfil profissionais adequados à função.
+
+###### Artigo 19.º
+
+1 - ...
+
+a) ...
+
+b) Elaborar os estudos e pareceres solicitados pela DSF em matéria de planeamento, gestão financeira e patrimonial;
+
+c) Colaborar na gestão do pessoal dos serviços integrados e ou tutelados pela SRA;
+
+d) Inventariar as necessidades e coordenar a afectação e a utilização pelos 'serviços rurais' da SRA de recursos humanos e de meios ou recursos patrimoniais, numa óptica de desenvolvimento, integração e aproximação ao 'mundo rural';
+
+e) Apoiar os demais serviços do Gabinete nos domínios da organização administrativa e da execução orçamental;
+
+f) Elaborar os estudos e pareceres que lhe forem determinados pelo Secretário Regional.
+
+2 - ...»
+
+###### Artigo 2.º
+
+O presente diploma entra imediatamente em vigor.
+
+Aprovado em Conselho do Governo Regional em 6 de Março de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+**Assinado em 2 de Abril de 1997.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**

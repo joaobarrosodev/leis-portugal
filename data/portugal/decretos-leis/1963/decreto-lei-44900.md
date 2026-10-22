@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:193384:por
+title: Decreto-Lei n.º 44900
+short_title: null
+summary: Permite ao Ministro das Finanças, nos casos especiais não abrangidos pelo disposto nos Decretos-Leis n.os 39801 e
+  41224, mas que sejam de reconhecido interesse para a economia nacional, autorizar, por seu despacho, a entrada, em regime
+  de importação temporária, de aparelhos, acessórios e outros artefactos, não fabricados no País em condições económicas,
+  que se destinem a ser adaptados ou incorporados em equipamentos a exportar para o ultramar português ou para o estrangeiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: '44900'
+official_date: null
+publication_date: '1963-02-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 46/1963, Série I de 1963-02-23
+  number: '46'
+  series: I
+  supplement: null
+  pages: 223 - 224
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/02/04600/02230224.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '193384'
+  dre_path: /dr/detalhe/decreto-lei/44900-1963-193384
+  internal: pt:dre:193384:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44900-1963-193384
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44900-1963-193384
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1968-02-21T00:00:00Z'
+integrity:
+  source_sha256: 55aa8e573ce4776de665fe17f165527f22a8f819ddd6e26c337e41227e1495dd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-44900-193384.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:143547:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44900
+
+Tendo em vista a conveniência de serem publicadas medidas legislativas aplicáveis aos casos especiais não abrangidos pelo disposto nos Decretos-Leis n.os 39801, de 1 de Setembro de 1954, e 41224, de 7 de Agosto de 1957, sempre que sejam de reconhecido interesse para a economia nacional;
+
+Considerando o que informou o Ministério da Economia;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Nos casos especiais não abrangidos pelo disposto nos Decretos-Leis n.os 39801 e 41224, mas que sejam de reconhecido interesse para a economia nacional, poderá o Ministro das Finanças autorizar, por seu despacho, a entrada, em regime de importação temporária, de aparelhos, acessórios e outros artefactos, não fabricados no País em condições económicas, que se destinam a ser adaptados ou incorporados em equipamentos a exportar para o ultramar português ou para o estrangeiro.
+
+###### Art. 2.º A importação temporária prevista no artigo antecedente só poderá ser concedida mediante informação favorável do Ministério da Economia.
+
+§ único. Para os efeitos do corpo deste artigo devem os interessados instruir os seus requerimentos com listas em triplicado, de que conste a natureza, quantidade, peso, valor e país de fabrico dos aparelhos, acessórios e outros artefactos que pretendem importar temporàriamente.
+
+###### Art. 3.º Para fiscalização do emprego dos aparelhos, acessórios e outros artefactos importados temporàriamente, nos termos do presente decreto-lei, devem os interessados, concluídos que sejam os equipamentos em que os incorporaram ou adaptaram, apresentar no acto da exportação desses equipamentos declarações de que conste a natureza, quantidade, peso, valor e país de fabrico desses aparelhos, acessórios e outros artefactos que neles incorporaram ou adaptaram, a qual será junta oportunamente aos respectivos bilhetes de entrada, devendo dessas declarações constar também a indicação dos aparelhos, acessórios e outros artefactos que porventura hajam sobrado.
+
+§ 1.º A utilização dos aparelhos, acessórios e outros artefactos referidos no artigo 1.º será verificada pelos funcionários aduaneiros intervenientes no bilhete de despacho de exportação dos equipamentos e exarada tanto nas declarações citadas no corpo deste artigo e nos bilhetes de despacho de entrada desses aparelhos, acessórios e outros artefactos, como nos bilhetes de despacho de saída dos equipamentos em que vão incorporados.
+
+§ 2.º À verificação aduaneira assistirá, como técnico, um funcionário do Ministério da Economia, que confirmará a declaração do interessado.
+
+###### Art. 4.º Os materiais de produção nacional adaptados ou incorporados nos equipamentos abrangidos por este decreto-lei ficam isentos de direitos de exportação.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 23 de Fevereiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia -Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

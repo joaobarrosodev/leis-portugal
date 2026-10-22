@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:140368:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1977-869204741",
+ "dre_path": "/dr/detalhe/decreto-lei/89-1977-140368",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1977-03-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869204042",
+    "869204043",
+    "869204044",
+    "869204045",
+    "869204046",
+    "869204047",
+    "869204048",
+    "869204049",
+    "869204050",
+    "869204051",
+    "869204052",
+    "869204053"
+   ]
+  }
+ ],
+ "fragments": {
+  "869204042": {
+   "fragment_id": "869204742",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 89/77\n\nde 8 de Março\n\nConsiderando que data de 1961 a lei que regulamenta o afastamento da frequência das actividades escolares por motivo de doenças transmissíveis;\n\nConsiderando que desde então se verificaram, na história natural de algumas doenças consideradas na Lei n.º 2109, importantes modificações no domínio da prevenção ou terapêutica, susceptíveis de permitir, em alguns casos, o encurtamento dos períodos de afastamento escolar;\n\nConsiderando que as actuais condições epidemiológicas tornam desnecessária a inclusão, nas leis de evicção, de algumas das doenças então consideradas;\n\nConsiderando, por outro lado, a experiência entretanto colhida aconselha a inclusão de outras doenças não abrangidas na já citada lei;\n\nConsiderando que já o artigo 1.º da Lei n.º 2109 previa a necessidade de revisão periódica dos períodos de afastamento escolar, permitindo assim a sua actualização;\n\nConsiderando, finalmente, que os princípios definidos naquela lei devem ser ajustados às actuais realidades escolares, quando não acrescentados:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 229/94 - Diário da República n.º 212/1994, Série I-A de 1994-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1994-592333) O presente diploma entra em vigor na data do início do ano letivo de 1994-1995."
+  },
+  "869204043": {
+   "fragment_id": "869204743",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSerão sempre afastados temporariamente da frequência escolar e demais actividades desenvolvidas nos estabelecimentos de ensino os alunos, pessoal docente, administrativo e auxiliar quando atingidos pelas seguintes doenças transmissíveis:\n\na) Difteria;\n\nb) Escarlatina e amigdalite estreptocócica;\n\nc) Febres tifóide e paratifóide;\n\nd) Hepatite infecciosa;\n\ne) Impetigo;\n\nf) Meningite por Meningococus;\n\ng) Parotidite epidémica;\n\nh) Pediculose;\n\ni) Poliomielite;\n\nj) Rubéola;\n\nl) Sarampo;\n\nm) Sarna;\n\nn) Tinha;\n\no) Tosse convulsa;\n\np) Tuberculose pulmonar;\n\nq) Varicela;\n\nr) Varíola."
+  },
+  "869204044": {
+   "fragment_id": "869204744",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSerão sempre afastados temporariamente dos estabelecimentos de ensino os alunos, pessoal docente, administrativo e auxiliar que co-habitem ou tenham contacto com indivíduos atingidos pelas seguintes doenças:\n\na) Difteria;\n\nb) Escarlatina e amigdalite estreptocócica;\n\nc) Meningite por Meningococus;\n\nd) Poliomielite;\n\ne) Varíola."
+  },
+  "869204045": {
+   "fragment_id": "869204745",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs períodos de afastamento dos indivíduos atingidos pelas doenças referidas no artigo 1.º deste diploma terão a seguinte duração:\n\na) Difteria:\n\n1) O afastamento manter-se-á até apresentação de duas análises negativas do exsudado naso-faríngeo, feitas com um mínimo de dois dias de intervalo e após suspensão do tratamento antimicrobiano;\n\n2) Se, decorridas três semanas após o início da doença, as análises se mantiverem positivas, deverá ser feita uma prova de virulência, terminando o afastamento no caso de o resultado ser negativo ou obrigando a manutenção do afastamento, com repetição do tratamento antimicrobiano e das análises, até negatividade destas, caso aquele resultado seja positivo;\n\nb) Escarlatina e amigdalite estreptocócica:\n\n1) O afastamento durará até à cura clínica e terminará mediante a apresentação de atestado médico ou declaração do médico responsável comprovativa de tratamento antibiótico correcto;\n\n2) Na impossibilidade de comprovação de tratamento antibiótico correcto, o afastamento terminará mediante apresentação de duas análises do exsudado naso-faríngeo, negativas para o estreptococo hemolítico do grupo A, feitas com um mínimo de dois dias de intervalo e após dois dias de cessação da terapêutica antibacteriana;\n\n3) Na impossibilidade de comprovação de tratamento antibiótico correcto e de apresentação das duas análises referidas em 2), o afastamento terá a duração de trinta dias após início da doença;\n\n4) Se houver complicações sépticas, o afastamento manter-se-á enquanto estas persistirem;\n\nc) Febres tifóides e paratifóides. - O afastamento terminará mediante apresentação de duas análises de fezes negativas, colhidas com um mínimo de dois dias de intervalo e após três semanas do início da doença, devendo ser tomadas medidas de carácter individual adequadas, incluindo a manutenção ou suspensão do afastamento, no caso de as análises se manterem positivas;\n\nd) Hepatite infecciosa. - Afastamento até à cura clínica, mas nunca antes de sete dias após o aparecimento da icterícia ou catorze dias após o aparecimento dos primeiros sintomas;\n\ne) Impetigo. - Afastamento até à cura clínica;\n\nf) Meningite por Meningococus. - Afastamento até à cura clínica;\n\ng) Parotidite epidémica. - Afastamento durante um período mínimo de nove dias após o aparecimento da tumefacção glandular e até à cura clínica;\n\nh) Pediculose. - Afastamento até à comprovação da cura;\n\ni) Poliomielite. - Afastamento durante um período mínimo de catorze dias após o início da doença, mantendo-se o mesmo enquanto durar o período febril;\n\nj) Rubéola. - Afastamento durante um período mínimo de quatro dias após o início do exantema e até à cura clínica;\n\nl) Sarampo. - Afastamento durante um período mínimo de sete dias após o início do exantema e até à cura clínica;\n\nm) Sarna. - Afastamento até à cura clínica;\n\nn) Tinha. - Afastamento até à cura clínica das lesões. As micoses do pé (pé-de-atleta) tornam obrigatória a exclusão de actividades que tenham de ser praticadas sem sapato, mas não implicam afastamento escolar. As micoses das unhas, embora não obriguem a afastamento, devem ser correctamente tratadas;\n\no) Tosse convulsa. - Afastamento durante um período de vinte e um dias após o estabelecimento dos acessos paroxísticos de tosse («quintos»);\n\np) Tuberculose pulmonar. - Afastamento até à apresentação de documento comprovativo de ausência de risco de contágio passado pelos serviços oficiais competentes;\n\nq) Varicela. - Afastamento durante um período mínimo de sete dias após o início da erupção e até à cura clínica, sem necessidade, no entanto, de aguardar a queda das crostas;\n\nr) Varíola. - Afastamento até à cura clínica com queda total das crostas."
+  },
+  "869204046": {
+   "fragment_id": "869204746",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO afastamento dos indivíduos que co-habitem ou tenham contactos com os afectados pelas doenças previstas no artigo 2.º deste diploma terá a seguinte duração:\n\na) Difteria. - Afastamento durante sete dias após o último contacto com o doente, podendo terminar antes desse prazo, mediante a apresentação de duas análises negativas do exsudado naso-faríngeo colhidas com, pelo menos, dois dias de intervalo;\n\nb) Escarlatina e amigdalite estreptocócica. - Afastamento durante cinco dias após o último contacto com o doente, podendo terminar antes desse prazo, mediante a apresentação de certificado ou atestado médico comprovativo de antibioterapia preventiva adequada;\n\nc) Meningite por Meningococus. - Afastamento durante dez dias depois do último contacto, ou durante cinco dias, se for apresentado certificado comprovando ter sido feita quimioprofilaxia;\n\nd) Poliomielite. - O afastamento terá a duração mínima de catorze dias, sendo no entanto prescindido o afastamento dos indivíduos correctamente vacinados há menos de cinco anos;\n\ne) Varíola. - Para os indivíduos não vacinados ou vacinados há mais de três anos, o afastamento terá a duração de dezasseis dias após o último contacto e depois de ter procedido à sua correcta vacinação ou revacinação, dispensando-se, porém, o afastamento dos indivíduos correctamente vacinados há menos de três anos."
+  },
+  "869204047": {
+   "fragment_id": "869204747",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAlém da participação obrigatória, o médico assistente deverá também comunicar, no prazo de quarenta e oito horas, ao médico escolar ou aos órgãos responsáveis pelo estabelecimento de ensino as doenças previstas nas alíneas seguintes, sempre que as mesmas se verifiquem entre alunos, pessoal docente, administrativo e auxiliar dos estabelecimentos de ensino:\n\na) Difteria;\n\nb) Febre tifóide;\n\nc) Meningite por Meningococus;\n\nd) Poliomielite;\n\ne) Varíola."
+  },
+  "869204048": {
+   "fragment_id": "869204748",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA ocorrência de qualquer outra doença transmissível além das mencionadas nos artigos anteriores pode, eventualmente, determinar o afastamento obrigatório dos atingidos ou dos «contactos», sendo a sua duração fixada pelo médico escolar ou, na sua falta, pela entidade sanitária local, com base na legislação sanitária em vigor ou em recomendações da Organização Mundial de Saúde."
+  },
+  "869204049": {
+   "fragment_id": "869204749",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs órgãos responsáveis pelos estabelecimentos de ensino sempre que tiverem conhecimento da existência de uma doença infectocontagiosa entre os alunos, pessoal docente, administrativo e auxiliar, devem afastar provisoriamente o portador da doença e comunicar o facto, dentro de vinte e quatro horas, ao médico escolar e à autoridade sanitária local, a fim de que possam ser tomadas as providências necessárias."
+  },
+  "869204050": {
+   "fragment_id": "869204750",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO médico escolar pode determinar o afastamento dos alunos, pessoal docente, administrativo e auxiliar em caso de suspeita de serem portadores de alguma das doenças contagiosas mencionadas no presente diploma, terminando esse afastamento logo que não se confirme a existência da doença."
+  },
+  "869204051": {
+   "fragment_id": "869204751",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNão são consideradas para quaisquer efeitos as faltas dadas por motivo do afastamento obrigatório previsto neste decreto-lei."
+  },
+  "869204052": {
+   "fragment_id": "869204752",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente diploma poderá ser regulamentado por despacho conjunto dos Ministros da Educação e Investigação Científica e dos Assuntos Sociais, a publicar na 1.ª série do Diário da República."
+  },
+  "869204053": {
+   "fragment_id": "869204753",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nÉ revogada a Lei n.º 2109, de 24 de Maio de 1961.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Augusto Sottomayor Leal Cardia - Armando Bacelar."
+  }
+ }
+}

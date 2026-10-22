@@ -1,0 +1,94 @@
+---
+schema_version: '1.0'
+id: pt:dre:281580:por
+title: Portaria n.º 17701
+short_title: null
+summary: Torna extensivo à assistência técnica a prestar nos aeródromos do arquipélago dos Açores o regime previsto na Portaria
+  n.º 13132
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Direcção-Geral da Aeronáutica Civil
+proposing_entity: null
+official_number: '17701'
+official_date: null
+publication_date: '1960-04-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 99/1960, Série I de 1960-04-28
+  number: '99'
+  series: I
+  supplement: null
+  pages: 1026 - 1026
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/04/09900/10261026.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '281580'
+  dre_path: /dr/detalhe/portaria/17701-1960-281580
+  internal: pt:dre:281580:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17701-1960-281580
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17701-1960-281580
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-07-23T00:00:00Z'
+integrity:
+  source_sha256: 8cd232f6b19fc1405fb000119cef2fb97247110a82fb64e1dc768b0934a104cf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-17701-281580.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:352525:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17701
+
+Não se justificando a disparidade de regimes existente em matéria de prestação de assistência técnica nos aeroportos de Lisboa e Porto, por um lado, e nos aeródromos do arquipélago dos Açores, por outro:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, tornar extensivo à assistência técnica a prestar nestes aeródromos o regime previsto na [Portaria n.º 13132](https://diariodarepublica.pt/dr/detalhe/portaria/13132-1950-658636), de 22 de Abril de 1950.
+
+Ministério das Comunicações, 28 de Abril de 1960. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

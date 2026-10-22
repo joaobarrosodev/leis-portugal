@@ -1,0 +1,214 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:491928:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-70751122",
+ "dre_path": "/dr/detalhe/portaria/696-2009-491928",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-06-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70754975",
+    "70754976",
+    "70754977",
+    "70754978",
+    "70754979",
+    "70754980",
+    "70754981"
+   ]
+  },
+  {
+   "date": "2012-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176062:por",
+     "title": "Portaria n.º 286/2012",
+     "published": "2012-09-20",
+     "dre_path": "/dr/detalhe/portaria/286-2012-176062"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "70754975",
+    "70754976",
+    "70754977",
+    "70755022",
+    "70755023",
+    "70755014",
+    "70755018",
+    "70755019",
+    "70755020",
+    "70755021"
+   ]
+  },
+  {
+   "date": "2015-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70686128:por",
+     "title": "Portaria n.º 358/2015",
+     "published": "2015-10-14",
+     "dre_path": "/dr/detalhe/portaria/358-2015-70686128"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º-B"
+   ],
+   "fragments": [
+    "70754975",
+    "70754976",
+    "70754977",
+    "70755022",
+    "70755023",
+    "70755014",
+    "70755024",
+    "70755019",
+    "70755020",
+    "70755021"
+   ]
+  }
+ ],
+ "fragments": {
+  "70754975": {
+   "fragment_id": "70751123",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 696/2009\n\nde 30 de Junho\n\nO Decreto Regulamentar n.º 3/2009, de 3 de Fevereiro, veio estabelecer o regime jurídico da criação e funcionamento da base de dados de procurações.\n\nA criação da base de dados de procurações visou, em primeiro lugar, dotar o Estado de mecanismos adicionais para combater fenómenos de corrupção e de criminalidade económico-financeira associados à utilização de procurações irrevogáveis para transacções imobiliárias. Assim, encontram-se já em vigor, desde 31 de Março de 2009, duas medidas fundamentais para este efeito.\n\nPor um lado, as entidades e profissionais perante os quais sejam outorgadas procurações irrevogáveis que contenham poderes de transferência da titularidade de imóveis ou a respectiva extinção passaram a ter que promover o respectivo registo, através de transmissão electrónica de dados e documentos, num sítio da Internet em www.procuracoesonline.mj.pt. Por outro, os magistrados judiciais e do Ministério Público, os órgãos de polícia criminal e as demais entidades públicas às quais a lei atribua competência em matéria de prevenção e combate à corrupção e à criminalidade económico-financeira passaram a ter acesso directo por via electrónica ao conteúdo da base de dados de procurações, evitando-se pedidos de informação, consultas ou deslocações dessas entidades a serviços públicos ou privados.\n\nEm segundo lugar, a criação da base de dados das procurações tem como objectivo estabelecer que possam ser registadas electronicamente, a título facultativo, qualquer outro tipo de procurações para além das procurações irrevogáveis para transacções imobiliárias. Este serviço é gratuito, começa a ser prestado a partir do dia 30 de Junho de 2009 e permite que os cidadãos e empresas, enquanto mandantes ou procuradores, verifiquem, em qualquer altura e em qualquer local, se uma procuração registada electronicamente se encontra ainda em vigor ou se, entretanto, teve lugar um substabelecimento ou uma revogação de poderes.\n\nFinalmente, concretizando uma possibilidade prevista no artigo 9.º do Decreto Regulamentar n.º 3/2009, de 3 de Fevereiro, disponibilizam-se acessos electrónicos com valor de certidão aos mandantes e procuradores que constem de todas procurações registadas em www.procuracoesonline.mj.pt. Com a disponibilização gratuita deste novo serviço criam-se condições para simplificar, agilizar e incrementar a segurança jurídica associada a verificação dos poderes dos intervenientes em actos jurídicos que tenham poderes ao abrigo de procurações. Por exemplo, uma empresa passa a poder disponibilizar no seu sítio da Internet os códigos de acesso a todas as procurações que tenha conferido e que estejam em vigor, permitindo, assim, que os seus clientes possam saber, a cada momento, quem representa a empresa.\n\nEste novo serviço permite ainda eliminar a necessidade de os cidadãos e empresas terem de pedir e pagar cópias certificadas de procurações sempre que os seus procuradores necessitam de comprovar os seus poderes ao abrigo de uma procuração. Assim, a partir de agora, os poderes de representação voluntária passam a poder ser comprovados perante qualquer entidade pública ou privada, através da entrega do código de acesso à certidão da procuração registada em www.procuracoesonline.mj.pt, sem qualquer custo adicional e sem necessidade de os mandantes e os procuradores suportarem quaisquer despesas relacionadas com a certificação de cópias de procurações.\n\nA presente portaria estabelece os termos e condições da disponibilização dos acessos electrónicos com valor de certidão às procurações registadas electronicamente.\n\nAssim:\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do artigo 9.º do Decreto Regulamentar n.º 3/2009, de 3 de Fevereiro, o seguinte:"
+  },
+  "70754976": {
+   "fragment_id": "70751124",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece os termos e condições da disponibilização de acessos electrónicos com valor de certidão às procurações registadas através da Internet."
+  },
+  "70754977": {
+   "fragment_id": "70751125",
+   "type": 11,
+   "heading": "Artigo 2.º — Certidão permanente de registo de procurações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Certidão permanente de registo de procurações\n\n1 - Designa-se por certidão permanente de registo de procurações a disponibilização do acesso à informação, em suporte electrónico e permanentemente actualizada, da reprodução dos registos em vigor e dos documentos arquivados para os quais os registos remetam, respeitantes a uma procuração registada electronicamente.\n\n2 - Os registos em vigor a que se refere o número anterior respeitam ao tipo de procuração, data de outorga e data e hora do registo da mesma, bem como, se for o caso, à identificação da entidade que procedeu ao respectivo registo, dos mandantes, dos mandatários e dos prédios."
+  },
+  "70754978": {
+   "fragment_id": "70751126",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à certidão permanente de registo de procurações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso à certidão permanente de registo de procurações\n\nO acesso previsto no n.º 1 do artigo anterior efectua-se mediante a introdução do código de identificação disponibilizado aos mandantes e mandatários nos termos do artigo 4.º do Decreto Regulamentar n.º 3/2009, de 3 de Fevereiro, no sítio www.procuracoesonline.mj.pt, mantido pelo Instituto dos Registos e do Notariado, I. P."
+  },
+  "70754979": {
+   "fragment_id": "70751127",
+   "type": 11,
+   "heading": "Artigo 4.º — Gratuitidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gratuitidade\n\nO acesso e a consulta da certidão permanente são gratuitos."
+  },
+  "70754980": {
+   "fragment_id": "70751128",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\nA presente portaria produz efeitos desde 30 de Junho de 2009."
+  },
+  "70754981": {
+   "fragment_id": "70751129",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70755022": {
+   "fragment_id": "70751126",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à certidão permanente de registo de procurações",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Acesso à certidão permanente de registo de procurações\n\n1 - O acesso previsto no n.º 1 do artigo anterior efetua-se mediante a disponibilização de um código de acesso, que permite a visualização da informação através da Internet, durante o prazo de validade da certidão permanente.\n\n2 - O pedido de acesso à certidão permanente é efetuado no sítio da Internet com o endereço www.procuracoesonline.mj.pt, mantido pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "70755023": {
+   "fragment_id": "70751127",
+   "type": 11,
+   "heading": "Artigo 4.º — Código de acesso",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Código de acesso\n\nApós o pedido de certidão permanente, é disponibilizado ao requerente um código que permite a sua visualização no sítio da Internet referido no artigo anterior, a partir do momento em que seja confirmado o pagamento dos montantes devidos.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "70755014": {
+   "fragment_id": "70751167",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Prazo de validade",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 10.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 4.º-A — Prazo de validade\n\n1 - A certidão permanente é disponibilizada pelo prazo de um, três ou cinco anos, podendo ser renovada por iguais períodos de tempo.\n\n2 - A renovação da certidão permanente deve ocorrer até ao limite do prazo de duração.\n\n> Aditado pelo/a Artigo 10.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "70755018": {
+   "fragment_id": "70751168",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Encargos",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 10.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 4.º-B — Encargos\n\n1 - Por cada pedido de subscrição ou de renovação do acesso à certidão permanente é devido o pagamento das seguintes taxas:\n\na) Por um ano, (euro) 10;\n\nb) Por três anos, (euro) 20;\n\nc) Por cinco anos, (euro) 40.\n\n2 - As taxas previstas no número anterior constituem receita do IRN, I. P.\n\n> Aditado pelo/a Artigo 10.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "70755019": {
+   "fragment_id": "70751128",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\nA presente portaria produz efeitos desde 30 de Junho de 2009."
+  },
+  "70755020": {
+   "fragment_id": "70751129",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70755021": {
+   "fragment_id": "70751130",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 26 de Junho de 2009."
+  },
+  "70755024": {
+   "fragment_id": "70751168",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Encargos",
+   "in_force_from": "2015-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128), em vigor a partir de 2015-11-01",
+    "Aditado pelo/a Artigo 10.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 4.º-B — Encargos\n\n1 - Por cada pedido de subscrição ou de renovação do acesso à certidão permanente é devido o pagamento das seguintes taxas:\n\na) Por um ano, (euro) 10;\n\nb) Por três anos, (euro) 20;\n\nc) Por cinco anos, (euro) 40.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 12.º do/a [Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128), em vigor a partir de 2015-11-01\n\n> Aditado pelo/a Artigo 10.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  }
+ }
+}

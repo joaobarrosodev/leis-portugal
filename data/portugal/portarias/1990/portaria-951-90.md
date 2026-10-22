@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:555664:por
+title: Portaria n.º 951/90
+short_title: null
+summary: Altera a alínea e) do n.º 1.º da Portaria n.º 496-A/89, de 3 de Julho, que fixa o mapa do pessoal assalariado da
+  Delegação Permanente de Portugal junto das Negociações Militares (CSBM e CFE) em Viena
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Defesa Nacional, das Finanças e dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 951/90
+official_date: null
+publication_date: '1990-10-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/1990, Série I de 1990-10-08
+  number: '232'
+  series: I
+  supplement: null
+  pages: 4148 - 4148
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/10/23200/41484148.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '555664'
+  dre_path: /dr/detalhe/portaria/951-1990-555664
+  internal: pt:dre:555664:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/951-1990-555664
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/951-1990-555664
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-12-11T00:00:00Z'
+integrity:
+  source_sha256: d844662ed49c9ea2210e6f7536a31c7b414af632a704d58249c9993ddbd16af9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-951-555664.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:187311:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 951/90
+
+de 8 de Outubro
+
+Manda o Governo, pelos Ministros da Defesa Nacional, das Finanças e dos Negócios Estrangeiros, nos termos do n.º 6 do despacho conjunto de 30 de Junho de 1989, do § 1.º do artigo 19,º e do artigo 21.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e do § 1.º do artigo 158.º do [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, na redacção do [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), de 3 de Novembro, o seguinte:
+
+1.º A alínea e) do n.º 1.º da [Portaria n.º 496-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-1989-625835), de 3 de Julho, que fixa o mapa do pessoal assalariado da Delegação Permanente de Portugal junto das Negociações Militares (CSBM e CFE) em Viena, passa a ser a seguinte:
+
+1.º ...
+
+...
+
+e) ...
+
+1 tradutor-intérprete;
+
+1 motorista;
+
+1 contínuo;
+
+2 auxiliares de serviço.
+
+...
+
+2.º O lugar de tradutor-intérprete referido no número anterior é o lugar criado na Embaixada de Portugal em Viena para a Conferência de Segurança e Cooperação na Europa pela [Portaria n.º 458/88](https://diariodarepublica.pt/dr/detalhe/portaria/458-1988-373242), de 12 de Julho, que transita, com o seu titular, para a Delegação Permanente.
+
+3.º Esta portaria produz efeitos a partir de 3 de Julho de 1989.
+
+Ministérios da Defesa Nacional, das Finanças e dos Negócios Estrangeiros.
+
+**Assinada em 10 de Setembro de 1990.**
+
+**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.**

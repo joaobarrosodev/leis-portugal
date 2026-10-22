@@ -1,0 +1,331 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:556660:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-108114717",
+ "dre_path": "/dr/detalhe/decreto-lei/274-1990-556660",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-09-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108114670",
+    "108114671",
+    "108114672",
+    "108114673",
+    "108114674",
+    "108115375",
+    "108115376",
+    "108115377",
+    "108115378",
+    "108115379",
+    "108115380",
+    "108115381",
+    "108115382"
+   ]
+  },
+  {
+   "date": "2003-02-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:209587:por",
+     "title": "Decreto-Lei n.º 22/2003",
+     "published": "2003-02-04",
+     "dre_path": "/dr/detalhe/decreto-lei/22-2003-209587"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "108114670",
+    "108114671",
+    "108114672",
+    "108114673",
+    "108115388",
+    "108115375",
+    "108115376",
+    "108115377",
+    "108115378",
+    "108115379",
+    "108115380",
+    "108115381",
+    "108115382",
+    "108115383"
+   ]
+  },
+  {
+   "date": "2007-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520470:por",
+     "title": "Decreto-Lei n.º 68/2007",
+     "published": "2007-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/68-2007-520470"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "108114670",
+    "108114671",
+    "108114672",
+    "108114673",
+    "108115396",
+    "108115375",
+    "108115376",
+    "108115377",
+    "108115378",
+    "108115379",
+    "108115380",
+    "108115381",
+    "108115382",
+    "108115383"
+   ]
+  },
+  {
+   "date": "2012-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179786:por",
+     "title": "Decreto-Lei n.º 142/2012",
+     "published": "2012-07-11",
+     "dre_path": "/dr/detalhe/decreto-lei/142-2012-179786"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "108114670",
+    "108114671",
+    "108115409",
+    "108114673",
+    "108115410",
+    "108115375",
+    "108115376",
+    "108115377",
+    "108115378",
+    "108115379",
+    "108115380",
+    "108115381",
+    "108115382",
+    "108115408"
+   ]
+  },
+  {
+   "date": "2017-09-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108113698:por",
+     "title": "Decreto-Lei n.º 113/2017",
+     "published": "2017-09-07",
+     "dre_path": "/dr/detalhe/decreto-lei/113-2017-108113698"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "108114670",
+    "108114671",
+    "108115409",
+    "108114673",
+    "108115410",
+    "108115411",
+    "108115376",
+    "108115377",
+    "108115378",
+    "108115379",
+    "108115380",
+    "108115381",
+    "108115382",
+    "108115408"
+   ]
+  }
+ ],
+ "fragments": {
+  "108114670": {
+   "fragment_id": "108114718",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 274/90\n\nde 7 de Setembro\n\nEm momento de alterações profundas ao sistema retributivo da função pública, consubstanciadas nos Decretos-Leis n.os 184/89, de 2 de Junho, e 353-A/89, de 16 de Outubro, e em legislação complementar que estabelece a disciplina retributiva dos corpos especiais, definem-se, ao abrigo do n.º 2 do artigo 29.º do referido Decreto-Lei n.º 353-A/89, as condições remuneratórias dos funcionários que integram as carreiras constantes do quadro de pessoal da Direcção-Geral das Alfândegas.\n\nNo essencial trata-se de reconduzir o sistema em vigor nas alfândegas a um modelo que continue a ser uma resposta eficaz às especificidades e condições em que se desenvolve o trabalho aduaneiro, o qual exige:\n\nO estabelecimento de múltiplos interfaces com o ambiente económico, fiscal e financeiro;\n\nA prestação de trabalho em condições de risco e penosidade e, nas estâncias aduaneiras de maior movimento, de forma ininterrupta;\n\nA deslocação diária, para fora dos serviços, em acções de assistência e verificação de mercadorias e, ainda, em acções de fiscalização externa e de inspecção à contabilidade das empresas, designadamente para controlo dos destinos declarados para as mercadorias.\n\nA contrapartida para tais especificidades fundamenta a necessidade de se manter um nível remuneratório compatível com a dimensão do sector e a sua importância no contexto da economia nacional e comunitária. Trata-se, de resto, de uma situação existente ao longo de vários anos, que importa harmonizar no âmbito do novo sistema retributivo da função pública e à luz dos princípios que o informam, de modo que o distinto quadro remuneratório do sector seja justificado não com base em situações de excepção, que o tempo acumulou, mas antes com fundamento na particular especificidade da actividade aduaneira.\n\nNos termos do Decreto-Lei n.º 45-A/84, de 3 de Fevereiro, o presente diploma foi objecto de negociação com os representantes dos trabalhadores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108114671": {
+   "fragment_id": "108114719",
+   "type": 11,
+   "heading": "Artigo 1.º — Carreiras de regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Carreiras de regime especial\n\n1 - As carreiras de técnico superior aduaneiro, técnico verificador aduaneiro, secretário audaneiro, verificador auxiliar aduaneiro, técnico superior aduaneiro de laboratório, analista aduaneiro de laboratório e analista aduaneiro auxiliar de laboratório são carreiras de regime especial.\n\n2 - As escalas indiciárias para as carreiras de regime especial são as constantes do mapa I anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "108114672": {
+   "fragment_id": "108114720",
+   "type": 11,
+   "heading": "Artigo 2.º — Outras carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Outras carreiras\n\n1 - Às outras carreiras de pessoal da Direcção-Geral das Alfândegas (DGA) é aplicável o disposto na lei geral.\n\n2 - Ao pessoal das carreiras referidas no número anterior pertencentes ao quadro de pessoal da DGA à data da produção de efeitos deste diploma é assegurado o nível remuneratório auferido, sem prejuízo da sua evolução e do disposto no artigo 7.º, sendo-lhe atribuída a remuneração base que decorre da sua integração em adequado escalão do regime geral, por aplicação das regras previstas no artigo 6.º, e o abono fixado no n.º 4 do artigo 4.º deste diploma.\n\n3 - Ao tesoureiro da alfândega correspondem os índices 380, 400, 420, 440, 465 e 490, correspondentes aos escalões 1, 2, 3, 4, 5 e 6, respectivamente, fazendo-se a progressão segundo módulos de três anos."
+  },
+  "108114673": {
+   "fragment_id": "108114721",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitados, destacados, em comissão de serviço, contratados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitados, destacados, em comissão de serviço, contratados\n\n1 - Ao pessoal em serviço na DGA à data da produção de efeitos do presente diploma que esteja em regime de requisição, destacamento, comissão de serviço ou contrato é garantido, enquanto se mantiverem nessa situação, o nível remuneratório decorrente do n.º 2 do artigo anterior ou o atribuído aos cargos que desempenham.\n\n2 - Ao pessoal referido no número anterior que venha a ser integrado no quadro de pessoal da DGA é ainda aplicável o disposto no n.º 2 do artigo anterior.\n\n3 - Ao mesmo pessoal pode ser aplicado o disposto no artigo 7.º desde que à data da produção de efeitos do presente diploma satisfaça as condições dos n.os 1, 2 e 3, contando-se o prazo referido na alínea a) do n.º 1, todos daquele artigo, a partir da data da respectiva aceitação."
+  },
+  "108114674": {
+   "fragment_id": "108114722",
+   "type": 11,
+   "heading": "Artigo 4.º — Suplementos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Suplementos\n\n1 - Com vista a retribuir a prestação de trabalho extraordinário nocturno, nos dias de descanso semanal ou feriados e em disponibilidade permanente é atribuído, ao abrigo da alínea a) do n.º 1 do artigo 19.º do Decreto-Lei n.º 184/89, de 2 de Junho, aos pessoal referido no artigo 1.º o suplemento mensal com os valores constantes do mapa II anexo ao presente diploma, do qual faz parte integrante.\n\n2 - O suplemento indicado no número anterior é abonado em 12 mensalidades e actualizado por despacho anual do Ministro das Finanças tendo em conta a actualização salarial.\n\n3 - A perda da remuneração de exercício implica a perda daquele suplemento.\n\n4 - Visando assegurar o nível remuneratório existente à data de produção de efeitos deste diploma, ao pessoal referido no n.º 2 do artigo 2.º é mantido um abono de integração no novo sistema retributivo (NSR).\n\n5 - Este abono, que segue o regime fixado nos n.os 1, 2 e 3, é constituído por duas parcelas, nos seguintes termos:\n\na) Uma parcela a que correspondem os montantes referidos no mapa II;\n\nb) Outra parcela que consubstancia a diferença entre a remuneração calculada nos termos do artigo 6.º e o valor do escalão de integração, quando necessário, a qual reveste a natureza de remuneração base para efeitos de aposentação, bem como para efeito das transições previstas no artigo 7.º\n\n6 - Os montantes da parcela b) são fixados por portaria do Ministro das Finanças.\n\n7 - O disposto nos n.os 4, 5 e 6 é igualmente aplicável ao pessoal pertencente às carreiras de informática ao serviço na DGA à data da produção de efeitos do presente diploma e terá em conta as remunerações que vierem a ser fixadas pelo NSR, constinuando a aplicar-se-lhes, até esse momento, o regime actualmente em vigor.\n\n8 - São afectas ao pagamento do suplemento e do abono previstos no mapa II as seguintes receitas:\n\na) Cobradas nos termos das observações 6.ª e 7.ª e 3.ª e 4.ª, respectivamente, das tabelas I e II anexas à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965;\n\nb) 15% dos emolumentos pessoais, cobrados nos termos dos artigos 2.º, 3.º, 4.º, 5.º e 6.º da tabela II anexa à Reforma Aduaneira;\n\nc) 50% do valor das multas ou coimas cobradas em processos de infracção fiscal, nos termos do artigo 61.º do Decreto-Lei n.º 376-A/89, de 25 de Outubro;\n\nd) 10% dos montantes retidos nos termos do n.º 3 do artigo 2.º da Decisão do Conselho n.º <a href=\"eurlex.asp?ano=1988&id=388D0376\" title=\"Link para Decisão da Comunidade Europeia\">88/376/CEE</a>, EURATOM, de 24 de Junho, a título de despesas de cobrança de direitos aduaneiros e niveladores agrícolas comunitários.\n\n9 - Sempre que, em qualquer ano, as receitas previstas nas alíneas b) e d) do número anterior sejam inferiores a 35% dos custos do suplemento, serão transferidas verbas para o fundo de estabilização até repor aquela percentagem, podendo, designadamente, para o efeito ser elevadas as percentagens previstas nas alíneas b) e d).\n\n10 - A percentagem prevista na alínea b) do n.º 8 pode ser elevada na medida em que se revelar indispensável para cobrir os custos dos subsídios de deslocação a incorporar no Orçamento do Estado a partir de 1991."
+  },
+  "108115375": {
+   "fragment_id": "108114723",
+   "type": 11,
+   "heading": "Artigo 5.º — Fundo de estabilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fundo de estabilização\n\n1 - O saldo resultante da não distribuição de ajudas de custo, despesas de transporte e subsídios de deslocação cobrados ao abrigo das tabelas anexas à Reforma Aduaneira acumulado até 30 de Setembro de 1989, bem como os excessos da receita sobre a despesa referida no artigo anterior, constituem um fundo de estabilização do pagamento dos suplementos nele citados, a regulamentar por portaria do Ministro das Finanças.\n\n2 - A gestão do fundo de estabilização é assegurada pela DGA em obediência às normas da contabilidade pública, devendo prosseguir a obtenção do máximo rendimento com o mínimo de risco."
+  },
+  "108115376": {
+   "fragment_id": "108114724",
+   "type": 11,
+   "heading": "Artigo 6.º — Regra geral de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regra geral de transição\n\n1 - A integração na nova estrutura salarial faz-se nos termos do Decreto-Lei n.º 353-A/89, de 16 de Outubro, observando-se ainda as seguintes regras:\n\na) O pessoal das carreiras de técnico superior de laboratório, de analista de laboratório, de técnico auxiliar de laboratório e de técnico auxiliar de verificação transita, respectivamente, para as carreiras de técnico superior aduaneiro de laboratório, de analista aduaneiro de laboratório, de analista aduaneiro auxiliar de laboratório e de verificador auxiliar aduaneiro, respeitando a mesma graduação;\n\nb) Na integração do pessoal referido no n.º 1 do artigo 1.º considera-se ainda remuneração acessória 35% do subsídio de deslocação que vem sendo abonado, sem prejuízo do valor limite correspondente ao índice 900.\n\n2 - A integração do pessoal dirigente é feita por referência ao índice 135 relativo ao director-geral, fixado pelo Decreto-Lei n.º 353-A/89, de 16 de Outubro, considerando-se para o efeito a remuneração que resulta da aplicação da alínea b) do número anterior.\n\n3 - Os funcionários que tenham mudado de categoria a partir de 1 de Outubro de 1989 transitam para a nova estrutura salarial de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma, com efeitos reportados à data da mudança da categoria.\n\n4 - Nos casos previstos no número anterior, para efeitos de cálculo de remunerações atender-se-á, no período compreendido entre 1 de Outubro de 1989 e a data em que se verificou a mudança de categoria, à remuneração agora atribuída à categoria detida em 1 de Outubro de 1989.\n\n5 - Nos casos em que, por força da aplicação da alínea b) do n.º 1, resulte um montante superior ao valor do índice máximo previsto para as correspondentes categorias, a transição faz-se para escalão a extinguir quando vagar, de acordo com as seguintes regras:\n\na) Nas categorias de reverificador assessor e inspector principal, para o índice 890;\n\nb) Na categoria de primeiro-verificador superior, para o índice 735;\n\nc) Na categoria de segundo-verificador superior, para o índice 665;\n\nd) Na categoria de técnico superior aduaneiro de laboratório de 1.ª classe, para o índice 690;\n\ne) Na categoria de técnico superior aduaneiro de laboratório de 2.ª classe, para o índice 620;\n\nf) Na categoria de técnico analista aduaneiro de laboratório especialista, para o índice 685;\n\ng) Na categoria de técnico analista aduaneiro de laboratório principal, para o índice 620;\n\nh) Na categoria de técnico-adjunto analista aduaneiro auxiliar de laboratório especialista, para o índice 480;\n\ni) Na categoria de técnico-adjunto analista aduaneiro auxiliar de laboratório principal, para o índice 455;\n\nj) Na categoria de estagiário da carreira de secretário aduaneiro, para os índices 285 ou 300.\n\n6 - O pessoal que se encontra a frequentar estágios para preenchimento de vagas pertencentes às carreiras referidas no artigo 2.º será integrado nos termos deste artigo, aplicando-se-lhe ainda o disposto nos n.os 4, 5 e 6 do artigo 4.º"
+  },
+  "108115377": {
+   "fragment_id": "108114725",
+   "type": 11,
+   "heading": "Artigo 7.º — Regras especiais de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regras especiais de transição\n\n1 - Durante o período de um ano a contar da data de entrada em vigor do presente diploma e com respeito pelo número total de lugares do quadro da DGA, o pessoal referido no n.º 2 do artigo 2.º poderá ser integrado em carreira especial aduaneira, ou em carreira de informática, de idêntico nível, desde que:\n\na) Para isso manifeste disponibilidade no prazo de 30 dias a contar da entrada em vigor deste diploma;\n\nb) Possua a habilitação orgânica exigida;\n\nc) Haja lugar a avaliação por um júri constituído para o efeito, que se pronuncie sobre a adequação do candidato às funções a desempenhar.\n\n2 - Para os fins previstos neste artigo consideram-se carreiras de idêntico nível aquelas para as quais é exigido o mesmo grau de habilitações literárias.\n\n3 - Poderá ainda ser autorizada, com sujeição às regras processuais previstas no n.º 1 deste artigo, a integração em carreira de regime especial em que seja exigido:\n\na) 11.º ano, pelo pessoal referido no n.º 2 do artigo 2.º de carreira desse nível, que possua pelo menos o 9.º ano de escolaridade e tenha prestado, pelo menos, três anos de bom e efectivo serviço na DGA, e os tesoureiros que, não possuindo aquela habilitação, tenham prestado, pelo menos, 15 anos de serviço na função pública, 9 dos quais na DGA;\n\nb) 9.º ano, pelo pessoal referido no n.º 2 do artigo 2.º de carreira desse nível ou inferior.\n\n4 - Após a selecção dos candidatos, a integração ao abrigo dos números anteriores fica sempre dependente da frequência com aproveitamento de estágio ou curso de integração, em moldes a fixar por portaria do Ministro das Finanças, e far-se-á sempre para a categoria de base da respectiva carreira, em escalão a que corresponda remuneração igual ou imediatamente superior, se não houver coincidência de remuneração, ou ainda com salvaguarda da remuneração auferida sempre que esta seja superior à do último escalão."
+  },
+  "108115378": {
+   "fragment_id": "108114726",
+   "type": 11,
+   "heading": "Artigo 8.º — Verificador especialista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Verificador especialista\n\n1 - As categorias de técnico especialista principal e técnico especialista da carreira de técnico verificador aduaneiro são agregadas na categoria de verificador especialista, passando a reportar-se a esta categoria as regras de recrutamento legalmente estabelecidas para a categoria de especialista desta carreira.\n\n2 - Mantém-se em vigor, com a alteração de designação resultante do número anterior, o concurso pendente para a categoria de técnico especialista da carreira de técnico verificador aduaneiro, aplicando-se às promoções dele decorrentes o disposto no artigo 17.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro."
+  },
+  "108115379": {
+   "fragment_id": "108114727",
+   "type": 11,
+   "heading": "Artigo 9.º — Actualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Actualização\n\nAs remunerações previstas no presente diploma são actualizadas nos termos da lei geral."
+  },
+  "108115380": {
+   "fragment_id": "108114728",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração do quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração do quadro de pessoal\n\nPor portaria do Ministro das Finanças serão feitas as alterações ao quadro de pessoal da DGA necessárias para dar cumprimento ao disposto no presente diploma."
+  },
+  "108115381": {
+   "fragment_id": "108114729",
+   "type": 11,
+   "heading": "Artigo 11.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Legislação subsidiária\n\nEm tudo o que não esteja expressamente previsto no presente diploma é aplicável ao pessoal referida nos artigos 1.º e 2.º o disposto no Decreto-Lei n.º 353-A/89, de 16 de Outubro."
+  },
+  "108115382": {
+   "fragment_id": "108114730",
+   "type": 11,
+   "heading": "Artigo 12.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Produção de efeitos\n\nO presente diploma produz efeitos desde 1 de Outubro de 1989."
+  },
+  "108115388": {
+   "fragment_id": "108114722",
+   "type": 11,
+   "heading": "Artigo 4.º — Suplementos",
+   "in_force_from": "2003-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2003 - Diário da República n.º 29/2003, Série I-A de 2003-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2003-209587), em vigor a partir de 2003-02-09"
+   ],
+   "markdown": "###### Artigo 4.º — Suplementos\n\n1 - Com vista a retribuir a prestação de trabalho extraordinário nocturno, nos dias de descanso semanal ou feriados e em disponibilidade permanente é atribuído, ao abrigo da alínea a) do n.º 1 do artigo 19.º do Decreto-Lei n.º 184/89, de 2 de Junho, aos pessoal referido no artigo 1.º o suplemento mensal com os valores constantes do mapa II anexo ao presente diploma, do qual faz parte integrante.\n\n2 - O suplemento indicado no número anterior é abonado em 12 mensalidades e actualizado por despacho anual do Ministro das Finanças tendo em conta a actualização salarial.\n\n3 - A perda da remuneração de exercício implica a perda daquele suplemento.\n\n4 - Visando assegurar o nível remuneratório existente à data de produção de efeitos deste diploma, ao pessoal referido no n.º 2 do artigo 2.º é mantido um abono de integração no novo sistema retributivo (NSR).\n\n5 - Este abono, que segue o regime fixado nos n.os 1, 2 e 3, é constituído por duas parcelas, nos seguintes termos:\n\na) Uma parcela a que correspondem os montantes referidos no mapa II;\n\nb) Outra parcela que consubstancia a diferença entre a remuneração calculada nos termos do artigo 6.º e o valor do escalão de integração, quando necessário, a qual reveste a natureza de remuneração base para efeitos de aposentação, bem como para efeito das transições previstas no artigo 7.º\n\n6 - Os montantes da parcela b) são fixados por portaria do Ministro das Finanças.\n\n7 - O disposto nos n.os 4, 5 e 6 é igualmente aplicável ao pessoal pertencente às carreiras de informática ao serviço na DGA à data da produção de efeitos do presente diploma e terá em conta as remunerações que vierem a ser fixadas pelo NSR, constinuando a aplicar-se-lhes, até esse momento, o regime actualmente em vigor.\n\n8 - São afectas ao pagamento do suplemento e do abono previstos no mapa II as seguintes receitas:\n\na) Cobradas nos termos das observações 6.ª e 7.ª e 3.ª e 4.ª, respectivamente, das tabelas I e II anexas à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965;\n\nb) 15% dos emolumentos pessoais, cobrados nos termos dos artigos 2.º, 3.º, 4.º, 5.º e 6.º da tabela II anexa à Reforma Aduaneira;\n\nc) 50% do valor das multas ou coimas cobradas em processos de infracção fiscal, nos termos do artigo 61.º do Decreto-Lei n.º 376-A/89, de 25 de Outubro;\n\nd) 4% dos montantes retidos nos termos do n.º 3 do artigo 2.º da Decisão do Conselho n.º 2000/597/CE, EURATOM, de 29 de Setembro, a título de despesas de cobrança de direitos aduaneiros e niveladores agrícolas comunitários.\n\n9 - Sempre que, em qualquer ano, as receitas previstas nas alíneas b) e d) do número anterior sejam inferiores a 35% dos custos do suplemento, serão transferidas verbas para o fundo de estabilização até repor aquela percentagem, podendo, designadamente, para o efeito ser elevadas as percentagens previstas nas alíneas b) e d).\n\n10 - A percentagem prevista na alínea b) do n.º 8 pode ser elevada na medida em que se revelar indispensável para cobrir os custos dos subsídios de deslocação a incorporar no Orçamento do Estado a partir de 1991.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2003 - Diário da República n.º 29/2003, Série I-A de 2003-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2003-209587), em vigor a partir de 2003-02-09"
+  },
+  "108115383": {
+   "fragment_id": "108114731",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Junho de 1990. - Aníbal António Cavaco Silva - José Oliveira Costa.\n\nPromulgado em 22 de Agosto de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Agosto de 1990.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.\n\nMapa I\n\n(ver documento original)\n\nMapa II\n\n(ver documento original)"
+  },
+  "108115396": {
+   "fragment_id": "108114722",
+   "type": 11,
+   "heading": "Artigo 4.º — Suplementos",
+   "in_force_from": "2007-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2007-520470), em vigor a partir de 2007-04-02",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2003 - Diário da República n.º 29/2003, Série I-A de 2003-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2003-209587), em vigor a partir de 2003-02-09"
+   ],
+   "markdown": "###### Artigo 4.º — Suplementos\n\n1 - Com vista a retribuir a prestação de trabalho extraordinário nocturno, nos dias de descanso semanal ou feriados e em disponibilidade permanente é atribuído, ao abrigo da alínea a) do n.º 1 do artigo 19.º do Decreto-Lei n.º 184/89, de 2 de Junho, aos pessoal referido no artigo 1.º o suplemento mensal com os valores constantes do mapa II anexo ao presente diploma, do qual faz parte integrante.\n\n2 - O suplemento indicado no número anterior é abonado em 12 mensalidades e actualizado por despacho anual do Ministro das Finanças tendo em conta a actualização salarial.\n\n3 - A perda da remuneração de exercício implica a perda daquele suplemento.\n\n4 - Visando assegurar o nível remuneratório existente à data de produção de efeitos deste diploma, ao pessoal referido no n.º 2 do artigo 2.º é mantido um abono de integração no novo sistema retributivo (NSR).\n\n5 - Este abono, que segue o regime fixado nos n.os 1, 2 e 3, é constituído por duas parcelas, nos seguintes termos:\n\na) Uma parcela a que correspondem os montantes referidos no mapa II;\n\nb) Outra parcela que consubstancia a diferença entre a remuneração calculada nos termos do artigo 6.º e o valor do escalão de integração, quando necessário, a qual reveste a natureza de remuneração base para efeitos de aposentação, bem como para efeito das transições previstas no artigo 7.º\n\n6 - Os montantes da parcela b) são fixados por portaria do Ministro das Finanças.\n\n7 - O disposto nos n.os 4, 5 e 6 é igualmente aplicável ao pessoal pertencente às carreiras de informática ao serviço na DGA à data da produção de efeitos do presente diploma e terá em conta as remunerações que vierem a ser fixadas pelo NSR, constinuando a aplicar-se-lhes, até esse momento, o regime actualmente em vigor.\n\n8 - São afectas ao pagamento do suplemento e do abono previstos no mapa II as seguintes receitas:\n\na) As cobradas nos termos do artigo 14.º da tabela anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965;\n\nb) 15% das taxas cobradas nos termos dos artigos 6.º, 7.º, 8.º, 9.º, 10.º e 13.º da tabela anexa à Reforma Aduaneira;\n\nc) 50% do valor das multas ou coimas cobradas em processos de infracção fiscal, nos termos do artigo 61.º do Decreto-Lei n.º 376-A/89, de 25 de Outubro;\n\nd) 4% dos montantes retidos nos termos do n.º 3 do artigo 2.º da Decisão do Conselho n.º 2000/597/CE, EURATOM, de 29 de Setembro, a título de despesas de cobrança de direitos aduaneiros e niveladores agrícolas comunitários.\n\n9 - Sempre que, em qualquer ano, as receitas previstas nas alíneas b) e d) do número anterior sejam inferiores a 35% dos custos do suplemento, serão transferidas verbas para o fundo de estabilização até repor aquela percentagem, podendo, designadamente, para o efeito ser elevadas as percentagens previstas nas alíneas b) e d).\n\n10 - A percentagem prevista na alínea b) do n.º 8 pode ser elevada na medida em que se revelar indispensável para cobrir os custos dos subsídios de deslocação a incorporar no Orçamento do Estado a partir de 1991.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2007-520470), em vigor a partir de 2007-04-02\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2003 - Diário da República n.º 29/2003, Série I-A de 2003-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2003-209587), em vigor a partir de 2003-02-09"
+  },
+  "108115409": {
+   "fragment_id": "108114720",
+   "type": 11,
+   "heading": "Artigo 2.º — Outras carreiras",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a MAPAS do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+   ],
+   "markdown": "###### Artigo 2.º — Outras carreiras\n\n1 - Às outras carreiras de pessoal da Direcção-Geral das Alfândegas (DGA) é aplicável o disposto na lei geral.\n\n2 - Ao pessoal das carreiras referidas no número anterior pertencentes ao quadro de pessoal da DGA à data da produção de efeitos deste diploma é assegurado o nível remuneratório auferido, sem prejuízo da sua evolução e do disposto no artigo 7.º, sendo-lhe atribuída a remuneração base que decorre da sua integração em adequado escalão do regime geral, por aplicação das regras previstas no artigo 6.º, e o abono fixado no n.º 4 do artigo 4.º deste diploma.\n\n3 - (Revogado.)\n\n> Alterado pelo/a MAPAS do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+  },
+  "108115410": {
+   "fragment_id": "108114722",
+   "type": 11,
+   "heading": "Artigo 4.º — Suplementos",
+   "in_force_from": "2012-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2012 - Diário da República n.º 133/2012, Série I de 2012-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2012-179786), em vigor a partir de 2012-07-12, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2007-520470), em vigor a partir de 2007-04-02",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2003 - Diário da República n.º 29/2003, Série I-A de 2003-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2003-209587), em vigor a partir de 2003-02-09"
+   ],
+   "markdown": "###### Artigo 4.º — Suplementos\n\n1 - Com vista a retribuir a prestação de trabalho extraordinário nocturno, nos dias de descanso semanal ou feriados e em disponibilidade permanente é atribuído, ao abrigo da alínea a) do n.º 1 do artigo 19.º do Decreto-Lei n.º 184/89, de 2 de Junho, aos pessoal referido no artigo 1.º o suplemento mensal com os valores constantes do mapa II anexo ao presente diploma, do qual faz parte integrante.\n\n2 - O suplemento indicado no número anterior é abonado em 12 mensalidades e actualizado por despacho anual do Ministro das Finanças tendo em conta a actualização salarial.\n\n3 - A perda da remuneração de exercício implica a perda daquele suplemento.\n\n4 - Visando assegurar o nível remuneratório existente à data de produção de efeitos deste diploma, ao pessoal referido no n.º 2 do artigo 2.º é mantido um abono de integração no novo sistema retributivo (NSR).\n\n5 - Este abono, que segue o regime fixado nos n.os 1, 2 e 3, é constituído por duas parcelas, nos seguintes termos:\n\na) Uma parcela a que correspondem os montantes referidos no mapa II;\n\nb) Outra parcela que consubstancia a diferença entre a remuneração calculada nos termos do artigo 6.º e o valor do escalão de integração, quando necessário, a qual reveste a natureza de remuneração base para efeitos de aposentação, bem como para efeito das transições previstas no artigo 7.º\n\n6 - Os montantes da parcela b) são fixados por portaria do Ministro das Finanças.\n\n7 - O disposto nos n.os 4, 5 e 6 é igualmente aplicável ao pessoal pertencente às carreiras de informática ao serviço na DGA à data da produção de efeitos do presente diploma e terá em conta as remunerações que vierem a ser fixadas pelo NSR, constinuando a aplicar-se-lhes, até esse momento, o regime actualmente em vigor.\n\n8 - São afectas ao pagamento do suplemento e do abono previstos no mapa II as seguintes receitas:\n\na) As cobradas nos termos do artigo 14.º da tabela anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965;\n\nb) 15% das taxas cobradas nos termos dos artigos 6.º, 7.º, 8.º, 9.º, 10.º e 13.º da tabela anexa à Reforma Aduaneira;\n\nc) Os montantes das coimas e custas cobradas em processos de contraordenação aduaneira, instaurados e instruídos nos serviços da Autoridade Tributária e Aduaneira, exceto na parte em que sejam afetos a outros autuantes ou entidades nos termos da lei;\n\nd) 4% dos montantes retidos nos termos do n.º 3 do artigo 2.º da Decisão do Conselho n.º 2000/597/CE, EURATOM, de 29 de Setembro, a título de despesas de cobrança de direitos aduaneiros e niveladores agrícolas comunitários.\n\n9 - Sempre que, em qualquer ano, as receitas previstas nas alíneas b) e d) do número anterior sejam inferiores a 35% dos custos do suplemento, serão transferidas verbas para o fundo de estabilização até repor aquela percentagem, podendo, designadamente, para o efeito ser elevadas as percentagens previstas nas alíneas b) e d).\n\n10 - A percentagem prevista na alínea b) do n.º 8 pode ser elevada na medida em que se revelar indispensável para cobrir os custos dos subsídios de deslocação a incorporar no Orçamento do Estado a partir de 1991.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2012 - Diário da República n.º 133/2012, Série I de 2012-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2012-179786), em vigor a partir de 2012-07-12, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2007-520470), em vigor a partir de 2007-04-02\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2003 - Diário da República n.º 29/2003, Série I-A de 2003-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2003-209587), em vigor a partir de 2003-02-09"
+  },
+  "108115408": {
+   "fragment_id": "108114731",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2008-247426)"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Junho de 1990. - Aníbal António Cavaco Silva - José Oliveira Costa.\n\nPromulgado em 22 de Agosto de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Agosto de 1990.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.\n\nMapa I\n\n(ver documento original)\n\nMapa II\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2008-247426)"
+  },
+  "108115411": {
+   "fragment_id": "108114723",
+   "type": 11,
+   "heading": "Artigo 5.º — Fundo de estabilização",
+   "in_force_from": "2017-09-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+   ],
+   "markdown": "###### Artigo 5.º — Fundo de estabilização\n\n1 - O saldo resultante da não distribuição de ajudas de custo, despesas de transporte e subsídios de deslocação cobrados ao abrigo das tabelas anexas à Reforma Aduaneira acumulado até 30 de Setembro de 1989, bem como os excessos da receita sobre a despesa referida no artigo anterior, constituem um fundo de estabilização do pagamento dos suplementos nele citados, a regulamentar por portaria do Ministro das Finanças.\n\n2 - A gestão do fundo de estabilização é assegurada pela DGA em obediência às normas da contabilidade pública, devendo prosseguir a obtenção do máximo rendimento com o mínimo de risco.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+  }
+ }
+}

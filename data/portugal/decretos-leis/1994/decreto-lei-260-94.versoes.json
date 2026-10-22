@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:626221:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-164870194",
+ "dre_path": "/dr/detalhe/decreto-lei/260-1994-626221",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-10-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164816819",
+    "164816820",
+    "164816821",
+    "164816822",
+    "164816823",
+    "164816824"
+   ]
+  },
+  {
+   "date": "2014-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58585556:por",
+     "title": "Decreto-Lei n.º 157/2014",
+     "published": "2014-10-24",
+     "dre_path": "/dr/detalhe/decreto-lei/157-2014-58585556"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "164816819",
+    "164816826",
+    "164816821",
+    "164816822",
+    "164816827",
+    "164816824",
+    "164816825"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:67356344:por",
+     "title": "Decreto-Lei n.º 100/2015",
+     "published": "2015-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/100-2015-67356344",
+     "date": "2015-05-30"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "164816819": {
+   "fragment_id": "164870195",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 260/94\n\nde 22 de Outubro\n\nO processo de integração financeira conduziu à adopção do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro.\n\nEm resultado da adopção do referido Regime Geral, torna-se necessário adaptar, em conformidade, a legislação específica que regulamenta a actividade das sociedades de investimento.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "164816820": {
+   "fragment_id": "164870196",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Noção\n\nAs sociedades de investimento são instituições de crédito que têm por objecto exclusivo uma actividade bancária restrita à realização das operações financeiras e na prestação de serviços conexos definidos neste diploma."
+  },
+  "164816821": {
+   "fragment_id": "164870197",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime jurídico\n\nAs sociedades de investimento regem-se pelo disposto no presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras."
+  },
+  "164816822": {
+   "fragment_id": "164870198",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto\n\n1 - As sociedades de investimento podem efectuar apenas as seguintes operações ou prestar os seguintes serviços:\n\na) Operações de crédito a médio e longo prazo, não destinadas a consumo, incluindo concessão de garantias e outros compromissos, bem como operações de crédito de curto prazo directamente relacionadas com as anteriores;\n\nb) Oferta de fundos no mercado interbancário;\n\nc) Tomada de participações no capital de sociedades sem a restrição prevista no artigo 101.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras;\n\nd) Subscrição e aquisição de valores mobiliários, bem como participação na tomada firme e em qualquer outra forma de colocação de emissões de valores mobiliários e prestação de serviços correlativos;\n\ne) Consultoria, guarda, administração e gestão de carteiras de valores mobiliários;\n\nf) Gestão e consultoria em gestão de outros patrimónios;\n\ng) Administração de fundos de investimento fechados;\n\nh) Serviços de depositário de fundos de investimento;\n\ni) Consultoria de empresas em matéria de estrutura do capital, de estratégia empresarial e de questões conexas, bem como consultoria e serviços no domínio da fusão e compra de empresas;\n\nj) Outras operações previstas em leis especiais;\n\nl) Transacções por conta dos clientes sobre instrumentos do mercado monetário e cambial, instrumentos financeiros a prazo e opções e operações sobre divisas ou sobre taxas de juro e valores mobiliários para cobertura dos riscos de taxa de juro e cambial associados às operações referidas na alínea a);\n\nm) Outras operações cambiais necessárias ao exercício da sua actividade.\n\n2 - As actividades previstas nas alíneas e) e f) ficam sujeitas às disposições que regulam o respectivo exercício por sociedades gestoras de patrimónios, carecendo ainda de autorização expressa do cliente as aquisições de valores mobiliários emitidos ou detidos pela sociedade de investimentos.\n\n3 - Para os efeitos da alínea a) do n.º 1 do presente artigo, entendem-se por operações de crédito destinadas ao consumo os negócios de concessão de crédito concedidos a pessoas singulares para finalidades alheias à sua actividade profissional."
+  },
+  "164816823": {
+   "fragment_id": "164870199",
+   "type": 11,
+   "heading": "Artigo 4.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recursos\n\nAs sociedades de investimento só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei e sem obediência aos limites fixados no Código das Sociedades Comerciais;\n\nb) Emissão de títulos de dívida de curto prazo regulados pelo Decreto-Lei n.º 181/92, de 22 de Agosto;\n\nc) Financiamentos concedidos por outras instituições de crédito, nomeadamente no âmbito do mercado interbancário e de acordo com a legislação aplicável a este mercado, bem como por instituições financeiras internacionais;\n\nd) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras."
+  },
+  "164816824": {
+   "fragment_id": "164870200",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 77/86, de 2 de Maio."
+  },
+  "164816826": {
+   "fragment_id": "164870196",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": "2014-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+   ],
+   "markdown": "###### Artigo 1.º — Noção\n\nAs sociedades de investimento são sociedades financeiras que têm por objeto exclusivo a realização das operações financeiras e a prestação de serviços conexos definidos neste diploma.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+  },
+  "164816827": {
+   "fragment_id": "164870199",
+   "type": 11,
+   "heading": "Artigo 4.º — Recursos",
+   "in_force_from": "2014-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+   ],
+   "markdown": "###### Artigo 4.º — Recursos\n\nAs sociedades de investimento só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, elevando os limites fixados no Código das Sociedades Comerciais até ao quádruplo dos seus capitais próprios, bem como de papel comercial;\n\nb) [Revogada];\n\nc) Financiamentos concedidos por instituições de crédito, nomeadamente no âmbito do mercado interbancário, de acordo com a legislação aplicável a este mercado, bem como por instituições financeiras;\n\nd) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+  },
+  "164816825": {
+   "fragment_id": "164870201",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado em 7 de Outubro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Outubro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

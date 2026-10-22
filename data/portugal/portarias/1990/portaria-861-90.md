@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:557604:por
+title: Portaria n.º 861/90
+short_title: null
+summary: Autoriza o Instituto Politécnico do Porto, através da sua Escola Superior de Música, a conferir o grau de bacharel
+  em Teatro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 861/90
+official_date: null
+publication_date: '1990-09-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/1990, Série I de 1990-09-19
+  number: '217'
+  series: I
+  supplement: null
+  pages: 3860 - 3860
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21700/38603860.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '557604'
+  dre_path: /dr/detalhe/portaria/861-1990-557604
+  internal: pt:dre:557604:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/861-1990-557604
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/861-1990-557604
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-09-19T00:00:00Z'
+integrity:
+  source_sha256: b47ab127a553d184c4f557b757239161c4cb17bfd44d75dfdd398b5188692b8b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-861-557604.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 861/90
+
+de 19 de Setembro
+
+O [Decreto-Lei n.º 310/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1983-452686), de 1 de Julho, ao promover a reconversão do Conservatório Nacional, considerava, no n.º 1 do seu artigo 15.º, que o «ensino superior do Teatro» se inseria «nos objectivos e nas estruturas do ensino superior politécnico visando a formação de profissionais» naquela área «ao mais alto nível técnico e artístico». Nesse âmbito foi então criada a Escola Superior de Teatro e de Cinema de Lisboa.
+
+Haverá, porém, que proceder a uma efectiva descentralização do ensino artístico a nível superior, atendendo-se ainda à riqueza de tradições da cidade do Porto no domínio da arte do teatro, convindo recordar, e considerando apenas a segunda metade deste século, que foi no Porto que nasceu e tomou corpo uma das mais importantes experiências da vida teatral portuguesa, o Teatro Experimental do Porto, na fase em que foi criado e dirigido por António Pedro - experiência que, nos anos 50, trouxe contributos decisivos para o desenvolvimento no teatro português, quer em termos de renovação dos repertórios quer em termos de renovação estética.
+
+Assim sendo, a criação de um curso de bacharelato na área do Teatro na cidade do Porto encontra plena justificação, atendendo a que:
+
+As necessidades da prática teatral são reais;
+
+O mercado de absorção de novos quadros formados superiormente é um facto mensurável;
+
+Um curso de Teatro sediado no Porto satisfaz necessidades que ultrapassam os limites do movimento teatral da cidade;
+
+A tendência na zona norte do País vai no sentido do alargamento da prática teatral de natureza profissional;
+
+A estruturação do ensino artístico na sua globalidade coloca igualmente a necessidade da existência de quadros superiores formados nas disciplinas teatrais, susceptíveis de receberem posteriormente adequada formação pedagógica;
+
+Na cidade do Porto é possível encontrar um corpo de docentes capacitados quer para disciplinas de natureza teórica quer para disciplinas de base.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Educação, que o Instituto Politécnico do Porto, através da sua Escola Superior de Música, confira o grau de bacharel em Teatro, ministrando, em consequência, o respectivo curso.
+
+Ministério da Edcuação.
+
+**Assinada em 16 de Agosto de 1990.**
+
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.

@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:163835:por
+title: Decreto-Lei n.º 44480
+short_title: null
+summary: Define as atribuições e estabelece as linhas gerais da organização do Laboratório de Fitofarmacologia, instalado
+  pela Direcção-Geral dos Serviços Agrícolas em execução do II Plano de Fomento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura
+proposing_entity: null
+official_number: '44480'
+official_date: null
+publication_date: '1962-07-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 170/1962, Série I de 1962-07-26
+  number: '170'
+  series: I
+  supplement: null
+  pages: 1012 - 1013
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/07/17000/10121013.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '163835'
+  dre_path: /dr/detalhe/decreto-lei/44480-1962-163835
+  internal: pt:dre:163835:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44480-1962-163835
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44480-1962-163835
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-07-26T00:00:00Z'
+integrity:
+  source_sha256: a785510592dea1f196bfd2821947ef572d35a74416dfde92e4de6b1f3097e85a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-44480-163835.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44480
+
+Os serviços encarregados das questões de sanidade vegetal, tanto no campo da investigação como da assistência técnica e do fomento, sentem, no decorrer da sua acção, a necessidade de resolver uma série de problemas que se lhes apresentam sobre as propriedades, forma de aplicação, eficácia, toxicidade, quer em relação às plantas, quer aos seres vivos em geral, e demais características de determinados insecticidas, fungicidas, acaricidas, herbicidas, etc., e para os quais, à falta de um serviço da especialidade que se dedique ao seu estudo, têm de improvisar soluções.
+
+Reconhecida essa falta e a urgência em a remediar, concedeu-se através do II Plano de Fomento a necessária dotação para o empreendimento «Fitofarmácia e fitoterapêutica», em cujo programa se contém a instalação de serviço próprio - o Laboratório de Fitofarmacologia - para estudo e contrôle daqueles produtos, nos variados aspectos que interessam à defesa sanitária das culturas e dos produtos armazenados.
+
+Neste diploma definem-se as atribuições do organismo e estabelecem-se as linhas gerais da sua organização.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+
+###### Artigo 1.º O Laboratório de Fitofarmacologia, instalado pela Direcção-Geral dos Serviços Agrícolas em execução do II Plano de Fomento, é um organismo de estudo e de cooperação técnica dependente da orientação científica da Estação Agronómica Nacional, destinado a resolver e esclarecer problemas relacionados com a produção, comércio e aplicação dos produtos fitofarmacêuticos.
+
+§ único. As atribuições do Laboratório no que respeita à homologação dos referidos produtos, bem como as necessárias relações com a Direcção-Geral de Saúde, Direcção-Geral dos Serviços Pecuários, Direcção-Geral dos Serviços Florestais, Inspecção-Geral dos Produtos Agrícolas e Industriais e com a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, serão fixadas em decreto regulamentar publicado pelos Ministérios da Economia e da Saúde e Assistência.
+
+###### Art. 2.º Consideram-se produtos fitofarmacêuticos, para os efeitos deste diploma, os produtos químicos e biológicos destinados à defesa da produção vegetal, com exclusão dos adubos e correctivos.
+
+###### Art. 3.º Ao Laboratório compete designadamente:
+
+1.º Reunir os elementos de informação existentes sobre as características físicas, químicas e biológicas dos produtos fitofarmacêuticos submetidos à homologação e promover a realização de estudos sobre as mesmas características, quando se considerem insuficientes, para devida apreciação dos produtos, as informações já existentes.
+
+2.º Proceder a estudos de natureza físico-química e bioquímica dos produtos fitofarmacêuticos.
+
+3.º Colaborar com os serviços responsáveis do Ministério da Saúde e Assistência na realização de inquéritos e investigações sobre a toxicidade dos mesmos produtos em relação ao homem e animais domésticos.
+
+4.º Efectuar inquéritos e investigações sobre a toxicidade dos mesmos produtos em relação à vida animal e vegetal.
+
+5.º Estudar, através de ensaios biológicos, laboratoriais e de campo, em relação aos mais importantes problemas de sanidade vegetal, a eficácia e fitotoxicidade dos diferentes produtos fitofarmacêuticos.
+
+6.º Proceder a estudos para esclarecimento das características e das qualidades dos diferentes tipos de material utilizado nos tratamentos fitossanitários e na monda química.
+
+7.º Dar parecer sobre as características físicas, químicas e biológicas dos produtos fitofarmacêuticos fabricados e formulados no País e estabelecer os protocolos da sua aplicação.
+
+###### Art. 4.º O Laboratório de Fitofarmacologia procederá a estudos da sua competência:
+
+a) Por iniciativa própria;
+
+b) Por determinação superior ou a pedido de organismos oficiais;
+
+c) Para obter informações sobre produtos submetidos à homologação;
+
+d) A pedido de industriais e de comerciantes da especialidade ou de lavradores.
+
+§ 1.º Os estudos referidos em d) serão normalmente realizados quando não prejudiquem a execução dos trabalhos planeados de acordo com o disposto nas alíneas a), b) e c).
+
+§ 2.º Os estudos realizados de harmonia com o estabelecido nas alíneas c) e d) serão pagos segundo tabela aprovada por portaria do Ministro das Finanças e do Secretário de Estado da Agricultura, sob proposta da Direcção-Geral dos Serviços Agrícolas.
+
+###### Art. 5.º Os serviços do Laboratório serão distribuídos por secções e subsecções, de acordo com o que for estabelecido no regulamento.
+
+###### Art. 6.º O Laboratório de Fitofarmacologia será ouvido pela Inspecção-Geral dos Produtos Agrícolas o Industriais sempre que se trate da importação de produtos contemplados na posição 38.11 da pauta de importação.
+
+###### Art. 7.º A Direcção-Geral das Alfândegas solicitará ao Laboratório de Fitofarmacologia a verificação das respectivas características físicas, químicas e biológicas sempre que se apresentem a despacho produtos fitofarmacêuticos que gozem de isenção de direitos.
+
+###### Art. 8.º As importâncias arrecadadas nos termos do § 2.º do artigo 4.º darão entrada nos cofres do Tesouro em «Consignação de receitas», a fim de servirem de contrapartida a despesas a realizar pelo Ministério da Economia, Secretaria de Estado da Agricultura, em execução do presente diploma.
+
+###### Art. 9.º O regulamento do Laboratório será publicado em portaria conjunta do Ministro da Saúde e Assistência o do Secretário de Estado da Agricultura.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 26 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:662522:por
+title: Resolução do Conselho de Ministros n.º 155-A/2006
+short_title: null
+summary: Cria, na dependência do Ministro da Administração Interna, uma estrutura de missão com o objectivo de gerir o Programa
+  Quadro Solidariedade e Gestão dos Fluxos Migratórios e nomeia a respectiva coordenadora
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 155-A/2006
+official_date: null
+publication_date: '2006-11-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 222/2006, 1º Suplemento, Série I de 2006-11-17
+  number: '222'
+  series: I
+  supplement: 1º Suplemento
+  pages: 7962-(2) a 7962-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/11/22201/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/155-a/2006/11/17/p/dre/pt/html
+  oj: null
+  dre: '662522'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/155-a-2006-662522
+  internal: pt:dre:662522:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/155-a-2006-662522
+  metadata_url: https://data.dre.pt/eli/resolconsmin/155-a/2006/11/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/155-a-2006-662522
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-03-13T00:00:00Z'
+integrity:
+  source_sha256: 78bd455cbf3f30b7122101b062cee717b198df0148142e8992a3d71b2884201d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-155-A-662522.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestão Financeira
+- Comissão Mista
+- Encarregado de Missão
+- Equipa de Missão
+- Gestão Administrativa
+- Estrutura de Missão para a Gestão de Fundos Comunitários
+- Programa Quadro Solidariedade e Gestão dos Fluxos Migratorios
+- Governo XVII
+- Fundo Europeu para a Integração de Nacionais de Países Terceiros
+- Nomeação
+- Fundo Europeu de Regresso
+- Fundo Europeu para as Fronteiras Externas
+- Fundo Europeu para os Refugiados
+- Ministro da Presidência
+- Ministro da Administração Interna
+relationships:
+- type: amended_by
+  target: pt:dre:553441:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/2004/06/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/2004/06/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/93/2001/08/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/93/2001/08/09/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 155-A/2006
+
+A criação progressiva de um espaço de liberdade, segurança e justiça tornou-se numa das pedras angulares do desenvolvimento do espaço europeu, com uma importância crescente na definição das prioridades da União Europeia, designadamente em termos financeiros.
+
+Assim, a Comissão Europeia reconheceu a necessidade de apoiar este objectivo através dos recursos financeiros adequados, inscritos numa nova rubrica intitulada «Cidadania, liberdade, segurança e justiça» e estabeleceu o Programa Quadro Solidariedade e Gestão dos Fluxos Migratórios, que integra mecanismos de solidariedade financeira para as diversas áreas relevantes.
+
+Assim, o Programa Quadro cria quatro fundos comunitários distintos: o Fundo Europeu para os Refugiados, que tem por objectivo apoiar os Estados membros nos encargos decorrentes do acolhimento de refugiados e pessoas deslocadas; o Fundo Europeu para as Fronteiras Externas, que tem por objectivos apoiar os Estados membros nas actividades de controlo e vigilância das fronteiras externas da União, na gestão eficaz dos fluxos de pessoas nessas fronteiras, tendo em vista a segurança interna, no reforço da eficácia dos guardas de fronteira e na gestão dos serviços consulares; o Fundo Europeu para a Integração, que tem por objectivo apoiar os Estados membros na integração de nacionais de países terceiros, e o Fundo Europeu de Regresso, que tem por objectivo apoiar os Estados membros na gestão integrada do regresso dos nacionais de países terceiros aos respectivos países de origem.
+
+A gestão destes quatro fundos comunitários incluídos no Programa Quadro será partilhada entre a Comissão Europeia e os Estados membros da União Europeia e implica para estes um conjunto amplo e complexo de obrigações, designadamente a adopção das medidas necessárias para assegurar, através de estrutura adequada, uma gestão transparente, com mecanismos de controlo e auditoria alinhados para os quatro Fundos, que garanta, simultaneamente, a coerência e a complementaridade na respectiva gestão.
+
+O cumprimento das referidas obrigações aconselha pois, quer por razões de coerência quer por razões de eficácia e racionalização de recursos, que os Estados membros adoptem uma gestão integrada dos diversos fundos abrangidos pelo Programa Quadro, incluindo o Fundo Europeu para os Refugiados, já existente desde 2000.
+
+Considerando os imperativos determinados pela regulamentação europeia em matéria de gestão de fundos comunitários, impõe-se a criação de uma estrutura autónoma como condição para assegurar a gestão imparcial e independente exigida nesta matéria.
+
+Neste sentido, torna-se necessário criar, junto do Ministro da Administração Interna, uma estrutura de missão com o objectivo de assegurar a gestão técnica, administrativa e financeira do conjunto dos fundos previstos no Programa Quadro Solidariedade e Gestão dos Fluxos Migratórios.
+
+Assim:
+
+Ao abrigo do disposto no artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, com as alterações introduzidas pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, e nos termos das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar uma estrutura de missão, na dependência do Ministro da Administração Interna, com o objectivo de assegurar a gestão técnica, administrativa e financeira do Programa Quadro Solidariedade e Gestão dos Fluxos Migratórios para o período de 2007 a 2013, adiante designado por Programa, que integra o Fundo Europeu para os Refugiados, o Fundo Europeu para as Fronteiras Externas, o Fundo Europeu para a Integração e o Fundo Europeu de Regresso, adiante designados por Fundos.
+
+2 - Estabelecer que, para efeitos da gestão do Fundo Europeu para a Integração, a estrutura de missão fica na dependência conjunta do Ministro da Administração Interna e do Ministro da Presidência.
+
+3 - Determinar que, para o efeito do disposto no n.º 1, compete nomeadamente à estrutura de missão:
+
+a) Preparar a programação nacional anual e plurianual dos Fundos, consultando para o efeito as autoridades competentes, nomeadamente da administração central, regional e local e representantes da sociedade civil, e apresentá-la à comissão mista prevista no n.º 8 e às tutelas;
+
+b) Organizar e publicitar o acesso ao financiamento pelos Fundos;
+
+c) Organizar os procedimentos de selecção e atribuição dos co-financiamentos pelos Fundos, no respeito pelos princípios da transparência, da igualdade de tratamento e da não duplicação de subvenções;
+
+d) Acompanhar a execução dos projectos co-financiados e assegurar a apresentação dos relatórios necessários à avaliação anual e plurianual dos Fundos;
+
+e) Garantir a coerência e a complementaridade entre os co-financiamentos dos Fundos e destes com os previstos no âmbito de outros instrumentos financeiros nacionais e comunitários pertinentes;
+
+f) Assegurar em geral a gestão técnica, administrativa e financeira dos Fundos, no cumprimento de todas as normas e obrigações para o efeito estabelecidas pelos instrumentos nacionais e comunitários relevantes.
+
+4 - Nomear a licenciada Maria Gabriela Certã Ventura encarregada de missão, a quem compete, enquanto autoridade nacional responsável para efeitos dos normativos comunitários aplicáveis, a gestão do Programa e a coordenação da estrutura de missão, com estatuto equiparado a presidente de conselho de administração de empresa pública do grupo B, nível 1.
+
+5 - Criar uma estrutura de apoio técnico, na dependência da encarregada de missão, composta por um máximo de 10 elementos, 1 dos quais especificamente responsável pela orientação e gestão do Fundo Europeu para a Integração, nomeado pelo Ministro da Presidência.
+
+6 - Estabelecer que a encarregada de missão é coadjuvada por um responsável para a área de gestão administrativa e financeira e outro para a área de gestão de programas e projectos, incluídos na composição referida no número anterior, nomeados por despacho do Ministro da Administração Interna e equiparados, para efeitos de remuneração, incluindo despesas de representação, a director de serviços.
+
+7 - Determinar que o exercício de funções na estrutura de apoio técnico prevista no n.º 5 pode ser feito mediante recurso a qualquer dos regimes previstos nos n.os 4 e 5 do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, e na alínea g) do artigo 9.º da [Lei n.º 23/2004](https://diariodarepublica.pt/dr/detalhe/lei/23-2004-272037), de 22 de Junho.
+
+8 - Definir que a estrutura de missão integra ainda uma comissão mista, de carácter consultivo, presidida pela encarregada de missão e com a seguinte composição:
+
+a) Um representante do Ministro da Administração Interna;
+
+b) Um representante do Ministro dos Negócios Estrangeiros;
+
+c) Um representante do Ministro da Presidência;
+
+d) Um representante do Ministro do Trabalho e da Solidariedade Social.
+
+9 - Determinar que compete à comissão mista, nomeadamente:
+
+a) Pronunciar-se sobre os pedidos de financiamento;
+
+b) Assegurar o acompanhamento da execução dos Fundos, pronunciando-se sobre os respectivos relatórios de execução;
+
+c) Emitir parecer, a solicitação da encarregada de missão, sobre a evolução das prioridades dos investimentos nacionais nas áreas abrangidas pelos Fundos;
+
+d) Prestar a informação necessária para que seja assegurada a coerência e a complementaridade entre os financiamentos dos diversos Fundos e entre estes e outros instrumentos financeiros nacionais e comunitários relevantes;
+
+e) Aprovar o seu regulamento interno.
+
+10 - Determinar que os encargos orçamentais decorrentes da presente resolução são suportados pelo financiamento comunitário previsto nos Fundos para efeitos de assistência técnica e por dotações provenientes do orçamento do Ministério da Administração Interna.
+
+11 - Determinar que cabe à Secretaria-Geral do Ministério da Administração Interna assegurar o apoio logístico à estrutura de missão.
+
+12 - Estabelecer que o prazo de duração da estrutura de missão corresponde ao período de vigência do Programa, incluindo o período necessário ao encerramento definitivo das contas e à apresentação do respectivo relatório final, não podendo em qualquer caso ultrapassar o termo do 1.º semestre de 2014.
+
+13 - Determinar ainda que:
+
+a) Até à emissão do despacho do Ministro da Administração Interna referido no n.º 15, a gestão técnica, administrativa e financeira do Fundo Europeu para os Refugiados para o período de 2005 a 2010 (FER II), de acordo com o programa plurianual aprovado pelas instâncias europeias, cabe ao gestor nomeado pela [Resolução do Conselho de Ministros n.º 93/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2001-521977), de 17 de Agosto, licenciada Ana Paula Teixeira Feio Vale, com as competências legalmente previstas, considerando-se ratificados todos os actos entretanto praticados no exercício das mesmas;
+
+b) Ao gestor referido na alínea anterior é devido, a título de despesas de representação, o montante de 10% do valor padrão correspondente à remuneração que vem auferindo, verba a suportar pelo orçamento do Serviço de Estrangeiros e Fronteiras;
+
+c) A estrutura de apoio técnico ao gestor pode ser acrescida de até três elementos, podendo um destes acrescer ao número de coordenadores ou chefes de projecto;
+
+d) As despesas com o funcionamento da estrutura de apoio técnico ao gestor, decorrentes da gestão do FER, na parte não elegível a financiamento pela medida de assistência técnica do FER, bem como as demais despesas que seja necessário efectuar, sejam suportadas pelo orçamento do Serviço de Estrangeiros e Fronteiras.
+
+14 - Determinar que a estrutura de missão sucederá, sem necessidade de qualquer formalidade adicional, na universalidade de direitos e obrigações da entidade actualmente responsável pela gestão do Fundo Europeu de Refugiados, referida no número anterior.
+
+15 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua publicação, com excepção do disposto no número anterior, cuja produção de efeitos ocorrerá, reunidas as respectivas condições, em data a fixar por despacho do Ministro da Administração Interna.
+
+Presidência do Conselho de Ministros, 7 de Setembro de 2006. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

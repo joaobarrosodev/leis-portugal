@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:156657:por
+title: Portaria n.º 19428
+short_title: null
+summary: Altera, relativamente aos centros escolares da Mocidade Portuguesa, as normas a observar nas cantinas dos centros
+  escolares da Mocidade Portuguesa Feminina, estabelecidas pela Portaria n.º 10515
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação Nacional - Secretaria-Geral
+proposing_entity: null
+official_number: '19428'
+official_date: null
+publication_date: '1962-10-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 233/1962, Série I de 1962-10-10
+  number: '233'
+  series: I
+  supplement: null
+  pages: 1335 - 1336
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/10/23300/13351336.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '156657'
+  dre_path: /dr/detalhe/portaria/19428-1962-156657
+  internal: pt:dre:156657:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19428-1962-156657
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19428-1962-156657
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-10-10T00:00:00Z'
+integrity:
+  source_sha256: 5343c9648abe8adfba59e8fa1e0518bb5955550265df9a2b2cf6da441835dfb5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-19428-156657.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19428
+
+A [Portaria n.º 10515](https://diariodarepublica.pt/dr/detalhe/portaria/10515-1943-256824), de 26 de Outubro de 1943, aprovou as normas a observar nas cantinas dos centros escolares da Mocidade Portuguesa e da Mocidade Portuguesa Feminina.
+
+A experiência aconselha a alterar, apenas no que respeita à Mocidade Portuguesa, algumas dessas normas.
+
+Nestas condições:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, que, relativamente aos centros escolares da Mocidade Portuguesa, se considerem revogados os artigos 17.º, 19.º e 20.º das normas anexas à [Portaria n.º 10515](https://diariodarepublica.pt/dr/detalhe/portaria/10515-1943-256824), de 26 de Outubro de 1943, e passe a observar-se o seguinte:
+
+1.º As receitas dos centros devem classificar-se, segundo a sua proveniência, pela seguinte forma:
+
+Quotização.
+
+Contribuição dos amigos do centro.
+
+Subsídios.
+
+Emolumentos.
+
+Comparticipação do Comissariado Nacional da Mocidade Portuguesa.
+
+Cantina.
+
+Donativos e legados.
+
+Saldos da gerência anterior.
+
+Outras receitas.
+
+2.º Com aplicação aos fins indicados no artigo 18.º das normas anexas à [Portaria n.º 10515](https://diariodarepublica.pt/dr/detalhe/portaria/10515-1943-256824), criar-se-ão fundos a que serão atribuídas as seguintes percentagens de cada uma das receitas a que se refere o artigo 17.º:
+
+1) Fundo de camaradagem da Mocidade Portuguesa:
+
+... Percentagens
+
+a) Quotização ... 20
+
+b) Contribuição dos amigos do centro ... 60
+
+c) Emolumentos ... 100
+
+d) Comparticipação do Comissariado Nacional da Mocidade Portuguesa ... 100
+
+e) Cantina ... 60
+
+f) Saldos da gerência anterior ... 20
+
+g) Outras receias ... 30
+
+2) Fundo de visitas de estudo:
+
+a) Quotização ... 10
+
+b) Contribuição dos amigos do centro ... 20
+
+c) Saldos da gerência anterior ... 10
+
+d) Outras receitas ... 30
+
+3) Fundo disponível:
+
+a) Quotização ... 70
+
+b) Contribuição dos amigos do centro ... 20
+
+c) Cantina ... 40
+
+d) Saldos da gerência anterior ... 70
+
+e) Outras receitas ... 40
+
+§ único. Com o fim de contribuírem para encargos que mais estrita e directamente se relacionam com actividades dos centros (casas da Mocidade, campeonatos desportivos, acampamentos e provas de aptidão distritais, centros de férias, etc.), deverão estes centros remeter ao Comissariado Nacional da Mocidade Portuguesa 50 por cento da receita distribuída ao fundo disponível proveniente do saldo da gerência anterior e da quotização do ano em curso, sendo a remessa feita nos seguintes prazos:
+
+a) Até 31 de Outubro, a parte relativa ao saldo da gerência anterior;
+
+b) Até 15 de cada mês, a parte relativa à quotização cobrada no mês anterior.
+
+3.º Os donativos e legados ou seus rendimentos atribuir-se-ão aos fundos com destino aos fins de carácter educativo que tiverem sido expressamente designados.
+
+§ único. No caso de não serem expressamente consignadas a qualquer fim, as receitas referidas no corpo deste artigo serão atribuídas aos diversos fundos na mesma proporção das «Outras receitas».
+
+Ministério da Educação Nacional, 10 de Outubro de 1962. - Pelo Ministro da Educação Nacional, Carlos Eduardo Bastos de Soveral, Subsecretário de Estado da Educação Nacional.

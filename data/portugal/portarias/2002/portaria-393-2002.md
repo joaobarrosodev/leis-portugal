@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:303183:por
+title: Portaria n.º 393/2002
+short_title: null
+summary: Altera o Regulamento dos Concursos Especiais de Acesso ao Ensino Superior
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 393/2002
+official_date: null
+publication_date: '2002-04-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 86/2002, Série I-B de 2002-04-12
+  number: '86'
+  series: I
+  supplement: null
+  pages: 3638 - 3638
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/04/086b00/36383638.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/393/2002/04/12/p/dre/pt/html
+  oj: null
+  dre: '303183'
+  dre_path: /dr/detalhe/portaria/393-2002-303183
+  internal: pt:dre:303183:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-2002-303183
+  metadata_url: https://data.dre.pt/eli/port/393/2002/04/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-2002-303183
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-05-31T00:00:00Z'
+integrity:
+  source_sha256: 02e8e55db3275445b724af509788d8d85b58590f55e9d4ed6e23bc18a856ad67
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-393-303183.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Curso de Especialização Tecnológica
+- Concurso Especial de Acesso e Ingresso no Ensino Superior
+- Regulamento
+- Ensino Superior
+- Regulamento dos Concursos Especiais para Acesso ao Ensino Superior
+relationships:
+- type: amended_by
+  target: pt:dre:184181415:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/393-b/1999/10/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/393-b/1999/10/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1081/2001/09/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1081/2001/09/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/392/2002/04/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/392/2002/04/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/698/2001/07/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/698/2001/07/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/854-a/1999/10/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/854-a/1999/10/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/989/1999/11/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/989/1999/11/03/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 393/2002
+
+de 12 de Abril
+
+Ao abrigo do disposto no artigo 20.º do [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de Outubro:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+Alterações
+
+Ao artigo 3.º-A do Regulamento dos Concursos Especiais de Acesso ao Ensino Superior, aprovado pela [Portaria n.º 854-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/854-a-1999-281835), de 4 de Outubro, alterada pela [Portaria n.º 1081/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1081-2001-631210), de 5 de Setembro, é aditado um n.º 3 com a seguinte redacção:
+
+«3 - Os titulares de um diploma de especialização tecnológica obtido nos termos da [Portaria n.º 989/99](https://diariodarepublica.pt/dr/detalhe/portaria/989-1999-694187), de 3 de Novembro, com as alterações constantes das Portarias n.os [698/2001](https://diariodarepublica.pt/dr/detalhe/portaria/698-2001-399182), de 11 de Julho, e [392/2002](https://diariodarepublica.pt/dr/detalhe/portaria/392-2002-303187), de 12 de Abril, com 18 meses de actividade profissional na área de formação do diploma realizados após a obtenção deste, podem ainda candidatar-se aos pares estabelecimento/curso fixados nos termos da alínea a) do n.º 4 ou do n.º 5 do n.º 5.º daquela portaria.»
+
+2.º
+
+Aditamentos
+
+Ao Regulamento dos Concursos Especiais de Acesso ao Ensino Superior, aprovado pela [Portaria n.º 854-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/854-a-1999-281835), são aditados os artigos 3.º-B e 11.º-A, com a seguinte redacção:
+
+«Artigo 3.º-B
+
+Vagas
+
+1 - As vagas fixadas para cada par estabelecimento/curso para o concurso especial a que se refere a alínea b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de Outubro, podem ser organizadas por contingentes, de acordo com a tipologia das habilitações dos candidatos.
+
+2 - As vagas para os candidatos que beneficiam do disposto no n.º 3 do artigo 3.º-A são obrigatoriamente organizadas em contingentes para cada diploma de especialização tecnológica.
+
+3 - Fica autorizado que o limite a que se refere o n.º 2 do artigo 5.º do [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115) seja excedido pelas vagas a que se refere o número anterior.
+
+4 - As vagas eventualmente sobrantes em um ou mais contingentes de um concurso revertem para os restantes contingentes onde existam candidatos não colocados, de acordo com a percentagem atribuída a cada um.
+
+###### Artigo 11.º-A — Integração curricular
+
+A integração curricular dos candidatos a que se refere o n.º 3 do artigo 3.º-A é feita nos termos fixados nos termos da alínea b) do n.º 4 ou do n.º 5 do n.º 5.º da [Portaria n.º 989/99](https://diariodarepublica.pt/dr/detalhe/portaria/989-1999-694187).»
+
+Pelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 14 de Março de 2002.

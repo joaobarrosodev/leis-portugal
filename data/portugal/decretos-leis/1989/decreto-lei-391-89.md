@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: pt:dre:549995:por
+title: Decreto-Lei n.º 391/89
+short_title: null
+summary: Cria o Centro Integrado de Formação de Professores da Universidade da Madeira. Revoga o Decreto-Lei n.º 395/82, de
+  21 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 391/89
+official_date: null
+publication_date: '1989-11-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 258/1989, Série I de 1989-11-09
+  number: '258'
+  series: I
+  supplement: null
+  pages: 4923 - 4925
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/11/25800/49234925.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '549995'
+  dre_path: /dr/detalhe/decreto-lei/391-1989-549995
+  internal: pt:dre:549995:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1989-549995
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1989-549995
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-05-19T00:00:00Z'
+integrity:
+  source_sha256: 46abde62fdc327af615b77eabc99062b55027a4585eed2c2b2c026e1ec024330
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-391-549995.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:344198:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 391/89
+
+de 9 de Novembro
+
+A recente criação da Universidade da Madeira pelo [Decreto-Lei n.º 319-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1988-507642), de 13 de Setembro, recomenda a revisão do actual enquadramento do ensino superior na Região, de modo a conseguir-se uma harmonização das diferentes instituições que o ministram, visando maior eficiência na utilização dos recursos humanos e materiais existentes e melhor satisfação das necessidades educativas da população.
+
+Na Região Autónoma da Madeira existem actualmente a Escola Superior de Educação e o Instituto Superior de Artes Plásticas, com gestão e recursos próprios. O funcionamento articulado destas instituições de ensino superior é condição essencial para uma gestão adequada das infra-estruturas e meios, favorecendo a concretização de uma política educativa global, definida consensualmente para a Região, que melhor possa servir os seus interesses.
+
+A integração do Instituto Superior de Artes Plásticas está pendente de legislação específica, a ser publicada num futuro próximo.
+
+Baseada na experiência de outras universidades do espaço nacional e tendo presente a estrutura orgânica planeada para a Universidade da Madeira, entende-se que existem condições desde já para a extinção da Escola Superior de Educação, com a subsequente criação de um centro integrado de formação de professores.
+
+Foram ouvidos os órgãos de governo próprio da Região Autónoma da Madeira.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º - 1 - É criado na Universidade da Madeira o Centro Integrado de Formação de Professores adiante designado por Centro.
+
+2 - O Centro é uma unidade interdisciplinar vocacionada para a formação de professores de todos os níveis de ensino do sistema escolar e de agentes de educação para os sectores pré, extra e pós-escolar, bem como para a investigação e prestação de serviços à comunidade na área científica da educação.
+
+###### Art. 2.º O Centro goza de autonomia científica e pedagógica, sem prejuízo da orientação geral da política de ensino, investigação e prestação de serviços à comunidade definida pelos órgãos competentes da Universidade.
+
+###### Art. 3.º - 1 - O Centro tem por objectivos:
+
+a) Promover a criação e funcionamento de cursos de formação inicial de professores para todos os níveis do sistema escolar, de técnicos de ensino-aprendizagem extra-escolar e de agentes de educação pré e pós-escolar;
+
+b) Organizar a formação em serviço e ou complementar de professores para os ensinos básico e secundário e de outros agentes de educação;
+
+c) Assegurar, em colaboração com os organismos competentes, a formação contínua de agentes de todos os níveis escolares e sectores educativos;
+
+d) Ministrar cursos de bacharelato, licenciatura e mestrado em Ciências da Educação, de acordo com o programa geral da Universidade da Madeira;
+
+e) Promover cursos de especialização em áreas educacionais específicas;
+
+f) Fomentar e desenvolver a investigação na área científica da educação e domínios afins;
+
+g) Prestar apoio pedagógico, técnico e no âmbito da administração escolar aos docentes e escolas da Região;
+
+h) Criar e manter um centro de recursos educacionais;
+
+i) Colaborar directamente no desenvolvimento integrado da Região.
+
+2 - Para a prossecução dos seus objectivos o Centro funcionará em colaboração com as unidades orgânicas que integram a Universidade, tendo em vista a gestão racional dos recursos disponíveis.
+
+###### Art. 4.º - 1 - O Centro funcionará em regime de instalação durante dois anos.
+
+2 - Por despacho conjunto dos Ministros da Educação e da República para a Região Autónoma da Madeira, ouvido o Governo Regional, será nomeada uma comissão coordenadora do Centro, a qual será constituída pelos seguintes elementos:
+
+a) Um representante da comissão instaladora da Universidade da Madeira, que presidirá;
+
+b) Uma individualidade proposta pela Secretaria Regional da Educação, Juventude e Emprego;
+
+c) Três membros do corpo docente.
+
+3 - A comissão coordenadora do Centro exercerá o seu mandato durante o período de instalação.
+
+4 - É aplicável aos membros da comissão coordenadora do Centro o disposto no artigo 1.º do [Decreto-Lei n.º 244/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), de 11 de Julho.
+
+###### Art. 5.º Compete à comissão coordenadora do Centro:
+
+a) Elaborar o regulamento do Centro, que deve ser aprovado pelos órgãos competentes da Universidade e proposto à homologação do Ministro da Educação;
+
+b) Estudar e propor aos órgãos competentes da Universidade da Madeira o plano geral de desenvolvimento do Centro;
+
+c) Coordenar as acções tendentes à definição e desenvolvimento curricular dos vários cursos de formação de professores e de agentes de educação;
+
+d) Promover outras acções de carácter científico, pedagógico e técnico no âmbito dos objectivos do Centro;
+
+e) Coordenar o programa da instalação física do Centro, de acordo com o plano geral de desenvolvimento das instalações da Universidade;
+
+f) Propor à Universidade a admissão do pessoal necessário à prossecução dos objectivos do Centro;
+
+g) Propor à Universidade, através dos órgãos competentes, planos de formação de pessoal docente, técnico e administrativo;
+
+h) Propor a aquisição de equipamento e mobiliário;
+
+i) Promover, periodicamente, a elaboração de esquemas de avaliação dos programas e das actividades do Centro, elaborando os respectivos relatórios para apreciação dos órgãos competentes da Universidade da Madeira.
+
+###### Art. 6.º Passa a competir ao Centro a prossecução das atribuições cometidas pelo [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, com a redacção dada pela [Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), de 28 de Julho, e demais legislação complementar, à Escola Superior de Educação da Madeira, que é extinta pelo presente diploma.
+
+###### Art. 7.º - 1 - O pessoal docente pertencente ao quadro do pessoal da Escola Superior de Educação da Madeira à data da publicação deste diploma transitará para o quadro do pessoal da Universidade da Madeira, logo que aprovado, nas respectivas situações e categorias, lugares esses a extinguir quando vagarem, mantendo todos os direitos e regalias que lhe são inerentes, independentemente de quaisquer formalidades, salvo anotação do Tribunal de Contas.
+
+2 - Até à data da aprovação do quadro referido no número anterior permanecerá em vigor o quadro provisório de pessoal da Escola Superior de Educação da Madeira, com os lugares actualmente preenchidos, o qual se extinguirá com a transição efectiva do referido pessoal.
+
+3 - Os docentes que aguardam provimento no actual quadro provisório da Escola Superior de Educação da Madeira em resultado do concurso a que se submeteram serão providos nos respectivos lugares de acordo com a legislação aplicável, sem prejuízo dos seus direitos, nomeadamente a aplicação do disposto no n.º 1.
+
+4 - Os professores a que se refere o n.º 1 poderão exercer na Universidade as funções que lhes forem determinadas, sem prejuízo da categoria e vencimento, e com o acordo prévio do interessado, sempre que aquele exercício determine mudança de localidade de trabalho.
+
+5 - Os contratos do actual pessoal docente não pertencente ao quadro consideram-se denunciados para o seu termo, não podendo, em hipótese alguma, ser renovados, sem prejuízo da celebração de novos contratos, nos termos da legislação aplicável.
+
+###### Art. 8.º - 1 - Os docentes que tenham exercido ou se encontrem a exercer funções na comissão instaladora da Escola Superior de Educação da Madeira e que transitem para a Universidade da Madeira beneficiam da dispensa de funções docentes, a fim de prepararem os respectivos doutoramentos, por um período idêntico ao de exercício de funções nessa comissão, nunca superior a um prazo máximo de três anos.
+
+2 - A dispensa de serviço referida no número anterior carece da aprovação prévia do conselho científico da Universidade, mediante apreciação do programa de doutoramento do candidato, sem prejuízo do normal funcionamento da Escola.
+
+###### Art. 9.º - 1 - O pessoal não docente do quadro da Escola Superior de Educação em serviço à data da publicação do presente diploma transita para o quadro da Universidade na mesma categoria, independentemente de quaisquer formalidades, salvo anotação do Tribunal de Contas.
+
+2 - O pessoal não docente não pertencente ao quadro da Escola Superior de Educação em serviço à data da publicação do presente diploma transita para o quadro da Universidade em idêntica categoria, desde que observados os requisitos habilitacionais legalmente previstos, independentemente de quaisquer outras formalidades, salvo anotação do Tribunal de Contas, sem prejuízo do disposto na alínea b) do artigo 5.º do [Decreto Legislativo Regional n.º 13/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1985-181419), de 18 de Junho.
+
+###### Art. 10.º - 1 - O património da Escola Superior de Educação, incluindo as instalações e equipamento, é integrado na Universidade e afectado ao funcionamento do Centro, independentemente de quaisquer formalidades, com os direitos e deveres de que a Escola era titular.
+
+2 - São ainda transferidos para a Universidade os saldos das dotações do orçamento da Escola Superior de Educação para o corrente ano económico.
+
+###### Art. 11.º Durante o período de instalação será inscrita no orçamento da Universidade uma verba global destinada ao desenvolvimento do Centro, a qual será gerida, nos termos da lei, pelos órgãos competentes da Universidade, sob proposta da comissão coordenadora para a instalação do Centro.
+
+###### Art. 12.º Durante o período de instalação da Universidade as funções atribuídas por este diploma aos órgãos da Universidade são provisoriamente assumidas pela comissão instaladora ou pelo conselho administrativo, consoante a sua natureza.
+
+###### Art. 13.º É revogado o [Decreto-Lei n.º 395/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1982-375869), de 21 de Setembro.
+
+Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1989. - Aníbal António Cavaco Silva - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
+
+**Promulgado em 26 de Outubro de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 28 de Outubro de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

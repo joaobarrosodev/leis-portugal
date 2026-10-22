@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:182137198:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regiao-autonoma-acores/2022-211499231",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/17-2022-182137198",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "211526737"
+   ]
+  }
+ ],
+ "fragments": {
+  "211526737": {
+   "fragment_id": "211499232",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 17/2022/A\n\nSumário: Prorrogação do prazo para apresentação do Relatório da Comissão Eventual para o Aprofundamento da Autonomia.\n\nProrrogação do prazo para apresentação do Relatório da Comissão Eventual para o Aprofundamento da Autonomia\n\nConsiderando que a Comissão Eventual para o Aprofundamento da Autonomia foi criada pela Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 13/2021/A, de 23 de março;\n\nConsiderando que esta resolução previa no seu artigo 5.º que a Comissão apresentasse o seu Relatório no prazo de um ano a contar da sua constituição;\n\nConsiderando a necessidade da prorrogação deste prazo, de forma a dotar a Comissão de mais tempo para concluir o seu trabalho.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos regimentais aplicáveis e ao abrigo do disposto no n.º 3 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:\n\nO prazo para apresentação em Plenário do Relatório da Comissão Eventual para o Aprofundamento da Autonomia, estabelecido pela Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 13/2021/A, de 23 de março, é prorrogado por um ano.\n\n> Nota: [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 17/2023/A - Diário da República n.º 68/2023, Série I de 2023-04-05](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/17-2023-211443518) prorroga, por um ano, o prazo para apresentação em plenário do relatório da Comissão Eventual para o Aprofundamento da Autonomia."
+  }
+ }
+}

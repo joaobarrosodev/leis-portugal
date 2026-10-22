@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:258553:por
+title: Decreto Regulamentar n.º 20/92
+short_title: null
+summary: Altera o Regulamento das Alfândegas, atribuindo ao chefe de estância aduaneira a competência para autorizar a rectificação
+  do registo de liquidação, após a saída das mercadorias
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 20/92
+official_date: null
+publication_date: '1992-08-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/1992, Série I-B de 1992-08-24
+  number: '194'
+  series: I
+  supplement: null
+  pages: 4106 - 4106
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/08/194b00/41064106.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/20/1992/08/24/p/dre/pt/html
+  oj: null
+  dre: '258553'
+  dre_path: /dr/detalhe/decreto-regulamentar/20-1992-258553
+  internal: pt:dre:258553:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1992-258553
+  metadata_url: https://data.dre.pt/eli/decregul/20/1992/08/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1992-258553
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-08-24T00:00:00Z'
+integrity:
+  source_sha256: 1f3a6bdff6970f8f8aa581e1f5c20691762afb984e3eecf4c2cdde4559ae11e5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-20-258553.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alfândega
+- Definição de Competências
+- Pessoal de Chefia
+- Regulamento
+- Regulamento das Alfândegas
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 20/92
+
+de 24 de Agosto
+
+Actualmente, a rectificação dos actos de liquidação de direitos de importação ou de exportação e demais imposições cobradas pelas alfândegas, quando efectuada após a saída das mercadorias, depende, necessariamente, da organização de processo pelos serviços de conferência final, de acordo com o disposto nos n.os 5 e 6 do artigo 481.º do Regulamento das Alfândegas, na redacção que lhes foi conferida pelo [Decreto Regulamentar n.º 1/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1988-283481), de 15 de Janeiro.
+
+A experiência tem, contudo, demonstrado que muitas vezes a rectificação é motivada pela ocorrência de erro evidente na indicação dos elementos de tributação ou nas operações de cálculo do montante da dívida ou de transcrição dos elementos de tributação que constam de documentos juntos à declaração aduaneira.
+
+Pretende-se, com o presente diploma, tornar dispensável, naqueles casos, a tramitação processual prevista para os processos de cobrança a posteriori ou de dispensa do pagamento, consoante a correcção seja para mais ou para menos, passando antes a ser imediatamente resolvidos por decisão do chefe da estância aduaneira, desde que o pagamento ainda não tenha sido efectuado, por estar a decorrer o respectivo prazo de deferimento.
+
+Com tal medida libertam-se os serviços da conferência final de numerosos processos, que podem ter imediata solução na própria estância aduaneira.
+
+Assim:
+
+Ao abrigo da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. Ao Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, é aditado o artigo 494.º-A, com a seguinte redacção:
+
+###### Art. 494.º-A. Excluem-se do disposto nos artigos 481.º a 494.º as rectificações das importâncias que, após a autorização de saída das mercadorias, mas antes de efectuado o seu pagamento no respectivo prazo, se reconheça terem sido liquidadas em montante diferente do legalmente devido, procedendo-se àquelas rectificações mediante autorização do chefe da estância aduaneira, quando se verifique uma das seguintes situações:
+
+a) Erro evidente de cálculo do montante de direitos e demais imposições;
+
+b) Erro de transcrição dos elementos constantes dos documentos necessários para a determinação dos elementos de tributação que servem de base ao referido cálculo.
+
+Presidência do Conselho de Ministros, 29 de Junho de 1992.
+
+Aníbal António Cavaco Silva - Jorge Braga de Macedo.
+
+**Promulgado em 27 de Julho de 1992.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 28 de Julho de 1992.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

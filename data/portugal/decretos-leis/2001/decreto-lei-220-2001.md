@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:522864:por
+title: Decreto-Lei n.º 220/2001
+short_title: null
+summary: Atribui à Ordem dos Médicos a competência para o reconhecimento de diplomas, certificados e outros títulos que sancionam
+  a formação em medicina geral
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 220/2001
+official_date: null
+publication_date: '2001-08-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 180/2001, Série I-A de 2001-08-04
+  number: '180'
+  series: I
+  supplement: null
+  pages: 4787 - 4787
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/08/180a00/47874787.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/220/2001/08/04/p/dre/pt/html
+  oj: null
+  dre: '522864'
+  dre_path: /dr/detalhe/decreto-lei/220-2001-522864
+  internal: pt:dre:522864:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2001-522864
+  metadata_url: https://data.dre.pt/eli/dec-lei/220/2001/08/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2001-522864
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-08-04T00:00:00Z'
+integrity:
+  source_sha256: 4bb4bef50c55e96a266dcfdb1bf9fea0a68cc687e43e1c3ea2f1602fb1364cb2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-220-522864.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Médico
+- Clínica Geral
+- União Europeia
+- Direito de Estabelecimento
+- Livre Circulação de Trabalhadores
+- Nacional das Comunidades
+- Ordem dos Médicos
+- Equivalência de Diplomas
+relationships:
+- type: cites
+  target: celex:31993L0016
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/16/oj
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 220/2001
+
+de 4 de Agosto
+
+Considerando que o Decreto-Lei n.º 251/95, de 21 de Setembro, transpôs para o direito interno os artigos 36.º e 37.º da Directiva n.º [93/16/CEE](http://data.europa.eu/eli/dir/1993/16/oj?locale=pt), a qual se destina a facilitar a livre circulação dos médicos e o reconhecimento mútuo dos seus diplomas, certificados e outros títulos;
+
+Tendo em atenção que esse objectivo aconselha a simplificação de procedimentos, cumpre atribuir à Ordem dos Médicos a competência para proceder ao reconhecimento de diplomas, certificados e outros títulos que sancionam a formação em medicina geral concedidos aos nacionais dos Estados membros da União Europeia, à semelhança do que já ocorre noutras especialidades médicas.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Alteração ao Decreto-Lei n.º 251/95, de 21 de Setembro
+
+É alterado o artigo 3.º do Decreto-Lei n.º 251/95, de 21 de Setembro, o qual passa a ter a seguinte redacção:
+
+«Artigo 3.º
+
+[...]
+
+O reconhecimento da equivalência entre diplomas, certificados e outros títulos que sancionam a formação em medicina geral concedidos aos nacionais dos Estados membros da União Europeia por qualquer Estado membro e os exigidos nos artigos 1.º e 2.º é feito pela Ordem dos Médicos.»
+
+###### Artigo 2.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de Junho de 2001. - António Manuel de Oliveira Guterres - Augusto Ernesto Santos Silva - Maria Manuela de Brito Arcanjo Marques da Costa.
+
+**Promulgado em 27 de Julho de 2001.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 31 de Julho de 2001.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

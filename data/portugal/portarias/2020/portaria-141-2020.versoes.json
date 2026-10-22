@@ -1,0 +1,185 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:135844797:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-135844815",
+ "dre_path": "/dr/detalhe/portaria/141-2020-135844797",
+ "source_lastmod": "2026-02-10",
+ "versions": [
+  {
+   "date": "2020-06-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "135867217",
+    "135867218",
+    "135867219",
+    "135867220",
+    "135867221",
+    "135867222",
+    "135867223",
+    "135867224",
+    "135867225",
+    "135867226",
+    "135867227",
+    "135867228",
+    "135867229"
+   ]
+  },
+  {
+   "date": "2026-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1039107600:por",
+     "title": "Portaria n.º 63/2026/1",
+     "published": "2026-02-06",
+     "dre_path": "/dr/detalhe/portaria/63-2026-1039107600"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "135867217",
+    "135867218",
+    "135867219",
+    "135867220",
+    "135867221",
+    "135867222",
+    "135867223",
+    "1038914232",
+    "135867225",
+    "135867226",
+    "135867227",
+    "135867228",
+    "135867229",
+    "135867230"
+   ]
+  }
+ ],
+ "fragments": {
+  "135867217": {
+   "fragment_id": "135844816",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 141/2020\n\nde 16 de junho\n\nSumário: Procede à definição dos aspetos relativos às ações de formação contínua obrigatória para a revalidação do título profissional de treinador de desporto (TPTD).\n\nA Lei n.º 40/2012, de 28 de agosto, alterada pela Lei n.º 106/2019, de 6 de setembro, estabelece o regime de acesso e exercício da atividade de treinador de desporto, ao abrigo do qual foi criado o Programa Nacional de Formação de Treinadores (PNFT).\n\nNos termos do disposto nos n.os 2 e 3 do artigo 8.º da Lei n.º 40/2012, de 28 de agosto, na redação da Lei n.º 106/2019, de 6 de setembro, a suspensão do título profissional pela não frequência de ações de formação é definida por portaria do membro do Governo responsável pela área do desporto, que deverá definir as ações de formação e as áreas temáticas, as entidades formadoras elegíveis para a realização de ações de formação contínua, a correspondência das unidades de crédito com as horas de formação, o número mínimo de unidades de crédito e o procedimento para a creditação das ações de formação contínua.\n\nA presente portaria visa assegurar a simplificação e adequação à realidade desportiva da formação contínua de treinadores de desporto, que decorre de um longo processo de auscultação dos seus diversos intervenientes e que conduziu à aludida alteração do regime de acesso e exercício da atividade de treinador de desporto.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Juventude e do Desporto, ao abrigo do disposto nos n.os 2 e 3 do artigo 8.º da Lei n.º 40/2012, de 28 de agosto, alterada pela Lei n.º 106/2019, de 6 de setembro, o seguinte:"
+  },
+  "135867218": {
+   "fragment_id": "135844817",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à definição dos aspetos relativos às ações de formação contínua obrigatória para a revalidação do título profissional de treinador de desporto (TPTD), nos termos e para os efeitos do disposto nos n.os 2 e 3 do artigo 8.º da Lei n.º 40/2012, de 28 de agosto."
+  },
+  "135867219": {
+   "fragment_id": "135844818",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente portaria, entende-se por:\n\na) «B-learning», o processo de ensino-aprendizagem que combina métodos e práticas do ensino presencial com o ensino à distância;\n\nb) «E-learning», o processo de ensino-aprendizagem interativo e à distância que faz uso de plataformas web, cujos recursos didáticos são apresentados em diferentes suportes e em que, no caso de existir um formador, a comunicação com o formando se efetua de forma síncrona (em tempo real), ou assíncrona (com escolha flexível do horário de estudo);\n\nc) «Formação à distância», a formação com reduzida ou nula intervenção presencial do formador e que utiliza materiais didáticos diversos, em suporte escrito, áudio, vídeo, informático ou multimédia ou numa combinação destes, com vista não só à transmissão de conhecimentos como também à avaliação do progresso do formando;\n\nd) «Formação presencial», o processo de ensino-aprendizagem tradicional que se realiza mediante o contacto direto entre formador e formando, através de comunicação presencial, num mesmo espaço físico e no cumprimento de horários definidos;\n\ne) «Formador», o elemento que estabelece uma relação pedagógica diferenciada com os formandos, de forma a favorecer a aquisição de competências e o desenvolvimento de atitudes e comportamentos adequados ao exercício da função de treinador de desporto;\n\nf) «Tutor», o treinador de desporto que orienta, acompanha e analisa criticamente as atividades do treinador estagiário durante o processo de formação em exercício integrado nas ações de formação inicial;\n\ng) «Unidade de crédito (UC)», o correspondente a cinco horas de formação presencial ou a dez horas de formação à distância."
+  },
+  "135867220": {
+   "fragment_id": "135844819",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologia das ações de formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipologia das ações de formação contínua\n\n1 - Para efeitos de obtenção de UC, são consideradas as ações de formação contínua organizadas sob a forma presencial, à distância, em E-Learning e em B-learning, nos termos definidos na presente portaria.\n\n2 - As ações de formação contínua são realizadas segundo modalidades de formação centradas em conteúdos tais como cursos, seminários e conferências, entre outros, e segundo modalidades de formação centradas nas habilidades, capacidades e competências específicas do contexto desportivo, nomeadamente atividades práticas, clínicas e ateliês de trabalho."
+  },
+  "135867221": {
+   "fragment_id": "135844820",
+   "type": 11,
+   "heading": "Artigo 4.º — Ações de formação contínua realizadas no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ações de formação contínua realizadas no estrangeiro\n\n1 - Para efeito de atribuição de UC, são consideradas as ações de formação contínua realizadas no estrangeiro que respeitem as condições e os critérios de qualidade estabelecidos para as ações de formação contínua validadas nos termos do disposto no artigo 8.º da presente portaria.\n\n2 - Sem prejuízo do disposto no número anterior, e considerando as circunstâncias especiais em que estas ações decorrem, o pedido de validação das UC das ações de formação contínua realizadas no estrangeiro será feito por iniciativa do treinador de desporto interessado, junto do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), identificando e caraterizando, no quadro da formação de treinadores de desporto, a entidade organizadora da ação de formação em causa.\n\n3 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, aos formadores."
+  },
+  "135867222": {
+   "fragment_id": "135844821",
+   "type": 11,
+   "heading": "Artigo 5.º — Unidades de crédito para revalidação do TPTD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Unidades de crédito para revalidação do TPTD\n\n1 - Para efeitos do disposto na alínea d) do n.º 3 do artigo 8.º da Lei n.º 40/2012, de 28 de agosto, são necessárias 3 UC para a revalidação do TPTD dos graus i, ii, iii e iv.\n\n2 - As UC referidas no número anterior devem ser obtidas ao longo de um período de três anos.\n\n3 - A não obtenção das UC nos termos dos números anteriores determina a suspensão do TPTD.\n\n4 - Para efeitos da presente portaria, a conclusão da formação do ensino superior, na área do desporto ou da educação física, no período definido no n.º 2, confere automaticamente 3 UC, para efeitos de revalidação do TPTD.\n\n5 - As UC obtidas em excesso durante o período de tempo referido no n.º 2 não transitam para o período de revalidação seguinte.\n\n6 - Durante o exercício da atividade de treinador no estrangeiro, a contagem de tempo prevista no n.º 2 é suspensa, mediante a apresentação de comprovativo que ateste o referido exercício junto do IPDJ, I. P."
+  },
+  "135867223": {
+   "fragment_id": "135844822",
+   "type": 11,
+   "heading": "Artigo 6.º — Formadores e tutores de treinadores de desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formadores e tutores de treinadores de desporto\n\n1 - Os formadores e os tutores que participem no processo de formação de treinadores de desporto beneficiam de um máximo de 50 % das UC exigidas para efeito de revalidação do respetivo TPTD, sendo a sua contabilização efetuada da seguinte forma:\n\na) Os formadores beneficiam das UC atribuídas na proporção do número de horas de formação da sua responsabilidade;\n\nb) Os tutores que participem no processo de formação em exercício integrado nos cursos de formação de treinadores beneficiam, para efeitos da formação contínua, de uma equivalência de 1 UC por cada formando orientado.\n\n2 - O regime estabelecido no número anterior aplica-se aos estágios efetuados no âmbito do estabelecido nas alíneas a) e b) do n.º 1 do artigo 6.º da Lei n.º 40/2012, de 28 de agosto."
+  },
+  "135867224": {
+   "fragment_id": "135844823",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades formadoras\n\nPara efeitos do estabelecido nesta portaria, podem constituir-se como entidades formadoras:\n\na) As federações desportivas titulares do estatuto de utilidade pública desportiva;\n\nb) As instituições de ensino superior (universitário e politécnico) na área do desporto e educação física;\n\nc) A rede de entidades formadoras do Sistema Nacional de Qualificações;\n\nd) As entidades com estruturas formativas certificadas na área do desporto, nos termos da Portaria n.º 851/2010, de 6 de setembro, alterada pela Portaria n.º 208/2013, de 26 de junho;\n\ne) As associações representativas da classe dos treinadores;\n\nf) As associações territoriais representativas da modalidade desportiva, desde que autorizadas pelas respetivas federações desportivas.\n\n> Nota: [Artigo 3.º, Portaria n.º 63/2026/1 - Diário da República n.º 26/2026, Série I de 2026-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/63-2026-1039107600) Consideram-se dispensadas, para todos os efeitos legais, as taxas pagas pelas entidades referidas no n.º 2 do presente artigo até 7 de fevereiro de 2026. As entidades que tenham procedido ao pagamento das taxas no período acima referido podem solicitar ao IPDJ, I. P., o respetivo reembolso ou compensação em futura ação de formação, até 6 de agosto de 2026."
+  },
+  "135867225": {
+   "fragment_id": "135844824",
+   "type": 11,
+   "heading": "Artigo 8.º — Comunicação prévia das ações de formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comunicação prévia das ações de formação contínua\n\n1 - As entidades formadoras referidas no artigo anterior devem apresentar ao IPDJ, I. P., a comunicação prévia prevista no n.º 4 do artigo 9.º da Lei n.º 40/2012, de 28 de agosto, relativamente a cada ação de formação, até 60 dias antes da sua realização.\n\n2 - Considerando as características particulares de que se pode revestir a formação contínua de treinadores de desporto e as necessidades de formação existentes, o IPDJ, I. P., pode, excecionalmente, considerar, para efeitos de concessão de UC, ações de formação contínua pontuais organizadas por outras entidades, desde que fique demonstrada a pertinência e a qualidade das respetivas ações e verificados os requisitos previstos na presente portaria.\n\n3 - As entidades referidas no número anterior devem apresentar ao IPDJ, I. P., a comunicação prévia referida no n.º 1, até 90 dias antes da realização da ação de formação, acompanhada dos seguintes elementos:\n\na) Identificação dos objetivos da ação;\n\nb) Identificação e caraterização da população alvo da ação;\n\nc) Justificação da pertinência das temáticas e metodologias escolhidas.\n\n4 - A comunicação prévia referida nos números anteriores é efetuada através de plataforma eletrónica disponibilizada para o efeito pelo IPDJ, I. P.\n\n5 - Compete ao IPDJ, I. P., definir a correspondência das UC a cada ação de formação contínua.\n\n6 - O IPDJ, I. P. informa, por via eletrónica, as entidades formadoras do resultado da correspondência referida no número anterior até 30 dias antes da data de início da ação de formação contínua.\n\n7 - O IPDJ, I. P., em casos excecionais e devidamente fundamentados, pode validar ações de formação quando a respetiva comunicação prévia não respeite os prazos previstos nos n.os 1 e 3, desde que esta seja feita até 15 dias antes da data de início da ação de formação em causa."
+  },
+  "135867226": {
+   "fragment_id": "135844825",
+   "type": 11,
+   "heading": "Artigo 9.º — Emissão dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Emissão dos certificados\n\nA emissão dos certificados é da responsabilidade das 3entidades formadoras, devendo incluir a seguinte informação:\n\na) Relativamente aos formandos:\n\ni) Designação da ação de formação;\n\nii) Designação da entidade formadora;\n\niii) Código de ação de formação atribuído pelo IPDJ, I. P., aquando da validação da ação de formação;\n\niv) Nome do formando;\n\nv) Número de identificação civil;\n\nvi) Tipologia de ação de formação;\n\nvii) Duração da ação de formação, com indicação do número de horas de formação presencial e ou à distância;\n\nviii) Datas de início e de fim da ação de formação.\n\nb) Relativamente às atividades dos formadores:\n\ni) Designação da ação de formação;\n\nii) Designação da entidade formadora;\n\niii) Código de ação de formação atribuído pelo IPDJ, I. P., aquando da validação da ação de formação;\n\niv) Nome do formador;\n\nv) Número de identificação civil;\n\nvi) Identificação das matérias lecionadas e respetiva duração;\n\nvii) Datas de início e de fim da ação de formação."
+  },
+  "135867227": {
+   "fragment_id": "135844826",
+   "type": 11,
+   "heading": "Artigo 10.º — Registo de unidades de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Registo de unidades de crédito\n\nSem prejuízo do disposto no n.º 4 do artigo 8.º da Lei n.º 40/2012 de 28 de agosto, os treinadores de desporto devem proceder ao registo das UC necessárias à revalidação do TPTD, através de plataforma eletrónica."
+  },
+  "135867228": {
+   "fragment_id": "135844827",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\n1 - É revogada a Portaria n.º 326/2013, de 1 de novembro.\n\n2 - Sem prejuízo do disposto no número anterior, as unidades de crédito obtidas ao abrigo da Portaria n.º 326/2013, de 1 de novembro, são consideradas para efeitos de revalidação de TPTD, nos termos estabelecidos na presente portaria."
+  },
+  "135867229": {
+   "fragment_id": "135844828",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor 15 dias após a sua publicação."
+  },
+  "1038914232": {
+   "fragment_id": "135844823",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades formadoras",
+   "in_force_from": "2026-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2026/1 - Diário da República n.º 26/2026, Série I de 2026-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/63-2026-1039107600), em vigor a partir de 2026-02-07"
+   ],
+   "markdown": "###### Artigo 7.º — Entidades formadoras\n\n1 - Para efeitos da presente portaria, podem constituir-se como entidades formadoras:\n\na) As federações desportivas titulares do estatuto de utilidade pública desportiva;\n\nb) As instituições de ensino superior, universitário e politécnico, na área do desporto e da educação física;\n\nc) A rede de entidades formadoras do Sistema Nacional de Qualificações;\n\nd) As entidades com estruturas formativas certificadas na área do desporto, nos termos da Portaria n.º 851/2010, de 6 de setembro, alterada pela Portaria n.º 208/2013, de 26 de junho;\n\ne) As associações representativas da classe dos treinadores;\n\nf) As associações territoriais representativas da modalidade desportiva, desde que autorizadas pelas respetivas federações desportivas.\n\n2 - As entidades referidas nas alíneas a), e) e f) do número anterior beneficiam de isenção do pagamento das taxas previstas na alínea f) do n.º 1 do Despacho n.º 2724/2013, de 20 de fevereiro, relativas à creditação das ações de formação contínua para efeitos de revalidação do TPTD.\n\n3 - A isenção prevista no número anterior aplica-se exclusivamente às ações de formação contínua organizadas diretamente pelas entidades aí referidas, não sendo transmissível nem aplicável a entidades terceiras.\n\n> Nota: [Artigo 3.º, Portaria n.º 63/2026/1 - Diário da República n.º 26/2026, Série I de 2026-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/63-2026-1039107600) Consideram-se dispensadas, para todos os efeitos legais, as taxas pagas pelas entidades referidas no n.º 2 do presente artigo até 7 de fevereiro de 2026. As entidades que tenham procedido ao pagamento das taxas no período acima referido podem solicitar ao IPDJ, I. P., o respetivo reembolso ou compensação em futura ação de formação, até 6 de agosto de 2026.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2026/1 - Diário da República n.º 26/2026, Série I de 2026-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/63-2026-1039107600), em vigor a partir de 2026-02-07"
+  },
+  "135867230": {
+   "fragment_id": "135844829",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Juventude e do Desporto, João Paulo de Loureiro Rebelo, em 3 de junho de 2020.\n\n113294347"
+  }
+ }
+}

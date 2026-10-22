@@ -1,0 +1,180 @@
+---
+schema_version: '1.0'
+id: pt:dre:168043802:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 25/2021/M
+short_title: null
+summary: Recomenda ao Governo da República que assegure todas as condições para a criação do Fundo de Recuperação de Créditos
+  para os investidores não qualificados do BANIF, conforme previsto na Lei n.º 69/2017, de 11 de agosto, bem como o mesmo
+  tratamento a todos aqueles que se encontram lesados nos seus direitos em virtude de práticas bancárias ilícitas destas instituições
+  de crédito
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 25/2021/M
+official_date: null
+publication_date: '2021-07-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 141/2021, Série I de 2021-07-22
+  number: '141'
+  series: I
+  supplement: null
+  pages: 72 - 74
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14100/0007200074.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/25/2021/07/22/m/dre/pt/html
+  oj: null
+  dre: '168043802'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/25-2021-168043802
+  internal: pt:dre:168043802:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/25-2021-168043802
+  metadata_url: https://data.dre.pt/eli/resolalram/25/2021/07/22/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/25-2021-168043802
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-07-22T00:00:00Z'
+integrity:
+  source_sha256: 3dac8be1a464c8a13a0c831aa3b9226f1be11a4a3a7854987e488f8671dd9aa3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2021/DRE-2021-25-168043802.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Legislativa Regional
+- Valores Mobiliários
+- Banif
+- Banif-banco Internacional do Funchal
+- Sistema de Indemnização aos Investidores
+- Fraude
+- Liquidação de Valores Mobiliários
+- Assembleia Legislativa
+- Crédito
+- Produto Financeiro
+- Madeira.região Autónoma
+- Recomendação
+- Reembolso
+- Governo
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/199/2006/10/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/199/2006/10/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/69/2017/08/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/69/2017/08/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolassrep/13/2018/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/13/2018/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolassrep/44/2018/02/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/44/2018/02/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolassrep/49/2018/02/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/49/2018/02/19/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 25/2021/M
+
+Recomenda ao Governo da República que assegure todas as condições para a criação do Fundo de Recuperação de Créditos para os investidores não qualificados do BANIF, conforme previsto na [Lei n.º 69/2017](https://diariodarepublica.pt/dr/detalhe/lei/69-2017-107995232), de 11 de agosto, bem como o mesmo tratamento a todos aqueles que se encontram lesados nos seus direitos em virtude de práticas bancárias ilícitas destas instituições de crédito.
+
+A 20 de dezembro de 2015, o Banco de Portugal deliberou a aplicação de medida de Resolução ao BANIF - Banco Internacional do Funchal, S. A., na modalidade de alienação da sua atividade, com seleção dos direitos e obrigações a transmitir ao banco adquirente e dos que deviam ser transferidos para um veículo de gestão detido pelo Fundo de Resolução.
+
+A 5 de julho de 2018, foi publicado o anúncio do despacho de prosseguimento proferido nos termos do artigo 9.º do [Decreto-Lei n.º 199/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2006-545785), de 25 de outubro, nos autos de Liquidação Judicial - Instituições de Crédito e Sociedades Financeiras - que, sob o n.º 13511/18.2T8LSB, corre termos no Juiz 5 do Juízo de Comércio de Lisboa, processo no qual diversos clientes e credores apresentaram as suas reclamações de créditos, porém, sem quaisquer perspetivas de recuperação, tendo em conta o definido na medida de Resolução.
+
+Os termos específicos da medida de Resolução e os processos judiciais não acautelaram a situação de todos aqueles que apresentavam perdas significativas na sequência de práticas ilícitas, no âmbito da atividade da instituição de crédito, e que merecem proteção no sentido de poderem ver efetivamente salvaguardados os seus direitos, também patrimoniais.
+
+É nestas circunstâncias que surgem na Assembleia da República as [Resoluções n.os 13/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/13-2018-114528116), de 16 de janeiro, [44/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/44-2018-114685774), de 15 de fevereiro, e [49/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/49-2018-114701909), de 19 de fevereiro, na sequência das quais o Governo da República propôs que fosse adotado um mecanismo célere com o desígnio de reduzir as perdas sofridas pelos investidores não qualificados do BANIF.
+
+Foi assim que, no dia 22 de abril de 2019, na sede da Ordem dos Advogados, foi empossada a Comissão de Peritos Independentes para analisar a situação dos lesados e definir um perímetro de investidores não qualificados do BANIF, ou seja, a «delimitação das situações concretas em que possam ter ocorrido práticas ilícitas na comercialização de títulos de dívida emitidos ou comercializados pelo BANIF», tendo em vista a compensação de perdas por via do fundo de recuperação de créditos para os investidores não qualificados do BANIF, conforme previsto na [Lei n.º 69/2017](https://diariodarepublica.pt/dr/detalhe/lei/69-2017-107995232), de 11 de agosto. Este diploma, que regula os fundos de recuperação de créditos, representa um importante passo na proteção dos investidores não qualificados que, de alguma forma, se encontram lesados pelas práticas das instituições financeiras sujeitas a uma medida de resolução que, na sua relação comercial, tenham violado regras relativas à intermediação financeira.
+
+A 2 de dezembro de 2019, foi publicado o relatório final da Comissão de Peritos Independentes que delimita as situações concretas em que possam ter ocorrido práticas ilícitas na comercialização de títulos de dívida emitidos ou comercializados pelo BANIF. O relatório visava também instruir requerimento para constituição de um fundo de recuperação de créditos junto da Comissão do Mercado de Valores Mobiliários (CMVM): https://portal.oa.pt/media/129421/relatorio-final-da-cpi-lesados-do-banif.pdf.
+
+Deve aqui realçar-se o excelente trabalho desenvolvido por aquela Comissão e a independência e coragem dos peritos que confirmaram indícios concretos de práticas ilícitas na venda de produtos financeiros, bem como a violação de deveres de intermediação financeira em produtos que não eram adequados aos investidores a quem foram vendidos.
+
+Foram considerados elegíveis 2330 pedidos, o correspondente a 230 milhões de euros, ou seja, 77 % dos créditos reclamados.
+
+Acontece que, decorrido mais de um ano desde a data da publicação daquele relatório final, o Governo da República não assegurou, ainda, as condições para a criação do fundo de recuperação de créditos e consequente salvaguarda dos direitos e interesses patrimoniais daqueles cujos casos foram considerados elegíveis no âmbito dos trabalhos da Comissão.
+
+Depois da Comissão de Peritos Independentes ter confirmado a violação de princípios de intermediação e transparência, de deveres de lealdade e informação e de práticas comerciais desadequadas, e face aos termos da medida de Resolução, o Governo da República não pode mais adiar a resolução desta questão, no sentido da salvaguarda dos direitos de todos aqueles que confiaram na Banca e que acabaram prejudicados. O próprio envolvimento do Estado Português no Banco, especialmente desde 2011, reforça a obrigação do Governo da República assegurar todos os procedimentos no sentido da efetiva resolução desta questão.
+
+Não podemos ignorar que muitas das pessoas envolvidas vivem, hoje, uma situação dramática e de grande fragilidade financeira, de revolta, de grande angústia e sofrimento. A demora no ressarcimento dos montantes em causa, revela-se, para muitos dos lesados, como um incontornável obstáculo à digna sobrevivência, pondo em causa o inegável direito a uma subsistência com a dignidade que merecem, uma vez que, no seu percurso de vida, muitas destas pessoas, optaram por abdicar de oportunidades de realização pessoal, em benefício de um envelhecimento mais confortável, suportado por economias que foram sendo feitas durante a vida e que no passado recente lhes foram retiradas em circunstâncias ilícitas.
+
+A maioria dos lesados do BANIF, residentes na Região Autónoma da Madeira, é constituída por pequenos investidores não qualificados que, induzidos em erro, foram direcionados para aplicações financeiras em investimentos de risco, habitualmente levadas a efeito por investidores profissionais e qualificados.
+
+Cabe a um estado de direito garantir aos cidadãos a justiça e integridade e promover a confiança nos agentes económicos, pelo que deve a Assembleia Legislativa da Região Autónoma da Madeira, enquanto legítima representante do povo madeirense, pronunciar-se na defesa dos cidadãos da Região que foram lesados, requerendo ao Governo da República que assegure as condições, designadamente através de uma garantia soberana, tendo em vista a criação imediata de um fundo de compensação ou de recuperação que tenha por objetivo ressarcir, no próximo orçamento, os lesados do BANIF, dando, assim, por concluído, de forma inquestionavelmente justa, este processo de restituição dos valores.
+
+É importante lembrar que o Estado não se pode demitir da sua responsabilidade perante estas pessoas e que tem de assegurar a mesma dignidade e o mesmo tratamento a todos os lesados em iguais condições, independentemente do produto que adquiriram e de integrarem, ou não, as associações criadas.
+
+O Regulamento da Comissão de Peritos Independentes para analisar a situação dos lesados e definir um perímetro de investidores não qualificados do BANIF apenas considera elegíveis as operações relativas aos créditos emergentes ou relacionados com a subscrição de valores mobiliários representativos de dívida e aos adquiridos em qualquer um dos balcões do BANIF situados em território português ou sujeitos à lei portuguesa (vide artigo 8.º do Regulamento da Comissão de Peritos Independentes para analisar a situação dos lesados não qualificados do BANIF). E foi isso que levou a que cerca de 300 pedidos ficassem de fora e muitos outros não tenham sido apresentados por falta de pressupostos de admissão. Acontece que muitos aplicaram as suas poupanças noutro tipo de produtos, como ações, mas nas mesmas circunstâncias, pelo que deveriam também ver assegurada a sua situação.
+
+É fundamental prosseguir um caminho no sentido de tornar efetivos os direitos de todos aqueles que se encontram lesados, por forma a que possam, de uma vez por todas, ser ressarcidos dos montantes devidos.
+
+Nestas circunstâncias, a Assembleia Legislativa da Região Autónoma da Madeira, resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e ao abrigo do disposto na alínea v) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, pronunciar-se por sua iniciativa nos seguintes termos:
+
+1 - A Assembleia Legislativa da Região Autónoma da Madeira requer ao Governo da República que assegure todas as condições para a criação do Fundo de Recuperação de Créditos dos investidores não qualificados do BANIF, assim como a garantia pública necessária à sua constituição, conforme previsto na [Lei n.º 69/2017](https://diariodarepublica.pt/dr/detalhe/lei/69-2017-107995232), de 11 de agosto, designadamente com a inscrição no próximo orçamento do Estado das verbas necessárias para garantir o ressarcimento desses valores.
+
+2 - A Assembleia Legislativa da Região Autónoma da Madeira requer, ainda, ao Governo da República que assegure um tratamento idêntico a todos aqueles que se encontram lesados nos seus direitos em virtude de práticas comerciais ilícitas do BANIF, independentemente do produto que adquiriram e de integrarem, ou não, as associações criadas, fixando um regime excecional com o prazo ordinário de prescrição para o exercício dos inerentes direitos.
+
+3 - A Assembleia Legislativa da Região Autónoma da Madeira apela ao Presidente da República para que exerça a influência necessária com vista à salvaguarda dos direitos dos cidadãos envolvidos.
+
+4 - Da presente resolução deve ser dado conhecimento ao Presidente da República, ao Presidente da Assembleia da República, ao Primeiro-Ministro, ao Governador do Banco de Portugal, à ALBOA - Associação de Lesados do BANIF, à Comissão Liquidatária do BANIF e à CMVM - Comissão do Mercado de Valores Mobiliários.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 2 de junho de 2021.
+
+**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**

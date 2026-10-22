@@ -1,0 +1,883 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107995244:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-107997270",
+ "dre_path": "/dr/detalhe/portaria/254-2017-107995244",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-08-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107997298",
+    "107997299",
+    "107997300",
+    "107997301",
+    "107997302",
+    "107997303",
+    "107997304",
+    "107997305",
+    "107997306",
+    "107997307",
+    "107997308",
+    "107997309",
+    "107997310",
+    "107997311",
+    "107997312",
+    "107997313",
+    "107997314",
+    "107997315",
+    "107997316",
+    "107997317",
+    "107997318",
+    "107997319",
+    "107997320",
+    "107997321",
+    "107997322",
+    "107997323",
+    "107997324",
+    "107997325",
+    "107997326",
+    "107997327",
+    "107997328",
+    "107997329",
+    "107997330",
+    "107997331",
+    "107997332",
+    "107997333",
+    "107997334",
+    "107997335",
+    "107997336",
+    "107997337",
+    "107997338",
+    "107997339",
+    "107997340",
+    "107997341",
+    "107997342",
+    "107997343",
+    "107997344",
+    "107997345",
+    "107997346",
+    "107997347",
+    "107997348",
+    "107997349",
+    "107997350",
+    "107997351",
+    "107997352",
+    "107997353",
+    "107997354",
+    "107997355",
+    "107997356",
+    "107997357",
+    "107997358",
+    "107997359",
+    "107997360",
+    "107997361",
+    "107997362",
+    "107997363"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:108284889:por",
+     "title": "Declaração de Retificação n.º 35/2017",
+     "published": "2017-10-11",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/35-2017-108284889",
+     "date": "2017-08-12"
+    }
+   ]
+  },
+  {
+   "date": "2019-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122529723:por",
+     "title": "Portaria n.º 178/2019",
+     "published": "2019-06-07",
+     "dre_path": "/dr/detalhe/portaria/178-2019-122529723"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 32.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 51.º"
+   ],
+   "fragments": [
+    "107997298",
+    "107997299",
+    "107997300",
+    "107997301",
+    "107997302",
+    "107997303",
+    "107997304",
+    "107997305",
+    "107997306",
+    "107997307",
+    "107997308",
+    "107997309",
+    "107997310",
+    "107997311",
+    "107997312",
+    "107997313",
+    "107997314",
+    "107997315",
+    "107997316",
+    "107997317",
+    "107997318",
+    "107997319",
+    "107997320",
+    "107997321",
+    "107997322",
+    "107997323",
+    "107997324",
+    "107997325",
+    "107997326",
+    "107997327",
+    "107997328",
+    "107997329",
+    "107997330",
+    "107997331",
+    "107997332",
+    "107997333",
+    "107997334",
+    "107997335",
+    "107997336",
+    "107997337",
+    "107997338",
+    "107997339",
+    "122540590",
+    "107997341",
+    "107997342",
+    "107997343",
+    "107997344",
+    "107997345",
+    "107997346",
+    "107997347",
+    "107997348",
+    "107997349",
+    "107997350",
+    "107997351",
+    "122540591",
+    "107997353",
+    "122540592",
+    "122540593",
+    "107997356",
+    "107997357",
+    "108275934",
+    "108275935",
+    "107997360",
+    "107997361",
+    "107997362",
+    "122540594",
+    "107997364"
+   ]
+  },
+  {
+   "date": "2019-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125633668:por",
+     "title": "Portaria n.º 383/2019",
+     "published": "2019-10-24",
+     "dre_path": "/dr/detalhe/portaria/383-2019-125633668"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 51.º"
+   ],
+   "fragments": [
+    "107997298",
+    "107997299",
+    "107997300",
+    "107997301",
+    "107997302",
+    "107997303",
+    "107997304",
+    "107997305",
+    "107997306",
+    "107997307",
+    "107997308",
+    "107997309",
+    "107997310",
+    "107997311",
+    "107997312",
+    "107997313",
+    "107997314",
+    "107997315",
+    "107997316",
+    "107997317",
+    "107997318",
+    "107997319",
+    "107997320",
+    "107997321",
+    "107997322",
+    "107997323",
+    "107997324",
+    "107997325",
+    "107997326",
+    "107997327",
+    "107997328",
+    "107997329",
+    "107997330",
+    "107997331",
+    "107997332",
+    "107997333",
+    "107997334",
+    "107997335",
+    "107997336",
+    "107997337",
+    "107997338",
+    "107997339",
+    "122540590",
+    "107997341",
+    "107997342",
+    "107997343",
+    "107997344",
+    "107997345",
+    "107997346",
+    "107997347",
+    "107997348",
+    "107997349",
+    "107997350",
+    "107997351",
+    "122540591",
+    "107997353",
+    "122540592",
+    "122540593",
+    "107997356",
+    "107997357",
+    "108275934",
+    "108275935",
+    "107997360",
+    "107997361",
+    "107997362",
+    "125587195",
+    "107997364"
+   ]
+  }
+ ],
+ "fragments": {
+  "107997298": {
+   "fragment_id": "107997271",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 254/2017\n\nde 11 de agosto\n\nEntre os dias 17 e 21 de junho, um incêndio de grandes dimensões deflagrou na zona centro do país, afetando os concelhos de Castanheira de Pera, Figueiró dos Vinhos, Góis, Pampilhosa da Serra, Pedrógão Grande, Penela e Sertã, com consequências trágicas e que originou danos materiais que colocaram famílias, indivíduos e empresas em situação vulnerável.\n\nO Governo, reconhecendo a situação excecional desencadeada por este incêndio, aprovou um conjunto de medidas de caráter extraordinário através da Resolução do Conselho de Ministros (RCM) n.º 101-A/2017, de 12 de julho.\n\nA referida RCM prevê diversas medidas de apoio às populações e empresas, do âmbito de atuação do Ministério do Trabalho, Solidariedade e Segurança Social, nomeadamente, atribuição de subsídios eventuais, criação de regimes extraordinários e transitórios de isenção, dispensa e diferimento do pagamento de contribuições e medidas no âmbito do emprego e formação profissional de apoio à manutenção do emprego e ao aumento das qualificações em períodos de redução extraordinária da atividade em empresas economicamente viáveis, bem como a definição de um regime de exceção que assegure a elegibilidade e prioridade da seleção e encaminhamento nas medidas ativas de emprego dos desempregados afetados pelo incêndio.\n\nAssim, através da presente portaria, define-se e regulamenta-se a atribuição de todas estas medidas de apoio imediato às populações e empresas, do âmbito da segurança social e do emprego e formação profissional.\n\nForam ouvidos os parceiros sociais com assento na Comissão Permanente da Concertação Social.\n\nAssim:\n\nAo abrigo da alínea l) do ponto 2 da RCM n.º 101-A/2017, de 12 de julho, do artigo 100.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, do n.º 5 do artigo 305.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, e dos artigos 13.º e 14.º do Decreto-Lei n.º 13/2015, de 26 de janeiro:\n\nManda o Governo, pelos Ministros das Finanças, do Trabalho, Solidariedade e Segurança Social e da Agricultura, Florestas e Desenvolvimento Rural, o seguinte:"
+  },
+  "107997299": {
+   "fragment_id": "107997272",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto e âmbito"
+  },
+  "107997300": {
+   "fragment_id": "107997273",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - A presente portaria define e regulamenta os termos e as condições de atribuição dos apoios imediatos às populações e empresas afetadas pelo incêndio ocorrido entre os dias 17 e 21 de junho de 2017, nos concelhos de Pedrógão Grande, Castanheira de Pera, Figueiró dos Vinhos, Góis, Pampilhosa da Serra, Penela e Sertã, previstos nas subalíneas i), iv), v) e vi) da alínea l) do ponto 2 da Resolução do Conselho de Ministros (RCM) n.º 101-A/2017, de 12 de julho, nomeadamente:\n\na) Subsídios de caráter eventual, de concessão única ou de manutenção, de apoio aos indivíduos e às famílias que se encontrem em situação de carência ou perda de rendimento e que necessitem de proceder a despesas necessárias à sua subsistência ou à aquisição de bens imediatos e inadiáveis, designadamente despesas com rendas em situações de alojamento para habitação temporária;\n\nb) Regime excecional e temporário de isenção total do pagamento de contribuições à segurança social, durante um período de seis meses, prorrogável até ao máximo de igual período, mediante avaliação, para as empresas e trabalhadores independentes, cuja atividade tenha sido diretamente afetada pelo incêndio;\n\nc) Regime excecional e temporário de isenção parcial do pagamento de contribuições à segurança social de 50 % da taxa contributiva a cargo da entidade empregadora durante um período de três anos para as empresas que contratem pessoas em situação de desemprego diretamente causado pelo incêndio;\n\nd) Período de seis meses de diferimento no pagamento de contribuições para as empresas do setor do turismo indiretamente afetadas pelo incêndio;\n\ne) Apoio aos rendimentos dos trabalhadores de empresas abrangidas por medida de redução temporária do período normal de trabalho ou suspensão de contratos de trabalho, complementado com a definição de um plano de qualificação extraordinário, enquadrado no Programa Qualifica;\n\nf) Regime de exceção que assegure a elegibilidade e prioridade da seleção e encaminhamento nas medidas ativas de emprego dos desempregados afetados pelo incêndio, bem como a possibilidade de cumulação de apoios.\n\n2 - São abrangidas pelos apoios previstos na presente portaria as pessoas e empresas direta ou indiretamente afetadas pelo incêndio ocorrido nos concelhos previstos no número anterior, nos termos previstos para cada apoio específico."
+  },
+  "107997301": {
+   "fragment_id": "107997274",
+   "type": 1,
+   "heading": "Capítulo II — Subsídios de caráter eventual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Subsídios de caráter eventual"
+  },
+  "107997302": {
+   "fragment_id": "107993875",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Os subsídios de caráter eventual assumem a forma de prestações pecuniárias de natureza excecional e transitória e são destinadas a colmatar situações de carência económica ou perda de rendimentos por motivo diretamente causado pelo incêndio ocorrido nos concelhos referidos no artigo 1.º\n\n2 - São consideradas situações de carência económica ou perda de rendimentos as situações de comprovada carência de recursos que dificultem ou impossibilitem a realização de despesas necessárias à subsistência ou a aquisição de bens imediatos e inadiáveis.\n\n3 - Os subsídios de caráter eventual destinam-se a:\n\na) Despesas com rendas em situações de alojamento para habitação temporária;\n\nb) Aquisição de bens e serviços de primeira necessidade nas áreas de alimentação, vestuário, habitação, saúde, educação e transportes;\n\nc) Aquisição de instrumentos de trabalho;\n\nd) Aquisição de ajudas técnicas/produtos de apoio;\n\ne) Aquisição de outros bens e serviços ou realização de despesas considerados necessários após avaliação pelos serviços competentes da segurança social.\n\n4 - Os subsídios de caráter eventual podem ainda destinar-se ao apoio aos agricultores para aquisição de bens imediatos e inadiáveis ou para recuperação da economia de subsistência."
+  },
+  "107997303": {
+   "fragment_id": "107993876",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito Pessoal\n\n1 - Podem solicitar a atribuição do subsídio de caráter eventual os indivíduos e as famílias em comprovada situação de carência económica ou de perda de rendimentos por motivo diretamente resultante do incêndio ocorrido nos concelhos referidos no artigo 1.º e que necessitem de realizar despesas necessárias à sua subsistência ou adquirir bens imediatos e inadiáveis.\n\n2 - Podem ainda solicitar a atribuição do subsídio de caráter eventual os agricultores afetados pelo incêndio, para os fins previstos no n.º 4 do artigo anterior."
+  },
+  "107997304": {
+   "fragment_id": "107993877",
+   "type": 11,
+   "heading": "Artigo 4.º — Valor e duração do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Valor e duração do subsídio\n\n1 - O subsídio é de montante variável, a determinar casuisticamente em avaliação a efetuar pelos serviços competentes da segurança social.\n\n2 - O montante do subsídio é aferido em função do rendimento do agregado familiar e das despesas ou aquisições de bens e serviços a realizar, até ao limite do valor do Indexante de Apoios Sociais (IAS) por cada elemento do agregado familiar.\n\n3 - O limite previsto no número anterior pode ser excecionado em situações devidamente comprovadas e autorizadas pelo dirigente máximo do serviço competente da segurança social, até ao limite máximo de 2 IAS por cada elemento do agregado familiar.\n\n4 - O subsídio pode ser de atribuição única ou de manutenção até ao máximo de doze meses após a primeira concessão.\n\n5 - O valor e a duração dos subsídios destinados aos fins previstos no n.º 4 do artigo 2.º são definidos no artigo 6.º"
+  },
+  "107997305": {
+   "fragment_id": "107993878",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimentos e instrução do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimentos e instrução do processo\n\n1 - A concessão dos subsídios destinados aos fins previstos no n.º 3 do artigo 2.º depende do preenchimento de formulário de modelo próprio, disponível no portal da segurança social.\n\n2 - O formulário deve ser preenchido pelo requerente e pelos serviços da segurança social, em situação de atendimento, no qual é efetuado o diagnóstico da situação do indivíduo ou da família.\n\n3 - O serviço competente da segurança social pode solicitar os meios de prova que considere adequados à comprovação da situação do indivíduo ou da família, designadamente, quanto:\n\na) À situação de carência económica ou perda de rendimentos;\n\nb) À necessidade de realização das despesas ou aquisição de bens e serviços identificados no formulário;\n\nc) Outras situações identificadas.\n\n4 - Previamente à concessão do subsídio, deve o serviço competente da segurança social avaliar a possibilidade de enquadramento do pedido em outros instrumentos de apoio criados na sequência do incêndio ocorrido nos concelhos referidos no artigo 1.º\n\n5 - O serviço competente da segurança social deve proferir despacho decisório com base na informação constante do processo."
+  },
+  "107997306": {
+   "fragment_id": "107993879",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio aos agricultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio aos agricultores\n\n1 - Para efeitos de atribuição dos subsídios de apoio aos agricultores destinado ao fim previsto no n.º 4 do artigo 2.º, são elegíveis os prejuízos reportados à Direção Regional de Agricultura e Pescas do Centro (DRAP Centro) até 15 de julho de 2017, referentes a animais, plantações plurianuais, máquinas, equipamentos e espaços de apoio à atividade agrícola.\n\n2 - Os subsídios são de atribuição única e têm um limite máximo de 2,5 IAS.\n\n3 - A instrução do processo para a concessão destes subsídios compete à DRAP Centro.\n\n4 - Para efeitos do disposto no número anterior, a DRAP Centro certifica, através de declaração, os prejuízos elegíveis, danos e necessidades reportados pelos requerentes, bem como o respetivo valor, podendo solicitar informações e elementos complementares que considere necessários à certificação.\n\n5 - Após a certificação, a DRAP Centro remete as declarações aos serviços competentes da segurança social para pagamento."
+  },
+  "107997307": {
+   "fragment_id": "107993880",
+   "type": 11,
+   "heading": "Artigo 7.º — Pagamento do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pagamento do subsídio\n\n1 - O pagamento do subsídio pode ser efetuado diretamente em numerário, por depósito em conta bancária ou por carta-cheque.\n\n2 - O subsídio pode ser pago:\n\na) Diretamente ao beneficiário;\n\nb) Ao requerente quando não seja o beneficiário direto e mediante autorização expressa deste ou do seu representante legal;\n\nc) Diretamente ao fornecedor do bem ou do serviço, mediante autorização expressa do beneficiário ou do seu representante legal."
+  },
+  "107997308": {
+   "fragment_id": "107993881",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dever de informação\n\n1 - Os beneficiários ou requerentes dos subsídios concedidos ao abrigo do presente capítulo devem comunicar aos serviços competentes qualquer facto suscetível de influir na atribuição ou manutenção do apoio.\n\n2 - A inobservância do dever previsto no número anterior determina a reposição das importâncias indevidamente recebidas."
+  },
+  "107997309": {
+   "fragment_id": "107993882",
+   "type": 11,
+   "heading": "Artigo 9.º — Prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Prestação de contas\n\n1 - Os subsídios a que se refere o n.º 3 do artigo 2.º são objeto de adequada prestação de contas pelo beneficiário ou pelo requerente, quando aplicável, a realizar no prazo máximo de 60 dias após o pagamento.\n\n2 - A prestação de contas prevista no número anterior dever ser acompanhada dos originais dos documentos de despesa e de pagamento emitidos na sua forma legal."
+  },
+  "107997310": {
+   "fragment_id": "107993883",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação de relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação de relatório\n\n1 - Os serviços competentes da segurança social ficam obrigados a apresentar, ao Conselho Diretivo do Instituto da Segurança Social, I. P. (ISS, I. P.), relatório síntese mensal de todos os subsídios atribuídos no âmbito do presente capítulo.\n\n2 - O relatório deve conter, entre outra considerada relevante, a informação sobre a execução física e financeira dos subsídios requeridos e atribuídos."
+  },
+  "107997311": {
+   "fragment_id": "107993884",
+   "type": 11,
+   "heading": "Artigo 11.º — Acumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acumulação de apoios\n\nOs subsídios atribuídos no âmbito do presente capítulo devem ser reavaliados em função da sua acumulação com outros apoios, sempre que tal se revele necessário."
+  },
+  "107997312": {
+   "fragment_id": "107993885",
+   "type": 1,
+   "heading": "Capítulo III — Regimes excecionais e temporários do âmbito contributivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regimes excecionais e temporários do âmbito contributivo"
+  },
+  "107997313": {
+   "fragment_id": "107993886",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "107997314": {
+   "fragment_id": "107993887",
+   "type": 11,
+   "heading": "Artigo 12.º — Regimes excecionais e temporários de pagamento de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regimes excecionais e temporários de pagamento de contribuições\n\nOs regimes excecionais e temporários de pagamento de contribuições previstos no presente capítulo assumem as seguintes formas:\n\na) Isenção total do pagamento das contribuições à segurança social a cargo da entidade empregadora e dos trabalhadores independentes cuja atividade tenha sido diretamente afetada pelos incêndios, referentes às remunerações relativas aos meses de agosto de 2017 a janeiro de 2018;\n\nb) Dispensa parcial de 50 % do pagamento de contribuições à segurança social, durante um período de três anos, aplicável às entidades empregadoras que contratem trabalhadores em situação de desemprego diretamente causado pelo incêndio;\n\nc) Diferimento do pagamento das contribuições a cargo das entidades empregadoras, relativas às remunerações devidas nos meses de agosto de 2017 a janeiro de 2018."
+  },
+  "107997315": {
+   "fragment_id": "107993888",
+   "type": 11,
+   "heading": "Artigo 13.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Condições de acesso\n\n1 - São condições de acesso aos regimes excecionais e temporários previstos nas alíneas a) e c) do artigo anterior que os requerentes tenham a sua situação contributiva regularizada à data de 31 de maio de 2017 e tenham sofrido perda de rendimento ou da capacidade produtiva.\n\n2 - As condições de atribuição do regime previsto na alínea b) do artigo anterior são definidas na secção própria.\n\n3 - Em caso de regularização posterior das condições de acesso previstas nos números anteriores, o apoio pode ser concedido posteriormente, por solicitação dos requerentes, e produz efeitos a partir do mês seguinte ao da regularização, mantendo-se pelo período remanescente."
+  },
+  "107997316": {
+   "fragment_id": "107993889",
+   "type": 11,
+   "heading": "Artigo 14.º — Condições de manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Condições de manutenção\n\nA manutenção da concessão dos regimes excecionais e temporários previstos nas alíneas a) e c) do artigo 12.º depende da verificação da situação contributiva regularizada durante o período de atribuição."
+  },
+  "107997317": {
+   "fragment_id": "107993890",
+   "type": 11,
+   "heading": "Artigo 15.º — Causas de cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Causas de cessação\n\nOs regimes excecionais e temporários previstos no artigo 12.º cessam quando se verifique uma das seguintes circunstâncias:\n\na) Termo do período de concessão;\n\nb) Deixem de se verificar as condições de acesso;\n\nc) Deixe de se verificar a condição de manutenção;\n\nd) Falta de entrega, no prazo legal, das declarações de remunerações, ou falta de inclusão de quaisquer trabalhadores nas referidas declarações, quando aplicável;\n\ne) Cesse o contrato de trabalho."
+  },
+  "107997318": {
+   "fragment_id": "107993891",
+   "type": 11,
+   "heading": "Artigo 16.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Falsas declarações\n\nAs falsas declarações para obtenção das dispensas previstas no presente capítulo tornam exigíveis as contribuições relativas ao período em que tenha vigorado o regime excecional, sem prejuízo da aplicação das sanções legais previstas para o respetivo ilícito."
+  },
+  "107997319": {
+   "fragment_id": "107993892",
+   "type": 8,
+   "heading": "Secção II — Isenção do pagamento de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Isenção do pagamento de contribuições"
+  },
+  "107997320": {
+   "fragment_id": "107993893",
+   "type": 11,
+   "heading": "Artigo 17.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Âmbito de aplicação\n\n1 - A isenção do pagamento de contribuições abrange:\n\na) As contribuições da responsabilidade das entidades empregadoras;\n\nb) As contribuições devidas pelos trabalhadores independentes.\n\n2 - A isenção do pagamento reporta-se às contribuições referentes às remunerações relativas aos meses de agosto de 2017 a janeiro de 2018, nas quais se incluem, para as situações previstas na alínea a) do número anterior, os valores devidos a título de subsídios de férias e de natal."
+  },
+  "107997321": {
+   "fragment_id": "107993894",
+   "type": 11,
+   "heading": "Artigo 18.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Âmbito pessoal\n\n1 - Têm direito à isenção do pagamento de contribuições as entidades empregadoras de direito privado, enquadradas no regime geral de segurança social, e os trabalhadores independentes, que por motivo diretamente causado pelo incêndio ocorrido nos concelhos referidos no artigo 1.º tenham ficado com a sua capacidade produtiva reduzida, designadamente devido à perda de instalações, terrenos, veículos ou instrumentos de trabalho essenciais à laboração.\n\n2 - Têm ainda direito à mesma isenção os membros dos órgãos estatutários."
+  },
+  "107997322": {
+   "fragment_id": "107993895",
+   "type": 11,
+   "heading": "Artigo 19.º — Equivalência à entrada de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Equivalência à entrada de contribuições\n\nA dispensa do pagamento de contribuições relativa aos trabalhadores independentes determina o registo de remunerações por equivalência à entrada de contribuições de acordo com a base de incidência contributiva que for aplicável."
+  },
+  "107997323": {
+   "fragment_id": "107993896",
+   "type": 8,
+   "heading": "Secção III — Dispensa parcial do pagamento de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Dispensa parcial do pagamento de contribuições"
+  },
+  "107997324": {
+   "fragment_id": "107993897",
+   "type": 11,
+   "heading": "Artigo 20.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Âmbito pessoal\n\nA dispensa parcial do pagamento de contribuições aplica-se às entidades empregadoras de direito privado, enquadradas no regime geral de segurança social."
+  },
+  "107997325": {
+   "fragment_id": "107993898",
+   "type": 11,
+   "heading": "Artigo 21.º — Trabalhadores abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Trabalhadores abrangidos\n\n1 - O apoio previsto na presente secção destina-se à contratação de trabalhadores que se encontrem em situação de desemprego por motivo diretamente causado pelo incêndio ocorrido nos concelhos referidos no artigo 1.º\n\n2 - Para efeitos do disposto no número anterior, são consideradas as contratações efetuadas no período de 3 anos a contar da data de entrada em vigor da presente portaria, sem prejuízo das contratações efetuadas anteriormente e abrangidas pelo apoio previsto na presente secção."
+  },
+  "107997326": {
+   "fragment_id": "107993899",
+   "type": 11,
+   "heading": "Artigo 22.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Condições de atribuição\n\nA atribuição do direito à dispensa parcial depende da verificação cumulativa das seguintes condições:\n\na) Estar regularmente constituída e devidamente registada;\n\nb) Ter as situações contributiva e tributária regularizadas perante a Segurança Social e a Autoridade Tributária e Aduaneira;\n\nc) Não se encontrar em situação de atraso no pagamento das retribuições;\n\nd) No mês do requerimento ter um número total de trabalhadores superior à média dos trabalhadores registados nos 12 meses imediatamente anteriores."
+  },
+  "107997327": {
+   "fragment_id": "107993900",
+   "type": 11,
+   "heading": "Artigo 23.º — Efeitos da regularização dos requisitos de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Efeitos da regularização dos requisitos de atribuição\n\nNas situações de indeferimento do pedido por não cumprimento dos requisitos previstos no artigo anterior, a dispensa parcial pode ser concedida, por solicitação da entidade empregadora, a partir do mês seguinte ao da regularização e pelo remanescente do período legal previsto."
+  },
+  "107997328": {
+   "fragment_id": "107993901",
+   "type": 8,
+   "heading": "Secção IV — Diferimento do pagamento de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Diferimento do pagamento de contribuições"
+  },
+  "107997329": {
+   "fragment_id": "107993902",
+   "type": 11,
+   "heading": "Artigo 24.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Âmbito de aplicação\n\nO diferimento do pagamento de contribuições abrange as contribuições da responsabilidade das entidades empregadoras, relativas às remunerações devidas nos meses de agosto de 2017 a janeiro de 2018, nas quais se incluem os valores devidos a título de subsídios de férias e de natal."
+  },
+  "107997330": {
+   "fragment_id": "107993903",
+   "type": 11,
+   "heading": "Artigo 25.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Âmbito pessoal\n\n1 - Têm direito ao diferimento do pagamento de contribuições as entidades empregadoras de direito privado, enquadradas no regime geral de segurança social, com sede ou estabelecimento nos concelhos afetados pelo incêndio referido no artigo 1.º, cuja atividade tenha por objeto principal o setor do turismo e que por motivo indiretamente causado por aquele incêndio tenham sofrido perdas de rendimento.\n\n2 - Para efeitos do disposto no número anterior, entende-se como atividades no setor do turismo:\n\na) Alojamento local;\n\nb) Empreendimentos turísticos;\n\nc) Agentes de animação turística;\n\nd) Estabelecimentos de restauração e bebidas."
+  },
+  "107997331": {
+   "fragment_id": "107993904",
+   "type": 11,
+   "heading": "Artigo 26.º — Pagamento diferido das contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Pagamento diferido das contribuições\n\n1 - As entidades empregadoras devem proceder ao pagamento das contribuições devidas relativas ao período de diferimento a partir de abril de 2018, num prazo máximo de 12 meses, em prestações mensais e iguais.\n\n2 - O ISS, I. P., notifica as entidades empregadoras, em março de 2018, do valor total das contribuições devidas e do prazo para pagamento voluntário das mesmas.\n\n3 - As entidades empregadoras devem solicitar o acordo prestacional no prazo de 10 dias úteis após a notificação.\n\n4 - Aos acordos prestacionais previstos no presente artigo é aplicável o artigo 8.º do Decreto-Lei n.º 213/2012, de 25 de setembro, alterado pelo Decreto-Lei n.º 35-C/2016, de 30 de junho."
+  },
+  "107997332": {
+   "fragment_id": "107993905",
+   "type": 8,
+   "heading": "Secção V — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Procedimentos"
+  },
+  "107997333": {
+   "fragment_id": "107993906",
+   "type": 11,
+   "heading": "Artigo 27.º — Requerimento e meios de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Requerimento e meios de prova\n\n1 - As entidades empregadoras e os trabalhadores independentes que pretendam beneficiar dos regimes excecionais e temporários previstos no presente capítulo devem apresentar requerimento, em modelo próprio disponível no portal da segurança social, nos serviços competentes da segurança social, nos seguintes prazos:\n\na) Nas situações previstas nas alíneas a) e c) do artigo 12.º, no prazo de 30 dias após a data da entrada em vigor da presente portaria;\n\nb) Nas situações previstas na alínea b) do artigo 12.º, no prazo de 15 dias após a data de início da produção de efeitos do contrato de trabalho a que se refere o pedido ou 15 dias após a data de entrada em vigor da presente portaria, nas situações em que a contratação tenha ocorrido em data anterior a esta.\n\n2 - Caso a entrega do requerimento ocorra fora dos prazos previstos no número anterior, o apoio produz efeitos a partir do mês seguinte àquele em que o requerimento dê entrada na instituição de segurança social competente e vigora pelo remanescente do período legal previsto.\n\n3 - Os serviços de segurança social podem solicitar aos requerentes os meios de prova que considerem necessários à comprovação das situações abrangidas.\n\n4 - O ISS, I. P., deve proferir decisão sobre o requerimento no prazo máximo de 30 dias após a receção do requerimento inicial completamente instruído."
+  },
+  "107997334": {
+   "fragment_id": "107993907",
+   "type": 11,
+   "heading": "Artigo 28.º — Obrigações dos requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Obrigações dos requerentes\n\n1 - Até à decisão de deferimento, as entidades empregadoras devem manter a entrega das declarações de remunerações pela taxa normalmente aplicável aos trabalhadores abrangidos e o pagamento das respetivas quotizações.\n\n2 - Nas situações previstas na alínea b) do artigo 12.º, para além das obrigações referidas no número anterior, as entidades empregadoras devem manter o pagamento da totalidade das contribuições.\n\n3 - Quando o requerente do apoio é trabalhador independente, a entrega do requerimento suspende o pagamento das contribuições."
+  },
+  "107997335": {
+   "fragment_id": "107993908",
+   "type": 11,
+   "heading": "Artigo 29.º — Efeitos da decisão de deferimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Efeitos da decisão de deferimento\n\n1 - O deferimento do requerimento determina a concessão do regime excecional requerido desde o momento aplicável nos termos da presente portaria e, para os regimes previstos nas alíneas a) e b) do artigo 12.º, a correção oficiosa das respetivas declarações de remunerações.\n\n2 - Com a decisão de deferimento, a entidade empregadora deve manter a entrega das declarações de remunerações e o pagamento das quotizações dos trabalhadores e das contribuições não abrangidas pelo apoio."
+  },
+  "107997336": {
+   "fragment_id": "107993909",
+   "type": 11,
+   "heading": "Artigo 30.º — Efeitos da decisão de indeferimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Efeitos da decisão de indeferimento\n\nNo caso de indeferimento do requerimento, nos apoios previstos nas alíneas a) e c) do artigo 12.º, não são exigíveis juros de mora pelo valor das contribuições não pagas desde que a sua regularização ocorra no prazo de 30 dias após a data da notificação do indeferimento."
+  },
+  "107997337": {
+   "fragment_id": "107993910",
+   "type": 1,
+   "heading": "Capítulo IV — Emprego e formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Emprego e formação profissional"
+  },
+  "107997338": {
+   "fragment_id": "107993911",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "107997339": {
+   "fragment_id": "107993912",
+   "type": 11,
+   "heading": "Artigo 31.º — Programa de apoio à formação profissional e emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Programa de apoio à formação profissional e emprego\n\n1 - O programa de apoio à formação profissional e emprego, adiante designado por programa, de caráter temporário, consiste na concessão de apoios financeiros integrados nos seguintes eixos de intervenção:\n\na) Apoio ao reforço da qualificação dos trabalhadores com contratos de trabalho com redução temporária do período normal de trabalho ou suspensos nos termos do Código do Trabalho, vinculados a empresas cuja atividade tenha sido gravemente afetada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º, através da sua inserção em ações de formação profissional desenvolvidas no âmbito do Sistema Nacional de Qualificações (SNQ);\n\nb) Apoio no desenvolvimento de ações de formação profissional que proporcionem a valorização pessoal, a melhoria das competências profissionais e o reforço dos níveis de empregabilidade das pessoas em situação de desemprego diretamente causada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º ou residentes nos concelhos afetados;\n\nc) Apoio financeiro à criação de postos de trabalho para pessoas em situação de desemprego diretamente causada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º ou residentes nos concelhos afetados;\n\nd) Apoio financeiro para a realização de estágios profissionais com o objetivo de facilitar a inserção no mercado de trabalho ou a reconversão profissional de pessoas em situação de desemprego diretamente causada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º ou residentes nos concelhos afetados.\n\n2 - Os apoios previstos nas alíneas b) a d) do presente artigo têm um período de vigência de três anos."
+  },
+  "107997340": {
+   "fragment_id": "107993913",
+   "type": 11,
+   "heading": "Artigo 32.º — Execução do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Execução do programa\n\n1 - O Instituto de Emprego e da Formação Profissional, I. P. (IEFP, I. P.) é o responsável pela execução do programa e elabora os respetivos regulamentos, no prazo de 15 dias a contar da data de entrada em vigor da presente portaria.\n\n2 - O programa é coordenado pela Delegação Regional do Centro do IEFP, I. P., e é implementado pela rede de centros de emprego e formação profissional do IEFP, I. P.\n\n3 - Para efeitos de cumprimento do disposto na presente portaria e demais regulamentação aplicável, podem ser realizadas ações de acompanhamento, de verificação, de auditoria ou de inspeção por parte dos serviços do IEFP, I. P., bem como por outras entidades com competência para o efeito."
+  },
+  "107997341": {
+   "fragment_id": "107993914",
+   "type": 8,
+   "heading": "Secção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II\n\nFormação profissional no contexto de redução temporária do período normal de trabalho ou suspensão de contratos de trabalho"
+  },
+  "107997342": {
+   "fragment_id": "107993915",
+   "type": 11,
+   "heading": "Artigo 33.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Âmbito\n\nPodem aceder ao apoio previsto nesta secção as entidades empregadoras cuja atividade tenha sido gravemente afetada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º que necessitem de recorrer temporariamente à redução do período normal de trabalho ou à suspensão de contratos de trabalho para assegurar a viabilidade da empresa e a manutenção dos postos de trabalho, no quadro das disposições aplicáveis do Código do Trabalho."
+  },
+  "107997343": {
+   "fragment_id": "107993916",
+   "type": 11,
+   "heading": "Artigo 34.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Requisitos\n\nAs entidades empregadoras devem reunir os seguintes requisitos:\n\na) Demonstrar rácios de solvabilidade e autonomia financeira adequados;\n\nb) Comprovar as situações contributiva e tributária regularizadas perante a segurança social e a Autoridade Tributária e Aduaneira;\n\nc) Não ter iniciado procedimento de despedimento coletivo;\n\nd) Apresentar um plano de formação orientado para a viabilização da empresa e a manutenção dos postos de trabalho ou para o reforço da qualificação dos trabalhadores que aumente a sua empregabilidade, nos termos previstos no artigo 302.º do Código do Trabalho."
+  },
+  "107997344": {
+   "fragment_id": "107993917",
+   "type": 11,
+   "heading": "Artigo 35.º — Pedido de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Pedido de apoio\n\n1 - As entidades empregadoras acedem ao apoio previsto nesta secção mediante apresentação do plano de formação e demais requisitos referidos no artigo anterior, junto do centro de emprego e formação profissional do IEFP, I. P., localizado numa das áreas geográficas referidas no artigo 1.º\n\n2 - O IEFP, I. P., presta à entidade empregadora o apoio necessário à elaboração do plano de formação previsto no número anterior.\n\n3 - O pedido de apoio não dispensa a observância dos procedimentos de comunicações, informação, consulta e negociação com os trabalhadores e as estruturas representativas dos trabalhadores aplicáveis à medida de redução temporária do período normal de trabalho ou suspensão de contratos de trabalho, nos termos previstos no Código do Trabalho.\n\n4 - Compete ao IEFP, I. P., proceder à análise e decisão dos pedidos apresentados, no prazo de 20 dias, atendendo, nomeadamente, aos critérios de qualidade e pertinência da formação proposta, bem como a verificação das respetivas condições de acesso.\n\n5 - O IEFP, I. P., após a receção do pedido de apoio, verifica junto do ISS, I. P., se a entidade empregadora é beneficiária da medida de redução temporária do período normal de trabalho ou suspensão de contratos de trabalho."
+  },
+  "107997345": {
+   "fragment_id": "107993918",
+   "type": 11,
+   "heading": "Artigo 36.º — Contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Contrato\n\n1 - Após aprovação do plano de formação, é celebrado um contrato escrito entre o IEFP, I. P., e a entidade empregadora, nos termos do qual esta se compromete a, durante a operacionalização do programa, não efetuar qualquer despedimento, exceto por facto imputável ao trabalhador.\n\n2 - O contrato celebrado deve, ainda, prever que a entidade empregadora se compromete a:\n\na) Pagar pontualmente aos trabalhadores a compensação retributiva devida, bem como o apoio financeiro previsto no artigo 38.º;\n\nb) Pagar pontualmente as contribuições à segurança social referentes às quantias efetivamente auferidas pelos trabalhadores, quando aplicável;\n\nc) Não distribuir lucros durante a vigência do contrato, sob qualquer forma, nomeadamente a título de levantamento por conta;\n\nd) Não aumentar as remunerações dos membros dos corpos sociais durante o período em que o contrato vigore na empresa;\n\ne) Não proceder a admissão ou renovação de contrato de trabalho para preenchimento de posto de trabalho suscetível de ser assegurado por trabalhador em situação de redução ou suspensão.\n\n3 - O contrato pode ser rescindido, designadamente, nos seguintes casos:\n\na) Não cumprimento, imputável à entidade empregadora, das obrigações contratuais, nos prazos estabelecidos;\n\nb) Não cumprimento, pela entidade empregadora, das suas obrigações legais, fiscais ou contributivas;\n\nc) Prestação de falsas declarações.\n\n4 - A rescisão do contrato, por causa imputável à entidade empregadora, determina a restituição dos apoios financeiros concedidos nos termos da presente secção, bem como o pagamento de juros, à taxa legal, que serão contados desde a concessão até à rescisão do contrato.\n\n5 - Caso a restituição prevista no número anterior não seja efetuada voluntariamente, no prazo fixado pelo IEFP, I. P., é obtida a cobrança coerciva nos termos da legislação em vigor.\n\n6 - O IEFP, I. P., comunica ao ISS, I. P., a rescisão dos contratos, para efeitos de se avaliar a necessidade de a entidade empregadora restituir a compensação retributiva suportada pela segurança social."
+  },
+  "107997346": {
+   "fragment_id": "107993919",
+   "type": 11,
+   "heading": "Artigo 37.º — Formação Profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Formação Profissional\n\n1 - A formação profissional a desenvolver reveste as seguintes características:\n\na) É realizada em horário laboral e corresponde ao período normal de trabalho ou ao remanescente desse período, em caso de redução da atividade;\n\nb) Deve proporcionar a valorização pessoal dos trabalhadores, a melhoria das suas competências profissionais, sempre que possível com a elevação do respetivo nível de qualificação e contribuir para o aumento da competitividade da empresa;\n\nc) Deve corresponder às modalidades de formação previstas no âmbito do Sistema Nacional de Qualificações.\n\n2 - Os trabalhadores sinalizados para as ações de formação devem ser objeto de um processo de diagnóstico e encaminhamento desenvolvido pelos Centros Qualifica.\n\n3 - Para a operacionalização do programa são entidades formadoras os centros de emprego e formação profissional do IEFP, I. P.\n\n4 - As ações de formação que se realizem nos concelhos afetados pelo incêndio referido no artigo 1.º podem, a título excecional, ser compostas por um número mínimo de 10 formandos."
+  },
+  "107997347": {
+   "fragment_id": "107993920",
+   "type": 11,
+   "heading": "Artigo 38.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Apoio financeiro\n\n1 - À compensação retributiva prevista no n.º 3 artigo 305.º do Código do Trabalho é acrescida uma bolsa de formação no valor correspondente a 30 % do IAS suportada pelo IEFP, I. P., a atribuir, em partes iguais, ao trabalhador e à entidade empregadora, e a ser entregue a este último, nos termos do disposto no n.º 5 do referido artigo 305.º do Código do Trabalho.\n\n2 - É atribuído ainda um apoio para assegurar a alimentação e o transporte dos trabalhadores abrangidos pelo plano de formação regulado na presente secção, em moldes idênticos ao previsto na Portaria n.º 60-A/2015, de 2 de março, na sua atual redação, nos seguintes termos:\n\na) Apoio à alimentação - de montante igual ao atribuído aos trabalhadores com vínculo de trabalho em funções públicas, nos dias em que a frequência da formação seja igual ou superior a três horas;\n\nb) Apoio ao transporte - de montante máximo mensal de 15 % do IAS.\n\n3 - A atribuição do apoio concedido nos termos do presente artigo está condicionada ao cumprimento das obrigações legais e contratuais a que as partes estão sujeitas e do cumprimento do disposto na presente secção."
+  },
+  "107997348": {
+   "fragment_id": "107993921",
+   "type": 11,
+   "heading": "Artigo 39.º — Direitos e deveres do trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Direitos e deveres do trabalhador\n\n1 - Durante o período de vigência do apoio, o trabalhador:\n\na) Mantém todos os direitos que lhe são garantidos nos termos previstos no Código do Trabalho;\n\nb) Paga as contribuições para a segurança social, com base nas quantias efetivamente auferidas;\n\nc) Frequenta as ações de formação que lhe são facultadas no âmbito do presente apoio.\n\n2 - A recusa de frequência das ações de formação a que se refere a alínea c) do número anterior determina a perda do direito aos apoios previstos no âmbito do presente programa."
+  },
+  "107997349": {
+   "fragment_id": "107993922",
+   "type": 11,
+   "heading": "Artigo 40.º — Duração máxima do período do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Duração máxima do período do apoio\n\n1 - O apoio pode ter a duração de um ano, nos termos do artigo 301.º do Código do Trabalho, sem prejuízo do disposto no número seguinte.\n\n2 - A prorrogação do período de aplicação do apoio, até ao máximo de seis meses, depende da verificação do seguinte:\n\na) A apresentação de um plano de formação para um novo período de vigência do programa, fundamentando a sua necessidade e clarificando o número de trabalhadores a abranger, as ações a desenvolver, bem como a respetiva calendarização;\n\nb) A aprovação do pedido de renovação do apoio, por parte do IEFP, I. P.;\n\nc) A celebração de aditamento ao contrato, do qual conste a duração do novo período, número de trabalhadores a abranger e o número de ações a desenvolver."
+  },
+  "107997350": {
+   "fragment_id": "107993923",
+   "type": 11,
+   "heading": "Artigo 41.º — Direito aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Direito aplicável\n\nO disposto na presente secção não dispensa a observância das regras e dos procedimentos previstos no Código do Trabalho no que respeita à medida de redução temporária do período normal de trabalho ou suspensão de contratos de trabalho."
+  },
+  "107997351": {
+   "fragment_id": "107993924",
+   "type": 8,
+   "heading": "Secção III — Formação Profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Formação Profissional"
+  },
+  "107997352": {
+   "fragment_id": "107993925",
+   "type": 11,
+   "heading": "Artigo 42.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Destinatários\n\n1 - Podem aceder a ações de formação profissional a desenvolver pelos centros de emprego e formação profissional do IEFP, I. P., as pessoas em situação de desemprego diretamente causada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º ou residente nos concelhos afetados.\n\n2 - Para efeitos do disposto no número anterior, são elegíveis as ações de formação em curso à data da entrada em vigor da presente portaria."
+  },
+  "107997353": {
+   "fragment_id": "107993926",
+   "type": 11,
+   "heading": "Artigo 43.º — Ofertas formativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Ofertas formativas\n\n1 - A oferta formativa destinada aos desempregados referidos no artigo anterior é assegurada através de qualquer modalidade de formação prevista no Sistema Nacional de Qualificações, tais como, medida Vida Ativa, formação modular, ou outras que se revelem adequadas ao público em causa, podendo estar associada a um processo de reconhecimento, validação e certificação de competências.\n\n2 - Os adultos sinalizados para as ações de formação a realizar ao abrigo da presente portaria devem ser objeto de um processo de diagnóstico e encaminhamento desenvolvido pelos Centros Qualifica."
+  },
+  "107997354": {
+   "fragment_id": "107993927",
+   "type": 11,
+   "heading": "Artigo 44.º — Bolsa de formação e apoios sociais aos formandos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Bolsa de formação e apoios sociais aos formandos\n\n1 - Aos desempregados que integrem as ações de formação previstas no n.º 1 do artigo anterior é atribuída, a título excecional, para além dos apoios sociais previstos nos normativos legais em vigor relativos às modalidades de formação profissional, uma bolsa de formação até ao limite do valor do IAS, calculada nos termos definidos na Portaria n.º 60-A/2015, de 2 de março, na sua atual redação.\n\n2 - Para efeitos deste cálculo, o valor mensal da bolsa de formação é calculado em função do número de horas de formação frequentadas pelo formando, de acordo com a seguinte fórmula:\n\nVbp = (Nhf x Vb x 12 (meses))/(52 (semanas) x N (horas))\n\nem que:\n\nVbp = valor mensal da bolsa de formação a pagar;\n\nVb = valor da bolsa (100 % do IAS);\n\nNhf = número de horas de formação frequentadas pelo formando;\n\nN = duração semanal da formação aprovada.\n\n3 - As ações de formação que se realizem no âmbito da presente secção podem, a título excecional, ser compostas por um número mínimo de 10 formandos."
+  },
+  "107997355": {
+   "fragment_id": "107993928",
+   "type": 11,
+   "heading": "Artigo 45.º — Ações elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Ações elegíveis\n\n1 - As ações de formação profissional devem:\n\na) Ser realizadas pelos centros de emprego e formação profissional do IEFP, I. P., nos termos legais em vigor;\n\nb) Proporcionar a valorização pessoal dos formandos, a melhoria das suas competências profissionais e dos seus níveis de empregabilidade;\n\nc) Ser organizadas com base nas unidades de formação de curta duração (UFCD), constantes do Catálogo Nacional de Qualificações (CNQ), permitindo, sempre que possível, a elevação do nível de qualificações dos formandos;\n\nd) Articular-se, sempre que se justifique, com o desenvolvimento de processos de reconhecimento, validação e certificação de competências assegurado pelos Centros Qualifica.\n\n2 - Podem, a título excecional, ser desenvolvidas ações de formação com base em UFCD extra CNQ, desde que devidamente fundamentadas com base na relevância que apresentam para a valorização pessoal e profissional do público-alvo."
+  },
+  "107997356": {
+   "fragment_id": "107993929",
+   "type": 8,
+   "heading": "Secção IV — Emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Emprego"
+  },
+  "107997357": {
+   "fragment_id": "107993930",
+   "type": 11,
+   "heading": "Artigo 46.º — Medida Contrato-Emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Medida Contrato-Emprego\n\n1 - Às entidades empregadoras com sede ou estabelecimento nos concelhos afetados pelo incêndio referido no artigo 1.º é aplicável o regime definido para a medida Contrato-Emprego, aprovada pela Portaria n.º 34/2017, de 18 de janeiro, com as seguintes adaptações:\n\na) Majoração da pontuação no âmbito da aplicação dos critérios de análise, nos termos a definir pelo Conselho Diretivo do IEFP, I. P.;\n\nb) Majoração em 20 % dos apoios financeiros previstos no n.º 1 do artigo 10.º da Portaria n.º 34/2017, de 18 de janeiro, cumuláveis com as majorações previstas nos n.os 2, 3 e 5 do mesmo artigo;\n\nc) Elegibilidade dos contratos de trabalho celebrados com pessoas em situação de desemprego diretamente causada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º ou residentes nos concelhos afetados, inscritos no IEFP, I. P.;\n\nd) Não é aplicável o disposto no n.º 6 do artigo 6.º da Portaria n.º 34/2017, de 18 de janeiro;\n\ne) É permitida a cumulação de apoios.\n\n2 - A aplicação do disposto no número anterior depende da verificação dos requisitos seguintes:\n\na) Criação de postos de trabalho localizados nos concelhos referidos no artigo 1.º;\n\nb) Celebração de contratos de trabalho com pessoas em situação de desemprego diretamente causada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º ou residentes nos concelhos afetados, inscritas no IEFP, I. P., independentemente do preenchimento das condições previstas no n.º 2 do artigo 6.º da Portaria n.º 34/2017, de 18 de janeiro."
+  },
+  "107997358": {
+   "fragment_id": "107993931",
+   "type": 11,
+   "heading": "Artigo 47.º — Medida Estágios Profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Medida Estágios Profissionais\n\n1 - Às entidades empregadoras com sede ou estabelecimento nos concelhos afetados pelo incêndio referido no artigo 1.º é aplicável o regime definido para a medida Estágios Profissionais, aprovada pela Portaria n.º 131/2017, de 7 de abril, com as seguintes adaptações:\n\na) Majoração da pontuação no âmbito da aplicação dos critérios de análise, nos termos a definir pelo Conselho Diretivo do IEFP, I. P.;\n\nb) Comparticipação financeira do IEFP, I. P., de 90 % da bolsa de estágio, prevista nos n.os 1 e 2 do artigo 15.º da Portaria n.º 131/2017, de 7 de abril, salvo se da majoração prevista no n.º 3 do mesmo artigo resultar percentagem superior;\n\nc) Pagamento de transporte, nos termos do disposto no artigo 14.º da Portaria n.º 131/2017, de 7 de abril, sendo os custos comparticipados pelo IEFP, I. P.;\n\nd) Majoração em 20 % do prémio ao emprego, previsto no n.º 1 do artigo 17.º da Portaria n.º 131/2017, de 7 de abril, com possibilidade de cumulação com os apoios previstos no capítulo IV da presente portaria.\n\n2 - A aplicação do disposto no número anterior depende da verificação dos requisitos seguintes:\n\na) Projeto de estágio a realizar nos concelhos afetados pelo incêndio referido no artigo 1.º;\n\nb) Contrato de estágio a celebrar com pessoas em situação de desemprego diretamente causada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º ou residentes nos concelhos afetados, inscritas no IEFP, I. P., independentemente do preenchimento das condições previstas no n.º 1 do artigo 3.º da Portaria n.º 131/2017, de 7 de abril.\n\n3 - O disposto no presente artigo é aplicável aos estágios de inserção para pessoas com deficiência e incapacidade, previstos no artigo 41.º do Decreto-Lei n.º 290/2009, de 12 de outubro, alterado pela Lei n.º 24/2011, de 16 de junho, e pelos Decretos-Leis n.os 131/2013, de 11 de setembro, e 108/2015, de 17 de junho."
+  },
+  "107997359": {
+   "fragment_id": "107993932",
+   "type": 11,
+   "heading": "Artigo 48.º — Custos unitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Custos unitários\n\nA comparticipação financeira do IEFP, I. P., prevista na alínea b) do n.º 1 do artigo anterior, é efetuada com base na modalidade de custos unitários, por mês e por destinatário, nos termos a definir por despacho do membro do Governo responsável pela área do emprego."
+  },
+  "107997360": {
+   "fragment_id": "107993933",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "107997361": {
+   "fragment_id": "107993934",
+   "type": 11,
+   "heading": "Artigo 49.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Financiamento\n\n1 - O financiamento dos subsídios de caráter eventual destinados aos fins previstos no n.º 3 do artigo 2.º é efetuado nos termos da Lei de Bases da Segurança Social e do Decreto-Lei n.º 367/2007, de 2 de novembro, alterado pelas Leis n.os 3-B/2010, de 28 de abril, e 55-A/2010, de 31 de dezembro, que estabelece o quadro genérico do financiamento do sistema de segurança social.\n\n2 - O financiamento dos subsídios de caráter eventual destinados aos fins previstos no n.º 4 do artigo 2.º é efetuado através das receitas dos jogos sociais consignadas a despesas da área da ação social, nos termos do Decreto-Lei n.º 56/2006, de 15 de março, alterado pelos Decretos-Leis n.os 44/2011, de 24 de março, e 106/2011, de 21 de outubro, que altera a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa, e do Decreto-Lei n.º 367/2007, de 2 de novembro, alterado pelas Leis n.os 3-B/2010, de 28 de abril, e 55-A/2010, de 31 de dezembro, que estabelece o quadro genérico do financiamento do sistema de segurança social.\n\n3 - O financiamento dos regimes excecionais e transitórios de pagamento de contribuições previstos no capítulo III é efetuado por transferências do Orçamento do Estado, nos termos do n.º 3 do artigo 100.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n4 - O programa previsto no capítulo IV é passível de financiamento comunitário, sendo-lhe aplicável as respetivas disposições do direito comunitário e nacional."
+  },
+  "107997362": {
+   "fragment_id": "107993935",
+   "type": 11,
+   "heading": "Artigo 50.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Avaliação\n\nEm dezembro de 2017 é avaliada a necessidade de prorrogação da medida de isenção do pagamento de contribuições prevista na secção II do capítulo III."
+  },
+  "107997363": {
+   "fragment_id": "107993936",
+   "type": 11,
+   "heading": "Artigo 51.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 1 de agosto de 2017, sem prejuízo do disposto nos números seguintes.\n\n2 - O disposto no capítulo II aplica-se aos subsídios de caráter eventual atribuídos no âmbito do incêndio ocorrido nos concelhos referidos no artigo 1.º no período anterior à entrada em vigor da presente portaria.\n\n3 - O disposto na secção III do capítulo III aplica-se às contratações de pessoas que se encontrem em situação de desemprego por motivo diretamente causado pelo incêndio ocorrido nos concelhos referidos no artigo 1.º anteriores à entrada em vigor da presente portaria.\n\n4 - O disposto nas secções III e IV do capítulo IV aplica-se às candidaturas apresentadas após a entrada em vigor da presente portaria, bem como às candidaturas apresentadas antes daquela data e ainda não decididas."
+  },
+  "122540590": {
+   "fragment_id": "107993913",
+   "type": 11,
+   "heading": "Artigo 32.º — Execução do programa",
+   "in_force_from": "2019-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+   ],
+   "markdown": "###### Artigo 32.º — Execução do programa\n\n1 - O Instituto de Emprego e da Formação Profissional, I. P. (IEFP, I. P.) é o responsável pela execução do programa e elabora os respetivos regulamentos, no prazo de 15 dias a contar da data de entrada em vigor da presente portaria.\n\n2 - O programa é coordenado pela Delegação Regional do Centro do IEFP, I. P., e é implementado nos termos previstos nas secções ii, iii e iv do presente capítulo.\n\n3 - A responsabilidade pelo desenvolvimento das ações de formação profissional previstas na secção iii do presente capítulo deve ser articulada entre as entidades previstas na alínea a) do n.º 1 do artigo 45.º\n\n4 - Para efeitos de cumprimento do disposto na presente portaria e demais regulamentação aplicável, podem ser realizadas ações de acompanhamento, de verificação, de auditoria ou de inspeção por parte dos serviços do IEFP, I. P., bem como por outras entidades com competência para o efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+  },
+  "122540591": {
+   "fragment_id": "107993925",
+   "type": 11,
+   "heading": "Artigo 42.º — Destinatários",
+   "in_force_from": "2019-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+   ],
+   "markdown": "###### Artigo 42.º — Destinatários\n\n1 - Podem aceder a ações de formação profissional as pessoas em situação de desemprego diretamente causada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º ou residentes nos concelhos afetados.\n\n2 - Para efeitos do disposto no número anterior, são elegíveis as ações de formação em curso à data da entrada em vigor da presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+  },
+  "122540592": {
+   "fragment_id": "107993927",
+   "type": 11,
+   "heading": "Artigo 44.º — Bolsa de formação e apoios sociais aos formandos",
+   "in_force_from": "2019-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+   ],
+   "markdown": "###### Artigo 44.º — Bolsa de formação e apoios sociais aos formandos\n\n1 - Aos desempregados que integrem as ações de formação previstas no n.º 1 do artigo anterior é atribuída, a título excecional, para além dos apoios sociais previstos nos normativos legais em vigor relativos às modalidades de formação profissional, uma bolsa de formação até ao limite do valor do IAS, calculada nos termos definidos na Portaria n.º 60-A/2015, de 2 de março, na sua atual redação.\n\n2 - Para os efeitos deste cálculo, o valor mensal da bolsa de formação é calculado em função do número de horas de formação frequentadas pelo formando, de acordo com a seguinte fórmula:\n\nVbp = (Nhf x Vb x 12 (meses))/(52 (semanas) x 30 (horas))\n\nem que:\n\nVbp = valor mensal da bolsa de formação a pagar;\n\nVb = valor da bolsa (100 % do IAS);\n\nNhf = número de horas de formação frequentadas pelo formando.\n\n3 - A constituição dos grupos de formação deve obedecer às normas previstas na regulamentação específica de cada uma das modalidades de formação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+  },
+  "122540593": {
+   "fragment_id": "107993928",
+   "type": 11,
+   "heading": "Artigo 45.º — Ações elegíveis",
+   "in_force_from": "2019-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+   ],
+   "markdown": "###### Artigo 45.º — Ações elegíveis\n\n1 - As ações de formação profissional devem:\n\na) Ser realizadas pelos centros de emprego e formação profissional do IEFP, I. P., pelos centros de formação profissional de gestão participada do IEFP, I. P., e por entidades formadoras certificadas que desenvolvam modalidades de qualificação no âmbito do Sistema Nacional de Qualificações, financiadas pelo IEFP, I. P.;\n\nb) Proporcionar a valorização pessoal dos formandos, a melhoria das suas competências profissionais e dos seus níveis de empregabilidade;\n\nc) Ser organizadas com base nas unidades de formação de curta duração (UFCD), constantes do Catálogo Nacional de Qualificações (CNQ), permitindo, sempre que possível, a elevação do nível de qualificações dos formandos;\n\nd) Articular-se, sempre que se justifique, com o desenvolvimento de processos de reconhecimento, validação e certificação de competências assegurado pelos Centros Qualifica.\n\n2 - Podem, a título excecional, ser desenvolvidas ações de formação com base em UFCD extra CNQ, desde que devidamente fundamentadas com base na relevância que apresentam para a valorização pessoal e profissional do público-alvo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+  },
+  "108275934": {
+   "fragment_id": "107993931",
+   "type": 11,
+   "heading": "Artigo 47.º — Medida Estágios Profissionais",
+   "in_force_from": "2017-08-12",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 35/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/35-2017-108284889), em vigor a partir de 2017-08-12, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 47.º — Medida Estágios Profissionais\n\n1 - Às entidades empregadoras com sede ou estabelecimento nos concelhos afetados pelo incêndio referido no artigo 1.º é aplicável o regime definido para a medida Estágios Profissionais, aprovada pela Portaria n.º 131/2017, de 7 de abril, com as seguintes adaptações:\n\na) Majoração da pontuação no âmbito da aplicação dos critérios de análise, nos termos a definir pelo Conselho Diretivo do IEFP, I. P.;\n\nb) Comparticipação financeira do IEFP, I. P., de 90 % da bolsa de estágio, prevista nos n.os 1 e 2 do artigo 15.º da Portaria n.º 131/2017, de 7 de abril, salvo se da majoração prevista no n.º 3 do mesmo artigo resultar percentagem superior;\n\nc) Pagamento de transporte, nos termos do disposto no artigo 14.º da Portaria n.º 131/2017, de 7 de abril, sendo os custos comparticipados pelo IEFP, I. P.;\n\nd) Majoração em 20 % do prémio ao emprego, previsto no n.º 1 do artigo 17.º da Portaria n.º 131/2017, de 7 de abril, com possibilidade de cumulação com os apoios previstos no capítulo III da presente portaria.\n\n2 - A aplicação do disposto no número anterior depende da verificação dos requisitos seguintes:\n\na) Projeto de estágio a realizar nos concelhos afetados pelo incêndio referido no artigo 1.º;\n\nb) Contrato de estágio a celebrar com pessoas em situação de desemprego diretamente causada pelo incêndio ocorrido nos concelhos referidos no artigo 1.º ou residentes nos concelhos afetados, inscritas no IEFP, I. P., independentemente do preenchimento das condições previstas no n.º 1 do artigo 3.º da Portaria n.º 131/2017, de 7 de abril.\n\n3 - O disposto no presente artigo é aplicável aos estágios de inserção para pessoas com deficiência e incapacidade, previstos no artigo 41.º do Decreto-Lei n.º 290/2009, de 12 de outubro, alterado pela Lei n.º 24/2011, de 16 de junho, e pelos Decretos-Leis n.os 131/2013, de 11 de setembro, e 108/2015, de 17 de junho.\n\n> Retificado pelo/a [Declaração de Retificação n.º 35/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/35-2017-108284889), em vigor a partir de 2017-08-12, produz efeitos a partir de 2017-08-01"
+  },
+  "108275935": {
+   "fragment_id": "107993932",
+   "type": 11,
+   "heading": "Artigo 48.º — Custos unitários",
+   "in_force_from": "2017-08-12",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 35/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/35-2017-108284889), em vigor a partir de 2017-08-12, produz efeitos a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 48.º — Custos unitários\n\nA comparticipação financeira do IEFP, I. P., prevista nas alíneas b) e c) do n.º 1 do artigo anterior, é efetuada com base na modalidade de custos unitários, por mês e por destinatário, nos termos a definir por despacho do membro do Governo responsável pela área do emprego.\n\n> Retificado pelo/a [Declaração de Retificação n.º 35/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/35-2017-108284889), em vigor a partir de 2017-08-12, produz efeitos a partir de 2017-08-01"
+  },
+  "122540594": {
+   "fragment_id": "107993936",
+   "type": 11,
+   "heading": "Artigo 51.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2019-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+   ],
+   "markdown": "###### Artigo 51.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 1 de agosto de 2017, sem prejuízo do disposto nos números seguintes.\n\n2 - O disposto no capítulo II aplica-se aos subsídios de caráter eventual atribuídos no âmbito do incêndio ocorrido nos concelhos referidos no artigo 1.º no período anterior à entrada em vigor da presente portaria.\n\n3 - O disposto na secção III do capítulo III aplica-se às contratações de pessoas que se encontrem em situação de desemprego por motivo diretamente causado pelo incêndio ocorrido nos concelhos referidos no artigo 1.º anteriores à entrada em vigor da presente portaria.\n\n4 - Para efeitos do disposto no n.º 2 do artigo 31.º, o regime da secção iv do capítulo iv aplica-se às candidaturas apresentadas entre a data de entrada em vigor da presente portaria e o final de julho de 2019, até à conclusão dos respetivos processos.\n\n5 - O disposto na secção iv do capítulo iv aplica-se ainda às candidaturas apresentadas antes da data de entrada em vigor da presente portaria e ainda não decididas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+  },
+  "107997364": {
+   "fragment_id": "107993937",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 8 de agosto de 2017. - O Ministro do Trabalho, Solidariedade e Segurança Social, José António Fonseca Vieira da Silva, em 9 de agosto de 2017. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 9 de agosto de 2017."
+  },
+  "125587195": {
+   "fragment_id": "107993936",
+   "type": 11,
+   "heading": "Artigo 51.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 383/2019 - Diário da República n.º 205/2019, Série I de 2019-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/383-2019-125633668), em vigor a partir de 2019-10-25, produz efeitos a partir de 2017-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+   ],
+   "markdown": "###### Artigo 51.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 1 de agosto de 2017, sem prejuízo do disposto nos números seguintes.\n\n2 - O disposto no capítulo II aplica-se aos subsídios de caráter eventual atribuídos no âmbito do incêndio ocorrido nos concelhos referidos no artigo 1.º no período anterior à entrada em vigor da presente portaria.\n\n3 - O disposto na secção III do capítulo III aplica-se às contratações de pessoas que se encontrem em situação de desemprego por motivo diretamente causado pelo incêndio ocorrido nos concelhos referidos no artigo 1.º anteriores à entrada em vigor da presente portaria.\n\n4 - Para efeitos do disposto no n.º 2 do artigo 31.º, o regime da secção IV do capítulo IV aplica-se às candidaturas apresentadas entre a data de entrada em vigor da presente portaria e o final de julho de 2020, até à conclusão dos respetivos processos.\n\n5 - O disposto na secção iv do capítulo iv aplica-se ainda às candidaturas apresentadas antes da data de entrada em vigor da presente portaria e ainda não decididas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 383/2019 - Diário da República n.º 205/2019, Série I de 2019-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/383-2019-125633668), em vigor a partir de 2019-10-25, produz efeitos a partir de 2017-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2019 - Diário da República n.º 110/2019, Série I de 2019-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/178-2019-122529723), em vigor a partir de 2019-06-08"
+  }
+ }
+}

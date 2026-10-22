@@ -1,0 +1,271 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308760:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-174634547",
+ "dre_path": "/dr/detalhe/portaria/1188-2010-308760",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-11-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174683217",
+    "174683218",
+    "174683219",
+    "174683220",
+    "174683221",
+    "174683222",
+    "174683223",
+    "174683225",
+    "174683226",
+    "174683227",
+    "174683228",
+    "174683229"
+   ]
+  },
+  {
+   "date": "2011-03-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:279441:por",
+     "title": "Portaria n.º 97/2011",
+     "published": "2011-03-09",
+     "dre_path": "/dr/detalhe/portaria/97-2011-279441"
+    }
+   ],
+   "changes": [
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "174683217",
+    "174683218",
+    "174683219",
+    "174683220",
+    "174683221",
+    "174683222",
+    "174683223",
+    "174683224",
+    "174683225",
+    "174683226",
+    "174683227",
+    "174683257",
+    "174683229"
+   ]
+  },
+  {
+   "date": "2021-11-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174634477:por",
+     "title": "Portaria n.º 259/2021",
+     "published": "2021-11-19",
+     "dre_path": "/dr/detalhe/portaria/259-2021-174634477"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Altera Anexo V"
+   ],
+   "fragments": [
+    "174683217",
+    "174683269",
+    "174683219",
+    "174683220",
+    "174683221",
+    "174683222",
+    "174683223",
+    "174683224",
+    "174683270",
+    "174683271",
+    "174683272",
+    "174683273",
+    "174683274"
+   ]
+  }
+ ],
+ "fragments": {
+  "174683217": {
+   "fragment_id": "174634548",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1188/2010\n\nde 17 de Novembro\n\nO Decreto-Lei n.º 382/99, de 22 de Setembro, estabelece as normas e os critérios para a delimitação de perímetros de protecção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de protecção visam prevenir, reduzir e controlar a poluição das águas subterrâneas (por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens), potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a protecção dos sistemas de abastecimento de água.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano e a delimitação dos respectivos perímetros de protecção estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de Setembro, bem como ao disposto no artigo 37.º da Lei da Água (Lei n.º 58/2005, de 29 de Dezembro) e na Portaria n.º 702/2009, de 6 de Julho.\n\nNa sequência de uma proposta da Câmara Municipal de Alcochete, a Administração da Região Hidrográfica (ARH) do Tejo, I. P., ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de Setembro, elaborou uma proposta de delimitação e respectivos condicionamentos dos perímetros de protecção para as captações nos pólos de captação de Alcochete, Samouco e Fonte da Senhora - Passil, no concelho de Alcochete.\n\nCompete, agora, ao Governo aprovar as referidas zonas de protecção.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 226-A/2007, de 31 de Maio, manda o Governo, pela Ministra do Ambiente e do Ordenamento do Território, o seguinte:"
+  },
+  "174683218": {
+   "fragment_id": "174634549",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação de perímetros de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Delimitação de perímetros de protecção\n\n1 - É aprovada a delimitação dos perímetros de protecção das captações designadas por:\n\na) JK3, PS5 e FR1 do pólo de captação de Alcochete;\n\nb) CBR2 e FR2 do pólo de captação do Samouco;\n\nc) CBR1 e FR3 do pólo de captação de Fonte da Senhora - Passil;\n\nlocalizadas no concelho de Alcochete, nos termos dos artigos seguintes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo i da presente portaria, que dela faz parte integrante."
+  },
+  "174683219": {
+   "fragment_id": "174634550",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de protecção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de protecção imediata\n\n1 - A zona de protecção imediata respeitante aos perímetros de protecção mencionados no artigo anterior corresponde à área da superfície do terreno envolvente à captação delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo ii da presente portaria, que dela faz parte integrante.\n\n2 - É interdita qualquer instalação ou actividade na zona de protecção imediata a que se refere o número anterior, com excepção das que têm por objectivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro."
+  },
+  "174683220": {
+   "fragment_id": "174634551",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de protecção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zona de protecção intermédia\n\n1 - A zona de protecção intermédia respeitante aos perímetros de protecção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo iii da presente portaria, que dela faz parte integrante.\n\n2 - Na zona de protecção intermédia a que se refere o número anterior são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro, as seguintes actividades e instalações:\n\na) Infra-estruturas aeronáuticas;\n\nb) Oficinas e estações de serviço de automóveis;\n\nc) Depósitos de materiais radioactivos, de hidrocarbonetos e de resíduos perigosos;\n\nd) Postos de abastecimento e áreas de serviço de combustíveis;\n\ne) Transporte de hidrocarbonetos, de materiais radioactivos ou de outras substâncias perigosas;\n\nf) Canalizações de produtos tóxicos;\n\ng) Lixeiras e aterros sanitários, incluindo quaisquer tipo de aterros para resíduos perigosos, não perigosos ou inertes;\n\nh) A instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;\n\ni) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias susceptíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desactivadas;\n\nj) Depósitos de sucata;\n\nk) Pedreiras e explorações mineiras, bem como quaisquer indústrias extractivas;\n\nl) Unidades industriais susceptíveis de produzir substâncias poluentes que, de forma directa ou indirecta, possam vir a alterar a qualidade da água subterrânea;\n\nm) Instalação de novos cemitérios.\n\n3 - Na zona de protecção intermédia a que se refere o n.º 1 são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro, ficando sujeitas a parecer prévio vinculativo da ARH do Tejo, I. P., as seguintes actividades e instalações:\n\na) A construção de edificações, as quais podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;\n\nb) As fossas de esgoto, as quais podem ser permitidas desde que respeitem rigorosos critérios de estanquicidade, devendo as fossas existentes ser substituídas e ou reconvertidas em sistemas estanques e, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, devem ser desactivadas todas as fossas com a efectivação da ligação predial ao sistema de saneamento;\n\nc) As estradas e caminhos-de-ferro, os quais podem ser permitidos desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água subterrânea;\n\nd) Os espaços destinados a práticas desportivas e a instalação de parques de campismo, os quais podem ser permitidos desde que as instalações e ou actividades não promovam a contaminação da água subterrânea e seja assegurada a ligação das infra-estruturas de saneamento à rede municipal;\n\ne) Os usos agrícolas e pecuários, os quais apenas são permitidos desde que não causem problemas de poluição da água subterrânea, nomeadamente através da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis, ou através da rejeição de efluentes no solo;\n\nf) A pastorícia, a qual pode ser desenvolvida desde que não cause problemas de poluição da água subterrânea, nomeadamente através do pastoreio intensivo."
+  },
+  "174683221": {
+   "fragment_id": "174634552",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de protecção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zona de protecção alargada\n\n1 - A zona de protecção alargada respeitante aos perímetros de protecção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo iv da presente portaria, que dela faz parte integrante.\n\n2 - Na zona de protecção alargada referida no número anterior são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro, as seguintes actividades e instalações:\n\na) Transporte de hidrocarbonetos, de materiais radioac-tivos ou de outras substâncias perigosas;\n\nb) Depósitos de materiais radioactivos, de hidrocarbonetos e de resíduos perigosos;\n\nc) Canalizações de produtos tóxicos;\n\nd) Refinarias e indústrias químicas;\n\ne) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\nf) Depósitos de sucata;\n\ng) Pedreiras e explorações mineiras, bem como quaisquer indústrias extractivas;\n\nh) Instalação de novos cemitérios;\n\ni) A instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo.\n\n3 - Na zona de protecção alargada referida no n.º 1 são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro, ficando sujeitas a parecer prévio vinculativo da ARH do Tejo, I. P., as seguintes actividades e instalações:\n\na) A instalação de colectores de águas residuais e estações de tratamento de águas residuais, os quais podem ser permitidos desde que respeitem critérios rigorosos de estanquicidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\nb) As fossas de esgoto, as quais podem ser permitidas desde que respeitem rigorosos critérios de estanquicidade, devendo as fossas existentes ser substituídas e ou reconvertidas em sistemas estanques e, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, devem ser desactivadas todas as fossas com a efectivação da ligação predial ao sistema de saneamento;\n\nc) As oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis e infra-estruturas aeronáuticas são permitidas desde que seja garantida a impermeabilização do solo sob as zonas afectas à manutenção, reparação e circulação de automóveis e aeronaves, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer caso, ser garantida a recolha e ou tratamento de efluentes;\n\nd) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias susceptíveis de se infiltrarem, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desactivadas.\n\n4 - Na zona de protecção alargada referida no n.º 1 deve ser feita, pelo município competente, a monitorização da qualidade da água nos cemitérios existentes à data de entrada em vigor da presente portaria, devendo os resultados dessa monitorização ser comunicados à ARH do Tejo, I. P."
+  },
+  "174683222": {
+   "fragment_id": "174634553",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação das zonas de protecção\n\nAs zonas de protecção intermédia e alargada, respeitantes aos perímetros de protecção mencionados no artigo 1.º, encontram-se representadas nos quadros do anexo v da presente portaria, que dela faz parte integrante."
+  },
+  "174683223": {
+   "fragment_id": "174634554",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "174683225": {
+   "fragment_id": "174634556",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(ver documento original)"
+  },
+  "174683226": {
+   "fragment_id": "174634557",
+   "type": 14,
+   "heading": "Anexo II — Zona de protecção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Zona de protecção imediata\n\nPólo de captação de Alcochete\n\nCaptação JK3\n\n(ver documento original)\n\nCaptação PS5\n\n(ver documento original)\n\nCaptação FR1\n\n(ver documento original)\n\nPólo de captação do Samouco\n\nCaptação CBR2\n\n(ver documento original)\n\nCaptação FR2\n\n(ver documento original)\n\nPólo de captação de Fonte da Senhora - Passil\n\nCaptação CBR1\n\n(ver documento original)\n\nCaptação FR3\n\n(ver documento original)"
+  },
+  "174683227": {
+   "fragment_id": "174634558",
+   "type": 14,
+   "heading": "Anexo III — Zona de protecção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Zona de protecção intermédia\n\nPólo de captação de Alcochete\n\nCaptação JK3\n\n(ver documento original)\n\nCaptação PS5\n\n(ver documento original)\n\nCaptação FR1\n\n(ver documento original)\n\nPólo de captação do Samouco\n\nCaptações CBR2 e FR2\n\n(ver documento original)\n\nPólo de captação de Fonte da Senhora - Passil\n\nCaptações CBR1 e FR3\n\n(ver documento original)"
+  },
+  "174683228": {
+   "fragment_id": "174634559",
+   "type": 14,
+   "heading": "Anexo IV — Zona de protecção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Zona de protecção alargada\n\nPólo de captação de Alcochete\n\nCaptações JK3, PS5 e FR1\n\n(ver documento original)\n\nPólo de captação do Samouco\n\nCaptações CBR2 e FR2\n\n(ver documento original)\n\nPólo de captação de Fonte da Senhora - Passil\n\nCaptações CBR1 e FR3\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central)."
+  },
+  "174683229": {
+   "fragment_id": "174634560",
+   "type": 14,
+   "heading": "Anexo V — Planta de localização das zonas de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Planta de localização das zonas de protecção\n\nExtracto da Carta Militar de Portugal.\n\nSérie M888 - 1/25.000 (IGeoE)\n\nPólo de captação de Alcochete\n\n(ver documento original)\n\nPólo de captação do Samouco\n\n(ver documento original)\n\nPólo de captação de Fonte da Senhora - Passil\n\n(ver documento original)"
+  },
+  "174683224": {
+   "fragment_id": "174634555",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 5 de Novembro de 2010."
+  },
+  "174683257": {
+   "fragment_id": "174634559",
+   "type": 14,
+   "heading": "Anexo IV — Zona de protecção alargada",
+   "in_force_from": "2011-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 97/2011 - Diário da República n.º 48/2011, Série I de 2011-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/97-2011-279441), em vigor a partir de 2011-03-10"
+   ],
+   "markdown": "## Anexo IV — Zona de protecção alargada\n\nPólo de captação do Samouco\n\nCaptações CBR2 e FR2\n\n(ver documento original)\n\nNota. - As coordenadas dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 97/2011 - Diário da República n.º 48/2011, Série I de 2011-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/97-2011-279441), em vigor a partir de 2011-03-10"
+  },
+  "174683269": {
+   "fragment_id": "174634549",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação de perímetros de protecção",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "###### Artigo 1.º — Delimitação de perímetros de protecção\n\n1 - É aprovada a delimitação dos perímetros de protecção das captações designadas por:\n\na) JK3, PS5 e FR1 do pólo de captação de Alcochete;\n\nb) CBR2 e FR2 do pólo de captação do Samouco;\n\nc) (Revogada.)\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo i da presente portaria, que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20"
+  },
+  "174683270": {
+   "fragment_id": "174634556",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20"
+  },
+  "174683271": {
+   "fragment_id": "174634557",
+   "type": 14,
+   "heading": "Anexo II — Zona de protecção imediata",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "## Anexo II — Zona de protecção imediata\n\nPólo de captação de Alcochete\n\nCaptação JK3\n\n(ver documento original)\n\nCaptação PS5\n\n(ver documento original)\n\nCaptação FR1\n\n(ver documento original)\n\nPólo de captação do Samouco\n\nCaptação CBR2\n\n(ver documento original)\n\nCaptação FR2\n\n(ver documento original)\n\nPólo de captação de Fonte da Senhora - Passil\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20"
+  },
+  "174683272": {
+   "fragment_id": "174634558",
+   "type": 14,
+   "heading": "Anexo III — Zona de protecção intermédia",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "## Anexo III — Zona de protecção intermédia\n\nPólo de captação de Alcochete\n\nCaptação JK3\n\n(ver documento original)\n\nCaptação PS5\n\n(ver documento original)\n\nCaptação FR1\n\n(ver documento original)\n\nPólo de captação do Samouco\n\nCaptações CBR2 e FR2\n\n(ver documento original)\n\nPólo de captação de Fonte da Senhora - Passil\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20"
+  },
+  "174683273": {
+   "fragment_id": "174634559",
+   "type": 14,
+   "heading": "Anexo IV — Zona de protecção alargada",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 97/2011 - Diário da República n.º 48/2011, Série I de 2011-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/97-2011-279441), em vigor a partir de 2011-03-10"
+   ],
+   "markdown": "## Anexo IV — Zona de protecção alargada\n\nPolo de captação de Alcochete\n\n(ver documento original)\n\nPólo de captação do Samouco\n\nCaptações CBR2 e FR2\n\n(ver documento original)\n\nPolo de captação de Fonte da Senhora - Passil\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 97/2011 - Diário da República n.º 48/2011, Série I de 2011-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/97-2011-279441), em vigor a partir de 2011-03-10"
+  },
+  "174683274": {
+   "fragment_id": "174634560",
+   "type": 14,
+   "heading": "Anexo V — Planta de localização das zonas de protecção",
+   "in_force_from": "2021-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20"
+   ],
+   "markdown": "## Anexo V — Planta de localização das zonas de protecção\n\nExtracto da Carta Militar de Portugal.\n\nSérie M888 - 1/25.000 (IGeoE)\n\nPólo de captação de Alcochete\n\n(ver documento original)\n\nPólo de captação do Samouco\n\n(ver documento original)\n\nPolo de captação de Fonte da Senhora - Passil\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2021 - Diário da República n.º 225/2021, Série I de 2021-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/259-2021-174634477), em vigor a partir de 2021-11-20"
+  }
+ }
+}

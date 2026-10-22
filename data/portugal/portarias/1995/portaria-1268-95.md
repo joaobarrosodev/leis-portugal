@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:668298:por
+title: Portaria n.º 1268/95
+short_title: null
+summary: Altera a Portaria n.º 65/90, de 26 de Janeiro, que fixa o critério microbiológico a utilizar na apreciação das características
+  dos bolos e cremes de pastelaria
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura e da Saúde
+proposing_entity: null
+official_number: 1268/95
+official_date: null
+publication_date: '1995-10-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 247/1995, Série I-B de 1995-10-25
+  number: '247'
+  series: I
+  supplement: null
+  pages: 6625 - 6625
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/10/247b00/66256625.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1268/1995/10/25/p/dre/pt/html
+  oj: null
+  dre: '668298'
+  dre_path: /dr/detalhe/portaria/1268-1995-668298
+  internal: pt:dre:668298:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1268-1995-668298
+  metadata_url: https://data.dre.pt/eli/port/1268/1995/10/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1268-1995-668298
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-02-11T00:00:00Z'
+integrity:
+  source_sha256: e541b001844f17a24266202f0a70199ecd0076a1af86b1f5a8204b468e778bce
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-1268-668298.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produto Alimentar
+- Controlo de Qualidade
+- União Europeia
+- Fabrico Industrial
+- Higiene Alimentar
+- Indústria Pasteleira
+- Qualidade do Produto
+relationships:
+- type: amended_by
+  target: pt:dre:601351:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31993L0043
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/43/oj
+- type: cites
+  target: eli:/application/external/tratado
+  label: null
+  source: /application/external/tratado
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1268/95
+
+de 25 de Outubro
+
+A Portaria n.º 65/90, de 26 de Janeiro, veio estabelecer o critério microbiológico a utilizar na apreciação das características dos bolos e cremes de pastelaria.
+
+Com vista a adaptar este diploma legal aos princípios e regras comunitários, designadamente os estabelecidos na Directiva n.º [93/43/CEE](http://data.europa.eu/eli/dir/1993/43/oj?locale=pt), do Conselho, de 14 de Junho de 1993, relativa à higiene dos géneros alimentícios, procede-se à revisão da citada portaria, acrescentando-se uma cláusula de reconhecimento mútuo, à semelhança do que tem acontecido em relação a outros diplomas que estabelecem características relativas a outros géneros alimentícios.
+
+Assim:
+
+Manda o Governo, pelos Ministros da Agricultura e da Saúde, ao abrigo do n.º 1 do artigo 3.º do Decreto-Lei n.º 4/90, de 3 de Janeiro, que à Portaria n.º 65/90, de 26 de Janeiro, seja acrescentado um n.º 11.º, com a seguinte redacção:
+
+11.º O disposto no presente diploma aplica-se sem prejuízo da livre circulação dos produtos que sejam legalmente produzidos ou comercializados nos outros Estados membros da União Europeia ou que sejam originários dos países da EFTA que são Partes Contratantes do Acordo EEE (Acordo sobre o Espaço Económico Europeu), na medida em que tais produtos não acarretam um risco para a saúde ou a vida das pessoas na acepção do artigo 36.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e do artigo 13.º do Acordo EEE.
+
+Ministérios da Agricultura e da Saúde.
+
+**Assinada em 28 de Setembro de 1995.**
+
+Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.

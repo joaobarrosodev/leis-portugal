@@ -1,0 +1,624 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/joaobarrosodev/leis-portugal/schemas/legal_document.schema.json",
+  "title": "Registo documental jurídico",
+  "description": "Metadados normalizados de um ficheiro Markdown de legislação ou material jurídico.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "title",
+    "jurisdiction",
+    "document_type",
+    "language",
+    "version",
+    "source",
+    "integrity",
+    "provenance",
+    "reuse",
+    "validation"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9:_./-]+$",
+      "minLength": 3
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3
+    },
+    "short_title": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "summary": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Sumário oficial do diploma."
+    },
+    "jurisdiction": {
+      "type": "string",
+      "enum": [
+        "portugal",
+        "european_union",
+        "international",
+        "regional",
+        "municipal",
+        "regulator"
+      ]
+    },
+    "territory": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "acores",
+        "madeira",
+        null
+      ],
+      "description": "Região autónoma, para legislação regional."
+    },
+    "document_type": {
+      "type": "string",
+      "minLength": 2
+    },
+    "document_type_label": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "issuing_authority": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 2
+      },
+      "uniqueItems": true
+    },
+    "proposing_entity": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "official_number": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "official_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "publication_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "publication": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "additionalProperties": false,
+      "description": "Elementos da publicação no jornal oficial.",
+      "properties": {
+        "gazette": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "series": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "supplement": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "pages": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "pdf_url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        }
+      }
+    },
+    "entry_into_force_dates": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "date"
+      },
+      "uniqueItems": true
+    },
+    "end_of_validity_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "legal_status": {
+      "type": "string",
+      "enum": [
+        "in_force",
+        "not_in_force",
+        "partially_in_force",
+        "repealed",
+        "unknown"
+      ]
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Notas editoriais da fonte (por exemplo, avisos de revogação)."
+    },
+    "language": {
+      "type": "string",
+      "minLength": 2
+    },
+    "version": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind",
+        "label",
+        "language"
+      ],
+      "properties": {
+        "kind": {
+          "type": "string",
+          "enum": [
+            "original",
+            "consolidated",
+            "amendment",
+            "corrigendum",
+            "republication"
+          ]
+        },
+        "label": {
+          "type": "string",
+          "minLength": 2
+        },
+        "language": {
+          "type": "string",
+          "minLength": 2
+        },
+        "consolidation_date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        }
+      }
+    },
+    "version_history": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "additionalProperties": false,
+      "description": "Resumo do histórico de versões consolidadas; o texto de cada versão está no ficheiro indicado em `file`.",
+      "required": [
+        "file",
+        "count",
+        "versions"
+      ],
+      "properties": {
+        "file": {
+          "type": "string",
+          "minLength": 3
+        },
+        "count": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "source_lastmod": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "versions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "date"
+            ],
+            "properties": {
+              "date": {
+                "type": "string",
+                "format": "date"
+              },
+              "amending": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "amending_title": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "changes": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "identifiers": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "celex": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[0-9]{5}[A-Z][0-9]{1,4}([A-Z0-9()/-]*)?$"
+        },
+        "eli": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        },
+        "oj": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "dre": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "internal": {
+          "type": "string"
+        },
+        "dre_path": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "official_url",
+        "retrieved_at",
+        "retrieval_method"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 2
+        },
+        "name": {
+          "type": "string",
+          "minLength": 2
+        },
+        "official_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "metadata_url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        },
+        "content_url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        },
+        "retrieved_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "retrieval_method": {
+          "type": "string",
+          "minLength": 2
+        },
+        "source_modified_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "consolidated_url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        }
+      }
+    },
+    "integrity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_sha256",
+        "source_sha256_scope"
+      ],
+      "properties": {
+        "source_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "source_sha256_scope": {
+          "enum": [
+            "official_source_content_bytes",
+            "imported_derived_markdown"
+          ]
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "collector",
+        "collector_version",
+        "generated_by",
+        "generated_at"
+      ],
+      "properties": {
+        "collector": {
+          "type": "string",
+          "minLength": 2
+        },
+        "collector_version": {
+          "type": "string",
+          "minLength": 1
+        },
+        "generated_by": {
+          "type": "string",
+          "minLength": 2
+        },
+        "generated_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "reuse": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "attribution",
+        "reference"
+      ],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "permitted",
+            "permitted_with_conditions",
+            "restricted",
+            "unresolved"
+          ]
+        },
+        "attribution": {
+          "type": "string",
+          "minLength": 2
+        },
+        "reference": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "type",
+          "target"
+        ],
+        "properties": {
+          "type": {
+            "type": "string"
+          },
+          "target": {
+            "type": "string",
+            "minLength": 2
+          },
+          "label": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          },
+          "date": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          }
+        }
+      }
+    },
+    "subjects": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "description": "Descritores temáticos (tesauro do DRE)."
+    },
+    "article_structure": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "article_count": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "section_count": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "extraction_method": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "derived_material": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "machine_generated": {
+          "type": "boolean"
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "validation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "checked_at"
+      ],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "validated",
+            "validation_failed",
+            "pending_review"
+          ]
+        },
+        "checked_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "warnings": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "errors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

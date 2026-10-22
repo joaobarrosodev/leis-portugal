@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:181051:por
+title: Despacho Normativo n.º 78/85
+short_title: null
+summary: Determina que nos instrumentos de planeamento urbanístico deverá ser previsto o equipamento desportivo convenientemente
+  integrado na estrutura urbana
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério do Equipamento Social
+proposing_entity: null
+official_number: 78/85
+official_date: null
+publication_date: '1985-08-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/1985, Série I de 1985-08-21
+  number: '191'
+  series: I
+  supplement: null
+  pages: 2698 - 2700
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/08/19100/26982700.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '181051'
+  dre_path: /dr/detalhe/despacho-normativo/78-1985-181051
+  internal: pt:dre:181051:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/78-1985-181051
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/78-1985-181051
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-08-21T00:00:00Z'
+integrity:
+  source_sha256: 8c5071befaf7134037656a24062a01abdb6c956f798a09dfcfe2091617f0593d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-78-181051.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 78/85
+
+Não existe actualmente legislação que imponha aos responsáveis pelo planeamento das urbanizações a previsão da existência de equipamentos desportivos comunitários susceptíveis de servir para a prática desportiva dos futuros residentes dessas urbanizações.
+
+Daí que se assista à cada vez maior proliferação de cidades-dormitórios, onde o espaço de recreação e de desporto praticamente se confina aos caminhos de peões completados por pequenas zonas tratadas especialmente para crianças.
+
+Torna-se assim indispensável preencher esta lacuna normativa, a que se procura acorrer com este diploma, através do qual se estipula um conjunto de regras destinado a uniformizar os tipos de equipamentos desportivos a consagrar nos vários instrumentos de planeamento urbanístico de que se dispõe.
+
+Nestes termos, tendo em atenção o disposto no [Decreto-Lei n.º 344-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-a-1983-408485), de 25 de Julho, e o preceituado na alínea g) do artigo 202.º da Constituição, determina-se:
+
+1.º - 1 - Nos instrumentos de planeamento urbanístico deverá ser previsto o equipamento desportivo convenientemente integrado na estrutura urbana, segundo as normas definidas no presente despacho, com vista à sua adequada utilização pela população interessada.
+
+2 - Nos estudos de expansão urbana dos aglomerados existentes serão tomadas em consideração as eventuais insuficiências de equipamento desportivo.
+
+2.º - 1 - O equipamento desportivo deverá ser previsto nos seguintes tipos de planos urbanísticos:
+
+Plano director municipal;
+
+Plano geral e parcial de urbanização;
+
+Plano de pormenor;
+
+Loteamentos urbanos.
+
+2 - Os loteamentos especiais ([Decreto-Lei n.º 400/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), de 31 de Dezembro) terão um tratamento idêntico do dos planos gerais ou parciais de urbanização para efeitos deste despacho.
+
+3.º O equipamento desportivo será constituído pelas seguintes unidades de equipamento:
+
+Unidade de base;
+
+Núcleo desportivo;
+
+Complexo desportivo.
+
+4.º - 1 - A unidade de base do equipamento desportivo será preferencialmente o campo de pequenos jogos.
+
+2 - Terá as características seguintes:
+
+a) Área ocupada mínima: 40 m x 20 m = 800 m2;
+
+b) Constituição: em pavimento estabilizado ou rígido com vedação de tabela ou rede;
+
+c) Área de influência: círculo com o raio de 400 m;
+
+d) População a que se destina: um por cada fracção até 750 habitantes.
+
+3 - Para sua implantação serão de excluir áreas com declive superior a 10%, bem como áreas nas proximidades de equipamentos incompatíveis, designadamente cemitérios, estabelecimentos poluidores e hospitais.
+
+5.º - 1 - O núcleo desportivo é constituído por:
+
+a) Um campo de pequenos jogos descoberto, com as características definidas no número anterior;
+
+b) Um espaço polivalente de 1900 m2, no mínimo, destinado a actividades atléticas, incluindo:
+
+1) Uma recta para corridas de velocidade (com o mínimo de 80 m x 6 m, em piso estabilizado ou rígido);
+
+2) Sector para lançamento de peso (círculo de 2,13 m de diâmetro em piso rígido);
+
+3) Sector para salto em altura (semicírculo de solo estabilizado, com o mínimo de 15 m de raio e caixa de areia de 6 m x 4 m x 0,3 m);
+
+4) Pistas para salto em comprimento (com 30 m x 1 m e caixa de areia com 6 m x 3 m x 0,3 m);
+
+5) Um circuito para corridas de manutenção;
+
+c) Uma área coberta com o mínimo de 300 m2, que deverá conter:
+
+1) Um ginásio ou uma piscina de aprendizagem com a área mínima de 200 m2;
+
+2) Vestiários e anexos funcionais.
+
+2 - O núcleo desportivo deve ter capacidade para servir uma população de 1200 habitantes, equivalente a 300 fogos, apresentando a área de influência de um círculo de 800 m de raio.
+
+6.º - 1 - O complexo desportivo tem a seguinte constituição:
+
+a) Um campo de futebol em solo estabilizado ou relvado com pista de atletismo de 400 m de perímetro;
+
+b) Um campo de pequenos jogos, no mínimo;
+
+c) Dois campos de ténis, no mínimo;
+
+d) Um complexo evolutivo coberto, com um pavilhão de 45 m x 25 m de área de evolução, onde possam instalar-se pequenos ginásios e piscina coberta.
+
+Deverá ainda conter vestiários e anexos funcionais.
+
+2 - O complexo desportivo destina-se a uma população de 6000 habitantes, equivalente a 1500 fogos, apresentando a área de influência de um círculo de 1200 m de raio.
+
+7.º - 1 - Nos planos directores municipais, planos gerais e parciais de urbanização e nos loteamentos especiais será proposto pelos autores dos estudos o equipamento desportivo adequado à população a servir, tendo em conta os tipos de equipamento definidos nos números anteriores.
+
+2 - Nos planos de pormenor e nos loteamentos simples e ordinários, a câmara municipal deverá definir o equipamento desportivo a implantar no terreno em estudo, de forma a uma conveniente integração na área urbana que deverá servir.
+
+8.º Nos loteamentos urbanos, a área a ceder para equipamentos desportivos será definida pela câmara municipal, tendo em conta as carências existentes em equipamento desportivo e a disponibilidade dos terrenos.
+
+9.º Todos os planos em que seja previsto equipamento desportivo serão submetidos a parecer da Direcção-Geral dos Desportos, de acordo com a tramitação prevista para os respectivos instrumentos urbanísticos em que o equipamento se insere.
+
+10.º - 1 - Nos loteamentos urbanos, o financiamento e construção do equipamento desportivo previsto será objecto de contrato de urbanização, nos termos da alínea e) do artigo 45.º do [Decreto-Lei n.º 400/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), de 31 de Dezembro.
+
+2 - Os equipamentos desportivos assim constituídos serão património municipal.
+
+Presidência do Conselho de Ministros e Ministério do Equipamento Social, 1 de Agosto de 1985. - O Ministro do Equipamento Social, Carlos Montez Melancia. - O Secretário de Estado dos Desportos, Júlio Miranda Calha.

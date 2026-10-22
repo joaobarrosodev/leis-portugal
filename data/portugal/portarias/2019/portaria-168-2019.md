@@ -1,0 +1,356 @@
+---
+schema_version: '1.0'
+id: pt:dre:122446606:por
+title: Portaria n.º 168/2019
+short_title: null
+summary: Aprova, em anexo à presente portaria e da qual fazem parte integrante, os estatutos da Agência Nacional para a Qualificação
+  e o Ensino Profissional, I. P.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças, Educação e Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 168/2019
+official_date: null
+publication_date: '2019-05-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/2019, Série I de 2019-05-30
+  number: '104'
+  series: I
+  supplement: null
+  pages: 2750 - 2753
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/05/10400/0275002753.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-01-24'
+version_history:
+  file: portaria-168-2019.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-04-06'
+    amending: pt:dre:859517106:por
+    amending_title: Portaria n.º 142/2024/1
+    changes:
+    - Adita Artigo 6.º
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+  - date: '2026-01-24'
+    amending: pt:dre:1023994567:por
+    amending_title: Portaria n.º 31-A/2026/1
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/168/2019/p/cons/20260123/pt/html
+  oj: null
+  dre: '122446606'
+  dre_path: /dr/detalhe/portaria/168-2019-122446606
+  internal: pt:dre:122446606:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-2019-122446606
+  metadata_url: https://data.dre.pt/eli/port/168/2019/p/cons/20260123/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-122429240
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-122429240
+  retrieved_at: '2026-10-22T12:26:22Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8a938ed72ce85ccc64a839e56ccb8a7045dccaeb17127d274d04dd384d39b953
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:26:22Z'
+  notes: 3 versão(ões); histórico completo em portaria-168-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência Nacional para a Qualificação e o Ensino Profissional
+- Estatuto
+- Instituto Público
+relationships:
+- type: amended_by
+  target: pt:dre:859517106:por
+  label: Adita Artigo 6.º; Altera Artigo 1.º; Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/142-2024-859517106
+  date: '2024-04-05'
+- type: amended_by
+  target: pt:dre:1023994567:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567
+  date: '2026-01-23'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/36/2012/02/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/36/2012/02/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/294/2012/09/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/294/2012/09/28/p/dre
+article_structure:
+  article_count: 9
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:26:22Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 168/2019
+
+Portaria n.º 168/2019
+
+de 30 de maio
+
+O Decreto-Lei n.º 36/2012, de 15 de fevereiro, definiu a missão e as atribuições da Agência Nacional para a Qualificação e o Ensino Profissional, I. P., abreviadamente designada por ANQEP, I. P.
+
+No desenvolvimento daquele decreto-lei, a Portaria n.º 294/2012, de 28 de setembro, aprova os Estatutos da ANQEP, I. P., definindo a respetiva organização interna.
+
+O Programa do XXI Governo Constitucional e o primeiro eixo do Programa Nacional de Reformas assumem como prioridade nacional a aposta na educação e formação de jovens e adultos, valorizando o ensino profissional e a revitalização da educação e formação de adultos, enquanto pilar central do sistema de qualificações, designadamente através do Programa Qualifica, apostando em percursos de formação conducentes a uma qualificação efetiva, com vista à melhoria da sua empregabilidade.
+
+A importância estratégica que o Governo confere a esta matéria é ainda claramente assumida nas Grandes Opções do Plano para 2019, nas suas medidas de política para as áreas da educação e do trabalho, solidariedade e segurança social.
+
+Ora, o atual modelo da estrutura orgânica da ANQEP, I. P., constituído por apenas dois departamentos, um concentrando todas as áreas técnicas e o outro a administração geral, cria vários estrangulamentos e dificuldades ao seu bom funcionamento.
+
+Com efeito, de acordo com o atual modelo encontram-se concentradas no mesmo diretor de departamento um conjunto diversificado e exigente de áreas, designadamente, a gestão do Catálogo Nacional de Qualificações (CNQ) e dos conselhos setoriais, a regulação e acompanhamento das ofertas de jovens e adultos, a criação e a gestão da rede de Centros Qualifica, as atividades enquanto organismo intermédio dos respetivos programas operacionais do PT2020, nas medidas que lhe foram atribuídas o acompanhamento da autonomia e flexibilidade curricular e da educação inclusiva, o desenvolvimento curricular em torno das aprendizagens essenciais e de todos os referenciais integrados no CNQ, a participação e a coordenação em projetos nacionais e internacionais.
+
+Neste contexto, volvidos mais de seis anos sobre a implementação do modelo organizacional previsto na Portaria n.º 294/2012, de 28 de setembro, torna-se premente dotar a ANQEP, I. P., de um novo modelo organizacional que vise, essencialmente, proporcionar maior eficiência e eficácia no seu funcionamento, dotando-a de instrumentos mais adequados para uma cabal prossecução da sua missão e atribuições, com vista dar melhor resposta aos novos desafios e exigências que lhe são colocados no âmbito da qualificação de jovens e adultos.
+
+Com o presente modelo organizacional procede-se ao reforço da capacidade de gestão e de resposta da área técnica, atribuindo-lhe três departamentos, com competências específicas e igualmente estruturantes para a ANQEP, I. P., unidades orgânicas nucleares dirigidas por dirigentes intermédios de 1.º grau, designados por departamento de qualificação de jovens, departamento de qualificação de adultos e departamento do catálogo nacional de qualificações, com a possibilidade de criação de quatro unidades flexíveis, reduzindo-se, assim, o número de unidades orgânicas atualmente existentes.
+
+Pelas razões supra enunciadas, importa proceder à aprovação dos estatutos da ANQEP, I. P., e à revogação da Portaria n.º 294/2012, de 28 de setembro.
+
+Assim:
+
+Ao abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, manda o Governo, pelo Ministro das Finanças e pelos Secretários de Estado da Educação e do Emprego, no uso das competências delegadas, respetivamente, pelo Ministro da Educação, através do Despacho n.º 1009-B/2016, de 13 de janeiro, publicado no Diário da República, 2.ª série, n.º 13, de 20 de janeiro de 2016, e pelo Ministro do Trabalho, Solidariedade e Segurança Social, através do Despacho n.º 1300/2016, de 13 de janeiro, publicado no Diário da República, 2.ª série, n.º 18, de 27 de janeiro de 2016, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+São aprovados, em anexo à presente portaria e da qual fazem parte integrante, os estatutos da Agência Nacional para a Qualificação e o Ensino Profissional, I. P., abreviadamente designada por ANQEP, I. P.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+###### Artigo 2.º — Revogação
+
+É revogada a Portaria n.º 294/2012, de 28 de setembro.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 24 de maio de 2019. - O Secretário de Estado da Educação, João Miguel Marques da Costa, em 27 de maio de 2019. - O Secretário de Estado do Emprego, Miguel Filipe Pardal Cabrita, em 28 de maio de 2019.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+## Anexo — ESTATUTOS DA AGÊNCIA NACIONAL PARA A QUALIFICAÇÃO E O ENSINO PROFISSIONAL, I. P.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+###### Artigo 1.º — Unidades orgânicas
+
+1 - A organização interna da ANQEP, I. P., é constituída pelas seguintes unidades orgânicas nucleares:
+
+a) O departamento de qualificação de jovens;
+
+b) O departamento de qualificação de adultos;
+
+c) O departamento do catálogo nacional de qualificações;
+
+d) O Departamento de Gestão Financeira.
+
+2 - Por deliberação do conselho diretivo podem ainda ser criadas, modificadas ou extintas unidades flexíveis, designadas por divisões ou gabinetes, integradas ou não em unidades orgânicas nucleares, cujo número não pode exceder o limite máximo de cinco unidades, sendo as respetivas competências definidas e aprovadas pelo mesmo órgão.
+
+3 - A gestão de recursos humanos integra uma das unidades orgânicas flexíveis previstas no número anterior e a gestão de projetos e de financiamento europeu uma ou duas dessas unidades orgânicas flexíveis.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 142/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/142-2024-859517106), em vigor a partir de 2024-04-06
+
+###### Artigo 2.º — Cargos dirigentes intermédios
+
+1 - Os Departamentos a que se referem as alíneas a) a d) do n.º 1 do artigo anterior são dirigidos por diretores de departamento, cargos de direção intermédia de 1.º grau.
+
+2 - As unidades flexíveis a que se referem os n.os 2 e 3 do artigo anterior são dirigidas, respetivamente, por chefes de divisão ou por coordenadores, cargos de direção intermédia de 2.º grau.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 142/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/142-2024-859517106), em vigor a partir de 2024-04-06
+
+###### Artigo 3.º — Departamento de qualificação de jovens
+
+Ao departamento de qualificação de jovens, abreviadamente designado por DQJ, compete:
+
+a) Promover e regular uma oferta diversificada, inclusiva e de qualidade de educação e formação profissional de dupla certificação destinada a jovens;
+
+b) Promover e regular a oferta de ensino artístico especializado;
+
+c) Reforçar a imagem e a valorização das modalidades de dupla certificação junto dos jovens, famílias, comunidades educativas e tecido empregador, promovendo a empregabilidade e prosseguimento de estudos dos jovens diplomados;
+
+d) Conceber e dinamizar atividades de informação e orientação para a qualificação de jovens, mobilizando, entre outros, os profissionais dos vários serviços de informação e orientação vocacional;
+
+e) Conceber, desenvolver e atualizar as modalidades de ofertas destinadas a jovens e respetivos referenciais curriculares, tendo em vista a atualização das saídas profissionais e a qualidade das aprendizagens;
+
+f) Acompanhar os operadores de ensino e formação profissionais na implementação de novas orientações relativas a desenvolvimentos curriculares, processos organizativos e de avaliação das aprendizagens, em estreita articulação com outras estruturas intervenientes nesta matéria;
+
+g) Assegurar o planeamento da oferta destinada a jovens tendo em conta a identificação e antecipação das necessidades de qualificações e competências, a nível nacional e regional, nomeadamente com base na implementação do Sistema de Antecipação de Necessidades de Qualificações;
+
+h) Definir os critérios de ordenamento da rede de oferta de dupla certificação, em articulação com as estruturas das áreas governativas da Educação e do Trabalho, Solidariedade e Segurança Social;
+
+i) Conceber, desenvolver e implementar sistemas de garantia da qualidade do ensino e formação profissionais, tendo em vista designadamente o alinhamento com as recomendações europeias neste domínio;
+
+j) Promover junto dos operadores de ensino e formação profissionais a adoção de mecanismos de garantia da qualidade e acompanhar a sua implementação tendo em vista a certificação da qualidade dos operadores e das ofertas;
+
+k) Garantir a monitorização e a avaliação, de forma integrada, das modalidades de qualificação destinadas a jovens, em estreita articulação com as demais entidades com responsabilidades no âmbito do Sistema Nacional de Qualificações (SNQ);
+
+l) Participar no desenvolvimento de referenciais de formação inicial e contínua dos profissionais envolvidos nas modalidades de qualificação destinadas a jovens;
+
+m) Garantir o desenvolvimento e a articulação dos sistemas de informação de suporte à atividade da ANQEP, I. P., no âmbito da regulação, gestão e acompanhamento das ofertas de jovens;
+
+n) Fomentar o estabelecimento de relações de cooperação e a concertação local das ofertas entre os diferentes agentes e entidades com responsabilidades no âmbito da qualificação de jovens.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+###### Artigo 4.º — Departamento de qualificação de adultos
+
+Ao departamento de qualificação de adultos, abreviadamente designado por DQA, compete:
+
+a) Garantir a regulação das ofertas de qualificação destinada a adultos, em colaboração com as demais entidades que integram o SNQ;
+
+b) Conceber e desenvolver as ofertas de dupla certificação destinadas a adultos;
+
+c) Coordenar a conceção de instrumentos técnicos no âmbito das atividades de informação e orientação para a qualificação de adultos e a aprendizagem ao longo da vida;
+
+d) Gerir e acompanhar as ofertas de qualificação de adultos, nomeadamente o Sistema Nacional de Reconhecimento, Validação e Certificação de Competências (RVCC) de âmbito escolar e profissional, em articulação com as estruturas da Educação e do Trabalho, Solidariedade e Segurança Social;
+
+e) Garantir a existência de uma rede de centros especializados em qualificação de adultos, assegurando a diversidade e complementaridade das entidades promotoras e das respostas de qualificação;
+
+f) Garantir a cobertura territorial da rede de centros especializados em qualificação de adultos, em função das necessidades e tendo em vista a promoção da qualificação dos adultos;
+
+g) Definir orientações para o planeamento da rede de ofertas de qualificação de adultos, assegurando a racionalização e a relevância dessas ofertas, face aos contextos territoriais em que se inserem e aos percursos de qualificação dos adultos,
+
+h) Contribuir para uma estreita articulação entre o planeamento da rede de ofertas de adultos e os mecanismos de financiamento disponíveis, nomeadamente o financiamento proveniente de fundos comunitários;
+
+i) Assegurar a conceção e a aplicação de metodologias e materiais técnico-pedagógicos, no âmbito das modalidades de qualificação destinadas a adultos;
+
+j) Monitorizar e avaliar o sistema de qualificação de adultos, em estreita articulação com as entidades que integram o SNQ;
+
+k) Participar no desenvolvimento de referenciais de formação inicial e contínua dos profissionais envolvidos nas modalidades de qualificação de adultos;
+
+l) Garantir o desenvolvimento e a articulação dos sistemas de informação de suporte à atividade da ANQEP, I. P., e das estruturas especializadas em qualificação de adultos;
+
+m) Contribuir para a criação e dinamização de parcerias e redes de âmbito local, regional e nacional, a par de outras relações de cooperação ou associação com os diferentes atores que integram o SNQ, tendo em vista a promoção da qualificação da população adulta.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+###### Artigo 5.º — Departamento do catálogo nacional de qualificações
+
+Ao departamento do catálogo nacional de qualificações, abreviadamente designado por DCNQ, compete:
+
+a) Desenvolver o Catálogo Nacional de Qualificações (CNQ) enquanto instrumento estratégico de regulação das qualificações de nível não superior;
+
+b) Conceber os referenciais das qualificações integradas no CNQ, identificando, para cada uma, os respetivos referenciais de competências, de formação e para o reconhecimento, validação e certificação de competências;
+
+c) Promover a identificação e a antecipação das necessidades de qualificações e competências em função das dinâmicas de evolução socioeconómica e do desenvolvimento pessoal e social dos indivíduos;
+
+d) Atualizar o CNQ mediante a inclusão, exclusão ou alteração das qualificações;
+
+e) Dinamizar o funcionamento dos Conselhos Setoriais para a Qualificação (CSQ), apoiando e sustentando tecnicamente os trabalhos dos elementos que os integram;
+
+f) Assegurar a disponibilização pública e on-line do CNQ, através de uma plataforma tecnológica;
+
+g) Promover a divulgação do CNQ e a comunicação das qualificações disponíveis, de modo a melhorar a valorização destas qualificações e a legibilidade e diversidade das ofertas;
+
+h) Promover o CNQ junto dos operadores de educação e formação, dos jovens e adultos, dos empregadores e dos profissionais de educação e de orientação;
+
+i) Garantir a qualidade dos referenciais de qualificação, designadamente através da definição de metodologias e do apoio à conceção desses referenciais;
+
+j) Mobilizar para a evolução do CNQ e atualização em permanência das qualificações, as instituições de ensino e formação, a comunidade científica, o mundo empresarial, os parceiros sociais e as comunidades locais e regionais;
+
+k) Assegurar a articulação do CNQ com o regime de acesso e exercício de profissões e de atividades profissionais;
+
+l) Articular com instâncias a nível europeu e internacional de modo a promover a transparência, o reconhecimento mútuo e a comparabilidade das qualificações no âmbito do mercado de trabalho e dos sistemas de educação e formação profissional de jovens e adultos;
+
+m) Garantir a adoção de recomendações e diretrizes europeias e internacionais na esfera de atuação do CNQ;
+
+n) Garantir o desenvolvimento e a articulação da plataforma tecnológica do CNQ com outros sistemas de informação de suporte ao SNQ;
+
+o) Fomentar o estabelecimento de relações de cooperação com os diferentes agentes e entidades com responsabilidades no âmbito do SNQ.
+
+112336968
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+###### Artigo 6.º — Departamento de Gestão Financeira
+
+Ao Departamento de Gestão Financeira, abreviadamente designado por DGF, compete:
+
+a) Assegurar a gestão dos recursos financeiros e patrimoniais e o apoio administrativo geral;
+
+b) Assegurar a elaboração de planos e relatórios de atividade, bem como a respetiva monitorização e avaliação, com base nas orientações estratégicas, objetivos, indicadores e metas fixadas para a ANQEP, I. P., bem como outros instrumentos de avaliação aplicáveis;
+
+c) Elaborar o projeto de orçamento da ANQEP, I. P., em conjugação com os demais instrumentos de gestão aplicáveis;
+
+d) Garantir a execução do orçamento de acordo com uma rigorosa gestão dos recursos disponíveis, designadamente através da elaboração dos relatórios periódicos de controlo orçamental e da proposta das medidas necessárias à correção de eventuais desvios detetados;
+
+e) Assegurar a elaboração dos documentos de prestação de contas;
+
+f) Salvaguardar as condições necessárias ao exercício do controlo financeiro e orçamental pelos órgãos e entidades legalmente competentes;
+
+g) Executar os serviços de contabilidade e tesouraria, incluindo, designadamente, o processamento e liquidação das despesas e a cobrança de receitas;
+
+h) Garantir o aprovisionamento e promover, no âmbito da contratação pública, todos os procedimentos que se revelem necessários ao desenvolvimento da atividade da ANQEP, I. P.;
+
+i) Identificar oportunidades de financiamento através de fundos europeus às atividades e projetos da ANQEP, I. P., e elaborar as respetivas candidaturas;
+
+j) Assegurar a gestão do financiamento através de fundos europeus a instrumentos de política pública, atividades e projetos sob a responsabilidade da ANQEP, I. P., em articulação com outras unidades orgânicas;
+
+k) Acompanhar a execução física e financeira dos projetos com financiamento através de fundos europeus, em articulação com outras unidades orgânicas, e garantir os respetivos reportes;
+
+l) Garantir o cumprimento das atividades da ANQEP, I. P., na qualidade de Organismo Intermédio (OI) do Programa Operacional Capital Humano, do Programa Operacional Regional de Lisboa e do Programa Operacional Regional do Algarve no Portugal 2020, e de outros programas que lhes sucedam no âmbito do Portugal 2030, no âmbito da análise técnico-financeira das operações, em articulação com a Divisão de Acompanhamento dos Centros Qualifica, da ANQEP, I. P.;
+
+m) Garantir o cumprimento das atividades da ANQEP, I. P., na gestão dos investimentos que no âmbito do Plano de Recuperação e Resiliência (PRR) lhe estejam atribuídos;
+
+n) Gerir o arquivo documental e o expediente geral da ANQEP, I. P.;
+
+o) Gerir as instalações e o património da ANQEP, I. P., incluindo, designadamente, o parque automóvel e o economato, e manter organizado o respetivo cadastro.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 142/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/142-2024-859517106), em vigor a partir de 2024-04-06

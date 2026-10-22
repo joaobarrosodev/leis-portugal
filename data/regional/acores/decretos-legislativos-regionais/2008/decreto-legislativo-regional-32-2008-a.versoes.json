@@ -1,0 +1,516 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:454788:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-123783690",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/32-2008-454788",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-07-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123783779",
+    "123783780",
+    "123783781",
+    "123783782",
+    "123783783",
+    "123783784",
+    "123783785",
+    "123783786",
+    "123783787",
+    "123783788",
+    "123783789",
+    "123783790",
+    "123783791",
+    "123783792",
+    "123783793",
+    "123783794",
+    "123783795",
+    "123783796",
+    "123783797",
+    "123783798",
+    "123783799"
+   ]
+  },
+  {
+   "date": "2012-07-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179516:por",
+     "title": "Decreto Legislativo Regional n.º 33/2012/A",
+     "published": "2012-07-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/33-2012-179516"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "123783779",
+    "123783780",
+    "123783781",
+    "123795801",
+    "123795802",
+    "123795803",
+    "123795804",
+    "123795805",
+    "123795806",
+    "123795807",
+    "123783789",
+    "123795808",
+    "123783791",
+    "123783792",
+    "123795809",
+    "123795810",
+    "123795811",
+    "123795812",
+    "123795813",
+    "123783798",
+    "123795798",
+    "123795799",
+    "123795800"
+   ]
+  },
+  {
+   "date": "2019-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123770990:por",
+     "title": "Decreto Legislativo Regional n.º 20/2019/A",
+     "published": "2019-08-07",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/20-2019-123770990"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "123783779",
+    "123783780",
+    "123783781",
+    "123795801",
+    "123795802",
+    "123795814",
+    "123795804",
+    "123795805",
+    "123795815",
+    "123795816",
+    "123783789",
+    "123795808",
+    "123783791",
+    "123783792",
+    "123795817",
+    "123795818",
+    "123795811",
+    "123795812",
+    "123795813",
+    "123783798",
+    "123795798",
+    "123795799",
+    "123795800"
+   ]
+  }
+ ],
+ "fragments": {
+  "123783779": {
+   "fragment_id": "123783691",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 32/2008/A\n\nRegime jurídico da Reserva Agrícola Regional\n\nO progresso e a modernização da agricultura açoriana, verificados nos últimos anos, levou a uma significativa melhoria das condições sócio-económicas das populações que a ela se dedicam, tornando-se necessário proceder à alteração do regime jurídico que disciplina a utilização dos solos integrados na Reserva Agrícola Regional, por forma a continuar a assegurar a sua preservação e o seu adequado uso, salvaguardando o bem estar das populações rurais e a criação de riqueza.\n\nConsiderando a necessidade de continuar a reduzir custos de produção das explorações agrícolas, promovendo a sua adaptação ambiental no quadro de um desenvolvimento sustentável;\n\nConsiderando o objectivo de garantir um efectivo e pleno aproveitamento agrícola dos solos de maiores potencialidades e a sua inserção em explorações bem dimensionadas;\n\nConsiderando a necessidade de proteger essas áreas de maior aptidão agrícola de todas as acções que diminuam ou destruam as suas potencialidades agrícolas, de forma a contribuir para uma efectiva melhoria das condições de vida dos agricultores;\n\nConsiderando que já não faz sentido que a instituição da Reserva Agrícola Regional esteja integrada num diploma geral de orientação agrícola:\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa da Região Autónoma dos Açores decreta o seguinte:"
+  },
+  "123783780": {
+   "fragment_id": "123783692",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico a que está submetida a Reserva Agrícola Regional, doravante designada por RAR."
+  },
+  "123783781": {
+   "fragment_id": "123783693",
+   "type": 11,
+   "heading": "Artigo 2.º — Reserva Agrícola Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Reserva Agrícola Regional\n\nA RAR é constituída por solos de elevada aptidão agrícola, que foram ou possam vir a ser objecto de estudo para a realização de importantes investimentos, tendo em vista a preservação e ou aumento da sua produtividade e o melhor aproveitamento do seu potencial, na perspectiva de uma agricultura moderna, racional e sustentável."
+  },
+  "123783782": {
+   "fragment_id": "123783694",
+   "type": 11,
+   "heading": "Artigo 3.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Constituição\n\n1 - A RAR é delimitada cartograficamente pela Carta da Reserva Agrícola Regional, publicada em diploma regulamentar próprio, ficando os originais depositados na sede do IROA, S. A., e pelos planos directores municipais em vigor.\n\n2 - As áreas da RAR são constituídas por solos das classes de capacidade de uso i, ii, iii, iv e ou solos de outros tipos cuja salvaguarda se mostrou conveniente, particularmente nas ilhas em que as classes referidas apresentem expressão reduzida."
+  },
+  "123783783": {
+   "fragment_id": "123783695",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\nOs solos da RAR devem ser exclusivamente afectos à agricultura, sendo proibidas todas as acções que diminuam ou destruam as suas potencialidades agrícolas, ou que se traduzem na sua utilização para fins não agrícolas, designadamente:\n\na) Vias de comunicação e acessos, construção de edifícios, aterros e escavações;\n\nb) Lançamento ou depósito de resíduos sólidos urbanos ou industriais ou outros produtos que contenham substâncias que possam alterar as características do solo;\n\nc) Despejo de volumes excessivos de lamas e estrumes;\n\nd) Acções que provoquem erosão e degradação do solo, desprendimentos de terras, encharcamentos e inundações e outros efeitos perniciosos;\n\ne) Utilização indevida de técnicas ou produtos fertilizantes ou fitofarmacêuticos."
+  },
+  "123783784": {
+   "fragment_id": "123783696",
+   "type": 11,
+   "heading": "Artigo 5.º — Excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Excepções\n\n1 - Exceptuam-se do disposto no artigo anterior:\n\na) As obras com finalidades exclusivamente agrícolas;\n\nb) As habitações para agricultores nos seus prédios rústicos, para fixação em regime de residência própria e permanente;\n\nc) As habitações para utilização própria, permanente e exclusiva dos seus proprietários em terrenos rústicos que observem a área mínima de 5000 m2, desde que mantenham a sua vocação produtiva;\n\nd) As vias de comunicação, seus acessos e outros empreendimentos e construções definidos como de interesse público, para cujo traçado e localização não exista alternativa técnica ou economicamente aceitável;\n\ne) As obras indispensáveis para a defesa do património cultural e ambiental;\n\nf) Construção de empreendimentos turísticos e campos de golfe, desde que previstos no Plano Regional do Turismo;\n\ng) Obras indispensáveis para a instalação de telecomunicações e postos de abastecimento de combustíveis e instalações agro-turísticas como complemento da actividade agrícola.\n\n2 - As excepções constantes do número anterior são objecto de parecer prévio do IROA, S. A., sem prejuízo do estabelecido nos planos directores municipais ou em outros planos de ordenamento do território.\n\n3 - Para efeitos do disposto no presente diploma entende-se por agricultor as pessoas singulares que obtenham da actividade agrícola 50 % do seu rendimento e dediquem à mesma 50 % do seu tempo total de trabalho."
+  },
+  "123783785": {
+   "fragment_id": "123783697",
+   "type": 11,
+   "heading": "Artigo 6.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Restrições\n\n1 - As habitações construídas ao abrigo das alíneas b) e c) do n.º 1 do artigo anterior são inalienáveis no prazo de 10 anos a contar da emissão da licença de utilização.\n\n2 - O ónus referido no número anterior está sujeito a registo predial.\n\n3 - Fica limitada a construção na RAR a apenas uma habitação por requerente."
+  },
+  "123783786": {
+   "fragment_id": "123783698",
+   "type": 11,
+   "heading": "Artigo 7.º — Requerimento de parecer e ou de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requerimento de parecer e ou de autorização\n\n1 - As autorizações relativas às excepções constantes do n.º 1 e a emissão de parecer a que se refere o n.º 2, ambos do artigo 5.º, dependem de requerimento dos interessados instruído com os seguintes documentos:\n\na) Identificação e morada do requerente e do proprietário do terreno, quando não for este a requerer;\n\nb) Identificação e localização do prédio ou prédios com a indicação do lugar, artigos matriciais, área total a ocupar com as obras ou quaisquer outras formas de utilização pretendidas;\n\nc) Planta de localização à escala de 1/25 000 onde se identifique o prédio ou prédios;\n\nd) Planta cadastral ou equivalente, à escala de 1/2000, contendo as indicações de pormenor, nomeadamente os limites dos prédios e a localização exacta de todas as obras pretendidas.\n\n2 - No caso da alínea b) do n.º 1 do artigo 5.º, deverão os requerentes juntar documento comprovativo da inscrição na segurança social e da última declaração de rendimentos.\n\n3 - A entidade competente para emissão de parecer pode solicitar aos interessados ou a quaisquer serviços públicos os elementos que considere necessários, bem como efectuar as vistorias ou inspecções que considerar convenientes."
+  },
+  "123783787": {
+   "fragment_id": "123783699",
+   "type": 11,
+   "heading": "Artigo 8.º — Despacho de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despacho de autorização\n\n1 - Cabe ao IROA, S. A., confirmar as excepções previstas nas alíneas a), b) e c) do n.º 1 do artigo 5.º\n\n2 - As excepções previstas nas alíneas d) a g) do n.º 1 do artigo 5.º são confirmadas mediante despacho conjunto dos membros do governo regional com competência em matéria agrícola e da área respectiva."
+  },
+  "123783788": {
+   "fragment_id": "123783700",
+   "type": 11,
+   "heading": "Artigo 9.º — Natureza dos despachos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Natureza dos despachos\n\n1 - Os despachos decorrentes das situações previstas nas alíneas a), b) e c) do n.º 1 do artigo 5.º constituem meras confirmações das excepções.\n\n2 - Os despachos decorrentes das situações previstas nas alíneas d) a g) do n.º 1 do artigo 5.º constituem autorizações de desafectação da RAR."
+  },
+  "123783789": {
+   "fragment_id": "123783701",
+   "type": 11,
+   "heading": "Artigo 10.º — Prazos e publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prazos e publicação\n\n1 - Decorridos 60 ou 90 dias consoante se trate do parecer referido no n.º 2 do artigo 5.º ou de autorização constante do artigo 8.º sem que os interessados tenham sido notificados do requerido, considera-se, para todos os efeitos, favorável o parecer ou concedida a autorização respectiva.\n\n2 - Os despachos referidos no artigo anterior carecem de publicação no Jornal Oficial."
+  },
+  "123783790": {
+   "fragment_id": "123783702",
+   "type": 11,
+   "heading": "Artigo 11.º — Emissão de certificado de classificação RAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Emissão de certificado de classificação RAR\n\n1 - Independentemente de qualquer processo administrativo a iniciar ou em curso, todas as pessoas têm direito a requerer certificados de classificação RAR.\n\n2 - A emissão dos certificados a que se refere o número anterior compete ao IROA, S. A., devendo o respectivo requerimento ser instruído com os elementos constantes das alíneas a) a c) do n.º 1 do artigo 7.º e planta cadastral ou equivalente, à escala de 1/2000, contendo as indicações de pormenor, nomeadamente os limites do prédio ou prédios."
+  },
+  "123783791": {
+   "fragment_id": "123783703",
+   "type": 11,
+   "heading": "Artigo 12.º — Nulidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Nulidades\n\nSão nulos todos os actos administrativos praticados em violação do estabelecido no presente diploma."
+  },
+  "123783792": {
+   "fragment_id": "123783704",
+   "type": 11,
+   "heading": "Artigo 13.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de (euro) 2500 a (euro) 25 000 toda a utilização não agrícola de solos integrados na RAR sem as licenças, concessões, aprovações ou autorizações exigidas por lei ou qualquer forma de utilização dos solos que contrarie as disposições do presente diploma.\n\n2 - A negligência é punível.\n\n3 - No caso de a responsabilidade por contra-ordenação pertencer a pessoa colectiva, os valores máximos das coimas elevam-se a (euro) 75 000, tratando-se de facto doloso, ou a (euro) 50 000, no caso de facto negligente."
+  },
+  "123783793": {
+   "fragment_id": "123783705",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\n1 - A fiscalização do disposto no presente diploma compete, em especial, aos municípios, aos serviços de ilha do departamento do governo regional com competência em matéria agrícola e ao IROA, S. A.\n\n2 - Compete aos municípios embargar as obras que sejam começadas em contravenção das disposições do presente diploma, nos termos da lei aplicável."
+  },
+  "123783794": {
+   "fragment_id": "123783706",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução dos processos e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrução dos processos e aplicação das coimas\n\n1 - A instrução dos processos pelas contra-ordenações previstas neste diploma é da competência do IROA, S. A.\n\n2 - Finda a instrução são os processos remetidos ao presidente do conselho de administração do IROA, S. A., para aplicação da respectiva coima.\n\n3 - O produto das coimas aplicadas reverte integralmente para o IROA, S. A., ou em 50 % para o município respectivo no caso deste ter iniciado o procedimento."
+  },
+  "123783795": {
+   "fragment_id": "123783707",
+   "type": 11,
+   "heading": "Artigo 16.º — Cessação das acções violadoras do regime da RAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cessação das acções violadoras do regime da RAR\n\nIndependentemente do processo de contra-ordenação e da aplicação das coimas, o IROA, S. A., deverá do mesmo dar conhecimento ao respectivo município para que seja ordenada a cessação imediata das acções desenvolvidas em violação do disposto no presente diploma."
+  },
+  "123783796": {
+   "fragment_id": "123783708",
+   "type": 11,
+   "heading": "Artigo 17.º — Reposição da situação anterior à infracção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reposição da situação anterior à infracção\n\n1 - O IROA, S. A., pode, após a audição dos interessados, independentemente de aplicação das coimas, determinar aos responsáveis pelas acções violadoras do regime da RAR que procedam à reposição da situação anterior à infracção, fixando o prazo e os termos que devem ser observados.\n\n2 - Após a notificação para que se proceda à reposição, se não for cumprida a obrigação no prazo para tal fixado, o IROA, S. A., pode mandar proceder aos trabalhos necessários à reposição da situação anterior à infracção, apresentando para cobrança nota de despesas efectuadas aos agentes infractores.\n\n3 - Na falta de pagamento no prazo de 60 dias, será a cobrança efectuada nos termos do processo de execuções fiscais, constituindo a nota de despesas título executivo bastante, devendo dela constar o nome e o domicílio do devedor, a proveniência da dívida e a indicação, por extenso, do seu montante, bem como a data a partir da qual são devidos juros de mora.\n\n4 - No caso de a utilização em causa estar ilegalmente licenciada pela entidade pública competente, incumbe a esta a responsabilidade pelas despesas a que se referem os números anteriores."
+  },
+  "123783797": {
+   "fragment_id": "123783709",
+   "type": 11,
+   "heading": "Artigo 18.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Taxas\n\n1 - A emissão de pareceres e certificados a que se refere, respectivamente, o n.º 2 do artigo 5.º e o artigo 11.º, pode estar sujeito ao pagamento pelos interessados de taxas de montantes a fixar por portaria do membro do Governo com competência em matéria de agricultura.\n\n2 - O montante das taxas cobradas reverte integralmente para o IROA, S. A."
+  },
+  "123783798": {
+   "fragment_id": "123783710",
+   "type": 11,
+   "heading": "Artigo 19.º — Carta da Reserva Agrícola Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Carta da Reserva Agrícola Regional\n\nA Carta da Reserva Agrícola Regional, a que se refere o n.º 1 do artigo 3.º, será constituída por nove mapas parcelares correspondendo um a cada uma das ilhas do arquipélago dos Açores, à escala de 1/25 000, revogando a Portaria n.º 1/92, de 2 de Janeiro."
+  },
+  "123783799": {
+   "fragment_id": "123783711",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "123795801": {
+   "fragment_id": "123783694",
+   "type": 11,
+   "heading": "Artigo 3.º — Constituição",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 3.º — Constituição\n\n1 - As áreas da RAR são constituídas por solos das classes de capacidade de uso i, ii, iii, iv e ou solos de outros tipos cuja salvaguarda se mostre conveniente, particularmente nas ilhas em que as classes referidas apresentem expressão reduzida.\n\n2 - A classificação da capacidade de uso referida no número anterior foi estabelecida de acordo com os critérios técnicos constantes da Carta de Capacidade de Uso do Solo, em depósito na sede da entidade gestora da RAR.\n\n3 - A RAR é delimitada cartograficamente pela Carta da Reserva Agrícola Regional, publicada em diploma regulamentar próprio, ficando os originais depositados na sede da entidade referida no número anterior.\n\n4 - Os planos municipais de ordenamento do território e os planos especiais de ordenamento do território podem proceder à desafetação de áreas da RAR, no quadro da legislação em vigor e mediante a emissão de parecer vinculativo da entidade gestora da RAR no âmbito do acompanhamento daqueles planos.\n\n5 - As áreas desafetadas nos termos do número anterior são reafetadas à RAR sempre que, através de plano municipal de ordenamento do território, as mesmas sejam alvo de reclassificação de solo urbano para solo rural.\n\n6 - A delimitação cartográfica referida no n.º 3 considera-se automaticamente atualizada por via das desafetações e reafetações da RAR operadas nos termos previstos no presente diploma.\n\n7 - A entidade gestora da RAR mantém atualizada, em formato digital georreferenciado, a delimitação cartográfica referida nos números anteriores.\n\n8 - Para efeitos do disposto no número anterior, as entidades responsáveis pela elaboração dos planos devem enviar à entidade gestora da RAR um exemplar do plano, em formato digital georreferenciado, com a delimitação da RAR e bem como a identificação das desafetações preconizadas pelo mesmo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795802": {
+   "fragment_id": "123783695",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\nOs solos da RAR devem ser exclusivamente afetos à agricultura, sendo proibidas todas as ações que diminuam ou destruam as suas potencialidades agrícolas, ou que se traduzam na sua utilização para fins não agrícolas, designadamente:\n\na) Vias de comunicação e acessos, construção de edifícios, aterros e escavações;\n\nb) Lançamento ou depósito de resíduos sólidos urbanos ou industriais ou outros produtos que contenham substâncias que possam alterar as características do solo;\n\nc) Despejo de volumes excessivos de lamas, estrumes e chorumes, nos termos da legislação em vigor;\n\nd) Acções que provoquem erosão e degradação do solo, desprendimentos de terras, encharcamentos e inundações e outros efeitos perniciosos;\n\ne) Utilização indevida de técnicas ou produtos fertilizantes ou fitofarmacêuticos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795803": {
+   "fragment_id": "123783696",
+   "type": 11,
+   "heading": "Artigo 5.º — Excepções",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 5.º — Excepções\n\n1 - Exceptuam-se do disposto no artigo anterior:\n\na) Obras com finalidade exclusivamente agrícola, no âmbito hidráulico, das vias de acesso, dos aterros e escavações, bem como das edificações destinadas a guarda de animais e equipamentos ou ao armazenamento, transformação ou comercialização dos produtos agrícolas locais;\n\nb) Construção de habitação para agricultores instalados há pelo menos três anos ou ao abrigo de um projeto para primeira instalação, nos seus prédios rústicos, para fixação em regime de residência própria e permanente na exploração agrícola;\n\nc) Obras de reconstrução e ampliação de construções já existentes, desde que estas já se destinassem e continuem a destinar-se a habitação própria;\n\nd) Obras indispensáveis a instalações agroturísticas como complemento da atividade agrícola;\n\ne) Vias de comunicação, seus acessos e outros empreendimentos e construções de relevante interesse público, que sejam reconhecidas como tal por resolução do Conselho do Governo Regional, e para cujo traçado e localização não exista alternativa técnica ou economicamente aceitável;\n\nf) Obras indispensáveis para a defesa do património cultural e ambiental;\n\ng) Obras indispensáveis para a instalação de telecomunicações e postos de abastecimento de combustíveis, sempre que não haja alternativa técnica ou economicamente aceitável.\n\n2 - As exceções constantes do número anterior são objeto de parecer prévio vinculativo da entidade gestora da RAR, sem prejuízo do estabelecido nos planos diretores municipais ou em outros planos de ordenamento do território.\n\n3 - Os municípios podem indicar expressamente no respetivo plano diretor municipal, de acordo com a estratégia e objetivos definidos, quais das exceções constantes do n.º 1 são admitidas no respetivo concelho e quais os índices de construção a aplicar.\n\n4 - Para efeitos do disposto no presente diploma, entende-se por:\n\na) «Agricultor» a pessoa singular, cujo rendimento bruto proveniente da atividade agrícola é igual ou superior a 50 % do seu rendimento global e que dedica pelo menos 50 % do seu tempo total de trabalho à mesma exploração, entendendo-se não poder reunir estes requisitos toda a pessoa que beneficie de uma pensão de reforma ou de invalidez, qualquer que seja o regime de segurança social aplicável, ou exerça uma atividade que ocupe mais de metade do horário profissional de trabalho que, em condições normais, caberia ao trabalhador a tempo inteiro dessa profissão;\n\nb) «Exploração agrícola» a unidade técnico-económica de produção, submetida a uma gestão única, com uma localização determinada, constituída por um ou mais blocos de terras, que integra, além das atividades agrícolas, as outras atividades produtivas diretamente relacionadas com a atividade agrícola e que utilizem terras ou outros recursos da exploração.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795804": {
+   "fragment_id": "123783697",
+   "type": 11,
+   "heading": "Artigo 6.º — Restrições",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 6.º — Restrições\n\n1 - As habitações construídas ao abrigo da alínea b) do n.º 1 do artigo anterior são inalienáveis no prazo de 10 anos a contar da emissão do alvará de utilização, exceto nos casos em que a venda desta seja feita com a totalidade da exploração agrícola e o adquirente preencha os requisitos exigidos ao vendedor.\n\n2 - O ónus referido no número anterior deverá constar do alvará de utilização emitido pela câmara municipal que licenciou a obra para a construção de habitação e está sujeito a registo predial.\n\n3 - Os documentos referidos no número anterior deverão ser remetidos à entidade gestora da RAR, pela câmara municipal e pelo requerente, respetivamente, no prazo de 30 dias a contar da data de emissão.\n\n4 - Fica limitada a construção na RAR a apenas uma habitação por requerente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795805": {
+   "fragment_id": "123783698",
+   "type": 11,
+   "heading": "Artigo 7.º — Requerimento de parecer e ou de autorização",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 7.º — Requerimento de parecer e ou de autorização\n\n1 - As autorizações relativas às excepções constantes do n.º 1 e a emissão de parecer a que se refere o n.º 2, ambos do artigo 5.º, dependem de requerimento dos interessados instruído com os seguintes documentos:\n\na) Identificação e morada do requerente e do proprietário do terreno, quando não for este a requerer;\n\nb) Identificação e localização do prédio ou prédios com a indicação do lugar, artigos matriciais, área total a ocupar com as obras ou quaisquer outras formas de utilização pretendidas;\n\nc) Planta de localização à escala de 1/25 000 onde se identifique o prédio ou prédios;\n\nd) Planta cadastral ou equivalente, à escala de 1/2000, contendo as indicações de pormenor, nomeadamente os limites dos prédios e a localização exacta de todas as obras pretendidas.\n\ne) Contrato de arrendamento rural e declaração do proprietário a autorizar as intervenções requeridas.\n\n2 - No caso da alínea b) do n.º 1 do artigo 5.º, deverão os requerentes juntar documento comprovativo da inscrição na segurança social e das três últimas declarações de rendimentos ou documento comprovativo da primeira instalação.\n\n3 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 5.º, entende-se por interessado o requerente e respetivo cônjuge, que deverão juntar certidão das Finanças onde constem todos os bens imóveis existentes em seu nome.\n\n4 - A entidade competente para emissão de parecer pode solicitar aos interessados ou a quaisquer serviços públicos os elementos que considere necessários, bem como efectuar as vistorias ou inspecções que considerar convenientes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795806": {
+   "fragment_id": "123783699",
+   "type": 11,
+   "heading": "Artigo 8.º — Despacho de autorização",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 8.º — Despacho de autorização\n\n1 - Cabe à entidade gestora da RAR confirmar as exceções previstas nas alíneas a) a d) do n.º 1 do artigo 5.º\n\n2 - As exceções previstas nas alíneas e) a g) do n.º 1 do artigo 5.º são confirmadas mediante despacho conjunto dos membros do Governo Regional com competência em matéria agrícola e da área respetiva.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795807": {
+   "fragment_id": "123783700",
+   "type": 11,
+   "heading": "Artigo 9.º — Natureza dos despachos",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 9.º — Natureza dos despachos\n\n1 - Os despachos decorrentes das situações previstas nas alíneas a) a d) do n.º 1 do artigo 5.º constituem meras confirmações das exceções.\n\n2 - Os despachos decorrentes das situações previstas nas alíneas e) a g) do n.º 1 do artigo 5.º constituem autorizações de desafetação da RAR.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795808": {
+   "fragment_id": "123783702",
+   "type": 11,
+   "heading": "Artigo 11.º — Emissão de certificado de classificação RAR",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 11.º — Emissão de certificado de classificação RAR\n\n1 - Independentemente de qualquer processo administrativo a iniciar ou em curso, todas as pessoas têm direito a requerer certificados de classificação RAR.\n\n2 - A emissão dos certificados a que se refere o número anterior compete à entidade gestora da RAR, devendo o respetivo requerimento ser instruído com os elementos constantes das alíneas a) a c) do n.º 1 do artigo 7.º e planta cadastral ou equivalente, à escala de 1/2000, contendo as indicações de pormenor, nomeadamente os limites do prédio ou prédios.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795809": {
+   "fragment_id": "123783705",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\n1 - A fiscalização do disposto no presente diploma compete, em especial, aos municípios, aos serviços de ilha do departamento do Governo Regional com competência em matéria agrícola e à entidade gestora da RAR.\n\n2 - Compete aos municípios embargar as obras que sejam começadas em contravenção das disposições do presente diploma, nos termos da lei aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795810": {
+   "fragment_id": "123783706",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução dos processos e aplicação das coimas",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 15.º — Instrução dos processos e aplicação das coimas\n\n1 - A instrução dos processos pelas contraordenações previstas neste diploma é da competência da entidade gestora da RAR.\n\n2 - Finda a instrução são os processos remetidos ao dirigente máximo da entidade gestora da RAR para aplicação da respetiva coima.\n\n3 - O produto das coimas aplicadas reverte integralmente para a entidade gestora da RAR ou em 50 % para o município respetivo, no caso de este ter iniciado o procedimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795811": {
+   "fragment_id": "123783707",
+   "type": 11,
+   "heading": "Artigo 16.º — Cessação das acções violadoras do regime da RAR",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 16.º — Cessação das acções violadoras do regime da RAR\n\nIndependentemente do processo de contraordenação e da aplicação das coimas, a entidade gestora da RAR deverá do mesmo dar conhecimento ao respetivo município para que seja ordenada a cessação imediata das ações desenvolvidas em violação do disposto no presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795812": {
+   "fragment_id": "123783708",
+   "type": 11,
+   "heading": "Artigo 17.º — Reposição da situação anterior à infracção",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 17.º — Reposição da situação anterior à infracção\n\n1 - A entidade gestora da RAR pode, após a audição dos interessados, independentemente de aplicação das coimas, determinar aos responsáveis pelas ações violadoras do regime da RAR que procedam à reposição da situação anterior à infração, fixando o prazo e os termos que devem ser observados.\n\n2 - Após a notificação para que se proceda à reposição, se não for cumprida a obrigação no prazo para tal fixado, a entidade gestora da RAR pode mandar proceder aos trabalhos necessários à reposição da situação anterior à infração, apresentando para cobrança nota de despesas efetuadas aos agentes infratores.\n\n3 - Na falta de pagamento no prazo de 60 dias, será a cobrança efectuada nos termos do processo de execuções fiscais, constituindo a nota de despesas título executivo bastante, devendo dela constar o nome e o domicílio do devedor, a proveniência da dívida e a indicação, por extenso, do seu montante, bem como a data a partir da qual são devidos juros de mora.\n\n4 - No caso de a utilização em causa estar ilegalmente licenciada pela entidade pública competente, incumbe a esta a responsabilidade pelas despesas a que se referem os números anteriores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795813": {
+   "fragment_id": "123783709",
+   "type": 11,
+   "heading": "Artigo 18.º — Taxas",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 18.º — Taxas\n\n1 - A emissão de pareceres e certificados a que se refere, respectivamente, o n.º 2 do artigo 5.º e o artigo 11.º, pode estar sujeito ao pagamento pelos interessados de taxas de montantes a fixar por portaria do membro do Governo com competência em matéria de agricultura.\n\n2 - O montante das taxas cobradas reverte integralmente para a entidade gestora da RAR.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795798": {
+   "fragment_id": "123798676",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Identificação dos solos",
+   "in_force_from": "2012-07-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 19.º-A — Identificação dos solos\n\nOs solos integrados na RAR são obrigatoriamente identificados em todos os instrumentos de gestão territorial em vigor na Região Autónoma dos Açores.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795799": {
+   "fragment_id": "123783711",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "123795800": {
+   "fragment_id": "123783712",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de Junho de 2008.\n\nO Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 16 de Julho de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "123795814": {
+   "fragment_id": "123783696",
+   "type": 11,
+   "heading": "Artigo 5.º — Excepções",
+   "in_force_from": "2019-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2019/A - Diário da República n.º 150/2019, Série I de 2019-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990), em vigor a partir de 2019-09-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 5.º — Excepções\n\n1 - Exceptuam-se do disposto no artigo anterior:\n\na) Obras com finalidade exclusivamente agrícola, quando integradas na gestão das explorações ligadas à atividade agrícola, de âmbito hidráulico, das vias de acesso, dos aterros e escavações, bem como das edificações destinadas a guarda de animais e equipamentos ou ao armazenamento, transformação ou comercialização dos produtos agrícolas locais;\n\nb) Construção de habitação para agricultores instalados há pelo menos três anos ou ao abrigo de um projeto para primeira instalação, nos seus prédios rústicos, para fixação em regime de residência própria e permanente na exploração agrícola;\n\nc) Obras de reconstrução e ampliação de construções já existentes, desde que estas já se destinassem e se continuem a destinar a habitação própria e permanente;\n\nd) Obras indispensáveis a instalações agroturísticas como complemento à atividade agrícola;\n\ne) Instalação de equipamentos para produção de energia a partir de fontes de energia renováveis, quando não exista alternativa de localização económica e tecnicamente viável em áreas não integradas na RAR, a justificar pelo requerente e com parecer favorável da entidade com competência em matéria de energia;\n\nf) Obras decorrentes de exigências legais supervenientes, relativas à regularização de atividades económicas previamente exercidas, por forma a que estas atividades e respetivas instalações possam continuar em laboração, desde que se encontre justificada pelo requerente a necessidade da obra;\n\ng) Vias de comunicação, seus acessos e outros empreendimentos e construções de relevante interesse público, que sejam reconhecidas como tal por resolução do Conselho do Governo Regional, e para cujo traçado e localização não exista alternativa técnica ou economicamente aceitável;\n\nh) Obras indispensáveis para a defesa do património cultural e ambiental;\n\ni) Obras indispensáveis para a instalação de telecomunicações e postos de abastecimento de combustíveis, sempre que não haja alternativa técnica ou economicamente aceitável.\n\n2 - No caso da exceção prevista na alínea a) do número anterior, a entidade gestora da RAR, caso assim o entenda, poderá solicitar parecer, ao organismo competente em razão da matéria, comprovativo de que a exploração está em atividade e que o investimento é indispensável à mesma.\n\n3 - As exceções constantes do n.º 1 são objeto de parecer prévio vinculativo da entidade gestora da RAR, sem prejuízo do estabelecido nos planos diretores municipais ou em outros instrumentos de gestão territorial.\n\n4 - Os municípios podem indicar expressamente no respetivo plano diretor municipal, de acordo com a estratégia e objetivos definidos, quais das exceções constantes do n.º 1 são admitidas no respetivo concelho e quais os índices de construção a aplicar.\n\n5 - Para efeitos do disposto no presente diploma, entende-se por:\n\na) «Agricultor» a pessoa singular, cujo rendimento bruto proveniente da atividade agrícola é igual ou superior a 50 % do seu rendimento global e que dedica pelo menos 50 % do seu tempo total de trabalho à mesma exploração, entendendo-se não poder reunir estes requisitos toda a pessoa que beneficie de uma pensão de reforma ou de invalidez, qualquer que seja o regime de segurança social aplicável, ou exerça uma atividade que ocupe mais de metade do horário profissional de trabalho que, em condições normais, caberia ao trabalhador a tempo inteiro dessa profissão;\n\nb) «Exploração agrícola» a unidade técnico-económica de produção, submetida a uma gestão única, com uma localização determinada, constituída por um ou mais blocos de terras, que integra, além das atividades agrícolas, as outras atividades produtivas diretamente relacionadas com a atividade agrícola e que utilizem terras ou outros recursos da exploração.\n\n6 - O Governo Regional promoverá a regulamentação necessária ao estabelecimento dos limites e condições a observar para a viabilização das utilizações referidas no n.º 1 do presente artigo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2019/A - Diário da República n.º 150/2019, Série I de 2019-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990), em vigor a partir de 2019-09-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795815": {
+   "fragment_id": "123783699",
+   "type": 11,
+   "heading": "Artigo 8.º — Despacho de autorização",
+   "in_force_from": "2019-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2019/A - Diário da República n.º 150/2019, Série I de 2019-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990), em vigor a partir de 2019-09-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 8.º — Despacho de autorização\n\n1 - Cabe à entidade gestora da RAR confirmar as exceções previstas nas alíneas a) a c) do n.º 1 do artigo 5.º\n\n2 - As exceções previstas nas alíneas d) a i) do n.º 1 do artigo 5.º carecem de parecer favorável dos membros do Governo Regional com competência na matéria respetiva.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2019/A - Diário da República n.º 150/2019, Série I de 2019-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990), em vigor a partir de 2019-09-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795816": {
+   "fragment_id": "123783700",
+   "type": 11,
+   "heading": "Artigo 9.º — Natureza dos despachos",
+   "in_force_from": "2019-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2019/A - Diário da República n.º 150/2019, Série I de 2019-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990), em vigor a partir de 2019-09-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 9.º — Natureza dos despachos\n\n1 - Os despachos decorrentes das situações previstas nas alíneas a) a e) do n.º 1 do artigo 5.º constituem meras confirmações das exceções.\n\n2 - Os despachos decorrentes das situações previstas nas alíneas f) a i) do n.º 1 do artigo 5.º constituem autorizações de desafetação da RAR.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2019/A - Diário da República n.º 150/2019, Série I de 2019-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990), em vigor a partir de 2019-09-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795817": {
+   "fragment_id": "123783705",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": "2019-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2019/A - Diário da República n.º 150/2019, Série I de 2019-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990), em vigor a partir de 2019-09-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\n1 - A fiscalização do disposto no presente diploma compete, em especial, aos municípios, aos serviços de ilha do departamento do Governo Regional com competência em matéria de agricultura, à Inspeção Regional do Ambiente e à entidade gestora da RAR.\n\n2 - Compete aos municípios embargar as obras que sejam começadas em contravenção das disposições do presente diploma, nos termos da lei aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2019/A - Diário da República n.º 150/2019, Série I de 2019-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990), em vigor a partir de 2019-09-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  },
+  "123795818": {
+   "fragment_id": "123783706",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução dos processos e aplicação das coimas",
+   "in_force_from": "2019-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2019/A - Diário da República n.º 150/2019, Série I de 2019-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990), em vigor a partir de 2019-09-06",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+   ],
+   "markdown": "###### Artigo 15.º — Instrução dos processos e aplicação das coimas\n\n1 - A instrução dos processos pelas contraordenações previstas neste diploma é da competência da entidade gestora da RAR.\n\n2 - Finda a instrução são os processos remetidos ao dirigente máximo da entidade gestora da RAR para aplicação da respetiva coima.\n\n3 - O produto das coimas aplicadas reverte integralmente para a Região ou em 50 % para os municípios, no caso de terem sido estes a iniciar o procedimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2019/A - Diário da República n.º 150/2019, Série I de 2019-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990), em vigor a partir de 2019-09-06\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2012/A - Diário da República n.º 136/2012, Série I de 2012-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516), em vigor a partir de 2012-07-26"
+  }
+ }
+}

@@ -1,0 +1,701 @@
+---
+schema_version: '1.0'
+id: pt:dre:3588201:por
+title: Resolução n.º 28/2003 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Universidade do Minho - Senado Universitário
+proposing_entity: null
+official_number: 28/2003 (2.ª série)
+official_date: null
+publication_date: '2003-04-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 79/2003, Série II de 2003-04-03
+  number: '79'
+  series: II
+  supplement: null
+  pages: 5252 - 5254
+  pdf_url: https://files.diariodarepublica.pt/2s/2003/04/079000000/0525205254.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3588201'
+  dre_path: /dr/detalhe/resolucao/28-2003-3588201
+  internal: pt:dre:3588201:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/28-2003-3588201
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/28-2003-3588201
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-04-03T00:00:00Z'
+integrity:
+  source_sha256: a4a02e8093b66f8708edb26eca6f61fa1603f4ca747cee84086f0041fd2c3fcd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-28-3588201.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 28/2003 (2.ª série)
+
+Resolução n.º 28/2003 (2.ª série). - Sob proposta do conselho científico do Instituto de Ciências Sociais;
+
+Obtido o parecer favorável do conselho académico, nos termos da alínea a) do artigo 25.º dos Estatutos da Universidade do Minho;
+
+Ao abrigo do disposto no artigo 7.º da [Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 24 de Setembro, e no n.º 2 do artigo 21.º dos Estatutos da Universidade do Minho:
+
+O Senado Universitário da Universidade do Minho, em sessão plenária de 27 de Janeiro de 2003, determina o seguinte:
+
+1 - É criado o grupo disciplinar de Arqueologia do Instituto de Ciências Sociais.
+
+2 - As disciplinas que integram o grupo disciplinar agora criado são as definidas no anexo II desta resolução.
+
+3 - São concomitantemente extintas as disciplinas de Arqueologia do grupo disciplinar de História constantes do anexo III à resolução SU-12/2000, de 8 de Maio.
+
+4 - Os anexos à resolução SU-12/2000, de 8 de Maio, passam a ter a redacção dos anexos da presente resolução.
+
+5 - É revogada a resolução SU-12 / 2000, de 8 de Maio.
+
+6 - A presente resolução entre em vigor na data da sua publicação.
+
+27 de Janeiro de 2003. - O Presidente, A. Guimarães Rodrigues.
+
+## ANEXO I — Instituto de Ciências Sociais
+
+Grupos disciplinares
+
+Departamento/Secção ... Grupo disciplinar
+
+Antropologia ... Antropologia.
+
+Ciências da Comunicação ... Ciências da Comunicação.
+
+Geografia ... Geografia.
+
+História ... Arqueologia.
+
+... História.
+
+Sociologia ... Sociologia.
+
+## ANEXO II — Instituto de Ciências Sociais
+
+Disciplinas por grupo disciplinar
+
+Grupo disciplinar ... Disciplinas
+
+... Antropologia
+
+... Antropologia Cultural.
+
+... Antropologia Geral.
+
+... Etnicidade e Relações Interculturais.
+
+... Teoria e Métodos em Antropologia.
+
+... Antropologia Económica.
+
+... Organização Social, Família e Parentesco.
+
+... Seminário.
+
+... Técnicas de Antropologia Contemporânea.
+
+... Representações Mágico-Religiosas.
+
+... Antropologia Política.
+
+... Seminário.
+
+... Património Etnológico: Noções e Práticas.
+
+... Os Museus e Centros de Interpretação.
+
+... Seminário.
+
+... Família e Ciclo de Vida.
+
+... Antropologia Cultural.
+
+... Povos e Culturas dos Países Tropicais de Língua Portuguesa.
+
+Grupo disciplinar ... Disciplinas
+
+... Povos e Culturas.
+
+... Antropologia do Simbólico.
+
+... Mundo Rural.
+
+... Mundo Urbano.
+
+Arqueologia ... Introdução à Arqueologia.
+
+... Métodos e Técnicas em Arqueologia.
+
+... Desenho Arqueológico.
+
+... Práticas de Campo I.
+
+... Arte Pré e Proto-Histórica.
+
+... Métodos e Fontes Documentais para a Arqueologia.
+
+... Geoarqueologia.
+
+... Arqueologia Pré e Proto-Histórica.
+
+... Arqueologia Clássica.
+
+... Práticas de Campo II.
+
+... Epigrafia.
+
+... Materiais Arqueológicos I.
+
+... Materiais Arqueológicos II.
+
+... Arqueologia Medieval.
+
+... Arqueologia Urbana.
+
+... Arqueologia e Informática I.
+
+... Práticas de Laboratório.
+
+... Materiais Arqueológicos III.
+
+... Materiais Arqueológicos IV.
+
+... Projecto em Arqueologia.
+
+... Seminário.
+
+... Arqueologia e Informática II.
+
+... Ética e Deontologia Profissional.
+
+... Epistemologia da Arqueologia.
+
+... Práticas de Campo III.
+
+... Património Arqueológico-Histórico.
+
+... Numismática.
+
+... Processo Arqueológico.
+
+... Construção do Conhecimento em Arqueologia.
+
+... Sistemas de Informação em Arqueologia I.
+
+... Metodologias de Investigação.
+
+... Sistemas de Informação em Arqueologia II.
+
+... Seminário I (Arqueologia da Paisagem e do Povoamento).
+
+... Seminário II (Urbanismo e Construção Romana).
+
+... Seminário III (Urbanismo e Construção Medieval).
+
+... Seminário IV (Materiais Arqueológicos).
+
+... Seminário V (Arqueologia da Arquitectura).
+
+... Seminário VI (Património Arqueológico).
+
+... Arqueologia, Território e Ruínas.
+
+... Os Centros Históricos, o Património Monumental e os Bens Artísticos.
+
+... Seminário.
+
+Ciências da Comunicação ... Semiótica.
+
+... Métodos de Investigação I.
+
+... Teorias da Comunicação.
+
+... Psicologia Social.
+
+... Métodos de Investigação II.
+
+... Teorias da Comunicação.
+
+... Psicologia Social.
+
+... Métodos de Investigação II.
+
+... Teoria e Análise do Discurso.
+
+... Sociologia da Comunicação.
+
+... Deontologia da Comunicação.
+
+... História e Semiótica das Artes Visuais.
+
+... Informação Internacional.
+
+... Questões Aprofundadas de Investigação.
+
+... Jornalismo.
+
+... Produção e Realização Radiofónicas.
+
+... Produção e Realização Televisivas.
+
+... Teoria e Técnicas de Publicidade.
+
+... Teoria e Métodos de Relações Públicas.
+
+... Laboratório de Jornalismo.
+
+... Laboratório de Rádio e Televisão.
+
+... Laboratório de Publicidade.
+
+... Laboratório de Relações Públicas.
+
+... Psicologia Social.
+
+... Comunicação nas Organizações.
+
+... Informação e Publicidade.
+
+... Psicologia das Organizações.
+
+... Teorias Psicológicas.
+
+... Relações Públicas.
+
+... Teoria da Comunicação e da Informação.
+
+... Sociologia da Informação e da Opinião Pública I.
+
+... Sociologia da Informação e da Opinião Pública II.
+
+... Teorias da Comunicação.
+
+... Sociologia da Informação e da Opinião Pública.
+
+... Teoria e Prática do Jornalismo I.
+
+... Teoria e Prática do Jornalismo II.
+
+... Multimédia, Património e Turismo.
+
+... Comunicação Social, Cultura e Públicos.
+
+... Seminário.
+
+... Sociologia da Comunicação.
+
+... Sociologia da Cultura.
+
+... Sociologia das Religiões.
+
+... Comunicação nas Organizações.
+
+... Liderança e Dinâmica de Grupos.
+
+Geografia ... Análise Biogeofísica.
+
+... Climatologia.
+
+... Expressão Gráfica.
+
+... Geografia.
+
+... Geografia da Saúde.
+
+... Geografia das Actividades Terciárias.
+
+... Geografia do Lazer e do Turismo.
+
+... Geografia dos Recursos Naturais.
+
+... Geografia Económica e Planeamento.
+
+... Geografia Física.
+
+... Geografia Física de Portugal.
+
+... Geografia Humana.
+
+... Geografia Humana de Portugal.
+
+... Geografia Industrial.
+
+... Geografia Rural.
+
+... Geografia Urbana.
+
+... Hidrologia.
+
+... Introdução à Geografia.
+
+... Planeamento e Gestão Urbanística.
+
+... Planeamento Físico dos Recursos Naturais.
+
+... Riscos Naturais e Protecção do Ambiente.
+
+... Suportes Físicos e Culturais do Planeamento Regional e Local.
+
+... Teledetecção e Cartografia Automática.
+
+... Teoria e Investigação em Geografia.
+
+... Teorias e Metodologias do Planeamento.
+
+... Parques e Itinerários Culturais.
+
+... Planeamento e Ordenamento dos Recursos Turísticos.
+
+... Seminário.
+
+... Geografia da Saúde.
+
+História ... Origens e Evolução do Homem.
+
+... Comunidades Pré-Históricas do Holoceno.
+
+... Proto-História Europeia.
+
+... Primeiras Civilizações do Mundo Antigo.
+
+... Civilização Grega.
+
+... Civilização Romana.
+
+... Cultura Clássica.
+
+... Introdução aos Estudos Históricos.
+
+... Teoria da História.
+
+... Seminário de Investigação I.
+
+... Idade Média Europeia.
+
+... Idade Média Portuguesa.
+
+... Paleografia Medieval.
+
+... História da Arte Geral I.
+
+... Seminário de Investigação II.
+
+... Instituições Medievais.
+
+... Cultura e Mentalidade Medievais.
+
+... Idade Moderna.
+
+... Idade Moderna Portuguesa.
+
+... História da Expansão Portuguesa.
+
+... Paleografia Moderna.
+
+... História da Arte Geral II.
+
+... Demografia Histórica.
+
+... Seminário de Investigação III.
+
+... História Contemporânea.
+
+... História Contemporânea de Portugal.
+
+... Problemas do Mundo Contemporâneo.
+
+... História da Arte Geral III.
+
+... Mentalidades e Cultura Portuguesa.
+
+... Filosofia da História.
+
+... Seminário de Investigação IV.
+
+... História do Brasil.
+
+... Correntes da Arte Moderna.
+
+... História do Século XX.
+
+... Problemas do Mundo Contemporâneo.
+
+... Património e Planeamento.
+
+... História Social do Século XX.
+
+... História da Administração Pública e Municipal Portuguesa.
+
+... Movimentos de Arte Contemporânea.
+
+... O Modernismo na Arte.
+
+... Teoria e História da Arte.
+
+... População e Sociedade.
+
+... História das Instituições Públicas e Privadas.
+
+... Seminário.
+
+... Demografia Histórica.
+
+... Fontes.
+
+... Seminário - Micro-Análise Demográfica.
+
+... Seminário - Assistência, Sociedade e Família.
+
+... Seminário - Sociedade, Cultura e Instituições.
+
+... Seminário - Economia e Sociedade Rural.
+
+... História da Expansão Portuguesa para o Brasil.
+
+... Brasil Colonial I.
+
+... Portugal dos Séculos XIX e XX - Sociedade e Demografia.
+
+... Brasil dos Séculos XIX e XX - Sociedade e Demografia.
+
+... Portugal e Brasil - Transferência de Culturas e Instituições.
+
+... Brasil Colonial.
+
+... Seminário - Retorno de Emigrantes do Brasil.
+
+... Seminário - Estudos da Emigração em Bases Demográficas.
+
+... Seminário - Estudos da Imigração em Bases Demográficas.
+
+... Arte e Cultura Portuguesa Medieval.
+
+... Crítica das Fontes Medievais.
+
+... Paleografia Medieval I.
+
+... Paleografia Medieval II.
+
+... Informática Aplicada à História e à Literatura.
+
+... Seminário de Investigação em História Medieval.
+
+... Defesa do Património.
+
+... Arqueologia Industrial.
+
+... Demografia e História da População.
+
+... História da Indústria em Portugal.
+
+... Os Centros Históricos, o Património Monumental e os Bens Artísticos.
+
+... Os Museus e Centros de Interpretação.
+
+... Parques e Itinerários Culturais.
+
+... Seminário.
+
+... Património Documental e História das Populações.
+
+... História Contemporânea.
+
+... História da Arte no Século XX.
+
+... História do Brasil.
+
+... História do Século XX.
+
+... História Sócio-Cultural da Medicina.
+
+Sociologia ... Metodologia das Ciências Sociais.
+
+... Teoria Sociológica I.
+
+... Métodos e Técnicas de Investigação Social I.
+
+... Teoria Sociológica II.
+
+... Sociologia Rural e Urbana.
+
+... Estatística para as Ciências Sociais.
+
+... Sociologia do Poder.
+
+... Sociologia da Estratificação e das Classes Sociais.
+
+... Métodos e Técnicas de Investigação II.
+
+... Sociologia das Organizações.
+
+... Sociologia dos Estilos de Vida.
+
+... Sociologia do Trabalho.
+
+... Organizações e Gestão dos Recursos Humanos.
+
+... Sociologia da Família.
+
+... Sociologia do Desenvolvimento.
+
+... Sociologia da Educação.
+
+... Mudança Organizacional e Avaliação do Desempenho.
+
+... Sociologia das Actividades Terciárias.
+
+... Sociologia da Saúde.
+
+... Sociologia do Turismo e do Lazer.
+
+... Sociologia da Exclusão Social.
+
+... Técnicas de Análise Multivariada.
+
+... Solidariedade e Exclusão Social.
+
+... Sociologia das Migrações.
+
+... Sociologia do Crime.
+
+... Sociologia da Cultura.
+
+... Sociologia das Religiões.
+
+... Sociologia do Ambiente.
+
+... Sociologia do Desporto.
+
+... Seminário.
+
+... Introdução à Sociologia.
+
+... Teorias Sociológicas.
+
+... Sociologia Geral.
+
+... Desenvolvimento Regional e Local.
+
+... Teorias Sociológicas.
+
+... Estatística para a Geografia.
+
+... Métodos Quantitativos e Informática para a História.
+
+... Sociologia.
+
+... Estatística para as Ciências Sociais.
+
+... Metodologia para as Ciências Sociais.
+
+... Epistemologia e Metodologia para as Ciências Sociais.
+
+... Sociologia das Organizações.
+
+... Teorias Sociológicas.
+
+... Métodos e Técnicas em Sociologia.
+
+... Sociologia das Organizações.
+
+... Sociologia, Saúde e Religião.
+
+... Sociologia do Corpo, do Envelhecimento e da Morte.
+
+... Perspectiva Sócio-Demográfica e Institucional da Saúde.
+
+... Sociologia da Alimentação.
+
+... História Sócio-Cultural da Medicina.
+
+... Sociologia dos Estilos de Vida.
+
+... Comunicação Social, Cultura e Públicos.
+
+... Seminário.
+
+... Problemas da População e da Sociedade no Mundo Contemporâneo.
+
+... Sociologia do Quotidiano.
+
+... Sociologia dos Estilos de Vida.
+
+... Sociologia da Comunicação.
+
+... Sociologia da Cultura.
+
+... Sociologia das Organizações.
+
+... Sociologia da Família.
+
+... Sociologia do Lazer.
+
+... Sociologia do Consumo.
+
+... Sociologia das Religiões.
+
+... Seminário de Orientação.
+
+... Organizações e Desenvolvimento dos Recursos Humanos.
+
+... Sociologia e Desenvolvimento da Qualidade.
+
+... Seminário de Orientação à Dissertação.
+
+... Seminário de Apoio à Dissertação.
+
+... Seminário - Sociedades e Culturas Europeias.
+
+... Seminário - Sociedades e Culturas Europeias.

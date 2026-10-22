@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:533054:por
+title: Decreto n.º 6/97
+short_title: null
+summary: Aprova o Acordo, por troca de notas, entre os Governos de Portugal e de Israel sobre Supressão de Vistos, concluído
+  em Jerusalém, em 29 de Dezembro de 1993
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 6/97
+official_date: null
+publication_date: '1997-01-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/1997, Série I-A de 1997-01-16
+  number: '13'
+  series: I
+  supplement: null
+  pages: 246 - 248
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/01/013a00/02460248.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/6/1997/01/16/p/dre/pt/html
+  oj: null
+  dre: '533054'
+  dre_path: /dr/detalhe/decreto/6-1997-533054
+  internal: pt:dre:533054:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-1997-533054
+  metadata_url: https://data.dre.pt/eli/dec/6/1997/01/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-1997-533054
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-01-16T00:00:00Z'
+integrity:
+  source_sha256: 5b9b58ab47ee16d61187024990fb10e9532a9a2631cc056c0c8df84de731813d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-6-533054.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Portugal
+- Israel
+- Passaporte
+- Admissão de Estrangeiros
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 6/97
+
+de 16 de Janeiro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+É aprovado o Acordo entre os Governos de Portugal e de Israel sobre Supressão de Vistos, assinado em Jerusalém, em 29 de Dezembro de 1993, cujas versões em língua portuguesa e em língua inglesa seguem em anexo.
+
+###### Artigo 2.º
+
+O disposto no Acordo referido no artigo anterior não dispensa o cumprimento prévio das formalidades constitucionais exigíveis para a vinculação do Estado Português.
+
+Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Alberto Bernardes Costa.
+
+**Assinado em 19 de Dezembro de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 26 de Dezembro de 1996.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+Embaixada de Portugal em Telavive, Israel.
+
+No. 250.
+
+Proc. VA.
+
+H. E. The Minister of Foreign Affairs.
+
+Mr. Shimon Peres, Ministry of Foreign Affairs.
+
+Jerusalem.
+
+29.12.1993.
+
+Your Excellency:
+
+I have the honour to inform you that, in order to simplify the entry procedures into the Republic of Portugal and the State of Israel the Government of the Republic of Portugal is prepared to conclude with the Government of the State of Israel an Agreement in the following terms:
+
+1 - Nationals of the Republic of Portugal who are holders of a valid Portuguese passport may travel to the State of Israel without previously obtaining an entry visa when going for a temporary stay, in transit, business or tourism.
+
+2 - Nationals of the State of Israel who are holders of a valid Israeli passport may travel to the Republic of Portugal without previously obtaining an entry visa when going for a temporary stay, in transit, business or tourism.
+
+3 - By temporary stay is understood a stay of no longer than 90 days which can be extended by the relevant authorities.
+
+4 - Subject to the foregoing provisions, holders of valid Portuguese or Israeli passaports benefitting under this Agreement shall, while in the State of Israel or in the Republic of Portugal, comply with the laws and regulations applicable to foreigners in respect of entry and stay, and shall not take up any employment, whether paid or unpaid, nor practice for personal profit any professional or commercial activity unless proper authorisation has been given by the competent authorities of the country concerned.
+
+5 - The Governments of the Republic of Portugal and the State of Israel reserve the right to refuse admission to persons not possessing a valid Portuguese or Israeli passport or lacking adequate means of subsistence or otherwise ineligible under the general policy of the respective governments relating to the entry of aliens.
+
+6 - The Governments of the Republic of Portugal and the State of Israel reserve the right to temporarily suspend the application of this Agreement, for reasons of public order, national security or public health by giving the other government immediate notice through the diplomatic channels.
+
+7 - The present Agreement is concluded for an unlimited period of time. However either Contracting Party may terminate or suspend it by giving three months notice in writing, through the diplomatic channels, to the other Contracting Party of its intention to do so.
+
+If the above proposals are acceptable to the Government of the State of Israel, I have the honour to suggest that the present letter and your Excellency's reply constitute an Agreement between our two Governments concerning the abolition of visas for Portuguese and Israeli passports which shall enter into force on the date of the second of the notes by which the Parties notify each other in writing, through the diplomatic channels, of the fulfilment of their necessary legal requirements for the entry into force of the Agreement.
+
+Please accept, Your Excellency, the assurances of my highest consideration and esteem.
+
+João Quintela Paixão, Ambassador Extraordinary and Plenipotentiary.
+
+A S. Ex.ª Sr. Shimon Peres, Ministro dos Negócios Estrangeiros.
+
+Jerusalém.
+
+Telavive, 29 de Dezembro de 1993.
+
+Excelência:
+
+Tenho a honra de informar V. Ex.ª de que, a fim de simplificar os processos de entrada na República de Portugal e no Estado de Israel, o Governo de Portugal está pronto a concluir com o Governo do Estado de Israel um Acordo nos seguintes termos:
+
+1 - Os nacionais da República Portuguesa titulares de passaporte português válido poderão entrar no Estado de Israel para permanência temporária, em viagens de trânsito, negócios ou turismo, sem necessidade de visto.
+
+2 - Os nacionais do Estado de Israel titulares de passaporte válido poderão entrar na República Portuguesa para permanência temporária, em viagens de trânsito, negócios ou turismo, sem necessidade de visto.
+
+3 - Por permanência temporária entende-se uma permanência por período não superior a 90 dias, que poderá ser prorrogada pelas autoridades competentes.
+
+4 - Sem prejuízo das disposições que precedem, os titulares de passaporte português ou israelita válido que beneficiem do presente Acordo ficam sujeitos, durante a sua estada no Estado de Israel ou na República Portuguesa, às leis e regulamentos aplicáveis a estrangeiros no que respeita à entrada e permanência, não podendo aceitar qualquer trabalho, remunerado ou não, nem exercer qualquer actividade profissional ou comercial, em proveito próprio, sem que lhes tenha sido concedida a necessária autorização pelas competentes autoridades locais.
+
+5 - Os Governos da República Portuguesa e do Estado de Israel reservam-se o direito de recusar a entrada a pessoas que não possuam passaporte português ou israelita válido ou meios de subsistência adequados ou sejam considerados inadmissíveis nos termos da política dos respectivos Governos relativamente à entrada de estrangeiros.
+
+6 - Os Governos da República de Portugal e do Estado de Israel reservam-se o direito de suspender temporariamente a aplicação do presente Acordo por motivos de ordem pública, dando do facto imediato conhecimento por via diplomática ao Governo da outra Parte.
+
+7 - O presente Acordo é concluído por um período de tempo ilimitado. Contudo, cada uma das Partes Contratantes poderá denunciá-lo ou suspendê-lo, mediante aviso escrito com três meses de antecedência transmitido à outra Parte por via diplomática.
+
+Se estas propostas forem aceites pelo Governo do Estado de Israel, tenho a honra de sugerir que a presente carta e a resposta de V. Ex.ª constituam um Acordo entre os nossos dois Governos sobre Supressão de Vistos, em passaportes portugueses e israelitas, o qual entrará em vigor na data da segunda das notas com que as Partes notificarão uma à outra, por escrito e pelos canais diplomáticos, que estão cumpridos os respectivos requisitos legais necessários para a entrada em vigor do Acordo.
+
+Aproveito a oportunidade para reiterar a V. Ex.ª os protestos da minha mais elevada consideração.
+
+João Quintela Paixão, Embaixador Extraordinário e Plenipotenciário.
+
+His Excellency Dr. João Quintela Paixão, Ambassador of Portugal in Israel.
+
+Jerusalem, 29 December 1993.
+
+Your Excellency:
+
+I have the honour to refer to your letter dated 29 December 1993 concerning the conclusion of an Agreement between the Government of the Republic of Portugal and the Government of the State of Israel for the abolition of visas for holders of valid diplomatic, service or national passports of the two countries.
+
+In reply, I have the honour to inform Your Excellency that the proposals specified in your Excellency's above mentioned letter are acceptable to my Government and that Your Excellency's letter and the present letter shall constitute an Agreement between our two Governments which shall enter into force on the date of the second of the notes by which the Parties notify each other in writing, through the diplomatic channels of the fulfilment of their necessary legal requirements for the entry into force of the Agreement.
+
+Please accept, Your Excellency, the renewed assurances of my highest consideration and esteem.
+
+Shimon Peres.
+
+Tradução
+
+A S. Ex.ª o Dr. João Quintela Paixão, Embaixador de Portugal em Israel.
+
+Jerusalém, 29 de Dezembro de 1993.
+
+Excelência:
+
+Tenho a honra de me referir à carta de V. Ex.ª, datada de 29 de Dezembro, relativa à conclusão de um Acordo entre o Governo da República de Portugal e o Governo do Estado de Israel sobre Supressão de Vistos para titulares de passaportes válidos dos dois países, diplomáticos, de serviço ou comuns.
+
+Em resposta, tenho a honra de informar V. Ex.ª de que as propostas constantes da carta de V. Ex.ª acima mencionada são aceitáveis pelo meu Governo e que a carta de V. Ex.ª e a presente carta constituirão um Acordo entre os nossos dois governos, o qual entrará em vigor na data da segunda das notas com que as Partes notificarão uma à outra, por escrito e pelos canais diplomáticos, que estão cumpridos os respectivos requisitos legais necessários para a entrada em vigor do Acordo.
+
+Aproveito a oportunidade para apresentar a V. Ex.ª os protestos da minha mais elevada consideração.
+
+Shimon Peres.

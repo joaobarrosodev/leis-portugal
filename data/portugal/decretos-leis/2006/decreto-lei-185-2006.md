@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:540022:por
+title: Decreto-Lei n.º 185/2006
+short_title: null
+summary: Cria o Fundo de Apoio ao Sistema de Pagamentos do Serviço Nacional de Saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 185/2006
+official_date: null
+publication_date: '2006-09-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/2006, Série I de 2006-09-12
+  number: '176'
+  series: I
+  supplement: null
+  pages: 6692 - 6693
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/09/17600/66926693.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/185/2006/09/12/p/dre/pt/html
+  oj: null
+  dre: '540022'
+  dre_path: /dr/detalhe/decreto-lei/185-2006-540022
+  internal: pt:dre:540022:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2006-540022
+  metadata_url: https://data.dre.pt/eli/dec-lei/185/2006/09/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2006-540022
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-12-30T00:00:00Z'
+integrity:
+  source_sha256: 1de77b432f5ee19f6c0df98655734677f73247c4657ef5b7c3fb47b1468cc0cc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-185-540022.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fundo de Apoio ao Sistema de Pagamentos do Serviço Nacional de Saúde
+- Financiamento
+- Ministério das Finanças e da Administração Pública
+- Comparticipação do Estado
+- Direcção Geral do Tesouro
+- Política de Saúde
+- Serviço Nacional de Saúde
+- Fiscalização
+- Medicamento
+- Pagamento
+- Pagamento por Conta
+- Prestação de Serviços
+relationships:
+- type: amended_by
+  target: pt:dre:66005768:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 185/2006
+
+de 12 de Setembro
+
+O Estado tem recorrido à constituição de fundos de capitais públicos, destinados ao apoio, dinamização, modernização, revitalização ou desenvolvimento de diversos sectores de actividade, visando a agregação e gestão de recursos financeiros provenientes de diversas fontes e orientados para um mesmo objectivo, constituindo, nessa perspectiva, instrumentos relevantes na prossecução das políticas que se pretende apoiar e promover.
+
+No âmbito do sistema de saúde, assume particular relevância o sistema de pagamentos de comparticipações financeiras do Estado na prestação de serviços de saúde e distribuição de medicamentos, que exige a disponibilização de recursos financeiros significativos e uma gestão capaz de aliar a flexibilidade de movimentação de ordens de pagamento à eficiência na aplicação dos recursos.
+
+As experiências de celebração de protocolos com entidades não especificamente vocacionadas para este tipo de actividades têm revelado fragilidades ao nível do seu funcionamento, com elevados custos financeiros associados.
+
+Considera-se, assim, necessária a constituição de um fundo público destinado a apoiar o sistema de pagamentos de comparticipações sob responsabilidade do Ministério da Saúde.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Criação do Fundo de Apoio ao Sistema de Pagamentos do Serviço Nacional de Saúde
+
+É criado, no âmbito do Ministério das Finanças e da Administração Pública, o Fundo de Apoio ao Sistema de Pagamentos do Sistema Nacional de Saúde, abreviadamente designado por Fundo, com a natureza de património autónomo sem personalidade jurídica.
+
+###### Artigo 2.º — Objecto
+
+O Fundo tem como objecto o apoio ao sistema de pagamentos aos fornecedores das instituições e serviços do Serviço Nacional de Saúde relativos à comparticipação de medicamentos e prestações de saúde realizadas em regime de convenção, mediante a realização de pagamentos por conta e posterior reembolso das instituições e serviços do Ministério da Saúde.
+
+###### Artigo 3.º — Capital
+
+1 - O capital inicial do Fundo é representado por unidades de participação em número e montante a definir por portaria dos ministros responsáveis pelas áreas das finanças e da saúde, a subscrever e realizar pelo Estado através da Direcção-Geral do Tesouro, por recurso a dotação do capítulo 60 do Orçamento do Estado para 2006.
+
+2 - O capital do Fundo pode ser aumentado por portaria dos ministros responsáveis pelas áreas das finanças e da saúde, nomeadamente através da subscrição de unidades de participação por parte de outras entidades públicas.
+
+###### Artigo 4.º — Fontes de financiamento e afectação de receitas
+
+O Fundo é financiado pelo montante das unidades de participação constituintes do seu capital e pelas seguintes receitas:
+
+a) Comissões ou outros proveitos obtidos em resultado da sua actividade;
+
+b) Rendimentos provenientes de aplicações financeiras;
+
+c) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados.
+
+###### Artigo 5.º — Despesas do Fundo
+
+Constituem despesas do Fundo as que resultem de encargos decorrentes da aplicação do presente decreto-lei.
+
+###### Artigo 6.º — Comissão directiva
+
+1 - O Fundo é gerido por uma comissão directiva, composta por três membros, à qual compete efectuar, em nome e por conta e ordem do Fundo, as operações necessárias à realização do seu objecto.
+
+2 - Os membros da comissão directiva são nomeados por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+3 - O mandato dos membros da comissão directiva tem a duração de três anos.
+
+###### Artigo 7.º — Fiscalização
+
+1 - Sem prejuízo das competências legalmente atribuídas a outras entidades, o controlo e fiscalização da gestão do Fundo são exercidos por um elemento nomeado por despacho do membro do Governo responsável pela área das finanças.
+
+2 - O mandato do elemento referido no número anterior tem a duração de três anos.
+
+###### Artigo 8.º — Regulamentação
+
+O regulamento de gestão do Fundo é aprovado por portaria dos ministros responsáveis pelas áreas das finanças e da saúde, no prazo de 90 dias a contar da data da entrada em vigor do presente decreto-lei, e contém, designadamente, as condições em que é efectuado o pagamento por conta e respectivo reembolso, incluindo os procedimentos a adoptar, e o modo de exercício da gestão e fiscalização do Fundo.
+
+Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
+
+**Promulgado em 30 de Agosto de 2006.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 1 de Setembro de 2006.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

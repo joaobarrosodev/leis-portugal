@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25676945:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/mapa-oficial/2014-920134038",
+ "dre_path": "/dr/detalhe/mapa-oficial/1-2014-25676945",
+ "source_lastmod": "2025-05-30",
+ "versions": [
+  {
+   "date": "2014-06-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920131969"
+   ]
+  }
+ ],
+ "fragments": {
+  "920131969": {
+   "fragment_id": "920134039",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Mapa Oficial n.º 1/2014\n\nEleição dos Deputados ao Parlamento Europeu realizada em 25 de maio de 2014\n\nEm cumprimento do disposto no artigo 111º do Decreto-Lei nº 319-A/76, de 3 de maio, aplicável por força do disposto no nº 6 do artigo 12º e no artigo 16º da Lei nº 14/87, de 29 de abril, a Comissão Nacional de Eleições torna público o mapa oficial com o resultado da eleição e a relação dos deputados eleitos ao Parlamento Europeu em 25 de maio de 2014:\n\n(ver documento original)\n\nPartido Socialista (PS)\n\nFrancisco José Pereira de Assis Miranda\n\nMaria João Fernandes Rodrigues\n\nJosé Carlos das Dores Zorrinho\n\nElisa Maria da Costa Guimarães Ferreira\n\nRicardo da Piedade Abreu Serrão Santos\n\nAna Maria Rosa Martins Gomes\n\nManuel Pedro Cunha da Silva Pereira\n\nLiliana Maria Gonçalves Rodrigues de Góis\n\nAliança Portugal (PPD/PSD.CDS-PP)\n\nPaulo Artur dos Santos Castro de Campos Rangel\n\nFernando de Carvalho Ruas\n\nSofia Heleno Santos Roque Ribeiro\n\nJoão Nuno Lacerda Teixeira de Melo\n\nCarlos Miguel Maximiano de Almeida Coelho\n\nCláudia Sofia Gomes Monteiro de Aguiar\n\nJosé Manuel Ferreira Fernandes\n\nCDU - Coligação Democrática Unitária (PCP-PEV)\n\nJoão Manuel Peixoto Ferreira\n\nInês Cristina Quintas Zuber\n\nMiguel Lopes Batista Viegas\n\nPartido da Terra (MPT)\n\nAntónio de Sousa Marinho e Pinto\n\nJosé Inácio da Silva Ramos Antunes de Faria\n\nBloco de Esquerda (B.E.)\n\nMarisa Isabel dos Santos Matias\n\n> Nota: [Declaração de Retificação n.º 35/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/35-2014-25345648) Na tabela, onde se lê «3 284 452» deve ler-se «3 284 453»."
+  }
+ }
+}

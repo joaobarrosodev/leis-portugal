@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:461777:por
+title: Decreto Regulamentar n.º 51/80
+short_title: null
+summary: Regulamenta a execução de vistorias de recintos para divertimento público
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Administração Interna
+proposing_entity: null
+official_number: 51/80
+official_date: null
+publication_date: '1980-09-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 223/1980, Série I de 1980-09-26
+  number: '223'
+  series: I
+  supplement: null
+  pages: 2931 - 2931
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22300/29312931.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '461777'
+  dre_path: /dr/detalhe/decreto-regulamentar/51-1980-461777
+  internal: pt:dre:461777:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1980-461777
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1980-461777
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-10-29T00:00:00Z'
+integrity:
+  source_sha256: 4b55b392b14e2626df73db87f201cbc5dfc59640fc05e37d6dfea3d573a79ea2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-51-461777.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:177825:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 51/80
+
+de 26 de Setembro
+
+Verificando-se ser desnecessariamente pesado e inadequado o processo decorrente da execução de vistorias de recintos para divertimento público e elaboração dos respectivos autos pelos chefes de secretaria das câmaras municipais como delegados da Direcção dos Espectáculos;
+
+Convindo regular em termos simplificados o circuito desses autos, eliminando a morosidade que actualmente existe na contabilização das receitas pela Direcção dos Espectáculos e no pagamento das importâncias devidas pela realização de vistorias:
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º Nas vistorias a efectuar nos termos dos artigos 8.º, n.º 2, do [Decreto-Lei n.º 42663](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42663-1959-439641), de 20 de Novembro de 1959, e 12.º do Decreto-Lei n.º 42664, da mesma data, proceder-se-á da forma seguinte:
+
+1) O requerente depositará na tesouraria da câmara municipal a importância devida por lei para o pagamento da respectiva vistoria;
+
+2) O registo do depósito referido no número anterior far-se-á na rubrica «Consignação de receitas», cap. 16, de acordo com o n.º 1 do artigo 16.º do [Decreto-Lei n.º 243/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1979-381284), de 25 de Julho, e seu anexo II.
+
+3) Efectuada a vistoria e elaborado o respectivo auto, este será remetido, acompanhado do requerimento do interessado, à Direcção dos Espectáculos, fazendo-se, no ofício de remessa, menção da data em que foi efectuado o depósito referido no n.º 1 deste artigo;
+
+4) O pagamento aos peritos far-se-á nos dias 1 a 10 do mês seguinte à realização da vistoria, através da rubrica destinada ao pagamento a diversas entidades por consignação de receitas.
+
+###### Art. 2.º Ficam revogados, na parte correspondente ao disposto no artigo 1.º, os artigos 9.º e 10.º do Regulamento dos Espectáculos e Divertimentos Públicos, aprovado pelo Decreto-Lei n.º 42661, de 20 de Novembro de 1959.
+
+###### Art. 3.º O presente diploma entra em vigor logo após a sua publicação.
+
+Francisco Sá Carneiro - Eurico de Melo.
+
+**Promulgado em 11 de Setembro de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

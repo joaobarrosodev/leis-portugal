@@ -1,0 +1,410 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:386834:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-107742882",
+ "dre_path": "/dr/detalhe/portaria/29-2008-386834",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-01-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116105214",
+    "107745141",
+    "107745142",
+    "107745143",
+    "107745144",
+    "107745145",
+    "107745146",
+    "107745147",
+    "107745148",
+    "107745149",
+    "107745150",
+    "107745151"
+   ]
+  },
+  {
+   "date": "2017-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107745748:por",
+     "title": "Portaria n.º 227/2017",
+     "published": "2017-07-25",
+     "dre_path": "/dr/detalhe/portaria/227-2017-107745748"
+    }
+   ],
+   "changes": [
+    "Altera Anexo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 11.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "107745140",
+    "107745162",
+    "107745163",
+    "107745164",
+    "107745165",
+    "107745144",
+    "107745166",
+    "107745168",
+    "107745147",
+    "107745148",
+    "107745149",
+    "107745169",
+    "107745167"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116068880:por",
+     "title": "Decreto-Lei n.º 66/2018",
+     "published": "2018-08-16",
+     "dre_path": "/dr/detalhe/decreto-lei/66-2018-116068880"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "116105214",
+    "116105215",
+    "116105216",
+    "116105217",
+    "116105218",
+    "116105219",
+    "116105220",
+    "116105221",
+    "116105222",
+    "116105223",
+    "116105224",
+    "116105225",
+    "116105226"
+   ]
+  }
+ ],
+ "fragments": {
+  "116105214": {
+   "fragment_id": "107742883",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-01-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 29/2008\n\nde 10 de Janeiro\n\nAo abrigo do n.º 2 do artigo 10.º, do n.º 2 do artigo 15.º e do artigo 16.º do Decreto-Lei n.º 341/2007, de 12 de Outubro:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:\n\n1.º\n\nAprovação\n\nÉ aprovado o Regulamento do Processo de Registo de Diplomas Estrangeiros ao abrigo do Decreto-Lei n.º 341/2007, de 12 de Outubro, cujo texto se publica em anexo a esta portaria.\n\n2.º\n\nTexto\n\nO texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.\n\n3.º\n\nAlterações\n\nTodas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.\n\n4.º\n\nEntrada em vigor\n\nEsta portaria entra em vigor no dia imediato ao da sua publicação.\n\n5.º\n\nProdução de efeitos\n\nEsta portaria produz efeitos desde a data da entrada em vigor do Decreto-Lei n.º 341/2007, de 12 de Outubro.\n\nO Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 21 de Dezembro de 2007."
+  },
+  "107745141": {
+   "fragment_id": "107742884",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO registo dos diplomas que titulam os graus académicos superiores estrangeiros reconhecidos em Portugal ao abrigo do Decreto-Lei n.º 341/2007, de 12 de Outubro, realiza-se nos termos do presente Regulamento."
+  },
+  "107745142": {
+   "fragment_id": "107742885",
+   "type": 11,
+   "heading": "Artigo 2.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requerimento\n\n1 - O registo é requerido pelo titular do diploma, ou por seu representante legal:\n\na) Para os graus de licenciado e de mestre:\n\ni) Ao reitor de uma universidade pública portuguesa;\n\nii) Ao presidente de um instituto politécnico público português;\n\niii) Ao director-geral do Ensino Superior;\n\nb) Para o grau de doutor:\n\ni) Ao reitor de uma universidade pública portuguesa;\n\nii) Ao director-geral do Ensino Superior.\n\n2 - O registo de um diploma apenas pode ser requerido a uma entidade."
+  },
+  "107745143": {
+   "fragment_id": "107742886",
+   "type": 11,
+   "heading": "Artigo 3.º — Instrução do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instrução do pedido\n\n1 - O pedido de registo é instruído obrigatória e exclusivamente:\n\na) Com o original do diploma ou de documento emitido pelas autoridades competentes do estabelecimento de ensino superior estrangeiro que comprove, de forma inequívoca, que o grau já foi conferido;\n\nb) Com um exemplar da tese ou dissertação defendida, quando se trate do registo de um diploma que titule um grau reconhecido como produzindo os efeitos correspondentes aos dos graus de doutor ou de mestre.\n\n2 - O documento a que se refere a alínea b) do número anterior pode ser entregue em formato digital.\n\n3 - A entidade competente para o registo pode solicitar ao requerente uma tradução do documento a que se refere a alínea a) do n.º 1 e da folha de rosto do documento a que se refere a alínea b) do n.º 1 quando os mesmos estejam escritos numa língua estrangeira que não o espanhol, francês, inglês ou italiano."
+  },
+  "107745144": {
+   "fragment_id": "107742887",
+   "type": 11,
+   "heading": "Artigo 4.º — Confirmação de autenticidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Confirmação de autenticidade\n\nEm caso de dúvida acerca da autenticidade do documento a que se refere a alínea a) do n.º 1 do artigo anterior, a entidade a quem foi requerido o registo solicita a sua confirmação ao estabelecimento de ensino superior estrangeiro que o tiver emitido."
+  },
+  "107745145": {
+   "fragment_id": "107742888",
+   "type": 11,
+   "heading": "Artigo 5.º — Número de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Número de registo\n\nAos registos realizados nos termos desta portaria é atribuída, em cada entidade, uma numeração sequencial anual com o formato n/aaaa, em que aaaa identifica o ano em que é realizado o registo e n o número sequencial dentro desse ano."
+  },
+  "107745146": {
+   "fragment_id": "107742889",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo\n\n1 - O registo é averbado no verso do original do documento a que se refere a alínea a) do n.º 1 do artigo 3.º\n\n2 - O averbamento, que pode ser realizado por meios manuais ou mecânicos, reveste a seguinte forma:\n\n«Nos termos do disposto no artigo (4.º ou 5.º, conforme o caso) do Decreto-Lei n.º 341/2007, de 12 de Outubro, o grau académico titulado por este documento confere ao seu titular os direitos inerentes ao grau académico português de (licenciado, mestre ou doutor, conforme o caso).\n\nRegistado na (instituição onde é efectuado o registo) com o n.º... (número a que se refere o artigo 6.º da presente portaria).\n\n... (cidade sede da instituição onde é efectuado o registo), em... (data do registo).\n\nO (denominação da entidade que efectua o registo),... (assinatura da entidade que efectua o registo, sobre a qual é aposto selo branco da instituição).»"
+  },
+  "107745147": {
+   "fragment_id": "107742890",
+   "type": 11,
+   "heading": "Artigo 7.º — Devolução do original",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Devolução do original\n\nApós o registo, é realizada uma cópia do documento a que se refere a alínea a) do n.º 1 do artigo 3.º, verso e anverso, que fica arquivada juntamente com o requerimento, sendo o original devolvido ao requerente."
+  },
+  "107745148": {
+   "fragment_id": "107742891",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazo do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prazo do registo\n\n1 - O registo deve ser realizado no prazo máximo de um mês contado a partir da recepção do requerimento, completamente instruído, na entidade a quem é solicitado.\n\n2 - A contagem do prazo suspende-se:\n\na) Nos casos previstos no n.º 3 do artigo 3.º, entre o eventual pedido da tradução e a recepção da mesma;\n\nb) Nos casos previstos no artigo 4.º, entre o eventual pedido de confirmação e a recepção de resposta a este pedido."
+  },
+  "107745149": {
+   "fragment_id": "107742892",
+   "type": 11,
+   "heading": "Artigo 9.º — Emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Emolumentos\n\n1 - O valor dos emolumentos devidos por cada acto de registo é fixado pelas instituições a que se refere o n.º 1 do artigo 2.º, não podendo, nos termos do n.º 2 do artigo 15.º do Decreto-Lei n.º 341/2007, de 12 de Outubro, exceder o custo do serviço de registo, nem ultrapassar (euro) 25.\n\n2 - O valor máximo a que se refere a parte final do número anterior é automaticamente actualizado, em 1 de Março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, publicado pelo Instituto Nacional de Estatística."
+  },
+  "107745150": {
+   "fragment_id": "107742893",
+   "type": 11,
+   "heading": "Artigo 10.º — Comunicação à Direcção-Geral do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comunicação à Direcção-Geral do Ensino Superior\n\nNo prazo de 10 dias úteis a contar da realização do registo, a universidade ou instituto politécnico onde tenha sido realizado envia à Direcção-Geral do Ensino Superior:\n\na) Formulário aprovado por despacho do director-geral do Ensino Superior e publicado na 2.ª série do Diário da República;\n\nb) Cópia do documento a que se refere a alínea a) do n.º 1 do artigo 3.º, verso e anverso, realizada após o registo, e respectiva tradução, se tiver sido solicitada;\n\nc) A tese ou dissertação, quando for caso disso, e respectiva tradução da folha de rosto, se tiver sido solicitada."
+  },
+  "107745151": {
+   "fragment_id": "107742894",
+   "type": 11,
+   "heading": "Artigo 11.º — Remessa da dissertação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Remessa da dissertação\n\nAté ao dia 10 de cada mês, a Direcção-Geral do Ensino Superior, em relação aos registos de reconhecimento que lhe foram comunicados, ou por ela realizados, no mês anterior:\n\na) Transmite a informação relevante ao Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério da Ciência, Tecnologia e Ensino Superior, para divulgação nos termos que venham a ser fixados;\n\nb) Remete à Biblioteca Nacional, para depósito, as teses ou dissertações, quando existam."
+  },
+  "107745140": {
+   "fragment_id": "107742883",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 29/2008\n\nde 10 de Janeiro\n\nAo abrigo do n.º 2 do artigo 10.º, do n.º 2 do artigo 15.º e do artigo 16.º do Decreto-Lei n.º 341/2007, de 12 de Outubro:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:\n\n1.º\n\nAprovação\n\nÉ aprovado o Regulamento do Processo de Registo de Diplomas Estrangeiros ao abrigo do Decreto-Lei n.º 341/2007, de 12 de Outubro, cujo texto se publica em anexo a esta portaria.\n\n2.º\n\nTexto\n\nO texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.\n\n3.º\n\nAlterações\n\nTodas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.\n\n4.º\n\nEntrada em vigor\n\nEsta portaria entra em vigor no dia imediato ao da sua publicação.\n\n5.º\n\nProdução de efeitos\n\nEsta portaria produz efeitos desde a data da entrada em vigor do Decreto-Lei n.º 341/2007, de 12 de Outubro.\n\nO Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 21 de Dezembro de 2007."
+  },
+  "107745162": {
+   "fragment_id": "107742895",
+   "type": 14,
+   "heading": "Anexo — Regulamento do Processo de Registo de Graus Estrangeiros ao abrigo do Decreto-Lei n.º 341/2007, de 12 de outubro",
+   "in_force_from": "2017-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "## Anexo — Regulamento do Processo de Registo de Graus Estrangeiros ao abrigo do Decreto-Lei n.º 341/2007, de 12 de outubro\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "107745163": {
+   "fragment_id": "107742884",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2017-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO registo dos graus académicos superiores estrangeiros reconhecidos em Portugal ao abrigo do Decreto-Lei n.º 341/2007, de 12 de outubro, realiza-se nos termos do presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "107745164": {
+   "fragment_id": "107742885",
+   "type": 11,
+   "heading": "Artigo 2.º — Requerimento",
+   "in_force_from": "2017-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 2.º — Requerimento\n\n1 - O registo é requerido pelo titular do diploma, ou por seu representante legal:\n\na) Para os graus de licenciado e de mestre:\n\ni) Ao reitor de uma universidade pública portuguesa;\n\nii) Ao presidente de um instituto politécnico público português;\n\niii) Ao director-geral do Ensino Superior;\n\nb) Para o grau de doutor:\n\ni) Ao reitor de uma universidade pública portuguesa;\n\nii) Ao director-geral do Ensino Superior.\n\n2 - O registo do grau académico superior estrangeiro apenas pode ser requerido a uma entidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "107745165": {
+   "fragment_id": "107742886",
+   "type": 11,
+   "heading": "Artigo 3.º — Instrução do pedido",
+   "in_force_from": "2017-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 3.º — Instrução do pedido\n\n1 - O pedido de registo é instruído obrigatória e exclusivamente com os seguintes documentos:\n\na) O original do diploma ou certificado emitido pelas autoridades competentes da instituição de ensino superior estrangeira que comprove, de forma inequívoca, que o grau já foi conferido;\n\nb) Uma cópia digital da dissertação defendida ou dos trabalhos e relatórios a que se refere a alínea b) do n.º 1 do artigo 20.º do Decreto-Lei n.º 74/2006, de 24 de março, alterado e republicado pelo Decreto-Lei n.º 63/2016, de 13 de setembro, quando se trate do registo de um diploma que titule um grau reconhecido ao grau de mestre;\n\nc) Uma cópia digital e outra em papel da tese defendida ou dos trabalhos de investigação previstos na alínea a) do n.º 2 do artigo 31.º do Decreto-Lei n.º 74/2006, de 24 de março, alterado e republicado pelo Decreto-Lei n.º 63/2016, de 13 de setembro, ou da fundamentação escrita a que se refere a alínea b) do n.º 2 do mesmo artigo, quando se trate do registo de um diploma que titule um grau reconhecido ao grau de doutor.\n\n2 - Salvaguardam-se os casos em que não há lugar à apresentação dos documentos previstos nas alíneas b) e c) do número anterior, que devem ser devidamente certificados pela respetiva instituição de ensino superior estrangeira, com documento que comprove, de forma clara e inequívoca, que para a conclusão do grau não houve lugar à apresentação de uma tese ou dissertação formal.\n\n3 - A entidade competente para o registo pode solicitar uma tradução devidamente certificada, de acordo com as exigências legais em vigor, dos documentos referidos na alínea a) do n.º 1 e da folha de rosto da dissertação ou tese referidos nas alíneas b) e c) do mesmo número, quando estes documentos estejam escritos numa língua estrangeira que não o espanhol, francês e inglês.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "107745166": {
+   "fragment_id": "107742888",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo único",
+   "in_force_from": "2017-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 5.º — Registo único\n\n1 - A cada registo realizado nos termos deste Regulamento é atribuído um número único, gerado de forma automática e sequencial por plataforma eletrónica.\n\n2 - O registo é comprovado pela emissão de certidão, cujo modelo se publica em anexo à presente portaria, gerada através da plataforma eletrónica, que faz prova para todos os efeitos legais da titularidade do reconhecimento conferido.\n\n3 - Compete à Direção-Geral do Ensino Superior criar e gerir a plataforma eletrónica para registo único.\n\n4 - O tratamento de dados e informação obedece ao regime legal aplicável à proteção de dados pessoais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "107745168": {
+   "fragment_id": "107742889",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo",
+   "in_force_from": "2017-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 6.º — Registo\n\n1 - O registo é averbado no verso do original do documento a que se refere a alínea a) do n.º 1 do artigo 3.º\n\n2 - O averbamento, que pode ser realizado por meios manuais ou mecânicos, reveste a seguinte forma:\n\n«Nos termos do disposto no artigo (4.º ou 5.º, conforme o caso) do Decreto-Lei n.º 341/2007, de 12 de Outubro, o grau académico titulado por este documento confere ao seu titular os direitos inerentes ao grau académico português de (licenciado, mestre ou doutor, conforme o caso).\n\nRegistado na (instituição onde é efectuado o registo) com o n.º... (número a que se refere o artigo 6.º da presente portaria).\n\n... (cidade sede da instituição onde é efectuado o registo), em... (data do registo).\n\nO (denominação da entidade que efectua o registo),... (assinatura da entidade que efectua o registo, sobre a qual é aposto selo branco da instituição).»\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "107745169": {
+   "fragment_id": "107742893",
+   "type": 11,
+   "heading": "Artigo 10.º — Comunicação à Direcção-Geral do Ensino Superior",
+   "in_force_from": "2017-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 10.º — Comunicação à Direcção-Geral do Ensino Superior\n\nNo prazo de 10 dias úteis a contar da realização do registo, a universidade ou instituto politécnico onde tenha sido realizado envia à Direcção-Geral do Ensino Superior:\n\na) Formulário aprovado por despacho do director-geral do Ensino Superior e publicado na 2.ª série do Diário da República;\n\nb) Cópia do documento a que se refere a alínea a) do n.º 1 do artigo 3.º, verso e anverso, realizada após o registo, e respectiva tradução, se tiver sido solicitada;\n\nc) A tese ou dissertação, quando for caso disso, e respectiva tradução da folha de rosto, se tiver sido solicitada.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "107745167": {
+   "fragment_id": "107742894",
+   "type": 11,
+   "heading": "Artigo 11.º — Depósito legal",
+   "in_force_from": "2017-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 11.º — Depósito legal\n\n1 - Cada registo realizado nos termos deste Regulamento fica sujeito ao registo na Plataforma RENATES.\n\n2 - Os documentos previstos nas alíneas b) e c) do artigo 3.º do presente Regulamento ficam sujeitos ao depósito obrigatório de uma cópia digital num repositório integrante da rede do Repositório Científico de Acesso Aberto de Portugal, operado pela Fundação para a Ciência e a Tecnologia, I. P.\n\n3 - Os documentos previstos na alínea c) do artigo 3.º do presente Regulamento estão, ainda, sujeitos ao depósito de um exemplar em papel na Biblioteca Nacional.\n\n4 - As obrigações referidas nos números anteriores são da responsabilidade das entidades competentes para a atribuição do registo objeto do presente Regulamento, e devem ser cumpridas em prazo não superior a 60 dias a contar da data de concessão do mesmo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "116105215": {
+   "fragment_id": "107742895",
+   "type": 14,
+   "heading": "Anexo — Regulamento do Processo de Registo de Graus Estrangeiros ao abrigo do Decreto-Lei n.º 341/2007, de 12 de outubro",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "## Anexo — Regulamento do Processo de Registo de Graus Estrangeiros ao abrigo do Decreto-Lei n.º 341/2007, de 12 de outubro\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "116105216": {
+   "fragment_id": "107742884",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO registo dos graus académicos superiores estrangeiros reconhecidos em Portugal ao abrigo do Decreto-Lei n.º 341/2007, de 12 de outubro, realiza-se nos termos do presente Regulamento.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "116105217": {
+   "fragment_id": "107742885",
+   "type": 11,
+   "heading": "Artigo 2.º — Requerimento",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 2.º — Requerimento\n\n1 - O registo é requerido pelo titular do diploma, ou por seu representante legal:\n\na) Para os graus de licenciado e de mestre:\n\ni) Ao reitor de uma universidade pública portuguesa;\n\nii) Ao presidente de um instituto politécnico público português;\n\niii) Ao director-geral do Ensino Superior;\n\nb) Para o grau de doutor:\n\ni) Ao reitor de uma universidade pública portuguesa;\n\nii) Ao director-geral do Ensino Superior.\n\n2 - O registo do grau académico superior estrangeiro apenas pode ser requerido a uma entidade.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "116105218": {
+   "fragment_id": "107742886",
+   "type": 11,
+   "heading": "Artigo 3.º — Instrução do pedido",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 3.º — Instrução do pedido\n\n1 - O pedido de registo é instruído obrigatória e exclusivamente com os seguintes documentos:\n\na) O original do diploma ou certificado emitido pelas autoridades competentes da instituição de ensino superior estrangeira que comprove, de forma inequívoca, que o grau já foi conferido;\n\nb) Uma cópia digital da dissertação defendida ou dos trabalhos e relatórios a que se refere a alínea b) do n.º 1 do artigo 20.º do Decreto-Lei n.º 74/2006, de 24 de março, alterado e republicado pelo Decreto-Lei n.º 63/2016, de 13 de setembro, quando se trate do registo de um diploma que titule um grau reconhecido ao grau de mestre;\n\nc) Uma cópia digital e outra em papel da tese defendida ou dos trabalhos de investigação previstos na alínea a) do n.º 2 do artigo 31.º do Decreto-Lei n.º 74/2006, de 24 de março, alterado e republicado pelo Decreto-Lei n.º 63/2016, de 13 de setembro, ou da fundamentação escrita a que se refere a alínea b) do n.º 2 do mesmo artigo, quando se trate do registo de um diploma que titule um grau reconhecido ao grau de doutor.\n\n2 - Salvaguardam-se os casos em que não há lugar à apresentação dos documentos previstos nas alíneas b) e c) do número anterior, que devem ser devidamente certificados pela respetiva instituição de ensino superior estrangeira, com documento que comprove, de forma clara e inequívoca, que para a conclusão do grau não houve lugar à apresentação de uma tese ou dissertação formal.\n\n3 - A entidade competente para o registo pode solicitar uma tradução devidamente certificada, de acordo com as exigências legais em vigor, dos documentos referidos na alínea a) do n.º 1 e da folha de rosto da dissertação ou tese referidos nas alíneas b) e c) do mesmo número, quando estes documentos estejam escritos numa língua estrangeira que não o espanhol, francês e inglês.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "116105219": {
+   "fragment_id": "107742887",
+   "type": 11,
+   "heading": "Artigo 4.º — Confirmação de autenticidade",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Confirmação de autenticidade\n\nEm caso de dúvida acerca da autenticidade do documento a que se refere a alínea a) do n.º 1 do artigo anterior, a entidade a quem foi requerido o registo solicita a sua confirmação ao estabelecimento de ensino superior estrangeiro que o tiver emitido.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116105220": {
+   "fragment_id": "107742888",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo único",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 5.º — Registo único\n\n1 - A cada registo realizado nos termos deste Regulamento é atribuído um número único, gerado de forma automática e sequencial por plataforma eletrónica.\n\n2 - O registo é comprovado pela emissão de certidão, cujo modelo se publica em anexo à presente portaria, gerada através da plataforma eletrónica, que faz prova para todos os efeitos legais da titularidade do reconhecimento conferido.\n\n3 - Compete à Direção-Geral do Ensino Superior criar e gerir a plataforma eletrónica para registo único.\n\n4 - O tratamento de dados e informação obedece ao regime legal aplicável à proteção de dados pessoais.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "116105221": {
+   "fragment_id": "107742889",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01",
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 6.º — Registo\n\n1 - O registo é averbado no verso do original do documento a que se refere a alínea a) do n.º 1 do artigo 3.º\n\n2 - O averbamento, que pode ser realizado por meios manuais ou mecânicos, reveste a seguinte forma:\n\n«Nos termos do disposto no artigo (4.º ou 5.º, conforme o caso) do Decreto-Lei n.º 341/2007, de 12 de Outubro, o grau académico titulado por este documento confere ao seu titular os direitos inerentes ao grau académico português de (licenciado, mestre ou doutor, conforme o caso).\n\nRegistado na (instituição onde é efectuado o registo) com o n.º... (número a que se refere o artigo 6.º da presente portaria).\n\n... (cidade sede da instituição onde é efectuado o registo), em... (data do registo).\n\nO (denominação da entidade que efectua o registo),... (assinatura da entidade que efectua o registo, sobre a qual é aposto selo branco da instituição).»\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "116105222": {
+   "fragment_id": "107742890",
+   "type": 11,
+   "heading": "Artigo 7.º — Devolução do original",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Devolução do original\n\nApós o registo, é realizada uma cópia do documento a que se refere a alínea a) do n.º 1 do artigo 3.º, verso e anverso, que fica arquivada juntamente com o requerimento, sendo o original devolvido ao requerente.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116105223": {
+   "fragment_id": "107742891",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazo do registo",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Prazo do registo\n\n1 - O registo deve ser realizado no prazo máximo de um mês contado a partir da recepção do requerimento, completamente instruído, na entidade a quem é solicitado.\n\n2 - A contagem do prazo suspende-se:\n\na) Nos casos previstos no n.º 3 do artigo 3.º, entre o eventual pedido da tradução e a recepção da mesma;\n\nb) Nos casos previstos no artigo 4.º, entre o eventual pedido de confirmação e a recepção de resposta a este pedido.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116105224": {
+   "fragment_id": "107742892",
+   "type": 11,
+   "heading": "Artigo 9.º — Emolumentos",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Emolumentos\n\n1 - O valor dos emolumentos devidos por cada acto de registo é fixado pelas instituições a que se refere o n.º 1 do artigo 2.º, não podendo, nos termos do n.º 2 do artigo 15.º do Decreto-Lei n.º 341/2007, de 12 de Outubro, exceder o custo do serviço de registo, nem ultrapassar (euro) 25.\n\n2 - O valor máximo a que se refere a parte final do número anterior é automaticamente actualizado, em 1 de Março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, publicado pelo Instituto Nacional de Estatística.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116105225": {
+   "fragment_id": "107742893",
+   "type": 11,
+   "heading": "Artigo 10.º — Comunicação à Direcção-Geral do Ensino Superior",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01",
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 10.º — Comunicação à Direcção-Geral do Ensino Superior\n\nNo prazo de 10 dias úteis a contar da realização do registo, a universidade ou instituto politécnico onde tenha sido realizado envia à Direcção-Geral do Ensino Superior:\n\na) Formulário aprovado por despacho do director-geral do Ensino Superior e publicado na 2.ª série do Diário da República;\n\nb) Cópia do documento a que se refere a alínea a) do n.º 1 do artigo 3.º, verso e anverso, realizada após o registo, e respectiva tradução, se tiver sido solicitada;\n\nc) A tese ou dissertação, quando for caso disso, e respectiva tradução da folha de rosto, se tiver sido solicitada.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  },
+  "116105226": {
+   "fragment_id": "107742894",
+   "type": 11,
+   "heading": "Artigo 11.º — Depósito legal",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+   ],
+   "markdown": "###### Artigo 11.º — Depósito legal\n\n1 - Cada registo realizado nos termos deste Regulamento fica sujeito ao registo na Plataforma RENATES.\n\n2 - Os documentos previstos nas alíneas b) e c) do artigo 3.º do presente Regulamento ficam sujeitos ao depósito obrigatório de uma cópia digital num repositório integrante da rede do Repositório Científico de Acesso Aberto de Portugal, operado pela Fundação para a Ciência e a Tecnologia, I. P.\n\n3 - Os documentos previstos na alínea c) do artigo 3.º do presente Regulamento estão, ainda, sujeitos ao depósito de um exemplar em papel na Biblioteca Nacional.\n\n4 - As obrigações referidas nos números anteriores são da responsabilidade das entidades competentes para a atribuição do registo objeto do presente Regulamento, e devem ser cumpridas em prazo não superior a 60 dias a contar da data de concessão do mesmo.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/portaria/227-2017-107745748), em vigor a partir de 2017-08-24"
+  }
+ }
+}

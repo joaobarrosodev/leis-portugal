@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:1128264735:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 19/2026/M
+short_title: null
+summary: Inventariação e aproveitamento dos imóveis públicos devolutos da Região Autónoma da Madeira.
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 19/2026/M
+official_date: null
+publication_date: '2026-06-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 105/2026, Série I de 2026-06-01
+  number: '105'
+  series: I
+  supplement: null
+  pages: 75 - 76
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/06/10500/0007500076.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/19/2026/06/01/m/dre/pt/html
+  oj: null
+  dre: '1128264735'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/19-2026-1128264735
+  internal: pt:dre:1128264735:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/19-2026-1128264735
+  metadata_url: https://data.dre.pt/eli/resolalram/19/2026/06/01/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/19-2026-1128264735
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-06-01T00:00:00Z'
+integrity:
+  source_sha256: 18c0284f32afc408e76460ff56ecce4f0458966f567607e889d92b3064651cf4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2026/DRE-2026-19-1128264735.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo Regional
+- Edifício Público
+- Prédio Devoluto
+- Madeira.região Autónoma
+- Recomendação
+- Inventário
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 19/2026/M
+
+Inventariação e aproveitamento dos imóveis públicos devolutos da Região Autónoma da Madeira
+
+A Região Autónoma da Madeira confronta-se com uma realidade inexorável: a existência de um número considerável de imóveis públicos devolutos, desativados ou em estado de abandono, dispersos pelo seu território. Estes espaços, que outrora cumpriram funções cruciais para o desenvolvimento das nossas comunidades, representam hoje um passivo patrimonial, uma ferida urbanística e uma oportunidade.
+
+O estado destes edifícios acarreta consequências negativas de vária ordem: desde a degradação do paisagismo urbano e rural, a criação de focos de insegurança e insalubridade, até ao desperdício de um património construído com recursos públicos. Esta realidade constitui um paradoxo face às atuais necessidades da Região, nomeadamente a carência de habitação a custos acessíveis, a falta de espaços para as associações locais e a necessidade de novos equipamentos de proximidade que combatam o despovoamento e a desertificação do interior e do norte.
+
+Neste contexto, destaca-se um conjunto significativo de edifícios que, no passado, foram o coração do conhecimento e da formação das nossas gerações: as escolas públicas desativadas. Mais do que meras estruturas, são repositórios de memória coletiva, locais onde milhares de madeirenses aprenderam as primeiras letras e partilharam experiências formativas. Ver muitos destes edifícios a serem lentamente devorados pelo tempo e pela falta de uso é lesivo do legado de investimento público que os ergueu e uma perda irreparável para o tecido social das freguesias a que pertencem.
+
+Face a esta realidade, impõe-se uma estratégia clara, proativa e integrada que inverta o ciclo de abandono e transforme este passivo num ativo valioso para o desenvolvimento regional. A requalificação destes imóveis não é apenas uma questão de gestão eficiente do património, mas um imperativo de justiça social, de coesão territorial e de planeamento estratégico para o futuro sustentável da Região Autónoma da Madeira.
+
+Desta forma, a presente resolução visa criar um enquadramento político e um plano de ação concretos para a recuperação, reabilitação e reconversão destes espaços, propondo uma abordagem multifacetada que responda às necessidades prementes da população.
+
+A reconversão dos imóveis públicos devolutos deverá seguir uma lógica de interesse público, com prioridade para as seguintes finalidades:
+
+Habitação social e acessível: Num contexto de crise habitacional, a conversão de antigos edifícios públicos, especialmente os maiores, como as antigas escolas, é uma solução eficaz e sustentável. A reabilitação pode gerar fogos para arrendamento a custos controlados, residências para jovens, alojamento para idosos ou famílias em situação de vulnerabilidade, contribuindo diretamente para a fixação de populações e o combate à especulação imobiliária;
+
+Instalações para associações e coletividades: As associações culturais, desportivas, recreativas e de solidariedade social são a alma das nossas comunidades. Muitas operam em condições precárias ou carecem de sede própria. A adaptação destes espaços pode oferecer as instalações de que tanto necessitam - salas para reuniões, atividades, armazenamento e eventos -, fortalecendo o tecido associativo e dinamizando a vida local;
+
+Equipamentos de utilidade pública e coletiva: Para além da habitação e das associações, estes edifícios podem ser convertidos em centros comunitários polivalentes, bibliotecas, postos de atendimento local, centros de dia, ateliês de artistas, incubadoras de empresas criativas ou espaços de apoio a atividades turísticas de natureza e rurais, alavancando a economia local e criando novas centralidades de serviço nas zonas mais isoladas.
+
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar ao Governo Regional o seguinte:
+
+1 - Inventário e diagnóstico: Proceder, no prazo de 90 dias, à criação de um inventário exaustivo, cartografado e atualizado de todos os imóveis públicos devolutos na Região Autónoma da Madeira, identificando o estado de conservação, a titularidade, o histórico de uso e o potencial de reabilitação, com especial destaque para as antigas escolas públicas;
+
+2 - Plano estratégico de intervenção: Elaborar, no prazo de 180 dias, um plano estratégico plurianual para o aproveitamento dos imóveis identificados, estabelecendo prioridades com base no grau de degradação, no potencial de impacto social e urbanístico e nas necessidades das comunidades locais;
+
+3 - Programa de parcerias: Criar um programa de parcerias para a reabilitação e gestão destes espaços, envolvendo as autarquias locais, instituições particulares de solidariedade social, associações culturais e desportivas, cooperativas de habitação e setor privado, com vista à partilha de recursos e competências;
+
+4 - Simplificação e incentivos: Simplificar os procedimentos administrativos e licenciamentos para a requalificação destes imóveis e criar um regime de incentivos fiscais ou financeiros para as entidades que se candidatem à sua reabilitação e uso para as finalidades previstas na presente resolução;
+
+5 - Abertura de concursos públicos: Promover a abertura de concursos públicos para a apresentação de projetos de requalificação, garantindo a seleção das propostas que demonstrem maior impacto social positivo;
+
+6 - Acompanhamento e relatório: Criar uma comissão de acompanhamento interdepartamental, com eventual participação de representantes da Assembleia Legislativa, para monitorizar a execução do plano estratégico e apresentar anualmente um relatório de progresso ao Parlamento Regional.
+
+A adoção destas medidas permitirá transformar o abandono em oportunidade, o passivo em ativo e a memória em futuro, devolvendo às comunidades os espaços que lhes foram tirados pelo esquecimento e contribuindo para um desenvolvimento mais justo, equilibrado e sustentável para toda a Região Autónoma da Madeira.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 20 de maio de 2026.
+
+**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**

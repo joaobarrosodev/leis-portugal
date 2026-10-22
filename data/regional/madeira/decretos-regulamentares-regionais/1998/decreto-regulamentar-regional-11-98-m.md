@@ -1,0 +1,269 @@
+---
+schema_version: '1.0'
+id: pt:dre:448289:por
+title: Decreto Regulamentar Regional n.º 11/98/M
+short_title: null
+summary: Altera o Decreto Regulamentar Regional n.º 11/90/M, de 8 de Junho (aprova a orgânica do Serviço Regional de Protecção
+  Civil da Madeira)
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 11/98/M
+official_date: null
+publication_date: '1998-08-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 198/1998, Série I-B de 1998-08-28
+  number: '198'
+  series: I
+  supplement: null
+  pages: 4501 - 4505
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/08/198b00/45014505.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/11/1998/08/28/m/dre/pt/html
+  oj: null
+  dre: '448289'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/11-1998-448289
+  internal: pt:dre:448289:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1998-448289
+  metadata_url: https://data.dre.pt/eli/decregulreg/11/1998/08/28/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1998-448289
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-03-16T00:00:00Z'
+integrity:
+  source_sha256: 86171d4287459aae216f43424e239974dd8c15b071d6668129e77f9fd6f46459
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1998/DRE-1998-11-448289.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Definição de Competências
+- Federação de Bombeiros
+- Orgânica
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Serviço Regional de Protecção Civil da Madeira
+relationships:
+- type: amended_by
+  target: pt:dre:672143:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/11/1995/05/08/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/11/1995/05/08/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/3-a/1997/02/06/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/3-a/1997/02/06/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 11/98/M
+
+Altera disposições da orgânica do Serviço Regional de Protecção Civil da Madeira
+
+Considerando que desde a entrada em vigor do decreto regulamentar regional que aprovou a orgânica do Serviço Regional de Protecção Civil da Madeira lhe têm sido cometidas novas responsabilidades, implicando uma adaptação do mesmo a novas exigências;
+
+Considerando ainda que importa equiparar os funcionários do Serviço Regional de Protecção Civil da Madeira àqueles que exercem idênticas funções nos Serviços Nacional de Protecção Civil e Regional de Protecção Civil dos Açores:
+
+Assim, em execução do previsto no artigo 21.º do [Decreto Regulamentar Regional n.º 3-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-a-1997-509787), de 6 de Fevereiro, e nos termos da primeira parte da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e do artigo 231.º, n.º 5, da Constituição, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 6.º, 8.º, 16.º, 32.º, 33.º e 34.º do [Decreto Regulamentar Regional n.º 11/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1990-575140), de 8 de Junho, sendo o artigo 8.º na redacção que lhe foi conferida pelo [Decreto Regulamentar Regional n.º 11/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1995-514202), de 8 de Maio, passam a ter a seguinte redacção:
+
+«Artigo 6.º
+
+Atribuições
+
+1 - ...
+
+2 - ...
+
+...
+
+n) Criar equipas móveis de intervenção rápida.
+
+###### Artigo 8.º — Estrutura
+
+O SRPCM é superiormente dirigido por um presidente, que será coadjuvado por um vice-presidente, e integra:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Repartição dos Serviços Gerais e Pessoal;
+
+f) Repartição de Contabilidade e Património.
+
+###### Artigo 16.º — Composição
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) Um representante da Federação de Bombeiros da Região Autónoma da Madeira;
+
+o) ...
+
+p) ...
+
+2 - ...
+
+###### Artigo 32.º — Natureza das repartições administrativas
+
+1 - A Repartição dos Serviços Gerais e Pessoal (RSGP) é um serviço destinado essencialmente a prestar apoio administrativo ao SRPCM e a todos os serviços que o integram nas áreas do expediente, arquivo, assuntos gerais e pessoal.
+
+2 - A Repartição de Contabilidade e Património (RCP) é um serviço destinado essencialmente a prestar apoio administrativo ao SRPCM e a todos os serviços que o integram nas áreas da contabilidade, orçamento e património.
+
+###### Artigo 33.º — Atribuições
+
+1 - São atribuições da RSGP:
+
+a) Assegurar a execução do expediente, registo e arquivo do SRPCM;
+
+b) Assegurar o serviço de recrutamento, movimentação e cadastro de pessoal, instruindo os respectivos processos individuais, bem como todo o expediente inerente à concessão dos benefícios médicos sociais garantidos aos funcionários e seus familiares;
+
+c) Emitir certidões dos documentos existentes nos arquivos do SRPCM, sempre que devidamente autorizados;
+
+d) Recolher e proceder à análise e difusão da informação, organizando, se necessário, um núcleo de informação e documentação;
+
+e) Assegurar a existência de ficheiros completos e actualização de legislação, doutrina e jurisprudência;
+
+f) Garantir, de uma forma geral, o eficaz funcionamento do SRPCM em tudo que não seja das atribuições específicas dos restantes órgãos e serviços que o integram;
+
+g) Colaborar na elaboração dos relatórios de actividades do SRPCM;
+
+h) Manter actualizado o cadastro de todos os elementos dos corpos de bombeiros da Região, elaborar os processos de formação dos mesmos e prestar apoio a todos os assuntos com eles relacionados.
+
+2 - São atribuições da RCP:
+
+a) Elaborar o orçamento do SRPCM e respectivas alterações;
+
+b) Assegurar o equipamento do SRPCM, efectuando as aquisições necessárias para o seu regular funcionamento e mantendo actualizado o respectivo cadastro patrimonial;
+
+c) Velar pela sua segurança e conservação do património;
+
+d) Assegurar a gestão das viaturas e outros equipamentos afectos ao SRPCM, com vista ao seu racional aproveitamento;
+
+e) Assegurar a eficiência das redes de comunicação interna e externa;
+
+f) Organizar e manter actualizado o processo contabilístico do SRPCM;
+
+g) Proceder à recolha e preparação de elementos estatísticos;
+
+h) Colaborar, nas suas áreas de competência, na elaboração dos relatórios de actividades do SRPCM.
+
+###### Artigo 34.º — Estrutura
+
+1 - A RSGP compreende:
+
+a) Secção de Expediente, Arquivo e Pessoal;
+
+b) Secção de Serviços Gerais.
+
+2 - A RCP compreende:
+
+a) Secção de Contabilidade e Património;
+
+b) Centro de Comunicações.»
+
+###### Artigo 2.º
+
+O mapa referido no n.º 2 do artigo 35.º do [Decreto Regulamentar Regional n.º 11/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1990-575140), de 8 de Junho, com a composição que lhe foi conferida pelo artigo 3.º do [Decreto Regulamentar Regional n.º 11/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1995-514202), de 8 de Maio, passa a ter a composição constante do mapa anexo ao presente diploma.
+
+###### Artigo 3.º
+
+1 - São revogados o n.º 4 do artigo 35.º e o artigo 36.º do [Decreto Regulamentar Regional n.º 11/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1990-575140), de 8 de Junho.
+
+2 - Mantém-se transitoriamente em vigor a escala salarial constante do n.º 4 do artigo 35.º do [Decreto Regulamentar Regional n.º 11/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1990-575140), de 8 de Junho, até que se mostrem extintos os lugares de operadores de comunicações constantes do mapa a que se refere o artigo 2.º do presente diploma.
+
+###### Artigo 4.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional de 6 de Agosto de 1998.
+
+Pelo Presidente do Governo Regional, João Paulo Baptista Fontes.
+
+**Assinado em 6 de Agosto de 1998.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+
+Quadro de pessoal do Serviço Regional de Protecção Civil da Madeira
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/198b00/45014505.pdf)

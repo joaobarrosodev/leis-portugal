@@ -1,0 +1,324 @@
+---
+schema_version: '1.0'
+id: pt:dre:306634:por
+title: Decreto Legislativo Regional n.º 25/2010/M
+short_title: null
+summary: Segunda alteração ao Decreto Legislativo Regional n.º 15/93/M, de 4 de Setembro, que estabelece normas relativas
+  à defesa e protecção das estradas regionais
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 25/2010/M
+official_date: null
+publication_date: '2010-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 252/2010, Série I de 2010-12-30
+  number: '252'
+  series: I
+  supplement: null
+  pages: 6080 - 6082
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25200/0608006082.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/25/2010/12/30/m/dre/pt/html
+  oj: null
+  dre: '306634'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/25-2010-306634
+  internal: pt:dre:306634:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2010-306634
+  metadata_url: https://data.dre.pt/eli/declegreg/25/2010/12/30/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2010-306634
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-02-14T00:00:00Z'
+integrity:
+  source_sha256: bec6842fc9fddfe32a267a5ef192fbf30b2dd2f946e5fe225186ac259646752c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2010/DRE-2010-25-306634.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estrada
+- Contra-ordenação
+- Definição de Competências
+- Secretaria Regional do Equipamento Social
+- Estrada Regional
+- Proteção do Ambiente
+- Madeira.região Autónoma
+- Secretário Regional do Equipamento Social
+- Taxa
+- ÁREA NON Aedificandi
+relationships:
+- type: amended_by
+  target: pt:dre:258721:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/10/1996/07/04/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/10/1996/07/04/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/15/1993/09/04/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/15/1993/09/04/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 25/2010/M
+
+Segunda alteração ao [Decreto Legislativo Regional n.º 15/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1993-630413), de 4 de Setembro, que estabelece normas relativas à defesa e protecção das estradas regionais
+
+O [Decreto Legislativo Regional n.º 15/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1993-630413), de 4 de Setembro, introduziu um conjunto de normas tendentes a promover a defesa e protecção das estradas regionais, de modo a permitir que as actividades e intervenções a desenvolver em zonas afectas às mesmas ocorram com observância dos normativos de segurança e imperativos de fluidez de tráfego, contemplando ainda a salvaguarda de valores ambientais.
+
+Este diploma veio a sofrer alterações através do [Decreto Legislativo Regional n.º 10/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1996-424126), de 4 de Julho, ditadas pela experiência colhida com a aplicação daquele regime jurídico, a qual evidenciou a existência de lacunas e excessiva rigidez de algumas das suas normas.
+
+Decorridos alguns anos após a referida alteração, importa proceder a um novo reajustamento do diploma, justificando-se por razões de adequação com a actual classificação das estradas regionais, bem como flexibilizar, sem prejuízo da salvaguarda dos imperativos de segurança, algumas normas cuja experiência veio a demonstrar serem demasiado rígidas.
+
+De igual forma, procurou-se harmonizar este diploma com normas similares previstas noutros regimes jurídicos, com os quais importa estabelecer uma necessária consonância, em obediência ao princípio da unidade do ordenamento jurídico.
+
+Pretende-se, ainda, adequar as competências previstas no diploma à actual nomenclatura e estrutura das entidades com atribuições na matéria e no sector.
+
+Por fim, importa assinalar a necessária actualização do regime jurídico das contra-ordenações, previsto no diploma, bem como a clarificação da disciplina submetida a licenciamento ou autorização, sujeita ao pagamento da contrapartida de uma taxa, cujo valor deverá ser fixado anualmente.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República, conjugados com a alínea j) do n.º 1 do artigo 37.º e a alínea ll) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, na redacção dada pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e com a alteração introduzida pela [Lei n.º 12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma procede à segunda alteração ao [Decreto Legislativo Regional n.º 15/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1993-630413), de 4 de Setembro, que estabelece as condições de realização de edificações, obras, trabalhos e outras intervenções e de exercício de actividades de natureza industrial ou comercial nos solos das estradas regionais e nas respectivas zonas de protecção, na perspectiva da segurança e fluidez do tráfego, da salvaguarda de valores paisagísticos e da preservação da qualidade ambiental.
+
+###### Artigo 2.º — Alteração ao [Decreto Legislativo Regional n.º 15/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1993-630413), de 4 de Setembro
+
+Os artigos 9.º, 11.º, 15.º, 17.º, 19.º, 20.º e 22.º do [Decreto Legislativo Regional n.º 15/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1993-630413), de 4 de Setembro, alterado pelo [Decreto Legislativo Regional n.º 10/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1996-424126), de 4 de Julho, passam a ter a seguinte redacção:
+
+«Artigo 9.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) Edifícios para habitação ou quaisquer construções simples, ainda que removíveis, numa faixa de terreno com a largura de 5 m para cada lado do limite da zona da estrada, excepto nos casos das estradas regionais classificadas como via expresso, em que a referida faixa terá a largura de 7 m e as classificadas como via rápida, em que a referida faixa terá a largura de 10 m;
+
+c) Instalações de carácter industrial ou comercial, nomeadamente fábricas, oficinas, armazéns, restaurantes, hotéis e congéneres, igrejas, recintos de espectáculo, matadouros e quartéis de bombeiros, numa faixa com a largura de 8 m do limite da zona da estrada, excepto nos casos das estradas regionais classificadas como via expresso, em que a referida faixa terá a largura de 12 m e as classificadas como via rápida, em que a referida faixa terá a largura de 20 m;
+
+d) ...
+
+e) ...
+
+f) Depósitos de materiais para venda, nomeadamente madeiras, carros ou máquinas, numa faixa com a largura de 8 m do limite da zona da estrada, excepto nos casos das estradas regionais classificadas como via expresso, em que a referida faixa terá a largura de 12 m e as classificadas como via rápida, em que a referida faixa terá a largura de 20 m, sendo ainda, para além da distância mínima referida, a visibilidade reduzida por sebe e arranjo paisagístico adequado;
+
+g) ...
+
+h) Exposição e venda, designadamente de artigos regionais ou produtos agrícolas, numa faixa com a largura de 8 m do limite da zona da estrada, excepto nos casos das estradas regionais classificadas como via expresso, em que a referida faixa terá a largura de 12 m e as classificadas como via rápida, em que a referida faixa terá a largura de 20 m, salvo se existir local adequado com parque privativo de modo que o estacionamento de veículos se verifique fora da zona da estrada e seja servido por acessos que respeitem o disposto no presente diploma;
+
+i) ...
+
+j) ...
+
+l) ...
+
+2 - ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+4 - ...
+
+a) ...
+
+b) As construções a efectuar à margem de estradas regionais quando atravessem centros populacionais, definidos como urbanos em plano municipal de ordenamento do território ou quando existam alinhamentos definidos aos quais essas construções deverão ficar subordinadas;
+
+c) ...
+
+d) As construções à margem de estradas regionais, que condicionalismos especiais decorrentes de limitações geológicas e orográficas obriguem à respectiva implantação fora dos limites estabelecidos no n.º 1, desde que sustentados em estudo geológico específico elaborado por técnico habilitado da especialidade.
+
+5 - As excepções contempladas no número anterior serão confirmadas, face a parecer da RAMEDM - Estradas da Madeira, S. A., pelo Secretário Regional do Equipamento Social, interpretando-se como favorável a falta de decisão no prazo de 20 dias.
+
+6 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+7 - ...
+
+###### Artigo 11.º — [...]
+
+1 - Podem ser autorizadas pela Secretaria Regional do Equipamento Social, mediante parecer prévio da RAMEDM - Estradas da Madeira, S. A., obras de ampliação ou modificação de edifícios já existentes na faixa com servidão non aedificandi, para efeito de dotá-las de melhoramentos de condições de implantação urbanística, paisagística ou de salubridade, quando se não preveja a necessidade de os demolir em futuro próximo para melhoria das condições de trânsito, sendo requisito de tais autorizações:
+
+a) ...
+
+b) ...
+
+c) (Revogada.)
+
+d) ...
+
+e) ...
+
+2 - ...
+
+###### Artigo 15.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - As licenças, autorizações ou pareceres, quando referentes a operações urbanísticas sujeitas a licenciamento pelas câmaras municipais, serão concedidos ou emitidos nos termos e nos prazos definidos no [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
+
+4 - ...
+
+5 - (Revogado.)
+
+###### Artigo 17.º — [...]
+
+1 - ...
+
+2 - Os factos geradores das nulidades previstas neste artigo e quaisquer outros factos de que possa resultar a invalidade dos actos administrativos previstos no presente diploma devem ser participados, por quem deles tenha conhecimento, ao Ministério Público para efeitos de propositura da competente acção administrativa especial e respectivos meios processuais acessórios.
+
+3 - (Revogado.)
+
+###### Artigo 19.º — [...]
+
+1 - Constitui contra-ordenação, punível com coima de montante entre (euro) 250 e o limite máximo estabelecido no Regime Geral das Contra-Ordenações, a prática de actividades ou a omissão de deveres em violação do estipulado nos artigos 5.º a 12.º do presente diploma, sem prejuízo da sujeição do transgressor a medidas que se mostrem adequadas à reposição da situação anterior à infracção e à minimização dos efeitos decorrentes da mesma.
+
+2 - ...
+
+3 - ...
+
+4 - A afectação do produto das coimas reverte para a Região.
+
+###### Artigo 20.º — [...]
+
+...
+
+a) ...
+
+b) ...
+
+c) Cessação ou suspensão de licenças, alvarás ou autorizações.
+
+###### Artigo 22.º — [...]
+
+1 - São devidas taxas pelas seguintes utilizações:
+
+a) Pela ocupação do subsolo da zona da estrada, por cada metro de extensão de canalização ou aqueduto;
+
+b) Pela ocupação temporária de parte da zona da estrada com construções, abrigos móveis ou andaimes, por metro quadrado, em cada mês ou fracção;
+
+c) Pela passagem de águas de rega pelas valetas da estrada ou em canalizações ao longo da estrada, por cada metro de extensão;
+
+d) Pelos passadiços ou atravessamentos no espaço aéreo da estrada, por cada metro;
+
+e) Pelo estabelecimento de acesso a propriedades rústicas ou a edifícios de habitação, por cada metro de largura de pavimento;
+
+f) Pelo estabelecimento de acessos a instalações industriais, por cada metro de largura de pavimento;
+
+g) Pela construção, ampliação ou modificação de edifícios, por cada metro de extensão vezes o número de pisos;
+
+h) Pelo estabelecimento de muros ou vedações de carácter não removível, por cada metro de extensão;
+
+i) Pela implantação temporária de mastros para embandeiramento ou ornamentação, por cada mastro;
+
+j) Pela implantação de tabuletas ou objectos de publicidade, por cada metro quadrado ou fracção;
+
+l) Pelo estabelecimento ou ampliação de postos de combustível por cada bomba abastecedora de combustível.
+
+2 - O valor das taxas a aplicar será fixado anualmente por portaria conjunta do Secretário Regional do Plano e Finanças e Secretário Regional do Equipamento Social.
+
+3 - ...»
+
+###### Artigo 3.º — Competências
+
+1 - As referências feitas e as competências cometidas à Secretaria Regional do Equipamento Social e Ambiente consideram-se reportadas e são exercidas pela Secretaria Regional do Equipamento Social.
+
+2 - As competências cometidas ao Secretário Regional do Equipamento Social e Ambiente consideram-se reportadas e são exercidas pelo Secretário Regional do Equipamento Social.
+
+3 - As referências feitas e as competências cometidas à Direcção Regional de Estradas consideram-se reportadas e são exercidas pela RAMEDM - Estradas da Madeira, S. A.
+
+4 - As competências cometidas ao director regional de Estradas consideram-se reportadas e são exercidas pelo conselho de administração da RAMEDM - Estradas da Madeira, S. A.
+
+###### Artigo 4.º — Norma revogatória
+
+São revogados a alínea c) do n.º 1 do artigo 11.º, o n.º 5 do artigo 15.º e o n.º 3 do artigo 17.º do [Decreto Legislativo Regional n.º 15/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1993-630413), de 4 de Setembro, alterado pelo [Decreto Legislativo Regional n.º 10/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1996-424126), de 4 de Julho.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 24 de Novembro de 2010.
+
+**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+
+**Publique-se.**
+
+**Assinado em 20 de Dezembro de 2010.**
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

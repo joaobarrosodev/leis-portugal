@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:520240:por
+title: Resolução do Conselho de Ministros n.º 51/2007
+short_title: null
+summary: Determina a elaboração do III Plano Nacional para a Igualdade, do III Plano Nacional contra a Violência Doméstica
+  e do I Plano Nacional contra o Tráfico de Seres Humanos
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 51/2007
+official_date: null
+publication_date: '2007-03-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2007, Série I de 2007-03-28
+  number: '62'
+  series: I
+  supplement: null
+  pages: 1777 - 1779
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06200/17771779.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/51/2007/03/28/p/dre/pt/html
+  oj: null
+  dre: '520240'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/51-2007-520240
+  internal: pt:dre:520240:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-2007-520240
+  metadata_url: https://data.dre.pt/eli/resolconsmin/51/2007/03/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/51-2007-520240
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-03-28T00:00:00Z'
+integrity:
+  source_sha256: 13d82b74f278077d7a7cfe1fde4e3ad6b2396e3064217d817b24832540d31648
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-51-520240.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crime
+- Combate à Violência
+- Mulher
+- Violência
+- Direitos do Homem
+- Igualdade de Tratamento
+- Plano Nacional para a Igualdade
+- Definição de Competências
+- Plano Nacional contra o Tráfico de Seres Humanos
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Comissão para a Cidadania e a Igualdade de Género
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 51/2007
+
+A igualdade entre mulheres e homens é uma das tarefas fundamentais do Estado Português. Efectivamente, as políticas de igualdade entre homens e mulheres tornam-se cada vez mais essenciais para a vivência plena da uma cidadania que integra os direitos humanos e contribui para o aprofundamento da democracia.
+
+É na plena compreensão de tais princípios que o Conselho de Ministros decide sinalizar o seu contributo activo para uma comemoração do Dia Internacional da Mulher.
+
+Os compromissos assumidos ao nível nacional em matéria de igualdade de género, nomeadamente no Programa do XVII Governo Constitucional e nas Grandes Opções do Plano (2005-2009), traduzem as orientações estratégicas estabelecidas pelas várias instâncias internacionais em que Portugal está representado, nomeadamente pela ONU, União Europeia e Conselho da Europa, com particular destaque para os instrumentos que estabelecem normas e padrões pelos quais os Estados se devem reger, salientando-se, no âmbito da União Europeia, a Estratégia de Lisboa (2000), o Pacto Europeu para a Igualdade de Género (2006), bem como o Roteiro para a Igualdade entre Homens e Mulheres (2006-2010).
+
+Por outro lado, a comunidade internacional tem vindo a exortar os Estados para condenarem a violência contra as mulheres e não invocarem costumes, tradições ou quaisquer outras considerações para iludir a obrigação de a combater pelos meios legítimos ao seu alcance, apelando igualmente à atenção dos Estados para a necessidade de eliminar todas as formas de violência contra as mulheres, uma vez que a violência constitui uma violação dos direitos fundamentais.
+
+Também o tráfico de seres humanos é, nos dias de hoje, uma realidade com um impacte económico comparável ao do tráfico de armas e de droga. Estima-se que por ano sejam traficadas milhões de pessoas em todo o mundo. Portugal não está imune a este fenómeno que acarreta consigo um conjunto de causas e consequências problemáticas: o crime organizado, a exploração sexual e laboral, as assimetrias endémicas entre os países mais desenvolvidos e os mais carenciados, questões de género e de direitos humanos, quebra de suportes familiares e comunitários.
+
+A nível nacional as políticas referentes à igualdade de género e à violência doméstica têm-se vindo a aprofundar em vários domínios de acção, nomeadamente através da elaboração e implementação, desde a década de 90, do I e II Plano Nacional para a Igualdade e do I e II Plano Nacional contra a Violência Doméstica.
+
+Para a consolidação da política nacional no domínio da igualdade de género deve continuar a reforçar-se o combate à desigualdade de género em todos os domínios da vida social, política, económica e cultural, preconizando-se, por um lado, a integração da dimensão de género em todas as áreas de política (mainstreaming de género) e, por outro, acções específicas para a promoção da igualdade de género, incluindo acções positivas. Estas linhas de orientação política dever-se-ão inscrever na elaboração do III Plano Nacional para a Igualdade, cuja responsabilidade e implementação seja assegurada não só pelo Governo e pela Administração Pública mas também pela participação activa da sociedade civil, reforçando a lógica da boa governação.
+
+Deve continuar a prosseguir-se uma estratégia de prevenção e combate à violência de género e doméstica, através da promoção de uma cultura para a cidadania e para a igualdade, do reforço de campanhas de informação, de formação e do apoio, acolhimento e protecção das vítimas, numa lógica de reinserção social e autonomia.
+
+Estas linhas de orientação política visam a prossecução de uma acção concertada que mobilize as instituições europeias, as autoridades públicas nacionais e as organizações não governamentais para que todos, de uma forma sustentada, unam esforços e combinem iniciativas multiplicadoras de novas metodologias e abordagens ao fenómeno. Só aprofundando o intercâmbio técnico-científico, harmonizando e aperfeiçoando os ordenamentos jurídicos, tal como se pretende no espaço europeu, se conseguirá a tolerância zero à violência de género.
+
+Deste modo, dever-se-á proceder à elaboração de medidas de estratégia política que, por um lado, permitam a manutenção e consolidação das abordagens, que se têm vindo a definir no âmbito da violência doméstica, e, por outro, se enquadre uma estratégia autónoma de combate ao tráfico de seres humanos, dadas as proporções que este fenómeno tem vindo a atingir nas sociedades contemporâneas.
+
+Tendo como objectivo um salto qualitativo e eficaz nas políticas de combate a toda a violência de género, pretende-se dar continuidade à dinamização, com as diferentes estruturas, quer do Estado quer da sociedade civil, ao trabalho conjunto na consolidação de uma política de prevenção e combate a estes fenómenos, segundo as boas práticas de um Estado de direito democrático.
+
+Assim, o Governo considera que a eficácia do combate a estes fenómenos que atravessam toda a sociedade portuguesa só será possível se travada numa perspectiva transversal e integrada, que deverá ser explicitada, por um lado, na elaboração do III Plano Nacional contra a Violência Doméstica e, por outro, na elaboração do I Plano Nacional contra o Tráfico de Seres Humanos.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar a elaboração do III Plano Nacional para a Igualdade de Género (2007-2010), com as seguintes orientações:
+
+a) Integração transversal da perspectiva de género em todos os domínios prioritários de política enquanto requisito de boa governação;
+
+b) Desenvolvimento de acções positivas para a promoção da igualdade de género;
+
+c) Identificação dos mecanismos para a responsabilização activa da Administração Pública na prossecução do Plano;
+
+d) Criação de instrumentos que permitam a participação da sociedade civil e a promoção de uma cidadania activa e responsável;
+
+e) Implementação de um sistema de monitorização da igualdade de género nas suas diversas dimensões;
+
+f) Promoção da igualdade de género no plano internacional e na cooperação para o desenvolvimento;
+
+g) Articulação dos objectivos e instrumentos do Plano com o Quadro de Referência Estratégico Nacional, muito em especial no âmbito do Programa Operacional do Potencial Humano.
+
+2 - Determinar a elaboração do III Plano Nacional contra a Violência Doméstica (2007-2010), com as seguintes orientações:
+
+a) Promoção de uma cultura de cidadania contra a violência doméstica;
+
+b) Protecção das vítimas e prevenção da revitimação;
+
+c) Desenvolvimento de programas de tratamento e controlo para agressores;
+
+d) Qualificação dos profissionais e aprofundamento do conhecimento sobre o fenómeno da violência doméstica.
+
+3 - Determinar a elaboração do I Plano Nacional contra o Tráfico de Seres Humanos (2007-2010), com as seguintes orientações:
+
+a) Definição de medidas de combate ao tráfico de pessoas e apoio às vítimas de tráfico de seres humanos;
+
+b) Implementação de um sistema de conhecimento do fenómeno do tráfico de seres humanos;
+
+c) Construção de um sistema de avaliação e identificação das pessoas vítimas de tráfico durante o período de acolhimento de emergência.
+
+4 - Estabelecer que os Planos referidos nos números anteriores tenham uma vigência de três anos a partir da data da sua publicação.
+
+5 - Definir que cumpre à Comissão para a Cidadania e Igualdade de Género a elaboração do III Plano Nacional para a Igualdade de Género e do III Plano Nacional contra a Violência Doméstica e a coordenação do I Plano Nacional contra o Tráfico de Seres Humanos, sob orientação do Secretário de Estado da Presidência do Conselho de Ministros.
+
+6 - Conferir um prazo não superior a 60 dias para a elaboração dos referidos Planos, incluindo neles o período de consulta pública.
+
+Presidência do Conselho de Ministros, 8 de Março de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

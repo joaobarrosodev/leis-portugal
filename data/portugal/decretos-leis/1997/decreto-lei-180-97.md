@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:148993:por
+title: Decreto-Lei n.º 180/97
+short_title: null
+summary: Desafecta do Instituto Politécnico de Aveiro a Escola Superior de Tecnologia e Gestão de Águeda e autoriza a Universidade
+  de Aveiro a integrá-la, fixando as regras gerais do regime de integração e instalação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 180/97
+official_date: null
+publication_date: '1997-07-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/1997, Série I-A de 1997-07-24
+  number: '169'
+  series: I
+  supplement: null
+  pages: 3735 - 3736
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/07/169a00/37353736.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/180/1997/07/24/p/dre/pt/html
+  oj: null
+  dre: '148993'
+  dre_path: /dr/detalhe/decreto-lei/180-1997-148993
+  internal: pt:dre:148993:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1997-148993
+  metadata_url: https://data.dre.pt/eli/dec-lei/180/1997/07/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1997-148993
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-07-24T00:00:00Z'
+integrity:
+  source_sha256: f5beb76ae5ce76a3f0e91458382d225e981c668010820ddde2b143c3ed7e2f5d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-180-148993.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Águeda
+- Aveiro
+- Definição de Competências
+- Ensino Superior Politécnico
+- Escola Superior
+- Universidade de Aveiro
+- Escola Superior de Tecnologia e Gestão
+- Instituto Politécnico
+- Integração de Serviços
+- Estabelecimento de Ensino
+- Regime de Instalação
+- Transferência de Competências
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/304/1994/12/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/304/1994/12/19/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 180/97
+
+de 24 de Julho
+
+A Escola Superior de Tecnologia e Gestão de Águeda foi criada pelo [Decreto-Lei n.º 304/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1994-571177), de 19 de Dezembro, no âmbito do então igualmente criado Instituto Politécnico de Aveiro.
+
+A Universidade de Aveiro havia já manifestado a vontade de instituir no seu âmbito uma escola de ensino superior politécnico no domínio da tecnologia e gestão, intenção que renovou perante o Ministério da Educação.
+
+Nos termos do artigo 14.º da Lei de Bases do Sistema Educativo, o ensino politécnico realiza-se em escolas superiores especializadas (n.º 2), que se podem associar em unidades mais amplas, com designações várias, segundo critérios de interesse regional e ou de natureza das escolas (n.º 4), bem como integrar-se em universidades (n.º 3).
+
+O desenvolvimento de uma escola de ensino superior politécnico no seio de uma universidade poderá revelar-se uma medida de grande interesse, que, sem desvirtuar os objectivos do ensino politécnico, beneficie das potencialidades e do dinamismo de uma instituição de ensino superior em pleno desenvolvimento e com um elevado grau de integração no meio.
+
+Trata-se de uma solução que não põe em causa a existência de dois subsistemas de ensino superior com objectivos diferenciados, mas que admite a sua concretização através de modelos organizativos diferenciados, que melhor se ajustem às circunstâncias concretas no sentido do desenvolvimento, valorização e consolidação do ensino superior politécnico.
+
+Foi ouvido o Conselho Coordenador dos Institutos Superiores Politécnicos.
+
+Assim:
+
+Considerando o disposto no n.º 3 do artigo 14.º da Lei de Bases do Sistema Educativo, conjugado com o disposto na Lei da Autonomia das Universidades ([Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 24 de Setembro):
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Desafectação
+
+A Escola Superior de Tecnologia e Gestão de Águeda, criada pelo [Decreto-Lei n.º 304/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1994-571177), de 19 de Dezembro, é desafectada do Instituto Politécnico de Aveiro.
+
+###### Artigo 2.º — Autorização de integração
+
+A Universidade de Aveiro é autorizada a integrar a Escola Superior de Tecnologia e Gestão de Águeda, nos termos do n.º 3, in fine, do artigo 14.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro).
+
+###### Artigo 3.º — Regime de integração
+
+1 - A integração da Escola na Universidade de Aveiro faz-se nos termos que vierem a ser fixados nos Estatutos desta, com respeito pela natureza e objectivos do ensino superior politécnico.
+
+2 - Os Estatutos da Universidade fixam o regime de repartição de competências entre os órgãos da Universidade e os órgãos da Escola.
+
+###### Artigo 4.º — Regime de instalação
+
+1 - A Escola entra em funcionamento em regime de instalação.
+
+2 - O regime de instalação a aplicar é o fixado pelo [Decreto-Lei n.º 24/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1994-495503), de 27 de Janeiro, com as especialidades constantes do presente diploma.
+
+###### Artigo 5.º — Especialidades do regime de instalação
+
+1 - Os poderes legalmente atribuídos aos órgãos de governo ou de gestão dos institutos politécnicos e das escolas superiores consideram-se, relativamente à Escola Superior de Tecnologia de Águeda, atribuídos ao reitor da Universidade de Aveiro, com excepção dos cometidos, por força do disposto nos Estatutos desta, ao órgão competente em matéria administrativa, financeira e patrimonial e dos cometidos, nos termos dos artigos 12.º a 20.º do [Decreto-Lei n.º 24/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1994-495503), aos órgãos próprios da Escola.
+
+2 - Compete ao reitor da Universidade de Aveiro nomear e exonerar o director e o subdirector da Escola.
+
+Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo.
+
+**Promulgado em 3 de Julho de 1997.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 10 de Julho de 1997.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

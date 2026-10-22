@@ -1,0 +1,1085 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:316169:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1996-944409946",
+ "dre_path": "/dr/detalhe/lei/23-a-1996-316169",
+ "source_lastmod": "2025-11-04",
+ "versions": [
+  {
+   "date": "1996-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944411378",
+    "944411379",
+    "944411380",
+    "944411381",
+    "944411382",
+    "944411383",
+    "944411384",
+    "944411385",
+    "944411386",
+    "944411387",
+    "944411388",
+    "944411389",
+    "944411390",
+    "944411391",
+    "944411392",
+    "944411394",
+    "944411395",
+    "944411396",
+    "944411397",
+    "944411398",
+    "944411399",
+    "944411400",
+    "944411401",
+    "944411402",
+    "944411403",
+    "944411404",
+    "944411405",
+    "944411406",
+    "944411407",
+    "944411408",
+    "944411409",
+    "944411410",
+    "944411411",
+    "944411412",
+    "944411413",
+    "944411414",
+    "944411415",
+    "944411416",
+    "944411417",
+    "944411418",
+    "944411419",
+    "944411420",
+    "944411421",
+    "944411422",
+    "944411423",
+    "944411424",
+    "944411425",
+    "944411426",
+    "944411427",
+    "944411428",
+    "944411429",
+    "944411430",
+    "944411431",
+    "944411432",
+    "944411433",
+    "944411434",
+    "944411435",
+    "944411436",
+    "944411437",
+    "944411438",
+    "944411439",
+    "944411440",
+    "944411441",
+    "944411442",
+    "944411443",
+    "944411444",
+    "944411445",
+    "944411446",
+    "944411447",
+    "944411448",
+    "944411449",
+    "944411450",
+    "944411451",
+    "944411452",
+    "944411453",
+    "944411454",
+    "944411455",
+    "944411456",
+    "944411457",
+    "944411458",
+    "944411459",
+    "944411460",
+    "944411461",
+    "944411462",
+    "944411463",
+    "944411464",
+    "944411465",
+    "944411466",
+    "944411467",
+    "944411468",
+    "944411469",
+    "944411470",
+    "944411471",
+    "944411472",
+    "944411473",
+    "944411474",
+    "944396275",
+    "944396276",
+    "944396277",
+    "944396278",
+    "944396279",
+    "944396280",
+    "944396281"
+   ]
+  },
+  {
+   "date": "1996-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:434611:por",
+     "title": "Declaração de Rectificação n.º 15-L/96",
+     "published": "1996-10-25",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/15-l-1996-434611"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 19.º"
+   ],
+   "fragments": [
+    "944411378",
+    "944411379",
+    "944411380",
+    "944411381",
+    "944411382",
+    "944411383",
+    "944411384",
+    "944411385",
+    "944411386",
+    "944411387",
+    "944411388",
+    "944411389",
+    "944411390",
+    "944411391",
+    "944411392",
+    "944411393",
+    "944411394",
+    "944411395",
+    "944411396",
+    "944411397",
+    "944411398",
+    "944411399",
+    "944411400",
+    "944411401",
+    "944411402",
+    "944411403",
+    "944411404",
+    "944411405",
+    "944411406",
+    "944411407",
+    "944411408",
+    "944411409",
+    "944411410",
+    "944411411",
+    "944411412",
+    "944411413",
+    "944411414",
+    "944411415",
+    "944411416",
+    "944396284",
+    "944411418",
+    "944411419",
+    "944411420",
+    "944411421",
+    "944411422",
+    "944411423",
+    "944411424",
+    "944411425",
+    "944411426",
+    "944411427",
+    "944411428",
+    "944411429",
+    "944411430",
+    "944411431",
+    "944411432",
+    "944411433",
+    "944411434",
+    "944411435",
+    "944411436",
+    "944411437",
+    "944411438",
+    "944411439",
+    "944411440",
+    "944411441",
+    "944411442",
+    "944411443",
+    "944411444",
+    "944411445",
+    "944411446",
+    "944411447",
+    "944411448",
+    "944411449",
+    "944411450",
+    "944411451",
+    "944411452",
+    "944411453",
+    "944411454",
+    "944411455",
+    "944411456",
+    "944411457",
+    "944411458",
+    "944411459",
+    "944411460",
+    "944411461",
+    "944411462",
+    "944411463",
+    "944411464",
+    "944411465",
+    "944411466",
+    "944411467",
+    "944411468",
+    "944411469",
+    "944411470",
+    "944411471",
+    "944411472",
+    "944411473",
+    "944411474",
+    "944396275",
+    "944396276",
+    "944396277",
+    "944396278",
+    "944396279",
+    "944396280",
+    "944396281"
+   ]
+  }
+ ],
+ "fragments": {
+  "944411378": {
+   "fragment_id": "944409947",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 23-A/96\n\nde 29 de Julho\n\nAlteração do Estatuto Orgânico de Macau\n\nA Assembleia da República decreta, ouvido o Conselho de Estado, nos termos do n.º 3 do artigo 292.º da Constituição, o seguinte:"
+  },
+  "944411379": {
+   "fragment_id": "944409948",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Estatuto Orgânico de Macau, aprovado pela Lei n.º 1/76, de 17 de Fevereiro, com as alterações que lhe foram introduzidas pela Lei n.º 53/79, de 14 de Setembro, e pela Lei n.º 13/90, de 10 de Maio, é alterado nos termos dos artigos seguintes."
+  },
+  "944411380": {
+   "fragment_id": "944409949",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO artigo 2.º é substituído por:\n\n«Artigo 2.º\n\nO território de Macau constitui uma pessoa colectiva de direito público e goza, com ressalva dos princípios e no respeito dos direitos, liberdades e garantias estabelecidos na Constituição da República e no presente Estatuto, de autonomia administrativa, económica, financeira, legislativa e judiciária.»"
+  },
+  "944411381": {
+   "fragment_id": "944409950",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A alínea b) do n.º 1 do artigo 11.º é substituída por:\n\n«b) Promulgar as leis, assinar os decretos-leis e mandar publicá-los;»\n\n2 - O n.º 2 do mesmo artigo é substituído por:\n\n«2 - As leis e os decretos-leis publicados sem, respectivamente, a promulgação ou a assinatura do Governador são juridicamente inexistentes.»"
+  },
+  "944411382": {
+   "fragment_id": "944409951",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO n.º 1 do artigo 23.º é substituído por:\n\n«1 - Compete ao tribunal de competência genérica verificar o apuramento das eleições e proclamar os membros eleitos, cuja relação será publicada no Boletim Oficial.»"
+  },
+  "944411383": {
+   "fragment_id": "944409952",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO n.º 3 do artigo 26.º é substituído por:\n\n«3 - Movido procedimento criminal contra algum Deputado à Assembleia Legislativa e indiciado este por despacho de pronúncia ou equivalente, o juiz comunicará o facto à Assembleia, que, salvo no caso previsto na última parte do número anterior, decidirá se o Deputado indiciado deve ou não ser suspenso para efeito do seguimento do processo.»"
+  },
+  "944411384": {
+   "fragment_id": "944409953",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA alínea l) do n.º 1 do artigo 30.º passa a alínea m), sendo aditada uma nova alínea l), com a seguinte redacção:\n\n«l) Pronunciar-se, em parecer, sobre a aplicação ao território de leis dos órgãos de soberania da República que concedam amnistias e perdões genéricos;»"
+  },
+  "944411385": {
+   "fragment_id": "944409954",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO artigo 31.º é substituído por:\n\n«Artigo 31.º\n\n1 - É da exclusiva competência da Assembleia Legislativa legislar sobre as seguintes matérias:\n\na) Regime eleitoral para a Assembleia Legislativa, designadamente sobre os requisitos de elegibilidade, o recenseamento e a capacidade eleitoral, a definição dos interesses sociais representados pelo sufrágio indirecto, o processo de eleição e a data em que devem realizar-se as eleições;\n\nb) Estatuto dos Deputados.\n\n2 - É da exclusiva competência da Assembleia Legislativa legislar sobre as seguintes matérias, salvo autorização ao Governador:\n\na) Regime da prisão preventiva, das buscas domiciliárias, do sigilo das comunicações privadas, das penas relativamente indeterminadas e das medidas de segurança e respectivos pressupostos;\n\nb) Regime geral das concessões da competência do Governador;\n\nc) Elementos essenciais do regime tributário, estabelecendo a incidência e a taxa de cada imposto e fixando os termos em que podem ser concedidas isenções fiscais;\n\nd) Divisão administrativa do território;\n\ne) Bases gerais do regime jurídico da administração local, incluindo as finanças locais;\n\nf) Regime jurídico das relações entre órgãos da administração central do território e os da administração local e condições em que os órgãos desta última poderão ser dissolvidos pelo Governador;\n\ng) Bases do regime da administração pública do território;\n\nh) Criação de novas categorias ou designações funcionais, alteração das tabelas que definem aquelas categorias e fixação dos vencimentos, salários e outras formas de remuneração do pessoal dos quadros.\n\n3 - É da competência concorrencial da Assembleia Legislativa e do Governador legislar sobre as seguintes matérias:\n\na) Estado e capacidade das pessoas;\n\nb) Direitos, liberdades e garantias em tudo o que não contrarie o disposto na alínea a) do número anterior;\n\nc) Definição de crimes, penas e respectivos pressupostos, bem como processo penal, em tudo o que não contrarie o disposto na alínea a) do número anterior;\n\nd) Regime geral de punição das infracções disciplinares, bem como das contravenções e dos actos ilícitos de mera ordenação social e do respectivo processo;\n\ne) Regime geral da requisição e da expropriação por utilidade pública;\n\nf) Regime geral do arrendamento;\n\ng) Sistema monetário e padrão de pesos e medidas;\n\nh) Associações públicas, garantias dos administrados e responsabilidade civil da Administração;\n\ni) Bases gerais do estatuto das empresas públicas;\n\nj) Bases do sistema judiciário de Macau;\n\nl) Sistema de protecção da natureza, do equilíbrio ecológico e do património cultural;\n\nm) Sistema de segurança social e saúde.»"
+  },
+  "944411386": {
+   "fragment_id": "944409955",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA alínea b) do n.º 2 do artigo 36.º é substituída por:\n\n«b) As deliberações previstas no n.º 3 do artigo 15.º, no n.º 3 do artigo 26.º e na alínea c) do n.º 2 do artigo 30.º e as referentes à aprovação de leis que versem sobre as matérias da alínea h) do n.º 1 do artigo 30.º, das alíneas a) e b) do n.º 1, das alíneas a), g) e h) do n.º 2 e das alíneas a), b), c) e j) do n.º 3 do artigo 31.º»"
+  },
+  "944411387": {
+   "fragment_id": "944409956",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO n.º 2 do artigo 41.º é substituído por:\n\n«2 - Em caso de divergência entre normas constantes de diplomas dos órgãos de soberania da República aplicáveis ao território nos termos do artigo 69.º e normas de diplomas dos órgãos de governo próprio do território de Macau, prevalecem aquelas quando incidam sobre matérias incluídas na alínea a) do n.º 2 e nas alíneas a) a i) do n.º 3 do artigo 31.º, salvo se, tida em conta a situação especial do território, não houver colisão com o conteúdo essencial daquelas normas.»"
+  },
+  "944411388": {
+   "fragment_id": "944409957",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO n.º 2 do artigo 51.º é substituído por:\n\n«2 - Os lugares do quadro local de magistrados podem ser preenchidos por magistrados dos quadros da República, em regime de comissão de serviço.»"
+  },
+  "944411389": {
+   "fragment_id": "944409958",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs artigos 67.º, 68.º, 69.º, 70.º e 71.º passam a artigos 64.º, 65.º, 66.º, 67.º e 68.º, respectivamente."
+  },
+  "944411390": {
+   "fragment_id": "944409959",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - O artigo 72.º passa a artigo 69.º, sendo o n.º 3 substituído por:\n\n«3 - Nos casos em que se declare nos diplomas a sua aplicação imediata e nos demais casos de urgência, o seu texto será transmitido telegraficamente ou por meio de telecópia, reproduzindo-se logo o telegrama ou telecópia no Boletim Oficial ou em suplemento a este. Em tal caso, o diploma entrará em vigor na data da publicação dos referidos documentos.»\n\n2 - É aditado ao mesmo artigo um novo n.º 4, com a seguinte redacção:\n\n«4 - Os diplomas legais emanados dos órgãos de soberania da República que concedam amnistias e perdões genéricos só serão, porém, aplicados no território de Macau mediante parecer favorável da Assembleia Legislativa.»"
+  },
+  "944411391": {
+   "fragment_id": "944409960",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO artigo 73.º passa a artigo 70.º, sendo substituído por:\n\n«Artigo 70.º\n\nOs acordos e convenções internacionais e os diplomas legais entrarão em vigor no território de Macau, salvo declaração especial, no prazo de cinco dias contados a partir da publicação no Boletim Oficial.»"
+  },
+  "944411392": {
+   "fragment_id": "944409961",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs artigos 74.º e 75.º passam a artigos 71.º e 72.º, respectivamente."
+  },
+  "944411394": {
+   "fragment_id": "944409963",
+   "type": 14,
+   "heading": "ANEXO — Estatuto Orgânico de Macau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estatuto Orgânico de Macau"
+  },
+  "944411395": {
+   "fragment_id": "944409964",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "944411396": {
+   "fragment_id": "944409965",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO território de Macau abrange a cidade do Nome de Deus de Macau e as ilhas de Taipa e Coloane."
+  },
+  "944411397": {
+   "fragment_id": "944409966",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO território de Macau constitui uma pessoa colectiva de direito público e goza, com ressalva dos princípios e no respeito dos direitos, liberdades e garantias estabelecidos na Constituição da República e no presente Estatuto, de autonomia administrativa, económica, financeira, legislativa e judiciária."
+  },
+  "944411398": {
+   "fragment_id": "944409967",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Os órgãos de soberania da República, com excepção dos tribunais, são representados no território pelo Governador.\n\n2 - Nas relações com países estrangeiros e na celebração de acordos ou convenções internacionais a representação de Macau compete ao Presidente da República, que a pode delegar no Governador quanto a matérias de interesse exclusivo do território.\n\n3 - A aplicação no território de acordos ou convenções internacionais para cuja celebração não tenha sido concedida a delegação referida no número anterior será precedida da audição dos órgãos de governo próprio do território."
+  },
+  "944411399": {
+   "fragment_id": "944409968",
+   "type": 1,
+   "heading": "Capítulo II — Dos órgãos de governo próprio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos órgãos de governo próprio"
+  },
+  "944411400": {
+   "fragment_id": "944409969",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "944411401": {
+   "fragment_id": "944409970",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSão órgãos de governo próprio do território de Macau o Governador e a Assembleia Legislativa, funcionando ainda junto do primeiro o Conselho Consultivo."
+  },
+  "944411402": {
+   "fragment_id": "944409971",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA função legislativa será exercida pela Assembleia Legislativa e pelo Governador."
+  },
+  "944411403": {
+   "fragment_id": "944409972",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA função executiva será exercida pelo Governador, coadjuvado por Secretários-Adjuntos."
+  },
+  "944411404": {
+   "fragment_id": "944409973",
+   "type": 8,
+   "heading": "Secção II — Do Governador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do Governador"
+  },
+  "944411405": {
+   "fragment_id": "944409974",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O Governador é nomeado e exonerado pelo Presidente da República, que lhe conferirá posse.\n\n2 - A nomeação do Governador será precedida de consulta à população local, designadamente através da Assembleia Legislativa e dos organismos representativos dos interesses sociais, nas suas modalidades fundamentais."
+  },
+  "944411406": {
+   "fragment_id": "944396175",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO Governador tem a categoria correspondente à de Ministro do Governo da República."
+  },
+  "944411407": {
+   "fragment_id": "944396176",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Em caso de ausência ou impedimento do Governador, o Presidente da República designa quem deve assumir as respectivas funções, as quais, entretanto, serão exercidas por um encarregado do governo, a indicar pelo Governador de entre os Secretários-Adjuntos.\n\n2 - Em caso de falta do Governador, desempenhará as funções de encarregado do governo o Secretário-Adjunto mais antigo na posse, até o Presidente da República designar quem as deva assumir."
+  },
+  "944411408": {
+   "fragment_id": "944396177",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO Governador não pode ausentar-se do território sem prévia anuência do Presidente da República."
+  },
+  "944411409": {
+   "fragment_id": "944396178",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Compete ao Governador, além da representação genérica referida no artigo 3.º:\n\na) Representar o território nas relações internas, podendo a lei, para actos determinados, designar outra entidade;\n\nb) Promulgar as leis, assinar os decretos-leis e mandar publicá-los;\n\nc) Definir a política de segurança interna do território, assegurar a sua execução e estabelecer a organização, o funcionamento e a disciplina das entidades responsáveis pela mesma;\n\nd) Adoptar, ouvido o Conselho Consultivo, em caso de ameaça ou perturbação graves da ordem pública em qualquer parte do território de Macau, as providências necessárias e adequadas ao seu pronto restabelecimento, as quais, quando haja necessidade de restringir ou suspender temporariamente o exercício de direitos, liberdades e garantias constitucionais, devem ser precedidas de consulta à Assembleia Legislativa e comunicadas, logo que possível, ao Presidente da República;\n\ne) Promover a apreciação pelo Tribunal Constitucional da inconstitucionalidade e da ilegalidade de quaisquer normas dimanadas da Assembleia Legislativa;\n\nf) Propor à Assembleia da República alterações ao presente Estatuto ou a sua substituição e pronunciar-se sobre as alterações que a Assembleia da República introduza na sua proposta;\n\ng) Exercer os demais poderes que lhe forem atribuídos por lei.\n\n2 - As leis e os decretos-leis publicados sem, respectivamente, a promulgação ou a assinatura do Governador são juridicamente inexistentes."
+  },
+  "944411410": {
+   "fragment_id": "944396179",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Os assuntos respeitantes à segurança externa do território são da competência do Presidente da República.\n\n2 - A competência prevista no número anterior é delegável."
+  },
+  "944411411": {
+   "fragment_id": "944396180",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - A competência legislativa do Governador é exercida por meio de decretos-leis e abrange todas as matérias que não estejam reservadas aos órgãos de soberania da República ou à Assembleia Legislativa, sem prejuízo do disposto no artigo 31.º\n\n2 - Compete-lhe também legislar quando a Assembleia Legislativa haja concedido autorização legislativa ou tenha sido dissolvida.\n\n3 - Compete em exclusivo ao Governador desenvolver as leis de bases dos órgãos de soberania da República e aprovar os diplomas de estruturação e funcionamento do órgão executivo."
+  },
+  "944411412": {
+   "fragment_id": "944396181",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - As leis de autorização legislativa devem definir o objecto, o sentido, a extensão e a duração da autorização, a qual pode ser prorrogada.\n\n2 - As autorizações legislativas não podem ser utilizadas mais de uma vez, sem prejuízo da sua execução parcelada."
+  },
+  "944411413": {
+   "fragment_id": "944396182",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - Os decretos-leis, salvo os aprovados no exercício da competência prevista no n.º 3 do artigo 13.º, podem ser sujeitos a ratificação da Assembleia Legislativa, a requerimento de seis Deputados, nas cinco sessões posteriores à publicação.\n\n2 - Se a ratificação for recusada, o decreto-lei deixará de vigorar desde o dia em que for publicada no Boletim Oficial a resolução da Assembleia Legislativa, salvo se a discordância se fundar em ofensa das regras constitucionais ou estatutárias ou de normas dimanadas dos órgãos de soberania da República que o território não possa contrariar, caso em que se observará o disposto no n.º 3 do artigo 40.º\n\n3 - A ratificação pode ser concedida com emendas; neste caso, e até à publicação da respectiva lei, o decreto-lei continuará em vigor, a menos que a Assembleia Legislativa, por dois terços do número de Deputados em efectividade de funções, delibere suspender a sua execução."
+  },
+  "944411414": {
+   "fragment_id": "944396183",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Competem ao Governador as funções executivas que por normas constitucionais ou por esta lei não estejam reservadas aos órgãos de soberania da República, nomeadamente as seguintes:\n\na) Conduzir a política geral do território;\n\nb) Superintender no conjunto da administração pública;\n\nc) Regulamentar a execução das leis e demais diplomas vigentes no território que disso careçam;\n\nd) Garantir a liberdade, a plenitude do exercício de funções e a independência das autoridades judiciais;\n\ne) Administrar as finanças do território;\n\nf) Definir as estruturas e disciplinar o funcionamento dos mercados monetário e financeiro;\n\ng) Recusar entrada a nacionais ou estrangeiros por motivos de interesse público ou ordenar a respectiva expulsão, de acordo com as leis, quando da sua presença resultarem graves inconvenientes de ordem interna ou internacional, salvo o direito de recurso para o Presidente da República.\n\n2 - No exercício das funções executivas, o Governador expede portarias, que mandará publicar no Boletim Oficial, e exara despachos a que será dada a publicidade que a natureza do assunto requerer."
+  },
+  "944411415": {
+   "fragment_id": "944396184",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - Os Secretários-Adjuntos, cujo número não será superior a sete, são nomeados e exonerados pelo Presidente da República, mediante proposta do Governador, cabendo a este conferir-lhes posse.\n\n2 - Os Secretários-Adjuntos têm a categoria correspondente à de Secretário de Estado do Governo da República.\n\n3 - Cessando o Governador as suas funções, os Secretários-Adjuntos manter-se-ão no exercício dos seus cargos até serem substituídos.\n\n4 - Aos Secretários-Adjuntos competirá o exercício das funções executivas que neles forem delegadas pelo Governador, por meio de portaria ou em diploma orgânico previsto no n.º 3 do artigo 13.º"
+  },
+  "944411416": {
+   "fragment_id": "944396185",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO Governador e os Secretários-Adjuntos não podem acumular com a respectiva função o exercício de outra função pública ou de qualquer actividade privada."
+  },
+  "944411417": {
+   "fragment_id": "944396186",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - Os actos não constitutivos de direitos praticados pelo Governador e Secretários-Adjuntos podem, a todo o tempo, ser por estes revogados, modificados ou suspensos.\n\n2 - Os actos constitutivos de direitos podem também ser por eles revogados, modificados ou suspensos, mas apenas com fundamento na sua ilegalidade e dentro do prazo fixado na lei para o respectivo recurso contencioso ou até à interposição dele.\n\n3 - O regime prescrito no número anterior é aplicável à ratificação, reforma ou conversão de todos os actos ilegais do Governador e dos Secretários-Adjuntos.\n\n4 - Os actos administrativos do Governador e dos Secretários-Adjuntos podem ser contenciosamente impugnados pelos interessados, com base em incompetência, usurpação ou desvio de poder, vício de forma ou violação de lei, regulamento ou contrato administrativo.\n\n5 - Compete ao Supremo Tribunal Administrativo julgar os recursos interpostos dos actos definitivos e executórios do Governador e dos Secretários-Adjuntos, a interpor no prazo de 45 dias contados a partir da data da publicação do conhecimento oficial do acto ou da notificação do começo da execução ou do termo do prazo dentro do qual o acto recorrido devia ser praticado."
+  },
+  "944411418": {
+   "fragment_id": "944396187",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - O Governador é politicamente responsável perante o Presidente da República.\n\n2 - O Governador e os Secretários-Adjuntos respondem civil e criminalmente pelos seus actos perante os tribunais.\n\n3 - As acções cíveis e criminais em que seja réu o Governador ou os Secretários-Adjuntos, enquanto durarem as suas funções, só poderão instaurar-se na comarca de Lisboa, salvo se para a causa for competente outro tribunal que não o de Macau."
+  },
+  "944411419": {
+   "fragment_id": "944396188",
+   "type": 8,
+   "heading": "Secção III — Da Assembleia Legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da Assembleia Legislativa"
+  },
+  "944411420": {
+   "fragment_id": "944396189",
+   "type": 3,
+   "heading": "Subsecção I — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Composição"
+  },
+  "944411421": {
+   "fragment_id": "944396190",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - A Assembleia Legislativa é composta por 23 Deputados, designados de entre cidadãos com capacidade eleitoral, da seguinte forma:\n\na) Sete nomeados pelo Governador de entre residentes de reconhecido mérito e prestígio na comunidade local;\n\nb) Oito eleitos por sufrágio directo e universal;\n\nc) Oito eleitos por sufrágio indirecto.\n\n2 - A Assembleia elegerá, por maioria, de entre os seus membros, por sufrágio secreto, um Presidente e um Vice-Presidente, podendo o primeiro delegar no segundo a presidência, entendendo-se que essa delegação existe sempre que o Presidente não se encontre presente aos trabalhos da Assembleia."
+  },
+  "944411422": {
+   "fragment_id": "944396191",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - O mandato dos Deputados tem a duração de quatro anos, inicia-se com a primeira reunião da Assembleia Legislativa após eleições e cessa com a primeira reunião após eleições subsequentes, sem prejuízo da suspensão ou da cessação individual do mandato.\n\n2 - As vagas que ocorrerem durante o quadriénio são preenchidas de acordo com a lei e, no caso de haver eleição suplementar, no prazo de 60 dias depois da sua verificação, salvo se o termo do mandato se verificar dentro desse prazo.\n\n3 - No caso previsto no número precedente, os Deputados servirão até ao fim do mesmo quadriénio."
+  },
+  "944411423": {
+   "fragment_id": "944396192",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1 - Compete ao tribunal de competência genérica verificar o apuramento das eleições e proclamar os membros eleitos, cuja relação será publicada no Boletim Oficial.\n\n2 - A decisão do tribunal será publicada até 8 dias antes da abertura da sessão legislativa ou, tratando-se de eleições suplementares, durante os 15 dias seguintes à sua realização."
+  },
+  "944411424": {
+   "fragment_id": "944396193",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - A legislatura da Assembleia Legislativa tem a duração de quatro sessões legislativas.\n\n2 - A sessão legislativa não excederá, em regra, a duração de oito meses, podendo ser dividida em dois ou três períodos.\n\n3 - A sessão legislativa pode ser prorrogada pela Assembleia Legislativa para deliberar sobre os assuntos expressamente indicados na respectiva resolução e constantes dos avisos de convocação."
+  },
+  "944411425": {
+   "fragment_id": "944396194",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1 - Mediante proposta do Governador, fundamentada em razões de interesse público, o Presidente da República pode decretar a dissolução da Assembleia Legislativa, devendo, nesse caso, mandar proceder a novas eleições.\n\n2 - A proposta de dissolução deverá conter exposição pormenorizada das razões que a justifiquem e dela será dado conhecimento à Assembleia Legislativa.\n\n3 - A Assembleia Legislativa, uma vez constituída, inicia nova legislatura, cuja duração será inicialmente acrescida do tempo necessário para se completar o período correspondente à sessão legislativa em curso à data da eleição."
+  },
+  "944411426": {
+   "fragment_id": "944396195",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1 - Os Deputados à Assembleia são invioláveis pelas opiniões e votos que emitirem no exercício do seu mandato.\n\n2 - Nenhum Deputado pode ser detido ou preso sem autorização da Assembleia Legislativa, excepto por crime a que corresponda pena maior ou equivalente na escala penal e, neste caso, quando em flagrante delito.\n\n3 - Movido procedimento criminal contra algum Deputado à Assembleia Legislativa e indiciado este por despacho de pronúncia ou equivalente, o juiz comunicará o facto à Assembleia, que, salvo no caso previsto na última parte do número anterior, decidirá se o Deputado indiciado deve ou não ser suspenso para efeito do seguimento do processo."
+  },
+  "944411427": {
+   "fragment_id": "944396196",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1 - Os Deputados à Assembleia Legislativa:\n\na) Não poderão ser jurados, peritos ou testemunhas sem autorização da Assembleia, que será ou não concedida após audiência do Deputado;\n\nb) Ficarão adiados do cumprimento do serviço militar ou equivalente ou de mobilização civil durante o funcionamento efectivo da Assembleia;\n\nc) Terão o direito de requerer os elementos, informações e publicações oficiais que considerarem indispensáveis ao exercício do mandato.\n\n2 - Os Deputados terão ainda direito a cartão de identificação, passaporte especial e a remuneração, que a própria Assembleia virá a fixar por diploma legal."
+  },
+  "944411428": {
+   "fragment_id": "944396197",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs Deputados à Assembleia Legislativa poderão renunciar ao seu mandato, devendo a renúncia ser declarada por escrito."
+  },
+  "944411429": {
+   "fragment_id": "944396198",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1 - Perdem o mandato os Deputados que:\n\na) Venham a ser feridos por alguma das incapacidades ou incompatibilidades previstas na lei;\n\nb) Deixem de comparecer a 5 sessões consecutivas ou 15 interpoladas sem motivo justificado.\n\n2 - Compete à Mesa da Assembleia Legislativa declarar a perda do mandato em que incorrer qualquer dos Deputados."
+  },
+  "944411430": {
+   "fragment_id": "944396199",
+   "type": 3,
+   "heading": "Subsecção II — Da competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Da competência"
+  },
+  "944411431": {
+   "fragment_id": "944396200",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1 - Compete à Assembleia Legislativa:\n\na) Vigiar pelo cumprimento no território das regras constitucionais e estatutárias e das leis, promovendo a apreciação pelo Tribunal Constitucional da inconstitucionalidade e ilegalidade de quaisquer normas dimanadas do Governador;\n\nb) Propor à Assembleia da República alterações ao presente Estatuto ou a sua substituição, ser ouvida sobre proposta com as mesmas finalidades da iniciativa do Governador e pronunciar-se sobre as alterações que a Assembleia da República introduza na sua proposta;\n\nc) Fazer leis sobre todas as matérias que não estejam reservadas aos órgãos de soberania da República ou ao Governador, sem prejuízo do disposto no artigo 31.º;\n\nd) Conferir ao Governador autorizações legislativas;\n\ne) Apreciar, para efeitos de recusa de ratificação ou de alteração, nos termos do artigo 15.º, os decretos-leis do Governador, salvo os promulgados no exercício da sua competência exclusiva;\n\nf) Definir as linhas gerais da política social, económica, financeira e administrativa do território;\n\ng) Autorizar a Administração, até 15 de Dezembro de cada ano, a cobrar as receitas e a efectuar as despesas públicas propostas pelo Governador para o ano seguinte, definindo no diploma de autorização os princípios e critérios a que devem subordinar-se a elaboração e a execução do Orçamento;\n\nh) Autorizar o Governador a contrair e conceder empréstimos e a efectuar outras operações de crédito, nos termos da lei, bem como a prestar avales, nas condições previstas no artigo 63.º;\n\ni) Emitir pareceres, nos casos previstos nos artigos 3.º, n.º 3, e 11.º, n.º 1, alínea d);\n\nj) Verificar e reconhecer os poderes dos seus membros, eleger a sua Mesa, elaborar o seu regimento interno e regular a sua polícia;\n\nl) Pronunciar-se, em parecer, sobre a aplicação ao território de leis dos órgãos de soberania da República que concedam amnistias e perdões genéricos;\n\nm) Pronunciar-se, em geral, sobre todos os assuntos de interesse para o território, por iniciativa própria ou a solicitação da Assembleia da República, do Governo da República ou do Governador.\n\n2 - Compete ainda à Assembleia Legislativa:\n\na) Apreciar os actos do Governador, dos Secretários-Adjuntos e da Administração;\n\nb) Tomar as contas do território respeitantes a cada ano económico, as quais lhe serão apresentadas até 31 de Dezembro do ano subsequente, com o relatório da entidade competente para as apreciar, se estiver elaborado, e os demais elementos necessários;\n\nc) Votar moções de censura à acção governativa, as quais deverão conter exposição pormenorizada das razões que as justifiquem, dando delas imediato conhecimento ao Presidente da República e ao Governador;\n\nd) Exercer os demais poderes que lhe forem atribuídos por lei."
+  },
+  "944411432": {
+   "fragment_id": "944396201",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1 - É da exclusiva competência da Assembleia Legislativa legislar sobre as seguintes matérias:\n\na) Regime eleitoral para a Assembleia Legislativa, designadamente sobre os requisitos de elegibilidade, o recenseamento e a capacidade eleitoral, a definição dos interesses sociais representados pelo sufrágio indirecto, o processo de eleição e a data em que devem realizar-se as eleições;\n\nb) Estatuto dos Deputados.\n\n2 - É da exclusiva competência da Assembleia Legislativa legislar sobre as seguintes matérias, salvo autorização ao Governador:\n\na) Regime da prisão preventiva, das buscas domiciliárias, do sigilo das comunicações privadas, das penas relativamente indeterminadas e das medidas de segurança e respectivos pressupostos;\n\nb) Regime geral das concessões da competência do Governador;\n\nc) Elementos essenciais do regime tributário, estabelecendo a incidência e a taxa de cada imposto e fixando os termos em que podem ser concedidas isenções fiscais;\n\nd) Divisão administrativa do território;\n\ne) Bases gerais do regime jurídico da administração local, incluindo as finanças locais;\n\nf) Regime jurídico das relações entre órgãos da administração central do território e os da administração local e condições em que os órgãos desta última poderão ser dissolvidos pelo Governador;\n\ng) Bases do regime da administração pública do território;\n\nh) Criação de novas categorias ou designações funcionais, alteração das tabelas que definem aquelas categorias e fixação dos vencimentos, salários e outras formas de remuneração do pessoal dos quadros.\n\n3 - É da competência concorrencial da Assembleia Legislativa e do Governador legislar sobre as seguintes matérias:\n\na) Estado e capacidade das pessoas;\n\nb) Direitos, liberdades e garantias em tudo o que não contrarie o disposto na alínea a) do número anterior;\n\nc) Definição de crimes, penas e respectivos pressupostos, bem como processo penal em tudo o que não contrarie o disposto na alínea a) do número anterior;\n\nd) Regime geral de punição das infracções disciplinares, bem como das contravenções e dos actos ilícitos de mera ordenação social e do respectivo processo;\n\ne) Regime geral da requisição e da expropriação por utilidade pública;\n\nf) Regime geral do arrendamento;\n\ng) Sistema monetário e padrão de pesos e medidas;\n\nh) Associações públicas, garantias dos administrados e responsabilidade civil da Administração;\n\ni) Bases gerais do estatuto das empresas públicas;\n\nj) Bases do sistema judiciário de Macau;\n\nl) Sistema de protecção da natureza, do equilíbrio ecológico e do património cultural;\n\nm) Sistema de segurança social e saúde."
+  },
+  "944411433": {
+   "fragment_id": "944396202",
+   "type": 3,
+   "heading": "Subsecção III — Do funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Do funcionamento"
+  },
+  "944411434": {
+   "fragment_id": "944396203",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nA Assembleia Legislativa reunirá, por direito próprio, na capital do território no 5.º dia útil após a publicação dos instrumentos que fixem a respectiva composição."
+  },
+  "944411435": {
+   "fragment_id": "944396204",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1 - A Assembleia reúne-se ordinariamente a convocação do Presidente ou a pedido dos Deputados, em número não inferior a seis.\n\n2 - A Assembleia pode ser convocada extraordinariamente pelo Presidente ou pela maioria dos seus membros para deliberar sobre assuntos expressamente indicados no aviso de convocação."
+  },
+  "944411436": {
+   "fragment_id": "944396205",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nA Assembleia Legislativa só pode funcionar estando presente mais de metade dos seus membros."
+  },
+  "944411437": {
+   "fragment_id": "944396206",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1 - As sessões plenárias da Assembleia são públicas, excepto quando, para salvaguarda do interesse público, o Presidente, por iniciativa própria ou proposta fundamentada de qualquer membro, determine o contrário.\n\n2 - A Assembleia pode organizar-se em comissões permanentes ou constituir-se em comissões eventuais para fins determinados."
+  },
+  "944411438": {
+   "fragment_id": "944396207",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1 - As deliberações da Assembleia Legislativa são tomadas por maioria simples dos votos, sem prejuízo do disposto nos números seguintes.\n\n2 - São tomadas por maioria de dois terços dos Deputados em efectividade de funções:\n\na) A confirmação dos diplomas não promulgados pelo Governador;\n\nb) As deliberações previstas no n.º 3 do artigo 15.º, no n.º 3 do artigo 26.º e na alínea c) do n.º 2 do artigo 30.º e as referentes à aprovação de leis que versem sobre as matérias da alínea h) do n.º 1 do artigo 30.º, das alíneas a) e b) do n.º 1, das alíneas a), g) e h) do n.º 2 e das alíneas a), b), c) e j) do n.º 3 do artigo 31.º\n\n3 - Em caso de empate, o Presidente terá voto de qualidade."
+  },
+  "944411439": {
+   "fragment_id": "944396208",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1 - O Governador poderá, sempre que o entender, mas sem direito de voto, assistir aos trabalhos da Assembleia.\n\n2 - O Presidente, por iniciativa própria ou a pedido de qualquer Deputado, poderá solicitar que assistam às sessões da Assembleia ou às reuniões das comissões referidas no n.º 2 do artigo 35.º, sem direito a voto, elementos estranhos à Assembleia especialmente competentes ou versados nas matérias sujeitas a apreciação."
+  },
+  "944411440": {
+   "fragment_id": "944396209",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1 - Os Deputados da Assembleia podem:\n\na) Formular, por escrito, perguntas, para esclarecimento da opinião pública, sobre quaisquer actos do Governador ou da administração do território;\n\nb) Independentemente do funcionamento efectivo da Assembleia Legislativa, ouvir, consultar ou solicitar informações de qualquer corporação ou estação oficial acerca de assuntos da administração pública.\n\n2 - A resposta aos pedidos de esclarecimento ou de informação formulados nos termos do número anterior só pode ser recusada com fundamento em segredo de Estado, não podendo, porém, as estações oficiais responder sem prévia autorização do Governador."
+  },
+  "944411441": {
+   "fragment_id": "944396210",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nA iniciativa dos diplomas pertence indistintamente ao Governador e, na forma que for regulamentada no regimento da Assembleia, aos Deputados."
+  },
+  "944411442": {
+   "fragment_id": "944396211",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1 - As propostas e projectos aprovados pela Assembleia Legislativa denominam-se leis, que serão enviadas ao Governador para que este, no prazo de 15 dias a contar da data da recepção, as promulgue e mande publicar.\n\n2 - No caso de discordância, o diploma será novamente submetido à apreciação da Assembleia e, se esta o confirmar pela maioria qualificada referida no n.º 2 do artigo 36.º, o Governador não poderá recusar a sua promulgação.\n\n3 - Se, porém, a discordância se fundar em ofensa de regra constitucional ou estatutária ou de norma dimanada de órgão de soberania da República que os órgãos de governo próprio do território não possam contrariar e o diploma respectivo for confirmado, será este enviado ao Tribunal Constitucional para conhecer da sua inconstitucionalidade e ilegalidade, devendo a Assembleia Legislativa e o Governador acatar a correspondente decisão."
+  },
+  "944411443": {
+   "fragment_id": "944396212",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1 - Nos feitos submetidos a julgamento não podem os tribunais aplicar normas que infrinjam as regras constitucionais ou estatutárias ou os princípios neles consignados.\n\n2 - Em caso de divergência entre normas constantes de diplomas dos órgãos de soberania da República aplicáveis ao território nos termos do artigo 69.º e normas de diplomas dos órgãos de governo próprio do território de Macau, prevalecem aquelas quando incidam sobre matérias incluídas na alínea a) do n.º 2 e nas alíneas a) a i) do n.º 3 do artigo 31.º, salvo se, tida em conta a situação especial do território, não houver colisão com o conteúdo essencial daquelas normas.\n\n3 - Caso a divergência incida sobre matérias da competência específica dos órgãos de governo próprio do território de Macau, prevalecem as normas destes órgãos."
+  },
+  "944411444": {
+   "fragment_id": "944396213",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nDo regimento da Assembleia Legislativa constará:\n\na) A composição e atribuições da Mesa;\n\nb) A organização das comissões que forem consideradas necessárias;\n\nc) A forma das votações;\n\nd) A antecedência com que devem ser anunciados os assuntos a tratar antes da ordem do dia;\n\ne) As condições de apresentação das propostas e projectos de leis territoriais e prazos a observar para a sua apreciação;\n\nf) Os trâmites a seguir para redacção final das leis aprovadas pela Assembleia;\n\ng) Os prazos para elaboração de propostas ou pareceres;\n\nh) A regulamentação dos poderes, direitos, imunidades e regalias dos membros da Assembleia;\n\ni) As demais regras prescritas neste Estatuto e ainda as que forem consideradas necessárias ao funcionamento da Assembleia."
+  },
+  "944411445": {
+   "fragment_id": "944396214",
+   "type": 8,
+   "heading": "Secção IV — Do Conselho Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Do Conselho Consultivo"
+  },
+  "944411446": {
+   "fragment_id": "944396215",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nO Conselho Consultivo é presidido pelo Governador ou por quem o estiver a substituir, que pode delegar a presidência num dos vogais."
+  },
+  "944411447": {
+   "fragment_id": "944396216",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1 - Constituem o Conselho cinco vogais eleitos e cinco nomeados, durando o seu mandato quatro anos.\n\n2 - Os vogais eleitos sê-lo-ão pelo modo a seguir indicado:\n\na) Dois pelos municípios, escolhidos de entre os membros das respectivas assembleias municipais;\n\nb) Três pelos representantes dos interesses sociais do território.\n\n3 - Os vogais nomeados sê-lo-ão pelo Governador de entre cidadãos residentes de reconhecido mérito e prestígio na comunidade local."
+  },
+  "944411448": {
+   "fragment_id": "944396217",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1 - A eleição dos vogais referidos no n.º 2 do artigo anterior incluirá a dos respectivos suplentes, que os substituirão nas suas faltas ou impedimentos.\n\n2 - A substituição dos vogais nomeados será da competência do Governador."
+  },
+  "944411449": {
+   "fragment_id": "944396218",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nOs vogais gozarão das mesmas regalias e direitos concedidos aos Deputados."
+  },
+  "944411450": {
+   "fragment_id": "944396219",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nO regime eleitoral dos vogais referidos no n.º 2 do artigo 44.º, designadamente os requisitos de elegibilidade, o recenseamento e a capacidade eleitoral, a definição dos interesses sociais representados, o processo de eleição e a data em que devem realizar-se eleições, será regulado por lei."
+  },
+  "944411451": {
+   "fragment_id": "944396220",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n1 - Compete ao Conselho Consultivo emitir parecer sobre todos os assuntos da competência do Governador ou, em geral, respeitantes à administração do território que lhe forem submetidos por aquele.\n\n2 - O Conselho será obrigatoriamente ouvido sobre os seguintes assuntos:\n\na) Propostas de lei que o Governador apresente à Assembleia Legislativa;\n\nb) Projectos de decretos a publicar pelo Governador;\n\nc) Regulamentação da execução dos diplomas legais vigentes no território;\n\nd) Definição das linhas gerais da política social, económica, financeira e administrativa do território;\n\ne) Recusa de entrada a nacionais ou estrangeiros por motivos de interesse público ou ordem de respectiva expulsão, de acordo com as leis, quando da sua presença resultarem graves inconvenientes de ordem interna ou internacional, salvo o direito de recurso para o Presidente da República;\n\nf) Outros que lhe forem atribuídos por lei.\n\n3 - Compete ao Conselho elaborar o seu regimento."
+  },
+  "944411452": {
+   "fragment_id": "944396221",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1 - O Conselho reunirá sempre que for convocado pelo Governador, mas só funciona quando esteja presente a maioria dos vogais em exercício.\n\n2 - O Conselho delibera por maioria dos vogais presentes, tendo o Governador apenas voto de desempate.\n\n3 - Os pareceres sobre projectos e propostas de decretos-leis ou de leis serão dados no prazo fixado no respectivo regimento ou no prazo que o Governador fixar, se a matéria for reputada urgente.\n\n4 - Os pareceres não são vinculativos."
+  },
+  "944411453": {
+   "fragment_id": "944396222",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1 - As sessões não são públicas, podendo nelas intervir, sem direito a voto, os Secretários-Adjuntos e os funcionários que o Governador designar para cada caso.\n\n2 - O Governador poderá convidar para assistir às sessões, sem direito a voto, pessoas que, pela sua especial competência, possam prestar esclarecimentos úteis sobre os assuntos em discussão."
+  },
+  "944411454": {
+   "fragment_id": "944396223",
+   "type": 1,
+   "heading": "Capítulo III — Da administração da justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da administração da justiça"
+  },
+  "944411455": {
+   "fragment_id": "944396224",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n1 - O território de Macau dispõe de organização judiciária própria, dotada de autonomia e adaptada às suas especificidades.\n\n2 - Os lugares do quadro local de magistrados podem ser preenchidos por magistrados dos quadros da República, em regime de comissão de serviço."
+  },
+  "944411456": {
+   "fragment_id": "944396225",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nNa administração da justiça incumbe aos tribunais de Macau assegurar a defesa dos direitos e interesses legalmente protegidos, reprimir a violação da legalidade e dirimir os conflitos de interesses públicos e privados."
+  },
+  "944411457": {
+   "fragment_id": "944396226",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1 - Os tribunais de Macau são independentes e apenas estão sujeitos à lei.\n\n2 - A independência dos tribunais de Macau é garantida pela inamovibilidade dos juízes e pela sua não sujeição a quaisquer ordens ou instruções, salvo o dever de acatamento das decisões proferidas em via de recurso pelos tribunais superiores.\n\n3 - Quando os juízes forem nomeados por tempo determinado, a inamovibilidade é garantida por esse tempo.\n\n4 - Os juízes não podem ser responsabilizados pelas suas decisões, salvas as excepções consignadas na lei.\n\n5 - O Ministério Público goza de estatuto próprio e de autonomia, nos termos da lei."
+  },
+  "944411458": {
+   "fragment_id": "944396227",
+   "type": 1,
+   "heading": "Capítulo IV — Da administração financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da administração financeira"
+  },
+  "944411459": {
+   "fragment_id": "944396228",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nO território de Macau tem activo e passivo próprios e responde pelas dívidas e obrigações resultantes dos seus actos e contratos, nos termos da lei, competindo ao Governador a disposição dos seus bens e receitas."
+  },
+  "944411460": {
+   "fragment_id": "944396229",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nConstituem património do território de Macau os terrenos vagos ou que não hajam entrado definitivamente no regime da propriedade privada ou de domínio público e outras coisas móveis e imóveis que não pertençam a outrem, dentro dos limites do seu território, e ainda as que adquirir ou lhe pertençam legalmente fora do mesmo território, nomeadamente as participações em lucros e outras espécies de rendimentos que lhe sejam destinados."
+  },
+  "944411461": {
+   "fragment_id": "944396230",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1 - A administração financeira do território está subordinada a orçamento privativo, elaborado segundo plano legalmente estabelecido.\n\n2 - O orçamento é unitário, compreendendo a totalidade das receitas e despesas, com inclusão das dos fundos e serviços autónomos, de que serão publicados à parte desenvolvimentos especiais, conforme o estabelecido por lei.\n\n3 - O orçamento deve prever as receitas necessárias para cobrir as despesas."
+  },
+  "944411462": {
+   "fragment_id": "944396231",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n1 - O orçamento será anualmente organizado e mandado executar pelo Governador, nos termos da lei.\n\n2 - Quando, por quaisquer circunstâncias, o orçamento não possa entrar em execução no início do ano económico, a cobrança das receitas estabelecidas por tempo indeterminado ou por período que abranja a nova gerência prosseguirá nos termos das leis preexistentes e, quanto às despesas ordinárias, continuarão provisoriamente em vigor, por duodécimos, o orçamento do ano anterior e os créditos sancionados durante ele para ocorrer a novos encargos permanentes."
+  },
+  "944411463": {
+   "fragment_id": "944396232",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nConstituem receitas próprias de Macau as que constarem das leis vigentes ou de diplomas que vierem a ser publicados pelos respectivos órgãos legislativos."
+  },
+  "944411464": {
+   "fragment_id": "944396233",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nSó podem ser cobradas as receitas que tiverem sido autorizadas na forma legal e estiverem inscritas nas tabelas orçamentais, salvo se tiverem sido criadas ou autorizadas posteriormente."
+  },
+  "944411465": {
+   "fragment_id": "944396234",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\n1 - Constituem encargos da República em relação ao território de Macau:\n\na) As despesas com estabelecimentos, serviços e explorações no território de Macau integradas em organizações hierárquicas da República e com concessões no território por esta garantidas;\n\nb) Os subsídios, totais ou parciais, a empresas de navegação marítima ou aérea e outras que explorem meios de comunicação entre outros territórios da República e o território de Macau;\n\nc) O complemento das despesas com as forças de segurança do território;\n\nd) A dotação do Padroado do Oriente e os subsídios às corporações missionárias católicas reconhecidas e aos estabelecimentos de formação e repouso do seu pessoal.\n\n2 - Constituem, designadamente, encargos do território de Macau:\n\na) Os juros, anuidades de empréstimos e encargos que tiver assumido por contrato ou resultarem da lei;\n\nb) As dotações dos seus serviços, incluindo as despesas de transporte de pessoal, material e outras inerentes ao seu funcionamento;\n\nc) As despesas com o fomento do respectivo território, incluindo os encargos legais ou contratuais de concessões ou obras realizadas para o mesmo fim;\n\nd) As pensões do pessoal das classes inactivas, na proporção do tempo durante o qual houver servido no território de Macau;\n\ne) As despesas com o fabrico da sua moeda e de valores selados;\n\nf) Os subsídios concedidos pelo território de Macau a empresas ou outros organismos que mantenham regularmente serviços de interesse público para este território.\n\n3 - Não podem realizar-se despesas que não tenham sido inscritas no orçamento nem contrair-se encargos ou efectuar-se despesas que excedam as dotações orçamentais.\n\n4 - As verbas autorizadas para certas despesas não podem ter aplicação diversa da que estiver indicada no orçamento ou no diploma que abrir o crédito."
+  },
+  "944411466": {
+   "fragment_id": "944396235",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\n1 - O território de Macau só poderá contrair empréstimos para aplicações extraordinárias em fomento económico, amortização de outros empréstimos, aumento indispensável do seu património ou necessidades imperiosas de segurança e salvação públicas.\n\n2 - Sem prejuízo do disposto no número anterior, o território de Macau pode contrair empréstimos internos e os externos que não exijam caução ou garantias especiais, bem como realizar outras operações de crédito.\n\n3 - O território de Macau pode ainda obter, por meio de dívida flutuante, os suprimentos necessários, em substituição de receitas da gerência corrente, no fim da qual deve estar feita a liquidação ou o Tesouro habilitado a fazê-lo pelas suas caixas.\n\n4 - O banco emissor de Macau funcionará como banqueiro do território.\n\n5 - O território de Macau não pode diminuir, em detrimento dos portadores dos títulos, o capital e o juro da sua dívida pública fundada, podendo, porém, convertê-la, nos termos de direito."
+  },
+  "944411467": {
+   "fragment_id": "944396236",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\n1 - Não podem ser objecto de consolidação forçada os débitos por depósitos efectuados nas caixas do território de Macau ou nos estabelecimentos de crédito que lhe pertençam.\n\n2 - São imprescritíveis:\n\na) Os direitos do tesouro público e das instituições de crédito que o Governador designar como dívidas pretéritas ou futuras do território de Macau;\n\nb) Os direitos que o território de Macau possa ter por créditos sobre as instituições de crédito referidas na alínea anterior."
+  },
+  "944411468": {
+   "fragment_id": "944396237",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\n1 - O território de Macau poderá prestar avales a operações de crédito interno ou externo, a realizar por institutos públicos ou empresas privadas com sede no seu território, quando se trate de financiamentos destinados a empreendimentos ou projectos de manifesto interesse para a sua economia ou em que tenha participação que justifique a prestação daquela garantia.\n\n2 - As normas relativas ao processo de concessão de avales, sua execução e garantias serão estabelecidas pelos respectivos órgãos legislativos."
+  },
+  "944411469": {
+   "fragment_id": "944396238",
+   "type": 1,
+   "heading": "Capítulo V — Da administração do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da administração do território"
+  },
+  "944411470": {
+   "fragment_id": "944396239",
+   "type": 8,
+   "heading": "Secção I — Dos serviços públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dos serviços públicos"
+  },
+  "944411471": {
+   "fragment_id": "944396240",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\nOs serviços públicos de Macau são organismos privativos deste território, podendo constituir entidades autónomas, dotadas ou não de personalidade jurídica."
+  },
+  "944411472": {
+   "fragment_id": "944396241",
+   "type": 8,
+   "heading": "Secção II — Dos agentes da função pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos agentes da função pública"
+  },
+  "944411473": {
+   "fragment_id": "944396242",
+   "type": 11,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\nO pessoal dos serviços públicos, seja qual for a sua categoria, integra-se nos quadros próprios do território de Macau, ficando apenas sujeito à autoridade e fiscalização dos seus órgãos."
+  },
+  "944411474": {
+   "fragment_id": "944396243",
+   "type": 11,
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º\n\n1 - O pessoal dos quadros dependentes dos órgãos de soberania ou das autarquias da República poderá, a seu requerimento ou com sua anuência e com autorização do respectivo Ministro ou do órgão competente e concordância do Governador, prestar serviço por tempo determinado ao território de Macau, contando-se, para todos os efeitos legais, como efectivo serviço no seu quadro e categoria o tempo de serviço prestado nessa situação.\n\n2 - O pessoal referido no número anterior poderá, a seu requerimento e obtida autorização do respectivo Ministro ou do órgão competente, transitar para os quadros do território, competindo ao Governador a sua nomeação para os novos quadros."
+  },
+  "944396275": {
+   "fragment_id": "944396244",
+   "type": 11,
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\n1 - O pessoal dos quadros do território de Macau pode, a seu requerimento, com a concordância do Governador e autorização do Governo da República ou do órgão competente, prestar serviço por tempo determinado nos quadros dependentes dos órgãos de soberania ou das autarquias da República, nos termos dos acordos celebrados em cada caso, devendo o tempo de serviço prestado nessa situação contar-se, para todos os efeitos legais, como efectivo serviço na categoria que possui e no quadro a que pertence.\n\n2 - O mesmo pessoal poderá, a seu requerimento e obtida a concordância do Governador, transitar para os quadros dependentes dos órgãos de soberania ou das autarquias da República, mediante nomeação para os novos quadros pela respectiva entidade competente."
+  },
+  "944396276": {
+   "fragment_id": "944396245",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições complementares e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições complementares e transitórias"
+  },
+  "944396277": {
+   "fragment_id": "944396246",
+   "type": 11,
+   "heading": "Artigo 68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º\n\nAs empresas concessionárias e aquelas em cujo capital o território de Macau participe em mais de 50% terão a sua sede e administração central no referido território."
+  },
+  "944396278": {
+   "fragment_id": "944396247",
+   "type": 11,
+   "heading": "Artigo 69.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º\n\n1 - Os diplomas legais emanados dos órgãos de soberania da República que devam ter aplicação no território de Macau conterão a menção de que devem ser publicados no Boletim Oficial e serão aí obrigatoriamente publicados, mantendo a data da publicação no Diário da República.\n\n2 - Só entrarão, porém, em vigor no território de Macau depois de transcritos no respectivo Boletim Oficial, salvo se deverem aplicar-se imediatamente por declaração inserta nos próprios diplomas; a transcrição será, em qualquer caso, obrigatoriamente feita num dos dois primeiros números do Boletim Oficial que forem publicados depois da chegada do Diário da República.\n\n3 - Nos casos em que se declare nos diplomas a sua aplicação imediata e nos demais casos de urgência, o seu texto será transmitido telegraficamente ou por meio de telecópia, reproduzindo-se logo o telegrama ou telecópia no Boletim Oficial ou em suplemento a este. Em tal caso, o diploma entrará em vigor na data da publicação dos referidos documentos.\n\n4 - Os diplomas legais emanados dos órgãos de soberania da República que concedam amnistias e perdões genéricos só serão, porém, aplicados no território de Macau mediante parecer favorável da Assembleia Legislativa."
+  },
+  "944396279": {
+   "fragment_id": "944396248",
+   "type": 11,
+   "heading": "Artigo 70.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º\n\nOs acordos e convenções internacionais e os diplomas legais entrarão em vigor no território de Macau, salvo declaração especial, no prazo de cinco dias contados a partir da publicação no Boletim Oficial."
+  },
+  "944396280": {
+   "fragment_id": "944396249",
+   "type": 11,
+   "heading": "Artigo 71.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º\n\n1 - As alterações ao Estatuto Orgânico de Macau serão inseridas no lugar próprio, mediante as substituições, as supressões e os aditamentos necessários.\n\n2 - O Estatuto Orgânico de Macau, no seu novo texto, e a lei que proceder à sua alteração serão publicados conjuntamente."
+  },
+  "944396281": {
+   "fragment_id": "944396250",
+   "type": 11,
+   "heading": "Artigo 72.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º\n\nCompete ao Presidente da República, ouvidos o Conselho de Estado e o Governo da República, determinar o momento a partir do qual os tribunais de Macau serão investidos na plenitude e exclusividade de jurisdição."
+  },
+  "944411393": {
+   "fragment_id": "944409962",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de Julho de 1996.\n\nPara ser publicada no Boletim Oficial de Macau.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 26 de Julho de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 26 de Julho de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "944396284": {
+   "fragment_id": "944396186",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1996-10-25",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-L/96 - Diário da República n.º 248/1996, 1º Suplemento, Série I-A de 1996-10-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-l-1996-434611), em vigor a partir de 1996-10-25"
+   ],
+   "markdown": "###### Artigo 19.º\n\n1 - Os actos não constitutivos de direitos praticados pelo Governador e Secretários-Adjuntos podem, a todo o tempo, ser por estes revogados, modificados ou suspensos.\n\n2 - Os actos constitutivos de direitos podem também ser por eles revogados, modificados ou suspensos, mas apenas com fundamento na sua ilegalidade e dentro do prazo fixado na lei para o respectivo recurso contencioso ou até à interposição dele.\n\n3 - O regime prescrito no número anterior é aplicável à ratificação, reforma ou conversão de todos os actos ilegais do Governador e dos Secretários-Adjuntos.\n\n4 - Os actos administrativos do Governador e dos Secretários-Adjuntos podem ser contenciosamente impugnados pelos interessados, com base em incompetência, usurpação ou desvio de poder, vício de forma ou violação de lei, regulamento ou contrato administrativo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-L/96 - Diário da República n.º 248/1996, 1º Suplemento, Série I-A de 1996-10-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-l-1996-434611), em vigor a partir de 1996-10-25"
+  }
+ }
+}

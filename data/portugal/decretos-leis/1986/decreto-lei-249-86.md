@@ -1,0 +1,631 @@
+---
+schema_version: '1.0'
+id: pt:dre:219117:por
+title: Decreto-Lei n.º 249/86
+short_title: null
+summary: Cria os centros tecnológicos e aprova a sua estrutura orgânica. Revoga o Decreto-Lei n.º 461/83, de 30 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Comércio
+proposing_entity: null
+official_number: 249/86
+official_date: null
+publication_date: '1986-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/1986, Série I de 1986-08-25
+  number: '194'
+  series: I
+  supplement: null
+  pages: 2156 - 2162
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19400/21562162.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-01'
+version_history:
+  file: decreto-lei-249-86.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1986-08-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-11-29'
+    amending: pt:dre:692423:por
+    amending_title: Decreto-Lei n.º 312/95
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 29.º
+    - Revoga Artigo 7.º
+  - date: '2021-07-01'
+    amending: pt:dre:165036155:por
+    amending_title: Lei n.º 36/2021
+    changes:
+    - Altera Artigo 1.º
+  - date: '2022-01-01'
+    amending: pt:dre:176907547:por
+    amending_title: Decreto-Lei n.º 126-B/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/249/1986/p/cons/20210614/pt/html
+  oj: null
+  dre: '219117'
+  dre_path: /dr/detalhe/decreto-lei/249-1986-219117
+  internal: pt:dre:219117:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1986-219117
+  metadata_url: https://data.dre.pt/eli/dec-lei/249/1986/p/cons/20210614/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-135844840
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-135844840
+  retrieved_at: '2026-10-22T12:32:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c759f280fdc775637f096e2158342a3ace9b91244871611a95526e93e9b453af
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:32:49Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-249-86.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Industrial
+- Centro Tecnológico
+- Conselho de Administração
+- Definição de Competências
+- Gestão Financeira
+- Orgânica
+- Regime Jurídico
+- Regime de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:692423:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 9.º;
+    Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º;
+    Altera Artigo 26.º; Altera Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423
+  date: '1995-11-24'
+- type: amended_by
+  target: pt:dre:165036155:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155
+  date: '2021-06-14'
+- type: amended_by
+  target: pt:dre:176907547:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547
+  date: '2021-12-31'
+article_structure:
+  article_count: 32
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:32:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 249/86
+
+Decreto-Lei n.º 249/86
+
+de 25 de Agosto
+
+Criados pelo Decreto-Lei n.º 461/83, de 30 de Dezembro, os centros tecnológicos devem constituir estruturas organizativas e funcionais adequadas às necessidades sectoriais de apoio técnico e tecnológico e de desenvolvimento com que o progresso da indústria portuguesa se confronta.
+
+A importância de uma correcta inserção destes centros no sistema nacional de investigação científica e desenvolvimento tecnológico é particularmente reforçada pelos desafios decisivos que a adesão do País às Comunidades Europeias lançou à indústria portuguesa, o que justifica a introdução de alterações na filosofia de concepção e de gestão dos centros tecnológicos.
+
+Neste contexto, considera-se fundamental, na prossecução dos objectivos dos centros, dar prioridade a uma efectiva prestação de serviços às empresas dos sectores industriais respectivos, em áreas essenciais de processos e produtos.
+
+A conveniente dinamização das actuações visadas impõe claramente:
+
+Por um lado, a indispensabilidade do envolvimento empenhado da comunidade empresarial a que os centros tecnológicos se dirigem;
+
+Por outro lado, a inequívoca delimitação das responsabilidades da intervenção do Estado na criação e exploração destas infra-estruturas;
+
+o que terá de passar pela implementação de uma organização contabilística e de instrumentos de gestão ajustados e exigentes.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Natureza e âmbito dos centros tecnológicos)
+
+1 - Os centros tecnológicos, adiante designados «centros», são organismos de apoio técnico e tecnológico a empresas de um mesmo sector industrial ou de sectores afins ou complementares.
+
+2 - Os centros visam a promoção técnica e tecnológica no quadro da política industrial prosseguida pelo sector respectivo, a consolidação da infra-estrutura industrial no contexto da região em que se localizam e ainda a participação das associações empresariais na orientação das actividades de desenvolvimento e demonstração relativas ao sector.
+
+3 - Os centros são constituídos pela associação de empresas industriais e ou respectivas associações com serviços públicos dotados de personalidade jurídica e com atribuições neste domínio.
+
+4 - Nos termos do presente diploma, os centros são pessoas coletivas privadas sem fins lucrativos, com autonomia técnica e financeira e património próprio.»
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 2.º — (Finalidade e objectivos dos centros)
+
+1 - É finalidade essencial dos centros contribuir para o aumento da competitividade das empresas industriais, disponibilizando para o efeito adequadas estruturas de apoio técnico e tecnológico.
+
+2 - São objectivos dos centros:
+
+a) Promover a valorização industrial do conhecimento tendente à introdução de novos produtos e processos industriais através de actividades de assistência técnica e tecnológica;
+
+b) Promover a melhoria dos produtos e processos tendo em conta a sua qualidade, design, conformidade com normas, compatibilidade com o meio ambiente e eficiência energética;
+
+c) Promover a difusão de técnicas e tecnologias, proceder à sua demonstração e generalizar a utilização de práticas adequadas;
+
+d) Promover a formação especializada do pessoal das empresas e dos seus futuros quadros no domínio da tecnologia e da gestão empresarial.
+
+3 - Na prossecução dos objectivos referidos no número anterior, cabe aos centros desenvolver as seguintes acções:
+
+a) Prestar apoio directo às empresas industriais, com especial incidência nas PME, particularmente no que se refere à resolução de problemas de natureza técnica e tecnológica;
+
+b) Realizar estudos de diagnóstico ambiental em empresas e prestar serviços de apoio, com vista à integração do vector ambiental na gestão das empresas;
+
+c) Participar na realização de diagnósticos sectoriais da indústria e colaborar na identificação das acções prioritárias para desenvolver o sector, bem como os sectores afins ou complementares;
+
+d) Prestar serviços às empresas para a melhoria da qualidade e do design dos seus produtos;
+
+e) Ensaiar métodos e processos de fabrico no âmbito das tecnologias de produção do sector e promover a sua transferência para as empresas industriais directa e indirectamente associadas;
+
+f) Proceder a ensaios e análises laboratoriais de caracterização de matérias-primas, de produtos e de equipamentos;
+
+g) Estudar a utilização de matérias-primas nacionais com vista à valorização dos recursos endógenos;
+
+h) Colaborar com organismos de investigação, universidades, institutos politécnicos e empresas em produtos de IDT e de inovação industrial;
+
+i) Colaborar com as instituições de ensino especializado;
+
+j) Contribuir para o fortalecimento das relações entre as instituições de ensino universitário e politécnico e a indústria;
+
+l) Certificar a conformidade dos produtos com as especificações e normas aplicáveis, obtida a respectiva acreditação pelo Instituto Português da Qualidade;
+
+m) Colaborar em estudos de normalização e elaboração de especificações técnicas para as indústrias do sector;
+
+n) Organizar, coordenar e divulgar a informação técnica e tecnológica de interesse para o sector;
+
+o) Promover e participar em programas de formação técnica e realizar estágios de formação tecnológica para o pessoal das empresas industriais associadas;
+
+p) Participar em programas de formação técnica destinados a jovens saídos do sistema formal de ensino, visando promover a sua adequada integração no sistema produtivo;
+
+q) Participar em programas de cooperação e intercâmbio tecnológico entre os centros homólogos internacionais, com vista à criação de sinergias sectoriais.
+
+4 - Nos estatutos dos centros poderão ser definidas outras acções para além das incluídas no número anterior, de acordo com os objectivos definidos no presente diploma.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 3.º — (Actividade dos centros)
+
+Na prossecução dos objectivos e acções referidos no artigo anterior, os centros deverão programar as suas actividades de modo a assegurar a prestação de serviços de forma sistemática aos seus sócios, podendo ainda alargar o âmbito da sua actuação a entidades não sócias.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 4.º — Criação de centros
+
+1 - Cabe às associações industriais ou a grupos de empresas suficientemente representativos de um sector propor ao Ministro da Indústria e Energia, adiante designado por Ministro, a criação de um centro tecnológico.
+
+2 - A proposta a apresentar ao Ministro deverá fundamentar o interesse da constituição do centro para o sector industrial em causa e conter uma análise preliminar sobre a viabilidade económico-financeira do centro a criar.
+
+3 - A constituição e as acções preliminares com vista à instalação de um novo centro cabem a uma comissão instaladora, designada pelo Ministro, ouvidos os signatários da proposta e os serviços públicos interessados, a qual funcionará nos termos definidos no despacho de nomeação.
+
+4 - A comissão instaladora manter-se-á em funções até à tomada de posse do conselho de administração.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 5.º — (Constituição)
+
+1 - São elementos necessários à constituição de um centro o acordo constitutivo e os estatutos do centro.
+
+2 - O acto de constituição do centro e os estatutos devem ser subscritos por uma associação industrial ou por um grupo de empresas suficientemente representativo do sector, bem como por um serviço público com personalidade jurídica designado pelo Ministro.
+
+3 - São elementos essenciais do acordo constitutivo a denominação, os objectivos específicos, a sua localização, os termos em que o centro se obriga, o valor nominal das unidades de participação, a distribuição inicial das unidades de participação subscritas e os bens com que os sócios concorrem para o património inicial e funcionamento do centro.
+
+4 - O acordo constitutivo será homologado pelo Ministro da Indústria e Comércio e publicado na 2.ª série do Diário da República e os estatutos serão publicados na 3.ª série do Diário da República.
+
+5 - O centro adquire personalidade jurídica com a publicação do acordo e dos estatutos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 6.º — (Sócios)
+
+1 - Os associados dos centros são sócios fundadores ou ordinários.
+
+2 - Consideram-se sócios fundadores os que tiverem subscrito o acordo constitutivo referido no artigo anterior.
+
+3 - Consideram-se sócios ordinários os que forem admitidos após a constituição dos centros, nos termos da lei e dos estatutos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+###### Artigo 7.º — (Obrigações especiais dos sócios fundadores)
+
+1 - Os sócios fundadores obrigam-se ao financiamento do investimento necessário à instalação do centro, nos termos que forem definidos no acordo constitutivo.
+
+2 - Poderão edifícios e equipamentos de construção ser fornecidos pelo LNETI em regime de comodato.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 8.º — (Obrigações e direitos dos sócios)
+
+1 - Os estatutos definirão as obrigações e direitos dos sócios.
+
+2 - A responsabilidade dos sócios é limitada às participações detidas pelos mesmos no centro.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+###### Artigo 9.º — (Admissão de sócios)
+
+1 - É livre a admissão de sócios ordinários, desde que preencham os requisitos estabelecidos na lei e nos estatutos.
+
+2 - A admissão faz-se através da subscrição e realização em dinheiro de uma ou mais unidades de participação, cujo valor é determinado anualmente pelo conselho geral.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 10.º — (Património)
+
+Constitui património dos centros:
+
+a) Os bens e direitos para eles transferidos no acto da constituição ou posteriormente adquiridos;
+
+b) O produto da subscrição de unidades de participação realizadas em dinheiro ou bens;
+
+c) O rendimento das actividades dos centros;
+
+d) Os subsídios, doações, heranças ou legados feitos por terceiros e aceites pelos centros;
+
+e) Os produtos de empréstimos;
+
+f) Quaisquer rendimentos permitidos por lei.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+###### Artigo 11.º — (Unidades de participação)
+
+1 - A participação dos associados no centro será representada por unidades de participação indivisíveis, sendo o seu número inicial e o valor nominal unitário indicados no acordo constitutivo.
+
+2 - O número de unidades de participação detidos globalmente pelo sector público não pode exceder 40% do respectivo total.
+
+3 - O número de unidades de participação detido por uma empresa não pode ser superior a 10% do respectivo total.
+
+4 - A soma das unidades de participação detidas pelas empresas de um grupo económico-financeiro não pode ser superior a 40% do total, considerando-se como grupo económico-financeiro o conjunto de empresas ligadas por formas de controlo ou associação, com uma unidade de decisão comum.
+
+5 - Sem prejuízo do disposto nos n.os 3 e 4, é livre a transacção de unidades de participação entre sócios de um centro, sendo o preço da transacção acordado entre eles.
+
+6 - Os centros não podem adquirir unidades de participação aos seus sócios.
+
+7 - A actualização do valor das unidades de participação deve ser feita anualmente, de acordo com a fórmula de cálculo constante dos estatutos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 12.º — (Princípios de gestão económico-financeira)
+
+1 - Os centros deverão orientar-se pelo princípio de equilíbrio entre receitas e custos, incluindo nestes as a1 - Na sua gestão, os centros devem orientar-se pelo princípio do equilíbrio entre proveitos e custos.
+
+2 - Os centros adoptam uma organização contabilística de acordo com o Plano Oficial de Contabilidade.
+
+3 - Os investimentos adicionais a realizar para além dos previstos no respectivo acordo constitutivo deverão, em princípio, ser cobertos pelos capitais próprios e, nomeadamente, pelos meios libertados pela actividade dos centros.
+
+4 - Os programas de investimento que prevejam recurso ao crédito devem ter comparticipação adequada de capitais próprios e ser precedidos de parecer favorável da comissão de fiscalização.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 13.º — (Instrumentos de gestão previsional e de controle de gestão)
+
+A gestão patrimonial e financeira dos centros rege-se pelos seguintes instrumentos de gestão previsional:
+
+a) Plano estratégico;
+
+b) Plano de actividades e orçamentos anuais, individualizando, pelo menos, os de exploração, investimento, financeiro e cambial e as suas actualizações;
+
+c) Relatórios de controle orçamental.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 14.º — Plano estratégico
+
+1 - O plano estratégico definirá as linhas de actuação a prosseguir para, tendo em conta a missão de cada centro, dar resposta às solicitações do sistema industrial.
+
+2 - O plano estratégico deverá ser reformulado sempre que as circunstâncias o justifiquem.
+
+3 - Este plano será completado com um plano financeiro plurienal que traduza o programa de investimentos necessários à concretização do plano estratégico e respectivas fontes de financiamento.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 15.º — (Plano de actividades e orçamentos anuais e relatórios de controle orçamental)
+
+1 - Os centros prepararão para cada ano económico o plano de actividades e os orçamentos anuais, os quais deverão ser completados com os desdobramentos necessários para permitir a descentralização da responsabilidade e adequado controle, bem como a apreciação da rentabilidade de cada actividade.
+
+2 - Os planos de actividades e os orçamentos anuais devem ser enviados aos sócios, acompanhados de parecer da comissão de fiscalização, até 30 de Novembro.
+
+3 - Com periodicidade não inferior à semestral, deverão ser elaborados relatórios de controlo orçamental e de gestão.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 16.º — (Documentos de prestação de contas)
+
+1 - Anualmente, com referência a 31 de Dezembro, serão elaborados os documentos de prestação de contas, que compreenderão:
+
+a) Relatório do conselho de administração sobre as actividades e situação do centro descrevendo os contratos envolvidos;
+
+b) Balanço analítico;
+
+c) Demonstração de resultados.
+
+2 - Os documentos referidos no número anterior serão completados com outros elementos de interesse para apreciação da situação do centro, nomeadamente:
+
+a) Anexo ao balanço e à demonstração de resultados;
+
+b) Mapa dos financiamentos obtidos a médio e longo prazos;
+
+c) Mapa de origens e aplicação de fundos;
+
+d) Mapas sintéticos que mostrem o grau de execução do programa anual de actividades e do orçamento anual;
+
+e) Mapa da distribuição de unidades de participação;
+
+f) Outros indicadores significativos da actividade e situação do centro.
+
+3 - Os documentos de prestação de contas deverão ser enviados, para parecer, à comissão de fiscalização até 15 de Março seguinte, devendo ser enviados pelo conselho de administração aos sócios, juntamente com o referido parecer, até 31 de Março.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+###### Artigo 17.º — (Órgãos sociais e consultivos)
+
+1 - São órgãos sociais dos centros:
+
+a) O conselho geral;
+
+b) O conselho de administração;
+
+c) A comissão de fiscalização.
+
+2 - Os estatutos poderão ainda prever a existência de órgãos de natureza consultiva.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 18.º — (Conselho geral)
+
+1 - O conselho geral é constituído pelos sócios do centro.
+
+2 - O conselho geral, por sua iniciativa ou sob proposta do conselho de administração ou da comissão de fiscalização, pode autorizar a participação nas suas reuniões, sem direito a voto, de pessoas, singulares ou colectivas, cuja presença seja considerada necessária para a discussão dos assuntos constantes da ordem de trabalhos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 19.º — (Representatividade dos sócios no conselho geral)
+
+Cada sócio é representado no conselho geral por um número de votos igual ao número de unidades de participação que detenha duas semanas antes da realização da reunião do conselho geral.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+###### Artigo 20.º — (Competência do conselho geral)
+
+1 - O conselho geral é o órgão máximo do centro, competindo-lhe definir e aprovar a política geral do centro e apreciar os actos de gestão dos restantes corpos sociais.
+
+2 - Para os efeitos do número anterior, o conselho geral deverá reunir-se em Dezembro e em Abril, depois de o conselho de administração ter distribuído pelos sócios os documentos referidos no n.º 2 do artigo 15.º e no n.º 3 do artigo 16.º
+
+3 - Compete, em particular, ao conselho geral:
+
+a) Proceder à eleição dos membros dos órgãos sociais cuja nomeação não seja da competência do Ministro, de acordo com o regulamento eleitoral a definir nos estatutos;
+
+b) Decidir sobre a participação do centro no capital social de empresas ou outras entidades com fins lucrativos, sendo as deliberações respeitantes a esta matéria tomadas pelo voto favorável de três quartos dos votos dos associados;
+
+c) Determinar anualmente o valor das unidades de participação, para fins de admissão de novos sócios, ou de realização de unidades de participação por sócios já existentes;
+
+d) Autorizar o recurso ao crédito para o financiamento de programas de investimento, devendo deliberar por maioria de três quartos dos votos dos associados, uma vez obtido parecer favorável da comissão de fiscalização.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 21.º — (Conselho de administração)
+
+1 - O conselho de administração é composto por representantes dos sócios, em número a definir pelos estatutos, designando o conselho geral, de entre os representantes do sector privado, o presidente.
+
+2 - Os representantes do sector privado no conselho de administração são eleitos em conselho geral pelos sócios privados, sendo os representantes do sector público designados pelo Ministro, até à data daquele conselho geral.
+
+3 - O número de representantes do sector público no conselho de administração é calculado em função das unidades de participação detidas no centro, devendo este sector estar representado desde que detenha um valor não inferior a 20% do total.
+
+4 - Para efeitos do número anterior, a participação do sector público corresponde à existente até às duas semanas anteriores à realização do conselho geral em que tiver lugar a respectiva eleição, não devendo a variação daquele valor no decorrer de um mandato causar alteração da composição no conselho de administração.
+
+5 - O conselho de administração designa o director-geral, ou um administrador executivo, que assegura a acção executiva do centro.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 22.º — (Competência do conselho de administração)
+
+Competirá ao conselho de administração a prática dos actos necessários a uma correcta gestão do centro, nos termos da lei e no âmbito das orientações definidas pelo conselho geral, e o exercício das competências específicas que lhe forem atribuídas pelos estatutos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+###### Artigo 23.º — (Mandato do conselho de administração)
+
+1 - Os membros do conselho de administração têm um mandato de três anos, renovável.
+
+2 - A responsabilidade do conselho de administração, no termo do seu mandato, cessa com a aprovação do relatório e contas correspondentes ao último exercício, devendo ser assegurada a gestão corrente até à eleição do novo conselho de administração.
+
+3 - O conselho de administração poderá substituir, por cooptação, membros privados em falta, devendo a substituição ser ratificada no conselho geral imediato.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 24.º — (Comissão de fiscalização)
+
+1 - A comissão de fiscalização é composta por três elementos, sendo um designado pelo Ministro e os restantes eleitos em conselho geral, que elegerá também o respectivo presidente.
+
+2 - O início e o termo do mandato dos membros da comissão de fiscalização deverão coincidir com o estabelecido para os membros do conselho de administração.
+
+3 - A comissão de fiscalização pode fazer-se assistir por auditores externos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 25.º — (Competência da comissão de fiscalização)
+
+Cabe à comissão de fiscalização:
+
+a) Dar parecer sobre o plano de actividades e respectivo orçamento anual;
+
+b) Dar parecer sobre o relatório e contas anual e sobre os relatórios de controlo orçamental e de gestão;
+
+c) Dar parecer sobre os pedidos de financiamento a obter pelo centro para a realização de programas de investimento;
+
+d) Verificar a correcta utilização dos financiamentos concedidos;
+
+e) Acompanhar a actividade dos centros, assegurando-se que os mesmos prosseguem os fins para que foram constituídos;
+
+f) Pronunciar-se, no prazo de 30 dias, sobre qualquer assunto de interesse para o centro que seja submetido à sua apreciação pelos restantes órgãos sociais.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 26.º — (Director-geral)
+
+Compete ao director-geral ou ao administrador executivo, quando exista, a prática dos actos necessários à gestão corrente do centro, nos termos da lei, dos estatutos e das orientações definidas pelo conselho de administração.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 27.º — (Regime de trabalho)
+
+1 - O pessoal dos centros fica sujeito ao regime de contrato individual de trabalho.
+
+2 - Para além do pessoal referido no número anterior, poderão os centros promover a requisição de funcionários da Administração Pública ou de trabalhadores de empresas públicas ou privadas, nos termos da legislação aplicável.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+###### Artigo 28.º — (Cargos sociais)
+
+1 - Os titulares dos órgãos sociais dos centros terão a remuneração e as regalias que lhes forem fixadas pelo conselho geral nos termos prescritos nos estatutos.
+
+2 - Os estatutos definirão os cargos e funções que poderão ser exercidos a tempo parcial.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+###### Artigo 29.º — (Extinção e liquidação dos centros)
+
+1 - Os centros extinguem-se nos casos previstos no artigo 182.º do Código Civil, sendo os efeitos os consignados no artigo 183.º do mesmo Código.
+
+2 - A liquidação do património social, nos termos a deliberar pelo conselho geral, quando por outra forma não for estabelecido nos estatutos ou resultar de imperativos resultantes dos incentivos concedidos, carece de aprovação do Ministro.
+
+3 - O eventual remanescente da liquidação do passivo reverte a favor do Estado.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 312/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1995-692423), em vigor a partir de 1995-11-29
+
+###### Artigo 30.º — (Disposições transitórias)
+
+1 - A adequação dos centros já constituídos aos princípios consagrados no presente diploma será feita em prazo a definir pelo Ministro da Indústria e Comércio, sob proposta dos centros.
+
+2 - Obedecendo às alterações impostas pelo presente diploma, cada sócio do sector público reduzirá na mesma percentagem a sua participação, através da transformação, pelo valor nominal, em conta de empréstimos, a serem reembolsados no prazo de cinco anos, para que a soma das participações do sector não seja superior a 40%.
+
+3 - Os centros já constituídos deverão organizar o seu sistema contabilístico, de forma que, no prazo de 90 dias, seja possível uma auditoria financeira.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+###### Artigo 31.º — (Norma revogatória)
+
+É revogado o Decreto-Lei n.º 461/83, de 30 de Dezembro.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+###### Artigo 32.º — (Entrada em vigor)
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01
+
+Visto e aprovado em Conselho de Ministros de 8 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
+
+Promulgado em 9 de Agosto de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 14 de Agosto de 1986.
+
+Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 126-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547), em vigor a partir de 2022-01-01

@@ -1,0 +1,495 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:622849:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-116843325",
+ "dre_path": "/dr/detalhe/portaria/277-a-1999-622849",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870597681"
+   ]
+  },
+  {
+   "date": "2001-11-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:568092:por",
+     "title": "Portaria n.º 1318/2001",
+     "published": "2001-11-29",
+     "dre_path": "/dr/detalhe/portaria/1318-2001-568092"
+    }
+   ],
+   "changes": [
+    "Altera 1.º",
+    "Altera 2.º",
+    "Altera 5.º",
+    "Altera 6.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Revoga 7.º"
+   ],
+   "fragments": [
+    "116843608",
+    "835810027",
+    "835810024",
+    "835810019",
+    "835810020",
+    "835810025",
+    "835810026",
+    "835810028",
+    "116843609",
+    "835810033",
+    "835810034",
+    "835810031"
+   ]
+  },
+  {
+   "date": "2002-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:405721:por",
+     "title": "Portaria n.º 1522/2002",
+     "published": "2002-12-19",
+     "dre_path": "/dr/detalhe/portaria/1522-2002-405721"
+    }
+   ],
+   "changes": [
+    "Altera 6.º"
+   ],
+   "fragments": [
+    "116843608",
+    "835810027",
+    "835810024",
+    "835810019",
+    "835810020",
+    "835810025",
+    "853688710",
+    "835810028",
+    "116843609",
+    "835810033",
+    "835810034",
+    "835810031"
+   ]
+  },
+  {
+   "date": "2010-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:611278:por",
+     "title": "Portaria n.º 134/2010",
+     "published": "2010-03-02",
+     "dre_path": "/dr/detalhe/portaria/134-2010-611278"
+    }
+   ],
+   "changes": [
+    "Adita Anexo IV",
+    "Altera 5.º"
+   ],
+   "fragments": [
+    "116843608",
+    "835810027",
+    "835810024",
+    "835810019",
+    "835810020",
+    "853688712",
+    "853688711",
+    "835810028",
+    "116843609",
+    "835810033",
+    "835810034",
+    "835810031",
+    "853688713"
+   ]
+  },
+  {
+   "date": "2018-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116844478:por",
+     "title": "Portaria n.º 294/2018",
+     "published": "2018-10-31",
+     "dre_path": "/dr/detalhe/portaria/294-2018-116844478"
+    }
+   ],
+   "changes": [
+    "Altera 1.º",
+    "Altera 6.º"
+   ],
+   "fragments": [
+    "116843608",
+    "853688714",
+    "835810024",
+    "835810019",
+    "835810020",
+    "853688712",
+    "853688715",
+    "835810028",
+    "116843609",
+    "835810033",
+    "835810034",
+    "835810031",
+    "853688713"
+   ]
+  },
+  {
+   "date": "2023-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:812826260:por",
+     "title": "Portaria n.º 451/2023",
+     "published": "2023-12-22",
+     "dre_path": "/dr/detalhe/portaria/451-2023-812826260"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "870597681",
+    "870597682",
+    "870597683",
+    "870597684",
+    "870597685",
+    "870597686",
+    "870597687",
+    "870597688",
+    "870597689",
+    "870597690",
+    "870597691",
+    "870597692",
+    "870597693"
+   ]
+  }
+ ],
+ "fragments": {
+  "870597681": {
+   "fragment_id": "116843326",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-12-23",
+   "changed_by": [],
+   "markdown": "Portaria n.º 277-A/99\n\nde 15 de Abril\n\nO Decreto-Lei n.º 251/98, de 11 de Agosto, relativo ao acesso à actividade de transportes em táxi, remete para regulamento a definição das características e as normas de identificação dos veículos a utilizar nesta actividade.\n\nImporta assim definir essas regras, bem como regular as condições de afixação de publicidade e caracterizar os equipamentos e os elementos identificativos dos táxis.\n\nPor outro lado, a Lei n.º 6/98, de 31 de Janeiro, determina que sejam regulamentados os sistemas de segurança a instalar nos táxis, sendo conveniente regular neste diploma o sistema de luz avisadora SOS em conjugação com a definição do modelo de dispositivo luminoso.\n\nOs modelos do dispositivo luminoso e dos distintivos constam dos anexos que integram a presente portaria.\n\nAssim:\n\nNos termos da alínea c) do artigo 2.º da Lei n.º 6/98, de 31 de Janeiro, e ao abrigo do n.º 2 do artigo 10.º e do artigo 42.º do Decreto-Lei n.º 251/98, de 11 de Agosto:\n\nManda o Governo, pelos Ministros da Administração Interna e do Equipamento, do Planeamento e da Administração do Território, o seguinte:"
+  },
+  "116843608": {
+   "fragment_id": "116843326",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 277-A/99\n\nde 15 de Abril\n\nO Decreto-Lei n.º 251/98, de 11 de Agosto, relativo ao acesso à actividade de transportes em táxi, remete para regulamento a definição das características e as normas de identificação dos veículos a utilizar nesta actividade.\n\nImporta assim definir essas regras, bem como regular as condições de afixação de publicidade e caracterizar os equipamentos e os elementos identificativos dos táxis.\n\nPor outro lado, a Lei n.º 6/98, de 31 de Janeiro, determina que sejam regulamentados os sistemas de segurança a instalar nos táxis, sendo conveniente regular neste diploma o sistema de luz avisadora SOS em conjugação com a definição do modelo de dispositivo luminoso.\n\nOs modelos do dispositivo luminoso e dos distintivos constam dos anexos que integram a presente portaria.\n\nAssim:\n\nNos termos da alínea c) do artigo 2.º da Lei n.º 6/98, de 31 de Janeiro, e ao abrigo do n.º 2 do artigo 10.º e do artigo 42.º do Decreto-Lei n.º 251/98, de 11 de Agosto:\n\nManda o Governo, pelos Ministros da Administração Interna e do Equipamento, do Planeamento e da Administração do Território, o seguinte:"
+  },
+  "835810027": {
+   "fragment_id": "835809022",
+   "type": 11,
+   "heading": "1.º — Características dos táxis",
+   "in_force_from": "2001-11-29",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 1.º — Características dos táxis\n\n1 - Para o exercício da actividade de transportes em táxi só podem ser licenciados veículos automóveis de passageiros que, para além do taxímetro, estejam equipados com um dispositivo luminoso, possuam distintivos de identificação próprios e tenham as seguintes características:\n\n1.1 - Caixa fechada;\n\n1.2 - Distância mínima entre eixos de 2,5 m;\n\n1.3 - Quatro portas no mínimo, sendo duas obrigatoriamente do lado direito;\n\n1.4 - Lotação até nove lugares, incluindo o do condutor;\n\n1.5 - Caixa pintada nas cores bege-marfim ou verde-mar e preta, correspondendo, neste último caso, a primeira destas cores à metade superior do veículo e a segunda à metade inferior.\n\n2 - O disposto no n.º 1.2 é aplicável apenas a novos veículos a afectar à actividade.\n\n3 - (Revogado.)\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "835810024": {
+   "fragment_id": "835809023",
+   "type": 11,
+   "heading": "2.º — Dispositivo luminoso",
+   "in_force_from": "2001-11-29",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 2.º — Dispositivo luminoso\n\n1 - O dispositivo luminoso identificativo do táxi e da tarifa deve obedecer ao modelo constante do anexo I, ser colocado na parte dianteira do tejadilho, em posição centrada, visível da frente e da retaguarda do veículo, e funcionar nas seguintes condições:\n\na) Os elementos indicadores de 'táxi' e do concelho devem estar sempre iluminados, e a luz verde acesa sempre que o veículo se encontre livre e apagada quando ocupado;\n\nb) O elemento identificador da tarifa praticada ou do serviço a contrato ou a percurso deve estar iluminado com o algarismo ou letra correspondente, consoante o caso, sempre que o veículo se encontre na situação de ocupado, e apagado na operação de pagamento do serviço ou quando livre;\n\nc) O elemento identificador da tarifa praticada pode ser usado, em caso de ameaça à segurança do condutor, para a emissão de uma mensagem visual SOS;\n\nd) Sempre que o veículo estiver no respectivo local de estacionamento, pode ter o dispositivo luminoso apagado;\n\ne) A circulação do veículo com o dispositivo luminoso apagado é indicativo de que não se encontra ao serviço ou que foi requisitado via telefone.\n\n2 - Só podem ser instalados dispositivos luminosos certificados por entidades acreditadas no âmbito do Sistema Português da Qualidade, criado pelo Decreto-Lei n.º 234/93, de 2 de Julho.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "835810019": {
+   "fragment_id": "835809024",
+   "type": 11,
+   "heading": "3.º — Distintivo identificador da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — Distintivo identificador da licença\n\n1 - O distintivo que identifica a freguesia ou concelho e o número da licença é conforme o modelo constante do anexo II e deve ser aposto nos guarda-lamas da frente e na retaguarda do veículo.\n\n2 - O número da licença é atribuído pela câmara municipal respectiva, de forma sequencial e dentro do contingente fixado para a freguesia, para o conjunto de freguesias ou para as freguesias que constituem a sede do concelho, consoante o caso."
+  },
+  "835810020": {
+   "fragment_id": "835809025",
+   "type": 11,
+   "heading": "4.º — Dístico indicador de aferição do taxímetro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — Dístico indicador de aferição do taxímetro\n\nO dístico com as características do modelo constante do anexo III, a emitir anualmente pelas entidades aferidoras, após verificação da aferição dos taxímetros, deve ser colocado na parte superior direita do vidro da frente do veículo."
+  },
+  "835810025": {
+   "fragment_id": "835809026",
+   "type": 11,
+   "heading": "5.º — Normas de afixação de publicidade",
+   "in_force_from": "2001-11-29",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 5.º — Normas de afixação de publicidade\n\n1 - A afixação de mensagens de publicidade nos táxis só pode ocupar os guarda-lamas da retaguarda e as portas laterais do veículo, excluídos os vidros.\n\n2 - Na parte superior do pára-brisas e nas partes superior e inferior do vidro da retaguarda podem ser afixados dísticos donde conste a denominação da empresa proprietária do táxi ou, caso este esteja equipado com rádio-telefone, a denominação da entidade que explora a central rádio, o respectivo número de telefone e o número de adesão do táxi à central, podendo ainda tais dísticos conter menções publicitárias.\n\n3 - Os dísticos referidos no número anterior devem ser de material autocolante com altura não superior a 8 cm e ser colocados de forma a não prejudicar o campo de visão do condutor.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "835810026": {
+   "fragment_id": "835809027",
+   "type": 11,
+   "heading": "6.º — Normas transitórias",
+   "in_force_from": "2001-11-29",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 6.º — Normas transitórias\n\n1 - Até 31 de Dezembro de 2002, todos os veículos licenciados para o transporte em táxi devem estar equipados com taxímetro, dispositivo luminoso e distintivo identificador da licença, a que se referem os n.os 2.º e 3.º da presente portaria, respectivamente.\n\n2 - O início da contagem dos preços através de taxímetro deverá ter início ao mesmo tempo em todas as localidades de cada concelho, dentro do prazo estabelecido no ponto anterior e de acordo com calendarização a fixar por despacho do director-geral de Transportes Terrestres.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "835810028": {
+   "fragment_id": "835809028",
+   "type": 11,
+   "heading": "7.º — Entrada em vigor",
+   "in_force_from": "2001-11-29",
+   "changed_by": [
+    "Revogado pelo/a 2.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 7.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor no dia imediato ao da sua publicação, excepto o disposto nos números seguintes.\n\n2 - O n.º 2 do n.º 1.º, relativo à distância mínima entre eixos, entra em vigor seis meses após a data da publicação da presente portaria.\n\n3 - Os veículos já licenciados para o transporte em táxi à data da publicação da presente portaria só estão sujeitos ao limite máximo de idade do veículo, a que se refere o n.º 3 do n.º 1.º, a partir de 1 de Janeiro de 2005.\n\n> Revogado pelo/a 2.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "116843609": {
+   "fragment_id": "116843327",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 14 de Abril de 1999.\n\nO Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho."
+  },
+  "835810033": {
+   "fragment_id": "835809029",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2001-11-29",
+   "changed_by": [
+    "Alterado pelo/a 3.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "## Anexo I\n\nO modelo do dispositivo luminoso deve obedecer ao seguinte:\n\n1 - Ser constituído por uma caixa de cor bege-marfim ou branca, cujas arestas podem ser arredondadas, e deve conter a identificação do concelho a que pertence o veículo, o identificador da tarifa e uma luz lateral de cor verde indicadora da situação de livre ou ocupado;\n\n2 - O cabo de ligação do dispositivo luminoso ao taxímetro deve ser blindado e não pode ser seccionado, devendo o sistema incluir um mecanismo de controlo do circuito que, em caso de anomalia, bloqueie de imediato o funcionamento do dispositivo luminoso e do taxímetro.\n\n3 - Os elementos identificadores do dispositivo luminoso têm um fundo preto e são iluminados com cor branca ou amarela à frente e vermelha à retaguarda.\n\n4 - O identificador luminoso da tarifa deve assinalar o algarismo correspondente à tarifa praticada, a letra correspondente ao tipo de serviço executado (C ou P) e a mensagem visual SOS, não devendo, neste último caso, interferir com o regular funcionamento do taxímetro.\n\n5 - A designação do concelho a que o veículo pertence pode ser abreviada, quando o espaço a ela destinado for insuficiente, desde que permita a sua fácil identificação.\n\n6 - As dimensões do dispositivo luminoso são as que constam do modelo, podendo ser superiores até ao limite de 30%, e a luz lateral de cor verde, referida no n.º 1, pode preencher a totalidade do respectivo espaço lateral.\n\n(ver modelo no documento original)\n\n> Alterado pelo/a 3.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "835810034": {
+   "fragment_id": "835809030",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2001-11-29",
+   "changed_by": [
+    "Alterado pelo/a 3.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "## Anexo II\n\nO modelo do distintivo identificador da licença deve obedecer ao seguinte:\n\n1 - Ser pintado ou impresso em material autocolante que garanta condições de aderência e permanência e ser colocado nos guarda-lamas da frente, nos cantos superiores junto às portas e na retaguarda do veículo.\n\n2 - O número da licença e o nome da freguesia ou do concelho, consoante o caso, são de cor preta sobre um fundo bege-marfim ou branco.\n\n> Alterado pelo/a 3.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "835810031": {
+   "fragment_id": "835809031",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\nO dístico de aferição do taxímetro é impresso em matéria plástica transparente e autocolante com contorno de cor preta, devendo conter as seguintes indicações:\n\n1) Na parte central do círculo, a identificação da entidade aferidora por meio de sigla ou iniciais;\n\n2) Na parte inferior do círculo, o ano da aferição do taxímetro.\n\n(ver modelo no documento original)"
+  },
+  "853688710": {
+   "fragment_id": "835809027",
+   "type": 11,
+   "heading": "6.º — Normas transitórias",
+   "in_force_from": "2002-12-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1522/2002 - Diário da República n.º 293/2002, Série I-B de 2002-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1522-2002-405721), em vigor a partir de 2002-12-24",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 6.º — Normas transitórias\n\n1 - Até 31 de Dezembro de 2003, todos os veículos licenciados para o transporte em táxi devem estar equipados com taxímetro, dispositivo luminoso e distintivo identificador da licença, a que se referem os n.os 2.º e 3.º da presente portaria, respectivamente.\n\n2 - O início da contagem dos preços através de taxímetro deverá ter início ao mesmo tempo em todas as localidades de cada concelho, dentro do prazo estabelecido no ponto anterior e de acordo com calendarização a fixar por despacho do director-geral de Transportes Terrestres.\n\n> Alterado pelo/a [Portaria n.º 1522/2002 - Diário da República n.º 293/2002, Série I-B de 2002-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1522-2002-405721), em vigor a partir de 2002-12-24\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "853688712": {
+   "fragment_id": "835809026",
+   "type": 11,
+   "heading": "5.º — Normas de afixação de publicidade",
+   "in_force_from": "2010-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 134/2010 - Diário da República n.º 42/2010, Série I de 2010-03-02](https://diariodarepublica.pt/dr/detalhe/portaria/134-2010-611278), em vigor a partir de 2010-03-07",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 5.º — Normas de afixação de publicidade\n\n1 - A afixação de mensagens de publicidade nos táxis só pode ocupar os guarda-lamas da retaguarda, as portas laterais do veículo, excluídos os vidros, ou o tejadilho.\n\n2 - Na parte superior do pára-brisas e nas partes superior e inferior do vidro da retaguarda podem ser afixados dísticos donde conste a denominação da empresa proprietária do táxi ou, caso este esteja equipado com rádio-telefone, a denominação da entidade que explora a central rádio, o respectivo número de telefone e o número de adesão do táxi à central, podendo ainda tais dísticos conter menções publicitárias.\n\n3 - Os dísticos referidos no número anterior devem ser de material autocolante, com altura não superior a 80 mm, e devem ser colocados de forma a não prejudicar o campo de visão do condutor.\n\n4 - No tejadilho pode ser colocado um painel destinado à afixação de dísticos de material autocolante com mensagens de publicidade, de acordo com as indicações e o modelo do anexo iv à presente portaria, que dela faz parte integrante.\n\n5 - Em caso de colocação do painel referido no número anterior, o dispositivo luminoso deve funcionar nas condições previstas no n.º 2.º e pode estar colocado em posição centrada, sobre a parte superior dianteira do painel, ou em posição lateral, de modo a que o dispositivo luminoso seja visível da frente e da retaguarda do veículo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 134/2010 - Diário da República n.º 42/2010, Série I de 2010-03-02](https://diariodarepublica.pt/dr/detalhe/portaria/134-2010-611278), em vigor a partir de 2010-03-07\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "853688711": {
+   "fragment_id": "835809027",
+   "type": 11,
+   "heading": "6.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 2/2004 - Diário da República n.º 3/2004, Série I-B de 2004-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/2-2004-240830), produz efeitos a partir de 2004-01-01",
+    "Alterado pelo/a [Portaria n.º 1522/2002 - Diário da República n.º 293/2002, Série I-B de 2002-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1522-2002-405721), em vigor a partir de 2002-12-24",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 6.º — Normas transitórias\n\n1 - A contagem dos preços através de taxímetro inicia-se ao mesmo tempo em todas as localidades de cada concelho, mediante calendarização a fixar por despacho do director-geral de Transportes Terrestres em articulação com a respectiva câmara municipal, não podendo ultrapassar a data de 31 de Dezembro de 2004.\n\n2 - Dentro do prazo referido no número anterior, para além do taxímetro, devem ainda ser instalados nos veículos o dispositivo luminoso e o distintivo identificador da licença a que se referem os n.os 2.º e 3.º da presente portaria, respectivamente.\n\n3 - Nas localidades que em 11 de Novembro de 1998, data da entrada em vigor do Decreto-Lei n.º 251/98, de 11 de Agosto, já vigorasse o regime de serviço a taxímetro, o dispositivo luminoso e o distintivo identificador serão obrigatoriamente instalados até 31 de Março de 2004.\n\n> Nota: [Portaria n.º 29/2005 - Diário da República n.º 9/2005, Série I-B de 2005-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/29-2005-476933) O prazo previsto no n.º 1 do presente número, é prorrogado por 90 dias.\n\n> Alterado pelo/a [Portaria n.º 2/2004 - Diário da República n.º 3/2004, Série I-B de 2004-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/2-2004-240830), produz efeitos a partir de 2004-01-01\n\n> Alterado pelo/a [Portaria n.º 1522/2002 - Diário da República n.º 293/2002, Série I-B de 2002-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1522-2002-405721), em vigor a partir de 2002-12-24\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "853688713": {
+   "fragment_id": "853690619",
+   "type": 14,
+   "heading": "Anexo IV",
+   "in_force_from": "2010-03-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 134/2010 - Diário da República n.º 42/2010, Série I de 2010-03-02](https://diariodarepublica.pt/dr/detalhe/portaria/134-2010-611278), em vigor a partir de 2010-03-07"
+   ],
+   "markdown": "## Anexo IV\n\nO modelo de painel deve obedecer ao seguinte:\n\n1) Ser constituído por material plástico, que pode ser iluminado no seu interior e alimentado a partir do veículo;\n\n2) Altura não superior a 520 mm entre o tejadilho e o limite máximo do painel;\n\n3) O limite máximo das dimensões é o que consta do modelo gráfico.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 134/2010 - Diário da República n.º 42/2010, Série I de 2010-03-02](https://diariodarepublica.pt/dr/detalhe/portaria/134-2010-611278), em vigor a partir de 2010-03-07"
+  },
+  "853688714": {
+   "fragment_id": "835809022",
+   "type": 11,
+   "heading": "1.º — Características dos táxis",
+   "in_force_from": "2018-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 294/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/294-2018-116844478), em vigor a partir de 2018-11-01",
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 1.º — Características dos táxis\n\n1 - Para o exercício da atividade de transportes em táxi só podem ser licenciados veículos automóveis de passageiros que, para além do taxímetro, estejam equipados com um dispositivo luminoso, possuam distintivos de identificação próprios e tenham as seguintes caraterísticas:\n\n1.1 - Caixa fechada;\n\n1.2 - Distância mínima entre eixos de 2,5 m;\n\n1.3 - Quatro portas no mínimo, sendo duas obrigatoriamente do lado direito;\n\n1.4 - Lotação até nove lugares, incluindo o do condutor;\n\n1.5 - Parte superior do veículo de cor verde-mar, correspondendo à escala Pantone com referência '3248C', e parte inferior de cor preta, correspondendo à escala Pantone com referência 'Process Black C'.\n\n2 - O disposto nos n.os 1.2 e 1.5 é aplicável apenas a novos veículos a afetar à atividade.\n\n3 - Os veículos utilizados na atividade de transportes em táxi devem possuir idade inferior a dez anos a contar da data da primeira matrícula.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 294/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/294-2018-116844478), em vigor a partir de 2018-11-01\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "853688715": {
+   "fragment_id": "835809027",
+   "type": 11,
+   "heading": "6.º — Normas transitórias",
+   "in_force_from": "2018-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/294-2018-116844478), em vigor a partir de 2018-11-01",
+    "Alterado pelo/a [Portaria n.º 2/2004 - Diário da República n.º 3/2004, Série I-B de 2004-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/2-2004-240830), produz efeitos a partir de 2004-01-01",
+    "Alterado pelo/a [Portaria n.º 1522/2002 - Diário da República n.º 293/2002, Série I-B de 2002-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1522-2002-405721), em vigor a partir de 2002-12-24",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 6.º — Normas transitórias\n\n1 - A contagem dos preços através de taxímetro inicia-se ao mesmo tempo em todas as localidades de cada concelho, mediante calendarização a fixar por despacho do director-geral de Transportes Terrestres em articulação com a respectiva câmara municipal, não podendo ultrapassar a data de 31 de Dezembro de 2004.\n\n2 - Dentro do prazo referido no número anterior, para além do taxímetro, devem ainda ser instalados nos veículos o dispositivo luminoso e o distintivo identificador da licença a que se referem os n.os 2.º e 3.º da presente portaria, respectivamente.\n\n3 - Nas localidades que em 11 de Novembro de 1998, data da entrada em vigor do Decreto-Lei n.º 251/98, de 11 de Agosto, já vigorasse o regime de serviço a taxímetro, o dispositivo luminoso e o distintivo identificador serão obrigatoriamente instalados até 31 de Março de 2004.\n\n4 - As empresas detentoras de veículos afetos à atividade de transportes em táxi e licenciados à data de entrada em vigor da presente portaria devem, até 31 de dezembro de 2023, cumprir com o disposto no n.º 3 do ponto 1.º da presente portaria.\n\n> Nota: [Portaria n.º 29/2005 - Diário da República n.º 9/2005, Série I-B de 2005-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/29-2005-476933) O prazo previsto no n.º 1 do presente número, é prorrogado por 90 dias.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/294-2018-116844478), em vigor a partir de 2018-11-01\n\n> Alterado pelo/a [Portaria n.º 2/2004 - Diário da República n.º 3/2004, Série I-B de 2004-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/2-2004-240830), produz efeitos a partir de 2004-01-01\n\n> Alterado pelo/a [Portaria n.º 1522/2002 - Diário da República n.º 293/2002, Série I-B de 2002-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1522-2002-405721), em vigor a partir de 2002-12-24\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "870597682": {
+   "fragment_id": "835809022",
+   "type": 11,
+   "heading": "Artigo 1.º — Características dos táxis",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 294/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/294-2018-116844478), em vigor a partir de 2018-11-01",
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### Artigo 1.º — Características dos táxis\n\n1 - Para o exercício da atividade de transportes em táxi só podem ser licenciados veículos automóveis de passageiros que, para além do taxímetro, estejam equipados com um dispositivo luminoso, possuam distintivos de identificação próprios e tenham as seguintes caraterísticas:\n\n1.1 - Caixa fechada;\n\n1.2 - Distância mínima entre eixos de 2,5 m;\n\n1.3 - Quatro portas no mínimo, sendo duas obrigatoriamente do lado direito;\n\n1.4 - Lotação até nove lugares, incluindo o do condutor;\n\n1.5 - Parte superior do veículo de cor verde-mar, correspondendo à escala Pantone com referência '3248C', e parte inferior de cor preta, correspondendo à escala Pantone com referência 'Process Black C'.\n\n2 - O disposto nos n.os 1.2 e 1.5 é aplicável apenas a novos veículos a afetar à atividade.\n\n3 - Os veículos utilizados na atividade de transportes em táxi devem possuir idade inferior a dez anos a contar da data da primeira matrícula.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 294/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/294-2018-116844478), em vigor a partir de 2018-11-01\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "870597683": {
+   "fragment_id": "835809023",
+   "type": 11,
+   "heading": "2.º — Dispositivo luminoso",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 2.º — Dispositivo luminoso\n\n1 - O dispositivo luminoso identificativo do táxi e da tarifa deve obedecer ao modelo constante do anexo I, ser colocado na parte dianteira do tejadilho, em posição centrada, visível da frente e da retaguarda do veículo, e funcionar nas seguintes condições:\n\na) Os elementos indicadores de 'táxi' e do concelho devem estar sempre iluminados, e a luz verde acesa sempre que o veículo se encontre livre e apagada quando ocupado;\n\nb) O elemento identificador da tarifa praticada ou do serviço a contrato ou a percurso deve estar iluminado com o algarismo ou letra correspondente, consoante o caso, sempre que o veículo se encontre na situação de ocupado, e apagado na operação de pagamento do serviço ou quando livre;\n\nc) O elemento identificador da tarifa praticada pode ser usado, em caso de ameaça à segurança do condutor, para a emissão de uma mensagem visual SOS;\n\nd) Sempre que o veículo estiver no respectivo local de estacionamento, pode ter o dispositivo luminoso apagado;\n\ne) A circulação do veículo com o dispositivo luminoso apagado é indicativo de que não se encontra ao serviço ou que foi requisitado via telefone.\n\n2 - Só podem ser instalados dispositivos luminosos certificados por entidades acreditadas no âmbito do Sistema Português da Qualidade, criado pelo Decreto-Lei n.º 234/93, de 2 de Julho.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "870597684": {
+   "fragment_id": "835809024",
+   "type": 11,
+   "heading": "3.º — Distintivo identificador da licença",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23"
+   ],
+   "markdown": "###### 3.º — Distintivo identificador da licença\n\n1 - O distintivo que identifica a freguesia ou concelho e o número da licença é conforme o modelo constante do anexo II e deve ser aposto nos guarda-lamas da frente e na retaguarda do veículo.\n\n2 - O número da licença é atribuído pela câmara municipal respectiva, de forma sequencial e dentro do contingente fixado para a freguesia, para o conjunto de freguesias ou para as freguesias que constituem a sede do concelho, consoante o caso.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23"
+  },
+  "870597685": {
+   "fragment_id": "835809025",
+   "type": 11,
+   "heading": "4.º — Dístico indicador de aferição do taxímetro",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23"
+   ],
+   "markdown": "###### 4.º — Dístico indicador de aferição do taxímetro\n\nO dístico com as características do modelo constante do anexo III, a emitir anualmente pelas entidades aferidoras, após verificação da aferição dos taxímetros, deve ser colocado na parte superior direita do vidro da frente do veículo.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23"
+  },
+  "870597686": {
+   "fragment_id": "835809026",
+   "type": 11,
+   "heading": "5.º — Normas de afixação de publicidade",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 134/2010 - Diário da República n.º 42/2010, Série I de 2010-03-02](https://diariodarepublica.pt/dr/detalhe/portaria/134-2010-611278), em vigor a partir de 2010-03-07",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 5.º — Normas de afixação de publicidade\n\n1 - A afixação de mensagens de publicidade nos táxis só pode ocupar os guarda-lamas da retaguarda, as portas laterais do veículo, excluídos os vidros, ou o tejadilho.\n\n2 - Na parte superior do pára-brisas e nas partes superior e inferior do vidro da retaguarda podem ser afixados dísticos donde conste a denominação da empresa proprietária do táxi ou, caso este esteja equipado com rádio-telefone, a denominação da entidade que explora a central rádio, o respectivo número de telefone e o número de adesão do táxi à central, podendo ainda tais dísticos conter menções publicitárias.\n\n3 - Os dísticos referidos no número anterior devem ser de material autocolante, com altura não superior a 80 mm, e devem ser colocados de forma a não prejudicar o campo de visão do condutor.\n\n4 - No tejadilho pode ser colocado um painel destinado à afixação de dísticos de material autocolante com mensagens de publicidade, de acordo com as indicações e o modelo do anexo iv à presente portaria, que dela faz parte integrante.\n\n5 - Em caso de colocação do painel referido no número anterior, o dispositivo luminoso deve funcionar nas condições previstas no n.º 2.º e pode estar colocado em posição centrada, sobre a parte superior dianteira do painel, ou em posição lateral, de modo a que o dispositivo luminoso seja visível da frente e da retaguarda do veículo.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 134/2010 - Diário da República n.º 42/2010, Série I de 2010-03-02](https://diariodarepublica.pt/dr/detalhe/portaria/134-2010-611278), em vigor a partir de 2010-03-07\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "870597687": {
+   "fragment_id": "835809027",
+   "type": 11,
+   "heading": "6.º — Normas transitórias",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/294-2018-116844478), em vigor a partir de 2018-11-01",
+    "Alterado pelo/a [Portaria n.º 2/2004 - Diário da República n.º 3/2004, Série I-B de 2004-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/2-2004-240830), produz efeitos a partir de 2004-01-01",
+    "Alterado pelo/a [Portaria n.º 1522/2002 - Diário da República n.º 293/2002, Série I-B de 2002-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1522-2002-405721), em vigor a partir de 2002-12-24",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 6.º — Normas transitórias\n\n1 - A contagem dos preços através de taxímetro inicia-se ao mesmo tempo em todas as localidades de cada concelho, mediante calendarização a fixar por despacho do director-geral de Transportes Terrestres em articulação com a respectiva câmara municipal, não podendo ultrapassar a data de 31 de Dezembro de 2004.\n\n2 - Dentro do prazo referido no número anterior, para além do taxímetro, devem ainda ser instalados nos veículos o dispositivo luminoso e o distintivo identificador da licença a que se referem os n.os 2.º e 3.º da presente portaria, respectivamente.\n\n3 - Nas localidades que em 11 de Novembro de 1998, data da entrada em vigor do Decreto-Lei n.º 251/98, de 11 de Agosto, já vigorasse o regime de serviço a taxímetro, o dispositivo luminoso e o distintivo identificador serão obrigatoriamente instalados até 31 de Março de 2004.\n\n4 - As empresas detentoras de veículos afetos à atividade de transportes em táxi e licenciados à data de entrada em vigor da presente portaria devem, até 31 de dezembro de 2023, cumprir com o disposto no n.º 3 do ponto 1.º da presente portaria.\n\n> Nota: [Portaria n.º 29/2005 - Diário da República n.º 9/2005, Série I-B de 2005-01-13](https://diariodarepublica.pt/dr/detalhe/portaria/29-2005-476933) O prazo previsto no n.º 1 do presente número, é prorrogado por 90 dias.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2018 - Diário da República n.º 210/2018, Série I de 2018-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/294-2018-116844478), em vigor a partir de 2018-11-01\n\n> Alterado pelo/a [Portaria n.º 2/2004 - Diário da República n.º 3/2004, Série I-B de 2004-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/2-2004-240830), produz efeitos a partir de 2004-01-01\n\n> Alterado pelo/a [Portaria n.º 1522/2002 - Diário da República n.º 293/2002, Série I-B de 2002-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1522-2002-405721), em vigor a partir de 2002-12-24\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "870597688": {
+   "fragment_id": "835809028",
+   "type": 11,
+   "heading": "7.º — Entrada em vigor",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23",
+    "Revogado pelo/a 2.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "###### 7.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor no dia imediato ao da sua publicação, excepto o disposto nos números seguintes.\n\n2 - O n.º 2 do n.º 1.º, relativo à distância mínima entre eixos, entra em vigor seis meses após a data da publicação da presente portaria.\n\n3 - Os veículos já licenciados para o transporte em táxi à data da publicação da presente portaria só estão sujeitos ao limite máximo de idade do veículo, a que se refere o n.º 3 do n.º 1.º, a partir de 1 de Janeiro de 2005.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23\n\n> Revogado pelo/a 2.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "870597689": {
+   "fragment_id": "116843327",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23"
+   ],
+   "markdown": "Assinada em 14 de Abril de 1999.\n\nO Ministro da Administração Interna, Jorge Paulo Sacadura Almeida Coelho. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23"
+  },
+  "870597690": {
+   "fragment_id": "835809029",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23",
+    "Alterado pelo/a 3.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "## Anexo I\n\nO modelo do dispositivo luminoso deve obedecer ao seguinte:\n\n1 - Ser constituído por uma caixa de cor bege-marfim ou branca, cujas arestas podem ser arredondadas, e deve conter a identificação do concelho a que pertence o veículo, o identificador da tarifa e uma luz lateral de cor verde indicadora da situação de livre ou ocupado;\n\n2 - O cabo de ligação do dispositivo luminoso ao taxímetro deve ser blindado e não pode ser seccionado, devendo o sistema incluir um mecanismo de controlo do circuito que, em caso de anomalia, bloqueie de imediato o funcionamento do dispositivo luminoso e do taxímetro.\n\n3 - Os elementos identificadores do dispositivo luminoso têm um fundo preto e são iluminados com cor branca ou amarela à frente e vermelha à retaguarda.\n\n4 - O identificador luminoso da tarifa deve assinalar o algarismo correspondente à tarifa praticada, a letra correspondente ao tipo de serviço executado (C ou P) e a mensagem visual SOS, não devendo, neste último caso, interferir com o regular funcionamento do taxímetro.\n\n5 - A designação do concelho a que o veículo pertence pode ser abreviada, quando o espaço a ela destinado for insuficiente, desde que permita a sua fácil identificação.\n\n6 - As dimensões do dispositivo luminoso são as que constam do modelo, podendo ser superiores até ao limite de 30%, e a luz lateral de cor verde, referida no n.º 1, pode preencher a totalidade do respectivo espaço lateral.\n\n(ver modelo no documento original)\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23\n\n> Alterado pelo/a 3.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "870597691": {
+   "fragment_id": "835809030",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23",
+    "Alterado pelo/a 3.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+   ],
+   "markdown": "## Anexo II\n\nO modelo do distintivo identificador da licença deve obedecer ao seguinte:\n\n1 - Ser pintado ou impresso em material autocolante que garanta condições de aderência e permanência e ser colocado nos guarda-lamas da frente, nos cantos superiores junto às portas e na retaguarda do veículo.\n\n2 - O número da licença e o nome da freguesia ou do concelho, consoante o caso, são de cor preta sobre um fundo bege-marfim ou branco.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23\n\n> Alterado pelo/a 3.º do/a [Portaria n.º 1318/2001 - Diário da República n.º 277/2001, Série I-B de 2001-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), em vigor a partir de 2001-11-29"
+  },
+  "870597692": {
+   "fragment_id": "835809031",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23"
+   ],
+   "markdown": "## Anexo III\n\nO dístico de aferição do taxímetro é impresso em matéria plástica transparente e autocolante com contorno de cor preta, devendo conter as seguintes indicações:\n\n1) Na parte central do círculo, a identificação da entidade aferidora por meio de sigla ou iniciais;\n\n2) Na parte inferior do círculo, o ano da aferição do taxímetro.\n\n(ver modelo no documento original)\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23"
+  },
+  "870597693": {
+   "fragment_id": "853690619",
+   "type": 14,
+   "heading": "Anexo IV",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 134/2010 - Diário da República n.º 42/2010, Série I de 2010-03-02](https://diariodarepublica.pt/dr/detalhe/portaria/134-2010-611278), em vigor a partir de 2010-03-07"
+   ],
+   "markdown": "## Anexo IV\n\nO modelo de painel deve obedecer ao seguinte:\n\n1) Ser constituído por material plástico, que pode ser iluminado no seu interior e alimentado a partir do veículo;\n\n2) Altura não superior a 520 mm entre o tejadilho e o limite máximo do painel;\n\n3) O limite máximo das dimensões é o que consta do modelo gráfico.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 451/2023 - Diário da República n.º 246/2023, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-2023-812826260), em vigor a partir de 2023-12-23\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 134/2010 - Diário da República n.º 42/2010, Série I de 2010-03-02](https://diariodarepublica.pt/dr/detalhe/portaria/134-2010-611278), em vigor a partir de 2010-03-07"
+  }
+ }
+}

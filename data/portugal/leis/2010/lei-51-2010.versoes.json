@@ -1,0 +1,1258 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:307202:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2010-835642838",
+ "dre_path": "/dr/detalhe/lei/51-2010-307202",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-12-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835642763",
+    "835642764",
+    "835642765",
+    "835642766",
+    "835642767",
+    "835642768",
+    "835642769",
+    "835642771",
+    "835642772",
+    "835642773",
+    "835642774",
+    "835642975",
+    "835642976",
+    "835642977",
+    "835642978",
+    "835642979",
+    "835642980",
+    "835642981",
+    "835642982",
+    "835642983",
+    "835642984",
+    "835642985",
+    "835642986",
+    "835642987",
+    "835642988",
+    "835642989",
+    "835642990",
+    "835642991",
+    "835642992",
+    "835642993",
+    "835642994",
+    "835642995",
+    "835642996",
+    "835642997",
+    "835642998",
+    "835642999",
+    "835643000",
+    "835643001",
+    "835643002",
+    "835643003",
+    "835643004",
+    "835643005",
+    "835643006",
+    "835643007",
+    "835643008",
+    "835643009",
+    "835643010",
+    "835643011",
+    "835643012",
+    "835643013",
+    "835643014",
+    "835643015",
+    "835643016",
+    "835643017",
+    "835643018",
+    "835643019",
+    "835643020",
+    "835643021",
+    "835643022",
+    "835643023",
+    "835643024",
+    "835643025",
+    "835643026",
+    "835643027",
+    "835643028",
+    "835643029",
+    "835643030",
+    "835643031",
+    "835643032",
+    "835643033",
+    "835643034",
+    "835643035",
+    "835643036",
+    "835643037",
+    "835643038",
+    "835643039",
+    "835643040",
+    "835643041",
+    "835643042",
+    "835643043",
+    "835643044",
+    "835643045",
+    "835643046",
+    "835643047",
+    "835643048",
+    "835643049",
+    "835643050",
+    "835643051",
+    "835643052",
+    "835643053",
+    "835643054",
+    "835643055",
+    "835643056",
+    "835643057",
+    "835643058",
+    "835643059",
+    "835643060",
+    "835643061",
+    "835643062",
+    "835643063",
+    "835643064",
+    "835643065",
+    "835643066",
+    "835643067",
+    "835643068",
+    "835643069",
+    "835643070",
+    "835643071",
+    "835643072",
+    "835643073",
+    "835643074",
+    "835643175",
+    "835643176",
+    "835643177",
+    "835643178",
+    "835643179",
+    "835643180"
+   ]
+  },
+  {
+   "date": "2015-10-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70179155:por",
+     "title": "Lei n.º 126/2015",
+     "published": "2015-09-03",
+     "dre_path": "/dr/detalhe/lei/126-2015-70179155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "835642763",
+    "835642764",
+    "835643181",
+    "835643182",
+    "835643184",
+    "835643183",
+    "835642769",
+    "835642770",
+    "835642771",
+    "835642772",
+    "835642773",
+    "835642774",
+    "835642975",
+    "835642976",
+    "835642977",
+    "835642978",
+    "835642979",
+    "835642980",
+    "835642981",
+    "835642982",
+    "835642983",
+    "835642984",
+    "835642985",
+    "835642986",
+    "835642987",
+    "835642988",
+    "835642989",
+    "835642990",
+    "835642991",
+    "835642992",
+    "835642993",
+    "835642994",
+    "835642995",
+    "835642996",
+    "835642997",
+    "835642998",
+    "835642999",
+    "835643000",
+    "835643001",
+    "835643002",
+    "835643003",
+    "835643004",
+    "835643005",
+    "835643006",
+    "835643007",
+    "835643008",
+    "835643009",
+    "835643010",
+    "835643011",
+    "835643012",
+    "835643013",
+    "835643014",
+    "835643015",
+    "835643016",
+    "835643017",
+    "835643018",
+    "835643019",
+    "835643020",
+    "835643021",
+    "835643022",
+    "835643023",
+    "835643024",
+    "835643025",
+    "835643026",
+    "835643027",
+    "835643028",
+    "835643029",
+    "835643030",
+    "835643031",
+    "835643032",
+    "835643033",
+    "835643034",
+    "835643035",
+    "835643036",
+    "835643037",
+    "835643038",
+    "835643039",
+    "835643040",
+    "835643041",
+    "835643042",
+    "835643043",
+    "835643044",
+    "835643045",
+    "835643046",
+    "835643047",
+    "835643048",
+    "835643049",
+    "835643050",
+    "835643051",
+    "835643052",
+    "835643053",
+    "835643054",
+    "835643055",
+    "835643056",
+    "835643057",
+    "835643058",
+    "835643059",
+    "835643060",
+    "835643061",
+    "835643062",
+    "835643063",
+    "835643064",
+    "835643065",
+    "835643066",
+    "835643067",
+    "835643068",
+    "835643069",
+    "835643070",
+    "835643071",
+    "835643072",
+    "835643073",
+    "835643074",
+    "835643175",
+    "835643176",
+    "835643177",
+    "835643178",
+    "835643179",
+    "835643180"
+   ]
+  }
+ ],
+ "fragments": {
+  "835642763": {
+   "fragment_id": "835642839",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 51/2010\n\nde 14 de Dezembro\n\nCria a Ordem dos Nutricionistas e aprova o seu Estatuto\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "835642764": {
+   "fragment_id": "835642840",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criada a Ordem dos Nutricionistas e aprovado o seu Estatuto, publicado em anexo à presente lei, da qual faz parte integrante."
+  },
+  "835642765": {
+   "fragment_id": "835642841",
+   "type": 11,
+   "heading": "Artigo 2.º — Profissionais abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Profissionais abrangidos\n\nA Ordem dos Nutricionistas abrange os profissionais licenciados na área das Ciências da Nutrição e ou Dietética que, em conformidade com o respectivo Estatuto e as disposições legais aplicáveis, exercem a profissão de nutricionista ou de dietista."
+  },
+  "835642766": {
+   "fragment_id": "835642842",
+   "type": 11,
+   "heading": "Artigo 3.º — Modalidades de exercício da profissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Modalidades de exercício da profissão\n\n1 - A profissão de nutricionista ou de dietista pode ser exercida de forma liberal, quer a título individual quer em sociedade, ou por conta de outrem.\n\n2 - O exercício da actividade profissional por conta de outrem não afecta a autonomia técnica nem dispensa o cumprimento dos deveres deontológicos."
+  },
+  "835642767": {
+   "fragment_id": "835642843",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\nSão atribuições da Ordem dos Nutricionistas:\n\na) A defesa dos interesses gerais dos utentes dos serviços prestados pelos seus membros, assegurando e fazendo respeitar o direito dos cidadãos a uma nutrição de qualidade;\n\nb) A representação e a defesa dos interesses gerais da profissão de nutricionista e de dietista, zelando, nomeadamente, pela função social, dignidade e prestígio das mesmas;\n\nc) A atribuição, em exclusivo, dos títulos profissionais e a emissão das cédulas profissionais dos seus membros;\n\nd) A defesa do título profissional, incluindo a denúncia das situações de exercício ilegal da profissão, podendo constituir-se assistente em eventual processo-crime;\n\ne) A regulamentação e atribuição dos títulos de especialização profissional, quando existam;\n\nf) A elaboração e a actualização do registo profissional;\n\ng) A defesa da deontologia profissional;\n\nh) O exercício do poder disciplinar sobre os seus membros, incluindo os membros suspensos e os membros estagiários;\n\ni) A prestação de serviços aos seus membros, no respeitante ao exercício profissional, designadamente em relação à informação, à formação profissional e à assistência técnica e jurídica;\n\nj) A colaboração com as demais entidades da Administração Pública na prossecução de fins de interesse público relacionados com a profissão de nutricionista e de dietista;\n\nl) A participação na elaboração da legislação que diga respeito à profissão de nutricionista e de dietista;\n\nm) A participação nos processos oficiais de acreditação e na avaliação dos cursos que dão acesso à profissão de nutricionista e de dietista;\n\nn) A colaboração na definição e implementação de uma política nacional de saúde alimentar em todos os seus aspectos;\n\no) A promoção do desenvolvimento das ciências da nutrição e ou da dietética e do seu ensino;\n\np) Quaisquer outras tarefas que lhe sejam cometidas por lei."
+  },
+  "835642768": {
+   "fragment_id": "835642844",
+   "type": 11,
+   "heading": "Artigo 5.º — Tutela administrativa da Ordem dos Nutricionistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tutela administrativa da Ordem dos Nutricionistas\n\nOs poderes de tutela administrativa sobre a Ordem dos Nutricionistas, nos termos da Lei n.º 6/2008, de 13 de Fevereiro, e do respectivo Estatuto, são exercidos pelo membro do Governo responsável pela área da saúde, podendo ser delegados num secretário de Estado."
+  },
+  "835642769": {
+   "fragment_id": "835642845",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente lei entra em vigor a 1 de Janeiro de 2011."
+  },
+  "835642771": {
+   "fragment_id": "835642847",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "835642772": {
+   "fragment_id": "835642848",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, regime, âmbito e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, regime, âmbito e missão"
+  },
+  "835642773": {
+   "fragment_id": "835642849",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e regime\n\n1 - A Ordem dos Nutricionistas, adiante abreviadamente designada por Ordem, é a associação pública profissional representativa dos que, em conformidade com os preceitos deste Estatuto e as disposições legais aplicáveis, exercem a profissão na área das ciências da nutrição e ou dietética.\n\n2 - A Ordem é uma pessoa colectiva de direito público, integrando a categoria das associações públicas profissionais, que se rege pela presente lei, pela Lei n.º 6/2008, de 13 de Fevereiro, e pelo disposto no presente Estatuto.\n\n3 - A criação da Ordem não prejudica a liberdade de os seus membros criarem associações para a defesa dos seus interesses científicos, culturais ou sócio-profissionais."
+  },
+  "835642774": {
+   "fragment_id": "835642850",
+   "type": 11,
+   "heading": "Artigo 2.º — Autonomia administrativa, patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autonomia administrativa, patrimonial e financeira\n\n1 - A Ordem goza de autonomia administrativa e, no exercício dos seus poderes públicos, pratica a título definitivo, sem prejuízo dos casos de aprovação tutelar previstos na lei, os actos administrativos necessários ao desempenho das suas funções e aprova os regulamentos previstos na lei e no presente Estatuto.\n\n2 - A Ordem dispõe de património próprio e de finanças próprias, bem como de autonomia orçamental.\n\n3 - A autonomia financeira inclui o poder de fixar o valor da contribuição mensal ou anual dos seus membros, bem como as taxas pelos serviços prestados."
+  },
+  "835642975": {
+   "fragment_id": "835642851",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito, sede e delegações regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito, sede e delegações regionais\n\n1 - A Ordem tem âmbito nacional.\n\n2 - A Ordem pode compreender estruturas regionais, às quais incumbe a prossecução das suas atribuições na respectiva área, nos termos do regulamento de organização.\n\n3 - A Ordem tem sede no Porto, podendo porém a mesma ser alterada por deliberação do conselho geral, aprovada por maioria absoluta.\n\n4 - As delegações regionais, caso existam, correspondem às unidades territoriais correspondentes às NUTS II do território nacional, podendo porém agregar as que não contenham o número mínimo de profissionais definido no regulamento referido no n.º 2."
+  },
+  "835642976": {
+   "fragment_id": "835642852",
+   "type": 11,
+   "heading": "Artigo 4.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Missão\n\nÉ missão da Ordem regular e supervisionar o acesso à profissão de nutricionista e de dietista e o seu exercício, elaborando as normas técnicas e deontológicas respectivas, velando pelo cumprimento das normas legais e regulamentares da profissão e exercendo o poder disciplinar sobre os seus membros, no quadro de um regime disciplinar autónomo."
+  },
+  "835642977": {
+   "fragment_id": "835642853",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios de actuação\n\nA Ordem actua pelo respeito dos princípios da legalidade, da igualdade, da proporcionalidade, da justiça e da imparcialidade."
+  },
+  "835642978": {
+   "fragment_id": "835642854",
+   "type": 11,
+   "heading": "Artigo 6.º — Insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Insígnias\n\nA Ordem tem direito a usar emblema e selo próprios, conforme modelos a aprovar pelo conselho geral, sob proposta da direcção."
+  },
+  "835642979": {
+   "fragment_id": "835642855",
+   "type": 1,
+   "heading": "Capítulo II — Organização da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização da Ordem"
+  },
+  "835642980": {
+   "fragment_id": "835642856",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "835642981": {
+   "fragment_id": "835642857",
+   "type": 11,
+   "heading": "Artigo 7.º — Territorialidade e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Territorialidade e competência\n\n1 - A Ordem tem órgãos nacionais, podendo também ter órgãos regionais, nos termos do presente Estatuto.\n\n2 - A organização nacional da Ordem baseia-se na democracia representativa e na separação de órgãos e de poderes.\n\n3 - Nenhum órgão pode exercer competência legal de outro, salvo delegação legalmente admitida e os casos especiais legalmente previstos."
+  },
+  "835642982": {
+   "fragment_id": "835642858",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos nacionais\n\nSão órgãos nacionais da Ordem:\n\na) O conselho geral;\n\nb) O bastonário e o vice-bastonário;\n\nc) A direcção;\n\nd) O conselho jurisdicional;\n\ne) O conselho fiscal."
+  },
+  "835642983": {
+   "fragment_id": "835642859",
+   "type": 11,
+   "heading": "Artigo 9.º — Órgãos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Órgãos regionais\n\nSão órgãos das delegações regionais, havendo-as:\n\na) A assembleia regional;\n\nb) A direcção regional."
+  },
+  "835642984": {
+   "fragment_id": "835642860",
+   "type": 11,
+   "heading": "Artigo 10.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Incompatibilidades\n\n1 - Nenhum membro da Ordem pode pertencer simultaneamente a mais de um dos órgãos referidos no artigo 8.º, ressalvada a integração do bastonário e do vice-bastonário na direcção.\n\n2 - O exercício de cargos nos órgãos da Ordem é incompatível com:\n\na) Cargos de direcção em outras associações de nutricionistas e associações de dietistas;\n\nb) Membros de órgãos de soberania ou de órgãos de governo próprio de região autónoma, bem como de órgãos executivos do poder local;\n\nc) Cargos dirigentes na Administração Pública;\n\nd) Cargos em associações sindicais ou patronais;\n\ne) Outros cargos ou actividades com os quais se verifique um manifesto conflito de interesses, como tal declarado pelo conselho jurisdicional, a pedido da direcção."
+  },
+  "835642985": {
+   "fragment_id": "835642861",
+   "type": 11,
+   "heading": "Artigo 11.º — Duração do mandato e tomada de posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Duração do mandato e tomada de posse\n\n1 - O mandato dos órgãos da Ordem inicia-se no dia 1 de Novembro e tem a duração de três anos.\n\n2 - A constituição ou tomada de posse dos órgãos electivos, conforme os casos, ocorre no dia do início do mandato, salvo se os órgãos não tiverem sido eleitos atempadamente, caso em que o início de funções ocorre no 8.º dia posterior à eleição.\n\n3 - Caso não seja possível o início de funções dos novos titulares no 1.º dia do mandato, os titulares cessantes mantêm-se em funções pelo tempo necessário.\n\n4 - Os titulares dos órgãos nacionais ou regionais não podem ser eleitos ou designados para um terceiro mandato consecutivo no mesmo órgão, nem para um quarto mandato consecutivo em órgãos diferentes."
+  },
+  "835642986": {
+   "fragment_id": "835642862",
+   "type": 11,
+   "heading": "Artigo 12.º — Renúncia e suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Renúncia e suspensão\n\n1 - Os membros dos órgãos da Ordem gozam do direito de renúncia ao cargo para o qual tenham sido eleitos ou designados.\n\n2 - Qualquer membro dos órgãos da Ordem, salvo o bastonário e o vice-bastonário, pode solicitar a suspensão temporária do exercício das suas funções, por motivos devidamente fundamentados, não podendo o tempo total de suspensão exceder seis meses no mesmo mandato.\n\n3 - A renúncia ou suspensão do mandato devem ser comunicadas aos presidentes dos respectivos órgãos, bem como ao presidente da mesa do conselho geral, salvo no caso da renúncia do bastonário e do vice-bastonário, que só deve ser apresentada ao presidente da mesa do conselho geral."
+  },
+  "835642987": {
+   "fragment_id": "835642863",
+   "type": 11,
+   "heading": "Artigo 13.º — Vagatura, substituição e eleição intercalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vagatura, substituição e eleição intercalar\n\n1 - As vagas verificadas em órgãos colegiais que resultem da suspensão, renúncia, morte ou incapacidade, ou outras causas, são preenchidas pelos respectivos substitutos, nos termos do regulamento de organização da Ordem.\n\n2 - No caso de vagatura do cargo de bastonário, é o mesmo substituído pelo vice-bastonário e, na falta deste, pelo presidente do conselho geral, havendo lugar a nova eleição para o cargo deste.\n\n3 - Perdem o mandato, mediante decisão do presidente do órgão a que pertençam ou da respectiva mesa, conforme os casos, os membros que excederem o número de faltas previsto no respectivo regulamento, bem como os que forem condenados a pena disciplinar que os torne inelegíveis para o cargo que exercem, ou que incorrerem em situações de incompatibilidade com o exercício da profissão.\n\n4 - A vagatura de mais de metade dos membros de órgão colegial directamente eleito, depois de esgotadas todas as substituições, obriga à realização de eleições intercalares, salvo se restar menos de um ano para terminar o mandato, caso em que o órgão funcionará com os membros subsistentes, desde que no mínimo de um terço do número total."
+  },
+  "835642988": {
+   "fragment_id": "835642864",
+   "type": 11,
+   "heading": "Artigo 14.º — Gratuitidade dos cargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Gratuitidade dos cargos\n\n1 - Sem prejuízo do disposto no número seguinte, bem como da remuneração do revisor oficial de contas, nos termos do artigo 32.º, o exercício dos cargos nos órgãos da Ordem é gratuito.\n\n2 - Por deliberação do conselho geral, os cargos de bastonário e de presidente do conselho jurisdicional podem ser remunerados.\n\n3 - O disposto no n.º 1 não prejudica o pagamento de despesas de representação ou de deslocação ao serviço da Ordem, nos termos dos regulamentos competentes."
+  },
+  "835642989": {
+   "fragment_id": "835642865",
+   "type": 11,
+   "heading": "Artigo 15.º — Responsabilidade solidária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Responsabilidade solidária\n\n1 - Os membros dos órgãos colegiais respondem solidariamente pelos actos praticados no exercício do mandato que lhes foi conferido.\n\n2 - Ficam isentos de responsabilidade os membros que tenham votado expressamente contra a deliberação em causa, bem como os que não tenham estado presentes na sessão na qual tenha sido tomada a deliberação, desde que tenham manifestado a sua discordância logo que dela tenham tomado conhecimento."
+  },
+  "835642990": {
+   "fragment_id": "835642866",
+   "type": 11,
+   "heading": "Artigo 16.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Vinculação\n\n1 - Para que a Ordem fique obrigada são necessárias as assinaturas do bastonário, ou do seu substituto, e de um outro membro da direcção em efectividade de funções.\n\n2 - A direcção pode constituir mandatário para a prática de certos e determinados actos, devendo para tal fixar com precisão o âmbito e a duração dos poderes conferidos."
+  },
+  "835642991": {
+   "fragment_id": "835642867",
+   "type": 8,
+   "heading": "Secção II — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho geral"
+  },
+  "835642992": {
+   "fragment_id": "835642868",
+   "type": 11,
+   "heading": "Artigo 17.º — Composição e eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Composição e eleição\n\n1 - O conselho geral é composto entre 30 e 50 membros, nos termos do regulamento de organização, eleitos por sufrágio universal e pelo sistema de representação proporcional, segundo o método da média mais alta de Hondt, nos círculos territoriais que correspondem às delegações regionais previstas no n.º 4 do artigo 3.º\n\n2 - Se não existirem delegações regionais, os círculos eleitorais regionais correspondem às unidades territoriais de nível NUTS II, podendo porém ser agregadas a outra as circunscrições regionais que tenham um número de membros inscritos inferior ao previsto no regulamento eleitoral.\n\n3 - Cada círculo regional elege pelo menos dois representantes, sendo os restantes repartidos pelos círculos regionais proporcionalmente ao número de eleitores de cada um.\n\n4 - Incumbe à comissão eleitoral proceder à repartição dos representantes pelos diversos círculos, nos termos dos números anteriores."
+  },
+  "835642993": {
+   "fragment_id": "835642869",
+   "type": 11,
+   "heading": "Artigo 18.º — Competências do conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competências do conselho geral\n\nCompete ao conselho geral:\n\na) Eleger e destituir a sua mesa, nos termos do presente Estatuto e elaborar o seu regimento;\n\nb) Eleger os membros do conselho jurisdicional;\n\nc) Pronunciar-se sobre a nomeação da direcção, sob proposta do bastonário, e eventualmente votar a sua rejeição;\n\nd) Eleger o conselho fiscal;\n\ne) Aprovar o orçamento e o plano de actividades, bem como o relatório e as contas, sob proposta da direcção;\n\nf) Aprovar projectos de alteração do regime legal da Ordem, por maioria absoluta, bem como a proposta da sua extinção, sendo neste caso exigida a sua ratificação por referendo;\n\ng) Aprovar os regulamentos previstos na lei e no presente Estatuto, que não sejam da competência de outros órgãos, bem como os demais regulamentos necessários para o desempenho das atribuições da Ordem;\n\nh) Aprovar o montante de contribuições e taxas, sob proposta da direcção;\n\ni) Aprovar a criação de secções de especialidade e de colégios de especialidade, bem como os títulos de especialidade e os seus regulamentos;\n\nj) Aprovar a celebração de contratos de associação ou de protocolos de cooperação com associações congéneres, nacionais ou estrangeiras, sob proposta da direcção;\n\nl) Aprovar a convocação de referendos, sob proposta do bastonário, por maioria absoluta;\n\nm) Decidir sobre a instituição do provedor dos utentes, sob proposta do bastonário, bem como a sua remuneração."
+  },
+  "835642994": {
+   "fragment_id": "835642870",
+   "type": 11,
+   "heading": "Artigo 19.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Funcionamento\n\n1 - O conselho geral reúne ordinariamente:\n\na) No início do mandato, para a eleição da mesa do conselho geral, do conselho jurisdicional, do conselho fiscal e para ratificação da direcção;\n\nb) Anualmente, para a aprovação do orçamento e plano de actividades, bem como do relatório e contas da direcção;\n\nc) Trimestralmente, para apreciação da gestão da Ordem, na base de um relatório oral apresentado pelo bastonário.\n\n2 - O conselho geral reúne extraordinariamente sempre que as circunstâncias o aconselhem e o seu presidente o convoque, por sua iniciativa ou a pedido da direcção, de qualquer das direcções regionais, se existirem, ou de um mínimo de um terço dos seus membros.\n\n3 - Se à hora marcada para o início da reunião não se encontrar presente pelo menos metade dos membros efectivos, a reunião começará uma hora depois, com os membros presentes, desde que em número não inferior a um terço.\n\n4 - A reunião destinada à discussão e votação do relatório e contas da direcção realiza-se até ao fim do mês de Março do ano imediato ao do exercício respectivo."
+  },
+  "835642995": {
+   "fragment_id": "835642871",
+   "type": 11,
+   "heading": "Artigo 20.º — Convocatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Convocatória\n\n1 - O conselho geral é convocado pelo seu presidente mediante aviso postal ou electrónico expedido para cada um dos membros efectivos, com pelo menos 15 dias de antecedência em relação à data designada para a realização da reunião, salvo caso de urgência, em que a reunião pode ser convocada com a antecedência de apenas 3 dias.\n\n2 - Da convocatória devem constar a ordem de trabalhos, o horário e o local de realização da reunião."
+  },
+  "835642996": {
+   "fragment_id": "835642872",
+   "type": 11,
+   "heading": "Artigo 21.º — Mesa do conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Mesa do conselho geral\n\n1 - A mesa do conselho geral é composta por um presidente e dois secretários, eleitos individualmente por maioria absoluta.\n\n2 - A primeira reunião do conselho geral, até à eleição da mesa, é dirigida pelo membro mais idoso e secretariada pelo membro mais jovem."
+  },
+  "835642997": {
+   "fragment_id": "835642873",
+   "type": 11,
+   "heading": "Artigo 22.º — Votações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Votações\n\n1 - Salvo os casos em que a lei exige maioria absoluta ou mais qualificada, as deliberações do conselho geral são tomadas por maioria simples, descontadas as abstenções, desde que os votos a favor constituam pelo menos um quarto dos membros presentes.\n\n2 - Salvo nos casos de voto secreto previstos na lei, ou por deliberação do próprio Conselho caso a caso, as votações são tomadas por voto aberto."
+  },
+  "835642998": {
+   "fragment_id": "835642874",
+   "type": 8,
+   "heading": "Secção III — Bastonário e vice-bastonário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Bastonário e vice-bastonário"
+  },
+  "835642999": {
+   "fragment_id": "835643075",
+   "type": 11,
+   "heading": "Artigo 23.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Função\n\n1 - O bastonário representa a Ordem e é o presidente da direcção.\n\n2 - O vice-bastonário é o vice-presidente da direcção e substitui o bastonário nas suas faltas ou impedimentos, bem como em caso de vagatura."
+  },
+  "835643000": {
+   "fragment_id": "835643076",
+   "type": 11,
+   "heading": "Artigo 24.º — Eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Eleição\n\n1 - O bastonário e o vice-bastonário são eleitos por sufrágio universal, em lista conjunta.\n\n2 - Para a candidatura ao cargo de bastonário e de vice-bastonário é necessário o mínimo de 10 anos de exercício da profissão e possuir nacionalidade portuguesa.\n\n3 - No caso de nenhuma das candidaturas concorrentes obter maioria absoluta dos votos válidos expressos, realiza-se nova votação duas semanas depois, entre as duas candidaturas mais votadas na primeira votação, que não declarem retirar a sua candidatura.\n\n4 - O bastonário e o vice-bastonário tomam posse perante o conselho geral, na primeira reunião deste."
+  },
+  "835643001": {
+   "fragment_id": "835643077",
+   "type": 11,
+   "heading": "Artigo 25.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competências\n\n1 - Compete ao bastonário:\n\na) Representar a Ordem em juízo e fora dele, designadamente perante os órgãos de soberania e demais órgãos do poder, bem como das organizações europeias e internacionais;\n\nb) Presidir à direcção e designar os respectivos vogais;\n\nc) Dirigir as reuniões da direcção, com voto de qualidade, e participar sem voto, querendo, nas reuniões de todos os órgãos colegiais da Ordem, salvo o conselho jurisdicional;\n\nd) Executar e fazer executar as deliberações da direcção e dos demais órgãos nacionais;\n\ne) Exercer a competência da direcção em casos de reconhecida urgência ou nas situações em que tal competência lhe seja delegada;\n\nf) Assegurar o funcionamento dos serviços da Ordem, no respeito da lei e dos respectivos regulamentos;\n\ng) Solicitar a qualquer órgão da Ordem a elaboração de pareceres relativos a matérias da sua competência;\n\nh) Nomear o provedor dos utentes, se o cargo tiver sido instituído;\n\ni) Impugnar judicialmente, por ilegalidade, os actos dos demais órgãos da Ordem.\n\n2 - O bastonário pode delegar poderes no vice-bastonário ou em qualquer outro membro da direcção da Ordem."
+  },
+  "835643002": {
+   "fragment_id": "835643078",
+   "type": 8,
+   "heading": "Secção IV — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Direcção"
+  },
+  "835643003": {
+   "fragment_id": "835643079",
+   "type": 11,
+   "heading": "Artigo 26.º — Composição e nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Composição e nomeação\n\n1 - A direcção é composta pelo bastonário e pelo vice-bastonário e por um número ímpar de vogais, no mínimo de três e um máximo de cinco.\n\n2 - Os membros da direcção, salvo o bastonário e o vice-bastonário, são nomeados por aquele e são submetidos colectivamente à apreciação do conselho geral antes do início de funções.\n\n3 - O conselho geral pode votar a rejeição da direcção apresentada pelo bastonário, sob proposta de um quarto dos seus membros, cuja aprovação carece de maioria absoluta.\n\n4 - Não havendo proposta de rejeição, ou não sendo ela aprovada, a direcção considera-se ratificada.\n\n5 - Em caso de rejeição da direcção pelo conselho geral ou de posterior aprovação de uma moção de censura por maioria absoluta, o bastonário apresentará novos vogais da direcção à apreciação do conselho, no prazo de duas semanas.\n\n6 - As moções de censura não podem ser discutidas nem votadas senão uma semana depois da sua apresentação ao presidente da mesa do conselho geral."
+  },
+  "835643004": {
+   "fragment_id": "835643080",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competência\n\nCompete à direcção:\n\na) Dirigir a actividade nacional da Ordem;\n\nb) Aprovar a inscrição de novos membros ou mandar suspendê-la ou cancelá-la, nos termos da lei;\n\nc) Elaborar e manter actualizado o registo profissional de todos os seus membros;\n\nd) Dar execução às deliberações do conselho geral e do conselho jurisdicional;\n\ne) Aprovar os regulamentos dos serviços e das instalações da Ordem;\n\nf) Promover a instalação e coordenar as actividades das direcções regionais, se existirem;\n\ng) Dar, directamente ou através de comissões constituídas para o efeito, pareceres e informações a entidades públicas e privadas, no âmbito das atribuições da Ordem;\n\nh) Cobrar as receitas e efectuar as despesas previstas no orçamento;\n\ni) Elaborar e apresentar ao conselho geral o plano e o orçamento, bem como o relatório de actividades e as contas anuais;\n\nj) Deliberar sobre alienação ou oneração de bens da Ordem e a contracção de empréstimos, dentro dos limites de endividamento aprovados no orçamento;\n\nl) Aceitar os legados ou doações feitas à Ordem;\n\nm) Marcar a data das eleições para os órgãos da Ordem directamente eleitos, nos termos do regulamento eleitoral;\n\nn) Dirigir os serviços da Ordem, nomear os dirigentes dos serviços, aprovar a contratação de pessoal e a aquisição ou locação de bens e serviços, bem como praticar os demais actos e realizar os demais contratos necessários à gestão da Ordem;\n\no) Aprovar o estabelecimento de formas de cooperação com outras entidades, públicas ou privadas, que contribuam para o desempenho das atribuições da Ordem;\n\np) Revogar, por sua iniciativa ou mediante recurso, os actos dos órgãos regionais, caso estes sejam instituídos, por ilegalidade ou lesão dos interesses gerais da Ordem, salvo daqueles cuja validade é apreciada pelo conselho jurisdicional;\n\nq) Aprovar os subsídios de deslocação para os membros dos órgãos da Ordem, para efeito das reuniões ou de outras tarefas da Ordem;\n\nr) Aprovar o seu regulamento interno."
+  },
+  "835643005": {
+   "fragment_id": "835643081",
+   "type": 11,
+   "heading": "Artigo 28.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Funcionamento\n\n1 - A direcção reúne ordinariamente uma vez por mês, salvo se uma periodicidade mais frequente for decidida pela própria direcção, e extraordinariamente sempre que convocada pelo seu presidente.\n\n2 - A direcção só pode deliberar validamente quando esteja presente mais de metade dos seus membros.\n\n3 - As deliberações são tomadas por maioria simples dos membros presentes, dispondo o presidente de voto de qualidade."
+  },
+  "835643006": {
+   "fragment_id": "835643082",
+   "type": 8,
+   "heading": "Secção V — Conselho jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Conselho jurisdicional"
+  },
+  "835643007": {
+   "fragment_id": "835643083",
+   "type": 11,
+   "heading": "Artigo 29.º — Composição e designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Composição e designação\n\n1 - O conselho jurisdicional é composto por cinco ou sete membros, nos termos do regulamento de organização, sendo um dos seus membros presidente e os restantes vogais.\n\n2 - Os vogais do conselho jurisdicional são eleitos pelo conselho geral, por maioria de três quintos, de entre membros da Ordem com pelo menos cinco anos de inscrição profissional.\n\n3 - O presidente do conselho jurisdicional é eleito pelo conselho geral sob proposta do bastonário, por uma maioria de dois terços, de entre membros da Ordem com pelo menos 10 anos de exercício profissional ou de entre personalidades de reconhecido mérito alheias à profissão.\n\n4 - Os vogais do conselho de jurisdição são automaticamente reconduzidos para um segundo mandato, sendo renovados metade deles em cada triénio.\n\n5 - Em caso de vagatura, os substitutos terminarão os mandatos em questão, incluindo a recondução automática para segundo mandato, nos termos do n.º 4.\n\n6 - O conselho jurisdicional é um órgão independente, não podendo os seus membros ser destituídos nem censurados pelas suas decisões, sem prejuízo do respectivo controlo jurisdicional."
+  },
+  "835643008": {
+   "fragment_id": "835643084",
+   "type": 11,
+   "heading": "Artigo 30.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competência\n\nCompete ao conselho jurisdicional:\n\na) Instruir e julgar os processos disciplinares contra os membros da Ordem;\n\nb) Decidir os recursos sobre a validade das decisões relativas a perda ou suspensão do mandato dos membros dos órgãos da Ordem, a requerimentos dos interessados;\n\nc) Decidir os recursos sobre a validade das decisões dos demais órgãos da Ordem que afectem directamente direitos dos associados, designadamente em matéria de inscrição, a requerimento dos interessados;\n\nd) Decidir os recursos das decisões em matéria eleitoral, nos termos do n.º 3 do artigo 49.º;\n\ne) Verificar previamente a conformidade legal e regulamentar dos referendos convocados pelo conselho geral;\n\nf) Dar parecer sobre as propostas de código deontológico e de regulamento disciplinar, bem como de regulamentos relativos ao acesso e ao exercício da profissão;\n\ng) Aprovar o seu regulamento interno."
+  },
+  "835643009": {
+   "fragment_id": "835643085",
+   "type": 11,
+   "heading": "Artigo 31.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Funcionamento\n\n1 - O conselho jurisdicional reúne ordinariamente de acordo com a agenda por si aprovada e extraordinariamente quando convocado pelo seu presidente, ou por quem o substitua, nos termos do regulamento interno.\n\n2 - As deliberações são tomadas por maioria, sem direito a abstenção, dispondo o presidente de voto de qualidade.\n\n3 - O conselho jurisdicional pode ser assessorado por um consultor jurídico contratado pela direcção sob proposta do presidente daquele."
+  },
+  "835643010": {
+   "fragment_id": "835643086",
+   "type": 8,
+   "heading": "Secção VI — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Conselho fiscal"
+  },
+  "835643011": {
+   "fragment_id": "835643087",
+   "type": 11,
+   "heading": "Artigo 32.º — Composição e eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Composição e eleição\n\n1 - O conselho fiscal é composto por um presidente e dois vogais, um dos quais obrigatoriamente revisor oficial de contas.\n\n2 - O conselho fiscal é eleito pelo conselho geral, por maioria de três quintos, sob proposta da direcção.\n\n3 - Compete à direcção deliberar sobre a remuneração do revisor oficial de contas."
+  },
+  "835643012": {
+   "fragment_id": "835643088",
+   "type": 11,
+   "heading": "Artigo 33.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Competência\n\nCompete ao conselho fiscal:\n\na) Verificar a gestão patrimonial e financeira da Ordem;\n\nb) Examinar e emitir parecer sobre as contas anuais a apresentar pela direcção ao conselho geral;\n\nc) Pronunciar-se sobre os contratos de empréstimo negociados pela direcção, antes da sua conclusão;\n\nd) Apresentar à direcção as sugestões que entenda de interesse da Ordem em matéria de gestão patrimonial e financeira;\n\ne) Elaborar os pareceres solicitados pelos demais órgãos da Ordem, no âmbito da sua competência."
+  },
+  "835643013": {
+   "fragment_id": "835643089",
+   "type": 8,
+   "heading": "Secção VII — Delegações regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Delegações regionais"
+  },
+  "835643014": {
+   "fragment_id": "835643090",
+   "type": 11,
+   "heading": "Artigo 34.º — Órgãos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Órgãos regionais\n\n1 - A instituição de delegações regionais depende de deliberação do conselho geral, sob proposta da direcção, nos termos de regulamento a aprovar por aquele.\n\n2 - A assembleia regional é composta por todos os membros inscritos na Ordem com domicílio profissional na circunscrição territorial da respectiva delegação regional.\n\n3 - A direcção regional é composta por um presidente e um número par de vogais, num mínimo de dois e num máximo de quatro, eleitos por sufrágio de lista, pelos membros da Ordem inscritos na respectiva circunscrição regional.\n\n4 - As listas concorrentes devem indicar o candidato a presidente e vice-presidente."
+  },
+  "835643015": {
+   "fragment_id": "835643091",
+   "type": 11,
+   "heading": "Artigo 35.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Competência\n\n1 - Compete à assembleia regional:\n\na) Eleger a mesa das reuniões, bem como os membros da direcção regional;\n\nb) Aprovar o orçamento e o plano de actividades, bem como o relatório e as contas da delegação regional;\n\nc) Pronunciar-se sobre assuntos da competência da delegação regional, por iniciativa própria ou a pedido da direcção regional.\n\n2 - Compete à direcção regional:\n\na) Representar a Ordem na respectiva área territorial, designadamente perante as entidades públicas que aí exerçam funções, sempre que mandatada para o efeito pela direcção;\n\nb) Dar execução às deliberações do conselho geral e da assembleia regional e às deliberações e directrizes da direcção nacional;\n\nc) Exercer os poderes delegados pela direcção nacional;\n\nd) Propor e executar o orçamento da delegação regional;\n\ne) Gerir os serviços da delegação regional;\n\nf) Apresentar à direcção nacional o relatório e as contas anuais aprovados pela assembleia regional.\n\n3 - As decisões das assembleias regionais e das direcções regionais são susceptíveis de recurso para a direcção da Ordem, nos termos previstos no Código do Procedimento Administrativo para o recurso hierárquico impróprio, com as necessárias adaptações, não podendo ser impugnadas directamente perante os tribunais."
+  },
+  "835643016": {
+   "fragment_id": "835643092",
+   "type": 8,
+   "heading": "Secção VIII — Secções profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Secções profissionais"
+  },
+  "835643017": {
+   "fragment_id": "835643093",
+   "type": 11,
+   "heading": "Artigo 36.º — Criação e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Criação e competências\n\n1 - Por deliberação do conselho geral, sob proposta da direcção, podem ser criadas secções representativas das diferentes áreas profissionais.\n\n2 - A organização e as competências das secções são reguladas por regulamento do conselho geral."
+  },
+  "835643018": {
+   "fragment_id": "835643094",
+   "type": 8,
+   "heading": "Secção IX — Eleições e referendos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Eleições e referendos"
+  },
+  "835643019": {
+   "fragment_id": "835643095",
+   "type": 11,
+   "heading": "Artigo 37.º — Regulamento eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Regulamento eleitoral\n\n1 - As eleições são regidas pelo regulamento eleitoral, a aprovar pelo conselho geral, com respeito do presente Estatuto e dos princípios gerais do direito eleitoral nacional.\n\n2 - Os casos omissos serão resolvidos por analogia com as leis eleitorais dos órgãos do poder político, conforme os casos."
+  },
+  "835643020": {
+   "fragment_id": "835643096",
+   "type": 11,
+   "heading": "Artigo 38.º — Comissão eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Comissão eleitoral\n\n1 - As eleições directas para os órgãos nacionais e para os órgãos regionais, se existirem, são conduzidas por uma comissão eleitoral composta pela mesa do conselho geral e por um representante de cada uma das listas admitidas a sufrágio, que devem ser indicados conjuntamente com a apresentação das respectivas candidaturas.\n\n2 - A comissão eleitoral é presidida pelo presidente da mesa do conselho geral.\n\n3 - Compete à comissão eleitoral:\n\na) Admitir as candidaturas;\n\nb) Fiscalizar o processo eleitoral e resolver todas as questões surgidas no seu âmbito;\n\nc) Distribuir entre as diferentes candidaturas os meios de apoio disponibilizados pela direcção da Ordem;\n\nd) Proceder ao apuramento dos resultados eleitorais;\n\ne) Decidir os recursos das decisões das mesas das assembleias de voto.\n\n4 - A comissão eleitoral dispõe do apoio dos serviços da Ordem e todos os órgãos da Ordem devem cooperar com ela no exercício das suas funções."
+  },
+  "835643021": {
+   "fragment_id": "835643097",
+   "type": 11,
+   "heading": "Artigo 39.º — Data das eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Data das eleições\n\n1 - As eleições realizar-se-ão simultaneamente para todos os órgãos electivos até duas semanas antes do termo do mandato.\n\n2 - No caso de eleições intercalares, elas têm lugar até ao 60.º dia posterior à verificação do facto que lhes deu origem."
+  },
+  "835643022": {
+   "fragment_id": "835643098",
+   "type": 11,
+   "heading": "Artigo 40.º — Capacidade eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Capacidade eleitoral\n\n1 - Têm direito de voto os membros no pleno gozo dos seus direitos, inscritos na Ordem até à data da marcação das eleições, desde que tenham as quotas em dia.\n\n2 - Sem prejuízo do disposto em relação ao bastonário e ao vice-bastonário, bem como ao conselho jurisdicional, podem ser candidatos aos órgãos da Ordem todos os membros que sejam eleitores, desde que não tenham sido sancionados disciplinarmente nos últimos três anos com uma pena superior a censura."
+  },
+  "835643023": {
+   "fragment_id": "835643099",
+   "type": 11,
+   "heading": "Artigo 41.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Candidaturas\n\n1 - As candidaturas para os órgãos nacionais e para os órgãos regionais, se existirem, são apresentadas perante o presidente da comissão eleitoral.\n\n2 - Cada lista candidata aos órgãos colegiais é subscrita por um mínimo de 50 eleitores, no caso dos órgãos nacionais, e de 20, no caso dos órgãos regionais, devendo as listas incluir os nomes de todos os candidatos efectivos e suplentes a cada um dos órgãos, juntamente com a declaração de aceitação.\n\n3 - As candidaturas a bastonário e vice-bastonário são subscritas pelo menos por 100 eleitores.\n\n4 - As candidaturas são apresentadas com a antecedência estabelecida no regulamento eleitoral."
+  },
+  "835643024": {
+   "fragment_id": "835643100",
+   "type": 11,
+   "heading": "Artigo 42.º — Igualdade de tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Igualdade de tratamento\n\n1 - As listas concorrentes beneficiam de igual tratamento por parte dos órgãos e dos serviços da Ordem.\n\n2 - A Ordem comparticipa nos encargos das eleições e das campanhas eleitorais com montante a fixar pela direcção, a repartir igualmente pelas listas concorrentes."
+  },
+  "835643025": {
+   "fragment_id": "835643101",
+   "type": 11,
+   "heading": "Artigo 43.º — Cadernos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Cadernos eleitorais\n\n1 - Os cadernos eleitorais devem ser afixados na sede nacional e nas sedes das delegações regionais, conforme os casos, com a antecedência prevista no regulamento eleitoral em relação à data da realização da eleição, devendo também ser disponibilizados no sítio da Ordem na Internet.\n\n2 - Da inscrição ou da omissão indevida nos cadernos eleitorais pode qualquer eleitor reclamar para a comissão eleitoral nos oito dias seguintes aos da afixação, devendo esta decidir da reclamação no prazo de 48 horas."
+  },
+  "835643026": {
+   "fragment_id": "835643102",
+   "type": 11,
+   "heading": "Artigo 44.º — Verificação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Verificação das candidaturas\n\n1 - A comissão eleitoral deve verificar a regularidade das candidaturas nos cinco dias subsequentes ao encerramento do prazo para entrega das listas.\n\n2 - Com vista ao suprimento das eventuais irregularidades encontradas, o primeiro subscritor da lista é notificado para as sanar no prazo de três dias úteis.\n\n3 - Findo o prazo referido no número anterior sem que se proceda à regularização das candidaturas, deve a comissão eleitoral rejeitá-las nas vinte e quatro horas seguintes."
+  },
+  "835643027": {
+   "fragment_id": "835643103",
+   "type": 11,
+   "heading": "Artigo 45.º — Boletins de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Boletins de voto\n\n1 - Os boletins de voto são editados pela Ordem, sob controlo da comissão eleitoral.\n\n2 - Os boletins de voto, bem como as listas de candidatura, são enviados a todos os eleitores até uma semana antes da data marcada para o acto eleitoral e devem estar disponíveis nos locais de voto."
+  },
+  "835643028": {
+   "fragment_id": "835643104",
+   "type": 11,
+   "heading": "Artigo 46.º — Identificação dos eleitores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Identificação dos eleitores\n\nA identificação dos eleitores é feita através da cédula profissional e, na sua falta, por meio do cartão de cidadão ou qualquer outro elemento de identificação com fotografia, aceite pela mesa de voto."
+  },
+  "835643029": {
+   "fragment_id": "835643105",
+   "type": 11,
+   "heading": "Artigo 47.º — Assembleias de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Assembleias de voto\n\n1 - Para efeito de eleição, constituem-se, pelo menos, tantas assembleias de voto quantos os círculos eleitorais, incluindo a mesa de voto na sede nacional.\n\n2 - A comissão eleitoral pode determinar o desdobramento territorial dos círculos eleitorais."
+  },
+  "835643030": {
+   "fragment_id": "835643106",
+   "type": 11,
+   "heading": "Artigo 48.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Votação\n\n1 - O voto pode ser exercido de forma presencial ou por via postal, nos termos do regulamento eleitoral.\n\n2 - O exercício do voto por via postal implica a renúncia ao voto presencial, sendo os votantes descarregados dos cadernos eleitorais presenciais.\n\n3 - É vedado o voto por procuração."
+  },
+  "835643031": {
+   "fragment_id": "835643107",
+   "type": 11,
+   "heading": "Artigo 49.º — Reclamações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Reclamações e recursos\n\n1 - Os eleitores e os candidatos podem apresentar reclamação às mesas de voto, com fundamento em irregularidades do acto eleitoral, que devem ser decididas até ao encerramento da assembleia.\n\n2 - Das decisões das reclamações cabe recurso imediato para a comissão eleitoral, a qual deve apreciá-los no prazo de 48 horas, antes de proceder ao apuramento definitivo, sendo a decisão comunicada aos recorrentes por escrito e afixada na sede e no sítio electrónico da Ordem.\n\n3 - Das decisões da comissão eleitoral cabe recurso para o conselho jurisdicional, no prazo de três dias úteis contados da data da sua afixação.\n\n4 - O conselho jurisdicional é convocado pelo respectivo presidente para decidir os recursos nos oito dias seguintes."
+  },
+  "835643032": {
+   "fragment_id": "835643108",
+   "type": 11,
+   "heading": "Artigo 50.º — Referendos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Referendos\n\n1 - Por deliberação do conselho geral, tomada por maioria absoluta, sob proposta do bastonário, podem ser submetidas a referendo consultivo ou vinculativo dos membros da Ordem quaisquer questões da competência daquele órgão, do bastonário ou da direcção, ressalvadas as questões financeiras ou disciplinares.\n\n2 - Está sujeita a referendo obrigatório a aprovação de proposta de dissolução da Ordem.\n\n3 - A realização de qualquer referendo é precedida obrigatoriamente pela verificação da sua conformidade legal e regulamentar pelo conselho jurisdicional, sob pena de nulidade.\n\n4 - A organização dos referendos obedece ao regime previsto para as eleições, com as necessárias adaptações, nos termos do competente regulamento.\n\n5 - Os casos omissos serão solucionados de acordo com os princípios gerais do regime dos referendos políticos e legislativos, estabelecido na Constituição e na lei."
+  },
+  "835643033": {
+   "fragment_id": "835643109",
+   "type": 11,
+   "heading": "Artigo 51.º — Secções profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Secções profissionais\n\nO mandato, a competência e a forma de eleição dos órgãos das secções profissionais, quando existam, constam de regulamento próprio."
+  },
+  "835643034": {
+   "fragment_id": "835643110",
+   "type": 1,
+   "heading": "Capítulo III — Tutela e responsabilidade externa da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Tutela e responsabilidade externa da Ordem"
+  },
+  "835643035": {
+   "fragment_id": "835643111",
+   "type": 11,
+   "heading": "Artigo 52.º — Tutela ministerial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Tutela ministerial\n\n1 - Ressalvados os casos previstos na lei, os actos e regulamentos da Ordem não estão sujeitos a autorização nem aprovação governamental.\n\n2 - Compete ao bastonário submeter a aprovação tutelar, nos termos da lei, os regulamentos que versem sobre os estágios profissionais e as provas profissionais de acesso à profissão, sobre as quotas e taxas associativas e sobre as especialidades profissionais."
+  },
+  "835643036": {
+   "fragment_id": "835643112",
+   "type": 11,
+   "heading": "Artigo 53.º — Relatório anual e deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Relatório anual e deveres de informação\n\n1 - A Ordem elabora anualmente um relatório sobre o desempenho das suas atribuições, que é presente à Assembleia da República e ao Governo.\n\n2 - A Ordem presta à Assembleia da República e ao Governo toda a informação que lhe seja solicitada relativamente ao exercício das suas atribuições.\n\n3 - O bastonário deve corresponder ao pedido das comissões parlamentares competentes para prestar as informações e esclarecimentos de que estas necessitem."
+  },
+  "835643037": {
+   "fragment_id": "835643113",
+   "type": 11,
+   "heading": "Artigo 54.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Recursos\n\n1 - Dos actos praticados pelos órgãos da Ordem no exercício de poderes públicos cabe recurso contencioso para os tribunais administrativos nos termos da lei.\n\n2 - Todavia, os referidos recursos jurisdicionais não podem ser interpostos antes de serem esgotados os recursos internos previstos nesta lei, designadamente os recursos para o conselho jurisdicional."
+  },
+  "835643038": {
+   "fragment_id": "835643114",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão administrativa, patrimonial e financeira da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão administrativa, patrimonial e financeira da Ordem"
+  },
+  "835643039": {
+   "fragment_id": "835643115",
+   "type": 11,
+   "heading": "Artigo 55.º — Ano social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Ano social\n\nO ano social corresponde ao ano civil."
+  },
+  "835643040": {
+   "fragment_id": "835643116",
+   "type": 11,
+   "heading": "Artigo 56.º — Gestão administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Gestão administrativa\n\n1 - A Ordem dispõe de serviços necessários ao desempenho das suas atribuições, nos termos do respectivo regulamento.\n\n2 - O pessoal está sujeito ao regime do contrato de trabalho, com as ressalvas estabelecidas na lei para salvaguardar a igualdade e não discriminação no acesso ao emprego em entidades públicas."
+  },
+  "835643041": {
+   "fragment_id": "835643117",
+   "type": 11,
+   "heading": "Artigo 57.º — Autonomia financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Autonomia financeira\n\nA Ordem goza de autonomia orçamental e financeira, sem prejuízo da tutela prevista neste Estatuto e na Lei n.º 6/2008, de 13 de Fevereiro, bem como da submissão à jurisdição do Tribunal de Contas."
+  },
+  "835643042": {
+   "fragment_id": "835643118",
+   "type": 11,
+   "heading": "Artigo 58.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Receitas\n\n1 - Constituem receitas da Ordem:\n\na) As contribuições regulares dos seus membros;\n\nb) As taxas por actos ou serviços específicos;\n\nc) O produto da venda das suas publicações;\n\nd) As doações, heranças, legados e subsídios;\n\ne) Os rendimentos de bens e de aplicações financeiras;\n\nf) As receitas provenientes de actividades e projectos;\n\ng) O produto da prestação de serviços;\n\nf) Outras receitas previstas na lei.\n\n2 - A Ordem pode recorrer ao crédito dentro dos limites previstos na lei e até ao montante previsto no orçamento aprovado pelo conselho geral."
+  },
+  "835643043": {
+   "fragment_id": "835643119",
+   "type": 11,
+   "heading": "Artigo 59.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Despesas\n\nConstituem despesas da Ordem os gastos com instalações e equipamento e com o pessoal, bem como com todas as actividades necessárias ao desempenho das suas atribuições."
+  },
+  "835643044": {
+   "fragment_id": "835643120",
+   "type": 1,
+   "heading": "Capítulo V — Membros da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Membros da Ordem"
+  },
+  "835643045": {
+   "fragment_id": "835643121",
+   "type": 8,
+   "heading": "Secção I — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Inscrição"
+  },
+  "835643046": {
+   "fragment_id": "835643122",
+   "type": 11,
+   "heading": "Artigo 60.º — Obrigatoriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Obrigatoriedade\n\n1 - A atribuição do título profissional, o seu uso e o exercício da profissão de nutricionista e dietista, em qualquer sector de actividade, dependem da inscrição na Ordem como membro efectivo.\n\n2 - O uso ilegal do título profissional ou o exercício da profissão sem título são punidos nos termos da lei penal.\n\n3 - Ninguém pode contratar ou utilizar serviços a profissionais que não estejam inscritos na Ordem.\n\n4 - A infracção ao disposto no número anterior constitui contra-ordenação, punível com coima no montante equivalente a entre 3 e 10 IAS, a aplicar pelo Ministro da Saúde, sob proposta da Ordem, à qual compete a instrução do processo e que beneficia de 40 % do montante das coimas aplicadas."
+  },
+  "835643047": {
+   "fragment_id": "835643123",
+   "type": 11,
+   "heading": "Artigo 61.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Inscrição\n\n1 - Podem inscrever-se na Ordem:\n\na) Os profissionais que detenham licenciatura nas diferentes áreas das ciências da nutrição e ou dietética, conferida por instituições de ensino superior portuguesas ou por instituições estrangeiras, desde que reconhecidas nos termos da lei;\n\nb) Os profissionais que detenham licenciatura noutros cursos de ensino superior que pelo seu plano de estudos sejam considerados apropriados para o acesso à profissão, mediante portaria do Ministro da Saúde, sob proposta, ou precedendo parecer da Ordem dos Nutricionistas;\n\nc) Os nacionais de outros Estados membros da União Europeia que sejam titulares das habilitações académicas e profissionais requeridas legalmente para o exercício da profissão no respectivo Estado de origem;\n\nd) Os nacionais de outros Estados em condições de reciprocidade, desde que obtenham a equiparação, nos termos da lei.\n\n2 - Todos os que possuam os requisitos para o exercício da profissão na área das ciências da nutrição e ou dietética nos termos do número anterior e não estejam impedidos de a exercer, bem como aqueles que legalmente já exerçam essa profissão à data da criação da Ordem, têm direito à inscrição na Ordem.\n\n3 - A inscrição na Ordem só pode ser recusada nos seguintes casos:\n\na) Por motivo de falta dos requisitos académicos e profissionais na área das ciências da nutrição;\n\nb) Por motivo de condenação em sanção de interdição ou suspensão do exercício da profissão prevista na lei, por motivo de infracção criminal, contra-ordenacional ou disciplinar."
+  },
+  "835643048": {
+   "fragment_id": "835643124",
+   "type": 11,
+   "heading": "Artigo 62.º — Estagiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Estagiários\n\n1 - Devem inscrever-se como estagiários os candidatos ao acesso à profissão, até à aprovação nas provas de habilitação profissional.\n\n2 - Os estagiários podem ser isentos de quota ou sujeitos ao pagamento de quota reduzida.\n\n3 - Os estagiários estão sujeitos à jurisdição da Ordem, incluindo o poder disciplinar, estando porém impedidos de participar na sua vida institucional."
+  },
+  "835643049": {
+   "fragment_id": "835643125",
+   "type": 11,
+   "heading": "Artigo 63.º — Estágio profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Estágio profissional\n\n1 - Para a passagem a membro efectivo da Ordem, o respectivo membro tem obrigatoriamente de realizar um estágio profissional orientado, sob supervisão da Ordem.\n\n2 - O estágio profissional tem uma duração entre 6 e 12 meses, nos termos do regulamento de estágio da Ordem, podendo variar conforme as habilitações académicas do candidato.\n\n3 - Além da prática profissional orientada por um profissional na área das ciências da nutrição e ou dietética com mais de 10 anos de exercício profissional, o estágio profissional pode incluir a frequência de cursos, conferências, workshops, seminários e iniciativas semelhantes, organizadas pela Ordem ou por ela recomendadas, sendo obrigatório um seminário sobre deontologia profissional.\n\n4 - O disposto neste preceito não prejudica os regimes de estágio previstos nos serviços públicos de saúde ou outros, que é equiparado ao estágio previsto nos números anteriores."
+  },
+  "835643050": {
+   "fragment_id": "835643126",
+   "type": 11,
+   "heading": "Artigo 64.º — Provas de habilitação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Provas de habilitação profissional\n\n1 - O título profissional, com a inscrição na Ordem como membro efectivo, depende da aprovação nas provas de habilitação profissional, as quais incluem:\n\na) Apreciação oral do relatório de estágio do candidato, que será acompanhado do relatório do orientador de estágio;\n\nb) Prova oral sobre conhecimentos de deontologia profissional.\n\n2 - No caso dos profissionais que tenham obtido aprovação nos estágios oficiais dos serviços públicos de saúde ou outros, haverá somente a prova prevista na alínea b) do número anterior.\n\n3 - As provas de habilitação profissional são da competência de um júri constituído por três profissionais com mais de 10 anos de actividade profissional, nomeado pela direcção da Ordem, nos termos do regulamento de estágio.\n\n4 - Em caso de reprovação na prova do relatório de estágio, o candidato tem de continuar o estágio por mais seis meses, com sujeição a nova prova.\n\n5 - Em caso de reprovação na prova de conhecimentos deontológicos, há repetição da prova no prazo de 30 dias, salvo se se verificar a situação do número anterior, caso em que ambas as provas se realizam na mesma data."
+  },
+  "835643051": {
+   "fragment_id": "835643127",
+   "type": 11,
+   "heading": "Artigo 65.º — Cédula profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Cédula profissional\n\n1 - Com a inscrição é emitida a cédula profissional, assinada pelo bastonário.\n\n2 - A cédula profissional segue modelo a aprovar pela direcção."
+  },
+  "835643052": {
+   "fragment_id": "835643128",
+   "type": 11,
+   "heading": "Artigo 66.º — Suspensão e cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Suspensão e cancelamento\n\n1 - São suspensos da Ordem os membros que:\n\na) Por sua iniciativa requeiram a suspensão;\n\nb) Se encontrem temporariamente em situação de incompatibilidade com o exercício da profissão;\n\nc) Sejam punidos com a sanção disciplinar de suspensão ou sujeitos a suspensão preventiva em procedimento disciplinar.\n\n2 - É cancelada a inscrição na Ordem aos membros que:\n\na) Deixem de exercer a actividade profissional e que assim o comuniquem à direcção;\n\nb) Sejam punidos com sanção disciplinar de expulsão ou com sanção penal, ou outra, de interdição profissional, nos termos da lei."
+  },
+  "835643053": {
+   "fragment_id": "835643129",
+   "type": 8,
+   "heading": "Secção II — Direitos e deveres sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direitos e deveres sociais"
+  },
+  "835643054": {
+   "fragment_id": "835643130",
+   "type": 11,
+   "heading": "Artigo 67.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Direitos\n\n1 - Constituem direitos dos membros efectivos:\n\na) Eleger e ser eleito para os órgãos da Ordem, salvo as incapacidades previstas na presente lei;\n\nb) Participar nas actividades da Ordem e exercer quaisquer funções no seu âmbito;\n\nc) Ser apoiado pela Ordem para defesa dos seus direitos e interesses profissionais, salvo em relação a situações que envolvam responsabilidade disciplinar perante a Ordem;\n\nd) Ser informado pela Ordem acerca dos estudos, relatórios e pareceres relativos ao exercício da profissão;\n\ne) Participar e beneficiar da actividade social e científica da Ordem e utilizar os serviços oferecidos pela Ordem;\n\nf) Requerer a sua cédula profissional e os demais documentos necessários ao exercício da profissão;\n\ng) Exercer o direito de defesa em qualquer procedimento disciplinar e recorrer dos actos que afectem os seus direitos;\n\nh) Requerer os títulos de especialidade, nos termos dos regulamentos aplicáveis;\n\ni) Solicitar a comprovação oficial da sua qualificação profissional;\n\nj) Solicitar a suspensão ou o cancelamento da sua inscrição, nos termos do artigo 66.º\n\n2 - Os membros estagiários gozam dos direitos que lhe não estejam vedados e que não sejam incompatíveis com a sua condição."
+  },
+  "835643055": {
+   "fragment_id": "835643131",
+   "type": 11,
+   "heading": "Artigo 68.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Deveres\n\n1 - Constituem deveres dos membros efectivos:\n\na) Participar na vida institucional da Ordem;\n\nb) Pagar as contribuições e taxas devidas e os demais encargos regulamentares;\n\nc) Cumprir e fazer cumprir as leis, os regulamentos e as deliberações dos órgãos da Ordem;\n\nd) Prestar a comissões e grupos de trabalho a colaboração que lhes seja solicitada;\n\ne) Desempenhar os cargos para que sejam eleitos e as funções para as quais sejam designados com o seu consentimento ou que constituam uma obrigação nos termos da presente lei;\n\nf) Contribuir para a boa reputação da Ordem e procurar alargar o seu âmbito de influência;\n\ng) Agir solidariamente na defesa dos interesses colectivos dos membros da Ordem;\n\nh) Manter a Ordem informada quanto a todos os dados pessoais e profissionais constantes do registo profissional, nomeadamente quanto ao domicílio profissional e quanto a impedimentos ao exercício profissional.\n\n2 - Os membros estagiários estão sujeitos aos deveres que não sejam incompatíveis com a sua condição."
+  },
+  "835643056": {
+   "fragment_id": "835643132",
+   "type": 11,
+   "heading": "Artigo 69.º — Não pagamento de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Não pagamento de contribuições\n\nO não pagamento de contribuições por período superior a um ano, após aviso prévio, determina o impedimento de participação na vida institucional da Ordem, bem como de usufruir dos seus serviços, enquanto perdurar aquela situação."
+  },
+  "835643057": {
+   "fragment_id": "835643133",
+   "type": 1,
+   "heading": "Capítulo VI — Regime disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime disciplinar"
+  },
+  "835643058": {
+   "fragment_id": "835643134",
+   "type": 11,
+   "heading": "Artigo 70.º — Princípio da responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Princípio da responsabilidade\n\n1 - Os membros da Ordem respondem disciplinarmente pelas infracções aos seus deveres, nos termos da presente lei e do regulamento disciplinar.\n\n2 - A responsabilidade disciplinar dos membros perante a Ordem por infracção aos deveres deontológicos ou aos deveres sociais é independente da responsabilidade disciplinar dos nutricionistas perante as entidades empregadoras, por infracção dos deveres emergentes de relações de trabalho.\n\n3 - A responsabilidade disciplinar é independente da responsabilidade civil e criminal decorrente dos mesmos actos, sem prejuízo dos números seguintes.\n\n4 - A acusação por crime praticado no exercício de funções profissionais acarreta a obrigação de instauração de procedimento disciplinar, caso não tenha sido instaurado, e a condenação penal acarreta a suspensão preventiva do visado.\n\n5 - Os factos apurados em processo penal consideram-se também provados em processo disciplinar."
+  },
+  "835643059": {
+   "fragment_id": "835643135",
+   "type": 11,
+   "heading": "Artigo 71.º — Exercício da acção disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Exercício da acção disciplinar\n\n1 - Podem desencadear o procedimento disciplinar o bastonário, a direcção nacional e as direcções regionais, o Ministério Público e, oficiosamente, o próprio presidente do conselho jurisdicional.\n\n2 - A iniciativa de procedimento disciplinar cabe ainda ao provedor dos utentes, se existir.\n\n3 - O procedimento disciplinar contra o bastonário ou contra qualquer membro do conselho jurisdicional só pode ser instaurado por deliberação do conselho geral aprovada por maioria absoluta.\n\n4 - O procedimento disciplinar rege-se por regulamento aprovado pelo conselho geral, sendo supletivamente aplicável o regime do procedimento disciplinar da Administração Pública."
+  },
+  "835643060": {
+   "fragment_id": "835643136",
+   "type": 11,
+   "heading": "Artigo 72.º — Infracção disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Infracção disciplinar\n\n1 - Considera-se infracção disciplinar toda a acção ou omissão que consista em violação dolosa ou culposa, por qualquer membro da Ordem, dos deveres consignados na lei, no código deontológico ou nos regulamentos.\n\n2 - Qualquer pessoa singular ou colectiva pode dar conhecimento à Ordem de actos susceptíveis de constituir infracção disciplinar praticados por qualquer membro da Ordem."
+  },
+  "835643061": {
+   "fragment_id": "835643137",
+   "type": 11,
+   "heading": "Artigo 73.º — Prescrição da responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Prescrição da responsabilidade disciplinar\n\n1 - As infracções disciplinares prescrevem no prazo de cinco anos a contar da prática do acto, ou do último acto em caso de prática continuada.\n\n2 - Se as infracções constituírem simultaneamente infracções penais, prescrevem no mesmo prazo que o procedimento criminal, se este for superior.\n\n3 - A responsabilidade disciplinar também prescreve se, desde a participação da infracção cometida a qualquer órgão da Ordem não se iniciar o procedimento disciplinar competente num período de nove meses."
+  },
+  "835643062": {
+   "fragment_id": "835643138",
+   "type": 11,
+   "heading": "Artigo 74.º — Cessação da responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Cessação da responsabilidade disciplinar\n\nA responsabilidade disciplinar mantém-se durante o período de suspensão da inscrição na Ordem e não cessa com o pedido de cancelamento da inscrição, nem com a expulsão, por infracções anteriormente praticadas."
+  },
+  "835643063": {
+   "fragment_id": "835643139",
+   "type": 11,
+   "heading": "Artigo 75.º — Penas disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Penas disciplinares\n\n1 - As penas disciplinares são as seguintes:\n\na) Advertência;\n\nb) Censura;\n\nc) Sanção pecuniária, entre 1 e 10 IAS;\n\nd) Suspensão dos direitos e regalias em relação à Ordem, incluindo direitos eleitorais, até um máximo de dois anos;\n\ne) Suspensão do exercício profissional até ao máximo de dois anos;\n\nf) Interdição profissional.\n\n2 - A pena prevista na alínea a) é aplicada às infracções praticadas com culpa leve, de que não tenha resultado prejuízo grave para terceiro nem para a Ordem.\n\n3 - A pena prevista na alínea b) é aplicada às infracções disciplinares praticadas com negligência grave por infracção sem gravidade ou em caso de reincidência na infracção referida no número anterior.\n\n4 - A pena prevista na alínea c) é aplicável a infracções graves que não devam ser punidas com pena mais severa.\n\n5 - A pena prevista na alínea d) é aplicável a infracção que afecte gravemente a dignidade e o prestígio da profissão ou lese direitos ou interesses relevantes de terceiros.\n\n6 - A pena prevista na alínea e) é aplicável quando, tendo em conta a natureza da profissão, a infracção disciplinar tenha posto em causa a vida, a integridade física das pessoas ou seja gravemente lesiva da honra ou do património alheios ou de valores equivalentes.\n\n7 - A aplicação de penas mais graves do que a de censura a membro que exerça algum cargo nos órgãos da Ordem implica a destituição desse cargo.\n\n8 - A aplicação da pena de expulsão, bem como a aplicação de qualquer sanção disciplinar ao bastonário, não podem ser aprovadas sem o voto favorável do presidente do conselho jurisdicional.\n\n9 - A aplicação das penas de suspensão ou de expulsão só pode ter lugar precedendo audiência pública, salvo falta do arguido, nos termos do regulamento disciplinar.\n\n10 - Salvo quando o conselho jurisdicional justificadamente determinar outra coisa, por razões ligadas à defesa dos interesses da Ordem ou de direitos ou interesses legítimos de terceiros, as sanções disciplinares são sempre tornadas públicas."
+  },
+  "835643064": {
+   "fragment_id": "835643140",
+   "type": 11,
+   "heading": "Artigo 76.º — Graduação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Graduação\n\nNa aplicação das penas deve atender-se aos antecedentes profissionais e disciplinares do arguido, ao grau de culpa, à gravidade e consequências da infracção e a todas as demais circunstâncias agravantes ou atenuantes."
+  },
+  "835643065": {
+   "fragment_id": "835643141",
+   "type": 1,
+   "heading": "Capítulo VII — Deontologia profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Deontologia profissional"
+  },
+  "835643066": {
+   "fragment_id": "835643142",
+   "type": 11,
+   "heading": "Artigo 77.º — Deveres gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Deveres gerais\n\nSão deveres gerais dos membros da Ordem:\n\na) Actuar com independência e isenção profissional;\n\nb) Prestigiar e dignificar a profissão;\n\nc) Exercer a sua actividade com diligência e zelo;\n\nd) Utilizar os instrumentos científicos e técnicos adequados ao rigor exigido na prática da profissão;\n\ne) Colocar a sua capacidade ao serviço do interesse público inerente à profissão;\n\nf) Defender e fazer defender o sigilo profissional, quando seja devido;\n\ng) Conhecer e agir com respeito pelos preceitos legais e regulamentares;\n\nh) Respeitar as incompatibilidades que decorram da lei."
+  },
+  "835643067": {
+   "fragment_id": "835643143",
+   "type": 11,
+   "heading": "Artigo 78.º — Deveres específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Deveres específicos\n\nConstituem deveres específicos, entre outros definidos no código deontológico:\n\na) O desempenho de funções de orientação de estágio profissional, salvo motivo justificado;\n\nb) O desempenho de funções em júris de provas de habilitação profissional, salvo motivo justificado;\n\nc) A cooperação em procedimentos disciplinares;\n\nd) A denúncia das situações de exercício ilegal da profissão, por falta de habilitações académicas e profissionais, incluindo a falta de inscrição na Ordem, ou por motivo de suspensão ou interdição profissional."
+  },
+  "835643068": {
+   "fragment_id": "835643144",
+   "type": 11,
+   "heading": "Artigo 79.º — Deveres negativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Deveres negativos\n\nOs membros da Ordem, no exercício da sua actividade profissional, devem:\n\na) Abster-se de exercer a sua actividade em áreas do exercício profissional para as quais não tenha recebido formação específica;\n\nb) Recusar quaisquer interferências no exercício da sua actividade que ponham em causa aspectos técnico-científicos ou éticos do exercício profissional, independentemente das suas funções e dependências hierárquicas ou do local onde exerce a sua actividade;\n\nc) Abster-se de utilizar materiais específicos da profissão para os quais não tenha recebido formação, que saiba desactualizados ou que sejam desadequados ao contexto de aplicação."
+  },
+  "835643069": {
+   "fragment_id": "835643145",
+   "type": 11,
+   "heading": "Artigo 80.º — Deveres recíprocos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Deveres recíprocos\n\nOs membros da Ordem, no exercício da sua profissão, devem:\n\na) Tratar os colegas com urbanidade e respeito;\n\nb) Não denegrir o trabalho dos colegas, sem prejuízo da liberdade de apreciação crítica;\n\nc) Abster-se de actos de concorrência desleal, sem prejuízo da liberdade de concorrência na prestação de serviços."
+  },
+  "835643070": {
+   "fragment_id": "835643146",
+   "type": 11,
+   "heading": "Artigo 81.º — Código deontológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Código deontológico\n\n1 - A Ordem aprova o código deontológico dos profissionais na área das ciências da nutrição e ou dietética.\n\n2 - A elaboração e revisão do código deontológico devem ser precedidas de debate público."
+  },
+  "835643071": {
+   "fragment_id": "835643147",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "835643072": {
+   "fragment_id": "835643148",
+   "type": 11,
+   "heading": "Artigo 82.º — Comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Comissão instaladora\n\n1 - A Ordem considera-se efectivamente instalada com a primeira reunião do conselho geral e a concomitante tomada de posse do primeiro bastonário eleito nos termos do presente Estatuto.\n\n2 - Até essa data, a Ordem é interinamente gerida por uma comissão instaladora, com poderes limitados para esse efeito.\n\n3 - A comissão instaladora é composta por cinco elementos, incluindo o presidente.\n\n4 - A comissão instaladora é nomeada pelo membro do Governo responsável pela área da saúde, no prazo de 60 dias após a entrada em vigor da presente lei, após audição das associações profissionais interessadas, podendo os seus membros ser substituídos nos mesmos termos.\n\n5 - O mandato da comissão instaladora tem a duração máxima de um ano a partir da data da sua nomeação, cessando com a investidura dos órgãos nacionais da Ordem, nos termos do n.º 1.\n\n6 - Se, no prazo definido no número anterior não tiverem sido eleitos os órgãos da Ordem, o Ministro da Saúde pode determinar a prorrogação do mandato da comissão instaladora, simultaneamente com a marcação da data das eleições."
+  },
+  "835643073": {
+   "fragment_id": "835643149",
+   "type": 11,
+   "heading": "Artigo 83.º — Competência e funcionamento da comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Competência e funcionamento da comissão instaladora\n\n1 - Compete à comissão instaladora:\n\na) Promover as inscrições na Ordem nos termos da presente lei e aprovar o respectivo regulamento provisório, incluindo o valor provisório das taxas de inscrição;\n\nb) Elaborar e manter actualizado o registo nacional dos profissionais na área das ciências da nutrição e ou dietética e torná-lo público no sítio da Ordem na Internet;\n\nc) Preparar e submeter a aprovação ministerial os regulamentos necessários à entrada em funcionamento da Ordem, nomeadamente os respeitantes aos actos eleitorais;\n\nd) Preparar os actos eleitorais e proceder à convocação e organização das primeiras eleições para os órgãos da Ordem, nos termos da presente lei, até 30 dias antes do termo do seu mandato e apreciar os eventuais recursos;\n\ne) Realizar todos os actos necessários à instalação e início do funcionamento da Ordem;\n\nf) Convocar a primeira reunião do conselho geral, que incluirá a tomada de posse do bastonário e do vice-bastonário, nos 15 dias posteriores ao apuramento dos resultados eleitorais, ou do julgamento dos recursos, se os houver;\n\ng) Prestar contas do mandato exercido mediante relatório dirigido ao ministro da tutela e aos órgãos eleitos da Ordem.\n\n2 - Na prossecução das suas competências, a comissão instaladora rege-se pelo presente Estatuto com as necessárias adaptações.\n\n3 - As despesas da comissão instaladora, nos termos definidos no despacho ministerial, correm por conta da Ordem, sendo satisfeitas designadamente por via da receita das taxas de inscrição cobradas."
+  },
+  "835643074": {
+   "fragment_id": "835643150",
+   "type": 11,
+   "heading": "Artigo 84.º — Inscrição na Ordem no período de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Inscrição na Ordem no período de instalação\n\n1 - Sem prejuízo dos impedimentos previstos na lei, podem requerer à comissão instaladora a sua inscrição como membros efectivos da Ordem os profissionais em actividade que, tendo um título académico habilitante, nos termos do presente Estatuto, comprovem o exercício da actividade profissional durante um período mínimo de 12 meses, até 30 dias antes da data marcada para as primeiras eleições, nos termos a definir por aquela.\n\n2 - Presume-se que preenchem o requisito de exercício profissional referido no número anterior os profissionais que sejam associados há mais de um ano da Associação Portuguesa dos Nutricionistas, da Associação Portuguesa de Dietistas ou de outra equiparada."
+  },
+  "835643175": {
+   "fragment_id": "835643151",
+   "type": 11,
+   "heading": "Artigo 85.º — Dispensa transitória de estágio e de provas de habilitação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Dispensa transitória de estágio e de provas de habilitação profissional\n\n1 - Sem prejuízo dos estágios profissionais previstos nos serviços públicos de saúde ou outros, o estágio profissional e as provas de habilitação profissional referidos nos artigos 63.º e 64.º só se consideram exigíveis para inscrição na Ordem para os profissionais na área das ciências da nutrição e ou dietética que iniciam a actividade profissional um ano após o início de funcionamento da Ordem, podendo esse prazo ser prorrogado pela direcção por igual período.\n\n2 - Até ao fim do período previsto no número anterior, e sem prejuízo dos estágios profissionais exigidos nos serviços públicos de saúde e outros, podem inscrever-se como membros efectivos da Ordem, com direito ao título profissional, os titulares de título académico habilitante que estejam a exercer a profissão há pelo menos um ano, sendo inscritos como membros estagiários os que ainda não preencham esse último requisito."
+  },
+  "835643176": {
+   "fragment_id": "835643152",
+   "type": 11,
+   "heading": "Artigo 86.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Regulamentos\n\nIncumbe à primeira direcção preparar e apresentar ao conselho geral, no prazo de três meses após a primeira reunião deste, os projectos de regulamento de estágio, de provas de avaliação, bem como de código deontológico e de regulamento disciplinar, os quais devem ser aprovados pelo conselho até ao fim do 6.º mês posterior à sua primeira reunião."
+  },
+  "835643177": {
+   "fragment_id": "835643153",
+   "type": 11,
+   "heading": "Artigo 87.º — Conselho jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Conselho jurisdicional\n\n1 - O primeiro conselho jurisdicional deve ser eleito pelo conselho geral na sua primeira reunião ou nos 60 dias subsequentes.\n\n2 - Na primeira composição do conselho jurisdicional, são escolhidos por sorteio, logo após a eleição, os vogais que vão exercer dois mandatos e os que terminam funções no fim do primeiro mandato."
+  },
+  "835643178": {
+   "fragment_id": "835643154",
+   "type": 11,
+   "heading": "Artigo 88.º — Requisito temporal de capacidade eleitoral passiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Requisito temporal de capacidade eleitoral passiva\n\nEnquanto não tiver decorrido o número de anos correspondente, o requisito de capacidade eleitoral passiva relativo ao número mínimo de anos de inscrição na Ordem inclui o número de anos de exercício da profissão comprovado junto da comissão eleitoral."
+  },
+  "835643179": {
+   "fragment_id": "835643155",
+   "type": 11,
+   "heading": "Artigo 89.º — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Responsabilidade disciplinar\n\nA responsabilidade disciplinar dos actuais profissionais inicia-se com a sua inscrição na Ordem, não abrangendo os actos praticados anteriormente."
+  },
+  "835643180": {
+   "fragment_id": "835643156",
+   "type": 11,
+   "heading": "Artigo 90.º — Duração do primeiro mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Duração do primeiro mandato\n\nO primeiro mandato dos órgãos da Ordem inicia-se no dia da primeira reunião do conselho geral e da tomada de posse do bastonário e termina no dia 31 de Outubro do terceiro ano subsequente."
+  },
+  "835643181": {
+   "fragment_id": "835642841",
+   "type": 11,
+   "heading": "Artigo 2.º — Profissionais abrangidos",
+   "in_force_from": "2015-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 126/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/126-2015-70179155), em vigor a partir de 2015-10-03"
+   ],
+   "markdown": "###### Artigo 2.º — Profissionais abrangidos\n\n1 - A Ordem dos Nutricionistas abrange os profissionais licenciados em ciências da nutrição, em dietética e em dietética e nutrição que, em conformidade com o respetivo Estatuto e as disposições legais aplicáveis, exercem a profissão de nutricionista.\n\n2 - A Ordem dos Nutricionistas abrange ainda os profissionais que, estando inscritos como dietistas à data da entrada em vigor da presente lei, mantenham a profissão de dietista.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 126/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/126-2015-70179155), em vigor a partir de 2015-10-03"
+  },
+  "835643182": {
+   "fragment_id": "835642842",
+   "type": 11,
+   "heading": "Artigo 3.º — Modalidades de exercício da profissão",
+   "in_force_from": "2015-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 126/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/126-2015-70179155), em vigor a partir de 2015-10-03"
+   ],
+   "markdown": "###### Artigo 3.º — Modalidades de exercício da profissão\n\n1 - A profissão de nutricionista pode ser exercida por conta própria, quer em nome individual quer em sociedade, ou por conta de outrem, tanto no setor público, privado ou cooperativo e social.\n\n2 - O exercício da atividade profissional por conta de outrem não afeta a autonomia técnica, nem dispensa o cumprimento dos deveres deontológicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 126/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/126-2015-70179155), em vigor a partir de 2015-10-03"
+  },
+  "835643184": {
+   "fragment_id": "835642843",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2015-10-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 126/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/126-2015-70179155), em vigor a partir de 2015-10-03"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\nSão atribuições da Ordem dos Nutricionistas:\n\na) A defesa dos interesses gerais dos utentes dos serviços prestados pelos seus membros, assegurando e fazendo respeitar o direito dos cidadãos a uma nutrição de qualidade;\n\nb) A representação e a defesa dos interesses gerais da profissão de nutricionista e de dietista, zelando, nomeadamente, pela função social, dignidade e prestígio das mesmas;\n\nc) A atribuição, em exclusivo, dos títulos profissionais e a emissão das cédulas profissionais dos seus membros;\n\nd) A defesa do título profissional, incluindo a denúncia das situações de exercício ilegal da profissão, podendo constituir-se assistente em eventual processo-crime;\n\ne) A regulamentação e atribuição dos títulos de especialização profissional, quando existam;\n\nf) A elaboração e a actualização do registo profissional;\n\ng) A defesa da deontologia profissional;\n\nh) O exercício do poder disciplinar sobre os seus membros, incluindo os membros suspensos e os membros estagiários;\n\ni) A prestação de serviços aos seus membros, no respeitante ao exercício profissional, designadamente em relação à informação, à formação profissional e à assistência técnica e jurídica;\n\nj) A colaboração com as demais entidades da Administração Pública na prossecução de fins de interesse público relacionados com a profissão de nutricionista e de dietista;\n\nl) A participação na elaboração da legislação que diga respeito à profissão de nutricionista e de dietista;\n\nm) A participação nos processos oficiais de acreditação e na avaliação dos cursos que dão acesso à profissão de nutricionista e de dietista;\n\nn) A colaboração na definição e implementação de uma política nacional de saúde alimentar em todos os seus aspectos;\n\no) A promoção do desenvolvimento das ciências da nutrição e ou da dietética e do seu ensino;\n\np) Quaisquer outras tarefas que lhe sejam cometidas por lei.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 126/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/126-2015-70179155), em vigor a partir de 2015-10-03"
+  },
+  "835643183": {
+   "fragment_id": "835642844",
+   "type": 11,
+   "heading": "Artigo 5.º — Tutela administrativa",
+   "in_force_from": "2015-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 126/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/126-2015-70179155), em vigor a partir de 2015-10-03"
+   ],
+   "markdown": "###### Artigo 5.º — Tutela administrativa\n\nOs poderes de tutela administrativa sobre a Ordem dos Nutricionistas, em conformidade com o disposto no artigo 45.º da Lei n.º 2/2013, de 10 de janeiro, e com o respetivo Estatuto, são exercidos pelo membro do Governo responsável pela área da saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 126/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/126-2015-70179155), em vigor a partir de 2015-10-03"
+  },
+  "835642770": {
+   "fragment_id": "835642846",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de Outubro de 2010.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 27 de Novembro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 30 de Novembro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\nANEXO\n\nESTATUTO DA ORDEM DOS NUTRICIONISTAS"
+  }
+ }
+}

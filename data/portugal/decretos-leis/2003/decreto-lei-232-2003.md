@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:493703:por
+title: Decreto-Lei n.º 232/2003
+short_title: null
+summary: Transfere os poderes gerais de concedente, em representação do Estado, no contrato de concessão de exploração da
+  marina de Cascais, conferidos à ENATUR, S. A., através do Decreto-Lei n.º 335/91, de 7 de Setembro, para a Câmara Municipal
+  de Cascais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 232/2003
+official_date: null
+publication_date: '2003-09-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 224/2003, Série I-A de 2003-09-27
+  number: '224'
+  series: I
+  supplement: null
+  pages: 6327 - 6328
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/09/224a00/63276328.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/232/2003/09/27/p/dre/pt/html
+  oj: null
+  dre: '493703'
+  dre_path: /dr/detalhe/decreto-lei/232-2003-493703
+  internal: pt:dre:493703:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2003-493703
+  metadata_url: https://data.dre.pt/eli/dec-lei/232/2003/09/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2003-493703
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-09-27T00:00:00Z'
+integrity:
+  source_sha256: b7c7ac301591be6f86ad709dfb03121b1e3f1a05b04f5f88be0a7bd83aba175b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-232-493703.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- AVAL do Estado
+- Contrato de Concessão
+- Enatur
+- Instituto de Financiamento e Apoio ao Turismo
+- Marina
+- Cascais
+- Transferência de Competências
+- Autarquia Local
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/14/1994/01/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/14/1994/01/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/335/1991/09/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/335/1991/09/07/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 232/2003
+
+de 27 de Setembro
+
+O [Decreto-Lei n.º 335/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1991-304330), de 7 de Setembro, modificado pelo [Decreto-Lei n.º 14/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1994-510801), de 20 de Janeiro, conferiu à ENATUR os poderes gerais de concedente, em representação do Estado, para a concessão da construção e exploração da marina de Cascais. Por força daquele diploma, nos termos das bases gerais da concessão a ele anexos, foi celebrado em 21 de Setembro de 1995 o contrato de concessão respectivo.
+
+A posição de concedente de um empreendimento com a natureza da marina de Cascais não veio a revelar-se, dada a sua natureza específica, adequado à ENATUR, cuja missão tradicional tem sido a de explorar um património hoteleiro de características singulares. O Governo decidiu entretanto orientar a ENATUR, de que é accionista único, para a sua actividade essencial de exploração das Pousadas de Portugal, com o consequente abandono de outras actividades que, em última análise, prejudicam aquele objectivo.
+
+Em consequência, é necessário atribuir os poderes de concedente que agora cabem à ENATUR a outra entidade. Dada a localização da marina e o conjunto de actividades a desenvolver e os seus impostos no concelho respectivo, o município de Cascais é a entidade que melhor colocada se encontra para assegurar essas funções.
+
+Ouvido a este propósito, o município de Cascais concordou com a solução agora adoptada.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+Os poderes gerais de concedente, em representação do Estado, bem como os restantes poderes atribuídos à ENATUR pelo [Decreto-Lei n.º 335/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1991-304330), de 7 de Setembro, alterado pelo [Decreto-Lei n.º 14/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1994-510801), de 15 de Fevereiro, e no respectivo anexo I, são conferidos ao município de Cascais.
+
+###### Artigo 2.º — Direitos e obrigações
+
+1 - O município de Cascais sucede à ENATUR em todos os direitos e obrigações relativos à concessão da marina de Cascais e assume a posição daquela empresa em todas as situações jurídicas emergentes da mesma.
+
+2 - Sem prejuízo do disposto no número anterior, o Estado, através do Instituto de Financiamento e Apoio ao Turismo (IFT), presta garantia ao município de Cascais relativa a contingência inerente ao processo que corre os seus termos em tribunal arbitral entre a ENATUR e a concessionária.
+
+###### Artigo 3.º — Referências
+
+Todas as referências feitas à ENATUR no [Decreto-Lei n.º 335/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1991-304330), de 7 de Setembro, e no [Decreto-Lei n.º 14/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1994-510801), de 15 de Fevereiro, bem como em todos os documentos relativos à concessão da marina de Cascais, devem ser entendidas como feitas ao município de Cascais.
+
+Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - António Pedro de Nobre Carmona Rodrigues.
+
+**Promulgado em 11 de Setembro de 2003.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 15 de Setembro de 2003.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**

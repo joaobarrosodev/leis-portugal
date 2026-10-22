@@ -1,0 +1,748 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:538807:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-885421351",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/37-2006-538807",
+ "source_lastmod": "2024-08-23",
+ "versions": [
+  {
+   "date": "2006-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885579323",
+    "885579324",
+    "885579325",
+    "885579326",
+    "885579327",
+    "885579328",
+    "885579329",
+    "885579330",
+    "885579331",
+    "885579332",
+    "885579333",
+    "885579334"
+   ]
+  },
+  {
+   "date": "2009-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493516:por",
+     "title": "Decreto Legislativo Regional n.º 23/2009/M",
+     "published": "2009-08-12",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/23-2009-493516"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 10.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "885579323",
+    "885585888",
+    "885585893",
+    "885585894",
+    "885585895",
+    "885585896",
+    "885585897",
+    "885585905",
+    "885585906",
+    "885585907",
+    "885585916",
+    "885585909",
+    "885585910",
+    "885585913",
+    "885585914",
+    "885585915"
+   ]
+  },
+  {
+   "date": "2011-03-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:278213:por",
+     "title": "Decreto Legislativo Regional n.º 7/2011/M",
+     "published": "2011-03-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/7-2011-278213"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-B",
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 10.º-A"
+   ],
+   "fragments": [
+    "885579323",
+    "885585917",
+    "885585893",
+    "885585923",
+    "885585924",
+    "885585925",
+    "885585926",
+    "885585927",
+    "885585928",
+    "885585929",
+    "885585930",
+    "885585931",
+    "885585932",
+    "885585937",
+    "885585938",
+    "885585939",
+    "885585940",
+    "885585941"
+   ]
+  },
+  {
+   "date": "2011-08-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:671467:por",
+     "title": "Decreto Legislativo Regional n.º 17/2011/M",
+     "published": "2011-08-11",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2011-671467"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-C"
+   ],
+   "fragments": [
+    "885579323",
+    "885585917",
+    "885585893",
+    "885585923",
+    "885585942",
+    "885585943",
+    "885585944",
+    "885585945",
+    "885585946",
+    "885585947",
+    "885585948",
+    "885585949",
+    "885585950",
+    "885585951",
+    "885585952",
+    "885585953",
+    "885585954",
+    "885585955",
+    "885585956"
+   ]
+  },
+  {
+   "date": "2024-12-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:899721506:por",
+     "title": "Decreto Legislativo Regional n.º 15/2024/M",
+     "published": "2024-12-11",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2024-899721506"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-B"
+   ],
+   "fragments": [
+    "885579323",
+    "885585917",
+    "885585893",
+    "885585923",
+    "885585942",
+    "885585943",
+    "885585944",
+    "885585945",
+    "885585946",
+    "885585947",
+    "885585948",
+    "885585949",
+    "885585950",
+    "885585951",
+    "885585952",
+    "885585953",
+    "885585954",
+    "899873593",
+    "899873594",
+    "899873595"
+   ]
+  }
+ ],
+ "fragments": {
+  "885579323": {
+   "fragment_id": "885421352",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 37/2006/M\n\nAdapta à Região Autónoma da Madeira o Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação\n\nO artigo 127.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, alterado pelo Decreto-Lei n.º 177/2001, de 4 de Junho, que estabelece o regime jurídico da urbanização e da edificação, determina a sua aplicação à Região Autónoma da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir por diploma regional adequado.\n\nSucede que esta estrutura própria vem ocasionando, por falta de clarificação, uma duplicação de intervenções por parte de organismos e serviços regionais, não consentânea com os objectivos prosseguidos pela lei e que se traduz num acréscimo de procedimentos e em maiores delongas.\n\nPor outro lado, a realidade territorial da Região Autónoma da Madeira é diferente da do espaço continental, pelo que se vem fazendo sentir a falta de regulamentação própria quanto à disciplina complementar do diploma, que se mostre adaptada ao nosso particular condicionalismo e mais simples e eficaz.\n\nHá, assim, que proceder a uma adaptação do Decreto-Lei n.º 555/99, de 16 de Dezembro, no sentido de definir as entidades que no âmbito da administração regional autónoma detêm prerrogativas, atribuições e competências no domínio do regime jurídico da edificação e da urbanização.\n\nFoi ouvida a Associação de Municípios da Região Autónoma da Madeira.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo das disposições conjugadas da alínea a) do n.º 1 do artigo 227.º da Constituição da República, do artigo 46.º da Lei Constitucional n.º 1/2004, de 24 de Julho, da alínea i) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, e do artigo 127.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, alterado pelo Decreto-Lei n.º 177/2001, de 4 de Junho, o seguinte:"
+  },
+  "885579324": {
+   "fragment_id": "885421353",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO Decreto-Lei n.º 555/99, de 16 de Dezembro, alterado pelo Decreto-Lei n.º 177/2001, de 4 de Junho, que estabelece o regime jurídico da urbanização e da edificação, aplica-se na Região Autónoma da Madeira com as adaptações constantes dos artigos seguintes."
+  },
+  "885579325": {
+   "fragment_id": "885421354",
+   "type": 11,
+   "heading": "Artigo 2.º — Publicação dos regulamentos municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Publicação dos regulamentos municipais\n\nOs regulamentos referidos no n.º 1 do artigo 3.º são publicados no Jornal Oficial, sem prejuízo das demais formas de publicação e de publicidade previstas na lei."
+  },
+  "885579326": {
+   "fragment_id": "885421355",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências da Região Autónoma da Madeira\n\nAs referências feitas ao Estado pelo artigo 7.º consideram-se reportadas à Região Autónoma da Madeira."
+  },
+  "885579327": {
+   "fragment_id": "885421356",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da Direcção Regional de Ordenamento do Território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências da Direcção Regional de Ordenamento do Território\n\nAs referências feitas e as atribuições cometidas à direcção regional e às direcções regionais do ambiente e do ordenamento do território pelos artigos 7.º, 42.º, 51.º, 84.º, 85.º e 120.º consideram-se reportadas e são exercidas pela Direcção Regional de Ordenamento do Território."
+  },
+  "885579328": {
+   "fragment_id": "885421357",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência do membro do Governo Regional da tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do membro do Governo Regional da tutela\n\nAs referências feitas e as atribuições cometidas ao ministro da tutela pelo artigo 7.º consideram-se reportadas e são exercidas pelo membro do Governo Regional da tutela."
+  },
+  "885579329": {
+   "fragment_id": "885421358",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência do membro do Governo Regional da tutela na área do equipamento social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência do membro do Governo Regional da tutela na área do equipamento social\n\nAs referências feitas e as atribuições cometidas aos membros do Governo pelos artigos 7.º, 9.º, 12.º, 76.º, 78.º, 97.º e 123.º consideram-se reportadas e são exercidas pelo membro do Governo Regional da tutela na área do equipamento social."
+  },
+  "885579330": {
+   "fragment_id": "885421359",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências da administração regional autónoma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências da administração regional autónoma\n\nAs referências feitas e as atribuições cometidas à administração central pelos artigos 37.º, 40.º e 114.º consideram-se reportadas e são exercidas pela administração regional autónoma."
+  },
+  "885579331": {
+   "fragment_id": "885421360",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências da Direcção Regional de Geografia e Cadastro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências da Direcção Regional de Geografia e Cadastro\n\nAs referências feitas ao Instituto Geográfico Português nos artigos 50.º e 98.º consideram-se reportadas à Direcção Regional de Geografia e Cadastro."
+  },
+  "885579332": {
+   "fragment_id": "885421361",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências da Direcção Regional de Estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências da Direcção Regional de Estatística\n\n1 - As referências feitas ao Instituto Nacional de Estatística pelo artigo 126.º consideram-se reportadas à Direcção Regional de Estatística.\n\n2 - As referências feitas e as atribuições cometidas aos membros do Governo pelo artigo referido no número anterior consideram-se reportadas, conjuntamente, aos Secretários Regionais do Plano e Finanças e do Equipamento Social e Transportes."
+  },
+  "885579333": {
+   "fragment_id": "885421362",
+   "type": 11,
+   "heading": "Artigo 10.º — Definição de parâmetros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Definição de parâmetros\n\n1 - Os parâmetros para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º são os que estiverem definidos em plano municipal de ordenamento do território, de acordo com as directrizes estabelecidas pelo Plano Regional de Ordenamento do Território.\n\n2 - Até ao estabelecimento pelo Plano Regional de Ordenamento do Território, nos termos do número anterior, das directrizes para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º, continuam os respectivos parâmetros a ser fixados por portaria do membro do Governo Regional da tutela na área do equipamento social.\n\n3 - No prazo de 30 dias a contar da entrada em vigor do presente diploma será aprovada a portaria a que se refere o número anterior.\n\n4 - A partir da entrada em vigor da portaria referida nos números anteriores consideram-se a ela reportadas as referências contidas em plano municipal de ordenamento do território à Portaria n.º 9/95, de 3 de Fevereiro, que será revogada.\n\n5 - Na ausência de plano municipal de ordenamento do território eficaz ou até à definição em plano municipal de parâmetros de dimensionamento de acordo com as directrizes estabelecidas no Plano Regional de Ordenamento do Território, aplicar-se-ão os parâmetros constantes da portaria a que se referem os números anteriores."
+  },
+  "885579334": {
+   "fragment_id": "885421363",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "885585888": {
+   "fragment_id": "885421353",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação, na redacção que lhe foi conferida pela Lei n.º 60/2007, de 4 de Setembro, aplica-se à Região Autónoma da Madeira com as adaptações constantes dos artigos seguintes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585893": {
+   "fragment_id": "885585721",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Definições",
+   "in_force_from": "2009-08-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 1.º-A — Definições\n\nPara efeito do presente diploma, entendem-se por 'Operações de loteamento' as acções que tenham por objecto ou por efeito a constituição de um ou mais lotes destinados, imediata ou subsequentemente, à edificação urbana e que resultem da divisão de um ou vários prédios ou do seu reparcelamento, com excepção das acções de junção de dois ou mais prédios de que resulte um único prédio.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585894": {
+   "fragment_id": "885421354",
+   "type": 11,
+   "heading": "Artigo 2.º — Publicação dos regulamentos municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Publicação dos regulamentos municipais\n\nOs regulamentos referidos no n.º 1 do artigo 3.º são publicados no Jornal Oficial, sem prejuízo das demais formas de publicação e de publicidade previstas na lei."
+  },
+  "885585895": {
+   "fragment_id": "885421355",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências da Região Autónoma da Madeira e do Governo Regional",
+   "in_force_from": "2009-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 3.º — Competências da Região Autónoma da Madeira e do Governo Regional\n\n1 - As referências feitas ao Estado pelo artigo 7.º consideram-se reportadas à Região Autónoma da Madeira.\n\n2 - As referências feitas ao Governo pelo artigo 13.º-A consideram-se reportadas ao Governo Regional.\n\n3 - As referências feitas e as atribuições cometidas ao Conselho de Ministros pelo artigo 13.º-A consideram-se reportadas e são exercidas pelo Conselho do Governo Regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585896": {
+   "fragment_id": "885421356",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da Direcção Regional de Informação Geográfica e Ordenamento do Território",
+   "in_force_from": "2009-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 4.º — Competências da Direcção Regional de Informação Geográfica e Ordenamento do Território\n\nAs referências feitas e as atribuições cometidas a comissão de coordenação e desenvolvimento regional, a direcção regional do ambiente e ordenamento do território e ao Instituto Geográfico Português pelos artigos 7.º, 13.º,13.º-A, 13.º-B, 42.º, 50.º, 51.º, 84.º, 85.º, 108.º-A e 120.º consideram-se reportadas e são exercidas pela Direcção Regional de Informação Geográfica e Ordenamento do Território.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585897": {
+   "fragment_id": "885421357",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência do membro do Governo Regional da tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do membro do Governo Regional da tutela\n\nAs referências feitas e as atribuições cometidas ao ministro da tutela pelo artigo 7.º consideram-se reportadas e são exercidas pelo membro do Governo Regional da tutela."
+  },
+  "885585905": {
+   "fragment_id": "885585722",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Competências conjuntas dos membros do Governo Regional das tutelas nas áreas da administração pública e do equipamento social",
+   "in_force_from": "2009-08-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 5.º-A — Competências conjuntas dos membros do Governo Regional das tutelas nas áreas da administração pública e do equipamento social\n\n1 - As referências feitas e as atribuições cometidas aos membros do Governo pelos artigos 13.º-A e 126.º são reportadas, conjuntamente, aos membros do Governo Regional responsáveis pelas áreas da administração pública e do equipamento social.\n\n2 - O disposto no n.º 2 do artigo 8.º-A e no n.º 1 do artigo 126.º é regulamentado através de portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da administração pública e do equipamento social.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585906": {
+   "fragment_id": "885421358",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência do membro do Governo Regional da tutela na área do equipamento social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência do membro do Governo Regional da tutela na área do equipamento social\n\nAs referências feitas e as atribuições cometidas aos membros do Governo pelos artigos 7.º, 9.º, 12.º, 76.º, 78.º, 97.º e 123.º consideram-se reportadas e são exercidas pelo membro do Governo Regional da tutela na área do equipamento social."
+  },
+  "885585907": {
+   "fragment_id": "885421359",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências da Administração Regional Autónoma",
+   "in_force_from": "2009-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 7.º — Competências da Administração Regional Autónoma\n\nAs referências feitas e as atribuições cometidas à administração central pelos artigos 13.º-A, 37.º, 39.º e 114.º consideram-se reportadas e são exercidas pela administração regional autónoma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585916": {
+   "fragment_id": "885421360",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências da Direcção Regional de Geografia e Cadastro",
+   "in_force_from": "2009-08-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 8.º — Competências da Direcção Regional de Geografia e Cadastro\n\nAs referências feitas ao Instituto Geográfico Português nos artigos 50.º e 98.º consideram-se reportadas à Direcção Regional de Geografia e Cadastro.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585909": {
+   "fragment_id": "885421361",
+   "type": 11,
+   "heading": "Artigo 9.º — Referências à Direcção Regional de Estatística",
+   "in_force_from": "2009-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 9.º — Referências à Direcção Regional de Estatística\n\nAs referências feitas ao Instituto Nacional de Estatística pelo artigo 126.º consideram-se reportadas à Direcção Regional de Estatística.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585910": {
+   "fragment_id": "885421362",
+   "type": 11,
+   "heading": "Artigo 10.º — Definição de parâmetros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Definição de parâmetros\n\n1 - Os parâmetros para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º são os que estiverem definidos em plano municipal de ordenamento do território, de acordo com as directrizes estabelecidas pelo Plano Regional de Ordenamento do Território.\n\n2 - Até ao estabelecimento pelo Plano Regional de Ordenamento do Território, nos termos do número anterior, das directrizes para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º, continuam os respectivos parâmetros a ser fixados por portaria do membro do Governo Regional da tutela na área do equipamento social.\n\n3 - No prazo de 30 dias a contar da entrada em vigor do presente diploma será aprovada a portaria a que se refere o número anterior.\n\n4 - A partir da entrada em vigor da portaria referida nos números anteriores consideram-se a ela reportadas as referências contidas em plano municipal de ordenamento do território à Portaria n.º 9/95, de 3 de Fevereiro, que será revogada.\n\n5 - Na ausência de plano municipal de ordenamento do território eficaz ou até à definição em plano municipal de parâmetros de dimensionamento de acordo com as directrizes estabelecidas no Plano Regional de Ordenamento do Território, aplicar-se-ão os parâmetros constantes da portaria a que se referem os números anteriores."
+  },
+  "885585913": {
+   "fragment_id": "885585723",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Participação, acção administrativa especial e declaração de nulidade",
+   "in_force_from": "2009-08-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 10.º-A — Participação, acção administrativa especial e declaração de nulidade\n\nA possibilidade de o órgão que emitiu o acto ou a deliberação declarar as nulidades previstas nas alíneas a), b) e c) do artigo 68.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, caduca no prazo de três anos, caducando também o direito de propor a acção prevista no respectivo n.º 1 do artigo 69.º, se os factos que determinaram a nulidade não forem participados ao Ministério Público nesse prazo, excepto relativamente a monumentos nacionais e respectiva zona de protecção.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585914": {
+   "fragment_id": "885421363",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "885585915": {
+   "fragment_id": "885421364",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de Julho de 2006.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Agosto de 2006.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "885585917": {
+   "fragment_id": "885421353",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2011-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação, na redacção que lhe foi conferida pelo Decreto-Lei n.º 26/2010, de 30 de Março, alterado pela Lei n.º 28/2010, de 2 de Setembro, aplica-se à Região Autónoma da Madeira com as adaptações constantes dos artigos seguintes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585923": {
+   "fragment_id": "885585724",
+   "type": 11,
+   "heading": "Artigo 1.º-B — Enquadramento no sistema regional de gestão territorial",
+   "in_force_from": "2011-03-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+   ],
+   "markdown": "###### Artigo 1.º-B — Enquadramento no sistema regional de gestão territorial\n\nAs referências feitas na alínea c) do n.º 2 e na alínea c) do n.º 4 do artigo 4.º, no n.º 5 do artigo 7.º e no artigo 12.º-A ao Decreto-Lei n.º 380/99, de 22 de Setembro, consideram-se reportadas ao Decreto Legislativo Regional n.º 43/2008/M, de 23 de Dezembro, que define o sistema regional de gestão territorial da Região Autónoma da Madeira.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+  },
+  "885585924": {
+   "fragment_id": "885421354",
+   "type": 11,
+   "heading": "Artigo 2.º — Publicação dos regulamentos municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Publicação dos regulamentos municipais\n\nOs regulamentos referidos no n.º 1 do artigo 3.º são publicados no Jornal Oficial, sem prejuízo das demais formas de publicação e de publicidade previstas na lei."
+  },
+  "885585925": {
+   "fragment_id": "885421355",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências da Região Autónoma da Madeira e do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 3.º — Competências da Região Autónoma da Madeira e do Governo Regional\n\n1 - As referências feitas ao Estado pelo artigo 7.º consideram-se reportadas à Região Autónoma da Madeira.\n\n2 - As referências feitas ao Governo pelo artigo 13.º-A consideram-se reportadas ao Governo Regional.\n\n3 - As referências feitas e as atribuições cometidas ao Conselho de Ministros pelo artigo 13.º-A consideram-se reportadas e são exercidas pelo Conselho do Governo Regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585926": {
+   "fragment_id": "885421356",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da Direcção Regional de Informação Geográfica e Ordenamento do Território",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 4.º — Competências da Direcção Regional de Informação Geográfica e Ordenamento do Território\n\nAs referências feitas e as atribuições cometidas a comissão de coordenação e desenvolvimento regional, a direcção regional do ambiente e ordenamento do território e ao Instituto Geográfico Português pelos artigos 7.º, 13.º,13.º-A, 13.º-B, 42.º, 50.º, 51.º, 84.º, 85.º, 108.º-A e 120.º consideram-se reportadas e são exercidas pela Direcção Regional de Informação Geográfica e Ordenamento do Território.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585927": {
+   "fragment_id": "885421357",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência do membro do Governo Regional da tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do membro do Governo Regional da tutela\n\nAs referências feitas e as atribuições cometidas ao ministro da tutela pelo artigo 7.º consideram-se reportadas e são exercidas pelo membro do Governo Regional da tutela."
+  },
+  "885585928": {
+   "fragment_id": "885585722",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Competências conjuntas dos membros do Governo Regional das tutelas nas áreas da administração pública e do ordenamento do território",
+   "in_force_from": "2011-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 5.º-A — Competências conjuntas dos membros do Governo Regional das tutelas nas áreas da administração pública e do ordenamento do território\n\n1 - As referências feitas e as atribuições cometidas aos membros do Governo pelos artigos 13.º-A e 126.º consideram-se reportadas, conjuntamente, aos membros do Governo Regional responsáveis pelas áreas da administração pública e do ordenamento do território.\n\n2 - O disposto no n.º 2 do artigo 8.º-A e no n.º 1 do artigo 126.º é regulamentado através de portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da administração pública e do ordenamento do território.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585929": {
+   "fragment_id": "885421358",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências do membro do Governo Regional da tutela na área do ordenamento do território",
+   "in_force_from": "2011-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+   ],
+   "markdown": "###### Artigo 6.º — Competências do membro do Governo Regional da tutela na área do ordenamento do território\n\nAs referências feitas e as atribuições cometidas aos membros do Governo pelos artigos 7.º, 9.º, 12.º, 76.º, 78.º, 97.º e 123.º consideram-se reportadas e são exercidas pelo membro do Governo Regional com a tutela do ordenamento do território.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+  },
+  "885585930": {
+   "fragment_id": "885421359",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências da Administração Regional Autónoma",
+   "in_force_from": "2011-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 7.º — Competências da Administração Regional Autónoma\n\nAs referências feitas e as atribuições cometidas à administração central pelos artigos 40.º e 114.º consideram-se reportadas e são exercidas pela administração regional autónoma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585931": {
+   "fragment_id": "885421360",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências da Direcção Regional de Geografia e Cadastro",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 8.º — Competências da Direcção Regional de Geografia e Cadastro\n\nAs referências feitas ao Instituto Geográfico Português nos artigos 50.º e 98.º consideram-se reportadas à Direcção Regional de Geografia e Cadastro.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585932": {
+   "fragment_id": "885421361",
+   "type": 11,
+   "heading": "Artigo 9.º — Referências à Direcção Regional de Estatística",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 9.º — Referências à Direcção Regional de Estatística\n\nAs referências feitas ao Instituto Nacional de Estatística pelo artigo 126.º consideram-se reportadas à Direcção Regional de Estatística.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585937": {
+   "fragment_id": "885585725",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Parecer, aprovação ou autorização de localização",
+   "in_force_from": "2011-03-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+   ],
+   "markdown": "###### Artigo 9.º-A — Parecer, aprovação ou autorização de localização\n\n1 - No âmbito dos n.os 6, 7, 8 e 10 do artigo 13.º-A, caso existam posições divergentes entre as entidades identificadas e consultadas pela Direcção Regional de Informação Geográfica e Ordenamento do Território, compete ao Conselho de Governo emitir decisão final favorável, favorável condicionada ou desfavorável.\n\n2 - No âmbito do n.º 9 do artigo 13.º-A, quando a Direcção Regional de Informação Geográfica e Ordenamento do Território não adopte posição favorável a uma operação urbanística por esta ser desconforme com instrumento de gestão territorial, pode o membro do Governo Regional com a tutela do ordenamento do território, quando a operação se revista de especial relevância regional ou local, por sua iniciativa, ou por solicitação do município, respectivamente, propor ao Governo Regional a aprovação em resolução do Conselho de Governo da alteração, suspensão ou ratificação, total ou parcial, de plano da sua competência relativamente ao qual a desconformidade se verifica.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+  },
+  "885585938": {
+   "fragment_id": "885421362",
+   "type": 11,
+   "heading": "Artigo 10.º — Definição de parâmetros",
+   "in_force_from": "2011-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+   ],
+   "markdown": "###### Artigo 10.º — Definição de parâmetros\n\n1 - Os parâmetros para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º são os que estiverem definidos em plano municipal de ordenamento do território, de acordo com as directrizes estabelecidas pelo Plano Regional de Ordenamento do Território.\n\n2 - Até ao estabelecimento pelo Plano Regional de Ordenamento do Território, nos termos do número anterior, das directrizes para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º, continuam os respectivos parâmetros a ser fixados por portaria do membro do Governo Regional com a tutela do ordenamento do território.\n\n3 - No prazo de 30 dias a contar da entrada em vigor do presente diploma será aprovada a portaria a que se refere o número anterior.\n\n4 - A partir da entrada em vigor da portaria referida nos números anteriores consideram-se a ela reportadas as referências contidas em plano municipal de ordenamento do território à Portaria n.º 9/95, de 3 de Fevereiro, que será revogada.\n\n5 - Na ausência de plano municipal de ordenamento do território eficaz ou até à definição em plano municipal de parâmetros de dimensionamento de acordo com as directrizes estabelecidas no Plano Regional de Ordenamento do Território, aplicar-se-ão os parâmetros constantes da portaria a que se referem os números anteriores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+  },
+  "885585939": {
+   "fragment_id": "885585723",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Participação, acção administrativa especial e declaração de nulidade",
+   "in_force_from": "2011-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 10.º-A — Participação, acção administrativa especial e declaração de nulidade\n\nA possibilidade de o órgão que emitiu o acto ou a deliberação declarar as nulidades previstas nas alíneas a) e c) do artigo 68.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, caduca no prazo de três anos, caducando também o direito de propor acção prevista no respectivo n.º 1 do artigo 69.º, se os factos que determinaram a nulidade não forem participados ao Ministério Público nesse prazo, excepto relativamente a monumentos nacionais e respectiva zona de protecção.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585940": {
+   "fragment_id": "885421363",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "885585941": {
+   "fragment_id": "885421364",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de Julho de 2006.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Agosto de 2006.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "885585942": {
+   "fragment_id": "885585726",
+   "type": 11,
+   "heading": "Artigo 1.º-C — Parques empresariais",
+   "in_force_from": "2011-08-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 17/2011/M - Diário da República n.º 154/2011, Série I de 2011-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2011-671467), em vigor a partir de 2011-08-12"
+   ],
+   "markdown": "###### Artigo 1.º-C — Parques empresariais\n\nAs parcelas destinadas a espaços verdes e de utilização colectiva, infra-estruturas e equipamentos que, nos termos previstos no artigo 43.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, devam integrar os projectos de loteamento referentes à instalação de parques empresariais, permanecem na propriedade privada da pessoa jurídica interessada na sua exploração, não se aplicando o disposto no n.º 4 do referido artigo 43.º\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 17/2011/M - Diário da República n.º 154/2011, Série I de 2011-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2011-671467), em vigor a partir de 2011-08-12"
+  },
+  "885585943": {
+   "fragment_id": "885421354",
+   "type": 11,
+   "heading": "Artigo 2.º — Publicação dos regulamentos municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Publicação dos regulamentos municipais\n\nOs regulamentos referidos no n.º 1 do artigo 3.º são publicados no Jornal Oficial, sem prejuízo das demais formas de publicação e de publicidade previstas na lei."
+  },
+  "885585944": {
+   "fragment_id": "885421355",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências da Região Autónoma da Madeira e do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 3.º — Competências da Região Autónoma da Madeira e do Governo Regional\n\n1 - As referências feitas ao Estado pelo artigo 7.º consideram-se reportadas à Região Autónoma da Madeira.\n\n2 - As referências feitas ao Governo pelo artigo 13.º-A consideram-se reportadas ao Governo Regional.\n\n3 - As referências feitas e as atribuições cometidas ao Conselho de Ministros pelo artigo 13.º-A consideram-se reportadas e são exercidas pelo Conselho do Governo Regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585945": {
+   "fragment_id": "885421356",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da Direcção Regional de Informação Geográfica e Ordenamento do Território",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 4.º — Competências da Direcção Regional de Informação Geográfica e Ordenamento do Território\n\nAs referências feitas e as atribuições cometidas a comissão de coordenação e desenvolvimento regional, a direcção regional do ambiente e ordenamento do território e ao Instituto Geográfico Português pelos artigos 7.º, 13.º,13.º-A, 13.º-B, 42.º, 50.º, 51.º, 84.º, 85.º, 108.º-A e 120.º consideram-se reportadas e são exercidas pela Direcção Regional de Informação Geográfica e Ordenamento do Território.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585946": {
+   "fragment_id": "885421357",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência do membro do Governo Regional da tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do membro do Governo Regional da tutela\n\nAs referências feitas e as atribuições cometidas ao ministro da tutela pelo artigo 7.º consideram-se reportadas e são exercidas pelo membro do Governo Regional da tutela."
+  },
+  "885585947": {
+   "fragment_id": "885585722",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Competências conjuntas dos membros do Governo Regional das tutelas nas áreas da administração pública e do ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 5.º-A — Competências conjuntas dos membros do Governo Regional das tutelas nas áreas da administração pública e do ordenamento do território\n\n1 - As referências feitas e as atribuições cometidas aos membros do Governo pelos artigos 13.º-A e 126.º consideram-se reportadas, conjuntamente, aos membros do Governo Regional responsáveis pelas áreas da administração pública e do ordenamento do território.\n\n2 - O disposto no n.º 2 do artigo 8.º-A e no n.º 1 do artigo 126.º é regulamentado através de portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da administração pública e do ordenamento do território.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585948": {
+   "fragment_id": "885421358",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências do membro do Governo Regional da tutela na área do ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+   ],
+   "markdown": "###### Artigo 6.º — Competências do membro do Governo Regional da tutela na área do ordenamento do território\n\nAs referências feitas e as atribuições cometidas aos membros do Governo pelos artigos 7.º, 9.º, 12.º, 76.º, 78.º, 97.º e 123.º consideram-se reportadas e são exercidas pelo membro do Governo Regional com a tutela do ordenamento do território.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+  },
+  "885585949": {
+   "fragment_id": "885421359",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências da Administração Regional Autónoma",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 7.º — Competências da Administração Regional Autónoma\n\nAs referências feitas e as atribuições cometidas à administração central pelos artigos 40.º e 114.º consideram-se reportadas e são exercidas pela administração regional autónoma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585950": {
+   "fragment_id": "885421360",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências da Direcção Regional de Geografia e Cadastro",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 8.º — Competências da Direcção Regional de Geografia e Cadastro\n\nAs referências feitas ao Instituto Geográfico Português nos artigos 50.º e 98.º consideram-se reportadas à Direcção Regional de Geografia e Cadastro.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585951": {
+   "fragment_id": "885421361",
+   "type": 11,
+   "heading": "Artigo 9.º — Referências à Direcção Regional de Estatística",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 9.º — Referências à Direcção Regional de Estatística\n\nAs referências feitas ao Instituto Nacional de Estatística pelo artigo 126.º consideram-se reportadas à Direcção Regional de Estatística.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585952": {
+   "fragment_id": "885585725",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Parecer, aprovação ou autorização de localização",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+   ],
+   "markdown": "###### Artigo 9.º-A — Parecer, aprovação ou autorização de localização\n\n1 - No âmbito dos n.os 6, 7, 8 e 10 do artigo 13.º-A, caso existam posições divergentes entre as entidades identificadas e consultadas pela Direcção Regional de Informação Geográfica e Ordenamento do Território, compete ao Conselho de Governo emitir decisão final favorável, favorável condicionada ou desfavorável.\n\n2 - No âmbito do n.º 9 do artigo 13.º-A, quando a Direcção Regional de Informação Geográfica e Ordenamento do Território não adopte posição favorável a uma operação urbanística por esta ser desconforme com instrumento de gestão territorial, pode o membro do Governo Regional com a tutela do ordenamento do território, quando a operação se revista de especial relevância regional ou local, por sua iniciativa, ou por solicitação do município, respectivamente, propor ao Governo Regional a aprovação em resolução do Conselho de Governo da alteração, suspensão ou ratificação, total ou parcial, de plano da sua competência relativamente ao qual a desconformidade se verifica.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+  },
+  "885585953": {
+   "fragment_id": "885421362",
+   "type": 11,
+   "heading": "Artigo 10.º — Definição de parâmetros",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+   ],
+   "markdown": "###### Artigo 10.º — Definição de parâmetros\n\n1 - Os parâmetros para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º são os que estiverem definidos em plano municipal de ordenamento do território, de acordo com as directrizes estabelecidas pelo Plano Regional de Ordenamento do Território.\n\n2 - Até ao estabelecimento pelo Plano Regional de Ordenamento do Território, nos termos do número anterior, das directrizes para o dimensionamento das áreas referidas no n.º 1 do artigo 43.º, continuam os respectivos parâmetros a ser fixados por portaria do membro do Governo Regional com a tutela do ordenamento do território.\n\n3 - No prazo de 30 dias a contar da entrada em vigor do presente diploma será aprovada a portaria a que se refere o número anterior.\n\n4 - A partir da entrada em vigor da portaria referida nos números anteriores consideram-se a ela reportadas as referências contidas em plano municipal de ordenamento do território à Portaria n.º 9/95, de 3 de Fevereiro, que será revogada.\n\n5 - Na ausência de plano municipal de ordenamento do território eficaz ou até à definição em plano municipal de parâmetros de dimensionamento de acordo com as directrizes estabelecidas no Plano Regional de Ordenamento do Território, aplicar-se-ão os parâmetros constantes da portaria a que se referem os números anteriores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17"
+  },
+  "885585954": {
+   "fragment_id": "885585723",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Participação, acção administrativa especial e declaração de nulidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+   ],
+   "markdown": "###### Artigo 10.º-A — Participação, acção administrativa especial e declaração de nulidade\n\nA possibilidade de o órgão que emitiu o acto ou a deliberação declarar as nulidades previstas nas alíneas a) e c) do artigo 68.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, caduca no prazo de três anos, caducando também o direito de propor acção prevista no respectivo n.º 1 do artigo 69.º, se os factos que determinaram a nulidade não forem participados ao Ministério Público nesse prazo, excepto relativamente a monumentos nacionais e respectiva zona de protecção.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2011/M - Diário da República n.º 53/2011, Série I de 2011-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213), em vigor a partir de 2011-03-17\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2009/M - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516), em vigor a partir de 2009-08-13"
+  },
+  "885585955": {
+   "fragment_id": "885421363",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "885585956": {
+   "fragment_id": "885421364",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de Julho de 2006.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Agosto de 2006.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "899873593": {
+   "fragment_id": "899870703",
+   "type": 11,
+   "heading": "Artigo 10.º-B — Destaque de parcela de prédio",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2024/M - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-899721506), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 10.º-B — Destaque de parcela de prédio\n\n1 - No território da Região Autónoma da Madeira, exceciona-se a aplicação do disposto na alínea b) do n.º 5 e no n.º 6 do artigo 6.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação, aos atos que tenham por efeito o destaque de uma parcela de prédio, destinada à regularização fundiária de edifícios com componente habitacional, construídos até ao ano de 2018 inclusive, quando comprovada a sua existência através de cartografia oficial ou de outras formas de registo idóneas.\n\n2 - Para efeitos do n.º 4 do artigo 6.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na Região Autónoma da Madeira entende-se por arruamentos públicos as vias rodoviárias, pedonais ou mistas, destinadas ao uso comum e à circulação de pessoas e veículos.\n\n> Aditado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2024/M - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-899721506), em vigor a partir de 2024-12-12"
+  },
+  "899873594": {
+   "fragment_id": "885421363",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "899873595": {
+   "fragment_id": "885421364",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de Julho de 2006.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Agosto de 2006.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  }
+ }
+}

@@ -1,0 +1,284 @@
+---
+schema_version: '1.0'
+id: pt:dre:224728395:por
+title: Decreto-Lei n.º 109/2023
+short_title: null
+summary: Prorroga diversos prazos de regimes jurídicos temporários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Presidência do Conselho de Ministros
+official_number: 109/2023
+official_date: null
+publication_date: '2023-11-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 228/2023, Série I de 2023-11-24
+  number: '228'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22800/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/109/2023/11/24/p/dre/pt/html
+  oj: null
+  dre: '224728395'
+  dre_path: /dr/detalhe/decreto-lei/109-2023-224728395
+  internal: pt:dre:224728395:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2023-224728395
+  metadata_url: https://data.dre.pt/eli/dec-lei/109/2023/11/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2023-224728395
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-12-31T00:00:00Z'
+integrity:
+  source_sha256: 27ad11abdf4013d97aafd2641081fe75688d5d25d57a03ecf59e45ff60b24e3d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-109-224728395.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestão Financeira
+- Documentação
+- Gestão Administrativa
+- Equipamento Social
+- Investimento
+- Linha de Crédito
+- Epidemia
+- Prorrogação de Prazo
+- Regime Jurídico
+- Gestão de Recursos Humanos
+- PDR 2020
+relationships:
+- type: amended_by
+  target: pt:dre:901661923:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-
+  label: null
+  source: http://data.dre.pt/eli/dec-
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/10-l/2020/03/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10-l/2020/03/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2019/08/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2019/08/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/41/2023/06/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/41/2023/06/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/78-a/2022/11/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/78-a/2022/11/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 109/2023
+
+de 24 de novembro
+
+A pandemia da doença COVID-19 teve um impacto significativo no atendimento ao público, o que resultou num aumento de pendências em matéria de concessão e renovação de autorizações de residência. Por este motivo, e procurando também acautelar a transição de competências em matéria administrativa no âmbito da reestruturação do sistema português de controlo de fronteiras, aprovada pela [Lei n.º 73/2021](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), de 12 de novembro, na sua redação atual, que originou a criação da Agência para a Integração, Migrações e Asilo, I. P., através do [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, considera-se oportuno assegurar a continuidade do regime estabelecido no [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2020-130243053), de 13 de março, na sua redação atual, no que respeita à atendibilidade de documentos expirados relativos à permanência em território nacional.
+
+Adicionalmente, é efetuada, através do presente decreto-lei, uma alteração ao decreto-lei que define as regras gerais de aplicação dos programas operacionais e dos programas de desenvolvimento rural do Portugal 2020, com o intuito de promover uma maior harmonização entre as regras de elegibilidade das despesas em matéria de pagamentos aos beneficiários dos sistemas de incentivos.
+
+Por último, prorroga-se a linha de financiamento ao setor social, criada pelo [Decreto-Lei n.º 78-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2022-203506992), de 8 de novembro, bem como o prazo de cedência temporária da gestão de estabelecimentos integrados do Instituto da Segurança Social, I. P., à Santa Casa da Misericórdia de Lisboa, garantindo a continuidade da atividade desenvolvida nestes estabelecimentos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede:
+
+a) À quinta alteração ao [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro, alterado pelos Decretos-Leis n.os [215/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2015-70462181), de 6 de outubro, [88/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2018-116895169), de 6 de novembro, [127/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2019-124283151), de 29 de agosto, e [10-L/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-l-2020-130779511), de 26 de março, que estabelece as regras gerais de aplicação dos programas operacionais e dos programas de desenvolvimento rural financiados pelos fundos europeus estruturais e de investimento, para o período de programação 2014-2020;
+
+b) À quarta alteração ao [Decreto-Lei n.º 240/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), de 14 de outubro, alterado pelos Decretos-Leis n.os [68/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), de 3 de novembro, [143/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2017-114276583), de 29 de novembro, e [7/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2022-177350574), de 10 de janeiro, que estabelece o regime legal da transmissão dos estabelecimentos integrados do Instituto da Segurança Social, I. P., e respetivos apartamentos de autonomização, para a Santa Casa da Misericórdia de Lisboa;
+
+c) À quadragésima quinta alteração ao [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2020-130243053), de 13 de março, na sua redação atual, que estabelece as medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID-19;
+
+d) À segunda alteração ao [Decreto-Lei n.º 78-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2022-203506992), de 15 de novembro, alterado pelo [Decreto-Lei n.º 20/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2023-210531717), de 22 de março, que reforça o sistema de incentivos «Apoiar as Indústrias Intensivas em Gás», cria uma linha de financiamento ao setor social e disciplina o pagamento do apoio extraordinário a titulares de rendimentos e prestações sociais.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro
+
+O artigo 15.º do [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 15.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - No âmbito dos sistemas de incentivos, a despesa só é elegível se, para além do disposto no número anterior, tiver sido reembolsada ao beneficiário, pelo organismo pagador, entre 1 de janeiro de 2014 e 29 de fevereiro de 2024.
+
+6 - [...].
+
+7 - [...].
+
+8 - [...].
+
+9 - [...].
+
+10 - [...].
+
+11 - [...].
+
+12 - [...].
+
+13 - [...].
+
+14 - [...].»
+
+###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 240/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), de 14 de outubro
+
+O artigo 3.º do [Decreto-Lei n.º 240/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), de 14 de outubro, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - [...].
+
+2 - Para efeitos do disposto no número anterior, a gestão dos estabelecimentos é cedida até 30 de setembro de 2024.
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].»
+
+###### Artigo 4.º — Alteração ao [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2020-130243053), de 13 de março
+
+O artigo 16.º do [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2020-130243053), de 13 de março, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 16.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - Os documentos e vistos relativos à permanência em território nacional, cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores, são aceites, nos mesmos termos, até 30 de junho de 2024.
+
+9 - Os documentos referidos no número anterior continuam a ser aceites, nos mesmos termos, após 30 de junho de 2024, desde que o seu titular faça prova de que já procedeu ao agendamento da respetiva renovação.
+
+10 - [...].»
+
+###### Artigo 5.º — Alteração ao [Decreto-Lei n.º 78-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2022-203506992), de 15 de novembro
+
+O artigo 2.º do [Decreto-Lei n.º 78-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2022-203506992), de 15 de novembro, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - As linhas de crédito referidas no n.º 1 destinam-se a suprir necessidades de financiamento e de investimento, quer no âmbito da transição ambiental, quer no âmbito da concretização de novos projetos ou de requalificação de equipamentos sociais, mediante empréstimos a conceder até 31 de dezembro de 2024.
+
+4 - Para efeitos do disposto no n.º 1, as garantias concedidas, até 31 de dezembro de 2024, pelas sociedades de garantia mútua ficam excecionadas, no que respeita à qualidade acionista dos beneficiários, do disposto na alínea a) do n.º 1 e no n.º 5 do artigo 2.º do [Decreto-Lei n.º 211/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1998-423245), de 16 de julho, na sua redação atual.
+
+5 - [...].»
+
+###### Artigo 6.º — Entrada em vigor e produção de efeitos
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - O disposto no artigo 3.º produz efeitos a 1 de outubro de 2023.
+
+3 - O disposto nos artigos 2.º e 4.º produz efeitos a 1 de janeiro de 2024.
+
+Visto e aprovado em Conselho de Ministros de 9 de novembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Ana Catarina Veiga dos Santos Mendonça Mendes - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - José Duarte Piteira Rica Silvestre Cordeiro.
+
+**Promulgado em 18 de novembro de 2023.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 20 de novembro de 2023.**
+
+Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.

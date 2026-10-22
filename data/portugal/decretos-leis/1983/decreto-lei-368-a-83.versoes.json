@@ -1,0 +1,303 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:319155:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1983-890198381",
+ "dre_path": "/dr/detalhe/decreto-lei/368-a-1983-319155",
+ "source_lastmod": "2024-10-07",
+ "versions": [
+  {
+   "date": "1983-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890198099",
+    "890198100",
+    "890198101",
+    "890198102",
+    "890198103",
+    "890198104",
+    "890198105",
+    "890198106",
+    "890198107",
+    "890198108",
+    "890198109",
+    "890198110",
+    "890198111"
+   ]
+  },
+  {
+   "date": "1984-01-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:531819:por",
+     "title": "Decreto-Lei n.º 9/84",
+     "published": "1984-01-06",
+     "dre_path": "/dr/detalhe/decreto-lei/9-1984-531819"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "890198099",
+    "890198125",
+    "890198101",
+    "890198102",
+    "890198103",
+    "890198104",
+    "890198105",
+    "890198106",
+    "890198107",
+    "890198108",
+    "890198109",
+    "890198110",
+    "890198111",
+    "890198112"
+   ]
+  },
+  {
+   "date": "1984-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:384048:por",
+     "title": "Decreto-Lei n.º 157/84",
+     "published": "1984-05-17",
+     "dre_path": "/dr/detalhe/decreto-lei/157-1984-384048"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "890198099",
+    "890198126",
+    "890198101",
+    "890198102",
+    "890198103",
+    "890198104",
+    "890198105",
+    "890198106",
+    "890198107",
+    "890198108",
+    "890198109",
+    "890198110",
+    "890198111",
+    "890198112"
+   ]
+  },
+  {
+   "date": "1986-01-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:616468:por",
+     "title": "Decreto-Lei n.º 3/86",
+     "published": "1986-01-02",
+     "dre_path": "/dr/detalhe/decreto-lei/3-1986-616468"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "890198099",
+    "890198127",
+    "890198101",
+    "890198102",
+    "890198103",
+    "890198104",
+    "890198105",
+    "890198128",
+    "890198129",
+    "890198108",
+    "890198130",
+    "890198110",
+    "890198111",
+    "890198112"
+   ]
+  }
+ ],
+ "fragments": {
+  "890198099": {
+   "fragment_id": "890198382",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 368-A/83\n\nde 4 de Outubro\n\nIncêndios florestais\n\nA floresta da parte continental do território português constitui um património básico de primeira importância, quer pelos bens que produz quer pelos serviços que presta. Como tal deve ser entendida, valorizada e protegida e como tal deve ir sendo acrescentada, para o que dispomos, aliás, de recursos potenciais de grande monta.\n\nO património florestal do continente constitui o alicerce de um sector que suporta o essencial das necessidades da grei em produtos resultantes da transformação das matérias-primas por ele fornecidas, assim como do consumo directo existente, alimentando uma exportação de produtos lenhosos, suberícolas e resinosos cujo valor representa, no seu conjunto e em média, de 18% a 20% do valor total das nossas exportações.\n\nPor outro lado, a floresta cria ou contribui para a criação de fracção significativa do armentio nacional, fundamentalmente quanto a ovinos e caprinos, para além de dar guarida e facultar alimentação a uma fauna silvestre rica e diversificada e, a títulos vários, altamente apreciada pela população. Acresce que presta à grei inestimáveis serviços, sendo os mais significativos a regularização do regime hídrico, a recuperação dos perdidos fundos de fertilidade dos solos e a defesa destes contra a erosão, a protecção de albufeiras, margens, leitos e estuários dos cursos de água contra o assoreamento e correcção de factores do clima e o combate à poluição atmosférica, hídrica e sonora. A estes serviços adicionam-se a fixação e posterior valorização das areias móveis em grandes frentes costeiras e ainda a oferta de espaços verdes especialmente propícios ao lazer, ao recreio e ao turismo do cidadão em busca do equilíbrio psicofisiológico na utilização dos seus tempos livres.\n\nAntes da Revolução de Abril, os incêndios percorriam por ano e em média (dados relativos ao período de 1968-1973) 10000 ha da nossa floresta produtora de lenho e resina, com registo de um máximo de 19000 ha em 1972; depois dela, o nível médio anual aproximou-se dos 50000 ha, com um máximo de 82000 ha em 1975 e um mínimo de 12000 ha em 1977.\n\nNo contexto da política florestal nacional, tal como se encontra concebida e em cuja implementação o Governo está empenhado, constitui necessidade imperativa e urgente suster a catástrofe incendiária que vem dizimando o nosso património silvícola, nomeadamente o produtor de lenho e de resina.\n\nUma tal situação compromete o próprio futuro do subsector florestal, retirando à lavoura uma das suas mais estáveis e acessíveis fontes de financiamento e colocando em sérios riscos ou mesmo fechando as perspectivas às indústrias de madeira maciça e de resina que trabalham com matéria-prima nacional.\n\nEssa situação constitui, além disso, um poderoso factor de dissuasão relativamente ao objectivo de política que consiste na expansão da actividade florestal, pois enfraquece e tende mesmo em certas regiões a anular a apetência dos proprietários ou empresários pela conversão ao uso silvícola das vastas áreas marginais ou submarginais para o cultivo agrícola, incultas ou subaproveitadas. Por outro lado, a terra queimada trás consigo a desolação ecológica, com as inerentes consequências na qualidade de vida das populações, na sua estabilidade e na credibilidade da nossa jovem democracia, perante a dificuldade de proteger do fogo criminoso um património vivo básico e, assim, de suster um fenómeno accionado por agentes ao serviço de interesses inconfessáveis de que se conhecem os grandes contornos e os principais beneficiários.\n\nNo que toca aos produtores, a situação descrita é tanto mais grave quanto os incêndios de grandes proporções implicam um aumento súbito e acentuado da oferta, com riscos de venda ao desbarato, dado que a remoção rápida dos salvados é fundamental por razões de sanidade das matas e de conservação da matéria-prima em estado razoável de utilização.\n\nEstando, porém, já diagnosticada a carência de material lenhoso necessário à manutenção e desenvolvimento da nossa indústria de madeira maciça e encontrando-se em vias de iniciar a sua laboração mais uma unidade produtora de pasta celulósica, que virá aliás a ser a maior unidade portuguesa deste tipo, é altamente preocupante assistir-se à exportação de grandes quantidades daquela matéria-prima (em toro e em estilhas), cuja falta virá a sentir-se a médio, curto e longo prazos.\n\nA exportação como mecanismo eficaz de combate à tendência para a minimização do valor da produção florestal na mata não pode justificar a cedência pelo País de quantidades imensas de um produto cuja carência se avizinha rapidamente e arrastaria graves inconvenientes dos pontos de vista tanto da indústria como do emprego, tanto da lavoura como do País em geral. A desejada função reguladora do mercado caberá a outros mecanismos a que se pode lançar mão, sem que tal se traduza em pesados custos para o País.\n\nA intervenção do Estado nesta matéria deverá, entretanto, basear-se num correcto conhecimento das variáveis e dos interesses em jogo, tendo sempre em atenção que se considera essencial não afectar a produção e a oferta de lenho, o que se acautela.\n\nAssim sendo, manda o interesse nacional que se tomem especiais medidas capazes de pôr cobro à situação catastrófica, e anualmente repetida, gerada pelos extensos incêndios que vêm assolando a nossa floresta. A realidade portuguesa actual obriga a uma legislação específica, na base da qual venha a ser possível e até obrigatório accionarem-se mecanismos de pronta e reconhecida eficácia na prevenção e na contenção das causas principais dos grandes incêndios florestais.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "890198100": {
+   "fragment_id": "890198383",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É condicionada a exportação da matéria-prima lenho de pinheiro, quer em toro quer estilhas.\n\n2 - Os competentes serviços do Ministério do Comércio e Turismo podem, porém, autorizar excepcionalmente, em casos de reconhecida necessidade e ouvidas a Direcção-Geral de Florestas e a Direcção-Geral de Indústrias, a exportação do material referido no n.º 1 desde que a mesma seja promovida por empresas públicas ou por cooperativas de interesse público, a criar com base nas antigas organizações corporativas da lavoura.\n\n3 - O condicionamento referido no n.º 1 não abrange as exportações de esteios para minas e de madeiras preservadas por impregnação."
+  },
+  "890198101": {
+   "fragment_id": "890198384",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Nas matas incluídas nas zonas afectadas por incêndios florestais é vedada, com a única excepção prevista no número seguinte, a exploração de material lenhoso (qualquer que seja a espécie de que provenha), afora os salvados, enquanto estes não forem totalmente extraídos e consumidos ou transaccionados.\n\n2 - A Direcção-Geral de Florestas poderá, porém, autorizar aquela exploração em casos de reconhecida necessidade dos empresários florestais, na sequência de requerimento apresentado nos respectivos serviços periféricos, juntamente com os elementos de prova por estes exigidos."
+  },
+  "890198102": {
+   "fragment_id": "890198385",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O Ministro da Agricultura, Florestas e Alimentação irá definindo por portarias, na sequência de propostas da Direcção-Geral de Florestas, as zonas a que se refere o n.º 1 do artigo 2.º\n\n2 - A derrogação das propostas previstas no número anterior será feita à medida que a Direcção-Geral de Florestas informe encontrarem-se cumpridas as condições da última parte do n.º 1 do artigo 2.º"
+  },
+  "890198103": {
+   "fragment_id": "890198386",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os Ministros das Finanças e do Plano, da Agricultura, Florestas e Alimentação, da Indústria e Energia e do Comércio e Turismo fixarão, por despacho conjunto e até final de cada ano, o preço mínimo de venda de rolaria para trituração à entrada da fábrica.\n\n2 - A fixação será precedida de consultas aos representantes da produção, do comércio e da indústria envolvidos, em condições a regulamentar.\n\n3 - Os preços a fixar destinam-se a vigorar durante 1 ano, mas devem sofrer uma revisão no decurso do período de vigência quando se verificarem variações significativas nos valores de variáveis determinantes da fixação."
+  },
+  "890198104": {
+   "fragment_id": "890198387",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O Governo promoverá, através dos serviços competentes, a realização dos estudos e a obtenção e permanente actualização dos elementos estatísticos necessários a uma justa fixação dos preços a que se refere o artigo precedente.\n\n2 - A coordenação dos estudos indicados no número anterior caberá à Direcção-Geral de Florestas, coadjuvada pela Direcção-Geral das Indústrias, ficando obrigados os serviços do Estado, as empresas públicas e as cooperativas de interesse público a facultarem todo o apoio a tais estudos, nomeadamente no respeitante ao apuramento e fidedignidade dos dados estatísticos, sem prejuízo do respectivo segredo."
+  },
+  "890198105": {
+   "fragment_id": "890198388",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO Ministério da Agricultura, Florestas e Alimentação promoverá, por intermédio da Direcção-Geral de Florestas, cursos de prevenção e detecção dos incêndios florestais e cooperará com o Serviço Nacional de Bombeiros no treino do pessoal para combate aos mesmos incêndios."
+  },
+  "890198106": {
+   "fragment_id": "890198389",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Guarda Nacional Republicana e a polícia florestal afecta aos regimes florestais total e parcial obrigatório, bem como as demais autoridades policiais, fiscalizarão o cumprimento do disposto no presente diploma sobre a interdição ou o condicionamento da exploração de material lenhoso ou da sua exportação, devendo participar e proceder à recolha das provas em caso de infracção."
+  },
+  "890198107": {
+   "fragment_id": "890198390",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - A transgressão ou tentativa de transgressão ao disposto no artigo 1.º será punida com coima igual ao quíntuplo do valor recebido pelo vendedor da partida exportada ou, não sendo conhecido esse valor, o da sua estimativa pela Direcção-Geral de Florestas.\n\n2 - A transgressão ao disposto no n.º 1 do artigo 2.º será punida com coimas nos termos seguintes:\n\na) De montante aplicável ao vendedor e igual ao valor na mata do material lenhoso explorado, avaliado pelos serviços periféricos da Direcção-Geral de Florestas;\n\nb) De montante igual ao dobro daquele valor, a pagar pelo comprador;\n\nc) De montante igual ao quíntuplo do mesmo valor, se a entidade transgressora for uma empresa industrial em auto-abastecimento."
+  },
+  "890198108": {
+   "fragment_id": "890198391",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNão vigoram, relativamente às coimas estipuladas no artigo precedente, os limites impostos pelo artigo 17.º do Decreto-Lei n.º 433/82, de 27 de Outubro."
+  },
+  "890198109": {
+   "fragment_id": "890198392",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA transgressão ao disposto no n.º 1 do artigo 2.º implicará ainda a apreensão pelo Estado do material lenhoso em causa, considerando-se, por natureza, sempre cumpridas as condições alternativas das alíneas a) e c) do n.º 2 do artigo 21.º do decreto-lei referido no artigo 9.º e esta sanção proporcionada à gravidade da contra-ordenação e das culpas."
+  },
+  "890198110": {
+   "fragment_id": "890198393",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - O processamento das contra-ordenações e a aplicação das coimas cabem à Direcção-Geral de Florestas, nos termos do n.º 2 do artigo 34.º do Decreto-Lei n.º 433/82, de 27 de Outubro, sendo territorialmente competentes os serviços periféricos da mesma Direcção-Geral em cuja área de actuação se inclua o concelho onde a infracção tenha lugar.\n\n2 - O Governo, através daquela Direcção-Geral, facultará os meios humanos e materiais necessários ao bom e expedito cumprimento deste diploma."
+  },
+  "890198111": {
+   "fragment_id": "890198394",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nEste decreto-lei entra em vigor no dia imediato ao sua publicação."
+  },
+  "890198125": {
+   "fragment_id": "890198383",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1984-01-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/84 - Diário da República n.º 5/1984, Série I de 1984-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1984-531819), em vigor a partir de 1984-01-07"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - É condicionada a exportação da matéria-prima lenho de pinheiro, quer em toro quer estilhas.\n\n2 - Os competentes serviços do Ministério do Comércio e Turismo podem, porém, autorizar excepcionalmente, em casos de reconhecida necessidade e ouvidas a Direcção-Geral de Florestas e a Direcção-Geral de Indústrias, a exportação do material referido no n.º 1 desde que a mesma seja promovida por empresas públicas ou por cooperativas de interesse público, a criar com base nas antigas organizações corporativas da lavoura.\n\n3 - O condicionamento referido no n.º 1 não abrange as exportações de esteios para minas e de madeiras preservadas por impregnação.\n\n4 - De igual modo não estão sujeitos às restrições dos n.os 1 e 2 do artigo os contratos de exportação de material com data anterior ao início da vigência do Decreto-Lei n.º 368-A/83, de 4 de Outubro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/84 - Diário da República n.º 5/1984, Série I de 1984-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1984-531819), em vigor a partir de 1984-01-07"
+  },
+  "890198112": {
+   "fragment_id": "890198395",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Julho de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Manuel José Dias Soares Costa - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 3 de Outubro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 3 de Outubro de 1983.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "890198126": {
+   "fragment_id": "890198383",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1984-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/84 - Diário da República n.º 114/1984, Série I de 1984-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1984-384048), em vigor a partir de 1984-05-18",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/84 - Diário da República n.º 5/1984, Série I de 1984-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1984-531819), em vigor a partir de 1984-01-07"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - É condicionada a exportação da matéria-prima lenho de pinheiro, quer em toro quer estilhas.\n\n2 - Os competentes serviços do Ministério do Comércio e Turismo podem, porém, autorizar excepcionalmente, em casos de reconhecida necessidade e ouvidas a Direcção-Geral de Florestas e a Direcção-Geral de Indústrias, a exportação do material referido no n.º 1 desde que a mesma seja promovida por empresas públicas ou por cooperativas de interesse público, a criar com base nas antigas organizações corporativas da lavoura.\n\n3 - O condicionamento referido no n.º 1 não abrange as exportações de esteios para minas e de madeiras preservadas por impregnação.\n\n4 - De igual modo não estão sujeitos às restrições dos n.os 1 e 2 do artigo os contratos de exportação de material com data anterior ao início da vigência do Decreto-Lei n.º 368-A/83, de 4 de Outubro.\n\n5 - Relativamente aos contratos de exportação a que se refere o número anterior, é fixada a data de 31 de Maio de 1984 como data limite para emissão de boletins de exportação de toros e estilhas de pinho, devendo as respectivas exportações decorrer durante o prazo de validade dos boletins emitidos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/84 - Diário da República n.º 114/1984, Série I de 1984-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1984-384048), em vigor a partir de 1984-05-18\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/84 - Diário da República n.º 5/1984, Série I de 1984-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1984-531819), em vigor a partir de 1984-01-07"
+  },
+  "890198127": {
+   "fragment_id": "890198383",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1986-01-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 3/86 - Diário da República n.º 1/1986, Série I de 1986-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1986-616468), em vigor a partir de 1986-01-07",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/84 - Diário da República n.º 114/1984, Série I de 1984-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1984-384048), em vigor a partir de 1984-05-18",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/84 - Diário da República n.º 5/1984, Série I de 1984-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1984-531819), em vigor a partir de 1984-01-07"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - É condicionada a exportação da matéria-prima lenho de pinheiro, quer em toro quer estilhas.\n\n2 - Os competentes serviços do Ministério do Comércio e Turismo podem, porém, autorizar excepcionalmente, em casos de reconhecida necessidade e ouvidas a Direcção-Geral de Florestas e a Direcção-Geral de Indústrias, a exportação do material referido no n.º 1 desde que a mesma seja promovida por empresas públicas ou por cooperativas de interesse público, a criar com base nas antigas organizações corporativas da lavoura.\n\n3 - O condicionamento referido no n.º 1 não abrange as exportações de esteios para minas e de madeiras preservadas por impregnação.\n\n4 - De igual modo não estão sujeitos às restrições dos n.os 1 e 2 do artigo os contratos de exportação de material com data anterior ao início da vigência do Decreto-Lei n.º 368-A/83, de 4 de Outubro.\n\n5 - Relativamente aos contratos de exportação a que se refere o número anterior, é fixada a data de 31 de Maio de 1984 como data limite para emissão de boletins de exportação de toros e estilhas de pinho, devendo as respectivas exportações decorrer durante o prazo de validade dos boletins emitidos.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 3/86 - Diário da República n.º 1/1986, Série I de 1986-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1986-616468), em vigor a partir de 1986-01-07\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/84 - Diário da República n.º 114/1984, Série I de 1984-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1984-384048), em vigor a partir de 1984-05-18\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/84 - Diário da República n.º 5/1984, Série I de 1984-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1984-531819), em vigor a partir de 1984-01-07"
+  },
+  "890198128": {
+   "fragment_id": "890198389",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1986-01-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/86 - Diário da República n.º 1/1986, Série I de 1986-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1986-616468), em vigor a partir de 1986-01-07"
+   ],
+   "markdown": "###### Artigo 7.º\n\nA Guarda Nacional Republicana e a polícia florestal afecta aos regimes florestais total e parcial obrigatório, bem como as demais autoridades policiais, fiscalizarão o cumprimento do disposto no presente diploma sobre a interdição ou o condicionamento da exploração de material lenhoso, devendo participar e proceder à recolha das provas em caso de infracção.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/86 - Diário da República n.º 1/1986, Série I de 1986-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1986-616468), em vigor a partir de 1986-01-07"
+  },
+  "890198129": {
+   "fragment_id": "890198390",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1986-01-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/86 - Diário da República n.º 1/1986, Série I de 1986-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1986-616468), em vigor a partir de 1986-01-07"
+   ],
+   "markdown": "###### Artigo 8.º\n\nA violação do disposto no n.º 1 do artigo 2.º constitui contra-ordenação punível com coimas nos termos seguintes:\n\na) Coima a fixar entre o mínimo de 50000$00 e o máximo correspondente ao dobro do valor da mata, não podendo, porém, este exceder 10000000$00, para o vendedor;\n\nb) O dobro dos valores mínimo e máximo referidos no número anterior, para o comprador;\n\nc) Os mínimos e os máximos previstos nas alíneas anteriores são elevados para o quíntuplo, respectivamente, se o arguido for um empresário em nome individual ou pessoa colectiva em auto-abastecimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/86 - Diário da República n.º 1/1986, Série I de 1986-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1986-616468), em vigor a partir de 1986-01-07"
+  },
+  "890198130": {
+   "fragment_id": "890198392",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1986-01-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/86 - Diário da República n.º 1/1986, Série I de 1986-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1986-616468), em vigor a partir de 1986-01-07"
+   ],
+   "markdown": "###### Artigo 10.º\n\nÀs coimas referidas no artigo 8.º acresce a sanção acessória da apreensão e perda a favor do Estado do material lenhoso em causa, considerando-se, por natureza, sempre cumpridas as condições alternativas das alíneas a) e c) do n.º 2 do artigo 21.º do decreto-lei referido no artigo 9.º e esta sanção proporcionada à gravidade da contra-ordenação e das culpas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/86 - Diário da República n.º 1/1986, Série I de 1986-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1986-616468), em vigor a partir de 1986-01-07"
+  }
+ }
+}

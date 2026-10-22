@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:571260:por
+title: Decreto Regulamentar Regional n.º 6-B/93/M
+short_title: null
+summary: Dá nova redacção aos artigos 7.º, 10.º, 19.º e 27.º do Decreto Regulamentar Regional n.º 27/92/M, de 24 de Setembro,
+  que estabelece a estrutura orgânica e o funcionamento do Serviço Regional de Saúde da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 6-B/93/M
+official_date: null
+publication_date: '1993-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 71/1993, 1º Suplemento, Série I-B de 1993-03-25
+  number: '71'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1480-(4) a 1480-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/03/071b01/00040004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/6-b/1993/03/25/m/dre/pt/html
+  oj: null
+  dre: '571260'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/6-b-1993-571260
+  internal: pt:dre:571260:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-b-1993-571260
+  metadata_url: https://data.dre.pt/eli/decregulreg/6-b/1993/03/25/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-b-1993-571260
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-05-12T00:00:00Z'
+integrity:
+  source_sha256: f30a4f1d372ca9d380f835f9da4b25a89916de193a441876dceae83be2d48c24
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1993/DRE-1993-6-B-571260.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Orgânica
+- Madeira.região Autónoma
+- Serviço Regional de Saúde
+relationships:
+- type: amended_by
+  target: pt:dre:545187:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/21/1991/08/07/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/21/1991/08/07/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/27/1992/09/24/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/27/1992/09/24/m/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 6-B/93/M
+
+Dá nova redacção ao [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro, que estabelece a estrutura orgânica e o funcionamento do Serviço Regional de Saúde da Região Autónoma da Madeira.
+
+A configuração de alguns aspectos parcelares da estrutura orgânica do Serviço Regional de Saúde, aprovada pelo [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro, resultou da existência de duas direcções regionais no aparelho normativo da Secretaria Regional dos Assuntos Sociais.
+
+Considerando que a estrutura orgânica da Secretaria Regional dos Assuntos Sociais, no sector da saúde, contempla a articulação e integração dos diferentes níveis de cuidados como uma prioridade de acção, que conduziu à extinção das anteriores direcções regionais e à criação de um único departamento com competências técnico-normativas em áreas comuns da saúde - a Direcção Regional de Saúde -, há que reformular algumas das normas daquele decreto regulamentar.
+
+Assim, o Governo Regional da Madeira, nos termos do artigo 21.º do [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto, decreta o seguinte:
+
+###### Artigo 1.º Os artigos 7.º, 10.º, 19.º e 27.º do [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro, passam a ter a seguinte redacção:
+
+###### Artigo 7.º — [...]
+
+1 - ...
+
+2 - O conselho orientador, presidido pelo Secretário Regional dos Assuntos Sociais, tem como vogais:
+
+a) O director regional de Saúde;
+
+b) ...
+
+3 - ...
+
+###### Artigo 10.º — [...]
+
+1 - Os centros são geridos por conselhos de administração, constituídos por um presidente e vogais em número não superior a dois, a nomear pelo Secretário Regional dos Assuntos Sociais em comissão de serviço por três anos.
+
+2 - Nas ausências ou impedimentos dos presidentes, serão estes substituídos por um dos vogais que, para o efeito, tenha sido designado pelo Secretário Regional dos Assuntos Sociais.
+
+3 - Os conselhos de administração reunirão sempre que necessário, pelo menos semanalmente, e as suas deliberações serão tomadas por maioria simples, tendo o presidente voto de qualidade.
+
+4 - A remuneração dos membros dos conselhos de administração será estabelecida em portaria conjunta dos Secretários Regionais das Finanças e dos Assuntos Sociais.
+
+###### Artigo 19.º — [...]
+
+1 - ...
+
+2 - O presidente e os vogais do conselho de administração são nomeados de entre elementos das áreas médica, de enfermagem e de administração, considerando-se criados desde já os respectivos lugares.
+
+3 - ...
+
+###### Artigo 27.º — [...]
+
+1 - ...
+
+2 - O presidente e os vogais do conselho de administração são nomeados de entre elementos das áreas médica, de enfermagem e de administração, considerando-se criados desde já os respectivos lugares.
+
+3 - ...
+
+###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 4 de Março de 1993.
+
+**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+
+**Assinado em 24 de Março de 1993.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**

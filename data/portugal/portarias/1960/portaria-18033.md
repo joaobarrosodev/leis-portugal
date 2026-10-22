@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:514433:por
+title: Portaria n.º 18033
+short_title: null
+summary: Concede à Sociedade Mineira da Zambézia, Lda., a Maria Alzina Simão, a Calisto Freiria e a Francisco Pereira Soares
+  licença de exclusivo de pesquisas para todos os minérios, com excepção de petróleos e quaisquer óleos minerais, produtos
+  betuminosos e gases hidrocarbonados que os acompanhem, em determinadas áreas da província ultramarina de Moçambique
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Economia - Repartição de Povoamento
+proposing_entity: null
+official_number: '18033'
+official_date: null
+publication_date: '1960-11-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 254/1960, Série I de 1960-11-02
+  number: '254'
+  series: I
+  supplement: null
+  pages: 2380 - 2381
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/11/25400/23802381.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '514433'
+  dre_path: /dr/detalhe/portaria/18033-1960-514433
+  internal: pt:dre:514433:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/18033-1960-514433
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18033-1960-514433
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-03-28T00:00:00Z'
+integrity:
+  source_sha256: 97b9fa79058447afc2f1b25b88ca524135db10d39e2bbae3f7a1a1bb1b285254
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-18033-514433.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:516700:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 18033
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 19.º do Decreto de 20 de Setembro de 1906, que regula a pesquisa e a lavra de minas no ultramar, e em harmonia com o disposto na base XI da Lei Orgânica do Ultramar Português, conceder aos requerentes adiante designados licença de exclusivo de pesquisas para todos os minérios, com excepção de petróleos e quaisquer óleos minerais, produtos betuminosos e gases hidrocarbonados que os acompanhem, nas áreas da província de Moçambique a seguir delimitadas e nos termos e condições que se definem:
+
+1.º À Sociedade Mineira da Zambézia, Lda., para a porção de território, com a área aproximada de 642 km2, limitada: a norte, por uma linha recta partindo da povoação de Namarrogolo, seguindo o paralelo 16º 43' 54'', até à sua intersecção com o meridiano 37º 10' 30''; a leste, pelo meridiano 37º 10' 30'' até ao paralelo 17º 06' 00''; a sul, pelo paralelo 17º 06' 00'' até à linha de caminho de ferro de Quelimane a Mocuba; a oeste, pela mesma linha de caminho de ferro até Mocuba, e uma linha recta de Mocuba ao marco geodésico Murraba e daqui por um alinhamento recto, fazendo um ângulo de 270º no sentido retrógrado com o anterior alinhamento, até à estrada de Mocuba-Mugeba e pelo troço de estrada entre esta intersecção e a povoação de Namarrogolo.
+
+a) A licença do exclusivo de pesquisa na área definida no n.º 1.º é válida por dois anos, a contar da data da publicação desta portaria, prorrogáveis por mais um ano, se a concessionária satisfizer a todas as condições da Lei e fizer pesquisas intensivas durante os primeiros dois anos.
+
+b) Consideram-se pesquisas intensivas aquelas que, feitas sob um plano prèviamente aprovado, se traduzirem no dispêndio efectivo de uma importância média anual mínima de 200000$00 em vencimentos, salários e outros encargos, contraídos na província e na metrópole, relacionados com a concessão.
+
+c) A concessionária, no prazo de 60 dias, a contar da data da publicação desta portaria, terá de depositar nos cofres do Estado, como caução reembolsável, nos termos da alínea 1) do artigo 19.º do Decreto de 20 de Setembro de 1906, a quantia de 200000$00, caução esta que poderá ser substituída por garantia bancária devidamente aceite.
+
+2.º A Maria Alzina Simão para a porção de território, com a área aproximada de 1990 km2, limitada: a norte, por uma linha quebrada que, com origem no ponto de coordenadas geográficas 16º 27' 34'' de latitude sul e 36º 40' 40'' de longitude E. G., passando por Lugela, termina no ponto de coordenadas geográficas 16º 17' 22'' de latitude sul e 37º 14' 16'' de longitude E. G.; a leste, por um alinhamento recto desde este último ponto até ao de coordenadas geográficas 16º 30' 00'' de latitude sul e 37º 21' 04'' de longitude E. G.; a sul, por uma linha quebrada, partindo deste último ponto e passando por Mugeba, até ao ponto definido pelas coordenadas geográficas 16º 45' 06'' de latitude sul e 36º 46' 48'' de longitude E. G.; a oeste, por duas linhas rectas: uma deste último ponto até ao ponto de coordenadas geográficas 16º 35' 16'' de latitude sul e 36º 38' 12'' de longitude E. G. e outra que, partindo daqui, termina no ponto de coordenadas geográficas 16º 27' 34'' de latitude sul e 36º 40' 40'' de longitude E. G.
+
+a) A licença do exclusivo de pesquisa na área definida no n.º 2.º é válida por dois anos, a contar da data da publicação desta portaria, prorrogáveis por mais um ano, se a concessionária satisfizer a todas as condições da lei e fizer pesquisas intensivas durante os dois primeiros anos.
+
+b) Consideram-se pesquisas intensivas aquelas que, feitas sob um plano prèviamente aprovado, se traduzirem no dispêndio efectivo de uma importância média anual mínima de 500000$00 em vencimentos, salários e outros encargos, contraídos na província e na metrópole, relacionados com a concessão.
+
+c) A concessionária, no prazo de 60 dias, a contar da data da publicação desta portaria, terá de depositar nos cofres do Estado, como caução reembolsável, nos termos da alínea 1) do artigo 19.º do Decreto de 20 de Setembro de 1906, a quantia de 500000$00, caução esta que poderá ser substituída por garantia bancária devidamente aceite.
+
+3.º A Calisto Freiria para a porção de território, com a área aproximada de 165 km2, e exclusão da que lhe fica interior, pedida por Francisco Pereira Soares, limitada: a sul, por uma linha recta que une Mocuba com o marco geodésico Murraba; a oeste, pela linha recta que, no alinhamento Mocuba-Monte Cuba, fica compreendida entre Mocuba e o limite sul do pedido de Maria Alzina Simão; a norte, pelo limite sul do pedido de Maria Alzina Simão, entre os limites leste e oeste; a leste, pela linha recta que une o marco geodésico Murraba com Munhamade, até à sua intersecção com o limite sul de Maria Alzina Simão.
+
+a) A licença de exclusivo de pesquisas na área definida no número anterior é válida por dois anos, a contar da data da publicação desta portaria, prorrogáveis por mais um ano, se o concessionário satisfazer as condições da lei e fizer pesquisas intensivas durante os dois primeiros anos.
+
+b) Consideram-se pesquisas intensivas aquelas que, feitas sob um plano prèviamente aprovado, se traduzirem no dispêndio efectivo de uma importância média anual mínima de 100000$00 em vencimentos, salários e outros encargos, contraídos na província e na metrópole, relacionados com a concessão.
+
+c) O concessionário, no prazo de 60 dias, a contar da data da publicação desta portaria, terá de depositar nos cofres do Estado, como caução reembolsável, nos termos da alínea 1) do artigo 19.º do Decreto de 20 de Setembro de 1906, a quantia de 100000$00, caução esta que poderá ser substituída por garantia bancária devidamente aceite.
+
+4.º A Francisco Pereira Soares para a porção de território, com a área aproximada de 85 km2, limitada: a norte, por uma linha recta que, partindo do ponto no rio Lugela definido pelas coordenadas geográficas 16º 43' 58'' de latitude sul e 36º 54' 33'' de longitude E. G., termina no ponto do rio Licungo de coordenadas geográficas 16º 41' 39'' de latitude sul e 36º 59' 45'' de longitude E. G.; a leste, pelo curso do rio Licungo compreendido entre o último ponto acima definido e o ponto de coordenadas geográficas 16º 48' 55'' de latitude sul e 36º 59' 00'' de longitude E. G.; a sul, por uma linha recta, a partir do último ponto no rio Licungo, até ao ponto de coordenadas geográficas 16º 49' 30'' de latitude sul e 36º 57' 58'' de longitude E. G., no rio Lugela; a oeste, pelo curso do rio Lugela, desde este último ponto até ao ponto inicial de coordenadas geográficas 16º 43' 58'' de latitude sul e 36º. 54' 33'' de longitude E. G.
+
+a) A licença de exclusivo de pesquisas na área definida no artigo 7.º é válida por dois anos, a contar da data da publicação desta portaria, prorrogáveis por mais um ano, se o concessionário satisfizer a todas as condições da lei e fizer pesquisas intensivas durante os primeiros dois anos.
+
+b) Consideram-se pesquisas intensivas aquelas que, feitas sob plano prèviamente aprovado, se traduzirem no dispêndio efectivo de uma importância média anual mínima de 50000$00 em vencimentos, salários e outros encargos, contraídos na província e na metrópole, relacionados com a concessão.
+
+c) O concessionário, no prazo de 60 dias, a contar da data da publicação desta portaria, terá de depositar nos cofres do Estado, como caução reembolsável, nos termos da alínea 1) do artigo 19.º do Decreto de 20 de Setembro de 1906, a quantia de 50000$00, caução esta que poderá ser substituída por garantia bancária de igual valor devidamente aceite.
+
+5.º Das áreas definidas nos n.os 1.º, 2.º, 3.º e 4.º são excluídas aquelas onde haja direitos mineiros assegurados nos termos da lei.
+
+a) Caducando os direitos mineiros acima referidos dentro do período ou períodos de pesquisa fixados, as áreas sobre as quais esses direitos incidiam ficarão, para todos os efeitos, integradas nos exclusivos de pesquisa outorgados pela presente portaria.
+
+6.º Os concessionários anteriormente referidos ficam em tudo sujeitos à lei geral e em especial às disposições do Decreto de 20 de Setembro de 1906, bem como, no que respeita a minérios radioactivos e afins, às da [Portaria n.º 16267](https://diariodarepublica.pt/dr/detalhe/portaria/16267-1957-650924), de 23 de Abril de 1957, pelo que não ficam usufruindo direitos de exploração dos jazigos minerais eventualmente descobertos, os quais só poderão ser lavrados depois de apresentado e aprovado o respectivo plano de lavra e pedida a concessão mineira dos mesmos nos termos gerais da legislação mineira.
+
+7.º Serão aplicadas aos concessionários nesta portaria mencionados as disposições de ordem geral que venham a ser tomadas pelo Governo sobre pesquisas, exploração e venda de minérios.
+
+Ministério do Ultramar, 2 de Novembro de 1960. - Pelo Ministro do Ultramar, Carlos Krus Abecasis, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Carlos Abecasis.

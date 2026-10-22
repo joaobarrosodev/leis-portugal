@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:666750:por
+title: Decreto-Lei n.º 156-A/75
+short_title: null
+summary: Determina várias providências a adoptar pelo Estado em relação à Caixa Económica de Lisboa, instituição de crédito
+  anexa ao Montepio Geral
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 156-A/75
+official_date: null
+publication_date: '1975-03-25'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 71/1975, 1º Suplemento, Série I de 1975-03-25
+  number: '71'
+  series: I
+  supplement: 1º Suplemento
+  pages: 454-(1) a 454-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/03/07101/00010002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '666750'
+  dre_path: /dr/detalhe/decreto-lei/156-a-1975-666750
+  internal: pt:dre:666750:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-1975-666750
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-1975-666750
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-12-22T00:00:00Z'
+integrity:
+  source_sha256: 49523f53c5b1511a66d4c3d1a34b7dbbd0e848842cc61825a561fc38b1e8d2a1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-156-A-666750.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:307226:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 156-A/75
+
+de 25 de Março
+
+O [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, que nacionalizou as instituições de crédito, não abrange as caixas económicas. Segundo o ali preceituado, deverão as mesmas ser objecto de legislação especial, a publicar dentro de noventa dias.
+
+Sem prejuízo da sua integração no novo regime legal anunciado para as entidades do seu tipo, carece de intervenção imediata do Estado a Caixa Económica de Lisboa, instituição de crédito anexa ao Montepio Geral e que tem por corpos sociais os desta associação de socorros mútuos.
+
+O poder económico de que dispõe esta Caixa é muito apreciável e manifesta-se com evidência a necessidade de o pôr ao serviço da dinamização da actividade económica, à luz das realidades nacionais, entre as quais se conta a capacidade demonstrada pelos trabalhadores da banca na fiscalização e contrôle do respectivo sector de actividade.
+
+Tal intervenção não porá, de qualquer modo, em causa a prossecução dos fins do Montepio Geral como instituição de previdência, a qual continuará, nos termos legais e estatutários.
+
+Nestes termos:
+
+Usando os poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. O Primeiro-Ministro, ouvidos os Ministros das Finanças e dos Assuntos Sociais e os sindicatos dos bancários, nomeará, por despacho, uma comissão administrativa para o Montepio Geral, associação de socorros mútuos, com sede em Lisboa.
+
+2. A comissão administrativa será composta por três a cinco elementos de reconhecida competência, entre os quais dois sócios do Montepio Geral no pleno exercício dos seus direitos.
+
+###### Art. 2.º Consideram-se dissolvidos, a partir da publicação do despacho de nomeação da comissão administrativa, os actuais corpos sociais do Montepio Geral, associação de socorros mútuos, com sede em Lisboa.
+
+###### Art. 3.º A comissão administrativa, nomeada nos termos do artigo 1.º, exercerá funções até à entrada em funcionamento dos órgãos de gestão que venham a ser constituídos, nos termos da legislação especial prevista na alínea b) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março.
+
+###### Art. 4.º - 1. A comissão administrativa terá todos os poderes que, pela lei ou pelos estatutos, pertenciam à direcção do Montepio Geral, com excepção:
+
+a) Da faculdade de admissão, promoção, transferência, demissão ou alteração de remunerações ou quaisquer outras regalias dos trabalhadores;
+
+b) Da capacidade para a prática de actos que não estejam estritamente relacionados com as necessidades de gestão corrente da instituição.
+
+2. A prática de actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho de autorização dos Ministros das Finanças e dos Assuntos Sociais.
+
+###### Art. 5.º - 1. Por proposta da comissão administrativa, o Banco de Portugal poderá autorizar genericamente a realização, pela Caixa Económica de Lisboa, anexa ao Montepio Geral, de outras operações bancárias além das enunciadas nos seus estatutos.
+
+2. Não se aplica à Caixa Económica de Lisboa, anexa ao Montepio Geral, o disposto no corpo do artigo 79.º do [Decreto n.º 20944](https://diariodarepublica.pt/dr/detalhe/decreto/20944-1932-523236), de 27 de Fevereiro de 1932.
+
+###### Art. 6.º As remunerações dos membros da comissão administrativa, a atribuir enquanto esses membros exercerem tais funções, serão fixadas por despacho dos Ministros das Finanças e dos Assuntos Sociais, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, constituindo encargo da respectiva instituição.
+
+###### Art. 7.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros da comissão administrativa será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
+
+###### Art. 8.º A comissão administrativa elaborará, após o termo do seu mandato, relatório circunstanciado sobre a sua actividade e prestará contas da mesma para apreciação pelos Ministros das Finanças e dos Assuntos Sociais.
+
+###### Art. 9.º Os membros da direcção e do conselho fiscal, a dissolver nos termos do presente diploma, ficam obrigados a prestar à comissão administrativa as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
+
+###### Art. 10.º O presente diploma entra imediatamente em vigor.
+
+Visto e aprovado em Conselho da Revolução.
+
+**Promulgado em 25 de Março de 1975.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

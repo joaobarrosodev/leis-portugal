@@ -1,0 +1,413 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174595377:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-175399162",
+ "dre_path": "/dr/detalhe/portaria/255-a-2021-174595377",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175393724",
+    "175393725",
+    "175393726",
+    "175393727",
+    "175393728",
+    "175393729",
+    "175393730",
+    "175393731",
+    "175393732",
+    "175393733"
+   ]
+  },
+  {
+   "date": "2021-12-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175397109:por",
+     "title": "Portaria n.º 281-A/2021",
+     "published": "2021-12-03",
+     "dre_path": "/dr/detalhe/portaria/281-a-2021-175397109"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "175393724",
+    "175393725",
+    "175393726",
+    "175393735",
+    "175393728",
+    "175393729",
+    "175393730",
+    "175393731",
+    "175393732",
+    "175393733",
+    "175393734"
+   ]
+  },
+  {
+   "date": "2021-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176238466:por",
+     "title": "Portaria n.º 312-A/2021",
+     "published": "2021-12-21",
+     "dre_path": "/dr/detalhe/portaria/312-a-2021-176238466"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "175393724",
+    "175393725",
+    "175393726",
+    "175393735",
+    "176376380",
+    "175393729",
+    "175393730",
+    "175393731",
+    "175393732",
+    "176376381",
+    "175393734"
+   ]
+  },
+  {
+   "date": "2021-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176631032:por",
+     "title": "Portaria n.º 319-A/2021",
+     "published": "2021-12-27",
+     "dre_path": "/dr/detalhe/portaria/319-a-2021-176631032"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "175393724",
+    "175393725",
+    "175393726",
+    "175393735",
+    "176634046",
+    "175393729",
+    "175393730",
+    "176634047",
+    "175393732",
+    "176376381",
+    "175393734"
+   ]
+  },
+  {
+   "date": "2022-01-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178264015:por",
+     "title": "Portaria n.º 57/2022",
+     "published": "2022-01-27",
+     "dre_path": "/dr/detalhe/portaria/57-2022-178264015"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "175393724",
+    "175393725",
+    "175393726",
+    "175393735",
+    "178244336",
+    "175393729",
+    "175393730",
+    "176634047",
+    "175393732",
+    "178244337",
+    "175393734"
+   ]
+  },
+  {
+   "date": "2022-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179719790:por",
+     "title": "Portaria n.º 105/2022",
+     "published": "2022-02-28",
+     "dre_path": "/dr/detalhe/portaria/105-2022-179719790"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "175393724",
+    "175393725",
+    "175393726",
+    "179505040",
+    "179505041",
+    "175393729",
+    "175393730",
+    "176634047",
+    "175393732",
+    "179505042",
+    "175393734"
+   ]
+  },
+  {
+   "date": "2022-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:181159482:por",
+     "title": "Portaria n.º 129/2022",
+     "published": "2022-03-28",
+     "dre_path": "/dr/detalhe/portaria/129-2022-181159482"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "175393724",
+    "175393725",
+    "175393726",
+    "179505040",
+    "179505041",
+    "175393729",
+    "175393730",
+    "176634047",
+    "175393732",
+    "181205786",
+    "175393734"
+   ]
+  }
+ ],
+ "fragments": {
+  "175393724": {
+   "fragment_id": "175399163",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 255-A/2021\n\nde 18 de novembro\n\nSumário: Estabelece um regime excecional e temporário de comparticipação de testes rápidos de antigénio (TRAg) de uso profissional.\n\nNo contexto da situação epidemiológica provocada pelo novo coronavírus, o Governo tem vindo a adotar medidas com vista à prevenção, contenção e mitigação da transmissão do SARS-CoV-2 e da doença COVID-19, declarada como pandemia pela Organização Mundial da Saúde.\n\nNeste sentido, foi publicada a Portaria n.º 138-B/2021, de 30 de junho, alterada pela Portaria n.º 164-A/2021, de 29 de julho, e pela Portaria n.º 182/2021, de 31 de agosto, a qual veio estabelecer um regime excecional e temporário de comparticipação de testes rápidos de antigénio (TRAg) de uso profissional, definindo as condições de utilização, preço e medidas de monitorização e controlo, tendo a mesma vigorado até ao dia 30 de setembro de 2021.\n\nContudo, tendo em conta a atual situação epidemiológica, importa voltar a intensificar a realização de testes para deteção do SARS-CoV-2, de forma progressiva e proporcionada ao risco, que contribuam para o reforço do controlo da pandemia COVID-19.\n\nDe acordo com as orientações previstas na Norma 019/2020 da Direção-Geral da Saúde, a Estratégia de Testes para SARS-CoV-2 é adaptável à situação epidemiológica da COVID-19, de forma a permitir a deteção e isolamento precoce de casos, prevenir e mitigar o impacto da infeção por SARS-CoV-2 nos serviços de saúde e nas populações vulneráveis, reduzir e controlar a transmissão da infeção por SARS-CoV-2 e monitorizar a evolução epidemiológica da COVID-19.\n\nNeste contexto, como medida de reforço da proteção da saúde pública, importa voltar a garantir o acesso da população à realização de TRAg de uso profissional, prevendo um regime excecional de comparticipação de TRAg realizados a utentes do Serviço Nacional de Saúde (SNS) e, bem assim, fixar um regime especial de preços máximos para efeitos da referida comparticipação, nos termos do Decreto-Lei n.º 97/2015, de 1 de junho, na sua redação atual, respetivas condições de utilização e medidas de monitorização e controlo.\n\nAssim, ao abrigo do disposto no n.º 1 do artigo 17.º da Lei n.º 81/2009, de 21 de agosto, e no n.º 5 do artigo 12.º e no artigo 24.º do Decreto-Lei n.º 97/2015, de 1 de junho, na sua redação atual, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "175393725": {
+   "fragment_id": "175399164",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime excecional de comparticipação dos TRAg de uso profissional realizados a utentes do Serviço Nacional de Saúde (SNS)."
+  },
+  "175393726": {
+   "fragment_id": "175399165",
+   "type": 11,
+   "heading": "Artigo 2.º — Testes rápidos de antigénio de uso profissional comparticipáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Testes rápidos de antigénio de uso profissional comparticipáveis\n\nOs TRAg de uso profissional abrangidos pelo presente regime excecional de comparticipação constam de lista publicada no site do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., em conformidade com a Norma n.º 019/2020, de 26 de outubro, da Direção-Geral da Saúde, na sua redação atual."
+  },
+  "175393727": {
+   "fragment_id": "175399166",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime especial de preços máximos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime especial de preços máximos\n\n1 - A presente portaria fixa um regime especial de preços máximos para efeitos de comparticipação da realização dos TRAg de uso profissional.\n\n2 - Para efeitos do disposto no número anterior, o preço máximo da realização dos TRAg de uso profissional não pode exceder os (euro) 10 (dez euros)."
+  },
+  "175393728": {
+   "fragment_id": "175399167",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de comparticipação\n\n1 - O valor da comparticipação do Estado na realização dos TRAg é de 100 % do preço máximo fixado para efeitos de comparticipação, nos termos previstos na presente portaria.\n\n2 - A comparticipação é limitada ao máximo de quatro TRAg de uso profissional, por mês civil e por utente.\n\n3 - A realização dos TRAg de uso profissional abrangidos pela presente portaria apenas pode ter lugar nas farmácias de oficina e laboratórios de patologia clínica ou análises clínicas devidamente autorizadas para a realização de TRAg de uso profissional pela Entidade Reguladora da Saúde (ERS).\n\n4 - O resultado obtido no TRAg de uso profissional é comunicado ao utente e registado no sistema SINAVElab."
+  },
+  "175393729": {
+   "fragment_id": "175399168",
+   "type": 11,
+   "heading": "Artigo 5.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pagamento\n\nO pagamento dos TRAg de uso profissional processa-se com base nas regras e termos definidos para a comparticipação de medicamentos ou meios complementares de diagnóstico e terapêutica, com as necessárias adaptações, mediante a apresentação de declaração devidamente assinada pelo utente, nos termos de modelo a divulgar de acordo com o artigo 7.º da presente portaria."
+  },
+  "175393730": {
+   "fragment_id": "175399169",
+   "type": 11,
+   "heading": "Artigo 6.º — Sistema de monitorização e controlo da realização de TRAg de uso profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sistema de monitorização e controlo da realização de TRAg de uso profissional\n\n1 - A Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.), mantém e desenvolve a solução tecnológica de suporte ao sistema de monitorização e controlo para a realização de TRAg de uso profissional e disponibiliza as respetivas especificações técnicas.\n\n2 - As entidades referidas no n.º 3 do artigo 4.º devem assegurar a adaptação dos seus softwares de dispensa e prestação, em conformidade com as especificações técnicas referidas no número anterior.\n\n3 - A SPMS, E. P. E., disponibiliza a plataforma de prestadores de pequena dimensão por forma a garantir a sua conformidade com o sistema de monitorização e controlo da realização de TRAg de uso profissional.\n\n4 - As entidades garantem o correto registo da realização dos testes no sistema SINAVElab.\n\n5 - A fiscalização do cumprimento do disposto na presente portaria compete ao INFARMED, I. P., e à ERS, de acordo com as atribuições previstas nos respetivos diplomas orgânicos."
+  },
+  "175393731": {
+   "fragment_id": "175399170",
+   "type": 11,
+   "heading": "Artigo 7.º — Operacionalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Operacionalização\n\nMantém-se em vigor, com as devidas adaptações, a Circular Informativa Conjunta n.º 08/CD/100.20.200, de 30 de junho de 2021, da Direção-Geral da Saúde, da Administração Central do Sistema de Saúde, I. P., do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., do Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., e dos Serviços Partilhados do Ministério da Saúde, E. P. E., no que respeita à operacionalização e execução da presente portaria e sem prejuízo das atualizações que venham a ser emitidas."
+  },
+  "175393732": {
+   "fragment_id": "175399171",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma transitória\n\n1 - Até à adaptação das entidades à solução tecnológica prevista no artigo 6.º, e para fins de controlo, monitorização e faturação dos TRAg de uso profissional, são considerados os registos realizados pelas entidades no sistema SINAVElab.\n\n2 - A partir do dia 1 de dezembro de 2021, e para fins de controlo, monitorização e faturação dos TRAg de uso profissional, apenas são considerados os registos realizados pelas entidades na solução tecnológica prevista nos n.os 1 e 3 do artigo 6.º, sem prejuízo do registo obrigatório previsto no n.º 4 do artigo 6.º"
+  },
+  "175393733": {
+   "fragment_id": "175399172",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e vigência\n\nA presente portaria entra em vigor no dia 19 de novembro e vigora até ao dia 31 de dezembro de 2021, sem prejuízo da sua eventual prorrogação."
+  },
+  "175393735": {
+   "fragment_id": "175399166",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime especial de preços máximos",
+   "in_force_from": "2021-12-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-A/2021 - Diário da República n.º 234/2021, 1º Suplemento, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-a-2021-175397109), em vigor a partir de 2021-12-04, produz efeitos a partir de 2021-12-03"
+   ],
+   "markdown": "###### Artigo 3.º — Regime especial de preços máximos\n\n1 - A presente portaria fixa um regime especial de preços máximos para efeitos de comparticipação da realização dos TRAg de uso profissional.\n\n2 - Para efeitos do disposto no número anterior, o preço máximo da realização dos TRAg de uso profissional não pode exceder os (euro) 15 (quinze euros).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-A/2021 - Diário da República n.º 234/2021, 1º Suplemento, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-a-2021-175397109), em vigor a partir de 2021-12-04, produz efeitos a partir de 2021-12-03"
+  },
+  "175393734": {
+   "fragment_id": "175399173",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Diogo Luís Batalha Soeiro Serras Lopes, em 17 de novembro de 2021.\n\n114746531"
+  },
+  "176376380": {
+   "fragment_id": "175399167",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de comparticipação",
+   "in_force_from": "2021-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de comparticipação\n\n1 - O valor da comparticipação do Estado na realização dos TRAg é de 100 % do preço máximo fixado para efeitos de comparticipação, nos termos previstos na presente portaria.\n\n2 - A comparticipação é limitada ao máximo de quatro TRAg de uso profissional, por mês civil e por utente, salvo no mês de dezembro de 2021, em que a comparticipação é limitada ao máximo de seis TRAg de uso profissional, por utente.\n\n3 - A realização dos TRAg de uso profissional abrangidos pela presente portaria apenas pode ter lugar nas farmácias de oficina e laboratórios de patologia clínica ou análises clínicas devidamente autorizadas para a realização de TRAg de uso profissional pela Entidade Reguladora da Saúde (ERS).\n\n4 - O resultado obtido no TRAg de uso profissional é comunicado ao utente e registado no sistema SINAVElab.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+  },
+  "176376381": {
+   "fragment_id": "175399172",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor e vigência",
+   "in_force_from": "2021-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e vigência\n\nA presente portaria entra em vigor no dia 19 de novembro e vigora até ao dia 31 de janeiro de 2022, sem prejuízo da sua eventual prorrogação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+  },
+  "176634046": {
+   "fragment_id": "175399167",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de comparticipação",
+   "in_force_from": "2021-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2021 - Diário da República n.º 249/2021, 2º Suplemento, Série I de 2021-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2021-176631032), em vigor a partir de 2021-12-28, produz efeitos a partir de 2021-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de comparticipação\n\n1 - O valor da comparticipação do Estado na realização dos TRAg é de 100 % do preço máximo fixado para efeitos de comparticipação, nos termos previstos na presente portaria.\n\n2 - A comparticipação é limitada ao máximo de quatro TRAg de uso profissional, por mês civil e por utente, salvo no mês de dezembro de 2021, em que a comparticipação é limitada ao máximo de seis TRAg de uso profissional, por utente.\n\n3 - A realização dos TRAg de uso profissional abrangidos pela presente portaria pode ter lugar nas farmácias de oficina, laboratórios de patologia clínica ou análises clínicas ou outras entidades devidamente autorizadas para a realização de TRAg de uso profissional pela Entidade Reguladora da Saúde (ERS).\n\n4 - O resultado obtido no TRAg de uso profissional é comunicado ao utente e registado no sistema SINAVElab.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2021 - Diário da República n.º 249/2021, 2º Suplemento, Série I de 2021-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2021-176631032), em vigor a partir de 2021-12-28, produz efeitos a partir de 2021-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+  },
+  "176634047": {
+   "fragment_id": "175399170",
+   "type": 11,
+   "heading": "Artigo 7.º — Operacionalização",
+   "in_force_from": "2021-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2021 - Diário da República n.º 249/2021, 2º Suplemento, Série I de 2021-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2021-176631032), em vigor a partir de 2021-12-28, produz efeitos a partir de 2021-12-23"
+   ],
+   "markdown": "###### Artigo 7.º — Operacionalização\n\nMantém-se em vigor, com as devidas adaptações:\n\na) A Circular Informativa Conjunta n.º 08/CD/100.20.200, de 30 de junho de 2021, da Direção-Geral da Saúde, da Administração Central do Sistema de Saúde, I. P., do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., do Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., e dos Serviços Partilhados do Ministério da Saúde, E. P. E., no que respeita à operacionalização e execução da presente portaria, sem prejuízo das atualizações que venham a ser emitidas;\n\nb) A Circular Informativa Conjunta n.º 001/CD/100.20.200, de 12 de fevereiro de 2021, da Direção-Geral da Saúde, do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., e do Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., relativamente à operacionalização da utilização dos TRAg de uso profissional, sem prejuízo das atualizações que venham a ser emitidas\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2021 - Diário da República n.º 249/2021, 2º Suplemento, Série I de 2021-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2021-176631032), em vigor a partir de 2021-12-28, produz efeitos a partir de 2021-12-23"
+  },
+  "178244336": {
+   "fragment_id": "175399167",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de comparticipação",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 57/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2022-178264015), em vigor a partir de 2022-01-28, produz efeitos a partir de 2022-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2021 - Diário da República n.º 249/2021, 2º Suplemento, Série I de 2021-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2021-176631032), em vigor a partir de 2021-12-28, produz efeitos a partir de 2021-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de comparticipação\n\n1 - O valor da comparticipação do Estado na realização dos TRAg é de 100 % do preço máximo fixado para efeitos de comparticipação, nos termos previstos na presente portaria.\n\n2 - A comparticipação é limitada ao máximo de quatro TRAg de uso profissional, por mês civil e por utente, salvo no mês de dezembro de 2021, em que a comparticipação é limitada ao máximo de seis TRAg de uso profissional, por utente.\n\n3 - A realização dos TRAg de uso profissional abrangidos pela presente portaria pode ter lugar nas farmácias de oficina, laboratórios de patologia clínica ou análises clínicas ou outros estabelecimentos prestadores de cuidados de saúde com registo válido na Entidade Reguladora da Saúde (ERS) para a realização de TRAg de uso profissional.\n\n4 - O resultado obtido no TRAg de uso profissional é comunicado ao utente e registado no sistema SINAVElab.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 57/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2022-178264015), em vigor a partir de 2022-01-28, produz efeitos a partir de 2022-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2021 - Diário da República n.º 249/2021, 2º Suplemento, Série I de 2021-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2021-176631032), em vigor a partir de 2021-12-28, produz efeitos a partir de 2021-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+  },
+  "178244337": {
+   "fragment_id": "175399172",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor e vigência",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 57/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2022-178264015), em vigor a partir de 2022-01-28, produz efeitos a partir de 2022-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e vigência\n\nA presente portaria entra em vigor no dia 19 de novembro e vigora até ao dia 28 de fevereiro de 2022, sem prejuízo da sua eventual prorrogação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 57/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2022-178264015), em vigor a partir de 2022-01-28, produz efeitos a partir de 2022-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+  },
+  "179505040": {
+   "fragment_id": "175399166",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime especial de preços máximos",
+   "in_force_from": "2022-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 105/2022 - Diário da República n.º 41/2022, Série I de 2022-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/105-2022-179719790), em vigor a partir de 2022-03-01, produz efeitos a partir de 2022-03-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-A/2021 - Diário da República n.º 234/2021, 1º Suplemento, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-a-2021-175397109), em vigor a partir de 2021-12-04, produz efeitos a partir de 2021-12-03"
+   ],
+   "markdown": "###### Artigo 3.º — Regime especial de preços máximos\n\n1 - A presente portaria fixa um regime especial de preços máximos para efeitos de comparticipação da realização dos TRAg de uso profissional.\n\n2 - Para efeitos do disposto no número anterior, o preço máximo da realização dos TRAg de uso profissional não pode exceder os 10 (euro) (dez euros).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 105/2022 - Diário da República n.º 41/2022, Série I de 2022-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/105-2022-179719790), em vigor a partir de 2022-03-01, produz efeitos a partir de 2022-03-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281-A/2021 - Diário da República n.º 234/2021, 1º Suplemento, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-a-2021-175397109), em vigor a partir de 2021-12-04, produz efeitos a partir de 2021-12-03"
+  },
+  "179505041": {
+   "fragment_id": "175399167",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de comparticipação",
+   "in_force_from": "2022-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 105/2022 - Diário da República n.º 41/2022, Série I de 2022-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/105-2022-179719790), em vigor a partir de 2022-03-01, produz efeitos a partir de 2022-03-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 57/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2022-178264015), em vigor a partir de 2022-01-28, produz efeitos a partir de 2022-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2021 - Diário da República n.º 249/2021, 2º Suplemento, Série I de 2021-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2021-176631032), em vigor a partir de 2021-12-28, produz efeitos a partir de 2021-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de comparticipação\n\n1 - O valor da comparticipação do Estado na realização dos TRAg é de 100 % do preço máximo fixado para efeitos de comparticipação, nos termos previstos na presente portaria.\n\n2 - A comparticipação é limitada ao máximo de dois TRAg de uso profissional, por mês civil e por utente.\n\n3 - A realização dos TRAg de uso profissional abrangidos pela presente portaria pode ter lugar nas farmácias de oficina, laboratórios de patologia clínica ou análises clínicas ou outros estabelecimentos prestadores de cuidados de saúde com registo válido na Entidade Reguladora da Saúde (ERS) para a realização de TRAg de uso profissional.\n\n4 - O resultado obtido no TRAg de uso profissional é comunicado ao utente e registado no sistema SINAVElab.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 105/2022 - Diário da República n.º 41/2022, Série I de 2022-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/105-2022-179719790), em vigor a partir de 2022-03-01, produz efeitos a partir de 2022-03-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 57/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2022-178264015), em vigor a partir de 2022-01-28, produz efeitos a partir de 2022-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2021 - Diário da República n.º 249/2021, 2º Suplemento, Série I de 2021-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2021-176631032), em vigor a partir de 2021-12-28, produz efeitos a partir de 2021-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+  },
+  "179505042": {
+   "fragment_id": "175399172",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor e vigência",
+   "in_force_from": "2022-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 105/2022 - Diário da República n.º 41/2022, Série I de 2022-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/105-2022-179719790), em vigor a partir de 2022-03-01, produz efeitos a partir de 2022-03-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 57/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2022-178264015), em vigor a partir de 2022-01-28, produz efeitos a partir de 2022-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e vigência\n\nA presente portaria entra em vigor no dia 19 de novembro e vigora até ao dia 31 de março de 2022, sem prejuízo da sua eventual prorrogação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 105/2022 - Diário da República n.º 41/2022, Série I de 2022-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/105-2022-179719790), em vigor a partir de 2022-03-01, produz efeitos a partir de 2022-03-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 57/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2022-178264015), em vigor a partir de 2022-01-28, produz efeitos a partir de 2022-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+  },
+  "181205786": {
+   "fragment_id": "175399172",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor e vigência",
+   "in_force_from": "2022-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2022 - Diário da República n.º 61/2022, Série I de 2022-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/129-2022-181159482), em vigor a partir de 2022-03-29, produz efeitos a partir de 2022-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 105/2022 - Diário da República n.º 41/2022, Série I de 2022-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/105-2022-179719790), em vigor a partir de 2022-03-01, produz efeitos a partir de 2022-03-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 57/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2022-178264015), em vigor a partir de 2022-01-28, produz efeitos a partir de 2022-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e vigência\n\nA presente portaria entra em vigor no dia 19 de novembro e vigora até ao dia 30 de abril de 2022, sem prejuízo da sua eventual prorrogação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2022 - Diário da República n.º 61/2022, Série I de 2022-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/129-2022-181159482), em vigor a partir de 2022-03-29, produz efeitos a partir de 2022-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 105/2022 - Diário da República n.º 41/2022, Série I de 2022-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/105-2022-179719790), em vigor a partir de 2022-03-01, produz efeitos a partir de 2022-03-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 57/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/57-2022-178264015), em vigor a partir de 2022-01-28, produz efeitos a partir de 2022-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2021 - Diário da República n.º 245/2021, 2º Suplemento, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2021-176238466), em vigor a partir de 2021-12-22, produz efeitos a partir de 2021-12-01"
+  }
+ }
+}

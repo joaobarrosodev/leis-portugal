@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:124793108:por
+title: Decreto Regulamentar Regional n.º 7/2019/M
+short_title: null
+summary: Primeira alteração ao Decreto Regulamentar Regional n.º 21/2016/M, de 30 de setembro, que aprova a estrutura orgânica
+  da Direção Regional de Estradas
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 7/2019/M
+official_date: null
+publication_date: '2019-09-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/2019, Série I de 2019-09-18
+  number: '179'
+  series: I
+  supplement: null
+  pages: 62 - 64
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17900/0006200064.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/7/2019/09/18/m/dre/pt/html
+  oj: null
+  dre: '124793108'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/7-2019-124793108
+  internal: pt:dre:124793108:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108
+  metadata_url: https://data.dre.pt/eli/decregulreg/7/2019/09/18/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-09-18T00:00:00Z'
+integrity:
+  source_sha256: 3b210b7b47e2f9a540bf4199ddfee5c323b5f6790316c1ecd355f54a417a8035
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2019/DRE-2019-7-124793108.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Definição de Competências
+- Direcção Regional de Estradas
+- Orgânica
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Secretaria Regional dos Assuntos Parlamentares e Europeus
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decl
+  label: null
+  source: http://data.dre.pt/eli/decl
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/13/2017/11/07/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/13/2017/11/07/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/2/2018/01/24/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/2/2018/01/24/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/21/2016/09/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/21/2016/09/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 7/2019/M
+
+Altera o [Decreto Regulamentar Regional n.º 21/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2016-75437528), de 30 de setembro, que aprova a Orgânica da Direção Regional de Estradas
+
+O [Decreto Regulamentar Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2018-114561727), de 24 de janeiro, veio definir a orgânica da Secretaria Regional dos Equipamentos e Infraestruturas, que integra a Direção Regional de Estradas.
+
+Na nova estrutura, a Direção Regional de Estradas passa a ter a missão de promover e assegurar o apoio técnico às competências do Secretário Regional dos Equipamentos e Infraestruturas previstas no n.º 3 do artigo 3.º e no n.º 2 do artigo 6.º do [Decreto Regulamentar Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2018-114561727), nomeadamente às competências e definição das orientações na Concessionária de Estradas, VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira, mencionadas no n.º 3 do artigo 9.º do [Decreto Regulamentar Regional n.º 13/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2017-114157368), de 7 de novembro.
+
+A fiscalização e acompanhamento dos contratos no âmbito das parcerias público privadas que passaram a estar sob a responsabilidade da Secretaria Regional dos Equipamentos e Infraestruturas, levam à necessidade de reajustamentos na DRE ao nível do serviço com atribuições na área das concessões e projetos e na área financeira, no sentido de assegurar a fiscalização e acompanhamento dos referidos contratos.
+
+Por outro lado, o recomeço das grandes obras vem ditando a necessidade reforçar e adaptar a estrutura do serviço com que tem por missão coordenar as atividades necessárias à realização física dos empreendimentos.
+
+Finalmente, a alteração nas configurações no que respeita à rede rodoviária regional, motivada pela passagem para a alçada da Direção Regional de Estradas de troços de estradas anteriormente concessionadas, levam também à necessidade de reajustamentos ao nível dos serviços com atribuições na área de conservação e exploração, no sentido de assegurar a gestão dos contratos de conservação rodoviária.
+
+Nestes termos, impõe-se uma reestruturação da orgânica da Direção Regional de Estradas, aprovada pelo [Decreto Regulamentar Regional n.º 21/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2016-75437528), de 30 de setembro, no sentido de a adequar à respetiva missão e reais necessidades.
+
+Assim, ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do n.º 1 do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado e republicado pelo [Decreto Legislativo Regional n.º 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, pelo [Decreto Legislativo Regional n.º 2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro e pelo [Decreto Legislativo Regional n.º 42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma procede à primeira alteração ao [Decreto Regulamentar Regional n.º 21/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2016-75437528), de 30 de setembro, que aprova a estrutura orgânica da Direção Regional de Estradas, adiante designada, abreviadamente, por DRE.
+
+###### Artigo 2.º — Alteração ao [Decreto Regulamentar Regional n.º 21/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2016-75437528), de 30 de setembro
+
+São alterados os artigos 2.º, 3.º e 4.º do [Decreto Regulamentar Regional n.º 21/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2016-75437528), de 30 de setembro, que aprova a estrutura orgânica da DRE, os quais passam a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+A DRE é um serviço executivo central, integrado na estrutura da Secretaria Regional dos Equipamentos e Infraestruturas, conforme decorre da alínea b) do n.º 1 do artigo 9.º do [Decreto Regulamentar Regional n.º 13/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2017-114157368), de 7 de novembro, sob a administração direta da Região Autónoma da Madeira, que prossegue as atribuições relativas ao setor das estradas.
+
+###### Artigo 3.º — [...]
+
+A Direção Regional de Estradas tem por missão assegurar a execução política do planeamento, da concretização e da gestão das infraestruturas rodoviárias da rede regional que não estejam afetas às concessões rodoviárias, bem como promover e assegurar o apoio técnico às competências previstas no n.º 3 do artigo 3.º e no n.º 2 do artigo 6.º do [Decreto Regulamentar Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2018-114561727), de 24 de janeiro.
+
+###### Artigo 4.º — [...]
+
+1 - Na prossecução da sua missão, são atribuições da DRE:
+
+a) Apoiar a Secretaria Regional dos Equipamentos e Infraestruturas na formulação e concretização das políticas relativas às estradas regionais e acompanhar a execução das medidas delas decorrentes;
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) Promover e assegurar o apoio técnico ao Secretário Regional dos Equipamentos e Infraestruturas na definição das orientações na Concessionária de Estradas, VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira;
+
+m) [...]
+
+2 - [...]»
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional de 14 de agosto de 2019.
+
+O Vice-Presidente do Governo Regional, no exercício da Presidência, Pedro Miguel Amaro de Bettencourt Calado.
+
+**Assinado em 23 de agosto de 2019.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

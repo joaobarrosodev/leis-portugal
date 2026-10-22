@@ -1,0 +1,405 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:635801:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-147432956",
+ "dre_path": "/dr/detalhe/decreto-lei/252-2007-635801",
+ "source_lastmod": "2026-08-19",
+ "versions": [
+  {
+   "date": "2007-07-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "147431861",
+    "147431862",
+    "147431863",
+    "147431864",
+    "147431865",
+    "147431866",
+    "147431867",
+    "147431868",
+    "147431869",
+    "147431870"
+   ]
+  },
+  {
+   "date": "2020-11-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:147432951:por",
+     "title": "Decreto-Lei n.º 94/2020",
+     "published": "2020-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/94-2020-147432951"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-B"
+   ],
+   "fragments": [
+    "147431861",
+    "147431862",
+    "147431863",
+    "147431864",
+    "147431865",
+    "147431866",
+    "147431867",
+    "147431868",
+    "147527409",
+    "147527410",
+    "147527411",
+    "147527412"
+   ]
+  },
+  {
+   "date": "2024-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:867193656:por",
+     "title": "Decreto-Lei n.º 37/2024",
+     "published": "2024-05-28",
+     "dre_path": "/dr/detalhe/decreto-lei/37-2024-867193656"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "147431861",
+    "147431862",
+    "865531858",
+    "147431864",
+    "147431865",
+    "147431866",
+    "147431867",
+    "865531859",
+    "865531860",
+    "865531861",
+    "865531862",
+    "865531863",
+    "865531864"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1159106557:por",
+     "title": "Decreto-Lei n.º 169/2026",
+     "published": "2026-08-18",
+     "dre_path": "/dr/detalhe/decreto-lei/169-2026-1159106557"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "147431861",
+    "147431862",
+    "1160381875",
+    "1160379675",
+    "1160379875",
+    "1160379975",
+    "1160384075",
+    "1160384175",
+    "1160384275",
+    "1160384375",
+    "1160384475",
+    "1160384575",
+    "1160384675",
+    "1160384775"
+   ]
+  }
+ ],
+ "fragments": {
+  "147431861": {
+   "fragment_id": "147432957",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 252/2007\n\nde 5 de Julho\n\nEnvelhecer com saúde, autonomia e independência constitui, hoje, um desafio à responsabilidade individual e colectiva, com tradução significativa no desenvolvimento económico do País. Este desafio refere-se não apenas à sustentabilidade do próprio sistema de saúde mas, acima de tudo, à garantia da equidade no acesso e na qualidade dos cuidados de saúde prestados.\n\nO progressivo envelhecimento demográfico, entre outros aspectos, tem determinado o aumento das doenças crónicas e incapacitantes em determinados grupos da população, designadamente os idosos, com implicação directa nos custos da aquisição de medicamentos ou outros produtos necessários à manutenção e protecção da saúde.\n\nConstata-se, ainda, que é precisamente entre os idosos que o risco de pobreza é mais elevado, particularmente nos idosos que vivem isolados, pelo que importa ter em conta a aplicação do princípio da diferenciação positiva enquanto instrumento de justiça social.\n\nSabendo que existem, em Portugal, idosos com rendimentos muito reduzidos e que despendem grande parte dos seus recursos económicos com a saúde, nomeadamente com medicamentos e outras áreas de apoio com baixa comparticipação pelo Estado, é intenção deste governo atribuir-lhes benefícios adicionais, atendendo à sua situação sócio-económica muito desfavorecida.\n\nEsta medida enquadra-se nas políticas globais definidas no Programa do XVII Governo Constitucional quanto à redução das desigualdades e melhoria da qualidade de vida dos idosos e assenta, particularmente, nos princípios definidos para a atribuição do complemento solidário para idosos.\n\nOs benefícios adicionais criados pelo presente decreto-lei traduzem-se em reembolsos aos beneficiários, por este ser um mecanismo de célere implementação.\n\nO sistema que agora se implementa não inviabiliza que, num futuro próximo, se adopte um procedimento mais ajustado à condição sócio-económica desta população, designadamente através de mecanismos que obviem ao pagamento inicial do custo destes produtos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "147431862": {
+   "fragment_id": "147432958",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei procede à criação de benefícios adicionais de saúde para os beneficiários do complemento solidário para idosos instituído pelo Decreto-Lei n.º 232/2005, de 29 de Dezembro."
+  },
+  "147431863": {
+   "fragment_id": "147432959",
+   "type": 11,
+   "heading": "Artigo 2.º — Benefícios adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Benefícios adicionais\n\n1 - São criados os seguintes benefícios adicionais:\n\na) Participação financeira em 50% da parcela do preço dos medicamentos não comparticipada pelo Estado;\n\nb) Participação financeira em 75% da despesa na aquisição de óculos e lentes até ao limite de (euro) 100, por cada período de dois anos;\n\nc) Participação financeira em 75% da despesa na aquisição e reparação de próteses dentárias removíveis até ao limite de (euro) 250, por cada período de três anos.\n\n2 - Os benefícios adicionais incidem apenas sobre a parcela não comparticipada ou reembolsada.\n\n3 - A participação financeira do Estado nos benefícios adicionais é efectuada por reembolso."
+  },
+  "147431864": {
+   "fragment_id": "147432960",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições para a atribuição dos benefícios adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições para a atribuição dos benefícios adicionais\n\n1 - Para a atribuição das participações financeiras previstas no artigo anterior, os beneficiários do complemento solidário para idosos devem apresentar no centro de saúde onde estão inscritos, pessoalmente ou por representante, o documento válido comprovativo da sua situação de beneficiário do complemento solidário para idosos, emitido pelo Instituto da Segurança Social, I. P.\n\n2 - A apresentação do documento previsto no número anterior é efectuada apenas na primeira vez em que o beneficiário do complemento solidário pretenda fruir dos benefícios adicionais criados pelo presente decreto-lei."
+  },
+  "147431865": {
+   "fragment_id": "147432961",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações dos beneficiários\n\nPara beneficiarem das participações financeiras referidas nas alíneas a), b) e c) do n.º 1 do artigo 2.º, os beneficiários do complemento solidário para idosos devem apresentar no centro de saúde onde estão inscritos, pessoalmente, por representante ou por correio, os seguintes documentos:\n\na) Cópia da receita médica e da respectiva factura;\n\nb) As facturas discriminadas comprovativas da despesa e respectiva quitação;\n\nc) Os documentos de prescrição de óculos e lentes oculares."
+  },
+  "147431866": {
+   "fragment_id": "147432962",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuição e processamento dos benefícios adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuição e processamento dos benefícios adicionais\n\n1 - A decisão de atribuição dos benefícios adicionais bem como a verificação dos documentos e condições previstas no presente decreto-lei compete aos centros de saúde, sem prejuízo da validação da situação do beneficiário pelo Instituto da Segurança Social, I. P.\n\n2 - A gestão da atribuição dos benefícios adicionais de saúde no âmbito do Ministério da Saúde compete à administração central do Sistema de Saúde, I. P."
+  },
+  "147431867": {
+   "fragment_id": "147432963",
+   "type": 11,
+   "heading": "Artigo 6.º — Pagamento dos benefícios adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pagamento dos benefícios adicionais\n\n1 - A administração central do Sistema de Saúde, I. P., envia, até ao 8.º dia do mês subsequente ao do pedido do benefício, ao Instituto da Segurança Social, I. P., a ordem de pagamento para a totalidade dos benefícios adicionais concedidos no mês anterior, nos termos dos números seguintes.\n\n2 - A ordem de pagamento identifica o beneficiário, com nome e número de identificação de segurança social, indica o valor do benefício a atribuir e discrimina a despesa.\n\n3 - O pagamento do benefício adicional é efectuado pelo Instituto da Segurança Social, I. P., juntamente com o pagamento do complemento solidário para idosos no mês subsequente ao da recepção da respectiva ordem de pagamento."
+  },
+  "147431868": {
+   "fragment_id": "147432964",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\n1 - Os benefícios adicionais criados pelo presente decreto-lei são financiados por verbas do Orçamento do Estado nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas das finanças, da saúde, do trabalho e da solidariedade social.\n\n2 - As condições que se afigurem necessárias a observar na atribuição dos benefícios adicionais previstos no presente decreto-lei são definidas por portaria do membro do Governo responsável pela área da saúde."
+  },
+  "147431869": {
+   "fragment_id": "147432965",
+   "type": 11,
+   "heading": "Artigo 8.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regiões Autónomas\n\nO regime previsto no presente decreto-lei aplica-se às Regiões Autónomas da Madeira e dos Açores, sem prejuízo das adaptações da estrutura própria da administração regional autónoma a introduzir por decreto legislativo regional."
+  },
+  "147431870": {
+   "fragment_id": "147432966",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "147527409": {
+   "fragment_id": "147432971",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Simplificação de procedimentos",
+   "in_force_from": "2020-11-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04"
+   ],
+   "markdown": "###### Artigo 7.º-B — Simplificação de procedimentos\n\nPor portaria dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da saúde, são criados procedimentos alternativos desmaterializados, ajustados à condição socioeconómica dos beneficiários do complemento solidário para idosos, que obviem ao pagamento inicial do custo com a aquisição de medicamentos a que se reporta a alínea a) do n.º 1 do artigo 2.º\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04"
+  },
+  "147527410": {
+   "fragment_id": "147432965",
+   "type": 11,
+   "heading": "Artigo 8.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regiões Autónomas\n\nO regime previsto no presente decreto-lei aplica-se às Regiões Autónomas da Madeira e dos Açores, sem prejuízo das adaptações da estrutura própria da administração regional autónoma a introduzir por decreto legislativo regional."
+  },
+  "147527411": {
+   "fragment_id": "147432966",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "147527412": {
+   "fragment_id": "147432967",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Abril de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.\n\nPromulgado em 5 de Junho de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 6 de Junho de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "865531858": {
+   "fragment_id": "147432959",
+   "type": 11,
+   "heading": "Artigo 2.º — Benefícios adicionais",
+   "in_force_from": "2024-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2024 - Diário da República n.º 103/2024, Série I de 2024-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2024-867193656), em vigor a partir de 2024-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Benefícios adicionais\n\n1 - São criados os seguintes benefícios adicionais:\n\na) Participação financeira em 100 % da parcela do preço dos medicamentos não comparticipada pelo Estado;\n\nb) Participação financeira em 75% da despesa na aquisição de óculos e lentes até ao limite de (euro) 100, por cada período de dois anos;\n\nc) Participação financeira em 75% da despesa na aquisição e reparação de próteses dentárias removíveis até ao limite de (euro) 250, por cada período de três anos.\n\n2 - Os benefícios adicionais incidem apenas sobre a parcela não comparticipada ou reembolsada.\n\n3 - A participação financeira do Estado nos benefícios adicionais é efectuada por reembolso.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2024 - Diário da República n.º 103/2024, Série I de 2024-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2024-867193656), em vigor a partir de 2024-06-01"
+  },
+  "865531859": {
+   "fragment_id": "867450712",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Monitorização",
+   "in_force_from": "2024-06-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 37/2024 - Diário da República n.º 103/2024, Série I de 2024-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2024-867193656), em vigor a partir de 2024-06-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Monitorização\n\n1 - A monitorização da medida prevista na alínea a) do n.º 1 do artigo 2.º é efetuada pelo INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), com vista a avaliar a sua eficácia, bem como a identificar eventuais situações de fraude ou de desperdício.\n\n2 - O INFARMED, I. P., envia, trimestralmente, até ao dia 10 do mês seguinte ao trimestre a que a informação reporta, aos membros do Governo responsáveis pelas áreas da solidariedade e segurança social e saúde, um relatório relativo à execução do presente decreto-lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 37/2024 - Diário da República n.º 103/2024, Série I de 2024-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2024-867193656), em vigor a partir de 2024-06-01"
+  },
+  "865531860": {
+   "fragment_id": "147432964",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\n1 - Os benefícios adicionais criados pelo presente decreto-lei são financiados por verbas do Orçamento do Estado nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas das finanças, da saúde, do trabalho e da solidariedade social.\n\n2 - As condições que se afigurem necessárias a observar na atribuição dos benefícios adicionais previstos no presente decreto-lei são definidas por portaria do membro do Governo responsável pela área da saúde."
+  },
+  "865531861": {
+   "fragment_id": "147432971",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Simplificação de procedimentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04"
+   ],
+   "markdown": "###### Artigo 7.º-B — Simplificação de procedimentos\n\nPor portaria dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da saúde, são criados procedimentos alternativos desmaterializados, ajustados à condição socioeconómica dos beneficiários do complemento solidário para idosos, que obviem ao pagamento inicial do custo com a aquisição de medicamentos a que se reporta a alínea a) do n.º 1 do artigo 2.º\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04"
+  },
+  "865531862": {
+   "fragment_id": "147432965",
+   "type": 11,
+   "heading": "Artigo 8.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regiões Autónomas\n\nO regime previsto no presente decreto-lei aplica-se às Regiões Autónomas da Madeira e dos Açores, sem prejuízo das adaptações da estrutura própria da administração regional autónoma a introduzir por decreto legislativo regional."
+  },
+  "865531863": {
+   "fragment_id": "147432966",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "865531864": {
+   "fragment_id": "147432967",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Abril de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.\n\nPromulgado em 5 de Junho de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 6 de Junho de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "1160381875": {
+   "fragment_id": "147432959",
+   "type": 11,
+   "heading": "Artigo 2.º — Benefícios adicionais",
+   "in_force_from": "2026-10-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2026 - Diário da República n.º 159/2026, Série I de 2026-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2026-1159106557), em vigor a partir de 2026-10-17.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2024 - Diário da República n.º 103/2024, Série I de 2024-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2024-867193656), em vigor a partir de 2024-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Benefícios adicionais\n\n1 - São criados os seguintes benefícios adicionais:\n\na) No caso de medicamentos comparticipados integrados num grupo homogéneo, o valor máximo de comparticipação adicional corresponde:\n\ni) A 100 % sobre o preço de referência do grupo homogéneo; ou\n\nii) Ao preço de venda ao público (PVP) do medicamento, sempre que o PVP do medicamento seja inferior ao valor apurado nos termos da subalínea anterior;\n\nb) No caso de medicamentos comparticipados não integrados num grupo homogéneo, ou prescritos ao abrigo das alíneas a) e b) do n.º 3 do artigo 120.º do Decreto-Lei n.º 176/2006, de 30 de agosto, o valor máximo de comparticipação é calculado por aplicação da percentagem de 100 % sobre o PVP do medicamento;\n\nc) Participação financeira em 75% da despesa na aquisição de óculos e lentes até ao limite de (euro) 100, por cada período de dois anos;\n\nd) Participação financeira em 75% da despesa na aquisição e reparação de próteses dentárias removíveis até ao limite de (euro) 250, por cada período de três anos.\n\n2 - Os benefícios adicionais incidem apenas sobre a parcela não comparticipada ou reembolsada.\n\n3 - A participação financeira do Estado nos benefícios adicionais é efectuada por reembolso.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2026 - Diário da República n.º 159/2026, Série I de 2026-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2026-1159106557), em vigor a partir de 2026-10-17.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2024 - Diário da República n.º 103/2024, Série I de 2024-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2024-867193656), em vigor a partir de 2024-06-01"
+  },
+  "1160379675": {
+   "fragment_id": "1160379575",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Garantias do utente",
+   "in_force_from": "2026-10-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 169/2026 - Diário da República n.º 159/2026, Série I de 2026-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2026-1159106557), em vigor a partir de 2026-10-17."
+   ],
+   "markdown": "###### Artigo 2.º-A — Garantias do utente\n\n1 - A violação dos deveres de dispensa e de informação previstos nos n.os 2, 3 e 4 do artigo 120.º-A do Decreto-Lei n.º 176/2006, de 30 de agosto, determina a dispensa imediata do medicamento equivalente escolhido pelo utente, da qual não pode resultar o pagamento de qualquer montante acrescido por parte do beneficiário do complemento solidário para idosos.\n\n2 - O disposto no número anterior não prejudica a aplicação do regime sancionatório previsto na alínea a) do n.º 1 do artigo 48.º do Decreto-Lei n.º 307/2007, de 31 de agosto.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 169/2026 - Diário da República n.º 159/2026, Série I de 2026-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2026-1159106557), em vigor a partir de 2026-10-17."
+  },
+  "1160379875": {
+   "fragment_id": "147432960",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições para a atribuição dos benefícios adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições para a atribuição dos benefícios adicionais\n\n1 - Para a atribuição das participações financeiras previstas no artigo anterior, os beneficiários do complemento solidário para idosos devem apresentar no centro de saúde onde estão inscritos, pessoalmente ou por representante, o documento válido comprovativo da sua situação de beneficiário do complemento solidário para idosos, emitido pelo Instituto da Segurança Social, I. P.\n\n2 - A apresentação do documento previsto no número anterior é efectuada apenas na primeira vez em que o beneficiário do complemento solidário pretenda fruir dos benefícios adicionais criados pelo presente decreto-lei."
+  },
+  "1160379975": {
+   "fragment_id": "147432961",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigações dos beneficiários",
+   "in_force_from": "2026-10-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2026 - Diário da República n.º 159/2026, Série I de 2026-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2026-1159106557), em vigor a partir de 2026-10-17."
+   ],
+   "markdown": "###### Artigo 4.º — Obrigações dos beneficiários\n\nPara efeito de acesso às participações financeiras referidas no n.º 1 do artigo 2.º, os beneficiários do complemento solidário para idosos devem apresentar no centro de saúde onde estão inscritos pessoalmente, por representante ou por correio, os seguintes documentos:\n\na) Cópia da receita médica e da respectiva factura;\n\nb) As facturas discriminadas comprovativas da despesa e respectiva quitação;\n\nc) Os documentos de prescrição de óculos e lentes oculares.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2026 - Diário da República n.º 159/2026, Série I de 2026-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2026-1159106557), em vigor a partir de 2026-10-17."
+  },
+  "1160384075": {
+   "fragment_id": "147432962",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuição e processamento dos benefícios adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuição e processamento dos benefícios adicionais\n\n1 - A decisão de atribuição dos benefícios adicionais bem como a verificação dos documentos e condições previstas no presente decreto-lei compete aos centros de saúde, sem prejuízo da validação da situação do beneficiário pelo Instituto da Segurança Social, I. P.\n\n2 - A gestão da atribuição dos benefícios adicionais de saúde no âmbito do Ministério da Saúde compete à administração central do Sistema de Saúde, I. P."
+  },
+  "1160384175": {
+   "fragment_id": "147432963",
+   "type": 11,
+   "heading": "Artigo 6.º — Pagamento dos benefícios adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pagamento dos benefícios adicionais\n\n1 - A administração central do Sistema de Saúde, I. P., envia, até ao 8.º dia do mês subsequente ao do pedido do benefício, ao Instituto da Segurança Social, I. P., a ordem de pagamento para a totalidade dos benefícios adicionais concedidos no mês anterior, nos termos dos números seguintes.\n\n2 - A ordem de pagamento identifica o beneficiário, com nome e número de identificação de segurança social, indica o valor do benefício a atribuir e discrimina a despesa.\n\n3 - O pagamento do benefício adicional é efectuado pelo Instituto da Segurança Social, I. P., juntamente com o pagamento do complemento solidário para idosos no mês subsequente ao da recepção da respectiva ordem de pagamento."
+  },
+  "1160384275": {
+   "fragment_id": "867450712",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Monitorização",
+   "in_force_from": "2024-06-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 37/2024 - Diário da República n.º 103/2024, Série I de 2024-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2024-867193656), em vigor a partir de 2024-06-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Monitorização\n\n1 - A monitorização da medida prevista na alínea a) do n.º 1 do artigo 2.º é efetuada pelo INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), com vista a avaliar a sua eficácia, bem como a identificar eventuais situações de fraude ou de desperdício.\n\n2 - O INFARMED, I. P., envia, trimestralmente, até ao dia 10 do mês seguinte ao trimestre a que a informação reporta, aos membros do Governo responsáveis pelas áreas da solidariedade e segurança social e saúde, um relatório relativo à execução do presente decreto-lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 37/2024 - Diário da República n.º 103/2024, Série I de 2024-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2024-867193656), em vigor a partir de 2024-06-01"
+  },
+  "1160384375": {
+   "fragment_id": "147432964",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\n1 - Os benefícios adicionais criados pelo presente decreto-lei são financiados por verbas do Orçamento do Estado nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas das finanças, da saúde, do trabalho e da solidariedade social.\n\n2 - As condições que se afigurem necessárias a observar na atribuição dos benefícios adicionais previstos no presente decreto-lei são definidas por portaria do membro do Governo responsável pela área da saúde."
+  },
+  "1160384475": {
+   "fragment_id": "147432971",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Simplificação de procedimentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04"
+   ],
+   "markdown": "###### Artigo 7.º-B — Simplificação de procedimentos\n\nPor portaria dos membros do Governo responsáveis pelas áreas das finanças, da segurança social e da saúde, são criados procedimentos alternativos desmaterializados, ajustados à condição socioeconómica dos beneficiários do complemento solidário para idosos, que obviem ao pagamento inicial do custo com a aquisição de medicamentos a que se reporta a alínea a) do n.º 1 do artigo 2.º\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04"
+  },
+  "1160384575": {
+   "fragment_id": "147432965",
+   "type": 11,
+   "heading": "Artigo 8.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regiões Autónomas\n\nO regime previsto no presente decreto-lei aplica-se às Regiões Autónomas da Madeira e dos Açores, sem prejuízo das adaptações da estrutura própria da administração regional autónoma a introduzir por decreto legislativo regional."
+  },
+  "1160384675": {
+   "fragment_id": "147432966",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "1160384775": {
+   "fragment_id": "147432967",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Abril de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.\n\nPromulgado em 5 de Junho de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 6 de Junho de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

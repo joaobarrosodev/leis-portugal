@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:249851:por
+title: Portaria n.º 274/2008
+short_title: null
+summary: Lança em circulação, cumulativamente com as que estão em vigor, uma emissão de selos autoadesivos de tiragem ilimitada
+  alusiva aos Transportes Públicos Urbanos - 2.º grupo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 274/2008
+official_date: null
+publication_date: '2008-04-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 70/2008, Série I de 2008-04-09
+  number: '70'
+  series: I
+  supplement: null
+  pages: 2160 - 2160
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07000/0216002160.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/274/2008/04/09/p/dre/pt/html
+  oj: null
+  dre: '249851'
+  dre_path: /dr/detalhe/portaria/274-2008-249851
+  internal: pt:dre:249851:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/274-2008-249851
+  metadata_url: https://data.dre.pt/eli/port/274/2008/04/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/274-2008-249851
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-04-09T00:00:00Z'
+integrity:
+  source_sha256: 2f20131f81e9a5e986ea52057d64cf6983a9652ee78ecbb3889210c2cd92a6f0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-274-249851.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CTT
+- SELO Comemorativo
+- SELO Postal
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 274/2008
+
+de 9 de Abril
+
+Manda o Governo, pelo Secretário de Estado Adjunto, das Obras Públicas e das Comunicações ao abrigo das disposições do artigo 4.º do [Decreto-Lei n.º 360/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1985-179355) de 3 de Setembro, seja lançada em circulação, cumulativamente com as que estão em vigor, uma emissão base de selos auto-adesivos de tiragem ilimitada alusiva aos «Transportes Públicos Urbanos - 2.º grupo», com as seguintes características:
+
+Designer - Atelier Acácio Santos;
+
+Fotos - Museu da Carris, Arquivo da CP e Turismo de Lisboa;
+
+Dimensão - 30 mm x 25 mm;
+
+Impressor - Walsall;
+
+1.º dia de circulação - 13 de Maio de 2008;
+
+Taxas e motivos:
+
+N20 g (Correio Nacional Normal) - Táxi Oldsmobile, 1928, Lisboa;
+
+A20 g (Correio Azul Nacional) - Composição Eléctrica, 1926, Cascais;
+
+E20 g (Correio Normal Europa) - Autocarro, Lisboa, 1944.
+
+**O Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos, em 1 de Abril de 2008.**

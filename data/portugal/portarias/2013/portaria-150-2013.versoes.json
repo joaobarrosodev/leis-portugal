@@ -1,0 +1,1694 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:260438:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-115017491",
+ "dre_path": "/dr/detalhe/portaria/150-2013-260438",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115011155",
+    "115011156",
+    "115011157",
+    "115011158",
+    "115011159",
+    "115011160",
+    "115011161",
+    "115011163",
+    "115011164",
+    "115011165",
+    "115011166",
+    "115011167",
+    "115011168",
+    "115011169",
+    "115011170",
+    "115011171",
+    "115011172",
+    "115011173",
+    "115011174",
+    "115018775",
+    "115018776",
+    "115018777",
+    "115018778",
+    "115018779",
+    "115018780",
+    "115018781",
+    "115018782",
+    "115018783",
+    "115018784",
+    "115018785",
+    "115018786",
+    "115018787",
+    "115018788",
+    "115018789",
+    "115018790",
+    "115018791",
+    "115018792",
+    "115018793",
+    "115018794",
+    "115018795",
+    "115018796",
+    "115018797",
+    "115018798",
+    "115018799",
+    "115018800",
+    "115018801",
+    "115018802",
+    "115018803",
+    "115018804",
+    "115018805",
+    "115018806",
+    "115018807",
+    "115018808",
+    "115018809",
+    "115018810",
+    "115018811",
+    "115018812",
+    "115018813",
+    "115018814",
+    "115018815",
+    "115018816",
+    "115018817",
+    "115018818",
+    "115018819",
+    "115018820",
+    "115018821",
+    "115018822"
+   ]
+  },
+  {
+   "date": "2014-07-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345614:por",
+     "title": "Portaria n.º 135/2014",
+     "published": "2014-07-01",
+     "dre_path": "/dr/detalhe/portaria/135-2014-25345614"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera TABELA I",
+    "Altera TABELA III"
+   ],
+   "fragments": [
+    "115011155",
+    "115011156",
+    "115011157",
+    "115011158",
+    "115011159",
+    "115011160",
+    "115011161",
+    "115011162",
+    "115011163",
+    "115011164",
+    "115011165",
+    "115011166",
+    "115011167",
+    "115018900",
+    "115011169",
+    "115011170",
+    "115011171",
+    "115011172",
+    "115011173",
+    "115011174",
+    "115018775",
+    "115018776",
+    "115018777",
+    "115018778",
+    "115018779",
+    "115018780",
+    "115018781",
+    "115018782",
+    "115018783",
+    "115018784",
+    "115018785",
+    "115018786",
+    "115018787",
+    "115018788",
+    "115018789",
+    "115018790",
+    "115018791",
+    "115018792",
+    "115018901",
+    "115018895",
+    "115018902",
+    "115018793",
+    "115018794",
+    "115018795",
+    "115018796",
+    "115018797",
+    "115018903",
+    "115018799",
+    "115018800",
+    "115018801",
+    "115018802",
+    "115018803",
+    "115018804",
+    "115018805",
+    "115018806",
+    "115018807",
+    "115018808",
+    "115018809",
+    "115018810",
+    "115018811",
+    "115018812",
+    "115018813",
+    "115018814",
+    "115018815",
+    "115018816",
+    "115018817",
+    "115018818",
+    "115018819",
+    "115018820",
+    "115018821",
+    "115018822",
+    "115018897",
+    "115018898",
+    "115018899"
+   ]
+  },
+  {
+   "date": "2018-04-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115017487:por",
+     "title": "Portaria n.º 98/2018",
+     "published": "2018-04-10",
+     "dre_path": "/dr/detalhe/portaria/98-2018-115017487"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 27.º",
+    "Altera TABELA I",
+    "Altera TABELA II",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera TABELA III"
+   ],
+   "fragments": [
+    "115011155",
+    "115011156",
+    "115011157",
+    "115011158",
+    "115011159",
+    "115011160",
+    "115011161",
+    "115011162",
+    "115011163",
+    "115018904",
+    "115018905",
+    "115011166",
+    "115011167",
+    "115018900",
+    "115011169",
+    "115011170",
+    "115011171",
+    "115011172",
+    "115011173",
+    "115011174",
+    "115018775",
+    "115018776",
+    "115018777",
+    "115018778",
+    "115018779",
+    "115018780",
+    "115018781",
+    "115018782",
+    "115018783",
+    "115018784",
+    "115018785",
+    "115018786",
+    "115018787",
+    "115018788",
+    "115018789",
+    "115018906",
+    "115018791",
+    "115018792",
+    "115018907",
+    "115018908",
+    "115018902",
+    "115018793",
+    "115018909",
+    "115018910",
+    "115018796",
+    "115018911",
+    "115018903",
+    "115018799",
+    "115018800",
+    "115018912",
+    "115018802",
+    "115018913",
+    "115018804",
+    "115018805",
+    "115018806",
+    "115018807",
+    "115018808",
+    "115018809",
+    "115018810",
+    "115018914",
+    "115018812",
+    "115018915",
+    "115018916",
+    "115018815",
+    "115018816",
+    "115018817",
+    "115018818",
+    "115018819",
+    "115018917",
+    "115018821",
+    "115018822",
+    "115018918",
+    "115018919",
+    "115018920"
+   ]
+  },
+  {
+   "date": "2019-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122349222:por",
+     "title": "Portaria n.º 154/2019",
+     "published": "2019-05-21",
+     "dre_path": "/dr/detalhe/portaria/154-2019-122349222"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "115011155",
+    "115011156",
+    "115011157",
+    "115011158",
+    "115011159",
+    "115011160",
+    "115011161",
+    "115011162",
+    "115011163",
+    "115018904",
+    "122360976",
+    "115011166",
+    "115011167",
+    "115018900",
+    "115011169",
+    "115011170",
+    "115011171",
+    "115011172",
+    "115011173",
+    "115011174",
+    "115018775",
+    "115018776",
+    "115018777",
+    "115018778",
+    "115018779",
+    "115018780",
+    "115018781",
+    "115018782",
+    "115018783",
+    "115018784",
+    "115018785",
+    "115018786",
+    "115018787",
+    "115018788",
+    "115018789",
+    "115018906",
+    "115018791",
+    "115018792",
+    "115018907",
+    "115018908",
+    "115018902",
+    "115018793",
+    "115018909",
+    "115018910",
+    "115018796",
+    "115018911",
+    "115018903",
+    "115018799",
+    "115018800",
+    "115018912",
+    "115018802",
+    "115018913",
+    "115018804",
+    "115018805",
+    "115018806",
+    "115018807",
+    "115018808",
+    "115018809",
+    "115018810",
+    "115018914",
+    "115018812",
+    "115018915",
+    "115018916",
+    "115018815",
+    "115018816",
+    "115018817",
+    "115018818",
+    "115018819",
+    "115018917",
+    "115018821",
+    "115018822",
+    "115018918",
+    "115018919",
+    "115018920"
+   ]
+  },
+  {
+   "date": "2020-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130070742:por",
+     "title": "Portaria n.º 65/2020",
+     "published": "2020-03-10",
+     "dre_path": "/dr/detalhe/portaria/65-2020-130070742"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 28.º",
+    "Altera TABELA I",
+    "Altera TABELA II",
+    "Altera TABELA III"
+   ],
+   "fragments": [
+    "115011155",
+    "115011156",
+    "115011157",
+    "115011158",
+    "115011159",
+    "115011160",
+    "115011161",
+    "115011162",
+    "115011163",
+    "115018904",
+    "184307189",
+    "115011166",
+    "184307190",
+    "115018900",
+    "115011169",
+    "115011170",
+    "184307191",
+    "115011172",
+    "184307192",
+    "115011174",
+    "115018775",
+    "115018776",
+    "115018777",
+    "115018778",
+    "115018779",
+    "115018780",
+    "184307193",
+    "115018782",
+    "184307194",
+    "184307195",
+    "184307201",
+    "184307196",
+    "115018787",
+    "184307202",
+    "115018789",
+    "115018906",
+    "184307197",
+    "115018792",
+    "184307198",
+    "184307199",
+    "184307200",
+    "115018793",
+    "115018909",
+    "184307203",
+    "115018796",
+    "184307204",
+    "115018903",
+    "115018799",
+    "115018800",
+    "115018912",
+    "115018802",
+    "115018913",
+    "115018804",
+    "115018805",
+    "115018806",
+    "115018807",
+    "115018808",
+    "115018809",
+    "115018810",
+    "115018914",
+    "115018812",
+    "115018915",
+    "115018916",
+    "184307210",
+    "184307205",
+    "115018817",
+    "184307211",
+    "115018819",
+    "115018917",
+    "184307206",
+    "115018822",
+    "184307207",
+    "184307208",
+    "184307209"
+   ]
+  },
+  {
+   "date": "2022-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184242534:por",
+     "title": "Portaria n.º 153/2022",
+     "published": "2022-06-01",
+     "dre_path": "/dr/detalhe/portaria/153-2022-184242534"
+    }
+   ],
+   "changes": [
+    "Altera TABELA I",
+    "Altera TABELA II",
+    "Altera TABELA III",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "115011155",
+    "115011156",
+    "115011157",
+    "115011158",
+    "115011159",
+    "115011160",
+    "115011161",
+    "115011162",
+    "115011163",
+    "115018904",
+    "184307189",
+    "115011166",
+    "184307190",
+    "115018900",
+    "115011169",
+    "115011170",
+    "184307191",
+    "115011172",
+    "184307192",
+    "115011174",
+    "115018775",
+    "115018776",
+    "115018777",
+    "115018778",
+    "115018779",
+    "115018780",
+    "184307193",
+    "115018782",
+    "184307194",
+    "184307195",
+    "184307201",
+    "184307196",
+    "115018787",
+    "184307202",
+    "115018789",
+    "115018906",
+    "184307197",
+    "115018792",
+    "184307223",
+    "184307224",
+    "184307225",
+    "115018793",
+    "115018909",
+    "184307203",
+    "115018796",
+    "184307226",
+    "115018903",
+    "115018799",
+    "115018800",
+    "115018912",
+    "115018802",
+    "115018913",
+    "115018804",
+    "115018805",
+    "115018806",
+    "115018807",
+    "115018808",
+    "115018809",
+    "115018810",
+    "115018914",
+    "115018812",
+    "115018915",
+    "115018916",
+    "184307210",
+    "184307205",
+    "115018817",
+    "184307211",
+    "115018819",
+    "115018917",
+    "184307206",
+    "115018822",
+    "184307227",
+    "184307228",
+    "184307229"
+   ]
+  }
+ ],
+ "fragments": {
+  "115011155": {
+   "fragment_id": "115017492",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 150/2013\n\nde 15 de abril\n\nA requerimento do Instituto Politécnico do Porto;\n\nColhido o parecer favorável da Comissão Nacional de Acesso ao Ensino Superior;\n\nAo abrigo do disposto nos n.os 3 e 4 do artigo 27.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho:\n\nNo uso das competências delegadas pelo Ministro da Educação e Ciência através do despacho n.º 645/2012, de 17 de janeiro;\n\nManda o Governo, pelo Secretário de Estado do Ensino Superior, o seguinte:\n\n> Nota: [Artigo 2.º, Portaria n.º 154/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/154-2019-122349222) Produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2019-2020."
+  },
+  "115011156": {
+   "fragment_id": "115017493",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação dos Regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação dos Regulamentos\n\nSão aprovados:\n\na) O Regulamento do Concurso Local para a Matrícula e Inscrição no curso de Licenciatura em Música da Escola Superior de Música, Artes e Espetáculo do Instituto Politécnico do Porto, que consta do anexo I à presente portaria;\n\nb) O Regulamento do Concurso Local para a Matrícula e Inscrição no curso de Licenciatura em Teatro da Escola Superior de Música, Artes e Espetáculo do Instituto Politécnico do Porto, que consta do anexo II à presente portaria."
+  },
+  "115011157": {
+   "fragment_id": "115017494",
+   "type": 11,
+   "heading": "Artigo 2.º — Texto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Texto\n\nOs textos referidos no artigo anterior consideram-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria."
+  },
+  "115011158": {
+   "fragment_id": "115017495",
+   "type": 11,
+   "heading": "Artigo 3.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alterações\n\nTodas as alterações aos Regulamentos são neles incorporadas através de nova redação dos seus artigos ou de aditamento de novos artigos."
+  },
+  "115011159": {
+   "fragment_id": "115017496",
+   "type": 11,
+   "heading": "Artigo 4.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação\n\nOs Regulamentos anexos à presente portaria aplicam-se a partir da candidatura à matrícula e inscrição no ano letivo de 2013-2014, inclusive."
+  },
+  "115011160": {
+   "fragment_id": "115017497",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposição revogatória\n\nÉ revogada a Portaria n.º 466-N/2000, de 22 de julho."
+  },
+  "115011161": {
+   "fragment_id": "115017498",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "115011163": {
+   "fragment_id": "115017500",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nREGULAMENTO DO CONCURSO LOCAL PARA A CANDIDATURA À MATRÍCULA E INSCRIÇÃO NO CURSO LICENCIATURA EM MÚSICA DA ESCOLA SUPERIOR DE MÚSICA, ARTES E ESPETÁCULO DO INSTITUTO POLITÉCNICO DO PORTO."
+  },
+  "115011164": {
+   "fragment_id": "115017501",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nO presente Regulamento disciplina o concurso local para a matrícula e inscrição no curso de licenciatura em Música, ministrado pela Escola Superior de Música, Artes e Espetáculo do Instituto Politécnico do Porto, adiante designados, respetivamente, curso, Escola e Instituto."
+  },
+  "115011165": {
+   "fragment_id": "115017502",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições gerais para apresentação ao concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições gerais para apresentação ao concurso\n\n1 - Pode apresentar-se ao concurso o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário, nacional ou estrangeiro, ou de habilitação legalmente equivalente, concluído até ao ano letivo imediatamente anterior àquele a que respeita a candidatura;\n\nb) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: História da Cultura e das Artes, Inglês, Literatura Portuguesa, Matemática, Português;\n\nc) Fazer prova da capacidade para a frequência do curso.\n\n2 - As provas de ingresso a que se refere a alínea b) do número anterior podem ser substituídas nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho."
+  },
+  "115011166": {
+   "fragment_id": "115017503",
+   "type": 11,
+   "heading": "Artigo 3.º — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Avaliação da capacidade para a frequência\n\nA avaliação da capacidade para a frequência do curso é efetuada através da realização de provas específicas de acesso que se destinam a avaliar:\n\na) A capacidade de execução e ou interpretação artística;\n\nb) A cultura geral e os conhecimentos específicos na área científica do curso;\n\nc) A vocação artística;\n\nd) A criatividade."
+  },
+  "115011167": {
+   "fragment_id": "115017504",
+   "type": 11,
+   "heading": "Artigo 4.º — Provas específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Provas específicas de acesso\n\n1 - São componentes de avaliação da capacidade para a frequência do curso as seguintes provas específicas de acesso:\n\na) Prova de aptidão prática;\n\nb) Prova de aptidão escrita;\n\nc) Prova de aptidão, com parte escrita e parte oral;\n\nd) Entrevista;\n\ne) Portfólio.\n\n2 - O elenco de provas específicas de acesso a realizar para cada variante, ramo e opção, as classificações mínimas a obter nas provas, bem como a fórmula de cálculo da sua classificação, são os constantes das tabelas I a III anexas ao presente regulamento."
+  },
+  "115011168": {
+   "fragment_id": "115017505",
+   "type": 11,
+   "heading": "Artigo 5.º — Chamadas das provas específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Chamadas das provas específicas de acesso\n\n1 - As provas específicas de acesso realizam-se numa única chamada.\n\n2 - Por decisão do presidente do Instituto, sob proposta do órgão legal e estatutariamente competente da Escola, poderá ser realizada uma 2.ª chamada das provas específicas de acesso, caso se verifique a existência de vagas sobrantes da 1.ª fase do concurso."
+  },
+  "115011169": {
+   "fragment_id": "115017506",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamento das provas específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamento das provas específicas de acesso\n\nO regulamento das provas específicas de acesso é aprovado por despacho do presidente do Instituto, publicado na 2.ª série do Diário da República e divulgado no sítio da Internet do Instituto antes do início das mesmas e abrange:\n\na) As condições para inscrição nas provas específicas de acesso;\n\nb) A composição e competências dos júris;\n\nc) Os elementos que devem constar do edital;\n\nd) O modo de realização de inscrições;\n\ne) Os motivos de indeferimento liminar;\n\nf) Os motivos de exclusão;\n\ng) O procedimento relacionado com as reclamações."
+  },
+  "115011170": {
+   "fragment_id": "115017507",
+   "type": 11,
+   "heading": "Artigo 7.º — Validade das provas específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Validade das provas específicas de acesso\n\nAs provas específicas de acesso são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam."
+  },
+  "115011171": {
+   "fragment_id": "115017508",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições para a candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições para a candidatura\n\nPara a candidatura a cada variante, ramo e opção do curso os estudantes devem satisfazer, cumulativamente, as seguintes condições:\n\na) Ter realizado as provas específicas de acesso fixadas para essa variante, ramo e opção;\n\nb) Ter obtido nessas provas específicas de acesso a classificação mínima fixada;\n\nc) Ter obtido na nota de candidatura uma classificação não inferior a 9,5 na escala de 0 a 20 valores."
+  },
+  "115011172": {
+   "fragment_id": "115017509",
+   "type": 11,
+   "heading": "Artigo 9.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Vagas\n\nA matrícula e inscrição no curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho."
+  },
+  "115011173": {
+   "fragment_id": "115017510",
+   "type": 11,
+   "heading": "Artigo 10.º — Edital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Edital\n\nEm cada ano letivo, o processo de candidatura inicia-se com a publicitação, no sítio da Internet do Instituto, do edital de abertura do concurso, onde constam:\n\na) O calendário das ações a desenvolver;\n\nb) As vagas por variante, ramo e opção;\n\nc) A informação sobre a instrução de processos de candidatura;\n\nd) A informação sobre a instrução de processos de reclamação;\n\ne) Os emolumentos devidos."
+  },
+  "115011174": {
+   "fragment_id": "115017511",
+   "type": 11,
+   "heading": "Artigo 11.º — Fases do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fases do concurso\n\n1 - O concurso organiza-se numa fase ou, se existirem vagas sobrantes, em duas fases.\n\n2 - Pode ser organizada uma 2.ª fase do concurso para o preenchimento das seguintes vagas:\n\na) Vagas sobrantes da 1.ª fase do concurso;\n\nb) Vagas ocupadas na 1.ª fase do concurso em que não se concretizou a matrícula e inscrição, e que não tenham sido utilizadas para convocar à matrícula e inscrição candidatos não colocados na 1.ª fase do concurso."
+  },
+  "115018775": {
+   "fragment_id": "115017512",
+   "type": 11,
+   "heading": "Artigo 12.º — Candidatos à 2.ª fase do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Candidatos à 2.ª fase do concurso\n\nÀ 2.ª fase do concurso podem apresentar-se:\n\na) Os candidatos que, embora colocados na 1.ª fase, não procederam à respetiva matrícula e inscrição;\n\nb) Os estudantes que, embora reunindo condições de candidatura no prazo de apresentação das candidaturas da 1.ª fase, a não apresentaram;\n\nc) Os estudantes que só reuniram as condições de candidatura após o fim do prazo de apresentação das candidaturas da 1.ª fase."
+  },
+  "115018776": {
+   "fragment_id": "115017513",
+   "type": 11,
+   "heading": "Artigo 13.º — Modo de realização da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Modo de realização da candidatura\n\nA candidatura é apresentada, exclusivamente, através de sistema online, no sítio da Internet do Instituto."
+  },
+  "115018777": {
+   "fragment_id": "115017514",
+   "type": 11,
+   "heading": "Artigo 14.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apresentação da candidatura\n\nTêm legitimidade para efetuar a apresentação da candidatura:\n\na) O estudante;\n\nb) Um seu procurador bastante;\n\nc) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar."
+  },
+  "115018778": {
+   "fragment_id": "115017515",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura é instruído com:\n\na) Boletim de candidatura preenchido e submetido através do sistema online;\n\nb) Ficha ENES, que constitui o documento comprovativo da titularidade do curso de ensino secundário e da respetiva classificação e das classificações obtidas nos exames finais nacionais do ensino secundário correspondentes às provas de ingresso;\n\nc) Outros documentos referidos no edital a que se refere o artigo 10.º\n\n2 - Os titulares de um curso estrangeiro equivalente ao ensino secundário português devem apresentar:\n\na) Boletim de candidatura preenchido e submetido através do sistema online;\n\nb) Documento comprovativo da equivalência do curso estrangeiro ao curso de ensino secundário português, incluindo a respetiva classificação final convertida para a escala de 0 a 20 valores;\n\nc) Documento comprovativo da realização de uma das provas de ingresso a que se refere a alínea b) do artigo 2.º:\n\ni) Ficha ENES, se se tratar de exames nacionais do ensino secundário português;\n\nii) Documento emitido pela Direção-Geral do Ensino Superior, a requerimento do candidato, nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, sucessivamente alterado;\n\nd) Outros documentos referidos no edital a que se refere o artigo 10.º"
+  },
+  "115018779": {
+   "fragment_id": "115017516",
+   "type": 11,
+   "heading": "Artigo 16.º — Indeferimento liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Indeferimento liminar\n\n1 - São liminarmente indeferidas as candidaturas que se encontrem numa das seguintes condições:\n\na) Não sejam apresentadas e submetidas através do sistema online;\n\nb) Não tenham apresentado toda a documentação necessária à completa instrução da candidatura;\n\nc) Sejam apresentadas fora de prazo;\n\nd) Expressamente infrinjam alguma das regras fixadas pelo presente regulamento ou pelo edital a que se refere o artigo 10.º;\n\ne) Sejam efetuadas por candidatos oriundos do Instituto em situação irregular de propinas ou com qualquer outro débito ao Instituto, independentemente da sua natureza.\n\n2 - O indeferimento liminar é da competência do presidente do Instituto, sob proposta dos serviços competentes da Escola, e deve ser fundamentado.\n\n3 - Em caso de indeferimento liminar, os candidatos são notificados por via eletrónica e através do sistema online."
+  },
+  "115018780": {
+   "fragment_id": "115017517",
+   "type": 11,
+   "heading": "Artigo 17.º — Cálculo da nota de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cálculo da nota de candidatura\n\n1 - A nota de candidatura é uma classificação na escala de 0 a 20 valores, calculada através da aplicação da seguinte fórmula, cujo resultado é arredondado às décimas, considerando como uma décima o valor não inferior a 0,05:\n\nNC = S x 0,10 + CFPEA x 0,90\n\nem que:\n\nNC = nota de candidatura;\n\nS = classificação final do ensino secundário;\n\nCFPEA = classificação final nas provas específicas de acesso.\n\n2 - Para os candidatos cujo diploma do ensino secundário, nos termos da lei, não inclua a classificação final, essa classificação é fixada nos termos aprovados por deliberação da Comissão Nacional de Acesso ao Ensino Superior."
+  },
+  "115018781": {
+   "fragment_id": "115017518",
+   "type": 11,
+   "heading": "Artigo 18.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Seriação\n\n1 - A seriação dos candidatos a cada variante, ramo e opção é realizada pela ordem decrescente das respetivas notas de candidatura.\n\n2 - Em caso de empate, aplicam-se, sucessivamente, por ordem decrescente das classificações, os seguintes critérios de desempate:\n\na) Classificação final obtida nas provas específicas;\n\nb) Classificação obtida nas provas específicas por ordem decrescente de fator de ponderação. Nos casos em que haja mais do que uma prova específica com o mesmo fator de ponderação, será considerada a média aritmética do conjunto das provas.\n\n3 - As operações materiais de seriação são realizadas pelos serviços competentes da Escola."
+  },
+  "115018782": {
+   "fragment_id": "115017519",
+   "type": 11,
+   "heading": "Artigo 19.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Colocação\n\nEm cada fase do concurso, a colocação dos candidatos é feita por ordem decrescente da lista seriada elaborada nos termos do artigo anterior."
+  },
+  "115018783": {
+   "fragment_id": "115017520",
+   "type": 11,
+   "heading": "Artigo 20.º — Desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação dos critérios de seriação a que se refere o artigo 18.º disputem a última vaga ou o último conjunto de vagas, de cada variante, ramo ou opção, são abertas tantas vagas adicionais quanto as necessárias para os admitir."
+  },
+  "115018784": {
+   "fragment_id": "115017521",
+   "type": 11,
+   "heading": "Artigo 21.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Decisão\n\n1 - A decisão sobre as candidaturas a que se refere o presente Regulamento é da competência do presidente do Instituto, mediante proposta dos serviços competentes da Escola, materializada sob a forma de edital de resultados organizado por variante, ramo e opção, publicado no sítio da Internet do Instituto.\n\n2 - O resultado final do concurso exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído.\n\n3 - A menção da situação de Excluído carece de ser acompanhada da respetiva fundamentação legal.\n\n4 - Do edital de resultados consta, relativamente a cada estudante que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número de identificação civil;\n\nc) Nota de candidatura;\n\nd) Resultado final."
+  },
+  "115018785": {
+   "fragment_id": "115017522",
+   "type": 11,
+   "heading": "Artigo 22.º — Reclamação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reclamação\n\n1 - Da decisão prevista no artigo anterior podem os candidatos apresentar através do sistema online, reclamação fundamentada nos termos e prazos fixados pelo edital a que se refere o artigo 10.º\n\n2 - São liminarmente indeferidas as reclamações não fundamentadas, bem como as que não cumpram o pagamento da taxa de reclamação, ou não tenham sido submetidas nos termos e prazos fixados pelo edital a que se refere o artigo 10.º\n\n3 - A decisão sobre as reclamações compete ao presidente do Instituto, sendo notificado o reclamante por via eletrónica e através do sistema online, no prazo indicado no edital a que se refere o artigo 10.º\n\n4 - As decisões sobre reclamações que não hajam sido liminarmente rejeitadas nos termos do n.º 2, são notificadas aos reclamantes através de carta registada com aviso de receção.\n\n5 - Ao procedimento relativo à apresentação e decisão das reclamações é aplicável o regime do Código do Procedimento Administrativo.\n\n6 - A reclamação está sujeita ao pagamento da taxa prevista na tabela de emolumentos em vigor, que será devolvida sempre que a reclamação seja deferida."
+  },
+  "115018786": {
+   "fragment_id": "115017523",
+   "type": 11,
+   "heading": "Artigo 23.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição nos Serviços Académicos da Escola no prazo fixado no edital a que se refere o artigo 10.º\n\n2 - A colocação apenas tem efeito para o ano letivo a que se refere, pelo que o direito à matrícula e inscrição no curso em que o candidato foi colocado caduca com o seu não exercício dentro do prazo fixado.\n\n3 - No caso de algum candidato colocado desistir expressamente da matrícula e inscrição, ou não comparecer a realizar a mesma, os Serviços Académicos da Escola, no prazo de três dias úteis após o termo do período de matrícula e inscrição, convocarão, por via eletrónica, para a matrícula e inscrição, o(s) candidato(s) não colocado(s) na lista ordenada, por ordem decrescente de classificação, até esgotar as vagas ou os candidatos.\n\n4 - Os candidatos a que se refere o número anterior terão um prazo improrrogável de quatro dias úteis após a receção da notificação para procederem à matrícula e inscrição."
+  },
+  "115018787": {
+   "fragment_id": "115017524",
+   "type": 11,
+   "heading": "Artigo 24.º — Exclusão de candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Exclusão de candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Não reúnam as condições para se apresentarem a concurso.\n\n2 - A decisão sobre a exclusão é da competência do presidente do Instituto.\n\n3 - Caso a matrícula tenha sido realizada e se confirme uma das situações previstas no n.º 1 do presente artigo, aquela é anulada, bem como todos os atos praticados ao abrigo da mesma."
+  },
+  "115018788": {
+   "fragment_id": "115017525",
+   "type": 11,
+   "heading": "Artigo 25.º — Retificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Retificações\n\n1 - Quando, por causa não imputável direta ou indiretamente ao candidato, não tenha havido colocação ou tenha havido lapso na colocação, deve ser retificada a situação, mesmo que tal implique a criação de vaga adicional.\n\n2 - A retificação pode ser desencadeada por iniciativa do candidato no âmbito do processo de reclamação ou por iniciativa da Escola.\n\n3 - A retificação pode revestir a forma de:\n\na) Colocação;\n\nb) Alteração da colocação;\n\nc) Passagem à situação de Não Colocado;\n\nd) Passagem à situação de Excluído.\n\n4 - A decisão sobre as retificações compete ao presidente do Instituto.\n\n5 - A decisão de retificação é notificada ao interessado por via eletrónica e através do sistema online, no prazo indicado no edital a que se refere o artigo 10.º\n\n6 - A decisão que revista a forma de alteração da colocação, de passagem à situação de Não Colocado ou de Excluído é notificada através de carta registada com aviso de receção.\n\n7 - Ao procedimento relativo à apresentação e decisão da retificação é aplicável o regime do Código do Procedimento Administrativo.\n\n8 - A retificação abrange apenas o candidato em que o erro foi detetado, não tendo qualquer efeito em relação aos restantes candidatos."
+  },
+  "115018789": {
+   "fragment_id": "115017526",
+   "type": 11,
+   "heading": "Artigo 26.º — Validade do concurso local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Validade do concurso local\n\nO concurso é válido apenas para o ano letivo a que respeita."
+  },
+  "115018790": {
+   "fragment_id": "115017527",
+   "type": 11,
+   "heading": "Artigo 27.º — Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música, Artes e Espetáculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música, Artes e Espetáculo\n\nO Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música, Artes e Espetáculo acompanha todo o processo através do sistema online, sendo igualmente responsável por prestar todo o apoio técnico na organização do mesmo."
+  },
+  "115018791": {
+   "fragment_id": "115017528",
+   "type": 11,
+   "heading": "Artigo 28.º — Comunicação à Direção-Geral do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Comunicação à Direção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, o Instituto comunica à Direção-Geral do Ensino Superior, por via eletrónica, informação sobre os candidatos colocados que efetivamente se matriculem, com indicação da variante, ramo e opção e nome e número de identificação civil dos mesmos."
+  },
+  "115018792": {
+   "fragment_id": "115017529",
+   "type": 11,
+   "heading": "Artigo 29.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Prazos\n\nOs prazos em que devem ser praticados os atos previstos no presente regulamento são fixados anualmente pelo presidente do Instituto e divulgados através do edital a que se refere o artigo 10.º"
+  },
+  "115018793": {
+   "fragment_id": "115017530",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\nREGULAMENTO DO CONCURSO LOCAL PARA A CANDIDATURA À MATRÍCULA E INSCRIÇÃO NO CURSO LICENCIATURA EM TEATRO DA ESCOLA SUPERIOR DE MÚSICA, ARTES E ESPETÁCULO DO INSTITUTO POLITÉCNICO DO PORTO."
+  },
+  "115018794": {
+   "fragment_id": "115017531",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nO presente Regulamento disciplina o concurso local para a matrícula e inscrição no curso de licenciatura em Teatro, ministrado pela Escola Superior de Música, Artes e Espetáculo do Instituto Politécnico do Porto, adiante designados, respetivamente, curso, Escola e Instituto."
+  },
+  "115018795": {
+   "fragment_id": "115017532",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições gerais para apresentação ao concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições gerais para apresentação ao concurso\n\n1 - Pode apresentar-se ao concurso o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário, nacional ou estrangeiro, ou de habilitação legalmente equivalente, concluído até ao ano letivo imediatamente anterior àquele a que respeita a candidatura;\n\nb) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: História da Cultura e das Artes, Inglês, Literatura Portuguesa, Matemática, Português;\n\nc) Fazer prova da capacidade para a frequência do curso.\n\n2 - As provas de ingresso a que se refere a alínea b) do número anterior podem ser substituídas nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho."
+  },
+  "115018796": {
+   "fragment_id": "115017533",
+   "type": 11,
+   "heading": "Artigo 3.º — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Avaliação da capacidade para a frequência\n\nA avaliação da capacidade para a frequência do curso é efetuada através da realização de provas específicas de acesso que se destinam a avaliar:\n\na) A capacidade de execução e ou interpretação artística;\n\nb) A cultura geral e os conhecimentos específicos na área científica do curso;\n\nc) A vocação artística;\n\nd) A criatividade."
+  },
+  "115018797": {
+   "fragment_id": "115017534",
+   "type": 11,
+   "heading": "Artigo 4.º — Provas específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Provas específicas de acesso\n\n1 - São componentes de avaliação da capacidade para a frequência as seguintes provas específicas de acesso:\n\na) Prova de aptidão prática;\n\nb) Prova de aptidão escrita;\n\nc) Entrevista.\n\n2 - O elenco de provas específicas de acesso a realizar para cada variante e ramo, as classificações mínimas a obter nas provas, bem como a fórmula de cálculo da sua classificação, são os constantes das tabelas I a III anexas ao presente regulamento.\n\n> Nota: [Artigo 10.º, Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534) As alterações aprovadas pela Portaria n.º 153/2022, de 1 de junho, produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022/2023, inclusive."
+  },
+  "115018798": {
+   "fragment_id": "115017535",
+   "type": 11,
+   "heading": "Artigo 5.º — Chamadas das provas específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Chamadas das provas específicas de acesso\n\n1 - As provas específicas de acesso realizam-se numa única chamada.\n\n2 - Por decisão do presidente do Instituto, sob proposta do órgão legal e estatutariamente competente da Escola, poderá ser realizada uma 2.ª chamada das provas específicas de acesso, caso se verifique a existência de vagas sobrantes da 1.ª fase do concurso."
+  },
+  "115018799": {
+   "fragment_id": "115017536",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamento das provas específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamento das provas específicas de acesso\n\nO regulamento das provas específicas de acesso é aprovado por despacho do presidente do Instituto, publicado na 2.ª série do Diário da República e divulgado no sítio da Internet do Instituto antes do início das mesmas e abrange:\n\na) As condições para inscrição nas provas específicas de acesso;\n\nb) A composição e competências dos júris;\n\nc) Os elementos que devem constar do edital;\n\nd) O modo de realização de inscrições;\n\ne) Os motivos de indeferimento liminar;\n\nf) Os motivos de exclusão;\n\ng) O procedimento relacionado com as reclamações."
+  },
+  "115018800": {
+   "fragment_id": "115017537",
+   "type": 11,
+   "heading": "Artigo 7.º — Validade das provas específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Validade das provas específicas de acesso\n\nAs provas específicas de acesso são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam."
+  },
+  "115018801": {
+   "fragment_id": "115017538",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições para a candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições para a candidatura\n\nPara a candidatura a cada variante e ramo do curso os estudantes devem satisfazer, cumulativamente, as seguintes condições:\n\na) Ter realizado as provas específicas de acesso fixadas para essa variante e ramo;\n\nb) Ter obtido nessas provas específicas de acesso a classificação mínima fixada;\n\nc) Ter obtido na nota de candidatura uma classificação não inferior a 9,5 na escala de 0 a 20 valores."
+  },
+  "115018802": {
+   "fragment_id": "115017539",
+   "type": 11,
+   "heading": "Artigo 9.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Vagas\n\nA matrícula e inscrição no curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho."
+  },
+  "115018803": {
+   "fragment_id": "115017540",
+   "type": 11,
+   "heading": "Artigo 10.º — Edital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Edital\n\nEm cada ano letivo, o processo de candidatura inicia-se com a publicitação, no sítio da Internet do Instituto, do edital de abertura do concurso, onde constam:\n\na) O calendário das ações a desenvolver;\n\nb) As vagas por variante e ramo;\n\nc) A informação sobre a instrução de processos de candidatura;\n\nd) A informação sobre a instrução de processos de reclamação;\n\ne) Os emolumentos devidos."
+  },
+  "115018804": {
+   "fragment_id": "115017541",
+   "type": 11,
+   "heading": "Artigo 11.º — Fases do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fases do concurso\n\n1 - O concurso organiza-se numa fase ou, se existirem vagas sobrantes, em duas fases.\n\n2 - Pode ser organizada uma 2.ª fase do concurso para o preenchimento das seguintes vagas:\n\na) Vagas sobrantes da 1.ª fase do concurso;\n\nb) Vagas ocupadas na 1.ª fase do concurso em que não se concretizou a matrícula e inscrição, e que não tenham sido utilizadas para convocar à matrícula e inscrição candidatos não colocados na 1.ª fase do concurso."
+  },
+  "115018805": {
+   "fragment_id": "115017542",
+   "type": 11,
+   "heading": "Artigo 12.º — Candidatos à 2.ª fase do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Candidatos à 2.ª fase do concurso\n\nÀ 2.ª fase do concurso podem apresentar-se:\n\na) Os candidatos que, embora colocados na 1.ª fase, não procederam à respetiva matrícula e inscrição;\n\nb) Os estudantes que, embora reunindo condições de candidatura no prazo de apresentação das candidaturas da 1.ª fase, a não apresentaram;\n\nc) Os estudantes que só reuniram as condições de candidatura após o fim do prazo de apresentação das candidaturas da 1.ª fase."
+  },
+  "115018806": {
+   "fragment_id": "115017543",
+   "type": 11,
+   "heading": "Artigo 13.º — Modo de realização da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Modo de realização da candidatura\n\nA candidatura é apresentada, exclusivamente, através de sistema online, no sítio da Internet do Instituto."
+  },
+  "115018807": {
+   "fragment_id": "115017544",
+   "type": 11,
+   "heading": "Artigo 14.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apresentação da candidatura\n\nTêm legitimidade para efetuar a apresentação da candidatura:\n\na) O estudante;\n\nb) Um seu procurador bastante;\n\nc) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar."
+  },
+  "115018808": {
+   "fragment_id": "115017545",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura é instruído com:\n\na) Boletim de candidatura preenchido e submetido através do sistema online;\n\nb) Ficha ENES, que constitui o documento comprovativo da titularidade do curso de ensino secundário e da respetiva classificação e das classificações obtidas nos exames finais nacionais do ensino secundário correspondentes às provas de ingresso;\n\nc) Outros documentos referidos no edital a que se refere o artigo 10.º\n\n2 - Os titulares de um curso estrangeiro equivalente ao ensino secundário português devem apresentar:\n\na) Boletim de candidatura preenchido e submetido através do sistema online;\n\nb) Documento comprovativo da equivalência do curso estrangeiro ao curso de ensino secundário português, incluindo a respetiva classificação final convertida para a escala de 0 a 20 valores;\n\nc) Documento comprovativo da realização de uma das provas de ingresso a que se refere a alínea b) do artigo 2.º:\n\ni) Ficha ENES, se se tratar de exames nacionais do ensino secundário português;\n\nii) Documento emitido pela Direção-Geral do Ensino Superior, a requerimento do candidato, nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, sucessivamente alterado;\n\nd) Outros documentos referidos no edital a que se refere o artigo 10.º"
+  },
+  "115018809": {
+   "fragment_id": "115017546",
+   "type": 11,
+   "heading": "Artigo 16.º — Indeferimento liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Indeferimento liminar\n\n1 - São liminarmente indeferidas as candidaturas que se encontrem numa das seguintes condições:\n\na) Não sejam apresentadas e submetidas através do sistema online;\n\nb) Não tenham apresentado toda a documentação necessária à completa instrução da candidatura;\n\nc) Sejam apresentadas fora de prazo;\n\nd) Expressamente infrinjam alguma das regras fixadas pelo presente regulamento ou pelo edital a que se refere o artigo 10.º;\n\ne) Sejam efetuadas por candidatos oriundos do Instituto em situação irregular de propinas ou com qualquer outro débito ao Instituto, independentemente da sua natureza.\n\n2 - O indeferimento liminar é da competência do presidente do Instituto, sob proposta dos serviços competentes da Escola, e deve ser fundamentado.\n\n3 - Em caso de indeferimento liminar, os candidatos são notificados por via eletrónica e através do sistema online."
+  },
+  "115018810": {
+   "fragment_id": "115017547",
+   "type": 11,
+   "heading": "Artigo 17.º — Cálculo da nota de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cálculo da nota de candidatura\n\n1 - A nota de candidatura é uma classificação na escala de 0 a 20 valores, calculada através da aplicação da seguinte fórmula, cujo resultado é arredondado às décimas, considerando como uma décima o valor não inferior a 0,05:\n\nNC = S x 0,10 + CFPEA x 0,90\n\nem que:\n\nNC = nota de candidatura;\n\nS = classificação final do ensino secundário;\n\nCFPEA = classificação final nas provas específicas de acesso.\n\n2 - Para os candidatos cujo diploma do ensino secundário, nos termos da lei, não inclua a classificação final, essa classificação é fixada nos termos aprovados por deliberação da Comissão Nacional de Acesso ao Ensino Superior."
+  },
+  "115018811": {
+   "fragment_id": "115017548",
+   "type": 11,
+   "heading": "Artigo 18.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Seriação\n\n1 - A seriação dos candidatos a cada variante e ramo é realizada pela ordem decrescente das respetivas notas de candidatura.\n\n2 - Em caso de empate, aplicam-se, sucessivamente, por ordem decrescente das classificações, os seguintes critérios de desempate:\n\na) Classificação final obtida nas provas específicas;\n\nb) Classificação obtida nas provas específicas por ordem decrescente de fator de ponderação. Nos casos em que haja mais do que uma prova específica com o mesmo fator de ponderação, será considerada a média aritmética do conjunto das provas.\n\n3 - As operações materiais de seriação são realizadas pelos serviços competentes da Escola."
+  },
+  "115018812": {
+   "fragment_id": "115017549",
+   "type": 11,
+   "heading": "Artigo 19.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Colocação\n\nEm cada fase do concurso, a colocação dos candidatos é feita por ordem decrescente da lista seriada elaborada nos termos do artigo anterior."
+  },
+  "115018813": {
+   "fragment_id": "115017550",
+   "type": 11,
+   "heading": "Artigo 20.º — Desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação dos critérios de seriação a que se refere o artigo 18.º disputem a última vaga ou o último conjunto de vagas, de cada variante e ramo, são abertas tantas vagas adicionais quanto as necessárias para os admitir."
+  },
+  "115018814": {
+   "fragment_id": "115017551",
+   "type": 11,
+   "heading": "Artigo 21.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Decisão\n\n1 - A decisão sobre as candidaturas a que se refere o presente Regulamento é da competência do presidente do Instituto, mediante proposta dos serviços competentes da Escola, materializada sob a forma de edital de resultados organizado por variante e ramo, publicado no sítio da Internet do Instituto.\n\n2 - O resultado final do concurso exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído.\n\n3 - A menção da situação de Excluído carece de ser acompanhada da respetiva fundamentação legal.\n\n4 - Do edital de resultados consta, relativamente a cada estudante que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número de identificação civil;\n\nc) Nota de candidatura;\n\nd) Resultado final."
+  },
+  "115018815": {
+   "fragment_id": "115017552",
+   "type": 11,
+   "heading": "Artigo 22.º — Reclamação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reclamação\n\n1 - Da decisão prevista no artigo anterior podem os candidatos apresentar através do sistema online, reclamação fundamentada nos termos e prazos fixados pelo edital a que se refere o artigo 10.º\n\n2 - São liminarmente indeferidas as reclamações não fundamentadas, bem como as que não cumpram o pagamento da taxa de reclamação, ou não tenham sido submetidas nos termos e prazos fixados pelo edital a que se refere o artigo 10.º\n\n3 - A decisão sobre as reclamações compete ao presidente do Instituto, sendo notificado o reclamante por via eletrónica e através do sistema online, no prazo indicado no edital a que se refere o artigo 10.º\n\n4 - As decisões sobre reclamações que não hajam sido liminarmente rejeitadas nos termos do n.º 2, são notificadas aos reclamantes através de carta registada com aviso de receção.\n\n5 - Ao procedimento relativo à apresentação e decisão das reclamações é aplicável o regime do Código do Procedimento Administrativo.\n\n6 - A reclamação está sujeita ao pagamento da taxa prevista na tabela de emolumentos em vigor, que será devolvida sempre que a reclamação seja deferida."
+  },
+  "115018816": {
+   "fragment_id": "115017553",
+   "type": 11,
+   "heading": "Artigo 23.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição nos Serviços Académicos da Escola no prazo fixado no edital a que se refere o artigo 10.º\n\n2 - A colocação apenas tem efeito para o ano letivo a que se refere, pelo que o direito à matrícula e inscrição no curso em que o candidato foi colocado caduca com o seu não exercício dentro do prazo fixado.\n\n3 - No caso de algum candidato colocado desistir expressamente da matrícula e inscrição, ou não comparecer a realizar a mesma, os Serviços Académicos da Escola, no prazo de três dias úteis após o termo do período de matrícula e inscrição, convocarão, por via eletrónica, para a matrícula e inscrição, o(s) candidato(s) não colocado(s) na lista ordenada, por ordem decrescente de classificação, até esgotar as vagas ou os candidatos.\n\n4 - Os candidatos a que se refere o número anterior terão um prazo improrrogável de quatro dias úteis após a receção da notificação para procederem à matrícula e inscrição."
+  },
+  "115018817": {
+   "fragment_id": "115017554",
+   "type": 11,
+   "heading": "Artigo 24.º — Exclusão de candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Exclusão de candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Não reúnam as condições para se apresentarem a concurso.\n\n2 - A decisão sobre a exclusão é da competência do presidente do Instituto.\n\n3 - Caso a matrícula tenha sido realizada e se confirme uma das situações previstas no n.º 1 do presente artigo, aquela é anulada, bem como todos os atos praticados ao abrigo da mesma."
+  },
+  "115018818": {
+   "fragment_id": "115017555",
+   "type": 11,
+   "heading": "Artigo 25.º — Retificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Retificações\n\n1 - Quando, por causa não imputável direta ou indiretamente ao candidato, não tenha havido colocação ou tenha havido lapso na colocação, deve ser retificada a situação, mesmo que tal implique a criação de vaga adicional.\n\n2 - A retificação pode ser desencadeada por iniciativa do candidato no âmbito do processo de reclamação ou por iniciativa da Escola.\n\n3 - A retificação pode revestir a forma de:\n\na) Colocação;\n\nb) Alteração da colocação;\n\nc) Passagem à situação de Não Colocado;\n\nd) Passagem à situação de Excluído.\n\n4 - A decisão sobre as retificações compete ao presidente do Instituto.\n\n5 - A decisão de retificação é notificada ao interessado por via eletrónica e através do sistema online, no prazo indicado no edital a que se refere o artigo 10.º\n\n6 - A decisão que revista a forma de alteração da colocação, de passagem à situação de Não Colocado ou de Excluído é notificada através de carta registada com aviso de receção.\n\n7 - Ao procedimento relativo à apresentação e decisão da retificação é aplicável o regime do Código do Procedimento Administrativo.\n\n8 - A retificação abrange apenas o candidato em que o erro foi detetado, não tendo qualquer efeito em relação aos restantes candidatos."
+  },
+  "115018819": {
+   "fragment_id": "115017556",
+   "type": 11,
+   "heading": "Artigo 26.º — Validade do concurso local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Validade do concurso local\n\nO concurso é válido apenas para o ano letivo a que respeita."
+  },
+  "115018820": {
+   "fragment_id": "115017557",
+   "type": 11,
+   "heading": "Artigo 27.º — Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música, Artes e Espetáculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música, Artes e Espetáculo\n\nO Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música, Artes e Espetáculo acompanha todo o processo através do sistema online, sendo igualmente responsável por prestar todo o apoio técnico na organização do mesmo."
+  },
+  "115018821": {
+   "fragment_id": "115017558",
+   "type": 11,
+   "heading": "Artigo 28.º — Comunicação à Direção-Geral do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Comunicação à Direção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, o Instituto comunica à Direção-Geral do Ensino Superior, por via eletrónica, informação sobre os candidatos colocados que efetivamente se matriculem, com indicação da variante e ramo e nome e número de identificação civil dos mesmos."
+  },
+  "115018822": {
+   "fragment_id": "115017559",
+   "type": 11,
+   "heading": "Artigo 29.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Prazos\n\nOs prazos em que devem ser praticados os atos previstos no presente regulamento são fixados anualmente pelo presidente do Instituto e divulgados através do edital a que se refere o artigo 10.º"
+  },
+  "115011162": {
+   "fragment_id": "115017499",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 20 de março de 2013."
+  },
+  "115018900": {
+   "fragment_id": "115017505",
+   "type": 11,
+   "heading": "Artigo 5.º — Chamadas das provas específicas de acesso",
+   "in_force_from": "2014-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+   ],
+   "markdown": "###### Artigo 5.º — Chamadas das provas específicas de acesso\n\n1 - As provas específicas de acesso realizam-se numa única chamada.\n\n2 - Por decisão do presidente do Instituto, sob proposta do órgão legal e estatutariamente competente da Escola, pode ser realizada uma 2.ª chamada das provas específicas de acesso.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+  },
+  "115018901": {
+   "fragment_id": "115012832",
+   "type": 14,
+   "heading": "TABELA I",
+   "in_force_from": "2014-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+   ],
+   "markdown": "## TABELA I\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nProvas específicas a realizar para cada variante, ramo e opção\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+  },
+  "115018895": {
+   "fragment_id": "115012834",
+   "type": 14,
+   "heading": "TABELA II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TABELA II\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nClassificação mínima a obter nas provas específicas\n\n(na escala numérica de 0 a 20 arredondada às décimas)\n\n(ver documento original)"
+  },
+  "115018902": {
+   "fragment_id": "115012835",
+   "type": 14,
+   "heading": "TABELA III",
+   "in_force_from": "2014-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+   ],
+   "markdown": "## TABELA III\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nFórmula de cálculo da classificação final das provas específicas de acesso\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+  },
+  "115018903": {
+   "fragment_id": "115017535",
+   "type": 11,
+   "heading": "Artigo 5.º — Chamadas das provas específicas de acesso",
+   "in_force_from": "2014-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+   ],
+   "markdown": "###### Artigo 5.º — Chamadas das provas específicas de acesso\n\n1 - As provas específicas de acesso realizam-se numa única chamada.\n\n2 - Por decisão do presidente do Instituto, sob proposta do órgão legal e estatutariamente competente da Escola, pode ser realizada uma 2.ª chamada das provas específicas de acesso.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+  },
+  "115018897": {
+   "fragment_id": "115012836",
+   "type": 14,
+   "heading": "TABELA I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TABELA I\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nProvas específicas a realizar para cada variante e ramo\n\n(ver documento original)"
+  },
+  "115018898": {
+   "fragment_id": "115012837",
+   "type": 14,
+   "heading": "TABELA II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TABELA II\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nClassificação mínima a obter nas provas específicas\n\n(na escala numérica de 0 a 20 arredondada às décimas)\n\n(ver documento original)"
+  },
+  "115018899": {
+   "fragment_id": "115012838",
+   "type": 14,
+   "heading": "TABELA III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TABELA III\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nFórmula de cálculo da classificação final das provas específicas de acesso\n\n(ver documento original)"
+  },
+  "115018904": {
+   "fragment_id": "115017501",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nO presente Regulamento disciplina o concurso local para a matrícula e inscrição no curso de licenciatura em Música, ministrado pela Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, adiante designados, respetivamente, curso, Escola e Instituto.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018905": {
+   "fragment_id": "115017502",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições gerais para apresentação ao concurso",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 2.º — Condições gerais para apresentação ao concurso\n\n1 - Pode apresentar-se ao concurso o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário, nacional ou estrangeiro, ou de habilitação legalmente equivalente, concluído até ao ano letivo imediatamente anterior àquele a que respeita a candidatura;\n\nb) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: 12 - História da Cultura e das Artes, 13 - Inglês, 15 - Literatura Portuguesa, 16 - Matemática, 18 - Português;\n\nc) Fazer prova da capacidade para a frequência do curso.\n\n2 - As provas de ingresso a que se refere a alínea b) do número anterior podem ser substituídas nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018906": {
+   "fragment_id": "115017527",
+   "type": 11,
+   "heading": "Artigo 27.º — Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 27.º — Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo\n\nO Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo acompanha todo o processo através do sistema online, sendo igualmente responsável por prestar todo o apoio técnico na organização do mesmo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018907": {
+   "fragment_id": "115012832",
+   "type": 14,
+   "heading": "TABELA I",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+   ],
+   "markdown": "## TABELA I\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nProvas específicas a realizar para cada variante, ramo e opção\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+  },
+  "115018908": {
+   "fragment_id": "115012834",
+   "type": 14,
+   "heading": "TABELA II",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA II\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nClassificação mínima a obter nas provas específicas\n\n(na escala numérica de 0 a 20 arredondada às décimas)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018909": {
+   "fragment_id": "115017531",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nO presente Regulamento disciplina o concurso local para a matrícula e inscrição no curso de licenciatura em Teatro, ministrado pela Escola Superior de Música e Artes do Espetáculo do Instituto Politécnico do Porto, adiante designados, respetivamente, curso, Escola e Instituto.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018910": {
+   "fragment_id": "115017532",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições gerais para apresentação ao concurso",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 2.º — Condições gerais para apresentação ao concurso\n\n1 - Pode apresentar-se ao concurso o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário, nacional ou estrangeiro, ou de habilitação legalmente equivalente, concluído até ao ano letivo imediatamente anterior àquele a que respeita a candidatura;\n\nb) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: 12 - História da Cultura e das Artes, 13 - Inglês, 15 - Literatura Portuguesa, 16 - Matemática, 18 - Português;\n\nc) Fazer prova da capacidade para a frequência do curso.\n\n2 - As provas de ingresso a que se refere a alínea b) do número anterior podem ser substituídas nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018911": {
+   "fragment_id": "115017534",
+   "type": 11,
+   "heading": "Artigo 4.º — Provas específicas de acesso",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 4.º — Provas específicas de acesso\n\n1 - São componentes de avaliação da capacidade para a frequência as seguintes provas específicas de acesso:\n\na) Prova de aptidão prática;\n\nb) Prova de aptidão escrita;\n\nc) Entrevista.\n\n2 - O elenco de provas específicas de acesso a realizar para cada variante, as classificações mínimas a obter nas provas, bem como a fórmula de cálculo da sua classificação, são os constantes das tabelas I a III anexas ao presente regulamento.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018912": {
+   "fragment_id": "115017538",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições para a candidatura",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 8.º — Condições para a candidatura\n\nPara a candidatura a cada variante do curso os estudantes devem satisfazer, cumulativamente, as seguintes condições:\n\na) Ter realizado as provas específicas de acesso fixadas para essa variante;\n\nb) Ter obtido nessas provas específicas de acesso a classificação mínima fixada;\n\nc) Ter obtido na nota de candidatura uma classificação não inferior a 9,5 na escala de 0 a 20 valores.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018913": {
+   "fragment_id": "115017540",
+   "type": 11,
+   "heading": "Artigo 10.º — Edital",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 10.º — Edital\n\nEm cada ano letivo, o processo de candidatura inicia-se com a publicitação, no sítio da Internet do Instituto, do edital de abertura do concurso, onde constam:\n\na) O calendário das ações a desenvolver;\n\nb) As vagas por variante;\n\nc) A informação sobre a instrução de processos de candidatura;\n\nd) A informação sobre a instrução de processos de reclamação;\n\ne) Os emolumentos devidos.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018914": {
+   "fragment_id": "115017548",
+   "type": 11,
+   "heading": "Artigo 18.º — Seriação",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 18.º — Seriação\n\n1 - A seriação dos candidatos a cada variante é realizada pela ordem decrescente das respetivas notas de candidatura.\n\n2 - Em caso de empate, aplicam-se, sucessivamente, por ordem decrescente das classificações, os seguintes critérios de desempate:\n\na) Classificação final obtida nas provas específicas;\n\nb) Classificação obtida nas provas específicas por ordem decrescente de fator de ponderação. Nos casos em que haja mais do que uma prova específica com o mesmo fator de ponderação, será considerada a média aritmética do conjunto das provas.\n\n3 - As operações materiais de seriação são realizadas pelos serviços competentes da Escola.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018915": {
+   "fragment_id": "115017550",
+   "type": 11,
+   "heading": "Artigo 20.º — Desempate",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 20.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação dos critérios de seriação a que se refere o artigo 18.º disputem a última vaga ou o último conjunto de vagas de cada variante são abertas tantas vagas adicionais quanto as necessárias para os admitir.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018916": {
+   "fragment_id": "115017551",
+   "type": 11,
+   "heading": "Artigo 21.º — Decisão",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 21.º — Decisão\n\n1 - A decisão sobre as candidaturas a que se refere o presente Regulamento é da competência do presidente do Instituto, mediante proposta dos serviços competentes da Escola, materializada sob a forma de edital de resultados organizado por variante publicado no sítio da Internet do Instituto.\n\n2 - O resultado final do concurso exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído.\n\n3 - A menção da situação de Excluído carece de ser acompanhada da respetiva fundamentação legal.\n\n4 - Do edital de resultados consta, relativamente a cada estudante que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número de identificação civil;\n\nc) Nota de candidatura;\n\nd) Resultado final.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018917": {
+   "fragment_id": "115017557",
+   "type": 11,
+   "heading": "Artigo 27.º — Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 27.º — Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo\n\nO Gabinete de Apoio aos Concursos de Acesso à Escola Superior de Música e Artes do Espetáculo acompanha todo o processo através do sistema online, sendo igualmente responsável por prestar todo o apoio técnico na organização do mesmo.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018918": {
+   "fragment_id": "115012836",
+   "type": 14,
+   "heading": "TABELA I",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA I\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nProvas específicas a realizar para cada variante e ramo\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018919": {
+   "fragment_id": "115012837",
+   "type": 14,
+   "heading": "TABELA II",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA II\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nClassificação mínima a obter nas provas específicas\n\n(na escala numérica de 0 a 20 arredondada às décimas)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "115018920": {
+   "fragment_id": "115012838",
+   "type": 14,
+   "heading": "TABELA III",
+   "in_force_from": "2018-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA III\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nFórmula de cálculo da classificação final das provas específicas de acesso\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "122360976": {
+   "fragment_id": "115017502",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições gerais para apresentação ao concurso",
+   "in_force_from": "2019-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 154/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/154-2019-122349222), em vigor a partir de 2019-05-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 2.º — Condições gerais para apresentação ao concurso\n\n1 - Pode apresentar-se ao concurso o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário, nacional ou estrangeiro, ou de habilitação legalmente equivalente, concluído até ao ano letivo imediatamente anterior àquele a que respeita a candidatura;\n\nb) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: 10 - Geometria Descritiva, 12 - História da Cultura e das Artes, 13 - Inglês, 15 - Literatura Portuguesa, 16 - Matemática, 18 - Português;\n\nc) Fazer prova da capacidade para a frequência do curso.\n\n2 - As provas de ingresso a que se refere a alínea b) do número anterior podem ser substituídas nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 154/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/154-2019-122349222), em vigor a partir de 2019-05-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307189": {
+   "fragment_id": "115017502",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições gerais para apresentação ao concurso",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 154/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/154-2019-122349222), em vigor a partir de 2019-05-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 2.º — Condições gerais para apresentação ao concurso\n\n1 - Pode apresentar-se ao concurso o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário, nacional ou estrangeiro, ou de habilitação legalmente equivalente, concluído até ao ano letivo imediatamente anterior àquele a que respeita a candidatura;\n\nb) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: 10 - Geometria Descritiva, 12 - História da Cultura e das Artes, 13 - Inglês, 15 - Literatura Portuguesa, 16 - Matemática, 18 - Português;\n\nc) Fazer prova da capacidade para a frequência do curso.\n\nd) Não estar abrangido pelo estatuto do estudante internacional regulado pelo Decreto-Lei n.º 36/2014, de 10 de março, alterado e republicado pelo Decreto-Lei n.º 62/2018, de 6 de agosto.\n\n2 - As provas de ingresso a que se refere a alínea b) do número anterior podem ser substituídas nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 154/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/154-2019-122349222), em vigor a partir de 2019-05-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307190": {
+   "fragment_id": "115017504",
+   "type": 11,
+   "heading": "Artigo 4.º — Provas específicas de acesso",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 4.º — Provas específicas de acesso\n\n1 - São componentes de avaliação da capacidade para a frequência do curso as seguintes provas específicas de acesso:\n\na) Prova prática;\n\nb) Prova escrita;\n\nc) Prova oral;\n\nd) Entrevista;\n\ne) Portfólio.\n\n2 - O elenco de provas específicas de acesso a realizar para cada variante, as classificações mínimas a obter nas provas, bem como a fórmula de cálculo da sua classificação, são os constantes das tabelas i a iii anexas ao presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307191": {
+   "fragment_id": "115017508",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições para a candidatura",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 8.º — Condições para a candidatura\n\nPara a candidatura a cada variante do curso os estudantes devem satisfazer, cumulativamente, as seguintes condições:\n\na) Ter realizado as provas específicas de acesso fixadas para essa variante;\n\nb) Ter obtido nessas provas específicas de acesso a classificação mínima fixada;\n\nc) Ter obtido na nota de candidatura uma classificação não inferior a 9,5 na escala de 0 a 20 valores.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307192": {
+   "fragment_id": "115017510",
+   "type": 11,
+   "heading": "Artigo 10.º — Edital",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 10.º — Edital\n\nEm cada ano letivo, o processo de candidatura inicia-se com a publicitação, no sítio da Internet do Instituto, do edital de abertura do concurso, onde constam:\n\na) O calendário das ações a desenvolver;\n\nb) As vagas por variante, opção/instrumento;\n\nc) A informação sobre a instrução de processos de candidatura;\n\nd) A informação sobre a instrução de processos de reclamação;\n\ne) Os emolumentos devidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307193": {
+   "fragment_id": "115017518",
+   "type": 11,
+   "heading": "Artigo 18.º — Seriação",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 18.º — Seriação\n\n1 - A seriação dos candidatos a cada variante é realizada por opção/instrumento e pela ordem decrescente das respetivas notas de candidatura.\n\n2 - Em caso de empate, aplicam-se, sucessivamente, por ordem decrescente das classificações, os seguintes critérios de desempate:\n\na) Classificação final obtida nas provas específicas;\n\nb) Classificação obtida nas provas específicas por ordem decrescente de fator de ponderação. Nos casos em que haja mais do que uma prova específica com o mesmo fator de ponderação, será considerada a média aritmética do conjunto das provas.\n\nc) Classificação obtida na prova oral.\n\n3 - As operações materiais de seriação são realizadas pelos serviços competentes da Escola.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307194": {
+   "fragment_id": "115017520",
+   "type": 11,
+   "heading": "Artigo 20.º — Desempate",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 20.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação dos critérios de seriação a que se refere o artigo 18.º disputem a última vaga ou o último conjunto de vagas, de cada variante, opção/instrumento, são abertas tantas vagas adicionais quanto as necessárias para os admitir.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307195": {
+   "fragment_id": "115017521",
+   "type": 11,
+   "heading": "Artigo 21.º — Decisão",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 21.º — Decisão\n\n1 - A decisão sobre as candidaturas a que se refere o presente Regulamento é da competência do presidente do Instituto, mediante proposta dos serviços competentes da Escola, materializada sob a forma de edital de resultados organizado por variante, opção/instrumento, publicado no sítio da Internet do Instituto.\n\n2 - O resultado final do concurso exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído.\n\n3 - A menção da situação de Excluído carece de ser acompanhada da respetiva fundamentação legal.\n\n4 - Do edital de resultados consta, relativamente a cada estudante que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número de identificação civil;\n\nc) Nota de candidatura;\n\nd) Resultado final.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307201": {
+   "fragment_id": "115017522",
+   "type": 11,
+   "heading": "Artigo 22.º — Reclamação",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 22.º — Reclamação\n\n1 - Da decisão prevista no artigo anterior podem os candidatos apresentar através do sistema online, reclamação fundamentada nos termos e prazos fixados pelo edital a que se refere o artigo 10.º\n\n2 - São liminarmente indeferidas as reclamações não fundamentadas, bem como as que não cumpram o pagamento da taxa de reclamação, ou não tenham sido submetidas nos termos e prazos fixados pelo edital a que se refere o artigo 10.º\n\n3 - A decisão sobre as reclamações compete ao presidente do Instituto, sendo notificado o reclamante por via eletrónica e através do sistema online, no prazo indicado no edital a que se refere o artigo 10.º\n\n4 - Revogado.\n\n5 - Revogado.\n\n6 - A reclamação está sujeita ao pagamento da taxa prevista na tabela de emolumentos em vigor, que será devolvida sempre que a reclamação seja deferida.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307196": {
+   "fragment_id": "115017523",
+   "type": 11,
+   "heading": "Artigo 23.º — Matrícula e inscrição",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 23.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição nos Serviços Académicos da Escola no prazo fixado no edital a que se refere o artigo 10.º\n\n2 - A colocação apenas tem efeito para o ano letivo a que se refere, pelo que o direito à matrícula e inscrição no curso em que o candidato foi colocado caduca com o seu não exercício dentro do prazo fixado.\n\n3 - No caso de algum candidato colocado desistir expressamente da matrícula e inscrição, ou não comparecer a realizar a mesma, os Serviços Académicos da Escola convocarão, por via eletrónica, para a matrícula e inscrição, o(s) candidato(s) não colocado(s) na lista ordenada, por ordem decrescente de classificação, até esgotar as vagas ou os candidatos.\n\n4 - Os candidatos a que se refere o número anterior terão um prazo de quatro dias úteis após a receção da notificação para procederem à matrícula e inscrição.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307202": {
+   "fragment_id": "115017525",
+   "type": 11,
+   "heading": "Artigo 25.º — Retificações",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 25.º — Retificações\n\n1 - Quando, por causa não imputável direta ou indiretamente ao candidato, não tenha havido colocação ou tenha havido lapso na colocação, deve ser retificada a situação, mesmo que tal implique a criação de vaga adicional.\n\n2 - A retificação pode ser desencadeada por iniciativa do candidato no âmbito do processo de reclamação ou por iniciativa da Escola.\n\n3 - A retificação pode revestir a forma de:\n\na) Colocação;\n\nb) Alteração da colocação;\n\nc) Passagem à situação de Não Colocado;\n\nd) Passagem à situação de Excluído.\n\n4 - A decisão sobre as retificações compete ao presidente do Instituto.\n\n5 - A decisão de retificação é notificada ao interessado por via eletrónica e através do sistema online, no prazo indicado no edital a que se refere o artigo 10.º\n\n6 - Revogado.\n\n7 - Revogado.\n\n8 - A retificação abrange apenas o candidato em que o erro foi detetado, não tendo qualquer efeito em relação aos restantes candidatos.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307197": {
+   "fragment_id": "115017528",
+   "type": 11,
+   "heading": "Artigo 28.º — Comunicação à Direção-Geral do Ensino Superior",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 28.º — Comunicação à Direção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, o Instituto comunica à Direção-Geral do Ensino Superior, por via eletrónica, informação sobre os candidatos colocados que efetivamente se matriculem, com indicação da variante e nome e número de identificação civil dos mesmos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307198": {
+   "fragment_id": "115012832",
+   "type": 14,
+   "heading": "TABELA I",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+   ],
+   "markdown": "## TABELA I\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nProvas específicas a realizar para cada variante\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+  },
+  "184307199": {
+   "fragment_id": "115012834",
+   "type": 14,
+   "heading": "TABELA II",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA II\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nClassificação mínima a obter nas provas específicas\n\n(na escala numérica de 0 a 20 arredondada às décimas)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307200": {
+   "fragment_id": "115012835",
+   "type": 14,
+   "heading": "TABELA III",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+   ],
+   "markdown": "## TABELA III\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nFórmula de cálculo da classificação final das provas específicas de acesso\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+  },
+  "184307203": {
+   "fragment_id": "115017532",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições gerais para apresentação ao concurso",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 2.º — Condições gerais para apresentação ao concurso\n\n1 - Pode apresentar-se ao concurso o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário, nacional ou estrangeiro, ou de habilitação legalmente equivalente, concluído até ao ano letivo imediatamente anterior àquele a que respeita a candidatura;\n\nb) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: 10 - Geometria Descritiva, 12 - História da Cultura e das Artes, 13 - Inglês, 15 - Literatura Portuguesa, 16 - Matemática, 18 - Português;\n\nc) Fazer prova da capacidade para a frequência do curso.\n\nd) Não estar abrangido pelo estatuto do estudante internacional regulado pelo Decreto-Lei n.º 36/2014, de 10 de março, alterado e republicado pelo Decreto-Lei n.º 62/2018, de 6 de agosto.\n\n2 - As provas de ingresso a que se refere a alínea b) do número anterior podem ser substituídas nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307204": {
+   "fragment_id": "115017534",
+   "type": 11,
+   "heading": "Artigo 4.º — Provas específicas de acesso",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 4.º — Provas específicas de acesso\n\n1 - São componentes de avaliação da capacidade para a frequência as seguintes provas específicas de acesso:\n\na) Prova prática;\n\nb) Prova escrita;\n\nc) Entrevista.\n\n2 - O elenco de provas específicas de acesso a realizar para cada variante, as classificações mínimas a obter nas provas, bem como a fórmula de cálculo da sua classificação, são os constantes das tabelas I a III anexas ao presente regulamento.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307210": {
+   "fragment_id": "115017552",
+   "type": 11,
+   "heading": "Artigo 22.º — Reclamação",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 22.º — Reclamação\n\n1 - Da decisão prevista no artigo anterior podem os candidatos apresentar através do sistema online, reclamação fundamentada nos termos e prazos fixados pelo edital a que se refere o artigo 10.º\n\n2 - São liminarmente indeferidas as reclamações não fundamentadas, bem como as que não cumpram o pagamento da taxa de reclamação, ou não tenham sido submetidas nos termos e prazos fixados pelo edital a que se refere o artigo 10.º\n\n3 - A decisão sobre as reclamações compete ao presidente do Instituto, sendo notificado o reclamante por via eletrónica e através do sistema online, no prazo indicado no edital a que se refere o artigo 10.º\n\n4 - Revogado.\n\n5 - Revogado.\n\n6 - A reclamação está sujeita ao pagamento da taxa prevista na tabela de emolumentos em vigor, que será devolvida sempre que a reclamação seja deferida.\n\n> Alterado pelo/a Artigo 11.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307205": {
+   "fragment_id": "115017553",
+   "type": 11,
+   "heading": "Artigo 23.º — Matrícula e inscrição",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 23.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição nos Serviços Académicos da Escola no prazo fixado no edital a que se refere o artigo 10.º\n\n2 - A colocação apenas tem efeito para o ano letivo a que se refere, pelo que o direito à matrícula e inscrição no curso em que o candidato foi colocado caduca com o seu não exercício dentro do prazo fixado.\n\n3 - No caso de algum candidato colocado desistir expressamente da matrícula e inscrição, ou não comparecer a realizar a mesma, os Serviços Académicos da Escola convocarão, por via eletrónica, para a matrícula e inscrição, o(s) candidato(s) não colocado(s) na lista ordenada, por ordem decrescente de classificação, até esgotar as vagas ou os candidatos.\n\n4 - Os candidatos a que se refere o número anterior terão um prazo de quatro dias úteis após a receção da notificação para procederem à matrícula e inscrição.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307211": {
+   "fragment_id": "115017555",
+   "type": 11,
+   "heading": "Artigo 25.º — Retificações",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 25.º — Retificações\n\n1 - Quando, por causa não imputável direta ou indiretamente ao candidato, não tenha havido colocação ou tenha havido lapso na colocação, deve ser retificada a situação, mesmo que tal implique a criação de vaga adicional.\n\n2 - A retificação pode ser desencadeada por iniciativa do candidato no âmbito do processo de reclamação ou por iniciativa da Escola.\n\n3 - A retificação pode revestir a forma de:\n\na) Colocação;\n\nb) Alteração da colocação;\n\nc) Passagem à situação de Não Colocado;\n\nd) Passagem à situação de Excluído.\n\n4 - A decisão sobre as retificações compete ao presidente do Instituto.\n\n5 - A decisão de retificação é notificada ao interessado por via eletrónica e através do sistema online, no prazo indicado no edital a que se refere o artigo 10.º\n\n6 - Revogado.\n\n7 - Revogado.\n\n8 - A retificação abrange apenas o candidato em que o erro foi detetado, não tendo qualquer efeito em relação aos restantes candidatos.\n\n> Alterado pelo/a Artigo 11.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307206": {
+   "fragment_id": "115017558",
+   "type": 11,
+   "heading": "Artigo 28.º — Comunicação à Direção-Geral do Ensino Superior",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+   ],
+   "markdown": "###### Artigo 28.º — Comunicação à Direção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, o Instituto comunica à Direção-Geral do Ensino Superior, por via eletrónica, informação sobre os candidatos colocados que efetivamente se matriculem, com indicação da variante, e nome e número de identificação civil dos mesmos.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11"
+  },
+  "184307207": {
+   "fragment_id": "115012836",
+   "type": 14,
+   "heading": "TABELA I",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA I\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nProvas específicas a realizar para cada variante e ramo\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307208": {
+   "fragment_id": "115012837",
+   "type": 14,
+   "heading": "TABELA II",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA II\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nClassificação mínima a obter nas provas específicas\n\n(na escala numérica de 0 a 20 arredondada às décimas)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307209": {
+   "fragment_id": "115012838",
+   "type": 14,
+   "heading": "TABELA III",
+   "in_force_from": "2020-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA III\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nFórmula de cálculo da classificação final das provas específicas de acesso\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 10.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307223": {
+   "fragment_id": "115012832",
+   "type": 14,
+   "heading": "TABELA I",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+   ],
+   "markdown": "## TABELA I\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nProvas específicas a realizar para cada variante\n\n(ver documento original)\n\n> Nota: [Artigo 10.º, Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534) As alterações aprovadas pela Portaria n.º 153/2022, de 1 de junho, produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022/2023, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+  },
+  "184307224": {
+   "fragment_id": "115012834",
+   "type": 14,
+   "heading": "TABELA II",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA II\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nClassificação mínima a obter nas provas específicas\n\n(na escala numérica de 0 a 20 arredondada às décimas)\n\n(ver documento original)\n\n> Nota: [Artigo 10.º, Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534) As alterações aprovadas pela Portaria n.º 153/2022, de 1 de junho, produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022/2023, inclusive.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307225": {
+   "fragment_id": "115012835",
+   "type": 14,
+   "heading": "TABELA III",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02",
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+   ],
+   "markdown": "## TABELA III\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Música\n\nFórmula de cálculo da classificação final das provas específicas de acesso\n\n(ver documento original)\n\nem que:\n\nCFPEA = classificação final das provas específicas de acesso expressa na escala numérica de 0 a 20 valores, arredondada à décima;\n\nPC = classificação do portfólio;\n\nEC = classificação da entrevista;\n\nPP = classificação da prova prática;\n\nPCGM = classificação da prova de conhecimentos gerais de Música;\n\nPEPTM = classificação da prova escrita - PTM;\n\nPOPTM = classificação da prova oral - PTM.\n\n> Nota: [Artigo 10.º, Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534) As alterações aprovadas pela Portaria n.º 153/2022, de 1 de junho, produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022/2023, inclusive.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 135/2014 - Diário da República n.º 124/2014, Série I de 2014-07-01](https://diariodarepublica.pt/dr/detalhe/portaria/135-2014-25345614), em vigor a partir de 2014-07-02"
+  },
+  "184307226": {
+   "fragment_id": "115017534",
+   "type": 11,
+   "heading": "Artigo 4.º — Provas específicas de acesso",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02",
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "###### Artigo 4.º — Provas específicas de acesso\n\n1 - São componentes de avaliação da capacidade para a frequência as seguintes provas específicas de acesso:\n\na) Prova prática;\n\nb) Prova escrita;\n\nc) Entrevista.\n\nd) Prova Vídeo.\n\n2 - O elenco de provas específicas de acesso a realizar para cada variante, as classificações mínimas a obter nas provas, bem como a fórmula de cálculo da sua classificação, são os constantes das tabelas I a III anexas ao presente regulamento.\n\n> Nota: [Artigo 10.º, Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534) As alterações aprovadas pela Portaria n.º 153/2022, de 1 de junho, produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022/2023, inclusive.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307227": {
+   "fragment_id": "115012836",
+   "type": 14,
+   "heading": "TABELA I",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02",
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA I\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nProvas específicas a realizar para cada variante e ramo\n\n(ver documento original)\n\n> Nota: [Artigo 10.º, Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534) As alterações aprovadas pela Portaria n.º 153/2022, de 1 de junho, produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022/2023, inclusive.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307228": {
+   "fragment_id": "115012837",
+   "type": 14,
+   "heading": "TABELA II",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02",
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA II\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nClassificação mínima a obter nas provas específicas\n\n(na escala numérica de 0 a 20 arredondada às décimas)\n\n(ver documento original)\n\n> Nota: [Artigo 10.º, Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534) As alterações aprovadas pela Portaria n.º 153/2022, de 1 de junho, produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022/2023, inclusive.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  },
+  "184307229": {
+   "fragment_id": "115012838",
+   "type": 14,
+   "heading": "TABELA III",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02",
+    "Alterado pelo/a Artigo 10.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11",
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+   ],
+   "markdown": "## TABELA III\n\nInstituto Politécnico do Porto\n\nEscola Superior de Música, Artes e Espetáculo\n\nCurso de licenciatura em Teatro\n\nFórmula de cálculo da classificação final das provas específicas de acesso\n\n(ver documento original)\n\nem que:\n\nCFPEA = classificação final das provas específicas de acesso expressa na escala numérica de 0 a 20 valores, arredondada à décima;\n\nPP = classificação da prova prática;\n\nPV = classificação da prova Vídeo;\n\nPPm = classificação da prova prática - Movimento;\n\nPPvc = classificação da prova prática - Voz/Canto;\n\nPPmo = classificação da prova prática - Monólogo;\n\nPPimt = classificação da prova prática - Improvisação/Texto;\n\nPCGT = classificação da prova de conhecimentos gerais de Teatro.\n\nET = classificação da entrevista.\n\n> Nota: [Artigo 10.º, Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534) As alterações aprovadas pela Portaria n.º 153/2022, de 1 de junho, produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2022/2023, inclusive.\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 153/2022 - Diário da República n.º 106/2022, Série I de 2022-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/153-2022-184242534), em vigor a partir de 2022-06-02\n\n> Alterado pelo/a Artigo 10.º do/a [Portaria n.º 65/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/65-2020-130070742), em vigor a partir de 2020-03-11\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 98/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/98-2018-115017487), em vigor a partir de 2018-04-11"
+  }
+ }
+}

@@ -1,0 +1,266 @@
+---
+schema_version: '1.0'
+id: pt:dre:405915:por
+title: Portaria n.º 355/96
+short_title: null
+summary: Aprova o novo Regulamento para Inscrição no Registo Nacional das Associações Juvenis (RNAJ)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 355/96
+official_date: null
+publication_date: '1996-08-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1996, Série I-B de 1996-08-16
+  number: '189'
+  series: I
+  supplement: null
+  pages: 2559 - 2563
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/08/189b00/25592563.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/355/1996/08/16/p/dre/pt/html
+  oj: null
+  dre: '405915'
+  dre_path: /dr/detalhe/portaria/355-1996-405915
+  internal: pt:dre:405915:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-1996-405915
+  metadata_url: https://data.dre.pt/eli/port/355/1996/08/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-1996-405915
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-11-15T00:00:00Z'
+integrity:
+  source_sha256: 66f51a310923ad5d9b477628fa03da8b8aa9a532fb9d90ec55a8cd8f153bdd19
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-355-405915.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação Juvenil
+- Jovem
+- Política de Juventude
+- Registo Nacional das Associações Juvenis
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:544785:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/70/1996/06/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/1996/06/04/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 355/96
+
+de 16 de Agosto
+
+Considerando a necessidade de garantir a todas as associações juvenis a possibilidade de inscrição no Registo Nacional das Associações Juvenis;
+
+Considerando a urgência em reformular o Registo Nacional das Associações Juvenis em face das novas realidades associativas dos jovens portugueses;
+
+Considerando as atribuições legais cometidas ao Instituto Português da Juventude pelo [Decreto-Lei n.º 70/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1996-437780), de 4 de Junho;
+
+Ouvidas as associações juvenis:
+
+Manda o Governo, pelo Secretário de Estado da Juventude, ao abrigo do estabelecido no n.º 2 do artigo 2.º do [Decreto-Lei n.º 70/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1996-437780), de 4 de Junho, o seguinte:
+
+1.º É aprovado o novo Regulamento para Inscrição no Registo Nacional das Associações Juvenis (RNAJ), que faz parte integrante da presente portaria.
+
+2.º As associações juvenis que à data da publicação da presente portaria estejam inscritas no RNAJ mantêm a sua inscrição, sem prejuízo do estabelecido no artigo 9.º do novo Regulamento.
+
+Presidência do Conselho de Ministros.
+
+**Assinada em 26 de Julho de 1996.**
+
+**O Secretário de Estado da Juventude, António José Martins Seguro.**
+
+REGULAMENTO PARA INSCRIÇÃO NO REGISTO NACIONAL DAS ASSOCIAÇÕES JUVENIS (RNAJ)
+
+###### Artigo 1.º — Definição
+
+O Registo Nacional das Associações Juvenis (RNAJ) é o instrumento de identificação das associações juvenis sediadas no território nacional ou sediadas no estrangeiro, desde que maioritariamente constituídas por cidadãos de nacionalidade portuguesa ou luso-descendentes.
+
+###### Artigo 2.º — Objectivos
+
+São objectivos do RNAJ:
+
+a) Identificar todas as associações juvenis existentes no território nacional ou sediadas no estrangeiro, desde que maioritariamente constituídas por cidadãos de nacionalidade portuguesa ou luso-descendentes;
+
+b) Atribuir uma certificação a todas as associações juvenis inscritas no RNAJ.
+
+###### Artigo 3.º — Requisitos de inscrição
+
+1 - Podem inscrever-se no RNAJ todas as associações juvenis que cumulativamente reúnam os seguintes requisitos:
+
+a) Possuam personalidade jurídica;
+
+b) Integrem exclusivamente associados com idade igual ou inferior a 30 anos.
+
+2 - Podem ainda inscrever-se no RNAJ as associações juvenis, incluindo as de âmbito político-partidário, sindical, de emigrantes ou de carácter sócio-profissional, desde que reúnam três dos seguintes requisitos:
+
+a) Possuam personalidade jurídica;
+
+b) Tenham mais de 75% de associados com idade igual ou inferior a 30 anos;
+
+c) Tenham no órgão executivo pelo menos 60% de membros com idade igual ou inferior a 30 anos;
+
+d) Sejam dotadas de autonomia e da sua actividade resulte expressamente o seu carácter juvenil.
+
+3 - Podem ainda inscrever-se no RNAJ:
+
+a) As associações de estudantes ou federações constituídas de acordo com a [Lei n.º 33/87](https://diariodarepublica.pt/dr/detalhe/lei/33-1987-420231), de 11 de Julho;
+
+b) As federações ou outras organizações constituídas maioritariamente por associações juvenis inscritas no RNAJ.
+
+###### Artigo 4.º — Âmbito
+
+1 - As associações juvenis inscritas no RNAJ podem ser consideradas de âmbito nacional, regional ou local.
+
+2 - As associações juvenis sediadas no estrangeiro, desde que maioritariamente constituídas por cidadãos de nacionalidade portuguesa ou luso-descendentes, são consideradas de âmbito especial.
+
+3 - As associações juvenis são consideradas de âmbito nacional desde que preencham cumulativamente os seguintes requisitos:
+
+a) Resulte dos respectivos estatutos o seu âmbito nacional;
+
+b) Desenvolvam, com carácter regular e permanente, actividades de âmbito nacional ou actividades em pelo menos metade das regiões e ou distritos do País;
+
+c) Aceitem associados residentes em qualquer parte do território nacional e lhes confiram capacidade eleitoral activa e passiva.
+
+4 - As associações juvenis são consideradas de âmbito regional desde que preencham cumulativamente os seguintes requisitos:
+
+a) Resulte dos respectivos estatutos o seu âmbito regional;
+
+b) Desenvolvam, com carácter regular e permanente, actividades em mais de dois municípios.
+
+5 - As associações não consideradas nos números anteriores são consideradas de âmbito local.
+
+###### Artigo 5.º — Formalização do pedido de inscrição
+
+1 - As associações referidas no artigo 3.º devem apresentar o seu pedido de inscrição nos serviços do Instituto Português da Juventude (IPJ).
+
+2 - O pedido de inscrição no RNAJ deve ser formalizado através da apresentação dos seguintes documentos:
+
+a) Ficha de inscrição, cujo modelo se anexa ao presente Regulamento;
+
+b) Cópia dos estatutos;
+
+c) Extracto dos estatutos publicados na 3.ª série do Diário da República ou documento equivalente;
+
+d) Declaração donde conste o número total de associados, bem como daqueles que têm idade inferior ou igual a 30 anos, ou, no caso de federações ou uniões, do número de associados inscritos no RNAJ, assinada pelo presidente da mesa da assembleia geral;
+
+e) Declaração donde conste a relação nominal dos membros do órgão executivo e respectivas datas de nascimento, assinada pelo presidente do mesmo órgão, a qual deve ser actualizada sempre que haja eleições para esse órgão ou que os seus membros sejam substituídos.
+
+3 - As associações juvenis previstas no n.º 2 do artigo 4.º do presente Regulamento deverão ainda apresentar a tradução dos seus estatutos em língua portuguesa.
+
+###### Artigo 6.º — Instrução dos processos
+
+1 - No prazo de 20 dias úteis após a entrega do pedido de inscrição, o IPJ deverá analisar a documentação entregue e elaborar informação sobre o pedido.
+
+2 - A informação elaborada deverá ser entregue à comissão de acompanhamento, a qual deliberará nos termos do artigo 7.º deste Regulamento.
+
+###### Artigo 7.º — Decisão/deliberação
+
+A deliberação dos pedidos de inscrição no RNAJ cabe à comissão de acompanhamento, a qual será proferida no prazo de 30 dias úteis desde a entrada do pedido no IPJ.
+
+###### Artigo 8.º — Comissão de acompanhamento
+
+1 - A comissão de acompanhamento é designada por despacho do membro do Governo responsável pela área da juventude.
+
+2 - Compete, nomeadamente, à comissão de acompanhamento:
+
+a) Deliberar sobre os pedidos de inscrição no RNAJ;
+
+b) Deliberar sobre a manutenção e suspensão das associações inscritas no RNAJ.
+
+3 - As deliberações da comissão de acompanhamento são tomadas por maioria simples, tendo o presidente voto de qualidade.
+
+4 - O IPJ prestará à comissão de acompanhamento todo o apoio técnico e administrativo.
+
+###### Artigo 9.º — Avaliação
+
+1 - Anualmente, de 1 de Maio a 31 de Julho, devem as associações juvenis inscritas no RNAJ enviar ao IPJ uma ficha (que se anexa ao presente Regulamento), a fim de confirmar a manutenção dos requisitos da inscrição.
+
+2 - Em caso de dúvida, a comissão de acompanhamento pode, através do IPJ, solicitar às associações juvenis informações sobre as mesmas, no estrito âmbito dos requisitos deste Regulamento.
+
+3 - A não apresentação de informação suficiente por parte das associações juvenis pode levar à suspensão da respectiva inscrição.
+
+###### Artigo 10.º — Suspensão do registo
+
+1 - As associações juvenis podem, por sua iniciativa, suspender temporariamente a sua inscrição no RNAJ, mediante carta enviada à comissão de acompanhamento.
+
+2 - A perda dos requisitos necessários à inscrição no RNAJ determina a suspensão da respectiva inscrição, após deliberação da comissão de acompanhamento.
+
+3 - Da suspensão do registo não resulta a exoneração de qualquer obrigação cometida às associações juvenis.
+
+###### Artigo 11.º — Identificação
+
+Às associações inscritas no RNAJ será atribuído:
+
+a) Cartão de identificação;
+
+b) Certificado.
+
+###### Artigo 12.º — Relatório
+
+A comissão de acompanhamento elaborará um relatório anual, a publicar até 31 de Janeiro, e do qual constarão os seguintes elementos:
+
+a) Lista das associações inscritas no RNAJ, indicando o número dos seus associados ou membros;
+
+b) Lista das associações candidatas à inscrição no RNAJ cuja inscrição foi recusada.
+
+###### Artigo 13.º — Associações com sede nas Regiões Autónomas
+
+1 - O serviço competente para receber os pedidos de inscrição, de confirmação anual e de suspensão da inscrição no RNAJ das associações referidas no artigo 3.º do presente Regulamento com sede nas Regiões Autónomas, bem como para analisar a documentação, elaborar a informação sobre os pedidos e remeter o processo à comissão de acompanhamento, é definido em diploma regional.
+
+2 - Na formalização do pedido de inscrição, o documento a que se refere a alínea c) do n.º 2 do artigo 5.º pode ser substituído pela apresentação do extracto dos estatutos publicados no Jornal Oficial da respectiva Região Autónoma.
+
+###### Artigo 14.º — Comunicações das deliberações da comissão de acompanhamento
+
+1 - As deliberações da comissão de acompanhamento serão comunicadas aos interessados, pelo IPJ, no prazo de cinco dias úteis.
+
+2 - Das deliberações da comissão de acompanhamento cabe recurso para o membro do Governo responsável pela área da juventude.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/189b00/25592563.pdf))](https://files.diariodarepublica.pt/1s/1996/08/189b00/25592563.pdf)

@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:417792:por
+title: Despacho Normativo n.º 69/87
+short_title: null
+summary: Estabelece as regras de distribuição dos contingentes para importação de amido, em 1987, de Espanha e de países terceiros
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Indústria e Comércio
+proposing_entity: null
+official_number: 69/87
+official_date: null
+publication_date: '1987-08-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 185/1987, Série I de 1987-08-13
+  number: '185'
+  series: I
+  supplement: null
+  pages: 3146 - 3147
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/08/18500/31463147.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '417792'
+  dre_path: /dr/detalhe/despacho-normativo/69-1987-417792
+  internal: pt:dre:417792:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-1987-417792
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-1987-417792
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-08-13T00:00:00Z'
+integrity:
+  source_sha256: e1feebffde44ade31aabec21fc0c093d101a5cadf69a3026f5dbe132e0db540c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-69-417792.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 69/87
+
+Considerando que, por força do n.º 2 do artigo 269.º do Acto de Adesão às Comunidades Europeias, Portugal pode, durante a 1.ª etapa, manter, sob a forma de contingentes, restrições à importação de amido de milho, quer seja proveniente da Comunidade, na sua composição em 31 de Dezembro de 1985, quer de Espanha ou de países terceiros;
+
+Considerando que a Comunidade já fixou o contingente aplicável em 1987 para a importação de amido daquelas origens;
+
+Atendendo, ainda, a que, através do Decreto-Lei n.º 62/86, de 25 de Março, já foi fixado o método de cálculo dos direitos niveladores a que fica sujeita a importação de amido de milho;
+
+Usando da faculdade conferida pelo n.º 2 do referido artigo 269.º do Acto de Adesão:
+
+Determino o seguinte:
+
+1 - O montante, em toneladas, do contingente anual fixado pelos Regulamentos (CEE) n.os [596/86](http://data.europa.eu/eli/reg/1986/596/oj?locale=pt) e [597/86](http://data.europa.eu/eli/reg/1986/597/oj?locale=pt), de 28 de Fevereiro de 1986, é o seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18500/31463147.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18500/31463147.pdf)
+
+2 - O contingente referido no n.º 1 será repartido em duas parcelas, sendo uma correspondente a 90% do seu montante, destinada a ser distribuída pelos habituais importadores, e outra de 10% desse mesmo contingente, a ser distribuída pelos novos importadores.
+
+3 - Consideram-se como habituais importadores as empresas que efectuaram importações do produto abrangido por este contingente em 1985 e 1986 e como novos importadores os restantes.
+
+4 - Só serão contempladas na distruibuição de cada uma das percelas do n.º 2 as empresas que a ela se candidatarem.
+
+5 - As candidaturas deverão ser dirigidas à Direcção-Geral do Comércio Externo, Avenida da República, 79-B, 1000 Lisboa, e remetidas sob registo, com aviso de recepção, ou entregues contra recibo até ao 15.º dia após a publicação deste despacho.
+
+6 - As candidaturas das empresas sediadas nas Regiões Autónomas dos Açores e da Madeira serão comunicadas à Direcção-Geral do Comércio Externo pelas entidades competentes daquelas Regiões no prazo de dois dias úteis a partir do termo do período para a sua apresentação, com indicação dos seguintes elementos:
+
+Identificação das empresas concorrentes;
+
+Montante das importações efectuadas por cada uma delas em 1985 e 1986, sua classificação pautal (Código NEMCE) e país de origem, de acordo com o documento aduaneiro de prova que apresentaram.
+
+7 - A Direcção-Geral do Comércio Externo comunicará às entidades competentes das regiões autónomas as quotas que na distribuição geral foram atribuídas às empresas que ali se candidataram.
+
+8 - A parcela a distribuir pelos habituais importadores será proporcional ao total das importações, expressas em toneladas, por eles realizadas em 1985 e 1986.
+
+9 - Para o efeito, sob pena de não serem consideradas, as candidaturas deverão fazer-se acompanhar de adequado documento aduaneiro comprovativo das importações do produto, expressas em toneladas, efectuadas nos anos de 1985 e 1986.
+
+10 - Relativamente à parcela a repartir pelos novos importadores, será distribuída em partes iguais pelas empresas que se candidatarem.
+
+11 - Quando o montante a atribuir a cada um dos novos importadores não tenha significado comercial, será cancelada a distribuição respectiva e os quantitativos assim libertados acrescerão à parte do contingente reservada aos importadores habituais.
+
+12 - Consideram-se sem significado comercial os montantes que sejam inferiores a 10% da média aritmética das quantidades atribuídas aos habituais importadores.
+
+13 - Nos termos do artigo 9.º do Decreto-Lei n.º 62/86, de 25 de Março, no acto de inscrição os concorrentes deverão fazer prova de terem feito na Caixa Geral de Depósitos, à ordem da Direcção-Geral do Comércio Externo ou por garantia bancária, uma caução no montante de:
+
+a) 600$00 por tonelada, no caso de o direito nivelador a pagar ser aquele que se encontra em vigor na data do desalfandegamento;
+
+b) 1000$00 por tonelada, no caso de o importador desejar usar a faculdade prevista no n.º 2 do artigo 4.º do Decreto-Lei n.º 62/86 (fixação antecipada do direito nivelador).
+
+Secretaria de Estado do Comércio Externo, 13 de Julho de 1987. - O Secretário de Estado do Comércio Externo, Luís Filipe Sales Caldeira da Silva.

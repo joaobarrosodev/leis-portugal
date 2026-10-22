@@ -1,0 +1,586 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:890194535:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-890366092",
+ "dre_path": "/dr/detalhe/decreto-lei/68-2024-890194535",
+ "source_lastmod": "2026-07-28",
+ "versions": [
+  {
+   "date": "2024-10-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890366197",
+    "890366198",
+    "890366199",
+    "890366200",
+    "890366201",
+    "890366202",
+    "890366203",
+    "890366204",
+    "890366205",
+    "890366206",
+    "890366207",
+    "890366208",
+    "890366209",
+    "890366210",
+    "890366211",
+    "890366212",
+    "890366213",
+    "890366214",
+    "890366215",
+    "890366216",
+    "890366217",
+    "890366218",
+    "890366219",
+    "890366220",
+    "890366221",
+    "890366222",
+    "890366223",
+    "890366224",
+    "890366225",
+    "890366226",
+    "890366227",
+    "890366228",
+    "890366230"
+   ]
+  },
+  {
+   "date": "2024-11-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:898201693:por",
+     "title": "Decreto-Lei n.º 96/2024",
+     "published": "2024-11-28",
+     "dre_path": "/dr/detalhe/decreto-lei/96-2024-898201693"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "890366197",
+    "890366198",
+    "890366199",
+    "890366200",
+    "898158028",
+    "890366202",
+    "890366203",
+    "890366204",
+    "890366205",
+    "890366206",
+    "890366207",
+    "890366208",
+    "890366209",
+    "890366210",
+    "890366211",
+    "890366212",
+    "890366213",
+    "890366214",
+    "890366215",
+    "890366216",
+    "890366217",
+    "890366218",
+    "890366219",
+    "890366220",
+    "890366221",
+    "890366222",
+    "890366223",
+    "890366224",
+    "890366225",
+    "890366226",
+    "890366227",
+    "890366228",
+    "890366229",
+    "890366230"
+   ]
+  },
+  {
+   "date": "2025-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:912820662:por",
+     "title": "Decreto-Lei n.º 54/2025",
+     "published": "2025-03-28",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2025-912820662"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "890366197",
+    "890366198",
+    "890366199",
+    "890366200",
+    "898158028",
+    "890366202",
+    "890366203",
+    "890366204",
+    "890366205",
+    "890366206",
+    "913037382",
+    "890366208",
+    "890366209",
+    "890366210",
+    "913037383",
+    "890366212",
+    "890366213",
+    "890366214",
+    "890366215",
+    "890366216",
+    "890366217",
+    "890366218",
+    "890366219",
+    "890366220",
+    "890366221",
+    "890366222",
+    "890366223",
+    "890366224",
+    "890366225",
+    "890366226",
+    "890366227",
+    "890366228",
+    "890366229",
+    "890366230"
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1152696596:por",
+     "title": "Decreto-Lei n.º 150/2026",
+     "published": "2026-07-28",
+     "dre_path": "/dr/detalhe/decreto-lei/150-2026-1152696596"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "890366197",
+    "890366198",
+    "890366199",
+    "890366200",
+    "1152924375",
+    "890366202",
+    "890366203",
+    "1152924575",
+    "1152924775",
+    "1152924975",
+    "1152925175",
+    "890366208",
+    "1152925375",
+    "890366210",
+    "913037383",
+    "890366212",
+    "890366213",
+    "890366214",
+    "890366215",
+    "890366216",
+    "890366217",
+    "890366218",
+    "1152915875",
+    "890366219",
+    "890366220",
+    "890366221",
+    "890366222",
+    "890366223",
+    "890366224",
+    "890366225",
+    "890366226",
+    "890366227",
+    "890366228",
+    "890366229",
+    "890366230"
+   ]
+  }
+ ],
+ "fragments": {
+  "890366197": {
+   "fragment_id": "890366093",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 68/2024\n\nde 8 de outubro\n\nA criação do Centro de Competências Jurídicas do Estado, através do Decreto-Lei n.º 149/2017, de 6 de dezembro, teve como objetivo responder à escassez e dispersão de recursos humanos em áreas jurídicas consideradas fundamentais. Este centro de competência de excelência foi, assim, concebido como núcleo de prestação interna de serviços jurídicos à própria Administração Pública, mediante um quadro de especialistas qualificado e especializado.\n\nNo âmbito da reforma da organização, governação e prestação do setor público, o Programa do XXIV Governo Constitucional prevê o objetivo da \"agregação, aquisição e desenvolvimento de centros de competência de excelência\", no qual se inclui o centro de competências jurídicas em causa. Por sua vez, o Plano de Recuperação e Resiliência inclui na componente 19 uma reforma funcional e orgânica da Administração Pública (TD-r35) que autonomiza os serviços de suporte, isto é, aqueles que prestam serviços para o Estado, e que podem ser serviços comuns ou serviços partilhados, nos quais se inclui este centro de competências. Neste contexto, foi aprovado o Decreto-Lei n.º 43-B/2024, de 2 de julho, no qual se estabelece o alargamento do âmbito de atividade, serviços e intervenção do Centro Jurídico do Estado (CEJURE).\n\nCumprindo estes objetivos, o presente decreto-lei procede à aprovação de uma nova orgânica do centro de competências jurídicas do Estado, com o fito enquadrador de prestador de serviços jurídicos transversais à Administração Pública, com objetivos de maior eficiência e independência na defesa jurídica dos interesses do Estado, nomeadamente, através da diminuição do recurso à contratação externa e da prossecução de objetivos de eficiência, eficácia e economia da despesa pública.\n\nAtento o facto de o novo centro de excelência jurídica ter como base a estrutura atualmente existente, beneficiando do conhecimento acumulado e das boas práticas sedimentadas ao longo dos anos, evoluindo a partir dela para uma estrutura mais alargada com ganhos de escala e de tecnicidade, o presente decreto-lei procede à sua nova denominação de \"Centro Jurídico do Estado\".\n\nEm concreto, o presente decreto-lei concretiza a expansão do apoio jurídico e contencioso para a totalidade dos membros do Governo, assim como o apoio jurídico e contencioso aos órgãos e serviços integrados na administração direta do Estado ou a outras entidades da administração pública que sejam identificados por portaria, com exclusão das matérias relacionadas com o pré-contencioso e contencioso da União Europeia, direito internacional, diplomático e consular, arbitragem internacional e serviços periféricos externos, que permanecem nos serviços sujeitos a direção da área governativa dos negócios estrangeiros. No entanto, numa ótica de racionalização dos recursos de excelência, o apoio jurídico aos serviços da administração direta do Estado cinge-se, por outro lado, a determinados temas e matérias identificados pelo presente decreto-lei e constituirão atribuições da Direção-Geral de Direito Europeu e Internacional a integrar no respetivo ministério.\n\nDe igual forma, mantém-se a Rede de Serviços Jurídicos da Administração Pública, que consubstancia uma estrutura de cooperação e de partilha interministerial de conhecimento e de recursos jurídicos, com vista a otimizar o seu uso pelos órgãos e serviços integrados na administração direta do Estado, visando estimular uma maior partilha de conhecimentos e harmonização de boas práticas, e que passa a abranger todos os serviços da administração direta do Estado e não apenas, como até aqui, as secretarias-gerais ou serviços equivalentes.\n\nAdicionalmente, mantém-se o mecanismo de controlo prévio da contratação externa de serviços jurídicos, sujeito, no entanto, a alterações, de forma a assegurar a racionalização da despesa pública, bem como permitir a obtenção de informação que habilite, posteriormente, à apresentação de eventuais propostas de alteração da missão ou do âmbito de atuação do CEJURE.\n\nSaliente-se, por fim, um aspeto relevante na presente reforma transversal à capacitação da Administração Pública, como previsto no programa do XXIV Governo Constitucional: \"só uma Administração Pública com recursos humanos capacitados e de qualidade pode responder aos desafios que se colocam a Portugal. Um Estado ‘mais qualificado’\". Para o efeito, o presente decreto-lei aumenta as possibilidades de progressão e promoção, reforçando a capacidade de atração e retenção de profissionais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "890366198": {
+   "fragment_id": "890366094",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "890366199": {
+   "fragment_id": "890366095",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei aprova a orgânica do Centro Jurídico do Estado (CEJURE)."
+  },
+  "890366200": {
+   "fragment_id": "890366096",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - O CEJURE é um serviço da administração direta do Estado, dotado de autonomia administrativa.\n\n2 - O CEJURE está sujeito ao poder de direção do Primeiro-Ministro, com faculdade de delegação num dos membros do Governo integrados na Presidência do Conselho de Ministros."
+  },
+  "890366201": {
+   "fragment_id": "890366097",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O CEJURE tem por missão prestar apoio jurídico, consultoria, assessoria e aconselhamento jurídicos ao Conselho de Ministros, aos membros do Governo, e aos serviços e entidades da administração pública central, bem como proceder à sua representação em juízo, perante qualquer tribunal nas jurisdições nacional, incluindo nas jurisdições constitucional, de contas e arbitral, sem prejuízo das competências do Ministério Público.\n\n2 - O CEJURE prossegue as seguintes atribuições:\n\na) Prestar consultoria, assessoria e aconselhamento jurídico:\n\ni) Aos membros do Governo;\n\nii) Aos órgãos e serviços integrados na administração direta do Estado;\n\niii) Aos órgãos e serviços da administração pública identificados por portaria dos membros do Governo de que depende o CEJURE e esses serviços ou entidades;\n\nb) Intervir em questões ou procedimentos jurídicos de especial complexidade envolvendo o Estado, nomeadamente em matéria de contratação pública, em articulação com a Unidade Técnica de Acompanhamento de Projetos e no âmbito das suas atribuições;\n\nc) Desempenhar funções de consulta e de apoio técnico ao Governo na elaboração dos atos legislativos e outros atos normativos, contribuindo para a qualidade e simplificação de todos os atos submetidos à apreciação do Conselho de Ministros;\n\nd) Elaborar estudos legislativos e outros de carácter jurídico, incluindo em matéria de legística;\n\ne) Assegurar o patrocínio judiciário dos membros do Governo, diretores-gerais, secretários-gerais, inspetores-gerais e equiparados para todos os efeitos legais, bem como dos responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projeto a que se refere o artigo 28.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, quando necessário em virtude do exercício das suas funções, nos termos do Decreto-Lei n.º 148/2000, de 19 de julho, na sua redação atual;\n\nf) Assegurar a representação em juízo, perante quaisquer tribunais, através do trabalhador para o efeito designado pelo diretor do CEJURE:\n\ni) Do Conselho de Ministros;\n\nii) Do Primeiro-Ministro;\n\niii) Dos membros do Governo;\n\niv) Dos órgãos e serviços integrados na administração direta do Estado;\n\nv) Dos órgãos e serviços da administração pública identificados por portaria dos membros do Governo de que depende o CEJURE e esses serviços ou entidades;\n\ng) Preparar requerimentos de apreciação preventiva da constitucionalidade ou de declaração de inconstitucionalidade ou ilegalidade, com força obrigatória geral, ao abrigo do disposto no n.º 4 do artigo 278.º ou na alínea c) do n.º 2 do artigo 281.º da Constituição;\n\nh) Preparar projetos de resposta nos processos de fiscalização da constitucionalidade e da legalidade de normas constantes de diplomas assinados por qualquer membro do Governo;\n\ni) Promover a harmonização de entendimentos e procedimentos jurídicos, com vista a garantir uma aplicação uniforme da lei, tanto ao nível dos gabinetes de membros do Governo, como ao nível dos serviços e entidades da Administração Pública, sem prejuízo das atribuições da Direção-Geral da Administração e do Emprego Público;\n\nj) Promover a realização e participar em ações de formação, encontros temáticos e seminários para os juristas da administração pública, em articulação com o Instituto Nacional de Administração, I. P., e/ou instituições de ensino superior;\n\nk) Assegurar a interligação com outros serviços e entidades da administração pública, no âmbito das suas atribuições;\n\nl) Assegurar, em articulação com a área governativa dos negócios estrangeiros, a interligação com as organizações internacionais relevantes no âmbito das suas atribuições;\n\nm) Promover o funcionamento da estrutura de cooperação e de partilha interministerial de conhecimentos e de recursos jurídicos, denominada Rede de Serviços Jurídicos da Administração Pública (REJURIS), com vista a dinamizar o recurso a esta Rede pelos órgãos e serviços integrados na administração direta do Estado, no âmbito do Fórum da Administração Pública;\n\nn) Colaborar com a INCM - Imprensa Nacional-Casa da Moeda, S. A. (INCM), na definição de boas práticas na divulgação e consolidação da informação legislativa, incluindo com recurso a ferramentas informáticas inovadoras, com vista à simplificação do acesso dos cidadãos aos normativos em vigor;\n\no) Exercer as demais atribuições que lhe sejam cometidas por lei ou por regulamento.\n\n3 - Para efeitos do exercício das atribuições previstas na alínea f) do número anterior, com exceção das forças armadas, dos serviços periféricos externos e de matéria tributária e contributiva, nas alíneas e) e h) do mesmo número, as citações ou notificações recebidas pelos membros do Governo ou serviços e entidades a representar devem ser remetidas, de imediato, ao CEJURE.\n\n4 - Para efeitos do exercício das atribuições previstas nas subalíneas ii) e iii) da alínea a) e nas subalíneas iv) e v) da alínea f) do n.º 2, a intervenção do CEJURE não substitui a regular apreciação de questões jurídicas por esses órgãos e serviços no âmbito da sua atividade em matérias específicas e setoriais dos respetivos ministérios, restringindo-se a questões de especial complexidade, do ponto de vista jurídico, político ou social, nomeadamente no âmbito do direito constitucional, administrativo ou financeiro, ou em que estejam em causa direitos fundamentais, conflitos normativos ou questões de responsabilidade do Estado.\n\n5 - A avaliação do grau de complexidade e posterior remessa dos processos judiciais e de consulta jurídica entre o CEJURE e os serviços jurídicos setoriais cabe à direção do CEJURE."
+  },
+  "890366202": {
+   "fragment_id": "890366098",
+   "type": 11,
+   "heading": "Artigo 4.º — Arbitragem interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Arbitragem interna\n\n1 - No âmbito de processos que corram perante tribunais arbitrais, a representação do Estado é feita através de trabalhador para o efeito designado pelo diretor do CEJURE.\n\n2 - Sem prejuízo do disposto no número anterior, a representação do Estado pode ser feita conjuntamente com representantes contratados externamente, se tal for necessário e por não existirem, no CEJURE, os recursos humanos disponíveis e com experiência, formação e grau de especialização adequados, que permitam assegurar os trabalhos em causa.\n\n3 - A nomeação de árbitros pela parte que seja pessoa coletiva de direito público ou, no caso do Estado, pelo ministério, compete ao membro do Governo que exerce o poder de direção sobre o CEJURE, sob proposta do diretor do CEJURE ouvido o responsável máximo pelos serviços jurídicos da pessoa coletiva ou do membro do Governo respetivo."
+  },
+  "890366203": {
+   "fragment_id": "890366099",
+   "type": 1,
+   "heading": "Capítulo II — ORGANIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — ORGANIZAÇÃO"
+  },
+  "890366204": {
+   "fragment_id": "890366100",
+   "type": 11,
+   "heading": "Artigo 5.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Organização interna\n\n1 - A organização interna do CEJURE obedece ao modelo de estrutura matricial, sem prejuízo do disposto no número seguinte.\n\n2 - Os núcleos temáticos que integram o CEJURE são fixados por portaria do membro do Governo que exerce o poder de direção sobre o CEJURE."
+  },
+  "890366205": {
+   "fragment_id": "890366101",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção\n\n1 - O CEJURE é dirigido por um diretor, coadjuvado por dois subdiretores, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n2 - Compete ao diretor:\n\na) Dirigir e orientar os serviços do CEJURE;\n\nb) Informar e prestar contas da atividade do CEJURE ao membro do Governo que exerce o poder de direção sobre o CEJURE;\n\nc) Proceder à distribuição dos processos pelos trabalhadores do CEJURE, e à análise dos trabalhos elaborados;\n\nd) Proceder, quando se justifique, à criação de equipas de projeto temporárias, identificar a missão a prosseguir e designar a respetiva composição;\n\ne) Proceder à avaliação da existência, no CEJURE, de recursos humanos disponíveis e com experiência, formação e grau de especialização adequados, nos termos do n.º 2 do artigo 4.º e do n.º 2 do artigo 15.º;\n\nf) Emitir parecer do CEJURE, nos termos do artigo 15.º;\n\ng) Avaliar o desempenho profissional dos trabalhadores que exerçam funções no CEJURE;\n\nh) Exercer o poder disciplinar relativamente aos trabalhadores do CEJURE;\n\ni) Representar o CEJURE junto de outros serviços e de entidades nacionais, internacionais e estrangeiras;\n\nj) Exercer as demais competências que lhe sejam conferidas por lei, por regulamento ou que nele sejam delegadas ou subdelegadas.\n\n3 - Compete, ainda, ao diretor do CEJURE, no âmbito da REJURIS:\n\na) Presidir às reuniões e coordenar as atividades da REJURIS;\n\nb) Convocar as reuniões ordinárias e extraordinárias da REJURIS;\n\nc) Decidir sobre a criação de comissões especializadas no âmbito da REJURIS;\n\nd) Definir o procedimento, o calendário e o modelo para a identificação, por parte dos membros da REJURIS, dos recursos humanos com competências jurídicas e respetivas áreas de especialização integrados em cada serviço, e apresentar, anualmente, ao membro do Governo que exerce o poder de direção sobre o CEJURE, essa informação atualizada;\n\ne) Promover a harmonização de entendimentos e procedimentos na administração direta do Estado, nos termos do artigo 18.º;\n\nf) Difundir, pelos membros da REJURIS, os seguintes elementos:\n\ni) Circulares de harmonização de entendimentos e procedimentos, nos termos do artigo 18.º, bem como outras orientações, diretrizes, recomendações, manuais de procedimento, guias de boas práticas, minutas e demais documentos padronizados;\n\nii) Relatórios de monitorização e de avaliação sobre a harmonização de entendimentos, procedimentos e boas práticas;\n\niii) Notícias de ações de formação especializada e de novidades jurisprudenciais, doutrinais e bibliográficas de que tenha conhecimento ou que lhe sejam transmitidas pelos membros da REJURIS, com relevância para o exercício da função jurídica nos órgãos e serviços integrados na administração direta do Estado.\n\n4 - O diretor do CEJURE pode delegar, ou subdelegar, competências nos subdiretores.\n\n5 - O diretor é substituído, nas suas faltas e impedimentos, pelo subdiretor que indique."
+  },
+  "890366206": {
+   "fragment_id": "890366102",
+   "type": 11,
+   "heading": "Artigo 7.º — Designação do diretor e subdiretores do CEJURE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Designação do diretor e subdiretores do CEJURE\n\n1 - A nomeação e a duração do mandato do diretor e dos subdiretores, bem como a sua renovação, regem-se pelo disposto no Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, na sua redação atual.\n\n2 - O mapa de cargos de direção do CEJURE e o respetivo estatuto remuneratório constam do anexo ao presente decreto-lei e do qual faz parte integrante."
+  },
+  "890366207": {
+   "fragment_id": "890366103",
+   "type": 11,
+   "heading": "Artigo 8.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pessoal\n\n1 - O mapa de pessoal do CEJURE define o número de efetivos que exercem funções no CEJURE, de acordo com os seguintes cargos e carreiras:\n\na) Coordenador;\n\nb) Consultor;\n\nc) Associado;\n\nd) Técnico superior;\n\ne) Assistentes técnicos.\n\n2 - O número máximo de coordenadores, consultores e associados é fixado por portaria dos membros do Governo responsáveis pelo CEJURE e pelas áreas das finanças e da Administração Pública.\n\n3 - Os coordenadores, consultores e associados a que aludem as alíneas a) a c) do n.º 1 exercem as respetivas funções em regime de comissão de serviço, que tem a duração de dois anos, renovável por iguais períodos, e o respetivo exercício de funções no CEJURE:\n\na) Determina a sujeição ao regime de incompatibilidades, impedimentos e inibições previstos nas disposições reguladoras de conflitos de interesses resultantes do exercício de funções públicas e no Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual;\n\nb) Implica a sujeição ao dever de segredo profissional.\n\n4 - Os coordenadores, consultores e associados são designados e exonerados pelo membro do Governo que exerce o poder de direção sobre o CEJURE, sob proposta do respetivo diretor, com faculdade de delegação no diretor do CEJURE.\n\n5 - Os técnicos superiores exercem funções em regime de contrato de trabalho em funções públicas, recrutados de acordo com a Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual (LTFP), de entre doutores, mestres ou licenciados de reconhecido mérito, nas áreas da ciência jurídica, da economia e da Administração Pública.\n\n6 - Todos os estudos, pareceres, projetos e serviços de consultoria, bem como quaisquer outros trabalhos especializados e decorrentes da representação judiciária e mandato forense que sejam realizados pelos trabalhadores do CEJURE são considerados propriedade do Estado, sem qualquer direito a remuneração acrescida ou outro direito, incluindo direitos de propriedade intelectual.\n\n7 - O exercício de funções no CEJURE em regime de comissão de serviço releva, para todos os efeitos, na carreira de origem e não implica a perda de quaisquer direitos, desde que estes não sejam devidos especificamente pelo exercício efetivo da categoria de origem.\n\n8 - O exercício de funções no CEJURE pode ocorrer em regime de mobilidade, observado o regime legal aplicável."
+  },
+  "890366208": {
+   "fragment_id": "890366104",
+   "type": 11,
+   "heading": "Artigo 9.º — Exclusividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exclusividade\n\n1 - Sem prejuízo do disposto na lei em matéria de garantias de imparcialidade, todos os trabalhadores do CEJURE estão impedidos de, direta ou indiretamente, prestar assessoria a entidades que litiguem contra o Estado ou exercer quaisquer atividades que colidam com a missão e atribuições do CEJURE, nos termos a densificar por portaria do membro do Governo que exerce o poder de direção sobre o CEJURE.\n\n2 - Os coordenadores exercem as suas funções em regime de exclusividade, os consultores estão dispensados desse regime e os associados do CEJURE podem ou não exercer as suas funções em regime de exclusividade.\n\n3 - Aos trabalhadores do CEJURE que exerçam funções em regime de exclusividade aplica-se, com as necessárias adaptações, o previsto no artigo 7.º do Decreto-Lei n.º 11/2012, de 20 de janeiro.\n\n4 - O tempo de serviço prestado no CEJURE, em regime de exclusividade, suspende a contagem dos prazos para a apresentação de relatórios ou a prestação de provas para a carreira docente do ensino superior ou para a carreira de investigação científica, bem como os prazos relativos a comissões de serviço ou a cargos públicos de exercício temporário, por virtude da lei, ato ou contrato."
+  },
+  "890366209": {
+   "fragment_id": "890366105",
+   "type": 11,
+   "heading": "Artigo 10.º — Coordenadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coordenadores\n\n1 - Os coordenadores são personalidades de reconhecida idoneidade, competência técnica e aptidão na área jurídica, titulares de grau académico de doutor em direito ou ex-magistrados de tribunais superiores ou com vasta e comprovada experiência profissional exclusiva ou sucessivamente na docência universitária, advocacia ou ao serviço da Administração Pública, bem como experiência comprovada em gestão de equipas.\n\n2 - Aos coordenadores é atribuída a direção de um ou vários núcleos temáticos de acordo com a respetiva formação e experiência profissional.\n\n3 - Compete ainda ao coordenador prestar serviços jurídicos de especial relevo, em função da sua complexidade ou do destinatário.\n\n4 - A remuneração dos coordenadores corresponde ao nível remuneratório 79 da tabela remuneratória única dos trabalhadores que exercem funções públicas.\n\n5 - Os coordenadores estão isentos de horário de trabalho, não lhes correspondendo, por isso, qualquer remuneração por trabalho suplementar, nos termos do n.º 2 do artigo 164.º da LTFP."
+  },
+  "890366210": {
+   "fragment_id": "890366106",
+   "type": 11,
+   "heading": "Artigo 11.º — Consultor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Consultor\n\n1 - Os consultores são personalidades de reconhecida idoneidade, competência técnica e aptidão na área jurídica, titulares de grau académico de doutor em direito ou ex-magistrados de tribunais superiores ou com vasta e comprovada experiência profissional exclusiva ou sucessivamente na docência universitária, advocacia ou ao serviço da Administração Pública.\n\n2 - Compete aos consultores prestar serviços jurídicos de especial relevo, em função da sua complexidade ou do destinatário.\n\n3 - A remuneração dos consultores corresponde ao nível remuneratório 79 da tabela remuneratória única dos trabalhadores que exercem funções públicas.\n\n6 - Os consultores estão isentos de horário de trabalho, não lhes correspondendo, por isso, qualquer remuneração por trabalho suplementar, nos termos do n.º 2 do artigo 164.º da LTFP."
+  },
+  "890366211": {
+   "fragment_id": "890366107",
+   "type": 11,
+   "heading": "Artigo 12.º — Associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Associados\n\n1 - Os associados são doutores, mestres ou licenciados, de reconhecida idoneidade e mérito, na área da ciência jurídica, e integram os núcleos temáticos de acordo com a respetiva formação e experiência profissional.\n\n2 - Os associados estão isentos de horário de trabalho, não lhes correspondendo, por isso, qualquer remuneração por trabalho suplementar, nos termos do n.º 2 do artigo 164.º da LTFP.\n\n3 - Os associados do CEJURE podem ser de nível 1, ao qual correspondem os níveis remuneratórios 68 e 47 da tabela remuneratória única dos trabalhadores que exercem funções públicas, consoante estejam ou não, respetivamente, em regime de exclusividade, de acordo com o despacho de nomeação.\n\n4 - Os associados do CEJURE podem ser de nível 2, ao qual correspondem os níveis remuneratórios 47 e 39 da tabela remuneratória única dos trabalhadores que exercem funções públicas, consoante estejam ou não, respetivamente, em regime de exclusividade, de acordo com o despacho de nomeação.\n\n5 - Para a determinação do nível aplicável, nos termos do número anterior, releva a formação específica e experiência profissional, ao serviço da Administração Pública, docência universitária, advocacia ou outras profissões jurídicas, juntamente com outros fatores objetivamente significativos no respetivo currículo."
+  },
+  "890366212": {
+   "fragment_id": "890366108",
+   "type": 11,
+   "heading": "Artigo 13.º — Prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prémios\n\nPodem ser atribuídos prémios individuais aos dirigentes e trabalhadores do CEJURE em função do respetivo desempenho profissional, nos termos da Lei n.º 66-B/2007, de 28 de dezembro, na sua redação atual."
+  },
+  "890366213": {
+   "fragment_id": "890366109",
+   "type": 11,
+   "heading": "Artigo 14.º — Estágios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estágios\n\n1 - Podem ser realizados estágios profissionais remunerados no CEJURE, com a duração de 12 meses, nos termos do regime de estágios profissionais na Administração Pública, aprovado pelo Decreto-Lei n.º 326/99, de 18 de agosto, na sua redação atual.\n\n2 - A remuneração dos estagiários corresponde ao nível remuneratório 16 da tabela remuneratória única dos trabalhadores que exercem funções públicas."
+  },
+  "890366214": {
+   "fragment_id": "890366110",
+   "type": 1,
+   "heading": "Capítulo III — RELAÇÃO COM OUTRAS ENTIDADES E ORGANISMOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — RELAÇÃO COM OUTRAS ENTIDADES E ORGANISMOS"
+  },
+  "890366215": {
+   "fragment_id": "890366111",
+   "type": 11,
+   "heading": "Artigo 15.º — Contratação externa de serviços jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contratação externa de serviços jurídicos\n\n1 - O CEJURE pode, a título excecional, proceder à contratação externa de serviços jurídicos quando tal seja necessário para assegurar o cumprimento das suas atribuições, devendo para isso promover a constituição de uma equipa com um trabalhador do CEJURE designado para o efeito.\n\n2 - Os serviços e organismos integrados na administração direta e indireta do Estado não podem proceder à contratação externa de serviços jurídicos, exceto quando não exista no serviço ou organismo que pretenda recorrer à contratação externa e no CEJURE recursos humanos disponíveis e com experiência, formação e grau de especialização adequados, que permitam assegurar os trabalhos em causa, nos termos definidos em portaria a aprovar pelo membro do Governo que exerce o poder de direção sobre o CEJURE atendendo, nomeadamente, ao valor do litígio e complexidade do tema.\n\n3 - Para efeitos do disposto no número anterior:\n\na) Os serviços e organismos integrados na administração direta e indireta do Estado devem dirigir um pedido ao CEJURE;\n\nb) O CEJURE deve pronunciar-se sobre a existência, no CEJURE, de recursos humanos disponíveis e com experiência, formação e grau de especialização adequados, no prazo de cinco dias a contar da receção do pedido referido na alínea anterior:\n\ni) Caso se pronuncie sobre a ausência de recursos humanos e com experiência, formação e grau de especialização, o CEJURE deve promover a constituição de uma equipa composta pelos serviços contratados externamente, pelos serviços jurídicos da entidade ou organismo em causa e por um trabalhador do CEJURE designado para o efeito;\n\nii) Na ausência de pronúncia no prazo referido na alínea anterior, os serviços e organismos integrados na administração direta e indireta do Estado podem proceder à contratação externa de serviços jurídicos.\n\n4 - São nulos os contratos ou acordos de prestação de serviços jurídicos celebrados em regime de contratação externa em incumprimento do disposto nos n.<sup>os </sup>2 e 3.\n\n5 - Os contratos ou acordos nulos, nos termos do número anterior, fazem incorrer o titular ou titulares do órgão ou dirigente do serviço ou organismo competente para a decisão de contratar em responsabilidade, nos termos gerais."
+  },
+  "890366216": {
+   "fragment_id": "890366112",
+   "type": 11,
+   "heading": "Artigo 16.º — Natureza e composição da Rede de Serviços Jurídicos da Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Natureza e composição da Rede de Serviços Jurídicos da Administração Pública\n\n1 - A Rede de Serviços Jurídicos da Administração Pública (REJURIS) é um modelo de funcionamento em rede com vista à cooperação e partilha interministerial de conhecimentos e de recursos jurídicos, por forma a otimizar o seu uso pelos serviços e organismos integrados na administração direta e indireta do Estado.\n\n2 - A REJURIS integra:\n\na) O diretor do CEJURE, que preside e coordena;\n\nb) Por indicação do membro do Governo respetivo, o diretor dos serviços jurídicos de um serviço da administração direta ou indireta do Estado por cada área governativa, que servirá de ponto de contacto com todos os diretores dos serviços jurídicos dos serviços da administração direta ou indireta do Estado da respetiva área governativa.\n\n3 - A REJURIS tem como objetivos:\n\na) Promover a partilha de conhecimentos na área jurídica e a harmonização de entendimentos, procedimentos e boas práticas entre os serviços e organismos integrados na administração direta e indireta do Estado;\n\nb) Identificar os recursos humanos com competências jurídicas, e respetivas áreas de especialização, integrados na administração direta e indireta do Estado.\n\n4 - Compete à REJURIS:\n\na) Aprovar o seu regimento;\n\nb) Discutir projetos de orientações, diretrizes, recomendações, manuais de procedimentos, guias de boas práticas, relatórios de monitorização e de avaliação relativos à harmonização de boas práticas;\n\nc) Assegurar a partilha dos documentos elaborados pelo CEJURE com os elementos que integram os serviços jurídicos da administração direta e indireta do Estado e garantir o respetivo cumprimento;\n\nd) Colaborar com o CEJURE em tudo o que seja solicitado e disponibilizar toda a informação necessária ao cumprimento da sua missão.\n\n5 - Para efeitos dos números anteriores, a REJURIS prossegue os seus objetivos em articulação com o Fórum da Administração Pública, previsto no anexo i ao Decreto-Lei n.º 43-B/2024, de 2 de julho.\n\n6 - Para efeitos do disposto na alínea b) do n.º 3, os membros da REJURIS devem, de acordo com o procedimento e calendário fixado pelo diretor do CEJURE, identificar os recursos humanos com competências jurídicas e respetivas áreas de especialização integrados nos respetivos serviços."
+  },
+  "890366217": {
+   "fragment_id": "890366113",
+   "type": 11,
+   "heading": "Artigo 17.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funcionamento\n\n1 - A REJURIS funciona na dependência do diretor do CEJURE, coadjuvado, sempre que necessário, pelos diretores dos serviços jurídicos dos organismos que a integram.\n\n2 - As normas internas de funcionamento da REJURIS são definidas no respetivo regimento.\n\n3 - O apoio logístico e administrativo à REJURIS é assegurado pelo CEJURE.\n\n4 - Pela integração ou participação em reuniões ou atividades na REJURIS não são devidos quaisquer suplementos remuneratórios ou pagamentos de senhas de presença, sem prejuízo do direito ao pagamento de despesas com as deslocações, a cargo dos serviços de origem, desde que decorrentes das funções exercidas, nos termos previstos para a generalidade dos trabalhadores em funções públicas."
+  },
+  "890366218": {
+   "fragment_id": "890366114",
+   "type": 11,
+   "heading": "Artigo 18.º — Harmonização de entendimentos e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Harmonização de entendimentos e procedimentos\n\n1 - No âmbito da REJURIS, estando em causa questões jurídicas transversais à Administração Pública, compete ao CEJURE emitir circulares de harmonização de entendimentos e procedimentos a adotar na administração direta e indireta do Estado.\n\n2 - Quando incidam sobre questões de emprego público e recursos humanos, as circulares referidas no número anterior são elaboradas conjuntamente com a Direção-Geral da Administração e do Emprego Público.\n\n3 - As circulares referidas no n.º 1, quando aprovadas pelo membro do Governo que exerce o poder de direção sobre o CEJURE, são orientadoras para todos os serviços da administração direta e indireta do Estado."
+  },
+  "890366219": {
+   "fragment_id": "890366115",
+   "type": 1,
+   "heading": "Capítulo IV — RECURSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — RECURSOS"
+  },
+  "890366220": {
+   "fragment_id": "890366116",
+   "type": 11,
+   "heading": "Artigo 19.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Receitas\n\n1 - O CEJURE dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O CEJURE dispõe ainda das seguintes receitas próprias:\n\na) Produto da venda de publicações e de trabalhos editados pelo CEJURE;\n\nb) As que resultem da organização e participação em ações de formação;\n\nc) A totalidade das custas de parte cobradas, nos termos legalmente previstos;\n\nd) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - O CEJURE pode convencionar a edição de publicações e de trabalhos, nomeadamente com a INCM, podendo proceder à sua venda, assegurando os direitos editoriais correspondentes."
+  },
+  "890366221": {
+   "fragment_id": "890366117",
+   "type": 11,
+   "heading": "Artigo 20.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Despesas\n\nConstituem despesas do CEJURE as que resultem de encargos decorrentes da prossecução da missão e das atribuições que lhe estão cometidas."
+  },
+  "890366222": {
+   "fragment_id": "890366118",
+   "type": 11,
+   "heading": "Artigo 21.º — Apoio administrativo e tecnológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Apoio administrativo e tecnológico\n\n1 - O apoio administrativo e tecnológico ao CEJURE é assegurado pela Entidade de Serviços Partilhados da Administração Pública, I. P.\n\n2 - O CEJURE organiza e mantém atualizada uma base de dados destinada a permitir a interação com os destinatários dos serviços, nomeadamente:\n\na) Prestação de informações no âmbito das suas competências;\n\nb) Submissão de pedidos de serviços jurídicos;\n\nc) Submissão de comunicações prévias à contratação externa de serviços jurídicos.\n\n3 - O CEJURE dispõe de um sítio na Internet, disponibilizando, nomeadamente, informações sobre as suas funções, formações disponibilizadas, a lista de coordenadores, consultores e associados e artigos e estudos promovidos ou realizados no âmbito do CEJURE."
+  },
+  "890366223": {
+   "fragment_id": "890366119",
+   "type": 1,
+   "heading": "Capítulo V — DISPOSIÇÕES COMPLEMENTARES, TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — DISPOSIÇÕES COMPLEMENTARES, TRANSITÓRIAS E FINAIS"
+  },
+  "890366224": {
+   "fragment_id": "890366120",
+   "type": 11,
+   "heading": "Artigo 22.º — Alteração ao Decreto-Lei n.º 148/2000, de 19 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração ao Decreto-Lei n.º 148/2000, de 19 de julho\n\nO artigo 2.º ao Decreto-Lei n.º 148/2000, de 19 de julho, na sua redação atual, passa a ter a seguinte redação:\n\n\"Artigo 2.º\n\n[...]\n\n1 - O patrocínio judiciário dos membros do Governo, quando necessário em virtude do exercício das suas funções, pode ser assegurado pelos trabalhadores do CEJURE ou por advogados contratados pelo CEJURE, especificamente para a prática daquele patrocínio.\n\n2 - O patrocínio judiciário dos diretores-gerais, secretários-gerais, inspetores-gerais e equiparados para todos os efeitos legais, bem como responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projeto a que se refere o artigo 28.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, quando necessário em virtude do exercício das suas funções, pode também ser assegurado pelos trabalhadores do CEJURE ou por advogados contratados pelo Centro, especificamente para o efeito.\n\n3 - [...]\n\n4 - [...]\n\n5 - O patrocínio judiciário previsto nos n.<sup>os </sup>1 e 2, e o suporte dos encargos previsto no n.º 3, depende de requerimento do interessado, dirigido ao diretor do CEJURE.\n\n6 - O disposto no presente artigo não obsta a que o patrocínio judiciário seja diretamente contratado, pelo interessado, junto de advogado à sua escolha, caso em que os encargos não são suportados pelo Estado.\""
+  },
+  "890366225": {
+   "fragment_id": "890366121",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposições transitórias\n\n1 - As comissões de serviço dos atuais consultores do JurisAPP mantêm-se pela duração remanescente e com as condições vigentes no momento da respetiva nomeação.\n\n2 - As comissões de serviço dos titulares dos cargos dirigentes do CEJURE cessam automaticamente com a entrada em vigor do presente decreto-lei, sem prejuízo do exercício de funções até à data da nomeação dos futuros diretor e subdiretores do CEJURE, não se aplicando o regime previsto no artigo 10.º do Decreto-Lei n.º 43-B/2024, de 2 de julho.\n\n3 - Integram o mapa de pessoal do CEJURE os trabalhadores que transitarem de serviços objeto de restruturação ou extinção, nos termos no Decreto-Lei n.º 43-B/2024, de 2 de julho, cujas atribuições e competências se transfiram para o CEJURE, nos termos dos diplomas que procederem a essa reestruturação ou extinção.\n\n4 - As atribuições referidas na subalínea ii) da alínea a) do n.º 2 do artigo 3.º, e na subalínea iv) da alínea f) do n.º 2 do artigo 3.º, são exercidas de acordo com o faseamento e calendários definidos no Decreto-Lei n.º 43-B/2024, de 2 de julho, relativamente às secretarias-gerais dos ministérios existentes.\n\n5 - Com a entrada em vigor do presente decreto-lei, as referências feitas ao \"JurisAPP\" constantes de lei, resolução do Conselho de Ministros, regulamento, contrato ou outro tipo de acordo consideram-se feitas ao CEJURE."
+  },
+  "890366226": {
+   "fragment_id": "890366122",
+   "type": 11,
+   "heading": "Artigo 24.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regulamentação\n\nAs portarias referidas na subalínea iii) da alínea a) do n.º 2 e na subalínea v) da alínea f) do n.º 2 do artigo 3.º, no n.º 2 do artigo 5.º, no n.º 2 do artigo 8.º, no n.º 1 do artigo 9.º e no n.º 2 do artigo 15.º devem ser publicadas no prazo de 60 dias a partir da entrada em vigor do presente decreto-lei."
+  },
+  "890366227": {
+   "fragment_id": "890366123",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 149/2017, de 6 de dezembro, na sua redação atual;\n\nb) O artigo 38.º do Decreto-Lei n.º 36/2023, de 26 de maio, na sua redação atual, a partir de 1 de janeiro de 2025;\n\nc) A Portaria n.º 39/2018, de 31 de janeiro, na sua redação atual."
+  },
+  "890366228": {
+   "fragment_id": "890366124",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "890366230": {
+   "fragment_id": "890366126",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 7.º)\n\nMapa de cargos de direção do Centro de Competências Jurídicas do Estado\n\n| Designação dos cargos dirigentes | Qualificação dos cargos dirigentes | Grau | Número de lugares |\n| --- | --- | --- | --- |\n| Diretor | Direção superior | 1.º grau | 1 |\n| Subdiretor | Direção superior | 2.º grau | 2 |\n\nEstatuto remuneratório do pessoal dirigente\n\n| Cargo | Remuneração base mensal<br>(RBM) | Despesas de representação<br>(percentagem da RBM do respetivo cargo) |\n| --- | --- | --- |\n| Diretor | 100 % do nível remuneratório 80 da TRU | 25 % |\n| Subdiretor | 85 % da RBM/diretor | 20 % |\n\n118197934"
+  },
+  "898158028": {
+   "fragment_id": "890366097",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2024-11-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 96/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O CEJURE tem por missão prestar apoio jurídico, consultoria, assessoria e aconselhamento jurídicos ao Conselho de Ministros, aos membros do Governo, e aos serviços e entidades da administração pública central, bem como proceder à sua representação em juízo, perante qualquer tribunal nas jurisdições nacional, incluindo nas jurisdições constitucional, de contas e arbitral, sem prejuízo das competências do Ministério Público.\n\n2 - O CEJURE prossegue as seguintes atribuições:\n\na) Prestar consultoria, assessoria e aconselhamento jurídico:\n\ni) Aos membros do Governo;\n\nii) Aos órgãos e serviços integrados na administração direta do Estado;\n\niii) Aos órgãos e serviços da administração pública identificados por portaria dos membros do Governo de que depende o CEJURE e esses serviços ou entidades;\n\nb) Intervir em questões ou procedimentos jurídicos de especial complexidade envolvendo o Estado, nomeadamente em matéria de contratação pública, em articulação com a Unidade Técnica de Acompanhamento de Projetos e no âmbito das suas atribuições;\n\nc) Desempenhar funções de consulta e de apoio técnico ao Governo na elaboração dos atos legislativos e outros atos normativos, contribuindo para a qualidade e simplificação de todos os atos submetidos à apreciação do Conselho de Ministros;\n\nd) Elaborar estudos legislativos e outros de carácter jurídico, incluindo em matéria de legística;\n\ne) Assegurar o patrocínio judiciário dos membros do Governo, diretores-gerais, secretários-gerais, inspetores-gerais e equiparados para todos os efeitos legais, bem como dos responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projeto a que se refere o artigo 28.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, quando necessário em virtude do exercício das suas funções, nos termos do Decreto-Lei n.º 148/2000, de 19 de julho, na sua redação atual;\n\nf) Assegurar a representação em juízo, perante quaisquer tribunais, através do trabalhador para o efeito designado pelo diretor do CEJURE:\n\ni) Do Conselho de Ministros;\n\nii) Do Primeiro-Ministro;\n\niii) Dos membros do Governo;\n\niv) Dos órgãos e serviços integrados na administração direta do Estado;\n\nv) Dos órgãos e serviços da administração pública identificados por portaria dos membros do Governo de que depende o CEJURE e esses serviços ou entidades;\n\ng) Preparar requerimentos de apreciação preventiva da constitucionalidade ou de declaração de inconstitucionalidade ou ilegalidade, com força obrigatória geral, ao abrigo do disposto no n.º 4 do artigo 278.º ou na alínea c) do n.º 2 do artigo 281.º da Constituição;\n\nh) Preparar projetos de resposta nos processos de fiscalização da constitucionalidade e da legalidade de normas constantes de diplomas assinados por qualquer membro do Governo;\n\ni) Promover a harmonização de entendimentos e procedimentos jurídicos, com vista a garantir uma aplicação uniforme da lei, tanto ao nível dos gabinetes de membros do Governo, como ao nível dos serviços e entidades da Administração Pública, sem prejuízo das atribuições da Direção-Geral da Administração e do Emprego Público;\n\nj) Promover a realização e participar em ações de formação, encontros temáticos e seminários para os juristas da administração pública, em articulação com o Instituto Nacional de Administração, I. P., e/ou instituições de ensino superior;\n\nk) Assegurar a interligação com outros serviços e entidades da administração pública, no âmbito das suas atribuições;\n\nl) Assegurar, em articulação com a área governativa dos negócios estrangeiros, a interligação com as organizações internacionais relevantes no âmbito das suas atribuições;\n\nm) Promover o funcionamento da estrutura de cooperação e de partilha interministerial de conhecimentos e de recursos jurídicos, denominada Rede de Serviços Jurídicos da Administração Pública (REJURIS), com vista a dinamizar o recurso a esta Rede pelos órgãos e serviços integrados na administração direta do Estado, no âmbito do Fórum da Administração Pública;\n\nn) Colaborar com a INCM - Imprensa Nacional-Casa da Moeda, S. A. (INCM), na definição de boas práticas na divulgação e consolidação da informação legislativa, incluindo com recurso a ferramentas informáticas inovadoras, com vista à simplificação do acesso dos cidadãos aos normativos em vigor;\n\no) Acompanhar, no plano instrutório e informativo, os processos de reconhecimento de fundações e concessão e cancelamento do estatuto de utilidade pública, bem como outros processos na área das fundações e do estatuto de utilidade pública que estejam previstos na lei, exercendo ainda funções de controlo sobre o cumprimento regular das respetivas obrigações legais;\n\np) Realizar inquéritos, sindicâncias, inspeções e auditorias às fundações, no sentido de verificar a existência de causas de extinção, nos termos do disposto no n.º 2 do artigo 35.º da Lei n.º 24/2012, de 9 de julho, na sua redação atual;\n\nq) Exercer as demais atribuições que lhe sejam cometidas por lei ou por regulamento.\n\n3 - Para efeitos do exercício das atribuições previstas na alínea f) do número anterior, com exceção das forças armadas, dos serviços periféricos externos e de matéria tributária e contributiva, nas alíneas e) e h) do mesmo número, as citações ou notificações recebidas pelos membros do Governo ou serviços e entidades a representar devem ser remetidas, de imediato, ao CEJURE.\n\n4 - Para efeitos do exercício das atribuições previstas nas subalíneas ii) e iii) da alínea a) e nas subalíneas iv) e v) da alínea f) do n.º 2, a intervenção do CEJURE não substitui a regular apreciação de questões jurídicas por esses órgãos e serviços no âmbito da sua atividade em matérias específicas e setoriais dos respetivos ministérios, restringindo-se a questões de especial complexidade, do ponto de vista jurídico, político ou social, nomeadamente no âmbito do direito constitucional, administrativo ou financeiro, ou em que estejam em causa direitos fundamentais, conflitos normativos ou questões de responsabilidade do Estado.\n\n5 - A avaliação do grau de complexidade e posterior remessa dos processos judiciais e de consulta jurídica entre o CEJURE e os serviços jurídicos setoriais cabe à direção do CEJURE.\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 96/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01"
+  },
+  "890366229": {
+   "fragment_id": "890366125",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de setembro de 2024. - Joaquim Miranda Sarmento - Joaquim Miranda Sarmento - António Leitão Amaro.\n\nPromulgado em 4 de outubro de 2024.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 7 de outubro de 2024.\n\nO Primeiro-Ministro, Luís Montenegro."
+  },
+  "913037382": {
+   "fragment_id": "890366103",
+   "type": 11,
+   "heading": "Artigo 8.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 54/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662)"
+   ],
+   "markdown": "###### Artigo 8.º — Pessoal\n\n1 - O mapa de pessoal do CEJURE define o número de efetivos que exercem funções no CEJURE, de acordo com os seguintes cargos e carreiras:\n\na) Coordenador;\n\nb) Consultor;\n\nc) Associado;\n\nd) Técnico superior;\n\ne) Assistentes técnicos.\n\n2 - O número máximo de coordenadores, consultores e associados é fixado por portaria dos membros do Governo responsáveis pelo CEJURE e pelas áreas das finanças e da Administração Pública.\n\n3 - Os coordenadores, consultores e associados a que aludem as alíneas a) a c) do n.º 1 exercem as respetivas funções em regime de comissão de serviço, que tem a duração de dois anos, renovável por iguais períodos, e o respetivo exercício de funções no CEJURE:\n\na) Determina a sujeição ao regime de incompatibilidades, impedimentos e inibições previstos nas disposições reguladoras de conflitos de interesses resultantes do exercício de funções públicas e no Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual;\n\nb) Implica a sujeição ao dever de segredo profissional.\n\n4 - Os coordenadores, consultores e associados são designados e exonerados pelo membro do Governo que exerce o poder de direção sobre o CEJURE, sob proposta do respetivo diretor, com faculdade de delegação no diretor do CEJURE.\n\n5 - Os técnicos superiores exercem funções em regime de contrato de trabalho em funções públicas, recrutados de acordo com a Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual (LTFP), de entre doutores, mestres ou licenciados de reconhecido mérito, na área da ciência jurídica ou, excecionalmente, noutras áreas científicas adequadas à condução de atividades ou projetos no âmbito das atribuições do CEJURE, designadamente nas áreas da administração pública, das ciências sociais, da comunicação, da economia, da gestão, das finanças, da informática ou das tecnologias de informação.\n\n6 - Todos os estudos, pareceres, projetos e serviços de consultoria, bem como quaisquer outros trabalhos especializados e decorrentes da representação judiciária e mandato forense que sejam realizados pelos trabalhadores do CEJURE são considerados propriedade do Estado, sem qualquer direito a remuneração acrescida ou outro direito, incluindo direitos de propriedade intelectual.\n\n7 - O exercício de funções no CEJURE em regime de comissão de serviço releva, para todos os efeitos, na carreira de origem e não implica a perda de quaisquer direitos, desde que estes não sejam devidos especificamente pelo exercício efetivo da categoria de origem.\n\n8 - O exercício de funções no CEJURE pode ocorrer em regime de mobilidade, observado o regime legal aplicável.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 54/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662)"
+  },
+  "913037383": {
+   "fragment_id": "890366107",
+   "type": 11,
+   "heading": "Artigo 12.º — Associados",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 54/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662), em vigor a partir de 2025-03-29"
+   ],
+   "markdown": "###### Artigo 12.º — Associados\n\n1 - Os associados são doutores, mestres ou licenciados, de reconhecida idoneidade e mérito, na área da ciência jurídica, e integram os núcleos temáticos de acordo com a respetiva formação e experiência profissional.\n\n2 - Os associados estão isentos de horário de trabalho, não lhes correspondendo, por isso, qualquer remuneração por trabalho suplementar, nos termos do n.º 2 do artigo 164.º da LTFP.\n\n3 - Os associados do CEJURE podem ser de nível 1, ao qual correspondem os níveis remuneratórios 68 e 47 da tabela remuneratória única dos trabalhadores que exercem funções públicas, consoante estejam ou não, respetivamente, em regime de exclusividade, de acordo com o despacho de nomeação.\n\n4 - Os associados do CEJURE podem ser de nível 2, ao qual correspondem os níveis remuneratórios 47 e 39 da tabela remuneratória única dos trabalhadores que exercem funções públicas, consoante estejam ou não, respetivamente, em regime de exclusividade, de acordo com o despacho de nomeação.\n\n5 - Para a determinação do nível aplicável, nos termos do número anterior, releva a formação específica e experiência profissional, ao serviço da Administração Pública, docência universitária, advocacia ou outras profissões jurídicas, juntamente com outros fatores objetivamente significativos no respetivo currículo.\n\n6 - Excecionalmente, poderão ser nomeados associados doutores, mestres ou licenciados, de reconhecida idoneidade e mérito, noutras áreas científicas adequadas à condução de atividades ou projetos no âmbito das atribuições do CEJURE, designadamente nas áreas da administração pública, das ciências sociais, da comunicação, da economia, da gestão, das finanças, da informática ou das tecnologias de informação, sendo-lhes correspondentemente aplicáveis o disposto nos números anteriores, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 54/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662), em vigor a partir de 2025-03-29"
+  },
+  "1152924375": {
+   "fragment_id": "890366097",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2026-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29.",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 96/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O CEJURE tem por missão prestar apoio jurídico, consultoria, assessoria e aconselhamento jurídicos ao Conselho de Ministros, aos membros do Governo, e aos serviços e entidades da Administração Pública central, bem como proceder à sua representação em juízo, perante qualquer tribunal, incluindo nas jurisdições constitucional, de contas e arbitral, sem prejuízo das atribuições da Direção-Geral de Direito Europeu e Internacional e do Ministério Público.\n\n2 - O CEJURE prossegue as seguintes atribuições:\n\na) Prestar consultoria, assessoria e aconselhamento jurídico:\n\ni) Aos membros do Governo;\n\nii) Aos órgãos e serviços integrados na administração direta do Estado;\n\niii) Aos órgãos e serviços da administração pública identificados por portaria dos membros do Governo de que depende o CEJURE e esses serviços ou entidades;\n\nb) Intervir em questões ou procedimentos jurídicos de especial complexidade envolvendo o Estado, nomeadamente em matéria de contratação pública, em articulação com a Unidade Técnica de Acompanhamento de Projetos e no âmbito das suas atribuições;\n\nc) Desempenhar funções de consulta e de apoio técnico ao Governo na elaboração dos atos legislativos e outros atos normativos, contribuindo para a qualidade e simplificação de todos os atos submetidos à apreciação do Conselho de Ministros;\n\nd) Elaborar estudos legislativos e outros de carácter jurídico, incluindo em matéria de legística;\n\ne) Assegurar o patrocínio judiciário dos membros do Governo, diretores-gerais, secretários-gerais, inspetores-gerais e equiparados para todos os efeitos legais, bem como dos responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projeto a que se refere o artigo 28.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, quando necessário em virtude do exercício das suas funções, nos termos do Decreto-Lei n.º 148/2000, de 19 de julho, na sua redação atual;\n\nf) Assegurar a representação em juízo, perante quaisquer tribunais, através do trabalhador para o efeito designado pelo diretor do CEJURE:\n\ni) Do Conselho de Ministros;\n\nii) Do Primeiro-Ministro;\n\niii) Dos membros do Governo;\n\niv) Dos órgãos e serviços integrados na administração direta do Estado;\n\nv) Dos órgãos e serviços da administração pública identificados por portaria dos membros do Governo de que depende o CEJURE e esses serviços ou entidades;\n\ng) Preparar requerimentos de apreciação preventiva da constitucionalidade ou de declaração de inconstitucionalidade ou ilegalidade, com força obrigatória geral, ao abrigo do disposto no n.º 4 do artigo 278.º ou na alínea c) do n.º 2 do artigo 281.º da Constituição;\n\nh) Preparar projetos de resposta nos processos de fiscalização da constitucionalidade e da legalidade de normas constantes de diplomas assinados por qualquer membro do Governo;\n\ni) Promover a harmonização de entendimentos e procedimentos jurídicos, com vista a garantir uma aplicação uniforme da lei, tanto ao nível dos gabinetes de membros do Governo, como ao nível dos serviços e entidades da Administração Pública, sem prejuízo da coordenação com a Direção-Geral da Administração e do Emprego Público, em matéria de emprego público;\n\nj) Promover a realização e participar em ações de formação, encontros temáticos e seminários para os juristas da administração pública, em articulação com o Instituto Nacional de Administração, I. P., e/ou instituições de ensino superior;\n\nk) Promover a investigação e a organização de atividades que tenham por finalidade o desenvolvimento e a difusão do conhecimento na área da ciência jurídica, designadamente através da cooperação com instituições de ensino superior e de investigação que desenvolvam a sua atividade nessa área;\n\nl) Assegurar a interligação com outros serviços e entidades da administração pública, no âmbito das suas atribuições;\n\nm) Assegurar, em articulação com a área governativa dos negócios estrangeiros, a interligação com as organizações internacionais relevantes no âmbito das suas atribuições;\n\nn) Promover o funcionamento da estrutura de cooperação e de partilha interministerial de conhecimentos e de recursos jurídicos, denominada Rede de Serviços Jurídicos da Administração Pública (REJURIS), com vista a dinamizar o recurso a esta Rede pelos órgãos e serviços integrados na administração direta do Estado, no âmbito do Fórum da Administração Pública;\n\no) Colaborar com a INCM - Imprensa Nacional-Casa da Moeda, S. A. (INCM), na definição de boas práticas na divulgação e consolidação da informação legislativa, incluindo com recurso a ferramentas informáticas inovadoras, com vista à simplificação do acesso dos cidadãos aos normativos em vigor;\n\np) Acompanhar, no plano instrutório e informativo, os processos de reconhecimento de fundações e concessão e cancelamento do estatuto de utilidade pública, bem como outros processos na área das fundações e do estatuto de utilidade pública que estejam previstos na lei, exercendo ainda funções de controlo sobre o cumprimento regular das respetivas obrigações legais;\n\nq) Realizar inquéritos, sindicâncias, inspeções e auditorias às fundações, no sentido de verificar a existência de causas de extinção, nos termos do disposto no n.º 2 do artigo 35.º da Lei n.º 24/2012, de 9 de julho, na sua redação atual;\n\nr) Fiscalizar a utilização da forma cooperativa, com respeito pelos princípios e normas relativos à sua constituição e funcionamento;\n\ns) Emitir, anualmente, credencial comprovativa da legal constituição e regular funcionamento das cooperativas;\n\nt) Requerer, através do Ministério Público, junto do tribunal competente, a dissolução das cooperativas que não respeitem, na sua constituição ou no seu funcionamento, os princípios cooperativos, que utilizem sistematicamente meios ilícitos para a prossecução do seu objeto e que recorram à forma de cooperativa para alcançar indevidamente benefícios fiscais ou outros atribuídos por entidades públicas;\n\nu) Requerer, junto do serviço do registo competente, o procedimento administrativo de dissolução das cooperativas cuja atividade não coincida com o objeto expresso nos estatutos;\n\nv) Recolher os elementos referentes às cooperativas ou organizações do setor cooperativo que permitam manter atualizados todos os elementos que se lhes referem, designadamente, os relativos à sua constituição, à alteração de estatutos, às atividades desenvolvidas, aos relatórios anuais de gestão e de prestação de contas;\n\nw) Assegurar, nos termos do Código Cooperativo, aprovado pela Lei n.º 119/2015, de 31 de agosto, o procedimento de contraordenação e a aplicação de coimas;\n\nx) Exercer as demais atribuições que lhe sejam cometidas por lei ou por regulamento.\n\n3 - Para efeitos do exercício das atribuições previstas na alínea f) do número anterior, com exceção das forças armadas, dos serviços periféricos externos e de matéria tributária e contributiva, nas alíneas e) e h) do mesmo número, as citações ou notificações recebidas pelos membros do Governo ou serviços e entidades a representar devem ser remetidas, de imediato, ao CEJURE.\n\n4 - Para efeitos do exercício das atribuições previstas nas subalíneas ii) e iii) da alínea a) e nas subalíneas iv) e v) da alínea f) do n.º 2, a intervenção do CEJURE não substitui a regular apreciação de questões jurídicas por esses órgãos e serviços no âmbito da sua atividade em matérias específicas e setoriais dos respetivos ministérios, restringindo-se a questões de especial complexidade, do ponto de vista jurídico, político ou social, nomeadamente no âmbito do direito constitucional, administrativo ou financeiro, ou em que estejam em causa direitos fundamentais, conflitos normativos ou questões de responsabilidade do Estado.\n\n5 - A avaliação do grau de complexidade e posterior remessa dos processos judiciais e de consulta jurídica entre o CEJURE e os serviços jurídicos setoriais cabe à direção do CEJURE.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596) A alteração às alíneas r) a w) do n.º 2 do presente artigo produz efeitos à data em que opere a exoneração da participação do Estado na CASES, nos termos no n.º 3 da Resolução do Conselho de Ministros n.º 16/2026, de 3 de fevereiro.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29.\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 96/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01"
+  },
+  "1152924575": {
+   "fragment_id": "890366100",
+   "type": 11,
+   "heading": "Artigo 5.º — Organização interna",
+   "in_force_from": "2026-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+   ],
+   "markdown": "###### Artigo 5.º — Organização interna\n\n1 - A organização interna do CEJURE obedece ao modelo de estrutura matricial, sem prejuízo do disposto no número seguinte.\n\n2 - Os núcleos temáticos que integram o CEJURE são fixados por portaria do membro do Governo que exerce o poder de direção sobre o CEJURE.\n\n3 - A afetação de trabalhadores do CEJURE aos núcleos temáticos é feita por despacho do diretor, sem prejuízo de poderem ser adotados pelo diretor outros critérios materiais de distribuição dos assuntos, designadamente por razões de conveniência de serviço ou da respetiva interdisciplinaridade.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+  },
+  "1152924775": {
+   "fragment_id": "890366101",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção",
+   "in_force_from": "2026-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+   ],
+   "markdown": "###### Artigo 6.º — Direção\n\n1 - O CEJURE é dirigido por um diretor, coadjuvado por três subdiretores, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n2 - Compete ao diretor:\n\na) Dirigir, organizar e orientar os serviços do CEJURE;\n\nb) Informar e prestar contas da atividade do CEJURE ao membro do Governo que exerce o poder de direção sobre o CEJURE;\n\nc) Proceder à distribuição dos processos pelos trabalhadores do CEJURE, e à análise dos trabalhos elaborados;\n\nd) Proceder, quando se justifique, à criação de equipas de projeto temporárias, identificar a missão a prosseguir e designar a respetiva composição;\n\ne) Proceder à avaliação da existência, no CEJURE, de recursos humanos disponíveis e com experiência, formação e grau de especialização adequados, nos termos do n.º 2 do artigo 4.º e do n.º 3 do artigo 15.º;\n\nf) Emitir parecer do CEJURE, nos termos do artigo 15.º;\n\ng) Avaliar o desempenho profissional dos trabalhadores que exerçam funções no CEJURE;\n\nh) Exercer o poder disciplinar relativamente aos trabalhadores do CEJURE;\n\ni) Representar o CEJURE junto de outros serviços e de entidades nacionais, internacionais e estrangeiras;\n\nj) Emitir, anualmente, credencial comprovativa da legal constituição e regular funcionamento das cooperativas;\n\nk) Requerer, através do Ministério Público, junto do tribunal competente, a dissolução das cooperativas que:\n\ni) Não respeitem, na sua constituição ou funcionamento, os princípios cooperativos; ou\n\nii) Utilizem sistematicamente meios ilícitos para a prossecução do seu objeto; ou\n\niii) Recorram à forma de cooperativa para alcançar indevidamente benefícios fiscais ou outros atribuídos por entidades públicas;\n\nl) Iniciar, junto do serviço de registo competente, o procedimento de dissolução das cooperativas cuja atividade não coincida com o objeto expresso nos estatutos;\n\nm) Exercer as demais competências que lhe sejam conferidas por lei, por regulamento ou que nele sejam delegadas ou subdelegadas.\n\n3 - Compete, ainda, ao diretor do CEJURE, no âmbito da REJURIS:\n\na) Presidir às reuniões e coordenar as atividades da REJURIS;\n\nb) Convocar as reuniões ordinárias e extraordinárias da REJURIS;\n\nc) Decidir sobre a criação de comissões especializadas no âmbito da REJURIS;\n\nd) Definir o procedimento, o calendário e o modelo para a identificação, por parte dos membros da REJURIS, dos recursos humanos com competências jurídicas e respetivas áreas de especialização integrados em cada serviço, e apresentar, anualmente, ao membro do Governo que exerce o poder de direção sobre o CEJURE, essa informação atualizada;\n\ne) Promover a harmonização de entendimentos e procedimentos na administração direta do Estado, nos termos do artigo 18.º;\n\nf) Difundir, pelos membros da REJURIS, os seguintes elementos:\n\ni) Circulares de harmonização de entendimentos e procedimentos, nos termos do artigo 18.º, bem como outras orientações, diretrizes, recomendações, manuais de procedimento, guias de boas práticas, minutas e demais documentos padronizados;\n\nii) Relatórios de monitorização e de avaliação sobre a harmonização de entendimentos, procedimentos e boas práticas;\n\niii) Notícias de ações de formação especializada e de novidades jurisprudenciais, doutrinais e bibliográficas de que tenha conhecimento ou que lhe sejam transmitidas pelos membros da REJURIS, com relevância para o exercício da função jurídica nos órgãos e serviços integrados na administração direta do Estado.\n\n4 - O diretor do CEJURE pode delegar, ou subdelegar, competências nos subdiretores.\n\n5 - O diretor é substituído, nas suas faltas e impedimentos, pelo subdiretor que indique.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596) A alteração às alíneas j) a l) do n.º 2 do presente artigo produz efeitos à data em que opere a exoneração da participação do Estado na CASES, nos termos no n.º 3 da Resolução do Conselho de Ministros n.º 16/2026, de 3 de fevereiro.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+  },
+  "1152924975": {
+   "fragment_id": "890366102",
+   "type": 11,
+   "heading": "Artigo 7.º — Designação do diretor e subdiretores do CEJURE",
+   "in_force_from": "2026-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+   ],
+   "markdown": "###### Artigo 7.º — Designação do diretor e subdiretores do CEJURE\n\n1 - A nomeação, o regime de exercício de funções e a duração e renovação do mandato do diretor e dos subdiretores regem-se pelo disposto no Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março.\n\n2 - O mapa de cargos de direção do CEJURE e o respetivo estatuto remuneratório constam do anexo ao presente decreto-lei e do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+  },
+  "1152925175": {
+   "fragment_id": "890366103",
+   "type": 11,
+   "heading": "Artigo 8.º — Pessoal",
+   "in_force_from": "2026-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29.",
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 54/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662)"
+   ],
+   "markdown": "###### Artigo 8.º — Pessoal\n\n1 - O mapa de pessoal do CEJURE define o número de efetivos que exercem funções no CEJURE, de acordo com os seguintes cargos e carreiras:\n\na) Coordenador;\n\nb) Consultor;\n\nc) Associado;\n\nd) Técnico superior;\n\ne) Assistentes técnicos.\n\n2 - O número máximo de coordenadores, consultores e associados é fixado por portaria dos membros do Governo responsáveis pelo CEJURE e pelas áreas das finanças e da Administração Pública.\n\n3 - Os coordenadores, consultores e associados a que aludem as alíneas a) a c) do n.º 1 exercem as respetivas funções em regime de comissão de serviço, que tem a duração de dois anos, renovável por iguais períodos, e o respetivo exercício de funções no CEJURE:\n\na) Determina a sujeição ao regime de incompatibilidades, impedimentos e inibições previstos nas disposições reguladoras de conflitos de interesses resultantes do exercício de funções públicas e no Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual;\n\nb) Implica a sujeição ao dever de segredo profissional quanto a todos os factos cujo conhecimento lhe advenha do exercício das suas funções, abrangendo documentos ou outras coisas que se relacionem, direta ou indiretamente, com os factos sujeitos a sigilo.\n\n4 - Os coordenadores, consultores e associados são designados e exonerados pelo membro do Governo que exerce o poder de direção sobre o CEJURE, sob proposta do respetivo diretor, com faculdade de delegação no diretor do CEJURE.\n\n5 - Os técnicos superiores exercem funções em regime de contrato de trabalho em funções públicas, recrutados de acordo com a Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual (LTFP), de entre doutores, mestres ou licenciados de reconhecido mérito, na área da ciência jurídica ou, excecionalmente, noutras áreas científicas adequadas à condução de atividades ou projetos no âmbito das atribuições do CEJURE, designadamente nas áreas da administração pública, das ciências sociais, da comunicação, da economia, da gestão, das finanças, da informática ou das tecnologias de informação, sendo-lhes aplicável o disposto na alínea b) do n.º 3.\n\n6 - Todos os estudos, pareceres, projetos e serviços de consultoria, bem como quaisquer outros trabalhos especializados e decorrentes da representação judiciária e mandato forense que sejam realizados pelos trabalhadores do CEJURE são considerados propriedade do Estado, sem qualquer direito a remuneração acrescida ou outro direito, incluindo direitos de propriedade intelectual.\n\n7 - O exercício de funções no CEJURE em regime de comissão de serviço releva, para todos os efeitos, na carreira de origem e não implica a perda de quaisquer direitos, desde que estes não sejam devidos especificamente pelo exercício efetivo da categoria de origem.\n\n8 - O exercício de funções no CEJURE pode ocorrer em regime de mobilidade, observado o regime legal aplicável.\n\n9 - Atendendo às necessidades do serviço, podem ser designados coordenadores, consultores e associados habilitados para a prática de atos próprios dos advogados, com inscrição em vigor na Ordem dos Advogados, caso em que disso se fará menção expressa no respetivo despacho de designação, devendo o designado manter essa habilitação durante todo o período da comissão de serviço.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 54/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2025-912820662)"
+  },
+  "1152925375": {
+   "fragment_id": "890366105",
+   "type": 11,
+   "heading": "Artigo 10.º — Coordenadores",
+   "in_force_from": "2026-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+   ],
+   "markdown": "###### Artigo 10.º — Coordenadores\n\n1 - Os coordenadores são personalidades de reconhecida idoneidade, competência técnica e aptidão na área jurídica, titulares de grau académico de doutor em direito ou ex-magistrados de tribunais superiores ou com vasta e comprovada experiência profissional exclusiva ou sucessivamente na docência universitária, advocacia ou ao serviço da Administração Pública, bem como experiência comprovada em gestão de equipas.\n\n2 - Aos coordenadores é atribuída a direção de um ou vários núcleos temáticos de acordo com a respetiva formação e experiência profissional, podendo o diretor ou os subdiretores neles delegar competências relativas aos respetivos núcleos temáticos.\n\n3 - Compete ainda ao coordenador prestar serviços jurídicos de especial relevo, em função da sua complexidade ou do destinatário.\n\n4 - A remuneração dos coordenadores corresponde ao nível remuneratório 79 da tabela remuneratória única dos trabalhadores que exercem funções públicas.\n\n5 - Os coordenadores estão isentos de horário de trabalho, não lhes correspondendo, por isso, qualquer remuneração por trabalho suplementar, nos termos do n.º 2 do artigo 164.º da LTFP.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+  },
+  "1152915875": {
+   "fragment_id": "1152915775",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Cooperação com outras entidades",
+   "in_force_from": "2026-07-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+   ],
+   "markdown": "###### Artigo 18.º-A — Cooperação com outras entidades\n\n1 - Na prossecução das suas atribuições, o CEJURE pode celebrar protocolos de cooperação com instituições de ensino superior ou de investigação que desenvolvam a sua atividade na área da ciência jurídica.\n\n2 - Os protocolos a que se refere o número anterior estabelecem os termos da cooperação a desenvolver entre as entidades, designadamente no domínio da investigação em áreas relevantes para a atividade do CEJURE, na organização conjunta de atividades de difusão de conhecimento ou através de iniciativas de formação com vertente prática a desenvolver no CEJURE.\n\n3 - O CEJURE pode financiar bolsas de investigação, tendentes ou não à obtenção de grau académico, que incidam sobre matérias com relevância para a atividade do serviço, nos termos a definir por portaria do membro do Governo que exerce o poder de direção sobre o CEJURE e do membro do Governo responsável pela área das finanças, nomeadamente quanto às condições e procedimento de atribuição, tipologia e respetivo montante.\n\n> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29."
+  }
+ }
+}

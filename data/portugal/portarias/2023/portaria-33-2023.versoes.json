@@ -1,0 +1,456 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:206399847:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-919867095",
+ "dre_path": "/dr/detalhe/portaria/33-2023-206399847",
+ "source_lastmod": "2025-05-29",
+ "versions": [
+  {
+   "date": "2023-01-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919708864",
+    "919708865",
+    "919708866",
+    "919708868",
+    "919708869",
+    "919708870",
+    "919708871",
+    "919708872",
+    "919708873",
+    "919708874",
+    "919903075",
+    "919903076",
+    "919903077",
+    "919903078",
+    "919903079",
+    "919903080",
+    "919903081",
+    "919903082",
+    "919903083",
+    "919903084",
+    "919903085",
+    "919903086",
+    "919903087",
+    "919903088",
+    "919903089",
+    "919903090",
+    "919903091",
+    "919903092",
+    "919903093",
+    "919903094",
+    "919903095",
+    "919903096",
+    "919903097",
+    "919903098",
+    "919903099",
+    "919903100",
+    "919903101",
+    "919903102",
+    "919903103"
+   ]
+  },
+  {
+   "date": "2025-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:919826026:por",
+     "title": "Portaria n.º 243/2025/1",
+     "published": "2025-05-29",
+     "dre_path": "/dr/detalhe/portaria/243-2025-919826026"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "919708864",
+    "919708865",
+    "919708866",
+    "919708867",
+    "919708868",
+    "919708869",
+    "919708870",
+    "919708871",
+    "919708872",
+    "919708873",
+    "919708874",
+    "919903075",
+    "919903076",
+    "919903077",
+    "919903078",
+    "919903079",
+    "919903080",
+    "919903081",
+    "919903104",
+    "919903105",
+    "919903084",
+    "919903085",
+    "919903086",
+    "919903087",
+    "919903088",
+    "919903089",
+    "919903090",
+    "919903091",
+    "919903092",
+    "919903093",
+    "919903094",
+    "919903095",
+    "919903096",
+    "919903097",
+    "919903098",
+    "919903099",
+    "919903100",
+    "919903101",
+    "919903102",
+    "919903103"
+   ]
+  }
+ ],
+ "fragments": {
+  "919708864": {
+   "fragment_id": "919867096",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 33/2023, de 23 de janeiro\n\nO Programa Administração Eletrónica e Interoperabilidade Semântica (PAEIS), que decorre de recomendações europeias consubstanciadas pela Decisão (UE) 2015/2240 do Parlamento Europeu e do Conselho, de 25 de novembro, teve como objetivo geral contribuir para o desenvolvimento da administração eletrónica através do fomento e implementação da interoperabilidade semântica na Administração Pública e nas relações estabelecidas entre entidades que exerçam funções públicas, independentemente da sua natureza.\n\nNos últimos 20 anos, o Metropolitano de Lisboa, E. P. E., tem vindo a implementar um processo que visa a simplificação, racionalização e automatização dos processos de negócio, procurando estabelecer metodologias para uma gestão eficaz da informação, nos seus diferentes tipos de suporte e formato.\n\nCom vista a cumprir o objetivo geral do mencionado PAEIS, e na decorrência da necessidade de sistematização da gestão documental e da preservação do seu património arquivístico, o Metropolitano de Lisboa entendeu fundamental elaborar o presente Regulamento, que tem por finalidade definir a classificação, os prazos de conservação e o destino final dos documentos produzidos e recebidos, dotando, assim, os serviços de critérios objetivos em matéria de avaliação, seleção, guarda e eliminação de documentos.\n\nEntende ainda o Metropolitano de Lisboa, E. P. E., que a natureza do seu acervo documental se reveste de relevante interesse público, com especial pertinência no que concerne à evolução urbanística e da infraestrutura de transportes da cidade de Lisboa, devendo por isso zelar pela salvaguarda deste património no melhor respeito pelas regras da arte e práticas validadas por quem tem o conhecimento técnico do setor. Neste contexto, a elaboração do presente Regulamento teve como referencial a Lista Consolidada para a classificação e avaliação da informação pública, desenvolvida pelo órgão de coordenação do sistema nacional de arquivos, a Direção-Geral do Livro, dos Arquivos e das Bibliotecas, cuja aplicação assegura a organicidade do sistema de informação arquivística, permitindo reduzir de forma segura o volume dos documentos, garantir direitos e deveres nos médio e longo prazos e salvaguardar a memória.\n\nAssim, nos termos do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 447/88, de 10 de dezembro, manda o Governo, pela Secretária de Estado da Cultura, ao abrigo da delegação de competências atribuída pelo Despacho n.º 705/2022, publicado no Diário da República, 2.ª série, n.º 107, de 2 de junho de 2022, e pelo Secretário de Estado da Mobilidade Urbana, ao abrigo da delegação de competências atribuída pelo Despacho n.º 9520/2022, de 29 de junho, publicado no Diário da República, 2.ª série, de 3 de agosto de 2022, o seguinte:"
+  },
+  "919708865": {
+   "fragment_id": "919867097",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\nÉ aprovado o regulamento para a classificação e avaliação da informação produzida no exercício de funções pelo Metropolitano de Lisboa, E. P. E., e a respetiva tabela de seleção, anexos à presente portaria, da qual fazem parte integrante."
+  },
+  "919708866": {
+   "fragment_id": "919867098",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nO presente Regulamento entra em vigor 90 dias a contar da data da sua publicação."
+  },
+  "919708868": {
+   "fragment_id": "919867100",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO PARA A CLASSIFICAÇÃO E AVALIAÇÃO DA INFORMAÇÃO ARQUIVÍSTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO PARA A CLASSIFICAÇÃO E AVALIAÇÃO DA INFORMAÇÃO ARQUIVÍSTICA"
+  },
+  "919708869": {
+   "fragment_id": "919867101",
+   "type": 1,
+   "heading": "Capítulo I — Do objeto, natureza, âmbito, aplicação, garantias e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Do objeto, natureza, âmbito, aplicação, garantias e definições"
+  },
+  "919708870": {
+   "fragment_id": "919867102",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e natureza do Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e natureza do Regulamento\n\n1 - O presente Regulamento é aplicável à classificação, avaliação, seleção, eliminação e conservação da informação arquivística, produzida no exercício de funções pelo Metropolitano de Lisboa, E. P. E., dando origem a documentos e agregações, materializada em qualquer suporte, adiante designada apenas por informação.\n\n2 - A aplicação do presente Regulamento pressupõe a implementação de um modelo de gestão de informação, predominantemente assente na abordagem funcional por processos de negócio."
+  },
+  "919708871": {
+   "fragment_id": "919867103",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação subjetivo\n\nAs disposições do presente Regulamento são aplicáveis ao Metropolitano de Lisboa, E. P. E."
+  },
+  "919708872": {
+   "fragment_id": "919867104",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação no tempo e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação no tempo e produção de efeitos\n\nSem prejuízo do disposto no ordenamento jurídico sobre a aplicação das leis no tempo, determina-se que o presente Regulamento:\n\na) É aplicável à informação produzida em data posterior à sua entrada em vigor;\n\nb) Não produz efeitos sobre a informação produzida e acumulada em momento anterior à sua entrada em vigor."
+  },
+  "919708873": {
+   "fragment_id": "919867105",
+   "type": 11,
+   "heading": "Artigo 4.º — Garantias do sistema de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Garantias do sistema de informação\n\n1 - A entidade prevista no artigo 2.º deve estar dotada de sistemas de informação que assegurem a autenticidade, fidedignidade, integridade, usabilidade e acessibilidade no longo prazo à informação.\n\n2 - Os SI devem apresentar características de fidedignidade, segurança, conformidade, inteligibilidade e sistematização, salvaguardadas as limitações técnicas dos mesmos.\n\n3 - Para efeito do disposto no n.º 1, a entidade prevista no artigo 2.º deve manter um plano de preservação digital aprovado pelo órgão de coordenação."
+  },
+  "919708874": {
+   "fragment_id": "919867106",
+   "type": 11,
+   "heading": "Artigo 5.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Definições\n\nPara efeitos do presente Regulamento, entende-se por:\n\na) Agregação - a unidade, simples ou composta, criada para efeitos de gestão de documentos aquando da aplicação da tabela de classificação e avaliação. As agregações simples são formadas por um conjunto sequencial de documentos, com uma relação funcional que traduz uma ocorrência de um determinado processo de negócio, podendo constituir um processo documental. As agregações compostas, que incluem as tipologias de ocorrência, agrupam as simples;\n\nb) Amostragem aleatória - o tipo de amostragem em que cada um dos casos do universo-alvo tem igual probabilidade de ser selecionado para fazer parte da amostra a preservar e que se supõe ser representativa de todas as características da população, aplicável aos processos de negócio cujo destino final atribuído é o de conservação parcial por amostragem;\n\nc) Avaliação - a atribuição de valor à informação, para efeitos de conservação ou de eliminação, fundamentada num conjunto de princípios e critérios;\n\nd) Avaliação suprainstitucional - a atribuição comum de prazos e destinos finais à informação resultante dos processos de negócio executados pela Administração Pública, derivando a sua conservação da natureza da intervenção da entidade pública;\n\ne) Classificação - o ato de associar um documento ou uma agregação a uma classe de 3.º ou de 4.º nível da estrutura de classificação fixada na tabela de seleção;\n\nf) Código - o sistema numérico não sequencial, com base numa estrutura hierárquica de blocos separados por ponto, remetendo sucessivamente para as funções, subfunções, processos de negócio e subdivisão de processos de negócio fixado na tabela de seleção;\n\ng) Completude do processo de negócio - o critério de avaliação suprainstitucional aplicado a processos transversais que implica o reconhecimento das entidades intervenientes no processo de negócio e da natureza da sua intervenção. A utilização deste critério pressupõe que o dono do processo de negócio é a entidade que detém o processo mais completo, integrando os contributos de todos os participantes. Valoriza a conservação da informação no dono do processo, em detrimento da conservação parcelar pelos participantes. Possibilita a eliminação das partes dos processos documentais que se encontram nos SI dos participantes no processo;\n\nh) Conservação - o destino final atribuído a processos de negócio ou às suas subdivisões que consiste na preservação permanente da respetiva informação;\n\ni) Conservação parcial por amostragem - o destino final atribuído a processos de negócio para a preservação permanente de uma amostra recolhida segundo critérios aleatórios e mediante a seleção de uma amostra inversamente proporcional à dimensão do universo;\n\nj) Desativação de processos de negócio - a operação que consiste em suspender a produção de efeitos das decisões atribuídas a uma classe de 3.º ou de 4.º nível, por deixar de estar atribuída às entidades aquela competência;\n\nk) Descrição - a caracterização das instâncias da estrutura de classificação, através de uma exposição dos seus traços distintivos, fixada na tabela de seleção. A descrição a 3.º nível prevê a identificação genérica da sequência de atividades, do início ao termo do processo de negócio;\n\nl) Destino final - a decisão, com base na avaliação da informação para efeitos de conservação, de conservação parcial por amostragem ou de eliminação, atribuída a processos de negócio e fixada na tabela de seleção;\n\nm) Documento - a informação criada, recebida e mantida em suporte digital ou analógico, a título probatório e informativo por uma entidade, no cumprimento das suas obrigações legais ou na condução das suas atividades. Também denominado documento de arquivo;\n\nn) Dono de processo - a entidade responsável pela condução do processo de negócio, pelo produto final e pelo garante da conservação da sua informação por o deter na sua completude, fixada na tabela de seleção;\n\no) Eliminação - o destino final atribuído a processos de negócio ou às suas subdivisões para a destruição definitiva dos respetivos documentos e agregações;\n\np) Entrega - a remessa de documentos e agregações de um espaço de armazenamento, depósito ou servidor, para outro, com ou sem alteração de responsabilidade ou de propriedade;\n\nq) Forma de contagem do prazo - a instrução que define o momento a partir do qual é iniciada a contagem do prazo de conservação administrativa fixada na tabela de seleção, nos termos abaixo indicados:\n\ni) Conforme disposição legal - o momento em que se inicia a contagem é determinado por lei;\n\nii) Data do início do procedimento - o momento em que se inicia a contagem é determinado pela abertura da agregação ou produção do primeiro ato do procedimento, como é o caso do «Registo biográfico»;\n\niii) Data de emissão do título - o momento em que se inicia a contagem é determinado pela produção do documento de validação ou reconhecimento;\n\niv) Data da conclusão do procedimento - o momento em que se inicia a contagem é determinado pelo encerramento da agregação ou produção do último ato do procedimento, como é o caso de «Manutenção e reparação de bens móveis duradouros»;\n\nv) Data da cessação da vigência - o momento em que se inicia a contagem é determinado pelo término da produção de efeitos do procedimento. Pode ocorrer por caducidade, revogação, cancelamento, extinção ou decisão contenciosa. Pode incidir, entre outros, sobre legislação, normas, políticas, acordos, convenções, planeamento estratégico, licenças;\n\nvi) Data da extinção da entidade sobre a qual recai o procedimento - o momento em que se inicia a contagem é determinado pelo registo do fim da entidade. Aplica-se a pessoas (momento do óbito), empresas, bens, atividades, como é o caso da «Identificação fiscal», «Registo de pessoas coletivas», «Registo predial», «Registo comercial»;\n\nvii) Data de extinção do direito sobre o bem - o momento em que se inicia a contagem é determinado pela cessação do direito, que não implica a extinção da entidade. A extinção do direito sobre o bem pode acontecer por alienação (transmissão ou transação), por abate ou desaparecimento do bem, pela venda de imóveis, pela cessação da afetação, da reserva de uso, do direito de superfície, do arrendamento ou cedência;\n\nr) Informação - a informação arquivística, produzida no exercício de uma função, materializada em qualquer suporte;\n\ns) Lista Consolidada - a estrutura hierárquica de classes que representam as funções, subfunções e processos de negócio executados pela Administração Pública, contemplando a sua descrição e avaliação. Integra e desenvolve a macroestrutura funcional;\n\nt) Macroestrutura funcional (MEF) - a representação conceptual de funções desempenhadas por entidades com funções públicas, apresentada sob a forma de uma estrutura hierárquica desenvolvida a dois níveis (função e subfunção);\n\nu) Metodologia relacional - o método aplicado à avaliação da informação de acordo com os critérios legal, densidade informacional, complementaridade informacional e completude, através dos quais se estabelecem relações de sucessão, cruzamento, síntese, complementaridade e suplementaridade entre processos de negócio ou entre as suas subdivisões, quando aplicável;\n\nv) Natureza da intervenção - a identificação da condição de dono e de participante por parte da entidade prevista no artigo 2.º;\n\nw) Ocorrência - os casos sucedidos no âmbito de um processo de negócio que se materializam em agregações ou processos documentais;\n\nx) Participante no processo - a entidade que contribui para o desenvolvimento do processo de negócio e do produto final, não sendo responsável pela sua condução nem pela conservação da sua informação por não o deter na sua completude, fixada na tabela de seleção;\n\ny) Prazo de conservação administrativa - o período de tempo, registado em anos, durante o qual a informação deve ser mantida para responder às necessidades de negócio, requisitos organizacionais, responsabilização e obrigações legais, fixado na tabela de seleção;\n\nz) Processo de negócio - a sucessão ordenada de atividades interligadas, desempenhadas para atingir um resultado definido (produto ou serviço), no âmbito de uma função;\n\naa) Processo transversal - o processo de negócio que carece da intervenção de diferentes entidades para que o resultado possa ser atingido;\n\nbb) Processo documental - a unidade arquivística constituída por uma agregação de documentos que traduz uma ocorrência de um determinado processo de negócio;\n\ncc) Registo - a atividade descritiva sobre documentos e agregações para efeitos de captura, controlo, acesso e comunicação, incluindo elementos relativos à classificação e avaliação;\n\ndd) Relatório de avaliação - dispositivo legal destinado à avaliação da documentação acumulada;\n\nee) Seleção - a atividade que decorre da avaliação e consiste na separação dos documentos e agregações de conservação, de conservação parcial por amostragem e de eliminação, de acordo com as orientações fixadas na tabela de seleção. É operacionalizada pela aplicação do prazo de conservação administrativa, da forma de contagem do prazo e do destino final;\n\nff) Sistema de informação - o sistema que integra, gere e fornece acesso a documentos de arquivo, ao longo do tempo, independentemente do seu suporte. Inclui os sistemas desenhados especificamente para gerir documentos e outros sistemas orientados para a gestão dos processos de negócio que suportam a criação, captura e gestão de documentos;\n\ngg) Tabela de seleção - o instrumento integrado em dispositivo legal, derivado da Lista Consolidada, de suporte à classificação e seleção da informação e constituído pela estrutura classificativa e pelas decisões da avaliação;\n\nhh) Tipologia de ocorrências - a unidade constituída para efeitos de gestão que agrega ocorrências (agregações simples) que materializam um nível de detalhe do processo de negócio, não se constituindo num nível de classificação. Permite a operacionalização de distintas naturezas de intervenção, dono ou participante, no âmbito de um processo de negócio, bem como a constituição de agregações compostas que agrupam ocorrências com idêntica especificidade funcional;\n\nii) Título - a designação das instâncias da estrutura multinível de classificação fixada na tabela de seleção."
+  },
+  "919903075": {
+   "fragment_id": "919867107",
+   "type": 1,
+   "heading": "Capítulo II — Gestão de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Gestão de informação"
+  },
+  "919903076": {
+   "fragment_id": "919867108",
+   "type": 11,
+   "heading": "Artigo 6.º — Atividades da gestão de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atividades da gestão de informação\n\nPara efeitos do presente Regulamento, são consideradas no âmbito da gestão de informação as seguintes atividades e operações:\n\na) Registo;\n\nb) Classificação;\n\nc) Avaliação;\n\nd) Aplicação do prazo de conservação administrativa;\n\ne) Aplicação da forma de contagem do prazo;\n\nf) Aplicação do destino final;\n\ng) Eliminação;\n\nh) Entrega;\n\ni) Transferência de suporte;\n\nj) Substituição de suporte analógico."
+  },
+  "919903077": {
+   "fragment_id": "919867109",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registo\n\n1 - Os documentos e agregações produzidos no exercício das funções, materializados em suporte analógico ou digital, devem ser integrados e registados em SI.\n\n2 - A classificação e a avaliação são elementos descritivos obrigatórios da atividade de registo."
+  },
+  "919903078": {
+   "fragment_id": "919867110",
+   "type": 11,
+   "heading": "Artigo 8.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Classificação\n\n1 - A classificação de documentos e agregações está associada à sua avaliação e integra a tabela de seleção, adiante designada por tabela, que constitui o anexo i do presente Regulamento e cujos dados são específicos e inalteráveis.\n\n2 - A classificação é funcional, com uma estrutura constituída por quatro níveis, que representam funções (1.º), subfunções (2.º), processos de negócio (3.º) e, quando aplicável, subdivisão de processos de negócio (4.º).\n\n3 - As decisões de classificação encontram-se expressas nos seguintes elementos informativos fixados na tabela:\n\na) Código;\n\nb) Título;\n\nc) Descrição.\n\n4 - A classificação de documentos e agregações procede-se, em regra, ao 3.º nível, podendo ocorrer ao 4.º nível, sempre que estiver prevista na tabela a subdivisão do processo de negócio para efeitos de avaliação, nos termos do disposto no n.º 4 do artigo 9.º\n\n5 - Fica vedada a criação de novos níveis de classificação para além dos previstos no n.º 2 e a inclusão de novos processos de negócio, salvo através do disposto no n.º 3 do artigo 19.º\n\n6 - Para auxiliar a gestão operacional de processos de negócio com distintas formas de materialização está prevista a existência de tipologias de ocorrência, que não constitui um nível de classificação e cuja criação compete ao Metropolitano de Lisboa, aquando da implementação da tabela no SI."
+  },
+  "919903079": {
+   "fragment_id": "919867111",
+   "type": 11,
+   "heading": "Artigo 9.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Avaliação\n\n1 - As decisões de avaliação expressas na tabela enquadram-se numa perspetiva suprainstitucional e aplicam-se a documentos e agregações.\n\n2 - A avaliação de documentos e agregações está associada à sua classificação e integra a tabela anexa, cujos dados são específicos e inalteráveis.\n\n3 - A avaliação de documentos e agregações procede-se, em regra, ao 3.º nível, podendo ocorrer ao 4.º nível, sempre que estiver prevista na tabela anexa a subdivisão do processo de negócio.\n\n4 - A cada 4.º nível corresponde um conjunto de atividades diferentes, sendo definido para cada conjunto um prazo ou destino final distinto, em razão da adoção de uma metodologia relacional intraprocessual, no respeito de princípios e critérios da avaliação.\n\n5 - As decisões de avaliação encontram-se expressas nos seguintes elementos informativos fixados na tabela, com as respetivas designações indicadas em cabeçalho:\n\na) Prazo de conservação administrativa (PCA);\n\nb) Forma de contagem do prazo de conservação administrativa (Forma de contagem PCA);\n\nc) Destino final (DF);\n\nd) Dono do processo de negócio (Dono PN);\n\ne) Participante no processo de negócio (Participante PN).\n\n6 - Ficam vedadas à entidade prevista no artigo 2.º, sem a recolha prévia de parecer obrigatório e vinculativo do órgão de coordenação mediante submissão de proposta devidamente fundamentada, as seguintes operações:\n\na) Aplicação de prazos de conservação administrativa inferiores aos estabelecidos;\n\nb) Criação de novas formas de contagem do prazo de conservação administrativa;\n\nc) Alteração do destino final dos processos de negócio de conservação para conservação parcial por amostragem ou para eliminação;\n\nd) Alteração do destino final dos processos de negócio de conservação parcial por amostragem para eliminação;\n\ne) Alteração da condição de «dono» ou de «participante» expressa na tabela.\n\n7 - As tipologias de ocorrência a que alude o n.º 6 do artigo 8.º devem respeitar as decisões definidas para a avaliação do respetivo processo de negócio expressas nos termos do disposto no n.º 5.\n\n8 - A entidade prevista no artigo 2.º, sem prejuízo de delegação de poderes para o efeito, consulta o órgão de coordenação para que indique os mecanismos adequados para a avaliação da informação produzida e acumulada no período compreendido entre a data de entrada em vigor do presente Regulamento e a implementação da tabela no SI.\n\n9 - A avaliação da informação produzida e acumulada prevista na alínea b) do artigo 3.º deve ser objeto de relatório de avaliação de documentação acumulada, elaborado e submetido ao órgão de coordenação nos termos vigentes, para a recolha de parecer obrigatório e vinculativo, ficando vedada a eliminação de qualquer documentação acumulada antes da comunicação da decisão por parte do organismo supramencionado."
+  },
+  "919903080": {
+   "fragment_id": "919867112",
+   "type": 11,
+   "heading": "Artigo 10.º — Aplicação do prazo de conservação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aplicação do prazo de conservação administrativa\n\n1 - A aplicação do prazo de conservação administrativa constitui uma operação da atividade de seleção.\n\n2 - O cumprimento do prazo de conservação administrativa determinado na tabela é obrigatório.\n\n3 - A contagem do prazo de conservação administrativa suspende-se sempre que for instaurado processo que requeira, para obtenção de prova de infração ou ilícito, o uso desses documentos e agregações, passando os mesmos a estar subordinados aos termos e prazos estabelecidos na lei para que concorrem.\n\n4 - A suspensão prevista no número anterior cessa logo que finda a necessidade de uso, sendo imediatamente retomada a contagem do prazo de conservação administrativa expresso na tabela.\n\n5 - O início da contagem do prazo de conservação administrativa deve respeitar a forma de contagem do prazo expressa na tabela, nos termos do artigo 11.º"
+  },
+  "919903081": {
+   "fragment_id": "919867113",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicação da forma de contagem do prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação da forma de contagem do prazo\n\n1 - A aplicação da forma de contagem do prazo constitui uma operação da atividade de seleção.\n\n2 - Para a aplicação do disposto no n.º 5 do artigo 10.º, a cada forma de contagem de prazo de conservação administrativa identificada corresponde um conjunto alfanumérico predefinido, constituído pelas letras «F», inicial do termo «forma», e um conjunto de dois dígitos, expresso na tabela.\n\n3 - A forma de contagem de prazo identificada para cada processo de negócio executado pela Administração Pública encontra-se publicitada na Lista Consolidada, prevista nos termos do artigo 20.º, que serve de referência à contagem de prazos dos processos de negócio produzidos pela entidade prevista no artigo 2.º\n\n4 - Constam da tabela anexa ao presente Regulamento as formas de contagem de prazo utilizadas nos processos de negócio, conforme abaixo indicado:\n\na) F01 - conforme disposição legal;\n\nb) F02 - data de início do procedimento;\n\nc) F04 - data de conclusão do procedimento;\n\nd) F05 - data de cessação da vigência;\n\ne) F06 - data de extinção da entidade sobre a qual recai o procedimento;\n\nf) F07 - data de extinção do direito sobre o bem.\n\n5 - A forma de contagem de prazo prevista na alínea a) do número anterior é complementada pelas datas que determinam o momento a partir do qual é iniciada a contagem do prazo de conservação administrativa fixado na tabela.\n\n6 - As datas a que alude o número anterior estão identificadas através de um algarismo que complementa o código alfanumérico atribuído a cada forma de contagem do prazo, separado por ponto, conforme abaixo indicado:\n\na) F01.04 - data do facto que ocorrer em primeiro lugar: a) com o registo da extinção da procuração a que digam respeito; b) decorridos 15 anos a contar da data da outorga da procuração; c) logo que deixem de ser estritamente necessários para os fins para que foram recolhidos, nos termos de legislação em vigor (artigo 13.º, n.º 1, do Decreto Regulamentar n.º 3/2009);\n\nb) F01.08 - data da prescrição do procedimento criminal, nos termos do artigo 118.º do Decreto-Lei n.º 48/95;\n\nc) F01.09 - data em que forem considerados findos para efeitos de arquivo, nos termos do artigo 142.º da Lei n.º 62/2013.\n\n7 - Sempre que as formas de contagem de prazos estipuladas na alínea d) do n.º 4 não forem aplicáveis por o título não ser emitido ou por não se iniciar o período de vigência, compete aos serviços da entidade prevista no artigo 2.º proceder ao encerramento das agregações, em conformidade com o Código do Procedimento Administrativo, dando início à contagem do prazo de conservação administrativa."
+  },
+  "919903082": {
+   "fragment_id": "919867114",
+   "type": 11,
+   "heading": "Artigo 12.º — Aplicação do destino final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aplicação do destino final\n\n1 - A aplicação do destino final constitui uma operação da atividade de seleção.\n\n2 - O destino final aplica-se após o cumprimento do prazo de conservação administrativa, podendo ser de conservação «C», de conservação parcial por amostragem «CP» ou de eliminação «E».\n\n3 - A aplicação do destino final decorre da natureza da intervenção da entidade prevista no artigo 2.º expressa na tabela nas colunas intituladas «Dono PN» e «Participante PN».\n\n4 - Sempre que os serviços da entidade prevista no artigo 2.º se encontrem na condição de dono compete-lhes a aplicação do destino final expresso na tabela.\n\n5 - Sempre que os serviços da entidade prevista no artigo 2.º se encontrem na condição de participante é permitido proceder à eliminação de agregações, dado que não as detêm na sua completude.\n\n6 - Sempre que os serviços da entidade prevista no artigo 2.º se encontrem na condição de dono e, simultaneamente, de participante devem especificar no SI ao nível das tipologias de ocorrência ou das agregações a natureza da sua intervenção.\n\n7 - A intervenção na condição de dono e de participante não pode coexistir na mesma agregação.\n\n8 - A operacionalização a que alude o n.º 6 pode realizar-se, entre outras, das seguintes formas:\n\na) Ao nível da atividade de registo da agregação, prevendo um campo para identificar a natureza da intervenção;\n\nb) Ao nível da constituição de tipologias de ocorrência, criando uma tipologia para as agregações em que os serviços da entidade prevista no artigo 2.º se encontrem na condição de dono e outra para as que se encontrem na condição de participante.\n\n9 - Os processos de negócio transversais em que os serviços da entidade prevista no artigo 2.º se encontrem na condição de dono ou de participante ou simultaneamente de dono e participante estão identificados por meio de «x» nas colunas intituladas «Dono PN» e «Participante PN».\n\n10 - A recolha de amostra para a aplicação do destino final de conservação parcial por amostragem deve respeitar o critério aleatório, de acordo com as orientações técnicas publicitadas pelo órgão de coordenação."
+  },
+  "919903083": {
+   "fragment_id": "919867115",
+   "type": 11,
+   "heading": "Artigo 13.º — Eliminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Eliminação\n\n1 - A eliminação de documentos e agregações expressos na tabela é superintendida pelo serviço responsável pela gestão da informação ou pelo serviço de arquivo, conforme aplicável, da entidade prevista no artigo 2.º\n\n2 - A eliminação de documentos e agregações pela entidade prevista no artigo 2.º aplica-se conjugando a condição de dono e de participante com o destino final atribuído às classes de 3.º ou 4.º nível.\n\n3 - O dono elimina os documentos e agregações relativos a:\n\na) Processos de negócio (3.º nível) com destino final de eliminação;\n\nb) Subdivisões de processos de negócio (4.º nível) com destino final de eliminação;\n\nc) Casos excluídos da amostra a preservar, nos processos de negócio com destino final de conservação parcial por amostragem.\n\n4 - O participante elimina os documentos e agregações relativos a:\n\na) Processos de negócio com destino final de conservação, mediante autorização do serviço responsável pela gestão da informação ou pelo serviço de arquivo, conforme aplicável, da entidade prevista no artigo 2.º;\n\nb) Processos de negócio com destino final de conservação parcial por amostragem;\n\nc) Processos de negócio com destino final de eliminação;\n\nd) Subdivisões de processos de negócio com destino final de conservação, mediante autorização do serviço responsável pela gestão da informação ou pelo serviço de arquivo, conforme aplicável, da entidade prevista no artigo 2.º\n\n5 - A eliminação de documentos e agregações deve obedecer às seguintes formalidades:\n\na) Produzir o auto de eliminação nos termos do artigo 17.º, constituindo prova jurídica do abate patrimonial;\n\nb) Validar o auto de eliminação através da aposição de data e assinatura autógrafa, eletrónica qualificada ou outro meio de comprovação da autoria pelos responsáveis do serviço previsto no n.º 1, ou seus delegados;\n\nc) Conservar o auto de eliminação, a título definitivo;\n\nd) Submeter o auto de eliminação ao órgão de coordenação nos termos definidos e publicitados por este organismo.\n\n6 - Fica vedada a eliminação de documentos e agregações que não estejam expressos na tabela.\n\n7 - A eliminação de documentos ou agregações antes do cumprimento do prazo de conservação administrativa é permitida desde que assegurada a substituição de suporte nos termos do artigo 16.º\n\n8 - A decisão sobre a forma de destruição deve atender a critérios de segurança, confidencialidade e racionalidade de meios e custos, devendo ocorrer regularmente."
+  },
+  "919903084": {
+   "fragment_id": "919867116",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrega\n\n1 - A entrega de documentos e agregações é superintendida pelo serviço responsável pela gestão da informação ou pelo serviço de arquivo, conforme aplicável, da entidade prevista no artigo 2.º\n\n2 - A entrega de documentos e agregações entre espaços de armazenamento ou repositórios pode ou não implicar a alteração de responsabilidade ou de propriedade.\n\n3 - A entrega de documentos e agregações deve obedecer às seguintes formalidades:\n\na) Produzir o auto de entrega nos termos do artigo 18.º, constituindo prova jurídica da entrega de património;\n\nb) Validar o auto de entrega através da aposição de data e assinatura autógrafa, eletrónica qualificada ou outro meio de comprovação da autoria pelos responsáveis das entidades remetente e destinatária;\n\nc) Conservar o auto de entrega, a título definitivo, pelo serviço responsável pela gestão da informação ou pelo serviço de arquivo, conforme aplicável;\n\nd) Remeter um exemplar do auto de entrega ao serviço remetente.\n\n4 - As entregas devem ser efetuadas de acordo com a calendarização acordada entre a entidade prevista no artigo 2.º e o destinatário, desde que não contrariem o preceituado nos números anteriores e não afetem a integridade dos documentos e agregações."
+  },
+  "919903085": {
+   "fragment_id": "919867117",
+   "type": 11,
+   "heading": "Artigo 15.º — Transferência de suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transferência de suporte\n\n1 - A transferência de suporte que consista na reprodução de documentos, destituída de valor probatório, pode ser realizada como forma de salvaguarda e preservação de documentos e agregações originais e com o objetivo da sua comunicação interna e externa.\n\n2 - O cumprimento do disposto no número anterior deve processar-se de acordo com as normas técnicas em vigor e com as indicações propostas pelo órgão de coordenação, atendendo a critérios de racionalidade de meios e custos."
+  },
+  "919903086": {
+   "fragment_id": "919867118",
+   "type": 11,
+   "heading": "Artigo 16.º — Substituição de suporte analógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Substituição de suporte analógico\n\n1 - A substituição de suporte analógico deve prever a manutenção da força probatória do original através da salvaguarda da sua autenticidade e integridade, em conformidade com as normas técnicas e a legislação em vigor.\n\n2 - Fica vedada a substituição de suporte de documentos e agregações de conservação permanente sem a autorização expressa do órgão de coordenação mediante proposta devidamente fundamentada."
+  },
+  "919903087": {
+   "fragment_id": "919867119",
+   "type": 1,
+   "heading": "Capítulo III — Elementos informativos dos instrumentos de gestão de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Elementos informativos dos instrumentos de gestão de informação"
+  },
+  "919903088": {
+   "fragment_id": "919867120",
+   "type": 11,
+   "heading": "Artigo 17.º — Auto de eliminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Auto de eliminação\n\nPara efeitos de autenticação, identificação e controlo dos documentos e agregações a eliminar, a entidade prevista no artigo 2.º utiliza o auto constante do anexo ii."
+  },
+  "919903089": {
+   "fragment_id": "919867121",
+   "type": 11,
+   "heading": "Artigo 18.º — Auto de entrega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Auto de entrega\n\nPara efeitos de autenticação, identificação e controlo dos documentos e agregações a remeter, a entidade prevista no artigo 2.º utiliza o auto constante do anexo iii."
+  },
+  "919903090": {
+   "fragment_id": "919867122",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão da tabela de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão da tabela de seleção"
+  },
+  "919903091": {
+   "fragment_id": "919867123",
+   "type": 11,
+   "heading": "Artigo 19.º — Atualização da tabela de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Atualização da tabela de seleção\n\n1 - A atualização da tabela anexa ao presente Regulamento deve refletir a inclusão, alteração e exclusão de classes relativas a processos de negócio, que resultem de omissão, da atribuição de novas competências ou da sua transferência ou delegação entre órgãos e entidades com funções públicas.\n\n2 - Para viabilizar a gestão da informação produzida entre a publicação no ordenamento jurídico das alterações estipuladas no número anterior e a revisão da tabela anexa ao presente Regulamento, a entidade prevista no artigo 2.º deve utilizar complementarmente o referencial Lista Consolidada, nos termos dos artigos 20.º e 21.º\n\n3 - A atualização da tabela anexa pode ocorrer de duas formas:\n\na) Após a submissão e integração de proposta na Lista Consolidada, nos termos do artigo 21.º;\n\nb) Após submissão e aceitação de pedido legalmente fundamentado ao órgão de coordenação para a inclusão na tabela de processos de negócio previstos na Lista Consolidada, por omissão ou transferência legal de competências entre órgãos e entidades que exerçam funções públicas.\n\n4 - A atualização da tabela anexa decorre da revisão do presente Regulamento nos termos do artigo 26.º"
+  },
+  "919903092": {
+   "fragment_id": "919867124",
+   "type": 11,
+   "heading": "Artigo 20.º — Lista Consolidada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Lista Consolidada\n\n1 - A Lista Consolidada é um referencial que não integra o presente Regulamento.\n\n2 - Sempre que se proceda à inclusão, alteração, ativação ou desativação de processos de negócio nos termos do artigo 21.º, estes podem ser utilizados, para efeitos de classificação, sempre que tecnicamente possível, em SI a partir do momento da sua publicitação na Lista Consolidada.\n\n3 - Fica vedada a eliminação de documentos e agregações relativos a processos de negócio expressos na Lista Consolidada até que estes estejam fixados em regulamento aplicável à entidade prevista no artigo 2.º\n\n4 - A atualização da Lista Consolidada a que alude o n.º 2 precede, obrigatoriamente, à formalização que decorre da revisão do presente Regulamento, nos termos do artigo 26.º\n\n5 - Compete ao órgão de coordenação a gestão e a publicitação da Lista Consolidada."
+  },
+  "919903093": {
+   "fragment_id": "919867125",
+   "type": 11,
+   "heading": "Artigo 21.º — Submissão e integração de proposta na Lista Consolidada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Submissão e integração de proposta na Lista Consolidada\n\n1 - Compete à entidade prevista no artigo 2.º proceder à elaboração e submissão de proposta legalmente fundamentada sobre a inclusão, alteração, ativação ou desativação de processos de negócio na Lista Consolidada.\n\n2 - Compete ao órgão de coordenação proceder à integração das propostas de inclusão, alteração, ativação ou desativação de processos de negócio na Lista Consolidada, correspondendo este ato administrativo à aprovação da mesma.\n\n3 - Para efeito do disposto nos números anteriores, devem ser respeitadas as orientações técnicas publicitadas pelo órgão de coordenação.\n\n4 - A alteração da Lista Consolidada precede, obrigatoriamente, a atualização da tabela de seleção e a revisão do presente Regulamento, nos termos do artigo 26.º"
+  },
+  "919903094": {
+   "fragment_id": "919867126",
+   "type": 1,
+   "heading": "Capítulo V — Da tutela penal e contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da tutela penal e contraordenacional"
+  },
+  "919903095": {
+   "fragment_id": "919867127",
+   "type": 11,
+   "heading": "Artigo 22.º — Fiscalização e verificação interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Fiscalização e verificação interna\n\n1 - Compete ao órgão de coordenação fiscalizar o cumprimento do disposto no presente Regulamento através de auditorias ou outras atividades estipuladas na legislação em vigor.\n\n2 - Sem prejuízo do estipulado no número anterior, compete aos serviços da entidade prevista no artigo 2.º a realização de verificações de conformidade com o disposto no presente Regulamento."
+  },
+  "919903096": {
+   "fragment_id": "919867128",
+   "type": 11,
+   "heading": "Artigo 23.º — Previsão penal e contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Previsão penal e contraordenacional\n\n1 - Aos crimes praticados contra o património arquivístico, designadamente os de furto, roubo ou dano, aplicam-se as disposições previstas na lei penal, com as especificidades constantes na legislação em matéria de proteção dos bens culturais e do regime geral dos arquivos e do património arquivístico.\n\n2 - Verificando-se os factos culposos do número anterior, são aplicáveis as coimas para as contraordenações legalmente previstas."
+  },
+  "919903097": {
+   "fragment_id": "919867129",
+   "type": 11,
+   "heading": "Artigo 24.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sanções acessórias\n\nEm função da gravidade da contraordenação e da culpa do agente, são aplicáveis as sanções acessórias legalmente previstas."
+  },
+  "919903098": {
+   "fragment_id": "919867130",
+   "type": 11,
+   "heading": "Artigo 25.º — Competência para o procedimento contraordenacional e sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competência para o procedimento contraordenacional e sancionatório\n\nCompete ao órgão de coordenação processar as contraordenações e aplicar as respetivas coimas e sanções acessórias legalmente previstas."
+  },
+  "919903099": {
+   "fragment_id": "919867131",
+   "type": 1,
+   "heading": "Capítulo VI — Da revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Da revisão"
+  },
+  "919903100": {
+   "fragment_id": "919867132",
+   "type": 11,
+   "heading": "Artigo 26.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revisão\n\nO presente Regulamento deve ser revisto sempre que por determinação legal resultarem alterações significativas, designadamente quanto à inclusão, alteração ou exclusão de processos de negócio, que decorram das competências adstritas à entidade prevista no artigo 2.º"
+  },
+  "919903101": {
+   "fragment_id": "919867133",
+   "type": 14,
+   "heading": "Anexo I — Tabela de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Tabela de seleção\n\n(a que se refere o n.º 1 do artigo 8.º)\n\n(ver documento original)"
+  },
+  "919903102": {
+   "fragment_id": "919867134",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 17.º)\n\n(ver documento original)"
+  },
+  "919903103": {
+   "fragment_id": "919867135",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 18.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o artigo 18.º)\n\n(ver documento original)\n\n116071626"
+  },
+  "919708867": {
+   "fragment_id": "919867099",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado da Cultura, Isabel Alexandra Rodrigues Cordeiro, em 4 de janeiro de 2023. - O Secretário de Estado da Mobilidade Urbana, Jorge Moreno Delgado, em 16 de janeiro de 2023."
+  },
+  "919903104": {
+   "fragment_id": "919867114",
+   "type": 11,
+   "heading": "Artigo 12.º — Aplicação do destino final",
+   "in_force_from": "2025-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2025/1 - Diário da República n.º 103/2025, Série I de 2025-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/243-2025-919826026), em vigor a partir de 2025-05-30"
+   ],
+   "markdown": "###### Artigo 12.º — Aplicação do destino final\n\n1 - A aplicação do destino final constitui uma operação da atividade de seleção.\n\n2 - O destino final aplica-se após o cumprimento do prazo de conservação administrativa, podendo ser de conservação «C», de conservação parcial por amostragem «CP» ou de eliminação «E».\n\n3 - A aplicação do destino final decorre da natureza da intervenção da entidade prevista no artigo 2.º expressa na tabela nas colunas intituladas «Dono PN» e «Participante PN».\n\n4 - Sempre que os serviços da entidade prevista no artigo 2.º se encontrem na condição de dono compete-lhes a aplicação do destino final expresso na tabela.\n\n5 - Sempre que os serviços da entidade prevista no artigo 2.º se encontrem na condição de participante é permitido proceder à eliminação de agregações, dado que não as detêm na sua completude.\n\n6 - Sempre que os serviços da entidade prevista no artigo 2.º se encontrem na condição de dono e, simultaneamente, de participante devem especificar no SI ao nível das tipologias de ocorrência ou das agregações a natureza da sua intervenção.\n\n7 - A intervenção na condição de dono e de participante não pode coexistir na mesma agregação.\n\n8 - A operacionalização a que alude o n.º 6 pode realizar-se, entre outras, das seguintes formas:\n\na) Ao nível da atividade de registo da agregação, prevendo um campo para identificar a natureza da intervenção;\n\nb) Ao nível da constituição de tipologias de ocorrência, criando uma tipologia para as agregações em que os serviços da entidade prevista no artigo 2.º se encontrem na condição de dono e outra para as que se encontrem na condição de participante.\n\n9 - Os processos de negócio transversais em que os serviços da entidade prevista no artigo 2.º se encontrem na condição de dono ou de participante ou simultaneamente de dono e participante estão identificados por meio de «x» nas colunas intituladas «Dono PN» e «Participante PN».\n\n10 - A recolha de amostra para a aplicação do destino final de conservação parcial por amostragem deve respeitar o critério aleatório, de acordo com as orientações técnicas publicitadas pelo órgão de coordenação.\n\n11 - Fica vedada ao participante a eliminação de documentos e agregações de processos de negócio transversais, sem a recolha prévia de parecer obrigatório e vinculativo do órgão de coordenação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2025/1 - Diário da República n.º 103/2025, Série I de 2025-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/243-2025-919826026), em vigor a partir de 2025-05-30"
+  },
+  "919903105": {
+   "fragment_id": "919867115",
+   "type": 11,
+   "heading": "Artigo 13.º — Eliminação",
+   "in_force_from": "2025-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2025/1 - Diário da República n.º 103/2025, Série I de 2025-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/243-2025-919826026), em vigor a partir de 2025-05-30"
+   ],
+   "markdown": "###### Artigo 13.º — Eliminação\n\n1 - A eliminação de documentos e agregações expressos na tabela é superintendida pelo serviço responsável pela gestão da informação ou pelo serviço de arquivo, conforme aplicável, da entidade prevista no artigo 2.º\n\n2 - A eliminação de documentos e agregações pela entidade prevista no artigo 2.º aplica-se conjugando a condição de dono e de participante com o destino final atribuído às classes de 3.º ou 4.º nível.\n\n3 - O dono elimina os documentos e agregações relativos a:\n\na) Processos de negócio (3.º nível) com destino final de eliminação;\n\nb) Subdivisões de processos de negócio (4.º nível) com destino final de eliminação;\n\nc) Casos excluídos da amostra a preservar, nos processos de negócio com destino final de conservação parcial por amostragem.\n\n4 - O participante elimina os documentos e agregações relativos a:\n\na) Processos de negócio com destino final de conservação, mediante consulta ao órgão de coordenação, de acordo com o n.º 11 do artigo 12.º;\n\nb) Processos de negócio com destino final de conservação parcial por amostragem;\n\nc) Processos de negócio com destino final de eliminação;\n\nd) Subdivisões de processos de negócio com destino final de conservação, mediante autorização do serviço responsável pela gestão da informação ou pelo serviço de arquivo, conforme aplicável, da entidade prevista no artigo 2.º\n\n5 - A eliminação de documentos e agregações deve obedecer às seguintes formalidades:\n\na) Produzir o auto de eliminação nos termos do artigo 17.º, constituindo prova jurídica do abate patrimonial;\n\nb) Validar o auto de eliminação através da aposição de data e assinatura autógrafa, eletrónica qualificada ou outro meio de comprovação da autoria pelos responsáveis do serviço previsto no n.º 1, ou seus delegados;\n\nc) Conservar o auto de eliminação, a título definitivo;\n\nd) Submeter o auto de eliminação ao órgão de coordenação nos termos definidos e publicitados por este organismo.\n\n6 - Fica vedada a eliminação de documentos e agregações que não estejam expressos na tabela.\n\n7 - A eliminação de documentos ou agregações antes do cumprimento do prazo de conservação administrativa é permitida desde que assegurada a substituição de suporte nos termos do artigo 16.º\n\n8 - A decisão sobre a forma de destruição deve atender a critérios de segurança, confidencialidade e racionalidade de meios e custos, devendo ocorrer regularmente.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2025/1 - Diário da República n.º 103/2025, Série I de 2025-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/243-2025-919826026), em vigor a partir de 2025-05-30"
+  }
+ }
+}

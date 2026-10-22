@@ -1,0 +1,1004 @@
+---
+schema_version: '1.0'
+id: pt:dre:241857:por
+title: Decreto-Lei n.º 127/2005
+short_title: null
+summary: Estabelece o regime de criação de zonas de intervenção florestal (ZIF), bem como os princípios reguladores da sua
+  constituição, funcionamento e extinção
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 127/2005
+official_date: null
+publication_date: '2005-08-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/2005, Série I-A de 2005-08-05
+  number: '150'
+  series: I
+  supplement: null
+  pages: 4521 - 4527
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/08/150a00/45214527.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-05-06'
+version_history:
+  file: decreto-lei-127-2005.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2005-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-15'
+    amending: pt:dre:397362:por
+    amending_title: Decreto-Lei n.º 15/2009
+    changes:
+    - Adita Artigo 4.º-A
+    - Adita Artigo 9.º-A
+    - Adita Artigo 34.º-A
+    - Adita Artigo 35.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 33.º
+    - Revoga Artigo 21.º
+  - date: '2011-01-11'
+    amending: pt:dre:485605:por
+    amending_title: Decreto-Lei n.º 2/2011
+    changes:
+    - Adita Artigo 12.º-A
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+  - date: '2014-02-19'
+    amending: pt:dre:572470:por
+    amending_title: Decreto-Lei n.º 27/2014
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 12.º-A
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 28.º
+    - Altera Artigo 34.º-A
+    - Altera Artigo 35.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 29.º
+  - date: '2017-06-13'
+    amending: pt:dre:107507172:por
+    amending_title: Decreto-Lei n.º 67/2017
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 34.º-A
+    - Revoga Artigo 9.º-A
+    - Revoga Artigo 20.º
+  - date: '2026-05-06'
+    amending: pt:dre:1103945165:por
+    amending_title: Lei n.º 18/2026
+    changes:
+    - Altera Artigo 28.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/127/2005/p/cons/20260505/pt/html
+  oj: null
+  dre: '241857'
+  dre_path: /dr/detalhe/decreto-lei/127-2005-241857
+  internal: pt:dre:241857:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2005-241857
+  metadata_url: https://data.dre.pt/eli/dec-lei/127/2005/p/cons/20260505/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34451675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34451675
+  retrieved_at: '2026-10-22T11:42:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 650ce53b30fcd7c61ddc5ff4f9a47b33f89d37b435f7f240a0db84d13f9d6d46
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:42:45Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-127-2005.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Agrupamento de Produtores
+- Financiamento
+- Publicidade
+- Ordenamento do Território
+- Contra-ordenação
+- Direcção Geral dos Recursos Florestais
+- Emparcelamento
+- Proteção da Floresta
+- Fiscalização
+- Isenção de Taxas e Emolumentos
+- Ordenamento Florestal
+- Plano de Gestão Florestal
+- Organização de Produtores
+- Prédio Rústico
+- Prémio
+- Exploração Florestal
+- Produtor
+- Prova
+- Registo Predial
+- Regulamento Interno
+- Inventário
+- Sanção
+- ZONA de Intervenção Florestal
+relationships:
+- type: amended_by
+  target: pt:dre:397362:por
+  label: Adita Artigo 4.º-A; Adita Artigo 9.º-A; Adita Artigo 34.º-A; Adita Artigo 35.º-A; Altera Artigo 3.º; Altera Artigo
+    4.º; Altera Artigo 4.º-A; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º;
+    Altera Artigo 16.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362
+  date: '2009-01-14'
+- type: amended_by
+  target: pt:dre:485605:por
+  label: Adita Artigo 12.º-A; Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605
+  date: '2011-01-06'
+- type: amended_by
+  target: pt:dre:572470:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 4.º-A; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 12.º-A;
+    Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º;
+    Altera Artigo 19.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470
+  date: '2014-02-18'
+- type: amended_by
+  target: pt:dre:107507172:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 4.º-A; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 10.º;
+    Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 22.º;
+    Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Artigo 34.º-A;
+    Revoga Artigo 9.º-A; Revoga Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172
+  date: '2017-06-12'
+- type: amended_by
+  target: pt:dre:1103945165:por
+  label: Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165
+  date: '2026-05-05'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/205/1999/06/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/205/1999/06/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1185/2004/09/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1185/2004/09/15/p/dre
+article_structure:
+  article_count: 40
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:42:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 127/2005
+
+A promoção da gestão do património florestal nacional, nomeadamente através do ordenamento das explorações florestais e da dinamização e apoio ao associativismo, é um dos objectivos da política florestal nacional consagrado na Lei de Bases da Política Florestal, Lei n.º 33/96, de 17 de Agosto. Compete, pois, ao Estado dinamizar a constituição de explorações florestais com dimensão que possibilite ganhos de eficiência na sua gestão, através de incentivos ao agrupamento de explorações, ao emparcelamento de propriedades e à desincentivação do seu fraccionamento.
+
+Com o presente diploma, estabelece-se o enquadramento legal para a criação das zonas de intervenção florestal (ZIF), permitindo-se uma intervenção específica em matéria do ordenamento e da gestão florestal.
+
+É criado o conceito de ZIF, estabelecendo-se os seus objectivos e abrangência territorial, assim como se sistematiza o processo de constituição, alteração e extinção das ZIF, especificando os seus elementos estruturantes e as condições mínimas necessárias para a formalização da sua constituição.
+
+É definido também o modo de funcionamento das ZIF, descrevendo-se o processo da sua gestão e as responsabilidades das respectivas entidades gestoras.
+
+Cumpre salientar a obrigatoriedade de constituição de um fundo comum para financiar acções geradoras de benefícios comuns e de apoio aos proprietários e produtores florestais aderentes.
+
+Merece especial destaque a obrigatoriedade de existência de um plano de gestão florestal e de um plano de defesa da floresta de carácter vinculativo para todos os proprietários e produtores florestais abrangidos pela área territorial da ZIF, definidor do seu conteúdo, processo de aprovação e execução. Introduz-se, também, a possibilidade de a entidade gestora da ZIF assumir a responsabilidade de execução dos planos, mediante acordo com os proprietários ou produtores florestais, ou ainda nos casos em que, sendo desconhecido o proprietário ou produtor florestal, ou o seu paradeiro, a defesa das propriedades aderentes à ZIF assim o aconselhe.
+
+Cumpre ainda salientar que, no âmbito dos instrumentos financeiros de política florestal, é dada prioridade aos projectos em matéria de ordenamento e gestão florestal, de investimento e de defesa da floresta contra os incêndios, integrados em ZIF e de acordo com os seus elementos estruturantes.
+
+Prevê-se também a instituição de atribuição de prémios para as ZIF, em função dos objectivos atingidos e da obtenção da certificação florestal da sua gestão.
+
+Por último, é de referir que são estabelecidas as condições de preferência dos proprietários dos prédios rústicos incluídos e aderentes à ZIF na compra e venda ou dação em cumprimento de prédios rústicos sitos nessa área.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime de criação de zonas de intervenção florestal (ZIF), bem como os princípios reguladores do seu funcionamento e extinção.
+
+###### Artigo 2.º — Âmbito geográfico de aplicação
+
+O presente diploma aplica-se a todo o território continental português.
+
+###### Artigo 3.º — Definições
+
+Para efeitos da aplicação do presente decreto-lei, entende-se por:
+
+a) 'Actividade agrícola' a produção, criação ou cultivo de produtos agrícolas, incluindo a colheita, ordenha, criação de animais ou detenção de animais para fins de produção, ou a manutenção das terras em boas condições agrícolas e ambientais;
+
+b) 'Aderentes' os proprietários ou outros produtores florestais da área da ZIF que aderem a esta nos termos previstos no respectivo regulamento;
+
+c) '«Baldios» os terrenos possuídos e geridos por comunidades locais, como tal definidos em diploma próprio;
+
+d) [Revogada];
+
+e) 'Floresta' os terrenos ocupados com povoamentos florestais, áreas ardidas de povoamentos florestais, áreas de corte raso de povoamentos florestais e, ainda, outras áreas arborizadas;
+
+f) 'Entidade gestora da ZIF' qualquer organização associativa de proprietários e produtores florestais ou outra pessoa coletiva, aprovada pelos proprietários e produtores florestais, cujo objeto social inclua a prossecução de atividades diretamente relacionadas com a silvicultura e a gestão e exploração florestais, e a atividade agrícola no caso de administração total, bem como a prestação de serviços a elas associadas, e ainda, com as necessárias adaptações, os municípios, em parceria com organização associativa de proprietários e produtores florestais ou outra pessoa coletiva;
+
+g) 'Espaços florestais' os terrenos ocupados com floresta, matos e pastagens ou outras formações vegetais espontâneas, segundo os critérios definidos no Inventário Florestal Nacional;
+
+h) 'Exploração florestal e agro-florestal' o prédio ou conjunto de prédios ocupados, total ou parcialmente, por espaços florestais, pertencentes a um ou mais proprietários e que estão submetidos a uma gestão única;
+
+i) «Administração total» o modelo multifuncional em que a entidade gestora procede à administração integrada de todas as componentes do sistema agro-silvopastoril, em que a ZIF assume a designação de ZIF de administração total;
+
+j) «Inventário da estrutura da propriedade» a representação cartográfica dos prédios e identificação dos respetivos titulares na área dos aderentes à escala adequada, de acordo com as normas técnicas estabelecidas pelo Instituto da Conservação da Natureza e das Florestas, I.P. (ICNF, I.P.);
+
+l) 'Núcleo Fundador' os proprietários ou produtores florestais detentores de um conjunto de prédios rústicos, constituídos maioritariamente por espaços florestais, com pelo menos 5 % da área proposta para a ZIF;
+
+m) «Plano de gestão florestal» ou «PGF» o instrumento como tal definido no Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelo Decreto-Lei n.º 114/2010, de 22 de outubro;
+
+n) [Revogada];
+
+o) «Proprietários ou outros produtores florestais» os proprietários, usufrutuários, superficiários, arrendatários ou quem, a qualquer título, for possuidor ou detenha a administração dos terrenos que integram os espaços florestais;
+
+p) 'Rede de compartimentação' o conjunto das redes viária, de infra-estruturas e de linhas e planos de água ou de qualquer modificação estrutural do território, do seu uso ou da tipologia da vegetação que permite identificar áreas bem delimitadas;
+
+q) 'Zona de intervenção florestal' ou 'ZIF' a área territorial contínua e delimitada, constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal, e que cumpre o estabelecido nos Planos Municipais de Defesa da Floresta Contra Incêndios, e administrada por uma única entidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 4.º — Objectivos das zonas de intervenção florestal
+
+São objectivos das ZIF:
+
+a) Garantir uma adequada e eficiente gestão dos espaços florestais, com a atribuição concreta de responsabilidades;
+
+b) Minimizar os bloqueios à intervenção florestal, nomeadamente a estrutura da propriedade privada, em particular nas regiões de minifúndio;
+
+c) Infraestruturar o território, nomeadamente de acordo com os Planos Municipais de Defesa da Floresta Contra Incêndios, tornando-o mais resiliente aos incêndios florestais, garantindo a sobrevivência dos investimentos e do património constituído;
+
+d) Conferir coerência territorial à intervenção da administração central e local e dos demais agentes com intervenção nos espaços florestais e evitar a pulverização no território das acções e dos recursos financeiros;
+
+e) Concretizar territorialmente as orientações constantes na Estratégia Nacional para as Florestas, nos instrumentos de planeamento de nível superior, como o Plano Nacional de Defesa da Floresta Contra Incêndios, os programas regionais de ordenamento florestal (PROF), os planos diretores municipais (PDM), os planos municipais e intermunicipais de defesa da floresta contra incêndios (PMDFCI), os planos especiais de ordenamento do território, o Plano Operacional de Sanidade Florestal (POSF) e outros planos que se entendam relevantes;
+
+f) Integrar as diferentes vertentes da política para os espaços florestais, designadamente a certificação da gestão sustentável, conservação da natureza e da biodiversidade, conservação e proteção do solo e dos recursos hídricos, desenvolvimento rural, proteção civil, fiscalidade, especialmente em regiões afetadas por agentes bióticos e abióticos e que necessitem de um processo rápido de recuperação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 4.º-A — Princípios gerais de organização territorial das zonas de intervenção florestal
+
+Constituem princípios gerais de organização territorial das ZIF os princípios da ocupação do território, da delimitação territorial, da gestão agrupada, da gestão dos recursos e da responsabilidade da gestão:
+
+a) O princípio da ocupação do território consiste em assegurar que, no longo prazo, os espaços florestais com estrutura de propriedade minifundiária estejam integrados em ZIF;
+
+b) O princípio da delimitação territorial consiste em garantir que as ZIF abrangem uma área territorial mínima de 500 hectares, que incorpora diversos blocos de propriedades de aderentes ou não aderentes, com dimensão para proteger, produzir e conservar os recursos florestais ou outras valências ambientais;
+
+c) O princípio da gestão agrupada consiste em operacionalizar em cada ZIF, de forma conjunta, as orientações de gestão florestal e de defesa da floresta definidas nos termos legais;
+
+d) O princípio da gestão dos recursos consiste em elaborar e implementar em cada ZIF, de acordo com as orientações definidas nos PROF, um PGF;
+
+e) O princípio da responsabilização da gestão consiste em assegurar que a administração das ZIF é da responsabilidade da respectiva entidade gestora.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 5.º — Critérios de delimitação territorial das zonas de intervenção florestal
+
+1 - A delimitação territorial das ZIF implica a sua compatibilização com matrizes regionais e municipais de organização da gestão e do território florestal já existentes, nomeadamente as estabelecidas pela Estratégia Nacional para as Florestas, pelos PROF, pelos PMDFCI e pelas orientações dos planos especiais, municipais e intermunicipais de ordenamento do território.
+
+2 - A delimitação das ZIF pode compreender qualquer tipo de áreas, independentemente da natureza do proprietário ou outro produtor florestal.
+
+3 - Não podem ser delimitadas ZIF que integrem áreas florestais do domínio privado do Estado, exceto quando autorizado por despacho dos membros do Governo responsáveis pelas áreas das finanças, das florestas e da defesa nacional, este último se as áreas florestais estiverem afetas à defesa nacional, sob proposta do conselho diretivo do ICNF, I. P.
+
+4 - A delimitação das ZIF envolve a utilização dos seguintes critérios de aplicação geral, obrigatórios em todos os casos:
+
+a) Compreender uma área territorial mínima de 500 hectares e máxima de 20 000 hectares, e incluir, pelo menos, 25 proprietários ou produtores florestais aderentes e 50 prédios rústicos;
+
+b) Abranger territórios contínuos, não sendo admissível a existência no seu interior de áreas excluídas de qualquer natureza, com exceção das áreas referidas no número anterior para as quais não seja obtida a autorização necessária;
+
+c) [Revogada];
+
+d) [Revogada];
+
+e) A constituição de novas ZIF na envolvente próxima de outras ZIF preexistentes deve promover o alargamento, em continuidade, do território já integrado em ZIF;
+
+f) A delimitação territorial das ZIF respeita os limites dos prédios rústicos, mesmo que de grande dimensão, e deve apoiar-se, preferencialmente, em pontos notáveis da paisagem, tais como cursos ou massas de água, linhas de cumeada, rodovias ou ferrovias.
+
+5 - A delimitação das ZIF envolve ainda a utilização dos seguintes critérios de aplicação específica, nomeadamente do ponto de vista biofísico, da organização da paisagem e sociais em cada região:
+
+a) Fisiográfico:
+
+i) Sub-bacias ou conjuntos de sub-bacias hidrográficas contínuas, delimitadas pelos respetivos divisores topográficos (linhas de cumeada);
+
+ii) Unidades de relevo, mais ou menos individualizadas ou que formem um maciço distinto, delimitadas por cursos de água de ordem quatro ou superior (pela classificação de Strahler, aplicada nas cartas militares de 1:25 000);
+
+b) Rede de compartimentação:
+
+i) Rede primária de faixas de gestão de combustível, nos termos do Decreto-Lei n.º 124/2006, de 28 de junho, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 17/2009, de 14 de janeiro, e 114/2011, de 30 de novembro;
+
+ii) Outras faixas de interrupção ou de gestão de combustível com largura superior a 250 metros, designadamente cursos de água, albufeiras, espaços agrícolas de regadio e áreas sociais;
+
+c) Social: organização social, administrativa e jurídica do território, nomeadamente concelho e freguesia;
+
+d) Ambiental: localização dominante em territórios ou em áreas classificadas cuja silvicultura se oriente fundamentalmente para a conservação da biodiversidade.
+
+6 - Mediante autorização do conselho diretivo do ICNF, I. P., as ZIF podem observar uma área territorial superior a 20 000 hectares sempre que se verifiquem circunstâncias especiais de natureza geográfica, social ou económica.
+
+7 - Os critérios referidos no n.º 5 são de adoção alternativa e dependem das características específicas de cada ZIF.
+
+8 - Quando se verifique sobreposição de delimitação territorial proposta para duas ou mais ZIF, a área sobreposta fica afeta à ZIF que apresentar nela maior área aderente.
+
+9 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+### Capítulo II — Processo de constituição, alteração e extinção das zonas de intervenção florestal
+
+###### Artigo 6.º — Iniciativa do processo
+
+1 - A iniciativa do processo de constituição de ZIF pertence aos proprietários ou outros produtores florestais, que para o efeito se constituem em núcleo fundador, em conformidade com o disposto na alínea l) do artigo 3.º.
+
+2 - O núcleo fundador pode designar um representante comum para todas as questões para que seja solicitado ou chamado a intervir ou a pronunciar-se no âmbito do processo de constituição de ZIF.
+
+3 - O município ou municípios abrangidos pela área territorial da ZIF presta apoio técnico, preferencialmente pelos Gabinetes Técnicos Florestais, se para tal for solicitado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 7.º — Consulta prévia
+
+1 - Para a constituição de uma ZIF é obrigatória a realização de, pelo menos, uma reunião promovida pelo núcleo fundador e a sua publicitação com a antecedência mínima de 15 dias, por edital nos locais de estilo, bem como nos sítios da Internet do ICNF, I.P., e dos municípios abrangidos pela ZIF e, facultativamente, por anúncios em jornais de âmbito nacional ou regional.
+
+2 - A publicitação referida no número anterior inclui a carta com a delimitação territorial proposta para a ZIF referenciada à carta militar na escala de 1:25000.
+
+3 - A reunião é realizada em localidade integrante de concelho da área geográfica abrangida pela ZIF.
+
+4 - Compete ao núcleo fundador registar em acta a identificação e opinião de cada participante.
+
+5 - Na reunião está presente um representante do ICNF, I.P., que atesta a correspondência da ata respetiva com a discussão e as decisões ali tomadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 8.º — Consulta pública
+
+1 - Depois de realizada a consulta prévia, e no prazo máximo de 30 dias, o núcleo fundador elabora e publicita, obrigatoriamente, os seguintes elementos:a) Listagem dos proprietários e produtores florestais que anuíram a integrar a ZIF cuja criação se propõe;
+
+b) Indicação da entidade gestora da ZIF;
+
+c) Carta com a delimitação da área territorial da ZIF e sua localização administrativa;
+
+d) Cadastro geométrico dos prédios abrangidos ou, na sua falta, inventário da estrutura da propriedade;
+
+e) Projecto de regulamento interno;
+
+f) Ata das reuniões realizadas no âmbito da consulta prévia, atestada pelo representante do ICNF, I.P..
+
+2 - Os documentos referidos no número anterior são publicitados durante 20 dias, através de anúncio no sítio da Internet do ICNF, I.P., e dos municípios abrangidos pela ZIF, bem como através de edital a afixar nas sedes das respetivas juntas de freguesia, encontrando-se disponíveis para consulta, nomeadamente:
+
+a) Nos serviços desconcentrados do ICNF, I.P.;
+
+b) Nos respectivos municípios abrangidos pela ZIF.
+
+3 - Os locais de consulta pública recebem os pedidos de esclarecimento e as sugestões efectuadas e remetem-nos ao núcleo fundador.
+
+4 - O núcleo fundador procede à análise e resposta aos esclarecimentos solicitados e às sugestões efetuadas durante o período de consulta pública, registando-as em relatório a apresentar na reunião de audiência final.
+
+5 - Nos casos em que não exista cadastro geométrico da propriedade rústica, o prazo para a elaboração dos elementos previstos na alínea d) do n.º 1 pode, por iniciativa do núcleo fundador e mediante autorização do conselho diretivo do ICNF, I.P., ser prorrogado por um prazo máximo de até três anos após a criação da ZIF.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 9.º — Audiência final
+
+1 - Findo o período da última consulta pública referido no n.º 2 do artigo anterior, no prazo máximo de seis meses realiza-se uma reunião promovida pelo núcleo fundador, a publicitar com a antecedência mínima de 10 dias, por edital nos locais de estilo e no sítio da Internet do ICNF, I.P., na qual são apresentados e explicados os elementos referidos no n.º 1 do artigo anterior.
+
+2 - Na reunião referida no número anterior, o núcleo fundador apresenta para discussão, se for caso disso, o relatório a que se refere o n.º 4 do artigo anterior e presta os esclarecimentos a ele respeitantes, registando em ata a identificação e opinião de cada participante.
+
+3 - Pode ser realizada uma segunda consulta pública se, na sequência da discussão, os participantes a aprovarem por maioria simples ou se o núcleo fundador assim o entender, aplicando-se a esta segunda consulta pública o disposto no artigo anterior, com as devidas adaptações, seguida da audiência final.
+
+4 - A reunião é realizada em localidade integrante de concelho da área geográfica abrangida pela ZIF.
+
+5 - Na reunião está presente um representante do ICNF, I.P., que atesta a correspondência da ata com a discussão e decisões ali tomadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 9.º-A — Oneração e ampliação de servidões administrativas
+
+Nos casos em que uma ZIF integre bens do domínio público e quando se verifique a ampliação de zonas sujeitas a servidão ou ainda quando estas se tornem mais onerosas é assegurada uma fase de publicitação e audiência dos interessados, a estabelecer nos termos do Decreto-Lei n.º 181/70, de 28 de Abril.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 10.º — Requerimento para a criação das zonas de intervenção florestal
+
+1 - O pedido de criação de ZIF é formalizado em requerimento do núcleo fundador, apresentado no ICNF, I.P., no prazo máximo de três anos, a contar da realização da primeira consulta prévia, sob pena de rejeição liminar.
+
+2 - Excecionalmente, o prazo referido no número anterior pode ser prorrogado pelo conselho diretivo do ICNF, I.P., mediante pedido fundamentado do núcleo fundador.
+
+3 - O requerimento a que se refere o n.º 1 deve ser subscrito por proprietários ou produtores florestais que representem, pelo menos, metade dos espaços florestais existentes na área proposta para a ZIF.
+
+4 - O requerimento a que se referem os n.os 1 e 3 é instruído com os seguintes elementos:
+
+a) A cartografia de delimitação territorial da ZIF e sua localização administrativa, bem como memória descritiva que cumpra os critérios previstos no artigo 5.º;
+
+b) A indicação da entidade gestora da ZIF por parte do núcleo fundador, bem como a documentação necessária para a verificação dos requisitos dessa entidade, de acordo com o previsto na alínea f) do artigo 3.º e no n.º 2 do artigo 13.º;
+
+c) A proposta de regulamento interno da ZIF;
+
+d) Declaração, sob compromisso de honra, do núcleo fundador ou do seu representante comum, que ateste a veracidade dos documentos apresentados e o cumprimento das normas previstas no presente decreto-lei.
+
+5 - O requerimento e os documentos referidos no número anterior são remetidos ao ICNF, I.P., em formato digital.
+
+6 - O núcleo fundador e, posteriormente, a entidade gestora da ZIF são responsáveis pela existência, pela conservação em arquivo próprio e pela exibição ao ICNF, I.P., quando solicitados, dos originais dos seguintes documentos:
+
+a) Os referidos no n.º 1 do artigo 8.º;
+
+b) Os que atestam a legitimidade dos proprietários ou outros produtores florestais que subscrevem o requerimento para a criação da ZIF;
+
+c) Quaisquer outros que alterem a informação referida nas alíneas anteriores, como consequência das deliberações em audiência final;
+
+d) A ata da reunião realizada no âmbito da audiência final, atestada pelo representante do ICNF, I.P..
+
+7 - Recebido o requerimento referido no n.º 1, o ICNF, I.P., notifica o núcleo fundador para, se for caso disso e no prazo de 20 dias, suprir deficiências relativas ao cumprimento dos requisitos e elementos a que aludem os n.os 1, 3, 4 e 5.
+
+8 - Supridas as deficiências, o ICNF, I.P., comunica a decisão ao núcleo fundador, no prazo de 30 dias, a contar da receção dos últimos elementos apresentados, findo o qual o requerimento se considera tacitamente deferido.
+
+9 - A comunicação referida no número anterior efectua-se após a realização da audiência de interessados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 11.º — Criação das zonas de intervenção florestal
+
+1 - As ZIF são criadas por deliberação do conselho diretivo do ICNF, I.P., publicitada nos sítios da Internet do ICNF, I.P., e dos respetivos municípios.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 2/2011 - Diário da República n.º 4/2011, Série I de 2011-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-10
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 12.º — Alteração e extinção das zonas de intervenção florestal
+
+1 - A delimitação territorial de ZIF ou a sua área podem ser alteradas, com periodicidade nunca inferior a um ano, mediante autorização do conselho diretivo do ICNF, I.P.
+
+2 - Constituem pressupostos da alteração da delimitação territorial de ZIF ou da sua área a ocorrência de circunstâncias supervenientes que, fundamentadamente, impeçam a manutenção da delimitação territorial ou da área, nomeadamente quando a ZIF deixe de cumprir o princípio estabelecido na alínea b) do artigo 4.º-A, ou a verificação de outras situações que justifiquem a redefinição.
+
+3 - Quando esteja em causa o aumento da área da ZIF a alteração pode ter lugar desde que se verifiquem os critérios de delimitação estabelecidos no artigo 5.º, mediante requerimento apresentado na sequência de consulta pública e de audiência final, com exceção do previsto no número seguinte.
+
+4 - A consulta pública e audiência final, previstas no número anterior, não são obrigatórias sempre que o alargamento da área da ZIF não abranja terrenos de proprietários ou produtores florestais não aderentes.
+
+5 - As ZIF podem ser extintas por deliberação do conselho diretivo do ICNF, I. P., mediante requerimento da iniciativa dos proprietários e outros produtores florestais, que devem representar mais de 50 % do universo dos aderentes.
+
+6 - Aos proprietários ou outros produtores florestais que decidam deixar de integrar a ZIF é aplicável o disposto no artigo 22.º
+
+7 - As ZIF são extintas por decisão do conselho diretivo do ICNF, I.P., precedida de audiência prévia, nas seguintes situações:
+
+a) Incumprimento grave e reiterado das normas do PGF, que inviabilize a manutenção da ZIF;
+
+b) Deixem de se verificar os requisitos ou condições fundamentais que justificaram a criação da ZIF, salvo se respeitarem à sua delimitação territorial ou área, desde que se mostrem cumpridos, neste caso, os pressupostos de alteração a que se refere o n.º 2.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 2/2011 - Diário da República n.º 4/2011, Série I de 2011-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-10
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 12.º-A — Publicidade dos actos
+
+1 - As decisões de alteração da delimitação territorial da ZIF ou da sua área e de extinção da ZIF, a que se referem os artigos 11.º e 12.º, são publicadas exclusivamente nos sítios da Internet do ICNF, I.P., e dos respetivos municípios.
+
+2 - Cabe ao ICNF, I.P., assegurar a publicidade e acessibilidade permanente das deliberações referidas no número anterior em local do respetivo sítio da Internet que assegure a visibilidade adequada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 2/2011 - Diário da República n.º 4/2011, Série I de 2011-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-10
+
+### Capítulo III — Funcionamento das zonas de intervenção florestal
+
+###### Artigo 13.º — Administração das zonas de intervenção florestal
+
+1 - A administração de cada ZIF é assegurada pela respetiva entidade gestora.
+
+2 - A entidade gestora deve possuir meios próprios ou contratados que assegurem a capacidade técnica adequada à administração permanente da ZIF, bem como à respetiva área e estrutura da propriedade e às atividades a desenvolver no seu âmbito, e deve ainda dispor, nos termos da lei, de contabilidade organizada.
+
+3 - As entidades gestoras devem possuir centros de custos autónomos para cada ZIF.
+
+4 - As entidades gestoras das ZIF podem candidatar-se a beneficiárias dos apoios previstos no artigo 25.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 14.º — Elementos estruturantes das zonas de intervenção florestal
+
+1 - São elementos estruturantes da ZIF os seguintes documentos:
+
+a) Regulamento interno;
+
+b) Plano de gestão florestal da área ZIF;
+
+c) (Revogada);
+
+d) Inventário da estrutura da propriedade, nos termos da alínea j) do artigo 3.º;
+
+e) (Revogada);
+
+f) Carta com a delimitação territorial na escala de 1:25000 referenciada à carta militar;
+
+g) Relação dos proprietários e produtores florestais aderentes;
+
+h) (Revogada);
+
+i) (Revogada).
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 15.º — Responsabilidades das entidades gestoras
+
+1 - As entidades gestoras das ZIF asseguram a realização dos objectivos da ZIF e a sua administração, competindo-lhes, designadamente:
+
+a) Promover a gestão profissional conjunta das propriedades que a integram;
+
+b) Promover a concertação dos interesses dos proprietários e produtores florestais;
+
+c) Elaborar os elementos estruturantes definidos no artigo anterior, bem como proceder à sua publicitação;
+
+d) Elaborar e promover a execução do PGF;
+
+e) Promover a certificação da gestão florestal das propriedades dos aderentes;
+
+f) Cumprir as regras e procedimentos estabelecidos no regulamento interno de funcionamento da ZIF;
+
+g) Promover a aplicação da legislação florestal na sua área territorial;
+
+h) Recolher, organizar e divulgar os dados e informações relevantes da ZIF;
+
+i) Promover a regularização do inventário da estrutura da propriedade na ZIF e a regularização dos respectivos elementos de registo;
+
+j) Garantir a coordenação de todas as actividades comuns;
+
+l) Colaborar com as comissões municipais ou intermunicipais de defesa da floresta contra incêndios na preparação e execução dos planos municipal e intermunicipal de defesa da floresta contra incêndios;
+
+m) Colaborar com outras entidades públicas ou privadas de idêntico âmbito territorial ou funcional;
+
+n) Garantir a existência e a conservação do arquivo próprio a que se refere o n.º 6 do artigo 10.º, bem como da documentação que legitima quem subscreve o requerimento e adere à ZIF e ainda dos elementos estruturantes referidos no artigo anterior;
+
+o) Apresentar candidaturas a apoios públicos, com fundos nacionais ou comunitários, aplicar os financiamentos concedidos de acordo com o contratado e, quando aplicável, repartir entre os proprietários e outros produtores florestais aderentes à ZIF as verbas destinadas à execução das ações apoiadas.
+
+2 - As entidades gestoras das ZIF apresentam anualmente à assembleia geral de aderentes o plano anual de atividades, o relatório de contas e a listagem de aderentes, devendo estes ficar em arquivo.
+
+3 - Os órgãos de administração dos baldios que integrem ZIF devem submeter à aprovação prévia dos seus compartes as diferentes propostas a submeter às assembleias gerais da respectiva ZIF.
+
+4 - Para o cumprimento do procedimento previsto nos números anteriores, as assembleias gerais são convocadas com uma antecedência mínima de 20 dias.
+
+5 - Os documentos previstos no n.º 2 devem ser remetidos ao ICNF, I. P., até ao fim do 1.º semestre do ano seguinte a que se reportam, com exceção do plano anual de atividades que deve ser remetido até 31 de dezembro do ano anterior àquele a que se reporta.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 16.º — Substituição da entidade gestora das zonas de intervenção florestal
+
+1 - Em assembleia geral de aderentes pode ser substituída a entidade gestora da ZIF, por iniciativa dos proprietários ou outros produtores florestais, que têm de representar mais de 50% do universo dos proprietários e produtores florestais aderentes e deter, em conjunto, mais de metade dos espaços florestais existentes na área delimitada para a ZIF.
+
+2 - A substituição da entidade gestora deve ser comunicada ao ICNF, I.P., pela mesa da assembleia geral da ZIF, no prazo de 15 dias, a contar da data da realização da assembleia geral de aderentes, remetendo-lhe a respetiva ata, bem como a documentação necessária para a verificação dos requisitos previstos na alínea f) do artigo 3.º e nos n.os 2 e 3 do artigo 13.º.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 17.º — Regulamento interno
+
+1 - O funcionamento das ZIF rege-se por um regulamento interno aprovado pela maioria relativa dos aderentes presentes na assembleia geral legalmente convocada para o efeito.
+
+2 - O regulamento interno define os objetivos específicos da ZIF, estabelece os deveres e direitos dos proprietários e produtores florestais aderentes e as respetivas regras de funcionamento, quer para as situações de gestão dos espaços florestais quer em caso de administração total do território.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 18.º — Fundo comum
+
+1 - As entidades gestoras das ZIF devem constituir, no prazo máximo de um ano após a criação da ZIF, um fundo comum destinado a financiar ações geradoras de benefícios comuns e de apoio aos proprietários e outros produtores florestais aderentes.
+
+2 - Constituem receitas do fundo comum, nomeadamente, as contribuições financeiras dos proprietários e produtores florestais aderentes, bem como os prémios, incentivos e outras receitas que lhes sejam atribuídos nos termos da lei e das condições definidas no respectivo regulamento interno.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+### Capítulo IV — Gestão dos espaços florestais
+
+###### Artigo 19.º — Plano de gestão florestal
+
+1 - Toda a área territorial da ZIF é abrangida por um PGF.
+
+2 - O PGF é elaborado e apresentado para aprovação ao ICNF, I. P., no prazo de três anos a contar da data da criação da ZIF.
+
+3 - O PGF aplica as orientações constantes nos PROF, respeita os programas municipais, intermunicipais e especiais de ordenamento do território e os programas setoriais relevantes, bem como os interesses dos proprietários e outros produtores florestais aderentes à ZIF que, obrigatoriamente, o subscrevem e aplicam.
+
+4 - O PGF tem um período de vigência coincidente com o do respectivo PROF e pode ser revisto sempre que se mostre necessário.
+
+5 - A elaboração do PGF obedece às regras previstas no regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 20.º — Plano específico de intervenção florestal
+
+1 - Toda a área territorial da ZIF é abrangida por um PEIF.
+
+2 - O PEIF aplica os princípios e orientações constantes nos PROF e nos planos e programas de defesa da floresta contra agentes bióticos e abióticos e tem caráter obrigatório.
+
+3 - O PEIF aplica-se a toda a área territorial da ZIF de forma a conferir coerência territorial às acções de infra-estruturação.
+
+4 - O PEIF tem uma vigência de cinco anos e está sujeito a revisões sempre que ocorram situações que alterem substancialmente as condições que presidiram à sua elaboração.
+
+5 - O PEIF é elaborado e apresentado para aprovação ao ICNF, I.P., no prazo máximo de seis meses, a contar da data da publicação da deliberação a que se refere o artigo 11.º, e prevê o início imediato das ações estipuladas após comunicação da respetiva aprovação.
+
+6 - A elaboração do PEIF obedece às regras previstas no regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 21.º — Outros planos específicos
+
+Se os valores ou funções contidos ou adjacentes à área da ZIF forem colocados em risco de dano por fenómenos bióticos ou abióticos, devem ser elaborados planos específicos de intervenção, nomeadamente de controlo de erosão, de protecção fitossanitária, de conservação de um determinado habitat, de salvaguarda de património arqueológico, de recreio ou lazer, de silvo-pastorícia e de caça.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 22.º — Força vinculativa do plano
+
+1 - O PGF é de cumprimento obrigatório, em todo o território da ZIF, devendo ser disponibilizado pela entidade gestora da ZIF, no seu sítio da internet, caso o possua, no sítio da internet dos municípios cuja área territorial seja abrangida pela ZIF e no sítio do ICNF, I. P.
+
+2 - Os proprietários ou outros produtores florestais não aderentes à ZIF, independentemente da área que detenham, estão obrigados a cumprir as prescrições constantes do PGF da ZIF, exceto se possuírem PGF próprio aprovado nos termos da lei, o qual deve incluir as operações silvícolas mínimas.
+
+3 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 23.º — Aprovação do plano
+
+1 - A aprovação do PGF da ZIF obedece às regras previstas no regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal, com as alterações constantes no presente decreto-lei no que respeita aos prazos.
+
+2 - Previamente à apresentação ao ICNF, I. P., para aprovação, o PGF é submetido à apreciação, em reunião expressamente convocada para o efeito e devidamente publicitada, dos proprietários e produtores florestais abrangidos pela área territorial da ZIF, que podem consultar o plano nos 20 dias subsequentes.
+
+3 - Quaisquer sugestões têm de ser apresentadas à entidade gestora da ZIF por escrito no prazo referido no número anterior, que procede às alterações a que houver lugar.
+
+4 - Findo o prazo referido no número anterior, é realizada uma reunião de todos os proprietários e produtores florestais abrangidos pela área territorial da ZIF, expressamente convocada para o efeito e devidamente publicitada, para apreciação da última versão do plano, a que se segue uma assembleia geral de aderentes da ZIF, para a aprovação formal do mesmo.
+
+5 - O ICNF, I. P., tem um prazo de 40 dias para apreciar o plano e comunicar a decisão à entidade gestora da ZIF.
+
+6 - No decurso do prazo referido no número anterior, o plano é submetido a parecer das entidades que o ICNF, I. P., deva consultar nos termos de lei especial aplicável e as que entenda conveniente consultar, que deve ser emitido no prazo de 20 dias, a contar da data do pedido, suspendendo-se o prazo previsto no número anterior.
+
+7 - Findo o prazo referido no número anterior sem que o parecer seja emitido, considera-se o mesmo favorável.
+
+8 - Uma vez decorrido o prazo previsto no n.º 5 e sem prejuízo das suspensões a que se refere o n.º 6, caso não haja qualquer comunicação à entidade gestora da ZIF, o plano considera-se aprovado.
+
+9 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 24.º — Responsabilidade na execução do plano
+
+1 - A execução do PGF, nomeadamente a operacionalização das ações dele constante, cabe aos proprietários e produtores florestais.
+
+2 - A operacionalização das ações constantes do plano referido no número anterior pode ser executada pela entidade gestora da ZIF nos seguintes casos:
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - Nas situações em que ocorra intervenção em propriedades de que se desconheça o proprietário ou outro produtor florestal, ou o seu paradeiro, no âmbito da execução do PGF, a entidade gestora da ZIF deve efetuar a recolha e o registo das intervenções silvícolas e dos dados biométricos e manter em separado o respetivo arquivo histórico, obrigando-se à prestação de informação sempre que solicitada pelo ICNF, I. P., e pelos respetivos proprietários ou produtores florestais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 25.º — Financiamento
+
+1 - O financiamento das ações previstas no PGF é assegurado pelos proprietários e produtores florestais aderentes à ZIF, pelo fundo comum e pelos instrumentos públicos de apoio à floresta, de âmbito nacional e comunitário, sem prejuízo de outras fontes financeiras obtidas para o efeito pela entidade gestora da ZIF.
+
+2 - Os instrumentos públicos de apoio financeiro referidos no número anterior devem discriminar positivamente as entidades gestoras de ZIF e podem ainda instituir apoios especiais à constituição e instalação de ZIF em zonas de minifúndio e ao funcionamento das ZIF em que os aderentes tenham delegado a gestão das suas áreas na entidade gestora.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 26.º — Atribuição de prémios
+
+1 - O Estado pode atribuir prémios em função dos objectivos atingidos, tendo em conta nomeadamente a progressão da área ZIF e a obtenção da certificação da gestão florestal sustentável da ZIF, constituindo os mesmos receita do fundo comum previsto no artigo 18.º
+
+2 - As condições de atribuição dos prémios referidos no número anterior são definidas por portaria do membro do Governo responsável pela área das florestas.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+### Capítulo V — Fiscalização e sanções
+
+###### Artigo 27.º — Fiscalização
+
+1 - A fiscalização do cumprimento das disposições previstas no presente decreto-lei é da competência do ICNF, I. P., sem prejuízo das restantes entidades com competências inspetivas.
+
+2 - Sempre que qualquer entidade competente tome conhecimento de situações que indiciem a prática de uma contra-ordenação prevista no presente diploma, deve dar notícia à DGRF e remeter-lhe toda a documentação de que disponha, para efeito de instauração e instrução do processo de contra-ordenação e consequente decisão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 28.º — Contra-ordenações
+
+1 - Constitui contraordenação ambiental leve, punível nos termos da Lei-Quadro das Contraordenações Ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto:
+
+a) O incumprimento do disposto nos n.os 2 e 3 do artigo 13.º;
+
+b) O incumprimento do disposto nas alíneas c), d), f) e n) do n.º 1 e nos n.os 2 e 5 do artigo 15.º;
+
+c) O incumprimento do disposto no n.º 1 do artigo 17:º;
+
+d) O incumprimento do disposto no n.º 1 do artigo 18.º;
+
+e) O incumprimento do disposto no n.º 2 do artigo 19.º;
+
+f) O incumprimento do disposto nos n.os 1 e 2 do artigo 24.º.
+
+2 - A determinação da medida da coima é feita nos termos do disposto na Lei-Quadro das Contraordenações Ambientais.
+
+3 - A tentativa é punível, sendo os limites das coimas estabelecidos na Lei-Quadro das Contraordenações Ambientais reduzidos para metade.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 29.º — Sanções acessórias
+
+1 - Simultaneamente com a coima, pode a autoridade competente determinar a aplicação das seguintes sanções acessórias, em função da gravidade da contra-ordenação:
+
+a) Suspensão do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autorização pública;
+
+b) Privação do direito a subsídios ou benefícios outorgados por entidades ou serviços públicos.
+
+2 - As sanções referidas têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva e a sua aplicação está sujeita ao disposto no regime geral das contra-ordenações.
+
+3 - A autoridade competente para a aplicação da coima deve, a expensas do infractor, dar publicidade à punição pela prática das contra-ordenações previstas no n.º 1 do artigo anterior.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+###### Artigo 30.º — Afectação do produto das coimas
+
+O produto das coimas é afectado da seguinte forma:
+
+a) 10% para a entidade que dá notícia da infracção;
+
+b) 30 % para a AFN;
+
+c) 60% para o Estado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 31.º — Preferência na compra e venda ou dação em cumprimento
+
+1 - Os proprietários dos prédios rústicos incluídos e aderentes à ZIF gozam do direito de preferência nos termos previstos no Código Civil na compra e venda ou dação em cumprimento de prédios rústicos sitos nessa área, sem prejuízo de outras preferências estabelecidas na lei.
+
+2 - Sendo vários os proprietários com direito de preferência, prefere:
+
+a) No caso de compra e venda de prédio encravado, o proprietário que estiver onerado com servidão de passagem;
+
+b) Nos restantes casos, o proprietário que seja detentor de prédios rústicos mais próximos do prédio a preferir.
+
+###### Artigo 32.º — Isenção de taxas e emolumentos
+
+1 - Fica isenta de taxas e emolumentos a emissão de cópias e certidões das inscrições matriciais e descrições prediais relativas aos prédios que integrem as áreas ZIF quando requeridas pela respectiva entidade gestora da ZIF para fins de criação e actualização dos seus instrumentos estruturantes.
+
+2 - Ficam ainda isentos de taxas e emolumentos os licenciamentos de uso e alteração do uso do solo e as intervenções que decorram da aplicação do plano de gestão florestal.
+
+###### Artigo 33.º — Publicidade
+
+1 - Para efeitos de informação e comunicação gerais aos seus associados, a entidade gestora da ZIF dispõe, junto da área ZIF, de um edital em local permanente e de livre acesso.
+
+2 - Independentemente da publicitação prevista no número anterior, de todas as decisões com interesse geral para a constituição e funcionamento da ZIF deve ser dada publicidade por anúncio em jornal da respectiva região e no sítio da Internet da AFN e dos respectivos municípios.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 34.º — Dever de colaboração
+
+Qualquer entidade pública deve colaborar na prestação da informação necessária à constituição e funcionamento das ZIF.
+
+###### Artigo 34.º-A — Manual de procedimentos
+
+1 - O ICNF, I. P., elabora um manual de procedimentos de apoio à constituição de ZIF, que contém, entre outros elementos, modelos de regulamento interno, de plano de gestão florestal e de normas para a elaboração de peças gráficas.
+
+2 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2017-107507172), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+###### Artigo 35.º — Prova de titularidade
+
+1 - Na ausência de cadastro geométrico da propriedade rústica, a informação constante do registo predial fornece informação sobre a descrição dos prédios abrangidos pela ZIF, identificando os titulares de direitos de propriedade e de outros direitos reais menores, e as matrizes prediais rústicas constituem presunção de titularidade bastante para os diversos atos necessários à concretização das ações de desenvolvimento florestal na área territorial da ZIF.
+
+2 - Os levantamentos dos prédios rústicos efectuados pela entidade gestora da ZIF, subscritos pelos respectivos proprietários, devem ser considerados na actualização dos respectivos registos matriciais.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+###### Artigo 35.º-A — Assembleias gerais de aderentes
+
+As assembleias gerais de aderentes das ZIF regem-se pelo disposto no Código do Procedimento Administrativo, na parte referente aos órgãos colegiais, com as necessárias adaptações.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+Visto e aprovado em Conselho de Ministros de 30 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Jaime de Jesus Lopes Silva.
+
+Promulgado em 21 de Julho de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 22 de Julho de 2005.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

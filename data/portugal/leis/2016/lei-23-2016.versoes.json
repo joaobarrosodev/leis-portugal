@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75170385:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2016-75286800",
+ "dre_path": "/dr/detalhe/lei/23-2016-75170385",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-08-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75300075",
+    "75300076",
+    "75300077",
+    "75300078",
+    "75300079"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:75286796:por",
+     "title": "Declaração de Retificação n.º 16/2016",
+     "published": "2016-09-08",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/16-2016-75286796",
+     "date": "2016-08-20"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "75300075": {
+   "fragment_id": "75286801",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 23/2016\n\nde 19 de agosto\n\nPrimeira alteração ao regime especial aplicável aos ativos por impostos diferidos, aprovado em anexo à Lei n.º 61/2014, de 26 de agosto\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "75300076": {
+   "fragment_id": "75286802",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à primeira alteração ao regime especial aplicável aos ativos por impostos diferidos, aprovado em anexo à Lei n.º 61/2014, de 26 de agosto, e delimita o seu âmbito de aplicação temporal."
+  },
+  "75300077": {
+   "fragment_id": "75286803",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao regime especial aplicável aos ativos por impostos diferidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao regime especial aplicável aos ativos por impostos diferidos\n\nO artigo 4.º do regime especial aplicável aos ativos por impostos diferidos, aprovado em anexo à Lei n.º 61/2014, de 26 de agosto, passa a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - Os sujeitos passivos devem integrar no processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC a informação respeitante:\n\na) Aos métodos utilizados na determinação das perdas por imparidade em créditos e das responsabilidades com benefícios pós-emprego ou a longo prazo de empregados, bem como a respetiva documentação;\n\nb) Às políticas contabilísticas adotadas em matéria de impostos diferidos, bem como a respetiva documentação;\n\nc) Ao montante dos ativos por impostos diferidos correspondentes aos gastos e às perdas por imparidade relativos a créditos e benefícios pós-emprego ou a longo prazo de empregados;\n\nd) Ao montante dos ativos por impostos diferidos correspondentes a gastos e variações patrimoniais negativas relativos a créditos abrangidos e não excluídos do âmbito de aplicação do presente regime especial, discriminado por período de tributação em que foram gerados;\n\ne) Ao montante dos ativos por impostos diferidos correspondentes a gastos e variações patrimoniais negativas relativos a benefícios pós-emprego ou a longo prazo de empregados abrangidos e não excluídos do âmbito de aplicação do presente regime especial, discriminado por período de tributação em que foram gerados;\n\nf) Ao montante dos ativos por impostos diferidos convertidos em créditos tributários ao abrigo do presente regime especial, discriminado por período de tributação em que foram gerados e em que foram utilizados.\n\n8 - As políticas e os métodos contabilísticos referidos nas alíneas a) e b) do número anterior, bem como os elementos previstos nas alíneas c) a f) do mesmo número, são certificados por revisor oficial de contas.»"
+  },
+  "75300078": {
+   "fragment_id": "75286804",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito temporal do regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito temporal do regime\n\nO regime especial aprovado em anexo à Lei n.º 61/2014, de 26 de agosto, não é aplicável aos gastos e às variações patrimoniais negativas contabilizados nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2016, nem aos impostos por ativos diferidos a estes associados."
+  },
+  "75300079": {
+   "fragment_id": "75286805",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

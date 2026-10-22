@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:927416003:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 13/2025/M
+short_title: null
+summary: Pela aplicação do mecanismo de recuperação do valor equivalente ao imposto sobre o valor acrescentado, no âmbito
+  dos investimentos do Plano de Recuperação e Resiliência, realizados pelas instituições particulares de solidariedade social
+  da Região Autónoma da Madeira.
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 13/2025/M
+official_date: null
+publication_date: '2025-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2025, Série I de 2025-08-01
+  number: '147'
+  series: I
+  supplement: null
+  pages: 51 - 52
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/08/14700/0005100052.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/13/2025/08/01/m/dre/pt/html
+  oj: null
+  dre: '927416003'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/13-2025-927416003
+  internal: pt:dre:927416003:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/13-2025-927416003
+  metadata_url: https://data.dre.pt/eli/resolalram/13/2025/08/01/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/13-2025-927416003
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-08-01T00:00:00Z'
+integrity:
+  source_sha256: fee0cef2f92a3d48294e38ac0b9bbfe7e539f67e065aaa1f3d4e4f99eeecac8e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2025/DRE-2025-13-927416003.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Região Autónoma
+- Assembleia Legislativa Regional
+- Governo Regional
+- IPSS
+- IVA
+- Assembleia Legislativa
+- Recomendação
+- Plano de Recuperação e Resiliência
+- Região Autónoma da Madeira
+- Governo XXV
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/53/2022/08/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/53/2022/08/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/82/2023/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/82/2023/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/135/2022/04/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/135/2022/04/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/346-b/2023/11/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/346-b/2023/11/10/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 13/2025/M
+
+Pela aplicação do mecanismo de recuperação do valor equivalente ao imposto sobre o valor acrescentado, no âmbito dos investimentos do Plano de Recuperação e Resiliência, realizados pelas instituições particulares de solidariedade social da Região Autónoma da Madeira.
+
+Às instituições particulares de solidariedade social (IPSS) da Região Autónoma da Madeira (RAM), responsáveis pela execução de projetos no âmbito do Plano de Recuperação e Resiliência (PRR), não tem sido aplicado o mecanismo de transferência do valor equivalente ao imposto sobre o valor acrescentado (IVA), previsto no artigo 16.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, na sua redação atual e no n.º 17 do artigo 8.º da [Lei n.º 82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro, bem como na [Portaria n.º 135/2022](https://diariodarepublica.pt/dr/detalhe/portaria/135-2022-181532082), de 1 de abril, na redação conferida pela [Portaria n.º 346-B/2023](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), de 10 de novembro.
+
+A não aplicação do citado mecanismo de transferência do IVA às IPSS com sede na RAM tem provocado vários constrangimentos financeiros e de liquidez, além de consubstanciar um tratamento discriminatório que não é legalmente admissível para instituições da mesma natureza e em que a única diferença entre aquelas reside na sua localização geográfica.
+
+Neste contexto, importa afirmar que, no âmbito da legislação em vigor, estão excluídos do mecanismo de transferência do IVA os serviços e organismos da administração pública regional, mas o mesmo não se pode entender no que respeita às IPSS.
+
+Assim, não se poderá, por isso, admitir que estas instituições, que não integram e não têm dependência da administração pública regional, sejam prejudicadas por estarem localizadas numa região autónoma.
+
+Aliás, outro entendimento legal não se poderá ter, pois, com a aprovação do artigo 147.º do [Decreto-Lei n.º 53/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), de 12 de agosto, que estabeleceu as normas de execução do Orçamento do Estado para 2022, as IPSS passaram, também, a estar abrangidas pelo mecanismo de transferência do IVA, incluindo as sediadas nas Regiões Autónomas.
+
+Não é possível, portanto, que as IPSS da RAM continuem sem poder aceder à transferência do montante equivalente ao IVA, suportado no âmbito de projetos financiados pelo PRR.
+
+Este propósito tem sido, aliás, defendido pelo Governo Regional da Madeira que considera inaceitável a discriminação materializada neste setor e que tem lamentado a falta de concretização deste direito.
+
+É imperativo que o Governo Regional da Madeira e o Governo da República, que mostrou abertura para dirimir este problema, encontrem uma solução que conceda às IPSS sediadas na RAM o mesmo tratamento que é conferido às suas congéneres no demais território nacional.
+
+Efetivamente, não é admissível que seja colocada em causa a execução de projetos que são preponderantes para a Madeira e para os Madeirenses devido ao peso fiscal que se verifica pela não admissibilidade do mecanismo de transferência do IVA às IPSS que têm sede nesta Região Autónoma.
+
+Este objetivo deve ser defendido e reforçado pela Assembleia Legislativa da Região Autónoma da Madeira, casa primeira da democracia e de toda a população e a partir da qual todos os seus direitos devem ser defendidos.
+
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, resolve recomendar ao Governo da República que encontre, em conjunto com o Governo Regional da Madeira, uma solução que permita a justa aplicação do mecanismo de transferência do valor equivalente ao IVA no âmbito dos investimentos PRR realizados pelas IPSS da RAM.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de julho de 2025.
+
+**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**

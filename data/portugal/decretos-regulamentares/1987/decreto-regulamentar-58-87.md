@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:417628:por
+title: Decreto Regulamentar n.º 58/87
+short_title: null
+summary: Dá nova redacção a alguns artigos do Decreto Regulamentar n.º 24-A/86, de 30 de Julho, que aprova a estrutura e o
+  funcionamento do Instituto Nacional de Garantia Agrícola (INGA)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 58/87
+official_date: null
+publication_date: '1987-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 188/1987, Série I de 1987-08-18
+  number: '188'
+  series: I
+  supplement: null
+  pages: 3226 - 3228
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/08/18800/32263228.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '417628'
+  dre_path: /dr/detalhe/decreto-regulamentar/58-1987-417628
+  internal: pt:dre:417628:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/58-1987-417628
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/58-1987-417628
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-08-12T00:00:00Z'
+integrity:
+  source_sha256: 74d39adc0673bab780d0367f3b658ec324c366b9fac8a19b29cbc5137a6430e4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-58-417628.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:376841:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 7
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 58/87
+
+de 18 de Agosto
+
+Tendo em conta a necessidade de assegurar ao Instituto Nacional de Garantia Agrícola (INGA) condições para o adequado, rigoroso e atempado processamento das tarefas inerentes à execução da política agrícola comum nos mercados em adesão clássica;
+
+Considerando também que cabe ao INGA assegurar a execução da garantia agrícola, no domínio dos mercados em adesão por etapas, a qual, por ser de responsabilidade nacional, não poderá ser menos exigente no rigor de execução e na eficiência dos procedimentos:
+
+Impõe-se, de acordo, aliás, com a necessidade que a experiência dos primeiros meses do seu funcionamento fez transparecer, dotá-lo de uma estrutura orgânica operacional e dos meios humanos adequados.
+
+Nestes termos:
+
+Ao abrigo do artigo 5.º do [Decreto-Lei n.º 96/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1986-189342), de 13 de Maio:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os artigos a seguir indicados e as subsecções II, III, IV e VI do [Decreto Regulamentar n.º 24-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1986-520828), de 30 de Julho, passam a ter a seguinte redacção:
+
+###### Artigo 5.º — Serviços
+
+O INGA, para prossecução das suas finalidades, dispõe dos seguintes serviços:
+
+a) Direcção de Serviços Económicos;
+
+b) Direcção de Serviços Financeiros;
+
+c) Direcção de Serviços de Auditoria;
+
+d) Divisão de Apoio Técnico;
+
+e) Núcleo de Informática.
+
+##### SUBSECÇÃO II — Direcção de Serviços Económicos
+
+###### Artigo 6.º — Competência e estrutura
+
+1 - À Direcção de Serviços Económicos incumbe a realização de estudos e trabalhos necessários à prossecução das atribuições do organismo constantes das alíneas a) e b) do artigo 2.º do [Decreto-Lei n.º 96/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1986-189342).
+
+2 - Em ordem à execução das suas atribuições, a Direcção de Serviços Económicos tem a seguinte estrutura:
+
+a) Divisão de Garantia Agrícola, à qual incumbe, em geral, assegurar os trabalhos inerentes à ligação institucional aos serviços das Comunidades Europeias, bem como a análise económica e jurídica das matérias relacionadas com as políticas de garantia agrícola comunitária nacional;
+
+b) Divisão de Ajudas Comunitárias, à qual incumbe, em geral, a execução dos trabalhos no domínio da garantia agrícola nos mercados em adesão clássica;
+
+c) Divisão de Ajudas Nacionais, à qual incumbe, em geral, a execução dos trabalhos no domínio da garantia agrícola nos mercados em adesão por etapas.
+
+##### SUBSECÇÃO III — Direcção de Serviços Financeiros
+
+###### Artigo 7.º — Competência e estrutura
+
+1 - A Direcção de Serviços Financeiros é a unidade orgânica do INGA à qual incumbe assegurar os procedimentos técnico-administrativos respeitantes à gestão financeira do organismo e, bem assim, dos fundos comunitários provenientes da Secção Garantia do Fundo Europeu de Orientação e Garantia Agrícola, para além das demais actividades que lhe forem conferidas pelo presidente.
+
+2 - Em ordem à prossecução das respectivas atribuições, a Direcção de Serviços Financeiros tem a seguinte estrutura:
+
+a) Divisão de Contabilidade, à qual compete a execução e manutenção dos registos contabilísticos e de apoio à contabilidade, separando os inerentes ao FEOGA - Garantia, bem como o apuramento de contas de acordo com as normas da contabilidade pública e os regulamentos comunitários sobre a matéria;
+
+b) Divisão de Análise Financeira, à qual compete, em geral, planificar e efectuar o controle dos fluxos financeiros, nomeadamente a preparação do orçamento e controle da sua execução, bem como a determinação dos fundos a obter e o estudo das aplicações a realizar;
+
+c) Tesouraria, à qual incumbe arrecadar as receitas do INGA, efectuar o pagamento das despesas, manter à sua guarda os valores do INGA, manter devidamente escriturados os livros de tesouraria, bem como efectuar os movimentos financeiros relacionados com a Secção Garantia do Fundo Europeu de Orientação e Garantia Agrícola.
+
+##### SUBSECÇÃO IV — Direcção de Serviços de Auditoria
+
+###### Artigo 8.º — Competência e estrutura
+
+1 - À Direcção de Serviços de Auditoria incumbe, em geral, acompanhar a aplicação dos apoios financeiros concedidos por intermédio do INGA, directa ou indirectamente.
+
+2 - Em ordem à execução e prossecução das respectivas atribuições, a Direcção de Serviços de Auditoria tem a seguinte estrutura:
+
+a) Divisão de Auditoria Interna, à qual incumbe, em geral, o controle autónomo, prévio ou a posteriori de todas as operações tendentes à preparação e execução de cobranças e pagamentos pelo INGA, dos meios financeiros de origem nacional ou estrangeira, bem como o acompanhamento das realizações orçamentais e de prestação de contas a entidades nacionais ou comunitárias, tanto nos seus aspectos legais como económico-financeiros;
+
+b) Divisão de Controle Externo, à qual incumbe, em geral, o controle autónomo, prévio ou a posteriori de outras entidades públicas, nomeadamente dos organismos de intervenção, ou privadas, das contabilidades e processos de recepção, transformação, fabrico e armazenagem, de todos os bens que sejam objecto, directa ou indirectamente, de intervenção financeira do INGA, articuladamente com os controles que, em termos nacionais ou comunitários, possam ser efectuados pela Inspecção-Geral de Finanças e pelo Tribunal de Contas.
+
+##### SUBSECÇÃO VI — Divisão de Apoio Técnico
+
+###### Artigo 10.º — Competências
+
+1 - À Divisão de Apoio Técnico compete prestar ao conselho directivo todo o apoio que lhe for solicitado, elaborar estudos e pareceres e assegurar todas as acções necessárias à gestão e racionalização da utilização dos recursos humanos, dos meios patrimoniais e de um sistema de informação contendo normas comunitárias e nacionais que garantam a eficácia dos serviços do INGA.
+
+###### Artigo 31.º — Transição
+
+1 - Os funcionários pertencentes ao quadro do ex-Fundo de Abastecimento que à data da sua extinção prestavam serviço naquele organismo e bem assim os que nele se encontrassem em regime de requisição ou de comissão de serviço poderão transitar, nos termos dos artigos 5.º do [Decreto-Lei n.º 96/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1986-189342) e 8.º do [Decreto-Lei n.º 95/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1986-189341), ambos de 13 de Maio, para o quadro do INGA, sem prejuízo do disposto no [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, de acordo com as seguintes regras:
+
+a) Para categoria idêntica à que os funcionários já possuíam;
+
+b) Em categoria correspondente às funções que os funcionários desempenham, remunerada pela mesma letra de vencimento, ou imediatamente superior, na estrutura da carreira para que transitam, quando não se verificar coincidência na remuneração e sem prejuízo das habilitações legalmente exigidas, nos termos do disposto no artigo 30.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+
+2 - ...
+
+3 - ...
+
+###### Art. 2.º É revogada a subsecção VII do [Decreto Regulamentar n.º 24-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1986-520828), de 30 de Julho.
+
+###### Art. 3.º Os artigos 12.º a 32.º do [Decreto Regulamentar n.º 24-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1986-520828), de 30 de Julho, passam, respectivamente, a ter os n.os 11.º a 31.º
+
+###### Art. 4.º O quadro de pessoal do INGA passa a ser o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
+
+**Promulgado em 23 de Julho de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 29 de Julho de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+## Anexo referido no artigo 4.º
+
+Quadro de pessoal do Instituto Nacional de Garantia Agrícola
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18800/32263228.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18800/32263228.pdf)

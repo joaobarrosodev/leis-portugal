@@ -1,0 +1,535 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:228835:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-935608766",
+ "dre_path": "/dr/detalhe/decreto-lei/143-1986-228835",
+ "source_lastmod": "2025-09-18",
+ "versions": [
+  {
+   "date": "1986-06-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "935624944",
+    "935624945",
+    "935624946",
+    "935624947",
+    "935624948",
+    "935624949",
+    "935624950",
+    "935624951"
+   ]
+  },
+  {
+   "date": "1986-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:148783:por",
+     "title": "Declaração",
+     "published": "1986-09-30",
+     "dre_path": "/dr/detalhe/declaracao/1986-148783"
+    }
+   ],
+   "changes": [
+    "Retifica Modelo n.° 1"
+   ],
+   "fragments": [
+    "935624944",
+    "935624945",
+    "935624946",
+    "935624947",
+    "935624948",
+    "935624949",
+    "935624950",
+    "935624951",
+    "935624952",
+    "935456009"
+   ]
+  },
+  {
+   "date": "1990-06-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:574957:por",
+     "title": "Decreto-Lei n.º 198/90",
+     "published": "1990-06-19",
+     "dre_path": "/dr/detalhe/decreto-lei/198-1990-574957"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "935624944",
+    "935624945",
+    "935624946",
+    "935751402",
+    "935751403",
+    "935751404",
+    "935751405",
+    "935751406",
+    "935751410",
+    "935751411",
+    "935751412",
+    "935751413"
+   ]
+  },
+  {
+   "date": "1998-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176331:por",
+     "title": "Decreto-Lei n.º 108/98",
+     "published": "1998-04-24",
+     "dre_path": "/dr/detalhe/decreto-lei/108-1998-176331"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º-A"
+   ],
+   "fragments": [
+    "935624944",
+    "935624945",
+    "935624946",
+    "935751402",
+    "935751417",
+    "935751404",
+    "935751405",
+    "935751406",
+    "935751410",
+    "935751411",
+    "935751412",
+    "935751413"
+   ]
+  },
+  {
+   "date": "2001-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:212013:por",
+     "title": "Lei n.º 30-C/2000",
+     "published": "2000-12-29",
+     "dre_path": "/dr/detalhe/lei/30-c-2000-212013"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "935624944",
+    "935624945",
+    "935624946",
+    "935918641",
+    "935751417",
+    "935751404",
+    "935751405",
+    "935751406",
+    "935751410",
+    "935751411",
+    "935751412",
+    "935751413"
+   ]
+  },
+  {
+   "date": "2001-11-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570099:por",
+     "title": "Decreto-Lei n.º 296/2001",
+     "published": "2001-11-21",
+     "dre_path": "/dr/detalhe/decreto-lei/296-2001-570099"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º-A"
+   ],
+   "fragments": [
+    "935624944",
+    "935624945",
+    "935918648",
+    "935918641",
+    "935918649",
+    "935751404",
+    "935751405",
+    "935751406",
+    "935751410",
+    "935751411",
+    "935751412",
+    "935751413"
+   ]
+  },
+  {
+   "date": "2005-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:689420:por",
+     "title": "Lei n.º 55-B/2004",
+     "published": "2004-12-30",
+     "dre_path": "/dr/detalhe/lei/55-b-2004-689420"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "935624944",
+    "935624945",
+    "935918648",
+    "935918650",
+    "935918649",
+    "935751404",
+    "935751405",
+    "935751406",
+    "935751410",
+    "935751411",
+    "935751412",
+    "935751413"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:552372:por",
+     "title": "Decreto-Lei n.º 238/2006",
+     "published": "2006-12-20",
+     "dre_path": "/dr/detalhe/decreto-lei/238-2006-552372"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º-A"
+   ],
+   "fragments": [
+    "935624944",
+    "935624945",
+    "935918648",
+    "935918650",
+    "935918649",
+    "936372357",
+    "936372358",
+    "935751406",
+    "936372359",
+    "935751411",
+    "935751412",
+    "935751413"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º-A",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "935624944",
+    "935624945",
+    "935918648",
+    "935918650",
+    "936402963",
+    "936372357",
+    "936372358",
+    "936402964",
+    "936372359",
+    "935751411",
+    "935751412",
+    "935751413"
+   ]
+  }
+ ],
+ "fragments": {
+  "935624944": {
+   "fragment_id": "935608767",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 143/86\n\nde 16 de Junho\n\nNos termos da alínea j) do n.º 1 do artigo 14.º do Código do Imposto sobre o Valor Acrescentado, estabelecem-se com o presente diploma os benefícios a conceder em matéria daquele imposto às representações diplomáticas e consulares e ao seu pessoal não nacional.\n\nEmbora as convenções de Viena sobre relações diplomáticas e consulares não delimitem com rigor o âmbito das isenções a conceder em matéria de impostos sobre as transacções, é prática geralmente seguida nos países membros da Comunidade Económica Europeia a concessão de isenções em matéria de IVA, umas vezes atribuídas previamente, outras vezes pela técnica da restituição do imposto.\n\nNo presente diploma prevê-se, em termos amplos, a restituição do IVA suportado pelas embaixadas e consulados e, em termos mais restritos, do IVA suportado pelos seus funcionários não nacionais.\n\nO direito à restituição estende-se às organizações internacionais e ao seu pessoal, sediados em Portugal, que gozem do estatuto de imunidade diplomática. São excluídos os cônsules honorários e o pessoal das embaixadas e consulados de nacionalidade portuguesa, bem como os funcionários não nacionais que, além do serviço diplomático ou consular, exerçam outra actividade remunerada. Em todos os casos, a restituição é limitada às aquisições de bens e serviços de valor superior a 20000$00, nele incluído o próprio IVA.\n\nO direito à restituição do imposto é limitado pela existência de condições de reciprocidade entre Portugal e o país a que pertence a respectiva representação diplomática ou consular.\n\nDe acordo com o disposto na alínea j) do n.º 1 do artigo 14.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, e tendo em conta os artigos 23.º, 34.º e 37.º da Convenção de Viena, de 18 de Abril de 1961, sobre Relações Diplomáticas, ratificada pelo Decreto-Lei n.º 48295, de 27 de Março de 1968, e o artigo 49.º da Convenção de Viena, de 24 de Abril de 1963, sobre Relações Consulares, ratificada pelo Decreto-Lei n.º 183/72, de 30 de Maio, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "935624945": {
+   "fragment_id": "935608768",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O Serviço de Administração do IVA procederá à restituição do imposto sobre o valor acrescentado contido nas aquisições no mercado interno de bens e serviços das representações diplomáticas e consulares e do seu pessoal, nas condições estabelecidas no presente diploma.\n\n2 - Será restituído em condições idênticas o imposto sobre o valor acrescentado respeitante às aquisições de bens e serviços das organizações internacionais e do seu pessoal que gozem de estatuto de imunidade diplomática."
+  },
+  "935624946": {
+   "fragment_id": "935608769",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nTêm direito à restituição do imposto as representações diplomáticas e consulares e o seu pessoal que em Portugal não exerça outra actividade profissional remunerada, com excepção dos cônsules honorários e dos funcionários de nacionalidade portuguesa."
+  },
+  "935624947": {
+   "fragment_id": "935608770",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Não será restituído o imposto relativo às aquisições dos bens e serviços a seguir indicados, quando adquiridos para uso pessoal:\n\na) Trabalhos imobiliários;\n\nb) Águas, gás e electricidade;\n\nc) Bens alimentares, incluindo bebidas;\n\nd) Serviços de alimentação e bebidas;\n\ne) Serviços de alojamento;\n\nf) Serviços de telefone nas residências dos respectivos utentes.\n\n2 - Poderá ser negado o direito à restituição quando os bens ou serviços a que se refere o imposto a restituir excedam manifestamente as necessidades do consumo das representações diplomáticas ou consulares ou do agregado familiar dos respectivos funcionários.\n\n3 - Poderá ainda ser negado o direito à restituição quando haja razões fundadas para crer que os bens ou serviços a que se refere o imposto a restituir não se destinam a consumo próprio.\n\n4 - Não se procederá à restituição do imposto contido em factura ou documento equivalente de valor unitário inferior a 20000$00, nele incluído o próprio IVA.\n\n5 - A restituição do imposto poderá ser limitada pela existência de condições de reciprocidade de isenção entre Portugal e o país a que pertence a respectiva representação diplomática ou consular."
+  },
+  "935624948": {
+   "fragment_id": "935608771",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O pedido de restituição, dirigido ao director-geral das Contribuições e Impostos, será efectuado em impresso próprio, do modelo anexo ao presente diploma, isento de selo, e será remetido pelo correio ao Serviço de Administração do IVA, acompanhado dos originais das respectivas facturas ou documentos equivalentes que, para o efeito, serão passados nos termos dos artigos 35.º e 38.º do Código do Imposto sobre o Valor Acrescentado.\n\n2 - O pedido de restituição só poderá ser efectuado dentro do prazo de um ano a contar da data da factura ou documento equivalente que documenta a aquisição dos bens ou serviços.\n\n3 - Se efectuado por membros ou funcionários das representações diplomáticas ou consulares, o pedido de restituição será visado e autenticado pelo chefe da respectiva representação.\n\n4 - No pedido de restituição, as representações diplomáticas ou consulares ou os seus funcionários deverão indicar o seu número de identificação fiscal quando legalmente exigível e os dados da sua conta bancária destinada ao crédito dos montantes restituídos, cujo número e demais elementos de identificação serão confirmados pela respectiva instituição de crédito no primeiro pedido em que forem indicados."
+  },
+  "935624949": {
+   "fragment_id": "935608772",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O Serviço de Administração do IVA consultará o Protocolo do Estado sempre que se ofereçam dúvidas sobre a idoneidade do pedido, a qualidade do peticionário ou a existência de condições de reciprocidade, e fá-lo-á obrigatoriamente nas hipóteses contidas nos n.os 2 e 3 do artigo 3.º\n\n2 - Os originais das facturas ou documentos equivalentes apresentados com o pedido de restituição deverão ser devolvidos no prazo de 30 dias."
+  },
+  "935624950": {
+   "fragment_id": "935608773",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nDeferido o pedido, o Serviço de Administração do IVA creditará na conta bancária do peticionário o montante da restituição e comunicará o facto ao requerente."
+  },
+  "935624951": {
+   "fragment_id": "935608774",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO disposto no presente diploma aplicar-se-á às aquisições de bens e serviços efectuadas a partir da entrada em vigor do Código do Imposto sobre o Valor Acrescentado."
+  },
+  "935624952": {
+   "fragment_id": "935627875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Vítor Ângelo Mendes da Costa Martins.\n\nPromulgado em 15 de Maio de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 21 de Maio de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "935456009": {
+   "fragment_id": "935627876",
+   "type": 14,
+   "heading": "Modelo n.° 1",
+   "in_force_from": "1986-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 225/1986, 2º Suplemento, Série I de 1986-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-148783), em vigor a partir de 1986-09-30"
+   ],
+   "markdown": "## Modelo n.° 1\n\n(artigo 4.° do Decreto-Lei n.° 143/86, de 16 de Junho)\n\n(ver documento original)\n\n> Nota: [Declaração - Diário da República n.º 225/1986, 2º Suplemento, Série I de 1986-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-148783) Onde se lê: «Exmo. Sr. Director-Geral das Contribuições e Impostos: [...] alínea j) do artigo 41.º do Código» deve ler-se: «Exmo. Sr. Director-Geral das Contribuições e Impostos: [...] alínea j) do artigo 14.º do Código».\n\n> Retificado pelo/a [Declaração - Diário da República n.º 225/1986, 2º Suplemento, Série I de 1986-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-148783), em vigor a partir de 1986-09-30"
+  },
+  "935751402": {
+   "fragment_id": "935608770",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1990-06-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Não será restituído o imposto relativo às aquisições dos bens e serviços a seguir indicados, quando adquiridos para uso pessoal:\n\na) Trabalhos imobiliários;\n\nb) Águas, gás e electricidade;\n\nc) Bens alimentares, incluindo bebidas;\n\nd) Serviços de alimentação e bebidas;\n\ne) Serviços de alojamento;\n\nf) Serviços de telefone nas residências dos respectivos utentes.\n\n2 - Poderá ser negado o direito à restituição quando os bens ou serviços a que se refere o imposto a restituir excedam manifestamente as necessidades do consumo das representações diplomáticas ou consulares ou do agregado familiar dos respectivos funcionários.\n\n3 - Poderá ainda ser negado o direito à restituição quando haja razões fundadas para crer que os bens ou serviços a que se refere o imposto a restituir não se destinam a consumo próprio.\n\n4 - Não se procederá à restituição do imposto contido em factura ou documento equivalente de valor unitário inferior a 20000$00, nele incluído o próprio IVA, apenas se considerando para aquele limite o valor dos bens sujeitos a imposto.\n\n5 - A restituição do imposto poderá ser limitada pela existência de condições de reciprocidade de isenção entre Portugal e o país a que pertence a respectiva representação diplomática ou consular.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+  },
+  "935751403": {
+   "fragment_id": "935752334",
+   "type": 11,
+   "heading": "Artigo 3.º-A",
+   "in_force_from": "1990-06-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+   ],
+   "markdown": "###### Artigo 3.º-A\n\n1 - A restituição do imposto respeitante a automóveis será restrita a uma única viatura para cada representação diplomática ou agregado familiar.\n\n2 - Se os proprietários dos veículos automóveis cujo imposto foi restituído pretenderem proceder à sua alienação antes de decorridos cinco anos sobre a data de aquisição, deverão solicitar na repartição de finanças da área da representação diplomática a que pertencem a liquidação do IVA correspondente ao preço de venda, que não poderá ser inferior ao que resulta da aplicação ao preço de veículo novo à data de venda, com exclusão do IVA, das percentagens seguintes:\n\n(ver documento original)\n\n3 - Nos casos de falecimento do proprietário do veículo e de acidente grave ou de furto de que resulte a impossibilidade de recuperçaão da viatura, o Ministro das Finanças, sob proposta do Ministro dos Negócios Estrangeiros, poderá dispensar o pagamento do IVA previsto no número anterior.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+  },
+  "935751404": {
+   "fragment_id": "935608771",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O pedido de restituição, dirigido ao director-geral das Contribuições e Impostos, será efectuado em impresso próprio, do modelo anexo ao presente diploma, isento de selo, e será remetido pelo correio ao Serviço de Administração do IVA, acompanhado dos originais das respectivas facturas ou documentos equivalentes que, para o efeito, serão passados nos termos dos artigos 35.º e 38.º do Código do Imposto sobre o Valor Acrescentado.\n\n2 - O pedido de restituição só poderá ser efectuado dentro do prazo de um ano a contar da data da factura ou documento equivalente que documenta a aquisição dos bens ou serviços.\n\n3 - Se efectuado por membros ou funcionários das representações diplomáticas ou consulares, o pedido de restituição será visado e autenticado pelo chefe da respectiva representação.\n\n4 - No pedido de restituição, as representações diplomáticas ou consulares ou os seus funcionários deverão indicar o seu número de identificação fiscal quando legalmente exigível e os dados da sua conta bancária destinada ao crédito dos montantes restituídos, cujo número e demais elementos de identificação serão confirmados pela respectiva instituição de crédito no primeiro pedido em que forem indicados."
+  },
+  "935751405": {
+   "fragment_id": "935608772",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O Serviço de Administração do IVA consultará o Protocolo do Estado sempre que se ofereçam dúvidas sobre a idoneidade do pedido, a qualidade do peticionário ou a existência de condições de reciprocidade, e fá-lo-á obrigatoriamente nas hipóteses contidas nos n.os 2 e 3 do artigo 3.º\n\n2 - Os originais das facturas ou documentos equivalentes apresentados com o pedido de restituição deverão ser devolvidos no prazo de 30 dias."
+  },
+  "935751406": {
+   "fragment_id": "935608773",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nDeferido o pedido, o Serviço de Administração do IVA creditará na conta bancária do peticionário o montante da restituição e comunicará o facto ao requerente."
+  },
+  "935751410": {
+   "fragment_id": "935752335",
+   "type": 11,
+   "heading": "Artigo 6.º-A",
+   "in_force_from": "1990-06-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+   ],
+   "markdown": "###### Artigo 6.º-A\n\n1 - O imposto indevidamente restituído ou restituído em excesso será deduzido em futuros pedidos, até à concorrência dos respectivos montantes.\n\n2 - À dedução referida no número anterior é aplicável o disposto no artigo 87.º-A do Código do IVA.\n\n3 - Decorridos mais de 90 dias sobre a restituição indevida ou em excesso sem que possa ter aplicação o determinado no n.º 1, efectuar-se-á liquidação adicional pela importância devida, através da repartição de finanças da área da sede da representação diplomática.\n\n4 - Enquanto não estiverem pagas as liquidações efectuadas nos termos do número anterior, não se procederá a qualquer restituição de imposto à mesma entidade.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+  },
+  "935751411": {
+   "fragment_id": "935608774",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO disposto no presente diploma aplicar-se-á às aquisições de bens e serviços efectuadas a partir da entrada em vigor do Código do Imposto sobre o Valor Acrescentado."
+  },
+  "935751412": {
+   "fragment_id": "935627875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Vítor Ângelo Mendes da Costa Martins.\n\nPromulgado em 15 de Maio de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 21 de Maio de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "935751413": {
+   "fragment_id": "935627876",
+   "type": 14,
+   "heading": "Modelo n.° 1",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 225/1986, 2º Suplemento, Série I de 1986-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-148783), em vigor a partir de 1986-09-30"
+   ],
+   "markdown": "## Modelo n.° 1\n\n(artigo 4.° do Decreto-Lei n.° 143/86, de 16 de Junho)\n\n(ver documento original)\n\n> Nota: [Declaração - Diário da República n.º 225/1986, 2º Suplemento, Série I de 1986-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-148783) Onde se lê: «Exmo. Sr. Director-Geral das Contribuições e Impostos: [...] alínea j) do artigo 41.º do Código» deve ler-se: «Exmo. Sr. Director-Geral das Contribuições e Impostos: [...] alínea j) do artigo 14.º do Código».\n\n> Retificado pelo/a [Declaração - Diário da República n.º 225/1986, 2º Suplemento, Série I de 1986-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-148783), em vigor a partir de 1986-09-30"
+  },
+  "935751417": {
+   "fragment_id": "935752334",
+   "type": 11,
+   "heading": "Artigo 3.º-A",
+   "in_force_from": "1998-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 108/98 - Diário da República n.º 96/1998, Série I-A de 1998-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1998-176331), em vigor a partir de 1998-04-29",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+   ],
+   "markdown": "###### Artigo 3.º-A\n\n1 - O direito à restituição do imposto pela aquisição de automóveis no mercado interno será concedido até ao limite de três viaturas para cada representação diplomática ou agregado familiar.\n\n2 - Se os proprietários dos veículos automóveis cujo imposto foi restituído pretenderem proceder à sua alienação antes de decorridos cinco anos sobre a data de aquisição, deverão solicitar na repartição de finanças da área da representação diplomática a que pertencem a liquidação do IVA correspondente ao preço de venda, que não poderá ser inferior ao que resulta da aplicação ao preço de veículo novo à data de venda, com exclusão do IVA, das percentagens seguintes:\n\n(ver documento original)\n\n3 - Nos casos de falecimento do proprietário do veículo e de acidente grave ou de furto de que resulte a impossibilidade de recuperçaão da viatura, o Ministro das Finanças, sob proposta do Ministro dos Negócios Estrangeiros, poderá dispensar o pagamento do IVA previsto no número anterior.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 108/98 - Diário da República n.º 96/1998, Série I-A de 1998-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1998-176331), em vigor a partir de 1998-04-29\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+  },
+  "935918641": {
+   "fragment_id": "935608770",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2001-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Lei n.º 30-C/2000 - Diário da República n.º 299/2000, 2º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), em vigor a partir de 2001-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Não será restituído o imposto relativo às aquisições dos bens e serviços a seguir indicados, quando adquiridos para uso pessoal:\n\na) Trabalhos imobiliários, incluindo os materiais, ainda que fornecidos pelo dono da obra para o efeito;\n\nb) Águas, gás e electricidade;\n\nc) Bens alimentares, incluindo bebidas;\n\nd) Serviços de alimentação e bebidas;\n\ne) Serviços de alojamento;\n\nf) Serviços de telefone nas residências dos respectivos utentes.\n\n2 - Poderá ser negado o direito à restituição quando os bens ou serviços a que se refere o imposto a restituir excedam manifestamente as necessidades do consumo das representações diplomáticas ou consulares ou do agregado familiar dos respectivos funcionários.\n\n3 - Poderá ainda ser negado o direito à restituição quando haja razões fundadas para crer que os bens ou serviços a que se refere o imposto a restituir não se destinam a consumo próprio.\n\n4 - Não se procederá à restituição do imposto contido em factura ou documento equivalente de valor unitário inferior a 20000$00, nele incluído o próprio IVA, apenas se considerando para aquele limite o valor dos bens sujeitos a imposto.\n\n5 - A restituição do imposto poderá ser limitada pela existência de condições de reciprocidade de isenção entre Portugal e o país a que pertence a respectiva representação diplomática ou consular.\n\n> Alterado pelo/a Artigo 35.º do/a [Lei n.º 30-C/2000 - Diário da República n.º 299/2000, 2º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), em vigor a partir de 2001-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+  },
+  "935918648": {
+   "fragment_id": "935608769",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2001-11-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 296/2001 - Diário da República n.º 270/2001, Série I-A de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2001-570099), em vigor a partir de 2001-11-26"
+   ],
+   "markdown": "###### Artigo 2.º\n\nTêm direito à restituição do imposto e à isenção regulada no n.º 1 do artigo 3.º-A as representações diplomáticas e consulares e o seu pessoal que em Portugal não exerça outra actividade profissional remunerada, com excepção dos cônsules honorários e dos funcionários de nacionalidade portuguesa.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 296/2001 - Diário da República n.º 270/2001, Série I-A de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2001-570099), em vigor a partir de 2001-11-26"
+  },
+  "935918649": {
+   "fragment_id": "935752334",
+   "type": 11,
+   "heading": "Artigo 3.º-A",
+   "in_force_from": "2001-11-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 296/2001 - Diário da República n.º 270/2001, Série I-A de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2001-570099), em vigor a partir de 2001-11-26",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 108/98 - Diário da República n.º 96/1998, Série I-A de 1998-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1998-176331), em vigor a partir de 1998-04-29",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+   ],
+   "markdown": "###### Artigo 3.º-A\n\n1 - No caso de veículos automóveis, independentemente de estarem em causa aquisições no mercado nacional, aquisições intracomunitárias ou importações, a isenção de imposto será concedida até aos seguintes limites:\n\na) Para cada missão diplomática ou consular de carreira, os veículos automóveis necessários ao seu serviço oficial, de acordo com critérios de razoabilidade definidos pelo Ministério dos Negócios Estrangeiros;\n\nb) Até três veículos automóveis, para os chefes de missão diplomática;\n\nc) Um veículo automóvel, para cada um dos demais funcionários constantes da lista do corpo diplomático, ou até dois veículos automóveis, no caso de funcionário casado ou com família a seu cargo;\n\nd) Um veículo automóvel, para os cônsules de carreira, ou até dois veículos automóveis, no caso de funcionário casado ou com família a seu cargo;\n\ne) Um veículo automóvel, para os funcionários administrativos e técnicos de carreira que não tenham em Portugal a sua residência permanente, o qual deverá ser adquirido ou importado no prazo máximo de seis meses após a data da sua chegada.\n\n2 - Se os proprietários dos veículos automóveis abrangidos pelo benefício estabelecido no número anterior pretenderem proceder à sua alienação antes de decorridos cinco anos sobre a data de aquisição ou importação, deverão solicitar no serviço de finanças da área da representação diplomática a que pertencem a liquidação do IVA correspondente ao preço de venda, que não poderá ser inferior ao que resulta da aplicação ao preço de veículo novo à data de venda, com exclusão do IVA, das percentagens seguintes:\n\n(ver quadro no documento original)\n\n3 - Não obstante o disposto no número anterior, os proprietários dos veículos automóveis deverão pagar o IVA devido pela alienação de veículos sujeitos a imposto automóvel junto das entidades competentes para a cobrança deste imposto.\n\n4 - Nos casos de falecimento do proprietário do veículo, de furto e de acidente de que resulte a impossibilidade de recuperação da viatura, o Ministro das Finanças, sob proposta do Ministro dos Negócios Estrangeiros, poderá dispensar o pagamento do IVA previsto no n.º 2.\n\n5 - O disposto nos n.os 1 e 2 poderá ser condicionado à verificação de condições de reciprocidade entre Portugal e o país a que pertence a respectiva representação diplomática ou consular.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 296/2001 - Diário da República n.º 270/2001, Série I-A de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2001-570099), em vigor a partir de 2001-11-26\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 108/98 - Diário da República n.º 96/1998, Série I-A de 1998-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1998-176331), em vigor a partir de 1998-04-29\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+  },
+  "935918650": {
+   "fragment_id": "935608770",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2005-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 30.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Lei n.º 30-C/2000 - Diário da República n.º 299/2000, 2º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), em vigor a partir de 2001-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Não será restituído o imposto relativo às aquisições dos bens e serviços a seguir indicados, quando adquiridos para uso pessoal:\n\na) Trabalhos imobiliários, incluindo os materiais, ainda que fornecidos pelo dono da obra para o efeito;\n\nb) Águas, gás e electricidade;\n\nc) Bens alimentares, incluindo bebidas;\n\nd) Serviços de alimentação e bebidas;\n\ne) Serviços de alojamento;\n\nf) Serviços de telefone nas residências dos respectivos utentes.\n\n2 - Poderá ser negado o direito à restituição quando os bens ou serviços a que se refere o imposto a restituir excedam manifestamente as necessidades do consumo das representações diplomáticas ou consulares ou do agregado familiar dos respectivos funcionários.\n\n3 - Poderá ainda ser negado o direito à restituição quando haja razões fundadas para crer que os bens ou serviços a que se refere o imposto a restituir não se destinam a consumo próprio.\n\n4 - Não se procede à restituição do imposto contido em factura ou documento equivalente de valor unitário inferior a (euro) 270, nele incluído o próprio IVA, apenas se considerando para aquele limite o valor dos bens sujeitos a imposto.\n\n5 - A restituição do imposto poderá ser limitada pela existência de condições de reciprocidade de isenção entre Portugal e o país a que pertence a respectiva representação diplomática ou consular.\n\n> Alterado pelo/a Artigo 30.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Lei n.º 30-C/2000 - Diário da República n.º 299/2000, 2º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), em vigor a partir de 2001-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+  },
+  "936372357": {
+   "fragment_id": "935608771",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01, produz efeitos a partir de 2007-07-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Os pedidos de restituição, acompanhados de relação de modelo oficial da qual constem os elementos identificativos das facturas ou documentos equivalentes, processados nos termos dos artigos 35.º e 38.º do Código do Imposto sobre o Valor Acrescentado, são remetidos à Direcção-Geral dos Impostos por transmissão electrónica de dados.\n\n2 - O pedido de restituição só poderá ser efectuado dentro do prazo de um ano a contar da data da factura ou documento equivalente que documenta a aquisição dos bens ou serviços.\n\n3 - Quando o pedido de restituição seja relativo a membros ou funcionários das representações diplomáticas ou consulares, apenas é considerado válido se submetido pela respectiva representação.\n\n4 - No pedido de restituição, as representações diplomáticas ou consulares ou os seus funcionários devem indicar o seu número de identificação fiscal quando legalmente exigível e os dados da sua conta bancária destinada ao crédito dos montantes restituídos, cujo número e demais elementos de identificação são confirmados pela respectiva instituição de crédito no primeiro pedido em que sejam indicados.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01, produz efeitos a partir de 2007-07-01"
+  },
+  "936372358": {
+   "fragment_id": "935608772",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - A Direcção de Serviços de Reembolsos consulta o Protocolo do Estado sempre que se ofereçam dúvidas sobre a idoneidade do pedido, a qualidade do peticionário ou a existência de condições de reciprocidade, e fá-lo-á obrigatoriamente nas hipóteses contidas nos n.os 2 e 3 do artigo 3.º\n\n2 - A Direcção de Serviços de Reembolsos pode solicitar quaisquer outras informações para apreciação do pedido de reembolso, incluindo a apresentação dos originais dos documentos constantes da relação que acompanha o pedido, bem como a verificação dos condicionalismos previstos neste decreto-lei, designadamente os estabelecidos no seu artigo 3.º\n\n3 - Os originais dos documentos referidos no número anterior devem ser mantidos em arquivo pelo prazo de quatro anos.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01"
+  },
+  "936372359": {
+   "fragment_id": "935752335",
+   "type": 11,
+   "heading": "Artigo 6.º-A",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+   ],
+   "markdown": "###### Artigo 6.º-A\n\n1 - O imposto indevidamente restituído ou restituído em excesso será deduzido em futuros pedidos, até à concorrência dos respectivos montantes.\n\n2 - À dedução referida no número anterior é aplicável o disposto no artigo 87.º-A do Código do IVA.\n\n3 - Decorridos mais de 90 dias sobre a restituição indevida ou em excesso sem que possa ter aplicação o determinado no n.º 1, efectua-se a liquidação adicional pela importância devida.\n\n4 - Enquanto não estiverem pagas as liquidações efectuadas nos termos do número anterior, não se procederá a qualquer restituição de imposto à mesma entidade.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+  },
+  "936402963": {
+   "fragment_id": "935752334",
+   "type": 11,
+   "heading": "Artigo 3.º-A",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 203.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 296/2001 - Diário da República n.º 270/2001, Série I-A de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2001-570099), em vigor a partir de 2001-11-26",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 108/98 - Diário da República n.º 96/1998, Série I-A de 1998-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1998-176331), em vigor a partir de 1998-04-29",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+   ],
+   "markdown": "###### Artigo 3.º-A\n\n1 - No caso de veículos automóveis, independentemente de estarem em causa aquisições no mercado nacional, aquisições intracomunitárias ou importações, a isenção de imposto será concedida até aos seguintes limites:\n\na) Para cada missão diplomática ou consular de carreira, os veículos automóveis necessários ao seu serviço oficial, de acordo com critérios de razoabilidade definidos pelo Ministério dos Negócios Estrangeiros;\n\nb) Até três veículos automóveis, para os chefes de missão diplomática;\n\nc) Um veículo automóvel, para cada um dos demais funcionários constantes da lista do corpo diplomático, ou até dois veículos automóveis, no caso de funcionário casado, a viver em união de facto ou com família a seu cargo;\n\nd) Um veículo automóvel, para os cônsules de carreira, ou até dois veículos automóveis, no caso de funcionário casado, a viver em união de facto ou com família a seu cargo;\n\ne) Um veículo automóvel, para os funcionários administrativos e técnicos de carreira que não tenham em Portugal a sua residência permanente, o qual deverá ser adquirido ou importado no prazo máximo de seis meses após a data da sua chegada.\n\n2 - Se os proprietários dos veículos automóveis abrangidos pelo benefício estabelecido no número anterior pretenderem proceder à sua alienação antes de decorridos cinco anos sobre a data de aquisição ou importação, deverão solicitar no serviço de finanças da área da representação diplomática a que pertencem a liquidação do IVA correspondente ao preço de venda, que não poderá ser inferior ao que resulta da aplicação ao preço de veículo novo à data de venda, com exclusão do IVA, das percentagens seguintes:\n\n(ver quadro no documento original)\n\n3 - Caso a introdução no consumo dos veículos automóveis a que se refere o número anterior fique igualmente sujeita a imposto sobre veículos, os proprietários devem pagar o IVA junto das entidades competentes para a cobrança daquele imposto.\n\n4 - Nos casos de falecimento do proprietário do veículo, de furto e de acidente de que resulte a impossibilidade de recuperação da viatura, o Ministro das Finanças, sob proposta do Ministro dos Negócios Estrangeiros, poderá dispensar o pagamento do IVA previsto no n.º 2.\n\n5 - O disposto nos n.os 1 e 2 poderá ser condicionado à verificação de condições de reciprocidade entre Portugal e o país a que pertence a respectiva representação diplomática ou consular.\n\n> Alterado pelo/a Artigo 203.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 296/2001 - Diário da República n.º 270/2001, Série I-A de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2001-570099), em vigor a partir de 2001-11-26\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 108/98 - Diário da República n.º 96/1998, Série I-A de 1998-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1998-176331), em vigor a partir de 1998-04-29\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/90 - Diário da República n.º 139/1990, Série I de 1990-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), em vigor a partir de 1990-06-24"
+  },
+  "936402964": {
+   "fragment_id": "935608773",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 203.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\nDeferido o pedido, a Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. (IGCP), por ordem da Direção de Serviços de Reembolsos, procede ao pagamento da restituição do IVA por transferência bancária, para a conta indicada, válida e vigente em qualquer instituição de crédito localizada em território nacional ou em outro Estado-Membro da União Europeia ou no Espaço Económico Europeu.\n\n> Alterado pelo/a Artigo 203.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  }
+ }
+}

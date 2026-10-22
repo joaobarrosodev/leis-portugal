@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:166776:por
+title: Portaria n.º 102/2003
+short_title: null
+summary: Altera a Portaria n.º 951/99, de 29 de Outubro, que define os títulos de transporte que as empresas de transporte
+  público colectivo de passageiros devem praticar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, da Economia e das Obras Públicas, Transportes e Habitação
+proposing_entity: null
+official_number: 102/2003
+official_date: null
+publication_date: '2003-01-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/2003, Série I-B de 2003-01-27
+  number: '22'
+  series: I
+  supplement: null
+  pages: 562 - 562
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/01/022b00/05620562.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/102/2003/01/27/p/dre/pt/html
+  oj: null
+  dre: '166776'
+  dre_path: /dr/detalhe/portaria/102-2003-166776
+  internal: pt:dre:166776:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/102-2003-166776
+  metadata_url: https://data.dre.pt/eli/port/102/2003/01/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/102-2003-166776
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-11-19T00:00:00Z'
+integrity:
+  source_sha256: 80c3dfc595414206891cffd21e61cee63ae59cd88b862f3fb6d466217afd9b8c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-102-166776.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Transporte de Passageiros
+- Transporte Fluvial
+- Transporte Público
+- Transporte Urbano
+relationships:
+- type: amended_by
+  target: pt:dre:117008017:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/8/1993/01/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/8/1993/01/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/50/1994/01/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/50/1994/01/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/951/1999/10/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/951/1999/10/29/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 102/2003
+
+de 27 de Janeiro
+
+A [Portaria n.º 951/99](https://diariodarepublica.pt/dr/detalhe/portaria/951-1999-692178), de 29 de Outubro, que regulamenta o [Decreto-Lei n.º 8/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1993-469604), de 11 de Janeiro, no que respeita às normas tarifárias, estabelece que os operadores de transporte público colectivo de passageiros devem dispor de títulos de transporte próprios, para além de prever a possibilidade de serem criados outros títulos de transporte.
+
+Considerando que a criação de sistemas de transporte integrados e multimodais implica que as normas tarifárias sejam adequadas à multimodalidade e mais flexíveis por forma a promover a integração tarifária, a presente portaria vem permitir que as empresas que celebrem acordos para a criação de títulos combinados sejam dispensadas, em certos casos, da comercialização de títulos próprios.
+
+Ao mesmo tempo é acrescentada uma disposição sobre a validade dos bilhetes pré-comprados na transição de revisões tarifárias, desfazendo dúvidas que resultam da omissão normativa sobre esta matéria.
+
+Assim:
+
+Ao abrigo do disposto na alínea a) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 8/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1993-469604), de 11 de Janeiro, manda o Governo, pelos Ministros de Estado e das Finanças, da Economia e das Obras Públicas, Transportes e Habitação, o seguinte:
+
+1.º Os n.os 1.º e 5.º da [Portaria n.º 951/99](https://diariodarepublica.pt/dr/detalhe/portaria/951-1999-692178), de 29 de Outubro, passam a ter a seguinte redacção:
+
+«1.º - 1 - As empresas de transporte público colectivo de passageiros devem emitir e comercializar títulos de transporte próprios, sob a forma de bilhetes simples e passes mensais.
+
+2 - Podem ser dispensados os títulos próprios sempre que duas ou mais empresas celebrem acordo escrito que estabeleça títulos combinados ou intermodais (simples e passes).
+
+3 - Sempre que, nos termos do acordo referido no número anterior, alguma das empresas opte por prescindir dos títulos próprios, essa menção deve constar expressamente do mesmo.
+
+5.º - 1 - Os bilhetes simples, pré-comprados, quando adquiridos na vigência de determinados preços, continuam válidos por um período suplementar de 15 dias para além da data de entrada em vigor de nova revisão tarifária.
+
+2 - O valor dos bilhetes pré-comprados referidos no ponto anterior é descontado na aquisição de outros emitidos de acordo com os novos preços durante um período de 30 dias a contar da data de entrada em vigor dos novos preços.»
+
+2.º Os n.os 5.º, 6.º e 7.º da [Portaria n.º 951/99](https://diariodarepublica.pt/dr/detalhe/portaria/951-1999-692178), de 29 de Outubro, passam a n.os 6.º, 7.º e 8.º, respectivamente.
+
+3.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+4.º A [Portaria n.º 951/99](https://diariodarepublica.pt/dr/detalhe/portaria/951-1999-692178), de 29 de Outubro, é republicada em anexo com as alterações introduzidas pelo presente diploma.
+
+Em 2 de Janeiro de 2003.
+
+Pela Ministra de Estado e das Finanças, Miguel Jorge Reis Antunes Frasquilho, Secretário de Estado do Tesouro e Finanças. - Pelo Ministro da Economia, Maria do Rosário Mayoral Robles Machado Simões Ventura, Secretária de Estado da Indústria, Comércio e Serviços. - Pelo Ministro das Obras Públicas, Transportes e Habitação, Francisco Manuel Rodrigues de Seabra Ferreira, Secretário de Estado dos Transportes.
+
+## ANEXO — [Portaria n.º 951/99](https://diariodarepublica.pt/dr/detalhe/portaria/951-1999-692178), de 29 de Outubro
+
+(nova versão)
+
+1.º - 1 - As empresas de transporte público colectivo de passageiros devem emitir e comercializar títulos de transporte próprios, sob a forma de bilhetes simples e passes mensais.
+
+2 - Podem ser dispensados os títulos próprios sempre que duas ou mais empresas celebrem acordo escrito que estabeleça títulos combinados ou intermodais (simples e passes).
+
+3 - Sempre que, nos termos do acordo referido no número anterior, alguma das empresas opte por prescindir dos títulos próprios, essa menção deve constar expressamente do mesmo.
+
+2.º Os passes mensais podem ser de linha ou de rede e válidos para um número limitado ou ilimitado de viagens.
+
+3.º Nos transportes rodoviários interurbanos de passageiros, quando for praticada a modalidade de passe válido para um número limitado de viagens, deve existir sempre um passe válido para 44 viagens.
+
+4.º Para além dos títulos referidos no n.º 1.º do presente diploma, as empresas podem criar outros títulos de transporte, mediante publicitação e comunicação à Direcção-Geral de Transportes Terrestres (DGTT), nos termos e prazos previstos nos artigos 5.º e 6.º do [Decreto-Lei n.º 8/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1993-469604), de 11 de Janeiro.
+
+5.º - 1 - Os bilhetes simples, pré-comprados, quando adquiridos na vigência de determinados preços, continuam válidos por um período suplementar de 15 dias para além da data de entrada em vigor de nova revisão tarifária.
+
+2 - O valor dos bilhetes pré-comprados referidos no ponto anterior é descontado na aquisição de outros emitidos de acordo com os novos preços durante um período de 30 dias a contar da data de entrada em vigor dos novos preços.
+
+6.º Para efeitos do disposto no n.º 3 da lista anexa a que se refere o n.º 2 do artigo 10.º do [Decreto-Lei n.º 8/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1993-469604), de 11 de Janeiro, consideram-se transportes fluviais em travessias de grande densidade de tráfego as ligações em que o número de passageiros transportados seja superior a 5 milhões por ano, devendo as empresas informar a DGTT, até 31 de Janeiro de cada ano, do número de passageiros transportados no ano anterior.
+
+7.º Fica revogada a [Portaria n.º 50/94](https://diariodarepublica.pt/dr/detalhe/portaria/50-1994-511242), de 19 de Janeiro.
+
+8.º O disposto na presente portaria entra em vigor no dia imediato ao da sua publicação.

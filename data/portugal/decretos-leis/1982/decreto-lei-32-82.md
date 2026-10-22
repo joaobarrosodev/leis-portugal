@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: pt:dre:600964:por
+title: Decreto-Lei n.º 32/82
+short_title: null
+summary: Dá nova redacção a vários artigos do Decreto-Lei n.º 845/76, de 11 de Dezembro (revisão do Código das Expropriações)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 32/82
+official_date: null
+publication_date: '1982-02-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 26/1982, Série I de 1982-02-01
+  number: '26'
+  series: I
+  supplement: null
+  pages: 248 - 249
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/02/02600/02480249.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '600964'
+  dre_path: /dr/detalhe/decreto-lei/32-1982-600964
+  internal: pt:dre:600964:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1982-600964
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1982-600964
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: 9ff388adae679de7cb6e38c8ad3c9a1b916d8236ccca2d5efce0ffc2dcb9d378
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-32-600964.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 32/82
+
+de 1 de Fevereiro
+
+O Código das Expropriações atribui a um Conselho de Ministros restrito, composto pelo Primeiro-Ministro, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Administração Interna, da Justiça, e da Habitação, Obras Públicas e Transportes e com possibilidade de delegação em cada um desses Ministros, a competência para declarar a utilidade pública de algumas expropriações, reconhecer o interesse nacional de empresas e ainda declarar a utilidade pública do resgate em determinadas condições.
+
+A prática tem demonstrado ser de difícil constituição, em tempo útil, esse órgão especial, tendo sido constante a delegação exclusiva da referida competência num único ministro, embora os processos sejam, normalmente, instruídos nos ministérios a que respeitam. A complexidade burocrática originada por esta actuação tem tornado moroso, desnecessariamente, o processo de declaração de utilidade pública das expropriações, que se deseja simplificar, passando aquela competência para o âmbito dos respectivos ministros da tutela.
+
+Por outro lado, a justiça impõe, como garantia de celeridade no pagamento da indemnização aos expropriados, a fixação de prazos para remessa a juízo dos processos de expropriação, após a fase administrativa de determinação dessa indemnização.
+
+Importa também clarificar o condicionalismo em que é possível conferir carácter urgente às expropriações, esclarecendo, consequentemente, o que se deve considerar como obras ou empreendimentos da iniciativa da entidade expropriante.
+
+Entendendo, por fim, que a autorização para a posse administrativa dos terrenos expropriados deve caber à entidade que for competente para declarar a utilidade pública da expropriação:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os artigos 10.º, 11.º, 12.º, 14.º, 17.º, 19.º, 58.º e 70.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, passam a ter a seguinte redacção:
+
+###### Art. 10.º - 1 - É da competência do ministro a cujo departamento competir a apreciação final do processo:
+
+a) A declaração de utilidade pública da expropriação dos bens imóveis e direitos a eles relativos;
+
+b) O reconhecimento do interesse nacional das empresas que o requererem e a declaração de utilidade pública da expropriação dos imóveis necessários à instalação, ampliação, reorganização ou reconversão das suas unidades industriais ou aos seus acessos;
+
+c) A declaração de utilidade pública do resgate, não previsto nos respectivos contratos, das concessões ou privilégios outorgados para a exploração dos serviços de utilidade pública e ainda a expropriação dos bens ou direitos a eles relativos referidos no artigo 2.º
+
+2 - Tratando-se de expropriações que afectam o ambiente económico-social da região em que as obras se vão realizar, deverá o expropriante apresentar um relatório circunstanciado de forma a apurar-se a medida em que o referido ambiente económico-social poderá ser afectado desfavoravelmente e quais as soluções concretas a adoptar.
+
+###### Art. 11.º A expropriação depende de requerimento da entidade competente que a pretender.
+
+###### Art. 12.º - 1 - O requerimento, dirigido ao ministro competente, será acompanhado dos seguintes documentos:
+
+...
+
+###### Art. 14.º - 1 - No próprio acto declarativo de utilidade pública, que será sempre publicado no Diário da República, pode ser atribuído carácter de urgência à expropriação se a lei o autorizar.
+
+2 - A urgência da expropriação pode ainda resultar de despacho posterior à declaração de utilidade pública, a publicar nos termos do número anterior.
+
+###### Art. 17.º - 1 - Quando a entidade expropriante seja de direito público ou se trate de empresa pública, nacionalizada ou concessionária de serviço público, pode ser autorizada a tomar posse administrativa dos prédios a expropriar desde que tal providência se torne indispensável para o início imediato ou a prossecução ininterrupta de trabalhos necessários à execução do projecto, anteprojecto, estudos prévios ou plano, anteplano ou mesmo esquemas preliminares de obras aprovadas, sempre que haja sido declarada a utilidade pública urgente da expropriação.
+
+...
+
+###### Art. 19.º A faculdade prevista no artigo 17.º, n.º 1, será exercida através de despacho do ministro competente para a declaração de utilidade pública da expropriação.
+
+###### Art. 58.º - 1 - Obtida decisão dos árbitros, será o processo remetido ao tribunal no prazo de 30 dias, a fim de ser ordenada a notificação nos termos seguintes: o expropriado e todos os interessados conhecidos serão notificados por carta registada; os demais sê-lo-ão por éditos de 8 dias, com anúncios em 2 números seguidos de um dos jornais mais lidos na região e bem assim na pessoa do familiar, administrador, arrendatário ou de outro indivíduo que resida na comarca e esteja em condições de transmitir a notificação.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - Se o processo não for remetido a juízo no prazo fixado no n.º 1, o tribunal determinará, a requerimento do expropriado ou de outro interessado, a notificação da entidade expropriante para que o envie no prazo de 10 dias.
+
+###### Art. 70.º - 1 - Se o processo correr perante a entidade expropriante, será o mesmo remetido ao tribunal competente no prazo de 15 dias a contar da obtenção do resultado da arbitragem, acompanhado de guia de depósito, salvo se se pretender o pagamento em prestações ou em espécie, nos termos regulados no título VI.
+
+2 - Se o processo não for remetido a juízo no prazo fixado no número anterior, o tribunal determinará, a requerimento do expropriado ou de outro interessado, a notificação da entidade expropriante para que o envie no prazo de 10 dias, instruído nos termos do número anterior.
+
+3 - Se a entidade expropriante tiver sido autorizada a tomar posse administrativa dos terrenos e do processo não constar a guia de depósito das indemnizações nem tiver sido requerido o pagamento destas em prestações ou em espécie, o juiz, no prazo de 2 dias, ordenará a notificação postal da entidade que tiver autorizado a posse administrativa para, no prazo de 15 dias, em execução do disposto no artigo 24.º do presente diploma, promover o depósito das indemnizações arbitradas e a junção aos autos da respectiva guia ou indicar as verbas orçamentais que as suportarão.
+
+4 - Recebido o processo devidamente instruído com a guia de depósito das indemnizações ou cumprida a notificação referida no número anterior, o juiz, no prazo de 2 dias, adjudicará ao expropriante a propriedade e posse dos prédios, salvo, quanto a esta, o caso de já ter sido conferida posse administrativa ou judicial. Simultaneamente será arbitral, quer ao expropriante, quer aos diversos interessados.
+
+###### Art. 2.º É aditado um artigo ao [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, com o seguinte teor:
+
+###### Art. 134.º Para efeitos deste diploma consideram-se empreendimentos ou obras da iniciativa da entidade expropriante aqueles em que a totalidade ou parte dos trabalhos a realizar sejam por ela executados directamente ou mediante contrato de empreitada ou outro autorizado por lei.
+
+Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
+
+**Promulgado em 18 de Janeiro de 1982.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

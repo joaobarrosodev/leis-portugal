@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:428233:por
+title: Decreto-Lei n.º 384/76
+short_title: null
+summary: Define associações de educação popular
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Investigação Científica - Secretaria de Estado da Orientação Pedagógica
+proposing_entity: null
+official_number: 384/76
+official_date: null
+publication_date: '1976-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/1976, Série I de 1976-05-20
+  number: '118'
+  series: I
+  supplement: null
+  pages: 1142 - 1144
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11800/11421144.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '428233'
+  dre_path: /dr/detalhe/decreto-lei/384-1976-428233
+  internal: pt:dre:428233:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1976-428233
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1976-428233
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-05-20T00:00:00Z'
+integrity:
+  source_sha256: a8b490cbfc56c2581676af54b8a591b047b12d2508d421265372c9f378bd9ca1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-384-428233.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 384/76
+
+de 20 de Maio
+
+A educação popular, em geral, e a alfabetização, em particular, são prioridades a estabelecer no desenvolvimento de qualquer política educativa que pretenda dar solução aos problemas reais do País.
+
+Considerando que não é de adoptar uma política de intervenção agressiva que possa provocar a resistência imediata de populações desde há muito abandonadas a um esquema de vida tradicional e isolado, e que se entende que a organização colectiva das mesmas populações, numa base de associativismo, é um passo fundamental para a sua própria educação, numa perspectiva libertadora, assim como para a construção sólida de uma nova sociedade democrática;
+
+Considerando que se acha imprescindível criar para estas associações um regime especial que, sem qualquer prejuízo para a sua real autonomia e para o princípio geral da liberdade de associação, facilite às populações de há longa data desfavorecidas uma junção de esforços a nível local no sentido de uma valorização cultural e educativa, permitindo, por outro lado, que o Estado possa incentivar, através de apoio técnico, material e financeiro, iniciativas locais de educação;
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º São associações de educação popular as que tiverem como objectivos:
+
+a) Promover actividades de carácter cultural e educativo que possibilitem a aprendizagem colectiva das relações entre os indivíduos, os grupos sociais e o meio em que vivem;
+
+b) Fomentar a criação de cursos escolares específicos para adultos, nomeadamente a alfabetização, como base para uma ininterrupta educação e formação cultural dos cidadãos;
+
+c) Organizar actividades colectivas ou individuais destinadas à recolha e ao estudo de temas de interesse local, tendo também em vista a protecção do património cultural da região (tradição oral e outras).
+
+###### Art. 2.º - 1. As associações de educação popular têm o direito de elaborar os seus estatutos e regulamentos, de eleger os seus corpos gerentes, de organizar a sua gestão e actividade e de formular o seu programa de acção.
+
+2. Cabe ao Estado, sem prejuízo da autonomia destas associações, apoiar as suas actividades e colaborar com elas nas tarefas de promoção social, cultural e educacional dos seus associados.
+
+###### Art. 3.º- 1. As associações de educação popular adquirem personalidade jurídica pela sua inscrição, em registo próprio, na Direcção-Geral da Educação Permanente, do Ministério da Educação e Investigação Científica.
+
+2. O registo só poderá ser recusado com base em ilegalidade verificada no processo de constituição ou nos estatutos.
+
+3. O registo considerar-se-á efectuado se não houver decisão em contrário, até trinta dias após a data de recepção, no Ministério da Educação e Investigação Científica, do requerimento de inscrição.
+
+4. Será criado, na Direcção-Geral da Educação Permanente, um registo central de associações de educação popular, no qual ficarão depositados os estatutos dessas associações.
+
+5. As associações de educação popular que prossigam, conjuntamente com as actividades referidas no artigo 1.º, actividades de outro tipo, nomeadamente actividades de carácter económico não lucrativo, ficarão sujeitas às formalidades suplementares previstas na legislação geral sobre associações, nomeadamente no que respeita à constituição e publicidade dos actos sociais.
+
+6. Dentro dos trinta dias subsequentes ao registo, na Direcção-Geral da Educação Permanente, de qualquer associação de educação popular sujeita ao regime especial previsto nos n.os 1 a 3 deste artigo, aquele serviço comunicá-lo-á, com indicação dos elementos para tanto necessários, ao governo civil em cuja área de jurisdição se situe a respectiva sede, com vista à sua inscrição no registo mencionado no artigo 15.º do [Decreto-Lei n.º 594/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/594-1974-471532), de 7 de Novembro.
+
+###### Art. 4.º - 1. As associações de educação popular devem respeitar os princípios da gestão democrática, designadamente as regras dos números seguintes.
+
+2. Qualquer sócio tem o direito de participar plenamente na vida da associação, incluindo o direito de eleger e ser eleito para os corpos gerentes.
+
+3. Todos os corpos gerentes serão eleitos mediante escrutínio secreto.
+
+4. Os corpos gerentes poderão ser destituídos por deliberação da assembleia geral, devendo os estatutos regular os termos da sua destituição e da gestão da associação até à eleição dos novos corpos gerentes.
+
+5. O período de cada gerência será, em princípio, de um ano, não sendo permitida a reeleição sucessiva em mais de dois mandatos.
+
+###### Art. 5.º - 1. Somente as associações de educação popular aconfessionais e apartidárias beneficiam do regime especial previsto neste diploma.
+
+2. As associações de educação popular que venham a ter carácter político ou confessional ficarão sujeitas, na totalidade, ao regime geral das associações.
+
+3. As associações referidas em 2 só poderão beneficiar de qualquer apoio estatal para as actividades que, enquadrando-se no âmbito do disposto no artigo 1.º, respeitem estritamente os princípios da aconfessionalidade e apartidarismo.
+
+###### Art. 6.º As associações de educação popular podem agrupar-se entre si em uniões ou federações ou gerir conjuntamente serviços ou departamentos de apoio.
+
+###### Art. 7.º - 1. As associações de educação popular têm o direito de participar, de acordo com as normas orientadoras da elaboração da política de acção cultural e educativa, no estabelecimento dos princípios orientadores e no planeamento das actividades da cultura e educação popular.
+
+2. Poderá ser atribuída às associações de educação popular, por despacho do Ministro da Educação e Investigação Científica, a faculdade de passar diplomas ou certificados de frequência ou aproveitamento em relação a cursos por elas organizados, bem como poderá ser concedida, igualmente por despacho do Ministro da Educação e Investigação Científica, a equivalência dos diplomas ou certificados atrás referidos a graus do ensino oficial.
+
+3. A equivalência referida no número anterior devera ser concedida, caso por caso, em face dos planos de estudo e das condições pedagógicas da sua realização, por proposta da Direcção-Geral da Educação Permanente e mediante parecer prévio das direcções-gerais de ensino que superintendam nos respectivos graus de ensino.
+
+###### Art. 8.º Os serviços prestados pelas associações de educação popular aos seus associados no domínio específico das suas actividades deverão ter carácter gratuito, o que não exclui a cobrança de quantias correspondentes a despesas realizadas ou à constituição de fundos sociais deliberada pela assembleia geral.
+
+###### Art. 9.º - 1. O Estado poderá apoiar as associações de educação popular, nomeadamente através do Ministério de Educação e Investigação Científica, através da concessão de subsídios destinados à prossecução de acções que se enquadrem nos objectivos descritos no artigo 1.º
+
+2. A concessão dos subsídios referidos no número anterior, bem como a de outros tipos de apoio, depende da inscrição da associação no registo referido no artigo 3.º, podendo, porém, nos casos em que a urgência o justifique e a título transitório, ser concedidos esses tipos de apoio com a condição de ser cumprida, dentro de prazo a determinar, a formalidade antes referida.
+
+###### Art. 10.º A concessão de subsídios às associações de educação popular fica dependente da realização das seguintes condições:
+
+a) Apresentação, por parte da associação, de um plano das actividades a apoiar, de que constem, semestralmente, objectivos a atingir, meios necessários, calendários de execução e de financiamento e número previsto de participantes;
+
+b) Compromisso de apresentação, no termo da actividade, ou, nos casos em que esta tenha carácter duradouro, semestralmente, de um relatório de que conste o estado da realização do plano e um balancete descritivo da situação financeira:
+
+c) Compromisso de colaboração com a entidade que concede o subsídio nas actividades por esta desenvolvidas ou patrocinadas.
+
+###### Art. 11.º A irregularidade na aplicação dos subsídios ou o seu desvio para fins não constantes do plano inicial ou de aditamentos aprovados envolve, para além da responsabilidade civil ou criminal prevista na lei, a suspensão dos subsídios.
+
+###### Art. 12.º - 1. As associações de educação popular poderão cumprir, cumulativa ou exclusivamente, o disposto na legislação geral sobre liberdade de associação.
+
+2. Às associações de educação popular que apenas se submetam à lei geral não é, contudo, aplicável o regime especial estabelecido no presente decreto-lei.
+
+###### Art. 13.º As associações de educação popular sujeitas, por lei ou voluntariamente, quer ao regime geral, quer às normas especiais constantes deste diploma, adquirem personalidade jurídica mediante, respectivamente, o depósito ou registo efectuado em primeiro lugar.
+
+###### Art. 14.º Em tudo quanto não for contrariado pelo presente decreto-lei, aplicar-se-á às associações de educação popular o regime geral das associações.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Rodrigues Alves - Vítor Manuel Ribeiro Constâncio.
+
+**Promulgado em 7 de Maio de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

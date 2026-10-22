@@ -1,0 +1,1239 @@
+---
+schema_version: '1.0'
+id: pt:dre:114152782:por
+title: Decreto Regulamentar n.º 9-A/2017
+short_title: null
+summary: Regulamenta a Lei n.º 78/2017, de 17 de agosto, que estabelece um sistema de informação cadastral simplificada, adotando
+  medidas para a imediata identificação da estrutura fundiária e da titularidade dos prédios rústicos e mistos
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Administração Interna
+proposing_entity: null
+official_number: 9-A/2017
+official_date: null
+publication_date: '2017-11-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 212/2017, 2º Suplemento, Série I de 2017-11-03
+  number: '212'
+  series: I
+  supplement: 2º Suplemento
+  pages: 5876-(10) a 5876-(18)
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21202/0001000018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-09-22'
+version_history:
+  file: decreto-regulamentar-9-a-2017.versoes.json
+  count: 4
+  source_lastmod: '2026-09-22'
+  versions:
+  - date: '2017-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-09-25'
+    amending: pt:dre:124879307:por
+    amending_title: Decreto Regulamentar n.º 4/2019
+    changes:
+    - Adita Artigo 13.º-A
+    - Adita Artigo 13.º-B
+    - Adita Artigo 17.º-A
+    - Adita Capítulo V
+    - Adita Artigo 19.º-A
+    - Adita Artigo 19.º-B
+    - Adita Artigo 19.º-C
+    - Adita Artigo 19.º-D
+    - Adita Artigo 19.º-E
+    - Adita Artigo 19.º-F
+    - Adita Artigo 19.º-G
+    - Adita Artigo 19.º-H
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Capítulo V
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Capítulo VI
+    - Altera Artigo 25.º
+    - Altera Capítulo VII
+    - Altera Artigo 26.º
+    - Altera Anexo I
+    - Revoga Artigo 22.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+  - date: '2023-11-02'
+    amending: pt:dre:222645053:por
+    amending_title: Decreto Regulamentar n.º 3/2023
+    changes:
+    - Adita Artigo 4.º-A
+    - Adita Secção I
+    - Adita Artigo 16.º-A
+    - Adita Secção II
+    - Adita Secção III
+    - Adita Artigo 19.º-I
+    - Adita Anexo III
+    - Adita Anexo IV
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º-A
+    - Altera Capítulo III
+    - Altera Artigo 16.º
+    - Altera Capítulo IV
+    - Altera Artigo 17.º-A
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º-A
+    - Altera Artigo 19.º-B
+    - Altera Artigo 19.º-C
+    - Altera Artigo 19.º-D
+    - Altera Artigo 19.º-E
+    - Altera Artigo 19.º-F
+    - Altera Capítulo VI
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Capítulo VII
+    - Altera Capítulo VIII
+    - Altera Artigo 26.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Elimina Capítulo V
+  - date: '2026-09-22'
+    amending: pt:dre:1172217158:por
+    amending_title: Decreto Regulamentar n.º 8/2026
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 13.º-A
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 19.º-A
+    - Altera Artigo 19.º-E
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Revoga Anexo I
+    - Revoga Anexo II
+    - Revoga Anexo III
+    - Revoga Anexo IV
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/9-a/2017/11/03/p/dre/pt/html
+  oj: null
+  dre: '114152782'
+  dre_path: /dr/detalhe/decreto-regulamentar/9-a-2017-114152782
+  internal: pt:dre:114152782:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-a-2017-114152782
+  metadata_url: https://data.dre.pt/eli/decregul/9-a/2017/11/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2017-124899201
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2017-124899201
+  retrieved_at: '2026-10-22T13:56:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-22T00:00:00Z'
+integrity:
+  source_sha256: 35b903556d0f65b64c17e7397800a38d10413107fc290f7693c64e0cada88e8b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:56:47Z'
+  notes: 4 versão(ões); histórico completo em decreto-regulamentar-9-a-2017.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:124879307:por
+  label: Adita Artigo 13.º-A; Adita Artigo 13.º-B; Adita Artigo 17.º-A; Adita Capítulo V; Adita Artigo 19.º-A; Adita Artigo
+    19.º-B; Adita Artigo 19.º-C; Adita Artigo 19.º-D; Adita Artigo 19.º-E; Adita Artigo 19.º-F; Adita Artigo 19.º-G; Adita
+    Artigo 19.º-H; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo
+    8.º; Altera Artigo 9.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307
+  date: '2019-09-20'
+- type: amended_by
+  target: pt:dre:222645053:por
+  label: Adita Artigo 4.º-A; Adita Secção I; Adita Artigo 16.º-A; Adita Secção II; Adita Secção III; Adita Artigo 19.º-I;
+    Adita Anexo III; Adita Anexo IV; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo
+    5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º;
+    Altera Artigo 13.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053
+  date: '2023-10-11'
+- type: amended_by
+  target: pt:dre:1172217158:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 4.º-A; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera
+    Artigo 13.º; Altera Artigo 13.º-A; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera
+    Artigo 19.º-A; Altera Artigo 19.º-E
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158
+  date: '2026-09-21'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
+article_structure:
+  article_count: 43
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:56:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 9-A/2017
+
+Decreto Regulamentar n.º 9-A/2017
+
+de 3 de novembro
+
+O Programa do XXI Governo Constitucional estabelece como um dos eixos estratégicos a valorização do território, designadamente através de uma reforma estrutural do setor florestal, que garanta a segurança das populações, que crie condições para fomentar uma gestão profissional e sustentável dos terrenos, que potencie o aumento da produtividade e da rentabilidade dos ativos florestais, e que promova a progressiva elaboração do Cadastro da Propriedade Rústica.
+
+Estabelece ainda como prioridade a criação de «balcões únicos» que evitem múltiplas deslocações para resolver o mesmo assunto e para entregar os mesmos documentos a diferentes entidades públicas, visando integrar a informação do planeamento territorial e urbano, do registo predial e do cadastro.
+
+A Lei n.º 78/2017, de 17 de agosto, criou um sistema de informação cadastral simplificada, com vista à adoção de medidas para a imediata identificação da estrutura fundiária e da titularidade dos prédios rústicos e mistos. Criou também o Balcão Único do Prédio (BUPi), que se constitui como balcão físico e virtual que agrega a informação registal, matricial e georreferenciada relacionada com os prédios, bem como uma plataforma de articulação do cidadão com a Administração Pública no âmbito do cadastro predial.
+
+Para aquele efeito, a referida Lei determina que alguns dos seus aspetos e matérias são definidos por decreto regulamentar, em especial o procedimento administrativo da representação gráfica georreferenciada (RGG), as especificações técnicas e respetiva estrutura de atributos a observar naquela representação, o procedimento especial de registo de prédio rústico e misto omisso, o mecanismo de composição de interesses e a instalação, condições de funcionamento, interoperabilidade e funcionalidades do BUPi. Importa, pois, defini-los.
+
+Neste contexto, o presente decreto regulamentar assenta, numa primeira linha, na ideia de que o conhecimento do território e a identificação dos limites e titularidade da propriedade é fundamental para a gestão e decisão das políticas públicas de solos, de ordenamento do território e de urbanismo.
+
+Para tanto prevê a adoção de soluções técnico-jurídicas que, de forma simples, eficaz, célere e pouco onerosa para o cidadão, tornem possível agregar os dados relativos aos prédios já detidos pelas várias entidades e associar novos elementos que permitam um melhor conhecimento dos limites dos prédios rústicos e mistos bem como dos titulares de direitos que incidam sobre os mesmos.
+
+Estabelece-se igualmente como princípio orientador que deve ser impulsionada a obtenção do maior número de informação possível relacionada com os limites e titulares dos prédios - com destaque para a RGG como instrumento privilegiado de conhecimento de território - ainda que a mesma possa conter vários níveis de detalhe diferenciados, os quais podem ir desde o mero esboço preparatório de uma RGG até ao cadastro predial.
+
+A este propósito evidencia-se que presentemente existe um grande número de prédios conhecidos da Autoridade Tributária e Aduaneira (AT), para os quais se verifica o cumprimento de obrigações fiscais, mas que não estão declarados no Registo Predial, não se encontrando publicitada a sua situação jurídica em termos de titularidade. Ora, contrariar esta realidade, trazendo ao BUPi o maior número de informação disponível e harmonizando a mesma ao nível das várias entidades públicas com atribuições nestas matérias, traz benefícios não só pelo aumento do conhecimento do território como também pela segurança do comércio jurídico.
+
+Decorre ainda daquele princípio orientador a previsão, no presente decreto regulamentar, de que a sobreposição de polígonos não impede o registo de titularidade nem o benefício de isenção emolumentar e tributária, criado como estímulo.
+
+Do conjunto de soluções previstas no presente decreto regulamentar sublinha-se ainda:
+
+A atribuição do Número de Identificação do Prédio (NIP), sempre que seja confirmada a coincidência entre a informação do registo predial e da inscrição matricial da AT;
+
+A comunicação do NIP às entidades públicas identificadas no artigo 27.º da Lei n.º 78/2017, de 17 de agosto, constituindo este um identificador único de referência;
+
+A associação ao NIP da RGG e quaisquer outros dados e elementos que permitam uma melhor caracterização dos prédios;
+
+A harmonização da informação relevante sobre os prédios e titulares usada pelas diferentes áreas setoriais da Administração Pública, mediante a interoperabilidade dos dados detidos pelas respetivas entidades públicas;
+
+A previsão de procedimentos ágeis de RGG, com definição de requisitos técnicos e regras simples que potenciam a apresentação de polígonos;
+
+A criação de uma comissão administrativa para composição de interesses conflituantes em sede de RGG, presidida por um conservador a designar por deliberação do conselho diretivo do Instituto dos Registos e Notariado, I. P.
+
+Foi promovida a audição da Associação Nacional de Municípios Portugueses, da Associação Nacional de Freguesias e da Comissão Nacional de Proteção de Dados.
+
+Assim:
+
+Nos termos da alínea c) do artigo 199.º da Constituição e da Lei n.º 78/2017, de 17 de agosto, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto e âmbito
+
+Nos termos da Lei n.º 78/2017, de 17 de agosto, e da Lei n.º 65/2019, de 23 de agosto, o presente decreto regulamentar define:
+
+a) As especificações técnicas a observar na elaboração da representação gráfica georreferenciada (RGG), a respetiva estrutura de atributos e as regras de acertos e confrontações;
+
+b) Os termos e condições do registo de técnicos habilitados no Balcão Único do Prédio (BUPi);
+
+c) O procedimento de RGG;
+
+d) O procedimento de conciliação administrativa;
+
+e) As diligências, tramitação e meios de impugnação do procedimento especial de registo de prédios rústicos e mistos;
+
+f) As diligências, tramitação e meios de impugnação do procedimento especial de justificação de prédios rústicos e mistos;
+
+g) A articulação do número de identificação de prédio (NIP) com o sistema de identificação usado para efeitos cadastrais, registais e matriciais;
+
+h) Os modelos de declaração a subscrever pelos técnicos habilitados no BUPi e pelos promotores;
+
+i) (Revogada.)
+
+j) A instalação, condições de funcionamento, interoperabilidade e funcionalidades do BUPi.
+
+k) A metodologia de identificação do domínio público;
+
+l) Os termos da efetivação da promoção oficiosa da RGG.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+### Capítulo II — Representação gráfica georreferenciada
+
+###### Artigo 2.º — Início do procedimento
+
+1 - O procedimento de RGG é desencadeado de uma das seguintes formas:
+
+a) (Revogada.)
+
+b) Pelo interessado ou promotor, nos termos previstos nos artigos 3.º e 9.º;
+
+c) Por entidade pública oficiosamente, nos termos previstos no artigo 12.º
+
+2 - O procedimento de RGG é realizado por um técnico habilitado para o efeito, sem prejuízo do disposto no artigo 10.º da Lei n.º 78/2017, de 17 agosto, na sua redação atual, e no artigo 13.º do presente decreto regulamentar.
+
+3 - No âmbito do sistema de informação cadastral simplificado, a realização do procedimento de RGG é condição prévia aos procedimentos especiais de registo e de justificação de prédio rústico e misto e do procedimento especial de anexação de prédios rústicos, nos municípios que não dispõem de cadastro predial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 3.º — Procedimento de representação gráfica georreferenciada apresentado por via eletrónica
+
+1 - O interessado ou promotor pode, mediante indicação do número do cartão de cidadão ou do NIF e identificação do prédio, efetuar por via eletrónica, através do BUPi, um processo de RGG, utilizando para tal a ferramenta de RGG e a cartografia disponibilizadas no BUPi.
+
+2 - O interessado ou promotor elabora o polígono do prédio de acordo com a identificação matricial ou descrição registal, tendo por base a cartografia disponibilizada no BUPi, ou procede ao carregamento de ficheiro nos formatos aceites pela plataforma com as coordenadas geográficas do prédio a georreferenciar, apresentando termo de responsabilidade, conforme modelo a aprovar por despacho do Centro de Coordenação Técnica, disponível no sítio institucional do BUPi, que deve ser assinado preferencialmente por via eletrónica.
+
+3 - (Revogado.)
+
+4 - A RGG submetida no BUPi é remetida eletronicamente a um técnico habilitado para efeitos de validação, a realizar no prazo de 20 dias úteis a contar da data da sua submissão pelo interessado.
+
+5 - Verificando-se a necessidade de proceder a retificações ou complementos ao procedimento de RGG, o técnico habilitado notifica o apresentante por via eletrónica ou, em caso de impossibilidade de utilização deste meio, por correio, sob registo postal, para que, no prazo de 20 dias úteis, proceda às correções necessárias, sob pena de a validação da RGG ser recusada, com a devida fundamentação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 4.º — Validação da representação gráfica georreferenciada
+
+1 - A RGG é validada sempre que cumpra as especificações técnicas, a estrutura de atributos e os acertos de estremas e confrontações, fixados nos artigos seguintes.
+
+2 - A RGG é validada sem reserva de geometria sempre que se encontre na situação prevista no n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, na sua redação atual.
+
+3 - A RGG é validada com reserva de geometria sempre que se encontre na condição prevista no n.º 1 do artigo 7.º-B da Lei n.º 65/2019, de 23 de agosto, na sua redação atual.
+
+4 - A RGG é recusada sempre que as estremas do prédio:
+
+a) Se sobreponham a bens do domínio público cujos limites estejam geometricamente definidos no BUPi no momento da identificação do prédio ou quando o conflito com os bens do domínio público seja detetável pela observação da cobertura de imagens ortorretificadas disponibilizadas no BUPi, salvo situações expressamente admitidas na lei;
+
+b) Não correspondam às confrontações físicas que constam na descrição da caderneta predial do prédio a georreferenciar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+###### Artigo 4.º-A — Domínio público
+
+1 - O BUPi integra no seu visualizador, sempre que disponíveis, camadas de informação geográfica com a delimitação dos diversos bens do domínio público:
+
+a) Ferroviário;
+
+b) Rodoviário;
+
+c) Hídrico (marítimo, lacustre e fluvial e das restantes águas);
+
+d) Bens imóveis do domínio público;
+
+e) Militar;
+
+f) Outros que venham a ser identificados relevantes para o conhecimento do território.
+
+2 - As entidades públicas detentoras dos dados e gestoras do domínio público disponibilizam no BUPi as camadas de informação geográfica identificadas no número anterior com a delimitação do domínio público, devendo a atualização da informação ocorrer no prazo máximo de 30 dias úteis após o facto que lhe deu origem.
+
+3 - O acesso à informação e a sua integração no BUPi é regulado por protocolo de interconexão de dados a celebrar com as entidades gestoras do domínio público, nomeadamente no que se refere à partilha, de forma eletrónica, de informação permanentemente atualizada de caracterização do território nacional.
+
+4 - A atribuição do número de identificação de prédio, a disponibilização das camadas de informação geográfica no BUPi, bem como a disponibilização de ferramentas que verifiquem os critérios de validação referidos no n.º 4 do artigo anterior, são da responsabilidade do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)
+
+5 - A informação geográfica que delimite bens imóveis do domínio público, e que for integrada no BUPi, serve o propósito de conhecimento do território, e é quantificada como área afeta ao domínio público.
+
+6 - Verificando-se a existência de sobreposições de polígonos e bens do domínio público, salvo nos casos a que se refere o n.º 2 do artigo 5.º-A da Lei n.º 78/2017, de 17 de agosto, o Centro de Coordenação Técnica notifica o promotor ou o interessado que não seja promotor, por via eletrónica ou, em caso de impossibilidade de utilização deste meio, por correio, sob registo postal, para que, no prazo de 20 dias úteis, proceda à retificação da RGG junto de um técnico habilitado.
+
+7 - A notificação referida no número anterior é acompanhada de informação sobre a existência de bens imóveis do domínio público ou de outros bens do domínio público que conflituem com a RGG em causa.
+
+8 - Decorrido o prazo indicado no n.º 6 sem que o promotor ou o interessado tenham procedido à retificação, a RGG é automaticamente retificada fazendo coincidir todas as estremas confinantes com o limite dos bens do domínio público.
+
+9 - Verificando-se sobreposição entre bens do domínio público identificado no n.º 1, o Centro de Coordenação Técnica notifica as entidades gestoras para que promovam a resolução da sobreposição.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+###### Artigo 5.º — Especificações técnicas
+
+1 - A RGG materializa-se no BUPi através de um polígono georreferenciado de acordo com os diferentes sistemas de referência em vigor para o território nacional, respetivamente:
+
+a) Continente - PT-TM06/ETRS89 (European Terrestrial Reference System 1989);
+
+b) Regiões Autónomas dos Açores e da Madeira - PTRA08-UTM/ITRF93 (International Terrestrial Reference Frame 1993).
+
+2 - O valor da área da RGG é medido na superfície delimitada pelas suas estremas e calculado sobre o plano cartográfico, em metros quadrados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+###### Artigo 6.º — Estrutura de atributos
+
+1 - A estrutura de atributos da RGG é constituída, designadamente, pela seguinte informação alfanumérica:
+
+a) Localização administrativa: distrito, concelho, freguesia, localidade, rua e número de polícia, se aplicáveis;
+
+b) Prédio: número de identificação do prédio, dos artigos matriciais rústicos e urbanos, perímetro e área do prédio, bem como número da descrição predial, quando exista;
+
+c) Promotor, interessados ou representantes: nome, número e documento de identificação, número de identificação fiscal, morada, endereço de correio eletrónico e contacto de telefone;
+
+d) [Revogada.]
+
+e) [Revogada.]
+
+f) [Revogada.]
+
+g) Método de medição utilizado para obtenção da RGG: direto ou indireto;
+
+h) Coordenadas retangulares de todos os vértices que constituem a RGG.
+
+2 - Os polígonos obtidos devem respeitar os seguintes requisitos obrigatórios:
+
+a) Consistência topológica, devendo cada polígono ser definido por uma, ou mais, linhas poligonais fechadas sem interseções consigo mesmo;
+
+b) Cumprimento do sistema de referência adequado, de acordo com o estipulado no artigo anterior;
+
+c) Consistência dos dados alfanuméricos, pelo correto preenchimento dos campos de atributos, identificados no número anterior;
+
+d) Localização administrativa do centroide do polígono, em consonância com a Carta Administrativa Oficial de Portugal em vigor.
+
+3 - A RGG de prédio misto inclui a parte rústica e a parte urbana, não as autonomizando, incluindo para efeitos de posterior inscrição do prédio na carta cadastral.
+
+4 - Sem prejuízo do disposto nos números anteriores, a RGG pode ainda incluir a identificação de servidões administrativas e de restrições de utilidade pública, bem como de elementos geográficos naturais ou artificiais relevantes e abrangidos pelo limite do prédio e/ou outros elementos caracterizadores das suas estremas, designadamente recursos hídricos, estradas, vias ou acessos, marcos, muros e vedações.
+
+5 - A RGG é acompanhada dos atributos que a caracterizam, de acordo com as especificações técnicas previstas nas alíneas a), b), c), g) e h) do n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 7.º — Ajustes automáticos e acertos de estremas e confrontações
+
+1 - (Revogado.)
+
+2 - Quando o prédio a georreferenciar confronte com outros prédios submetidos no BUPi ou elementos geográficos naturais ou artificiais, o desenho das respetivas estremas deve, sempre que possível, respeitar essas confrontações acertando as mesmas à representação daqueles confinantes.
+
+3 - Sempre que não seja possível acertar as confrontações com a representação dos confinantes, mantendo-se a sobreposição, o conflito é objeto do procedimento previsto no artigo 16.º
+
+4 - Excetuam-se do disposto no número anterior as situações em que a área sobreposta é inferior a 1 %, da RGG de menor área, e a configuração da sobreposição respeita o critério de espessura (ce) inferior a 0.05, segundo a fórmula:
+
+ce = 4.(Pi).área/perímetro(elevado a 2')]0,1[
+
+5 - Na situação prevista no número anterior, a representação gráfica do limite das estremas de cada prédio apresentada no BUPi é automaticamente ajustada pela demarcação de nova linha poligonal, no sentido longitudinal, dividindo a parcela em litígio por partes de igual área.
+
+6 - Ficam ainda excluídas do disposto no n.º 3 as sobreposições inferiores à unidade mínima georreferenciável, que se constitui como a área mínima que é possível desenhar diretamente no BUPi por fotointerpretação, medida em metros quadrados, cuja área seja igual ou inferior a 0,25 m2.
+
+7 - O disposto nos n.os 4 e 6 é igualmente aplicável às situações em que existam lacunas entre polígonos.
+
+8 - (Revogado).
+
+9 - (Revogado).
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 8.º — Registo de técnico
+
+1 - Para efeitos de apresentação da RGG, os técnicos habilitados nos termos do disposto no artigo 8.º da Lei n.º 78/2017, de 17 de agosto, estão registados no BUPi e subscrevem a declaração de inexistência de conflitos de interesses, conforme modelo a aprovar por despacho do Centro de Coordenação Técnica, disponível no sítio institucional do BUPi, que deve ser assinada preferencialmente por via eletrónica.
+
+2 - O registo mencionado no número anterior permite:
+
+a) A autenticação do técnico com mecanismos de autenticação segura, que podem incluir o cartão de cidadão e a Chave Móvel Digital com possibilidade de recurso ao Sistema de Certificação de Atributos Profissionais (SCAP);
+
+b) A identificação do técnico através de indicação de habilitação profissional, número de inscrição em ordem, associação profissional ou inscrição como técnico de cadastro predial no sítio oficial da Direção-Geral do Território (DGT), quando aplicável, domicílio profissional, contacto de telefone e endereço de correio eletrónico;
+
+c) (Revogada.)
+
+d) A submissão de documento comprovativo das habilitações exigidas no n.º 2 do artigo 8.º da Lei n.º 78/2017, de 17 de agosto, emitido pela entidade competente, que serve de base à sua contratação, quando aplicável.
+
+3 - A validação do registo do técnico habilitado dá acesso a funcionalidades do BUPi, nomeadamente à sua área reservada, que inclui, nomeadamente, todos os procedimentos de RGG por si efetuados e a consulta dos processos de RGG, independentemente da sua origem, bem como todos os polígonos das RGG existentes no BUPi.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 9.º — Elaboração da representação gráfica georreferenciada com apoio assistido
+
+1 - (Revogado.)
+
+2 - O interessado ou promotor pode, mediante indicação do número do cartão de cidadão ou do NIF e identificação do prédio, através do BUPi e com o apoio assistido de um técnico habilitado, declarar a localização e os limites das estremas do prédio.
+
+3 - O procedimento de RGG elaborado com apoio assistido, a tramitar no BUPi, obedece às seguintes fases:
+
+a) O técnico habilitado elabora o polígono do prédio de acordo com as declarações do promotor e com apoio na base cartográfica disponibilizada no BUPi ou procede ao carregamento de ficheiro com as coordenadas geográficas do prédio a georreferenciar, garantindo por termo de responsabilidade, submetido eletronicamente, o cumprimento das especificações técnicas, da estrutura de atributos e das regras de acertos de estremas e confrontações fixadas;
+
+b) O interessado ou o promotor da RGG confirma os dados relativos à delimitação do polígono e restante informação processual mediante termo de responsabilidade, conforme modelo a aprovar por despacho do Centro de Coordenação Técnica, disponível no sítio institucional do BUPi, que deve ser assinado preferencialmente por via eletrónica.
+
+4 - [Revogado.]
+
+5 - [Revogado.]
+
+6 - [Revogado.]
+
+7 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 10.º — Prédios confinantes
+
+1 - Para os efeitos previstos no n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, considera-se validada por todos os proprietários confinantes a informação resultante da RGG nas seguintes situações:
+
+a) [Revogada.]
+
+b) Existência, no BUPi, da totalidade dos polígonos dos prédios confinantes, suscetíveis de georreferenciação no BUPi, sem conflito de estremas comuns; e
+
+c) Quando algum dos prédios confinantes não seja suscetível de georreferenciação no BUPi, apresentação de declaração de aceitação pelo proprietário do prédio confinante, conforme modelo a aprovar por despacho do Centro de Coordenação Técnica, disponível sítio institucional do BUPi, assinada preferencialmente por via eletrónica.
+
+2 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+###### Artigo 11.º — Georreferenciação de prédios por entidades públicas
+
+1 - (Revogado;)
+
+2 - Os serviços técnicos das entidades referidas no n.º 2 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto, procedem à delimitação do polígono dos prédios, em colaboração com o interessado, e carregam a informação no BUPi, mediante declaração, conforme modelo a aprovar por despacho do Centro de Coordenação Técnica, disponível no sítio institucional do BUPi, que deve ser assinada preferencialmente por via eletrónica.
+
+3 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 12.º — Promoção oficiosa
+
+1 - (Revogado.)
+
+2 - A promoção oficiosa pelas entidades referidas n.º 2 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto, ocorre no âmbito da avaliação de pedidos de permissão administrativa ou de comunicações prévias respeitantes à realização das operações, sempre que o interessado não apresente a RGG do prédio a intervencionar e sempre que sejam aquelas as entidades competentes para a decisão final, sem prejuízo da promoção por iniciativa destas entidades.
+
+3 - Estão abrangidos pelo disposto no número anterior, nomeadamente:
+
+a) (Revogada.)
+
+b) As comunicações ou permissões administrativas apresentadas a propósito da Reserva Ecológica Nacional (REN);
+
+c) Os pedidos respeitantes a baldios;
+
+d) Os instrumentos de estruturação fundiária previstos no regime jurídico da estruturação fundiária.
+
+e) As delimitações do domínio público.
+
+4 - A promoção da RGG pelas entidades referidas no n.º 5 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto, na sua redação atual, ocorre no âmbito dos projetos de estruturação fundiária e de transformação da paisagem de que sejam promotoras ou gestoras e, ainda, no âmbito dos procedimentos de expropriação por utilidade pública, pelas entidades expropriantes.
+
+5 - Os serviços técnicos das entidades referidas nos n.os 2 e 4 procedem à delimitação do polígono dos prédios, em colaboração com o interessado, e carregam a informação no BUPi, mediante declaração conforme modelo a aprovar por despacho do Centro de Coordenação Técnica, disponível no sítio institucional do BUPi, que deve ser assinada preferencialmente por via eletrónica.
+
+6 - (Revogado.)
+
+7 - Caso a informação disponível e partilhada não se mostre suficiente, o interessado é convidado a apresentar ou a obter a RGG nos termos previstos na lei e do presente decreto regulamentar.
+
+8 - A promoção oficiosa pode ser efetuada mediante o agendamento, pelas entidades públicas referidas no n.º 2, de atendimento entre o interessado e um técnico habilitado, para o qual são enviadas as informações necessárias à elaboração e submissão da RGG no BUPi, ficando os procedimentos administrativos previstos nos números anteriores suspensos até à comunicação da validação, com ou sem reservas, de uma RGG relativa ao prédio, que deve ocorrer no prazo de 20 dias úteis.
+
+9 - Nos termos do artigo 9.º da Lei n.º 78/2017, de 17 de agosto, considera-se efetivada a promoção oficiosa da RGG dos prédios rústicos e mistos efetuada por entidades públicas desde que:
+
+a) Respeite a estrutura de atributos e os acertos de estremas e confrontações conforme definidos no âmbito do presente decreto regulamentar;
+
+b) Cumpra o procedimento de elaboração de RGG definido no n.º 3 do artigo 9.º
+
+10 - A promoção oficiosa de RGG efetuada nos termos do presente artigo não prejudica nem se sobrepõe à informação existente de prédios cadastrados que seja disponibilizada no BUPi.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 13.º — Dispensa de técnico na elaboração da representação gráfica georreferenciada
+
+1 - Considera-se dispensado o recurso a técnico habilitado para elaboração da RGG nos termos do previsto no artigo 10.º da Lei n.º 78/2017, de 17 de agosto, o interessado que apresente documento ou registo da delimitação do prédio feito junto de qualquer entidade pública, desde que sejam igualmente fornecidos os elementos que permitam completar a estrutura de atributos prevista no artigo 6.º do presente decreto regulamentar, ou seja possível a sua obtenção oficiosa.
+
+2 - O procedimento de RGG é efetuado através do BUPi e promovido junto de entidade pública, nos termos previstos na referida Lei n.º 78/2017, de 17 de agosto.
+
+3 - A entidade pública neste caso funciona como entidade promotora, aplicando-se para o efeito com as necessárias adaptações as regras do procedimento de RGG definidas no presente decreto regulamentar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+###### Artigo 13.º-A — Retificação da geometria da representação gráfica georreferenciada e cancelamento da representação gráfica georreferenciada
+
+1 - A retificação da RGG com reserva de geometria é da responsabilidade do promotor ou do interessado, quando não seja o promotor, sempre que ocorram alterações dos limites do prédio georreferenciado ou quando tenha ocorrido erro na delimitação do polígono.
+
+2 - O procedimento de RGG com reserva de geometria pode ser retificado quanto à geometria do prédio, designadamente quando:
+
+a) [Revogada.]
+
+b) [Revogada.]
+
+c) Ocorra, nos termos da lei, a transmissão onerosa ou gratuita de parte de prédio cadastrado indiviso que tenha por efeito ou resultado uma divisão, com ou sem aumento dos comproprietários;
+
+d) Ocorra, nos termos da lei, justificação por usucapião de parte de prédio;
+
+e) Ocorra, nos termos da lei, a divisão de coisa comum em caso de cessação da compropriedade sempre que não for acompanhada da configuração geométrica de todos os prédios dela resultantes.
+
+3 - A retificação da RGG é executada por um técnico habilitado, de acordo com as especificações técnicas e o procedimento previsto para a respetiva elaboração de RGG, com as necessárias adaptações.
+
+4 - O cancelamento da RGG validada com reserva de geometria é da responsabilidade do promotor, designadamente nas seguintes situações:
+
+a) Emparcelamento rural ou valorização fundiária aprovados ao abrigo da Lei n.º 111/2015, de 27 de agosto, na sua redação atual, que estabelece o Regime Jurídico da Estruturação Fundiária;
+
+b) Plano de pormenor com efeitos registais em vigor, nos termos do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual, que aprova o Regime Jurídico dos Instrumentos de Gestão Territorial;
+
+c) Operação de loteamento, de reparcelamento ou de destaque, ao abrigo do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, que aprova o Regime Jurídico da Urbanização e da Edificação;
+
+d) Declaração de utilidade pública para efeitos de expropriação, ao abrigo do Código das Expropriações, aprovado em anexo à Lei n.º 168/99, de 18 de setembro, na sua redação atual;
+
+e) Acordo resultante do procedimento de conciliação administrativa;
+
+f) Erro manifesto na localização administrativa do prédio.
+
+5 - O cancelamento da RGG validada com reserva de geometria é efetuado oficiosamente, designadamente:
+
+a) Quando a RGG violar algum dos atos legislativos previstos nas alíneas a) a d) do número anterior, e tal resultar do despacho do conservador de registos;
+
+b) Nos casos previstos nos n.os 5 e 6 do artigo 7.º-D da Lei n.º 65/2019, de 23 de agosto;
+
+c) Quando o registo predial for recusado com fundamento nas alíneas b) e d) do n.º 1 do artigo 69.º do Código do Registo Predial, e tenha tido por base o procedimento previsto no artigo 7.º-D da Lei n.º 65/2019, de 23 de agosto;
+
+d) Quando o procedimento especial de justificação for indeferido, indeferido liminarmente ou declarado findo e tenha tido por base o procedimento previsto no artigo 7.º-D da Lei n.º 65/2019, de 23 de agosto;
+
+e) Nos casos de desanexação ou de anexação;
+
+f) Quando se verifique que a RGG foi validada relativamente a bem, direito, instalação, construção, equipamento, infraestrutura ou plantação implantada, existente ou exercida em terreno pertencente a prédio alheio, que não constitua prédio autónomo suscetível de identificação cadastral.
+
+6 - O cancelamento da RGG é realizado pelo técnico habilitado, mediante a apresentação de declaração de cancelamento, conforme modelo a aprovar por despacho do Centro de Coordenação Técnica, disponível no sítio institucional do BUPi, que deve ser assinada preferencialmente por via eletrónica.
+
+7 - As RGG com natureza de cadastro, nos termos do n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, na sua redação atual, não são suscetíveis de retificação ou cancelamento, sendo as respetivas geometrias alteradas no âmbito das operações de conservação de cadastro previstas no Regime Jurídico de Cadastro Predial, aprovado pelo Decreto-Lei n.º 72/2023, de 23 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 13.º-B — Certidões e fotocópias não certificadas
+
+1 - Qualquer pessoa pode pedir certidões ou fotocópias não certificadas das RGG efetuadas junto de um serviço de registo com competência para a prática de atos de registo predial.
+
+2 - As certidões ou fotocópias não certificadas referidas no número anterior são gratuitas, quando requeridas pelo promotor da RGG.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+### Capítulo III — Conciliação administrativa
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+###### Artigo 14.º — Finalidade
+
+1 - O procedimento administrativo de composição de interesses é um mecanismo de oposição, previsto no n.º 1 do artigo 7.º da Lei n.º 78/2017, de 17 de agosto, que se destina a possibilitar aos interessados alcançarem um acordo relativamente à sobreposição de polígonos de prédios confinantes resultante de procedimentos de RGG, tendo em vista a célere composição de todos os interesses em presença.
+
+2 - O recurso à composição de interesses não obsta à realização do registo fora do âmbito do procedimento nem à instauração do procedimento de registo, ou à sua conclusão, caso este se encontre pendente.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-03
+
+###### Artigo 15.º — Comissão administrativa de interesses
+
+1 - Integram a comissão administrativa de composição de interesses um representante da AT, do IRN, I. P., da DGT, quando justificável em razão da matéria, do IFAP, I. P., do ICNF, I. P., e de cada um dos municípios em cuja circunscrição territorial se situa o prédio, sendo o representante do IRN, I. P., um conservador designado por deliberação do respetivo conselho diretivo, exercendo a função de presidente.
+
+2 - Sem prejuízo do disposto no número anterior, a comissão pode funcionar com um número mínimo de três membros, dois dos quais a indicar pelo presidente da comissão em função da matéria em causa.
+
+3 - Sempre que entender necessário, a comissão pode recorrer a técnicos e peritos especializados preferencialmente provenientes das entidades nela representadas.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 16.º — Procedimento de conciliação administrativa
+
+1 - O procedimento de conciliação administrativa é criado na plataforma BUPi e desencadeado oficiosamente, por iniciativa do Centro de Coordenação Técnica ou do conciliador, ou mediante pedido de qualquer interessado, quando se verifique, nos termos do artigo 7.º, a existência de sobreposição de polígonos não sujeitos a ajuste automático.
+
+2 - Sendo iniciado oficiosamente, é comunicada a existência de polígonos não sujeitos a ajuste automático a todos os interessados e promotores, por via eletrónica ou, em caso de impossibilidade, por correio, sob registo postal, para que, no prazo de 20 dias úteis, procedam às correções necessárias junto de um técnico habilitado, sob pena de a RGG se manter validada com reserva de geometria quanto a todos os prédios.
+
+3 - A comunicação referida no número anterior é acompanhada da seguinte informação:
+
+a) As RGG dos prédios confinantes que conflituem com a RGG em causa;
+
+b) Os dados dos promotores e das pessoas identificadas como proprietárias, quando não sejam promotoras.
+
+4 - O procedimento de conciliação a pedido de qualquer interessado é requerido presencialmente, devendo a sua tramitação promover a resolução de todas as sobreposições de polígonos identificadas à data da respetiva instrução.
+
+5 - Recebido o pedido ou efetuado o respetivo aperfeiçoamento, o conciliador procede à criação do procedimento na plataforma BUPi, no prazo de 10 dias úteis, podendo, na falta de elementos essenciais, indeferir liminarmente o pedido, mediante decisão fundamentada, notificando o interessado do indeferimento, preferencialmente por via eletrónica.
+
+6 - O conciliador pode proceder a quaisquer diligências que se revelem adequadas e necessárias e, quando o procedimento esteja devidamente instruído, notifica os interessados não requerentes, para que estes, no prazo de 20 dias úteis, procedam à correção das estremas das suas RGG ou celebrem acordo no procedimento de conciliação quanto às estremas dos prédios, extinguindo as sobreposições existentes, procurando obter a resolução integral de todas as sobreposições abrangidas pelo procedimento.
+
+7 - As notificações referidas no número anterior devem ser acompanhadas da informação prevista no n.º 3 e ser efetuadas preferencialmente por via eletrónica.
+
+8 - Se o interessado proceder à correção da sua RGG, terminando com a sobreposição existente, deve o termo de responsabilidade refletir essa correção.
+
+9 - Os acordos alcançados no âmbito do procedimento, totais ou parciais, são reduzidos a escrito e assinados pelo conciliador e pelos interessados que neles intervenham, sendo anexados ao procedimento, juntamente com os polígonos retificados correspondentes.
+
+10 - Decorrido o prazo de 20 dias úteis previsto no n.º 6, mantendo-se alguma das sobreposições abrangidas pelo procedimento, o conciliador notifica os interessados envolvidos nessas sobreposições da data, hora e local da audiência de conciliação, a realizar em data compreendida nos 20 dias úteis subsequentes, advertindo-os de que a falta de acordo quanto às estremas dos prédios determina a manutenção da validação das RGG com reserva relativamente aos prédios em conflito.
+
+11 - A audiência de conciliação pode ser realizada através do recurso a meios de comunicação eletrónica áudio e vídeo, logo que se encontrem reunidas as condições necessárias para esse efeito.
+
+12 - Da audiência prevista no número anterior é elaborada ata, subscrita por todos os intervenientes.
+
+13 - Não sendo alcançado acordo quanto a todas as sobreposições abrangidas pelo procedimento, o conciliador promove a formalização do acordo relativamente às sobreposições consensualizadas, corrigindo as respetivas RGG nos termos acordados e encerra o procedimento quanto às restantes.
+
+14 - Quando subsistam sobreposições de polígonos de prédios confinantes após o encerramento do procedimento de conciliação, os interessados nelas envolvidos podem recorrer ao julgado de paz territorialmente competente, à arbitragem prevista no artigo 20.º da Lei n.º 78/2017, de 17 de agosto, ou a outros meios jurisdicionais legalmente admissíveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+### Capítulo IV — Procedimento especial de registo de prédio rústico e misto e procedimento especial de justificação de prédio rústico e misto
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+#### Secção I — Disposição comum
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+###### Artigo 16.º-A — Disposições comuns
+
+1 - O procedimento especial de registo e o procedimento especial de justificação são promovidos por iniciativa dos interessados:
+
+a) Presencialmente, ou pelo correio, junto de um serviço de registo competente;
+
+b) Presencialmente, junto de um técnico habilitado no momento da realização do procedimento de RGG;
+
+c) Por via eletrónica, através do BUPi.
+
+2 - O procedimento especial de registo e o procedimento especial de justificação aplicam-se aos prédios rústicos e mistos não descritos no registo, em todo o território nacional, estando dependentes da apresentação:
+
+a) Da RGG realizada no BUPi, para os prédios que se localizem em municípios que não dispõem de CGPR ou cadastro predial em vigor; ou
+
+b) Da CGP existente na carta cadastral, para os prédios que se localizem em municípios que dispõem de CGPR ou cadastro predial em vigor; e
+
+c) Da caderneta predial e da indicação do número da declaração de titularidade para os prédios que se localizem em municípios abrangidos pelo cadastro experimental, aprovado pelo Decreto-Lei n.º 224/2007, de 31 de maio, na sua redação atual.
+
+3 - Os procedimentos de registo previstos no número anterior aplicam-se, ainda, aos prédios rústicos e mistos descritos no registo cuja inscrição de aquisição se encontre desatualizada e constitua a primeira atualização após a realização da RGG, situados em concelhos que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor, estando dependentes da apresentação da RGG realizada no BUPi.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+#### Secção II — Procedimento especial de registo de prédio rústico e misto
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+###### Artigo 17.º — Iniciativa oficiosa
+
+1 - Sempre que os prédios não estiverem descritos, ou estando, não tiverem registo de aquisição, de reconhecimento de direito de propriedade ou de mera posse em vigor, os titulares da inscrição matricial são notificados pelo IRN, I. P., no seu domicílio fiscal, para no prazo de 90 dias:
+
+a) Promover o procedimento especial de registo nos termos do disposto no artigo seguinte e, quando se trate de prédio inscrito na matriz não cadastral, obter previamente a RGG do prédio; ou
+
+b) Declarar a quem pertence o prédio.
+
+2 - Se o notificado não der cumprimento ao disposto na notificação, inicia-se o procedimento de reconhecimento de prédio sem dono conhecido previsto no Decreto-Lei n.º 15/2019, de 21 de janeiro.
+
+3 - Se o notificado declarar que não é o proprietário do prédio mas indicar a quem o mesmo pertence, nos termos da alínea b) do n.º 1, notifica-se a pessoa identificada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 17.º-A — Promoção pelos interessados
+
+1 - Sem prejuízo do disposto no artigo anterior, o procedimento especial de registo de prédio rústico e misto é promovido pelos interessados que disponham de documento comprovativo do seu direito.
+
+2 - Quando se trate de prédio inscrito na matriz não cadastral, o procedimento especial de registo só pode ser promovido após a obtenção de RGG validada por técnico habilitado.
+
+3 - Quando se trate de prédio inscrito na matriz cadastral, o procedimento especial de registo só pode ser promovido com confirmação da existência de configuração geométrica do prédio.
+
+4 - Os documentos apresentados no procedimento de RGG e conferidos nos termos do artigo 8.º-A da Lei n.º 78/2017, de 17 de agosto, na sua redação atual, têm o valor probatório dos originais para efeitos de instrução do procedimento especial de registo.
+
+5 - Ainda que o pedido de registo seja apresentado presencialmente ou pelo correio nos termos previstos nas alíneas a) e b) do n.º 1 do artigo 16.º-A, o procedimento inicia-se por via eletrónica no BUPi, devendo, para o efeito, o serviço de registo ou o técnico habilitado inserir no BUPi os elementos necessários, bem como os documentos apresentados pelos interessados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 18.º — Tramitação
+
+1 - O interessado apresenta os documentos com os quais pretenda comprovar o seu direito e o serviço de registo analisa preliminarmente os documentos, no prazo de 30 dias após o início do procedimento, desde que, tratando-se de prédio rústico inscrito na matriz não cadastral, verifique por consulta ao BUPi a existência de RGG ou, no caso de prédio inscrito na matriz cadastral, verifique a existência de CGP.
+
+2 - Iniciado o procedimento e caso existam deficiências que não constituam motivo de recusa nos termos das alíneas c) e d) do n.º 1 do artigo 69.º do Código do Registo Predial e não possam ser supridas oficiosamente por acesso direto à informação constante de bases de dados das entidades ou serviços da Administração Pública, o serviço de registo comunica este facto ao interessado para que, no prazo de 10 dias, proceda a tal suprimento, junto do serviço de registo.
+
+3 - [Revogado.]
+
+4 - Quando não existam deficiências, ou as mesmas tenham sido supridas, e se mantenham os pressupostos previstos na alínea b) do no n.º 1 do artigo 1.º da Lei n.º 65/2019, de 23 de agosto, o serviço de registo procede à anotação do facto aquisitivo no diário e à elaboração imediata do registo.
+
+5 - Se houver deficiências que constituam motivo de recusa nos termos das alíneas c) e d) do n.º 1 do artigo 69.º do Código do Registo Predial ou que não tenham sido supridas no prazo concedido, o procedimento é declarado findo mediante despacho fundamentado, que é notificado ao interessado.
+
+6 - Da notificação da decisão que declara findo o procedimento por falta de documento comprovativo do direito deve constar que o interessado pode requerer a instauração do procedimento especial de justificação previsto no artigo 9.º da Lei n.º 65/2019, de 23 de agosto, ou do processo de justificação para primeira inscrição nos termos e nas condições previstos nos artigos 116.º e seguintes do Código do Registo Predial.
+
+7 - A alteração dos pressupostos a que se refere a alínea b) do no n.º 1 do artigo 1.º da Lei n.º 65/2019, de 23 de agosto, na sua redação atual, na pendência do procedimento determina a sua extinção automática, com comunicação ao interessado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 19.º — Meios de impugnação
+
+1 - A decisão prevista no n.º 5 do artigo anterior é impugnável nos termos previstos nos artigos 140.º e seguintes do Código do Registo Predial, aplicáveis com as devidas adaptações.
+
+2 - A apresentação, pelo interessado, de pedido de registo de aquisição nos termos gerais previstos no Código do Registo Predial, de justificação com vista a obter a primeira inscrição do direito, nos termos dos artigos 116.º e seguintes do mesmo Código, ou de procedimento especial de justificação, faz precludir o direito à impugnação e, quando esta esteja pendente, equivale à sua desistência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053)
+
+#### Secção III — Procedimento especial de justificação de prédio rústico e misto
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+###### Artigo 19.º-A — Pressupostos
+
+1 - O procedimento especial de justificação de prédio rústico e misto é desencadeado pelo interessado que não disponha de documento para prova do seu direito.
+
+2 - Quando se trate de prédio inscrito na matriz não cadastral, o procedimento especial de justificação referido no número anterior só pode ser promovido após a obtenção de RGG, ou no caso de prédio inscrito na matriz cadastral, com a confirmação da existência da CGP.
+
+3 - O interessado que se arrogue, com exclusão de outrem, titular do direito de propriedade, e não disponha de documento comprovativo do seu direito, pode obter a primeira inscrição por via do procedimento especial de justificação, sem prejuízo do cumprimento de disposições legais e regulamentares aplicáveis e em vigor.
+
+4 - Relativamente a prédios descritos no registo com inscrição de aquisição, reconhecimento ou mera posse, a falta de intervenção do respetivo titular, exigida pelo n.º 4 do artigo 34.º do Código de Registo Predial, pode ser suprida mediante decisão proferida no âmbito do procedimento especial de justificação, desde que do procedimento resulte a realização do primeiro registo de aquisição após a realização da RGG.
+
+5 - Na situação prevista no número anterior, a usucapião implica novo trato sucessivo a partir do titular do direito assim justificado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 19.º-B — Pedido
+
+1 - No pedido de instauração do procedimento, que é da competência exclusiva do conservador, o interessado deve, para o efeito, apresentar o respetivo formulário, devidamente preenchido, aprovado por deliberação do conselho diretivo do IRN, I. P.
+
+2 - No pedido, o interessado:
+
+a) Solicita o suprimento do documento em falta e indica, consoante os casos:
+
+i) A causa da aquisição e as razões que impossibilitam a sua comprovação pelos meios normais, caso se trate de estabelecer o trato sucessivo relativamente a prédios não descritos ou a prédios descritos sobre os quais não incida inscrição de aquisição, de reconhecimento ou de mera posse, nos termos do n.º 3 do artigo anterior;
+
+ii) As sucessivas transmissões operadas a partir do titular inscrito, com especificação das suas causas e identificação dos respetivos sujeitos, bem como das razões que impedem a comprovação pelos meios normais das transmissões relativamente às quais declare não lhe ser possível obter o título, caso se trate de reatar o trato sucessivo nos termos do n.º 4 do artigo anterior;
+
+iii) As circunstâncias em que baseia a aquisição originária, bem como as transmissões que a tenham antecedido e as subsequentes, se estiver em causa o estabelecimento de novo trato sucessivo nos termos do n.º 5 do artigo anterior;
+
+b) Alega expressamente as circunstâncias de facto que determinam o início da posse, quando não titulada, bem como, em qualquer caso, as que consubstanciam e caracterizam a posse geradora da usucapião;
+
+c) Identifica o prédio objeto do direito justificando através das menções necessárias à abertura da sua descrição.
+
+3 - Com o pedido, o interessado apresenta:
+
+a) Declarações prestadas por três declarantes, com assinaturas reconhecidas presencialmente, salvo se forem feitas perante o funcionário do serviço de registo no momento do pedido, que confirmem as declarações do interessado;
+
+b) Documentos comprovativos das transmissões anteriores e subsequentes ao facto justificado a respeito das quais se não alegue a impossibilidade de os obter;
+
+c) Outros documentos que se considerem necessários para a verificação dos pressupostos da procedência do pedido.
+
+4 - Do pedido, bem como das declarações previstas na alínea a) do número anterior, deve constar a afirmação de que os declarantes são admitidos, não se verificando alguma das hipóteses de incapacidade e inabilidade previstas no Código do Notariado para a justificação notarial.
+
+5 - A justificação pode ser pedida por mandatário com procuração que lhe confira poderes especiais para o ato.
+
+6 - Caso o formulário previsto no n.º 1 seja apresentado presencialmente ou pelo correio junto de um serviço de registo competente, o procedimento inicia-se por via eletrónica no BUPi, devendo o serviço de registo, para o efeito, inserir no BUPi os elementos necessários, bem como os documentos apresentados pelos interessados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 19.º-C — Apresentação
+
+1 - O procedimento de justificação considera-se instaurado no momento da apresentação do pedido acompanhado da respetiva RGG ou CGP e restantes documentos comprovativos, o qual é anotado no diário.
+
+2 - Constitui causa de rejeição do pedido a existência de RGG recusada quando se trate de prédio rústico inscrito na matriz não cadastral.
+
+3 - A verificação da causa de rejeição a que se refere o número anterior após a apresentação do pedido no diário dá lugar à recusa de apreciação do pedido, aplicando-se, com as devidas adaptações, o disposto no Código do Registo Predial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 19.º-D — Averbamento de pendência da justificação
+
+Efetuada a apresentação é oficiosamente aberta a descrição do prédio ainda não descrito e averbada a pendência de justificação, nos termos e com os efeitos previstos no Código do Registo Predial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 19.º-E — Indeferimento liminar e aperfeiçoamento do pedido
+
+1 - Sempre que o pedido seja manifestamente improcedente, pode ser liminarmente indeferido, por despacho fundamentado, sendo notificado o interessado.
+
+2 - Devendo o pedido ser aperfeiçoado, o justificante é convidado para, no prazo de 10 dias, juntar ao processo os documentos em falta ou prestar declaração complementar sobre os elementos de identificação omitidos, sob pena de indeferimento liminar da pretensão, designadamente nos seguintes casos:
+
+a) Se ao pedido não tiverem sido juntos os documentos comprovativos dos factos alegados que só documentalmente possam ser provados, e cuja verificação constitua pressuposto da procedência do pedido;
+
+b) Se do pedido e dos documentos juntos não constarem os elementos de identificação do prédio exigidos para a sua descrição.
+
+3 - O disposto no número anterior não se verifica se o serviço de registo puder obter os documentos ou suprir a ausência dos elementos em falta por acesso às bases de dados das entidades competentes ou por qualquer outro meio idóneo, designadamente por comunicação com o justificante.
+
+4 - O justificante pode impugnar a decisão de indeferimento liminar, nos termos previstos no Código do Registo Predial, com as necessárias adaptações.
+
+5 - Em face dos fundamentos alegados na impugnação, pode ser reparada a decisão de indeferir liminarmente o pedido, mediante despacho fundamentado que ordene o prosseguimento do procedimento, do qual é notificado o impugnante.
+
+6 - Não sendo reparada a decisão, o titular da última inscrição é notificado do processo de justificação e da decisão à impugnação deduzida, nos termos do artigo 19.º-I.
+
+7 - Sendo apresentada oposição ao pedido de justificação, o procedimento é declarado findo, podendo os interessados recorrer aos meios judiciais.
+
+8 - Se não for deduzida oposição, o processo é remetido ao tribunal para que seja decidida a impugnação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 19.º-F — Oposição, decisão e publicação
+
+1 - Os interessados podem deduzir oposição nos 10 dias subsequentes ao termo do prazo da notificação.
+
+2 - Se houver oposição, o procedimento é declarado findo, podendo os interessados recorrer aos meios judiciais.
+
+3 - Não tendo sido deduzida oposição a decisão é proferida no prazo de 10 dias e, sendo caso disso, especifica as sucessivas transmissões operadas, com referência às suas causas e à identidade dos respetivos sujeitos.
+
+4 - Os interessados e o Ministério Público são notificados da decisão no prazo de cinco dias.
+
+5 - A decisão do procedimento de justificação é publicada, oficiosa e imediatamente, na plataforma digital da justiça.
+
+6 - Tornando-se a decisão definitiva, são efetuados oficiosamente os consequentes registos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 19.º-G — Impugnação judicial
+
+1 - Da decisão do conservador pode ser interposto recurso para o tribunal de 1.ª instância competente na área da circunscrição a que pertence o serviço de registo, no prazo de 30 dias a contar da notificação.
+
+2 - A impugnação efetua-se por meio de requerimento onde são expostos os respetivos fundamentos.
+
+3 - A impugnação judicial considera-se feita com a apresentação da mesma no serviço de registo em que o procedimento se encontra pendente, sendo o processo remetido à entidade competente no mesmo dia em que for recebido.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053)
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 19.º-H — Recurso para o Tribunal da Relação
+
+Da sentença proferida no tribunal de 1.ª instância podem interpor recurso para o Tribunal da Relação o interessado e o Ministério Público, no prazo e nos termos regulados no Código do Registo Predial para o processo de justificação.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053)
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 19.º-I — Notificação dos interessados
+
+1 - Caso o procedimento especial de justificação se destine ao reatamento do trato sucessivo ou estabelecimento de novo trato sucessivo, é notificado o titular da última inscrição, quando se verifique falta de título em que ele tenha intervindo.
+
+2 - Quando o titular esteja ausente em parte incerta ou tenha falecido procede-se, respetivamente, à sua notificação edital ou à dos seus herdeiros, independentemente de habilitação de herdeiros.
+
+3 - As notificações editais são feitas por simples afixação de editais, pelo prazo de 30 dias, no serviço de registo da situação de prédio, na sede da junta de freguesia da situação do prédio e, quando se justifique na sede da junta de freguesia da última residência conhecida do ausente ou falecido.
+
+4 - As notificações editais referidas no número anterior são igualmente publicadas na plataforma digital da justiça e no sítio na Internet com o endereço www.bupi.gov.pt.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+### Capítulo V — Balcão Único do Prédio
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 20.º — Acesso ao Balcão Único do Prédio
+
+1 - O acesso ao BUPi realiza-se através do endereço da Internet a disponibilizar para o efeito.
+
+2 - O acesso às áreas reservadas do BUPi efetua-se mediante autenticação, privilegiando os mecanismos designados pela Agência para a Modernização Administrativa, I. P., disponibilizados em autenticação.gov.pt
+
+3 - Através do BUPi são ainda autenticados os funcionários das entidades públicas identificadas no artigo 27.º da Lei n.º 78/2017, de 17 de agosto, com intervenção nos procedimentos previstos na referida Lei.
+
+###### Artigo 21.º — Conteúdos e funcionalidades do Balcão Único do Prédio
+
+1 - O BUPi dispõe de uma área pública e de uma área privada, à qual acedem utilizadores autenticados de acordo com os mecanismos previstos no artigo anterior.
+
+2 - Através do BUPi é possível, entre outras funcionalidades:
+
+a) Consultar os processos e informação, incluindo a sua poligonal, quando exista, dos prédios inscritos nos quais seja promotor ou interessado, devidamente autenticado nos termos do artigo anterior;
+
+b) (Revogada.)
+
+c) Elaborar e submeter a RGG dos prédios por técnico habilitado inscrito;
+
+d) (Revogada.)
+
+e) Consultar os processos de RGG e respetivos estados;
+
+f) Submeter os formulários e documentos necessários ao procedimento de RGG e aos procedimentos de registo de prédio rústico e misto;
+
+g) Promover os procedimentos especiais de registo e de justificação de prédio rústico e misto e o procedimento especial de anexação de prédios rústicos;
+
+h) Editar e gerir processos de RGG;
+
+i) Associar outros elementos relevantes ao prédio no âmbito da partilha de dados entre as entidades identificadas no artigo 6.º da Lei n.º 78/2017, de 17 de agosto, na sua atual redação;
+
+j) (Revogada.)
+
+k) Atribuir o NIP e garantir a sua relação com os números setoriais das entidades identificadas no artigo 6.º da Lei n.º 78/2017, de 17 de agosto, na sua atual redação;
+
+l) Integrar RGG elaborada em sistema detido por entidade não referida no presente decreto regulamentar, em termos a definir por protocolo a celebrar com o Centro de Coordenação Técnica.
+
+m) Consultar no mapa a poligonal e o NIP de todos os prédios que tenham RGG validada ou dos centroides nos prédios com sobreposição no caso de RGG validada com reserva de geometria;
+
+n) Gerir comunicações entre os diferentes perfis no âmbito dos processos no BUPi;
+
+3 - O BUPi contém:
+
+a) A informação resultante da RGG, os seus atributos, especificações técnicas e confrontações;
+
+b) Os procedimentos abertos realizados no âmbito da Lei n.º 78/2017, de 17 de agosto, e da Lei n.º 65/2019, de 23 de agosto, e a correspondente informação do seu promotor e dos prédios em questão;
+
+c) O NIP e as demais chaves setoriais que permitem garantir a orquestração de processos de interoperabilidade.
+
+d) Outra informação considerada relevante.
+
+4 - O sítio institucional do BUPi disponibiliza toda a informação necessária para a sua correta utilização, nomeadamente um manual de apoio e uma área com perguntas frequentes.
+
+5 - Todos os dados e metadados são guardados em repositórios de informação acessíveis às várias entidades envolvidas, em respeito pelo regime legal de proteção e tratamento de dados pessoais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 22.º — Número de Identificação do Prédio
+
+1 - O NIP a que se refere o artigo 3.º da Lei n.º 78/2017, de 17 de agosto, é um identificador numérico do prédio, sequencial e sem significado lógico, destinado ao tratamento e harmonização de informação de índole predial.
+
+2 - Nos termos e para os efeitos previstos no artigo referido no número anterior, é atribuído um NIP a cada prédio sempre que confirmada a coincidência entre a informação constante das bases de dados das descrições prediais do IRN e das bases de dados que contêm as inscrições matriciais da AT.
+
+3 - O NIP corresponde à descrição do registo predial, podendo incluir uma ou mais matrizes, e associa, além da respetiva RGG, quaisquer outros dados e elementos relativos à caracterização do prédio.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 23.º — Interoperabilidade
+
+1 - A harmonização da informação relevante sobre os elementos caracterizadores e de identificação dos prédios usados para efeitos cadastrais, registais, matriciais, e outros, resulta da interoperabilidade dos dados detidos pelas entidades referidas nos n.os 2 e 7 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto, na sua redação atual.
+
+2 - O NIP é comunicado a cada uma das entidades identificadas no número anterior, após o procedimento descrito no n.º 2 do artigo 6.º da Lei n.º 65/2019, de 23 de agosto.
+
+3 - As alterações efetuadas aos prédios descritos após o início da partilha de informação prevista no artigo 27.º da Lei n.º 78/2017, de 17 de agosto, são comunicadas às entidades envolvidas, através de identificação do NIP.
+
+4 - As comunicações efetuadas nos termos do número anterior são feitas através de um serviço disponibilizado na Plataforma de Interoperabilidade da Administração Pública relativa a toda a informação relevante, exceto quando ocorram entre sistemas de informação da responsabilidade do IRN, I. P.
+
+5 - A comunicação prevista no número anterior, quando respeite à substituição do artigo matricial de prédio descrito, sem alteração de qualquer outro elemento da descrição predial, determina a atualização oficiosa da respetiva descrição.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+### Capítulo VI — Disposições complementares
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 24.º — Insuficiência económica
+
+1 - Consideram-se em situação de insuficiência económica para efeitos do disposto no n.º 2 do artigo 7.º da Lei n.º 78/2017, de 17 de agosto, os cidadãos cujo rendimento médio mensal, devidamente comprovado, seja igual ou inferior a 1,5 vezes o valor do Indexante dos Apoios Sociais.
+
+2 - A RGG relativa aos prédios rústicos ou mistos dos cidadãos que reúnam as condições referidas no número anterior é efetuada gratuitamente pelas entidades públicas referidas no n.º 2 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto, preferencialmente através de recursos próprios.
+
+3 - A situação de insuficiência económica prevista no n.º 1 é comprovada mediante apresentação de comprovativo dos rendimentos junto de uma das entidades públicas referida no número anterior.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-03
+
+###### Artigo 25.º — Distribuição dos atos e procedimentos
+
+A execução ou a realização dos atos e procedimentos regulados pelo presente decreto regulamentar podem ser distribuídos a outros serviços de registo através de deliberação do conselho diretivo do IRN, I. P.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+### Capítulo VII — Disposições finais
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 26.º — Aplicabilidade territorial
+
+1 - O regime do presente decreto regulamentar é aplicável a todo o território nacional.
+
+2 - Nas regiões autónomas dos Açores e da Madeira, compete às entidades das respetivas administrações regionais com atribuições e competências em matéria de cadastro e ordenamento do território garantir a aplicação e fiscalização do presente decreto regulamentar, em articulação com o regime jurídico do cadastro predial e respetiva legislação complementar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 27.º — Vigência
+
+À vigência do regime do presente decreto regulamentar aplica-se o disposto no artigo 33.º da Lei n.º 78/2017, de 17 de agosto.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 28.º — Avaliação
+
+Findo o prazo de vigência previsto no artigo anterior, o Governo apresenta um relatório de avaliação do presente regime, com vista à sua eventual extensão a todo o território nacional.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+###### Artigo 29.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado no Conselho de Ministros de 21 de outubro de 2017. - António Luís Santos da Costa - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - José Fernando Gomes Mendes.
+
+Promulgado em 2 de novembro de 2017.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 3 de novembro de 2017.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+## Anexo I — (a que se referem o n.º 2 do artigo 3.º, a alínea b) do n.º 3 do artigo 9.º, o n.º 2 do artigo 11.º e o n.º 5 do artigo 12.º)
+
+Modelo de declaração do promotor/proprietário
+
+[NOME], na qualidade de promotor/proprietário, declara serem da sua inteira responsabilidade os dados relativos à delimitação do polígono constante da representação gráfica georreferenciada do processo (RGG) n.º [...].
+
+Mais declara que autoriza que os seus dados pessoais, constantes do presente procedimento de RGG, sejam utilizados para efeitos de notificação no âmbito do procedimento de conciliação administrativa.
+
+Assinatura do promotor/proprietário
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 4/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2019-124879307), em vigor a partir de 2019-09-25, produz efeitos a partir de 2018-11-01
+
+## Anexo II — [a que se referem a alínea a) do n.º 1 e o n.º 2 do artigo 10.º]
+
+Modelo de declaração dos confinantes
+
+[NOME], na qualidade de proprietário do prédio confinante a [norte/sul/nascente/poente] com o prédio inscrito na matriz sob o n.º [...] e descrito na conservatória do registo predial sob n.º [...] | ou não descrito, declara, para os efeitos previstos no n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, na sua redação atual, aceitar/validar a informação resultante da representação gráfica georreferenciada do indicado prédio.
+
+Assinatura do proprietário
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+## Anexo III — (a que se refere o n.º 1 do artigo 8.º)
+
+Declaração de inexistência de conflitos de interesses
+
+[NOME], [NIF], [MORADA PROFISSIONAL], declara, na qualidade de técnico habilitado a exercer funções [numa das entidades prevista no n.º 2 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto, na sua redação atual], não estar abrangido por quaisquer conflitos de interesses ou impedimentos relacionados com a realização de representação gráfica georreferenciada, com o Município/entidade [...] onde exerce funções.
+
+Mais declara que, se vier a ter conhecimento de qualquer conflito de interesses ou impedimento com o Município/entidade [...] onde exerce funções ou com o interessado/promotor, dará imediato conhecimento ao Município/entidade [...], para efeitos de impedimento ou escusa na elaboração da representação gráfica georreferenciada, nos termos do disposto nos artigos 69.º a 76.º do Código de Procedimento Administrativo.
+
+Data
+
+Assinatura do técnico habilitado
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02
+
+## Anexo IV — (a que se refere o n.º 5 do artigo 13.º-A)
+
+Modelo de declaração de cancelamento
+
+[NOME], [NIF], na qualidade de [...], declara que pretende cancelar o processo de representação gráfica georreferenciada (RGG) n.º [...], referente ao artigo rústico e urbano (riscar o que não interessa) [...], da freguesia de [...], concelho de [...], nos termos do artigo 13.º-A do Decreto Regulamentar n.º 9-A/2017, de 3 de novembro, na sua redação atual, com o seguinte fundamento:
+
+Emparcelamento rural ou valorização fundiária aprovados ao abrigo do Regime Jurídico da Estruturação Fundiária, estabelecido pela Lei n.º 111/2015, de 27 de agosto, na sua redação atual;
+
+Plano de pormenor com efeitos registais em vigor, nos termos do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual;
+
+Operação de loteamento, de reparcelamento ou de destaque, ao abrigo do Regime Jurídico da Urbanização e da Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual;
+
+Declaração de utilidade pública para efeitos de expropriação, ao abrigo do Código das Expropriações, aprovado pela Lei n.º 168/99, de 18 de setembro, na sua redação atual;
+
+Acordo resultante do procedimento de conciliação administrativa;
+
+Erro manifesto na localização administrativa do prédio;
+
+Outras situações devidamente fundamentadas: [...]
+
+Data
+
+Assinatura do promotor
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 8/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158), em vigor a partir de 2026-09-22.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 3/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2023-222645053), em vigor a partir de 2023-11-02

@@ -1,0 +1,260 @@
+---
+schema_version: '1.0'
+id: pt:dre:614360:por
+title: Decreto-Lei n.º 262/2001
+short_title: null
+summary: Estabelece o novo regime das sociedades corretoras e das sociedades financeiras de corretagem, revogando o Decreto-Lei
+  n.º 229-I/88, de 4 de Julho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 262/2001
+official_date: null
+publication_date: '2001-09-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 226/2001, Série I-A de 2001-09-28
+  number: '226'
+  series: I
+  supplement: null
+  pages: 6161 - 6162
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/09/226a00/61616162.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-02-01'
+version_history:
+  file: decreto-lei-262-2001.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2001-09-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-11-01'
+    amending: pt:dre:241222:por
+    amending_title: Decreto-Lei n.º 357-A/2007
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+  - date: '2018-08-01'
+    amending: pt:dre:115740680:por
+    amending_title: Lei n.º 35/2018
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+  - date: '2022-02-01'
+    amending: pt:dre:175744218:por
+    amending_title: Decreto-Lei n.º 109-H/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/262/2001/p/cons/20211210/pt/html
+  oj: null
+  dre: '614360'
+  dre_path: /dr/detalhe/decreto-lei/262-2001-614360
+  internal: pt:dre:614360:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-2001-614360
+  metadata_url: https://data.dre.pt/eli/dec-lei/262/2001/p/cons/20211210/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-115749426
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-115749426
+  retrieved_at: '2026-10-22T12:20:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 54321806fc7fd638a54b22d784e779e920b4792797cc781001095bcb98343169
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:20:27Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-262-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código dos Valores Mobiliários
+- Banco de Portugal
+- CMVM
+- Sociedade Corretora
+- Sociedade Financeira de Corretagem
+relationships:
+- type: amended_by
+  target: pt:dre:241222:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680
+  date: '2018-07-20'
+- type: amended_by
+  target: pt:dre:175744218:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218
+  date: '2021-12-10'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/232/1996/12/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/232/1996/12/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/486/1999/11/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/486/1999/11/13/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:20:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 262/2001
+
+Decreto-Lei n.º 262/2001
+
+de 28 de Setembro
+
+A acentuada evolução registada nos mercados financeiros na última década, mercê dos avanços da tecnologia da informação, da desintermediação financeira, do lançamento quase quotidiano de novos instrumentos financeiros, tornou imperativa a necessidade de dotar as sociedades corretoras e as sociedades financeiras de corretagem de um quadro regulamentar que as não coloque em situação de desvantagem competitiva face a outras empresas de investimento comunitárias e de países terceiros.
+
+Por outro lado, o Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, tornou igualmente necessária a adaptação da legislação específica que regula a actividade das sociedades corretoras e das sociedades financeiras de corretagem. Contudo, ao contrário do que sucedeu relativamente ao regime jurídico de outras sociedades financeiras, o Decreto-Lei n.º 229-I/88, de 4 de Julho, não sofreu quaisquer alterações neste sentido.
+
+Acresce que do aditamento do título X-A ao Regime Geral das Instituições de Crédito e Sociedades Financeiras, introduzido pelo Decreto-Lei n.º 232/96, de 5 de Dezembro, relativo aos serviços e às empresas de investimento, decorre que as sociedades corretoras e as sociedades financeiras de corretagem são empresas de investimento para todos os efeitos ali previstos.
+
+Finalmente, com a entrada em vigor do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de Novembro, veio acentuar-se a necessidade de revisão do regime específico das sociedades em apreço.
+
+De entre as soluções consagradas no presente diploma destaca-se a possibilidade de admissão à rotação em mercado de valores mobiliários das acções das sociedades corretoras e das sociedades financeiras de corretagem, a participação e intervenção dos sócios e membros dos órgãos sociais das referidas sociedades noutras empresas, aplicando-se, assim, a estas sociedades, o disposto nos artigos 33.º, 85.º e 86.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, ex vi artigos 182.º e 195.º do mesmo diploma.
+
+Foram ouvidos o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+As sociedades corretoras e as sociedades financeiras de corretagem regem-se pelas normas do presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, e do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de Novembro.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 2.º — Objecto das sociedades corretoras
+
+1 - As sociedades corretoras têm por objecto a prestação dos serviços e actividades referidas nas alíneas a), b), c) e f) do n.º 1 do artigo 290.º do Código dos Valores Mobiliários e a colocação sem garantia em oferta pública de distribuição referida na alínea d) do mesmo artigo.
+
+2 - O objeto das sociedades corretoras compreende ainda os serviços e atividades indicados nas alíneas a) e c) do artigo 291.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, a prestação de serviços de consultoria relativamente a depósitos estruturados, bem como quaisquer outros cujo exercício lhes seja permitido por portaria do Ministro responsável pela área das finanças, ouvidos o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+###### Artigo 3.º — Objecto das sociedades financeiras de corretagem
+
+1 - As sociedades financeiras de corretagem têm por objecto a prestação dos serviços e actividades referidos no n.º 1 do artigo 290.º do Código dos Valores Mobiliários.
+
+2 - Incluem-se ainda no objeto das sociedades financeiras de corretagem os serviços e atividades indicados no artigo 291.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, a prestação de serviços de consultoria relativamente a depósitos estruturados, bem como quaisquer outros cujo exercício lhes seja permitido por portaria do Ministro responsável pela área das finanças, ouvidos o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+###### Artigo 4.º — Forma e denominação
+
+1 - As sociedades corretoras e as sociedades financeiras de corretagem constituem-se sob a forma de sociedades anónimas.
+
+2 - O disposto no número anterior não se aplica às sociedades já constituídas sob forma diferente.
+
+3 - A firma das sociedades corretoras deverá conter a expressão «sociedade corretora», podendo ainda incluir a designação acessória de broker.
+
+4 - A firma das sociedades financeiras de corretagem deverá conter a expressão «sociedade financeira de corretagem», podendo ainda incluir a designação acessória de dealer.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 5.º — Operações vedadas
+
+1 - É vedado às sociedades corretoras e às sociedades financeiras de corretagem:
+
+a) Prestar garantias pessoais ou reais a favor de terceiros;
+
+b) Adquirir bens imóveis, salvo os necessários à instalação das suas próprias actividades.
+
+2 - É ainda vedado às sociedades corretoras:
+
+a) Conceder crédito sob qualquer forma;
+
+b) Adquirir por conta própria valores mobiliários de qualquer natureza, com excepção dos títulos da dívida pública emitidos ou garantidos por Estados-Membros da OCDE.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 6.º — Recursos das sociedades corretoras e das sociedades financeiras de corretagem
+
+As sociedades corretoras e as sociedades financeiras de corretagem podem financiar-se com recursos alheios nos termos e condições a definir pelo Banco de Portugal, ouvida a Comissão do Mercado de Valores Mobiliários.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 7.º — Reembolso de créditos
+
+Quando uma sociedade corretora ou uma sociedade financeira de corretagem venha a adquirir, para reembolso de créditos, quaisquer bens cuja aquisição lhe seja vedada, deve promover a sua alienação no prazo de um ano, o qual, havendo motivo fundado, poderá ser prorrogado pelo Banco de Portugal, ouvida a Comissão do Mercado de Valores Mobiliários.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 8.º — Supervisão
+
+A supervisão da actividade das sociedades corretoras e das sociedades financeiras de corretagem compete ao Banco de Portugal e à Comissão do Mercado de Valores Mobiliários, no âmbito das respectivas competências.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 9.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 229-I/88, de 4 de Julho.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+Visto e aprovado em Conselho de Ministros de 23 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins.
+
+Promulgado em 17 de Setembro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 20 de Setembro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01

@@ -1,0 +1,175 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:628781:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-156249837",
+ "dre_path": "/dr/detalhe/decreto-lei/390-2007-628781",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156251696",
+    "156251697",
+    "156251698",
+    "156251699",
+    "156251700",
+    "156251701",
+    "156251702",
+    "156251703",
+    "156251704",
+    "156251705",
+    "156251706",
+    "156251707"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "156251696",
+    "156251697",
+    "156251698",
+    "156251699",
+    "156251700",
+    "156251701",
+    "156251702",
+    "156251709",
+    "156251704",
+    "156251705",
+    "156251706",
+    "156251707",
+    "156251708"
+   ]
+  }
+ ],
+ "fragments": {
+  "156251696": {
+   "fragment_id": "156249838",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 390/2007\n\nde 10 de Dezembro\n\nA protecção eficaz e a segurança de pessoas e bens impõem que os empreendimentos de construção, incluindo os edifícios e outras obras de construção e de engenharia civil, devam ser concebidos e realizados de modo a satisfazer determinadas exigências essenciais, o que implica a não utilização de produtos de construção cujas características, por inadequadas, as possam comprometer.\n\nFoi, neste contexto, adoptada a Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0106\" title=\"Link para Directiva da Comunidade Europeia\">89/106/CEE</a>, do Conselho, de 21 de Dezembro de 1988, transposta para o direito interno pelo Decreto-Lei n.º 113/93, de 10 de Abril, alterado e republicado pelo Decreto-Lei n.º 4/2007, de 8 de Janeiro, a qual visa definir os procedimentos a adoptar com vista a garantir que os produtos de construção sejam adequados ao fim a que se destinam e possam vir a ser colocados no mercado com a marcação CE.\n\nO n.º 3 do artigo 3.º do referido decreto-lei estabelece que, na ausência de normas harmonizadas e de aprovações técnicas europeias, os produtos que satisfaçam disposições nacionais relativas à certificação obrigatória podem ser colocados no mercado, embora sem marcação CE.\n\nFoi neste enquadramento, e com base no reconhecimento do grande risco sísmico a que Portugal está sujeito, que oportunamente se aprovou o Decreto-Lei n.º 128/99, de 21 de Abril, relativa à colocação no mercado de varões de aço laminados a quente, do tipo nervurado, utilizados como armaduras em betão armado, tornando obrigatória a sua certificação.\n\nA experiência adquirida e os resultados obtidos com a aplicação do Decreto-Lei n.º 128/99, de 21 de Abril, aconselham agora, para benefício dos cidadãos e das empresas, a alteração da situação existente, alargando-se o âmbito da obrigatoriedade de certificação a todos os produtos em aço utilizados como armaduras em betão armado, reforçando deste modo a observância das condições que mais contribuem para a segurança das construções, através da garantia das características do aço utilizado e, naturalmente, da sua qualidade.\n\nTendo em conta estes factos e a inexistência de norma harmonizada aplicável a este tipo de produtos a nível comunitário, procede-se à revogação do Decreto-Lei n.º 128/99, de 21 de Abril, alterado pelo Decreto-Lei n.º 441/99, de 2 de Novembro, substituindo-o pelas disposições normativas do presente acto, com redacção actualizada e com um âmbito dos produtos abrangidos mais alargado, de forma que fiquem sujeitos a certificação obrigatória, todos os produtos em aço utilizados como armaduras em betão, complementando, também, desta forma, as disposições previstas no artigo 23.º do Decreto-Lei n.º 349-C/83, de 30 de Julho, relativas à obrigação de classificação ou homologação das armaduras de aço para betão.\n\nO presente decreto-lei foi notificado à Comissão Europeia na fase de projecto, em cumprimento do disposto na Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa ao procedimento de informação no domínio das normas e regras técnicas.\n\nForam consultadas as associações do sector e outras entidades com interesses na matéria.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156251697": {
+   "fragment_id": "156249839",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece as condições a que deve obedecer a colocação no mercado ou a importação de aço para utilização em armaduras para betão armado de modo a garantir a segurança e a satisfação das exigências essenciais dos edifícios e empreendimentos em que venham a ser aplicados."
+  },
+  "156251698": {
+   "fragment_id": "156249840",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei é aplicável aos fabricantes de aço para utilização em armaduras para betão armado, aos seus mandatários ou a quaisquer outras entidades responsáveis pela sua colocação no mercado, bem como, no caso da importação, às pessoas por conta de quem a declaração aduaneira de sujeição ao regime aduaneiro de introdução em livre prática é efectuada."
+  },
+  "156251699": {
+   "fragment_id": "156249841",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara os efeitos deste decreto-lei, entende-se por aço para utilização em armaduras para betão armado os produtos em aço destinados a serem utilizados como armaduras em betão armado que se apresentem na forma de varões, barras, rolos ou bobinas, redes electrossoldadas, treliças e fitas ou bandas denteadas, independentemente do processo tecnológico utilizado na sua obtenção."
+  },
+  "156251700": {
+   "fragment_id": "156249842",
+   "type": 11,
+   "heading": "Artigo 4.º — Colocação no mercado e importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Colocação no mercado e importação\n\nO aço para utilização em armaduras para betão armado, definido no artigo anterior, só pode ser colocado no mercado ou importado após ter sido certificado por organismo acreditado pela entidade competente no domínio da acreditação em conformidade com as metodologias do Sistema Português da Qualidade."
+  },
+  "156251701": {
+   "fragment_id": "156249843",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificação e reconhecimento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Certificação e reconhecimento mútuo\n\n1 - A certificação a que se refere o artigo anterior deve assegurar a conformidade do aço para utilização em armaduras para betão armado com as normas ou especificações técnicas portuguesas aplicáveis ou com normas europeias ou normas ou especificações técnicas equivalentes de outro Estado membro da União Europeia, da Turquia, ou de um Estado subscritor do Acordo sobre o Espaço Económico Europeu.\n\n2 - Nos processos de certificação, a recolha de amostras, a realização dos ensaios de controlo externo, bem como a elaboração dos relatórios de apreciação dos resultados dos ensaios de controlo interno e externo, ficam a cargo de entidades devidamente acreditadas para o efeito, no âmbito do Sistema Português da Qualidade.\n\n3 - O reconhecimento dos relatórios e dos certificados de conformidade emitidos como resultado de ensaios e inspecções num Estado membro da União Europeia, na Turquia, ou num Estado subscritor do Acordo sobre o Espaço Económico Europeu, deve efectuar-se de acordo com o disposto no n.º 2 do artigo 9.º do Decreto-Lei n.º 113/93, de 10 de Abril, que transpõe a Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0106\" title=\"Link para Directiva da Comunidade Europeia\">89/106/CEE</a>, do Conselho, de 21 de Dezembro de 1988, relativa aos produtos de construção, alterado e republicado pelo Decreto-Lei n.º 4/2007, de 8 de Janeiro."
+  },
+  "156251702": {
+   "fragment_id": "156249844",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização no mercado do disposto no presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.\n\n2 - A instrução dos processos de contra-ordenação compete à ASAE, a quem devem ser enviados os autos relativos a infracções verificadas por outras entidades.\n\n3 - As entidades fiscalizadoras podem solicitar o auxílio de quaisquer outras autoridades sempre que o julguem necessário para o exercício das suas funções."
+  },
+  "156251703": {
+   "fragment_id": "156249845",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - As infracções ao disposto no artigo 4.º constituem contra-ordenações puníveis com as seguintes coimas:\n\na) De (euro) 300 a (euro) 3500, quando cometidas por pessoas singulares;\n\nb) De (euro) 5000 a (euro) 30 000 quando cometidas por pessoas colectivas.\n\n2 - Sem prejuízo do disposto no número anterior e, independentemente da responsabilidade civil em que podem incorrer os infractores, simultaneamente com a coima, pode ainda ser determinada, designadamente como pena acessória, a perda do produto em causa, sempre que a sua utilização em condições normais represente perigo que o justifique, de acordo com o previsto no artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro.\n\n3 - A tentativa e a negligência são puníveis, sendo os limites referidos no n.º 1 reduzidos para metade.\n\n4 - A aplicação das coimas e sanções acessórias previstas nos números anteriores compete à Comissão de Aplicação de Coimas em Matéria Económica e Publicidade (CACMEP).\n\n5 - A receita resultante da aplicação das coimas e sanções previstas nos n.os 1 a 3 reverte em:\n\na) 60 % para o Estado;\n\nb) 20 % para a entidade que procede à instrução do processo;\n\nc) 10 % para a Direcção-Geral das Actividades Económicas;\n\nd) 10 % para CACMEP."
+  },
+  "156251704": {
+   "fragment_id": "156249846",
+   "type": 11,
+   "heading": "Artigo 8.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regiões Autónomas\n\nNas Regiões Autónomas dos Açores e da Madeira, a fiscalização do cumprimento do disposto no presente decreto-lei cabe aos serviços competentes das respectivas administrações regionais."
+  },
+  "156251705": {
+   "fragment_id": "156249847",
+   "type": 11,
+   "heading": "Artigo 9.º — Acompanhamento da aplicação do decreto-lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acompanhamento da aplicação do decreto-lei\n\nSem prejuízo do disposto nos artigos anteriores, compete à Direcção-Geral das Actividades Económicas proceder ao acompanhamento da aplicação global deste decreto-lei, bem como elaborar as propostas de medidas necessárias à prossecução dos seus objectivos."
+  },
+  "156251706": {
+   "fragment_id": "156249848",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 128/99, de 21 de Abril, com as alterações introduzidas pelo Decreto-Lei n.º 441/99, de 2 de Novembro."
+  },
+  "156251707": {
+   "fragment_id": "156249849",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 180 dias após a sua publicação."
+  },
+  "156251709": {
+   "fragment_id": "156249845",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - As infrações ao disposto no artigo 4.º constituem contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n2 - Sem prejuízo do disposto no número anterior e, independentemente da responsabilidade civil em que podem incorrer os infratores, simultaneamente com a coima, pode ainda ser determinada, designadamente como pena acessória, a perda do produto em causa, sempre que a sua utilização em condições normais represente perigo que o justifique, de acordo com o previsto no RJCE.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n4 - A aplicação das coimas e sanções acessórias previstas nos números anteriores compete ao inspetor-geral da ASAE.\n\n5 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente artigo é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156251708": {
+   "fragment_id": "156249850",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Novembro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Fernandes da Silva Braga - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Paulo Jorge Oliveira Ribeiro de Campos.\n\nPromulgado em 29 de Novembro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 30 de Novembro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

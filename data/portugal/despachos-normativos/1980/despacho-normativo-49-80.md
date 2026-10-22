@@ -1,0 +1,90 @@
+---
+schema_version: '1.0'
+id: pt:dre:692807:por
+title: Despacho Normativo n.º 49/80
+short_title: null
+summary: Determina a requisição à Direcção-Geral das Alfândegas do reverificador do quadro técnico-aduaneiro, exercendo as
+  funções de chefe da Divisão da Integração Económica da Direcção-Geral das Alfândegas, licenciado José Maria Marques da Silva,
+  pelo período de seis meses, com início em 11 de Fevereiro de 1980, para desempenhar as funções de consultor aduaneiro do
+  Secretariado para a Integração Europeia
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria de Estado da Integração Europeia
+proposing_entity: null
+official_number: 49/80
+official_date: null
+publication_date: '1980-02-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/1980, Série I de 1980-02-13
+  number: '37'
+  series: I
+  supplement: null
+  pages: 155 - 155
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/02/03700/01550155.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '692807'
+  dre_path: /dr/detalhe/despacho-normativo/49-1980-692807
+  internal: pt:dre:692807:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-1980-692807
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-1980-692807
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-02-13T00:00:00Z'
+integrity:
+  source_sha256: cb2bcce32a50b3c2d718e9799534d13243bcc5ef090c77e3d2ee322861f120c7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-49-692807.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 49/80
+
+Nos termos dos n.os 1 e 2 do artigo 32.º e demais disposições aplicáveis do [Decreto-Lei n.º 185/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1979-381117), de 20 de Junho, determino a requisição à Direcção-Geral das Alfândegas do reverificador do quadro técnico-aduaneiro, exercendo as funções de chefe da Divisão da Integração Económica da Direcção-Geral das Alfândegas, nos termos do despacho de 27 de Dezembro de 1977 do Secretário de Estado do Orçamento, licenciado José Maria Marques da Silva, pelo período de seis meses, com início em 11 de Fevereiro de 1980, para desempenhar as funções de consultor aduaneiro do Secretariado para a Integração Europeia, ficando autorizado a garantir a representação das alfândegas nas reuniões de carácter aduaneiro a realizar nos organismos internacionais de integração económica e a efectuar serviço externo aduaneiro sempre que tal não colida com as funções para que agora é requisitado.
+
+Presidência do Conselho de Ministros, 31 de Janeiro de 1980. - O Secretário de Estado da Integração Europeia, Rui Manuel de Sousa Almeida Mendes.

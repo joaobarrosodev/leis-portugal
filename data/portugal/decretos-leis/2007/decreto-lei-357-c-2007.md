@@ -1,0 +1,1538 @@
+---
+schema_version: '1.0'
+id: pt:dre:241224:por
+title: Decreto-Lei n.º 357-C/2007
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 25/2007, de 18 de Julho, regula o regime jurídico das sociedades
+  gestoras de mercado regulamentado, das sociedades gestoras de sistemas de negociação multilateral, das sociedades gestoras
+  de câmara de compensação ou que actuem como contraparte central das sociedades gestoras de sistema de liquidação e das sociedades
+  gestoras de sistema centralizado de valores mobiliários, transpondo parcialmente para a ordem jurídica interna a Directiva
+  n.º 2004/39/CE, do Parlamento Europeu e do Conselho, de 21 de Abril, relativa aos mercados de instrumentos financeiros (DMIF)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 357-C/2007
+official_date: null
+publication_date: '2007-10-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31
+  number: '210'
+  series: I
+  supplement: 2º Suplemento
+  pages: 7964-(182) a 7964-(191)
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/10/21002/0018200191.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-12-28'
+version_history:
+  file: decreto-lei-357-c-2007.versoes.json
+  count: 9
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-27'
+    amending: pt:dre:332702:por
+    amending_title: Decreto-Lei n.º 52/2010
+    changes:
+    - Entrada Vigor Diploma
+  - date: '2013-02-07'
+    amending: pt:dre:258114:por
+    amending_title: Decreto-Lei n.º 18/2013
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 29.º
+    - Entrada Vigor Diploma
+  - date: '2014-04-17'
+    amending: pt:dre:571934:por
+    amending_title: Decreto-Lei n.º 40/2014
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Título III
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Entrada Vigor Diploma
+    - Revoga Artigo 43.º
+  - date: '2014-11-23'
+    amending: pt:dre:58585556:por
+    amending_title: Decreto-Lei n.º 157/2014
+    changes:
+    - Altera Artigo 16.º
+  - date: '2017-06-29'
+    amending: pt:dre:107094723:por
+    amending_title: Lei n.º 28/2017
+    changes:
+    - Adita Artigo 32.º-A
+    - Altera Artigo 35.º
+  - date: '2018-08-01'
+    amending: pt:dre:115740680:por
+    amending_title: Lei n.º 35/2018
+    changes:
+    - Adita Artigo 16.º-A
+    - Adita Artigo 39.º-A
+    - Adita Secção I
+    - Adita Secção II
+    - Adita Artigo 41.º-A
+    - Adita Artigo 41.º-B
+    - Adita Artigo 41.º-C
+    - Adita Artigo 41.º-D
+    - Adita Título IV-A
+    - Adita Capítulo I
+    - Adita Artigo 48.º-A
+    - Adita Artigo 48.º-B
+    - Adita Artigo 48.º-C
+    - Adita Artigo 48.º-D
+    - Adita Artigo 48.º-E
+    - Adita Capítulo II
+    - Adita Artigo 48.º-F
+    - Adita Artigo 48.º-G
+    - Adita Artigo 48.º-H
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Título II
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+  - date: '2022-01-01'
+    amending: pt:dre:166099792:por
+    amending_title: Decreto-Lei n.º 56/2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 48.º-A
+    - Altera Artigo 48.º-C
+    - Revoga Artigo 48.º-D
+    - Revoga Artigo 48.º-E
+    - Revoga Artigo 48.º-F
+    - Revoga Artigo 48.º-G
+    - Revoga Artigo 48.º-H
+  - date: '2025-12-28'
+    amending: pt:dre:992402107:por
+    amending_title: Lei n.º 73/2025
+    changes:
+    - Altera Artigo 32.º
+    - Altera Artigo 40.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/357-c/2007/p/cons/20251223/pt/html
+  oj: null
+  dre: '241224'
+  dre_path: /dr/detalhe/decreto-lei/357-c-2007-241224
+  internal: pt:dre:241224:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-c-2007-241224
+  metadata_url: https://data.dre.pt/eli/dec-lei/357-c/2007/p/cons/20251223/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34451175
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34451175
+  retrieved_at: '2026-10-22T11:42:44Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d8735619d3458f533e3b0feb007e25ad82fb829447ba5754aba789aa5ffe17bd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:42:44Z'
+  notes: 9 versão(ões); histórico completo em decreto-lei-357-c-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Valores Mobiliários
+- Capital Social
+- Definição de Competências
+- Firma
+- Fiscalização
+- Ilícito de MERA Ordenação Social
+- Sociedade Gestora de Sistemas Centralizados
+- Participação Qualificada
+- Regime Jurídico
+- CMVM
+- Sociedade Gestora de Câmara de Compensação
+- Sociedade Gestora de Contraparte Central
+- Sociedade Gestora de Mercados Regulamentados
+- Sociedade Gestora de Sistemas de Liquidação
+- Sociedade Gestora de Sistemas de Negociação Multilateral
+relationships:
+- type: amended_by
+  target: pt:dre:332702:por
+  label: Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 29.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:571934:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Título III; Altera Artigo 42.º; Altera Artigo 44.º; Entrada Vigor Diploma;
+    Revoga Artigo 43.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2014-571934
+  date: '2014-03-18'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:107094723:por
+  label: Adita Artigo 32.º-A; Altera Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/28-2017-107094723
+  date: '2017-05-30'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Adita Artigo 16.º-A; Adita Artigo 39.º-A; Adita Secção I; Adita Secção II; Adita Artigo 41.º-A; Adita Artigo 41.º-B;
+    Adita Artigo 41.º-C; Adita Artigo 41.º-D; Adita Título IV-A; Adita Capítulo I; Adita Artigo 48.º-A; Adita Artigo 48.º-B;
+    Adita Artigo 48.º-C; Adita Artigo 48.º-D; Adita Artigo 48.º-E; Adita Capítulo II; Adita Artigo 48.º-F; Adita Artigo 48.º-G;
+    Adita Artigo 48.º-H; Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680
+  date: '2018-07-20'
+- type: amended_by
+  target: pt:dre:166099792:por
+  label: Altera Artigo 1.º; Altera Artigo 48.º-A; Altera Artigo 48.º-C; Revoga Artigo 48.º-D; Revoga Artigo 48.º-E; Revoga
+    Artigo 48.º-F; Revoga Artigo 48.º-G; Revoga Artigo 48.º-H
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792
+  date: '2021-06-30'
+- type: amended_by
+  target: pt:dre:175744218:por
+  label: Altera Artigo 1.º; Altera Artigo 48.º-A; Altera Artigo 48.º-C; Revoga Artigo 48.º-D; Revoga Artigo 48.º-E; Revoga
+    Artigo 48.º-F; Revoga Artigo 48.º-G; Revoga Artigo 48.º-H
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218
+  date: '2021-12-10'
+- type: amended_by
+  target: pt:dre:992402107:por
+  label: Altera Artigo 32.º; Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/73-2025-992402107
+  date: '2025-12-23'
+- type: cites
+  target: celex:31985L0611
+  label: null
+  source: http://data.europa.eu/eli/dir/1985/611/oj
+- type: cites
+  target: celex:31993L0006
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/6/oj
+- type: cites
+  target: celex:31993L0022
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/22/oj
+- type: cites
+  target: celex:32000L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/12/oj
+- type: cites
+  target: celex:32004L0039
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/39/oj
+- type: cites
+  target: celex:32013R0575
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R0600
+  label: null
+  source: null
+- type: cites
+  target: celex:32022R2554
+  label: null
+  source: null
+- type: transposes
+  target: celex:32002L0092
+  label: null
+  source: null
+- type: transposes
+  target: celex:32011L0061
+  label: null
+  source: null
+- type: transposes
+  target: celex:32014L0065
+  label: null
+  source: null
+article_structure:
+  article_count: 68
+  section_count: 17
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:42:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 357-C/2007
+
+Decorridos cerca de sete anos sobre o processo de transformação das entidades gestoras de mercados e sistemas de associações mutualistas em sociedades anónimas de fins lucrativos, cujo enquadramento jurídico lhe foi dado pelo Decreto-Lei n.º 394/99, de 13 de Outubro, afigura-se agora necessário proceder a uma revisão deste regime no sentido de adequá-lo às alterações que, desde a última revisão introduzida pelo Decreto-Lei n.º 8-D/2002, de 15 de Janeiro, ocorreram nas estruturas de gestão de mercados e sistemas.
+
+Uma parte destas alterações insere-se no âmbito da reforma em curso do mercado de capitais fruto da transposição da Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0039" title="Link para Directiva da Comunidade Europeia">2004/39/CE</a>, do Parlamento Europeu e do Conselho, de 21 de Abril, relativa aos mercados de instrumentos financeiros, mas o presente decreto-lei transcende em ampla medida esta finalidade, procurando reformar o quadro jurídico da constituição e o funcionamento das entidades gestoras de mercados e sistemas.
+
+Desde logo, o âmbito de aplicação do presente decreto-lei vem estender-se às novas sociedades constituídas para a gestão exclusiva de sistemas de negociação multilateral, bem assim como às sociedades que, na sequência da alteração ao artigo 268.º do Código dos Valores Mobiliários, passam a poder prosseguir autonomamente a actividade de gestão de câmara de compensação e a assunção de responsabilidades de contraparte central.
+
+No que concerne ao objecto das entidades gestoras de mercados regulamentados, vem, de um lado, incluir-se no seu âmbito a gestão de sistema de negociação multilateral e, de outro lado, excluir-se a possibilidade de acumularem a actividade de gestão de sistema de liquidação, sendo o propósito ínsito desta segunda alteração a segregação de risco entre ambas as funções. Clarificam-se, ademais, as actividades que, a título acessório, podem ser conduzidas pelas entidades gestoras de mercados regulamentados, designadamente a elaboração, distribuição e comercialização de informações relativas a mercados ou instrumentos financeiros e o desenvolvimento, gestão e comercialização de equipamento e programas informáticos. Equiparam-se às sociedades gestoras de mercado regulamentado, do ponto de vista do objecto legal, as sociedades gestoras de sistemas de negociação multilateral.
+
+Releva salientar a alteração que agora se introduz no regime das participações permitidas no capital das entidades gestoras de mercados regulamentados, que deixa de se alicerçar na tipificação das entidades legitimadas a adquirir acções daquelas entidades para se passar a fundar num regime de controlo da idoneidade de quem pretenda adquirir ou alienar uma participação qualificada. Semelhante alteração também se verifica ao nível das participações permitidas no capital de outras entidades, que passam a ser aferidas em função da finalidade subjacente à detenção dessa participação - apenas é autorizada a detenção de participações que tenham carácter de investimento -, embora se mantenham delimitadas às entidades que prossigam um objecto no perímetro das entidades gestoras de mercados e sistemas.
+
+É objecto de tratamento renovado a matéria de conflito de interesses, anteriormente gizada em torno de um impedimento à acumulação de funções de administração em entidade gestora de mercados e sistemas com o exercício de actividade, designadamente, em emitente de valores mobiliários admitidos em mercado sob a sua gestão e em intermediário financeiro, e, agora, passa a basear-se na aferição da idoneidade e experiência profissional dos titulares dos órgãos sociais.
+
+É clarificada a articulação entre o processo de autorização ministerial, que se mantém tanto para os mercados regulamentados como para as respectivas entidades gestoras, e o processo de registo junto da Comissão do Mercado de Valores Mobiliários (CMVM) das últimas. No que concerne à instrução e procedimentos de registo, as alterações introduzidas resultam, de um lado, da consolidação do regime que se encontrava disperso em sede regulamentar e, de outro lado, da consagração de soluções de flexibilidade e simplificação administrativa. Neste âmbito, foi introduzida expressamente, entre os fundamentos para a recusa do registo, a verificação de factos susceptíveis de inviabilizar a adequada supervisão.
+
+Particularmente inovatória é a previsão expressa de uma garantia de continuidade dos mercados regulamentados, por um período transitório, quando da sua extinção possa resultar lesão grave para a economia nacional ou para os emitentes, membros de mercado ou investidores. O mesmo espírito de dotar o quadro legal das entidades gestoras de um regime completo, adaptado às suas especificidades e seguro, manifesta-se na introdução de normas próprias destinadas a regular a temática do bom governo e dos conflitos de interesses.
+
+Finalmente, importa enfatizar a criação de um tipo legal vocacionado especificamente para a gestão de câmara de compensação e ou contraparte central, deste modo se reconhecendo a crescente autonomia que estas actividades têm vindo a assumir relativamente à gestão de mercados e sistemas de liquidação.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 25/2007, de 18 de Julho, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Título I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei regula o regime jurídico das seguintes entidades:
+
+a) Sociedades gestoras de mercado regulamentado;
+
+b) Empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado;
+
+c) Sociedades gestoras de câmara de compensação;
+
+d) Sociedades gestoras de sistema de publicação autorizados (APA) ou de sistema de reporte autorizado (ARM);
+
+e) Sociedades gestoras de sistema de liquidação;
+
+f) Sociedades gestoras de sistema centralizado de valores mobiliários.
+
+2 - O presente decreto-lei não é aplicável às centrais de valores mobiliários sujeitas à legislação da União Europeia relativa à melhoria da liquidação de valores mobiliários na União Europeia e às centrais de valores mobiliários e respetiva regulamentação.
+
+3 - O presente decreto-lei transpõe parcialmente para a ordem jurídica nacional a Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativa aos mercados de instrumentos financeiros, que altera a Diretiva 2002/92/CE e a Diretiva 2011/61/UE.
+
+4 - Em tudo o que não venha previsto no presente decreto-lei aplica-se o Código dos Valores Mobiliários.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 40/2014 - Diário da República n.º 54/2014, Série I de 2014-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2014-571934), em vigor a partir de 2014-04-17
+
+###### Artigo 2.º — Tipo societário
+
+As sociedades gestoras referidas no artigo anterior adotam o tipo sociedade anónima.
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 40/2014 - Diário da República n.º 54/2014, Série I de 2014-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2014-571934), em vigor a partir de 2014-04-17
+
+###### Artigo 3.º — Sede
+
+As sociedades gestoras referidas no artigo 1.º têm sede estatutária e efetiva administração em Portugal.
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+## Título II — Sociedades gestoras de mercado regulamentado e sociedades gestoras de sistemas de negociação multilateral ou organizados
+
+> Alterado pelo/a Artigo 24.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+### Capítulo I — Objecto e participações
+
+###### Artigo 4.º — Objecto e firma das sociedades gestoras de mercado regulamentado
+
+1 - As sociedades gestoras de mercado regulamentado devem ter como objecto principal a gestão dos mercados a que se refere o artigo 199.º do Código dos Valores Mobiliários, podendo ainda exercer as seguintes actividades:
+
+a) Gestão de sistemas de negociação multilateral ou organizado a que se referem os artigos 200.º e 200.º-A do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro;
+
+b) Apuramento de posições líquidas;
+
+c) Prestação de outros serviços relacionados com a emissão e a negociação de valores mobiliários que não constituam actividade de intermediação financeira;
+
+d) Prestação aos membros dos mercados por si geridos dos serviços que se revelem necessários à intervenção desses membros em mercados geridos por entidade congénere de outro Estado;
+
+e) Elaboração, distribuição e comercialização de informações relativas a mercados de instrumentos financeiros ou a instrumentos financeiros negociados;
+
+f) Desenvolvimento, gestão e comercialização de equipamento e programas informáticos, bem como de redes telemáticas destinadas à contratação e à transmissão de ordens ou de dados.
+
+g) A prestação de serviços de comunicação de dados de negociação.
+
+2 - A firma das sociedades a que se refere o presente artigo deve incluir a expressão «sociedade gestora de mercado regulamentado» ou a abreviatura «SGMR», as quais, ou outras que com elas se confundam, não podem ser usadas por outras entidades.
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 5.º — Objeto das empresas de investimento gestoras de sistemas de negociação multilateral ou organizado
+
+1 - As empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado têm como objeto principal a gestão de sistemas de negociação multilateral ou de sistemas de negociação organizado a que se referem os artigos 200.º e 200.º-A do Código dos Valores Mobiliários podendo ainda exercer as atividades previstas no Regime das Empresas de Investimento.
+
+2 - [Revogado].
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 6.º — Participações permitidas
+
+1 - As sociedades gestoras de mercado regulamentado podem deter participações:
+
+a) Que tenham carácter de investimento; e
+
+b) Nas sociedades gestoras referidas no artigo 1.º ou nas sociedades que desenvolvam algumas das atividades referidas no n.º 1 do artigo 4.º
+
+2 - A participação de sociedade gestora de mercado regulamentado em sociedade que importe a assunção de responsabilidade ilimitada ou em sociedade emitente de ações admitidas à negociação nos mercados ou selecionadas para negociação nos sistemas de negociação multilateral ou organizado por si geridos depende de autorização prévia da Comissão do Mercado de Valores Mobiliários (CMVM), que deve ser acompanhada da demonstração da existência de mecanismos adequados a compensar o acréscimo de risco ou a prevenir conflitos de interesses, respetivamente.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 7.º — Número de accionistas
+
+As sociedades gestoras de mercado regulamentado constituem-se e subsistem com qualquer número de acionistas, nos termos da lei.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 8.º — Capital social
+
+1 - As sociedades gestoras de mercado regulamentado têm capital social não inferior a (euro) 500 000,00.
+
+2 - Na data de constituição da sociedade, o montante mínimo do capital social deve estar integralmente subscrito e realizado.
+
+3 - [Revogado].
+
+4 - As empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado sujeitam-se às exigências de capital social mínimo constante do Regime das Empresas de Investimento.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 9.º — Participações qualificadas
+
+1 - Quem, direta ou indiretamente, pretenda adquirir participação qualificada numa sociedade gestora de mercado regulamentado comunica previamente à CMVM o seu projeto de aquisição.
+
+2 - Considera-se participação qualificada:
+
+a) A que, directa ou indirectamente, represente percentagem não inferior a 10 % do capital ou dos direitos de voto da sociedade gestora; ou
+
+b) A que, por outro motivo, possibilite uma influência significativa na gestão da sociedade gestora.
+
+3 - Para efeitos do presente decreto-lei, no cômputo dos direitos de voto do participante na sociedade gestora é aplicável o disposto nos artigos 20.º, 20.º-A e 21.º do Código dos Valores Mobiliários, com as devidas adaptações.
+
+4 - No cômputo das participações qualificadas nas sociedades gestoras não são considerados:
+
+a) Os direitos de voto detidos em resultado da tomada firme ou da colocação com garantia de instrumentos financeiros, desde que os direitos de voto não sejam exercidos ou de outra forma utilizados para intervir na gestão da sociedade e sejam cedidos no prazo de um ano a contar da aquisição;
+
+b) As acções transaccionadas exclusivamente para efeitos de operações de compensação e de liquidação no âmbito do ciclo curto e habitual de liquidação;
+
+c) As participações de intermediário financeiro actuando como criador de mercado que atinjam ou ultrapassem 5 % dos direitos de voto correspondentes ao capital social, desde que aquele não intervenha na gestão da sociedade participada, nem a influencie a adquirir essas acções ou a apoiar o seu preço;
+
+d) As acções detidas por entidades de custódia, actuando nessa qualidade, desde que demonstrem perante a CMVM que apenas podem exercer os direitos de voto associados às acções sob instruções comunicadas por escrito ou por meios electrónicos.
+
+5 - Para efeitos das alíneas b) e c) do número anterior, aplica-se o disposto no artigo 16.º-A e no artigo 18.º do Código dos Valores Mobiliários.
+
+6 - O disposto no n.º 1 é igualmente aplicável aos casos em que se pretenda aumentar a participação qualificada que determinada pessoa já detenha, de tal modo que a percentagem dos seus direitos de voto ou do capital que detenha atinja ou ultrapasse 10 %, 20 %, um terço ou 50 %, ou em que, por outro motivo, se estabeleça uma relação de domínio com a sociedade gestora.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702)
+
+###### Artigo 10.º — Avaliação prudencial
+
+1 - Quem pretenda deter participação qualificada em sociedade gestora de mercado regulamentado deve reunir condições que garantam a gestão sã e prudente daquela sociedade.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 - A CMVM pronuncia-se sobre a pretensão de aquisição ou reforço da participação qualificada no prazo de 60 dias contados da receção da comunicação prevista nos n.os 1 e 6 do artigo anterior devidamente instruída.
+
+5 - A CMVM opõe-se à pretensão referida no número anterior quando existam motivos objetivos e fundamentados que o participante não assegure a gestão sã e prudente.
+
+6 - O pedido considera-se aprovado se a CMVM não se opuser por escrito no prazo referido no n.º 4.
+
+7 - A CMVM pode, por regulamento, estabelecer os elementos exigíveis para a apreciação dos requisitos de gestão sã e prudente das sociedades gestoras de mercado regulamentado.
+
+8 - Os titulares de participações qualificadas em empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado sujeitam-se aos requisitos de adequação e processo de apreciação constantes do Regime das Empresas de Investimento.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702)
+
+###### Artigo 11.º — Cooperação
+
+1 - A CMVM solicita o parecer da autoridade competente do Estado membro de origem, caso o proposto adquirente corresponda a um dos seguintes tipos de entidades:
+
+a) Instituição de crédito, empresa de seguros, empresa de resseguros, empresa de investimento ou entidade gestora de organismos de investimento coletivo em valores mobiliários autorizada noutro Estado-Membro;
+
+b) Empresa mãe de uma entidade referida na alínea anterior;
+
+c) Pessoa singular ou colectiva que controla uma entidade referida na alínea a).
+
+2 - A CMVM solicita o parecer da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF) ou do Banco de Portugal ou, caso o proposto adquirente corresponda a um dos tipos de entidades previstas no número anterior, autorizadas em Portugal, respetivamente, pela ASF ou pelo Banco de Portugal.
+
+3 - Perante a recepção de pedido de parecer de outra autoridade competente, a CMVM comunica as informações essenciais à apreciação de projectos de aquisição de participações qualificadas, assim como, caso venham a ser solicitadas, outras informações relevantes.
+
+4 - A CMVM consulta, através do Banco de Portugal, a base de dados de sanções da Autoridade Bancária Europeia para efeitos da apreciação do proposto adquirente.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702)
+
+###### Artigo 11.º-A — Diminuição da participação
+
+1 - A pessoa singular ou colectiva que pretenda deixar de deter participação qualificada numa sociedade gestora, ou diminuí-la de tal modo que a percentagem de direitos de voto ou de capital de que seja titular desça a nível inferior a qualquer dos limiares de 20 %, um terço ou 50 %, ou de tal modo que deixe de se verificar uma relação de domínio com a sociedade gestora, deve informar previamente a CMVM e comunicar-lhe o novo montante previsto da sua participação.
+
+2 - Os actos mediante os quais seja concretizada a alienação ou diminuição de participação qualificada sujeitos a comunicação prévia, devem ser comunicados à CMVM pelos participantes, no prazo de 15 dias.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702)
+
+###### Artigo 12.º — Comunicação à CMVM
+
+1 - Os actos mediante os quais seja concretizada a aquisição ou o aumento de participação qualificada sujeitos a comunicação prévia devem ser comunicados à CMVM pelos participantes, no prazo de 15 dias.
+
+2 - A sociedade gestora comunica à CMVM, logo que delas tenha conhecimento, as alterações a que se referem os artigos 9.º e 11.º-A.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702)
+
+###### Artigo 13.º — Inibição de direitos de voto
+
+1 - A aquisição ou o reforço de participação qualificada, nos termos previstos no artigo 9.º, determina a inibição do exercício dos direitos de voto inerentes à participação na medida necessária para impedir o adquirente de exercer na sociedade, através do voto, influência superior àquela que detinha antes da aquisição ou do reforço da participação, desde que se verifique alguma das seguintes situações:
+
+a) Não ter o adquirente cumprido a obrigação de comunicação prevista no n.º 1 do artigo 9.º;
+
+b) Ter o adquirente adquirido ou aumentado a sua participação depois de ter cumprido a comunicação prevista no n.º 1 do artigo 9.º, mas antes de a CMVM se ter pronunciado, nos termos do n.º 4 do artigo 10.º;
+
+c) Ter-se a CMVM oposto ao projecto de aquisição ou de aumento de participação qualificada.
+
+2 - O incumprimento do dever de comunicação previsto no artigo anterior determina a inibição dos direitos de voto, até à realização da comunicação em falta.
+
+3 - A CMVM pode determinar a inibição do exercício dos direitos de voto inerentes à participação em causa com fundamento em factos relevantes de que tome conhecimento após a constituição ou aumento de participação qualificada e que criem o receio fundado de que a influência exercida pelo detentor de participação qualificada pode prejudicar a gestão sã e prudente da sociedade participada.
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702)
+
+###### Artigo 14.º — Regime especial de invalidade de deliberações
+
+1 - Sempre que a CMVM ou o órgão de administração da sociedade gestora de mercado regulamentado tenham conhecimento de alguma situação de inibição de exercício de direitos de voto, nos termos do disposto no artigo anterior, comunicam imediatamente esse facto ao presidente da mesa da assembleia geral da sociedade, devendo este atuar de forma a impedir o exercício dos direitos de voto inibidos.
+
+2 - São anuláveis as deliberações sociais tomadas com base em votos inibidos, salvo se se provar que a deliberação teria sido adoptada sem aqueles votos.
+
+3 - A anulabilidade da deliberação pode ser arguida nos termos gerais ou, ainda, pela CMVM.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 15.º — Divulgação de participações
+
+O órgão de administração da sociedade gestora de mercado regulamentado ou da empresa de investimento que exerça a atividade de gestão de sistemas de negociação multilateral ou organizado promove a divulgação no respetivo sítio na Internet:
+
+a) Das informações sobre participações detidas, diminuição ou cessação, incluindo a identidade dos titulares, em relação quer ao capital social representado por acções com direito a voto, quer ao capital social total, em montante igual ou superior às participações a que alude o artigo 9.º;
+
+b) Até ao quinto dia anterior ao da realização da assembleia geral, da lista dos accionistas que sejam titulares de acções representativas de mais de 2  % do capital social representado por acções com direito de voto ou do capital social total.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702)
+
+### Capítulo II — Administração e fiscalização
+
+###### Artigo 16.º — Requisitos dos titulares dos órgãos
+
+1 - Os titulares dos órgãos de administração e de fiscalização de sociedade gestora de mercado regulamentado e as pessoas que efetivamente os dirigem são pessoas com idoneidade, qualificação profissional e disponibilidade adequadas ao desempenho das respetivas funções, dando garantias de uma gestão sã e prudente.
+
+2 - À apreciação dos requisitos de idoneidade, qualificação profissional e disponibilidade aplica-se o disposto no Regime das Empresas de Investimento e na regulamentação respetiva a adotar pela CMVM.
+
+3 - Os membros de órgãos de administração e fiscalização de sociedades gestoras de mercado regulamentado significativa em função da dimensão, organização interna, natureza e complexidade das suas atividades não pode acumular mais que:
+
+a) Um cargo executivo com dois não executivos; ou
+
+b) Quatro cargos não executivos.
+
+4 - Para efeitos do disposto no número anterior:
+
+a) Os cargos executivos ou não executivos em órgão de administração ou fiscalização de sociedade gestora de mercado regulamentado ou outras entidades que estejam incluídas no mesmo perímetro de supervisão em base consolidada ou nas quais a sociedade gestora de mercado regulamentado detenha uma participação qualificada consideram-se um único cargo;
+
+b) Os cargos exercidos em entidades que não exerçam atividade de natureza comercial não contam para os limite previstos no número anterior.
+
+5 - [Revogado].
+
+6 - Os membros dos órgãos de administração e de fiscalização da sociedade gestora de mercado regulamentado atuam de forma honesta, íntegra e independente, de modo a avaliar eficazmente e contestarem decisões da direção de topo sempre que necessário, bem como para fiscalizar e acompanhar o processo de tomada de decisões.
+
+7 - A sociedade gestora de mercado regulamentado adota uma política interna de seleção e avaliação dos membros dos órgãos de administração e de fiscalização que assegure um conjunto alargado de qualificações e competências para o exercício das funções e promova a diversidade.
+
+8 - [Revogado].
+
+9 - As sociedades gestoras de mercado regulamentado estabelecem no seu código deontológico regras relativas ao exercício de funções e à detenção de participações qualificadas pelos titulares dos seus órgãos de administração noutras entidades, destinadas a prevenir a ocorrência de conflitos de interesses.
+
+10 - A CMVM, para efeitos da verificação dos requisitos previstos no presente artigo, troca informações com o Banco de Portugal e com a Autoridade de Supervisão de Seguros e Fundos de Pensões.
+
+11 - Para efeitos do presente artigo, considera-se verificada a idoneidade dos membros dos órgãos de administração e fiscalização que se encontrem registados junto do Banco de Portugal ou da Autoridade de Supervisão de Seguros e Fundos de Pensões, quando esse registo esteja sujeito a condições de idoneidade, a menos que factos supervenientes à data do referido registo conduzam a CMVM a pronunciar-se em sentido contrário.
+
+12 - Fazem parte da direção de topo as pessoas singulares que exercem funções executivas na sociedade gestora de mercado regulamentado e que são responsáveis pela gestão corrente da entidade, prestando contas perante o órgão de administração.
+
+13 - A CMVM recolhe e analisa a informação relativa às práticas de diversidade e comunica à Autoridade Bancária Europeia quando estejam em causa sociedades gestoras que sejam empresas de investimento.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702)
+
+###### Artigo 16.º-A — Comité de nomeações
+
+1 - As sociedades gestoras de mercados regulamentados que sejam significativas em termos de dimensão, organização interna, natureza, âmbito e complexidade das suas atividades criam um comité de nomeações, composto por membros do órgão de administração que não desempenhem funções executivas ou por membros do órgão de fiscalização.
+
+2 - São competências do comité de nomeações relativamente aos órgãos de administração e fiscalização:
+
+a) Identificar e recomendar os candidatos a cargos naqueles órgãos, devendo para o efeito avaliar a composição dos mesmos em termos de conhecimentos, competências, diversidade e experiência;
+
+b) Elaborar uma descrição das funções e qualificações para os cargos em questão e avaliar o tempo a dedicar ao exercício da função;
+
+c) Fixar objetivos para a representação de homens e mulheres naqueles órgãos e conceber uma política destinada a aumentar o número de pessoas do género sub-representado com vista a atingir os referidos objetivos;
+
+d) Avaliar, com uma periodicidade no mínimo anual, a estrutura, a dimensão, a composição e o desempenho daqueles órgãos e formular recomendações aos mesmos com vista a eventuais alterações;
+
+e) Avaliar, com uma periodicidade mínima anual, os conhecimentos, as competências e a experiência de cada um dos membros daqueles órgãos e dos órgãos no seu conjunto, e comunicar-lhes os respetivos resultados;
+
+f) Rever periodicamente a política do órgão de administração em matéria de seleção e nomeação da direção de topo e formular-lhes recomendações.
+
+3 - No exercício das suas funções, o comité de nomeações deve procurar evitar que a tomada de decisões do órgão de administração seja dominada por uma pessoa individual ou pequeno grupo de pessoas em detrimento dos interesses da sociedade gestora no seu conjunto.
+
+4 - O comité de nomeações pode utilizar todos os meios que considere necessários, incluindo o recurso a consultores externos, e utilizar os fundos necessários para esse efeito.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 17.º — Comunicação dos titulares dos órgãos
+
+1 - A designação de membros dos órgãos de administração e fiscalização é comunicada à CMVM pela sociedade gestora de mercado regulamentado até 15 dias após a sua ocorrência.
+
+2 - A sociedade gestora de mercado regulamentado, ou ainda qualquer interessado, podem comunicar à CMVM a intenção de designação de membros dos órgãos de administração ou fiscalização daquelas.
+
+3 - A CMVM pode deduzir oposição àquela designação ou intenção de designação, com fundamento na falta de idoneidade, qualificação profissional ou disponibilidade, no prazo de 30 dias após ter recebido a comunicação da identificação da pessoa em causa.
+
+4 - A dedução de oposição com fundamento em falta de adequação dos membros do órgão de administração ou de fiscalização é comunicada aos interessados e à sociedade gestora de mercado regulamentado.
+
+5 - Os membros do órgão de administração ou de fiscalização não podem iniciar o exercício daquelas funções antes de decorrido o prazo referido no n.º 3.
+
+6 - A falta de comunicação à CMVM ou o exercício de funções antes de decorrido o prazo de oposição não determina a invalidade dos actos praticados pela pessoa em causa no exercício das suas funções.
+
+7 - A sociedade gestora comunica à CMVM, logo que deles tenha conhecimento, quaisquer factos supervenientes ou desconhecidos à data do ato de não oposição que possam afetar os requisitos de idoneidade, qualificação profissional ou disponibilidade dos membros do órgão de administração ou de fiscalização podendo a CMVM notificar a sociedade para suspender o exercício de funções das pessoas em causa e promover a sua substituição no prazo que lhe seja fixado.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702)
+
+###### Artigo 18.º — Administração
+
+1 - O órgão de administração da sociedade gestora de mercado regulamentado tem composição plural.
+
+2 - Compete, nomeadamente, ao órgão de administração da sociedade gestora de mercado regulamentado ou da empresa de investimento que exerça a atividade de gestão de sistemas de negociação multilateral ou organizado, nos termos das normas legais e regulamentares aplicáveis e em relação aos mercados ou sistemas geridos pela sociedade:
+
+a) Aprovar as regras relativas à organização geral dos mercados ou dos sistemas de negociação multilateral ou organizado e à admissão, suspensão e exclusão dos membros desses mercados ou sistemas;
+
+b) Aprovar as regras relativas à admissão ou seleção para negociação, suspensão e exclusão de instrumentos financeiros nos mercados ou sistemas de negociação multilateral ou organizado;
+
+c) Aprovar as regras que fixem limites quantitativos às posições que cada investidor ou membro do mercado, por si ou em associação com outros, pode assumir em operações sobre os instrumentos financeiros referidos nas alíneas e) e f) do n.º 1 do artigo 2.º do Código dos Valores Mobiliários;
+
+d) Aprovar as regras relativas ao procedimento disciplinar em conformidade com o artigo 32.º, salvaguardada a confidencialidade do processo e as garantias de defesa do arguido;
+
+e) Deliberar sobre a admissão dos membros dos mercados ou dos sistemas de negociação multilateral ou organizado ou, quando deixem de se verificar os requisitos da sua admissão ou em virtude de sanção disciplinar, sobre a suspensão e exclusão daqueles membros;
+
+f) Exercer o poder disciplinar;
+
+g) Admitir à negociação ou seleccionar para negociação, bem como suspender e excluir da negociação instrumentos financeiros;
+
+h) Exigir aos emitentes de valores mobiliários admitidos à negociação e aos membros dos mercados ou sistemas de negociação multilateral ou organizado as informações necessárias ao exercício das suas competências, ainda que as informações solicitadas se encontrem sujeitas a segredo profissional;
+
+i) Fiscalizar a execução das operações, o comportamento dos membros dos mercados ou sistemas de negociação multilateral ou organizado e o cumprimento dos deveres de informação;
+
+j) Promover a cooperação com entidades congéneres de mercados nacionais e estrangeiros.
+
+3 - Ao órgão de administração compete igualmente adoptar quaisquer medidas exigidas pelo bom funcionamento dos mercados ou para prevenir a prática de quaisquer actos fraudulentos e outros susceptíveis de perturbar a regularidade do seu funcionamento, nomeadamente:
+
+a) Interromper a negociação;
+
+b) Suspender a realização de operações;
+
+c) Excluir ofertas do sistema de negociação ou cancelar negócios;
+
+d) Excluir operações como elemento para o cálculo do preço de referência, quando aplicável.
+
+4 - As medidas adoptadas nos termos do número anterior e a respectiva justificação devem ser imediatamente comunicadas à CMVM, que pode determinar a sua revogação, se as considerar inadequadas ou insubsistente a justificação apresentada.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+### Capítulo III — Regime de autorização
+
+###### Artigo 19.º — Autorização
+
+1 - A constituição de sociedades gestoras de mercado regulamentado, ainda que por alteração do objeto social de sociedade já existente ou por cisão, depende de autorização da CMVM.
+
+2 - A autorização de empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado sujeita-se ao Regime das Empresas de Investimento.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 20.º — Instrução do pedido
+
+1 - O pedido de autorização é instruído com os seguintes elementos:
+
+a) Projecto do contrato de sociedade;
+
+b) Estrutura orgânica e descrição dos meios humanos, técnicos e materiais que serão utilizados, incluindo os afetos à gestão de cada mercado ou sistema;
+
+c) Identificação e estrutura dos mercados e sistemas que a sociedade pretende gerir, incluindo um programa de operações, especificando designadamente os tipos de atividade comercial projetadas e a estrutura organizativa;
+
+d) Estudo comprovativo da viabilidade económica e financeira da sociedade a constituir e do seu plano de negócios, bem como a demonstração de que a sociedade gestora tem condições para respeitar os requisitos prudenciais;
+
+e) Identificação dos accionistas fundadores, com especificação do montante de capital a subscrever por cada um;
+
+f) Identificação das entidades detentoras de quaisquer participações na sociedade, com especificação da respectiva percentagem do capital social e da percentagem dos direitos de voto, nos termos do artigo 20.º do Código dos Valores Mobiliários;
+
+g) Declaração de compromisso de que no acto da constituição, e como condição dela, se encontra depositado numa instituição de crédito o montante do capital social.
+
+h) Identificação dos titulares dos órgãos sociais.
+
+2 - A CMVM pode solicitar aos requerentes elementos e informações complementares e realizar as averiguações que considere necessárias.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 21.º — Decisão
+
+1 - A decisão é notificada aos interessados no prazo de dois meses contados da receção do pedido.
+
+2 - Caso sejam solicitados elementos ou informações complementares, a data de receção dos mesmos constitui o termo inicial do prazo previsto no número anterior, que não pode exceder seis meses.
+
+3 - A pretensão considera-se recusada se a decisão de autorização não for notificada nos termos dos números anteriores.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 22.º — Recusa
+
+A autorização é recusada sempre que:
+
+a) O pedido de autorização não se encontre instruído, dentro dos prazos aplicáveis, com os elementos referidos no n.º 1 do artigo 20.º ou, nos mesmos prazos, não sejam entregues os elementos e as informações complementares solicitados;
+
+b) A instrução do pedido enfermar de inexactidões ou falsidades;
+
+c) A sociedade a constituir não observar as normas que lhe são aplicáveis;
+
+d) A sociedade a constituir não dispuser dos meios humanos, técnicos e materiais ou dos recursos financeiros adequados para a prossecução do seu objecto social;
+
+e) Não seja concedida autorização para constituição do mercado regulamentado cuja gestão a sociedade a constituir se proponha assegurar.
+
+###### Artigo 23.º — Caducidade
+
+A autorização caduca:
+
+a) Se os requerentes a ela renunciarem expressamente;
+
+b) Se a sociedade não for constituída no prazo de seis meses após a sua autorização ou não iniciar actividade no prazo de 12 meses após a sua autorização;
+
+c) Se a sociedade for dissolvida;
+
+d) Se o mercado regulamentado que se propõe gerir não iniciar actividade no prazo de 12 meses após a autorização da sociedade.
+
+###### Artigo 24.º — Revogação
+
+1 - A CMVM pode revogar a autorização se:
+
+a) Tiver sido obtido mediante a prestação de informação que não observe o disposto no artigo 7.º do Código dos Valores Mobiliários;
+
+b) A atividade não corresponder ao objeto social autorizado;
+
+c) A sociedade cessar o exercício da atividade;
+
+d) Deixar de se verificar a adequação da situação económica e financeira da sociedade, com vista a garantir o disposto no artigo 32.º, designadamente em virtude de não regularização de alguma das situações previstas nos n.os 2 e 3 do artigo 40.º no prazo que seja fixado pela CMVM;
+
+e) Deixar de se verificar algum dos requisitos de que dependa a concessão da respectiva autorização;
+
+f) Ocorrerem faltas graves na actividade da sociedade, designadamente na administração, na fiscalização, na organização contabilística ou nos sistemas de controlo internos;
+
+g) A sociedade não observar as normas relativas à sua atividade ou não cumprir as determinações das autoridades competentes;
+
+h) (Revogada);
+
+i) O mercado regulamentado por si gerido se extinguir.
+
+2 - A revogação da autorização implica a dissolução e liquidação da sociedade gestora de mercado regulamentado.
+
+3 - A CMVM estabelece, no ato de revogação, o regime de gestão provisória da sociedade, podendo, designadamente, nomear a maioria dos membros dos órgãos de administração e de fiscalização da sociedade e determinar a adoção de quaisquer medidas que assegurem a defesa do mercado.
+
+4 - Havendo recurso da decisão de revogação, presume-se que a suspensão da execução determina grave lesão do interesse público.
+
+5 - A revogação da autorização é comunicada à Autoridade Europeia dos Valores Mobiliários e dos Mercados.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 29.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07
+
+###### Artigo 25.º — Participações de domínio
+
+1 - O disposto no presente capítulo é ainda aplicável, com as devidas adaptações, a quem pretender atingir ou ultrapassar, nos termos do disposto no artigo 20.º do Código dos Valores Mobiliários, participação de 50  % dos direitos de voto correspondentes ao capital social de sociedade gestora de mercado regulamentado e ainda a quem, relativamente a esta, possa exercer uma influência dominante, nos termos do artigo 21.º do mesmo Código.
+
+2 - O processo de autorização deve, pelo menos, ser instruído com os elementos comprovativos de que estão reunidos os requisitos legais da qualidade de accionista e com os referidos nas alíneas a) e f) do artigo 20.º
+
+3 - É fundamento adicional de recusa de autorização a circunstância de não se considerar demonstrado que o requerente satisfaz o disposto no artigo 10.º
+
+4 - É fundamento específico de caducidade que as deliberações a tomar ou outros actos a praticar na sequência da autorização não tenham lugar no prazo de seis meses, ou a sua execução não tenha lugar no prazo de 12 meses após a concessão de autorização.
+
+5 - À aquisição de participação nos termos do n.º 1, sem prévia autorização, aplica-se o disposto no n.º 2 do artigo 13.º, até que seja obtida a respectiva autorização ou até que seja reduzida a participação.
+
+6 - O mesmo regime aplica-se a quem se encontre involuntariamente nas situações previstas no n.º 1.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+### Capítulo IV — Registo
+
+###### Artigo 26.º — Sujeição a registo
+
+1 - A CMVM regista oficiosamente as sociedades gestoras de mercado regulamentado que autoriza, podendo o registo ser consultado no Sistema de Difusão de Informação da CMVM.
+
+2 - A autorização prevista no artigo 217.º do Código dos Valores Mobiliários e o registo de mercados regulamentados só são concedidos às respetivas sociedades gestoras após o registo destas.
+
+3 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados a autorização das empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado.
+
+4 - A CMVM, através de regulamento, define os termos e o conteúdo a que obedece o registo das sociedades gestoras previsto no n.º 1.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07
+
+###### Artigo 27.º — Instrução do registo
+
+1 - O pedido de registo das sociedades gestoras de mercado regulamentado e das sociedades gestoras de sistemas de negociação multilateral ou organizado deve ser instruído com os seguintes elementos atualizados:
+
+a) Contrato de sociedade;
+
+b) Identificação dos titulares dos órgãos sociais;
+
+c) Identificação das pessoas titulares das participações qualificadas e montante das respectivas participações;
+
+d) A identificação dos mercados ou dos sistemas de negociação multilateral ou organizado geridos pela sociedade, incluindo um programa de operações, especificando designadamente os tipos de atividade comercial projetadas e a estrutura organizativa;
+
+e) A descrição dos meios humanos, técnicos e materiais de que a sociedade disponha afectos à gestão de cada mercado ou sistema;
+
+f) Estudo de viabilidade e o plano de negócios, bem como a demonstração de que a sociedade gestora tem condições para respeitar os requisitos prudenciais.
+
+2 - No caso das sociedades gestoras de mercado regulamentado, o pedido de registo deve ainda ser instruído com o pedido da autorização previsto no artigo 217.º do Código dos Valores Mobiliários e cópia dos documentos que instruíram o processo.
+
+3 - Não é exigível a apresentação dos documentos que já estejam em poder da CMVM ou que esta possa obter em publicações oficiais ou junto da autoridade nacional que concedeu a autorização ou a quem a autorização foi comunicada.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 28.º — Prazo
+
+1 - O prazo para apreciação do pedido de registo é de 30 dias contados da data de apresentação do respectivo requerimento ou da prestação de esclarecimentos ou informações complementares solicitados pela CMVM.
+
+2 - O registo considera-se recusado se a CMVM não o efectuar no prazo fixado no número anterior.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 29.º — Cancelamento
+
+1 - [Revogado].
+
+2 - O registo da sociedade gestora é cancelado em caso de revogação da respetiva autorização.
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+5 - No caso previsto no n.º 2, a CMVM estabelece as medidas que sejam necessárias para defesa dos interesses dos investidores, dos emitentes e dos membros do mercado ou sistemas.
+
+6 - O cancelamento do registo da atividade de gestão de sistemas de negociação multilateral ou organizado é comunicado à Autoridade Europeia dos Valores Mobiliários e dos Mercados e, no caso de ser permitido o acesso remoto ao sistema de negociação multilateral ou organizado no território de outros Estados-Membros da União Europeia ao abrigo do artigo 224.º do Código dos Valores Mobiliários, às autoridades competentes desses Estados-Membros.
+
+7 - A CMVM divulga o cancelamento do registo por um período de cinco anos, através do sistema de difusão de informação referido no artigo 367.º do Código dos Valores Mobiliários.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07
+
+###### Artigo 30.º — Continuidade dos mercados regulamentados
+
+Quando o cancelamento do registo da sociedade gestora implicar lesão grave para a economia nacional ou, nomeadamente, para os emitentes de valores mobiliários admitidos à negociação, para os membros do mercado e para os investidores, pode a CMVM adotar as medidas adequadas a assegurar, durante o prazo necessário, a continuidade dos mercados até à dissolução da sociedade.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+### Capítulo V — Vicissitudes societárias
+
+###### Artigo 31.º — Alterações ao contrato de sociedade
+
+1 - Os projetos de fusão, cisão, dissolução e redução do capital social da sociedade gestora de mercado regulamentado são comunicados à CMVM, podendo esta deduzir oposição no prazo de 15 dias a contar dessa comunicação.
+
+2 - Devem ser comunicadas à CMVM as seguintes alterações ao contrato de sociedade:
+
+a) Objecto social;
+
+b) Firma;
+
+c) Sede da sociedade;
+
+d) Criação de novas categorias de acções ou alteração das categorias existentes;
+
+e) Limitações de contagem de votos e outras matérias conexas;
+
+f) Estrutura da administração ou fiscalização;
+
+g) Limitação dos poderes dos órgãos de administração ou de fiscalização.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+### Capítulo VI — Regras de conduta
+
+###### Artigo 32.º — Boa gestão e bom governo
+
+1 - As sociedades gestoras de mercado regulamentado e as empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado asseguram a manutenção de padrões de elevada qualidade e eficiência na gestão dos mercados ou sistemas a seu cargo, bem como na prestação de outros serviços.
+
+2 - (Revogado.)
+
+3 - Os órgãos de administração e de fiscalização das sociedades gestoras de mercados regulamentados definem, fiscalizam e são responsáveis, no âmbito das respetivas competências, pela aplicação de sistemas de governo que garantam a gestão eficaz e prudente da mesma, incluindo a separação de funções no seio da organização de modo a assegurar a integridade do mercado e a prevenção de conflitos de interesses.
+
+4 - Na definição dos sistemas de governo compete aos órgãos de administração e de fiscalização, no âmbito das respetivas funções:
+
+a) Assumir a responsabilidade pela sociedade gestora, aprovar e fiscalizar a implementação dos objetivos estratégicos, da estratégia de risco e do governo interno da mesma;
+
+b) Assegurar a integridade dos sistemas contabilístico e de informação financeira, incluindo o controlo financeiro e operacional e o cumprimento da legislação e regulamentação aplicáveis à sociedade gestora;
+
+c) Supervisionar o processo de divulgação e os deveres de informação à CMVM;
+
+d) Acompanhar e controlar a atividade da direção de topo.
+
+5 - Os órgãos de administração e de fiscalização acompanham e avaliam periodicamente a eficácia dos sistemas de governo da sociedade gestora e, no âmbito das respetivas competências, tomam e propõem as medidas adequadas para corrigir quaisquer deficiências detetadas nos mesmos.
+
+6 - Os membros do órgão de administração têm acesso adequado às informações e aos documentos necessários à supervisão e ao acompanhamento do processo de decisão em matéria de gestão.
+
+7 - As sociedades gestoras devem:
+
+a) Rever e avaliar periodicamente a eficácia dos sistemas de governo societário e tomar as medidas adequadas para corrigir eventuais deficiências;
+
+b) Divulgar, anualmente, um relatório sobre a estrutura e as práticas de governo societário.
+
+8 - A CMVM deve, através de regulamento, definir o conteúdo, a forma e o prazo de divulgação do relatório referido no número anterior
+
+9 - As sociedades gestoras devem afetar recursos humanos e financeiros adequados à formação dos colaboradores e membros do órgão de administração.
+
+10 - As empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado sujeitam-se aos requisitos de governo societário constantes do Regime das Empresas de Investimento.
+
+> Alterado pelo/a Artigo 22.º do/a [Lei n.º 73/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/73-2025-992402107), em vigor a partir de 2025-12-28
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 32.º-A — Comunicação interna de factos, provas e informações
+
+1 - As entidades gestoras adotam meios e procedimentos específicos, independentes e autónomos para que os seus funcionários ou colaboradores comuniquem factos, provas ou informações relativas a infrações ou irregularidades que digam respeito às matérias referidas no n.º 3 do artigo 388.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, e organizam o tratamento e conservação dos elementos recebidos.
+
+2 - As comunicações efetuadas podem ser identificadas ou anónimas e os factos, provas ou informações podem dizer respeito a infrações já consumadas, que estejam a ser executadas ou que, à luz dos elementos disponíveis, se possa prever com probabilidade que venham a ser praticadas.
+
+3 - Os meios e procedimentos referidos no n.º 1 garantem a confidencialidade da informação recebida, o regime de anonimato, se o mesmo tiver sido adotado, e a proteção dos dados pessoais do denunciante e do denunciado pela prática da eventual infração, nos termos da legislação nacional e da União Europeia relativa à proteção de dados pessoais.
+
+4 - As comunicações recebidas nos termos dos números anteriores são objeto de análise fundamentada com, pelo menos, o seguinte conteúdo:
+
+a) A descrição dos factos participados;
+
+b) A descrição das diligências internas efetuadas de averiguação da factualidade participada;
+
+c) A descrição dos factos apurados ou estabilizados sobre a participação que foi feita e os meios de prova usados para tal;
+
+d) A enunciação da qualificação jurídica dos factos e das consequências jurídicas dos mesmos; e
+
+e) A descrição das medidas internas adotadas ou as razões por que não foram adotadas quaisquer medidas.
+
+5 - Caso o autor da comunicação o tenha requerido, as entidades gestoras comunicam-lhe o resultado da análise efetuada, no prazo de 15 dias após a respetiva conclusão.
+
+6 - As comunicações de factos, provas, informações ou denúncias referidas anteriormente, bem como as diligências efetuadas e respetivas análises fundamentadas, são conservadas em suporte escrito ou noutro suporte duradouro que garanta a integridade do respetivo conteúdo, pelo prazo de cinco anos, contados da sua receção ou da última análise a que aquelas tenham dado origem.
+
+7 - As comunicações de factos, provas, informações ou denúncias efetuadas ao abrigo dos números anteriores não podem, por si só, servir de fundamento à instauração, pelas entidades gestoras ou pelas pessoas ou entidades denunciadas, de qualquer procedimento disciplinar, civil ou criminal relativamente ao autor das mesmas, exceto se forem falsas e tiverem sido apresentadas de má-fé.
+
+8 - A CMVM pode regulamentar o disposto no presente artigo, designadamente quanto aos tipos de canais específicos a adotar, aos procedimentos a seguir, às formas de apresentação das comunicações ou denúncias, aos mecanismos de confidencialidade, segurança e conservação da informação, e o envio à CMVM de informação sobre as comunicações ou denúncias recebidas e o respetivo processamento.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 6.º do/a [Lei n.º 28/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/28-2017-107094723), em vigor a partir de 2017-06-29
+
+###### Artigo 33.º — Conflito de interesses
+
+1 - As sociedades gestoras de mercado regulamentado e a empresa de investimento que exerça a atividade de gestão de sistemas de negociação multilateral ou organizado adotam as medidas de organização interna adequadas a:
+
+a) Identificar, prevenir e evitar a ocorrência de conflito de interesses entre a exigência do bom funcionamento dos mercados ou sistemas por si geridos e os interesses da sociedade gestora, dos titulares de participações qualificadas, dos órgãos de administração da sociedade ou das pessoas que efectivamente a dirijam; e
+
+b) Gerir as possíveis consequências adversas, decorrentes de conflitos de interesses, para o funcionamento dos mercados ou sistemas por si geridos ou para os seus membros, na impossibilidade de prevenir os referidos conflitos.
+
+2 - As sociedades gestoras referidas no número anterior devem tratar, de modo leal e equitativo, os seus accionistas, os membros do mercado ou do sistema e os emitentes de valores mobiliários.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 34.º — Auto-admissão
+
+1 - A sociedade gestora de mercado regulamentado deve adoptar os procedimentos adequados a prevenir a ocorrência de conflitos de interesses em caso de auto-admissão de valores mobiliários.
+
+2 - Considera-se auto-admissão a admissão à negociação de valores mobiliários emitidos por sociedade gestora de mercado regulamentado, ou por uma das sociedades com que se encontre em relação de domínio ou de grupo, nos mercados por si geridos.
+
+###### Artigo 35.º — Defesa do mercado
+
+1 - A sociedade gestora de mercado regulamentado e a empresa de investimento que exerça a atividade de gestão de sistemas de negociação multilateral ou organizado atuam com a maior probidade comercial, não permitindo a prática de atos suscetíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado.
+
+2 - São, nomeadamente, suscetíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado os atos previstos no artigo 311.º do Código dos Valores Mobiliários.
+
+3 - As sociedades gestoras e as empresas de investimento adotam sistemas e procedimentos de prevenção e deteção de ordens, ofertas ou de operações suspeitas de constituírem abuso de mercado em conformidade com a legislação da União Europeia relativa ao abuso de mercado.
+
+4 - As sociedades gestoras e as empresas de investimento comunicam imediatamente à CMVM a verificação de condições anormais de negociação ou de condutas suscetíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado ou do sistema, incluindo situações que possam indicar uma conduta que seja proibida por força da legislação da União Europeia relativa ao abuso de mercado, fornecendo todas as informações relevantes para a respetiva investigação e, bem assim, os incumprimentos relevantes de regras relativas ao funcionamento do mesmo.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 28/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/28-2017-107094723), em vigor a partir de 2017-06-29
+
+###### Artigo 36.º — Código deontológico
+
+1 - As sociedades gestoras de mercado regulamentado e as empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado aprovam um código deontológico ao qual ficam sujeitas:
+
+b) Os seus trabalhadores;
+
+c) Os membros dos mercados por si geridos;
+
+d) Quaisquer entidades que intervenham nos mercados ou sistemas geridos pela sociedade gestora de mercado regulamentado ou pela empresa de investimento ou que tenham acesso às instalações desses mercados ou sistemas geridos pela sociedade, quanto aos deveres relacionados com essa intervenção ou acesso.
+
+2 - O código deontológico deve regular, designadamente:
+
+a) As medidas de defesa do mercado;
+
+b) Os termos em que as pessoas a ele sujeitas podem transaccionar instrumentos financeiros negociados em mercado por si gerido;
+
+c) As regras relativas ao exercício de funções e à detenção de participações qualificadas pelos titulares dos seus órgãos de administração noutras entidades, destinadas a prevenir a ocorrência de conflitos de interesses;
+
+d) Os padrões de diligência e aptidão profissional que devem ser observados em todas as actividades da sociedade;
+
+e) As sanções adequadas à gravidade da infracção disciplinar, podendo prever, entre outras, as sanções de advertência, de suspensão até seis meses ou de exclusão.
+
+3 - As normas que tenham por destinatários os titulares dos órgãos e os trabalhadores da sociedade e os membros de mercados por si geridos devem estabelecer níveis elevados de exigência.
+
+4 - O código deontológico e respectivas alterações devem ser comunicados à CMVM, no prazo de 15 dias após a sua aprovação.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 37.º — Segredo profissional
+
+1 - A sociedade gestora de mercado regulamentado e a empresa de investimento que exerça a atividade de gestão de sistemas de negociação multilateral ou organizado, os titulares dos seus órgãos, os seus colaboradores e as pessoas que lhe prestem, a título permanente ou ocasional, quaisquer serviços estão sujeitos a segredo profissional quanto a todos os factos e elementos cujo conhecimento lhes advenha do exercício das suas funções ou da prestação dos seus serviços.
+
+2 - O dever de segredo não cessa com o termo das funções ou do serviço.
+
+3 - Os factos e elementos abrangidos pelo dever de segredo só podem ser revelados nos termos previstos na lei, designadamente à CMVM.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 38.º — Poder disciplinar e deveres de notificação
+
+1 - Estão sujeitas ao poder disciplinar da sociedade gestora de mercado regulamentado da sociedade gestora e da empresa de investimento que exerça a atividade de gestão de sistemas de negociação multilateral ou organizado, nos termos previstos no código deontológico, as pessoas referidas nas alíneas b) e c) e na primeira parte da alínea d) do n.º 1 do artigo 36.º
+
+2 - Constitui infracção disciplinar a violação dos deveres a que estão sujeitas as pessoas referidas no n.º 1, previstos na lei, em regulamento ou no código deontológico.
+
+3 - As sanções disciplinares aplicadas são comunicadas à CMVM.
+
+4 - Se a infracção configurar igualmente contra-ordenação ou crime público, o órgão de administração da sociedade deve comunicá-lo de imediato à CMVM.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 39.º — Princípios de exercício do poder disciplinar
+
+As sociedades gestoras de mercado regulamentado e as empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado exercem o poder disciplinar de acordo com princípios de justiça e de equidade, assegurando o exercício do contraditório e a fundamentação das respetivas decisões.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 39.º-A — Gestão de sistemas de negociação multilateral ou organizado
+
+As sociedades gestoras de sistemas de negociação multilateral ou organizado, bem como as sociedades gestoras de mercado regulamentado que gerem algum destes sistemas, estão sujeitas, com as devidas adaptações, aos requisitos de exercício de atividades de intermediação financeira previstos nas subsecções I a VI da secção III do título VI do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, aplicáveis às empresas de investimento, sempre que os mesmos não estejam previstos no presente decreto-lei.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+### Capítulo VII — Regras prudenciais e de organização
+
+> Alterado pelo/a Artigo 24.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+#### Secção I — Regras gerais
+
+> Aditado pelo/a Artigo 24.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 40.º — Regras prudenciais e de organização
+
+1 - A situação económica e financeira das sociedades gestoras de mercado regulamentado ou empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado assegura o funcionamento ordenado daqueles mercados ou sistemas, tendo em conta a natureza e o volume das operações e a diversidade e o grau de riscos a que está exposta.
+
+2 - A sociedade gestora:
+
+a) Dispõe dos meios necessários para gerir os riscos a que está exposta, incluindo o risco associado às tecnologias de informação e comunicação (TIC), de acordo com o capítulo ii do Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, e, para o efeito, adota os mecanismos e sistemas adequados para identificar todos os riscos significativos para o seu funcionamento, bem como as medidas que se revelem eficazes para mitigar esses riscos;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+3 - Uma fração não inferior a 10 % dos lucros líquidos apurados em cada exercício pelas sociedades gestoras de mercado regulamentado destina-se à constituição de reserva legal até ao limite do capital social.
+
+4 - Para efeitos do n.º 1, a CMVM pode, por regulamento, estabelecer as regras que se revelem necessárias, designadamente, no respeitante:
+
+a) Aos requisitos de adequação de fundos próprios aplicáveis, em base individual ou consolidada, bem como às respectivas regras de cálculo e o regime de supervisão prudencial;
+
+b) Aos limites e formas de cobertura dos recursos alheios e de quaisquer outras responsabilidades perante terceiros;
+
+c) Aos limites mínimos de constituição de provisões para riscos decorrentes da actividade;
+
+d) Aos limites relativos à relação entre as participações detidas e os fundos próprios;
+
+e) À definição do conteúdo dos planos contabilísticos.
+
+5 - Se for violado algum dos deveres referidos nos números anteriores, a CMVM pode fixar prazo razoável para regularização da situação.
+
+6 - Os mecanismos de controlo interno e os procedimentos administrativos e contabilísticos previstos nos números anteriores devem permitir, a qualquer momento, a verificação do cumprimento das regras aplicáveis.
+
+7 - As sociedades gestoras registam todas as suas operações e documentam todos os seus sistemas e procedimentos, de forma a que a CMVM possa em qualquer momento verificar o respetivo cumprimento.
+
+8 - As sociedades gestoras:
+
+a) Conservam em arquivo as informações relevantes relacionadas com todas as ofertas relativas a instrumentos financeiros que tenham divulgado através dos seus sistemas, nos termos previstos na legislação da União Europeia relativa aos mercados de instrumentos financeiros;
+
+b) Estabelecem mecanismos de segurança sólidos destinados a garantir a segurança e a autenticação dos meios de transferência da informação, a minimizar o risco de corrupção de dados e de acesso não autorizado e a evitar fugas de informação, mantendo em permanência a confidencialidade dos dados, sempre que reportem operações por conta de um intermediário financeiro nos termos na legislação da União Europeia relativa aos mercados de instrumentos financeiros.
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 73/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/73-2025-992402107), em vigor a partir de 2025-12-28
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 41.º — Aquisição de imóveis
+
+A sociedade gestora de mercado regulamentado ou a sociedade gestora de sistema de negociação multilateral só pode adquirir os imóveis que se revelem indispensáveis à sua instalação e funcionamento.
+
+> Revogado pelo/a Artigo 29.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+#### Secção II — Supervisão prudencial de sociedades gestoras de sistemas de negociação multilateral ou organizados
+
+> Aditado pelo/a Artigo 24.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 41.º-A — Regras prudenciais
+
+1 - As sociedades gestoras de sistemas de negociação multilateral ou organizado estão sujeitas às regras prudenciais previstas:
+
+a) Nos artigos 115.º-C, 115.º-E, 115.º-F, 115.º-G, 115.º-I, 115.º-M a 115.º-W, 116.º-A a 116.º-N, 116.º-AC a 116.º-AI, 129.º-A, 129.º-B e 199.º-D a 199.º-H do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, com as devidas adaptações;
+
+b) No Regulamento (UE) n.º 575/2013, do Parlamento Europeu e do Conselho, de 26 de junho de 2013, que lhes sejam aplicáveis.
+
+2 - Para efeitos do disposto no número anterior, as competências conferidas ao Banco de Portugal nos artigos aí referidos são atribuídas à CMVM no que diz respeito às sociedades gestoras de sistemas de negociação multilateral ou organizado, incluindo em matéria regulamentar.
+
+3 - A CMVM comunica ao Banco de Portugal as informações que devam ser comunicadas à Autoridade Bancária Europeia nos termos do Regulamento (UE) n.º 575/2013, do Parlamento Europeu e do Conselho, de 26 de junho de 2013.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 41.º-B — Gestão de riscos
+
+1 - Os deveres, políticas e procedimentos previstos nos artigos 305.º-B e 305.º-D do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, abrangem a gestão dos riscos regulados nas disposições referidas no n.º 1 do artigo 41.º-A, devendo para o efeito o serviço de gestão de risco da sociedade gestora de sistemas de negociação multilateral ou organizado:
+
+a) Garantir em especial a identificação, avaliação e reporte de todos os riscos significativos;
+
+b) Participar na definição da estratégia de risco da instituição e nas decisões relativas à gestão de riscos significativos.
+
+2 - O órgão de fiscalização tem acesso às informações sobre a situação de risco da sociedade gestora e, caso seja necessário e adequado, ao serviço de gestão de risco e aconselhamento especializado externo, cabendo-lhe determinar a natureza, a quantidade, o formato e a frequência das informações relativas a riscos que deva receber.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 41.º-C — Plano de atividades de supervisão
+
+No quadro do plano anual de atividades de supervisão adotado pela CMVM, é aplicável o disposto no artigo 116.º-AC do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, com as devidas adaptações, às sociedades gestoras de sistema de negociação multilateral ou organizado.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 41.º-D — Intervenção corretiva, administração provisória e resolução
+
+O disposto no Título VIII do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, é aplicável às sociedades gestoras de sistemas de negociação multilateral ou organizado, com as modificações seguintes:
+
+a) As competências conferidas ao Banco de Portugal nos Capítulos I e II é atribuída à CMVM;
+
+b) A autoridade de resolução consulta a CMVM antes de aplicar qualquer medida de resolução.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+## Título III — Sociedades gestoras de câmara de compensação
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 40/2014 - Diário da República n.º 54/2014, Série I de 2014-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2014-571934), em vigor a partir de 2014-04-17
+
+###### Artigo 42.º — Firma, capital social e regime jurídico
+
+1 - As sociedades gestoras referidas na alínea c) do n.º 2 do artigo 268.º do Código dos Valores Mobiliários devem usar na sua firma a denominação «sociedade gestora de câmara de compensação» ou abreviadamente «SGCC».
+
+2 - (Revogado).
+
+3 - As sociedades gestoras de câmara de compensação têm capital social não inferior a (euro) 150 000,00 ou a (euro) 7 000 000,00 se atuarem como contraparte central.
+
+4 - Sem prejuízo do disposto no presente título, às sociedades referidas no n.º 1 é aplicável, com as devidas adaptações, o título II do presente decreto-lei, com exceção do seu capítulo III.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 40/2014 - Diário da República n.º 54/2014, Série I de 2014-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2014-571934), em vigor a partir de 2014-04-17
+
+###### Artigo 43.º — Autorização
+
+O exercício de funções de câmara de compensação e contraparte central relativamente a operações sobre os instrumentos financeiros referidos nas subalíneas ii) e iii) da alínea e) e na alínea f) do n.º 1 do artigo 2.º do Código dos Valores Mobiliários está sujeito a autorização prévia por portaria conjunta dos membros do Governo responsáveis pela área das finanças e pelo sector a que respeitam os activos subjacentes, ouvida a CMVM.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 40/2014 - Diário da República n.º 54/2014, Série I de 2014-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2014-571934), em vigor a partir de 2014-04-17
+
+###### Artigo 44.º — Regulamentação
+
+Cabe à CMVM a regulamentação das seguintes matérias:
+
+a) Exercício da atividade de sociedades gestoras de câmara de compensação;
+
+b) Meios técnicos, humanos e materiais e técnicas de gestão de risco necessárias para a concessão de registo às sociedades gestoras de câmara de compensação;
+
+c) Regras prudenciais relativas ao controlo do risco financeiro.
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 40/2014 - Diário da República n.º 54/2014, Série I de 2014-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2014-571934), em vigor a partir de 2014-04-17
+
+## Título IV — Sociedades gestoras de sistema de liquidação e sociedades gestoras de sistema centralizado de valores mobiliários
+
+> Alterado pelo/a Artigo 24.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 45.º — Objeto e capital social
+
+1 - Podem ser constituídas sociedades que tenham por objeto social o exercício exclusivo da gestão de sistema de liquidação de valores mobiliários ou da gestão de sistema centralizado de valores mobiliários.
+
+2 - As sociedades referidas no número anterior não podem prestar serviços de gestão de mercado regulamentado e de sistema de negociação multilateral ou organizado.
+
+3 - O capital social não pode ser inferior a:
+
+a) (euro) 150 000,00, no caso de sociedades gestoras de sistema de liquidação;
+
+b) (euro) 750 000,00, no caso de sociedades gestoras de sistema centralizado de valores mobiliários.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 46.º — Regime jurídico
+
+1 - Às sociedades gestoras mencionadas no artigo anterior é aplicável, com as devidas adaptações, o disposto no título ii, com excepção do seu capítulo iii.
+
+2 - As divulgações previstas no artigo 15.º devem ser efectuadas no sítio da Internet da respectiva sociedade gestora.
+
+###### Artigo 47.º — Firma
+
+1 - As sociedades gestoras previstas neste título devem usar na sua firma, consoante o objeto social que se proponham prosseguir, a denominação «sociedade gestora de sistema de liquidação», ou «sociedade gestora de sistema centralizado de valores mobiliários».
+
+2 - As denominações referidas no número anterior podem ser substituídas pelas correspondentes abreviaturas: «SGSL» e «SGSCVM».
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 48.º — Segregação patrimonial
+
+As sociedades gestoras de sistema de liquidação apenas podem utilizar os instrumentos financeiros de terceiros nos termos e para os efeitos para os quais estão mandatadas.
+
+## Título IV-A — Serviços de comunicação de dados de negociação
+
+> Aditado pelo/a Artigo 24.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+### Capítulo I — Autorização de prestadores de serviços de comunicação de dados de negociação
+
+> Aditado pelo/a Artigo 24.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 48.º-A — Objeto social
+
+1 - Podem ser constituídas sociedades que tenham por objeto social a prestação, isolada ou em conjunto, dos seguintes serviços:
+
+a) A gestão e exploração de sistemas de publicação autorizados (APA);
+
+b) Revogada;
+
+c) A gestão e exploração de sistemas de reporte autorizados (ARM).
+
+2 - Revogado;
+
+3 - Revogado.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 48.º-B — Regime jurídico e capital social
+
+Às sociedades gestoras referidas no artigo anterior é aplicável, com as devidas adaptações, o disposto no título II relativamente aos aspetos não especificamente regulados no presente título ou em legislação complementar da União Europeia.
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 48.º-C — Firma
+
+1 - As sociedades gestoras previstas no artigo 48.º-A utilizam na sua firma, consoante o objeto social que se proponham prosseguir, a denominação 'sociedade gestora de sistema de publicação autorizado (APA)', 'sociedade gestora de sistema de reporte autorizado (ARM)' ou 'sociedade gestora de sistemas de comunicação de dados de negociação'.
+
+2 - As denominações referidas no número anterior podem ser substituídas pelas correspondentes abreviaturas: 'SGAPA', 'SGARM' ou 'SGSCD'.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 48.º-D — Autorização e registo
+
+1 - A constituição de sociedades gestoras de sistemas de comunicação de dados de negociação depende de autorização a conceder pela CMVM.
+
+2 - As sociedades gestoras de sistemas de comunicação de dados de negociação registam-se na CMVM para o serviço que pretendem prestar, dependendo a sua alteração de nova inscrição.
+
+3 - Os serviços de comunicação de dados podem ser prestados por sociedades gestoras de mercado regulamentado ou de sistemas de negociação multilateral ou organizado, bem como por intermediários financeiros autorizados a gerir uma plataforma de negociação, mediante prévio averbamento ao seu registo na CMVM.
+
+4 - A autorização e o registo para a prestação de serviços de comunicação de dados de negociação pela CMVM bem como a sua revogação, são comunicados à Autoridade Europeia dos Valores Mobiliários e dos Mercados, permitindo o seu livre exercício na União Europeia.
+
+5 - Ao registo junto da CMVM é aplicável o disposto no Códigos dos Valores Mobiliários em matéria de registo de intermediários financeiros.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 48.º-E — Procedimento de autorização
+
+1 - A concessão de autorização depende do cumprimento dos requisitos previstos no presente Título e em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+
+2 - O prestador de serviços de comunicação de dados de negociação deve fornecer à CMVM todas as informações, incluindo um programa de atividades que indique, nomeadamente, os tipos de serviços que pretende prestar e a sua estrutura organizativa, que sejam necessárias para permitir a certificação de que esse prestador cumpre, no momento da autorização inicial, todas os requisitos aplicáveis, tal como previstos no presente título e de acordo com regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+
+3 - A CMVM deve informar o requerente, no prazo de seis meses a contar da apresentação do pedido devidamente instruído, da recusa ou concessão da autorização.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+### Capítulo II — Organização interna
+
+> Aditado pelo/a Artigo 24.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 48.º-F — Sistemas de publicação autorizados
+
+1 - As entidades gestoras de sistemas de publicação autorizados (APA) devem adotar políticas e mecanismos adequados de modo a assegurar a divulgação das informações exigidas nos termos dos artigos 20.º e 21.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, de forma tão próxima do tempo real quanto tecnicamente possível, em condições comerciais razoáveis, conforme previsto em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+
+2 - As informações a que refere o número anterior são disponibilizadas gratuitamente 15 minutos após a sua divulgação pela entidade gestora.
+
+3 - A entidade gestora deve divulgar as informações referidas no n.º 1 de modo eficiente e coerente, de modo a garantir um acesso rápido às mesmas numa base não discriminatória e num formato que facilite a consolidação das informações com dados análogos de outras fontes, de acordo com as regras previstas em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+
+4 - As informações divulgadas por uma entidade gestora nos termos dos números anteriores incluem, pelo menos, os seguintes elementos, e cumprem o disposto em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014:
+
+a) O identificador do instrumento financeiro;
+
+b) O preço a que a transação foi concluída;
+
+c) O volume da transação;
+
+d) A hora da transação;
+
+e) A hora em que a transação foi comunicada;
+
+f) A unidade de preço da transação;
+
+g) O código da plataforma de negociação em que a transação foi executada ou, se tiver sido executada através de um internalizador sistemático, o código «SI» ou, em alternativa, o código «OTC»;
+
+h) Se aplicável, uma indicação de que a transação estava sujeita a condições específicas.
+
+5 - A entidade gestora deve cumprir com os seguintes requisitos, especificados em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, designadamente:
+
+a) Operar e manter mecanismos administrativos eficazes, destinados a evitar conflitos de interesses com os seus clientes, e no caso de entidades que também exercem atividades de intermediação financeira ou que gerem uma plataforma de negociação, o tratamento de forma não discriminatória da informação recebida e segregação de atividades comerciais distintas;
+
+b) Adotar mecanismos de segurança sólidos destinados a garantir a segurança dos meios de transmissão das informações, minimizar o risco de corrupção de dados e de acesso não autorizado e evitar fugas de informações antes da sua publicação;
+
+c) Dispor de recursos adequados e de mecanismos de salvaguarda necessários para prestar os seus serviços de forma contínua, em condições de adequada qualidade, profissionalismo e eficiência;
+
+d) Dispor de sistemas que possam verificar, de forma eficaz, as comunicações de transações, identificar omissões e erros e solicitar a retransmissão de quaisquer comunicações erradas.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 48.º-G — Sistemas de prestação de informação consolidada (CTP)
+
+1 - As entidades gestoras de sistemas de prestação de informação consolidada devem adotar políticas e mecanismos adequados de modo a recolher as informações divulgadas ao público, nos termos previstos nos artigos 6.º e 20.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, consolidando-as num fluxo contínuo de dados eletrónicos e disponibilizando as informações ao público de forma tão próxima do tempo real quanto tecnicamente possível, em condições comerciais razoáveis.
+
+2 - As informações a que refere o número anterior incluem, pelo menos, os seguintes elementos, e cumprem o disposto em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014:
+
+a) O identificador do instrumento financeiro;
+
+b) O preço a que a transação foi concluída;
+
+c) O volume da transação;
+
+d) A hora da transação;
+
+e) A hora em que a transação foi comunicada;
+
+f) A unidade de preço da transação;
+
+g) O código da plataforma de negociação em que a transação foi executada ou, se tiver sido executada através de um internalizador sistemático, o código «SI» ou, em alternativa, o código «OTC»;
+
+h) Se aplicável, o facto de um algoritmo da empresa de investimento ter sido responsável pela decisão de investimento e pela execução da transação;
+
+i) Se aplicável, uma indicação de que a transação estava sujeita a condições específicas;
+
+j) Se a obrigação de tornar públicas as informações a que se refere o artigo 3.º, n.º 1, do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, tiver sido objeto de derrogação nos termos das alíneas a) ou b) do n.º 1 do artigo 4.ºdesse Regulamento, a indicação da derrogação de que foi objeto a transação.
+
+3 - As informações a que refere o número anterior são disponibilizadas gratuitamente 15 minutos após a sua divulgação pela entidade gestora.
+
+4 - As entidades gestoras devem difundir essas informações de forma eficiente e coerente, de modo a garantir um acesso rápido a essas informações, numa base não discriminatória e em formatos facilmente acessíveis e utilizáveis pelos participantes no mercado, nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+
+5 - As entidades gestoras devem adotar políticas e mecanismos adequados no sentido de recolher as informações divulgadas ao público, em conformidade com os artigos 10.º e 21.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, consolidando-as num fluxo eletrónico e contínuo de dados atualizados e disponibilizando as informações ao público de forma tão próxima do tempo real quanto tecnicamente possível, nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, incluindo pelo menos os seguintes elementos:
+
+a) O identificador ou características de identificação do instrumento financeiro;
+
+b) O preço a que a transação foi concluída;
+
+c) O volume da transação;
+
+d) A hora da transação;
+
+e) A hora em que a transação foi comunicada;
+
+f) A unidade de preço da transação;
+
+g) O código da plataforma de negociação em que a transação foi executada ou, se tiver sido executada através dum internalizador sistemático, o código «SI» ou, em alternativa, o código «OTC»;
+
+h) Se aplicável, uma indicação de que a transação estava sujeita a condições específicas.
+
+6 - É aplicável às informações a que refere o número anterior o disposto nos n.os 3 e 4.
+
+7 - As entidades gestoras devem assegurar que sejam consolidados, pelo menos, os dados fornecidos por todos os mercados regulamentados, sistemas de negociação multilateral, sistemas de negociação organizado e sistemas de publicação autorizados (APA), relativamente aos instrumentos financeiros especificados em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+
+8 - As entidades gestoras devem cumprir, com as devidas adaptações, o disposto nas alíneas a) a c) do no n.º 5 do artigo 48.º-F.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01, produz efeitos a partir de 2019-09-03
+
+###### Artigo 48.º-H — Sistemas de reporte autorizados (ARM)
+
+1 - As entidades gestoras de sistemas de reporte autorizado devem adotar políticas e mecanismos adequados para reportar as informações previstas no artigo 26.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, tão rapidamente quanto possível e até ao final do dia útil seguinte ao dia em que se realizou a transação, de acordo com os requisitos estabelecidos no referido regulamento e respetiva regulamentação e atos delegados.
+
+2 - As entidades gestoras devem cumprir, com as devidas adaptações, o disposto nas alíneas a), c) e d) do n.º 5 do artigo 48.º-F.
+
+3 - As entidades gestoras devem adotar mecanismos de segurança sólidos destinados a garantir a segurança dos meios de transmissão das informações, minimizar o risco de corrupção de dados e de acesso não autorizado e evitar fugas de informações mantendo a confidencialidade dos dados em permanência.
+
+4 - As entidades gestoras devem adotar sistemas, conforme especificado em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, que permitam verificar de forma eficaz o caráter exaustivo das notificações de transações, identificar as omissões e os erros manifestos do intermediário financeiro e, em caso de verificação de tais erros ou omissões, comunicar os mesmos ao intermediário financeiro e solicitar a retransmissão de quaisquer notificações erróneas.
+
+5 - As entidades gestoras devem dispor de sistemas, conforme especificado em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, que permitam a deteção de erros ou omissões da responsabilidade da própria entidade gestora e que permitam a retificação e transmissão ou retransmissão de comunicações de transações corretas e completas à autoridade competente.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 20.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+## Título V — Disposições finais e transitórias
+
+###### Artigo 49.º — Ilícitos de mera ordenação social
+
+À violação dos deveres consagrados neste decreto-lei e ao respectivo processo aplica-se o disposto no Código dos Valores Mobiliários para os ilícitos de mera ordenação social.
+
+###### Artigo 50.º — Direito transitório
+
+1 - As sociedades gestoras constituídas e registadas na CMVM à data da publicação do presente decreto-lei procedem à adaptação dos respectivos estatutos até 30 de Junho de 2008, de modo a dar acolhimento às alterações por este introduzidas.
+
+2 - Ficam isentos de quaisquer taxas e emolumentos todos os actos notariais e de registo que tenham por objecto, exclusivamente, a adaptação às alterações introduzidas pelo presente decreto-lei e sejam efectuadas no prazo previsto no artigo anterior.
+
+###### Artigo 51.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 394/99, de 13 de Outubro.
+
+###### Artigo 52.º — Entrada em vigor
+
+1 - O presente decreto-lei entra em vigor a 1 de Novembro de 2007.
+
+2 - O disposto no número anterior não prejudica a aprovação e a publicação, em data prévia, dos regulamentos previstos no presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues.
+
+Promulgado em 22 de Outubro de 2007.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 25 de Outubro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,409 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:640908:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-34563675",
+ "dre_path": "/dr/detalhe/lei/40-2007-640908",
+ "source_lastmod": "2024-09-10",
+ "versions": [
+  {
+   "date": "2007-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47130175",
+    "47130275",
+    "47130375",
+    "47130475",
+    "47130575",
+    "47130675",
+    "47130775",
+    "47130875",
+    "47130975",
+    "47131075",
+    "47131175",
+    "47131275",
+    "47131375",
+    "47131475",
+    "47131575",
+    "47131675",
+    "47131775",
+    "47131875",
+    "47131975",
+    "47132075",
+    "47132175",
+    "47132275",
+    "47132375",
+    "47132475",
+    "47132575",
+    "47132675",
+    "47132775",
+    "47132875",
+    "47132975",
+    "47133075",
+    "47133175"
+   ]
+  },
+  {
+   "date": "2008-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:487360:por",
+     "title": "Decreto-Lei n.º 247-B/2008",
+     "published": "2008-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/247-b-2008-487360"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "47130175",
+    "47130275",
+    "47130375",
+    "887433707",
+    "47130575",
+    "47130675",
+    "47130775",
+    "47130875",
+    "887433708",
+    "47131075",
+    "887433709",
+    "887433710",
+    "887433711",
+    "47131475",
+    "47131575",
+    "47131675",
+    "47131775",
+    "47131875",
+    "47131975",
+    "47132075",
+    "47132175",
+    "47132275",
+    "47132375",
+    "47132475",
+    "47132575",
+    "47132675",
+    "47132775",
+    "47132875",
+    "47132975",
+    "47133075",
+    "47133175",
+    "47136275"
+   ]
+  }
+ ],
+ "fragments": {
+  "47130175": {
+   "fragment_id": "35183475",
+   "type": 15,
+   "heading": "Diploma — Aprova um regime especial de constituição imediata de associações e actualiza o regime geral de constituição previsto no Código Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "47130275": {
+   "fragment_id": "35560075",
+   "type": 1,
+   "heading": "Capítulo I — Regime especial de constituição imediata de associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Regime especial de constituição imediata de associações"
+  },
+  "47130375": {
+   "fragment_id": "36939375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criado um regime especial de constituição imediata de associações com personalidade jurídica, com ou sem a simultânea aquisição, pelas associações, de marca registada.\n\n2 - O regime especial de constituição imediata de associações não é aplicável aos partidos políticos, às pessoas colectivas religiosas, às associações sócio-profissionais de militares e de agentes das forças de segurança, às associações de empregadores, às associações sindicais, às comissões de trabalhadores e às associações humanitárias de bombeiros.\n\n3 - O presente regime especial não é igualmente aplicável às associações cujos interessados na sua constituição concorram para o património social com bens imóveis."
+  },
+  "47130475": {
+   "fragment_id": "36939475",
+   "type": 11,
+   "heading": "Artigo 2.º — Pressupostos de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pressupostos de aplicação\n\nSão pressupostos de aplicação do regime previsto na presente lei:\n\na) A opção por uma denominação constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, ou a apresentação de certificado de admissibilidade de denominação emitido pelo Registo Nacional de Pessoas Colectivas (RNPC); e\n\nb) A opção por estatutos de modelo aprovado por deliberação do conselho directivo do Instituto dos Registos e do Notariado, I. P., desde que o mesmo se adeqúe ao fim da associação que se pretende constituir."
+  },
+  "47130575": {
+   "fragment_id": "36939575",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência\n\nO regime a que se refere o n.º 1 do artigo 1.º é da competência das conservatórias e de outros serviços previstos em portaria do membro do Governo responsável pela área da justiça, independentemente da localização da sede da associação a constituir."
+  },
+  "47130675": {
+   "fragment_id": "36939675",
+   "type": 11,
+   "heading": "Artigo 4.º — Prazo de tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prazo de tramitação\n\nOs serviços referidos no artigo anterior devem iniciar e concluir a tramitação do procedimento no mesmo dia, em atendimento presencial único."
+  },
+  "47130775": {
+   "fragment_id": "36939775",
+   "type": 11,
+   "heading": "Artigo 5.º — Início do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Início do procedimento\n\nOs interessados na constituição da associação formulam o seu pedido junto do serviço competente, manifestando a sua opção pela denominação ou denominação e marca e pelo modelo de estatutos, nos termos do artigo 2.º"
+  },
+  "47130875": {
+   "fragment_id": "36939875",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentos a apresentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Documentos a apresentar\n\n1 - Para o efeito da constituição da associação, os interessados devem apresentar os documentos comprovativos da sua identidade, capacidade e poderes de representação para o acto.\n\n2 - Os interessados podem proceder à entrega imediata da declaração de início de actividade para efeitos fiscais ou à indicação dos dados que permitam a sua entrega por via electrónica.\n\n3 - Caso não procedam à entrega do documento referido no número anterior ou à indicação dos dados que permitam a sua entrega por via electrónica, os interessados são advertidos de que o devem fazer no serviço competente, no prazo legalmente fixado para o efeito."
+  },
+  "47130975": {
+   "fragment_id": "36939975",
+   "type": 11,
+   "heading": "Artigo 7.º — Sequência do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sequência do procedimento\n\n1 - Efectuada a verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto, bem como a regularidade dos documentos apresentados, o serviço competente procede aos seguintes actos, pela ordem indicada:\n\na) Cobrança dos encargos que se mostrem devidos;\n\nb) Afectação, por via informática e a favor da associação a constituir, da denominação escolhida ou da denominação e marca escolhidas e do número de identificação de pessoa colectiva (NIPC) associado à denominação, nos casos previstos na primeira parte da alínea a) do artigo 2.º;\n\nc) Preenchimento do acto constitutivo e dos estatutos, por documento particular, de acordo com o modelo previamente escolhido, nos termos das indicações dos interessados;\n\nd) Reconhecimento presencial das assinaturas dos intervenientes no acto, apostas no acto constitutivo e nos estatutos;\n\ne) Inscrição do facto no ficheiro central de pessoas colectivas e codificação da actividade económica (CAE) ou, no caso a que se refere a parte final da alínea a) do artigo 2.º, comunicação da titulação do facto para aqueles efeitos;\n\nf) Emissão e entrega do cartão de identificação de pessoa colectiva, bem como comunicação aos interessados do número de identificação da associação na segurança social;\n\ng) Sempre que possível, arquivo, em suporte electrónico, com dispensa da sua conservação em suporte físico, do acto constitutivo, dos estatutos, dos documentos comprovativos da capacidade e poderes de representação e de outros documentos que se revelem necessários à instrução do acto;\n\nh) Publicação do acto constitutivo e dos estatutos da associação nos termos legalmente previstos para os actos das sociedades comerciais;\n\ni) Sendo caso disso, completamento da declaração de início de actividade, para menção da denominação, NIPC e CAE.\n\n2 - Os actos previstos nas alíneas anteriores podem ser praticados pelo conservador ou por qualquer oficial dos registos."
+  },
+  "47131075": {
+   "fragment_id": "36940075",
+   "type": 11,
+   "heading": "Artigo 8.º — Recusa de titulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recusa de titulação\n\n1 - O conservador ou o oficial de registo deve recusar a realização do acto previsto na alínea c) do n.º 1 do artigo anterior sempre que verifique a existência de omissões, vícios ou deficiências que afectem a formação e exteriorização da vontade dos intervenientes no acto ou nos documentos que o devam instruir, bem como nos casos em que, perante as disposições legais aplicáveis, o acto não possa ser praticado.\n\n2 - O conservador ou o oficial de registo deve ainda recusar a realização do acto previsto na alínea c) do n.º 1 do artigo anterior quando o acto seja nulo, anulável ou ineficaz.\n\n3 - Em caso de recusa, se o interessado declarar, oralmente ou por escrito, que pretende impugnar o respectivo acto, o conservador ou o oficial de registo deve lavrar despacho especificando os fundamentos respectivos.\n\n4 - À recusa de titulação é aplicável o regime de impugnação previsto nos artigos 101.º e seguintes do Código do Registo Comercial."
+  },
+  "47131175": {
+   "fragment_id": "36940175",
+   "type": 11,
+   "heading": "Artigo 9.º — Aditamentos à denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aditamentos à denominação\n\n1 - Nos casos previstos na primeira parte da alínea a) do artigo 2.º, o serviço competente deve completar a composição da denominação com a menção do elemento indicativo da natureza associativa da entidade, assim como com a menção de qualquer expressão alusiva aos fins estatutários que os interessados optem por inserir naquela.\n\n2 - Para efeitos do disposto na parte final do número anterior, não pode ser aditada qualquer menção que sugira a atribuição de um estatuto dependente de reconhecimento legal ou administrativo.\n\n3 - Os elementos indicativos da natureza associativa que devem constar das denominações das associações a constituir ao abrigo do presente regime especial são fixados por deliberação do conselho directivo do Instituto dos Registos e do Notariado, I. P."
+  },
+  "47131275": {
+   "fragment_id": "36940275",
+   "type": 11,
+   "heading": "Artigo 10.º — Caducidade do direito ao uso da denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Caducidade do direito ao uso da denominação\n\nA não conclusão do procedimento no prazo previsto no artigo 4.º por facto imputável aos interessados determina a caducidade do direito ao uso da denominação ou da denominação e marca escolhidas afectas à associação a constituir, nos termos da alínea b) do n.º 1 do artigo 7.º, não conferindo o direito à restituição dos encargos cobrados."
+  },
+  "47131375": {
+   "fragment_id": "36940375",
+   "type": 11,
+   "heading": "Artigo 11.º — Documentos a entregar aos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Documentos a entregar aos interessados\n\n1 - Concluído o procedimento de constituição da associação, o serviço competente entrega de imediato aos interessados, a título gratuito:\n\na) Uma certidão do acto constitutivo e dos estatutos;\n\nb) O recibo comprovativo do pagamento dos encargos devidos;\n\nc) Nos casos em que com a constituição da associação ocorra a simultânea aquisição do registo de marca, para além dos documentos anteriores, documento comprovativo de tal aquisição, de modelo aprovado pelo Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.)\n\n2 - Nas situações a que se refere a alínea c) do número anterior, o INPI, I. P., remete, posteriormente, à associação o título de registo de marca, bem como o recibo comprovativo do pagamento das taxas devidas pelo acto de aquisição do registo de marca."
+  },
+  "47131475": {
+   "fragment_id": "36940475",
+   "type": 11,
+   "heading": "Artigo 12.º — Diligências subsequentes à conclusão do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Diligências subsequentes à conclusão do procedimento\n\n1 - Após a conclusão do procedimento de constituição da associação, a conservatória, no prazo de vinte e quatro horas:\n\na) Remete, quando for caso disso, a declaração de início de actividade ao serviço fiscal competente;\n\nb) Disponibiliza aos serviços competentes, por meios informáticos, os dados necessários para efeitos de comunicação da constituição da associação à administração fiscal, do respectivo início de actividade à Inspecção-Geral do Trabalho, bem como os dados necessários à inscrição oficiosa da associação nos serviços da segurança social;\n\nc) Comunica o acto constitutivo e os estatutos da associação, por via electrónica, à entidade ou serviço competentes, nos casos de associações cujo registo em entidade ou serviço da Administração Pública seja obrigatório ou seja solicitado pelos interessados, quando facultativo;\n\nd) Promove as restantes diligências que venham a ser fixadas por via regulamentar ou protocolar, nos termos do presente regime especial.\n\n2 - No mesmo prazo, o serviço que conduziu o procedimento deve enviar os documentos previstos na alínea g) do n.º 1 do artigo 7.º à conservatória do registo comercial da área da sede da associação.\n\n3 - O envio previsto no número anterior só ocorre quando não existam condições que garantam o arquivo, em suporte electrónico, daqueles documentos.\n\n4 - A comunicação prevista na alínea c) do n.º 1 constitui prova suficiente, para efeitos do registo aí referido, do acto constitutivo, dos estatutos e da admissibilidade da denominação da associação."
+  },
+  "47131575": {
+   "fragment_id": "36940575",
+   "type": 11,
+   "heading": "Artigo 13.º — Emissão de certidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Emissão de certidões\n\n1 - As certidões do acto constitutivo e dos estatutos da associação podem ser solicitadas e emitidas em qualquer conservatória do registo comercial, bem como nos serviços a designar por despacho do ministro responsável pela área da justiça.\n\n2 - Para o efeito de emissão das certidões previstas no número anterior, a cópia que seja arquivada em suporte electrónico tem o mesmo valor probatório do original."
+  },
+  "47131675": {
+   "fragment_id": "36940675",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Encargos\n\n1 - Pelo procedimento de constituição de associações regulado na presente lei são devidos encargos relativos:\n\na) Aos emolumentos previstos no Regulamento Emolumentar dos Registos e do Notariado;\n\nb) Ao imposto do selo, quando devido;\n\nc) Às taxas previstas na tabela de taxas de propriedade industrial para a aquisição do registo de marca, nos casos em que este facto ocorra simultaneamente com a constituição da associação.\n\n2 - O Estado goza de isenção do pagamento das taxas devidas pela prática de actos junto do INPI, I. P., ao abrigo da presente lei.\n\n3 - Sem prejuízo do disposto no artigo 10.º, não são devidos quaisquer encargos pela recusa de titulação, procedendo-se nesses casos à devolução de todas as quantias cobradas pelo procedimento de constituição de associações regulado nesta lei."
+  },
+  "47131775": {
+   "fragment_id": "36940775",
+   "type": 11,
+   "heading": "Artigo 15.º — Bolsa de denominações e de marcas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Bolsa de denominações e de marcas\n\n1 - A bolsa de firmas criada no âmbito do RNPC e reservadas a favor do Estado nos termos do n.º 1 do artigo 15.º do Decreto-Lei n.º 111/2005, de 8 de Julho, na sua redacção actual, pode ser utilizada para a afectação de denominações às associações a constituir no âmbito da presente lei.\n\n2 - A bolsa de firmas reservadas e marcas registadas a favor do Estado prevista no n.º 2 do artigo 15.º do Decreto-Lei n.º 111/2005, de 8 de Julho, na sua redacção actual, pode ser utilizada para a afectação de denominações e marcas às associações a constituir no âmbito da presente lei.\n\n3 - O disposto nos n.os 3 a 7 do artigo 15.º do Decreto-Lei n.º 111/2005, de 8 de Julho, na sua redacção actual, é aplicável, com as necessárias adaptações, às denominações e marcas afectas às associações a constituir no âmbito da presente lei."
+  },
+  "47131875": {
+   "fragment_id": "36940875",
+   "type": 11,
+   "heading": "Artigo 16.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Protocolos\n\nPodem ser celebrados protocolos entre o Instituto dos Registos e do Notariado, I. P., e outros serviços, organismos ou outras entidades envolvidas no procedimento de constituição de associações com vista à definição dos procedimentos administrativos de comunicação de dados."
+  },
+  "47131975": {
+   "fragment_id": "35560175",
+   "type": 1,
+   "heading": "Capítulo II — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Alterações legislativas"
+  },
+  "47132075": {
+   "fragment_id": "36940975",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração ao Código Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração ao Código Civil\n\nOs artigos 158.º, 168.º, 174.º e 185.º do Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de Novembro de 1966, com as alterações introduzidas pelos Decretos-Leis n.os 67/75, de 19 de Fevereiro, 261/75, de 27 de Maio, 561/76, de 17 de Julho, 605/76, de 24 de Julho, 293/77, de 20 de Julho, 496/77, de 25 de Novembro, 200-C/80, de 24 de Junho, 236/80, de 18 de Julho, 328/81, de 4 de Dezembro, 262/83, de 16 de Junho, 225/84, de 6 de Julho, e 190/85, de 24 de Junho, pela Lei n.º 46/85, de 20 de Setembro, pelos Decretos-Leis n.os 381-B/85, de 28 de Setembro, e 379/86, de 11 de Novembro, pela Lei n.º 24/89, de 1 de Agosto, pelos Decretos-Leis n.os 321-B/90, de 15 de Outubro, 257/91, de 18 de Julho, 423/91, de 30 de Outubro, 185/93, de 22 de Maio, 227/94, de 8 de Setembro, 267/94, de 25 de Outubro, e 163/95, de 13 de Julho, pela Lei n.º 84/95, de 31 de Agosto, pelos Decretos-Leis n.os 329-A/95, de 12 de Dezembro, 14/96, de 6 de Março, 68/96, de 31 de Maio, 35/97, de 31 de Janeiro, e 120/98, de 8 de Maio, pelas Leis n.os 21/98, de 12 de Maio, e 47/98, de 10 de Agosto, pelo Decreto-Lei n.º 343/98, de 6 de Novembro, pela Lei n.º 16/2001, de 22 de Junho, pelos Decretos-Leis n.os 272/2001, de 13 de Outubro, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, e 38/2003, de 8 de Março, pela Lei n.º 31/2003, de 22 de Agosto, pelo Decreto-Lei n.º 199/2003, de 10 de Setembro, e pela Lei n.º 6/2006, de 27 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 158.º\n\n[...]\n\n1 - As associações constituídas por escritura pública ou por outro meio legalmente admitido, que contenham as especificações referidas no n.º 1 do artigo 167.º, gozam de personalidade jurídica.\n\n2 - ...\n\nArtigo 168.º\n\n[...]\n\n1 - O acto de constituição da associação, os estatutos e as suas alterações devem constar de escritura pública, sem prejuízo do disposto em lei especial.\n\n2 - O notário, a expensas da associação, promove de imediato a publicação da constituição e dos estatutos, bem como as alterações destes, nos termos legalmente previstos para os actos das sociedades comerciais.\n\n3 - ...\n\nArtigo 174.º\n\n[...]\n\n1 - ...\n\n2 - É dispensada a expedição do aviso postal referido no número anterior sempre que os estatutos prevejam a convocação da assembleia geral mediante publicação do respectivo aviso nos termos legalmente previstos para os actos das sociedades comerciais.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\nArtigo 185.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Ao acto de instituição da fundação, quando conste de escritura pública, bem como, em qualquer caso, aos estatutos e suas alterações, é aplicável o disposto no n.os 2 e 3 do artigo 168.º»"
+  },
+  "47132175": {
+   "fragment_id": "36941075",
+   "type": 11,
+   "heading": "Artigo 18.º — Aditamento ao Código Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Aditamento ao Código Civil\n\nÉ aditado ao Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de Novembro de 1966, com as alterações introduzidas pelos Decretos-Leis n.os 67/75, de 19 de Fevereiro, 261/75, de 27 de Maio, 561/76, de 17 de Julho, 605/76, de 24 de Julho, 293/77, de 20 de Julho, 496/77, de 25 de Novembro, 200-C/80, de 24 de Junho, 236/80, de 18 de Julho, 328/81, de 4 de Dezembro, 262/83, de 16 de Junho, 225/84, de 6 de Julho, e 190/85, de 24 de Junho, pela Lei n.º 46/85, de 20 de Setembro, pelos Decretos-Leis n.os 381-B/85, de 28 de Setembro, e 379/86, de 11 de Novembro, pela Lei n.º 24/89, de 1 de Agosto, pelos Decretos-Leis n.os 321-B/90, de 15 de Outubro, 257/91, de 18 de Julho, 423/91, de 30 de Outubro, 185/93, de 22 de Maio, 227/94, de 8 de Setembro, 267/94, de 25 de Outubro, e 163/95, de 13 de Julho, pela Lei n.º 84/95, de 31 de Agosto, pelos Decretos-Leis n.os 329-A/95, de 12 de Dezembro, 14/96, de 6 de Março, 68/96, de 31 de Maio, 35/97, de 31 de Janeiro, e 120/98, de 8 de Maio, pelas Leis n.os 21/98, de 12 de Maio, e 47/98, de 10 de Agosto, pelo Decreto-Lei n.º 343/98, de 6 de Novembro, pela Lei n.º 16/2001, de 22 de Junho, pelos Decretos-Leis n.os 272/2001, de 13 de Outubro, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, e 38/2003, de 8 de Março, pela Lei n.º 31/2003, de 22 de Agosto, pelo Decreto-Lei n.º 199/2003, de 10 de Setembro, e pela Lei n.º 6/2006, de 27 de Fevereiro, o artigo 201.º-A, com a seguinte redacção:\n\n«Artigo 201.º-A\n\nPublicidade\n\nAs associações e comissões especiais sem personalidade jurídica promovem a publicação da sua constituição, da sua sede e do seu programa nos termos legalmente previstos para os actos das sociedades comerciais.»"
+  },
+  "47132275": {
+   "fragment_id": "36941175",
+   "type": 11,
+   "heading": "Artigo 19.º — Alteração ao Decreto-Lei n.º 460/77, de 7 de Novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alteração ao Decreto-Lei n.º 460/77, de 7 de Novembro\n\nO artigo 10.º do Decreto-Lei n.º 460/77, de 7 de Novembro (aprova o estatuto das colectividades de utilidade pública), passa a ter a seguinte redacção:\n\n«Artigo 10.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Publicação gratuita das alterações dos estatutos nos termos legalmente previstos para os actos das sociedades comerciais.»"
+  },
+  "47132375": {
+   "fragment_id": "36941275",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração ao Decreto-Lei n.º 372/90, de 27 de Novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração ao Decreto-Lei n.º 372/90, de 27 de Novembro\n\nOs artigos 5.º e 6.º do Decreto-Lei n.º 372/90, de 27 de Novembro (disciplina o regime de constituição, os direitos e os deveres a que ficam subordinadas as associações de pais e encarregados de educação), com as alterações introduzidas pelo Decreto-Lei n.º 80/99, de 16 de Março, e pela Lei n.º 29/2006, de 4 de Julho, passam a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O Ministério da Educação promove a respectiva publicação gratuita nos termos legalmente previstos para os actos das sociedades comerciais.\n\n4 - ...\n\nArtigo 6.º\n\n[...]\n\nAs associações de pais gozam de personalidade jurídica a partir da data da publicação dos seus estatutos nos termos legalmente previstos para os actos das sociedades comerciais.»"
+  },
+  "47132475": {
+   "fragment_id": "36941375",
+   "type": 11,
+   "heading": "Artigo 21.º — Publicações e comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Publicações e comunicações\n\n1 - As publicações do acto de constituição da associação, dos seus estatutos e das respectivas alterações são efectuadas gratuitamente.\n\n2 - Todas as disposições legais que prevejam a publicação obrigatória do acto constitutivo e dos estatutos das associações e das respectivas alterações passam a ser entendidas como respeitando à publicação dos mesmos factos nos termos legalmente previstos para os actos das sociedades comerciais.\n\n3 - Os serviços responsáveis pelas publicações referidas nos números anteriores asseguram a comunicação electrónica do conteúdo das mesmas para efeitos de divulgação pública noutras bases de dados de acesso público, nomeadamente no sítio da Internet de acesso à edição electrónica do Diário da República."
+  },
+  "47132575": {
+   "fragment_id": "36941475",
+   "type": 11,
+   "heading": "Artigo 22.º — Alteração ao Decreto-Lei n.º 8-B/2002, de 15 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração ao Decreto-Lei n.º 8-B/2002, de 15 de Janeiro\n\nO artigo 4.º do Decreto-Lei n.º 8-B/2002, de 15 de Janeiro (estabelece normas destinadas a assegurar a inscrição das entidades empregadoras no sistema de solidariedade e segurança social e a gestão, pelo Instituto de Gestão Financeira da Segurança Social, do processo de cobrança e pagamento das contribuições e quotizações devidas à segurança social), com as alterações introduzidas pelos Decretos-Leis n.os 111/2005, de 8 de Julho, e 125/2006, de 29 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Consideram-se oficiosamente inscritas na segurança social as entidades empregadoras criadas pelos regimes especiais de constituição imediata de sociedades e associações e pelo regime especial de constituição online de sociedades.»"
+  },
+  "47132675": {
+   "fragment_id": "36941575",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Regulamento Emolumentar dos Registos e do Notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Regulamento Emolumentar dos Registos e do Notariado\n\nOs artigos 22.º, 23.º, 27.º e 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 315/2002, de 27 de Dezembro, pela Lei n.º 32-B/2002, de 30 de Dezembro, e pelos Decretos-Leis n.os 194/2003, de 23 de Agosto, 53/2004, de 18 de Março, 199/2004, de 18 de Agosto, 111/2005, de 8 de Julho, 178-A/2005, de 28 de Outubro, rectificado pela Declaração de Rectificação n.º 89/2005, de 27 de Dezembro, 76-A/2006, de 29 de Março, 85/2006, de 23 de Maio, 125/2006, de 29 de Junho, e 8/2007, de 17 de Janeiro, passam a ter a seguinte redacção:\n\n«Artigo 22.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - Certidões, fotocópias, informações escritas e certificados:\n\n13.1 - ...\n\n13.2 - ...\n\n13.3 - (Anterior n.º 13.4.)\n\n13.4 - (Anterior n.º 13.5.)\n\n13.4.1 - (Anterior n.º 13.5.1.)\n\n13.4.2 - (Anterior n.º 13.5.2.)\n\n13.4.3 - (Anterior n.º 13.5.3.)\n\n13.4.4 - (Anterior n.º 13.5.4.)\n\n13.5 - (Anterior n.º 13.3.)\n\n13.6 - Requisição e emissão de certidão ou fotocópia do acto constitutivo e dos estatutos de associação constituída ao abrigo do regime de constituição imediata de associações - (euro) 10.\n\n13.7 - (Anterior n.º 13.6.)\n\n13.8 - (Anterior n.º 13.7.)\n\n13.9 - (Anterior n.º 13.8.)\n\n14 - ...\n\n15 - ...\n\n16 - ...\n\n17 - ...\n\n18 - ...\n\n19 - ...\n\n20 - ...\n\n21 - ...\n\n22 - ...\n\n23 - ...\n\n24 - ...\n\n25 - ...\n\nArtigo 23.º\n\n[...]\n\n1 - ...\n\n2 - Certificados de admissibilidade de firma ou denominação e certificados negativos:\n\n2.1 - ...\n\n2.2 - ...\n\n2.3 - Invalidação da emissão, renovação e segunda via do certificado - (euro) 8.\n\n2.4 - Desistência do pedido de emissão, renovação e segunda via do certificado - (euro) 6.\n\n2.5 - Recusa de emissão, renovação e segunda via do certificado - (euro) 8.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\nArtigo 27.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Regimes especiais de constituição imediata de sociedades e associações e de constituição online de sociedades:\n\n3.1 - ...\n\n3.2 - Pela prática dos actos compreendidos no regime especial de constituição imediata de associações - (euro) 170.\n\n3.3 - Os emolumentos previstos nos números anteriores têm um valor único e o previsto no n.º 3.1 inclui o custo da publicação obrigatória.\n\n3.4 - Do emolumento previsto no n.º 3.1, deduzido da taxa devida pela publicação a que se refere o n.º 3.3, pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Colectivas (RNPC).\n\n3.5 - (Anterior n.º 3.4.)\n\n3.6 - (Anterior n.º 3.5.)\n\n3.7 - Os emolumentos previstos nos n.os 3.5 e 3.6 têm um valor único e incluem o custo da publicação obrigatória do registo.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\nArtigo 28.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - ...\n\n17 - ...\n\n18 - ...\n\n19 - ...\n\n20 - O emolumento devido pela prática dos actos compreendidos no regime especial de constituição imediata de associações de estudantes é reduzido em (euro) 100, não sendo devida participação emolumentar pela referida redução.\n\n21 - (Anterior n.º 20.)\n\n22 - (Anterior n.º 21.)\n\n23 - (Anterior n.º 22.)\n\n24 - (Anterior n.º 23.)\n\n25 - (Anterior n.º 24.)\n\n26 - (Anterior n.º 25.)\n\n27 - (Anterior n.º 26.)\n\n28 - (Anterior n.º 27.)»"
+  },
+  "47132775": {
+   "fragment_id": "35560275",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "47132875": {
+   "fragment_id": "36941675",
+   "type": 11,
+   "heading": "Artigo 24.º — Cadastro das associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cadastro das associações\n\nO RNPC promove e organiza o cadastro das associações mediante a sua inscrição no ficheiro central de pessoas colectivas."
+  },
+  "47132975": {
+   "fragment_id": "36941775",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma transitória\n\nAté à entrada em vigor do diploma orgânico do Instituto de Registos e Notariado, I. P., as competências atribuídas na presente lei são exercidas pela Direcção-Geral dos Registos e do Notariado."
+  },
+  "47133075": {
+   "fragment_id": "36941875",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Norma revogatória\n\nÉ revogada a alínea i) do artigo 4.º-F do Decreto-Lei n.º 252/92, de 19 de Novembro, na redacção dada pelo Decreto-Lei n.º 213/2001, de 2 de Agosto."
+  },
+  "47133175": {
+   "fragment_id": "36941975",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\n1 - A presente lei entra em vigor no dia 31 de Outubro de 2007.\n\n2 - O disposto nos artigos 3.º e 13.º, quanto à emissão da regulamentação aí prevista, entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "887433707": {
+   "fragment_id": "36939475",
+   "type": 11,
+   "heading": "Artigo 2.º — Pressuposto de aplicação e escolha de denominação",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 2.º — Pressuposto de aplicação e escolha de denominação\n\n1 - É pressuposto da aplicação do regime previsto na presente lei a opção por estatutos de modelo aprovado por deliberação do presidente do Instituto dos Registos e do Notariado, I. P., desde que o mesmo se adeqúe ao fim da associação que se pretende constituir.\n\n2 - A escolha da denominação da associação pode fazer-se através da opção por:\n\na) Uma denominação aprovada no posto de atendimento;\n\nb) Uma denominação constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado;\n\nc) Apresentação de certificado de admissibilidade de denominação.\n\n3 - A competência dos serviços de registo para a aprovação da denominação referida na alínea a) do número anterior é atribuída por despacho do presidente do Instituto dos Registos e do Notariado, I. P.\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "887433708": {
+   "fragment_id": "36939975",
+   "type": 11,
+   "heading": "Artigo 7.º — Sequência do procedimento",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 7.º — Sequência do procedimento\n\n1 - Efectuada a verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto, bem como a regularidade dos documentos apresentados, o serviço competente procede aos seguintes actos, pela ordem indicada:\n\na) Cobrança dos encargos que se mostrem devidos;\n\nb)  Aprovação de denominação nos termos da alínea a) do n.º 2 do artigo 2.º ou afectação, por via informática e a favor da associação a constituir, da denominação escolhida ou da denominação e marca escolhidas e do número de identificação de pessoa colectiva (NIPC) associado à denominação, nos casos previstos na alínea b) do n.º 2 do artigo 2.º;\n\nc) Preenchimento do acto constitutivo e dos estatutos, por documento particular, de acordo com o modelo previamente escolhido, nos termos das indicações dos interessados;\n\nd) Reconhecimento presencial das assinaturas dos intervenientes no acto, apostas no acto constitutivo e nos estatutos;\n\ne)  Comunicação automática e electrónica da constituição da associação ao ficheiro central de pessoas colectivas e, se for o caso, codificação da actividade económica (CAE);\n\nf) Disponibilização imediata do cartão electrónico de pessoa colectiva mediante a atribuição de código de acesso e comunicação aos interessados do número de identificação da associação na segurança social;\n\ng) Sempre que possível, arquivo, em suporte electrónico, com dispensa da sua conservação em suporte físico, do acto constitutivo, dos estatutos, dos documentos comprovativos da capacidade e poderes de representação e de outros documentos que se revelem necessários à instrução do acto;\n\nh) Publicação do acto constitutivo e dos estatutos da associação nos termos legalmente previstos para os actos das sociedades comerciais;\n\ni) Sendo caso disso, completamento da declaração de início de actividade, para menção da denominação, NIPC e CAE.\n\n2 - A atribuição de denominação referida na primeira parte da alínea b) do número anterior ocorre com a aprovação da primeira das denominações requeridas que for viável.\n\n3 - Os actos previstos nas alíneas anteriores podem ser praticados pelo conservador ou por qualquer oficial dos registos.\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "887433709": {
+   "fragment_id": "36940175",
+   "type": 11,
+   "heading": "Artigo 9.º — Aditamentos à denominação",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 9.º — Aditamentos à denominação\n\n1 - Nos casos previstos na alínea b) do n.º 2 do artigo 2.º, o serviço competente deve completar a composição da denominação com a menção do elemento indicativo da natureza associativa da entidade, assim como com a menção de qualquer expressão alusiva aos fins estatutários que os interessados optem por inserir naquela.\n\n2 - Para efeitos do disposto na parte final do número anterior, não pode ser aditada qualquer menção que sugira a atribuição de um estatuto dependente de reconhecimento legal ou administrativo.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "887433710": {
+   "fragment_id": "36940275",
+   "type": 11,
+   "heading": "Artigo 10.º — Caducidade do direito ao uso da denominação",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 10.º — Caducidade do direito ao uso da denominação\n\nA não conclusão do procedimento no prazo previsto no artigo 4.º por facto imputável aos interessados determina a caducidade do direito ao uso da denominação aprovada ou escolhida ou da denominação e marca escolhidas afectas à associação a constituir, nos termos da alínea b) do n.º 1 do artigo 7.º, não conferindo o direito à restituição dos encargos cobrados.\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "887433711": {
+   "fragment_id": "36940375",
+   "type": 11,
+   "heading": "Artigo 11.º — Documentos a entregar aos interessados",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 11.º — Documentos a entregar aos interessados\n\n1 - Concluído o procedimento de constituição da associação, o serviço competente entrega de imediato aos interessados, a título gratuito:\n\na) Uma certidão do acto constitutivo e dos estatutos;\n\nb) O recibo comprovativo do pagamento dos encargos devidos;\n\nc) Nos casos em que com a constituição da associação ocorra a simultânea aquisição do registo de marca, para além dos documentos anteriores, documento comprovativo de tal aquisição, de modelo aprovado pelo Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.)\n\n2 - O serviço procede ainda ao envio posterior do cartão de pessoa colectiva a título gratuito.\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "47136275": {
+   "fragment_id": "35560375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de Junho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 8 de Agosto de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 16 de Agosto de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

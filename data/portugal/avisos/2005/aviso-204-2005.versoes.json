@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:534786:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-920510260",
+ "dre_path": "/dr/detalhe/aviso/204-2005-534786",
+ "source_lastmod": "2025-07-02",
+ "versions": [
+  {
+   "date": "2005-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920504272"
+   ]
+  }
+ ],
+ "fragments": {
+  "920504272": {
+   "fragment_id": "920510261",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 204/2005\n\nPor ordem superior se torna público que, aquando da 27.ª sessão do Comité Administrativo do Acordo, este adoptou certas modificações de redacção dos textos autênticos inglês e francês do Regulamento n.º 54, Relativo à Adopção de Condições Uniformes de Homologação de Pneus para Veículos Utilitários e Seus Reboques.\n\nPortugal é Parte do mesmo Regulamento, aprovado pelo Decreto n.º 14/89, publicado no Diário da República, 1.ª série, n.º 90, de 18 de Abril de 1989."
+  }
+ }
+}

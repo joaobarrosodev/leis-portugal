@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:184055:por
+title: Portaria n.º 186-A/2000
+short_title: null
+summary: Fixa, para o ano de 2000, entre 15 e 31 de Março, o período de defeso das espécies aquícolas em todas as albufeiras
+  situadas a sul do rio Tejo, com excepção da albufeira de Santa Clara
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 186-A/2000
+official_date: null
+publication_date: '2000-03-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 77/2000, 1º Suplemento, Série I-B de 2000-03-31
+  number: '77'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1452-(2) a 1452-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/03/077b01/00020002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/186-a/2000/03/31/p/dre/pt/html
+  oj: null
+  dre: '184055'
+  dre_path: /dr/detalhe/portaria/186-a-2000-184055
+  internal: pt:dre:184055:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/186-a-2000-184055
+  metadata_url: https://data.dre.pt/eli/port/186-a/2000/03/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/186-a-2000-184055
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-03-31T00:00:00Z'
+integrity:
+  source_sha256: 30a6311cf04c81bf3d59059ab9609b504228fe54057998d69cf8e421850ef29a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-186-A-184055.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Albufeiras
+- Pesca
+- Proteção do Ambiente
+- Período de Defeso
+- Espécie Protegida
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 186-A/2000
+
+de 31 de Março
+
+Atendendo a a situação geográfica do território português ser favorável à ocorrência de episódios de seca;
+
+Considerando que a variabilidade espacial da precipitação faz que a ocorrência de fenómenos de seca se acentuem mais na região a sul do Tejo;
+
+Atendendo a que no presente ano hidrológico esta situação é particularmente grave, reflectindo-se negativamente no armazenamento das albufeiras, o que é acentuado pelo défice acumulado dos anos anteriores, com especial incidência nas bacias hidrográficas a sul do rio Tejo;
+
+Considerando a necessidade de minimizar os impactes negativos que o excesso de biomassa aquícola possa provocar:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo da alínea a) do artigo 31.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, que, no presente ano de 2000, o período de defeso das espécies aquícolas constantes da alínea f) do artigo 29.º do decreto acima referido em todas as albufeiras situadas a sul do rio Tejo, com excepção da albufeira de Santa Clara, fique compreendido entre 15 e 31 de Março.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 30 de Março de 2000.

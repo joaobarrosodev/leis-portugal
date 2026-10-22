@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:218768:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-137809016",
+ "dre_path": "/dr/detalhe/decreto-lei/238-1986-218768",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-08-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "137704452",
+    "137704453",
+    "137704454",
+    "137704455",
+    "137704456",
+    "137704457",
+    "137704458"
+   ]
+  },
+  {
+   "date": "1988-02-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:283088:por",
+     "title": "Decreto-Lei n.º 42/88",
+     "published": "1988-02-06",
+     "dre_path": "/dr/detalhe/decreto-lei/42-1988-283088"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "137704452",
+    "137704453",
+    "137704454",
+    "137704455",
+    "137808224",
+    "137704457",
+    "137704458",
+    "137704459"
+   ]
+  }
+ ],
+ "fragments": {
+  "137704452": {
+   "fragment_id": "137809017",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 238/86\n\nde 19 de Agosto\n\nConsiderando que o direito à informação é um dos mais relevantes direitos do consumidor, como decorre da alínea b) do artigo 3.º e do artigo 9.º da Lei n.º 29/81, de 22 de Agosto (Lei da Defesa do Consumidor);\n\nConsiderando ainda que o crescente alargamento do mercado nacional a produtos ou serviços de origem estrangeira, quando não acompanhado pelo uso da língua portuguesa, inviabiliza na prática o exercício do direito à informação:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "137704453": {
+   "fragment_id": "137809018",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs informações sobre a natureza, características e garantias de bens ou serviços oferecidos ao público no mercado nacional, quer as constantes de rótulos, embalagens, prospectos, catálogos, livros de instruções para utilização ou outros meios informativos, quer as facultadas nos locais de venda ou divulgadas por qualquer meio publicitário, deverão ser prestadas em língua portuguesa."
+  },
+  "137704454": {
+   "fragment_id": "137809019",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNo caso de as informações escritas se encontrarem redigidas em língua ou línguas estrangeiras aquando da venda de bens ou serviços no mercado nacional é obrigatória a sua tradução intregal em língua portuguesa, devendo, conforme os casos, o texto traduzido ser aposto nos rótulos ou embalagens ou aditado aos meios informativos referidos no artigo anterior."
+  },
+  "137704455": {
+   "fragment_id": "137809020",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSem prejuízo de conterem versão em língua ou línguas estrangeiras, os contratos que tenham por objecto a venda de bens ou produtos ou a prestação de serviços no mercado interno, bem como a emissão de facturas ou recibos, deverão ser redigidos em língua portuguesa."
+  },
+  "137704456": {
+   "fragment_id": "137809021",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs obrigações previstas no presente diploma impendem sobre o fabricante, embalador, prestador de serviços e todos os outros agentes que desenvolvam actividade de comércio por grosso ou a retalho."
+  },
+  "137704457": {
+   "fragment_id": "137809022",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA violação do disposto no presente diploma constitui contra-ordenação, punível nos termos da alínea c) do n.º 1 do artigo 64.º do Decreto-Lei n.º 28/84, de 20 de Janeiro."
+  },
+  "137704458": {
+   "fragment_id": "137809023",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Este diploma entra em vigor em 1 de Novembro de 1986.\n\n2 - O disposto no artigo 2.º não se aplica, nos dezoito meses subsequentes à data da publicação deste diploma, às informações escritas relativas aos produtos e serviços existentes ou disponíveis naquela data no mercado nacional."
+  },
+  "137808224": {
+   "fragment_id": "137809021",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1988-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 42/88 - Diário da República n.º 31/1988, Série I de 1988-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1988-283088), em vigor a partir de 1988-02-11"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - As obrigações previstas no presente diploma impedem, no mercado interno, sobre o fabricante, embalador, prestador de serviços e todos os outros agentes que desenvolvam actividades de comércio por grosso ou a retalho.\n\n2 - A fiscalização do cumprimento da obrigação de informar em língua portuguesa será efectuada quando o bem ou serviço é colocado ao alcance do consumidor sem prejuízo da responsabilidade dos restantes agentes económicos referidos no número anterior.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 42/88 - Diário da República n.º 31/1988, Série I de 1988-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1988-283088), em vigor a partir de 1988-02-11"
+  },
+  "137704459": {
+   "fragment_id": "137809024",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Julho de 1986. - Aníbal António Cavaco Silva - Fernando Augusto dos Santos Martins.\n\nPromulgado em 26 de Julho de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Julho de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

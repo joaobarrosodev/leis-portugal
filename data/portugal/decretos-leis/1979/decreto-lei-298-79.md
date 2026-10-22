@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: pt:dre:377574:por
+title: Decreto-Lei n.º 298/79
+short_title: null
+summary: Estabelece normas referentes à segurança específica das instituições de crédito
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Administração Interna
+proposing_entity: null
+official_number: 298/79
+official_date: null
+publication_date: '1979-08-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1979, Série I de 1979-08-17
+  number: '189'
+  series: I
+  supplement: null
+  pages: 1979 - 1981
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18900/19791981.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '377574'
+  dre_path: /dr/detalhe/decreto-lei/298-1979-377574
+  internal: pt:dre:377574:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1979-377574
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1979-377574
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-02-21T00:00:00Z'
+integrity:
+  source_sha256: 0d6b2bb401a6b0eecfe64d55ab76752d42a89e18a6024f09af9cd2b75906a912
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-298-377574.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:569761:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 298/79
+
+de 17 de Agosto
+
+A generalidade dos países europeus não conhece normas legais específicas sobre segurança bancária. Esta segurança integra-se na segurança pública em geral e, por isso, sujeita aos mesmos dispositivos legais. Além disso, em face do agravamento dos riscos resultantes da existência e funcionamento das instituições de crédito, por causa dos vultosos valores que estão à sua guarda, considera-se que elas próprias devem criar condições de funcionamento e apetrechar-se dos mecanismos necessários para prevenir os assaltos ou, pelo menos, reduzir os seus efeitos, e, numa segunda fase, permitir a actuação eficaz das forças de polícia.
+
+Todavia, em face das enormes proporções, com perda de vidas e bens, que este tipo de criminalidade tem atingido no nosso país, o Governo considera que, sem se afastar daqueles princípios, não pode demitir-se das suas funções de defesa da legalidade.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º — (Princípio geral)
+
+A segurança específica das instituições de crédito é da responsabilidade das próprias instituições.
+
+###### ARTIGO 2.º — (Noção)
+
+Entende-se por segurança das instituições de crédito a protecção dos meios e valores afectos ou à guarda das mesmas, bem como a defesa dos seus trabalhadores enquanto no exercício das suas funções, assim como das instalações daquelas instituições.
+
+###### ARTIGO 3.º — (Âmbito de aplicação)
+
+1 - Todas as instituições de crédito ficam sujeitas ao regime de segurança criado pelo presente diploma e seu regulamento relativamente a todos os locais onde tenham instalados os respectivos serviços.
+
+2 - Ficam igualmente vinculados ao indicado regime os meios afectos ao transporte de fundos e valores das instituições de crédito.
+
+###### ARTIGO 4.º — (Princípios gerais sobre segurança)
+
+A segurança das instituições de crédito é garantida, designadamente, pelos seguintes meios e medidas:
+
+a) Existência de cofres ou casas-fortes com protecção físico-mecânica e electrónica;
+
+b) Contrôle de acessos aos locais onde se guardem ou manuseiem valores;
+
+c) Instalação de dispositivos de alarme electrónicos;
+
+d) Instalação de meios de protecção adequados à segurança e defesa dos trabalhadores, das instalações e dos meios e valores afectos ou à guarda das instituições de crédito;
+
+e) Instalação e contrôle de meios de identificação e de detecção de pessoas e armas;
+
+f) Programação, protecção e vigilância dos meios de transporte de fundos e valores;
+
+g) Difusão de normas internas visando a institucionalização de uma disciplina de segurança a observar pelos trabalhadores, após audição das suas estruturas representativas, sempre que contenham disposições que não integrem directamente a relação laboral;
+
+h) Pessoal especialmente habilitado para o exercício das tarefas de segurança;
+
+i) Outros meios e medidas que vierem a ser propostas, pelo Instituto de Gestão Bancária, aos Ministros das Finanças e do Plano e da Administração Interna.
+
+###### ARTIGO 5.º — (Equipamento de segurança)
+
+As condições e características que os dispositivos de segurança devem satisfazer e quaisquer outras medidas ou normas de segurança serão propostas pelo Instituto de Gestão Bancária, abreviadamente designado por IGB, com parecer favorável da Comissão referida no artigo 9.º, aos Ministros das Finanças e do Plano e da Administração Interna.
+
+###### ARTIGO 6.º — (Adequação tipológica)
+
+A intensidade e adequação dos meios e medidas de segurança referidos para cada um dos tipos das instituições de crédito serão definidas nos termos do artigo anterior.
+
+###### ARTIGO 7.º — (Conexão dos alarmes)
+
+Os dispositivos de alarme a que se refere o artigo 4.º devem estar em conexão com as forças de segurança, nos termos que forem regulamentados.
+
+###### ARTIGO 8.º — (Estruturas de segurança)
+
+1 - Por iniciativa das instituições de crédito ou por proposta do IGB, obtido parecer da Comissão referida no artigo 9.º podem ser criadas por aquelas, na dependência directa dos seus órgãos gestores, departamentos de segurança coordenadores da instalação, organização e funcionamento dos meios, medidas e serviços de segurança da respectiva instituição, onde será integrado todo o pessoal cuja missão seja a de assegurar a protecção e segurança dos seus trabalhadores, instalações e valores.
+
+2 - No exercício das funções que lhe são cometidas no número anterior, o pessoal integrado nos departamentos de segurança, devidamente credenciado, tem direito ao uso dos meios de protecção e defesa de que possam dispor nos termos legais.
+
+3 - Os órgãos de gestão devem indicar, por escrito, ao IGB a identidade dos responsáveis, pessoal de enquadramento e executivo dos departamentos de segurança, bem como a estrutura organizativa destes.
+
+###### ARTIGO 9.º — (Comissão Permanente de Segurança das instituições de Crédito)
+
+Como órgão de coordenação, consulta e apoio para efeitos da segurança e protecção previstas neste diploma, é criada a Comissão Permanente de Segurança das Instituições de Crédito, abreviadamente designada por Comissão.
+
+###### ARTIGO 10.º — (Constituição da Comissão)
+
+1 - A Comissão é constituída por:
+
+a) Um representante do Ministério das Finanças e do Plano, que preside;
+
+b) Um representante do Ministério da Administração Interna;
+
+c) Um representante das instituições de crédito do sector público;
+
+d) Um representante das instituições de crédito do sector privado;
+
+e) Um representante dos sindicatos dos bancários;
+
+f) Um representante do Instituto de Gestão Bancária, que servirá de secretário.
+
+2 - As deliberações são tomadas por maioria simples dos seus membros, tendo o presidente voto de qualidade.
+
+3 - Para estudo de assuntos de segurança, poderá o IGB por sua iniciativa ou a pedido da Comissão, propor ao Ministro das Finanças e do Plano as requisições de pessoal que se revelarem necessárias.
+
+4 - O expediente e apoio administrativo da Comissão ficam a cargo do IGB.
+
+###### ARTIGO 11.º — (Atribuições da Comissão)
+
+1 - São atribuições da Comissão:
+
+a) Estudar a política de segurança das instituições de crédito e propor as medidas atinentes à sua concretização;
+
+b) Estudar, propor e dar parecer sobre medidas que visem o melhoramento da segurança das instituições;
+
+e) Pronunciar-se sobre as questões de segurança das instituições de crédito cuja apreciação lhe seja atribuída por lei ou que o Governo ou o IGB entendam submeter-lhe;
+
+d) Dar parecer sobre as condições técnicas mínimas a que deverá obedecer o equipamento, as instalações, os dispositivos e departamentos de protecção e segurança das instituições de crédito;
+
+e) Dar parecer sobre todos os aspectos relativos à segurança e protecção das instituições de crédito, de qualquer dos seus membros ou do IGB.
+
+2 - Os pareceres da Comissão são sempre veiculados através do IGB.
+
+###### ARTIGO 12.º — (Requisição de informações)
+
+Para cumprimento das suas atribuições, poderá o IGB a pedido da Comissão, solicitar aos serviços públicos, às instituições de crédito e a quaisquer outras entidades, as informações e os elementos tidos por necessários à prossecução dos objectivos que lhe estão cometidos.
+
+###### ARTIGO 13.º — (Serviço de inspecção)
+
+1 - Na dependência do IGB poderá ser criado, caso as circunstâncias o recomendem, o Serviço de Inspecção de Segurança Bancária, abreviadamente designado por SISB, com funções de inspecção e contrôle da segurança das instituições de crédito.
+
+2 - Os inspectores do SISB são nomeados e credenciados por despacho do Ministro das Finanças e do Plano sob proposta do IGB sendo a respectiva categoria, vencimentos e quadro definidos em regulamento.
+
+3 - Os referidos inspectores podem servir em regime de requisição e tomam posse perante o presidente do IGB.
+
+###### ARTIGO 14.º — (Competência)
+
+1 - Compete ao SLSB proceder a inspecções, inquéritos e sindicâncias, bem como à fiscalização do sistema de segurança das instituições de crédito, em conformidade com as orientações do IGB, e à elaboração de participações por infracções às respectivas normas legais.
+
+2 - No exercício das suas funções, os elementos do SISB, devidamente identificados e credenciados como tal, têm acesso aos locais sujeitos a fiscalização e inspecção, nas condições que vierem a ser fixadas em regulamento.
+
+###### ARTIGO 15.º — (Infracções disciplinares)
+
+Incorrem em infracção disciplinar os trabalhadores que não derem cumprimento às disposições do presente diploma e seus regulamentos, bem como às normas internas sobre segurança.
+
+###### ARTIGO 16.º — (Novas instalações das instituições de crédito)
+
+1 - Após a entrada em funções da Comissão referida no artigo 9.º, nenhum estabelecimento abrirá ao público sem prévio acordo do IGB após obtenção de parecer favorável da aludida Comissão.
+
+2 - Aplica-se o disposto no número anterior aos locais onde sejam instalados serviços que o IGB considere deverem ser abrangidos por aquele regime.
+
+3 - Para o efeito, deve a respectiva instituição de crédito requerer prévia vistoria ao IGB.
+
+###### ARTIGO 17.º — (Normas genéricas)
+
+As normas genéricas sobre segurança a observar nas instituições de crédito são definidas em despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna, sob proposta do IGB, após parecer da Comissão referida no artigo 9.º
+
+###### ARTIGO 18.º — (Normas transitórias)
+
+Até à efectiva entrada em funcionamento do IGB, as funções que lhe são atribuídas neste diploma serão exercidas pelo Banco de Portugal.
+
+Visto e aprovado em Conselho de Ministros de 7 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro.
+
+**Promulgado em 30 de Julho de 1979.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

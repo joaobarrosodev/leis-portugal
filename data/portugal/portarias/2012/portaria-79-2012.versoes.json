@@ -1,0 +1,367 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553948:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-67357007",
+ "dre_path": "/dr/detalhe/portaria/79-2012-553948",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-03-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "126131983",
+    "67358133",
+    "67358134",
+    "67358135",
+    "67358136",
+    "67358137",
+    "67358138",
+    "67358139",
+    "67358140",
+    "67358141"
+   ]
+  },
+  {
+   "date": "2013-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:504992:por",
+     "title": "Portaria n.º 323/2013",
+     "published": "2013-10-31",
+     "dre_path": "/dr/detalhe/portaria/323-2013-504992"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "67358132",
+    "67358133",
+    "67358134",
+    "67358171",
+    "67358136",
+    "67358172",
+    "67358138",
+    "67358173",
+    "67358174",
+    "67358141",
+    "67358142"
+   ]
+  },
+  {
+   "date": "2015-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67356987:por",
+     "title": "Portaria n.º 159/2015",
+     "published": "2015-06-01",
+     "dre_path": "/dr/detalhe/portaria/159-2015-67356987"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "67358132",
+    "67362675",
+    "67358134",
+    "67358171",
+    "67358136",
+    "67358172",
+    "67358138",
+    "67358173",
+    "67358174",
+    "67358141",
+    "67358142"
+   ]
+  },
+  {
+   "date": "2019-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:126094284:por",
+     "title": "Portaria n.º 395/2019",
+     "published": "2019-11-13",
+     "dre_path": "/dr/detalhe/portaria/395-2019-126094284"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "126131983",
+    "126131984",
+    "126131985",
+    "126131986",
+    "126131987",
+    "126131988",
+    "126131989",
+    "126131990",
+    "126131991",
+    "126131992",
+    "126131993"
+   ]
+  }
+ ],
+ "fragments": {
+  "126131983": {
+   "fragment_id": "67357008",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-11-14",
+   "changed_by": [],
+   "markdown": "Portaria n.º 79/2012\n\nde 27 de março\n\nO Decreto-Lei n.º 4/2012, de 16 de janeiro, definiu a missão, atribuições e tipo de organização interna da Secretaria-Geral da Presidência do Conselho de Ministros. Importa agora, no desenvolvimento daquele diploma, determinar a estrutura nuclear dos serviços e estabelecer o número máximo de unidades orgânicas flexíveis e a dotação máxima de chefes de equipa multidisciplinar.\n\nAssim:\n\nAo abrigo dos n.os 4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, na redação do Decreto-Lei n.º 116/2011, de 5 de dezembro, e do despacho n.º 9162/2011, de 15 de Julho, publicado no Diário da República, 2.ª série, n.º 138, de 20 de Julho, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Secretário de Estado da Presidência do Conselho de Ministros, o seguinte:"
+  },
+  "67358133": {
+   "fragment_id": "67357009",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Secretaria-Geral da Presidência do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Secretaria-Geral da Presidência do Conselho de Ministros\n\n1 - A Secretaria-Geral da Presidência do Conselho de Ministros, abreviadamente designada por SG, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Recursos Humanos;\n\nb) Direção de Serviços de Património e Aquisições;\n\nc) Direção de Serviços Financeiros e de Contabilidade;\n\nd) Direção de Serviços de Assuntos Jurídicos e Documentação;\n\ne) Direção de Serviços de Auditoria e Inspeção.\n\n2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau."
+  },
+  "67358134": {
+   "fragment_id": "67357010",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direção de Serviços de Recursos Humanos\n\nÀ Direção de Serviços de Recursos Humanos, abreviadamente designada por DSRH, compete:\n\na) Preparar, propor e executar as medidas relativas à gestão dos recursos humanos que sejam necessários ao funcionamento do Conselho de Ministros e dos gabinetes do Primeiro-Ministro, ministros e demais membros do Governo integrados na Presidência do Conselho de Ministros (PCM), bem como das entidades e serviços integrados na PCM cuja orgânica não contemple estruturas para o efeito;\n\nb) Emitir pareceres em matéria de organização e recursos humanos, criação ou alteração de mapas de pessoal e intervir na coordenação da gestão de recursos humanos na PCM;\n\nc) Praticar os atos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afeto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;\n\nd) Assegurar os procedimentos necessários à gestão e avaliação dos recursos humanos da SG;\n\ne) Promover ações de recrutamento, seleção e formação do pessoal da SG;\n\nf) Coordenar a aplicação do Sistema Integrado de Avaliação de Desempenho na Administração Pública, SIADAP 2 e 3, bem como controlar a respetiva execução;\n\ng) Executar os procedimentos administrativos relativos à constituição, modificação e extinção de relações jurídicas de trabalho do pessoal da SG e das entidades a que preste apoio técnico e administrativo;\n\nh) Assegurar o processamento de remunerações e outros abonos do pessoal da SG e de outros serviços cuja orgânica não contemple estruturas para o efeitos e proceder à liquidação dos respetivos descontos;\n\ni) Administrar os sistemas de segurança social e de ação social complementar;\n\nj) Organizar e manter atualizado o cadastro do pessoal, manter o seu registo biográfico, emitindo certidões quando autorizadas;\n\nk) Assegurar as operações de registo de assiduidade, pontualidade e plano de férias;\n\nl) Assegurar a execução das normas de segurança, higiene e saúde no trabalho;\n\nm) Ocupar-se de outras tarefas relacionadas com a gestão de recursos humanos de que for incumbida."
+  },
+  "67358135": {
+   "fragment_id": "67357011",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Património e Aquisições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Património e Aquisições\n\nÀ Direção de Serviços de Património e Aquisições, abreviadamente designada por DSPA, compete:\n\na) Preparar, propor e executar as medidas relativas à gestão dos recursos patrimoniais que sejam necessários ao funcionamento do Conselho de Ministros e dos gabinetes do Primeiro-Ministro, ministros e demais membros do Governo integrados na PCM, bem como das entidades e serviços integrados na PCM cuja orgânica não contemple estruturas para o efeito;\n\nb) Gerir os contratos com fornecedores no quadro do funcionamento do sistema de compras públicas, assegurando as funções de unidade ministerial de compras;\n\nc) Administrar, conservar e zelar pela segurança dos imóveis afetos, nomeadamente a residência oficial do Primeiro-Ministro, respetivos recheio e equipamentos, sem prejuízo das atribuições cometidas aos serviços e organismos responsáveis pela administração do património cultural imóvel e instalações museológicas;\n\nd) Organizar a manutenção e conservação dos bens e equipamentos integrados nos imóveis referidos na alínea anterior, mantendo atualizado o respetivo inventário;\n\ne) Recolher e centralizar a informação respeitante ao património imobiliário da PCM, excluindo a referente ao património cultural imóvel, no âmbito das suas funções de unidade de gestão patrimonial;\n\nf) Gerir os sistemas de segurança das instalações, bens e equipamentos confiados à SG;\n\ng) Assegurar o cumprimento do Regulamento de Viaturas Automóveis, bem como a afetação de viaturas e motoristas aos gabinetes e entidades;\n\nh) Coordenar a execução, na PCM, dos programas para o desenvolvimento de políticas de eficiência energética na Administração Pública, nos termos que lhe sejam definidos;\n\ni) Emitir as autorizações de parqueamento."
+  },
+  "67358136": {
+   "fragment_id": "67357012",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços Financeiros e de Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direção de Serviços Financeiros e de Contabilidade\n\nÀ Direção de Serviços Financeiros e Contabilidade, abreviadamente designada por DSFC, compete:\n\na) Preparar, propor e executar as medidas relativas à gestão dos recursos financeiros que sejam necessários ao funcionamento do Conselho de Ministros e dos gabinetes do Primeiro-Ministro, ministros e demais membros do Governo integrados na PCM, bem como das entidades e serviços integrados na PCM cuja orgânica não contemple estruturas para o efeito;\n\nb) Assegurar a organização dos orçamentos de funcionamento e investimento da PCM, bem como acompanhar e monitorizar a respetiva execução;\n\nc) Preparar as propostas de orçamento dos gabinetes do Primeiro-Ministro e dos membros do Governo da PCM, da SG e das entidades a que esta presta apoio, bem como acompanhar e monitorizar a respetiva execução;\n\nd) Assegurar o pagamento de subsídios atribuídos a entidades públicas ou privadas por despacho do Primeiro-Ministro ou do membro do Governo em quem este delegar, por conta da rubrica adequada do respetivo orçamento;\n\ne) Assegurar a gestão orçamental da SG e das entidades apoiadas e propor as alterações julgadas adequadas;\n\nf) Elaborar relatórios periódicos de gestão, acompanhando o desenvolvimento e execução dos projetos de investimento aprovados;\n\ng) Elaborar o relatório e a conta de gerência da SG e das entidades apoiadas tendo em conta o plano anual de atividades;\n\nh) Elaborar balancetes mensais e previsionais de execução orçamental de todos os orçamentos referidos na alínea c);\n\ni) Instruir os processos relativos a despesas no âmbito dos orçamentos a cargo referidos na alínea c), proceder a liquidações e pagamentos, após verificação dos documentos de despesa;\n\nj) Promover a constituição, reconstituição e liquidação de fundos de maneio relativos a todos os orçamentos referidos na alínea c)."
+  },
+  "67358137": {
+   "fragment_id": "67357013",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Assuntos Jurídicos e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Assuntos Jurídicos e Documentação\n\nÀ Direção de Serviços de Assuntos Jurídicos e Documentação, abreviadamente designada por DAJD, compete:\n\na) Prestar assessoria técnica, jurídica e administrativa que seja solicitada para o Conselho de Ministros e para os gabinetes do Primeiro-Ministro, ministros e demais membros do Governo integrados na PCM, assegurando ainda apoio informativo, técnico, administrativo e documental às entidades e serviços integrados na PCM cuja orgânica não contemple estruturas específicas;\n\nb) Instruir e informar os processos administrativos que devam ser submetidos a Conselho de Ministros, ou a despacho do Primeiro-Ministro, dos ministros e dos demais membros do Governo integrados na PCM, cuja tramitação não esteja cometida a outro serviço ou organismo, designadamente no que respeita ao estatuto de utilidade pública e ao reconhecimento de fundações;\n\nc) Assegurar o apoio ao processo legislativo do Governo, na medida em que tal lhe seja solicitado;\n\nd) Instruir processos disciplinares, inquéritos ou averiguações de que seja incumbida;\n\ne) Colaborar na formalização dos contratos em que a SG ou as entidades por ela apoiadas tenham de intervir, quando para tal solicitada;\n\nf) Preparar e encaminhar a informação interna classificada;\n\ng) Praticar os atos de expediente administrativo solicitados superiormente;\n\nh) Assegurar todas as tarefas em matéria de informação, documentação, arquivo e expediente que não façam parte das atribuições de unidades orgânicas flexíveis ou matriciais."
+  },
+  "67358138": {
+   "fragment_id": "67357014",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços de Auditoria e Inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção de Serviços de Auditoria e Inspeção\n\nÀ Direção de Serviços de Auditoria e Inspeção, abreviadamente designada por DSAI, compete:\n\na) Apreciar e controlar a legalidade e a regularidade dos atos praticados pelos serviços e organismos da PCM, ou sob tutela dos membros do Governo integrados na PCM, com exceção dos serviços e organismos dependentes ou sob tutela do membro do Governo responsável pela área da Cultura;\n\nb) Avaliar a gestão e os resultados das entidades referidas na alínea anterior, através da realização de ações de inspeção e auditoria e de controlo técnico, de desempenho e financeiro;\n\nc) Instruir processos disciplinares, sindicâncias, inquéritos ou averiguações de que seja incumbida;\n\nd) Assegurar colaboração com organismos nacionais com competências de controlo e de inspeção, na sua área de intervenção e nos termos que lhe sejam definidos."
+  },
+  "67358139": {
+   "fragment_id": "67357015",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidades orgânicas flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da SG é fixado em quatro."
+  },
+  "67358140": {
+   "fragment_id": "67357016",
+   "type": 11,
+   "heading": "Artigo 8.º — Chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Chefes de equipas multidisciplinares\n\nÉ fixada em uma a dotação máxima dos chefes de equipas multidisciplinares."
+  },
+  "67358141": {
+   "fragment_id": "67357017",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "67358132": {
+   "fragment_id": "67357008",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 79/2012\n\nde 27 de março\n\nO Decreto-Lei n.º 4/2012, de 16 de janeiro, definiu a missão, atribuições e tipo de organização interna da Secretaria-Geral da Presidência do Conselho de Ministros. Importa agora, no desenvolvimento daquele diploma, determinar a estrutura nuclear dos serviços e estabelecer o número máximo de unidades orgânicas flexíveis e a dotação máxima de chefes de equipa multidisciplinar.\n\nAssim:\n\nAo abrigo dos n.os 4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, na redação do Decreto-Lei n.º 116/2011, de 5 de dezembro, e do despacho n.º 9162/2011, de 15 de Julho, publicado no Diário da República, 2.ª série, n.º 138, de 20 de Julho, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Secretário de Estado da Presidência do Conselho de Ministros, o seguinte:"
+  },
+  "67358171": {
+   "fragment_id": "67357011",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Património e Aquisições",
+   "in_force_from": "2013-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Património e Aquisições\n\nÀ Direção de Serviços de Património e Aquisições, abreviadamente designada por DSPA, compete:\n\na) Preparar, propor e executar as medidas relativas à gestão dos recursos patrimoniais que sejam necessários ao funcionamento do Conselho de Ministros e dos gabinetes do Primeiro-Ministro, ministros e demais membros do Governo integrados na PCM, bem como das entidades e serviços integrados na PCM cuja orgânica não contemple estruturas para o efeito;\n\nb) (Revogada).\n\nc) Administrar, conservar e zelar pela segurança dos imóveis afetos, nomeadamente a residência oficial do Primeiro-Ministro, respetivos recheio e equipamentos, sem prejuízo das atribuições cometidas aos serviços e organismos responsáveis pela administração do património cultural imóvel e instalações museológicas;\n\nd) Organizar a manutenção e conservação dos bens e equipamentos integrados nos imóveis referidos na alínea anterior, mantendo atualizado o respetivo inventário;\n\ne) Recolher e centralizar a informação respeitante ao património imobiliário da PCM, excluindo a referente ao património cultural imóvel, no âmbito das suas funções de unidade de gestão patrimonial;\n\nf) Gerir os sistemas de segurança das instalações, bens e equipamentos confiados à SG;\n\ng) Assegurar o cumprimento do Regulamento de Viaturas Automóveis, bem como a afetação de viaturas e motoristas aos gabinetes e entidades;\n\nh) Coordenar a execução, na PCM, dos programas para o desenvolvimento de políticas de eficiência energética na Administração Pública, nos termos que lhe sejam definidos;\n\ni) Emitir as autorizações de parqueamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+  },
+  "67358172": {
+   "fragment_id": "67357013",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Assuntos Jurídicos e Documentação",
+   "in_force_from": "2013-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+   ],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Assuntos Jurídicos e Documentação\n\nÀ Direção de Serviços de Assuntos Jurídicos e Documentação, abreviadamente designada por DAJD, compete:\n\na) Prestar assessoria técnica, jurídica e administrativa que seja solicitada para o Conselho de Ministros e para os gabinetes do Primeiro-Ministro, ministros e demais membros do Governo integrados na PCM, assegurando ainda apoio informativo, técnico, administrativo e documental às entidades e serviços integrados na PCM cuja orgânica não contemple estruturas específicas;\n\nb) Instruir e informar os processos administrativos que devam ser submetidos a Conselho de Ministros, ou a despacho do Primeiro-Ministro, dos ministros e dos demais membros do Governo integrados na PCM, cuja tramitação não esteja cometida a outro serviço ou organismo, designadamente no que respeita ao estatuto de utilidade pública e ao reconhecimento de fundações;\n\nc) Assegurar o apoio ao processo legislativo do Governo, na medida em que tal lhe seja solicitado;\n\nd) Instruir processos disciplinares, inquéritos ou averiguações de que seja incumbida;\n\ne) Colaborar na formalização dos contratos em que a SG ou as entidades por ela apoiadas tenham de intervir, quando para tal solicitada;\n\nf) Preparar e encaminhar a informação interna classificada;\n\ng) Praticar os atos de expediente administrativo solicitados superiormente;\n\nh) Assegurar todas as tarefas em matéria de informação, documentação, arquivo e expediente que não façam parte das atribuições de unidades orgânicas flexíveis ou matriciais;\n\ni) Promover a publicação dos diplomas do Governo, garantindo o registo, preparação, envio e controlo da publicação dos diplomas no Diário da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+  },
+  "67358173": {
+   "fragment_id": "67357015",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2013-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da SG é fixado em três.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+  },
+  "67358174": {
+   "fragment_id": "67357016",
+   "type": 11,
+   "heading": "Artigo 8.º — Chefes de equipas multidisciplinares",
+   "in_force_from": "2013-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+   ],
+   "markdown": "###### Artigo 8.º — Chefes de equipas multidisciplinares\n\nÉ fixada em dois a dotação máxima dos chefes de equipas multidisciplinares.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+  },
+  "67358142": {
+   "fragment_id": "67357018",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais Sarmento, Secretário de Estado do Orçamento, em substituição, em 21 de março de 2012. - O Secretário de Estado da Presidência do Conselho de Ministros, Luís Maria de Barros Serra Marques Guedes, em 19 de março de 2012."
+  },
+  "67362675": {
+   "fragment_id": "67357009",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Secretaria-Geral da Presidência do Conselho de Ministros",
+   "in_force_from": "2015-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2015-67356987), em vigor a partir de 2015-06-02"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Secretaria-Geral da Presidência do Conselho de Ministros\n\n1 - A Secretaria-Geral da Presidência do Conselho de Ministros, abreviadamente designada por SG, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Recursos Humanos;\n\nb) Direção de Serviços de Património e Aquisições;\n\nc) Direção de Serviços Financeiros e de Contabilidade;\n\nd) Direção de Serviços de Assuntos Jurídicos e Documentação;\n\ne) Direção de Serviços de Auditoria e Inspeção;\n\nf) Direção de Serviços de Política Legislativa para os Media.\n\n2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2015-67356987), em vigor a partir de 2015-06-02"
+  },
+  "126131984": {
+   "fragment_id": "67357009",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Secretaria-Geral da Presidência do Conselho de Ministros",
+   "in_force_from": "2019-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2015-67356987), em vigor a partir de 2015-06-02"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Secretaria-Geral da Presidência do Conselho de Ministros\n\n1 - A Secretaria-Geral da Presidência do Conselho de Ministros, abreviadamente designada por SG, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Recursos Humanos;\n\nb) Direção de Serviços de Património e Aquisições;\n\nc) Direção de Serviços Financeiros e de Contabilidade;\n\nd) Direção de Serviços de Assuntos Jurídicos e Documentação;\n\ne) Direção de Serviços de Auditoria e Inspeção;\n\nf) Direção de Serviços de Política Legislativa para os Media.\n\n2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2015-67356987), em vigor a partir de 2015-06-02"
+  },
+  "126131985": {
+   "fragment_id": "67357010",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços de Recursos Humanos",
+   "in_force_from": "2019-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14"
+   ],
+   "markdown": "###### Artigo 2.º — Direção de Serviços de Recursos Humanos\n\nÀ Direção de Serviços de Recursos Humanos, abreviadamente designada por DSRH, compete:\n\na) Preparar, propor e executar as medidas relativas à gestão dos recursos humanos que sejam necessários ao funcionamento do Conselho de Ministros e dos gabinetes do Primeiro-Ministro, ministros e demais membros do Governo integrados na Presidência do Conselho de Ministros (PCM), bem como das entidades e serviços integrados na PCM cuja orgânica não contemple estruturas para o efeito;\n\nb) Emitir pareceres em matéria de organização e recursos humanos, criação ou alteração de mapas de pessoal e intervir na coordenação da gestão de recursos humanos na PCM;\n\nc) Praticar os atos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afeto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;\n\nd) Assegurar os procedimentos necessários à gestão e avaliação dos recursos humanos da SG;\n\ne) Promover ações de recrutamento, seleção e formação do pessoal da SG;\n\nf) Coordenar a aplicação do Sistema Integrado de Avaliação de Desempenho na Administração Pública, SIADAP 2 e 3, bem como controlar a respetiva execução;\n\ng) Executar os procedimentos administrativos relativos à constituição, modificação e extinção de relações jurídicas de trabalho do pessoal da SG e das entidades a que preste apoio técnico e administrativo;\n\nh) Assegurar o processamento de remunerações e outros abonos do pessoal da SG e de outros serviços cuja orgânica não contemple estruturas para o efeitos e proceder à liquidação dos respetivos descontos;\n\ni) Administrar os sistemas de segurança social e de ação social complementar;\n\nj) Organizar e manter atualizado o cadastro do pessoal, manter o seu registo biográfico, emitindo certidões quando autorizadas;\n\nk) Assegurar as operações de registo de assiduidade, pontualidade e plano de férias;\n\nl) Assegurar a execução das normas de segurança, higiene e saúde no trabalho;\n\nm) Ocupar-se de outras tarefas relacionadas com a gestão de recursos humanos de que for incumbida.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14"
+  },
+  "126131986": {
+   "fragment_id": "67357011",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Património e Aquisições",
+   "in_force_from": "2019-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Património e Aquisições\n\nÀ Direção de Serviços de Património e Aquisições, abreviadamente designada por DSPA, compete:\n\na) Preparar, propor e executar as medidas relativas à gestão dos recursos patrimoniais que sejam necessários ao funcionamento do Conselho de Ministros e dos gabinetes do Primeiro-Ministro, ministros e demais membros do Governo integrados na PCM, bem como das entidades e serviços integrados na PCM cuja orgânica não contemple estruturas para o efeito;\n\nb) (Revogada).\n\nc) Administrar, conservar e zelar pela segurança dos imóveis afetos, nomeadamente a residência oficial do Primeiro-Ministro, respetivos recheio e equipamentos, sem prejuízo das atribuições cometidas aos serviços e organismos responsáveis pela administração do património cultural imóvel e instalações museológicas;\n\nd) Organizar a manutenção e conservação dos bens e equipamentos integrados nos imóveis referidos na alínea anterior, mantendo atualizado o respetivo inventário;\n\ne) Recolher e centralizar a informação respeitante ao património imobiliário da PCM, excluindo a referente ao património cultural imóvel, no âmbito das suas funções de unidade de gestão patrimonial;\n\nf) Gerir os sistemas de segurança das instalações, bens e equipamentos confiados à SG;\n\ng) Assegurar o cumprimento do Regulamento de Viaturas Automóveis, bem como a afetação de viaturas e motoristas aos gabinetes e entidades;\n\nh) Coordenar a execução, na PCM, dos programas para o desenvolvimento de políticas de eficiência energética na Administração Pública, nos termos que lhe sejam definidos;\n\ni) Emitir as autorizações de parqueamento.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+  },
+  "126131987": {
+   "fragment_id": "67357012",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços Financeiros e de Contabilidade",
+   "in_force_from": "2019-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14"
+   ],
+   "markdown": "###### Artigo 4.º — Direção de Serviços Financeiros e de Contabilidade\n\nÀ Direção de Serviços Financeiros e Contabilidade, abreviadamente designada por DSFC, compete:\n\na) Preparar, propor e executar as medidas relativas à gestão dos recursos financeiros que sejam necessários ao funcionamento do Conselho de Ministros e dos gabinetes do Primeiro-Ministro, ministros e demais membros do Governo integrados na PCM, bem como das entidades e serviços integrados na PCM cuja orgânica não contemple estruturas para o efeito;\n\nb) Assegurar a organização dos orçamentos de funcionamento e investimento da PCM, bem como acompanhar e monitorizar a respetiva execução;\n\nc) Preparar as propostas de orçamento dos gabinetes do Primeiro-Ministro e dos membros do Governo da PCM, da SG e das entidades a que esta presta apoio, bem como acompanhar e monitorizar a respetiva execução;\n\nd) Assegurar o pagamento de subsídios atribuídos a entidades públicas ou privadas por despacho do Primeiro-Ministro ou do membro do Governo em quem este delegar, por conta da rubrica adequada do respetivo orçamento;\n\ne) Assegurar a gestão orçamental da SG e das entidades apoiadas e propor as alterações julgadas adequadas;\n\nf) Elaborar relatórios periódicos de gestão, acompanhando o desenvolvimento e execução dos projetos de investimento aprovados;\n\ng) Elaborar o relatório e a conta de gerência da SG e das entidades apoiadas tendo em conta o plano anual de atividades;\n\nh) Elaborar balancetes mensais e previsionais de execução orçamental de todos os orçamentos referidos na alínea c);\n\ni) Instruir os processos relativos a despesas no âmbito dos orçamentos a cargo referidos na alínea c), proceder a liquidações e pagamentos, após verificação dos documentos de despesa;\n\nj) Promover a constituição, reconstituição e liquidação de fundos de maneio relativos a todos os orçamentos referidos na alínea c).\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14"
+  },
+  "126131988": {
+   "fragment_id": "67357013",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Assuntos Jurídicos e Documentação",
+   "in_force_from": "2019-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+   ],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Assuntos Jurídicos e Documentação\n\nÀ Direção de Serviços de Assuntos Jurídicos e Documentação, abreviadamente designada por DAJD, compete:\n\na) Prestar assessoria técnica, jurídica e administrativa que seja solicitada para o Conselho de Ministros e para os gabinetes do Primeiro-Ministro, ministros e demais membros do Governo integrados na PCM, assegurando ainda apoio informativo, técnico, administrativo e documental às entidades e serviços integrados na PCM cuja orgânica não contemple estruturas específicas;\n\nb) Instruir e informar os processos administrativos que devam ser submetidos a Conselho de Ministros, ou a despacho do Primeiro-Ministro, dos ministros e dos demais membros do Governo integrados na PCM, cuja tramitação não esteja cometida a outro serviço ou organismo, designadamente no que respeita ao estatuto de utilidade pública e ao reconhecimento de fundações;\n\nc) Assegurar o apoio ao processo legislativo do Governo, na medida em que tal lhe seja solicitado;\n\nd) Instruir processos disciplinares, inquéritos ou averiguações de que seja incumbida;\n\ne) Colaborar na formalização dos contratos em que a SG ou as entidades por ela apoiadas tenham de intervir, quando para tal solicitada;\n\nf) Preparar e encaminhar a informação interna classificada;\n\ng) Praticar os atos de expediente administrativo solicitados superiormente;\n\nh) Assegurar todas as tarefas em matéria de informação, documentação, arquivo e expediente que não façam parte das atribuições de unidades orgânicas flexíveis ou matriciais;\n\ni) Promover a publicação dos diplomas do Governo, garantindo o registo, preparação, envio e controlo da publicação dos diplomas no Diário da República.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+  },
+  "126131989": {
+   "fragment_id": "67357014",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços de Auditoria e Inspeção",
+   "in_force_from": "2019-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14"
+   ],
+   "markdown": "###### Artigo 6.º — Direção de Serviços de Auditoria e Inspeção\n\nÀ Direção de Serviços de Auditoria e Inspeção, abreviadamente designada por DSAI, compete:\n\na) Apreciar e controlar a legalidade e a regularidade dos atos praticados pelos serviços e organismos da PCM, ou sob tutela dos membros do Governo integrados na PCM, com exceção dos serviços e organismos dependentes ou sob tutela do membro do Governo responsável pela área da Cultura;\n\nb) Avaliar a gestão e os resultados das entidades referidas na alínea anterior, através da realização de ações de inspeção e auditoria e de controlo técnico, de desempenho e financeiro;\n\nc) Instruir processos disciplinares, sindicâncias, inquéritos ou averiguações de que seja incumbida;\n\nd) Assegurar colaboração com organismos nacionais com competências de controlo e de inspeção, na sua área de intervenção e nos termos que lhe sejam definidos.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14"
+  },
+  "126131990": {
+   "fragment_id": "67357015",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2019-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da SG é fixado em três.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+  },
+  "126131991": {
+   "fragment_id": "67357016",
+   "type": 11,
+   "heading": "Artigo 8.º — Chefes de equipas multidisciplinares",
+   "in_force_from": "2019-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+   ],
+   "markdown": "###### Artigo 8.º — Chefes de equipas multidisciplinares\n\nÉ fixada em dois a dotação máxima dos chefes de equipas multidisciplinares.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 323/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/portaria/323-2013-504992), em vigor a partir de 2013-11-01"
+  },
+  "126131992": {
+   "fragment_id": "67357017",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": "2019-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14"
+  },
+  "126131993": {
+   "fragment_id": "67357018",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14"
+   ],
+   "markdown": "Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais Sarmento, Secretário de Estado do Orçamento, em substituição, em 21 de março de 2012. - O Secretário de Estado da Presidência do Conselho de Ministros, Luís Maria de Barros Serra Marques Guedes, em 19 de março de 2012.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 395/2019 - Diário da República n.º 218/2019, Série I de 2019-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/395-2019-126094284), em vigor a partir de 2019-11-14"
+  }
+ }
+}

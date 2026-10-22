@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:107486770:por
+title: Resolução da Assembleia da República n.º 112/2017
+short_title: null
+summary: Recomenda ao Governo a imediata e total requalificação da Estrada Nacional 125 e a reposição da construção das variantes
+  e outros troços que constavam da concessão inicial
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 112/2017
+official_date: null
+publication_date: '2017-06-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/2017, Série I de 2017-06-07
+  number: '110'
+  series: I
+  supplement: null
+  pages: 2819 - 2819
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11000/0281902819.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/112/2017/06/07/p/dre/pt/html
+  oj: null
+  dre: '107486770'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/112-2017-107486770
+  internal: pt:dre:107486770:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/112-2017-107486770
+  metadata_url: https://data.dre.pt/eli/resolassrep/112/2017/06/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/112-2017-107486770
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-06-07T00:00:00Z'
+integrity:
+  source_sha256: 810fc7ca897ebc9457726ad2baef47d36e93eefd6421a982fe0de430146d84b0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2017/DRE-2017-112-107486770.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Obras de Conservação e Restauro
+- Algarve
+- Conservação de Estradas
+- Rede de Estradas
+- Recomendação
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 112/2017
+
+Recomenda ao Governo a imediata e total requalificação da Estrada Nacional 125 e a reposição da construção das variantes e outros troços que constavam da concessão inicial.
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo:
+
+1 - O recomeço imediato das obras de requalificação da Estrada Nacional 125 (EN 125) nos troços compreendidos entre Vila do Bispo e Olhão e o início das obras de requalificação entre Vila Real de Santo António e Olhão Nascente.
+
+2 - A reavaliação da concessão da EN 125, entre Vila do Bispo e Olhão, incluindo a possibilidade do seu resgate pelo Estado, para que a região do Algarve possa dispor, com a maior urgência, de uma EN 125 inteiramente requalificada e operacional.
+
+3 - A reposição da construção das variantes e outros troços que constavam no contrato inicial assinado entre o Estado Português e a concessionária.
+
+Aprovada em 31 de março de 2017.
+
+**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**

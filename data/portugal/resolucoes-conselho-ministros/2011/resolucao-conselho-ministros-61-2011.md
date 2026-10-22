@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: pt:dre:145040:por
+title: Resolução do Conselho de Ministros n.º 61/2011
+short_title: null
+summary: Institui o Ano Europeu do Envelhecimento Activo e da Solidariedade entre as Gerações (AEEASG) em Portugal no ano
+  de 2012 e determina a execução a nível nacional das actividades que lhe estão associadas
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 61/2011
+official_date: null
+publication_date: '2011-12-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 244/2011, Série I de 2011-12-22
+  number: '244'
+  series: I
+  supplement: null
+  pages: 5391 - 5393
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/12/24400/0539105393.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/61/2011/12/22/p/dre/pt/html
+  oj: null
+  dre: '145040'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/61-2011-145040
+  internal: pt:dre:145040:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-2011-145040
+  metadata_url: https://data.dre.pt/eli/resolconsmin/61/2011/12/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-2011-145040
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-12-22T00:00:00Z'
+integrity:
+  source_sha256: 6e52a6d3e23baf2d087ef5bc2f263e9fd8f53c29b66508adce1e5cc7542d0230
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-61-145040.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Acompanhamento
+- Direitos do Homem
+- Terceira Idade
+- Definição de Competências
+- Proteção na Velhice
+- ANO Europeu do Envelhecimento Activo e da Solidariedade entre as Gerações
+relationships:
+- type: cites
+  target: celex:32011D0940
+  label: null
+  source: http://data.europa.eu/eli/dec/2011/940/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 61/2011
+
+A II Assembleia Mundial das Nações Unidas realizada em Madrid, em 2002, traçou como objectivos orientadores de políticas inovadoras para responder ao envelhecimento demográfico, o envelhecimento activo e a sociedade para todas as idades.
+
+Assim, o envelhecimento activo e a solidariedade inter-geracional passam a ser considerados elementos chave da coesão social, contribuindo para uma maior qualidade de vida à medida que as pessoas vão envelhecendo. Por outro lado, no sentido em que se baseiam no reconhecimento dos direitos humanos, contribuem igualmente para a consolidação da democracia.
+
+Neste contexto, o Parlamento Europeu e a Comissão Europeia declararam 2012 como o Ano Europeu do Envelhecimento Activo e da Solidariedade entre as Gerações (AEEASG), através da Decisão n.º [940/2011/UE](http://data.europa.eu/eli/dec/2011/940/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de Setembro de 2011.
+
+O AEEASG pretende contribuir para promover uma cultura de envelhecimento activo na Europa convocando valores europeus como a solidariedade, a não discriminação, a independência, a participação, a dignidade, os cuidados e a auto-realização das pessoas idosas, concorrendo para o desenvolvimento harmonioso das sociedades europeias.
+
+Esta iniciativa será, igualmente, uma oportunidade para reflectir sobre os efeitos do envelhecimento demográfico e sensibilizar os decisores políticos e a sociedade em geral para:
+
+As oportunidades e desafios que uma maior longevidade podem trazer, designadamente, nas áreas do emprego, cuidados de saúde, serviços sociais, educação de adultos, voluntariado, habitação, informática e transportes;
+
+A valiosa contribuição das pessoas idosas na sociedade;
+
+O debate e a aprendizagem mútuos entre os países da União Europeia (UE) com a finalidade de promover as boas práticas e favorecer a cooperação;
+
+A definição de objectivos e a assumpção de compromissos que permitam o desenvolvimento de actividades específicas e o comprometimento em alcançar novos objectivos políticos.
+
+Os objectivos principais do AEEASG são:
+
+Sensibilizar para a importância do envelhecimento activo e da solidariedade inter-geracional;
+
+Promover o intercâmbio de informações e de experiências;
+
+Dar a possibilidade de elaborar políticas mediante o desenvolvimento de actividades específicas e a fixação de objectivos concretos.
+
+São, ainda, objectivos do AEEASG:
+
+Incentivar as iniciativas destinadas a promover a participação cívica e as actividades inter-geracionais a nível da UE;
+
+Criar condições para que os organizadores de actividades possam melhorar a sua qualidade e desenvolver novos tipos de actividades, bem como incentivar a criação de redes, a mobilidade, a cooperação e as sinergias no interior da sociedade civil e entre a sociedade civil e os outros sectores no contexto da UE;
+
+Sensibilizar os cidadãos para o valor e a importância do envelhecimento activo enquanto expressão de participação cívica e enquanto actividade que contribui para a realização de objectivos comuns a todos os Estados membros, como o desenvolvimento harmonioso da sociedade e a coesão social.
+
+Tendo em conta que os objectivos traçados estão em consonância com as linhas estruturantes da política governamental para o reforço da coesão social, através da promoção da participação e do diálogo entre os vários agentes públicos e privados em contextos formais e não formais, considera o Governo necessário investir no apoio ao desenvolvimento de iniciativas que contribuam de forma eficaz para a promoção da cidadania e para a capacitação das comunidades pela construção de uma sociedade mais justa e mais fraterna.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Instituir o Ano Europeu do Envelhecimento Activo e da Solidariedade entre as Gerações, adiante designado AEEASG, em Portugal no ano de 2012 e determinar a execução a nível nacional das actividades que lhe estão associadas.
+
+2 - Designar uma personalidade de reconhecido mérito, a nomear por despacho do membro do Governo responsável pelas áreas da Solidariedade e Segurança Social, para presidir ao AEEASG.
+
+3 - Criar uma Equipa Operacional, adiante designada por EO, de apoio ao Presidente, no prazo de 10 dias após a publicação do despacho de nomeação do referido Presidente, com responsabilidade pela elaboração e coordenação do programa nacional do AEEASG, que inclui as seguintes entidades:
+
+a) Instituto da Segurança Social. I. P.;
+
+b) Instituto do Emprego e Formação Profissional, I. P.;
+
+c) Direcção-Geral de Inovação e Desenvolvimento Curricular;
+
+d) Direcção-Geral de Saúde;
+
+e) Instituto Nacional de Reabilitação, I. P.;
+
+f) Instituto Português do Desporto e Juventude, I. P.
+
+4 - Definir que o apoio logístico e administrativo ao funcionamento do AEEASG, bem como a gestão dos recursos financeiros disponibilizados pela Comissão Europeia neste âmbito, será assegurado pelo Instituto da Segurança Social, I. P..
+
+5 - Criar uma Comissão Nacional de Acompanhamento ao AEEASG, adiante designada por CNA, presidida pela personalidade nomeada nos termos do n.º 2 e que integra:
+
+a) Um representante da Presidência de Conselho de Ministros;
+
+b) Um representante do Ministério das Finanças;
+
+c) Um representante do Ministério dos Negócios Estrangeiros;
+
+d) Um representante do Ministério da Defesa;
+
+e) Um representante do Ministério da Administração Interna;
+
+f) Um representante do Ministério da Justiça;
+
+g) Um representante do Ministério da Economia e do Emprego;
+
+h) Um representante do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;
+
+i) Um representante do Ministério da Saúde;
+
+j) Um representante do Ministério da Educação e Ciência;
+
+l) Um representante do Ministério da Solidariedade e da Segurança Social;
+
+m) Um representante do Secretário de Estado da Cultura;
+
+n) Um representante do Governo da Região Autónoma dos Açores;
+
+o) Um representante do Governo da Região Autónoma da Madeira;
+
+p) Um representante do Provedor de Justiça;
+
+q) Um representante da Comissão para a Cidadania e a Igualdade do Género;
+
+r) Um representante do Alto Comissariado para a Imigração e Diálogo Intercultural, I. P.;
+
+s) Um representante da União das Misericórdias Portuguesas;
+
+t) Um representante das Mutualidades Portuguesas;
+
+u) Um representante da Confederação Nacional das Instituições de Solidariedade;
+
+v) Um representante da Associação Nacional de Municípios Portugueses;
+
+x) Um representante da Associação Nacional das Freguesias;
+
+z) Um representante da União Geral dos Trabalhadores;
+
+aa) Um representante da Confederação Geral dos Trabalhadores Portugueses-Intersindical Nacional;
+
+bb) Um representante da Confederação dos Agricultores de Portugal;
+
+cc) Um representante da Confederação do Comércio e Serviços de Portugal;
+
+dd) Um representante da Confederação da Indústria Portuguesa;
+
+ee) Um representante da Confederação do Turismo Português;
+
+ff) Um representante do Comité de Protecção Social;
+
+gg) Um representante da Rede de Universidades da Terceira Idade - RUTIS;
+
+hh) Um representante da Sociedade Portuguesa de Geriatria e Gerontologia;
+
+ii) Um representante da Confederação Portuguesa de Voluntariado;
+
+jj) Um representante do Centro Português de Fundações;
+
+ll) Um representante da Fundação Calouste Gulbenkian;
+
+mm) Um representante do Instituto do Envelhecimento.
+
+6 - Cada uma das entidades referidas no número anterior deve designar o seu representante e comunicá-lo ao Instituto da Segurança Social, I. P., no prazo de 10 dias úteis a contar da data da publicação da presente resolução.
+
+7 - A CNA pode, ainda, integrar cinco personalidades de reconhecido mérito que assegurem especial qualificação na reflexão em torno do envelhecimento activo e da solidariedade inter-geracional, a nomear por despacho dos membros do Governo responsáveis, respectivamente, pelas áreas do desporto e juventude, da economia e do emprego, da saúde, da educação e ciência, e da solidariedade e segurança social.
+
+8 - A CNA tem as seguintes competências:
+
+a) Dar contributos para o programa nacional do AEEASG;
+
+b) Mobilizar localmente sectores e respectivas iniciativas por via das entidades que representam, sempre que se verifique uma participação em estruturas locais de âmbito distrital e ou concelhias;
+
+c) Acompanhar as actividades desenvolvidas ao longo do AEEASG;
+
+d) Emitir parecer e dar o seu contributo sobre os assuntos que lhe sejam solicitados pela presidência do AEEASG;
+
+e) Pronunciar-se sobre o relatório de actividades do AEEASG proposto pela EO, que deve ser apresentado até ao dia 31 de Março de 2013 ao membro do Governo responsável pelas áreas da solidariedade e segurança social.
+
+9 - Determinar que os mandatos de presidente do AEEASG, da EO e dos elementos da CNA não são remunerados e terminam com a apresentação do relatório de actividades referido na alínea e) do número anterior.
+
+Presidência do Conselho de Ministros, 15 Dezembro de 2011. - O Primeiro-Ministro, Pedro Passos Coelho.

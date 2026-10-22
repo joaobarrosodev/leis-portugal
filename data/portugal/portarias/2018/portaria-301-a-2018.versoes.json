@@ -1,0 +1,157 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:117114258:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-117129860",
+ "dre_path": "/dr/detalhe/portaria/301-a-2018-117114258",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-11-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117125467",
+    "117125468",
+    "117125469",
+    "117125470",
+    "117125471"
+   ]
+  },
+  {
+   "date": "2021-10-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172938308:por",
+     "title": "Portaria n.º 208-A/2021",
+     "published": "2021-10-15",
+     "dre_path": "/dr/detalhe/portaria/208-a-2021-172938308"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A"
+   ],
+   "fragments": [
+    "117125467",
+    "117125468",
+    "117125469",
+    "173023180",
+    "173023181",
+    "173023182",
+    "173023183"
+   ]
+  },
+  {
+   "date": "2022-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178478629:por",
+     "title": "Portaria n.º 63-A/2022",
+     "published": "2022-01-31",
+     "dre_path": "/dr/detalhe/portaria/63-a-2022-178478629"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º-A"
+   ],
+   "fragments": [
+    "117125467",
+    "117125468",
+    "117125469",
+    "178364465",
+    "173023181",
+    "173023182",
+    "173023183"
+   ]
+  }
+ ],
+ "fragments": {
+  "117125467": {
+   "fragment_id": "117129861",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 301-A/2018\n\nde 23 de novembro\n\nNa Portaria n.º 24-A/2016, de 11 de fevereiro, as taxas unitárias do ISP foram atualizadas em (euro) 0,06 por litro. Ao longo de 2016, como definido pelo Governo, procedeu-se à reavaliação e atualização trimestral das taxas de ISP sobre a gasolina e gasóleo, o que levou a diversos ajustamentos.\n\nA partir do ano de 2017, conforme previa o Relatório do Orçamento do Estado para 2017, e a subsequente Portaria n.º 345-C/2016, de 30 de dezembro, definiu-se o caminho da convergência das taxas de imposto sobre a gasolina e gasóleo.\n\nDesde então, o Governo tem vindo a proceder a uma descida progressiva da tributação sobre a gasolina, com contrapartida na subida da tributação do gasóleo, visando a convergência da tributação destes dois combustíveis.\n\nÀ aproximação das taxas do ISP sobre a gasolina às taxas do ISP aplicáveis ao gasóleo estão subjacentes razões de natureza ambiental, procurando-se incentivar o consumo de combustíveis rodoviários menos poluentes, num quadro de descarbonização.\n\nPor outro lado, deve ser tida em conta a introdução do regime de «gasóleo profissional», em 2016, para o transporte rodoviário pesado de mercadorias, aplicável a veículos com peso bruto igual ou superior a 35 toneladas, que passou a beneficiar de uma tributação do gasóleo pelo nível mínimo admitido na União Europeia.\n\nSeguindo esta tendência, procede-se à fixação das taxas unitárias de ISP para o ano de 2019, reduzindo em três cêntimos por litro a taxa do ISP sobre a gasolina, que corresponde à diferença que ainda se mantinha face aos valores que vigoravam no início do ano de 2016. O Governo, de um modo sustentado, prosseguirá o caminho de correspondência com os valores de 2016 no que respeita ao gasóleo.\n\nNestes termos:\n\nManda o Governo, pelos Ministros das Finanças e do Ambiente e da Transição Energética, nos termos do disposto no n.º 1 do artigo 92.º do Código dos Impostos Especiais de Consumo (CIEC), aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, o seguinte:"
+  },
+  "117125468": {
+   "fragment_id": "117129862",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria fixa o valor das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) aplicáveis no continente à gasolina sem chumbo e ao gasóleo rodoviário."
+  },
+  "117125469": {
+   "fragment_id": "117129863",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas do imposto sobre os produtos petrolíferos e energéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Taxas do imposto sobre os produtos petrolíferos e energéticos\n\n1 - A taxa do ISP aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 11 41 a 2710 11 49, é de (euro) 526,64 por 1000 l.\n\n2 - A taxa do ISP aplicável ao gasóleo, classificado pelos códigos NC 2710 19 41 a 2710 19 49, é de (euro) 343,15 por 1000 l."
+  },
+  "117125470": {
+   "fragment_id": "117129864",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 385-I/2017, de 29 de dezembro."
+  },
+  "117125471": {
+   "fragment_id": "117129865",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de janeiro de 2019."
+  },
+  "173023180": {
+   "fragment_id": "172938339",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Redução extraordinária do imposto sobre os produtos petrolíferos e energéticos",
+   "in_force_from": "2021-10-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 208-A/2021 - Diário da República n.º 201/2021, 1º Suplemento, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/208-a-2021-172938308), em vigor a partir de 2021-10-16"
+   ],
+   "markdown": "###### Artigo 2.º-A — Redução extraordinária do imposto sobre os produtos petrolíferos e energéticos\n\n1 - Até 31 de janeiro de 2022, a taxa do ISP aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 11 41 a 2710 11 49, é de (euro) 506,64 por 1000 l.\n\n2 - Durante o período referido no número anterior, a taxa do ISP aplicável ao gasóleo, classificado pelos códigos NC 2710 19 41 a 2710 19 49, é de (euro) 333,15 por 1000 l.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 208-A/2021 - Diário da República n.º 201/2021, 1º Suplemento, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/208-a-2021-172938308), em vigor a partir de 2021-10-16"
+  },
+  "173023181": {
+   "fragment_id": "117129864",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 385-I/2017, de 29 de dezembro."
+  },
+  "173023182": {
+   "fragment_id": "117129865",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de janeiro de 2019."
+  },
+  "173023183": {
+   "fragment_id": "117129866",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 23 de novembro de 2018.\n\nO Ministro das Finanças, Mário José Gomes de Freitas Centeno. - O Ministro do Ambiente e da Transição Energética, João Pedro Soeiro de Matos Fernandes.\n\n111849794"
+  },
+  "178364465": {
+   "fragment_id": "172938339",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Redução extraordinária do imposto sobre os produtos petrolíferos e energéticos",
+   "in_force_from": "2022-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63-A/2022 - Diário da República n.º 21/2022, 1º Suplemento, Série I de 2022-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/63-a-2022-178478629), em vigor a partir de 2022-02-01",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 208-A/2021 - Diário da República n.º 201/2021, 1º Suplemento, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/208-a-2021-172938308), em vigor a partir de 2021-10-16"
+   ],
+   "markdown": "###### Artigo 2.º-A — Redução extraordinária do imposto sobre os produtos petrolíferos e energéticos\n\n1 - Até 30 de abril de 2022, a taxa do ISP aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 11 41 a 2710 11 49, é de (euro) 506,64 por 1000 l.\n\n2 - Durante o período referido no número anterior, a taxa do ISP aplicável ao gasóleo, classificado pelos códigos NC 2710 19 41 a 2710 19 49, é de (euro) 333,15 por 1000 l.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63-A/2022 - Diário da República n.º 21/2022, 1º Suplemento, Série I de 2022-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/63-a-2022-178478629), em vigor a partir de 2022-02-01\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 208-A/2021 - Diário da República n.º 201/2021, 1º Suplemento, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/208-a-2021-172938308), em vigor a partir de 2021-10-16"
+  }
+ }
+}

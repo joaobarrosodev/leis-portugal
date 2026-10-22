@@ -1,0 +1,187 @@
+---
+schema_version: '1.0'
+id: pt:dre:602005:por
+title: Portaria n.º 216/2009
+short_title: null
+summary: Aprova o regulamento de extensão das alterações do CCT entre a Associação Comercial e Empresarial dos Concelhos de
+  Oeiras e Amadora e outras e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outros e do CCT entre as
+  mesmas associações de empregadores e o CESP - Sindicato dos Trabalhadores do Comércio, Escritórios e Serviços de Portugal
+  e outros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 216/2009
+official_date: null
+publication_date: '2009-02-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 38/2009, Série I de 2009-02-24
+  number: '38'
+  series: I
+  supplement: null
+  pages: 1282 - 1284
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03800/0128201284.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/216/2009/02/24/p/dre/pt/html
+  oj: null
+  dre: '602005'
+  dre_path: /dr/detalhe/portaria/216-2009-602005
+  internal: pt:dre:602005:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-2009-602005
+  metadata_url: https://data.dre.pt/eli/port/216/2009/02/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-2009-602005
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-02-24T00:00:00Z'
+integrity:
+  source_sha256: 000a7a45d8a372532bbf5dd495f83e277dd671bff8eff614a3defaa93aa4046b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-216-602005.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alenquer
+- Arruda dos Vinhos
+- Vila Franca de Xira
+- Contrato Coletivo de Trabalho
+- Loures
+- Mafra
+- Odivelas
+- Prestação de Serviços
+- Regulamento de Extensão
+- Remuneração
+- Amadora
+- Oeiras
+- Sintra
+- Comércio
+- Trabalhador por Conta de Outrem
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 216/2009
+
+de 24 de Fevereiro
+
+As alterações do contrato colectivo de trabalho entre a Associação Comercial e Empresarial dos Concelhos de Oeiras e Amadora e outras e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outros e o contrato colectivo de trabalho entre as mesmas associações de empregadores e o CESP - Sindicato dos Trabalhadores do Comércio, Escritórios e Serviços de Portugal e outros, publicados no Boletim do Trabalho e Emprego, n.os 32 e 33, de 29 de Agosto e de 8 de Setembro de 2008, respectivamente, a primeira com rectificação publicada no Boletim do Trabalho e Emprego, n.º 41, de 8 de Novembro de 2008, abrangem as relações de trabalho entre empregadores que se dediquem à actividade comercial e de prestação de serviços e trabalhadores ao seu serviço, uns e outros representados pelas associações que as outorgaram.
+
+As associações subscritoras requereram a extensão das convenções a todas as empresas não filiadas nas associações de empregadores outorgantes que prossigam as actividades referidas nos concelhos de Oeiras, Amadora, Sintra, Loures, Odivelas, Mafra, Vila Franca de Xira, Arruda dos Vinhos e Alenquer e aos trabalhadores ao seu serviço com as categorias profissionais nelas previstas representados pelas associações sindicais outorgantes.
+
+Não foi possível proceder ao estudo de avaliação do impacte da extensão das tabelas salariais dado existirem outras convenções aplicáveis na mesma área e às mesmas actividades com tabelas salariais diferenciadas, quer quanto aos valores das retribuições, quer quanto às profissões e categorias profissionais. No entanto, de acordo com os quadros de pessoal de 2005, foi possível apurar que o total dos trabalhadores abrangidos por todas as convenções é cerca de 62 643, com exclusão do residual (que inclui o ignorado), dos quais 49 845 (79,6 %) a tempo completo.
+
+As convenções actualizam, ainda, o subsídio mensal para falhas, o subsídio mensal de técnicos de computadores, o subsídio de cortador ou estendedor de tecidos e o subsídio de deslocações para o estrangeiro, todos em 5,8 %, e o subsídio de refeição em 11,4 %. Considerando a finalidade da extensão e que as mesmas prestações foram objecto de extensões anteriores, justifica-se incluí-las na extensão.
+
+As tabelas salariais da convenção prevêem retribuições inferiores à retribuição mínima mensal garantida para o ano de 2009. No entanto, a retribuição mínima mensal garantida pode ser objecto de reduções relacionadas com o trabalhador, de acordo com o artigo 209.º da [Lei n.º 35/2004](https://diariodarepublica.pt/dr/detalhe/lei/35-2004-502399), de 29 de Julho. Deste modo, as referidas retribuições da tabela salarial apenas são objecto de extensão para abranger situações em que a retribuição mínima mensal garantida resultante da redução seja inferior àquelas.
+
+As convenções abrangem, entre outras, as actividades de comércio de carnes, de salões de cabeleireiro e institutos de beleza e de lavandarias e tinturarias. Contudo, existindo convenções colectivas de trabalho celebradas por associações de empregadores que representam estas actividades e que outorgam convenções colectivas de trabalho, também objecto de extensão, que se aplicam nos concelhos referidos, a presente extensão abrange apenas, quanto a estas actividades, as empresas filiadas nas associações de empregadores outorgantes e trabalhadores ao seu serviço, das categorias profissionais previstas nas convenções.
+
+Tendo em consideração a aplicação na área e no âmbito das presentes convenções de outras convenções colectivas de trabalho celebradas entre a UACS - União de Associações de Comércio e Serviços e outra e as mesmas associações sindicais, assegura-se, na medida do possível, a uniformização do estatuto laboral em cada empresa, pelo que, à semelhança das extensões anteriores, a presente extensão não se aplica às empresas filiadas nas associações inscritas na UACS - União de Associações de Comércio e Serviços.As extensões anteriores destas convenções não abrangeram as relações de trabalho tituladas por empregadores que exerciam a actividade económica em estabelecimentos qualificados como unidades comerciais de dimensão relevante não filiados nas associações de empregadores outorgantes, regulados pelo [Decreto-Lei n.º 218/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1997-195799), de 20 de Agosto, entretanto revogado pela [Lei n.º 12/2004](https://diariodarepublica.pt/dr/detalhe/lei/12-2004-217164), de 30 de Março, as quais eram abrangidas pelo contrato colectivo de trabalho entre a APED - Associação Portuguesa de Empresas de Distribuição e diversas associações sindicais e pelas respectivas extensões, situação que se mantém.
+
+Considera-se conveniente manter a distinção entre pequeno/médio comércio a retalho e a grande distribuição, nos termos seguidos pelas extensões anteriores, pelo que a extensão das convenções não abrange as empresas não filiadas nas associações de empregadores outorgantes, desde que se verifique uma das seguintes condições:
+
+Sendo de comércio a retalho alimentar ou misto, disponham de uma área de venda contínua de comércio a retalho alimentar igual ou superior a 2000 m2;
+
+Sendo de comércio a retalho não alimentar, disponham de uma área de venda contínua igual ou superior a 4000 m2;
+
+Sendo de comércio a retalho alimentar ou misto, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada de comércio a retalho alimentar igual ou superior a 15 000 m2;
+
+Sendo de comércio a retalho não alimentar, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada igual ou superior a 25 000 m2.
+
+Com vista a aproximar os estatutos laborais dos trabalhadores e as condições de concorrência entre as empresas do sector de actividade abrangido pelas convenções, a extensão assegura para as tabelas salariais e para o subsídio de refeição retroactividade idêntica à das convenções.
+
+Atendendo a que as convenções regulam diversas condições de trabalho, procede-se à ressalva genérica de cláusulas contrárias a normas legais imperativas.
+
+Tendo em consideração que não é viável proceder à verificação objectiva da representatividade das associações outorgantes e, ainda, que os regimes das referidas convenções são substancialmente idênticos, procede-se à respectiva extensão conjunta.
+
+A extensão das convenções tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre empresas do mesmo sector.
+
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, n.º 47, de 22 de Dezembro de 2008, ao qual não foi deduzida oposição por parte dos interessados.
+
+Assim:
+
+Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, ao abrigo dos n.os 1 e 3 do artigo 575.º do Código do Trabalho, o seguinte:
+
+###### Artigo 1.º
+
+1 - As condições de trabalho constantes das alterações do contrato colectivo de trabalho entre a Associação Comercial e Empresarial dos Concelhos de Oeiras e Amadora e outras e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outros e do contrato colectivo de trabalho entre as mesmas associações de empregadores e o CESP - Sindicato dos Trabalhadores do Comércio, Escritórios e Serviços de Portugal e outros, publicados no Boletim do Trabalho e Emprego, n.os 32 e 33, de 29 de Agosto e de 8 de Setembro de 2008, respectivamente, a primeira com rectificação publicada no Boletim do Trabalho e Emprego, n.º 41, de 8 de Novembro de 2008, são estendidas nos concelhos de Oeiras, Amadora, Sintra, Loures, Odivelas, Mafra, Vila Franca de Xira, Arruda dos Vinhos e Alenquer:
+
+a) Às relações de trabalho entre empregadores não filiados nas associações de empregadores outorgantes que exerçam as actividades económicas abrangidas pelas convenções, com excepção dos empregadores que se dedicam às actividades de comércio de carnes, de serviços pessoais de penteado e estética e de lavandarias e tinturarias e trabalhadores ao seu serviço das profissões e categorias profissionais nelas previstas;
+
+b) Às relações de trabalho entre empregadores filiados nas associações de empregadores outorgantes que exerçam as actividades económicas abrangidas pelas convenções e trabalhadores ao seu serviço das referidas profissões e categorias profissionais não representados pelas associações sindicais subscritoras;
+
+c) A extensão prevista na alínea a) não se aplica às empresas filiadas nas associações de empregadores inscritas na UACS - União de Associações de Comércio e Serviços.
+
+2 - As retribuições previstas nas tabelas salariais inferiores à retribuição mínima mensal garantida para 2009 apenas são objecto de extensão em situações em que sejam superiores à retribuição mínima mensal garantida resultante da redução relacionada com o trabalhador, de acordo com o artigo 209.º da [Lei n.º 35/2004](https://diariodarepublica.pt/dr/detalhe/lei/35-2004-502399), de 29 de Julho.
+
+3 - A presente extensão não se aplica a empregadores não filiados nas associações de empregadores outorgantes desde que se verifique uma das seguintes condições:
+
+Sendo de comércio a retalho alimentar ou misto, disponham de uma área de venda contínua de comércio a retalho alimentar igual ou superior a 2000 m2;
+
+Sendo de comércio a retalho não alimentar, disponham de uma área de venda contínua igual ou superior a 4000 m2;
+
+Sendo de comércio a retalho alimentar ou misto, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada de comércio a retalho alimentar igual ou superior a 15 000 m2;
+
+Sendo de comércio a retalho não alimentar, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada igual ou superior a 25 000 m2.
+
+4 - Não são objecto de extensão as cláusulas contrárias a normas legais imperativas.
+
+###### Artigo 2.º
+
+1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+
+2 - As tabelas salariais e o subsídio de refeição produzem efeitos desde 1 de Janeiro de 2008.
+
+3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
+
+Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 16 de Fevereiro de 2009.

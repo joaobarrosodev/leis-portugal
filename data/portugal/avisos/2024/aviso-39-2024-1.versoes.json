@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:873009416:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2024-888343131",
+ "dre_path": "/dr/detalhe/aviso/39-2024-873009416",
+ "source_lastmod": "2024-09-20",
+ "versions": [
+  {
+   "date": "2024-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888396180"
+   ]
+  }
+ ],
+ "fragments": {
+  "888396180": {
+   "fragment_id": "888343132",
+   "type": 15,
+   "heading": "Diploma — Aviso n.º 39/2024/1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que, em 27 de junho de 2024, o Reino dos Países Baixos notificou o Governo da República Portuguesa, na qualidade de depositário, da sua denúncia, no que respeita à parte europeia dos Países Baixos, do Tratado da Carta da Energia, feito em Lisboa, a 17 de dezembro de 1994.\n\nNos termos do artigo 47.º, n.º 2, do Tratado da Carta da Energia, a denúncia do Tratado por uma Parte Contratante produz efeitos um ano a contar da data da receção da notificação pelo depositário.\n\nAssim, a denúncia do Tratado pelo Reino dos Países Baixos, no que respeita à parte europeia dos Países Baixos, produzirá efeitos a 28 de junho de 2025."
+  }
+ }
+}

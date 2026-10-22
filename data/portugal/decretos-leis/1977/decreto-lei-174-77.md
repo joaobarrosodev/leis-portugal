@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:251617:por
+title: Decreto-Lei n.º 174/77
+short_title: null
+summary: Define o regime escolar dos alunos portadores de deficiência física ou psíquica
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Investigação Científica
+proposing_entity: null
+official_number: 174/77
+official_date: null
+publication_date: '1977-05-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 101/1977, Série I de 1977-05-02
+  number: '101'
+  series: I
+  supplement: null
+  pages: 973 - 974
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/05/10100/09730974.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '251617'
+  dre_path: /dr/detalhe/decreto-lei/174-1977-251617
+  internal: pt:dre:251617:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1977-251617
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1977-251617
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-08-23T00:00:00Z'
+integrity:
+  source_sha256: 9fe65235892668bafc56c2508230cea094b3812bcf938bee4ad524eb5952b9f2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-174-251617.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:403296:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 174/77
+
+de 2 de Maio
+
+Considerando a necessidade de definir o regime escolar dos alunos portadores de deficiências quando integrados no sistema educativo público:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição da República, o seguinte:
+
+###### Artigo 1.º Os alunos portadores de deficiência física ou psíquica que frequentem os ensinos preparatório e secundário passam a estar sujeitos a regime especial no que respeita a matrículas, dispensa e tipo de frequência e avaliação de conhecimentos.
+
+###### Art. 2.º - 1. Poderão efectuar a sua matrícula, desde que se encontrem nas condições gerais definidas por lei, os candidatos que, sendo portadores de deficiência de ordem física ou psíquica devidamente comprovada, a qual directa ou indirectamente tenha provocado um atraso na sua escolaridade, se apresentem com idade superior à legal.
+
+2. O excesso de idade previsto no número anterior não poderá ultrapassar três anos.
+
+###### Art. 3.º - 1. Sempre que um aluno deficiente se inscreva, pela primeira vez, no ensino regular, o registo de matrícula deverá mencionar a deficiência que possui, devendo esta ser comprovada pela apresentação de parecer de um médico especialista.
+
+2. Em face da informação a que se refere o número anterior, o estabelecimento de ensino solicitará a intervenção de um serviço de apoio especializado do Ministério da Educação e Investigação Científica.
+
+3. Decorrido o período de acompanhamento e observação considerado necessário pelo serviço de apoio especializado, este elaborará um relatório circunstanciado que irá instruir o processo a apresentar ao serviço competente do MEIC, a fim de que o aluno deficiente possa usufruir das condições especiais de frequência, regime de disciplina, formas de avaliação e simplificação curricular.
+
+###### Art. 4.º - 1. Os alunos cuja deficiência implique incapacidade para executar, parcial ou totalmente, as tarefas de uma ou várias disciplinas poderão, em parte ou no todo, ser dispensados da frequência de uma ou várias disciplinas, por despacho do respectivo director-geral.
+
+2. Para efeitos de avaliação de conhecimentos, relativa aos alunos cuja situação seja a de dispensa do cumprimento de parte das rubricas de um programa ou programas, os professores tomarão em conta as possibilidades dos alunos deficientes e o processo evolutivo neles verificado.
+
+3. Não implica dispensa de provas de avaliação ou exame final a dispensa parcial da frequência prevista no n.º 1 deste artigo.
+
+###### Art. 5.º - 1. Sempre que a natureza ou características da deficiência não afectem o nível intelectual do aluno, mas impliquem grande fadiga, lentidão na realização de tarefas, dispersão de atenção ou outras consequências limitativas, poderão os alunos frequentar os cursos dos vários graus de ensino, em regime de disciplinas.
+
+2. As condições de frequência previstas no número anterior serão fixadas caso a caso por despacho ministerial sob parecer do estabelecimento de ensino que o aluno frequentar.
+
+###### Art. 6.º As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+
+Mário Soares - Mário Augusto Sottomayor Leal Cardia.
+
+**Promulgado em 20 de Abril de 1977.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

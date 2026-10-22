@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:183478835:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 1/2022/M
+short_title: null
+summary: Pelo cumprimento do convénio bilateral de segurança social assinado em 1989 entre Portugal e a Venezuela e publicado
+  pelo Decreto n.º 27/92, de 2 de junho
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 1/2022/M
+official_date: null
+publication_date: '2022-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 94/2022, Série I de 2022-05-16
+  number: '94'
+  series: I
+  supplement: null
+  pages: 12 - 14
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09400/0001200014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/1/2022/05/16/m/dre/pt/html
+  oj: null
+  dre: '183478835'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/1-2022-183478835
+  internal: pt:dre:183478835:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/1-2022-183478835
+  metadata_url: https://data.dre.pt/eli/resolalram/1/2022/05/16/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/1-2022-183478835
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-05-16T00:00:00Z'
+integrity:
+  source_sha256: b08f1b5daa2a5ffde869b23880e123f3a2c077118224d5187a5f76ab5699e2eb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2022/DRE-2022-1-183478835.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Venezuela
+- Convenção
+- Portugal
+- Pensão de Velhice
+- Recomendação
+- Segurança Social
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec/27/1992/06/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec/27/1992/06/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 1/2022/M
+
+Pelo cumprimento do convénio bilateral de segurança social assinado em 1989 entre Portugal e a Venezuela e publicado pelo [Decreto n.º 27/92](https://diariodarepublica.pt/dr/detalhe/decreto/27-1992-516771), de 2 de junho
+
+A Venezuela, país de progresso económico e social, onde havia oportunidades para todos, entre os anos 40 e 80, acolheu uma grande comunidade de emigrantes portugueses na sua maioria provinda da Madeira, que deram início a uma nova vida naquele país. Hoje, a Venezuela conta com mais de 500 mil portugueses que veem naquele país a sua segunda casa.
+
+As projeções do Instituto Nacional de Estatística da Venezuela para 2020 indicavam que existiam mais de 3 milhões de pessoas com mais de 60 anos no país, e estimava-se que este número viesse a aumentar em virtude da própria migração ocorrida nos últimos anos.
+
+Num estudo realizado em julho de 2021, apresentado pela Convite Asociación Civil na Venezuela, consta que apenas um em cada cinco pensionistas são elegíveis ou recebem pensões. Atualmente, a pensão na Venezuela equivale a 2 $ USD por mês.
+
+Em agosto deste ano, o custo da alimentação básica rondava a quantia de 1224 $ USD mensais, ocasionado pela hiperinflação, o que significa que as pensões cobrem apenas 1,14 % dos custos da alimentação básica.
+
+Os idosos venezuelanos ganham uma pensão insignificante que não satisfaz as necessidades básicas, deixando-os sem comida e sem medicação ou atendimento médico.
+
+Muitos dos pensionistas da Venezuela que residem no estrangeiro têm as suas contas bancárias bloqueadas e, há cerca de cinco anos, não recebem nenhum valor correspondente às suas pensões. Esta situação incomportável mantém-se até hoje, devido a uma decisão unilateral do Governo da República Bolivariana da Venezuela, que decidiu suspender os procedimentos, para que estes pensionistas não pudessem receber as suas pensões no país onde residem, violando assim a Constituição da República Bolivariana da Venezuela, os convénios bilaterais e multilaterais em matéria de segurança social e até a própria Declaração Universal dos Direitos Humanos.
+
+Tendo em conta outro estudo realizado pela Convite Asociación Civil, em parceria com a ONG Global HelpAge International, os idosos estão a ser esquecidos e negligenciados pelos responsáveis da atual crise política e humanitária na Venezuela.
+
+A Assembleia Legislativa da Região Autónoma da Madeira tem estado atenta e vê com preocupação a situação que estão a atravessar muitos portugueses, pensionistas, que regressaram a Portugal e à nossa Região, depois de terem trabalhado e descontado para a segurança social venezuelana durante mais de 40 anos e aos quais, desde 2015, foram retidas, pelo Estado Venezuelano, as suas prestações de velhice devidas e, infelizmente, não vimos nem o Governo da República nem o Governo Venezuelano encontrar soluções para resolver esta situação lamentável.
+
+É importante lembrar que, entre Portugal e a Venezuela, existe um convénio bilateral de segurança social publicado pelo [Decreto n.º 27/92](https://diariodarepublica.pt/dr/detalhe/decreto/27-1992-516771), de 2 de junho, através do qual Portugal e a Venezuela ficariam obrigados a assegurar aos trabalhadores de cada Estado a conservação dos direitos de segurança social ou de seguro social. Neste sentido, as prestações de segurança social deveriam ser pagas aos beneficiários, mesmo quando estes residissem no território português ou, inclusivamente, num país terceiro, não podendo estas prestações ser reduzidas, modificadas, suspensas e muito menos retidas.
+
+Refere o n.º 2 do artigo 3.º da referida Convenção que «as pessoas que tenham estado abrangidas pela legislação de segurança social, ou seguro social, de uma das Partes Contratantes e que transfiram a sua residência para o território da outra Parte poderão inscrever-se no seguro de regime facultativo deste país nas mesmas condições que os seus nacionais, para o que serão tomados em consideração, se necessário, os períodos de seguro cumpridos ao abrigo da legislação da primeira Parte» e que a aplicação e cumprimento da referida Convenção estará a cargo dos organismos de ligação e instituições das duas Partes que comunicarão diretamente entre si.
+
+Em Portugal, é competente o Departamento de Relações Internacionais e Convenções de Segurança Social, e na Venezuela o Instituto Venezolano de los Seguros Sociales.
+
+Ora, a própria Convenção estabelece, para o caso de divergências na interpretação e aplicação da referida Convenção, que as mesmas deverão ser resolvidas na medida do possível, pelas autoridades competentes de ambas as partes ou, caso subsistam, por via diplomática.
+
+Acontece que, até à data, nada disto foi concretizado. Nem a Venezuela cumpre o Convénio nem Portugal cumpre.
+
+Portugal, enquanto defensor da liberdade e da democracia, pretende salvaguardar o bom relacionamento com a Venezuela pelo bem dos seus cidadãos, e nada tem feito para resolver as diferenças entre as autoridades competentes relativamente a este convénio de segurança social, pela via diplomática, o que tem vindo a causar prejuízos irreparáveis a muitos pensionistas portugueses que regressaram ao país, mas deixaram na Venezuela o fruto de todo o seu trabalho.
+
+Ora, o acordo administrativo para efeitos da aplicação da Convenção sobre Segurança Social entre a República Portuguesa e a República da Venezuela, aprovado pelo [Decreto n.º 27/92](https://diariodarepublica.pt/dr/detalhe/decreto/27-1992-516771), de 2 de junho, refere no acordo administrativo para aplicação da convenção, no seu artigo 12.º, que: «As prestações serão pagas diretamente aos beneficiários pela instituição competente. Não obstante, poder-se-á acordar, se tal for julgado mais conveniente, que o pagamento das pensões de uma Parte seja efetuado através do organismo de ligação da Parte em que resida o beneficiário.»
+
+Acontece que muitos destes pensionistas estão a atravessar situações de extrema necessidade, enquanto as suas reformas estão retidas na Venezuela.
+
+Portugal, enquanto país subscritor deste acordo, tem a responsabilidade de instar ao cumprimento deste convénio e ainda de encontrar soluções justas, para que todos os portugueses e lusodescendentes que regressaram ao país recebam um valor equivalente à pensão de velhice, que é seu por direito.
+
+Estamos a falar de portugueses! E da mesma forma que os pensionistas portugueses merecem uma vida condigna, pensões justas e adequadas para que possam satisfazer as suas necessidades básicas, os que regressam também merecem! Não se admite que estes cidadãos cheguem à velhice e sejam esquecidos ou até mesmo postos de lado.
+
+Neste sentido, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomenda ao Governo da República o cumprimento do convénio bilateral de segurança social publicado pelo [Decreto n.º 27/92](https://diariodarepublica.pt/dr/detalhe/decreto/27-1992-516771), de 2 de junho, subscrito entre Portugal e a Venezuela, nomeadamente:
+
+1 - Que faça uso dos organismos de ligação entre Portugal e a Venezuela, por forma a encontrar alguma solução para esta controvérsia, através de negociações entre as autoridades venezuelanas, portuguesas e o Ministério dos Negócios Estrangeiros, por via diplomática, nos termos dos artigos 29.º e seguintes do convénio.
+
+2 - Que exija ao Governo da República Bolivariana da Venezuela o cumprimento do convénio bilateral, para que finalmente pague aos pensionistas de velhice a dívida acumulada desde 2015 e as pensões de velhice a que têm direito.
+
+3 - Que, no âmbito do convénio bilateral, inste o Governo da República Bolivariana da Venezuela a transferir as quantias correspondentes ao pagamento das pensões aos portugueses e venezuelanos que descontaram na Venezuela e que residem em Portugal.
+
+4 - Que sejam dispensados da legalização ou tradução, por intérpretes públicos, de todos os atos administrativos e documentos emitidos ou requeridos, por aplicação da Convenção.
+
+5 - Que nos termos do artigo 12.º do acordo administrativo para efeitos da aplicação da Convenção sobre Segurança Social entre a República Portuguesa e a República Bolivariana da Venezuela, o pagamento das pensões devidas pela Venezuela seja efetuado através do Departamento de Relações Internacionais e Convenções de Segurança Social de Portugal.
+
+6 - Que o Governo da República cumpra com o compromisso assumido com estes pensionistas de velhice do Seguro Social da Venezuela em setembro de 2018, mediante o pagamento de uma pensão de velhice de caráter excecional, que lhes assegure os mínimos de subsistência enquanto não for possível o recebimento das pensões da responsabilidade da Venezuela, em Portugal.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de abril de 2022.
+
+**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**

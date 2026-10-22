@@ -1,0 +1,1265 @@
+---
+schema_version: '1.0'
+id: pt:dre:538465:por
+title: Decreto-Lei n.º 165/2006
+short_title: null
+summary: Estabelece o regime jurídico do ensino português no estrangeiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 165/2006
+official_date: null
+publication_date: '2006-08-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 155/2006, Série I de 2006-08-11
+  number: '155'
+  series: I
+  supplement: null
+  pages: 5796 - 5804
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15500/57965804.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-01-01'
+version_history:
+  file: decreto-lei-165-2006.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-10-31'
+    amending: pt:dre:191541:por
+    amending_title: Decreto-Lei n.º 234/2012
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º-A
+    - Altera Artigo 19.º-D
+    - Altera Artigo 19.º-E
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 35.º
+  - date: '2016-10-26'
+    amending: pt:dre:75603289:por
+    amending_title: Decreto-Lei n.º 65-A/2016
+    changes:
+    - Adita Artigo 36.º-B
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 15.º
+    - Altera Artigo 19.º-D
+    - Altera Artigo 20.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 42.º
+  - date: '2019-07-04'
+    amending: pt:dre:122869973:por
+    amending_title: Decreto-Lei n.º 88/2019
+    changes:
+    - Altera Artigo 22.º
+  - date: '2025-01-01'
+    amending: pt:dre:901667918:por
+    amending_title: Lei n.º 45-A/2024
+    changes:
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/165/2006/p/cons/20241231/pt/html
+  oj: null
+  dre: '538465'
+  dre_path: /dr/detalhe/decreto-lei/165-2006-538465
+  internal: pt:dre:538465:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2006-538465
+  metadata_url: https://data.dre.pt/eli/dec-lei/165/2006/p/cons/20241231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34529175
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34529175
+  retrieved_at: '2026-10-22T11:49:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7899c0acd6166d37311c375df230dae630ae4f3d60351d17ee0bc8e6deec1c6b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:49:40Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-165-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embaixada
+- Consulado
+- Coordenador
+- Definição de Competências
+- Ensino Português no Estrangeiro
+- Pessoal Docente
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:479646:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646
+  date: '2009-07-28'
+- type: amended_by
+  target: pt:dre:191541:por
+  label: Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 16.º; Altera Artigo 18.º-A;
+    Altera Artigo 19.º-D; Altera Artigo 19.º-E; Altera Artigo 20.º; Altera Artigo 23.º; Altera Artigo 25.º; Altera Artigo
+    28.º; Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541
+  date: '2012-10-30'
+- type: amended_by
+  target: pt:dre:75603289:por
+  label: Adita Artigo 36.º-B; Altera Artigo 5.º; Altera Artigo 9.º; Altera Artigo 15.º; Altera Artigo 19.º-D; Altera Artigo
+    20.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo
+    32.º; Altera Artigo 42.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289
+  date: '2016-10-25'
+- type: amended_by
+  target: pt:dre:122869973:por
+  label: Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2019-122869973
+  date: '2019-07-03'
+- type: amended_by
+  target: pt:dre:901667918:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918
+  date: '2024-12-31'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/105/
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/105/
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/13/1998/01/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/13/1998/01/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/176/2002/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/176/2002/07/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/30/1999/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/30/1999/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/41/1996/05/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/41/1996/05/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/4-a/1998/04/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/4-a/1998/04/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+article_structure:
+  article_count: 60
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:49:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 165/2006
+
+Decreto-Lei n.º 165/2006
+
+de 11 de Agosto
+
+Assegurar o ensino e a valorização permanente da língua portuguesa, defender o seu uso e fomentar a sua difusão internacional constituem tarefas fundamentais do Estado, tal como se encontram definidas na Constituição. Por força das disposições constitucionais, o Estado está ainda incumbido da defesa e promoção da cultura portuguesa no estrangeiro e de facultar aos filhos dos portugueses residentes no estrangeiro o acesso a essa cultura, bem como ao ensino da língua materna.
+
+No desenvolvimento destes preceitos, a Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro, alterada pela Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto) consagrou o ensino português no estrangeiro como modalidade especial de educação escolar, atribuindo ao Estado a responsabilidade de impulsionar a divulgação e o estudo da língua e da cultura portuguesas no estrangeiro mediante acções e meios diversificados que visem, nomeadamente, a sua inclusão nos planos curriculares de outros países. Determinou ainda que o ensino da língua e da cultura portuguesas deve ser assegurado aos portugueses residentes no estrangeiro e aos seus filhos por meio de cursos e actividades desenvolvidos em regime de integração ou de complementaridade relativamente aos sistemas educativos dos países de acolhimento. Nos termos da lei, as iniciativas de associações de portugueses e as de entidades estrangeiras, públicas e privadas, desde que contribuam para esse fim, devem também ser objecto de incentivo e apoio público.
+
+No cumprimento destas incumbências que a lei lhe atribui, o Estado tem promovido e apoiado cursos e actividades que proporcionam às comunidades portuguesas o acesso ao ensino da língua e da cultura portuguesas e, para esse efeito, tem recrutado e colocado no estrangeiro pessoal docente, vinculado aos quadros do Ministério da Educação ou especialmente contratado. As regras desse recrutamento e as condições do exercício da sua actividade deram corpo a um regime jurídico específico, concretizado através do Decreto-Lei n.º 13/98, de 24 de Janeiro, e desenvolvido por instrumentos legislativos complementares, designadamente o Decreto Regulamentar n.º 4-A/98, de 6 de Abril, e o Decreto-Lei n.º 176/2002, de 31 de Julho. No sentido de organizar e acompanhar localmente as actividades do ensino português no estrangeiro, foi criado pelo Decreto-Lei n.º 264/77, de 1 de Julho, um serviço de coordenação junto de algumas missões diplomáticas ou postos consulares. As normas de funcionamento desse serviço foram entretanto objecto de uma profunda revisão, consubstanciada no Decreto-Lei n.º 30/99, de 29 de Janeiro, no quadro da sistematização legislativa a que então se procedeu.
+
+Através destas sucessivas adaptações do quadro legal, o Estado tem procurado dotar-se dos meios institucionais que lhe permitam dar cumprimento aos objectivos e compromissos assumidos na Constituição. Embora seja de reconhecer o esforço desenvolvido pelo Estado e pelos seus agentes - técnicos, diplomáticos e educativos -, que tem proporcionado aos portugueses residentes no estrangeiro e aos seus descendentes o acesso efectivo ao ensino da língua materna e a renovação dos vínculos culturais com Portugal, forçoso será admitir que, por diversas ordens de razões, nem sempre tem sido possível corresponder, em condições de equidade e qualidade, às expectativas geradas.
+
+A diversidade de contextos e de experiências do ensino português no estrangeiro reproduz-se numa pluralidade de práticas e de objectivos pedagógicos e culturais, que gerou uma ampla disparidade da qualidade das aprendizagens. Apesar do esforço de acompanhamento e do investimento realizado, estas aprendizagens não são certificadas e são mesmo, em alguns casos, inconsistentes e até insusceptíveis de certificação, o que pode pôr em causa a sua própria relevância.
+
+Por outro lado, a própria situação das comunidades portuguesas, às quais o ensino português no estrangeiro fundamentalmente se dirigia no momento da sua instituição, veio a sofrer mudanças significativas, desde logo, na vertente institucional, mormente as que procederam da plena integração de Portugal na União Europeia. Seja pelo regresso de alguns dos seus membros e pela interrupção ou alteração dos fluxos migratórios, seja pela longa permanência nos países de acolhimento, seja ainda pela aquisição de novos direitos, as comunidades portugueses encontram-se em circunstâncias bem diferentes daquelas que inicialmente suscitaram a organização do ensino português no estrangeiro. O crescimento no seio das comunidades do número de jovens para quem o português não é já verdadeiramente a língua materna e, simetricamente, a constituição de comunidades mais instáveis e a conservação de fluxos de migração sazonal colocam novos desafios que é necessário assumir.
+
+Do mesmo modo, existe hoje a percepção generalizada de que é necessário desenvolver uma política mais ambiciosa para a língua portuguesa, baseada num esforço persistente de promoção do seu ensino e do seu estudo à escala mundial. Reconhece-se que a língua portuguesa, como grande língua de comunicação internacional, falada por mais de 200 milhões de pessoas, constitui um património de valor inestimável, que deve ser mobilizado para a afirmação de Portugal no mundo. Para tanto, será indispensável adoptar uma estratégia, tanto quanto possível partilhada com os outros Estados membros da Comunidade de Países de Língua Portuguesa, para fomentar e difundir a aprendizagem do português em todo o mundo, de modo não só a satisfazer as obrigações para com as comunidades portuguesas, mas também a proporcionar o seu estudo aos que, independentemente da sua nacionalidade ou língua materna, manifestem interesse em prossegui-lo.
+
+Assim, no reconhecimento destes princípios e orientações, o XVII Governo Constitucional inscreveu no seu Programa o propósito de valorizar a cultura e a língua portuguesas e de reforçar a utilização do português como língua de comunicação internacional, ampliando a sua projecção à escala mundial. Para esse efeito, assumiu a necessidade de encetar negociações, baseadas no princípio da reciprocidade, com os países de acolhimento das comunidades portuguesas, destinadas a garantir o ensino do português aos lusodescendentes e a favorecer a integração da língua portuguesa em currículos estrangeiros e apontou para a utilização intensiva dos meios áudio-visuais e das tecnologias de informação e comunicação como instrumento de divulgação do português como língua não materna.
+
+Na sua acção o Governo adoptou ainda como objectivo a valorização e qualificação do ensino e da aprendizagem da língua portuguesa no estrangeiro. A sua integração em currículos de países estrangeiros muito contribuirá para a sua dignificação. Contudo, será necessário também proceder à consolidação e certificação das aprendizagens. Nesse sentido, o Governo aprovou já, para funcionar a título experimental durante o corrente ano lectivo, um quadro de referência para a elaboração e avaliação de programas, linhas de orientação curricular e escolha de materiais pedagógicos e didácticos, visando o pleno reconhecimento, acreditação e certificação dos cursos do ensino português no estrangeiro. Tal quadro segue as melhores práticas internacionais do ensino das línguas, designadamente as que seguem o Quadro Europeu Comum de Referência para as Línguas, aprovado pelo Conselho da Europa.
+
+Assim, atendendo às mudanças ocorridas na situação das comunidades portuguesas e à necessidade de dotar o Estado dos instrumentos que lhe permitam desenvolver uma política mais ambiciosa de promoção, qualificação e certificação do ensino e da aprendizagem da língua portuguesa à escala internacional, afigura-se indispensável proceder à aprovação de um novo regime jurídico do ensino português no estrangeiro. O presente decreto-lei vem unificar legislação que se encontrava dispersa, definindo a missão, os princípios e as formas de organização dessa modalidade especial de educação escolar, estabelecendo as regras de recrutamento do pessoal docente, bem como as condições de exercício da sua actividade, e determinando as competências e o âmbito de intervenção das estruturas de coordenação encarregadas do acompanhamento e organização do ensino português no estrangeiro a nível local.
+
+Além disso, em coerência com os objectivos políticos que o Governo estabeleceu para toda a Administração Pública, o novo regime permitirá também tornar o seu funcionamento mais eficiente do ponto de vista da utilização dos recursos públicos, suprimindo privilégios injustificáveis e corrigindo desperdícios e situações de manifesta iniquidade.
+
+O presente regime jurídico constitui um importante instrumento para a renovação, autonomização e requalificação deste sector da actividade educativa. Contudo, a transferência das atribuições em matéria de organização do ensino português no estrangeiro para o Ministério dos Negócios Estrangeiros - em conformidade com o Programa de Reestruturação da Administração Central do Estado, aprovado pela Resolução do Conselho de Ministros n.º 39/2006, de 21 de Abril - constituirá um momento oportuno para proceder à sua reapreciação e eventual revisão.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido no artigo 25.º e nas alíneas c) e j) do n.º 1 do artigo 62.º da Lei n.º 46/86, de 14 de Outubro, na redacção que lhe foi dada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+#### Secção I — Objecto e âmbito
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente decreto-lei estabelece o regime jurídico do ensino português no estrangeiro, enquanto modalidade especial de educação escolar, conforme previsto na alínea e) do n.º 1 do artigo 19.º da Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de Outubro, com as alterações introduzidas pelas Leis n.os 115/97, de 17 de Setembro, e 49/2005, de 30 de Agosto.
+
+2 - Para efeitos do disposto no presente decreto-lei, entende-se por ensino português no estrangeiro a divulgação e o estudo da língua e da cultura portuguesas nos termos do artigo 25.º da Lei de Bases do Sistema Educativo.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 2.º — Objectivos
+
+1 - O ensino português no estrangeiro destina-se a afirmar e difundir a língua portuguesa no mundo como grande língua de comunicação internacional e a divulgar a cultura portuguesa.
+
+2 - O ensino português no estrangeiro destina-se também a proporcionar a aprendizagem da língua, da história, da geografia e da cultura nacionais, em particular às comunidades portuguesas.
+
+###### Artigo 3.º — Princípios
+
+1 - O ensino português no estrangeiro assenta nos princípios da promoção do ensino da língua portuguesa e em língua portuguesa e da relevância, qualidade e reconhecimento das aprendizagens.
+
+2 - Na organização do ensino português no estrangeiro, prevalece o princípio da sua integração nas actividades reconhecidas dos sistemas de ensino dos países estrangeiros.
+
+###### Artigo 4.º — Responsabilidade do Estado
+
+1 - Cabe ao Estado, no cumprimento dos princípios referidos no artigo anterior:
+
+a) A promoção e divulgação do ensino e da aprendizagem da língua portuguesa como língua materna e não materna, como língua segunda e como língua estrangeira;
+
+b) A promoção e divulgação do estudo da história, da geografia e da cultura portuguesas;
+
+c) A qualificação e dignificação do ensino e da aprendizagem da língua e da cultura portuguesas no mundo.
+
+2 - Para o cabal cumprimento desta responsabilidade, deve o Estado estabelecer e desenvolver a colaboração com as organizações da sociedade civil, designadamente com instituições ou associações com vocação cultural e educativa, bem como parcerias com instituições de ensino estrangeiras e organizações internacionais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 5.º — Formas de intervenção do Estado
+
+1 - A intervenção do Estado concretiza-se nas seguintes linhas de actuação:
+
+a) Desenvolvimento de iniciativas diplomáticas especialmente dirigidas a obter a plena integração do ensino da língua portuguesa e em língua portuguesa nos sistemas educativos dos países estrangeiros, em particular, onde se encontrem estabelecidas comunidades portuguesas, bem como a inclusão de exames de língua portuguesa no acesso ao ensino superior nesses sistemas;
+
+b) Promoção de cursos e atividades em regime de complementaridade relativamente aos sistemas educativos dos países onde se encontrem estabelecidas comunidades portuguesas significativas ou apoio às iniciativas de associações portuguesas e de entidades estrangeiras, públicas e privadas, que prossigam o mesmo fim;
+
+c) Promoção e divulgação do ensino da língua, da história, da geografia e da cultura portuguesas no estrangeiro, por meio de estabelecimentos de ensino ou de iniciativas próprias, e da colaboração, participação ou patrocínio de estabelecimentos de ensino ou de iniciativas de associações e outras entidades nacionais ou estrangeiras, públicas e privadas;
+
+d) Definição e aprovação de um quadro de referências que permita a elaboração e avaliação de programas, linhas de orientação curricular e escolha de materiais pedagógicos e didácticos e estabeleça as bases de certificação das aprendizagens;
+
+e) Recrutamento, colocação, contratação ou provimento em comissão de serviço do pessoal docente para os cargos de professor e de leitor;
+
+f) Apoio ao recrutamento e seleção do pessoal docente quando este seja contratado por outras entidades ao abrigo de protocolos de cooperação;
+
+g) Formação e apoio à formação do pessoal docente;
+
+h) Produção de recursos didáctico-pedagógicos especialmente dirigidos ao ensino da língua, da história, da geografia e da cultura portuguesas no estrangeiro, designadamente de sistemas de ensino à distância;
+
+i) Apoio à produção, aquisição e utilização dos recursos referidos na alínea anterior.
+
+2 - (Revogado.)
+
+3 - O Quadro de Referência para o Ensino Português no Estrangeiro (QuaREPE) para a certificação das respetivas aprendizagens, previsto na alínea d) do n.º 1, segue as orientações do Quadro Europeu Comum de Referência para as Línguas, do Conselho da Europa, sendo aprovado por portaria do membro do Governo responsável pela área da educação.
+
+4 - As competências institucionais, assim como as regras e procedimentos da certificação das aprendizagens, são definidas por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, educação e ensino superior.
+
+5 - (Revogado.)
+
+6 - Os alunos que frequentam os cursos tutelados pelo Camões - Instituto da Cooperação e da Língua, I. P. (Camões, I. P.), que pretendam obter um diploma que certifique os níveis de proficiência alcançados, ficam sujeitos ao pagamento de um valor a definir por portaria.
+
+7 - As verbas referidas nos números anteriores são geridas pelo Camões, I. P., e podem constituir-se como receita.
+
+8 - Sempre que possível o Estado desenvolve as acções e actividades referidas no n.º 1 em cooperação com os restantes Estados membros da Comunidade dos Países de Língua Portuguesa.
+
+> Alterado pelo/a Artigo 322.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 6.º — Modalidades de organização
+
+1 - Constituem modalidades de organização do ensino português no estrangeiro o ensino da língua portuguesa ou em língua portuguesa em qualquer das formas referidas na alínea a) do n.º 1 do artigo 4.º, desenvolvido nos seguintes termos:
+
+a) Em institutos ou centros culturais portugueses ou de língua portuguesa, junto dos centros culturais de países terceiros ou ainda de outros institutos ou centros de ensino de línguas;
+
+b) No quadro dos planos curriculares e actividades regulares dos sistemas educativos de países estrangeiros, quando apoiado pelo Estado Português;
+
+c) Junto das instituições universitárias estrangeiras e organismos internacionais através dos leitorados de português;
+
+d) Junto das embaixadas e dos consulados portugueses;
+
+e) Como actividade de enriquecimento curricular integrada nas actividades dos estabelecimentos de ensino de países estrangeiros, quando apoiado ou organizado pelo Estado Português;
+
+f) Como actividade complementar das actividades curriculares ou extracurriculares dos sistemas educativos e dos estabelecimentos de ensino de países estrangeiros, quando organizado pelo Estado Português;
+
+g) Como actividade complementar por iniciativa de associações de portugueses e de entidades estrangeiras, públicas e privadas, desde que apoiadas pelo Estado Português;
+
+h) A distância ou por meio da utilização de suportes electrónicos e multimedia.
+
+2 - Constitui, ainda, modalidade de organização do ensino português no estrangeiro a criação de escolas portuguesas nos países de língua oficial portuguesa, as quais se regem pelos próprios estatutos, sob tutela do Ministério da Educação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 7.º — Definição da rede
+
+A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do artigo 5.º é aprovada por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, publicado no Diário da República, mediante proposta do Camões, I. P., ouvidas as estruturas de coordenação referidas no capítulo ii.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+### Capítulo II — Coordenações do ensino português no estrangeiro
+
+#### Secção I — Estruturas de coordenação
+
+###### Artigo 8.º — Coordenadores
+
+1 - As estruturas de coordenação do ensino português no estrangeiro são unidades de supervisão, planificação e organização da rede de ensino de um país ou de um agrupamento geopolítico de países criadas, sempre que a dimensão e complexidade dessa rede o justifique, junto da respectiva missão diplomática ou consular.
+
+2 - As estruturas de coordenação são dirigidas por um coordenador.
+
+3 - Os coordenadores atuam no desenvolvimento da atividade pedagógica sob a direção do presidente do Camões, I. P., de acordo com as orientações emanadas do Ministério da Educação e da Ciência, sem prejuízo do estabelecido no n.º 2 do artigo 13.º da Lei Orgânica do Ministério dos Negócios Estrangeiros, aprovada pelo Decreto-Lei n.º 121/2011, de 29 de dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 9.º — Competências dos coordenadores
+
+1 - Aos coordenadores do ensino português cabe promover e coordenar, nos respectivos países, o ensino português a nível da educação pré-escolar e dos ensinos básico, secundário e superior e da educação ao longo da vida, e em especial:
+
+a) Na integração, acompanhamento e avaliação do ensino português nos planos curriculares dos respetivos países;
+
+b) Participar na planificação anual da respectiva rede de ensino e apresentar propostas de eventual redimensionamento;
+
+c) Na definição dos recursos tecnológicos, eletrónicos e multimédia mais adequados em função da área geográfica de coordenação;
+
+d) Apresentar relatórios ao Camões, I. P., com a periodicidade que for estipulada;
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) Na avaliação dos resultados dos protocolos de cooperação;
+
+i) Na implementação da certificação dos conhecimentos adquiridos na rede do ensino português no estrangeiro.
+
+2 - Cabe ainda aos coordenadores do ensino português no estrangeiro participar e colaborar:
+
+a) Na integração do ensino do Português nos planos curriculares dos respectivos países;
+
+b) No apoio a alunos que estudam português na modalidade de ensino à distância ou para se submeterem a exame da disciplina no sistema de ensino do respectivo país;
+
+c) No apoio à integração de alunos recém-chegados de Portugal;
+
+d) Em actividades de ligação com o meio sócio-cultural das escolas, designadamente com os pais e encarregados de educação e respectivas associações;
+
+e) Participar na planificação anual da respectiva rede de ensino e apresentar propostas de eventual redimensionamento;
+
+f) Na coordenação das acções de divulgação da língua e culturas portuguesas promovidas pela rede de ensino, em articulação com o conselheiro cultural.
+
+3 - Em matéria de gestão orçamental e financeira, o coordenador exerce as competências previstas na lei para os directores-gerais, nos termos previstos no regime jurídico e financeiro dos serviços externos do Ministério dos Negócios Estrangeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 10.º — Adjuntos de coordenação
+
+1 - Em situações devidamente fundamentadas, designadamente em casos de grande dimensão da área geográfica abrangida e de elevado número de cursos ou alunos, podem ser designados adjuntos da coordenação do ensino português no estrangeiro.
+
+2 - O adjunto exerce as competências que lhe forem delegadas pelo respetivo coordenador ou pelo presidente do Camões, I. P.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 11.º — Docentes de apoio pedagógico
+
+1 - As estruturas de coordenação do ensino português no estrangeiro podem, em circunstâncias devidamente fundamentadas, integrar docentes com funções de apoio pedagógico a professores e a alunos dos cursos de língua portuguesa em funcionamento.
+
+2 - Os docentes de apoio pedagógico actuam sob a direcção do coordenador ou do adjunto de coordenação.
+
+3 - O exercício efectivo das funções de apoio pedagógico dá lugar à redução da componente lectiva do horário de trabalho nos termos definidos no despacho previsto no artigo 7.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 12.º — Constituição das estruturas de coordenação
+
+As estruturas de coordenação do ensino português no estrangeiro são constituídas por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da educação, mediante proposta do presidente do Camões, I. P.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 13.º — Apoio logístico e administrativo
+
+O chefe da missão diplomática ou posto consular disponibiliza apoio logístico e administrativo para o desempenho das funções dos responsáveis pela coordenação do ensino português no estrangeiro.
+
+#### Secção II — Funcionamento
+
+###### Artigo 14.º — Coordenadores
+
+1 - Os coordenadores do ensino português no estrangeiro gozam dos direitos e estão sujeitos aos deveres dos secretários de embaixada da carreira diplomática, com as especificidades constantes do presente decreto-lei.
+
+2 - Os coordenadores e os adjuntos de coordenação do ensino português no estrangeiro têm direito ao uso de passaporte especial, nos termos previstos na respectiva lei reguladora, sendo os custos correspondentes suportados pelo Camões, I. P.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 15.º — Regime de exercício de funções
+
+1 - As funções de coordenador e de adjunto de coordenação são exercidas em comissão de serviço, pelo período de três anos, renovável por iguais períodos.
+
+2 - [Revogado].
+
+3 - A renovação da comissão de serviço depende da análise circunstanciada do desempenho do titular do cargo, devendo para o efeito ser por este apresentado relatório detalhado com as actividades realizadas e os resultados obtidos, até 90 dias antes do termo da comissão de serviço.
+
+4 - A decisão de renovação da comissão de serviço é comunicada aos interessados até 60 dias antes do seu termo.
+
+5 - A comissão de serviço pode ser dada por finda a todo o tempo, mediante despacho fundamentado da entidade ou órgão competente pela designação, com aviso prévio de 60 dias.
+
+6 - Aos coordenadores e adjuntos de coordenação aplica-se, relativamente ao exercício do poder disciplinar, o disposto no capítulo vii da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 16.º — Recrutamento
+
+1 - Os coordenadores são designados por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação.
+
+2 - Os coordenadores são recrutados por escolha de entre indivíduos licenciados, vinculados ou não à administração pública portuguesa, que possuam competência técnica na área da educação, aptidão, experiência profissional e formação adequada ao exercício das funções.
+
+3 - Os adjuntos de coordenação são recrutados por escolha e designados por despacho do presidente do Camões, I. P., ouvido o respectivo coordenador, de entre elementos do pessoal docente do ensino português no estrangeiro ou outro de reconhecida competência no domínio da educação.
+
+4 - As funções de adjunto de coordenação podem ser exercidas por docentes do ensino português no estrangeiro em regime de acumulação.
+
+5 - Os docentes de apoio pedagógico são recrutados por escolha e designados por despacho do presidente do Camões, I. P., com base na proposta do respectivo coordenador, devendo o recrutamento ser feito de entre os docentes do ensino português no estrangeiro em exercício de funções no respectivo país.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 17.º — Contagem de tempo de serviço
+
+1 - O tempo de serviço prestado no exercício das funções de coordenador, adjunto de coordenação e docente de apoio pedagógico releva para todos os efeitos legais como prestado na relação jurídica de emprego público de origem.
+
+2 - Nos casos em que o docente de apoio pedagógico não seja titular de uma relação jurídica de emprego público por tempo indeterminado previamente estabelecida e venha a integrar a carreira docente do ensino não superior, o tempo de serviço prestado nessas funções é contado como tempo de serviço efectivo prestado em funções docentes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 18.º — Remuneração e outras atribuições patrimoniais
+
+1 - Os níveis remuneratórios da tabela única correspondentes à remuneração base dos coordenadores e dos adjuntos de coordenação são fixados por decreto regulamentar.
+
+2 - A remuneração base dos adjuntos de coordenação é fixada tendo em consideração o exercício de funções em exclusividade ou em acumulação com funções docentes.
+
+3 - Os coordenadores e os adjuntos de coordenação têm direito aos seguintes suplementos remuneratórios:
+
+a) Subsídio de instalação, abonado uma única vez, sempre que não dispuserem de residência no país ou área consular onde exercerem funções;
+
+b) Subsídio de viagem correspondente ao reembolso das despesas efectuadas com as suas viagens no início e no fim da comissão de serviço, bem como das despesas de transporte de bagagem, nos termos e condições fixados no decreto regulamentar previsto no n.º 1.
+
+4 - Os suplementos remuneratórios referidos no número anterior apenas são devidos quando exerçam funções em regime de exclusividade.
+
+5 - O montante pecuniário do subsídio de instalação é fixado no decreto regulamentar a que se refere o n.º 1, tendo por referência o abono mensal de habitação de secretário de embaixada da carreira diplomática e o índice de custo de vida fixado pela Organização para a Cooperação e Desenvolvimento Económico do país de acolhimento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 18.º-A — Deveres de apresentação e informação
+
+1 - No prazo de 15 dias a contar da data de entrada no país de acolhimento, o coordenador e o adjunto de coordenação devem efectuar a sua apresentação e promover a sua inscrição na missão diplomática portuguesa da área.
+
+2 - A ausência do coordenador da área consular onde exerce funções por período superior a três dias é sujeita a autorização do presidente do Camões, I. P., e comunicada com a devida antecedência, salvo caso de força maior, ao chefe da missão diplomática ou a ele equiparado.
+
+3 - A ausência do adjunto de coordenação da área consular onde exerce funções por período superior a três dias é sujeita a autorização do coordenador da respetiva área ou do presidente do Camões, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 18.º-B — Avaliação de desempenho
+
+1 - A avaliação de desempenho dos coordenadores e dos adjuntos de coordenação é realizada em cada ano civil, de acordo com o disposto na Lei n.º 66-B/2007, de 28 de Dezembro, no que se refere à avaliação de desempenho dos dirigentes intermédios da Administração Pública (SIADAP 2), com as adaptações constantes do presente decreto-lei.
+
+2 - São avaliadores:
+
+a) Do coordenador, o presidente do Camões, I. P., colhido o parecer do chefe da missão diplomática ou consular;
+
+b) Do adjunto de coordenação, o coordenador.
+
+3 - Para efeitos do disposto no n.º 1, os avaliados apresentam obrigatoriamente aos avaliadores, no prazo máximo de 45 dias, contados da data do início da comissão de serviço, um documento do qual constam os objectivos e as metas fixadas para a estrutura de coordenação que dirigem, formulados tendo por referência as competências constantes respectivamente dos artigos 9.º e 10.º
+
+4 - A adaptação das regras do processo de avaliação à organização do serviço e necessidades de gestão é aprovada em regulamento interno do Camões, I. P., nos termos do n.º 4 do artigo 3.º da Lei n.º 66-B/2007, de 28 de Dezembro.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+### Capítulo III — Pessoal docente
+
+###### Artigo 19.º — Âmbito de aplicação
+
+1 - As disposições do presente decreto-lei relativas ao pessoal docente aplicam-se ao pessoal recrutado para o desempenho de funções de ensino português no estrangeiro, definido nos termos dos números seguintes.
+
+2 - O pessoal docente do ensino português no estrangeiro compreende os cargos de:
+
+a) Professor, ao nível da educação pré-escolar e dos ensinos básico e secundário;
+
+b) Leitor, ao nível do ensino superior.
+
+3 - O pessoal docente do ensino português no estrangeiro contribui para a concretização dos objectivos da política cultural externa portuguesa, através da promoção, divulgação e docência da língua e cultura portuguesas, da história e da geografia, e do apoio e participação activa nas iniciativas de índole cultural dos serviços de representação externa do Estado, exercendo as suas funções com responsabilidade profissional e autonomia técnica e científica, no respeito pelas orientações que lhe sejam dadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+#### Secção I — Direitos e deveres
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 19.º-A — Regras gerais
+
+1 - O pessoal docente goza dos direitos e está sujeito aos deveres gerais estabelecidos na lei para o exercício de funções públicas, sem prejuízo do disposto no presente decreto-lei.
+
+2 - Os docentes vinculados ao Ministério da Educação ou a outros departamentos da Administração Pública conservam os direitos e estão sujeitos aos deveres especiais previstos nos respectivos estatutos.
+
+3 - Como agente da política cultural externa o docente desenvolve a sua actividade em articulação com o titular da missão diplomática ou consular, através da respectiva estrutura de coordenação.
+
+4 - Sem prejuízo da subordinação hierárquica ao presidente do Camões, I. P, e ao respectivo coordenador, compete ao docente actuar no quadro e em obediência aos regulamentos e demais regras de funcionamento das instituições onde exerce funções.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 19.º-B — Formação
+
+1 - O pessoal docente tem o direito e o dever de frequentar cursos de formação contínua com vista à actualização de conhecimentos e ao aperfeiçoamento dos métodos e técnicas de ensino, designadamente as acções que forem promovidas pelo Camões, I. P.
+
+2 - As acções de formação referidas no número anterior, no caso dos professores, têm como referência as orientações pedagógicas emitidas pelo Ministério da Educação.
+
+3 - Sem prejuízo do disposto no número anterior, ao pessoal docente podem ser concedidas dispensas de serviço para participação em actividades de formação destinadas à respectiva actualização, nas condições a definir por despacho do presidente do Camões, I. P., tendo presente as regras e os princípios que regem a formação profissional na Administração Pública.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 19.º-C — Passaporte especial
+
+O pessoal docente tem direito ao uso de passaporte especial, nos termos previstos na respectiva lei reguladora, sendo os respectivos custos suportados pelo Camões, I. P.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 19.º-D — Dever de apresentação e informação
+
+1 - [Revogado].
+
+2 - No prazo de cinco dias úteis a contar da data de entrada no país de acolhimento para o início do exercício de funções, o pessoal docente deve apresentar-se na Coordenação de Ensino ou no Departamento de Apoio Pedagógico, sitos no posto consular da sua área, e promover a sua inscrição no mesmo posto consular.
+
+3 - A ausência do docente da área consular onde exerce funções por período superior a três dias úteis é obrigatoriamente comunicada, com a devida antecedência, e salvo caso de força maior:
+
+a) Ao coordenador ou, na sua falta, ao presidente do Camões, I. P.; e
+
+b) À embaixada ou consulado da respetiva área.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 19.º-E — Relatórios de actividade
+
+1 - Constitui dever especial do pessoal docente enviar ao respectivo coordenador, com a periodicidade que lhe for fixada, relatórios das actividades desenvolvidas.
+
+2 - Na ausência de coordenador, o relatório previsto no número anterior é remetido ao Camões, I. P.
+
+3 - O primeiro relatório é enviado no prazo de 30 dias contados da data do início da comissão de serviço, sem prejuízo de eventual aditamento, dele devendo constar os seguintes elementos:
+
+a) Informação sobre cada curso que lhe seja atribuído e o número de alunos inscritos no início do ano escolar;
+
+b) Programas de ensino-aprendizagem;
+
+c) Plano de trabalho escolar e de formação pessoal.
+
+4 - Os elementos a que se refere a alínea b) do número anterior, bem como o plano de trabalho escolar referido na alínea c) do número anterior, devem ser facultados aos pais e encarregados de educação dos alunos do ensino não superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+#### Secção II — Modalidade de vinculação e prestação de trabalho
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 20.º — Comissão de serviço
+
+1 - Os docentes do ensino português no estrangeiro exercem o cargo de professor ou de leitor em regime de comissão de serviço, nos termos definidos no presente decreto-lei.
+
+2 - A comissão de serviço tem a duração de dois anos, renovável por iguais períodos, quando o resultado da avaliação global de desempenho for igual ou superior a Bom.
+
+3 - (Revogado).
+
+4 - A decisão sobre a renovação da comissão de serviço deve ser comunicada aos interessados até 45 dias antes do seu termo.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 21.º — Contrato
+
+1 - A prestação de serviço docente no estrangeiro efectuada em regime de contrato deve observar os requisitos previstos no artigo 22.º do Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, alterado pelos Decretos-Leis n.os 41/96, de 7 de Maio, 105/97, de 29 de Abril, 1/98, de 2 de Janeiro, 35/2003, de 27 de Fevereiro, 121/2005, de 26 de Julho, e 229/2005, de 29 de Dezembro, adiante designado por Estatuto da Carreira Docente.
+
+2 - Aos contratos previstos no número anterior aplica-se, com as devidas adaptações, o disposto no artigo 33.º do Estatuto da Carreira Docente.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 22.º — Contagem de tempo de serviço
+
+1 - O tempo de serviço prestado como docente do ensino português no estrangeiro é integralmente contado para efeitos de ordenação na 2.ª prioridade, nos termos da alínea b) do n.º 3 do artigo 10.º do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual.
+
+2 - Sem prejuízo do número anterior, o serviço prestado como docente do ensino português no estrangeiro é considerado, para todos os demais efeitos legais, tempo de serviço efetivo em funções docentes no ensino público.
+
+3 - A tabela de conversão de horários lectivos incompletos para efeitos de contagem de tempo de serviço consta de despacho membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da educação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2019 - Diário da República n.º 125/2019, Série I de 2019-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2019-122869973), em vigor a partir de 2019-07-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 23.º — Avaliação de desempenho
+
+1 - A avaliação do desempenho relativa aos docentes do ensino português no estrangeiro rege-se pela Lei n.º 66-B/2007, de 28 de Dezembro, no que se refere ao sistema de avaliação de desempenho dos trabalhadores da Administração Pública, com as adaptações constantes do presente artigo.
+
+2 - Compete ao coordenador avaliar o desempenho dos docentes do ensino português no estrangeiro no exercício do cargo de professor ou leitor no período global de dois anos, nos termos do regulamento interno.
+
+3 - A avaliação de desempenho releva para efeitos do exercício das funções de docente do ensino português no estrangeiro, nas modalidades de professor e leitor, sem prejuízo de, para efeitos de alteração de posicionamento remuneratório na carreira de origem, poder ser considerada nos termos do respectivo estatuto.
+
+4 - Para efeitos do disposto no n.º 1, o coordenador apura directamente ou junto dos estabelecimentos onde o docente exerça funções os seguintes elementos de avaliação:
+
+a) O nível de assiduidade e o grau de cumprimento do serviço docente distribuído, tendo por referência o número total de aulas e os prazos e objectivos fixados para a prossecução do serviço;
+
+b) A preparação, organização e realização das actividades lectivas;
+
+c) A relação pedagógica com os alunos;
+
+d) A avaliação das aprendizagens dos alunos, tendo em consideração o contexto social e escolar;
+
+e) As estratégias utilizadas para a superação de dificuldades na aprendizagem dos alunos.
+
+5 - Os elementos referidos no número anterior podem ser igualmente apurados junto dos pais e encarregados de educação.
+
+6 - A avaliação de desempenho final do docente do ensino português no estrangeiro é expressa nas seguintes menções qualitativas:
+
+a) Excelente - de 9 a 10 valores;
+
+b) Muito bom - de 8 a 8,9 valores;
+
+c) Bom - de 6,5 a 7,9 valores;
+
+d) Regular - de 5 a 6,4 valores;
+
+e) Insuficiente - de 1 a 4,9 valores.
+
+7 - A diferenciação dos desempenhos é assegurada pela fixação de percentagens máximas para as menções qualitativas de Muito bom e de Excelente, nas percentagens, respectivamente, de 25 % e 5 %.
+
+8 - O coordenador dá conhecimento ao docente da proposta de avaliação, sendo a mesma objecto de homologação pelo presidente do Camões, I. P.
+
+9 - Da homologação é dado conhecimento ao avaliado no prazo máximo de cinco dias úteis.
+
+10 - Após o conhecimento da homologação, pode o avaliado dela apresentar reclamação escrita no prazo de 10 dias úteis.
+
+11 - A decisão da reclamação é proferida no prazo máximo de 15 dias úteis subsequentes à recepção do pedido.
+
+12 - A reclamação não pode fundamentar-se na comparação entre avaliações atribuídas.
+
+13 - Do acto de homologação e da decisão sobre a reclamação cabe impugnação administrativa, por recurso tutelar, ou impugnação jurisdicional, nos termos gerais.
+
+14 - Os professores ou leitores que exerçam funções em áreas geográficas onde não haja coordenador são avaliados pelo presidente do Camões, I. P., aplicando-se o previsto nos números anteriores.
+
+15 - A adaptação das regras do processo de avaliação à organização do serviço e necessidades de gestão é aprovada em regulamento interno do Camões, I. P., nos termos do n.º 4 do artigo 3.º da Lei n.º 66-B/2007, de 28 de Dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 24.º — Duração e horário de trabalho
+
+1 - O pessoal docente está sujeito à prestação de 35 horas semanais de serviço.
+
+2 - O horário semanal dos docentes integra a componente lectiva e a componente não lectiva, desenvolvendo-se, por regra, em cinco dias de trabalho.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 25.º — Componente lectiva
+
+1 - A componente letiva do pessoal docente é a seguinte:
+
+a) Professor: de vinte e duas a vinte e cinco horas semanais;
+
+b) Leitor: de dezasseis a dezoito horas semanais.
+
+2 - Ao pessoal docente pode ser atribuída pelo coordenador, para efeito de completação do respectivo horário lectivo:
+
+a) No caso dos professores:
+
+i) A docência de outros níveis ou ciclos de ensino não superior, distintos daqueles que estejam a leccionar, desde que sejam possuidores de habilitação profissional para esse efeito;
+
+ii) A responsabilidade pela docência em outros cursos promovidos pelo Camões, I. P., ou pela missão diplomática ou consular;
+
+iii) Atividades de natureza pedagógica e de apoio à comunidade;
+
+iv) Funções de apoio ou formação de docentes e alunos.
+
+b) No caso dos leitores:
+
+i) A prestação de serviço lectivo em instituição diferente daquela em que foi colocado na mesma zona geográfica;
+
+ii) A responsabilidade pela docência em outros cursos promovidos pelo Camões, I. P., ou pela missão diplomática ou consular;
+
+iii) O exercício de funções de apoio e formação a docentes e alunos do mesmo ou de outros níveis de ensino.
+
+3 - Quando se mostre manifestamente impossível atribuir horários lectivos completos a professores em regime de monodocência, de acordo com a duração prevista na subalínea i) da alínea a) do n.º 1, ou a completação prevista no número anterior, pode considerar-se como horário lectivo completo o que tenha pelo menos vinte e duas horas.
+
+4 - Quando a organização dos horários cabe às entidades do país de acolhimento, o número de horas semanais da componente lectiva é fixado de acordo com a regulamentação em vigor nesse país.
+
+5 - A componente lectiva do docente do ensino português no estrangeiro pode ser reduzida atendendo à distância entre os locais dos cursos, caso os docentes leccionem em mais de um local, às dificuldades de acesso, morosidade do percurso e disponibilidade de espaços escolares, sempre mediante proposta fundamentada do respectivo coordenador e homologada pelo presidente do Camões, I. P.
+
+6 - (Revogado.)
+
+7 - O docente não pode prestar diariamente mais de cinco horas lectivas consecutivas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 25.º-A — Organização da componente lectiva
+
+1 - A componente lectiva do horário dos professores corresponde ao número de horas leccionadas, compreendendo o exercício das seguintes funções:
+
+a) A docência nos cursos de língua portuguesa, em qualquer das modalidades consignadas no presente decreto-lei;
+
+b) A alfabetização, em português, de jovens e adultos;
+
+c) O apoio a alunos que estudam português na modalidade de ensino à distância ou para se submeter a exame de português no sistema de ensino do país de acolhimento;
+
+d) O apoio à integração escolar de alunos recém-chegados de Portugal;
+
+e) A actividade lectiva ou o trabalho directo com alunos no âmbito de acções de difusão da cultura e língua portuguesas.
+
+2 - A componente lectiva do horário dos leitores de língua e cultura portuguesas corresponde ao número de horas leccionadas, compreendendo o exercício das seguintes funções:
+
+a) A docência das disciplinas das áreas de língua e cultura portuguesas;
+
+b) A difusão de informação e o intercâmbio de conhecimentos e experiências no âmbito das matérias leccionadas;
+
+c) O apoio aos alunos na realização de actividades científicas e culturais e respectiva avaliação, em conformidade com os procedimentos fixados pelas autoridades académicas competentes;
+
+d) A tutoria dos cursos de ensino à distância promovidos pelo Camões, I. P.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 26.º — Componente não lectiva
+
+1 - A componente não lectiva do horário dos docentes de ensino português no estrangeiro compreende a realização de trabalho a nível individual e a prestação de trabalho relativa à organização dos cursos.
+
+2 - A componente não lectiva do horário dos docentes de ensino português no estrangeiro compreende, designadamente, o exercício das seguintes funções:
+
+a) A preparação das actividades lectivas e não lectivas;
+
+b) A avaliação do processo de aprendizagem;
+
+c) A colaboração em actividades de complemento curricular que visem promover o enriquecimento cultural e a inserção dos educandos na comunidade no que respeita aos professores da educação pré-escolar e dos ensinos básico e secundário;
+
+d) O desenvolvimento de actividades de ligação com o meio sócio-cultural das escolas em que leccionam, designadamente com os pais e encarregados de educação e respectivas associações no que respeita aos professores da educação pré-escolar e dos ensinos básico e secundário;
+
+e) A participação em reuniões de carácter científico e pedagógico convocadas pela instituição onde leccionam ou pela coordenação local de ensino;
+
+f) A participação, promovida nos termos legais ou devidamente autorizada, enquanto formandos ou como formadores, em acções de formação e aperfeiçoamento ou em congressos, conferências, seminários e reuniões para estudo e debate de questões e problemas relacionados com a actividade docente;
+
+g) A participação nas actividades académicas e a proposta da organização de acções e eventos destinados à divulgação da língua e cultura portuguesas;
+
+h) A promoção da organização de cursos extra-escolares para aprendizagem da língua portuguesa, bem como a organização de cursos de cultura portuguesa e das culturas dos países de língua oficial portuguesa;
+
+i) A substituição por períodos inferiores a 30 dias de outros docentes colocados no mesmo estabelecimento de educação ou de ensino, até ao limite de duas horas semanais, a utilizar preferencialmente por docentes com componente lectiva incompleta.
+
+3 - A componente não lectiva do horário dos leitores compreende ainda a elaboração do plano de actividades culturais a desenvolver em cada ciclo lectivo, bem como a proposta do respectivo financiamento e a sua execução técnica e financeira.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 27.º — Férias, feriados, faltas e licenças
+
+1 - O pessoal docente rege-se em matéria de férias, faltas e licenças pelas disposições aplicáveis da LTFP, com as especificidades constantes do presente decreto-lei.
+
+2 - Os docentes de ensino português no estrangeiro ficam abrangidos pelo calendário escolar vigente no país de acolhimento em matéria de férias e feriados.
+
+3 - Os docentes do ensino português no estrangeiro têm ainda direito aos feriados dos dias 25 de abril e 10 de junho.
+
+4 - Para os docentes cujo horário lectivo compreenda áreas geográficas com calendários escolares diferentes, será considerado, para efeitos de férias e feriados, o calendário correspondente ao da área geográfica em que o docente leccionar o maior número de cursos.
+
+5 - No caso de o docente leccionar igual número de cursos em áreas geográficas diferentes, opta por um dos respectivos calendários escolares.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 27.º-A — Período de férias
+
+1 - As férias do pessoal docente são gozadas entre o termo de um ano lectivo e o início do ano lectivo seguinte.
+
+2 - As férias podem ser gozadas num único período ou em dois interpolados, um dos quais com a duração mínima de oito dias úteis consecutivos.
+
+3 - O período ou períodos de férias são marcados em articulação com o estabelecimento de educação ou de ensino onde o docente presta serviço.
+
+4 - As férias são comunicadas ao Camões, I. P., com conhecimento ao coordenador, ou, nos casos em que não exista estrutura de coordenação, ao representante diplomático ou consular.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 27.º-B — Faltas
+
+1 - Falta é a ausência do docente durante a totalidade ou parte do período diário de presença obrigatória no estabelecimento de educação ou de ensino ou em local a que se deva deslocar para exercer as suas funções.
+
+2 - É considerado um dia de falta a ausência a um número de horas igual ao quociente da divisão por cinco do número de horas de serviço lectivo semanal ou equiparado distribuído ao docente.
+
+3 - As faltas por períodos inferiores a um dia são adicionadas no decurso do ano lectivo, para efeitos do disposto no número anterior.
+
+4 - É considerada falta de um dia a ausência:
+
+a) Ao serviço de exames;
+
+b) A reuniões de avaliação dos alunos.
+
+5 - A ausência do docente a outras reuniões de natureza pedagógica convocadas nos termos da lei é considerada falta a dois tempos lectivos.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 28.º — Acumulações
+
+1 - O exercício das funções de docente do ensino português no estrangeiro pode ser acumulado com outras funções nos termos da LTFP, mediante despacho de autorização do presidente do Camões, I. P., obtida a concordância da instituição em que preste serviço.
+
+2 - Ao leitor da rede do ensino português no estrangeiro pode ser cometida, pelo presidente do Camões, I. P., a gestão de um centro de língua portuguesa e a inerente responsabilidade pela elaboração e execução do correspondente plano anual de atividades, bem como a direção de um centro cultural português.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 29.º — Regime disciplinar
+
+1 - Aos docentes do ensino português no estrangeiro aplica-se, relativamente ao exercício do poder disciplinar, o disposto no capítulo VII da LTFP.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 30.º — Cessação da comissão de serviço
+
+1 - A comissão de serviço cessa:
+
+a) (Revogada.);
+
+b) No seu termo, em caso de comunicação da decisão de não renovação;
+
+c) Por decisão fundamentada do presidente do Camões, I. P., sob proposta do coordenador e com aviso prévio de 30 dias ao docente, nomeadamente por causa ou facto imputável a este que inviabilize o normal exercício das respectivas funções;
+
+d) A pedido do interessado, apresentado ao presidente do Camões, I. P., com 120 dias de antecedência mínima relativamente à data do termo do ciclo anual de actividades lectivas;
+
+e) Por impossibilidade superveniente do normal exercício das funções, decorrente de facto ou circunstância que não lhe seja imputável, com direito a indemnização;
+
+f) Quando o docente se mantiver afastado do exercício efectivo das suas funções por período igual ou superior a 60 dias seguidos ou interpolados no mesmo ano lectivo, salvo se tal afastamento for devido a:
+
+i) Acidente de trabalho;
+
+ii) Doença profissional;
+
+iii) Internamento hospitalar e tratamento ambulatório na sequência daquele;
+
+iv) Doença incapacitante do próprio que exija tratamento prolongado;
+
+v) Gozo das licenças previstas nas alíneas a) a d) do n.º 1 do artigo 35.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de Fevereiro;
+
+vi) Instabilidade política ou social devidamente reconhecida pelo Estado Português.
+
+g) Por extinção do posto de trabalho.
+
+2 - O montante de indemnização a que se refere a alínea e) do número anterior é o correspondente a:
+
+a) Três dias de remuneração base por cada mês de duração do vínculo no caso em que a comissão de serviço cumprida não exceda seis meses;
+
+b) Dois dias de remuneração base por cada mês de duração do vínculo no caso em que a comissão de serviço cumprida exceda seis meses.
+
+3 - A identificação das doenças incapacitantes referidas na subalínea iv) da alínea f) do n.º 1 é efectuada por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças, da Administração Pública e da saúde, publicado no Diário da República, e deve ser justificada com relatório médico que a ateste e comprove.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+#### Secção III — Recrutamento, selecção e provimento
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 31.º — Recrutamento e selecção
+
+1 - O recrutamento do pessoal docente do ensino português no estrangeiro é realizado mediante oferta pública de emprego aberta a candidatos, detentores ou não de uma relação jurídica de emprego público por tempo indeterminado, nos termos dos números seguintes.
+
+2 - Os candidatos ao cargo de professor a que se refere a alínea a) do n.º 2 do artigo 19.º devem reunir os seguintes requisitos:
+
+a) Grau de licenciado para aqueles que adquiriram habilitação profissional para a docência no âmbito da legislação anterior ao Decreto-Lei n.º 43/2007, de 22 de Fevereiro, ou grau académico que confira habilitação profissional para a docência, nos termos exigidos no mesmo decreto-lei, de acordo com os níveis e ciclos de ensino;
+
+b) Formação complementar adequada, quando exigível.
+
+3 - Os candidatos ao cargo de leitor a que se refere a alínea b) do n.º 2 do artigo 19.º devem deter:
+
+a) Grau de licenciado para aqueles que adquiriram o grau académico no âmbito da legislação anterior ao Decreto-Lei n.º 74/2006, de 24 de Março, ou grau de mestre nos termos do mesmo decreto-lei; ou
+
+b) Grau de licenciado para aqueles que adquiriram habilitação profissional para a docência no âmbito da legislação anterior ao Decreto-Lei n.º 43/2007, de 22 de Fevereiro, ou grau académico que confira habilitação profissional para a docência, nos termos exigidos no mesmo decreto-lei, de acordo com os níveis e ciclos de ensino;
+
+c) Grau de doutor ou estudos pós-graduados especialmente qualificados no domínio das técnicas de ensino-aprendizagem da língua e cultura portuguesas em contexto de aprendizagem do português língua não materna ou língua estrangeira.
+
+4 - Os candidatos ao exercício de funções docentes no ensino português no estrangeiro devem ainda comprovar o domínio da língua estrangeira da área consular a que se candidatam, nos termos do aviso de abertura.
+
+5 - A abertura do procedimento concursal para cada um dos cargos previstos nos números anteriores é autorizada por despacho dos membros do Governo responsáveis pela área dos negócios estrangeiros, das finanças e da Administração Pública.
+
+6 - O procedimento concursal é bienal e segue os termos fixados em aviso publicado no Diário da República e na página eletrónica do Camões, I. P., difundido pelas estruturas de coordenação de ensino criadas junto das missões diplomáticas e consulares e divulgado através de órgão de comunicação social de âmbito nacional.
+
+7 - No procedimento concursal é utilizado como método de seleção obrigatório a prova de conhecimentos, podendo ser fixados outros métodos de seleção facultativos ou complementares, nestes se incluindo a frequência de um curso de formação com duração a fixar pelo presidente do Camões, I. P.
+
+8 - (Revogado.)
+
+9 - O aviso de abertura previsto no n.º 5 contém:
+
+a) Identificação do acto que autoriza o procedimento e da entidade que o realiza;
+
+b) Identificação do número de horários a distribuir;
+
+c) Identificação do local de trabalho onde as funções vão ser exercidas;
+
+d) Identificação da língua estrangeira cujo domínio é requerido para cada local de trabalho;
+
+e) Forma e prazo de apresentação da candidatura;
+
+f) Local e endereço postal ou electrónico onde deve ser apresentada a candidatura;
+
+g) Métodos de selecção, respectiva ponderação e sistema de valoração final;
+
+h) Fundamentação da opção pela utilização dos métodos de selecção de forma faseada, nos termos do artigo 8.º da Portaria n.º 83-A/2009, de 22 de Janeiro, quando se aplique;
+
+i) Tipo, forma e duração das provas de conhecimentos, bem como as respectivas temáticas;
+
+j) Composição e identificação do júri;
+
+l) Identificação dos documentos exigidos para efeitos de admissão ou avaliação dos candidatos e indicação sobre a possibilidade da sua apresentação por via electrónica;
+
+m) Indicação de que as actas do júri, onde constam os parâmetros de avaliação e respectiva ponderação de cada um dos métodos a utilizar, a grelha classificativa e o sistema de valoração final do método, são facultadas ao candidato sempre que solicitadas;
+
+n) Forma de publicitação da lista unitária para a ordenação final dos candidatos.
+
+10 - Para efeitos da comprovação do domínio da língua estrangeira, nos termos do n.º 4, pode o aviso de abertura exigir a aprovação em prova de conhecimentos;
+
+11 - O procedimento concursal é iniciado com a devida antecedência relativamente ao início do ciclo lectivo a que respeita obedecendo, com as devidas adaptações, à regulamentação geral do procedimento concursal de recrutamento para o exercício de funções públicas.
+
+12 - Não podem ser opositores ao procedimento concursal referido no n.º 1 os docentes do ensino português no estrangeiro que requeiram a cessação da comissão de serviço após ter ocorrido a sua renovação nos termos do artigo 20.º ou que não tenham aceitado, em procedimento concursal anterior, a colocação.
+
+13 - A limitação referida no número anterior tem a duração de dois anos.
+
+14 - Ao apoio ao recrutamento de docentes ao abrigo da alínea f) do n.º 1 do artigo 5.º, são aplicáveis, com as necessárias adaptações, os requisitos constantes dos n.os 2 a 4 do presente artigo.
+
+15 - O apoio ao recrutamento de docentes ao abrigo da alínea f) do n.º 1 do artigo 5.º, observa os princípios gerais da atividade administrativa, sendo precedido de prévia publicitação, que inclui, nomeadamente:
+
+a) A forma e o prazo de apresentação de candidatura;
+
+b) Os métodos e critérios de seleção;
+
+c) A composição e identificação do júri.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 31.º-A — Provimento no cargo
+
+Os docentes de língua e cultura portuguesa são providos no cargo de professor ou de leitor em regime de comissão de serviço, nos termos definidos no presente decreto-lei, mediante despacho do presidente do Camões, I. P., findo o procedimento de recrutamento previsto no artigo anterior.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 32.º — Contratação temporária
+
+1 - Para suprir necessidades de natureza temporária, pode ainda recorrer-se ao recrutamento local de docentes que reúnam os seguintes requisitos cumulativos:
+
+a) Possuir habilitação académica exigida para o exercício das funções inerentes ao posto de trabalho a que se candidata;
+
+b) Revelar domínio perfeito da língua portuguesa, a certificar nos termos definidos pelo presidente do Camões, I. P.;
+
+c) Estar devidamente habilitado para a docência de português e dominar a língua da área consular a que se candidatam.
+
+2 - O recrutamento referido no número anterior é objecto de procedimento concursal simplificado, cuja tramitação é aprovada por portaria conjunta dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da Administração Pública, junto da respectiva estrutura de coordenação local do ensino português, publicitada na página de Internet do Camões, I, P.
+
+3 - Ao procedimento de contratação local é aplicável o disposto nos n.os 1 a 3 do artigo 40.º da Portaria n.º 83-A/2009, de 22 de janeiro, alterada pela Portaria n.º 145-A/2011, de 6 de abril, que a republica e que regulamenta a tramitação do procedimento concursal dos trabalhadores que exercem funções públicas.
+
+4 - À contratação local a termo resolutivo aplica-se a LTFP, com as especificidades constantes do presente decreto-lei, com exceção do direito ao suplemento remuneratório referido no n.º 5 do artigo 34.º e ao regime das despesas previstas nos n.os 1 e 2 do artigo 34.º-A.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 33.º — Não supletividade dos concursos
+
+Os concursos referidos nos artigos anteriores situam-se no mesmo plano de recrutamento de docentes para o ensino português no estrangeiro, cabendo ao ministro com a tutela da organização do ensino português no estrangeiro decidir qual ou quais dos concursos são abertos, o seu momento, sem prejuízo da sua anualidade, e por que ordem.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+#### Secção IV — Remunerações e outras prestações
+
+> Aditado pelo/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 34.º — Remunerações
+
+1 - Os níveis remuneratórios correspondentes à remuneração base dos docentes de ensino português no estrangeiro constam de tabela a aprovar por decreto regulamentar.
+
+2 - Do decreto regulamentar referido no número anterior consta ainda uma tabela de conversão de horários lectivos incompletos para efeitos remuneratórios.
+
+3 - Aos docentes que prestem serviço no âmbito do ensino português no estrangeiro, nos termos do presente decreto-lei, ao abrigo de protocolos estabelecidos pelo Estado Português com governos ou entidades locais e que sejam por estes remunerados por montantes inferiores ao previsto na tabela referida no número anterior, é garantida a completação de remunerações, nos termos do número seguinte.
+
+4 - O valor da completação de remunerações é igual à diferença entre o montante líquido a que o docente teria direito se fosse pago pelo Estado Português e a remuneração líquida percebida pelo docente a cargo dos governos ou entidades locais.
+
+5 - Os docentes de ensino português no estrangeiro têm direito à percepção de remuneração por trabalho extraordinário efectivamente prestado, tendo em conta o disposto nos artigos 24.º e seguintes.
+
+6 - O montante pecuniário do suplemento remuneratório de instalação é fixado no decreto regulamentar previsto no n.º 1, tendo por referência o valor do subsídio da mesma natureza atribuído aos coordenadores e o índice de custo de vida fixado pela Organização para a Cooperação e Desenvolvimento Económico do país de acolhimento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 34.º-A — Despesas de viagens e de transportes
+
+1 - O Camões, I. P., suporta o custo da viagem do docente no início e no fim da comissão de serviço, bem como as despesas de transporte de bagagem, nas condições fixadas no decreto regulamentar previsto no artigo anterior.
+
+2 - No caso de utilizar transporte próprio, o docente tem direito a receber o montante correspondente ao custo de uma viagem de avião, em classe económica, entre o aeroporto internacional da sua área de residência e a cidade mais próxima da escola, instituição ou organismo de destino.
+
+3 - Em caso de cessação da comissão de serviço por iniciativa do docente antes do final do ano lectivo, este deve suportar os custos de viagem e de transporte de bagagem.
+
+4 - Constituem encargo do Camões, I. P., as despesas com transportes e estada dos docentes que prestem serviço, em regime de acumulação, nos termos previstos no presente decreto-lei.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 35.º — Reembolso de despesas
+
+1 - Os docentes de ensino português no estrangeiro têm direito ao reembolso das despesas com deslocações em serviço previamente autorizadas, mediante apresentação de documento comprovativo da despesa efectuada.
+
+2 - Os docentes de ensino português no estrangeiro têm direito ao reembolso das despesas de transporte entre o local do curso mais próximo da sua residência e os restantes locais dos cursos constantes do seu horário de trabalho, mediante apresentação de documento comprovativo da despesa efectuada.
+
+3 - As despesas de transporte são satisfeitas através do pagamento de passe social, sendo admitida a título excecional a utilização de viatura própria, desde que autorizada pelo presidente do Camões, I. P.
+
+4 - Quando o docente utilizar viatura própria nas deslocações entre locais onde ministra os cursos, ou em outras devidamente autorizadas, é reembolsado nos termos do regime jurídico das ajudas de custo e de transporte para deslocação em serviço público e de acordo com os montantes que venham a ser fixados por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2012 - Diário da República n.º 210/2012, Série I de 2012-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2012-191541), em vigor a partir de 2012-10-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 35.º-A — Reembolso de abonos indevidos
+
+1 - Salvo motivo de força maior, o docente que interrompa a sua comissão de serviço, sem a necessária autorização, perde o direito a remunerações e outras atribuições patrimoniais, ficando obrigado a reembolsar o Camões, I. P., das quantias recebidas sem contrapartida de serviço efectivamente prestado.
+
+2 - É igualmente determinado o reembolso das quantias pagas antecipadamente na situação prevista na alínea c) do n.º 1 do artigo 30.º
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 36.º — Protecção social
+
+1 - Os coordenadores, adjuntos de coordenação e pessoal docente do ensino português no estrangeiro ficam abrangidos pelo regime de protecção social convergente (RPSC) ou pelo regime geral de segurança social (RGSS), nos termos da lei que define a protecção social dos trabalhadores que exercem funções públicas, sem prejuízo do disposto em instrumento internacional a que Portugal se encontre vinculado.
+
+2 - Em caso de exercício de funções em país ao qual Portugal não se encontre vinculado por instrumento internacional e sempre que a respectiva legislação determine a obrigação de inscrição no regime de segurança social local, o trabalhador fica exclusivamente sujeito a esse regime, cabendo ao Estado Português suportar os encargos de conta da entidade empregadora.
+
+3 - Os trabalhadores referidos no número anterior já abrangidos pelo RPSC não perdem a qualidade de subscritor da Caixa Geral de Aposentações, não lhes sendo, contudo, exigível o pagamento de quotizações nem sendo o correspondente tempo de exercício de funções equivalente à entrada de quotizações.
+
+4 - Nas situações referidas no n.º 2, quando o regime de segurança social local não preveja a protecção nas eventualidades que integrem o âmbito material do regime geral de segurança social dos trabalhadores por conta de outrem, bem como acidentes de trabalho é, sempre que possível, celebrado seguro para cobertura das eventualidades não abrangidas, sendo os correspondentes encargos suportados nas percentagens de 35 % e 65 % pelo trabalhador e pelo Camões, I. P., respectivamente.
+
+5 - A comparticipação do trabalhador para a formação do prémio do seguro a que se refere o número anterior não pode, no entanto, exceder o montante que o mesmo teria de suportar com a inscrição no regime geral de segurança social português, caso fosse admitida.
+
+6 - Aos coordenadores, adjuntos de coordenação e pessoal docente do ensino português no estrangeiro é garantida a protecção no desemprego nos termos do Decreto-Lei n.º 220/2006, de 3 de Novembro, com as adaptações decorrentes do disposto no artigo seguinte, sempre que a protecção naquela eventualidade não seja assegurada nos termos dos números anteriores.
+
+7 - O pessoal docente do ensino português no estrangeiro contratado nos termos do artigo 32.º pode, sem prejuízo do disposto no n.º 1, optar pela inscrição no regime de segurança social local.
+
+8 - O Camões, I. P., comparticipa as despesas de saúde dos coordenadores, adjuntos de coordenação e pessoal docente, bem como do respectivo agregado familiar, nos países onde não haja ou não seja possível o acesso a um sistema de saúde, nos termos constantes de regulamento interno.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 36.º-A — Protecção no desemprego
+
+1 - Durante o período de concessão das prestações de desemprego, para além dos deveres previstos no respectivo regime, os beneficiários têm os seguintes deveres perante o Camões, I. P.:
+
+a) Ser opositor aos procedimentos de recrutamento do pessoal docente;
+
+b) Aceitar, fazendo uso das suas habilitações, emprego docente no âmbito dos agrupamentos de escolas ou escolas não agrupadas do concelho que abranja a sua residência ou da área consular onde exerceu funções;
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 36.º-B — Docentes contratados
+
+Aos docentes contratados por outras entidades ao abrigo de protocolos de cooperação nos termos do presente decreto-lei não se aplicam as normas constantes da presente secção.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 37.º — Regime transitório
+
+1 - O serviço docente que haja sido prestado ao abrigo de protocolos em que o Estado Português seja parte conta, para todos os efeitos legais, como tempo de serviço efectivo prestado em funções docentes no ensino público.
+
+2 - Os concursos abertos para o recrutamento de docentes para o ano lectivo de 2006-2007 nas áreas consulares e coordenações de ensino ao abrigo dos artigos 2.º e 5.º do Decreto-Lei n.º 13/98, de 24 de Janeiro, e do Decreto Regulamentar n.º 4-A/98, de 6 de Abril, consideram-se realizados nos termos do presente decreto-lei, sendo-lhes aplicável todas as suas regras, nomeadamente a do regime da prestação de serviço, a das remunerações e a da protecção social, e as disposições aplicáveis aos professores dos quadros.
+
+3 - Em caso de alteração do regime contratual referido no artigo 21.º da qual resulte a necessidade de celebração de novos contratos pelos docentes recrutados para o ano lectivo de 2006-2007, tais contratos, ainda que de diferente natureza, serão considerados como renovações, sem dispensa do cumprimento dos requisitos exigidos no n.º 3 do artigo 20.º
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 38.º — Encargos
+
+Os encargos relativos às atribuições em matéria da organização do ensino português no estrangeiro que transitem entre ministérios continuarão a ser processados por conta das verbas que lhes estão afectas, nos termos a definir por despacho dos Ministros dos Negócios Estrangeiros, das Finanças e da Educação.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 39.º — Regulamentação
+
+As regras técnicas dos concursos constantes do presente decreto-lei serão definidas por decreto regulamentar, mediada a participação das organizações sindicais de professores.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 40.º — Estruturas de coordenação actuais
+
+Até à designação de novos coordenadores, nos termos do presente decreto-lei, os actuais coordenadores e delegados de coordenação nomeados ao abrigo do Decreto-Lei n.º 30/99, de 29 de Janeiro, mantêm-se em funções, conservando o estatuto, a categoria e as remunerações e abonos a que têm direito.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 41.º — Professores dos quadros
+
+1 - (Revogado.)
+
+2 - A situação de licença sem remuneração não determina o desconto na antiguidade para efeitos de carreira.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - Aos educadores de infância e aos professores do 1.º ciclo do ensino básico dos quadros do Ministério da Educação, em regime de monodocência e no exercício de funções docentes no ensino português no estrangeiro no mesmo regime, continua a ser aplicável o regime transitório de aposentação previsto no Decreto-Lei n.º 229/2005, de 29 de Dezembro, ou outro mais favorável, desde que abrangidos pelas suas regras.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 42.º — Direito subsidiário
+
+Em tudo o que não se encontrar especialmente previsto no presente decreto-lei em matéria de pessoal docente, aplica-se, por esta ordem:
+
+a) A LTFP;
+
+b) O Estatuto da Carreira Docente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65-A/2016 - Diário da República n.º 205/2016, 1º Suplemento, Série I de 2016-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-a-2016-75603289), em vigor a partir de 2016-10-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 43.º — Reapreciação
+
+O regime jurídico do ensino português no estrangeiro aprovado pelo presente decreto-lei será objecto de reapreciação e eventual revisão após a reestruturação dos Ministérios dos Negócios Estrangeiros e da Educação prevista no Programa de Reestruturação da Administração Central do Estado, aprovado pela Resolução do Conselho de Ministros n.º 39/2006, de 21 de Abril.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165-C/2009 - Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646), em vigor a partir de 2006-08-12
+
+###### Artigo 44.º — Norma revogatória
+
+São revogados os seguintes diplomas:
+
+a) O Decreto-Lei n.º 13/98, de 24 de Janeiro;
+
+b) O Decreto Regulamentar n.º 4-A/98, de 6 de Abril;
+
+c) O Decreto-Lei n.º 30/99, de 29 de Janeiro, sem prejuízo do disposto no artigo 40.º;
+
+d) O Decreto-Lei n.º 176/2002, de 31 de Julho.
+
+###### Artigo 45.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Emanuel Augusto dos Santos - Maria de Lurdes Reis Rodrigues.
+
+Promulgado em 24 de Julho de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 25 de Julho de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

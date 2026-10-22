@@ -1,0 +1,678 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:172275:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-67210690",
+ "dre_path": "/dr/detalhe/decreto-lei/187-2002-172275",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "212452458",
+    "67200365",
+    "67200366",
+    "67200367",
+    "67200368",
+    "67200369",
+    "67200370",
+    "67200371",
+    "67200372",
+    "67200373",
+    "67200374",
+    "67209375",
+    "67209376",
+    "67209377",
+    "67209378",
+    "67209379",
+    "67209380",
+    "67209381",
+    "67209382",
+    "67209383",
+    "67209384"
+   ]
+  },
+  {
+   "date": "2007-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522640:por",
+     "title": "Decreto-Lei n.º 13/2007",
+     "published": "2007-01-19",
+     "dre_path": "/dr/detalhe/decreto-lei/13-2007-522640"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "67200364",
+    "67200365",
+    "67200366",
+    "67209404",
+    "67200368",
+    "67200369",
+    "67200370",
+    "67200371",
+    "67209406",
+    "67200373",
+    "67209407",
+    "67209409",
+    "67209376",
+    "67209377",
+    "67209378",
+    "67209379",
+    "67209380",
+    "67209381",
+    "67209382",
+    "67209383",
+    "67209384",
+    "67209388"
+   ]
+  },
+  {
+   "date": "2015-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67185042:por",
+     "title": "Decreto-Lei n.º 74/2015",
+     "published": "2015-05-11",
+     "dre_path": "/dr/detalhe/decreto-lei/74-2015-67185042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "67200364",
+    "67200365",
+    "67209412",
+    "67209404",
+    "67200368",
+    "67200369",
+    "67209413",
+    "67200371",
+    "67209406",
+    "67200373",
+    "67209407",
+    "67209416",
+    "67209376",
+    "67209417",
+    "67209418",
+    "67209379",
+    "67209380",
+    "67209419",
+    "67209382",
+    "67209383",
+    "67209384",
+    "67209388"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:67185042:por",
+     "title": "Decreto-Lei n.º 74/2015",
+     "published": "2015-05-11",
+     "dre_path": "/dr/detalhe/decreto-lei/74-2015-67185042",
+     "date": "2015-05-18"
+    }
+   ]
+  },
+  {
+   "date": "2023-05-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:212379454:por",
+     "title": "Decreto-Lei n.º 27/2023",
+     "published": "2023-04-28",
+     "dre_path": "/dr/detalhe/decreto-lei/27-2023-212379454"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "212452458",
+    "212452459",
+    "212452460",
+    "212452461",
+    "212452462",
+    "212452463",
+    "212452464",
+    "212452465",
+    "212452466",
+    "212452467",
+    "212452468",
+    "212452469",
+    "212452470",
+    "212452471",
+    "212452472",
+    "212452473",
+    "212452474",
+    "212452475",
+    "212452476",
+    "212452477",
+    "212452478",
+    "212452479"
+   ]
+  }
+ ],
+ "fragments": {
+  "212452458": {
+   "fragment_id": "67210691",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-05-29",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 187/2002\n\nde 21 de Agosto\n\nNos termos da Resolução do Conselho de Ministros n.º 103/2002, de 26 de Julho, que aprovou o Programa para a Produtividade e o Crescimento da Economia, foi delineado um conjunto de objectivos macroeconómicos para Portugal, os quais visam alcançar, entre outros, a convergência real com os países mais desenvolvidos da União Europeia, através do aumento significativo e sustentado da produtividade e da competitividade da economia portuguesa.\n\nNum plano microeconómico, no que respeita às empresas localizadas em Portugal, impõe-se uma profunda mudança das condições em que aquelas operam, nomeadamente ao nível da dinamização de mecanismos alternativos e inovadores de financiamento, alargando e diversificando a oferta de produtos e serviços financeiros ao dispor das empresas, em especial as de menor dimensão. Assim, a oferta de instrumentos financeiros que contribuam para o reforço da competitividade e capitalização das pequenas e médias empresas, fomentando a constituição de novas empresas de cariz inovador e produtivo, o reforço ou transmissão do capital das empresas já existentes, apresenta-se como um objectivo prioritário do Governo.\n\nNeste contexto assume especial importância o novo tipo de fundo que agora se cria - o fundo de sindicação de capital de risco -, instrumento que permitirá concretizar o apoio público às intervenções do capital de risco no quadro do Programa para a Produtividade e o Crescimento da Economia, dando execução a um mecanismo integrado no Programa Operacional da Economia (POE), previsto na Portaria n.º 37/2002, de 10 de Janeiro.\n\nFoi ouvida a Comissão do Mercado de Valores Mobiliários.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "67200365": {
+   "fragment_id": "67210692",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "67200366": {
+   "fragment_id": "67210693",
+   "type": 11,
+   "heading": "Artigo 1.º — Constituição, funcionamento e denominação dos fundos de sindicação de capital de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Constituição, funcionamento e denominação dos fundos de sindicação de capital de risco\n\n1 - A constituição e o funcionamento dos fundos de sindicação de capital de risco, adiante designados apenas por FSCR, regem-se pelo presente diploma e, subsidiariamente, com as devidas adaptações, pelo regime jurídico dos fundos de investimento de capital de risco, com exclusão das competências da Comissão do Mercado de Valores Mobiliários nessa matéria.\n\n2 - A denominação dos FSCR deve conter a expressão «Fundo de Sindicação de Capital de Risco», seguida de uma menção que identifique a entidade gestora do fundo."
+  },
+  "67200367": {
+   "fragment_id": "67210694",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Noção e objecto\n\n1 - Os FSCR são instrumentos de investimento que se traduzem num património autónomo com capital inicial fixo, mas susceptível de aumento ao longo do período de duração do fundo.\n\n2 - Os FSCR têm por objecto a realização de operações combinadas na área do capital de risco, através do investimento em participações no capital de empresas e do financiamento de entidades especializadas naquele domínio, tendo em vista o reforço do capital de pequenas e médias empresas (PME) que desenvolvam a sua actividade nos sectores abrangidos no âmbito do Programa Operacional da Economia (POE), nos termos da alínea b) do n.º 2 do artigo 3.º da Portaria n.º 37/2002, de 10 de Janeiro."
+  },
+  "67200368": {
+   "fragment_id": "67210695",
+   "type": 1,
+   "heading": "Capítulo II — Constituição e estrutura orgânica dos FSCR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Constituição e estrutura orgânica dos FSCR"
+  },
+  "67200369": {
+   "fragment_id": "67210696",
+   "type": 11,
+   "heading": "Artigo 3.º — Constituição dos FSCR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Constituição dos FSCR\n\nA constituição dos FSCR depende de autorização a conceder mediante despacho conjunto dos Ministros das Finanças e da Economia, o qual definirá os elementos necessários ao funcionamento do FSCR a constituir, nomeadamente o capital inicial, a duração e, sem prejuízo do disposto no artigo seguinte, a entidade gestora do fundo."
+  },
+  "67200370": {
+   "fragment_id": "67210697",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração dos FSCR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Administração dos FSCR\n\n1 - Os FSCR são administrados por uma entidade especializada, a entidade gestora, indicada pelo Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), cujo capital social seja detido total ou maioritariamente pelo IAPMEI e ou pelo Instituto de Financiamento e Apoio ao Turismo (IFT).\n\n2 - Enquanto a entidade gestora referida no número anterior não vier a ser constituída, ou indicada pelo IAPMEI nos termos referidos no número anterior, a gestão dos FSCR será assegurada por este Instituto.\n\n3 - À entidade gestora compete, em nome e representação do fundo, praticar todos os actos necessários à sua boa administração, nos termos da lei e dos regulamentos aplicáveis.\n\n4 - Cabe à entidade gestora assegurar os meios técnicos e administrativos indispensáveis ao adequado funcionamento dos FSCR que estejam sob a sua gestão, de acordo com critérios de elevada diligência e competência profissional."
+  },
+  "67200371": {
+   "fragment_id": "67210698",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Remuneração da entidade gestora\n\nA entidade gestora, pelo exercício das funções de gestão dos FSCR, cobrará uma comissão de gestão a fixar por despacho conjunto dos Ministros das Finanças e da Economia, sob proposta do conselho geral."
+  },
+  "67200372": {
+   "fragment_id": "67210699",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho geral\n\n1 - Os FSCR terão um conselho geral, composto por três membros.\n\n2 - O presidente do conselho geral é designado pelo Ministro da Economia, um dos vogais é designado pelo Ministro das Finanças e o outro vogal pela entidade gestora do fundo.\n\n3 - Os membros do conselho geral exercem os seus mandatos por períodos renováveis de três anos, não auferindo quaisquer remunerações pelo exercício das suas funções.\n\n4 - O conselho geral reúne anualmente, após aprovação das contas dos FSCR, sem prejuízo de reunir sempre que necessário a convocação do seu presidente.\n\n5 - Compete ao conselho geral praticar, em nome e por conta dos FSCR, todos os actos necessários à realização do respectivo objecto, designadamente:\n\na) Aprovar, sob proposta da entidade gestora, os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nb) Deliberar sobre propostas de regulamentos relativos à configuração de instrumentos e à actividade dos FSCR;\n\nc) Aprovar operações em que a entidade gestora intervenha como beneficiária."
+  },
+  "67200373": {
+   "fragment_id": "67210700",
+   "type": 1,
+   "heading": "Capítulo III — Recursos, composição da carteira e contas dos FSCR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Recursos, composição da carteira e contas dos FSCR"
+  },
+  "67200374": {
+   "fragment_id": "67210701",
+   "type": 11,
+   "heading": "Artigo 7.º — Recursos dos FSCR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recursos dos FSCR\n\n1 - Os FSCR disporão dos seguintes recursos:\n\na) Contribuições do Estado Português e ou da União Europeia, designadamente as previstas nos fundos estruturais relativos ao POE 2000-2006, sujeitando-se as operações, neste caso, às orientações fixadas pela correspondente estrutura de gestão;\n\nb) Rendimentos provenientes da aplicação dos seus recursos;\n\nc) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos.\n\n2 - O capital inicial dos FSCR é composto por recursos provenientes do POE 2000-2006, nos termos da alínea a) do número anterior, podendo ser aumentado ao longo do respectivo período de duração, mediante novas entradas, nos termos e condições fixados nos regulamentos aplicáveis."
+  },
+  "67209375": {
+   "fragment_id": "67210702",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição da carteira dos FSCR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição da carteira dos FSCR\n\n1 - Podem integrar a carteira dos FSCR os seguintes activos:\n\na) Partes representativas do capital social de sociedades comerciais integradas no conceito de PME, nomeadamente em acções e quotas;\n\nb) Obrigações emitidas por sociedades comerciais integradas no conceito de PME;\n\nc) Obrigações emitidas por sociedades de capital de risco, sociedades de investimento e sociedades de desenvolvimento regional;\n\nd) Unidades de participação de fundos de investimento de capital de risco;\n\ne) Títulos de dívida pública;\n\nf) Liquidez, a título acessório.\n\n2 - São abrangidos pelo conceito de liquidez mencionado na alínea f) do número anterior valores mobiliários cujo prazo de vencimento não exceda 12 meses, depósitos em instituições de créditos e certificados de depósitos."
+  },
+  "67209376": {
+   "fragment_id": "67210703",
+   "type": 11,
+   "heading": "Artigo 9.º — Operações vedadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Operações vedadas\n\nEstá vedada à entidade gestora a realização de operações que envolvam a contracção de empréstimos em nome dos FSCR."
+  },
+  "67209377": {
+   "fragment_id": "67210704",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acompanhamento\n\nCabe ao IAPMEI e ao IFT, no âmbito das respectivas competências, o acompanhamento regular da actividade dos FSCR, designadamente no que respeita ao cumprimento das leis e regulamentos que lhes sejam aplicáveis."
+  },
+  "67209378": {
+   "fragment_id": "67210705",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\nA fiscalização dos FSCR é exercida pela Inspecção-Geral de Finanças, competindo-lhe velar pelo cumprimento das leis e regulamentos que lhe são aplicáveis e emitir parecer sobre as suas contas anuais, as quais lhe deverão ser enviadas até ao dia 1 de Março de cada ano, acompanhadas do relatório produzido pelo auditor externo.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042) As alterações introduzidas pelo decreto-lei 74/2015, de 11 de maio a este artigo, aplicam-se ao envio e submissão dos relatórios e contas dos fundos de sindicação de capital de risco relativamente ao exercício findo em 31 de dezembro de 2009 e aos exercícios seguintes."
+  },
+  "67209379": {
+   "fragment_id": "67210706",
+   "type": 11,
+   "heading": "Artigo 12.º — Períodos de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Períodos de exercício\n\nO período de exercício dos FSCR corresponde ao ano civil."
+  },
+  "67209380": {
+   "fragment_id": "67210707",
+   "type": 11,
+   "heading": "Artigo 13.º — Plano de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Plano de contas\n\nO plano de contas dos FSCR é organizado de modo a permitir registar todas as operações realizadas pelo fundo e identificar claramente a sua estrutura patrimonial e de funcionamento."
+  },
+  "67209381": {
+   "fragment_id": "67210708",
+   "type": 11,
+   "heading": "Artigo 14.º — Relatório e aprovação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Relatório e aprovação de contas\n\n1 - A entidade gestora submeterá ao respectivo conselho geral, até 31 de Março de cada ano, os relatórios e contas da actividade dos FSCR relativos ao ano findo, acompanhados do parecer da Inspecção-Geral de Finanças e do relatório do auditor externo.\n\n2 - A entidade gestora apresentará aos Ministros das Finanças e da Economia os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias a contar da sua aprovação.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042) As alterações introduzidas pelo decreto-lei 74/2015, de 11 de maio a este artigo, aplicam-se ao envio e submissão dos relatórios e contas dos fundos de sindicação de capital de risco relativamente ao exercício findo em 31 de dezembro de 2009 e aos exercícios seguintes."
+  },
+  "67209382": {
+   "fragment_id": "67210709",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação de resultados\n\nOs lucros líquidos apurados pelos FSCR serão neles totalmente reinvestidos."
+  },
+  "67209383": {
+   "fragment_id": "67210710",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "67209384": {
+   "fragment_id": "67210711",
+   "type": 11,
+   "heading": "Artigo 16.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Extinção\n\n1 - O produto da liquidação dos FSCR resultante da sua extinção reverterá para a cobertura das iniciativas apoiadas por aqueles e ainda não concluídas.\n\n2 - No caso de o produto da liquidação não se esgotar, conforme o previsto no número anterior, o remanescente reverterá a favor de iniciativas nacionais de apoio às PME."
+  },
+  "67200364": {
+   "fragment_id": "67210691",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 187/2002\n\nde 21 de Agosto\n\nNos termos da Resolução do Conselho de Ministros n.º 103/2002, de 26 de Julho, que aprovou o Programa para a Produtividade e o Crescimento da Economia, foi delineado um conjunto de objectivos macroeconómicos para Portugal, os quais visam alcançar, entre outros, a convergência real com os países mais desenvolvidos da União Europeia, através do aumento significativo e sustentado da produtividade e da competitividade da economia portuguesa.\n\nNum plano microeconómico, no que respeita às empresas localizadas em Portugal, impõe-se uma profunda mudança das condições em que aquelas operam, nomeadamente ao nível da dinamização de mecanismos alternativos e inovadores de financiamento, alargando e diversificando a oferta de produtos e serviços financeiros ao dispor das empresas, em especial as de menor dimensão. Assim, a oferta de instrumentos financeiros que contribuam para o reforço da competitividade e capitalização das pequenas e médias empresas, fomentando a constituição de novas empresas de cariz inovador e produtivo, o reforço ou transmissão do capital das empresas já existentes, apresenta-se como um objectivo prioritário do Governo.\n\nNeste contexto assume especial importância o novo tipo de fundo que agora se cria - o fundo de sindicação de capital de risco -, instrumento que permitirá concretizar o apoio público às intervenções do capital de risco no quadro do Programa para a Produtividade e o Crescimento da Economia, dando execução a um mecanismo integrado no Programa Operacional da Economia (POE), previsto na Portaria n.º 37/2002, de 10 de Janeiro.\n\nFoi ouvida a Comissão do Mercado de Valores Mobiliários.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "67209404": {
+   "fragment_id": "67210694",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção e objecto",
+   "in_force_from": "2007-01-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+   ],
+   "markdown": "###### Artigo 2.º — Noção e objecto\n\n1 - Os FSCR são instrumentos de investimento que se traduzem num património autónomo com capital inicial fixo, mas susceptível de aumento ao longo do período de duração do fundo.\n\n2 - Os FSCR têm por objecto a realização de operações combinadas na área do capital de risco, através do investimento em participações no capital de empresas, do financiamento de entidades especializadas naquele domínio, da prestação de garantias e da celebração de contratos de opções de compra e opções de venda de acções de empresas em que participem entidades especializadas de capital de risco (EECR), tendo em vista o reforço da capitalização das empresas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+  },
+  "67209406": {
+   "fragment_id": "67210699",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho geral",
+   "in_force_from": "2007-01-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho geral\n\n1 - Os FSCR têm um conselho geral composto por um número máximo de nove membros.\n\n2 - O presidente do conselho geral é designado pelo ministro responsável pela área da economia, um dos vogais é designado pelo ministro responsável pela área das finanças, que substitui aquele nas suas faltas e impedimentos, o outro dos vogais é designado pela entidade gestora dos FSCR, sendo os restantes vogais designados pelos ministros que tutelam os recursos que venham a ser afectos àquele.\n\n3 - Os membros do conselho geral exercem os seus mandatos por períodos renováveis de três anos, não auferindo quaisquer remunerações pelo exercício das suas funções.\n\n4 - O conselho geral reúne ordinariamente pelo menos uma vez por trimestre, devendo reunir anualmente para aprovação das contas dos FSCR, sem prejuízo de reunir sempre que necessário, através de convocação do seu presidente, ou quando os seus membros estejam todos presentes e manifestem a vontade de efectuar a reunião e deliberar sobre determinado assunto.\n\n5 - Compete ao conselho geral praticar, em nome e por conta dos FSCR, todos os actos necessários à realização do respectivo objecto, designadamente:\n\na) Aprovar, sob proposta da entidade gestora, os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nb) Deliberar sobre propostas de regulamentos relativos à configuração de instrumentos e à actividade dos FSCR;\n\nc) Aprovar operações em que a entidade gestora intervenha como beneficiária.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+  },
+  "67209407": {
+   "fragment_id": "67210701",
+   "type": 11,
+   "heading": "Artigo 7.º — Recursos dos FSCR",
+   "in_force_from": "2007-01-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+   ],
+   "markdown": "###### Artigo 7.º — Recursos dos FSCR\n\n1 - Os FSCR dispõem dos seguintes recursos:\n\na) Contribuições do Estado Português e ou da União Europeia, sujeitando-se as operações, neste caso, às orientações fixadas pelas correspondentes estruturas de gestão;\n\nb) Rendimentos provenientes da aplicação dos seus recursos;\n\nc) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+  },
+  "67209409": {
+   "fragment_id": "67210702",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição da carteira dos FSCR",
+   "in_force_from": "2007-01-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+   ],
+   "markdown": "###### Artigo 8.º — Composição da carteira dos FSCR\n\n1 - Podem integrar a carteira dos FSCR os seguintes activos:\n\na) Partes representativas do capital social de sociedades comerciais, nomeadamente em acções e quotas, em particular das integradas no conceito de PME;\n\nb) Obrigações emitidas por sociedades comerciais, designadamente pelas integradas no conceito de PME;\n\nc) Créditos concedidos a entidades especializadas de capital de risco, em que se incluem, nomeadamente, as sociedades de capital de risco, as sociedades de investimento, as sociedades de desenvolvimento regional e os fundos de capital de risco;\n\nd) Unidades de participação de fundos de investimento de capital de risco;\n\ne) Títulos de dívida pública;\n\nf) Liquidez, a título acessório.\n\n2 - Para efeito do previsto nas alíneas c) e d) do número anterior, são consideradas entidades especializadas de capital de risco, para além das referidas na mesma alínea c), as reconhecidas pelo conselho geral dos FSCR, desde que demonstrem preencher cumulativamente os seguintes requisitos:\n\na) Exerçam como actividade principal a do capital de risco, certificada pela associação nacional representativa do sector;\n\nb) Possuam meios humanos com comprovada experiência no sector e detenham meios materiais adequados ao fim que prosseguem;\n\nc) Possuam um valor mínimo de capitais próprios consolidados idêntico ao que é legalmente exigido para o capital social mínimo das sociedades de capital de risco;\n\nd) Possuam contabilidade organizada nos termos da lei e as demonstrações financeiras que lhes sejam exigidas se apresentem certificadas e auditadas por revisor oficial de contas ou por este e por auditor externo.\n\n3 - São abrangidos pelo conceito de liquidez mencionado na alínea f) do número anterior valores mobiliários cujo prazo de vencimento não exceda 12 meses, depósitos em instituições de créditos e certificados de depósitos.\n\n4 - Podem ainda integrar a carteira dos FSCR, na partilha dos riscos inerentes a operações de capital de risco, garantias por estes prestadas, sob qualquer forma ou modalidade, e contratos de opções.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+  },
+  "67209388": {
+   "fragment_id": "67210712",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Julho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva.\n\nPromulgado em 2 de Agosto de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de de Agosto de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "67209412": {
+   "fragment_id": "67210693",
+   "type": 11,
+   "heading": "Artigo 1.º — Constituição, funcionamento e denominação dos fundos de sindicação de capital de risco",
+   "in_force_from": "2015-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+   ],
+   "markdown": "###### Artigo 1.º — Constituição, funcionamento e denominação dos fundos de sindicação de capital de risco\n\n1 - A constituição e o funcionamento dos fundos de sindicação de capital de risco, adiante designados apenas por FSCR, regem-se pelo presente diploma e, subsidiariamente, com as devidas adaptações, pelo regime jurídico aplicável aos fundos de capital de risco, com exclusão das competências da Comissão do Mercado de Valores Mobiliários nessa matéria.\n\n2 - A denominação dos FSCR deve conter a expressão «Fundo de Sindicação de Capital de Risco», seguida de uma menção que identifique a entidade gestora do fundo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+  },
+  "67209413": {
+   "fragment_id": "67210697",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração dos FSCR",
+   "in_force_from": "2015-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+   ],
+   "markdown": "###### Artigo 4.º — Administração dos FSCR\n\n1 - Os FSCR são administrados por uma entidade especializada, a entidade gestora, indicada pelo IAPMEI - Agência para a Competitividade e Inovação, I.P. (IAPMEI, I.P.), cujo capital social seja detido total ou maioritariamente pelo IAPMEI, I.P., e ou pelo Instituto do Turismo de Portugal, I.P. (Turismo de Portugal, I.P.).\n\n2 - Enquanto a entidade gestora referida no número anterior não vier a ser constituída, ou indicada pelo IAPMEI nos termos referidos no número anterior, a gestão dos FSCR será assegurada por este Instituto.\n\n3 - À entidade gestora compete, em nome e representação do fundo, praticar todos os actos necessários à sua boa administração, nos termos da lei e dos regulamentos aplicáveis.\n\n4 - Cabe à entidade gestora assegurar os meios técnicos e administrativos indispensáveis ao adequado funcionamento dos FSCR que estejam sob a sua gestão, de acordo com critérios de elevada diligência e competência profissional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+  },
+  "67209416": {
+   "fragment_id": "67210702",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição da carteira dos FSCR",
+   "in_force_from": "2015-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+   ],
+   "markdown": "###### Artigo 8.º — Composição da carteira dos FSCR\n\n1 - Podem integrar a carteira dos FSCR os seguintes activos:\n\na) Partes representativas do capital social de sociedades comerciais, nomeadamente em acções e quotas, em particular das integradas no conceito de PME;\n\nb) Obrigações emitidas por sociedades comerciais, designadamente pelas integradas no conceito de PME;\n\nCréditos concedidos a entidades especializadas de capital de risco, em que se incluem, nomeadamente, as sociedades de capital de risco, as sociedades de investimento em capital de risco, as sociedades gestoras de fundos de capital de risco, as sociedades de desenvolvimento regional e os fundos de capital de risco;\n\nd) Unidades de participação de fundos de capital de risco;\n\ne) Títulos de dívida pública;\n\nf) Liquidez, a título acessório.\n\n2 - Para efeito do previsto nas alíneas c) e d) do número anterior, são consideradas entidades especializadas de capital de risco, para além das referidas na mesma alínea c), as reconhecidas pelo conselho geral dos FSCR, desde que demonstrem preencher cumulativamente os seguintes requisitos:\n\na) Exerçam como actividade principal a do capital de risco, certificada pela associação nacional representativa do sector;\n\nb) Possuam meios humanos com comprovada experiência no sector e detenham meios materiais adequados ao fim que prosseguem;\n\nc) Possuam um valor mínimo de capitais próprios consolidados idêntico ao que é legalmente exigido para o capital social mínimo das sociedades de capital de risco;\n\nd) Possuam contabilidade organizada nos termos da lei e as demonstrações financeiras que lhes sejam exigidas se apresentem certificadas e auditadas por revisor oficial de contas ou por este e por auditor externo.\n\n3 - São abrangidos pelo conceito de liquidez mencionado na alínea f) do n.º 1 valores mobiliários cujo prazo de vencimento não exceda 12 meses, depósitos em instituições de créditos e certificados de depósitos.\n\n4 - Podem ainda integrar a carteira dos FSCR, na partilha dos riscos inerentes a operações de capital de risco, garantias por estes prestadas, sob qualquer forma ou modalidade, e contratos de opções.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+  },
+  "67209417": {
+   "fragment_id": "67210704",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 10.º — Acompanhamento\n\nCabe ao IAPMEI, I.P., e ao Turismo de Portugal, I.P., no âmbito das respetivas competências, o acompanhamento regular da atividade dos FSCR, designadamente no que respeita ao cumprimento das leis e regulamentos que lhes sejam aplicáveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-18"
+  },
+  "67209418": {
+   "fragment_id": "67210705",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": "2015-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+   ],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\nA fiscalização dos FSCR é exercida pela Inspeção-Geral de Finanças, competindo-lhe velar pelo cumprimento das leis e regulamentos que lhe são aplicáveis e emitir parecer sobre as suas contas anuais, as quais lhe deverão ser enviadas até ao dia 31 de maio de cada ano, acompanhadas do relatório produzido pelo auditor externo.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042) As alterações introduzidas pelo decreto-lei 74/2015, de 11 de maio a este artigo, aplicam-se ao envio e submissão dos relatórios e contas dos fundos de sindicação de capital de risco relativamente ao exercício findo em 31 de dezembro de 2009 e aos exercícios seguintes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+  },
+  "67209419": {
+   "fragment_id": "67210708",
+   "type": 11,
+   "heading": "Artigo 14.º — Relatório e aprovação de contas",
+   "in_force_from": "2015-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+   ],
+   "markdown": "###### Artigo 14.º — Relatório e aprovação de contas\n\n1 - A entidade gestora submeterá ao respetivo conselho geral, até 30 de junho de cada ano, os relatórios e contas da atividade dos FSCR relativos ao ano findo, acompanhados do parecer da Inspeção-Geral de Finanças e do relatório do auditor externo.\n\n2 - A entidade gestora apresentará aos Ministros das Finanças e da Economia os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias a contar da sua aprovação.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042) As alterações introduzidas pelo decreto-lei 74/2015, de 11 de maio a este artigo, aplicam-se ao envio e submissão dos relatórios e contas dos fundos de sindicação de capital de risco relativamente ao exercício findo em 31 de dezembro de 2009 e aos exercícios seguintes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+  },
+  "212452459": {
+   "fragment_id": "67210692",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452460": {
+   "fragment_id": "67210693",
+   "type": 11,
+   "heading": "Artigo 1.º — Constituição, funcionamento e denominação dos fundos de sindicação de capital de risco",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+   ],
+   "markdown": "###### Artigo 1.º — Constituição, funcionamento e denominação dos fundos de sindicação de capital de risco\n\n1 - A constituição e o funcionamento dos fundos de sindicação de capital de risco, adiante designados apenas por FSCR, regem-se pelo presente diploma e, subsidiariamente, com as devidas adaptações, pelo regime jurídico aplicável aos fundos de capital de risco, com exclusão das competências da Comissão do Mercado de Valores Mobiliários nessa matéria.\n\n2 - A denominação dos FSCR deve conter a expressão «Fundo de Sindicação de Capital de Risco», seguida de uma menção que identifique a entidade gestora do fundo.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+  },
+  "212452461": {
+   "fragment_id": "67210694",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção e objecto",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+   ],
+   "markdown": "###### Artigo 2.º — Noção e objecto\n\n1 - Os FSCR são instrumentos de investimento que se traduzem num património autónomo com capital inicial fixo, mas susceptível de aumento ao longo do período de duração do fundo.\n\n2 - Os FSCR têm por objecto a realização de operações combinadas na área do capital de risco, através do investimento em participações no capital de empresas, do financiamento de entidades especializadas naquele domínio, da prestação de garantias e da celebração de contratos de opções de compra e opções de venda de acções de empresas em que participem entidades especializadas de capital de risco (EECR), tendo em vista o reforço da capitalização das empresas.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+  },
+  "212452462": {
+   "fragment_id": "67210695",
+   "type": 1,
+   "heading": "Capítulo II — Constituição e estrutura orgânica dos FSCR",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "### Capítulo II — Constituição e estrutura orgânica dos FSCR\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452463": {
+   "fragment_id": "67210696",
+   "type": 11,
+   "heading": "Artigo 3.º — Constituição dos FSCR",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "###### Artigo 3.º — Constituição dos FSCR\n\nA constituição dos FSCR depende de autorização a conceder mediante despacho conjunto dos Ministros das Finanças e da Economia, o qual definirá os elementos necessários ao funcionamento do FSCR a constituir, nomeadamente o capital inicial, a duração e, sem prejuízo do disposto no artigo seguinte, a entidade gestora do fundo.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452464": {
+   "fragment_id": "67210697",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração dos FSCR",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+   ],
+   "markdown": "###### Artigo 4.º — Administração dos FSCR\n\n1 - Os FSCR são administrados por uma entidade especializada, a entidade gestora, indicada pelo IAPMEI - Agência para a Competitividade e Inovação, I.P. (IAPMEI, I.P.), cujo capital social seja detido total ou maioritariamente pelo IAPMEI, I.P., e ou pelo Instituto do Turismo de Portugal, I.P. (Turismo de Portugal, I.P.).\n\n2 - Enquanto a entidade gestora referida no número anterior não vier a ser constituída, ou indicada pelo IAPMEI nos termos referidos no número anterior, a gestão dos FSCR será assegurada por este Instituto.\n\n3 - À entidade gestora compete, em nome e representação do fundo, praticar todos os actos necessários à sua boa administração, nos termos da lei e dos regulamentos aplicáveis.\n\n4 - Cabe à entidade gestora assegurar os meios técnicos e administrativos indispensáveis ao adequado funcionamento dos FSCR que estejam sob a sua gestão, de acordo com critérios de elevada diligência e competência profissional.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+  },
+  "212452465": {
+   "fragment_id": "67210698",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração da entidade gestora",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "###### Artigo 5.º — Remuneração da entidade gestora\n\nA entidade gestora, pelo exercício das funções de gestão dos FSCR, cobrará uma comissão de gestão a fixar por despacho conjunto dos Ministros das Finanças e da Economia, sob proposta do conselho geral.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452466": {
+   "fragment_id": "67210699",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho geral",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho geral\n\n1 - Os FSCR têm um conselho geral composto por um número máximo de nove membros.\n\n2 - O presidente do conselho geral é designado pelo ministro responsável pela área da economia, um dos vogais é designado pelo ministro responsável pela área das finanças, que substitui aquele nas suas faltas e impedimentos, o outro dos vogais é designado pela entidade gestora dos FSCR, sendo os restantes vogais designados pelos ministros que tutelam os recursos que venham a ser afectos àquele.\n\n3 - Os membros do conselho geral exercem os seus mandatos por períodos renováveis de três anos, não auferindo quaisquer remunerações pelo exercício das suas funções.\n\n4 - O conselho geral reúne ordinariamente pelo menos uma vez por trimestre, devendo reunir anualmente para aprovação das contas dos FSCR, sem prejuízo de reunir sempre que necessário, através de convocação do seu presidente, ou quando os seus membros estejam todos presentes e manifestem a vontade de efectuar a reunião e deliberar sobre determinado assunto.\n\n5 - Compete ao conselho geral praticar, em nome e por conta dos FSCR, todos os actos necessários à realização do respectivo objecto, designadamente:\n\na) Aprovar, sob proposta da entidade gestora, os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nb) Deliberar sobre propostas de regulamentos relativos à configuração de instrumentos e à actividade dos FSCR;\n\nc) Aprovar operações em que a entidade gestora intervenha como beneficiária.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+  },
+  "212452467": {
+   "fragment_id": "67210700",
+   "type": 1,
+   "heading": "Capítulo III — Recursos, composição da carteira e contas dos FSCR",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "### Capítulo III — Recursos, composição da carteira e contas dos FSCR\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452468": {
+   "fragment_id": "67210701",
+   "type": 11,
+   "heading": "Artigo 7.º — Recursos dos FSCR",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+   ],
+   "markdown": "###### Artigo 7.º — Recursos dos FSCR\n\n1 - Os FSCR dispõem dos seguintes recursos:\n\na) Contribuições do Estado Português e ou da União Europeia, sujeitando-se as operações, neste caso, às orientações fixadas pelas correspondentes estruturas de gestão;\n\nb) Rendimentos provenientes da aplicação dos seus recursos;\n\nc) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos.\n\n2 - (Revogado).\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+  },
+  "212452469": {
+   "fragment_id": "67210702",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição da carteira dos FSCR",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+   ],
+   "markdown": "###### Artigo 8.º — Composição da carteira dos FSCR\n\n1 - Podem integrar a carteira dos FSCR os seguintes activos:\n\na) Partes representativas do capital social de sociedades comerciais, nomeadamente em acções e quotas, em particular das integradas no conceito de PME;\n\nb) Obrigações emitidas por sociedades comerciais, designadamente pelas integradas no conceito de PME;\n\nCréditos concedidos a entidades especializadas de capital de risco, em que se incluem, nomeadamente, as sociedades de capital de risco, as sociedades de investimento em capital de risco, as sociedades gestoras de fundos de capital de risco, as sociedades de desenvolvimento regional e os fundos de capital de risco;\n\nd) Unidades de participação de fundos de capital de risco;\n\ne) Títulos de dívida pública;\n\nf) Liquidez, a título acessório.\n\n2 - Para efeito do previsto nas alíneas c) e d) do número anterior, são consideradas entidades especializadas de capital de risco, para além das referidas na mesma alínea c), as reconhecidas pelo conselho geral dos FSCR, desde que demonstrem preencher cumulativamente os seguintes requisitos:\n\na) Exerçam como actividade principal a do capital de risco, certificada pela associação nacional representativa do sector;\n\nb) Possuam meios humanos com comprovada experiência no sector e detenham meios materiais adequados ao fim que prosseguem;\n\nc) Possuam um valor mínimo de capitais próprios consolidados idêntico ao que é legalmente exigido para o capital social mínimo das sociedades de capital de risco;\n\nd) Possuam contabilidade organizada nos termos da lei e as demonstrações financeiras que lhes sejam exigidas se apresentem certificadas e auditadas por revisor oficial de contas ou por este e por auditor externo.\n\n3 - São abrangidos pelo conceito de liquidez mencionado na alínea f) do n.º 1 valores mobiliários cujo prazo de vencimento não exceda 12 meses, depósitos em instituições de créditos e certificados de depósitos.\n\n4 - Podem ainda integrar a carteira dos FSCR, na partilha dos riscos inerentes a operações de capital de risco, garantias por estes prestadas, sob qualquer forma ou modalidade, e contratos de opções.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2007-522640), em vigor a partir de 2007-01-24"
+  },
+  "212452470": {
+   "fragment_id": "67210703",
+   "type": 11,
+   "heading": "Artigo 9.º — Operações vedadas",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "###### Artigo 9.º — Operações vedadas\n\nEstá vedada à entidade gestora a realização de operações que envolvam a contracção de empréstimos em nome dos FSCR.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452471": {
+   "fragment_id": "67210704",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 10.º — Acompanhamento\n\nCabe ao IAPMEI, I.P., e ao Turismo de Portugal, I.P., no âmbito das respetivas competências, o acompanhamento regular da atividade dos FSCR, designadamente no que respeita ao cumprimento das leis e regulamentos que lhes sejam aplicáveis.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-18"
+  },
+  "212452472": {
+   "fragment_id": "67210705",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+   ],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\nA fiscalização dos FSCR é exercida pela Inspeção-Geral de Finanças, competindo-lhe velar pelo cumprimento das leis e regulamentos que lhe são aplicáveis e emitir parecer sobre as suas contas anuais, as quais lhe deverão ser enviadas até ao dia 31 de maio de cada ano, acompanhadas do relatório produzido pelo auditor externo.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042) As alterações introduzidas pelo decreto-lei 74/2015, de 11 de maio a este artigo, aplicam-se ao envio e submissão dos relatórios e contas dos fundos de sindicação de capital de risco relativamente ao exercício findo em 31 de dezembro de 2009 e aos exercícios seguintes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+  },
+  "212452473": {
+   "fragment_id": "67210706",
+   "type": 11,
+   "heading": "Artigo 12.º — Períodos de exercício",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "###### Artigo 12.º — Períodos de exercício\n\nO período de exercício dos FSCR corresponde ao ano civil.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452474": {
+   "fragment_id": "67210707",
+   "type": 11,
+   "heading": "Artigo 13.º — Plano de contas",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "###### Artigo 13.º — Plano de contas\n\nO plano de contas dos FSCR é organizado de modo a permitir registar todas as operações realizadas pelo fundo e identificar claramente a sua estrutura patrimonial e de funcionamento.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452475": {
+   "fragment_id": "67210708",
+   "type": 11,
+   "heading": "Artigo 14.º — Relatório e aprovação de contas",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+   ],
+   "markdown": "###### Artigo 14.º — Relatório e aprovação de contas\n\n1 - A entidade gestora submeterá ao respetivo conselho geral, até 30 de junho de cada ano, os relatórios e contas da atividade dos FSCR relativos ao ano findo, acompanhados do parecer da Inspeção-Geral de Finanças e do relatório do auditor externo.\n\n2 - A entidade gestora apresentará aos Ministros das Finanças e da Economia os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias a contar da sua aprovação.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042) As alterações introduzidas pelo decreto-lei 74/2015, de 11 de maio a este artigo, aplicam-se ao envio e submissão dos relatórios e contas dos fundos de sindicação de capital de risco relativamente ao exercício findo em 31 de dezembro de 2009 e aos exercícios seguintes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+  },
+  "212452476": {
+   "fragment_id": "67210709",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação de resultados",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "###### Artigo 15.º — Aplicação de resultados\n\nOs lucros líquidos apurados pelos FSCR serão neles totalmente reinvestidos.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452477": {
+   "fragment_id": "67210710",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452478": {
+   "fragment_id": "67210711",
+   "type": 11,
+   "heading": "Artigo 16.º — Extinção",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "###### Artigo 16.º — Extinção\n\n1 - O produto da liquidação dos FSCR resultante da sua extinção reverterá para a cobertura das iniciativas apoiadas por aqueles e ainda não concluídas.\n\n2 - No caso de o produto da liquidação não se esgotar, conforme o previsto no número anterior, o remanescente reverterá a favor de iniciativas nacionais de apoio às PME.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  },
+  "212452479": {
+   "fragment_id": "67210712",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-05-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Julho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva.\n\nPromulgado em 2 de Agosto de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de de Agosto de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023, Série I de 2023-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2023-212379454), em vigor a partir de 2023-05-29"
+  }
+ }
+}

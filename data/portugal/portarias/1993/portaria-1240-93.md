@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:553588:por
+title: Portaria n.º 1240/93
+short_title: null
+summary: Altera o plano de estudos do curso de Direito ministrado nas instalações de Lisboa, Porto, Setúbal e Beja da DINENSINO
+  - Ensino, Desenvolvimento e Cooperação, C. R. L.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 1240/93
+official_date: null
+publication_date: '1993-12-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 283/1993, Série I-B de 1993-12-04
+  number: '283'
+  series: I
+  supplement: null
+  pages: 6772 - 6773
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/12/283b00/67726773.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1240/1993/12/04/p/dre/pt/html
+  oj: null
+  dre: '553588'
+  dre_path: /dr/detalhe/portaria/1240-1993-553588
+  internal: pt:dre:553588:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1240-1993-553588
+  metadata_url: https://data.dre.pt/eli/port/1240/1993/12/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1240-1993-553588
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-02-20T00:00:00Z'
+integrity:
+  source_sha256: c788199613b9713039eab8e281f94597fe507d950a4df4566809670edfa290e9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-1240-553588.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Plano de Estudos
+- Curso de Direito
+- Dinensino-ensino Desenvolvimento e Cooperação
+- Ensino Cooperativo
+- Lisboa
+- Setúbal
+- Beja
+- Ensino Superior
+- Porto
+relationships:
+- type: amended_by
+  target: pt:dre:189759:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/842/1993/09/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/842/1993/09/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/887/1993/09/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/887/1993/09/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/949/1991/09/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/949/1991/09/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/958/1991/09/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/958/1991/09/19/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1240/93
+
+de 4 de Dezembro
+
+Tendo em conta a fundamentação da proposta apresentada ao Ministério da Educação pela DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L., titular do estabelecimento de ensino superior particular com autorização de funcionamento de cursos de licenciatura reconhecidos pelas Portarias n.os [1061/89](https://diariodarepublica.pt/dr/detalhe/portaria/1061-1989-550582), de 9 de Dezembro, [949/91](https://diariodarepublica.pt/dr/detalhe/portaria/949-1991-301418), de 18 de Setembro, [842/93](https://diariodarepublica.pt/dr/detalhe/portaria/842-1993-661314), de 9 de Setembro, e [887/93](https://diariodarepublica.pt/dr/detalhe/portaria/887-1993-660749), de 16 de Setembro;
+
+Considerando que aquela proposta foi elaborada sob a responsabilidade do órgão científico-pedagógico e sujeita a adequada análise;
+
+Ao abrigo dos n.os 3 e 4 do artigo 26.º do [Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º É alterado o plano de estudos do curso de Direito ministrado nas instalações de Lisboa, Porto, Setúbal e Beja da DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L., de acordo com o anexo à presente portaria.
+
+2.º O novo plano de estudos substitui o aprovado pela [Portaria n.º 1061/89](https://diariodarepublica.pt/dr/detalhe/portaria/1061-1989-550582), de 9 de Dezembro, mantendo-se a autorização de funcionamento conferida pelas Portarias n.os [1078/90](https://diariodarepublica.pt/dr/detalhe/portaria/1078-1990-565431), de 24 de Outubro, [1084/90](https://diariodarepublica.pt/dr/detalhe/portaria/1084-1990-565412), de 26 de Outubro, e [958/91](https://diariodarepublica.pt/dr/detalhe/portaria/958-1991-301667), de 19 de Setembro.
+
+Ministério da Educação.
+
+**Assinada em 5 de Novembro de 1993.**
+
+Pelo Ministro da Educação, Pedro Augusto Lynce de Faria, Secretário de Estado do Ensino Superior.
+
+## ANEXO — Curso de Direito
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/283b00/67726773.pdf))](https://files.diariodarepublica.pt/1s/1993/12/283b00/67726773.pdf)

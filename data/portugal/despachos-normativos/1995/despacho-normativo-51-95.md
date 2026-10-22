@@ -1,0 +1,190 @@
+---
+schema_version: '1.0'
+id: pt:dre:551459:por
+title: Despacho Normativo n.º 51/95
+short_title: null
+summary: Atribui ao Serviço Nacional de Protecção Civil (SNPC) a missão de estudar e avaliar as declarações de prejuízos de
+  natureza social e correspondentes pedidos de subsídios apresentados pelas vítimas de incêndios florestais ocorridos na época
+  oficial de fogos florestais de 1995
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 51/95
+official_date: null
+publication_date: '1995-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 206/1995, Série I-B de 1995-09-06
+  number: '206'
+  series: I
+  supplement: null
+  pages: 5648 - 5650
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/09/206b00/56485650.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/51/1995/09/06/p/dre/pt/html
+  oj: null
+  dre: '551459'
+  dre_path: /dr/detalhe/despacho-normativo/51-1995-551459
+  internal: pt:dre:551459:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/51-1995-551459
+  metadata_url: https://data.dre.pt/eli/despnorm/51/1995/09/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/51-1995-551459
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-09-06T00:00:00Z'
+integrity:
+  source_sha256: 6f84ce16b45640297c8f94fad3275a6a0158d2631b1b373116d9b480d24d6427
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-51-551459.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Incêndio
+- Financiamento
+- Serviço Nacional de Protecção Civil
+- Definição de Competências
+- Junta de Freguesia
+- Câmara Municipal
+- Subsídio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/203/1993/06/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/203/1993/06/03/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 51/95
+
+Subsídios sociais às vítimas de incêndios florestais
+
+Portugal é afectado regularmente, em particular durante a época estival, por surtos de incêndios florestais, com consequências gravosas ao nível ambiental e patrimonial, mas também sobre as condições de vida daqueles que baseavam parte sensível dos seus rendimentos em bens consumidos pelo fogo.
+
+Pelo exposto, e porque importa atenuar o impacte sobre o Orçamento do Estado de eventuais subsídios de natureza social às vítimas, deve incentivar-se a população a recorrer ao normal mecanismo de protecção, através do seguro contra incêndios, assegurando assim a cobertura dos prejuízos.
+
+**O Ministro da Administração Interna, atento o disposto no artigo 8.º do [Decreto-Lei n.º 203/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1993-257591), de 3 de Junho, no uso dos poderes delegados pelo Despacho do Primeiro-Ministro n.º 60/91, de 5 de Dezembro, publicado no Diário da República, 2.ª série, de 14 de Dezembro de 1991, determina o seguinte:**
+
+1 - É atribuída ao Serviço Nacional de Protecção Civil (SNPC) a missão de estudar e avaliar as declarações de prejuízos de natureza social e correspondentes pedidos de subsídios apresentados pelas vítimas de incêndios florestais ocorridos na época oficial de fogos florestais de 1995, procedendo à atribuição de subsídios até ao montante global de 200000000$00.
+
+2 - Os subsídios a atribuir no âmbito deste despacho normativo destinam-se, única e exclusivamente, às populações de baixos recursos económicos que tenham ficado com grandes dificuldades para normalização das suas condições de vida.
+
+3 - Podem constituir objecto de subsídio social compensatório, quando ardidos total ou parcialmente, num incêndio florestal, os seguintes bens:
+
+Primeira habitação e seu recheio;
+
+Instalações rurais (palheiros, cortes, armazéns, arrecadações);
+
+Animais domésticos não incluídos em explorações industriais;
+
+Alfaias e equipamentos de lavoura não motorizados (atrelados, charruas, grades, alfaias manuais);
+
+Colheitas armazenadas a mais de 100 m da orla do povoado florestal ardido (palha, lenha, madeira);
+
+Explorações apícolas não industriais (colmeias habitadas, cortiços vazios, alças);
+
+Explorações não industriais de resina (bicas ou resina armazenada);
+
+Tubagem de rega (tubos, mangueiras);
+
+Outros bens não passíveis de constituírem objecto de seguro contra incêndio ou quando o prémio a liquidar se revele excessivo para a capacidade financeira do requerente.
+
+As tabelas de valorização dos bens ardidos serão aprovadas por despacho do presidente do SNPC.
+
+4 - São expressamente excluídos da concessão de qualquer tipo de subsídio compensatório de natureza social, no âmbito deste despacho normativo, os seguintes bens:
+
+Qualquer habitação que não a primeira;
+
+Quaisquer bens estacionados, empilhados ou armazenados a menos de 100 m da orla do povoamento florestal ardido;
+
+Alfaias e equipamento de lavoura motorizados;
+
+Viaturas automóveis de qualquer tipo;
+
+Instalações industriais ou comerciais de qualquer tipo;
+
+Cortiça;
+
+Outros bens passíveis de constituírem objecto de seguro contra incêndio, quando o prémio a liquidar se revele comportável para a capacidade financeira do requerente.
+
+5 - As declarações de prejuízos e pedidos de subsídio serão formulados pelos requerentes em impresso próprio, elaborado pelo SNPC, colocado gratuitamente nos governos civis, câmaras municipais e juntas de freguesia, através das delegações distritais de protecção civil.
+
+6 - O impresso referido no parágrafo anterior deve ser integralmente preenchido pelo requerente na parte aplicável e completado com a anexação dos seguintes documentos:
+
+6.1 - Documentos obrigatórios para todos os requerentes:
+
+Fotocópia do bilhete de identidade (frente e verso);
+
+Fotocópia da declaração de IRS referente a 1994 (todas as páginas) ou declaração da repartição de finanças competente certificando a não apresentação daquela declaração por não haver lugar à mesma.
+
+6.2 - Documentos a apresentar quando haja prejuízos sobre edificações:
+
+Fotocópia da inscrição matricial da propriedade atingida;
+
+Fotocópia do título de registo de propriedade;
+
+Quando não seja possível obter os dois documentos anteriores, pode ser apresentada declaração do próprio declarando a titularidade da edificação, sob compromisso de honra e autenticada pelo presidente da junta de freguesia.
+
+7 - O processo, depois de completamente instruído, deve ser presente ao presidente da junta de freguesia onde a propriedade ardida se situa até 15 dias contados consecutivamente após o termo do incêndio.
+
+8 - O presidente da junta de freguesia dispõe de 10 dias, contados consecutivamente, para completar o preenchimento na parte aplicável, devendo o processo ser imediatamente enviado à câmara municipal.
+
+9 - O presidente da câmara municipal dispõe de 20 dias, contados consecutivamente, para completar o preenchimento na parte aplicável, remetendo o processo para o governo civil.
+
+10 - O governador civil dispõe de 20 dias, contados consecutivamente, para confirmar e eventualmente esclarecer todo o processo, designadamente no que se refere às suas condições de admissibilidade, à data de ocorrência do incêndio, nos termos do disposto nos n.os 2 a 9 deste despacho normativo, ouvido o chefe da delegação distrital de protecção civil. Os processos homologados são, de imediato, enviados ao SNPC e os restantes devolvidos às câmaras municipais.
+
+11 - Todos os processos têm de dar entrada no SNPC até ao dia 15 de Dezembro do ano em que ocorreram os sinistros. Os processos entrados após esta data não poderão ser considerados.
+
+12 - Considerando que o montante global de subsídios a atribuir está limitado ao valor indicado no n.º 1, os processos serão analisados no SNPC de forma global, sendo os subsídios atribuídos de uma única vez e remetidos a cada governador civil, acompanhados de listagem de beneficiários e correspondentes valores de subsídio a atribuir.
+
+13 - Não serão liquidados subsídios sociais, no âmbito deste despacho normativo, de valor inferior a 5000$00, tal como consta da ficha de declaração de prejuízos e pedido de subsídio.
+
+14 - Será dado conhecimento às autoridades judiciais de todos os casos em que se verifiquem indícios de declarações fraudulentas, sendo suspensa a atribuição de quaisquer subsídios no âmbito deste despacho normativo.
+
+15 - A violação do disposto no [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, dará origem à instauração, de acordo com os casos, de procedimento disciplinar ou criminal.
+
+Ministério da Administração Interna, 24 de Agosto de 1995. - O Ministro da Administração Interna, Manuel Dias Loureiro.
+
+## ANEXO A — Tabelas de valores a aplicar
+
+Referentes ao n.º 3 do Despacho Normativo n.º 51/95
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/206b00/56485650.pdf))](https://files.diariodarepublica.pt/1s/1995/09/206b00/56485650.pdf)

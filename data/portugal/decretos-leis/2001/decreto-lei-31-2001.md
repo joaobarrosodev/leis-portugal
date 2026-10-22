@@ -1,0 +1,334 @@
+---
+schema_version: '1.0'
+id: pt:dre:319904:por
+title: Decreto-Lei n.º 31/2001
+short_title: null
+summary: Altera o Decreto-Lei n.º 394-B/84, de 26 de Dezembro, que aprova o Código do Imposto sobre o Valor Acrescentado,
+  o Decreto-Lei n.º 290/92, de 28 de Dezembro, que aprova o regime do IVA nas transacções intracomunitárias, e o Decreto-Lei
+  n.º 241/86, de 20 de Agosto, que estabelece as formalidades a observar pelos sujeitos passivos que optem pela aplicação
+  do IVA à transmissão ou locação de bens imóveis ou partes autónomas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 31/2001
+official_date: null
+publication_date: '2001-02-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/2001, Série I-A de 2001-02-08
+  number: '33'
+  series: I
+  supplement: null
+  pages: 654 - 657
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/02/033a00/06540657.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/31/2001/02/08/p/dre/pt/html
+  oj: null
+  dre: '319904'
+  dre_path: /dr/detalhe/decreto-lei/31-2001-319904
+  internal: pt:dre:319904:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2001-319904
+  metadata_url: https://data.dre.pt/eli/dec-lei/31/2001/02/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2001-319904
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2016-11-21T00:00:00Z'
+integrity:
+  source_sha256: 52c481020128f5dd816ed5333c88eee8a2568ae7e8021864b6ec4633231a2710
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-31-319904.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de Imóveis
+- Contribuições e Impostos
+- IVA
+- Isenção Fiscal
+- Locação Financeira
+- Troca Intracomunitária
+relationships:
+- type: amended_by
+  target: pt:dre:75774119:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/290/1992/12/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/290/1992/12/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/40/1993/02/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/40/1993/02/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 31/2001
+
+de 8 de Fevereiro
+
+Ao abrigo das autorizações legislativas constantes do n.º 13 do artigo 44.º da [Lei n.º 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), de 4 de Abril, que aprovou o Orçamento do Estado para 2000, vem o presente diploma proceder a alterações ao Código do Imposto sobre o Valor Acrescentado (Código do IVA) e a alguma legislação complementar.
+
+Tais alterações inserem-se, fundamentalmente, no âmbito de uma progressiva adopção de medidas legislativas visando, por um lado, objectivos de carácter social e, por outro, uma maior eficácia no combate à fraude e evasão fiscal.
+
+Naquele primeiro grupo de preocupações ressalta o aditamento do n.º 10 do artigo 15.º do Código do IVA, isentando de imposto as transmissões gratuitas de bens alimentares distribuídos pelas instituições particulares de solidariedade social e pelas organizações não governamentais sem fins lucrativos a pessoas carenciadas.
+
+No domínio das medidas de carácter social engloba-se ainda a inclusão na lista I anexa ao Código do IVA, referente aos bens e serviços tributados à taxa reduzida, de alguns produtos lácteos que não se encontravam aí contemplados.
+
+Em matéria de combate à fraude e evasão fiscal evidenciam-se o aditamento do n.º 4 ao artigo 19.º e a alteração do n.º 2 do artigo 33.º, ambos do Código do IVA, medidas que interagem complementarmente no sentido de criar mecanismos que permitam contrariar alguma tendência para a criação de empresas que, sem desenvolverem qualquer actividade nem disporem de meios para a vir a desenvolver, se integram no circuito económico como meros receptores ou emissores de facturas.
+
+No mesmo âmbito, embora reportadas a outras manifestações fraudulentas, se inserem as alterações aos artigos 24.º e 25.º do Código do IVA, determinando a passagem para 20 anos do período de regularização das eventuais deduções relacionadas com bens imóveis quando ocorra qualquer das situações aí previstas, tendo sido feita a correspondente adaptação do artigo 24.º-A do Código do IVA e do artigo 8.º do [Decreto-Lei n.º 241/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1986-219079), de 20 de Agosto.
+
+Na vertente do combate à fraude e evasão fiscal cabe ainda referir a alteração promovida ao artigo 22.º do regime do IVA nas transacções intracomunitárias, com vista a garantir mais eficazmente que as entidades que efectuem ocasionalmente aquisições intracomunitárias de veículos automóveis procedem à entrega nos cofres do Estado do correspondente imposto.
+
+As restantes alterações visam, de um modo geral, o ajustamento da redacção de alguns artigos do Código do IVA.
+
+Assim:
+
+No uso das autorizações legislativas concedidas no n.º 13 do artigo 44.º da [Lei n.º 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), de 4 de Abril, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Alterações ao Código do IVA
+
+Os artigos 15.º, 19.º, 20.º, 24.º, 24.º-A, 25.º, 33.º, 67.º, 70.º e 83.º-B do Código do Imposto sobre o Valor Acrescentado, aprovado pelo artigo 1.º do [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, passam a ter a redacção seguinte:
+
+«Artigo 15.º
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - Estão isentas do imposto as transmissões, a título gratuito, de bens alimentares, para posterior distribuição a pessoas carenciadas, efectuadas a instituições particulares de solidariedade social e a organizações não governamentais sem fins lucrativos.
+
+###### Artigo 19.º
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Não poderá igualmente deduzir-se o imposto que resulte de operações em que, com conhecimento do sujeito passivo, o transmitente dos bens ou prestador dos serviços, com a intenção de não entregar nos cofres do Estado o imposto liquidado, tenha declarado o exercício de uma actividade e não disponha de adequada estrutura empresarial susceptível de a exercer.
+
+###### Artigo 20.º
+
+1 - ...
+
+a) ...
+
+b) ...
+
+I) ...
+
+II) ...
+
+III) ...
+
+IV) Transmissões de bens e prestações de serviços abrangidas pelas alíneas b), c), d) e e) do n.º 1 e pelos n.os 8 e 10 do artigo 15.º;
+
+V) ...
+
+VI) ...
+
+2 - ...
+
+###### Artigo 24.º
+
+1 - ...
+
+2 - Serão também regularizadas anualmente as deduções efectuadas quanto às despesas de investimento em bens imóveis, se entre a percentagem definitiva a que se refere o artigo anterior aplicável no ano de ocupação do bem e em cada um dos 19 anos civis posteriores e a que tiver sido apurada no ano da aquisição ou da conclusão das obras houver uma diferença, para mais ou para menos, igual ou superior a cinco pontos percentuais.
+
+3 - ...
+
+a) No final do ano em que se iniciou a utilização ou ocupação e de cada um dos 4 ou 19 anos civis seguintes àquele, consoante o caso, calcular-se-á o montante da dedução que teria lugar na hipótese de a aquisição ou conclusão das obras em bens imóveis se ter verificado no ano em consideração, de acordo com a percentagem definitiva desse mesmo ano;
+
+b) ...
+
+c) A diferença positiva ou negativa dividir-se-á por 5 ou por 20, conforme o caso, sendo o resultado a quantia a pagar ou a dedução complementar a efectuar no respectivo ano.
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+###### Artigo 24.º-A
+
+1 - ...
+
+a) ...
+
+b) No caso de bens imóveis adquiridos ou concluídos no ano da alteração do regime de tributação e nos 19 anos civis anteriores, o imposto dedutível será proporcional ao número de anos que faltem para completar o período de 20 anos a partir do ano da ocupação dos bens;
+
+c) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 25.º
+
+1 - A não utilização em fins da empresa de bens imóveis relativamente aos quais houve dedução do imposto durante 1 ou mais anos civis completos após o início do período de 19 anos referido no n.º 2 do artigo 24.º dará lugar à regularização anual de 1/20 da dedução efectuada, que deverá constar da declaração do último período do ano a que respeita.
+
+2 - ...
+
+###### Artigo 33.º
+
+1 - ...
+
+2 - Independentemente dos factos previstos no número anterior, pode ainda a administração fiscal declarar oficiosamente a cessação de actividade quando for manifesto que esta não está a ser exercida nem há a intenção de a continuar a exercer, ou sempre que o sujeito passivo tenha declarado o exercício de uma actividade sem que possua uma adequada estrutura empresarial susceptível de a exercer.
+
+###### Artigo 67.º
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - No caso de passagem do regime especial de tributação prevista no artigo 60.º para o regime normal, a declaração a que se refere a alínea c) do n.º 1 deve ser apresentada no prazo previsto na alínea b) do mesmo número e reportar-se à parte do período anual em que o sujeito passivo esteve enquadrado no regime especial dos pequenos retalhistas.
+
+###### Artigo 70.º
+
+1 - Para efeitos do cumprimento das obrigações do presente diploma, considera-se serviço de finanças ou tesouraria de finanças competente a da área fiscal onde o contribuinte tiver a sua sede, estabelecimento principal ou, na falta deste, o domicílio.
+
+2 - Tratando-se de sujeitos passivos titulares de rendimentos sujeitos a IRS, considera-se serviço de finanças ou tesouraria de finanças competente a da área do respectivo domicílio fiscal.
+
+3 - Para os contribuintes, pessoas singulares ou colectivas, com domicílio ou sede fora do território nacional, o serviço de finanças ou tesouraria de finanças competente será a da área fiscal onde estiver situado o estabelecimento estável ou, na falta deste, a da área fiscal da sede, estabelecimento principal ou domicílio do representante.
+
+4 - No caso de não existência de um estabelecimento estável ou de representante, considerar-se-á competente o serviço de finanças ou tesouraria de finanças da área fiscal da sede, estabelecimento principal ou domicílio do adquirente, nos termos do n.º 3 do artigo 29.º
+
+5 - Não obstante o disposto nos números anteriores, para efeitos de cumprimento das obrigações previstas nos artigos 30.º, 31.º e 32.º, a entrega das declarações aí previstas, quer através dos respectivos impressos oficiais, quer quando substituídos pela declaração verbal, nos termos do artigo 34.º-A, poderá ser efectuada em qualquer serviço de finanças que disponha dos meios informáticos adequados ao cadastro único.
+
+###### Artigo 83.º-B
+
+1 - Sempre que o sujeito passivo seja devedor de IVA, os serviços competentes da Direcção-Geral dos Impostos levarão em conta, por dedução, as diferenças de imposto apuradas ou confirmadas pelos serviços e respectivos acréscimos legais até à concorrência do montante do reembolso pedido, sem prejuízo do disposto no n.º 7 do artigo 22.º
+
+2 - Não haverá lugar à dedução prevista no número anterior se o contribuinte o requerer e a execução se encontre suspensa nos termos legais, ou, não havendo ainda execução, se se demonstrar que se encontra pendente recurso hierárquico, reclamação ou impugnação judicial e seja prestada garantia até ao valor do reembolso.
+
+3 - O disposto no número anterior não se aplica quando o fundamento da suspensão for o previsto no n.º 4 do artigo 52.º da lei geral tributária.
+
+4 - O reembolso será pago no prazo de 30 dias a contar da apresentação do requerimento previsto no n.º 2, libertando-se de imediato a garantia referida na parte final do mesmo número após a decisão tornada definitiva no processo administrativo ou transitado em julgado o processo judicial, quando favoráveis ao contribuinte.
+
+5 - Não sendo a decisão favorável ao contribuinte, a garantia prevista na parte final do n.º 2 reverterá a favor do pagamento do imposto que ainda se encontrar em dívida.»
+
+###### Artigo 2.º — Aditamento à lista I anexa ao Código do IVA
+
+São aditadas à lista I anexa ao Código do Imposto sobre o Valor Acrescentado as verbas 1.4.7 e 1.4.8, com a seguinte redacção:
+
+«1.4.7 - Leites chocolatados, aromatizados, vitaminados ou enriquecidos.
+
+1.4.8 - Bebidas lácteas infantis.»
+
+###### Artigo 3.º — Aditamento à lista II anexa ao Código do IVA
+
+É aditada à lista II anexa ao Código do Imposto sobre o Valor Acrescentado a verba 1.12, com a seguinte redacção:
+
+«1.12 - Aperitivos à base de produtos hortícolas e sementes.»
+
+###### Artigo 4.º — Alteração ao [Decreto-Lei n.º 290/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1992-621714), de 28 de Dezembro
+
+O artigo 22.º do regime do IVA nas transacções intracomunitárias (RITI), aprovado pelo [Decreto-Lei n.º 290/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1992-621714), de 28 de Dezembro, passa a ter a redacção seguinte:
+
+«Artigo 22.º
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Não obstante o disposto no número anterior, os particulares e os sujeitos passivos que não possuam o estatuto de operador registado, a que se refere o artigo 15.º do [Decreto-Lei n.º 40/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), de 18 de Fevereiro, deverão pagar o imposto devido pelas aquisições intracomunitárias de veículos automóveis sujeitos a imposto automóvel junto das entidades competentes para a cobrança deste imposto.
+
+5 - ...
+
+6 - ...»
+
+###### Artigo 5.º — Alteração ao [Decreto-Lei n.º 241/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1986-219079), de 20 de Agosto
+
+O artigo 8.º do [Decreto-Lei n.º 241/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1986-219079), de 20 de Agosto, passa a ter a redacção seguinte:
+
+«Artigo 8.º
+
+Por cada imóvel ou parte autónoma relativamente aos quais foi exercida a renúncia à isenção prevista nos n.os 4 e 5 do artigo 12.º do Código do IVA será instaurado um processo na repartição de finanças da área da localização do imóvel, o qual será objecto de informação anual durante um período de 20 anos.»
+
+###### Artigo 6.º — Disposições finais
+
+1 - A nova redacção dada aos artigos 24.º, 24.º-A e 25.º do Código do IVA e ao artigo 8.º do [Decreto-Lei n.º 241/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1986-219079), de 20 de Agosto, é aplicável aos bens imóveis cuja aquisição ou conclusão das obras tenha ocorrido a partir da data da entrada em vigor do presente diploma, mantendo-se a aplicação do regime anterior relativamente às situações ocorridas até àquela data.
+
+2 - A nova redacção dada ao n.º 4 do artigo 22.º do RITI entra em vigor em 1 de Julho de 2001.
+
+Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura.
+
+**Promulgado em 18 de Janeiro de 2001.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 25 de Janeiro de 2001.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

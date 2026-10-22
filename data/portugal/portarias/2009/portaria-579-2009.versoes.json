@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:494261:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-937446099",
+ "dre_path": "/dr/detalhe/portaria/579-2009-494261",
+ "source_lastmod": "2025-09-30",
+ "versions": [
+  {
+   "date": "2009-06-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "937298135"
+   ]
+  }
+ ],
+ "fragments": {
+  "937298135": {
+   "fragment_id": "937446100",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 579/2009\n\nde 2 de Junho\n\nA Lei n.º 44/2004, de 19 de Agosto, definiu o regime jurídico da assistência nos locais destinados a banhistas, remetendo para diploma complementar a qualificação, como praias de banhos, das praias marítimas e das praias de águas fluviais e lacustres.\n\nAs praias ora designadas como praias de banhos atendem às águas balneares identificadas no âmbito da Directiva n.º 76/160/CEE, uma vez que são essas que apresentam as características adequadas para a prática balnear.\n\nAssim:\n\nAo abrigo do disposto nas alíneas b), c) e d) do artigo 2.º da Lei n.º 44/2004, de 19 de Agosto, manda o Governo, pelos Ministros da Defesa Nacional e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, o seguinte:"
+  }
+ }
+}

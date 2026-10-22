@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:469638:por
+title: Decreto-Lei n.º 45554
+short_title: null
+summary: Insere disposições destinadas a regular o abate de alunos ao efectivo da Academia Militar
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Exército - Repartição do Gabinete
+proposing_entity: null
+official_number: '45554'
+official_date: null
+publication_date: '1964-02-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 32/1964, Série I de 1964-02-07
+  number: '32'
+  series: I
+  supplement: null
+  pages: 259 - 260
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/02/03200/02590260.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '469638'
+  dre_path: /dr/detalhe/decreto-lei/45554-1964-469638
+  internal: pt:dre:469638:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45554-1964-469638
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45554-1964-469638
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1964-02-07T00:00:00Z'
+integrity:
+  source_sha256: bc5b7f9a756d90b4c94a6980cd4187f07b3069da5d994523d3258d07f9fd4954
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1964/DRE-1964-45554-469638.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45554
+
+Atendendo a que convém reunir num só diploma todos o casos de abate ao efectivo da Academia Militar;
+
+Atendendo a que se não encontra perfeitamente definido o procedimento a aplicar aos alunos nestas condições;
+
+Considerando que as despesas com a frequência da Academia Militar são encargo do estado e que algumas das cadeiras professadas têm equivalência às correspondentes professadas na Universidade;
+
+Considerando que é de permitir o abate ao efectivo daquele estabelecimento de ensino dos alunos que o requeiram e se torna, portanto, necessário regular as obrigações a que ficam sujeitos;
+
+Usando da faculdade conferida na 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º São abatidos ao efectivo da Academia Militar:
+
+a) Os alunos que reprovem em dois anos escolares durante a frequência da Academia, ou três, se alguma das perdas de ano for motivada por doença resultante de desastre em serviço;
+
+b) Os alunos que, em qualquer altura do curso, revelem falta de aptidão militar;
+
+c) Os alunos que, em qualquer altura do curso, revelem falta de qualidades morais;
+
+d) Os alunos eliminados por incapacidade física;
+
+e) Os alunos do curso de Engenharia que fiquem reprovados em dois anos escolares durante a frequência do Instituto Superior Técnico ou de escolas estrangeiras;
+
+f) Os alunos do curso de Aeronáutica, já pilotos militares, que não obtiverem informação favorável na instrução de pilotagem;
+
+g) Os alunos do curso de Aeronáutica que, não sendo ainda pilotos militares, forem considerados inaptos para a pilotagem e não desejem ingressar noutro curso da Academia Militar para o qual reúnam as necessárias condições;
+
+h) Os alunos eliminados por motivos disciplinares;
+
+i) Os alunos eliminados nos tirocínios ou estágios;
+
+j) Os cadetes alunos eliminados por terem contraído matrimónio;
+
+l) Os alunos que o requeiram.
+
+###### Art. 2.º Os alunos abatidos ao efectivo da Academia Militar são obrigados a, dentro de um dos escalões de indemnização considerados no artigo 3.º, reparar o Estado de todas ou parte das despesas efectuadas com os seus estudos, alojamento, alimentação e fardamento.
+
+###### Art. 3.º A reparação ao Estado pode compreender:
+
+Escalão A:
+
+1. Entrega do material escolar recuperável;
+
+2. Entrega de uma quantia equivalente ao montante das propinas das cadeiras propedéuticas da Academia equivalentes às das várias Faculdades que o aluno tenha frequentado, acrescida, se for caso disso, com o montante das propinas das cadeiras frequentadas no Instituto Superior Técnico ou escolas estrangeiras em cumprimento do plano do curso;
+
+3. Entrega do fardamento recebido.
+
+Escalão B:
+
+1. Entrega de uma quantia equivalente ao montante das propinas das cadeiras propedêuticas da Academia equivalentes às das várias Faculdades que o aluno tenha frequentado, acrescida, se for caso disso, com o montante das propinas das cadeiras frequentadas no Instituto Superior Técnico ou escolas estrangeiras em cumprimento do plano do curso;
+
+2. Indemnização correspondente a 50 por cento do total das despesas feitas pelo Estado com o alojamento, estudos, alimentação e fardamento do aluno.
+
+Escalão C:
+
+1. Entrega de uma quantia equivalente ao montante das propinas das cadeiras propedêuticas da Academia equivalentes às das várias Faculdades que o aluno tenha frequentado, acrescida, se for caso disso, com montante das propinas das cadeiras frequentadas no Instituto Superior Técnico ou escolas estrangeiras em cumprimento do plano do curso;
+
+2. Indemnização do total das despesas feitas pelo Estado com o alojamento, estudos, alimentação e fardamento do aluno.
+
+###### Art. 4.º O montante da reparação ao Estado será calculado pela Academia Militar, com base no fixado no artigo 3.º, e submetido à aprovação do Ministro do Exército.
+
+###### Art. 5.º Ficam constituídos na obrigação de satisfazer ao Estado a reparação constante do escalão A:
+
+a) Os alunos abatidos, a seu pedido, ao efectivo da Academia Militar durante o 1.º ano do curso;
+
+b) Os alunos do curso de Aeronáutica abatidos ao efectivo por, não sendo ainda pilotos militares, terem sido considerados inaptos para a pilotagem e não desejarem ingressar noutro curso da Academia Militar para o qual reúnam as necessárias condições;
+
+c) Os alunos eliminados por incapacidade física.
+
+§ único. Os alunos considerados nas alíneas b) e c) são dispensados de satisfazer a indemnização fixada no n.º 2 do escalão A.
+
+###### Art. 6.º Ficam constituídos na obrigação de satisfazer ao Estado a reparação constante do escalão B:
+
+a) Os alunos abatidos ao efectivo, a seu pedido, em qualquer ano do curso que não o primeiro;
+
+b) Os alunos abatidos ao efectivo por falta de aproveitamento escolar;
+
+c) Os alunos abatidos ao efectivo por falta de aptidão militar;
+
+d) Os alunos do curso de Aeronáutica abatidos ao efectivo por, sendo já pilotos militares, não terem obtido informação favorável na instrução de pilotagem.
+
+§ único. Em circunstâncias especiais a considerar para cada caso, poderá o Ministro do Exército atenuar o montante da indemnização fixado com base no presente artigo.
+
+###### Art. 7.º Ficam constituídos na obrigação de satisfazer ao Estado a reparação constante do escalão C:
+
+a) Os alunos abatidos ao efectivo por falta de qualidades morais;
+
+b) Os alunos abatidos ao efectivo por motivos disciplinares;
+
+c) Os cadetes alunos abatidos ao efectivo por terem contraído matrimónio.
+
+###### Art. 8.º Os alunos abatidos ao efectivo da Academia Militar que não tenham cumprido a obrigação normal de serviço militar cumprirão esta de acordo com a sua aptidão e preparação militar nos termos seguintes:
+
+a) Os cadetes eliminados por motivos disciplinares ou de ordem moral serão aumentados ao efectivo do Exército ou da Força Aérea como soldados e, conforme os motivos ou circunstâncias particulares da sua eliminação, incorporados nas unidades activas ou nas companhias disciplinares;
+
+b) Os cadetes dos cursos das forças terrestres que tenham tido aproveitamento na instrução militar geral, ministrada no 1.º ou 2.º ano, são aumentados ao Exército como soldados cadetes e destinados à frequência do 2.º ciclo do curso de oficiais milicianos;
+
+c) Os cadetes abatidos no 3.º ou 4.º ano dos cursos das forças terrestres e que tenham tido aproveitamento na instrução táctica da respectiva arma ou serviço são aumentados no Exército como aspirantes a oficial miliciano do quadro de complemento;
+
+d) Os alferes alunos dos cursos de Engenharia abatidos durante a frequência do Instituto Superior Técnico ou escolas estrangeiras e os oficiais alunos abatidos durante a frequência do tirocínio são aumentados, no posto respectivo, aos quadros de complemento do Exército ou da Força Aérea, conforme os casos;
+
+e) Os alunos do curso de Aeronáutica abatidos ao efectivo da Academia Militar e que tenham tido aproveitamento na instrução de pilotagem ingressam nos cursos de oficiais milicianos pilotos aviadores. Os que tiverem, pelo menos, o 2.º ano frequentarão aquele curso como aspirantes a oficial miliciano e os restantes como soldados cadetes;
+
+f) Os alunos do curso de Aeronáutica abatidos por, não sendo ainda pilotos militares, terem sido considerados inaptos para a pilotagem e não desejarem ingressar noutro curso da Academia a que podiam ser destinados são aumentados ao Exército como soldados cadetes e frequentarão o curso de oficiais milicianos, apenas no 2.º ciclo ou na totalidade, conforme tenham ou não tido aproveitamento na instrução militar geral ministrada no 1.º ou 2.º ano do curso.
+
+§ 1.º Aos alunos, oficiais e sargentos do quadro de complemento admitidos nos termos dos artigos 32.º, 33.º, 34.º e 37.º do [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, será apenas contado o tempo de serviço prestado até à data de ingresso na Academia Militar.
+
+§ 2.º Só poderão ser concedidos adiamentos de incorporação aos alunos:
+
+1. Abatidos, a seu pedido, durante o 1.º ano do curso;
+
+2. Abatidos, a seu pedido, por razões imprevistas e graves da sua vida particular, devidamente comprovadas e justificadas;
+
+3. Eliminados por razões de saúde.
+
+###### Art. 9.º Os alunos abatidos ao efectivo da Academia Militar e que não satisfaçam a reparação financeira fixada nos escalões B e C serão obrigados à prestação de dois anos de serviço nas fileiras, além do tempo normal de serviço que lhes competir.
+
+§ único. O aumento de tempo de serviço será normalmente cumprido no ultramar.
+
+###### Art. 10.º Aos alunos abatidos só poderá ser passada certidão das cadeiras da Academia Militar em que tenham obtido aproveitamento, mediante prova de que foi satisfeito o pagamento das propinas exigidas e após terem cumprido todo o tempo nas fileiras a que, nos termos do artigo 9.º, são obrigados.
+
+###### Art. 11.º As disposições do presente decreto-lei aplicam-se desde já aos alunos que requeiram o seu abate à Academia Militar, ao abrigo da alínea l) do artigo 1.º, e passam a ter completa aplicação aos alunos admitidos à mesma Academia a partir do ano lectivo de 1963-1964.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 7 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
+
+Para ser presente à Assembleia Nacional.

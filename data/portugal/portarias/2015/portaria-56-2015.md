@@ -1,0 +1,871 @@
+---
+schema_version: '1.0'
+id: pt:dre:66619895:por
+title: Portaria n.º 56/2015
+short_title: null
+summary: Estabelece o regime de aplicação da ação n.º 7.3, «Pagamentos Rede Natura», integrada na medida n.º 7, «Agricultura
+  e recursos naturais», da área n.º 3, «Ambiente, eficiência no uso dos recursos e clima», do Programa de Desenvolvimento
+  Rural do Continente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e do Mar
+proposing_entity: null
+official_number: 56/2015
+official_date: null
+publication_date: '2015-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2015, Série I de 2015-02-27
+  number: '41'
+  series: I
+  supplement: null
+  pages: 1222 - 1232
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/02/04100/0122201232.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-02-28'
+version_history:
+  file: portaria-56-2015.versoes.json
+  count: 9
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-27'
+    amending: pt:dre:67289946:por
+    amending_title: Portaria n.º 151/2015
+    changes:
+    - Altera Artigo 20.º
+  - date: '2015-10-21'
+    amending: pt:dre:70748599:por
+    amending_title: Portaria n.º 374/2015
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 18.º
+    - Altera Artigo 26.º
+  - date: '2016-01-19'
+    amending: pt:dre:73163704:por
+    amending_title: Portaria n.º 4/2016
+    changes:
+    - Altera Artigo 32.º
+  - date: '2016-06-01'
+    amending: pt:dre:74590179:por
+    amending_title: Portaria n.º 154-B/2016
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 30.º
+    - Revoga Artigo 10.º
+  - date: '2017-01-01'
+    amending: pt:dre:105643559:por
+    amending_title: Portaria n.º 338-A/2016
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Anexo V
+  - date: '2018-04-07'
+    amending: pt:dre:114952497:por
+    amending_title: Portaria n.º 91/2018
+    changes:
+    - Altera Artigo 32.º
+  - date: '2018-05-22'
+    amending: pt:dre:115360040:por
+    amending_title: Portaria n.º 144/2018
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º
+    - Altera Anexo V
+  - date: '2023-02-28'
+    amending: pt:dre:207942905:por
+    amending_title: Portaria n.º 54-K/2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Anexo II
+    - Altera Anexo III
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/56/2015/p/cons/20230329/pt/html
+  oj: null
+  dre: '66619895'
+  dre_path: /dr/detalhe/portaria/56-2015-66619895
+  internal: pt:dre:66619895:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-2015-66619895
+  metadata_url: https://data.dre.pt/eli/port/56/2015/p/cons/20230329/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-67647882
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-67647882
+  retrieved_at: '2026-10-22T12:00:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 156bf6911f55030b21a76e14d9b4632951a904585ea32a6dd593534973d9538b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:00:37Z'
+  notes: 9 versão(ões); histórico completo em portaria-56-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proder
+- Programa de Desenvolvimento Rural
+- Financiamento
+- Desenvolvimento Rural
+- Compensação Financeira
+- Pagamento
+- IFAP
+- Proteção do Ambiente
+- Diversidade Biológica
+- Gestão do Ambiente
+- Agricultor
+- Regime de Apoio
+- Regulamento CE
+- Pecuária
+- Agricultura
+- Subsídio não Reembolsável
+- Rede Natura 2000
+- Medida N.º 7 Agricultura e Recursos Naturais
+- PDR 2020
+relationships:
+- type: amended_by
+  target: pt:dre:67289946:por
+  label: Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/151-2015-67289946
+  date: '2015-05-26'
+- type: amended_by
+  target: pt:dre:70748599:por
+  label: Altera Artigo 9.º; Altera Artigo 18.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599
+  date: '2015-10-20'
+- type: amended_by
+  target: pt:dre:73163704:por
+  label: Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704
+  date: '2016-01-18'
+- type: amended_by
+  target: pt:dre:74590179:por
+  label: Altera Artigo 13.º; Altera Artigo 30.º; Revoga Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/154-b-2016-74590179
+  date: '2016-05-31'
+- type: amended_by
+  target: pt:dre:105643559:por
+  label: Altera Artigo 2.º; Altera Artigo 6.º; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:114952497:por
+  label: Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/91-2018-114952497
+  date: '2018-04-02'
+- type: amended_by
+  target: pt:dre:115360040:por
+  label: Altera Artigo 13.º; Altera Artigo 18.º; Altera Artigo 21.º; Altera Artigo 26.º; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040
+  date: '2018-05-21'
+- type: amended_by
+  target: pt:dre:207942905:por
+  label: Altera Artigo 2.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Anexo II; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/54-k-2023-207942905
+  date: '2023-02-27'
+- type: cites
+  target: celex:31992L0043
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/43/oj
+- type: cites
+  target: celex:32009L0147
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/147/oj
+- type: cites
+  target: celex:32013R1305
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1305/oj
+- type: cites
+  target: celex:32013R1306
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1306/oj
+- type: cites
+  target: celex:32014R0640
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/640/oj
+- type: cites
+  target: celex:32014R0809
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/809/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/156-a/2013/11/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/156-a/2013/11/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/49/2005/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/49/2005/02/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/68/1993/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/68/1993/09/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/72/2014/09/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/72/2014/09/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/89/1997/07/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/89/1997/07/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/22/2015/02/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/22/2015/02/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/86/2011/02/25
+  label: null
+  source: http://data.dre.pt/eli/port/86/2011/02/25
+article_structure:
+  article_count: 37
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:00:37Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 56/2015
+
+Portaria n.º 56/2015
+
+de 27 de fevereiro
+
+O Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.
+
+O PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.
+
+Na arquitetura do PDR 2020, à área relativa ao «Ambiente, eficiência no uso dos recursos e clima», corresponde uma visão da estratégia nacional para o desenvolvimento rural, no domínio da melhoria da gestão dos recursos naturais e da proteção do solo, água, ar, biodiversidade e paisagem.
+
+A ação n.º 7.3, «Pagamentos Rede Natura», inserida na citada área, tem como objetivo restaurar, valorizar e proteger a biodiversidade no âmbito da rede ecológica comunitária, denominada Rede Natura 2000, e compreende dois apoios, designados «Pagamento Natura» e «Apoios zonais de caráter agroambiental».
+
+O «Pagamento Natura» visa compensar parcialmente os agricultores pelas restrições ao exercício da atividade agrícola decorrentes da aplicação das Diretivas Aves e Habitats, transpostas para o direito nacional pelo Decreto-Lei n.º 140/99, de 24 de abril, alterado pelos Decretos-Leis n.os 49/2005, de 24 de fevereiro, e 156-A/2013, de 8 de novembro. Por sua vez, os «Apoios zonais de caráter agroambiental» visam, numa lógica de gestão ativa, dar continuidade a algumas Intervenções Territoriais Integradas que tiveram significativa adesão no âmbito do Programa de Desenvolvimento Rural do Continente relativo ao período 2007-2013, permitindo de uma forma eficaz e focada responder aos objetivos de conservação de zonas inseridas na Rede Natura 2000 com valores naturais específicos.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria estabelece o regime de aplicação da ação n.º 7.3, «Pagamentos Rede Natura», integrada na medida n.º 7, «Agricultura e recursos naturais», da área n.º 3, «Ambiente, eficiência no uso dos recursos e clima», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.
+
+2 - A ação n.º 7.3, «Pagamentos Rede Natura», compreende os seguintes apoios:
+
+a) «Pagamento Natura»;
+
+b) «Apoios zonais de caráter agroambiental».
+
+###### Artigo 2.º — Definições
+
+Para efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:
+
+a) «Animais em pastoreio» ou «efetivo pecuário em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;
+
+b) «Área condicionada tipo 1», a área classificada ao abrigo das Diretivas n.os 2009/147/CE, do Parlamento Europeu e do Conselho, de 30 de novembro (Diretiva Aves), e 92/43/CEE, do Conselho, de 21 de maio (Diretiva Habitats), no âmbito da Rede Natura 2000, sujeita a restrição de não florestação de superfícies agrícolas;
+
+c) «Área condicionada tipo 2», a área classificada ao abrigo das Diretivas Aves e Habitats no âmbito da Rede Natura 2000, sujeita a restrição de não florestação de superfícies agrícolas e a restrição de intensificação da atividade agrícola;
+
+d) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;
+
+e) «Cabeça normal (CN)», a unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal, a idade, o peso vivo e a vocação produtiva, relativamente às necessidades alimentares e à produção de efluentes pecuários;
+
+f) «Culturas permanentes», as culturas não rotativas, com exclusão dos prados e pastagens permanentes, que ocupam as terras por cinco ou mais anos e dão origem a várias colheitas;
+
+g) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para o exercício de atividades agrícolas, submetidos a uma gestão única;
+
+h) «Índice de qualificação fisiográfica da parcela (IQFP)», o indicador que traduz a relação entre a morfologia da parcela de referência e o seu risco de erosão e consta da identificação da Exploração (IE) do Sistema de identificação Parcelar (iSIP);
+
+i) «Muro de pedra posta», a estrutura artificial de pedra posta ligando dois locais de cotas diferentes, que atua como muro de suporte, impedindo o desmoronamento do solo ou tendo como função a delimitação de parcelas;
+
+j) «Parcela de referência», a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no iSIP, classificada em função da categoria de ocupação de solo;
+
+k) 'Período de retenção', o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de janeiro e 30 de abril para bovinos, ovinos e caprinos, e compreendido entre 1 de janeiro e 31 de dezembro para suínos e equídeos, e compreendido entre 15 de novembro e 31 de dezembro para os porcos de montanheira;
+
+l) «Plano de gestão florestal (PGF)», o plano que, de acordo com as orientações definidas no plano regional de ordenamento florestal, determina, no espaço e no tempo, as intervenções de natureza cultural e de exploração dos recursos, visando a produção sustentada dos bens e serviços por eles proporcionados e tendo em conta as atividades e os usos dos espaços envolventes;
+
+m) «Plano de gestão de pastoreio de baldio», o plano a adotar para os baldios que contém a descrição de superfícies a candidatar, a identificação dos valores a preservar, incluindo a sua delimitação geográfica, e o conjunto de práticas de gestão a adotar para preservação dos mesmos, devendo estar de acordo com o PGF, quando este exista;
+
+n) «Prados e pastagens permanentes», as superfícies ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração e as superfícies ocupadas com vegetação arbustiva;
+
+o) «Rede Natura 2000», a rede ecológica para o espaço comunitário da União Europeia, que engloba zonas de proteção especial (ZPE), designadas ao abrigo da Diretiva Aves, e sítios de importância comunitária (SIC), designados ao abrigo da Diretiva Habitats, transpostas para o direito interno pelo Decreto-Lei n.º 140/99, de 24 de abril, alterado pelos Decretos-Leis n.os 49/2005, de 24 de fevereiro, e 156-A/2013, de 8 de novembro;
+
+p) «Socalcos», os cortes, bancos ou aterros horizontais feitos ao longo de encostas para reduzir a erosão, melhorar as colheitas, reter as águas, melhorar a infiltração das chuvas ou preencher qualquer outra função de conservação;
+
+q) «Subparcela», a porção contínua de terreno homogéneo com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela de referência ou coincidentes com a mesma, tal como definido no iSIP;
+
+r) «Superfície agrícola», qualquer subparcela de terras aráveis, prados e pastagens permanentes ou culturas permanentes;
+
+s) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes e as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;
+
+t) «Terras aráveis», as subparcelas cultivadas para produção vegetal ou disponíveis para produção vegetal, ainda que se encontrem em pousio.
+
+u) 'Área condicionada tipo 3', a área classificada ao abrigo das Diretivas Aves e Habitats no âmbito da Rede Natura 2000, sujeita a restrição de não florestação de superfícies agrícolas e a restrição de intensificação da atividade agrícola em zona crítica.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-K/2023 - Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/54-k-2023-207942905), em vigor a partir de 2023-02-28, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01
+
+###### Artigo 3.º — Tabela de conversão
+
+Para efeitos de aplicação do disposto na presente portaria, a tabela de conversão das espécies animais em cabeças normais (CN) consta do anexo à presente portaria, da qual faz parte integrante.
+
+###### Artigo 4.º — Beneficiários
+
+1 - Podem beneficiar dos apoios previstos na presente portaria as pessoas singulares ou coletivas, de natureza pública ou privada, que exerçam atividade agrícola, salvo o disposto no número seguinte.
+
+2 - Podem beneficiar do apoio «Gestão do pastoreio em áreas de baldio», no «Apoio Zonal Peneda-Gerês», os órgãos de gestão de baldio nos termos da Lei n.º 68/93, de 4 de setembro, alterada pelas Leis n.os 89/97, de 30 de junho, e 72/2014, de 2 de setembro.
+
+###### Artigo 5.º — Condicionalidade
+
+Os beneficiários devem cumprir na exploração agrícola os requisitos legais de gestão e as boas condições agrícolas e ambientais, em conformidade com os artigos 93.º e 94.º e o anexo II do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e com a correspondente legislação nacional.
+
+###### Artigo 6.º — Cumulação de apoios
+
+1 - Os apoios previstos na presente portaria, ainda que respeitem à mesma subparcela agrícola, são cumuláveis entre si e com os demais apoios integrados na medida n.º 7, 'Agricultura e recursos naturais', do PDR 2020, com exceção do disposto nos n.os 2, 3 e 4.
+
+2 - Sem prejuízo do disposto no número anterior, a cumulação dos «Apoios zonais de caráter agroambiental» com os apoios referentes às ações n.os 7.2, «Produção integrada», 7.4, «Conservação do solo», 7.5, «Uso eficiente da água», 7.6, «Culturas permanentes tradicionais», 7.7, «Pastoreio extensivo», 7.8, «Recursos genéticos», 7.9, «Mosaico agroflorestal» e 7.12, «Apoio agroambiental à apicultura», está sujeita aos seguintes limites anuais:
+
+a) (euro) 900 por hectare, no caso de culturas permanentes;
+
+b) (euro) 600 por hectare, no caso de culturas temporárias;
+
+c) (euro) 450 por hectare, no caso de pastagens permanentes.
+
+3 - Os critérios para aplicação dos limites previstos no número anterior, no caso de cumulação de apoios, são publicados em portaria do membro do Governo responsável pela área da agricultura.
+
+4 - O «Apoio Zonal Montesinho-Nogueira», no que se refere às superfícies elegíveis no âmbito do apoio «Conservação dos soutos notáveis da Terra Fria», não é cumulável com os apoios previstos na ação 7.6, «Culturas permanentes tradicionais».
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01
+
+### Capítulo II — Pagamento Natura
+
+###### Artigo 7.º — Objetivos
+
+O apoio previsto na presente portaria prossegue os seguintes objetivos:
+
+a) Restaurar, valorizar e proteger a biodiversidade no âmbito da Rede Natura 2000;
+
+b) Compensar parcialmente os agricultores pelas restrições ao exercício da atividade agrícola decorrentes da aplicação das Diretivas Aves e Habitats.
+
+###### Artigo 8.º — Área geográfica de aplicação
+
+O apoio previsto no presente capítulo é aplicável na área geográfica definida no anexo II à presente portaria, da qual faz parte integrante.
+
+###### Artigo 9.º — Critérios de elegibilidade
+
+Podem beneficiar do apoio previsto no presente capítulo, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, os beneficiários referidos no artigo 4.º que candidatem uma superfície explorada em regime de sequeiro de culturas temporárias, incluindo pousio, ou culturas permanentes ou prados e pastagens permanentes com dimensão igual ou superior a 1 ha, situada na área geográfica de aplicação prevista no artigo anterior.
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21
+
+###### Artigo 10.º — Critérios de seleção de candidaturas
+
+1 - Para efeitos de seleção de candidaturas ao apoio previsto no presente capítulo, são considerados, designadamente, os seguintes critérios:
+
+a) Candidaturas respeitantes a beneficiários com outros compromissos agroambientais integrados na medida n.º 7, «Agricultura e recursos naturais», do PDR 2020;
+
+b) Candidaturas respeitantes a beneficiários com maior proporção de superfície elegível, relativamente à superfície agrícola total da exploração;
+
+c) Candidaturas respeitantes a explorações que se situem em áreas suscetíveis à desertificação, definidas ao abrigo do Programa de Ação Nacional de Combate à Desertificação;
+
+d) Candidaturas respeitantes a beneficiários que recorram ao aconselhamento agrícola;
+
+e) Candidaturas respeitantes a beneficiários em primeira instalação como jovem agricultor.
+
+2 - A hierarquização dos critérios constantes do número anterior, bem como a respetiva ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, e no portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em www.ifap.pt, aquando da abertura de candidaturas ao Pedido Único (PU).
+
+> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 154-B/2016 - Diário da República n.º 104/2016, 1º Suplemento, Série I de 2016-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/154-b-2016-74590179), em vigor a partir de 2016-06-01, produz efeitos a partir de 2016-01-01
+
+###### Artigo 11.º — Compromissos dos beneficiários
+
+1 - Para além do disposto no artigo 5.º, os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a:
+
+a) Manter os critérios de elegibilidade;
+
+b) Manter, durante o período de retenção para cada espécie, um efetivo pecuário de bovinos, ovinos, caprinos, suínos e equídeos, em pastoreio, do próprio ou de terceiro expressos em CN por hectare (ha), com um encabeçamento igual ou inferior a:
+
+i) 3 CN/ha de superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 ha de superfície agrícola;
+
+ii) 2 CN/ha de superfície agrícola, no caso de explorações em zona de montanha com dimensão superior a 2 ha de superfície agrícola;
+
+iii) 2 CN/ha de superfície forrageira, no caso de explorações nas restantes zonas com dimensão superior a 2 ha de superfície agrícola.
+
+2 - Para efeitos de aplicação das subalíneas ii) e iii) da alínea b) do número anterior, as zonas de montanha e restantes zonas são as definidas na Portaria n.º 22/2015, de 5 de fevereiro.
+
+3 - Os compromissos previstos no n.º 1 têm a duração de um ano e produzem efeitos entre 1 de janeiro e 31 de dezembro do ano da candidatura.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-K/2023 - Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/54-k-2023-207942905), em vigor a partir de 2023-02-28, produz efeitos a partir de 2023-01-01
+
+###### Artigo 12.º — Forma do apoio
+
+O apoio previsto no presente capítulo assume a forma de subvenção anual, não reembolsável.
+
+###### Artigo 13.º — Montantes e limites do apoio
+
+1 - Os montantes e limites do apoio previsto no presente capítulo são os estabelecidos no anexo III à presente portaria, da qual faz parte integrante.
+
+2 - O cálculo do montante total do apoio faz-se pela aplicação sucessiva dos respetivos escalões de área.
+
+3 - As superfícies de pousio são consideradas elegíveis para pagamento até ao limite máximo de duas vezes as superfícies semeadas com culturas temporárias.
+
+4 - As superfícies forrageiras de sequeiro são consideradas na totalidade desde que a exploração agrícola mantenha, durante o período de retenção para cada espécie, um encabeçamento de bovinos, ovinos, suínos e equídeos, em pastoreio, do próprio, expressos em CN por ha de superfície forrageira, igual ou superior a 0,2.
+
+5 - Caso o beneficiário não cumpra o encabeçamento previsto no número anterior devido aos casos de força maior referidos nas alíneas g), h) e i) do n.º 2 do artigo 33.º, mantém o direito à totalidade do pagamento das superfícies forrageiras.
+
+6 - Caso o montante total das candidaturas apresentadas exceda a dotação orçamental disponível, os montantes do apoio a conceder por beneficiário são objeto de rateio, reduzindo-se proporcionalmente em função do excesso verificado.
+
+7 - Quando se verifiquem situações de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento referido no n.º 4 passa para um mínimo de 0,1 CN/ha de superfície forrageira.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-K/2023 - Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/54-k-2023-207942905), em vigor a partir de 2023-02-28, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-05-22, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154-B/2016 - Diário da República n.º 104/2016, 1º Suplemento, Série I de 2016-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/154-b-2016-74590179), em vigor a partir de 2016-06-01, produz efeitos a partir de 2016-01-01
+
+### Capítulo III — Apoios zonais de caráter agroambiental
+
+###### Artigo 14.º — Objetivos
+
+Os apoios previstos na presente portaria prosseguem os seguintes objetivos:
+
+a) Restaurar, valorizar e proteger a biodiversidade no âmbito da Rede Natura 2000;
+
+b) Apoiar os agricultores que, numa lógica de gestão ativa, assumam compromissos agroambientais em zonas inseridas na Rede Natura 2000 com valores naturais específicos.
+
+###### Artigo 15.º — Tipologia de apoios zonais de caráter agroambiental
+
+Os «Apoios Zonais (AZ) de caráter agroambiental» objeto de apoio no âmbito da ação n.º 7.3, «Pagamentos Rede Natura», são os seguintes:
+
+a) «AZ Peneda-Gerês», que compreende os apoios «Gestão do pastoreio em áreas de baldio» e «Manutenção de socalcos»;
+
+b) «AZ Montesinho-Nogueira», que compreende os apoios «Conservação dos soutos notáveis da Terra Fria» e «Manutenção de rotação de sequeiro cereal-pousio»;
+
+c) «AZ Douro Internacional, Sabor, Maçãs e Vale do Côa», que compreende o apoio «Manutenção de rotação de sequeiro cereal-pousio»;
+
+d) «AZ Castro Verde», que compreende o apoio «Manutenção de rotação de sequeiro cereal-pousio»;
+
+e) «AZ Outras Áreas Estepárias», que compreende o apoio designado «Manutenção de rotação de sequeiro cereal-pousio».
+
+###### Artigo 16.º — Área geográfica de aplicação
+
+Os apoios previstos no presente capítulo são aplicáveis na área geográfica definida, para cada AZ, no anexo IV à presente portaria, da qual faz parte integrante.
+
+###### Artigo 17.º — Duração dos compromissos
+
+1 - Os «AZ de caráter agroambiental» destinam-se a apoiar os beneficiários que se comprometam, de forma voluntária, a respeitar compromissos de natureza agroambiental durante um período de cinco anos.
+
+2 - O período referido no número anterior pode ser prorrogado, até um máximo de 2 anos, mediante requerimento do beneficiário e decisão da autoridade de gestão.
+
+3 - Os compromissos produzem efeitos a partir de 1 de janeiro do ano da candidatura e prolongam-se até 31 de dezembro de cada ano.
+
+###### Artigo 18.º — Critérios de elegibilidade
+
+1 - Podem beneficiar dos apoios previstos no presente capítulo, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, os beneficiários referidos no artigo 4.º que reúnam as seguintes condições:
+
+a) No que respeita ao apoio «Gestão do pastoreio em áreas de baldio», no «AZ Peneda-Gerês»:
+
+i) Candidatem uma superfície de prados e pastagens permanentes de baldio, situada na área geográfica de aplicação do apoio, com dimensão igual ou superior a cinco ha;
+
+ii) Detenham plano de gestão de pastoreio de baldio para a superfície candidata, aprovado pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), com discriminação da componente referente a pastoreio.
+
+b) No que respeita ao apoio «Manutenção de socalcos», no «AZ Peneda-Gerês», candidatem a totalidade da superfície em socalcos, situada na área geográfica de aplicação do apoio, desde que tenha dimensão igual ou superior a 0,2 ha;
+
+c) No que respeita ao apoio «Conservação dos soutos notáveis da Terra Fria», no «AZ Montesinho-Nogueira», candidatem, alternativamente:
+
+i) Uma superfície com um mínimo de cinco castanheiros (Castanea sativa) com idade igual ou superior a 60 anos, situada na área geográfica de aplicação do apoio, correspondendo cada árvore a uma superfície de 400 m2;
+
+ii) Uma superfície mínima de 0,5 ha de pomar de castanheiros (Castanea sativa) com idade igual ou superior a 60 anos e uma densidade mínima de 25 árvores por ha, situada na área geográfica de aplicação do apoio.
+
+d) No que respeita ao apoio «Manutenção de rotação de sequeiro cereal-pousio», no «AZ Montesinho-Nogueira» e no «AZ Douro Internacional, Sabor, Maçãs e Vale do Côa», candidatem uma superfície com dimensão igual ou superior a um ha de cereais praganosos de sequeiro e pousio, em subparcelas inseridas em parcelas com IQFP inferior ou igual a três, situada na área geográfica de aplicação do apoio;
+
+e) No que respeita ao apoio «Manutenção de rotação de sequeiro cereal-pousio», no «AZ Castro Verde», candidatem uma superfície com dimensão igual ou superior a cinco ha de cereais praganosos de sequeiro e pousio, em subparcelas inseridas em parcelas com IQFP inferior ou igual a três, situada na área geográfica de aplicação do apoio;
+
+f) No que respeita ao apoio «Manutenção de rotação de sequeiro cereal-pousio», no «AZ Outras Áreas Estepárias», candidatem uma superfície com dimensão igual ou superior a cinco ha de cereais praganosos de sequeiro e pousio, em subparcelas situadas na área geográfica de aplicação do apoio.
+
+2 - Para efeitos da subalínea i) da alínea a) do número anterior, é elegível a totalidade da superfície de prados e pastagens permanentes prática local em zona de baldio, desde que pelo menos 80 % da área de baldio se encontre situada dentro da área geográfica de aplicação do apoio.
+
+3 - Em derrogação do disposto nas alíneas d), e) e f) do n.º 1, quando se verifiquem situações de seca extrema ou severa, reconhecidas pelas autoridades nacionais competentes, o cereal praganoso de sequeiro pode ser substituído por pousio, não havendo lugar à representatividade mínima a que se refere a alínea b) do artigo 24.º, a alínea c) do artigo 25.º e a alínea d) do artigo 26.º, todos da presente portaria.
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-05-22, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21
+
+###### Artigo 19.º — Critérios de seleção de candidaturas
+
+1 - Para efeitos de seleção de candidaturas aos apoios previstos no presente capítulo, são considerados, designadamente, os seguintes critérios:
+
+a) Candidaturas respeitantes a beneficiários com outros compromissos agroambientais integrados na medida n.º 7, «Agricultura e recursos naturais», do PDR 2020;
+
+b) Candidaturas respeitantes a beneficiários com maior superfície agrícola situada na área geográfica de aplicação do apoio;
+
+c) Candidaturas respeitantes a explorações que se situem em áreas suscetíveis à desertificação, definidas ao abrigo do Programa de Ação Nacional de Combate à Desertificação;
+
+d) Candidaturas respeitantes a beneficiários que recorram ao aconselhamento agrícola;
+
+e) Candidaturas respeitantes a beneficiários em primeira instalação como jovem agricultor.
+
+2 - A hierarquização dos critérios constantes do número anterior, bem como a respetiva ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, aquando da abertura de candidaturas ao PU.
+
+###### Artigo 20.º — Compromissos dos beneficiários
+
+Para além do disposto no artigo 5.º, os beneficiários dos apoios previstos no presente capítulo são obrigados a:
+
+a) Manter os critérios de elegibilidade em cada ano do compromisso;
+
+b) Manter a subparcela ou subparcelas agrícolas sob compromisso, pelo período de duração dos compromissos;
+
+c) Cumprir os compromissos específicos previstos para cada AZ, nos termos dos artigos seguintes.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 151/2015 - Diário da República n.º 101/2015, Série I de 2015-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/151-2015-67289946), em vigor a partir de 2015-05-27, produz efeitos a partir de 2015-02-28
+
+###### Artigo 21.º — Compromissos específicos do apoio «Gestão do pastoreio em áreas de baldio», no «AZ Peneda-Gerês»
+
+1 - Os beneficiários do apoio «Gestão do pastoreio em áreas de baldio», no «AZ Peneda-Gerês», são ainda obrigados, durante todo o período do compromisso, a:
+
+a) Cumprir o plano de gestão de pastoreio de baldio, incluindo, se for o caso, o plano de percurso;
+
+b) Manter atualizadas as listagens de compartes ou equiparadas;
+
+c) Elaborar um relatório anual de atividades de acordo com minuta disponibilizada pela Estrutura Local de Apoio (ELA) ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+d) Deter, durante o período de retenção para cada espécie, um efetivo pecuário de bovinos, ovinos e caprinos, em pastoreio, com um encabeçamento igual ou superior a 0,2 CN por ha e inferior ou igual a 0,6 CN por ha de superfície forrageira, tendo em conta o efetivo dos compartes que utilizam a superfície sujeita a compromisso.
+
+2 - Quando se verifiquem situações de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento referido na alínea d) do número anterior passa para um mínimo de 0,1 CN/ha de superfície forrageira.
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-05-22, produz efeitos a partir de 2018-01-01
+
+###### Artigo 22.º — Compromissos específicos do apoio «Manutenção de socalcos», no «AZ Peneda-Gerês»
+
+Os beneficiários do apoio «Manutenção de socalcos», no «AZ Peneda-Gerês», são ainda obrigados, durante todo período do compromisso, a:
+
+a) Manter em bom estado de conservação os muros de pedra posta;
+
+b) Manter em bom funcionamento o sistema de rega tradicional.
+
+###### Artigo 23.º — Compromissos específicos do apoio «Conservação dos soutos notáveis da Terra Fria», no «AZ Montesinho-Nogueira»
+
+1 - Os beneficiários do apoio «Conservação dos soutos notáveis da Terra Fria», no «AZ Montesinho-Nogueira», são ainda obrigados, durante todo período do compromisso, a:
+
+a) Realizar as podas de acordo com o manual elaborado pela ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+b) Comunicar à ELA ou estrutura equivalente a designar pelo ICNF, I. P., a existência de árvores com cancro;
+
+c) Remover as árvores com doença da tinta;
+
+d) Não praticar culturas no sobcoberto;
+
+e) Efetuar o controlo da vegetação herbácea e arbustiva sem recorrer a mobilização do solo, podendo ser efetuado através de pastoreio.
+
+2 - Caso os castanheiros notáveis se encontrem em soutos com outros castanheiros, os compromissos referidos no número anterior são extensíveis à totalidade das árvores.
+
+###### Artigo 24.º — Compromissos específicos do apoio «Manutenção de rotação de sequeiro cereal-pousio», no «AZ Montesinho Nogueira» e no «AZ Douro Internacional, Sabor, Maçãs e Vale do Côa»
+
+Os beneficiários do apoio «Manutenção de rotação de sequeiro cereal-pousio», no «AZ Montesinho Nogueira» e no «AZ Douro Internacional, Sabor, Maçãs e Vale do Côa», durante todo o período do compromisso, são ainda obrigados a:
+
+a) Deter registo das operações realizadas na superfície sujeita a compromisso;
+
+b) Utilizar exclusivamente culturas temporárias de sequeiro, desde que, anualmente, a superfície de cereal praganoso represente entre 25 % e 60 % da superfície de rotação sujeita a compromisso, sendo que a superfície de pousio deve ser igual ou superior a 40 %, sujeita a aprovação pela ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+c) Respeitar e registar as datas e as técnicas a aplicar nos cortes, incluindo os relativos a cereais praganosos de forma a atingir o grau de maturação, a efetuar nas superfícies de rotação sujeitas a compromisso e na mobilização de pousios, a indicar anualmente pela ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+d) Realizar as mobilizações do solo segundo as curvas de nível nas subparcelas inseridas em parcelas com IQFP superior a um;
+
+e) Nas culturas anuais, se o IQFP for igual a três e a dimensão da subparcela for superior a um ha, manter, no mínimo, duas faixas de solo não mobilizado por ha, com largura não inferior a cinco metros, orientadas em curva de nível.
+
+###### Artigo 25.º — Compromissos específicos do apoio «Manutenção de rotação de sequeiro cereal-pousio», no «AZ Castro Verde»
+
+Os beneficiários do apoio designado «Manutenção de rotação de sequeiro cereal-pousio» no «AZ Castro Verde», durante todo o período do compromisso, são ainda obrigados a:
+
+a) Deter registo das operações realizadas na superfície sujeita a compromisso;
+
+b) Manter, em cada ano do compromisso, durante o período de retenção para cada espécie, um efetivo pecuário de bovinos, ovinos e caprinos, em pastoreio, com um encabeçamento igual ou inferior a 0,6 CN por ha de superfície forrageira e 10 % da superfície de cereal praganoso;
+
+c) Utilizar exclusivamente culturas temporárias de sequeiro, desde que, anualmente, a superfície de cereal praganoso represente entre 20 % e 50 % de superfície de rotação sujeita a compromisso, sujeita a aprovação pela ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+d) Respeitar e registar as datas e as técnicas a aplicar nos cortes a efetuar nas superfícies de rotação sujeitas a compromisso e na mobilização de pousios, bem como o limite máximo de superfície de cereal praganoso objeto de corte, a indicar anualmente pela ELA ou estrutura equivalente a designar pelo ICNF, I. P., tendo em conta as características do ano agrícola e o estado do ciclo anual das espécies de aves alvo;
+
+e) Realizar as mobilizações do solo segundo as curvas de nível nas subparcelas inseridas em parcelas com IQFP superior a dois;
+
+f) Nas culturas anuais, se o IQFP for igual a três e a dimensão da parcela for superior a um ha, manter, no mínimo, duas faixas de solo não mobilizado por ha, com largura não inferior a cinco metros, orientadas em curva de nível;
+
+g) Nas operações de limpeza, não efetuar mobilização do solo com reviramento, exceto se autorizado pela ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+h) Nas parcelas sujeitas a monda química, deixar faixas não mondadas cuja superfície deve ser igual ou superior a 5 % da superfície total da parcela, a verificar pela ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+i) Nas explorações com superfície sujeita a compromisso superior a 50 ha, semear, no mínimo, 2 % dessa superfície e manter até ao fim do seu ciclo, efetuando as necessárias práticas culturais, feijão-frade, grão-de-bico, ervilhaca, chícharo, gramicha, cezirão, tremoço doce ou outras culturas para a fauna bravia, podendo a superfície ser inferior, de acordo com orientações da ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+j) Não instalar cercas sem parecer prévio vinculativo da ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+k) Não instalar bosquetes ou sebes arbóreas, nem proceder a qualquer densificação do coberto arbóreo, sem parecer prévio vinculativo da ELA ou estrutura equivalente a designar pelo ICNF, I. P.
+
+###### Artigo 26.º — Compromissos específicos do apoio «Manutenção de rotação de sequeiro cereal-pousio», no «AZ Outras Áreas Estepárias»
+
+Os beneficiários do apoio «Manutenção de rotação de sequeiro cereal-pousio» no «AZ Outras Áreas Estepárias», durante todo o período do compromisso, estão ainda obrigados a:
+
+a) Deter registo das operações realizadas na superfície sujeita a compromisso;
+
+b) Manter a superfície sujeita a compromisso com culturas temporárias de sequeiro, incluindo pousio;
+
+c) Manter, em cada ano do compromisso, durante o período de retenção para cada espécie, um efetivo pecuário de bovinos, ovinos ou caprinos, em pastoreio, com um encabeçamento igual ou inferior a 0,6 CN por ha de superfície forrageira e 10 % da superfície de cereal de pragana para grão;
+
+d) Utilizar exclusivamente culturas temporárias de sequeiro, desde que, anualmente, a superfície de cereal praganoso represente entre 20 % e 50 % da superfície de rotação sujeita a compromisso e 10 % a 30 % da superfície de pousio, sendo que a partir do segundo ano de compromisso o pousio com dois ou mais anos deve representar entre 5 % e 10 %, sujeito a aprovação pela ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+e) Respeitar e registar as datas e as técnicas a aplicar nos cortes, incluindo os relativos a cereais praganosos, de forma a atingir o grau de maturação, numa superfície mínima, a efetuar nas superfícies de rotação sujeitas a compromisso e na mobilização de pousios, indicadas anualmente pela ELA ou estrutura equivalente a designar pelo ICNF, I. P., tendo em conta as características do ano agrícola e o estado do ciclo anual das espécies de aves alvo;
+
+f) Respeitar a interdição de pastoreio e de mobilização do solo no período compreendido entre 15 de março e 30 de junho, com exceção de situações autorizadas pela ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+g) Realizar as mobilizações do solo segundo as curvas de nível nas subparcelas inseridas em parcelas com IQFP superior a um;
+
+h) Efetuar a mobilização do solo sem reviramento, exceto se autorizado pela ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+i) Nas parcelas sujeitas a monda química, deixar faixas não mondadas de largura igual ou inferior a 12 metros, cuja superfície deve ser igual ou superior a 5 % da superfície da parcela, a verificar pela ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+j) Nas explorações com superfície sujeita a compromisso superior a 50 ha semear, no mínimo, 2 % da superfície sujeita a compromisso e manter até ao fim do seu ciclo, efetuando as necessárias práticas culturais, feijão-frade, grão-de-bico, ervilhaca, chícharo, gramicha, cezirão, tremoço doce ou outras culturas para a fauna bravia, podendo a superfície ser inferior de acordo com orientações da ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+k) Não instalar cercas, sem parecer prévio vinculativo da ELA ou estrutura equivalente a designar pelo ICNF, I. P.;
+
+l) Não instalar bosquetes ou sebes arbóreas, nem proceder a qualquer densificação do coberto arbóreo, sem parecer prévio vinculativo da ELA ou estrutura equivalente a designar pelo ICNF, I. P.
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-05-22, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21
+
+###### Artigo 27.º — Forma dos apoios
+
+Os apoios previstos no presente capítulo assumem a forma de subvenção anual, não reembolsável.
+
+###### Artigo 28.º — Montantes e limites dos apoios
+
+1 - Os montantes e limites dos apoios previstos no presente capítulo são os estabelecidos no anexo V à presente portaria, da qual faz parte integrante.
+
+2 - O cálculo do montante total de cada apoio faz-se pela aplicação sucessiva dos respetivos escalões de área.
+
+3 - O montante total do apoio «Gestão do pastoreio em áreas de baldio», no «AZ Peneda-Gerês», é majorado, anualmente, em 20 %, nas superfícies de prados e pastagens permanentes pastoreadas, desde que o encabeçamento do efetivo pecuário acompanhado por cada pastor se situe entre um máximo de 100 CN de bovinos ou 75 CN de ovinos e caprinos e um mínimo de 50 CN de bovinos ou de 22,5 CN de ovinos e caprinos.
+
+4 - Caso o beneficiário não cumpra o encabeçamento previsto no n.º 3 devido aos casos de força maior referidos nas alíneas g), h) e i) do n.º 2 do artigo 33.º, mantém o direito à totalidade do pagamento da majoração.
+
+5 - Para efeitos do cálculo do apoio «Conservação dos soutos notáveis da Terra Fria», no «AZ Montesinho-Nogueira», na situação prevista na subalínea i) da alínea c) do n.º 1 do artigo 18.º, cada árvore de castanheiro (Castanea sativa) corresponde a uma superfície de 400 m2.
+
+### Capítulo IV — Procedimento
+
+###### Artigo 29.º — Apresentação das candidaturas
+
+1 - As candidaturas aos apoios previstos na presente portaria são submetidas eletronicamente através do formulário relativo ao PU, disponível no portal do IFAP, I. P., em www.ifap.pt, ou no portal do Portugal 2020, em www.portugal2020.pt.
+
+2 - O Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a efetuar pelo IFAP, I. P., aprovado em anexo à Portaria n.º 86/2011, de 25 de fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto nos artigos 67.º e seguintes do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho, de 17 de dezembro de 2013, é aplicável às candidaturas apresentadas no âmbito da presente portaria.
+
+###### Artigo 30.º — Análise e decisão das candidaturas
+
+1 - As candidaturas são analisadas pelo IFAP, I. P., de acordo com os critérios de elegibilidade previstos na presente portaria.
+
+2 - As candidaturas são aprovadas pela autoridade de gestão de acordo com a dotação orçamental deste regime de apoios, bem como com o disposto no n.º 6 do artigo 13.º
+
+3 - A decisão é comunicada pelo IFAP, I. P., aos beneficiários na área reservada do respetivo portal, em www.ifap.pt.
+
+4 - O termo de aceitação é autenticado com a submissão da candidatura.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154-B/2016 - Diário da República n.º 104/2016, 1º Suplemento, Série I de 2016-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/154-b-2016-74590179), em vigor a partir de 2016-06-01
+
+###### Artigo 31.º — Pagamento
+
+1 - Os pedidos de pagamento são submetidos em simultâneo com a candidatura ao PU do ano a que respeita o pagamento, competindo ao IFAP, I. P., proceder ao pagamento anual do apoio.
+
+2 - O pagamento é efetuado após conclusão dos controlos administrativos e in loco, podendo ser paga uma parte do apoio após a conclusão dos controlos administrativos nos termos do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho, de 17 de dezembro de 2013, bem como do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, e do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014.
+
+3 - A não apresentação de pedido de pagamento referido no n.º 1 determina o não pagamento do apoio no ano em causa, sem prejuízo do disposto na alínea b) do n.º 2 do artigo 35.º, da obrigatoriedade de manutenção dos critérios de elegibilidade e dos compromissos assumidos, no caso dos «AZ de caráter agroambiental».
+
+### Capítulo V — Alteração, extinção, transmissão, redução e exclusão
+
+###### Artigo 32.º — Alteração da candidatura
+
+1 - Os beneficiários dos 'AZ de caráter agroambiental' podem, aquando da apresentação do pedido de pagamento anual, proceder ao aumento da área objeto de apoio, desde que, à data da candidatura, se encontrassem impedidos de a incluir por a mesma estar sujeita a emparcelamento ou intervenção fundiária similar nos termos da Lei n.º 111/2015, de 27 de agosto, ou a execução de empreitada no âmbito de aproveitamentos hidroagrícolas.
+
+2 - As situações referidas no número anterior são comprovadas pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), com identificação das parcelas.
+
+3 - Os beneficiários podem, até 15 dias úteis após a ocorrência, proceder à alteração da candidatura, sem lugar à devolução dos apoios já recebidos, nos seguintes casos:
+
+a) Sujeição de parte da exploração a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, ou a expropriação desde que esta não fosse previsível na data em que o compromisso foi assumido;
+
+b) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração;
+
+c) Problemas fitossanitários que afetem parte ou a totalidade das culturas do beneficiário;
+
+d) Destruição de instalações pecuárias não imputável ao beneficiário;
+
+e) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem zootécnica que não resultem de incúria do beneficiário;
+
+f) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou do rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 91/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/91-2018-114952497), em vigor a partir de 2018-04-07, produz efeitos a partir de 2018-02-15
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2016-01-19, produz efeitos a partir de 2015-02-10
+
+###### Artigo 33.º — Extinção dos compromissos
+
+1 - Os compromissos assumidos extinguem-se, sem devolução desses apoios, nos casos de sujeição da exploração a emparcelamento ou de intervenção pública de ordenamento fundiário similar, nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, desde que não seja possível a alteração da candidatura nos termos do n.º 3 do artigo anterior.
+
+2 - Sem prejuízo dos casos referidos no número anterior, os compromissos assumidos extinguem-se ainda, sem devolução dos apoios, nomeadamente nas seguintes situações de força maior:
+
+a) Morte do beneficiário;
+
+b) Incapacidade profissional do beneficiário superior a três meses;
+
+c) Morte ou incapacidade profissional superior a três meses do cônjuge ou de outro membro do agregado familiar que coabite com o beneficiário, cujo trabalho na exploração represente parte significativa do trabalho total empregue na mesma, no caso de explorações familiares;
+
+d) Expropriação de toda ou uma parte significativa da exploração, se essa expropriação não era previsível na data em que o compromisso foi assumido;
+
+e) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da exploração agrícola da unidade de produção;
+
+f) Problemas fitossanitários que afetem parte ou a totalidade das culturas do beneficiário;
+
+g) Destruição de instalações pecuárias não imputável ao beneficiário;
+
+h) Epizootia que afete parte ou a totalidade dos efetivos ou razões sanitárias de ordem zootécnica que não resultem de incúria do beneficiário;
+
+i) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou do rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição.
+
+3 - Os casos de força maior e os respetivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, por escrito e no prazo de 15 dias úteis a contar da data da ocorrência, podendo aquele prazo ser ultrapassado, desde que devidamente justificado e aceite pelo IFAP, I. P.
+
+4 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos referidos nos n.os 1 e 2, mantém o direito à totalidade do pagamento do ano em que o facto ocorreu, desde que tenha sido apresentado o respetivo pedido de pagamento.
+
+5 - No caso de alteração das normas ou regras obrigatórias, nos termos do artigo 48.º do Regulamento (UE) n.º 1305/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, o beneficiário pode não aceitar a correspondente adaptação dos compromissos assumidos, cessando estes sem ser exigida devolução relativamente ao período em que os compromissos tenham sido cumpridos.
+
+###### Artigo 34.º — Transmissão de superfícies
+
+1 - Sem prejuízo do disposto nos n.os 4 e 5, o beneficiário pode transmitir a totalidade ou parte da superfície objeto de apoio durante o período de compromisso, sem que haja lugar à devolução dos apoios.
+
+2 - No caso previsto no número anterior, o novo titular pode, caso assim o entenda, assumir os compromissos respetivos pelo período remanescente, desde que se encontrem reunidos os critérios de elegibilidade.
+
+3 - A transmissão de parte da superfície sujeita a compromisso obriga à correspondente alteração da candidatura, aquando da apresentação do pedido de pagamento anual, nos termos do disposto no n.º 1 do artigo 32.º.
+
+4 - Caso um beneficiário transmita a sua titularidade está impedido, nesse mesmo ano, de aceitar a titularidade de outrem, para o mesmo compromisso.
+
+5 - No período de prolongamento, não são permitidas transferências de titularidade nem aumento de superfícies objeto de apoio.
+
+###### Artigo 35.º — Redução ou exclusão do apoio
+
+1 - Sem prejuízo do disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, e do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, são aplicáveis as reduções e as exclusões previstas nos números seguintes.
+
+2 - É determinada a devolução total do apoio e a correspondente extinção do compromisso, nos seguintes casos:
+
+a) Incumprimento de qualquer critério de elegibilidade;
+
+b) Não apresentação de pedido de pagamento em dois anos consecutivos.
+
+3 - O incumprimento dos requisitos relativos à condicionalidade previstos no artigo 5.º, determina a redução do montante do apoio nos termos da legislação comunitária e nacional aplicável.
+
+4 - O incumprimento dos compromissos dos beneficiários e respetivas reduções ou exclusões dos apoios são objeto de diploma próprio, a aprovar no prazo de 45 dias a contar da data de publicação da presente portaria.
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 36.º — Transição
+
+1 - O disposto na presente portaria é aplicável aos compromissos assumidos em 2011, 2012 e 2013, ao abrigo do regulamento anexo à Portaria n.º 232-A/2008, de 11 de março, na última redação dada pela Portaria n.º 19/2014, de 29 de janeiro, até ao termo da duração dos mesmos, desde que a superfície agrícola objeto de apoio não sofra uma redução superior a 10 % e que seja apresentado o respetivo pedido de pagamento no PU de 2015.
+
+2 - A falta de apresentação do pedido de pagamento referido no número anterior, no PU de 2015, determina a cessação dos compromissos previstos no n.º 1, sem devolução dos apoios recebidos.
+
+3 - Para efeitos de aplicação do disposto no n.º 1, são considerados os compromissos referentes aos seguintes apoios inseridos na medida n.º 2.4, «Intervenções territoriais integradas», do Programa de Desenvolvimento Rural do Continente 2007-2013, designado por PRODER:
+
+a) Apoios designados «Gestão do pastoreio em áreas de baldio» e «Manutenção de socalcos», da ação n.º 2.4.4, «Intervenção territorial integrada Peneda-Gerês»;
+
+b) Apoios designados «Manutenção de rotação de sequeiro cereal-pousio» e «Conservação dos soutos notáveis da Terra Fria», da ação n.º 2.4.5, «Intervenção territorial integrada Montesinho-Nogueira»;
+
+c) Apoio designado «Manutenção de rotação de sequeiro cereal-pousio», da ação 2.4.6, «Intervenção territorial integrada Douro Internacional»;
+
+d) Apoio designado «Manutenção de rotação de sequeiro cereal-pousio», da ação 2.4.8, «Intervenção territorial integrada Tejo Internacional»;
+
+e) Apoio designado «Manutenção de rotação de sequeiro cereal-pousio», da ação 2.4.13, «Intervenção territorial integrada de zonas de Rede Natura Alentejo».
+
+###### Artigo 37.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 23 de fevereiro de 2015.
+
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 23 de fevereiro de 2015.
+
+## Anexo I — Tabela de conversão em cabeças normais
+
+(a que se refere o artigo 3.º)
+
+(ver documento original)
+
+## Anexo II — Área geográfica de aplicação do «Pagamento Natura»
+
+(a que se refere o artigo 8.º)
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-K/2023 - Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/54-k-2023-207942905), em vigor a partir de 2023-02-28, produz efeitos a partir de 2023-01-01
+
+## Anexo III — Montante e limites do apoio «Pagamento Natura»
+
+(a que se refere o n.º 1 do artigo 13.º)
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-K/2023 - Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/54-k-2023-207942905), em vigor a partir de 2023-02-28, produz efeitos a partir de 2023-01-01
+
+## Anexo IV — Área geográfica de aplicação dos «Apoios zonais de caráter agroambiental»
+
+(a que se refere o artigo 16.º)
+
+(ver documento original)
+
+## Anexo V — Montante e limites dos «Apoios zonais de caráter agroambiental»
+
+(a que se refere o n.º 1 do artigo 28.º)
+
+(ver documento original)
+
+Nos casos em que se verifique a substituição a que se refere o n.º 3 do artigo 18.º, não há lugar a pagamento.
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-05-22, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01

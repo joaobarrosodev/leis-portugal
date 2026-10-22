@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:507636:por
+title: Decreto n.º 16/2004
+short_title: null
+summary: Declara área crítica de recuperação e reconversão urbanística a zona do Bom Sucesso/Arcena, em Alverca do Ribatejo,
+  e concede ao município de Vila Franca de Xira o direito de preferência nas transmissões a título oneroso, entre particulares,
+  de terrenos ou edifícios situados naquela área
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Cidades, Ordenamento do Território e Ambiente
+proposing_entity: null
+official_number: 16/2004
+official_date: null
+publication_date: '2004-07-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/2004, Série I-A de 2004-07-23
+  number: '172'
+  series: I
+  supplement: null
+  pages: 4614 - 4615
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/07/172a00/46144615.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/16/2004/07/23/p/dre/pt/html
+  oj: null
+  dre: '507636'
+  dre_path: /dr/detalhe/decreto/16-2004-507636
+  internal: pt:dre:507636:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-2004-507636
+  metadata_url: https://data.dre.pt/eli/dec/16/2004/07/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-2004-507636
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-11-29T00:00:00Z'
+integrity:
+  source_sha256: 0bf12900b5cb1cf9601f6482abbf92a736aca2b47dd9d9ce3b9b332aa56f8099
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-16-507636.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alverca do Ribatejo
+- Vila Franca de Xira
+- Ordenamento do Território
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Transmissão da Propriedade
+- Política de Solos
+- Câmara Municipal
+relationships:
+- type: amended_by
+  target: pt:dre:628825:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/105/1996/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/105/1996/07/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/16/1993/03/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/1993/03/17/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 16/2004
+
+de 23 de Julho
+
+A zona do Bom Sucesso/Arcena, localizada no extremo noroeste do aglomerado urbano de Alverca do Ribatejo, no município de Vila Franca de Xira, apresenta graves problemas de desqualificação urbana e carências várias, designadamente ao nível dos equipamentos sociais e espaço público, bem como da deficiente e insuficiente rede de infra-estruturas urbanísticas.
+
+Esta zona insere-se em «Área urbana - Aglomerado do tipo A» no Plano Director Municipal de Vila Franca de Xira, o qual foi ratificado pela [Resolução do Conselho de Ministros n.º 16/93](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-1993-634127), de 17 de Março, e alterado pela deliberação da Assembleia Municipal de Vila Franca de Xira de 15 de Dezembro de 2000, publicada no Diário da República, 2.ª série, n.º 201, de 30 de Agosto de 2001.
+
+Tendo em vista a requalificação do espaço urbano da zona do Bom Sucesso/Arcena, a manutenção, reabilitação e renovação do património construído naquela área, a integração efectiva da população residente e a melhoria da qualidade de vida, bem como a prossecução dos objectivos traçados no protocolo celebrado ao abrigo do PROQUAL - Programa Integrado de Qualificação das Áreas Suburbanas da Área Metropolitana de Lisboa, cujo objectivo central é a qualificação do território, das pessoas e das organizações, visando a promoção do desenvolvimento sustentável da região e a sua coesão económica e social, a Câmara Municipal de Vila Franca de Xira solicitou ao Governo que a referida zona fosse declarada área crítica de recuperação e reconversão urbanística, ao abrigo do artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o que através do presente diploma se concede.
+
+Nesse sentido, a Assembleia Municipal de Vila Franca de Xira, sob proposta da Câmara Municipal, aprovou, em 4 de Junho de 2002, a delimitação da área crítica de recuperação e reconversão urbanística da zona do Bom Sucesso/Arcena, em Alverca.
+
+De igual modo, prevê-se que o direito de preferência concedido ao município de Vila Franca de Xira, ao abrigo do artigo 7.º do [Decreto-Lei n.º 105/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1996-406886), de 31 de Julho, e nos termos do n.º 1 do artigo 27.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, vigore até ao dia 31 de Março de 2007, prazo constante do protocolo celebrado ao abrigo do PROQUAL, uma vez que o município poderá vir a ter interesse na aquisição de imóveis que sejam transaccionados naquela área, por forma a viabilizar a necessária reabilitação e renovação da mesma.
+
+Considerando o disposto no n.º 1 do artigo 27.º e no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Área crítica de recuperação e reconversão urbanística
+
+É declarada área crítica de recuperação e reconversão urbanística a zona do Bom Sucesso/Arcena, em Alverca, no município de Vila Franca de Xira, delimitada na planta anexa ao presente diploma, que dele faz parte integrante.
+
+###### Artigo 2.º — Acções de recuperação e reconversão urbanística
+
+Compete à Câmara Municipal de Vila Franca de Xira promover, em colaboração com as demais entidades interessadas, as acções de recuperação e reconversão urbanística da área referida no artigo anterior.
+
+###### Artigo 3.º — Direito de preferência
+
+1 - O direito de preferência concedido ao município de Vila Franca de Xira nas transmissões a título oneroso, entre particulares, de terrenos ou edifícios situados na área a que faz referência o artigo 1.º, ao abrigo do artigo 7.º do [Decreto-Lei n.º 105/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1996-406886), de 31 de Julho, e nos termos do n.º 1 do artigo 27.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e legislação complementar, vigora até 31 de Março de 2007.
+
+2 - A comunicação a que se refere o artigo 3.º do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro, deve ser dirigida ao presidente da Câmara Municipal de Vila Franca de Xira.
+
+Visto e aprovado em Conselho de Ministros de 9 de Junho de 2004. - José Manuel Durão Barroso - Arlindo Marques da Cunha.
+
+**Assinado em 6 de Julho de 2004.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 7 de Julho de 2004.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a00/46144615.pdf)

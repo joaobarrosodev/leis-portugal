@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:161504:por
+title: Decreto n.º 161/75
+short_title: null
+summary: Aprova para ratificação as emendas aos artigos 24.º e 25.º da Constituição da Organização Mundial de Saúde, adoptadas
+  em 23 de Maio de 1967 pela Resolução WHA 20.36 da XX Assembleia Mundial da Saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Políticos
+proposing_entity: null
+official_number: 161/75
+official_date: null
+publication_date: '1975-03-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 73/1975, Série I de 1975-03-27
+  number: '73'
+  series: I
+  supplement: null
+  pages: 470 - 471
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/03/07300/04700471.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '161504'
+  dre_path: /dr/detalhe/decreto/161-1975-161504
+  internal: pt:dre:161504:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/161-1975-161504
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/161-1975-161504
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-03-27T00:00:00Z'
+integrity:
+  source_sha256: 0e3d484c31c182c78954221010fd4b1958c6f8454a1ac4ba6fb1d270aebff83c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-161-161504.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 161/75
+
+de 27 de Março
+
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
+
+###### Artigo único. São aprovadas para ratificação as emendas aos artigos 24.º e 25.º da Constituição da Organização Mundial de Saúde, adoptadas em 23 de Maio de 1967 pela Resolução WHA 20.36 da XX Assembleia Mundial da Saúde, cujo texto em inglês e respectiva tradução para português vão anexos ao presente decreto.
+
+Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves - Ernesto Augusto Melo Antunes - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - António de Almeida Santos - Manuel da Costa Brás - Francisco Salgado Zenha - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - Mário Soares - José Augusto Fernandes - Manuel Rodrigues de Carvalho - José Inácio da Costa Martins - Maria de Lourdes Pintasilgo - Jorge Correia Jesuíno.
+
+**Assinado em 17 de Março de 1975.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+
+## ANEXO A — (Texto inglês)
+
+ARTICLE 24
+
+The Board shall consist of thirty persons designated by as many Members. The Health Assembly, taking into account an equitable geographical distribution, shall elect the Members entitled to designate a person to serve on the Board. Each of these Members should appoint to the Board a person technically qualified in the field of health, who may be accompanied by alternates an advisers.
+
+ARTICLE 25
+
+These Members shall be elected for three years and may be re-elected, provided that of the fourteen Members elected at the first session of the Health Assembly held after the coming into force of the amendment to this Constitution increasing the membership of the Board from twenty-four to thirty the terms of two Members shall be for one year and the terms of two Members shall be for two years, as determined by lot.
+
+## ANEXO B — (Texto português)
+
+###### ARTIGO 24.º
+
+O Conselho será composto por trinta pessoas indicadas por outros tantos Estados membros. A Assembleia da Saúde, tendo em conta uma distribuição geográfica equitativa, elegerá os Estados membros, com direito a indicar uma pessoa para fazer parte do Conselho. Cada um destes Estados membros nomeará para o Conselho uma pessoa tecnicamente qualificada no domínio da Saúde, que poderá ser acompanhada por substitutos e conselheiros.
+
+###### ARTIGO 25.º
+
+Estes Estados membros serão eleitos por três anos e podem ser reeleitos; contudo, quanto aos catorze membros eleitos na primeira reunião da Assembleia da Saúde realizada após a entrada em vigor da emenda à presente Constituição que eleva o número de membros do Conselho de vinte e quatro para trinta, o mandato de dois membros será de um ano e de outros dois será de dois anos, sendo a selecção feita por sorteio.

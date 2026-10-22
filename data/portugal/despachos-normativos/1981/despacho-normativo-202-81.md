@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:576362:por
+title: Despacho Normativo n.º 202/81
+short_title: null
+summary: Autoriza a Direcção-Geral da Educação de Adultos, através do Fundo de Apoio à Educação Popular, a conceder subsídios
+  destinados às comissões organizadoras de alfabetização e educação de base
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Educação e Ciência - Gabinete do Ministro
+proposing_entity: null
+official_number: 202/81
+official_date: null
+publication_date: '1981-08-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 184/1981, Série I de 1981-08-12
+  number: '184'
+  series: I
+  supplement: null
+  pages: 2083 - 2084
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/08/18400/20832084.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '576362'
+  dre_path: /dr/detalhe/despacho-normativo/202-1981-576362
+  internal: pt:dre:576362:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/202-1981-576362
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/202-1981-576362
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-08-12T00:00:00Z'
+integrity:
+  source_sha256: 6a5de6a54827a843bb8c23c2934eb532b72f9d5bd5dada02a7e21ebf97d5ceee
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-202-576362.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 202/81
+
+Tornando-se necessário regulamentar a concessão de subsídios às comissões organizadoras de alfabetização e educação de base, nos termos do artigo 19.º do [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305), de 31 de Dezembro, determino:
+
+1 - A Direcção-Geral da Educação de Adultos, através do Fundo de Apoio à Educação Popular, concede subsídios destinados às comissões organizadoras de alfabetização e educação de base, a que se refere a alínea c) do artigo 18.º do [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305), de 31 de Dezembro, desde que instituídas de acordo com as normas constantes do [Despacho Normativo n.º 300/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/300-1980-460779), publicado no Diário da República, 1.ª série, n.º 212, de 13 de Setembro de 1980.
+
+2 - Os subsídios a conceder destinar-se-ão a suportar as despesas respeitantes ao funcionamento daquelas comissões e ao desenvolvimento de actividades.
+
+3 - Só poderão ser subsidiadas actividades que se enquadrem no Plano Nacional de Alfabetização e Educação de Base de Adultos e no plano de actividades anual da Direcção-Geral da Educação de Adultos.
+
+4 - O montante dos subsídios a conceder deverá ter em conta o projecto de orçamento e o plano de actividades das referidas comissões organizadoras, bem como as prioridades regionais de implementação das acções de educação de adultos que a DGEA estabeleça.
+
+5 - O presente despacho normativo produz efeitos desde 13 de Setembro de 1980.
+
+Ministério da Educação e Ciência, 31 de Julho de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.

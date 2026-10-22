@@ -1,0 +1,189 @@
+---
+schema_version: '1.0'
+id: pt:dre:56304796:por
+title: Resolução do Conselho de Ministros n.º 49/2014
+short_title: null
+summary: Cria um Grupo de Trabalho sobre o Acesso aos Recursos Genéticos e a Partilha Justa e Equitativa dos Benefícios Decorrentes
+  da sua Utilização, no âmbito da aplicação do Protocolo de Nagóia à Convenção Sobre a Diversidade Biológica
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 49/2014
+official_date: null
+publication_date: '2014-08-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/2014, Série I de 2014-08-22
+  number: '161'
+  series: I
+  supplement: null
+  pages: 4396 - 4397
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/08/16100/0439604397.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/49/2014/08/22/p/dre/pt/html
+  oj: null
+  dre: '56304796'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/49-2014-56304796
+  internal: pt:dre:56304796:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2014-56304796
+  metadata_url: https://data.dre.pt/eli/resolconsmin/49/2014/08/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2014-56304796
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-08-22T00:00:00Z'
+integrity:
+  source_sha256: 5843d8b3974182fff6a1465418586d80077b0e0e834bc7f406d146ca36f41364
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2014/DRE-2014-49-56304796.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Genética
+- Criação de Serviços
+- Grupo de Trabalho
+- Diversidade Biológica
+- Recursos Genéticos
+relationships:
+- type: cites
+  target: celex:32014D0283
+  label: null
+  source: http://data.europa.eu/eli/dec/2014/283/oj
+- type: cites
+  target: celex:32014R0511
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/511/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 49/2014
+
+A localização geográfica e as características geofísicas e edafoclimáticas do território português, modeladas pela intervenção humana com intensidade e significado variáveis consoante as regiões e as épocas, deram origem a uma grande variedade de biótopos, ecossistemas e paisagens, mais ou menos humanizadas, que propiciam a existência de um elevado número de habitats que albergam uma grande diversidade de espécies com os seus múltiplos genótipos.
+
+Portugal possui uma extensa linha de costa e com níveis de poluição relativamente reduzidos, merecendo especial referência os ecossistemas costeiros e marinhos, que apresentam grande riqueza em termos de valores faunísticos e florísticos, assim como as Zona Económica Exclusiva e Plataforma Continental nacionais que, pelas suas extensões, encerram um considerável potencial em termos de investigação, bioprospeção e exploração de recursos genéticos.
+
+Os recursos genéticos - o património genético constituído pelos recursos tanto naturais como cultivados - desempenham um papel significativo e crescente em muitos setores económicos. Um conjunto alargado de intervenientes, incluindo investigadores do mundo académico e empresas de diferentes setores da indústria (por exemplo, seleção vegetal e criação de animais, controlo biológico, cosméticos, alimentação e bebidas, horticultura, biotecnologia e indústria farmacêutica), utiliza recursos genéticos para fins de investigação e desenvolvimento.
+
+Portugal assinou, em 20 de setembro de 2011, o Protocolo de Nagóia à Convenção sobre a Diversidade Biológica, sobre o acesso aos recursos genéticos e a partilha justa e equitativa dos benefícios decorrentes da sua utilização, também designado por Protocolo ABS (Access and Benefit Sharing), que foi adotado em 29 de outubro de 2010, em Nagóia, no Japão, durante a 10.ª Conferência das Partes (COP10) da Convenção sobre a Diversidade Biológica (CDB).
+
+O Protocolo de Nagóia alarga o quadro geral da CDB, visando a implementação do seu terceiro objetivo em matéria de acesso aos recursos e partilha dos benefícios, tal como regulado pelo artigo 15.º da Convenção, e especificando uma série de obrigações adicionais para as Partes. Espera-se que o Protocolo venha a gerar benefícios significativos para a conservação da biodiversidade nos Estados que concedem o acesso aos recursos genéticos sobre os quais detêm direitos soberanos. Concretamente, o Protocolo de Nagóia pretende reforçar a previsibilidade das condições de acesso aos recursos genéticos, assegurar a efetiva partilha dos benefícios entre utilizadores e fornecedores de recursos genéticos e garantir que não são utilizados recursos genéticos adquiridos ilegalmente.
+
+A ratificação do Protocolo implica o desenvolvimento de medidas legislativas, políticas e administrativas que possibilitem a execução das suas disposições.
+
+Em Portugal, não existe legislação específica em matéria de acesso aos recursos genéticos e de partilha dos benefícios que advêm da sua utilização, sendo, por isso, necessário desenvolver um modelo nacional de regulação neste domínio.
+
+O Protocolo de Nagóia à Convenção sobre a Diversidade Biológica foi aprovado através da [Decisão 2014/283/UE](https://diariodarepublica.pt/application/external/eurolex?14D0283), do Conselho, de 14 de abril de 2014. Foi, igualmente, publicado o [Regulamento (UE) n.º 511/2014](https://diariodarepublica.pt/application/external/eurolex?14R0511), do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que estabelece as normas relativas ao cumprimento das regras de acesso aos recursos genéticos e conhecimentos tradicionais associados aos recursos genéticos, e de partilha dos benefícios decorrentes da sua utilização, em conformidade com o disposto no referido Protocolo. Importa, por isso, adotar as medidas necessárias à aplicação em Portugal desses atos de direito europeu.
+
+O Protocolo ABS tem natureza interdisciplinar, razão pela qual o desenvolvimento de um modelo nacional de regulação neste domínio deve contar com o envolvimento de todos os setores da Administração que possam assumir responsabilidades na respetiva aplicação.
+
+Justifica-se, pois, a constituição de um grupo de trabalho que integre representantes das entidades públicas com atribuições relevantes nos diversos domínios da aplicação do Protocolo de Nagóia, para o desenvolvimento do referido modelo.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar o Grupo de Trabalho sobre o Acesso aos Recursos Genéticos e a Partilha Justa e Equitativa dos Benefícios Decorrentes da sua Utilização, adiante designado por GT ABS, no âmbito da aplicação do Protocolo de Nagóia à Convenção Sobre a Diversidade Biológica.
+
+2 - Determinar que o GT ABS tem por missão:
+
+a) Elaborar o caderno de encargos de um estudo de avaliação custo-benefício do impacto do desenvolvimento de um regime nacional de acesso aos recursos genéticos e de partilha dos benefícios decorrentes da sua utilização, incluindo a regulação do acesso aos recursos genéticos sob jurisdição nacional e medidas adicionais de cumprimento do Protocolo de Nagóia à Convenção sobre a Diversidade Biológica sobre o acesso aos recursos genéticos e a partilha justa e equitativa dos benefícios decorrentes da sua utilização, que foi adotado em 29 de outubro de 2010, em Nagóia, no Japão, e assinado por Portugal, em 20 de setembro de 2011;
+
+b) Propor o modelo jurídico de aplicação do Protocolo de Nagóia e do [Regulamento (UE) n.º 511/2014](https://diariodarepublica.pt/application/external/eurolex?14R0511), do Parlamento Europeu e do Conselho, de 16 de abril de 2014, incluindo a identificação das responsabilidades dos diferentes organismos da Administração Pública.
+
+3 - Determinar que o GT ABS é presidido pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), integrando representantes desta e das seguintes entidades:
+
+a) Autoridade Tributária e Aduaneira;
+
+b) Direção-Geral de Política Externa;
+
+c) Instituto de Investigação Científica Tropical, I. P.;
+
+d) Marinha Portuguesa;
+
+e) Autoridade Marítima Nacional;
+
+f) Guarda Nacional Republicana;
+
+g) Instituto Nacional da Propriedade Industrial, I. P.;
+
+h) Direção-Geral das Atividades Económicas;
+
+i) Autoridade de Segurança Alimentar e Económica;
+
+j) Inspeção-Geral dos Ministérios do Ambiente, Ordenamento do Território e Energia e da Agricultura e do Mar;
+
+k) Agência Portuguesa do Ambiente, I. P.;
+
+l) Direção-Geral de Alimentação e Veterinária;
+
+m) Direção-Geral de Agricultura e Desenvolvimento Rural;
+
+n) Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos;
+
+o) Instituto Português do Mar e da Atmosfera, I. P.;
+
+p) Instituto Nacional de Investigação Agrária e Veterinária;
+
+q) Inspeção-Geral da Educação e Ciência;
+
+r) Fundação para a Ciência e a Tecnologia, I. P.;
+
+s) INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P.;
+
+t) Governo Regional dos Açores;
+
+u) Governo Regional da Madeira.
+
+4 - Determinar que o GT ABS funciona junto do ICNF, I. P., que assegura o respetivo apoio logístico.
+
+5 - Determinar que as entidades referidas no n.º 3 indicam ao ICNF, I. P., os seus representantes no prazo de 10 dias a contar da publicação da presente resolução.
+
+6 - Estabelecer que a atividade dos representantes que integram o GT ABS não é remunerada.
+
+7 - Estabelecer que o mandato GT ABS tem início com a entrada em vigor da presente resolução, devendo a conclusão dos respetivos trabalhos ocorrer até 31 de março de 2015.
+
+8 - Determinar a apresentação, pelo GT ABS, ao membro do Governo responsável pela área da conservação da natureza:
+
+a) De um relatório intercalar, até 31 de dezembro de 2014;
+
+b) De um relatório final, no prazo máximo de um mês após a conclusão dos trabalhos.
+
+Presidência do Conselho de Ministros, 17 de julho de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.

@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:531831:por
+title: Portaria n.º 8/84
+short_title: null
+summary: Estabelece normas para a classificação de carcaças de suíno. Revoga a Portaria n.º 540/81, de 30 de Junho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura, Florestas e Alimentação e do Comércio e Turismo - Secretarias de Estado da Agricultura, da Alimentação
+  e do Comércio Interno
+proposing_entity: null
+official_number: 8/84
+official_date: null
+publication_date: '1984-01-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/1984, Série I de 1984-01-05
+  number: '4'
+  series: I
+  supplement: null
+  pages: 21 - 22
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/01/00400/00210022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '531831'
+  dre_path: /dr/detalhe/portaria/8-1984-531831
+  internal: pt:dre:531831:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-1984-531831
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-1984-531831
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-06-25T00:00:00Z'
+integrity:
+  source_sha256: 01d8c4e9cbe6165c15656c8996679d12d7026824e914317dc760350f41d2fd67
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-8-531831.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:478247:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 8/84
+
+de 5 de Janeiro
+
+Com vista a estimular a melhoria de qualidade da produção nacional de carne de suíno, são revistas pelo presente diploma as normas de classificação que vigoram no País.
+
+No estabelecimento dos critérios que presidiram à presente classificação teve-se em consideração a legislação comunitária, numa perspectiva de adaptação progressiva e gradual das nossas normas às que vigoram na Comunidade Económica Europeia e à realidade nacional.
+
+Mantêm-se, deste modo, as 5 categorias definidas com base em critérios que atendam ao peso, espessura do toucinho, rendimento da carne e apreciação da carcaça, embora se tenha entendido necessário introduzir as definições anatómicas dos cortes das peças que servem de base ao cálculo do rendimento da carcaça (perna, vão e pá).
+
+Igualmente foi julgado conveniente proceder-se à alteração dos limites de peso e espessura do toucinho.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Agricultura, da Alimentação e do Comércio Interno, o seguinte:
+
+1.º Para efeitos do disposto na presente portaria entende-se por:
+
+a) Carcaça. - Rês abatida, sangrada, depilada, eviscerada, sem banhas e rins, com cabeça, chispes e rabo;
+
+b) Peso da carcaça. - Peso obtido em quente, após o abate.
+
+§ único. Para efeito de pagamento à produção e outros deve ser efectuado o desconto de 2% para enxugo;
+
+c) Espessura de toucinho. - É a maior das medidas obtidas na fenda longitudinal da separação da carcaça, a nível da última costela ou do sacro (promontório), desde o bordo externo do courato até à aponevrose de separação entre o tecido muscular e o toucinho;
+
+d) Rendimento. - É a relação entre o peso das peças nobres, perna, vão e pá, e o peso total da carcaça em quente:
+
+1) Perna - peça correspondente ao membro pélvico que resulta do corte das inserções musculares no bordo púbico e arcada crural e que contornando o ângulo anterior do ílio atinge, perpendicularmente, a articulação lombo-sagrada, sem gordura e sem courato, até ao terço inferior da região tíbio-peroneal;
+
+2) Vão - peça correspondente a todas as hemivértebras e terço superior das costelas que resulta do corte tangencial ao músculo psoas maior e que atinge o terço superior da primeira costela, com as respectivas massas musculares, sem gordura e sem courato;
+
+3) Pá - peça correspondente à parte superior do membro torácico que resulta do corte das inserções das massas musculares que a ligam ao tórax, separado do segmento distal pelo corte tangencial ao olecrânio, passando pela extremidade distal da diáfise do úmero, sem courato e sem gordura e apenas com os músculos intrínsecos;
+
+e) Porca. - Carcaça com qualquer peso do sexo feminino da espécie porcina doméstica que tenha parido pelo menos 1 vez;
+
+f) Varrasco. - Carcaça com qualquer peso do sexo masculino da espécie porcina doméstica que tenha sido utilizado para a reprodução.
+
+2.º As carcaças de suíno serão classificadas por categorias de acordo com o disposto no anexo I. As porcas e os varrascos não são susceptíveis de classificação.
+
+3.º A carcaça que não possuir no conjunto todas as características apontadas para uma das categorias será classificada na categoria imediatamente inferior.
+
+4.º A carcaça que apresentar rejeição parcial que altere o valor comercial das peças nobres será classificada na categoria correspondente ao seu rendimento.
+
+5.º Em caso de reclamação da classificação, o interessado terá de cumprir as normas constantes do capítulo VI da [Portaria n.º 558/81](https://diariodarepublica.pt/dr/detalhe/portaria/558-1981-580364) e do capítulo VIII do regulamento anexo à [Portaria n.º 129/80](https://diariodarepublica.pt/dr/detalhe/portaria/129-1980-677435).
+
+6.º A Junta Nacional dos Produtos Pecuários empreenderá as medidas necessárias para que as presentes normas sejam aplicadas em todo o País.
+
+7.º Fica revogada a [Portaria n.º 540/81](https://diariodarepublica.pt/dr/detalhe/portaria/540-1981-578569), de 30 de Junho.
+
+8.º A presente portaria entra em vigor 1 mês após a sua publicação.
+
+Secretarias de Estado da Agricultura, da Alimentação e do Comércio Interno.
+
+**Assinada em 21 de Outubro de 1983.**
+
+**O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho. - O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+
+## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/00400/00210022.pdf))](https://files.diariodarepublica.pt/1s/1984/01/00400/00210022.pdf)

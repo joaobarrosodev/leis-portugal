@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:299034:por
+title: Portaria n.º 485/78
+short_title: null
+summary: Introduz alterações à Portaria n.º 367/72, de 3 de Julho, que regulamenta a prática farmacêutica dos auxiliares de
+  farmácia
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Trabalho e dos Assuntos Sociais
+proposing_entity: null
+official_number: 485/78
+official_date: null
+publication_date: '1978-08-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/1978, Série I de 1978-08-24
+  number: '194'
+  series: I
+  supplement: null
+  pages: 1712 - 1713
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/08/19400/17121713.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '299034'
+  dre_path: /dr/detalhe/portaria/485-1978-299034
+  internal: pt:dre:299034:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/485-1978-299034
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/485-1978-299034
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-08-24T00:00:00Z'
+integrity:
+  source_sha256: 87663c92a63db3eebb47db274d2e42bbfd80b2bd2e24b608e735e84ad98867c8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-485-299034.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 485/78
+
+de 24 de Agosto
+
+A [Portaria n.º 367/72](https://diariodarepublica.pt/dr/detalhe/portaria/367-1972-674410), de 3 de Julho, aprovada ao abrigo do artigo 98.º, n.º 1, do [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968, teve por objectivo, como consta aliás do seu preâmbulo, a regulamentação do registo de prática farmacêutica dos auxiliares de farmácia.
+
+Contudo, o diploma em causa exorbitou grandemente do objectivo referido, ao legislar não apenas sobre o registo de prática, mas verdadeiramente sobre a carreira profissional dos auxiliares de farmacêutico. Na verdade, o artigo 3.º daquela portaria prevê quais as categorias profissionais e quais os requisitos de ingresso e de acesso aos graus da respectiva carreira, prevendo-se no artigo 4.º a prestação de exame como um dos modos de acesso ao grau II e III da carreira.
+
+Tratando-se de matérias que melhor se enquadram no âmbito de uma regulamentação colectiva de trabalho, elas exorbitam, no entanto, do âmbito de um diploma destinado a definir única e simplesmente o registo de prática dos auxiliares de farmácia.
+
+Entretanto, mostra-se também necessária, desde já, a alteração de algumas normas da mesma portaria, enquanto não se processa a revisão da legislação do sector das farmácias - o que se fará necessariamente com a criação próxima do Serviço Nacional de Saúde. Não se compreende, na verdade, que se registe a prática de auxiliares de farmacêutico que não trabalhem em tempo completo por exercerem, com horários incompatíveis, outras funções públicas ou privadas. Por outro lado, não se justifica também que continue a constar do registo de prática a referência ao comportamento do auxiliar de farmacêutico, tratando-se, como é bom de ver, de matéria directamente relacionada com o aspecto disciplinar das relações de trabalho e sujeita, por isso mesmo, ao regime geral.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros do Trabalho e dos Assuntos Sociais, o seguinte:
+
+I) São revogados os artigos 3.º e 4.º da [Portaria n.º 367/72](https://diariodarepublica.pt/dr/detalhe/portaria/367-1972-674410), de 3 de Julho.
+
+II) Os artigos 1.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º e 16.º daquela portaria passam a ter a seguinte redacção:
+
+###### Artigo 1.º - 1 - ...
+
+2 - Para efeitos do número anterior, só deve ser considerada a prática dos auxiliares que trabalhem em tempo completo, excluindo-se a daqueles que, por exercerem funções públicas ou privadas, se deva presumir que não podem trabalhar em tempo completo.
+
+###### Art. 5.º O auxiliar de farmacêutico, após um ano de prática registada, deverá iniciar-se no aviamento do público, não podendo, contudo, intervir na venda de medicamentos cujo fornecimento dependa de apresentação de receita médica.
+
+###### Art. 6.º - 1 - Para que tenha direito ao registo de prática, o auxiliar deverá trabalhar, pelo menos, duzentos e cinquenta dias em cada período de um ano.
+
+2 - O período de um ano previsto no número anterior não tem de coincidir com o ano civil.
+
+###### Art. 7.º - 1 - Em todas as farmácias haverá um livro de modelo único, e em que se contenha o local destinado às rubricas diárias dos auxiliares do farmacêutico e do director técnico.
+
+Deverá ser apresentado nas delegações ou subdelegações de saúde em cuja área se situe a farmácia, a fim de nele serem lavrados termos de abertura e de encerramento e rubricadas as folhas, devidamente numeradas.
+
+2 - O livro será rubricado diariamente pelos auxiliares nos primeiros trinta minutos posteriores à abertura da farmácia. Decorrido este período, o director técnico, ou quem o substitua, rubricá-lo-á e trancará o espaço reservado para as rubricas do dia, de modo a impossibilitar-se a sua posterior escrituração.
+
+###### Art. 8.º - 1 - Anualmente e durante o mês de Janeiro, o director técnico da farmácia remeterá à Direcção-Geral de Saúde uma nota por cada auxiliar ao serviço, com observância do disposto no n.º 2 do artigo 1.º
+
+2 - Da nota anual constará o número de dias de trabalho prestado no ano anterior e o aproveitamento do empregado.
+
+###### Art. 10.º O livro, bem como os impressos e as cadernetas, são de modelos únicos, aprovados por despacho do Ministro dos Assuntos Sociais.
+
+###### Art. 11.º Das informações constantes do impresso e referentes ao aproveitamento do empregado poderá este interpor recurso para o Ministro dos Assuntos Sociais, que decidirá, depois de parecer de uma comissão constituída por um representante da Ordem dos Farmacêuticos, por um representante dos Sindicatos dos Ajudantes de Farmácia e por um representante da Direcção-Geral de Saúde, que presidirá.
+
+###### Art. 12.º Depois de completados cinco anos de prática registada, a Direcção-Geral de Saúde deixará de registar a prática dos auxiliares de farmacêutico, tornando-se desnecessária a rubrica diária a que se refere o artigo 7.º desta portaria.
+
+###### Art. 13.º Para início do registo do primeiro ano de prática dos auxiliares de farmacêutico, deverão estes enviar à Direcção-Geral de Saúde, além da nota anual e da caderneta, os seguintes documentos:
+
+a) Certidão de nascimento;
+
+b) Certidão de habilitações literárias;
+
+c) Certidão de registo criminal;
+
+d) Boletim de sanidade.
+
+###### Art. 16.º As habilitações literárias referidas no artigo 2.º desta portaria não serão, em caso algum, exigíveis aos auxiliares dos farmacêuticos ao serviço à data da sua publicação.
+
+III) O disposto no n.º 1 desta portaria não prejudica a prestação do exame pelos candidatos que o requererem até à data da entrada em vigor deste diploma.
+
+IV) As dúvidas surgidas na interpretação e aplicação desta portaria serão resolvidas por despacho do Ministro dos Assuntos Sociais.
+
+Ministérios do Trabalho e dos Assuntos Sociais, 5 de Julho de 1978. - O Ministro do Trabalho, António Manuel Maldonado Gonelha. - O Ministro dos Assuntos Sociais, António Duarte Arnaut.

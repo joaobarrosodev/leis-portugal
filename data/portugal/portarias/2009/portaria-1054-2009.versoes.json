@@ -1,0 +1,190 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:490242:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-168747962",
+ "dre_path": "/dr/detalhe/portaria/1054-2009-490242",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "168748054",
+    "168748055",
+    "168748056",
+    "168748057",
+    "168748058",
+    "168748059",
+    "168748061",
+    "168748062"
+   ]
+  },
+  {
+   "date": "2021-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:168697993:por",
+     "title": "Portaria n.º 165/2021",
+     "published": "2021-07-30",
+     "dre_path": "/dr/detalhe/portaria/165-2021-168697993"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "168748054",
+    "168753200",
+    "168753201",
+    "168753202",
+    "168753203",
+    "168748059",
+    "168748060",
+    "168753204",
+    "168753205"
+   ]
+  }
+ ],
+ "fragments": {
+  "168748054": {
+   "fragment_id": "168747963",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1054/2009\n\nde 16 de Setembro\n\nTaxas por serviços de segurança contra incêndio em edifícios prestados pela ANPC\n\nO novo regime jurídico da segurança contra incêndio em edifícios (SCIE), aprovado pelo Decreto-Lei n.º 220/2008, de 12 de Novembro, prevê no artigo 29.º que os serviços prestados pela Autoridade Nacional de Protecção Civil (ANPC), no âmbito da SCIE, estão sujeitos a taxas cujo valor é fixado por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da protecção civil.\n\nAs taxas mencionadas constituem receitas próprias da ANPC, em conformidade com o previsto na alínea f) do n.º 2 do artigo 19.º do Decreto-Lei n.º 75/2007, de 29 de Março.\n\nAssim:\n\nNos termos e ao abrigo do disposto no n.º 1 do artigo 29.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, manda o Governo, pelos Ministros de Estado e das Finanças e da Administração Interna, o seguinte:"
+  },
+  "168748055": {
+   "fragment_id": "168747964",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria fixa o valor das taxas pelos serviços prestados pela Autoridade Nacional de Protecção Civil (ANPC), no âmbito do Decreto-Lei n.º 220/2008, de 12 de Novembro."
+  },
+  "168748056": {
+   "fragment_id": "168747965",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - Nos termos do disposto no n.º 2 do artigo 29.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, estão sujeitos ao pagamento de taxas os seguintes serviços prestados pela ANPC:\n\na) A emissão de pareceres sobre as condições de segurança contra incêndio em edifícios (SCIE);\n\nb) A realização de vistorias sobre as condições de SCIE;\n\nc) A realização de inspecções regulares sobre as condições de SCIE;\n\nd) A realização de inspecções extraordinárias sobre as condições de SCIE, quando sejam solicitadas pelas entidades responsáveis a que se referem os n.os 3 e 4 do artigo 6.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\ne) As consultas prévias referidas no n.º 3 do artigo 22.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\nf) A credenciação de pessoas singulares ou colectivas para emissão de pareceres e para a realização de vistorias e inspecções das condições de SCIE;\n\ng) O registo a que se refere o n.º 3 do artigo 16.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\nh) O processo de registo de entidades que exerçam a actividade de comercialização de produtos e equipamentos de SCIE, a sua instalação e manutenção;\n\ni) O registo a que se refere o n.º 2 do artigo 30.º do Decreto-Lei n.º 220/2008, de 12 de Novembro.\n\n2 - As taxas a cobrar pelos serviços mencionados no número anterior constam dos anexos i e ii à presente portaria, da qual fazem parte integrante.\n\n3 - Cada reapreciação de planos ou projectos de SCIE ou repetição de consultas prévias sobre as medidas de autoprotecção dos edifícios e recintos, de vistorias e de inspecções no âmbito da SCIE, por razões imputáveis aos destinatários dos serviços, está sujeita a uma taxa correspondente a 50 % do valor das taxas fixadas nos termos do número anterior."
+  },
+  "168748057": {
+   "fragment_id": "168747966",
+   "type": 11,
+   "heading": "Artigo 3.º — Cobrança e pagamento das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cobrança e pagamento das taxas\n\n1 - A cobrança, o depósito e o controlo das receitas das taxas são efectuados pela ANPC, em conformidade com o disposto na alínea f) do n.º 2 e no n.º 3, ambos do artigo 19.º do Decreto-Lei n.º 75/2007, de 29 de Março.\n\n2 - Os trabalhos das entidades credenciadas pela ANPC, com a execução dos serviços previstos nas alíneas a) a c) e i) do n.º 1 do artigo anterior, são remunerados até ao valor máximo de 60 % das correspondentes taxas, nos termos que vierem a ser fixados na portaria prevista no n.º 1 do artigo 30.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, constituindo despesa da ANPC, em conformidade com o disposto na alínea a) do artigo 20.º do Decreto-Lei n.º 75/2007, de 29 de Março.\n\n3 - As taxas, devidas pelos serviços referidos nas alíneas a), b), e d) a h) do n.º 1 do artigo anterior, são pagas aquando da apresentação da solicitação da sua prestação.\n\n4 - As taxas, devidas pelos serviços referidos nas alíneas c) e i) do n.º 1 do artigo anterior, são pagas após a prestação dos mesmos.\n\n5 - As taxas são pagas mediante a emissão da guia de pagamento, sendo devolvido um exemplar ao destinatário dos serviços, podendo a ANPC estabelecer o pagamento através de meios electrónicos de pagamento."
+  },
+  "168748058": {
+   "fragment_id": "168747967",
+   "type": 11,
+   "heading": "Artigo 4.º — Actualização das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Actualização das taxas\n\n1 - Os valores das taxas estabelecidos na presente portaria são actualizados, automaticamente, em 1 de Janeiro de cada ano, por aplicação do índice de preços no consumidor, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, arredondando-se os resultados obtidos à centésima casa decimal.\n\n2 - A actualização das taxas nos termos previstos no número anterior é publicitada por despacho do presidente da ANPC."
+  },
+  "168748059": {
+   "fragment_id": "168747968",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação."
+  },
+  "168748061": {
+   "fragment_id": "168747970",
+   "type": 14,
+   "heading": "Anexo I — Taxas a cobrar pelos serviços mencionados nas alíneas a) a e) do n.º 1 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Taxas a cobrar pelos serviços mencionados nas alíneas a) a e) do n.º 1 do artigo 2.º\n\n1 - O valor das taxas a cobrar, tendo por base os parâmetros do quadro abaixo, é calculado de acordo com a seguinte fórmula:\n\nT = AB x VU\n\n[T - valor da taxa dos serviços de SCIE prestados (euros); AB - área bruta da utilização-tipo (metros quadrados); VU - valor unitário dos serviços de SCIE prestados (euros/metros quadrados).]\n\n2 - Nas situações em que o valor da taxa, apurado nos termos do número anterior, for inferior à taxa mínima correspondente fixada no quadro abaixo, é cobrada a taxa mínima respectiva.\n\n(ver documento original)"
+  },
+  "168748062": {
+   "fragment_id": "168747971",
+   "type": 14,
+   "heading": "Anexo II — Taxas a cobrar pelos serviços mencionados nas alíneas f) a i) do n.º 1 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Taxas a cobrar pelos serviços mencionados nas alíneas f) a i) do n.º 1 do artigo 2.º\n\n(ver documento original)"
+  },
+  "168753200": {
+   "fragment_id": "168747964",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2021-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria fixa o valor das taxas pelos serviços prestados pela Autoridade Nacional de Emergência e Proteção Civil (ANEPC), no âmbito do regime jurídico da segurança contra incêndio em edifícios (SCIE).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+  },
+  "168753201": {
+   "fragment_id": "168747965",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2021-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - Nos termos do disposto no n.º 2 do artigo 29.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual, estão sujeitos ao pagamento de taxas os seguintes serviços de SCIE prestados pela ANEPC:\n\na) A emissão de pareceres sobre projetos de especialidade de SCIE;\n\na) A emissão de pareceres sobre as condições de segurança contra incêndio em edifícios (SCIE);\n\nb) A realização de vistorias sobre as condições de SCIE;\n\nc) A realização de inspecções regulares sobre as condições de SCIE;\n\nd) A emissão de pareceres sobre medidas de autoproteção;\n\ne) (Revogada.)\n\nf) A credenciação de entidades para a emissão de pareceres e para a realização de vistorias e de inspeções das condições de SCIE;\n\ng) O registo dos autores de projetos e medidas de autoproteção, a que se refere o n.º 1 do artigo 15.º-A do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual;\n\nh) O processo de registo de entidades que exerçam a atividade de comercialização, instalação ou manutenção de equipamentos e sistemas de SCIE.\n\ni) (Revogada.)\n\n2 - As taxas a cobrar pelos serviços mencionados no número anterior constam dos anexos i e ii à presente portaria, da qual fazem parte integrante.\n\n3 - No âmbito da Portaria n.º 773/2009, de 21 de julho, na sua redação atual, a alteração dos dados que implique alterações do técnico responsável ou dos equipamentos e sistemas de SCIE que são objeto de registo está sujeita a uma taxa correspondente a 50 % do valor das taxas fixadas nos termos do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+  },
+  "168753202": {
+   "fragment_id": "168747966",
+   "type": 11,
+   "heading": "Artigo 3.º — Cobrança e pagamento das taxas",
+   "in_force_from": "2021-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Cobrança e pagamento das taxas\n\n1 - A cobrança, o depósito e o controlo das receitas das taxas são efetuados pela ANEPC, em conformidade com o disposto na alínea h) do n.º 2 e no n.º 3 do artigo 27.º do Decreto-Lei n.º 45/2019, de 1 de abril.\n\n2 - Os trabalhos das entidades credenciadas pela ANEPC com a execução dos serviços previstos nas alíneas a) a d) do n.º 1 do artigo anterior são remunerados nos termos do artigo 14.º da Portaria n.º 64/2009, de 22 de janeiro, na sua redação atual, constituindo despesa da ANEPC, em conformidade com o disposto no artigo 28.º do Decreto-Lei n.º 45/2019, de 1 de abril.\n\n3 - As taxas devidas pelos serviços referidos no n.º 1 do artigo anterior são pagas aquando da apresentação da solicitação da sua prestação.\n\n4 - (Revogado.)\n\n5 - As taxas são pagas mediante a emissão da guia de pagamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+  },
+  "168753203": {
+   "fragment_id": "168747967",
+   "type": 11,
+   "heading": "Artigo 4.º — Actualização das taxas",
+   "in_force_from": "2021-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+   ],
+   "markdown": "###### Artigo 4.º — Actualização das taxas\n\n1 - Os valores das taxas estabelecidos na presente portaria são atualizados, por despacho do presidente da ANEPC, mediante a aplicação do índice de preços no consumidor, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, arredondando-se os resultados obtidos à centésima casa decimal, no prazo máximo de 45 dias após a publicação do índice de dezembro do ano anterior.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+  },
+  "168748060": {
+   "fragment_id": "168747969",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 4 de Setembro de 2009. - O Ministro da Administração Interna, Rui Carlos Pereira, em 24 de Agosto de 2009."
+  },
+  "168753204": {
+   "fragment_id": "168747970",
+   "type": 14,
+   "heading": "Anexo I — Taxas a cobrar pelos serviços mencionados nas alíneas a) a e) do n.º 1 do artigo 2.º",
+   "in_force_from": "2021-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+   ],
+   "markdown": "## Anexo I — Taxas a cobrar pelos serviços mencionados nas alíneas a) a e) do n.º 1 do artigo 2.º\n\n1 - O valor das taxas a cobrar, tendo por base os parâmetros do quadro abaixo, é calculado de acordo com a seguinte fórmula:\n\nT = AB x VU + 0,05 x A x VU\n\n[T - valor da taxa dos serviços de SCIE prestados (euros); AB - área bruta dos espaços edificados da utilização-tipo (metros quadrados); A - área dos espaços não edificados da utilização-tipo (metros quadrados), quando aplicável, em recintos; VU - valor unitário dos serviços de SCIE prestados (euros/metros quadrados).]\n\n(ver documento original)\n\n2 - Nas situações em que o valor da taxa, apurado nos termos do presente artigo, for inferior à taxa mínima correspondente fixada no quadro acima, é cobrada a taxa mínima respetiva.\n\n3 - Nos edifícios de utilização mista, de acordo com o n.º 2 do artigo 8.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual, compostos por utilizações-tipo distintas, mas funcionalmente interdependentes, desde que integradas na mesma atividade económica e exploradas pela mesma pessoa individual ou coletiva, o valor da taxa a cobrar obtém-se através do somatório dos valores das taxas determinadas para cada utilização-tipo, sendo cobrado o valor correspondente à respetiva taxa mínima de uma utilização-tipo sempre que o somatório apresente um valor que lhe é inferior.\n\n4 - Aos serviços prestados pelas situações previstas no n.º 3 do artigo 3.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual, é cobrada a taxa mínima respetiva.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+  },
+  "168753205": {
+   "fragment_id": "168747971",
+   "type": 14,
+   "heading": "Anexo II — Taxas a cobrar pelos serviços mencionados nas alíneas f) a h) do n.º 1 do artigo 2.º",
+   "in_force_from": "2021-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+   ],
+   "markdown": "## Anexo II — Taxas a cobrar pelos serviços mencionados nas alíneas f) a h) do n.º 1 do artigo 2.º\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/165-2021-168697993), em vigor a partir de 2021-08-01"
+  }
+ }
+}

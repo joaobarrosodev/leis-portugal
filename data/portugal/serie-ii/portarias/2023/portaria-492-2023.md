@@ -1,0 +1,224 @@
+---
+schema_version: '1.0'
+id: pt:dre:221610941:por
+title: Portaria n.º 492/2023
+short_title: null
+summary: Fixa a zona especial de proteção do Castelo de Alcácer do Sal e da igreja matriz de Alcácer do Sal, em Alcácer do
+  Sal, freguesia de Alcácer do Sal (Santa Maria do Castelo e Santiago), concelho de Alcácer do Sal, distrito de Setúbal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Cultura - Gabinete da Secretária de Estado da Cultura
+proposing_entity: null
+official_number: 492/2023
+official_date: null
+publication_date: '2023-09-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/2023, Série II de 2023-09-14
+  number: '179'
+  series: II
+  supplement: null
+  pages: 78 - 82
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/09/179000000/0007800082.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '221610941'
+  dre_path: /dr/detalhe/portaria/492-2023-221610941
+  internal: pt:dre:221610941:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-2023-221610941
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-2023-221610941
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-09-14T00:00:00Z'
+integrity:
+  source_sha256: ae5eb5cb8e038c0a841c98d3db135ae049e6019225dfdb6363020a0cdeb6dd87
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-492-221610941.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 492/2023
+
+O Castelo de Alcácer do Sal encontra-se classificado como monumento nacional, conforme Decreto de 16 de junho de 1910, publicado no Diário do Governo, n.º 136, de 23 de junho de 1910.
+
+A igreja matriz de Alcácer do Sal, também chamada Igreja de Santa Maria do Castelo, encontra-se classificada como imóvel de interesse público, conforme o [Decreto n.º 38 147](https://diariodarepublica.pt/dr/detalhe/decreto/38147-1951-435413), publicado no Diário do Governo, 1.ª série, n.º 4, de 5 de janeiro de 1951.
+
+O Castelo de Alcácer do Sal encontra-se implantado sobre o vale do Sado, num cerro com vestígios desde o Neolítico ao período pós-Reconquista, da qual resultou a progressiva ocupação cristã da imponente fortificação islâmica do século xii que D. Sancho I viria a doar à Ordem de Santiago. O castelo, ou Al-Qasr, de origem almóada, que daria nome à cidade, foi sucessivamente reformado, mas perdeu a sua importância militar ao longo do século xv, não restando atualmente senão uma parte do grande baluarte medieval. No último quartel do século xvi foi fundado, no edifício dos Paços da Ordem de Santiago, o Convento de Nossa Senhora de Aracaeli, de freiras clarissas, onde hoje se encontra instalada a Pousada D. Afonso II.
+
+Das estruturas medievais subsiste ainda a Igreja de Santa Maria do Castelo, fundada intramuros pela Ordem de Santiago no século xiii, sobre um templo romano, e que constitui um dos mais inocentes interessantes exemplares do tardo-românico conservados no sul de Portugal. O edifício, onde os vestígios românicos de transição se conjugam com elementos arquitetónicos das posteriores intervenções góticas, manuelinas e barrocas, alberga importantes obras dos séculos xvi a xvii, incluindo serralharias quinhentistas e talha dourada e azulejos seiscentistas.
+
+O presente diploma define uma zona especial de proteção que tem como fundamento assegurar a integridade física e o significado cultural dos bens classificados, e salvaguardar a envolvente urbana bem como as perspetivas da sua contemplação, tendo igualmente em conta a sua situação dominante no contexto paisagístico.
+
+A fixação conjunta da ZEP, sendo que cada um dos monumentos classificados, por si, goza dos limites agora definidos atenta às especificidades do local e à sua relação com o edificado, resultando do entendimento da unidade da localização, imagem urbana e ambiente, características morfológicas e pontos de vista.
+
+No âmbito da instrução de procedimento de fixação da ZEP, a Direção-Geral do Património Cultural, em articulação com a Direção Regional da Cultura do Alentejo e a Câmara Municipal de Alcácer do Sal, procedeu ao estudo das restrições consideradas adequadas, que obtiveram parecer favorável do Conselho Nacional de Cultura.
+
+Foram cumpridos os procedimentos de audição dos interessados, previstos no artigo 45.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, na sua redação atual e de acordo com o disposto no Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 43.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, na sua redação atual, e no n.º 1 do artigo 48.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, na sua redação atual, e no uso das competências delegadas pelo [Despacho n.º 7052/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7052-2022-184306970), publicado no Diário da República, 2.ª série, n.º 107, de 2 de junho de 2022, manda o Governo, pela Secretária de Estado da Cultura, o seguinte:
+
+###### Artigo único — Zona especial de proteção
+
+1 - É fixada a zona especial de proteção (ZEP) do Castelo de Alcácer do Sal, classificado como monumento nacional pelo Decreto de 16 de junho de 1910 publicado no Diário do Governo, n.º 136, de 23 de junho de 1910, e da igreja matriz de Alcácer do Sal, também chamada Igreja de Santa Maria do Castelo, classificada como imóvel de interesse público pelo [Decreto n.º 38 147](https://diariodarepublica.pt/dr/detalhe/decreto/38147-1951-435413), publicado no Diário do Governo, 1.ª série, n.º 4, de 5 de janeiro de 1951, em Alcácer do Sal, freguesia de Alcácer do Sal (Santa Maria do Castelo e Santiago), concelho de Alcácer do Sal, distrito de Setúbal, conforme planta constante do anexo à presente portaria e da qual faz parte integrante.
+
+2 - Nos termos do n.º 1 do artigo 43.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, são fixadas as seguintes restrições:
+
+a) Zona non aedificandi (ZNA):
+
+É criada uma zona non aedificandi, conforme planta constante do anexo à presente portaria, da qual faz parte integrante, em que:
+
+i) Apenas são admitidas intervenções que tenham como objetivo melhorar as condições de fruição e conservação, tais como trabalhos de investigação, consolidação, conservação e restauro, valorização e requalificação de percursos de visita;
+
+ii) Apenas são admitidas demolições de pavimentos, incluindo valetas, muretes nos limites dos arruamentos e redes metálicas e respetivos postes e portões, e o abate de árvores;
+
+iii) Devem ser previstos trabalhos anuais de conservação e restauro de estruturas arqueológicas, tais como: reforço e consolidação, limpezas, aplicação de biocidas e herbicidas em pavimentos e drenagens, e consolidação de argamassas de ligação ou de revestimento, assim como uma monitorização bianual das encostas do castelo abrangidas;
+
+iv) Apenas são admitidos painéis publicitários de caráter informativo, de apoio ao percurso de visita e que apresentem qualidade estética e gráfica;
+
+b) Área de sensibilidade arqueológica (ASA):
+
+É criada uma área de sensibilidade arqueológica, correspondente a toda a ZEP, conforme planta constante do anexo à presente portaria, definindo-se como prática obrigatória para todas as intervenções, públicas ou privadas, que envolvam impacto no solo, os seguintes trabalhos prévios:
+
+i) Sondagens arqueológicas, executadas previamente a qualquer trabalho no solo (exceto na área correspondente à Zona 3 urbanística: Zonas de construção consolidada - equipamentos);
+
+ii) Acompanhamento arqueológico de todas as intervenções com impacto no solo e subsolo a realizar de forma intensiva e integral durante o decorrer dos trabalhos;
+
+iii) A avaliação da natureza das medidas a implementar será executada em conformidade com a análise do projeto e da intervenção proposta ou em curso;
+
+c) Bens imóveis ou grupos de bens imóveis:
+
+São criados cinco zonamentos, conforme planta anexa:
+
+Zona 1: Logradouros privados;
+
+Zona 2: Espaços livres públicos ou privados;
+
+Zona 3: Zonas de construção consolidada - equipamentos;
+
+Zona 4: Construção consolidada;
+
+Zona 5: Zona Poente.
+
+i) Podem ser objeto de obras de alteração:
+
+Na Zona 1:
+
+As superfícies dos logradouros, ou outros espaços abertos privados, não devem ser reduzidos, salvo situações de reconstrução em que se justifica a ampliação dos fogos para espaços exteriores privados, por forma a promover condições de habitabilidade, aplicando-se, nestes casos, o estabelecido na alínea a) do n.º 8 do artigo 6.º do PDM de Alcácer do Sal.
+
+Na Zona 2:
+
+São admitidas intervenções que tenham em vista melhorar as condições de fruição, valorização e conservação, requalificação dos percursos de visita e estadia, construção de apoios explicativos e de lazer.
+
+Na Zona 3:
+
+Imóveis classificados: deve ser respeitada a legislação em vigor para intervenções nestes imóveis, nomeadamente o estipulado na [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, no [Decreto-Lei n.º 140/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2009-494543), de 15 de junho, e no [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro;
+
+Outros edifícios: são admitidas obras de conservação, restauro, recuperação, reabilitação e ampliação controlada por forma a promover condições de habitabilidade que não comprometam as características arquitetónicas e os materiais preexistentes, bem como a integração no conjunto edificado em que se inserem e a integração com a envolvente, nomeadamente, a escala, os materiais, a cor e os elementos decorativos.
+
+Na Zona 4:
+
+Na área interior e envolvente do castelo deverá ser acautelada e edificabilidade, minimizando o impacto da massa construtiva no conjunto urbano envolvente, salvaguardando o enquadramento paisagístico e a sua relação com os imóveis classificados, bem como a notoriedade de projetos de reconhecida qualidade arquitetónica;
+
+São admitidas obras de conservação, restauro, recuperação, reabilitação e ampliação controlada por forma a promover condições de habitabilidade que não comprometam as características arquitetónicas e materiais preexistentes, bem como a integração no conjunto edificado em que se inserem e a integração com a envolvente, nomeadamente, a escala, os materiais, a cor e os elementos decorativos.
+
+Na Zona 5:
+
+Apenas são admitidas intervenções que tenham em vista melhorar as condições de fruição e conservação, requalificação de percursos de visita e estadia e construção de apoios explicativos;
+
+As áreas verdes que constituem, atualmente, propriedade privada, devem manter o seu uso atual;
+
+Os alinhamentos e conjuntos arbóreos devem ser mantidos e preservados, não sendo admitido corte de árvores sem fundamentação técnica que o justifique, nomeadamente, no âmbito do desenvolvimento de projetos de requalificação do espaço público.
+
+ii) Devem ser preservados:
+
+Na Zona 1:
+
+As áreas verdes que constituem, atualmente, propriedade privada, desempenhando as funções de grandes logradouros, ou jardins, devem manter o seu uso atual;
+
+Os alinhamentos e conjuntos arbóreos devem ser mantidos e preservados, não sendo admitido corte de árvores sem fundamentação técnica que o justifique.
+
+Na Zona 2:
+
+Os alinhamentos e conjuntos arbóreos devem ser mantidos e preservados não sendo admitido o corte de árvores sem fundamentação técnica que o justifique, nomeadamente, no âmbito do desenvolvimento de projetos de requalificação do espaço público.
+
+Na Zona 3:
+
+A Pousada de D. Afonso II, na sua globalidade, assim como o núcleo denominado «Casa da Confraria», pertencente à Santa Casa da Misericórdia de Alcácer do Sal, devem ser preservados.
+
+iii) Em circunstâncias excecionais, podem ser demolidos:
+
+Na Zona 1:
+
+Apenas são admitidas demolições de construções precárias, muretes nos limites dos arruamentos e guardas, vedações ou taipais nos limites das propriedades adjacentes às ruas.
+
+Na Zona 2:
+
+Apenas são admitidas demolições de pavimentos existentes, incluindo valetas, muros em alvenaria de pedra, muretes nos limites dos arruamentos, maciços de betão ou escadas, redes metálicas e respetivos postes, portões e guardas, vedações ou taipais nos limites das propriedades adjacentes às ruas, abates de algumas árvores e remoção de postes de cegonhas.
+
+Na Zona 3:
+
+Não são admitidas quaisquer obras de demolição, em edifícios, excetuando casos de ruína iminente devidamente justificada.
+
+d) Regras genéricas de publicidade exterior:
+
+Em toda a ZEP:
+
+Apenas são admitidos painéis publicitários de caráter informativo, de apoio ao percurso de visita, e que apresentem qualidade estética e gráfica.
+
+e) Manutenção:
+
+Na Zona 5:
+
+Toda a zona deve ser objeto de manutenção do espaço verde existente com periodicidade anual.
+
+25 de agosto de 2023. - A Secretária de Estado da Cultura, Isabel Alexandra Rodrigues Cordeiro.
+
+## ANEXO
+
+![](https://files.diariodarepublica.pt/images/221610941/221533353.png)

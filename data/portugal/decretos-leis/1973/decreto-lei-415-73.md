@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:419622:por
+title: Decreto-Lei n.º 415/73
+short_title: null
+summary: Alarga o campo de recrutamento dos funcionários da Polícia Judiciária, disciplina o provimento interino ou em comissão
+  de serviço e atribui novas funções aos subinspectores
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça - Gabinete do Ministro
+proposing_entity: null
+official_number: 415/73
+official_date: null
+publication_date: '1973-08-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 195/1973, Série I de 1973-08-21
+  number: '195'
+  series: I
+  supplement: null
+  pages: 1462 - 1463
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/08/19500/14621463.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '419622'
+  dre_path: /dr/detalhe/decreto-lei/415-1973-419622
+  internal: pt:dre:419622:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1973-419622
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1973-419622
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-09-02T00:00:00Z'
+integrity:
+  source_sha256: 1595616523a7350ce7dc9c34bfdf5c7ea1dfb161eb9dccda0b701dac64d291e0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-415-419622.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:286514:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 415/73
+
+de 21 de Agosto
+
+Com o [Decreto-Lei n.º 82/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1972-396765), de 11 de Março, propôs-se o Ministério da Justiça dotar a Polícia Judiciária de estruturas e quadros de pessoal aptos para a defesa da sociedade contra as formas de que se reveste a moderna delinquência. Acentuou-se, na altura, que apenas se dava mais um passo em direcção àquele objectivo, a que outros naturalmente haveriam de seguir-se, num esforço de permanente procura das melhores soluções.
+
+Julga-se agora oportuno encarar alguns aspectos igualmente carecidos de revisão. Assim, o presente diploma alarga o campo de recrutamento dos funcionários, disciplina o provimento interino ou em comissão de serviço e atribui novas funções aos subinspectores. Além disso, prevê a possibilidade de o serviço de instrução preparatória a cargo da Polícia Judiciária ser distribuído entre esta e o Ministério Público e, bem assim, o estudo de métodos de trabalho destinados a acelerar a referida instrução.
+
+Por outro lado, a execução do [Decreto-Lei n.º 202/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1973-422017), de 4 de Maio, na parte em que aumentou a competência territorial da Polícia Judiciária, impõe um paralelo acréscimo do número de unidades. Esta é, também, uma finalidade do diploma.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Na falta de candidatos com as habilitações exigidas na alínea c) do artigo 2.º do [Decreto-Lei n.º 82/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1972-396765), de 11 de Março, os lugares de agente de 3.ª classe podem excepcionalmente ser providos, mediante autorização do Ministro da Justiça, em indivíduos habilitados com o ciclo preparatório do ensino secundário ou habilitação equiparada, que reúnam as condições exigidas no n.º 1 do artigo 5.º do referido diploma.
+
+###### Art. 2.º O regime previsto na alínea a) do § 1.º do artigo 24.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, é aplicável aos diplomas de nomeação do pessoal técnico auxiliar da Polícia Judiciária.
+
+###### Art. 3.º Quando recair em funcionário público ou administrativo, o provimento de agentes de 3.ª classe estagiários será feito em comissão de serviço, por tempo indeterminado, nos termos dos artigos 56.º e 57.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, podendo o provimento converter-se em definitivo após três anos de bom e efectivo serviço.
+
+###### Art. 4.º - Podem ser providos internamente:
+
+a) Os lugares de subinspector de 1.ª classe, em subinspectores de 2.ª classe com classificação de serviço de Muito bom;
+
+b) Os lugares de subinspector de 2.ª classe, em agentes de 1.ª classe com classificação de serviço de Muito bom e, na falta destes, em agentes de 2.ª classe com igual classificação e seis anos de serviço efectivo na categoria;
+
+c) Os lugares de agente de 1.ª e de 2.ª classe, em agentes de 2.ª e de 3.ª classe, respectivamente, com classificação de serviço de Bom.
+
+2. O provimento interino não depende do tempo de serviço do funcionário a prover, salvo o disposto na alínea b) do n.º 1 para os agentes de 2.ª classe, podendo manter-se até ao provimento definitivo.
+
+3. O disposto nos números anteriores é aplicável, com as necessárias adaptações, às carreiras do pessoal técnico auxiliar de lofoscopia e de laboratório.
+
+###### Art. 5.º Sem prejuízo das funções que já desempenham, competirá ainda aos subinspectores presidir, por delegação dos inspectores, a diligências de instrução preparatória nos processos correccionais e de polícia correccional e a exames, autópsias, buscas e outras diligências externas nos processos de querela.
+
+###### Art. 6.º O serviço de instrução preparatória a cargo das subdirectorias, inspecções e subinspecções da Polícia Judiciária pode ser distribuído entre esta e o Ministério Público, por despacho do Ministro da Justiça, sob proposta do procurador-geral da República.
+
+###### Art. 7.º Mediante proposta dos procuradores da República ou do director da Polícia Judiciária, o procurador-geral da República pode autorizar a adopção de medidas destinadas a assegurar o cumprimento dos prazos legais da instrução preparatória.
+
+###### Art. 8.º - 1. O quadro único do pessoal da Polícia Judiciária é aumentado das seguintes unidades: 5 inspectores de 1.ª classe, 7 inspectores de 2.ª classe, 5 inspectores de 3.ª classe, 28 subinspectores de 1.ª classe, 6 subinspectores de 2.ª classe, 48 agentes de 1.ª classe, 54 agentes de 2.ª classe, 53 agentes de 3.ª classe, 2 subinspectores de lofoscopia de 1.ª classe, 1 subinspector de lofoscopia de 2.ª classe, 3 técnicos auxiliares de lofoscopia de 1.ª classe, 2 técnicos auxiliares de lofoscopia de 2.ª classe, 2 técnicos auxiliares de lofoscopia de 3.ª classe, 4 primeiros-oficiais, 1 segundo-oficial, 1 terceiro-oficial, 2 escriturários-dactilógrafos de 1.ª classe, 2 escriturários-dactilógrafos de 2.ª classe, 1 telefonista de 1.ª classe, 1 telefonista de 2.ª classe, 5 motoristas de 2.ª classe e 1 contínuo de 1.ª classe.
+
+2. Os lugares referidos no número anterior serão preenchidos depois de declaradas abertas as correspondentes vagas em portaria dos Ministros da Justiça e das Finanças.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias.
+
+**Promulgado em 8 de Agosto de 1973.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

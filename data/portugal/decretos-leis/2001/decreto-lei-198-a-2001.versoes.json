@@ -1,0 +1,488 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:365766:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-885359311",
+ "dre_path": "/dr/detalhe/decreto-lei/198-a-2001-365766",
+ "source_lastmod": "2024-08-23",
+ "versions": [
+  {
+   "date": "2001-07-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885359255",
+    "885359256",
+    "885359257",
+    "885359258",
+    "885359259",
+    "885359260",
+    "885359261",
+    "885359263",
+    "885359264",
+    "885359265",
+    "885359266",
+    "885359267",
+    "885359268",
+    "885359269",
+    "885359270",
+    "885359271",
+    "885359272",
+    "885359273",
+    "885359274",
+    "885371175",
+    "885371176",
+    "885371177",
+    "885371178",
+    "885371179",
+    "885371180",
+    "885371181",
+    "885371182",
+    "885371183",
+    "885371184",
+    "885371185",
+    "885371186",
+    "885371187",
+    "885371188",
+    "885371189",
+    "885371190"
+   ]
+  },
+  {
+   "date": "2005-03-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:591772:por",
+     "title": "Decreto-Lei n.º 60/2005",
+     "published": "2005-03-09",
+     "dre_path": "/dr/detalhe/decreto-lei/60-2005-591772"
+    }
+   ],
+   "changes": [
+    "Altera Base XI",
+    "Revoga Base XII"
+   ],
+   "fragments": [
+    "885359255",
+    "885359256",
+    "885359257",
+    "885359258",
+    "885359259",
+    "885359260",
+    "885359261",
+    "885359262",
+    "885359263",
+    "885361565",
+    "885359264",
+    "885359265",
+    "885359266",
+    "885359267",
+    "885359268",
+    "885361566",
+    "885359269",
+    "885359270",
+    "885359271",
+    "885361567",
+    "885359272",
+    "885359273",
+    "885361568",
+    "885361573",
+    "885361574",
+    "885371176",
+    "885371177",
+    "885361569",
+    "885371178",
+    "885371179",
+    "885371180",
+    "885371181",
+    "885371182",
+    "885361570",
+    "885371183",
+    "885361571",
+    "885371184",
+    "885371185",
+    "885371186",
+    "885371187",
+    "885371188",
+    "885371189",
+    "885361572",
+    "885371190"
+   ]
+  }
+ ],
+ "fragments": {
+  "885359255": {
+   "fragment_id": "885359312",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 198-A/2001\n\nde 6 de Julho\n\nApós várias décadas de exercício da actividade mineira em Portugal, constata-se que o exercício desta actividade gerou um passivo ambiental muito significativo, agravado, ainda, pelos riscos potenciais que a falta de um adequado processo de recuperação ambiental das áreas abrangidas pode trazer para as populações e para os ecossistemas envolventes.\n\nO reconhecimento da gravidade da situação e da urgência em encontrar meios adequados de reposição do equilíbrio ambiental de áreas sujeitas à actividade mineira, designadamente aquelas que hoje se encontram em estado de degradação e abandono, constitui um importante fundamento da presente iniciativa legislativa.\n\nNestes termos, e tendo presente que constitui um dever fundamental do Estado a recuperação das áreas degradadas do território nacional, consagrado, aliás, na Lei n.º 11/87, de 7 de Abril (Lei de Bases do Ambiente), importa definir os objectivos e os princípios que deverão presidir à recuperação e monitorização ambiental das áreas mineiras degradadas, a fim de assegurar a preservação do património ambiental do País, tarefa que é de reconhecido interesse público.\n\nSe é certo que a administração pública central não se encontra vocacionada para a realização de acções de recuperação e monitorização ambiental de áreas mineiras degradadas, não é menos certo que, no meio empresarial do Estado, existem entidades aptas a assegurar, com eficácia e aproveitamento, a respectiva gestão técnica, administrativa e financeira.\n\nÉ o caso das empresas públicas que actuam no sector mineiro e que pertencem ao grupo EDM - Empresa de Desenvolvimento Mineiro, SGPS, empresa holding que representa os interesses do Estado no referido sector.\n\nCom efeito, a EDM congrega, quer na sua estrutura própria, quer na do respectivo grupo, empresas operacionais e de serviços com vasta experiência no tratamento dos problemas associados aos diversos tipos de exploração mineira exercida em Portugal, na especificidade dos diferentes contextos locais, as quais dispõem dos conhecimentos suficientes e necessários ao estudo, definição e concretização das soluções mais adequadas, incluindo do ponto de vista económico, com plena utilização das sinergias disponíveis.\n\nNeste contexto, é de salientar que, em matéria de protecção ambiental, a EXMIN - Companhia de Indústria e Serviços Mineiros e Ambientais, S. A., cujo capital social é detido na totalidade pela EDM, se encontra especificamente vocacionada para a investigação aplicada e prestação de serviços relativos ao meio ambiental natural, o que justifica a atribuição, a esta empresa, da actividade de recuperação e monitorização ambiental das áreas mineiras degradadas, nos termos definidos pelo presente diploma.\n\nCom esta medida pretende-se assegurar uma aplicação óptima dos recursos financeiros a afectar mediante a maximização do binómio benefícios/custos sociais, nomeadamente quanto à economia e eficácia das soluções correctivas a adoptar.\n\nConsiderando, finalmente, que no contexto do passivo ambiental existente em Portugal, em matéria de exploração mineira, as actividades de recuperação e monitorização ambiental de áreas mineiras degradadas devem revestir a natureza de serviço público, é previsto o seu exercício em regime de exclusivo, com base em contrato de concessão a celebrar entre o Estado e a empresa concessionária.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "885359256": {
+   "fragment_id": "885359313",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece o regime jurídico da concessão do exercício da actividade de recuperação ambiental das áreas mineiras degradadas.\n\n2 - A recuperação das áreas mineiras degradadas compreende, designadamente, a sua caracterização, obras de reabilitação e monitorização ambiental."
+  },
+  "885359257": {
+   "fragment_id": "885359314",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O regime previsto no presente diploma é aplicável a áreas mineiras degradadas, entendendo-se como tais as áreas mineiras que constituam um factor de risco potencial para a saúde humana ou para a preservação do ambiente que justifique a intervenção do Estado.\n\n2 - Para efeitos do número anterior, são áreas mineiras degradadas as seguintes:\n\na) Áreas abandonadas localizadas na zona de influência de antigas explorações mineiras desactivadas, cujas empresas concessionárias não possam ser responsabilizadas pelas consequências ambientais decorrentes daquela actividade, porque as respectivas concessões já reverteram para o Estado ou porque essas empresas se encontram dissolvidas por falência;\n\nb) Áreas objecto de exploração mineira iniciada antes da entrada em vigor do Decreto-Lei n.º 90/90, de 16 de Março, e já desactivada até essa data, independentemente de actuais concessões de exploração para esse fim;\n\nc) Áreas de exploração mineira, designadamente as de minerais radioactivos, relativamente às quais seja reconhecido o interesse público da intervenção do Estado, mediante despacho conjunto dos Ministros da Economia e do Ambiente e do Ordenamento do Território."
+  },
+  "885359258": {
+   "fragment_id": "885359315",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nA recuperação das áreas mineiras degradadas visa a valorização ambiental, cultural e económica, garantindo a defesa do interesse público e a preservação do património ambiental, tendo em vista:\n\na) Eliminar, em condições de estabilidade a longo prazo, os factores de risco que constituam ameaça para a saúde e a segurança públicas, resultantes da poluição de águas, da contaminação de solos, de resíduos de extracção e tratamento e da eventual existência de cavidades desprotegidas;\n\nb) Reabilitar a envolvente paisagística e as condições naturais de desenvolvimento da flora e da fauna locais, tendo como referência os habitats anteriores às explorações;\n\nc) Assegurar a preservação do património abandonado pelas antigas explorações, sempre que este apresente significativa relevância, quer económica, quer em termos de testemunhos de arqueologia industrial;\n\nd) Assegurar as condições necessárias para o estudo, preservação e valorização de vestígios arqueológicos, eventualmente existentes, relacionados com a actividade mineira;\n\ne) Permitir uma utilização futura das áreas recuperadas, em função da sua aptidão específica, em cada caso concreto, designadamente para utilização agrícola ou florestal, promoção turística e cultural, além de outros tipos de aproveitamento que se revelem adequados e convenientes."
+  },
+  "885359259": {
+   "fragment_id": "885359316",
+   "type": 11,
+   "heading": "Artigo 4.º — Serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Serviço público\n\n1 - A recuperação ambiental das áreas mineiras degradadas consubstancia um serviço público a exercer em regime de exclusivo.\n\n2 - As situações que não se encontrem abrangidas pelo presente diploma, nos termos do número anterior, regem-se pela legislação geral aplicável."
+  },
+  "885359260": {
+   "fragment_id": "885359317",
+   "type": 11,
+   "heading": "Artigo 5.º — Da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Da concessão\n\n1 - O exclusivo do exercício da actividade de recuperação ambiental das áreas mineiras degradadas será adjudicado, em regime de concessão, à EXMIN - Companhia de Indústria e Serviços Mineiros e Ambientais, S. A.\n\n2 - A atribuição da concessão opera-se mediante a celebração de contrato administrativo, nos termos do presente diploma e das bases anexas que dele fazem parte integrante."
+  },
+  "885359261": {
+   "fragment_id": "885359318",
+   "type": 11,
+   "heading": "Artigo 6.º — Outorga do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Outorga do contrato\n\nFicam os Ministros da Economia e do Ambiente e do Ordenamento do Território autorizados, com a faculdade de delegação, a subscrever, em nome e representação do Estado, o contrato de concessão, cuja minuta deve ser aprovada mediante resolução do Conselho de Ministros."
+  },
+  "885359263": {
+   "fragment_id": "885359320",
+   "type": 14,
+   "heading": "Anexo — Bases do contrato de concessão do exercício da actividade de recuperação ambiental das áreas mineiras degradadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Bases do contrato de concessão do exercício da actividade de recuperação ambiental das áreas mineiras degradadas\n\n(a que se refere o artigo 5.º, n.º 2)"
+  },
+  "885359264": {
+   "fragment_id": "885359321",
+   "type": 2,
+   "heading": "Base I — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base I — Conteúdo\n\nA concessão do serviço público em regime de exclusivo tem por conteúdo o exercício da actividade de recuperação ambiental das áreas mineiras degradadas."
+  },
+  "885359265": {
+   "fragment_id": "885359322",
+   "type": 2,
+   "heading": "Base II — Objecto da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base II — Objecto da concessão\n\n1 - A actividade da concessão compreende a caracterização das áreas mineiras, as obras de reabilitação e a monitorização ambiental.\n\n2 - Em especial, são objecto da concessão:\n\na) A inventariação e caracterização das situações enquadráveis nas classes de áreas mineiras degradadas;\n\nb) O aprofundamento detalhado de elementos adicionais de diagnóstico quanto à natureza e extensão dos problemas existentes, quando tal seja indispensável, envolvendo trabalhos de campo para a recolha de amostras e respectivas análises, medições de caudais, volumes e quaisquer outros indicadores relevantes;\n\nc) A caracterização geral tanto dos sistemas ecológicos em causa como das envolventes sócio-económica e cultural, designadamente a componente arqueológica, quando exista;\n\nd) A elaboração de projectos de recuperação que garantam a máxima eficiência técnica e económica das soluções a adoptar;\n\ne) A preparação e lançamento dos concursos de empreitada para a realização de obras no terreno, avaliação de propostas e respectiva adjudicação, acompanhamento e fiscalização da sua execução e verificação rigorosa das condições exigidas para a recepção definitiva;\n\nf) A elaboração de planos e orçamentos anuais e por projecto, de relatórios periódicos de progresso e de prestação de contas, da documentação exigível para os necessários licenciamentos e de propostas concretas, em todas as fases, que careçam de autorização expressa do concedente;\n\ng) Sempre que tal seja requerido, definição dos sistemas de monitorização permanente a levar a efeito, posteriormente à recuperação básica, e apresentação de sugestões ou estudos para a melhor valorização económica ulterior das áreas recuperadas."
+  },
+  "885359266": {
+   "fragment_id": "885359323",
+   "type": 2,
+   "heading": "Base III — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base III — Princípio geral\n\nA recuperação de áreas mineiras degradadas visa a valorização ambiental, cultural, económica e regional, garantindo a defesa do interesse público e a preservação do património ambiental, mediante um conjunto de intervenções assentes em níveis adequados de eficiência e qualidade e orientados por critérios de gestão empresarial."
+  },
+  "885359267": {
+   "fragment_id": "885359324",
+   "type": 2,
+   "heading": "Base IV — Regime de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IV — Regime de concessão\n\nCom o objectivo de assegurar a permanente adequação da concessão às exigências da vertente ambiental da política económica e à regularidade e continuidade do serviço público, o concedente pode alterar as condições do seu exercício, nos termos da lei e das presentes bases."
+  },
+  "885359268": {
+   "fragment_id": "885359325",
+   "type": 2,
+   "heading": "Base V — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base V — Prazo\n\nA concessão terá uma duração de 10 anos, a contar da data da celebração do respectivo contrato, renovável, caso o interesse público o justifique."
+  },
+  "885359269": {
+   "fragment_id": "885359326",
+   "type": 2,
+   "heading": "Base VI — Estabelecimento da concessão e bens afectos à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VI — Estabelecimento da concessão e bens afectos à concessão\n\n1 - Consideram-se afectos à concessão:\n\na) Os bens que integram a concessão;\n\nb) Todas as infra-estruturas, obras, máquinas e aparelhagem e respectivos acessórios e, em geral, quaisquer outros bens a ela directamente afectos.\n\n2 - As infra-estruturas consideram-se integradas na concessão, para todos os efeitos legais, desde a aprovação dos projectos de construção."
+  },
+  "885359270": {
+   "fragment_id": "885359327",
+   "type": 2,
+   "heading": "Base VII — Bens e outros meios afectos à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VII — Bens e outros meios afectos à concessão\n\n1 - Consideram-se, ainda, afectos à concessão:\n\na) Todos os bens, móveis ou imóveis, corpóreos ou incorpóreos, assim como todos os direitos ligados directa ou indirectamente à actividade de recuperação ambiental das áreas mineiras;\n\nb) Os direitos privados de propriedade intelectual e industrial de que a concessionária seja titular.\n\n2 - Consideram-se igualmente afectos à concessão, desde que directamente relacionados com a actividade objecto do contrato ou complementares da mesma, nos termos do n.º 2 da base II:\n\na) Quaisquer fundos ou reservas consignados à garantia do cumprimento de obrigações da concessionária;\n\nb) A totalidade das relações jurídicas que se encontrem em cada momento relacionadas com a continuidade da concessão, nomeadamente laborais, de empreitada e de prestação de serviços.\n\n3 - A concessionária é obrigada a manter em bom estado de funcionamento, de conservação e de segurança, a expensas suas, todos os bens e direitos afectos à concessão.\n\n4 - A concessionária não poderá alienar ou onerar, parcial ou totalmente, e sob qualquer forma, os bens e os direitos afectos à concessão, salvo autorização prévia do concedente, ou tratando-se de bens depreciáveis ou ainda de bens cuja natureza imponha a sua substituição."
+  },
+  "885359271": {
+   "fragment_id": "885359328",
+   "type": 2,
+   "heading": "Base VIII — Infra-estruturas pertencentes aos municípios ou a associações de municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VIII — Infra-estruturas pertencentes aos municípios ou a associações de municípios\n\n1 - Os imóveis ou quaisquer infra-estruturas relacionadas com a concessão pertencentes aos municípios ou associações de municípios poderão ser pelos mesmos cedidos à concessionária, a título gratuito ou oneroso, para a actividade da concessão.\n\n2 - Tornando-se desnecessária a utilização pela concessionária das infra-estruturas referidas no número anterior, serão estas devolvidas aos municípios cedentes nas condições inicialmente acordadas."
+  },
+  "885359272": {
+   "fragment_id": "885359329",
+   "type": 2,
+   "heading": "Base IX — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IX — Financiamento\n\n1 - A concessionária deve adoptar e executar, tanto na construção das infra-estruturas como nas demais actividades da concessão, o esquema financeiro constante do estudo económico anexo ao contrato de concessão.\n\n2 - O esquema referido no número anterior deve ser organizado tendo em conta as seguintes fontes de financiamento:\n\na) As comparticipações e subsídios atribuídos à concessionária por quaisquer entidades, públicas ou privadas, nacionais ou comunitárias;\n\nb) Quaisquer outras receitas que lhe sejam devidas por lei, contrato ou qualquer outro título."
+  },
+  "885359273": {
+   "fragment_id": "885359330",
+   "type": 2,
+   "heading": "Base X — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base X — Despesas\n\n1 - Consideram-se incluídos no orçamento de cada projecto de recuperação de áreas mineiras degradadas os investimentos a realizar pela concessionária, os encargos com a gestão e as despesas relativas a aquisições de serviços, assistência técnica, estudos de diagnóstico de áreas mineiras e outros, estudos e projectos de engenharia, aquisição de infra-estruturas, materiais e de equipamentos, obras de construção civil, obras de regeneração de solos e aquíferos, aquisições e expropriações de terrenos indispensáveis à recuperação ambiental, aquisição de informação e meios logísticos para o seu tratamento, deslocações, comunicações e estadas e acções de promoção, de divulgação e de formação.\n\n2 - Os investimentos e despesas referidos no n.º 1 devem ser efectuados tendo em vista o interesse público e de acordo com critérios de eficiência empresarial e de qualidade dos serviços prestados."
+  },
+  "885359274": {
+   "fragment_id": "885359331",
+   "type": 2,
+   "heading": "Base XI — Poderes do concedente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XI — Poderes do concedente\n\n1 - Além de outros poderes conferidos pelas presentes bases ou pela lei ao concedente, carecem de aprovação do concedente:\n\na) Os planos e relatórios de actividade e financeiros plurianuais para um período de, pelo menos, três anos e suas eventuais alterações;\n\nb) Os orçamentos anuais de exploração, de investimento e financeiros, bem como as respectivas actualizações que impliquem redução de resultados previsionais, acréscimo de despesas ou de necessidade de financiamento;\n\nc) As áreas de intervenção, bem como os projectos de recuperação ambiental.\n\n2 - Os poderes do concedente referidos nas presentes bases, bem como quaisquer outros com eles relacionados que lhe sejam conferidos por lei, são exercidos conjuntamente pelos Ministros da Economia e do Ambiente e do Ordenamento do Território, com a faculdade de delegação na Comissão de Acompanhamento da Concessão referida na base seguinte."
+  },
+  "885371175": {
+   "fragment_id": "885359332",
+   "type": 2,
+   "heading": "Base XII — Comissão de Acompanhamento da Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XII — Comissão de Acompanhamento da Concessão\n\n1 - É criada a Comissão de Acompanhamento da Concessão (CAC) composta por cinco membros, sendo constituída por dois representantes do Ministro da Economia, um dos quais preside, um representante do Ministro do Ambiente e do Ordenamento do Território, um representante do Ministro da Saúde e um representante do Ministro da Ciência e da Tecnologia.\n\n2 - Os membros da CAC são designados mediante despacho conjunto dos membros do Governo referidos no número anterior, o qual deve fixar o limite máximo das suas despesas de funcionamento da responsabilidade da concessionária.\n\n3 - A CAC será coadjuvada por uma subcomissão que procederá à avaliação e acompanhamento técnicos dos estudos de caracterização, projectos de recuperação e respectivas obras de construção, planos e relatórios de monitorização, sem prejuízo do regime jurídico de avaliação de impacte ambiental.\n\n4 - A Subcomissão de Avaliação é constituída por seis membros permanentes, sendo um indicado pela Direcção-Geral do Ambiente, que preside, um indicado pelo Instituto Geológico e Mineiro, um pelo Instituto Tecnológico e Nuclear, um pela autoridade regional de saúde, um pela direcção regional do ambiente e do ordenamento do território, um pela direcção regional da economia, territorialmente competente na área de localização do projecto e, ainda, eventualmente por especialistas, de acordo com especificidades ou particularidades do projecto em apreciação, designadamente por um representante do Instituto Português de Arqueologia, sempre que se verifique a existência de vestígios arqueológicos.\n\n5 - Compete à Subcomissão de Avaliação apreciar e dar parecer sobre a qualidade e ajustamento dos projectos a executar pela concessionária, podendo solicitar pareceres de entidades externas, quando necessário."
+  },
+  "885371176": {
+   "fragment_id": "885359333",
+   "type": 2,
+   "heading": "Base XIII — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIII — Fiscalização\n\n1 - O Instituto Geológico e Mineiro e a direcção regional do ambiente e do ordenamento do território competente fiscalizam o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua actividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.\n\n2 - O pessoal de fiscalização dispõe de livre acesso, no exercício das suas funções, a todas as infra-estruturas e equipamentos da concessão e a todas as instalações da concessionária.\n\n3 - A concessionária deve enviar todos os anos aos Ministros da Economia e do Ambiente e do Ordenamento do Território, até ao termo do 1.º semestre do ano seguinte a que respeita o exercício considerado, os documentos contabilísticos para o efeito indicados no contrato de concessão, os quais devem respeitar a apresentação formal que tiver sido definida e estar certificados por auditor aceite pelo concedente."
+  },
+  "885371177": {
+   "fragment_id": "885359334",
+   "type": 2,
+   "heading": "Base XIV — Caução referente à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIV — Caução referente à concessão\n\n1 - Para garantia do cumprimento dos deveres contratuais emergentes da concessão, deverá a concessionária prestar uma caução de valor a definir no contrato de concessão, a qual corresponderá a 1% do orçamento anual.\n\n2 - Nos casos em que a concessionária não tenha pago ou conteste as multas aplicadas por incumprimento das obrigações contratuais, poderá haver recurso à caução, sem dependência de decisão judicial, mediante despacho dos Ministros da Economia e do Ambiente e do Ordenamento do Território.\n\n3 - Na hipótese contemplada no número anterior, a concessionária, caso tenha prestado a caução por depósito, deve repor a importância utilizada no prazo de um mês contado da data de utilização.\n\n4 - A caução só pode ser levantada após o decurso de um ano sobre o termo da concessão."
+  },
+  "885371178": {
+   "fragment_id": "885359335",
+   "type": 2,
+   "heading": "Base XV — Utilização do domínio público mineral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XV — Utilização do domínio público mineral\n\n1 - A concessionária, no âmbito e fins do serviço público e por efeito da aprovação dos projectos de recuperação, tem o direito de utilizar o domínio público mineral e, observado o disposto no artigo 41.º do Decreto-Lei n.º 88/90, de 16 de Março, a faculdade de dispor dos produtos minerais ocasionalmente obtidos no quadro das acções de recuperação ambiental das áreas mineiras degradadas.\n\n2 - As intervenções para a caracterização e recuperação ambiental a realizar em áreas objecto de direitos concedidos ao abrigo do Decreto-Lei n.º 90/90, de 16 de Março, ficam sujeitas a prévio parecer favorável do Instituto Geológico e Mineiro, ouvido o respectivo titular da concessão, tendo em vista assegurar a compatibilização do interesse público do aproveitamento racional dos recursos e da recuperação ambiental das áreas degradadas.\n\n3 - O parecer a que se refere o número anterior pode ser acompanhado da imposição de medidas a executar pela concessionária e ou pelo titular dos direitos mineiros, considerando-se favorável o parecer, caso não seja emitido no prazo de 30 dias após a entrada do respectivo pedido no IGM, acompanhado dos elementos identificadores da intervenção a realizar.\n\n4 - A concessionária abster-se-á de executar o plano de medidas de recuperação ambiental cuja realização, com a aprovação do IGM, seja assumida pelo titular de direitos mineiros o qual prestará àquele, para esse efeito, garantia idónea de bom cumprimento."
+  },
+  "885371179": {
+   "fragment_id": "885359336",
+   "type": 2,
+   "heading": "Base XVI — Utilização do domínio público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVI — Utilização do domínio público\n\n1 - A concessionária terá ainda o direito de utilizar outros bens do domínio público do Estado ou dos municípios em que se localizem as áreas mineiras, neste caso mediante afectação, para efeitos de implantação das infra-estruturas e obras da concessão, nos termos da legislação aplicável.\n\n2 - A faculdade de utilização dos bens dominiais referidos no número anterior resulta da aprovação dos respectivos projectos ou de despacho dos Ministros da Economia e do Ambiente e do Ordenamento do Território, sem prejuízo da formalização da respectiva cedência nos termos da lei.\n\n3 - No caso de afectação de bens dominiais dos municípios ou de outras pessoas colectivas públicas é aplicável o disposto no Código das Expropriações, correndo por conta da concessionária as compensações a que houver lugar."
+  },
+  "885371180": {
+   "fragment_id": "885359337",
+   "type": 2,
+   "heading": "Base XVII — Servidões e expropriações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVII — Servidões e expropriações\n\n1 - A concessionária poderá constituir as servidões e requerer as expropriações necessárias à implantação das infra-estruturas e obras da concessão.\n\n2 - As servidões e expropriações resultam da aprovação dos respectivos projectos pelos Ministros da Economia e do Ambiente e do Ordenamento do Território ou de declaração de utilidade pública, simultânea ou subsequente, nos termos da lei aplicável, correndo por conta do concedente as indemnizações a que derem lugar."
+  },
+  "885371181": {
+   "fragment_id": "885359338",
+   "type": 2,
+   "heading": "Base XVIII — Responsabilidade pela concepção, projecto e construção das infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVIII — Responsabilidade pela concepção, projecto e construção das infra-estruturas\n\n1 - Constitui encargo e é da responsabilidade da concessionária a concepção, o projecto e a construção das instalações e a aquisição dos equipamentos necessários, em cada momento, à actividade da concessão.\n\n2 - A concessionária responde perante o concedente por eventuais defeitos de concepção, de projecto, de construção ou dos equipamentos."
+  },
+  "885371182": {
+   "fragment_id": "885359339",
+   "type": 2,
+   "heading": "Base XIX — Projectos de recuperação de áreas mineiras degradadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIX — Projectos de recuperação de áreas mineiras degradadas\n\nSem prejuízo de prazos previstos em procedimentos especiais, a aprovação dos projectos, nos termos referidos nas bases XI e XII, considera-se concedida caso não seja expressamente recusada no prazo de 60 dias, devendo previamente ser submetida a parecer não vinculativo da câmara municipal territorialmente competente."
+  },
+  "885371183": {
+   "fragment_id": "885359340",
+   "type": 2,
+   "heading": "Base XX — Multas contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XX — Multas contratuais\n\n1 - O incumprimento pela concessionária das obrigações assumidas no âmbito do contrato de concessão origina a aplicação de multas contratuais pelo concedente, cujo montante variará entre 500000$00 a 9000000$00, conforme a sua gravidade.\n\n2 - É da competência dos Ministros da Economia e do Ambiente e do Ordenamento do Território a aplicação das multas previstas na presente base.\n\n3 - A sanção aplicada é comunicada por escrito à concessionária.\n\n4 - Os limites das multas referidos no n.º 1 são actualizados anualmente de acordo com o índice de preços no consumidor no continente.\n\n5 - As multas que não forem pagas voluntariamente até 30 dias após a data da notificação podem ser levantadas da caução prestada pela concessionária."
+  },
+  "885371184": {
+   "fragment_id": "885359341",
+   "type": 2,
+   "heading": "Base XXI — Trespasse de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXI — Trespasse de concessão\n\n1 - A concessionária não pode trespassar a concessão, no todo ou em parte, sem prévia autorização dos Ministros da Economia e do Ambiente e do Ordenamento do Território.\n\n2 - No caso de trespasse autorizado, considerar-se-ão transmitidos para a trespassária os direitos e obrigações da trespassante, assumindo ainda a trespassária as obrigações e encargos que eventualmente lhe venham a ser impostos como condição de autorização do trespasse."
+  },
+  "885371185": {
+   "fragment_id": "885359342",
+   "type": 2,
+   "heading": "Base XXII — Subconcessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXII — Subconcessão\n\n1 - A concessionária não pode, salvo consentimento por parte dos Ministros da Economia e do Ambiente e do Ordenamento do Território, subconceder, no todo ou em parte, a concessão.\n\n2 - O consentimento referido no número anterior deve, sob pena de nulidade, ser prévio e dado por escrito.\n\n3 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão."
+  },
+  "885371186": {
+   "fragment_id": "885359343",
+   "type": 2,
+   "heading": "Base XXIII — Modificação da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIII — Modificação da concessão\n\nSem prejuízo do disposto na lei geral e na base IV, o contrato de concessão apenas pode ser alterado por acordo entre concedente e concessionária."
+  },
+  "885371187": {
+   "fragment_id": "885359344",
+   "type": 2,
+   "heading": "Base XXIV — Rescisão do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIV — Rescisão do contrato\n\n1 - O concedente poderá dar por finda a concessão, mediante rescisão do contrato, quando tenha ocorrido qualquer dos factos seguintes:\n\na) Desvio do objecto de concessão;\n\nb) Oposição reiterada ao exercício de fiscalização ou repetida desobediência às determinações do concedente ou, ainda, sistemática inobservância das leis e regulamentos aplicáveis à exploração;\n\nc) Recusa em proceder à adequada conservação e reparação das infra-estruturas ou quaisquer obras;\n\nd) Cessação de pagamentos pela concessionária ou apresentação à falência;\n\ne) Trespasse da concessão ou subconcessão não autorizado;\n\nf) Violação grave das cláusulas do contrato de concessão.\n\n2 - Não constituem causas de rescisão os factos ocorridos por motivos de força maior e, bem assim, os que o concedente aceite como justificados.\n\n3 - A rescisão prevista no n.º 1 determina a reversão de todos os bens e meios afectos à concessão para o concedente, a efectivar nos termos da base seguinte e sem direito a qualquer indemnização.\n\n4 - A rescisão do contrato de concessão deve ser comunicada à concessionária por carta registada com aviso de recepção e produzirá imediatamente os seus efeitos."
+  },
+  "885371188": {
+   "fragment_id": "885359345",
+   "type": 2,
+   "heading": "Base XXV — Termo do prazo da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXV — Termo do prazo da concessão\n\n1 - No termo da concessão e sem prejuízo do disposto na base VIII, os bens afectos à concessão reverterão, sem qualquer indemnização, para o Estado, livres de quaisquer ónus ou encargos e em perfeitas condições de utilização e manutenção.\n\n2 - A reversão ocorrerá sem qualquer formalidade que não seja uma vistoria, para a qual será convocado um representante da concessionária.\n\n3 - Do auto de vistoria deve constar obrigatoriamente o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação."
+  },
+  "885371189": {
+   "fragment_id": "885359346",
+   "type": 2,
+   "heading": "Base XXVI — Resgate da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVI — Resgate da concessão\n\n1 - O concedente poderá resgatar a concessão, retomando a gestão directa do serviço público concedido, sempre que motivos de interesse público o justifiquem, e mediante aviso prévio feito à concessionária, por carta registada, com aviso de recepção, com um ano de antecedência.\n\n2 - Decorrido o período de um ano sobre o aviso do resgate, os Ministros da Economia e do Ambiente e do Ordenamento do Território entrarão em posse de todos os bens afectos à concessão, nos termos da base anterior.\n\n3 - Pelo resgate a concessionária terá direito a uma indemnização determinada por terceira entidade independente, escolhida por acordo entre os Ministros da Economia e do Ambiente e do Ordenamento do Território e a concessionária, devendo aquela atender, na fixação do seu montante, ao valor contabilístico líquido dos bens referidos no número anterior.\n\n4 - O crédito previsto no n.º 3 desta base compensar-se-á com as dívidas ao concedente por multas contratuais e a título de indemnizações por prejuízos causados."
+  },
+  "885371190": {
+   "fragment_id": "885359347",
+   "type": 2,
+   "heading": "Base XXVII — Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVII — Arbitragem\n\nNos litígios emergentes do contrato de concessão poderá o Estado celebrar convenção de arbitragem."
+  },
+  "885359262": {
+   "fragment_id": "885359319",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa - Maria Manuela de Brito Arcanjo Marques da Costa - Rui Nobre Gonçalves - José Estêvão Cangarato Sasportes - José Mariano Rebelo Pires Gago.\n\nPromulgado em 3 de Julho de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Julho de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "885361565": {
+   "fragment_id": "885421285",
+   "type": 4,
+   "heading": "I — Disposições e princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## I — Disposições e princípios gerais"
+  },
+  "885361566": {
+   "fragment_id": "885421286",
+   "type": 4,
+   "heading": "II — Dos bens e meios afectos à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## II — Dos bens e meios afectos à concessão"
+  },
+  "885361567": {
+   "fragment_id": "885421287",
+   "type": 4,
+   "heading": "III — Condições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## III — Condições financeiras"
+  },
+  "885361568": {
+   "fragment_id": "885421288",
+   "type": 4,
+   "heading": "IV — Acompanhamento e fiscalização da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## IV — Acompanhamento e fiscalização da concessão"
+  },
+  "885361573": {
+   "fragment_id": "885359331",
+   "type": 2,
+   "heading": "Base XI — Poderes do concedente",
+   "in_force_from": "2005-03-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 60/2005 - Diário da República n.º 48/2005, Série I-A de 2005-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2005-591772), em vigor a partir de 2005-03-14"
+   ],
+   "markdown": "###### Base XI — Poderes do concedente\n\n1 - Além de outros poderes conferidos pelas presentes bases ou pela lei ao concedente, carecem de aprovação do concedente:\n\na) Os planos e relatórios de actividade e financeiros plurianuais para um período de, pelo menos, três anos e suas eventuais alterações;\n\nb) Os orçamentos anuais de exploração, de investimento e financeiros, bem como as respectivas actualizações que impliquem redução de resultados previsionais, acréscimo de despesas ou de necessidade de financiamento.\n\n2 - Os poderes do concedente referidos nas presentes bases, bem como quaisquer outros com eles relacionados que lhe sejam conferidos por lei, são exercidos conjuntamente pelos membros do Governo responsáveis pelas áreas da economia, das finanças e do ambiente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 60/2005 - Diário da República n.º 48/2005, Série I-A de 2005-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2005-591772), em vigor a partir de 2005-03-14"
+  },
+  "885361574": {
+   "fragment_id": "885359332",
+   "type": 2,
+   "heading": "Base XII — Comissão de Acompanhamento da Concessão",
+   "in_force_from": "2005-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2005 - Diário da República n.º 48/2005, Série I-A de 2005-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2005-591772), em vigor a partir de 2005-03-14"
+   ],
+   "markdown": "###### Base XII — Comissão de Acompanhamento da Concessão\n\n1 - É criada a Comissão de Acompanhamento da Concessão (CAC) composta por cinco membros, sendo constituída por dois representantes do Ministro da Economia, um dos quais preside, um representante do Ministro do Ambiente e do Ordenamento do Território, um representante do Ministro da Saúde e um representante do Ministro da Ciência e da Tecnologia.\n\n2 - Os membros da CAC são designados mediante despacho conjunto dos membros do Governo referidos no número anterior, o qual deve fixar o limite máximo das suas despesas de funcionamento da responsabilidade da concessionária.\n\n3 - A CAC será coadjuvada por uma subcomissão que procederá à avaliação e acompanhamento técnicos dos estudos de caracterização, projectos de recuperação e respectivas obras de construção, planos e relatórios de monitorização, sem prejuízo do regime jurídico de avaliação de impacte ambiental.\n\n4 - A Subcomissão de Avaliação é constituída por seis membros permanentes, sendo um indicado pela Direcção-Geral do Ambiente, que preside, um indicado pelo Instituto Geológico e Mineiro, um pelo Instituto Tecnológico e Nuclear, um pela autoridade regional de saúde, um pela direcção regional do ambiente e do ordenamento do território, um pela direcção regional da economia, territorialmente competente na área de localização do projecto e, ainda, eventualmente por especialistas, de acordo com especificidades ou particularidades do projecto em apreciação, designadamente por um representante do Instituto Português de Arqueologia, sempre que se verifique a existência de vestígios arqueológicos.\n\n5 - Compete à Subcomissão de Avaliação apreciar e dar parecer sobre a qualidade e ajustamento dos projectos a executar pela concessionária, podendo solicitar pareceres de entidades externas, quando necessário.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2005 - Diário da República n.º 48/2005, Série I-A de 2005-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2005-591772), em vigor a partir de 2005-03-14"
+  },
+  "885361569": {
+   "fragment_id": "885421290",
+   "type": 4,
+   "heading": "V — Utilização do domínio público e construção das infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## V — Utilização do domínio público e construção das infra-estruturas"
+  },
+  "885361570": {
+   "fragment_id": "885421291",
+   "type": 4,
+   "heading": "VI — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## VI — Sanções"
+  },
+  "885361571": {
+   "fragment_id": "885421292",
+   "type": 4,
+   "heading": "VII — Modificação e extinção da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## VII — Modificação e extinção da concessão"
+  },
+  "885361572": {
+   "fragment_id": "885421293",
+   "type": 4,
+   "heading": "VIII — Contencioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## VIII — Contencioso"
+  }
+ }
+}

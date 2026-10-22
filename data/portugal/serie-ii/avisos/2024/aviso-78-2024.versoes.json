@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:835958979:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2024-1169138675",
+ "dre_path": "/dr/detalhe/aviso/78-2024-835958979",
+ "source_lastmod": "2026-09-16",
+ "versions": [
+  {
+   "date": "2024-01-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1169139175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1169139175": {
+   "fragment_id": "1169138775",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Paulo Gouveia da Costa, Presidente do Conselho de Administração da FAGAR - Faro, Gestão de Águas e Resíduos, E. M., torna público que, por deliberações do Conselho de Administração e da Assembleia Geral da FAGAR, E. M., de 26/10/2023 e 17/11/2023 respetivamente, foi aprovada a atualização do tarifário para 2024, que a seguir, se transcreve:\n\nTarifário para 2024:\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/835958884) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/835958885) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/835958886) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/835958887) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/835958888) |\n| --- |\n\nMais se informa que o novo tarifário será aplicável aos serviços e consumos verificados a partir de 1 de janeiro de 2024."
+  }
+ }
+}

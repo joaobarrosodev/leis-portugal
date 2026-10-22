@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:158586:por
+title: Decreto-Lei n.º 151/2002
+short_title: null
+summary: Altera o Estatuto do Instituto Regulador de Águas e Resíduos, aprovado pelo Decreto-Lei n.º 362/98, de 18 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 151/2002
+official_date: null
+publication_date: '2002-05-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/2002, Série I-A de 2002-05-23
+  number: '119'
+  series: I
+  supplement: null
+  pages: 4679 - 4680
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/05/119a00/46794680.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/151/2002/05/23/p/dre/pt/html
+  oj: null
+  dre: '158586'
+  dre_path: /dr/detalhe/decreto-lei/151-2002-158586
+  internal: pt:dre:158586:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2002-158586
+  metadata_url: https://data.dre.pt/eli/dec-lei/151/2002/05/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2002-158586
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-10-02T00:00:00Z'
+integrity:
+  source_sha256: ed44b28738452956f0cc8dc550ada9c2843e1e6980858a92806c1394fd47ac9d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-151-158586.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estatuto
+- Fiscalização
+- Instituto Regulador de Águas e Resíduos
+- Abastecimento de Água
+relationships:
+- type: amended_by
+  target: pt:dre:491175:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31998L0083
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/83/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/362/1998/11/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/362/1998/11/18/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 151/2002
+
+de 23 de Maio
+
+O Decreto-Lei n.º 230/97, de 30 de Agosto, procedeu à criação do Instituto Regulador de Águas e Resíduos (IRAR), tendo o seu Estatuto sido aprovado pelo Decreto-Lei n.º 362/98, de 18 de Novembro.
+
+Ao IRAR estão cometidas funções reguladoras e orientadoras nos sectores da água de abastecimento público, das águas residuais urbanas e dos resíduos sólidos urbanos.
+
+Além de assegurar a regulação destes sectores, constitui atribuição primordial do IRAR estabelecer o equilíbrio entre a sustentabilidade económica dos sistemas e a qualidade dos serviços prestados, de modo a salvaguardar os interesses e direitos dos cidadãos no fornecimento de bens e serviços essenciais e a promover a tutela dos direitos dos consumidores.
+
+Trata-se de uma atribuição de grande importância, no universo da actividade do IRAR, que lhe confere um papel essencial na salvaguarda de um conjunto importante de consumidores, que são os utentes de sistemas de abastecimento de água, de recolha de efluentes e de recolha de lixos domésticos.
+
+Com a entrada em vigor do Decreto-Lei n.º 243/2001, de 5 de Setembro, diploma que transpôs para o direito interno a Directiva n.º [98/83/CE](http://data.europa.eu/eli/dir/1998/83/oj?locale=pt), do Conselho, de 3 de Novembro, foi o IRAR investido na qualidade de autoridade competente no tocante à fiscalização e controlo da qualidade da água para consumo humano.
+
+No âmbito desta nova função, o IRAR passa a efectuar acções de inspecção relativas à qualidade da água em qualquer ponto de abastecimento público, cabendo-lhe alertar a autoridade de saúde e a entidade gestora para a ocorrência de eventuais irregularidades. No mesmo sentido, o IRAR passa a ter a incumbência de elaborar relatórios técnicos anuais referentes à qualidade da água para consumo humano, tendo em vista a sua divulgação junto do público, bem como relatórios trienais relativos à qualidade da água para consumo humano.
+
+Esta tarefa implica para todas as entidades gestoras dos sistemas multimunicipais e municipais de água de abastecimento público - e não apenas para as entidades gestoras dos sistemas concessionados - a obrigatoriedade de suportar os custos de funcionamento do IRAR, pelo que se justificam as alterações ora preconizadas.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao Decreto-Lei n.º 362/98, de 18 de Novembro
+
+A alínea a) do n.º 1 do artigo 2.º e o n.º 1 do artigo 3.º do Decreto-Lei n.º 362/98, de 18 de Novembro, passam a ter a seguinte redacção:
+
+«Artigo 2.º
+
+Definições
+
+1 - Para efeitos do presente diploma, entende-se por:
+
+a) Entidades gestoras - os municípios, as associações de municípios, os serviços municipalizados de água e saneamento, as empresas públicas municipais e as concessionárias de sistemas multimunicipais e municipais;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+2 - ...
+
+###### Artigo 3.º — Encargos
+
+1 - As entidades gestoras suportarão os encargos resultantes do funcionamento do IRAR nos termos fixados no Estatuto publicado em anexo, constituindo um dos critérios para a fixação das respectivas tarifas.
+
+2 - ...»
+
+###### Artigo 2.º — Alteração ao Estatuto do IRAR
+
+O n.º 2 do artigo 4.º, a alínea a) do artigo 5.º, as alíneas d), h), o), p), r) e s) do n.º 1 do artigo 11.º e o artigo 23.º do Estatuto do Instituto Regulador de Águas e Resíduos, aprovado pelo Decreto-Lei n.º 362/98, de 18 de Novembro, passam a ter a seguinte redacção:
+
+«Artigo 4.º
+
+Objecto
+
+1 - ...
+
+2 - As entidades da administração local autárquica não estão sujeitas à intervenção do IRAR em tudo quanto respeite à gestão dos sistemas, com excepção do controlo da qualidade da água para consumo humano.
+
+###### Artigo 5.º — Atribuições
+
+...
+
+a) Regulamentar, orientar e fiscalizar a concepção, execução, gestão e exploração dos sistemas multimunicipais e municipais, bem como a actividade das respectivas entidades gestoras;
+
+b) ...
+
+c) ...
+
+d) ...
+
+###### Artigo 11.º — Competência
+
+1 - Sem prejuízo do disposto no n.º 2 do artigo 4.º, compete ao conselho directivo do IRAR:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Pronunciar-se sobre o valor das tarifas nas concessões dos sistemas multimunicipais e municipais, acompanhar a sua evolução e elaborar os regulamentos necessários que assegurem a aplicação das tarifas segundo critérios de equidade;
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) Promover a avaliação dos níveis de serviço das entidades gestoras, bem como estimular o aperfeiçoamento das respectivas metodologias de medição;
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) Analisar os relatórios e as contas de exercício das entidades gestoras concessionárias, que, para o efeito, lhe serão remetidas 15 dias após a sua aprovação;
+
+p) Requerer quaisquer providências cautelares ou por qualquer forma agir em juízo para garantir o equilíbrio do sector e para assegurar a defesa dos direitos dos consumidores;
+
+q) ...
+
+r) Realizar inspecções e auditorias à actividade das entidades gestoras concessionárias e divulgar, pelas formas adequadas, os respectivos resultados;
+
+s) Emitir instruções vinculativas para que sejam sanadas as irregularidades de que tenha conhecimento na concepção, execução, gestão e exploração dos sistemas multimunicipais e municipais concessionados;
+
+t) ...
+
+u) ...
+
+###### Artigo 23.º — Taxas
+
+1 - As entidades gestoras concessionárias de sistemas multimunicipais e municipais ficam sujeitas ao pagamento de taxas pela sua actividade, segundo critérios a definir em portaria a aprovar pelo Ministro do Ambiente e do Ordenamento do Território.
+
+2 - As demais entidades gestoras ficam igualmente sujeitas ao pagamento de taxas, por força do Decreto-Lei n.º 243/2001, de 5 de Setembro, segundo critérios a definir na portaria prevista no número anterior.»
+
+###### Artigo 3.º — Aditamento ao Estatuto do IRAR
+
+É aditada a alínea e) ao artigo 5.º do Estatuto do Instituto Regulador de Águas e Resíduos, aprovado pelo Decreto-Lei n.º 362/98, de 18 de Novembro, com a seguinte redacção:
+
+«Artigo 5.º
+
+Atribuições
+
+...
+
+e) Assegurar a qualidade da água para consumo humano, designadamente através da realização de acções de inspecção relativas à qualidade da água em qualquer ponto do sistema de abastecimento público, alertando a autoridade de saúde e a entidade gestora para as eventuais irregularidades detectadas, sendo para o efeito considerado autoridade competente, nos termos do Decreto-Lei n.º 243/2001, de 5 de Setembro.»
+
+Visto e aprovado em Conselho de Ministros de 7 Março de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - António Fernando Correia de Campos - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.
+
+**Promulgado em 7 de Maio de 2002.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 9 de Maio de 2002.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**

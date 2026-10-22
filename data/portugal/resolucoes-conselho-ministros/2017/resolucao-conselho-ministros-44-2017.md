@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:106654347:por
+title: Resolução do Conselho de Ministros n.º 44/2017
+short_title: null
+summary: Aprova o modelo de avaliação prévia de impacto legislativo
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 44/2017
+official_date: null
+publication_date: '2017-03-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2017, Série I de 2017-03-24
+  number: '60'
+  series: I
+  supplement: null
+  pages: 1583 - 1584
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06000/0158301584.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/44/2017/03/24/p/dre/pt/html
+  oj: null
+  dre: '106654347'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/44-2017-106654347
+  internal: pt:dre:106654347:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-2017-106654347
+  metadata_url: https://data.dre.pt/eli/resolconsmin/44/2017/03/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-2017-106654347
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-06-08T00:00:00Z'
+integrity:
+  source_sha256: a02a903cafa52a8c81649aa34c063e855d38d4db849aca5ae7439cf6bdc837ff
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2017/DRE-2017-44-106654347.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Ministros
+- Criação de Serviços
+- Definição de Competências
+- Legística
+- Regimento
+- Avaliação do Impacto Legislativo
+- Processo Legislativo
+- Governo XXI
+- Ministro da Presidência e da Modernização Administrativa
+relationships:
+- type: amended_by
+  target: pt:dre:115475700:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/95-a/2015/12/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/95-a/2015/12/17/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 44/2017
+
+A redução de encargos criados pela legislação é um dos objetivos fixados no Programa do XXI Governo Constitucional, que identifica a avaliação prévia do impacto de legislação estruturante como um instrumento para melhorar as práticas legislativas e, consequentemente, a qualidade dos atos legislativos. Com essa finalidade, o Regimento do Conselho de Ministros, aprovado pela [Resolução do Conselho de Ministros n.º 95-A/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/95-a-2015-72909766), de 17 de dezembro, consagra já a avaliação prévia e o controlo da introdução de novos custos administrativos para as pessoas e para as empresas, prevendo a emissão de parecer obrigatório e vinculativo da Ministra da Presidência e da Modernização Administrativa quando estejam em causa projetos legislativos que envolvam o aumento de encargos ou outros custos de contexto. Paralelamente, o Regimento estipula que a nota justificativa que acompanha aqueles projetos inclui informação sobre novos atos administrativos criados. A experiência prática tem vindo a confirmar que a aplicação das referidas formas de controlo, no quadro do processo de preparação e elaboração da legislação, gera efeitos muito positivos, resultando na eliminação ou mitigação de encargos que não são considerados necessários e/ou justificados.
+
+Importa, agora, criar um sistema institucionalizado que permita medir e calcular os custos, para as pessoas e para os agentes económicos, inerentes à legislação do Governo, de modo sistemático e numa fase precoce do procedimento legislativo, com base em critérios e parâmetros estandardizados, de acordo com as melhores práticas internacionais, recorrendo parcialmente ao Standard Cost Model (SCM), método que tem sido utilizado nos diferentes Estados-Membros da União Europeia.
+
+Neste âmbito, prosseguindo os objetivos de simplificação legislativa e de modernização administrativa, vem o Governo, através da presente resolução, dar cumprimento à medida designada por «Custa Quanto?», constante do programa Simplex+2016, que consiste na implementação de um mecanismo apto a medir o impacto económico de novas iniciativas legislativas aprovadas pelo Conselho de Ministros - em especial, nas micro, pequenas e médias empresas - , focado na identificação e estimação da variação de encargos, para as empresas e para os cidadãos.
+
+Na senda das recomendações internacionais e europeias sobre «legislar melhor» (better regulation), este mecanismo insere-se no próprio procedimento legislativo, que já considera o impacto em outros domínios essenciais, como, entre outros, a igualdade do género ou as condições de participação e integração social dos cidadãos com deficiência. Desta forma, é alterada a nota justificativa submetida com os projetos legislativos ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, o qual passa a integrar elementos relativos à avaliação económica dos encargos. Adicionalmente, em complemento ao controlo que decorre do atual Regimento do Conselho de Ministros, adita-se à aludida nota justificativa informação acerca da ponderação sobre eventual atribuição de isenção para as micro, pequenas e médias empresas. Em caso de conclusão quanto à impossibilidade de isenção, deve ser ponderada a viabilidade de criação de um regime especial, com vista à redução dos custos resultantes da realização de atividades administrativas e do esforço de conformação com o enquadramento jurídico para esta categoria de empresas, que corresponde a cerca de 99 % do tecido empresarial português.
+
+Neste domínio, é de salientar que o Think Small First, um dos princípios basilares da iniciativa Small Business Act para a Europa, pressupõe a avaliação específica do impacto da legislação neste segmento de empresas. Neste quadro, deve ser promovido o envolvimento das entidades representativas das empresas, incluindo as entidades representativas dos trabalhadores, no processo de elaboração de legislação, designadamente através de procedimentos de consulta, a assegurar pelos Gabinetes proponentes ou, quando aplicável, pelos respetivos serviços, entidades ou organismos.
+
+Por último, aproveitando a oportunidade de revisão da nota justificativa que acompanha os projetos legislativos, estabelece-se que a mesma passe a contemplar as conclusões sobre a avaliação do impacto a nível concorrencial, a ponderar no processo de decisão pública, também na senda das melhores práticas de «legislar melhor», contribuindo, assim, para uma maior eficiência e competitividade do sistema económico nacional.
+
+Assim:
+
+Nos termos da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar o modelo de avaliação prévia de impacto económico legislativo, focado na medição da variação de encargos criados por legislação aprovada pelo Governo, que tenham por destinatárias pessoas e/ou empresas.
+
+2 - Definir que a coordenação do sistema de avaliação prévia de impacto legislativo, que aplique o modelo referido no número anterior, cabe ao membro do Governo responsável pela área da Presidência e da Modernização Administrativa.
+
+3 - Determinar que o membro do Governo responsável pela área da Presidência e da Modernização Administrativa cria um núcleo de avaliação de impacto legislativo no âmbito do Centro Jurídico da Presidência do Conselho de Ministros.
+
+4 - Estabelecer que o núcleo referido no número anterior assegura os procedimentos necessários à avaliação prévia de impacto económico legislativo em estreita articulação com os gabinetes ministeriais proponentes e com os serviços, organismos e entidades indicados por cada área governativa, a quem compete, nomeadamente, disponibilizar informação necessária a essa avaliação.
+
+5 - Determinar que cada membro do Governo indica o serviço ou organismo da respetiva área governativa sob sua dependência que assegura as funções de ponto de contacto com o Centro Jurídico da Presidência do Conselho de Ministros e de responsável pelos procedimentos necessários à avaliação prévia.
+
+6 - Definir que o modelo referido no n.º 1 vigorará como projeto-piloto, a título experimental, para o ano de 2017, pelo período de um ano, após o qual será sujeito a avaliação pelo Conselho de Ministros, com base em relatório a apresentar pelo membro do Governo responsável pela área da Presidência e da Modernização Administrativa até 31 de janeiro de 2018, que procede ao balanço de aplicação do mesmo e identifica propostas de revisão.
+
+7 - Alterar os artigos 26.º e 31.º do Regimento do Conselho de Ministros do XXI Governo Constitucional, aprovado pela [Resolução do Conselho de Ministros n.º 95-A/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/95-a-2015-72909766), de 17 de dezembro, os quais passam a ter a seguinte redação:
+
+«Artigo 26.º
+
+[...]
+
+1 - [...]:
+
+a) [...];
+
+b) (Revogada.);
+
+c) [...];
+
+d) [...];
+
+e) Enquadramento jurídico atual e fundamento para a respetiva alteração;
+
+f) (Revogada.);
+
+g) (Revogada.);
+
+h) Identificação expressa da legislação a alterar ou a revogar;
+
+i) Identificação expressa de eventual legislação complementar, incluindo instrumentos de regulamentação;
+
+j) Avaliação sumária dos meios financeiros e humanos necessários à Administração Pública para execução a curto e médio prazo, bem como de novos atos administrativos criados;
+
+k) Avaliação do impacto do projeto relativamente à variação de encargos para as pessoas e/ou para as empresas, em especial, para as micro, pequenas e médias empresas, com referência a audições, que sejam legalmente obrigatórias ou realizadas por determinação do membro do Governo responsável pela respetiva área governativa, a entidades representativas das empresas, incluindo as entidades representativas dos trabalhadores;
+
+l) Ponderação sobre a oportunidade de criação de regime de isenção para micro, pequenas e médias empresas ou, não sendo possível, de regime jurídico específico que atenda às particularidades deste segmento de empresas e mitigue o impacto dos referidos encargos;
+
+m) Avaliação do impacto do projeto quando, em razão da matéria, tenha relação com a igualdade de género;
+
+n) Avaliação do impacto do projeto quando, em razão da matéria, tenha relação com as condições de participação e integração social dos cidadãos portadores de deficiência;
+
+o) Avaliação do impacto concorrencial do projeto;
+
+p) [Anterior alínea l).];
+
+q) [Anterior alínea m).];
+
+r) [Anterior alínea n)].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+###### Artigo 31.º — [...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - Os n.os 3 a 5 não são aplicáveis ao parecer referido no n.º 1 do artigo 29.º, que deve ser emitido após o envio de relatório final de avaliação prévia de impacto económico legislativo do projeto ao Gabinete da Ministra da Presidência e da Modernização Administrativa e até oito dias antes da Reunião de Secretárias/os de Estado.
+
+7 - A falta de envio do relatório final de avaliação prévia de impacto económico legislativo do projeto ao Gabinete da Ministra da Presidência e da Modernização Administrativa não prejudica a emissão de parecer pela Ministra da Presidência e da Modernização Administrativa no prazo previsto no número anterior.»
+
+8 - Revogar as alíneas b), f) e g) do n.º 1 do artigo 26.º do Regimento do Conselho de Ministros do XXI Governo Constitucional, aprovado pela [Resolução do Conselho de Ministros n.º 95-A/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/95-a-2015-72909766), de 17 de dezembro.
+
+9 - Determinar que, sem prejuízo do disposto no número seguinte, a presente resolução produz efeitos no dia seguinte ao da sua publicação e que o sistema de avaliação prévia de impacto legislativo se aplica aos projetos legislativos a submeter, a partir dessa data, pelos gabinetes ministeriais proponentes ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.
+
+10 - Para efeitos do disposto no n.º 5, o núcleo de avaliação de impacto legislativo procede à avaliação dos projetos legislativos submetidos ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros entre 1 de janeiro de 2017 e a data de produção de efeitos da presente resolução, em estreita articulação com os gabinetes ministeriais proponentes e, se aplicável, com os respetivos serviços, organismos e entidades.
+
+Presidência do Conselho de Ministros, 2 de março de 2017. - O Primeiro-Ministro, António Luís Santos da Costa.

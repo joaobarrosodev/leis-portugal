@@ -1,0 +1,206 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:183941513:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-869915215",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2022-183941513",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-05-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869915172",
+    "869915173",
+    "869915174",
+    "869915775",
+    "869915776",
+    "869915777",
+    "869915778",
+    "869915779",
+    "869915780",
+    "869915781",
+    "869915782",
+    "869915783",
+    "869915784",
+    "869915785",
+    "869915786"
+   ]
+  },
+  {
+   "date": "2025-07-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:923844406:por",
+     "title": "Decreto Legislativo Regional n.º 17/2025/A",
+     "published": "2025-07-07",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2025-923844406"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "869915172",
+    "869915173",
+    "869915174",
+    "869915775",
+    "923843473",
+    "869915777",
+    "869915778",
+    "869915779",
+    "869915780",
+    "869915781",
+    "869915782",
+    "869915783",
+    "869915784",
+    "869915785",
+    "869915786",
+    "869915787"
+   ]
+  }
+ ],
+ "fragments": {
+  "869915172": {
+   "fragment_id": "869915216",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 12/2022/A\n\nSumário: Atribuição de incentivos financeiros para a aquisição de sistemas solares fotovoltaicos a instalar na Região Autónoma dos Açores, no âmbito do Plano de Recuperação e Resiliência, designado por Solenerge.\n\nAtribuição de incentivos financeiros para a aquisição de sistemas solares fotovoltaicos a instalar na Região Autónoma dos Açores, no âmbito do Plano de Recuperação e Resiliência, designado por Solenerge\n\nAs consequências decorrentes da propagação do vírus SARS-CoV-2 e da pandemia causada pela doença COVID-19 têm vindo a ter um forte impacto a nível económico e social, exigindo, quer na União Europeia quer em Portugal, a necessidade de uma adaptação estratégica e operacional no sentido de alcançar uma resposta de estabilização de curto prazo, bem como de promoção da recuperação e resiliência, a médio e longo prazos.\n\nEm julho de 2020, o Conselho Europeu chegou a acordo sobre um pacote financeiro ambicioso, em resposta aos novos desafios decorrentes da pandemia causada pela doença COVID-19, bem como à necessidade de implementar políticas económicas e sociais de recuperação e promoção da resiliência dos Estados-Membros.\n\nNo âmbito deste pacote financeiro, foi criado um instrumento de recuperação e resiliência que permite a cada país implementar um conjunto de reformas e investimentos para atenuar o impacto económico da crise causada pela referida pandemia.\n\nNeste contexto, o Plano de Recuperação e Resiliência identifica a aposta na produção de energia, obtida a partir de fontes de energia renováveis nos edifícios como uma das prioridades estratégicas, com vista à recuperação económica, em linha com os pressupostos da promoção da transição energética, visão que se encontra alinhada com aquela que defende o Governo Regional dos Açores, encarando a energia como um setor estratégico na promoção do desenvolvimento descarbonizado da Região Autónoma dos Açores.\n\nNeste sentido, têm sido prioridades regionais as políticas públicas com o objetivo de reduzir as emissões de gases com efeito de estufa, promovendo, simultaneamente, o aumento da eficiência energética, de modo a reduzir o consumo de combustíveis fósseis e, assim, diminuir a dependência energética face ao exterior.\n\nNeste contexto, importa potenciar a produção de energia elétrica obtida a partir de fontes limpas para autoconsumo, neste caso com recurso a sistemas solares fotovoltaicos, uma vez que a evolução desta tecnologia confere uma capacidade de resposta às necessidades das famílias, das empresas e demais entidades açorianas.\n\nDeste modo, e também por esta via, é alcançado um conjunto de objetivos na Região Autónoma dos Açores, nomeadamente a redução da dependência energética do arquipélago, a diminuição de custos com a fatura energética das famílias e empresas, a mitigação da pobreza energética, a melhoria da qualidade ambiental e o reforço da posição dos Açores como destino sustentável.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo, o seguinte:"
+  },
+  "869915173": {
+   "fragment_id": "869915217",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma estabelece o sistema de incentivos financeiros para a aquisição de sistemas solares fotovoltaicos, a instalar na Região Autónoma dos Açores (RAA), no âmbito do Plano de Recuperação e Resiliência, doravante designado por Solenerge."
+  },
+  "869915174": {
+   "fragment_id": "869915218",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios gerais\n\n1 - Sem prejuízo da aplicação dos princípios previstos no número seguinte e das normas que o venham a regulamentar, a implementação do Solenerge deve respeitar os objetivos do desenvolvimento sustentável, bem como do acesso universal, em condições de igualdade, a todos os cidadãos, empresas e demais organizações, assegurando a sua concretização em cada uma das ilhas e em todos os concelhos do arquipélago dos Açores.\n\n2 - Os princípios gerais que regem o Solenerge são os seguintes:\n\na) Princípio da orientação para resultados, segundo o qual são contratualizados, com os beneficiários, objetivos que estes devem executar, nos termos dos projetos que venham a ser aprovados;\n\nb) Princípio da transparência e prestação de contas, consubstanciado na publicação periódica dos apoios concedidos, bem como de relatórios com periodicidade mensal, trimestral e anual;\n\nc) Princípio da simplificação, o qual determina uma diminuição dos requisitos processuais exigidos aos candidatos, nomeadamente ao nível da tramitação do procedimento, reduzindo as complexidades desnecessárias;\n\nd) Princípio da proibição do duplo financiamento, segundo o qual os incentivos concedidos ao abrigo do Solenerge não são cumuláveis com qualquer outro apoio da mesma natureza, independentemente do organismo público que o conceda."
+  },
+  "869915775": {
+   "fragment_id": "869915219",
+   "type": 11,
+   "heading": "Artigo 3.º — Prioridades estratégicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prioridades estratégicas\n\nO Solenerge deve estar alinhado com as orientações políticas nacionais e europeias, em coerência com as linhas de atuação da comunidade internacional, em matérias de transição energética e clima, e tem como prioridades estratégicas as seguintes:\n\na) Reduzir a dependência energética da RAA, no que se refere ao consumo de combustíveis fósseis provenientes do exterior, bem como a imprevisibilidade dos custos para a economia, resultantes da oscilação de preços associados àqueles;\n\nb) Contribuir para a redução de emissões de gases com efeito estufa, como aposta na transição energética para uma economia competitiva e de baixo carbono, assente num modelo democrático e justo de coesão territorial que potencie a geração de riqueza e o uso eficiente de recursos, mitigando, também, os efeitos das alterações climáticas;\n\nc) Apostar, de forma significativa, na produção de energia elétrica proveniente de fontes renováveis e endógenas, bem como no incremento da sua penetração nos diversos sistemas eletroprodutores da RAA;\n\nd) Sensibilizar a sociedade civil para as vantagens da eficiência energética e da importância do combate às alterações climáticas, incentivando a assunção de padrões de produção e consumo de energia mais sustentáveis, através da adoção de comportamentos inerentes à economia circular da energia;\n\ne) Reduzir a fatura energética para as famílias e para as organizações que optem por esta alternativa de produção de energia elétrica, contribuindo para o aumento da competitividade regional e para o desenvolvimento de uma economia de baixo carbono."
+  },
+  "869915776": {
+   "fragment_id": "869915220",
+   "type": 11,
+   "heading": "Artigo 4.º — Caracterização do Solenerge",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Caracterização do Solenerge\n\n1 - O Solenerge tem por objetivo dar continuidade às prioridades estabelecidas pelo Governo Regional no domínio da energia, estimulando a utilização de energias renováveis mais favoráveis ao ambiente, consubstanciando um contributo para o abrandamento do processo de alteração climática, através do aumento da capacidade instalada, por via da aposta na eletrificação e produção descentralizada, com vista à transição energética.\n\n2 - O incentivo para aquisição de sistemas solares fotovoltaicos traduz-se na forma de atribuição de unidades de incentivo, revestindo a forma de subsídio não reembolsável, correspondente a 100 % das despesas elegíveis, até um máximo de 1500 (euro) (mil e quinhentos euros) por quilowatt (kW) instalado.\n\n3 - Para efeitos do Solenerge, consideram-se como despesas elegíveis os custos de aquisição e instalação de sistemas solares fotovoltaicos novos, adquiridos em qualquer Estado-Membro da União Europeia, conforme a regulamentação a que se refere o artigo 12.º, excluindo as despesas relacionadas com transporte.\n\n4 - O valor do investimento elegível terá em consideração o consumo individual de cada código de ponto de entrega:\n\na) Pessoas singulares - considerando a média dos consumos dos últimos seis meses, sendo o limite máximo de potência a financiar definido de acordo com o dimensionamento do sistema apurado pela entidade instaladora, que após avaliação irá definir a potência a instalar, de modo a assegurar que são supridas as necessidades básicas de energia de cada código de ponto de entrega, garantindo o mínimo de energia excedentária;\n\nb) Pessoas coletivas - considerando a média dos consumos dos últimos seis meses, sendo o limite máximo de potência a financiar definido de acordo com o dimensionamento do sistema apurado pela entidade instaladora, que após avaliação irá definir a potência a instalar, de modo a assegurar que são supridas as necessidades básicas de energia de cada código de ponto de entrega, garantindo o mínimo de energia excedentária. A potência a instalar não poderá ser superior a 60 % da potência contratada;\n\nc) Para além do referido na alínea a), as pessoas singulares apenas podem beneficiar do presente incentivo para aquisição e instalação de sistemas solares fotovoltaicos em dois códigos de ponto de entrega por número de identificação fiscal, por ano;\n\nd) Para além do referido na alínea b), o valor máximo do incentivo a conceder às empresas, por código de ponto de entrega, não pode ser superior ao limite máximo do auxílio, indicado em percentagem de equivalente de subvenção bruta (ESB), constante do Mapa Nacional dos Auxílios Estatais com Finalidade Regional para o período de 2022-2027, ou ultrapassar o limite previsto no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia, relativo aos auxílios de minimis, consoante o enquadramento aplicável ao respetivo sistema de incentivos;\n\ne) Na definição da potência a instalar, conforme previsto nas alíneas a) e b), deverá ser tida em consideração a intenção do consumidor da reconversão de equipamentos alimentados por sistemas de gás butano ou outro em equipamentos de alimentação elétrica.\n\n5 - A dotação orçamental para o apoio a conceder ao abrigo do Solenerge tem um valor global de 19 000 000 (euro) (dezanove milhões de euros), repartidos anualmente da seguinte forma:\n\na) Ano de 2022 - 4 969 425 (euro) (quatro milhões, novecentos e sessenta e nove mil e quatrocentos e vinte e cinco euros);\n\nb) Ano de 2023 - 5 115 325 (euro) (cinco milhões, cento e quinze mil e trezentos e vinte e cinco euros);\n\nc) Ano de 2024 - 4 589 125 (euro) (quatro milhões, quinhentos e oitenta e nove mil e cento e vinte e cinco euros);\n\nd) Ano de 2025 - 4 326 125 (euro) (quatro milhões, trezentos e vinte e seis mil e cento e vinte e cinco euros);\n\ne) Dos montantes previstos nas alíneas a), b) e c) ficam afetos 30 % para utilizadores domésticos, sendo o valor não comprometido libertado em outubro de cada ano, considerando o volume de candidaturas submetidas.\n\n6 - Caso seja excedido o orçamento disponível para cada ano, nos termos previstos no número anterior, as candidaturas que não tenham sido analisadas transitam automaticamente para o ano seguinte, à exceção do ano de 2025, atento o termo da vigência do Solenerge."
+  },
+  "869915777": {
+   "fragment_id": "869915221",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso\n\nSão elegíveis para a atribuição dos incentivos objeto do presente diploma todas as pessoas singulares e coletivas que pretendam adquirir e instalar sistemas solares fotovoltaicos em edifícios situados no território da RAA, com exceção da administração regional autónoma e da administração direta do Estado."
+  },
+  "869915778": {
+   "fragment_id": "869915222",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidade gestora\n\nO departamento do Governo Regional com competência em matéria de energia é a entidade gestora do Solenerge."
+  },
+  "869915779": {
+   "fragment_id": "869915223",
+   "type": 11,
+   "heading": "Artigo 7.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Candidaturas\n\n1 - Consideram-se elegíveis, para efeitos do Solenerge, os sistemas solares fotovoltaicos que tenham sido adquiridos após a entrada em vigor da legislação regulamentar a que se refere o artigo 12.º\n\n2 - As candidaturas ao Solenerge podem ser submetidas até dia 31 de agosto de 2025, ou até se encontrar esgotado o orçamento global a ele afeto.\n\n3 - As candidaturas ao Solenerge devem ser submetidas eletronicamente no portal «Recuperar Portugal», devendo, também, ser submetidos, em conjunto com aquelas, os documentos exigidos em cada uma das fases a que se refere o n.º 1 do artigo seguinte, sob pena do respetivo indeferimento.\n\n4 - O candidato é notificado, por correio eletrónico, da confirmação de submissão do pedido de atribuição de incentivo, bem como da numeração atribuída à sua candidatura e respetiva data e hora."
+  },
+  "869915780": {
+   "fragment_id": "869915224",
+   "type": 11,
+   "heading": "Artigo 8.º — Fases das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fases das candidaturas\n\n1 - O processo de candidatura ao Solenerge é composto pelas fases seguintes:\n\na) Fase de submissão da candidatura, que dá início ao processo de candidatura, composta por:\n\ni) Submissão da candidatura por parte do candidato;\n\nii) Verificação, por parte da entidade gestora, da admissibilidade da candidatura, tendo em conta a documentação apresentada;\n\niii) Decisão, por parte da entidade gestora, sobre a validação da intenção de investimento;\n\niv) Notificação ao candidato da decisão sobre a admissibilidade da candidatura submetida;\n\nb) Fase de análise da candidatura, composta por:\n\ni) Notificação dos candidatos, em conjunto com a notificação da decisão de admissibilidade da candidatura a que se refere a subalínea iv) da alínea anterior, sobre a demais documentação a submeter, para efeitos de análise dos projetos e consequente emissão de parecer;\n\nii) Comunicação, ao candidato, sobre a elegibilidade dos equipamentos propostos e do montante do incentivo aprovado;\n\niii) Submissão, por parte do candidato, do termo de aceitação, devidamente assinado e datado;\n\niv) Pagamento do montante aprovado;\n\nc) Fase de conclusão da candidatura, durante a qual o beneficiário deve proceder, obrigatoriamente, e no prazo máximo de 30 dias após receber o incentivo, ao envio dos respetivos recibos à entidade gestora, para efeitos de verificação da realização do investimento contratualizado.\n\n2 - A concessão do incentivo é formalizada por despacho do membro do Governo Regional com competência em matéria de energia, após a assinatura do termo de aceitação por parte do beneficiário, sendo o pagamento efetuado por transferência bancária.\n\n3 - A concessão do incentivo poderá ser consignada pelo beneficiário diretamente ao instalador.\n\n4 - A consignação a que se refere o número anterior pode ser efetuada em qualquer das fases a que se refere o n.º 1 e a sua tramitação a definir através da regulamentação a que se refere o artigo 12.º"
+  },
+  "869915781": {
+   "fragment_id": "869915225",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações da entidade gestora\n\nConstituem obrigações da entidade gestora, no âmbito do Solenerge:\n\na) Assegurar a prestação de informação, bem como o apoio às candidaturas apresentadas, disponibilizando, no seu sítio na Internet, o respetivo formulário de candidatura;\n\nb) Analisar e validar os montantes devidos aos candidatos, comunicar-lhes a decisão sobre a elegibilidade da respetiva candidatura, bem como efetuar o processamento e a transferência bancária das verbas a atribuir;\n\nc) Monitorizar o cumprimento das obrigações a que se vinculam os beneficiários, nas diversas fases do procedimento."
+  },
+  "869915782": {
+   "fragment_id": "869915226",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigações dos beneficiários\n\nConstituem obrigações dos beneficiários, no âmbito do Solenerge:\n\na) Licenciar, previamente à submissão da candidatura, os sistemas solares fotovoltaicos;\n\nb) Utilizar toda a energia produzida pelo equipamento objeto do incentivo atribuído, para efeitos de autoconsumo;\n\nc) Manter em perfeitas condições de funcionamento os equipamentos comparticipados por um período mínimo de seis anos contados a partir da data de publicação da concessão do incentivo, sem prejuízo de avaria do equipamento, por causa não imputável ao candidato, a qual deverá obrigatoriamente ser comunicada ao organismo gestor;\n\nd) Manter devidamente organizados, durante o período referido na alínea anterior, todos os documentos suscetíveis de comprovar as declarações constantes da candidatura, prestando toda a colaboração solicitada pela entidade gestora."
+  },
+  "869915783": {
+   "fragment_id": "869915227",
+   "type": 11,
+   "heading": "Artigo 11.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Avaliação\n\n1 - A entidade gestora deve elaborar relatórios de execução, os quais constituem instrumentos de avaliação da implementação do Solenerge.\n\n2 - Os relatórios a que se refere o número anterior são elaborados nos termos seguintes:\n\na) Relatório mensal, a elaborar no mês seguinte àquele a que diz respeito;\n\nb) Relatório trimestral, a elaborar no primeiro mês de cada novo trimestre, reportando-se ao trimestre imediatamente anterior;\n\nc) Relatório anual, a elaborar até ao final do primeiro trimestre do ano civil seguinte ao do ano a que se reporta, onde constam os resultados da aplicação dos incentivos concedidos ao abrigo do presente diploma, incluindo os montantes financiados e o número de fogos ou estabelecimentos apoiados, na RAA.\n\n3 - Os relatórios de execução a que se referem os números anteriores devem ser objeto de publicação no sítio da Internet da entidade gestora.\n\n4 - Os relatórios de execução a que se referem os números anteriores devem refletir o grau de implementação e execução dos projetos aprovados ao abrigo do sistema de incentivos objeto do presente diploma, contendo, nomeadamente, a indicação do aumento de capacidade instalada e a identificação dos equipamentos objeto de incentivo.\n\n5 - Sem prejuízo da periodicidade e publicitação dos relatórios de execução a que se referem os números anteriores, estes são, igualmente, remetidos à Estrutura de Missão «Recuperar Portugal», criada pela Resolução do Conselho de Ministros n.º 46-B/2021, de 4 de maio, na sua redação atual, sempre que por esta solicitado."
+  },
+  "869915784": {
+   "fragment_id": "869915228",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamentação\n\nO Solenerge é regulamentado através de decreto regulamentar regional, onde são fixados os termos e as condições de acesso, os requisitos e critérios de elegibilidade, os montantes do incentivo, as obrigações das partes, bem como a tramitação relativa à análise, concessão e pagamento dos incentivos."
+  },
+  "869915785": {
+   "fragment_id": "869915229",
+   "type": 11,
+   "heading": "Artigo 13.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicidade\n\nA listagem nominal dos incentivos atribuídos no âmbito do Solenerge consta de despacho do membro do Governo Regional com competência em matéria de energia, a publicar no Jornal Oficial, com periodicidade semestral."
+  },
+  "869915786": {
+   "fragment_id": "869915230",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "923843473": {
+   "fragment_id": "869915220",
+   "type": 11,
+   "heading": "Artigo 4.º — Caracterização do Solenerge",
+   "in_force_from": "2025-07-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2025/A - Diário da República n.º 128/2025, Série I de 2025-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2025-923844406), em vigor a partir de 2025-07-08",
+    "Alterado pelo/a Artigo 72.º do/a [Decreto Legislativo Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290), produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Caracterização do Solenerge\n\n1 - O Solenerge tem por objetivo dar continuidade às prioridades estabelecidas pelo Governo Regional no domínio da energia, estimulando a utilização de energias renováveis mais favoráveis ao ambiente, consubstanciando um contributo para o abrandamento do processo de alteração climática, através do aumento da capacidade instalada, por via da aposta na eletrificação e produção descentralizada, com vista à transição energética.\n\n2 - O incentivo para aquisição de sistemas solares fotovoltaicos traduz-se na forma de atribuição de unidades de incentivo, revestindo a forma de subsídio não reembolsável, correspondente a 100 % das despesas elegíveis, até um máximo de 1500 (euro) (mil e quinhentos euros) por quilowatt (kW) instalado.\n\n3 - Para efeitos do Solenerge, consideram-se como despesas elegíveis os custos de aquisição e instalação de sistemas solares fotovoltaicos novos, adquiridos em qualquer Estado-Membro da União Europeia, conforme a regulamentação a que se refere o artigo 12.º, excluindo as despesas relacionadas com transporte.\n\n4 - O valor do investimento elegível terá em consideração o consumo individual de cada código de ponto de entrega:\n\na) Pessoas singulares - considerando a média dos consumos dos últimos seis meses, sendo o limite máximo de potência a financiar definido de acordo com o dimensionamento do sistema apurado pela entidade instaladora, que após avaliação irá definir a potência a instalar, de modo a assegurar que são supridas as necessidades básicas de energia de cada código de ponto de entrega, garantindo o mínimo de energia excedentária;\n\nb) Pessoas coletivas - considerando a média dos consumos dos últimos seis meses, sendo o limite máximo de potência a financiar definido de acordo com o dimensionamento do sistema apurado pela entidade instaladora, que após avaliação irá definir a potência a instalar, de modo a assegurar que são supridas as necessidades básicas de energia de cada código de ponto de entrega, garantindo o mínimo de energia excedentária. A potência a instalar não poderá ser superior a 60 % da potência contratada;\n\nc) Para além do referido na alínea a), as pessoas singulares apenas podem beneficiar do presente incentivo para aquisição e instalação de sistemas solares fotovoltaicos em dois códigos de ponto de entrega por número de identificação fiscal, por ano;\n\nd) Para além do referido na alínea b), o valor máximo do incentivo a conceder às empresas, por código de ponto de entrega, não pode ser superior ao limite máximo do auxílio, indicado em percentagem de equivalente de subvenção bruta (ESB), constante do Mapa Nacional dos Auxílios Estatais com Finalidade Regional para o período de 2022-2027, ou ultrapassar os limites previstos no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro, no Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro, e no Regulamento (UE) n.º 702/2014, da Comissão, de 25 de junho, relativos à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis;\n\ne) Na definição da potência a instalar, conforme previsto nas alíneas a) e b), deverá ser tida em consideração a intenção do consumidor da reconversão de equipamentos alimentados por sistemas de gás butano ou outro em equipamentos de alimentação elétrica.\n\n5 - A dotação orçamental para o apoio a conceder ao abrigo do Solenerge tem um valor global de 60 000 000 € (sessenta milhões de euros).\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) (Revogada.)\n\n6 - (Revogada.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2025/A - Diário da República n.º 128/2025, Série I de 2025-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2025-923844406), em vigor a partir de 2025-07-08\n\n> Alterado pelo/a Artigo 72.º do/a [Decreto Legislativo Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290), produz efeitos a partir de 2024-01-01"
+  },
+  "869915787": {
+   "fragment_id": "869915231",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de abril de 2022.\n\nO Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.\n\nAssinado em Angra do Heroísmo em 18 de maio de 2022.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n115342067"
+  }
+ }
+}

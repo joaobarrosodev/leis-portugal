@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:241470:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1996-107477164",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/23-1996-241470",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1996-09-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107472517",
+    "107472508",
+    "107472509",
+    "107472510",
+    "107472511"
+   ]
+  },
+  {
+   "date": "2017-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107477154:por",
+     "title": "Decreto Legislativo Regional n.º 16/2017/M",
+     "published": "2017-06-06",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-2017-107477154"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "107472517",
+    "107472518",
+    "107472519",
+    "107472513",
+    "107472520",
+    "107472521"
+   ]
+  }
+ ],
+ "fragments": {
+  "107472517": {
+   "fragment_id": "107477165",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 23/96/M\n\nAcompanhamento e apreciação pela Assembleia Legislativa da participação da Região no processo de construção da União Europeia.\n\nAtravés da Lei n.º 20/94, de 15 de Junho, foi criado um regime que garante o acompanhamento e apreciação pela Assembleia da República da participação de Portugal no processo de construção da União Europeia.\n\nSe tal necessidade a nível nacional é real e evidente, não se discutindo a sua utilidade e bondade, não é menos verdade nem actual que mecanismo idêntico é desejável a nível da Região Autónoma, atenta a especial importância que tem o processo de edificação da União Europeia, as particularidades que relevam uma região insular e a responsabilidade que advém da existência de órgãos de governo próprio no quadro da autonomia constitucional.\n\nHá, pois, toda a conveniência em que a Região Autónoma da Madeira, na defesa dos direitos e interesses institucionais e políticos e das suas populações, tenha uma intervenção empenhada, permanente e esclarecida em todas as questões - e serão muitas naturalmente - que respeitam à União Europeia susceptíveis de originar, quer no âmbito da revisão do Tratado, quer no eventual alargamento a leste e a sul, grandes mutações jurídicas estruturais, económicas, sociais e financeiras.\n\nAcresce que, decorrendo as negociações para a revisão do Tratado da União no seio da Conferência Intergovernamental (CIG), cujos trabalhos se iniciaram em Turim no pretérito dia 29 de Março e que se desenrolarão durante um tempo que se antevê relativamente longo, razões acrescidas há para implementar um sistema de efectivo acompanhamento dos assuntos europeus, naturalmente os que tenham uma conexão com as autonomias e os específicos condicionalismos derivados da insularidade e ultraperiferia.\n\nAfigura-se que a tal participação activa, diligente e responsável não pode estar alheio o primeiro órgão de governo próprio da Região - a Assembleia Legislativa, que representa o universo dos seus cidadãos.\n\nPor todas estas razões, antolha-se, politicamente desejável e juridicamente necessário, criar, a nível regional, um mecanismo idêntico que assegure os mesmos objectivos ínsitos na lei nacional, obviamente conformados à realidade, âmbito e dimensão político-autonómica desta Região.\n\nAssim:\n\nA Assembleia Legislativa da Madeira, ao abrigo do disposto nas alíneas a) do n.º 1 do artigo 229.º da Constituição e c) do n.º 1 do artigo 29.º da Lei n.º 13/91, de 5 Junho, decreta o seguinte:"
+  },
+  "107472508": {
+   "fragment_id": "107477166",
+   "type": 11,
+   "heading": "Artigo 1.º — União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — União Europeia\n\n1 - A Assembleia Legislativa Regional da Madeira acompanha e aprecia o processo de construção da União Europeia, particularmente nos assuntos que directamente respeitem à Região Autónoma da Madeira.\n\n2 - Para o efeito deverá ser estabelecido um processo que assegure uma permanente troca de informações e consulta entre a Assembleia Legislativa Regional e o Governo Regional."
+  },
+  "107472509": {
+   "fragment_id": "107477167",
+   "type": 11,
+   "heading": "Artigo 2.º — Informações à Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Informações à Assembleia Legislativa Regional\n\n1 - A Assembleia Legislativa Regional, sem prejuízo dos direitos constitucionais e estatutários dos seus deputados, requererá ao Governo Regional, sempre que o entender, a documentação que tenha por mais relevante sobre a construção da União Europeia, nomeadamente a que diga respeito à Região Autónoma da Madeira.\n\n2 - O Governo Regional apresentará à Assembleia Legislativa Regional, no 1.º trimestre de cada ano, um relatório que elucide do acompanhamento da Região no processo de construção da União Europeia e no qual se apontem as deliberações tomadas pelas instituições europeias que maior relevância tenham para a Região e das posições adoptadas pelos governos nacional e regional, e quais as medidas postas em prática por ambos, em resultado dessas deliberações."
+  },
+  "107472510": {
+   "fragment_id": "107477168",
+   "type": 11,
+   "heading": "Artigo 3.º — Acompanhamento e apreciação pela Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acompanhamento e apreciação pela Assembleia Legislativa Regional\n\n1 - A Assembleia Legislativa Regional procederá regularmente à apreciação global da participação portuguesa no processo de construção europeia e particularmente no respeitante às implicações económicas, financeiras e sociais de maior impacte na Região, devendo realizar para esse efeito um debate com a presença do Governo Regional no decurso de cada presidência do Conselho Europeu.\n\n2 - A Assembleia Legislativa Regional apreciará a execução financeira dos fundos estruturais e do Fundo de Coesão ou outros programas onde se preveja a utilização de fundos da União Europeia na Região Autónoma da Madeira."
+  },
+  "107472511": {
+   "fragment_id": "107477169",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor na data da sua publicação."
+  },
+  "107472518": {
+   "fragment_id": "107477166",
+   "type": 11,
+   "heading": "Artigo 1.º — União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — União Europeia\n\n1 - A Assembleia Legislativa da Madeira acompanha e aprecia o processo de construção da União Europeia, particularmente nos assuntos que directamente respeitem à Região Autónoma da Madeira.\n\n2 - Para o efeito deverá ser estabelecido um processo que assegure uma permanente troca de informações e consulta entre a Assembleia Legislativa e o Governo Regional."
+  },
+  "107472519": {
+   "fragment_id": "107477167",
+   "type": 11,
+   "heading": "Artigo 2.º — Informações à Assembleia Legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Informações à Assembleia Legislativa\n\n1 - A Assembleia Legislativa, sem prejuízo dos direitos constitucionais e estatutários dos seus deputados, requererá ao Governo Regional, sempre que o entender, a documentação que tenha por mais relevante sobre a construção da União Europeia, nomeadamente a que diga respeito à Região Autónoma da Madeira.\n\n2 - O Governo Regional apresentará à Assembleia Legislativa, no 1.º trimestre de cada ano, um relatório que elucide do acompanhamento da Região no processo de construção da União Europeia e no qual se apontem as deliberações tomadas pelas instituições europeias que maior relevância tenham para a Região e das posições adoptadas pelos governos nacional e regional, e quais as medidas postas em prática por ambos, em resultado dessas deliberações."
+  },
+  "107472513": {
+   "fragment_id": "107477168",
+   "type": 11,
+   "heading": "Artigo 3.º — Acompanhamento e apreciação pela Assembleia Legislativa",
+   "in_force_from": "2017-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2017/M - Diário da República n.º 109/2017, Série I de 2017-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2017-107477154), em vigor a partir de 2017-06-07"
+   ],
+   "markdown": "###### Artigo 3.º — Acompanhamento e apreciação pela Assembleia Legislativa\n\n1 - A Assembleia Legislativa procederá regularmente à apreciação global da participação portuguesa no processo de construção europeia e particularmente no respeitante às implicações económicas, financeiras e sociais de maior impacte na Região, devendo realizar para esse efeito um debate com a presença do Governo Regional, no prazo máximo de 90 dias a contar da entrega do relatório mencionado no n.º 2 do artigo 2.º\n\n2 - A Assembleia Legislativa apreciará a execução financeira dos fundos estruturais e do Fundo de Coesão ou outros programas onde se preveja a utilização de fundos da União Europeia na Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2017/M - Diário da República n.º 109/2017, Série I de 2017-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2017-107477154), em vigor a partir de 2017-06-07"
+  },
+  "107472520": {
+   "fragment_id": "107477169",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor na data da sua publicação."
+  },
+  "107472521": {
+   "fragment_id": "107477170",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Madeira em 23 de Julho de 1996.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 22 de Agosto de 1996.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  }
+ }
+}

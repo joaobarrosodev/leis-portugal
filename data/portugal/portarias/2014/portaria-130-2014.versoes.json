@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25345593:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-116330721",
+ "dre_path": "/dr/detalhe/portaria/130-2014-25345593",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116320733",
+    "116320734",
+    "116320735",
+    "116320736",
+    "116320737",
+    "116320738",
+    "116320739",
+    "116320740",
+    "116320741",
+    "116320742",
+    "116320743",
+    "116320744",
+    "116320745",
+    "116320746",
+    "116320747",
+    "116320748",
+    "116320749",
+    "116320750",
+    "116320752"
+   ]
+  },
+  {
+   "date": "2018-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116330684:por",
+     "title": "Portaria n.º 248/2018",
+     "published": "2018-09-05",
+     "dre_path": "/dr/detalhe/portaria/248-2018-116330684"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "116320733",
+    "116320734",
+    "116320735",
+    "116320736",
+    "116320737",
+    "116320738",
+    "116320739",
+    "116320740",
+    "116320741",
+    "116320742",
+    "116320743",
+    "116320758",
+    "116320745",
+    "116320746",
+    "116320747",
+    "116320748",
+    "116320749",
+    "116320750",
+    "116320751",
+    "116320752"
+   ]
+  }
+ ],
+ "fragments": {
+  "116320733": {
+   "fragment_id": "116330722",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 130/2014\n\nde 25 de junho\n\nO Decreto-Lei n.º 212/2004, de 23 de agosto, estabeleceu a organização institucional do sector vitivinícola, disciplinando o reconhecimento e proteção das respetivas denominações de origem (DO) e indicações geográficas (IG), o seu controlo, certificação e utilização, definindo, ainda, o regime aplicável às entidades certificadoras dos produtos vitivinícolas.\n\nPor sua vez, a Portaria nº 426/2009, de 23 de abril, com as alterações introduzidas pela Portaria nº 1393/2009, de 27 de novembro, reconheceu como IG a designação «Lisboa», conferindo aos vinhos produzidos nesta região a possibilidade de usarem a menção «vinho regional» seguida daquela indicação geográfica, reconhecendo dessa forma as suas aptidões para a produção de vinhos de qualidade e tipicidade próprias, salientando a importância e o valor económico gerado pelos produtos vitivinícolas da região.\n\nFace ao atual enquadramento jurídico do Regulamento (UE) nº <a href=\"eurlex.asp?ano=2013&id=313R1308\" title=\"Link para Regulamento da Comunidade Europeia\">1308/2013</a>, de 17 de dezembro, torna-se necessário rever a mencionada portaria, designadamente fixando-se o rendimento máximo por hectare e a inclusão de novas categorias de produtos do sector vitivinícola com direito ao uso da IG «Lisboa», mantendo a qualidade e as práticas tradicionais que caracterizam os produtos vitivinícolas da região, reconhecendo a qualidade, importância e o valor económico gerado pelos mesmos.\n\nDa mesma forma, cumpre proceder à atualização das castas aptas à produção de vinho e respetiva nomenclatura, face às alterações introduzidas através da Portaria n.º 380/2012, de 22 de novembro a qual, apesar de anterior ao Regulamento (UE) n.º <a href=\"eurlex.asp?ano=2013&id=313R1308\" title=\"Link para Regulamento da Comunidade Europeia\">1308/2013</a>, se mantém atual face à nova organização comum do mercado dos produtos agrícolas, nele estabelecida.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no n.º 1 do artigo 4.º e no artigo 6.º do Decreto-Lei n.º 212/2004, de 23 de agosto, o seguinte:"
+  },
+  "116320734": {
+   "fragment_id": "116330723",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria define o regime para a produção e comércio dos vinhos e demais produtos vitivinícolas da indicação geográfica (IG) «Lisboa»."
+  },
+  "116320735": {
+   "fragment_id": "116330724",
+   "type": 11,
+   "heading": "Artigo 2.º — Indicação Geográfica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Indicação Geográfica\n\n1 - A IG «Lisboa» pode ser utilizada para a identificar os produtos vitivinícolas que satisfaçam os requisitos estabelecidos na presente portaria e demais legislação aplicável e que se integrem nas seguintes categorias:\n\na) Vinho;\n\nb) Vinho licoroso;\n\nc) Vinho espumante;\n\nd) Vinho espumante de qualidade;\n\ne) Vinho frisante;\n\nf) Vinho frisante gaseificado;\n\ng) Vinagre de vinho;\n\nh) Aguardente vínica;\n\ni) Aguardente bagaceira.\n\n2 - É reconhecida a menção «Leve», que pode ser utilizada em complemento da designação IG «Lisboa», nos produtos referidos nas alíneas a), e) e f) do número anterior, sempre que verificadas as condições previstas neste diploma, bem como as definidas pela entidade certificadora."
+  },
+  "116320736": {
+   "fragment_id": "116330725",
+   "type": 11,
+   "heading": "Artigo 3.º — Delimitação da área geográfica de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Delimitação da área geográfica de produção\n\nA área geográfica de produção dos produtos vitivinícolas com direito a IG «Lisboa» corresponde à área prevista no anexo I à presente portaria, da qual faz parte integrante, e abrange:\n\na) O distrito de Lisboa, à exceção do município de Azambuja;\n\nb) Do distrito de Leiria, os municípios de Alcobaça, Batalha, Bombarral, Caldas da Rainha, Leiria, Marinha Grande, Nazaré, Óbidos, Peniche, Pombal (exceto as freguesias de Abiul, Pelariga, Redinha e Vila Cã) e Porto de Mós;\n\nc) Do distrito de Santarém, o município de Ourém."
+  },
+  "116320737": {
+   "fragment_id": "116330726",
+   "type": 11,
+   "heading": "Artigo 4.º — Sub-regiões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sub-regiões\n\n1 - Na área geográfica da IG «Lisboa» são reconhecidas as seguintes sub-regiões:\n\na) Estremadura, integrando:\n\ni) O distrito de Lisboa, à exceção do município de Azambuja;\n\nii) Do distrito de Leiria, os municípios de Bombarral, Peniche, Óbidos e todas as freguesias do município de Caldas da Rainha, com exceção de Carvalhal Benfeito, Santa Catarina e Salir de Matos.\n\nb) Alta-Estremadura, integrando:\n\ni) Do distrito de Leiria, os municípios de Alcobaça, Batalha, Leiria, Marinha Grande, Nazaré, Pombal, exceto as freguesias de Abiul, Pelariga, Redinha e Vila Cã, e Porto de Mós e as freguesias de Carvalhal Benfeito, Santa Catarina e Salir de Matos do município de Caldas da Rainha;\n\nii) Do distrito de Santarém, o município de Ourém.\n\n2 - A IG «Lisboa» pode ser complementada com o nome da sub-região, cuja referência deve ser feita com caracteres de menor dimensão."
+  },
+  "116320738": {
+   "fragment_id": "116330727",
+   "type": 11,
+   "heading": "Artigo 5.º — Solos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Solos\n\nAs vinhas destinadas à elaboração dos produtos vitivinícolas com direito a IG «Lisboa» devem estar, ou ser instaladas, em solos que se enquadrem num dos seguintes tipos:\n\na) Solos calcários pardos ou vermelhos de margas e arenitos finos ou calcários duros interestratificados;\n\nb) Solos calcários pardos ou vermelhos de calcários friáveis ou margas;\n\nc) Solos litólicos não húmicos vermelhos ou pardos de arenitos finos e grosseiros interestratificados;\n\nd) Solos mediterrâneos pardos de arenitos finos, argilas ou argilitos;\n\ne) Solos mediterrâneos vermelhos de arenitos finos, argilas, argilitos, calcários duros ou dolomias;\n\nf) Podzóis com surraipa e sem surraipa de areias ou arenitos;\n\ng) Regossolos psamíticos de areias;\n\nh) Aluviossolos modernos;\n\ni) Solos salinos de aluviões;\n\nj) Barros castanho-avermelhados de basaltos."
+  },
+  "116320739": {
+   "fragment_id": "116330728",
+   "type": 11,
+   "heading": "Artigo 6.º — Castas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Castas\n\n1 - As castas a utilizar na elaboração dos produtos vitivinícolas com IG «Lisboa» são as constantes do Anexo II à presente portaria, da qual faz parte integrante.\n\n2 - As castas a utilizar na elaboração dos produtos vitivinícolas com indicação sub-regional são as constantes do Anexo II para a respetiva sub-região."
+  },
+  "116320740": {
+   "fragment_id": "116330729",
+   "type": 11,
+   "heading": "Artigo 7.º — Práticas culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Práticas culturais\n\nAs práticas culturais utilizadas nas vinhas que se destinam à elaboração dos vinhos e produtos vitivinícolas com IG «Lisboa» são as tradicionais ou as recomendadas pela respetiva entidade certificadora, tendo em vista a obtenção de produtos de qualidade."
+  },
+  "116320741": {
+   "fragment_id": "116330730",
+   "type": 11,
+   "heading": "Artigo 8.º — Inscrição e caracterização das vinhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inscrição e caracterização das vinhas\n\n1 - As vinhas destinadas à produção dos vinhos e produtos vitivinícolas com IG «Lisboa» devem, a pedido dos interessados, ser inscritas na respetiva entidade certificadora que verifica se satisfazem os requisitos necessários, procede ao respetivo cadastro e efetua, no decurso do ano, as verificações que entender necessárias.\n\n2 - Sempre que se verificar qualquer alteração na titularidade ou na constituição das parcelas das vinhas cadastradas e aprovadas, os viticultores dão conhecimento do facto à respetiva entidade certificadora.\n\n3 - A falta de comunicação das alterações referidas no número anterior à entidade certificadora, por parte do viticultor, determina que as uvas das respetivas vinhas não podem ser utilizadas na elaboração dos vinhos e produtos vitivinícolas com IG «Lisboa»."
+  },
+  "116320742": {
+   "fragment_id": "116330731",
+   "type": 11,
+   "heading": "Artigo 9.º — Rendimento por hectare",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rendimento por hectare\n\n1 - O rendimento máximo por hectare das vinhas destinadas à produção dos vinhos e produtos vitivinícolas com direito à IG «Lisboa» é fixado em 200 hl.\n\n2 - De acordo com as condições climatéricas e a qualidade dos mostos, o Instituto da Vinha e do Vinho, I.P., (IVV, I.P.) pode, sob proposta da entidade certificadora, proceder a ajustamentos anuais do limite máximo do rendimento por hectare, o qual não pode exceder, em caso algum, 25% do rendimento previsto no número anterior.\n\n3 - Quando forem excedidos os rendimentos por hectare mencionados nos números anteriores, não há lugar à interdição de utilizar a IG «Lisboa» para as quantidades produzidas até aos limites estabelecidos, podendo o excedente ser destinado à produção de vinhos sem direito à IG «Lisboa», desde que apresentem as características definidas para o produto em questão."
+  },
+  "116320743": {
+   "fragment_id": "116330732",
+   "type": 11,
+   "heading": "Artigo 10.º — Vinificação e práticas enológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vinificação e práticas enológicas\n\n1 - Os mostos destinados à elaboração dos produtos com direito à IG «Lisboa» devem ter um título alcoométrico volúmico natural mínimo de:\n\na) Vinho - 9% vol.;\n\nb) Vinho base para espumante - 9 % vol.;\n\nc) Vinho base para espumante de qualidade - 9 % vol.,\n\nd) Vinho frisante - 7,5 % vol.;\n\ne) Vinho frisante gaseificado - 7,5 % vol.;\n\nf) Vinho com menção ligeiro ou de baixo grau - 7,5 % vol.;\n\ng) Vinho licoroso - 12% vol.\n\n2 - O vinho, vinho frisante e vinho frisante gaseificado que ostente o designativo «Leve» deve possuir um título alcoométrico volúmico natural mínimo de 7,5% vol.\n\n3 - A elaboração dos produtos que venham a beneficiar da IG «Lisboa» deve seguir os métodos, tecnologias e práticas tradicionais, bem como os tratamentos enológicos legalmente autorizados.\n\n4 - As operações de vinificação e preparação dos produtos com IG «Lisboa» referidos nas alíneas a) a f) do n.º 1 do artigo 2.º da presente portaria, poderão ser efetuadas na proximidade imediata da área geográfica de produção, mediante autorização da entidade certificadora, respeitando as regras por esta definidas, e caso haja parecer favorável da entidade certificadora da região limítrofe envolvida."
+  },
+  "116320744": {
+   "fragment_id": "116330733",
+   "type": 11,
+   "heading": "Artigo 11.º — Características dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Características dos produtos\n\n1 - Os vinhos e produtos vitivinícolas com direito à IG «Lisboa» devem apresentar um título alcoométrico volúmico adquirido mínimo de:\n\na) Vinhos - 10% vol.;\n\nb) Vinho espumante - 9,5% vol.;\n\nc) Vinho espumante de qualidade - 10% vol.;\n\nd) Vinho frisante - 7,5% vol.;\n\ne) Vinho frisante gaseificado - 7,5% vol.;\n\nf) Vinho com menção ligeiro ou de baixo grau - 7,5 % vol.;\n\ng) Vinho licoroso - 15% vol.;\n\nh) Aguardente vínica - 37,5 % vol.;\n\ni) Aguardente bagaceira - 37,5 % vol.\n\n2 - O vinho, vinho frisante e vinho frisante gaseificado que ostente o designativo «Leve» deve possuir um título alcoométrico volúmico adquirido mínimo de 7,5% vol. e máximo de 10% vol., uma acidez total expressa em ácido tartárico igual ou superior a 4,5 g/l., bem como a sobrepressão máxima de 1 bar, no caso do vinho.\n\n3 - Os vinhos licorosos devem possuir um título alcoométrico volúmico total não inferior a 17,5% vol.\n\n4 - Os vinagres de vinho com IG «Lisboa» devem obedecer às normas nacionais e comunitárias em vigor, admitindo-se uma tolerância de 0,5º para mais ou para menos, na referência relativa ao teor de acidez total.\n\n5 - Os restantes parâmetros analíticos e organoléticos devem apresentar os requisitos estabelecidos para os respetivos produtos nas disposições legais em vigor e os definidos em regulamento interno da entidade certificadora.\n\n6 - A aprovação dos vinhos e produtos vitivinícolas com direito a IG «Lisboa» depende do cumprimento do disposto nos números anteriores a confirmar mediante realização de análises físico-químicas e organoléticas."
+  },
+  "116320745": {
+   "fragment_id": "116330734",
+   "type": 11,
+   "heading": "Artigo 12.º — Inscrição de operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Inscrição de operadores económicos\n\nSem prejuízo de outras disposições aplicáveis, todas as pessoas singulares ou coletivas que se dediquem à produção e comercialização de produtos vitivinícolas com IG «Lisboa», excluída a distribuição e a venda a retalho de produtos engarrafados, estão sujeitos a inscrição obrigatória, bem como das respetivas instalações na entidade certificadora, em registo apropriado para o efeito."
+  },
+  "116320746": {
+   "fragment_id": "116330735",
+   "type": 11,
+   "heading": "Artigo 13.º — Rotulagem e comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Rotulagem e comercialização\n\n1 - Os produtos com direito à IG «Lisboa» só podem ser comercializados após a sua certificação pela entidade certificadora.\n\n2 - A rotulagem a utilizar nos produtos vitivinícolas com IG «Lisboa» deve respeitar as normas legais aplicáveis e as definidas pela respetiva entidade certificadora, à qual é previamente apresentada para aprovação."
+  },
+  "116320747": {
+   "fragment_id": "116330736",
+   "type": 11,
+   "heading": "Artigo 14.º — Circulação e documentos de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Circulação e documentos de acompanhamento\n\nOs vinhos objeto da presente portaria só podem ser postos em circulação e comercializados desde que:\n\na) Nos respetivos recipientes, à saída das instalações de elaboração, figure a indicação geográfica do produto, atestada pela entidade certificadora;\n\nb) Sejam acompanhados da necessária documentação oficial;\n\nc) Sejam cumpridas as restantes exigências estabelecidas pela legislação em vigor ou pela entidade certificadora."
+  },
+  "116320748": {
+   "fragment_id": "116330737",
+   "type": 11,
+   "heading": "Artigo 15.º — Controlo e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Controlo e certificação\n\nCompetem à Comissão Vitivinícola da Região de Lisboa as funções de controlo da produção e comércio e de certificação dos produtos vitivinícolas com direito à IG «Lisboa»."
+  },
+  "116320749": {
+   "fragment_id": "116330738",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "116320750": {
+   "fragment_id": "116330739",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma Revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma Revogatória\n\nÉ revogada a Portaria n.º 426/2009, de 23 de abril, alterada pela Portaria n.º 1393/2009, de 27 de novembro."
+  },
+  "116320752": {
+   "fragment_id": "116330741",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 6.º)\n\nCastas aptas à elaboração dos produtos vitivinícolas com IG «Lisboa» incluindo a sub-região Estremadura\n\n(ver documento original)\n\nCastas aptas à elaboração de produtos vitivinícolas com indicação da sub-região Alta-Estremadura\n\n(ver documento original)"
+  },
+  "116320758": {
+   "fragment_id": "116330733",
+   "type": 11,
+   "heading": "Artigo 11.º — Características dos produtos",
+   "in_force_from": "2018-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 248/2018 - Diário da República n.º 171/2018, Série I de 2018-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/248-2018-116330684), em vigor a partir de 2018-09-06"
+   ],
+   "markdown": "###### Artigo 11.º — Características dos produtos\n\n1 - Os vinhos e produtos vitivinícolas com direito à IG «Lisboa» devem apresentar um título alcoométrico volúmico adquirido mínimo de:\n\na) Vinhos - 10% vol.;\n\nb) Vinho espumante - 9,5% vol.;\n\nc) Vinho espumante de qualidade - 10% vol.;\n\nd) Vinho frisante - 7,5% vol.;\n\ne) Vinho frisante gaseificado - 7,5% vol.;\n\nf) Vinho com menção ligeiro ou de baixo grau - 7,5 % vol.;\n\ng) Vinho licoroso - 15% vol.;\n\nh) Aguardente vínica - 37,5 % vol.;\n\ni) Aguardente bagaceira - 37,5 % vol.\n\n2 - O vinho, vinho frisante e vinho frisante gaseificado que ostente o designativo 'Leve' deve possuir um título alcoométrico volúmico adquirido mínimo de 7,5 % vol. e máximo de 10,5 % vol., uma acidez total expressa em ácido tartárico igual ou superior a 4,5 g/l., bem como a sobrepressão máxima de 1 bar, no caso do vinho.\n\n3 - Os vinhos licorosos devem possuir um título alcoométrico volúmico total não inferior a 17,5% vol.\n\n4 - Os vinagres de vinho com IG «Lisboa» devem obedecer às normas nacionais e comunitárias em vigor, admitindo-se uma tolerância de 0,5º para mais ou para menos, na referência relativa ao teor de acidez total.\n\n5 - Os restantes parâmetros analíticos e organoléticos devem apresentar os requisitos estabelecidos para os respetivos produtos nas disposições legais em vigor e os definidos em regulamento interno da entidade certificadora.\n\n6 - A aprovação dos vinhos e produtos vitivinícolas com direito a IG «Lisboa» depende do cumprimento do disposto nos números anteriores a confirmar mediante realização de análises físico-químicas e organoléticas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 248/2018 - Diário da República n.º 171/2018, Série I de 2018-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/248-2018-116330684), em vigor a partir de 2018-09-06"
+  },
+  "116320751": {
+   "fragment_id": "116330740",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 12 de junho de 2014.\n\nAnexo I\n\n(a que se refere o artigo 5.º)\n\nÁrea geográfica de produção de vinho IG «Lisboa»\n\n(ver documento original)\n\nÁrea geográfica de produção da sub-região Estremadura\n\n(ver documento original)\n\nÁrea geográfica de produção da sub-região Alta-Estremadura\n\n(ver documento original)"
+  }
+ }
+}

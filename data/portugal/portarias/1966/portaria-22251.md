@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:478223:por
+title: Portaria n.º 22251
+short_title: null
+summary: Manda aplicar nas províncias ultramarinas de Angola e Moçambique o artigo 211.º dos Decretos n.os 38032 e 38231,
+  que aprovam, respectivamente, os Regulamentos dos Institutos Industriais e dos Institutos Comerciais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral do Ensino
+proposing_entity: null
+official_number: '22251'
+official_date: null
+publication_date: '1966-10-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 239/1966, Série I de 1966-10-14
+  number: '239'
+  series: I
+  supplement: null
+  pages: 1700 - 1700
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/10/23900/17001700.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '478223'
+  dre_path: /dr/detalhe/portaria/22251-1966-478223
+  internal: pt:dre:478223:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22251-1966-478223
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22251-1966-478223
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-10-14T00:00:00Z'
+integrity:
+  source_sha256: 8a3a853584dda10d6a10493b217d748b837c58da2c91bb833a57006c5d2c8a38
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-22251-478223.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22251
+
+Sendo conveniente aplicar nas províncias ultramarinas de Angola e Moçambique o que dispõe o artigo 211.º dos Decretos n.os 38032 e 38231, de 4 de Novembro de 1950 e 23 de Abril de 1951, respectivamente:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, o seguinte:
+
+1.º É aplicado nas províncias ultramarinas de Angola e Moçambique o artigo 211.º dos Decretos n.os 38032 e 38231, respectivamente de 4 de Novembro de 1950 e de 23 de Abril de 1951.
+
+2.º Ficam os órgãos legislativos das províncias autorizados a fixar os quantitativos das gratificações a abonar na província.
+
+Ministério do Ultramar, 14 de Outubro de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Angola e Moçambique. - J. da Silva Cunha.

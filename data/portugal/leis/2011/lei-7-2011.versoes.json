@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:278187:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2011-34463375",
+ "dre_path": "/dr/detalhe/lei/7-2011-278187",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47060175",
+    "47060275",
+    "47060375",
+    "47060475",
+    "47060575",
+    "47060675",
+    "47060775"
+   ]
+  },
+  {
+   "date": "2018-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115933863:por",
+     "title": "Lei n.º 38/2018",
+     "published": "2018-08-07",
+     "dre_path": "/dr/detalhe/lei/38-2018-115933863"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "47060175",
+    "115939989",
+    "115939990",
+    "115939991",
+    "115939992",
+    "47060675",
+    "115939993",
+    "47060875"
+   ]
+  }
+ ],
+ "fragments": {
+  "47060175": {
+   "fragment_id": "35083175",
+   "type": 15,
+   "heading": "Diploma — Cria o procedimento de mudança de sexo e de nome próprio no registo civil e procede à décima sétima alteração ao Código do Registo Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "47060275": {
+   "fragment_id": "35552975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e natureza\n\n1 - A presente lei regula o procedimento de mudança de sexo no registo civil e correspondente alteração de nome próprio.\n\n2 - Este procedimento tem natureza secreta."
+  },
+  "47060375": {
+   "fragment_id": "35553075",
+   "type": 11,
+   "heading": "Artigo 2.º — Legitimidade e capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Legitimidade e capacidade\n\nTêm legitimidade para requerer este procedimento as pessoas de nacionalidade portuguesa, maiores de idade e que não se mostrem interditas ou inabilitadas por anomalia psíquica, a quem seja diagnosticada perturbação de identidade de género."
+  },
+  "47060475": {
+   "fragment_id": "35553175",
+   "type": 11,
+   "heading": "Artigo 3.º — Pedido e instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedido e instrução\n\n1 - O pedido pode ser apresentado em qualquer conservatória do registo civil e deve ser instruído com os seguintes documentos:\n\na) Requerimento de alteração de sexo com indicação do número de identificação civil e do nome próprio pelo qual o requerente pretende vir a ser identificado, podendo, desde logo, ser solicitada a realização de novo assento de nascimento;\n\nb) Relatório que comprove o diagnóstico de perturbação de identidade de género, também designada como transexualidade, elaborado por equipa clínica multidisciplinar de sexologia clínica em estabelecimento de saúde público ou privado, nacional ou estrangeiro.\n\n2 - O relatório referido na alínea b) do número anterior deve ser subscrito pelo menos por um médico e um psicólogo."
+  },
+  "47060575": {
+   "fragment_id": "35553275",
+   "type": 11,
+   "heading": "Artigo 4.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Decisão\n\n1 - No prazo de oito dias a contar da apresentação do pedido, o conservador deve, consoante os casos:\n\na) Decidir favoravelmente o pedido e realizar o respectivo averbamento, nos termos do artigo 73.º do Código do Registo Civil e, se for o caso, um novo assento de nascimento, nos termos do n.º 1 do artigo 123.º do mesmo Código;\n\nb) Solicitar o aperfeiçoamento do pedido;\n\nc) Rejeitar o pedido, quando da análise dos documentos instrutórios resultar que este manifestamente não se coaduna com as normas aplicáveis.\n\n2 - Caso tenha sido solicitado o aperfeiçoamento do pedido nos termos da alínea b) do número anterior, o conservador deve decidir o pedido no prazo de oito dias a contar da data da apresentação dos elementos adicionais."
+  },
+  "47060675": {
+   "fragment_id": "35553375",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Código do Registo Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Código do Registo Civil\n\nOs artigos 69.º, 70.º, 104.º, 123.º, 214.º e 217.º do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de Junho, alterado pelos Decretos-Leis n.os 36/97, de 31 de Janeiro, 120/98, de 8 de Maio, 375-A/99, de 20 de Setembro, 228/2001, de 20 de Agosto, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, 113/2002, de 20 de Abril, 194/2003, de 23 de Agosto, e 53/2004, de 18 de Março, pela Lei n.º 29/2007, de 2 de Agosto, pelo Decreto-Lei n.º 324/2007, de 28 de Setembro, pela Lei n.º 61/2008, de 31 de Outubro, e pelos Decretos-Leis n.os 247-B/2008, de 30 de Dezembro, e 100/2009, de 11 de Maio, e pelas Leis n.os 29/2009, de 29 de Junho, e 103/2009, de 11 de Setembro, passam a ter a redacção seguinte:\n\n«Artigo 69.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) A mudança de sexo e a consequente mudança de nome próprio;\n\np) [Anterior alínea o).]\n\nq) [Anterior alínea p).]\n\nr) [Anterior alínea q).]\n\n2 - ...\n\n3 - ...\n\n4 - Os factos referidos na alínea o) do n.º 1 apenas são averbados:\n\na) Aos assentos de nascimento dos filhos maiores da pessoa que mudou de sexo, a requerimento daqueles;\n\nb) Ao assento de nascimento do outro cônjuge com consentimento deste prestado através de declaração perante oficial do registo civil ou de documento autêntico ou autenticado.\n\nArtigo 70.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) A mudança de sexo de qualquer dos cônjuges e a correspondente mudança de nome próprio, desde que haja consentimento do outro cônjuge, prestado por declaração perante o oficial do registo civil ou através de documento autêntico ou autenticado.\n\n2 - (Revogado pelo Decreto-Lei n.º 247-B/2008, de 30 de Dezembro.)\n\nArtigo 104.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) A alteração do nome próprio resultante da mudança da menção do sexo.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\nArtigo 123.º\n\n[...]\n\n1 - O estabelecimento da filiação, a alteração de nome consequente, a mudança de sexo e a consequente alteração de nome próprio, o nome dos avós, a adopção plena e o casamento dos pais podem ser integrados no texto do assento de nascimento ao qual tenham sido averbados, a requerimento verbal dos interessados ou dos seus representantes legais, mediante a realização de novo assento de nascimento.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - (Revogado pelo Decreto-Lei n.º 324/2007, de 28 de Setembro.)\n\nArtigo 214.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Dos assentos a que se mostre efectuado qualquer averbamento de mudança de sexo e consequente alteração de nome próprio, só podem ser passadas certidões de cópia integral ou fotocópias a requerimento do próprio, dos seus herdeiros e das autoridades judiciais ou policiais para efeitos de investigação ou instrução criminal.\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - As autoridades judiciais ou policiais e o IRN, I. P., podem sempre requerer certidão de qualquer registo ou documento, exceptuados os casos previstos no n.º 3.\n\nArtigo 217.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - No caso de registo cancelado decorrente de procedimento de mudança de sexo considera-se interessado apenas o próprio, os seus herdeiros e as autoridades judiciais ou policiais para efeitos de investigação ou instrução criminal.»"
+  },
+  "47060775": {
+   "fragment_id": "35553475",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposições finais\n\n1 - A presente lei aplica-se a todos os pedidos de mudança do registo do sexo efectuados a partir da sua entrada em vigor, independentemente da existência de processos judiciais pendentes ou de ter havido decisão judicial sobre a matéria em data anterior à vigência da presente lei.\n\n2 - O Estado Português reconhece a alteração de registo do sexo efectuada por pessoa de nacionalidade portuguesa que, tendo outra nacionalidade, tenha modificado o seu registo do sexo perante as autoridades desse Estado."
+  },
+  "115939989": {
+   "fragment_id": "35552975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e natureza",
+   "in_force_from": "2018-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 38/2018 - Diário da República n.º 151/2018, Série I de 2018-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863), em vigor a partir de 2018-08-08"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e natureza\n\n1 - A presente lei regula o procedimento de mudança de sexo no registo civil e correspondente alteração de nome próprio.\n\n2 - Este procedimento tem natureza secreta.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 38/2018 - Diário da República n.º 151/2018, Série I de 2018-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863), em vigor a partir de 2018-08-08"
+  },
+  "115939990": {
+   "fragment_id": "35553075",
+   "type": 11,
+   "heading": "Artigo 2.º — Legitimidade e capacidade",
+   "in_force_from": "2018-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 38/2018 - Diário da República n.º 151/2018, Série I de 2018-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863), em vigor a partir de 2018-08-08"
+   ],
+   "markdown": "###### Artigo 2.º — Legitimidade e capacidade\n\nTêm legitimidade para requerer este procedimento as pessoas de nacionalidade portuguesa, maiores de idade e que não se mostrem interditas ou inabilitadas por anomalia psíquica, a quem seja diagnosticada perturbação de identidade de género.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 38/2018 - Diário da República n.º 151/2018, Série I de 2018-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863), em vigor a partir de 2018-08-08"
+  },
+  "115939991": {
+   "fragment_id": "35553175",
+   "type": 11,
+   "heading": "Artigo 3.º — Pedido e instrução",
+   "in_force_from": "2018-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 38/2018 - Diário da República n.º 151/2018, Série I de 2018-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863), em vigor a partir de 2018-08-08"
+   ],
+   "markdown": "###### Artigo 3.º — Pedido e instrução\n\n1 - O pedido pode ser apresentado em qualquer conservatória do registo civil e deve ser instruído com os seguintes documentos:\n\na) Requerimento de alteração de sexo com indicação do número de identificação civil e do nome próprio pelo qual o requerente pretende vir a ser identificado, podendo, desde logo, ser solicitada a realização de novo assento de nascimento;\n\nb) Relatório que comprove o diagnóstico de perturbação de identidade de género, também designada como transexualidade, elaborado por equipa clínica multidisciplinar de sexologia clínica em estabelecimento de saúde público ou privado, nacional ou estrangeiro.\n\n2 - O relatório referido na alínea b) do número anterior deve ser subscrito pelo menos por um médico e um psicólogo.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 38/2018 - Diário da República n.º 151/2018, Série I de 2018-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863), em vigor a partir de 2018-08-08"
+  },
+  "115939992": {
+   "fragment_id": "35553275",
+   "type": 11,
+   "heading": "Artigo 4.º — Decisão",
+   "in_force_from": "2018-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 38/2018 - Diário da República n.º 151/2018, Série I de 2018-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863), em vigor a partir de 2018-08-08"
+   ],
+   "markdown": "###### Artigo 4.º — Decisão\n\n1 - No prazo de oito dias a contar da apresentação do pedido, o conservador deve, consoante os casos:\n\na) Decidir favoravelmente o pedido e realizar o respectivo averbamento, nos termos do artigo 73.º do Código do Registo Civil e, se for o caso, um novo assento de nascimento, nos termos do n.º 1 do artigo 123.º do mesmo Código;\n\nb) Solicitar o aperfeiçoamento do pedido;\n\nc) Rejeitar o pedido, quando da análise dos documentos instrutórios resultar que este manifestamente não se coaduna com as normas aplicáveis.\n\n2 - Caso tenha sido solicitado o aperfeiçoamento do pedido nos termos da alínea b) do número anterior, o conservador deve decidir o pedido no prazo de oito dias a contar da data da apresentação dos elementos adicionais.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 38/2018 - Diário da República n.º 151/2018, Série I de 2018-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863), em vigor a partir de 2018-08-08"
+  },
+  "115939993": {
+   "fragment_id": "35553475",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposições finais",
+   "in_force_from": "2018-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 38/2018 - Diário da República n.º 151/2018, Série I de 2018-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863), em vigor a partir de 2018-08-08"
+   ],
+   "markdown": "###### Artigo 6.º — Disposições finais\n\n1 - A presente lei aplica-se a todos os pedidos de mudança do registo do sexo efectuados a partir da sua entrada em vigor, independentemente da existência de processos judiciais pendentes ou de ter havido decisão judicial sobre a matéria em data anterior à vigência da presente lei.\n\n2 - O Estado Português reconhece a alteração de registo do sexo efectuada por pessoa de nacionalidade portuguesa que, tendo outra nacionalidade, tenha modificado o seu registo do sexo perante as autoridades desse Estado.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 38/2018 - Diário da República n.º 151/2018, Série I de 2018-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2018-115933863), em vigor a partir de 2018-08-08"
+  },
+  "47060875": {
+   "fragment_id": "35553575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 26 de Novembro de 2010.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 1 de Março de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 2 de Março de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

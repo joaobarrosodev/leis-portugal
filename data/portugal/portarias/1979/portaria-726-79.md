@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:231157:por
+title: Portaria n.º 726/79
+short_title: null
+summary: Determina a integração de adidos nos quadros da Direcção-Geral dos Serviços Tutelares de Menores, Centro de Identificação
+  Civil e Criminal e Gabinete do Registo Nacional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios da Justiça e das Finanças
+proposing_entity: null
+official_number: 726/79
+official_date: null
+publication_date: '1979-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 300/1979, 3º Suplemento, Série I de 1979-12-31
+  number: '300'
+  series: I
+  supplement: 3º Suplemento
+  pages: 3478-(56) a 3478-(57)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '231157'
+  dre_path: /dr/detalhe/portaria/726-1979-231157
+  internal: pt:dre:231157:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-1979-231157
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-1979-231157
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-07-22T00:00:00Z'
+integrity:
+  source_sha256: 44f6de6c39a8fbd04e485afd7e294740f442845e13006fc533837ba65aae0fbf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-726-231157.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:394110:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 726/79
+
+de 31 de Dezembro
+
+Considerando que o objectivo final da gestão do quadro geral de adidos se identifica com a definição de soluções que garantam a colocação dos agentes nele ingressados em situações de pleno emprego;
+
+Considerando que esse desiderato deverá, quanto possível, ser alcançado mediante a integração dos adidos nos serviços e organismos da Administração onde se encontrem a prestar serviço, tendo em linha de conta a qualificação profissional entretanto adquirida;
+
+Considerando que se enquadra no condicionalismo descrito a situação dos adidos colocados na Direcção-Geral dos Serviços Tutelares de Menores, no Centro de Identificação Civil e Criminal e no Gabinete do Registo Nacional, o presente diploma procede à integração daqueles funcionários nos respectivos departamentos do Ministério da Justiça;
+
+Considerando, finalmente, o disposto no artigo 3.º do [Decreto-Lei n.º 175/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1978-297797), de 13 de Julho:
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça e pelos Secretários de Estado da Administração Pública e do Orçamento, o seguinte:
+
+1.º
+
+(Aumento dos quadros da Direcção-Geral dos Serviços Tutelares de Menores, Centro de Identificação Civil e Criminal e Gabinete do Registo Nacional.)
+
+1 - Os quadros de pessoal da Direcção-Geral dos Serviços Tutelares de Menores, Centro de Identificação Civil e Criminal e Gabinete do Registo Nacional, aprovados, respectivamente, pelos Decretos-Leis n.os 523/72, de 19 de Dezembro, com as alterações introduzidas pela [Portaria n.º 255/77](https://diariodarepublica.pt/dr/detalhe/portaria/255-1977-252234), de 12 de Maio, e pelo [Decreto-Lei n.º 234/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1977-252446), de 2 de Junho, n.º 63/76, de 24 de Janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 178/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1978-297614), de 14 de Julho, e n.º 555/73, de 26 de Outubro, são aumentados dos lugares constantes dos quadros I, II e III anexos ao presente diploma.
+
+2 - Os referidos quadros de pessoal poderão ainda ser alterados, sob proposta dos respectivos directores, mediante portaria do Ministro da Justiça e dos Secretários de Estado da Administração Pública e do Orçamento, com vista a integrar os adidos que, tendo sido colocados em qualquer dos mesmos departamentos em data posterior à da publicação do presente diploma, satisfaçam necessidades permanentes de serviço.
+
+2.º
+
+(Categorias e forma de integração)
+
+1 - Os lugares criados nos termos do n.º 1.º, 1, serão providos pelos agentes do quadro geral de adidos que à data da publicação desta portaria se encontrem colocados em cada um dos departamentos mencionados, fazendo-se o respectivo provimento nas categorias que resultarem de aplicação de critérios a definir por despacho do Ministro da Justiça e do Secretário de Estado da Administração Pública.
+
+2 - As integrações previstas no número anterior far-se-ão mediante listas nominativas aprovadas pelos mesmos membros do Governo, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+
+3.º
+
+(Regime geral do pessoal)
+
+O pessoal a integrar nos termos do presente diploma ficará sujeito ao regime geral de pessoal aplicável aos funcionários de cada um dos organismos indicados, sendo-lhe contado, para efeitos de aposentação, promoções, diuturnidades, conversão de nomeação provisória em definitiva e antiguidade na função pública, todo o tempo de serviço prestado nos territórios descolonizados e o de permanência no quadro geral de adidos.
+
+4.º
+
+(Providências orçamentais)
+
+Enquanto os orçamentos dos referidos serviços não forem dotados com as verbas indispensáveis à satisfação dos encargos decorrentes de aprovação do presente diploma, as remunerações base dos agentes integrados nos termos deste diploma serão processadas pelos serviços por conta das correspondentes verbas da rubrica «Remunerações certas e permanentes - Pessoal do quadro geral de adidos», inscrita no orçamento do Serviço Central de Pessoal.
+
+5.º
+
+(Resolução de dúvidas)
+
+As dúvidas resultantes da aplicação deste diploma serão resolvidas mediante despacho do Ministro da Justiça e dos Secretários de Estado da Administração Pública e do Orçamento, de harmonia com a respectiva competência.
+
+6.º
+
+(Entrada em vigor)
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros e Ministérios da Justiça e das Finanças, 20 de Dezembro de 1979. - O Ministro da Justiça, Pedro de Lemos e Sousa Macedo. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.
+
+QUADRO I
+
+Direcção-Geral dos Serviços Tutelares de Menores
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf)
+
+QUADRO II
+
+Centro de Identificação Civil e Criminal
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf)
+
+QUADRO III
+
+Gabinete do Registo Nacional
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf)

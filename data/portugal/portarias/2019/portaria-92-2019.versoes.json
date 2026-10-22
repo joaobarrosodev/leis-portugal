@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:121665681:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-949920563",
+ "dre_path": "/dr/detalhe/portaria/92-2019-121665681",
+ "source_lastmod": "2026-05-25",
+ "versions": [
+  {
+   "date": "2026-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1125313612:por",
+     "title": "Portaria n.º 229/2026/1",
+     "published": "2026-05-22",
+     "dre_path": "/dr/detalhe/portaria/229-2026-1125313612"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "950171475",
+    "950171675",
+    "1125719575",
+    "950172075",
+    "950172275"
+   ]
+  }
+ ],
+ "fragments": {
+  "950171475": {
+   "fragment_id": "950171375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O n.º 6 do artigo 81.º da Lei n.º 62/2013, de 26 de agosto, alterada e republicada pela Lei n.º 40-A/2016, de 22 de dezembro, prevê a possibilidade de agregação de juízos por portaria do membro do Governo responsável pela área da justiça.\n\nTrata-se de um instrumento de organização judiciária potenciador da eliminação de desigualdades na carga processual e facilitador de soluções de especialização, estas últimas não concretizáveis à luz do volume processual de cada juízo, autonomamente considerado.\n\nSão esses, pois, os objetivos da presente portaria, identificados que foram os municípios que, pertencendo à mesma comarca, reuniam condições adequadas de proximidade geográfica.\n\nAssim:\n\nAo abrigo do disposto no n.º 6 do artigo 81.º da Lei n.º 62/2013, de 26 de agosto, alterada e republicada pela Lei n.º 40-A/2016, de 22 de dezembro, manda o Governo, pela Ministra da Justiça, o seguinte:"
+  },
+  "950171675": {
+   "fragment_id": "950171575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à agregação de juízos, nos termos do disposto no n.º 6 do artigo 81.º da Lei n.º 62/2013, de 26 de agosto."
+  },
+  "1125719575": {
+   "fragment_id": "950171775",
+   "type": 11,
+   "heading": "Artigo 2.º — Agregação de juízos",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229/2026/1 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2026-1125313612), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 2.º — Agregação de juízos\n\nSão agregados os seguintes juízos:\n\na) Juízo de Competência Genérica de Anadia e Juízo de Competência Genérica de Oliveira do Bairro;\n\nb) Juízo Local Cível de Amares e Juízo Local Cível de Vila Verde;\n\nc) Juízo Local Criminal de Amares e Juízo Local Criminal de Vila Verde;\n\nd) Juízo Local Criminal da Covilhã e Juízo Local Criminal do Fundão;\n\ne) Juízo Local Criminal da Póvoa de Varzim e Juízo Local Criminal de Vila do Conde;\n\nf) Juízo Local Cível de Amarante e Juízo Local Cível de Felgueiras;\n\ng) [Revogada.]\n\nh) [Revogada.]\n\ni) Juízo Local Cível de Grândola e Juízo Local Cível de Santiago do Cacém;\n\nj) Juízo Local Criminal de Grândola e Juízo Local Criminal de Santiago do Cacém;\n\nk) Juízo Local Cível de Arcos de Valdevez e Juízo Local Cível de Ponte da Barca;\n\nl) Juízo Local Criminal de Arcos de Valdevez e Juízo Local Criminal de Ponte da Barca;\n\nm) Juízo de Competência Genérica de Caminha e Juízo de Competência Genérica de Vila Nova de Cerveira;\n\nn) Juízo de Competência Genérica de Melgaço e Juízo de Competência Genérica de Monção;\n\no) Juízo de Competência Genérica de Paredes de Coura e Juízo de Competência Genérica de Valença;\n\np) Juízo de Competência Genérica de Nelas e Juízo de Competência Genérica de Sátão;\n\nq) Juízo de Competência Genérica de Arouca e Juízo de Competência Genérica de São João da Madeira;\n\nr) Juízo de Competência Genérica da Póvoa de Lanhoso e Juízo de Competência Genérica de Vieira do Minho;\n\ns) Juízo Central Criminal do Porto e Juízo Central Criminal de Vila Nova de Gaia;\n\nt) Juízo Local Criminal de Vila Real e Juízo Local Criminal de Peso da Régua.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229/2026/1 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2026-1125313612), em vigor a partir de 2026-05-30."
+  },
+  "950172075": {
+   "fragment_id": "950171975",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 23 de abril de 2019."
+  },
+  "950172275": {
+   "fragment_id": "950172175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Justiça, Francisca Eugénia da Silva Dias Van Dunem, em 19 de março de 2019."
+  }
+ }
+}

@@ -1,0 +1,279 @@
+---
+schema_version: '1.0'
+id: pt:dre:2720043:por
+title: Resolução n.º 13/2002 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Universidade do Porto - Reitoria
+proposing_entity: null
+official_number: 13/2002 (2.ª série)
+official_date: null
+publication_date: '2002-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/2002, Série II de 2002-02-04
+  number: '29'
+  series: II
+  supplement: null
+  pages: 2331 - 2333
+  pdf_url: https://files.diariodarepublica.pt/2s/2002/02/029000000/0233102333.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2720043'
+  dre_path: /dr/detalhe/resolucao/13-2002-2720043
+  internal: pt:dre:2720043:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/13-2002-2720043
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/13-2002-2720043
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-02-04T00:00:00Z'
+integrity:
+  source_sha256: 03f8cd595798edf9c4b831d44a3f72974744ae4c4d0f249b297aa7e74edab121
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-13-2720043.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 13
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 13/2002 (2.ª série)
+
+Resolução n.º 13/2002 (2.ª série). - Os Estatutos da Universidade do Porto, homologados pelo [Despacho Normativo n.º 23/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2001-344428), de 19 de Abril, do Secretário de Estado do Ensino Superior, integram o Instituto Arquitecto José Marques da Silva (IMS) no âmbito dos "estabelecimentos e unidades orgânicas não equiparadas a faculdades" - n.º 3 do artigo 8.º - aos quais se aplicam as disposições do capítulo V dos referidos Estatutos.
+
+Torna-se, assim, necessário adaptar os Estatutos do IMS, aprovados pelo plenário do senado em 22 de Março de 1994 e publicados no Diário da República, 2.ª série, n.º 145, de 25 de Junho de 1994, às novas disposições que regem o funcionamento da Universidade.
+
+Nesta conformidade, o senado da Universidade do Porto, reunido em sessão plenária no dia 8 de Novembro de 2001, aprova a reformulação dos Estatutos do Instituto Arquitecto José Marques da Silva, que passam a ter a redacção seguinte:
+
+Estatutos do Instituto Arquitecto José Marques da Silva
+
+### CAPÍTULO I — Denominação, natureza e fins
+
+###### Artigo 1.º — Denominação, sede e enquadramento legal
+
+1 - O Instituto Arquitecto José Marques da Silva, designado abreviadamente por IMS, é um estabelecimento da Universidade do Porto, com sede na cidade do Porto, na Praça do Marquês de Pombal, 30.
+
+2 - A criação do Instituto Arquitecto José Marques da Silva foi autorizada pelo despacho n.º 24/SEES/94, de 6 de Maio, do Secretário de Estado do Ensino Superior, na sequência de proposta aprovada pelo senado da Universidade do Porto em 22 de Março de 1994.
+
+3 - O Instituto Arquitecto José Marques da Silva encontra-se enquadrado nos estabelecimentos e unidades orgânicas não equiparadas a faculdades citados no n.º 3 do artigo 8.º dos Estatutos da Universidade do Porto, homologados pelo [Despacho Normativo n.º 23/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2001-344428), de 19 de Abril, do Secretário de Estado do Ensino Superior, regendo-se pelas disposições do capítulo V dos mesmos Estatutos.
+
+4 - A duração do IMS é por tempo indeterminado, enquanto não houver fundamento, judicialmente declarado, para a sua extinção.
+
+###### Artigo 2.º — Autonomias
+
+O Instituto Arquitecto José Marques da Silva é, nos termos do n.º 3 do artigo 8.º dos Estatutos da Universidade do Porto, pessoa colectiva de direito público dotada de autonomia administrativa e financeira.
+
+###### Artigo 3.º — Objectivos e atribuições
+
+O IMS é um organismo de carácter cultural, científico e pedagógico, com as seguintes atribuições:
+
+a) Promover a classificação, preservação, conservação e divulgação de todo o património artístico e arquitectónico legado pelos herdeiros do arquitecto José Marques da Silva;
+
+b) Desenvolver acções de classificação, preservação, conservação e divulgação do património artístico e arquitectónico da autoria do arquitecto José Marques da Silva não incluído no legado referido na alínea anterior;
+
+c) Desenvolver acções de ensino, divulgação e difusão cultural relacionadas com a obra e a actividade do arquitecto José Marques da Silva;
+
+d) Colaborar com a Universidade do Porto e as suas unidades orgânicas, bem como com outras entidades públicas e privadas, em acções comuns no domínio da ciência, da arte e da pedagogia, designadamente na área da Arquitectura, promovendo iniciativas destinadas a fomentar a dignificação de arquitecto e a qualidade da arquitectura dentro e fora do País, incluindo o intercâmbio com universidades nacionais e estrangeiras;
+
+e) Instituir um prémio bienal com a denominação de Prémio Arquitecto José Marques da Silva, a atribuir ao aluno finalista da Faculdade de Arquitectura da Universidade do Porto que se licencie com melhor classificação, que não poderá ser inferior a 16 valores;
+
+f) Instituir um museu de arquitectura, que será denominado Museu Arquitecto José Marques da Silva, na casa sita na Praça do Marquês de Pombal, 44, no Porto, Museu esse destinado a recolher e expor a obra do arquitecto José Marques da Silva e ainda, complementarmente, a dos arquitectos Maria José Marques da Silva Martins e David Moreira da Silva, bem como de outros doadores;
+
+g) A prestação de serviços à comunidade, nos termos e condições definidos pela Universidade e pelo regulamento do Instituto.
+
+### CAPÍTULO II — Da gestão
+
+###### Artigo 4.º — Órgãos de gestão
+
+1 - São órgãos de gestão do IMS, nos termos do n.º 1 do artigo 32.º dos Estatutos da Universidade do Porto:
+
+a) O conselho geral;
+
+b) A direcção;
+
+c) O conselho administrativo.
+
+2 - Nos termos do n.º 2 do artigo 32.º dos Estatutos da Universidade do Porto é ainda instituído um conselho científico do IMS.
+
+###### Artigo 5.º — Conselho geral
+
+1 - O conselho geral é constituído:
+
+a) Pelo reitor, ou por um vice-reitor por ele designado, que presidirá;
+
+b) Por um professor de História da Arte, da Faculdade de Letras, por um professor da Faculdade de Arquitectura e por um professor da Faculdade de Belas-Artes, nomeados pelo reitor;
+
+c) Por um arquitecto de reconhecida competência e idoneidade, proposto ao reitor pelos membros do conselho directivo referidos nas alíneas a) e b) e por aquele nomeado;
+
+d) Por duas individualidades do meio cultural ou artístico, nomeados pelo reitor, sob proposta dos restantes membros do conselho geral.
+
+2 - Enquanto não se encontrarem executadas as disposições testamentárias, as individualidades referidas na alínea d) do n.º 1 do presente artigo poderão ser substituídas por membros da família dos arquitectos Maria José Marques da Silva Martins e David Moreira da Silva.
+
+3 - O mandato dos membros do conselho geral é de três anos.
+
+4 - São atribuições do conselho geral:
+
+a) Definir a estratégia global do Instituto;
+
+b) Acompanhar e apoiar a actividade da direcção;
+
+c) Aprovar os planos de actividade, orçamentos, relatórios de actividade e contas do Instituto;
+
+d) Apreciar as propostas apresentadas pelo conselho científico relativamente ao desenvolvimento de acções de natureza científica, pedagógica e cultural que constituam finalidades do Instituto;
+
+e) Aprovar os regulamentos de funcionamento do IMS propostos pela direcção;
+
+f) Propor a nomeação ou exoneração dos vogais da direcção.
+
+5 - Compete ao presidente convocar e dirigir as reuniões do conselho geral.
+
+###### Artigo 6.º — Direcção
+
+1 - A direcção é constituída:
+
+a) Pelo presidente, que será um professor catedrático da Universidade do Porto designado pelo reitor;
+
+b) Por dois vogais, designados pelo conselho geral para o exercício de mandatos de três anos e nomeados pelo reitor.
+
+2 - Pelo menos um dos vogais referidos na alínea b) do n.º 1 do presente artigo será funcionário da Universidade do Porto, docente, investigador ou não docente com categoria não inferior à de técnico superior.
+
+3 - São atribuições da direcção:
+
+a) Administrar e gerir o IMS em ordem à prossecução das suas finalidades, superintendendo em tudo o que não seja da competência específica de outros órgãos de gestão;
+
+b) Assegurar a execução das deliberações do conselho geral e dos restantes órgãos de gestão do IMS no âmbito das suas competências;
+
+c) Elaborar e submeter anualmente à aprovação do conselho geral o plano de actividade e o orçamento do IMS;
+
+d) Elaborar e, colhido o parecer do conselho administrativo, submeter anualmente à aprovação do conselho geral o relatório de actividade e contas do IMS;
+
+e) Elaborar os regulamentos de funcionamento do IMS e submetê-los à aprovação do conselho geral;
+
+f) Promover a realização de contratos de investigação, desenvolvimento e consultoria.
+
+4 - Compete ao presidente da direcção convocar e dirigir as reuniões da direcção, bem como representar o IMS em todos os actos públicos.
+
+5 - A direcção, ouvido o conselho geral, poderá delegar no seu presidente as competências que entender convenientes.
+
+###### Artigo 7.º — Conselho científico
+
+1 - O conselho científico é constituído:
+
+a) Pelo presidente da direcção, que desempenhará igualmente as funções de presidente do conselho científico;
+
+b) Por mais quatro docentes de Arquitectura, Pintura, Escultura ou História da Arte da Universidade do Porto, três dos quais, pelo menos, com a categoria de professores, designados pelo senado para o exercício de mandatos com a duração de três anos, considerados automaticamente prorrogados enquanto não tiverem lugar novas designações de membros.
+
+2 - São atribuições do conselho científico:
+
+a) Funcionar como órgão consultivo do conselho geral e da direcção, emitindo pareceres sobre todas as questões que lhe sejam colocadas por aqueles órgãos;
+
+b) Propor ao conselho geral e à direcção acções de natureza científica, pedagógica e cultural que constituam finalidades do Instituto.
+
+###### Artigo 8.º — Conselho administrativo
+
+1 - O conselho administrativo é constituído:
+
+a) Pelo presidente da direcção, que desempenhará igualmente as funções de presidente do conselho administrativo;
+
+b) Por um funcionário não docente da Universidade do Porto nomeado pelo reitor;
+
+c) Pelo funcionário directamente responsável pela contabilidade do IMS, que servirá de secretário.
+
+2 - O conselho administrativo é o órgão técnico com as competências dos conselhos administrativos dos organismos dotados de autonomia administrativa e financeira, competindo-lhe designadamente:
+
+a) Exercer as competências delegadas pelo conselho administrativo da Universidade;
+
+b) Autorizar e efectuar directamente o pagamento das despesas até ao limite das verbas dos orçamentos do Instituto;
+
+c) Organizar as contas do exercício e submetê-las à aprovação superior, apresentando cópias das mesmas à Reitoria da Universidade;
+
+d) Arrecadar as receitas próprias, sem prejuízo do disposto no n.º 2 do artigo 6.º dos Estatutos da Universidade do Porto;
+
+e) Proceder periodicamente à verificação dos fundos em cofre e fiscalizar a escrituração da contabilidade e da tesouraria.
+
+### CAPÍTULO III — Do património
+
+###### Artigo 9.º — Património e receitas
+
+Constituem património e receitas do IMS:
+
+a) Os bens e direitos que lhe forem atribuídos por doação, herança ou legado e que forem aceites pelo conselho administrativo, ouvidos o conselho geral e a direcção;
+
+b) As receitas próprias que o Instituto realizar com as suas actividades, nos termos da lei, dos presentes estatutos e do regulamento;
+
+c) As dotações patrimoniais e financeiras que lhe forem feitas pelo Estado, pela Universidade do Porto ou por quaisquer outras entidades, desde que, quanto a estas últimas, não estejam sujeitas a condição prejudicial ou incompatível com a natureza e finalidades do Instituto.
+
+###### Artigo 10.º — Gestão patrimonial
+
+1 - Não podem ser alienados, permutados, onerados, cedida a sua utilização, no todo ou em parte, ou de alguma forma desviados da plena propriedade e posse ou dos fins específicos do Instituto os bens que forem atribuídos, por doação ou legado, pelos familiares do arquitecto José Marques da Silva e que façam parte da sua obra arquitectónica ou do seu espólio literário e artístico.
+
+2 - Os bens do património do Instituto que, integrando as condições do número anterior, não façam parte da obra arquitectónica ou do espólio literário e artístico do arquitecto José Marques da Silva apenas poderão ser alienados, permutados, onerados, cedida a sua utilização, no todo ou em parte, ou de alguma forma desviados da plena propriedade e posse ou dos fins específicos do Instituto com autorização do senado, concedida por maioria de dois terços dos seus membros presentes em reunião plenária de cuja convocatória conste expressamente o enunciado da proposta da referida autorização.
+
+3 - O produto resultante das operações citadas no n.º 2 do presente artigo reverterá integralmente para o IMS.
+
+### CAPÍTULO IV — Recursos humanos
+
+###### Artigo 11.º — Regime de pessoal
+
+1 - O IMS poderá recrutar pessoal docente e não docente ao abrigo das disposições legais aplicáveis sobre instrumentos de mobilidade entre funcionários ou agentes de serviços e organismos públicos em geral e da Universidade do Porto em particular, não abrindo, no entanto, vaga no lugar de origem.
+
+2 - O pessoal, docente e não docente, referido no número anterior será afectado com recurso a um dos mecanismos seguintes:
+
+a) Celebração de protocolos com outros estabelecimentos da Universidade do Porto ou com outras instituições públicas;
+
+b) Contratação ao abrigo da lei geral do trabalho, não conferindo, neste caso, aos prestadores de serviços a qualidade de funcionário ou agente.
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+###### Artigo 12.º — Constituição de novos órgãos de gestão
+
+A reformulação da constituição dos órgãos de gestão do IMS deverá efectuar-se logo após a entrada em vigor dos presentes Estatutos.
+
+###### Artigo 13.º — Vigência dos Estatutos
+
+Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+21 de Janeiro de 2002. - O Reitor, J. Novais Barbosa.

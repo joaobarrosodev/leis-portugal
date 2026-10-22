@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:261128:por
+title: Decreto-Lei n.º 188/92
+short_title: null
+summary: Extingue o Instituto Nacional de Investigação Científica
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 188/92
+official_date: null
+publication_date: '1992-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 197/1992, Série I-A de 1992-08-27
+  number: '197'
+  series: I
+  supplement: null
+  pages: 4138 - 4139
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/08/197a00/41384139.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/188/1992/08/27/p/dre/pt/html
+  oj: null
+  dre: '261128'
+  dre_path: /dr/detalhe/decreto-lei/188-1992-261128
+  internal: pt:dre:261128:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1992-261128
+  metadata_url: https://data.dre.pt/eli/dec-lei/188/1992/08/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1992-261128
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-08-27T00:00:00Z'
+integrity:
+  source_sha256: a190e9cfe4e7f14ae51b369fe869238a49a3f7955334ba03a336db9b10558d87
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-188-261128.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Investigador
+- Definição de Competências
+- Extinção de Serviços
+- Lisboa
+- Instituto Nacional de Investigação Científica
+- Observatório Astronómico
+- Jnict
+- Quadro de Efectivos Interdepartamentais
+- Quadro de Excedentes
+- Quadro de Pessoal
+- Transferência Patrimonial
+relationships:
+- type: amended_by
+  target: pt:dre:533788:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 188/92
+
+de 27 de Agosto
+
+A Lei Orgânica do Governo, aprovada pelo [Decreto-Lei n.º 451/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1991-292481), de 4 de Dezembro, determinou a transferências do INIC do Ministério da Educação para o Ministério do Planeamento e da Administração do Território, que, em articulação com aquele, procederá à sua extinção.
+
+No sentido de encontrar uma melhor forma de concretizar este mandato, foi, por despacho do Ministro do Planeamento e da Administração do Território de 7 de Janeiro, criada uma comissão encarregada de estudar e apresentar propostas sobre as linhas gerais da reestruturação que aquela extinção implica.
+
+Foi, por outro lado, desencadeado o processo de audição de diversas entidades e recolhida a informação disponível, por forma a complementar os trabalhos da comissão.
+
+Como corolário das conclusões assim obtidas, vem o presente diploma dar execução à determinação da Lei Orgânica do Governo.
+
+No âmbito da reorganização que o Governo se propõe realizar, prevê-se proceder, numa fase subsequente, a reestruturação dos organismos de investigação dependentes do Ministério do Planeamento e da Administração do Território, de modo a satisfazer as acrescidas responsabilidades que resultam da necessidade de apoiar e coordenar a investigação universitária.
+
+Neste contexto e para garantir a continuidade do apoio à investigação que se leva a cabo nas universidades, as principais atribuições do INIC serão transferidas para a Junta Nacional de Investigação Científica e Tecnológica (JNICT), a título transitório, até à efectiva criação dos organismos resultantes da reestruturação atrás referida.
+
+De outra parte, a partir do reconhecimento do papel fundamental das instituições universitárias no sistema de investigação português, aponta-se, tendencialmente, para a integração dos centros e organismos de investigação até agora dependentes do INIC nas universidades junto das quais vêm funcionando. Todavia, tendo em atenção a autonomia reconhecida às instituições universitárias pela [Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 29 de Setembro, essa integração surge, no presente diploma, como faculdade e como programa, não se estabelecendo qualquer imposição neste sentido.
+
+Foi ouvido o Conselho de Reitores das Universidades Portuguesas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º - 1 - É extinto o Instituto Nacional de Investigação Científica, adiante designado por INIC, passando a Junta Nacional de Investigação Científica e Tecnológica, adiante designada por JNICT, a assegurar as seguintes atribuições:
+
+a) Apoio aos centros de investigação e aos serviços de natureza conexa dependentes do INIC que venham a ser integrados nas universidades, através de um programa específico de contratos plurianuais;
+
+b) Apoio à elaboração e edição de textos e publicações de carácter científico e técnico, dando continuidade à actividade editorial do INIC, especialmente no domínio das ciências sociais e humanas;
+
+c) Apoio à investigação científica, através dos serviços de documentação e informação científica e técnica, em ligação com centros e redes de documentação e informação nacionais ou estrangeiros, nomeadamente mantendo operacional e actualizada a acessibilidade em linha do catálogo das publicações periódicas existentes nas bibliotecas portuguesas;
+
+d) Participação na negociação e execução de convénios, tratados, convenções e acordos bilaterais e multilaterais e em reuniões internacionais sobre investigação e informação científica e técnica, dando as necessárias garantias relativamente aos compromissos assumidos pelo INIC;
+
+e) Patrocínio da realização de congressos, colóquios e outras reuniões científicas e atribuição de subsídios para a participação de investigadores e docentes nessas actividades.
+
+2 - São transferidos para a JNICT, com dispensa de qualquer formalidade, os direitos e obrigações emergentes da participação do INIC em entidades de tipo associativo.
+
+3 - O programa a que se refere a alínea a) do n.º 1 será lançado por concurso, tendo em vista a continuação do apoio às actividades de investigação científica e desenvolvimento experimental nos diversos domínios da ciência levadas a cabo nas universidades.
+
+4 - A JNICT assegurará a concessão de bolsas de estudo, no País e no estrangeiro, aos actuais bolseiros do INIC, garantindo a continuação dessas bolsas nos termos previstos na lei em vigor à data da concessão.
+
+###### Art. 2.º - 1 - Até 30 de Novembro de 1992, podem ser integrados nas universidades onde vinham desenvolvendo a sua actividade os centros de investigação do INIC.
+
+2 - Até 30 de Novembro de 1992, podem ser integrados na Universidade Técnica de Lisboa, na Universidade de Lisboa e na Universidade Nova de Lisboa, respectivamente, os Complexos Interdisciplinares I e II e o Centro de Tecnologia Química e Biológica.
+
+3 - Até 30 de Novembro de 1992, pode ser integrado na Universidade de Lisboa o Observatório Astronómico de Lisboa.
+
+4 - A integração nas universidades das unidades de investigação referidas nos n.os 1 e 2 deve assegurar a continuidade das suas competências científicas e técnicas, bem como a participação de outras instituições universitárias e laboratórios do Estado na sua gestão científica e nas actividades de investigação neles desenvolvidas.
+
+5 - Nos casos em que não tenha sido concluído, no prazo indicado, o processo de integração previsto nos n.os 1, 2 e 3, é extinto o centro ou serviço aí referido.
+
+6 - Quando seja desencadeado, nos termos da Lei de Autonomia das Universidades, o processo de integração a que se referem os n.os 1, 2 e 3, deve a deliberação do senado universitário que contenha a proposta de integração ser comunicada, até 15 de Outubro de 1992, ao Ministro do Planeamento e da Administração do Território.
+
+###### Art. 3.º - 1 - O pessoal do quadro dos serviços dependentes do INIC que vinha prestando serviço nos centros de investigação e constituído em excedente, ingressando no quadro de efectivos interdepartamentais, a menos que ocorra a integração a que se refere o artigo anterior, caso em que transitará para a instituição universitária.
+
+2 - O pessoal integrado no quadro da afectação do INIC regressa à situação de origem, podendo ser integrado no quadro de efectivos interdepartamentais, nos termos da lei.
+
+3 - O pessoal do quadro dos organismos dependentes do INIC que vinha desenvolvendo a sua actividade nos serviços centrais do referido Instituto é integrado na JNICT.
+
+4 - O pessoal do quadro do Observatório Astronómico de Lisboa é constituído em excedente, ingressando no quadro de efectivos interdepartamentais, a menos que, nos termos da integração a que se refere o artigo 2.º, transite para a Universidade de Lisboa.
+
+5 - Os estagiários da carreira técnica superior transitam na situação jurídico-funcional em que se encontram.
+
+6 - Os assistentes de investigação e os estagiários de investigação que vinham prestando serviço nos organismos dependentes do INIC são constituídos em excedentes, ingressando no quadro de efectivos interdepartamentais, a menos que, nos termos da integração a que se refere o artigo 2.º, transitem para as instituições universitárias na situação jurídico-funcional em que se encontram.
+
+7 - Os chefes de repartição do quadro de pessoal dos organismos dependentes do INIC que se encontrem nomeados em comissão de serviço por um ano, em regime probatório, transitam para a JNICT na situação jurídico-funcional em que se encontram.
+
+8 - Os investigadores visitantes contratados tratados pelo INIC são afectos à JNICT, de acordo com o regime contratual antes estabelecido.
+
+###### Art. 4.º - 1 - O património próprio do INIC que se encontra afectado aos centros de investigação e a outros organismos dependentes desse Instituto que venham a ser extintos será colocado à disposição de outras unidades de investiação mediante despacho conjunto dos Ministros das Finanças, do Planeamento e da Administração do Território e da Educação, sem dependência de quaisquer formalidades.
+
+2 - Quando os organismos ou centros de investigação sejam integrados em universidades, o património a que se refere o número anterior transfere-se para a instituição universitária em que ocorra a integração.
+
+3 - Os arquivos do INIC existentes nos serviços centrais transitam para a JNICT, com dispensa de todas as formalidades.
+
+###### Art. 5.º - 1 - A transição do pessoal a que se reporta o artigo 3.º será efectuada através da publicação de listas nominativas pelos serviços integradores até 30 de Novembro de 1992.
+
+2 - Os serviços integradores devem promover a adequação dos respectivos quadros à transição do pessoal a que se refere o número anterior, como salvaguarda da progressão nas respectivas carreiras.
+
+3 - Os encargos decorrentes das transições e integrações previstas no presente diploma serão suportados através dos correspondentes créditos orçamentais inscritos no Orçamento do Estado para 1992.
+
+4 - Os Ministros do Planeamento e da Administração do Território e da Educação deverão instituir os procedimentos necessários à efectiva realização do disposto no número anterior.
+
+5 - No prazo máximo de 30 dias a contar da data de extinção do INIC, a respectiva direcção deverá apresentar relatório e conta final correspondentes ao período entre 1 de Janeiro e 30 de Novembro de 1992, acompanhados dos correspondentes documentos comprovativos, aos Ministros das Finanças, do Planeamento e da Administração do Território e da Educação.
+
+6 - O processo de extinção do INIC deve estar concluído até 30 de Novembro de 1992.
+
+Visto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - António Fernando Conto dos Santos.
+
+**Promulgado em 11 de Agosto de 1992.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 12 de Agosto de 1992.**
+
+Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

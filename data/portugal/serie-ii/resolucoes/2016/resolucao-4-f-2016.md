@@ -1,0 +1,257 @@
+---
+schema_version: '1.0'
+id: pt:dre:73574332:por
+title: Resolução n.º 4-F/2016
+short_title: null
+summary: Nomeia os membros do conselho de administração do Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 4-F/2016
+official_date: null
+publication_date: '2016-02-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 31/2016, 3º Suplemento, Série II de 2016-02-15
+  number: '31'
+  series: II
+  supplement: 3º Suplemento
+  pages: 5222-(25) a 5222-(26)
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/02/031000003/0002500026.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '73574332'
+  dre_path: /dr/detalhe/resolucao/4-f-2016-73574332
+  internal: pt:dre:73574332:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-f-2016-73574332
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-f-2016-73574332
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2016-02-15T00:00:00Z'
+integrity:
+  source_sha256: 52332cf2b8b6be8e96b7048c821143586e070f18aa013728ca411bd40a8b835a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2016/DRE-2016-4-F-73574332.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 4-F/2016
+
+Nos termos do disposto nos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), de 26 de janeiro, e alterado pelo [Decreto-Lei n.º 183/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), de 31 de agosto, aplicável ao Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E., por força do disposto na alínea d) do n.º 1 e no n.º 2 do artigo 1.º do Decreto-Lei n.º 50-A/2007, de 28 de fevereiro, conjugados com o artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pela [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, resulta que os membros do conselho de administração do Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+Atendendo a que os atuais membros do conselho de administração do Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E., cessaram os respetivos mandatos a 31 de dezembro de 2015, torna-se necessário proceder à nomeação de um novo conselho de administração, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pelas Resoluções do Conselho de Ministros n.os [97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro, [45/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2013-498125), de 19 de julho, e [48/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2013-498720), de 29 de julho.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), de 26 de janeiro, e alterado pelo [Decreto-Lei n.º 183/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), de 31 de agosto, dos n.os 2 e 3 do artigo 13.º e da alínea c) do n.º 3 do artigo 20.º, do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta dos Ministros das Finanças e da Saúde, João Porfírio Carvalho de Oliveira, Manuel Amaro Fernandes Ferreira, Fernando Alberto Alves, João Manuel Ferreira Gaspar (Diretor Clínico) e Júlio Manuel Pires Azevedo (Enfermeiro Diretor), respetivamente, para os cargos de presidente e vogais executivos do conselho de administração do Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E., cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciados nas respetivas notas curriculares, que constam dos anexos à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar o nomeado João Manuel Ferreira Gaspar a optar pelo vencimento do lugar de origem.
+
+3 - Autorizar os nomeados João Porfírio Carvalho de Oliveira, Manuel Amaro Fernandes Ferreira, João Manuel Ferreira Gaspar e Júlio Manuel Pires Azevedo a exercerem a atividade de docência em estabelecimentos de ensino superior público ou de interesse público.
+
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua publicação.
+
+11 de fevereiro de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — Notas curriculares
+
+João Porfírio Carvalho de Oliveira
+
+Nascido em Perosinho - Vila Nova de Gaia, em 24 de junho de 1968.
+
+Formação:
+
+Leadership Strategies for Evolving Health Care Executives, Harvard School of Public Health, 2014.
+
+Pós-Graduação em Administração e Gestão da Saúde, Universidade Lusíada - Porto, 2013.
+
+Leadership in Healthcare Delivery, UN - Nova School of Business & Economics, 2013.
+
+PADIS - Programa de Alta Direção de Instituições de Saúde, AESE, 2007.
+
+Licenciatura em Matemáticas Aplicadas, Universidade Lusíada - Porto, 1993.
+
+Experiência Profissional:
+
+Vogal Executivo do Conselho de Administração do Centro Hospitalar de São João e Hospital de São João, 2009-2016.
+
+Diretor do Serviço de Aprovisionamento - Hospital de São João, 2006-2009.
+
+Diretor Logístico e Gestor de Informação da Uponor na Península Ibérica, 2002-2005.
+
+Gestor de Informação das três unidades na Península Ibérica. Uponor Ecoplás, SA, Uponor Termoplás, SA e Uponor Resiplast, SAU., 1997-2001.
+
+IT Manager - Minas e Metalurgia, SA., 1995-1997.
+
+Analista Programador e formador na Segafredo Zanetti, IllyCaffè e Centro de Formação Prof. Indústria do Calçado, 1992-1995.
+
+Manuel Amaro Fernandes Ferreira, nacionalidade portuguesa, nascido a 21 de março de 1969, com morada na rua das Pedreiras, n.º 13 - Figueiredo, 4705-740 Braga.
+
+Habilitações Académicas e Formação Profissional Complementar:
+
+Mestrado em Finanças e Fiscalidade na Faculdade de Economia do Porto (2008/2010), com realização de tese de mestrado subordinada ao tema - «Princípios Estruturantes de um Balanced Scorecard Estratégico para Sistemas Integrados de Saúde»; Pós-graduação em Finanças e Fiscalidade pela Escola de Gestão do Porto - UBPS (2007/2008); Licenciatura em Gestão de Empresas pela Universidade de Évora (1987/1992); Curso Leadership in Healthcare Delivery da Nova School of Business & Economics (2013); Programa de Alta Direção de Instituições de Saúde (PADIS) da AESE-Escola de Direção e Negócios (2012).
+
+Atividade Profissional:
+
+Vogal Executivo do Conselho de Administração do Centro Hospitalar de São João, E. P. E., (2014-fev/2016); Vogal Executivo do Conselho de Administração da Unidade Local de Saúde de Matosinhos, E. P. E., (2011-2013); Diretor de Centro de Empresas do Banco BPI (abr/2010-dez/2010); Vogal Executivo do Conselho de Administração da Unidade Local de Saúde do Alto Minho, E. P. E., (out/2008-mar/2010); Vogal Executivo do Conselho de Administração do Centro Hospitalar do Alto Minho, E. P. E., (jan./06-set/08); Vogal Executivo do Conselho de Administração do Centro Hospitalar do Alto Minho, SA (ago/05-dez/05); Gerente de Conta de Empresas do Banco BPI (97-ago/05); Gestor de Cliente Empresas do Banco de Fomento e Exterior (95-97); Assistente Comercial do Banco de Fomento e Exterior (93-95).
+
+Outra Experiência Profissional Relevante:
+
+Formador do módulo "Financial Management in Delivery" do curso de formação "Leadership in Healthcare Delivery" da Nova SBE (2014-2015); Docente do Módulo II-Gestão de Projetos de Investimento de Finanças I da Pós-Graduação de Finanças e Fiscalidade da EGP-UBPS - Porto (2008-2010); Coordenador da equipa de projeto que elaborou o Plano Estratégico para a constituição da Unidade Local de Saúde do Alto Minho, E. P. E., por integração de todos os Centros de Saúde do distrito de Viana do Castelo e do Centro Hospitalar do Alto Minho, E. P. E. (2008).
+
+Fernando Alberto Alves
+
+Nascido em Edral Vinhais, em 27 de novembro de 1956.
+
+Habilitações académicas:
+
+Licenciado em Economia pela FEP.
+
+Mestre em Gestão e Economia de Serviços de Saúde pela FEP.
+
+PADIS - Programa de Alta Direção de Instituições de Saúde da AESE - Escola de Direção e Negócios.
+
+Experiência profissional:
+
+Consultor financeiro em empresa metalomecânica - AGM, entre 2011 e 2012.
+
+Auditor interno no IPO Porto, entre 2010 e 2011.
+
+Vogal Executivo do Conselho de Administração do Centro Hospitalar do Nordeste, entre 2006 e 2009.
+
+Diretor Comercial de empresa do setor automóvel - Garagem Justino, entre 1996 e 2005.
+
+Administrador de empresa do setor automóvel - Rolmeta, entre 1993 e 1996.
+
+Diretor Administrativo e Financeiro com funções de gerência de empresa do setor automóvel - Moto Meca, entre 1988 e 1993.
+
+Técnico Superior de Economia e Gestão, no NRVIR - Núcleo Empresarial da Região de Vila Real, entre 1987 e 1988.
+
+Gestor da Cooperativa Agrícola de Montalegre, entre 1986 e 1987.
+
+Professor do Ensino Secundário, lecionando a disciplina de Matemática na Escola Secundária de Montalegre, entre 1981 e 1987.
+
+João Manuel Ferreira Gaspar n.º de cédula profissional - 26986 - Ordem dos Médicos
+
+Percurso Académico:
+
+6 de fevereiro 2013 - Grau de Consultor de Cirurgia Geral Hospitalar.
+
+11 de novembro de 2008 - Pós-Graduação em Gestão e Administração Hospitalar.
+
+1 de julho de 2007 - Assistente Graduado de Cirurgia Geral - "Via Longa".
+
+27 de dezembro de 1988 a 31 de dezembro de 1991 - Clínico Geral ARS/Vila Real.
+
+1 de janeiro de 1987 a 27 de dezembro de 1988 - Clínico Geral ARS - Viana do Castelo.
+
+16 de junho de 1998 - Grau de Especialista de Cirurgia Geral.
+
+29 de julho de 1982 - Licenciatura em Medicina, F.M. da Universidade do Porto.
+
+Experiência profissional:
+
+27 de setembro de 2000 - Nomeado Assistente de Cirurgia Geral - Vila Real.
+
+29 de julho de 1999 a 2000 - Assistente de Cirurgia Geral - Mirandela.
+
+13 de agosto de 1998 - Assistente Eventual de Cirurgia Geral - Vila Real.
+
+1 de janeiro de 1992 a 16 de junho de 1998 - Internato complementar - Cirurgia Geral - Vila Real.
+
+27 de dezembro de 1989 a 30 de dezembro de 1991 - Médico Clínico Geral - C.S.Vila Real.
+
+1 de janeiro de 1987 a 27 de dezembro de 1989 - Médico de Clínica Geral - C.S. Melgaço.
+
+1 de novembro de 1985 a 31 de dezembro de 1986 - Batalhão Saúde Militar de Setúbal.
+
+Formação Profissional:
+
+Dezembro de 2006 - Elaboração e Implementação do Manual da Qualidade - Consulta Externa.
+
+14 a 24 de outubro de 1997 - Curso de codificação CID-9-MC - IGIF - Lisboa.
+
+Cargos Desempenhados:
+
+2013-2015 - Diretor do Hospital de Dia do Centro Hospitalar de Trás-os-Montes e Alto Douro.
+
+2012-2015 - Membro do GREPED (grupo de estudo de pé diabético de Portugal).
+
+2005 a 2010 - Diretor da Consulta Externa - Hospital de São Pedro de Vila Real.
+
+2003 a 2015 - Implementação da consulta do pé diabético - Hospital de São Pedro de Vila Real.
+
+Júlio Manuel Pires de Azevedo nasceu em 1966, em Vilarinho de Samardã, Vila Real.
+
+Habilitações académicas: Licenciado em Enfermagem, com o Curso de Estudos Superiores Especializados em Enfermagem de Saúde Mental e Psiquiátrica, em julho de 1999, pela Escola Superior de Enfermagem D. Ana Guedes, Porto.
+
+Pós-Graduação em Gestão e Direção de Serviços de Saúde - Curso de Especialização, em junho de 2014, pela Porto Business School, Porto.
+
+Pós-graduação em Gestão - Gestão Pública e Autárquica, em julho de 2003, pela Universidade de Trás-os-Montes e Alto Douro, Vila Real.
+
+Curso de Enfermagem Geral, em julho de 1991, pela Escola Superior de Enfermagem de Vila Real.
+
+Experiência profissional: De outubro de 2013 até a presente data, adjunto do Presidente da Câmara Municipal de Vila Real, responsável pela gestão e coordenação do gabinete de apoio às juntas de freguesia.
+
+Março de 2009 a setembro de 2013, Enfermeiro Responsável do Serviço de Consulta Externa do Centro Hospitalar de Trás-os-Montes e Alto Douro (CHTMAD), Unidade de Vila Real.
+
+Em março de 2013, Enfermeiro Responsável pela Unidade Integrada da Diabetes do CHTMAD e, em junho do mesmo ano, membro das Unidades Coordenadoras Funcionais da Diabetes (UCFD) dos Agrupamentos dos Centros de Saúde da área de influência do CHTMAD.
+
+Junho de 2000 a fevereiro de 2009, Enfermeiro Especialista, nos serviços de Psiquiatria e Cirurgia do Hospital de S. Pedro de Vila Real.
+
+De 1992 até 1999, Enfermeiro no Centro de Saúde de Vila Pouca de Aguiar e Hospital de S. Pedro de Vila Real - serviço de ambulatório, serviço de atendimento permanente, e internamento de psiquiatria.
+
+No serviço de cirurgia foi responsável pela formação em serviço.
+
+Integrou grupos de trabalho do Projeto de Acreditação do CHTMAD, pela Joint Commission International, em 2007 - Gestão e utilização de Medicação (MMU) e organização do Manual de Qualidade da Consulta Externa.

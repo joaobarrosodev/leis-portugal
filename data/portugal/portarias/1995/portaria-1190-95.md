@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:575368:por
+title: Portaria n.º 1190/95
+short_title: null
+summary: Altera o quadro de pessoal da Direcção-Geral do Tribunal de Contas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 1190/95
+official_date: null
+publication_date: '1995-09-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 226/1995, Série I-B de 1995-09-29
+  number: '226'
+  series: I
+  supplement: null
+  pages: 6045 - 6046
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/09/226b00/60456046.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1190/1995/09/29/p/dre/pt/html
+  oj: null
+  dre: '575368'
+  dre_path: /dr/detalhe/portaria/1190-1995-575368
+  internal: pt:dre:575368:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1190-1995-575368
+  metadata_url: https://data.dre.pt/eli/port/1190/1995/09/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1190-1995-575368
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-09-29T00:00:00Z'
+integrity:
+  source_sha256: 7ad20e82f65367d6054025217c72c95193a7ff34d8612b828dad78cb79650209
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-1190-575368.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral do Tribunal de Contas
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/739/1994/08/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/739/1994/08/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/913/1994/10/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/913/1994/10/14/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1190/95
+
+de 29 de Setembro
+
+Torna-se necessário alargar o quadro de pessoal da Direcção-Geral do Tribunal de Contas de forma que esta instituição melhor possa prosseguir as atribuições que constitucional e legalmente lhe são cometidas.
+
+Assim:
+
+Manda o Governo, pelo Ministro das Finanças, nos termos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, que o quadro referente ao pessoal da Direcção-Geral do Tribunal de Contas, aprovado pelo [Decreto-Lei n.º 312/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1989-547656), de 21 de Setembro, com as alterações constantes das Portarias n.os [976/89](https://diariodarepublica.pt/dr/detalhe/portaria/976-1989-549792), de 14 de Novembro, [1000/89](https://diariodarepublica.pt/dr/detalhe/portaria/1000-1989-549826), de 18 de Novembro, [33/90](https://diariodarepublica.pt/dr/detalhe/portaria/33-1990-333560), de 16 de Janeiro, [739/94](https://diariodarepublica.pt/dr/detalhe/portaria/739-1994-225207), de 13 de Agosto, e [913/94](https://diariodarepublica.pt/dr/detalhe/portaria/913-1994-618565), de 14 de Outubro, seja alterado de acordo com o mapa I anexo à presente portaria.
+
+Ministério das Finanças.
+
+**Assinada em 20 de Setembro de 1995.**
+
+Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
+
+MAPA I
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/226b00/60456046.pdf))](https://files.diariodarepublica.pt/1s/1995/09/226b00/60456046.pdf)

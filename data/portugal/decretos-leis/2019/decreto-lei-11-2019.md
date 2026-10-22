@@ -1,0 +1,253 @@
+---
+schema_version: '1.0'
+id: pt:dre:118051704:por
+title: Decreto-Lei n.º 11/2019
+short_title: null
+summary: Altera o regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Agricultura, Florestas e Desenvolvimento Rural
+official_number: 11/2019
+official_date: null
+publication_date: '2019-01-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 14/2019, Série I de 2019-01-21
+  number: '14'
+  series: I
+  supplement: null
+  pages: 397 - 398
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01400/0039700398.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/11/2019/01/21/p/dre/pt/html
+  oj: null
+  dre: '118051704'
+  dre_path: /dr/detalhe/decreto-lei/11-2019-118051704
+  internal: pt:dre:118051704:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2019-118051704
+  metadata_url: https://data.dre.pt/eli/dec-lei/11/2019/01/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2019-118051704
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-01-21T00:00:00Z'
+integrity:
+  source_sha256: aa25372a72b8225ba510197be34cf15d178245bd75b1c73f2974bc79dd185fb9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2019/DRE-2019-11-118051704.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proteção da Floresta
+- Instituto da Conservação da Natureza e das Florestas
+- Ordenamento Florestal
+- Plano de Gestão Florestal
+- Política de Solos
+- Plano Especifico de Intervenção Florestal
+- Plano Regional de Ordenamento Florestal
+- Política Florestal
+- ZONA de Intervenção Florestal
+- Agência Portuguesa do Ambiente
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/114/2010/10/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/2010/10/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/2009/01/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/2009/01/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/27/2014/02/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/27/2014/02/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/65/2017/06/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/65/2017/06/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/80/2015/05/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/80/2015/05/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/7/2006/07/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/7/2006/07/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/8/2006/07/1
+  label: null
+  source: http://data.dre.pt/eli/decregul/8/2006/07/1
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/31/2014/05/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/31/2014/05/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/74/2017/08/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/74/2017/08/16/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 11/2019
+
+de 21 de janeiro
+
+O regime jurídico dos programas e planos de ordenamento, de gestão e de intervenção de âmbito florestal, aprovado pelo [Decreto-Lei n.º 16/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2009-397359), de 14 de janeiro, alterado pelos [Decretos-Leis n.os 114/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2010-307874), de 22 de outubro, [27/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), de 18 de fevereiro, e [65/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), de 12 de junho, constitui um dos instrumentos fundamentais para a prossecução da política florestal nacional em consonância com os princípios orientadores consagrados na [Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/lei/33-1996-406293), de 17 de agosto, que aprova a Lei de Bases da Política Florestal.
+
+A última alteração efetuada ao [Decreto-Lei n.º 16/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2009-397359), de 14 de janeiro, decorreu essencialmente da necessidade de proceder à sua atualização, em sequência da publicação da [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, alterada pela [Lei n.º 74/2017](https://diariodarepublica.pt/dr/detalhe/lei/74-2017-108001410), de 16 de agosto, que aprovou a Lei de Bases Gerais da Política Pública de Solos, de Ordenamento do Território e de Urbanismo, bem como do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, que aprovou o novo Regime Jurídico dos Instrumentos de Gestão Territorial.
+
+Verifica-se hoje que subsistem dúvidas no que respeita à questão da vinculação dos programas regionais de ordenamento florestal, enquanto programas setoriais de âmbito nacional com expressão regional.
+
+Assim, o presente decreto-lei tem por objetivo clarificar o regime de vinculação daqueles programas em conformidade com o disposto na referida Lei de Bases Gerais da Política Pública de Solos, de Ordenamento do Território e de Urbanismo.
+
+Importa ainda esclarecer como se opera a revogação dos programas regionais de ordenamento florestal, atualmente em vigor, em função da degradação da respetiva forma jurídica.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/lei/33-1996-406293), de 17 de agosto, nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 16/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2009-397359), de 14 de janeiro, alterado pelos [Decretos-Leis n.os 114/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2010-307874), de 22 de outubro, [27/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), de 18 de fevereiro, e [65/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), de 12 de junho, que aprova o regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 16/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2009-397359), de 14 de janeiro
+
+Os artigos 4.º e 25.º do [Decreto-Lei n.º 16/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2009-397359), de 14 de janeiro, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 4.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - Os PROF vinculam ainda, direta e imediatamente, os particulares relativamente:
+
+a) À elaboração dos planos de gestão florestal;
+
+b) Às normas de intervenção nos espaços florestais;
+
+c) Aos limites de área a ocupar por eucalipto.
+
+6 - Ficam excluídas do disposto no número anterior as normas com incidência territorial urbanística.
+
+7 - (Anterior n.º 5.)
+
+###### Artigo 25.º — [...]
+
+1 - Os PROF atualmente em vigor mantêm a sua vigência até à aprovação dos novos PROF que os venham substituir.
+
+2 - [...].
+
+3 - [...].»
+
+###### Artigo 3.º — Norma revogatória
+
+Com a entrada em vigor das portarias previstas no n.º 1 do artigo 11.º do [Decreto-Lei n.º 16/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2009-397359), de 14 de janeiro, na redação introduzida pelo presente decreto-lei, são revogados respetivamente:
+
+a) O [Decreto Regulamentar n.º 7/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2006-537263), de 18 de julho;
+
+b) O [Decreto Regulamentar n.º 8/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2006-537577), de 19 de julho;
+
+c) O [Decreto Regulamentar n.º 9/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2006-537578), de 19 de julho;
+
+d) O [Decreto Regulamentar n.º 10/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2006-537467), de 20 de julho;
+
+e) O [Decreto Regulamentar n.º 11/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2006-539246), de 21 de julho;
+
+f) O [Decreto Regulamentar n.º 12/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-2006-539224), de 24 de julho;
+
+g) O [Decreto Regulamentar n.º 14/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2006-545831), de 17 de outubro;
+
+h) O [Decreto Regulamentar n.º 15/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2006-545819), de 19 de outubro;
+
+i) O [Decreto Regulamentar n.º 16/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2006-545818), de 19 de outubro;
+
+j) O [Decreto Regulamentar n.º 17/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2006-545821), de 20 de outubro;
+
+k) O [Decreto Regulamentar n.º 18/2006](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-2006-545823), de 20 de outubro;
+
+l) O [Decreto Regulamentar n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2007-522809), de 17 de janeiro;
+
+m) O [Decreto Regulamentar n.º 3/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2007-522811), de 17 de janeiro;
+
+n) O [Decreto Regulamentar n.º 4/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2007-522628), de 22 de janeiro;
+
+o) O [Decreto Regulamentar n.º 16/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2007-520254), de 28 de março;
+
+p) O [Decreto Regulamentar n.º 17/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2007-520238), de 28 de março;
+
+q) O [Decreto Regulamentar n.º 36/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-2007-520204), de 2 de abril;
+
+r) O [Decreto Regulamentar n.º 37/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-2007-520190), de 3 de abril;
+
+s) O [Decreto Regulamentar n.º 39/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-2007-520217), de 5 de abril;
+
+t) O [Decreto Regulamentar n.º 41/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2007-519984), de 10 de abril;
+
+u) O [Decreto Regulamentar n.º 42/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-2007-519992), de 10 de abril.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 6 de dezembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Carlos Manuel Soares Miguel - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
+
+**Promulgado em 28 de dezembro de 2018.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 7 de janeiro de 2019.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

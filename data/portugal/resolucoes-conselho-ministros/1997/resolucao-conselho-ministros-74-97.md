@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: pt:dre:395154:por
+title: Resolução do Conselho de Ministros n.º 74/97
+short_title: null
+summary: Aprova medidas excepcionais de apoio aos distritos afectados por temporais e quedas de neve entre Dezembro de 1996
+  e Janeiro de 1997
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 74/97
+official_date: null
+publication_date: '1997-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/1997, Série I-B de 1997-05-13
+  number: '110'
+  series: I
+  supplement: null
+  pages: 2309 - 2310
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/05/110b00/23092310.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/74/1997/05/13/p/dre/pt/html
+  oj: null
+  dre: '395154'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/74-1997-395154
+  internal: pt:dre:395154:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-1997-395154
+  metadata_url: https://data.dre.pt/eli/resolconsmin/74/1997/05/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-1997-395154
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-05-13T00:00:00Z'
+integrity:
+  source_sha256: b347a4ced40379498df2e49b4c3ee3fa151cf8507de4258318960dd5464380ff
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-74-395154.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crédito Bonificado
+- Linha de Crédito
+- Castelo Branco
+- Vila Real
+- Agricultura
+- Bragança
+- Subsídio
+- Subsídio não Reembolsável
+- Temporal
+- Guarda
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/11/1996/02/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/1996/02/29/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 74/97
+
+Os distritos de Bragança, Castelo Branco, Guarda e Vila Real foram atingidos, entre 5 de Dezembro de 1996 e 7 de Janeiro de 1997, por severas condições climatéricas, com temporais e quedas de neve de excepcional intensidade, provocando prejuízos em empresas, pessoas singulares e instituições nas zonas mais directamente afectadas.
+
+Tratando-se de regiões do interior, com economias frágeis e, consequentemente, com pouca capacidade de recuperação perante dificuldades imprevistas que afectem as suas infra-estruturas, torna-se necessário que o Governo tome medidas adequadas de apoio para minorar os prejuízos sofridos por empresas, pessoas singulares e instituições nas áreas dos conselhos listados em documento anexo à presente resolução.
+
+Assim, o Governo, ao abrigo do disposto na alínea g) do artigo 202.º da Constituição, resolveu:
+
+1 - Os danos sofridos por cidadãos e famílias mais carenciados serão minorados através da atribuição de subsídios, não reembolsáveis, provenientes da conta especial de emergência, de acordo com o disposto na alínea a) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 231/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1986-218905), de 14 de Agosto, na redacção que lhe foi dada pelo [Decreto-Lei n.º 11/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1996-621343), de 29 de Fevereiro.
+
+2 - As entidades que sofreram prejuízos relacionados com o exercício da actividade económica beneficiarão de:
+
+a) Um subsídio financeiro a fundo perdido cobrindo até 35% dos prejuízos em estruturas agrícolas confirmados em cada empresa, empresário em nome individual ou cooperativa dos sectores da agricultura, silvicultura e pecuária pelos serviços do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas; o montante global destes subsídios não poderá exceder 120 milhões de escudos e será suportado pelo orçamento de 1997 do Instituto Nacional de Intervenção e Garantia Agrícola (INGA);
+
+b) Uma linha de crédito, no montante global máximo de 230 milhões de escudos, com juros bonificados, à qual terão acesso os mesmos agentes económicos referidos na alínea a) para fazer face aos prejuízos também aí referidos e igualmente confirmados nos termos da alínea a); o custo com as bonificações da taxa de juro será suportado pelo orçamento dos anos de 1998 e seguintes do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas;
+
+c) 300 milhões de escudos, relativamente a prejuízos verificados na actividade industrial ou comercial, através do acesso a crédito bonificado, suportando o Ministério da Economia a respectiva bonificação dos juros.
+
+3 - As situações de particular dificuldade que afectem autarquias, quando os respectivos orçamentos se revelem manifestamente insuficientes para fazer face a obras e reparações cuja exigência tenha resultado das condições climatéricas que estão na base da presente resolução, poderão também beneficiar de uma linha de crédito até um máximo global de 200 milhões de escudos, suportando o Ministério do Equipamento, do Planeamento e da Administração do Território a respectiva bonificação de juros.
+
+4 - Os Ministérios da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas promoverão, no prazo de 20 dias, as acções necessárias à concretização das medidas objecto da presente resolução, nomeadamente:
+
+a) A definição e tramitação dos processos de candidatura ao financiamento e subsídios;
+
+b) A definição de critérios e condições de acesso aos apoios previstos;
+
+c) A determinação do seu âmbito de aplicação temporal e territorial.
+
+5 - Os Ministérios responsáveis assumirão a gestão, coordenação e controlo das medidas relativas à respectiva área de actuação.
+
+Presidência do Conselho de Ministros, 3 de Abril de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## ANEXO
+
+Distrito de Bragança:
+
+Alfândega da Fé.
+
+Bragança.
+
+Carrazeda de Ansiães.
+
+Freixo de Espada à Cinta.
+
+Macedo de Cavaleiros.
+
+Miranda do Douro.
+
+Mirandela.
+
+Mogadouro.
+
+Torre de Moncorvo.
+
+Vila Flor.
+
+Vimioso.
+
+Vinhais.
+
+Distrito de Castelo Branco:
+
+Covilhã.
+
+Fundão.
+
+Distrito da Guarda:
+
+Almeida.
+
+Celorico da Beira.
+
+Gouveia.
+
+Guarda.
+
+Manteigas.
+
+Pinhel.
+
+Sabugal.
+
+Seia.
+
+Trancoso.
+
+Vila Nova de Foz Côa.
+
+Distrito de Vila Real:
+
+Alijó.
+
+Boticas.
+
+Chaves.
+
+Montalegre.
+
+Murça.
+
+Peso da Régua.
+
+Sabrosa.
+
+Santa Marta de Penaguião.
+
+Valpaços.
+
+Vila Pouca de Aguiar.
+
+Vila Real.

@@ -1,0 +1,559 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517993:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/1962-1104103375",
+ "dre_path": "/dr/detalhe/decreto/44220-1962-517993",
+ "source_lastmod": "2026-06-03",
+ "versions": [
+  {
+   "date": "1964-08-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:579932:por",
+     "title": "Decreto n.º 45864",
+     "published": "1964-08-12",
+     "dre_path": "/dr/detalhe/decreto/45864-1964-579932"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "1104103575",
+    "1104080175",
+    "1104079375",
+    "1104103775",
+    "1104103975",
+    "1104104175",
+    "1104079575",
+    "1104104375",
+    "1104104575",
+    "1104104775",
+    "1104104975",
+    "1104105175",
+    "1104105375",
+    "1104105575",
+    "1104105775",
+    "1104105975",
+    "1104106175",
+    "1104106375",
+    "1104106575",
+    "1104106775",
+    "1104106975",
+    "1104107175",
+    "1104107375",
+    "1104107575",
+    "1104079975",
+    "1104107775",
+    "1104111075",
+    "1104108175",
+    "1104108375",
+    "1104108575",
+    "1104108775",
+    "1104111275",
+    "1104109175",
+    "1104109375",
+    "1104109575",
+    "1104109775"
+   ]
+  },
+  {
+   "date": "1971-11-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:633695:por",
+     "title": "Decreto n.º 463/71",
+     "published": "1971-11-02",
+     "dre_path": "/dr/detalhe/decreto/463-1971-633695"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "1104103575",
+    "1104080175",
+    "1104079375",
+    "1104103775",
+    "1104103975",
+    "1104104175",
+    "1104079575",
+    "1106842375",
+    "1104104575",
+    "1104104775",
+    "1104104975",
+    "1104105175",
+    "1104105375",
+    "1104105575",
+    "1104105775",
+    "1104105975",
+    "1104106175",
+    "1104106375",
+    "1104106575",
+    "1104106775",
+    "1104106975",
+    "1104107175",
+    "1104107375",
+    "1104107575",
+    "1104079975",
+    "1104107775",
+    "1104111075",
+    "1104108175",
+    "1104108375",
+    "1104108575",
+    "1104108775",
+    "1104111275",
+    "1104109175",
+    "1104109375",
+    "1104109575",
+    "1104109775"
+   ]
+  },
+  {
+   "date": "1976-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:407714:por",
+     "title": "Decreto n.º 857/76",
+     "published": "1976-12-20",
+     "dre_path": "/dr/detalhe/decreto/857-1976-407714"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "1104103575",
+    "1104080175",
+    "1104079375",
+    "1104103775",
+    "1104103975",
+    "1104104175",
+    "1104079575",
+    "1106842375",
+    "1104104575",
+    "1104104775",
+    "1104104975",
+    "1104105175",
+    "1104105375",
+    "1104105575",
+    "1104105775",
+    "1104105975",
+    "1104106175",
+    "1104106375",
+    "1104106575",
+    "1104106775",
+    "1104106975",
+    "1104107175",
+    "1104107375",
+    "1104107575",
+    "1104079975",
+    "1104107775",
+    "1104111075",
+    "1104108175",
+    "1104108375",
+    "1104108575",
+    "1104108775",
+    "1106860375",
+    "1104109175",
+    "1104109375",
+    "1104109575",
+    "1104109775"
+   ]
+  },
+  {
+   "date": "2006-08-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:538823:por",
+     "title": "Decreto-Lei n.º 168/2006",
+     "published": "2006-08-16",
+     "dre_path": "/dr/detalhe/decreto-lei/168-2006-538823"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "1104103575",
+    "1104080175",
+    "1104079375",
+    "1108671275",
+    "1104103975",
+    "1104104175",
+    "1104079575",
+    "1108671475",
+    "1104104575",
+    "1104104775",
+    "1104104975",
+    "1104105175",
+    "1104105375",
+    "1104105575",
+    "1104105775",
+    "1104105975",
+    "1104106175",
+    "1104106375",
+    "1104106575",
+    "1104106775",
+    "1104106975",
+    "1104107175",
+    "1104107375",
+    "1104107575",
+    "1104079975",
+    "1104107775",
+    "1104111075",
+    "1104108175",
+    "1104108375",
+    "1104108575",
+    "1104108775",
+    "1106860375",
+    "1104109175",
+    "1104109375",
+    "1104109575",
+    "1104109775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1104103575": {
+   "fragment_id": "1104103475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 44220\n\n1. Desde o Decreto de 21 de Setembro de 1835, referendado por Rodrigo da Fonseca Magalhães, que mandou que se estabelecessem cemitérios públicos em todas as povoações do País e cominou penas graves ao pároco ou qualquer eclesiástico beneficiado que consentisse enterramentos dentro dos templos, até aos nossos dias têm-se publicado variadas disposições sobre cemitérios, umas em diplomas legais, outras em simples instruções dirigidas às entidades encarregadas da sua construção, manutenção ou polícia.\n\nEntre elas tem importância especial, sob o ponto de vista da construção de cemitérios, as instruções que se contêm na circular do Ministério do Reino de 16 de Dezembro de 1890, que ainda hoje se mantém em vigor. O seu acerto e valor manifestam-se no facto de terem perdurado ao longo de um período de mais de 70 anos.\n\nEstudadas essas instruções em profundidade reconhece-se que mantêm ainda actualidade muitas das suas prescrições, mas que há outras - como é natural depois de tão longo período - que a perderam. É uma consequência normal da evolução científica e dos conceitos de ordem sanitária, que não são hoje o que eram em 1890, especialmente para o grande público. Atendendo a esse facto, procurou-se nas medidas que agora se cominam manter o que nelas ainda vale - salvo as disposições de carácter administrativo que, por constarem de outros diplomas legais, se entende não deverem fazer parte delas -, alterando-se apenas aquelas que, por não corresponderem às preocupações actuais, não poderiam manter-se.\n\nEntre as medidas cuja alteração se impõe destacam-se as que se referem ao isolamento dos cemitérios, ao seu encercamento por muros altos e à utilização das águas que eles possam influenciar. Os receios de ordem sanitária que a tal respeito informam as instruções de 1890 não têm razão de ser. Convém, portanto, alterar as disposições que os traduziam, na medida em que se não, ofendam ostensivamente hábitos inveterados, que se entende de respeitar.\n\nTratar-se-á, para cada um desses casos, de justificar os novos princípios com base em opiniões incontroversas de autoridades dignas de todo o crédito na matéria.\n\n2. Isolamento dos cemitérios:\n\nÉ ideia que vem de remotos tempos que os corpos dos mortos em decomposição tem acção deletéria sobre os vivos. Dela vem, talvez, o uso da incineração que tem longa tradição, praticando-a os gregos e outros povos da mais remota antiguidade, e que é adoptada ainda nos tempos correntes. O desenvolvimento das epidemias de peste que assolaram os povos da Europa, em especial na Idade Média, foi atribuído à decomposição de cadáveres insepultos, e ainda hoje, em dias bem recentes, se viu igual preocupação a propósito do terramoto de Agadir. Compreende-se, assim, que se procurasse isolar os cemitérios, como elemento de infecção, interpondo entre eles e os vivos largas faixas de protecção.\n\nDesta presunção resultaram medidas de que as instruções de 1890 se fazem eco, impondo o seu afastamento a um mínimo de 143 m (ver nota 1) das habitações - artigo 14.º das mesmas instruções - e que persistiram, talvez que por motivo de ordem psicológica, nas disposições dos Decretos n.os 13337, de 25 de Março de 1921, e 37575, de 8 de Outubro de 1949, que fixaram as distâncias que deveriam existir entre as escolas primárias e os cemitérios - o primeiro 500 m, o segundo 200 m, ou menos, em casos especiais. E isto quando a existência de cemitérios em contacto quase imediato com casas de habitação já tinha provado a inanidade do receio.\n\nNão têm, realmente, sob o ponto de vista sanitária, qualquer justificação as medidas que prescrevem o afastamento dos cemitérios. O Prof. Ricardo Jorge, que foi higienista eminente, já em 1884, analisando em conferências que proferiu na Escola Médico-Cirúrgica do Porto (ver nota 2) o problema do isolamento dos cemitérios, dizia:\n\nÀ força de enegrecer os enterramentos nos templos o de invectivar a putrefacção, sobrecarregando-a com as mais pesadas e funestas culpabilidades patológicas, encarou-se o próprio cemitério como um foco insalubre e deletério. E esta crença verdadeiramente universal e absolutamente incontestada traduziu-se na legislação por um preceito frisante e nítido - arredar do povoado a respectiva necrópole e evitar o mais possível que essas peçonhas intangíveis jornadeiem até à povoação arrastadas pelas águas potáveis ou pelos ventos reinantes.\n\nE, depois de historiar a velha superstição, de apontar factos e autores, fez a brilhante e convincente apologia das ideias novas sobre a matéria, que enunciou pela seguinte forma:\n\nÉ tempo de entrar na demonstração do teorema científico - a salubridade da inumação nos cemitérios. Derivarei de facto em facto, de princípio em princípio, como numa demonstração matemática, até atingir o quod erat demonstrandum: o enterramento, guardadas as condições higiénicas elementares, é uma prática higiènicamente inocente.\n\nOutro ilustre higienista português, o Dr. Arruda Furtado, dizia o seguinte sobre o assunto, em conferência que proferiu em 10 de Maio de 1941 (ver nota 3).\n\nUm problema surge quando se pensa em escolher o campo mortuário:\n\nA que distâncias dos vivos?\n\nPara qualquer invocação higiénica ou administrativa, não se conte nunca com o terror que o cemitério infunda, ou com o desejo que tenham os vivos de que fiquem longe deles os mortos.\n\nSabemos que surgem os que vociferam porque das suas janelas se possa ver o cemitério. E vêm brados que afirmam miasmas, gases, pestilências, que, todas juntas, não excedem por vezes as dos reclamantes. Que as administrações considerem então cada caso, mas que nem elas nem os reclamantes venham em nome de uma higiene demarcada, teórica ou errada, procurar arrimo. As exigências da higiene são simples, são claras e são modestas em tal matéria.\n\nE, a seguir:\n\nNunca se vê que briguem os interessados da saúde pública com os outros na escolha de um local para os cemitérios.\n\nInsistindo:\n\nÉ, repetimos, muito de ordem administrativa essa preocupação do afastamento. Nem se vê que seja de ordem moral, pois a piedade, o respeito, o culto dos mortos só dignifica; nem se diga que os receia o povo, que ainda aqui e ali procura o repouso dos seus mortos junto das igrejas e sempre os quis perto de si.\n\nNuma publicação intitulada: L'Inhumation est sans danger (ver nota 4), o Dr. Sóveriu Icard, membro do Instituto de França, estudou as condições sanitárias dos cemitérios e chegou a conclusões absolutamente satisfatórias sob o ponto de visto de higiene. Na própria decomposição dos corpos - diz ele - existe uma autodesinfecção, devida à acção constante dos gases sulfurados e amoniacais que se desenvolvem, de poder eminentemente microbicida.\n\nQuerendo as autoridades públicas em França saber se os gases que se produzem na putrefacção dos cadáveres são deletérios, nomeou uma comissão para estudar o assunto, da qual fizeram parte pessoas notáveis - Brouardel, Carnot, Schutzemberger e Du Mesnil. A sua conclusão foi esta:\n\nProcedemos a numerosas experiências: os gases colhidos à superfície do solo nos cemitérios não são diferentes daqueles que colhemos noutros locais (ver nota 5).\n\nSchutzemberger escrevia, por seu turno:\n\nColhemos amostras em condições diferentes de temperaturas no ar, de 10º a 30º, tanto à superfície como na terra dos cemitérios, de 0,40 m a 0,80 m acima de campas antigas e campas recentes. Em caso algum o mais atento e minucioso exame revelou o menor vestígio de gases deletérios (ver nota 6).\n\nDu Mesnil (ver nota 7), citado por Icard, levou mais longe as experiências. Introduziu vários animais vivos - coelhos, galinhas, pombos e canários - numa fossa que fez abrir no cemitério de Montparnasse, em Paris, em contacto com sepulturas contendo cadáveres em período activo de decomposição, manteve-os ali durante meses numa atmosfera fétida e não notou a menor perturbação na sua saúde.\n\nL. Bertoglio, director dos cemitérios de Marselha, resume assim a questão:\n\nO seu único mal (da decomposição) é ter um aspecto imundo e cheirar mal (ver nota 8).\n\nE esse cheiro, como o prova a experiência de Schutzemberger, não atravessa alguns decímetros de terra que cubra os corpos, pois que a terra absorve os gases da putrefacção.\n\nPor outro lado, devido à concorrência vital entre os germes patogénicos e os não patogénicos, aqueles são destruídos.\n\nNão há, portanto, que temer nos cemitérios o desenvolvimento de gases prejudiciais ou incómodos para os vivos, nem a propagação das próprias moléstias que tenham causado as mortes, que com elas também se eliminam, não existindo desta forma motivos de ordem sanitária que imponham o seu afastamento. Só razões de ordem sentimental ou psicológica se podem invocar.\n\nPonderam-se essas razões, em virtude de possíveis reflexos de um público menos esclarecido, sobre quem a força do hábito tem acção conservadora, e julga-se que se deve deixar a resolução do assunto às autarquias interessadas, fixando-se apenas, para quando haja reclamações, que exista entre os edifícios destinados a habitação e os cemitérios uma faixa de separação de 10 m de largura, sem que, no entanto, se vede o aproveitamento de tal espaço para quaisquer fins.\n\n3. Vedação de cemitérios:\n\nPrescreve-se nas instruções de 1890 - alínea a) do artigo 18.º - que os cemitérios sejam resguardados por um muro de 2,20 m de altura, pelo menos, construído com a necessária solidez. Porque 2,20 m e não 2 m ou 2,50 m? Porque, parece, os dez palmos (=2,20 m) eram a altura tradicional.\n\nEsta obrigatoriedade julga-se que tinha em três fins: primeiro evitar que os miasmas pudessem sair dos cemitérios, arreigada como estava a convicção de que eles se deslocavam ao rés do solo, movidos pelos ventos; o segundo, evitar que certos animais e os homens neles penetrassem, para se cevarem nos corpos enterrados ou para roubar; terceiro, impedir que os animais danificassem o arranjo dos cemitérios.\n\nEstas ideias não têm consistência racional. Um muro, com 2,20 m de altura ou mais, não é obstáculo intransponível pelo homem, nem o é mesmo por certos animais, em determinadas circunstâncias; ele não opõe barreira contra coisas que não existem.\n\nMais: se certos animais carnívoros penetrarem num cemitério - e pensa-se logo em cães e lobos - eles não poderão atingir os corpos enterrados, à profundidade em que o estão, por virtude de não lho permitir a sua maneira de escavar. Restaria o dano provocado por outros animais, pastando, por exemplo, mas dessas depredações deve livrá-los o respeito geral que merecem os cemitérios, e medidas administrativas adequadas, tal como sucede com os jardins públicos, a propriedade alheia, etc.\n\nResulta, assim, que os muros dos cemitérios, cujo preço tanto pesa na sua construção, são pouco menos que inúteis. Por todo o Mundo há cemitérios abertos e o facto não representa nem menos respeito pelos mortos - haja em vista os chineses, que enterram os seus mortos nos seus próprios campos, sem qualquer defesa, e todos sabem o culto em que envolvem os antepassados - nem deve ter dado origem a atentados, porque senão não permaneceriam nessas condições.\n\nMas há, também neste caso, uma faceta sentimental a que se procurou atender. Costumes ancestrais habituaram as populações ao enterramento ou depósito dos corpos em recintos fechados. Primeiro, nas igrejas e nas cercas dos mosteiros; depois, nos espaços murados dos cemitérios públicos. De qualquer forma um recinto fechado, como que uma casa, mesmo sem tecto, em que se abriguem os mortos para o repouso inviolável do último sono. Ora esses sentimentos são respeitáveis e dignos de acatamento, embora não apoiados em razões sanitárias ou outras. Por isso se entendeu de manter a vedação dos cemitérios, sem, no entanto, se impor a construção de altos muros de alvenaria, por motivos de ordem económica.\n\n4. As águas e os cemitérios:\n\nO Prof. Ricardo Jorge já em 1884, nas suas conferências do Porto (ver nota 9), apresentou análises de águas que brotavam nos cemitérios do Prado do Repouso, da mesma cidade, e dos Prazeres, em Lisboa. Nelas se revelava potabilidade, ausência de amoníaco, nitratos e matéria orgânica, esta só acusada para as águas do Prado do Repouso na percentagem de 0,00787 g/l, quando o limite admissível pode subir a 0,04 g/l.\n\nO Dr. Arruda Furtado dava uma certa importância ao perigo de inquinação das águas das fontes e ribeiros existentes perto dos cemitérios, atribuindo mesmo a essa possibilidade e à natureza geológica dos solos onde se fazem os enterramentos, quase que exclusivamente, as consequências de ordem sanitária que podem provir dos cemitérios.\n\nEscrevia ele (ver nota 10):\n\nPode ocorrer, quando faltam em área acessível terrenos próprios e a água seja a condição prejudicial, a ideia de os drenar. A drenagem só deve consentir-se uma vez rigorosamente verificada a absoluta impossibilidade de ser utilizado, a distância aceitável, o local e o terreno que a dispense. Mas quando tenha de fazer-se será sempre por drenos subterrâneos, reduzidos em número, e nunca situados sob as sepulturas. (...) Mas não se esqueça nunca que para as águas de tais drenos exige a. salubridade os mesmos cuidados que para as águas residuais e de esgotos (p. 20).\n\nE, dando conselhos aos peritos chamados a intervir nas vistorias para a escolha de terrenos para cemitérios, acrescentava:\n\nE ainda antes de pròpriamente considerar a qualidade do terreno há que verificar se está ou não incluído em bacia de alimentação de águas potáveis, mineromedicinais ou de mesa, ou mesmo industriais, e muito especialmente na área de protecção ou concessão respectiva; e, ainda, se se inclui ou não em zona de reservas minerais (p. 25).\n\nReduz o higienista, é certo, estas prescrições às águas potáveis, dado que aceita (p. 24) que elas possam, servir para lavagens, mesmo se extraídas de poços abertos nos cemitérios, mas não deixa, como se viu, de condenar o uso indiscriminado de tais águas.\n\nSéverin Icard (ver nota 11), embora escrevendo três anos antes, mostra-se a este respeito muito menos reticente. Perguntado sobre se as águas das chuvas, infiltrando-se nos solos dos cemitérios e atingindo os corpos em decomposição, podem, quando ressurgem, corromper as águas das fontes e dos ribeiros, respondeu francamente que não. Cita, em apoio da sua opinião, as análises feitas por Carnot de amostras de água colhidas em vários cemitérios franceses, de regiões muito diferentes, e que nunca revelaram mais do que ténues vestígios de matéria orgânica. E cita Flech, director do Laboratório de Higiene de Dresde, que em 21 análises que fez de águas colhidas em cemitérios só encontrou nitratos, sulfatos e cloretos, produtos finais da oxidação da matéria orgânica, que não tem perniciosa acção sobre os seres vivos.\n\nO atrás citado L. Bertoglio é da mesma opinião (ver nota 12). Afirma que sempre achou inodora e de sabor agradável a água que se extrai de um poço existente no cemitério de S. Pedro, em Marselha, que os coveiros sempre a beberam sem qualquer inconveniente, e cita um relatório de M. Brun, presidente da Sociedade de Farmácia da Suíça, que analisou as águas dos cemitérios de Genebra.\n\nDesse relatório consta:\n\nEm consequência dos receios manifestados pelo Grande Conselho acerca da salubridade das águas dos cemitérios colhi amostras para efeito de análises. A temperatura tinha subido, desde há dias, e as águas subterrâneas circulavam normalmente no terreno (...):\n\na) A água colhida na bomba central do cemitério de Plain-Palais era límpida, inodora e boa para beber. Soube que, no Verão, as pessoas que ali vão para regar as flores das campas bebem muitas vezes daquela água. O poço onde se alimenta a bomba está cercado por sepulturas, antigas e modernas. A análise química e o exame microscópico não revelaram nenhuma substância prejudicial nem vestígios de esporos vegetais ou de fermentos;\n\nb) A água de uma outra bomba, perto do muro do cemitério e junto da sala de espera, era igualmente límpida e boa para beber. Os empregados do cemitério e as pessoas que moram próximo bebem dessa água, sem inconveniente, há muitos anos;\n\nc) No cemitério de Chatelaine colhi água da bomba que está no seu interior, água que provém de um dreno que passa sob os covais. Era límpida, sem cheiro e boa para beber. O exame químico e microscópico a que a submeti não revelou o menor vestígio de substâncias prejudiciais à saúde e, especialmente, nenhum vestígio de fermento orgânico, se bem que a água no cemitério pareça estagnada em alguns pontos;\n\nd) Na encosta do cemitério, em nível inferior, existe unia bomba a 30 passos da casa da entrada. Se as águas no cemitério circulam no sentido da inclinação do terreno devem caminhar para aquele ponto. O guarda do cemitério disse-me: «Há 26 anos que bebo exclusivamente desta água; nunca notei que ela fosse má e gozo de boa saúde».\n\nNão se vai, naturalmente, mesmo em face de conclusões tão categóricamente optimistas, aconselhar a captação das águas dos cemitérios para as distribuir pelas populações, finas também se não vão o considerar os cemitérios como causa especial de inquinações que obrigam a medidas excepcionais de defesa, além das aconselhadas para quaisquer outras águas que escorram superficialmente ou atravessem quaisquer outros terrenos a pequena profundidade.\n\n5. Um outro aspecto do problema dos cemitérios, este não sanitário nem administrativo, o financeiro, é muito de considerar.\n\nÉ deficiente a situação do País quanto a cemitérios. Há ainda muitas centenas de povoações que deles não dispõem, obrigando-se os seus habitantes a percorrer, às vezes sem meios de transporte, grandes distâncias para, enterrar os seus mortos. Ao facto se deve talvez atribuir a razão por que o Dr. Arruda Furtado encontrou, ainda em 1937, que em 13 ou talvez 34 aldeias de 95 lugares habitados de determinado concelho se praticavam inumações em igrejas ou adros (ver nota 13), embora proibidas há mais de 100 anos.\n\nA falta, de cemitérios, como, aliás, a de outras instalações de interesse público, deve atribuir-se principalmente à insuficiente capacidade financeira das câmaras e das juntas de freguesia. Assim, considerou-se que se deve reduzir ao mínimo indispensável a exigência de prescrições oficiais a respeito de tais obras, no intuito de as embaratecer e facilitar.\n\nEssa é uma das razões das presentes disposições.\n\n(nota 1) Equivalente a 130 varas (vara = 1,10 m).\n\n(nota 2) Higiene Social aplicada à Nação Portuguesa, Livraria Civilização, Parto, 1885.\n\n(nota 3) Sobre cemitérios, in publicações culturais da Câmara Municipal de Lisboa, 1941.\n\n(nota 4) L'Inhumation est sans danger, separata da Sud Médical et Chirurgical, Marselha, 1938.\n\n(nota 5) Op. cit.\n\n(nota 6) Cr. Icard, op. cit.\n\n(nota 7) Les nouveaux cimetières parisiens - Annales d'Hygiene, 1886.\n\n(nota 8) Les cimitières au point de vue de l'hygiene et de l'administration, Paris, 1889.\n\n(nota 9) Ricardo Jorge, op. cit.\n\n(nota 10) Arruda Furtado, op. cit.\n\n(nota 11) Cf. op. cit.\n\n(nota 12) L. Bertoglio, op. cit.\n\n(nota 13) Arruda Furtado, op. Cit.\n\nAssim:\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "1104080175": {
+   "fragment_id": "1104080075",
+   "type": 13,
+   "heading": "Normas para a construção e polícia de cemitérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Normas para a construção e polícia de cemitérios"
+  },
+  "1104079375": {
+   "fragment_id": "1104079275",
+   "type": 4,
+   "heading": "I) — Da escolha do terreno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## I) — Da escolha do terreno"
+  },
+  "1104103775": {
+   "fragment_id": "1104103675",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA escolha de terrenos para a instalação de cemitérios ou ampliação dos existentes deve ser precedida de vistoria, efectuada por uma comissão constituída pelo presidente da câmara municipal ou da junta de freguesia ou seu representante, pelo director dos serviços de urbanização do distrito ou técnico que o substitua e pelo subdelegado, delegado ou inspector de saúde."
+  },
+  "1104103975": {
+   "fragment_id": "1104103875",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNa escolha destes terrenos ter-se-ão em atenção os seguintes factores:\n\na) Ser a sua área suficiente para o movimento obituário das populações a servir;\n\nb) Terem, de preferência, a forma regular;\n\nc) Não ficarem excessivamente afastados das povoações;\n\nd) Terem fáceis acessos, existentes ou a construir, por trajectos que evitem as ruas de grande movimento e as estradas nacionais;\n\ne) Serem sensìvelmente planos ou com declive pouco acentuado;\n\nf) Ser o subsolo de natureza permeável em toda a área destinada a enterramentos, convindo os terrenos de natureza calcáreo-siliciosa, calcáreo-argilosa, sílico-argilosa e sílico-calcárea e devendo rejeitar-se os de natureza humosa, calcárea ou fortemente argilosa, salvo se forem corrigidos com areia, produtos calcáreos ou outros aconselháveis;\n\ng) Terem drenagem natural ou possibilidade de drenagem artificial simples;\n\nh) Serem fáceis de escavar, não apresentando rocha, blocos rochosos ou água, até à profundidade de 2 m.\n\n§ 1.º No caso de haver edifícios nas imediações dos terrenos escolhidos, e no caso de a construção do cemitério dar origem a reclamações, deverá deixar-se um intervalo de 10 m que estabeleça a separação, sem que, no entanto, se vede a utilização de tal espaço para quaisquer fins.\n\n§ 2.º No caso de haver nas imediações dos terrenos escolhidos fontes ou cursos de água que possam ser utilizados para abastecimento das populações observar-se-ão os condicionamentos aconselhados para tal fim."
+  },
+  "1104104175": {
+   "fragment_id": "1104104075",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nDa vistoria lavrar-se-á auto circunstanciado do qual constem, obrigatòriamente, a configuração geográfica, as dimensões, as confrontações, os acessos, a natureza e composição, a topografia e as condições de drenagem e de escavação até 2 m de profundidade do terreno vistoriado e, bem assim, a sua comparação com outros terrenos das redondezas que possam servir para os fins desejados.\n\nII) Da organização do processo"
+  },
+  "1104079575": {
+   "fragment_id": "1104079475",
+   "type": 4,
+   "heading": "II) — Da organização do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## II) — Da organização do processo"
+  },
+  "1104104375": {
+   "fragment_id": "1104104275",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSempre que as câmaras municipais ou as juntas de freguesia pretendam construir, ampliar ou remodelar um cemitério, com ou sem comparticipação do Estado, farão submeter o respectivo processo à apreciação da Direcção-Geral dos Serviços de Urbanização, que, por seu turno, o fará submeter à sanção do Conselho Superior de Higiene e Assistência Social, por intermédio da Direcção-Geral de Saúde.\n\n§ único. Os processos devem ser enviados em triplicado quando para as obras se pedir a comparticipação do Estado."
+  },
+  "1104104575": {
+   "fragment_id": "1104104475",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs processos organizados para a construção, ampliação ou remodelação de cemitérios incluirão sempre os seguintes elementos:\n\na) O auto de vistoria a que se refere o artigo 3.º;\n\nb) O projecto das obras a efectuar, elaborado por técnico legalmente habilitado;\n\nc) O parecer da Comissão Municipal de Higiene."
+  },
+  "1104104775": {
+   "fragment_id": "1104104675",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs projectos para a construção, ampliação ou remodelação de cemitérios incluirão as seguintes peças:\n\na) Memória descritiva e justificativa, indicando o esquema funcional do cemitério, de harmonia com o disposto nos artigos 7.º a 20.º\n\nb) Estimativa de custo;\n\nc) Planta de localização, em escala não inferior a 1/1000, compreendendo uma faixa de terreno envolvente, de largura não inferior a 100 m;\n\nd) Planta geral, em escala não inferior a 1/200, com indicação dos talhões, arruamentos, escadas ou rampas, tipos de sepulturas e vedação; se o cemitério os compreender, indicação, também, da posição dos jazigos, ossários, capela e outras construções e zonas verdes. No caso de se tratar de cemitérios de grandes centros populacionais a escala em que se desenhará a planta poderá ser de 1/500;\n\ne) Perfis ortogonais do terreno, em escala de comprimentos não inferior a 1/200 e de alturas não inferior a 1/50, com indicação da rasante e das cotas de trabalho. Também, no caso de se tratar de cemitérios de grandes centros populacionais, a escala de comprimentos dos perfis pode reduzir-se a 1/500;\n\nf) Alçado principal, incluindo o portão de entrada, em escala não inferior a 1/200;\n\ng) Perfis transversais - tipo dos arruamentos, na escala de 1/50.\n\n§ único. No caso de para a obra ser pedida a comparticipação do Estado devem também constar do projecto mais os seguintes elementos:\n\na) Mapa de medições, séries de preços e orçamento;\n\nb) Programa de concurso para realização da obra por empreitada e respectivo caderno de encargos;\n\nc) Pormenores do tipo de vedação e da entrada principal, em escalas não inferiores, respectivamente, a 1/100 e 1/50;\n\nd) Plantas e alçados dos edifícios previstos, na escala de 1/100;\n\ne) Planta parcelar das zonas a expropriar, em escala não inferior a 1/200 (ou 1/500 nos grandes cemitérios), com a relação dos nomes dos proprietários e as áreas das parcelas a expropriar a cada um e dos valores que se lhes atribui."
+  },
+  "1104104975": {
+   "fragment_id": "1104104875",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara calcular a área necessária para um cemitério atender-se-á:\n\na) À superfície necessária para as sepulturas temporárias;\n\nb) À superfície a reservar para as sepulturas perpétuas;\n\nc) Aos intervalos entre sepulturas e entre estas e os lados dos talhões onde se situam;\n\nd) Aos espaços a reservar para jazigos e ossários;\n\ne) Aos espaços destinados a zonas verdes, se o cemitério as comportar;\n\nf) Aos espaços destinados a arruamentos;\n\ng) Aos espaços destinados à capela, sala de autópsias, depósito civil, casa de lavagem de ossadas, instalações sanitárias, aposentos de administração e do guarda e a quaisquer outras construções se o cemitério, pela sua importância, as exigir."
+  },
+  "1104105175": {
+   "fragment_id": "1104105075",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA área da zona destinada a enterramentos será calculada em função do número de Habitantes das povoações a servir, previsto para o fim de um período de 50 anos a contar do ano em que se elabora o projecto, arredondado por excesso, e da mortalidade média nos últimos 5 anos. Para um cálculo expedito desta área poder-se-á contar com uma superfície de 2 m2 por cada sepultura e com o período legal de inumação de 5 anos.\n\n§ 1.º O cálculo do número de habitantes no fim de 50 anos deverá fazer-se por processo devidamente justificado, com base nos elementos fornecidos pelos censos populacionais. Pode adoptar-se, pela sua simplicidade e aproximação suficiente, a fórmula:\n\nP(índice a + 50) = P(índice 2)(1 + (P(índice 2) - P(índice 1)/P(índice 1)) (a + 50)/n\n\nna qual é:\n\nP(índice 1) - a população do penúltimo censo;\n\nP(índice 2) - a população do último censo;\n\nP(índice a + 50) - a população no fim de 50 anos, a partir daquele em que se elabora o projecto;\n\na - o número de anos decorridos desde o último censo até ao ano em que se elabora o projecto;\n\nn - o número de anos decorridos entre os dois últimos censos.\n\n§ 2.º As áreas a considerar para sepulturas perpétuas deverão ser justificadas e serão determinadas a partir de dados locais, tendo em atenção as percentagens destas em relação às sepulturas temporárias que se verificarem em cemitérios da região, da mesma categoria.\n\n§ 3.º A largura dos intervalos entre as sepulturas e entre estas e os lados dos talhões nunca poderá ser inferior a 0,40 m. Todavia, deverá cada sepultura ter um acesso com a largura mínima de 0,60 m."
+  },
+  "1104105375": {
+   "fragment_id": "1104105275",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs áreas destinadas a jazigos e ossários deverão ser fixadas e justificadas, tendo em atenção as condições locais."
+  },
+  "1104105575": {
+   "fragment_id": "1104105475",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs áreas destinadas a arruamentos deverão variar entre 30 e 50 por cento daquelas que foram atribuídas para sepulturas e jazigos."
+  },
+  "1104105775": {
+   "fragment_id": "1104105675",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs áreas destinadas a zonas verdes, quando o cemitério as comporte, não devem exceder, geralmente, 30 por cento das que forem atribuídas para sepulturas e jazigos."
+  },
+  "1104105975": {
+   "fragment_id": "1104105875",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs escavações a abrir para enterramentos de cadáveres terão, em planta, a forma rectangular e as seguintes dimensões mínimas:\n\nPara adultos:\n\nComprimento - 2 m.\n\nLargura - 0,65 m.\n\nProfundidade - 1,15 m.\n\nPara crianças:\n\nComprimento - 1 m.\n\nLargura - 0,55 m.\n\nProfundidade - 1 m."
+  },
+  "1104106175": {
+   "fragment_id": "1104106075",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs sepulturas agrupar-se-ão em talhões, com a forma tanto quanto possível rectangular e área para o máximo de 90 corpos, respeitados os intervalos que foram fixados no § 3.º do artigo 8.º\n\n§ 1.º Nos cemitérios dos grandes aglomerados urbanos os talhões de enterramento poderão comportar um máximo de 300 sepulturas.\n\n§ 2.º Quando os terrenos tiverem inclinação superior a 5 por cento os talhões serão dispostos em socalcos, com a largura mínima de 10 m e inclinações não superiores àquela percentagem. Os muros ou taludes que os limitam, de altura não superior a 2 m, devem ser devidamente protegidos contra a erosão."
+  },
+  "1104106375": {
+   "fragment_id": "1104106275",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs células dos jazigos municipais ou particulares terão as seguintes dimensões interiores mínimas:\n\nComprimento - 2 m.\n\nLargura - 0,75 m.\n\nAltura - 0,55 m.\n\n§ único. Nos jazigos não haverá mais do que cinco células sobrepostas, acima do nível do terreno, ou em cada pavimento, quando se trate de edifícios de vários andares a construir para esse fim; podem estas ser dispostas em subterrâneos, nas mesmas condições, e, nesse caso, serão prevenidos os inconvenientes das infiltrações de água e da falta de arejamento, devendo também assegurar-se-lhes fácil acesso e iluminação."
+  },
+  "1104106575": {
+   "fragment_id": "1104106475",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAs células dos ossários terão as seguintes dimensões mínimas interiores:\n\nComprimento - 0,80 m.\n\nLargura - 0,50 m.\n\nAltura - 0,40 m.\n\n§ único. Nos ossários não haverá mais do que sete células sobrepostas acima do nível do terreno, ou em cada pavimento, quando se trate de edifício de vários andares a construir para esse fim. É permitida a construção de ossários subterrâneos, nas mesmas condições, desde que se observem as prescrições impostas no § único do artigo 14.º"
+  },
+  "1104106775": {
+   "fragment_id": "1104106675",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs cemitérios deverão ser vedados, em toda a sua periferia, por muros, gradeamentos metálicos ou de outro material resistente, ou por sebes vivas de folhagem persistente, com altura entre 1,50 m e 2 m, podendo, em casos especiais, devidamente justificados, aceitar-se medida diferente. Esta altura refere-se ao paramento exterior do elemento de vedação."
+  },
+  "1104106975": {
+   "fragment_id": "1104106875",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA entrada principal dos cemitérios será provida de portão, com largura não inferior a 2,50 m, que enteste, para o exterior, com largo ou praceta com as dimensões suficientes para o estacionamento e manobra de veículos e para o movimento dos cortejos fúnebres, por forma a não impedir o trânsito geral e não perturbar as actividades das zonas circundantes."
+  },
+  "1104107175": {
+   "fragment_id": "1104107075",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs circulações dentro dos cemitérios far-se-ão por arruamentos, sempre que possível rectilíneos, dos quais os dois principais devem ter a largura mínima de 3 m e cruzar-se aproximadamente a meio do cemitério. Aos outros, servidos pelos primeiros, será dada largura compatível com o número de talhões que servem, mas nunca inferior a 2 m.\n\n§ único. Acompanhando interiormente o elemento de vedação, haverá um arruamento de largura não inferior a 1 m, que, no caso de Haver construções junto da vedação, as contornará por forma a que se não interrompa a sua continuidade."
+  },
+  "1104107375": {
+   "fragment_id": "1104107275",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs pavimentos dos arruamentos terão superfície regular, serão construídos com materiais resistentes ao trânsito e à erosão das águas pluviais e não deverão produzir poeiras nem lamas, nem permitir o desenvolvimento das plantas."
+  },
+  "1104107575": {
+   "fragment_id": "1104107475",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nDevem plantar-se, nos cemitérios, árvores, arbustos e espécies herbáceas, reservando as primeiras, de preferência, para as zonas mais afastadas das sepulturas.\n\nIII) Da polícia"
+  },
+  "1104079975": {
+   "fragment_id": "1104079875",
+   "type": 4,
+   "heading": "III) — Da polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## III) — Da polícia"
+  },
+  "1104107775": {
+   "fragment_id": "1104107675",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nNão é permitido fazerem-se enterramentos em vala comum."
+  },
+  "1104111075": {
+   "fragment_id": "1104107875",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "1964-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto n.º 45864 - Diário do Governo n.º 189/1964, Série I de 1964-08-12](https://diariodarepublica.pt/dr/detalhe/decreto/45864-1964-579932), em vigor a partir de 1964-08-17."
+   ],
+   "markdown": "###### Artigo 22.º\n\nSem prejuízo do disposto no § único do artigo 27.º, nas sepulturas temporárias é proibido o enterramento de caixões de chumbo, de zinco e de madeiras muito densas, difìcilmente deterioráveis ou nas quais tenham sido aplicadas tintas ou vernizes que demorem a sua destruição.\n\n> Alterado pelo/a Artigo único do/a [Decreto n.º 45864 - Diário do Governo n.º 189/1964, Série I de 1964-08-12](https://diariodarepublica.pt/dr/detalhe/decreto/45864-1964-579932), em vigor a partir de 1964-08-17."
+  },
+  "1104108175": {
+   "fragment_id": "1104108075",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nÉ proibida a abertura de sepulturas antes de decorrido o prazo legal de inumação de cinco anos após o enterramento, salvo no caso de mandado judicial.\n\n§ único. Exceptuam-se do disposto neste artigo, a abertura de sepultura perpétua para mais um enterramento, se o cadáver nela existente estiver encerrado em caixão de chumbo ou zinco e este enterrado abaixo da profundidade fixada no artigo 12.º"
+  },
+  "1104108375": {
+   "fragment_id": "1104108275",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nPassados os cinco anos do período legal de inumação podem abrir-se as sepulturas temporárias ou perpétuas para efeito de novo enterramento. As ossadas encontradas serão removidas ou enterradas no fundo do próprio coval, mas abaixo da profundidade fixada no artigo 12.º\n\n§ único. Se as partes moles do cadáver não estiverem consumidas, recobrir-se-á este imediatamente e manter-se-á inumado, por períodos sucessivos de cinco anos, até à sua consumpção completa, e não se poderá fazer novo enterramento senão depois de esta se verificas."
+  },
+  "1104108575": {
+   "fragment_id": "1104108475",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nNas sepulturas perpétuas, independentemente dos enterramentos que possam ter sido feitos nos termos do artigo 24.º, poderão fazer-se dois, em caixão de chumbo ou zinco, desde que se observem as seguintes condições:\n\na) Os enterramentos anteriores não terem sido feitos em caixão de chumbo ou zinco;\n\nb) O primeiro caixão de chumbo ou zinco só ser enterrado se as ossadas encontradas forem sepultadas abaixo da profundidade a que o mesmo caixão vai ser colocado, e nunca a menos da fixada no artigo 12.º;\n\nc) O segundo caixão de chumbo ou zinco só ser enterrado se o primeiro tiver ficado abaixo da profundidade fixada no artigo 12.º"
+  },
+  "1104108775": {
+   "fragment_id": "1104108675",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nÉ proibido depositar em jazigos corpos que não estejam encerrados em caixões de chumbo com a espessura mínima de 1,5 mm."
+  },
+  "1104111275": {
+   "fragment_id": "1104108875",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1964-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto n.º 45864 - Diário do Governo n.º 189/1964, Série I de 1964-08-12](https://diariodarepublica.pt/dr/detalhe/decreto/45864-1964-579932), em vigor a partir de 1964-08-17."
+   ],
+   "markdown": "###### Artigo 27.º\n\nÉ proibida a abertura de caixões de chumbo ou zinco, salvo no caso de mandado judicial.\n\n§ único. Exceptua-se do disposto neste artigo a abertura, ordenada pela autoridade sanitária competente, para efeito de inumação, em sepulturas temporárias, de cadáveres trasladados após o falecimento. Os caixões de chumbo utilizados em tais trasladações deverão ter sòmente a espessura de 1 mm.\n\n> Alterado pelo/a Artigo único do/a [Decreto n.º 45864 - Diário do Governo n.º 189/1964, Série I de 1964-08-12](https://diariodarepublica.pt/dr/detalhe/decreto/45864-1964-579932), em vigor a partir de 1964-08-17."
+  },
+  "1104109175": {
+   "fragment_id": "1104109075",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nQuando um caixão de chumbo, depositado em jazigo, apresente rotura ou deterioração que não possa ser convenientemente reparada será encerrado noutro caixão de chumbo ou removido para sepultura, podendo, neste último caso, fazer-se a exumação após o período legal de inumação.\n\n§ único. Só é de permitir a exumação das ossadas de um caixão de chumbo depositado em jazigo quando aquele se apresente de tal forma deteriorado que se possa verificar a consumpção das partes moles do cadáver. A verificação terá de ser feita obrigatòriamente pela autoridade sanitária local ou, quando o cemitério dispuser de serviço sanitário privativo, pelo médico que nele superintende."
+  },
+  "1104109375": {
+   "fragment_id": "1104109275",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nDevem as câmaras municipais e as juntas de freguesia, em prazo a fixar pelo Ministro do Interior, elaborar os seus regulamentos sobre a polícia dos cemitérios, discriminando os preceitos a observar quanto ao regime de serviço, à recepção de cadáveres, inumação em sepulturas temporárias, perpétuas e jazigos, depósito em ossários, transladações, concessões de terrenos para sepulturas perpétuas e jazigos particulares, construções funerárias, uso e fruição de sepulturas perpétuas e jazigos, destino das sepulturas perpétuas e jazigos abandonados, taxas, licenças e outras disposições julgadas convenientes."
+  },
+  "1104109575": {
+   "fragment_id": "1104109475",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nFicam revogadas as disposições contrárias e, em especial, as que se contêm nas instruções de 16 de Dezembro de 1890, artigo 3.º do Decreto n.º 13337, de 25 de Março de 1927, e a alínea 3.1 das instruções para a escolha dos terrenos destinados à edificação de escolas primárias, aprovadas pela Portaria n.º 15760, de 9 de Março de 1956."
+  },
+  "1104109775": {
+   "fragment_id": "1104109675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Publique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 3 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - Eduardo de Arantes e Oliveira - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  },
+  "1106842375": {
+   "fragment_id": "1104104275",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1971-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo Único do/a [Decreto n.º 463/71 - Diário do Governo n.º 257/1971, Série I de 1971-11-02](https://diariodarepublica.pt/dr/detalhe/decreto/463-1971-633695), em vigor a partir de 1971-11-07."
+   ],
+   "markdown": "###### Artigo 4.º\n\nSempre que as câmaras municipais ou as juntas de freguesia pretendam construir, ampliar ou remodelar um cemitério, com ou sem comparticipação do Estado, submeterão o respectivo processo à apreciação da Direcção-Geral dos Serviços de Urbanização, que, por seu turno, colherá parecer da Direcção-Geral de Saúde.\n\n> Alterado pelo/a Artigo Único do/a [Decreto n.º 463/71 - Diário do Governo n.º 257/1971, Série I de 1971-11-02](https://diariodarepublica.pt/dr/detalhe/decreto/463-1971-633695), em vigor a partir de 1971-11-07."
+  },
+  "1106860375": {
+   "fragment_id": "1104108875",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1976-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 857/76 - Diário da República n.º 295/1976, Série I de 1976-12-20](https://diariodarepublica.pt/dr/detalhe/decreto/857-1976-407714), em vigor a partir de 1976-12-21.",
+    "Alterado pelo/a Artigo único do/a [Decreto n.º 45864 - Diário do Governo n.º 189/1964, Série I de 1964-08-12](https://diariodarepublica.pt/dr/detalhe/decreto/45864-1964-579932), em vigor a partir de 1964-08-17."
+   ],
+   "markdown": "###### Artigo 27.º\n\nÉ proibida a abertura de caixões de chumbo ou zinco, salvo no caso de mandado judicial.\n\n§ único. Exceptua-se do disposto neste artigo a abertura, ordenada pela autoridade sanitária competente, para efeitos de inumação na terra de cadáveres trasladados após o falecimento. Se em tais trasladações forem usados caixões de chumbo, a espessura deste poderá ser somente de 1 mm.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 857/76 - Diário da República n.º 295/1976, Série I de 1976-12-20](https://diariodarepublica.pt/dr/detalhe/decreto/857-1976-407714), em vigor a partir de 1976-12-21.\n\n> Alterado pelo/a Artigo único do/a [Decreto n.º 45864 - Diário do Governo n.º 189/1964, Série I de 1964-08-12](https://diariodarepublica.pt/dr/detalhe/decreto/45864-1964-579932), em vigor a partir de 1964-08-17."
+  },
+  "1108671275": {
+   "fragment_id": "1104103675",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2006-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 168/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2006-538823), em vigor a partir de 2006-08-17."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A escolha de terrenos para a instalação de cemitérios ou ampliação dos existentes deve ser precedida de vistoria, efectuada por uma comissão constituída pelo presidente da câmara municipal ou da junta de freguesia ou seu representante, pelo director dos serviços de urbanização do distrito ou técnico que o substitua e pelo subdelegado, delegado ou inspector de saúde.\n\n2 - Se os terrenos para localização do cemitério se situarem em área que, nos termos de plano de urbanização ou plano de pormenor em vigor, esteja expressamente afecta ao uso proposto, é dispensada a realização da vistoria referida no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 168/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2006-538823), em vigor a partir de 2006-08-17."
+  },
+  "1108671475": {
+   "fragment_id": "1104104275",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2006-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 168/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2006-538823), em vigor a partir de 2006-08-17.",
+    "Alterado pelo/a Artigo Único do/a [Decreto n.º 463/71 - Diário do Governo n.º 257/1971, Série I de 1971-11-02](https://diariodarepublica.pt/dr/detalhe/decreto/463-1971-633695), em vigor a partir de 1971-11-07."
+   ],
+   "markdown": "###### Artigo 4.º\n\nAs câmaras municipais ou as juntas de freguesia que pretendam construir, ampliar ou remodelar um cemitério, com ou sem participação do Estado, submetem o respectivo processo à apreciação da Direcção-Geral da Saúde para emissão de parecer.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 168/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2006-538823), em vigor a partir de 2006-08-17.\n\n> Alterado pelo/a Artigo Único do/a [Decreto n.º 463/71 - Diário do Governo n.º 257/1971, Série I de 1971-11-02](https://diariodarepublica.pt/dr/detalhe/decreto/463-1971-633695), em vigor a partir de 1971-11-07."
+  }
+ }
+}

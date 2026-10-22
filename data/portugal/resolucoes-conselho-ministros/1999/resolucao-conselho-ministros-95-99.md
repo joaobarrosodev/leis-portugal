@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:428857:por
+title: Resolução do Conselho de Ministros n.º 95/99
+short_title: null
+summary: Determina a disponibilização na Internet de informação detida pela Administração Pública
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 95/99
+official_date: null
+publication_date: '1999-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 198/1999, Série I-B de 1999-08-25
+  number: '198'
+  series: I
+  supplement: null
+  pages: 5763 - 5764
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/198b00/57635764.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/95/1999/08/25/p/dre/pt/html
+  oj: null
+  dre: '428857'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/95-1999-428857
+  internal: pt:dre:428857:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/95-1999-428857
+  metadata_url: https://data.dre.pt/eli/resolconsmin/95/1999/08/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/95-1999-428857
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-08-25T00:00:00Z'
+integrity:
+  source_sha256: 979498463bba12c6407b239ce74b8c40a2ef4ab959ce34b10014b81d3b310786
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-95-428857.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Agente Económico
+- Empresa
+- Modernização Administrativa
+- Tecnologia da Informação
+- Ministro da Ciência e da Tecnologia
+- Correio Electrónico
+- Definição de Competências
+- Documentação Administrativa
+- Equipamento Eletrónico
+- Administração Pública
+- Informação
+- Sociedade da Informação
+- Instituto Público
+- Interesse Público
+- Documento Eletrónico
+- Direcção Geral da Administração Pública
+- Organismo do Estado
+- Internet
+- Prazo
+- Propriedade Intelectual
+- Setor Público
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 95/99
+
+Um dos eixos principais da Iniciativa Nacional para a Sociedade da Informação, claramente expresso no Livro Verde para a Sociedade da Informação, é aquilo que se definiu como o Estado aberto.
+
+O objectivo, essencial em qualquer sociedade democrática, de aproximar o Estado aos cidadãos e às instituições ganha com as novas tecnologias da informação e das comunicações, alargadas perspectivas de concretização. Estes novos instrumentos vêm, de facto, permitir uma modificação nas formas tradicionais de comunicação entre a Administração e os administrados, bem como nos métodos de consulta da informação por ela detida.
+
+Neste campo, o Governo legislou já no sentido de os organismos públicos se dotarem obrigatoriamente de um endereço de correio electrónico para efeitos de contacto por parte dos cidadãos e de entidades públicas e privadas, tendo-se, igualmente, determinado que à correspondência trocada por via electrónica deve ser atribuído o mesmo valor e tratamento do que à trocada em suporte papel.
+
+Outro dos objectivos primordiais na actuação governativa em matéria de sociedade da informação é o de promover a multiplicação e diversificação de conteúdos nacionais na Internet, dessa forma se contribuindo não só para o desenvolvimento de uma indústria nacional de conteúdos, como para um acesso facilitado dos cidadãos, das empresas e de outras instituições à informação.
+
+Importa, neste âmbito, legislar sobre a disponibilização, em suporte digital, de informação detida ou produzida pela Administração, por forma que coexista, com a possibilidade de acesso pelas vias tradicionais, o acesso por via electrónica. Haverá, inclusivamente, muita informação cuja disponibilização em suporte electrónico torna dispensável o recurso a outros meios de divulgação.
+
+São óbvias as vantagens de uma actuação consistente dos serviços e organismos da Administração no sentido acima referido. Desde logo, vantagens para a própria Administração, uma vez que ela contribuirá para um aumento da sua eficácia e produtividade e para uma redução de custos. Depois, vantagens para os cidadãos, traduzidas na maior facilidade de acesso à informação, de forma rápida e não burocratizada. Vantagens também para os agentes económicos, que actuam num campo em que o acesso rápido e fácil à informação é, muitas vezes, condição essencial à tomada de decisões.
+
+A disponibilização da informação em suporte digital não se traduz numa mera adição de mais uma possibilidade de acesso que acresce às existentes. De facto, a digitalização é susceptível de introduzir um claro valor acrescentado, não só na forma, significativamente facilitada, de lhe aceder, mas também nas possibilidades de exploração e cruzamento de informação proveniente de diversas origens.
+
+Assim, o presente diploma torna obrigatório para as direcções-gerais e serviços equiparados, bem como para os institutos públicos, a disponibilização em formato digital na Internet de toda a informação que seja objecto de publicação em papel.
+
+Por outro lado, estabelece-se a obrigatoriedade de elaboração, pelos referidos organismos, de planos calendarizados de disponibilização de outros conteúdos de interesse público na Internet, sem prejuízo da imediata facultação neste suporte de outra informação não abrangida pela obrigação atrás referida.
+
+As medidas consagradas neste diploma, para além de tecnicamente não apresentarem dificuldades de concretização, uma vez que a informação a colocar na Internet já existe, na grande maioria dos casos, em suporte digital, contribuirão ainda para uma redução de custos, designadamente os decorrentes da eliminação ou redução significativa do uso de papel em muitas situações, da consequente desnecessidade de arquivo sob forma tradicional ou da atenuação das despesas com portes de correio.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1.1 - As direcções-gerais e serviços equiparados, bem como os institutos públicos nas suas diversas modalidades, deverão disponibilizar ao público, em formato digital na Internet, as respectivas publicações, tenham ou não carácter periódico, os formulários que utilizem e ainda, genericamente, toda a informação que produzam e que seja objecto de publicação.
+
+1.2 - A regra referida no ponto anterior aplica-se às publicações e informações publicadas após a entrada em vigor do presente diploma, bem como aos formulários em uso após essa data.
+
+1.3 - A disponibilização a que se refere o ponto 1.1 pode ser feita a título gratuito ou oneroso.
+
+1.4 - A divulgação na Internet feita de acordo com o estabelecido no presente diploma far-se-á com respeito pelos direitos de propriedade intelectual.
+
+2 - Os organismos referidos no número anterior deverão ainda elaborar planos calendarizados de disponibilização de outros conteúdos de interesse público na Internet, que poderão abranger não apenas textos, mas também imagens e sons, devendo submetê-los à respectiva tutela.
+
+3.1 - As modalidades de aplicação do disposto no n.º 1 poderão ser objecto de concretização e faseamento pela tutela dos organismos nele referidos, devendo, em todo o caso, ser dada prioridade à divulgação da informação de maior interesse público.
+
+3.2 - As modalidades referidas no ponto anterior poderão excepcionar justificadamente a publicação na Internet de determinadas obras ou grupos de obras.
+
+4.1 - Toda a informação disponibilizada na Internet pelas entidades referidas no n.º 1 deverá ser apresentada de forma clara e de molde a ser facilmente acedida e consultada devendo, nomeadamente, ser implementados mecanismos de pesquisa de fácil utilização.
+
+4.2 - Na disponibilização da informação a que se refere o ponto anterior deverão ser levadas em linha de conta as exigências específicas dos cidadãos com necessidades especiais, por forma que lhes seja garantido o acesso efectivo à informação facultada em suporte digital na Internet.
+
+5.1 - Toda a informação disponibilizada na Internet pelas entidades referidas no n.º 1 pode ser livremente utilizada pelo público que a ela acede, desde que se faça menção da respectiva fonte.
+
+5.2 - Exceptua-se do disposto no ponto anterior a informação que, por força de instrumento juridicamente vinculativo, não possa ser livremente utilizada, devendo, nesse caso, disso fazer-se menção expressa.
+
+6 - O Ministro responsável pela Administração Pública dinamizará o processo de concretização do disposto no presente diploma, sensibilizando nesse sentido os serviços e organismos por este abrangidos e acompanhará a aplicação do mesmo, devendo propor a adopção de medidas complementares que esse acompanhamento recomende.
+
+7 - O Ministro da Ciência e da Tecnologia promoverá o acompanhamento e avaliação da execução do presente diploma, informando regularmente o Governo sobre a sua aplicação.
+
+8 - Os organismos abrangidos pelo presente diploma deverão reportar às respectivas tutelas, no prazo máximo de seis meses, as medidas tomadas no sentido de dar cumprimento ao estabelecido no presente diploma.
+
+Presidência do Conselho de Ministros, 29 de Julho de 1999. - O Primeiro-Ministro, em exercício, Jaime José de Matos da Gama.

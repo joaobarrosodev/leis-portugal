@@ -1,0 +1,187 @@
+---
+schema_version: '1.0'
+id: pt:dre:599894:por
+title: Portaria n.º 878/94
+short_title: null
+summary: Altera o quadro de pessoal do Hospital Distrital do Barreiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Saúde
+proposing_entity: null
+official_number: 878/94
+official_date: null
+publication_date: '1994-09-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 227/1994, Série I-B de 1994-09-30
+  number: '227'
+  series: I
+  supplement: null
+  pages: 6027 - 6033
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/09/227b00/60276033.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/878/1994/09/30/p/dre/pt/html
+  oj: null
+  dre: '599894'
+  dre_path: /dr/detalhe/portaria/878-1994-599894
+  internal: pt:dre:599894:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/878-1994-599894
+  metadata_url: https://data.dre.pt/eli/port/878/1994/09/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/878-1994-599894
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-11-24T00:00:00Z'
+integrity:
+  source_sha256: 46175dc7f84962fe5b345cb73d967ad20dcbcd2feebb9e28ef6a05f638c35131
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-878-599894.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Diretor de Serviços
+- Descrição de Funções
+relationships:
+- type: amended_by
+  target: pt:dre:216317:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/225/1993/02/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/225/1993/02/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/358/1992/04/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/358/1992/04/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/422/1992/05/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/422/1992/05/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/458/1993/04/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/458/1993/04/30/p/dre
+article_structure:
+  article_count: 0
+  section_count: 10
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 878/94
+
+de 30 de Setembro
+
+O quadro de pessoal do Hospital Distrital do Barreiro encontra-se desajustado face às crescentes solicitações com que actualmente se confrontam os serviços.
+
+De facto, a evolução do movimento assistencial, associada à introdução de inovações tecnológicas em diversas áreas de actuação do Hospital, tornaram imperativo dotá-lo com os recursos humanos indispensáveis à prossecução de uma gestão eficaz, bem como à manutenção dos padrões de qualidade alcançados ao nível da prestação de cuidados.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, conjugado com o artigo 10.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968, com a redacção que lhe foi dada pelo [Decreto Regulamentar n.º 52/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1984-382273), de 6 de Agosto:
+
+Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
+
+1.º O quadro de pessoal do Hospital Distrital do Barreiro, aprovado pela [Portaria n.º 702/89](https://diariodarepublica.pt/dr/detalhe/portaria/702-1989-619280), de 18 de Agosto, posteriormente alterado pelas Portarias n.os [113/90](https://diariodarepublica.pt/dr/detalhe/portaria/113-1990-334637), de 12 de Fevereiro, [358/92](https://diariodarepublica.pt/dr/detalhe/portaria/358-1992-217713), de 22 de Abril, [422/92](https://diariodarepublica.pt/dr/detalhe/portaria/422-1992-523639), de 22 de Maio, [225/93](https://diariodarepublica.pt/dr/detalhe/portaria/225-1993-657642), de 25 de Fevereiro, e [458/93](https://diariodarepublica.pt/dr/detalhe/portaria/458-1993-300060), de 30 de Abril, é substituído pelo anexo I à presente portaria, de que faz parte integrante.
+
+2.º Os lugares de director de serviços, de chefe de divisão, de chefe de repartição e de chefe de secção constantes do anexo referido no número anterior correspondem às unidades orgânicas de natureza técnica e administrativa, departamentalizadas de acordo com o indicado no anexo II.
+
+3.º O conteúdo funcional correspondente à área funcional de electromedicina e electrónica e à carreira de secretária-recepcionista, do pessoal técnico-profissional de nível 3, é o constante do anexo III à presente portaria.
+
+Ministérios das Finanças e da Saúde.
+
+**Assinada em 13 de Setembro de 1994.**
+
+Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
+
+## ANEXO I — Quadro de pessoal do Hospital Distrital do Barreiro
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/227b00/60276033.pdf))](https://files.diariodarepublica.pt/1s/1994/09/227b00/60276033.pdf)
+
+## ANEXO II
+
+Unidades orgânicas de natureza técnica:
+
+Direcção de Serviços Financeiros;
+
+Direcção de Serviços Farmacêuticos;
+
+##### Divisão de Instalações e Equipamento.
+
+Unidades orgânicas de natureza administrativa:
+
+Repartição de Pessoal:
+
+#### Secção de Gestão de Pessoal;
+
+#### Secção de Expediente Geral e Arquivo;
+
+#### Secção de Registos e Abonos;
+
+Repartição de Contabilidade:
+
+#### Secção de Contabilidade Geral;
+
+#### Secção de Contabilidade Analítica;
+
+Repartição de Admissão de Doentes:
+
+#### Secção de Admissão de Doentes;
+
+#### Secção de Arquivo Clínico e Estatística;
+
+Repartição de Aprovisionamento:
+
+#### Secção de Gestão de Stocks;
+
+#### Secção de Aquisições e Armazéns.
+
+## ANEXO III — Grupo de pessoal técnico-profissional de nível 3
+
+Área funcional de electromedicina e electrónica
+
+Conteúdo funcional: tarefas de manutenção e reparação de equipamento electrónico, nomeadamente o utilizado em electromedicina.
+
+Carreira de secretária-recepcionista
+
+Conteúdo funcional:
+
+Funções de natureza executiva de apoio ao órgão de direcção e apoio técnico, enquadradas em instruções gerais e procedimentos definidos, relativos às áreas de atendimento, encaminhamento, informação, expediente, arquivo e dactilografia;
+
+Atendimento de doentes, organização e actualização de ficheiros; requisição de material destinado aos serviços; ligação com os restantes serviços administrativos e técnicos do Hospital;
+
+Tratamento dos registos diários de entrada, transferência e alta de doentes; requisição e marcação de exames clínicos e outros actos médicos; arquivo dos mesmos nos respectivos processos clínicos.

@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:452964:por
+title: Decreto Legislativo Regional n.º 4/83/M
+short_title: null
+summary: Integra os funcionários da Previdência no regime da Função Pública
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Regional
+proposing_entity: null
+official_number: 4/83/M
+official_date: null
+publication_date: '1983-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/1983, Série I de 1983-07-05
+  number: '152'
+  series: I
+  supplement: null
+  pages: 2438 - 2440
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15200/24382440.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '452964'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/4-1983-452964
+  internal: pt:dre:452964:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1983-452964
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1983-452964
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-07-05T00:00:00Z'
+integrity:
+  source_sha256: d089013cfccaca0cd2ade05d4901b9595c901fad2003eaede675f02b4fc866e5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1983/DRE-1983-4-452964.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 4/83/M
+
+Integração dos funcionários da Previdência no regime da função pública
+
+Com a publicação da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, a regulamentação do trabalho aplicável aos funcionários das instituições de previdência social tem vindo a ser progressivamente aproximada à do regime jurídico da função pública.
+
+Na verdade, gerindo agora o também sector da segurança social fins próprios do Estado, não fazia sentido que, perante este novo quadro institucional, os seus funcionários continuassem a identificar-se com a regulamentação de trabalho aplicável ao sector privado.
+
+Nesta sequência, e tendo por objectivo minimizar os efeitos gravosos que resultaram das diferenças de estatuto e de regime jurídico do pessoal que passou a integrar o sector da segurança social na Região Autónoma da Madeira, desenvolveu-se, com efeitos a partir de 1 de Janeiro de 1979, um primeiro processo de ope legis dos funcionários que na Região se encontravam abrangidos pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, para o regime da função pública.
+
+Todavia, porque continuam ainda muitos funcionários provenientes dos quadros das ex-instituições de previdência por adquirir o regime de funcionários e agentes da administração, torna-se conveniente mandar aplicar a esta Região, com as adaptações que se impõem, o [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho, com vista a garantir-se uma eficiente gestão dos recursos humanos, sem prejuízo dos direitos adquiridos, particularmente no que respeita às categorias profissionais e condições de acesso.
+
+Assim, a Assembleia Regional da Madeira decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Regime jurídico aplicável)
+
+1 - O pessoal da Direcção Regional da Segurança Social oriundo da ex-Caixa de Previdência e Abono de Família e demais instituições de previdência de inscrição obrigatória fica abrangido pelo regime jurídico dos funcionários e agentes da administração pública.
+
+2 - Exceptuam-se do disposto no número anterior os agentes que expressamente declarem que desejam manter o seu regime de trabalho.
+
+3 - A declaração, dirigida ao director regional da Segurança Social, deve ser entregue no serviço de pessoal da Direcção Regional da Segurança Social no prazo de 90 dias contados a partir da entrada em vigor do presente diploma.
+
+4 - Se à data da entrada em vigor algum agente se encontrar na situação de licença sem vencimento ou de impedimento prolongado ou equiparado, o prazo referido no número anterior conta-se a partir do momento em que reinicie funções.
+
+###### Artigo 2.º — (Aplicação ao pessoal sujeito ao regime da função pública desde 1 de Janeiro de 1979)
+
+Ao pessoal da Direcção Regional da Segurança Social oriundo da ex-Caixa de Previdência e Abono de Família e demais instituições de previdência social de inscrição obrigatória sujeito ao regime da função pública desde 1 de Janeiro de 1979 é aplicado o disposto nos artigos 6.º e 10.º do presente diploma, com efeitos a partir daquela data.
+
+###### Artigo 3.º — (Actuação «ope legis»)
+
+1 - A alteração do regime jurídico prevista no artigo 1.º opera-se independentemente de qualquer formalidade ou requisito fixado na lei para o ingresso na função pública, nomeadamente o visto do Tribunal de Contas, a publicação no jornal Oficial e a posse.
+
+2 - A Secretaria Regional dos Assuntos Sociais fará publicar no Jornal Oficial, no prazo máximo de 90 dias, a contar do fim do prazo referido no artigo 1.º, n.º 3, a relação nominal dos trabalhadores abrangidos pelo disposto no artigo referido no número anterior.
+
+###### Artigo 4.º — (Manutenção de direitos)
+
+1 - Ao pessoal abrangido pela alteração do regime de trabalho previsto no artigo 1.º deste diploma é assegurado o direito à inserção numa das carreiras profissionais em vigor na função pública, nos termos do artigo 7.º, e à contagem, para todos os efeitos legais, incluindo a aposentação, do tempo de serviço prestado nas instituições referidas no n.º 1 do artigo 1.º
+
+2 - Ao pessoal integrado, numa das carreiras da função pública nos termos do número anterior é assegurado o direito à progressão na respectiva carreira, independentemente dos requisitos habilitacionais.
+
+3 - Exceptua-se do disposto no número anterior o acesso às categorias de primeiro-oficial e de assessor, cujo recrutamento se fará, respectivamente, nos termos do artigo 11.º e do n.º 2 do artigo 8.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, conjugado com o [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866) e legislação complementar.
+
+4 - O tempo de serviço que cada agente tiver na categoria e carreira à data da integração no regime jurídico do pessoal da função pública será igualmente considerado, nos termos referidos no artigo antecedente, como efectivamente prestado na categoria e carreira para que transitar, de acordo com o artigo 7.º
+
+###### Artigo 5.º — (Remunerações)
+
+1 - Sem prejuízo do disposto nos números seguintes, é aplicável ao pessoal referido no artigo anterior da tabela salarial em vigor na função pública.
+
+2 - A nenhum agente poderá ser atribuída remuneração líquida inferior à auferida à data da entrada em vigor do presente diploma.
+
+3 - Sempre que, por força do número anterior, o vencimento a atribuir seja superior ao vencimento líquido correspondente à respectiva letra da tabela salarial da função pública, a diferença será absorvida por futuros aumentos ou promoções.
+
+###### Artigo 6.º — (Aposentação e pensão de sobrevivência)
+
+1 - O pessoal sujeito, nos termos do presente diploma, ao regime jurídico da função pública fica abrangido pelos Estatutos da Aposentação e da Pensão de Sobrevivência.
+
+2 - O Instituto de Gestão Financeira da Segurança Social assumirá a responsabilidade pelo encargo com a parcela da aposentação e da pensão de sobrevivência resultante da consideração do tempo de serviço prestado nas instituições de previdência, bem como das diuturnidades que do mesmo resultam.
+
+3 - O regime decorrente do disposto no [Decreto Regulamentar n.º 30/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1980-472125), de 25 de Julho, à excepção do seu artigo 8.º, é aplicável às aposentações e pensões de sobrevivência previstas neste artigo.
+
+###### Artigo 7.º — (Reclassificação de pessoal)
+
+1 - O pessoal sujeito ao regime da função pública nos termos do artigo 1.º do presente diploma é reclassificado de acordo com as disposições constantes no [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, conjugado com o Decreto-Lei n.º 191/C/79, de 25 de Junho, e legislação complementar, com excepção da categoria de ecónomo, cuja reclassificação é efectuada ao abrigo do [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho.
+
+2 - A antiguidade na categoria dos funcionários reclassificados nos termos do número anterior deverá ser contada a partir da data em que se tenham verificado as condições de promoção ou equiparação dos interessados, mas em nenhum caso antes de 1 de Janeiro de 1979.
+
+###### Artigo 8.º — (Provimento de categorias)
+
+As condições de ingresso e acesso às categorias sem correspondência com as da função pública serão estabelecidas por diploma do Governo Regional.
+
+###### Artigo 9.º — (Benefícios transitórios)
+
+1 - Ao pessoal que à data do início da vigência do presente diploma se encontre a beneficiar de algumas das regalias previstas nos artigos 132.º e 135.º, no n.º 6 do artigo 136.º e no n.º 2 do artigo 173.º da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, será assegurada a sua manutenção enquanto se mantiver a situação de facto que lhe serviu de fundamento, sem prejuízo do disposto no número seguinte.
+
+2 - As facilidades concedidas aos trabalhadores-estudantes nos termos do artigo 135.º do diploma referido no número anterior cessarão no fim do corrente ano lectivo, passando a aplicar-se a [Lei n.º 26/81](https://diariodarepublica.pt/dr/detalhe/lei/26-1981-575910), de 21 de Agosto.
+
+###### Artigo 10.º — (Acumulações)
+
+Sem prejuízo dos limites fixados por lei, o pessoal aposentado pela Caixa Geral de Aposentações mantém o direito à acumulação da pensão com a remuneração por inteiro correspondente à sua categoria e regime de prestação de trabalho.
+
+###### Artigo 11.º — (Quadros de pessoal privativo)
+
+1 - Os trabalhadores que optarem pela manutenção do respectivo regime de trabalho constarão de um quadro de pessoal privativo.
+
+2 - Os lugares do quadro referido no número anterior extinguir-se-ão à medida que vagarem, se neles não puderem ser providos, por falta de habilitações académicas, trabalhadores da mesma ou de outra instituição abrangidos pelo mesmo regime de trabalho.
+
+###### Artigo 12.º — (Entrada em vigor)
+
+O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação, mas as cláusulas de natureza pecuniária produzirão efeitos a partir de 1 de Janeiro de 1983.
+
+Aprovado em sessão plenária em 10 de Maio de 1983.
+
+**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+
+**Assinado em 25 de Maio de 1983.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**

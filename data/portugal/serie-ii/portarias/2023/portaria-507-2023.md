@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:222107293:por
+title: Portaria n.º 507/2023
+short_title: null
+summary: Fixa a forma de aplicação dos resultados líquidos do exercício de 2021 da Autoridade Nacional de Comunicações
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Infraestruturas - Gabinetes dos Ministros das Finanças e das Infraestruturas
+proposing_entity: null
+official_number: 507/2023
+official_date: null
+publication_date: '2023-09-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 188/2023, Série II de 2023-09-27
+  number: '188'
+  series: II
+  supplement: null
+  pages: 55 - 57
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/09/188000000/0005500057.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '222107293'
+  dre_path: /dr/detalhe/portaria/507-2023-222107293
+  internal: pt:dre:222107293:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/507-2023-222107293
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/507-2023-222107293
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-09-27T00:00:00Z'
+integrity:
+  source_sha256: 8b9a9743866e63d0513855dc366e81223c7620da50b96062fa76ae9c415a17d8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-507-222107293.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 507/2023
+
+Considerando o disposto nos Estatutos da Autoridade Nacional de Comunicações (ANACOM), aprovados pelo [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), de 16 de março, na parte aplicável, bem como os respetivos resultados líquidos, respeitantes ao exercício de 2021, no montante de (euro) 32 531 405,40;
+
+Tendo em consideração que o montante de (euro) 17 480 909,17 representa o aumento das taxas de utilização de frequências decorrente do estabelecido na [Portaria n.º 378-D/2013](https://diariodarepublica.pt/dr/detalhe/portaria/378-d-2013-164422), de 31 de dezembro, e na [Portaria n.º 157/2017](https://diariodarepublica.pt/dr/detalhe/portaria/157-2017-106982549), de 10 de maio, e constitui receita do Estado, uma vez que o aumento dessas taxas foi determinado com essa finalidade;
+
+Considerando que os juros de aplicações financeiras efetuadas na Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. (IGCP), constituem receita da ANACOM, no montante de (euro) 5250;
+
+Mantendo-se o papel da ANACOM no que respeita à participação de Portugal na Agência Espacial Europeia (ESA), assumindo a representação nacional do Estado nos Comités da ESA, de Gestão de Programas de Telecomunicações (programas «ARTES»);
+
+Considerando que, em conformidade com os instrumentos jurídicos aplicáveis à ESA, designadamente a Convenção de Adesão dos Vários Estados-Membros, subscrita pelo Estado Português em 2001, a faturação dos montantes em causa é reportada ao ano económico a que se refere a subscrição assumida pelo Estado-Membro, de acordo com a evolução do Índice Harmonizado de Preços ao Consumidor da Zona Euro (HICP), aplicável à natureza das atividades em causa;
+
+Considerando os montantes a transferir para a Agência Espacial Portuguesa, nos termos do disposto no n.º 2 e no anexo da [Resolução do Conselho de Ministros n.º 80/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2023-215647925), de 14 de julho;
+
+Atento o disposto nos n.os 1 e 3 do artigo 12.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, na sua redação atual, que determina a transferência anual para o Instituto do Cinema e do Audiovisual, I. P. (ICA), do valor equivalente a 75 % do montante total devido pelos operadores de serviços de televisão por subscrição, por conta do resultado líquido da ANACOM a reverter para o Estado, devendo o montante exato ser fixado por portaria;
+
+Considerando que, relativamente ao ano de 2022, nos termos do n.º 2 do artigo 12.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, na sua redação atual, o montante a transferir para o ICA corresponde a 75 % do montante total das taxas devidas, nesse ano, pelos operadores de serviços de televisão por subscrição, nos termos do n.º 1 do citado diploma, multiplicado por um fator de atualização equivalente à variação acumulada do índice de preços no consumidor relativamente a 2020, apurado pelo Instituto Nacional de Estatística, I. P.;
+
+Tendo em conta que importa fixar o valor a transferir para a Entidade Reguladora para a Comunicação Social (ERC);
+
+Tendo em conta que importa fixar o valor a transferir para o Museu Zer0;
+
+Face à proposta de aplicação de resultados constante do relatório e contas da ANACOM respeitante ao exercício de 2021, bem como à necessidade de manter no balanço da ANACOM os recursos financeiros adequados ao cumprimento das suas obrigações atuais e futuras;
+
+Assim, tendo em conta o disposto no n.º 5 do artigo 38.º e no n.º 4 do artigo 45.º da Lei-Quadro das Entidades Reguladoras, aprovada pela [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual, e ao abrigo do disposto no n.º 4 do artigo 35.º e no n.º 1 do artigo 48.º, ambos dos Estatutos da ANACOM, aprovados pelo [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), de 16 de março, do disposto no n.º 3 do artigo 12.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, na sua redação atual, do disposto no artigo 2.º do [Decreto-Lei n.º 103/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2006-345541), de 7 de junho, na sua redação atual, e do disposto no n.º 2 da [Resolução do Conselho de Ministros n.º 80/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2023-215647925), de 14 de julho, manda o Governo, pelo Ministro das Finanças e pelo Ministro das Infraestruturas, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria fixa a forma de aplicação dos resultados líquidos do exercício de 2021 da Autoridade Nacional de Comunicações (ANACOM), no montante de (euro) 32 531 405,40.
+
+###### Artigo 2.º — Aplicação dos resultados líquidos de 2021
+
+1 - Os resultados líquidos do exercício de 2021 da ANACOM, no montante de (euro) 32 531 405,40, são aplicados da seguinte forma:
+
+a) O montante de (euro) 17 480 909,17 referente ao ano de 2021, representando o aumento das taxas de utilização de frequências decorrente do estabelecido na [Portaria n.º 378-D/2013](https://diariodarepublica.pt/dr/detalhe/portaria/378-d-2013-164422), de 31 de dezembro, e na [Portaria n.º 157/2017](https://diariodarepublica.pt/dr/detalhe/portaria/157-2017-106982549), de 10 de maio, constitui receita geral do Estado e é transferido para o Tesouro;
+
+b) O remanescente, no montante de (euro) 15 050 496,23, é aplicado da seguinte forma:
+
+i) O montante de (euro) 5250, correspondente a juros de aplicações financeiras efetuadas no IGCP, é transferido para a rubrica «Reservas Especiais - Investimento»;
+
+ii) 90 % de (euro) 15 045 246,23 ((euro) 15 050 496,23 - (euro) 5250), no valor de (euro) 13 540 721,61, constituem receita geral do Estado;
+
+iii) 10 % de (euro) 15 045 246,23, no valor de (euro) 1 504 524,62, são transferidos para a rubrica «Reservas Especiais - Investimento».
+
+2 - O valor referido na subalínea ii) da alínea b) do n.º 1, no montante de (euro) 13 540 721,61, é aplicado da seguinte forma:
+
+a) O montante de (euro) 1 736 437,50 é transferido para a Agência Espacial Europeia (ESA), no âmbito das responsabilidades assumidas pelo Estado, nos termos do disposto no n.º 4 do artigo 35.º dos Estatutos da ANACOM, aprovados pelo [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), de 16 de março;
+
+b) O montante de (euro) 1 850 000 é transferido para a Agência Espacial Portuguesa, nos termos do disposto no n.º 2 e no anexo da [Resolução do Conselho de Ministros n.º 80/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2023-215647925), de 14 de julho;
+
+c) O montante de (euro) 6 619 626,16 é transferido para o Instituto do Cinema e do Audiovisual, I. P. (ICA), nos termos do disposto no n.º 3 do artigo 12.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, aditado pela [Lei n.º 28/2014](https://diariodarepublica.pt/dr/detalhe/lei/28-2014-25343708), de 19 de maio;
+
+d) O montante de (euro) 900 000 é transferido para o Museu Zer0;
+
+e) O montante remanescente, de (euro) 2 434 657,95, é transferido para o Estado, estando incluído neste montante o valor de (euro) 1 000 000 por conta dos resultados líquidos de 2021 a transferir para a Entidade Reguladora para a Comunicação Social (ERC), ao abrigo do artigo 2.º do [Decreto-Lei n.º 103/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2006-345541), de 7 de junho, na redação dada pelo [Decreto-Lei n.º 33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio.
+
+###### Artigo 3.º — Alteração ao orçamento da ANACOM para 2023
+
+É aprovada a alteração do orçamento da ANACOM para 2023, na rubrica de despesa, pelos valores referidos no artigo 2.º, sem necessidade da adoção de qualquer outro procedimento.
+
+###### Artigo 4.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+11 de setembro de 2023. - O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - 12 de setembro de 2023. - O Ministro das Infraestruturas, João Saldanha de Azevedo Galamba.

@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:913223417:por
+title: Resolução da Assembleia da República n.º 124/2025
+short_title: null
+summary: Recomenda ao Governo a preservação do património classificado de Lagos.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 124/2025
+official_date: null
+publication_date: '2025-04-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 64/2025, Série I de 2025-04-01
+  number: '64'
+  series: I
+  supplement: null
+  pages: 31 - 31
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/04/06400/0003100031.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/124/2025/04/01/p/dre/pt/html
+  oj: null
+  dre: '913223417'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/124-2025-913223417
+  internal: pt:dre:913223417:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/124-2025-913223417
+  metadata_url: https://data.dre.pt/eli/resolassrep/124/2025/04/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/124-2025-913223417
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-04-01T00:00:00Z'
+integrity:
+  source_sha256: d79de37b033ed755d61bd088dc8d51dc1e5de27c9e6bf08798c17eff463b3396
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-124-913223417.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Património Cultural
+- Lagos
+- Assembleia da República
+- Património Arquitectónico
+- Recomendação
+- Governo
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 124/2025
+
+Recomenda ao Governo a preservação do património classificado de Lagos
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Promova um protocolo entre a ESTAMO - Participações Imobiliárias, S. A., o município de Lagos e a Fábrica da Igreja de São Sebastião de Lagos, possibilitando à autarquia, com o devido cofinanciamento, a execução das soluções de intervenção identificadas no estudo de patologias efetuado ao monumento nacional da Igreja de São Sebastião.
+
+2 - Priorize uma intervenção de recuperação urgente da muralha do Forte Pau da Bandeira, uma das fortificações marítimas da antiga Praça de Guerra em Lagos.
+
+3 - Identifique as demais intervenções necessárias nas muralhas de Lagos e crie, em articulação com as entidades locais, a ESTAMO - Participações Imobiliárias, S. A., e o Património Cultural, I. P., um grupo de acompanhamento para a salvaguarda do património de Lagos, com a missão de monitorizar de forma permanente o estado do processo de recuperação e reabilitação dos monumentos nacionais da cidade.
+
+Aprovada em 14 de março de 2025.
+
+**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**

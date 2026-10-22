@@ -1,0 +1,720 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:604457:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-115596636",
+ "dre_path": "/dr/detalhe/portaria/854-1994-604457",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-09-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115585156",
+    "115585157",
+    "115585158",
+    "115585159",
+    "115585160",
+    "115585161",
+    "115585162",
+    "115585163",
+    "115585164",
+    "115585165",
+    "115585166",
+    "115585167",
+    "115585168",
+    "115585169",
+    "115585170",
+    "115585171",
+    "115585172",
+    "115585173",
+    "115585174",
+    "115599975",
+    "115599976",
+    "115599977",
+    "115599978",
+    "115599979",
+    "115599980",
+    "115599981",
+    "115599982",
+    "115599983",
+    "115599984",
+    "115599985",
+    "115599986",
+    "115599987",
+    "115599988"
+   ]
+  },
+  {
+   "date": "1996-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:476910:por",
+     "title": "Portaria n.º 135/96",
+     "published": "1996-05-02",
+     "dre_path": "/dr/detalhe/portaria/135-1996-476910"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "115585156",
+    "115585157",
+    "115585158",
+    "115585159",
+    "115585160",
+    "115585161",
+    "115585162",
+    "115585163",
+    "115585164",
+    "115585165",
+    "115585166",
+    "115599994",
+    "115585168",
+    "115585169",
+    "115599995",
+    "115585171",
+    "115585172",
+    "115599996",
+    "115585174",
+    "115599975",
+    "115599976",
+    "115599977",
+    "115599978",
+    "115599979",
+    "115599980",
+    "115599981",
+    "115599982",
+    "115599983",
+    "115599984",
+    "115599985",
+    "115599986",
+    "115599987",
+    "115599988",
+    "115599990"
+   ]
+  },
+  {
+   "date": "1998-07-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:424110:por",
+     "title": "Portaria n.º 424/98",
+     "published": "1998-07-21",
+     "dre_path": "/dr/detalhe/portaria/424-1998-424110"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "115585156",
+    "115585157",
+    "115585158",
+    "115585159",
+    "115585160",
+    "115599999",
+    "115585162",
+    "115600000",
+    "115600001",
+    "115600002",
+    "115600003",
+    "115600004",
+    "115585168",
+    "115600005",
+    "115599995",
+    "115585171",
+    "115600006",
+    "115599996",
+    "115585174",
+    "115600007",
+    "115599976",
+    "115599977",
+    "115600008",
+    "115599979",
+    "115599980",
+    "115600009",
+    "115599982",
+    "115599983",
+    "115600010",
+    "115599985",
+    "115599986",
+    "115599987",
+    "115599988",
+    "115599990"
+   ]
+  },
+  {
+   "date": "2014-03-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571914:por",
+     "title": "Decreto-Lei n.º 38/2014",
+     "published": "2014-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2014-571914"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "115585156",
+    "115585157",
+    "115585158",
+    "115585159",
+    "115585160",
+    "115599999",
+    "115585162",
+    "115600000",
+    "115600001",
+    "115600002",
+    "115600003",
+    "115600004",
+    "115585168",
+    "115600005",
+    "115599995",
+    "115585171",
+    "115600006",
+    "115599996",
+    "115585174",
+    "115600020",
+    "115600021",
+    "115600022",
+    "115600023",
+    "115600024",
+    "115600025",
+    "115600026",
+    "115599982",
+    "115599983",
+    "115600010",
+    "115599985",
+    "115599986",
+    "115599987",
+    "115599988",
+    "115599990"
+   ]
+  }
+ ],
+ "fragments": {
+  "115585156": {
+   "fragment_id": "115596637",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 854/94\n\nde 22 de Setembro\n\nConsiderando o Decreto-Lei n.º 31/94, de 5 de Fevereiro, que estabelece as condições de aplicação do Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1992&id=392R2079\" title=\"Link para Regulamento da Comunidade Europeia\">2079/92</a>, do Conselho, de 30 de Junho, que institui um regime de ajudas à reforma antecipada na agricultura;\n\nConsiderando que o referido regime de ajudas tem por objectivo proporcionar um rendimento adequado aos agricultores idosos que cessem a actividade agrícola e contribuir para a reestruturação das explorações;\n\nConsiderando a necessidade de organizar a transmissão das explorações agrícolas, assim como a reafectação de terras a fins não agrícolas, assegurando uma utilização racional do espaço rural:\n\nAssim, ao abrigo do n.º 1 do artigo 10.º do Decreto-Lei n.º 31/94, de 5 de Fevereiro:\n\nManda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento de Aplicação do Regime de Ajudas à Cessação da Actividade Agrícola, em anexo ao presente diploma e do qual faz parte integrante."
+  },
+  "115585157": {
+   "fragment_id": "115596638",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "115585158": {
+   "fragment_id": "115596639",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime das ajudas a conceder à cessação da actividade agrícola."
+  },
+  "115585159": {
+   "fragment_id": "115596640",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial de aplicação\n\nO presente Regulamento aplica-se em todo o território continental."
+  },
+  "115585160": {
+   "fragment_id": "115596641",
+   "type": 8,
+   "heading": "Secção II — Ajuda aos empresários agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Ajuda aos empresários agrícolas"
+  },
+  "115585161": {
+   "fragment_id": "115596642",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de acesso\n\n1 - Podem ser concedidas ajudas aos empresários agrícolas que cessem definitivamente a sua actividade, desde que:\n\na) Sejam agricultores a título principal, nos termos da alínea 1) do artigo 2.º do Regulamento aprovado pela Portaria n.º 809-B/94, de 12 de Setembro, há pelo menos 10 anos;\n\nb) Tenham no mínimo 55 anos e não tenham atingido a idade normal de reforma à data da cessação da actividade agrícola;\n\nc) Estejam inscritos na segurança social como produtores agrícolas, não auferirem pensão de invalidez no âmbito da actividade agrícola e tenham contribuído durante um período de pelo menos 60 meses, que lhes permita completar, ao atingir os 70 anos, o prazo mínimo de garantia;\n\nd) Sejam titulares de uma exploração com, pelo menos, uma ou duas unidades de cultura, consoante esteja incluída ou não em área da Reserva Agrícola Nacional (RAN), excepto nos perímetros de emparcelamento, onde a dimensão mínima é metade das referidas;\n\ne) Não tenham procedido à redução da área da sua exploração agrícola após 30 de Junho de 1992;\n\nf) Assegurem a utilização futura da exploração através de venda, arrendamento ou doação a um agricultor que, não sendo seu cônjuge, reúna os requisitos previstos no artigo 7.º ou, excepto nos perímetros de emparcelamento e caso não existam agricultores interessados em retomar a totalidade ou parte da exploração, uma das seguintes condições alternativas:\n\ni) Proceder à sua florestação de acordo com projecto enquadrável no âmbito de aplicação da Portaria n.º 199/94, de 6 de Abril;\n\nii) Transmitir por venda, arrendamento ou doação a uma pessoa que, não sendo seu cônjuge, se comprometa a utilizar as terras nas condições previstas no artigo 8.º;\n\niii) Destinar a exploração a um uso não agrícola, caso em que mantêm a sua titularidade;\n\ng) Assumam os compromissos referidos no artigo seguinte.\n\n2 - Sem prejuízo do disposto na alínea f) do número anterior, a transmissão da totalidade ou parte da exploração, quando situada num perímetro de emparcelamento, poderá ser feita para a respectiva reserva de terras.\n\n3 - Quando o empresário agrícola seja arrendatário, para além do disposto nos números anteriores, deverá verificar-se a resolução do respectivo contrato de arrendamento rural e ainda uma das condições a seguir indicadas, por ordem de preferência:\n\na) O proprietário assumir a gestão da exploração, caso reúna os requisitos previstos no artigo 7.º, ou comprometer-se a transmitir ou arrendar a exploração a um agricultor que reúna essas condições;\n\nb) O proprietário passar a utilizar as terras nas condições referidas no artigo 8.º ou transmiti-las por venda, arrendamento ou doação a uma pessoa que se comprometa a utilizá-las nessas condições.\n\n4 - O disposto na alínea b) do número anterior não se aplica nos perímetros de emparcelamento."
+  },
+  "115585162": {
+   "fragment_id": "115596643",
+   "type": 11,
+   "heading": "Artigo 4.º — Compromissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Compromissos\n\nPara terem acesso à presente ajuda, os empresários agrícolas devem comprometer-se a:\n\na) Cessar definitivamente a actividade agrícola no prazo de seis meses a contar da data de aprovação da ajuda;\n\nb) Remeter à direcção regional de agricultura da área da sua exploração, durante o mês de Janeiro de cada ano, uma declaração da junta de freguesia em como não exercem a actividade agrícola com fins comerciais;\n\nc) Requerer a pensão de velhice três meses antes de atingir as respectivas condições de atribuição."
+  },
+  "115585163": {
+   "fragment_id": "115596644",
+   "type": 11,
+   "heading": "Artigo 5.º — Autoconsumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autoconsumo\n\nSem prejuízo do disposto na alínea f) do n.º 1 do artigo 3.º, e fora dos perímetros de emparcelamento, os beneficiários da presente ajuda podem reservar 10% da área da exploração para autoconsumo, até ao limite máximo de 1 ha."
+  },
+  "115585164": {
+   "fragment_id": "115596645",
+   "type": 11,
+   "heading": "Artigo 6.º — Ajuda aos empresários agrícolas e respectivos cônjuges",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ajuda aos empresários agrícolas e respectivos cônjuges\n\n1 - A ajuda aos empresários agrícolas pode ser concedida, conjuntamente, ao empresário agrícola e respectivo cônjuge, ou equiparado, desde que ambos trabalhem na exploração e cessem simultaneamente a actividade agrícola.\n\n2 - No caso referido no número anterior, o empresário deve reunir as condições estabelecidas no artigo 3.º e o seu cônjuge as seguintes:\n\na) Ter pelo menos 55 anos e não ter atingido a idade normal de reforma à data da cessação da actividade agrícola;\n\nb) Estar inscrito na segurança social como cônjuge do produtor agrícola, não auferir pensão de invalidez no âmbito da actividade agrícola e ter contribuído durante um período de pelo menos 60 meses, que lhe permita completar, ao atingir os 70 anos, o prazo mínimo de garantia;\n\nc) Ter consagrado à agricultura na exploração nos últimos quatro anos pelo menos metade do seu tempo de trabalho;\n\nd) Assumir os compromissos referidos no artigo 4.º\n\n3 - Para efeitos do disposto no número anterior considera-se equiparado aquele que à data de apresentação da candidatura ao abrigo deste diploma viva com o empresário agrícola há pelo menos dois anos em condições análogas às dos cônjuges."
+  },
+  "115585165": {
+   "fragment_id": "115596646",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições relativas ao titular da exploração agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições relativas ao titular da exploração agrícola\n\n1 - Excepto nos casos de venda da exploração a um banco de terras, o novo titular da exploração deve satisfazer as seguintes condições:\n\na) Exercer ou comprometer-se a vir a exercer a actividade agrícola a título principal, nos termos da alínea 1) do artigo 2.º, ou, não exercendo a actividade agrícola a título principal, reúna os requisitos previstos na alínea b) do n.º 1 do artigo 4.º, todos do Regulamento aprovado pela Portaria n.º 809-B/94, de 12 de Setembro;\n\nb) Ter capacidade profissional bastante, nos termos da alínea 2) do artigo 2.º do Regulamento referido na alínea anterior;\n\nc) Ter a idade máxima de 55 ou 50 anos, consoante a exploração esteja situada ou não em região desfavorecida, excepto nos perímetros de emparcelamento, em que não existe limite etário;\n\nd) Comprometer-se a assumir a gestão da exploração na data em que o anterior titular cesse a sua actividade;\n\ne) Comprometer-se a manter a actividade agrícola na exploração durante pelo menos cinco anos, respeitando as exigências de protecção do ambiente;\n\nf) Comprometer-se a aumentar a área da exploração nas seguintes condições:\n\ni) No caso de já ser agricultor: em pelo menos 15% da área da sua exploração ou da exploração transmitida;\n\nii) No caso de assumir a gestão da exploração de que era trabalhador: em pelo menos 15%;\n\niii) No caso de primeira instalação: em pelo menos 15%, devendo a nova empresa agrícola ter uma dimensão igual ou superior a quatro unidades de dimensão europeia (UDE).\n\n2 - Para efeitos da alínea f) do número anterior, entende-se por UDE o disposto no artigo 8.º da Decisão da Comissão n.º <a href=\"eurlex.asp?ano=1985&id=385D0377\" title=\"Link para Decisão da Comunidade Europeia\">85/377/CEE</a>, de 7 de Junho.\n\n3 - O novo titular poderá ser uma pessoa colectiva, desde que reúna as condições estabelecidas no número anterior, com excepção da alínea c), que é exigida para o administrador ou gerente responsável pela exploração."
+  },
+  "115585166": {
+   "fragment_id": "115596647",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições relativas ao titular da exploração para fins não agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições relativas ao titular da exploração para fins não agrícolas\n\nO empresário agrícola, caso mantenha a titularidade da exploração, ou a pessoa individual ou colectiva que assume a titularidade da exploração para fins não agrícolas, deve comprometer-se a utilizar as terras durante pelo menos cinco anos, nas seguintes condições alternativas:\n\na) Proceder à sua florestação de acordo com projecto de florestação enquadrável no âmbito de aplicação da Portaria n.º 199/94, de 6 de Abril;\n\nb) Apresentar um plano de utilização, no âmbito de planos de ordenamento legalmente aprovados, em que se demonstre que o novo uso contribui para a manutenção ou melhoria da qualidade do ambiente e do espaço natural."
+  },
+  "115585167": {
+   "fragment_id": "115596648",
+   "type": 11,
+   "heading": "Artigo 9.º — Montantes e limites das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Montantes e limites das ajudas\n\n1 - A ajuda a conceder no âmbito desta secção é calculada tendo em conta uma indemnização base anual de 2200 ECU ou, no caso previsto no artigo 6.º, de 3600 ECU, acrescida de um prémio complementar de 240 ECU/ano por hectare de regadio, vinha ou pomar e de 60 ECU/ano por hectare de sequeiro.\n\n2 - A ajuda calculada nos termos do número anterior é paga em prestações mensais, até ao limite de 460 ECU/mês ou de 575 ECU/mês, no caso da ajuda prevista no artigo 6.º\n\n3 - Para efeito dos números anteriores, a idade do beneficiário à data da cessação bem como a idade em que o mesmo reúne as condições para se reformar no âmbito do regime de segurança social constituem factores de ponderação a considerar no cálculo da ajuda, a qual decresce respectivamente 2, 5 e 3 pontos percentuais por ano.\n\n4 - No caso de a exploração se situar num perímetro de emparcelamento, ao valor da primeira prestação mensal referida no n.º 2 é adicionado um prémio de 450 ECU, acrescido de 250 ECU por hectare dentro do perímetro, até ao limite de 1700 ECU.\n\n5 - O pagamento da ajuda efectuar-se-á durante um período de 15 anos, decrescendo 10 pontos percentuais por ano nos últimos 5 anos.\n\n6 - Em caso de morte do beneficiário, a ajuda continua a ser paga nas mesmas condições ao seu cônjuge, descendentes menores em 1.º grau ou outras pessoas a cargo, deduzida, se for caso disso, da pensão de sobrevivência.\n\n7 - Quando o beneficiário passe a receber uma pensão de reforma no âmbito do regime nacional de segurança social, a ajuda passará a constituir um complemento de reforma, de montante equivalente à diferença entre o valor da ajuda atribuída e o valor da respectiva reforma e do montante adicional da pensão.\n\n8 - O montante da ajuda poderá ser repartido por vários co-titulares de uma exploração, desde que todos reúnam as condições de acesso."
+  },
+  "115585168": {
+   "fragment_id": "115596649",
+   "type": 8,
+   "heading": "Secção III — Ajuda aos familiares e assalariados agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Ajuda aos familiares e assalariados agrícolas"
+  },
+  "115585169": {
+   "fragment_id": "115596650",
+   "type": 11,
+   "heading": "Artigo 10.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Condições de acesso\n\nPodem ser concedidas ajudas aos familiares, com excepção do cônjuge ou equiparado, e aos trabalhadores agrícolas que cessem definitivamente a actividade, desde que:\n\na) Estejam no momento da cessação da actividade a trabalhar na exploração do empresário referido na secção anterior;\n\nb) Tenham pelo menos 55 anos e não tenham atingido a idade normal de reforma à data da cessação da actividade;\n\nc) Tenham consagrado à agricultura nos últimos cinco anos pelo menos metade do seu tempo de trabalho;\n\nd) Tenham trabalhado na exploração do empresário referido na secção anterior durante um período equivalente a dois anos a tempo inteiro, durante os últimos quatro anos;\n\ne) Estejam inscritos na segurança social como trabalhadores por conta de outrem e tenham contribuído durante um período de pelo menos 60 meses que lhes permita completar, ao atingir a idade normal de reforma, o prazo mínimo de garantia;\n\nf) Assumam os compromissos referidos no artigo 4.º"
+  },
+  "115585170": {
+   "fragment_id": "115596651",
+   "type": 11,
+   "heading": "Artigo 11.º — Montantes e limites das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Montantes e limites das ajudas\n\n1 - A ajuda a conceder no âmbito desta secção é de 208 ECU/mês.\n\n2 - O pagamento da ajuda efectuar-se-á durante um período máximo de 10 anos, até ao limite da idade normal de reforma do beneficiário.\n\n3 - O disposto no n.º 6 do artigo 9.º aplica-se à presente ajuda.\n\n4 - O número máximo de beneficiários da ajuda prevista nesta secção é de dois por exploração agrícola."
+  },
+  "115585171": {
+   "fragment_id": "115596652",
+   "type": 8,
+   "heading": "Secção IV — Agências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Agências"
+  },
+  "115585172": {
+   "fragment_id": "115596653",
+   "type": 11,
+   "heading": "Artigo 12.º — Ajuda à criação de agências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Ajuda à criação de agências\n\n1 - Podem ser concedidas ajudas para a implantação de agências que tenham por objecto a organização dos processos de candidatura, a transmissão e o aumento de dimensão das explorações agrícolas, assim como a reafectação das terras a utilizações não agrícolas.\n\n2 - As ajudas referidas no número anterior destinam-se a contribuir para os custos com a actividade de técnicos contratados a tempo inteiro.\n\n3 - Para efeitos de concessão das ajudas, as agências são previamente reconhecidas em termos a definir por despacho do Ministro da Agricultura."
+  },
+  "115585173": {
+   "fragment_id": "115596654",
+   "type": 11,
+   "heading": "Artigo 13.º — Forma e valor da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Forma e valor da ajuda\n\n1 - A ajuda referida no número anterior é concedida sob a forma de subsídio em capital, até ao montante máximo de 36000 ECU por técnico qualificado, paga em cinco prestações anuais, com início no primeiro ano de actividade do técnico.\n\n2 - O pagamento das ajudas é feito em prestações iguais."
+  },
+  "115585174": {
+   "fragment_id": "115596655",
+   "type": 8,
+   "heading": "Secção V — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Gestão"
+  },
+  "115599975": {
+   "fragment_id": "115596656",
+   "type": 11,
+   "heading": "Artigo 14.º — Unidade de gestão nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Unidade de gestão nacional\n\nA gestão a nível global incumbe a uma unidade de gestão nacional com a seguinte composição:\n\na) Um representante do Instituto de Estruturas Agrárias e Desenvolvimento Rural, que preside;\n\nb) Um representante do Instituto de Financiamento e Apoio ao Desenvolvimento de Agricultura e Pescas (IFADAP);\n\nc) Um representante da Direcção-Geral dos Regimes de Segurança Social."
+  },
+  "115599976": {
+   "fragment_id": "115596657",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências da unidade de gestão nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências da unidade de gestão nacional\n\nCompete à unidade de gestão nacional o seguinte:\n\na) Aprovar o seu regulamento interno;\n\nb) Estabelecer as normas necessárias ao processamento da ajuda;\n\nc) Estabelecer os critérios de prioridade;\n\nd) Deliberar sobre as candidaturas apresentadas;\n\ne) Informar a unidade de gestão regional das candidaturas aprovadas;\n\nf) Assegurar o acompanhamento e fiscalização das candidaturas aprovadas em colaboração com a direcção regional de agricultura (DRA) ou através de contratos com outras entidades e comunicar ao IFADAP as situações de incumprimento;\n\ng) Gerir financeiramente o programa e propor a distribuição regional das verbas;\n\nh) Reunir e tratar toda a informação necessária à avaliação do impacte sócio-económico e estrutural resultante da execução do programa e elaborar os relatórios sobre a execução do mesmo;\n\ni) Praticar os demais actos necessários à regular e plena execução das ajudas."
+  },
+  "115599977": {
+   "fragment_id": "115596658",
+   "type": 11,
+   "heading": "Artigo 16.º — Composição da unidade de gestão regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição da unidade de gestão regional\n\nA gestão é assegurada, ao nível de cada DRA, por uma unidade de gestão regional, constituída por representantes dos seguintes organismos:\n\na) Um representante da DRA, que preside;\n\nb) Um representante do IFADAP;\n\nc) Um representante do centro regional de segurança social."
+  },
+  "115599978": {
+   "fragment_id": "115596659",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências da unidade de gestão regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências da unidade de gestão regional\n\n1 - Compete à unidade de gestão regional:\n\na) Aprovar o seu regulamento interno;\n\nb) Confirmar as condições de acesso e dar parecer vinculativo sobre as candidaturas apresentadas;\n\nc) Propor à unidade de gestão nacional os critérios de prioridade para aprovação das candidaturas;\n\nd) Remeter à unidade de gestão nacional os processos relativos às candidaturas apresentadas;\n\ne) Comunicar a decisão aos candidatos;\n\nf) Elaborar relatórios de execução da medida;\n\ng) Proceder à fiscalização das candidaturas aprovadas e verificar o cumprimento dos compromissos assumidos, por sua iniciativa ou a pedido da unidade de gestão nacional;\n\nh) Comunicar à unidade de gestão nacional as situações de incumprimento;\n\ni) Acompanhar a execução financeira regional da aplicação das ajudas;\n\nj) Praticar os demais actos necessários à regular e plena execução das ajudas.\n\n2 - Para efeitos das alíneas b) e h) do número anterior, devem os serviços regionais efectuar visitas às explorações dos beneficiários e dos novos titulares."
+  },
+  "115599979": {
+   "fragment_id": "115596660",
+   "type": 11,
+   "heading": "Artigo 18.º — Secretariados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Secretariados\n\nAs unidades de gestão serão apoiadas no exercício das suas funções por um secretariado, que funciona junto do organismo que assegure a presidência."
+  },
+  "115599980": {
+   "fragment_id": "115596661",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências dos secretariados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências dos secretariados\n\nCompete aos secretariados, nomeadamente:\n\na) Instruir e apreciar as candidaturas, verificando, designadamente, o respectivo enquadramento e o cumprimento das condições de acesso;\n\nb) Preparar as reuniões das unidades de gestão."
+  },
+  "115599981": {
+   "fragment_id": "115596662",
+   "type": 11,
+   "heading": "Artigo 20.º — Constituição das unidades de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Constituição das unidades de gestão\n\nOs membros das unidades de gestão são designados por despacho conjunto dos Ministros da Agricultura e do Emprego e Segurança Social."
+  },
+  "115599982": {
+   "fragment_id": "115596663",
+   "type": 8,
+   "heading": "Secção VI — Normas processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Normas processuais"
+  },
+  "115599983": {
+   "fragment_id": "115596664",
+   "type": 11,
+   "heading": "Artigo 21.º — Formalização das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Formalização das ajudas\n\n1 - A formalização das candidaturas às ajudas previstas neste diploma faz-se junto das DRA da área das explorações ou noutras entidades que venham a ser reconhecidas para o efeito, através do preenchimento de um formulário a distribuir por esses serviços.\n\n2 - O formulário referido no número anterior deve ser acompanhado de todos os documentos indicados nas respectivas instruções.\n\n3 - A apresentação de candidaturas nos termos dos números anteriores tem lugar, no máximo, até um ano antes de o beneficiário completar a idade normal de reforma."
+  },
+  "115599984": {
+   "fragment_id": "115596665",
+   "type": 11,
+   "heading": "Artigo 22.º — Prazos processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Prazos processuais\n\n1 - A apresentação de candidaturas ao abrigo deste diploma pode ser efectuada durante os períodos de 1 de Março a 30 de Abril e de 1 de Setembro a 31 de Outubro de cada ano.\n\n2 - As candidaturas apresentadas serão objecto de análise e parecer pela unidade de gestão regional, no prazo de 45 dias úteis a contar do termo dos prazos referidos no número anterior.\n\n3 - A deliberação pela unidade de gestão nacional deve ter lugar no prazo máximo de 45 dias úteis, a contar do termo do prazo referido no número anterior."
+  },
+  "115599985": {
+   "fragment_id": "115596666",
+   "type": 11,
+   "heading": "Artigo 23.º — Formalização das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Formalização das ajudas\n\n1 - A unidade de gestão nacional deve enviar ao IFADAP os pedidos de ajudas aprovados.\n\n2 - A atribuição das ajudas previstas neste diploma é feita ao abrigo de contratos celebrados, no prazo máximo de 20 dias úteis a contar da data de aprovação da ajuda, entre os beneficiários, o IFADAP e o novo titular, se for caso disso."
+  },
+  "115599986": {
+   "fragment_id": "115596667",
+   "type": 11,
+   "heading": "Artigo 24.º — Pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Pagamento das ajudas\n\n1 - Compete ao IFADAP, nos termos do contrato referido no número anterior, proceder ao pagamento mensal das ajudas.\n\n2 - O início do pagamento das ajudas tem lugar no prazo de dois meses após a comunicação ao IFADAP, pela unidade de gestão, de que o beneficiário abandonou a actividade agrícola nos termos do compromisso assumido e de que o novo titular se encontra efectivamente instalado.\n\n3 - A atribuição das ajudas previstas neste diploma é devida a partir do mês seguinte àquele em que o beneficiário cessou a actividade."
+  },
+  "115599987": {
+   "fragment_id": "115596668",
+   "type": 11,
+   "heading": "Artigo 25.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Incumprimento\n\n1 - Em caso de incumprimento pelo beneficiário de qualquer das suas obrigações, o IFADAP poderá proceder à rescisão do contrato, nos termos e com as consequências previstas no artigo 6.º do Decreto-Lei n.º 31/94, de 5 de Fevereiro.\n\n2 - Em caso de incumprimento pelo novo titular dos compromissos assumidos, este fica obrigado a indemnizar o Estado no montante e nos termos estipulados no contrato."
+  },
+  "115599988": {
+   "fragment_id": "115596669",
+   "type": 11,
+   "heading": "Artigo 26.º — Acumulação das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acumulação das ajudas\n\nAs ajudas previstas neste diploma são acumuláveis com o prémio ao abandono da produção leiteira, até aos montantes máximos previstos no artigo 9.º"
+  },
+  "115599994": {
+   "fragment_id": "115596648",
+   "type": 11,
+   "heading": "Artigo 9.º — Montantes e limites das ajudas",
+   "in_force_from": "1996-05-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 135/96 - Diário da República n.º 102/1996, Série I-B de 1996-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/135-1996-476910), em vigor a partir de 1996-05-07"
+   ],
+   "markdown": "###### Artigo 9.º — Montantes e limites das ajudas\n\n1 - A ajuda a conceder no âmbito desta secção é calculada tendo em conta uma indemnização base anual de 2656,5 ECU; ou, no caso previsto no artigo 6.º, de 4347 ECU, acrescida de um prémio complementar de 289,8 ECU/ano por hectare de regadio, vinha ou pomar e de 72,5 ECU/ano por hectare de sequeiro.\n\n2 - A ajuda calculada nos termos do número anterior é paga em prestações mensais, até ao limite de 555,5 ECU/mês ou de 694,3 ECU/mês, no caso da ajuda prevista no artigo 6.º\n\n3 - Para efeito dos números anteriores, a idade do beneficiário à data da cessação bem como a idade em que o mesmo reúne as condições para se reformar no âmbito do regime de segurança social constituem factores de ponderação a considerar no cálculo da ajuda, a qual decresce respectivamente 2, 5 e 3 pontos percentuais por ano.\n\n4 - No caso de a exploração se situar num perímetro de emparcelamento, ao valor da primeira prestação mensal referida no n.º 2 é adicionado um prémio de 543,4 ECU, acrescido de 301,9 ECU por hectare dentro do perímetro, até ao limite de 2052,8 ECU.\n\n5 - O pagamento da ajuda efectuar-se-á durante um período de 15 anos, decrescendo 10 pontos percentuais por ano nos últimos 5 anos.\n\n6 - Em caso de morte do beneficiário, a ajuda continua a ser paga nas mesmas condições ao seu cônjuge, descendentes menores em 1.º grau ou outras pessoas a cargo, deduzida, se for caso disso, da pensão de sobrevivência.\n\n7 - Quando o beneficiário passe a receber uma pensão de reforma no âmbito do regime nacional de segurança social, a ajuda passará a constituir um complemento de reforma, de montante equivalente à diferença entre o valor da ajuda atribuída e o valor da respectiva reforma e do montante adicional da pensão.\n\n8 - O montante da ajuda poderá ser repartido por vários co-titulares de uma exploração, desde que todos reúnam as condições de acesso.\n\n> Alterado pelo/a [Portaria n.º 135/96 - Diário da República n.º 102/1996, Série I-B de 1996-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/135-1996-476910), em vigor a partir de 1996-05-07"
+  },
+  "115599995": {
+   "fragment_id": "115596651",
+   "type": 11,
+   "heading": "Artigo 11.º — Montantes e limites das ajudas",
+   "in_force_from": "1996-05-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 135/96 - Diário da República n.º 102/1996, Série I-B de 1996-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/135-1996-476910), em vigor a partir de 1996-05-07"
+   ],
+   "markdown": "###### Artigo 11.º — Montantes e limites das ajudas\n\n1 - A ajuda a conceder no âmbito desta secção é de 251,2 ECU/mês.\n\n2 - O pagamento da ajuda efectuar-se-á durante um período máximo de 10 anos, até ao limite da idade normal de reforma do beneficiário.\n\n3 - O disposto no n.º 6 do artigo 9.º aplica-se à presente ajuda.\n\n4 - O número máximo de beneficiários da ajuda prevista nesta secção é de dois por exploração agrícola.\n\n> Alterado pelo/a [Portaria n.º 135/96 - Diário da República n.º 102/1996, Série I-B de 1996-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/135-1996-476910), em vigor a partir de 1996-05-07"
+  },
+  "115599996": {
+   "fragment_id": "115596654",
+   "type": 11,
+   "heading": "Artigo 13.º — Forma e valor da ajuda",
+   "in_force_from": "1996-05-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 135/96 - Diário da República n.º 102/1996, Série I-B de 1996-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/135-1996-476910), em vigor a partir de 1996-05-07"
+   ],
+   "markdown": "###### Artigo 13.º — Forma e valor da ajuda\n\n1 - A ajuda referida no número anterior é concedida sob a forma de subsídio em capital, até ao montante máximo de 43470,3 ECU por técnico qualificado, paga em cinco prestações anuais, com início no primeiro ano de actividade do técnico.\n\n2 - O pagamento das ajudas é feito em prestações iguais.\n\n> Alterado pelo/a [Portaria n.º 135/96 - Diário da República n.º 102/1996, Série I-B de 1996-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/135-1996-476910), em vigor a partir de 1996-05-07"
+  },
+  "115599990": {
+   "fragment_id": "115596671",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Agricultura.\n\nAssinada em 9 de Agosto de 1994.\n\nO Ministro da Agricultura, António Duarte Silva.\n\nRegulamento de Aplicação do Regime de Ajudas à Cessação da Actividade Agrícola"
+  },
+  "115599999": {
+   "fragment_id": "115596642",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de acesso",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de acesso\n\n1 - Podem ser concedidas ajudas aos empresários agrícolas que cessem definitivamente a sua actividade, desde que:\n\na) Sejam agricultores a título principal, nos termos da alínea 1) do artigo 2.º do regulamento aprovado pela Portaria n.º 195/98, de 24 de Março, há pelo menos 10 anos;\n\nb) Tenham no mínimo 55 anos e não tenham atingido a idade normal de reforma à data da cessação da actividade agrícola;\n\nc) Estejam inscritos na segurança social como produtores agrícolas, não aufiram pensão de invalidez no âmbito da actividade agrícola e tenham contribuído durante um período de, pelo menos, 60 meses, que lhes permita completar, ao atingir os 70 anos, o prazo de garantia;\n\nd) Sejam titulares de uma exploração com, pelo menos, uma ou duas unidades de cultura, consoante esteja incluída ou não em área da Reserva Agrícola Nacional (RAN), excepto nos perímetros de emparcelamento, onde a dimensão mínima é metade das referidas;\n\ne) Não tenham procedido à redução em mais de 15% da área da sua exploração agrícola nos 12 meses anteriores à data da candidatura, excepto nos casos de florestação;\n\nf) Não tenham procedido ao aumento em mais de 15% da área da sua exploração agrícola nos 12 meses anteriores à data da candidatura, excepto nos casos de herança;\n\ng) Assegurem a utilização futura da exploração agrícola através de venda, arrendamento ou doação a um agricultor que, não sendo seu cônjuge, reúna os requisitos previstos no artigo 7.º ou, excepto nos perímetros de emparcelamento e caso não existam agricultores interessados em retomar a totalidade ou parte da exploração, uma das seguintes condições alternativas:\n\ni) Proceder à sua florestação de acordo com projecto enquadrável no âmbito de aplicação da Portaria n.º 199/94, de 6 de Abril;\n\nii) Transmitir por venda, arrendamento ou doação a uma pessoa que, não sendo seu cônjuge, se comprometa a utilizar as terras nas condições previstas no artigo 8.º;\n\niii) Destinar a exploração a um uso não agrícola, caso em que mantêm a sua titularidade;\n\nh) Assumam os compromissos referidos no artigo seguinte.\n\n2 - Sem prejuízo do disposto na alínea f) do número anterior, a transmissão da totalidade ou parte da exploração, quando situada num perímetro de emparcelamento, poderá ser feita para a respectiva reserva de terras.\n\n3 - Quando o empresário agrícola seja arrendatário, para além do disposto nos números anteriores, deverá verificar-se a resolução do respectivo contrato de arrendamento rural e ainda uma das condições a seguir indicadas, por ordem de preferência:\n\na) O proprietário assumir a gestão da exploração, caso reúna os requisitos previstos no artigo 7.º, ou comprometer-se a transmitir ou arrendar a exploração a um agricultor que reúna essas condições;\n\nb) O proprietário passar a utilizar as terras nas condições referidas no artigo 8.º ou transmiti-las por venda, arrendamento ou doação a uma pessoa que se comprometa a utilizá-las nessas condições.\n\n4 - O disposto na alínea b) do número anterior não se aplica nos perímetros de emparcelamento.\n\n5 - Nos casos de venda, arrendamento ou doação da exploração a mais de um titular, a área transmitida a cada um não pode ser inferior a uma unidade de cultura.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600000": {
+   "fragment_id": "115596644",
+   "type": 11,
+   "heading": "Artigo 5.º — Autoconsumo",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 5.º — Autoconsumo\n\nSem prejuízo do disposto na alínea g) do n.º 1 do artigo 3.º, e fora dos perímetros de emparcelamento, os beneficiários podem reservar 10% da área agrícola da exploração para autoconsumo, até ao limite máximo de 1 ha, não podendo as áreas de regadio, vinha e pomar exceder 0,25 ha.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600001": {
+   "fragment_id": "115596645",
+   "type": 11,
+   "heading": "Artigo 6.º — Ajuda aos empresários agrícolas e respectivos cônjuges",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 6.º — Ajuda aos empresários agrícolas e respectivos cônjuges\n\n1 - A ajuda aos empresários agrícolas pode ser concedida, conjuntamente, ao empresário agrícola e respectivo cônjuge, ou equiparado, desde que ambos trabalhem na exploração e cessem simultaneamente a actividade agrícola.\n\n2 - No caso referido no número anterior, o empresário deve reunir as condições estabelecidas no artigo 3.º e o seu cônjuge as seguintes:\n\na) Ter pelo menos 55 anos e não ter atingido a idade normal de reforma à data da cessação da actividade agrícola;\n\nb) Estar inscrito na segurança social como cônjuge do produtor agrícola, não auferir pensão de invalidez no âmbito da actividade agrícola e ter contribuído durante um período de, pelo menos, 60 meses, que lhe permita completar, ao atingir os 70 anos, o prazo de garantia.\n\nc) Ter consagrado à agricultura na exploração nos últimos quatro anos pelo menos metade do seu tempo de trabalho;\n\nd) Assumir os compromissos referidos no artigo 4.º\n\n3 - Para efeitos do disposto no número anterior considera-se equiparado aquele que à data de apresentação da candidatura ao abrigo deste diploma viva com o empresário agrícola há pelo menos dois anos em condições análogas às dos cônjuges.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600002": {
+   "fragment_id": "115596646",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições relativas ao titular da exploração agrícola",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 7.º — Condições relativas ao titular da exploração agrícola\n\n1 - Excepto nos casos de venda da exploração a um banco de terras, o novo titular da exploração deve satisfazer as seguintes condições:\n\na) Exercer ou comprometer-se a vir a exercer a actividade agrícola a título principal, nos termos da alínea 1) do artigo 2.º, ou, não exercendo a actividade agrícola a título principal, reúna os requisitos previstos nas alíneas b) ou c) do n.º 1 do artigo 4.º, todos do Regulamento aprovado pela Portaria n.º 195/98, de 24 de Março;\n\nb) Ter capacidade profissional bastante, nos termos da alínea 2) do artigo 2.º do Regulamento referido na alínea anterior;\n\nc) Ter a idade máxima de 55 ou 50 anos, consoante a exploração esteja situada ou não em região desfavorecida, excepto nos perímetros de emparcelamento, em que não existe limite etário;\n\nd) Comprometer-se a assumir a gestão da exploração na data em que o anterior titular cesse a sua actividade;\n\ne) Comprometer-se a manter a actividade agrícola na exploração durante, pelo menos, 10 anos, respeitando as exigências de protecção do ambiente, podendo transmiti-la a uma pessoa que reúna as condições previstas neste artigo, sem prejuízo de outras limitações impostas ao abrigo de outros regimes de ajudas;\n\nf) Comprometer-se a aumentar a área agrícola da exploração nas seguintes condições:\n\ni) No caso de já ser agricultor: em, pelo menos, 15% da área agrícola da sua exploração ou da exploração transmitida;\n\nii) No caso de assumir a gestão da exploração de que era trabalhador: em pelo menos 15%;\n\niii) No caso de primeira instalação: em pelo menos 15%, devendo a nova empresa agrícola ter uma dimensão igual ou superior a quatro unidades de dimensão europeia (UDE).\n\n2 - Para efeitos da alínea f) do número anterior, entende-se por UDE o disposto no artigo 8.º da Decisão da Comissão n.º <a href=\"eurlex.asp?ano=1985&id=385D0377\" title=\"Link para Decisão da Comunidade Europeia\">85/377/CEE</`�, de 7 de Junho.\n\n3 - O novo titular poderá ser pessoa colectiva, desde que reúna as condições estabelecidas no n.º 1, com excepção da alínea c), que é exigida para o administrador ou gerente responsável pela exploração.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600003": {
+   "fragment_id": "115596647",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições relativas ao titular da exploração para fins não agrícolas",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 8.º — Condições relativas ao titular da exploração para fins não agrícolas\n\nO empresário agrícola, caso mantenha a titularidade da exploração, ou a pessoa individual ou colectiva que assume a titularidade da exploração para fins não agrícolas, deve comprometer-se a utilizar as terras durante, pelo menos, 10 anos, nas seguintes condições:\n\na) Proceder à sua florestação de acordo com projecto de florestação enquadrável no âmbito de aplicação da Portaria n.º 199/94, de 6 de Abril;\n\nb) Apresentar um plano de utilização, no âmbito de planos de ordenamento legalmente aprovados, em que se demonstre que o novo uso contribui para a manutenção ou melhoria da qualidade do ambiente e do espaço natural.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600004": {
+   "fragment_id": "115596648",
+   "type": 11,
+   "heading": "Artigo 9.º — Montantes e limites das ajudas",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22",
+    "Alterado pelo/a [Portaria n.º 135/96 - Diário da República n.º 102/1996, Série I-B de 1996-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/135-1996-476910), em vigor a partir de 1996-05-07"
+   ],
+   "markdown": "###### Artigo 9.º — Montantes e limites das ajudas\n\n1 - A ajuda a conceder no âmbito desta secção é calculada tendo em conta uma indemnização base anual de 2656,5 ECU; ou, no caso previsto no artigo 6.º, de 4347 ECU, acrescida de um prémio complementar de 289,8 ECU/ano por hectare de regadio, vinha ou pomar e de 72,5 ECU/ano por hectare de sequeiro.\n\n2 - A ajuda calculada nos termos do número anterior é paga em prestações mensais, até ao limite de 555,5 ECU/mês ou de 694,3 ECU/mês, no caso da ajuda prevista no artigo 6.º\n\n3 - Para efeitos dos números anteriores, a idade do beneficiário à data da cessação bem como a idade em que o mesmo reúne as condições para se reformar no âmbito do regime geral de segurança social constituem factores de ponderação a considerar no cálculo da ajuda, a qual decresce respectivamente 2, 5 e 3 pontos percentuais por ano.\n\n4 - No caso de a exploração se situar num perímetro de emparcelamento, ao valor da primeira prestação mensal referida no n.º 2 é adicionado um prémio de 543,4 ECU, acrescido de 301,9 ECU por hectare dentro do perímetro, até ao limite de 2052,8 ECU.\n\n5 - O pagamento da ajuda efectuar-se-á durante um período de 15 anos, decrescendo 10 pontos percentuais por ano nos últimos 5 anos.\n\n6 - Em caso de morte do beneficiário, a ajuda continua a ser paga nas mesmas condições ao seu cônjuge, descendentes menores em 1.º grau ou outras pessoas a cargo, deduzida, se for caso disso, da pensão de sobrevivência.\n\n7 - Quando o beneficiário passe a receber uma pensão de reforma no âmbito do regime geral de segurança social, a ajuda passará a constituir um complemento de reforma, de montante equivalente à diferença entre o valor da ajuda atribuída e o valor da respectiva reforma e do montante adicional da pensão.\n\n8 - O montante da ajuda poderá ser repartido por vários co-titulares de uma exploração, desde que todos reúnam as condições de acesso.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22\n\n> Alterado pelo/a [Portaria n.º 135/96 - Diário da República n.º 102/1996, Série I-B de 1996-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/135-1996-476910), em vigor a partir de 1996-05-07"
+  },
+  "115600005": {
+   "fragment_id": "115596650",
+   "type": 11,
+   "heading": "Artigo 10.º — Condições de acesso",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 10.º — Condições de acesso\n\nPodem ser concedidas ajudas aos familiares, com excepção do cônjuge ou equiparado, e aos trabalhadores agrícolas que cessem definitivamente a actividade, desde que:\n\na) Estejam no momento da cessação da actividade a trabalhar na exploração do empresário referido na secção anterior;\n\nb) Tenham pelo menos 55 anos e não tenham atingido a idade normal de reforma à data da cessação da actividade;\n\nc) Tenham consagrado à agricultura nos últimos cinco anos pelo menos metade do seu tempo de trabalho;\n\nd) Tenham trabalhado na exploração do empresário referido na secção anterior durante um período equivalente a dois anos a tempo inteiro, durante os últimos quatro anos;\n\ne) Estejam inscritos na segurança social como trabalhadores por conta de outrem e tenham contribuído durante um período de, pelo menos, 60 meses, que lhes permita completar, ao atingir a idade normal de reforma, o prazo de garantia;\n\nf) Assumam os compromissos referidos no artigo 4.º\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600006": {
+   "fragment_id": "115596653",
+   "type": 11,
+   "heading": "Artigo 12.º — Ajuda à criação de agências",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 12.º — Ajuda à criação de agências\n\n1 - Podem ser concedidas ajudas para a implantação de agências que tenham por objecto a organização dos processos de candidatura, a transmissão e o aumento de dimensão das explorações agrícolas, assim como a reafectação das terras a utilizações não agrícolas.\n\n2 - As ajudas referidas no número anterior destinam-se a contribuir para os custos com a actividade de técnicos contratados a tempo inteiro.\n\n3 - Para efeitos de concessão das ajudas, as agências são previamente reconhecidas em termos a definir por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600007": {
+   "fragment_id": "115596656",
+   "type": 11,
+   "heading": "Artigo 14.º — Unidade de gestão nacional",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 14.º — Unidade de gestão nacional\n\nA gestão a nível global incumbe a uma unidade de gestão nacional com a seguinte composição:\n\na) Um representante da Direcção-Geral de Desenvolvimento Rural, que preside;\n\nb) Um representante do Instituto de Financiamento e Apoio ao Desenvolvimento de Agricultura e Pescas (IFADAP);\n\nc) Um representante da Direcção-Geral dos Regimes de Segurança Social.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600008": {
+   "fragment_id": "115596659",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências da unidade de gestão regional",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 17.º — Competências da unidade de gestão regional\n\n1 - Compete à unidade de gestão regional:\n\na) Aprovar o seu regulamento interno;\n\nb) Confirmar as condições de acesso e dar parecer vinculativo sobre as candidaturas apresentadas;\n\nc) Propor à unidade de gestão nacional os critérios de prioridade para aprovação das candidaturas;\n\nd) Remeter à unidade de gestão nacional os processos relativos às candidaturas apresentadas;\n\ne) Comunicar a decisão aos candidatos;\n\nf) Elaborar relatórios de execução da medida;\n\ng) Proceder à fiscalização das candidaturas aprovadas e verificar o cumprimento dos compromissos assumidos, por sua iniciativa ou a pedido da unidade de gestão nacional;\n\nh) Comunicar à unidade de gestão nacional as situações de incumprimento;\n\ni) Acompanhar a execução financeira regional da aplicação das ajudas;\n\nj) Praticar os demais actos necessários à regular e plena execução das ajudas.\n\n2 - Para efeitos das alíneas b), g) e h) do número anterior, os serviços regionais devem efectuar visitas às explorações dos beneficiários e dos novos titulares.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600009": {
+   "fragment_id": "115596662",
+   "type": 11,
+   "heading": "Artigo 20.º — Constituição das unidades de gestão",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 20.º — Constituição das unidades de gestão\n\nOs membros das unidades de gestão são designados por despacho conjunto dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Trabalho e da Solidariedade.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600010": {
+   "fragment_id": "115596665",
+   "type": 11,
+   "heading": "Artigo 22.º — Prazos processuais",
+   "in_force_from": "1998-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 22.º — Prazos processuais\n\n1 - A apresentação de candidaturas ao abrigo deste diploma poderá efectuar-se a todo o tempo.\n\n2 - As candidaturas apresentadas serão objecto de análise e parecer pela unidade de gestão regional no prazo de 60 dias úteis a contar da data da sua apresentação.\n\n3 - A deliberação pela unidade de gestão nacional deve ter lugar no prazo máximo de 45 dias úteis, a contar do termo do prazo referido no número anterior.\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600020": {
+   "fragment_id": "115596656",
+   "type": 11,
+   "heading": "Artigo 14.º — Unidade de gestão nacional",
+   "in_force_from": "2014-03-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15",
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 14.º — Unidade de gestão nacional\n\nA gestão a nível global incumbe a uma unidade de gestão nacional com a seguinte composição:\n\na) Um representante da Direcção-Geral de Desenvolvimento Rural, que preside;\n\nb) Um representante do Instituto de Financiamento e Apoio ao Desenvolvimento de Agricultura e Pescas (IFADAP);\n\nc) Um representante da Direcção-Geral dos Regimes de Segurança Social.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600021": {
+   "fragment_id": "115596657",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências da unidade de gestão nacional",
+   "in_force_from": "2014-03-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15"
+   ],
+   "markdown": "###### Artigo 15.º — Competências da unidade de gestão nacional\n\nCompete à unidade de gestão nacional o seguinte:\n\na) Aprovar o seu regulamento interno;\n\nb) Estabelecer as normas necessárias ao processamento da ajuda;\n\nc) Estabelecer os critérios de prioridade;\n\nd) Deliberar sobre as candidaturas apresentadas;\n\ne) Informar a unidade de gestão regional das candidaturas aprovadas;\n\nf) Assegurar o acompanhamento e fiscalização das candidaturas aprovadas em colaboração com a direcção regional de agricultura (DRA) ou através de contratos com outras entidades e comunicar ao IFADAP as situações de incumprimento;\n\ng) Gerir financeiramente o programa e propor a distribuição regional das verbas;\n\nh) Reunir e tratar toda a informação necessária à avaliação do impacte sócio-económico e estrutural resultante da execução do programa e elaborar os relatórios sobre a execução do mesmo;\n\ni) Praticar os demais actos necessários à regular e plena execução das ajudas.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15"
+  },
+  "115600022": {
+   "fragment_id": "115596658",
+   "type": 11,
+   "heading": "Artigo 16.º — Composição da unidade de gestão regional",
+   "in_force_from": "2014-03-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15"
+   ],
+   "markdown": "###### Artigo 16.º — Composição da unidade de gestão regional\n\nA gestão é assegurada, ao nível de cada DRA, por uma unidade de gestão regional, constituída por representantes dos seguintes organismos:\n\na) Um representante da DRA, que preside;\n\nb) Um representante do IFADAP;\n\nc) Um representante do centro regional de segurança social.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15"
+  },
+  "115600023": {
+   "fragment_id": "115596659",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências da unidade de gestão regional",
+   "in_force_from": "2014-03-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15",
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 17.º — Competências da unidade de gestão regional\n\n1 - Compete à unidade de gestão regional:\n\na) Aprovar o seu regulamento interno;\n\nb) Confirmar as condições de acesso e dar parecer vinculativo sobre as candidaturas apresentadas;\n\nc) Propor à unidade de gestão nacional os critérios de prioridade para aprovação das candidaturas;\n\nd) Remeter à unidade de gestão nacional os processos relativos às candidaturas apresentadas;\n\ne) Comunicar a decisão aos candidatos;\n\nf) Elaborar relatórios de execução da medida;\n\ng) Proceder à fiscalização das candidaturas aprovadas e verificar o cumprimento dos compromissos assumidos, por sua iniciativa ou a pedido da unidade de gestão nacional;\n\nh) Comunicar à unidade de gestão nacional as situações de incumprimento;\n\ni) Acompanhar a execução financeira regional da aplicação das ajudas;\n\nj) Praticar os demais actos necessários à regular e plena execução das ajudas.\n\n2 - Para efeitos das alíneas b), g) e h) do número anterior, os serviços regionais devem efectuar visitas às explorações dos beneficiários e dos novos titulares.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  },
+  "115600024": {
+   "fragment_id": "115596660",
+   "type": 11,
+   "heading": "Artigo 18.º — Secretariados",
+   "in_force_from": "2014-03-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15"
+   ],
+   "markdown": "###### Artigo 18.º — Secretariados\n\nAs unidades de gestão serão apoiadas no exercício das suas funções por um secretariado, que funciona junto do organismo que assegure a presidência.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15"
+  },
+  "115600025": {
+   "fragment_id": "115596661",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências dos secretariados",
+   "in_force_from": "2014-03-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15"
+   ],
+   "markdown": "###### Artigo 19.º — Competências dos secretariados\n\nCompete aos secretariados, nomeadamente:\n\na) Instruir e apreciar as candidaturas, verificando, designadamente, o respectivo enquadramento e o cumprimento das condições de acesso;\n\nb) Preparar as reuniões das unidades de gestão.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15"
+  },
+  "115600026": {
+   "fragment_id": "115596662",
+   "type": 11,
+   "heading": "Artigo 20.º — Constituição das unidades de gestão",
+   "in_force_from": "2014-03-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15",
+    "Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+   ],
+   "markdown": "###### Artigo 20.º — Constituição das unidades de gestão\n\nOs membros das unidades de gestão são designados por despacho conjunto dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Trabalho e da Solidariedade.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15\n\n> Alterado pelo/a [Portaria n.º 424/98 - Diário da República n.º 166/1998, Série I-B de 1998-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110), em vigor a partir de 1998-07-22"
+  }
+ }
+}

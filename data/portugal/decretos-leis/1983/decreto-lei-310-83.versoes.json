@@ -1,0 +1,758 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:452686:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1983-871645902",
+ "dre_path": "/dr/detalhe/decreto-lei/310-1983-452686",
+ "source_lastmod": "2024-07-11",
+ "versions": [
+  {
+   "date": "1983-07-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "871646140",
+    "871646141",
+    "871646142",
+    "871646143",
+    "871646144",
+    "871646145",
+    "871646146",
+    "871646147",
+    "871646148",
+    "871646149",
+    "871646150",
+    "871646151",
+    "871646152",
+    "871646153",
+    "871646154",
+    "871646155",
+    "871646156",
+    "871646157",
+    "871646158",
+    "871646159",
+    "871646160",
+    "871646161",
+    "871646162",
+    "871646163",
+    "871646164",
+    "871646165",
+    "871646166",
+    "871646167",
+    "871646168",
+    "871646169",
+    "871646170",
+    "871646171",
+    "871646172",
+    "871646173",
+    "871646174",
+    "871673875",
+    "871673876",
+    "871673877",
+    "871673878",
+    "871673879",
+    "871673880",
+    "871673881",
+    "871673882",
+    "871673883",
+    "871673884",
+    "871673885",
+    "871673886",
+    "871673887",
+    "871673888",
+    "871673889",
+    "871673890",
+    "871673891"
+   ]
+  },
+  {
+   "date": "1993-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:645304:por",
+     "title": "Decreto-Lei n.º 352/93",
+     "published": "1993-10-07",
+     "dre_path": "/dr/detalhe/decreto-lei/352-1993-645304"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "871646140",
+    "871673898",
+    "871646141",
+    "871646142",
+    "871646143",
+    "871646144",
+    "871646145",
+    "871646146",
+    "871646147",
+    "871646148",
+    "871646149",
+    "871646150",
+    "871646151",
+    "871646152",
+    "871646153",
+    "871646154",
+    "871646155",
+    "871646156",
+    "871646157",
+    "871646158",
+    "871646159",
+    "871646160",
+    "871646161",
+    "871646162",
+    "871673899",
+    "871646163",
+    "871646164",
+    "871646165",
+    "871646166",
+    "871646167",
+    "871646168",
+    "871646169",
+    "871646170",
+    "871646171",
+    "871646172",
+    "871673926",
+    "871646174",
+    "871673875",
+    "871673876",
+    "871673877",
+    "871673878",
+    "871673879",
+    "871673880",
+    "871673881",
+    "871673882",
+    "871673883",
+    "871673884",
+    "871673885",
+    "871673886",
+    "871673887",
+    "871673888",
+    "871673889",
+    "871673890",
+    "871673891",
+    "871673892",
+    "871673893",
+    "871673894",
+    "871673895",
+    "871673896",
+    "871673897"
+   ]
+  },
+  {
+   "date": "2004-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:210801:por",
+     "title": "Decreto-Lei n.º 74/2004",
+     "published": "2004-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/74-2004-210801"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "871646140",
+    "871673898",
+    "871646141",
+    "871646142",
+    "871646143",
+    "871646144",
+    "871673929",
+    "871673930",
+    "871673927",
+    "871673928",
+    "871646149",
+    "871646150",
+    "871646151",
+    "871646152",
+    "871646153",
+    "871646154",
+    "871646155",
+    "871646156",
+    "871646157",
+    "871646158",
+    "871646159",
+    "871646160",
+    "871646161",
+    "871646162",
+    "871673899",
+    "871646163",
+    "871646164",
+    "871646165",
+    "871646166",
+    "871646167",
+    "871646168",
+    "871646169",
+    "871646170",
+    "871646171",
+    "871646172",
+    "871673926",
+    "871646174",
+    "871673875",
+    "871673876",
+    "871673877",
+    "871673878",
+    "871673879",
+    "871673880",
+    "871673881",
+    "871673882",
+    "871673883",
+    "871673884",
+    "871673885",
+    "871673886",
+    "871673887",
+    "871673888",
+    "871673889",
+    "871673890",
+    "871673891",
+    "871673892",
+    "871673893",
+    "871673894",
+    "871673895",
+    "871673896",
+    "871673897"
+   ]
+  }
+ ],
+ "fragments": {
+  "871646140": {
+   "fragment_id": "871645903",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 310/83\n\nde 1 de Julho\n\n1. O presente diploma visa estruturar o ensino das várias artes - música, dança, teatro e cinema - que tem vindo a ser ministrado no Conservatório Nacional e em escolas afins, e tendo como objectivos a formação profissional dos respectivos artistas.\n\nA educação artística que a todos deve ser proporcionada nos domínios da música e do movimento e drama não é objecto deste diploma, uma vez que a sua definição se situa no âmbito mais geral dos planos de estudos e programas dos ensinos básico e secundário.\n\nO Estatuto do Conservatório Nacional e do seu pessoal docente rege-se ainda pela reforma de 1930, embora com alterações parcelares.\n\nAssim, a partir de 1971 o ensino do Conservatório Nacional foi colocado em regime de experiência pedagógica; ao abrigo deste regime reorganizaram-se os planos de estudos e os programas e tentou-se, por um lado, a integração do ensino artístico com o ensino geral do mesmo nível e, por outro, a integração na mesma instituição do ensino de várias artes. Deste modo, para além dos cursos de Música e de Teatro, tradicionalmente ali ministrados, foram criados os cursos de Dança, de Cinema e de Educação pela Arte.\n\nSe muitos foram os resultados positivos desta experiência, diversos factores condicionaram e diminuíram o seu alcance, entre os quais se contam a insuficiência de instalações e as dificuldades de gestão conjunta de uma instituição com estruturas administrativa e pedagogicamente inadequadas.\n\nA situação de pessoal docente, a falta de regulamentação do ensino de nível superior, as dificuldades de articulação com o ensino geral, são questões que se arrastam e cuja definição tem prejudicado o ensino, afastando dele professores e alunos e acarretando um regime de frequência muitas vezes em acumulação, com carácter de actividade secundária, que impede uma plena dedicação e um verdadeiro profissionalismo.\n\nAssim, a solução dos problemas do Conservatório Nacional passa necessariamente pela prévia definição dos estatutos dos ensinos que ali são ministrados, destes decorrendo o regime do pessoal docente e o das próprias escolas.\n\n2. O ensino da música, para além do Conservatório Nacional, é ministrado em diversas instituições particulares, geralmente nascidas e mantidas pelo esforço de alguns professores, com maior ou menor apoio de entidades locais, ou outras, e recentemente do próprio Estado.\n\nNos últimos anos, algumas destas escolas vieram a transformar-se em estabelecimentos de ensino público - o Conservatório de Música do Porto, a Escola de Música de Calouste Gulbenkian de Braga, o Conservatório de Música da Madeira, o Instituto Gregoriano de Lisboa e os Conservatórios Regionais de Ponta Delgada e de Angra do Heroísmo (estes sob a égide do Governo Regional dos Açores) -, enquanto por todo o País vêm surgindo novas instituições particulares.\n\nEstas instituições estão ligadas pedagogicamente aos estabelecimentos oficiais e todos têm como modelo os planos de estudo e programas do Conservatório Nacional.\n\nAo proceder a uma reformulação do ensino vocacional da música há, pois, que ter em vista a realidade em todo o País, e não apenas no Conservatório Nacional, ainda que ressalvando a especificidade da situação e da tradição de ensino deste, bem como dos demais estabelecimentos públicos e particulares.\n\n3. No que se refere à dança, para além do curso existente no Conservatório Nacional inicialmente ligado ao teatro, não tem havido, até agora, um sistema de ensino formal, fazendo-se a preparação profissional de bailarinos nas companhias de bailado e em alguns estúdios particulares. Por outro lado, existe por todo o País um ensino ao nível da iniciação ou da aprendizagem geral das técnicas de dança, de iniciativa individual ou ligado a instituições recreativas ou culturais, que vem despertando cada vez mais interesse e procura.\n\nConstata-se, no entanto, a necessidade de maior número de professores e de uma melhor preparação profissional e pedagógica dos mesmos, sendo também necessário implementar a atribuição aos alunos de uma qualificação que sancione o trabalho realizado, cuja inexistência os leva, em alguns casos, a apresentar-se a exame em instituições estrangeiras.\n\nProcura-se, pois, no presente diploma institucionalizar o ensino da dança como opção vocacional, no âmbito do ensino preparatório e secundário, e, ao nível do ensino superior, formar os professores necessários ao ensino vocacional e ministrar uma preparação para outras profissões ligadas à dança.\n\n4. O ensino do teatro tem a mais antiga tradição no Conservatório Nacional, enquanto o curso de Cinema só foi introduzido, como experiência pedagógica, a partir de 1971.\n\nMuito embora seja inegável a especificidade de cada uma destas artes, opta-se neste projecto por reunir numa mesma escola o seu ensino, que poderá alargar-se também à televisão e a outros domínios afins, embora devam estruturar-se departamentos próprios, com conveniente autonomia.\n\nJulga-se que a escola ganhará assim maior peso e consistência, uma vez que boa parte dos profissionais que forma (actores, cenógrafos, técnicos de som e de iluminação, etc.) irá trabalhar em qualquer daqueles sectores, devendo, por isso, a sua formação ser polivalente, sem prejuízo da especialização requerida por cada um daqueles domínios.\n\n5. Em linhas gerais, a solução preconizada no presente diploma para a reestruturação do ensino da música, da dança, do teatro e do cinema, e da consequente reconversão dos respectivos estabelecimentos públicos de ensino, parte das seguintes opções:\n\nInserção no esquema geral em vigor para os diferentes níveis de ensino;\n\nCriação de áreas vocacionais da música e da dança integradas no ensino geral preparatório e secundário;\n\nIntegração no ensino superior politécnico do ensino profissional, ao mais alto nível técnico e artístico.\n\nAssim:\n\na) Inserção no esquema geral do ensino:\n\nA preocupação de definir um estatuto especial para o ensino das artes tem dificultado e protelado o consenso sobre as soluções a adoptar, com manifesto prejuízo para os professores, os alunos e o próprio ensino.\n\nO presente diploma visa ultrapassar esta situação e, reconhecendo embora a especificidade do ensino destas artes, vem inseri-lo nos moldes gerais dos ensinos básico, secundário e superior, aplicando ao pessoal docente, à organização e gestão dos estabelecimentos de ensino, aos planos de estudo e diplomas os estatutos que lhes correspondam naqueles níveis de ensino.\n\nEsta inserção nos moldes gerais do ensino em vigor vem quebrar o isolamento e as indefinições em que o ensino artístico tem vivido, com mais inconvenientes que vantagens, garantindo que qualquer alteração dos estatutos gerais lhe será por igual aplicável, acompanhando assim a evolução do sistema de ensino.\n\nb) Integração curricular nos ensinos preparatório e secundário:\n\nNos ensinos da música e da dança há uma educação artística e um adestramento físico específicos, que têm de iniciar-se muito cedo, na maior parte dos casos até cerca dos 10 anos, constituindo assim uma opção vocacional precoce em relação à generalidade das escolhas profissionais, que só vêm a realizar-se cerca dos 15 ou 16 anos, na entrada do 10.º ano de escolaridade. Importa, no entanto, que os planos de estudo a fixar salvaguardem a possibilidade de uma reorientação vocacional até este nível.\n\nPor outro lado, o estudo do instrumento e a aprendizagem das técnicas de dança exigem um trabalho aturado e regular, ocupando várias horas por dia, o que torna difícil a acumulação da escolaridade geral completa com a frequência do Conservatório, comprometendo os resultados de uma e de outra e levando muitos alunos à desistência ou deficiente aproveitamento.\n\nNão pode, porém, dispensar-se o cumprimento por estes da escolaridade geral, nomeadamente da obrigatória, relegando-se para uma situação de inferioridade de conhecimentos e de valor de diplomas, com futuro prejuízo na sua carreira profissional ou na sequência de estudos.\n\nDeste modo, julga-se necessário encontrar para tais alunos com uma opção vocacional artística um plano de estudos que integre a componente de formação específica com a componente de formação geral indispensável, por forma a conseguir uma carga horária equilibrada e mesmo progressivamente aliviada, mas conduzindo a diplomas de valor idêntico aos do ensino geral, ao nível do 9.º ano e do 12.º ano.\n\nA criação de áreas próprias no ensino complementar vem assim satisfazer uma necessidade há muito sentida e possibilitar que o aluno a partir dos 15/16 anos se possa dedicar já intensamente à sua formação artística e profissional, o que deverá vir a alterar profundamente a situação actualmente vivida.\n\nc) Integração no ensino superior politécnico:\n\nDentro do actual sistema do nosso ensino, julga-se que o ensino superior politécnico constitui a solução mais adequada nos seus objectivos e estruturas e a mais viável para estruturar o ensino superior destas artes.\n\nDe facto, trata-se essencialmente de formar profissionais qualificados, com um alto nível técnico e artístico, não parecendo justificar-se nem o alongamento da escolaridade, pois a carência de profissionais motiva já uma fuga para a profissão antes de terminados os cursos, nem um reforço de formações teóricas, dificilmente compatível com a intensidade absorvente da preparação técnica e artística exigida.\n\nOpta-se, assim, pela estruturação de cursos de 2 a 3 anos, com carácter terminal, que ministrarão uma formação profissional aprofundada, preparando os artistas necessários às diferentes actividades; prevê-se, no entanto, que, para além destes, possam prosseguir-se nas mesmas escolas estudos de especialização, intensificando ou diversificando a formação anterior, de modo a alargar o leque de habilitações e saídas profissionais que será possível obter.\n\nNo que se refere ao pessoal docente necessário neste nível, a carreira do ensino superior politécnico aparece também como a opção mais adequada. De facto, o acesso na carreira universitária exige sobretudo os graus académicos que comprovam a capacidade científica (mestrado e doutoramento), enquanto a carreira politécnica valoriza o currículo técnico e profissional e permite o ingresso por concurso de provas públicas.\n\n6. O ensino superior relacionado com estas artes não se esgota, porém, na preparação profissional ao mais alto nível dos artistas, mas debruça-se também sobre aquelas artes, como objecto de conhecimento, dos pontos de vista estético, histórico, sociológico, psico-fisiológico, etc., formando a matéria de disciplinas científicas e cursos já ministrados nas universidades ou que nestas deverão vir a ser acolhidos.\n\nA regulamentação desta matéria encontra-se fora do âmbito do presente diploma, mas de tal modo se interpenetram os dois campos que não pode deixar de haver uma íntima associação entre as instituições que ministram um e outro tipo de ensino e uma articulação dos seus estudos, como se encontra previsto nos artigos 3.º e 4.º do Decreto-Lei n.º 513-T/79, de 26 de Dezembro, em que poderão ser creditadas as habilitações e a experiência profissional obtidas.\n\n7. No que respeita ao futuro pessoal docente do ensino vocacional da música e da dança, cuja formação importa incentivar, prevê-se que os professores de Instrumentos, de Formação Musical e das disciplinas técnicas de Música e de Dança devam ter uma qualificação equivalente à dos demais professores do ensino secundário, nomeadamente dos do ensino vocacional, exigindo uma sólida preparação técnica de base, dada pelos correspondentes cursos superiores de Música ou de Dança, completada pelas metodologias do ensino da respectiva disciplina, pela preparação pedagógica geral e por um estágio de ensino, que, no conjunto, darão uma habilitação equivalente à das licenciaturas em ensino.\n\n8. Problema complexo e delicado é o da transição do pessoal docente das situações em que agora se encontra para os novos estatutos que lhe serão aplicáveis.\n\nPara além dos direitos adquiridos pelo pessoal pertencente aos quadros, que constitui uma minoria, entendeu-se dever ressalvar também com justiça as situações dos professores que leccionam ininterruptamente há largos anos nestas escolas com simples contratos anuais, situação que há muito deveria ter sido resolvida com a criação e alargamento dos quadros, visto corresponder a necessidades permanentes destes estabelecimentos de ensino.\n\nPara este efeito se criam quadros transitórios, cujos lugares se extinguirão quando vagarem, em que aqueles professores serão integrados nas condições em que actualmente se encontram contratados, permitindo-se, a todo o tempo, a opção pelo quadro e carreira dos respectivos estabelecimentos de ensino vocacional no que se refere à música e à dança.\n\nCorrespondendo a actual remuneração destes professores à 2.ª fase da carreira docente do ensino secundário (1.º escalão) e tendo em conta a situação privilegiada do seu horário de trabalho semanal em relação às carreiras docentes secundária e superiores, entendeu-se que só poderiam ter acesso ao provimento no quadro nesta situação os professores com mais de 5 anos de serviço. Concedeu-se ainda um regime transitório aos professores com mais de 3 anos de serviço, mantendo as actuais condições de trabalho, para adquirirem a sua profissionalização. Os demais professores, quer actuais quer futuros, poderão ser contratados nas condições normais das respectivas carreiras docentes.\n\n9. Das actuais escolas do Conservatório Nacional, uma há que, pela sua natureza, se não enquadra na presente reestruturação. Trata-se do curso de Educação pela Arte, cujo objectivo não é a formação de artistas, mas de professores, nomeadamente para o ensino básico, pelo que deverá vir a enquadrar-se nas futuras escolas superiores de educação.\n\nOs seus professores, como os demais, vêem consolidada a sua situação no quadro transitório, cabendo à Direcção-Geral do Ensino Superior determinar o seu futuro enquadramento e, enquanto este não puder ser definido, distribuir-lhes as tarefas que melhor possam adequar-se às qualificações que possuem.\n\n10. O presente diploma constitui apenas um primeiro passo de uma reforma destes ensinos, já que se limita a traçar o enquadramento administrativo e pedagógico dos seus diversos graus.\n\nOutras medidas, designadamente a definição de planos de estudos e programas dos cursos gerais e complementares da Música e da Dança, bem como a regulamentação de diversas disposições deste decreto-lei, serão objecto de despachos e portarias a publicar na sua sequência.\n\nNo que se refere ao ensino superior, todo o desenvolvimento da reforma virá a depender, nos termos da lei geral e de acordo com a natureza desse nível de ensino, das propostas a elaborar pelas comissões instaladoras das novas escolas superiores.\n\nAssim, ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "871646141": {
+   "fragment_id": "871645904",
+   "type": 8,
+   "heading": "Secção I — Estrutura e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Estrutura e objectivos"
+  },
+  "871646142": {
+   "fragment_id": "871645905",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - O ensino vocacional nos domínios da música e da dança, abreviadamente designado, no presente diploma, por ensino da música e ensino da dança, visa a formação de músicos e de bailarinos, bem como a preparação específica necessária ao exercício de outras profissões ligadas à música e à dança.\n\n2 - O ensino da música e o ensino da dança inserem-se nos diversos níveis do ensino, acrescendo aos objectivos próprios de cada um destes uma preparação específica que constitui, sucessivamente, uma opção vocacional precoce, um ensino profissionalizante e uma preparação profissional aprofundada."
+  },
+  "871646143": {
+   "fragment_id": "871645906",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAo nível da educação pré-escolar e do ensino primário deverá desenvolver-se o ensino da música, visando a detecção e desenvolvimento das aptidões da criança."
+  },
+  "871646144": {
+   "fragment_id": "871645907",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - No ensino da música ao nível do ensino preparatório e do ensino secundário unificado desenvolver-se-ão os cursos gerais de Instrumentos, os quais visam a aquisição pelo aluno das bases gerais de formação musical e de domínio da execução dos instrumentos.\n\n2 - No ensino da dança ao nível do ensino preparatório e do ensino secundário unificado desenvolver-se-á o curso geral de Dança, o qual visa a aquisição pelo aluno das bases gerais do vocabulário e das técnicas de dança."
+  },
+  "871646145": {
+   "fragment_id": "871645908",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Ao nível dos cursos complementares do ensino secundário, o ensino da música e o ensino da dança constituirão áreas de estudos próprios, de carácter profissionalizante, comportando os cursos de Formação Musical, de Instrumentos, de Canto e de Dança.\n\n2 - O curso de Formação Musical visa o aprofundamento da educação musical e de conhecimentos nos domínios das ciências musicais, supondo, à saída, o domínio de um instrumento de tecla ao nível do curso geral.\n\n3 - Os cursos de Instrumentos têm carácter profissionalizante, visando um domínio avançado da execução dos instrumentos e uma formação musical correspondente.\n\n4 - O curso de Canto visa a aquisição de um nível de domínio geral das técnicas vocais, simultaneamente com um aprofundamento da formação musical ao nível dos restantes cursos complementares.\n\n5 - O curso de Dança visa a formação profissional de bailarinos, através de um domínio avançado das técnicas de execução e de uma formação cultural e artística correspondente."
+  },
+  "871646146": {
+   "fragment_id": "871645909",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Os planos de estudo dos cursos gerais e dos cursos complementares dos ensinos da música e da dança integrarão as disciplinas de formação específica e vocacional da música ou da dança e as disciplinas de formação geral dos correspondentes níveis de ensino.\n\n2 - Os planos de estudo referidos no número anterior serão organizados por forma que garantam a consecução dos objectivos próprios dos respectivos níveis de ensino, o igual valor dos diplomas do mesmo nível, a possibilidade de reorientação vocacional até ao 9.º ano de escolaridade e o acesso a qualquer área do ensino secundário complementar e ao ensino superior.\n\n3 - Os planos de estudo referidos no n.º 1 deverão assegurar uma carga horária lectiva equilibrada na qual, progressivamente, predomine a componente vocacional."
+  },
+  "871646147": {
+   "fragment_id": "871645910",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - O ensino correspondente aos planos de estudo referidos no artigo anterior poderá ser ministrado:\n\na) Nos estabelecimentos de ensino da música ou da dança, em regime de ensino integrado, leccionando-se também as disciplinas de formação geral aos respectivos alunos;\n\nb) Simultaneamente num estabelecimento de ensino da música ou da dança e numa escola preparatória ou secundária, de forma articulada;\n\nc) Em escolas preparatórias e secundárias em que sejam ministradas as disciplinas de formação específica do ensino da música e da dança.\n\n2 - Nos estabelecimentos que apenas ministram o ensino da música ou da dança, a componente vocacional pode ser ministrada independentemente do currículo de formação geral frequentado ou já obtido pelo aluno, mas os diplomas dos cursos gerais e complementares só podem ser passados quando o aluno comprove possuir a habilitação de todas as disciplinas que compõem o respectivo plano de estudos."
+  },
+  "871646148": {
+   "fragment_id": "871645911",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - Os alunos que terminem com aproveitamento o conjunto de disciplinas que compõem os planos de estudo dos cursos complementares de Música ou de Dança têm direito a um diploma do respectivo curso complementar, a passar pelo estabelecimento de ensino que ministrou o ensino vocacional.\n\n2 - O diploma de um curso complementar de Música ou de Dança é condição normal para ingresso nos respectivos cursos superiores de Música ou de Dança, bem como noutros cursos de ensino superior, nos termos da lei geral que regula o ingresso no ensino superior."
+  },
+  "871646149": {
+   "fragment_id": "871645912",
+   "type": 8,
+   "heading": "Secção II — Estabelecimentos de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estabelecimentos de ensino"
+  },
+  "871646150": {
+   "fragment_id": "871645913",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1 - O ensino vocacional da música e da dança será ministrado em estabelecimentos de ensino genericamente designados, no presente diploma, por escolas de música e escolas de dança.\n\n2 - As escolas de música e as escolas de dança ministram os cursos gerais e os cursos complementares respectivos.\n\n3 - As escolas de música poderão também ministrar o ensino de música para crianças que frequentam o ensino primário ou a educação pré-escolar, em termos a regulamentar por despacho do Ministro da Educação.\n\n4 - As escolas de música e as escolas de dança serão criadas por portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa e os respectivos quadros serão estabelecidos nos termos dos artigos 6.º e 7.º do Decreto-Lei n.º 519-E2/79, de 29 de Dezembro.\n\n5 - A organização, o funcionamento e a gestão das escolas de música e das escolas de dança regem-se pelos estatutos dos estabelecimentos de ensino preparatório e secundário."
+  },
+  "871646151": {
+   "fragment_id": "871645914",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nPoderão ser criadas nas escolas preparatórias, e secundárias, por despacho do Ministro da Educação, sob proposta da respectiva direcção-geral de ensino, disciplinas dos cursos gerais de Música e de Dança, desde que se verifiquem condições para a sua leccionação e se disponha, pelo menos, de um professor com habilitação própria para as mesmas."
+  },
+  "871646152": {
+   "fragment_id": "871645915",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs professores das disciplinas de formação geral ministradas em estabelecimentos de ensino integrado poderão ter regimes próprios de recrutamento e provimento, em termos a regulamentar por portaria do Ministro da Educação, de modo a conseguir-se uma desejável articulação destas disciplinas com as do ensino vocacional."
+  },
+  "871646153": {
+   "fragment_id": "871645916",
+   "type": 8,
+   "heading": "Secção III — Carreiras docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Carreiras docentes"
+  },
+  "871646154": {
+   "fragment_id": "871645917",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n- 1 - Aplicam-se aos docentes do ensino vocacional da música e da dança as disposições sobre carreiras constantes do Decreto-Lei n.º 513-M1/79, de 27 de Dezembro, e legislação complementar e subsequente.\n\n2 - As disciplinas do ensino vocacional da música e da dança constituirão grupos específicos, os quais, com as habilitações próprias e suficientes para o ensino dos diversos níveis e disciplinas, serão definidos por portaria do Ministro da Educação, acrescentando aos mapas n.os 1 e 3 anexos ao Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, e regulando-se nos termos desse diploma.\n\n3 - O sistema de profissionalização dos professores do ensino vocacional da música e da dança reger-se-á pela lei geral, com as adaptações necessárias, nos termos a definir por portaria do Ministro da Educação.\n\n4 - Os concursos para provimento dos docentes a que se refere este artigo regulam-se pela legislação geral aplicável aos concursos dos professores do ensino preparatório e secundário, podendo, por um prazo de 3 anos a contar da entrada em vigor do presente diploma, ser introduzidas alterações àquele regime mediante portaria do Ministro da Educação.\n\n5 - Poderão ser contratadas para a prestação de serviço docente no ensino vocacional da música e da dança, equiparadas a quaisquer categorias das carreiras docentes referidas no n.º 1, independentemente das habilitações que possuam, individualidades nacionais ou estrangeiras de reconhecida competência, em termos a regular por despacho do Ministro da Educação.\n\n6.º Poderão também ser ministrados pelos docentes das escolas superiores de música e de dança, total ou parcialmente, em articulação com as escolas de nível secundário, os cursos complementares referidos no artigo 4.º"
+  },
+  "871646155": {
+   "fragment_id": "871645918",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n- 1 - Aos docentes do ensino vocacional da música poderá ser distribuído serviço em diferentes estabelecimentos de ensino, incluindo a leccionação da iniciação musical e instrumental no ensino primário e na educação pré-escolar.\n\n2 - Quando o serviço distribuído a estes docentes obrigar à deslocação do estabelecimento de ensino em que se encontram colocados, dará direito à compensação de encargos de deslocação, nos termos da lei geral."
+  },
+  "871646156": {
+   "fragment_id": "871645919",
+   "type": 8,
+   "heading": "Secção IV — Ensino particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Ensino particular e cooperativo"
+  },
+  "871646157": {
+   "fragment_id": "871645920",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n- 1 - Os estabelecimentos de ensino particular e cooperativa que ministrem o ensino vocacional da música ou da dança regular-se-ão pela legislação geral deste tipo de ensino e poderão adoptar a organização, planos de estudo e programas do ensino público ou ter planos de estudo e programas próprios.\n\n2 - Poderá ser concedido paralelismo pedagógico aos estabelecimentos de ensino que o requeiram e reúnam as condições necessárias, nos termos da lei geral.\n\n3 - A concessão e a manutenção de diplomas de professor do ensino particular de Música e de Dança pode ser condicionado à frequência de cursos de reciclagem e à prestação de provas de capacidade pedagógica.\n\n4 - Para os efeitos previstos no número anterior, o Ministério da Educação, através das escolas superiores de música e de dança, organizará cursos de reciclagem de professores."
+  },
+  "871646158": {
+   "fragment_id": "871645921",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n- 1 - O Ministério da Educação poderá celebrar contratos simples ou de associação com os estabelecimentos de ensino particular e cooperativo, por forma a estabelecer uma rede escolar que garanta, de forma equitativa, o acesso ao ensino vocacional da música e da dança.\n\n2 - Aos estabelecimentos de ensino particular e cooperativo da música e da dança que sejam convertidos em estabelecimentos públicos serão aplicáveis as disposições dos Decretos-Leis n.os 792/75 e 793/75, de 31 de Dezembro."
+  },
+  "871646159": {
+   "fragment_id": "871645922",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n- 1 - O ensino superior da música, da dança, do teatro e do cinema insere-se nos objectivos e nas estruturas do ensino superior politécnico, visando a formação de profissionais naquelas áreas ao mais alto nível técnico e artístico.\n\n2 - O ensino superior da música e da dança incluirá também a formação dos professores do ensino vocacional destas artes, podendo estabelecer-se acordos de cooperação com outras instituições de ensino superior, com vista a definir os planos de estudos adequados e a forma de ministrar a sua componente de ordem pedagógica."
+  },
+  "871646160": {
+   "fragment_id": "871645923",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n- 1 - Os cursos a que se refere o n.º 1 do artigo anterior conferem o grau de bacharel.\n\n2 - Podem também ser criados cursos de especialização nos domínios do ensino superior ministrados nas respectivas escolas, os quais, de acordo com a sua duração e nível, poderão dar direito a um diploma específico, equiparado para efeitos profissionais às licenciaturas conferidas pelas universidades."
+  },
+  "871646161": {
+   "fragment_id": "871645924",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n- 1 - O ensino superior a que se referem os artigos 15.º e 16.º será ministrado em escolas de ensino superior politécnico, que poderão adoptar as designações de escola superior ou conservatório superior, de acordo com proposta da respectiva comissão instaladora.\n\n2 - A organização, o funcionamento e a gestão das escolas superiores referidas no n.º 1 serão regulados pela legislação aplicável aos estabelecimentos de ensino superior politécnico.\n\n3 - As referências feitas na legislação geral ao carácter científico e técnico de órgãos, actividades ou funções daqueles estabelecimentos de ensino deverão entender-se sempre como abrangendo também o carácter artístico dos mesmos.\n\n4 - As escolas superiores referidas no n.º 1 poderão associar-se para a realização de cursos ou de projectos de interesse comum e poderão vir a federar-se num conservatório nacional abrangendo escolas de diversas artes, a criar por decreto do Governo, sem prejuízo da autonomia pedagógica e administrativa de cada escola."
+  },
+  "871646162": {
+   "fragment_id": "871645925",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n- 1 - Aos docentes do ensino superior da música, da dança, do teatro e do cinema aplica-se o estatuto da carreira docente do ensino superior politécnico.\n\n2 - Por portaria do Ministro da Educação poderão ser introduzidas alterações no que respeita às provas previstas no n.º 1 do artigo 25.º do Decreto-Lei n.º 185/81, de 1 de Julho, por forma a obter a melhor adequação das mesmas à especificidade daquelas artes.\n\n3 - Os cursos superiores de Música criados pelo Decreto n.º 18881, de 25 de Setembro de 1930, e os cursos de Teatro e de Cinema do Conservatório Nacional consideram-se adequados para efeito de recrutamento de pessoal docente para as respectivas escolas superiores, nos termos do artigo 4.º e do n.º 2 do artigo 7.º do Decreto-Lei n.º 185/81, de 1 de Julho, e do artigo 25.º do Decreto-Lei n.º 513-L1/79, de 27 de Dezembro.\n\nIII - Disposições finais a transitórias"
+  },
+  "871646163": {
+   "fragment_id": "871645926",
+   "type": 8,
+   "heading": "Secção I — Reconversão do Conservatório Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Reconversão do Conservatório Nacional"
+  },
+  "871646164": {
+   "fragment_id": "871645927",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO Conservatório Nacional será reconvertido nos termos previstos nos artigos seguintes, sucedendo-lhe, para todos os efeitos legais, os estabelecimentos de ensino agora criados, considerando-se extinto a partir de data a fixar por portaria do Ministro da Educação, uma vez terminadas as operações resultantes da reconversão nos termos do artigo 22.º"
+  },
+  "871646165": {
+   "fragment_id": "871645928",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n- 1 - São criadas em Lisboa as Escolas Superiores de Música, de Dança e de Teatro e Cinema.\n\n2 - As Escolas referidas no número anterior ficam sujeitas ao regime de instalação previsto no Decreto-Lei n.º 513-L1/79, de 27 de Dezembro, sendo as respectivas comissões instaladoras nomeadas pelo Ministro da Educação, no prazo de 60 dias a contar da publicação do presente diploma, nos termos do artigo 6.º daquele decreto-lei, com a redacção que lhe foi dada pelo Decreto-Lei n.º 131/80, de 17 de Maio.\n\n3 - A Escola Superior de Teatro e Cinema será estruturada em departamentos, podendo abranger também os domínios da televisão.\n\n4 - As Escolas referidas nos números anteriores poderão estabelecer acordos de colaboração com outras entidades públicas ou privadas, nomeadamente com institutos, companhias e teatros nacionais dependentes do Ministério da Cultura, por forma a obter o melhor aproveitamento dos meios existentes."
+  },
+  "871646166": {
+   "fragment_id": "871645929",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n- 1 - São criadas em Lisboa a Escola de Música e a Escola de Dança, que sucedem, no ensino vocacional destas artes, ao Conservatório Nacional.\n\n2 - As Escolas criadas nos termos do número anterior consideram-se em fase de instalação a partir de 1 de Outubro de 1983, regulando-se o seu funcionamento nos termos da Portaria n.º 561/77, de 8 de Setembro."
+  },
+  "871646167": {
+   "fragment_id": "871645930",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n- 1 - É constituída a Comissão Coordenadora da Reconversão do Conservatório Nacional, composta pelos presidentes das comissões instaladoras dos estabelecimentos de ensino criados nos termos dos artigos 20.º e 21.º e pelo chefe de secretaria do Conservatório Nacional, que servirá de secretário.\n\n2 - Os membros docentes escolherão entre si o presidente e o vice-presidente da Comissão Coordenadora, exercendo estes, com o chefe de secretaria, as funções de conselho administrativo.\n\n3 - Compete à Comissão Coordenadora:\n\na) Apresentar ao Ministro da Educação as propostas de reconversão previstas no artigo 33.º do Decreto-Lei n.º 513-L1/79, de 27 de Dezembro, coordenando as propostas nesse sentido elaboradas pelas diferentes Escolas que delas fazem parte;\n\nb) Assegurar a gestão das dotações orçamentais atribuídas ao Conservatório Nacional, até ao final do ano económico de 1983;\n\nc) Garantir a gestão do pessoal, instalações, equipamento e verbas pertencentes ao Conservatório Nacional, enquanto não forem afectados a alguma das Escolas ou outra entidade, e assegurar todas as operações necessárias à transição para as novas situações;\n\nd) Assegurar a coordenação das actividades das diferentes Escolas, enquanto esta se revelar necessária, devido à utilização comum de instalações, equipamentos, serviços ou dotações orçamentais.\n\n4 - A Comissão Coordenadora iniciará funções em 1 de Outubro de 1983 e será extinta, por despacho ministerial, quando se encontrar esgotado o objecto do seu mandato, nomeadamente pela plena autonomização das Escolas nela representadas, independentemente do termo do regime de instalação de cada uma destas.\n\n5 - A partir de 1 de Janeiro de 1984 cada uma das Escolas criadas pelos artigos 20.º e 21.º disporá de orçamento próprio, gerindo-se autonomamente dos pontos de vista administrativo e pedagógico, sem prejuízo da coordenação a efectuar nos termos dos números anteriores.\n\n6 - Deixarão de fazer parte da Comissão Coordenadora, mediante despacho ministerial, as Escolas em relação às quais não seja já necessário assegurar as funções de coordenação previstas no n.º 3.\n\n7 - Os professores de Educação pela Arte vinculados ao quadro transitório do Conservatório Nacional escolherão entre si um representante junto da Comissão Coordenadora de Reconversão, o qual será ouvido em relação às decisões que afectem aqueles professores e sempre que a Comissão o julgue necessário."
+  },
+  "871646168": {
+   "fragment_id": "871645931",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n- 1 - Cabe à Escola de Música e à Escola de Dança, criadas pelo artigo 21.º, assegurar a continuação de estudos, a realização de exames e a passagem de certificados ou diplomas dos respectivos cursos realizados de acordo com os planos de estudo previstos no Decreto n.º 18881 ou instituídos ao abrigo do regime de experiência pedagógica do Conservatório Nacional.\n\n2 - Cabe à Escola Superior de Teatro e Cinema assegurar a continuação dos respectivos cursos actualmente ministrados, a realização de exames e a passagem dos respectivos certificados ou diplomas."
+  },
+  "871646169": {
+   "fragment_id": "871645932",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n- 1 - A documentação do Conservatório Nacional, depois de devidamente seleccionada, será entregue a cada uma das Escolas que lhe sucedem, na medida em que possa ter utilidade prática para as mesmas, sendo a restante documentação transferida para entidade a indicar por despacho ministerial.\n\n2 - As novas Escolas garantirão a passagem de certidões relativas à documentação que lhes fique entregue."
+  },
+  "871646170": {
+   "fragment_id": "871645933",
+   "type": 8,
+   "heading": "Secção II — Reestruturação dos outros estabelecimentos públicos de ensino da música",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Reestruturação dos outros estabelecimentos públicos de ensino da música"
+  },
+  "871646171": {
+   "fragment_id": "871645934",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nOs actuais estabelecimentos públicos de ensino da música serão reestruturados de acordo com as disposições seguintes."
+  },
+  "871646172": {
+   "fragment_id": "871645935",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n- 1 - São criadas a Escola Superior de Música do Porto e a Escola de Música, que sucedem, para todos os efeitos legais e contratuais, ao Conservatório de Música do Porto, o qual se considera extinto a partir de data a fixar por portaria do Ministro da Educação, nos termos previstos no artigo 19.º\n\n2 - Os estabelecimentos de ensino a que se refere o número anterior ficam sujeitos ao regime de instalação, aplicando-se-lhes o disposto, respectivamente, no n.º 2 do artigo 20.º e no n.º 2 do artigo 21.º do presente diploma.\n\n3 - As comissões instaladoras dos dois estabelecimentos de ensino, em conjunto com o chefe de secretaria do Conservatório de Música do Porto, constituem a Comissão Coordenadora de Reconversão daquele estabelecimento de ensino, sendo-lhe aplicável o disposto nos n.os 2 a 5 do artigo 22.º\n\n4 - Aplica-se à Escola de Música criada nos termos do n.º 1 o disposto no n.º 1 do artigo 23.º do presente diploma, ficando à guarda desta a documentação do Conservatório de Música do Porto, da qual passará as respectivas certidões."
+  },
+  "871646173": {
+   "fragment_id": "871645936",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n- 1 - O Instituto Gregoriano de Lisboa será reestruturado de acordo com as disposições do presente diploma, tendo em conta a especificidade dos seus objectivos.\n\n2 - O Instituto Gregoriano de Lisboa abrangerá uma escola de música, ministrando o ensino vocacional com características próprias, e um departamento de estudos superiores gregorianos, que fará parte da Escola Superior de Música de Lisboa, nos termos a regular pelo diploma que efectue a reestruturação prevista no número anterior.\n\n3 - A Escola de Música de Calouste Gulbenkian de Braga será adaptada, por portaria do Ministro da Educação, de acordo com o disposto no presente diploma, como escola de música nos termos definidos no artigo 8.º e na alínea a) do n.º 1 do artigo 6.º\n\n4 - O regime vigente para os Conservatórios Regionais de Ponta Delgada e de Angra do Heroísmo será adaptado de acordo com o disposto no presente diploma e no Decreto-Lei n.º 338/79, de 25 de Agosto, pelos órgãos de governo próprio da Região Autónoma dos Açores."
+  },
+  "871646174": {
+   "fragment_id": "871645937",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n- 1 - O Conservatório de Música da Madeira passa a depender dos órgãos de governo próprio da Região Autónoma da Madeira, nos termos do Decreto-Lei n.º 364/79, de 4 de Setembro, cabendo a estes efectuar a respectiva reestruturação de acordo com as disposições do presente diploma.\n\n2 - O Ministério da Educação suportará os encargos de funcionamento do Conservatório de Música da Madeira até 31 de Dezembro de 1983, data a partir da qual os mesmos passarão a ser da responsabilidade da Região Autónoma da Madeira."
+  },
+  "871673875": {
+   "fragment_id": "871645938",
+   "type": 8,
+   "heading": "Secção III — Regime de transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Regime de transição de pessoal"
+  },
+  "871673876": {
+   "fragment_id": "871645939",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs actuais professores do Conservatório Nacional e os do ensino da música e disciplinas afins dos estabelecimentos públicos de ensino da música beneficiam do regime de transição previsto nas disposições seguintes."
+  },
+  "871673877": {
+   "fragment_id": "871645940",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n- 1 - São criados os quadros transitórios do Conservatório Nacional e de cada um dos actuais estabelecimentos públicos de ensino da música constantes dos mapas anexos ao presente diploma, cujos lugares se extinguirão à medida que vagarem.\n\n2 - Têm direito ao ingresso no quadro transitório do Conservatório Nacional os professores pertencentes ao quadro do mesmo e os contratados que até 31 de Dezembro de 1983 completem 5 anos de serviço e que declarem a sua opção de ingresso neste quadro, no prazo de 30 dias após a entrada em vigor do presente diploma.\n\n3 - Têm direito a ingresso nos quadros transitórios dos estabelecimentos públicos do ensino da música os professores do ensino da música e disciplinas afins já pertencentes ao quadro e os contratados que até 31 de Dezembro de 1983 completem 5 anos de serviço, prestado com habilitações próprias no respectivo estabelecimento de ensino ou neste e noutros estabelecimentos públicos de ensino da música, e que declarem a sua opção nos termos do número anterior.\n\n4 - Aos professores que até 31 de Dezembro de 1983 completem 3 anos de serviço nos termos previstos nos n.os 2 e 3 é garantida a celebração de um contrato na respectiva escola, nas condições actuais de serviço e remuneração, por 2 anos, renovável por mais 1 ano, se tal for necessário para terminar a sua profissionalização.\n\n5 - Aos professores estrangeiros que preencham as condições previstas nos n.os 3 e 4 deste artigo serão mantidos os contratos nas condições actuais de serviço e remuneração, respectivamente, sem limites de tempo ou nos termos do número anterior.\n\n6 - Para efeito do disposto nos números anteriores, será contado também nos termos do Decreto-Lei n.º 553/80, de 21 de Novembro, o tempo de serviço prestado nos estabelecimentos de ensino particulares que directamente antecederam os actuais.\n\n7 - Para efeito do n.º 3, consideram-se habilitações próprias os cursos superiores e os cursos completos de Instrumentos previstos no Decreto n.º 18881, de 25 de Setembro de 1930.\n\n8 - Os professores de Instrumentos e disciplinas afins não contemplados no Decreto n.º 18881 poderão ser considerados, mediante despacho ministerial para cada caso, como possuidores de habilitação ou currículo adequado ao ensino da disciplina que ministram, para efeitos de aplicação dos n.os 3 e 4 deste artigo."
+  },
+  "871673878": {
+   "fragment_id": "871645941",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nOs professores providos nos quadros transitórios têm a remuneração prevista no Decreto-Lei n.º 68/82, de 3 de Março, e o número de horas de aula semanal determinado no artigo 25.º do Decreto n.º 18881, de 25 de Setembro de 1930."
+  },
+  "871673879": {
+   "fragment_id": "871645942",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n- 1 - Os professores providos num quadro transitório poderão prestar serviço nos estabelecimentos de ensino superior criados nos termos do presente diploma, em estabelecimentos de ensino vocacional da música ou da dança ou noutros serviços dependentes do Ministério da Educação, em regime de colocação especial previsto na lei.\n\n2 - Os professores dos quadros transitórios que prestem serviço nos estabelecimentos de ensino superior serão equiparados às categorias da carreira docente correspondentes às funções que sejam chamados a desempenhar, podendo optar pelo vencimento do quadro de origem.\n\n3 - Poderão também os professores providos num quadro transitório ser chamados a prestar serviço nas escolas superiores criadas pelo presente diploma, ou noutros serviços dependentes do Ministério da Educação, com funções de natureza técnica ou de investigação, compatíveis com a especialização e experiência que possuam, nas condições de trabalho e remuneração que tenham no lugar de origem.\n\n4 - Aos professores dos quadros transitórios que prestem serviço nos estabelecimentos de ensino vocacional da música ou da dança poderão ser atribuídas, de acordo com as necessidades do serviço, até 18 horas semanais de serviço docente ou equiparado, só podendo ser consideradas horas extraordinárias as que excedam aquele número."
+  },
+  "871673880": {
+   "fragment_id": "871645943",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n- 1 - Os professores providos num quadro transitório poderão optar, a todo o tempo, pelo ingresso no quadro do respectivo estabelecimento de ensino vocacional da música ou da dança, nos termos gerais da carreira docente, nos respectivos grupos, disciplinas ou especialidades.\n\n2 - Para efeitos de progressão na carreira docente, será contado todo o tempo de serviço docente prestado com habilitação própria em estabelecimentos de ensino da música ou da dança, públicos ou particulares, bem como no Departamento de Ciências Musicais da Universidade Nova de Lisboa, e o tempo prestado como professor profissionalizado nas disciplinas da educação musical e da música, ou outras equivalentes, dos estabelecimentos de ensino preparatório e secundário.\n\n3 - A contagem do tempo de serviço no ensino particular e cooperativo, para efeitos do número anterior, será feita nos termos do Decreto-Lei n.º 553/80, de 21 de Novembro."
+  },
+  "871673881": {
+   "fragment_id": "871645944",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n- 1 - Os lugares do quadro transitório cativam igual número de lugares do quadro do respectivo estabelecimento de ensino vocacional da música ou da dança, os quais só poderão ser providos nos termos do n.º 1 do artigo anterior ou após a libertação de lugares por extinção daqueles, bem como nos termos dos artigos 5.º, 6.º e 9.º do Decreto-Lei n.º 373/77, de 5 de Setembro.\n\n2 - Os professores que optem pelo ingresso no quadro do respectivo estabelecimento de ensino nos termos do n.º 1 do artigo anterior, quando excedam o número de lugares daquele quadro, ficarão na situação de supranumerários, ocupando automaticamente a primeira vaga que se verifique no respectivo grupo ou disciplina."
+  },
+  "871673882": {
+   "fragment_id": "871645945",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n- 1 - Os professores em exercício à data da publicação do presente diploma que não completem, até 31 de Dezembro de 1983, 5 ou 3 anos de serviço nos termos do artigo 30.º poderão ser contratados nos termos gerais da legislação aplicável ao respectivo estabelecimento de ensino.\n\n2 - Aos docentes referidos no número anterior, bem como a outros que venham a ser providos em estabelecimentos com ensino vocacional da música ou da dança, será contado, para todos os efeitos, o serviço docente anteriormente prestado, nos termos dos n.os 2 e 3 do artigo 33.º"
+  },
+  "871673883": {
+   "fragment_id": "871645946",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nSob proposta fundamentada das comissões coordenadoras de reconversão, o pessoal não docente será afectado às novas Escolas criadas pelo presente diploma, sem prejuízo da reclassificação a que se refere o Decreto-Lei n.º 536/79, de 31 de Dezembro."
+  },
+  "871673884": {
+   "fragment_id": "871645947",
+   "type": 8,
+   "heading": "Secção IV — Regime aplicável à transição de planos de estudo e às habilitações anteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Regime aplicável à transição de planos de estudo e às habilitações anteriores"
+  },
+  "871673885": {
+   "fragment_id": "871645948",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n- 1 - Para efeitos de seguimento de estudos, será estabelecido um regime transitório a aprovar por despacho ministerial, tendo em conta os planos de estudo e os programas a fixar.\n\n2 - Até ao fim do ano lectivo de 1984-1985, poderão os alunos terminar os cursos gerais da Música e da Dança e outros cursos, segundo os planos de estudo actualmente em vigor, sem prejuízo do disposto no n.º 4.\n\n3 - Os alunos que não possam terminar os referidos cursos naquele prazo deverão transitar para os novos planos de estudo, de acordo com o regime a fixar nos termos do n.º 1.\n\n4 - Os cursos superiores da Música criados pelo Decreto n.º 18881, de 25 de Setembro de 1930, e os cursos actualmente ministrados pelas Escolas de Teatro e de Cinema do Conservatório Nacional poderão manter-se enquanto não forem criados os novos cursos de ensino superior politécnico, e os respectivos exames poderão ainda ser realizados nos 3 anos lectivos posteriores à publicação dos diplomas que criem os novos cursos."
+  },
+  "871673886": {
+   "fragment_id": "871645949",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nDas habilitações obtidas de acordo com os planos de estudo fixados ao abrigo da experiência pedagógica serão passados os respectivos diplomas ou certificados, nos termos a fixar por portaria do Ministro da Educação."
+  },
+  "871673887": {
+   "fragment_id": "871645950",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n- 1 - Por despacho do Ministro da Educação, poderão as habilitações adquiridas ao abrigo do Decreto n.º 18881, de 25 de Setembro de 1930, e do regime de experiência pedagógica ser declaradas suficientes para efeito de prosseguimento de estudos.\n\n2 - Por portaria dos Ministros da Educação e da Reforma Administrativa, poderão as habilitações referidas no número anterior ser declaradas adequadas ao provimento em determinados cargos públicos."
+  },
+  "871673888": {
+   "fragment_id": "871645951",
+   "type": 8,
+   "heading": "Secção V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Disposições finais"
+  },
+  "871673889": {
+   "fragment_id": "871645952",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n- 1 - As Escolas Superiores de Música, de Dança e de Teatro e Cinema integram-se nas estruturas gerais de coordenação do ensino superior politécnico e dependem da Direcção-Geral do Ensino Superior.\n\n2 - O ensino vocacional da música e da dança e as respectivas Escolas dependem da Direcção-Geral do Ensino Secundário, onde deverá constituir-se um serviço próprio para a orientação pedagógica de cada um desses sectores, bem como das outras direcções-gerais e organismos que superintendem no ensino secundário, no âmbito da respectiva competência.\n\n3 - A gestão do pessoal pertencente aos quadros transitórios da música e da dança cabe às escolas de música e de dança que sucedem ao respectivo estabelecimento de ensino, sob a superintendência da Direcção-Geral de Pessoal.\n\n4 - A gestão do pessoal pertencente aos quadros transitórios do teatro e do cinema cabe à respectiva Escola Superior, sob a superintendência da Direcção-Geral do Ensino Superior.\n\n5 - A gestão do pessoal pertencente ao quadro transitório da educação pela arte cabe à Direcção-Geral do Ensino Superior."
+  },
+  "871673890": {
+   "fragment_id": "871645953",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n- 1 - Os encargos decorrentes da aplicação do presente diploma relativos às escolas de música e de dança, bem como os encargos com os quadros transitórios, serão suportados, até ao final do ano económico de 1983, pelas dotações destinadas aos actuais estabelecimentos de ensino a que aquelas escolas sucedem.\n\n2 - Os encargos decorrentes da aplicação do presente diploma relativos às novas Escolas Superiores serão suportados pelas dotações do Ministério da Educação destinadas aos novos estabelecimentos de ensino superior politécnico."
+  },
+  "871673891": {
+   "fragment_id": "871645954",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nO ingresso do pessoal docente nos quadros transitórios e as demais disposições relativas às carreiras docentes e à transição do pessoal produzem efeitos a partir de 1 de Outubro de 1983."
+  },
+  "871673898": {
+   "fragment_id": "871645962",
+   "type": 1,
+   "heading": "I - Do ensino vocacional da música e da dança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I - Do ensino vocacional da música e da dança"
+  },
+  "871673899": {
+   "fragment_id": "871645963",
+   "type": 1,
+   "heading": "II - Do ensino superior da música, da dança, do teatro e do cinema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II - Do ensino superior da música, da dança, do teatro e do cinema"
+  },
+  "871673926": {
+   "fragment_id": "871645936",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1993-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 352/93 - Diário da República n.º 235/1993, Série I-A de 1993-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1993-645304), em vigor a partir de 1993-10-12"
+   ],
+   "markdown": "###### Artigo 27.º\n\n- 1 - O Instituto Gregoriano de Lisboa será reestruturado de acordo com as disposições do presente diploma, tendo em conta a especificidade dos seus objectivos.\n\n2 - O Instituto Gregoriano de Lisboa abrangerá uma escola de música, ministrando o ensino vocacional com características próprias, e um departamento de estudos superiores gregorianos, que fará parte da Escola Superior de Música de Lisboa, nos termos a regular pelo diploma que efectue a reestruturação prevista no número anterior.\n\n3 - (Revogado).\n\n4 - O regime vigente para os Conservatórios Regionais de Ponta Delgada e de Angra do Heroísmo será adaptado de acordo com o disposto no presente diploma e no Decreto-Lei n.º 338/79, de 25 de Agosto, pelos órgãos de governo próprio da Região Autónoma dos Açores.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 352/93 - Diário da República n.º 235/1993, Série I-A de 1993-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1993-645304), em vigor a partir de 1993-10-12"
+  },
+  "871673892": {
+   "fragment_id": "871645955",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Maio de 1983. - Francisco José Pereira Balsemão - Alípio Barrosa Pereira Dias - João José Fraústo da Silva - António Jorge de Figueiredo Lopes.\n\nPromulgado em 8 de Junho de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 8 de Junho de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "871673893": {
+   "fragment_id": "871645956",
+   "type": 14,
+   "heading": "MAPA I — Quadro transitório do pessoal docente do Conservatório Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA I — Quadro transitório do pessoal docente do Conservatório Nacional\n\n(ver documento original)"
+  },
+  "871673894": {
+   "fragment_id": "871645957",
+   "type": 14,
+   "heading": "MAPA II — Quadro transitório do pessoal docente do Conservatório de Música do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA II — Quadro transitório do pessoal docente do Conservatório de Música do Porto\n\n(ver documento original)"
+  },
+  "871673895": {
+   "fragment_id": "871645958",
+   "type": 14,
+   "heading": "MAPA III — Quadro transitório do pessoal docente do Instituto Gregoriano de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA III — Quadro transitório do pessoal docente do Instituto Gregoriano de Lisboa\n\n(ver documento original)"
+  },
+  "871673896": {
+   "fragment_id": "871645959",
+   "type": 14,
+   "heading": "MAPA IV — Quadro transitório do pessoal docente do Conservatório de Música da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA IV — Quadro transitório do pessoal docente do Conservatório de Música da Madeira\n\n(ver documento original)"
+  },
+  "871673897": {
+   "fragment_id": "871645960",
+   "type": 14,
+   "heading": "MAPA V — Quadro transitório do pessoal docente da Escola de Música de Calouste Gulbenkian",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA V — Quadro transitório do pessoal docente da Escola de Música de Calouste Gulbenkian\n\n(ver documento original)"
+  },
+  "871673929": {
+   "fragment_id": "871645908",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2004-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Ao nível dos cursos complementares do ensino secundário, o ensino da música e o ensino da dança constituirão áreas de estudos próprios, de carácter profissionalizante, comportando os cursos de Formação Musical, de Instrumentos, de Canto e de Dança.\n\n2 - O curso de Formação Musical visa o aprofundamento da educação musical e de conhecimentos nos domínios das ciências musicais, supondo, à saída, o domínio de um instrumento de tecla ao nível do curso geral.\n\n3 - Os cursos de Instrumentos têm carácter profissionalizante, visando um domínio avançado da execução dos instrumentos e uma formação musical correspondente.\n\n4 - O curso de Canto visa a aquisição de um nível de domínio geral das técnicas vocais, simultaneamente com um aprofundamento da formação musical ao nível dos restantes cursos complementares.\n\n5 - O curso de Dança visa a formação profissional de bailarinos, através de um domínio avançado das técnicas de execução e de uma formação cultural e artística correspondente.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+  },
+  "871673930": {
+   "fragment_id": "871645909",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2004-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+   ],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Os planos de estudo dos cursos gerais e dos cursos complementares dos ensinos da música e da dança integrarão as disciplinas de formação específica e vocacional da música ou da dança e as disciplinas de formação geral dos correspondentes níveis de ensino.\n\n2 - Os planos de estudo referidos no número anterior serão organizados por forma que garantam a consecução dos objectivos próprios dos respectivos níveis de ensino, o igual valor dos diplomas do mesmo nível, a possibilidade de reorientação vocacional até ao 9.º ano de escolaridade e o acesso a qualquer área do ensino secundário complementar e ao ensino superior.\n\n3 - Os planos de estudo referidos no n.º 1 deverão assegurar uma carga horária lectiva equilibrada na qual, progressivamente, predomine a componente vocacional.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+  },
+  "871673927": {
+   "fragment_id": "871645910",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2004-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - (Revogado).\n\n2 - Nos estabelecimentos que apenas ministram o ensino da música ou da dança, a componente vocacional pode ser ministrada independentemente do currículo de formação geral frequentado ou já obtido pelo aluno, mas os diplomas dos cursos gerais e complementares só podem ser passados quando o aluno comprove possuir a habilitação de todas as disciplinas que compõem o respectivo plano de estudos.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+  },
+  "871673928": {
+   "fragment_id": "871645911",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2004-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+   ],
+   "markdown": "###### Artigo 7.º\n\n- 1 - Os alunos que terminem com aproveitamento o conjunto de disciplinas que compõem os planos de estudo dos cursos complementares de Música ou de Dança têm direito a um diploma do respectivo curso complementar, a passar pelo estabelecimento de ensino que ministrou o ensino vocacional.\n\n2 -  (Revogado).\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+  }
+ }
+}

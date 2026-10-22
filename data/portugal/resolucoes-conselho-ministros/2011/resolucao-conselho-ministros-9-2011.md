@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:280962:por
+title: Resolução do Conselho de Ministros n.º 9/2011
+short_title: null
+summary: Autoriza o Ministro de Estado e das Finanças a praticar todos os actos necessários à participação da República Portuguesa
+  no sexto aumento de capital do Banco Africano de Desenvolvimento (BAfD)
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 9/2011
+official_date: null
+publication_date: '2011-01-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 19/2011, Série I de 2011-01-27
+  number: '19'
+  series: I
+  supplement: null
+  pages: 558 - 559
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/01/01900/0055800559.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/9/2011/01/27/p/dre/pt/html
+  oj: null
+  dre: '280962'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/9-2011-280962
+  internal: pt:dre:280962:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/9-2011-280962
+  metadata_url: https://data.dre.pt/eli/resolconsmin/9/2011/01/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/9-2011-280962
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-01-27T00:00:00Z'
+integrity:
+  source_sha256: 073fdb6cd5b9a4a02361be9177cacac271fd16c085fadf69dc14d5ab011fe460
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-9-280962.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Luta contra a Pobreza
+- Aumento de Capital
+- Autorização de Despesas
+- Financiamento
+- Banco Africano de Desenvolvimento
+- Capital Social
+- Internacionalização Empresarial
+- Ministro de Estado e das Finanças
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 9/2011
+
+O Programa do XVIII Governo estabelece como prioridades da política externa de internacionalização e de cooperação de Portugal a luta contra a pobreza e a ajuda aos países menos avançados e a diversificação dos mercados internacionais das empresas portuguesas.
+
+A presente Resolução do Conselho Ministros aprova a participação de Portugal no sexto aumento de capital do Banco Africano de Desenvolvimento (BAfD) no montante de (euro) 7 293 069 e visa cumprir três objectivos: aprofundar a cooperação e a luta contra a pobreza nos países africanos, em especial nos países africanos de língua oficial portuguesa, manter a sustentabilidade dos processos de desenvolvimento dos países membros regionais, num momento de aumento da procura do financiamento do BAfD, e contribuir para diversificar os mercados de internacionalização das empresas portuguesas.
+
+Em primeiro lugar, deve referir-se que Portugal integra, desde 1983, o conjunto dos 77 países membros do BAfD. Esta instituição financeira internacional tem como missão contribuir de forma significativa para o desenvolvimento económico e social dos países membros regionais e para a luta contra a pobreza no continente africano.
+
+A adesão de Portugal ao BAfD remonta a 15 de Dezembro de 1983, data em que depositou o instrumento de vinculação ao Acordo Constitutivo do BAfD, tendo então subscrito 1008 acções, com um valor nominal unitário de 10 000 unidades de conta (UC) do BAfD, das quais 756 acções de capital exigível e 252 acções de capital realizável.
+
+Posteriormente, Portugal participou, em 1987, no quarto Aumento Geral de Capital desta instituição, subscrevendo 2016 acções (1890 de capital exigível e 126 de capital realizável) e, em 1999, no quinto Aumento Geral de Capital, subscrevendo 1875 acções (1762 de capital exigível e 113 de capital realizável).
+
+Em Abril de 2006, a participação no capital do BAfD foi novamente aumentada, mediante a subscrição de 330 acções de um grupo de 2422 acções extraordinariamente disponíveis para aquisição por países membros não regionais, das quais 289 de capital exigível e 41 de capital realizável.
+
+Portugal detém, na actualidade, um total de 5221 acções do capital desta instituição e de 6846 votos, que correspondem, respectivamente, a 0,24 % do capital do BAfD e a 0,263 % do poder de voto. O sexto Aumento Geral de Capital foi aprovado em Maio de 2010 pelo Conselho de Governadores do BAfD, prevendo-se um acréscimo na ordem dos 200 %, com uma proporção de capital realizável de 6 %, de modo a permitir o aumento do seu capital autorizado de cerca de UC 23 947 000 000 para cerca de UC 67 687 000 000, materializando este aumento através da criação de 4 374 000 novas acções, com o valor nominal unitário de UC 10 000.
+
+A subscrição deste aumento de capital permite que a participação de Portugal no capital do BAfD passe de UC 52 290 000 para UC 157 360 000, mantendo a sua quota accionista e o seu poder de voto.
+
+A participação de Portugal neste aumento de capital no montante de (euro) 7 293 069 visa permitir ao BAfD ter maior capacidade de investimento e, assim, aprofundar a cooperação e a luta contra a pobreza nos países africanos, em especial nos países africanos de língua oficial portuguesa.
+
+Em segundo lugar, está em causa um reforço do capital do BAfD. Este reforço é essencial para dotar a instituição com os recursos financeiros necessários para manter a sustentabilidade dos processos de desenvolvimento dos países membros regionais, num momento de aumento da procura do financiamento do BAfD por parte daqueles países, em consequência da crise financeira e económica global, bem como para garantir um financiamento competitivo da instituição nos mercados de capitais.
+
+A participação de Portugal neste Aumento Geral de Capital assume, deste modo, particular relevo no que respeita ao cumprimento dos Objectivos de Desenvolvimento do Milénio consagrados pelas Nações Unidas - que visam, entre outros, combater a pobreza e a fome -, mas, também, aos compromissos assumidos por Portugal a nível dos fluxos de ajuda pública ao desenvolvimento.
+
+Finalmente, o aumento de capital no BAfD permite contribuir para o aumento do investimento nos países africanos e, assim, diversificar os mercados de internacionalização das empresas portuguesas.
+
+De realçar ainda que o actual momento do BAfD é especialmente relevante para Portugal. Por um lado a Presidência do Conselho de Governadores encontra-se actualmente a cargo do Ministro de Estado e das Finanças, Governador por Portugal no Banco. E, por outro, irão realizar-se no nosso território as reuniões anuais das assembleias de governadores do grupo do BAfD, nos próximos dias 9 e 10 de Junho de 2011.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar o Ministro de Estado e das Finanças, com a faculdade de delegação, a praticar todos os actos necessários à participação de Portugal no sexto Aumento Geral de Capital Social do Banco Africano de Desenvolvimento (BAfD), através da subscrição de 10 507 novas acções do capital desta instituição, das quais 9877 acções relativas a capital exigível e 630 acções de capital realizável.
+
+2 - Determinar que a subscrição de capital realizável, no montante de 6 300 000 de unidades de conta (UC) do BAfD, se concretiza através do depósito do Instrumento de Subscrição junto do BAfD, que deve ocorrer até à terceira semana de Janeiro de 2011.
+
+3 - Estabelecer que o pagamento da subscrição de capital realizável é efectuado em oito prestações anuais iguais, no montante de UC 787 500 cada uma, que corresponde a (euro) 911 634, à taxa de câmbio de UC 1:EUR 1,15763, nos termos definidos na Resolução do Conselho de Governadores do BAfD, B/BG/2010/08, de 27 de Maio de 2010.
+
+4 - Determinar que o primeiro pagamento das prestações a que se refere o número anterior deve ser feito até um ano após o depósito do Instrumento de Subscrição junto do BAfD, sendo as restantes sete prestações anuais sucessivamente, com a periodicidade de um ano, relativamente à data do primeiro pagamento.
+
+5 - Determinar que a subscrição do capital se torna efectiva, cumulativamente, com o depósito do Instrumento de Subscrição referido no n.º 2 e o primeiro pagamento respeitante ao capital realizável.
+
+6 - Autorizar o Ministro de Estado e das Finanças a inscrever no Orçamento do Estado as verbas referentes aos encargos inerentes à participação de Portugal no sexto Aumento Geral de Capital do BAfD.
+
+Presidência do Conselho de Ministros, 6 de Janeiro de 2011. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

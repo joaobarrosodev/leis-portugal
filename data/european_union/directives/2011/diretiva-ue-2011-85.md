@@ -1,0 +1,373 @@
+---
+schema_version: '1.0'
+id: eu:celex:32011L0085:por
+title: Directiva 2011/85/UE do Conselho, de 8 de Novembro de 2011
+short_title: null
+summary: Directiva 2011/85/UE do Conselho, de 8 de Novembro de 2011 , que estabelece requisitos aplicáveis aos quadros orçamentais
+  dos Estados-Membros
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2011/85
+official_date: null
+publication_date: '2011-11-23'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 306 de 23.11.2011
+  number: '306'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/014853a2-4c93-44ee-8245-0a5d67214432.0022.02/DOC_1
+entry_into_force_dates:
+- '2011-12-13'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2024-04-30'
+identifiers:
+  celex: 32011L0085
+  eli: http://data.europa.eu/eli/dir/2011/85/oj
+  oj: oj:JOL_2011_306_R_0041_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32011L0085:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32011L0085
+  metadata_url: http://publications.europa.eu/resource/cellar/014853a2-4c93-44ee-8245-0a5d67214432.0022
+  content_url: http://publications.europa.eu/resource/cellar/bee3f5ce-22cf-11ef-a251-01aa75ed71a1.0019.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0085-20240430
+  retrieved_at: '2026-10-22T02:59:45Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-08-12T06:35:19.149+02:00'
+integrity:
+  source_sha256: 6ab74442bf48d2d369e3b76a0616bcb2404c02c1ffb671a9e4f7ebdd5e5cfbd5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:59:45Z'
+  notes: Texto consolidado 02011L0085-20240430.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- aplicação do direito da UE
+- défice orçamental
+- estimativa orçamental
+- orçamento do Estado
+- planeamento nacional
+relationships:
+- type: amended_by
+  target: celex:32024L1265
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2d2b0aa4-068f-11ef-a251-01aa75ed71a1
+  date: '2024-04-30'
+- type: based_on
+  target: celex:12010E126
+  label: null
+  source: http://publications.europa.eu/resource/cellar/388125e2-2c02-493c-b7f4-a2c26ef01184
+  date: '2010-04-27'
+- type: cited_by
+  target: pt:dre:140431167:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:496731:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31996R2223
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1c8f3088-0209-4105-8438-2d29679a2c56
+- type: cites
+  target: celex:31997R1466
+  label: null
+  source: http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb
+- type: cites
+  target: celex:31997R1467
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ae929f3c-9e32-4da9-a9c6-1adae414970a
+- type: cites
+  target: celex:32003Q1231(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7b999342-40f9-4b00-9a7c-c5185db1f34c
+- type: cites
+  target: celex:32009R0223
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d3a247f3-7458-4c24-a96a-7b5670defd10
+- type: cites
+  target: celex:32009R0479
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2c0f7612-1bcf-4aff-b34b-a80517154b0e
+- type: interpreted_by
+  target: celex:62021CJ0363
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3162d323-2159-11ee-94cb-01aa75ed71a1
+  date: '2023-07-13'
+article_structure:
+  article_count: 18
+  section_count: 14
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:59:45Z'
+  warnings: []
+  errors: []
+---
+
+# Directiva 2011/85/UE do Conselho, de 8 de Novembro de 2011
+
+> 02011L0085 — PT — 30.04.2024 — 001.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterada por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32024L1265) — [DIRETIVA (UE) 2024/1265 DO CONSELHO de 29 de abril de 2024](http://publications.europa.eu/resource/celex/32024L1265) — L 1265 — 1 — 30.4.2024
+
+## DIRECTIVA 2011/85/UE DO CONSELHO
+
+de 8 de Novembro de 2011
+
+que estabelece requisitos aplicáveis aos quadros orçamentais dos Estados-Membros
+
+## CAPÍTULO I
+
+### OBJECTO E DEFINIÇÕES
+
+###### Artigo 1.º
+
+A presente directiva estabelece regras específicas relativas às características dos quadros orçamentais dos Estados-Membros. Essas regras são necessárias para garantir que os Estados-Membros cumprem as obrigações previstas no TFUE, tendo em vista evitar défices orçamentais excessivos.
+
+###### Artigo 2.º
+
+Para efeitos da presente directiva, são aplicáveis as definições de «orçamental», «défice» e «investimento» estabelecidas no artigo 2.º do Protocolo (n.º 12) sobre o procedimento relativo aos défices excessivos, anexo ao TEU e ao TFUE. [**►M1**](http://publications.europa.eu/resource/celex/32024L1265) É aplicável a definição dos subsetores das administrações públicas constante do anexo A do Regulamento (UE) n.º 549/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/bee3f5ce-22cf-11ef-a251-01aa75ed71a1.0019.02/DOC_1#E0001)).**◄**
+
+Além disso, é aplicável a seguinte definição:
+
+entende-se por «quadro orçamental» o conjunto de medidas, procedimentos, regras e instituições em que assenta a condução das políticas orçamentais da administração pública, em especial:
+
+a) Os sistemas de contabilidade pública e de informação estatística das administrações públicas;
+
+b) As regras e os procedimentos que regem a preparação das previsões para efeitos de planeamento orçamental;
+
+c) As regras orçamentais numéricas, específicas de cada país, que contribuem para a coerência da condução das políticas orçamentais pelos Estados-Membros com as obrigações que lhes incumbem nos termos do TFUE, e que são expressas em termos de um indicador do desempenho orçamental, tal como o défice orçamental, os empréstimos ou a dívida das administrações públicas, ou uma das suas componentes mais importantes;
+
+d) Os procedimentos orçamentais que incluem regras processuais para apoiar todas as fases do processo orçamental;
+
+e) Os quadros orçamentais de médio prazo definidos enquanto conjunto específico de procedimentos orçamentais nacionais que alargam o horizonte das políticas orçamentais para além do calendário de orçamentação anual, incluindo a definição de prioridades políticas e de objetivos orçamentais nacionais no médio prazo;
+
+f) Os procedimentos de controlo e análise independentes destinados a reforçar a transparência dos elementos do processo orçamental;
+
+g) Os mecanismos e regras que regem as relações orçamentais entre as autoridades públicas em todos os subsectores da administração pública;
+
+h) Instituições orçamentais independentes, enquanto organismos estruturalmente independentes ou organismos dotados de autonomia funcional em relação às autoridades orçamentais dos Estados-Membros, estabelecidas por disposições legais nacionais nos termos do artigo 8.º-A.
+
+## CAPÍTULO II
+
+### CONTABILIDADE PÚBLICA E ESTATÍSTICAS
+
+###### Artigo 3.º
+
+1. No que diz respeito aos sistemas nacionais de contabilidade pública, os Estados-Membros criam sistemas contabilísticos que abranjam, de forma integral e coerente, todos os subsetores da administração pública e que contenham as informações necessárias para gerar dados de exercício, com vista à elaboração dos dados baseados no Sistema Europeu de Contas Nacionais e Regionais. Os referidos sistemas de contabilidade pública das administrações públicas devem estar sujeitos a controlo interno e a auditorias independentes.
+
+2. Os Estados-Membros asseguram a divulgação periódica e atempada dos dados orçamentais relativos a todos os subsetores das administrações públicas, tal como estabelecidos no Regulamento (UE) n.º 549/2013. Em especial, os Estados-Membros publicam, para a administração central, a administração estadual, a administração local e os fundos de segurança social, dados trimestrais separadamente sobre a dívida e, a menos que disponham de sistemas contabilísticos baseados na contabilidade de exercício integrados, exaustivos e harmonizados a nível nacional, sobre o défice, antes do final do trimestre seguinte ou após a publicação dos dados pertinentes pela Comissão (Eurostat).
+
+3. A Comissão (Eurostat) publica a cada três meses as estatísticas trimestrais das finanças públicas de acordo com os quadros 25, 27 e 28 do anexo B do Regulamento (UE) n.º 549/2013.
+
+## CAPÍTULO III
+
+### PREVISÕES
+
+###### Artigo 4.º
+
+1. Os Estados-Membros asseguram que o planeamento orçamental anual e plurianual se baseia em previsões macroeconómicas e orçamentais realistas, recorrendo, para isso, às informações mais atualizadas. O planeamento orçamental deve basear-se no cenário macro-orçamental mais provável ou num cenário mais prudente. As previsões macroeconómicas e orçamentais devem ser comparadas com as previsões mais atualizadas da Comissão e, se adequado, com as de outros organismos independentes. As diferenças significativas entre as previsões macroeconómicas e orçamentais do Estado-Membro e as previsões da Comissão devem ser fundamentadas, nomeadamente se o nível ou o crescimento das variáveis dos pressupostos externos divergir significativamente dos valores constantes das previsões da Comissão.
+
+2. A Comissão torna públicas as metodologias, os pressupostos e os parâmetros relevantes, subjacentes às suas previsões macroeconómicas e orçamentais.
+
+3. A fim de apoiar os Estados-Membros na elaboração das suas previsões orçamentais, a Comissão fornece previsões da despesa da União, com base no nível da despesa programada no âmbito do quadro financeiro plurianual.
+
+5. Os Estados-Membros devem identificar a instituição que é responsável pela elaboração das previsões macroeconómicas e orçamentais, e tornar públicas as previsões oficiais macroeconómicas e orçamentais elaboradas para efeitos de planeamento orçamental. Uma vez por ano, pelo menos, os Estados-Membros e a Comissão devem estabelecer um diálogo técnico sobre os pressupostos subjacentes à elaboração das previsões macroeconómicas e orçamentais.
+
+6. As previsões macroeconómicas e orçamentais para efeitos de planeamento orçamental anual e plurianual devem ser objeto de uma avaliação *ex post* periódica, objetiva e exaustiva, realizadas por um organismo independente ou por outros organismos com autonomia funcional em relação às autoridades orçamentais dos Estados-Membros diferente daquele que elabora as previsões. O resultado desta avaliação deve ser tornado público e devidamente tido em conta em futuras previsões macroeconómicas e orçamentais. Se a avaliação detetar uma discrepância significativa que afete as previsões macroeconómicas durante um período de, pelo menos, quatro anos consecutivos, o Estado-Membro em causa deve tomar as medidas necessárias e torná-las públicas.
+
+## CAPÍTULO IV
+
+### REGRAS ORÇAMENTAIS NUMÉRICAS
+
+###### Artigo 5.º
+
+Cada Estado-Membro estabelece as suas regras orçamentais numéricas específicas a fim de promover eficazmente o cumprimento das suas obrigações decorrentes do TFUE no domínio da política orçamental num período plurianual para o conjunto das administrações públicas. Essas regras devem promover, nomeadamente:
+
+a) O cumprimento dos valores de referência e das disposições relativas ao défice e à dívida estabelecidos no artigo 1.º do Protocolo n.º 12 sobre o procedimento relativo aos défices excessivos, anexo ao TUE e ao TFUE;
+
+b) A adoção de um horizonte de planeamento orçamental no médio prazo, coerente com o Regulamento (UE) 2024/1263 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/bee3f5ce-22cf-11ef-a251-01aa75ed71a1.0019.02/DOC_1#E0002)).
+
+###### Artigo 6.º
+
+1.
+
+Sem prejuízo das disposições do TFUE relativas ao quadro de supervisão orçamental da União, as regras orçamentais numéricas, específicas para cada país, devem conter especificações sobre os seguintes elementos:
+
+a) A definição do objectivo e o âmbito de aplicação das regras;
+
+b) O controlo efetivo e atempado do cumprimento das regras, com base numa análise fiável e independente efetuada por instituições orçamentais independentes criadas nos termos do artigo 8.º-A, ou outros organismos dotados de autonomia funcional em relação às autoridades orçamentais dos Estados-Membros;
+
+c) As consequências em caso de incumprimento.
+
+2. Se as regras orçamentais numéricas contiverem cláusulas de derrogação, estas devem estabelecer um número limitado de circunstâncias específicas, compatíveis com as obrigações que incumbem aos Estados-Membros ao abrigo do TFUE e do Regulamento (UE) 2024/1263.
+
+###### Artigo 7.º
+
+A legislação orçamental anual dos Estados-Membros deve ser coerente com as regras orçamentais numéricas específicas de cada país em vigor.
+
+## CAPÍTULO V
+
+### INSTITUIÇÕES ORÇAMENTAIS INDEPENDENTES
+
+###### Artigo 8.º-A
+
+1. Os Estados-Membros asseguram que são estabelecidas, com base nas disposições legislativas, regulamentares ou administrativas vinculativas nacionais, instituições orçamentais independentes.
+
+2. Os Estados-Membros podem estabelecer mais do que uma instituição orçamental independente.
+
+3. As instituições orçamentais independentes são compostas por membros designados e nomeados com base na sua experiência e competência em matéria de finanças públicas, macroeconomia ou gestão orçamental, e através de procedimentos transparentes.
+
+4.
+
+As instituições orçamentais independentes:
+
+a) Não aceitam instruções das autoridades orçamentais do Estado-Membro em causa nem de qualquer outro organismo público ou privado;
+
+b) Têm a capacidade de comunicar pública e tempestivamente os seus pareceres e avaliações;
+
+c) Dispõem de recursos adequados e estáveis para desempenhar as suas atribuições com eficácia, incluindo qualquer tipo de análise no âmbito das suas atribuições;
+
+d) Têm acesso adequado e tempestivo às informações necessárias ao cumprimento das suas atribuições;
+
+e) São objeto de avaliações externas periódicas por avaliadores independentes.
+
+5.
+
+Sem prejuízo das atribuições e funções conferidas nos termos do Regulamento (UE) n.º 473/2013 aos Estados-Membros cuja moeda é o euro, todos os Estados-Membros asseguram que as seguintes atribuições sejam assumidas por uma das instituições orçamentais independentes:
+
+a) Elaborar, avaliar ou aprovar previsões macroeconómicas anuais e plurianuais;
+
+b) Controlar o cumprimento das regras orçamentais numéricas específicas de cada país, exceto se esse controlo for levado a cabo por outros organismos em conformidade com o artigo 6.º;
+
+c) Exercer as atribuições em conformidade com o artigo 11.º, o artigo 15.º, n.º 3, e o artigo 23.º do Regulamento (UE) 2024/1263 e com o artigo 3.º, n.º 5, do Regulamento (CE) n.º 1467/97 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/bee3f5ce-22cf-11ef-a251-01aa75ed71a1.0019.02/DOC_1#E0003));
+
+d) Avaliar a consistência, a coerência e a eficácia do quadro orçamental nacional;
+
+e) Participar, por convite, em audições e debates periódicos no parlamento nacional.
+
+6. As instituições orçamentais independentes devem emitir avaliações no contexto das atribuições a que se refere o n.º 5, alíneas a), b), c) ou d), do presente artigo, sem prejuízo das atribuições e funções conferidas nos termos do Regulamento (UE) n.º 473/2013. Os Estados-Membros devem dar cumprimento a essas avaliações ou devem explicar por que razão não o fazem. Essa explicação deve ser pública e apresentada no prazo de dois meses a contar da data de emissão dessas avaliações.
+
+###### Artigo 9.º
+
+1. Os Estados-Membros devem estabelecer um quadro orçamental nacional de médio prazo eficaz e credível que preveja a adoção de um horizonte de planeamento orçamental de, pelo menos, três anos, a fim de assegurar que o planeamento orçamental nacional se inscreve numa perspetiva de planeamento orçamental plurianual.
+
+2.
+
+Os quadros orçamentais nacionais de médio prazo devem incluir procedimentos para estabelecer os seguintes elementos:
+
+a) Objetivos orçamentais nacionais abrangentes e transparentes no médio prazo como referido no artigo 2.º, segundo parágrafo, alínea e), da presente diretiva, em termos de défice ou dívida das administrações públicas e de qualquer outro indicador orçamental, tal como as despesas, assegurando a sua compatibilidade com quaisquer regras orçamentais numéricas específicas de cada país previstas no capítulo IV da presente diretiva e com as disposições aplicáveis do Regulamento (UE) 2024/1263;
+
+b) Projecções em relação às rubricas mais relevantes em termos de despesas e receitas da administração pública, com mais especificações ao nível da administração central e da segurança social, para o exercício em causa e para os seguintes, com base em políticas que não sofreram alterações;
+
+c) Uma descrição das políticas de médio prazo previstas, que incluem as reformas e os investimentos, com impacto nas finanças das administrações públicas e no crescimento sustentável e inclusivo, distribuídas pelas rubricas mais relevantes em termos de despesas e receitas, revelando a forma como é realizado o ajustamento aos objetivos orçamentais nacionais no médio prazo, como referido no artigo 2.º, segundo parágrafo, alínea e), em comparação com as projeções baseadas num cenário de políticas inalteradas;
+
+d) Uma avaliação do modo como, atendendo ao seu impacto direto no médio e no longo prazo sobre as finanças das administrações públicas, as políticas previstas poderão vir a afetar a sustentabilidade das finanças públicas no médio e no longo prazo e o crescimento sustentável e inclusivo. Na medida do possível, a avaliação deve ter em conta os riscos macro-orçamentais decorrentes das alterações climáticas e os seus impactos ambientais e distributivos.
+
+###### Artigo 10.º
+
+A legislação orçamental anual deve ser compatível com os objetivos orçamentais nacionais no médio prazo, como referido no artigo 2.º, segundo parágrafo, alínea e). Qualquer desvio deve ser devidamente fundamentado.
+
+###### Artigo 11.º
+
+Nenhuma disposição da presente diretiva impede um Estado-Membro, no caso de um governo recém-nomeado, de atualizar o seu plano orçamental de médio prazo, de modo a refletir as suas novas prioridades políticas. Nesse caso, o Estado-Membro deve indicar as diferenças entre o anterior e o novo plano orçamental de médio prazo.
+
+## CAPÍTULO VI
+
+### TRANSPARÊNCIA DAS FINANÇAS DAS ADMINISTRAÇÕES PÚBLICAS
+
+###### Artigo 12.º
+
+Os Estados-Membros asseguram que quaisquer medidas tomadas em cumprimento dos capítulos II, III e IV são coerentes de forma transversal a todos os subsetores das administrações públicas e abrangem exaustivamente esses mesmos subsetores. Para o efeito, os Estados-Membros devem, em especial, dispor de regras e procedimentos contabilísticos coerentes da parte das administrações públicas e asseguram a integridade dos respetivos sistemas subjacentes de recolha e tratamento de dados.
+
+###### Artigo 13.º
+
+1. Os Estados-Membros devem estabelecer mecanismos adequados de coordenação entre os subsectores da administração pública, por forma a assegurar a cobertura exaustiva e coerente de todos esses subsectores no planeamento orçamental, nas regras orçamentais numéricas, específicas para cada país, bem como na elaboração de previsões orçamentais e no estabelecimento do planeamento plurianual, tal como previsto, em particular, no quadro orçamental plurianual.
+
+2. A fim de promover a responsabilização orçamental, deve ser claramente estabelecida a responsabilidade das autoridades públicas nos diferentes subsectores da administração pública.
+
+###### Artigo 14.º
+
+1. No âmbito dos processos orçamentais anuais e plurianuais, os Estados-Membros publicam informações sobre os organismos e os fundos que não fazem parte dos orçamentos ordinários, mas que fazem parte das administrações públicas, incluindo os subsetores destas. Os Estados-Membros publicam igualmente os montantes correspondentes ao impacto combinado desses organismos e fundos no saldo e na dívida das administrações públicas.
+
+2. Os Estados-Membros publicam informações pormenorizadas sobre o impacto das despesas fiscais nas receitas.
+
+3. Relativamente a todos os subsetores das administrações públicas, os Estados-Membros publicam informações pertinentes sobre passivos contingentes com impacto potencialmente elevado nos orçamentos públicos, incluindo as garantias estatais, os empréstimos não produtivos e os passivos decorrentes das operações de empresas públicas, definindo ainda a extensão dos mesmos. Os Estados-Membros publicam igualmente, na medida do possível, informações sobre os passivos contingentes relacionados com catástrofes e o clima. As informações publicadas devem ter em conta, na medida do possível, as informações sobre os custos orçamentais incorridos devido a catástrofes e choques relacionados com o clima. Os Estados-Membros publicam informações sobre as participações de montantes economicamente significativos das administrações públicas no capital de empresas privadas e públicas.
+
+## CAPÍTULO VII
+
+### DISPOSIÇÕES FINAIS
+
+###### Artigo 15.º
+
+1. Até 31 de Dezembro de 2013, os Estados-Membros põem em vigor as disposições necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições. O Conselho encoraja os Estados-Membros a elaborarem, para si próprios e no interesse da União, os seus próprios quadros de correspondência que ilustrem, na medida do possível, a concordância entre a presente directiva e as medidas de transposição, e a publicá-los.
+
+2. Quando os Estados-Membros aprovarem essas disposições, estas incluem uma referência à presente directiva ou são acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são estabelecidas pelos Estados-Membros.
+
+3. Até 14 de Dezembro de 2012, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório intercalar sobre a implementação das principais disposições da presente directiva, com base nas informações pertinentes fornecidas pelos Estados-Membros.
+
+4. Os Estados-Membros comunicam à Comissão o texto das principais disposições que aprovarem nas matérias reguladas pela presente directiva.
+
+###### Artigo 16.º
+
+1.
+
+Até 31 de dezembro de 2025, e posteriormente de cinco em cinco anos, a Comissão apresenta um relatório sobre o ponto da situação da:
+
+a) Contabilidade pública das administrações públicas na União, tendo em conta os progressos realizados desde a sua avaliação de 2013 da adequação das Normas Internacionais de Contabilidade do Setor Público para os Estados-Membros;
+
+b) Capacidade e das atribuições das instituições orçamentais independentes que existem na União, tendo em conta os progressos realizados desde a entrada em vigor da presente diretiva, com base nas conclusões da base de dados relativa à governação orçamental da Comissão e nas consultas com as partes interessadas pertinentes, com vista a explorar normas mínimas.
+
+2. Até 31 de dezembro de 2030, e posteriormente de cinco em cinco anos, a Comissão publica uma avaliação da eficácia da presente diretiva.
+
+###### Artigo 17.º
+
+A presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+###### Artigo 18.º
+
+Os destinatários da presente directiva são os Estados-Membros.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/bee3f5ce-22cf-11ef-a251-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 549/2013 do Parlamento Europeu e do Conselho, de 21 de maio de 2013, relativo ao sistema europeu de contas nacionais e regionais na União Europeia (JO L 174 de 26.6.2013, p. 1).**◄**
+
+> ([^2^](http://publications.europa.eu/resource/cellar/bee3f5ce-22cf-11ef-a251-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) 2024/1263 do Parlamento Europeu e do Conselho, de 29 de abril de 2024, relativo à coordenação eficaz das políticas económicas e à supervisão orçamental multilateral e que revoga o Regulamento (CE) n.º 1466/97 do Conselho (JO L, 2024/1263, 30.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1263/oj).;
+
+> ([^3^](http://publications.europa.eu/resource/cellar/bee3f5ce-22cf-11ef-a251-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento (CE) n.º 1467/97 do Conselho, de 7 de julho de 1997, relativo à aceleração e clarificação da aplicação do procedimento relativo aos défices excessivos (JO L 209 de 2.8.1997, p. 6).

@@ -1,0 +1,327 @@
+---
+schema_version: '1.0'
+id: pt:dre:279431:por
+title: Decreto Regulamentar n.º 2/2011
+short_title: null
+summary: Introduz novos símbolos e sinais de informação relativos à cobrança electrónica de portagens em lanços e sublanços
+  de auto-estradas e aos radares de controlos de velocidades, procedendo à quarta alteração do Regulamento de Sinalização
+  do Trânsito, aprovado pelo Decreto Regulamentar n.º 22-A/98, de 1 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 2/2011
+official_date: null
+publication_date: '2011-03-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/2011, Série I de 2011-03-03
+  number: '44'
+  series: I
+  supplement: null
+  pages: 1280 - 1283
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/03/04400/0128001283.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/2/2011/03/03/p/dre/pt/html
+  oj: null
+  dre: '279431'
+  dre_path: /dr/detalhe/decreto-regulamentar/2-2011-279431
+  internal: pt:dre:279431:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2011-279431
+  metadata_url: https://data.dre.pt/eli/decregul/2/2011/03/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2011-279431
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-10-22T00:00:00Z'
+integrity:
+  source_sha256: 91ef21272501fa91c3a41fddf7cd4fb14cf944e258ac89c9bef0021aba875423
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-2-279431.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código da Estrada
+- Segurança Rodoviária
+- Portagem
+- Regulamento de Sinalização do Trânsito
+- Sinalização
+- Trânsito
+relationships:
+- type: amended_by
+  target: pt:dre:125560578:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/39/2010/04/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/39/2010/04/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/13/2003/06/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/13/2003/06/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/22-a/1998/10/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/22-a/1998/10/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/41/2002/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/41/2002/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/54/2009/06/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/54/2009/06/26/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 2/2011
+
+de 3 de Março
+
+O presente decreto regulamentar cria novos símbolos e sinais de informação relativos i) à cobrança electrónica de portagens em lanços e sublanços de auto-estradas e ii) aos radares de controlos de velocidades.
+
+Em primeiro lugar, são criados novos sinais destinados a avisarem o utente de que se encontra numa área sujeita à cobrança electrónica de portagens.
+
+A introdução de portagens em auto-estradas onde actualmente se encontra instituído o regime «Sem custos para o utilizador» (SCUT) encontra-se prevista, no Programa de Estabilidade e Crescimento 2010-2013, para obter a necessária consolidação das contas públicas e assegurar uma maior equidade e justiça social.
+
+A introdução das portagens em lanços e sublanços de auto-estrada fica sujeita ao modelo de cobrança electrónica, não existindo, em regra, uma zona delimitada de portagens como a conhecemos actualmente.
+
+Nessa medida, importa prestar aos utentes daquelas infra-estruturas rodoviárias informação relativa a esta nova realidade, através de um símbolo adequado e da correspondente sinalização, dando a conhecer que o mesmo se encontra numa zona sujeita a cobrança electrónica de portagens.
+
+A regulação dos sinais em questão visa a garantia do consumidor para que o mesmo possa saber e conhecer, através da sinalização, que está a entrar numa estrada com portagens ou que se encontra na sua linha de radar.
+
+Em segundo lugar, são aprovados novos sinais destinados a avisar o utente de que este se encontra numa área de fiscalização automática de velocidade.
+
+A Estratégia Nacional de Segurança Rodoviária, aprovada pela [Resolução do Conselho de Ministros n.º 54/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-2009-491955), de 26 de Junho, prevê como objectivo o controlo automático da velocidade, através da implementação de um sistema nacional de fiscalização automática da velocidade, que tem como desiderato o cumprimento dos limites legais da velocidade e, consequentemente, a redução da sinistralidade rodoviária.
+
+O sistema de fiscalização automática da velocidade, a nível nacional, é inovador. Assim, importa prestar aos utentes das vias, onde os equipamentos para o efeito são instalados, informação relativa a esta realidade através de símbolo adequado e respectiva sinalização.
+
+Altera-se, assim, o Regulamento de Sinalização do Trânsito, aprovado pelo [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de Outubro, alterado pelos Decretos Regulamentares n.os [13/2003](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2003-693791), de 26 de Junho, e [41/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2002-171679), de 20 de Agosto, e pelo [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 6.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio, e da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao Regulamento de Sinalização de Trânsito
+
+O artigo 34.º do Regulamento de Sinalização do Trânsito, aprovado pelo [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de Outubro, alterado pelos Decretos Regulamentares n.os [41/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2002-171679), de 20 de Agosto, e [13/2003](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2003-693791), de 26 de Junho, e pelo [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril, passa a ter a seguinte redacção:
+
+«Artigo 34.º
+
+[...]
+
+...
+
+H1a - ...
+
+H1b - ...
+
+H2 - ...
+
+H3 - ...
+
+H4 - ...
+
+H5 - ...
+
+H6 - ...
+
+H7 - ...
+
+H8a e H8b - ...
+
+H9 - ...
+
+H10 - ...
+
+H11 - ...
+
+H12 - ...
+
+H13a - ...
+
+H13b - ...
+
+H13c - ...
+
+H13d - ...
+
+H14a - ...
+
+H14b - ...
+
+H14c - ...
+
+H15 - ...
+
+H16a - ...
+
+H16b - ...
+
+H16c - ...
+
+H16d - ...
+
+H17 - ...
+
+H18 - ...
+
+H19 - ...
+
+H20a - ...
+
+H20b - ...
+
+H20c - ...
+
+H21 - ...
+
+H22 - ...
+
+H23 - ...
+
+H24 - ...
+
+H25 - ...
+
+H26 - ...
+
+H27 - ...
+
+H28 - ...
+
+H29a e H29b - ...
+
+H30 - ...
+
+H31a, H31b, H31c e H31d - ...
+
+H32 - ...
+
+H33 - ...
+
+H34 - ...
+
+H35 - ...
+
+H36 - ...
+
+H37 - ...
+
+H38 - ...
+
+H39 - ...
+
+H40 - ...
+
+H41 - ...
+
+H42 - ...
+
+H43 - Velocidade instantânea: indicação de via sujeita a fiscalização de velocidade;
+
+H44a - Lanço com cobrança electrónica de portagem: indicação de um lanço de auto-estrada sujeito a cobrança electrónica de portagem;
+
+H44b - Lanço com cobrança electrónica de portagem: indicação de um lanço de auto-estrada sujeito a cobrança electrónica de portagem, situado à distância, em metros, indicada no sinal;
+
+H44c - Lanço com cobrança electrónica de portagem: indicação de um lanço de auto-estrada sujeito a cobrança electrónica de portagem, na direcção da via de saída indicada pela seta;
+
+H45 - Fim de lanço com cobrança electrónica de portagem: indicação de que terminou o lanço de auto-estrada sujeito a cobrança electrónica de portagem.»
+
+###### Artigo 2.º — Alteração ao quadro VIII anexo ao Regulamento de Sinalização de Trânsito
+
+São aditados ao quadro viii anexo ao Regulamento de Sinalização do Trânsito, aprovado pelo [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de Outubro, alterado pelos Decretos Regulamentares n.os [41/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2002-171679), de 20 de Agosto, e [13/2003](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2003-693791), de 26 de Junho, e pelo [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril, os sinais H43, H44a, H44b, H44c e H45, constantes do anexo i do presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 3.º — Alteração ao quadro XXI anexo ao Regulamento de Sinalização de Trânsito
+
+É aditado ao quadro xxi, n.º 2, «Outras indicações», anexo ao Regulamento de Sinalização do Trânsito, aprovado pelo [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de Outubro, alterado pelos Decretos Regulamentares n.os [41/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2002-171679), de 20 de Agosto, e [13/2003](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2003-693791), de 26 de Junho, e pelo [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril, o símbolo «2.29 - Cobrança electrónica de portagem», de acordo com o constante do anexo ii do presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 4.º — Alteração ao quadro XXIX anexo ao Regulamento de Sinalização de Trânsito
+
+São aditados ao quadro xxix anexo ao Regulamento de Sinalização do Trânsito, aprovado pelo [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de Outubro, alterado pelos Decretos Regulamentares n.os [41/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2002-171679), de 20 de Agosto, e [13/2003](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2003-693791), de 26 de Junho, e pelo [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril, os sinais H43, H44a, H44b, H44c e H45, constante do anexo iii do presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 5.º — Produção de efeitos
+
+O presente decreto regulamentar produz efeitos no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Rui Carlos Pereira - António Augusto da Ascenção Mendonça.
+
+**Promulgado em 11 de Fevereiro de 2011.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 17 de Fevereiro de 2011.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+## ANEXO I — (a que se refere o artigo 2.º)
+
+QUADRO VIII
+
+Sinais de informação
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04400/0128001283.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04400/0128001283.pdf)
+
+## ANEXO II — (a que se refere o artigo 3.º)
+
+QUADRO XXI
+
+Símbolos
+
+[...]
+
+2 - Outras indicações
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04400/0128001283.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04400/0128001283.pdf)
+
+## ANEXO III — (a que se refere o artigo 4.º)
+
+QUADRO XXIX
+
+Sinais de informação
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04400/0128001283.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04400/0128001283.pdf)

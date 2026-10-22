@@ -1,0 +1,397 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:146185:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2011-73058899",
+ "dre_path": "/dr/detalhe/lei/57-2011-146185",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-11-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124527304",
+    "73058996",
+    "73058997",
+    "73058998",
+    "73058999",
+    "73059000",
+    "73059001",
+    "73059002",
+    "73059003",
+    "73059004",
+    "73059005",
+    "73059006",
+    "73059007",
+    "73059008",
+    "73059009"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "73058995",
+    "73058996",
+    "73054590",
+    "73058998",
+    "73058999",
+    "73059000",
+    "73059001",
+    "73059002",
+    "73059003",
+    "73059004",
+    "73059005",
+    "73059006",
+    "73059007",
+    "73059008",
+    "73059009",
+    "73054589"
+   ]
+  },
+  {
+   "date": "2019-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124500718:por",
+     "title": "Lei n.º 104/2019",
+     "published": "2019-09-06",
+     "dre_path": "/dr/detalhe/lei/104-2019-124500718"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "124527304",
+    "124527305",
+    "124527306",
+    "124527307",
+    "124527308",
+    "124527309",
+    "124527310",
+    "124527311",
+    "124527312",
+    "124527313",
+    "124527314",
+    "124527315",
+    "124527316",
+    "124527317",
+    "124527318",
+    "124527319"
+   ]
+  }
+ ],
+ "fragments": {
+  "124527304": {
+   "fragment_id": "73058900",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-09-07",
+   "changed_by": [],
+   "markdown": "Lei n.º 57/2011\n\nde 28 de Novembro\n\nInstitui e regula o funcionamento do Sistema de Informação da Organização do Estado (SIOE)\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "73058996": {
+   "fragment_id": "73058901",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei institui o Sistema de Informação da Organização do Estado (SIOE) e regula o seu funcionamento."
+  },
+  "73058997": {
+   "fragment_id": "73058902",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA presente lei aplica-se a todos os serviços integrados, serviços e fundos autónomos, Regiões Autónomas, autarquias locais e outras entidades que integrem o universo das administrações públicas em contas nacionais."
+  },
+  "73058998": {
+   "fragment_id": "73058903",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos do SIOE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos do SIOE\n\nO SIOE é uma base de dados relativos à caracterização de entidades públicas e dos respectivos recursos humanos com vista a habilitar os órgãos de governo próprios com a informação indispensável para definição das políticas de organização do Estado e da gestão dos respectivos recursos humanos."
+  },
+  "73058999": {
+   "fragment_id": "73058904",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidade gestora do SIOE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidade gestora do SIOE\n\n1 - A Direcção-Geral da Administração e do Emprego Público é a entidade gestora e detentora do SIOE.\n\n2 - A entidade gestora do SIOE assegura a organização, gestão e desenvolvimento da base de dados do SIOE, competindo-lhe designadamente:\n\na) Organizar e tratar a informação recolhida para os objectivos previstos na presente lei;\n\nb) Disponibilizar, na sua página electrónica [www.dgaep.gov.pt], os dados de caracterização das entidades públicas e o respectivo número global de efectivos de pessoal;\n\nc) Promover a divulgação da periodicidade e prazos de carregamento de dados a que se refere a presente lei;\n\nd) Prestar as informações necessárias às entidades públicas para o integral cumprimento do disposto na presente lei;\n\ne) Preparar e divulgar manuais de operação e de consulta do SIOE;\n\nf) Integrar informação do SIOE e proveniente de outras fontes relevantes para a produção de indicadores estatísticos sobre a organização e o emprego na Administração Pública.\n\n3 - A entidade gestora do SIOE pode criar as soluções electrónicas para o carregamento automático da informação a reportar pelas entidades previstas no artigo 2.º"
+  },
+  "73059000": {
+   "fragment_id": "73058905",
+   "type": 11,
+   "heading": "Artigo 5.º — Caracterização das entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Caracterização das entidades públicas\n\n1 - A caracterização das entidades públicas no SIOE inclui, designadamente, os seguintes dados relativos a cada entidade:\n\na) A designação;\n\nb) O diploma ou acto de criação e o diploma regulador;\n\nc) A data de criação e de eventual reorganização ou alteração;\n\nd) A missão;\n\ne) A caracterização dos órgãos de direcção e identificação, estatuto e elementos curriculares dos seus titulares;\n\nf) A morada;\n\ng) O endereço electrónico;\n\nh) A página electrónica;\n\ni) O número de identificação de pessoa colectiva (NIPC);\n\nj) A classificação da actividade económica (CAE);\n\nl) O código SIOE;\n\nm) O código de serviço atribuído no âmbito do Orçamento do Estado;\n\nn) A informação sobre os respectivos recursos humanos a que se refere o artigo seguinte.\n\n2 - O carregamento e a actualização dos dados previstos no número anterior são da responsabilidade das entidades públicas a que respeitam e devem ser efectuados no prazo máximo de um mês a contar do acto que cria ou extingue a entidade pública ou que altera aqueles dados, ou em simultâneo com os carregamentos e actualizações previstos no número seguinte, consoante o que primeiro ocorrer.\n\n3 - O elenco de dados previsto no n.º 1 e os prazos de carregamento e actualização previstos no n.º 2 podem ser alterados por despacho do membro do Governo responsável pela área da Administração Pública mediante proposta da entidade gestora do SIOE."
+  },
+  "73059001": {
+   "fragment_id": "73058906",
+   "type": 11,
+   "heading": "Artigo 6.º — Caracterização dos recursos humanos das entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Caracterização dos recursos humanos das entidades públicas\n\n1 - A caracterização dos recursos humanos no SIOE inclui, sem identificação de elementos de natureza pessoal, designadamente, os seguintes dados:\n\na) Número de trabalhadores em exercício efectivo de funções nas entidades públicas, tendo em conta:\n\ni) O tipo de relação jurídica de emprego;\n\nii) O tipo de cargo, carreira ou grupo;\n\niii) O género;\n\niv) O nível de escolaridade e área de formação académica, se for o caso;\n\nv) O escalão etário;\n\nb) Dados sobre fluxos de entradas e saídas no período de referência;\n\nc) Dados sobre remunerações, suplementos, subsídios, benefícios, gratificações e outros abonos em numerário ou espécie no período de referência;\n\nd) Número de trabalhadores com deficiência ou doença crónica;\n\ne) Número de prestadores de serviço, distribuído por modalidade contratual e por género e respectivo encargo.\n\n2 - Sem prejuízo do disposto no número seguinte, o carregamento e a actualização dos dados previstos no número anterior é efectuado trimestralmente pelas entidades públicas a que respeitam, nos seguintes prazos:\n\na) De 1 a 15 de Janeiro, os dados reportados a 31 de Dezembro do ano anterior;\n\nb) De 1 a 15 de Abril, os dados reportados a 31 de Março;\n\nc) De 1 a 15 de Julho, os dados reportados a 30 de Junho;\n\nd) De 1 a 15 de Outubro, os dados reportados a 30 de Setembro.\n\n3 - O carregamento dos dados previstos nas subalíneas iv) e v) da alínea a) e das alíneas d) e e) do n.º 1 é efectuado semestralmente pelas entidades públicas a que respeitam e durante os prazos previstos nas alíneas a) e c) do número anterior.\n\n4 - Para além do carregamento dos dados relativos aos seus próprios efectivos, as secretarias-gerais procedem ao carregamento dos dados relativamente ao pessoal em situação de mobilidade especial que lhes esteja afecto, bem como ao pessoal em funções nos gabinetes dos respectivos membros do Governo.\n\n5 - O elenco de dados previsto no n.º 1 e as periodicidades de carregamento e actualização previstas nos n.os 2 e 3 podem ser alterados por despacho do membro do Governo responsável pela área da Administração Pública, mediante proposta da entidade gestora do SIOE."
+  },
+  "73059002": {
+   "fragment_id": "73058907",
+   "type": 11,
+   "heading": "Artigo 7.º — Carregamento de dados da administração regional autónoma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Carregamento de dados da administração regional autónoma\n\n1 - As entidades públicas que integram a administração regional autónoma procedem ao carregamento e actualização dos dados nos termos estipulados pela presente lei e pelas regras técnicas de operacionalização definidas pela competente entidade pública regional, utilizando um sistema que garanta a sua integração no SIOE.\n\n2 - A comunicação à entidade gestora do SIOE dos dados das entidades públicas que integram a administração regional autónoma realiza-se nos termos de protocolo a celebrar entre o respectivo membro do Governo Regional e o membro do Governo responsável pela área da Administração Pública."
+  },
+  "73059003": {
+   "fragment_id": "73058908",
+   "type": 11,
+   "heading": "Artigo 8.º — Carregamento de dados da administração autárquica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Carregamento de dados da administração autárquica\n\n1 - As entidades públicas que integram a administração autárquica procedem ao carregamento e actualização dos dados no Sistema Integrado de Informação das Autarquias Locais (SIIAL), criado junto da Direcção-Geral das Autarquias Locais.\n\n2 - Compete à Direcção-Geral das Autarquias Locais comunicar e assegurar à entidade gestora, para efeitos da sua integração no SIOE, o acesso aos dados a que se refere o número anterior, nos termos a fixar por despachos dos membros do Governo responsáveis pelas áreas da Administração Pública e das autarquias locais."
+  },
+  "73059004": {
+   "fragment_id": "73058909",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de informação\n\nAs entidades públicas têm o dever de proceder ao carregamento e actualização dos dados no SIOE e de prestar as informações solicitadas pela entidade gestora do SIOE nos termos da presente lei."
+  },
+  "73059005": {
+   "fragment_id": "73058910",
+   "type": 11,
+   "heading": "Artigo 10.º — Incumprimento do dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Incumprimento do dever de informação\n\n1 - O incumprimento do disposto na presente lei determina:\n\na) A retenção de 10 % na dotação orçamental, ou na transferência do Orçamento do Estado para a entidade pública incumpridora, no mês ou meses seguintes ao incumprimento; e\n\nb) A não tramitação de quaisquer processos relativos a recursos humanos ou aquisição de bens e serviços que sejam dirigidos ao Ministério das Finanças pela entidade pública incumpridora.\n\n2 - Os montantes a que se refere a alínea a) do número anterior são repostos com o duodécimo do mês seguinte, após a prestação integral da informação cujo incumprimento determinou a respectiva retenção.\n\n3 - Ao incumprimento do disposto na presente lei por parte das entidades que integram a administração regional autónoma é aplicável, com as necessárias adaptações, o disposto na Lei de Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 1/2007, de 19 de Fevereiro, e alterada pelas Leis Orgânicas n.os 1/2010, de 29 de Março, e 2/2010, de 16 de Junho.\n\n4 - Ao incumprimento do disposto na presente lei por parte das entidades que integram a administração autárquica é aplicável, com as necessárias adaptações, o disposto na Lei das Finanças Locais, aprovada pela Lei n.º 2/2007, de 15 de Janeiro, e alterada pelas Leis n.os 22-A/2007, de 29 de Junho, 67-A/2007, de 31 de Dezembro, 3-B/2010, de 28 de Abril, e 55-A/2010, de 31 de Dezembro.\n\n5 - Para efeitos da aplicação do disposto nos números anteriores, a entidade gestora do SIOE comunica à Direcção-Geral do Orçamento, no prazo de cinco dias úteis após o decurso dos prazos previstos no n.º 2 do artigo 5.º e nos n.os 2 e 3 do artigo 6.º, a identificação da entidade pública incumpridora."
+  },
+  "73059006": {
+   "fragment_id": "73058911",
+   "type": 11,
+   "heading": "Artigo 11.º — Divulgação da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Divulgação da informação\n\n1 - A informação referente à caracterização das entidades públicas e ao número global dos respectivos recursos humanos é disponibilizada, de forma clara, relevante e actualizada, na página electrónica da entidade gestora do SIOE e no Portal do Cidadão, relativamente a cada entidade pública e incluindo, quando existam, conexões para as respectivas páginas electrónicas.\n\n2 - O acesso à informação a que se refere o número anterior é livre e gratuito."
+  },
+  "73059007": {
+   "fragment_id": "73058912",
+   "type": 11,
+   "heading": "Artigo 12.º — Dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Dever de cooperação\n\nPara efeitos do disposto na presente lei, todas as entidades públicas têm o dever de cooperar com a entidade gestora do SIOE, designadamente:\n\na) Procedendo ao atempado e correcto fornecimento de dados e carregamento no SIOE;\n\nb) Prestando as informações necessárias à gestão do SIOE com vista à prossecução da sua missão de recolha, tratamento e disponibilização dos dados."
+  },
+  "73059008": {
+   "fragment_id": "73058913",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 49.º da Lei n.º 3/2004, de 15 de Janeiro, alterada pela Lei n.º 51/2005, de 30 de Agosto, pelos Decretos-Leis n.os 200/2006, de 25 de Outubro, e 105/2007, de 3 de Abril, pela Lei n.º 64-A/2008, de 31 de Dezembro, e pelo Decreto-Lei n.º 40/2011, de 22 de Março;\n\nb) O artigo 29.º da Lei n.º 4/2004, de 15 de Janeiro, alterada pela Lei n.º 51/2005, de 30 de Agosto, pelos Decretos-Leis n.os 200/2006, de 25 de Outubro, e 105/2007, de 3 de Abril, e pela Lei n.º 64-A/2008, de 31 de Dezembro;\n\nc) A Lei n.º 20/2011, de 20 de Maio."
+  },
+  "73059009": {
+   "fragment_id": "73058914",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "73058995": {
+   "fragment_id": "73058900",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 57/2011\n\nde 28 de Novembro\n\nInstitui e regula o funcionamento do Sistema de Informação da Organização do Estado (SIOE)\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "73054590": {
+   "fragment_id": "73058902",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 57.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA presente lei aplica-se a todos os serviços integrados, serviços e fundos autónomos, regiões autónomas, autarquias locais, outras entidades que integrem o universo das administrações públicas em contas nacionais, às empresas do setor empresarial do Estado e dos setores empresariais regionais, intermunicipais e municipais, bem como às demais pessoas coletivas públicas e outras entidades públicas.»\n\n2 - A caracterização e o carregamento de dados de recursos humanos das novas entidades, nos termos da Lei n.º 57/2011, de 28 de novembro, na redação que lhe é dada pela presente lei, são efetuados logo que existam condições técnicas para o efeito, devendo o primeiro carregamento de dados reportar-se ao 4.º trimestre de 2012, em prazo e termos a fixar pela entidade gestora do Sistema de Informação da Organização do Estado (SIOE).\n\n> Alterado pelo/a Artigo 57.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "73054589": {
+   "fragment_id": "73051066",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 14 de Outubro de 2011.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 17 de Novembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 21 de Novembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "124527305": {
+   "fragment_id": "73058901",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei institui o Sistema de Informação da Organização do Estado (SIOE) e regula o seu funcionamento.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527306": {
+   "fragment_id": "73058902",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07",
+    "Alterado pelo/a Artigo 57.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA presente lei aplica-se a todos os serviços integrados, serviços e fundos autónomos, regiões autónomas, autarquias locais, outras entidades que integrem o universo das administrações públicas em contas nacionais, às empresas do setor empresarial do Estado e dos setores empresariais regionais, intermunicipais e municipais, bem como às demais pessoas coletivas públicas e outras entidades públicas.»\n\n2 - A caracterização e o carregamento de dados de recursos humanos das novas entidades, nos termos da Lei n.º 57/2011, de 28 de novembro, na redação que lhe é dada pela presente lei, são efetuados logo que existam condições técnicas para o efeito, devendo o primeiro carregamento de dados reportar-se ao 4.º trimestre de 2012, em prazo e termos a fixar pela entidade gestora do Sistema de Informação da Organização do Estado (SIOE).\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07\n\n> Alterado pelo/a Artigo 57.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "124527307": {
+   "fragment_id": "73058903",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos do SIOE",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 3.º — Objectivos do SIOE\n\nO SIOE é uma base de dados relativos à caracterização de entidades públicas e dos respectivos recursos humanos com vista a habilitar os órgãos de governo próprios com a informação indispensável para definição das políticas de organização do Estado e da gestão dos respectivos recursos humanos.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527308": {
+   "fragment_id": "73058904",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidade gestora do SIOE",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 4.º — Entidade gestora do SIOE\n\n1 - A Direcção-Geral da Administração e do Emprego Público é a entidade gestora e detentora do SIOE.\n\n2 - A entidade gestora do SIOE assegura a organização, gestão e desenvolvimento da base de dados do SIOE, competindo-lhe designadamente:\n\na) Organizar e tratar a informação recolhida para os objectivos previstos na presente lei;\n\nb) Disponibilizar, na sua página electrónica [www.dgaep.gov.pt], os dados de caracterização das entidades públicas e o respectivo número global de efectivos de pessoal;\n\nc) Promover a divulgação da periodicidade e prazos de carregamento de dados a que se refere a presente lei;\n\nd) Prestar as informações necessárias às entidades públicas para o integral cumprimento do disposto na presente lei;\n\ne) Preparar e divulgar manuais de operação e de consulta do SIOE;\n\nf) Integrar informação do SIOE e proveniente de outras fontes relevantes para a produção de indicadores estatísticos sobre a organização e o emprego na Administração Pública.\n\n3 - A entidade gestora do SIOE pode criar as soluções electrónicas para o carregamento automático da informação a reportar pelas entidades previstas no artigo 2.º\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527309": {
+   "fragment_id": "73058905",
+   "type": 11,
+   "heading": "Artigo 5.º — Caracterização das entidades públicas",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 5.º — Caracterização das entidades públicas\n\n1 - A caracterização das entidades públicas no SIOE inclui, designadamente, os seguintes dados relativos a cada entidade:\n\na) A designação;\n\nb) O diploma ou acto de criação e o diploma regulador;\n\nc) A data de criação e de eventual reorganização ou alteração;\n\nd) A missão;\n\ne) A caracterização dos órgãos de direcção e identificação, estatuto e elementos curriculares dos seus titulares;\n\nf) A morada;\n\ng) O endereço electrónico;\n\nh) A página electrónica;\n\ni) O número de identificação de pessoa colectiva (NIPC);\n\nj) A classificação da actividade económica (CAE);\n\nl) O código SIOE;\n\nm) O código de serviço atribuído no âmbito do Orçamento do Estado;\n\nn) A informação sobre os respectivos recursos humanos a que se refere o artigo seguinte.\n\n2 - O carregamento e a actualização dos dados previstos no número anterior são da responsabilidade das entidades públicas a que respeitam e devem ser efectuados no prazo máximo de um mês a contar do acto que cria ou extingue a entidade pública ou que altera aqueles dados, ou em simultâneo com os carregamentos e actualizações previstos no número seguinte, consoante o que primeiro ocorrer.\n\n3 - O elenco de dados previsto no n.º 1 e os prazos de carregamento e actualização previstos no n.º 2 podem ser alterados por despacho do membro do Governo responsável pela área da Administração Pública mediante proposta da entidade gestora do SIOE.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527310": {
+   "fragment_id": "73058906",
+   "type": 11,
+   "heading": "Artigo 6.º — Caracterização dos recursos humanos das entidades públicas",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 6.º — Caracterização dos recursos humanos das entidades públicas\n\n1 - A caracterização dos recursos humanos no SIOE inclui, sem identificação de elementos de natureza pessoal, designadamente, os seguintes dados:\n\na) Número de trabalhadores em exercício efectivo de funções nas entidades públicas, tendo em conta:\n\ni) O tipo de relação jurídica de emprego;\n\nii) O tipo de cargo, carreira ou grupo;\n\niii) O género;\n\niv) O nível de escolaridade e área de formação académica, se for o caso;\n\nv) O escalão etário;\n\nb) Dados sobre fluxos de entradas e saídas no período de referência;\n\nc) Dados sobre remunerações, suplementos, subsídios, benefícios, gratificações e outros abonos em numerário ou espécie no período de referência;\n\nd) Número de trabalhadores com deficiência ou doença crónica;\n\ne) Número de prestadores de serviço, distribuído por modalidade contratual e por género e respectivo encargo.\n\n2 - Sem prejuízo do disposto no número seguinte, o carregamento e a actualização dos dados previstos no número anterior é efectuado trimestralmente pelas entidades públicas a que respeitam, nos seguintes prazos:\n\na) De 1 a 15 de Janeiro, os dados reportados a 31 de Dezembro do ano anterior;\n\nb) De 1 a 15 de Abril, os dados reportados a 31 de Março;\n\nc) De 1 a 15 de Julho, os dados reportados a 30 de Junho;\n\nd) De 1 a 15 de Outubro, os dados reportados a 30 de Setembro.\n\n3 - O carregamento dos dados previstos nas subalíneas iv) e v) da alínea a) e das alíneas d) e e) do n.º 1 é efectuado semestralmente pelas entidades públicas a que respeitam e durante os prazos previstos nas alíneas a) e c) do número anterior.\n\n4 - Para além do carregamento dos dados relativos aos seus próprios efectivos, as secretarias-gerais procedem ao carregamento dos dados relativamente ao pessoal em situação de mobilidade especial que lhes esteja afecto, bem como ao pessoal em funções nos gabinetes dos respectivos membros do Governo.\n\n5 - O elenco de dados previsto no n.º 1 e as periodicidades de carregamento e actualização previstas nos n.os 2 e 3 podem ser alterados por despacho do membro do Governo responsável pela área da Administração Pública, mediante proposta da entidade gestora do SIOE.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527311": {
+   "fragment_id": "73058907",
+   "type": 11,
+   "heading": "Artigo 7.º — Carregamento de dados da administração regional autónoma",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 7.º — Carregamento de dados da administração regional autónoma\n\n1 - As entidades públicas que integram a administração regional autónoma procedem ao carregamento e actualização dos dados nos termos estipulados pela presente lei e pelas regras técnicas de operacionalização definidas pela competente entidade pública regional, utilizando um sistema que garanta a sua integração no SIOE.\n\n2 - A comunicação à entidade gestora do SIOE dos dados das entidades públicas que integram a administração regional autónoma realiza-se nos termos de protocolo a celebrar entre o respectivo membro do Governo Regional e o membro do Governo responsável pela área da Administração Pública.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527312": {
+   "fragment_id": "73058908",
+   "type": 11,
+   "heading": "Artigo 8.º — Carregamento de dados da administração autárquica",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 8.º — Carregamento de dados da administração autárquica\n\n1 - As entidades públicas que integram a administração autárquica procedem ao carregamento e actualização dos dados no Sistema Integrado de Informação das Autarquias Locais (SIIAL), criado junto da Direcção-Geral das Autarquias Locais.\n\n2 - Compete à Direcção-Geral das Autarquias Locais comunicar e assegurar à entidade gestora, para efeitos da sua integração no SIOE, o acesso aos dados a que se refere o número anterior, nos termos a fixar por despachos dos membros do Governo responsáveis pelas áreas da Administração Pública e das autarquias locais.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527313": {
+   "fragment_id": "73058909",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de informação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 9.º — Dever de informação\n\nAs entidades públicas têm o dever de proceder ao carregamento e actualização dos dados no SIOE e de prestar as informações solicitadas pela entidade gestora do SIOE nos termos da presente lei.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527314": {
+   "fragment_id": "73058910",
+   "type": 11,
+   "heading": "Artigo 10.º — Incumprimento do dever de informação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 10.º — Incumprimento do dever de informação\n\n1 - O incumprimento do disposto na presente lei determina:\n\na) A retenção de 10 % na dotação orçamental, ou na transferência do Orçamento do Estado para a entidade pública incumpridora, no mês ou meses seguintes ao incumprimento; e\n\nb) A não tramitação de quaisquer processos relativos a recursos humanos ou aquisição de bens e serviços que sejam dirigidos ao Ministério das Finanças pela entidade pública incumpridora.\n\n2 - Os montantes a que se refere a alínea a) do número anterior são repostos com o duodécimo do mês seguinte, após a prestação integral da informação cujo incumprimento determinou a respectiva retenção.\n\n3 - Ao incumprimento do disposto na presente lei por parte das entidades que integram a administração regional autónoma é aplicável, com as necessárias adaptações, o disposto na Lei de Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 1/2007, de 19 de Fevereiro, e alterada pelas Leis Orgânicas n.os 1/2010, de 29 de Março, e 2/2010, de 16 de Junho.\n\n4 - Ao incumprimento do disposto na presente lei por parte das entidades que integram a administração autárquica é aplicável, com as necessárias adaptações, o disposto na Lei das Finanças Locais, aprovada pela Lei n.º 2/2007, de 15 de Janeiro, e alterada pelas Leis n.os 22-A/2007, de 29 de Junho, 67-A/2007, de 31 de Dezembro, 3-B/2010, de 28 de Abril, e 55-A/2010, de 31 de Dezembro.\n\n5 - Para efeitos da aplicação do disposto nos números anteriores, a entidade gestora do SIOE comunica à Direcção-Geral do Orçamento, no prazo de cinco dias úteis após o decurso dos prazos previstos no n.º 2 do artigo 5.º e nos n.os 2 e 3 do artigo 6.º, a identificação da entidade pública incumpridora.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527315": {
+   "fragment_id": "73058911",
+   "type": 11,
+   "heading": "Artigo 11.º — Divulgação da informação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 11.º — Divulgação da informação\n\n1 - A informação referente à caracterização das entidades públicas e ao número global dos respectivos recursos humanos é disponibilizada, de forma clara, relevante e actualizada, na página electrónica da entidade gestora do SIOE e no Portal do Cidadão, relativamente a cada entidade pública e incluindo, quando existam, conexões para as respectivas páginas electrónicas.\n\n2 - O acesso à informação a que se refere o número anterior é livre e gratuito.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527316": {
+   "fragment_id": "73058912",
+   "type": 11,
+   "heading": "Artigo 12.º — Dever de cooperação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 12.º — Dever de cooperação\n\nPara efeitos do disposto na presente lei, todas as entidades públicas têm o dever de cooperar com a entidade gestora do SIOE, designadamente:\n\na) Procedendo ao atempado e correcto fornecimento de dados e carregamento no SIOE;\n\nb) Prestando as informações necessárias à gestão do SIOE com vista à prossecução da sua missão de recolha, tratamento e disponibilização dos dados.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527317": {
+   "fragment_id": "73058913",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 49.º da Lei n.º 3/2004, de 15 de Janeiro, alterada pela Lei n.º 51/2005, de 30 de Agosto, pelos Decretos-Leis n.os 200/2006, de 25 de Outubro, e 105/2007, de 3 de Abril, pela Lei n.º 64-A/2008, de 31 de Dezembro, e pelo Decreto-Lei n.º 40/2011, de 22 de Março;\n\nb) O artigo 29.º da Lei n.º 4/2004, de 15 de Janeiro, alterada pela Lei n.º 51/2005, de 30 de Agosto, pelos Decretos-Leis n.os 200/2006, de 25 de Outubro, e 105/2007, de 3 de Abril, e pela Lei n.º 64-A/2008, de 31 de Dezembro;\n\nc) A Lei n.º 20/2011, de 20 de Maio.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527318": {
+   "fragment_id": "73058914",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  },
+  "124527319": {
+   "fragment_id": "73051066",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "Aprovada em 14 de Outubro de 2011.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 17 de Novembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 21 de Novembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 23.º do/a [Lei n.º 104/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), em vigor a partir de 2019-09-07"
+  }
+ }
+}

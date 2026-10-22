@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:152923:por
+title: Portaria n.º 536/2002
+short_title: null
+summary: Fixa as condições especiais de admissão à prestação do serviço militar no regime de contrato e no regime de voluntariado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 536/2002
+official_date: null
+publication_date: '2002-05-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/2002, Série I-B de 2002-05-27
+  number: '122'
+  series: I
+  supplement: null
+  pages: 4728 - 4728
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/05/122b00/47284728.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/536/2002/05/27/p/dre/pt/html
+  oj: null
+  dre: '152923'
+  dre_path: /dr/detalhe/portaria/536-2002-152923
+  internal: pt:dre:152923:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-2002-152923
+  metadata_url: https://data.dre.pt/eli/port/536/2002/05/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-2002-152923
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-05-27T00:00:00Z'
+integrity:
+  source_sha256: 0849bcdbdd818f3cea2eca64392fad8861978aae1506227d0526e6d780376ca4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-536-152923.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Exército
+- Força Aérea
+- Marinha
+- Serviço Militar
+- Forças Armadas
+- Pessoal Contratado
+- Prestação de Serviços
+- Recrutamento Militar
+- Militar
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/289/2000/11/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/289/2000/11/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1157/2000/12/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1157/2000/12/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1195/2001/10/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1195/2001/10/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/204/1996/06/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/204/1996/06/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/327/1993/03/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/327/1993/03/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/418/1993/04/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/418/1993/04/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/790/1999/09/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/790/1999/09/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/83/1993/01/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/83/1993/01/25/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 536/2002
+
+de 27 de Maio
+
+O Regulamento da Lei do Serviço Militar, aprovado pelo [Decreto-Lei n.º 289/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-2000-615041), de 14 de Novembro, prevê que sejam estabelecidas as condições especiais de admissão no regime de contrato (RC) e no regime de voluntariado (RV) dos cidadãos que pretendam ingressar nas referidas formas de prestação de serviço nos ramos das Forças Armadas.
+
+Nos termos do n.º 3 do artigo 32.º daquele Regulamento, a sua fixação compete ao Ministro da Defesa Nacional, sob proposta do chefe do estado-maior de cada ramo.
+
+Assim, ao abrigo do n.º 3 do artigo 32.º do Regulamento da Lei do Serviço Militar, aprovado pelo [Decreto-Lei n.º 289/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-2000-615041), de 14 de Novembro:
+
+Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
+
+1.º São condições especiais de admissão no regime de contrato e no regime de voluntariado:
+
+a) A satisfação dos parâmetros médicos, físicos e psicológicos, de acordo com as tabelas gerais de inaptidão e incapacidade para a prestação de serviço por militares e militarizados nas Forças Armadas e para a prestação de serviço na Polícia Marítima, aprovadas pela [Portaria n.º 790/99](https://diariodarepublica.pt/dr/detalhe/portaria/790-1999-581048), de 7 de Setembro, na redacção que lhes foi dada pelas Portarias n.os [1157/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1157-2000-584458), de 7 de Dezembro, e [1195/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1195-2001-626199), de 16 de Outubro, e, no caso da Marinha, ainda os requisitos estabelecidos no despacho n.º 26/92, de 27 de Maio, do Chefe do Estado-Maior da Armada, para a classe de mergulhadores;
+
+b) A satisfação dos requisitos específicos estabelecidos em função da categoria, classe ou ramo e especialidade, expressos nos respectivos avisos de abertura de concursos.
+
+2.º A aferição dos requisitos físicos e psicológicos referidos no número anterior é feita mediante a realização de provas físicas e psicofísicas de selecção, estabelecidas por despacho do chefe do estado-maior de cada ramo.
+
+3.º São revogadas as Portarias n.os [327/93](https://diariodarepublica.pt/dr/detalhe/portaria/327-1993-637904), de 20 de Março, [418/93](https://diariodarepublica.pt/dr/detalhe/portaria/418-1993-692853), de 21 de Abril, [83/93](https://diariodarepublica.pt/dr/detalhe/portaria/83-1993-602503), de 25 de Janeiro, e [204/96](https://diariodarepublica.pt/dr/detalhe/portaria/204-1996-436421), de 7 de Junho, bem como toda a legislação que contrarie o disposto no presente diploma.
+
+**O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena, em 3 de Abril de 2002.**

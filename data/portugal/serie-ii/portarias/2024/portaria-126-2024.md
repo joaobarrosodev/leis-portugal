@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:836905408:por
+title: Portaria n.º 126/2024
+short_title: null
+summary: Autoriza a Secretaria-Geral da Presidência do Conselho de Ministros a assumir os encargos plurianuais e a realizar
+  a despesa com a execução do projeto de recuperação do edificado da área da Manutenção Militar Norte
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Finanças - Gabinetes do Secretário de Estado da Presidência do Conselho de Ministros
+  e da Secretária de Estado do Orçamento
+proposing_entity: null
+official_number: 126/2024
+official_date: null
+publication_date: '2024-01-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 12/2024, Série II de 2024-01-17
+  number: '12'
+  series: II
+  supplement: null
+  pages: 62 - 63
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/01/012000000/0006200063.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '836905408'
+  dre_path: /dr/detalhe/portaria/126-2024-836905408
+  internal: pt:dre:836905408:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-836905408
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-836905408
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-01-17T00:00:00Z'
+integrity:
+  source_sha256: 2bd7b89507100b31293caf4d278ccbab904af72693afe0e3c320ca0c172104f8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-126-836905408.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 126/2024
+
+Nos termos do respetivo diploma orgânico, compete à Secretaria-Geral da Presidência do Conselho de Ministros (SGPCM), prestar apoio ao Conselho de Ministros, ao Primeiro-Ministro e aos demais membros do Governo organicamente integrados na Presidência do Conselho de Ministros (PCM) e, adicionalmente, no âmbito da prestação centralizada de serviços, às demais áreas governativas apoiadas.
+
+Pela alteração introduzida pela [Resolução do Conselho de Ministros n.º 156/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/156-2023-225044392), de 30 de novembro, à [Resolução do Conselho de Ministros n.º 45/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2022-183691732), de 28 de abril, foram atribuídas novas competências ao Grupo de Projeto para a Jornada Mundial da Juventude 2023 (JMJ 2023), que assume a missão de coordenar e promover a execução do projeto de recuperação de edificado da área da Manutenção Militar Norte, utilizada como sede de projeto para a JMJ 2023, destinada, designadamente, à habitação, ao alojamento estudantil, ao alojamento urgente temporário, nomeadamente para pessoas em situação de vulnerabilidade, vítimas de violência doméstica e de tráfico de seres humanos e beneficiários de proteção internacional, à pequena agricultura e à criação de espaços de fruição cultural.
+
+No sentido de concretizar os objetivos que lhe são fixados, designadamente, os relacionados com as tarefas necessárias à criação de espaços de habitação, de alojamento estudantil, de alojamento urgente temporário, de pequena agricultura e espaços de fruição cultural ou outros, cumpre proceder à estimativa de encargos, entre os quais se contam a realização de estudos e de projetos, empreitadas e outros serviços especializados, bem como ao respetivo escalonamento plurianual, mediante a aprovação de portaria de extensão de encargos.
+
+O apoio administrativo e logístico, bem como as despesas necessárias ao exercício das competências do Grupo de Projeto, é assegurado pela Secretaria-Geral da Presidência do Conselho de Ministros, conforme decorre do n.º 19 da [Resolução do Conselho de Ministros n.º 45/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2022-183691732), de 28 de abril, na sua redação atual.
+
+Nestes termos, e em conformidade com o disposto nos n.os 1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, conjugado com o disposto no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, manda o Governo, pelo Secretário de Estado da Presidência do Conselho de Ministros e pela Secretária de Estado do Orçamento, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+Autorizar a Secretaria-Geral da Presidência do Conselho de Ministros a assumir os encargos plurianuais e a realizar a despesa com a execução do projeto de recuperação do edificado da área da Manutenção Militar Norte, designadamente a relacionada com a realização de estudos e projetos e com empreitadas, bem como outros serviços especializados, até ao montante global de (euro) 3 700 000, a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
+
+###### Artigo 2.º — Repartição e cobertura orçamental dos encargos
+
+Os encargos orçamentais resultantes da execução da presente portaria são integralmente realizados em 2024 e satisfeitos por verbas a inscrever no orçamento da Secretaria-Geral da Presidência do Conselho de Ministros.
+
+###### Artigo 3.º — Delegação de competências
+
+Delegar, com a faculdade de subdelegação, no secretário-geral da Presidência do Conselho de Ministros a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente portaria, designadamente os relacionados com os procedimentos aquisitivos para a realização de estudos e projetos, empreitadas e outros serviços especializados que venham a ser necessários executar.
+
+###### Artigo 4.º — Produção de efeitos
+
+A presente portaria produz efeitos a partir da data da sua publicação.
+
+6 de dezembro de 2023. - O Secretário de Estado da Presidência do Conselho de Ministros, André Moz Caldas. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha.

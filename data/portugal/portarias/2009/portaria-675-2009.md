@@ -1,0 +1,227 @@
+---
+schema_version: '1.0'
+id: pt:dre:494792:por
+title: Portaria n.º 675/2009
+short_title: null
+summary: Fixa os valores limite de emissão de aplicação geral (VLE gerais) aplicáveis às instalações abrangidas pelo Decreto-Lei
+  n.º 78/2004, de 3 de Abril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, da Economia e da Inovação e da Agricultura,
+  do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 675/2009
+official_date: null
+publication_date: '2009-06-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/2009, Série I de 2009-06-23
+  number: '119'
+  series: I
+  supplement: null
+  pages: 4108 - 4111
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/675/2009/06/23/p/dre/pt/html
+  oj: null
+  dre: '494792'
+  dre_path: /dr/detalhe/portaria/675-2009-494792
+  internal: pt:dre:494792:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/675-2009-494792
+  metadata_url: https://data.dre.pt/eli/port/675/2009/06/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/675-2009-494792
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-08-21T00:00:00Z'
+integrity:
+  source_sha256: 6801cea206dcdb22244b8f7dfbc21df42e77dbe1185d3de291abf3fbed8d60e2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-675-494792.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Substancia Cancerigena
+- Qualidade do AR
+- Proteção do Ambiente
+- Poluição Industrial
+- Poluição
+- Tratamento do AR
+relationships:
+- type: amended_by
+  target: pt:dre:488286:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/78/2004/04/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/78/2004/04/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/286/1993/03/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/286/1993/03/12/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 675/2009
+
+de 23 de Junho
+
+O [Decreto-Lei n.º 78/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2004-218329), de 3 de Abril, que estabelece o regime da prevenção e controlo das emissões de poluentes para a atmosfera, fixando os princípios, objectivos e instrumentos apropriados à garantia da protecção do recurso natural ar, bem como as medidas, procedimentos e obrigações dos operadores das instalações abrangidas, habilita a que, através de portaria, sejam estipulados valores limite de emissão aplicáveis às diferentes fontes de emissão abrangidas.
+
+O referido decreto-lei veio consagrar a reforma das normas vigentes em matéria de emissões constantes de poluentes para a atmosfera e instituiu um novo regime legal de protecção e controlo da poluição atmosférica, revogando o regime em vigor desde 1990.
+
+Este processo de revisão do quadro legal relativo às emissões atmosféricas teve início em 2002 e assenta no objectivo principal de adequar a legislação existente à realidade do tecido empresarial nacional.
+
+Tal adequação contempla, no entanto, duas vertentes distintas: a necessidade de tornar os requisitos legais mais exequíveis e de compatibilizar os mesmos com os progressos técnicos e tecnológicos ocorridos desde a publicação da legislação existente, com o objectivo de permitir e garantir uma boa qualidade do ambiente atmosférico.
+
+A generalidade dos valores limite de emissão (VLE) em vigor remontam a 1993, pelo que, decorridos cerca de 16 anos sobre a sua publicação, constatou-se, nomeadamente através da análise da legislação em vigor em diferentes países da União Europeia, que os VLE então fixados para Portugal estão, na sua maioria, desactualizados face aos progressos tecnológicos entretanto verificados.
+
+Os VLE estabelecidos na presente portaria, quando comparados com os valores estabelecidos pelos países da União Europeia que têm vindo a proceder à sua actualização, são para a grande generalidade dos poluentes mais ajustados à realidade da indústria nacional. Ou seja, a presente portaria estabelece para Portugal uma gama de VLE de «nova geração» mais consonantes com o progresso técnico, mas com um nível de exigência igual ou, nalguns casos, menor que o dos VLE em vigor nos países referidos.
+
+Acresce que nem todos os VLE agora fixados são mais exigentes do que os fixados em 1993, dado que a revisão ora operada se reveste, conforme referido, de maior coerência com o actual progresso técnico, pretendendo corrigir desajustes de todas as ordens, incluindo VLE que se revelaram, com a aplicação da lei ao longo do tempo, demasiado exigentes ou desnecessários. Estão nestas condições os limites que se referem aos poluentes compostos orgânicos voláteis (COV), benzeno, cloreto de vinilo, acrilonitrilo e monóxido de carbono (CO), tendo a aplicação deste último sido suprimida de processos em que não exista combustão.
+
+A presente portaria estabelece valores limite de emissão de aplicação geral (VLE gerais), ou seja, valores limite aplicáveis à generalidade das instalações, excepto nos casos em que existam já VLE definidos para o sector de actividade em que se inserem, denominados VLE sectoriais. Assim, há sectores de actividade que, para determinados parâmetros, dispõem de valores limite diferentes, adaptados a especificidades do processo, sector ou actividade.
+
+Importa, no entanto, esclarecer que os VLE gerais são de aplicação subsidiária em relação aos VLE sectoriais, ou seja, para os sectores com VLE sectoriais definidos, os VLE gerais apenas se aplicam aos poluentes que não tenham VLE sectorial fixado.
+
+No âmbito do processo de revisão de VLE, tendo em conta a abrangência dos VLE gerais, optou-se por actualizar primeiramente os VLE desta categoria, bem como os VLE resultantes de processos de combustão, cuja aplicação está também disseminada por variadíssimas instalações, e que são objecto de outra portaria, aprovada na presente data.
+
+Porém, dada a relação de aplicação entre os VLE gerais e os VLE sectoriais, diversos sectores e associações manifestaram preocupação quanto à publicação desfasada no tempo entre a presente portaria e futuras portarias através das quais se procederá à revisão dos VLE sectoriais. Compreendendo esta necessidade de articulação, a presente portaria inclui uma norma transitória que acautela esta questão. Para as instalações que já se encontrem em exploração ou em funcionamento, e que tenham VLE sectoriais definidos, continuam a aplicar-se os VLE gerais, constantes da [Portaria n.º 286/93](https://diariodarepublica.pt/dr/detalhe/portaria/286-1993-634909), de 12 de Março, até que venham a ser definidos os novos VLE sectoriais.
+
+A imposição de novos limites de emissão poderá requerer uma adaptação por parte das instalações abrangidas que estejam em exploração ou em funcionamento, pelo que, para estes casos, se acautelou um período de adaptação de três anos para os VLE que passam a ser mais exigentes. Exceptua-se apenas o caso do poluente partículas, para o qual existe um período de adaptação menor, de dois anos, dado a existência de problemas de qualidade do ar, designadamente nos aglomerados urbanos das regiões de Lisboa e Vale do Tejo e do Norte que para além dos problemas de qualidade de vida e de saúde que acarretam para as populações fazem com que o nosso país se encontre numa situação de incumprimento das normas comunitárias relativas à qualidade do ar.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 17.º do [Decreto-Lei n.º 78/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2004-218329), de 3 de Abril:
+
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A presente portaria fixa os valores limite de emissão de aplicação geral (VLE gerais) aplicáveis às instalações abrangidas pelo [Decreto-Lei n.º 78/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2004-218329), de 3 de Abril.
+
+###### Artigo 2.º — VLE gerais
+
+1 - Os VLE gerais são os constantes do anexo da presente portaria, da qual faz parte integrante.
+
+2 - No que respeita a sectores de actividade com VLE sectoriais definidos, são subsidiariamente aplicáveis aos poluentes que não tenham VLE sectorial definido os VLE gerais fixados no anexo da presente portaria.
+
+###### Artigo 3.º — Requisitos para a avaliação do cumprimento dos VLE
+
+1 - Os VLE dos poluentes atmosféricos são expressos em mg/Nm3, referidos às condições normalizadas de pressão (101,3 kPa), temperatura (273,15 K) e gás seco.
+
+2 - Os VLE devem ser comparados com as concentrações obtidas, sem correcção do teor de oxigénio, com excepção dos casos em que existam VLE sectoriais e para os quais seja definido teor de oxigénio de referência, o qual é aplicável para efeitos de verificação do cumprimento dos VLE gerais.
+
+3 - Para efeitos da excepção prevista no número anterior, até à publicação das portarias que fixem os novos VLE sectoriais, é aplicável o teor de oxigénio de referência fixado sectorialmente no anexo vi da [Portaria n.º 286/93](https://diariodarepublica.pt/dr/detalhe/portaria/286-1993-634909), de 12 de Março.
+
+###### Artigo 4.º — Teor de oxigénio e VLE quando ocorre a junção de efluentes gasosos
+
+Se dois ou mais equipamentos independentes forem instalados ou alterados de modo que os respectivos efluentes gasosos sejam emitidos por uma única chaminé comum, o teor de oxigénio e os VLE são determinados através da metodologia constante na parte D do anexo da presente portaria, da qual faz parte integrante.
+
+###### Artigo 5.º — Norma transitória
+
+1 - Às instalações que iniciem a sua exploração ou funcionamento após a data da entrada em vigor da presente portaria são aplicáveis os VLE previstos na mesma.
+
+2 - As instalações em exploração ou em funcionamento à data da entrada em vigor da presente portaria dispõem de um prazo de três anos para se adaptarem aos VLE previstos na presente portaria, mantendo-se em vigor, até ao decurso desse prazo, os VLE respectivos fixados no anexo iv da [Portaria n.º 286/93](https://diariodarepublica.pt/dr/detalhe/portaria/286-1993-634909), de 12 de Março.
+
+3 - Excepciona-se do disposto no número anterior o parâmetro partículas (PTS), para o qual o prazo de adaptação referido é de dois anos.
+
+4 - Às instalações em exploração ou em funcionamento à data de entrada em vigor da presente portaria, abrangidas pelo anexo vi da [Portaria n.º 286/93](https://diariodarepublica.pt/dr/detalhe/portaria/286-1993-634909), de 12 de Março, aplicam-se os VLE gerais, fixados nos anexos iv e v da [Portaria n.º 286/93](https://diariodarepublica.pt/dr/detalhe/portaria/286-1993-634909), de 12 de Março, até à data que vier a ser estabelecida para a aplicação dos novos VLE sectoriais, em portaria a aprovar para o efeito.
+
+5 - Sem prejuízo do disposto nos n.os 2 e 4, os VLE relativos aos compostos orgânicos voláteis (COV), benzeno, cloreto de vinilo, acrilonitrilo, bem como a supressão do VLE relativo a monóxido de carbono (CO), são imediatamente aplicáveis.
+
+###### Artigo 6.º — Norma revogatória
+
+Sem prejuízo do disposto no artigo anterior, são revogados os anexos iv e v da [Portaria n.º 286/93](https://diariodarepublica.pt/dr/detalhe/portaria/286-1993-634909), de 12 de Março.
+
+###### Artigo 7.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 1 de Junho de 2009.
+
+**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.**
+
+## ANEXO — Valores limite de emissão gerais
+
+A - Valores limite de emissão gerais
+
+QUADRO N.º 1
+
+Valores limite de emissão gerais
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf)
+
+Se os efluentes gasosos contiverem mais que um destes poluentes, o valor limite de emissão aplica-se ao somatório dos poluentes presentes.
+
+B - Valor limite de emissão para substâncias orgânicas
+
+QUADRO N.º 2
+
+Valor limite de emissão para substâncias orgânicas
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf)
+
+Se os efluentes gasosos contiverem mais que um destes poluentes, o valor limite de emissão aplica-se ao somatório dos poluentes presentes.
+
+C - Valores limite de emissão para substâncias cancerígenas
+
+QUADRO N.º 3
+
+Valor limite de emissão para substâncias cancerígenas
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf)
+
+Se os efluentes gasosos contêm várias substâncias cancerígenas pertencentes à mesma classe, o valor limite de emissão aplica-se à totalidade destas substâncias.
+
+Se os efluentes gasosos contêm substâncias cancerígenas pertencentes a várias classes, o valor limite de emissão aplicável a essa mistura de substâncias é o correspondente à classe mais elevadas (2, 3) relativo ao conjunto de classes envolvidas.
+
+QUADRO N.º 4
+
+Substâncias cancerígenas
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf)
+
+D - Metodologia de cálculo para a determinação do teor de oxigénio e dos VLE quando ocorre a junção de efluentes gasosos
+
+Se dois ou mais equipamentos independentes forem instalados ou alterados de modo que os respectivos efluentes gasosos sejam emitidos por uma única chaminé comum, o teor de oxigénio e os VLE são determinados através de uma média ponderada em relação aos VLE apresentados na portaria caso as chaminés estivessem a emitir para atmosfera de forma independente.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11900/0410804111.pdf)

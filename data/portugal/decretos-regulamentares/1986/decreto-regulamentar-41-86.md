@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:587618:por
+title: Decreto Regulamentar n.º 41/86
+short_title: null
+summary: Actualiza as prestações de invalidez, velhice e sobrevivência dos regimes de segurança social
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 41/86
+official_date: null
+publication_date: '1986-09-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/1986, 2º Suplemento, Série I de 1986-09-12
+  number: '210'
+  series: I
+  supplement: 2º Suplemento
+  pages: 2546-(18) a 2546-(19)
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/09/21002/00180019.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '587618'
+  dre_path: /dr/detalhe/decreto-regulamentar/41-1986-587618
+  internal: pt:dre:587618:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1986-587618
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1986-587618
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-09-12T00:00:00Z'
+integrity:
+  source_sha256: ee1e390d122db8561246a6befd05df9165beaa4dc1ed73cff452ea8783d6167e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-41-587618.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 41/86
+
+de 12 de Setembro
+
+Tem sido constante preocupação do Governo concretizar de modo eficaz princípios e aspirações de justiça social.
+
+Assim, e sem prejuízo de outras medidas a adoptar visando o poder de compra dos pensionistas e, em geral, alargar as formas de apoio à população idosa e aos cidadãos mais desfavorecidos, é possível proceder a um aumento extraordinário das pensões mínimas, com efeitos a partir de 1 de Setembro do corrente ano.
+
+Esta valorização extraordinária das pensões, que irá beneficiar, desde já, no seu conjunto, cerca de 1290000 pensionistas, visa compensar globalmente a degradação acumulada do valor das pensões até 1985, pelo que não prejudica a intenção do Governo de proceder oportunamente à actualização anual, que procura melhorar o poder de compra corrente de todos os pensionistas.
+
+Salienta-se que a realização desta medida de justiça social implica um importante esforço financeiro, que se traduzirá num acréscimo de despesas de 9 milhões de contos para 1986 e de cerca de 26 milhões de contos para 1987.
+
+Assim:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+As prestações de invalidez, velhice e sobrevivência dos regimes de segurança social são actualizadas nas condições previstas no presente diploma.
+
+###### Artigo 2.º — Situações excluídas
+
+Excluem-se da aplicação deste diploma, sem prejuízo do disposto no artigo 3.º, os seguintes grupos de beneficiários:
+
+a) Os beneficiários da Caixa de Previdência dos Empregados do Banco de Angola com direito aos benefícios constantes do instrumento de regulamentação colectiva de trabalho do sector bancário;
+
+b) Os beneficiários abrangidos pelos regulamentos especiais de segurança social dos trabalhadores ferroviários e do pessoal do Serviço de Transportes Colectivos do Porto;
+
+c) Outros grupos de beneficiários não abrangidos pelo Centro Nacional de Pensões.
+
+###### Artigo 3.º — Actualização das pensões de invalidez, velhice e sobrevivência do regime geral
+
+1 - O valor mínimo das pensões de invalidez e velhice do regime geral é fixado em 10000$00.
+
+2 - Os valores mínimos das pensões de sobrevivência são actualizados por aplicação das percentagens regulamentares em vigor ao quantitativo das pensões referidas no número anterior.
+
+###### Artigo 4.º — Actualização das pensões do regime especial de segurança social das actividades agrícolas
+
+1 - O valor mensal das pensões de invalidez e velhice do regime especial das actividades agrícolas é fixado em 7500$00.
+
+2 - Os valores das pensões de sobrevivência são actualizados por aplicação das percentagens regulamentares em vigor no regime geral ao quantitativo das pensões referidas no número anterior.
+
+###### Artigo 5.º — Actualização das pensões dos antigos fundos de reforma dos pescadores
+
+As pensões dos antigos fundos de reforma dos pescadores são actualizadas de acordo com o disposto no artigo 3.º
+
+###### Artigo 6.º — Actualização das pensões do regime não contributivo
+
+1 - O quantitativo mensal das pensões de invalidez e velhice do regime não contributivo é fixado em 6500$00.
+
+2 - As pensões de viuvez e orfandade são actualizadas para o valor que resulta da aplicação das percentagens regulamentares em vigor no regime geral ao montante fixado no número anterior.
+
+###### Artigo 7.º — Actualização das pensões dos regimes transitórios dos trabalhadores agrícolas
+
+1 - O valor mensal das pensões de invalidez e velhice dos antigos regimes transitórios dos trabalhadores agrícolas, referidos no artigo 90.º do Decreto n.º 445/77, de 25 de Setembro, no [Decreto-Lei n.º 391/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1972-691622), de 13 de Outubro, e demais legislação aplicável, é fixado em 6500$00.
+
+2 - As pensões de sobrevivência dos antigos regimes transitórios dos trabalhadores agrícolas, atribuídos, nos termos do n.º 5 do artigo 4.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, aos cônjuges sobrevivos dos respectivos pensionistas, são actualizadas por aplicação da percentagem regulamentar em vigor no regime geral ao quantitativo fixado no número anterior.
+
+###### Artigo 8.º — Regimes equiparados ao regime não contributivo
+
+As pensões e prestações equivalentes de nula ou reduzida base contributiva a cargo do Centro Nacional de Pensões, designadamente as respeitantes à extinta Caixa de Previdência da Câmara dos Despachantes Oficiais, às extintas Caixa de Previdência do Pessoal da Casa Agrícola Santos Jorge, Associação de Socorros Mútuos da Inabilidade e Caixa da Marinha Mercante (antigas associações) e ao extinto Grémio dos Industriais de Fósforos, bem como as pensões atribuídas por aplicação dos regulamentos especiais da Caixa de Previdência dos Profissionais de Espectáculos, são actualizadas para o valor fixado no artigo 6.º
+
+###### Artigo 9.º — Desalojados
+
+As pensões do antigo regime de protecção social a desalojados, integrado no regime geral nos termos do [Decreto-Lei n.º 351/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1981-566868), de 26 de Dezembro, se cumuladas com pensões dos esquemas obrigatórios de protecção social, mantêm o respectivo valor à data da superveniência da cumulação, sem prejuízo da atribuição do quantitativo em curso em 30 de Novembro de 1984, se superior.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente diploma produz efeitos a partir de 1 de Setembro de 1986.
+
+Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
+
+**Promulgado em 8 de Setembro de 1986.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 12 de Setembro de 1986.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

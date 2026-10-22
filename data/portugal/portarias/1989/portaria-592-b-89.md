@@ -1,0 +1,398 @@
+---
+schema_version: '1.0'
+id: pt:dre:198720:por
+title: Portaria n.º 592-B/89
+short_title: null
+summary: Regulamenta o acesso ao ensino superior público português dos estudantes nacionais de países africanos de língua
+  oficial portuguesa, no quadro dos acordos de cooperação firmados pelo Estado Português
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 592-B/89
+official_date: null
+publication_date: '1989-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/1989, 1º Suplemento, Série I de 1989-07-29
+  number: '173'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2980-(2) a 2980-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/07/17301/00020006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '198720'
+  dre_path: /dr/detalhe/portaria/592-b-1989-198720
+  internal: pt:dre:198720:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/592-b-1989-198720
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/592-b-1989-198720
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-07-29T00:00:00Z'
+integrity:
+  source_sha256: 67c03845ed5fdf35ae2c3ba1c6408772e9bf88ec37d2911805ff09e66aaeb25e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-592-B-198720.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 592-B/89
+
+de 29 de Julho
+
+A experiência obtida nos últimos anos tem demonstrado a necessidade de se proceder à revisão do regime de ingresso no ensino superior português dos estudantes dos países africanos de expressão oficial portuguesa titulares de habilitações equivalentes ao 11.º ano de escolaridade adquiridas nesses países.
+
+De facto, tem vindo a verificar-se que o ingresso no ensino superior português de estudantes habilitados apenas com o 11.º ano de escolaridade constitui uma solução que somente na aparência é favorável aos interesses dos estudantes: a preparação assegurada pelo 11.º ano tem efectivamente vindo a revelar-se, em numerosos casos, como manifestamente insuficiente para proporcionar aos estudantes as condições exigidas pela frequência, com sucesso, do ensino superior português.
+
+Por esse motivo, foi constituído um grupo de trabalho, integrado por representantes dos Ministérios dos Negócios Estrangeiros e da Educação, encarregado de proceder à análise da situação e de apresentar soluções nos aspectos pedagógico, social e económico, propondo as medidas julgadas mais adequadas às condições desses estudantes.
+
+Nestes termos, ao abrigo do disposto na alínea d) do artigo 36.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+### CAPÍTULO I — Dispisições gerais
+
+1.º
+
+Objectivo e âmbito
+
+O presente diploma destina-se a regulamentar o acesso ao ensino superior público português dos estudantes nacionais de países africanos de língua oficial portuguesa, no quadro dos acordos de cooperação firmados pelo Estado Português.
+
+2.º
+
+Estudantes abrangidos
+
+1 - São abrangidos por este diploma os estudantes nacionais das Repúblicas Popular de Angola, de Cabo Verde, da Guiné-Bissau, Popular de Moçambique e Democrática de São Tomé e Príncipe que satisfaçam cumulativamente as seguintes condições:
+
+a) O pedido de admissão à matrícula e inscrição no ensino superior público português ser feito pela via diplomática, no âmbito dos acordos de cooperação firmados pelo Estado Português;
+
+b) Serem titulares do 12.º ano de escolaridade português ou equivalente;
+
+c) Não possuírem a nacionalidade portuguesa, tendo em consideração o disposto no artigo 27.º da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de Outubro (Lei da Nacionalidade);
+
+d) Serem bolseiros:
+
+Do Governo Português;
+
+Ao abrigo de convenções internacionais celebradas com a Comunidade Económica Europeia;
+
+Da Fundação Calouste Gulbenkian;
+
+e) Não serem titulares de um curso superior, português ou estrangeiro.
+
+2 - São ainda abrangidos por este diploma os estudantes nacionais dos Estados a que se refere o n.º 1 que satisfaçam, cumulativamente, as seguintes condições:
+
+a) Alíneas a), c), d) e e) do n.º 1;
+
+b) Terem estado inscritos em, pelo menos, dois anos lectivos num estabelecimento de ensino superior estrangeiro em curso definido como superior pela legislação do país em causa;
+
+c) Haverem concluído, pelo menos, metade das disciplinas em que se inscreveram.
+
+3 - São abrangidos ainda por este diploma os estudantes nacionais dos Estados a que se refere o n.º 1 que satisfaçam cumulativamente as seguintes condições:
+
+a) Alíneas a), c), d) e e) do n.º 1;
+
+b) Terem estado matriculados em estabelecimento de ensino superior português e pretenderem retomar os estudos no mesmo curso, ainda que em estabelecimento de ensino superior diferente, após haverem interrompido a matrícula no ensino superior público português por, pelo menos, um ano lectivo.
+
+### CAPÍTULO II — 12.º ano de escolaridade
+
+3.º
+
+Matrícula no 12.º ano de escolaridade
+
+Aos estudantes que, não sendo ainda titulares do 12.º ano de escolaridade:
+
+a) Satisfaçam as restantes condições previstas no n.º 1 do n.º 2.º; e
+
+b) Sejam titulares do diploma terminal do ensino secundário do seu país de origem,
+
+é facultada, nos termos do presente diploma, a matrícula num curso do 12.º ano de escolaridade português adequado ao plano curricular seguido no país de origem e às condições de acesso ao curso superior português em que pretendem inscrever-se.
+
+4.º
+
+Processo de admissão
+
+1 - A matrícula no 12.º ano de escolaridade será precedida de um processo de admissão instruído nos termos do presente diploma.
+
+2 - O processo de admissão será obrigatoriamente apresentado pelo Estado solicitante, pela via diplomática, através do Ministério dos Negócios Estrangeiros.
+
+5.º
+
+Apoio especial
+
+Aos estudantes abrangidos pelo presente capítulo será prestado apoio social e logístico e apoio pedagógico complementar.
+
+6.º
+
+Apoio social e logístico
+
+O apoio social e logístico será prestado pelo Instituto de Apoio Sócio-Educativo do Ministério da Educação, abrangendo, nomeadamente, o acesso a residências e a cantinas.
+
+7.º
+
+Apoio pedagógico complementar
+
+1 - O apoio pedagógico complementar abrangerá as disciplinas do ensino secundário em que tenha manifestado carências de aprendizagem e que sejam necessárias para o ingresso no curso superior em que pretende inscrever-se.
+
+2 - O apoio pedagógico complementar terá ainda como objectivo a eliminação das carências de aprendizagem da língua portuguesa eventualmente manifestadas pelo estudante.
+
+8.º
+
+Instrução do processo de admissão
+
+O processo de admissão será instruído com os seguintes documentos:
+
+a) Impresso de modelo a fixar por despacho conjunto do director-geral do Ensino Básico e Secundário e do director do Gabinete Coordenador do Ingresso no Ensino Superior, devidamente preenchido;
+
+b) Original ou fotocópia notarial de documento comprovativo de que concluiu o curso complementar do ensino secundário a que se refere a alínea b) do n.º 3.º, com indicação discriminada de todas as disciplinas efectuadas, autenticado pela embaixada ou consulado de Portugal no país solicitante;
+
+c) Documento comprovativo da situação de bolseiro, passado e autenticado pela entidade que concede a bolsa;
+
+d) Declaração de nacionalidade, nos termos do anexo I;
+
+e) Fotocópia do documento de identificação emitido pelas autoridades do país de origem ou, se o possuírem, do bilhete de identidade português para cidadãos estrangeiros.
+
+9.º
+
+Encaminhamento do processo de admissão
+
+O processo de admissão será encaminhado pela Direcção-Geral da Cooperação para o Gabinete Coordenador do Ingresso no Ensino Superior.
+
+10.º
+
+Análise do processo
+
+1 - O processo será apreciado conjuntamente pelo Gabinete Coordenador do Ingresso no Ensino Superior, pela Direcção-Geral do Ensino Básico e Secundário e pelo Instituto de Apoio Sócio-Educativo.
+
+2 - A decisão sobre cada processo será proferida por despacho conjunto do director-geral do Ensino Básico e Secundário, do director do Gabinete Coordenador do Ingresso no Ensino Superior e do presidente do Instituto de Apoio Sócio-Educativo e incidirá, nomeadamente, sobre:
+
+a) A sua admissibilidade nos termos do presente diploma;
+
+b) As equivalências a conceder às disciplinas do 10.º/11.º anos de escolaridade;
+
+c) As disciplinas do 12.º ano que o estudante deverá cursar;
+
+d) O estabelecimento de ensino secundário em que será matriculado;
+
+e) O estabelecimento de ensino superior em que o estudante se poderá matricular e inscrever;
+
+f) O apoio social e logístico que lhe será facultado.
+
+11.º
+
+Comunicação da decisão
+
+1 - A decisão será comunicada pelo Gabinete Coordenador do Ingresso no Ensino Superior à Direcção-Geral da Cooperação.
+
+2 - O Ministério dos Negócios Estrangeiros comunicará as decisões ao Estado solicitante através da via diplomática.
+
+12.º
+
+Matrícula no 12.º ano
+
+Para efeitos de matrícula no 12.º ano, a Direcção-Geral do Ensino Básico e Secundário transmitirá a decisão que recaiu sobre o processo ao estabelecimento de ensino que o estudante irá frequentar.
+
+13.º
+
+Plano individual de apoio pedagógico complementar
+
+1 - Antes do início das actividades lectivas do 12.º ano, o estudante será submetido a um teste de avaliação diagnóstica, na sequência do qual será elaborado um plano individual de apoio.
+
+2 - O teste será realizado pelo estabelecimento de ensino em que o estudante foi matriculado, de acordo com orientações gerais a elaborar pela Direcção-Geral do Ensino Básico e Secundário.
+
+3 - O plano individual de apoio será definido e assegurado pelo estabelecimento de ensino onde o estudante foi matriculado.
+
+14.º
+
+Conclusão do ano lectivo
+
+1 - Concluído o ano lectivo, o estabelecimento de ensino secundário comunicará oficialmente à Direcção-Geral do Ensino Básico e Secundário os resultados obtidos pelos estudantes abrangidos pelo presente capítulo.
+
+2 - A Direcção-Geral do Ensino Básico e Secundário comunicará ao Gabinete Coordenador do Ingresso no Ensino Superior e à Direcção-Geral da Cooperação os resultados obtidos pelos estudantes.
+
+3 - A Direcção-Geral da Cooperação notificará destes resultados as entidades que hajam concedido as bolsas.
+
+### CAPÍTULO III — Matrícula e inscrição no ensino superior
+
+15.º
+
+Cursos de ensino superior em que se pode inscrever
+
+1 - Os estudantes abrangidos pelo n.º 1 do n.º 2.º podem solicitar a inscrição nos cursos para os quais satisfazem as condições específicas e pré-requisitos fixados pelas instituições de ensino superior nos termos do artigo 9.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, e divulgadas pela Direcção-Geral do Ensino Superior.
+
+2 - Os estudantes abrangidos pelo n.º 2 do n.º 2.º podem solicitar a inscrição:
+
+a) Nos cursos para os quais satisfazem as condições específicas fixadas pelas instituições de ensino superior nos termos do artigo 9.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, e divulgadas pela Direcção-Geral do Ensino Superior;
+
+b) Nos cursos congéneres daqueles em que hajam estado inscritos.
+
+3 - Os estudantes abrangidos pelo n.º 3 do n.º 2.º podem solicitar a inscrição no curso em que hajam estado inscritos.
+
+16.º
+
+Processo de matrícula e inscrição
+
+1 - A matrícula e inscrição no ensino superior será precedida de um processo instruído nos termos do presente diploma.
+
+2 - O processo será apresentado pela via diplomática através do Ministério dos Negócios Estrangeiros.
+
+17.º
+
+Instrução do processo
+
+1 - O processo de admissão à matrícula e inscrição no ensino superior será instruído com os seguintes documentos:
+
+a) Impresso de modelo a fixar por despacho conjunto do director-geral do Ensino Básico e Secundário e do director do Gabinete Coordenador do Ingresso no Ensino Superior, devidamente preenchido;
+
+b) Documento comprovativo da situação de bolseiro, passado e autenticado pela entidade que concederá a bolsa;
+
+c) Declaração de nacionalidade, nos termos do anexo I;
+
+d) Fotocópia do documento de identificação emitido pelas autoridades do país de origem ou, se o possuírem, do bilhete de identidade português para cidadãos estrangeiros.
+
+2 - Os processos referentes aos estudantes abrangidos pelo n.º 1 do n.º 2.º incluirão ainda:
+
+a) Original ou fotocópia notarial de documento comprovativo de que concluiu o curso complementar do ensino secundário a que se refere a alínea b) do n.º 3.º, com indicação discriminada de todas as disciplinas efectuadas, autenticado pela embaixada ou consulado de Portugal no país solicitante;
+
+b) Original ou fotocópia notarial de documento comprovativo de que concluiu o 12.º ano de escolaridade, com indicação discriminada de todas as disciplinas efectuadas.
+
+3 - Os processos referentes aos estudantes abrangidos pelo n.º 2 do n.º 2.º incluirão ainda:
+
+Documento comprovativo de terem estado inscritos em, pelo menos, dois anos lectivos num estabelecimento de ensino superior estrangeiro em curso definido como superior pela legislação do país em causa e de haverem concluído, pelo menos, metade das disciplinas em que se inscreveram.
+
+4 - Os processos referentes aos estudantes abrangidos pelo n.º 3 do n.º 2.º incluirão ainda documento comprovativo da matrícula e inscrição que hajam realizado em estabelecimento de ensino superior português.
+
+5 - Os processos de admissão à matrícula e inscrição dos estudantes abrangidos pelo capítulo II são os constituídos nos termos desse capítulo.
+
+18.º
+
+Análise do processo
+
+1 - O processo será apreciado pelo Gabinete Coordenador do Ingresso no Ensino Superior.
+
+2 - A decisão sobre cada processo será proferida por despacho do director do Gabinete Coordenador do Ingresso no Ensino Superior e incidirá, nomeadamente, e onde for caso disso, sobre:
+
+a) A sua admissibilidade nos termos do presente diploma;
+
+b) O estabelecimento de ensino superior onde o estudante se poderá matricular e inscrever.
+
+19.º
+
+Comunicação da decisão
+
+1 - A decisão será comunicada pelo Gabinete Coordenador do Ingresso no Ensino Superior:
+
+a) À Direcção-Geral da Cooperação, que a transmitirá à entidade que concede a bolsa;
+
+b) Ao estabelecimento de ensino superior no qual o estudante foi admitido.
+
+2 - O Ministério dos Negócios Estrangeiros informará o Estado solicitante das decisões através da via diplomática.
+
+20.º
+
+Matrícula e inscrição no ensino superior
+
+O estudante admitido procederá, no prazo fixado, à matrícula e inscrição no estabelecimento de ensino superior a que haja sido admitido.
+
+21.º
+
+Apoio social e logístico
+
+O apoio social e logístico será prestado pelos serviços sociais da instituição de ensino superior em que o estudante se matricule e inscreva e abrangerá, sempre que possível, residências e cantinas.
+
+### CAPÍTULO IV — Disposições finais
+
+22.º
+
+Exclusão do processo
+
+1 - Serão excluídos do processo a que se refere o presente diploma, em qualquer momento do mesmo, e não poderão matricular-se e ou inscrever-se nesse ano lectivo em nenhum estabelecimento de ensino português os candidatos que prestem declarações falsas.
+
+2 - A decisão relativa à exclusão do processo é da competência do director do Gabinete Coordenador do Ingresso no Ensino Superior.
+
+3 - Esta decisão será obrigatoriamente comunicada à Direcção-Geral de Cooperação e por esta à entidade que concedeu a bolsa.
+
+23.º
+
+Incompatibilidades
+
+Um estudante que solicite a sua admissão no ensino superior público português através do regime regulado pelo presente diploma não poderá, no mesmo ano lectivo, solicitá-la através de qualquer outro regime de acesso.
+
+24.º
+
+Cursos congéneres
+
+Para os efeitos deste diploma considera-se curso congénere de determinado curso aquele que, embora eventualmente designado de forma diferente, tenha o mesmo nível científico e ministre formação equivalente.
+
+25.º
+
+Prazos
+
+Os prazos em que se deverão praticar os actos constantes do presente diploma serão fixados por despacho do Ministro da Educação, sob proposta conjunta do Gabinete Coordenador do Ingresso no Ensino Superior e da Direcção-Geral do Ensino Básico e Secundário, ouvida a Direcção-Geral da Cooperação.
+
+26.º
+
+Entrada em vigor
+
+Este diploma entra em vigor na data da sua publicação.
+
+Ministério da Educação.
+
+**Assinada em 19 de Julho de 1989.**
+
+Pelo Ministro da Educação: Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pedro d'Orey da Cunha e Meneses, Secretário de Estado da Reforma Educativa.
+
+## ANEXO I
+
+Texto da declaração a realizar em papel comum e a ser autenticada pelo consulado português da área de residência do país de origem do candidato:
+
+Declaro, por minha honra, que não possuo a nacionalidade portuguesa, ficando ciente de que, no caso de esta declaração não corresponder à verdade, fico incurso no disposto no n.º 22.º da Portaria n.º 592-B/89, de 29 de Julho.
+
+(Local e data.)
+
+(Assinatura.)

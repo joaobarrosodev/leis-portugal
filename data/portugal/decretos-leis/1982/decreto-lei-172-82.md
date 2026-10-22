@@ -1,0 +1,275 @@
+---
+schema_version: '1.0'
+id: pt:dre:392984:por
+title: Decreto-Lei n.º 172/82
+short_title: null
+summary: Estabelece um sistema de incentivos a novos investimentos de relevância turística (SIIT)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 172/82
+official_date: null
+publication_date: '1982-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/1982, Série I de 1982-05-11
+  number: '108'
+  series: I
+  supplement: null
+  pages: 1220 - 1223
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10800/12201223.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '392984'
+  dre_path: /dr/detalhe/decreto-lei/172-1982-392984
+  internal: pt:dre:392984:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1982-392984
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1982-392984
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-12-31T00:00:00Z'
+integrity:
+  source_sha256: b91e6436f9c08172b85d99cd9db4baeef7959600f272dc581e90ccc7a2fd0df2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-172-392984.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:410774:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 172/82
+
+de 11 de Maio
+
+1. Os objectivos que presidiram à publicação do [Decreto-Lei n.º 459/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1980-462245), de 10 de Outubro, e da [Portaria n.º 1114/80](https://diariodarepublica.pt/dr/detalhe/portaria/1114-1980-226637), de 31 de Dezembro, que o regulamentou, não foram plenamente atingidos.
+
+Por um lado, as restrições impostas pela exigência da declaração de utilidade turística e, por outro, a redução que as bonificações sofriam por serem inversamente proporcionais aos capitais alheios mobilizados não criaram as condições de incentivo suficiente ao investimento.
+
+2. Dado que os investimentos no sector turístico têm uma componente interna acentuada e que na fase de exploração se verifica:
+
+Um elevado contributo para o ingresso de divisas, que representa um peso considerável para atenuar o défice da balança de pagamentos;
+
+A criação de um elevado número de postos de trabalho directos e indirectos;
+
+Um valor acrescentado nacional elevado, com os consequentes efeitos multiplicador e acelerador;
+
+e porque, além disso, o País está longe de ter atingido um número de camas e serviços de interesse para o turismo que se julgue compatível com o potencial existente, deve o sector ser apoiado por legislação adequada à sua expansão prioritária no quadro da economia nacional.
+
+3. Visando promover, designadamente, no período abrangido pelo plano de médio prazo (1981-1984), a realização de investimentos novos no sector turístico e a manutenção e complementos necessários ao parque existente entendem-se como objectivos fundamentais para o desenvolvimento do sector turístico, os seguintes aspectos:
+
+Desburocratizar o seu processamento, embora continuando a exigir que os projectos apresentem «relevância turística» para a valorização das regiões onde estão inseridos;
+
+Alargar o âmbito de intervenção, com vista a dotar de equipamentos adequados unidades complementares inseridas em conjuntos turísticos;
+
+Acabar com a irrelevância da dicotomia entre regime geral e simplificado;
+
+Segmentar os tipos de investimento com vista a que os critérios de rentabilidade social, impostos à apreciação dos projectos, sejam os mais ajustados à real determinação da eficácia dos mesmos.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Âmbito do diploma)
+
+1 - O presente diploma estabelece o sistema de incentivos a novos investimentos de relevância turística (SIIT), através da bonificação de juros.
+
+2 - Os incentivos referidos no número anterior serão aplicáveis aos investimentos em:
+
+a) Estabelecimentos hoteleiros e similares com serviço predominante de restaurante, conforme são definidos no [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969;
+
+b) Parques de campismo;
+
+c) Estabelecimentos similares dos hoteleiros e unidades complementares, quando inseridos em conjuntos turísticos definidos conforme o artigo 23.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109);
+
+d) Embarcações, quando registadas para os fins referidos no [Decreto-Lei n.º 564/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1980-458992) de 6 de Dezembro;
+
+e) Autocarros de turismo a adquirir por agências de viagens para prossecução dos seus fins conforme legislação aplicável.
+
+3 - Os empreendimentos referidos no número anterior serão definidos por portaria do membro do Governo com tutela sobre o sector do turismo.
+
+###### Artigo 2.º — (Condições de acesso)
+
+1 - Para beneficiar do regime fixado neste diploma, as empresas promotoras dos empreendimentos turísticos deverão satisfazer cumulativamente os seguintes requisitos:
+
+a) Ter o projecto ou programa aprovado nos termos legais;
+
+b) Ser o projecto ou programa considerado de relevância turística para a região, pela Direcção-Geral do Turismo, ou pelas direcções regionais de turismo das regiões autónomas;
+
+c) Demonstrar que possuem ou podem atingir, por efeitos do investimento em causa, uma situação de viabilidade económica e financeira;
+
+d) Dispor de contabilidade adequada às análises requeridas pelo presente diploma;
+
+e) Comprovar que estão regularizadas as suas obrigações para com o Estado, a Previdência e o Fundo de Turismo.
+
+2 - Para efeitos da alínea b) do n.º 1, o membro do Governo com tutela sobre o sector do turismo ou os Governos das Regiões Autónomas dos Açores e da Madeira, ouvido aquele membro do Governo da República, fixarão, por despacho, os requisitos mínimos a que os projectos ou programas deverão obedecer quando analisados pela Direcção-Geral do Turismo, ou pelas direcções regionais de turismo das regiões autónomas.
+
+3 - No que se refere a algumas das unidades complementares referidas no n.º 2 do artigo 1.º, pode, de acordo com a alínea c) do n.º 1 deste artigo, exigir-se somente a viabilidade financeira, quando demonstrada a necessidade complementar e o interesse social do empreendimento.
+
+4 - Consideram-se abrangidos pelo artigo 1.º os conjuntos turísticos de vocação termal que, por despacho do membro do Governo com tutela sobre o sector do turismo, sejam considerados de relevância turística.
+
+###### Artigo 3.º — (Método dos pontos)
+
+1 - Os projectos de investimento serão na generalidade apreciados segundo o critério da rentabilidade social, aferidos pela relação entre o valor do investimento e o produto associado ao projecto, sendo as exportações e importações premiadas e penalizadas respectivamente.
+
+2 - A pontuação (P) do projecto reúne 2 parcelas variáveis, uma, que é função do critério referido no n.º 1, e outra, que depende da relevância turística do empreendimento.
+
+3 - O membro do Governo com tutela sobre o sector do turismo definirá, por portaria, o processo de cálculo da pontuação do projecto, para efeitos dos números anteriores.
+
+###### Artigo 4.º — (Bonificação de juros)
+
+1 - Os financiamentos bancários serão objecto de bonificação da taxa de juro, determinada em função da pontuação (P) do projecto, do grau de financiamento utilizado e da taxa básica de desconto do Banco de Portugal, nos termos a definir na portaria referida no n.º 3 do artigo anterior.
+
+2 - O período de bonificação será, no máximo, de 7 anos para estabelecimentos hoteleiros e unidades complementares quando inseridas em conjuntos turísticos, de 5 anos para parques de campismo e de 3 anos para restaurantes, autocarros de turismo e embarcações, nos termos no [Decreto-Lei n.º 564/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1980-458992), e outros estabelecimentos similares dos hoteleiros.
+
+3 - O período de bonificação não poderá ultrapassar o número de anos de duração do financiamento menos 2.
+
+4 - O período de bonificação contar-se-á a partir da data do respectivo despacho ou do início da utilização dos fundos, quando posterior.
+
+5 - A taxa de bonificação incidirá sobre os financiamentos dos activos fixos corpóreos.
+
+6 - As bonificações só são atribuídas a partir do momento em que as utilizações do financiamento bancário forem em montante superior a 25% do total do financiamento autorizado.
+
+7 - As bonificações são concedidas sobre o montante do financiamento que não ultrapasse 66,6% do investimento em capital fixo do projecto.
+
+8 - Nos financiamentos concedidos para a construção de unidades hoteleiras, os juros podem ser refinanciados à mesma taxa do projecto, nos termos a definir em despacho conjunto dos Ministro de Estado e das Finanças e do Plano e do membro do Governo com tutela sobre o sector do turismo.
+
+###### Artigo 5.º — (Pontuação provisória e definitiva de incentivos)
+
+1 - A bonificação da taxa de juro será concedida com base na pontuação provisória, determinada a partir dos efeitos previstos relativamente à execução do projecto.
+
+2 - Decorrido um prazo máximo de 3 exercícios económicos completos, no caso de estabelecimentos hoteleiros e parques de campismo, e de 2 exercícios económicos completos, no caso de restaurantes e estabelecimentos similares dos hoteleiros e unidades complementares inseridos em conjuntos turísticos, contados após o termo da fase de investimento do projecto, os efeitos previstos deverão ser comprovados e, em função destes, será atribuída a pontuação definitiva.
+
+3 - Sempre que a pontuação definitiva comprovada para o projecto se afastar da pontuação provisória, deverão ser efectuadas as necessárias correcções relativamente à bonificação a que a empresa responsável pelo mesmo tem direito.
+
+4 - A bonificação só será corrigida quando a pontuação definitiva se afastar em mais de 10% da pontuação provisória.
+
+###### Artigo 6.º — (Pagamento de bonificações)
+
+As bonificações atribuídas aos financiamentos no âmbito deste diploma serão pagas pelo Fundo de Turismo, através de recursos próprios.
+
+###### Artigo 7.º — (Prazos)
+
+Os prazos dos financiamentos no âmbito do presente diploma terão em conta, designadamente, o tipo de empreendimento e seu período de vida útil, o equilíbrio financeiro do projecto e a sua relevância do ponto de vista da política global de turismo.
+
+###### Artigo 8.º — (Fiscalização)
+
+Para efeitos da aplicação dos artigos anteriores, a Secretaria de Estado do Turismo reserva-se o direito de acompanhar e fiscalizar a execução do projecto.
+
+###### Artigo 9.º — (Processo)
+
+1 - Para a concessão dos benefícios previstos no artigo 4.º deverão as empresas interessadas apresentar numa instituição de crédito e, quando for caso disso, no Instituto de Investimento Estrangeiro, os elementos comprovativos de que estão satisfeitas as condições de acesso, bem como requerimento devidamente instruído nos termos que venham a ser regulamentados na portaria a que se refere o n.º 3 do artigo 3.º
+
+2 - Sendo favorável o parecer da instituição de crédito e, quando for caso disso, do Instituto de Investimento Estrangeiro, deverão os correspondentes processos, acompanhados da respectiva proposta, ser enviados ao Fundo de Turismo para parecer sobre a concessão dos benefícios em causa.
+
+###### Artigo 10.º — (Despacho)
+
+As bonificações serão concedidas por despacho do membro do Governo com tutela sobre o sector do turismo que decidirá em função dos elementos previstos neste diploma e da política geral do turismo, após o que os processos serão enviados pelo Fundo de Turismo à instituição de crédito competente.
+
+###### Artigo 11.º — (Prestação de elementos adicionais)
+
+1 - O membro do Governo com tutela sobre o sector turismo ou as entidades em quem este delegar a apreciação dos pedidos de incentivos poderão solicitar directamente aos promotores dos projectos quaisquer outros elementos que se mostrem necessários.
+
+2 - Tais elementos deverão ser fornecidos no prazo máximo de 15 dias, se outro não for fixado no despacho que os solicitar.
+
+3 - O não fornecimento no prazo devido dos elementos solicitados, salvo justificação atendível, implicará o indeferimento e consequente arquivo do respectivo processo.
+
+###### Artigo 12.º — (Requisitos adicionais)
+
+1 - Os despachos que aprovarem a concessão de benefícios no âmbito deste diploma podem incluir condições tidas por indispensáveis à correcta prossecução dos objectivos da política global do turismo.
+
+2 - A inobservância dessas condições pode implicar a caducidade dos benefícios concedidos.
+
+###### Artigo 13.º — (Revogação dos benefícios concedidos)
+
+A concessão de bonificação prevista no presente diploma poderá ser revogada se o investidor não vier a realizar o projecto de investimento nos prazos e condições aprovados, excepto se tal for devido a facto que lhe não seja imputável.
+
+###### Artigo 14.º — (Situação de revogação dos benefícios concedidos)
+
+1 - Se no período de vigência do financiamento dos estabelecimentos hoteleiros e similares e parques de campismo ocorrer a situação de encerramento definitivo, decorrente de sanção aplicável nos termos da legislação em vigor, haverá lugar à devolução imediata das bonificações concedidas.
+
+2 - No caso de desafectação da exploração turística, ocorrida no decurso do período referido no número anterior, de parcelas dos empreendimentos, haverá lugar à devolução imediata das bonificações entretanto concedidas, proporcionalmente às áreas desafectadas.
+
+3 - No caso de desafectação da exploração turística das embarcações e autocarros, ocorrida no decurso do período referido no n.º 1, haverá igualmente lugar à devolução das bonificações concedidas, proporcionalmente ao número de unidades desafectadas e respectivos valores financiados.
+
+4 - Se houver lugar à não confirmação da classificação dos estabelecimentos hoteleiros e similares e parques de campismo nos termos da legislação aplicável, cabe ao membro do Governo com tutela sobre o sector do turismo, por despacho, julgar da necessidade de reposição total ou parcial, das bonificações concedidas ou a conceder.
+
+5 - Se o empreendimento for vendido, os direitos do financiamento e respectivas bonificações só poderão transitar para o comprador depois de acordo da entidade financiadora e do Fundo de Turismo, sob pena do reembolso total dos financiamentos e bonificações já concedidos, à data da venda.
+
+###### Artigo 15.º — (Contabilização dos benefícios)
+
+A contabilidade das empresas dará expressão adequada aos benefícios concedidos, que serão registados em conta especial de proveitos, lançando nas correspondentes contas os custos financeiros sem qualquer dedução dos referidos benefícios.
+
+###### Artigo 16.º — (Concorrência legal de incentivos)
+
+1 - Sempre que haja concorrência entre os incentivos agora fixados e incentivos da mesma natureza previstos noutros diplomas, apenas serão concedidos os que forem mais favoráveis às empresas que os requeiram, sem prejuízo dos apoios que possam vir a ser concedidos através do Fundo de Turismo.
+
+2 - A concessão dos benefícios previstos no presente diploma não prejudica a atribuição de incentivos de natureza fiscal nos termos da legislação aplicável.
+
+###### Artigo 17.º — (Dúvidas)
+
+As dúvidas suscitadas pela aplicação do disposto neste diploma serão esclarecidas por despacho do membro do Governo com tutela sobre o sector do turismo.
+
+###### Artigo 18.º — (Transitório)
+
+1 - Ficam revogados o [Decreto-Lei n.º 459/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1980-462245), de 10 de Outubro, e a [Portaria n.º 1114/80](https://diariodarepublica.pt/dr/detalhe/portaria/1114-1980-226637), de 31 de Dezembro.
+
+2 - No que se refere aos projectos que estão submetidos às entidades competentes para apreciação ao abrigo dos diplomas agora revogados, deverão as empresas interessadas, no prazo de 30 dias, declarar junto da instituição de crédito onde os projectos foram apresentados se pretendem que os mesmos sejam apreciados à luz daqueles diplomas. Expirado este prazo, caso não seja declarado, são os mesmos processos automaticamente arquivados.
+
+###### Artigo 19.º — (Regiões autónomas)
+
+A aplicação do presente diploma nas Regiões Autónomas dos Açores e da Madeira, dependerá de decreto regional que adapte as suas disposições às condições particulares dos respectivos territórios.
+
+Visto e aprovado em Conselho de Ministros de 18 de Março de 1982. - Diogo Pinto de Freitas do Amaral.
+
+**Promulgado em 20 de Abril de 1982.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

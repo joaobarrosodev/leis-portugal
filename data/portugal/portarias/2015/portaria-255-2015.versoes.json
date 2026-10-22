@@ -1,0 +1,545 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70054438:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-205449401",
+ "dre_path": "/dr/detalhe/portaria/255-2015-70054438",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "934283170",
+    "205449120",
+    "205449121",
+    "205449122",
+    "205449123",
+    "205449124",
+    "205449125",
+    "205449126",
+    "205449127",
+    "205449128",
+    "205449129"
+   ]
+  },
+  {
+   "date": "2022-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205378568:por",
+     "title": "Portaria n.º 310/2022",
+     "published": "2022-12-28",
+     "dre_path": "/dr/detalhe/portaria/310-2022-205378568"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 9.º-B",
+    "Adita Artigo 9.º-C",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "205449119",
+    "205449120",
+    "205449121",
+    "205449122",
+    "205449130",
+    "205449131",
+    "205449132",
+    "205449135",
+    "205449136",
+    "205449137",
+    "205449148",
+    "205449138",
+    "205449149",
+    "205449139",
+    "205449140",
+    "205449142",
+    "205449144",
+    "205449146",
+    "205449147"
+   ]
+  },
+  {
+   "date": "2025-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:934422119:por",
+     "title": "Portaria n.º 296-A/2025/1",
+     "published": "2025-09-05",
+     "dre_path": "/dr/detalhe/portaria/296-a-2025-934422119"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "934283170",
+    "934283171",
+    "934283172",
+    "934283173",
+    "934283174",
+    "934469675",
+    "934469676",
+    "934469677",
+    "934469678",
+    "934469679",
+    "934469680",
+    "934469681",
+    "934469682",
+    "934469683",
+    "934469684",
+    "934469685",
+    "934469686",
+    "934469687",
+    "934469688"
+   ]
+  }
+ ],
+ "fragments": {
+  "934283170": {
+   "fragment_id": "205449402",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-09-06",
+   "changed_by": [],
+   "markdown": "Portaria n.º 255/2015\n\nde 20 de agosto\n\nO Decreto-Lei n.º 96/2015, de 29 de maio, definiu a missão e as atribuições do Instituto de Gestão Financeira da Educação, I. P. Importa agora, no desenvolvimento daquele diploma, determinar a sua organização interna através da aprovação dos respetivos estatutos.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro da Educação e Ciência, o seguinte:"
+  },
+  "205449120": {
+   "fragment_id": "205449403",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados, em anexo à presente portaria, e da qual fazem parte integrante, os Estatutos do Instituto de Gestão Financeira da Educação, I. P., abreviadamente designado por IGeFE, I. P."
+  },
+  "205449121": {
+   "fragment_id": "205449404",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 148/2012, de 16 de maio, alterada pelas Portarias n.os 337/2012, de 24 de outubro e 31/2013, de 29 de janeiro."
+  },
+  "205449122": {
+   "fragment_id": "205449405",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "205449123": {
+   "fragment_id": "205449406",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Planeamento e Coordenação Orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Departamento de Planeamento e Coordenação Orçamental\n\nAo Departamento de Planeamento e Coordenação Orçamental, abreviadamente designado por DPCO, compete:\n\na) Planear e executar as ações inerentes à elaboração do projeto de orçamento anual de atividades e projetos do MEC;\n\nb) Proceder à monitorização, controlo e avaliação da execução orçamental e financeira, garantindo o cumprimento dos objetivos definidos para o programa orçamental do ensino básico e secundário;\n\nc) Assegurar o acompanhamento, o controlo e a avaliação mensal da execução orçamental dos órgãos, serviços e estruturas do MEC inseridos no programa orçamental do ensino básico e secundário, com vista a uma otimização dos recursos financeiros disponíveis;\n\nd) Desenvolver as ações necessárias ao exercício das competências do IGeFE, I. P.,como entidade coordenadora do programa orçamental do ensino básico e secundário;\n\ne) Colaborar na elaboração do quadro plurianual do programa orçamental do ensino básico e secundário;\n\nf) Prestar apoio técnico aos órgãos, serviços e estruturas do MEC no âmbito das competências do Departamento;\n\ng) Assegurar a atualização dos instrumentos de planeamento financeiro com vista à concretização das orientações de política orçamental;\n\nh) Conceber indicadores financeiros destinados a apoiar o planeamento e a gestão do sistema educativo;\n\ni) Promover e gerir programas de política setorial, integrando o respetivo planeamento orçamental;\n\nj) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização."
+  },
+  "205449124": {
+   "fragment_id": "205449407",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento de Organização e Gestão dos Estabelecimentos de Ensino Básico e Secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Departamento de Organização e Gestão dos Estabelecimentos de Ensino Básico e Secundário\n\nAo Departamento de Organização e Gestão dos Estabelecimentos de Ensino Básico e Secundário, abreviadamente designado por DOGEEBS, compete:\n\na) Coordenar o planeamento da rede escolar e a sua racionalização;\n\nb) Planear, definir os critérios, elaborar e distribuir o orçamento individualizado pelos estabelecimentos de ensino básico e secundário e monitorizar a respetiva execução;\n\nc) Assegurar e acompanhar a execução dos meios financeiros a transferir para as Autarquias Locais, no âmbito das outras despesas correntes e de capital, nos termos definidos nos contratos interadministrativos de delegação de competências;\n\nd) Gerir e monitorizar a execução financeira de projetos dos estabelecimentos de ensino básico e secundário da rede pública do MEC cofinanciados por fundos europeus, no âmbito das outras despesas correntes e de capital;\n\ne) Monitorizar e coordenar a implementação do Plano Oficial de Contas para a Educação (POC-E), nos estabelecimentos de ensino básico e secundário da rede pública do MEC;\n\nf) Conceber e aplicar um sistema de indicadores económico-financeiros que permitam otimizar os recursos financeiros disponíveis para o funcionamento do subsistema do ensino básico e secundário;\n\ng) Prestar apoio técnico-administrativo na área financeira aos estabelecimentos de ensino básico e secundário da rede pública do MEC;\n\nh) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização."
+  },
+  "205449125": {
+   "fragment_id": "205449408",
+   "type": 11,
+   "heading": "Artigo 6.º — Departamento do Orçamento do Ensino Superior e da Ciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Departamento do Orçamento do Ensino Superior e da Ciência\n\nAo Departamento do Orçamento do Ensino Superior e da Ciência, abreviadamente designado por DOESC, compete:\n\na) Colaborar na preparação dos projetos de orçamento dos serviços e organismos do MEC para as áreas do ensino superior, da ação social do ensino superior e da ciência;\n\nb) Colaborar na definição e acompanhamento dos modelos de financiamento público do ensino superior, da ação social do ensino superior e da ciência;\n\nc) Acompanhar e avaliar a execução das políticas e programas do MEC para as áreas do ensino superior, da ação social do ensino superior e da ciência;\n\nd) Acompanhar a execução financeira dos serviços e organismos do MEC, inseridos no programa orçamental do ensino superior e da ciência, propondo medidas para eventuais ajustamentos que se revelem necessários para fazer face a riscos orçamentais emergentes;\n\ne) Apoiar a definição dos objetivos dos contratos-programa anuais e plurianuais a celebrar com as instituições do ensino superior, bem como do respetivo modelo de financiamento e assegurar o seu acompanhamento e avaliação;\n\nf) Desenvolver as ações necessárias ao exercício das competências do IGeFE, I. P., como entidade coordenadora do programa orçamental do ensino superior e da ciência;\n\ng) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização."
+  },
+  "205449126": {
+   "fragment_id": "205449409",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Sistemas e Tecnologias de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Departamento de Sistemas e Tecnologias de Informação\n\nAo Departamento de Sistemas e Tecnologias de Informação, abreviadamente designada por DSTI, compete:\n\na) Participar na definição das linhas de orientação estratégica das tecnologias de informação e comunicação (TIC) do MEC, promovendo os estudos necessários para um aumento da eficiência, eficácia, racionalização de custos, incremento e melhoria da qualidade dos serviços prestados pelo IGeFE, I. P., alinhados com o plano de ação setorial de racionalização das TIC no MEC;\n\nb) Executar os programas e projetos emergentes dos estudos referidos na alínea anterior;\n\nc) Definir e propor procedimentos operativos normalizados, transversais a todas as áreas dos sistemas de informação, tendo em vista a melhoria contínua e incremento da satisfação dos clientes e stakeholders do IGeFE, I. P.;\n\nd) Definir e implementar a execução de procedimentos de segurança que permitam assegurar a confidencialidade e a integridade da informação e o acesso seguro à infraestrutura informática do IGeFE, I. P.;\n\ne) Assegurar a administração das plataformas informáticas, das bases de dados, da rede de comunicações de voz e dados, garantindo a existência de procedimentos de salvaguarda, recuperação e disaster recovery da infraestrutura informática do IGeFE, I. P.;\n\nf) Planear e propor soluções de evolução da infraestrutura informática;\n\ng) Gerir e monitorizar a infraestrutura de suporte da solução ECM - Enterprise Content Management do MEC;\n\nh) Assegurar a exploração e o processamento dos dados que integram as aplicações de produção do IGeFE, I. P., assegurando a qualidade da informação obtida para apoio à decisão;\n\ni) Prestar apoio aos utilizadores dos Departamentos do IGeFE, I. P., nas soluções aplicacionais, nas infraestruturas informáticas e nos meios de comunicação existentes;\n\nj) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização."
+  },
+  "205449127": {
+   "fragment_id": "205449410",
+   "type": 11,
+   "heading": "Artigo 8.º — Departamento de Administração Geral e Contratação Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Departamento de Administração Geral e Contratação Pública\n\nAo Departamento de Administração Geral e Contratação Pública, abreviadamente designado por DAGCP, compete:\n\na) Elaborar o projeto de orçamento do IGeFE, I. P.;\n\nb) Assegurar e monitorizar a gestão orçamental, elaborar os respetivos relatórios de execução e efetuar a prestação de contas;\n\nc) Implementar sistemas e procedimentos de controlo interno;\n\nd) Assegurar a gestão do aprovisionamento, a gestão e conservação do património, das instalações e equipamentos, mantendo atualizado o inventário;\n\ne) Implementar e coordenar a aplicação de normas sobre condições ambientais, saúde, higiene e segurança no trabalho;\n\nf) Elaborar e gerir o plano de formação profissional do IGeFE, I. P.;\n\ng) Acompanhar o Sistema Integrado de Gestão e Avaliação do Desempenho na Administração Pública - SIADAP 2 e 3, do IGeFE, I. P.;\n\nh) Registar no Sistema de Informação da Organização do Estado (SIOE) a respetiva informação do IGeFE, I. P.;\n\ni) Elaborar o balanço social do IGeFE, I. P.;\n\nj) Assegurar as funções de Unidade Ministerial de Compras, no âmbito das unidades orgânicas do ensino básico e secundário da rede pública do MEC;\n\nk) Promover a aquisição agregada de bens e serviços abrangida nos acordos quadro, no âmbito do MEC, sem prejuízo das competências atribuídas à Secretaria-Geral do MEC;\n\nl) Avaliar os resultados obtidos no âmbito do programa de compras públicas do IGeFE, I. P.;\n\nm) Promover o reporte estatístico anual das aquisições de bens e serviços, previsto no Código dos Contratos Públicos, no âmbito da competência do IGeFE,I. P.;\n\nn) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização."
+  },
+  "205449128": {
+   "fragment_id": "205449411",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamento de Gestão e de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Departamento de Gestão e de Recursos Humanos\n\nAo Departamento de Gestão e de Recursos Humanos, abreviadamente designado por DGRH, compete:\n\na) Elaborar e consolidar a proposta de orçamento dos estabelecimentos de ensino básico e secundário da rede pública do MEC, monitorizar e controlar a sua execução;\n\nb) Assegurar a gestão centralizada do processamento das remunerações e outros abonos devidos aos trabalhadores dos órgãos, serviços e estruturas do MEC, cujo apoio seja prestado diretamente pelo IGeFE, I. P.;\n\nc) Normalizar os processos e apoiar as atividades de gestão de recursos humanos mencionados na alínea b), num contexto integrado, assegurando a sua concretização;\n\nd) Assegurar e acompanhar a execução dos meios financeiros a transferir para as Autarquias Locais, no âmbito das despesas com o pessoal não docente, definidos nos contratos de delegação e transferência de competências em matéria de educação;\n\ne) Gerir e monitorizar a execução financeira das despesas com pessoal das unidades orgânicas do ensino básico e secundário da rede pública do MEC, no âmbito de projetos cofinanciados por fundos europeus;\n\nf) Prestar apoio técnico-administrativo na área dos recursos humanos;\n\ng) Assegurar a eficácia do sistema de controlo interno, bem como contribuir para o seu aperfeiçoamento;\n\nh) Assegurar a recolha e a qualidade da informação necessária à gestão dos recursos humanos;\n\ni) Auditar e controlar as operações e processos, refletindo a confiança e a integridade da informação financeira e operacional, em conformidade com a legislação, regulamentos, normas e procedimentos aplicáveis;\n\nj) Assegurar, organizar e executar os procedimentos administrativos respeitantes à gestão dos recursos humanos, promovendo a aplicação das medidas de política definidas para a Administração Pública;\n\nk) Aplicar os regimes relativos às situações de ausência por doença, acidentes em serviço e outras situações no âmbito da proteção social dos trabalhadores dos órgãos, serviços e estruturas do MEC, cujo apoio seja prestado diretamente pelo IGeFE, I. P.;\n\nl) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização."
+  },
+  "205449129": {
+   "fragment_id": "205449412",
+   "type": 11,
+   "heading": "Artigo 10.º — Equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Equipas multidisciplinares\n\n1 - A organização interna do IGeFE, I. P., pode incluir ainda uma equipa multidisciplinar criada por deliberação do conselho diretivo, que define o seu objetivo, duração e composição.\n\n2 - O chefe de equipa multidisciplinar é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau."
+  },
+  "205449119": {
+   "fragment_id": "205449402",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 255/2015\n\nde 20 de agosto\n\nO Decreto-Lei n.º 96/2015, de 29 de maio, definiu a missão e as atribuições do Instituto de Gestão Financeira da Educação, I. P. Importa agora, no desenvolvimento daquele diploma, determinar a sua organização interna através da aprovação dos respetivos estatutos.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro da Educação e Ciência, o seguinte:"
+  },
+  "205449130": {
+   "fragment_id": "205449413",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 11 de agosto de 2015. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 10 de agosto de 2015."
+  },
+  "205449131": {
+   "fragment_id": "205449414",
+   "type": 14,
+   "heading": "ANEXO — ESTATUTOS DO INSTITUTO DE GESTÃO FINANCEIRA DA EDUCAÇÃO, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ESTATUTOS DO INSTITUTO DE GESTÃO FINANCEIRA DA EDUCAÇÃO, I. P."
+  },
+  "205449132": {
+   "fragment_id": "205449415",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura\n\nA organização interna dos serviços do Instituto de Gestão Financeira da Educação, I. P., abreviadamente designado por IGeFE, I. P., obedece ao seguinte modelo estrutural misto:\n\na) Nas áreas de atividade relativas à prossecução de atribuições nos domínios orçamental, sistemas e tecnologias de informação, compras públicas, centralização de vencimentos, apoio jurídico e apoio à decisão, é adotado o modelo de estrutura hierarquizada;\n\nb) Nas áreas de atividade relativas ao desenvolvimento de projetos transversais relacionados com a modernização dos sistemas administrativos e dos processos de trabalho e a interoperabilidade dos sistemas de informação, é adotado o modelo de estrutura matricial."
+  },
+  "205449135": {
+   "fragment_id": "205449416",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura nuclear",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Estrutura nuclear\n\nA organização interna do IGeFE, I. P., é constituída pelas seguintes unidades orgânicas nucleares:\n\na) Departamento de Planeamento e Coordenação Orçamental;\n\nb) (Revogada.)\n\nc) Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior;\n\nd) (Revogada.)\n\ne) Departamento de Administração Geral;\n\nf) Departamento de Gestão e de Recursos Humanos.\n\ng) Departamento da Rede Escolar e Projetos;\n\nh) Departamento de Gestão de Infraestruturas Tecnológicas;\n\ni) Departamento de Sistemas de Informação.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449136": {
+   "fragment_id": "205449417",
+   "type": 11,
+   "heading": "Artigo 3.º — Cargos dirigentes intermédios",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Cargos dirigentes intermédios\n\n1 - Os departamentos são dirigidos por diretores de departamento, cargos de direção intermédia de 1.º grau.\n\n2 - Por deliberação do conselho diretivo, podem ser criadas unidades flexíveis designadas por núcleos, até ao limite de 12, dirigidas por coordenadores de núcleo, cargos de direção intermédia de 2.º grau.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449137": {
+   "fragment_id": "205449406",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Planeamento e Coordenação Orçamental",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Departamento de Planeamento e Coordenação Orçamental\n\nAo Departamento de Planeamento e Coordenação Orçamental, abreviadamente designado por DPCO, compete:\n\na) Planear e executar as ações inerentes à elaboração do projeto de orçamento anual de atividades e projetos do programa orçamental do ensino básico e secundário e administração escolar;\n\nb) Proceder à monitorização, controlo e avaliação da execução orçamental e financeira, garantindo o cumprimento dos objetivos definidos para o programa orçamental do ensino básico e secundário e administração escolar;\n\nc) Assegurar o acompanhamento, o controlo e a avaliação mensal da execução orçamental dos órgãos, serviços e estruturas inseridos no programa orçamental do ensino básico e secundário e administração escolar, propondo medidas e ajustamentos que se revelem necessários com vista a uma otimização dos recursos financeiros disponíveis;\n\nd) Desenvolver as ações necessárias ao exercício das competências do IGeFE, I. P., como entidade coordenadora do programa orçamental do ensino básico e secundário e administração escolar;\n\ne) Colaborar na elaboração do quadro plurianual do programa orçamental do ensino básico e secundário e administração escolar;\n\nf) Prestar apoio técnico aos órgãos, serviços e estruturas que integram o programa orçamental do ensino básico e secundário e administração escolar, no âmbito das competências do departamento;\n\ng) Assegurar a atualização dos instrumentos de planeamento financeiro com vista à concretização das orientações de política orçamental;\n\nh) (Revogada.)\n\ni) Promover e gerir programas de política setorial, integrando o respetivo planeamento orçamental;\n\nj) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449148": {
+   "fragment_id": "205449407",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento de Organização e Gestão dos Estabelecimentos de Ensino Básico e Secundário",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Departamento de Organização e Gestão dos Estabelecimentos de Ensino Básico e Secundário\n\nAo Departamento de Organização e Gestão dos Estabelecimentos de Ensino Básico e Secundário, abreviadamente designado por DOGEEBS, compete:\n\na) Coordenar o planeamento da rede escolar e a sua racionalização;\n\nb) Planear, definir os critérios, elaborar e distribuir o orçamento individualizado pelos estabelecimentos de ensino básico e secundário e monitorizar a respetiva execução;\n\nc) Assegurar e acompanhar a execução dos meios financeiros a transferir para as Autarquias Locais, no âmbito das outras despesas correntes e de capital, nos termos definidos nos contratos interadministrativos de delegação de competências;\n\nd) Gerir e monitorizar a execução financeira de projetos dos estabelecimentos de ensino básico e secundário da rede pública do MEC cofinanciados por fundos europeus, no âmbito das outras despesas correntes e de capital;\n\ne) Monitorizar e coordenar a implementação do Plano Oficial de Contas para a Educação (POC-E), nos estabelecimentos de ensino básico e secundário da rede pública do MEC;\n\nf) Conceber e aplicar um sistema de indicadores económico-financeiros que permitam otimizar os recursos financeiros disponíveis para o funcionamento do subsistema do ensino básico e secundário;\n\ng) Prestar apoio técnico-administrativo na área financeira aos estabelecimentos de ensino básico e secundário da rede pública do MEC;\n\nh) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449138": {
+   "fragment_id": "205449408",
+   "type": 11,
+   "heading": "Artigo 6.º — Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 6.º — Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior\n\nAo Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior, abreviadamente designado por DOCTES, compete:\n\na) Colaborar na preparação dos projetos de orçamento dos serviços e organismos inseridos no programa orçamental da ciência, tecnologia e ensino superior;\n\nb) Colaborar na definição e acompanhamento dos modelos de financiamento público do ensino superior, da ação social do ensino superior e da ciência;\n\nc) Acompanhar e avaliar a execução das políticas e programas da área da ciência, tecnologia e ensino superior;\n\nd) Acompanhar a execução financeira dos serviços e organismos inseridos no programa orçamental da ciência, tecnologia e ensino superior, propondo medidas para eventuais ajustamentos que se revelem necessários para fazer face a riscos orçamentais emergentes;\n\ne) Apoiar a definição dos objetivos dos contratos-programa anuais e plurianuais a celebrar com as instituições do ensino superior, bem como do respetivo modelo de financiamento e assegurar o seu acompanhamento e avaliação;\n\nf) Desenvolver as ações necessárias ao exercício das competências do IGeFE, I. P., como entidade coordenadora do programa orçamental da ciência, tecnologia e ensino superior;\n\ng) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449149": {
+   "fragment_id": "205449409",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Sistemas e Tecnologias de Informação",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Departamento de Sistemas e Tecnologias de Informação\n\nAo Departamento de Sistemas e Tecnologias de Informação, abreviadamente designada por DSTI, compete:\n\na) Participar na definição das linhas de orientação estratégica das tecnologias de informação e comunicação (TIC) do MEC, promovendo os estudos necessários para um aumento da eficiência, eficácia, racionalização de custos, incremento e melhoria da qualidade dos serviços prestados pelo IGeFE, I. P., alinhados com o plano de ação setorial de racionalização das TIC no MEC;\n\nb) Executar os programas e projetos emergentes dos estudos referidos na alínea anterior;\n\nc) Definir e propor procedimentos operativos normalizados, transversais a todas as áreas dos sistemas de informação, tendo em vista a melhoria contínua e incremento da satisfação dos clientes e stakeholders do IGeFE, I. P.;\n\nd) Definir e implementar a execução de procedimentos de segurança que permitam assegurar a confidencialidade e a integridade da informação e o acesso seguro à infraestrutura informática do IGeFE, I. P.;\n\ne) Assegurar a administração das plataformas informáticas, das bases de dados, da rede de comunicações de voz e dados, garantindo a existência de procedimentos de salvaguarda, recuperação e disaster recovery da infraestrutura informática do IGeFE, I. P.;\n\nf) Planear e propor soluções de evolução da infraestrutura informática;\n\ng) Gerir e monitorizar a infraestrutura de suporte da solução ECM - Enterprise Content Management do MEC;\n\nh) Assegurar a exploração e o processamento dos dados que integram as aplicações de produção do IGeFE, I. P., assegurando a qualidade da informação obtida para apoio à decisão;\n\ni) Prestar apoio aos utilizadores dos Departamentos do IGeFE, I. P., nas soluções aplicacionais, nas infraestruturas informáticas e nos meios de comunicação existentes;\n\nj) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449139": {
+   "fragment_id": "205449410",
+   "type": 11,
+   "heading": "Artigo 8.º — Departamento de Administração Geral",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Departamento de Administração Geral\n\nAo Departamento de Administração Geral, abreviadamente designado por DAG, compete:\n\na) Elaborar o projeto de orçamento do IGeFE, I. P.;\n\nb) Assegurar e monitorizar a gestão orçamental, elaborar os respetivos relatórios de execução e efetuar a prestação de contas;\n\nc) Implementar sistemas e procedimentos de controlo interno;\n\nd) Assegurar a gestão do aprovisionamento, a gestão e conservação do património, das instalações e equipamentos, mantendo atualizado o inventário;\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) Assegurar as funções de Unidade Ministerial de Compras, no âmbito das unidades orgânicas do ensino básico e secundário da rede pública;\n\nk) Promover a aquisição agregada de bens e serviços abrangida nos acordos-quadro, no âmbito dos órgãos, serviços e estruturas que integram o programa orçamental do ensino básico e secundário e administração escolar, sem prejuízo das competências atribuídas à Secretaria-Geral da Educação e Ciência;\n\nl) Avaliar os resultados obtidos no âmbito do programa de compras públicas do IGeFE, I. P.;\n\nm) Promover o reporte estatístico anual das aquisições de bens e serviços, previsto no Código dos Contratos Públicos, no âmbito da competência do IGeFE,I. P.;\n\nn) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449140": {
+   "fragment_id": "205449411",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamento de Gestão e de Recursos Humanos",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 9.º — Departamento de Gestão e de Recursos Humanos\n\nAo Departamento de Gestão e de Recursos Humanos, abreviadamente designado por DGRH, compete:\n\na) Elaborar e consolidar a proposta de orçamento dos estabelecimentos de ensino básico e secundário da rede pública, monitorizar e controlar a sua execução;\n\nb) Assegurar a gestão centralizada do processamento das remunerações e outros abonos devidos aos trabalhadores dos órgãos, serviços e estruturas que integram o programa orçamental do ensino básico e secundário e administração escolar, cujo apoio seja prestado diretamente pelo IGeFE, I. P., normalizando os processos num contexto integrado;\n\nc) (Revogada.)\n\nd) Assegurar e acompanhar a execução dos meios financeiros a transferir para as Autarquias Locais, no âmbito das despesas com o pessoal não docente e das outras despesas correntes e de capital, nos termos definidos nos instrumentos legais de delegação e transferência de competências em matéria de educação;\n\ne) Gerir e monitorizar a execução financeira das despesas com pessoal e de funcionamento e projetos dos estabelecimentos de ensino básico e secundário da rede pública, no âmbito de projetos cofinanciados por fundos europeus;\n\nf) Prestar apoio técnico-administrativo na área financeira e dos recursos humanos aos estabelecimentos de ensino básico e secundário da rede pública;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) Assegurar, organizar e executar os procedimentos administrativos respeitantes à gestão dos recursos humanos, promovendo a aplicação das medidas de política definidas para a Administração Pública;\n\nk) Aplicar os regimes relativos às situações de ausência por doença, acidentes em serviço e outras situações no âmbito da proteção social dos trabalhadores dos órgãos, serviços e estruturas que integram o programa orçamental do ensino básico e secundário e administração escolar, cujo apoio seja prestado diretamente pelo IGeFE, I. P.;\n\nl) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\nm) Planear, definir os critérios, elaborar e distribuir o orçamento individualizado pelos estabelecimentos de ensino básico e secundário e monitorizar a respetiva execução;\n\nn) Desenvolver as ações necessárias ao exercício das competências do IGeFE, I. P., como organismo intermédio no âmbito de fundos europeus, cujos beneficiários finais sejam maioritariamente estabelecimentos de ensino básico e secundário da rede pública;\n\no) Implementar e coordenar a aplicação de normas sobre condições ambientais, saúde, higiene e segurança no trabalho;\n\np) Elaborar e gerir o plano de formação profissional do IGeFE, I. P.;\n\nq) Acompanhar o Sistema Integrado de Gestão e Avaliação do Desempenho na Administração Pública do IGeFE, I. P. (SIADAP 2 e 3);\n\nr) Assegurar a recolha e a qualidade da informação necessária à gestão dos recursos humanos, e registar no Sistema de Informação da Organização do Estado (SIOE) a respetiva informação do IGeFE, I. P.;\n\ns) Elaborar o balanço social do IGeFE, I. P.;\n\nt) Desenvolver as ações necessárias, no âmbito da gestão e conservação das instalações e equipamentos, de forma a garantir boas condições de trabalho aos trabalhadores do IGeFE, I. P., em articulação com o Departamento de Administração Geral.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449142": {
+   "fragment_id": "205449422",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Departamento da Rede Escolar e Projetos",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Departamento da Rede Escolar e Projetos\n\nAo Departamento da Rede Escolar e Projetos, abreviadamente designado por DREP, compete:\n\na) Coordenar o planeamento da rede escolar e a sua racionalização;\n\nb) Promover o planeamento e desenvolver cenários de apoio à decisão com vista à melhoria da organização e dos resultados da rede escolar e dos seus estabelecimentos;\n\nc) Gerir o sistema de requalificação das infraestruturas escolares, para, de forma centrada, simplificada e digital, acompanhar a execução dos procedimentos relativos às candidaturas ao programa nacional de requalificação da rede escolar;\n\nd) Gerir a base de dados dos estabelecimentos de educação e ensino da rede pública no âmbito do movimento anual da rede escolar;\n\ne) Acompanhar e monitorizar a elaboração, aprovação, implementação e avaliação das cartas educativas;\n\nf) Conceber indicadores destinados a apoiar o planeamento e a gestão do sistema educativo;\n\ng) Organizar e disponibilizar informação financeira referente ao sistema educativo, para resposta a entidades e organizações nacionais, comunitárias e internacionais;\n\nh) Coordenar a elaboração dos instrumentos de gestão, em linha com o plano estratégico definido para a organização;\n\ni) Promover e monitorizar a gestão da qualidade dos processos e procedimentos internos do IGeFE, I. P., com vista à implementação de mecanismos de melhoria contínua;\n\nj) Gerir e coordenar os projetos transversais que lhe sejam atribuídos, em articulação com os demais departamentos.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449144": {
+   "fragment_id": "205449423",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Departamento de Gestão de Infraestruturas Tecnológicas",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 9.º-B — Departamento de Gestão de Infraestruturas Tecnológicas\n\nAo Departamento de Gestão de Infraestruturas Tecnológicas, abreviadamente designado por DGIT, compete:\n\na) Gerir as infraestruturas de tecnologias de informação e telecomunicações e assegurar a administração dos sistemas, numa lógica de serviços comuns partilhados, para a área governativa da educação;\n\nb) Conceber, desenvolver e implementar um plano de infraestruturas tecnológicas e de telecomunicações, de acordo com o definido no Plano Estratégico de Sistemas de Informação (PESI);\n\nc) Assegurar a operacionalidade, exploração e monitorização das infraestruturas nas componentes de hardware e networking e outros sistemas no âmbito da sua atuação;\n\nd) Assegurar a administração, a operação e supervisão de sistemas, garantindo a sua adequação permanente às necessidades e aos níveis de serviço definidos;\n\ne) Assegurar a gestão e operação das infraestruturas tecnológicas e de telecomunicações necessárias ao funcionamento dos sistemas de informação dos órgãos, serviços e organismos da área governativa da educação e dos estabelecimentos de educação e ensino, numa lógica de serviços comuns partilhados;\n\nf) Participar no estudo e assegurar a implementação e operacionalização de iniciativas na área dos sistemas de informação, em articulação com os organismos promotores;\n\ng) Definir e assegurar a aplicação de regras e normas de utilização dos sistemas de informação, garantindo a segurança, confidencialidade e integridade da informação e das plataformas tecnológicas associadas;\n\nh) Gerir e assegurar a operacionalidade, exploração e monitorização dos centros de dados que alojam os sistemas informáticos dos órgãos e serviços da área governativa da educação;\n\ni) Gerir as infraestruturas de telecomunicações de voz e dados da área governativa da educação;\n\nj) Promover a consolidação e a racionalização de infraestruturas tecnológicas nos serviços e organismos da área governativa da educação, acompanhando os processos de seleção, aquisição e instalação de equipamentos informáticos, bem como a gestão do seu ciclo de vida, com respeito pelos princípios da racionalidade económica;\n\nk) Promover o desenvolvimento, definição e cumprimento de normas de segurança associadas aos sistemas de informação da área governativa da educação, de acordo com as recomendações dos organismos setoriais com competências nesse domínio e em observância das melhores práticas internacionais;\n\nl) Responder e mitigar eventuais ataques informáticos;\n\nm) Assegurar a articulação com outras áreas governativas, tendo em vista o reforço da segurança das comunicações e dos sistemas de informação da Administração Pública;\n\nn) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449146": {
+   "fragment_id": "205449424",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Departamento de Sistemas de Informação",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 9.º-C — Departamento de Sistemas de Informação\n\nAo Departamento de Sistemas de Informação, abreviadamente designado por DSI, compete:\n\na) Definir, implementar e manter atualizada uma arquitetura de referência para os sistemas de informação, de acordo com o preconizado no PESI e em articulação com os órgãos e serviços da área governativa da educação e da Administração Pública com competência nessas matérias, garantindo o seu alinhamento com as boas práticas e as tendências da tecnologia;\n\nb) Planear, definir, normalizar e gerir o desenvolvimento, teste, manutenção e acreditação dos sistemas de informação da área governativa da educação, de acordo com a arquitetura de referência e o preconizado no PESI, numa lógica de serviços comuns partilhados;\n\nc) Definir, implementar e manter atualizada uma arquitetura de referência para os sistemas de informação, de acordo com o preconizado no PESI e em articulação com os órgãos e serviços da área governativa da educação e da Administração Pública com competência nessas matérias, garantindo o seu alinhamento com as boas práticas e as tendências da tecnologia;\n\nd) Apoiar a definição da orientação tecnológica, estudando e propondo a evolução das infraestruturas lógicas e de modelos tecnológicos;\n\ne) Assegurar a coordenação técnica da gestão dos sistemas de segurança de informação e de gestão de riscos;\n\nf) Executar a acreditação de sistemas e soluções aplicacionais, desenvolvendo os testes adequados;\n\ng) Proceder à avaliação permanente do desempenho técnico das soluções e sistemas aplicacionais em produção;\n\nh) Definir e dinamizar a utilização das metodologias e ferramentas de trabalho de tecnologias de informação;\n\ni) Apoiar os demais departamentos do IGeFE, I. P., e os órgãos, serviços e organismos da área governativa da educação no desenho e conceção dos sistemas de informação necessários à prossecução das suas atribuições e competências, garantindo o alinhamento com o PESI, as tendências de mercado e procurando uma efetiva racionalização da utilização de recursos;\n\nj) Assegurar a administração de sistemas e a gestão das plataformas tecnológicas, tendo em vista a disponibilização de serviços estáveis, fiáveis e seguros;\n\nk) Monitorizar a disponibilidade e o desempenho das aplicações, sistemas de informação e plataformas tecnológicas sob sua gestão;\n\nl) Assegurar a construção, gestão e operação dos sistemas de informação dos órgãos, serviços e organismos da área governativa da educação e dos estabelecimentos de educação e ensino, numa lógica de serviços comuns partilhados;\n\nm) Assegurar o desenvolvimento coerente e eficiente do SIIE, enquanto agregador dos sistemas de informação no âmbito dos órgãos, serviços e organismos da área governativa da educação, garantindo a qualidade, a consistência, a segurança e a disponibilidade da informação e articulando a configuração do tipo e da forma de acesso, em função das atribuições de cada órgão, serviço e organismo;\n\nn) Prestar o apoio necessário aos estabelecimentos de educação e ensino na articulação entre as suas aplicações informáticas e o SIIE, promovendo as ações de divulgação e formação aos utilizadores, necessárias ao bom funcionamento e desempenho dos sistemas de informação e certificar as aplicações informáticas de gestão escolar;\n\no) Gerir os protocolos e implementar os processos de partilha de dados com os vários organismos da Administração Pública;\n\np) Conceber, desenvolver e gerir sistemas de tratamento de dados, produção de indicadores e apoio à decisão;\n\nq) Desenvolver, atualizar e gerir sistemas e processos de controlo de qualidade de dados;\n\nr) Conceber, desenvolver e gerir sistemas inteligentes de indicadores de risco de suporte ao combate à fraude;\n\ns) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "205449147": {
+   "fragment_id": "205449412",
+   "type": 11,
+   "heading": "Artigo 10.º — Equipas multidisciplinares",
+   "in_force_from": "2022-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Equipas multidisciplinares\n\n1 - A organização interna do IGeFE, I. P., pode incluir até três equipas multidisciplinares criadas por deliberação do conselho diretivo, que define os seus objetivos, duração e composição.\n\n2 - O chefe de equipa multidisciplinar é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934283171": {
+   "fragment_id": "205449403",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados, em anexo à presente portaria, e da qual fazem parte integrante, os Estatutos do Instituto de Gestão Financeira da Educação, I. P., abreviadamente designado por IGeFE, I. P.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934283172": {
+   "fragment_id": "205449404",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 148/2012, de 16 de maio, alterada pelas Portarias n.os 337/2012, de 24 de outubro e 31/2013, de 29 de janeiro.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934283173": {
+   "fragment_id": "205449405",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934283174": {
+   "fragment_id": "205449413",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 11 de agosto de 2015. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 10 de agosto de 2015.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934469675": {
+   "fragment_id": "205449414",
+   "type": 14,
+   "heading": "ANEXO — ESTATUTOS DO INSTITUTO DE GESTÃO FINANCEIRA DA EDUCAÇÃO, I. P.",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "## ANEXO — ESTATUTOS DO INSTITUTO DE GESTÃO FINANCEIRA DA EDUCAÇÃO, I. P.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934469676": {
+   "fragment_id": "205449415",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\nA organização interna dos serviços do Instituto de Gestão Financeira da Educação, I. P., abreviadamente designado por IGeFE, I. P., obedece ao seguinte modelo estrutural misto:\n\na) Nas áreas de atividade relativas à prossecução de atribuições nos domínios orçamental, sistemas e tecnologias de informação, compras públicas, centralização de vencimentos, apoio jurídico e apoio à decisão, é adotado o modelo de estrutura hierarquizada;\n\nb) Nas áreas de atividade relativas ao desenvolvimento de projetos transversais relacionados com a modernização dos sistemas administrativos e dos processos de trabalho e a interoperabilidade dos sistemas de informação, é adotado o modelo de estrutura matricial.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934469677": {
+   "fragment_id": "205449416",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura nuclear",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Estrutura nuclear\n\nA organização interna do IGeFE, I. P., é constituída pelas seguintes unidades orgânicas nucleares:\n\na) Departamento de Planeamento e Coordenação Orçamental;\n\nb) (Revogada.)\n\nc) Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior;\n\nd) (Revogada.)\n\ne) Departamento de Administração Geral;\n\nf) Departamento de Gestão e de Recursos Humanos.\n\ng) Departamento da Rede Escolar e Projetos;\n\nh) Departamento de Gestão de Infraestruturas Tecnológicas;\n\ni) Departamento de Sistemas de Informação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469678": {
+   "fragment_id": "205449417",
+   "type": 11,
+   "heading": "Artigo 3.º — Cargos dirigentes intermédios",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Cargos dirigentes intermédios\n\n1 - Os departamentos são dirigidos por diretores de departamento, cargos de direção intermédia de 1.º grau.\n\n2 - Por deliberação do conselho diretivo, podem ser criadas unidades flexíveis designadas por núcleos, até ao limite de 12, dirigidas por coordenadores de núcleo, cargos de direção intermédia de 2.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469679": {
+   "fragment_id": "205449406",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Planeamento e Coordenação Orçamental",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Departamento de Planeamento e Coordenação Orçamental\n\nAo Departamento de Planeamento e Coordenação Orçamental, abreviadamente designado por DPCO, compete:\n\na) Planear e executar as ações inerentes à elaboração do projeto de orçamento anual de atividades e projetos do programa orçamental do ensino básico e secundário e administração escolar;\n\nb) Proceder à monitorização, controlo e avaliação da execução orçamental e financeira, garantindo o cumprimento dos objetivos definidos para o programa orçamental do ensino básico e secundário e administração escolar;\n\nc) Assegurar o acompanhamento, o controlo e a avaliação mensal da execução orçamental dos órgãos, serviços e estruturas inseridos no programa orçamental do ensino básico e secundário e administração escolar, propondo medidas e ajustamentos que se revelem necessários com vista a uma otimização dos recursos financeiros disponíveis;\n\nd) Desenvolver as ações necessárias ao exercício das competências do IGeFE, I. P., como entidade coordenadora do programa orçamental do ensino básico e secundário e administração escolar;\n\ne) Colaborar na elaboração do quadro plurianual do programa orçamental do ensino básico e secundário e administração escolar;\n\nf) Prestar apoio técnico aos órgãos, serviços e estruturas que integram o programa orçamental do ensino básico e secundário e administração escolar, no âmbito das competências do departamento;\n\ng) Assegurar a atualização dos instrumentos de planeamento financeiro com vista à concretização das orientações de política orçamental;\n\nh) (Revogada.)\n\ni) Promover e gerir programas de política setorial, integrando o respetivo planeamento orçamental;\n\nj) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469680": {
+   "fragment_id": "205449407",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento de Organização e Gestão dos Estabelecimentos de Ensino Básico e Secundário",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Departamento de Organização e Gestão dos Estabelecimentos de Ensino Básico e Secundário\n\nAo Departamento de Organização e Gestão dos Estabelecimentos de Ensino Básico e Secundário, abreviadamente designado por DOGEEBS, compete:\n\na) Coordenar o planeamento da rede escolar e a sua racionalização;\n\nb) Planear, definir os critérios, elaborar e distribuir o orçamento individualizado pelos estabelecimentos de ensino básico e secundário e monitorizar a respetiva execução;\n\nc) Assegurar e acompanhar a execução dos meios financeiros a transferir para as Autarquias Locais, no âmbito das outras despesas correntes e de capital, nos termos definidos nos contratos interadministrativos de delegação de competências;\n\nd) Gerir e monitorizar a execução financeira de projetos dos estabelecimentos de ensino básico e secundário da rede pública do MEC cofinanciados por fundos europeus, no âmbito das outras despesas correntes e de capital;\n\ne) Monitorizar e coordenar a implementação do Plano Oficial de Contas para a Educação (POC-E), nos estabelecimentos de ensino básico e secundário da rede pública do MEC;\n\nf) Conceber e aplicar um sistema de indicadores económico-financeiros que permitam otimizar os recursos financeiros disponíveis para o funcionamento do subsistema do ensino básico e secundário;\n\ng) Prestar apoio técnico-administrativo na área financeira aos estabelecimentos de ensino básico e secundário da rede pública do MEC;\n\nh) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469681": {
+   "fragment_id": "205449408",
+   "type": 11,
+   "heading": "Artigo 6.º — Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 6.º — Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior\n\nAo Departamento do Orçamento da Ciência, Tecnologia e Ensino Superior, abreviadamente designado por DOCTES, compete:\n\na) Colaborar na preparação dos projetos de orçamento dos serviços e organismos inseridos no programa orçamental da ciência, tecnologia e ensino superior;\n\nb) Colaborar na definição e acompanhamento dos modelos de financiamento público do ensino superior, da ação social do ensino superior e da ciência;\n\nc) Acompanhar e avaliar a execução das políticas e programas da área da ciência, tecnologia e ensino superior;\n\nd) Acompanhar a execução financeira dos serviços e organismos inseridos no programa orçamental da ciência, tecnologia e ensino superior, propondo medidas para eventuais ajustamentos que se revelem necessários para fazer face a riscos orçamentais emergentes;\n\ne) Apoiar a definição dos objetivos dos contratos-programa anuais e plurianuais a celebrar com as instituições do ensino superior, bem como do respetivo modelo de financiamento e assegurar o seu acompanhamento e avaliação;\n\nf) Desenvolver as ações necessárias ao exercício das competências do IGeFE, I. P., como entidade coordenadora do programa orçamental da ciência, tecnologia e ensino superior;\n\ng) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469682": {
+   "fragment_id": "205449409",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Sistemas e Tecnologias de Informação",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Departamento de Sistemas e Tecnologias de Informação\n\nAo Departamento de Sistemas e Tecnologias de Informação, abreviadamente designada por DSTI, compete:\n\na) Participar na definição das linhas de orientação estratégica das tecnologias de informação e comunicação (TIC) do MEC, promovendo os estudos necessários para um aumento da eficiência, eficácia, racionalização de custos, incremento e melhoria da qualidade dos serviços prestados pelo IGeFE, I. P., alinhados com o plano de ação setorial de racionalização das TIC no MEC;\n\nb) Executar os programas e projetos emergentes dos estudos referidos na alínea anterior;\n\nc) Definir e propor procedimentos operativos normalizados, transversais a todas as áreas dos sistemas de informação, tendo em vista a melhoria contínua e incremento da satisfação dos clientes e stakeholders do IGeFE, I. P.;\n\nd) Definir e implementar a execução de procedimentos de segurança que permitam assegurar a confidencialidade e a integridade da informação e o acesso seguro à infraestrutura informática do IGeFE, I. P.;\n\ne) Assegurar a administração das plataformas informáticas, das bases de dados, da rede de comunicações de voz e dados, garantindo a existência de procedimentos de salvaguarda, recuperação e disaster recovery da infraestrutura informática do IGeFE, I. P.;\n\nf) Planear e propor soluções de evolução da infraestrutura informática;\n\ng) Gerir e monitorizar a infraestrutura de suporte da solução ECM - Enterprise Content Management do MEC;\n\nh) Assegurar a exploração e o processamento dos dados que integram as aplicações de produção do IGeFE, I. P., assegurando a qualidade da informação obtida para apoio à decisão;\n\ni) Prestar apoio aos utilizadores dos Departamentos do IGeFE, I. P., nas soluções aplicacionais, nas infraestruturas informáticas e nos meios de comunicação existentes;\n\nj) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469683": {
+   "fragment_id": "205449410",
+   "type": 11,
+   "heading": "Artigo 8.º — Departamento de Administração Geral",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Departamento de Administração Geral\n\nAo Departamento de Administração Geral, abreviadamente designado por DAG, compete:\n\na) Elaborar o projeto de orçamento do IGeFE, I. P.;\n\nb) Assegurar e monitorizar a gestão orçamental, elaborar os respetivos relatórios de execução e efetuar a prestação de contas;\n\nc) Implementar sistemas e procedimentos de controlo interno;\n\nd) Assegurar a gestão do aprovisionamento, a gestão e conservação do património, das instalações e equipamentos, mantendo atualizado o inventário;\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) Assegurar as funções de Unidade Ministerial de Compras, no âmbito das unidades orgânicas do ensino básico e secundário da rede pública;\n\nk) Promover a aquisição agregada de bens e serviços abrangida nos acordos-quadro, no âmbito dos órgãos, serviços e estruturas que integram o programa orçamental do ensino básico e secundário e administração escolar, sem prejuízo das competências atribuídas à Secretaria-Geral da Educação e Ciência;\n\nl) Avaliar os resultados obtidos no âmbito do programa de compras públicas do IGeFE, I. P.;\n\nm) Promover o reporte estatístico anual das aquisições de bens e serviços, previsto no Código dos Contratos Públicos, no âmbito da competência do IGeFE,I. P.;\n\nn) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469684": {
+   "fragment_id": "205449411",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamento de Gestão e de Recursos Humanos",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 9.º — Departamento de Gestão e de Recursos Humanos\n\nAo Departamento de Gestão e de Recursos Humanos, abreviadamente designado por DGRH, compete:\n\na) Elaborar e consolidar a proposta de orçamento dos estabelecimentos de ensino básico e secundário da rede pública, monitorizar e controlar a sua execução;\n\nb) Assegurar a gestão centralizada do processamento das remunerações e outros abonos devidos aos trabalhadores dos órgãos, serviços e estruturas que integram o programa orçamental do ensino básico e secundário e administração escolar, cujo apoio seja prestado diretamente pelo IGeFE, I. P., normalizando os processos num contexto integrado;\n\nc) (Revogada.)\n\nd) Assegurar e acompanhar a execução dos meios financeiros a transferir para as Autarquias Locais, no âmbito das despesas com o pessoal não docente e das outras despesas correntes e de capital, nos termos definidos nos instrumentos legais de delegação e transferência de competências em matéria de educação;\n\ne) Gerir e monitorizar a execução financeira das despesas com pessoal e de funcionamento e projetos dos estabelecimentos de ensino básico e secundário da rede pública, no âmbito de projetos cofinanciados por fundos europeus;\n\nf) Prestar apoio técnico-administrativo na área financeira e dos recursos humanos aos estabelecimentos de ensino básico e secundário da rede pública;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) Assegurar, organizar e executar os procedimentos administrativos respeitantes à gestão dos recursos humanos, promovendo a aplicação das medidas de política definidas para a Administração Pública;\n\nk) Aplicar os regimes relativos às situações de ausência por doença, acidentes em serviço e outras situações no âmbito da proteção social dos trabalhadores dos órgãos, serviços e estruturas que integram o programa orçamental do ensino básico e secundário e administração escolar, cujo apoio seja prestado diretamente pelo IGeFE, I. P.;\n\nl) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\nm) Planear, definir os critérios, elaborar e distribuir o orçamento individualizado pelos estabelecimentos de ensino básico e secundário e monitorizar a respetiva execução;\n\nn) Desenvolver as ações necessárias ao exercício das competências do IGeFE, I. P., como organismo intermédio no âmbito de fundos europeus, cujos beneficiários finais sejam maioritariamente estabelecimentos de ensino básico e secundário da rede pública;\n\no) Implementar e coordenar a aplicação de normas sobre condições ambientais, saúde, higiene e segurança no trabalho;\n\np) Elaborar e gerir o plano de formação profissional do IGeFE, I. P.;\n\nq) Acompanhar o Sistema Integrado de Gestão e Avaliação do Desempenho na Administração Pública do IGeFE, I. P. (SIADAP 2 e 3);\n\nr) Assegurar a recolha e a qualidade da informação necessária à gestão dos recursos humanos, e registar no Sistema de Informação da Organização do Estado (SIOE) a respetiva informação do IGeFE, I. P.;\n\ns) Elaborar o balanço social do IGeFE, I. P.;\n\nt) Desenvolver as ações necessárias, no âmbito da gestão e conservação das instalações e equipamentos, de forma a garantir boas condições de trabalho aos trabalhadores do IGeFE, I. P., em articulação com o Departamento de Administração Geral.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469685": {
+   "fragment_id": "205449422",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Departamento da Rede Escolar e Projetos",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Departamento da Rede Escolar e Projetos\n\nAo Departamento da Rede Escolar e Projetos, abreviadamente designado por DREP, compete:\n\na) Coordenar o planeamento da rede escolar e a sua racionalização;\n\nb) Promover o planeamento e desenvolver cenários de apoio à decisão com vista à melhoria da organização e dos resultados da rede escolar e dos seus estabelecimentos;\n\nc) Gerir o sistema de requalificação das infraestruturas escolares, para, de forma centrada, simplificada e digital, acompanhar a execução dos procedimentos relativos às candidaturas ao programa nacional de requalificação da rede escolar;\n\nd) Gerir a base de dados dos estabelecimentos de educação e ensino da rede pública no âmbito do movimento anual da rede escolar;\n\ne) Acompanhar e monitorizar a elaboração, aprovação, implementação e avaliação das cartas educativas;\n\nf) Conceber indicadores destinados a apoiar o planeamento e a gestão do sistema educativo;\n\ng) Organizar e disponibilizar informação financeira referente ao sistema educativo, para resposta a entidades e organizações nacionais, comunitárias e internacionais;\n\nh) Coordenar a elaboração dos instrumentos de gestão, em linha com o plano estratégico definido para a organização;\n\ni) Promover e monitorizar a gestão da qualidade dos processos e procedimentos internos do IGeFE, I. P., com vista à implementação de mecanismos de melhoria contínua;\n\nj) Gerir e coordenar os projetos transversais que lhe sejam atribuídos, em articulação com os demais departamentos.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469686": {
+   "fragment_id": "205449423",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Departamento de Gestão de Infraestruturas Tecnológicas",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 9.º-B — Departamento de Gestão de Infraestruturas Tecnológicas\n\nAo Departamento de Gestão de Infraestruturas Tecnológicas, abreviadamente designado por DGIT, compete:\n\na) Gerir as infraestruturas de tecnologias de informação e telecomunicações e assegurar a administração dos sistemas, numa lógica de serviços comuns partilhados, para a área governativa da educação;\n\nb) Conceber, desenvolver e implementar um plano de infraestruturas tecnológicas e de telecomunicações, de acordo com o definido no Plano Estratégico de Sistemas de Informação (PESI);\n\nc) Assegurar a operacionalidade, exploração e monitorização das infraestruturas nas componentes de hardware e networking e outros sistemas no âmbito da sua atuação;\n\nd) Assegurar a administração, a operação e supervisão de sistemas, garantindo a sua adequação permanente às necessidades e aos níveis de serviço definidos;\n\ne) Assegurar a gestão e operação das infraestruturas tecnológicas e de telecomunicações necessárias ao funcionamento dos sistemas de informação dos órgãos, serviços e organismos da área governativa da educação e dos estabelecimentos de educação e ensino, numa lógica de serviços comuns partilhados;\n\nf) Participar no estudo e assegurar a implementação e operacionalização de iniciativas na área dos sistemas de informação, em articulação com os organismos promotores;\n\ng) Definir e assegurar a aplicação de regras e normas de utilização dos sistemas de informação, garantindo a segurança, confidencialidade e integridade da informação e das plataformas tecnológicas associadas;\n\nh) Gerir e assegurar a operacionalidade, exploração e monitorização dos centros de dados que alojam os sistemas informáticos dos órgãos e serviços da área governativa da educação;\n\ni) Gerir as infraestruturas de telecomunicações de voz e dados da área governativa da educação;\n\nj) Promover a consolidação e a racionalização de infraestruturas tecnológicas nos serviços e organismos da área governativa da educação, acompanhando os processos de seleção, aquisição e instalação de equipamentos informáticos, bem como a gestão do seu ciclo de vida, com respeito pelos princípios da racionalidade económica;\n\nk) Promover o desenvolvimento, definição e cumprimento de normas de segurança associadas aos sistemas de informação da área governativa da educação, de acordo com as recomendações dos organismos setoriais com competências nesse domínio e em observância das melhores práticas internacionais;\n\nl) Responder e mitigar eventuais ataques informáticos;\n\nm) Assegurar a articulação com outras áreas governativas, tendo em vista o reforço da segurança das comunicações e dos sistemas de informação da Administração Pública;\n\nn) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469687": {
+   "fragment_id": "205449424",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Departamento de Sistemas de Informação",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 9.º-C — Departamento de Sistemas de Informação\n\nAo Departamento de Sistemas de Informação, abreviadamente designado por DSI, compete:\n\na) Definir, implementar e manter atualizada uma arquitetura de referência para os sistemas de informação, de acordo com o preconizado no PESI e em articulação com os órgãos e serviços da área governativa da educação e da Administração Pública com competência nessas matérias, garantindo o seu alinhamento com as boas práticas e as tendências da tecnologia;\n\nb) Planear, definir, normalizar e gerir o desenvolvimento, teste, manutenção e acreditação dos sistemas de informação da área governativa da educação, de acordo com a arquitetura de referência e o preconizado no PESI, numa lógica de serviços comuns partilhados;\n\nc) Definir, implementar e manter atualizada uma arquitetura de referência para os sistemas de informação, de acordo com o preconizado no PESI e em articulação com os órgãos e serviços da área governativa da educação e da Administração Pública com competência nessas matérias, garantindo o seu alinhamento com as boas práticas e as tendências da tecnologia;\n\nd) Apoiar a definição da orientação tecnológica, estudando e propondo a evolução das infraestruturas lógicas e de modelos tecnológicos;\n\ne) Assegurar a coordenação técnica da gestão dos sistemas de segurança de informação e de gestão de riscos;\n\nf) Executar a acreditação de sistemas e soluções aplicacionais, desenvolvendo os testes adequados;\n\ng) Proceder à avaliação permanente do desempenho técnico das soluções e sistemas aplicacionais em produção;\n\nh) Definir e dinamizar a utilização das metodologias e ferramentas de trabalho de tecnologias de informação;\n\ni) Apoiar os demais departamentos do IGeFE, I. P., e os órgãos, serviços e organismos da área governativa da educação no desenho e conceção dos sistemas de informação necessários à prossecução das suas atribuições e competências, garantindo o alinhamento com o PESI, as tendências de mercado e procurando uma efetiva racionalização da utilização de recursos;\n\nj) Assegurar a administração de sistemas e a gestão das plataformas tecnológicas, tendo em vista a disponibilização de serviços estáveis, fiáveis e seguros;\n\nk) Monitorizar a disponibilidade e o desempenho das aplicações, sistemas de informação e plataformas tecnológicas sob sua gestão;\n\nl) Assegurar a construção, gestão e operação dos sistemas de informação dos órgãos, serviços e organismos da área governativa da educação e dos estabelecimentos de educação e ensino, numa lógica de serviços comuns partilhados;\n\nm) Assegurar o desenvolvimento coerente e eficiente do SIIE, enquanto agregador dos sistemas de informação no âmbito dos órgãos, serviços e organismos da área governativa da educação, garantindo a qualidade, a consistência, a segurança e a disponibilidade da informação e articulando a configuração do tipo e da forma de acesso, em função das atribuições de cada órgão, serviço e organismo;\n\nn) Prestar o apoio necessário aos estabelecimentos de educação e ensino na articulação entre as suas aplicações informáticas e o SIIE, promovendo as ações de divulgação e formação aos utilizadores, necessárias ao bom funcionamento e desempenho dos sistemas de informação e certificar as aplicações informáticas de gestão escolar;\n\no) Gerir os protocolos e implementar os processos de partilha de dados com os vários organismos da Administração Pública;\n\np) Conceber, desenvolver e gerir sistemas de tratamento de dados, produção de indicadores e apoio à decisão;\n\nq) Desenvolver, atualizar e gerir sistemas e processos de controlo de qualidade de dados;\n\nr) Conceber, desenvolver e gerir sistemas inteligentes de indicadores de risco de suporte ao combate à fraude;\n\ns) Disponibilizar informação para a elaboração dos instrumentos de gestão, alinhada com o plano estratégico definido para a organização.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  },
+  "934469688": {
+   "fragment_id": "205449412",
+   "type": 11,
+   "heading": "Artigo 10.º — Equipas multidisciplinares",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Equipas multidisciplinares\n\n1 - A organização interna do IGeFE, I. P., pode incluir até três equipas multidisciplinares criadas por deliberação do conselho diretivo, que define os seus objetivos, duração e composição.\n\n2 - O chefe de equipa multidisciplinar é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 310/2022 - Diário da República n.º 249/2022, Série I de 2022-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/310-2022-205378568), em vigor a partir de 2022-12-29, produz efeitos a partir de 2022-06-01"
+  }
+ }
+}

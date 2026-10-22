@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:122686171:por
+title: Resolução do Conselho de Ministros n.º 105/2019
+short_title: null
+summary: Designa os membros do conselho diretivo do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I.
+  P.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 105/2019
+official_date: null
+publication_date: '2019-06-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 120/2019, Série I de 2019-06-26
+  number: '120'
+  series: I
+  supplement: null
+  pages: 3052 - 3053
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/06/12000/0305203053.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/105/2019/06/26/p/dre/pt/html
+  oj: null
+  dre: '122686171'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/105-2019-122686171
+  internal: pt:dre:122686171:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2019-122686171
+  metadata_url: https://data.dre.pt/eli/resolconsmin/105/2019/06/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2019-122686171
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-06-26T00:00:00Z'
+integrity:
+  source_sha256: c1d60785f988ee9202265931ebabcc5292dd2c8fa012503acb1991824d08b5eb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2019/DRE-2019-105-122686171.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Infarmed
+- Conselho Diretivo
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/46/2012/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/46/2012/02/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/34/2012/03/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/34/2012/03/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 105/2019
+
+Nos termos do disposto no n.º 1 do artigo 5.º e do artigo 11.º do [Decreto-Lei n.º 46/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2012-542588), de 24 de fevereiro, na sua redação atual, conjugados com o n.º 2 do artigo 13.º e o artigo 15.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, resulta que os membros do conselho diretivo do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., são designados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, até ao limite máximo de três renovações consecutivas.
+
+Atendendo a que os atuais membros do conselho diretivo do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., cessaram o respetivo mandato a 13 de janeiro de 2019, torna-se necessário proceder à designação dos membros deste órgão diretivo, para um mandato de três anos.
+
+A remuneração dos membros do conselho diretivo deste instituto público de regime especial obedece ao disposto na [Resolução do Conselho de Ministros n.º 34/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-2012-553466), de 15 de março.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as designações constantes da presente resolução.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 5.º e do artigo 11.º do [Decreto-Lei n.º 46/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2012-542588), de 24 de fevereiro, na sua redação atual, conjugados com os n.os 2 e 3 do artigo 13.º, o artigo 15.º, a alínea c) do n.º 3 do artigo 20.º e o n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, sob proposta do Ministro das Finanças e da Ministra da Saúde, para exercer funções no conselho diretivo do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., os seguintes membros, cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução, dela fazendo parte integrante:
+
+a) Presidente do Conselho Diretivo - Rui dos Santos Ivo;
+
+b) Vice-Presidente - António Manuel Núncio Faria Vaz;
+
+c) Vogal - Cláudia Susana da Conceição Robalo de Jesus Belo Ferreira.
+
+2 - Autorizar os designados Rui dos Santos Ivo, António Manuel Núncio Faria Vaz e Cláudia Susana da Conceição Robalo de Jesus Belo Ferreira, a exercer a atividade de docência em estabelecimentos de ensino superior público ou de interesse público.
+
+3 - Autorizar o designado António Manuel Núncio Faria Vaz a optar pelo vencimento de origem.
+
+4 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua aprovação.
+
+Presidência do Conselho de Ministros, 13 de junho de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — (a que se refere o n.º 1)
+
+Notas curriculares
+
+Rui dos Santos Ivo, nascido a 4 de dezembro de 1961.
+
+Percurso académico: Licenciado em Ciências Farmacêuticas, Universidade de Lisboa (1987). Especialista em Farmácia Hospitalar, Ministério da Saúde (1992), Ordem dos Farmacêuticos (2006) e Regulamentação Farmacêutica, a título emérito, Ordem dos Farmacêuticos (1997). Formação pós-graduada em Direito da Saúde (Faculdade de Direito, Universidade de Lisboa e Escola Nacional de Saúde Pública, 1997), Medicina Farmacêutica (Universidade de Basileia, 1999), Regulação (London School of Economics and Political Science, 1999), Gestão de Unidades de Saúde (Universidade Católica Portuguesa, 2000), PADIS-Programa de Alta Direção de Instituições de Saúde (AESE Business School, Lisboa, 2015).
+
+Percurso profissional: Iniciou a sua carreira profissional como farmacêutico hospitalar no Hospital de Egas Moniz, atual Centro Hospitalar de Lisboa Ocidental. Em 1993, ingressou na Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), onde exerceu os cargos de vogal/vice-presidente (1994-2000) e presidente (2002-2005). Administrador na direção da Agência Europeia de Medicamentos (EMA), em Londres (2000-2002) e membro do Conselho de Administração em 2002-2005. Primeiro chairman do Grupo de Coordenação das Autoridades do Medicamento da União Europeia (2004-2005). Administrador na Unidade de Produtos Farmacêuticos/Direção-Geral de Empresas e Indústria, Comissão Europeia (2006-2008). Diretor executivo da Associação Portuguesa da Indústria Farmacêutica (2008-2011). Vice-presidente (2011-2014) e presidente (2014-2016) na Administração Central do Sistema de Saúde, I. P. É professor auxiliar convidado de Regulação do Medicamento no mestrado em Regulação e Avaliação do Medicamento e Produtos de Saúde, Faculdade de Farmácia da Universidade de Lisboa.
+
+É membro do Conselho de Administração da EMA desde 2016. Membro do Conselho Executivo da Rede Europeia de Autoridades responsáveis pela avaliação de tecnologias de saúde (EUnetHTA). Vice-chairman do Comité Técnico Permanente da Declaração de La Valletta (cooperação entre 10 países da UE na negociação conjunta preços de medicamentos).
+
+Desde janeiro de 2016 é vice-presidente do conselho diretivo da Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.).
+
+Outros elementos: Em abril 2004, Prémio Almofariz «Personalidade do ano 2004» no sector farmacêutico. Em 2014 Membro Correspondente Europeu da Académie de Pharmacie, França. Em 2015 recebeu a Medalha de Serviços Distintos - Grau Ouro, pelo Ministro da Saúde.
+
+António Manuel Núncio Faria Vaz, nascido a 12 de julho de 1955.
+
+Percurso Académico: Licenciado em Medicina pela Faculdade de Medicina de Lisboa (1983); Especialista em Medicina Geral e Familiar (1990), pós-graduação em economia do medicamento (ISEG/FFL (1995-1997)); Mestrado em Farmacoepidemiologia (Instituto Catalão de Farmacologia - Universidade Autónoma de Barcelona - 2000-2005); Mestrado em Ensaios Clínicos (Faculdad de Medicina Universidade de Sevilha - 2005-2006); Mestrado em Bioética (UDIMA - Fundácion de Ciencias de La Salud, Madrid - 2014-2018).
+
+Percurso Profissional: Iniciou a sua carreira médica como especialista de Medicina Geral no Centro de Saúde da Ajuda (1991-1996). Responsável pelo Serviço de Documentação e Informação do Instituto de Clínica Geral da Zona Sul (1991-1996). Gestor da Equipa de Saúde da Pessoa, nível 1, da Sub-Região de Saúde de Lisboa e responsável pelo planeamento e avaliação dos programas de doenças cardio-cérebro-vasculares e Diabetes Mellitus (1995-1996). Membro da Comissão de Avaliação de Medicamentos do INFARMED, desde 1996. Em 1997 foi nomeado Diretor de Serviços do Centro Nacional de Farmacovigilância do INFAMED, Diretor do boletim de farmacovigilância e representante de Portugal no Grupo de Farmacovigilância da Agencia Europeia do Medicamento. De 2002 a 2005, assumiu as funções de Vice-presidente do Conselho de Administração do INFARMED. De 2005 a 2011 exerceu as funções de Vice-Presidente da Comissão de ética para a Investigação Clínica (CEIC). Em 2011 foi coordenador da área dos medicamentos e produtos de saúde do Plano Nacional de Saúde 2011-2016 por convite do Alto Comissariado da Saúde. Em 2011, exerceu funções de consultor na coordenação executiva de Normas de Orientação Clínica no Departamento de Qualidade em Saúde da Direção-Geral de Saúde. De 2012 a 2019, assumiu funções como Presidente da Comissão de Farmácia e Terapêutica e da Comissão de Ética para a Saúde, tendo sido eleito como Presidente por escrutínio secreto. Membro da Comissão Nacional de Farmácia e Terapêutica desde 2013. Membro da Comissão Nacional de Avaliação de Tecnologias da Saúde do INFARMED, desde 2016. Presidente eleito da Associação Nacional de Comissões de Ética - RedÉtica.
+
+Outras atividades: Professor auxiliar da Universidade de Aveiro (2013-2015); preletor convidado da Universidade Católica Portuguesa, da Faculdade de Farmácia de Lisboa, do Centro de Biodireito da Faculdade de Direito da Universidade de Coimbra, da Faculdade de Medicina da Universidade Nova de Lisboa, Corresponsável pelos módulos pedagógicos de cursos de formação em ética para os internos de Medicina Geral e Familiar e de Saúde Pública da ARSLVT.
+
+Cláudia Susana da Conceição Robalo de Jesus Belo Ferreira, nascida a 22 de agosto de 1973.
+
+Percurso académico: Licenciada em Contabilidade e Gestão, ramo Contabilidade e Gestão Financeira, Instituto Politécnico de Castelo Branco (2000). Bacharel em Contabilidade e Gestão de Pessoal, Instituto Politécnico de Castelo Branco (1994). Formação pós-graduada em Direito e Prática da Contratação Pública (Universidade Católica Portuguesa, 2010). Curso de Alta Direção em Gestão de Unidades de Saúde para Gestores (Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa, 2015), Programa de Direção de Empresas (AESE Business School, Lisboa, 2014), Programa de Formação e Gestão Pública (Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas, 2007).
+
+Percurso profissional: Iniciou a sua carreira profissional como Técnica de Contabilidade na NERcab - Associação Empresarial da região de Castelo Branco em 1996. Entre 1997-1999, exerceu a função de Técnica Administrativa/Financeira na Cooperativa de Produtores de Queijo da Beira Baixa, CRL. Em 1999, ingressou na Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), onde exerce a função de Técnica Licenciada dos Serviços Financeiros até 2002. Na Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), assumiu o cargo de Coordenadora da Unidade Operacional de Gestão Financeira e Patrimonial, entre 2002-2003, o cargo de Diretora do Departamento de Gestão Financeira e Orçamental, entre 2003-2008, o cargo de Diretora da Unidade Financeira e Patrimonial, entre 2008-2010 e desde 2011, o cargo de Diretora da Direção de Recursos Humanos e Patrimoniais.

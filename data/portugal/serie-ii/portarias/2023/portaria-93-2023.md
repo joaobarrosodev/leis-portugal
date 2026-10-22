@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:207752393:por
+title: Portaria n.º 93/2023
+short_title: null
+summary: Altera a zona non aedificandi (ZNA) da zona especial de proteção (ZEP) da Fortaleza da Póvoa de Varzim
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Cultura - Gabinete da Secretária de Estado da Cultura
+proposing_entity: null
+official_number: 93/2023
+official_date: null
+publication_date: '2023-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 39/2023, Série II de 2023-02-23
+  number: '39'
+  series: II
+  supplement: null
+  pages: 55 - 56
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/02/039000000/0005500056.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '207752393'
+  dre_path: /dr/detalhe/portaria/93-2023-207752393
+  internal: pt:dre:207752393:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/93-2023-207752393
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/93-2023-207752393
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-02-23T00:00:00Z'
+integrity:
+  source_sha256: d8afecf067516f91db1e7748810b1d4a67285a8af3f0595a5eebe962f57df789
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-93-207752393.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 93/2023
+
+A Fortaleza da Póvoa de Varzim encontra-se classificada como imóvel de interesse público (IIP), conforme [Decreto n.º 43 073](https://diariodarepublica.pt/dr/detalhe/decreto/43073-1960-501847), publicado no Diário do Governo, 1.ª série, n.º 162, de 14 de julho de 1960.
+
+Através de portaria publicada no Diário do Governo, 2.ª série, n.º 3, de 5 de janeiro de 1982, foi fixada a respetiva zona especial de proteção (ZEP), a qual inclui uma zona non aedificandi (ZNA).
+
+A Câmara Municipal da Póvoa de Varzim apresentou uma proposta de alteração da zona non aedificandi (ZNA) incluída na zona especial de proteção (ZEP), visando a exclusão de dois edifícios construídos em desconformidade com o regime jurídico em vigor.
+
+Analisado o assunto, a tutela do património cultural promoveu, de acordo com o parecer da Secção do Património Arquitetónico e Arqueológico do Conselho Nacional de Cultura, a consulta pública prevista no artigo 45.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, na sua redação atual, e de acordo com o disposto no Código do Procedimento Administrativo, relativa à alteração da ZNA, com uma delimitação diversa da proposta pelo município, no âmbito da qual foram apresentadas 22 pronúncias, demonstrativas do interesse que o assunto despertou e da importância das servidões em causa.
+
+Reanalisada a questão, aquele órgão consultivo reiterou a proposta submetida à consulta pública.
+
+Assim, pela presente portaria é alterada a zona non aedificandi (ZNA) incluída na zona especial de proteção (ZEP) da Fortaleza da Póvoa de Varzim, no sentido de:
+
+Excluir a zona do porto de pesca, por ser desadequada e irrazoável a proibição de construir numa área dedicada a uma atividade económica, cujo dinamismo é inerente à sua atualização funcional e das estruturas;
+
+Excluir a área ocupada pela Loja Interativa de Turismo, situada no limite norte, por se considerar que tal diminuição não põe em causa a salvaguarda do enquadramento paisagística do monumento classificado.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 43.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, no n.º 1 do artigo 48.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, na sua redação atual, e nos termos do artigo 21.º do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, no uso das competências delegadas pelo [Despacho n.º 7052/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7052-2022-184306970), publicado no Diário da República, 2.ª série, n.º 107, de 2 de junho de 2022, manda o Governo, pela Secretária de Estado da Cultura, o seguinte:
+
+###### Artigo único — Zona especial de proteção
+
+É alterada a zona non aedificandi (ZNA) da zona especial de proteção (ZEP) da Fortaleza da Póvoa de Varzim, na Póvoa de Varzim, União das Freguesias da Póvoa de Varzim, Beiriz e Argivai, concelho da Póvoa do Varzim, distrito do Porto, fixada por portaria publicada no Diário do Governo, 2.ª série, n.º 3, de 5 de janeiro de 1982, conforme planta constante do anexo à presente portaria, da qual faz parte integrante.
+
+16 de fevereiro de 2023. - A Secretária de Estado da Cultura, Isabel Alexandra Rodrigues Cordeiro.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2023/02/039000000/0005500056.pdf))](https://files.diariodarepublica.pt/2s/2023/02/039000000/0005500056.pdf)

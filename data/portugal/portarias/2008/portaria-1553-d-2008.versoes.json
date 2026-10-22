@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:243733:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-840277683",
+ "dre_path": "/dr/detalhe/portaria/1553-d-2008-243733",
+ "source_lastmod": "2026-01-20",
+ "versions": [
+  {
+   "date": "2008-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "840277598"
+   ]
+  },
+  {
+   "date": "2010-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:482389:por",
+     "title": "Portaria n.º 1458/2009",
+     "published": "2009-12-31",
+     "dre_path": "/dr/detalhe/portaria/1458-2009-482389"
+    }
+   ],
+   "changes": [
+    "Revoga 7.º",
+    "Revoga 8.º",
+    "Revoga 9.º",
+    "Revoga 10.º",
+    "Revoga 11.º",
+    "Revoga 12.º"
+   ],
+   "fragments": [
+    "840277598",
+    "1006582811",
+    "1006582810",
+    "1006582809",
+    "1006582808",
+    "1006582807",
+    "1006582806",
+    "1006582813",
+    "1006582814",
+    "1006582815",
+    "1006582816",
+    "1006582817",
+    "1006582818",
+    "1006582812",
+    "840277599"
+   ]
+  }
+ ],
+ "fragments": {
+  "840277598": {
+   "fragment_id": "840277684",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1553-D/2008\n\nde 31 de Dezembro\n\nA presente portaria procede à revisão anual das tabelas de ajudas de custo, subsídios de refeição e de viagem, bem como dos suplementos remuneratórios, para os trabalhadores em funções públicas.\n\nSão também actualizadas as pensões de aposentação e sobrevivência a cargo da Caixa Geral de Aposentações (CGA) com acto determinante até 31 de Dezembro de 2007.\n\nSão aumentadas em 2,9 % as pensões de aposentação, reforma e invalidez de montante até 1,5 vezes o indexante dos apoios sociais (IAS) e as pensões de sobrevivência, de preço de sangue e outras de valor global até 0,75 vezes o IAS; em 2,4 % as pensões de aposentação, reforma e invalidez de montante superior a 1,5 vezes o IAS e igual ou inferior a 6 vezes o IAS e as pensões de sobrevivência, de preço de sangue e outras de valor global superior a 0,75 vezes o IAS e igual ou inferior a 3 vezes o IAS, e em 1,5 % as pensões de aposentação, reforma e invalidez de montante superior a 6 vezes o IAS e igual ou inferior a 12 vezes o IAS e as pensões de sobrevivência, de preço de sangue e outras de valor global superior a 3 vezes o IAS e igual ou inferior a 6 vezes o IAS.\n\nAs pensões de aposentação, reforma e invalidez de montante superior a 12 vezes o IAS e as pensões de sobrevivência, de preço de sangue e outras de montante superior a 6 vezes o IAS não são actualizadas.\n\nTal como nos anos anteriores, mantém-se o esquema de pensões mínimas de aposentação, reforma e invalidez e de sobrevivência, com base em escalões de tempo de serviço a partir de cinco anos, cujos valores são actualizados, para o ano de 2009, em 2,9 %.\n\nAs pensões fixadas com base em tempo de serviço inferior a cinco anos e de valor até ao da correspondente pensão mínima que vigorou em 2008 ((euro) 220,99 e (euro) 110,50, respectivamente, para as pensões de aposentação, reforma e invalidez e para as pensões de sobrevivência) beneficiam, do mesmo modo, de uma actualização de 2,9 %.\n\nÉ igualmente actualizado o subsídio de refeição para (euro) 4,27, o que representa um aumento de 4 % relativamente ao montante actualmente em vigor.\n\nAs tabelas de ajudas de custo em território nacional e ou no estrangeiro são revistas em percentagem igual à das remunerações base, ou seja, em 2,9 %.\n\nA actualização de todas estas prestações pecuniárias é reportada a 1 de Janeiro de 2009. Nos termos da lei, a matéria do presente diploma foi objecto de apreciação e discussão, no âmbito da negociação colectiva, com as associações sindicais dos trabalhadores da Administração Pública.\n\nAssim:\n\nAo abrigo do n.º 3 do artigo 5.º do Decreto-Lei n.º 57-B/84, de 20 de Fevereiro, do artigo 22.º da Lei n.º 64-A/2008, de 31 de Dezembro, e do n.º 4 do artigo 6.º da Lei n.º 52/2007, de 31 de Agosto:\n\nManda o Governo, pelo Ministro de Estado e das Finanças, o seguinte:"
+  },
+  "1006582811": {
+   "fragment_id": "1014253292",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nO montante do subsídio de refeição é actualizado para (euro) 4,27."
+  },
+  "1006582810": {
+   "fragment_id": "1014253291",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nAs ajudas de custo a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, passam a ter os seguintes valores:\n\na) Membros do Governo - (euro) 69,19;\n\nb) Trabalhadores que exercem funções públicas:\n\ni) Com remunerações base superiores ao valor do nível remuneratório 18 - (euro) 62,75;\n\nii) Com remunerações base que se situam entre os valores dos níveis remuneratórios 18 e 9 - (euro) 51,05;\n\niii) Outros trabalhadores - (euro) 46,86."
+  },
+  "1006582809": {
+   "fragment_id": "1014253290",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nOs níveis remuneratórios referidos no número anterior são os da tabela remuneratória única dos trabalhadores que exercem funções públicas."
+  },
+  "1006582808": {
+   "fragment_id": "1014253288",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nEm 2009, os quantitativos dos subsídios de transporte a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, são os seguintes:\n\na) Transporte em automóvel próprio - (euro) 0,40 por quilómetro;\n\nb) Transporte em veículos adstritos a carreiras de serviço público - (euro) 0,12 por quilómetro;\n\nc)Transporte em automóvel de aluguer:\n\ni) Um trabalhador - (euro) 0,38 por quilómetro;\n\nii) Trabalhadores transportados em comum:\n\n1) Dois trabalhadores - (euro) 0,16 cada um por quilómetro;\n\n2) Três ou mais trabalhadores - (euro) 0,12 cada um por quilómetro."
+  },
+  "1006582807": {
+   "fragment_id": "1014253287",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nSem prejuízo das situações excepcionais devidamente documentadas, as ajudas de custo diárias a abonar ao pessoal em missão oficial ao estrangeiro e no estrangeiro, nos termos do artigo 4.º do Decreto-Lei n.º 192/95, de 26 de Julho, têm os seguintes valores, a partir de 1 de Janeiro de 2009:\n\na) Membros do Governo - (euro) 167,07;\n\nb) Trabalhadores que exercem funções públicas:\n\ni) Com remunerações base superiores ao valor do nível remuneratório 18 - (euro) 148,91;\n\nii) Com remunerações base que se situam entre os valores dos níveis remuneratórios 18 e 9 - (euro) 131,54;\n\niii) Outros trabalhadores - (euro) 111,88."
+  },
+  "1006582806": {
+   "fragment_id": "1014253286",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nOs suplementos remuneratórios não mencionados na presente portaria são actualizados em 2,9 %."
+  },
+  "1006582813": {
+   "fragment_id": "1014253285",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### 7.º\n\nSão aumentadas as seguintes pensões pagas pela CGA, com acto determinante até 31 de Dezembro de 2007, com excepção das resultantes de condecorações, das Leis n.os 1942, de 27 de Julho de 1936, e 2127, de 3 de Agosto de 1965, e do Decreto-Lei n.º 503/99, de 20 de Novembro:\n\na) Em 2,9 % as pensões de aposentação, reforma e invalidez de montante igual ou inferior a (euro) 628,83 (1,5 IAS) e as pensões de sobrevivência, de preço de sangue e outras de valor global até (euro) 314,42 (0,75 IAS);\n\nb) Em 2,4 % as pensões de aposentação, reforma e invalidez de montante superior a (euro) 628,83 (1,5 IAS) e igual ou inferior a (euro) 2515,32 (6 IAS) e as pensões de sobrevivência, de preço de sangue e outras de valor global superior a (euro) 314,42 (0,75 IAS) e igual ou inferior a (euro) 1257,66 (3 IAS);\n\nc) Em 1,5 % as pensões de aposentação, reforma e invalidez de montante superior a (euro) 2515,32 (6 IAS) e igual ou inferior a (euro) 5030,64 (12IAS) e as pensões de sobrevivência, de preço de sangue e outras de valor global superior a (euro) 1257,66 (3 IAS) e igual ou inferior a (euro) 2515,32 (6 IAS).\n\n> Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+  },
+  "1006582814": {
+   "fragment_id": "1014253284",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### 8.º\n\nO valor da actualização das pensões não pode ser inferior a:\n\na) (euro) 18,24 e (euro) 9,12 respectivamente para as pensões de aposentação, reforma e invalidez e pensões de sobrevivência, de preço de sangue referidas na alínea b) do n.º 7.º;\n\nb) (euro) 60,37 e (euro) 30,18 respectivamente para as pensões de aposentação, reforma e invalidez e pensões de sobrevivência, de preço de sangue referidas na alínea c) do n.º 7.º\n\n> Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+  },
+  "1006582815": {
+   "fragment_id": "1014253283",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### 9.º\n\nAs pensões fixadas pela CGA com base em tempo de serviço inferior a cinco anos e de valor até (euro) 220,99, para as pensões de aposentação, reforma e invalidez, ou até (euro) 110,50, para as pensões de sobrevivência, são aumentadas em 2,9 %.\n\n> Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+  },
+  "1006582816": {
+   "fragment_id": "1014253282",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### 10.º\n\nOs valores mínimos garantidos às pensões de aposentação, reforma e invalidez e de sobrevivência pagas pela CGA, em função do tempo de serviço considerado no respectivo cálculo, são aumentados em 2,9 %, a que corresponde a seguinte tabela:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+  },
+  "1006582817": {
+   "fragment_id": "1014253281",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### 11.º\n\nOs aposentados, os reformados e os demais pensionistas da CGA, bem como os funcionários que se encontrem na situação de reserva e desligados do serviço, aguardando aposentação ou reforma, com excepção do pessoal que no ano de passagem a qualquer das referidas situações receba subsídio de férias, têm direito a receber, em cada ano civil, um 14.º mês, pagável em Julho, de montante igual à pensão que perceberem nesse mês.\n\n> Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+  },
+  "1006582818": {
+   "fragment_id": "1014253280",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### 12.º\n\nO abono do 14.º mês é pago pela CGA ou pela entidade de que dependa o interessado, consoante se encontre, respectivamente, na situação de pensionista ou na situação de reserva e a aguardar aposentação ou reforma, sem prejuízo de, nos termos legais, o respectivo encargo ser suportado pelas entidades responsáveis pela aposentação do seu pessoal.\n\n> Revogado pelo/a Artigo 34.º do/a [Portaria n.º 1458/2009 - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/1458-2009-482389), em vigor a partir de 2010-01-05, produz efeitos a partir de 2010-01-01"
+  },
+  "1006582812": {
+   "fragment_id": "1014253293",
+   "type": 11,
+   "heading": "13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º\n\nA presente portaria produz efeitos desde 1 de Janeiro de 2009."
+  },
+  "840277599": {
+   "fragment_id": "840277685",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 31 de Dezembro de 2008."
+  }
+ }
+}

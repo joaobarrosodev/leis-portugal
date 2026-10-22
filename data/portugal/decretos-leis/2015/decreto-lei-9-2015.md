@@ -1,0 +1,832 @@
+---
+schema_version: '1.0'
+id: pt:dre:66195399:por
+title: Decreto-Lei n.º 9/2015
+short_title: null
+summary: Estabelece as condições que devem ser observadas no contrato de transporte rodoviário de passageiros e bagagens,
+  em serviços regulares, bem como o regime sancionatório pelo incumprimento das normas do Regulamento (UE) n.º 181/2011, do
+  Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 9/2015
+official_date: null
+publication_date: '2015-01-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 10/2015, Série I de 2015-01-15
+  number: '10'
+  series: I
+  supplement: null
+  pages: 442 - 448
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/01/01000/0044200448.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-09-06'
+version_history:
+  file: decreto-lei-9-2015.versoes.json
+  count: 3
+  source_lastmod: '2026-09-03'
+  versions:
+  - date: '2015-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-16'
+    amending: pt:dre:66248783:por
+    amending_title: Declaração de Retificação n.º 3-A/2015
+    changes:
+    - Retifica Artigo 7.º
+  - date: '2026-09-06'
+    amending: pt:dre:1164281329:por
+    amending_title: Decreto-Lei n.º 173/2026
+    changes:
+    - Adita Artigo 4.º-A
+    - Adita Artigo 4.º-B
+    - Adita Artigo 6.º-A
+    - Adita Artigo 31.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 33.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/9/2015/p/cons/20150116/pt/html
+  oj: null
+  dre: '66195399'
+  dre_path: /dr/detalhe/decreto-lei/9-2015-66195399
+  internal: pt:dre:66195399:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2015-66195399
+  metadata_url: https://data.dre.pt/eli/dec-lei/9/2015/p/cons/20150116/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-66214635
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-66214635
+  retrieved_at: '2026-10-22T13:52:29Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-03T00:00:00Z'
+integrity:
+  source_sha256: 30ade52a3a154e72de5c3710024bf19df406620f5b4a1cbf5f8a975f02f47f00
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:52:29Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-9-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Animal Doméstico
+- Bagagem
+- Titulo de Transporte
+- Multa
+- Transporte Terrestre
+- Contra-ordenação
+- Transporte Rodoviário
+- Fiscalização
+- Fixação de Preços
+- Indemnização
+- Instituto da Mobilidade e dos Transportes
+- Veículo
+- Política de Transportes
+- Transporte de Mercadorias
+- Equipamento de Veículo
+- Preço
+- Serviço Público
+- Prestação de Serviços
+- Proteção do Consumidor
+- Reclamação
+- Responsabilidade Civil
+- Mercadoria
+- Transporte
+- Transporte de Passageiros
+- Transporte Internacional
+- Transporte Público
+- Transporte Urbano
+relationships:
+- type: amended_by
+  target: pt:dre:66248783:por
+  label: Retifica Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-a-2015-66248783
+  date: '2015-01-16'
+- type: amended_by
+  target: pt:dre:1164281329:por
+  label: Adita Artigo 4.º-A; Adita Artigo 4.º-B; Adita Artigo 6.º-A; Adita Artigo 31.º-A; Altera Artigo 3.º; Altera Artigo
+    4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 26.º;
+    Altera Artigo 27.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329
+  date: '2026-09-01'
+- type: cites
+  target: celex:32004R2006
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/2006/oj
+- type: cites
+  target: celex:32007R1370
+  label: null
+  source: http://data.europa.eu/eli/reg/2007/1370/oj
+- type: cites
+  target: celex:32011R0181
+  label: null
+  source: http://data.europa.eu/eli/reg/2011/181/oj
+- type: cites
+  target: celex:32014L0037
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/37/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/14/2009/01/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/14/2009/01/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/170-a/2014/11/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/170-a/2014/11/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/220/1995/08/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/220/1995/08/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/249/1999/07/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/249/1999/07/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/323/2001/12/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/323/2001/12/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/2007/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2007/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/28/2006/07/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/28/2006/07/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: transposes
+  target: celex:32014L0037
+  label: null
+  source: null
+article_structure:
+  article_count: 39
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:52:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 9/2015
+
+Decreto-Lei n.º 9/2015
+
+de 15 de janeiro
+
+As condições de realização e utilização do transporte rodoviário de passageiros e os respetivos direitos e deveres, estão previstos no Regulamento de Transportes em Automóveis, aprovado pelo Decreto n.º 37272, de 31 de dezembro de 1948, e na Lei de Bases dos Transportes Terrestres, aprovada pela Lei n.º 10/90, de 17 de março.
+
+Estes diplomas foram aprovados em contextos económicos, políticos e sociais muito diversos e encontram-se desajustados da realidade atual.
+
+Por outro lado, é necessário proceder à alteração das normas relativas à prestação de serviços de transporte, por força do novo enquadramento normativo europeu que impõe a obrigatoriedade de celebração de contratos de serviço público entre as autoridades competentes e os operadores de serviço público de passageiros, nos termos do Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, relativo ao serviço público de transporte ferroviário e rodoviário de passageiros.
+
+O Regulamento (UE) n.º 181/2011, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, respeitante aos direitos dos passageiros no transporte de autocarro e que altera o Regulamento (CE) n.º 2006/2004, implica também a adoção de medidas legislativas no sentido do reforço da melhoria dos direitos dos passageiros nos transportes, designadamente no modo rodoviário.
+
+Com efeito, o contrato de transporte rodoviário consubstancia o instrumento jurídico necessário para assegurar a certeza jurídica das relações entre o operador e os passageiros, estabelecendo mínimos de intervenção pública para acautelar o essencial da relação entre passageiros e operadores, com o objetivo de mitigar o tradicional desequilíbrio entre as respetivas posições jurídicas.
+
+O presente decreto-lei estabelece, assim, disposições relativas ao contrato de transporte, às obrigações do operador e aos direitos e obrigações dos passageiros, revoga normas do Regulamento de Transporte em Automóveis, aprovado pelo Decreto n.º 37272, de 31 de dezembro de 1948, cria um regime sancionatório contraordenacional pelo incumprimento das obrigações previstas, quer para os operadores, quer para os passageiros, com o objetivo de dissuadir práticas abusivas que possam pôr em causa o normal funcionamento do serviço público de transporte rodoviário, e altera ainda o Decreto-Lei n.º 170-A/2014, de 7 de novembro, no sentido de prever a contraordenação pela violação das obrigações constantes do respetivo artigo 8.º
+
+Foi promovida a audição do Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei estabelece as condições que devem ser observadas no contrato de transporte rodoviário de passageiros e bagagens, em serviços regulares, sem prejuízo do disposto no Regulamento (UE) n.º 181/2011, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, respeitante aos direitos dos passageiros no transporte de autocarro e que altera o Regulamento (CE) n.º 2006/2004, adiante designado por Regulamento.
+
+2 - O presente decreto-lei procede ainda à primeira alteração ao Decreto-Lei n.º 170-A/2014, de 7 de novembro, que estabelece o regime jurídico da homologação e utilização dos cintos de segurança e dos sistemas de retenção para crianças em veículos rodoviários e transpõe a Diretiva de Execução n.º 2014/37/UE, da Comissão, de 27 de fevereiro de 2014.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O presente decreto-lei é aplicável ao transporte rodoviário nacional e ao transporte rodoviário internacional, que opere em território nacional.
+
+###### Artigo 3.º — Definições
+
+Para os efeitos do presente decreto-lei, entende-se por:
+
+a) «Atraso», a diferença entre a hora programada de partida do serviço regular de acordo com o horário publicado e a hora real da sua partida;
+
+b) «Cancelamento», a não realização de um serviço regular previamente programado;
+
+c) «Condições gerais de transporte», as condições definidas pelo operador que, com a celebração do contrato de transporte, se tornam parte integrante do mesmo;
+
+d) «Contrato de transporte», o contrato a título oneroso, ou gratuito, celebrado com um operador de transporte público rodoviário em que este se obriga a prestar ao passageiro, mediante título de transporte válido, o serviço de transporte desde o local de origem até ao local de destino;
+
+e) «Gestor de terminal», a entidade à qual se encontra atribuída a responsabilidade pela gestão de um terminal;
+
+f) «Operador», qualquer empresa devidamente habilitada para a prestação de serviços de transporte público rodoviário;
+
+g) ‘Pessoa com deficiência ou com mobilidade reduzida’, qualquer pessoa que se encontre limitada na sua mobilidade quando utiliza um meio de transporte devido a qualquer incapacidade física (sensorial ou locomotora, permanente ou temporária), a uma incapacidade ou deficiência intelectual ou a qualquer outra causa de incapacidade e cuja situação exija uma atenção adequada e a adaptação dos serviços disponibilizados a todos os passageiros às suas necessidades específicas;
+
+h) «Passageiro», qualquer pessoa a quem é prestado um serviço de transporte ao abrigo de contrato de transporte;
+
+i) «Reserva», a reserva de um lugar a bordo de um autocarro para uma partida específica de um serviço regular;
+
+j) «Serviços de transporte regular de passageiros», os serviços que asseguram o transporte de passageiros em autocarro, com frequência e percurso determinados, e em que os passageiros podem ser tomados e largados em paragens previamente estabelecidas;
+
+k) ‘Terminal’, uma infraestrutura dotada de pessoal em que, de acordo com o percurso determinado, está prevista a paragem de um serviço regular para o embarque e desembarque de passageiros, equipado com instalações tais como balcões de registo, salas de espera ou bilheteira;
+
+l) «Título de transporte», o documento emitido pelo operador ou por outrem com autorização do operador, em suporte de papel ou outro, que confirma o contrato de transporte;
+
+m) ‘Suporte do título de transporte’, o elemento físico, em cartão ou papel, com ou sem componentes eletrónicos, ou a aplicação desmaterializada integrada em dispositivo eletrónico, que identifica e permite validar o título de transporte e utilizar os serviços de transporte correspondentes;
+
+n) ‘Tarifa’, o preço de venda ao público de um título de transporte, liquidado em numerário, através de débito em conta bancária, de cartão de débito ou crédito ou por qualquer outro meio disponibilizado pelo operador e previsto nas condições do contrato de transporte;
+
+o) ‘Serviço público de transporte de passageiros integrado’, um serviço de transportes interligados no interior de uma zona geográfica determinada, com um serviço de informações, sistema de bilhética, tarifário e horário únicos ou articulados;
+
+p) ‘Sistema de bilhética’, o sistema de gestão, controlo e informação relativo à venda e utilização de títulos e tarifas de transporte, que constitui suporte e parte integrante de um sistema de transportes, e que inclui quer os suportes informáticos, plataformas e aplicações digitais, quer os suportes físicos e cartões de suporte de título de transporte;
+
+q) ‘Entidade gestora do sistema de bilhética ou de suporte à mobilidade’, a entidade pública ou privada, com funções operacionais de gestão dos sistemas tecnológicos de bilhética, conferidas através de autorização ou contratualização com a autoridade de transportes competente, podendo também ser a própria autoridade de transportes;
+
+r) ‘Supressão temporária’, a suspensão total ou parcial de um serviço planeado e divulgado, com caráter temporário;
+
+s) ‘Supressão definitiva’, a descontinuação total ou parcial de um serviço planeado e divulgado, com caráter permanente;
+
+t) ‘Viagens multimodais’, uma viagem que envolve serviços de transporte sucessivos utilizando diferentes modos de transporte.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+### Capítulo II — Disposições relativas ao contrato de transporte
+
+###### Artigo 4.º — Contrato de transporte
+
+1 - O contrato de transporte confere ao passageiro o direito a ser transportado, mediante um título de transporte ou outro meio que prove a sua aquisição, nas condições definidas no presente decreto-lei.
+
+2 - As disposições do contrato de transporte não podem limitar ou excluir direitos previstos no presente decreto-lei, podendo, contudo, conferir direitos adicionais.
+
+3 - O passageiro pode fazer-se acompanhar de bagagens, de animais de companhia e de outros bens que o operador aceite transportar, nos termos do presente decreto-lei e demais legislação aplicável.
+
+4 - As condições gerais do transporte são definidas pelo operador, nos termos do presente decreto-lei e do regime jurídico das cláusulas contratuais gerais, aprovado pelo Decreto-Lei n.º 446/85, de 25 de outubro, sem prejuízo das demais disposições aplicáveis ao transporte rodoviário, devendo ser aprovadas pelas autoridades de transportes competentes previstas no Regime Jurídico do Serviço Público de Transporte de Passageiros, aprovado em anexo à Lei n.º 52/2015, de 9 de junho (RJSPTP).
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 4.º-A — Entidades competentes
+
+1 - Compete às autoridades de transportes previstas no RJSPTP, individualmente ou de forma partilhada através de contratos interadministrativos, aprovar as condições gerais do transporte.
+
+2 - Os operadores e as autoridades de transportes competentes devem promover a harmonização, tanto quanto possível, das condições gerais de transporte para que estas protejam de forma adequada os passageiros em viagens multimodais, designadamente em serviços públicos integrados de transporte de passageiros.
+
+3 - As condições gerais de transporte e as suas alterações devem ser notificadas à AMT, com a antecedência de 30 dias úteis relativamente à sua entrada em vigor, para efeitos de supervisão nos termos do Decreto-Lei n.º 78/2014, de 14 de maio, a qual pode determinar, a todo o tempo, as alterações necessárias para assegurar o cumprimento das disposições legais aplicáveis.
+
+4 - Os operadores, as entidades gestoras de sistemas de bilhética, autoridades de transportes e operadores de terminais ou interfaces devem articular-se para efeitos do cumprimento das obrigações previstas no presente decreto-lei, designadamente as previstas nas alíneas a), c), d) e e) do n.º 2 do artigo 5.º, nos artigos 6.º, 9.º, 17.º, 18.º, 21.º e 22.º e nas alíneas b) e f) do n.º 3 do artigo 27.º
+
+5 - As entidades de controlo competentes para o tratamento das reclamações relativas aos agentes de viagens e operadores turísticos, nos termos do disposto no artigo 6.º do Decreto-Lei n.º 156/2005, de 15 de setembro, comunicam à AMT as reclamações recebidas que tenham por objeto factos relativos ao serviço público de transporte de passageiros regular.
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 4.º-B — Viagens multimodais
+
+Sempre que o acesso a viagens multimodais seja proporcionado por produtos tarifários integrados ou oferecidos por vários operadores, devem estes assegurar:
+
+a) A transparência e clareza na comunicação e divulgação das condições contratuais de utilização dos serviços adquiridos;
+
+b) A definição conjunta das condições contratuais de utilização, designadamente as condições gerais de transporte, de modo a proteger de forma adequada os passageiros;
+
+c) A comunicação das condições e modalidades da viagem de forma simples e compreensível, e em formato acessível, tendo em conta as necessidades especiais de passageiros com deficiência e com mobilidade reduzida, nos locais de venda ao público dos títulos de transporte, nos respetivos sítios na Internet e nas interfaces em linha destinados à disponibilização dos serviços, sem prejuízo de outros meios de divulgação adequados, com pelo menos 10 dias úteis de antecedência face à sua aplicação;
+
+d) Informação sobre as soluções de transporte alternativas ao produto tarifário integrado;
+
+e) A definição clara das responsabilidades de cada uma das partes envolvidas;
+
+f) A indicação de ponto de contacto único e dos respetivos meios de contacto;
+
+g) A indicação clara das tarifas e títulos de transporte oferecidos e de todas as condições de utilização associadas a cada um dos serviços disponibilizados;
+
+h) A especificação, de forma clara, dos meios de pagamentos disponíveis;
+
+i) A indicação compreensível e clara da existência de meios próprios para apresentação de reclamações, distintos do livro de reclamações, não se podendo confundir com este;
+
+j) A disponibilização do livro de reclamações, nos formatos físico e eletrónico, nos termos e condições estabelecidas do Decreto-Lei n.º 156/2005, de 15 de setembro.
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 5.º — Obrigações do operador
+
+1 - O operador obriga-se a transportar os passageiros munidos de títulos de transporte ou de outro meio de prova que prove a sua aquisição, nos termos do presente decreto-lei.
+
+2 - São obrigações do operador, designadamente:
+
+a) Publicitar os preços e horários, de forma clara, compreensível e em formato acessível, tendo em conta necessidades especiais de passageiros com deficiência e com mobilidade reduzida, nos locais de venda ao público dos títulos de transporte, nos respetivos sítios na Internet e nas interfaces em linha destinados à disponibilização dos serviços, sem prejuízo de outros meios de divulgação adequados, com pelo menos 10 dias úteis de antecedência face à sua aplicação;
+
+b) Emitir o título de transporte ao passageiro, num dos suportes admitidos por instrumento legal, regulamentar ou contratual aplicável;
+
+c) Publicitar os direitos e obrigações estabelecidos no presente decreto-lei e nas condições gerais de transporte, com pelo menos cinco dias de antecedência face à sua implementação, nos locais de venda ao público de títulos de transportes, nos respetivos sítios na Internet e nas interfaces em linha destinados à disponibilização dos serviços, sem prejuízo de outros meios de divulgação adequados, e em veículos, quando tecnicamente possível;
+
+d) Informar os passageiros, através dos respetivos sítios na Internet e nas interfaces em linha destinados à disponibilização dos serviços, sem prejuízo de outros meios de divulgação adequados, da supressão temporária de serviços, com a antecedência mínima de cinco dias úteis em relação à sua aplicação, salvo por motivo não imputável ao operador, e, sendo caso disso, divulgar os serviços alternativos ao dispor do passageiro ou disponibilizar os mesmos;
+
+e) Divulgar os vários canais de vendas dos títulos de transporte, bem como os locais de venda dos mesmos;
+
+f) Prestar o serviço objeto do contrato de transporte de forma regular, contínua e com segurança, e segundo as normas de qualidade de serviço, nos termos de instrumento legal, regulamentar ou contratual aplicável;
+
+g) Assinalar, devidamente, em todos os autocarros de passageiros os lugares reservados, por ordem prioritária, destinados a pessoas com deficiência, pessoas com mobilidade reduzida, grávidas e pessoas com crianças de colo;
+
+h) Disponibilizar o livro de reclamações, em formato físico e eletrónico, nos termos e nas condições estabelecidas no Decreto-Lei n.º 156/2005, de 15 de setembro;
+
+i) Cumprir os níveis mínimos do serviço público de transporte de passageiros, no que se refere à informação ao público, previstos no RJSPTP.
+
+3 - São deveres do pessoal que presta serviço nos serviços de transportes:
+
+a) Estar devidamente identificado com um cartão emitido pela empresa;
+
+b) Proceder com urbanidade para com os passageiros e os agentes da fiscalização, prestando os esclarecimentos que lhe sejam pedidos;
+
+c) Prestar aos passageiros todo o auxílio de que careçam, tendo especial atenção com as crianças, as pessoas com deficiência ou mobilidade reduzida e os idosos;
+
+d) Velar pela segurança e comodidade dos passageiros;
+
+e) Verificar, antes de abandonar o veículo em que presta serviço, se no mesmo se encontram quaisquer objetos que nele tenham sido esquecidos pelos passageiros.
+
+4 - O condutor deve parar o veículo nas paragens de tomada e largada de passageiros, sempre que lhe seja feito sinal para esse fim, para que a entrada e saída dos passageiros se faça sem perigo para estes e sem prejuízo para a circulação.
+
+5 - A obrigação de paragem para tomada de passageiros cessa quando o veículo tiver a sua lotação completa, devidamente sinalizada.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 6.º — Transporte de pessoas com mobilidade reduzida
+
+1 - O operador e o gestor do terminal obrigam-se a estabelecer regras de acesso não discriminatórias aplicáveis ao transporte de pessoas com deficiência ou com mobilidade reduzida, nos termos do disposto no Regulamento.
+
+2 - O gestor da infraestrutura ou do terminal, caso o terminal não esteja a cargo daquele, obrigam-se a estabelecer, nos terminais, condições de acessibilidade às pessoas com deficiência e às pessoas com mobilidade reduzida, nos termos do Decreto-Lei n.º 163/2006, de 8 de agosto e do Decreto-Lei n.º 82/2022, de 6 de dezembro.
+
+3 - O operador e o gestor do terminal devem cooperar entre si a fim de prestar assistência gratuita às pessoas com deficiência ou com mobilidade reduzida, nos termos do disposto no Regulamento.
+
+4 - Nos terminais a que se refere o artigo 12.º do Regulamento, o gestor do terminal presta assistência a pessoas com deficiência ou com mobilidade reduzida nas suas deslocações dentro do terminal.
+
+5 - Nos terminais a que se refere o artigo 12.º do Regulamento, o operador presta assistência às pessoas com deficiência ou com mobilidade reduzida nas suas deslocações no autocarro e no carregamento e recuperação das suas bagagens.
+
+6 - Nos terminais a que se refere o artigo 12.º do Regulamento, o operador deve assegurar o embarque e desembarque de pessoas com deficiência e com mobilidade reduzida, garantindo a disponibilização de elevadores, cadeiras de rodas ou outra forma de assistência necessária, adequada à situação, devendo ainda assegurar, sem custos adicionais, o transporte a bordo de autocarro de cães de assistência, de acordo com o disposto no Decreto-Lei n.º 74/2007, de 27 de março.
+
+7 - O operador presta, gratuitamente, às pessoas com deficiência ou com mobilidade reduzida, a bordo dos autocarros, pelo menos a assistência especificada na alínea b) do anexo i do Regulamento.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 6.º-A — Obrigações do gestor de terminal
+
+a) Dispor de livro de reclamações, nos formatos físico e eletrónico, nos termos e condições estabelecidas no Decreto-Lei n.º 156/2005, de 15 de setembro, que permita a apresentação de reclamações quanto ao funcionamento da infraestrutura, e identificar o cumprimento das obrigações que lhe são atribuídas no âmbito do presente decreto-lei, distinguindo-as das relativas a operadores de transportes;
+
+b) Cumprir todas as demais disposições legais previstas no Decreto-Lei n.º 156/2005, de 15 de setembro, incluindo a remessa à AMT das reclamações apresentadas pelos utentes, nos prazos e condições aí estabelecidas.
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 7.º — Deveres e obrigações dos passageiros
+
+1 - O acesso aos serviços de transporte rodoviário regular de passageiros implica o cumprimento por parte dos passageiros do disposto no presente decreto-lei e na demais legislação aplicável.
+
+2 - É proibido aos passageiros:
+
+a) Viajar sem título de transporte válido;
+
+b) Entrar ou sair do veículo quando este esteja em movimento, fora das paragens, ou depois do sinal sonoro que anuncia o fecho das portas;
+
+c) Ocupar lugar reservado a pessoas com deficiência ou com mobilidade reduzida, grávidas e pessoas com crianças de colo, exceto se os mesmos não forem manifestamente necessários para o efeito atendendo à lotação e à ocupação do veículo em cada momento;
+
+d) Projetar para o exterior do veículo quaisquer objetos;
+
+e) Colocar nos locais para tal reservados volumes que, pelo seu conteúdo, natureza ou forma, possam cair ou perturbar os outros passageiros em caso de choque, paragem brusca ou outras causas;
+
+f) Colocar volumes pesados ou sujos sobre os bancos ou apoiar os pés diretamente sobre os estofos;
+
+g) Dedicar-se a qualquer atividade ou oferecer serviços sem prévia autorização do operador;
+
+h) Fazer peditórios, organizar coletas, recolher assinaturas ou realizar inquéritos sem autorização do operador;
+
+i) Transportar animais de companhia ou de assistência em violação das condições estabelecidas na lei;
+
+j) Pendurar-se em qualquer dos acessórios do veículo durante a marcha;
+
+k) Proceder a qualquer espécie de publicidade e distribuir ou afixar cartazes, panfletos ou outras publicações sem autorização do operador;
+
+l) Transportar armas, salvo se estiverem devidamente acondicionadas nos termos da legislação aplicável, ou tratando-se de agentes de autoridade;
+
+m) Transportar matérias explosivas, incluindo material pirotécnico, substâncias facilmente inflamáveis, corrosivas ou radioativas;
+
+n) Transportar volumes que pela sua natureza, forma, dimensão ou cheiro possam causar incómodo aos outros passageiros ou danificar o material circulante;
+
+o) Utilizar aparelhos sonoros ou fazer barulho de forma a incomodar os outros passageiros;
+
+p) Praticar atos ou proferir expressões que perturbem a boa ordem dos serviços ou incomodem os outros passageiros;
+
+q) Entrar nos veículos quando a lotação estiver esgotada.
+
+3 - Os passageiros devem respeitar as instruções dadas pelos agentes de fiscalização, no âmbito do exercício das suas funções.
+
+4 - Nos casos em que o incumprimento pelos passageiros dos deveres que lhes incumbem perturbe os outros passageiros, cause danos ou interfira com a boa ordem do serviço de transporte, os agentes do operador encarregues da fiscalização ou o motorista podem determinar a sua saída do veículo e, em caso de incumprimento dessa determinação, recorrer à força de segurança pública competente.
+
+5 - Os passageiros cuja saída seja determinada nos termos do número anterior não têm direito a qualquer reembolso do preço do título de transporte.
+
+6 - Pode ser recusada a admissão de passageiros em serviços de transporte regular quando se verifique que:
+
+a) Se encontram em visível estado de embriaguez ou sob a influência de substâncias psicotrópicas, de modo a que possam incomodar ou prejudicar os outros passageiros;
+
+b) Transportem armas que não estejam devidamente acondicionadas, ou objetos perigosos, salvo se forem agentes da autoridade.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+> Rectificado pelo/a [Declaração de Retificação n.º 3-A/2015 - Diário da República n.º 11/2015, 1º Suplemento, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-a-2015-66248783), em vigor a partir de 2015-01-16
+
+###### Artigo 8.º — Título de transporte
+
+1 - O passageiro está obrigado a munir-se de título de transporte e a conservá-lo até ao final da viagem, devendo validá-lo, designadamente no sistema de bilhética sem contacto, quando existente, e apresentá-lo, sempre que solicitado, aos agentes do operador encarregues da fiscalização ou ao motorista.
+
+2 - Em caso de desmaterialização ou deterioração do suporte do título de transporte, o passageiro pode provar a existência do mesmo por meio de fatura, recibo ou outro documento comprovativo da sua aquisição e validade, ou mediante solicitação ao operador, através dos respetivos meios eletrónicos, incluindo o sistema de bilhética do operador.
+
+3 - Em caso de deterioração do suporte do título de transporte, o operador fica obrigado a emitir novo suporte, incluindo o título e tarifa paga pelo passageiro, sem custos para o utilizador, salvo se provar a existência de culpa ou negligência na utilização do suporte pelo passageiro.
+
+4 - Em caso de deterioração que impeça a leitura do suporte do título de transporte, e na falta do documento substitutivo admitido, o operador não está obrigado à sua aceitação ou substituição se comprovar que a impossibilidade de leitura do suporte do título de transporte não lhe é imputável.
+
+5 - O título de transporte é válido apenas para o serviço ou serviços de transportes para que foi adquirido, nos termos das respetivas condições gerais do transporte ou do instrumento legal, regulamentar ou contratual aplicável.
+
+6 - O passageiro sem título de transporte válido fica sujeito às sanções previstas na Lei n.º 28/2006, de 4 de julho, alterada pelos Decretos-Leis n.ºs 14/2009, de 14 de janeiro, e 114/2011, de 30 de novembro, pela Lei n.º 83-C/2013, de 31 de dezembro, e pelo Decreto-Lei n.º 117/2017, de 12 de setembro.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 9.º — Passageiros com direito a transporte sem custo para o utilizador
+
+1 - Os passageiros com direito a transporte sem custo para o utilizador, nos termos de instrumento legal, regulamentar ou contratual aplicável, ou por acordos estabelecidos com o operador, devem munir-se de um título de transporte comprovativo desse direito.
+
+2 - O título a que se refere o número anterior é emitido mediante prévia identificação da entidade responsável pelo respetivo pagamento, em termos que possibilitem a efetiva contabilização e ressarcimento do operador do valor das reduções ou isenções legalmente impostas.
+
+3 - O disposto no presente artigo não se aplica àqueles que, no desempenho de funções públicas de fiscalização da atividade de transporte rodoviário, de investigação criminal, ou de manutenção da ordem e da segurança pública, necessitem de livre acesso ao transporte.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 10.º — Lugares e sua marcação
+
+1 - O título de transporte confere ao passageiro o direito a um lugar sentado, salvo em serviços de transporte que utilizem veículos com lotação para passageiros em pé.
+
+2 - As crianças de idade até quatro anos viajam gratuitamente, desde que não ocupem lugar.
+
+3 - Nos veículos com lotação para passageiros em pé, consideram-se cativos para pessoas com deficiência ou para pessoas com mobilidade reduzida, doentes, idosos ou que transportem crianças de colo, bem como mulheres grávidas, os quatro lugares correspondentes aos primeiros bancos, a partir da entrada dos veículos, devendo ser devidamente assinalados por meio de dístico.
+
+4 - Qualquer passageiro pode ocupar os lugares referidos no número anterior, quando estes estejam vagos, ficando, no entanto, obrigado a cedê-los logo que se apresentem passageiros nas condições referidas no mesmo número.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 11.º — Transporte de volumes de mão e animais
+
+1 - Aos passageiros é permitido fazer-se acompanhar nos lugares do veículo, gratuitamente, por bagagem de mão e objetos portáteis de uso pessoal desde que seja possível a sua arrumação nos locais próprios.
+
+2 - Incumbe aos passageiros a guarda e vigilância dos seus volumes de mão e dos animais de companhia e de assistência.
+
+3 - Sem prejuízo do disposto em legislação específica, é permitido aos passageiros transportar gratuitamente animais de companhia que não ofereçam perigosidade, desde que devidamente encerrados em contentor apropriado que possa ser transportado como volume de mão.
+
+4 - Cada passageiro não pode transportar mais de um contentor com animais de companhia, nas condições referidas no número anterior.
+
+5 - Os cães de assistência acompanhantes de pessoas com deficiência ou com mobilidade reduzida são transportados nos veículos, gratuitamente e não açaimados, nos termos do Decreto-Lei n.º 74/2007, de 27 de março.
+
+6 - É proibido o transporte de animais perigosos e potencialmente perigosos, nos termos previstos no Decreto-Lei n.º 315/2009, de 29 de outubro, alterado pela Lei n.º 46/2013, de 4 de julho.
+
+7 - Sem prejuízo do disposto no presente decreto-lei, as condições gerais do transporte podem definir a quantidade de bagagens de mão e objetos portáteis admitidos gratuitamente, em função do tipo de serviço.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 12.º — Transporte de bagagens
+
+1 - Nos serviços que utilizam veículos com compartimentos destinados a bagagens é obrigatório o transporte gratuito das bagagens dos passageiros, quando o respetivo peso não exceda os 20 kg por passageiro.
+
+2 - Para efeitos do disposto no número anterior, consideram-se bagagens:
+
+a) Os objetos destinados ao uso dos passageiros, contidos em malas, cestos, sacos de viagem, caixas e outras embalagens semelhantes;
+
+b) As cadeiras portáteis;
+
+c) Os carrinhos para crianças;
+
+d) Os instrumentos de música portáteis;
+
+e) Os instrumentos de trabalho ou de lazer que possam ser transportados nas caixas próprias dos veículos e sejam acondicionadas de forma a não causarem danos à bagagem de outros passageiros.
+
+###### Artigo 13.º — Transporte de mercadorias
+
+1 - É permitido o transporte de mercadorias, desde que o respetivo peso não exceda, conjuntamente com o das bagagens, a capacidade de carga do veículo, nos termos a definir nas condições gerais do transporte.
+
+2 - Para efeitos do disposto no número anterior as condições gerais do transporte devem definir as condições e prazos de entrega das mercadorias, os custos de transporte e de armazenagem, bem como o destino da mercadoria em caso de a mesma não ser reclamada.
+
+###### Artigo 14.º — Indemnização por perda das bagagens
+
+1 - Pela perda de bagagens pode ser reclamada ao operador a seguinte indemnização:
+
+a) Se o quantitativo da perda for provado, um valor igual a esse quantitativo, não podendo em caso algum exceder o montante de 1500 euros;
+
+b) Se o quantitativo da perda não for provado, uma importância calculada por estimativa, à razão de 7,50 euros por quilograma de peso bruto que faltar.
+
+2 - O passageiro pode ainda reclamar as quantias despendidas com a aquisição do título do transporte e com o transporte das bagagens perdidas.
+
+3 - Considera-se perdida a bagagem que não tenha sido entregue ao passageiro até ao oitavo dia a contar daquele em que deveria ter sido entregue ou posto à disposição do destinatário.
+
+4 - Os montantes referidos no n.º 1, são atualizados, anualmente, de acordo com a taxa de inflação com base na variação do índice médio de preços no consumidor, excluindo a habitação, relativo ao último mês que esteja disponível, e publicado pelo Instituto Nacional de Estatística, I. P.
+
+###### Artigo 15.º — Danos das bagagens
+
+Em caso de danos nas bagagens, o operador deve pagar o valor da depreciação sofrida pelas mesmas, não podendo, todavia, essa indemnização exceder o valor correspondente ao quantitativo que teria atingido em caso de perda total.
+
+###### Artigo 16.º — Objetos abandonados
+
+1 - O operador ou o gestor dos terminais providenciam o encaminhamento dos objetos, valores ou volumes abandonados pelos passageiros nos veículos ou nos terminais, para um local apropriado para o efeito, onde devem ser guardados até que os seus proprietários os reclamem, por um período não inferior a 30 dias.
+
+2 - Na falta de reclamação dos objetos abandonados e findo o prazo referido no número anterior, as entidades neste referidas têm direito a proceder à sua venda em hasta pública, com prévio anúncio num dos jornais mais lidos na região e prévio aviso ao possuidor, caso exista identificação e morada do mesmo.
+
+3 - No caso de géneros sujeitos a rápida deterioração, o prazo indicado no n.º 1 é reduzido para vinte e quatro horas e a venda efetua-se sem aviso e anúncio prévios.
+
+4 - No caso de abandono de animais, estes devem ser encaminhados para o centro de recolha de animais da área de destino do transporte.
+
+###### Artigo 17.º — Reembolso do título de transporte
+
+1 - Se o passageiro não utilizar o título de transporte por motivo alheio ao operador, não há lugar a qualquer reembolso, salvo o disposto no número seguinte.
+
+2 - Nos serviços de transporte regular o passageiro tem direito a reaver até 75 % do valor pago pelo título de transporte, mediante a sua apresentação e desde que o reembolso seja solicitado até três horas antes do início da viagem, quando se trate de serviços de transporte com lugar reservado.
+
+3 - O passageiro tem direito ao reembolso integral do valor pago pelo título de transporte se, por razões imputáveis ao operador, se verificar um atraso à partida superior a 90 minutos.
+
+4 - Em alternativa ao reembolso referido no número anterior, é permitido ao passageiro solicitar a revalidação gratuita do título de transporte adquirido, mediante a apresentação do pedido até 30 minutos antes da partida ou após a divulgação da supressão temporária do serviço, através de meios adequados.
+
+5 - O disposto no n.º 3 não se aplica quando o passageiro é titular de uma assinatura, passe ou título de transporte sazonal ou adquiriu o título de transporte depois da divulgação do atraso e duração estimada, através de meios adequados, existindo modos de transporte alternativos em condições comprovadamente equivalentes às estipuladas no contrato de transporte.
+
+6 - O reembolso de quaisquer quantias nos termos do presente artigo impede a utilização do título de transporte que o tenha suportado.
+
+7 - Em caso de serviços de transporte superiores a 250 km é aplicável o disposto no artigo 19.º do Regulamento.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 18.º — Indemnização do preço do bilhete e das assinaturas, passes ou títulos de transporte sazonais
+
+1 - Caso não exerça o direito de reembolso previsto no artigo anterior, quando, por razões imputáveis ao operador, se verifique um atraso à chegada superior a 60 minutos relativamente ao indicado no título de transporte, o passageiro tem direito a uma indemnização, correspondente a 50 % do valor pago pelo título de transporte.
+
+2 - Em caso de assinaturas, passes ou títulos de transporte sazonais, o pagamento da indemnização a que se refere o número anterior é efetuado na proporção da parte do custo integral da assinatura, passe ou bilhete.
+
+3 - Não há lugar ao pagamento de qualquer indemnização quando:
+
+a) O passageiro foi informado do atraso antes de adquirir o título de transporte ou tenha iniciado a viagem com conhecimento desse atraso;
+
+b) O valor a pagar nos termos dos números anteriores seja igual ou inferior a 4 €.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 19.º — Documentação do atraso ou supressão de serviços
+
+1 - Nos atrasos superiores a uma hora, em relação ao tempo de viagem previsto no horário, ou no caso de supressão do serviço, o operador deve fornecer ao passageiro, sempre que este o solicite, um documento que ateste a ocorrência e a duração do atraso.
+
+2 - O modelo e os termos da disponibilização do documento referido no número anterior são comunicados pelos operadores às autoridades de transportes competentes previstas no RJSPTP, no prazo de 30 dias úteis a contar da publicação do presente decreto-lei.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+### Capítulo III — Preços e títulos de transporte
+
+###### Artigo 20.º — Princípios gerais de fixação de tarifas
+
+1 - Os preços do transporte são calculados pelo operador, tendo em conta as características do serviço e a origem e o destino do transporte, nos termos da regulamentação específica relativa à criação e disponibilização de títulos de transporte, sem prejuízo das regras tarifárias previstas em contratos de serviço público de transporte.
+
+2 - Os operadores ficam obrigados à divulgação ao público dos preços dos serviços de transporte de passageiros e respetivas alterações, com a antecedência mínima de 10 dias úteis relativamente à data da sua aplicação, nos locais de venda ao público e nos respetivos sítios na Internet e nas interfaces em linha destinados à disponibilização dos serviços, sem prejuízo de outros meios de divulgação adequados.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 21.º — Divulgação de preços
+
+O operador fica obrigado à divulgação ao público dos preços de transporte e respetivas alterações, com antecedência, mínima, de cinco dias, relativamente à data do seu início, nos locais de venda ao público e nos respetivos sítios na Internet, sem prejuízo de outros meios de divulgação adequados.
+
+###### Artigo 22.º — Elementos dos títulos de transporte
+
+1 - O título de transporte deve conter a identificação do ou dos operadores, a entidade emitente, o tipo de serviço, a validade e o preço.
+
+2 - O disposto no número anterior não prejudica a possibilidade de desmaterialização dos títulos de transporte por suporte magnético, eletrónico ou outro.
+
+3 - No caso de desmaterialização de títulos de transporte, o operador ou a entidade emitente deve mencionar os elementos essenciais, a que se refere o n.º 1, em recibo, fatura ou outro documento equivalente.
+
+### Capítulo IV — Responsabilidade civil
+
+###### Artigo 23.º — Responsabilidade do operador
+
+1 - O operador é responsável pelos danos causados ao passageiro e a bens por este transportados durante a viagem, nos termos gerais de direito, do presente decreto-lei e do Regulamento.
+
+2 - Fica excluída a responsabilidade do operador quando o passageiro não tenha observado os deveres e obrigações a que está obrigado, designadamente a aquisição do título de transporte e demais deveres relativos à segurança a respeitar no transporte.
+
+###### Artigo 24.º — Responsabilidade dos passageiros
+
+O passageiro é responsável pelos danos causados ao operador e a terceiros, por si ou pelos seus volumes de mão, animais de companhia e bagagens.
+
+###### Artigo 25.º — Meios alternativos de resolução de conflitos
+
+Os conflitos entre os passageiros e os operadores podem ser resolvidos por recurso a meios alternativos de resolução de conflitos.
+
+### Capítulo V — Fiscalização e regime sancionatório
+
+###### Artigo 26.º — Fiscalização
+
+1 - A fiscalização do cumprimento das disposições do presente decreto-lei compete, no âmbito das respetivas atribuições, às seguintes entidades:
+
+a) Autoridades de transportes referidas no RJSPTP, de acordo com a respetiva área geográfica;
+
+b) AMT;
+
+c) Guarda Nacional Republicana;
+
+d) Polícia de Segurança Pública.
+
+2 - O incumprimento pelo passageiro dos deveres que sobre ele recaem por força do disposto no presente decreto-lei está sujeito a fiscalização por agentes do operador devidamente identificados e credenciados.
+
+3 - O incumprimento a que se refere o número anterior é lavrado em auto de notícia segundo modelo a aprovar pelo IMT, I. P.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 27.º — Contraordenações
+
+1 - Constituem contraordenações imputáveis ao operador, puníveis com coima de 750 euros a 3740 euros, ou 1 500 euros a 7 500 euros, consoante se trate de pessoa singular ou coletiva, as seguintes infrações:
+
+a) A violação das obrigações a que se referem os artigos 4.º-A, 4.º-B, 5.º, 6.º e 6.º-A;
+
+b) O incumprimento das regras aplicáveis a perda ou dano nas bagagens e a objetos abandonados, a que se referem os artigos 14.º a 16.º;
+
+c) A recusa de emissão de documento comprovativo de atraso, nos termos do artigo 19.º;
+
+d) O incumprimento das obrigações relativas à divulgação de preços a que se refere o artigo 21.º;
+
+e) O incumprimento das obrigações relativas aos elementos dos títulos de transporte a que se refere o artigo 22.º
+
+2 - Constituem contraordenações imputáveis ao passageiro, puníveis com coima de 50 euros a 250 euros, a violação dos deveres e obrigações previstos no artigo 7.º
+
+3 - Constituem contraordenações puníveis com coimas de 750 euros a 3 740 euros, ou 1 500 euros a 7 500 euros, consoante se trate de pessoa singular ou coletiva, as seguintes infrações ao Regulamento, imputáveis ao operador de transportes, ao gestor de terminais ou a intermediário, designadamente, agentes de viagens e operadores turísticos:
+
+a) A recusa de embarque, reserva, emissão ou fornecimento de outro modo de bilhete, a pessoas com deficiência ou com mobilidade reduzida, sem que estejam preenchidas as exceções e as condições especiais previstas no artigo 10.º do Regulamento;
+
+b) A imposição, em casos de reserva ou de emissão de bilhetes, de custos agravados a pessoa com deficiência ou com mobilidade reduzida, por comparação com as condições aplicáveis a todos os outros passageiros, em violação do disposto no n.º 2 do artigo 9.º do Regulamento;
+
+c) A ausência de diligências razoáveis para propor à pessoa com deficiência ou com mobilidade reduzida um transporte alternativo aceitável, operado pelo transportador, em caso de recusa de reserva, de emissão ou de fornecimento de outro modo de um bilhete pelos motivos referidos no n.º 2 do artigo 10.º do Regulamento;
+
+d) A violação do dever dos operadores e dos organismos gestores de terminais de prestarem assistência gratuita, nas áreas da sua competência, de acordo com o artigo 6.º, nos terminais designados, às pessoas com mobilidade reduzida, nos termos do disposto na alínea a) do anexo i e nos artigos 13.º e 14.º do Regulamento;
+
+e) A exigência do pagamento do transporte a acompanhante de pessoa com deficiência ou pessoa com mobilidade reduzida, quando a sua presença tenha sido exigida nos termos do disposto no n.º 4 do artigo 10.º do Regulamento;
+
+f) A violação do dever de informação previsto no n.º 5 do artigo 10.º do Regulamento;
+
+g) A violação do dever dos transportadores e dos organismos gestores de terminais prestarem assistência gratuita, nas áreas da sua competência, nos terminais designados, às pessoas com deficiência e às pessoas com mobilidade reduzida, nos termos do disposto na alínea a) do anexo i e nos artigos 13.º e 14.º do Regulamento;
+
+h) A violação do dever de observar as necessidades específicas em termos de lugar sentado das pessoas com deficiência ou com mobilidade reduzida, desde que o transportador, o agente de viagens ou o operador turístico sejam notificados nos termos do n.º 2 do artigo 14.º do Regulamento;
+
+i) A ausência de diligências razoáveis, na falta de notificação da alínea a) do n.º 1 e do n.º 2 do artigo 14.º do Regulamento;
+
+j) A falta da indicação, devidamente assinalada, no interior ou no exterior dos terminais, do ponto onde a pessoa com deficiência ou mobilidade reduzida pode anunciar a sua chegada e requerer a assistência necessária, conforme previsto no n.º 5 do artigo 14.º do Regulamento;
+
+k) A violação do dever dos transportadores e dos organismos gestores de terminais estabelecerem procedimentos de formação em matéria de assistência a pessoas com deficiência ou com mobilidade reduzida, incluindo instruções, nos termos e nas condições previstas no n.º 1 do artigo 16.º do Regulamento;
+
+l) O incumprimento do dever dos transportadores e dos organismos gestores de terminais procederem à indemnização relativa aos prejuízos resultantes da perda ou dano do equipamento de mobilidade ou de outro equipamento específico utilizado por pessoas com deficiência ou por pessoas com mobilidade reduzida, nos termos do disposto nos n.os 1 e 2 do artigo 17.º do Regulamento;
+
+m) O incumprimento do dever do transportador reencaminhar ou reembolsar o passageiro em caso de partidas canceladas ou atrasadas, nos termos e nas condições previstos no artigo 19.º do Regulamento;
+
+n) A violação do dever dos transportadores e dos organismos gestores de terminais prestarem informações sobre os direitos dos passageiros previstos no Regulamento, o mais tardar no momento da partida, nos terminais e, se aplicável, no respetivo sítio na Internet, em observância do disposto no artigo 25.º do Regulamento;
+
+o) O incumprimento dos transportadores e dos organismos gestores de terminais prestarem informações relativas a partidas canceladas ou atrasadas, nos termos do artigo 20.º do Regulamento;
+
+p) O incumprimento dos prazos para informar do estado da reclamação e da decisão final, previstos no artigo 27.º do Regulamento.
+
+4 - Constituem contraordenações puníveis com coimas de 200 euros a 1 000 euros, ou 400 euros a 2000 euros, consoante se trate de pessoa singular ou coletiva, as seguintes infrações ao Regulamento, no caso de serviços não regulares e regulares internacionais, imputáveis ao operador de transportes, ao gestor de terminais ou a intermediário, designadamente, agentes de viagens e operadores turísticos:
+
+a) O incumprimento dos artigos 8.º e 21.º do Regulamento, no que se refere ao direito à assistência a passageiros em caso de acidente, bem como a assistência em caso de partidas canceladas ou atrasadas;
+
+b) O incumprimento do artigo 11.º do Regulamento, no que se refere às condições de acessibilidade e informação a pessoas com deficiência e a pessoas com mobilidade reduzida.
+
+5 - A aplicação das contraordenações previstas no presente artigo não prejudica a responsabilidade civil e criminal a que houver lugar.
+
+6 - A tentativa e a negligência são sempre puníveis, sendo os limites máximos e mínimos das coimas reduzidos a metade.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 28.º — Processamento das contraordenações
+
+1 - A instrução das contraordenações previstas no n.º 2 do artigo 27.º compete ao IMT, I. P.
+
+2 - O processamento das restantes contraordenações previstas no presente decreto-lei compete à AMT.
+
+3 - A aplicação das coimas é da competência do conselho diretivo ou do conselho de administração das respetivas entidades.
+
+4 - As coimas e sanções acessórias aplicadas pela AMT a entidades tuteladas pela Autoridade de Segurança Alimentar e Económica devem ser comunicadas a esta entidade no prazo de 10 dias após o trânsito em julgado da decisão condenatória para efeitos de averbamento ao registo.
+
+5 - O IMT, I. P., e a AMT organizam o registo das infrações cometidas nos termos da legislação em vigor.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 29.º — Produto das coimas
+
+O produto das coimas reverte em:
+
+a) 60 % para o Estado;
+
+b) 10 % para a entidade que levantou o auto;
+
+c) 30 % para a entidade competente que aplica a coima.
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 30.º — Aditamento ao Decreto-Lei n.º 170-A/2014, de 7 de novembro
+
+É aditado ao Decreto-Lei n.º 170-A/2014, de 7 de novembro, o artigo 11.º-A, com a seguinte redação:
+
+«Artigo 11.º-A
+
+Contraordenação
+
+Constitui contraordenação punível com coima de 750 euros a 3 740 euros, ou de 1 500 euros a 7 500 euros, consoante se trate de pessoas singulares ou coletivas, a violação do disposto no artigo 8.º»
+
+###### Artigo 31.º — Transportes regulares especializados e ocasionais
+
+O disposto no presente decreto-lei aplica-se, com as devidas adaptações, aos serviços de transporte regular especializado e ocasionais, sem prejuízo do disposto nos termos contratuais e da demais legislação aplicável.
+
+###### Artigo 31.º-A — Aplicação a outros operadores
+
+1 - Sem prejuízo do disposto em instrumento legal, regulamentar e contratual aplicável, o presente decreto-lei aplica-se igualmente, com as necessárias adaptações, a operadores de serviço público de transporte de passageiros integrado, a operadores de serviço público de transporte de passageiros em sistemas guiados, designadamente, de metropolitanos, metropolitanos ligeiros de superfície, sistemas de caminho-de-ferro ligeiro e elétricos.
+
+2 - Aos operadores mencionados no número anterior não se aplicam as regras decorrentes do Regulamento respeitantes aos direitos dos passageiros no transporte de autocarro.
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 32.º — Isenções ao regulamento
+
+1 - Os serviços regulares domésticos ficam isentos da aplicação do disposto nos artigos 8.º, 11.º e 21.º do Regulamento.
+
+2 - As isenções a que se refere o número anterior podem ser renovadas uma vez, por igual período de quatro anos, mediante comunicação à Comissão Europeia.
+
+3 - As isenções referidas no n.º 1 e respetiva renovação, são publicitadas na página eletrónica do IMT, I. P.
+
+###### Artigo 33.º — Modelo
+
+As autoridades de transportes competentes aprovam o modelo e os termos da disponibilização do documento referido no artigo 19.º, no prazo de 15 dias úteis após a sua submissão pelos operadores.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2026 - Diário da República n.º 169/2026, Série I de 2026-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329), em vigor a partir de 2026-09-06, com efeitos a partir de 2026-12-01.
+
+###### Artigo 34.º — Norma revogatória
+
+São revogados os artigos 166.º a 173.º, 187.º a 190.º do Regulamento de Transportes em Automóveis, aprovado pelo Decreto n.º 37272, de 31 de dezembro de 1948.
+
+###### Artigo 35.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de novembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Leonardo Bandeira de Melo Mathias.
+
+Promulgado em 9 de janeiro de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 12 de janeiro de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

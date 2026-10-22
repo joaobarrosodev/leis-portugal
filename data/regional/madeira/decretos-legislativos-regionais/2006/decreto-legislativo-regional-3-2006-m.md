@@ -1,0 +1,143 @@
+---
+schema_version: '1.0'
+id: pt:dre:168187:por
+title: Decreto Legislativo Regional n.º 3/2006/M
+short_title: null
+summary: Altera o valor da retribuição mínima mensal garantida, estabelecido por lei da República, para vigorar em 2006 na
+  Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 3/2006/M
+official_date: null
+publication_date: '2006-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/2006, Série I-A de 2006-01-09
+  number: '6'
+  series: I
+  supplement: null
+  pages: 174 - 175
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/01/006a00/01740175.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/3/2006/01/09/m/dre/pt/html
+  oj: null
+  dre: '168187'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/3-2006-168187
+  internal: pt:dre:168187:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2006-168187
+  metadata_url: https://data.dre.pt/eli/declegreg/3/2006/01/09/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2006-168187
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-03-17T00:00:00Z'
+integrity:
+  source_sha256: 1e52667619b55883bc30aec2abc3be216ec93a47a089fce3211a3469045f3416
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2006/DRE-2006-3-168187.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Madeira.região Autónoma
+relationships:
+- type: amended_by
+  target: pt:dre:667149:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 3/2006/M
+
+Acréscimo regional ao valor da retribuição mínima nacional garantida
+
+O salário mínimo nacional foi instituído pelo [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio, e a sua importância tem sido grande como factor dinamizador dos salários convencionais e garante de um nível mínimo que assegure um padrão de rendimentos salariais e de condições de vida.
+
+A Região Autónoma da Madeira, desde a institucionalização da autonomia e da transferência de competências, assumiu no programa laboral do Governo Regional preocupações sociais que implicavam o reforço dos valores do salário mínimo nacional a vigorar na Região, de modo que pudessem ser compensados os constrangimentos advindos dos custos de insularidade e assim contribuir para a melhoria das condições remuneratórias dos segmentos profissionais mais desfavorecidos.
+
+Nesta ordem de objectivos, a partir de 1987, passaram a vigorar na Região acréscimos salariais aos valores do salário mínimo nacional, na ordem de 2%, correspondendo à percentagem atribuída aos designados custos de insularidade.
+
+Esta política de acréscimos tem sido mantida na Região, tendo sempre o valor referencial do acréscimo de 2%, pelo que se reitera esta prática, dado o alcance e os benefícios sociais decorrentes.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º e do artigo 228.º da Constituição da República Portuguesa, conjugados com a alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, na redacção dada pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, com a alteração introduzida pela [Lei n.º 12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, bem como do disposto no artigo 4.º da [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), de 27 de Agosto, o seguinte:
+
+###### Artigo 1.º
+
+1 - O valor da retribuição mínima mensal garantida, estabelecido por lei da República, para vigorar em 2006 tem, na Região Autónoma da Madeira, um acréscimo de 2%.
+
+2 - O disposto no número anterior aplica-se quer aos trabalhadores do serviço doméstico quer aos trabalhadores dos restantes sectores.
+
+###### Artigo 2.º
+
+A determinação do quantitativo correspondente ao valor da retribuição mínima mensal garantida a vigorar na Região em 2006, de acordo com o estabelecido no artigo anterior, será feita por portaria conjunta do vice-presidente do Governo Regional e dos Secretários Regionais do Plano e Finanças e dos Recursos Humanos.
+
+###### Artigo 3.º
+
+A retribuição mínima mensal garantida com o acréscimo regional estabelecido no artigo 1.º do presente diploma tem efeitos a partir de 1 de Janeiro de 2006.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 6 de Dezembro de 2005.
+
+**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+
+**Assinado em 28 de Dezembro de 2005.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**

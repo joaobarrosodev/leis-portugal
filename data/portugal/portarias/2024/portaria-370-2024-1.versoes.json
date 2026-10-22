@@ -1,0 +1,186 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:901661933:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-901966000",
+ "dre_path": "/dr/detalhe/portaria/370-2024-901661933",
+ "source_lastmod": "2026-03-09",
+ "versions": [
+  {
+   "date": "2026-03-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1068974014:por",
+     "title": "Portaria n.º 111/2026/1",
+     "published": "2026-03-09",
+     "dre_path": "/dr/detalhe/portaria/111-2026-1068974014"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "901966101",
+    "901966102",
+    "901966103",
+    "1069830275",
+    "901966105",
+    "1069830475",
+    "901966107",
+    "901966108",
+    "901966109",
+    "901966110",
+    "901966111",
+    "901966112",
+    "901966113",
+    "901966114",
+    "901966115",
+    "901966116",
+    "901966117"
+   ]
+  }
+ ],
+ "fragments": {
+  "901966101": {
+   "fragment_id": "901966001",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 370/2024/1\n\nde 31 de dezembro\n\nDe acordo com o disposto no artigo 23.º do Decreto-Lei n.º 73/2020, de 23 de setembro, o qual aprovou o regime jurídico do exercício da atividade profissional da pesca comercial marítima e da autorização, registo e licenciamento dos navios ou embarcações utilizadas na referida atividade, as normas reguladoras do exercício da pesca em águas interiores não marítimas, com exceção das águas abrangidas pelo regime jurídico da pesca nas águas interiores, localizadas em áreas que apresentem marcada especificidade local, são estabelecidas por portaria do membro do Governo responsável pela área do mar.\n\nO citado decreto-lei reconhece, assim, que estas massas de águas de transição constituem relevantes espaços socioeconómicos, onde a atividade da pesca se reveste de particularidades que aconselham a sua regulamentação autónoma, embora enquadrada na estrutura básica acima referida, de forma a assegurar a gestão e conservação dos recursos ocorrentes em tão sensíveis ecossistemas.\n\nTermos em que a presente portaria acompanha a evolução registada ao longo de várias décadas na prática de pesca no rio Lima, na área de jurisdição marítima, e pondera a relevância de que se reveste a pesca nesta área para as comunidades piscatórias que dela dependem procurando integrar as suas preocupações e conciliar a atividade da pesca com a necessidade de gestão das espécies com interesse comercial, a conservação da natureza e a manutenção do ecossistema, como condição para a sustentabilidade da pesca, criando em simultâneo melhores condições para o exercício da sua fiscalização.\n\nConsiderando-se adequado promover uma maior participação dos profissionais da pesca na gestão dos recursos existentes, desenvolvendo modelos de gestão participativa dos recursos e envolvendo também a comunidade cientifica, os decisores políticos e as autoridades de fiscalização, estabelece-se a possibilidade de criação de uma comissão de acompanhamento da pesca, com uma função de acompanhamento e de consulta, podendo propor medidas de gestão para a pescaria, a implementar através de despacho do Diretor-Geral de Recursos Naturais, Segurança e Serviços Marítimos.\n\nA presente portaria revoga o anterior diploma vigente sobre a matéria, nomeadamente o Regulamento da Pesca no Rio Lima, na área de jurisdição marítima, aprovado pela Portaria n.º 561/90, de 19 de julho, na sua atual redação.\n\nAssim, ao abrigo do disposto no n.º 3 do artigo 6.º, no artigo 23.º e no n.º 5 do artigo 28.º do Decreto-Lei n.º 73/2020, de 23 de setembro, ouvido o Instituto Português do Mar e da Atmosfera, I. P., a Direção-Geral da Autoridade Marítima e as associações representativas do sector, manda o Governo, pela Secretária de Estado das Pescas, o seguinte:"
+  },
+  "901966102": {
+   "fragment_id": "901966002",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria tem por objeto estabelecer as normas reguladoras do exercício da pesca comercial nas águas interiores não marítimas do rio Lima sob jurisdição marítima, regulando ainda, nos casos expressamente nela previstos, o exercício da pesca lúdica."
+  },
+  "901966103": {
+   "fragment_id": "901966003",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente Regulamento aplica-se em águas interiores não marítimas do rio Lima, bem como aos respetivos leitos e margens pertencentes ao domínio público hídrico, desde a ponte de Lanheses até à foz do rio, sob jurisdição da Capitania do Porto de Viana do Castelo.\n\n2 - A presente portaria aplica-se a pessoas singulares ou coletivas que exerçam a atividade profissional da pesca e à pesca lúdica."
+  },
+  "1069830275": {
+   "fragment_id": "901966004",
+   "type": 11,
+   "heading": "Artigo 3.º — Pescadores e embarcações autorizadas",
+   "in_force_from": "2026-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111/2026/1 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/111-2026-1068974014), em vigor a partir de 2026-03-10."
+   ],
+   "markdown": "###### Artigo 3.º — Pescadores e embarcações autorizadas\n\n1 - O exercício da pesca comercial nas zonas definidas no artigo anterior fica limitado à utilização das embarcações de pesca local de convés aberto referidas no n.º 4 do artigo 28.º do Decreto-Lei n.º 73/2020, de 23 de setembro, podendo ser utilizadas embarcações de pesca com uma potência propulsora total igual ou inferior a 40 kW, sem prejuízo do disposto no número seguinte.\n\n2 - Podem ainda exercer a pesca comercial nas zonas definidas no artigo anterior os apanhadores e pescadores apeados devidamente autorizados pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), nos termos do previsto na portaria que regulamenta a apanha e a pesca profissional apeada.\n\n3 - Por motivos de segurança, pode a Capitania do Porto de Viana do Castelo, após consulta prévia ao órgão local do respetivo porto de referência do navio ou embarcação de pesca, fixar áreas de atividade mais restritas do que as referidas no n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111/2026/1 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/111-2026-1068974014), em vigor a partir de 2026-03-10."
+  },
+  "901966105": {
+   "fragment_id": "901966005",
+   "type": 11,
+   "heading": "Artigo 4.º — Métodos e artes de pesca comercial autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Métodos e artes de pesca comercial autorizadas\n\n1 - A pesca comercial nas zonas definidas no artigo 2.º só pode ser exercida por meio das seguintes artes e utensílios, licenciadas nos termos dos artigos 39.º e seguintes do Decreto-Lei n.º 73/2020, de 23 de setembro:\n\na) Pesca à linha | corrico, também designado localmente por amostra ou corripo, entendendo-se como tal o aparelho de anzol com amostra, que atua à superfície ou abaixo desta, podendo ou não ser rebocado por uma embarcação, com uma abertura mínima dos anzóis de 8 mm, com um máximo de 3 amostras;\n\nb) Pesca à linha | cana de pesca, entendendo-se como tal o aparelho de anzol constituído por uma linha simples, manobrado por intermédio de uma cana ou vara, equipada ou não com tambor ou carreto, com o número máximo de anzóis de três e a abertura mínima dos anzóis de 8 mm;\n\nc) Pesca à linha | linha de mão, entendendo-se como tal o aparelho de anzol constituído por uma linha simples, que atua ligado à mão do praticante, com o número máximo de anzóis de três e a abertura mínima dos anzóis de 8 mm;\n\nd) Armadilha | de gaiola destinada à captura de caranguejo, também designada localmente por nassa, entendendo-se por isso uma armadilha, de forma variada, constituída por um suporte rígido coberto de rede e dispondo de uma ou mais aberturas. Pode ser calada individualmente ou em teias, com ou sem isco e tem as seguintes características: comprimento máximo da armadilha - 70 cm, altura máxima da armadilha - 30 cm, largura máxima da armadilha - 30 cm, malhagem mínima da rede - 30 mm, número máximo de teias - 4, número máximo de armadilhas - 40;\n\ne) Redes de tresmalho | de deriva, entendendo-se com tal uma rede de emalhar de três panos (tresmalho) de deriva destinada à captura de sável ou de lampreia. Cada embarcação apenas pode ter a bordo e utilizar uma rede que tem as seguintes características, consoante a espécie-alvo:\n\ni) Tresmalho de sável: comprimento máximo da rede - 120 m, altura máxima da rede - 3,4 m, malhagem mínima no pano central (miúdo) - 120 mm;\n\nii) Tresmalho de lampreia: comprimento máximo da rede - 160 m, altura máxima da rede - 3,4 m, malhagem mínima do pano central (miúdo) - 70 mm.\n\nf) Redes de tresmalho | fundeada designada localmente por solheira, entendendo-se como tal a rede de emalhar de três panos fundeada, destinada à captura de solha, linguado e choco, com o comprimento máximo da rede de 180 m, altura máxima da rede de 2 m, a malhagem mínima do pano central (miúdo) de 100 mm;\n\ng) Redes de emalhar | 1 pano de deriva designada localmente por mugeira, com 60 mm de malhagem, comprimento máximo de 120 m e altura máxima de rede de 3,4 m destinada à captura de tainha;\n\nh) Draga | de mão | berbigoeira entendendo-se como tal a draga de mão, constituída por uma armação metálica, a que está acoplada uma grelha rígida, com pente de dentes na metade frontal inferior e ligada a uma vara que serve de cabo com um comprimento máximo da vara 10 m, sendo o comprimento máximo da travessa 100 cm, o comprimento máximo dos dentes 15 cm e espaçamento mínimo entre dentes de 1,5 cm. Se for usado um saco de rede este deve ter um comprimento máximo de 150 cm e uma malhagem mínima de 30 mm. Se for usada armação metálica a mesma deve ter um comprimento máximo de 50 cm, uma profundidade máxima de 40 cm e uma altura de 20 cm com uma malhagem mínima de 20 mm. Pode ser utilizada de bordo de embarcação parada ou a pé, podendo nesse caso a vara ser substituída por um puxador metálico, não podendo o operador afastar-te mais de 50 m da embarcação;\n\ni) Apanha animais marinhos | faca de destroncar ou de mariscar, entendendo-se como tal o utensílio de apanha constituído por uma lâmina metálica com forma variável, de bordos cortantes, fixada ou não a um cabo curto;\n\nj) Apanha animais marinhos | sacho, constituído por uma peça metálica de pequena dimensão, fixado a um cabo, destinado à apanha de poliquetas das espécies previstas na Portaria n.º 229/2023, de 24 de julho;\n\nk) Apanha animais marinhos | ancinho, constituído por uma travessa de comprimento máximo de 30 cm, com oito a 10 dentes, sendo o comprimento máximo dos dentes de 10 cm, o espaçamento mínimo entre dentes de 15 mm e o comprimento máximo do cabo de 25 cm, destinado à captura de bivalves;\n\nl) Apanha animais marinhos | engaço, também conhecido localmente pro gadanho, constituído por uma peça/barra de ferro, com número variável de dentes recurvados, fortes, geralmente bem afiados e pontiagudos, que está fixa a uma vara ou cabo de madeira, destinado à captura de mexilhão.\n\n2 - Podem ainda ser usados como auxiliares de pesca o bicheiro, gancho sem farpa na extremidade, e o camaroeiro ou xalavar de rede simples, com uma malhagem mínima de 20 mm.\n\n3 - A altura das redes é aferida com a rede deitada e esticada, extrapolando a altura total a partir de medição de um número reduzido de malhas nos termos do artigo 9.º do Regulamento (CE) n.º 517/2008 da Comissão de 10 de junho de 2008."
+  },
+  "1069830475": {
+   "fragment_id": "901966006",
+   "type": 11,
+   "heading": "Artigo 5.º — Condicionamentos ao exercício da pesca",
+   "in_force_from": "2026-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111/2026/1 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/111-2026-1068974014), em vigor a partir de 2026-03-10."
+   ],
+   "markdown": "###### Artigo 5.º — Condicionamentos ao exercício da pesca\n\n1 - O exercício da pesca nas zonas definidas em artigo 2.º, para além das proibições e condicionalismos estatuídos especialmente no artigo 22.º do Decreto-Lei n.º 73/2020, de 23 de setembro, está sujeito aos seguintes condicionamentos:\n\na) Não é permitido utilizar ou ter a bordo artes que não tenham sido licenciadas ou com características distintas das previstas no presente Regulamento;\n\nb) Não é permitido deter, transportar, depositar ou abandonar nas margens da zona artes de pesca que não estejam autorizadas e licenciadas;\n\nc) Nenhuma arte pode ser calada de forma a prejudicar outra que já o esteja;\n\nd) Nenhuma arte, com exceção do tresmalho de fundo, pode ser calada ou utilizada a menos de 50 m de qualquer outra arte já calada nem a menos de 25 m de terra;\n\ne) Nenhuma arte pode ser calada de forma a obstruir mais de metade do leito alagado do rio, nos locais onde este não possua braços, ou de cada um destes, nos locais onde existam;\n\nf) Nenhuma arte de pesca pode ter qualquer dos seus extremos fixado a terra firme, ou ser fixada ou operada a partir de dique, barragem, descarregador, aqueduto, ponte, pontão, porta de água ou qualquer outro tipo de construção semelhante, nem a boias ou balizas de sinalização marítima ou postaletes de tabuletas;\n\ng) Não é permitida a apanha nem a pesca a partir de embarcações, do pôr ao nascer do sol, exceto com redes, armadilhas de gaiola para caranguejos e draga de mão a partir de embarcação, desde que respeitadas as restantes restrições em termos de segurança da navegação, nomeadamente, a interdição de pesca nos canais de navegação;\n\nh) Não é permitida a pesca por imersão de cestos ou outros recipientes semelhantes, designadamente armadilhas, com exceção das armadilhas de gaiola para a captura de caranguejo;\n\ni) Não é permitida a colocação, dentro de água, de redes, aparelhos ou quaisquer outros dispositivos destinados a encaminhar os espécimes para espaços donde não possam sair, que os forcem a passar por um canal, esteiro ou vala ou que os impeçam de circular livremente, tais como ramagens, paliçadas ou outros obstáculos;\n\nj) As redes de tresmalho não podem permanecer caladas por mais de 24 horas consecutivas em cada período de 36 horas;\n\nk) A partir de terra firme só podem ser utilizadas as artes designadas por cana de pesca e linha de mão;\n\nl) Na maré em que for utilizada mugeira não podem ser capturados ou mantidos a bordo sável, savelha ou lampreia.\n\n2 - O exercício da pesca na zona está também sujeito, por razões de segurança, aos seguintes condicionamentos:\n\na) É proibida a pesca a jusante do estremo este da bacia de rotação do porto comercial sinalizado pela boia de navegação n.º 11;\n\nb) É proibida a pesca a menos de 100 m da boca de qualquer esgoto, de 50 m de doca, marina, embarcadouro ou estaleiro de construção naval e a menos de 200 m de barragens, comportas e descarregadores;\n\nc) É proibida a pesca a menos de 150 m de açudes ou quaisquer outras obras que alterem o regime normal de circulação de águas;\n\nd) É proibida a pesca em zonas balneares, durante a respetiva época, a menos de 50 m da linha da praia e em áreas demarcadas como de extração de inertes;\n\ne) Não é permitido utilizar artes de deriva em condições de reduzida ou má visibilidade;\n\nf) As artes de deriva devem ser recolhidas com a necessária antecedência, deixando livre o canal de navegação, sempre que as embarcações, pelo seu porte, não possam passar livremente, salvo quando se trate de embarcações de recreio, que deverão aguardar o fim do lanço.\n\n3 - Em caso de avaria, sinistro ou qualquer outra razão de força maior que impeça o cumprimento do disposto na alínea j) do n.º 1, bem como no caso de abandono de artes na água, deverá desses factos ser dado conhecimento à Capitania do Porto, no prazo de 2 horas, contado a partir do momento em que o navio atracar ou fundear no mencionado porto ou em caso de perda total do navio, o prazo conta-se desde a data da chegada do mestre ou de quem o substitua.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111/2026/1 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/111-2026-1068974014), em vigor a partir de 2026-03-10."
+  },
+  "901966107": {
+   "fragment_id": "901966007",
+   "type": 11,
+   "heading": "Artigo 6.º — Condicionalismos à pesca com tresmalho de deriva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condicionalismos à pesca com tresmalho de deriva\n\n1 - A pesca com tresmalho de deriva dirigido ao sável só é permitida do pôr ao nascer do sol.\n\n2 - O exercício da pesca com tresmalho de deriva para a captura de lampreia, quando o número de embarcações licenciada o justificar, terá lugar por meio de turnos, cujo modo de funcionamento é o acordado com o capitão do Porto, previamente ao início da safra.\n\n3 - Quando as condições atmosféricas, ou quaisquer outras circunstâncias, não permitam o exercício da pesca de lampreia com tresmalho, o turno a quem competir pescar nesse dia perde a vez."
+  },
+  "901966108": {
+   "fragment_id": "901966008",
+   "type": 11,
+   "heading": "Artigo 7.º — Períodos de defeso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Períodos de defeso\n\n1 - Os períodos de defeso para cada uma das espécies abrangidas pelo disposto na presente portaria são fixados por despacho do diretor-geral de Recursos Naturais, Segurança e Serviços Marítimos mediante parecer do Instituto Português do Mar e da Atmosfera, I. P. (IPMA), ouvida a Comissão de Acompanhamento, quando se encontre a funcionar regularmente, ou, em alternativa, as associações representativas da pesca.\n\n2 - Dentro das épocas hábeis de pesca pode também ser restringida, por despacho do diretor-geral de Recursos Naturais, Segurança e Serviços Marítimos, a utilização de determinadas artes e estabelecidos defesos intermédios, tendo em conta a necessidade de conservação e gestão dos recursos ocorrentes\n\n3 - Nos períodos a que se refere o n.<sup>os </sup>1 é interdito o uso das artes destinadas à captura das espécies em causa e a manutenção a bordo, descarga ou venda de exemplares dessas espécies."
+  },
+  "901966109": {
+   "fragment_id": "901966009",
+   "type": 11,
+   "heading": "Artigo 8.º — Pesca de moluscos bivalves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pesca de moluscos bivalves\n\n1 - São fixados os seguintes limites máximos de capturas por dia e ou por semana e por embarcação:\n\na) 20 kg/dia de amêijoa-boa (Ruditapes decussatus);\n\nb) 20 kg/dia de amêijoa-macha (Venerupis pulastra);\n\nc) 300 kg/dia de berbigão (Cerastoderma edule), até um máximo de 1200 kg por semana.\n\n2 - As quantidades previstas no número anterior podem ser alteradas na sequência de parecer positivo da Comissão de Acompanhamento."
+  },
+  "901966110": {
+   "fragment_id": "901966010",
+   "type": 11,
+   "heading": "Artigo 9.º — Identificação e sinalização das artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Identificação e sinalização das artes\n\n1 - Para fins de identificação, as artes de pesca de uma embarcação devem ser marcadas com o conjunto de identificação da embarcação a que pertencem.\n\n2 - As artes de pesca fundeadas devem ser sinalizadas com boias de sinalização onde deverá ser colocada informação a que se refere o número anterior.\n\n3 - As boias de marcação final devem ser utilizadas de forma que cada extremidade da arte possa ser permanentemente localizada:\n\na) O mastro de cada boia de marcação final deve ter uma altura de, pelo menos, 1 m acima da superfície da água, medidos a partir do topo da boia até ao bordo inferior da bandeira mais baixa;\n\nb) As boias de marcação final devem ser de cor, mas não podem ser nem verdes, nem vermelha e estar munidas de uma ou duas bandeiras retangulares sendo que quando forem exigidas duas bandeiras na mesma boia, a distância entre bandeiras deve ser de, pelo menos, 20 cm;\n\nc) As bandeiras que indicam as extremidades de uma mesma arte devem ser de cor idêntica, não branca, e de tamanho idêntico;\n\nd) As boias devem conter uma ou duas luzes amarelas que emitam um sinal luminoso de cinco em cinco segundos (F1 Y5s), podendo ainda conter uma marca no cimo da boia, com uma ou duas faixas luminosas de, pelo menos, 6 cm de largura, que não podem ser nem vermelhas, nem verdes, visível em todo o horizonte.\n\n4 - As artes de deriva, na parte que estiver amarrada à embarcação, não carecem de sinalização."
+  },
+  "901966111": {
+   "fragment_id": "901966011",
+   "type": 11,
+   "heading": "Artigo 10.º — Dados e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dados e informações\n\nOs mestres e arrais das embarcações que exerçam atividade nas zonas definidas no artigo 2.º são obrigados a fornecer os dados e informações determinados pela legislação em vigor ou acordadas nos termos do artigo 11.º e a dar cumprimento ao preenchimento dos registos de atividade."
+  },
+  "901966112": {
+   "fragment_id": "901966012",
+   "type": 11,
+   "heading": "Artigo 11.º — Pesca lúdica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pesca lúdica\n\n1 - A pesca lúdica exercida nas zonas definidas no artigo 2.º deve cumprir para além dos condicionamentos previstos no artigo 5.º, não podendo utilizar utensílios ou artes não previstos na presente portaria, sem prejuízo dos estabelecidos no Decreto-Lei n.º 246/2000, de 29 de setembro, na sua redação atual, bem como cumprir os tamanhos mínimos de referência de conservação e os defesos estabelecidos ao abrigo da presente portaria e o seguinte:\n\na) Cada pescador lúdico não pode utilizar, em simultâneo mais de duas canas ou linhas;\n\nb) As embarcações utilizadas na pesca lúdica devem guardar uma distância mínima de 50 m de artes de pesca caladas e de embarcações de pesca comercial quando estejam a exercer a sua atividade;\n\nc) Do pôr ao nascer do sol a pesca lúdica não pode exercer-se de bordo de embarcações nem na modalidade de apanha;\n\nd) Não é autorizada a pesca submarina.\n\n2 - A Capitania do Porto, após consulta prévia à DGRM, poderá autorizar competições de pesca desportiva na zona desde que verificadas as necessárias condições de segurança, salubridade e proteção dos recursos vivos."
+  },
+  "901966113": {
+   "fragment_id": "901966013",
+   "type": 11,
+   "heading": "Artigo 12.º — Comissão de Acompanhamento da Pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comissão de Acompanhamento da Pesca\n\n1 - É criada a Comissão de Acompanhamento da Pesca no rio Lima, adiante designada por Comissão.\n\n2 - A Comissão é composta por:\n\na) Dois elementos designados pela Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos, que coordena;\n\nb) Três elementos das comunidades piscatórias locais designados pelas associações representativas da pesca profissional;\n\nc) Um elemento designado pelo Instituto Português do Mar e da Atmosfera, I. P.;\n\nd) Um elemento designado pela Direção-Geral da Autoridade Marítima;\n\ne) Um elemento em representação da pesca lúdica.\n\n3 - Podem igualmente participar nos trabalhos da Comissão, a convite da entidade coordenadora, representantes de outras entidades não previstas nos números anteriores e que tenham um legítimo interesse na pesca na área de jurisdição marítima do rio Lima, bem como personalidades de reconhecido mérito no âmbito de questões científicas pertinentes.\n\n4 - Compete à Comissão:\n\na) Acompanhar a atividade de pesca na área de aplicação do presente regulamento, contribuindo para o desenvolvimento e implementação de um plano de gestão de médio e longo prazo para a pesca;\n\nb) Avaliar, anualmente, a adequação das medidas em vigor e propor medidas de gestão e acompanhamento da pescaria, bem como em matéria de registo de informações a prestar sobre analisar e emitir parecer relativamente à possibilidade de diversificar a pesca através da captura de espécies distintas com artes diferentes das regulamentadas e propor medidas de regulação dessas pescarias;\n\nc) Analisar e emitir parecer relativamente à possibilidade de diversificar a pesca através da captura de espécies distintas com artes diferentes das regulamentadas e propor medidas de regulação dessas pescarias.\n\n5 - A Comissão reúne pelo menos uma vez por ano, preferencialmente no 4.º trimestre, e sempre que a entidade coordenadora o considere necessário ou lhe seja solicitado por algum dos seus membros.\n\n6 - A organização e o funcionamento da Comissão são fixados por regulamento interno, cabendo à entidade coordenadora da Comissão convocar as reuniões e definir o local de realização das mesmas.\n\n7 - As medidas de gestão aprovadas anualmente pela comissão serão implementadas por despacho do dirigente máximo da Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), divulgado no sítio da Internet em www.dgrm.mam.gov.pt, antes de 31 de dezembro de cada ano, com efeitos para o ano seguinte.\n\n8 - O conjunto de regras aplicável é mantido atualizado no sítio da Internet da DGRM e divulgado igualmente pelos órgãos locais da Autoridade Marítima Nacional.\n\n9 - A participação na Comissão não confere aos seus membros o direito a qualquer remuneração pelas funções desempenhadas nem ao pagamento das despesas em que por esse efeito incorram."
+  },
+  "901966114": {
+   "fragment_id": "901966014",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime supletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime supletivo\n\nSem prejuízo do disposto na presente portaria, o exercício da pesca nas zonas definidas no artigo 2.º está sujeito às disposições aplicáveis do Decreto-Lei n.º 73/2020, de 23 de setembro, e do Decreto-Lei n.º 35/2019, de 11 de março, no que se refere à pesca comercial, e do Decreto-Lei n.º 246/2000, de 29 de setembro, na sua redação atual, no que se refere à pesca lúdica, designadamente em matéria contraordenacional."
+  },
+  "901966115": {
+   "fragment_id": "901966015",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente regulamento entra em vigor 30 dias após a publicação da presente portaria."
+  },
+  "901966116": {
+   "fragment_id": "901966016",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nCom a entrada em vigor do Regulamento aprovado pela presente portaria, deixam de ser aplicáveis à pesca no rio Lima as disposições constantes do regulamento aprovado pela Portaria n.º 561/90, de 19 de julho, com as alterações introduzidas pelas Portarias n.<sup>os </sup>17-A/99, de 12 de janeiro, 27/2001, de 15 de janeiro, 38-B/2001, de 17 de janeiro, 80/2004, de 21 de janeiro, 1220/2010, de 3 de dezembro, 23/2017, de 12 de janeiro, 82/2018, de 23 de março, e 1/2019, de 2 de janeiro."
+  },
+  "901966117": {
+   "fragment_id": "901966017",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado das Pescas, Cláudia Sofia Gomes Monteiro de Aguiar, em 23 de dezembro de 2024.\n\n118509257"
+  }
+ }
+}

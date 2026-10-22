@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:298220:por
+title: Decreto Regulamentar Regional n.º 8/94/A
+short_title: null
+summary: Altera o Decreto Regulamentar Regional n.º 12/90/A, de 20 de Março (altera a orgânica e gestão hospitalar da Região)
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional
+proposing_entity: null
+official_number: 8/94/A
+official_date: null
+publication_date: '1994-07-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/1994, Série I-B de 1994-07-23
+  number: '169'
+  series: I
+  supplement: null
+  pages: 4094 - 4094
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/07/169b00/40944094.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/8/1994/07/23/a/dre/pt/html
+  oj: null
+  dre: '298220'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/8-1994-298220
+  internal: pt:dre:298220:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1994-298220
+  metadata_url: https://data.dre.pt/eli/decregulreg/8/1994/07/23/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1994-298220
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-03-11T00:00:00Z'
+integrity:
+  source_sha256: c2d3bbfd2157499fa80634b6d6ca476f2bb32afc480ec9065e0faa2b16a2c770
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1994/DRE-1994-8-298220.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Enfermeiro-director
+- Formas de Provimento
+- Gestão Hospitalar
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:515028:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 8/94/A
+
+Considerando que o [Decreto-Lei n.º 437/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), de 8 de Novembro, estabeleceu o novo regime legal da carreira de enfermagem;
+
+Considerando que, nessa sequência, a área de recrutamento para o cargo de enfermeiro-director se alterou;
+
+Considerando, ainda, que urge adaptar o diploma da orgânica e gestão hospitalar da Região, em conformidade com o estatuído naquele diploma, no que diz respeito à forma de nomeação do enfermeiro-director de serviço de enfermagem do hospital;
+
+Tendo em conta a redacção da alínea b) do artigo 56.º do Estatuto da Autonomia, o artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, e o artigo 31.º do Decreto Regional n.º 32/80/A, de 11 de Dezembro:
+
+O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo único. O artigo 30.º do [Decreto Regulamentar Regional n.º 12/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1990-333294), de 20 de Março, passa a ter a seguinte redacção:
+
+###### Artigo 30.º — Forma de nomeação do enfermeiro-director de serviço de enfermagem do hospital
+
+1 - O enfermeiro-director de serviço de enfermagem do hospital é nomeado pelo Secretário Regional da Saúde e Segurança Social, ouvido o conselho técnico, de entre enfermeiros, de preferência do quadro do hospital, de categorias integradas nos níveis 4 e 3 que possuam uma das habilitações mencionadas no n.º 7 do artigo 11.º do [Decreto-Lei n.º 437/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), de 8 de Novembro.
+
+2 - O provimento do cargo de enfermeiro-director de serviço de enfermagem obedece às normas previstas nos n.os 1, 2, 3 e 5 do artigo 5.º e nos artigos 6.º, 7.º e 9.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
+
+3 - No exercício das suas funções, o enfermeiro-director de serviço de enfermagem é coadjuvado por um a três adjuntos, consoante o que for fixado no regulamento interno de cada hospital, por si livremente escolhidos.
+
+Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 8 de Junho de 1994.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 21 de Junho de 1994.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**

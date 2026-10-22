@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:503778:por
+title: Portaria n.º 17762
+short_title: null
+summary: Adita um parágrafo ao n.º 10.º da Portaria n.º 17675, que institui na província ultramarina de Moçambique brigadas
+  de fomento agrário
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: '17762'
+official_date: null
+publication_date: '1960-06-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 132/1960, Série I de 1960-06-06
+  number: '132'
+  series: I
+  supplement: null
+  pages: 1332 - 1332
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/06/13200/13321332.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '503778'
+  dre_path: /dr/detalhe/portaria/17762-1960-503778
+  internal: pt:dre:503778:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17762-1960-503778
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17762-1960-503778
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1960-06-06T00:00:00Z'
+integrity:
+  source_sha256: 215c65fbeefe4b4d1969216f99517fc2d4d1204a4cee781e061befaf997ad30f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-17762-503778.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17762
+
+A [Portaria n.º 17675](https://diariodarepublica.pt/dr/detalhe/portaria/17675-1960-281638), de 15 de Abril transacto, instituiu em Moçambique as brigadas de fomento agrário, criando desde logo, sob proposta do Governo-Geral, sete brigadas especializadas. Pelo seu n.º 10.º, imputou as despesas decorrentes do funcionamento das brigadas à dotação que o II Plano de Fomento consigna ao fomento agrário, florestal e pecuário.
+
+Reconhece-se vantagem em alargar para além do consentido por esta dotação as possibilidades de custeio da actividade a desenvolver pelos organismos técnicos instituídos, e nada impede o propósito no que se refere às brigadas a cuja finalidade específica esteja consignada dotação própria no Plano de Fomento.
+
+Assim, atendendo ao que expôs o Governo-Geral de Moçambique e usando da faculdade conferida pelo artigo 7.º, alínea a), do [Decreto n.º 40869](https://diariodarepublica.pt/dr/detalhe/decreto/40869-1956-298607), de 20 de Novembro de 1956:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+
+Ao n.º 10.º da [Portaria n.º 17675](https://diariodarepublica.pt/dr/detalhe/portaria/17675-1960-281638), de 15 de Abril de 1960, é aditado o seguinte:
+
+§ único. Sob proposta do governador-geral de Moçambique, simultânea ou posterior à da criação de qualquer brigada, poderá o Ministro do Ultramar determinar, por despacho, que as despesas decorrentes do seu funcionamento sejam imputadas a outra rubrica do II Plano de Fomento, quando a haja especificamente consignada à finalidade própria da brigada em referência.
+
+Ministério do Ultramar, 6 de Junho de 1960. - Pelo Ministro do Ultramar, Carlos Krus Abecasis, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Carlos Abecasis.

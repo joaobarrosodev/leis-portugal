@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:220708:por
+title: Decreto-Lei n.º 37/2003
+short_title: null
+summary: Estabelece a distribuição de receitas da Lotaria Nacional dos anos 2003 a 2005 e do Totoloto dos anos 2004 e 2005
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Segurança Social e do Trabalho
+proposing_entity: null
+official_number: 37/2003
+official_date: null
+publication_date: '2003-03-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 55/2003, Série I-A de 2003-03-06
+  number: '55'
+  series: I
+  supplement: null
+  pages: 1568 - 1569
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/03/055a00/15681569.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/37/2003/03/06/p/dre/pt/html
+  oj: null
+  dre: '220708'
+  dre_path: /dr/detalhe/decreto-lei/37-2003-220708
+  internal: pt:dre:220708:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2003-220708
+  metadata_url: https://data.dre.pt/eli/dec-lei/37/2003/03/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2003-220708
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-09-06T00:00:00Z'
+integrity:
+  source_sha256: 99eddcff3cae6a0c1393db3bb3cae5d430b3e2bdc138a161bf44f165a458edf5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-37-220708.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Totoloto
+- Jogos de Fortuna e Azar
+- Direcção Geral do Tesouro
+- Instituto de Gestão Financeira da Segurança Social
+- Apostas Mútuas Desportivas
+- Santa Casa da Misericórdia
+- Receita Própria
+- Reforço de Verbas
+- Lotaria Nacional
+relationships:
+- type: amended_by
+  target: pt:dre:170794638:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/317/2002/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/317/2002/12/27/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 37/2003
+
+de 6 de Março
+
+A situação económica e financeira da Santa Casa da Misericórdia de Lisboa conheceu uma significativa degradação nos últimos anos, facto que se traduziu em sucessivos e crescentes défices de exploração.
+
+Os resultados líquidos negativos registados pela Santa Casa da Misericórdia de Lisboa nos últimos exercícios económicos foram consequência do efeito conjugado do contínuo aumento das despesas e, nos anos mais recentes, da diminuição das receitas provenientes dos resultados líquidos de exploração dos jogos sociais, assumindo, por isso, uma natureza estrutural e uma dimensão considerável e preocupante.
+
+Nestes termos, e reconhecendo o carácter excepcional e único da actividade da Santa Casa da Misericórdia de Lisboa, importa dotar esta instituição dos meios que lhe permitam sanear a sua situação financeira e garantir a estabilidade indispensável para o esforço de reorganização estrutural a que está obrigada.
+
+É de sublinhar que a presente medida de alteração dos termos da distribuição de receitas da Lotaria Nacional e do Totoloto, elevando a proporção das que são atribuídas à Santa Casa da Misericórdia de Lisboa, com contrapartida na diminuição das determinadas a favor da Direcção-Geral do Tesouro e do Instituto de Gestão Financeira da Segurança Social, é de natureza excepcional e por isso temporalmente limitada, tendo como situação precedente as medidas adoptadas em 1976 e 1977, através dos Decretos-Leis n.os [778/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/778-1976-409328), de 27 de Outubro, e [319/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1977-255443), de 5 de Agosto, para resolução da gravíssima situação financeira que a Santa Casa da Misericórdia de Lisboa então atravessava.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece a proporção na distribuição do produto líquido da venda da Lotaria Nacional e as percentagens de distribuição das receitas dos resultados de exploração do Totoloto a favor da Santa Casa da Misericórdia de Lisboa, da Direcção-Geral do Tesouro e do Instituto de Gestão Financeira da Segurança Social.
+
+###### Artigo 2.º — Lotaria Nacional
+
+A proporção na distribuição das receitas a favor da Santa Casa da Misericórdia de Lisboa e da Direcção-Geral do Tesouro, prevista na alínea a) do artigo 11.º do [Decreto-Lei n.º 40397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40397-1955-247414), de 24 de Novembro de 1955, na redacção dada pelo [Decreto-Lei n.º 43399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43399-1960-512842), de 15 de Dezembro de 1960, é fixada em dois terços e um terço, respectivamente, para os anos económicos de 2003, 2004 e 2005.
+
+###### Artigo 3.º — Totoloto
+
+As percentagens da Santa Casa da Misericórdia de Lisboa e do Instituto de Gestão Financeira da Segurança Social, previstas nas alíneas a) e d) do n.º 4 do artigo 16.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, republicado em anexo ao [Decreto-Lei n.º 317/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2002-404744), de 27 de Dezembro, são fixadas em 31,5% e 20%, respectivamente, para os anos económicos de 2004 e 2005.
+
+###### Artigo 4.º — Produção de efeitos
+
+O presente diploma produz efeitos desde o dia 1 de Janeiro de 2003.
+
+Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira - António José de Castro Bagão Félix.
+
+**Promulgado em 17 de Fevereiro de 2003.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 21 de Fevereiro de 2003.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**

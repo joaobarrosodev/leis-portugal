@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:303439:por
+title: Portaria n.º 565/92
+short_title: null
+summary: Aprova o Regulamento de Controlo Metrológico dos Parcómetros Mecânicos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 565/92
+official_date: null
+publication_date: '1992-06-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/1992, Série I-B de 1992-06-24
+  number: '143'
+  series: I
+  supplement: null
+  pages: 2979 - 2979
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/06/143b00/29792979.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/565/1992/06/24/p/dre/pt/html
+  oj: null
+  dre: '303439'
+  dre_path: /dr/detalhe/portaria/565-1992-303439
+  internal: pt:dre:303439:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/565-1992-303439
+  metadata_url: https://data.dre.pt/eli/port/565/1992/06/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/565-1992-303439
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-09-01T00:00:00Z'
+integrity:
+  source_sha256: 1797947948aceb3a3e6b35f6a2bd0d9014d2889991ba0110afdce42f65872eb2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-565-303439.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Parcómetro
+- Controlo Metrológico
+relationships:
+- type: amended_by
+  target: pt:dre:488510:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 565/92
+
+de 24 de Junho
+
+O [Decreto-Lei n.º 291/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1990-557469), de 20 de Setembro, regulamentado pela [Portaria n.º 962/90](https://diariodarepublica.pt/dr/detalhe/portaria/962-1990-555638), de 9 de Outubro, estabeleceu o regime jurídico do controlo metrológico dos métodos e instrumentos de medição.
+
+Considerando a necessidade de estabelecer a regulamentação específica a que deve obedecer o controlo metrológico dos parcómetros mecânicos;
+
+Ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 291/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1990-557469), de 20 de Setembro:
+
+Manda o Governo, pelo Ministro da Indústria e Energia, que seja aprovado o Regulamento do Controlo Metrológico dos Parcómetros Mecânicos, anexo à presente portaria e que dela faz parte integrante.
+
+Ministério da Indústria e Energia.
+
+**Assinada em 29 de Maio de 1992.**
+
+**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+
+## ANEXO — Regulamento do Controlo Metrológico dos Parcómetros Mecânicos
+
+1 - O presente Regulamento aplica-se a parcómetros mecânicos utilizados no controlo do tempo em prestação de serviços, adiante referidos apenas como parcómetros.
+
+2 - Entende-se por parcómetros os instrumento destinados à medição do tempo de estacionamento de veículos, incorporem ou não um sistema de pré-pagamento accionado pelo utente.
+
+3 - Os parcómetros podem ser accionados através de recolha de moedas, fichas, chaves, alavancas, interruptores ou cartões de código.
+
+4 - Nos despachos da aprovação de modelo são fixadas as condições do termo do período de estacionamento por intermédio de um sinalizados do tempo esgotado.
+
+5 - Deve ser inacessível aos utilizadores dos parcómetro o acesso a botões de comando ou a quaisquer outros dispositivos que possam interromper ou alterar o funcionamento desses parcómetros.
+
+6 - Os parcómetros devem satisfazer as qualidades e características metrológicas estabelecidas nas normas internacionais ou nas normas europeias.
+
+7 - O disposto no número anterior não impede a comercialização dos parcómetros acompanhados de certificado emitido com base em especificações e procedimentos que assegurem uma qualidade metrológica equivalente à visada pelo presente diploma, por organismo reconhecido segundo critérios equivalentes aos previstos nas normas NP EN 4500, a que se refere o [Decreto-Lei n.º 165/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1983-311467), de 27 de Abril.
+
+8 - O controlo metrológico dos parcómetros compreende as operações seguintes:
+
+Aprovação de modelo;
+
+Primeira verificação;
+
+Verificação periódica;
+
+Verificação extraordinária.
+
+9 - Aprovação de modelo:
+
+9.1 - O requerimento da aprovação de modelo será acompanhado de dois exemplares de parcómetros para estudo e ensaios.
+
+9.2 - A aprovação de modelo será válida por 10 anos, salvo disposição em contrario no despacho de aprovação de modelo.
+
+9.3 - Os erros máximos admissíveis são os seguintes:
+
+9.3.1 - Entre 0% a mais 5% quando se utilizam meios de referência baseados na medição de frequência de oscilação do mecanismo do relógio.
+
+9.3.2 - Positivo, de três minutos em cada hora do tempo nominal quando se utilizam meios de referência baseados na leitura da escala.
+
+10 - Primeira verificação:
+
+10.1 - A primeira verificação compete ao Instituto Português da Qualidade e poderá ser delegada na Delegação Regional da Indústria e Energia da área do fabricante, do importador e em entidades de qualificação reconhecida.
+
+10.2 - Os erros máximos admissíveis são os indicados nos n.os 9.3.1 e 9.3.2.
+
+10.3 - No ano em que se realizar a primeira verificação dispensa-se a verificação periódica.
+
+11 - Verificação periódica:
+
+11.1 - A verificação periódica compete ao Instituto Português da Qualidade e poderá ser delegada na Delegação Regional da Indústria de Energia da área do requerente e em entidades de qualificação reconhecida, sendo-lhe aplicável o disposto no n.º 9.3.2.
+
+11.2 - A verificação periódica dos parcómetros é anual.
+
+11.3 - Os erros máximos admissíveis dos parcómetros são os indicados no n.º 9.3.2.
+
+12 - Verificação extraordinária:
+
+12.1 - A verificação extraordinária compete ao Instituto Português da Qualidade e poderá ser delegada na Delegação Regional da Indústria e Energia da área do requerente e em entidades de qualificação reconhecida, sendo-lhe aplicável o disposto no n.º 9.3.2.
+
+13 - Inscrições e marcações:
+
+13.1 - Os parcómetros devem conter de maneira visível e legível as indicações seguintes:
+
+Nome ou marca do fabricante ou importador;
+
+Designação do modelo;
+
+Ano e número de fabrico;
+
+Símbolo de aprovação de modelo.
+
+14 - Marcação - os símbolos de verificação são marcados nos parcómetros de acordo com as indicações do respectivo despacho de aprovação de modelo.
+
+15 - Disposição finais e transitórias:
+
+15.1 - Os parcómetros em uso poderão continuar a ser utilizados enquanto estiverem em bom estado de conservação e nos ensaios da primeira verificação incorrerem em erros que não excedam os erros máximos admissíveis.

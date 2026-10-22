@@ -1,0 +1,278 @@
+---
+schema_version: '1.0'
+id: pt:dre:165129796:por
+title: Decreto Regulamentar Regional n.º 6/2021/M
+short_title: null
+summary: Estabelece o modelo de governação dos Investimentos Regionais incluídos no Plano de Recuperação e Resiliência, no
+  âmbito do Mecanismo de Recuperação e Resiliência da União Europeia para o período de 2021-2026, bem como a estrutura orgânica
+  relativa à gestão estratégica e operacional regional, acompanhamento, monitorização e avaliação, tendo em conta a realidade
+  e especificidades da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 6/2021/M
+official_date: null
+publication_date: '2021-06-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/2021, Série I de 2021-06-15
+  number: '114'
+  series: I
+  supplement: null
+  pages: 99 - 103
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11400/0009900103.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/6/2021/06/15/m/dre/pt/html
+  oj: null
+  dre: '165129796'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/6-2021-165129796
+  internal: pt:dre:165129796:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2021-165129796
+  metadata_url: https://data.dre.pt/eli/decregulreg/6/2021/06/15/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2021-165129796
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-06-15T00:00:00Z'
+integrity:
+  source_sha256: cdd6c903888b9db172ae803f366c9335e63a2439fff30e2808708ce18910cff2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2021/DRE-2021-6-165129796.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Governo
+- Ajuda Comunitária
+- Financiamento
+- Governo Regional
+- Definição de Competências
+- Fundo Europeu de Investimento
+- Instituto de Desenvolvimento Regional
+- Plano de Desenvolvimento Económico e Social
+- Orgânica
+- Madeira.região Autónoma
+- Plano de Recuperação e Resiliência
+- Comissão de Auditoria e Controlo do PRR
+relationships:
+- type: cites
+  target: celex:32021R0241
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/241/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/29-b/2021/05/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29-b/2021/05/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/97/2020/11/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/97/2020/11/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/98/2020/11/13/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 6/2021/M
+
+A pandemia da doença COVID-19 originada pelo vírus SARS-CoV-2, para além de representar uma emergência sanitária, teve consequências económicas e sociais à escala global, sem precedentes, desencadeando uma retração económica generalizada. Fatores que exigiram dos países da União Europeia, Portugal inclusive, a adoção de um vasto leque de medidas excecionais, circunstância que se refletiu de modo particular na Região Autónoma da Madeira (RAM), considerando a sua forte dependência do sector do Turismo, severamente afetado pela pandemia, e a sua permanente condição de região ultraperiférica.
+
+A estratégia adotada para contenção da COViD-19 na RAM teve avultadas consequências económicas, com impacto direto no consumo das famílias e na atividade das empresas, o que levou à adoção de medidas financeiras de exceção, designadamente, para apoio à liquidez das empresas e à manutenção de postos de trabalho, por forma a obviar à extinção massiva de capacidade produtiva na RAM, evitando, consequentemente, a perda de rendimentos das famílias.
+
+As medidas aplicadas para mitigar a primeira vaga da pandemia foram prorrogadas, aprofundadas e complementadas com novas respostas financeiras visando minorar os impactos económicos das segunda e terceira vagas, que impuseram, novamente, a implementação de fortes restrições.
+
+Efetivamente, as consequências da pandemia no desenvolvimento económico e social na RAM, de Portugal no seu todo, e da União Europeia de um modo generalizado, conduziu à necessidade de um ajustamento estratégico e operacional em termos de planeamento, no sentido de concretizar uma resposta de mitigação e estabilização de curto prazo e de impulso à recuperação e resiliência, a médio e longo prazos.
+
+No início da pandemia, em 2020, a Região encontrava-se em fase de conclusão do Plano de Desenvolvimento Económico e Social 2030 (PDES 2030), pelo que teve de proceder a uma revisão deste Plano, no sentido de incorporar o impacto económico e social da pandemia na estratégia de desenvolvimento para os próximos 10 anos.
+
+O PDES 2030 constitui-se como o referencial de desenvolvimento que sustenta a aplicação dos Instrumentos Europeus, nomeadamente o reforço do Programa Operacional da Região Autónoma da Madeira 14-20, vulgo «Madeira 14-20», através dos recursos adicionais da iniciativa REACT-EU (2021-2023), a aplicação da dotação do Quadro Financeiro Plurianual 2021-2027 na RAM e as reformas e investimentos previstos no Plano de Recuperação e Resiliência Nacional (PRR).
+
+No âmbito do pacote financeiro consensualizado pelo Conselho Europeu, em julho de 2020, foi criado o Mecanismo de Recuperação e Resiliência (MRR), que permite a cada estado-membro planear um conjunto de reformas e investimentos emergentes para atenuar o impacto económico da crise provocada pela doença COViD-19, assente na transição ecológica e digital.
+
+O MRR determina que os planos de recuperação e resiliência dos estados-membros se traduzam em medidas para a implementação de reformas e investimentos, alinhados com os objetivos do Semestre Europeu e com as Recomendações Específicas por estado-membro que de ali decorrem.
+
+Tendo como referência as opções e prioridades estabelecidas na Estratégia Portugal 2030, aprovada pela [Resolução do Conselho de Ministros n.º 98/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/148444002/details/normal?l=1), de 13 de novembro, e em articulação com os princípios de programação do Quadro Financeiro Plurianual 2021-2027, aprovados pela [Resolução do Conselho de Ministros n.º 97/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/148444001/details/normal?l=1), de 13 de novembro, a programação do PRR foi desenvolvida em articulação com a programação do Acordo de Parceria e respetivos Programas Operacionais, maximizando as sinergias e complementaridades entre as duas mais importantes fontes de financiamento europeu das políticas públicas para a próxima década.
+
+A 21 de abril de 2021, Portugal entregou formalmente o seu Plano de Recuperação e Resiliência e, através do [Decreto-Lei n.º 29-B/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/162756795/details/normal?l=1), de 4 de maio, definiu o respetivo modelo de governação, modelo este que se pretende ágil, eficaz e transparente, por forma a concretizar o PRR.
+
+O presente Decreto Regulamentar Regional vem estabelecer o modelo de governação dos fundos europeus no âmbito do MRR, específico para esta Região Autónoma, enquadrado no Next Generation EU, para o período de 2021-2026, adaptando à RAM a estrutura orgânica, estratégica e operacional relativa ao acompanhamento e implementação do PRR, no que se refere às competências de gestão, monitorização, acompanhamento e avaliação, nos termos do [Regulamento (UE) 2021/241](https://diariodarepublica.pt/application/external/eurolex?21R0241), do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o MRR, e ainda no respeito pelos princípios e critérios definidos no [Decreto-Lei n.º 29-B/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/162756795/details/normal?l=1), de 4 de maio.
+
+Assim:
+
+Nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º, ambos da Constituição da República Portuguesa, e da alínea d) do artigo 69.º e artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/web/guest/pesquisa/-/search/629666/details/normal?l=1), de 5 de junho, revisto pela [Lei n.º 130/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/434224/details/normal?l=1), de 21 de agosto, e pela [Lei n.º 12/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/303585/details/normal?l=1), de 21 de junho, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma estabelece o modelo de governação dos Investimentos Regionais incluídos no Plano de Recuperação e Resiliência (PRR RAM), no âmbito do Mecanismo de Recuperação e Resiliência (MRR) da União Europeia para o período 2021-2026, bem como a estrutura orgânica relativa à gestão estratégica e operacional regional, acompanhamento, monitorização e avaliação, tendo em conta a realidade e especificidades da Região Autónoma da Madeira (RAM).
+
+###### Artigo 2.º — Princípios gerais
+
+Nos termos do artigo 2.º do [Decreto-Lei n.º 29-B/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/162756795/details/normal?l=1), de 4 de maio, a governação do PRR RAM obedece aos seguintes princípios gerais:
+
+a) O princípio da orientação para resultados, que determina um processo de contratualização de resultados físicos e financeiros baseados em marcos e metas, na aceção do [Regulamento (UE) 2021/241](https://diariodarepublica.pt/application/external/eurolex?21R0241), aprofundando os mecanismos de apropriação e responsabilização dos beneficiários;
+
+b) O princípio da transparência e prestação de contas, que determina a aplicação à gestão dos fundos europeus das boas práticas de informação pública dos apoios a conceder e concedidos e de avaliação dos resultados obtidos;
+
+c) O princípio da participação, que determina o envolvimento de todos os órgãos de governação nas várias fases do PRR, desde a fase de conceção à fase de implementação e avaliação, garantindo o amplo envolvimento dos parceiros económicos e sociais e das organizações relevantes da sociedade civil;
+
+d) Os princípios da segregação das funções de gestão e da prevenção de conflitos de interesse, que determina a subordinação do modelo de gestão do PRR ao primado da separação rigorosa de funções de gestão e monitorização, de pagamento, e de auditoria e controlo;
+
+e) O princípio da simplificação, que determina a ponderação permanente dos requisitos processuais adotados, designadamente na diminuição dos níveis de intermediação e de correção de eventuais complexidades desnecessárias.
+
+###### Artigo 3.º — Níveis de governação
+
+O modelo de governação regional assenta em quatro níveis, nos seguintes termos:
+
+a) Nível de coordenação política, da competência do Conselho de Governo da RAM;
+
+b) Nível de acompanhamento, da competência da Comissão Regional de Acompanhamento (CRA);
+
+c) Nível de coordenação técnica e de monitorização, da competência do Instituto de Desenvolvimento Regional, IP-RAM (IDR, IP-RAM);
+
+d) Nível de auditoria e controlo, assegurado pela Comissão de Auditoria e Controlo (CAC), nos termos do previsto no artigo 7.º do [Decreto-Lei n.º 29.º-B/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/162756795/details/normal?l=1), de 4 de maio.
+
+###### Artigo 4.º — Órgão de coordenação política
+
+1 - Sem prejuízo das competências atribuídas à Comissão Interministerial do PRR, previstas no artigo 4.º do [Decreto-Lei n.º 29-B/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/162756795/details/normal?l=1), a coordenação política dos fundos europeus atribuídos à RAM através do PRR compete ao Conselho de Governo da RAM.
+
+2 - Compete ao Conselho de Governo:
+
+a) Assegurar a coordenação política dos investimentos regionais no âmbito do PRR e sua coerência com a Estratégia de Desenvolvimento Económico e Social 2030 e demais estratégias regionais setoriais;
+
+b) Assegurar o aprofundamento das sinergias e complementaridade dos investimentos com outras políticas públicas e outras fontes de financiamento a que a Região possa ter acesso;
+
+c) Apreciar e aprovar, após parecer da CRA, as propostas de alteração do PRR RAM, quando as mesmas consubstanciem alterações dos resultados contratualizados;
+
+d) Apreciar e aprovar, após parecer da CRA, os relatórios de monitorização periódicos e relatório final dos investimentos do PRR RAM;
+
+e) Pronunciar-se pontualmente sobre questões que, pela sua relevância, lhe sejam presentes pelo membro do Governo que tutela o IDR, IP-RAM.
+
+###### Artigo 5.º — Órgão de acompanhamento
+
+1 - A CRA é um órgão de caráter consultivo que integra os seguintes membros:
+
+a) Uma personalidade de reconhecido mérito designada pelo Conselho do Governo sob proposta do membro do Governo Regional com a tutela dos fundos comunitários e que a ele preside;
+
+b) Sete personalidades indicadas pelo Conselho de Governo, nas áreas específicas de aplicação do PRR RAM: assuntos sociais, saúde, ambiente, energia, educação, tecnologia e modernização administrativa;
+
+c) O presidente do Conselho Económico e da Concertação Social;
+
+d) Dois membros não governamentais designados pelo Conselho Económico e da Concertação Social, sendo que um desses membros deverá ser representativo do setor empresarial da RAM;
+
+e) A Autoridade Ambiental regional;
+
+f) O presidente da União das IPSS ou um representante por ele designado;
+
+g) O responsável pela coordenação dos Fundos Europeus Regionais ou um representante por ele designado; e
+
+h) Um representante nomeado pelo membro do Governo Regional com a área das finanças.
+
+2 - A CRA reúne uma vez por ano e, extraordinariamente, por convocatória do seu Presidente, de acordo com o Regulamento Interno, a ser aprovado na primeira reunião deste Órgão.
+
+3 - Compete à Comissão Regional de Acompanhamento do PRR RAM:
+
+a) Acompanhar a execução dos investimentos, podendo emitir recomendações que visem oportunidades de melhoria, com o objetivo de promover a boa execução do PRR RAM;
+
+b) Analisar as questões que afetem o desempenho dos investimentos, propondo alterações e iniciativas ao nível regional e local que considerem oportunas, com o objetivo de facilitar a articulação entre as várias entidades regionais envolvidas na execução e a concretização dos investimentos;
+
+c) Acompanhar as medidas de informação, comunicação e promoção da transparência do PRR RAM, participando e promovendo no modelo regional a adotar;
+
+d) Analisar os relatórios de monitorização anuais e o relatório final do PRR RAM, podendo emitir recomendações;
+
+e) Acompanhar e analisar os resultados e impactos dos investimentos;
+
+f) Pronunciar-se sobre questões que lhes sejam submetidas pelos órgãos de coordenação política e de coordenação técnica e de monitorização.
+
+4 - O presidente da CRA pode convidar a participar nas reuniões especialistas ou personalidades de reconhecido mérito, em função das matérias agendadas, sempre que tal se justifique.
+
+5 - O apoio logístico e administrativo decorrente do funcionamento da CRA é assegurado pelo Instituto de Desenvolvimento Regional, IP-RAM.
+
+6 - Os elementos que integram a composição da Comissão Regional de Acompanhamento não auferem qualquer remuneração ou abono pelo exercício das funções.
+
+###### Artigo 6.º — Órgão de coordenação técnica e de monitorização
+
+1 - A coordenação técnica e a monitorização do PRR RAM são exercidas pelos serviços que, nos termos dos Estatutos do IDR, IP-RAM, tenham competências atribuídas nesta matéria.
+
+2 - O Órgão de coordenação técnica e de monitorização assegurará as competências que forem protocoladas entre a estrutura de missão «Recuperar Portugal» e a RAM, no âmbito dos investimentos da RAM incluídos no PRR do Estado Português.
+
+3 - Tem ainda como funções, a nível regional:
+
+a) Coordenar a execução dos investimentos regionais do PRR, assegurando a consecução dos seus objetivos estratégicos e promovendo a monitorização e a concretização dos objetivos operacionais através de marcos e de metas;
+
+b) Monitorizar e acompanhar a execução dos investimentos regionais do PRR;
+
+c) Elaborar os relatórios de acompanhamento periódicos e o relatório final, submetendo-os à Comissão Regional de Acompanhamento do PRR RRAM, à estrutura de coordenação dos Fundos Europeus Regionais e ao Conselho de Governo.
+
+###### Artigo 7.º — Órgão de Auditoria e Controlo
+
+1 - A estrutura responsável pela auditoria e controlo do PRR nacional é a Comissão de Auditoria e Controlo (CAC), conforme previsto no artigo 7.º do [Decreto-Lei n.º 29-B/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/162756795/details/normal?l=1), de 4 de maio.
+
+2 - Compete ao IDR, IP-RAM prestar toda a colaboração necessária ao Órgão de Auditoria e Controlo na Região Autónoma da Madeira.
+
+###### Artigo 8.º — Disposições finais
+
+Em todo o mais que não esteja especialmente previsto no presente diploma, é aplicado o determinado no [Decreto-Lei n.º 29-B/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/162756795/details/normal?l=1), de 4 de maio.
+
+###### Artigo 9.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 13 de maio de 2021.
+
+**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+
+**Assinado em 28 de maio de 2021.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

@@ -1,0 +1,280 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:459967:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-141214394",
+ "dre_path": "/dr/detalhe/decreto-lei/3-2010-459967",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-01-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "141076959",
+    "141076960",
+    "141076961",
+    "141076962",
+    "141076963",
+    "141076964",
+    "141076965"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:141214377:por",
+     "title": "Lei n.º 53/2020",
+     "published": "2020-08-26",
+     "dre_path": "/dr/detalhe/lei/53-2020-141214377"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "141076959",
+    "141076972",
+    "141076961",
+    "141076962",
+    "141076967",
+    "141076973",
+    "141076969",
+    "141076970",
+    "141076971"
+   ]
+  },
+  {
+   "date": "2024-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:891107796:por",
+     "title": "Decreto-Lei n.º 72/2024",
+     "published": "2024-10-16",
+     "dre_path": "/dr/detalhe/decreto-lei/72-2024-891107796"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º-A"
+   ],
+   "fragments": [
+    "141076959",
+    "213627970",
+    "141076961",
+    "141076962",
+    "891107748",
+    "213627972",
+    "213702277",
+    "213702282",
+    "213702283",
+    "213702284",
+    "213702285",
+    "213702286"
+   ]
+  }
+ ],
+ "fragments": {
+  "141076959": {
+   "fragment_id": "141214395",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 3/2010\n\nde 5 de Janeiro\n\nNo cumprimento do disposto no Programa do XVIII Governo Constitucional, onde se afirma a necessidade de «identificar práticas lesivas dos interesses dos consumidores de produtos e serviços financeiros e promover o reforço da sua protecção», o presente decreto-lei visa dois objectivos. Por um lado, pretende-se proibir a cobrança de encargos pelas instituições de crédito nas operações realizadas em caixas automáticas (vulgarmente conhecidas como «caixas Multibanco»), o que inclui, designadamente, a impossibilidade de cobrar encargos por operações de levantamento, de depósito ou de pagamento de serviços. Por outro lado, proíbe-se igualmente a cobrança de encargos pelos beneficiários de serviços de pagamento nas operações de pagamento através dos terminais de pagamento automáticos.\n\nPretende-se assim acautelar, a título preventivo, os interesses dos consumidores, impedindo expressamente que possam vir a ser onerados com pagamentos pela utilização destes serviços, contribuindo ainda para a promoção da utilização de instrumentos de pagamento eficazes, em condições adequadas de transparência e concorrência.\n\nFoi ouvido o Banco de Portugal.\n\nFoi promovida a audição ao Conselho Nacional do Consumo.\n\nForam ouvidos, a título facultativo, a Associação Portuguesa de Consumidores dos Media, a Associação Portuguesa de Bancos, a Associação de Consumidores da Região Açores, a Confederação do Comércio e Serviços de Portugal, a União Geral de Consumidores e a Federação Nacional das Cooperativas de Consumidores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "141076960": {
+   "fragment_id": "141214396",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei tem como objecto:\n\na) Proibir a cobrança de encargos pelas instituições de crédito nas operações, designadamente de levantamento, de depósito ou de pagamento de serviços, em caixas automáticas;\n\nb) Proibir a cobrança de encargos pelos beneficiários de serviços de pagamento nas operações de pagamento através dos terminais de pagamento automáticos."
+  },
+  "141076961": {
+   "fragment_id": "141214397",
+   "type": 11,
+   "heading": "Artigo 2.º — Cobrança de encargos nas operações em caixas automáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cobrança de encargos nas operações em caixas automáticas\n\nÀs instituições de crédito é vedado cobrar quaisquer encargos directos pela realização de operações bancárias em caixas automáticas, designadamente de levantamento, de depósito ou de pagamento de serviços."
+  },
+  "141076962": {
+   "fragment_id": "141214398",
+   "type": 11,
+   "heading": "Artigo 3.º — Cobrança de encargos por beneficiário dos serviços de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cobrança de encargos por beneficiário dos serviços de pagamento\n\nAo beneficiário do serviço de pagamento é vedado exigir ao ordenante qualquer encargo pela utilização de um determinado instrumento de pagamento, para os efeitos do disposto na parte final da alínea b) do n.º 6 do artigo 63.º do Decreto-Lei n.º 317/2009, de 30 de Outubro, que criou o regime jurídico que regula o acesso à actividade das instituições de pagamento e a prestação de serviços de pagamento."
+  },
+  "141076963": {
+   "fragment_id": "141214399",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidade contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidade contra-ordenacional\n\n1 - A violação do disposto nos artigos 2.º e 3.º é punida com coima nos montantes e nos limites referidos nos n.os 1 e 2 do artigo 17.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na sua redacção actual.\n\n2 - A tentativa e a negligência são puníveis sendo, nesses casos, reduzidos a metade os limites mínimo e máximo das coimas previstas no número anterior."
+  },
+  "141076964": {
+   "fragment_id": "141214400",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização e aplicação das coimas\n\n1 - A fiscalização do disposto no presente decreto-lei, a instrução dos processos de contra-ordenação e a aplicação das respectivas coimas são da competência do Banco de Portugal.\n\n2 - O valor das coimas reverte integralmente para o Estado, salvo quando sejam condenadas instituições de crédito, caso em que reverte integralmente para o Fundo de Garantia de Depósitos."
+  },
+  "141076965": {
+   "fragment_id": "141214401",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito subsidiário\n\nEm tudo o que não se encontre previsto no presente decreto-lei é aplicável o Decreto-Lei n.º 433/82, de 27 de Outubro, na sua redacção actual, que aprovou o regime geral das contra-ordenações."
+  },
+  "141076972": {
+   "fragment_id": "141214396",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei tem como objecto:\n\na) Proibir a cobrança de encargos pelas instituições de crédito nas operações, designadamente de levantamento, de depósito ou de pagamento de serviços, em caixas automáticas;\n\nb) Proibir a cobrança de encargos pelos beneficiários de serviços de pagamento nas operações de pagamento através dos terminais de pagamento automáticos.\n\nc) Limitar a cobrança de comissões pelos prestadores de serviços de pagamento nas operações de levantamento de fundos, realização de pagamentos de serviços ou de transferências, em ou através de aplicações de pagamento operadas por terceiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+  },
+  "141076967": {
+   "fragment_id": "141214405",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Cobrança de comissões nas aplicações de pagamento operadas por terceiros",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Cobrança de comissões nas aplicações de pagamento operadas por terceiros\n\n1 - Aos prestadores de serviços de pagamento é proibido cobrar quaisquer comissões aos consumidores ordenantes ou beneficiários de operações em ou através de aplicações de pagamento operadas por terceiros, designadamente de levantamento de fundos, realização de pagamentos de serviços ou de transferências que não excedam um limite de:\n\na) 30 euros por operação; ou\n\nb) 150 euros transferidos através da aplicação durante o período de um mês; ou\n\nc) 25 transferências realizadas no período de um mês.\n\n2 - Caso as operações excedam os limites fixados no número anterior, os prestadores de serviços de pagamento não podem cobrar ao consumidor um valor de comissão superior a:\n\na) 0,2 % sobre o valor da operação, para as operações com cartão de débito; e\n\nb) 0,3 % sobre o valor da operação, para as operações com cartões de crédito.\n\n3 - Sem prejuízo da respetiva política comercial, designadamente no que se refere à definição de isenções, os prestadores de serviços de pagamento asseguram que as comissões cobradas por operações idênticas em aplicações de pagamento próprias ou operadas por terceiros são proporcionais, não discriminatórias e não dificultam o acesso, além do que for necessário, para prevenir riscos específicos e para salvaguardar a estabilidade financeira e operacional dos serviços de pagamento.\n\n4 - Para efeitos do disposto no presente artigo, entende-se por 'aplicação de pagamento operada por terceiro' o disposto, com as necessárias adaptações, no n.º 21 do artigo 2.º do Regulamento (UE) 2015/751 do Parlamento Europeu e do Conselho, de 29 de abril de 2015, que permita a um utilizador, titular de uma conta ou de um cartão de pagamento, executar e autenticar operações de pagamento, incluindo:\n\na) A transferência imediata, para um aderente à mesma solução, de fundos depositados na conta ou cartão de pagamento;\n\nb) A receção imediata de fundos transferidos, por um ordenante aderente à mesma solução, para conta ou cartão de pagamento;\n\nc) A realização de pagamentos em sítio da Internet ou em loja de comerciantes aderentes à mesma solução;\n\nd) A emissão de cartões virtuais para compras seguras em sítios da Internet e a emissão de códigos para levantamento de numerário, pelo próprio ou por pessoa autorizada, em caixas automáticas da rede Multibanco.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+  },
+  "141076973": {
+   "fragment_id": "141214399",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidade contra-ordenacional",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Responsabilidade contra-ordenacional\n\n1 - A violação do disposto nos artigos 2.º, 3.º e 3.º-A é punida com coima nos montantes e nos limites referidos nos n.os 1 e 2 do artigo 17.º do Decreto-Lei n.º 433/82, de 27 de outubro.\n\n2 - A tentativa e a negligência são puníveis sendo, nesses casos, reduzidos a metade os limites mínimo e máximo das coimas previstas no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+  },
+  "141076969": {
+   "fragment_id": "141214400",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização e aplicação das coimas\n\n1 - A fiscalização do disposto no presente decreto-lei, a instrução dos processos de contra-ordenação e a aplicação das respectivas coimas são da competência do Banco de Portugal.\n\n2 - O valor das coimas reverte integralmente para o Estado, salvo quando sejam condenadas instituições de crédito, caso em que reverte integralmente para o Fundo de Garantia de Depósitos."
+  },
+  "141076970": {
+   "fragment_id": "141214401",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito subsidiário\n\nEm tudo o que não se encontre previsto no presente decreto-lei é aplicável o Decreto-Lei n.º 433/82, de 27 de Outubro, na sua redacção actual, que aprovou o regime geral das contra-ordenações."
+  },
+  "141076971": {
+   "fragment_id": "141214402",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.\n\nPromulgado em 30 de Dezembro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 4 de Janeiro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "213627970": {
+   "fragment_id": "141214396",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), produz efeitos a partir de 2023-08-27",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei tem como objecto:\n\na) Proibir a cobrança de encargos pelas instituições de crédito nas operações, designadamente de levantamento, de depósito ou de pagamento de serviços, em caixas automáticas;\n\nb) Proibir a cobrança de encargos pelos beneficiários de serviços de pagamento nas operações de pagamento através dos terminais de pagamento automáticos.\n\nc) Limitar a cobrança de comissões pelos prestadores de serviços de pagamento nas operações de levantamento de fundos, realização de pagamentos de serviços ou de transferências, em ou através de aplicações de pagamento operadas por terceiros.\n\nd) Limitar a cobrança de comissões pelas instituições de crédito, nos termos dos artigos 3.º-B, 3.º-C e 3.º-D.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), produz efeitos a partir de 2023-08-27\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+  },
+  "891107748": {
+   "fragment_id": "141214405",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Cobrança de comissões nas aplicações de pagamento operadas por terceiros",
+   "in_force_from": "2024-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2024 - Diário da República n.º 201/2024, Série I de 2024-10-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2024-891107796), em vigor a partir de 2024-10-21",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Cobrança de comissões nas aplicações de pagamento operadas por terceiros\n\n1 - Aos prestadores de serviços de pagamento é proibido cobrar quaisquer comissões aos consumidores ordenantes ou beneficiários de operações em ou através de aplicações de pagamento operadas por terceiros, designadamente de levantamento de fundos, realização de pagamentos de serviços ou de transferências que não excedam um limite de:\n\na) 30 euros por operação; ou\n\nb) 150 euros transferidos através da aplicação durante o período de um mês; ou\n\nc) 25 transferências realizadas no período de um mês.\n\n2 - Caso as operações excedam os limites fixados no número anterior, os prestadores de serviços de pagamento não podem cobrar ao consumidor um valor de comissão superior a:\n\na) 0,2 % sobre o valor da operação, para operações com cartão de débito ou transferências imediatas; e\n\nb) 0,3 % sobre o valor da operação, para as operações com cartões de crédito.\n\n3 - Sem prejuízo da respetiva política comercial, designadamente no que se refere à definição de isenções, os prestadores de serviços de pagamento asseguram que as comissões cobradas por operações idênticas em aplicações de pagamento próprias ou operadas por terceiros são proporcionais, não discriminatórias e não dificultam o acesso, além do que for necessário, para prevenir riscos específicos e para salvaguardar a estabilidade financeira e operacional dos serviços de pagamento.\n\n4 - Para efeitos do disposto no presente artigo, entende-se por 'aplicação de pagamento operada por terceiro' o disposto, com as necessárias adaptações, no n.º 21 do artigo 2.º do Regulamento (UE) 2015/751 do Parlamento Europeu e do Conselho, de 29 de abril de 2015, que permita a um utilizador, titular de uma conta ou de um cartão de pagamento, executar e autenticar operações de pagamento, incluindo:\n\na) A transferência imediata, para um aderente à mesma solução, de fundos depositados na conta ou cartão de pagamento;\n\nb) A receção imediata de fundos transferidos, por um ordenante aderente à mesma solução, para conta ou cartão de pagamento;\n\nc) A realização de pagamentos em sítio da Internet ou em loja de comerciantes aderentes à mesma solução;\n\nd) A emissão de cartões virtuais para compras seguras em sítios da Internet e a emissão de códigos para levantamento de numerário, pelo próprio ou por pessoa autorizada, em caixas automáticas da rede Multibanco.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2024 - Diário da República n.º 201/2024, Série I de 2024-10-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2024-891107796), em vigor a partir de 2024-10-21\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+  },
+  "213627972": {
+   "fragment_id": "213650862",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Cobrança de comissões nos procedimentos de habilitação de herdeiros",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), produz efeitos a partir de 2023-08-27"
+   ],
+   "markdown": "###### Artigo 3.º-B — Cobrança de comissões nos procedimentos de habilitação de herdeiros\n\nAs instituições de crédito não podem cobrar uma comissão superior a 10 % do Indexante dos Apoios Sociais (IAS) no âmbito de processos de habilitação de herdeiros por óbito de um titular de conta de depósito à ordem.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), produz efeitos a partir de 2023-08-27"
+  },
+  "213702277": {
+   "fragment_id": "213650863",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Cobrança de comissões nos processos de alteração da titularidade de conta de depósito à ordem",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), produz efeitos a partir de 2023-08-27"
+   ],
+   "markdown": "###### Artigo 3.º-C — Cobrança de comissões nos processos de alteração da titularidade de conta de depósito à ordem\n\n1 - As instituições de crédito não podem cobrar comissões, por alteração da titularidade de conta de depósito à ordem, decorrentes das seguintes situações:\n\na) Divórcio, separação judicial de pessoas e bens, dissolução da união de facto ou falecimento de um dos cônjuges;\n\nb) Remoção de titulares de conta de depósito à ordem, quando estes fossem os representantes legais de outro titular que tenha atingido a maioridade;\n\nc) Inserção ou remoção de titulares de conta de depósito à ordem em que um dos titulares seja menor, maior acompanhado ou se encontre insolvente, quando esses titulares sejam representantes legais do titular nas referidas situações;\n\nd) Remoção de titulares falecidos;\n\ne) Alteração dos titulares, representantes e demais pessoas com poderes de movimentação de contas de depósito à ordem tituladas por condomínios de imóveis, por instituições particulares de solidariedade social, tal como definidas no Decreto-Lei n.º 119/83, de 25 de fevereiro, que aprova o Estatuto das Instituições Particulares de Solidariedade Social, ou por pessoas coletivas a quem tenha sido reconhecido o estatuto de utilidade pública, nos termos da Lei n.º 36/2021, de 14 de junho, que aprova a lei-quadro do estatuto de utilidade pública.\n\n2 - Para efeitos do disposto nas alíneas a) a d) do número anterior, o pedido de alteração é acompanhado de documento de comprovação do facto correspondente.\n\n3 - Para efeitos do disposto na alínea e) do n.º 1, o pedido de alteração é acompanhado de documento que comprove o facto em causa, nomeadamente o ato de designação ou de cessação de funções.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), produz efeitos a partir de 2023-08-27"
+  },
+  "213702282": {
+   "fragment_id": "213650864",
+   "type": 11,
+   "heading": "Artigo 3.º-D — Limites à cobrança de comissões",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), produz efeitos a partir de 2023-08-27"
+   ],
+   "markdown": "###### Artigo 3.º-D — Limites à cobrança de comissões\n\n1 - As instituições de crédito não podem cobrar quaisquer comissões pela realização das seguintes operações:\n\na) Fotocópias de documentos da instituição que respeitem ao consumidor;\n\nb) Emissão de segunda via de extratos bancários ou outros documentos.\n\n2 - No âmbito de depósito de moedas, as instituições de crédito não podem cobrar comissões superiores a 2 % do valor da operação.\n\n3 - A comissão pelo serviço de envio de fundos para contas de moeda eletrónica não pode ser superior à comissão cobrada pelo serviço de transferência.\n\n4 - No caso de incumprimento, num mesmo mês, do pagamento de prestações relativas a contratos de crédito distintos, mas garantidos por uma mesma garantia, as instituições de crédito apenas podem cobrar a comissão associada ao incumprimento que ocorrer em primeiro lugar.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), produz efeitos a partir de 2023-08-27"
+  },
+  "213702283": {
+   "fragment_id": "141214399",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidade contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), produz efeitos a partir de 2023-08-27",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Responsabilidade contra-ordenacional\n\n1 - A violação do disposto nos artigos 2.º, 3.º, 3.º-A, 3.º-B, 3.º-C e 3.º-D é punida com coima nos montantes e nos limites referidos nos n.os 1 e 2 do artigo 17.º do Decreto-Lei n.º 433/82, de 27 de outubro.\n\n2 - A tentativa e a negligência são puníveis sendo, nesses casos, reduzidos a metade os limites mínimo e máximo das coimas previstas no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), produz efeitos a partir de 2023-08-27\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 53/2020 - Diário da República n.º 166/2020, Série I de 2020-08-26](https://diariodarepublica.pt/dr/detalhe/lei/53-2020-141214377), em vigor a partir de 2021-01-01"
+  },
+  "213702284": {
+   "fragment_id": "141214400",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização e aplicação das coimas\n\n1 - A fiscalização do disposto no presente decreto-lei, a instrução dos processos de contra-ordenação e a aplicação das respectivas coimas são da competência do Banco de Portugal.\n\n2 - O valor das coimas reverte integralmente para o Estado, salvo quando sejam condenadas instituições de crédito, caso em que reverte integralmente para o Fundo de Garantia de Depósitos."
+  },
+  "213702285": {
+   "fragment_id": "141214401",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito subsidiário\n\nEm tudo o que não se encontre previsto no presente decreto-lei é aplicável o Decreto-Lei n.º 433/82, de 27 de Outubro, na sua redacção actual, que aprovou o regime geral das contra-ordenações."
+  },
+  "213702286": {
+   "fragment_id": "141214402",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.\n\nPromulgado em 30 de Dezembro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 4 de Janeiro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

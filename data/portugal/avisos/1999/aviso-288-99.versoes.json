@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:291901:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/1999-941547463",
+ "dre_path": "/dr/detalhe/aviso/288-1999-291901",
+ "source_lastmod": "2025-10-22",
+ "versions": [
+  {
+   "date": "1999-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "941592094"
+   ]
+  }
+ ],
+ "fragments": {
+  "941592094": {
+   "fragment_id": "941547464",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 288/99\n\nPor ordem superior se torna público que, por nota de 27 de Abril de 1999 e nos termos do artigo 14.º do Estatuto da Conferência da Haia de Direito Internacional Privado, concluído na Haia em 31 de Outubro de 1951, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República da Bulgária, nos termos do artigo 14.º, parágrafo 3.º, depositado, em 22 de Abril de 1999, o seu instrumento de aceitação do mencionado Estatuto.\n\nO Estatuto entrou em vigor para a República da Bulgária em 22 de Abril de 1999.\n\nPortugal aceitou o mesmo Estatuto, que foi aprovado pelo Decreto-Lei n.º 41378, de 19 de Novembro de 1957, rectificado por declaração publicada no Diário do Governo, 1.ª série, n.º 217, de 3 de Setembro de 1968."
+  }
+ }
+}

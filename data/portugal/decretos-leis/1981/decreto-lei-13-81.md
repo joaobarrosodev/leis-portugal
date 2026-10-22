@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:389865:por
+title: Decreto-Lei n.º 13/81
+short_title: null
+summary: Estabelece normas relativas à efectivação dos docentes profissionalizados não efectivos do grupo A do ensino secundário
+  agrícola
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 13/81
+official_date: null
+publication_date: '1981-01-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/1981, Série I de 1981-01-27
+  number: '22'
+  series: I
+  supplement: null
+  pages: 233 - 234
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02200/02330234.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '389865'
+  dre_path: /dr/detalhe/decreto-lei/13-1981-389865
+  internal: pt:dre:389865:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1981-389865
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1981-389865
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: 8b48c49810481495d82a00bcbf086d90d2805b4ab9f5d6d938d3d16a19a145d1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-13-389865.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 13/81
+
+de 27 de Janeiro
+
+O [Decreto Regulamentar n.º 49/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1979-378569), de 27 de Agosto, veio permitir profissionalizar professores provisórios e regentes de trabalhos das escolas secundárias agrícolas. Contudo, face à publicação tardia do referido diploma - que esgotou já a sua aplicação -, não foi possível realizar o respectivo concurso de provas públicas a tempo de, terminadas estas, os respectivos docentes poderem candidatar-se ao concurso de professores efectivos. Esta situação verificou-se somente no que se refere ao grupo A, e não ao grupo B, do ensino secundário agrícola, dado o número de candidatos àquele primeiro grupo. Desta forma, só aos docentes profissionalizados do grupo B foi possível candidatarem-se ao concurso de professores efectivos e, em resultado do mesmo, serem providos nessa categoria até 1 de Outubro de 1980.
+
+Importa, consequentemente, que se dê tratamento idêntico a todos os docentes do ensino secundário agrícola, não se permitindo criar discrepâncias que lesariam gravemente os interessados. Por outro lado, impõe-se ainda criar a carreira de regentes de trabalhos, em tudo idêntica à dos técnicos da função pública, uma vez que os respectivos interessados são portadores de curso considerado superior. Aliás, assim se tem procedido em outros Ministérios onde os mesmos profissionais, portadores de igual habilitação se encontram em exercício de funções. A criação de tal carreira tem, pois, por única finalidade não lesar por mais tempo os interesses dos regentes de trabalhos, actualmente postergados para uma situação profissional injusta e que não é legítimo manter.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - Os docentes profissionalizados não efectivos do grupo A do ensino secundário agrícola que, em 15 de Fevereiro de 1980, concluíram com aproveitamento, ao abrigo do [Decreto Regulamentar n.º 49/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1979-378569), de 27 de Agosto, o concurso de provas públicas para ingresso no quadro do respectivo grupo consideram-se providos como efectivos desde 1 de Outubro de 1980, desde que a sua situação se enquadre, cumulativamente, nas seguintes condições:
+
+a) Candidatarem-se ao concurso de professores efectivos do ensino secundário, a abrir no ano de 1981;
+
+b) Obterem colocação como efectivos na sequência do concurso referido na alínea anterior;
+
+c) A sua colocação como efectivos venha a efectuar-se em lugar vago do quadro já existente em 1 de Outubro de 1980.
+
+2 - A posse no lugar referido na alínea c) do número anterior reportar-se-á, para todos os efeitos, excepto o de vencimentos, a 1 de Outubro de 1980.
+
+3 - Os vencimentos como professores efectivos só serão devidos quando se verificar a entrada em exercício de funções na respectiva categoria.
+
+###### Art. 2.º Aos docentes que se profissionalizaram ao abrigo do [Decreto Regulamentar n.º 49/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1979-378569) é contado, para todos os efeitos legais, como docente o tempo de serviço prestado antes da profissionalização, ainda que tal tempo tenha sido prestado na categoria de regente de trabalhos.
+
+###### Art. 3.º A carreira de regente de trabalhos do quadro das escolas secundárias com ensino agrícola desenvolve-se, nos termos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, pelas categorias de 2.ª classe, de 1.ª classe e principal, a que correspondem, respectivamente, as letras de vencimento J, H e F.
+
+###### Art. 4.º Consideram-se extintos os lugares de quadro de regentes de trabalhos que não se encontrem providos à data da publicação do presente diploma, e os restantes extinguir-se-ão à medida que vagarem, sendo, neste último caso, criados em sua substituição, e em correspondente número, lugares docentes do grupo A, a afectar às escolas secundárias com ensino agrícola, por despacho do Ministro da Educação e Ciência.
+
+###### Art. 5.º - 1 - Os actuais regentes de trabalhos dos quadros das escolas secundárias com ensino agrícola são integrados nas categorias referidas no artigo 3.º deste diploma, de acordo com o disposto nas alíneas seguintes:
+
+a) Com menos de cinco anos de quadro - regente de trabalhos de 2.ª classe;
+
+b) Com mais de cinco anos de quadro mas menos de doze anos - regente de trabalhos de 1.ª classe;
+
+c) Com mais de doze anos de quadro - regente de trabalhos principal.
+
+2 - Operada a integração referida no número anterior, a progressão na carreira por parte dos respectivos regentes de trabalhos far-se-á de acordo com o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673) para os técnicos da função pública portadores de curso superior que não confira o grau de licenciatura.
+
+###### Art. 6.º Aos actuais regentes de trabalhos não pertencentes aos quadros cessará o vínculo que os liga ao Ministério da Educação e Ciência no prazo de três anos, contado a partir da publicação do presente decreto-lei.
+
+###### Art. 7.º - 1 - Os regentes de trabalhos, pertençam ou não aos quadros, poderão candidatar-se ao concurso previsto no [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 29 de Dezembro, sendo-lhes contado, para esse efeito, o tempo de serviço prestado em tal qualidade.
+
+2 - Sempre que os regentes de trabalhos dos quadros sejam convocados para a profissionalização em exercício, na sequência do concurso referido no número anterior, a mencionada profissionalização será feita em regime de destacamento, nos termos do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
+
+3 - Os regentes de trabalhos não pertencentes aos quadros poderão ainda candidatar-se ao concurso de professores provisórios regulado pelo [Decreto-Lei n.º 15/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195), de 7 de Fevereiro.
+
+4 - As candidaturas aos concursos previstos nos mencionados Decretos-Leis n.os 15/79 e 519-T1/79 por parte dos regentes de trabalhos não pertencentes aos quadros só serão consideradas, nos termos do presente diploma, desde que apresentadas no prazo previsto no artigo 6.º deste diploma.
+
+###### Art. 8.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que tiver a seu cargo a função pública, consoante a sua natureza.
+
+###### Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, e os artigos 3.º e 5.º produzem efeitos desde a entrada em vigor do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673).
+
+Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
+
+**Promulgado em 15 de Janeiro de 1981.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

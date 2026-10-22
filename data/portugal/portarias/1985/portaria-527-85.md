@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:179850:por
+title: Portaria n.º 527/85
+short_title: null
+summary: Cria no quadro de pessoal do Departamento de Planeamento da Segurança Social um lugar de assessor, letra B
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 527/85
+official_date: null
+publication_date: '1985-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 174/1985, Série I de 1985-07-31
+  number: '174'
+  series: I
+  supplement: null
+  pages: 2282 - 2282
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/07/17400/22822282.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '179850'
+  dre_path: /dr/detalhe/portaria/527-1985-179850
+  internal: pt:dre:179850:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/527-1985-179850
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/527-1985-179850
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-07-31T00:00:00Z'
+integrity:
+  source_sha256: 43944841e2ec404a974111cd9a98dba7d9ec8fd0b1eeeb0ba2c3d11a684e61b8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-527-179850.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 527/85
+
+de 31 de Julho
+
+Ao abrigo do disposto no artigo 14.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Trabalho e Segurança Social e pelo Secretário de Estado da Administração Pública, o seguinte:
+
+1.º É criado no quadro de pessoal do Departamento de Planeamento da Segurança Social, anexo ao [Decreto-Lei n.º 347/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1979-378539), de 29 de Agosto, e alterado pelas Portarias n.os [26-C/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-c-1980-508611), de 9 de Janeiro, e [425/84](https://diariodarepublica.pt/dr/detalhe/portaria/425-1984-387354), de 29 de Junho, um lugar de assessor, letra B.
+
+2.º O lugar referido será extinto quando vagar.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Trabalho e Segurança Social.
+
+**Assinada em 1 de Junho de 1985.**
+
+Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro do Trabalho e Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares, Secretária de Estado da Segurança Social. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.

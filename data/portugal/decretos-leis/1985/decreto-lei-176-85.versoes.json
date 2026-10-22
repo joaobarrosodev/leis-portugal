@@ -1,0 +1,964 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:151544:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-1068583326",
+ "dre_path": "/dr/detalhe/decreto-lei/176-1985-151544",
+ "source_lastmod": "2026-03-12",
+ "versions": [
+  {
+   "date": "1985-05-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1068669275",
+    "1068669475",
+    "1068669675",
+    "1068669875",
+    "1068670075",
+    "1068670275",
+    "1068670475",
+    "1068671875",
+    "1068672075",
+    "1068672275",
+    "1068672475",
+    "1068672675"
+   ]
+  },
+  {
+   "date": "1985-10-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178100:por",
+     "title": "Decreto-Lei n.º 427/85",
+     "published": "1985-10-23",
+     "dre_path": "/dr/detalhe/decreto-lei/427-1985-178100"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "1068669275",
+    "1068669475",
+    "1070870875",
+    "1070871075",
+    "1070871275",
+    "1070871475",
+    "1070871675",
+    "1070871875",
+    "1068669675",
+    "1068669875",
+    "1070872075",
+    "1070872275",
+    "1070872475",
+    "1070872675",
+    "1070872875",
+    "1070873075",
+    "1070873275",
+    "1070873475",
+    "1070873675",
+    "1070873875",
+    "1070874075",
+    "1070877275",
+    "1070874475",
+    "1070874675",
+    "1070874875",
+    "1070875075",
+    "1070875275",
+    "1068670075",
+    "1070875475",
+    "1070875675",
+    "1070875875",
+    "1068670275",
+    "1070876075",
+    "1070876275",
+    "1070876475",
+    "1070876675",
+    "1068670475",
+    "1070891475",
+    "1070891675",
+    "1070891875",
+    "1070892075",
+    "1070892275",
+    "1070892475",
+    "1070892675",
+    "1070892875",
+    "1070893075",
+    "1070893275",
+    "1070893475",
+    "1070893675",
+    "1070893875",
+    "1070894075",
+    "1070894275",
+    "1070894475",
+    "1070894675",
+    "1070894875",
+    "1070895075",
+    "1070895275",
+    "1070895475",
+    "1070895675",
+    "1070895875",
+    "1070896075",
+    "1070896275",
+    "1068671875",
+    "1070888875",
+    "1070889075",
+    "1070889275",
+    "1070889475",
+    "1070889675",
+    "1070889875",
+    "1070890075",
+    "1070890275",
+    "1068672075",
+    "1070876975",
+    "1068672275",
+    "1070890475",
+    "1070890675",
+    "1070890875",
+    "1070891075",
+    "1070891275",
+    "1068672475",
+    "1068672675"
+   ]
+  },
+  {
+   "date": "1990-01-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:333556:por",
+     "title": "Decreto-Lei n.º 22/90",
+     "published": "1990-01-16",
+     "dre_path": "/dr/detalhe/decreto-lei/22-1990-333556"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 51.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º"
+   ],
+   "fragments": [
+    "1068669275",
+    "1068669475",
+    "1070870875",
+    "1070871075",
+    "1070871275",
+    "1070871475",
+    "1070871675",
+    "1073064775",
+    "1068669675",
+    "1068669875",
+    "1070872075",
+    "1070872275",
+    "1073064975",
+    "1070872675",
+    "1070872875",
+    "1073066775",
+    "1070873275",
+    "1070873475",
+    "1070873675",
+    "1070873875",
+    "1070874075",
+    "1070877275",
+    "1070874475",
+    "1070874675",
+    "1070874875",
+    "1070875075",
+    "1070875275",
+    "1068670075",
+    "1070875475",
+    "1070875675",
+    "1070875875",
+    "1068670275",
+    "1073067175",
+    "1073089675",
+    "1070876475",
+    "1073064375",
+    "1068670475",
+    "1070891475",
+    "1070891675",
+    "1070891875",
+    "1070892075",
+    "1070892275",
+    "1070892475",
+    "1070892675",
+    "1070892875",
+    "1070893075",
+    "1070893275",
+    "1070893475",
+    "1070893675",
+    "1070893875",
+    "1070894075",
+    "1070894275",
+    "1070894475",
+    "1070894675",
+    "1070894875",
+    "1070895075",
+    "1073064575",
+    "1070895475",
+    "1070895675",
+    "1070895875",
+    "1070896075",
+    "1070896275",
+    "1068671875",
+    "1070888875",
+    "1073066975",
+    "1070889275",
+    "1070889475",
+    "1070889675",
+    "1070889875",
+    "1070890075",
+    "1070890275",
+    "1068672075",
+    "1070876975",
+    "1068672275",
+    "1070890475",
+    "1070890675",
+    "1070890875",
+    "1070891075",
+    "1070891275",
+    "1068672475",
+    "1068672675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1068669275": {
+   "fragment_id": "1068669175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A questão das facilidades aduaneiras concedidas aos viajantes nunca foi objecto de tratamento unitário na legislação nacional.\n\nNa verdade, o regime de bagagem, como era comummente conhecido, encontrava-se repartido por vários diplomas, com realce para o Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, e para as Instruções Preliminares das Pautas, aprovadas pelo Decreto-Lei n.º 16/83, de 21 de Janeiro, que, nesta matéria, reproduzem, com uma ou outra alteração de pormenor, as Instruções Preliminares da Pauta de Importação, aprovadas, por sua vez, pelo já revogado Decreto-Lei n.º 42656, de 18 de Novembro de 1959.\n\nCom se vê, são diplomas com uma apreciável longevidade, que cumpriram bem na sua época, mas que presentemente se encontram desajustados em numerosos aspectos, pese embora a preocupação e o cuidado que houve em actualizá-los em alguns pontos.\n\nSimplesmente tratou-se sempre de tentativas de âmbito muito limitado que nunca puseram em causa os princípios do regime legal em vigor, antes a ele se adaptaram.\n\nTerá sido este o caso do Decreto n.º 762/76, de 22 de Outubro, o qual, pretendendo introduzir alguma novidade, logo se viu espartilhado pela fidelidade devida ao esquema existente, que, no essencial, não era alterado.\n\nSe algo de novo se pretendia fazer nesta matéria, era, pois, imperioso rever no seu conjunto o regime em vigor, aproveitando, no entanto, dele as soluções que a prática não mostrasse desajustadas à realidade.\n\nFoi o que agora efectivamente se fez, reunindo-se num só diploma toda a regulamentação que se encontrava dispersa por vários.\n\nCom o novo diploma pretende-se ainda adaptar a legislação nacional à legislação dos Estados membros da CEE, tendo em vista a integração do País na Comunidade.\n\nAssim:\n\nNo uso da autorização conferida pela alínea f) do artigo 30.º da Lei n.º 2-B/85, de 28 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "1068669475": {
+   "fragment_id": "1068669375",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "1068669675": {
+   "fragment_id": "1068669575",
+   "type": 1,
+   "heading": "Capítulo II — Controle aduaneiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Controle aduaneiro"
+  },
+  "1068669875": {
+   "fragment_id": "1068669775",
+   "type": 8,
+   "heading": "Secção I — Disposições prévias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições prévias"
+  },
+  "1068670075": {
+   "fragment_id": "1068669975",
+   "type": 8,
+   "heading": "Secção II — Entrada e saída de bagagens não manifestadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Entrada e saída de bagagens não manifestadas"
+  },
+  "1068670275": {
+   "fragment_id": "1068670175",
+   "type": 8,
+   "heading": "Secção III — Entrada e saída de bagagens manifestadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Entrada e saída de bagagens manifestadas"
+  },
+  "1068670475": {
+   "fragment_id": "1068670375",
+   "type": 1,
+   "heading": "Capítulo III — Franquias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Franquias"
+  },
+  "1068671875": {
+   "fragment_id": "1068671775",
+   "type": 1,
+   "heading": "Capítulo IV — Objectos separados das bagagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Objectos separados das bagagens"
+  },
+  "1068672075": {
+   "fragment_id": "1068671975",
+   "type": 1,
+   "heading": "Capítulo V — Infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Infracções"
+  },
+  "1068672275": {
+   "fragment_id": "1068672175",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "1068672475": {
+   "fragment_id": "1068672375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Jaime José Matos da Gama - Alípio Barrosa Pereira Dias - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 6 de Maio de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 9 de Maio de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "1068672675": {
+   "fragment_id": "1068672575",
+   "type": 14,
+   "heading": "Anexo — Disposições relativas ao sistema do duplo circuito para controle dos viajantes e suas bagagens que chegam por via aérea (artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Disposições relativas ao sistema do duplo circuito para controle dos viajantes e suas bagagens que chegam por via aérea (artigo 11.º)\n\nO sistema do duplo circuito, ou sistema vermelho/verde, é um controle aduaneiro simplificado que permite às autoridades aduaneiras melhorar o escoamento dos viajantes nos aeroportos internacionais e fazer face, em condições satisfatórias, ao aumento do número de viajantes, sem prejuízo da eficácia do controle e sem para tanto aumentar os efectivos aduaneiros. Este sistema não é incompatível com outros controles, designadamente o controle de divisas, a não ser que as circunstâncias exijam um controle completo de todos os viajantes e respectivas bagagens.\n\nO sistema do duplo circuito apresenta as seguintes características:\n\n1 - O sistema faculta aos viajantes a escolha entre dois tipos de circuitos:\n\na) Um (circuito verde) para viajantes que não transportem mercadorias ou que apenas transportem mercadorias que beneficiem da franquia, de direitos e taxas de importação e não sejam objecto de proibições ou restrições de importação; e\n\nb) Outro (circuito vermelho) para os viajantes a quem não se aplique a alínea a).\n\n2 - Cada circuito deve ser clara e distintamente sinalizado, de modo a permitir aos viajantes escolher, facilmente e com conhecimento de causa, o circuito que devem utilizar.\n\nAs principais características da sinalização são as seguintes:\n\na) Para o circuito referido no n.º 1, alínea a), símbolo de cor verde com forma de octógno regular e com as inscrições «Nada a declarar» - «Rien à déclarer» - «Nothing to declare»;\n\nb) Para o circuito referido no n.º 1, alínea b), símbolo de cor vermelha de forma quadrada e com as inscrições «Mercadorias a declarar» - «Marchandises à déclarer» - «Goods to declare».\n\nAlém disso, devem ser sinalizados com uma inscrição que contenha as palavras «Alfândega» - «Douane» - «Custoins».\n\n3 - Deve ser facultada aos viajantes informação suficiente, por forma que possam optar por um dos circuitos.\n\nPara o efeito importa que:\n\na) Os viajantes possam informar-se sobre o funcionamento do sistema, bem como acerca da natureza e quantidades de mercadorias que podem transportar quando utilizem o circuito verde.\n\nEstas informações devem ser fornecidas quer por meio de cartazes ou painéis colocados nos aeroportos, quer por meio de folhetos postos à sua disposição nos mesmos locais ou que lhes sejam distribuídos pelas agências de turismo, companhias aéreas ou outros organismos interessados;\n\nb) O itinerário que conduza aos circuitos seja objecto de uma sinalização visível.\n\n4 - Os circuitos devem situar-se para além da área da entrega das bagagens, de modo que os viajantes estejam na posse de todas as bagagens no momento de optar pelo circuito que desejam utilizar. Além disso, os circuitos devem estar estabelecidos de tal modo que o escoamento dos viajantes entre a área de entrega das bagagens e a saída do aeroporto seja tão directa quanto possível.\n\n5 - A distância entre a área de entrega das bagagens e a entrada nos circuitos deve ser suficiente para permitir aos viajantes escolher um circuito e nele se colocarem sem criar ajuntamentos.\n\n6 - Os viajantes que escolherem o circuito verde não terão de cumprir qualquer outra formalidade aduaneira a menos que sejam objecto de um controle por sondagem. No circuito vermelho os viajantes cumprem as formalidades estabelecidas pela alfândega."
+  },
+  "1070870875": {
+   "fragment_id": "1070870775",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs facilidades aduaneiras concedidas aos viajantes são reguladas pelas disposições do presente decreto-lei."
+  },
+  "1070871075": {
+   "fragment_id": "1070870975",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Por viajante entende-se qualquer pessoa que entra ou sai do território nacional.\n\n2 - Diz-se não residente o viajante que não tem residência habitual no território nacional e nele entra para permanecer temporariamente, e residente aquele que habitualmente reside no território nacional e a ele regressa depois de ter permanecido temporariamente no estrangeiro."
+  },
+  "1070871275": {
+   "fragment_id": "1070871175",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs facilidades aduaneiras referidas no artigo 1.º são concedidas aos viajantes independentemente da sua nacionalidade."
+  },
+  "1070871475": {
+   "fragment_id": "1070871375",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPor objectos de uso pessoal entende-se quaisquer artigos, novos ou usados, de que o viajante possa ter necessidade para seu uso próprio durante a viagem, com exclusão de quaisquer mercadorias importadas ou exportadas para fins comerciais."
+  },
+  "1070871675": {
+   "fragment_id": "1070871575",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - As bagagens ou quaisquer objectos transportados pelos viajantes estão sujeitos a controle aduaneiro.\n\n2 - Designa-se por controle aduaneiro o conjunto de medidas adoptadas com vista a assegurar a observância das leis e regulamentos cuja aplicação compete às autoridades aduaneiras."
+  },
+  "1070871875": {
+   "fragment_id": "1070871775",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Nas estâncias aduaneiras abertas ao tráfego de viajantes existirão painéis, quadros ou cartazes que instruam os viajantes, sumariamente mas com clareza, sobre quais os objectos de importação proibida, os que podem ser importados com franquia e os que se devem declarar para pagamento dos direitos.\n\n2 - Os painéis, quadros ou cartazes referidos no número anterior deverão ser colocados antes da zona onde se efectua o controle aduaneiro, nos locais onde os viajantes recolhem as suas bagagens, por forma a chamar-lhes a atenção.\n\n3 - As instruções referidas no n.º 1 serão redigidas em português, francês e inglês, utilizando-se, de preferência, um fundo de cor diferente para cada texto.\n\n4 - Os serviços aduaneiros poderão igualmente distribuir aos viajantes, directamente ou por intermédio de empresas transportadoras ou agências de viagens, folhetos contendo as instruções referidas no n.º 1 e impressos nas condições e línguas referidas no n.º 3."
+  },
+  "1070872075": {
+   "fragment_id": "1070871975",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - O controle aduaneiro dos objectos transportados pelos viajantes é exercido pelas autoridades aduaneiras, devendo processar-se normalmente numa base selectiva ou por sondagem, sem prejuízo do direito de se efectuar um controle sistemático.\n\n2 - O controle aduaneiro designa-se por revisão de bagagem quando consiste na verificação do conteúdo dos volumes de bagagem, manifestada ou não manifestada, dos viajantes e por revista pessoal quando consiste na verificação dos objectos trazidos pelos viajantes sobre si ou no seu vestuário."
+  },
+  "1070872275": {
+   "fragment_id": "1070872175",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA revisão de bagagem realizar-se-á nas estâncias aduaneiras logo que os viajantes desembarquem e a solicitem, sem prejuízo das disposições em vigor relativas às bagagens vindas por caminho de ferro e por via marítima."
+  },
+  "1070872475": {
+   "fragment_id": "1070872375",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSe os viajantes desembarcarem de noite, far-se-á apenas a revisão dos volumes de mão, podendo os chefes das estâncias aduaneiras autorizar a revisão de outros volumes para cuja urgência na saída os viajantes apresentem motivos considerados justificativos."
+  },
+  "1070872675": {
+   "fragment_id": "1070872575",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n- 1 - Por determinação do director-geral das Alfândegas, poderá ser adoptado o sistema do duplo circuito para o controle aduaneiro.\n\n2 - O sistema do duplo circuito deverá ser adoptado prioritariamente nos aeroportos nacionais abertos ao tráfego internacional, podendo também vir a sê-lo na via marítima."
+  },
+  "1070872875": {
+   "fragment_id": "1070872775",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n- 1 - Quando for adoptado o sistema do duplo circuito, deverá o mesmo estar devidamente sinalizado por forma que os viajantes possam facilmente esclarecer-se sobre qual o circuito que deverão utilizar.\n\n2 - As regras para o funcionamento do sistema do duplo circuito nos aeroportos abertos ao tráfego internacional constam do anexo a este diploma."
+  },
+  "1070873075": {
+   "fragment_id": "1070872975",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n- 1 - Os viajantes poderão fazer uma declaração verbal relativa às mercadorias que os acompanham, cumprindo-lhes fazê-la espontaneamente às autoridades aduaneiras antes de iniciado por estas o controle aduaneiro, quando sejam portadores de objectos sujeitos a direitos.\n\n2 - No sistema do duplo circuito, a apresentação voluntária do viajante no local destinado à revisão de bagagem equivale, para todos os efeitos, à declaração verbal espontânea.\n\n3 - As autoridades aduaneiras poderão exigir uma declaração escrita para as mercadorias transportadas pelos viajantes, sempre que se trate de uma importação ou de uma exportação de natureza comercial ou quando o seu valor ou a sua quantidade excederem os limites fixados pela legislação em vigor."
+  },
+  "1070873275": {
+   "fragment_id": "1070873175",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n- 1 - É obrigatória a revisão de bagagem dos tripulantes.\n\n2 - Por tripulantes entende-se todo o pessoal dos meios de transporte utilizados no tráfego internacional em efectivo exercício das suas funções, designadamente o pessoal que presta serviço nos transportes rodoviários de mercadorias e nos comboios e autocarros das linhas internacionais, o pessoal de voo das companhias de navegação aérea e o pessoal navegante das companhias de navegação marítima."
+  },
+  "1070873475": {
+   "fragment_id": "1070873375",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs funcionários em serviço de revisão de bagagem devem apresentar-se envergando o respectivo uniforme, cujo uso só poderá ser dispensado, a título excepcional, pelos chefes das estâncias aduaneiras, que, em cada caso, deverão fundamentar por escrito o motivo da dispensa em nota dirigida ao director da respectiva alfândega."
+  },
+  "1070873675": {
+   "fragment_id": "1070873575",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs funcionários em serviço de revisão de bagagem devem agir com educação e critério, mantendo sempre a serenidade, mas actuando, se necessário, com firmeza."
+  },
+  "1070873875": {
+   "fragment_id": "1070873775",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n- 1 - A revista pessoal dos viajantes só deverá ter lugar excepcionalmente e apenas quando houver fundadas razões de suspeita da prática de uma infracção aduaneira.\n\n2 - É aplicável à revista pessoal a parte final do artigo anterior, com a especial obrigação por parte dos funcionários de evitar quaisquer vexames ou reparos e ainda de reduzirem ao mínimo indispensável os incómodos causados aos viajantes."
+  },
+  "1070874075": {
+   "fragment_id": "1070873975",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs funcionários em serviço de revisão de bagagem poderão exigir aos viajantes a apresentação do passaporte ou de outros documentos de identificação e do bilhete de passagem, bem como de facturas ou de outros documentos relativos às mercadorias."
+  },
+  "1070877275": {
+   "fragment_id": "1070874175",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1985-10-28",
+   "changed_by": [
+    "Alterado pelo/a Assinatura Artigo único do/a [Decreto-Lei n.º 427/85 - Diário da República n.º 244/1985, Série I de 1985-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1985-178100), em vigor a partir de 1985-10-28."
+   ],
+   "markdown": "###### Artigo 18.º\n\nEstão dispensados de revisão de bagagem e de revista pessoal:\n\na) O Presidente da República;\n\nb) O Presidente da Assembleia da República;\n\nc) O Primeiro-Ministro e o Vice-Primeiro-Ministro;\n\nd) Os ministros, os secretários e os subsecretários de Estado;\n\ne) Os presidentes do Tribunal Constitucional, do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo, do Tribunal de Contas e do Supremo Tribunal Militar, o Provedor de Justiça, o procurador-geral da República e o Alto-Comissário contra a Corrupção;\n\nf) Os presidentes das assembleias regionais e os presidentes dos governos regionais;\n\ng) O Chefe e o Vice-Chefe do Estado-Maior das Forças Armadas e os Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea;\n\nh) Os comandantes-gerais da GNR, da Guarda Fiscal e da PSP;\n\ni) Os directores-gerais das Alfândegas e da Polícia Judiciária;\n\nj) Os directores das alfândegas, na área da respectiva circunscrição.\n\n> Alterado pelo/a Assinatura Artigo único do/a [Decreto-Lei n.º 427/85 - Diário da República n.º 244/1985, Série I de 1985-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1985-178100), em vigor a partir de 1985-10-28."
+  },
+  "1070874475": {
+   "fragment_id": "1070874375",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nEstão igualmente dispensados de revisão de bagagem e de revista pessoal:\n\na) Os chefes de Estado estrangeiros;\n\nb) Os chefes das missões diplomáticas e consulares acreditados em Portugal;\n\nc) Os funcionários diplomáticos e consulares enviados, de nacionalidade estrangeira, quando se trate da primeira instalação;\n\nd) As entidades governamentais ou militares estrangeiras que visitem o País em missão oficial."
+  },
+  "1070874675": {
+   "fragment_id": "1070874575",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nSe os volumes de bagagem importados pertencerem a chefes de missão diplomática ou consular acreditados em Portugal e respectivos familiares, poderão ser despachados logo a seguir à sua chegada, desde que seja enviada requisição aos directores das alfândegas pelos mencionados agentes diplomáticos ou pelo Ministério dos Negócios Estrangeiros."
+  },
+  "1070874875": {
+   "fragment_id": "1070874775",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n- 1 - Os volumes de bagagem seguem o regime de trânsito, de baldeação, de reexportação ou de transferência quando se encontrem em circunstâncias idênticas às mercadorias que estejam sob esses regimes, obedecendo às formalidades prescritas em cada caso.\n\n2 - Todavia, tratando-se de volumes que não estejam sujeitos a despacho, apenas serão processadas guias de bagagem, sem prejuízo das necessárias cautelas fiscais."
+  },
+  "1070875075": {
+   "fragment_id": "1070874975",
+   "type": 11,
+   "heading": "Artigo .º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo .º\n\nOs comandantes dos postos da Guarda Fiscal nas estações de caminhos de ferro poderão transferir para alfândega diferente daquela que vier mencionada na respectiva guia as bagagens dos viajantes que assim o solicitarem, por mudarem de destino, passando guia suplementar para a alfândega a que se destinarem as bagagens e averbando esta transferência na guia primitiva."
+  },
+  "1070875275": {
+   "fragment_id": "1070875175",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nÉ obrigatório o processamento de despacho para a importação definitiva de volumes de bagagem manifestada ou de objectos sujeitos a direitos."
+  },
+  "1070875475": {
+   "fragment_id": "1070875375",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nSempre que na presente secção se não disponha de modo diverso, aplicam-se, à entrada e saída de bagagem não manifestada as disposições da secção I."
+  },
+  "1070875675": {
+   "fragment_id": "1070875575",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n- 1 - Aos passageiros que venham por via marítima poderá ser exigida, pelas autoridades aduaneiras, uma declaração escrita da quantidade e qualidade dos volumes de bagagem, quer de camarote, quer de porão, sendo dela dispensados os componentes das forças militares quando enquadrados em formações devidamente comandadas.\n\n2 - A declaração de bagagem referida no n.º 1 será feita em impresso próprio, de modelo indicado pela Direcção-Geral das Alfândegas, fornecido pelas alfândegas, em regra através das empresas ou agências de navegação, que liquidarão o respectivo imposto do selo no bilhete de cobrança do imposto de comércio marítimo."
+  },
+  "1070875875": {
+   "fragment_id": "1070875775",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n- 1 - A saída de bagagem não manifestada do continente da República ou das regiões autónomas não está sujeita a quaisquer formalidades, sendo mesmo dispensada a sua revisão, sem prejuízo do direito das autoridades aduaneiras procederem aos exames necessários que, por motivos fundamentados, se justifiquem.\n\n2 - Porém, no caso de saída por via marítima, os volumes de bagagem de porão deverão constar de guias de embarque, que a alfândega fornece aos passageiros por intermédio das empresas ou agências de navegação, que liquidarão o respectivo imposto do selo, nos termos do n.º 2 do artigo 25.º.\n\n3 - Os postos fiscais, ou as praças da Guarda Fiscal que estiverem a bordo, conferirão os volumes pelas respectivas guias, remetendo estas com as devidas anotações ao serviço de fiscalização das alfândegas ou aos chefes de estâncias aduaneiras, conforme se trate de estâncias urbanas ou de outras."
+  },
+  "1070876075": {
+   "fragment_id": "1070875975",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n- 1 - Para a entrada e saída de volumes de bagagem manifestada processar-se-á, respectivamente, fórmula avulsa de despacho de importação e de despacho de exportação.\n\n2 - A fórmula avulsa de despacho de importação, poderá, todavia, ser substituída por despacho de caderneta, a podido do interessado, excepto se este solicitar a descarga directa de bagagem.\n\n3 - O pedido referido no número anterior deverá constar de declaração exarada no despacho, a qual será assinada pelo interessado."
+  },
+  "1070876275": {
+   "fragment_id": "1070876175",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nAs especificações dos objectos submetidos a despacho nos termos da presente secção far-se-ão de harmonia com a sua designação comum ou comercial salvo quanto aos objectos sujeitos a direitos, para os quais se farão de harmonia com os respectivos artigos pautais."
+  },
+  "1070876475": {
+   "fragment_id": "1070876375",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nA descarga e armazenagem dos volumes de bagagem a que esta secção se refere seguem regime idêntico ao preceituado para as mercadorias."
+  },
+  "1070876675": {
+   "fragment_id": "1070876575",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nQualquer pessoa poderá efectuar o desalfandegamento da bagagem manifestada de um viajante, desde que apresente às autoridades aduaneiras a declaração escrita referida na primeira parte do n.º 3 do artigo 12.º, para clara fixação da responsabilidade fiscal em que possa incorrer o mesmo viajante."
+  },
+  "1070891475": {
+   "fragment_id": "1070891375",
+   "type": 8,
+   "heading": "Secção I — Disposição prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição prévia"
+  },
+  "1070891675": {
+   "fragment_id": "1070891575",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nAs mercadorias contidas nas bagagens pessoais dos viajantes provenientes do estrangeiro, quer sejam ou não residentes no País, beneficiam da franquia dos direitos de importação nos termos previstos no Decreto-Lei n.º 463/80, de 11 de Outubro."
+  },
+  "1070891875": {
+   "fragment_id": "1070891775",
+   "type": 8,
+   "heading": "Secção II — Viajantes não residentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Viajantes não residentes"
+  },
+  "1070892075": {
+   "fragment_id": "1070891975",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n- 1 - Os objectos de uso pessoal dos viajantes não residentes podem ser importados temporariamente com dispensa do respectivo despacho e de garantia dos direitos.\n\n2 - Exigir-se-á, todavia, despacho de importação temporária com todas as formalidades, designadamente a prestação de garantia, relativamente aos objectos de uso pessoal que, pelo seu elevado valor ou quantidade excessiva, excedam os limites considerados razoáveis."
+  },
+  "1070892275": {
+   "fragment_id": "1070892175",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n- 1 - Consideram-se objectos de uso pessoal, mesmo novos:\n\na) O vestuário;\n\nb) Os artigos de toucador;\n\nc) Outros objectos que apresentem manifestamente um carácter pessoal.\n\n2 - Consideram-se igualmente objectos de uso pessoal, desde que não haja razões para duvidar de que se encontram a uso designadamente:\n\na) As jóias pessoais;\n\nb) Uma máquina fotográfica, um aparelho de tomada de vistas cinematográficas portátil e um número razoável de películas;\n\nc) Um aparelho de projecção portátil de diapositivos ou de filmes;\n\nd) Aparelhos e artigos de desporto, nomeadamente duas armas de caça e um máximo de 100 cartuchos por arma, um par de skis, duas raquetas de ténis, equipamento de pesca, uma bicicleta sem motor e uma canoa ou kayak de comprimento inferior a 5,5 m;\n\ne) Um instrumento de música portátil;\n\nf) Um aparelho receptor de telefonia portátil;\n\ng) Um aparelho de registo de som portátil e um número razoável de bobinas ou cassettes;\n\nh) Um aparelho de televisão portátil;\n\ni) Um gira-discos portátil e um número razoável de discos usados;\n\nj) Um binóculo;\n\nl) Uma máquina de escrever portátil;\n\nm) Uma tenda e outros objectos de campismo, tais como saco de dormir ou utensílios de cozinha;\n\nn) Uma cadeira de rodas para viajante enfermo e um carrinho para criança;\n\no) Os livros, ferramentas, instrumentos e utensílios portáteis próprios da profissão do viajante.\n\n3 - Os objectos referidos no n.º 1, se não forem de elevado valor, e os referidos no n.º 2, desde que sejam observadas as quantidades e critérios aí mencionados, podem ser importados temporariamente nos termos do n.º 1 do artigo 32.º excepto nos casos em que a prestação de garantia for exigida por disposição expressa da lei."
+  },
+  "1070892475": {
+   "fragment_id": "1070892375",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nSempre que for exigido despacho para a importação temporária de objectos de uso pessoal referidos no artigo anterior, o montante da garantia a prestar não deverá exceder o montante dos direitos e demais imposições."
+  },
+  "1070892675": {
+   "fragment_id": "1070892575",
+   "type": 8,
+   "heading": "Secção III — Viajantes residentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Viajantes residentes"
+  },
+  "1070892875": {
+   "fragment_id": "1070892775",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n- 1 - Os objectos de uso pessoal referidos no n.º 1 do artigo 33.º pertencentes a viajantes residentes de regresso ao País beneficiam da franquia de direitos de importação, desde que pelo seu valor e quantidade não excedam os limites considerados razoáveis.\n\n2 - Beneficiam de idêntica franquia os objectos referidos no n.º 1 do artigo 33.º que não estejam nas condições referidas no número anterior, e os objectos referidos no n.º 2 do mesmo artigo, desde que o viajante faça prova perante as autoridades aduaneiras de que já os possuía e transportava consigo ou na sua bagagem no momento da saída do País."
+  },
+  "1070893075": {
+   "fragment_id": "1070892975",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n- 1 - Os viajantes residentes que se ausentem temporariamente para o estrangeiro podem solicitar às autoridades aduaneiras no momento da saída do País, que tomem medidas para a identificação de objectos transportados por eles ou nas suas bagagens, sempre que considerem que tais medidas poderão facilitar a entrada com franquia dos mesmos objectos.\n\n2 - Para o efeito previsto na parte final do número anterior, poderão ainda os viajantes declarar em impresso próprio, na estância aduaneira de saída, os objectos de valor ou os que não apresentem evidentes sinais de uso, conservando o duplicado da declaração, que deverão apresentar na estância aduaneira de entrada.\n\n3 - A saída do País de caravanas ou quaisquer atrelados a veículos rodoviários particulares fica condicionada à apresentação da declaração referida no número anterior, sob pena de não ser autorizada a entrada com franquia dos direitos."
+  },
+  "1070893275": {
+   "fragment_id": "1070893175",
+   "type": 8,
+   "heading": "Secção IV — Transferência de domicílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Transferência de domicílio"
+  },
+  "1070893475": {
+   "fragment_id": "1070893375",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n- 1 - As bagagens dos viajantes que venham fixar domicílio no continente da República ou nas regiões autónomas são isentas do pagamento de direitos de importação.\n\n2 - Considera-se bagagem, para efeito do número anterior:\n\na) O vestuário e objectos de uso pessoal, livros e ferramentas, instrumentos e utensílios portáteis próprios da profissão do viajante, assim como as máquinas fotográficas e os aparelhos de tomada de vistas cinematográficas, de modelo reduzido e portátil, e os rolos de películas e bobinas de filme, em pequena quantidade;\n\nb) Os móveis, roupas e outros objectos de uso doméstico, desde que:\n\ni) Os seus possuidores não tenham habitação guarnecida no continente da República e nas regiões autónomas à data da sua chegada, salvo tratando-se de funcionários civis ou militares que hajam permanecido fora do continente da República ou das regiões autónomas, por espaço de tempo superior a um ano, em missão de serviço públco.\n\nPara efeito desta subalínea, deve ser apresentada na alfândega declaração assinada e devidamente autenticada, salvo quando pelo passaporte se verifique, por comparação, que a assinatura é do próprio viajante;\n\nii) Apresentem certificado probatório, passado pelo cônsul de Portugal no país de onde procedem ou pela autoridade administrativa de Macau, de que os móveis, roupas e mais objectos de uso doméstico, devidamente relacionados, constituem há mais de um ano o recheio da sua casa de moradia nesse país ou naquele território.\n\n3 - O prazo de validade do certificado consular referido na subalínea ii) da alínea b) do número anterior é de 120 dias.\n\n4 - Todos os objectos a que se referem as alíneas a) e b) do n.º 2 devem ser em quantidade e qualidade proporcionadas às funções exercidas pelos seus possuidores."
+  },
+  "1070893675": {
+   "fragment_id": "1070893575",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nO disposto no artigo anterior aplica-se também aos viajantes que, tendo-se ausentado do País, a ele regressem antes de decorrido o prazo de um ano, desde que não tenham habitação guarnecida no continente da República e nas regiões autónomas e comprovem que os móveis, roupas e outros objectos de uso doméstico já lhes pertenciam anteriormente à sua saída do País."
+  },
+  "1070893875": {
+   "fragment_id": "1070893775",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nSão isentos de direitos, sem as formalidades do artigo 37.º, as roupas e outros objectos de uso doméstico em pequena quantidade e de diminuto valor."
+  },
+  "1070894075": {
+   "fragment_id": "1070893975",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nTratando-se de funcionários do Estado que não estejam nas condições da parte final da subalínea ii) da alínea b) do n.º 2 do artigo 37.º quanto ao prazo, ainda lhes é aplicável a isenção de direitos para os objectos designados na mesma alínea quando seja apresentado à alfândega certificado da autoridade administrativa portuguesa ou do ministério a que pertençam, conforme as circunstâncias, provando que o regresso foi determinado por motivo de serviço do Estado, entendendo-se que esta disposição não dispensa o preceituado na mesma alínea, na parte aplicável."
+  },
+  "1070894275": {
+   "fragment_id": "1070894175",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n- 1 - As bagagens chegadas ao continente da República e às regiões autónomas pertencentes a funcionários civis ou militares prestando serviço em Macau e aos quais, depois da expedição das mesmas bagagens, tenha sido determinada a demora nesse território, serão desalfandegadas, nos termos dos artigos 37.º e 40.º, quando se encontrem nas condições neles previstas e desde que os seus representantes apresentem na alfândega por onde correr o respectivo despacho procuração bastante para tal fim e comprovem através de documento passado pelo respectivo ministério o motivo da demora no regresso.\n\n2 - No regresso dos funcionários nas condições deste artigo, não serão concedidos os benefícios dos artigos 37.º e 40.º aos objectos que constituam recheio de habitação, quando já deles se tenham aproveitado."
+  },
+  "1070894475": {
+   "fragment_id": "1070894375",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nAs disposições da alínea b) do n.º 2 do artigo 37.º não são aplicáveis a estabelecimentos de qualquer ordem existentes ou que venham a fundar-se em Portugal."
+  },
+  "1070894675": {
+   "fragment_id": "1070894575",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nQuando se trate de primeira instalação de funcionários de missões diplomáticas acreditados no País e dos cônsules estrangeiros, os respectivos móveis, roupas e outros objectos de uso doméstico são considerados bagagem, nos termos da alínea b) do n.º 2 do artigo 37.º, independentemente das formalidades preceituadas na subalínea ii) daquela alínea b), nos termos do Decreto n.º 17224, de 14 de Agosto de 1929."
+  },
+  "1070894875": {
+   "fragment_id": "1070894775",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nNão se consideram bagagem, para efeitos do artigo 37.º, as armas de fogo de qualquer espécie ou calibre, bem como os veículos de qualquer natureza, com excepção de carrinhos para crianças, cadeiras para viajantes enfermos e bicicletas sem motor, com evidentes sinais de uso."
+  },
+  "1070895075": {
+   "fragment_id": "1070894975",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n- 1 - Sem prejuízo do disposto no n.º 1 do artigo 41.º, a isenção de direitos prevista na presente secção só pode ser concedida às bagagens que entrarem no País dentro do prazo de 90 dias anterior ou posterior à chegada do viajante.\n\n2 - Em casos excepcionais devidamente justificados, poderá aquele prazo ser prorrogado pelos directores das alfândegas."
+  },
+  "1070895275": {
+   "fragment_id": "1070895175",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nA isenção de direitos de importação prevista na presente secção é concedida pelos directores das alfândegas, que poderão delegar esta competência nos chefes das estâncias aduaneiras."
+  },
+  "1070895475": {
+   "fragment_id": "1070895375",
+   "type": 8,
+   "heading": "Secção V — Viajantes em trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Viajantes em trânsito"
+  },
+  "1070895675": {
+   "fragment_id": "1070895575",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nOs viajantes em trânsito, desde que não abandonem a zona de trânsito, não devem ser submetidos a qualquer controle aduaneiro, sem prejuízo da adopção das medidas necessárias em caso de suspeita da prática de uma infracção aduaneira e da vigilância geral a exercer na referida zona."
+  },
+  "1070895875": {
+   "fragment_id": "1070895775",
+   "type": 8,
+   "heading": "Secção VI — Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Disposições especiais"
+  },
+  "1070896075": {
+   "fragment_id": "1070895975",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n- 1 - Os trabalhadores fronteiriços e os tripulantes beneficiam das franquias previstas no presente capítulo se fizerem prova junto das autoridades aduaneiras de que não se deslocam através da fronteira em actividade profissional ou por motivo desta.\n\n2 - Considera-se trabalhador fronteiriço qualquer pessoa que reside no País e presta a sua actividade profissional, durante o período normal de trabalho, do outro lado da fronteira."
+  },
+  "1070896275": {
+   "fragment_id": "1070896175",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n- 1 - As pessoas que transitam frequentemente pela raia beneficiarão das franquias que forem fixadas para cada estância aduaneira de fronteira, sob proposta do respectivo chefe, pelo director da alfândega respectiva.\n\n2 - Como critério orientador deverão ser fixadas franquias reduzidas para o tabaco, bebidas alcoólicas, perfumes, águas de toucador e café e, além destas, para outros artigos cujo valor não poderá exceder o contravalor em escudos de 15 ECU."
+  },
+  "1070888875": {
+   "fragment_id": "1070867975",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nOs objectos sujeitos a direitos, trazidos pelos viajantes ou transportados nas suas bagagens, serão separados para efeito de despacho."
+  },
+  "1070889075": {
+   "fragment_id": "1070888975",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n- 1 - Depois de submetidos a despacho, os objectos separados das bagagens podem sair isoladamente ou incluídos nos volumes da respectiva bagagem.\n\n2 - Sempre que seja exigida declaração escrita nos termos do n.º 3 do artigo 12.º, serão nesta indicados os números de ordem dos despachos dos objectos separados das bagagens."
+  },
+  "1070889275": {
+   "fragment_id": "1070889175",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\n- 1 - Quando os viajantes não queiram submeter a despacho os objectos separados, estes serão selados depois de descritos em bilhetes de caderneta em triplicado, ficando o original na caderneta, o triplicado junto ao separado de bagagem e distinando-se o duplicado ao viajante, que deverá apresentá-lo no momento em que solicitar o despacho.\n\n2 - As autoridades aduaneiras poderão selar os volumes de bagagem que contenham objectos separados, que não sejam submetidos imediatamente a despacho, a solicitação do viajante."
+  },
+  "1070889475": {
+   "fragment_id": "1070889375",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nQuando as entidades referidas nos artigos 18.º e 19.º, ou os seus representantes, declarem transportar consigo ou na sua bagagem objectos sujeitos a direitos, serão estes separados para serem despachados e entregues depois de liquidados os direitos e demais imposições e de satisfeitas quaisquer formalidades julgadas necessárias."
+  },
+  "1070889675": {
+   "fragment_id": "1070889575",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\n- 1 - As dúvidas ou desacordos suscitados na separação de objectos para pagamento de direitos serão resolvidos pelo chefe da respectiva estância aduaneira.\n\n2 - Se o funcionário, ou o viajante, não se conformar com a sua decisão, deverá o chefe da estância aduaneira submeter o caso à apreciação do director da respectiva alfândega."
+  },
+  "1070889875": {
+   "fragment_id": "1070889775",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nA entrega dos volumes de bagagem far-se-á imediatamente após a revisão quando não houver objectos separados ou, se os houver, em acto sucessivo ao respectivo despacho."
+  },
+  "1070890075": {
+   "fragment_id": "1070889975",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\nOs volumes de bagagem que não forem desalfandegados no prazo de 30 dias a contar da data da sua entrada nas estâncias aduaneiras serão selados e relacionados em guias em duplicado e remetidos para depósito real, que devolverá à estância aduaneira remetente o duplicado da guia com o respectivo recibo."
+  },
+  "1070890275": {
+   "fragment_id": "1070890175",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n- 1 - Quando, após a entrega das bagagens, os agentes de fiscalização aduaneira suspeitem de que as mesmas contêm mercadorias descaminhadas aos direitos, devem essas bagagens, tal como foram encontradas, regressar à estância aduaneira por onde entraram para aí ser efectuada nova revisão, podendo esta ser igualmente efectuada no local onde as bagagens se encontrarem, mas sempre por funcionários aduaneiros.\n\n2 - Se a estância aduaneira estiver fechada, serão as ditas bagagens recolhidas em qualquer outra estância aduaneira ou posto fiscal que estiver em funcionamento para serem entregues no primeiro dia útil seguinte na estância aduaneira referida no n.º 1.\n\n3 - À nova revisão assistirá o chefe da estância aduaneira, o qual, se entender que foram entregues com franquia objectos sujeitos a direitos, ordenará que sejam os mesmos submetidos a despacho.\n\n4 - Da decisão do chefe da estância aduaneira poderá o viajante, ou o funcionário que procedeu à primeira revisão, recorrer para o director da respectiva alfândega."
+  },
+  "1070876975": {
+   "fragment_id": "1070876875",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\n- 1 - Constitui infracção fiscal:\n\na) A falta de declaração espontânea pelo viajante dos objectos sujeitos a direitos;\n\nb) A prestação pelo viajante de declarações falsas, inexactas ou incorrectas, relativas a mercadorias sujeitas a direitos, designadamente as referentes ao seu valor e quantidade;\n\nc) A não apresentação voluntária do viajante no local destinado à revisão de bagagem no sistema do duplo circuito, quando transporte consigo ou na sua bagagem objectos sujeitos a direitos;\n\nd) O transporte de mercadorias que pela sua natureza e quantidade se destinem manifestamente a fins comerciais e o viajante não declare expressamente o fim a que se destinam antes de iniciado o controle aduaneiro.\n\n2 - Os factos referidos no número anterior serão considerados como contra-ordenação ou como crime de descaminho se, conforme os casos, tiverem enquadramento no disposto na alínea a) do n.º 1 do artigo 22.º ou no n.º 1 do artigo 12.º, ambos do Decreto-Lei n.º 187/83, de 13 de Maio."
+  },
+  "1070890475": {
+   "fragment_id": "1070890375",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\n- 1 - A entrega de armamento aos viajantes ficará condicionada à apresentação de autorização das entidades competentes e a exame feito por peritos da PSP, nos termos da legislação aplicável.\n\n2 - Aos viajantes que forem das Forças Armadas, da GNR, da GF, da PSP ou da PJ será, todavia, entregue, sem dependência do preceituado no número anterior, o material, desde que este faça parte do seu armamento regulamentar, esteja devidamente credenciado como sendo propriedade do Estado e tenha sido registada à sua saída.\n\n3 - Aos viajantes que forem militares serão entregues, sem dependência do preceituado no n.º 1, as espadas, desde que façam parte do seu armamento regulamentar."
+  },
+  "1070890675": {
+   "fragment_id": "1070890575",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nOs viajantes que não se destinem a permanecer no País e que tenham declarado transportar consigo ou na sua bagagem armas de fogo ou armas brancas, bem como bilhetes de lotarias estrangeiras, poderão depositar esses objectos na estância aduaneira para lhes serem restituídos na ocasião da saída, desde que não permaneçam no País por período superior a 6 meses."
+  },
+  "1070890875": {
+   "fragment_id": "1070890775",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nSão dispensados de contrastaria as obras de platina, ouro ou prata e os relógios de bolso, de pulso e similares:\n\na) Quando pertençam aos chefes de missão acreditados no País;\n\nb) Quando se reconheça serem de uso pessoal dos viajantes ou façam parte do recheio da casa dos indivíduos que venham estabelecer domicílio no País, nos termos da secção III do capítulo III."
+  },
+  "1070891075": {
+   "fragment_id": "1070890975",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nO anexo a este decreto-lei considera-se sua parte integrante."
+  },
+  "1070891275": {
+   "fragment_id": "1070891175",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nSão revogadas as disposições a seguir indicadas:\n\na) O n.º 2 do § 1.º do artigo 89.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965;\n\nb) A alínea h) do n.º 1 do artigo 46.º e os artigos 48.º a 56.º das Instruções Preliminares das Pautas, aprovadas pelo Decreto-Lei n.º 16/83, de 21 de Janeiro;\n\nc) Os artigos 394.º, 397.º, 398.º, 399.º, 403.º, 404.º, 405.º, 406.º, 407.º, 408.º, 410.º, 411.º, 412.º, 414.º, 417.º, 418.º e 421.º a 431.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941;\n\nd) O Decreto n.º 762/76, de 22 de Outubro."
+  },
+  "1073064775": {
+   "fragment_id": "1070871775",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1990-01-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+   ],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Nas estâncias aduaneiras abertas ao tráfego de viajantes existirão painéis, quadros ou cartazes que instruam os viajantes, sumariamente mas com clareza, sobre quais os objectos de importação proibida, os que podem ser importados com franquia e os que se devem declarar para pagamento dos direitos.\n\n2 - Os painéis, quadros ou cartazes referidos no número anterior deverão ser colocados antes da zona onde se efectua o controle aduaneiro, nos locais onde os viajantes recolhem as suas bagagens, por forma a chamar-lhes a atenção.\n\n3 - As instruções referidas no n.º 1 serão redigidas em português, francês e inglês, utilizando-se, de preferência, um fundo de cor diferente para cada texto.\n\n4 - Os serviços aduaneiros poderão igualmente distribuir aos viajantes, directamente ou por intermédio de empresas transportadoras ou agências de viagens, folhetos contendo as instruções referidas no n.º 1 e impressos nas condições e línguas referidas no n.º 3.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+  },
+  "1073064975": {
+   "fragment_id": "1070872375",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1990-01-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+   ],
+   "markdown": "###### Artigo 9.º\n\nSe os viajantes desembarcarem de noite, far-se-á apenas a revisão dos volumes de mão, podendo os chefes das estâncias aduaneiras autorizar a revisão de outros volumes para cuja urgência na saída os viajantes apresentem motivos considerados justificativos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+  },
+  "1073066775": {
+   "fragment_id": "1070872975",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1990-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - Os viajantes poderão fazer uma declaração verbal relativa às mercadorias que os acompanham, cumprindo-lhes fazê-la espontaneamente às autoridades aduaneiras antes de iniciado por estas o controle aduaneiro, quando sejam portadores de objectos sujeitos a direitos.\n\n2 - No sistema do duplo circuito, a apresentação voluntária do viajante no local destinado à revisão de bagagem equivale, para todos os efeitos, à declaração verbal espontânea.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+  },
+  "1073067175": {
+   "fragment_id": "1070875975",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1990-01-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+   ],
+   "markdown": "###### Artigo 27.º\n\n- 1 - Para a entrada e saída de volumes de bagagem manifestada processar-se-á, respectivamente, fórmula avulsa de despacho de importação e de despacho de exportação.\n\n2 - A fórmula avulsa de despacho de importação, poderá, todavia, ser substituída por despacho de caderneta, a podido do interessado, excepto se este solicitar a descarga directa de bagagem.\n\n3 - O pedido referido no número anterior deverá constar de declaração exarada no despacho, a qual será assinada pelo interessado.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+  },
+  "1073089675": {
+   "fragment_id": "1070876175",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "1990-01-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+   ],
+   "markdown": "###### Artigo 28.º\n\nAs especificações dos objectos submetidos a despacho nos termos da presente secção far-se-ão de harmonia com a sua designação comum ou comercial salvo quanto aos objectos sujeitos a direitos, para os quais se farão de harmonia com os respectivos artigos pautais.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+  },
+  "1073064375": {
+   "fragment_id": "1070876575",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": "1990-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+   ],
+   "markdown": "###### Artigo 30.º\n\nQualquer pessoa poderá efectuar o desalfandegamento da bagagem manifestada de um viajante, desde que apresente às autoridades aduaneiras declaração escrita das mercadorias para clara fixação da responsabilidade fiscal em que possa incorrer o mesmo viajante.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+  },
+  "1073064575": {
+   "fragment_id": "1070895175",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": "1990-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+   ],
+   "markdown": "###### Artigo 46.º\n\nA isenção de direitos de importação das bagagens dos viajantes que venham fixar domicílio no território nacional é concedida pelos directores das alfândegas, que poderão delegar esta competência nos chefes das estâncias aduaneiras.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+  },
+  "1073066975": {
+   "fragment_id": "1070888975",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": "1990-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+   ],
+   "markdown": "###### Artigo 51.º\n\n1 - Depois de submetidos a despacho, os objectos separados das bagagens podem sair isoladamente ou incluídos nos volumes da respectiva bagagem.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/90 - Diário da República n.º 13/1990, Série I de 1990-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556), em vigor a partir de 1990-01-21."
+  }
+ }
+}

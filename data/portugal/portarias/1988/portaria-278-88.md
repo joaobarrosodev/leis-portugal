@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:373613:por
+title: Portaria n.º 278/88
+short_title: null
+summary: Altera o quadro de pessoal do Hospital do Conde de Ferreira na parte referente a pessoal administrativo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Saúde
+proposing_entity: null
+official_number: 278/88
+official_date: null
+publication_date: '1988-05-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 103/1988, Série I de 1988-05-04
+  number: '103'
+  series: I
+  supplement: null
+  pages: 1858 - 1858
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/05/10300/18581858.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '373613'
+  dre_path: /dr/detalhe/portaria/278-1988-373613
+  internal: pt:dre:373613:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/278-1988-373613
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/278-1988-373613
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-05-04T00:00:00Z'
+integrity:
+  source_sha256: b87123c2ed0e7008a3043b7b315c671125dd1c2a6d882392b930028a42e8be85
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-278-373613.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 278/88
+
+de 4 de Maio
+
+Nos termos dos artigos 39.º e 40.º do [Decreto-Lei n.º 74-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-c-1984-405702), de 2 de Março, o pessoal dos serviços extintos integrado no quadro II da Direcção-Geral dos Cuidados de Saúde Primários ficou na situação de excedente, devendo providenciar-se a sua integração em conformidade com o disposto naquele normativo.
+
+Assim, ao abrigo da alínea c) do n.º 3 do artigo 39.º do [Decreto-Lei n.º 74-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-c-1984-405702), de 2 de Março:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde, que o quadro de pessoal do Hospital do Conde de Ferreira, aprovado pela [Portaria n.º 637/80](https://diariodarepublica.pt/dr/detalhe/portaria/637-1980-460850), de 16 de Setembro, seja alterado de acordo com o anexo à presente portaria, de que faz parte integrante.
+
+Ministérios das Finanças e da Saúde.
+
+**Assinada em 18 de Abril de 1988.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/10300/18581858.pdf))](https://files.diariodarepublica.pt/1s/1988/05/10300/18581858.pdf)

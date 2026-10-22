@@ -1,0 +1,1708 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:282749:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/1993-159219363",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/13-1993-282749",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-05-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "159247648",
+    "159292956",
+    "159292957",
+    "159292958",
+    "159292959",
+    "159292960",
+    "159292961",
+    "159292962",
+    "159292963",
+    "159292964",
+    "159292965",
+    "159292966",
+    "159292967",
+    "159292968",
+    "159292969",
+    "159292970",
+    "159292971",
+    "159292972",
+    "159292973",
+    "159292974",
+    "159303875",
+    "159303876",
+    "159303877",
+    "159303878",
+    "159303879",
+    "159303880",
+    "159303881",
+    "159303882",
+    "159303883",
+    "159303884",
+    "159303885",
+    "159303886",
+    "159303887",
+    "159303888",
+    "159303889",
+    "159303890",
+    "159303891",
+    "159303892",
+    "159303893",
+    "159303894",
+    "159303895",
+    "159303896",
+    "159303897",
+    "159303898",
+    "159303899",
+    "159303900",
+    "159303901",
+    "159303902",
+    "159303903",
+    "159303904",
+    "159303905",
+    "159303906",
+    "159303907",
+    "159303908",
+    "159303909",
+    "159303910",
+    "159303911",
+    "159303912",
+    "159303913",
+    "159303914",
+    "159303915",
+    "159303916",
+    "159303917",
+    "159303918",
+    "159303919",
+    "159303920",
+    "159303921",
+    "159303922",
+    "159303923",
+    "159303924",
+    "159303925",
+    "159303926",
+    "159303927",
+    "159303928",
+    "159303929",
+    "159303930",
+    "159303931"
+   ]
+  },
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:639916:por",
+     "title": "Decreto Regulamentar Regional n.º 19/99/M",
+     "published": "1999-11-30",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/19-1999-639916"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 22.º-A",
+    "Adita Artigo 25.º-A",
+    "Altera Secção IV",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "159247648",
+    "159292956",
+    "159292957",
+    "159292958",
+    "159292959",
+    "159303944",
+    "159303945",
+    "159292961",
+    "159303946",
+    "159292963",
+    "159292964",
+    "159292965",
+    "159292966",
+    "159292967",
+    "159292968",
+    "159303947",
+    "159292970",
+    "159292971",
+    "159292972",
+    "159292973",
+    "159292974",
+    "159303875",
+    "159303952",
+    "159303935",
+    "159303949",
+    "159303936",
+    "159303950",
+    "159303937",
+    "159303882",
+    "159303883",
+    "159303884",
+    "159303885",
+    "159303886",
+    "159303951",
+    "159303938",
+    "159303939",
+    "159303889",
+    "159303890",
+    "159303891",
+    "159303892",
+    "159303940",
+    "159303941",
+    "159303942",
+    "159303943",
+    "159303932",
+    "159303933",
+    "159303934",
+    "159303896",
+    "159303897",
+    "159303898",
+    "159303899",
+    "159303900",
+    "159303901",
+    "159303902",
+    "159303903",
+    "159303904",
+    "159303905",
+    "159303906",
+    "159303907",
+    "159303908",
+    "159303909",
+    "159303910",
+    "159303911",
+    "159303912",
+    "159303913",
+    "159303914",
+    "159303915",
+    "159303916",
+    "159303917",
+    "159303918",
+    "159303919",
+    "159303920",
+    "159303921",
+    "159303922",
+    "159303923",
+    "159303924",
+    "159303925",
+    "159303926",
+    "159303927",
+    "159303928",
+    "159303929",
+    "159303930",
+    "159303931"
+   ]
+  },
+  {
+   "date": "2003-05-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571667:por",
+     "title": "Decreto Regulamentar Regional n.º 13/2003/M",
+     "published": "2003-05-02",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/13-2003-571667"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "159247648",
+    "159292956",
+    "159292957",
+    "159292958",
+    "159292959",
+    "159303944",
+    "159303945",
+    "159292961",
+    "159303946",
+    "159292963",
+    "159292964",
+    "159292965",
+    "159292966",
+    "159292967",
+    "159292968",
+    "159303947",
+    "159292970",
+    "159292971",
+    "159292972",
+    "159292973",
+    "159292974",
+    "159303875",
+    "159303952",
+    "159303935",
+    "159303949",
+    "159303936",
+    "159303950",
+    "159303937",
+    "159303882",
+    "159303883",
+    "159303884",
+    "159303885",
+    "159303886",
+    "159303951",
+    "159303938",
+    "159303939",
+    "159303889",
+    "159303890",
+    "159303891",
+    "159303892",
+    "159303940",
+    "159303941",
+    "159303942",
+    "159303943",
+    "159303932",
+    "159303933",
+    "159303934",
+    "159303896",
+    "159303897",
+    "159303898",
+    "159303899",
+    "159303900",
+    "159303901",
+    "159303902",
+    "159303903",
+    "159303904",
+    "159303905",
+    "159303906",
+    "159303907",
+    "159303908",
+    "159303909",
+    "159303910",
+    "159303911",
+    "159303912",
+    "159303953",
+    "159303954",
+    "159303915",
+    "159303916",
+    "159303917",
+    "159303918",
+    "159303919",
+    "159303920",
+    "159303921",
+    "159303922",
+    "159303923",
+    "159303924",
+    "159303925",
+    "159303926",
+    "159303927",
+    "159303928",
+    "159303929",
+    "159303930",
+    "159303931"
+   ]
+  },
+  {
+   "date": "2016-05-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74443081:por",
+     "title": "Decreto Legislativo Regional n.º 21/2016/M",
+     "published": "2016-05-13",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-2016-74443081"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "159247648",
+    "159292956",
+    "159292957",
+    "159292958",
+    "159292959",
+    "159303944",
+    "159303945",
+    "159292961",
+    "159303946",
+    "159292963",
+    "159292964",
+    "159292965",
+    "159292966",
+    "159292967",
+    "159292968",
+    "159303947",
+    "159292970",
+    "159292971",
+    "159292972",
+    "159292973",
+    "159292974",
+    "159303875",
+    "159303952",
+    "159303935",
+    "159303949",
+    "159305090",
+    "159303950",
+    "159305091",
+    "159303882",
+    "159303883",
+    "159303884",
+    "159303885",
+    "159303886",
+    "159303951",
+    "159303938",
+    "159303939",
+    "159303889",
+    "159303890",
+    "159303891",
+    "159303892",
+    "159303940",
+    "159303941",
+    "159303942",
+    "159303943",
+    "159303932",
+    "159303933",
+    "159303934",
+    "159303896",
+    "159303897",
+    "159303898",
+    "159303899",
+    "159303900",
+    "159303901",
+    "159303902",
+    "159303903",
+    "159303904",
+    "159303905",
+    "159303906",
+    "159303907",
+    "159303908",
+    "159303909",
+    "159303910",
+    "159303911",
+    "159303912",
+    "159303953",
+    "159303954",
+    "159303915",
+    "159303916",
+    "159303917",
+    "159303918",
+    "159303919",
+    "159303920",
+    "159303921",
+    "159303922",
+    "159303923",
+    "159303924",
+    "159303925",
+    "159303926",
+    "159303927",
+    "159303928",
+    "159303929",
+    "159303930",
+    "159303931"
+   ]
+  },
+  {
+   "date": "2021-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159219302:por",
+     "title": "Decreto Legislativo Regional n.º 5/2021/M",
+     "published": "2021-03-11",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/5-2021-159219302"
+    }
+   ],
+   "changes": [
+    "Revoga Anexo III"
+   ],
+   "fragments": [
+    "159247648",
+    "159292956",
+    "159292957",
+    "159292958",
+    "159292959",
+    "159303944",
+    "159303945",
+    "159292961",
+    "159303946",
+    "159292963",
+    "159292964",
+    "159292965",
+    "159292966",
+    "159292967",
+    "159292968",
+    "159303947",
+    "159292970",
+    "159292971",
+    "159292972",
+    "159292973",
+    "159292974",
+    "159303875",
+    "159303952",
+    "159303935",
+    "159303949",
+    "159305090",
+    "159303950",
+    "159305091",
+    "159303882",
+    "159303883",
+    "159303884",
+    "159303885",
+    "159303886",
+    "159303951",
+    "159303938",
+    "159303939",
+    "159303889",
+    "159303890",
+    "159303891",
+    "159303892",
+    "159303940",
+    "159303941",
+    "159303942",
+    "159303943",
+    "159303932",
+    "159303933",
+    "159305092",
+    "159305093",
+    "159305094",
+    "159305095",
+    "159305096",
+    "159305097",
+    "159305098",
+    "159305099",
+    "159305100",
+    "159305101",
+    "159305102",
+    "159305103",
+    "159305104",
+    "159305105",
+    "159305106",
+    "159305107",
+    "159305108",
+    "159305109",
+    "159305110",
+    "159305111",
+    "159305112",
+    "159305113",
+    "159305114",
+    "159305115",
+    "159305116",
+    "159305117",
+    "159305118",
+    "159305119",
+    "159305120",
+    "159305121",
+    "159305122",
+    "159305123",
+    "159305124",
+    "159305125",
+    "159305126",
+    "159305127",
+    "159305128"
+   ]
+  }
+ ],
+ "fragments": {
+  "159247648": {
+   "fragment_id": "159219364",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 13/93/M\n\nAprova a orgânica do Serviço do Parque Natural da Madeira\n\nO Parque Natural da Madeira, criado pelo Decreto Regional n.º 14/82/M, de 20 de Novembro, revelou-se uma experiência da maior importância no que respeita à valorização dos recursos naturais que lhe estão afectos, bem como no quadro da protecção da natureza em geral, da manutenção do equilíbrio ecológico e paisagístico, com vista à fruição de um ambiente equilibrado e sadio por parte de toda a população.\n\nImporta aproveitar por isso todas as potencialidades deste serviço, estruturando-o organicamente, pondo termo ao regime de instalação em que tem até agora vivido, de modo a permitir-lhe uma intervenção tão mais racional quanto eficaz no âmbito dos elevados valores cuja concretização lhe está acometida. É este o desiderato fundamental do presente diploma, que procede assim à aprovação da lei orgânica do Parque Natural da Madeira.\n\nNestes termos:\n\nO Governo Regional da Madeira decreta, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição, da alínea c) do artigo 49.º da Lei n.º 13/91, de 5 de Junho, do n.º 1 do artigo 13.º do Decreto Legislativo Regional n.º 26/92/M, de 11 de Novembro, e do n.º 3 do artigo 4.º do Decreto Regulamentar Regional n.º 1/93/M, de 7 de Janeiro, o seguinte:"
+  },
+  "159292956": {
+   "fragment_id": "159303193",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "159292957": {
+   "fragment_id": "159303194",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Serviço do Parque Natural da Madeira, neste diploma abreviadamente designado por PNM, é um serviço operativo, dotado de personalidade jurídica, autonomia administrativa e financeira, funcionando sob a tutela da Secretaria Regional de Agricultura, Florestas e Pescas, que tem como objectivos a protecção da natureza, nas áreas delimitadas na descrição e mapa constantes do anexo I ao presente diploma."
+  },
+  "159292958": {
+   "fragment_id": "159303195",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - São atribuições do PNM:\n\na) Promover a nível regional o plano de conservação da natureza;\n\nb) Promover a execução da política e objectivos definidos pelo Governo Regional na área da protecção e conservação da natureza, sem prejuízo das atribuições e competências reservadas a outros organismos públicos na matéria;\n\nc) Elaborar estudos e propor medidas visando a preservação do património genético, a gestão racional da flora e da fauna e a protecção das espécies;\n\nd) Prosseguir medidas e acções com vista a um desenvolvimento harmonioso e equilibrado dos diversos ecossistemas regionais;\n\ne) Empreender as acções necessárias à conservação de espécies raras, ameaçadas ou vulneráveis;\n\nf) Promover o alargamento da área de distribuição das espécies indígenas da flora e da fauna, sempre que tal medida se mostre apta a contribuir para a conservação de espécies raras, ameaçadas ou vulneráveis;\n\ng) Promover a reintrodução de espécies indígenas extintas em território regional, sempre que tal medida se mostre apta a contribuir para o enriquecimento e conservação de ecossistemas;\n\nh) Promover o ordenamento biofísico dos espaços naturais da Região, com vista a facultar o recreio, o lazer e a livre usufruição da natureza pelos cidadãos;\n\ni) Propor a protecção de indivíduos ou formações vegetais ou unidades geomorfológicas de reconhecido interesse científico ou paisagístico;\n\nj) Propor a criação de áreas protegidas e assegurar a sua implementação e gestão;\n\nl) Informar e sensibilizar as populações com vista a uma utilização da natureza consciente e responsável por parte daquelas;\n\nm) Empreender acções pedagógicas sistemáticas junto das populações, com vista à consciencialização do valor do património natural e do ambiente, co-responsabilizando-as na salvaguarda e manutenção daquele património e na fruição de um ambiente equilibrado e sadio;\n\nn) Promover e participar em actividades de investigação científica e técnica no domínio da protecção da natureza e do ambiente;\n\no) Emitir os pareceres técnicos necessários sobre pedidos que visem a construção e a realização de obras ou outras acções, de iniciativa pública ou privada, que pela sua localização, implementação, dimensão ou características se insiram na sua área de jurisdição, proximidades e zonas de influência;\n\np) Emitir os demais pareceres previstos na lei, bem como os solicitados por entidades públicas, no quadro das suas atribuições;\n\nq) Exercer as demais competências previstas na lei.\n\n2 - O PNM é a autoridade administrativa e científica regional nos termos e para os efeitos da Convenção Internacional sobre o Comércio das Espécies da Fauna e da Flora Selvagem Ameaçadas de Extinção.\n\n3 - No exercício das suas atribuições, o PNM promoverá as acções necessárias com vista a coordenar a sua actuação com as demais entidades públicas, com atribuições no âmbito da protecção e conservação da natureza e do ambiente."
+  },
+  "159292959": {
+   "fragment_id": "159303196",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos, serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos, serviços e suas competências\n\nArtigo 3.º\n\nÓrgãos e serviços\n\n1 - São órgãos do PNM:\n\na) O director;\n\nb) A comissão consultiva;\n\nc) A comissão científica.\n\n2 - Integra o PNM o seguinte serviço de apoio técnico-administrativo: Repartição de Serviços Administrativos (RSA).\n\n3 - Integram o PNM os seguintes serviços operativos:\n\na) Divisão de Conservação da Natureza (DCN);\n\nb) Divisão de Ordenamento, Projectos e Educação Ambiental (DOPEA).\n\n4 - Integra o PNM o seguinte serviço auxiliar de polícia: Corpo de Vigilantes da Natureza (CVN), cujo estatuto consta do anexo III ao presente diploma, do qual faz parte integrante.\n\n5 - Os serviços a que se reportam os n.os 2 e 4 do presente artigo dependem directamente do director do PNM."
+  },
+  "159292960": {
+   "fragment_id": "159303197",
+   "type": 8,
+   "heading": "Secção I — Do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do director"
+  },
+  "159292961": {
+   "fragment_id": "159303198",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - Ao director compete, genericamente, administrar o PNM e superintender a actuação de todos os seus órgãos e serviços, submetendo a despacho do Secretário Regional de Agricultura, Florestas e Pescas os assuntos que careçam de apreciação ou decisão superior.\n\n2 - Para os efeitos do disposto no número anterior, o director será assistido pela comissão consultiva e pela comissão científica, nos termos do presente diploma.\n\n3 - Compete, designadamente, ao director do PNM:\n\na) Promover a execução da política e os objectivos definidos pelo Governo Regional no âmbito da conservação da natureza;\n\nb) Orientar as actividades do PNM e tomar as decisões sobre os assuntos correntes;\n\nc) Assegurar a gestão dos recursos financeiros, materiais e humanos do PNM;\n\nd) Autorizar as despesas e providenciar pela arrecadação de receitas;\n\ne) Apresentar o plano de actividades e o orçamento anual do PNM e o correspondente relatório de execução;\n\nf) Gerir e coordenar a acção do CVN;\n\ng) Estabelecer o diálogo com as comissões consultiva e científica, bem como com todos os organismos com que colabora, designadamente aqueles a que se reporta o n.º 3 do artigo 2.º;\n\nh) Representar o PNM em juízo e fora dele;\n\ni) Pronunciar-se sobre todos os assuntos que respeitem ao PNM submetidos à sua apreciação;\n\nj) Exercer as demais competências previstas na lei.\n\n4 - O director depende directamente do Secretário Regional de Agricultura, Florestas e Pescas, sendo-lhe atribuída a categoria de director de serviços.\n\n5 - O lugar de director do PNM é provido em comissão de serviço, nos termos da legislação em vigor, à matéria aplicável.\n\n6 - O director pode delegar e subdelegar poderes da sua competência nos chefes de divisão do PNM, bem como avocar competências dos mesmos, nos termos da lei.\n\n7 - O director será substituído nas suas faltas, ausências e impedimentos pelo chefe de divisão que para o efeito designar o secretário regional da tutela.\n\n8 - O director do PNM toma posse perante o Presidente do Governo Regional."
+  },
+  "159292962": {
+   "fragment_id": "159303199",
+   "type": 8,
+   "heading": "Secção II — Da comissão consultiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da comissão consultiva"
+  },
+  "159292963": {
+   "fragment_id": "159303200",
+   "type": 11,
+   "heading": "Artigo 5.º — Natureza e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Natureza e composição\n\nA comissão consultiva é o órgão de apoio, com funções consultivas genéricas no quadro das atribuições do PNM, sendo a seguinte a sua composição:\n\na) O director do PNM, que a preside;\n\nb) Um representante da Secretaria Regional de Agricultura, Florestas e Pescas;\n\nc) Um representante da Secretaria Regional dos Assuntos Parlamentares e Comunicação;\n\nd) Um representante da Secretaria Regional do Turismo e Cultura;\n\ne) Um representante da Secretaria Regional do Equipamento Social e Ambiente;\n\nf) Dois representantes da Secretaria Regional dos Assuntos Sociais, sendo um pelo Serviço Regional de Protecção Civil;\n\ng) Um representante da Secretaria Regional de Finanças;\n\nh) Um representante da Secretaria Regional de Economia e Cooperação Externa;\n\ni) Um representante da Secretaria Regional de Educação;\n\nj) Um representante das câmaras municipais cuja actuação se reporte às áreas afectas ao PNM, nos termos do presente diploma;\n\nl) Um representante da Universidade da Madeira;\n\nm) Um representante das associações de defesa do ambiente com sede na Região;\n\nn) Um representante das associações de pastores constituídas no quadro do regime silvo-pastoril;\n\no) Um representante do Conselho Regional da Caça e da Fauna;\n\np) Um representante das organizações de escuteiros da Região;\n\nq) Três cidadãos de reconhecido mérito no âmbito da protecção da natureza ou ambiente."
+  },
+  "159292964": {
+   "fragment_id": "159303201",
+   "type": 11,
+   "heading": "Artigo 6.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Recrutamento\n\n1 - Os representantes de cada departamento, associações ou serviços referidos no artigo anterior, à excepção dos referidos na alínea q), são designados pelos respectivos responsáveis e nomeados por despacho do Secretário Regional de Agricultura, Florestas e Pescas.\n\n2 - Os membros da comissão consultiva a que se reporta a alínea q) do artigo 5.º são designados pelo Secretário Regional de Agricultura, Florestas e Pescas."
+  },
+  "159292965": {
+   "fragment_id": "159303202",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências\n\n1 - Compete genericamente à comissão consultiva apoiar e assistir o director com vista à integral realização das atribuições do PNM.\n\n2 - Compete, designadamente, à comissão consultiva:\n\na) Elaborar estudos e pareceres;\n\nb) Sugerir as acções necessárias com vista à concretização da política e dos objectivos definidos para o PNM.\n\n3 - Os pareceres da comissão consultiva não têm efeito vinculativo."
+  },
+  "159292966": {
+   "fragment_id": "159303203",
+   "type": 11,
+   "heading": "Artigo 8.º — Sessões ordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sessões ordinárias\n\nA comissão consultiva reúne ordinariamente duas vezes por ano."
+  },
+  "159292967": {
+   "fragment_id": "159303204",
+   "type": 11,
+   "heading": "Artigo 9.º — Sessões extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sessões extraordinárias\n\nA comissão consultiva reunirá em sessões extraordinárias a solicitação do Governo Regional, do Secretário Regional de Agricultura, Florestas e Pescas, do director do PNM ou por iniciativa de um mínimo de dois terços dos seus membros."
+  },
+  "159292968": {
+   "fragment_id": "159303205",
+   "type": 11,
+   "heading": "Artigo 10.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regulamento\n\nA comissão consultiva elabora e aprova o seu regulamento interno de funcionamento, submetendo-o à aprovação do Secretário Regional de Agricultura, Florestas e Pescas."
+  },
+  "159292969": {
+   "fragment_id": "159303206",
+   "type": 8,
+   "heading": "Secção III — Da comissão científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da comissão científica"
+  },
+  "159292970": {
+   "fragment_id": "159303207",
+   "type": 11,
+   "heading": "Artigo 11.º — Natureza e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Natureza e composição\n\nA comissão científica é o órgão de apoio, com funções consultivas, para as questões culturais e científicas do PNM, sendo a seguinte a sua composição:\n\na) O director do PNM, que a preside;\n\nb) Um representante da Secretaria Regional de Agricultura, Florestas e Pescas;\n\nc) Um representante da Secretaria Regional do Turismo e Cultura;\n\nd) Um representante da Secretaria Regional do Equipamento Social e Ambiente;\n\ne) Um representante da Secretaria Regional da Educação;\n\nf) Um representante da Universidade da Madeira;\n\ng) Um representante do Museu Municipal do Funchal."
+  },
+  "159292971": {
+   "fragment_id": "159303208",
+   "type": 11,
+   "heading": "Artigo 12.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Recrutamento\n\nOs representantes de cada um dos departamentos e entidades a que se reporta o artigo anterior são designados pelos respectivos responsáveis e nomeados por despacho do Secretário Regional de Agricultura, Florestas e Pescas."
+  },
+  "159292972": {
+   "fragment_id": "159303209",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências\n\n1 - Compete à comissão científica:\n\na) Emitir pareceres sobre todas as iniciativas de carácter científico e cultural relacionadas com o PNM;\n\nb) Emitir recomendações que contribuam para a defesa e salvaguarda do património e para o desenvolvimento científico e cultural do PNM.\n\n2 - Os pareceres e recomendações da comissão científica não produzem efeito vinculativo."
+  },
+  "159292973": {
+   "fragment_id": "159303210",
+   "type": 11,
+   "heading": "Artigo 14.º — Sessões ordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sessões ordinárias\n\nA comissão científica reúne ordinariamente uma vez por ano.\n\n> Nota: [Artigo 20.º, Decreto Regulamentar Regional n.º 8/2015/M - Diário da República n.º 151/2015, Série I de 2015-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2015-69951100) Em cumprimento com o disposto no artigo 14.º do Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, as unidades orgânicas nucleares, Gabinete Jurídico e Gabinete de Planeamento da Secretaria Regional do Ambiente e Recursos Naturais, transitam para a Secretaria Regional do Ambiente e Recursos Naturais."
+  },
+  "159292974": {
+   "fragment_id": "159303211",
+   "type": 11,
+   "heading": "Artigo 15.º — Sessões extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sessões extraordinárias\n\nA comissão científica reunirá em sessões extraordinárias a solicitação do Governo Regional, do Secretário Regional de Agricultura, Florestas e Pescas, do director do PNM ou por iniciativa de dois terços dos seus membros."
+  },
+  "159303875": {
+   "fragment_id": "159303212",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regulamento\n\nA comissão científica elabora e aprova o seu regulamento interno de funcionamento, submetendo-o a aprovação do Secretário Regional de Agricultura, Florestas e Pescas."
+  },
+  "159303876": {
+   "fragment_id": "159303213",
+   "type": 8,
+   "heading": "Secção IV — Repartição de Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Repartição de Serviços Administrativos"
+  },
+  "159303877": {
+   "fragment_id": "159303214",
+   "type": 11,
+   "heading": "Artigo 17.º — Natureza e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Natureza e competências\n\n1 - A RSA é o serviço de apoio administrativo ao PNM.\n\n2 - Compete, designadamente, à RSA:\n\na) Assegurar o registo, encaminhamento e arquivo do expediente;\n\nb) Organizar e manter actualizada a contabilidade do PNM;\n\nc) Assegurar a aquisição do material necessário ao funcionamento do PNM, organizando e mantendo actualizado o respectivo cadastro;\n\nd) Coordenar racional e equilibradamente a utilização de todas as máquinas, viaturas e outro equipamento mecânico afectos ao PNM;\n\ne) Emitir pareceres técnicos sobre a aquisição de máquinas, viaturas e outro equipamento mecânico;\n\nf) Organizar os processos relativos à gestão do pessoal do PNM;\n\ng) Assegurar o normal funcionamento do PNM em tudo o que não seja da competência específica dos demais órgãos e serviços do PNM.\n\n3 - A RSA integra as seguintes secções:\n\na) Secção de Pessoal, Expediente e Arquivo;\n\nb) Secção de Contabilidade, Património e Aprovisionamento."
+  },
+  "159303878": {
+   "fragment_id": "159303215",
+   "type": 8,
+   "heading": "Secção V — Divisão de Conservação da Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Divisão de Conservação da Natureza"
+  },
+  "159303879": {
+   "fragment_id": "159303216",
+   "type": 11,
+   "heading": "Artigo 18.º — Natureza e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Natureza e competências\n\n1 - A DCN é o serviço operativo do PNM com atribuições nos domínos da investigação e da protecção do património genético, da flora, da fauna e espécies em geral.\n\n2 - Compete, designadamente, à DCN:\n\na) Promover a investigação científica nos domínios da fauna, flora e geologia, em colaboração com organismos especializados, nacionais e estrangeiros, nomeadamente nas áreas de reserva natural integral ou parcial e reserva geológica e de vegetação de altitude;\n\nb) Promover a criação de novas reservas naturais integrais, parciais, geológicas e de vegetação de altitude, bem como regulamentar e assegurar a manutenção das existentes;\n\nc) Promover e colaborar em estudos, experiências ou realizações e assegurar o inventário dos valores naturais do PNM;\n\nd) Promover as acções necessárias à elaboração dos planos de ordenamento e regulamentação das áreas protegidas;\n\ne) Promover e executar programas de acção contra a erosão do solo e de defesa ao regime hídrico;\n\nf) Apoiar as reservas naturais das ilhas Desertas e Selvagens, do Garajau, bem como as que venham a ser futuramente criadas;\n\ng) Zelar pelo cumprimento na Região das convenções internacionais sobre fauna, flora e conservação da natureza que tenham sido ratificadas por Portugal e tenham aplicação à Região Autónoma da Madeira;\n\nh) Desenvolver as acções necessárias em vista à inventariação, controlo e erradicação das espécies de flora que apresentem características infestantes, nomeadamente nas áreas das reservas integrais, reservas parciais, geológicas e de vegetação de altitude;\n\ni) Proceder à inventariação dos locais e das espécies vegetais endémicas consideradas raras ou em vias de extinção e promover o incremento das mesmas;\n\nj) Fornecer à DOPEA os dados necessários à divulgação da fauna e flora indígenas, bem como outros elementos, nomeadamente geológicos;\n\nl) Executar os projectos de infra-estruturas elaborados pela DOPEA;\n\nm) Executar obras de recuperação, reparação ou beneficiação com vista à salvaguarda do património incluído nas áreas classificadas, nomeadamente monumentos ou edifícios de interesse público."
+  },
+  "159303880": {
+   "fragment_id": "159303217",
+   "type": 8,
+   "heading": "Secção VI — Divisão de Ordenamento, Projectos e Educação Ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Divisão de Ordenamento, Projectos e Educação Ambiental"
+  },
+  "159303881": {
+   "fragment_id": "159303218",
+   "type": 11,
+   "heading": "Artigo 19.º — Natureza e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Natureza e competências\n\n1 - A DOPEA é o serviço operativo do PNM com atribuições nos domínios do ordenamento e da educação ambiental.\n\n2 - Compete, designadamente, à DOPEA:\n\na) Promover os projectos necessários à prossecução dos objectivos do PNM, nomeadamente no que respeita ao equipamento das reservas de recreio e montanha e zonas de repouso e silêncio;\n\nb) Preparar os planos de ordenamento do Parque e a regulamentação das áreas classificadas;\n\nc) Emitir pareceres sobre a realização de obras de edificação, abertura de estradas, caminhos ou outras vias de acesso e extracção de produtos inertes de qualquer natureza, a efectuar na área do PNM;\n\nd) Promover e coordenar trabalhos de topografia e desenho;\n\ne) Assegurar a existência e funcionamento de ficheiro actualizado de documentação e legislação regional, nacional e comunitária, bem como a que provenha de outros organismos ou associações que prossigam objectivos idênticos e que tratem em geral ou em especial da temática do ambiente, defesa e conservação da natureza;\n\nf) Contribuir, através do recurso à informática, para o aumento das estratégias disponíveis a nível de educação ambiental;\n\ng) Adquirir bibliografia e cartografia respeitante ao domínio ambiental, bem como orientar o seu arquivo e utilização;\n\nh) Criar e assegurar a manutenção e funcionamento de uma adequada base de dados sobre o ambiente, bem como proceder à elaboração de cartografia temática;\n\ni) Realizar os estudos técnico-económicos necessários à elaboração do planeamento e à definição da estratégia de desenvolvimento para o sector;\n\nj) Promover sócio-educativa e culturalmente a adesão das populações abrangidas pelas áreas do PNM em vista ao respeito pelas bases biofísicas e ecológicas do ambiente no quadro das tradições histórico-culturais e do habitat natural das referidas populações;\n\nl) Promover e executar programas sistemáticos de actividades no âmbito da educação ambiental das populações em geral;\n\nm) Proceder ao estudo de percursos e organizar visitas guiadas às áreas do PNM;\n\nn) Divulgar as áreas afectas ao PNM, seus valores e objectivos específicos;\n\no) Realizar acções de formação ambiental junto do público em geral e dos estabelecimentos de ensino em particular, destacando as actividades práticas;\n\np) Elaborar e distribuir material didáctico e de divulgação, quer sobre o próprio PNM, quer sobre problemas ambientais;\n\nq) Propor a criação de centros de divulgação, acolhimento e informação e núcleos museológicos e assegurar a sua gestão;\n\nr) Colaborar com outras entidades oficiais ou privadas na organização de acções de divulgação ambiental;\n\ns) Promover o desporto ao ar livre e o contacto com a natureza."
+  },
+  "159303882": {
+   "fragment_id": "159303219",
+   "type": 1,
+   "heading": "Capítulo III — Administração financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Administração financeira e patrimonial"
+  },
+  "159303883": {
+   "fragment_id": "159303220",
+   "type": 11,
+   "heading": "Artigo 20.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Receitas\n\nConstituem receitas do PNM:\n\na) A dotação expressamente inscrita no orçamento geral da Região Autónoma da Madeira;\n\nb) As taxas de exploração de pousadas e abrigos de montanha a ele afectas e as receitas do aluguer de qualquer equipamento do Parque e da prestação de serviço do pessoal do mesmo, conforme fixado pelo Secretário Regional de Agricultura, Florestas e Pescas;\n\nc) Legados ou subsídios concedidos por qualquer entidade pública ou privada, nacional ou estrangeira, pessoa colectiva ou individual, quando exclusivamente declarado que se destinam a benefício do Parque;\n\nd) O produto das multas aplicadas em virtude da regulamentação do Parque e das indemnizações que lhe sejam atribuídas, bem como da venda dos instrumentos e produtos das infracções que sejam declarados perdidos a seu favor;\n\ne) Os juros de capitais depositados;\n\nf) O saldo de orçamentos anteriores."
+  },
+  "159303884": {
+   "fragment_id": "159303221",
+   "type": 11,
+   "heading": "Artigo 21.º — Taxas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Taxas de acesso\n\nSerão devidas taxas pelo acesso ao PNM, nos casos e montantes a tipificar pelo Plenário do Governo Regional."
+  },
+  "159303885": {
+   "fragment_id": "159303222",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "159303886": {
+   "fragment_id": "159303223",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "159303887": {
+   "fragment_id": "159303224",
+   "type": 11,
+   "heading": "Artigo 22.º — Quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Quadro\n\n1 - O pessoal do quadro do PNM é o constante do anexo II ao presente diploma, estando agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal de informática;\n\ne) Pessoal técnico-profissional;\n\nf) Pessoal administrativo;\n\ng) Pessoal operário;\n\nh) Pessoal auxiliar.\n\n2 - O regime aplicável ao pessoal do PNM é o genericamente estabelecido para os funcionários e agentes da administração pública regional, sem prejuízo do disposto nos números seguintes.\n\n3 - Para além das categorias do regime geral, nos termos do Decreto-Lei n.º 248/85, de 15 de Julho, alterado pelo Decreto-Lei n.º 2/93, de 8 de Janeiro, integram o grupo do pessoal auxiliar as seguintes categorias: tratador de animais, marinheiro, fiel de armazém e auxiliar de topógrafo.\n\n4 - O recrutamento para a categoria de fiel de armazém faz-se, mediante concurso, de entre indivíduos possuidores do curso geral do ensino secundário ou equivalente.\n\n5 - Sem prejuízo dos demais requisitos exigidos na lei, o provimento nas restantes categorias de ingresso do grupo de pessoal auxiliar faz-se, mediante concurso, de entre indivíduos possuidores da escolaridade obrigatória."
+  },
+  "159303888": {
+   "fragment_id": "159303225",
+   "type": 11,
+   "heading": "Artigo 23.º — Transporte e ajudas de custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transporte e ajudas de custo\n\nO director do PNM e os membros das comissões consultiva e científica têm direito a transporte e ajudas de custo, quando para exercício das suas funções tenham de deslocar-se das respectivas residências."
+  },
+  "159303889": {
+   "fragment_id": "159303226",
+   "type": 8,
+   "heading": "Secção II — Corpo de Vigilantes da Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Corpo de Vigilantes da Natureza"
+  },
+  "159303890": {
+   "fragment_id": "159303227",
+   "type": 11,
+   "heading": "Artigo 24.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Estatuto\n\nÉ aprovado o estatuto do CVN, publicado no anexo III ao presente diploma, do qual faz parte integrante."
+  },
+  "159303891": {
+   "fragment_id": "159303228",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "159303892": {
+   "fragment_id": "159303229",
+   "type": 11,
+   "heading": "Artigo 25.º — Transição do pessoal afecto ao PNM em regime de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Transição do pessoal afecto ao PNM em regime de instalação\n\n1 - O pessoal que à data da entrada em vigor do presente diploma se encontre afecto ao PNM transitará, mediante lista nominativa, para os lugares do quadro a que se reporta o n.º 1 do artigo 22.º, sem quaisquer outras formalidades, à excepção do visto da Secção Regional do Tribunal de Contas.\n\n2 - A referida transição será realizada para lugares de idêntica categoria e funções, sem perda de direitos e regalias, designadamente antiguidade na função pública e descontos para a Caixa Geral de Aposentações, Montepio dos Servidores do Estado ou quaisquer outros organismos de previdência e segurança social."
+  },
+  "159303893": {
+   "fragment_id": "159303230",
+   "type": 11,
+   "heading": "Artigo 26.º — Legislação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Legislação complementar\n\nPara além do disposto no presente diploma, o PNM rege-se ainda pelo disposto no Decreto Regional n.º 14/82/M, de 10 de Novembro, que o criou, bem como pela legislação posterior que se lhe reporta, designadamente o Decreto Legislativo Regional n.º 23/86/M, de 4 de Outubro, que cria a Reserva Natural Parcial do Garajau, o Decreto Legislativo Regional n.º 14/90/M, de 23 de Maio, que cria a Área de Protecção Especial das Ilhas Desertas, a Lei n.º 13/86, de 21 de Maio, relativa à Reserva Natural das Ilhas Selvagens, e demais legislação complementar."
+  },
+  "159303894": {
+   "fragment_id": "159303231",
+   "type": 11,
+   "heading": "Artigo 27.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Legislação subsidiária\n\nEm tudo o que não estiver especialmente regulado no presente diploma, em matéria de regime retributivo, aplica-se subsidiariamente o Decreto-Lei n.º 353-A/89, de 16 de Outubro, e demais legislação complementar."
+  },
+  "159303895": {
+   "fragment_id": "159303232",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 4 de Março de 1993.\n\nO Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.\n\nAssinado em 25 de Março de 1993.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.\n\nAnexo I ao Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do Serviço do Parque Natural da Madeira\n\nLimites do Parque Natural da Madeira\n\nMemória descritiva\n\nA linha de delimitação da área do Parque Natural da Madeira sobe do leito da ribeira da Janela, pelo leito do córrego que na margem esquerda desce da Borda da Ladeira para o Sítio da Roçadinha ou Roçada de Baixo, ao encontro da levada da central da ribeira da Janela, onde existe uma descarga desta levada, acompanha esta levada até à represa da dita central e segue ao longo do caminho de acesso daquela represa e depois pelo caminho da Junqueira até ao cruzamento deste com o caminho do Lombo, o qual sobe até às Cancelas.\n\nDas Cancelas segue até às Portas da Vila pelo caminho que acompanha a Levada do Moinho até ao Sítio do Moinho e daí até ao mar, por águas pendentes da margem direita da ribeira do Tristão.\n\nSegue ao longo da costa até à foz da ribeira do Tristão e pelo leito desta até à confluência com a ribeira do Calvário, a qual sobe até ao seu cruzamento com a Levada Grande ou do Moinho.\n\nAcompanha a Levada Grande ou do Moinho até que esta se encontra com a ribeira do Cabouco, desce deste ponto de encontro até ao mar pelo leito da ribeira do Cabouco, acompanha a linha da costa até à foz da ribeira dos Eiroses, sobe pelo leito desta ribeira até à confluência com a ribeira do Cabo e daí segue pelo leito desta ribeira pela estrada regional.\n\nDo cruzamento da ribeira do Cabo com a estrada regional segue depois ao longo da estrada até que esta se cruze, um pouco além do quilómetro 115, com a Levada Nova e a partir deste ponto acompanha esta levada até que ela volte a cruzar-se com a dita estrada, um pouco adiante do quilómetro 124.\n\nDaqui, do cruzamento da Levada Nova com a estrada regional, cerca do quilómetro 124, acompanha esta estrada até que, um pouco além do quilómetro 128, se cruza com a ribeira de São João.\n\nDo cruzamento da estrada regional com a ribeira de São João desce pelo leito desta ribeira até ao mar e, pela linha de costa até à foz da ribeira da Cova, sobe pelo leito desta ribeira até ao cruzamento dele com a Levada Nova e por esta até à ribeira da Calheta e até à encosta poente da ribeira da Ponta do Sol.\n\nDaqui desce até ao leito da ribeira da Ponta do Sol pela cumeada do Lombo da Junça, que fica fronteiro ao córrego do Lanço Escuro, sobe este córrego até à Levada Nova e acompanha esta ao ribeiro da Fajã das Vacas.\n\nSobe o rio da Fajã das Vacas até ao Lombo da Quinta no caminho que do Jangão dá acesso à Bica da Cana e desce depois pelo caminho que liga o Lombo da Quinta ao Sítio do Jogo da Bola, no cume da encosta fronteira.\n\nDesce pelo caminho da Candelária até ao Rochão e logo flecte em direcção à Levada Nova, na encosta da margem direita da ribeira da Tabua, pela cumeeira do Lombo da Isca, até que encontra a dita levada.\n\nAcompanha a Levada Nova até ao cruzamento desta com o primeiro córrego da margem esquerda da ribeira da Tabua e sobe este córrego até ao seu cruzamento com a Levada do Lombo do Mouro.\n\nDesce depois pelo caminho que acompanha a Levada do Lombo do Mouro até ao tanque que fica à margem deste caminho cerca de 250 m acima do seu cruzamento com a vereda que liga a Fajã do Trigo à Fajã da Urtiga.\n\nDeste ponto desce pela cumeeira do Lombo dos Picos e Rocha da Menina até ao leito da ribeira da serra de Água, atravessa este e sobe na encosta fronteira pelo córrego do Caldeirão até ao cruzamento deste com a Levada do Norte.\n\nAcompanha desde aí a Levada do Norte até à ribeira da Quinta Grande e deste ponto de encontro da Levada do Norte com a ribeira da Quinta Grande continua ao longo da estrada regional até que esta cruza com o primeiro córrego que encontra na margem esquerda do ribeiro da Caldeira.\n\nDeste ponto sobe até à cumeeira do Lombo do Pau Branco, ao longo do dito córrego, ao encontro do ponto mais próximo da Levada da Rouca, desde aí acompanha esta levada até ao tanque situado na Boca da Corrida, na margem esquerda da ribeira do Jardim.\n\nDeste tanque segue para sul pela Levada da Serra até ao Lombo do Empena e daí, pelo caminho do Marco, até à Boca dos Namorados, de onde desce pelo caminho dos Bois e pelo caminho do Covão até às Rochas Altas.\n\nDas Rochas Altas desce até ao leito da ribeira dos Socorridos pelo córrego das Arremelas e desce o leito da ribeira dos Socorridos até à confluência desta com o seu afluente ribeira da Lapa, na margem esquerda.\n\nSobe pela ribeira da Lapa até à confluência com o seu afluente da margem esquerda, que passa pelo Sítio da Estrela, sobe por ele até à estrada de acesso ao Curral das Freiras e desce por esta até encontrar o caminho do Redondo.\n\nSegue pelo caminho do Redondo até onde chamam «Moitadas» e daí, em linha recta, até à Fonte Nateiro, donde continua ao longo da Levada da Negra até ao tanque do Pastel.\n\nDo tanque do Pastel segue em linha recta a encabeçar na levada que passa na cumeeira do Lombo do João Boieiro e vem do Montado da Alegria, acompanha esta levada até ao Pico das Pedras e deste pico desce, pelo cimo da escarpa da margem direita da ribeira de Santa Luzia, até à Rocha da Fonte do Risco.\n\nDa Rocha da Fonte do Risco desce até ao ponto de confluência do ribeiro do Pisão com a ribeira de Santa Luzia, de onde segue até à Rocha da Caldeira e daí pelo cimo da encosta da margem esquerda do ribeiro do Pisão até um ponto do caminho de acesso à Casa do Pisão situado ao lado da única casa particular existente à margem desse caminho e daí segue o caminho até que ele entronca na estrada Funchal-Poiso, cerca do quilómetro 7.\n\nDesce desde aquele ponto por aquela estrada até ao Terreiro da Luta e daqui vai pela estrada dos Pretos até ao cruzamento desta com a Levada de São Martinho.\n\nDo ponto de encontro da estrada dos Pretos com a Levada de São Martinho sobe por esta levada até à estrema do perímetro florestal das serras do Poiso e segue ao longo desta até ao seu cruzamento com o caminho florestal do Santo da Serra para o Poiso.\n\nDeste ponto de encontro da linha periférica do perímetro florestal das serras do Poiso com o caminho florestal do Santo da Serra para o Poiso segue a linha de delimitação do Parque Natural da Madeira, a Levada da Serra do Faial até ao cruzamento desta com o ramal do caminho florestal das Carreiras aos Lameiros que serve o Lombo da Raiz e, a partir daí, o referido caminho florestal até ao ponto em que este entronca na estrada da Portela para o Santo da Serra do Sítio do Lombo das Faias.\n\nSegue a partir daí a estrada da Portela para o Santo da Serra até à Portela e daí vai pela Levada da Formiga até ao seu cruzamento com o ramal da Levada da Portela, que serve a Achada, sobe este ramal até ao Cabeço do Cura e daí acompanha o limite do perímetro florestal até à ribeira das Cales.\n\nDesce depois a ribeira das Cales até que esta se cruza com a Levada do Caniçal e acompanha esta desde aí até à boca oeste do túnel da estrada de acesso ao Caniçal.\n\nDa boca oeste do túnel da estrada de acesso ao Caniçal segue uma linha à cota de 230 m envolvendo o Pico do Facho até à boca este do referido túnel, donde acompanha novamente a Levada do Caniçal até ao ponto em que esta cruza o caminho da Palmeira ou da Banda de Além, segue este caminho ao encontro do córrego da Vinha, atravessando este até encontrar o limite oeste da Zona Franca Industrial.\n\nSegue por este em direcção a norte ao seu extremo, continuando no mesmo limite pelas arribas a norte até juntar no seu extremo nordeste; desce depois em direcção ao sul sempre no limite da Zona Franca Industrial até encontrar a estrada regional da Ponta de São Lourenço, seguindo pela mesma direcção a sudoeste, continuando no limite da Zona Franca Industrial até ao mar. Segue sempre a linha de costa até à Ponta de São Lourenço.\n\nSobe pelo leito deste córrego até ao cimo da falésia que ali bordeja a costa e depois corre ao longo da ribeira do Arvoredo até ao ponto em que esta se encontra com o caminho que vai até à Maiata de Cima, segue por este até ao encontro com o caminho do Prado e logo pelo caminho antigo da Rocha Branca até ao ponto em que este se encontra com o caminho do Folhadal, subindo então desde aí até à estrada que desce da Portela para o Porto da Cruz.\n\nDeste ponto de encontro do caminho do Folhadal com a estrada que desce da Portela para o Porto da Cruz desce esta estrada até que esta atravessa a Levada Nova e desde esse ponto segue para leste, ao longo desta levada, até que ela se encontra com o córrego das Fontes, sobe este córrego, passa pelo Curralinho e desce para o leito da ribeira de São Roque do Faial ao longo do ribeiro do Eixo.\n\nDo ponto de confluência do ribeiro do Eixo com a ribeira de São Roque do Faial sobe pelo leito desta até à confluência com o ribeiro do Caldeirão e depois daí, pelo leito deste ribeiro, até ao ponto da estrada regional donde sai o caminho de acesso a São Roque do Faial.\n\nDeste ponto, cerca do quilómetro 22 da estrada Funchal-Poiso-Santana, desce ao longo desta estrada até às Cruzinhas e daqui segue ao encontro da Levada das Travessas pelo caminho que, passando sucessivamente pelo Limoeiro, Fajã da Murta, Pico do Lombo Galego, Lombo Galego e Cova da Roda, vai até Santana, e logo que se encontra com aquela levada segue ao longo dela até que encontra a ribeira das Travessas, afluente da margem direita da ribeira dos Arcos, pelo leito da qual desce até à cota dos 450 m, seguindo desse ponto para norte até ao Cabeço do Loiral, sempre na beira da falésia que aí constitui a margem direita da dita ribeira dos Arcos.\n\nDo Cabeço do Loiral desce para o Sítio do Loiral e daí para o Sítio da Fajã Alta e da Achada do Pico, de onde segue para oeste, pelo caminho da Achadinha, ao encontro do caminho da Achada do Vigário, desce por este até que encontra o caminho da Câmara e continua ao longo dele até à estrada regional e por esta até que encontra a ribeira Funda.\n\nSobe pelo leito da ribeira Funda até ao Tanque da Queimadinha, também conhecido por Poços do Tanque, e daí em linha recta até ao córrego da Terra do Pereiro, por cujo leito desce até à estrada regional. Fica igualmente incluído neste limite o ilhéu da Viúva ou da Rocha do Navio, no concelho de Santana.\n\nDo ponto anterior, segue pela estrada regional até que, cerca do quilómetro 65,3, encontra, à esquerda da mesma estrada, uma vereda que sobe em direcção ao extremo do caminho que vem dos Casais; sobe esta vereda e desde o ponto em que ela encontra o dito caminho que vem dos Casais vai até à estrada regional, à cota dos 250 m, e segue por ela até à boca leste do túnel que liga o Arco de São Jorge ao vale de Boaventura.\n\nDaquele ponto passa a boca oeste do mesmo túnel galgando a cumeada da serra na perpendicular do leito do dito túnel e daí segue ao longo da Levada da Achada até ao cruzamento desta com a ribeira de João Fernandes.\n\nDesce pelo leito da ribeira de João Fernandes até à sua confluência com a ribeira do Porco e daí sobe pelo leito desta ribeira até à origem da Levada da Achada Grande, seguindo desde aí ao longo desta levada até ao seu termo e continuando, à cota dos 450 m, até à ribeira dos Moinhos.\n\nDesce o leito da ribeira dos Moinhos até ao córrego da sua margem esquerda, em que tem origem a Levada Grande, sobe este córrego até ao começo daquela levada e continua depois ao longo da dita levada até ao Sítio da Roca.\n\nDo Sítio da Roca segue, à cota dos 350 m, até ao córrego que desce das Muralhas, ou Muranhas, pelo leito do qual sobe até ao «pé da rocha», deste ponto continua pelo «pé da rocha» e, pela cota dos 450 m, alcança o caminho do Lombo, que desce até ao encontro dele com a estrada que vem de Ponta Delgada para as Lombadas.\n\nDaquele ponto desce pelo caminho de acesso ao Portal da Negra até ao ribeiro do Velho, à cota dos 300 m, seguindo daí por esta cota até à Rocha das Lapas, na encosta da margem direita da ribeira de São Vicente.\n\nDesde ali acompanha o limite do perímetro florestal das serras de São Vicente, Ponta Delgada e Boaventura até ao Sítio do Cascalho, donde segue depois de atravessar a ribeira, pela cumeeira da Rocha, que delimita o Sítio do Piorno, sobranceiro ao Sítio da Madeira até ao caminho do Sítio da Madeira, que foi alargado pelos Serviços Florestais, a norte do Chão dos Louros, subindo este caminho até à estrada que desce da Encumeada para São Vicente.\n\nDesce daquele ponto por aquela estrada até à cota dos 550 m e, seguindo a curva de nível correspondente a esta, segue para poente até que encontra um ponto além do córrego do Loural, a Levada da Fajã do Rodrigues, a qual acompanha até à boca do túnel, virada a São Vicente.\n\nDeste ponto segue pelo «pé da rocha» até ao córrego das Fontainhas, o qual desce a cota dos 250 m até ao cruzamento da levada que o atravessa mais baixa e segue daí essa levada até ao «pé da rocha».\n\nSegue depois pelo «pé da rocha» até à foz da ribeira do Inferno e daí, pela linha da costa, até à Ponta do Poiso, pela cumeeira da qual sobe até encontrar a estrada regional, cerca do quilómetro 90.\n\nContinua pela estrada regional até encontrar o caminho florestal de acesso ao Chão da Ribeira e sobe por este caminho cerca de 1300 m.\n\nDo quilómetro 1,3 daquele caminho florestal segue por uma linha recta orientada no sentido da boca do túnel das Contreiras, que passa por cima de dois palheiros até ao «pé da rocha» da margem esquerda da ribeira do Seixal, seguindo por ele até ao córrego que atravessa a estrada regional ao quilómetro 93 e desce por este córrego até ao mar.\n\nContinua pela linha da costa até à foz do ribeiro Escuro e sobe pelo leito deste ribeiro até que encontra o caminho do Cascalho, sobe por este até à cota dos 600 m e a este nível vai ao encontro do ribeiro do Cabouco.\n\nDesce o ribeiro do Cabouco até à cota dos 480 m e a este nível vai ao encontro do ribeiro do Paiol, pelo leito do qual desce até ao leito da ribeira da Janela.\n\nE pelo leito da ribeira da Janela desce até à confluência deste com o seu afluente da margem esquerda, onde teve início.\n\nAnexo II ao Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do Serviço do Parque Natural da Madeira\n\n(ver documento original)\n\nAnexo III ao Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do Serviço do Parque Natural da Madeira\n\nEstatuto do Corpo de Vigilantes da Natureza (CVN)"
+  },
+  "159303896": {
+   "fragment_id": "159303233",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e âmbito de aplicação"
+  },
+  "159303897": {
+   "fragment_id": "159303234",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito e objecto de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objecto de aplicação\n\n1 - O presente diploma consagra o estatuto do Corpo de Vigilantes da Natureza, adiante designado por CVN, a que se reporta o n.º 4, alínea a), do artigo 3.º do Decreto Regulamentar Regional n.º 13/93/M, que aprova a orgânica do Parque Natural da Madeira (PNM).\n\n2 - O CVN é constituído pelo corpo de efectivos da carreira de vigilante da natureza.\n\n3 - A carreira de vigilante da natureza desenvolve-se pelas categorias descritas no anexo II ao Decreto Regulamentar Regional n.º 13/93/M, que igualmente consagra a respectiva escala salarial."
+  },
+  "159303898": {
+   "fragment_id": "159303235",
+   "type": 1,
+   "heading": "Capítulo II — Natureza, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Natureza, atribuições e competências"
+  },
+  "159303899": {
+   "fragment_id": "159303236",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO CVN é um serviço auxiliar de polícia do Serviço do Parque Natural da Madeira, exercendo atribuições e competências na dependência directa do director do PNM."
+  },
+  "159303900": {
+   "fragment_id": "159303237",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nConstituem atribuições do CVN, designadamente:\n\na) Zelar pelo cumprimento das leis e regulamentos relativos à protecção e conservação da natureza e do ambiente, no quadro das atribuições desenvolvidas pelo PNM;\n\nb) Exercer funções de fiscalização e vigilância nas áreas afectas ao PNM;\n\nc) Sensibilizar as populações no sentido de compatibilizar o desenvolvimento e o bem-estar dos residentes com a preservação das características tradicionais da área protegida;\n\nd) Participar em acções de informação e educação ambiental junto das populações."
+  },
+  "159303901": {
+   "fragment_id": "159303238",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\nCompete, designadamente, ao CVN:\n\na) Zelar pelo cumprimento das leis e regulamentos relativos à protecção e conservação da natureza, nas áreas do PNM a definir por despacho do Secretário Regional de Agricultura, Florestas e Pescas, ouvidos o director do PNM e o director regional da Direcção Regional de Florestas, participando qualquer infracção e levantando auto de notícia;\n\nb) Zelar pela segurança dos visitantes, acompanhá-los, orientando-os e prestando-lhes os esclarecimentos necessários à boa compreensão e interpretação dos recursos e finalidades do PNM, nomeadamente das reservas e áreas classificadas;\n\nc) Vigiar e providenciar pelo estado de conservação dos percursos, infra-estruturas e equipamentos, procurando a boa conservação e limpeza dos mesmos, executando trabalhos de protecção ou recuperação dos recursos existentes na área do PNM e acompanhando obras em curso;\n\nd) Colher e registar os elementos que lhe sejam solicitados para estudos, designadamente os respeitantes à flora, fauna, paisagem, usos e costumes ou práticas culturais no interior das áreas protegidas;\n\ne) Participar em acções de informação e sensibilização, colaborando com as povoações situadas nas áreas do PNM, com vista à melhoria da qualidade de vida das mesmas na sua relação com a natureza e o ambiente;\n\nf) Contribuir para a detecção e combate aos incêndios;\n\ng) Colaborar com outros organismos que exerçam funções de fiscalização nas áreas do PNM, requerendo o auxílio de outras entidades, nomeadamente policiais, sempre que necessário."
+  },
+  "159303902": {
+   "fragment_id": "159303239",
+   "type": 1,
+   "heading": "Capítulo III — Da carreira de vigilante da natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da carreira de vigilante da natureza"
+  },
+  "159303903": {
+   "fragment_id": "159303240",
+   "type": 11,
+   "heading": "Artigo 5.º — Ingresso e acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ingresso e acesso\n\n1 - O recrutamento para as categorias de vigilante da natureza especialista principal e de vigilante da natureza especialista faz-se, respectivamente, por concurso de entre vigilantes da natureza especialista com, pelo menos, três anos na categoria e vigilantes da natureza de 1.ª classe posicionados no 3.º escalão ou superior e classificação de serviço não inferior a Bom.\n\n2 - O recrutamento para a categoria de vigilante da natureza de 2.ª classe faz-se de entre indivíduos habilitados com o 9.º ano de escolaridade ou equiparado, após aprovação em estágio."
+  },
+  "159303904": {
+   "fragment_id": "159303241",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime de estágio\n\n1 - A admissão ao estágio faz-se de entre indivíduos habilitados com o 9.º ano de escolaridade ou habilitação equiparada e que reúnam os requisitos gerais e especiais de provimento, com idade não superior a 28 anos, à data de abertura do concurso.\n\n2 - O número de indivíduos admitidos a estágio não pode ultrapassar em mais de 15% o número de lugares vagos na respectiva categoria de ingresso.\n\n3 - O estágio tem a duração de um ano, findo o qual os estagiários aprovados são ordenados em função da classificação atribuída por júri, nomeado para o efeito, e providos a título definitivo.\n\n4 - O estágio inclui um curso de formação específico para a carreira, a ministrar pelo Serviço do Parque Natural da Madeira, nos termos de regulamento a aprovar por portaria do Secretário Regional de Agricultura, Florestas e Pescas, sob proposta do director do PNM.\n\n5 - Os estagiários que não obtiverem aproveitamento regressarão ao lugar de origem ou ser-lhes-ão imediatamente rescindidos os contratos sem direito a qualquer indemnização, consoante se trate de indivíduos vinculados ou não à função pública."
+  },
+  "159303905": {
+   "fragment_id": "159303242",
+   "type": 11,
+   "heading": "Artigo 7.º — Descongelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Descongelamento\n\nO provimento na categoria de ingresso na carreira de vigilante da natureza será objecto de despacho conjunto de descongelamento, nos termos da lei em vigor, sem prejuízo da admissão de estagiários, nos termos da lei geral."
+  },
+  "159303906": {
+   "fragment_id": "159303243",
+   "type": 11,
+   "heading": "Artigo 8.º — Suplemento de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Suplemento de risco\n\n1 - O pessoal da carreira de vigilante da natureza tem direito a um suplemento de risco, abonável em 12 mensalidades, no montante de 14200$00 cada uma, o qual é actualizável na percentagem do aumento anual de vencimentos da função pública.\n\n2 - O suplemento a que se reporta o número anterior é considerado para efeitos da alínea b) do n.º 1 do artigo 47.º do Decreto-Lei n.º 498/72, de 9 de Dezembro.\n\n3 - O direito ao suplemento mantém-se apenas nas seguintes situações de ausência:\n\na) Férias;\n\nb) Faltas por acidente em serviço ou doença profissional;\n\nc) Faltas para exercício de actividade sindical;\n\nd) Faltas por isolamento profiláctico."
+  },
+  "159303907": {
+   "fragment_id": "159303244",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos dos estagiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direitos dos estagiários\n\nO pessoal em regime de estágio tem direito às regalias previstas no artigo anterior, bem como de acesso aos sistemas de segurança social e de apoio na doença, através da inscrição na Caixa Geral de Aposentações, Montepio dos Servidores do Estado e Direcção-Geral de Protecção Social dos Funcionários e Agentes da Administração Pública (ADSE), em termos idênticos ao restante pessoal da carreira de vigilante da natureza."
+  },
+  "159303908": {
+   "fragment_id": "159303245",
+   "type": 11,
+   "heading": "Artigo 10.º — Fardamento e identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fardamento e identificação\n\nO pessoal da carreira de vigilante da natureza no exercício das suas funções e o pessoal em regime de estágio é obrigado a apresentar-se devidamente identificado e fardado, em conformidade com o prescrito em regulamento a aprovar por portaria do Secretário Regional de Agricultura, Florestas e Pescas, onde serão definidos o modelo do respectivo cartão de identidade, bem como modelo e tipos de fardamento e respectivas comparticipações."
+  },
+  "159303909": {
+   "fragment_id": "159303246",
+   "type": 11,
+   "heading": "Artigo 11.º — Aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aposentação\n\nO pessoal da carreira de vigilante da natureza pode requerer a passagem à situação de aposentado logo que atinja 55 anos de idade."
+  },
+  "159303910": {
+   "fragment_id": "159303247",
+   "type": 11,
+   "heading": "Artigo 12.º — Trabalho semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Trabalho semanal\n\n1 - A semana de trabalho do pessoal da carreira de vigilante da natureza é de cinco dias e tem a duração de quarenta horas.\n\n2 - São considerados dias normais de trabalho todos os dias da semana, incluindo sábados, domingos e feriados.\n\n3 - Os dias de descanso semanal e descanso complementar são definidos na programação de serviço a estabelecer mensalmente pelo Serviço do Parque Natural da Madeira, devendo, pelo menos uma vez por mês, fazer-se coincidir aqueles dias de descanso com o sábado e o domingo.\n\n4 - A programação a que se refere o número anterior pode ser alterada em casos excepcionais, devendo, em qualquer dos casos, ser comunicada aos interessados com a antecedência mínima de uma semana."
+  },
+  "159303911": {
+   "fragment_id": "159303248",
+   "type": 11,
+   "heading": "Artigo 13.º — Serviço permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Serviço permanente\n\n1 - O serviço do pessoal da carreira de vigilante da natureza considera-se de carácter permanente e obrigatório.\n\n2 - O pessoal, ainda que se encontre em período de folga ou descanso, deve tomar todas as providências necessárias para prevenir ou resolver sinistros, ocorrências e infracções inerentes às normas legais de conservação da natureza."
+  },
+  "159303912": {
+   "fragment_id": "159303249",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime especial de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime especial de trabalho\n\n1 - Sempre que o horário diário de trabalho coincida no todo ou em parte com o período de trabalho nocturno, a remuneração respectiva é acrescida nos termos do n.º 3 do artigo 27.º do Decreto-Lei n.º 187/88, de 27 de Maio.\n\n2 - As situações de trabalho extraordinário e a prestação de trabalho em dias de descanso semanal e descanso complementar, programadas nos termos do artigo 12.º, bem como nos dias feriados, são igualmente remuneradas nos termos do Decreto-Lei n.º 187/88."
+  },
+  "159303913": {
+   "fragment_id": "159303250",
+   "type": 11,
+   "heading": "Artigo 15.º — Residência oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Residência oficial\n\n1 - Para efeitos do disposto no Decreto-Lei n.º 519-M/79, de 28 de Dezembro, considera-se residência oficial a área protegida onde o funcionário exerce as suas funções.\n\n2 - Os estagiários que tenham concluído com aproveitamento o respectivo estágio são colocados, de acordo com as necessidades de serviço, nas áreas referidas no número anterior, independentemente dos locais de realização do estágio."
+  },
+  "159303914": {
+   "fragment_id": "159303251",
+   "type": 11,
+   "heading": "Artigo 16.º — Ajudas de custo ao pessoal destacado nas ilhas Desertas e Selvagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Ajudas de custo ao pessoal destacado nas ilhas Desertas e Selvagens\n\n1 - O disposto no n.º 1 do artigo anterior não se aplica ao pessoal destacado em serviço nas ilhas Desertas e Selvagens.\n\n2 - O pessoal da carreira de vigilante da natureza destacado em serviço nas ilhas a que se reporta o número anterior tem direito a ajudas de custo, no montante resultante da legislação em vigor, à matéria aplicável."
+  },
+  "159303915": {
+   "fragment_id": "159303252",
+   "type": 11,
+   "heading": "Artigo 17.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Patrocínio judiciário\n\nO pessoal da carreira de vigilante da natureza tem direito a receber da Região Autónoma da Madeira, através do Serviço do Parque Natural da Madeira, patrocínio judiciário e assistência, que se traduz na dispensa do pagamento de preparos e custos e das demais despesas do processo, para defesa dos seus direitos e do seu bom nome e reputação, sempre que estes sejam afectados no âmbito ou por causa do serviço."
+  },
+  "159303916": {
+   "fragment_id": "159303253",
+   "type": 1,
+   "heading": "Capítulo IV — Regime disciplinar e recompensas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime disciplinar e recompensas"
+  },
+  "159303917": {
+   "fragment_id": "159303254",
+   "type": 8,
+   "heading": "Secção I — Regime disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regime disciplinar"
+  },
+  "159303918": {
+   "fragment_id": "159303255",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime disciplinar e deveres funcionais especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime disciplinar e deveres funcionais especiais\n\n1 - Ao pessoal do CVN é aplicável o regime disciplinar geral da função pública.\n\n2 - Para além dos deveres gerais decorrentes do regime a que se reporta o número anterior, constituem deveres especiais do CVN, no âmbito da sua actuação funcional:\n\na) Dever de isenção;\n\nb) Dever de zelo;\n\nc) Dever de obediência;\n\nd) Dever de lealdade;\n\ne) Dever de correcção."
+  },
+  "159303919": {
+   "fragment_id": "159303256",
+   "type": 11,
+   "heading": "Artigo 19.º — Dever de isenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dever de isenção\n\nO dever de isenção consiste em não retirar vantagens directas ou indirectas, pecuniárias ou outras, das funções exercidas, actuando com independência, no respeito pelo princípio da igualdade dos cidadãos perante a lei."
+  },
+  "159303920": {
+   "fragment_id": "159303257",
+   "type": 11,
+   "heading": "Artigo 20.º — Dever de zelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Dever de zelo\n\nO dever de zelo consiste em conhecer as normas legais e regulamentares e as instruções de serviço, bem como adquirir e aperfeiçoar conhecimentos e métodos de trabalho, de modo a exercer as funções com eficiência e correcção."
+  },
+  "159303921": {
+   "fragment_id": "159303258",
+   "type": 11,
+   "heading": "Artigo 21.º — Dever de obediência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Dever de obediência\n\nO dever de obediência consiste em acatar prontamente as ordens de serviço legalmente recebidas."
+  },
+  "159303922": {
+   "fragment_id": "159303259",
+   "type": 11,
+   "heading": "Artigo 22.º — Dever de lealdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Dever de lealdade\n\nO dever de lealdade consiste em desempenhar as funções subordinando a respectiva actuação aos interesses institucionais do serviço e à realização do interesse público."
+  },
+  "159303923": {
+   "fragment_id": "159303260",
+   "type": 11,
+   "heading": "Artigo 23.º — Dever de correcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Dever de correcção\n\nO dever de correcção consiste em tratar com respeito e consideração o público em geral, os superiores hierárquicos e os colegas."
+  },
+  "159303924": {
+   "fragment_id": "159303261",
+   "type": 8,
+   "heading": "Secção II — Recompensas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Recompensas"
+  },
+  "159303925": {
+   "fragment_id": "159303262",
+   "type": 11,
+   "heading": "Artigo 24.º — Elogios e louvores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Elogios e louvores\n\nPara distinguir o comportamento exemplar e o zelo excepcional e para destacar actos de relevo social e profissional podem ser atribuídas as seguintes recompensas:\n\na) Elogio;\n\nb) Louvor."
+  },
+  "159303926": {
+   "fragment_id": "159303263",
+   "type": 11,
+   "heading": "Artigo 25.º — Elogio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Elogio\n\n1 - O elogio destina-se a premiar os que, pela sua exemplar conduta, compostura e aprumo, se tornem merecedores de distinção.\n\n2 - A competência para concessão do elogio é do director do Serviço do Parque Natural da Madeira."
+  },
+  "159303927": {
+   "fragment_id": "159303264",
+   "type": 11,
+   "heading": "Artigo 26.º — Louvor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Louvor\n\n1 - O louvor destina-se a galardoar actos importantes e dignos de relevo e é concedido aos que tenham demonstrado zelo excepcional no cumprimento dos seus deveres.\n\n2 - A competência para a concessão do louvor é do Secretário Regional de Agricultura, Florestas e Pescas, sob proposta do director do Serviço do Parque Natural da Madeira."
+  },
+  "159303928": {
+   "fragment_id": "159303265",
+   "type": 11,
+   "heading": "Artigo 27.º — Efeitos das recompensas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Efeitos das recompensas\n\n1 - A concessão das recompensas previstas no presente diploma é publicada em ordem de serviço e registada no processo individual do recompensado.\n\n2 - Aos indivíduos distinguidos pelas recompensas a que se reporta o artigo 24.º do presente diploma poderão ser atribuídas condecorações e medalhas, em conformidade com o disposto em regulamento a aprovar por portaria do Secretário Regional de Agricultura, Florestas e Pescas."
+  },
+  "159303929": {
+   "fragment_id": "159303266",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "159303930": {
+   "fragment_id": "159303267",
+   "type": 11,
+   "heading": "Artigo 28.º — Admissão a estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Admissão a estágio\n\nSerão admitidos ao primeiro concurso para o estágio a que se reporta o artigo 6.º do presente diploma os indivíduos que tenham exercido funções de vigilante da natureza ou guarda da natureza no Serviço do Parque Natural da Madeira por mais de sete anos consecutivos enquanto em regime de instalação, independentemente dos requisitos exigidos no n.º 1 do referido artigo."
+  },
+  "159303931": {
+   "fragment_id": "159303268",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente diploma entra em vigor no mesmo dia em que entra o Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do PNM, do qual é parte integrante."
+  },
+  "159303944": {
+   "fragment_id": "159304277",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos e serviços\n\n1 - São órgãos do PNM:\n\na) O director;\n\nb) A comissão consultiva;\n\nc) A comissão científica.\n\n2 - Integra o PNM o seguinte serviço de apoio técnico-administrativo: Departamento de Serviços Administrativos (DSA).\n\n3 - Integram o PNM os seguintes serviços operativos:\n\na) Divisão de Conservação da Natureza (DCN);\n\nb) Divisão de Ordenamento, Projectos e Educação Ambiental (DOPEA).\n\n4 - Integra o PNM o seguinte serviço auxiliar de polícia: Corpo de Vigilantes da Natureza (CVN), cujo estatuto consta do anexo III ao presente diploma, do qual faz parte integrante.\n\n5 - Os serviços a que se reportam os n.os 2 e 4 do presente artigo dependem directamente do director do PNM."
+  },
+  "159303945": {
+   "fragment_id": "159303197",
+   "type": 8,
+   "heading": "Secção I — Do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do director"
+  },
+  "159303946": {
+   "fragment_id": "159303199",
+   "type": 8,
+   "heading": "Secção II — Da comissão consultiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da comissão consultiva"
+  },
+  "159303947": {
+   "fragment_id": "159303206",
+   "type": 8,
+   "heading": "Secção III — Da comissão científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da comissão científica"
+  },
+  "159303952": {
+   "fragment_id": "159303213",
+   "type": 8,
+   "heading": "Secção IV — Departamento de serviços administrativos",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "#### Secção IV — Departamento de serviços administrativos\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+  },
+  "159303935": {
+   "fragment_id": "159303214",
+   "type": 11,
+   "heading": "Artigo 17.º — Natureza e competências",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 17.º — Natureza e competências\n\n1 - O DSA é o serviço de apoio administrativo ao PNM.\n\n2 - Compete, designadamente, ao DSA:\n\na) Assegurar o registo, encaminhamento e arquivo do expediente;\n\nb) Organizar e manter actualizada a contabilidade do PNM;\n\nc) Assegurar a aquisição do material necessário ao funcionamento do PNM, organizando e mantendo actualizado o respectivo cadastro;\n\nd) Coordenar racional e equilibradamente a utilização de todas as máquinas, viaturas e outro equipamento mecânico afectos ao PNM;\n\ne) Emitir pareceres técnicos sobre a aquisição de máquinas, viaturas e outro equipamento mecânico;\n\nf) Organizar os processos relativos à gestão do pessoal do PNM;\n\ng) Assegurar o normal funcionamento do PNM em tudo o que não seja da competência específica dos demais órgãos e serviços do PNM.\n\n3 - O DSA integra as seguintes secções:\n\na) Secção de Pessoal, Expediente e Arquivo;\n\nb) Secção de Contabilidade, Património e Aprovisionamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+  },
+  "159303949": {
+   "fragment_id": "159303215",
+   "type": 8,
+   "heading": "Secção V — Divisão de Conservação da Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Divisão de Conservação da Natureza"
+  },
+  "159303936": {
+   "fragment_id": "159303216",
+   "type": 11,
+   "heading": "Artigo 18.º — Natureza e competências",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 18.º — Natureza e competências\n\n1 - A DCN é o serviço operativo do PNM com atribuições nos domínos da investigação e da protecção do património genético, da flora, da fauna e espécies em geral.\n\n2 - Compete, designadamente, à DCN:\n\na) Promover a investigação científica nos domínios da fauna, flora e geologia, em colaboração com organismos especializados, nacionais e estrangeiros, nomeadamente nas áreas de reserva natural integral ou parcial e reserva geológica e de vegetação de altitude;\n\nb) Promover a criação de novas reservas naturais integrais, parciais, geológicas e de vegetação de altitude, bem como regulamentar e assegurar a manutenção das existentes;\n\nc) Promover e colaborar em estudos, experiências ou realizações e assegurar o inventário dos valores naturais do PNM;\n\nd) Promover as acções necessárias à elaboração dos planos de ordenamento e regulamentação das áreas protegidas;\n\ne) Promover e executar programas de acção contra a erosão do solo e de defesa ao regime hídrico;\n\nf) Apoiar as reservas naturais das ilhas Desertas e Selvagens, do Garajau, bem como as que venham a ser futuramente criadas;\n\ng) Zelar pelo cumprimento na Região das convenções internacionais sobre fauna, flora e conservação da natureza que tenham sido ratificadas por Portugal e tenham aplicação à Região Autónoma da Madeira;\n\nh) Desenvolver as acções necessárias em vista à inventariação, controlo e erradicação das espécies de flora que apresentem características infestantes, nomeadamente nas áreas das reservas integrais, reservas parciais, geológicas e de vegetação de altitude;\n\ni) Proceder à inventariação dos locais e das espécies vegetais endémicas consideradas raras ou em vias de extinção e promover o incremento das mesmas;\n\nj) Fornecer à DOPEA os dados necessários à divulgação da fauna e flora indígenas, bem como outros elementos, nomeadamente geológicos;\n\nl) Executar os projectos de infra-estruturas elaborados pela DOPEA;\n\nm) Executar obras de recuperação, reparação ou beneficiação com vista à salvaguarda do património incluído nas áreas classificadas, nomeadamente monumentos ou edifícios de interesse público.\n\n3 - Junto da DCN funciona um serviço de apoio administrativo, chefiado por um chefe de departamento, ao qual compete coordenar todos os assuntos de natureza técnico-administrativa no âmbito da Divisão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+  },
+  "159303950": {
+   "fragment_id": "159303217",
+   "type": 8,
+   "heading": "Secção VI — Divisão de Ordenamento, Projectos e Educação Ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Divisão de Ordenamento, Projectos e Educação Ambiental"
+  },
+  "159303937": {
+   "fragment_id": "159303218",
+   "type": 11,
+   "heading": "Artigo 19.º — Natureza e competências",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 19.º — Natureza e competências\n\n1 - A DOPEA é o serviço operativo do PNM com atribuições nos domínios do ordenamento e da educação ambiental.\n\n2 - Compete, designadamente, à DOPEA:\n\na) Promover os projectos necessários à prossecução dos objectivos do PNM, nomeadamente no que respeita ao equipamento das reservas de recreio e montanha e zonas de repouso e silêncio;\n\nb) Preparar os planos de ordenamento do Parque e a regulamentação das áreas classificadas;\n\nc) Emitir pareceres sobre a realização de obras de edificação, abertura de estradas, caminhos ou outras vias de acesso e extracção de produtos inertes de qualquer natureza, a efectuar na área do PNM;\n\nd) Promover e coordenar trabalhos de topografia e desenho;\n\ne) Assegurar a existência e funcionamento de ficheiro actualizado de documentação e legislação regional, nacional e comunitária, bem como a que provenha de outros organismos ou associações que prossigam objectivos idênticos e que tratem em geral ou em especial da temática do ambiente, defesa e conservação da natureza;\n\nf) Contribuir, através do recurso à informática, para o aumento das estratégias disponíveis a nível de educação ambiental;\n\ng) Adquirir bibliografia e cartografia respeitante ao domínio ambiental, bem como orientar o seu arquivo e utilização;\n\nh) Criar e assegurar a manutenção e funcionamento de uma adequada base de dados sobre o ambiente, bem como proceder à elaboração de cartografia temática;\n\ni) Realizar os estudos técnico-económicos necessários à elaboração do planeamento e à definição da estratégia de desenvolvimento para o sector;\n\nj) Promover sócio-educativa e culturalmente a adesão das populações abrangidas pelas áreas do PNM em vista ao respeito pelas bases biofísicas e ecológicas do ambiente no quadro das tradições histórico-culturais e do habitat natural das referidas populações;\n\nl) Promover e executar programas sistemáticos de actividades no âmbito da educação ambiental das populações em geral;\n\nm) Proceder ao estudo de percursos e organizar visitas guiadas às áreas do PNM;\n\nn) Divulgar as áreas afectas ao PNM, seus valores e objectivos específicos;\n\no) Realizar acções de formação ambiental junto do público em geral e dos estabelecimentos de ensino em particular, destacando as actividades práticas;\n\np) Elaborar e distribuir material didáctico e de divulgação, quer sobre o próprio PNM, quer sobre problemas ambientais;\n\nq) Propor a criação de centros de divulgação, acolhimento e informação e núcleos museológicos e assegurar a sua gestão;\n\nr) Colaborar com outras entidades oficiais ou privadas na organização de acções de divulgação ambiental;\n\ns) Promover o desporto ao ar livre e o contacto com a natureza.\n\n3 - Junto da DOPEA funciona um serviço de apoio administrativo, chefiado por um chefe de departamento, ao qual compete coordenar todos os assuntos de natureza técnico-administrativa no âmbito da Divisão\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+  },
+  "159303951": {
+   "fragment_id": "159303224",
+   "type": 11,
+   "heading": "Artigo 22.º — Quadro",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 22.º — Quadro\n\n1 - O pessoal do quadro do PNM é o constante do anexo II ao presente diploma, estando agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal de informática;\n\ne) Pessoal técnico-profissional;\n\nf) Pessoal administrativo;\n\ng) Pessoal operário;\n\nh) Pessoal auxiliar.\n\n2 - O regime aplicável ao pessoal do PNM é o genericamente estabelecido para os funcionários e agentes da administração pública regional, sem prejuízo do disposto nos números seguintes.\n\n3 - Para além das categorias do regime geral, nos termos do Decreto-Lei n.º 248/85, de 15 de Julho, alterado pelo Decreto-Lei n.º 2/93, de 8 de Janeiro, integram o grupo do pessoal auxiliar as seguintes categorias: tratador de animais, marinheiro, fiel de armazém e auxiliar de topógrafo.\n\n4 - O recrutamento para a categoria de fiel de armazém faz-se, mediante concurso, de entre indivíduos possuidores do curso geral do ensino secundário ou equivalente.\n\n5 - Sem prejuízo dos demais requisitos exigidos na lei, o provimento nas restantes categorias de ingresso do grupo de pessoal auxiliar faz-se, mediante concurso, de entre indivíduos possuidores da escolaridade obrigatória.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+  },
+  "159303938": {
+   "fragment_id": "159304275",
+   "type": 11,
+   "heading": "Artigo 22.º-A — Chefes de departamento",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 22.º-A — Chefes de departamento\n\n1 - São criados no PNM três lugares de chefe de departamento, a extinguir quando vagarem.\n\n2 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n3 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.\n\n4 - Quando da transição resultar um impulso igual ou inferior a 10 pontos o tempo de serviço no escalão de origem conta para efeito de progressão na categoria.\n\n5 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+  },
+  "159303939": {
+   "fragment_id": "159303225",
+   "type": 11,
+   "heading": "Artigo 23.º — Transporte e ajudas de custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transporte e ajudas de custo\n\nO director do PNM e os membros das comissões consultiva e científica têm direito a transporte e ajudas de custo, quando para exercício das suas funções tenham de deslocar-se das respectivas residências."
+  },
+  "159303940": {
+   "fragment_id": "159304276",
+   "type": 11,
+   "heading": "Artigo 25.º-A — Chefes de repartição",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 25.º-A — Chefes de repartição\n\nCom a entrada em vigor do presente diploma são extintos os lugares de chefe de repartição.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+  },
+  "159303941": {
+   "fragment_id": "159303230",
+   "type": 11,
+   "heading": "Artigo 26.º — Legislação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Legislação complementar\n\nPara além do disposto no presente diploma, o PNM rege-se ainda pelo disposto no Decreto Regional n.º 14/82/M, de 10 de Novembro, que o criou, bem como pela legislação posterior que se lhe reporta, designadamente o Decreto Legislativo Regional n.º 23/86/M, de 4 de Outubro, que cria a Reserva Natural Parcial do Garajau, o Decreto Legislativo Regional n.º 14/90/M, de 23 de Maio, que cria a Área de Protecção Especial das Ilhas Desertas, a Lei n.º 13/86, de 21 de Maio, relativa à Reserva Natural das Ilhas Selvagens, e demais legislação complementar."
+  },
+  "159303942": {
+   "fragment_id": "159303231",
+   "type": 11,
+   "heading": "Artigo 27.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Legislação subsidiária\n\nEm tudo o que não estiver especialmente regulado no presente diploma, em matéria de regime retributivo, aplica-se subsidiariamente o Decreto-Lei n.º 353-A/89, de 16 de Outubro, e demais legislação complementar."
+  },
+  "159303943": {
+   "fragment_id": "159303232",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 4 de Março de 1993.\n\nO Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.\n\nAssinado em 25 de Março de 1993.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.\n\nAnexo I ao Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do Serviço do Parque Natural da Madeira\n\nLimites do Parque Natural da Madeira\n\nMemória descritiva\n\nA linha de delimitação da área do Parque Natural da Madeira sobe do leito da ribeira da Janela, pelo leito do córrego que na margem esquerda desce da Borda da Ladeira para o Sítio da Roçadinha ou Roçada de Baixo, ao encontro da levada da central da ribeira da Janela, onde existe uma descarga desta levada, acompanha esta levada até à represa da dita central e segue ao longo do caminho de acesso daquela represa e depois pelo caminho da Junqueira até ao cruzamento deste com o caminho do Lombo, o qual sobe até às Cancelas.\n\nDas Cancelas segue até às Portas da Vila pelo caminho que acompanha a Levada do Moinho até ao Sítio do Moinho e daí até ao mar, por águas pendentes da margem direita da ribeira do Tristão.\n\nSegue ao longo da costa até à foz da ribeira do Tristão e pelo leito desta até à confluência com a ribeira do Calvário, a qual sobe até ao seu cruzamento com a Levada Grande ou do Moinho.\n\nAcompanha a Levada Grande ou do Moinho até que esta se encontra com a ribeira do Cabouco, desce deste ponto de encontro até ao mar pelo leito da ribeira do Cabouco, acompanha a linha da costa até à foz da ribeira dos Eiroses, sobe pelo leito desta ribeira até à confluência com a ribeira do Cabo e daí segue pelo leito desta ribeira pela estrada regional.\n\nDo cruzamento da ribeira do Cabo com a estrada regional segue depois ao longo da estrada até que esta se cruze, um pouco além do quilómetro 115, com a Levada Nova e a partir deste ponto acompanha esta levada até que ela volte a cruzar-se com a dita estrada, um pouco adiante do quilómetro 124.\n\nDaqui, do cruzamento da Levada Nova com a estrada regional, cerca do quilómetro 124, acompanha esta estrada até que, um pouco além do quilómetro 128, se cruza com a ribeira de São João.\n\nDo cruzamento da estrada regional com a ribeira de São João desce pelo leito desta ribeira até ao mar e, pela linha de costa até à foz da ribeira da Cova, sobe pelo leito desta ribeira até ao cruzamento dele com a Levada Nova e por esta até à ribeira da Calheta e até à encosta poente da ribeira da Ponta do Sol.\n\nDaqui desce até ao leito da ribeira da Ponta do Sol pela cumeada do Lombo da Junça, que fica fronteiro ao córrego do Lanço Escuro, sobe este córrego até à Levada Nova e acompanha esta ao ribeiro da Fajã das Vacas.\n\nSobe o rio da Fajã das Vacas até ao Lombo da Quinta no caminho que do Jangão dá acesso à Bica da Cana e desce depois pelo caminho que liga o Lombo da Quinta ao Sítio do Jogo da Bola, no cume da encosta fronteira.\n\nDesce pelo caminho da Candelária até ao Rochão e logo flecte em direcção à Levada Nova, na encosta da margem direita da ribeira da Tabua, pela cumeeira do Lombo da Isca, até que encontra a dita levada.\n\nAcompanha a Levada Nova até ao cruzamento desta com o primeiro córrego da margem esquerda da ribeira da Tabua e sobe este córrego até ao seu cruzamento com a Levada do Lombo do Mouro.\n\nDesce depois pelo caminho que acompanha a Levada do Lombo do Mouro até ao tanque que fica à margem deste caminho cerca de 250 m acima do seu cruzamento com a vereda que liga a Fajã do Trigo à Fajã da Urtiga.\n\nDeste ponto desce pela cumeeira do Lombo dos Picos e Rocha da Menina até ao leito da ribeira da serra de Água, atravessa este e sobe na encosta fronteira pelo córrego do Caldeirão até ao cruzamento deste com a Levada do Norte.\n\nAcompanha desde aí a Levada do Norte até à ribeira da Quinta Grande e deste ponto de encontro da Levada do Norte com a ribeira da Quinta Grande continua ao longo da estrada regional até que esta cruza com o primeiro córrego que encontra na margem esquerda do ribeiro da Caldeira.\n\nDeste ponto sobe até à cumeeira do Lombo do Pau Branco, ao longo do dito córrego, ao encontro do ponto mais próximo da Levada da Rouca, desde aí acompanha esta levada até ao tanque situado na Boca da Corrida, na margem esquerda da ribeira do Jardim.\n\nDeste tanque segue para sul pela Levada da Serra até ao Lombo do Empena e daí, pelo caminho do Marco, até à Boca dos Namorados, de onde desce pelo caminho dos Bois e pelo caminho do Covão até às Rochas Altas.\n\nDas Rochas Altas desce até ao leito da ribeira dos Socorridos pelo córrego das Arremelas e desce o leito da ribeira dos Socorridos até à confluência desta com o seu afluente ribeira da Lapa, na margem esquerda.\n\nSobe pela ribeira da Lapa até à confluência com o seu afluente da margem esquerda, que passa pelo Sítio da Estrela, sobe por ele até à estrada de acesso ao Curral das Freiras e desce por esta até encontrar o caminho do Redondo.\n\nSegue pelo caminho do Redondo até onde chamam «Moitadas» e daí, em linha recta, até à Fonte Nateiro, donde continua ao longo da Levada da Negra até ao tanque do Pastel.\n\nDo tanque do Pastel segue em linha recta a encabeçar na levada que passa na cumeeira do Lombo do João Boieiro e vem do Montado da Alegria, acompanha esta levada até ao Pico das Pedras e deste pico desce, pelo cimo da escarpa da margem direita da ribeira de Santa Luzia, até à Rocha da Fonte do Risco.\n\nDa Rocha da Fonte do Risco desce até ao ponto de confluência do ribeiro do Pisão com a ribeira de Santa Luzia, de onde segue até à Rocha da Caldeira e daí pelo cimo da encosta da margem esquerda do ribeiro do Pisão até um ponto do caminho de acesso à Casa do Pisão situado ao lado da única casa particular existente à margem desse caminho e daí segue o caminho até que ele entronca na estrada Funchal-Poiso, cerca do quilómetro 7.\n\nDesce desde aquele ponto por aquela estrada até ao Terreiro da Luta e daqui vai pela estrada dos Pretos até ao cruzamento desta com a Levada de São Martinho.\n\nDo ponto de encontro da estrada dos Pretos com a Levada de São Martinho sobe por esta levada até à estrema do perímetro florestal das serras do Poiso e segue ao longo desta até ao seu cruzamento com o caminho florestal do Santo da Serra para o Poiso.\n\nDeste ponto de encontro da linha periférica do perímetro florestal das serras do Poiso com o caminho florestal do Santo da Serra para o Poiso segue a linha de delimitação do Parque Natural da Madeira, a Levada da Serra do Faial até ao cruzamento desta com o ramal do caminho florestal das Carreiras aos Lameiros que serve o Lombo da Raiz e, a partir daí, o referido caminho florestal até ao ponto em que este entronca na estrada da Portela para o Santo da Serra do Sítio do Lombo das Faias.\n\nSegue a partir daí a estrada da Portela para o Santo da Serra até à Portela e daí vai pela Levada da Formiga até ao seu cruzamento com o ramal da Levada da Portela, que serve a Achada, sobe este ramal até ao Cabeço do Cura e daí acompanha o limite do perímetro florestal até à ribeira das Cales.\n\nDesce depois a ribeira das Cales até que esta se cruza com a Levada do Caniçal e acompanha esta desde aí até à boca oeste do túnel da estrada de acesso ao Caniçal.\n\nDa boca oeste do túnel da estrada de acesso ao Caniçal segue uma linha à cota de 230 m envolvendo o Pico do Facho até à boca este do referido túnel, donde acompanha novamente a Levada do Caniçal até ao ponto em que esta cruza o caminho da Palmeira ou da Banda de Além, segue este caminho ao encontro do córrego da Vinha, atravessando este até encontrar o limite oeste da Zona Franca Industrial.\n\nSegue por este em direcção a norte ao seu extremo, continuando no mesmo limite pelas arribas a norte até juntar no seu extremo nordeste; desce depois em direcção ao sul sempre no limite da Zona Franca Industrial até encontrar a estrada regional da Ponta de São Lourenço, seguindo pela mesma direcção a sudoeste, continuando no limite da Zona Franca Industrial até ao mar. Segue sempre a linha de costa até à Ponta de São Lourenço.\n\nSobe pelo leito deste córrego até ao cimo da falésia que ali bordeja a costa e depois corre ao longo da ribeira do Arvoredo até ao ponto em que esta se encontra com o caminho que vai até à Maiata de Cima, segue por este até ao encontro com o caminho do Prado e logo pelo caminho antigo da Rocha Branca até ao ponto em que este se encontra com o caminho do Folhadal, subindo então desde aí até à estrada que desce da Portela para o Porto da Cruz.\n\nDeste ponto de encontro do caminho do Folhadal com a estrada que desce da Portela para o Porto da Cruz desce esta estrada até que esta atravessa a Levada Nova e desde esse ponto segue para leste, ao longo desta levada, até que ela se encontra com o córrego das Fontes, sobe este córrego, passa pelo Curralinho e desce para o leito da ribeira de São Roque do Faial ao longo do ribeiro do Eixo.\n\nDo ponto de confluência do ribeiro do Eixo com a ribeira de São Roque do Faial sobe pelo leito desta até à confluência com o ribeiro do Caldeirão e depois daí, pelo leito deste ribeiro, até ao ponto da estrada regional donde sai o caminho de acesso a São Roque do Faial.\n\nDeste ponto, cerca do quilómetro 22 da estrada Funchal-Poiso-Santana, desce ao longo desta estrada até às Cruzinhas e daqui segue ao encontro da Levada das Travessas pelo caminho que, passando sucessivamente pelo Limoeiro, Fajã da Murta, Pico do Lombo Galego, Lombo Galego e Cova da Roda, vai até Santana, e logo que se encontra com aquela levada segue ao longo dela até que encontra a ribeira das Travessas, afluente da margem direita da ribeira dos Arcos, pelo leito da qual desce até à cota dos 450 m, seguindo desse ponto para norte até ao Cabeço do Loiral, sempre na beira da falésia que aí constitui a margem direita da dita ribeira dos Arcos.\n\nDo Cabeço do Loiral desce para o Sítio do Loiral e daí para o Sítio da Fajã Alta e da Achada do Pico, de onde segue para oeste, pelo caminho da Achadinha, ao encontro do caminho da Achada do Vigário, desce por este até que encontra o caminho da Câmara e continua ao longo dele até à estrada regional e por esta até que encontra a ribeira Funda.\n\nSobe pelo leito da ribeira Funda até ao Tanque da Queimadinha, também conhecido por Poços do Tanque, e daí em linha recta até ao córrego da Terra do Pereiro, por cujo leito desce até à estrada regional. Fica igualmente incluído neste limite o ilhéu da Viúva ou da Rocha do Navio, no concelho de Santana.\n\nDo ponto anterior, segue pela estrada regional até que, cerca do quilómetro 65,3, encontra, à esquerda da mesma estrada, uma vereda que sobe em direcção ao extremo do caminho que vem dos Casais; sobe esta vereda e desde o ponto em que ela encontra o dito caminho que vem dos Casais vai até à estrada regional, à cota dos 250 m, e segue por ela até à boca leste do túnel que liga o Arco de São Jorge ao vale de Boaventura.\n\nDaquele ponto passa a boca oeste do mesmo túnel galgando a cumeada da serra na perpendicular do leito do dito túnel e daí segue ao longo da Levada da Achada até ao cruzamento desta com a ribeira de João Fernandes.\n\nDesce pelo leito da ribeira de João Fernandes até à sua confluência com a ribeira do Porco e daí sobe pelo leito desta ribeira até à origem da Levada da Achada Grande, seguindo desde aí ao longo desta levada até ao seu termo e continuando, à cota dos 450 m, até à ribeira dos Moinhos.\n\nDesce o leito da ribeira dos Moinhos até ao córrego da sua margem esquerda, em que tem origem a Levada Grande, sobe este córrego até ao começo daquela levada e continua depois ao longo da dita levada até ao Sítio da Roca.\n\nDo Sítio da Roca segue, à cota dos 350 m, até ao córrego que desce das Muralhas, ou Muranhas, pelo leito do qual sobe até ao «pé da rocha», deste ponto continua pelo «pé da rocha» e, pela cota dos 450 m, alcança o caminho do Lombo, que desce até ao encontro dele com a estrada que vem de Ponta Delgada para as Lombadas.\n\nDaquele ponto desce pelo caminho de acesso ao Portal da Negra até ao ribeiro do Velho, à cota dos 300 m, seguindo daí por esta cota até à Rocha das Lapas, na encosta da margem direita da ribeira de São Vicente.\n\nDesde ali acompanha o limite do perímetro florestal das serras de São Vicente, Ponta Delgada e Boaventura até ao Sítio do Cascalho, donde segue depois de atravessar a ribeira, pela cumeeira da Rocha, que delimita o Sítio do Piorno, sobranceiro ao Sítio da Madeira até ao caminho do Sítio da Madeira, que foi alargado pelos Serviços Florestais, a norte do Chão dos Louros, subindo este caminho até à estrada que desce da Encumeada para São Vicente.\n\nDesce daquele ponto por aquela estrada até à cota dos 550 m e, seguindo a curva de nível correspondente a esta, segue para poente até que encontra um ponto além do córrego do Loural, a Levada da Fajã do Rodrigues, a qual acompanha até à boca do túnel, virada a São Vicente.\n\nDeste ponto segue pelo «pé da rocha» até ao córrego das Fontainhas, o qual desce a cota dos 250 m até ao cruzamento da levada que o atravessa mais baixa e segue daí essa levada até ao «pé da rocha».\n\nSegue depois pelo «pé da rocha» até à foz da ribeira do Inferno e daí, pela linha da costa, até à Ponta do Poiso, pela cumeeira da qual sobe até encontrar a estrada regional, cerca do quilómetro 90.\n\nContinua pela estrada regional até encontrar o caminho florestal de acesso ao Chão da Ribeira e sobe por este caminho cerca de 1300 m.\n\nDo quilómetro 1,3 daquele caminho florestal segue por uma linha recta orientada no sentido da boca do túnel das Contreiras, que passa por cima de dois palheiros até ao «pé da rocha» da margem esquerda da ribeira do Seixal, seguindo por ele até ao córrego que atravessa a estrada regional ao quilómetro 93 e desce por este córrego até ao mar.\n\nContinua pela linha da costa até à foz do ribeiro Escuro e sobe pelo leito deste ribeiro até que encontra o caminho do Cascalho, sobe por este até à cota dos 600 m e a este nível vai ao encontro do ribeiro do Cabouco.\n\nDesce o ribeiro do Cabouco até à cota dos 480 m e a este nível vai ao encontro do ribeiro do Paiol, pelo leito do qual desce até ao leito da ribeira da Janela.\n\nE pelo leito da ribeira da Janela desce até à confluência deste com o seu afluente da margem esquerda, onde teve início.\n\nAnexo II ao Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do Serviço do Parque Natural da Madeira\n\n(ver documento original)\n\nAnexo III ao Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do Serviço do Parque Natural da Madeira\n\nEstatuto do Corpo de Vigilantes da Natureza (CVN)"
+  },
+  "159303932": {
+   "fragment_id": "159303269",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nAnexo I ao Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do Serviço do Parque Natural da Madeira\n\nLimites do Parque Natural da Madeira\n\nMemória descritiva\n\nA linha de delimitação da área do Parque Natural da Madeira sobe do leito da ribeira da Janela, pelo leito do córrego que na margem esquerda desce da Borda da Ladeira para o Sítio da Roçadinha ou Roçada de Baixo, ao encontro da levada da central da ribeira da Janela, onde existe uma descarga desta levada, acompanha esta levada até à represa da dita central e segue ao longo do caminho de acesso daquela represa e depois pelo caminho da Junqueira até ao cruzamento deste com o caminho do Lombo, o qual sobe até às Cancelas.\n\nDas Cancelas segue até às Portas da Vila pelo caminho que acompanha a Levada do Moinho até ao Sítio do Moinho e daí até ao mar, por águas pendentes da margem direita da ribeira do Tristão.\n\nSegue ao longo da costa até à foz da ribeira do Tristão e pelo leito desta até à confluência com a ribeira do Calvário, a qual sobe até ao seu cruzamento com a Levada Grande ou do Moinho.\n\nAcompanha a Levada Grande ou do Moinho até que esta se encontra com a ribeira do Cabouco, desce deste ponto de encontro até ao mar pelo leito da ribeira do Cabouco, acompanha a linha da costa até à foz da ribeira dos Eiroses, sobe pelo leito desta ribeira até à confluência com a ribeira do Cabo e daí segue pelo leito desta ribeira pela estrada regional.\n\nDo cruzamento da ribeira do Cabo com a estrada regional segue depois ao longo da estrada até que esta se cruze, um pouco além do quilómetro 115, com a Levada Nova e a partir deste ponto acompanha esta levada até que ela volte a cruzar-se com a dita estrada, um pouco adiante do quilómetro 124.\n\nDaqui, do cruzamento da Levada Nova com a estrada regional, cerca do quilómetro 124, acompanha esta estrada até que, um pouco além do quilómetro 128, se cruza com a ribeira de São João.\n\nDo cruzamento da estrada regional com a ribeira de São João desce pelo leito desta ribeira até ao mar e, pela linha de costa até à foz da ribeira da Cova, sobe pelo leito desta ribeira até ao cruzamento dele com a Levada Nova e por esta até à ribeira da Calheta e até à encosta poente da ribeira da Ponta do Sol.\n\nDaqui desce até ao leito da ribeira da Ponta do Sol pela cumeada do Lombo da Junça, que fica fronteiro ao córrego do Lanço Escuro, sobe este córrego até à Levada Nova e acompanha esta ao ribeiro da Fajã das Vacas.\n\nSobe o rio da Fajã das Vacas até ao Lombo da Quinta no caminho que do Jangão dá acesso à Bica da Cana e desce depois pelo caminho que liga o Lombo da Quinta ao Sítio do Jogo da Bola, no cume da encosta fronteira.\n\nDesce pelo caminho da Candelária até ao Rochão e logo flecte em direcção à Levada Nova, na encosta da margem direita da ribeira da Tabua, pela cumeeira do Lombo da Isca, até que encontra a dita levada.\n\nAcompanha a Levada Nova até ao cruzamento desta com o primeiro córrego da margem esquerda da ribeira da Tabua e sobe este córrego até ao seu cruzamento com a Levada do Lombo do Mouro.\n\nDesce depois pelo caminho que acompanha a Levada do Lombo do Mouro até ao tanque que fica à margem deste caminho cerca de 250 m acima do seu cruzamento com a vereda que liga a Fajã do Trigo à Fajã da Urtiga.\n\nDeste ponto desce pela cumeeira do Lombo dos Picos e Rocha da Menina até ao leito da ribeira da serra de Água, atravessa este e sobe na encosta fronteira pelo córrego do Caldeirão até ao cruzamento deste com a Levada do Norte.\n\nAcompanha desde aí a Levada do Norte até à ribeira da Quinta Grande e deste ponto de encontro da Levada do Norte com a ribeira da Quinta Grande continua ao longo da estrada regional até que esta cruza com o primeiro córrego que encontra na margem esquerda do ribeiro da Caldeira.\n\nDeste ponto sobe até à cumeeira do Lombo do Pau Branco, ao longo do dito córrego, ao encontro do ponto mais próximo da Levada da Rouca, desde aí acompanha esta levada até ao tanque situado na Boca da Corrida, na margem esquerda da ribeira do Jardim.\n\nDeste tanque segue para sul pela Levada da Serra até ao Lombo do Empena e daí, pelo caminho do Marco, até à Boca dos Namorados, de onde desce pelo caminho dos Bois e pelo caminho do Covão até às Rochas Altas.\n\nDas Rochas Altas desce até ao leito da ribeira dos Socorridos pelo córrego das Arremelas e desce o leito da ribeira dos Socorridos até à confluência desta com o seu afluente ribeira da Lapa, na margem esquerda.\n\nSobe pela ribeira da Lapa até à confluência com o seu afluente da margem esquerda, que passa pelo Sítio da Estrela, sobe por ele até à estrada de acesso ao Curral das Freiras e desce por esta até encontrar o caminho do Redondo.\n\nSegue pelo caminho do Redondo até onde chamam «Moitadas» e daí, em linha recta, até à Fonte Nateiro, donde continua ao longo da Levada da Negra até ao tanque do Pastel.\n\nDo tanque do Pastel segue em linha recta a encabeçar na levada que passa na cumeeira do Lombo do João Boieiro e vem do Montado da Alegria, acompanha esta levada até ao Pico das Pedras e deste pico desce, pelo cimo da escarpa da margem direita da ribeira de Santa Luzia, até à Rocha da Fonte do Risco.\n\nDa Rocha da Fonte do Risco desce até ao ponto de confluência do ribeiro do Pisão com a ribeira de Santa Luzia, de onde segue até à Rocha da Caldeira e daí pelo cimo da encosta da margem esquerda do ribeiro do Pisão até um ponto do caminho de acesso à Casa do Pisão situado ao lado da única casa particular existente à margem desse caminho e daí segue o caminho até que ele entronca na estrada Funchal-Poiso, cerca do quilómetro 7.\n\nDesce desde aquele ponto por aquela estrada até ao Terreiro da Luta e daqui vai pela estrada dos Pretos até ao cruzamento desta com a Levada de São Martinho.\n\nDo ponto de encontro da estrada dos Pretos com a Levada de São Martinho sobe por esta levada até à estrema do perímetro florestal das serras do Poiso e segue ao longo desta até ao seu cruzamento com o caminho florestal do Santo da Serra para o Poiso.\n\nDeste ponto de encontro da linha periférica do perímetro florestal das serras do Poiso com o caminho florestal do Santo da Serra para o Poiso segue a linha de delimitação do Parque Natural da Madeira, a Levada da Serra do Faial até ao cruzamento desta com o ramal do caminho florestal das Carreiras aos Lameiros que serve o Lombo da Raiz e, a partir daí, o referido caminho florestal até ao ponto em que este entronca na estrada da Portela para o Santo da Serra do Sítio do Lombo das Faias.\n\nSegue a partir daí a estrada da Portela para o Santo da Serra até à Portela e daí vai pela Levada da Formiga até ao seu cruzamento com o ramal da Levada da Portela, que serve a Achada, sobe este ramal até ao Cabeço do Cura e daí acompanha o limite do perímetro florestal até à ribeira das Cales.\n\nDesce depois a ribeira das Cales até que esta se cruza com a Levada do Caniçal e acompanha esta desde aí até à boca oeste do túnel da estrada de acesso ao Caniçal.\n\nDa boca oeste do túnel da estrada de acesso ao Caniçal segue uma linha à cota de 230 m envolvendo o Pico do Facho até à boca este do referido túnel, donde acompanha novamente a Levada do Caniçal até ao ponto em que esta cruza o caminho da Palmeira ou da Banda de Além, segue este caminho ao encontro do córrego da Vinha, atravessando este até encontrar o limite oeste da Zona Franca Industrial.\n\nSegue por este em direcção a norte ao seu extremo, continuando no mesmo limite pelas arribas a norte até juntar no seu extremo nordeste; desce depois em direcção ao sul sempre no limite da Zona Franca Industrial até encontrar a estrada regional da Ponta de São Lourenço, seguindo pela mesma direcção a sudoeste, continuando no limite da Zona Franca Industrial até ao mar. Segue sempre a linha de costa até à Ponta de São Lourenço.\n\nSobe pelo leito deste córrego até ao cimo da falésia que ali bordeja a costa e depois corre ao longo da ribeira do Arvoredo até ao ponto em que esta se encontra com o caminho que vai até à Maiata de Cima, segue por este até ao encontro com o caminho do Prado e logo pelo caminho antigo da Rocha Branca até ao ponto em que este se encontra com o caminho do Folhadal, subindo então desde aí até à estrada que desce da Portela para o Porto da Cruz.\n\nDeste ponto de encontro do caminho do Folhadal com a estrada que desce da Portela para o Porto da Cruz desce esta estrada até que esta atravessa a Levada Nova e desde esse ponto segue para leste, ao longo desta levada, até que ela se encontra com o córrego das Fontes, sobe este córrego, passa pelo Curralinho e desce para o leito da ribeira de São Roque do Faial ao longo do ribeiro do Eixo.\n\nDo ponto de confluência do ribeiro do Eixo com a ribeira de São Roque do Faial sobe pelo leito desta até à confluência com o ribeiro do Caldeirão e depois daí, pelo leito deste ribeiro, até ao ponto da estrada regional donde sai o caminho de acesso a São Roque do Faial.\n\nDeste ponto, cerca do quilómetro 22 da estrada Funchal-Poiso-Santana, desce ao longo desta estrada até às Cruzinhas e daqui segue ao encontro da Levada das Travessas pelo caminho que, passando sucessivamente pelo Limoeiro, Fajã da Murta, Pico do Lombo Galego, Lombo Galego e Cova da Roda, vai até Santana, e logo que se encontra com aquela levada segue ao longo dela até que encontra a ribeira das Travessas, afluente da margem direita da ribeira dos Arcos, pelo leito da qual desce até à cota dos 450 m, seguindo desse ponto para norte até ao Cabeço do Loiral, sempre na beira da falésia que aí constitui a margem direita da dita ribeira dos Arcos.\n\nDo Cabeço do Loiral desce para o Sítio do Loiral e daí para o Sítio da Fajã Alta e da Achada do Pico, de onde segue para oeste, pelo caminho da Achadinha, ao encontro do caminho da Achada do Vigário, desce por este até que encontra o caminho da Câmara e continua ao longo dele até à estrada regional e por esta até que encontra a ribeira Funda.\n\nSobe pelo leito da ribeira Funda até ao Tanque da Queimadinha, também conhecido por Poços do Tanque, e daí em linha recta até ao córrego da Terra do Pereiro, por cujo leito desce até à estrada regional. Fica igualmente incluído neste limite o ilhéu da Viúva ou da Rocha do Navio, no concelho de Santana.\n\nDo ponto anterior, segue pela estrada regional até que, cerca do quilómetro 65,3, encontra, à esquerda da mesma estrada, uma vereda que sobe em direcção ao extremo do caminho que vem dos Casais; sobe esta vereda e desde o ponto em que ela encontra o dito caminho que vem dos Casais vai até à estrada regional, à cota dos 250 m, e segue por ela até à boca leste do túnel que liga o Arco de São Jorge ao vale de Boaventura.\n\nDaquele ponto passa a boca oeste do mesmo túnel galgando a cumeada da serra na perpendicular do leito do dito túnel e daí segue ao longo da Levada da Achada até ao cruzamento desta com a ribeira de João Fernandes.\n\nDesce pelo leito da ribeira de João Fernandes até à sua confluência com a ribeira do Porco e daí sobe pelo leito desta ribeira até à origem da Levada da Achada Grande, seguindo desde aí ao longo desta levada até ao seu termo e continuando, à cota dos 450 m, até à ribeira dos Moinhos.\n\nDesce o leito da ribeira dos Moinhos até ao córrego da sua margem esquerda, em que tem origem a Levada Grande, sobe este córrego até ao começo daquela levada e continua depois ao longo da dita levada até ao Sítio da Roca.\n\nDo Sítio da Roca segue, à cota dos 350 m, até ao córrego que desce das Muralhas, ou Muranhas, pelo leito do qual sobe até ao «pé da rocha», deste ponto continua pelo «pé da rocha» e, pela cota dos 450 m, alcança o caminho do Lombo, que desce até ao encontro dele com a estrada que vem de Ponta Delgada para as Lombadas.\n\nDaquele ponto desce pelo caminho de acesso ao Portal da Negra até ao ribeiro do Velho, à cota dos 300 m, seguindo daí por esta cota até à Rocha das Lapas, na encosta da margem direita da ribeira de São Vicente.\n\nDesde ali acompanha o limite do perímetro florestal das serras de São Vicente, Ponta Delgada e Boaventura até ao Sítio do Cascalho, donde segue depois de atravessar a ribeira, pela cumeeira da Rocha, que delimita o Sítio do Piorno, sobranceiro ao Sítio da Madeira até ao caminho do Sítio da Madeira, que foi alargado pelos Serviços Florestais, a norte do Chão dos Louros, subindo este caminho até à estrada que desce da Encumeada para São Vicente.\n\nDesce daquele ponto por aquela estrada até à cota dos 550 m e, seguindo a curva de nível correspondente a esta, segue para poente até que encontra um ponto além do córrego do Loural, a Levada da Fajã do Rodrigues, a qual acompanha até à boca do túnel, virada a São Vicente.\n\nDeste ponto segue pelo «pé da rocha» até ao córrego das Fontainhas, o qual desce a cota dos 250 m até ao cruzamento da levada que o atravessa mais baixa e segue daí essa levada até ao «pé da rocha».\n\nSegue depois pelo «pé da rocha» até à foz da ribeira do Inferno e daí, pela linha da costa, até à Ponta do Poiso, pela cumeeira da qual sobe até encontrar a estrada regional, cerca do quilómetro 90.\n\nContinua pela estrada regional até encontrar o caminho florestal de acesso ao Chão da Ribeira e sobe por este caminho cerca de 1300 m.\n\nDo quilómetro 1,3 daquele caminho florestal segue por uma linha recta orientada no sentido da boca do túnel das Contreiras, que passa por cima de dois palheiros até ao «pé da rocha» da margem esquerda da ribeira do Seixal, seguindo por ele até ao córrego que atravessa a estrada regional ao quilómetro 93 e desce por este córrego até ao mar.\n\nContinua pela linha da costa até à foz do ribeiro Escuro e sobe pelo leito deste ribeiro até que encontra o caminho do Cascalho, sobe por este até à cota dos 600 m e a este nível vai ao encontro do ribeiro do Cabouco.\n\nDesce o ribeiro do Cabouco até à cota dos 480 m e a este nível vai ao encontro do ribeiro do Paiol, pelo leito do qual desce até ao leito da ribeira da Janela.\n\nE pelo leito da ribeira da Janela desce até à confluência deste com o seu afluente da margem esquerda, onde teve início."
+  },
+  "159303933": {
+   "fragment_id": "159303270",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\nAnexo II ao Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do Serviço do Parque Natural da Madeira\n\n(ver documento original)"
+  },
+  "159303934": {
+   "fragment_id": "159303274",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\nAnexo III ao Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do Serviço do Parque Natural da Madeira\n\nEstatuto do Corpo de Vigilantes da Natureza (CVN)"
+  },
+  "159303953": {
+   "fragment_id": "159303250",
+   "type": 11,
+   "heading": "Artigo 15.º — Residência oficial",
+   "in_force_from": "2003-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2003/M - Diário da República n.º 101/2003, Série I-B de 2003-05-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2003-571667), em vigor a partir de 2003-05-03"
+   ],
+   "markdown": "###### Artigo 15.º — Residência oficial\n\n1 - Para efeitos do disposto no Decreto-Lei n.º 106/98, de 24 de Abril, considera-se residência oficial a sede do Parque Natural da Madeira.\n\n2 - Os estagiários que tenham concluído com aproveitamento o respectivo estágio serão colocados, de acordo com as necessidades de serviço, no Parque Natural da Madeira e ou noutras áreas protegidas, independentemente dos locais de realização do estágio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2003/M - Diário da República n.º 101/2003, Série I-B de 2003-05-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2003-571667), em vigor a partir de 2003-05-03"
+  },
+  "159303954": {
+   "fragment_id": "159303251",
+   "type": 11,
+   "heading": "Artigo 16.º — Ajudas de custo ao pessoal destacado nas ilhas Desertas e Selvagens",
+   "in_force_from": "2003-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2003/M - Diário da República n.º 101/2003, Série I-B de 2003-05-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2003-571667), em vigor a partir de 2003-05-03"
+   ],
+   "markdown": "###### Artigo 16.º — Ajudas de custo ao pessoal destacado nas ilhas Desertas e Selvagens\n\nO pessoal da carreira de vigilante da natureza destacado em serviço tem direito a ajudas de custo no montante resultante da legislação em vigor à matéria aplicável, conforme o estipulado no decreto-lei mencionado no n.º 1 do artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2003/M - Diário da República n.º 101/2003, Série I-B de 2003-05-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2003-571667), em vigor a partir de 2003-05-03"
+  },
+  "159305090": {
+   "fragment_id": "159303216",
+   "type": 11,
+   "heading": "Artigo 18.º — Natureza e competências",
+   "in_force_from": "2016-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 21/2016/M - Diário da República n.º 93/2016, Série I de 2016-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2016-74443081), em vigor a partir de 2016-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 18.º — Natureza e competências\n\n1 - A DCN é o serviço operativo do PNM com atribuições nos domínos da investigação e da protecção do património genético, da flora, da fauna e espécies em geral.\n\n2 - Compete, designadamente, à DCN:\n\na) Promover a investigação científica nos domínios da fauna, flora e geologia, em colaboração com organismos especializados, nacionais e estrangeiros, nomeadamente nas áreas de reserva natural integral ou parcial e reserva geológica e de vegetação de altitude;\n\nb) Promover a criação de novas reservas naturais integrais, parciais, geológicas e de vegetação de altitude, bem como regulamentar e assegurar a manutenção das existentes;\n\nc) Promover e colaborar em estudos, experiências ou realizações e assegurar o inventário dos valores naturais do PNM;\n\nd) Promover as acções necessárias à elaboração dos planos de ordenamento e regulamentação das áreas protegidas;\n\ne) Promover e executar programas de acção contra a erosão do solo e de defesa ao regime hídrico;\n\nf) Apoiar as reservas naturais das ilhas Desertas e Selvagens, do Garajau, bem como as que venham a ser futuramente criadas;\n\ng) Zelar pelo cumprimento na Região das convenções internacionais sobre fauna, flora e conservação da natureza que tenham sido ratificadas por Portugal e tenham aplicação à Região Autónoma da Madeira;\n\nh) Desenvolver as acções necessárias em vista à inventariação, controlo e erradicação das espécies de flora que apresentem características infestantes, nomeadamente nas áreas das reservas integrais, reservas parciais, geológicas e de vegetação de altitude;\n\ni) Proceder à inventariação dos locais e das espécies vegetais endémicas consideradas raras ou em vias de extinção e promover o incremento das mesmas;\n\nj) Fornecer à DOPEA os dados necessários à divulgação da fauna e flora indígenas, bem como outros elementos, nomeadamente geológicos;\n\nl) Executar os projectos de infra-estruturas elaborados pela DOPEA;\n\nm) Executar obras de recuperação, reparação ou beneficiação com vista à salvaguarda do património incluído nas áreas classificadas, nomeadamente monumentos ou edifícios de interesse público.\n\n3 - Junto da DCN funciona um serviço de apoio administrativo, chefiado por um chefe de departamento, ao qual compete coordenar todos os assuntos de natureza técnico-administrativa no âmbito da Divisão.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 21/2016/M - Diário da República n.º 93/2016, Série I de 2016-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2016-74443081), em vigor a partir de 2016-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+  },
+  "159305091": {
+   "fragment_id": "159303218",
+   "type": 11,
+   "heading": "Artigo 19.º — Natureza e competências",
+   "in_force_from": "2016-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 21/2016/M - Diário da República n.º 93/2016, Série I de 2016-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2016-74443081), em vigor a partir de 2016-05-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 19.º — Natureza e competências\n\n1 - A DOPEA é o serviço operativo do PNM com atribuições nos domínios do ordenamento e da educação ambiental.\n\n2 - Compete, designadamente, à DOPEA:\n\na) Promover os projectos necessários à prossecução dos objectivos do PNM, nomeadamente no que respeita ao equipamento das reservas de recreio e montanha e zonas de repouso e silêncio;\n\nb) Preparar os planos de ordenamento do Parque e a regulamentação das áreas classificadas;\n\nc) Emitir pareceres sobre a realização de obras de edificação, abertura de estradas, caminhos ou outras vias de acesso e extracção de produtos inertes de qualquer natureza, a efectuar na área do PNM;\n\nd) Promover e coordenar trabalhos de topografia e desenho;\n\ne) Assegurar a existência e funcionamento de ficheiro actualizado de documentação e legislação regional, nacional e comunitária, bem como a que provenha de outros organismos ou associações que prossigam objectivos idênticos e que tratem em geral ou em especial da temática do ambiente, defesa e conservação da natureza;\n\nf) Contribuir, através do recurso à informática, para o aumento das estratégias disponíveis a nível de educação ambiental;\n\ng) Adquirir bibliografia e cartografia respeitante ao domínio ambiental, bem como orientar o seu arquivo e utilização;\n\nh) Criar e assegurar a manutenção e funcionamento de uma adequada base de dados sobre o ambiente, bem como proceder à elaboração de cartografia temática;\n\ni) Realizar os estudos técnico-económicos necessários à elaboração do planeamento e à definição da estratégia de desenvolvimento para o sector;\n\nj) Promover sócio-educativa e culturalmente a adesão das populações abrangidas pelas áreas do PNM em vista ao respeito pelas bases biofísicas e ecológicas do ambiente no quadro das tradições histórico-culturais e do habitat natural das referidas populações;\n\nl) Promover e executar programas sistemáticos de actividades no âmbito da educação ambiental das populações em geral;\n\nm) Proceder ao estudo de percursos e organizar visitas guiadas às áreas do PNM;\n\nn) Divulgar as áreas afectas ao PNM, seus valores e objectivos específicos;\n\no) Realizar acções de formação ambiental junto do público em geral e dos estabelecimentos de ensino em particular, destacando as actividades práticas;\n\np) Elaborar e distribuir material didáctico e de divulgação, quer sobre o próprio PNM, quer sobre problemas ambientais;\n\nq) Propor a criação de centros de divulgação, acolhimento e informação e núcleos museológicos e assegurar a sua gestão;\n\nr) Colaborar com outras entidades oficiais ou privadas na organização de acções de divulgação ambiental;\n\ns) Promover o desporto ao ar livre e o contacto com a natureza.\n\n3 - Junto da DOPEA funciona um serviço de apoio administrativo, chefiado por um chefe de departamento, ao qual compete coordenar todos os assuntos de natureza técnico-administrativa no âmbito da Divisão\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 21/2016/M - Diário da República n.º 93/2016, Série I de 2016-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2016-74443081), em vigor a partir de 2016-05-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/99/M - Diário da República n.º 279/1999, Série I-B de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-639916), em vigor a partir de 1999-12-01"
+  },
+  "159305092": {
+   "fragment_id": "159303274",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "## Anexo III\n\nAnexo III ao Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do Serviço do Parque Natural da Madeira\n\nEstatuto do Corpo de Vigilantes da Natureza (CVN)\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305093": {
+   "fragment_id": "159303233",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e âmbito de aplicação",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "### Capítulo I — Objecto e âmbito de aplicação\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305094": {
+   "fragment_id": "159303234",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito e objecto de aplicação",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito e objecto de aplicação\n\n1 - O presente diploma consagra o estatuto do Corpo de Vigilantes da Natureza, adiante designado por CVN, a que se reporta o n.º 4, alínea a), do artigo 3.º do Decreto Regulamentar Regional n.º 13/93/M, que aprova a orgânica do Parque Natural da Madeira (PNM).\n\n2 - O CVN é constituído pelo corpo de efectivos da carreira de vigilante da natureza.\n\n3 - A carreira de vigilante da natureza desenvolve-se pelas categorias descritas no anexo II ao Decreto Regulamentar Regional n.º 13/93/M, que igualmente consagra a respectiva escala salarial.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305095": {
+   "fragment_id": "159303235",
+   "type": 1,
+   "heading": "Capítulo II — Natureza, atribuições e competências",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "### Capítulo II — Natureza, atribuições e competências\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305096": {
+   "fragment_id": "159303236",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO CVN é um serviço auxiliar de polícia do Serviço do Parque Natural da Madeira, exercendo atribuições e competências na dependência directa do director do PNM.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305097": {
+   "fragment_id": "159303237",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nConstituem atribuições do CVN, designadamente:\n\na) Zelar pelo cumprimento das leis e regulamentos relativos à protecção e conservação da natureza e do ambiente, no quadro das atribuições desenvolvidas pelo PNM;\n\nb) Exercer funções de fiscalização e vigilância nas áreas afectas ao PNM;\n\nc) Sensibilizar as populações no sentido de compatibilizar o desenvolvimento e o bem-estar dos residentes com a preservação das características tradicionais da área protegida;\n\nd) Participar em acções de informação e educação ambiental junto das populações.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305098": {
+   "fragment_id": "159303238",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\nCompete, designadamente, ao CVN:\n\na) Zelar pelo cumprimento das leis e regulamentos relativos à protecção e conservação da natureza, nas áreas do PNM a definir por despacho do Secretário Regional de Agricultura, Florestas e Pescas, ouvidos o director do PNM e o director regional da Direcção Regional de Florestas, participando qualquer infracção e levantando auto de notícia;\n\nb) Zelar pela segurança dos visitantes, acompanhá-los, orientando-os e prestando-lhes os esclarecimentos necessários à boa compreensão e interpretação dos recursos e finalidades do PNM, nomeadamente das reservas e áreas classificadas;\n\nc) Vigiar e providenciar pelo estado de conservação dos percursos, infra-estruturas e equipamentos, procurando a boa conservação e limpeza dos mesmos, executando trabalhos de protecção ou recuperação dos recursos existentes na área do PNM e acompanhando obras em curso;\n\nd) Colher e registar os elementos que lhe sejam solicitados para estudos, designadamente os respeitantes à flora, fauna, paisagem, usos e costumes ou práticas culturais no interior das áreas protegidas;\n\ne) Participar em acções de informação e sensibilização, colaborando com as povoações situadas nas áreas do PNM, com vista à melhoria da qualidade de vida das mesmas na sua relação com a natureza e o ambiente;\n\nf) Contribuir para a detecção e combate aos incêndios;\n\ng) Colaborar com outros organismos que exerçam funções de fiscalização nas áreas do PNM, requerendo o auxílio de outras entidades, nomeadamente policiais, sempre que necessário.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305099": {
+   "fragment_id": "159303239",
+   "type": 1,
+   "heading": "Capítulo III — Da carreira de vigilante da natureza",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "### Capítulo III — Da carreira de vigilante da natureza\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305100": {
+   "fragment_id": "159303240",
+   "type": 11,
+   "heading": "Artigo 5.º — Ingresso e acesso",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 5.º — Ingresso e acesso\n\n1 - O recrutamento para as categorias de vigilante da natureza especialista principal e de vigilante da natureza especialista faz-se, respectivamente, por concurso de entre vigilantes da natureza especialista com, pelo menos, três anos na categoria e vigilantes da natureza de 1.ª classe posicionados no 3.º escalão ou superior e classificação de serviço não inferior a Bom.\n\n2 - O recrutamento para a categoria de vigilante da natureza de 2.ª classe faz-se de entre indivíduos habilitados com o 9.º ano de escolaridade ou equiparado, após aprovação em estágio.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305101": {
+   "fragment_id": "159303241",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime de estágio",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 6.º — Regime de estágio\n\n1 - A admissão ao estágio faz-se de entre indivíduos habilitados com o 9.º ano de escolaridade ou habilitação equiparada e que reúnam os requisitos gerais e especiais de provimento, com idade não superior a 28 anos, à data de abertura do concurso.\n\n2 - O número de indivíduos admitidos a estágio não pode ultrapassar em mais de 15% o número de lugares vagos na respectiva categoria de ingresso.\n\n3 - O estágio tem a duração de um ano, findo o qual os estagiários aprovados são ordenados em função da classificação atribuída por júri, nomeado para o efeito, e providos a título definitivo.\n\n4 - O estágio inclui um curso de formação específico para a carreira, a ministrar pelo Serviço do Parque Natural da Madeira, nos termos de regulamento a aprovar por portaria do Secretário Regional de Agricultura, Florestas e Pescas, sob proposta do director do PNM.\n\n5 - Os estagiários que não obtiverem aproveitamento regressarão ao lugar de origem ou ser-lhes-ão imediatamente rescindidos os contratos sem direito a qualquer indemnização, consoante se trate de indivíduos vinculados ou não à função pública.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305102": {
+   "fragment_id": "159303242",
+   "type": 11,
+   "heading": "Artigo 7.º — Descongelamento",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 7.º — Descongelamento\n\nO provimento na categoria de ingresso na carreira de vigilante da natureza será objecto de despacho conjunto de descongelamento, nos termos da lei em vigor, sem prejuízo da admissão de estagiários, nos termos da lei geral.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305103": {
+   "fragment_id": "159303243",
+   "type": 11,
+   "heading": "Artigo 8.º — Suplemento de risco",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 8.º — Suplemento de risco\n\n1 - O pessoal da carreira de vigilante da natureza tem direito a um suplemento de risco, abonável em 12 mensalidades, no montante de 14200$00 cada uma, o qual é actualizável na percentagem do aumento anual de vencimentos da função pública.\n\n2 - O suplemento a que se reporta o número anterior é considerado para efeitos da alínea b) do n.º 1 do artigo 47.º do Decreto-Lei n.º 498/72, de 9 de Dezembro.\n\n3 - O direito ao suplemento mantém-se apenas nas seguintes situações de ausência:\n\na) Férias;\n\nb) Faltas por acidente em serviço ou doença profissional;\n\nc) Faltas para exercício de actividade sindical;\n\nd) Faltas por isolamento profiláctico.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305104": {
+   "fragment_id": "159303244",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos dos estagiários",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 9.º — Direitos dos estagiários\n\nO pessoal em regime de estágio tem direito às regalias previstas no artigo anterior, bem como de acesso aos sistemas de segurança social e de apoio na doença, através da inscrição na Caixa Geral de Aposentações, Montepio dos Servidores do Estado e Direcção-Geral de Protecção Social dos Funcionários e Agentes da Administração Pública (ADSE), em termos idênticos ao restante pessoal da carreira de vigilante da natureza.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305105": {
+   "fragment_id": "159303245",
+   "type": 11,
+   "heading": "Artigo 10.º — Fardamento e identificação",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 10.º — Fardamento e identificação\n\nO pessoal da carreira de vigilante da natureza no exercício das suas funções e o pessoal em regime de estágio é obrigado a apresentar-se devidamente identificado e fardado, em conformidade com o prescrito em regulamento a aprovar por portaria do Secretário Regional de Agricultura, Florestas e Pescas, onde serão definidos o modelo do respectivo cartão de identidade, bem como modelo e tipos de fardamento e respectivas comparticipações.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305106": {
+   "fragment_id": "159303246",
+   "type": 11,
+   "heading": "Artigo 11.º — Aposentação",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 11.º — Aposentação\n\nO pessoal da carreira de vigilante da natureza pode requerer a passagem à situação de aposentado logo que atinja 55 anos de idade.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305107": {
+   "fragment_id": "159303247",
+   "type": 11,
+   "heading": "Artigo 12.º — Trabalho semanal",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 12.º — Trabalho semanal\n\n1 - A semana de trabalho do pessoal da carreira de vigilante da natureza é de cinco dias e tem a duração de quarenta horas.\n\n2 - São considerados dias normais de trabalho todos os dias da semana, incluindo sábados, domingos e feriados.\n\n3 - Os dias de descanso semanal e descanso complementar são definidos na programação de serviço a estabelecer mensalmente pelo Serviço do Parque Natural da Madeira, devendo, pelo menos uma vez por mês, fazer-se coincidir aqueles dias de descanso com o sábado e o domingo.\n\n4 - A programação a que se refere o número anterior pode ser alterada em casos excepcionais, devendo, em qualquer dos casos, ser comunicada aos interessados com a antecedência mínima de uma semana.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305108": {
+   "fragment_id": "159303248",
+   "type": 11,
+   "heading": "Artigo 13.º — Serviço permanente",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 13.º — Serviço permanente\n\n1 - O serviço do pessoal da carreira de vigilante da natureza considera-se de carácter permanente e obrigatório.\n\n2 - O pessoal, ainda que se encontre em período de folga ou descanso, deve tomar todas as providências necessárias para prevenir ou resolver sinistros, ocorrências e infracções inerentes às normas legais de conservação da natureza.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305109": {
+   "fragment_id": "159303249",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime especial de trabalho",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 14.º — Regime especial de trabalho\n\n1 - Sempre que o horário diário de trabalho coincida no todo ou em parte com o período de trabalho nocturno, a remuneração respectiva é acrescida nos termos do n.º 3 do artigo 27.º do Decreto-Lei n.º 187/88, de 27 de Maio.\n\n2 - As situações de trabalho extraordinário e a prestação de trabalho em dias de descanso semanal e descanso complementar, programadas nos termos do artigo 12.º, bem como nos dias feriados, são igualmente remuneradas nos termos do Decreto-Lei n.º 187/88.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305110": {
+   "fragment_id": "159303250",
+   "type": 11,
+   "heading": "Artigo 15.º — Residência oficial",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2003/M - Diário da República n.º 101/2003, Série I-B de 2003-05-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2003-571667), em vigor a partir de 2003-05-03"
+   ],
+   "markdown": "###### Artigo 15.º — Residência oficial\n\n1 - Para efeitos do disposto no Decreto-Lei n.º 106/98, de 24 de Abril, considera-se residência oficial a sede do Parque Natural da Madeira.\n\n2 - Os estagiários que tenham concluído com aproveitamento o respectivo estágio serão colocados, de acordo com as necessidades de serviço, no Parque Natural da Madeira e ou noutras áreas protegidas, independentemente dos locais de realização do estágio.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2003/M - Diário da República n.º 101/2003, Série I-B de 2003-05-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2003-571667), em vigor a partir de 2003-05-03"
+  },
+  "159305111": {
+   "fragment_id": "159303251",
+   "type": 11,
+   "heading": "Artigo 16.º — Ajudas de custo ao pessoal destacado nas ilhas Desertas e Selvagens",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2003/M - Diário da República n.º 101/2003, Série I-B de 2003-05-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2003-571667), em vigor a partir de 2003-05-03"
+   ],
+   "markdown": "###### Artigo 16.º — Ajudas de custo ao pessoal destacado nas ilhas Desertas e Selvagens\n\nO pessoal da carreira de vigilante da natureza destacado em serviço tem direito a ajudas de custo no montante resultante da legislação em vigor à matéria aplicável, conforme o estipulado no decreto-lei mencionado no n.º 1 do artigo anterior.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2003/M - Diário da República n.º 101/2003, Série I-B de 2003-05-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2003-571667), em vigor a partir de 2003-05-03"
+  },
+  "159305112": {
+   "fragment_id": "159303252",
+   "type": 11,
+   "heading": "Artigo 17.º — Patrocínio judiciário",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 17.º — Patrocínio judiciário\n\nO pessoal da carreira de vigilante da natureza tem direito a receber da Região Autónoma da Madeira, através do Serviço do Parque Natural da Madeira, patrocínio judiciário e assistência, que se traduz na dispensa do pagamento de preparos e custos e das demais despesas do processo, para defesa dos seus direitos e do seu bom nome e reputação, sempre que estes sejam afectados no âmbito ou por causa do serviço.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305113": {
+   "fragment_id": "159303253",
+   "type": 1,
+   "heading": "Capítulo IV — Regime disciplinar e recompensas",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "### Capítulo IV — Regime disciplinar e recompensas\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305114": {
+   "fragment_id": "159303254",
+   "type": 8,
+   "heading": "Secção I — Regime disciplinar",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "#### Secção I — Regime disciplinar\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305115": {
+   "fragment_id": "159303255",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime disciplinar e deveres funcionais especiais",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 18.º — Regime disciplinar e deveres funcionais especiais\n\n1 - Ao pessoal do CVN é aplicável o regime disciplinar geral da função pública.\n\n2 - Para além dos deveres gerais decorrentes do regime a que se reporta o número anterior, constituem deveres especiais do CVN, no âmbito da sua actuação funcional:\n\na) Dever de isenção;\n\nb) Dever de zelo;\n\nc) Dever de obediência;\n\nd) Dever de lealdade;\n\ne) Dever de correcção.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305116": {
+   "fragment_id": "159303256",
+   "type": 11,
+   "heading": "Artigo 19.º — Dever de isenção",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 19.º — Dever de isenção\n\nO dever de isenção consiste em não retirar vantagens directas ou indirectas, pecuniárias ou outras, das funções exercidas, actuando com independência, no respeito pelo princípio da igualdade dos cidadãos perante a lei.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305117": {
+   "fragment_id": "159303257",
+   "type": 11,
+   "heading": "Artigo 20.º — Dever de zelo",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 20.º — Dever de zelo\n\nO dever de zelo consiste em conhecer as normas legais e regulamentares e as instruções de serviço, bem como adquirir e aperfeiçoar conhecimentos e métodos de trabalho, de modo a exercer as funções com eficiência e correcção.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305118": {
+   "fragment_id": "159303258",
+   "type": 11,
+   "heading": "Artigo 21.º — Dever de obediência",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 21.º — Dever de obediência\n\nO dever de obediência consiste em acatar prontamente as ordens de serviço legalmente recebidas.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305119": {
+   "fragment_id": "159303259",
+   "type": 11,
+   "heading": "Artigo 22.º — Dever de lealdade",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 22.º — Dever de lealdade\n\nO dever de lealdade consiste em desempenhar as funções subordinando a respectiva actuação aos interesses institucionais do serviço e à realização do interesse público.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305120": {
+   "fragment_id": "159303260",
+   "type": 11,
+   "heading": "Artigo 23.º — Dever de correcção",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 23.º — Dever de correcção\n\nO dever de correcção consiste em tratar com respeito e consideração o público em geral, os superiores hierárquicos e os colegas.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305121": {
+   "fragment_id": "159303261",
+   "type": 8,
+   "heading": "Secção II — Recompensas",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "#### Secção II — Recompensas\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305122": {
+   "fragment_id": "159303262",
+   "type": 11,
+   "heading": "Artigo 24.º — Elogios e louvores",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 24.º — Elogios e louvores\n\nPara distinguir o comportamento exemplar e o zelo excepcional e para destacar actos de relevo social e profissional podem ser atribuídas as seguintes recompensas:\n\na) Elogio;\n\nb) Louvor.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305123": {
+   "fragment_id": "159303263",
+   "type": 11,
+   "heading": "Artigo 25.º — Elogio",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 25.º — Elogio\n\n1 - O elogio destina-se a premiar os que, pela sua exemplar conduta, compostura e aprumo, se tornem merecedores de distinção.\n\n2 - A competência para concessão do elogio é do director do Serviço do Parque Natural da Madeira.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305124": {
+   "fragment_id": "159303264",
+   "type": 11,
+   "heading": "Artigo 26.º — Louvor",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 26.º — Louvor\n\n1 - O louvor destina-se a galardoar actos importantes e dignos de relevo e é concedido aos que tenham demonstrado zelo excepcional no cumprimento dos seus deveres.\n\n2 - A competência para a concessão do louvor é do Secretário Regional de Agricultura, Florestas e Pescas, sob proposta do director do Serviço do Parque Natural da Madeira.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305125": {
+   "fragment_id": "159303265",
+   "type": 11,
+   "heading": "Artigo 27.º — Efeitos das recompensas",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 27.º — Efeitos das recompensas\n\n1 - A concessão das recompensas previstas no presente diploma é publicada em ordem de serviço e registada no processo individual do recompensado.\n\n2 - Aos indivíduos distinguidos pelas recompensas a que se reporta o artigo 24.º do presente diploma poderão ser atribuídas condecorações e medalhas, em conformidade com o disposto em regulamento a aprovar por portaria do Secretário Regional de Agricultura, Florestas e Pescas.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305126": {
+   "fragment_id": "159303266",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305127": {
+   "fragment_id": "159303267",
+   "type": 11,
+   "heading": "Artigo 28.º — Admissão a estágio",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 28.º — Admissão a estágio\n\nSerão admitidos ao primeiro concurso para o estágio a que se reporta o artigo 6.º do presente diploma os indivíduos que tenham exercido funções de vigilante da natureza ou guarda da natureza no Serviço do Parque Natural da Madeira por mais de sete anos consecutivos enquanto em regime de instalação, independentemente dos requisitos exigidos no n.º 1 do referido artigo.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  },
+  "159305128": {
+   "fragment_id": "159303268",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": "2021-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+   ],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente diploma entra em vigor no mesmo dia em que entra o Decreto Regulamentar Regional n.º 13/93/M, que consagra a orgânica do PNM, do qual é parte integrante.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01"
+  }
+ }
+}

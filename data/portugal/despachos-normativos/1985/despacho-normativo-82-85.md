@@ -1,0 +1,228 @@
+---
+schema_version: '1.0'
+id: pt:dre:181069:por
+title: Despacho Normativo n.º 82/85
+short_title: null
+summary: Estabelece regras para a distribuição das gratificações percebidas pelos empregados das salas de jogos dos casinos.
+  Revoga o despacho de 20 de Janeiro de 1983
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Trabalho e Segurança Social - Secretaria de Estado do Trabalho
+proposing_entity: null
+official_number: 82/85
+official_date: null
+publication_date: '1985-08-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 197/1985, Série I de 1985-08-28
+  number: '197'
+  series: I
+  supplement: null
+  pages: 2788 - 2790
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/08/19700/27882790.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '181069'
+  dre_path: /dr/detalhe/despacho-normativo/82-1985-181069
+  internal: pt:dre:181069:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/82-1985-181069
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/82-1985-181069
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-03-15T00:00:00Z'
+integrity:
+  source_sha256: c82af5cc71d3be508089da647c1a73c43c549aa2ed6fa81774de2b29f6e71c30
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-82-181069.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:613709:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 82/85
+
+Gratificações percebidas pelos empregados das salas de jogos dos casinos
+
+Pelo despacho de 20 de Janeiro de 1983, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 6, de 15 de Fevereiro de 1983, foram estabelecidas regras actualizados dos regimes anteriormente definidos para a distribuição das gratificações percebidas pelos empregados das salas de jogos dos casinos.
+
+Desde aquela data diversas dúvidas se têm suscitado quanto à interpretação e alcance exactos de algumas das referidas regras, o que tem motivado inúmeras consultas e pedidos de esclarecimento por parte das empresas concessionárias e do Sindicato dos Profissionais de Banca dos Casinos.
+
+Por outro lado, as mesmas entidades interessadas exprimiram observações críticas sobre alguns aspectos que se apresentam regulamentados com excessiva rigidez ou não se acham previstos no despacho citado.
+
+Nestes termos:
+
+Considerando que quer as empresas concessionárias quer o Sindicato dos Profissionais de Banca dos Casinos entendem conveniente que se proceda à revisão de algumas regras do processo de distribuição das gratificações referidas;
+
+Considerando as propostas de alteração apresentadas por essas entidades;
+
+Ouvida a Inspecção-Geral de Jogos e com parecer favorável da Secretaria de Estado do Turismo:
+
+Determino, nos termos e ao abrigo do disposto nos §§ 1.º e 2.º do artigo 13.º do [Decreto n.º 41812](https://diariodarepublica.pt/dr/detalhe/decreto/41812-1958-352076), de 9 de Agosto de 1958, com a redacção consagrada pelo [Decreto n.º 43044](https://diariodarepublica.pt/dr/detalhe/decreto/43044-1960-502409), de 2 de Julho de 1960, o seguinte:
+
+1 - A distribuição das gratificações percebidas pelos empregados das salas dos casinos onde se praticam os jogos referidos nos n.os 1 e 2 do artigo 4.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, obedecerá às regras definidas no presente despacho.
+
+2 - As gratificações recebidas pelos empregados nas mesas de jogo serão obrigatoriamente depositadas em caixas existentes nas respectivas mesas.
+
+3 - As gratificações a que se refere o número anterior serão distribuídas quinzenalmente pelos empregados que prestam exclusivamente serviço nas salas de jogos tradicionais e exerçam as seguintes profissões:
+
+a) Chefe de partida;
+
+b) Fiscal-chefe;
+
+c) Chefe de banca;
+
+d) Fiscal de banca;
+
+e) Pagador;
+
+f) Ficheiro fixo;
+
+g) Ficheiro volante;
+
+h) Contínuo e porteiro;
+
+i) Controlador de identificação.
+
+4 - Para determinação da parte das gratificações a atribuir aos empregados, estes serão agrupados nas classes constantes do mapa anexo.
+
+5 - Os empregados a que se referem as alíneas f) a i) ao ascenderem à profissão prevista na alínea e) ingressam directamente na classe B se tiverem mais de 3 anos de efectivo serviço na anterior profissão.
+
+6 - A classificação dos empregados com vista à aplicação do presente despacho carece de confirmação dos serviços competentes do Ministério do Trabalho e Segurança Social.
+
+6.1 - Para este efeito, as empresas concessionárias remeterão anualmente ao Ministério do Trabalho e Segurança Social e ao Sindicato dos Profissionais de Banca dos Casinos os mapas de pessoal das salas de jogos tradicionais, bem como respectivas alterações, quando ocorram, no prazo de um mês.
+
+7 - Para efeitos do presente despacho, quando uma empresa concessionária explore na mesma zona de jogo mais do que um casino, o pessoal ao seu serviço constituirá um quadro único.
+
+8 - Do montante das gratificações a que se refere o n.º 2, destinar-se-ão:
+
+a) Para o pessoal abrangido por este despacho - 88%;
+
+b) Para o Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos - 12%.
+
+9 - As gratificações a que se refere a alínea a) do número anterior serão distribuídas da seguinte forma:
+
+Classe A - 6 vezes o valor de x;
+
+Classe B - 4 vezes o valor de x;
+
+Classe C - 2 vezes o valor de x;
+
+Classe D - 1 vez o valor de x.
+
+9.1 - O valor de x será determinado pela aplicação da fórmula:
+
+x = G/(6 - A + 4 - B + 2 - C + D)
+
+em que:
+
+G = à importância a distribuir.
+
+A, B, C e D = ao número de empregados abrangidos pelas respectivas classes.
+
+10 - A distribuição das gratificações pelos chefes de partida e fiscais-chefes apenas poderá abranger o seguinte número limitado de empregados:
+
+a) Chefe de partida - um por casino;
+
+b) Fiscais-chefes - um número que não ultrapasse 5% dos classificados nas alíneas a) a e) do n.º 3, tomando-se por base 20 ou o seu múltiplo imediatamente superior ao número total dos empregados considerados se estes não ultrapassarem o número de 100; caso seja superior a este número, tomar-se-á por base 15 ou o seu múltiplo imediatamente superior, com arredondamento por excesso;
+
+c) Quando no mesmo casino preste serviço um número de empregados que ultrapasse o limite considerado nas alíneas a) e b), os mesmos receberão, em conjunto, a parte das gratificações correspondentes ao número encontratado através da limitação anterior.
+
+11 - As gratificações recebidas directamente pelo pessoal abrangido pelas alíneas f) a i) do n.º 3 não entram na distribuição geral por dificuldade de controle, sendo este facto tido em consideração na fixação das percentagens recebidas.
+
+12 - As caixas destinadas ao depósito das gratificações serão do modelo a aprovar pelos serviços competentes do Ministério do Trabalho e Segurança Social.
+
+13 - O apuramento das gratificações será feito diariamente e logo após o termo do funcionamento do jogo por uma comissão de apuramento, constituída, em cada casino, por um representante do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos, um representante da empresa concessionária e dois representantes dos chefes de banca ou fiscais e pagadores designados pelos interessados.
+
+14 - As importâncias apuradas diariamente serão registadas em quadruplicado, logo após a sua determinação, em livros próprios, de folhas destacáveis, que serão assinadas pelos membros da comissão de apuramento presentes, e terão os seguintes destinos:
+
+O original para a comissão de distribuição das gratificações;
+
+O duplicado para ser afixado nas instalações do pessoal;
+
+O triplicado para a empresa concessionária;
+
+O quadruplicado para o Fundo Especial de Segurança Social.
+
+14.1 - Os duplicados das folhas de registo serão enviados ao Sindicato dos Profissionais de Banca dos Casinos após o recebimento, pelos interessados, das importâncias das gratificações respectivas.
+
+15 - As importâncias das gratificações apuradas diariamente serão depositadas no primeiro dia útil imediato, em conta bancária especial aberta em nome da comissão de distribuição das gratificações.
+
+15.1 - A comissão de distribuição das gratificações terá sede no próprio casino ou, no caso de a empresa concessionária explorar na mesma zona de jogo mais do que um casino, naquele que for escolhido pelos interessados, e será constituída por um representante da empresa concessionária e por 6 representantes dos empregados das salas de jogos com direito às gratificações, representando 2 os fiscais, 2 os pagadores, 1 os ficheiros fixos e 1 as restantes categorias, de modo a estarem presentes empregados de todos os casinos quando a empresa explore mais do que um.
+
+15.2 - Em regulamento interno será estabelecida a forma de rotação dos representantes dos empregados, no caso previsto na parte final do parágrafo anterior.
+
+15.3 - À comissão compete elaborar o mapa de distribuição, extrair três cópias e efectuar as liquidações nos termos do disposto no n.º 16.
+
+15.4 - O original do mapa será para arquivo da comissão, nele devendo ser apostas as assinaturas dos empregados, o duplicado para afixar nas instalações, o triplicado para o fundo de assistência e o quadruplicado para a empresa concessionária.
+
+16 - As liquidações serão feitas quinzenalmente, nos dias 1 e 16 de cada mês ou, coincidindo estes dias com sábados, domingos ou feriados, no primeiro dia útil que se lhes seguir, pelo sistema de ordem de transferência bancária, para as contas dos empregados, quanto às importâncias a estes devidas, e para a Caixa Geral de Depósitos, Crédito e Previdência, na parte respeitante ao fundo de assistência.
+
+16.1 - É vedado o uso de cheque para qualquer levantamento e a ordem de transferência bancária só será válida quando assinada por três elementos da comissão de distribuição das gratificações.
+
+17 - Os membros das comissões de distribuição das gratificações são solidariamente responsáveis pela distribuição das gratificações a que este despacho se refere fora dos termos nele previstos, bem como por quaisquer irregularidades cometidas, salvo se, em acta, tiverem votado contra a resolução ou nela não tiverem participado.
+
+18 - Os empregados mantêm o direito às gratificações nos seguintes casos:
+
+a) Quando as ausências ao trabalho sejam justificadas, sem perda de retribuição, ou decorram do exercício de um direito ou do cumprimento de uma obrigação legalmente estabelecidos;
+
+b) Durante o período de suspensão da actividade profissional por motivo de processo disciplinar, até ao limite de sessenta dias, podendo, em cada caso, a comissão de distribuição das gratificações fixar um limite superior;
+
+c) Quando afastados do serviço por doença verificada pelo médico dos Serviços Médico-Sociais, até ao limite de seis meses em cada três anos ou no período que, em cada caso, for fixado pela comissão de distribuição das gratificações.
+
+18.1 - As deliberações a que se referem as alíneas b) e c) do presente número serão tomadas por maioria de dois terços dos membros da comissão de distribuição das gratificações.
+
+19 - É revogado o despacho de 20 de Janeiro de 1983.
+
+20 - O presente despacho entra em vigor no início da quinzena imediata à sua publicação.
+
+Secretaria de Estado do Trabalho, 31 de Julho de 1985. - O Secretário de Estado do Trabalho, Vítor Manuel Sampaio Caetano Ramalho.
+
+MAPA
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/19700/27882790.pdf))](https://files.diariodarepublica.pt/1s/1985/08/19700/27882790.pdf)

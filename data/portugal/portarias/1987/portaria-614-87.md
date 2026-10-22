@@ -1,0 +1,174 @@
+---
+schema_version: '1.0'
+id: pt:dre:420459:por
+title: Portaria n.º 614/87
+short_title: null
+summary: Homologa o protocolo de colaboração celebrado entre a Faculdade de Medicina da Universidade de Coimbra e os Hospitais
+  da Universidade de Coimbra
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Educação e Cultura e da Saúde
+proposing_entity: null
+official_number: 614/87
+official_date: null
+publication_date: '1987-07-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1987, Série I de 1987-07-17
+  number: '162'
+  series: I
+  supplement: null
+  pages: 2831 - 2832
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/07/16200/28312832.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '420459'
+  dre_path: /dr/detalhe/portaria/614-1987-420459
+  internal: pt:dre:420459:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/614-1987-420459
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/614-1987-420459
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-10-24T00:00:00Z'
+integrity:
+  source_sha256: 773b26dde04485c2a8ee07e83b37affcc98d0ba5e8e0f7846c38784674d3c7d7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-614-420459.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:565426:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 614/87
+
+de 17 de Julho
+
+Considerando que algumas das disciplinas constantes do plano de estudos aprovado para a Faculdade de Medicina da Universidade de Coimbra deverão ser ministradas em instituições hospitalares, de acordo com o regime previsto no [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro;
+
+Considerando que, para tal efeito, foi celebrado um protocolo de colaboração entre a aludida Faculdade e os Hospitais da Universidade de Coimbra;
+
+Considerando ainda que, face ao disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, a eficácia do referido protocolo está condicionada à homologação ministerial:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Educação e Cultura e da Saúde, homologar o protocolo de colaboração celebrado entre a Faculdade de Medicina da Universidade de Coimbra e os Hospitais da Universidade de Coimbra, que segue em anexo à presente portaria.
+
+Ministérios da Educação e Cultura e da Saúde.
+
+**Assinada em 2 de Julho de 1987.**
+
+**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+
+Protocolo entre a Faculdade de Medicina de Coimbra e os Hospitais da Universidade de Coimbra, de acordo com o n.º 3 do artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro.
+
+I
+
+Serviços e disciplinas
+
+De acordo com as alíneas a) e b) do n.º 3 do artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, as disciplinas a administrar nos Hospitais da Universidade de Coimbra são as seguintes:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16200/28312832.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16200/28312832.pdf)
+
+II
+
+Pessoal
+
+O regime de relação entre a função docente e assistencial obedece ao estabelecido nos Decretos-Leis n.os [312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, e [294/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), de 24 de Julho.
+
+III
+
+Comissão Mista
+
+1 - A Comissão Mista Permanente encarregada de assegurar o funcionamento dos protocolos e o seu respeito é formada por seis membros: três elementos nomeados pelo conselho directivo da Faculdade de Medicina e três elementos indicados pelo conselho de gerência dos Hospitais da Universidade de Coimbra, ouvidos, respectivamente, o conselho científico da Faculdade de Medicina e a direcção médica dos Hospitais da Universidade de Coimbra.
+
+2 - A coordenação competirá a um dos membros, com mandato de um ano e indicado rotativamente pela Faculdade de Medicina e pelos Hospitais da Universidade de Coimbra.
+
+3 - A Comissão reúne duas vezes por ano, sendo uma em Julho, após a aprovação do plano de estudos e atribuição das regências, e outra em Dezembro.
+
+4 - Compete a esta Comissão Mista:
+
+a) Zelar pelo cumprimento deste protocolo e fazer respeitar o estipulado no [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665);
+
+b) A definição das correspondências e ligações entre as disciplinas das cadeiras básicas pré-clínicas e novas disciplinas com os serviços hospitalares ou novos serviços;
+
+c) Pronunciar-se sobre a criação ou transformação de serviços com implicação no ensino.
+
+IV
+
+Encargos financeiros
+
+Enquanto não forem superiormente aprovados os orçamentos relativos à utilização, por parte da Faculdade, nos Hospitais da Universidade de Coimbra, o conselho de gerência destes Hospitais e o conselho directivo da Faculdade de Medicina acordam anualmente os encargos.
+
+## ANEXO
+
+A distribuição dos encargos financeiros com o pessoal e manutenção nos Hospitais da Universidade de Coimbra foi assim proposta:
+
+Aceita-se a «filosofia» de que competirá aos Hospitais da Universidade de Coimbra a responsabilidade de proporcionar à Faculdade de Medicina as condições necessárias ao desenvolvimento das actividades docentes e de investigação, quer a nível de instalações, quer de equipamentos, quer de pessoal, quer ainda de produtos consumíveis dentro das possibilidades existentes em cada momento. Assim, a Faculdade de Medicina terá de compensar os Hospitais da Universidade de Coimbra com uma verba anual global, calculada de acordo com os seguintes parâmetros:
+
+1 - Instalações
+
+a) Os Hospitais da Universidade de Coimbra, sem prejuízo das suas actividades, proporcionarão à Faculdade de Medicina o uso de um sector especificamente destinado a actividades docentes, constituído por 73 salas de aula e 3 anfiteatros, e anexos, recebendo, em contrapartida, a verba correspondente a 80% do valor da respectiva reintegração, calculada esta à taxa legalmente fixada.
+
+b) A Faculdade de Medicina compensará também os Hospitais da Universidade de Coimbra pela utilização genérica que poderá fazer das restantes instalações, na base do pagamento anual da verba correspondente a 3% do valor da respectiva reintegração, calculada esta à taxa legalmente fixada.
+
+2 - Equipamentos
+
+a) A Faculdade de Medicina dará igualmente contrapartida pelo uso de equipamento que os Hospitais da Universidade de Coimbra lhe proporcionarão para actividades específicas de docência e investigação, na base do pagamento anual da verba correspondente a 80% do valor das respectivas reintegrações, calculadas estas a uma taxa global determinada pela média das taxas legalmente fixadas para os referidos equipamentos.
+
+b) Competirá ainda aos Hospitais da Universidade de Coimbra serem compensados pela utilização genérica dos restantes equipamentos, por causa de actividades de ensino e investigação, o que se processará na base do pagamento de uma verba anual correspondente a 5% do valor das respectivas reintegrações, calculadas estas pela média das taxas legalmente estabelecidas.
+
+3 - Pessoal
+
+a) Os pagamentos e abonos a pessoal docente e hospitalar processar-se-ão nos termos do disposto no [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro.
+
+b) A Faculdade de Medicina compensará, anualmente, os Hospitais da Universidade de Coimbra da verba que estes despenderem com os vencimentos e demais abonos do pessoal que tiverem de admitir para desempenho de funções específicas na área da docência e investigação.
+
+c) Pelos serviços genericamente prestados pelo restante pessoal dos Hospitais da Universidade de Coimbra, com incidência no ensino e investigação, a Faculdade de Medicina prestará compensação anual da verba correspondente a 2% do valor total de vencimentos e demais abonos pagos a pessoal.
+
+4 - Encargos gerais
+
+A Faculdade de Medicina compensará ainda os Hospitais da Universidade de Coimbra dos gastos que estes suportarem com produtos de consumo e outros encargos gerais de manutenção, na base da verba correspondente a 5% da despesa global anual efectuada.

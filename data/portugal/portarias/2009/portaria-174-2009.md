@@ -1,0 +1,301 @@
+---
+schema_version: '1.0'
+id: pt:dre:602016:por
+title: Portaria n.º 174/2009
+short_title: null
+summary: Regulamenta o Programa de Apoio aos Equipamentos (PAE)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 174/2009
+official_date: null
+publication_date: '2009-02-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 34/2009, Série I de 2009-02-18
+  number: '34'
+  series: I
+  supplement: null
+  pages: 1151 - 1153
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03400/0115101153.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/174/2009/02/18/p/dre/pt/html
+  oj: null
+  dre: '602016'
+  dre_path: /dr/detalhe/portaria/174-2009-602016
+  internal: pt:dre:602016:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/174-2009-602016
+  metadata_url: https://data.dre.pt/eli/port/174/2009/02/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/174-2009-602016
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-09-01T00:00:00Z'
+integrity:
+  source_sha256: 77a0825cdefa8d5df6f6ef7b0f08e11a6d29193fa2575cac731ec524e1bf0dcb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-174-602016.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- QREN
+- Ambulância
+- Proteção Civil
+- Incêndio
+- Prevenção de Incêndios
+- Financiamento
+- Comandante Operacional Municipal
+- Conselho Nacional de Bombeiros
+- Direcção Nacional de Bombeiros
+- Equipamento
+- Proteção da Floresta
+- Veículo
+- Liga dos Bombeiros Portugueses
+- Bombeiro
+- Autoridade Nacional de Protecção Civil
+- Programa de Apoio aos Equipamentos
+relationships:
+- type: amended_by
+  target: pt:dre:488506:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/247/2007/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/2007/06/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/32/2007/08/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/32/2007/08/13/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 174/2009
+
+de 18 de Fevereiro
+
+As recentes alterações legislativas verificadas no sector da protecção e socorro vieram dar resposta a diversas necessidades apresentadas ao longo de vários anos.
+
+Sem prejuízo da autonomia de as associações humanitárias de bombeiros (AHB) adquirirem bens de equipamento e assegurarem a manutenção de outros através da própria capacidade de investimento, o Estado tem por obrigação comparticipar no esforço financeiro daquelas, através do apoio à aquisição de equipamento operacional necessário ao cabal cumprimento das missões dos corpos de bombeiros.
+
+Neste contexto, o regime jurídico das AHB prevê a aprovação, por portaria do Ministro da Administração Interna, do regulamento dos programas de apoio financeiro e, entre estes, do Programa de Apoio aos Equipamentos (PAE), que visa apoiar a manutenção da capacidade operacional dos corpos de bombeiros.
+
+Em matéria dos equipamentos, o regime jurídico aplicável aos corpos de bombeiros prevê a definição, por regulamento da Autoridade Nacional de Protecção Civil (ANPC), dos tipos, características, classificações, normalização técnica e dotações mínimas de veículos e demais equipamentos operacionais que podem ser detidos pelos corpos de bombeiros.
+
+Considerando que o esforço financeiro do Estado deve ser dirigido para investimentos bem identificados e que possam contribuir para a melhoria estrutural e o nível de segurança do dispositivo nacional de operações de socorro, importa fixar o enquadramento regulamentar do Programa de Apoio aos Equipamentos (PAE), bem como do correspondente plano de equipamento.
+
+A regulamentação do PAE assenta na parametrização das vulnerabilidades do território, à escala municipal, associada às principais ocorrências no âmbito das operações de protecção e socorro. Embora a parametrização das vulnerabilidades, e consequente determinação, à escala municipal, dos meios mínimos que devem existir, tenha sido considerada a mais objectiva e coerente, esta deverá ser alvo das actualizações que venham a revelar-se necessárias, designadamente em resultado de novos estudos científicos em matéria de avaliação de riscos.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Administração Interna, nos termos do n.º 2 do artigo 31.º da [Lei n.º 32/2007](https://diariodarepublica.pt/dr/detalhe/lei/32-2007-636956), de 13 de Agosto, ouvida a Liga de Bombeiros Portugueses, o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - A presente portaria regulamenta o Programa de Apoio aos Equipamentos (PAE), previsto na alínea c) do n.º 1 do artigo 31.º da [Lei n.º 32/2007](https://diariodarepublica.pt/dr/detalhe/lei/32-2007-636956), de 13 de Agosto, e define os critérios técnicos para a determinação das dotações mínimas por município.
+
+2 - A presente portaria é aplicável a todos os corpos de bombeiros detidos por associações humanitárias ou por municípios, em território continental.
+
+###### Artigo 2.º — Conceito
+
+1 - O PAE tem por matriz a identificação dos parâmetros associados às vulnerabilidades do território em cada município e a definição dos tipos de veículos e equipamentos operacionais dos corpos de bombeiros e respectivas dotações mínimas, materializadas no plano de equipamento a financiar pelo Estado.
+
+2 - O PAE, através do plano de equipamento, tem os seguintes objectivos estratégicos:
+
+a) Melhorar o parque de veículos de socorro e combate a incêndios e garantir a dotação mínima à escala municipal;
+
+b) Instalar uma rede de comunicações e georreferenciação de veículos de socorro e combate a incêndios;
+
+c) Garantir o quantitativo mínimo de equipamentos operacionais e de protecção individual.
+
+###### Artigo 3.º — Vulnerabilidades do território
+
+1 - As vulnerabilidades do território de cada município estão directamente relacionadas com as principais ocorrências no âmbito da protecção e socorro.
+
+2 - Para efeitos da presente portaria, as principais ocorrências no âmbito da protecção e socorro são agrupadas nas seguintes classificações:
+
+a) Incêndios urbanos;
+
+b) Incêndios industriais e comerciais;
+
+c) Incêndios florestais;
+
+d) Acidentes rodoviários.
+
+3 - A vulnerabilidade associada a incêndios urbanos é avaliada em função do número de alojamentos permanentes e sazonais existentes.
+
+4 - A vulnerabilidade associada a incêndios industriais e comerciais é avaliada em função do número de instalações existentes.
+
+5 - A vulnerabilidade associada a incêndios florestais é avaliada em função da área florestal e silvestre.
+
+6 - A vulnerabilidade associada a acidentes rodoviários é avaliada em função da média dos últimos cinco anos de ocorrências diárias de acidentes rodoviários com vítimas, arredondada à unidade.
+
+###### Artigo 4.º — Parâmetros
+
+1 - A definição, à escala municipal, da tipologia dos veículos de socorro e combate a incêndios dos corpos de bombeiros e a determinação das respectivas dotações mínimas têm por base os seguintes parâmetros:
+
+a) Um veículo de combate a incêndios urbanos, por cada 5000 alojamentos permanentes e sazonais;
+
+b) Um veículo de combate a incêndios industriais e comerciais, por cada 250 instalações industriais e comerciais de dimensão relevante;
+
+c) Um veículo de combate a incêndios florestais, por cada 3000 ha de área de espaços florestais e silvestres;
+
+d) Um veículo de desencarceramento em acidentes rodoviários, por cada unidade da média diária de acidentes rodoviários, calculada de acordo com o n.º 6 do artigo anterior.
+
+2 - A definição, à escala municipal, da tipologia dos equipamentos operacionais dos corpos de bombeiros e a determinação das respectivas dotações mínimas têm por base os seguintes parâmetros:
+
+a) O número de equipamentos de comunicação e georreferenciação corresponde ao número de veículos de socorro e combate a incêndios e de veículos de comando operacional existentes no corpo de bombeiros;
+
+b) O número de equipamentos de protecção individual para incêndios urbanos, industriais e comerciais e operações de desencarceramento, corresponde ao número de elementos da guarnição das viaturas de socorro e combate a incêndios existentes no corpo de bombeiros;
+
+c) O número de equipamentos de protecção individual para incêndios florestais corresponde ao quantitativo total dos elementos do quadro homologado do corpo de bombeiros;
+
+d) O número de ferramentas e equipamentos individuais de combate indirecto a incêndios florestais corresponde ao equipamento do efectivo mínimo de uma brigada.
+
+3 - Para cálculo das dotações mencionadas nos números anteriores são utilizados os dados estatísticos publicados pelas entidades oficiais competentes.
+
+4 - Os parâmetros estabelecidos no presente artigo são objecto de revisão cinco anos após a entrada em vigor da presente portaria.
+
+###### Artigo 5.º — Aferição da dotação de veículos
+
+1 - No âmbito do PAE e para efeitos da aferição da dotação mínima de veículos, à escala municipal, considera-se a seguinte dotação mínima de veículos de socorro e combate a incêndios, por corpo de bombeiros:
+
+a) Um veículo urbano de combate a incêndios (VUCI);
+
+b) Um veículo tanque táctico urbano (VTTU);
+
+c) Um veículo ligeiro de combate a incêndios (VLCI);
+
+d) Um veículo florestal de combate a incêndios (VFCI);
+
+e) Um veículo de socorro e assistência táctico (VSAT);
+
+f) Uma ambulância de socorro (ABSC).
+
+2 - Na aferição da dotação de veículos a apoiar pelo PAE, o resultado final obtido através da soma entre a dotação mínima por corpo de bombeiros, expressa no número anterior, com excepção da ABSC, e o cálculo dos parâmetros constantes do n.º 1 do artigo anterior, à escala municipal, é condicionado em função da dotação do quadro homologado do conjunto dos corpos de bombeiros do município.
+
+3 - Para efeitos do número anterior é considerada uma guarnição média de 5 elementos para cada viatura e a capacidade de accionamento dos meios em dois terços do dia, equivalente a dezasseis horas, o que corresponde a um mínimo de 10 elementos por viatura.
+
+4 - O limite máximo de veículos a apoiar, em cada município, é calculado segundo a fórmula:
+
+Número máximo de veículos = QH/GMV/T
+
+em que:
+
+QH - dotação do quadro homologado correspondente ao efectivo máximo das respectivas tipologias dos corpos de bombeiros (conforme definido no n.º 3 do artigo 10.º do [Decreto-Lei n.º 247/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2007-635841), de 27 de Junho);
+
+GMV - guarnição média por viatura (cinco elementos);
+
+T - número de turnos correspondente a dois terços do dia (dois turnos).
+
+5 - Nos corpos de bombeiros com mais de 120 elementos será considerada a dotação dos quadros de pessoal homologados, para efeitos do cálculo referido no número anterior.
+
+###### Artigo 6.º — Plano de equipamento
+
+1 - O plano de equipamento é elaborado pela Direcção Nacional de Bombeiros e aprovado por despacho do presidente da ANPC, ouvido o Conselho Nacional de Bombeiros.
+
+2 - A elaboração do plano de equipamento obedece aos parâmetros e requisitos estabelecidos na presente portaria, devendo ainda ter em conta a disponibilidade de equipamentos existentes nos corpos de bombeiros e em outros agentes de protecção civil do município.
+
+###### Artigo 7.º — Prioridades do plano de equipamento
+
+1 - O plano de equipamento incide prioritariamente:
+
+a) No apoio à aquisição de veículos de socorro e combate a incêndios, no sentido de cumprir os quantitativos e as tipologias definidas por corpo de bombeiros e por município;
+
+b) Na substituição de veículos de socorro e combate a incêndios que tenham atingido o período de vida útil e apresentem baixo nível de desempenho operacional, e façam parte da dotação mínima definida para o município;
+
+c) No apoio à reconversão e recuperação de equipamentos operacionais instalados nos veículos de socorro e combate a incêndios que ainda não tenham atingido o período de vida útil, mas cuja operacionalidade esteja condicionada;
+
+d) Na implementação da rede nacional de georreferenciação de veículos de socorro e combate a incêndios;
+
+e) Na requalificação da rede de equipamentos de comunicação;
+
+f) No apoio à aquisição de equipamentos de protecção individual.
+
+2 - A aquisição de veículos, para substituição de outros que tenham atingido o período de vida útil, implica, obrigatoriamente, o abate dos veículos substituídos ou a sua exclusão do dispositivo operacional.
+
+###### Artigo 8.º — Alocação dos veículos e equipamentos operacionais
+
+Nos municípios em que exista mais que um corpo de bombeiros, atentos os princípios da afectação racional e coordenação de meios, a alocação dos veículos e equipamentos operacionais, dentro de cada município e atendendo às características da área de actuação de cada corpo de bombeiros, compete à ANPC, mediante parecer do comandante operacional municipal.
+
+###### Artigo 9.º — Veículos e equipamentos operacionais
+
+1 - Para efeitos da presente portaria, a tipologia dos veículos de socorro e combate a incêndios previstos no n.º 1 dos artigos 4.º e 5.º, e contemplados no plano de equipamento, são:
+
+a) Veículo ligeiro de combate a incêndios (VLCI);
+
+b) Veículo florestal de combate a incêndios (VFCI);
+
+c) Veículo urbano de combate a incêndios (VUCI);
+
+d) Veículo tanque táctico urbano (VTTU);
+
+e) Veículo tanque táctico rural (VTTR);
+
+f) Veículo de socorro e assistência táctico (VSAT);
+
+g) Veículo de socorro e assistência especial (VSAE);
+
+h) Ambulância de socorro (ABSC).
+
+2 - Para efeitos da presente portaria, e tendo em conta o seu carácter de complementaridade ao dispositivo operacional, o apoio à aquisição de ambulâncias de socorro (ABSC) é concedido mediante protocolo e condicionado ao reconhecimento, pela ANPC, da existência de recursos humanos qualificados para a respectiva operação.
+
+3 - Para além dos equipamentos identificados no n.º 1, cujas normas técnicas serão definidas por despacho do presidente da ANPC, o apoio à aquisição de outros equipamentos operacionais, nomeadamente para missões em meio aquático, resgate em grande ângulo e operações na neve, é condicionado ao reconhecimento, pela ANPC, da existência de capacidade operacional e qualificação técnica nos corpos de bombeiros para execução das respectivas missões, tendo em consideração a vulnerabilidade do município.
+
+4 - O equipamento a afectar a cada uma das missões, identificadas no ponto anterior, corresponde ao necessário para a operação do efectivo mínimo de uma brigada.
+
+###### Artigo 10.º — Veículos e equipamentos especiais
+
+A aquisição de veículos específicos como veículos de protecção multirriscos táctico (VPMT), veículos de protecção multirriscos especial (VPME), veículos de comando e comunicações (VCOC) e veículos de gestão estratégica e operações (VGEO), entre outros equipamentos especiais, compete à ANPC, podendo esta, através de contrato-programa, assegurar a sua operação por terceiros.
+
+###### Artigo 11.º — Financiamento do plano de equipamento
+
+1 - O financiamento do plano de equipamento do PAE é efectuado, preferencialmente, através de candidaturas ao quadro de referência estratégico nacional (QREN), através dos programas operacionais, atendendo às regras e procedimentos para tal definidos na legislação aplicável.
+
+2 - Em situações especiais e devidamente enquadradas, poderá ser equacionada a comparticipação através do orçamento da ANPC.
+
+3 - Os veículos e equipamentos considerados prioritários, para efeitos de financiamento, são os definidos no plano de equipamento.
+
+###### Artigo 12.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação.
+
+Pelo Ministro da Administração Interna, José Miguel Abreu de Figueiredo Medeiros, Secretário de Estado da Protecção Civil, em 11 de Fevereiro de 2009.

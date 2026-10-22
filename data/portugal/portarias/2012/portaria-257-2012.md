@@ -1,0 +1,865 @@
+---
+schema_version: '1.0'
+id: pt:dre:174554:por
+title: Portaria n.º 257/2012
+short_title: null
+summary: Estabelece as normas de execução da Lei n.º 13/2003, de 21 de maio, que institui o rendimento social de inserção
+  e procede à fixação do valor do rendimento social de inserção (RSI)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Solidariedade e da Segurança Social
+proposing_entity: null
+official_number: 257/2012
+official_date: null
+publication_date: '2012-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 165/2012, Série I de 2012-08-27
+  number: '165'
+  series: I
+  supplement: null
+  pages: 4724 - 4729
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/08/16500/0472404729.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-08-28'
+version_history:
+  file: portaria-257-2012.versoes.json
+  count: 11
+  source_lastmod: '2026-09-02'
+  versions:
+  - date: '2012-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-02-01'
+    amending: pt:dre:256986:por
+    amending_title: Decreto-Lei n.º 13/2013
+    changes:
+    - Altera Artigo 31.º
+  - date: '2016-03-01'
+    amending: pt:dre:73017523:por
+    amending_title: Decreto-Lei n.º 1/2016
+    changes:
+    - Altera Artigo 31.º
+  - date: '2017-08-09'
+    amending: pt:dre:107976097:por
+    amending_title: Portaria n.º 253/2017
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 30.º
+    - Revoga Artigo 28.º
+  - date: '2019-01-22'
+    amending: pt:dre:117942335:por
+    amending_title: Portaria n.º 22/2019
+    changes:
+    - Altera Artigo 31.º
+  - date: '2021-03-18'
+    amending: pt:dre:159614842:por
+    amending_title: Portaria n.º 65/2021
+    changes:
+    - Adita Artigo 19.º-A
+    - Adita Artigo 27.º-A
+    - Adita Artigo 27.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 31.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+  - date: '2023-01-21'
+    amending: pt:dre:206350930:por
+    amending_title: Portaria n.º 32/2023
+    changes:
+    - Altera Artigo 31.º
+  - date: '2023-12-12'
+    amending: pt:dre:229857696:por
+    amending_title: Portaria n.º 420/2023
+    changes:
+    - Altera Artigo 31.º
+  - date: '2025-02-15'
+    amending: pt:dre:907471182:por
+    amending_title: Portaria n.º 39/2025/1
+    changes:
+    - Altera Artigo 31.º
+  - date: '2026-02-14'
+    amending: pt:dre:1049254415:por
+    amending_title: Portaria n.º 71/2026/1
+    changes:
+    - Altera Artigo 31.º
+  - date: '2026-08-28'
+    amending: pt:dre:1162304245:por
+    amending_title: Portaria n.º 394/2026/1
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/257/2012/p/cons/20260213/pt/html
+  oj: null
+  dre: '174554'
+  dre_path: /dr/detalhe/portaria/257-2012-174554
+  internal: pt:dre:174554:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-2012-174554
+  metadata_url: https://data.dre.pt/eli/port/257/2012/p/cons/20260213/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-73046175
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-73046175
+  retrieved_at: '2026-10-22T13:52:36Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-02T00:00:00Z'
+integrity:
+  source_sha256: e3212018c3b6bec6e263209c4f0a00ddfc665a46a25c98e7d8f7f3dc2a9148d4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:52:36Z'
+  notes: 11 versão(ões); histórico completo em portaria-257-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Definição de Competências
+- Fiscalização
+- Habitação Social
+- Núcleo Local de Inserção
+- Rendimento Social de Inserção
+- Madeira.região Autónoma
+- Segurança na Reforma - Sociedade Gestora de Fundos de Pensões
+- Segurança Social
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:256986:por
+  label: Altera Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2013-256986
+  date: '2013-01-25'
+- type: amended_by
+  target: pt:dre:73017523:por
+  label: Altera Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2016-73017523
+  date: '2016-01-06'
+- type: amended_by
+  target: pt:dre:107976097:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 11.º; Altera Artigo 14.º;
+    Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 19.º; Altera Artigo 30.º; Revoga Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097
+  date: '2017-08-08'
+- type: amended_by
+  target: pt:dre:117942335:por
+  label: Altera Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/22-2019-117942335
+  date: '2019-01-17'
+- type: amended_by
+  target: pt:dre:159614842:por
+  label: Adita Artigo 19.º-A; Adita Artigo 27.º-A; Adita Artigo 27.º-B; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo
+    3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º;
+    Altera Artigo 18.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842
+  date: '2021-03-17'
+- type: amended_by
+  target: pt:dre:206350930:por
+  label: Altera Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/32-2023-206350930
+  date: '2023-01-20'
+- type: amended_by
+  target: pt:dre:229857696:por
+  label: Altera Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/420-2023-229857696
+  date: '2023-12-11'
+- type: amended_by
+  target: pt:dre:907471182:por
+  label: Altera Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/39-2025-907471182
+  date: '2025-02-14'
+- type: amended_by
+  target: pt:dre:1049254415:por
+  label: Altera Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/71-2026-1049254415
+  date: '2026-02-13'
+- type: amended_by
+  target: pt:dre:1162304245:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245
+  date: '2026-08-27'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/133/2012/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133/2012/06/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/283/2003/11/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/283/2003/11/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/92/2004/04/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/92/2004/04/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/2003/05/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/2003/05/21/p/dre
+article_structure:
+  article_count: 36
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:52:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 257/2012
+
+A alteração ao regime jurídico do rendimento social de inserção regulado pela Lei n.º 13/2003, de 21 de maio, concretizada através do Decreto-Lei n.º 133/2012, de 27 de junho, implicou a revogação do Decreto-Lei n.º 283/2003, de 8 de novembro, e determinou que os procedimentos considerados necessários à execução da referida lei fossem aprovados por portaria do membro do Governo responsável pela área da solidariedade e da segurança social.
+
+Nestes termos, a presente portaria estabelece as regras referentes à atribuição e ao pedido de renovação da prestação do rendimento social de inserção, ao contrato de inserção e aos núcleos locais de inserção, tendo como preocupação a desburocratização e a simplificação do respetivo procedimento administrativo, com vista ao reforço da eficácia da proteção garantida por esta prestação.
+
+Assim, na verificação da condição de recursos para atribuição ou renovação do rendimento social de inserção passam a relevar os bens móveis sujeitos a registos, designadamente os veículos automóveis, sendo exigida a entrega do comprovativo do respetivo título de propriedade.
+
+A renovação do direito à prestação depende da manifestação de vontade do titular da prestação de rendimento social de inserção através da entrega de um pedido de renovação, o qual implica uma reavaliação das condições de atribuição da prestação, nomeadamente no que respeita à composição do agregado familiar e rendimentos.
+
+A averiguação oficiosa de rendimentos é efetuada pelos serviços da segurança social no momento da atribuição da prestação, seis meses após a data da atribuição ou da renovação e no âmbito do processo de renovação anual, podendo ainda ser desencadeada sempre que existam indícios objetivos e seguros de que o requerente ou algum dos seus membros possuem rendimentos suficientes para satisfazer as suas necessidades básicas, tendo em vista um rigoroso controlo das condições de acesso à prestação, de forma a garantir que a mesma é atribuída a quem dela efetivamente necessita.
+
+O contrato de inserção de cuja celebração depende a atribuição da prestação do rendimento social de inserção define e estabelece os aspetos essenciais do projeto de integração social e profissional do requerente e dos membros do seu agregado familiar que o devam subscrever nos termos da lei.
+
+O contrato de inserção contém para além dos objetivos a atingir, a descrição das ações a prosseguir, bem como a especificação dos meios necessários à sua concreta realização, assumindo desta forma um elemento charneira de todo o processo de integração social no âmbito do rendimento social de inserção.
+
+O cumprimento pontual de cada contrato de inserção é assegurado por parte do técnico gestor responsável indicado pelo núcleo local de inserção territorialmente competente.
+
+Assim:
+
+Ao abrigo do artigo 9.º e do artigo 43.º da Lei n.º 13/2003, de 21 de maio, na redação dada pelo Decreto-Lei n.º 133/2012, de 27 de junho, manda o Governo, pelo Ministro da Solidariedade e da Segurança Social, o seguinte:
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+### Capítulo I — Objeto, atribuição e renovação da prestação
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece as normas de execução da Lei n.º 13/2003, de 21 de maio, que institui o rendimento social de inserção, adiante designado por RSI, e procede à fixação do valor do rendimento social de inserção (RSI).
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece as normas de execução da Lei n.º 13/2003, de 21 de maio, na sua redação atual, que institui o rendimento social de inserção, adiante designado por RSI, e define os termos da fixação do valor do rendimento social de inserção (RSI).
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+#### Secção I — Atribuição da prestação
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+###### Artigo 2.º — Requerimento
+
+1 - A atribuição da prestação de RSI depende de requerimento apresentado pelo interessado junto dos serviços competentes da segurança social.
+
+2 - O requerimento deve ser devidamente preenchido com todos os elementos indispensáveis e ser acompanhado de toda a documentação obrigatória nele referenciada.
+
+3 - Nos casos em que, à data do requerimento, o requerente não tenha domicílio estável, deve o mesmo escolher como domicílio, para efeitos da aplicação do presente diploma, uma das entidades próximas da zona em que habitualmente se encontra e com a qual se relacione.
+
+4 - Nos casos em que, à data do requerimento, o requerente se encontre numa das situações previstas nas alíneas k) e l) do artigo 6.º da Lei n.º 13/2003, de 21 de maio, na sua redação atual, pode o mesmo, designadamente se não vive em situação de economia comum, escolher como domicílio a morada do estabelecimento prisional, da resposta social de natureza temporária, da comunidade terapêutica, da unidade de internamento da rede nacional de cuidados continuados integrados ou outra por si indicada, obrigando-se a comunicar aos serviços competentes da segurança social a alteração de morada após a saída ou alta.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 3.º — Documentação
+
+1 - O requerimento deve ser instruído com os seguintes documentos relativos ao requerente e aos membros do seu agregado familiar, sem prejuízo do disposto no n.º 5:
+
+a) Fotocópia dos documentos de identificação civil;
+
+b) Fotocópia dos documentos de identificação fiscal;
+
+c) Fotocópia dos documentos comprovativos de residência legal em território nacional emitidos por entidade competente, onde conste a duração da residência;
+
+d) Fotocópia dos recibos comprovativos das remunerações efetivamente auferidas no mês anterior ao de apresentação do requerimento, no caso de rendimentos regulares;
+
+e) Fotocópia dos recibos comprovativos das remunerações efetivamente auferidas nos três meses anteriores ao de apresentação do requerimento, no caso de rendimentos variáveis;
+
+f) Certificado de incapacidade temporária para o trabalho por estado de doença (CIT) comprovativo das situações previstas nas alíneas a) e e) do n.º 1 do artigo 6.º-A da Lei n.º 13/2003, de 21 de maio;
+
+g) Prova da deficiência comprovativa da situação prevista na alínea a) do n.º 2 do artigo 4.º da Lei n.º 13/2003, de 21 de maio;
+
+h) Declaração médica que comprove a gravidez, para efeitos do disposto na alínea b) do n.º 2 do artigo 4.º da Lei n.º 13/2003, de 21 de maio;
+
+i) Fotocópia da declaração apresentada para efeitos de imposto sobre o rendimento das pessoas singulares relativa ao ano civil anterior ao do requerimento nos casos em que não haja dispensa de apresentação nos termos do Código do IRS, quando os serviços competentes da segurança social não disponham dessa informação.
+
+2 - Quando o requerente ou algum dos membros do seu agregado familiar declarar no requerimento possuir rendimentos de capitais ou prediais, deve ainda apresentar:
+
+a) Fotocópia comprovativa da emissão dos recibos de renda;
+
+b) Fotocópias de documentos comprovativos do valor dos créditos depositados em contas bancárias e dos valores mobiliários admitidos à negociação em mercado regulamentado, bem como dos respetivos rendimentos, nomeadamente extratos de conta.
+
+3 - Para efeitos do disposto na alínea a) do n.º 1 do artigo 6.º da Lei n.º 13/2003, de 21 de maio, a comprovação da residência legal em Portugal é feita nos termos seguintes:
+
+a) Através de certificado do registo de residência emitido pela câmara municipal da área de residência do interessado, ou cartão de residência permanente relativamente a nacionais de Estado-Membro da União Europeia, de Estado que faça parte do Espaço Económico Europeu ou de um Estado Terceiro que tenha celebrado um acordo de livre circulação de pessoas com a União Europeia;
+
+b) Através de visto de estada temporária, visto de residência, autorização de residência temporária e autorização de residência permanente, concedidos ao abrigo do regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, desde que se encontrem em território nacional e nele tenham permanecido com qualquer dos títulos atrás mencionados pelo menos durante um ano, salvo se ao requerente tiver sido concedido o estatuto de refugiado, no que respeita aos nacionais de Estados não mencionados na alínea anterior.
+
+4 - O requerente fica obrigado a instruir o requerimento com os documentos referidos nos números anteriores sempre que estes lhes sejam solicitados pelos serviços competentes da segurança social por não constarem do sistema de informação da segurança social.
+
+5 - Sempre que os dados de identificação do requerente ou dos membros do seu agregado familiar já constem atualizados no sistema de informação da segurança social, dispensa-se a apresentação dos respetivos documentos de prova.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+###### Artigo 4.º — Falta de apresentação de documentos
+
+1 - Sempre que o serviço competente da segurança social verifique a falta de algum documento referido no artigo anterior, necessário ao reconhecimento do direito, comunica o facto ao interessado.
+
+2 - Da referida comunicação deve constar que a não apresentação dos documentos em falta no prazo de 10 dias úteis, determina o não prosseguimento do procedimento administrativo, notificando-se o requerente desse facto.
+
+3 - A instrução do processo resultante de novo requerimento deve ser feita com o aproveitamento possível dos elementos que integram o processo anterior.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+###### Artigo 5.º — Verificação oficiosa de rendimentos
+
+1 - Os rendimentos declarados são verificados oficiosamente:
+
+a) No momento de atribuição da prestação;
+
+b) No momento da renovação anual do direito, prevista no n.º 3 do artigo 21.º da Lei n.º 13/2003, de 21 de maio;
+
+c) (Revogado.)
+
+2 - A verificação oficiosa de rendimentos referida no número anterior pode ainda ser desencadeada com uma periodicidade semestral após a data da atribuição ou da renovação do direito da prestação ou sempre que existam indícios objetivos e seguros de que o requerente ou algum dos membros do seu agregado familiar dispõem de rendimentos suficientes para satisfazer as suas necessidades.
+
+3 - A alteração dos rendimentos declarados, no âmbito da verificação oficiosa dos rendimentos pode determinar o indeferimento, a revisão do valor, ou a cessação da prestação, sem prejuízo do disposto no artigo 24.º da Lei n.º 13/2003, de 21 de maio.
+
+4 - A verificação oficiosa dos rendimentos é efetuada tendo em conta a informação disponível no sistema de segurança social, bem como através de interconexão de dados entre as bases de dados da segurança social e da administração fiscal, nos termos previstos no Decreto-Lei n.º 92/2004, de 20 de abril.
+
+5 - As entidades que disponham de informações relevantes para a atribuição e cálculo da prestação, nomeadamente os serviços da administração fiscal, devem fornecer as informações que forem solicitadas pelas entidades competentes da segurança social no exercício da autorização concedida pelos beneficiários de forma livre, específica e inequívoca, nos termos do n.º 8 do artigo 17.º da Lei n.º 13/2003, de 21 de maio, na sua redação atual, e no estrito cumprimento do Regulamento Geral de Proteção de Dados.
+
+6 - A falta de entrega da declaração de autorização para acesso a informação detida por terceiros, quando solicitada, determina o arquivamento do processo nas situações de atribuição da prestação e de suspensão da prestação nas restantes situações de verificação oficiosa de rendimentos.
+
+7 - O disposto nos números anteriores não prejudica o preceituado no artigo 31.º da Lei n.º 13/2003, de 21 de maio, relativamente à prestação de falsas declarações.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+###### Artigo 6.º — Informação para despacho
+
+Sempre que a análise do requerimento e dos documentos probatórios indicie a existência do direito à prestação, deve a informação para despacho integrar o valor apurado da prestação.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+###### Artigo 7.º — Indeferimento da prestação
+
+1 - Sempre que das declarações constantes do requerimento, dos documentos probatórios ou de informação conhecida pelos serviços competentes da segurança social se possa concluir, com segurança, pela inexistência do direito à prestação, deve constar, desde logo, da informação para despacho a proposta de indeferimento.
+
+2 - Nas situações referidas no número anterior, devem os serviços proceder a audiência prévia do requerente, nos termos dos artigos 121.º e seguintes do Código do Procedimento Administrativo.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+###### Artigo 8.º — Despacho decisório
+
+Os serviços competentes da segurança social proferem despacho decisório com base na informação constante do processo.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 9.º — Remessa para elaboração do contrato de inserção
+
+1 - No caso de despacho de deferimento da prestação social RSI, deve ser de imediato solicitada ao coordenador do NLI competente a elaboração do contrato de inserção, conforme o n.º 1 do artigo 18.º da Lei n.º 13/2003, de 21 de maio, na sua redação atual, sendo-lhe remetida informação relevante como a data a partir da qual é devida a prestação, o respetivo montante e a data prevista para o primeiro pagamento, bem como todos os elementos pertinentes de que os serviços competentes da segurança social disponham.
+
+2 - Recebida a informação referida no número anterior, o coordenador do NLI designa o técnico gestor do processo, de entre os técnicos da câmara municipal, ou solicita a sua designação à instituição particular de solidariedade social, ou equiparada, contratualizada.
+
+3 - O contrato de inserção a que se refere o n.º 1 é elaborado em função das características e de acordo com as necessidades específicas do agregado familiar no seu conjunto, tendo em especial consideração as aptidões e capacidades de cada um dos seus membros.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 10.º — Entrevista
+
+1 - Para obtenção dos elementos indispensáveis à elaboração do contrato de inserção, o técnico gestor do processo convoca o titular da prestação para a realização de entrevista.
+
+2 - A não comparência à entrevista por parte do titular da prestação equivale a recusa de celebração do contrato de inserção, salvo se, no prazo de cinco dias úteis após a data de entrevista, for apresentada justificação atendível, nos termos do artigo seguinte.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 11.º — Causas justificativas da falta de comparência
+
+São causas justificativas da falta de comparência à entrevista, desde que devidamente comprovadas, as seguintes situações:
+
+a) Doença do titular ou de membro do agregado familiar a quem aquele preste assistência;
+
+b) Exercício de atividade laboral ou realização de diligências tendentes à sua obtenção;
+
+c) Cumprimento de obrigações legais ou judiciais inadiáveis;
+
+d) Outras causas consideradas relevantes e atendíveis.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+###### Artigo 12.º — Comunicação da atribuição da prestação
+
+Os serviços competentes da segurança social devem informar o centro de emprego da decisão de atribuição da prestação, relativamente ao titular e aos membros do seu agregado familiar que nele se encontrem inscritos, ao abrigo do disposto na alínea g) do n.º 1 do artigo 6.º da Lei n.º 13/2003, de 21 de maio, na sua redação atual.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 13.º — Comunicação das alterações da prestação
+
+1 - Os centros de emprego e os serviços competentes da câmara municipal e da segurança social devem proceder, reciprocamente, à comunicação de informação relevante, para efeitos da verificação da manutenção das condições de atribuição do RSI.
+
+2 - Os centros de emprego devem dar conhecimento aos serviços competentes da segurança social e da câmara municipal da anulação da inscrição dos titulares do RSI e respetivos membros do agregado familiar, indicando as causas da anulação.
+
+3 - Os serviços competentes da câmara municipal dão conhecimento à instituição particular de solidariedade social ou entidade equiparada contratualizada das informações a que se reportam os números anteriores, preferencialmente por correio eletrónico.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 14.º — Início e periodicidade do pagamento da prestação
+
+1 - A prestação de RSI é paga ao respetivo titular, salvo nas situações de incapacidade deste, em que é paga ao seu representante legal ou a quem por si for indicado para este efeito.
+
+2 - A prestação de RSI é atribuída a partir da data da receção do respetivo requerimento devidamente instruído, nos serviços competentes da segurança social, sendo paga mensalmente por referência a cada mês do ano civil, sem prejuízo do disposto no número seguinte.
+
+3 - Nas situações em que a celebração do contrato de inserção não ocorra durante o prazo previsto no n.º 1 do artigo 18.º da Lei n.º 13/2003, de 21 de maio, na sua redação atual, por causa imputável ao titular da prestação, tendo ocorrido a suspensão da prestação por esse motivo, o reinício do seu pagamento tem lugar a partir da data da celebração do contrato.
+
+4 - Sempre que o montante da prestação seja inferior a 5 % do valor do RSI, deve ser este o montante a conceder.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+#### Secção II — Renovação da prestação
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+###### Artigo 15.º — Renovação do direito à prestação
+
+1 - O processo de renovação do direito à prestação de RSI é efetuado oficiosamente pelos serviços competentes da segurança social com base no agregado familiar e rendimentos constantes do sistema de informação da segurança social.
+
+2 - O processo de renovação do direito tem início no segundo mês anterior ao do termo da anuidade da prestação, tendo em conta as regras de atribuição da prestação e os rendimentos previstos no artigo 15.º da Lei n.º 13/2003, de 21 de maio, por referência ao mês anterior ao do início do processo de renovação.
+
+3 - Concluída a renovação do direito o titular da prestação é notificado, no prazo de 10 dias úteis, da decisão do processo de renovação.
+
+4 - Aplicam-se ao processo de renovação as normas relativas ao processo de atribuição da prestação de RSI, com as necessárias adaptações.
+
+5 - A comunicação a que se refere o n.º 5 do artigo 21.º da Lei n.º 13/2003, de 21 de maio, na sua redação atual, é efetuada pelo titular da prestação aos serviços competentes da segurança social.
+
+6 - Os serviços competentes da segurança social dão conhecimento aos da câmara municipal das informações a que se reportam os números anteriores.
+
+7 - Os serviços competentes da câmara municipal comunicam permanentemente aos da segurança social todas as informações relevantes para efeitos do presente artigo, preferencialmente por correio eletrónico.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+### Capítulo II — Contrato de inserção
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+###### Artigo 16.º — Relatório social
+
+1 - A celebração do contrato de inserção é precedida da realização de um relatório social, elaborado pelo técnico gestor do processo em resultado do diagnóstico social efetuado, o qual deve conter elementos relevantes para a caracterização da situação socioeconómica do titular e do seu agregado familiar, nomeadamente:
+
+a) Identificação do titular e das pessoas que com este vivam em economia comum;
+
+b) Relações de parentesco entre o titular e as pessoas que com ele vivam em economia comum;
+
+c) Rendimentos e situação patrimonial, financeira e económica do titular e dos restantes membros do agregado familiar;
+
+d) Identificação de situações determinantes da dispensa de disponibilidade ativa para a inserção profissional;
+
+e) Identificação dos principais problemas e das situações jurídico-legais, que condicionam a autonomia social e económica do requerente e dos membros do agregado familiar;
+
+f) Identificação das capacidades e potencialidades, reveladas pelo requerente e pelos membros do seu agregado familiar que devem celebrar o contrato de inserção;
+
+g) Identificação das ações que o requerente e os membros do seu agregado familiar devem prosseguir com vista à plena integração social e profissional, nomeadamente no âmbito do plano pessoal de emprego, elaborado pelos serviços públicos de emprego, com vista à sua integração no contrato de inserção.
+
+2 - Na elaboração do diagnóstico social a efetuar aos beneficiários acolhidos nos equipamentos sociais elencados na alínea l) do n.º 1 do artigo 6.º da Lei n.º 13/2003, de 21 de maio, deve ser tida em conta a informação constante do plano pessoal de inserção efetuado pela equipa técnica dos referidos equipamentos.
+
+3 - Na elaboração do relatório social relativo aos beneficiários acolhidos nos equipamentos sociais referidos nas alíneas k) e l) do n.º 1 do artigo 6.º da Lei n.º 13/2003, de 21 de maio, na sua redação atual, deve ser tida em consideração a informação constante do plano pessoal de inserção efetuado pela equipa técnica desses equipamentos.
+
+4 - O relatório social tem natureza confidencial, sem prejuízo de deverem ser extraídos os elementos necessários à confirmação ou não das declarações constantes do requerimento para a atribuição da prestação e à fundamentação do contrato de inserção.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+###### Artigo 17.º — Contrato de inserção
+
+1 - O contrato de inserção a que se refere o artigo 18.º da Lei n.º 13/2003, de 21 de maio, deve ser elaborado em conjunto com o titular da prestação e com os restantes membros do agregado familiar, que o devam prosseguir, tendo em consideração todos os dados constantes do relatório social.
+
+2 - O contrato de inserção deve integrar os objetivos que se propõe atingir, as ações que se perspetivam como adequadas aos objetivos em causa, bem como a inventariação e a origem dos meios necessários à sua efetiva realização, por referência ao conjunto do agregado familiar e, especificamente, a cada um dos seus membros.
+
+3 - As ações previstas no contrato de inserção, a que se refere o número anterior, integram, para além de outras atividades, as do âmbito da inserção profissional, nomeadamente as constantes das alíneas a), c), d), e) e j) do n.º 6 do artigo 18.º, da Lei n.º 13/2003, de 21 de maio, e do âmbito da ação social, através da utilização de equipamentos, serviços e outras atividades de apoio social, desenvolvidas por instituições de solidariedade social, de acordo com as alíneas g), h) e i) do n.º 6 do mesmo artigo.
+
+4 - As ações previstas no contrato de inserção, a que se refere o número anterior, regem-se pelo regime específico, previsto para cada área de intervenção do setor em que as mesmas se integram.
+
+5 - Quando o contrato de inserção tiver estabelecido a realização de ações de inserção profissional, promovidas pelos serviços públicos de emprego, os beneficiários da prestação assumem a obrigação de aceitar um plano pessoal de emprego, elaborado nos termos a definir em diploma próprio e que se considera parte integrante do contrato de inserção.
+
+6 - Nos casos em que o beneficiário já possua um plano pessoal de emprego, o mesmo é considerado parte integrante do respetivo contrato de inserção.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+###### Artigo 18.º — Intervenção do NLI
+
+Para efeitos da celebração do contrato de inserção a que se refere o artigo seguinte o técnico gestor de processo dá conhecimento do mesmo aos parceiros que constituem o NLI e aos serviços competentes da segurança social.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 19.º — Celebração e acompanhamento do contrato de inserção
+
+1 - É competência da câmara municipal, através do técnico gestor de processo referido no n.º 2 do artigo 9.º, a celebração do contrato de inserção de acordo com o disposto no n.º 1 do artigo 18.º da Lei n.º 13/2003, de 21 de maio, na sua redação atual, bem como o respetivo acompanhamento, sem prejuízo de poder contratualizar o exercício da competência, através da celebração de protocolo específico com instituições particulares de solidariedade social ou entidades equiparadas que prossigam fins de solidariedade social, designadamente, que desenvolvam ações de acompanhamento dos titulares do RSI.
+
+2 - O desenvolvimento do contrato de inserção é acompanhado, de forma contínua, pelo técnico gestor do processo.
+
+3 - O técnico gestor do processo deve informar o titular da prestação, bem como os elementos do agregado familiar deste, das prestações ou apoios sociais a que tenham direito, designadamente, o acesso a prestações do Fundo de Garantia de Alimentos a Menores, sempre que estejam reunidas as respetivas condições de atribuição.
+
+4 - O acompanhamento do cumprimento do contrato de inserção abrange a coordenação das ações nele inscritas e, em conjunto com as pessoas nelas envolvidas, a avaliação da respetiva eficácia e da eventual necessidade de introdução de alterações ao contrato.
+
+5 - Compete ao representante de cada setor acompanhar o desenvolvimento das ações previstas no contrato de inserção, que se enquadram na respetiva área de intervenção, assegurando, nomeadamente, a transmissão de informação ao NLI.
+
+6 - O técnico gestor do processo comunica ao NLI e aos serviços competentes da segurança social, as situações de recusa de celebração do contrato de inserção e de incumprimento do contrato de inserção por falta ou recusa injustificada de uma ação ou medida, com conformidade respetivamente com o disposto nos artigos 29.º e 30.º da Lei n.º 13/2003, de 21 de maio, na sua redação atual.
+
+7 - O técnico gestor do processo responsável pelo acompanhamento do cumprimento do contrato de inserção deve comunicar ao NLI quaisquer alterações que se verifiquem e que sejam relevantes para a alteração ou manutenção do direito à prestação.
+
+8 - Cabe NLI transmitir, de imediato, a informação a que se refere o número anterior ao serviço competente da segurança social, preferencialmente por correio eletrónico.
+
+9 - O técnico responsável pelo acompanhamento do cumprimento do contrato de inserção deve obrigatoriamente apresentar aos serviços competentes da segurança social, até ao final do 11.º mês após a atribuição da prestação do rendimento social de inserção, um relatório detalhado acerca do cumprimento do contrato de inserção, o qual deve incluir parecer fundamentado sobre a eventual necessidade de manutenção e ou alteração do programa em curso.
+
+10 - A celebração de um novo contrato de inserção ou a alteração do programa de inserção em curso decorre da avaliação deste e da emissão do relatório a que se refere o número anterior.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+###### Artigo 19.º-A — Avaliação e acompanhamento dos protocolos específicos
+
+A execução dos protocolos específicos a que se refere o n.º 1 do artigo anterior fica sujeita a avaliação e acompanhamento pelos competentes serviços da câmara municipal.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 20.º — Efeitos da mudança de residência
+
+1 - Sempre que durante o período de atribuição da prestação de RSI se verifique a alteração de residência do titular para área geográfica não abrangida pelo serviço competente da segurança social para atribuição da referida prestação, deve este transferir o processo, relativo ao titular, para o serviço competente da segurança social na área da nova residência, acompanhado de informação elaborada pelo NLI responsável pelo processo de inserção, nomeadamente quanto às ações em curso ou já programadas, incluindo parecer sobre a possibilidade da sua manutenção.
+
+2 - Nos casos em que a comunicação seja realizada na área da nova residência, deve o serviço competente da segurança social solicitar, no prazo de cinco dias úteis, ao anterior serviço competente a informação e a documentação referidas no número anterior.
+
+3 - Nos casos previstos nos números anteriores, o serviço competente da segurança social da nova área da residência do titular do RSI comunica a transferência do processo ao NLI correspondente, remetendo-lhe a informação sobre o processo de inserção, tendo em vista a continuidade do acompanhamento da situação, incluindo a designação de um novo técnico gestor do processo pelo respetivo coordenador ou por instituição particular de solidariedade social ou entidade equiparada contratualizada para o efeito.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+### Capítulo III — Núcleos locais de inserção
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+###### Artigo 21.º — Âmbito territorial
+
+1 - Os NLI têm base concelhia, que constitui o âmbito territorial da respetiva intervenção, sem prejuízo do disposto no número seguinte.
+
+2 - Os NLI podem abranger mais de um município, desde que contíguos, sempre que a reduzida dimensão populacional ou geográfica dos municípios o justifique.
+
+3 - Os NLI podem ser constituídos por referência à freguesia, sempre que o elevado número de cidadãos residentes ou a dispersão geográfica o justifiquem.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+###### Artigo 22.º — Composição dos NLI
+
+1 - Os NLI integram um representante da câmara municipal, bem como um representante de cada uma das entidades públicas responsáveis, na respetiva área de atuação, pela segurança social, emprego e formação profissional, educação e saúde, podendo ainda integrar representantes de outras entidades públicas, nomeadamente da justiça e das migrações em razão das problemáticas mais relevantes no território abrangido pelo NLI.
+
+2 - Podem ainda integrar os NLI, por deliberação destes, entidades sem fins lucrativos desde que:
+
+a) Estejam regularmente constituídos;
+
+b) Possuam capacidade organizativa;
+
+c) Manifestem disponibilidade para contratualizar parcerias com o NLI e criar oportunidades efetivas de inserção.
+
+3 - Os representantes das entidades públicas a que se refere o n.º 1 são por estas indicados aos serviços competentes da segurança social e da câmara municipal, no prazo de 10 dias úteis após solicitação desta.
+
+4 - A coordenação dos NLI compete ao presidente da câmara municipal, ou a um elemento por este designado, com exceção dos NLI do concelho de Lisboa, em que a coordenação pode ser atribuída a instituição com quem a segurança social estabeleça protocolo específico para o efeito.
+
+5 - O coordenador do NLI dispõe de voto de qualidade.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 23.º — Organização, funcionamento e competências dos NLI
+
+1 - Os NLI são estruturas operativas de composição plurissectorial, que funcionam em permanência, por forma a assegurar o acompanhamento do contrato de inserção no respetivo âmbito territorial.
+
+2 - Os núcleos executivos dos NLI funcionam em permanência por forma a dar cumprimento às competências atribuídas e assegurar a execução e o desenvolvimento do RSI.
+
+3 - Compete ao coordenador do NLI, designadamente:
+
+a) Dirigir as reuniões e coordenar a sua atividade;
+
+b) Convocar as entidades que integram o NLI para as reuniões e fixar a respetiva ordem de trabalhos;
+
+c) Solicitar às entidades competentes a obtenção dos elementos e informações necessárias ao desenvolvimento da atividade do NLI;
+
+d) Acompanhar a execução das deliberações do NLI, bem como efetuar a sua supervisão técnica;
+
+e) Promover, quando necessário, a constituição de grupos de trabalho com a participação de outras entidades e ou pessoal de reconhecida capacidade técnico-profissional;
+
+f) Coordenar a elaboração do plano de ação anual e respetivo relatório sobre a atividade desenvolvida;
+
+g) Designar o representante do NLI no Conselho Local de Ação Social.
+
+4 - No âmbito da celebração e acompanhamento do contrato de inserção, o NLI:
+
+a) Aprova o contrato de inserção apresentado pelo técnico gestor do processo;
+
+b) Colabora na elaboração do relatório social a que se refere o artigo 16.º;
+
+c) Organiza os meios necessários à execução dos contratos de inserção;
+
+d) Acompanha a execução do contrato de inserção, incluindo as alterações que se revelem necessárias nos termos do artigo 19.º
+
+5 - O NLI colabora com a câmara municipal na elaboração do plano de ação anual e do relatório sobre a atividade desenvolvida, bem como elabora relatórios intercalares por solicitação da câmara municipal.
+
+6 - Sem prejuízo do previsto nos n.os 2 e 3, sob proposta do coordenador, os membros do NLI aprovam, no prazo de 30 dias após o prazo referido no n.º 3 do artigo anterior, designadamente as regras de funcionamento, os circuitos de informação, bem como os termos de articulação com as diversas entidades, dos quais é dado conhecimento aos serviços competentes da segurança social, preferencialmente por correio eletrónico.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 24.º — Apoio aos NLI
+
+A entidade gestora competente deve prestar o apoio necessário aos NLI, designadamente mediante a afetação de recursos humanos, que permita a cabal prossecução das competências que lhes estão atribuídas.
+
+> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 25.º — Protocolos
+
+1 - As câmaras municipais podem celebrar protocolos específicos com instituições particulares de solidariedade social, ou entidades equiparadas, que prossigam idêntico fim, com vista ao desenvolvimento de ações de acompanhamento dos beneficiários do RSI, com o objetivo de promover a sua autonomia e inserção social e profissional.
+
+2 - As ações, definidas no número anterior, compreendem a elaboração do relatório, do contrato de inserção e das medidas de acompanhamento do cumprimento do contrato de inserção.
+
+3 - Os protocolos referidos no n.º 1 contêm os direitos e as obrigações das entidades outorgantes, bem como os termos de articulação entre as entidades e os respetivos NLI, sem prejuízo do disposto na presente portaria.
+
+4 - Da celebração dos protocolos referidos no n.º 1 é dado conhecimento ao NLI pela câmara municipal.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 26.º — Entidades contratualizantes
+
+Os protocolos, a que se refere o artigo 37.º da Lei n.º 13/2003, de 21 de maio, são celebrados sob proposta dos NLI e as atividades das entidades contratualizantes devem ser desenvolvidas em estreita articulação com aqueles.
+
+> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 27.º — Execução dos protocolos
+
+O desenvolvimento e a execução dos protocolos são objeto de regulamentação específica no que respeita, designadamente, aos critérios de celebração, às obrigações das entidades, às cláusulas de rescisão e aos custos a financiar.
+
+> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 27.º-A — Sistema de informação específico
+
+1 - O acesso ao sistema de informação específico, referido no n.º 4 do artigo 11.º do Decreto-Lei n.º 55/2020, de 12 de agosto, é efetuado de acordo com os perfis definidos para as respetivas funções, envolvendo apenas utilizadores devidamente credenciados para o efeito, e encontrando-se restringido aos dados relevantes para a prossecução das competências a que se refere a alínea f) do n.º 1 do artigo 3.º do Decreto-Lei n.º 55/2020, de 12 de agosto.
+
+2 - O acesso é garantido pelo Instituto de Informática, I. P., mediante identificação dos utilizadores autorizados pela câmara municipal, com vista à atribuição de um código de utilizador e de uma palavra passe, pessoal e intransmissível, nos termos das normas em vigor para a atribuição de acessos.
+
+3 - Os utilizadores com acesso autorizado comprometem-se a assegurar a coerência dos dados registados, bem como a zelar pela qualidade da informação inserida no Sistema de Informação da Segurança Social (SISS).
+
+4 - De acordo com o previsto nos artigos 14.º e 15.º da Lei n.º 67/98, de 26 de outubro, na sua redação atual, são ainda adotadas e periodicamente atualizadas as seguintes medidas de segurança de tratamentos de dados pessoais em causa:
+
+a) Os perfis são atribuídos a cada utilizador, em função do seu perfil de acesso a cada módulo aplicacional do sistema de informação específico;
+
+b) O acesso à informação por parte dos utilizadores carece de autenticação por código de utilizador e palavra-passe, assegurando que apenas utilizadores credenciados possam aceder a cada um dos módulos aplicacionais do sistema de informação específico, e dentro de cada um destes, apenas às operações a que estão autorizados a realizar.
+
+5 - O acesso ao sistema de informação específico salvaguarda a segurança e a confidencialidade dos dados pessoais ou de matérias sujeitas a sigilo, encontrando-se os utilizadores vinculados ao dever de sigilo e confidencialidade da informação cujo conhecimento lhes advenha pelas atividades inerentes às atividades desenvolvidas ao abrigo da presente portaria, mesmo após o termo das suas funções.
+
+6 - O acesso à informação e o perfil atribuído a cada utilizador é efetivado mediante a assinatura de termo de responsabilidade e de acordo com a política de acessos definida pelo Instituto da Segurança Social, I. P.
+
+7 - São adotadas e, periodicamente atualizadas, medidas de segurança de tratamento dos dados pessoais em causa, pelo que, todos os acessos são registados em base de dados para efeitos de auditoria, identificado o utilizador, operação realizada e data e hora da alteração.
+
+8 - Aplica-se, ao acesso ao sistema de informação específico quando efetuado no âmbito do n.º 1 do artigo 19.º e artigo 25.º, o disposto nos números anteriores.
+
+9 - Sem prejuízo do disposto nos números anteriores, ao tratamento de dados pessoais aplica-se o Regulamento (EU) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, doravante designado por RGPD, bem como os requisitos técnicos mínimos das redes e sistemas de informação, que são exigidos ou recomendados a todos os serviços e entidades da Administração direta e indireta do Estado, constante no Anexo à Resolução do Conselho de Ministros n.º 41/2018, de 28 de março.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+###### Artigo 27.º-B — Utilizadores do sistema de informação específico
+
+1 - No âmbito da utilização do sistema de informação específico, a que se refere o artigo anterior, é obrigação da câmara municipal comunicar ao Instituto da Segurança Social, I. P., a identificação de novos utilizadores e a cessação dos utilizadores que, por qualquer motivo, deixem de ter legitimidade para permissão de acesso ao sistema.
+
+2 - A comunicação a que se refere o número anterior é efetuada pela câmara municipal com a antecedência mínima de 5 dias úteis, ou, se tal não for possível, no máximo no dia útil seguinte.
+
+3 - O Instituto da Segurança Social, I. P., assegura a necessária formação aos novos utilizadores do sistema de informação específico referidos no n.º 1.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+### Capítulo IV — Disposições finais
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+###### Artigo 28.º — Apoio público à habitação social
+
+1 - O valor do apoio público no âmbito da habitação social, previsto no n.º 2 do artigo 15.º-I da Lei n.º 13/2003, de 21 de maio, corresponde ao valor máximo do subsídio de renda de casa previsto na Portaria n.º 248/2008, de 27 de março, no montante de (euro) 46,36.
+
+2 - O valor referido no número anterior é considerado para apuramento do rendimento do agregado familiar de forma escalonada de acordo com o ano de atribuição da prestação, nos seguintes termos:
+
+a) Um terço no 1.º ano;
+
+b) Dois terços no 2.º ano;
+
+c) O valor total do apoio à habitação a partir do 3.º ano.
+
+> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+###### Artigo 29.º — Regiões Autónomas
+
+1 - Nas Regiões Autónomas, as competências exercidas, nos termos do presente diploma, pelos serviços da entidade gestora competente são exercidas pelos serviços de segurança social próprios da respetiva Região.
+
+2 - Nas Regiões Autónomas, os prazos previstos nos n.os 2 dos artigos 4.º e 9.º, são de 20 e 10 dias úteis, respetivamente.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+###### Artigo 30.º — Formulário
+
+O requerimento da prestação de RSI é efetuado através de formulário de modelo próprio, disponível no portal da segurança social.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 253/2017 - Diário da República n.º 152/2017, Série I de 2017-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/253-2017-107976097), em vigor a partir de 2017-08-09, produz efeitos a partir de 2017-08-27
+
+###### Artigo 31.º — Valor do rendimento social de inserção
+
+1 - O valor do rendimento social de inserção é fixado em 247,56 €, que corresponde a 46,09 % do indexante dos apoios sociais (IAS).
+
+2 - Nos anos de 2022 e seguintes o valor do rendimento social de inserção é definido através de portaria dos membros do Governo responsáveis pelas áreas das finanças e solidariedade e segurança social.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71/2026/1 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/71-2026-1049254415), em vigor a partir de 2026-02-14, produz efeitos a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 39/2025/1 - Diário da República n.º 32/2025, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/39-2025-907471182), em vigor a partir de 2025-02-15, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 420/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/420-2023-229857696), em vigor a partir de 2023-12-12, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 32/2023 - Diário da República n.º 15/2023, Série I de 2023-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/32-2023-206350930), em vigor a partir de 2023-01-21, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 65/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/65-2021-159614842), em vigor a partir de 2021-03-18, produz efeitos a partir de 2020-08-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 22/2019 - Diário da República n.º 12/2019, Série I de 2019-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/22-2019-117942335), em vigor a partir de 2019-01-22, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2018 - Diário da República n.º 37/2018, Série I de 2018-02-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-2018-114738297), produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 5/2017 - Diário da República n.º 2/2017, Série I de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/5-2017-105687068), produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 1/2016 - Diário da República n.º 3/2016, Série I de 2016-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2016-73017523), em vigor a partir de 2016-03-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 13/2013 - Diário da República n.º 18/2013, Série I de 2013-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2013-256986), em vigor a partir de 2013-02-01
+
+###### Artigo 32.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do dia 1 de julho de 2012.
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.
+
+O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 14 de agosto de 2012.
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 394/2026/1 - Diário da República n.º 166/2026, Série I de 2026-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/394-2026-1162304245), em vigor a partir de 2026-08-28, com efeitos a partir de 2026-12-31.

@@ -1,0 +1,644 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74163192:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-205052826",
+ "dre_path": "/dr/detalhe/decreto-lei/19-2016-74163192",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "205052466",
+    "205052467",
+    "205052468",
+    "205052469",
+    "205052470",
+    "205052471",
+    "205052472",
+    "205052473",
+    "205052474",
+    "205065575",
+    "205065576",
+    "205065577",
+    "205065578",
+    "205065579",
+    "205065580",
+    "205065581",
+    "205065582",
+    "205065583",
+    "205065584",
+    "205065585",
+    "205065586",
+    "205065587",
+    "205065588",
+    "205065589",
+    "205065590",
+    "205065591",
+    "205065593",
+    "205065594"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "205052466",
+    "205052467",
+    "205052468",
+    "205052469",
+    "205052470",
+    "205052471",
+    "205052472",
+    "205052473",
+    "205052474",
+    "205065575",
+    "205065576",
+    "205065577",
+    "205065578",
+    "205065579",
+    "205065580",
+    "205065581",
+    "205065582",
+    "205065583",
+    "205065584",
+    "205065585",
+    "205065586",
+    "205065595",
+    "205065588",
+    "205065589",
+    "205065590",
+    "205065591",
+    "205065592",
+    "205065593",
+    "205065594"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A"
+   ],
+   "fragments": [
+    "205052466",
+    "205052467",
+    "205052468",
+    "205052469",
+    "205052470",
+    "205052471",
+    "205052472",
+    "205052473",
+    "205052474",
+    "205065575",
+    "205065576",
+    "205065577",
+    "205065578",
+    "205065579",
+    "205065580",
+    "205065581",
+    "205065582",
+    "205065583",
+    "205065584",
+    "205065585",
+    "205065586",
+    "205065595",
+    "205065588",
+    "836904041",
+    "836904042",
+    "836904043",
+    "836904044",
+    "205065592",
+    "205065593",
+    "205065596"
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:913224266:por",
+     "title": "Decreto-Lei n.º 60/2025",
+     "published": "2025-04-02",
+     "dre_path": "/dr/detalhe/decreto-lei/60-2025-913224266"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A",
+    "Adita Artigo 16.º-B",
+    "Adita Artigo 16.º-C",
+    "Adita Artigo 16.º-D",
+    "Adita Anexo III",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º-A",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "205052466",
+    "205052467",
+    "205052468",
+    "205052469",
+    "205052470",
+    "913504583",
+    "205052472",
+    "913504584",
+    "205052474",
+    "205065575",
+    "205065576",
+    "205065577",
+    "913504585",
+    "913504586",
+    "913504587",
+    "205065581",
+    "913504588",
+    "205065583",
+    "913504589",
+    "913504651",
+    "913504652",
+    "913504653",
+    "913504654",
+    "205065585",
+    "205065586",
+    "205065595",
+    "205065588",
+    "913504590",
+    "836904042",
+    "836904043",
+    "836904044",
+    "205065592",
+    "913504591",
+    "913504592",
+    "919708841"
+   ]
+  }
+ ],
+ "fragments": {
+  "205052466": {
+   "fragment_id": "205052827",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 19/2016\n\nde 15 de abril\n\nA Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro, que aprovou a Lei de Bases da Saúde, instituiu uma política de recursos humanos para a saúde com vista a satisfazer as necessidades da população, procurando uma adequada cobertura em todo o território nacional com garantia da formação dos profissionais e da segurança dos cuidados prestados.\n\nA emergência médica pré-hospitalar tem tido um papel fundamental, por via da abrangência nacional de uma rede de meios de emergência, na supressão das desigualdades de acesso da população aos cuidados de saúde cumprindo a obrigação constitucional de universalidade do acesso à prestação de cuidados de saúde.\n\nAssim, o Instituto Nacional de Emergência Médica, I. P. (INEM, I. P.), enquanto entidade nacional coordenadora do Sistema Integrado de Emergência Médica, garante às vítimas de doença súbita ou de acidente, a prestação adequada de socorro, assegurada pelos meios de emergência médica, acionados pelo Centro de Orientação de Doentes Urgentes (CODU).\n\nPara concretizar o acesso da população, o INEM, I. P., investiu em novas instalações, novas tecnologias de informação, implementou métodos de organização e gestão na área da emergência pré-hospitalar, sem contudo deixar de ter a preocupação na definição de carreiras profissionais, que constituem um fator agregador das competências e garantias dos seus trabalhadores.\n\nA reforma da Administração Pública em matéria de recursos humanos iniciou-se com a Lei n.º 12-A/2008, de 27 de fevereiro, que criou novos regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, prevendo, designadamente, a possibilidade de em determinadas circunstâncias e verificados os pressupostos legalmente estabelecidos, serem criadas carreiras de regime especial.\n\nO XXI Governo Constitucional, no seu programa para a saúde, estabelece como prioridades aperfeiçoar a gestão dos recursos humanos e a motivação dos profissionais de saúde e melhorar a governação do Serviço Nacional de Saúde através da alocação dos recursos humanos, técnicos e financeiros adequados, numa ótica de novos modelos de cooperação e repartição de responsabilidades entre profissões de saúde.\n\nNeste contexto, a natureza da prestação de cuidados de emergência, pela sua especificidade e conteúdo funcional justifica a criação de uma carreira especial.\n\nDeste modo, ao abrigo do estatuído no artigo 41.º e na alínea c) do n.º 1 do artigo 42.º da Lei n.º 35/2014, de 20 de junho, no artigo 84.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo àquela lei, e no artigo 101.º da Lei n.º 12-A/2008, de 27 de fevereiro, procede-se à revisão das carreiras dos trabalhadores do INEM, I. P., e à sua respetiva integração na carreira especial de técnico de emergência pré-hospitalar e definido o seu regime legal.\n\nA carreira especial criada pretende implementar um modelo de referência em toda a atuação na área da emergência médica pré-hospitalar e refletir um modelo de organização de recursos humanos essencial à qualidade da prestação e à segurança dos procedimentos.\n\nO técnico de emergência pré-hospitalar está habilitado com um curso homologado pelo membro do Governo responsável pela área da saúde, que lhe permite adquirir as competências para a prestação de cuidados de emergência pré-hospitalar e é um dos elementos fundamentais da rede de emergência médica nacional, cuja ação pode ser determinante para a sobrevivência de vítimas e com um papel nas respostas e outros procedimentos, atuando na dependência e no cumprimento de algoritmos de decisão médica definidos pelo INEM, I. P., e aprovados pela Ordem dos Médicos, sob supervisão do médico coordenador do CODU.\n\nOs trabalhadores integrados nesta carreira ficam sujeitos aos deveres funcionais comuns a todos os trabalhadores com vínculo jurídico de emprego público, sem prejuízo dos respetivos deveres funcionais específicos da prestação de cuidados de saúde na emergência médica pré-hospitalar.\n\nO conteúdo funcional respeita as regras definidas na LTFP, acautelando, no entanto, a particularidade inerente ao exercício das correspondentes funções.\n\nSubjacente à conceção desta carreira está a preocupação de garantir uma maior flexibilidade de gestão dos recursos humanos que, por sua vez, permite uma gestão mais racional e adequada dos trabalhadores, porquanto cada profissional pode desenvolver atividades hoje integradas em carreiras distintas. Pretende-se através do presente decreto-lei integrar os atuais técnicos de emergência, os técnicos operadores de telecomunicações de emergência, incluindo os que transitaram para a carreira de assistente técnico e os auxiliares de telecomunicações e emergência na mesma carreira, e respetivo conteúdo funcional, dando um corpo único aos profissionais que integram o âmbito da prestação de cuidados na área pré-hospitalar.\n\nForam observados os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, e 84/2015, de 7 de agosto.\n\nAssim:\n\nAo abrigo do disposto no artigo 41.º e na alínea c) do n.º 1 do artigo 42.º da Lei n.º 35/2014, de 20 de junho, no artigo 84.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo àquela lei, no artigo 101.º da Lei n.º 12-A/2008, de 27 de fevereiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "205052467": {
+   "fragment_id": "205052828",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "205052468": {
+   "fragment_id": "205052829",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei procede à revisão da carreira de técnico de ambulância de emergência do Instituto Nacional de Emergência Médica, I. P. (INEM, I. P.), e cria e define o regime da carreira especial de técnico de emergência pré-hospitalar, doravante designados por TEPH.\n\n2 - Os TEPH são profissionais de saúde que atuam no âmbito da emergência médica, nomeadamente em ambiente pré-hospitalar, sendo elementos fundamentais da rede de emergência médica nacional, cuja ação pode ser determinante para a sobrevivência de vítimas de doença súbita ou de trauma."
+  },
+  "205052469": {
+   "fragment_id": "205052830",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei aplica-se aos TEPH, que exercem funções nos meios de emergência pré-hospitalar, com vínculo de emprego público, na modalidade de contrato de trabalho em funções públicas."
+  },
+  "205052470": {
+   "fragment_id": "205052831",
+   "type": 1,
+   "heading": "Capítulo II — Carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Carreira"
+  },
+  "205052471": {
+   "fragment_id": "205052832",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura da carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura da carreira\n\n1 - A carreira especial de TEPH é pluricategorial e estrutura-se nas seguintes categorias:\n\na) Técnico de emergência pré-hospitalar;\n\nb) Coordenador operacional;\n\nc) Coordenador geral.\n\n2 - A carreira de TEPH é classificada como de grau 2 de nível de complexidade funcional."
+  },
+  "205052472": {
+   "fragment_id": "205052833",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de ingresso na carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de ingresso na carreira\n\n1 - O nível habilitacional exigido para ingresso na carreira de TEPH é o 12.º ano de escolaridade ou seu equivalente legal.\n\n2 - O ingresso na carreira, para além dos requisitos legais exigidos para constituição de vínculo de emprego público, está ainda condicionada à verificação cumulativa dos seguintes pressupostos:\n\na) Ser titular de carta de condução tipo B e averbamento grupo 2;\n\nb) Aprovação em prova inicial de conhecimentos, prova de avaliação curricular, prova de condução de base e avaliação psicológica, definidas pelo INEM, I. P.;\n\nc) Aprovação em curso de condução defensiva, definido e homologado pelo INEM, I. P.;\n\nd) Aprovação em curso de formação profissional específico, homologado pelo membro do Governo responsável pela área da saúde, mediante proposta do INEM, I. P., e parecer prévio da Ordem dos Médicos, o qual tem lugar no decurso do período experimental."
+  },
+  "205052473": {
+   "fragment_id": "205052834",
+   "type": 11,
+   "heading": "Artigo 5.º — Recrutamento para as categorias de coordenador geral e de coordenador operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recrutamento para as categorias de coordenador geral e de coordenador operacional\n\n1 - O recrutamento para as categorias de coordenador geral e de coordenador operacional faz-se nos termos da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, e 84/2015, de 7 de agosto.\n\n2 - Sem prejuízo do disposto no número anterior, o acesso às categorias de coordenador geral e de coordenador operacional depende, ainda, da verificação cumulativa dos seguintes requisitos:\n\na) Demonstração de competência através da realização de prova de conhecimentos;\n\nb) Experiência efetiva na área funcional a coordenar pelo período mínimo de 10 anos;\n\nc) Posse de formação relevante em áreas de coordenação e gestão.\n\n3 - Enquanto não houver trabalhadores detentores dos requisitos para acesso às categorias de coordenador geral e coordenador operacional, as respetivas funções podem ser asseguradas por TEPH, nos termos da LTFP."
+  },
+  "205052474": {
+   "fragment_id": "205052835",
+   "type": 11,
+   "heading": "Artigo 6.º — Formação específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formação específica\n\nA formação referida na alínea d) do n.º 2 do artigo 4.º visa atribuir os conhecimentos e as competências específicas necessárias ao exercício das funções de TEPH na prestação de cuidados de emergências pré-hospitalar e obedece aos seguintes requisitos:\n\na) Tem a duração mínima de seis meses em tempo integral;\n\nb) É de natureza modular;\n\nc) É definida e homologada pelo membro do Governo responsável pela área da saúde, mediante proposta do INEM, I. P., e parecer prévio da Ordem dos Médicos."
+  },
+  "205065575": {
+   "fragment_id": "205052836",
+   "type": 11,
+   "heading": "Artigo 7.º — Área de exercício funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Área de exercício funcional\n\nA atividade do TEPH desenvolve-se no âmbito do Sistema Integrado de Emergência Médica, incluindo o transporte de doentes urgentes e/ou emergentes, o exercício de funções nos Centros de Orientação de Doentes Urgentes, e nas demais atividades associadas à emergência pré-hospitalar, atuando na dependência e sob supervisão médica, cumprindo algoritmos de decisão aprovados pelo INEM, I. P."
+  },
+  "205065576": {
+   "fragment_id": "205052837",
+   "type": 11,
+   "heading": "Artigo 8.º — Conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conteúdo funcional\n\n1 - O conteúdo funcional das categorias da carreira de técnico de emergência pré-hospitalar consta do anexo I ao presente decreto-lei, do qual faz parte integrante.\n\n2 - O conteúdo funcional das categorias superiores integra o das inferiores."
+  },
+  "205065577": {
+   "fragment_id": "205052838",
+   "type": 11,
+   "heading": "Artigo 9.º — Deveres funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres funcionais\n\n1 - No exercício das suas funções, o TEPH está obrigado à aplicação dos conhecimentos teórico-práticos adquiridos na respetiva formação específica, encontrando-se sujeito ao cumprimento das regras deontológicas e do código de ética da instituição com a qual mantém um vínculo de emprego público.\n\n2 - O TEPH atua com observância de:\n\na) Normas e procedimentos definidos pelo INEM, I. P.;\n\nb) Protocolos de atuação sob direção médica;\n\nc) Diretivas médicas emanadas por telemedicina, via rádio, telefone ou presencialmente.\n\n3 - Os TEPH devem recorrer, na sua atuação, ao apoio à distância (Telemedicina) dos médicos coordenadores dos Centros de Orientação de Doentes Urgentes (CODU)."
+  },
+  "205065578": {
+   "fragment_id": "205052839",
+   "type": 11,
+   "heading": "Artigo 10.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Delegação de competências\n\n1 - Os atos assistenciais no âmbito da emergência médica pré-hospitalar executados por TEPH, nas condições previstas nas alíneas c) e d) do conteúdo funcional da categoria de técnico de emergência pré-hospitalar, que consta do anexo I ao presente decreto-lei, nomeadamente no que envolver a administração de medicação quando enquadrada em algoritmos diferenciados de atuação em emergência médica, podem ser praticados por delegação de competências e sob supervisão de um responsável médico, no âmbito dos respetivos poderes de controlo, nomeadamente com apoio e supervisão direta ou à distância (Telemedicina) dos médicos coordenadores dos CODU.\n\n2 - Os atos assistenciais referidos no número anterior estão obrigatoriamente inseridos em programas de emergência médica aprovados pelo conselho diretivo do INEM, I. P., após parecer da comissão técnico-científica do INEM, I. P., parecer prévio da Ordem dos Médicos, e integrados no modelo de organização da cadeia de emergência médica prevista para a respetiva área territorial do continente."
+  },
+  "205065579": {
+   "fragment_id": "205052840",
+   "type": 11,
+   "heading": "Artigo 11.º — Condições de recrutamento e seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Condições de recrutamento e seleção\n\n1 - O recrutamento para os postos de trabalho no âmbito da carreira de TEPH, incluindo mudança de categoria, efetua-se mediante procedimento concursal, no âmbito do qual são aferidos os requisitos mínimos de aptidão física e psíquica inerentes à atividade profissional de TEPH, nos termos dos artigos 7.º, 15.º e 16.º da Portaria n.º 83-A/2009, de 22 de janeiro, alterada e republicada pela Portaria n.º 145-A/2011, de 6 de abril.\n\n2 - Os requisitos e a tramitação de candidatura ao procedimento concursal obedecem ao regime constante da portaria mencionada no número anterior."
+  },
+  "205065580": {
+   "fragment_id": "205052841",
+   "type": 11,
+   "heading": "Artigo 12.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Remuneração\n\n1 - A identificação das posições e níveis remuneratórios da tabela remuneratória única aplicáveis à carreira especial de TEPH constam do anexo II ao presente decreto-lei, do qual faz parte integrante.\n\n2 - A determinação do posicionamento remuneratório dos candidatos na sequência de procedimento concursal e a alteração do posicionamento remuneratório obedecem ao previsto na LTFP."
+  },
+  "205065581": {
+   "fragment_id": "205052842",
+   "type": 11,
+   "heading": "Artigo 13.º — Organização do tempo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Organização do tempo de trabalho\n\nA organização do tempo de trabalho dos trabalhadores integrados na carreira especial de TEPH é efetuada na modalidade de turnos."
+  },
+  "205065582": {
+   "fragment_id": "205052843",
+   "type": 11,
+   "heading": "Artigo 14.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Período experimental\n\nO período experimental para ingresso na carreira especial de TEPH é de 180 dias."
+  },
+  "205065583": {
+   "fragment_id": "205052844",
+   "type": 11,
+   "heading": "Artigo 15.º — Certificação formativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Certificação formativa\n\n1 - A certificação formativa atribuída pelo INEM, I. P., tem a validade de cinco anos, estando a sua revalidação sujeita à formação que o INEM, I. P., considere necessária para o efeito.\n\n2 - A revalidação da certificação formativa do trabalhador fica sujeita à realização, durante os cinco anos referidos no número anterior, de, pelo menos, 125 horas de formação em serviço, ministrada pelo INEM, I. P., ou por ele homologada.\n\n3 - À não revalidação da certificação formativa, a que se refere o número anterior, por motivo imputável ao trabalhador, aplica-se, com as necessárias adaptações, o disposto no artigo 19.º"
+  },
+  "205065584": {
+   "fragment_id": "205052845",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Avaliação de desempenho\n\nA avaliação de desempenho dos TEPH rege-se pelo disposto no Sistema Integrado de Avaliação de Desempenho na Administração Pública - SIADAP."
+  },
+  "205065585": {
+   "fragment_id": "205052846",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "205065586": {
+   "fragment_id": "205052847",
+   "type": 11,
+   "heading": "Artigo 17.º — Habilitações profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Habilitações profissionais\n\nO INEM, I. P., deve ministrar a formação específica, a que se refere o artigo 4.º, que habilite os atuais trabalhadores que exercem funções no CODU e os auxiliares de telecomunicações e emergência que reúnem os requisitos constantes das alíneas a) a c) do n.º 2 do artigo 4.º a exercer funções nos meios de emergência médica pré-hospitalar como TEPH."
+  },
+  "205065587": {
+   "fragment_id": "205052848",
+   "type": 11,
+   "heading": "Artigo 18.º — Transição para a carreira especial de técnico de emergência pré-hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Transição para a carreira especial de técnico de emergência pré-hospitalar\n\n1 - Transitam para a carreira especial de TEPH, os trabalhadores pertencentes ao mapa de pessoal do INEM, I. P., atualmente integrados nas carreiras de técnico de ambulância de emergência, de técnicos operadores de telecomunicações de emergência, incluindo aqueles que transitaram para a carreira de assistente técnico ao abrigo do Decreto-Lei n.º 121/2008, de 11 de julho, e os auxiliares de telecomunicações e emergência com contrato de trabalho em funções públicas por tempo indeterminado, desde que detentores dos requisitos previstos no artigo anterior.\n\n2 - Os trabalhadores acima referidos transitam para a categoria de técnico de emergência pré-hospitalar, sendo reposicionados em termos remuneratórios de acordo com o disposto no artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, e nos artigos 41.º e 42.º da LTFP.\n\n3 - Sempre que, por aplicação do disposto no n.º 2 do artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, a remuneração base a que atualmente têm direito seja inferior à 1.ª posição remuneratória da categoria para a qual transitam, os trabalhadores são reposicionados na posição remuneratória, automaticamente criada, de nível remuneratório inferior à 1.ª posição da categoria para a qual transitam, de montante pecuniário correspondente à remuneração base a que atualmente têm direito.\n\n4 - Nos casos em que os trabalhadores referidos no artigo anterior devam obter aprovação em curso de formação, para efeitos de transição, deve o INEM, I. P., ministrá-la no prazo máximo de 18 meses.\n\n5 - A transição para a carreira especial de TEPH efetua-se mediante lista nominativa, notificada a cada um dos trabalhadores e tornada pública por afixação no órgão ou serviço, produzindo efeitos à data da afixação da lista.\n\n6 - Da lista nominativa a que se refere o número anterior consta, relativamente a cada trabalhador, entre outros elementos, a referência à modalidade de constituição do vínculo de emprego público, categoria, conteúdo funcional, posição remuneratória e nível remuneratório.\n\n7 - Os pontos obtidos no âmbito do processo da avaliação do desempenho anterior ao processo de transição para a carreira especial TEPH relevam nesta carreira para efeitos de alteração da posição remuneratória."
+  },
+  "205065588": {
+   "fragment_id": "205052849",
+   "type": 11,
+   "heading": "Artigo 19.º — Impedimentos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Impedimentos profissionais\n\n1 - Os TEPH, a partir da data em que perfaçam 55 anos de idade, se declararem essa vontade, são dispensados de exercer funções nos meios móveis, a qual produz efeitos 30 dias após a data da apresentação daquela declaração ao respetivo conselho diretivo, sendo-lhes atribuídas funções compatíveis com a sua situação pessoal e funcional.\n\n2 - Nas situações resultantes de doença profissional, acidente de trabalho ou de impedimento temporário ou permanente, em que os trabalhadores não se encontrem em condições de exercer as funções constantes do anexo I ao presente decreto-lei, devem ser-lhes atribuídas, durante o tempo em que perdurar o impedimento ou permanentemente, outras funções compatíveis com a sua situação pessoal e funcional, a fixar por deliberação do respetivo conselho diretivo.\n\n3 - A atribuição de funções referidas no número anterior está condicionada a parecer de junta médica, após parecer de médico especialista respetivo, com recomendação de «trabalhos melhorados»."
+  },
+  "205065589": {
+   "fragment_id": "205052850",
+   "type": 11,
+   "heading": "Artigo 20.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Legislação aplicável\n\n1 - Até à concretização da transição para a nova carreira especial de TEPH, os atuais técnicos de ambulância de emergência continuam a reger-se pelo regime aplicável à data da entrada em vigor do presente decreto-lei.\n\n2 - Sem prejuízo do disposto no número anterior, em tudo o que não se encontre regulado no presente decreto-lei, aplica-se a legislação vigente para os trabalhadores com vínculo de emprego público na modalidade de contrato de trabalho em funções públicas por tempo indeterminado."
+  },
+  "205065590": {
+   "fragment_id": "205052851",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nSem prejuízo do disposto no artigo anterior, são revogadas as disposições normativas constantes do n.º 2.10 do anexo I e do n.º XIV do anexo II ao Regulamento Interno do Pessoal do Instituto Nacional de Emergência Médica, aprovado pelo despacho normativo n.º 46/2005, de 19 de outubro."
+  },
+  "205065591": {
+   "fragment_id": "205052852",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "205065593": {
+   "fragment_id": "205052854",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 8.º)\n\n(ver documento original)"
+  },
+  "205065594": {
+   "fragment_id": "205052855",
+   "type": 14,
+   "heading": "Anexo II — Tabela remuneratória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Tabela remuneratória\n\n(a que se refere o artigo 12.º)\n\n(ver documento original)"
+  },
+  "205065595": {
+   "fragment_id": "205052848",
+   "type": 11,
+   "heading": "Artigo 18.º — Transição para a carreira especial de técnico de emergência pré-hospitalar",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Transição para a carreira especial de técnico de emergência pré-hospitalar\n\n1 - Transitam para a carreira especial de TEPH, os trabalhadores pertencentes ao mapa de pessoal do INEM, I. P., atualmente integrados nas carreiras de técnico de ambulância de emergência, de técnicos operadores de telecomunicações de emergência, incluindo aqueles que transitaram para a carreira de assistente técnico ao abrigo do Decreto-Lei n.º 121/2008, de 11 de julho, e os auxiliares de telecomunicações e emergência com contrato de trabalho em funções públicas por tempo indeterminado, desde que detentores dos requisitos previstos no artigo anterior.\n\n2 - Os trabalhadores acima referidos transitam para a categoria de técnico de emergência pré-hospitalar, sendo reposicionados em termos remuneratórios de acordo com o disposto no artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, e nos artigos 41.º e 42.º da LTFP.\n\n3 - (Revogado).\n\n4 - Nos casos em que os trabalhadores referidos no artigo anterior devam obter aprovação em curso de formação, para efeitos de transição, deve o INEM, I. P., ministrá-la no prazo máximo de 18 meses.\n\n5 - A transição para a carreira especial de TEPH efetua-se mediante lista nominativa, notificada a cada um dos trabalhadores e tornada pública por afixação no órgão ou serviço, produzindo efeitos à data da afixação da lista.\n\n6 - Da lista nominativa a que se refere o número anterior consta, relativamente a cada trabalhador, entre outros elementos, a referência à modalidade de constituição do vínculo de emprego público, categoria, conteúdo funcional, posição remuneratória e nível remuneratório.\n\n7 - Os pontos obtidos no âmbito do processo da avaliação do desempenho anterior ao processo de transição para a carreira especial TEPH relevam nesta carreira para efeitos de alteração da posição remuneratória.\n\n> Alterado pelo/a Artigo 43.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "205065592": {
+   "fragment_id": "205052853",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de março de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Adalberto Campos Fernandes.\n\nPromulgado em 8 de abril de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 12 de abril de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "836904041": {
+   "fragment_id": "837023007",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Regime especial de trabalho suplementar",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 315.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 19.º-A — Regime especial de trabalho suplementar\n\nEm circunstâncias excecionais e delimitadas no tempo, designadamente quando se mostre indispensável à assistência de emergência médica prestada pelo INEM, I. P., mediante autorização do membro do Governo da área da saúde, podem ser ultrapassados os limites da duração do trabalho suplementar previstos na lei dos trabalhadores do INEM, I. P., independentemente da carreira, desde que não impliquem uma remuneração por trabalho suplementar superior a 80 % da remuneração base do trabalhador.\n\n> Aditado pelo/a Artigo 315.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "836904042": {
+   "fragment_id": "205052850",
+   "type": 11,
+   "heading": "Artigo 20.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Legislação aplicável\n\n1 - Até à concretização da transição para a nova carreira especial de TEPH, os atuais técnicos de ambulância de emergência continuam a reger-se pelo regime aplicável à data da entrada em vigor do presente decreto-lei.\n\n2 - Sem prejuízo do disposto no número anterior, em tudo o que não se encontre regulado no presente decreto-lei, aplica-se a legislação vigente para os trabalhadores com vínculo de emprego público na modalidade de contrato de trabalho em funções públicas por tempo indeterminado."
+  },
+  "836904043": {
+   "fragment_id": "205052851",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nSem prejuízo do disposto no artigo anterior, são revogadas as disposições normativas constantes do n.º 2.10 do anexo I e do n.º XIV do anexo II ao Regulamento Interno do Pessoal do Instituto Nacional de Emergência Médica, aprovado pelo despacho normativo n.º 46/2005, de 19 de outubro."
+  },
+  "836904044": {
+   "fragment_id": "205052852",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "205065596": {
+   "fragment_id": "205052855",
+   "type": 14,
+   "heading": "Anexo II — Tabela remuneratória",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 84-F/2022 - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "## Anexo II — Tabela remuneratória\n\n(a que se refere o artigo 12.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 84-F/2022 - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), produz efeitos a partir de 2023-01-01"
+  },
+  "913504583": {
+   "fragment_id": "205052832",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura da carreira",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura da carreira\n\n1 - A carreira especial de TEPH é pluricategorial e estrutura-se nas seguintes categorias:\n\na) Técnico de emergência pré-hospitalar;\n\nb) Técnico de emergência pré-hospitalar avançado;\n\nc) Técnico de emergência pré-hospitalar principal.\n\n2 - A carreira de TEPH é classificada como de grau 2 de nível de complexidade funcional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504584": {
+   "fragment_id": "205052834",
+   "type": 11,
+   "heading": "Artigo 5.º — Recrutamento para as categorias de técnico de emergência pré-hospitalar avançado e de técnico de emergência pré-hospitalar principal",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 5.º — Recrutamento para as categorias de técnico de emergência pré-hospitalar avançado e de técnico de emergência pré-hospitalar principal\n\n1 - O recrutamento para as categorias de técnico de emergência pré-hospitalar avançado e de técnico de emergência pré-hospitalar principal faz-se nos termos da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n2 - O recrutamento para a categoria de técnico de emergência pré-hospitalar avançado faz-se mediante procedimento concursal de entre técnicos de emergência pré-hospitalar que detenham, no mínimo, oito anos de experiência efetiva de funções na categoria e com avaliação que consubstancie desempenho positivo.\n\n3 - O recrutamento para a categoria de técnico de emergência pré-hospitalar principal faz-se mediante procedimento concursal de entre técnicos de emergência pré-hospitalar avançados que detenham, no mínimo, oito anos de experiência efetiva de funções na categoria e com avaliação que consubstancie desempenho positivo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504585": {
+   "fragment_id": "205052839",
+   "type": 11,
+   "heading": "Artigo 10.º — Delegação de competências",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 10.º — Delegação de competências\n\n1 - Os atos assistenciais no âmbito da emergência médica pré-hospitalar executados por profissionais integrados na carreira especial de TEPH, nomeadamente no que envolver a administração de medicação enquadrada em algoritmos diferenciados de atuação em emergência médica, podem ser praticados por delegação de competências e sob supervisão de um responsável médico, no âmbito dos respetivos poderes de controlo, nomeadamente com apoio e supervisão direta ou à distância (telemedicina) dos médicos coordenadores dos CODU.\n\n2 - Os atos assistenciais referidos no número anterior estão obrigatoriamente inseridos em programas de emergência médica aprovados pelo conselho diretivo do INEM, I. P., após parecer da comissão técnico-científica do INEM, I. P., parecer prévio da Ordem dos Médicos, e integrados no modelo de organização da cadeia de emergência médica prevista para a respetiva área territorial do continente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504586": {
+   "fragment_id": "205052840",
+   "type": 11,
+   "heading": "Artigo 11.º — Condições de recrutamento e seleção",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 11.º — Condições de recrutamento e seleção\n\n1 - O recrutamento para os postos de trabalho no âmbito da carreira de TEPH, incluindo mudança de categoria, efetua-se mediante procedimento concursal, no âmbito do qual são aferidos os requisitos mínimos de aptidão física e psíquica inerentes à atividade profissional de TEPH, nos termos do artigo 18.º da Portaria n.º 233/2022, de 9 de setembro.\n\n2 - Os requisitos e a tramitação de candidatura ao procedimento concursal obedecem ao regime constante da portaria mencionada no número anterior.\n\n3 - A seleção para responsável de turno efetua-se mediante processo de seleção aprovado pelo conselho diretivo do INEM, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504587": {
+   "fragment_id": "205052841",
+   "type": 11,
+   "heading": "Artigo 12.º — Remuneração",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 12.º — Remuneração\n\n1 - A identificação das posições e níveis remuneratórios da tabela remuneratória única aplicáveis à carreira especial de TEPH constam do anexo II ao presente decreto-lei, do qual faz parte integrante.\n\n2 - A determinação do posicionamento remuneratório dos candidatos na sequência de procedimento concursal e a alteração do posicionamento remuneratório obedecem ao previsto na LTFP.\n\n3 - É atribuído um suplemento mensal de € 200 e de € 250 aos coordenadores operacionais e aos coordenadores gerais, respetivamente.\n\n4 - É atribuído um suplemento mensal de € 100 aos responsáveis de turno.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504588": {
+   "fragment_id": "205052843",
+   "type": 11,
+   "heading": "Artigo 14.º — Período experimental",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 14.º — Período experimental\n\n1 - O período experimental para ingresso na carreira especial de TEPH é de 12 meses.\n\n2 - Findo o período experimental com sucesso, os trabalhadores integrados na carreira especial de TEPH são reposicionados na segunda posição da tabela remuneratória da carreira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504589": {
+   "fragment_id": "205052845",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação de desempenho",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 16.º — Avaliação de desempenho\n\nA avaliação de desempenho dos TEPH rege-se por sistema de avaliação adaptado do SIADAP, a aprovar por portaria no prazo de 120 dias após a entrada em vigor do presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504651": {
+   "fragment_id": "913504545",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Coordenação nacional e regional dos TEPH",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 16.º-A — Coordenação nacional e regional dos TEPH\n\n1 - A coordenação nacional TEPH garante a coordenação efetiva dos profissionais integrados na carreira de técnicos de emergência pré-hospitalar em todo o território nacional.\n\n2 - A coordenação nacional TEPH depende diretamente do conselho diretivo do INEM, I. P., e é composta por:\n\na) Um coordenador geral de âmbito nacional;\n\nb) Quatro coordenadores gerais de âmbito regional em cada uma das delegações regionais;\n\nc) Um coordenador operacional em média por cada 25 TEPH.\n\n3 - As estruturas de coordenação regional TEPH são compostas por um coordenador geral de âmbito regional e pelos coordenadores operacionais, em cada delegação regional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504652": {
+   "fragment_id": "913504546",
+   "type": 11,
+   "heading": "Artigo 16.º-B — Recrutamento para as funções de coordenador geral e operacional",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 16.º-B — Recrutamento para as funções de coordenador geral e operacional\n\n1 - O recrutamento para as funções de coordenador geral faz-se por procedimento concursal, de entre os profissionais das categorias de TEPH principal, dotados de competência técnica e aptidão para o exercício de funções de coordenação e controlo que reúnam, pelo menos, oito anos de experiência profissional na categoria de TEPH principal.\n\n2 - O recrutamento para as funções de coordenador operacional faz-se por procedimento concursal, de entre os profissionais das categorias de TEPH avançado, dotados de competência técnica e aptidão para o exercício de funções de coordenação e controlo que reúnam, pelo menos, oito anos de experiência profissional na categoria de TEPH avançado.\n\n3 - O procedimento concursal é divulgado por correio eletrónico e na plataforma de colaboração e gestão de documentos (sharepoint) do INEM, I. P., pelo período de 10 dias úteis, com a indicação dos requisitos obrigatórios, do perfil exigido conforme descrito no anexo iii do presente decreto-lei e do qual faz parte integrante, da composição do júri, dos métodos de seleção, avaliação curricular e entrevista de avaliação de competências, e ainda avaliação e ponderação de cada um dos métodos.\n\n4 - A avaliação curricular visa apurar se o candidato possui as competências para o exercício das funções a que se candidata e formação nas áreas de coordenação e gestão.\n\n5 - A designação para as funções de coordenador geral e de coordenador operacional é feita mediante despacho do presidente do INEM, I. P., em comissão de serviço, pelo período de cinco anos, podendo ser renovável por igual período, até ao limite de uma renovação.\n\n6 - Ao coordenador geral e ao coordenador regional correspondem as funções descritas no anexo iii do presente decreto-lei e do qual faz parte integrante.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504653": {
+   "fragment_id": "913504547",
+   "type": 11,
+   "heading": "Artigo 16.º-C — Renovação da comissão de serviço dos coordenadores geral e operacional",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 16.º-C — Renovação da comissão de serviço dos coordenadores geral e operacional\n\n1 - Para efeitos de eventual renovação da comissão de serviço, os coordenadores darão conhecimento do termo da respetiva comissão ao dirigente máximo do serviço ou órgão, com a antecedência mínima de 90 dias.\n\n2 - A comunicação referida no número anterior será acompanhada de relatório dos resultados obtidos durante o exercício do cargo, o qual será avaliado pelo dirigente máximo do serviço, e depende dos resultados evidenciados para efeitos da renovação da comissão de serviço.\n\n3 - A decisão sobre a renovação da comissão de serviço é comunicada por escrito aos interessados até 60 dias antes do seu termo.\n\n4 - Em caso de não renovação da comissão de serviço, as funções são asseguradas em regime de substituição até à designação de novo coordenador, que não poderá exceder o prazo máximo de 90 dias.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504654": {
+   "fragment_id": "913504548",
+   "type": 11,
+   "heading": "Artigo 16.º-D — Cessação da comissão de serviço",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "###### Artigo 16.º-D — Cessação da comissão de serviço\n\n1 - A comissão de serviço dos coordenadores cessa:\n\na) Pela tomada de posse seguida de exercício, a qualquer título, de outro cargo ou função;\n\nb) Por despacho fundamentado numa das seguintes situações:\n\ni) Não realização dos objetivos previstos;\n\nii) Falta de prestação de informações ou prestação deficiente das mesmas, quando consideradas essenciais para o cumprimento da política global do INEM, I. P.;\n\niii) Não comprovação superveniente de capacidade adequada a garantir a observação das orientações superiormente fixadas;\n\niv) Necessidade de imprimir nova orientação à gestão dos serviços.\n\nc) Na sequência de procedimento disciplinar em que se tenha concluído pela aplicação de sanção disciplinar superior a repreensão escrita;\n\nd) A requerimento do interessado, apresentado nos serviços com a antecedência mínima de 60 dias, e que se considera deferido à falta de indeferimento no prazo de 30 dias a contar da data da sua entrada.\n\n2 - A cessação da comissão de serviço com fundamento na alínea b) do número anterior será precedida de audição do coordenador sobre as razões invocadas.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504590": {
+   "fragment_id": "837023007",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Regime especial de trabalho suplementar",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03, produz efeitos a partir de 2024-11-01",
+    "Aditado pelo/a Artigo 315.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 19.º-A — Regime especial de trabalho suplementar\n\n1 - Em circunstâncias excecionais e delimitadas no tempo, designadamente quando se mostre indispensável à assistência de emergência médica prestada pelo INEM, I. P., mediante autorização do membro do Governo responsável pela área da saúde, podem ser ultrapassados os limites da duração do trabalho suplementar previstos na lei dos trabalhadores do INEM, I. P., independentemente da carreira, sendo devida a remuneração pelo trabalho suplementar efetivamente prestado.\n\n2 - Caso a duração do trabalho suplementar ultrapasse as 250 horas anuais, deve ser solicitada autorização aos membros do Governo responsáveis pelas áreas das finanças e da administração pública.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03, produz efeitos a partir de 2024-11-01\n\n> Aditado pelo/a Artigo 315.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "913504591": {
+   "fragment_id": "205052854",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 8.º)",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 8.º)\n\n| Carreira especial | Categorias | Conteúdo funcional | Grau de complexidade funcional | Número de posições remuneratórias |\n| --- | --- | --- | --- | --- |\n| Técnico de emergência pré-hospitalar | Técnico de emergência pré-hospitalar principal | a) Organizar, planear e controlar as funções e tarefas do pessoal integrado na carreira de TEPH da instituição/organização a que está vinculado, na categoria de técnico de emergência pré-hospitalar e de técnico de emergência pré-hospitalar avançado, quando mandatado para o efeito | 2 | 3 |\n|  |  | b) Os referidos nas categorias de TEPH e TEPH avançado |  |  |\n|  | Técnico de emergência pré-hospitalar avançado | a) Organizar, planear e controlar as funções e tarefas do pessoal integrado na carreira de TEPH, na categoria de técnico de emergência pré-hospitalar da instituição/organização a que está vinculado, quando mandatado para o efeito |  | 5 |\n|  |  | b) Integrar, acompanhar e avaliar o TEPH em período experimental |  |  |\n|  |  | c) Exercer a função de responsável de turno nos CODU, coordenando as três áreas de intervenção do pessoal integrado na carreira de TEPH: atendimento, acionamento e acompanhamento |  |  |\n|  |  | d) Integrar equipas de apoio a eventos de risco ou concentrações de pessoas com previsibilidade de risco de ocorrência de acidentes ou vítimas |  |  |\n|  |  | e) Atuar em missões humanitárias, nacionais ou internacionais |  |  |\n|  |  | f) Os referidos na categoria de TEPH |  |  |\n|  | Técnico de emergência pré-hospitalar | a) Atuar em emergências médicas aplicando protocolos e técnicas de atuação dos TEPH tendo em vista a preservação da qualidade de vida e diminuição do sofrimento das pessoas |  | 8 |\n|  |  | b) Cumprir os protocolos de atuação de decisão médica em vigor para a carreira TEPH |  |  |\n|  |  | c) Atuar em situações em que o utente se encontre em risco iminente de vida ou de perda de membro, praticando atos assistenciais ou técnicas não previstas nos protocolos e técnicas de atuação dos TEPH, e cuja omissão de tentativa de as realizar seja contrária à sua sobrevivência ou garantia de qualidade de vida futura |  |  |\n|  |  | d) Tripular e conduzir veículos de emergência médica e de transporte inter-hospitalar na generalidade |  |  |\n|  |  | e) Integrar equipas de emergência médica no transporte de vítimas ou doentes emergentes ou urgentes, nos hospitais de campanha |  |  |\n|  |  | f) Proceder à triagem (primária ou secundária) e à evacuação de vítimas nas situações em que for superiormente determinado |  |  |\n|  |  | g) Proceder à montagem e desmontagem de infraestruturas médico-sanitárias de campanha |  |  |\n|  |  | h) Verificar o estado de prontidão dos meios de emergência, através das «listas de verificação» fornecidas pela instituição/organização a que está vinculado |  |  |\n|  |  | i) Participar na elaboração de planos para dispositivos operacionais de prevenção e resposta a emergências |  |  |\n|  |  | j) Operar sistemas de informação e telecomunicações que equipam as centrais de emergência, os veículos de emergência e outras estruturas de resposta a crise e de prevenção em eventos |  |  |\n|  |  | k) Registar os dados da atividade exercida conforme as normas em vigor, bem como transmitir a informação ao Centro de Orientação de Doentes Urgentes (CODU) e ao hospital que receber a vítima |  |  |\n|  |  | l) Participar ou ministrar formação, no âmbito das suas competências, aos profissionais que integram o Sistema Integrado de Emergência Médica, bem como colaborar em ações de treino e sensibilização da população, sob supervisão médica |  |  |\n|  |  | m) Desempenhar as funções de atendimento das chamadas de socorro no CODU (triagem, aconselhamento telefónico, acionamento, acompanhamento e gestão dos meios de emergência médica, de acordo com os protocolos definidos e sob supervisão do médico regulador) |  |  |\n\n> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  },
+  "913504592": {
+   "fragment_id": "205052855",
+   "type": 14,
+   "heading": "Anexo II — Tabela remuneratória",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 84-F/2022 - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "## Anexo II — Tabela remuneratória\n\n(a que se refere o artigo 12.º)\n\n(ver documento original)\n\n> Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 84-F/2022 - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), produz efeitos a partir de 2023-01-01"
+  },
+  "919708841": {
+   "fragment_id": "919825986",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 16.º-B)",
+   "in_force_from": "2025-04-03",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+   ],
+   "markdown": "## Anexo III — (a que se refere o artigo 16.º-B)\n\n| Carreira especial | Função | Conteúdo funcional | Grau de complexidade funcional | Número de posições remuneratórias |\n| --- | --- | --- | --- | --- |\n| Técnico de emergência pré-hospitalar | Coordenador geral | a) Assegurar a uniformização de procedimentos no âmbito nacional e regional | 2 | 3 |\n|  |  | b) Acompanhar os profissionais TEPH no terreno, monitorizando as necessidades e o desempenho sempre que considerar necessário ou oportuno |  |  |\n|  |  | c) Garantir a aplicação das boas práticas pelos profissionais TEPH |  |  |\n|  |  | d) Garantir uma dinâmica de comunicação hierárquica eficaz |  |  |\n|  |  | e) Participar no planeamento da formação dos TEPH |  |  |\n|  |  | f) Determinar e participar nos processos de formação contínua |  |  |\n|  |  | g) Participar nos processos de recrutamento da carreira especial TEPH, integrando o júri dos respetivos concursos |  |  |\n|  |  | h) Desenvolver estratégias de motivação profissional e acompanhamento psicossocial do TEPH sob sua dependência hierárquica |  |  |\n|  |  | i) Assumir o papel consultivo em representação dos TEPH quando for requerido |  |  |\n|  |  | j) Representar os TEPH em colóquios, entrevistas, sessões de esclarecimento ou formação |  |  |\n|  |  | k) Aplicar as competências funcionais correspondentes a todas as categorias que integram a carreira especial TEPH quando necessário ou adequado |  |  |\n|  |  | l) Assumir a gestão operacional |  |  |\n|  |  | m) Todas as correspondentes ao conteúdo funcional dos coordenadores operacionais |  |  |\n|  |  | n) Todas as correspondentes ao conteúdo funcional das anteriores categorias TEPH |  |  |\n|  | Coordenador operacional | a) Acompanhar os profissionais TEPH no terreno, monitorizando as necessidades e o desempenho de acordo com as diretivas do respetivo coordenador geral de âmbito nacional ou regional | 2 | 5 |\n|  |  | b) Garantir uma dinâmica de comunicação hierárquica eficaz |  |  |\n|  |  | c) Participar nos processos de formação TEPH |  |  |\n|  |  | d) Exercer competências disciplinares nos termos da lei |  |  |\n|  |  | e) Desenvolver estratégias de motivação profissional |  |  |\n|  |  | f) Elaborar a realização de escalas de serviço |  |  |\n|  |  | g) Garantir o cumprimento das escalas de serviço, nomeadamente assegurando a substituição de profissionais TEPH em casos de faltas ou ausências |  |  |\n|  |  | h) Comunicar ao respetivo coordenador geral quaisquer intercorrências relacionadas com os TEPH ou serviço |  |  |\n|  |  | i) Reunir com os TEPH dando-lhes orientações operacionais |  |  |\n|  |  | j) Servir de elo de ligação entre coordenadores gerais e os TEPH |  |  |\n|  |  | k) Coordenação de TEPH no âmbito da respetiva área de atuação |  |  |\n|  |  | l) Supervisão |  |  |\n|  |  | m) Programação |  |  |\n|  |  | n) Organização, gestão e planeamento |  |  |\n|  |  | o) Formação |  |  |\n|  |  | p) Disciplinar |  |  |\n|  |  | q) Consultadoria |  |  |\n|  |  | r) Gestão operacional |  |  |\n|  |  | s) Avaliação de desempenho |  |  |\n|  |  | t) Participar nas auditorias e processo da qualidade |  |  |\n|  |  | u) Todas as correspondentes ao conteúdo funcional das anteriores categorias dos TEPH |  |  |\n\n> Aditado pelo/a [Decreto-Lei n.º 60/2025 - Diário da República n.º 65/2025, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266), em vigor a partir de 2025-04-03"
+  }
+ }
+}

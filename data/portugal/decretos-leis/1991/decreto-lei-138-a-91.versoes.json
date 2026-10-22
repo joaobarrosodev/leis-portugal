@@ -1,0 +1,219 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:255380:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-953215511",
+ "dre_path": "/dr/detalhe/decreto-lei/138-a-1991-255380",
+ "source_lastmod": "2025-11-27",
+ "versions": [
+  {
+   "date": "1991-04-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "953216102",
+    "953216103",
+    "953216104",
+    "953216105",
+    "953216106",
+    "953216107",
+    "953216108",
+    "953216109",
+    "953216110",
+    "953216111",
+    "953216112",
+    "953216113",
+    "953216114",
+    "953216115",
+    "953216116"
+   ]
+  },
+  {
+   "date": "1991-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185155:por",
+     "title": "Declaração de Rectificação n.º 76/91",
+     "published": "1991-04-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/76-1991-185155"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º",
+    "Retifica Artigo 6.º",
+    "Retifica Assinatura"
+   ],
+   "fragments": [
+    "953216102",
+    "953216103",
+    "953216104",
+    "953216121",
+    "953216106",
+    "953216107",
+    "953216122",
+    "953216109",
+    "953216110",
+    "953216111",
+    "953216112",
+    "953216113",
+    "953216114",
+    "953216115",
+    "953216116",
+    "953216123"
+   ]
+  }
+ ],
+ "fragments": {
+  "953216102": {
+   "fragment_id": "953215512",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 138-A/91\n\nde 9 de Abril\n\nO Decreto-Lei n.º 282-A/90, de 14 de Setembro, tendo em atenção o disposto na Lei n.º 11/90, de 5 de Abril, transformou a empresa pública Sociedade Financeira Portuguesa, E. P., em sociedade anónima, com vista à posterior alienação das acções representativas do seu capital social.\n\nO presente decreto-lei, na observância daquela lei-quadro, visa agora permitir a reprivatização da Sociedade Financeira Portuguesa - Banco de Investimento, S. A., operação que terá lugar no respeito pelas características da Sociedade em causa e em obediência à estratégia definida.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 11/90, de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "953216103": {
+   "fragment_id": "953215513",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social da Sociedade Financeira Portuguesa - Banco de Investimento, S. A., de que é único titular o Banco Pinto & Sotto Mayor, S. A.\n\n2 - O proveito da alienação referida no número anterior constitui receita própria do Banco Pinto & Sotto Mayor, que deverá ser aplicada na sua reestruturação financeira.\n\n3 - Incumbe ao Banco Pinto & Sotto Mayor, S. A., a realização das operações de reprivatização disciplinadas no presente diploma."
+  },
+  "953216104": {
+   "fragment_id": "953215514",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e emigrantes um montante de acções até 10% do capital social.\n\n2 - Será ainda reservado para aquisição pelo público em geral em leilão competitivo um montante de acções até 10% do capital social, acrescido das que não tenham sido adquiridas nos termos do número anterior.\n\n3 - É aprovada a alienação em bloco de um lote de acções representativas de um máximo de 80% do capital social em leilão competitivo aberto a entidades nacionais ou estrangeiras individualmente ou em associação.\n\n4 - As entidades que adquiram o lote de acções a que se refere o número anterior obrigar-se-ão a adquirir as acções sobrantes da operação indicada no n.º 2, ao preço base de licitação da aquisição pelo público em geral em leilão competitivo.\n\n5 - Para efeitos do disposto no n.º 1, entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da Lei n.º 11/90, de 5 de Abril."
+  },
+  "953216105": {
+   "fragment_id": "953215515",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas e mínimas individuais, a fixar mediante resolução do Conselho de Ministros.\n\n2 - As propostas de aquisição de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar em resolução do Conselho de Ministros, procedendo-se a rateio em função do número de subscritores, se disso for caso.\n\n3 - A aquisição pelo público em geral será feita mediante propostas, sujeitas a um número mínimo de acções, a fixar em resolução do Conselho de Ministros.\n\n4 - A aquisição do lote far-se-á nos termos e condições a fixar em resolução do Conselho de Ministros.\n\n5 - Nenhuma entidade singular ou colectiva portuguesa ou estrangeira poderá adquirir ao abrigo dos números anteriores mais de 3% do capital da Sociedade.\n\n6 - As propostas de aquisição em condições de serem satisfeitas serão reduzidas à quantidade fixada no número anterior, se a excederem.\n\n7 - Nos 15 dias seguintes ao termo do processo de reprivatização a Sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da quantidade de acções de que cada um é titular."
+  },
+  "953216106": {
+   "fragment_id": "953215516",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores bem como a forma de licitação das acções que sejam alienadas em bloco.\n\n2 - Exceptuadas as transmissões entre os accionistas que compõem o bloco, as acções adquiridas nos termos do n.º 3 do artigo 2.º são indisponíveis durante cinco anos.\n\n3 - São nulos os contratos-promessa, contratos de opção ou semelhantes pelos quais seja convencionada uma futura alienação das acções abrangidas pelo número anterior quando celebrados antes de iniciado ou terminado o período de cinco anos, exceptuando-se os contratos entre accionistas que compõem o bloco.\n\n4 - O direito de voto inerente às acções a que se reporta o n.º 2 não poderá ser exercido por mandatário durante o período por que durar a indisponibilidade aí estabelecida.\n\n5 - São nulos os acordos pelos quais os titulares das acções a que se refere o n.º 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias da Sociedade realizadas durante o período de indisponibilidade a que as primeiras estão sujeitas."
+  },
+  "953216107": {
+   "fragment_id": "953215517",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - A resolução do Conselho de Ministros fixará preços especiais para as aquisições de acções por trabalhadores pequenos subscritores e emigrantes.\n\n2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções previsto no n.º 3, em condições a fixar na resolução do Conselho de Ministros.\n\n3 - As acções adquiridas ao abrido do n.º 1 não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.\n\n4 - São nulos os contratos-promessa, contratos de opção ou semelhantes pelos quais seja convencionada a alienação futura das acções, quando celebrados antes de iniciado ou terminado o período referido no número anterior.\n\n5 - As acções adquiridas por trabalhadores ao abrigo do n.º 1 não conferem aos respectivos titulares o direito de votar na assembleia geral por interposta pessoa, durante o período de indisponibilidade.\n\n6 - São nulos os acordos pelos quais os trabalhadores titulares das acções referidas no n.º 1 se obriguem a votar em determinado sentido nas assembleias gerais realizadas durante o período de indisponibilidade.\n\n7 - As acções adquiridas por pequenos subscritores e emigrantes não conferem direito de voto durante o período de indisponibilidade."
+  },
+  "953216108": {
+   "fragment_id": "953215518",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - No processo de reprivatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 33% do capital da Sociedade, não podendo as acções adquiridas fora do bloco por cada uma daquelas entidades exceder 3% desse capital.\n\n2 - Quando celebrados antes da aquisição no processo de reprivatização, são nulos:\n\na) Os acordos parassociais, seja qual for o conteúdo, celebrados entre as entidades portuguesas e estrangeiras, destinados a vigorar depois da aquisição das acções, salvo os acordos celebrados entre entidades adquirentes do bloco que não ponham em causa o controlo maioritário das entidades portuguesas;\n\nb) Os acordos pelos quais entidades portuguesas e estrangeiras se obriguem a entrar com acções que venham a adquirir para sociedades, ordinárias ou de gestão de participações sociais, já constituídas ou a constituir;\n\nc) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a uma entidade estrangeira, interveniente ou não no processo de reprivatização, seja atribuído o direito de adquirir acções que, por aquele processo, pertençam a entidades portuguesas."
+  },
+  "953216109": {
+   "fragment_id": "953215519",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.\n\n2 - São nulos os acordos pelos quais, durante o período de indisponibilidade referido no n.º 2 do artigo 4.º, entidades portuguesas adquiram acções da Sociedade reprivatizada em nome próprio mas por conta de entidades estrangeiras.\n\n3 - As nulidades cominadas no número anterior podem ser judicialmente declaradas a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a sociedade emitente das acções.\n\n4 - No caso do n.º 1, as acções adquiridas reputam-se, para todos os efeitos, pertencentes à entidade portuguesa, devendo esta restituir à entidade estrangeira os fundos que dela tenha recebido para o efeito."
+  },
+  "953216110": {
+   "fragment_id": "953215520",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e a posse, por entidades estrangeiras, de acções da Sociedade reprivatizada, observar-se-á o seguinte:\n\na) Não podem ser inscritas ou averbadas a entidades estrangeiras acções com direito de voto representativas de mais de 33% do capital social com direito a voto;\n\nb) São nulos os acordos parassociais pelos quais a emissão ou sentido de voto de acções pertencentes a entidades portuguesas fiquem de alguma forma dependentes da vontade de entidades estrangeiras;\n\nc) Nas sociedades, ordinárias ou gestoras de participações sociais, titulares de acções da Sociedade reprivatizada em que participem entidades estrangeiras não se aplicam a estas acções cláusulas dos respectivos contratos que subordinem a emissão ou o sentido do voto a qualquer requisito que não seja a maioria legalmente exigível para a tomada de deliberação do órgão interveniente.\n\n2 - Para efeitos do número anterior, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e as provas que considerar necessárias."
+  },
+  "953216111": {
+   "fragment_id": "953215521",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Para efeito deste diploma, consideram-se, nomeadamente, entidades estrangeiras:\n\na) As pessoas singulares de nacionalidade estrangeira;\n\nb) As pessoas colectivas com sede ou domicílio principal fora do território e que não tenham a nacionalidade portuguesa;\n\nc) As sociedades ou entidades equiparáveis constituídas ao abrigo da lei estrangeira;\n\nd) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Código das Sociedades Comerciais, sejam dominadas, directa ou indirectamente, por entidades referidas nas alíneas anteriores.\n\n2 - Para efeitos deste diploma, consideram-se como a mesma entidade duas ou mais entidades que tenham entre si relações de simples participação ou relações de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas por um mesmo accionista.\n\n3 - Cada entidade colectiva concorrente declarará, por escrito, se se encontra ou não em relação prevista no número anterior com outra entidade também concorrente."
+  },
+  "953216112": {
+   "fragment_id": "953215522",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCompete ao conselho de administração da Sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças."
+  },
+  "953216113": {
+   "fragment_id": "953215523",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nCabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma."
+  },
+  "953216114": {
+   "fragment_id": "953215524",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nPara efeitos da primeira assembleia geral de accionistas, não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização."
+  },
+  "953216115": {
+   "fragment_id": "953215525",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Nos 30 dias seguintes à alienação das acções será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membro dos órgãos sociais.\n\n2 - Nos 90 dias seguintes à conclusão da reprivatização prevista no presente diploma a Sociedade deverá proceder às necessárias adaptações estatutárias."
+  },
+  "953216116": {
+   "fragment_id": "953215526",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "953216121": {
+   "fragment_id": "953215515",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1991-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 76/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-1991-185155), em vigor a partir de 1991-04-30"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas e mínimas individuais, a fixar mediante resolução do Conselho de Ministros.\n\n2 - As propostas de aquisição de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar em resolução do Conselho de Ministros, procedendo-se a rateio em função do número de subscritores, se disso for caso.\n\n3 - A aquisição pelo público em geral será feita mediante propostas, sujeitas a um número mínimo de acções, a fixar em resolução do Conselho de Ministros.\n\n4 - A aquisição do lote far-se-á nos termos e condições a fixar em resolução do Conselho de Ministros.\n\n5 - Nenhuma entidade singular ou colectiva portuguesa ou estrangeira poderá adquirir ao abrigo dos n.os 1, 2 e 3 mais de 3% do capital da Sociedade.\n\n6 - As propostas de aquisição em condições de serem satisfeitas serão reduzidas à quantidade fixada no número anterior, se a excederem.\n\n7 - Nos 15 dias seguintes ao termo do processo de reprivatização a Sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da quantidade de acções de que cada um é titular.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 76/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-1991-185155), em vigor a partir de 1991-04-30"
+  },
+  "953216122": {
+   "fragment_id": "953215518",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1991-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 76/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-1991-185155), em vigor a partir de 1991-04-30"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - No processo de reprivatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 33% do capital da Sociedade, não podendo as acções adquiridas fora do bloco por aquelas entidades exceder 3% desse capital.\n\n2 - Quando celebrados antes da aquisição no processo de reprivatização, são nulos:\n\na) Os acordos parassociais, seja qual for o conteúdo, celebrados entre as entidades portuguesas e estrangeiras, destinados a vigorar depois da aquisição das acções, salvo os acordos celebrados entre entidades adquirentes do bloco que não ponham em causa o controlo maioritário das entidades portuguesas;\n\nb) Os acordos pelos quais entidades portuguesas e estrangeiras se obriguem a entrar com acções que venham a adquirir para sociedades, ordinárias ou de gestão de participações sociais, já constituídas ou a constituir;\n\nc) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a uma entidade estrangeira, interveniente ou não no processo de reprivatização, seja atribuído o direito de adquirir acções que, por aquele processo, pertençam a entidades portuguesas.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 76/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-1991-185155), em vigor a partir de 1991-04-30"
+  },
+  "953216123": {
+   "fragment_id": "953215527",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1991-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 76/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-1991-185155), em vigor a partir de 1991-04-30"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.\n\nPromulgado em 9 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 9 de Abril de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 76/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-1991-185155), em vigor a partir de 1991-04-30"
+  }
+ }
+}

@@ -1,0 +1,454 @@
+---
+schema_version: '1.0'
+id: pt:dre:118562581:por
+title: Decreto-Lei n.º 19/2019
+short_title: null
+summary: Aprova o regime das sociedades de investimento e gestão imobiliária
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Finanças
+official_number: 19/2019
+official_date: null
+publication_date: '2019-01-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 19/2019, Série I de 2019-01-28
+  number: '19'
+  series: I
+  supplement: null
+  pages: 520 - 524
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01900/0052000524.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-09-09'
+version_history:
+  file: decreto-lei-19-2019.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-09-09'
+    amending: pt:dre:124417110:por
+    amending_title: Lei n.º 97/2019
+    changes:
+    - Adita Artigo 11.º-A
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/19/2019/p/cons/20190904/pt/html
+  oj: null
+  dre: '118562581'
+  dre_path: /dr/detalhe/decreto-lei/19-2019-118562581
+  internal: pt:dre:118562581:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2019-118562581
+  metadata_url: https://data.dre.pt/eli/dec-lei/19/2019/p/cons/20190904/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-118540973
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-118540973
+  retrieved_at: '2026-10-22T12:23:53Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e873cdee08756b7ce643953a4fc09c3475ef6296cd4cc7ae87a3b0353e497bf5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:23:53Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-19-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- BENS Imóveis
+- Aquisição de Imóveis
+- Aquisição de Solos
+- Sociedade Anónima
+- Sociedade Comercial
+- Arrendamento Urbano não Habitacional
+- Regime Jurídico
+- Sociedade de Gestão e Investimento Imobiliário
+- Sociedade de Investimento
+- Aquisição de Títulos
+- Arrendamento Urbano para Habitação
+- Sociedade de Investimento e Gestão Imobiliária
+relationships:
+- type: amended_by
+  target: pt:dre:124417110:por
+  label: Adita Artigo 11.º-A; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/97-2019-124417110
+  date: '2019-09-04'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/486/1999/11/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/486/1999/11/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/56/2018/07/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/56/2018/07/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/77/2017/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/77/2017/06/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/16/2015/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/16/2015/02/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+article_structure:
+  article_count: 14
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:23:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 19/2019
+
+Decreto-Lei n.º 19/2019
+
+de 28 de janeiro
+
+A captação de investimento direto estrangeiro revela-se estratégica para a expansão dos recursos financeiros e não financeiros disponíveis na economia portuguesa, permitindo o aumento do investimento e o reforço da competitividade do tecido económico.
+
+Por outro lado, a diversificação das fontes de financiamento e a dinamização e competitividade do mercado de capitais, aliadas à promoção do financiamento das empresas mediante o recurso a capitais próprios e à redução da dependência do financiamento bancário, designadamente através do incentivo ao reinvestimento dos lucros, permitem a evolução para uma maior neutralidade entre o financiamento através de capitais próprios e o endividamento.
+
+O presente decreto-lei concretiza estes objetivos, que estão previstos no Programa do XXI Governo Constitucional, procedendo à criação das sociedades de investimento e gestão imobiliária (SIGI), que configuram um novo veículo de promoção do investimento e de dinamização do mercado imobiliário, em particular do mercado de arrendamento. Acompanha-se, deste modo, a tendência observada noutros mercados europeus de referência - que há já alguns anos regulam este tipo de sociedades, habitualmente conhecidas por Real Estate Investment Trusts -, beneficiando da sua experiência.
+
+As SIGI são um novo tipo de sociedade de investimento imobiliário que se constitui e opera nos termos do presente decreto-lei e das disposições legais aplicáveis às sociedades anónimas. Têm como atividade principal a aquisição de direitos reais sobre imóveis, para arrendamento ou outras formas de exploração económica, a aquisição de participações em sociedades com objeto e requisitos equivalentes e a aquisição de participações em fundos de investimento imobiliário cuja política de distribuição de rendimentos seja similar, e as suas ações são obrigatoriamente negociadas em mercado. Além disso, as SIGI estão sujeitas a requisitos específicos de dispersão do capital, a determinadas regras de composição do património e à obrigação de distribuição dos respetivos lucros.
+
+Assegurando as necessárias garantias de proteção dos investidores, as SIGI são um mecanismo de investimento transparente e adaptado às necessidades dos agentes económicos, suscetível de dinamizar o mercado de capitais nacional, mediante a admissão à negociação de novos instrumentos no mercado.
+
+Em linha com aqueles objetivos, as SIGI estão sujeitas, a todo o tempo, ao cumprimento de um limite máximo de endividamento, tendo em conta a necessidade de assegurar a estabilidade do sistema financeiro nacional.
+
+Afigurando-se como um novo tipo de sociedade de investimento imobiliário cujo objetivo é a promoção do investimento e a dinamização do mercado imobiliário português, as SIGI beneficiarão do regime fiscal neutro aplicável às demais sociedades de investimento imobiliário que se constituem e operam de acordo com a legislação nacional.
+
+Adicionalmente, aproveita-se o ensejo para se proceder à clarificação de uma norma do Decreto-Lei n.º 77/2017, de 30 de junho, na sua redação atual, que consagrou um conjunto de medidas de dinamização do mercado de capitais, tendo em vista a diversificação das fontes de financiamento das empresas, entre as quais a criação e a regulação das sociedades de investimento mobiliário para fomento da economia (SIMFE). Tendo-se constatado que a norma que prevê o regime jurídico aplicável às SIMFE que atuam abaixo dos limiares previstos no n.º 2 do artigo 9.º do referido decreto-lei tem suscitado dúvidas interpretativas, procede-se ao aperfeiçoamento do seu conteúdo.
+
+Foram ouvidas a Associação de Empresas Emitentes de Valores Cotados em Mercado, a Associação Portuguesa de Bancos, a Associação Portuguesa de Fundos de Investimento, Pensões e Patrimónios, o Conselho Nacional de Supervisores Financeiros e a Euronext Lisbon - Sociedade Gestora de Mercados Regulamentados, S. A.
+
+Foi promovida a audição da Associação Portuguesa de Capital de Risco e de Desenvolvimento, da Associação Portuguesa de Analistas Financeiros e da Associação de Investidores e Analistas Técnicos do Mercado de Capitais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposição geral
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei aprova o regime das sociedades de investimento e gestão imobiliária (SIGI).
+
+2 - O presente decreto-lei procede à segunda alteração ao Decreto-Lei n.º 77/2017, de 30 de junho, alterado pelo Decreto-Lei n.º 56/2018, de 9 de julho, que cria medidas de dinamização do mercado de capitais, com vista à diversificação das fontes de financiamento das empresas.
+
+### Capítulo II — Regime das sociedades de investimento e gestão imobiliária
+
+###### Artigo 2.º — Regime aplicável
+
+1 - As SIGI são sociedades de investimento imobiliário que se constituem e operam nos termos do presente decreto-lei e das disposições legais aplicáveis às sociedades anónimas.
+
+2 - Caso adquiram a qualidade de sociedades abertas, as SIGI regem-se também pelas disposições legais aplicáveis a essas entidades.
+
+3 - Às participações detidas por instituições de crédito em SIGI, aplica-se o disposto nos n.os 1, 2 e 4 do artigo 101.º do Regime Geral das Instituições de Crédito e Sociedades de Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na sua redação atual, não lhes sendo aplicável a exceção prevista no n.º 3 do mesmo artigo.
+
+###### Artigo 3.º — Requisitos
+
+São SIGI as sociedades comerciais com sede e direção efetiva em Portugal que preenchem cumulativamente os seguintes requisitos:
+
+a) Adotam o tipo de sociedade anónima e o modelo de fiscalização previsto na alínea b) do n.º 1 do artigo 413.º do Código das Sociedades Comerciais (CSC), aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro, na sua redação atual;
+
+b) Têm o objeto social definido no artigo 7.º;
+
+c) Têm capital social subscrito e realizado no montante mínimo de (euro) 5.000.000, representado por ações ordinárias;
+
+d) Cumprem os limites constantes do artigo 8.º;
+
+e) A sua firma inclui a menção «Sociedade de Investimento e Gestão Imobiliária, S. A.» ou «SIGI, S. A.»;
+
+f) As respetivas ações são admitidas à negociação em mercado regulamentado ou selecionadas para a negociação num sistema de negociação multilateral, nos termos do disposto no artigo 9.º
+
+###### Artigo 4.º — Constituição
+
+1 - As SIGI podem ser constituídas com ou sem apelo a subscrição pública.
+
+2 - Não é permitido o diferimento da realização de quaisquer entradas.
+
+3 - A constituição de SIGI com apelo a subscrição pública rege-se pelo disposto nos artigos 279.º a 283.º do CSC, com as especificidades previstas nos números seguintes.
+
+4 - As ações a subscrever pelos promotores são imediatamente alienáveis e integram a mesma categoria das ações subscritas por quaisquer outras pessoas ou entidades.
+
+5 - Aos promotores não pode ser atribuída qualquer vantagem.
+
+6 - A constituição da SIGI não fica dependente da realização de uma assembleia constitutiva, sendo os membros dos órgãos sociais designados no contrato de sociedade.
+
+7 - O pedido de conversão do registo em definitivo não depende da entrega de ata de assembleia constitutiva, sendo apresentado após a subscrição de todas ações, sem prejuízo do disposto no número seguinte.
+
+8 - A subscrição incompleta das ações oferecidas à subscrição pública não impede a conversão do registo em definitivo desde que sejam subscritos pelo menos três quartos das ações destinadas ao público e desde que:
+
+a) Sejam subscritas todas as ações destinadas a subscrição pelos promotores;
+
+b) Sejam subscritas ações cuja soma dos valores nominais ou dos valores de emissão perfaça o montante mínimo de capital social prescrito na alínea c) do artigo anterior; e
+
+c) Seja feita menção expressa à subscrição incompleta nos documentos do programa de oferta de ações.
+
+9 - Os documentos do programa de oferta de ações à subscrição pública seguem as regras previstas no título iii do Código dos Valores Mobiliários (CVM), aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, na sua redação atual, devendo deles constar o projeto completo de contrato de sociedade e os termos em que a SIGI se constitui.
+
+10 - A deliberação da constituição da SIGI não pode ser anulada a requerimento de subscritor que não a tenha aprovado.
+
+###### Artigo 5.º — Conversão de sociedades anónimas em sociedades de investimento e gestão imobiliária
+
+1 - As sociedades anónimas podem converter-se em SIGI nos termos dos números seguintes e desde que passem a cumprir os requisitos do presente decreto-lei.
+
+2 - As sociedades anónimas já constituídas podem converter-se em SIGI mediante deliberação da assembleia geral de acionistas, tomada pela maioria de votos exigida para deliberar a alteração do contrato de sociedade.
+
+3 - Na deliberação referida no número anterior e pela mesma maioria de votos, a assembleia geral de acionistas aprova também as alterações ao contrato de sociedade necessárias ao cumprimento dos requisitos do presente decreto-lei.
+
+4 - A conversão produz efeitos no primeiro dia do período de tributação após a data do registo das alterações ao contrato de sociedade referidas nos números anteriores, não se aplicando o disposto no n.º 1 do artigo 10.º às reservas e resultados transitados da sociedade convertida em SIGI existentes à data de registo das referidas alterações.
+
+5 - O ramo de atividade que integre um ou mais ativos identificados no n.º 1 do artigo 7.º é considerado uma unidade económica para efeitos do disposto na alínea b) do n.º 1 do artigo 124.º do CSC.
+
+###### Artigo 6.º
+
+Conversão de organismo de investimento imobiliário em sociedades de investimento e gestão imobiliária
+
+1 - Os organismos de investimento imobiliário (OII) sob forma societária, constituídos ao abrigo do Regime Geral dos Organismos de Investimento Coletivo (RGOIC), aprovado pela Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual, e por este regidos, podem converter-se em SIGI nos termos dos números seguintes e desde que passem a cumprir os requisitos do presente decreto-lei.
+
+2 - Os OII sob forma societária já constituídos podem converter-se em SIGI, mediante deliberação da assembleia geral, aprovada por votos correspondentes a 90 % do capital social.
+
+3 - Na deliberação referida no número anterior e pela mesma maioria de votos a assembleia geral de acionistas aprova as alterações ao contrato de sociedade necessárias ao cumprimento das disposições legais imperativas do presente decreto-lei.
+
+4 - A deliberação de conversão e o contrato de sociedade alterado são imediatamente enviados à Comissão do Mercado de Valores Mobiliários (CMVM), sendo a referida deliberação imediatamente divulgada no sistema de difusão de informação da CMVM e, quando existente, no sítio do OII ou da entidade responsável pela gestão na Internet.
+
+5 - A conversão produz efeitos na data estabelecida na respetiva deliberação e determina a caducidade da autorização do OII.
+
+6 - Os acionistas que tenham votado contra a deliberação de conversão têm o direito de se exonerar do OII sujeito à conversão, sem custos, através do exercício do direito de resgate de ações ou, quando decidido pela entidade responsável pela gestão, através da aquisição das ações em causa pelo OII, por si ou por terceiro.
+
+7 - O acionista que pretenda exercer o direito à exoneração deve comunicá-lo por escrito à entidade responsável pela gestão no prazo de 15 dias após a divulgação da deliberação de conversão.
+
+8 - Para efeitos de pagamento da contrapartida da exoneração, é atendido o valor das ações à data de produção de efeitos da conversão, nos termos do n.º 5, confirmado por parecer do auditor do OII sujeito à conversão.
+
+9 - A liquidação financeira do resgate ou da aquisição das ações ocorre no prazo de 60 dias após a produção de efeitos da conversão, nos termos do n.º 5.
+
+###### Artigo 7.º — Objeto social
+
+1 - As SIGI têm como objeto social principal:
+
+a) A aquisição de direitos de propriedade, de direitos de superfície ou de outros direitos com conteúdo equivalente sobre bens imóveis, para arrendamento, abrangendo formas contratuais atípicas que incluam prestações de serviços necessárias à utilização do imóvel;
+
+b) A aquisição de participações em outras SIGI, ou em sociedades com sede em território português ou noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia que preencham cumulativamente os seguintes requisitos:
+
+i) Tenham um objeto social equivalente ao das SIGI;
+
+ii) A composição do seu ativo respeite os limites previstos no artigo seguinte;
+
+iii) Tenham o capital social integralmente representado por ações nominativas; e
+
+iv) Estejam sujeitas a um regime similar ao previsto no artigo 10.º quanto à distribuição de lucros;
+
+c) A aquisição de unidades de participação ou de ações de:
+
+i) OII constituídos ao abrigo do RGOIC, e por este regidos, cuja política de distribuição de rendimentos seja similar à estabelecida para as SIGI;
+
+ii) Fundos de investimento imobiliário para arrendamento habitacional e de sociedades de investimento imobiliário para arrendamento habitacional regulados pelo artigo 102.º da Lei n.º 64-A/2008, de 31 de dezembro, na sua redação atual, cuja política de distribuição de rendimentos seja similar à estabelecida para as SIGI.
+
+2 - Para os efeitos do disposto na alínea a) do número anterior, a aquisição de direitos sobre imóveis para arrendamento compreende designadamente:
+
+a) O desenvolvimento de projetos de construção e de reabilitação de imóveis;
+
+b) A sua afetação à utilização de loja ou espaço em centro comercial, ou utilização de espaço em escritórios.
+
+3 - Na prossecução da sua atividade, as SIGI podem realizar diretamente a gestão ou a exploração económica dos imóveis sobre os quais tenham adquirido algum dos direitos referidos na alínea a) do n.º 1, ou contratar serviços de terceiros para proceder à gestão ou à exploração económica desses imóveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 97/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/97-2019-124417110), em vigor a partir de 2019-09-09
+
+###### Artigo 8.º — Composição do ativo e limites ao endividamento
+
+1 - O ativo da SIGI deve ser constituído maioritariamente por direitos de propriedade, direitos de superfície ou outros direitos de conteúdo equivalente sobre imóveis, para arrendamento, abrangendo formas contratuais atípicas que incluam prestações de serviços necessárias à utilização do imóvel, respeitando os seguintes limites cumulativos:
+
+a) O valor dos direitos sobre bens imóveis e participações referidos no n.º 1 do artigo anterior deve representar pelo menos 80 % do valor total do ativo da SIGI;
+
+b) O valor dos direitos sobre bens imóveis objeto de arrendamento, abrangendo formas contratuais atípicas que incluam prestações de serviços necessárias à utilização do imóvel, deve representar pelo menos 75 % do valor total do ativo da SIGI.
+
+2 - Os requisitos de composição do ativo referidos no número anterior devem verificar-se a todo o tempo a partir do segundo ano após a constituição da SIGI.
+
+3 - Cada um dos direitos e das participações referidos no n.º 1 do artigo anterior tem de ser detido durante pelo menos três anos após a sua aquisição.
+
+4 - O endividamento da SIGI não pode corresponder, a todo o tempo, a mais de 60 % do valor do ativo total da SIGI.
+
+5 - Para os efeitos do disposto no presente decreto-lei, são bens imóveis os prédios rústicos suscetíveis de exploração económica autónoma, incluindo para uso silvícola, os prédios urbanos, as frações autónomas de prédios urbanos e os terrenos que venham a ser qualificados como prédios urbanos ou frações autónomas de prédios urbanos no prazo de três anos após a sua aquisição.
+
+6 - Para efeitos do disposto na alínea a) do n.º 1, considera-se apenas um bem imóvel o conjunto das frações autónomas de um edifício em regime de propriedade horizontal e o conjunto de edifícios contíguos funcionalmente ligados entre si pela existência de partes comuns afetas ao uso de todas ou algumas unidades ou frações que os compõem.
+
+7 - Para os efeitos do disposto no n.º 1, considera-se apenas o valor dos direitos sobre imóveis que se encontrem livre de ónus ou encargos que dificultem a sua alienação, com exceção das garantias constituídas para obtenção de financiamento para a sua aquisição, construção ou reabilitação.
+
+8 - Não se consideram abrangidos pelo disposto no n.º 1 os imóveis detidos em regime de compropriedade, exceto quando:
+
+a) Se encontrem funcionalmente ligados à exploração de frações autónomas detidas pela SIGI e exista um acordo escrito sobre a repartição dos rendimentos gerados pelo imóvel e dos encargos inerentes ao mesmo; ou
+
+b) Sejam detidos em compropriedade com outras SIGI, desde que exista um acordo escrito sobre a repartição dos rendimentos gerados pelo imóvel e dos encargos inerentes ao mesmo, ou sobre a futura constituição de propriedade horizontal.
+
+9 - Os limites definidos nos n.os 1 e 4 são aferidos em relação aos valores verificados nas contas individuais da SIGI ou, caso a SIGI seja empresa-mãe de um grupo, nas contas consolidadas.
+
+10 - A metodologia e os critérios relevantes para a avaliação dos ativos das SIGI são adequadamente documentados e devem constar dos documentos de oferta pública e de admissão à negociação em mercado regulamentado das ações da SIGI e, se for o caso, dos documentos destinados à seleção para negociação em sistema de negociação multilateral.
+
+11 - O auditor encarregue da certificação legal das contas das SIGI verifica se a metodologia e os critérios referidos no número anterior se encontram cumpridos.
+
+12 - A administração da SIGI solicita uma avaliação dos ativos da SIGI, pelo menos a cada sete anos, a realizar por auditor externo independente registado junto da CMVM.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 97/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/97-2019-124417110), em vigor a partir de 2019-09-09
+
+###### Artigo 9.º — Negociação e dispersão
+
+1 - As ações representativas da totalidade do capital social das SIGI devem, no prazo de um ano a contar do registo comercial da respetiva constituição ou da data de produção de efeitos das conversões previstas nos artigos 5.º e 6.º, ser admitidas à negociação em mercado regulamentado ou selecionadas para negociação em sistema de negociação multilateral situado ou a funcionar em Portugal ou noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
+
+2 - As ações representativas do capital social da SIGI devem cumprir os requisitos de dispersão de ações pelo público aplicáveis em cada plataforma de negociação referidas no número anterior e assegurar o cumprimento dos seguintes limites mínimos de dispersão por investidores que sejam titulares de participações correspondentes a menos de 2 % dos direitos de voto imputados nos termos do artigo 20.º do CVM:
+
+a) 20 % a partir do final do terceiro ano civil completo após admissão ou seleção para negociação das ações das SIGI numa das plataformas de negociação referidas no número anterior;
+
+b) 25 % a partir do final do quinto ano civil completo após admissão ou seleção para negociação das ações das SIGI numa das plataformas de negociação referidas no número anterior.
+
+3 - Não é aplicável à admissão à negociação das ações emitidas pelas SIGI o disposto no artigo 228.º do CVM.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 97/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/97-2019-124417110), em vigor a partir de 2019-09-09
+
+###### Artigo 10.º — Distribuição de rendimentos
+
+1 - No prazo de nove meses após o encerramento de cada exercício, as SIGI devem distribuir, sob a forma de dividendos pelo menos:
+
+a) 90 % dos lucros do exercício que resultem do pagamento de dividendos e rendimentos de ações ou de unidades de participação distribuídos pelas entidades referidas nas alíneas b) e c) do n.º 1 do artigo 7.º; e
+
+b) 75 % dos restantes lucros do exercício distribuíveis nos termos do CSC.
+
+2 - Pelo menos 75 % do produto líquido da alienação de ativos afetos à prossecução do objeto social principal da SIGI deve ser objeto de reinvestimento em outros ativos destinados à prossecução de tal objeto no prazo de três anos a contar da referida alienação.
+
+3 - A reserva legal das SIGI não pode exceder 20 % do capital social, não sendo permitida a constituição de outras reservas indisponíveis.
+
+###### Artigo 11.º — Perda de qualidade de sociedades de investimento e gestão imobiliária
+
+1 - Perdem a qualidade de SIGI, deixando de estar sujeitas ao regime do presente decreto-lei, as sociedades que:
+
+a) Deixem de cumprir qualquer dos requisitos constantes das alíneas a) a c) do artigo 3.º;
+
+b) Incumpram simultaneamente, por mais de seis meses, o disposto nos n.os 1 e 2 do artigo 8.º;
+
+c) Incumpram, durante dois exercícios sociais consecutivos ou quaisquer dois por cada cinco exercícios sociais, o disposto em, pelo menos, uma das alíneas do n.º 1 ou no n.º 2 do artigo 8.º;
+
+d) Incumpram o disposto no n.º 3 do artigo 8.º;
+
+e) Incumpram o disposto no n.º 4 do artigo 8.º;
+
+f) Incumpram a obrigação de requerer a admissão das suas ações à negociação em mercado regulamentado ou a seleção para negociação em sistema de negociação multilateral, situados ou a funcionar em Estado membro da União Europeia ou do Espaço Económico Europeu, com a antecedência necessária para cumprimento do prazo referido no n.º 1 do artigo 9.º;
+
+g) Deixem de cumprir o requisito de dispersão previsto do n.º 2 do artigo 9.º por mais de seis meses.
+
+2 - A perda da qualidade de SIGI não prejudica a manutenção da natureza de sociedade aberta por parte da sociedade que a tenha adquirido.
+
+3 - O órgão de administração da SIGI ou, caso este não o faça, o seu órgão de fiscalização comunicam à entidade gestora do mercado regulamentado onde se encontrem admitidas ou sistema de negociação multilateral onde se encontrem selecionadas para negociação as suas ações e à Autoridade Tributária e Aduaneira a ocorrência de qualquer um dos factos referidos no n.º 1, logo que deles tenha conhecimento, considerando-se que a sociedade perde a qualidade de SIGI no momento da ocorrência de qualquer das situações elencadas no n.º 1.
+
+4 - A perda da qualidade de SIGI impede que a mesma sociedade volte a adquirir a qualidade de SIGI nos três anos seguintes.
+
+5 - Os membros dos órgãos de administração e de fiscalização da SIGI respondem perante os acionistas, nos termos gerais, pelos danos que diretamente lhes causarem em resultado da perda pela sociedade da sua qualidade de SIGI.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 97/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/97-2019-124417110), em vigor a partir de 2019-09-09
+
+###### Artigo 11.º-A — Regime fiscal das SIGI
+
+1 - É aplicável às SIGI o regime fiscal previsto nos artigos 22.º e 22.º-A do Estatuto dos Benefícios Fiscais (EBF).
+
+2 - Sem prejuízo do disposto no número anterior, no caso dos rendimentos resultantes da alienação onerosa de direitos reais sobre bens imóveis, a exclusão de tributação prevista no n.º 3 do artigo 22.º do EBF apenas será aplicável quando os imóveis tiverem sido detidos para arrendamento, abrangendo formas contratuais atípicas que incluam prestações de serviços necessárias à utilização do imóvel, durante pelo menos três anos.
+
+3 - Caso se verifique a perda de qualidade de SIGI nos termos do artigo 11.º, cessa a aplicação do regime previsto nos artigos 22.º e 22.º-A do EBF, passando o lucro tributável a ser apurado e tributado nos termos do Código do Imposto sobre o Rendimento das Pessoas Coletivas (IRC), considerando-se, para este efeito, como um período de tributação, o período decorrido entre a data da cessação e o final do ano civil em que esta ocorreu.
+
+4 - Cessando a aplicação do regime previsto nos artigos 22.º e 22.º-A do EBF, os rendimentos de participações sociais em SIGI que sejam pagos ou colocados à disposição dos respetivos titulares após a data daquela cessação, bem como as mais-valias realizadas após essa data, são tributados nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS) ou do Código do IRC.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 97/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/97-2019-124417110), em vigor a partir de 2019-09-09
+
+### Capítulo III — Alterações legislativas
+
+###### Artigo 12.º — Alteração ao Decreto-Lei n.º 77/2017, de 30 de junho
+
+O artigo 13.º do Decreto-Lei n.º 77/2017, de 30 de junho, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 13.º
+
+[...]
+
+1 - Às SIMFE cujos ativos sob gestão sejam inferiores aos estabelecidos no n.º 2 do artigo 9.º são aplicáveis, no que não contrariar o disposto no presente capítulo e com as necessárias adaptações, as seguintes disposições do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, aplicáveis aos organismos de investimento coletivo sob a forma societária autogeridos:
+
+a) Do título I:
+
+i) Os capítulos I, III, IV e V;
+
+ii) O n.º 4 do artigo 19.º do capítulo II;
+
+b) Do título II, os artigos 66.º, 73.º, 74.º, 76.º e 88.º;
+
+c) Do título III, o artigo 139.º;
+
+d) Do título IV, os artigos 241.º, 243.º e 254.º; e
+
+e) O título V.
+
+2 - ...
+
+3 - ...
+
+4 - ...»
+
+### Capítulo IV — Disposição final
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 10 de janeiro de 2019. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Pedro Gramaxo de Carvalho Siza Vieira.
+
+Promulgado em 23 de janeiro de 2019.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 24 de janeiro de 2019.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112009938

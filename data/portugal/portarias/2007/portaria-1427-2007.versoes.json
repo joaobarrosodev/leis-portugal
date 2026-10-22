@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629431:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-115182522",
+ "dre_path": "/dr/detalhe/portaria/1427-2007-629431",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115173996",
+    "115173997",
+    "115173998",
+    "115173999",
+    "115174000",
+    "115174001",
+    "115174002",
+    "115174003"
+   ]
+  },
+  {
+   "date": "2018-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115182509:por",
+     "title": "Portaria n.º 111/2018",
+     "published": "2018-04-26",
+     "dre_path": "/dr/detalhe/portaria/111-2018-115182509"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º"
+   ],
+   "fragments": [
+    "115173996",
+    "115173997",
+    "115173998",
+    "115173999",
+    "115174000",
+    "115174001",
+    "115174002",
+    "115174003",
+    "115174005",
+    "115174006"
+   ]
+  }
+ ],
+ "fragments": {
+  "115173996": {
+   "fragment_id": "115182523",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1427/2007\n\nde 2 de Novembro\n\nO regime jurídico das farmácias de oficina, previsto no Decreto-Lei n.º 307/2007, de 31 de Agosto, consagrou a possibilidade de as farmácias e os locais de venda de medicamentos não sujeitos a receita médica dispensarem medicamentos ao domicílio e de aceitarem pedidos feitos através da Internet.\n\nDe acordo com o enquadramento legal, esta portaria permitirá às farmácias e aos locais de venda de medicamentos não sujeitos a receita médica dispensarem medicamentos aos utentes, não só através da tradicional forma presencial, mas também ao domicílio.\n\nPor outro lado, o pedido do utente já não tem de ser apenas presencial e admite-se que seja feito também através do telefone ou da Internet.\n\nConsiderando o reconhecido interesse público atribuído à actividade de dispensa de medicamentos e a necessidade de assegurar a qualidade e segurança dos medicamentos dispensados, a portaria limita a entrega ao domicílio de medicamentos sujeitos a receita médica aos profissionais que os podem dispensar nas farmácias e a entrega ao domicílio de medicamentos não sujeitos a receita médica aos profissionais que os podem dispensar nos locais de venda de medicamentos não sujeitos a receita médica.\n\nEm simultâneo, esta portaria impõe aos estabelecimentos que pretendam utilizar a Internet para registar pedidos de medicamentos a disponibilidade de um sítio, no qual conste informação específica e determinada, relevante para a decisão do utente.\n\nPor outro lado, este diploma permitirá ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., controlar a dispensa de medicamentos solicitados através da Internet, solicitando informações às farmácias e aos locais de venda de medicamentos não sujeitos a receita médica sempre que o considerar necessário.\n\nAssim:\n\nManda o Governo, pelo Ministro da Saúde, em cumprimento do disposto no artigo 57.º do Decreto-Lei n.º 307/2007, de 31 de Agosto, o seguinte:"
+  },
+  "115173997": {
+   "fragment_id": "115182524",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regula as condições e os requisitos da dispensa de medicamentos ao domicílio e através da Internet."
+  },
+  "115173998": {
+   "fragment_id": "115182525",
+   "type": 11,
+   "heading": "Artigo 2.º — Domicílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Domicílio\n\n1 - O pedido de dispensa de medicamentos para entrega ao domicílio pode ser feito:\n\na) Nas farmácias ou nos locais de venda de medicamentos não sujeitos a receita médica;\n\nb) Através do sítio electrónico da farmácia;\n\nc) Através de correio electrónico;\n\nd) Através do telefone;\n\ne) Através de telefax.\n\n2 - A entrega ao domicílio deve ser feita sob a supervisão de um farmacêutico, no caso de farmácia, ou de um farmacêutico ou técnico de farmácia, no caso de local de venda de medicamentos não sujeitos a receita médica.\n\n3 - A informação necessária à adequada utilização do medicamento é da responsabilidade do director técnico da farmácia ou do responsável técnico do local de venda de medicamentos não sujeitos a receita médica, consoante o caso."
+  },
+  "115173999": {
+   "fragment_id": "115182526",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de entrega de medicamentos ao domicílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de entrega de medicamentos ao domicílio\n\n1 - A entrega ao domicílio de medicamentos sujeitos a receita médica observa as disposições legais aplicáveis em relação à obrigatoriedade de apresentação de receita médica.\n\n2 - A dispensa de medicamentos com entrega ao domicílio está limitada ao município onde se encontra instalada a farmácia e aos municípios limítrofes.\n\n3 - A entrega de medicamentos ao domicílio só pode ser assegurada pela farmácia ou, no caso de medicamento não sujeito a receita médica pelo local autorizado à respectiva venda, onde o medicamento é solicitado.\n\n4 - Ao transporte de medicamentos até ao domicílio do utente são aplicáveis, com as necessárias adaptações, as regras de transporte previstas nas boas práticas de distribuição de medicamentos."
+  },
+  "115174000": {
+   "fragment_id": "115182527",
+   "type": 11,
+   "heading": "Artigo 4.º — Sítio na Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sítio na Internet\n\n1 - As farmácias e os locais de venda de medicamentos não sujeitos a receita médica que dispensem medicamentos solicitados através da Internet devem dispor de um sítio electrónico, individualizado, propriedade da farmácia ou do local de venda de medicamentos não sujeitos a receita médica, com as seguintes informações:\n\na) Preço dos serviços prestados relacionados com a dispensa de medicamentos e respectiva entrega ao domicílio;\n\nb) Formas de pagamento aceites;\n\nc) Área geográfica em que a farmácia assegura a dispensa ao domicílio;\n\nd) Tempo provável para a entrega dos medicamentos solicitados;\n\ne) Nome do director técnico da farmácia ou do responsável técnico do local de venda de medicamentos não sujeitos a receita médica.\n\n2 - As farmácias, ou os locais de venda de medicamentos não sujeitos a receita médica, detidas, geridas ou exploradas pela mesma pessoa singular ou sociedade comercial podem partilhar, conjuntamente, o sítio electrónico previsto no número anterior."
+  },
+  "115174001": {
+   "fragment_id": "115182528",
+   "type": 11,
+   "heading": "Artigo 5.º — Comunicação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comunicação prévia\n\n1 - A dispensa de medicamentos nos termos da presente portaria por parte das farmácias e dos locais de venda de medicamentos não sujeitos a receita médica depende da comunicação prévia ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), do endereço do sítio referido no artigo anterior.\n\n2 - A comunicação prévia referida no número anterior obedece às regras definidas pelo conselho directivo do INFARMED, I. P., para as comunicações das farmácias através da Internet."
+  },
+  "115174002": {
+   "fragment_id": "115182529",
+   "type": 11,
+   "heading": "Artigo 6.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação\n\nO INFARMED, I. P., disponibiliza em local adequado do seu sítio na Internet a lista dos endereços dos sítios da Internet comunicados de acordo com o artigo anterior."
+  },
+  "115174003": {
+   "fragment_id": "115182530",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registo\n\n1 - As farmácias e os locais de venda de medicamentos não sujeitos a receita médica devem registar os pedidos de dispensa de medicamentos efectuados nos termos do n.º 1 do artigo 2.º, com referência à identificação do medicamento, à quantidade dispensada e ao município de entrega.\n\n2 - A informação referida no número anterior deve ser disponibilizada ao INFARMED, I. P., sempre que solicitado."
+  },
+  "115174005": {
+   "fragment_id": "115182533",
+   "type": 11,
+   "heading": "Artigo 8.º — Dispensa ao domicílio e/ou através da Internet de outras tecnologias de saúde",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 8.º — Dispensa ao domicílio e/ou através da Internet de outras tecnologias de saúde\n\nO regime previsto no presente diploma aplica-se, com as devidas adaptações, à dispensa ao domicílio e/ou através da Internet de outras tecnologias de saúde comparticipadas.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+  },
+  "115174006": {
+   "fragment_id": "115182531",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 29 de Outubro de 2007."
+  }
+ }
+}

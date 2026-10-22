@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249021:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-957618033",
+ "dre_path": "/dr/detalhe/portaria/428-b-2001-249021",
+ "source_lastmod": "2025-11-28",
+ "versions": [
+  {
+   "date": "2001-04-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "957668090"
+   ]
+  }
+ ],
+ "fragments": {
+  "957668090": {
+   "fragment_id": "957618034",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 428-B/2001\n\nde 24 de Abril\n\nA Portaria n.º 224-A/96, de 24 de Junho, que estabeleceu a fórmula de cálculo dos preços dos produtos de petróleo submetidos ao regime de preços máximos, definiu o valor do factor de correcção (FC) aplicável àqueles produtos. Torna-se, agora, necessário proceder à revisão dos factores de correcção aplicáveis à gasolina sem chumbo IO 95 e ao gasóleo.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e da Economia, o seguinte:"
+  }
+ }
+}

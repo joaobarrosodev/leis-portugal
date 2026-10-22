@@ -1,0 +1,438 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:552003:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-887189258",
+ "dre_path": "/dr/detalhe/portaria/156-2012-552003",
+ "source_lastmod": "2024-09-06",
+ "versions": [
+  {
+   "date": "2012-05-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887174558",
+    "887174532",
+    "887174533",
+    "887174534",
+    "887174535",
+    "887174536",
+    "887174537",
+    "887174538"
+   ]
+  },
+  {
+   "date": "2013-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:497378:por",
+     "title": "Portaria n.º 212/2013",
+     "published": "2013-06-27",
+     "dre_path": "/dr/detalhe/portaria/212-2013-497378"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "887174531",
+    "887174532",
+    "887174533",
+    "887174534",
+    "887174535",
+    "887174539",
+    "887174540",
+    "887174550",
+    "887174551",
+    "887174543",
+    "887174544",
+    "887174536",
+    "887174537",
+    "887174538",
+    "887174552"
+   ]
+  },
+  {
+   "date": "2023-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222645049:por",
+     "title": "Decreto-Lei n.º 89/2023",
+     "published": "2023-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2023-222645049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "887174531",
+    "887174532",
+    "887174533",
+    "887174534",
+    "887174535",
+    "887174539",
+    "887174540",
+    "887174553",
+    "887174551",
+    "887174554",
+    "887174544",
+    "887174536",
+    "887174537",
+    "887174538",
+    "887174555"
+   ]
+  },
+  {
+   "date": "2024-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:887091776:por",
+     "title": "Decreto-Lei n.º 54/2024",
+     "published": "2024-09-06",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2024-887091776"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "887174558",
+    "887174559",
+    "887174560",
+    "887174561",
+    "887174562",
+    "887174563",
+    "887174564",
+    "887174565",
+    "887174566",
+    "887174567",
+    "887174568",
+    "887174569",
+    "887174570",
+    "887174571",
+    "887174572"
+   ]
+  }
+ ],
+ "fragments": {
+  "887174558": {
+   "fragment_id": "887189259",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-10-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 156/2012\n\nde 22 de maio\n\nO Decreto-Lei n.º 22/2012, de 30 de janeiro, definiu a missão e as atribuições das Administrações Regionais de Saúde, I. P. Importa agora, no desenvolvimento daquele diploma, determinar a organização interna da Administração Regional de Saúde do Algarve, I. P., abreviadamente designada por ARSALGARVE, I. P., mediante a aprovação dos respetivos estatutos.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, o seguinte:\n\n> Nota: [Artigo 29.º, Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776) A revogação do presente diploma não prejudica o exercício das competências legalmente previstas até à conclusão dos processos de fusão e reestruturação previstos no Decreto-Lei n.º 54/2024, de 6 de setembro."
+  },
+  "887174532": {
+   "fragment_id": "887189260",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados em anexo à presente portaria, e da qual fazem parte integrante, os Estatutos da Administração Regional de Saúde do Algarve, I. P., abreviadamente designado por ARSALGARVE, I. P."
+  },
+  "887174533": {
+   "fragment_id": "887189261",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma transitória\n\n1 - A organização interna da ARSALGARVE, I. P., integra, transitoriamente:\n\na) As unidades de intervenção local do extinto Instituto da Droga e da Toxicodependência, I. P., nos termos do artigo 14.º do Decreto-Lei n.º 22/2012, de 30 de janeiro;\n\nb) Uma equipa multidisciplinar para a área da coordenação da intervenção nos comportamentos aditivos e nas dependências, em articulação com as orientações nacionais emanadas pelo Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD), que terá a duração de doze meses, contados a partir da entrada em vigor do presente diploma.\n\n2 - O chefe da equipa multidisciplinar a que se refere a alínea b) do número anterior é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 1.º grau."
+  },
+  "887174534": {
+   "fragment_id": "887189262",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 653/2007, de 30 de maio."
+  },
+  "887174535": {
+   "fragment_id": "887189263",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no quinto dia útil seguinte ao da sua publicação."
+  },
+  "887174536": {
+   "fragment_id": "887189264",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento de Gestão e Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Departamento de Gestão e Administração Geral\n\n1 - Ao Departamento de Gestão e Administração Geral, abreviadamente designado por DGAG, compete:\n\na) Assegurar o planeamento, a gestão e a administração dos recursos humanos a nível regional;\n\nb) Assegurar a coordenação do sistema de avaliação de desempenho a nível regional;\n\nc) Promover a qualificação e valorização profissional dos recursos humanos da área da saúde da região, identificando necessidades, propondo planos de formação profissional e organizando ações de formação;\n\nd) Emitir parecer sobre os projetos de mapas de pessoal das instituições do SNS da região;\n\ne) Promover, nos serviços públicos prestadores de cuidados de saúde, a aplicação de instrumentos de avaliação da prestação da atividade profissional, propondo medidas para a adequação de distribuição de recursos humanos;\n\nf) Assegurar, ao nível regional, uma base de dados de recursos humanos atualizada e desenvolver estudos de gestão previsional de recursos humanos do SNS;\n\ng) Propor os mapas de vagas para os internatos médicos, bem como para as restantes profissões de saúde de acordo com a previsão de necessidades em recursos humanos para a região;\n\nh) Elaborar, propor e acompanhar as candidaturas, no âmbito dos programas cofinanciados para a área da formação profissional;\n\ni) Assegurar os procedimentos relativos à gestão e administração de pessoal da ARSALGARVE, I. P.;\n\nj) Elaborar o orçamento de investimento e funcionamento da região e acompanhar e controlar a sua execução orçamental;\n\nk) Promover a constituição de fundos de maneio, bem como assegurar o controlo da sua gestão;\n\nl) Assegurar a conferência dos elementos relativos à faturação de terceiros, nomeadamente das prestações indiretas, farmácias, convenções e transportes;\n\nm) Arrecadar as receitas, efetuar o pagamento das despesas e controlar a tesouraria;\n\nn) Preparar os processos de atribuição de apoios financeiros;\n\no) Analisar a viabilidade económica e o impacto financeiro de acordos com entidades privadas, com ou sem fins lucrativos, que se revelem necessários a nível regional;\n\np) Acompanhar a execução orçamental e a situação económico-financeira das unidades prestadoras de cuidados de saúde integradas no SNS, a nível regional;\n\nq) Instruir os processos na área de convenções internacionais e na área da deslocação para assistência médica no estrangeiro;\n\nr) Desenvolver todas as ações de gestão económico-financeira, efetuar estudos e elaborar os relatórios económico-financeiros que se mostrem necessários, que lhe forem solicitados ou determinados pelo conselho diretivo;\n\ns) Gerir os bens patrimoniais afetos à ARSALGARVE, I. P., organizar e manter atualizado o cadastro e inventário destes bens e providenciar pela sua manutenção e segurança;\n\nt) Assegurar a gestão de stocks e o aprovisionamento de bens e serviços necessários e adequados ao funcionamento da ARSALGARVE, I. P.;\n\nu) Organizar e gerir os arquivos documentais da ARSALGARVE, I. P.;\n\nv) Assegurar a implementação dos sistemas de informação e comunicações de utilização comum;\n\nw) Gerir e assegurar a manutenção de sistemas e das infraestruturas tecnológicas, em articulação com as entidades competentes;\n\nx) Assegurar o apoio técnico aos utilizadores no âmbito dos sistemas e infraestruturas tecnológicas;\n\ny) Assegurar a receção, registo, distribuição e expedição de toda a correspondência, bem como o registo da informação interna.\n\n2 - Compete ainda ao DGAG, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução."
+  },
+  "887174537": {
+   "fragment_id": "887189265",
+   "type": 11,
+   "heading": "Artigo 6.º — Gabinete de Instalações e Equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Gabinete de Instalações e Equipamentos\n\nAo Gabinete de Instalações e Equipamentos, abreviadamente designado por GIE, compete:\n\na) Promover a aplicação das normas, especificações e requisitos técnicos aplicáveis a instalações e equipamentos de unidades de saúde integradas ou financiadas pelo SNS;\n\nb) Elaborar programas funcionais e projetos tipo para estabelecimentos de saúde e adequá-los a situações concretas;\n\nc) Assegurar a atualização de uma base de dados relativa às instalações e equipamentos dos serviços e instituições prestadores de cuidados de saúde da região, monitorizando o respetivo estado de conservação e, quando necessário, apresentar propostas para a sua reparação;\n\nd) Emitir parecer sobre a aquisição e a expropriação de terrenos e edifícios para a instalação de serviços de saúde, bem como sobre projetos das instituições prestadoras de cuidados de saúde no âmbito da região;\n\ne) Proceder à elaboração de cadernos de encargos para a adjudicação de empreitadas e fornecimento de bens e serviços, no âmbito das instalações e equipamentos;\n\nf) Acompanhar e fiscalizar a execução de empreitadas e fornecimentos cuja responsabilidade lhe seja atribuída;\n\ng) Elaborar e acompanhar a carta de instalações e equipamentos de saúde da ARSALGARVE, I. P."
+  },
+  "887174538": {
+   "fragment_id": "887189266",
+   "type": 11,
+   "heading": "Artigo 7.º — Gabinete Jurídico e do Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gabinete Jurídico e do Cidadão\n\nAo Gabinete Jurídico e do Cidadão, abreviadamente designado por GJC, compete:\n\na) Emitir pareceres e prestar informações sobre as questões de natureza jurídica, suscitadas no âmbito da atividade da ARSALGARVE, I. P., bem como acompanhar a instrução dos respetivos processos administrativos;\n\nb) Participar na análise e preparar projetos de diplomas legais relacionados com a atividade da ARSALGARVE, I. P., procedendo aos necessários estudos jurídicos, bem como na elaboração de minutas de contratos, protocolos, regulamentos, circulares ou outros documentos de natureza normativa que lhe sejam solicitados pelo conselho diretivo;\n\nc) Emitir parecer sobre reclamações ou recursos administrativos que sejam dirigidos aos órgãos da ARSALGARVE, I. P., bem como sobre exposições ou petições respeitantes a atos ou procedimentos dos mesmos órgãos;\n\nd) Assegurar a instrução de processos de averiguações, de inquérito ou disciplinares;\n\ne) Assegurar, por si ou em articulação com mandatário judicial quando a sua constituição seja obrigatória, o patrocínio judicial nas ações propostas pela ARSALGARVE, I. P., ou em que esta seja demandada;\n\nf) Assegurar o apoio à instrução dos processos de contraordenação nos termos previstos na lei;\n\ng) Prestar apoio técnico às diferentes unidades orgânicas da ARSALGARVE, I. P.;\n\nh) Assegurar, em cooperação com o Observatório Regional de Saúde, a gestão das reclamações/sugestões apresentadas pelos utentes do SNS, diretamente dirigidas ou encaminhadas para a ARSALGARVE, I. P.;\n\ni) Assegurar as funções inerentes à existência de um Observatório Regional de Apoio ao Sistema Sim-Cidadão, com acompanhamento e monitorização das exposições e reclamações dos utentes do Serviço Nacional de Saúde no âmbito da ARSALGARVE, I. P., apresentando propostas corretivas;\n\nj) Produzir indicadores que permitam avaliar a qualidade dos serviços prestados ao utente final pelos serviços de saúde, designadamente o grau de satisfação e a participação dos cidadãos;\n\nk) Promover ações de formação, em articulação com o DGAG, destinadas a responsáveis e profissionais dos gabinetes do utente e do cidadão dos serviços das unidades de saúde do SNS da área de influência da ARSALGARVE, I. P."
+  },
+  "887174531": {
+   "fragment_id": "887189259",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de maio\n\nO Decreto-Lei n.º 22/2012, de 30 de janeiro, definiu a missão e as atribuições das Administrações Regionais de Saúde, I. P. Importa agora, no desenvolvimento daquele diploma, determinar a organização interna da Administração Regional de Saúde do Algarve, I. P., abreviadamente designada por ARSALGARVE, I. P., mediante a aprovação dos respetivos estatutos.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, o seguinte:"
+  },
+  "887174539": {
+   "fragment_id": "887189267",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais Sarmento, Secretário de Estado do Orçamento, em substituição, em 2 de maio de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 20 de abril de 2012."
+  },
+  "887174540": {
+   "fragment_id": "887189268",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DA ADMINISTRAÇÃO REGIONAL DE SAÚDE DO ALGARVE, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTOS DA ADMINISTRAÇÃO REGIONAL DE SAÚDE DO ALGARVE, I. P."
+  },
+  "887174550": {
+   "fragment_id": "887189269",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2013-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna da ARSALGARVE, I. P., é constituída por serviços centrais, e ainda por serviços desconcentrados, designados por agrupamentos de centros de saúde do Serviço Nacional de Saúde (ACES), nos termos do Decreto-Lei n.º 28/2008, de 22 de fevereiro, alterado pelos Decretos-Leis n.os 81/2009, de 2 de abril, 102/2009, de 11 de maio, e 248/2009, de 22 de setembro.\n\n2 - São serviços centrais da ARSALGARVE, I. P.:\n\na) Departamento de Saúde Pública e Planeamento;\n\nb) Departamento de Contratualização;\n\nc) Departamento de Gestão e Administração Geral;\n\nd) Gabinete de Instalações e Equipamentos;\n\ne) Gabinete Jurídico e do Cidadão.\n\nf) Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências.\n\n3 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até duas unidades orgânicas flexíveis, integradas ou não nos departamentos a que se refere o número anterior, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378), em vigor a partir de 2013-06-28"
+  },
+  "887174551": {
+   "fragment_id": "887189271",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes intermédios",
+   "in_force_from": "2013-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes intermédios\n\n1 - Os departamentos são dirigidos por diretores, cargo de direção intermédia de 1.º grau.\n\n2 - O Gabinete Jurídico e do Cidadão, o Gabinete de Instalações e Equipamentos, a Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências e as unidades orgânicas flexíveis são dirigidos por coordenadores, cargo de direção intermédia de 2º grau.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378), em vigor a partir de 2013-06-28"
+  },
+  "887174543": {
+   "fragment_id": "887189272",
+   "type": 11,
+   "heading": "Artigo 3.º — Departamento de Saúde Pública e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Departamento de Saúde Pública e Planeamento\n\n1 - Ao Departamento de Saúde Pública e Planeamento, abreviadamente designado por DSPP, compete:\n\na) Caracterizar e monitorizar o estado de saúde da população e identificar as suas necessidades em saúde;\n\nb) Avaliar o impacto na saúde da população da prestação dos cuidados, de forma a garantir a adequação às necessidades e a sua efetividade;\n\nc) Elaborar a proposta de Plano Regional de Saúde da população e acompanhar a sua execução e apresentar o respetivo relatório de atividades;\n\nd) Participar em estudos com o objetivo de propor ajustamentos nas redes de referenciação e de emitir pareceres técnicos sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\ne) Monitorizar a execução de programas e projetos específicos de vigilância de saúde, designadamente os constantes do Plano Nacional de Saúde;\n\nf) Apoiar o desempenho das funções de autoridade de saúde, bem como divulgar orientações relativas às suas competências;\n\ng) Promover a investigação em saúde;\n\nh) Assegurar a gestão dos laboratórios de saúde pública;\n\ni) Realizar a vigilância epidemiológica dos fenómenos de saúde e dos seus determinantes;\n\nj) Elaborar, propor e acompanhar a aprovação dos turnos de serviço das farmácias;\n\nk) Elaborar os planos de atividades anuais e plurianuais, tendo em consideração o Plano Regional de Saúde e os objetivos definidos pelo conselho diretivo, e avaliar a sua execução;\n\nl) Elaborar o relatório de atividades, em articulação com os restantes departamentos;\n\nm) Propor os ajustamentos julgados necessários nas redes de referenciação ao nível regional;\n\nn) Emitir parecer técnico sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\no) Desenvolver instrumentos de apoio à gestão que permitam a promoção do uso racional de recursos materiais e financeiros, nomeadamente nas áreas do medicamento, dos dispositivos médicos e dos exames complementares de diagnóstico, bem como avaliar o cumprimento das orientações e políticas nacionais nestes domínios;\n\np) Proceder à recolha, tratamento e análise dos dados estatísticos e propor as necessárias medidas corretivas relativas à atividade dos serviços de saúde da região;\n\nq) Apoiar a implementação de novos modelos de gestão em saúde;\n\nr) Emitir pareceres, propor e acompanhar as candidaturas, no âmbito dos programas cofinanciados;\n\ns) Planear os recursos materiais, nomeadamente a execução dos necessários projetos de investimento das instituições e serviços do Serviço Nacional de Saúde, abreviadamente designado por SNS;\n\nt) Analisar e emitir parecer sobre os planos diretores de unidades de saúde;\n\nu) Assegurar a instrução dos processos de licenciamento das unidades privadas prestadoras de cuidados de saúde e da área dos comportamentos aditivos e das dependências, nos sectores social e privado, definindo os respetivos requisitos técnicos a cumprir, e acompanhar o seu funcionamento, articulando com outras unidades orgânicas, bem como com a Administração Central do Sistema de Saúde, I. P., sem prejuízo da competência sancionatória da Entidade Reguladora da Saúde;\n\nv) Propor a emissão das licenças de funcionamento das unidades mencionadas na alínea anterior;\n\nw) Garantir um sistema de informação atualizado da execução física e material de investimentos públicos.\n\n2 - Compete ainda ao DSPP, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n3 - O DSPP integra o Observatório Regional de Saúde."
+  },
+  "887174544": {
+   "fragment_id": "887189273",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Contratualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Departamento de Contratualização\n\n1 - Ao Departamento de Contratualização, abreviadamente designado por DC, compete participar na definição dos critérios para a contratualização dos serviços de saúde e ainda:\n\na) Propor a afetação de recursos financeiros às instituições ou serviços integrados ou financiados pelo SNS ou entidades de natureza privada com ou sem fins lucrativos, que prestem cuidados de saúde, que atuem no âmbito das áreas dos cuidados continuados integrados e dos programas de intervenção local nos comportamentos aditivos e nas dependências;\n\nb) Preparar e acompanhar o processo de contratualização e revisão de contratos no âmbito das parcerias público-privadas, e propor a afetação dos respetivos recursos financeiros;\n\nc) Preparar e acompanhar a celebração e a execução dos contratos, protocolos e convenções de âmbito regional, bem como efetuar a respetiva avaliação no âmbito da prestação de cuidados de saúde, dos cuidados continuados integrados e dos programas de intervenção local nos comportamentos aditivos e nas dependências;\n\nd) Assegurar a avaliação de desempenho das instituições e serviços prestadores de cuidados de saúde, de acordo com as políticas definidas e com as orientações e normativos emitidos pelos serviços e organismos centrais competentes nos diversos domínios de intervenção;\n\ne) Propor a realização de auditorias administrativas e clínicas.\n\n2 - Compete ainda ao DC, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução."
+  },
+  "887174552": {
+   "fragment_id": "887175381",
+   "type": 11,
+   "heading": "Artigo 8.º — Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378)"
+   ],
+   "markdown": "###### Artigo 8.º — Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências\n\n1 - À Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências, abreviadamente designada por DICAD, compete:\n\na) Assegurar a execução dos programas de intervenção local com vista à redução do consumo de substâncias psicoativas, à prevenção dos comportamentos aditivos e à diminuição das dependências;\n\nb) Colaborar, ao nível da sua área de intervenção geográfica, na definição da estratégia nacional e das políticas com vista à redução do consumo de substâncias psicoativas, à prevenção dos comportamentos aditivos e à diminuição das dependências e na sua avaliação;\n\nc) Planear, coordenar, executar e promover, ao nível da sua área de intervenção geográfica, a avaliação dos programas de prevenção, de tratamento, de redução de riscos, de minimização de danos e de reinserção social;\n\nd) Prestar apoio técnico à execução dos programas e projetos de intervenção local;\n\ne) Assegurar a implementação de procedimentos e meios de recolha de dados, proceder à sua consolidação e enviar ao Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências, abreviadamente designado por SICAD, os dados e informações necessárias para prossecução das suas atribuições, e desenvolver estudos sobre as intervenções realizadas na região e elaborar os relatórios de atividades;\n\nf) Emitir pareceres sobre propostas de implementação de projetos regionais apresentados por entidades públicas ou privadas que se candidatem a apoios no âmbito da sua área de intervenção;\n\ng) Promover a realização de diagnósticos das necessidades de intervenção de âmbito regional e local, definir as prioridades e o tipo de intervenção a efetuar e os recursos a afetar, nomeadamente a projetos e programas cofinanciados, contribuindo para um planeamento nacional sustentado;\n\nh) Avaliar e supervisionar o funcionamento das unidades de intervenção local, prestadoras de cuidados de saúde nesta área, assegurar o planeamento e gestão dos recursos necessários à respetiva atividade e propor a criação de novas unidades ou o seu encerramento;\n\ni) Planear a articulação interinstitucional e incentivar a participação das instituições da comunidade, públicas ou privadas, no desenvolvimento de ações de prevenção, de tratamento, de redução de riscos e minimização de danos e de reinserção social, no âmbito dos programas nacionais promovidos pelo SICAD;\n\nj) Promover, desenvolver e aplicar metodologias de avaliação das diversas ações desenvolvidas ou apoiadas, atualizar diagnósticos, elaborar relatórios e analisar as respetivas conclusões;\n\nk) Colaborar com o SICAD na definição dos requisitos para licenciamento de unidades de prestação de cuidados, nos sectores social e privado e monitorizar o seu cumprimento;\n\nl) Assegurar, ao nível da região, a articulação com o SICAD para o desenvolvimento de programas e projetos.\n\n2 - Compete ainda à DICAD, no âmbito de intervenção regional, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378)"
+  },
+  "887174553": {
+   "fragment_id": "887189269",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna da ARSALGARVE, I. P., é constituída por serviços centrais, e ainda por serviços desconcentrados, designados por agrupamentos de centros de saúde do Serviço Nacional de Saúde (ACES), nos termos do Decreto-Lei n.º 28/2008, de 22 de fevereiro, alterado pelos Decretos-Leis n.os 81/2009, de 2 de abril, 102/2009, de 11 de maio, e 248/2009, de 22 de setembro.\n\n2 - São serviços centrais da ARSALGARVE, I. P.:\n\na) Departamento de Saúde Pública e Planeamento;\n\nb) Departamento de Contratualização;\n\nc) Departamento de Gestão e Administração Geral;\n\nd) Gabinete de Instalações e Equipamentos;\n\ne) Gabinete Jurídico e do Cidadão.\n\nf) (Revogada.)\n\n3 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até duas unidades orgânicas flexíveis, integradas ou não nos departamentos a que se refere o número anterior, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378), em vigor a partir de 2013-06-28"
+  },
+  "887174554": {
+   "fragment_id": "887189272",
+   "type": 11,
+   "heading": "Artigo 3.º — Departamento de Saúde Pública e Planeamento",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Departamento de Saúde Pública e Planeamento\n\n1 - Ao Departamento de Saúde Pública e Planeamento, abreviadamente designado por DSPP, compete:\n\na) Caracterizar e monitorizar o estado de saúde da população e identificar as suas necessidades em saúde;\n\nb) Avaliar o impacto na saúde da população da prestação dos cuidados, de forma a garantir a adequação às necessidades e a sua efetividade;\n\nc) Elaborar a proposta de Plano Regional de Saúde da população e acompanhar a sua execução e apresentar o respetivo relatório de atividades;\n\nd) Participar em estudos com o objetivo de propor ajustamentos nas redes de referenciação e de emitir pareceres técnicos sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\ne) Monitorizar a execução de programas e projetos específicos de vigilância de saúde, designadamente os constantes do Plano Nacional de Saúde;\n\nf) Apoiar o desempenho das funções de autoridade de saúde, bem como divulgar orientações relativas às suas competências;\n\ng) Promover a investigação em saúde;\n\nh) Assegurar a gestão dos laboratórios de saúde pública;\n\ni) Realizar a vigilância epidemiológica dos fenómenos de saúde e dos seus determinantes;\n\nj) Elaborar, propor e acompanhar a aprovação dos turnos de serviço das farmácias;\n\nk) Elaborar os planos de atividades anuais e plurianuais, tendo em consideração o Plano Regional de Saúde e os objetivos definidos pelo conselho diretivo, e avaliar a sua execução;\n\nl) Elaborar o relatório de atividades, em articulação com os restantes departamentos;\n\nm) Propor os ajustamentos julgados necessários nas redes de referenciação ao nível regional;\n\nn) Emitir parecer técnico sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\no) Desenvolver instrumentos de apoio à gestão que permitam a promoção do uso racional de recursos materiais e financeiros, nomeadamente nas áreas do medicamento, dos dispositivos médicos e dos exames complementares de diagnóstico, bem como avaliar o cumprimento das orientações e políticas nacionais nestes domínios;\n\np) Proceder à recolha, tratamento e análise dos dados estatísticos e propor as necessárias medidas corretivas relativas à atividade dos serviços de saúde da região;\n\nq) Apoiar a implementação de novos modelos de gestão em saúde;\n\nr) Emitir pareceres, propor e acompanhar as candidaturas, no âmbito dos programas cofinanciados;\n\ns) Planear os recursos materiais, nomeadamente a execução dos necessários projetos de investimento das instituições e serviços do Serviço Nacional de Saúde, abreviadamente designado por SNS;\n\nt) Analisar e emitir parecer sobre os planos diretores de unidades de saúde;\n\nu) (Revogada.)\n\nv) (Revogada.)\n\nw) Garantir um sistema de informação atualizado da execução física e material de investimentos públicos.\n\n2 - Compete ainda ao DSPP, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n3 - O DSPP integra o Observatório Regional de Saúde.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+  },
+  "887174555": {
+   "fragment_id": "887175381",
+   "type": 11,
+   "heading": "Artigo 8.º — Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378)"
+   ],
+   "markdown": "###### Artigo 8.º — Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências\n\n1 - À Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências, abreviadamente designada por DICAD, compete:\n\na) Assegurar a execução dos programas de intervenção local com vista à redução do consumo de substâncias psicoativas, à prevenção dos comportamentos aditivos e à diminuição das dependências;\n\nb) Colaborar, ao nível da sua área de intervenção geográfica, na definição da estratégia nacional e das políticas com vista à redução do consumo de substâncias psicoativas, à prevenção dos comportamentos aditivos e à diminuição das dependências e na sua avaliação;\n\nc) Planear, coordenar, executar e promover, ao nível da sua área de intervenção geográfica, a avaliação dos programas de prevenção, de tratamento, de redução de riscos, de minimização de danos e de reinserção social;\n\nd) Prestar apoio técnico à execução dos programas e projetos de intervenção local;\n\ne) Assegurar a implementação de procedimentos e meios de recolha de dados, proceder à sua consolidação e enviar ao Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências, abreviadamente designado por SICAD, os dados e informações necessárias para prossecução das suas atribuições, e desenvolver estudos sobre as intervenções realizadas na região e elaborar os relatórios de atividades;\n\nf) Emitir pareceres sobre propostas de implementação de projetos regionais apresentados por entidades públicas ou privadas que se candidatem a apoios no âmbito da sua área de intervenção;\n\ng) Promover a realização de diagnósticos das necessidades de intervenção de âmbito regional e local, definir as prioridades e o tipo de intervenção a efetuar e os recursos a afetar, nomeadamente a projetos e programas cofinanciados, contribuindo para um planeamento nacional sustentado;\n\nh) Avaliar e supervisionar o funcionamento das unidades de intervenção local, prestadoras de cuidados de saúde nesta área, assegurar o planeamento e gestão dos recursos necessários à respetiva atividade e propor a criação de novas unidades ou o seu encerramento;\n\ni) Planear a articulação interinstitucional e incentivar a participação das instituições da comunidade, públicas ou privadas, no desenvolvimento de ações de prevenção, de tratamento, de redução de riscos e minimização de danos e de reinserção social, no âmbito dos programas nacionais promovidos pelo SICAD;\n\nj) Promover, desenvolver e aplicar metodologias de avaliação das diversas ações desenvolvidas ou apoiadas, atualizar diagnósticos, elaborar relatórios e analisar as respetivas conclusões;\n\nk) Colaborar com o SICAD na definição dos requisitos para licenciamento de unidades de prestação de cuidados, nos sectores social e privado e monitorizar o seu cumprimento;\n\nl) Assegurar, ao nível da região, a articulação com o SICAD para o desenvolvimento de programas e projetos.\n\n2 - Compete ainda à DICAD, no âmbito de intervenção regional, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378)"
+  },
+  "887174559": {
+   "fragment_id": "887189260",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados em anexo à presente portaria, e da qual fazem parte integrante, os Estatutos da Administração Regional de Saúde do Algarve, I. P., abreviadamente designado por ARSALGARVE, I. P.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887174560": {
+   "fragment_id": "887189261",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma transitória",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Norma transitória\n\n1 - A organização interna da ARSALGARVE, I. P., integra, transitoriamente:\n\na) As unidades de intervenção local do extinto Instituto da Droga e da Toxicodependência, I. P., nos termos do artigo 14.º do Decreto-Lei n.º 22/2012, de 30 de janeiro;\n\nb) Uma equipa multidisciplinar para a área da coordenação da intervenção nos comportamentos aditivos e nas dependências, em articulação com as orientações nacionais emanadas pelo Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD), que terá a duração de doze meses, contados a partir da entrada em vigor do presente diploma.\n\n2 - O chefe da equipa multidisciplinar a que se refere a alínea b) do número anterior é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 1.º grau.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887174561": {
+   "fragment_id": "887189262",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 653/2007, de 30 de maio.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887174562": {
+   "fragment_id": "887189263",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no quinto dia útil seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887174563": {
+   "fragment_id": "887189267",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais Sarmento, Secretário de Estado do Orçamento, em substituição, em 2 de maio de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 20 de abril de 2012.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887174564": {
+   "fragment_id": "887189268",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DA ADMINISTRAÇÃO REGIONAL DE SAÚDE DO ALGARVE, I. P.",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "## Anexo — ESTATUTOS DA ADMINISTRAÇÃO REGIONAL DE SAÚDE DO ALGARVE, I. P.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887174565": {
+   "fragment_id": "887189269",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna da ARSALGARVE, I. P., é constituída por serviços centrais, e ainda por serviços desconcentrados, designados por agrupamentos de centros de saúde do Serviço Nacional de Saúde (ACES), nos termos do Decreto-Lei n.º 28/2008, de 22 de fevereiro, alterado pelos Decretos-Leis n.os 81/2009, de 2 de abril, 102/2009, de 11 de maio, e 248/2009, de 22 de setembro.\n\n2 - São serviços centrais da ARSALGARVE, I. P.:\n\na) Departamento de Saúde Pública e Planeamento;\n\nb) Departamento de Contratualização;\n\nc) Departamento de Gestão e Administração Geral;\n\nd) Gabinete de Instalações e Equipamentos;\n\ne) Gabinete Jurídico e do Cidadão.\n\nf) (Revogada.)\n\n3 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até duas unidades orgânicas flexíveis, integradas ou não nos departamentos a que se refere o número anterior, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378), em vigor a partir de 2013-06-28"
+  },
+  "887174566": {
+   "fragment_id": "887189271",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes intermédios",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes intermédios\n\n1 - Os departamentos são dirigidos por diretores, cargo de direção intermédia de 1.º grau.\n\n2 - O Gabinete Jurídico e do Cidadão, o Gabinete de Instalações e Equipamentos, a Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências e as unidades orgânicas flexíveis são dirigidos por coordenadores, cargo de direção intermédia de 2º grau.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378), em vigor a partir de 2013-06-28"
+  },
+  "887174567": {
+   "fragment_id": "887189272",
+   "type": 11,
+   "heading": "Artigo 3.º — Departamento de Saúde Pública e Planeamento",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Departamento de Saúde Pública e Planeamento\n\n1 - Ao Departamento de Saúde Pública e Planeamento, abreviadamente designado por DSPP, compete:\n\na) Caracterizar e monitorizar o estado de saúde da população e identificar as suas necessidades em saúde;\n\nb) Avaliar o impacto na saúde da população da prestação dos cuidados, de forma a garantir a adequação às necessidades e a sua efetividade;\n\nc) Elaborar a proposta de Plano Regional de Saúde da população e acompanhar a sua execução e apresentar o respetivo relatório de atividades;\n\nd) Participar em estudos com o objetivo de propor ajustamentos nas redes de referenciação e de emitir pareceres técnicos sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\ne) Monitorizar a execução de programas e projetos específicos de vigilância de saúde, designadamente os constantes do Plano Nacional de Saúde;\n\nf) Apoiar o desempenho das funções de autoridade de saúde, bem como divulgar orientações relativas às suas competências;\n\ng) Promover a investigação em saúde;\n\nh) Assegurar a gestão dos laboratórios de saúde pública;\n\ni) Realizar a vigilância epidemiológica dos fenómenos de saúde e dos seus determinantes;\n\nj) Elaborar, propor e acompanhar a aprovação dos turnos de serviço das farmácias;\n\nk) Elaborar os planos de atividades anuais e plurianuais, tendo em consideração o Plano Regional de Saúde e os objetivos definidos pelo conselho diretivo, e avaliar a sua execução;\n\nl) Elaborar o relatório de atividades, em articulação com os restantes departamentos;\n\nm) Propor os ajustamentos julgados necessários nas redes de referenciação ao nível regional;\n\nn) Emitir parecer técnico sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\no) Desenvolver instrumentos de apoio à gestão que permitam a promoção do uso racional de recursos materiais e financeiros, nomeadamente nas áreas do medicamento, dos dispositivos médicos e dos exames complementares de diagnóstico, bem como avaliar o cumprimento das orientações e políticas nacionais nestes domínios;\n\np) Proceder à recolha, tratamento e análise dos dados estatísticos e propor as necessárias medidas corretivas relativas à atividade dos serviços de saúde da região;\n\nq) Apoiar a implementação de novos modelos de gestão em saúde;\n\nr) Emitir pareceres, propor e acompanhar as candidaturas, no âmbito dos programas cofinanciados;\n\ns) Planear os recursos materiais, nomeadamente a execução dos necessários projetos de investimento das instituições e serviços do Serviço Nacional de Saúde, abreviadamente designado por SNS;\n\nt) Analisar e emitir parecer sobre os planos diretores de unidades de saúde;\n\nu) (Revogada.)\n\nv) (Revogada.)\n\nw) Garantir um sistema de informação atualizado da execução física e material de investimentos públicos.\n\n2 - Compete ainda ao DSPP, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n3 - O DSPP integra o Observatório Regional de Saúde.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+  },
+  "887174568": {
+   "fragment_id": "887189273",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Contratualização",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Departamento de Contratualização\n\n1 - Ao Departamento de Contratualização, abreviadamente designado por DC, compete participar na definição dos critérios para a contratualização dos serviços de saúde e ainda:\n\na) Propor a afetação de recursos financeiros às instituições ou serviços integrados ou financiados pelo SNS ou entidades de natureza privada com ou sem fins lucrativos, que prestem cuidados de saúde, que atuem no âmbito das áreas dos cuidados continuados integrados e dos programas de intervenção local nos comportamentos aditivos e nas dependências;\n\nb) Preparar e acompanhar o processo de contratualização e revisão de contratos no âmbito das parcerias público-privadas, e propor a afetação dos respetivos recursos financeiros;\n\nc) Preparar e acompanhar a celebração e a execução dos contratos, protocolos e convenções de âmbito regional, bem como efetuar a respetiva avaliação no âmbito da prestação de cuidados de saúde, dos cuidados continuados integrados e dos programas de intervenção local nos comportamentos aditivos e nas dependências;\n\nd) Assegurar a avaliação de desempenho das instituições e serviços prestadores de cuidados de saúde, de acordo com as políticas definidas e com as orientações e normativos emitidos pelos serviços e organismos centrais competentes nos diversos domínios de intervenção;\n\ne) Propor a realização de auditorias administrativas e clínicas.\n\n2 - Compete ainda ao DC, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887174569": {
+   "fragment_id": "887189264",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento de Gestão e Administração Geral",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Departamento de Gestão e Administração Geral\n\n1 - Ao Departamento de Gestão e Administração Geral, abreviadamente designado por DGAG, compete:\n\na) Assegurar o planeamento, a gestão e a administração dos recursos humanos a nível regional;\n\nb) Assegurar a coordenação do sistema de avaliação de desempenho a nível regional;\n\nc) Promover a qualificação e valorização profissional dos recursos humanos da área da saúde da região, identificando necessidades, propondo planos de formação profissional e organizando ações de formação;\n\nd) Emitir parecer sobre os projetos de mapas de pessoal das instituições do SNS da região;\n\ne) Promover, nos serviços públicos prestadores de cuidados de saúde, a aplicação de instrumentos de avaliação da prestação da atividade profissional, propondo medidas para a adequação de distribuição de recursos humanos;\n\nf) Assegurar, ao nível regional, uma base de dados de recursos humanos atualizada e desenvolver estudos de gestão previsional de recursos humanos do SNS;\n\ng) Propor os mapas de vagas para os internatos médicos, bem como para as restantes profissões de saúde de acordo com a previsão de necessidades em recursos humanos para a região;\n\nh) Elaborar, propor e acompanhar as candidaturas, no âmbito dos programas cofinanciados para a área da formação profissional;\n\ni) Assegurar os procedimentos relativos à gestão e administração de pessoal da ARSALGARVE, I. P.;\n\nj) Elaborar o orçamento de investimento e funcionamento da região e acompanhar e controlar a sua execução orçamental;\n\nk) Promover a constituição de fundos de maneio, bem como assegurar o controlo da sua gestão;\n\nl) Assegurar a conferência dos elementos relativos à faturação de terceiros, nomeadamente das prestações indiretas, farmácias, convenções e transportes;\n\nm) Arrecadar as receitas, efetuar o pagamento das despesas e controlar a tesouraria;\n\nn) Preparar os processos de atribuição de apoios financeiros;\n\no) Analisar a viabilidade económica e o impacto financeiro de acordos com entidades privadas, com ou sem fins lucrativos, que se revelem necessários a nível regional;\n\np) Acompanhar a execução orçamental e a situação económico-financeira das unidades prestadoras de cuidados de saúde integradas no SNS, a nível regional;\n\nq) Instruir os processos na área de convenções internacionais e na área da deslocação para assistência médica no estrangeiro;\n\nr) Desenvolver todas as ações de gestão económico-financeira, efetuar estudos e elaborar os relatórios económico-financeiros que se mostrem necessários, que lhe forem solicitados ou determinados pelo conselho diretivo;\n\ns) Gerir os bens patrimoniais afetos à ARSALGARVE, I. P., organizar e manter atualizado o cadastro e inventário destes bens e providenciar pela sua manutenção e segurança;\n\nt) Assegurar a gestão de stocks e o aprovisionamento de bens e serviços necessários e adequados ao funcionamento da ARSALGARVE, I. P.;\n\nu) Organizar e gerir os arquivos documentais da ARSALGARVE, I. P.;\n\nv) Assegurar a implementação dos sistemas de informação e comunicações de utilização comum;\n\nw) Gerir e assegurar a manutenção de sistemas e das infraestruturas tecnológicas, em articulação com as entidades competentes;\n\nx) Assegurar o apoio técnico aos utilizadores no âmbito dos sistemas e infraestruturas tecnológicas;\n\ny) Assegurar a receção, registo, distribuição e expedição de toda a correspondência, bem como o registo da informação interna.\n\n2 - Compete ainda ao DGAG, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887174570": {
+   "fragment_id": "887189265",
+   "type": 11,
+   "heading": "Artigo 6.º — Gabinete de Instalações e Equipamentos",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Gabinete de Instalações e Equipamentos\n\nAo Gabinete de Instalações e Equipamentos, abreviadamente designado por GIE, compete:\n\na) Promover a aplicação das normas, especificações e requisitos técnicos aplicáveis a instalações e equipamentos de unidades de saúde integradas ou financiadas pelo SNS;\n\nb) Elaborar programas funcionais e projetos tipo para estabelecimentos de saúde e adequá-los a situações concretas;\n\nc) Assegurar a atualização de uma base de dados relativa às instalações e equipamentos dos serviços e instituições prestadores de cuidados de saúde da região, monitorizando o respetivo estado de conservação e, quando necessário, apresentar propostas para a sua reparação;\n\nd) Emitir parecer sobre a aquisição e a expropriação de terrenos e edifícios para a instalação de serviços de saúde, bem como sobre projetos das instituições prestadoras de cuidados de saúde no âmbito da região;\n\ne) Proceder à elaboração de cadernos de encargos para a adjudicação de empreitadas e fornecimento de bens e serviços, no âmbito das instalações e equipamentos;\n\nf) Acompanhar e fiscalizar a execução de empreitadas e fornecimentos cuja responsabilidade lhe seja atribuída;\n\ng) Elaborar e acompanhar a carta de instalações e equipamentos de saúde da ARSALGARVE, I. P.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887174571": {
+   "fragment_id": "887189266",
+   "type": 11,
+   "heading": "Artigo 7.º — Gabinete Jurídico e do Cidadão",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Gabinete Jurídico e do Cidadão\n\nAo Gabinete Jurídico e do Cidadão, abreviadamente designado por GJC, compete:\n\na) Emitir pareceres e prestar informações sobre as questões de natureza jurídica, suscitadas no âmbito da atividade da ARSALGARVE, I. P., bem como acompanhar a instrução dos respetivos processos administrativos;\n\nb) Participar na análise e preparar projetos de diplomas legais relacionados com a atividade da ARSALGARVE, I. P., procedendo aos necessários estudos jurídicos, bem como na elaboração de minutas de contratos, protocolos, regulamentos, circulares ou outros documentos de natureza normativa que lhe sejam solicitados pelo conselho diretivo;\n\nc) Emitir parecer sobre reclamações ou recursos administrativos que sejam dirigidos aos órgãos da ARSALGARVE, I. P., bem como sobre exposições ou petições respeitantes a atos ou procedimentos dos mesmos órgãos;\n\nd) Assegurar a instrução de processos de averiguações, de inquérito ou disciplinares;\n\ne) Assegurar, por si ou em articulação com mandatário judicial quando a sua constituição seja obrigatória, o patrocínio judicial nas ações propostas pela ARSALGARVE, I. P., ou em que esta seja demandada;\n\nf) Assegurar o apoio à instrução dos processos de contraordenação nos termos previstos na lei;\n\ng) Prestar apoio técnico às diferentes unidades orgânicas da ARSALGARVE, I. P.;\n\nh) Assegurar, em cooperação com o Observatório Regional de Saúde, a gestão das reclamações/sugestões apresentadas pelos utentes do SNS, diretamente dirigidas ou encaminhadas para a ARSALGARVE, I. P.;\n\ni) Assegurar as funções inerentes à existência de um Observatório Regional de Apoio ao Sistema Sim-Cidadão, com acompanhamento e monitorização das exposições e reclamações dos utentes do Serviço Nacional de Saúde no âmbito da ARSALGARVE, I. P., apresentando propostas corretivas;\n\nj) Produzir indicadores que permitam avaliar a qualidade dos serviços prestados ao utente final pelos serviços de saúde, designadamente o grau de satisfação e a participação dos cidadãos;\n\nk) Promover ações de formação, em articulação com o DGAG, destinadas a responsáveis e profissionais dos gabinetes do utente e do cidadão dos serviços das unidades de saúde do SNS da área de influência da ARSALGARVE, I. P.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887174572": {
+   "fragment_id": "887175381",
+   "type": 11,
+   "heading": "Artigo 8.º — Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378)"
+   ],
+   "markdown": "###### Artigo 8.º — Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências\n\n1 - À Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências, abreviadamente designada por DICAD, compete:\n\na) Assegurar a execução dos programas de intervenção local com vista à redução do consumo de substâncias psicoativas, à prevenção dos comportamentos aditivos e à diminuição das dependências;\n\nb) Colaborar, ao nível da sua área de intervenção geográfica, na definição da estratégia nacional e das políticas com vista à redução do consumo de substâncias psicoativas, à prevenção dos comportamentos aditivos e à diminuição das dependências e na sua avaliação;\n\nc) Planear, coordenar, executar e promover, ao nível da sua área de intervenção geográfica, a avaliação dos programas de prevenção, de tratamento, de redução de riscos, de minimização de danos e de reinserção social;\n\nd) Prestar apoio técnico à execução dos programas e projetos de intervenção local;\n\ne) Assegurar a implementação de procedimentos e meios de recolha de dados, proceder à sua consolidação e enviar ao Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências, abreviadamente designado por SICAD, os dados e informações necessárias para prossecução das suas atribuições, e desenvolver estudos sobre as intervenções realizadas na região e elaborar os relatórios de atividades;\n\nf) Emitir pareceres sobre propostas de implementação de projetos regionais apresentados por entidades públicas ou privadas que se candidatem a apoios no âmbito da sua área de intervenção;\n\ng) Promover a realização de diagnósticos das necessidades de intervenção de âmbito regional e local, definir as prioridades e o tipo de intervenção a efetuar e os recursos a afetar, nomeadamente a projetos e programas cofinanciados, contribuindo para um planeamento nacional sustentado;\n\nh) Avaliar e supervisionar o funcionamento das unidades de intervenção local, prestadoras de cuidados de saúde nesta área, assegurar o planeamento e gestão dos recursos necessários à respetiva atividade e propor a criação de novas unidades ou o seu encerramento;\n\ni) Planear a articulação interinstitucional e incentivar a participação das instituições da comunidade, públicas ou privadas, no desenvolvimento de ações de prevenção, de tratamento, de redução de riscos e minimização de danos e de reinserção social, no âmbito dos programas nacionais promovidos pelo SICAD;\n\nj) Promover, desenvolver e aplicar metodologias de avaliação das diversas ações desenvolvidas ou apoiadas, atualizar diagnósticos, elaborar relatórios e analisar as respetivas conclusões;\n\nk) Colaborar com o SICAD na definição dos requisitos para licenciamento de unidades de prestação de cuidados, nos sectores social e privado e monitorizar o seu cumprimento;\n\nl) Assegurar, ao nível da região, a articulação com o SICAD para o desenvolvimento de programas e projetos.\n\n2 - Compete ainda à DICAD, no âmbito de intervenção regional, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 212/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/212-2013-497378)"
+  }
+ }
+}

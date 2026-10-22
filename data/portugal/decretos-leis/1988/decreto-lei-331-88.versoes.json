@@ -1,0 +1,192 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:355525:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-839652659",
+ "dre_path": "/dr/detalhe/decreto-lei/331-1988-355525",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1988-09-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "839650878",
+    "839650879",
+    "839650880",
+    "839650881",
+    "839650882",
+    "839650883"
+   ]
+  },
+  {
+   "date": "2006-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:538820:por",
+     "title": "Decreto-Lei n.º 169/2006",
+     "published": "2006-08-17",
+     "dre_path": "/dr/detalhe/decreto-lei/169-2006-538820"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "839650878",
+    "839650915",
+    "839650880",
+    "839650881",
+    "839650882",
+    "839650883",
+    "839650884"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "839650878",
+    "839650915",
+    "839650917",
+    "839650881",
+    "839650882",
+    "839650883",
+    "839650884"
+   ]
+  },
+  {
+   "date": "2024-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:839477381:por",
+     "title": "Decreto-Lei n.º 17/2024",
+     "published": "2024-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/17-2024-839477381"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A"
+   ],
+   "fragments": [
+    "839650878",
+    "839650915",
+    "839650917",
+    "839650881",
+    "839650882",
+    "839650883",
+    "839650932",
+    "839650933"
+   ]
+  }
+ ],
+ "fragments": {
+  "839650878": {
+   "fragment_id": "839652660",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 331/88\n\nde 27 de Setembro\n\nA legislação actualmente em vigor permite que aos titulares dos cargos de director-geral, de secretário-geral ou de outros a estes expressamente equiparados que não tenham residência permanente na cidade de Lisboa ou numa área circundante de 100 km seja concedida habitação por conta do Estado ou, na sua falta, seja atribuído um subsídio de alojamento.\n\nTratando-se de medida inquestionavelmente justa por eliminar impedimentos ou gravames ao exercício de elevadas funções públicas, nada justifica, porém, que ela se confine às hipóteses em que tais funções devam ser principalmente exercidas na cidade de Lisboa.\n\nTanto o princípio da igualdade, por um lado, como a política de desconcentração e descentralização dos serviços públicos, por outro lado, impõem que seja alargado o âmbito territorial do benefício referido, tornando-o extensivo aos casos em que o local principal de exercício de funções se encontre fora de Lisboa.\n\nFinalmente, acautelaram-se hipóteses de possível e indesejável duplicação de abonos com finalidade e justificação idênticas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "839650879": {
+   "fragment_id": "839652661",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAos titulares dos cargos de director-geral, secretário-geral e de outros a eles expressamente equiparados que, à data da nomeação, não tenham residência permanente no local em que estejam sediados os respectivos serviços ou organismos ou numa área circundante de 100 km poderá ser concedida habitação por conta do Estado ou atribuído um subsídio de residência, a partir da data da sua tomada de posse."
+  },
+  "839650880": {
+   "fragment_id": "839652662",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO subsídio referido no artigo 1.º não poderá exceder o quantitativo correspondente a 50% do valor das ajudas de custo estabelecidas para a letra A do funcionalismo público e será fixado por despacho conjunto do Ministro das Finanças e do membro do Governo de que dependa o beneficiário."
+  },
+  "839650881": {
+   "fragment_id": "839652663",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO subsídio de residência a que se refere o presente diploma não é cumulável com qualquer outro abono que vise compensar despesas de alojamento."
+  },
+  "839650882": {
+   "fragment_id": "839652664",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs encargos resultantes da execução do presente diploma serão suportados pelos orçamentos dos respectivos serviços ou organismos."
+  },
+  "839650883": {
+   "fragment_id": "839652665",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ revogado o Decreto-Lei n.º 303/86, de 22 de Setembro, sem prejuízo da manutenção dos benefícios já concedidos ao abrigo do seu quadro normativo."
+  },
+  "839650915": {
+   "fragment_id": "839652661",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2006-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 169/2006 - Diário da República n.º 158/2006, Série I de 2006-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2006-538820), em vigor a partir de 2006-08-18"
+   ],
+   "markdown": "###### Artigo 1.º\n\nAos titulares dos cargos de director-geral, secretário-geral e de outros a eles expressamente equiparados que, à data da nomeação, não tenham residência permanente no local em que estejam sediados os respectivos serviços ou organismos ou numa área circundante de 150 km pode ser concedida habitação por conta do Estado ou atribuído um subsídio de residência, a partir da data da sua tomada de posse.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 169/2006 - Diário da República n.º 158/2006, Série I de 2006-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2006-538820), em vigor a partir de 2006-08-18"
+  },
+  "839650884": {
+   "fragment_id": "839652666",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 15 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "839650917": {
+   "fragment_id": "839652662",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO subsídio referido no artigo anterior não pode exceder o quantitativo correspondente a 40 % do valor das ajudas de custo estabelecidas para as remunerações base superiores ao nível remuneratório 18 e é fixado por despacho dos membros do Governo responsável pela área das finanças e da tutela.\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "839650932": {
+   "fragment_id": "839652904",
+   "type": 11,
+   "heading": "Artigo 5.º-A",
+   "in_force_from": "2024-01-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 145.º do/a [Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), em vigor a partir de 2024-01-30, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 5.º-A\n\nO presente decreto-lei é aplicável aos gestores públicos abrangidos pelo n.º 1 do artigo 1.º do Decreto-Lei n.º 71/2007, de 27 de março, na sua redação atual.\n\n> Aditado pelo/a Artigo 145.º do/a [Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), em vigor a partir de 2024-01-30, produz efeitos a partir de 2024-01-01"
+  },
+  "839650933": {
+   "fragment_id": "839652666",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 15 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

@@ -1,0 +1,765 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:427801:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1976-182032095",
+ "dre_path": "/dr/detalhe/decreto-lei/327-1976-427801",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1976-05-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "182035036",
+    "182024565",
+    "182024566",
+    "182024567",
+    "182024568",
+    "182024569",
+    "182024570",
+    "182024571",
+    "182024572",
+    "182024573",
+    "182024574",
+    "182034975",
+    "182034976",
+    "182034977",
+    "182034978",
+    "182034979",
+    "182034980",
+    "182034981",
+    "182034982",
+    "182034983",
+    "182034984",
+    "182034985",
+    "182034986",
+    "182034987",
+    "182034988",
+    "182034989",
+    "182034990",
+    "182034991",
+    "182034992",
+    "182034993"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:431062:por",
+     "title": "Declaração",
+     "published": "1976-06-23",
+     "dre_path": "/dr/detalhe/declaracao/1976-431062",
+     "date": "1976-05-11"
+    }
+   ]
+  },
+  {
+   "date": "1988-03-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:287592:por",
+     "title": "Decreto-Lei n.º 70/88",
+     "published": "1988-03-03",
+     "dre_path": "/dr/detalhe/decreto-lei/70-1988-287592"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "182024564",
+    "182024565",
+    "182035035",
+    "182024567",
+    "182024568",
+    "182024569",
+    "182024570",
+    "182035033",
+    "182035034",
+    "182024573",
+    "182024574",
+    "182034975",
+    "182034976",
+    "182034977",
+    "182034978",
+    "182034979",
+    "182034980",
+    "182034981",
+    "182034995",
+    "182034983",
+    "182034984",
+    "182034985",
+    "182034986",
+    "182034987",
+    "182034988",
+    "182034989",
+    "182034990",
+    "182034991",
+    "182034992",
+    "182034993",
+    "182034994"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:287592:por",
+     "title": "Decreto-Lei n.º 70/88",
+     "published": "1988-03-03",
+     "dre_path": "/dr/detalhe/decreto-lei/70-1988-287592",
+     "date": "1988-08-03"
+    }
+   ]
+  },
+  {
+   "date": "2018-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115235757:por",
+     "title": "Decreto-Lei n.º 32/2018",
+     "published": "2018-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2018-115235757"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "182035036",
+    "182035037",
+    "182035038",
+    "182035039",
+    "182035040",
+    "182035041",
+    "182035042",
+    "182035043",
+    "182035044",
+    "182035045",
+    "182035046",
+    "182035047",
+    "182035048",
+    "182035049",
+    "182035050",
+    "182035051",
+    "182035052",
+    "182035053",
+    "182035054",
+    "182035055",
+    "182035056",
+    "182035057",
+    "182035058",
+    "182035059",
+    "182035060",
+    "182035061",
+    "182035062",
+    "182035063",
+    "182035064",
+    "182035065",
+    "182035066"
+   ]
+  }
+ ],
+ "fragments": {
+  "182035036": {
+   "fragment_id": "182032096",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-05-13",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 327/76\n\nde 6 de Maio\n\nNa sequência do Decreto-Lei n.º 313/75, de 26 de Junho, que equiparou a bacharéis os diplomados pelos institutos comerciais e instituiu nestas escolas um regime transitório, vem este diploma converter esses institutos em escolas superiores, que serão designados por institutos superiores de contabilidade e administração.\n\nPara além da contabilidade, com uma já longa tradição, pretende-se nestas escolas criar e desenvolver um ensino que cubra a formação de técnicos destinados sobretudo ao sector público, tanto administrativo como empresarial, em matérias como o contrôle orçamental, a gestão de recursos humanos, financeiros e materiais, a organização e o tratamento da informação, etc. Orientam-se assim estas escolas para a formação de quadros que na administração e no contrôle da gestão financeira possam contribuir para conferir aos serviços públicos e a essas empresas uma eficácia e um dinamismo necessários ao desenvolvimento democrático do País.\n\nMantendo a tradição dos institutos comerciais, pretende-se que estas novas escolas continuem a ser frequentadas por uma grande percentagem de trabalhadores estudantes que, pelo seu contacto com a vida profissional, possam largamente contribuir para que elas guardem uma orientação realista e conforme às necessidades nacionais.\n\nEsta orientação não exclui, antes pelo contrário impõe, uma componente de investigação e de estudos avançados, que desde já prepare a adaptação a situações futuras para cuja criação estas escolas, integradas num processo de transformação da sociedade portuguesa, devem contribuir.\n\nOs institutos superiores de contabilidade e administração definem-se como escolas particularmente indicadas para desenvolver uma ligação entre a Universidade e a administração pública. Em particular, a formação inicial e a reciclagem de funcionários nas matérias técnicas que são o seu campo de ensino constituem um vasto domínio de actuação útil a desenvolver.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "182024565": {
+   "fragment_id": "182032097",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPassam a ser designados por institutos superiores de contabilidade e administração os actuais institutos comerciais."
+  },
+  "182024566": {
+   "fragment_id": "182032098",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os institutos superiores de contabilidade e administração são escolas superiores, dotadas de personalidade jurídica e autonomia administrativa e pedagógica.\n\n2. Neles se conferem os graus de bacharelato, licenciatura e doutoramento.\n\n3. O Instituto Superior de Contabilidade e Administração de Aveiro é integrado na Universidade de Aveiro.\n\n4. Os restantes institutos podem ser integrados nas Universidades por acordo de ambas as partes."
+  },
+  "182024567": {
+   "fragment_id": "182032099",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs institutos superiores de contabilidade e administração poderão, quando as necessidades regionais o justificarem, e dentro das possibilidades humanas e materiais de cada um dos institutos, organizar cursos e outras formas de extensão cultural que visem a melhoria do nível de conhecimentos gerais e técnicos de diversos estratos ou organizações profissionais."
+  },
+  "182024568": {
+   "fragment_id": "182032100",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Será constituída uma comissão consultiva permanente de âmbito nacional destinada a contribuir para o estudo dos problemas relacionados com o funcionamento, desenvolvimento e aperfeiçoamento dos institutos superiores de contabilidade e administração, que se regerá por normas emanadas da Secretaria de Estado do Ensino Superior e Investigação Científica, com o parecer favorável da Secretaria de Estado da Administração Pública.\n\n2. Dela farão parte:\n\na) Representantes da Secretaria de Estado do Ensino Superior e Investigação Científica;\n\nb) Representantes da Secretaria de Estado da Administração Pública;\n\nc) Representantes dos diversos institutos superiores de contabilidade e administração;\n\nd) Representantes de associações profissionais relacionadas com os cursos de base ministrados nos institutos superiores de contabilidade e administração e por estes institutos designados;\n\ne) Outros elementos que venham a ser designados pela própria comissão.\n\n3. No exercício da sua função compete, especialmente, a esta comissão:\n\na) Cooperar com os órgãos de cada instituto sempre que estes o solicitarem;\n\nb) Transmitir ao Ministério da Educação e Investigação Científica os seus pareceres ou propostas sobre medidas que for necessário tomar;\n\nc) Fomentar o intercâmbio de experiências pedagógicas entre os diversos institutos e entre estes e o exterior."
+  },
+  "182024569": {
+   "fragment_id": "182032101",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAplica-se aos institutos superiores de contabilidade e administração o regime legal estabelecido quanto ao acesso ao ensino superior."
+  },
+  "182024570": {
+   "fragment_id": "182032102",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os institutos superiores de contabilidade e administração organizarão imediatamente o ensino do bacharelato, por especialidade, e com a duração mínima de três anos.\n\n2. O ensino do bacharelato poderá ser organizado por semestres."
+  },
+  "182024571": {
+   "fragment_id": "182032103",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Organizado o bacharelato, proceder-se-á à organização do ensino da licenciatura, também por especialidades.\n\n2. A organização de cada uma das especialidades irá tendo lugar consoante as necessidades do País e as possibilidades do respectivo instituto.\n\n3. As necessidades do País nas especialidades que interessam ao sector público serão definidas pela Secretaria de Estado da Administração Pública."
+  },
+  "182024572": {
+   "fragment_id": "182032104",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A obtenção da licenciatura resultará de uma das seguintes vias:\n\na) Cumprimento, após a conclusão do bacharelato, de um plano de estudos, genericamente fixado, de dois anos;\n\nb) Cumprimento de um plano individual de estudos, que poderá comportar exames ad hoc de algumas matérias e prestação de provas constituídas pela apresentação e discussão, pelo candidato, perante júri de especialistas, dos próprios trabalhos profissionais.\n\n2. Na modalidade prevista na alínea a) do número anterior poderá o instituto respectivo, genericamente, aconselhar ou exigir o prévio exercício de actividade profissional ou a realização de estágio por certo período entre o termo do bacharelato e o início da licenciatura.\n\n3. A parte escolar prevista nas alíneas a) e b) do n.º 1 poderá ser cumprida parcialmente, ou mesmo integralmente no caso da alínea b), mediante estudos noutras escolas em conformidade com planos elaborados nos institutos superiores de contabilidade e administração.\n\n4. A via prevista na alínea b) do n.º 1 destina-se só aos bacharéis que, no decurso da sua profissão, por virtude quer de trabalhos determinados, quer da actividade profissional em geral, tenham reconhecidamente elevado o nível da sua qualificação profissional."
+  },
+  "182024573": {
+   "fragment_id": "182032105",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAos bacharéis e licenciados em Contabilidade ou Contabilidade e Administração e aos equiparados a bacharéis nos termos do artigo 3.º do Decreto-Lei n.º 13/75, de 26 de Junho, correspondem os títulos profissionais, respectivamente, de contabilista ou técnico de administração."
+  },
+  "182024574": {
+   "fragment_id": "182032106",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os bacharéis pelos institutos superiores de contabilidade e administração, bem como os equiparados nos termos do artigo 3.º do Decreto-Lei n.º 313/75, de 26 de Junho, podem inscrever-se nas Faculdades e outras escolas superiores.\n\n2. Se a frequência das cadeiras se destinar a obter a licenciatura nos institutos superiores de contabilidade e administração, nos termos da alínea a) ou b) do n.º 1 do artigo 8.º, podem as Faculdades de outras escolas em que se desejam inscrever dispensá-los de condições de precedência ou condicionalismos de matricida neles vigentes."
+  },
+  "182034975": {
+   "fragment_id": "182032107",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nConstituem receitas dos institutos superiores de contabilidade e administração:\n\na) As verbas inscritas no Orçamento Geral do Estado aos mesmos destinadas;\n\nb) As retribuições resultantes dos serviços prestados;\n\nc) Os rendimentos de bens próprios;\n\nd) O produto da venda de publicações;\n\ne) Os subsídios e donativos de entidades públicas ou privadas e os legados;\n\nf) Quaisquer outras receitas autorizadas pelo Ministro da Educação e Investigação Científica."
+  },
+  "182034976": {
+   "fragment_id": "182032108",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs quadros de pessoal dos institutos superiores de contabilidade e administração são os constantes dos mapas anexos ao presente diploma, os quais poderão ser alterados por portaria conjunta dos Ministros da Educação e Investigação Científica, das Finanças e da Administração Interna."
+  },
+  "182034977": {
+   "fragment_id": "182032109",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs quadros de pessoal administrativo e auxiliar dos institutos superiores de contabilidade e administração constituem um quadro único, para efeitos de ingresso, transferência ou promoção."
+  },
+  "182034978": {
+   "fragment_id": "182032110",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO recrutamento do pessoal docente dos institutos superiores de contabilidade e administração será feito de acordo com a legislação em vigor para os restantes estabelecimentos de ensino superior."
+  },
+  "182034979": {
+   "fragment_id": "182032111",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs lugares de chefe de secção dos quadros a que se refere o artigo 12.º do presente diploma serão providos por despacho do Ministro da Educação e Investigação Científica entre diplomados com curso superior adequado ou entre os primeiros-oficiais dos mesmos quadros com, pelo menos, três anos de bom e efectivo serviço nessa categoria."
+  },
+  "182034980": {
+   "fragment_id": "182032112",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs bacharéis em Contabilidade e Contabilidade e Administração e os equiparados a bacharéis nos termos do artigo 3.º do Decreto-Lei n.º 313/75, de 20 de Junho, de reconhecidos méritos profissionais, podem, em campos da sua especialidade, ser contratados para exercerem, nos institutos superiores de contabilidade e administração, cargos docentes para que legalmente seja exigido o grau de licenciado.\n\nDisposições finais e transitórias"
+  },
+  "182034981": {
+   "fragment_id": "182032113",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O equipamento dos Institutos Comerciais de Aveiro, Coimbra, Lisboa e Porto, bem como o equipamento na posse da secção de Aveiro do Instituto Comercial do Porto, anterior à publicação do Decreto-Lei n.º 313/75, são transferidos, com dispensa de quaisquer formalidades, para os institutos superiores de contabilidade e administração correspondentes.\n\n2. O equipamento do Instituto Superior de Engenharia de Coimbra na posse do Instituto Comercial de Coimbra é transferido, nos termos do número anterior, para o Instituto Superior de Contabilidade e Administração de Coimbra.\n\n3. As instalações do antigo Instituto Comercial de Coimbra, afectas ao funcionamento do Instituto Comercial de Coimbra, são igualmente transferidas, com dispensa de quaisquer formalidades, para o Instituto Superior de Contabilidade e Administração de Coimbra, conforme o previsto no n.º 2 do artigo 5.º do Decreto-Lei n.º 830/74, de 31 de Dezembro.\n\n4. Transferem-se para cada um dos institutos superiores de contabilidade e administração todos os direitos e obrigações relativos ao equipamento e instalações mencionados nos números anteriores."
+  },
+  "182034982": {
+   "fragment_id": "182032114",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs actuais professores ordinários, efectivos e provisórios, com curso para professores ordinários dos institutos comerciais, passam a professores auxiliares de um quadro transitório dos correspondentes institutos superiores de contabilidade e administração."
+  },
+  "182034983": {
+   "fragment_id": "182032115",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs actuais professores dos institutos comerciais não abrangidos pelo artigo 18.º e mestres diplomados com um curso superior ou equiparados, com mais de oito anos de serviço efectivo como professores ou mestres, nestes institutos, ou em qualquer estabelecimento de ensino superior, passam a assistentes de um quadro transitório dos correspondentes institutos superiores de contabilidade e administração."
+  },
+  "182034984": {
+   "fragment_id": "182032116",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs quadros de professores auxiliares e de assistentes são transitórios e serão preenchidos nos termos dos artigos 18.º e 19.º, extinguindo-se os respectivos lugares à medida que vagarem."
+  },
+  "182034985": {
+   "fragment_id": "182032117",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs actuais professores e mestres diplomados com um curso superior ou equiparados dos institutos comerciais não abrangidos pelos artigos 18.º e 19.º passam a assistentes ou assistentes eventuais dos correspondentes institutos superiores de contabilidade e administração, consoante têm ou não mais de dois anos de serviço efectivo como professores ou mestres dos referidos institutos, ou em qualquer estabelecimento do ensino superior."
+  },
+  "182034986": {
+   "fragment_id": "182032118",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nNão se aplica aos assistentes dos institutos superiores de contabilidade e administração o disposto no n.º 2 do artigo 15.º do Decreto-Lei n.º 132/70, de 30 de Março, quanto ao tempo de exercício de funções como assistente do ensino superior, decorrido até à publicação do presente decreto-lei."
+  },
+  "182034987": {
+   "fragment_id": "182032119",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs docentes dos institutos comerciais não abrangidos pelo disposto nos artigos 18.º, 19.º e 21.º do presente diploma ou que dele não queiram beneficiar podem continuar nos institutos superiores de contabilidade e administração, na situação e categorias actuais, com possibilidade de renovação dos contratos."
+  },
+  "182034988": {
+   "fragment_id": "182032120",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO primeiro provimento dos lugares de ajudante encarregado da biblioteca poderá ser feito de entre os contínuos do quadro de cada instituto, sob proposta do respectivo conselho directivo."
+  },
+  "182034989": {
+   "fragment_id": "182032121",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. Os funcionários actualmente em serviço nos institutos comerciais serão providos em lugares de categoria idêntica ou imediatamente superior dos quadros anexos ao presente diploma, mediante lista nominativa aprovada pelo Ministro da Educação e Investigação Científica e publicada no Diário da República, sem dependência de quaisquer formalidades, salvo visto do Tribunal de Contas.\n\n2. Aos funcionários administrativos e auxiliares nos institutos comerciais é ressalvado o direito de se manterem no quadro único das Direcções-Gerais do Ensino Básico e Secundário, desde que o requeiram no prazo de sessenta dias, a contar da publicação do presente diploma, ficando na situação de supranumerário até à ocorrência de vaga na respectiva categoria."
+  },
+  "182034990": {
+   "fragment_id": "182032122",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nPoderá o Ministro da Educação e Investigação Científica prover, independentemente de concurso e de limite de idade, e nas condições do n.º 1 do artigo anterior, em lugares dos quadros do pessoal administrativo e auxiliar criados nos termos do presente diploma, indivíduos que, a título interino ou eventual, estejam a prestar serviço idêntico nos institutos comerciais à data da publicação deste diploma e possuam as necessárias habilitações."
+  },
+  "182034991": {
+   "fragment_id": "182032123",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nAplica-se, pelo período de dois anos, a contar da publicação deste diploma, aos institutos superiores de contabilidade e administração o disposto nos artigos 24.º a 28.º, inclusive, do Decreto-Lei n.º 402/73, de 11 de Agosto."
+  },
+  "182034992": {
+   "fragment_id": "182032124",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nAs dúvidas suscitadas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica, ouvido o Ministro das Finanças e o da Administração Interna sempre que se trate de questões de carácter financeiro ou de execução administrativa com elas relacionada."
+  },
+  "182034993": {
+   "fragment_id": "182032125",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs encargos resultantes da publicação do presente diploma serão satisfeitos no ano de 1976 pelas disponibilidades das verbas orçamentadas para os correspondentes institutos comerciais e pelas dotações comuns aos novos estabelecimentos de ensino superior inscritas no orçamento da Direcção-Geral do Ensino Superior."
+  },
+  "182024564": {
+   "fragment_id": "182032096",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 327/76\n\nde 6 de Maio\n\nNa sequência do Decreto-Lei n.º 313/75, de 26 de Junho, que equiparou a bacharéis os diplomados pelos institutos comerciais e instituiu nestas escolas um regime transitório, vem este diploma converter esses institutos em escolas superiores, que serão designados por institutos superiores de contabilidade e administração.\n\nPara além da contabilidade, com uma já longa tradição, pretende-se nestas escolas criar e desenvolver um ensino que cubra a formação de técnicos destinados sobretudo ao sector público, tanto administrativo como empresarial, em matérias como o contrôle orçamental, a gestão de recursos humanos, financeiros e materiais, a organização e o tratamento da informação, etc. Orientam-se assim estas escolas para a formação de quadros que na administração e no contrôle da gestão financeira possam contribuir para conferir aos serviços públicos e a essas empresas uma eficácia e um dinamismo necessários ao desenvolvimento democrático do País.\n\nMantendo a tradição dos institutos comerciais, pretende-se que estas novas escolas continuem a ser frequentadas por uma grande percentagem de trabalhadores estudantes que, pelo seu contacto com a vida profissional, possam largamente contribuir para que elas guardem uma orientação realista e conforme às necessidades nacionais.\n\nEsta orientação não exclui, antes pelo contrário impõe, uma componente de investigação e de estudos avançados, que desde já prepare a adaptação a situações futuras para cuja criação estas escolas, integradas num processo de transformação da sociedade portuguesa, devem contribuir.\n\nOs institutos superiores de contabilidade e administração definem-se como escolas particularmente indicadas para desenvolver uma ligação entre a Universidade e a administração pública. Em particular, a formação inicial e a reciclagem de funcionários nas matérias técnicas que são o seu campo de ensino constituem um vasto domínio de actuação útil a desenvolver.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "182035035": {
+   "fragment_id": "182032098",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1988-03-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-03-08",
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 513-T/79 - Diário da República n.º 296/1979, 3º Suplemento, Série I de 1979-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025)"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Os institutos superiores de contabilidade e administração são escolas superiores, dotadas de personalidade jurídica e autonomia administrativa e pedagógica.\n\n2. [Revogado].\n\n3. [Revogado].\n\n4. [Revogado].\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-03-08\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 513-T/79 - Diário da República n.º 296/1979, 3º Suplemento, Série I de 1979-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025)"
+  },
+  "182035033": {
+   "fragment_id": "182032103",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1988-08-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-08-03"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1. Organizado o bacharelato, proceder-se-á à organização do ensino da licenciatura, também por especialidades.\n\n2. A organização de cada uma das especialidades irá tendo lugar consoante as necessidades do País e as possibilidades do respectivo instituto.\n\n3. As necessidades do País nas especialidades que interessam ao sector público serão definidas pela Secretaria de Estado da Administração Pública.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-08-03"
+  },
+  "182035034": {
+   "fragment_id": "182032104",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1988-08-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-08-03"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1. A obtenção da licenciatura resultará de uma das seguintes vias:\n\na) Cumprimento, após a conclusão do bacharelato, de um plano de estudos, genericamente fixado, de dois anos;\n\nb) Cumprimento de um plano individual de estudos, que poderá comportar exames ad hoc de algumas matérias e prestação de provas constituídas pela apresentação e discussão, pelo candidato, perante júri de especialistas, dos próprios trabalhos profissionais.\n\n2. Na modalidade prevista na alínea a) do número anterior poderá o instituto respectivo, genericamente, aconselhar ou exigir o prévio exercício de actividade profissional ou a realização de estágio por certo período entre o termo do bacharelato e o início da licenciatura.\n\n3. A parte escolar prevista nas alíneas a) e b) do n.º 1 poderá ser cumprida parcialmente, ou mesmo integralmente no caso da alínea b), mediante estudos noutras escolas em conformidade com planos elaborados nos institutos superiores de contabilidade e administração.\n\n4. A via prevista na alínea b) do n.º 1 destina-se só aos bacharéis que, no decurso da sua profissão, por virtude quer de trabalhos determinados, quer da actividade profissional em geral, tenham reconhecidamente elevado o nível da sua qualificação profissional.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-08-03"
+  },
+  "182034995": {
+   "fragment_id": "182032114",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1976-05-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 145/1976, Série I de 1976-06-23](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-431062), em vigor a partir de 1976-05-11"
+   ],
+   "markdown": "###### Artigo 18.º\n\nOs actuais professores ordinários, efectivos e provisórios, com concurso para professores ordinários dos institutos comerciais, passam a professores auxiliares de um quadro transitório dos correspondentes institutos superiores de contabilidade e administração.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 145/1976, Série I de 1976-06-23](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-431062), em vigor a partir de 1976-05-11"
+  },
+  "182034994": {
+   "fragment_id": "182032126",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Rodrigues Alves - Artur Eduardo Brochado dos Santos Silva.\n\nPromulgado em 26 de Abril de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\nQuadros dos Institutos Superiores de Contabilidade e Administração de Aveiro, Coimbra, Lisboa e Porto\n\n(ver documento original)\n\nO Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves."
+  },
+  "182035037": {
+   "fragment_id": "182032097",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 1.º\n\nPassam a ser designados por institutos superiores de contabilidade e administração os actuais institutos comerciais.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035038": {
+   "fragment_id": "182032098",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-03-08",
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 513-T/79 - Diário da República n.º 296/1979, 3º Suplemento, Série I de 1979-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025)"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Os institutos superiores de contabilidade e administração são escolas superiores, dotadas de personalidade jurídica e autonomia administrativa e pedagógica.\n\n2. [Revogado].\n\n3. [Revogado].\n\n4. [Revogado].\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-03-08\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 513-T/79 - Diário da República n.º 296/1979, 3º Suplemento, Série I de 1979-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025)"
+  },
+  "182035039": {
+   "fragment_id": "182032099",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 3.º\n\nOs institutos superiores de contabilidade e administração poderão, quando as necessidades regionais o justificarem, e dentro das possibilidades humanas e materiais de cada um dos institutos, organizar cursos e outras formas de extensão cultural que visem a melhoria do nível de conhecimentos gerais e técnicos de diversos estratos ou organizações profissionais.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035040": {
+   "fragment_id": "182032100",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. Será constituída uma comissão consultiva permanente de âmbito nacional destinada a contribuir para o estudo dos problemas relacionados com o funcionamento, desenvolvimento e aperfeiçoamento dos institutos superiores de contabilidade e administração, que se regerá por normas emanadas da Secretaria de Estado do Ensino Superior e Investigação Científica, com o parecer favorável da Secretaria de Estado da Administração Pública.\n\n2. Dela farão parte:\n\na) Representantes da Secretaria de Estado do Ensino Superior e Investigação Científica;\n\nb) Representantes da Secretaria de Estado da Administração Pública;\n\nc) Representantes dos diversos institutos superiores de contabilidade e administração;\n\nd) Representantes de associações profissionais relacionadas com os cursos de base ministrados nos institutos superiores de contabilidade e administração e por estes institutos designados;\n\ne) Outros elementos que venham a ser designados pela própria comissão.\n\n3. No exercício da sua função compete, especialmente, a esta comissão:\n\na) Cooperar com os órgãos de cada instituto sempre que estes o solicitarem;\n\nb) Transmitir ao Ministério da Educação e Investigação Científica os seus pareceres ou propostas sobre medidas que for necessário tomar;\n\nc) Fomentar o intercâmbio de experiências pedagógicas entre os diversos institutos e entre estes e o exterior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035041": {
+   "fragment_id": "182032101",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 5.º\n\nAplica-se aos institutos superiores de contabilidade e administração o regime legal estabelecido quanto ao acesso ao ensino superior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035042": {
+   "fragment_id": "182032102",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1. Os institutos superiores de contabilidade e administração organizarão imediatamente o ensino do bacharelato, por especialidade, e com a duração mínima de três anos.\n\n2. O ensino do bacharelato poderá ser organizado por semestres.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035043": {
+   "fragment_id": "182032103",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-08-03"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1. Organizado o bacharelato, proceder-se-á à organização do ensino da licenciatura, também por especialidades.\n\n2. A organização de cada uma das especialidades irá tendo lugar consoante as necessidades do País e as possibilidades do respectivo instituto.\n\n3. As necessidades do País nas especialidades que interessam ao sector público serão definidas pela Secretaria de Estado da Administração Pública.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-08-03"
+  },
+  "182035044": {
+   "fragment_id": "182032104",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-08-03"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1. A obtenção da licenciatura resultará de uma das seguintes vias:\n\na) Cumprimento, após a conclusão do bacharelato, de um plano de estudos, genericamente fixado, de dois anos;\n\nb) Cumprimento de um plano individual de estudos, que poderá comportar exames ad hoc de algumas matérias e prestação de provas constituídas pela apresentação e discussão, pelo candidato, perante júri de especialistas, dos próprios trabalhos profissionais.\n\n2. Na modalidade prevista na alínea a) do número anterior poderá o instituto respectivo, genericamente, aconselhar ou exigir o prévio exercício de actividade profissional ou a realização de estágio por certo período entre o termo do bacharelato e o início da licenciatura.\n\n3. A parte escolar prevista nas alíneas a) e b) do n.º 1 poderá ser cumprida parcialmente, ou mesmo integralmente no caso da alínea b), mediante estudos noutras escolas em conformidade com planos elaborados nos institutos superiores de contabilidade e administração.\n\n4. A via prevista na alínea b) do n.º 1 destina-se só aos bacharéis que, no decurso da sua profissão, por virtude quer de trabalhos determinados, quer da actividade profissional em geral, tenham reconhecidamente elevado o nível da sua qualificação profissional.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/88 - Diário da República n.º 52/1988, Série I de 1988-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1988-287592), em vigor a partir de 1988-08-03"
+  },
+  "182035045": {
+   "fragment_id": "182032105",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 9.º\n\nAos bacharéis e licenciados em Contabilidade ou Contabilidade e Administração e aos equiparados a bacharéis nos termos do artigo 3.º do Decreto-Lei n.º 13/75, de 26 de Junho, correspondem os títulos profissionais, respectivamente, de contabilista ou técnico de administração.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035046": {
+   "fragment_id": "182032106",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1. Os bacharéis pelos institutos superiores de contabilidade e administração, bem como os equiparados nos termos do artigo 3.º do Decreto-Lei n.º 313/75, de 26 de Junho, podem inscrever-se nas Faculdades e outras escolas superiores.\n\n2. Se a frequência das cadeiras se destinar a obter a licenciatura nos institutos superiores de contabilidade e administração, nos termos da alínea a) ou b) do n.º 1 do artigo 8.º, podem as Faculdades de outras escolas em que se desejam inscrever dispensá-los de condições de precedência ou condicionalismos de matricida neles vigentes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035047": {
+   "fragment_id": "182032107",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 11.º\n\nConstituem receitas dos institutos superiores de contabilidade e administração:\n\na) As verbas inscritas no Orçamento Geral do Estado aos mesmos destinadas;\n\nb) As retribuições resultantes dos serviços prestados;\n\nc) Os rendimentos de bens próprios;\n\nd) O produto da venda de publicações;\n\ne) Os subsídios e donativos de entidades públicas ou privadas e os legados;\n\nf) Quaisquer outras receitas autorizadas pelo Ministro da Educação e Investigação Científica.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035048": {
+   "fragment_id": "182032108",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 12.º\n\nOs quadros de pessoal dos institutos superiores de contabilidade e administração são os constantes dos mapas anexos ao presente diploma, os quais poderão ser alterados por portaria conjunta dos Ministros da Educação e Investigação Científica, das Finanças e da Administração Interna.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035049": {
+   "fragment_id": "182032109",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 13.º\n\nOs quadros de pessoal administrativo e auxiliar dos institutos superiores de contabilidade e administração constituem um quadro único, para efeitos de ingresso, transferência ou promoção.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035050": {
+   "fragment_id": "182032110",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 14.º\n\nO recrutamento do pessoal docente dos institutos superiores de contabilidade e administração será feito de acordo com a legislação em vigor para os restantes estabelecimentos de ensino superior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035051": {
+   "fragment_id": "182032111",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 15.º\n\nOs lugares de chefe de secção dos quadros a que se refere o artigo 12.º do presente diploma serão providos por despacho do Ministro da Educação e Investigação Científica entre diplomados com curso superior adequado ou entre os primeiros-oficiais dos mesmos quadros com, pelo menos, três anos de bom e efectivo serviço nessa categoria.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035052": {
+   "fragment_id": "182032112",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 16.º\n\nOs bacharéis em Contabilidade e Contabilidade e Administração e os equiparados a bacharéis nos termos do artigo 3.º do Decreto-Lei n.º 313/75, de 20 de Junho, de reconhecidos méritos profissionais, podem, em campos da sua especialidade, ser contratados para exercerem, nos institutos superiores de contabilidade e administração, cargos docentes para que legalmente seja exigido o grau de licenciado.\n\nDisposições finais e transitórias\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035053": {
+   "fragment_id": "182032113",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 17.º\n\n1. O equipamento dos Institutos Comerciais de Aveiro, Coimbra, Lisboa e Porto, bem como o equipamento na posse da secção de Aveiro do Instituto Comercial do Porto, anterior à publicação do Decreto-Lei n.º 313/75, são transferidos, com dispensa de quaisquer formalidades, para os institutos superiores de contabilidade e administração correspondentes.\n\n2. O equipamento do Instituto Superior de Engenharia de Coimbra na posse do Instituto Comercial de Coimbra é transferido, nos termos do número anterior, para o Instituto Superior de Contabilidade e Administração de Coimbra.\n\n3. As instalações do antigo Instituto Comercial de Coimbra, afectas ao funcionamento do Instituto Comercial de Coimbra, são igualmente transferidas, com dispensa de quaisquer formalidades, para o Instituto Superior de Contabilidade e Administração de Coimbra, conforme o previsto no n.º 2 do artigo 5.º do Decreto-Lei n.º 830/74, de 31 de Dezembro.\n\n4. Transferem-se para cada um dos institutos superiores de contabilidade e administração todos os direitos e obrigações relativos ao equipamento e instalações mencionados nos números anteriores.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035054": {
+   "fragment_id": "182032114",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Retificado pelo/a [Declaração - Diário da República n.º 145/1976, Série I de 1976-06-23](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-431062), em vigor a partir de 1976-05-11"
+   ],
+   "markdown": "###### Artigo 18.º\n\nOs actuais professores ordinários, efectivos e provisórios, com concurso para professores ordinários dos institutos comerciais, passam a professores auxiliares de um quadro transitório dos correspondentes institutos superiores de contabilidade e administração.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Retificado pelo/a [Declaração - Diário da República n.º 145/1976, Série I de 1976-06-23](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-431062), em vigor a partir de 1976-05-11"
+  },
+  "182035055": {
+   "fragment_id": "182032115",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 19.º\n\nOs actuais professores dos institutos comerciais não abrangidos pelo artigo 18.º e mestres diplomados com um curso superior ou equiparados, com mais de oito anos de serviço efectivo como professores ou mestres, nestes institutos, ou em qualquer estabelecimento de ensino superior, passam a assistentes de um quadro transitório dos correspondentes institutos superiores de contabilidade e administração.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035056": {
+   "fragment_id": "182032116",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 20.º\n\nOs quadros de professores auxiliares e de assistentes são transitórios e serão preenchidos nos termos dos artigos 18.º e 19.º, extinguindo-se os respectivos lugares à medida que vagarem.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035057": {
+   "fragment_id": "182032117",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 21.º\n\nOs actuais professores e mestres diplomados com um curso superior ou equiparados dos institutos comerciais não abrangidos pelos artigos 18.º e 19.º passam a assistentes ou assistentes eventuais dos correspondentes institutos superiores de contabilidade e administração, consoante têm ou não mais de dois anos de serviço efectivo como professores ou mestres dos referidos institutos, ou em qualquer estabelecimento do ensino superior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035058": {
+   "fragment_id": "182032118",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 22.º\n\nNão se aplica aos assistentes dos institutos superiores de contabilidade e administração o disposto no n.º 2 do artigo 15.º do Decreto-Lei n.º 132/70, de 30 de Março, quanto ao tempo de exercício de funções como assistente do ensino superior, decorrido até à publicação do presente decreto-lei.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035059": {
+   "fragment_id": "182032119",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 23.º\n\nOs docentes dos institutos comerciais não abrangidos pelo disposto nos artigos 18.º, 19.º e 21.º do presente diploma ou que dele não queiram beneficiar podem continuar nos institutos superiores de contabilidade e administração, na situação e categorias actuais, com possibilidade de renovação dos contratos.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035060": {
+   "fragment_id": "182032120",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 24.º\n\nO primeiro provimento dos lugares de ajudante encarregado da biblioteca poderá ser feito de entre os contínuos do quadro de cada instituto, sob proposta do respectivo conselho directivo.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035061": {
+   "fragment_id": "182032121",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 25.º\n\n1. Os funcionários actualmente em serviço nos institutos comerciais serão providos em lugares de categoria idêntica ou imediatamente superior dos quadros anexos ao presente diploma, mediante lista nominativa aprovada pelo Ministro da Educação e Investigação Científica e publicada no Diário da República, sem dependência de quaisquer formalidades, salvo visto do Tribunal de Contas.\n\n2. Aos funcionários administrativos e auxiliares nos institutos comerciais é ressalvado o direito de se manterem no quadro único das Direcções-Gerais do Ensino Básico e Secundário, desde que o requeiram no prazo de sessenta dias, a contar da publicação do presente diploma, ficando na situação de supranumerário até à ocorrência de vaga na respectiva categoria.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035062": {
+   "fragment_id": "182032122",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 26.º\n\nPoderá o Ministro da Educação e Investigação Científica prover, independentemente de concurso e de limite de idade, e nas condições do n.º 1 do artigo anterior, em lugares dos quadros do pessoal administrativo e auxiliar criados nos termos do presente diploma, indivíduos que, a título interino ou eventual, estejam a prestar serviço idêntico nos institutos comerciais à data da publicação deste diploma e possuam as necessárias habilitações.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035063": {
+   "fragment_id": "182032123",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 27.º\n\nAplica-se, pelo período de dois anos, a contar da publicação deste diploma, aos institutos superiores de contabilidade e administração o disposto nos artigos 24.º a 28.º, inclusive, do Decreto-Lei n.º 402/73, de 11 de Agosto.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035064": {
+   "fragment_id": "182032124",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 28.º\n\nAs dúvidas suscitadas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica, ouvido o Ministro das Finanças e o da Administração Interna sempre que se trate de questões de carácter financeiro ou de execução administrativa com elas relacionada.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035065": {
+   "fragment_id": "182032125",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 29.º\n\nOs encargos resultantes da publicação do presente diploma serão satisfeitos no ano de 1976 pelas disponibilidades das verbas orçamentadas para os correspondentes institutos comerciais e pelas dotações comuns aos novos estabelecimentos de ensino superior inscritas no orçamento da Direcção-Geral do Ensino Superior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182035066": {
+   "fragment_id": "182032126",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Rodrigues Alves - Artur Eduardo Brochado dos Santos Silva.\n\nPromulgado em 26 de Abril de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\nQuadros dos Institutos Superiores de Contabilidade e Administração de Aveiro, Coimbra, Lisboa e Porto\n\n(ver documento original)\n\nO Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  }
+ }
+}

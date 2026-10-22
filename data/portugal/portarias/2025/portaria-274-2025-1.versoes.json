@@ -1,0 +1,287 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:927000224:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-927370777",
+ "dre_path": "/dr/detalhe/portaria/274-2025-927000224",
+ "source_lastmod": "2026-05-20",
+ "versions": [
+  {
+   "date": "2025-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "927371875",
+    "927372075",
+    "927372275",
+    "927372475",
+    "927372675",
+    "927372875",
+    "927373075",
+    "927373275",
+    "927373475",
+    "927373675",
+    "927373875",
+    "927374075",
+    "927374275",
+    "927374475",
+    "927374675",
+    "927374875",
+    "927375075",
+    "927375275",
+    "927375475",
+    "927375675",
+    "927375875"
+   ]
+  },
+  {
+   "date": "2026-05-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1123936475:por",
+     "title": "Portaria n.º 225/2026/1",
+     "published": "2026-05-19",
+     "dre_path": "/dr/detalhe/portaria/225-2026-1123936475"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "927371875",
+    "927372075",
+    "927372275",
+    "927372475",
+    "927372675",
+    "927372875",
+    "927373075",
+    "927373275",
+    "927373475",
+    "927373675",
+    "927373875",
+    "927374075",
+    "1124728675",
+    "1124728875",
+    "927374675",
+    "927374875",
+    "927375075",
+    "927375275",
+    "1124729075",
+    "927375675",
+    "927375875",
+    "927376075"
+   ]
+  }
+ ],
+ "fragments": {
+  "927371875": {
+   "fragment_id": "927371775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 40/2025, de 26 de março, procede à alteração dos Decretos-Leis n.<sup>os </sup>322/90, de 18 de outubro, e 187/2007, de 10 de maio, instituindo a prova de vida para os pensionistas de invalidez, velhice e sobrevivência do regime geral de segurança social residentes no estrangeiro.\n\nO artigo 4.º do referido decreto-lei dispõe que a prova de vida é regulamentada por portaria do membro do Governo responsável pela área da segurança social, estabelecendo as matérias que a mesma deve conter, o que se faz através da presente portaria.\n\nForam ouvidas a Direção-Geral dos Assuntos Consulares e das Comunidades, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nAo abrigo do disposto no artigo 56.º-A do Decreto-Lei n.º 322/90, de 18 de outubro, no artigo 91.º-A do Decreto-Lei n.º 187/2007, de 10 de maio, nas suas redações atuais, e no artigo 4.º do Decreto-Lei n.º 40/2025, de 26 de março, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "927372075": {
+   "fragment_id": "927371975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta a prova de vida, no âmbito nacional, prevista nos artigos 56.º-A do Decreto-Lei n.º 322/90, de 18 de outubro, e 91.º-A do Decreto-Lei n.º 187/2007, de 10 de maio, nas suas redações atuais, a ser realizada pelos pensionistas de invalidez, velhice e sobrevivência do regime geral de segurança social, residentes no estrangeiro."
+  },
+  "927372275": {
+   "fragment_id": "927372175",
+   "type": 11,
+   "heading": "Artigo 2.º — Exigibilidade da prova de vida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Exigibilidade da prova de vida\n\nSem prejuízo do disposto no artigo 14.º, a prova de vida é efetuada anualmente, pelo próprio pensionista, a partir do ano civil seguinte ao do início do pagamento da pensão, ou da mudança de residência para país estrangeiro."
+  },
+  "927372475": {
+   "fragment_id": "927372375",
+   "type": 11,
+   "heading": "Artigo 3.º — Periodicidade e forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Periodicidade e forma\n\nA prova de vida é efetuada anualmente entre o dia 1 de maio e o dia 15 de setembro, através de uma das seguintes formas:\n\na) Digital;\n\nb) Presencial;\n\nc) Documental."
+  },
+  "927372675": {
+   "fragment_id": "927372575",
+   "type": 11,
+   "heading": "Artigo 4.º — Delimitação do universo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Delimitação do universo\n\n1 - O universo dos pensionistas sujeitos ao dever de realização de prova de vida é definido com base nas regras estabelecidas no artigo 2.º e na informação constante no sistema de informação da segurança social em 31 de março de cada ano.\n\n2 - Para efeitos do número anterior podem ser dispensados de prova de vida os pensionistas residentes em países com os quais Portugal tenha celebrado instrumento internacional de segurança social ao abrigo do qual esteja em aplicação acordo de troca de dados que permita um eficaz conhecimento dos óbitos."
+  },
+  "927372875": {
+   "fragment_id": "927372775",
+   "type": 11,
+   "heading": "Artigo 5.º — Notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Notificação prévia\n\n1 - No mês de abril de cada ano a segurança social notifica os pensionistas residentes no estrangeiro para a realização da prova de vida e publicita no sítio da Internet da segurança social o respetivo período.\n\n2 - Durante o período de realização da prova de vida, são mantidos de forma visível no sítio da Internet da segurança social a informação e os formulários disponíveis relacionados com a prova de vida, pelo menos em língua portuguesa, inglesa, francesa e espanhola."
+  },
+  "927373075": {
+   "fragment_id": "927372975",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma e conteúdo da notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma e conteúdo da notificação prévia\n\n1 - A notificação referida no artigo anterior é feita por meios eletrónicos ou, no caso de o pensionista não se encontrar registado na segurança social direta, por via postal.\n\n2 - A notificação deve conter a informação necessária à realização da prova de vida, nomeadamente o prazo, a forma e os efeitos da sua não realização."
+  },
+  "927373275": {
+   "fragment_id": "927373175",
+   "type": 11,
+   "heading": "Artigo 7.º — Prova de vida digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prova de vida digital\n\n1 - A prova de vida digital é efetuada na segurança social direta, através das seguintes etapas sequenciais:\n\na) Autenticação na segurança social direta;\n\nb) Exibição de documento de identificação, para captação da respetiva imagem, sem prejuízo do disposto no número seguinte;\n\nc) Exibição da face, para reconhecimento facial.\n\n2 - Os documentos de identificação portugueses aceites são os seguintes:\n\na) Cartão de Cidadão;\n\nb) Bilhete de Identidade; e\n\nc) Passaporte.\n\n3 - O documento de identificação estrangeiro aceite é o passaporte.\n\n4 - No caso de o documento de identificação português se encontrar caducado é necessária a exibição de documento de identificação estrangeiro válido."
+  },
+  "927373475": {
+   "fragment_id": "927373375",
+   "type": 11,
+   "heading": "Artigo 8.º — Validação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Validação\n\n1 - A validação prevista no n.º 1 do artigo anterior depende:\n\na) Nos casos da alínea b), da informação constante no referido documento corresponder à informação residente no sistema de informação da segurança social para o pensionista que se autenticou na segurança social direta;\n\nb) Nos casos da alínea c), depende da fotografia existente no referido documento corresponder ao rosto exibido pelo pensionista."
+  },
+  "927373675": {
+   "fragment_id": "927373575",
+   "type": 11,
+   "heading": "Artigo 9.º — Conclusão da prova de vida digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conclusão da prova de vida digital\n\n1 - Considera-se realizada a prova de vida com a validação da correspondência entre a imagem da face captada pela segurança social direta e a fotografia constante no documento de identificação.\n\n2 - Concluída a prova de vida, o pensionista é imediatamente notificado do sucesso da mesma através da segurança social direta."
+  },
+  "927373875": {
+   "fragment_id": "927373775",
+   "type": 11,
+   "heading": "Artigo 10.º — Impossibilidade de conclusão da prova de vida digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Impossibilidade de conclusão da prova de vida digital\n\n1 - No caso de não serem realizadas com sucesso as três etapas referidas no n.º 1 do artigo 7.º, considera-se não realizada a prova de vida.\n\n2 - Na situação referida no número anterior, o pensionista é informado através da segurança social direta da não realização da prova de vida e da necessidade de nova tentativa por meio digital, presencial ou documental.\n\n3 - Quando não tenha sido possível concluir com sucesso a prova de vida no prazo previsto no artigo 3.º, o pensionista é informado de que a pode concluir até ao dia 15 de outubro."
+  },
+  "927374075": {
+   "fragment_id": "927373975",
+   "type": 11,
+   "heading": "Artigo 11.º — Prova de vida presencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prova de vida presencial\n\n1 - A prova de vida pode ser efetuada presencialmente pelo pensionista, com exibição do documento de identificação válido, num dos seguintes serviços públicos:\n\na) No estrangeiro, nas embaixadas e serviços consulares;\n\nb) No território nacional, nos serviços de atendimento ao público da segurança social, lojas do cidadão com serviço de atendimento da segurança social, municípios e juntas de freguesia.\n\n2 - Nas embaixadas e serviços consulares onde existam adidos de segurança social a prova de vida é feita preferencialmente perante o adido.\n\n3 - A prova de vida presencial efetuada nos serviços de embaixadas ou de consulados, perante os adidos de segurança social ou nos serviços de atendimento da segurança social, só é válida se registada na segurança social direta.\n\n4 - Após o registo da prova de vida na segurança social direta é entregue comprovativo ao pensionista.\n\n5 - Na impossibilidade do registo da prova de vida se realizar através do acesso à segurança social direta, esta só é válida após emissão da correspondente declaração de prova de vida presencial, em formulário disponível no sítio da Internet da segurança social, devendo o pensionista ser advertido de que será, posteriormente, notificado da prova do registo na segurança social direta.\n\n6 - A declaração de prova de vida presencial é remetida para a segurança social pelos serviços referidos no n.º 1, nos termos do Código do Procedimento Administrativo."
+  },
+  "927374275": {
+   "fragment_id": "927374175",
+   "type": 11,
+   "heading": "Artigo 12.º — Prova de vida documental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prova de vida documental\n\n1 - A prova de vida por meio documental é efetuada pela entrega de um dos seguintes documentos:\n\na) Formulário internacional, denominado «certificado de prova de vida», disponível no sítio da Internet da segurança social, devidamente certificado por entidade idónea no país de residência;\n\nb) Documento emitido por entidade idónea no país de residência, onde devem constar, obrigatoriamente, os elementos de identificação que constam do documento referido na alínea anterior.\n\n2 - São consideradas idóneas para emitir documento de realização da prova de vida as entidades estrangeiras congéneres da segurança social portuguesa, os tribunais, os notários e as entidades a estes equiparados, as autarquias locais e os estabelecimentos de saúde.\n\n3 - A entidade estrangeira idónea competente do país de residência do pensionista certifica a exibição de documento de identificação válido do pensionista.\n\n4 - Os documentos referidos no n.º 1 só são válidos se deles constar o reconhecimento presencial da assinatura do pensionista por entidade idónea.\n\n5 - A prova documental é remetida à segurança social por um dos seguintes meios:\n\na) Através da área reservada da segurança social direta;\n\nb) Por correio eletrónico;\n\nc) Por correio postal."
+  },
+  "927374475": {
+   "fragment_id": "927374375",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise e conclusão da prova de vida presencial e documental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise e conclusão da prova de vida presencial e documental\n\n1 - A segurança social analisa a documentação recebida e profere decisão.\n\n2 - No caso de se considerar realizada a prova de vida, o pensionista é informado desse facto.\n\n3 - No caso de não se considerar realizada a prova de vida, o pensionista é informado desse facto, bem como da necessidade de nova tentativa, presencial ou documental.\n\n4 - No caso referido no número anterior, quando a tentativa de prova de vida tenha sido realizada até 15 de setembro, o pensionista é informado na notificação de que pode realizar a prova de vida até ao dia 15 de outubro."
+  },
+  "927374675": {
+   "fragment_id": "927374575",
+   "type": 11,
+   "heading": "Artigo 14.º — Prova de vida por representante legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prova de vida por representante legal\n\n1 - Nas situações em que o pensionista se encontra impossibilitado de realizar a prova de vida, esta pode ser realizada através de representante legal, constituído nos termos da lei aplicável.\n\n2 - À prova de vida por representante legal do pensionista são aplicáveis as regras da prova de vida documental, sem prejuízo do disposto no número seguinte.\n\n3 - Para além dos documentos exigidos para a prova de vida documental, a prova de vida efetuada por representante legal é instruída com:\n\na) Documento que certifique a impossibilidade de o pensionista realizar de forma autónoma a prova de vida;\n\nb) Cópia do documento de identificação válido do representante;\n\nc) Cópia autenticada do documento que confere poderes de representação."
+  },
+  "927374875": {
+   "fragment_id": "927374775",
+   "type": 11,
+   "heading": "Artigo 15.º — Não realização da prova de vida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Não realização da prova de vida\n\nNas situações em que o pensionista não tenha realizado a prova de vida até 15 de setembro, ou em que tenha sido notificado para a necessidade de nova prova de vida, e esta não tenha sido concluída até 15 de outubro, é suspenso o pagamento da pensão, ou pensões, que aquele esteja a receber."
+  },
+  "927375075": {
+   "fragment_id": "927374975",
+   "type": 11,
+   "heading": "Artigo 16.º — Início da suspensão do pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Início da suspensão do pagamento\n\nO pagamento da pensão, ou pensões, é suspenso a partir do primeiro dia do mês seguinte ao do termo do prazo definido para a realização da prova de vida, sem prejuízo do disposto nos artigos 10.º e 13.º"
+  },
+  "927375275": {
+   "fragment_id": "927375175",
+   "type": 11,
+   "heading": "Artigo 17.º — Prova de vida após a suspensão do pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prova de vida após a suspensão do pagamento\n\n1 - A realização da prova de vida após a suspensão da pensão determina a retoma do seu pagamento.\n\n2 - A retoma do pagamento referida no número anterior produz efeitos à data de início da suspensão.\n\n3 - A retoma do pagamento referida nos números anteriores é notificada ao pensionista, através do meio por este utilizado."
+  },
+  "927375475": {
+   "fragment_id": "927375375",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime transitório\n\n1 - A prova de vida prevista na presente portaria é aplicada:\n\na) Em 2025, aos pensionistas com idade superior à idade normal de acesso à pensão de velhice, residentes na Suíça e no Luxemburgo;\n\nb) Em 2026, aos pensionistas com idade superior à idade normal de acesso à pensão de velhice, residentes na Suíça, Luxemburgo, Países Baixos, Bélgica, Cabo Verde e Reino Unido;\n\nc) A partir de 2027, a todos os pensionistas residentes no estrangeiro.\n\n2 - No ano de 2025 o universo dos pensionistas sujeitos ao dever de realização de prova de vida é fixado por referência ao mês de junho, de acordo com o seguinte procedimento:\n\na) A notificação prévia é realizada até ao final do mês de setembro;\n\nb) A prova de vida é realizada até ao final do mês de novembro;\n\nc) A suspensão do pagamento da pensão produz efeitos a partir do mês de janeiro de 2026."
+  },
+  "927375675": {
+   "fragment_id": "927375575",
+   "type": 11,
+   "heading": "Artigo 19.º — Gratuitidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Gratuitidade\n\nA prova de vida presencial efetuada nas embaixadas, nos serviços consulares ou noutros serviços públicos, previstos no n.º 1 do artigo 11.º, é gratuita, não estando dependente do pagamento de taxas ou outros emolumentos."
+  },
+  "927375875": {
+   "fragment_id": "927375775",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "1124728675": {
+   "fragment_id": "927374175",
+   "type": 11,
+   "heading": "Artigo 12.º — Prova de vida documental",
+   "in_force_from": "2026-05-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 225/2026/1 - Diário da República n.º 96/2026, Série I de 2026-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/225-2026-1123936475), em vigor a partir de 2026-05-20, com efeitos a partir de 2026-05-01."
+   ],
+   "markdown": "###### Artigo 12.º — Prova de vida documental\n\n1 - A prova de vida por meio documental é efetuada pela entrega de um dos seguintes documentos:\n\na) Formulário internacional, denominado «certificado de prova de vida», disponível no sítio da Internet da segurança social, devidamente certificado por entidade idónea no país de residência;\n\nb) Documento emitido por entidade idónea no país de residência, onde devem constar, obrigatoriamente, os elementos de identificação que constam do documento referido na alínea anterior.\n\n2 - São consideradas idóneas para emitir documento de realização da prova de vida as entidades estrangeiras congéneres da segurança social portuguesa, os tribunais, os notários e as entidades a estes equiparados, as autarquias locais e os estabelecimentos de saúde.\n\n3 - A entidade estrangeira idónea competente do país de residência do pensionista certifica a exibição de documento de identificação válido do pensionista.\n\n4 - Os documentos referidos no n.º 1 só são válidos se deles constar o reconhecimento presencial da assinatura do pensionista por entidade idónea.\n\n5 - A prova de vida documental é remetida através da área reservada da segurança social direta.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 225/2026/1 - Diário da República n.º 96/2026, Série I de 2026-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/225-2026-1123936475), em vigor a partir de 2026-05-20, com efeitos a partir de 2026-05-01."
+  },
+  "1124728875": {
+   "fragment_id": "927374375",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise e conclusão da prova de vida presencial e documental",
+   "in_force_from": "2026-05-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 225/2026/1 - Diário da República n.º 96/2026, Série I de 2026-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/225-2026-1123936475), em vigor a partir de 2026-05-20, com efeitos a partir de 2026-05-01."
+   ],
+   "markdown": "###### Artigo 13.º — Análise e conclusão da prova de vida presencial e documental\n\n1 - A segurança social analisa a documentação recebida e profere decisão.\n\n2 - No caso de se considerar realizada a prova de vida, o pensionista é informado desse facto.\n\n3 - No caso de não se considerar realizada a prova de vida, o pensionista é informado desse facto, bem como da necessidade de nova tentativa.\n\n4 - No caso referido no número anterior, quando a tentativa de prova de vida tenha sido realizada até 15 de setembro, o pensionista é informado na notificação de que pode realizar a prova de vida até ao dia 15 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 225/2026/1 - Diário da República n.º 96/2026, Série I de 2026-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/225-2026-1123936475), em vigor a partir de 2026-05-20, com efeitos a partir de 2026-05-01."
+  },
+  "1124729075": {
+   "fragment_id": "927375375",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime transitório",
+   "in_force_from": "2026-05-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 225/2026/1 - Diário da República n.º 96/2026, Série I de 2026-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/225-2026-1123936475), em vigor a partir de 2026-05-20, com efeitos a partir de 2026-05-01."
+   ],
+   "markdown": "###### Artigo 18.º — Regime transitório\n\n1 - A prova de vida prevista na presente portaria é aplicada:\n\na) Em 2025, aos pensionistas com idade superior à idade normal de acesso à pensão de velhice, residentes na Suíça e no Luxemburgo;\n\nb) Em 2026, aos pensionistas com idade superior à idade normal de acesso à pensão de velhice, residentes na Suíça, Luxemburgo, Países Baixos, Bélgica, Cabo Verde, Reino Unido e Canadá;\n\nc) A partir de 2027, a todos os pensionistas residentes no estrangeiro.\n\n2 - No ano de 2025 o universo dos pensionistas sujeitos ao dever de realização de prova de vida é fixado por referência ao mês de junho, de acordo com o seguinte procedimento:\n\na) A notificação prévia é realizada até ao final do mês de setembro;\n\nb) A prova de vida é realizada até ao final do mês de novembro;\n\nc) A suspensão do pagamento da pensão produz efeitos a partir do mês de janeiro de 2026.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 225/2026/1 - Diário da República n.º 96/2026, Série I de 2026-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/225-2026-1123936475), em vigor a partir de 2026-05-20, com efeitos a partir de 2026-05-01."
+  },
+  "927376075": {
+   "fragment_id": "927375975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 28 de julho de 2025.\n\n119368757"
+  }
+ }
+}

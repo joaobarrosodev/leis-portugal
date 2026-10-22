@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:522852:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-938668078",
+ "dre_path": "/dr/detalhe/decreto-lei/32-1994-522852",
+ "source_lastmod": "2025-10-09",
+ "versions": [
+  {
+   "date": "1994-02-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "938665774",
+    "938668175",
+    "938668176",
+    "938668177",
+    "938668178"
+   ]
+  },
+  {
+   "date": "1994-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165069:por",
+     "title": "Declaração de Rectificação n.º 20/94",
+     "published": "1994-02-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/20-1994-165069"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 4.º"
+   ],
+   "fragments": [
+    "938665774",
+    "938668175",
+    "938668176",
+    "938668177",
+    "938924569",
+    "938668179"
+   ]
+  }
+ ],
+ "fragments": {
+  "938665774": {
+   "fragment_id": "938668079",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 32/94\n\nde 5 de Fevereiro\n\nCom o presente diploma estabelece-se um novo regime para as gorduras e óleos comestíveis, abrangendo não só produtos relativamente aos quais já existia legislação mas também as gorduras de origem animal, para as quais não existia qualquer regulamentação.\n\nTendo em conta o princípio orientador da desregulamentação do ordenamento jurídico, apenas se fixam neste diploma os princípios básicos sobre a matéria, remetendo-se para portaria a respectiva regulamentação técnica, de forma a permitir, com uma maior flexibilidade e a necessária oportunidade, o acompanhamento da evolução a que está sujeito o sector.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "938668175": {
+   "fragment_id": "938668080",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma estabelece as características e as condições a que devem obedecer a obtenção, a utilização e a comercialização das gorduras e óleos comestíveis, incluindo o azeite."
+  },
+  "938668176": {
+   "fragment_id": "938668081",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) Gordura - substância constituída principalmente por ésteres de ácidos gordos e glicerol, ou seja, os glicéridos (triglicéridos, diglicéridos e monoglicéridos);\n\nb) Óleo - gordura líquida à temperatura de 20ºC;\n\nc) Gordura e óleo naturais - gordura e óleos provenientes de reserva nutritiva de seres vivos, constituída por uma mistura complexa de triglicéridos, que tem dissolvidos, geralmente em pequenas quantidades, outros lípidos, como os diglicéridos, os monoglicéridos e os fosfatídios, os ácidos gordos libertados pela hidrólise e também diversas substâncias insaponificáveis;\n\nd) Gordura e óleo comestíveis - gordura e óleo naturais utilizáveis como género alimentício."
+  },
+  "938668177": {
+   "fragment_id": "938668082",
+   "type": 11,
+   "heading": "Artigo 3.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regulamentação\n\nAs normas técnicas e as características e condições a observar na obtenção, tratamento e comercialização das gorduras e óleos comestíveis, nomeadamente do azeite e outros óleos, gorduras de origem animal e gorduras de origem vegetal, são objecto de portaria conjunta dos Ministros da Agricultura, da Saúde, do Comércio e Turismo e do Ambiente e Recursos Naturais."
+  },
+  "938668178": {
+   "fragment_id": "938668083",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nNa data da entrada em vigor da regulamentação prevista no artigo anterior, são revogados os seguintes diplomas:\n\na) Decreto-Lei n.º 59/85, de 11 de Março;\n\nb) Decreto-Lei n.º 343/88, de 28 de Setembro;\n\nc) Portaria n.º 10134, de 9 de Julho de 1992."
+  },
+  "938924569": {
+   "fragment_id": "938668083",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": "1994-02-28",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 20/94 - Diário da República n.º 49/1994, 2º Suplemento, Série I-A de 1994-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1994-165069), em vigor a partir de 1994-02-28"
+   ],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nNa data da entrada em vigor da regulamentação prevista no artigo anterior, são revogados os seguintes diplomas:\n\na) Decreto-Lei n.º 59/85, de 11 de Março;\n\nb) Decreto-Lei n.º 343/88, de 28 de Setembro;\n\nc) Portaria n.º 10134, de 9 de Julho de 1942.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 20/94 - Diário da República n.º 49/1994, 2º Suplemento, Série I-A de 1994-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1994-165069), em vigor a partir de 1994-02-28"
+  },
+  "938668179": {
+   "fragment_id": "938668084",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1993. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.\n\nPromulgado em 21 de Janeiro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 24 de Janeiro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:311828:por
+title: Decreto-Lei n.º 161/83
+short_title: null
+summary: Cria 1 lugar de secretário do Conselho de Estado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 161/83
+official_date: null
+publication_date: '1983-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/1983, Série I de 1983-04-22
+  number: '93'
+  series: I
+  supplement: null
+  pages: 1426 - 1426
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/04/09300/14261426.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '311828'
+  dre_path: /dr/detalhe/decreto-lei/161-1983-311828
+  internal: pt:dre:311828:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1983-311828
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1983-311828
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-04-22T00:00:00Z'
+integrity:
+  source_sha256: e870f48e97c908f913116eb7dcb5aa62bcd15512b55d68b4967e2d6a584b76fe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-161-311828.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 161/83
+
+de 22 de Abril
+
+Estando prevista no regimento do Conselho de Estado a existência do lugar de secretário daquele órgão, torna-se indispensável definir, de harmonia com a relevância das atribuições constitucionalmente cometidas ao órgão de consulta do Presidente da República, o respectivo estatuto.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º É criado 1 lugar de secretário do Conselho de Estado, que será provido, em comissão de serviço por tempo indeterminado, por livre escolha do Presidente da República, de entre os funcionários públicos habilitados com licenciatura adequada para o exercício das funções.
+
+###### Art. 2.º - 1 - O secretário do Conselho de Estado considera-se em exercício de funções, para todos os efeitos legais, desde a data do despacho de nomeação, que será publicado no Diário da República, com dispensa do visto do Tribunal de Contas.
+
+2 - A nomeação para o cargo referido no artigo anterior não dá origem à abertura de vaga no quadro de origem, podendo, no entanto, o respectivo lugar ser preenchido interinamente.
+
+3 - O tempo de serviço prestado no desempenho das funções de secretário do Conselho de Estado é considerado, para todos os efeitos legais, como se fosse prestado no quadro de origem.
+
+###### Art. 3.º O secretário do Conselho de Estado é equiparado, para todos os efeitos, a director-geral.
+
+###### Art. 4.º O apoio técnico e administrativo ao Conselho de Estado é assegurado pela Secretaria-Geral da Presidência da República, em cujo orçamento serão inscritas as verbas necessárias à execução do presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 17 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
+
+**Promulgado em 8 de Abril de 1983.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 15 de Abril de 1983.**
+
+**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**

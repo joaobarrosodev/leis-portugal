@@ -1,0 +1,489 @@
+---
+schema_version: '1.0'
+id: pt:dre:670502:por
+title: Decreto Regulamentar Regional n.º 5/2011/M
+short_title: null
+summary: Primeira alteração ao Decreto Regulamentar Regional n.º 17/2008/M, de 10 de Julho, que estabelece as bases da orgânica
+  da Secretaria Regional do Ambiente e dos Recursos Naturais e a orgânica do Gabinete do Secretário Regional
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 5/2011/M
+official_date: null
+publication_date: '2011-07-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 128/2011, Série I de 2011-07-06
+  number: '128'
+  series: I
+  supplement: null
+  pages: 3947 - 3951
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/07/12800/0394703951.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/5/2011/07/06/m/dre/pt/html
+  oj: null
+  dre: '670502'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/5-2011-670502
+  internal: pt:dre:670502:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2011-670502
+  metadata_url: https://data.dre.pt/eli/decregulreg/5/2011/07/06/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2011-670502
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-03-13T00:00:00Z'
+integrity:
+  source_sha256: 428cf931a0d2d02c7de99879db8809dd82d158378e20ed22f909ad40be670f00
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2011/DRE-2011-5-670502.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Sociedade Anónima
+- Caram
+- Definição de Competências
+- Direcção Regional do Ambiente
+- Empresa Pública Regional
+- Setor Empresarial do Estado
+- Integração de Trabalhadores
+- Arm-águas e Resíduos da Madeira
+- Gesba-Empresa de Gestão do Sector da Banana
+- IGSERV-Investimentos Gestão e Serviços
+- Valor Ambiente
+- Orgânica
+- Madeira.região Autónoma
+- Secretaria Regional do Ambiente e Recursos Naturais
+- Iga-investimentos e Gestão da ÁGUA
+- Igh-investimentos e Gestão Hidroagrícola
+- Tutela
+relationships:
+- type: amended_by
+  target: pt:dre:553440:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/17/2008/07/10/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/17/2008/07/10/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/23/2005/05/16/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/23/2005/05/16/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/31/2005/11/03/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/31/2005/11/03/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/32/2001/11/15/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/32/2001/11/15/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/4/2011/06/01/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/4/2011/06/01/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/5/2007/07/23/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/5/2007/07/23/m/dre
+article_structure:
+  article_count: 25
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 5/2011/M
+
+Primeira alteração ao [Decreto Regulamentar Regional n.º 17/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2008-456539), de 10 de Julho, que estabelece as bases da orgânica da Secretaria Regional do Ambiente e dos Recursos Naturais e a orgânica do Gabinete do Secretário Regional.
+
+Em consequência da alteração introduzida pelo [Decreto Regulamentar Regional n.º 4/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2011-673472), de 1 de Junho, ao regime de organização e funcionamento do Governo Regional da Madeira, constante do [Decreto Regulamentar Regional n.º 5/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2007-636765), de 23 de Julho, cumpre proceder às necessárias alterações à orgânica da Secretaria Regional do Ambiente e dos Recursos Naturais, de forma a reflectir as atribuições que, de acordo com o novo regime instituído, ficam cometidas a este departamento governamental, aproveitando-se para elencar as entidades tuteladas do sector empresarial da Região Autónoma da Madeira.
+
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º, ambos da Constituição da República Portuguesa, do n.º 3 do artigo 56.º, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º, todos do Estatuto-Político Administrativo da Região Autónoma da Madeira, do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro, e do n.º 1 do artigo 3.º do [Decreto Regulamentar Regional n.º 4/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2011-673472), de 1 de Junho, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma procede à alteração do [Decreto Regulamentar Regional n.º 17/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2008-456539), de 10 de Julho, que estabelece as bases da orgânica da Secretaria Regional do Ambiente e dos Recursos Naturais e a orgânica do Gabinete do Secretário Regional.
+
+###### Artigo 2.º — Alteração
+
+Os artigos 1.º e 2.º do [Decreto Regulamentar Regional n.º 17/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2008-456539), de 10 de Julho, são alterados de acordo com o seguinte:
+
+«Artigo 1.º
+
+[...]
+
+A Secretaria Regional do Ambiente e dos Recursos Naturais, adiante abreviadamente designada por SRA, é o departamento governamental que tem por missão definir as políticas agrícola, de desenvolvimento rural, agro-pecuária, ambiental, do urbanismo, litoral e ordenamento do território, das áreas protegidas, florestal, piscatória, de resíduos, vitivinícola e artesanato numa perspectiva de desenvolvimento sustentável, da protecção do cidadão, da qualidade, bem como assegurar o planeamento e a coordenação da aplicação dos fundos nacionais e comunitários aos mesmos.
+
+###### Artigo 2.º — [...]
+
+Na prossecução da sua missão, são atribuições da SRA:
+
+a) Promover, ao nível da Região, a execução da política e dos objectivos definidos pelo Governo Regional para os sectores agrícola e de desenvolvimento rural, da agro-pecuária, ambiente, do urbanismo, litoral e ordenamento do território, das áreas protegidas, florestas, piscatório, resíduos, da vinha, do vinho e do artesanato;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...»
+
+###### Artigo 3.º — Aditamento
+
+Ao [Decreto Regulamentar Regional n.º 17/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2008-456539), de 10 de Julho, que estabelece as bases da orgânica da Secretaria Regional do Ambiente e dos Recursos Naturais e a orgânica do Gabinete do Secretário Regional, é aditado o artigo 5.º-A, com a seguinte redacção:
+
+«Artigo 5.º-A
+
+Sector empresarial
+
+**O Secretário Regional do Ambiente e dos Recursos Naturais exerce a tutela e as competências no âmbito da função accionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:**
+
+a) CARAM, Centro de Abate da Região Autónoma da Madeira, E. P. E.;
+
+b) IGA - Investimentos e Gestão da Água, S. A.;
+
+c) IGSERV - Investimentos, Gestão e Serviços, S. A.;
+
+d) IGH - Investimento e Gestão Hidroagrícolas, S. A.;
+
+e) ARM - Águas e Resíduos da Madeira, S. A.;
+
+f) Valor Ambiente - Gestão e Administração de Resíduos da Madeira, S. A.;
+
+g) GESBA - Empresa de Gestão do Sector da Banana, Lda.»
+
+###### Artigo 4.º — Alteração de orgânica
+
+A orgânica da Direcção Regional do Ambiente será alterada de forma a abranger as atribuições no sector do urbanismo, litoral e ordenamento do território.
+
+###### Artigo 5.º — Pessoal e procedimentos concursais
+
+1 - As alterações decorrentes da entrada em vigor do presente diploma são acompanhadas pela transição do pessoal afecto às áreas de actividade próprias do exercício das atribuições referidas no artigo anterior, nos termos do artigo 15.º do [Decreto Regulamentar Regional n.º 5/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2007-636765), de 23 de Julho, alterado pelo [Decreto Regulamentar Regional n.º 4/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2011-673472), de 1 de Junho, integrando-se aquele pessoal na Direcção Regional do Ambiente.
+
+2 - Mantêm-se, nos termos legais aplicáveis, os procedimentos de recrutamento de pessoal que existam, os quais se reportam aos serviços a que respeitam os postos de trabalho correspondentes.
+
+###### Artigo 6.º — Republicação
+
+O [Decreto Regulamentar Regional n.º 17/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2008-456539), de 10 de Julho, que estabelece as bases da orgânica da Secretaria Regional do Ambiente e dos Recursos Naturais e a orgânica do Gabinete do Secretário Regional, é republicado, com as alterações e aditamento agora introduzidos, em anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 7.º — Entrada em vigor e produção de efeitos
+
+1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+2 - Os artigos 2.º e 5.º produzem efeitos com a entrada em vigor dos diplomas que alterem a orgânica da Direcção Regional do Ambiente, bem como a sua organização interna, de forma a abranger as atribuições e competências em matéria de urbanismo, litoral e ordenamento do território.
+
+Aprovado em Conselho do Governo Regional em 2 de Junho de 2011.
+
+**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+
+**Assinado em 20 de Junho de 2011.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+## ANEXO — (a que se refere o artigo 6.º do diploma preambular)
+
+### CAPÍTULO I — Missão e atribuições
+
+###### Artigo 1.º — Missão
+
+A Secretaria Regional do Ambiente e dos Recursos Naturais, abreviadamente designada por SRA, é o departamento governamental que tem por missão definir as políticas agrícola, de desenvolvimento rural, agro-pecuária, ambiental, do urbanismo, litoral e ordenamento do território, das áreas protegidas, florestal, piscatória, de resíduos, vitivinícola e artesanato numa perspectiva de desenvolvimento sustentável, da protecção do cidadão, da qualidade, bem como assegurar o planeamento e a coordenação da aplicação dos fundos nacionais e comunitários aos mesmos.
+
+###### Artigo 2.º — Atribuições
+
+Na prossecução da sua missão, são atribuições da SRA:
+
+a) Promover, ao nível da Região, a execução da política e dos objectivos definidos pelo Governo Regional para os sectores agrícola e de desenvolvimento rural, da agro-pecuária, ambiente, do urbanismo, litoral e ordenamento do território, das áreas protegidas, florestas, piscatório, resíduos, da vinha, do vinho e do artesanato;
+
+b) Promover e coordenar o plano de conservação da natureza, da floresta, da biodiversidade, do ambiente e da preservação e protecção de áreas protegidas, bem como da valorização dos elementos naturais madeirenses;
+
+c) Desenvolver as actividades de experimentação, estudo, análise, desenvolvimento, investigação científica e demonstração, de acordo com a política definida para cada sector;
+
+d) Fiscalizar o cumprimento das normas legais e regulamentares definidos para cada sector;
+
+e) Coordenar os instrumentos de gestão, monitorização ambiental, informação e participação públicas, enquanto contributos para a melhoria da qualidade de vida dos cidadãos;
+
+f) Promover a execução da política ambiental, planos e programas sistemáticos de sensibilização das populações com vista à salvaguarda e manutenção do património florestal, ambiental e piscatório;
+
+g) Promover a ligação da agricultura e desenvolvimento rural a outros sectores da actividade pública e privada no âmbito da educação, saúde, ordenamento do território, ambiente, turismo, cultura, comércio e indústria;
+
+h) Promover o ordenamento, a exploração e a conservação dos recursos naturais;
+
+i) Empreender as acções necessárias à conservação de espécies raras, ameaçadas ou vulneráveis;
+
+j) Emitir os pareceres técnicos necessários sobre pedidos que lhes sejam solicitados nas áreas respectivas;
+
+l) Propor medidas legislativas e implementar acções no âmbito das actividades de cada sector;
+
+m) Promover o cumprimento da legislação regional, nacional e comunitária para cada sector.
+
+### CAPÍTULO II — Estrutura orgânica
+
+###### Artigo 3.º — Estrutura geral
+
+A SRA prossegue as suas atribuições através de serviços integrados na administração directa e indirecta da Região Autónoma da Madeira, bem como das entidades integradas no sector empresarial público da mesma.
+
+###### Artigo 4.º — Administração directa
+
+1 - Integram a administração directa da RAM, no âmbito da SRA, os seguintes serviços centrais:
+
+a) O Gabinete do Secretário Regional;
+
+b) A Direcção Regional de Agricultura e Desenvolvimento Rural;
+
+c) A Direcção Regional do Ambiente;
+
+d) A Direcção Regional de Florestas;
+
+e) A Direcção Regional de Pescas.
+
+2 - A missão, atribuições, tipo de organização interna, dotação de lugares de direcção e estatuto remuneratório de chefes de equipa multidisciplinar de cada direcção regional, referida nas alíneas b) a e) do n.º 1, constarão de decreto regulamentar regional próprio e autónomo.
+
+###### Artigo 5.º — Superintendência e tutela
+
+**O Secretário Regional tem a tutela e superintendência do Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P., Parque Natural da Madeira e Fundo Madeirense do Seguro de Colheitas.**
+
+###### Artigo 5.º-A — Sector empresarial
+
+**O Secretário Regional do Ambiente e dos Recursos Naturais exerce a tutela e as competências no âmbito da função accionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:**
+
+a) CARAM, Centro de Abate da Região Autónoma da Madeira, E. P. E.;
+
+b) IGA - Investimentos e Gestão da Água S. A.;
+
+c) IGSERV - Investimentos, Gestão e Serviços S. A.;
+
+d) IGH - Investimento e Gestão Hidroagrícolas S. A.;
+
+e) ARM - Águas e Resíduos da Madeira, S. A.;
+
+f) Valor Ambiente - Gestão e Administração de Resíduos da Madeira, S. A.;
+
+g) GESBA - Empresa de Gestão do Sector da Banana, Lda.
+
+###### Artigo 6.º — Tipologia dos serviços
+
+1 - O Gabinete do Secretário Regional é um serviço em que as funções dominantes são de coordenação.
+
+2 - Os serviços indicados nas alíneas b) a e) do n.º 1 do artigo 4.º e no artigo 5.º são serviços em que as funções dominantes são executivas.
+
+### CAPÍTULO III — Serviços da administração directa
+
+#### SECÇÃO I — Gabinete do Secretário Regional
+
+###### Artigo 7.º — O Secretário Regional
+
+1 - A SRA é superiormente dirigida pelo Secretário Regional do Ambiente e dos Recursos Naturais, ao qual são genericamente atribuídas as competências consignadas no presente diploma.
+
+2 - Compete ao Secretário Regional assegurar a representação da SRA a todos os níveis e a realização das atribuições inerentes.
+
+3 - O Secretário Regional pode, nos termos da lei, delegar competências nos seus adjuntos e conselheiros técnicos, bem como nos titulares de cargos de direcção.
+
+4 - O Secretário Regional pode também avocar as competências das entidades referidas no número anterior.
+
+###### Artigo 8.º — Missão, atribuições e competências do Gabinete
+
+1 - O Gabinete do Secretário Regional, abreviadamente designado por Gabinete, tem por missão apoiar directamente o Secretário Regional, especialmente em matérias de natureza organizacional, financeira, recursos humanos, planeamento e programação, bem como apoiar, no mesmo âmbito, as diversas direcções regionais, institutos, serviços e entidades empresariais tuteladas pela SRA.
+
+2 - O Gabinete coordena as funções da SRA nas seguintes matérias:
+
+a) Elaboração de acompanhamento da execução do orçamento de funcionamento;
+
+b) Planeamento do investimento público e correspondente elaboração e execução do seu orçamento;
+
+c) Gestão de recursos humanos, organizacionais e modernização administrativa.
+
+3 - O Gabinete prossegue as seguintes atribuições:
+
+a) Preparar e coordenar todos os assuntos que devam ser submetidos a despacho do Secretário Regional;
+
+b) Emitir os pareceres necessários às tomadas de decisão;
+
+c) Apoiar técnica e juridicamente os organismos e serviços da SRA;
+
+d) Proceder ao enquadramento do plano e desenvolvimento na proposta técnica de investimentos da SRA;
+
+e) Assegurar as ligações entre os vários serviços e organismos da SRA e entre estes e o exterior;
+
+f) Organizar e manter permanentemente actualizados arquivos, ficheiros, estatísticas e informações com interesse para a prossecução dos objectivos da SRA.
+
+4 - O Gabinete é dirigido por um chefe do Gabinete, na dependência directa do Secretário Regional, coadjuvado por dois adjuntos.
+
+5 - Ao chefe de Gabinete compete:
+
+a) Representar o Secretário Regional, excepto em actos de carácter pessoal;
+
+b) Garantir o funcionamento harmonioso de todos os órgãos e serviços que integram o Gabinete;
+
+c) Assegurar o expediente do Gabinete;
+
+d) Preparar e coordenar os assuntos a submeter a despacho do Secretário Regional;
+
+e) Manter o controlo interno dos documentos;
+
+f) Transmitir aos diversos serviços e órgãos as ordens e instruções do Secretário Regional;
+
+g) Estabelecer a ligação com os vários departamentos e serviços da SRA, bem como com os outros gabinetes e estruturas departamentais dos membros do Governo central, regional e administração local.
+
+6 - Compete ainda ao chefe do Gabinete exercer as demais competências que lhe forem cometidas ou delegadas pelo Secretário Regional, considerando-se desde já delegadas as competências seguintes:
+
+a) Assinar e despachar a correspondência oficial e expediente, reservando o que, pelo seu especial conteúdo, deva ser submetido ou assinado pelo Secretário Regional;
+
+b) Autorizar a realização de despesas até aos limites fixados para os directores regionais na legislação que anualmente aprova o Orçamento da Região Autónoma da Madeira;
+
+c) Autorizar os pagamentos a satisfazer pelo fundo permanente constituído no âmbito do Gabinete;
+
+d) Autorizar a mobilidade de bens e equipamentos;
+
+e) Autorizar o abate de bens;
+
+f) Assinar os processos de despesa que deverão ter cabimento orçamental e prévia autorização da sua efectivação pela autoridade competente;
+
+g) Praticar todos os actos subsequentes à abertura de concursos, nomeadamente procedendo à nomeação e promoção do pessoal;
+
+h) Outorgar os contratos de pessoal;
+
+i) Deferir pedidos de exoneração ou de rescisão de contratos de pessoal;
+
+j) Aprovar o plano anual de férias e respectivas alterações, bem como autorizar o gozo e a acumulação de férias;
+
+l) Autorizar as dispensas e justificar as faltas do pessoal;
+
+m) Homologar as classificações de serviço e superintender as acções a serem desenvolvidas no âmbito do sistema de avaliação do desempenho dos funcionários públicos;
+
+n) Conceder licenças sem vencimento até 90 dias, licenças sem vencimento por um ano, licenças sem vencimento de longa duração e licenças sem vencimento para acompanhamento do cônjuge colocado no estrangeiro, bem como autorizar o regresso ao serviço;
+
+o) Autorizar a mobilidade do pessoal;
+
+p) Autorizar a reclassificação profissional do pessoal;
+
+q) Autorizar o abono do vencimento de exercício perdido, no todo ou em parte, reservando para o Secretário Regional os casos que mereçam indeferimento;
+
+r) Autorizar a inscrição e participação de pessoal em cursos de formação, estágios, congressos e outras iniciativas semelhantes a decorrer na Região Autónoma da Madeira;
+
+s) Autorizar o processamento de ajudas de custo, incluindo o abono antecipado após autorização do Secretário Regional para a deslocação;
+
+t) Autorizar a prestação de trabalho extraordinário e em dias de descanso semanal, complementar e feriados, bem como a aposição de visto nos respectivos boletins;
+
+u) Autorizar horários de trabalho específicos, incluindo jornada contínua;
+
+v) Assinar requisições à Direcção Regional do Património;
+
+x) Em geral, autorizar, ou, se for o caso, determinar a prática de quaisquer actos ou certidões e assinar quaisquer documentos cuja elaboração decorra do normal funcionamento dos serviços.
+
+7 - Compete aos adjuntos do Gabinete:
+
+a) Prestar o apoio técnico que lhes for determinado;
+
+b) Àquele que for indicado pelo Secretário Regional, substituir o chefe do Gabinete nas suas faltas, ausências e impedimentos.
+
+8 - Compete aos conselheiros técnicos desenvolver e coordenar assuntos interdepartamentais de âmbito específico designado pelo Secretário Regional.
+
+9 - Compete aos secretários pessoais prestar o apoio administrativo que lhes for determinado.
+
+###### Artigo 9.º — Estrutura do Gabinete
+
+1 - O Gabinete compreende uma estrutura hierarquizada.
+
+2 - No Gabinete do Secretário Regional, desde que se justifique e com vista a aumentar a flexibilidade e eficácia na gestão, podem ser criadas equipas de projecto temporárias e com objectivos especificados.
+
+### CAPÍTULO IV — Pessoal dirigente
+
+###### Artigo 10.º — Quadro de cargos de direcção
+
+Os lugares de direcção superior de 1.º grau do Gabinete do Secretário Regional constam do mapa anexo único ao presente decreto regulamentar, do qual faz parte integrante.
+
+### CAPÍTULO V — Disposições transitórias e finais
+
+###### Artigo 11.º — Carreira de coordenador
+
+1 - A carreira de coordenador, prevista no [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto, aplica-se ao pessoal do quadro do Gabinete do Secretário Regional.
+
+2 - Esta carreira desenvolve-se pelas categorias de coordenador especialista e de coordenador.
+
+3 - O recrutamento para as categorias referidas no número anterior far-se-á da seguinte forma:
+
+a) De entre coordenadores com três anos na respectiva categoria, para a categoria de coordenador especialista;
+
+b) De entre chefes de secção com comprovada experiência na área administrativa, para a categoria de coordenador.
+
+4 - Esta carreira é remunerada de acordo com o diploma referido no n.º 1.
+
+###### Artigo 12.º — Orgânicas dos organismos e serviços dependentes
+
+Até à entrada em vigor dos novos diplomas legais referidos nas alíneas b) a e) do n.º 1 do artigo 4.º e no artigo 5.º mantêm-se em vigor aqueles que estabelecem as orgânicas e os quadros de pessoal respectivos.
+
+###### Artigo 13.º — Direcção Regional de Veterinária
+
+O [Decreto Regulamentar Regional n.º 31/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-2005-584873), de 3 de Novembro, que aprova a orgânica da Direcção Regional de Veterinária (DRV), mantém-se em vigor até à entrada em vigor do novo diploma, que aprova a orgânica da Direcção Regional de Agricultura e Desenvolvimento Rural (DRADR).
+
+###### Artigo 14.º — Direcção Regional de Saneamento Básico
+
+Até à entrada em vigor dos novos diplomas que reestruturam o sector das águas, incluindo águas residuais, mantém-se em vigor o [Decreto Regulamentar Regional n.º 32/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-2001-604837), de 15 de Novembro, que aprova a orgânica da Direcção Regional do Saneamento Básico (DRSB), na sua actual redacção.
+
+###### Artigo 15.º — Revogação
+
+É revogado o [Decreto Regulamentar Regional n.º 23/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2005-693196), de 16 de Maio, com excepção dos quadros de pessoal que se encontram em anexo àquele diploma e da estrutura de cargos de direcção intermédia de 1.º e 2.º graus, até à efectiva regulamentação destes nas portarias e despachos respectivos, nos termos do disposto no artigo 21.º, n.os 4, 5 e 8, e no artigo 24.º, n.º 2, do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro.
+
+###### Artigo 16.º — Vigência
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2011/07/12800/0394703951.pdf))](https://files.diariodarepublica.pt/1s/2011/07/12800/0394703951.pdf)

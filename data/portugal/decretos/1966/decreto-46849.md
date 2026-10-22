@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:489517:por
+title: Decreto n.º 46849
+short_title: null
+summary: Estabelece regras destinadas a regular os quantitativos dos abonos das percentagens sobre o total da cobrança dos
+  impostos directos gerais e do imposto do selo ao pessoal dos quadros comuns e privativo dos serviços de Fazenda e contabilidade
+  das províncias ultramarinas, compreendendo o dos quadros especiais de recebedores e das Inspecções Provinciais de Angola
+  e Moçambique
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '46849'
+official_date: null
+publication_date: '1966-01-29'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 24/1966, Série I de 1966-01-29
+  number: '24'
+  series: I
+  supplement: null
+  pages: 168 - 168
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/01/02400/01680168.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '489517'
+  dre_path: /dr/detalhe/decreto/46849-1966-489517
+  internal: pt:dre:489517:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/46849-1966-489517
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46849-1966-489517
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-01-29T00:00:00Z'
+integrity:
+  source_sha256: 7bd5a5720ebd61d22e5b3f42144abce994acdd6e012abb7c78d5c848d20cd6ea
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-46849-489517.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 46849
+
+Considerando que o direito à comparticipação nos réditos públicos atribuído aos funcionários dos serviços de Fazenda e contabilidade do ultramar foi estabelecido pelo artigo 61.º do Regulamento Geral de Administração da Fazenda Pública, de 4 de Janeiro de 1870, tendo-se mantido, com pequenas alterações, até à publicação, do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956;
+
+Atendendo a que a limitação imposta por aquele diploma, em muitos casos, operou uma verdadeira inversão dos quantitativos dos abonos, contrariando o princípio de equidade;
+
+Considerando as implicações resultantes dessa situação e a urgência de estabelecer as regras que devem presidir a uma fiscalização activa e eficiente;
+
+Atendendo a que em casos similares já foram tomadas medidas adequadas, designadamente no que se refere às gratificações conferidas aos funcionários do quadro administrativo pela sua intervenção na cobrança do imposto domiciliário ou do imposto geral mínimo, aos honorários médico-cirúrgicos e aos emolumentos pessoais do pessoal dos quadros das alfândegas;
+
+Nestes termos:
+
+Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º da Constituição;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º Ao pessoal dos quadros comum e privativo dos serviços da Fazenda e contabilidade das províncias ultramarinas, compreendendo o dos quadros especiais de recebedores e das Inspecções Provinciais de Angola e Moçambique, é atribuída uma percentagem de 3 por cento sobre o total da cobrança dos impostos directos gerais e do imposto do selo.
+
+§ 1.º Das receitas referidas no corpo do artigo são excluídas as provenientes do imposto geral mínimo, do imposto domiciliário ou de outros impostos de idêntica natureza.
+
+§ 2.º Quando o total da cobrança for inferior à previsão, a percentagem será reduzida de 1,5 por cento.
+
+###### Art. 2.º O rateio de percentagem será feito proporcionalmente aos vencimentos base e complementar de cada agente, não podendo o seu produto exceder mensalmente um terço da soma desses vencimentos, respeitados sempre os limites expressos nos artigos 154.º e 155.º do Estatuto do Funcionalismo Ultramarino.
+
+§ 1.º Os funcionários que ocupem interinamente lugares superiores ou intermédios da respectiva hierarquia, e bem assim os que, por substituição, exerçam funções superiores, terão direito à percentagem calculada proporcionalmente à totalidade dos vencimentos do cargo assim provido.
+
+§ 2.º Não terão direito ao abono da percentagem os agentes que demonstrem falta de zelo e dedicação pelo serviço, revertendo para o Estado a parte que lhes competir no rateio.
+
+###### Art. 3.º A percentagem será paga mensalmente, depois de terem dado entrada na Direcção ou Repartição Provincial dos Serviços de Fazenda e Contabilidade todos os elementos de contabilidade da receita e despesa relativas ao mês anterior e de ter sido elaborada a competente tabela M/29.
+
+###### Art. 4.º Cessam, a partir da entrada em vigor do presente diploma em cada uma das províncias ultramarinas, todas as percentagens ou comparticipações em receitas que vêm sendo abonadas aos agentes dos serviços de Fazenda e contabilidade pela sua intervenção na arrecadação dos réditos públicos, incluindo os destinados aos corpos administrativos.
+
+###### Art. 5.º As disposições das alíneas b) e c) do § 1.º do artigo 153.º do Estatuto do Funcionalismo Ultramarino não são aplicáveis na recepção de custas executivas cobradas nos juízos das execuções fiscais, observando-se, contudo, no seu abono, os limites expressos nos seus artigos 154.º e 155.º
+
+§ 1.º Ao abono das custas referido no corpo deste artigo são aplicáveis as disposições do artigo 157.º do Estatuto do Funcionalismo Ultramarino, não podendo proceder-se à sua liquidação sem que prèviamente se tenha observado o rigoroso cumprimento do preceituado no artigo 159.º do Código das Execuções Fiscais, aprovado pelo [Decreto n.º 38088](https://diariodarepublica.pt/dr/detalhe/decreto/38088-1950-490198), de 12 de Dezembro de 1950.
+
+§ 2.º É revogado o § 1.º do artigo 269.º do Código das Execuções Fiscais, aprovado pelo [Decreto n.º 38088](https://diariodarepublica.pt/dr/detalhe/decreto/38088-1950-490198), de 12 de Dezembro de 1950.
+
+###### Art. 6.º São aumentadas as seguintes unidades à Inspecção Provincial de Fazenda e Contabilidade de Angola:
+
+a) Quadro do pessoal inspectivo de Fazenda:
+
+1 de inspector-chefe;
+
+1 de inspector;
+
+b) Quadro do pessoal inspectivo contabilista:
+
+1 de inspector-chefe;
+
+2 de inspector.
+
+###### Art. 7.º As alíneas a) e d) do artigo 3.º do [Decreto n.º 36253](https://diariodarepublica.pt/dr/detalhe/decreto/36253-1947-415233), de 26 de Abril de 1947, passam a ter a seguinte redacção:
+
+a) Terem menos de 35 e mais de 18 anos de idade;
+
+b) Estarem sujeitos às leis de recrutamento militar e terem satisfeito às suas prescrições.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 29 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de todas a províncias ultramarinas. - J. da Silva Cunha.

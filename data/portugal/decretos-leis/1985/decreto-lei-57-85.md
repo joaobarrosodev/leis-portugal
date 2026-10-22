@@ -1,0 +1,231 @@
+---
+schema_version: '1.0'
+id: pt:dre:326284:por
+title: Decreto-Lei n.º 57/85
+short_title: null
+summary: Estabelece as características a que devem obedecer os alimentos simples para animais e regulamenta a sua comercialização
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Justiça, da Saúde, da Agricultura, do Comércio e Turismo e da Qualidade de Vida
+proposing_entity: null
+official_number: 57/85
+official_date: null
+publication_date: '1985-03-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 54/1985, Série I de 1985-03-06
+  number: '54'
+  series: I
+  supplement: null
+  pages: 554 - 556
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/03/05400/05540556.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '326284'
+  dre_path: /dr/detalhe/decreto-lei/57-1985-326284
+  internal: pt:dre:326284:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1985-326284
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1985-326284
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-02-08T00:00:00Z'
+integrity:
+  source_sha256: 5ff5752d4452fa7043e87b94d07ffedbee6caf491fa656188972ee0fde518dde
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-57-326284.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:151973:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 57/85
+
+de 6 de Março
+
+Na sequência da reforma legislativa que tem vindo gradualmente a ser implementada sobre alimentos para animais, com as publicações do Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais e do diploma que regula o fabrico e a comercialização dos alimentos compostos, importa agora regulamentar a comercialização dos alimentos simples para animais.
+
+À semelhança daqueles diplomas, o presente decreto-lei tem como objectivos fundamentais a adequação da legislação ao actual condicionalismo económico e à realidade dos circuitos comerciais existentes, bem como harmonizá-la com as correspondentes disposições do direito comunitário.
+
+Para consecução destes objectivos são fixadas neste diploma as condições higiossanitárias gerais, bem como algumas características analíticas comuns à generalidade dos alimentos simples e os requisitos de acondicionamento e rotulagem, e em portarias do Ministro da Agricultura, a publicar, uma mais completa caracterização analítica, denominação e descrição.
+
+À semelhança do preconizado para os alimentos compostos, mantém-se o espírito de responsabilização do fabricante ou do embalador pelas características do produto que comercializa, constantes da respectiva rotulagem, sendo fixadas apenas as características que garantam ou salvaguardem os aspectos mínimos de qualidade.
+
+Ao definir e diferenciar os conceitos de alimento simples e matéria-prima, prevê-se desde já a possibilidade de, caracterizando os alimentos simples, estender alguns, ou a totalidade, desses requsitos ao mesmo produto, quando utilizado como matéria-prima. Tal eventualidade, prevista na própria regulamentação comunitária, decorre da existência de particularidades nos circuitos económicos de diversas matérias-primas para as quais não foi criada oportuna e completa legislação.
+
+Pela especificidade das matérias e porque se prevê a necessidade de actualizações periódicas, é também deixada para portaria do Ministro da Agricultura a fixação dos níveis máximos admissíveis de substâncias e produtos indesejáveis e de resíduos de pesticidas nos alimentos para animais, bem como a publicação de tolerâncias analíticas para efeitos de fiscalizações das disposições do presente decreto-lei.
+
+A violação das disposições do presente diploma não é expressamente considerada no articulado visto que recai na previsão do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, e legislação complementar que regula as infracções antieconómicas, quer se trate de crimes, quer de contra-ordenações.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º — Âmbito de aplicação
+
+O disposto no presente decreto-lei destina-se a estabelecer as características a que devem obedecer os alimentos simples para animais, bem como regulamentar a sua comercialização.
+
+###### ARTIGO 2.º — Definições
+
+Para efeitos deste decreto-lei e dos diplomas complementares, entende-se por:
+
+a) Alimento simples - os diferentes produtos, de origem vegetal ou animal, no seu estado natural ou conservados, os produtos derivados da sua transformação industrial, bem com as diferentes substâncias orgânicas ou inorgânicas, utilizados em alimentação animal por via oral e que se destinam directamente ao criador pecuário para utilização em natureza ou no fabrico de alimentos compostos para consumo exclusivo na própria exploração;
+
+b) Matéria-prima - os diferentes produtos, de origem vegetal ou animal, no seu estado natural ou conservados, os produtos derivados da sua transformação industrial, bem como as diferentes substâncias orgânicas ou inorgânicas, utilizados em alimentação animal por via oral e que se destinam ao fabrico de alimentos compostos para comercialização;
+
+c) Alimento composto - a mistura de substâncias orgânicas ou inorgânicas, compreendendo ou não aditivos, que se destinam à nutrição animal por via oral, sob a forma de alimento composto completo ou complementar;
+
+d) Alimento composto completo - a mistura de alimentos para animais que, pela sua composição, é suficiente para assegurar uma ração diária;
+
+e) Alimento composto complementar - a mistura de alimentos que, pela sua composição, não assegura a ração diária senão quando associada a outros alimentos para animais;
+
+f) Ração diária - a quantidade total de alimentos, referida a um teor de humidade de 12%, necessária, em média, por dia a um animal de uma espécie, idade e função zootécnica bem definidas para satisfazer o conjunto das suas necessidades.
+
+###### ARTIGO 3.º — Condições gerais
+
+1 - Os alimentos simples devem ter características organolépticas normais, apresentar-se em conveniente estado de conservação, não apresentar parasitas vegetais ou animais, nem conter agentes microbianos comprovadamente responsáveis por patogenicidade, designadamente do género Salmonella, e não provocar qualquer prejuízo na saúde dos animais ou do homem.
+
+2 - Os alimentos simples não devem ser comercializados de forma enganadora quanto à composição, qualidade ou modo de utilização.
+
+###### ARTIGO 4.º — Características
+
+1 - Mediante portaria do Ministro da Agricultura, sob proposta da Comissão de Alimentação Animal, serão fixados, para os diferentes alimentos simples, a respectiva denominação de venda, descrição, características analíticas a que devem obedecer, teores em constituintes de declaração obrigatória ou facultativa, modo de acondicionamento e condições de desnaturação, podendo estas exigências ser também aplicáveis às matérias-primas sempre que for julgado conveniente.
+
+2 - As características analíticas, bem como os teores em constituintes de declaração obrigatória ou facultativa, a fixar nos termos do número anterior, são expressas em relação à matéria tal qual, excepto quando de outro modo for determinado.
+
+3 - O teor de cinza insolúvel em HCl dos alimentos simples não deve ser superior a 2%, excepto para os que de outro modo for determinado.
+
+4 - Sem prejuízo do disposto no n.º 1 deste artigo e no artigo 5.º, os bagaços de oleaginosas e os produtos e subprodutos do tratamento de substâncias vegetais deverão ter uma pureza botânica mínima de 95%.
+
+5 - Para efeitos do disposto no número anterior são consideradas impurezas botânicas:
+
+a) As impurezas naturais não abrangidas pelo disposto no artigo 5.º;
+
+b) Os resíduos de outros grãos ou sementes de oleaginosas, provenientes de um processo de fabrico anterior, cujo teor seja superior a 0,5%.
+
+6 - A utilização de qualquer alimento simples como ligante de outro alimento simples deverá ser feita com uma incorporação não superior a 3% do peso total.
+
+###### ARTIGO 5.º — Substâncias e produtos indesejáveis
+
+Mediante portaria do Ministro da Agricultura, sob proposta da Comissão de Alimentação Animal, serão fixados os teores máximos admissíveis de substâncias e produtos indesejáveis e de resíduos de pesticidas.
+
+###### ARTIGO 6.º — Acondicionamento
+
+1 - Para efeitos de comercialização, os alimentos simples deverão ser convenientemente acondicionados, do seguinte modo:
+
+a) Pré-embalados, em embalagens ou recipientes constituídos por materiais inócuos, inertes em relação ao conteúdo e que possuam as necessárias condições de resistência e impermeabilidade;
+
+b) A granel.
+
+2 - Exceptuam-se do disposto na alínea b) do número anterior os alimentos simples para os quais só seja admissível o seu acondicionamento pré-embalado, nos termos do n.º 1 do artigo 4.º
+
+###### ARTIGO 7.º — Rotulagem
+
+1 - Nas embalagens ou nos rótulos, dísticos, etiquetas ou nas guias de remessa, no caso de alimentos simples comercializados a granel, devem constar obrigatoriamente as seguintes condições:
+
+a) A designação «Alimento simples para animais»;
+
+b) A denominação do produto;
+
+c) O nome ou denominação social e a morada da entidade responsável pelas características do produto;
+
+d) O peso ou volume líquidos, consoante as características do produto;
+
+e) A forma de apresentação, de acordo com o disposto no n.º 3 deste artigo;
+
+f) Os teores dos constituintes, nos termos do n.º 1 do artigo 4.º;
+
+g) O nome e teor do desnaturante e nome do ligante, quando for o caso.
+
+2 - Para além do disposto no número anterior, são facultativas as seguintes indicações:
+
+a) A marca comercial do alimento simples ou da entidade responsável pelas características do produto;
+
+b) O número de referência do lote;
+
+c) O modo de emprego;
+
+d) A data limite de conservação do alimento simples;
+
+e) As condições de conservação;
+
+f) O preço;
+
+g) Os teores de constituintes.
+
+3 - Sempre que o alimento simples tenha sido submetido a um tratamento não evidenciado na sua denominação, esta deverá ser acrescentada da indicação relativa ao tratamento aplicado.
+
+###### ARTIGO 8.º — Tolerâncias analíticas
+
+Para efeitos de fiscalização dos alimentos simples são consideradas as características fixadas, bem como os teores dos constituintes declarados nas embalagens ou nos rótulos, dísticos, etiquetas, ou nas guias de remessa, sendo admitidas tolerâncias analíticas, a fixar por portaria do Ministro da Agricultura, sob proposta da Comissão de Alimentação Animal.
+
+###### ARTIGO 9.º — Isenções
+
+1 - O disposto no presente decreto-lei e nos diplomas complementares não se aplica aos produtos produzidos e consumidos nas explorações agrícolas.
+
+2 - O disposto nos n.os 2, 3, 4 e 5 do artigo 4.º e nos artigos 6.º a 8.º só é aplicável aos alimentos simples caracterizados por portaria do Ministro da Agricultura, nos termos do n.º 1 do artigo 4.º
+
+###### ARTIGO 10.º — Revogações
+
+São revogados:
+
+a) O artigo 3.º do Regulamento de Preparação e Comércio de Alimentos para Animais, aprovado pelo Decreto-Lei n.º 47776, de 5 de Julho de 1967;
+
+b) Os artigos 2.º e seguintes da [Portaria n.º 22767](https://diariodarepublica.pt/dr/detalhe/portaria/22767-1967-314055), de 5 de Julho de 1967.
+
+Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - António Manuel Maldonado Gonelha - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral - Francisco José de Sousa Tavares.
+
+**Promulgado em 14 de Fevereiro de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 18 de Fevereiro de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**

@@ -1,0 +1,367 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:179059:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-212137598",
+ "dre_path": "/dr/detalhe/decreto-lei/174-2012-179059",
+ "source_lastmod": "2025-07-08",
+ "versions": [
+  {
+   "date": "2012-08-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "212123810",
+    "212123811",
+    "212123812",
+    "212123813",
+    "212123814",
+    "212123815",
+    "212123816",
+    "212123817",
+    "212123818",
+    "212123819",
+    "212123820",
+    "212123821",
+    "212123822"
+   ]
+  },
+  {
+   "date": "2015-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66229856:por",
+     "title": "Decreto-Lei n.º 10/2015",
+     "published": "2015-01-16",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2015-66229856"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "212123810",
+    "924123421",
+    "924123422",
+    "212123813",
+    "924123423",
+    "924123424",
+    "924123425",
+    "212123830",
+    "924123426",
+    "924123427",
+    "924123428",
+    "924123429",
+    "924123430",
+    "924123431",
+    "924123432",
+    "924123433",
+    "924123434",
+    "924123435",
+    "924123436",
+    "924123437",
+    "924123438"
+   ]
+  }
+ ],
+ "fragments": {
+  "212123810": {
+   "fragment_id": "212137599",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 174/2012\n\nde 2 de agosto\n\nO Decreto-Lei n.º 92/2010, de 26 de julho, transpõe para o ordenamento jurídico interno, a Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno, estabelecendo os princípios e as regras necessárias para simplificar o livre acesso e o exercício à atividade de serviços, agilizando os seus regimes jurídicos, bem como os procedimentos e requisitos de autorização.\n\nNa sequência dos princípios consagrados naquele diploma, importa adequar o regime de licenciamento dos estabelecimentos de exposição e venda de produtos de conteúdo pornográfico ou obsceno, instituído pelo Decreto n.º 647/76, de 31 de julho, alterado pela Lei n.º 30/2006, de 11 de julho.\n\nImporta, também, proteger os menores do acesso a conteúdos e produtos exclusivamente destinados a adultos.\n\nDesta forma, e tendo presente o regime de «Licenciamento Zero» - que eliminou licenças e ou outros atos permissivos para o exercício de diversas atividades económicas - a todos os níveis da administração, substitui-se o regime de licenciamento dos estabelecimentos designados por sex shops, por um regime de mera comunicação prévia, responsabilizando-se os agentes económicos pelo cumprimento dos requisitos a que deve obedecer a instalação deste tipo de estabelecimentos, os quais são verificados através de ações de fiscalização.\n\nTendo presente a evolução ocorrida desde a entrada em vigor do Decreto n.º 647/76, de 31 de julho, alterado pela Lei n.º 30/2006, de 11 de julho, nas formas de venda e de distribuição de produtos de conteúdo pornográfico ou obsceno, estabelecem-se as regras a cumprir quando utilizados métodos de venda à distância ou ao domicílio ou quando aquela se efetive através da realização de eventos especializados na comercialização deste tipo de produtos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Comissão Nacional de Proteção de Dados.\n\nFoi ainda ouvida, a título facultativo e a Confederação do Comércio e Serviços de Portugal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "212123811": {
+   "fragment_id": "212137600",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma aprova o regime jurídico da instalação e do funcionamento dos estabelecimentos comerciais destinados à venda e exibição de produtos de conteúdo pornográfico ou obsceno, designados por estabelecimentos sex shop, bem como as regras específicas a obedecer na venda destes produtos, conformando-o com o Decreto-Lei n.º 92/2010, de 26 de junho.\n\n2 - O presente diploma altera ainda o Decreto-Lei n.º 254/76, de 7 de abril, alterado pelo Decreto-Lei n.º 653/76, de 31 de julho, que estabelece medidas relativas à publicação e comercialização de objetos e meios de comunicação social de conteúdo pornográfico."
+  },
+  "212123812": {
+   "fragment_id": "212137601",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação do regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação do regime jurídico\n\nÉ aprovado em anexo ao presente diploma, que dele faz parte integrante, o regime jurídico da instalação e do funcionamento dos estabelecimentos comerciais destinados à venda e exibição de produtos de conteúdo pornográfico ou obsceno, designados por estabelecimentos sex shop."
+  },
+  "212123813": {
+   "fragment_id": "212137602",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Decreto-Lei n.º 254/76, de 7 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Decreto-Lei n.º 254/76, de 7 de abril\n\nO artigo 2.º do Decreto-Lei n.º 254/76, de 7 de abril, alterado pelo Decreto-Lei n.º 653/76, de 31 de julho, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n1 - O regime jurídico da instalação e do funcionamento dos estabelecimentos comerciais destinados a vender e a exibir produtos de conteúdo pornográfico ou obsceno, designados por estabelecimentos sex shop, consta de decreto-lei próprio.\n\n2 - ...»"
+  },
+  "212123814": {
+   "fragment_id": "212137603",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposições finais e transitórias\n\n1 - O regime jurídico aprovado em anexo ao presente diploma é aplicável aos pedidos de licenciamento em curso à data da sua entrada em vigor.\n\n2 - Enquanto o balcão único eletrónico de serviços não permitir a realização das comunicações referidas no regime jurídico aprovado em anexo ao presente diploma, podem as mesmas ser realizadas através do preenchimento de formulário próprio disponível no sítio na Internet da Direção-Geral das Atividades Económicas e entregues neste serviço, presencialmente ou através de correio convencional ou eletrónico.\n\n3 - As licenças emitidas ao abrigo do Decreto n.º 647/76, de 31 de julho, alterado pela Lei n.º 30/2006, de 11 de julho, mantêm-se válidas enquanto a atividade de comercialização de produtos de conteúdo pornográfico ou obsceno for exercida ininterruptamente no estabelecimento em causa."
+  },
+  "212123815": {
+   "fragment_id": "212137604",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nÉ revogado o Decreto n.º 647/76, de 31 de julho, alterado pela Lei n.º 30/2006, de 11 de julho."
+  },
+  "212123816": {
+   "fragment_id": "212137605",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "212123817": {
+   "fragment_id": "212137606",
+   "type": 11,
+   "heading": "Artigo 7.º — Dados pessoais, segurança da informação e conservação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dados pessoais, segurança da informação e conservação de dados\n\nAo tratamento, segurança e conservação da informação que consta das comunicações previstas nos artigos 3.º e 5.º aplica-se o disposto nos artigos 22.º, 23.º e 24.º do Decreto-Lei n.º 48/2011, de 1 de abril, com as devidas adaptações."
+  },
+  "212123818": {
+   "fragment_id": "212137607",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime sancionatório\n\nSem prejuízo da responsabilidade civil e criminal, constituem contraordenações:\n\na) As infrações ao disposto nos n.os 1, 2 e 5 do artigo 2.º, nas alíneas a) e b) do artigo 4.º, no artigo 5.º, sendo puníveis com coima de (euro) 1000 a (euro) 2000 ou de (euro) 2500 a (euro) 25 000, consoante o agente seja pessoa singular ou coletiva;\n\nb) As infrações ao disposto nos n.os 1, 2 e 4 do artigo 3.º e no n.º 2 do artigo 5.º são puníveis com coima de (euro) 350 a (euro) 2500 ou de (euro) 1000 a (euro) 7500, consoante o agente seja pessoa singular ou coletiva."
+  },
+  "212123819": {
+   "fragment_id": "212137608",
+   "type": 11,
+   "heading": "Artigo 9.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sanções acessórias\n\n1 - Em função da gravidade das infrações e da culpa do agente podem ser aplicadas as seguintes sanções acessórias:\n\na) Perda de objetos pertencentes ao agente, relacionados com o exercício da sua atividade económica;\n\nb) Encerramento do estabelecimento.\n\n2 - Da aplicação das sanções acessórias pode dar-se publicidade, a expensas do infrator, num jornal de expansão local ou nacional."
+  },
+  "212123820": {
+   "fragment_id": "212137609",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência fiscalizadora e instrutória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência fiscalizadora e instrutória\n\n1 - A fiscalização do cumprimento do disposto no presente regime, a instrução dos respetivos processos de contraordenação e a aplicação das coimas previstas nos números anteriores compete à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - O produto das coimas reverte em:\n\na) 60 % para o Estado;\n\nb) 40 % para a ASAE."
+  },
+  "212123821": {
+   "fragment_id": "212137610",
+   "type": 11,
+   "heading": "Artigo 11.º — Interdição de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Interdição de funcionamento\n\nComo medida cautelar, a ASAE é competente para determinar a interdição temporária do funcionamento do estabelecimento, sempre que se verifique o incumprimento do disposto na alínea c) do n.º 2 do artigo 2.º"
+  },
+  "212123822": {
+   "fragment_id": "212137611",
+   "type": 11,
+   "heading": "Artigo 12.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aplicação às Regiões Autónomas\n\n1 - Os atos e os procedimentos necessários à execução do presente regime nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - As comunicações prévias previstas no artigo 5.º são válidas para todo o território nacional, independentemente de serem dirigidas à DGAE ou aos serviços e organismos competentes de uma Região Autónoma.\n\n3 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita destas."
+  },
+  "924123421": {
+   "fragment_id": "212137600",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma aprova o regime jurídico da instalação e do funcionamento dos estabelecimentos comerciais destinados à venda e exibição de produtos de conteúdo pornográfico ou obsceno, designados por estabelecimentos sex shop, bem como as regras específicas a obedecer na venda destes produtos, conformando-o com o Decreto-Lei n.º 92/2010, de 26 de junho.\n\n2 - O presente diploma altera ainda o Decreto-Lei n.º 254/76, de 7 de abril, alterado pelo Decreto-Lei n.º 653/76, de 31 de julho, que estabelece medidas relativas à publicação e comercialização de objetos e meios de comunicação social de conteúdo pornográfico.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123422": {
+   "fragment_id": "212137601",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação do regime jurídico",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 2.º — Aprovação do regime jurídico\n\nÉ aprovado em anexo ao presente diploma, que dele faz parte integrante, o regime jurídico da instalação e do funcionamento dos estabelecimentos comerciais destinados à venda e exibição de produtos de conteúdo pornográfico ou obsceno, designados por estabelecimentos sex shop.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123423": {
+   "fragment_id": "212137603",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposições finais e transitórias",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 4.º — Disposições finais e transitórias\n\n1 - O regime jurídico aprovado em anexo ao presente diploma é aplicável aos pedidos de licenciamento em curso à data da sua entrada em vigor.\n\n2 - Enquanto o balcão único eletrónico de serviços não permitir a realização das comunicações referidas no regime jurídico aprovado em anexo ao presente diploma, podem as mesmas ser realizadas através do preenchimento de formulário próprio disponível no sítio na Internet da Direção-Geral das Atividades Económicas e entregues neste serviço, presencialmente ou através de correio convencional ou eletrónico.\n\n3 - As licenças emitidas ao abrigo do Decreto n.º 647/76, de 31 de julho, alterado pela Lei n.º 30/2006, de 11 de julho, mantêm-se válidas enquanto a atividade de comercialização de produtos de conteúdo pornográfico ou obsceno for exercida ininterruptamente no estabelecimento em causa.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123424": {
+   "fragment_id": "212137604",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nÉ revogado o Decreto n.º 647/76, de 31 de julho, alterado pela Lei n.º 30/2006, de 11 de julho.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123425": {
+   "fragment_id": "212137605",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "212123830": {
+   "fragment_id": "212137619",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de maio de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira.\n\nPromulgado em 25 de julho de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 27 de julho de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "924123426": {
+   "fragment_id": "212137612",
+   "type": 14,
+   "heading": "Anexo — Regime jurídico da instalação e do funcionamento dos estabelecimentos comerciais destinados à venda e exibição de produtos de conteúdo pornográfico ou obsceno",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "## Anexo — Regime jurídico da instalação e do funcionamento dos estabelecimentos comerciais destinados à venda e exibição de produtos de conteúdo pornográfico ou obsceno\n\n(a que se refere o artigo 2.º)\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123427": {
+   "fragment_id": "212137613",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA instalação e o funcionamento de estabelecimentos comerciais destinados à venda e exibição de produtos de conteúdo pornográfico ou obsceno, designados por estabelecimentos sex shop, bem como as regras específicas a obedecer na venda destes produtos obedecem ao disposto no presente regime.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123428": {
+   "fragment_id": "212137614",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisitos dos estabelecimentos",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 2.º — Requisitos dos estabelecimentos\n\n1 - Os estabelecimentos que se dediquem à comercialização dos produtos referidos no artigo anterior, designados por estabelecimentos sex shop, devem fazê-lo em regime de exclusividade.\n\n2 - Os estabelecimentos referidos no número anterior não podem:\n\na) Exibir nas montras ou em locais visíveis da via pública os produtos referidos no artigo anterior;\n\nb) Utilizar insígnias, expressões ou figuras ofensivas da moral pública;\n\nc) Ser instalados a menos de 300 metros de estabelecimentos de educação pré-escolar ou de ensino básico ou secundário, públicos ou privados, assim como de espaços de jogo e recreio de uso coletivo destinados a crianças, e de locais onde se pratique o culto de qualquer religião.\n\n3 - A distância prevista na alínea c) do número anterior é aferida por referência à distância percorrida pelo caminho pedonal mais curto, obedecendo às regras de circulação pedonal constantes do Código da Estrada.\n\n4 - A instalação de estabelecimentos e espaços referidos na alínea c) do n.º 2 a menos de 300 metros de estabelecimentos sex shop já instalados ou licenciados não prejudica a continuação do seu funcionamento.\n\n5 - É proibida a entrada e permanência de menores de 18 anos nos estabelecimentos sex shop.\n\n6 - Os estabelecimentos sex shop ficam ainda sujeitos, quanto ao seu funcionamento, às demais normas regulamentadoras dos estabelecimentos de venda a retalho, nomeadamente no que se refere ao horário de funcionamento, à obrigatoriedade de existência e disponibilização do livro de reclamações e à afixação dos preços dos produtos.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123429": {
+   "fragment_id": "212137615",
+   "type": 11,
+   "heading": "Artigo 3.º — Instalação, modificação e encerramento dos estabelecimentos",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Instalação, modificação e encerramento dos estabelecimentos\n\n1 - A instalação dos estabelecimentos sex shop fica sujeita a um procedimento de mera comunicação prévia, dirigida à Direção-Geral das Atividades Económicas (DGAE) e a efetuar no balcão único eletrónico dos serviços, nos termos previstos nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, sem prejuízo da possibilidade de acesso mediado ao referido balcão através dos balcões presenciais das entidades públicas competentes, com os seguintes dados:\n\na) Identificação do titular da exploração do estabelecimento, com menção do nome e número de identificação fiscal, caso se trate de pessoa singular, ou da firma, do tipo, da conservatória do registo onde se encontre matriculada, do número de matrícula e de identificação de pessoa coletiva, caso se trate de pessoa coletiva;\n\nb) Endereço da sede da pessoa coletiva ou o domicílio do empresário em nome individual;\n\nc) Endereço do estabelecimento a instalar e o respetivo nome ou insígnia;\n\nd) Menção expressa ao comércio dos produtos identificados no artigo 1.º, com a indicação do código da CAE 47784, bem como outra informação relevante, nomeadamente, a área de venda, o número de pessoas ao serviço, o tipo de localização e o método de venda;\n\ne) Data de abertura;\n\nf) Declaração do titular de exploração do estabelecimento de que tomou conhecimento das obrigações legais e regulamentares constantes da legislação identificada no anexo iii do Decreto-Lei n.º 48/2011, de 1 de abril, bem como das obrigações do presente regime e de que as respeita integralmente.\n\n2 - As modificações, por alteração do titular de exploração, dos estabelecimentos abrangidos pelo presente regime ficam, também, sujeitas ao procedimento previsto no número anterior.\n\n3 - Efetuada a comunicação prévia e cumpridos os requisitos do Regime Jurídico da Urbanização e da Edificação, o interessado pode proceder imediatamente à abertura do estabelecimento.\n\n4 - No prazo máximo de 60 dias após a ocorrência de qualquer alteração, incluindo o encerramento do estabelecimento, o titular do estabelecimento comunica esses dados através do balcão único eletrónico dos serviços, devendo mantê-los atualizados.\n\nArtigo 4.º\n\nVenda de produtos\n\nA venda dos produtos referidos no artigo 1.º apenas é permitida nos termos do presente regime, sendo proibida:\n\na) A e por menores de 18 anos, nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 254/76, de 7 de abril, alterado pelo Decreto-Lei n.º 653/76, de 31 de julho;\n\nb) Fora dos estabelecimentos sex shop, sem prejuízo do disposto no artigo seguinte.\n\nArtigo 5.º\n\nComércio fora dos estabelecimentos\n\n1 - Os agentes económicos que comercializem os produtos referidos no artigo 1.º através de métodos de venda ao domicílio, de eventos de exposição e amostra especializados nestes produtos e ainda, quando estabelecidos em território nacional, através de métodos de venda à distância, nomeadamente por catálogo ou sítios na Internet, ficam obrigados a efetuar, com as devidas adaptações, a comunicação prévia e a atualização da informação referidas no artigo 3.º\n\n2 - Os agentes económicos que comercializem os produtos referidos no artigo 1.º através de métodos de venda à distância ou ao domicílio, ficam ainda obrigados a:\n\na) Informar previamente, designadamente na página inicial do respetivo sítio na Internet ou na proposta de venda ao domicílio, que o acesso é vedado a menores de 18 anos;\n\nb) Não utilizar designações, expressões ou exibir conteúdos explícitos;\n\nc) Respeitar as normas legais aplicáveis às vendas à distância e às vendas ao domicílio, consoante os casos;\n\nd) Respeitar a legislação do comércio eletrónico, quando aplicável.\n\n3 - A realização de eventos de exposição e amostra especializados dos produtos deve respeitar os requisitos previstos no artigo 2.º\n\n4 - A proibição constante da alínea a) do artigo anterior aplica-se a todos os agentes económicos cujos produtos se destinem ao território nacional, ainda que estabelecidos noutro Estado-membro da União Europeia ou do Espaço Económico Europeu ou em país terceiro.\n\nArtigo 6.º\n\nOrganização e manutenção do registo\n\n1 - A DGAE é a entidade responsável pela organização e manutenção atualizada de um registo relativo aos estabelecimentos sex shop e aos agentes económicos referidos nos artigos 3.º e 5.º\n\n2 - O registo referido no número anterior tem como objetivos:\n\na) Identificar os estabelecimentos e agentes económicos, com vista a facilitar o controlo da atividade;\n\nb) Servir de base à realização de estudos de caracterização e evolução da atividade.\n\n3 - O registo a que se refere o artigo 3.º serve para inscrição no cadastro comercial, nos termos do Decreto-Lei n.º 48/2011, de 1 de abril.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123430": {
+   "fragment_id": "212137616",
+   "type": 11,
+   "heading": "Artigo 4.º — Venda de produtos",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 4.º — Venda de produtos\n\nA venda dos produtos referidos no artigo 1.º apenas é permitida nos termos do presente regime, sendo proibida:\n\na) A e por menores de 18 anos, nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 254/76, de 7 de abril, alterado pelo Decreto-Lei n.º 653/76, de 31 de julho;\n\nb) Fora dos estabelecimentos sex shop, sem prejuízo do disposto no artigo seguinte.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123431": {
+   "fragment_id": "212137617",
+   "type": 11,
+   "heading": "Artigo 5.º — Comércio fora dos estabelecimentos",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Comércio fora dos estabelecimentos\n\n1 - Os agentes económicos que comercializem os produtos referidos no artigo 1.º através de métodos de venda ao domicílio, de eventos de exposição e amostra especializados nestes produtos e ainda, quando estabelecidos em território nacional, através de métodos de venda à distância, nomeadamente por catálogo ou sítios na Internet, ficam obrigados a efetuar, com as devidas adaptações, a comunicação prévia e a atualização da informação referidas no artigo 3.º\n\n2 - Os agentes económicos que comercializem os produtos referidos no artigo 1.º através de métodos de venda à distância ou ao domicílio, ficam ainda obrigados a:\n\na) Informar previamente, designadamente na página inicial do respetivo sítio na Internet ou na proposta de venda ao domicílio, que o acesso é vedado a menores de 18 anos;\n\nb) Não utilizar designações, expressões ou exibir conteúdos explícitos;\n\nc) Respeitar as normas legais aplicáveis às vendas à distância e às vendas ao domicílio, consoante os casos;\n\nd) Respeitar a legislação do comércio eletrónico, quando aplicável.\n\n3 - A realização de eventos de exposição e amostra especializados dos produtos deve respeitar os requisitos previstos no artigo 2.º\n\n4 - A proibição constante da alínea a) do artigo anterior aplica-se a todos os agentes económicos cujos produtos se destinem ao território nacional, ainda que estabelecidos noutro Estado-membro da União Europeia ou do Espaço Económico Europeu ou em país terceiro.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123432": {
+   "fragment_id": "212137618",
+   "type": 11,
+   "heading": "Artigo 6.º — Organização e manutenção do registo",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Organização e manutenção do registo\n\n1 - A DGAE é a entidade responsável pela organização e manutenção atualizada de um registo relativo aos estabelecimentos sex shop e aos agentes económicos referidos nos artigos 3.º e 5.º\n\n2 - O registo referido no número anterior tem como objetivos:\n\na) Identificar os estabelecimentos e agentes económicos, com vista a facilitar o controlo da atividade;\n\nb) Servir de base à realização de estudos de caracterização e evolução da atividade.\n\n3 - O registo a que se refere o artigo 3.º serve para inscrição no cadastro comercial, nos termos do Decreto-Lei n.º 48/2011, de 1 de abril.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123433": {
+   "fragment_id": "212137606",
+   "type": 11,
+   "heading": "Artigo 7.º — Dados pessoais, segurança da informação e conservação de dados",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Dados pessoais, segurança da informação e conservação de dados\n\nAo tratamento, segurança e conservação da informação que consta das comunicações previstas nos artigos 3.º e 5.º aplica-se o disposto nos artigos 22.º, 23.º e 24.º do Decreto-Lei n.º 48/2011, de 1 de abril, com as devidas adaptações.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123434": {
+   "fragment_id": "212137607",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime sancionatório",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Regime sancionatório\n\nSem prejuízo da responsabilidade civil e criminal, constituem contraordenações:\n\na) As infrações ao disposto nos n.os 1, 2 e 5 do artigo 2.º, nas alíneas a) e b) do artigo 4.º, no artigo 5.º, sendo puníveis com coima de (euro) 1000 a (euro) 2000 ou de (euro) 2500 a (euro) 25 000, consoante o agente seja pessoa singular ou coletiva;\n\nb) As infrações ao disposto nos n.os 1, 2 e 4 do artigo 3.º e no n.º 2 do artigo 5.º são puníveis com coima de (euro) 350 a (euro) 2500 ou de (euro) 1000 a (euro) 7500, consoante o agente seja pessoa singular ou coletiva.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123435": {
+   "fragment_id": "212137608",
+   "type": 11,
+   "heading": "Artigo 9.º — Sanções acessórias",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 9.º — Sanções acessórias\n\n1 - Em função da gravidade das infrações e da culpa do agente podem ser aplicadas as seguintes sanções acessórias:\n\na) Perda de objetos pertencentes ao agente, relacionados com o exercício da sua atividade económica;\n\nb) Encerramento do estabelecimento.\n\n2 - Da aplicação das sanções acessórias pode dar-se publicidade, a expensas do infrator, num jornal de expansão local ou nacional.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123436": {
+   "fragment_id": "212137609",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência fiscalizadora e instrutória",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Competência fiscalizadora e instrutória\n\n1 - A fiscalização do cumprimento do disposto no presente regime, a instrução dos respetivos processos de contraordenação e a aplicação das coimas previstas nos números anteriores compete à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - O produto das coimas reverte em:\n\na) 60 % para o Estado;\n\nb) 40 % para a ASAE.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123437": {
+   "fragment_id": "212137610",
+   "type": 11,
+   "heading": "Artigo 11.º — Interdição de funcionamento",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 11.º — Interdição de funcionamento\n\nComo medida cautelar, a ASAE é competente para determinar a interdição temporária do funcionamento do estabelecimento, sempre que se verifique o incumprimento do disposto na alínea c) do n.º 2 do artigo 2.º\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "924123438": {
+   "fragment_id": "212137611",
+   "type": 11,
+   "heading": "Artigo 12.º — Aplicação às Regiões Autónomas",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 12.º — Aplicação às Regiões Autónomas\n\n1 - Os atos e os procedimentos necessários à execução do presente regime nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - As comunicações prévias previstas no artigo 5.º são válidas para todo o território nacional, independentemente de serem dirigidas à DGAE ou aos serviços e organismos competentes de uma Região Autónoma.\n\n3 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita destas.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  }
+ }
+}

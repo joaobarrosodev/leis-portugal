@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:142487105:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-168118388",
+ "dre_path": "/dr/detalhe/portaria/215-2020-142487105",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "168154786",
+    "168154787",
+    "168154788",
+    "168154790"
+   ]
+  },
+  {
+   "date": "2021-07-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:168043797:por",
+     "title": "Portaria n.º 157/2021",
+     "published": "2021-07-22",
+     "dre_path": "/dr/detalhe/portaria/157-2021-168043797"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "168154786",
+    "168154787",
+    "168154788",
+    "168154789",
+    "168154791"
+   ]
+  },
+  {
+   "date": "2023-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223906282:por",
+     "title": "Portaria n.º 338/2023",
+     "published": "2023-11-07",
+     "dre_path": "/dr/detalhe/portaria/338-2023-223906282"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "168154786",
+    "168154787",
+    "168154788",
+    "168154789",
+    "223763764"
+   ]
+  }
+ ],
+ "fragments": {
+  "168154786": {
+   "fragment_id": "168118389",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 215/2020\n\nde 10 de setembro\n\nSumário: Aprova o novo modelo da declaração recapitulativa a que se referem a alínea i) do n.º 1 do artigo 29.º do Código do IVA e a alínea c) do n.º 1 do artigo 30.º do Regime do IVA nas Transações Intracomunitárias, bem como as respetivas instruções de preenchimento.\n\nDe harmonia com as alterações introduzidas na legislação nacional pela Lei n.º 49/2020, de 24 de agosto, que transpôs as Diretivas (UE) 2018/1910 do Conselho, de 4 de dezembro de 2018 e 2019/475 do Conselho, de 18 de fevereiro de 2019, é alterada a declaração recapitulativa a que se referem a alínea i) do n.º 1 do artigo 29.º do Código do IVA e a alínea c) do n.º 1 do artigo 23.º do Regime do IVA nas Transações Intracomunitárias.\n\nAs alterações que agora se introduzem na declaração recapitulativa visam, no essencial, a sua adaptação ao regime de vendas à consignação em transferências intracomunitárias de bens, constante do atual artigo 7.º-A do Regime do IVA nas Transações Intracomunitárias (RITI) e previsto no artigo 17.º-A da Diretiva 2006/112/CE do Conselho, de 28 de novembro de 2006, relativa ao sistema comum do imposto sobre o valor acrescentado, aditado pela Diretiva (UE) 2018/1910 do Conselho, de 4 de dezembro de 2018.\n\nA presente declaração recapitulativa substitui a declaração recapitulativa anterior, aprovada pela Portaria n.º 987/2009, de 7 de setembro.\n\nA produção de efeitos desta portaria retroage a 1 de janeiro de 2020, de harmonia com o previsto no artigo 7.º da Lei n.º 49/2020, de 24 de agosto.\n\nAssim, manda o Governo, pelo Secretário de Estado Adjunto e dos Assuntos Fiscais, ao abrigo do artigo 8.º do Decreto-Lei n.º 394-B/84, de 26 de dezembro, o seguinte:"
+  },
+  "168154787": {
+   "fragment_id": "168118390",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado o novo modelo da declaração recapitulativa a que se referem a alínea i) do n.º 1 do artigo 29.º do Código do IVA e a alínea c) do n.º 1 do artigo 30.º do Regime do IVA nas Transações Intracomunitárias, bem como as respetivas instruções de preenchimento, que se publicam em anexo."
+  },
+  "168154788": {
+   "fragment_id": "168118391",
+   "type": 11,
+   "heading": "Artigo 2.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Produção de efeitos\n\nA presente portaria produz efeitos a 1 de janeiro de 2020."
+  },
+  "168154790": {
+   "fragment_id": "168118393",
+   "type": 14,
+   "heading": "Anexo — Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estados-Membros\n\n(ver documento original)\n\n113550088"
+  },
+  "168154789": {
+   "fragment_id": "168118392",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e dos Assuntos Fiscais, António Mendonça Mendes, em 8 de setembro de 2020.\n\n(ver documento original)"
+  },
+  "168154791": {
+   "fragment_id": "168118393",
+   "type": 14,
+   "heading": "Anexo — Estados-Membros",
+   "in_force_from": "2021-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/157-2021-168043797), em vigor a partir de 2021-07-23"
+   ],
+   "markdown": "## Anexo — Estados-Membros\n\n(ver documento original)\n\n113550088\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/157-2021-168043797), em vigor a partir de 2021-07-23"
+  },
+  "223763764": {
+   "fragment_id": "168118393",
+   "type": 14,
+   "heading": "Anexo — Modelo da declaração recapitulativa e respetivas instruções de preenchimento",
+   "in_force_from": "2023-11-08",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 338/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/portaria/338-2023-223906282), em vigor a partir de 2023-11-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/157-2021-168043797), em vigor a partir de 2021-07-23"
+   ],
+   "markdown": "## Anexo — Modelo da declaração recapitulativa e respetivas instruções de preenchimento\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223900366)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223900367)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223900368)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223900369)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223900370)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223900371)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223900372)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223900373)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223900374)\n\n113550088\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 338/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/portaria/338-2023-223906282), em vigor a partir de 2023-11-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/157-2021-168043797), em vigor a partir de 2021-07-23"
+  }
+ }
+}

@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:457601:por
+title: Decreto-Lei n.º 533/80
+short_title: null
+summary: Revoga parcialmente o Decreto-Lei n.º 509/79, de 24 de Dezembro (orçamento de programas relativo à pesca de trombeteiros)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Agricultura e Pescas
+proposing_entity: null
+official_number: 533/80
+official_date: null
+publication_date: '1980-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 257/1980, Série I de 1980-11-06
+  number: '257'
+  series: I
+  supplement: null
+  pages: 3770 - 3771
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25700/37703771.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '457601'
+  dre_path: /dr/detalhe/decreto-lei/533-1980-457601
+  internal: pt:dre:457601:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1980-457601
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1980-457601
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-05-08T00:00:00Z'
+integrity:
+  source_sha256: d50627f3f8e1ac2b02680d9fe543c311fa61ab1976d2a830f21bb879f3f779e6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-533-457601.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 533/80
+
+de 6 de Novembro
+
+Os conhecimentos, embora precários, acerca da existência de importantes cardumes de trombeteiros na costa portuguesa apontam para uma grande variabilidade, quer geográfica, quer temporal, na distribuição e abundância desse recurso, o que não justifica, no momento, a realização de vultosos investimentos na construção de unidades especialmente destinadas à sua captura.
+
+Com efeito, se, por um lado, urge fomentar a captura de trombeteiros com vista ao aprovisionamento das fábricas de farinhas e óleos de peixe, cuja capacidade se encontra subaproveitada por falta de matéria-prima, é necessário, por outro, que se evite a construção de novas embarcações, que, não oferecendo condições de rentabilidade na sua exploração, poderiam, em breve, ser forçadas a paralisar, em consequência da ausência de pescado.
+
+A prudência aconselha, pois, que a intensificação da captura de trombeteiros seja feita através da utilização de embarcações usadas cuja exploração em outras modalidades de pesca se mostre antieconómica, conforme, aliás, se preconiza no Regulamento da Pesca Costeira dos Trombeteiros, aprovado pela [Portaria n.º 558/80](https://diariodarepublica.pt/dr/detalhe/portaria/558-1980-463992), de 2 de Setembro.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo único. É expressamente revogado, na parte respeitante à construção de embarcações necessárias ao aumento da disponibilidade dos meios de captura de trombeteiros através da pesca de arrasto, o orçamento de programas aprovado pelo [Decreto-Lei n.º 509/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/509-1979-393869), de 24 de Dezembro.
+
+Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1980. - Francisco Sá Carneiro.
+
+**Promulgado em 25 de Outubro de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

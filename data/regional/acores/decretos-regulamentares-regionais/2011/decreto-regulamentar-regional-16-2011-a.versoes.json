@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:670532:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2011-131016753",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/16-2011-670532",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-06-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "131010444",
+    "131010445",
+    "131010446",
+    "131010447"
+   ]
+  },
+  {
+   "date": "2020-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:131016735:por",
+     "title": "Decreto Regulamentar Regional n.º 8/2020/A",
+     "published": "2020-04-02",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/8-2020-131016735"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "131010444",
+    "131010458",
+    "131010446",
+    "131010447",
+    "131010448"
+   ]
+  }
+ ],
+ "fragments": {
+  "131010444": {
+   "fragment_id": "131016754",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 16/2011/A\n\nO período particularmente exigente, bem expresso no recente pedido de ajuda externa efectuado pelo Estado Português, constitui um sério desafio ao desempenho orçamental do Estado e, por consequência, da Região Autónoma.\n\nDeste modo, a consolidação orçamental no sector da saúde obriga a que se tomem medidas promotoras da utilização eficiente dos recursos e da diminuição da despesa.\n\nA comparticipação do utente no preço dos serviços prestados pelas unidades de saúde, prevista no Estatuto do Serviço Regional de Saúde dos Açores tem como principal objectivo moderar a procura pelos serviços de saúde, combatendo a sua má utilização e promovendo a optimização dos recursos.\n\nNo âmbito do Decreto Legislativo Regional n.º 28/99/A, de 31 de Julho, com a redacção dada pelos Decretos Legislativos Regionais n.os 2/2007/A e 1/2010/A, respectivamente de 24 de Janeiro e de 4 de Janeiro, designadamente o seu artigo 28.º, importa pois definir os beneficiários cuja situação os coloque num quadro de maior fragilidade, e que por esse motivo estarão isentos do pagamento das taxas moderadoras.\n\nAssim, ao abrigo da alínea d) do artigo 227.º da Constituição, da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e nos termos do artigo 28.º do Decreto Legislativo Regional n.º 28/99/A, de 31 de Julho, o Governo Regional decreta o seguinte:"
+  },
+  "131010445": {
+   "fragment_id": "131016755",
+   "type": 11,
+   "heading": "Artigo 1.º — Taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Taxas moderadoras\n\n1 - O acesso às prestações de saúde no âmbito do Serviço Regional de Saúde dos Açores implica o pagamento de taxas moderadoras nos casos seguintes:\n\na) Nos serviços de urgência hospitalares, de unidades de saúde de ilha e de centros de saúde;\n\nb) Nas consultas médicas nos hospitais, nas unidades de saúde de ilha, nos centros de saúde e em outros serviços de saúde públicos ou privados convencionados;\n\nc) Na realização de meios complementares de diagnóstico e de terapêutica, designadamente análises clínicas e sessões de fisioterapia, em serviços de saúde públicos ou privados convencionados, com excepção dos efectuados em regime de internamento.\n\n2 - Os actos e os valores das taxas moderadoras são aprovados por portaria conjunta dos membros do Governo Regional competentes em matéria de finanças e de saúde, sendo revistos e actualizados anualmente tendo em conta, nomeadamente, o índice da inflação.\n\n3 - O valor das taxas previstas no número anterior não pode exceder um terço do valor constante na tabela de preços do Serviço Regional de Saúde para actos semelhantes."
+  },
+  "131010446": {
+   "fragment_id": "131016756",
+   "type": 11,
+   "heading": "Artigo 2.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Isenções\n\nEstão isentos do pagamento das taxas moderadoras ou gozam de redução de taxa os beneficiários que se encontrem nas situações previstas na legislação nacional sobre a matéria."
+  },
+  "131010447": {
+   "fragment_id": "131016757",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação."
+  },
+  "131010458": {
+   "fragment_id": "131016755",
+   "type": 11,
+   "heading": "Artigo 1.º — Taxas moderadoras",
+   "in_force_from": "2020-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 8/2020/A - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2020-131016735), em vigor a partir de 2020-04-03"
+   ],
+   "markdown": "###### Artigo 1.º — Taxas moderadoras\n\n1 - O acesso a prestações de saúde no âmbito do Serviço Regional de Saúde dos Açores implica o pagamento de taxas moderadoras nas seguintes situações:\n\na) Nos serviços de urgência hospitalar e unidades básicas de urgência;\n\nb) Nas consultas, atos complementares prescritos e outras prestações de saúde, se a origem de referenciação para estas não for o Serviço Regional de Saúde ou o Serviço Nacional de Saúde.\n\n2 - Os atos e valores das taxas moderadoras são aprovados por portaria conjunta dos membros do Governo Regional competentes em matéria de finanças e de saúde.\n\n3 - O valor das taxas previstas no número anterior não pode exceder um terço do valor constante na tabela de preços do Serviço Regional de Saúde para actos semelhantes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 8/2020/A - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2020-131016735), em vigor a partir de 2020-04-03"
+  },
+  "131010448": {
+   "fragment_id": "131016758",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pelo Conselho do Governo Regional, em Ponta Delgada, em 11 de Maio de 2011.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 14 de Junho de 2011.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  }
+ }
+}

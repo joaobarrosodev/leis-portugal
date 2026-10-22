@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:169914:por
+title: Decreto n.º 43641
+short_title: null
+summary: Dá nova redacção ao artigo 192.º do Decreto n.º 37029, que promulga o Estatuto do Ensino Profissional Industrial
+  e Comercial
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação Nacional - Direcção-Geral do Ensino Técnico Profissional
+proposing_entity: null
+official_number: '43641'
+official_date: null
+publication_date: '1961-05-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 102/1961, Série I de 1961-05-02
+  number: '102'
+  series: I
+  supplement: null
+  pages: 517 - 517
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/05/10200/05170517.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '169914'
+  dre_path: /dr/detalhe/decreto/43641-1961-169914
+  internal: pt:dre:169914:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/43641-1961-169914
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43641-1961-169914
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1961-05-02T00:00:00Z'
+integrity:
+  source_sha256: 45a4a55e3b24f8e4cf18ef8e64050f7657301ad049e0e10ecda37107ef9130a1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1961/DRE-1961-43641-169914.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 43641
+
+Tornando-se necessário, para conveniência do ensino, alterar o disposto no artigo 192.º do estatuto promulgado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo único. O artigo 192.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, passa a ter a seguinte redacção:
+
+###### Art. 192.º Mediante proposta dos conselhos escolares, devidamente fundamentada na conveniência do ensino, poderá o Ministro determinar que aos concursos para professores efectivos do 2.º grupo sejam exclusivamente admitidos engenheiros mecânicos ou electrotécnicos; do 3.º grupo, exclusivamente engenheiros civis ou arquitectos; do 4.º grupo, exclusivamente engenheiros ou licenciados em Ciências Físico-Químicas ou, ainda, licenciados em Ciências Económicas e Financeiras; do 5.º grupo, exclusivamente pintores ou escultores.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 2 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Francisco de Paula Leite Pinto.

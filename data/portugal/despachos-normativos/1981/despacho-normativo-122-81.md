@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:389019:por
+title: Despacho Normativo n.º 122/81
+short_title: null
+summary: Altera a alínea b) do n.º 1 do Despacho Normativo n.º 83/79, de 4 de Abril [autoriza, no âmbito das necessidades
+  de reequipamento da CP - Caminhos de Ferro Portugueses, E. P., um investimento de 1300000 contos na aquisição de quinze
+  unidades triplas eléctricas (UTE) à Sorefame]
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e dos Transportes e Comunicações
+proposing_entity: null
+official_number: 122/81
+official_date: null
+publication_date: '1981-04-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 89/1981, Série I de 1981-04-16
+  number: '89'
+  series: I
+  supplement: null
+  pages: 964 - 964
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/04/08900/09640964.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '389019'
+  dre_path: /dr/detalhe/despacho-normativo/122-1981-389019
+  internal: pt:dre:389019:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/122-1981-389019
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/122-1981-389019
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-04-16T00:00:00Z'
+integrity:
+  source_sha256: 4a2f7cff18ab8097dc49fa8bfb5561c4bb06479b867b91318d960a1f51e6cb8d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-122-389019.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 122/81
+
+Vem a CP-Caminhos de Ferro Portugueses, E. P., procedendo à negociação de vários financiamentos, no sentido de poder dar integral cumprimento ao plano de investimentos autorizado pelo [Despacho Normativo n.º 83/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/83-1979-382667), de 4 de Abril, consubstanciado na aquisição de 15 UTE à Sorefame, no valor global de 1300000 contos (preço base).
+
+No entanto, além de não se terem verificado integralmente os pressupostos contidos no n.º 2 daquele despacho normativo quanto à cobertura das revisões de preços através das dotações de capital, vem a empresa enfrentando dificuldades em obter o financiamento externo necessário por insuficiência de garantias.
+
+Assim, de acordo com o disposto nos n.os 2 e 3 do artigo 13.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a redacção introduzida pelo [Decreto-Lei n.º 25/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621), de 19 de Fevereiro, altera-se a alínea b) do n.º 1 do [Despacho Normativo n.º 83/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/83-1979-382667), que passa a ter a seguinte redacção:
+
+1 - ...
+
+...
+
+b) 485000 contos, através de financiamento externo, com a garantia do Banco Totta & Açores, de Lisboa, e outros e a contragarantia do Fundo Especial de Transportes Terrestres, dos quais 450000 contos integram o preço base e sendo o remanescente destinado a revisão de preços.
+
+Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 19 de Março de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.

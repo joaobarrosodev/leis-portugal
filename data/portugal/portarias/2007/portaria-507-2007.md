@@ -1,0 +1,225 @@
+---
+schema_version: '1.0'
+id: pt:dre:521064:por
+title: Portaria n.º 507/2007
+short_title: null
+summary: Estabelece a estrutura nuclear da Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas e as competências
+  das respectivas unidades orgânicas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios dos Negócios Estrangeiros e das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 507/2007
+official_date: null
+publication_date: '2007-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2007, Série I de 2007-04-30
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2808 - 2809
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/28082809.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/507/2007/04/30/p/dre/pt/html
+  oj: null
+  dre: '521064'
+  dre_path: /dr/detalhe/portaria/507-2007-521064
+  internal: pt:dre:521064:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/507-2007-521064
+  metadata_url: https://data.dre.pt/eli/port/507/2007/04/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/507-2007-521064
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-04-30T00:00:00Z'
+integrity:
+  source_sha256: 78289a7cb2e7bf2ab3415ecbc94e43d978db7ff6cace14bd3b2cfbb5a86ccab4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-507-521064.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
+- Orgânica
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/47/2007/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/47/2007/04/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 507/2007
+
+de 30 de Abril
+
+A Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas (DGACCP) é o serviço do Ministério dos Negócios Estrangeiros (MNE) cuja missão se insere no domínio da gestão dos postos consulares e da realização da protecção consular, assegurando a efectividade e a continuidade da acção governativa no âmbito da política de apoio à emigração e às comunidades portuguesas no estrangeiro.
+
+O [Decreto Regulamentar n.º 47/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-2007-521017), de 27 de Abril, definiu a missão, atribuições e tipo de organização interna da DGACCP. Importa agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear dos serviços e competências das respectivas unidades orgânicas.
+
+Assim:
+
+Ao abrigo do n.º 4 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro:
+
+Manda o Governo, pelos Ministros de Estado e dos Negócios Estrangeiros e de Estado e das Finanças, o seguinte:
+
+###### Artigo 1.º — Estrutura nuclear
+
+1 - A Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, abreviadamente designada por DGACCP, estrutura-se nas seguintes unidades orgânicas nucleares:
+
+a) Direcção de Serviços de Administração e Protecção Consulares;
+
+b) Direcção de Serviços de Emigração;
+
+c) Direcção de Serviços de Vistos e Circulação de Pessoas;
+
+d) Direcção de Serviços Regional.
+
+2 - A Direcção de Serviços Regional tem a sua localização no Porto.
+
+###### Artigo 2.º — Direcção de Serviços de Administração e Protecção Consulares
+
+1 - A Direcção de Serviços de Administração e Protecção Consulares, abreviadamente designada por APC, é o serviço responsável pela protecção consular e pela avaliação, coordenação e gestão da actividade das secções e dos postos consulares, bem como pela promoção das relações de carácter económico e comercial entre as comunidades portuguesas no estrangeiro e Portugal.
+
+2 - À APC compete:
+
+a) Assegurar o apoio consular aos cidadãos portugueses no estrangeiro no âmbito dos actos de protecção consular previstos no regulamento consular, nomeadamente nos casos de prestação de socorros, repatriação, assistência a detidos e a familiares de falecidos, bem como em situações de emergência, de risco, de calamidade ou de catástrofe;
+
+b) Cooperar e interagir com os agentes e operadores turísticos no sentido de antecipar o conhecimento da presença de portugueses no estrangeiro, com a salvaguarda dos direitos, liberdades e garantias previstos na lei, propondo a realização de repatriações e colaborar em operações de evacuação;
+
+c) Garantir, em colaboração com as entidades competentes, o fluxo de informação de carácter económico para os consulados, bem como a sua adequada divulgação junto dos agentes económicos estrangeiros;
+
+d) Estudar, planear e coordenar acções destinadas a prevenir, controlar e gerir situações de crise ou emergência, mantendo actualizada a informação necessária à caracterização daquelas situações;
+
+e) Propor a criação, extinção e encerramento dos postos e secções consulares, delimitar a sua área de jurisdição, bem como coordenar e supervisionar a sua actividade e organização;
+
+f) Propor a nomeação e exoneração dos cônsules honorários e acompanhar a sua actividade;
+
+g) Assegurar a modernização e informatização das secções e dos postos consulares, nomeadamente através da elaboração de planos de acção anuais, onde sejam definidos os objectivos a atingir, o planeamento das tarefas a desenvolver e os meios humanos e materiais a alocar, e respectiva concretização;
+
+h) Verificar a aplicação da tabela de emolumentos consulares e a arrecadação da correspondente receita, mantendo a necessária articulação com os demais serviços;
+
+i) Dar parecer sobre a dotação em recursos humanos e financeiros dos postos e secções consulares;
+
+j) Organizar e manter actualizada informação sobre os alertas de segurança e saúde e demais avisos pertinentes, divulgando-a, através do recurso à Internet e outros meios de difusão de informação;
+
+l) Estabelecer meios eficazes de relacionamento interministerial, nomeadamente utilizando os canais instituídos no âmbito do Conselho Nacional de Planeamento Civil de Emergência;
+
+m) Promover o processo conducente à emissão de passaportes e outros documentos de viagem concedidos pelos postos e secções consulares;
+
+n) Dirigir e fiscalizar os actos e funções de registo civil e notariado praticados pelos postos e secções consulares;
+
+o) Proceder ao reconhecimento das assinaturas dos funcionários consulares portugueses quando não estiverem autenticadas com o selo branco ou ofereçam dúvidas;
+
+p) Analisar e tratar as queixas e reclamações relativas aos serviços e atendimento nos postos consulares e propor eventuais medidas a tomar, sem prejuízo das competências próprias da Inspecção-Geral Diplomática e Consular.
+
+###### Artigo 3.º — Direcção de Serviços de Emigração
+
+1 - A Direcção de Serviços de Emigração, abreviadamente designada por DSE, é o serviço responsável pelo apoio aos portugueses residentes no estrangeiro, lusodescendentes e aos emigrantes regressados a Portugal, através da dinamização do associativismo e da promoção de acções culturais.
+
+2 - À DSE compete:
+
+a) Promover acções de carácter cultural e colaborar nas iniciativas de institutos e centros difusores de cultura portuguesa no território nacional e no estrangeiro;
+
+b) Proceder à credenciação das entidades que se registarem junto da DGACCP e apresentarem os respectivos estatutos, o plano de actividades e o relatório de actividades e contas, organizando e mantendo actualizado um registo das associações e federações das comunidades portuguesas;
+
+c) Colaborar, com as entidades competentes, na programação e execução de iniciativas que visem a preservação e difusão da língua portuguesa nas comunidades portuguesas no estrangeiro, bem como desenvolver contactos com entidades estrangeiras que possam igualmente contribuir para aqueles fins;
+
+d) Promover, em território nacional, em colaboração com entidades públicas e privadas, acções de apoio social e económico ao emigrante e seus familiares, designadamente através da articulação com o ministério competente e da cooperação com os municípios, destinadas a facilitar o seu ingresso ou a reintegração na vida activa, nomeadamente através da promoção de acções de formação profissional;
+
+e) Promover, em colaboração com outras entidades, acções visando a preparação dos cidadãos portugueses que pretendam trabalhar no estrangeiro ou seus familiares, nomeadamente as relativas ao ensino da língua dos países de acolhimento, designadamente através da cooperação com os municípios;
+
+f) Acompanhar as operações tendentes ao exercício da actividade profissional por cidadãos portugueses no estrangeiro, prestando a estes e aos empregadores a informação e apoio necessários;
+
+g) Colaborar com as entidades competentes na fiscalização da actividade de entidades privadas que, em território nacional, procedem à contratação de cidadãos portugueses para trabalhar no estrangeiro e cooperar na prevenção e repressão dos actos ilícitos nesse domínio;
+
+h) Promover, em articulação com os ministérios competentes, a celebração de acordos internacionais sobre emigração, participando nas respectivas negociações e acompanhando a execução desses instrumentos, sempre que possível, em estreita colaboração com os países de acolhimento, bem como celebração e revisão de acordos sobre segurança social, destinados, entre outros, a garantirem os benefícios da segurança social aos familiares dos emigrantes;
+
+i) Criar e manter actualizado um banco de dados informatizado, com o objectivo de permitir a caracterização permanente das comunidades portuguesas, elaborando informações actualizadas, com tratamento sistematizado e estatístico sobre as mesmas;
+
+j) Assegurar o atendimento público aos cidadãos que se dirijam à DGACCP em matérias relacionadas com emigração, nomeadamente em matéria de segurança social, emprego, investimento, ensino, benefícios fiscais e sociais e informações de carácter jurídico, produzindo e divulgando, em Portugal e no estrangeiro, informação especializada sobre matérias de interesse para os portugueses residentes no estrangeiro;
+
+l) Organizar, coordenar e executar acções de formação profissional que tenham por destinatários cidadãos portugueses residentes no estrangeiro e lusodescendentes ou emigrantes regressados a Portugal, em colaboração com outros departamentos do Estado ou em parceria com outros países da União Europeia.
+
+###### Artigo 4.º — Direcção de Serviços de Vistos e Circulação de Pessoas
+
+1 - A Direcção de Serviços de Vistos e Circulação de Pessoas, abreviadamente designada por VCP, é o serviço responsável pelas matérias relativas à emissão de vistos e circulação de pessoas.
+
+2 - À VCP compete:
+
+a) Tratar dos assuntos relativos à emissão de vistos pelos postos e secções consulares, com eventual consulta a outros departamentos;
+
+b) Participar em organismos e em reuniões de carácter interno, comunitário ou internacional sobre vistos, circulação de pessoas e outras formalidades de fronteira;
+
+c) Garantir, nos termos legais, a protecção dos dados recolhidos que se encontrem à sua guarda;
+
+d) Participar na negociação e na denúncia de acordos sobre vistos, circulação de pessoas e outras formalidades de fronteira, bem como assegurar o cumprimento das obrigações assumidas, sem prejuízo da competência de outros serviços;
+
+e) Avaliar a execução dos instrumentos internacionais cuja aplicação se faça reflectir ao nível nacional e propor eventuais alterações.
+
+###### Artigo 5.º — Direcção de Serviços Regional
+
+Compete à Direcção de Serviços Regional, abreviadamente designada por DSR, em articulação com as demais direcções de serviços da DGACCP:
+
+a) Cooperar na preparação da saída para o estrangeiro de portugueses que desejem emigrar, prestando-lhes, designadamente, a informação e o apoio adequados;
+
+b) Cooperar na prevenção de actividades ilícitas referentes à emigração;
+
+c) Prestar apoio aos portugueses residentes no estrangeiro e seus familiares regressados temporária ou definitivamente a Portugal e facilitar o seu contacto com outros serviços públicos;
+
+d) Colaborar no acolhimento dos portugueses regressados a Portugal em situação de doença ou de outra forma de vulnerabilidade, prestando-lhes a necessária assistência imediata;
+
+e) Prestar apoio técnico a outros organismos e serviços que prossigam idênticos objectivos de apoio aos portugueses residentes no estrangeiro e seus familiares regressados temporária ou definitivamente a Portugal;
+
+f) Desempenhar quaisquer outras funções que lhes sejam determinadas pelo director-geral.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Em 27 de Abril de 2007.
+
+Pelo Ministro de Estado e dos Negócios Estrangeiros, António Fernandes da Silva Braga, Secretário de Estado das Comunidades Portuguesas. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos.

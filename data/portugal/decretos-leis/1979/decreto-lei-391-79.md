@@ -1,0 +1,1675 @@
+---
+schema_version: '1.0'
+id: pt:dre:369812:por
+title: Decreto-Lei n.º 391/79
+short_title: null
+summary: Aprova o Regulamento das Contrastarias
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 391/79
+official_date: null
+publication_date: '1979-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 218/1979, Série I de 1979-09-20
+  number: '218'
+  series: I
+  supplement: null
+  pages: 2446 - 2464
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21800/24462464.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-11-16'
+version_history:
+  file: decreto-lei-391-79.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1979-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-11-13'
+    amending: pt:dre:550069:por
+    amending_title: Decreto-Lei n.º 384/89
+    changes:
+    - Altera Artigo 1.º
+  - date: '1998-03-21'
+    amending: pt:dre:186542:por
+    amending_title: Decreto-Lei n.º 57/98
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 57.º
+    - Altera Artigo 70.º
+    - Altera Artigo 74.º
+    - Altera Artigo 77.º
+    - Altera Artigo 78.º
+    - Altera Artigo 97.º
+    - Altera Artigo 99.º
+    - Altera Artigo 102.º
+    - Altera Artigo 108.º
+    - Entrada Vigor Diploma
+    - Revoga Artigo 10.º
+    - Revoga Artigo 105.º
+  - date: '1999-05-24'
+    amending: pt:dre:323950:por
+    amending_title: Decreto-Lei n.º 171/99
+    changes:
+    - Entrada Vigor Diploma
+    - Revoga Artigo 59.º
+    - Revoga Artigo 60.º
+    - Revoga Artigo 61.º
+    - Revoga Artigo 62.º
+    - Revoga Artigo 63.º
+    - Revoga Artigo 64.º
+    - Revoga Artigo 65.º
+    - Revoga Artigo 66.º
+    - Revoga Artigo 67.º
+    - Revoga Artigo 68.º
+    - Revoga Artigo 69.º
+    - Revoga Artigo 71.º
+    - Revoga Artigo 72.º
+    - Revoga Artigo 73.º
+    - Revoga Artigo 74.º
+    - Revoga Artigo 75.º
+    - Revoga Artigo 76.º
+    - Revoga Artigo 95.º
+    - Revoga Artigo 96.º
+  - date: '1999-11-16'
+    amending: pt:dre:570109:por
+    amending_title: Decreto-Lei n.º 365/99
+    changes:
+    - Altera Artigo 31.º
+    - Entrada Vigor Diploma
+  - date: '2004-04-01'
+    amending: pt:dre:210424:por
+    amending_title: Decreto-Lei n.º 75/2004
+    changes:
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+    - Entrada Vigor Diploma
+  - date: '2015-11-16'
+    amending: pt:dre:70042475:por
+    amending_title: Lei n.º 98/2015
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/391/1979/p/cons/20150818/pt/html
+  oj: null
+  dre: '369812'
+  dre_path: /dr/detalhe/decreto-lei/391-1979-369812
+  internal: pt:dre:369812:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1979-369812
+  metadata_url: https://data.dre.pt/eli/dec-lei/391/1979/p/cons/20150818/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-34483775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-34483775
+  retrieved_at: '2026-10-22T11:44:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: fe162127b02108a79bc8ccbdc5e234e8e00f5a54364cfda69f682a2ddc0cc356
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:44:57Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-391-79.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Contrastaria
+- Imprensa Nacional-Casa da Moeda
+- Indústria de Ourivesaria e Relojoaria
+- Joalharia e Ourivesaria
+- Licenciamento
+- Lisboa
+- Orgânica
+- Porto
+- Regulamento das Contrastarias
+relationships:
+- type: amended_by
+  target: pt:dre:550069:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1989-550069
+  date: '1989-11-08'
+- type: amended_by
+  target: pt:dre:186542:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 7.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 14.º;
+    Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 34.º; Altera Artigo 35.º; Altera Artigo 57.º; Altera Artigo 70.º;
+    Altera Artigo 74.º; Altera Artigo 77.º; Altera Artigo 78.º; Altera Artigo 97.º; Altera Artigo 99.º; Altera Artigo 102.º;
+    Altera Artigo 108.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542
+  date: '1998-03-16'
+- type: amended_by
+  target: pt:dre:323950:por
+  label: Entrada Vigor Diploma; Revoga Artigo 59.º; Revoga Artigo 60.º; Revoga Artigo 61.º; Revoga Artigo 62.º; Revoga Artigo
+    63.º; Revoga Artigo 64.º; Revoga Artigo 65.º; Revoga Artigo 66.º; Revoga Artigo 67.º; Revoga Artigo 68.º; Revoga Artigo
+    69.º; Revoga Artigo 71.º; Revoga Artigo 72.º; Revoga Artigo 73.º; Revoga Artigo 74.º; Revoga Artigo 75.º; Revoga Artigo
+    76.º; Revoga Artigo 95.º; Revoga Artigo 96.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950
+  date: '1999-05-19'
+- type: amended_by
+  target: pt:dre:570109:por
+  label: Altera Artigo 31.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1999-570109
+  date: '1999-09-17'
+- type: amended_by
+  target: pt:dre:210424:por
+  label: Altera Artigo 40.º; Altera Artigo 43.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2004-210424
+  date: '2004-03-27'
+- type: amended_by
+  target: pt:dre:70042475:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475
+  date: '2015-08-18'
+article_structure:
+  article_count: 124
+  section_count: 18
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:44:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 391/79
+
+1. A assinatura por Portugal da Convenção sobre o Contrôle e Marcação de Artigos de Metais Preciosos, feita oportunamente em Viena de Áustria e ainda por ratificar pelo Governo Português, tornou necessária a remodelação do Regulamento das Contrastarias, de 11 de Janeiro de 1932, aprovado pelo Decreto n.º 20740, da mesma data, e de toda a legislação complementar.
+
+2. A Convenção, de 15 de Novembro de 1972, salvaguardando embora as leis internas de cada Estado signatário, em especial no que concerne à possibilidade da não autorização de importação de artigos de toque inferior a um padrão mínimo, criou, para funcionar como penhor de garantia, uma «marca comum de contrôle (MCC)», a utilizar pelas contrastarias nacionais dos países da EFTA e que, em obediência ao princípio do reconhecimento mútuo de testes e inspecções, permite a livre circulação dos objectos entre esses mesmos países, o que naturalmente facilitará a exportação dos artefactos de Portugal, tão apreciados pelo estrangeiro.
+
+3. Outras alterações estabelecidas na Convenção, tais como as relativas a exposições e venda, a títulos e tolerâncias dos artefactos de metais preciosos, a toque de soldas, a disciplina de fabrico e a novos métodos de análise, determinaram a consequente adaptação e actualização de um diploma já cinquentenário.
+
+4. Aproveita-se a oportunidade para revogar o Regulamento de 1932 e demais legislação complementar, alterando-se por diploma autónomo as taxas e os emolumentos de ensaio e marca fixados em 1924 e revistos em 1932 e em 1970.
+
+5. A alteração do Regulamento das Contrastarias, por que se vêm regendo os serviços de contraste, é feita nos termos do disposto no n.º 1 do artigo 12.º do Decreto-Lei n.º 225/72, de 4 de Julho.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+É aprovado o Regulamento das Contrastarias, anexo ao presente decreto-lei.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 2.º
+
+São mantidas as Contrastarias de Lisboa e do Porto e, desta dependente, o Posto de Gondomar.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 3.º
+
+As cauções, emolumentos, taxas e licenças previstos nos artigos 40.º, 41.º, 75.º, 82.º, 83.º, 84.º, 85.º, n.º 1, 87.º, 88.º, 89.º, 90.º, 93.º e 95.º, n.º 1, do Regulamento das Contrastarias serão estabelecidos por portaria conjunta dos Ministros das Finanças e do Plano e da Indústria e Tecnologia.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 4.º
+
+São revogados os seguintes diplomas legais: Decretos-Leis n.os 32671, de 18 de Fevereiro de 1943, 48073, de 24 de Novembro de 1967, e 334/70, de 15 de Julho, e Decretos n.os 20740, de 11 de Janeiro de 1932, 22091, de 10 de Janeiro de 1933, 22484, de 2 de Maio de 1933, 28117, de 28 de Outubro de 1937, e 43719, de 31 de Maio de 1961.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+Visto e aprovado em Conselho de Ministros de 25 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto.
+
+Promulgado em 6 de Setembro de 1979.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+## Anexo — REGULAMENTO DAS CONTRASTARIAS
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo I — (Da sua constituição, objectivo e garantias)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 1.º
+
+1 - As contrastarias são serviços oficiais essencialmente técnicos, integrados na empresa pública Imprensa Nacional-Casa da Moeda (INCM), e têm como especial função regular e fiscalizar, dentro das áreas da sua competência, o exercício da indústria e comércio de barras e medalhas comemorativas de metal precioso, de artefactos de ourivesaria, com o fim de garantir a espécie e toque dos respectivos metais, nos termos do presente Regulamento.
+
+2 - (Revogado).
+
+3 - Consideram-se metais preciosos a platina, o ouro e prata, bem como o irídio quando ligado à platina, e designa-se genericamente por «metal pobre» qualquer dos restantes metais.
+
+4 - Consideram-se artefactos de ourivesaria:
+
+a) Os objectos feitos total ou parcialmente de um ou mais metais preciosos de toque não inferior a 375(por mil), adornados ou não com pedras, pérolas ou esmaltes, com exclusão dos que se destinem a usos ou aplicações científicas, industriais, laboratoriais ou medicinais;
+
+b) Os relógios de uso pessoal com caixas de metal precioso de toque não inferior a 375(por mil), adornados ou não com pedras, pérolas ou esmalte.
+
+5 - (Revogado).
+
+6 - Consideram-se artefactos de metal precioso os artefactos de ourivesaria de toque superior a 500(por mil) e artefactos de liga de metal precioso os artefactos de toque igual ou superior a 375(por mil) mas igual ou inferior a 500(por mil).
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 384/89 - Diário da República n.º 257/1989, Série I de 1989-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1989-550069), em vigor a partir de 1989-11-13
+
+###### Artigo 2.º
+
+1 - São mantidas as duas contrastarias existentes, que tomam as designações de «Contrastaria de Lisboa» e «Contrastaria do Porto»; o número de contrastarias poderá, no entanto, ser aumentado, por simples decreto e sob proposta fundamentada da INCM, instalando-se os novos serviços em qualquer parte do território nacional onde a expansão e o desenvolvimento da indústria ou comércio o justifiquem.
+
+2 - À Contrastaria de Lisboa compete executar, além dos trabalhos que lhe são próprios, os que respeitam à laboração da INCM e que a sua administração resolva cometer-lhe.
+
+3 - A Contrastaria do Porto conservará em Gondomar, para servir a indústria local, um posto de recepção e entrega de artefactos de ourivesaria, que funcionará na sua directa dependência.
+
+4 - A área da Contrastaria de Lisboa abrange os distritos de Beja, Évora, Faro, Leiria, Lisboa, Portalegre, Santarém e Setúbal e, ainda, as Regiões Autónomas dos Açores e da Madeira, e a da Contrastaria do Porto compreende os distritos de Aveiro, Braga, Bragança, Castelo Branco, Coimbra, Guarda, Porto, Viana do Castelo, Vila Real e Viseu.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 3.º
+
+1 - As barras e medalhas comemorativas de metal precioso e os artefactos de ourivesaria só podem ser expostos para venda ao público em estabelecimentos exclusivamente destinados a este fim e quando se encontrem legalmente marcados, salvo os casos especialmente previstos neste Regulamento e as exposições de reconhecido carácter cultural ou de propaganda, cuja realização depende, em qualquer caso, de prévia autorização da respectiva contrastaria.
+
+2 - (Revogado).
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 4.º
+
+São proibidas as exposições para venda ao público de artefactos ou medalhas comemorativas em que se verifique a coexistência de metal precioso e metal pobre, com excepção dos casos especialmente autorizados neste Regulamento, dos artefactos destinados a usos científicos e dos vulgarmente conhecidos por plaqué, casquinha ou simplesmente dourados ou prateados.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 5.º
+
+1 - O possuidor de barras ou medalhas comemorativas de metal precioso ou de artefactos de ourivesaria, adquiridos em estabelecimento ou a vendedor ambulante devidamente matriculados, quando suspeite que, apesar de legalmente marcado, a espécie de metal ou metais não corresponde ao significado da marca do punção da contrastaria ou que o toque de algum dos metais é inferior ao toque legal garantido pela referida marca, pode submeter o objecto suspeito a exame de verificação em qualquer contrastaria.
+
+2 - Se o ensaio de verificação vier a confirmar a suspeita, a contrastaria que procedeu ao ensaio e marcação do objecto e o titular do punção de fabrico ou equivalente nele aplicado constituem-se solidariamente responsáveis no pagamento à pessoa lesada da importância correspondente à diferença entre o valor do metal ou metais garantidos e os seus reais valores, em face da cotação em vigor à data da compra do objecto, que será restituído ao seu possuidor depois de inutilizadas as marcas apostas.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 6.º
+
+O possuidor de barras ou medalhas comemorativas de metal precioso ou de artefactos de ourivesaria que tenha fundada suspeita da ilegalidade das marcas neles existentes pode requerer o ensaio de verificação em qualquer contrastaria. Confirmada a existência de facto irregular, a contrastaria apreenderá o objecto viciado e compelirá, sem prejuízo de outras sanções que no processo instaurado vierem a revelar-se aplicáveis ao caso, o responsável da prática da irregularidade ou o vendedor do objecto, quando não for possível a identificação daquele, a pagar ao lesado, como reparação do dano material sofrido, a importância que vier a ser arbitrada no referido processo.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo II — (Dos toques)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 7.º
+
+1 - Os metais preciosos que entram na confecção dos artefactos de ourivesaria ou nas medalhas comemorativas destinados à comercialização no território nacional terão os seguintes toques legais:
+
+Platina - 999 (por mil), 950 (por mil), 900 (por mil), 850 (por mil);
+
+Ouro - 999 (por mil), 916 (por mil), 800 (por mil), 750 (por mil), 585 (por mil), 375 (por mil);
+
+Prata - 999 (por mil), 925 (por mil), 835 (por mil), 830 (por mil), 800 (por mil).
+
+2 - Qualquer destes toques não admite tolerância para menos.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 8.º
+
+1 - Nos artefactos de ourivesaria de reconhecido merecimento arqueológico, histórico ou artístico, de fabrico anterior à criação das contrastarias, os metais preciosos que entrem na sua composição podem ter qualquer toque, desde que não seja inferior a 375(por mil).
+
+2 - Nestes artefactos, a existência de quaisquer acessórios de metal pobre, de presumível aplicação à data do fabrico do artefacto, ou de soldaduras de reparação que não afectem notoriamente o mérito da peça não poderá por si só constituir motivo impeditivo ao seu puncionamento.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 9.º
+
+O toque mínimo dos metais preciosos de artefactos marcados com punções de extintos contrastes municipais será de 750(por mil).
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 10.º
+
+1 - Os toques dos metais dos artefactos de ourivesaria destinados a comércio externo serão os seguintes:
+
+a) Platina - 950(por mil);
+
+b) Ouro - 750(por mil), 585(por mil) e 375(por mil);
+
+c) Prata - 925(por mil), 830(por mil) e 800(por mil).
+
+2 - Nestes toques admite-se a mesma tolerância atribuída aos artefactos destinados a comércio interno.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+### Capítulo III — (Das marcas de garantia)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 11.º
+
+1 - Diz-se que as barras e medalhas comemorativas de metal precioso, os artefactos de ourivesaria e os relógios de uso pessoal estão legalmente marcados quando:
+
+a) Sendo de fabrico nacional ou provenientes de países não abrangidos por convenção ou acordo internacional de que o Estado Português seja signatário ou aderente, tenham apostas marcas de punções de duas espécies, em lugares e posições convencionadas segundo o sistema de regras de marcação adoptado, as quais serão:
+
+1) Punção de fabrico ou equivalente;
+
+2) Punção ou punções de contrastaria;
+
+b) Sendo provenientes de algum Estado contratante de convenção ou acordo internacional de que o Estado Português seja signatário ou aderente, tenham apostas, nas precisas condições aí fixadas, a marca comum e outras que aqueles instrumentos considerem necessárias e suficientes à sua livre circulação nos países contratantes;
+
+c) Sendo proveniente de outro Estado membro da União Europeia respeitem as seguintes condições:
+
+1) Tenham apostos punção de fabrico ou equivalente e punção de toque;
+
+2) Esteja depositado na INCM documento comprovativo do registo do respectivo punção de fabrico ou equivalente no país de origem;
+
+3) O conteúdo informativo das marcas de garantia de toque seja reconhecido pelo Instituto Português da Qualidade como equivalente ao das marcas de garantia de toque estabelecidas no presente Regulamento e não seja susceptível de induzir em erro o consumidor;
+
+4) As marcas de garantia de toque tenham sido aplicadas por um organismo independente do país de origem, em condições reconhecidas como equivalentes às estabelecidas no presente Regulamento pelo Instituto Português da Qualidade;
+
+d) Em derrogação do disposto na alínea anterior, poderão ser objecto de acordos a celebrar com outros Estados membros as condições para o reconhecimento mútuo dos punções de fabrico e de toque.
+
+2 - Exceptuam-se os artefactos de reconhecido merecimento arqueológico, histórico ou artístico de fabrico anterior à criação das contrastarias e os que se encontram marcados com punções de extintos contrastes municipais, os quais, para se considerarem legalmente marcados, apenas carecem da marca do punção de contrastaria que lhes é exclusivamente reservada.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 12.º
+
+1 - O punção de fabrico ou equivalente é um punção privativo dos industriais, dos ensaiadores-fundidores ou dos importadores, consoante se destine a marcar os artefactos de ourivesaria e medalhas comemorativas de metal precioso de sua exclusiva produção, a marcar as barras fundidas e ensaiadas no seu laboratório ou a marcar os artefactos de origem estrangeira importados em seu nome, e serve para, como tais, os identificar, responsabilizando os industriais, os ensaiadores-fundidores ou os importadores por quaisquer vícios de fabrico, de fundição ou de qualidade inapreciáveis no ensaio da contrastaria ou praticados, após a marcação, com o seu comprovado conhecimento.
+
+2 - O uso do punção de fabrico ou equivalente é exclusivo da pessoa singular ou colectiva a favor de quem esteja registado ou de seus mandatários, sendo expressamente proibida a sua utilização ou reprodução por qualquer outra pessoa.
+
+3 - À violação desta proibição é aplicável a pena prevista no artigo 269.º do Código Penal.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 13.º
+
+1 - Os punções de contrastaria são cunhos do Estado que servem para aplicar as marcas de garantia do toque dos metais preciosos ou para assinalar determinadas circunstâncias e, nessa qualidade, a sua falsificação, contrafacção ou uso abusivo de que eventualmente sejam objecto constituem factos puníveis nos termos do Código Penal e do presente Regulamento.
+
+2 - Quando, em lugar das marcas dos punções de contrastaria, forem encontradas, nas barras ou medalhas comemorativas de metal precioso, artefactos de ourivesaria ou relógios de uso pessoal, quaisquer outras susceptíveis de, à vista desarmada, produzirem a impressão de que os objectos estão legalmente marcados, aplicar-se-ão os preceitos relativos ao uso do punção falso, sendo, porém, a multa reduzida a metade e podendo dispensar-se a baixa da matrícula e a remessa do processo ao tribunal criminal pela primeira infracção.
+
+3 - Igual protecção é assegurada aos punções de garantia de toque dos metais dos artefactos de ourivesaria, aprovados em convenções ou acordos internacionais de que o Estado Português seja ou venha a ser contratante como signatário ou aderente.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo IV — (Das matrículas e licenças)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 14.º
+
+1 - Toda a pessoa singular ou colectiva que pretenda exercer a indústria ou comércio de barras ou medalhas comemorativas de metal precioso, de artefactos de ourivesaria, pedras preciosas ou de relógios de uso pessoal com caixas de metal precioso deverá previamente requerer, para cada modalidade e para cada estabelecimento onde seja exercida a actividade, a respectiva matrícula na contrastaria em cuja área se localiza o estabelecimento ou, na sua falta, a residência.
+
+As matrículas de vendedores ambulantes e correctores de ourivesaria mantêm-se válidas quando se dê a mudança de residência do seu titular, que apenas fica obrigado a participar no prazo de 30 dias o local da nova residência para efeito de averbamento.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 15.º
+
+1 - As modalidades de matrícula a conceder pelas contrastarias conferem aos seus titulares as faculdades a seguir discriminadas, de acordo com as denominações dos ramos de actividade a que se destinam:
+
+a) Industrial de ourivesaria - Exercer, em fábrica ou oficina própria, instalada e equipada em obediência às condições legais em vigor, o fabrico de artefactos de ourivesaria, a exportação e a venda directa, a armazenistas ou mercadores, de produtos do seu fabrico e só destes, os quais, quando destinados a mercadores e em trânsito, deverão ser acompanhados da respectiva factura;
+
+b) (Revogada).
+
+c) Armazenista de ourivesaria - Exportar e fornecer a retalhistas os artefactos de ourivesaria e relógios de uso pessoal que, para o efeito, haja adquirido a industriais ou tenha importado directamente;
+
+d) Armazenista de relojoaria - Exportar ou importar e fornecer a retalhistas relógios de qualquer género que, para o efeito, tenha adquirido a industriais de ourivesaria ou importado directamente;
+
+e) Armazenista de pedras preciosas e pérolas - Importar e fornecer, a industriais e retalhistas de ourivesaria, pedras preciosas e pérolas naturais ou de cultura;
+
+f) Retalhista de ourivesaria:
+
+1) Expor e vender directamente ao público, no seu estabelecimento ou, quando munido de licença especial, em feiras e mercados realizados fora das cidades de Lisboa e Porto, artefactos de ourivesaria, barras, medalhas comemorativas e moedas de metais preciosos, relógios de qualquer género e pulseiras de qualquer espécie para adaptar a relógios de uso pessoal;
+
+2) Importar, para directa e exclusivamente vender ao público no seu estabelecimento, artefactos de ourivesaria e relógios de uso pessoal;
+
+g) Retalhista de relojoaria:
+
+1) Exportar e vender directamente ao público, no próprio estabelecimento ou em feiras e mercados fora das cidades de Lisboa e Porto, quando munido de licença especial para este efeito, relógios de qualquer género, cadeias de metais preciosos e pulseiras de qualquer espécie, aplicadas ou para aplicar a relógios de uso pessoal;
+
+2) Importar, para directa e exclusivamente vender ao público no seu estabelecimento, relógios de uso pessoal;
+
+h) Retalhista misto de ourivesaria - Expor e vender directamente ao público, em estabelecimento situado em localidade que não seja cidade ou onde não exista mais de um estabelecimento exclusivamente de ourivesaria ou, quando munido da licença especial, em feiras e mercados realizados fora das cidades de Lisboa e Porto, artefactos de ourivesaria, barras, medalhas comemorativas e moedas de metais preciosos e relógios de uso pessoal conjuntamente com quaisquer outros artigos cuja exposição e venda não esteja condicionada no presente Regulamento;
+
+i) (Revogada).
+
+j) Retalhista com estabelecimento especial:
+
+1) De artigos militares, papelaria, etc. - Importar, expor e vender directamente ao público, em conjunto com os artigos característicos do seu próprio ramo comercial, outros de igual denominação, mas providos, para efeito decorativo, de aplicações de metal precioso;
+
+2) De antiguidades - Expor e vender directamente ao público, conjuntamente com os artigos próprios do seu comércio, artefactos de ourivesaria com reconhecido merecimento arqueológico, histórico ou artístico, de fabrico anterior à criação das contrastarias ou que contenham marca de extintos contrastes municipais;
+
+3) De artesanato - Expor e vender directamente ao público, conjuntamente com os artigos próprios do seu comércio, artefactos de filigrana de ouro ou prata, desde que o estabelecimento se situe em zona de assinalado desenvolvimento turístico ou em locais de acesso e passagem obrigatória para turistas;
+
+k) Casa de penhores - A par da sua função mutuária, expor e vender directamente ao público barras, medalhas comemorativas e moedas de metais preciosos, artefactos de ourivesaria e relógios de uso pessoal provenientes dos penhores;
+
+l) Vendedor ambulante de ourivesaria - Exercer o comércio ambulante de artefactos de ourivesaria, relógios e medalhas comemorativas e moedas de metais preciosos, fora de cidades, onde não exista qualquer estabelecimento exclusivamente de ourivesaria e nas feiras e mercados realizados fora das cidades de Lisboa e Porto;
+
+m) (Revogada).
+
+n) Corretor de ourivesaria - Vender e promover vendas de artefactos de ourivesaria e relógios de uso pessoal a ou entre firmas devidamente matriculadas em qualquer das modalidades anteriores;
+
+o) Ensaiador-fundidor de metais preciosos - Afinar, fundir e ensaiar barras ou lâminas de metais preciosos e prover ao fornecimento destes metais, bem como ao de utensílios e materiais inerentes à arte de ourives.
+
+2 - É proibido o exercício de qualquer das actividades referidas no número anterior a quem não possua a respectiva matrícula ou não as circunscreva às limitações por ela definidas.
+
+3 - É permitida a compra e venda de barras, medalhas comemorativas e moedas de metais preciosos aos bancos e outros estabelecimentos de crédito, com dispensa de matrícula e licença.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 16.º
+
+1 - A concessão de matrícula de industrial de ourivesaria é da competência da administração da INCM, mediante parecer favorável do chefe da contrastaria respectiva, depois de ouvida a Associação dos Industriais de Ourivesaria, e recaindo o despacho em processo organizado e instruído, fundamentalmente, com as seguintes peças:
+
+a) Para industrial de ourivesaria:
+
+1) Certidão ou documento equivalente da escritura de constituição da sociedade, quando o requerente seja pessoa colectiva;
+
+2) Aprovação das instalações e equipamento da fábrica ou oficina pela circunscrição industrial competente, para efeito da sua imediata entrada em laboração;
+
+3) Nomeação de director técnico, responsável pela laboração da fábrica ou oficina, que poderá ser o próprio requerente, um dos sócios, se se tratar de pessoa colectiva, ou um dos empregados integrados no quadro do pessoal legalmente aprovado, desde que possua uma das seguintes habilitações:
+
+1. Curso professado em escola de artes decorativas, ou em escola técnica de ensino profissional, e adequado à espécie de trabalhos executados na fábrica ou oficina;
+
+2. Prática profissional na indústria de ourivesaria superior a dez anos, aliada a competência técnica, atestadas pelo sindicato a que pertença, além da escolaridade obrigatória de harmonia com a idade;
+
+3. Frequência e bom aproveitamento final de qualquer curso que venha a ser criado, organizado e mantido, com a aprovação do Ministério da Educação e Investigação Científica, pelas associações de industriais ou pelos sindicatos de ourives, com vista ao aperfeiçoamento técnico e cultural dos profissionais de ourivesaria, além da escolaridade obrigatória de harmonia com a idade;
+
+4. Prática de direcção técnica de fábrica ou oficina, existente à data da publicação deste Regulamento e legalmente matriculada em seu nome individual ou de pessoa colectiva de que faça parte como sócio, certificada pela associação de industriais a que pertença;
+
+4) Aprovação, para efeitos de registo, do punção privativo destinado a marcar os artefactos de seu fabrico;
+
+b) (Revogada).
+
+2 - Aos industriais de ourivesaria cuja actividade se circunscreva à execução, em oficina própria e de reduzida dimensão, de determinadas fases de fabrico ou de partes acessórias de artefactos de ourivesaria por conta de outros industriais devidamente matriculados a concessão de matrícula fica dependente apenas da comprovação, pela contrastaria respectiva, da actividade exercida pelo requerente e da junção de certidão ou documento equivalente da escritura de constituição da sociedade, quando se trate de pessoa colectiva.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 17.º
+
+1 - A matrícula para o exercício de qualquer das modalidades de comércio mencionadas no artigo 15.º, assim como a de ensaiador-fundidor, é requerida ao chefe da contrastaria da área respectiva em que se ache instalado o estabelecimento, ou, na falta deste, em que resida o requerente, sujeitando-se, no entanto, a sua concessão definitiva, no caso de haver estabelecimento fixo, à informação comprovativa, prestada pelos serviços de fiscalização, de que as instalações são adequadas e obedecem às normas que condicionam o exercício da modalidade a que se destinam. A matrícula de retalhista com estabelecimento especial de artesanato depende ainda de parecer favorável do Conselho Técnico de Ourivesaria.
+
+2 - A informação dos serviços de fiscalização bem como o parecer do Conselho Técnico de Ourivesaria devem ser proferidos no prazo máximo de seis meses ou doze meses, conforme o estabelecimento se situe no continente ou nas Regiões Autónomas dos Açores e da Madeira, podendo, entretanto, para abertura imediata do estabelecimento, ser concedida a respectiva matrícula a título precário.
+
+3 - A classificação de retalhista de ourivesaria e, consequentemente, a concessão da sua matrícula não podem ser afectadas pelo facto de o estabelecimento onde essa actividade vai ser exercida estar integrado, com outros estabelecimentos de diferente ramo comercial, em centro comercial ou equivalente ou de se situar em edifício destinado a diversa exploração comercial ou industrial, desde que o local escolhido esteja convenientemente individualizado e seja reservado exclusivamente a exposição e venda ao público de artefactos de ourivesaria e de outros artigos expressamente autorizados.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 18.º
+
+Toda a pessoa singular ou colectiva matriculada deverá munir-se de uma licença anual, passada pela respectiva contrastaria, renovável obrigatoriamente durante o mês de Janeiro de cada ano.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 19.º
+
+São isentas de matrícula e licença as exposições de carácter cultural e apenas de matrícula as exposições com mero fim de propaganda.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 20.º
+
+1 - Toda a pessoa singular ou colectiva que pretenda exercer a indústria ou a importação de artefactos de ourivesaria ou de relógios de uso pessoal, nos termos previstos neste Regulamento, tem de requerer à administração da INCM, através da respectiva contrastaria, o registo de um punção contendo a letra inicial do seu nome e um símbolo privativo, não confundível com os outros já existentes e não extraído do reino animal.
+
+2 - A autorização do registo do punção será dada perante informação dos serviços de gravura, e outros competentes, da INCM de que este é a reprodução fiel e nítida do desenho aprovado e, quando destinado a ser usado por industriais de ourivesaria ou de relojoaria, de que estão preenchidas, na sua totalidade, as condições necessárias à concessão de matrícula de conformidade com o artigo 16.º
+
+3 - O registo dos punções ficará a constar dos arquivos da contrastaria onde o seu titular se matricule ou esteja matriculado.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 21.º
+
+1 - O punção e a respectiva matriz só entram legalmente na posse do seu titular depois de este assinar, juntamente com o chefe da contrastaria da área respectiva e duas testemunhas idóneas, um termo onde assuma, para todos os efeitos legais, a responsabilidade pelo uso que deles faça ou permita que outros façam.
+
+2 - O registo do punção será nulo e de nenhum efeito se, ao fim de um ano, o seu titular não tiver assinado o termo de responsabilidade e promovido a respectiva matrícula, sendo caso disso.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 22.º
+
+1 - Toda a pessoa singular ou colectiva, ou seu legítimo representante, que cesse o exercício da modalidade por que se encontrava matriculada deve apresentar participação de baixa na respectiva contrastaria e, se possuir punção registado, proceder à sua entrega, juntamente com a matriz, para aí serem inutilizados na sua presença, do que será lavrado o competente auto.
+
+2 - Os titulares de punção que assim o preferirem e se encontrem quites com a Fazenda Nacional podem manter o direito do seu registo pelo prazo máximo de cinco anos, fazendo o depósito do punção e respectiva matriz na contrastaria, conjuntamente com a entrega da participação de baixa de matrícula.
+
+3 - Se, no decurso deste prazo, o titular do punção retomar a actividade e houver efectivado nova matrícula, com observância total das condições para esta requeridas, o punção e a matriz ser-lhe-ão restituídos. Findo o referido prazo, sem que tal facto se verifique, proceder-se-á à inutilização do punção e da matriz, de que se lavrará o competente auto, com a presença facultativa do titular ou, na sua falta, de duas testemunhas idóneas.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 23.º
+
+Por morte ou dissolução e liquidação do titular de punção registado, o detentor do punção fará entrega deste e da matriz, no prazo de quinze dias, na respectiva contrastaria, onde se procederá à sua inutilização na presença do chefe da contrastaria e de duas testemunhas idóneas, do que se lavrará o competente auto. A inutilização será imediata se o titular for pessoa colectiva, mas, se o titular for pessoa singular, só se efectuará decorridos sessenta dias, se não tiver sido requerida a transferência do seu registo por quem possa invocar esse direito.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 24.º
+
+1 - A viúva ou herdeiros do falecido titular do punção podem requerer, como seus legítimos sucessores, no prazo de sessenta dias, à administração da INCM a transferência a seu favor do registo do punção.
+
+2 - O direito à transferência do registo do punção é indivisível, podendo, porém, ser gozado por todos ou alguns dos sucessores quando regularmente associados.
+
+3 - Enquanto decorre este prazo, a viúva ou qualquer dos herdeiros, com o consentimento dos demais, pode requerer ao chefe de contrastaria da área respectiva a entrega do punção e da matriz, para deles fazer uso a título precário, e requerer a prorrogação por mais noventa dias, se o referido prazo se mostrar insuficiente para fazer prova do direito de sucessão.
+
+4 - A posse de punção a título precário não pode exceder cento e cinquenta dias, salvo se a demora puder ser justificada perante a administração da INCM, que, a pedido do detentor do punção, poderá conceder mais três prorrogações sucessivas, até se perfazerem, no máximo, quatrocentos e vinte dias.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo V — (Da indústria)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 25.º
+
+No fabrico dos artefactos de ourivesaria destinados a comércio interno ou externo observar-se-ão as seguintes regras:
+
+1.ª Deverão ser feitos, de um modo geral, de chapa ou fio contínuo, de forma a reduzir o número de soldaduras ao estritamente indispensável;
+
+2.ª O metal, em toda a sua extensão, isento de soldas, deve ter o toque legal, não se admitindo que o excesso de uma parte compense a insuficiência de outras;
+
+3.ª Todas as partes componentes, soldadas ou não entre si, deverão ter o mesmo toque legal;
+
+4.ª As soldas a empregar terão os seguintes toques:
+
+a) Nos artefactos de ouro comum, o mesmo toque do metal, salvo nas filigranas e caixas de relógios de uso pessoal, onde se admite uma diferença, para menos, de 10(por mil);
+
+b) Nos artefactos de ouro branco, o toque mínimo é de 585(por mil);
+
+c) Nos artefactos de prata, o toque mínimo é de 650(por mil);
+
+d) Nos artefactos de platina, a solda será composta de metais preciosos e paládio, na proporção mínima de 995(por mil).
+
+5.º Nos casos autorizados de emprego de soldas de toque inferior ao metal, estas só podem ser utilizadas para fixar umas às outras as diferentes partes do artefacto e nunca para suprir deficiência de consistência ou de técnica profissional ou provocar deliberadamente aumento do peso do artefacto;
+
+6.º A espessura ou secção da chapa ou fio não poderá ser inferior aos valores mínimos fixados pela administração da INCM, de acordo com o parecer do Conselho Técnico de Ourivesaria, a fim de não ser prejudicado o puncionamento dos artefactos e concorrer, com o aumento de resistência do metal, para a sua melhor aceitação no mercado;
+
+7.º Os artefactos serão feitos de metal precioso, de uma só espécie e toque, embora de diferentes cores ou tonalidades, salvos os casos a seguir enumerados:
+
+a) Os artefactos montados, que poderão ser compostos de metais de duas espécies, não susceptíveis de confusão pela cor, desde que as partes de metal de diferente espécie não estejam soldadas entre si, de modo que possam separar-se ao fazer a desmontagem do artefacto;
+
+b) Os anéis de sinete, que poderão ser de aço, guarnecidos de ouro ou prata na parte superior da mesa e no interior dos aros;
+
+c) Os artefactos providos de cravação para pérolas e pedras, onde esta poderá ser de metal de espécie diferente do de que é feito o artefacto, se a diferença de cor permitir facilmente a sua distinção;
+
+d) Nos artefactos contendo aplicações ou ornatos, podem estes ser de metal de espécie diferente do de que é feita a parte principal do artefacto, desde que não se confunda pela cor, permitindo-se a sua justaposição se o metal de maior valia não ultrapassar 50% da superfície em que assenta e não facilite, por qualquer artifício, a confusão entre eles;
+
+e) Nos artefactos de joalharia, pode a parte anterior ser revestida ou forrada de metal de diferente espécie do de que se compõe o artefacto, desde que os dois metais se distingam pela cor;
+
+8.º Não poderão conter moedas nacionais de curso legal e imitações de moedas em circulação, ou que já circularam, de países contratantes ou aderentes de convenções para a repressão de moeda falsa, ou moedas em circulação nestes países, quando estejam cerceadas;
+
+9.º Não serão permitidas na sua composição partes de metal pobre, com excepção de mecanismos internos, molas, lâminas de facas e outros acessórios que se reconheça de forma iniludível não poderem ser fabricados de metal precioso, por razões de ordem técnica ou por prejudiciais ao uso a que se destina o artefacto, os quais não poderão ser soldados a metal precioso e deverão distinguir-se deste pela cor, quando não possam admitir a aposição da palavra «metal»;
+
+10.º Salvo os casos previstos na regra precedente, não poderão conter oculto metal precioso de toque inferior ou qualquer outra matéria, quer se confunda ou não com metal precioso.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 26.º
+
+Nas caixas de relógios de uso pessoal de metal precioso, as tampas ou coberturas interiores, as argolas e as coroas poderão ser de metal pobre, devendo as primeiras ter inscrita, por puncionamento ou gravura, a palavra «metal».
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 27.º
+
+Os artefactos exclusivamente de prata podem ser revestidos, total ou parcialmente, de ouro aplicado por processo electrolítico, sendo, porém, proibida a aplicação desta cobertura em artefactos constituídos por prata e ouro. Igualmente é permitida a aplicação de uma camada de ródio nos artefactos de ouro branco, prata ou platina, sem prejuízo dos toques legais.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 28.º
+
+1 - Diz-se, para todos os fins legais, que um artefacto de ourivesaria é de filigrana quando na sua composição entra uma parte de filigrana com um peso superior a 50% do peso total do artefacto.
+
+2 - Chama-se «filigrana» ao trabalho executado com dois ou mais fios de um mesmo metal precioso, torcidos, batidos e ligados entre si com solda na quantidade indispensável à consolidação do conjunto, de modo a obter um tecido rendilhado.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 29.º
+
+1 - É expressamente proibido passar de um para outro artefacto de ourivesaria a parte ou o todo em que se contenham as marcas dos punções da contrastaria, bem como acrescentar ou substituir qualquer peça componente de um artefacto, posteriormente à marcação deste com os punções da contrastaria.
+
+2 - Diz-se «passagem de marca» o acto de ligar, por meio de solda, a um artefacto de ourivesaria, carecido de marca da contrastaria, qualquer outro artefacto ou parte dele, do mesmo ou de diferente toque, que contenha a referida marca.
+
+3 - Diz-se «acrescentamento» o acto de ligar, com ou sem intervenção de solda, a um artefacto de ourivesaria, marcado com os punções da contrastaria, qualquer outro artefacto ou pertence, ou ainda só parte dele, não marcado com os referidos punções.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo VI — (Do comércio)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 30.º
+
+1 - Consideram-se expostos à venda ao público os artefactos de ourivesaria acabados, cravados ou não, as barras, medalhas comemorativas e moedas de metal precioso e os relógios de uso pessoal, existentes nos estabelecimentos ou noutro local próprio de venda, qualquer que seja o lugar onde se encontrem, e também aqueles que se encontrem em trânsito e de que logicamente se possa concluir destinarem-se à venda.
+
+2 - Os artefactos ou relógios destinados a conserto e o «cascalho» não se consideram expostos à venda desde que estejam encerrados em armários ou gavetas, providos de letreiros, bem visíveis, com as palavras «consertos» ou «cascalho», conforme os casos.
+
+Considerar-se-á «cascalho» o conjunto de artefactos inutilizados de forma irreparável.
+
+3 - As pulseiras e cadeias de metal pobre para relógios devem ser marcadas, por puncionamento e de forma legível, com a palavra «metal» e expostas separadamente dos demais artefactos, com o letreiro bem visível de «metal pobre».
+
+4 - Em todos os estabelecimentos que não sejam exclusivamente de ourivesaria ou relojoaria, os artefactos de ourivesaria, barras, medalhas comemorativas ou moedas de metais preciosos e os relógios de uso pessoal devem ser expostos em lugar privativo, com a indicação bem visível de «artefactos de ourivesaria» ou de «relojoaria».
+
+5 - Nas casas de penhores é proibida a exposição e venda de artefactos de ourivesaria, barras, medalhas comemorativas ou moedas de metal precioso e relógios de uso pessoal que não sejam provenientes dos penhores e não se encontrem, em lugar privativo, com a indicação de «artefactos de ourivesaria».
+
+6 - Nos estabelecimentos especiais referidos no n.º 3) da alínea j) do n.º 1 do artigo 15.º, a coexistência de artefactos de filigrana de metal precioso com os outros de filigrana de metal pobre só é permitida desde que se encontrem expostos em locais distintos, acompanhados de letreiros bem visíveis, com a indicação, em português, francês e inglês, da espécie do metal, devendo ainda os últimos estar marcados, por puncionamento e de forma legível, com a palavra «metal».
+
+7 - Os artefactos de prata totalmente dourada devem ter etiquetas com os dizeres «prata dourada» e igual letreiro deve ser afixado no lugar onde estão expostos.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 31.º
+
+1 - É permitida a venda de artefactos de ourivesaria, barras, medalhas comemorativas ou moedas de metal precioso e de relógios de uso pessoal em almoeda legalmente autorizada, obrigando-se os leiloeiros ou as autoridades que superintendam na almoeda a munir-se de uma licença especial para a realização de cada leilão e a remeter à contrastaria da sua área, com o mínimo de dois dias de antecedência relativamente a cada leilão, a indicação da data, hora e local da almoeda e uma lista dos artefactos e relógios a leiloar.
+
+2 - (Revogado).
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 365/99 - Diário da República n.º 218/1999, Série I-A de 1999-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1999-570109), em vigor a partir de 1999-11-16
+
+###### Artigo 32.º
+
+Toda a pessoa singular ou colectiva que se dedique à venda directa ao público de artefactos de ourivesaria ou de relógios de uso pessoal é obrigada a ter no seu estabelecimento ou no local de venda, bem visível, um quadro impresso com os desenhos das marcas dos punções legais, adquirido nas contrastarias.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 33.º
+
+Nos artefactos de ourivesaria é vedada a aposição, por puncionamento, gravura ou qualquer outro processo, de marcas comerciais não pertencentes aos respectivos industriais ou de qualquer outra marca indicativa de um toque diferente do representado pelo punção da contrastaria.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo VII — (Da importação e exportação)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 34.º
+
+1 - Os artefactos de ourivesaria e relógios de uso pessoal ou suas caixas, quando importados, em seguida à verificação alfandegária, serão remetidos, em volume selado, para exame, à contrastaria competente. Efectuado o exame, a contrastaria dará à alfândega conhecimento do resultado, através da emissão de um boletim cujo duplicado esta entregará ao interessado, depois de ali anotar o número de receita do bilhete de despacho por que foram pagos os direitos devidos e mais imposições fiscais, a fim de o mesmo ser presente na contrastaria para efeito de restituição da mercadoria, depois de marcada, se for caso disso e o puder ser.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 35.º
+
+1 - Os artefactos de ourivesaria e os relógios de uso pessoal importados que não possam ser marcados por não satisfazerem às condições legais impostas para a sua comercialização no território nacional serão devolvidos à alfândega pela contrastaria, em volume selado, acompanhado da respectiva participação, a fim de se promover a sua reexportação, a requerimento do interessado.
+
+2 - Os artefactos ou relógios importados por firmas não matriculadas para os quais se possa fazer prova de que não se destinam a negócio, quando não satisfaçam as condições legais para serem marcados, poderão ser entregues pela contrastaria, sem marca, ao destinatário logo que se encontrem pagos os direitos aduaneiros e mais imposições fiscais devidas.
+
+3 - A isenção de direitos aduaneiros, de que eventualmente goze a importação de artefactos de ourivesaria ou relógios de uso pessoal, não dispensa a sua remessa à contrastaria, para efeito de ensaio e marcação, se for caso disso.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 36.º
+
+1 - Os artefactos de ourivesaria e relógios de uso pessoal de produção nacional, quando exportados para países que não sejam contratantes de convenção ou acordo internacional de que o Estado Português seja signatário ou aderente, quando marcados, sê-lo-ão com o punção do fabricante ou o do exportador, se este o possuir e assim preferir, e o correspondente punção da contrastaria. Se o país destinatário for contratante juntamente com o Estado Português, observar-se-ão as normas estabelecidas pela convenção ou acordo na marcação dos artefactos ou relógios a exportar.
+
+2 - Quando os metais preciosos dos artefactos ou relógios a exportar forem de toque diferente dos previstos neste Regulamento, será a marca da contrastaria substituída por certidão passada por esta donde conste, além da espécie de metal e seu toque, a designação, qualidade e peso dos objectos. Estes, conjuntamente com uma cópia da certidão e da respectiva factura, serão remetidos, em volume selado, directamente pela contrastaria à alfândega, donde o exportador promoverá o seu encaminhamento definitivo.
+
+3 - Os artefactos de ourivesaria em fase de acabamento ou peças de metal precioso, destinadas a incorporar em artefactos de ourivesaria, importados temporariamente e reexportados, depois de acabados ou transformados pela indústria nacional, serão sujeitos a fiscalização das contrastarias sempre que a alfândega o julgue necessário, para através do seu exame se proceder à identificação e registo das peças movimentadas, devendo, quando assim suceder, os produtos importados sob este regime e os que deles resultem, depois de acabados ou transformados, ser remetidos à contrastaria.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo VIII — (Dos avaliadores oficiais)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 37.º
+
+1 - A avaliação de artefactos de ourivesaria, barras e medalhas comemorativas de metal precioso, independentemente do seu valor numismático, pedras preciosas, pérolas e relógios de uso pessoal é da exclusiva competência dos avaliadores oficiais.
+
+2 - As barras de metal precioso, para serem sujeitas a avaliação, têm de estar marcadas pela contrastaria ou por um ensaiador-fundidor de metais preciosos.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 38.º
+
+1 - Em cada comarca, e directamente subordinado ao chefe da contrastaria da área respectiva, haverá um avaliador oficial, nomeado pela administração da INCM de entre indivíduos maiores de 21 anos habilitados com o exame de aptidão para o exercício das respectivas funções.
+
+2 - Nas cidades de Lisboa e Porto haverá pelo menos tantos avaliadores oficiais quantos os bairros administrativos.
+
+3 - No provimento das vagas de avaliador oficial existentes ou que de futuro venham a ocorrer terão preferência os avaliadores em exercício efectivo noutra comarca ou bairro que as requeiram e, na sua falta, os pretendentes habilitados com o respectivo exame de aptidão, segundo a ordem da sua classificação.
+
+4 - Os candidatos a exame de aptidão para avaliador oficial poderão requerer o referido exame, em qualquer altura, ao chefe da contrastaria da área onde residam, fazendo instruir o requerimento de certidões de idade e de habilitações literárias e do certificado do registo criminal. Deferido que seja o requerimento, o chefe da contrastaria da área respectiva providenciará de modo que as provas tenham lugar no prazo máximo de noventa dias, devendo a data da sua prestação ser comunicada ao candidato com uma antecedência mínima de trinta dias.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 39.º
+
+1 - Na falta de indivíduos habilitados legalmente para o provimento definitivo das vagas existentes, pode a administração da INCM, sob proposta do chefe da contrastaria da área respectiva e depois de ouvidas as entidades representativas das classes interessadas e o chefe da contrastaria respectiva, nomear, a título provisório, por período não superior a dois anos, pessoa de reconhecida competência.
+
+2 - Quando se encontre vago algum lugar de avaliador oficial ou o seu titular esteja impedido, por qualquer motivo, de exercer as suas funções, o chefe das contrastarias pode, na emergência, por simples despacho, designar, caso por caso, pessoa idónea para o seu desempenho.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 40.º
+
+Os avaliadores oficiais são obrigados:
+
+1.º A passar certidões das avaliações que lhes forem pedidas ou ordenadas, sempre que solicitadas pela entidade interessada;
+
+2.º (Revogado).
+
+3.º A possuir a aparelhagem necessária ao bom exercício da profissão;
+
+4.º A ter um livro numerado e rubricado pelo chefe da contrastaria da área respectiva, para registo das avaliações que fizer, no qual conste o número de ordem, designação, qualidade, quantidade e peso dos objectos avaliados, designação das pedras ou pérolas, nome e morada do apresentante, valor arbitrado e importância cobrada pela avaliação. Este livro será posto à disposição do chefe da contrastaria da área respectiva, sempre que este o exigir;
+
+5.º A fornecer as informações, referentes ao comércio e indústria de metais preciosos, pedras e pérolas, solicitadas pelo chefe da contrastaria da área a que estiverem subordinados;
+
+6.º A proceder, por ordem do chefe da contrastaria da área respectiva e de acordo com as normas aprovadas pelas alfândegas, à conferência dos artefactos de ourivesaria cravados com pedras preciosas ou pérolas, para efeito de isenção de direitos, que se encontrem em regime de reimportação ou importação e exportação temporárias.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 75/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2004-210424), em vigor a partir de 2004-04-01
+
+###### Artigo 41.º
+
+Os avaliadores oficiais terão direito a cobrar dos interessados, como emolumentos pessoais, as permilagens devidas por cada avaliação ou conferência de artefactos e fixadas por portaria e ainda as despesas de deslocação, sempre que a tal sejam obrigados.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 42.º
+
+1 - Os avaliadores oficiais são responsáveis, perante os lesados e a contrastaria a que estiverem subordinados, pelos prejuízos resultantes dos erros cometidos nas avaliações que fizerem.
+
+2 - A tolerância nas avaliações será de 1% do seu valor para as barras, de 10% para os artefactos desprovidos de pedras ou pérolas e de 20% para as pedras preciosas ou pérolas ou para o conjunto dos artefactos que as contenham incrustadas.
+
+3 - O julgamento dos processos instaurados aos avaliadores oficiais por erros de avaliação é da competência do chefe das contrastarias, susceptível de recurso, por qualquer das partes, para a administração da INCM, nos termos previstos neste Regulamento.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo IX — (Dos ensaiadores-fundidores de metais preciosos)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 43.º
+
+Toda a pessoa singular ou colectiva que pretenda exercer a actividade de ensaiador-fundidor de metais preciosos terá de satisfazer às seguintes condições:
+
+1) Estar habilitado com a escolaridade obrigatória e ter sido aprovado em exame de aptidão realizado para este efeito em qualquer contrastaria ou, quando se trate de sociedade comercial, ter sócio com esta habilitação, que será o gerente, se for sociedade anónima;
+
+2) Ter um punção privativo, para marcar as barras e lâminas que fundir e ensaiar, registado na contrastaria respectiva, de harmonia com as normas de registo dos punções de fabrico ou equivalente;
+
+3) Possuir punções indicativos das espécies de metais preciosos e, em algarismos árabes, dos respectivos toques, para marcar as barras ou lâminas que ensaiar;
+
+4) (Revogado).
+
+5) Possuir um livro numerado e rubricado pelo chefe da contrastaria da área respectiva, para registo diário das barras e lâminas ensaiadas, donde conste data, nome e morada do apresentante, espécie do metal, peso e toque encontrados. Este livro será posto à disposição do chefie da contrastaria da área respectiva, sempre que este o pretenda examinar;
+
+6) Possuir um laboratório equipado com a aparelhagem indispensável para a execução dos ensaios, segundo os métodos usados nas contrastarias.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 75/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2004-210424), em vigor a partir de 2004-04-01
+
+###### Artigo 44.º
+
+Os ensaiadores-fundidores são responsáveis, perante os lesados e a contrastaria, pelos prejuízos resultantes dos erros cometidos nos ensaios ou pela falta de homogeneidade verificada nas barras ou lâminas que ensaiarem ou fundirem, sendo o julgamento dos processos instaurados por estes motivos da competência do chefe da contrastaria da área respectiva, com a faculdade de recurso, por qualquer das partes, para a administração da INCM, através do chefe das contrastarias.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 45.º
+
+A cessação de exercício da actividade de ensaiador-fundidor, qualquer que seja a causa, inclusive a de morte, obriga, quando se trate de pessoa singular, ao depósito do punção e matriz na contrastaria, nos mesmos termos estabelecidos relativamente aos titulares dos punções de fabrico ou equivalente; e, quando se trate de falecimento do único sócio de sociedade comercial habilitado com o exame de aptidão, à imediata suspensão da actividade, até que se dê a substituição do falecido por outro sócio que reúna as condições legais para o efeito.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 46.º
+
+Os ensaiadores-fundidores são obrigados a passar um boletim de ensaio, por cada barra ou lâmina ensaiada, que terá impresso o desenho do punção e onde se mencionará o número de registo do ensaio, toque encontrado, peso da barra ou lâmina e a importância dos emolumentos cobrados. São ainda obrigados a marcar as barras ou lâminas com os punções privativos da espécie de metal ou metais e do de toque. O toque será marcado em algarismos, desde que a barra ou lâmina os comporte.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 47.º
+
+À administração da INCM compete, ouvido o chefe das contrastarias e de acordo com o Conselho Técnico de Ourivesaria, fixar a tabela dos emolumentos mínimos que os ensaiadores-fundidores são autorizados a cobrar pela execução dos ensaios de barras e lâminas, a qual pode ser revista logo que se julgar oportuno.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 48.º
+
+O possuidor de uma barra ou lâmina, ensaiada por qualquer ensaiador-fundidor devidamente identificado, que tiver dúvidas sobre o resultado do ensaio poderá requerer ensaio de contestação de toque, em qualquer contrastaria, ficando obrigado ao pagamento dos emolumentos devidos no caso de este ser julgado improcedente.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 49.º
+
+Quando um ensaiador-fundidor presuma que os objectos ou simples fragmentos de metal precioso que lhe sejam entregues para fundir possuem valor arqueológico, histórico ou artístico ou suspeite de que a sua proveniência é delituosa, deverá, antes de proceder à sua fundição, comunicar as suas dúvidas à contrastaria, que, conforme o caso, ouvirá o Conselho Técnico de Ourivesaria ou participará a suspeita à autoridade policial competente.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo X — (Dos ensaios e marcação)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 50.º
+
+1 - As barras e medalhas comemorativas de metal precioso, os artefactos de ourivesaria e os relógios de uso pessoal serão aceites na contrastaria, para ensaio e marcação, desde que se observem as seguintes regras fundamentais:
+
+1.ª A pessoa singular ou colectiva sua apresentante terá de ser titular de um punção de fabrico ou equivalente, registado na respectiva contrastaria, salvo se se tratar:
+
+a) De barras apresentadas por bancos ou outros estabelecimentos de crédito;
+
+b) De medalhas comemorativas, que poderão ser apresentadas pelos organismos responsáveis pela sua emissão;
+
+c) De artefactos ou relógios de uso pessoal que gozem de isenção de direitos aduaneiros ou importados para comprovado uso pessoal do destinatário, apresentados pelos próprios;
+
+d) De artefactos, medalhas comemorativas ou relógios de uso pessoal que hajam sido apreendidos por irregularidade de marcação, apresentados pelo julgado responsável da falta no respectivo processo de transgressão;
+
+e) De artefactos com merecimento arqueológico, histórico ou artístico, de fabrico anterior à criação das contrastarias ou marcados com punções de extintos contrastes municipais, apresentados pelos seus legítimos possuidores;
+
+f) De artefactos ou relógios de uso pessoal nitidamente usados, apresentados por qualquer retalhista, devidamente matriculado na contrastaria, que os haja comprado;
+
+g) De medalhas comemorativas, artefactos ou relógios de uso pessoal, que, constituindo penhores, serão apresentados pelos respectivos penhoristas;
+
+2.ª Devem ser acompanhados de uma guia, fornecida e preenchida de acordo com as instruções emitidas pela contrastaria, assinada pelo apresentante ou seu mandatário e autenticada com o carimbo reproduzindo o desenho da sua marca de responsabilidade, no caso de a possuir;
+
+3.ª Devem estar marcados, nos locais determinados pela contrastaria, salvo as excepções previstas na regra 1.ª deste artigo, com o punção de fabrico ou equivalente do apresentante;
+
+4.ª Devem encontrar-se completos e acabados ou em fase de fabrico suficientemente adiantada, de modo que não possam sofrer alteração no seu acabamento;
+
+5.ª Devem, na sua estrutura principal, conter uma parte maciça capaz de receber o puncionamento sem risco de deterioração;
+
+6.ª Quando constituídos por mais de um metal precioso, deve cada um deles proporcionar uma extensão livre e suficiente para ser sujeito a ensaio visual;
+
+7.ª Os elos e argolas que entrem na sua composição devem estar ligados entre si por solda, a menos que se trate de mosquetões, argolas de mola ou outros acessórios em que a aplicação da solda prejudique o acabamento;
+
+8.ª Tratando-se de contas enfiadas, as extremidades do fio suportarão um pequeno canevão achatado do mesmo metal e toque das contas, do tamanho suficiente para receber as marcas dos punções;
+
+9.ª Devem ter, sempre que for julgado necessário, um prolongamento livre e desempenado da chapa ou fio, para verificação de que as suas medidas respeitam os mínimos regulamentares;
+
+10.º Quando forrados, o metal aplicado no forro deve ter uma espessura suficiente para resistir a três tocaduras no mesmo local;
+
+11.º Quando se trate de caixas de relógio nacionais, devem ter gravadas as palavras «feita em Portugal», e o comerciante a que se destinam, cujo nome será mencionado na respectiva guia, deverá ter registado um número pelo menos igual de maquinismos ou «platinas».
+
+2 - Os serviços de exame de artefactos de ourivesaria, medalhas comemorativas ou relógios de uso pessoal, para efeito de verificação da sua marcação, bem como o do seu ensaio e marcação, poderão ser prestados fora da sede da contrastaria, desde que, no primeiro caso, a justificação do impedimento da sua apresentação naquele local seja aceite pelo respectivo chefe da contrastaria da área e, no segundo caso, tenha sido autorizada a execução do referido serviço, a título excepcional, pela administração da INCM, depois de aceites como justificativas as circunstâncias especiais evocadas pelo apresentante e depois de ouvido o chefe das contrastarias.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 51.º
+
+1 - As contrastarias adoptarão, na determinação dos toques dos metais preciosos que entrem na composição das ligas metálicas de barras e medalhas comemorativas e nos artefactos de ourivesaria, um dos seguintes métodos de análise:
+
+Ouro - copelação;
+
+Prata - Gay Lussac ou potenciométrico;
+
+Platina:
+
+Gravimétrico (cloroplatinado de amónio);
+
+Absorção atómica ou espectrográfico ou espectrofotométrico;
+
+ou ainda quaisquer outros que vierem a revelar-se de suficiente exactidão, de modo que os desvios dos seus resultados sejam inferiores às tolerâncias admitidas nos termos deste Regulamento.
+
+2 - Quando se trate de lotes de artefactos ou de medalhas constituídos por um número dígito de unidades de elevado custo de mão-de-obra e a preparação de toma de ensaio exigido por um dos métodos mencionados no número precedente não seja possível sem dano irreparável dos mesmos, deverá aplicar-se o chamado método visual. Se este revelar toque inferior ao indicado na guia respectiva, a deficiência de toque terá de ser confirmada por mais dois operadores diferentes para efeito de recusa de marcação e demais disposições legais aplicáveis.
+
+3 - Os artefactos ou medalhas comemorativas apresentados isoladamente ou constituídos por metais justapostos que não possam ser ensaiados por alguns dos métodos indicados no n.º 1 sem provocar a sua deterioração irremediável poderão também ser ensaiados pelo método de ensaio visual e, no caso de este denunciar deficiência de toque, comprovada por dois operadores diferentes, será recusada a sua marcação.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 52.º
+
+1 - O número de tomas de ensaio em cada barra ou de artefactos ou medalhas comemorativas ensaiados em cada lote será o que for julgado suficiente em cada caso para a contrastaria se convencer da homogeneidade da liga, em toda a extensão da barra, ou concluir que todos os artefactos do lote são do mesmo toque.
+
+2 - Entende-se por «lote» o conjunto de artefactos do mesmo metal ou metais e igual denominação descritos na mesma guia.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 53.º
+
+1 - Quando se verifique que, no mesmo lote, todos ou parte dos artefactos que o compõem são de toque inferior ao declarado na respectiva guia, será todo o lote inutilizado e restituído ao apresentante depois de este ter declarado, por escrito, conformar-se com a decisão da contrastaria.
+
+2 - Os artefactos ou medalhas comemorativas destinados à venda ou a leilões públicos e que, por deficiência de toque, devessem ser inutilizados serão restituídos intactos depois de o apresentante assumir o compromisso, por escrito, de os inutilizar no acto da arrematação.
+
+3 - É permitido ao apresentante de artefactos ou medalhas comemorativas rejeitados na sua totalidade por deficiência de toque, no caso de não se verificar a mistura do mesmo lote, requerer a sua marcação para comércio externo desde que os toques encontrados não sejam inferiores aos toques mínimos fixados para exportação.
+
+4 - Será permitido ao apresentante de artefactos ou medalhas comemorativas rejeitados por deficiência de toque requerer que sejam retirados sem marca e intactos, sempre que se prove ser tecnicamente possível a recuperação da diferença do toque, depois de tratamento químico adequado.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 54.º
+
+1 - Os artefactos de ourivesaria ou medalhas comemorativas que dolosamente contenham oculta matéria de diferente denominação da que constitui a sua estrutura geral, ou igual mas de toque inferior ao declarado na guia que os acompanha, serão apreendidos juntamente com os demais artefactos com que eventualmente formem lote e declarados perdidos a favor do Estado, independentemente de outras penalidades que ao caso couberem.
+
+2 - Se a irregularidade resultar de deficiência técnica de fabrico, serão os artefactos restituídos ao apresentante depois de inutilizados.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 55.º
+
+O apresentante de artefactos de ourivesaria ou de medalhas comemorativas para ensaio ou marcação só poderá tomar conhecimento do toque exacto mediante certidão requerida. Sendo os artefactos rejeitados, o interessado deverá ser informado das condições em que os poderá retirar.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 56.º
+
+1 - O ensaio dos artefactos de ourivesaria, barras ou medalhas comemorativas poderá ser repetido por ordem do respectivo chefe da contrastaria da área quando o apresentante assim o requeira. Se este não se conformar com o resultado da repetição do ensaio, pode contestá-lo junto do chefe das contrastarias, que mandará proceder a outro ensaio noutra contrastaria, com a intervenção de dois analistas, na presença do respectivo chefe e com a assistência facultativa de dois peritos designados pelo apresentante e aceites pelo chefe das contrastarias, sendo um ensaiador-fundidor e o outro industrial de ourivesaria.
+
+2 - Quando houver lugar a contestação de toque, a barra, medalha ou artefacto e o resto do granito sobre que incidiu o ensaio serão encerrados, na presença do apresentante, em pacote lacrado com o sinete da contrastaria e do interessado e remetido à contrastaria onde deve efectuar-se o ensaio de contestação.
+
+3 - Se a contestação for julgada improcedente, o contestante pagará o triplo dos emolumentos devidos pelo ensaio da barra ou do lote de que façam parte as medalhas comemorativas ou artefactos, além das despesas de porte a que haja lugar.
+
+Se a contestação for julgada procedente, o reclamante será indemnizado pela contrastaria das despesas ocasionadas.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 57.º
+
+Na marcação dos artefactos de ourivesaria e medalhas comemorativas respeitar-se-ão as seguintes regras fundamentais:
+
+1.ª Os punções da contrastaria deverão ser aplicados junto da marca de fabrico ou equivalente;
+
+2.ª O puncionamento será feito na parte principal do artefacto, mas, se este for de platina ou de ouro e composto de diversas peças não soldadas entre si, todas elas serão puncionadas sempre que possível;
+
+3.ª Quando não seja possível o puncionamento directo do artefacto, far-se-á em canevões achatáveis do mesmo metal, ligados ao artefacto por um fio da forma mais conveniente;
+
+4.ª Os punções da contrastaria serão aplicados de acordo com o sistema de regras de marcação superiormente aprovado;
+
+5.ª Serão dispensadas de puncionamento as molas dos botões de peitilho, os aros de mola, bem como todas as demais molas que corram o risco de deterioração com a aplicação dos punções;
+
+6.ª (Revogada).
+
+7.ª Os artefactos de ourivesaria e medalhas comemorativas importados que se destinem à comercialização no território nacional serão marcados, observadas as condições legais, com o punção do importador e o da contrastaria, salvo se, quando provenientes de outro Estado membro da União Europeia, obedecerem às condições previstas nas alíneas c) ou d) do n.º 1 do artigo 11.º Se os artefactos forem provenientes de países contratantes de convenção ou acordo internacional de que o Estado Português seja signatário ou aderente e já estiverem marcados em conformidade com as normas fixadas nessa convenção ou acordo poderão ser marcados com o punção especial de contrastaria, enquanto as autoridades alfandegárias o julguem conveniente, para significar que foram respeitadas as formalidades aduaneiras ao darem entrada no País.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+### Capítulo XI — (Da fiscalização)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 58.º
+
+Aos serviços de fiscalização compete:
+
+1.º Verificar se as barras e medalhas comemorativas de metal precioso, artefactos de ourivesaria e relógios de uso pessoal, expostos à venda ao público ou a que se presuma esse destino, estão legalmente marcados;
+
+2.º Verificar se as pessoas singulares ou colectivas que se dedicam ao exercício da indústria e comércio de ourivesaria e relojoaria possuem matrícula e licença de acordo com a actividade desenvolvida e se esta se exerce nos termos das disposições regulamentares.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 59.º
+
+1 - A fiscalização externa cabe essencialmente aos funcionários técnicos das contrastarias, que, quando investidos nestas funções, terão de ser portadores de uma autorização passada pelo respectivo chefe de contrastaria.
+
+2 - Nas infracções cometidas fora dos estabelecimentos de ourivesaria, qualquer funcionário técnico que acidentalmente as verifique pode, depois de se identificar, proceder a apreensões e levantar os competentes autos, independentemente da autorização referida no número anterior e da área onde tenha lugar a ocorrência.
+
+3 - Os autos de transgressão por falta de renovação de licença anual podem ser levantados por qualquer funcionário que, mercê das funções desempenhadas, tiver conhecimento da infracção.
+
+4 - A competência do exercício da fiscalização referida no n.º 2 é ainda extensiva aos funcionários do quadro interno e agentes da fiscalização externa das alfândegas, aos funcionários da Direcção-Geral das Contribuições e Impostos e aos avaliadores oficiais, sob a condição de remeterem as apreensões e respectivos autos à contrastaria da área onde se verifique a transgressão, para efeito de instrução e julgamento do processo a que haja lugar.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 60.º
+
+Cumpre a todas as autoridades, administrativas ou policiais, auxiliar os serviços de fiscalização sempre que a sua intervenção seja solicitada pelos chefes de contrastaria ou pelos próprios funcionários em exercício de fiscalização.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 61.º
+
+Os funcionários técnicos das contrastarias destacados para desempenho do serviço de fiscalização externa que forem portadores de autorização reconhecendo-lhes esta função têm livre acesso aos cais de embarque, terrestres e marítimos, aeroportos e a todos os locais de acesso reservado, desde que a sua presença se justifique para o bom desempenho das funções de que estão investidos.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 62.º
+
+Todos os comerciantes, industriais e corretores de ourivesaria ou relojoaria são obrigados a patentear os seus estabelecimentos, oficinas ou malas aos funcionários técnicos das contrastarias, quando em serviço de fiscalização.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 63.º
+
+Havendo fundada suspeita de transgressão ou delito previstos neste Regulamento, podem os funcionários técnicos das contrastarias encarregados da fiscalização submeter a exame as pessoas e bagagens de presumidos negociantes, industriais ou corretores de ourivesaria ou relojoaria e, bem assim, proceder, durante o dia, a buscas e apreensões na suposta sede dos respectivos negócios, ou em estabelecimentos de venda ou oficina, de qualquer natureza, ou ainda em quaisquer lugares onde se presuma a existência em depósito de falsos punções ou de artefactos, barras ou medalhas comemorativas ou relógios de uso pessoal com eles marcados.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 64.º
+
+Os funcionários em serviço de fiscalização externa que verifiquem a venda ao público de barras ou medalhas comemorativas de metal precioso, artefactos de ourivesaria ou relógios de uso pessoal com infracção do disposto nos artigos 14.º, 15.º e 18.º deste Regulamento procederão à autuação do infractor e à apreensão dos artigos expostos, no valor suficiente para garantia do pagamento da multa que à falta venha a caber.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 65.º
+
+1 - As barras ou medalhas comemorativas de metal precioso, os artefactos de ourivesaria e os relógios de uso pessoal expostos à venda ao público, ou a que logicamente se deva atribuir esse destino, sem as marcas exigidas nos termos deste Regulamento, ou que, tendo-as, se suspeite de que estão irregularmente marcados ou que enfermam de algum vício de fabrico susceptível de afectar o toque de todo ou parte do artefacto, barra ou medalha, serão apreendidos pelos funcionários técnicos em serviço de fiscalização que detectarem a infracção, os quais levantarão o competente auto, ou este e o de transgressão, consoante a apreensão for a título provisório ou definitivo.
+
+2 - Não será punida a falta de marca em número de objectos não superior a cinco, se a mesma puder ser justificada e, principalmente, se se tratar de pequenas unidades, geralmente apresentadas nas contrastarias para ensaio e marcação em grandes lotes.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 66.º
+
+1 - Logo que haja conhecimento, por qualquer modo, da existência ou de uso de falsos punções de contrastaria, os funcionários encarregados do serviço de fiscalização promoverão as diligências necessárias à apreensão desses punções, suas matrizes e objectos com eles marcados, bem como à detenção dos presumíveis delinquentes, de tudo levantando os respectivos autos.
+
+2 - Se entre as diligências a efectuar houver lugar a buscas ou detenções, o chefe da contrastaria da área respectiva ou os próprios funcionários, no caso de manifesta urgência, poderão requisitar, para esse efeito, o auxílio das autoridades policiais ou administrativas.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 67.º
+
+Os punções, matrizes, artefactos de ourivesaria, barras ou medalhas comemorativas de metal precioso ou relógios de uso pessoal apreendidos nos termos deste Regulamento serão, no acto da apreensão e na presença do seu detentor, encerrados em pacote lacrado, com o sinete da contrastaria ou do serviço a que pertença o agente fiscal apreensor, rubricado por este e pelo detentor, e em seguida depositado na contrastaria respectiva.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 68.º
+
+O agente fiscal que efectuar qualquer apreensão nos termos do disposto neste Regulamento entregará ao proprietário ou detentor dos objectos uma declaração, por si assinada, donde conste a designação, número e peso dos objectos apreendidos e a disposição ao abrigo da qual foi feita a apreensão.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+### Capítulo XII — (Do contencioso)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 69.º
+
+A exposição ou destino à venda são elementos integrantes das transgressões a este Regulamento cometidas relativamente a barras, medalhas comemorativas de metal precioso e artefactos de ourivesaria ou relógios de uso pessoal.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 70.º
+
+1 - Os negociantes de ourivesaria ou relojoaria só podem expor ou vender os objectos cuja estrutura e marcas de contrastaria e equivalentes tenham previamente examinado, sendo responsáveis pelas irregularidades que devessem ter sido por eles notadas como impeditivas da exposição ou venda.
+
+2 - Se o transgressor provar que recebeu de outro negociante matriculado os objectos a que se refere o número anterior ou que o autor material do facto punível está determinado, a responsabilidade será solidária entre todos.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 71.º
+
+1 - Os negociantes de ourivesaria ou relojoaria que, nas suas transacções, de algum modo prejudiquem o comprador, em consequência de produto por eles vendido não corresponder ao que se encontra expresso na respectiva factura, serão obrigados a indemnizar o lesado da diferença entre o valor constante dessa factura e o valor real dos artigos vendidos.
+
+2 - A importância da indemnização devida nos termos do n.º 1 será fixada pelo chefe da contrastaria da área respectiva, no processo de transgressão instaurado com base na participação do lesado, de acordo com a avaliação feita por um avaliador oficial, constituindo esta decisão título executivo para a acção competente.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 72.º
+
+Quando as irregularidades verificadas em barras ou medalhas comemorativas de metal precioso, artefactos de ourivesaria ou relógios de uso pessoal derem lugar à aplicação de sanções pelas contrastarias, poderão estas, se a irregularidade assim o justificar, declarar a nulidade da transacção anteriormente efectuada, com a consequente devolução ao lesado da importância recebida e restituição, a quem a eles tiver direito, dos objectos, mesmo inutilizados, se por disposição legal não forem considerados perdidos a favor do Estado.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 73.º
+
+1 - Os processos para julgamento das infracções regulamentares terão como base um auto, levantado por funcionário competente que descobrir a transgressão, apreender os objectos suspeitos ou os receber de algum suposto lesado para exame.
+
+2 - O auto será assinado pelo autuante e pelo transgressor ou detentor dos objectos ou, se este não quiser ou não puder assinar, por duas testemunhas, devendo mencionar-se os motivos da impossibilidade ou recusa, e conterá os elementos necessários à identificação dos intervenientes.
+
+3 - Devem igualmente constar do auto os objectos tomados ou apreendidos, os valores que lhes são atribuídos pelos detentores e quaisquer declarações destes.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 74.º
+
+Os processos referidos no artigo anterior serão instaurados, instruídos e julgados na respectiva contrastaria, observando-se o seguinte:
+
+1.º O chefe da contrastaria da área nomeará, por escrito, um funcionário da contrastaria, à sua escolha, para escrivão do processo;
+
+2.º Sob a presidência do mesmo chefe de contrastaria, dois funcionários técnicos por ele designados procederão, no prazo de dez dias e na qualidade de peritos, aos necessários exames, de que se lavrará auto. O chefe de contrastaria terá voto de qualidade em caso de empate;
+
+3.º Conforme os resultados dos exames, o chefe de contrastaria mandará arquivar o processo ou avisar o arguido (exceptuados os casos em que se revele a existência de qualquer das infracções previstas nos artigos 7.º a 19.º, 29.º e 30.º, constantes do n.º 1 do artigo 95.º), com entrega da nota de culpa, em que serão mencionadas as disposições regulamentares ofendidas e as penalidades aplicáveis, de que poderá, no prazo de dez dias, liquidar o pagamento da multa e demais imposições legais ou apresentar, no dia e hora designados para o efeito, pessoalmente ou por escrito, a defesa e prova que se lhe oferecer;
+
+4.º Quando os exames periciais confirmem a existência de alguma das infracções a que se não aplique o disposto no número anterior ou quando o arguido tenha usado do direito de defesa, nos termos em que lhe é facultado, o chefe de contrastaria fará prosseguir a instrução do processo, de acordo com as declarações prestadas ou a prestar pelo arguido, mandando proceder às diligências necessárias, até completo esclarecimento dos factos e identificação dos culpados, de modo a ficar habilitado a proferir a decisão;
+
+5.º Os despachos proferidos nos termos do n.º 3.º convertem-se em decisões, expirado que seja o prazo fixado sem que o arguido apresente a sua defesa;
+
+6.º As decisões e despachos proferidos nos processos de transgressão pelo chefe da contrastaria da área serão notificados aos autuantes, queixosos e transgressores e são susceptíveis de recurso por qualquer das partes para a administração da INCM, por meio do chefe das contrastarias;
+
+7.º O recurso é dirigido ao presidente do conselho de administração da INCM e apresentado na contrastaria recorrida dentro do prazo de dez dias, nele podendo o recorrente requerer a repetição de quaisquer exames, efectuados por dois funcionários técnicos não intervenientes no primeiro exame, designados pelo chefe de contrastaria, que presidirá, e com a assistência de dois peritos da escolha do recorrente, que terão de ser profissionais matriculados em qualquer contrastaria;
+
+8.º Os autos seguirão com vista às partes, recorrida e recorrente, se for caso disso, para produzirem, no prazo de 10 dias, as alegações que tiverem por convenientes. Findo este prazo, subirá de novo o recurso para julgamento definitivo;
+
+9.º Nos processos em que se verifique o pagamento voluntário da multa e demais obrigações impostas no despacho ou na decisão haverá isenção de custas; naqueles em que haja interposição de recurso e este não tenha obtido provimento, são devidas custas na importância de 10% do total das multas aplicadas.
+
+10.º Quando o transgressor não satisfaça, dentro do prazo de dez dias, contado do recebimento da respectiva notificação, o pagamento das multas, custas e selos que lhe forem impostos, proceder-se-á à sua cobrança coerciva nos tribunais das contribuições e impostos, segundo o processo de execução fiscal;
+
+11.º Os funcionários autuantes e participantes são isentos de custas e selos, salvo se a sua actuação for julgada de má fé, caso em que lhe poderão ser aplicadas umas e outros no próprio processo, independentemente do procedimento disciplinar a que, porventura, haja lugar.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 75.º
+
+Será aplicada, no próprio processo, às pessoas que faltarem, no dia e hora designados nas convocações para deporem em processo pendente nas contrastarias, a multa da importância fixada por portaria se não justificarem devidamente a falta no prazo de cinco dias.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 76.º
+
+Quando em processo instaurado nas contrastarias se revele a existência de delito da competência de outro foro, serão remetidas ao tribunal competente cópias das peças que lhe digam respeito.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+### Capítulo XIII — (Dos punções)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 77.º
+
+1 - Para marcar as barras e medalhas de metal precioso e os artefactos de ourivesaria haverá nas contrastarias punções com os seguintes símbolos:
+
+1.º Uma esfera armilar amovível e sobreposta às palavras «platina», «ouro» ou «prata», para aplicar nas barras desses metais;
+
+2.º Uma cabeça de papagaio, voltada para a esquerda, tendo na base os números, em árabe, 999, 950, 900 ou 850, para aplicar nos artefactos de platina dos respectivos toques;
+
+3.º Uma cabeça de veado, voltada para a esquerda, tendo na base os números, em árabe, 999, 916 ou 800, para aplicar nos respectivos artefactos de ouro destes toques;
+
+4.º Uma andorinha em voo, tendo na base um dos números, em árabe, 750, 585 ou 375, para aplicar em artefactos de ouro ou artefactos de ligas de ouro dos respectivos toques;
+
+5.º Uma cabeça de águia, voltada para a esquerda, tendo na base os números, em árabe, 999 ou 925, para aplicar em artefactos de prata destes toques;
+
+6.º Uma cabeça de águia, voltada para a direita, tendo na base os números, em árabe, 835, 830 ou 800, para aplicar em artefactos de prata destes toques.
+
+2 - Nos artefactos mistos de platina e ouro ou de ouro e prata serão aplicados os punções dos toques dos respectivos metais presentes.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 78.º
+
+Para marcar determinados artefactos ou assinalar certas circunstâncias, haverá nas contrastarias outros punções com os seguintes símbolos:
+
+1.º (Revogado).
+
+2.º Uma cabeça de velho, para aplicar em artefactos grandes com marcas de extintos contrastes municipais;
+
+3.º Uma cabeça de velho, mais pequena que a anterior, para aplicar em artefactos pequenos, marcados com marcas de extintos contrastes municipais;
+
+4.º Uma cabeça de velho coroada com um lourel, para aplicar em artefactos grandes de reconhecido merecimento arqueológico, histórico ou artístico, de fabrico anterior à criação das contrastarias;
+
+5.º Uma cabeça de velho coroada com um lourel, mais pequena que a anterior, para aplicar em artefactos pequenos de reconhecido merecimento arqueológico, histórico ou artístico, de fabrico anterior à criação das contrastarias;
+
+6.º Uma pomba, denominado punção especial de contrastaria, para aplicar em artefactos apresentados isoladamente ou que não formem lote, significando que a garantia do toque se cinge a metal limpo ou que se trata de uma garantia de toque aproximado, por este ter sido avaliado pelo método de ensaio visual;
+
+7.º Uma cabeça de pelicano, para aplicar nos artefactos de ourivesaria importados por entidades não matriculadas e em artefactos de que se desconheça o responsável pelo seu fabrico, como sejam, entre outros, os destinados a venda em leilões públicos e os que tenham feito parte de apreensões motivadas por falta de marca;
+
+8.º (Revogado).
+
+9.º (Revogado).
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 79.º
+
+Os punções usados nas contrastarias de Lisboa e Porto distinguem-se pelos seus contornos, consistindo os da primeira numa figura irregular e os da segunda num octógono irregular simétrico.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 80.º
+
+Compete à administração da INCM, sob parecer do chefe das contrastarias, o fornecimento e reforma dos punções requisitados pelas contrastarias e, bem assim, a proposta, ao Ministro das Finanças e do Plano, de alteração dos respectivos símbolos, quando tal se torne necessário em consequência de roubo, furto, falsificação ou infidelidade.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 81.º
+
+Haverá ainda em cada contrastaria mais quatro punções, cujos símbolos, designação e significação vão indicados em anexo a este diploma, que dele faz parte integrante, destinados exclusivamente a marcar artefactos de ourivesaria nos termos prescritos na Convenção sobre Contrôle e Marcação de Artefactos de Metais Preciosos, após a sua ratificação pelo Estado Português, os quais, para todos os efeitos, nomeadamente os preventivos e repressivos da sua eventual falsificação, são reconhecidos como punções de contrastaria e, como tal, considerados cunhos do Estado.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo XIV — (Das receitas)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 82.º
+
+As taxas de matrícula das entidades em condições de inclusão em qualquer dos ramos de actividade referidos no n.º 1 do artigo 15.º são fixadas por portaria.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 83.º
+
+As licenças anuais, passadas nos termos do artigo 18.º, e a licença especial prevista no n.º 1 do artigo 31.º serão fixadas por portaria.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 84.º
+
+1 - Os emolumentos de ensaio e marcação de barras ou de medalhas comemorativas de metal precioso, artefactos de ourivesaria e relógios destinados a comércio interno, a cobrar nas contrastarias, serão estabelecidos por portaria.
+
+2 - Os artefactos marcados com punções de extintos contrastes municipais e os de reconhecido merecimento arqueológico, histórico ou artístico, de fabrico anterior à criação das contrastarias, ficam sujeitos, respectivamente, ao pagamento do duplo e quádruplo dos emolumentos que seriam devidos nos termos da tabela aprovada.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 85.º
+
+1 - Os artefactos e medalhas comemorativas destinados à exportação pagarão uma percentagem dos emolumentos aplicáveis se destinados ao comércio interno, conforme os toques sejam garantidos por meio das respectivas marcas ou por simples certidão.
+
+As percentagens aplicáveis serão fixadas por portaria.
+
+2 - Os artefactos e medalhas comemorativas rejeitados por deficiência de toque para comércio interno e que venham a ser marcados para exportação, ao abrigo da faculdade concedida no artigo 53.º, n.º 3, pagarão os emolumentos como se tivessem sido marcados para comércio interno.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 86.º
+
+Os artefactos e medalhas comemorativas rejeitados por deficiência de toque e que, por este motivo, devam ser inutilizados, bem como as barras de metal precioso que não possam ser marcadas por falta de homogeneidade da liga, pagarão emolumentos em percentagem dos que seriam devidos se fossem marcados.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 87.º
+
+Todos os artefactos e medalhas comemorativas que, por falta de acabamento ou qualquer outro motivo, não possam ser ensaiados ou marcados pagam um emolumento fixo, a definir por portaria.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 88.º
+
+O apresentante de barras ou de medalhas comemorativas de metal precioso ou de artefactos de ourivesaria que, inconformado, requeira a repetição do ensaio pagará, se este novo ensaio confirmar o anterior, o dobro dos emolumentos que lhe competiam se tivessem sido marcados, num mínimo a fixar por portaria.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 89.º
+
+Os artefactos de ourivesaria ou relógios de importação reexportados por deficiência de toque ou entregues aos seus destinatários «por marcar» pelo mesmo motivo pagarão 50% dos emolumentos devidos se fossem marcados, num mínimo a fixar por portaria.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 90.º
+
+Qualquer apresentante de barras ou medalhas comemorativas de metal precioso, de artefactos de ourivesaria ou de relógios de uso pessoal poderá obter prioridade no seu ensaio e marcação, mediante o pagamento de uma taxa de urgência igual a 20% do total dos emolumentos devidos, num mínimo a fixar por portaria.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 91.º
+
+As certidões passadas pelas contrastarias estão sujeitas, além do respectivo imposto do selo, ao emolumento em vigor para as Secretarias do Estado.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 92.º
+
+Os artefactos ou peças de metais preciosos importados nas condições do n.º 3 do artigo 36.º e os de fabrico nacional exportados e devolvidos por qualquer motivo que careçam, para serem isentos de direitos aduaneiros, de exame de contrastaria para confirmação da sua origem pagarão os emolumentos que lhes competiriam se tivessem de novo de ser ensaiados e marcados, abstraindo da qualidade das pedras de que, porventura, estejam ornamentados.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 93.º
+
+1 - Pela identificação ou outras informações de marcas existentes em barras e medalhas comemorativas de metal precioso, artefactos de ourivesaria ou relógios de uso pessoal que forem solicitadas às contrastarias será cobrada, por cada objecto, uma quantia a definir por portaria.
+
+2 - Nos casos previstos no n.º 2 do artigo 50.º - exame de diversos aí especificados e ensaio e marcação dos mesmos - são devidos emolumentos a definir por portaria.
+
+No primeiro caso - exame ou peritagem de artefactos de ourivesaria, medalhas comemorativas ou relógios de uso pessoal -, os emolumentos a cobrar são os correspondentes aos do ensaio e marcação, quer os objectos careçam ou não de marca, quer tenham ou não pedras.
+
+No segundo caso - ensaio e marcação dos ditos objectos -, os emolumentos são os devidos por estas operações, acrescidos de uma percentagem adicional e num mínimo a definir por portaria.
+
+Em ambos os casos, o pagamento de eventuais despesas de deslocação dos peritos e de ajudas de custo será de conta do apresentante.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 94.º
+
+Os erros cometidos, por excesso ou defeito, na liquidação dos emolumentos serão compensados, respectivamente, por dedução em futura guia, de valor igual ou superior ao erro, apresentada pelo mesmo utente ou mediante guia adicional.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 95.º
+
+1 - As multas pelas transgressões previstas nos artigos 3.º, 4.º, 7.º, 11.º, 12.º, 13.º, 14.º, 15.º, 18.º, 22.º, 23.º, 27.º, 29.º, 30.º, 31.º, 32.º, 33.º, 40.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º, 54.º, 102.º, 103.º, 104.º e 107.º deste Regulamento serão fixadas por portaria.
+
+2 - Considera-se perdida a favor do Estado a parte metálica dos artefactos apreendidos por infracções aos artigos 4.º, 13.º e 29.º e n.º 1 do artigo 54.º que venham a ser punidas com as correspondentes multas estabelecidas por portaria.
+
+As contrastarias procederão, no destino a dar ao metal dos artefactos apreendidos, de harmonia com o disposto nos n.os 1 e 2 do artigo 110.º
+
+3 - Os objectos apreendidos por infracções aos artigos 7.º e 29.º e n.os 1 e 2 do artigo 12.º, punidas com multas estabelecidas por portaria, só serão restituídos a quem de direito depois de se ter procedido à sua inutilização.
+
+4 - As pessoas singulares ou colectivas matriculadas a quem tenha sido aplicada a multa prevista na portaria por infracção ao artigo 13.º, bem como as pessoas singulares ou colectivas não matriculadas que tenham incorrido na falta prevista no mesmo artigo, ficam impedidas de se tornarem a matricular ou de se matricularem, consoante os casos, em qualquer das contrastarias e de exercerem funções de gerência ou administração de quaisquer outras pessoas singulares ou colectivas matriculadas nas contrastarias.
+
+5 - As multas e demais imposições legais aplicadas pelas contrastarias em processo de transgressão prescrevem decorridos dez anos após a decisão do respectivo processo ter transitado em julgado e não são convertíveis em prisão.
+
+6 - Sobre as importâncias dos emolumentos e multas fixadas ao abrigo deste Regulamento não recaem quaisquer adicionais.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+###### Artigo 96.º
+
+As receitas das contrastarias são receitas do Estado, nos termos do artigo 59.º do Decreto-Lei n.º 225/72, de 4 de Julho, sem prejuízo do disposto no n.º 2 do artigo 81.º do mesmo diploma, salvo a comparticipação de 25% da importância das multas cobradas, reservada para o autuante ou, em partes iguais, para este e para o denunciante.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 171/99 - Diário da República n.º 116/1999, Série I-A de 1999-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1999-323950), em vigor a partir de 1999-05-24
+
+### Capítulo XV — (Do Conselho Técnico de Ourivesaria)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 97.º
+
+É criado o Conselho Técnico de Ourivesaria (CTO), o qual funcionará junto da administração da INCM, sob a presidência de um administrador, que terá voto de qualidade. Do CTO farão também parte, como vogais, o director do Departamento das Contrastarias e os chefes de contrastarias, por inerência dos cargos, e um delegado representativo de cada uma das associações dos industriais de ourivesaria e dos comerciantes de ourivesaria. Um dos chefes de contrastarias fará de secretário do CTO.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 98.º
+
+O Conselho Técnico de Ourivesaria funciona como órgão essencialmente consultivo do conselho de administração da INCM, no âmbito das atribuições que expressamente lhe estão designadas, e os seus pareceres, para terem força executória, carecem de prévia homologação do referido conselho de administração.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 99.º
+
+Compete ao Conselho Técnico de Ourivesaria:
+
+1) Pronunciar-se sobre o merecimento artístico, histórico ou arqueológico das peças que, para o efeito da sua marcação, segundo uma destas classificações, os chefes de contrastaria entendam submeter à sua apreciação, podendo, para melhor fundamentar o seu parecer, socorrer-se de consultas dirigidas a entidades de reconhecida competência na matéria;
+
+2) Enunciar os artefactos de ourivesaria que, para efeito do disposto no n.º 3) da alínea j) do n.º 1 do artigo 15.º, mereçam a classificação de interesse turístico, bem como emitir parecer acerca dos pedidos de matrícula de «retalhista com estabelecimento especial de artesanato», a que se referem os n.os 1 e 2 do artigo 17.º;
+
+3) Pronunciar-se acerca da limitação mínima da espessura ou secção da chapa ou fio, de harmonia com o disposto na regra 6.ª do artigo 25.º;
+
+4) Propor a tabela de emolumentos mínimos, a cobrar pelos ensaiadores-fundidores, e a sua revisão, conforme o disposto no artigo 47.º;
+
+5) Definir a nomenclatura das pedras preciosas e promover a todo o tempo a sua alteração, logo que esta se justifique, de acordo com o disposto no artigo 105.º deste diploma;
+
+6) (Revogado).
+
+7) (Revogado).
+
+8) Prestar informações sobre a legitimidade dos pedidos de registo de modelos de artefactos de ourivesaria, dirigidos à Repartição da Propriedade Industrial, no tocante à originalidade da sua concepção, de acordo com as normas estabelecidas no respectivo Código;
+
+9) (Revogado).
+
+10) Estudar e emitir parecer sobre reclamações ou sugestões relacionadas com a indústria e comércio de ourivesaria ou acerca do funcionamento dos serviços de contrastaria ou ainda relativas a dúvidas suscitadas por interpretações controversas das disposições regulamentares, quando nesse sentido for solicitado pelo conselho de administração da INCM;
+
+11) (Revogado).
+
+12) (Revogado).
+
+13) Recomendar, junto dos organismos representativos dos sectores industrial e comercial dos ourives, as providências de cuja adopção julgue resultar valioso contributo ao aperfeiçoamento técnico e artístico da indústria de ourivesaria para, através dele, se criarem condições favoráveis de competição, crédito e expansão, tanto no mercado interno como externo, à ourivesaria portuguesa.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 100.º
+
+1 - O Conselho Técnico de Ourivesaria reunirá a pedido fundamentado de, pelo menos, dois dos seus membros ou por livre iniciativa do seu presidente. A sua convocação será obrigatória quando tenha de pronunciar-se sobre qualquer das questões enumeradas nos n.os 1) e 2) do artigo anterior, dentro do prazo máximo de trinta dias, contado da data da entrada para apreciação.
+
+2 - O presidente pode convocar o Conselho com a constituição restrita ao chefe das contrastarias e aos chefes de contrastaria, desde que os assuntos constantes da sua ordem de trabalhos se circunscrevam aos enunciados em qualquer dos n.os 9), 11) e 12) do artigo anterior.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 101.º
+
+1 - Compete ao presidente:
+
+a) Mandar convocar o Conselho com a devida antecedência;
+
+b) Aprovar a ordem dos trabalhos a observar nas reuniões e mandar proceder à sua distribuição juntamente com o aviso da convocação;
+
+c) Dirigir os trabalhos durante as sessões;
+
+d) Usar do direito de voto de qualidade nas votações em que se verifique empate;
+
+e) Coordenar a acção do Conselho com a do conselho de administração da INCM, a quem submeterá os pareceres que careçam de homologação.
+
+2 - Compete ao secretário:
+
+a) Lavrar as actas das sessões;
+
+b) Dar andamento ao expediente.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+### Capítulo XVI — (Disposições gerais e transitórias)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 102.º
+
+Em todas as transacções de barras ou medalhas comemorativas de metal precioso, de artefactos de ourivesaria e de relógios de uso pessoal é obrigatória a passagem da respectiva factura, da qual constará, sem prejuízo do disposto no n.º 5 do artigo 35.º do CIVA e no n.º 3 do artigo 3.º e nos artigos 4.º e 7.º a 11.º do Decreto-Lei n.º 45/89, de 11 de Fevereiro, a designação dos artigos transaccionados, espécie de metal ou metais, peso, valor da transacção e, quando for caso disso, a qualidade e quantidade das pedras preciosas ou pérolas. Nas facturas dos industriais deverá ainda figurar impresso o desenho da sua marca privativa.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 103.º
+
+Os industriais e armazenistas de ourivesaria e relojoaria são obrigados a possuir um registo diário actualizado, de saída ou de entrada e saída, consoante se trate de industrial ou de armazenista, de medalhas comemorativas de metal precioso, dos artefactos de ourivesaria e relógios de uso pessoal por si movimentados, através do qual seja possível identificar a sua proveniência e destino, confirmados pelas respectivas facturas ou duplicados, os quais serão postos à disposição do respectivo chefe da contrastaria da área quando a sua consulta se torne necessária.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 104.º
+
+Todos os comerciantes matriculados nas diversas modalidades de venda directa ao público são obrigados a adoptar um sistema capaz de identificar com segurança a proveniência das medalhas comemorativas de metal precioso, dos artefactos de ourivesaria e relógios existentes no seu estabelecimento ou por si transportados e que se considerem, em qualquer dos casos, destinados à venda ao público, nos termos regulamentares.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 105.º
+
+A administração da INCM mandará publicar a nomenclatura das pedras preciosas e pérolas que, quando aplicadas em artefactos de ourivesaria, conferem a estes a classificação de artefactos de joalharia para efeitos de liquidação emolumentar.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 106.º
+
+A Repartição da Propriedade Industrial, antes de se pronunciar definitivamente sobre pedidos de patentes de invenção, depósito de modelos de utilidade, modelos ou desenhos industriais de algum modo relacionados com a indústria de ourivesaria, tomará em consideração o parecer do Conselho Técnico de Ourivesaria sobre a sua originalidade, remetendo para o efeito à administração da INCM um exemplar do desenho, fotografia ou modelo que tenha acompanhado o pedido.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 107.º
+
+Todas as pessoas singulares ou colectivas matriculadas nas contrastarias são obrigadas a possuir um exemplar deste Regulamento e outro da portaria que o completa.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 108.º
+
+As barras ou medalhas comemorativas de metal precioso, os artefactos de ourivesaria e relógios de uso pessoal, qualquer que seja a sua origem, não poderão ficar retidos nas contrastarias, salvo motivo de força maior, mais de cinco dias úteis ou mais de dois dias úteis, quando seja paga taxa de urgência, prazos contados a partir da entrada na contrastaria ou, caso se trate de importação, da apresentação de declaração de estarem pagos os direitos aduaneiros.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542), em vigor a partir de 1998-03-21
+
+###### Artigo 109.º
+
+Consideram-se perdidos a favor do Estado os objectos que não forem retirados das contrastarias dentro do prazo de um ano, contado da data da sua apresentação para ensaio e marcação ou da notificação da decisão que permita o seu levantamento, e ainda quaisquer outros vinculados a processos cujas multas ou demais encargos não hajam sido liquidados dentro dos prazos legais.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 110.º
+
+1 - Todos os objectos dados como perdidos a favor do Estado serão vendidos pela contrastaria respectiva, avulso ou em lotes, fundidos ou intactos, como em face de cada caso se tornar mais aconselhável, por meio de praça anunciada em editais afixados no átrio do edifício da contrastaria, de que se remeterão cópias, com dez dias de antecedência, aos organismos representativos da classe de ourives.
+
+2 - O produto da venda a que se refere o número anterior terá o seguinte destino:
+
+1.º Será entregue a quem de direito a importância que tenha sido reconhecida como devida aos lesados, de acordo com a decisão condenatória do processo de transgressão a que digam respeito os objectos, e de igual modo, nos processos que hajam sido julgados em falhas, será entregue ao autuante ou ao autuante e denunciante a comparticipação nas multas devidas, calculada nos termos do artigo 96.º;
+
+2.º O remanescente constitui receita do Estado.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 111.º
+
+Antecedendo o encerramento da contrastaria e logo que findos os trabalhos diários de marcação, o respectivo chefe de contrastaria procederá à recolha e conferência dos punções em uso, encerrando-os em caixa fechada, cuja chave ficará à sua guarda.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 112.º
+
+Diariamente, depois de terminados os trabalhos, as barras, as medalhas comemorativas de metal precioso, os artefactos de ourivesaria, os relógios, os punções e os demais valores existentes nas contrastarias serão guardados na casa-forte e outros cofres a isso destinados, de que são claviculários o respectivo chefe de contrastaria e o responsável pelos serviços de tesouraria.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 113.º
+
+As limalhas dos ensaios e varreduras das contrastarias revertem a favor das instituições de assistência dos ourives da respectiva área.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 114.º
+
+As contrastarias procederão ao averbamento, nas matrículas existentes à data da publicação deste diploma, a requerimento dos respectivos titulares e até final da próxima renovação das licenças, de uma das modalidades previstas no n.º 1 do artigo 15.º que se harmonize com as actividades realmente exercidas no ano transacto. A falta do pedido de averbamento no prazo indicado implica a baixa compulsiva da matrícula.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 115.º
+
+Os avaliadores oficiais em exercício e os ensaiadores comerciais devem, sob pena de suspensão da sua actividade, requerer, no prazo de sessenta dias, contado da publicação deste diploma, a adaptação das suas cauções aos moldes agora estabelecidos para cada um dos casos, dispensando-se os últimos de exame de aptidão se pretenderem continuar a exercer as funções como ensaiador-fundidor.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 116.º
+
+Aos estabelecimentos mistos de ourivesaria actualmente matriculados que não satisfaçam às restrições impostas neste Regulamento relativas à sua localização é mantida a matrícula com as faculdades de que usufruíam, enquanto não se verifique modificação da firma titular ou mudança de local do estabelecimento.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 117.º
+
+Os artefactos de ourivesaria e relógios de uso pessoal marcados de harmonia com as disposições legais vigentes à data da publicação deste Regulamento consideram-se, para efeito da sua exposição e venda ao público, legalmente marcados.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 118.º
+
+Os possuidores de barras ou medalhas comemorativas de metal precioso podem submetê-las, a título excepcional, no prazo de noventa dias, a ensaio e marcação em qualquer das contrastarias. Findo este prazo, a sua exposição e venda ao público só é permitida nas condições estabelecidas neste Regulamento.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 119.º
+
+O cumprimento do disposto na regra 4.º do artigo 25.º só é de exigir decorridos cento e oitenta dias sobre a data da publicação deste diploma, período que se julga necessário e suficiente ao uso de novas técnicas oficinais que permitam a preparação de solda com os toques nela indicados e a sua aplicação no fabrico de artefactos de ourivesaria.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+###### Artigo 120.º
+
+Enquanto não entrarem em uso os novos punções aprovados por este Regulamento, fica suspensa a execução das disposições relativas à sua aplicação, mantendo-se a este respeito o regime anteriormente vigente.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+## Anexo — (Artigo 81.º do Regulamento das Contrastarias)
+
+Símbolo dos punções destinados a marcar artefactos, de acordo com as normas estabelecidas na Convenção sobre Contrôle e Marcação de Artefactos de Metais Preciosos: uma balança, designada por «marca comum», contendo, em algarismos árabes, a indicação do toque e contornada por:
+
+1) Um losango, para aplicar em artefactos de platina do toque indicado:
+
+(ver documento original)
+
+2) Linhas circulares, para aplicar em artefactos de ouro do toque indicado:
+
+(ver documento original)
+
+3) Uma linha quebrada, para aplicar em artefactos de prata do toque indicado:
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16
+
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18](https://diariodarepublica.pt/dr/detalhe/lei/98-2015-70042475), em vigor a partir de 2015-11-16

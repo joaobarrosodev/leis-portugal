@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:234915:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-946590050",
+ "dre_path": "/dr/detalhe/decreto-lei/193-1992-234915",
+ "source_lastmod": "2025-11-17",
+ "versions": [
+  {
+   "date": "1992-09-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "946695582",
+    "946695583"
+   ]
+  },
+  {
+   "date": "1992-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:449957:por",
+     "title": "Declaração de Rectificação n.º 206/92",
+     "published": "1992-12-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/206-1992-449957"
+    }
+   ],
+   "changes": [
+    "Retifica Base único"
+   ],
+   "fragments": [
+    "946695582",
+    "946695587",
+    "946695584"
+   ]
+  }
+ ],
+ "fragments": {
+  "946695582": {
+   "fragment_id": "946590051",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 193/92\n\nde 8 de Setembro\n\nA construção e a manutenção das grandes obras rodoviárias, nomeadamente as auto-estradas, importam para os Estados elevados custos, sendo usual, na maioria dos países, a cobrança de uma taxa aos seus utilizadores.\n\nAté ao presente momento, a legislação portuguesa não penalizou com carácter geral o utente que se recuse a pagar a respectiva taxa, o que coloca em situação de privilégio o faltoso em relação ao utente cumpridor, situação que importa corrigir.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "946695583": {
+   "fragment_id": "946590052",
+   "type": 2,
+   "heading": "Base único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base único\n\nA base XVIII do contrato de concessão da construção, conservação e exploração de auto-estradas, outorgado à BRISA - Auto-Estradas de Portugal, S. A., e aprovado pelo Decreto-Lei n.º 315/91, de 20 de Agosto, passa a ter a seguinte redacção:\n\nBase XVIII\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - As taxas de portagem a praticar inicialmente nos lanços e sublanços que entrem em serviço posteriormente à presente data serão aprovadas por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, mediante proposta da concessionária, a qual será apresentada com a antecedência mínima de 60 dias em relação à data prevista para a sua entrada em vigor, prazo findo o qual as referidas taxas se consideram tacitamente aprovadas.\n\n7 - A falta de pagamento de qualquer taxa de portagem devidamente aprovada é punida com multa, nunca inferior a 5000$00, cujo montante mínimo será igual a 10 vezes o valor da respectiva taxa de portagem e o máximo o quíntuplo do mínimo.\n\n8 - Quando for variável a determinação da taxa de portagem em função do percurso percorrido, deve considerar-se o valor máximo cobrável no respectivo lanço.\n\n9 - Sempre que um utente passe uma portagem sem proceder ao pagamento da taxa devida é levantado auto de notícia.\n\n10 - Além das entidades com competência para a fiscalização do trânsito, podem levantar os autos referidos no número anterior os portageiros da entidade concessionária, os quais se consideram, para esse efeito, equiparados a funcionários públicos.\n\n11 - A detecção das infracções previstas no n.º 7 pode ser efectuada através de equipamentos técnicos que registem a imagem do veículo com o qual a infracção foi praticada.\n\n12 - Os aparelhos a utilizar para o fim mencionado no número anterior devem ser previamente aprovados pela Direcção-Geral de Viação, nos termos e para os efeitos do n.º 5 do artigo 64.º do Código da Estrada."
+  },
+  "946695587": {
+   "fragment_id": "946590052",
+   "type": 2,
+   "heading": "Base único",
+   "in_force_from": "1992-12-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 206/92 - Diário da República n.º 301/1992, 8º Suplemento, Série I-A de 1992-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/206-1992-449957), em vigor a partir de 1992-12-31"
+   ],
+   "markdown": "###### Base único\n\nA base XVIII do contrato de concessão da construção, conservação e exploração de auto-estradas, outorgado à BRISA - Auto-Estradas de Portugal, S. A., e aprovado pelo Decreto-Lei n.º 315/91, de 20 de Agosto, passa a ter a seguinte redacção:\n\nBase XVIII\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - As taxas de portagem a praticar inicialmente nos lanços e sublanços que entrem em serviço posteriormente à presente data serão aprovadas por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, mediante proposta da concessionária, a qual será apresentada com a antecedência mínima de 60 dias em relação à data prevista para a sua entrada em vigor, prazo findo o qual as referidas taxas se consideram tacitamente aprovadas.\n\n7 - A falta de pagamento de qualquer taxa de portagem devidamente aprovada é punida com multa, nunca inferior a 5000$00, cujo montante mínimo será igual a 10 vezes o valor da respectiva taxa de portagem e o máximo o quíntuplo do mínimo.\n\n8 - Quando for variável a determinação da taxa de portagem em função do percurso percorrido, deve considerar-se o valor máximo cobrável no respectivo lanço.\n\n9 - Sempre que um utente passe uma portagem sem proceder ao pagamento da taxa devida é levantado auto de notícia.\n\n10 - Além das entidades com competência para a fiscalização do trânsito, podem levantar os autos referidos no número anterior os portageiros da entidade concessionária, os quais se consideram, para esse efeito, equiparados a funcionários públicos.\n\n11 - A detecção das infracções previstas no n.º 7 pode ser efectuada através de equipamentos técnicos que registem a imagem do veículo com o qual a infracção foi praticada.\n\n12 - Os aparelhos a utilizar para o fim mencionado no número anterior devem ser previamente aprovados pela Direcção-Geral de Viação, nos termos e para os efeitos do n.º 5 do artigo 64.º do Código da Estrada.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 206/92 - Diário da República n.º 301/1992, 8º Suplemento, Série I-A de 1992-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/206-1992-449957), em vigor a partir de 1992-12-31"
+  },
+  "946695584": {
+   "fragment_id": "946590053",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Julho de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 25 de Agosto de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Agosto de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

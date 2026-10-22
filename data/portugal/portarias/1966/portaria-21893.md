@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:491406:por
+title: Portaria n.º 21893
+short_title: null
+summary: Manda retirar da circulação selos postais de várias emissões e taxas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Administração-Geral dos Correios, Telégrafos e Telefones - Direcção dos Serviços Industriais
+proposing_entity: null
+official_number: '21893'
+official_date: null
+publication_date: '1966-02-25'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 47/1966, Série I de 1966-02-25
+  number: '47'
+  series: I
+  supplement: null
+  pages: 272 - 272
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/02/04700/02720272.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '491406'
+  dre_path: /dr/detalhe/portaria/21893-1966-491406
+  internal: pt:dre:491406:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21893-1966-491406
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21893-1966-491406
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-02-25T00:00:00Z'
+integrity:
+  source_sha256: 29e39257ff90d2d63469186089e5f95b3ba30b682e484f0bf4eecd292852e549
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-21893-491406.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21893
+
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, nos termos dos artigos 39.º e 40.º do Estatuto do Selo Postal dos CTT, que:
+
+a) Sejam retirados da circulação os selos postais das seguintes emissões e taxas:
+
+X Congresso Internacional de Pediatria: $50, 1$00, 2$80 e 3$50;
+
+Dia do Selo: 1$00, 2$00 e 2$80;
+
+I Centenário do Banco Nacional Ultramarino: 1$00, 2$50 e 3$50;
+
+Centenário do Sameiro: 1$00, 2$00 e 5$00;
+
+Europa-64 (5.º aniversário da Conferência Europeia das Administrações dos Correios e Telecomunicações - C. E. P. T.): 1$00, 3$50 e 4$30;
+
+Centenário do Diário de Notícias: 1$00 e 5$00.
+
+b) Os selos indicados na presente portaria deixem de ter validade a partir de 1 de Julho da corrente ano;
+
+c) Os mesmos selos possam ser trocados por outros que estejam em vigor, desde que não se verifique qualquer dos impedimentos cominados no § 2.º do artigo 40.º do estatuto.
+
+As trocas poderão ser efectuadas nas estações dos CTT do Terreiro do Paço, em Lisboa, e Batalha, no Porto, ou nas tesourarias da Fazenda Pública das outras localidades até 31 de Outubro de 1966;
+
+d) A devolução aos Armazéns Gerais dos CTT seja efectuada até 30 de Novembro seguinte.
+
+Ministério das Comunicações, 25 de Fevereiro de 1966. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

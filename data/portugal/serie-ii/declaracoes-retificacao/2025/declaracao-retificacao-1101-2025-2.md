@@ -1,0 +1,526 @@
+---
+schema_version: '1.0'
+id: pt:dre:958645898:por
+title: Declaração de Retificação n.º 1101/2025/2
+short_title: null
+summary: Retifica o Aviso n.º 28099/2025/2, de 12 de novembro, publicado no Diário da República, 2.ª série, n.º 219, de 12
+  de novembro de 2025, e prorroga o prazo de submissão de candidaturas.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ambiente e Energia - Direção-Geral de Energia e Geologia
+proposing_entity: null
+official_number: 1101/2025/2
+official_date: null
+publication_date: '2025-12-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/2025, Série II de 2025-12-02
+  number: '232'
+  series: II
+  supplement: null
+  pages: 72 - 79
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/12/232000000/0007200079.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '958645898'
+  dre_path: /dr/detalhe/declaracao-retificacao/1101-2025-958645898
+  internal: pt:dre:958645898:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1101-2025-958645898
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1101-2025-958645898
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-12-02T00:00:00Z'
+integrity:
+  source_sha256: 3d192f1cdc99faacfcead62f74a210f2efc01b11f2cc09d4233d43f9e7d4c8ce
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-1101-958645898.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: celex:32003L0087
+  label: null
+  source: null
+- type: cites
+  target: celex:32018L0410
+  label: null
+  source: null
+- type: cites
+  target: celex:32020R0852
+  label: null
+  source: null
+- type: cites
+  target: celex:32021R2139
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 1101/2025/2
+
+Ao abrigo do disposto nos n.<sup>os</sup>2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, prorroga-se o prazo de submissão de candidaturas previsto no [Aviso n.º 28099/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso/28099-2025-945687378), de 12 de novembro, publicado no Diário da República, 2.ª série, n.º 219, de 12 de novembro de 2025, e que saiu com a seguinte inexatidão material, que assim se retifica:
+
+Onde se lê:
+
+«1 - Enquadramento e Objetivo:
+
+O Fundo de Modernização (FM) foi criado para o período compreendido entre 2021 e 2030, ao abrigo do artigo 10.º-D da Diretiva (UE) 2018/410 do Parlamento Europeu e do Conselho de 14 de março de 2018 que altera a Diretiva 2003/87/CE. Destina-se a apoiar investimentos nos Estados-Membros (EMs) beneficiários com PIB per capita inferior a 60 % da média da União Europeia (UE) em 2013, entre os quais se inclui Portugal.
+
+[...]
+
+2 - Âmbito Setorial e Prioridades de Financiamento:
+
+O FM identifica cinco áreas prioritárias de investimento, mas, nos termos do despacho da Sra. Ministra do Ambiente e Energia (Despacho n.º 40/MAEN/2025), foram consideradas para Portugal três áreas prioritárias, correspondentes às que apresentam maior potencial de impacto e alinhamento com as metas nacionais de descarbonização.
+
+[...]
+
+1 - [...]
+
+Exemplos:
+
+1.1 - [...]
+
+1.2 - [...]
+
+1.3 - [...]
+
+1.4 - [...]
+
+1.5 - [...]
+
+2 - [...]
+
+Exemplos:
+
+2.1 - [...]
+
+2.2 - [...]
+
+2.3 - [...]
+
+2.4 - [...]
+
+2.5 - [...]
+
+2.6 - [...]
+
+2.7 - [...]
+
+2.8 - [...]
+
+2.9 - [...]
+
+2.10 - [...]
+
+3 - Gases Renováveis - produção, injeção e utilização de hidrogénio verde e outros gases renováveis, bem como infraestruturas de transporte e armazenamento.
+
+Exemplos:
+
+3.1 - [...]
+
+a) Projetos de produção de eletricidade a par r de fontes renováveis;
+
+b) Produção de Hidrogénio renovável a par r de eletricidade renovável. Utilização de Hidrogénio produzido a par r de eletricidade renovável;
+
+c) [...]
+
+d) [...]
+
+3.2 - Aquecimento e arrefecimento a partir de fontes renováveis:
+
+a) Bombas de calor;
+
+b) Solar Térmico;
+
+c) Geotérmica.
+
+[...]
+
+3 - Beneficiários:
+
+[...]
+
+4 - Tipologia de Operações Elegíveis:
+
+São consideradas operações elegíveis aquelas que contribuem diretamente para os objetivos centrais do Fundo, incluindo redução do consumo energético, substituição de combustíveis fósseis por fontes renováveis, diminuição de emissões de GEE e reforço da resiliência energética. Entre estas operações incluem-se:
+
+Reabilitação energética de edifícios industriais e de serviços, contribuindo para a redução do consumo energético final (kWh/ano).
+
+Substituição de caldeiras a gás ou propano por soluções baseadas em fontes renováveis, aumentando a produção de energia renovável (MWh/ano).
+
+Instalação de sistemas solares fotovoltaicos, bombas de calor, geotermia e outras tecnologias limpas, promovendo a substituição de fósseis e eficiência energética.
+
+Projetos de produção/utilização de hidrogénio renovável, biometano e outros gases renováveis, contribuindo para a redução de emissões de GEE (tCO eq/ano).
+
+Modernização de processos industriais com integração de tecnologias de baixo carbono, aumentando eficiência e reduzindo emissões.
+
+Projetos-piloto de redes inteligentes, autoconsumo coletivo e comunidades de energia, reforçando a resiliência energética e flexibilidade do sistema.
+
+Sistemas de armazenamento de energia, incluindo baterias, hidrogénio e outras soluções de flexibilidade, fortalecendo a capacidade de resposta e resiliência da rede.
+
+5 - Custos Elegíveis:
+
+De acordo com os regulamentos do FM e as orientações da Comissão Europeia, podem ser apoiados:
+
+Estudos, auditorias e projetos de engenharia.
+
+Aquisição de equipamentos e tecnologias de baixo carbono.
+
+Obras de adaptação e modernização diretamente relacionadas com o projeto.
+
+Sistemas digitais de monitorização, controlo e gestão de energia.
+
+Custos associados à instalação, ligação à rede e integração de sistemas.
+
+IVA não recuperável, quando aplicável.
+
+Não são elegíveis:
+
+Custos de operação e manutenção.
+
+Aquisição de terrenos.
+
+Tecnologias baseadas em combustíveis fósseis.
+
+Despesas anteriores à data de candidatura, salvo nos casos em que o FM admita retroatividade devidamente autorizada.
+
+6 - Regras de Auxílios de Estado:
+
+[...]
+
+7 - Critérios de Seleção:
+
+[...]
+
+1 - Alinhamento com os objetivos do FM e Diretiva ETS o Contribuição para a modernização dos sistemas energéticos e melhoria da eficiência energética;
+
+Apoio a investimentos prioritários, ou, caso não prioritários, demonstração de uma redução clara das emissões de GEE.
+
+2 - Princípio Do No Significant Harm (DNSH) o Confirmação de que o investimento não causa danos significativos a nenhum dos objetivos ambientais estabelecidos no Regulamento (UE) 2020/852 do Parlamento e do Conselho de 18 de junho de 2020 incluindo mitigação das alterações climáticas, adaptação às alterações climáticas, gestão sustentável da água e recursos marinhos, economia circular, prevenção da poluição e proteção da biodiversidade;
+
+Cumprimento dos critérios técnicos definidos pela Comissão Europeia através do Regulamento Delegado (UE) 2021/2139 da Comissão, de 4 de junho de 2021
+
+3 - Conformidade com regras de auxílio de Estado o Declaração sobre a existência ou não de auxílio de Estado, nos termos do artigo 107.º do TFUE;
+
+Em caso afirmativo, as informações a apresentar, entre outras, são as seguintes:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+[...]
+
+4 - Justificação de segurança energética (quando aplicável);
+
+[...]
+
+5 - Evidência de implementação e progresso do projeto:
+
+Para esquemas e projetos de grande escala, apresentar evidência do progresso técnico e financeiro, incluindo:
+
+Resultados e objetivos já alcançados;
+
+Conformidade com o cronograma original;
+
+Justificação de eventuais desvios e medidas corretivas.
+
+8 - Condições Gerais:
+
+[...]
+
+9 - Documentos e Informações Complementares Sugeridas (Appendix 6 - formulário do FM).
+
+[...]
+
+Licenças, autorizações ambientais e direitos de utilização dos edifícios ou instalações.
+
+Plano detalhado de execução técnica, incluindo etapas e responsabilidades.
+
+Cronograma financeiro detalhado: desembolsos previstos e faturação.
+
+Estimativas de redução de consumo energético e emissões de GEE, bem como quota de renováveis.
+
+Demonstração de cumprimento do princípio DNSH.
+
+Experiência do promotor em projetos similares.
+
+Comprovar capacidade financeira (balanços, garantias, linhas de crédito). Parcerias ou contratos com fornecedores/operadores relevantes.
+
+Planos de monitorização, indicadores de performance e manutenção/operacional pós investimento.
+
+Descrição da inovação, replicabilidade ou escalabilidade do projeto.
+
+10 - Submissão de Candidaturas:
+
+As candidaturas ao FM devem ser efetuadas até às 23h59 do dia 5 de dezembro de 2025.
+
+[...]
+
+Após preenchimento, em língua inglesa, as propostas deverão ser enviadas em formato digital para o seguinte endereço: fundo.modernização@dgeg.gov.pt.
+
+11 - Dotação Financeira e Modalidade de Apoio:
+
+[...]
+
+12 - Esclarecimentos:
+
+Questões adicionais podem ser colocadas através do endereço:
+
+fundo.modernização@dgeg.gov.pt»
+
+deve ler-se:
+
+«1 - Enquadramento e Objetivo:
+
+O Fundo de Modernização (FM) foi criado para o período compreendido entre 2021 e 2030, ao abrigo do artigo 10.º-D da Diretiva (UE) 2018/410 do Parlamento Europeu e do Conselho de 14 de março de 2018 que altera a Diretiva 2003/87/CE. Na sua 2.ª fase, destina-se a apoiar investimentos nos Estados-Membros (EMs) beneficiários com PIB per capita inferior a 75 % da média da União Europeia (UE) no período compreendido entre 2016 e 2018, entre os quais se inclui Portugal.
+
+[...]
+
+2 - Âmbito Setorial e Prioridades de Financiamento:
+
+O FM identifica cinco áreas prioritárias de investimento, segundo o n.º 2 do artigo 10.º-D da Diretiva (UE) 2018/410 do Parlamento Europeu e do Conselho de 14 de março de 2018 que altera a Diretiva 2003/87/CE. Perante estas, nos termos do despacho da Ministra do Ambiente e Energia (Despacho n.º 40/MAEN/2025), foram consideradas para Portugal três áreas prioritárias que se pretendem apoiar, correspondentes às que apresentam maior potencial de impacto e alinhamento com as metas nacionais de descarbonização.
+
+São consideradas no presente aviso as seguintes áreas prioritárias de investimento para Portugal:
+
+2.1 - [...]
+
+Exemplos:
+
+2.1.1 - [...]
+
+2.1.2 - [...]
+
+2.1.3 - [...]
+
+2.1.4 - [...]
+
+2.1.5 - [...]
+
+Adicionalmente, estão também abrangidas tecnologias de aquecimento e arrefecimento a partir de fontes renováveis, tais como bombas de calor, solar térmico e geotermia.
+
+2.2 - [...]
+
+Exemplos:
+
+2.2.1 - [...]
+
+2.2.2 - [...]
+
+2.2.3 - [...]
+
+2.2.4 - [...]
+
+2.2.5 - [...]
+
+2.2.6 - [...]
+
+2.2.7 - [...]
+
+2.2.8 - [...]
+
+2.2.9 - [...]
+
+2.2.10 - [...]
+
+2.3 - Gases renováveis - produção e utilização de energia proveniente de fontes renováveis.
+
+Exemplos:
+
+2.3.1 - [...]
+
+a) Projetos de produção de eletricidade a partir de fontes renováveis (gases renováveis);
+
+b) Produção de hidrogénio renovável a partir de eletricidade renovável. Utilização de hidrogénio produzido a partir de eletricidade renovável;
+
+c) [...]
+
+d) [...]
+
+Adicionalmente, podem ser considerados investimentos não-prioritários, desde que demonstrem contribuição clara para a redução de emissões de GEE e cumpram os requisitos do artigo 10.º-D da Diretiva ETS.
+
+3 - Beneficiários:
+
+[...]
+
+4 - Tipologia de Operações Elegíveis:
+
+São consideradas operações elegíveis aquelas que contribuem diretamente para os objetivos centrais do Fundo, incluindo redução do consumo energético, substituição de combustíveis fósseis por fontes renováveis, diminuição de emissões de GEE e reforço da resiliência energética. Entre estas operações incluem-se:
+
+4.1 - Reabilitação energética de edifícios industriais e de serviços, contribuindo para a redução do consumo energético final (kWh/ano);
+
+4.2 - Substituição de caldeiras a gás ou propano por soluções baseadas em fontes renováveis, aumentando a produção de energia renovável (MWh/ano);
+
+4.3 - Instalação de sistemas solares fotovoltaicos, bombas de calor, geotermia e outras tecnologias limpas, promovendo a substituição de fósseis e eficiência energética;
+
+4.4 - Projetos de produção/utilização de hidrogénio renovável, biometano e outros gases renováveis, contribuindo para a redução de emissões de GEE (tCO eq/ano);
+
+4.5 - Modernização de processos industriais com integração de tecnologias de baixo carbono, aumentando eficiência e reduzindo emissões;
+
+4.6 - Projetos-piloto de redes inteligentes, autoconsumo coletivo e comunidades de energia, reforçando a resiliência energética e flexibilidade do sistema;
+
+4.7 - Sistemas de armazenamento de energia, incluindo baterias, hidrogénio e outras soluções de flexibilidade, fortalecendo a capacidade de resposta e resiliência da rede.
+
+5 - Custos Elegíveis:
+
+De acordo com os regulamentos do FM e as orientações da Comissão Europeia, podem ser apoiados:
+
+5.1 - Estudos, auditorias e projetos de engenharia;
+
+5.2 - Aquisição de equipamentos e tecnologias de baixo carbono;
+
+5.3 - Obras de adaptação e modernização diretamente relacionas com o projeto;
+
+5.4 - Sistemas digitais de monitorização, controlo e gestão de energia;
+
+5.5 - Custos associados à instalação, ligação à rede e integração de sistemas;
+
+5.6 - IVA não recuperável, quando aplicável.
+
+Não são elegíveis:
+
+5.7 - Custos de operação e manutenção;
+
+5.8 - Aquisição de terrenos;
+
+5.9 - Tecnologias baseadas em combustíveis fósseis;
+
+5.10 - Despesas anteriores à data de candidatura, salvo nos casos em que o FM admita retroatividade devidamente autorizada.
+
+6 - Regras de Auxílios de Estado:
+
+[...]
+
+7 - Critérios de Seleção:
+
+[...]
+
+7.1 - Alinhamento com os objetivos do FM e Diretiva ETS:
+
+a) Contribuição para a modernização dos sistemas energéticos e melhoria da eficiência energética;
+
+b) Apoio a investimentos prioritários, ou, caso não prioritários, demonstração de uma redução clara das emissões de GEE.
+
+7.2 - Princípio Do No Significant Harm (DNSH):
+
+a) Confirmação de que o investimento não causa danos significativos a nenhum dos objetivos ambientais estabelecidos no Regulamento (UE) 2020/852 do Parlamento e do Conselho de 18 de junho de 2020 incluindo mitigação das alterações climáticas, adaptação às alterações climáticas, gestão sustentável da água e recursos marinhos, economia circular, prevenção da poluição e proteção da biodiversidade;
+
+b) Cumprimento dos critérios técnicos definidos pela Comissão Europeia através do Regulamento Delegado (UE) 2021/2139 da Comissão, de 4 de junho de 2021.
+
+7.3 - Conformidade com regras de auxílio de Estado:
+
+a) Declaração sobre a existência ou não de auxílio de Estado, nos termos do artigo 107.º do TFUE;
+
+Em caso afirmativo, as informações a apresentar, entre outras, são as seguintes:
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+[...]
+
+7.4 - Justificação de segurança energética (quando aplicável);
+
+[...]
+
+7.5 - Evidência de implementação e progresso do projeto:
+
+Para esquemas e projetos de grande escala, apresentar evidência do progresso técnico e financeiro, incluindo:
+
+a) Resultados e objetivos já alcançados;
+
+b) Conformidade com o cronograma original;
+
+c) Justificação de eventuais desvios e medidas corretivas.
+
+8 - Condições Gerais:
+
+[...]
+
+9 - Documentos e Informações Complementares Sugeridas (formulários do FM).
+
+[...]
+
+9.1 - Licenças, autorizações ambientais e direitos de utilização dos edifícios ou instalações.
+
+9.2 - Plano detalhado de execução técnica, incluindo etapas e responsabilidades.
+
+9.3 - Cronograma financeiro detalhado: desembolsos previstos e faturação.
+
+9.4 - Estimativas de redução de consumo energético e emissões de GEE, bem como quota de renováveis.
+
+9.5 - Demonstração de cumprimento do princípio DNSH.
+
+9.6 - Experiência do promotor em projetos similares.
+
+9.7 - Comprovar capacidade financeira (balanços, garantias, linhas de crédito).
+
+9.8 - Parcerias ou contratos com fornecedores/operadores relevantes.
+
+9.9 - Planos de monitorização, indicadores de performance e manutenção/operacional pós investimento.
+
+9.10 - Descrição da inovação, replicabilidade ou escalabilidade do projeto.
+
+10 - Submissão de Candidaturas:
+
+As candidaturas ao FM devem ser efetuadas até às 23h59 do dia 15 de dezembro de 2025.
+
+[...]
+
+Após preenchimento, em língua inglesa, as propostas deverão ser enviadas em formato digital para o seguinte endereço: fundo.modernizacao@dgeg.gov.pt.
+
+11 - Dotação Financeira e Modalidade de Apoio:
+
+[...]
+
+12 - Esclarecimentos:
+
+Questões adicionais podem ser colocadas através do endereço:
+
+fundo.modernizacao@dgeg.gov.pt»
+
+24 de novembro de 2025. - O Diretor-Geral, Paulo Jorge Leal da Silva Carmona.

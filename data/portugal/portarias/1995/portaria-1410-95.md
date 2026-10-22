@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:692459:por
+title: Portaria n.º 1410/95
+short_title: null
+summary: Altera a Portaria n.º 753/94, de 16 de Agosto (estabelece as formas de reciclagem que podem ser utilizadas para fazer
+  prova de manutenção da competência profissional dos oficiais da marinha mercante)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Mar
+proposing_entity: null
+official_number: 1410/95
+official_date: null
+publication_date: '1995-11-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 271/1995, Série I-B de 1995-11-23
+  number: '271'
+  series: I
+  supplement: null
+  pages: 7267 - 7267
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/11/271b00/72677267.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1410/1995/11/23/p/dre/pt/html
+  oj: null
+  dre: '692459'
+  dre_path: /dr/detalhe/portaria/1410-1995-692459
+  internal: pt:dre:692459:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1410-1995-692459
+  metadata_url: https://data.dre.pt/eli/port/1410/1995/11/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1410-1995-692459
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-11-23T00:00:00Z'
+integrity:
+  source_sha256: e3ba20a245cd103c8cd0b9437d51b1eb259c7d15eca7aaeb36dd17b213f0d879
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-1410-692459.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Marinha Mercante
+- Pessoal do MAR
+- Escola Náutica Infante Dom Henrique
+- Carreira Profissional
+- Inscrição Marítima
+- Qualificação Profissional
+- Avaliação de Conhecimentos
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/753/1994/08/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/753/1994/08/16/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1410/95
+
+de 23 de Novembro
+
+[Portaria n.º 753/94](https://diariodarepublica.pt/dr/detalhe/portaria/753-1994-225048), de 16 de Agosto, que aprovou e pôs em execução o sistema de reciclagem e de prova de manutenção da qualificação dos oficiais da marinha mercante, não consagrou, relativamente aos oficiais de máquinas, a alternativa prevista na Convenção STCW, 1978 (regra III-5, 1, iii), isto é, de o embarque extralotação se poder efectuar em função inferior à constante do certificado de que o oficial é titular, facto que pode ser restritivo das expectativas de embarque para o efeito.
+
+Por outro lado, no anexo A da mesma portaria, no programa dos cursos, área dos regulamentos, não foi mencionada a classificadora nacional, cujas regras de classificação e registo é de interesse conhecer, tanto mais que a mesma abrange a generalidade do armamento português.
+
+Assim, nos termos do artigo 16.º do anexo aprovado pela [Portaria n.º 1086/90](https://diariodarepublica.pt/dr/detalhe/portaria/1086-1990-565790), de 27 de Outubro:
+
+Manda o Governo, pelo Ministro do Mar, o seguinte:
+
+1.º É aditada ao n.º 1.º da [Portaria n.º 753/94](https://diariodarepublica.pt/dr/detalhe/portaria/753-1994-225048), de 16 de Agosto, uma alínea d), com a seguinte redacção:
+
+d) Período de embarque em função inferior à correspondente ao certificado de que é titular, apenas para oficiais maquinistas.
+
+2.º É aditado um n.º 22.º ao mesmo diploma, com a seguinte redacção:
+
+22.º O período de embarque previsto na alínea d) do n.º 1.º tem a duração mínima de três meses, aplicando-se os procedimentos constantes dos n.os 17.º a 21.º anteriores.
+
+3.º É aditado à alínea f) do anexo A da mesma portaria o seguinte:
+
+Regras de classificação da RINAVE - Registo Internacional Naval.
+
+Ministério do Mar.
+
+**Assinada em 17 de Outubro de 1995.**
+
+Pelo Ministro do Mar, José Monteiro de Morais, Secretário de Estado Adjunto e das Pescas.

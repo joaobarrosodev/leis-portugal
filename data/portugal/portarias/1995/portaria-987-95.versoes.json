@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:429383:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1995-992176441",
+ "dre_path": "/dr/detalhe/portaria/987-1995-429383",
+ "source_lastmod": "2025-12-22",
+ "versions": [
+  {
+   "date": "1995-08-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "992213534"
+   ]
+  },
+  {
+   "date": "1995-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:545601:por",
+     "title": "Declaração de Rectificação n.º 143/95",
+     "published": "1995-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/143-1995-545601"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "992213534",
+    "992180920",
+    "992180922"
+   ]
+  }
+ ],
+ "fragments": {
+  "992213534": {
+   "fragment_id": "992176442",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1995-10-31",
+   "changed_by": [],
+   "markdown": "Portaria n.º 987/95\n\nde 17 de Agosto\n\nPela Portaria n.º 450/91, de 28 de Maio, foi concessionada ao Clube de Caça e Pesca da Zona Oriental do Concelho do Cadaval uma zona de caça associativa abrangendo vários prédios rústicos sitos nas freguesias de Alguber, Figueiros e Painho, município do Cadaval (processo n.º 600 do Instituto Florestal).\n\nVerificou-se entretanto a existência de reclamações de titulares ou gestores de terrenos, o que obrigou a entidade gestora da zona de caça a retirar da mesma as áreas reclamadas. Deste modo, torna-se necessário corrigir a Portaria n.º 450/91, desafectando do regime cinegético especial os terrenos objecto de reclamação.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, que o n.º 1.º da referida portaria passe a ter a seguinte redacção:\n\n1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Alguber, Figueiros e Painho, município do Cadaval, com uma área de 2402,5510 ha.\n\nA planta anexa ao presente diploma substitui a anexa à Portaria n.º 450/91, de 28 de Maio."
+  },
+  "992180920": {
+   "fragment_id": "992176443",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Agricultura.\n\nAssinada em 21 de Julho de 1995.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  },
+  "992180922": {
+   "fragment_id": "992176445",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  }
+ }
+}

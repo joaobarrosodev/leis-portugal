@@ -1,0 +1,2465 @@
+---
+schema_version: '1.0'
+id: pt:dre:685188:por
+title: Decreto-Lei n.º 498/72
+short_title: null
+summary: Promulga o Estatuto da Aposentação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro - Caixa Geral de Depósitos, Crédito e Previdência
+proposing_entity: null
+official_number: 498/72
+official_date: null
+publication_date: '1972-12-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 285/1972, Série I de 1972-12-09
+  number: '285'
+  series: I
+  supplement: null
+  pages: 1868 - 1885
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/12/28500/18681885.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-03-04'
+version_history:
+  file: decreto-lei-498-72.versoes.json
+  count: 41
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1972-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-01-01'
+    amending: pt:dre:276613:por
+    amending_title: Decreto-Lei n.º 543/77
+    changes:
+    - Altera Artigo 120.º
+  - date: '1975-09-21'
+    amending: pt:dre:307261:por
+    amending_title: Decreto-Lei n.º 508/75
+    changes:
+    - Altera Artigo 112.º
+    - Altera Artigo 119.º
+  - date: '1979-07-01'
+    amending: pt:dre:432671:por
+    amending_title: Decreto-Lei n.º 191-A/79
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 13.º
+    - Altera Artigo 18.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 59.º
+    - Altera Artigo 64.º
+    - Altera Artigo 71.º
+    - Altera Artigo 73.º
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º
+    - Altera Artigo 82.º
+    - Altera Artigo 99.º
+    - Altera Artigo 100.º
+    - Altera Artigo 136.º
+  - date: '1983-02-13'
+    amending: pt:dre:311034:por
+    amending_title: Decreto-Lei n.º 75/83
+    changes:
+    - Altera Artigo 121.º
+  - date: '1983-02-23'
+    amending: pt:dre:311059:por
+    amending_title: Decreto-Lei n.º 101/83
+    changes:
+    - Altera Artigo 95.º
+    - Altera Artigo 119.º
+  - date: '1983-05-30'
+    amending: pt:dre:451809:por
+    amending_title: Decreto-Lei n.º 214/83
+    changes:
+    - Adita Artigo 108.º-A
+    - Altera Artigo 34.º
+    - Altera Artigo 90.º
+    - Altera Artigo 91.º
+    - Altera Artigo 103.º
+    - Altera Artigo 108.º
+    - Altera Artigo 109.º
+    - Altera Artigo 110.º
+    - Revoga Artigo 104.º
+    - Revoga Artigo 105.º
+    - Revoga Artigo 106.º
+    - Revoga Artigo 107.º
+  - date: '1985-06-30'
+    amending: pt:dre:182243:por
+    amending_title: Decreto-Lei n.º 198/85
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+  - date: '1987-06-03'
+    amending: pt:dre:421775:por
+    amending_title: Decreto-Lei n.º 215/87
+    changes:
+    - Altera Artigo 78.º
+    - Altera Artigo 79.º
+  - date: '1993-01-02'
+    amending: pt:dre:444447:por
+    amending_title: Lei n.º 30-C/92
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 47.º
+    - Altera Artigo 51.º
+    - Altera Artigo 80.º
+  - date: '1995-11-07'
+    amending: pt:dre:551194:por
+    amending_title: Decreto-Lei n.º 223/95
+    changes:
+    - Altera Artigo 83.º
+  - date: '1997-01-28'
+    amending: pt:dre:581225:por
+    amending_title: Decreto-Lei n.º 28/97
+    changes:
+    - Altera Artigo 13.º
+  - date: '1998-08-12'
+    amending: pt:dre:435237:por
+    amending_title: Decreto-Lei n.º 241/98
+    changes:
+    - Altera Artigo 118.º
+    - Altera Artigo 119.º
+  - date: '2000-05-01'
+    amending: pt:dre:643282:por
+    amending_title: Decreto-Lei n.º 503/99
+    changes:
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 49.º
+    - Altera Artigo 89.º
+    - Altera Artigo 101.º
+    - Altera Artigo 118.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 54.º
+    - Revoga Artigo 55.º
+    - Revoga Artigo 60.º
+    - Revoga Artigo 61.º
+    - Revoga Artigo 62.º
+    - Revoga Artigo 94.º
+    - Revoga Artigo 119.º
+    - Revoga Artigo 123.º
+    - Revoga Artigo 127.º
+    - Revoga Artigo 128.º
+    - Revoga Artigo 129.º
+    - Revoga Artigo 130.º
+    - Revoga Artigo 131.º
+  - date: '2003-01-01'
+    amending: pt:dre:306907:por
+    amending_title: Lei n.º 32-B/2002
+    changes:
+    - Adita Artigo 37.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 53.º
+  - date: '2003-01-23'
+    amending: pt:dre:176338:por
+    amending_title: Decreto-Lei n.º 8/2003
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+  - date: '2005-11-07'
+    amending: pt:dre:585009:por
+    amending_title: Decreto-Lei n.º 179/2005
+    changes:
+    - Altera Artigo 78.º
+    - Altera Artigo 79.º
+  - date: '2006-01-01'
+    amending: pt:dre:469066:por
+    amending_title: Lei n.º 60/2005
+    changes:
+    - Altera Artigo 56.º
+    - Revoga Artigo 1.º
+  - date: '2007-09-08'
+    amending: pt:dre:640297:por
+    amending_title: Decreto-Lei n.º 309/2007
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 99.º
+    - Altera Artigo 100.º
+  - date: '2008-02-21'
+    amending: pt:dre:247991:por
+    amending_title: Lei n.º 11/2008
+    changes:
+    - Altera Artigo 37.º-A
+  - date: '2009-01-01'
+    amending: pt:dre:243747:por
+    amending_title: Lei n.º 64-A/2008
+    changes:
+    - Adita Artigo 6.º-A
+  - date: '2009-09-21'
+    amending: pt:dre:490254:por
+    amending_title: Decreto-Lei n.º 238/2009
+    changes:
+    - Altera Artigo 33.º
+    - Altera Artigo 39.º
+    - Altera Artigo 43.º
+  - date: '2010-04-29'
+    amending: pt:dre:609990:por
+    amending_title: Lei n.º 3-B/2010
+    changes:
+    - Altera Artigo 6.º-A
+    - Altera Artigo 37.º-A
+  - date: '2010-12-29'
+    amending: pt:dre:306615:por
+    amending_title: Decreto-Lei n.º 137/2010
+    changes:
+    - Altera Artigo 78.º
+    - Altera Artigo 79.º
+  - date: '2011-03-02'
+    amending: pt:dre:144217:por
+    amending_title: Decreto-Lei n.º 29-A/2011
+    changes:
+    - Adita Artigo 63.º-A
+    - Altera Artigo 63.º
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Altera Artigo 83.º
+  - date: '2012-02-14'
+    amending: pt:dre:543049:por
+    amending_title: Decreto-Lei n.º 32/2012
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Adita Artigo 6.º-B
+    - Altera Artigo 6.º-A
+    - Altera Artigo 43.º
+    - Altera Artigo 83.º
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Altera Artigo 6.º-A
+  - date: '2014-03-07'
+    amending: pt:dre:572144:por
+    amending_title: Lei n.º 11/2014
+    changes:
+    - Altera Artigo 37.º-A
+    - Altera Artigo 78.º
+    - Altera Artigo 79.º
+    - Altera Artigo 89.º
+    - Revoga Artigo 118.º
+  - date: '2014-10-01'
+    amending: pt:dre:57701290:por
+    amending_title: Lei n.º 75-A/2014
+    changes:
+    - Altera Artigo 78.º
+  - date: '2015-01-01'
+    amending: pt:dre:66016527:por
+    amending_title: Lei n.º 82-B/2014
+    changes:
+    - Altera Artigo 6.º-A
+    - Altera Artigo 37.º-A
+  - date: '2017-10-07'
+    amending: pt:dre:108269606:por
+    amending_title: Decreto-Lei n.º 126-B/2017
+    changes:
+    - Adita Artigo 37.º-B
+    - Altera Artigo 4.º
+  - date: '2018-05-16'
+    amending: pt:dre:115312061:por
+    amending_title: Decreto-Lei n.º 33/2018
+    changes:
+    - Adita Artigo 25.º-A
+  - date: '2018-09-22'
+    amending: pt:dre:116417932:por
+    amending_title: Decreto-Lei n.º 73/2018
+    changes:
+    - Altera Artigo 37.º-B
+  - date: '2018-11-01'
+    amending: pt:dre:116649878:por
+    amending_title: Decreto-Lei n.º 77/2018
+    changes:
+    - Altera Artigo 40.º
+  - date: '2019-02-01'
+    amending: pt:dre:117754017:por
+    amending_title: Decreto-Lei n.º 6/2019
+    changes:
+    - Altera Artigo 79.º
+  - date: '2019-06-29'
+    amending: pt:dre:122747583:por
+    amending_title: Decreto-Lei n.º 84/2019
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 23.º
+    - Altera Artigo 32.º
+    - Altera Artigo 34.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+  - date: '2019-08-18'
+    amending: pt:dre:123930786:por
+    amending_title: Decreto-Lei n.º 108/2019
+    changes:
+    - Altera Artigo 37.º
+    - Altera Artigo 37.º-A
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 53.º
+    - Altera Artigo 64.º
+    - Altera Artigo 69.º
+    - Altera Artigo 83.º
+    - Altera Artigo 109.º
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Adita Artigo 72.º-A
+  - date: '2023-03-04'
+    amending: pt:dre:208124553:por
+    amending_title: Decreto-Lei n.º 18/2023
+    changes:
+    - Altera Artigo 40.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/498/1972/p/cons/20230303/pt/html
+  oj: null
+  dre: '685188'
+  dre_path: /dr/detalhe/decreto-lei/498-1972-685188
+  internal: pt:dre:685188:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188
+  metadata_url: https://data.dre.pt/eli/dec-lei/498/1972/p/cons/20230303/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1972-34576175
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1972-34576175
+  retrieved_at: '2026-10-22T11:54:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b0b42162c1f3d60f97a37cdc8b7609584deb618633d9b77b4e2c5849c1d3c9b3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:54:42Z'
+  notes: 41 versão(ões); histórico completo em decreto-lei-498-72.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acumulação de Pensões e Remunerações
+- Aposentação
+- Caixa Geral de Aposentações
+- Cálculo de Pensões
+- Dívidas ao Estado
+- Estatuto
+- Estatuto da Aposentação
+- Funcionário Público
+- Idade de Reforma
+- Incapacidade Física
+- Incapacidade Permanente
+- Incapacidade Psíquica
+- Junta Médica
+- Limite de Idade
+- Militar
+- Montepio dos Servidores do Estado
+- Pagamento
+- Pensão de Aposentação
+- Pensão de Invalidez
+- Pensão de Reforma
+- Reforma
+- Reserva
+- Serviço Militar
+- Subsídio por Morte
+- Tempo de Serviço
+relationships:
+- type: amended_by
+  target: pt:dre:683653:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653
+  date: '1973-01-13'
+- type: amended_by
+  target: pt:dre:307261:por
+  label: Altera Artigo 112.º; Altera Artigo 119.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1975-307261
+  date: '1975-09-20'
+- type: amended_by
+  target: pt:dre:276613:por
+  label: Altera Artigo 120.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1977-276613
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:432671:por
+  label: Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 13.º; Altera Artigo 18.º; Altera Artigo 32.º; Altera Artigo 33.º;
+    Altera Artigo 37.º; Altera Artigo 38.º; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 42.º; Altera Artigo 43.º;
+    Altera Artigo 46.º; Altera Artigo 53.º; Altera Artigo 54.º; Altera Artigo 56.º; Altera Artigo 57.º; Altera Artigo 59.º;
+    Altera Artigo 64.º; Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671
+  date: '1979-06-25'
+- type: amended_by
+  target: pt:dre:311034:por
+  label: Altera Artigo 121.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1983-311034
+  date: '1983-02-08'
+- type: amended_by
+  target: pt:dre:311059:por
+  label: Altera Artigo 95.º; Altera Artigo 119.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1983-311059
+  date: '1983-02-18'
+- type: amended_by
+  target: pt:dre:451809:por
+  label: Adita Artigo 108.º-A; Altera Artigo 34.º; Altera Artigo 90.º; Altera Artigo 91.º; Altera Artigo 103.º; Altera Artigo
+    108.º; Altera Artigo 109.º; Altera Artigo 110.º; Revoga Artigo 104.º; Revoga Artigo 105.º; Revoga Artigo 106.º; Revoga
+    Artigo 107.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809
+  date: '1983-05-25'
+- type: amended_by
+  target: pt:dre:182243:por
+  label: Altera Artigo 16.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1985-182243
+  date: '1985-06-25'
+- type: amended_by
+  target: pt:dre:421775:por
+  label: Altera Artigo 78.º; Altera Artigo 79.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1987-421775
+  date: '1987-05-29'
+- type: amended_by
+  target: pt:dre:444447:por
+  label: Altera Artigo 6.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 47.º; Altera Artigo 51.º; Altera Artigo
+    80.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:551194:por
+  label: Altera Artigo 83.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1995-551194
+  date: '1995-09-08'
+- type: amended_by
+  target: pt:dre:581225:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1997-581225
+  date: '1997-01-23'
+- type: amended_by
+  target: pt:dre:435237:por
+  label: Altera Artigo 118.º; Altera Artigo 119.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1998-435237
+  date: '1998-08-07'
+- type: amended_by
+  target: pt:dre:643282:por
+  label: Altera Artigo 36.º; Altera Artigo 37.º; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 41.º; Altera Artigo
+    49.º; Altera Artigo 89.º; Altera Artigo 101.º; Altera Artigo 118.º; Revoga Artigo 38.º; Revoga Artigo 54.º; Revoga Artigo
+    55.º; Revoga Artigo 60.º; Revoga Artigo 61.º; Revoga Artigo 62.º; Revoga Artigo 94.º; Revoga Artigo 119.º; Revoga Artigo
+    123.º; Revoga Artigo 127.º; Revoga Artigo 128.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282
+  date: '1999-11-20'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: Adita Artigo 37.º-A; Altera Artigo 51.º; Altera Artigo 53.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:176338:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2003-176338
+  date: '2003-01-18'
+- type: amended_by
+  target: pt:dre:603273:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/1-2004-603273
+  date: '2004-01-15'
+- type: amended_by
+  target: pt:dre:585009:por
+  label: Altera Artigo 78.º; Altera Artigo 79.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2005-585009
+  date: '2005-11-02'
+- type: amended_by
+  target: pt:dre:469066:por
+  label: Altera Artigo 56.º; Revoga Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/60-2005-469066
+  date: '2005-12-29'
+- type: amended_by
+  target: pt:dre:640297:por
+  label: Altera Artigo 8.º; Altera Artigo 99.º; Altera Artigo 100.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2007-640297
+  date: '2007-09-07'
+- type: amended_by
+  target: pt:dre:248178:por
+  label: Altera Artigo 37.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178
+  date: '2008-01-29'
+- type: amended_by
+  target: pt:dre:247991:por
+  label: Altera Artigo 37.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991
+  date: '2008-02-20'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: Adita Artigo 6.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:490254:por
+  label: Altera Artigo 33.º; Altera Artigo 39.º; Altera Artigo 43.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2009-490254
+  date: '2009-09-16'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: Altera Artigo 6.º-A; Altera Artigo 37.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:306615:por
+  label: Altera Artigo 78.º; Altera Artigo 79.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2010-306615
+  date: '2010-12-28'
+- type: amended_by
+  target: pt:dre:144217:por
+  label: Adita Artigo 63.º-A; Altera Artigo 63.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Altera Artigo 83.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:543049:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049
+  date: '2012-02-13'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Adita Artigo 6.º-B; Altera Artigo 6.º-A; Altera Artigo 43.º; Altera Artigo 83.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: Altera Artigo 6.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:572144:por
+  label: Altera Artigo 37.º-A; Altera Artigo 78.º; Altera Artigo 79.º; Altera Artigo 89.º; Revoga Artigo 118.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144
+  date: '2014-03-06'
+- type: amended_by
+  target: pt:dre:57701290:por
+  label: Altera Artigo 78.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290
+  date: '2014-09-30'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Altera Artigo 6.º-A; Altera Artigo 37.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:108269606:por
+  label: Adita Artigo 37.º-B; Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606
+  date: '2017-10-06'
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Adita Artigo 25.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
+- type: amended_by
+  target: pt:dre:116417932:por
+  label: Altera Artigo 37.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2018-116417932
+  date: '2018-09-17'
+- type: amended_by
+  target: pt:dre:116649878:por
+  label: Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2018-116649878
+  date: '2018-10-12'
+- type: amended_by
+  target: pt:dre:117754017:por
+  label: Altera Artigo 79.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2019-117754017
+  date: '2019-01-14'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Altera Artigo 4.º; Altera Artigo 23.º; Altera Artigo 32.º; Altera Artigo 34.º; Altera Artigo 37.º; Altera Artigo
+    39.º; Altera Artigo 40.º; Altera Artigo 43.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:123930786:por
+  label: Altera Artigo 37.º; Altera Artigo 37.º-A; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 41.º; Altera Artigo
+    53.º; Altera Artigo 64.º; Altera Artigo 69.º; Altera Artigo 83.º; Altera Artigo 109.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786
+  date: '2019-08-13'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Adita Artigo 72.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:208124553:por
+  label: Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2023-208124553
+  date: '2023-03-03'
+article_structure:
+  article_count: 152
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:54:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 498/72
+
+1. A existência de numerosa e dispersa legislação sobre a aposentação do funcionalismo, publicada, a partir do Decreto n.º 16669, de 27 de Março de 1929, em diplomas de carácter geral ou de âmbito restrito a determinados serviços ou a certas categorias de pessoal, justificaria, só por si, a compilação, devidamente sistematizada, de todas as disposições em vigor.
+
+O estudo realizado para o efeito conduziu à actualização e aperfeiçoamento dessa legislação, ao preenchimento de lacunas e ao esclarecimento de dúvidas, muitas vezes com base em princípios latentes no direito anterior ou em soluções já adoptadas na prática administrativa.
+
+O presente Estatuto da Aposentação não se limita, porém, a compilar, aperfeiçoar e sistematizar a lei vigente, pois remodela profundamente determinadas matérias, no prosseguimento da reforma administrativa.
+
+Referir-se-ão em seguida algumas dessas inovações.
+
+2. Em primeiro lugar, alarga-se o âmbito da inscrição na Caixa Geral de Aposentações, a qual deixa de subordinar-se à exigência de o servidor ser remunerado por vencimento ou salário pago por força de verbas inscritas expressamente para pessoal nos orçamentos respectivos, passando a ser suficiente o recebimento de remuneração sujeita pelo Estatuto ao desconto de quota. Daqui resulta o alargamento da inscrição a numerosos contratados e assalariados que dela se encontravam até agora excluídos.
+
+Também se confere, de maneira expressa, o direito de inscrição aos que, no regime de simples prestação de serviços, se encontrem a exercer funções com continuidade sob a forma de trabalho subordinado.
+
+Faculta-se ainda a inscrição aos servidores que, embora com mais de 55 anos de idade, possam, mediante a contagem do tempo de serviço anteriormente prestado, perfazer o mínimo de quinze anos até atingirem o limite de idade estabelecido para o exercício do respectivo cargo.
+
+Além disso - e esta inovação reveste extraordinária importância -, para a constituição do período de quinze anos é levado em linha de conta o tempo de inscrição em instituições de previdência social, pelo que o referido prazo mínimo de garantia pode formar-se com tempo de trabalho coberto pela previdência pública e pela particular.
+
+Neste caso, as pensões respectivas continuam, todavia, a ser atribuídas em separado, uma vez que a diversidade dos regimes existentes nos dois sectores não permite instituir desde já a ambicionada unificação do sistema de reforma de todos os trabalhadores. Dá-se, apesar de tudo, com o presente diploma, decidido passo nesse sentido, quer pela intercomunicação das inscrições, quer, como se verá adiante, pela criação, em certos casos, da pensão mista, abrangendo tempo de beneficiário de instituição de previdência social por serviço prestado em organismos públicos.
+
+3. Outro princípio geral do novo regime é o de que as quotas, ao contrário do que sucedia no regime vigente, passam a incidir apenas sobre remunerações susceptíveis de influir no cálculo da pensão de aposentação.
+
+Deixam, por isso, de ser objecto de desconto, por exemplo, os abonos provenientes de participações em multas, de horas extraordinárias, de gratificações por simples inerências, e bem assim de remunerações por acumulação, no que excedam a mais elevada das retribuições legais correspondentes aos cargos acumulados.
+
+Também, de conformidade com o mesmo princípio, os servidores do Estado que, em regime de comissão ou requisição, desempenham funções em organismos corporativos ou instituições de previdência, e que, no âmbito das disposições em vigor, embora sejam aposentados com base no vencimento do cargo de origem, pagam quota pelo das funções efectivamente exercidas, passam, por força do novo Estatuto, a descontá-la apenas sobre a remuneração daquele cargo.
+
+A contagem do tempo de serviço do funcionalismo ultramarino que, ingressando nos quadros da metrópole, se torna subscritor da Caixa Geral de Aposentações é admitida sem pagamento de quaisquer quotas à mesma Caixa, desde que tenha sido contado pelos competentes serviços do ultramar para a aposentação, numa equivalência interterritorial que se considerou indispensável firmar.
+
+Faculta-se também, na sequência do disposto no Decreto-Lei n.º 49031, de 27 de Maio de 1969, a ampla contagem do tempo de serviço anteriormente prestado ao Estado e a outras entidades públicas, com expressa referência aos organismos de coordenação económica e à administração ultramarina, bem como ao serviço gratuito.
+
+Os funcionários que anteriormente prestaram serviço em organismos públicos e pagaram quotas para as instituições de previdência social, como sucede com os que exerceram funções nos organismos de coordenação económica, têm direito à contagem desse tempo, podendo optar pelo pagamento das quotas respectivas, com a consequente constituição de uma única pensão a cargo da Caixa Geral de Aposentações, ou pela dispensa de tal pagamento, caso em que a pensão englobará duas parcelas, uma da responsabilidade da mesma Caixa e outra a cargo da respectiva instituição de previdência, em função do tempo de serviço prestado numa e noutra situação.
+
+São abolidos os juros nas futuras liquidações de quotas pela contagem de tempo de serviço acrescido ao de subscritor e suaviza-se o pagamento em prestações das quotas e outras importâncias que, por se encontrarem em divida na altura da aposentação, passam a ser descontadas na pensão, fixando-se o limite desse desconto em 15 por cento do montante mensal da mesma pensão, salvo se o interessado pretender suportar prestações mais elevadas.
+
+4. Ao indicar-se, como fundamento da aposentação, o limite de idade, remete-se para o que está ou vier a ser fixado na lei geral ou nas disposições especiais relativas a determinadas categorias de pessoal.
+
+Não seria, com efeito, o Estatuto da Aposentação o lugar mais próprio para fixar esse limite, dada a especificidade das situações a contemplar e a necessidade evidente de, em cada uma delas, ir ajustando as soluções adoptadas à evolução do condicionalismo que as determina.
+
+Na aposentação extraordinária, incluída a pensão de invalidez de militares, prescinde-se, em qualquer caso, da exigência do mínimo de 15 por cento quanto ao grau de desvalorização sofrida, bem como do mínimo da prestação de dez anos de serviço no que respeita às doenças contraídas em serviço e por motivo dele. Permite-se ainda ao sinistrado, seja qual for o seu grau de incapacidade, que requeira a aposentação desde logo ou dentro do ano seguinte à cessação definitiva de funções.
+
+Por outro lado, a eliminação da qualidade de subscritor, desde que não resulte de pena expulsiva, não exclui o direito de requerer, em qualquer altura, a aposentação ordinária, se e nos termos em que a pudesse pedir o interessado na data dessa eliminação.
+
+5. Uma das inovações mais importantes do presente Estatuto, e que constitui corolário do princípio anteriormente enunciado sobre a base de incidência das quotas, respeita ao cálculo da pensão de aposentação, cujo regime será muito mais favorável para os servidores do Estado.
+
+Assim, diversamente do que sucede na legislação actual, consideram-se, a partir de agora, no cálculo, da pensão, todas as remunerações de carácter permanente relativas ao cargo em que se verifica a aposentação e sujeitas a quota.
+
+Deixa também de fazer-se o desconto de um nono que presentemente incidia, ao calcular-se a pensão sobre o montante do vencimento ou salário, quando o servidor se aposentava com menos de 37 anos de serviço.
+
+Elimina-se, sempre que se trate de acesso, previsto na lei, a lugar superior da mesma hierarquia ou serviço, a exigência de certo número de anos de exercício do último cargo, para o efeito de a pensão poder calcular-se com base no vencimento desse mesmo cargo. Nos demais casos, em paralelo com o regime do Estatuto do Funcionalismo Ultramarino, reduz-se, para idêntico efeito, de três para dois anos o período mínimo de exercício do último cargo.
+
+Os subscritores que, em regime de requisição ou de comissão, exercem funções nos organismos de coordenação económica e nos serviços ultramarinos passam a poder aposentar-se com base nas remunerações que neles auferem, desde que a permanência nuns ou noutros seja, pelo menos, de dois anos.
+
+No que se refere à aposentação compulsiva, é uniformizada a redução que sofre a pensão, fixando-se, em todos os casos, esta última em 75 por cento do valor da pensão de aposentação normal correspondente.
+
+Os acidentes em serviço são regulados, em paralelismo com a legislação dos acidentes de trabalho, como fonte de responsabilidade pelo risco e da correlativa indemnização, acrescendo esta, sob a forma de pensão, à devida pela aposentação ordinária. Dentro dessa linha de orientação se regula ainda a posição jurídica da Caixa no tocante à responsabilidade civil de terceiros pelo acidente.
+
+No que respeita à actualização de pensões, tendo em vista a sua possível harmonização com o nível das remunerações estabelecidas para os servidores na efectividade, prescinde-se da promulgação de diploma legal fazendo-se tão-só depender de resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, a oportunidade e os termos da actualização a fazer.
+
+O princípio da participação na responsabilidade pelos encargos com as pensões de aposentação do respectivo pessoal, que já hoje vigora em relação aos CTT, Cofre dos Conservadores, Notários e Funcionários de Justiça, Caixa Geral de Depósitos e Imprensa Nacional-Casa da Moeda, é tornado extensivo a várias entidades e serviços públicos expressamente indicados, bem como aos que vierem a ser designados em resolução do Conselho de Ministros, sob proposta do Ministro das Finanças.
+
+O mencionado regime aplica-se igualmente às províncias ultramarinas, pelo que o tempo de serviço do seu pessoal que passe a subscritor da Caixa Geral de Aposentações é contado por esta, se o tiver sido por aquelas, sem haver lugar, como já se referiu, a pagamento ou transferência de quotas, suportando a administração ultramarina o encargo da pensão proporcionalmente ao tempo de serviço que lhe tiver sido prestado.
+
+Regime idêntico se observará na hipótese inversa de o subscritor passar para os quadros ultramarinos, caso em que suportará a Caixa, proporcionalmente ao tempo de serviço prestado na metrópole, a parte do encargo que lhe competir na pensão que vier a ser fixada pela administração ultramarina.
+
+6. Continua a manter-se o princípio geral de que os aposentados não podem exercer funções remuneradas nos serviços do Estado, institutos públicos (incluindo os organismos de coordenação económica), províncias ultramarinas, autarquias locais e pessoas colectivas de utilidade pública administrativa, relegando-se as excepções para os preceitos especiais da lei, mas esclarece-se que a proibição não abrange a mera prestação de serviços, quando esta se verifique em condições que excluam o direito de inscrição na Caixa.
+
+Os aposentados que, de futuro, nos casos em que a lei o permita, passem a exercer funções públicas deixam de poder optar pela remuneração correspondente ao cargo exercido, ficando a receber a totalidade da pensão de aposentação e um terço da referida remuneração, salvo se maior percentagem for fixada.
+
+Outra inovação importante é a que confere aos familiares do aposentado, quando este faleça, o direito a um subsídio de montante igual a tantas pensões mensais quantos os meses de vencimento que a lei estabelece para o subsídio por morte dos servidores no activo.
+
+7. Em matéria processual, admite-se a realização de novos exames médicos para verificação do agravamento do grau de incapacidade sofrida por motivo de acidente de trabalho ou tacto equiparado e cria-se um processo especial de justificação para suprir, quando for caso disso, a impossibilidade de se obter certidão ou informação comprovativas do tempo de serviço.
+
+Regula-se ainda a revisão, rectificação, revogação, reforma e anulação das resoluções, em termos mais conformes com o regime geral do acto administrativo, e definem-se claramente as condições para a formação do indeferimento tácito do recurso gracioso.
+
+8. O regime geral estabelecido no presente Estatuto aplica-se também à reforma de militares em tudo o que não for incompatível com as disposições especiais que no mesmo diploma se contém.
+
+Alguns desses preceitos especiais envolvem, de resto, alterações à legislação em vigor.
+
+Assim, os limites máximos que se encontravam fixados para as gratificações de voo e imersão deixam de subsistir, na medida em que as mesmas gratificações passam a fazer parte das remunerações a considerar para efeitos de cálculo da pensão.
+
+Reduz-se de cinco para dois anos o prazo mínimo de permanência dos militares em comissão civil, nos casos em que a pensão pode ter por base a remuneração do cargo exercido, e aplica-se o referido prazo aos cargos que a lei considera de comissão normal.
+
+Os militares na situação de reserva que se encontrem em serviço pelo período mínimo de um ano beneficiarão agora, para cômputo da pensão de reforma, dos novos vencimentos entretanto fixados, independentemente do tempo de serviço prestado no domínio da vigência destes últimos.
+
+Criam-se novos mínimos para base da pensão de reforma extraordinária, tendo em linha de conta a remuneração dos postos a que o militar ficou privado de ascender por motivo de acidente de serviço ou facto equiparado.
+
+9. O presente Estatuto, embora se aplique aos processos pendentes, respeita os casos que se encontrem resolvidos, bem como os efeitos das liquidações, já fixadas, de quotas, juros e outros encargos que resultem de contagens de tempo.
+
+Além da legislação expressamente revogada, opera-se, por força do Estatuto, a revogação tácita de numerosíssimos preceitos incluídos em mais de uma centena de diplomas legais.
+
+10. Anote-se, por último, que a receita proveniente das quotas dos subscritores da Caixa Geral de Aposentações, por si só insuficiente para ocorrer aos encargos com as pensões, deverá continuar a ser completada com a contribuição do Estado, a qual já excede, presentemente, 400000 contos anuais.
+
+E o montante dessa contribuição terá de ser, agora, reforçado de modo apreciável, para assegurar à Caixa o equilíbrio financeiro que as consideráveis melhorias introduzidas pelo presente Estatuto no regime da aposentação naturalmente comprometeriam.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+## Estatuto da Aposentação
+
+## Parte I — Regime geral
+
+### Capítulo I — Inscrição
+
+###### Artigo 1.º — (Direito de inscrição)
+
+1 - São obrigatoriamente inscritos como subscritores da Caixa Geral de Aposentações, neste diploma abreviadamente designada por Caixa, os funcionários e agentes que, vinculados a qualquer título, exerçam funções, com subordinação à direcção e disciplina dos respectivos órgãos, na Administração Central, Local e Regional, incluindo federações ou associações de municípios e serviços municipalizados, institutos públicos e outras pessoas colectivas de direito público e recebam ordenado, salário ou outra remuneração susceptível, pela sua natureza, de pagamento de quota, nos termos do artigo 6.º
+
+2 - O disposto no número anterior não é aplicável:
+
+a) Aos que apenas se obrigam a prestar a qualquer entidade pública certo resultado do seu trabalho desempenhado com autonomia e prévia estipulação de remuneração;
+
+b) Aos que devam ser aposentados por entidades diferentes da Caixa.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 60/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/lei/60-2005-469066), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 2.º — (Manutenção de anterior direito)
+
+O disposto no artigo 1.º não prejudica o direito de inscrição atribuído por lei especial anterior ao exercício de quaisquer funções.
+
+###### Artigo 3.º — (Modo de inscrição)
+
+1. A inscrição efectua-se mediante boletim, em duplicado, de modelo aprovado oficialmente, que o respectivo serviço preencherá e enviará à Caixa logo que o interessado entre em exercício de funções.
+
+2. Se o subscritor passar a exercer funções em outro organismo ou serviço, sem interromper a inscrição, este enviará desde logo à Caixa, em duplicado, boletim complementar, de modelo oficialmente aprovado, contendo os dados relativos à nova situação.
+
+###### Artigo 4.º — Idade máxima e totalização de períodos contributivos
+
+1 - A idade máxima para a inscrição na Caixa será a que corresponda à possibilidade de o subscritor perfazer o mínimo de 5 anos de serviço até atingir o limite de idade fixado por lei para o exercício do respectivo cargo.
+
+2 - Os períodos contributivos cumpridos no âmbito de outros regimes de proteção social, na parte em que não se sobreponham aos períodos contributivos cumpridos no regime de proteção social convergente, são considerados e relevam para os seguintes efeitos:
+
+a) Cumprimento do prazo de garantia;
+
+b) Condições de aposentação ou reforma;
+
+c) Determinação da taxa de bonificação;
+
+d) Apuramento da pensão mínima.
+
+3 - Para efeitos do disposto no número anterior, consideram-se outros regimes de proteção social, o regime geral de segurança social, os regimes especiais de segurança social, os regimes das caixas de reforma ou previdência ainda subsistentes, o regime de segurança social substitutivo constante de instrumento de regulamentação coletiva de trabalho vigente no setor bancário e os regimes de segurança social estrangeiros ou internacionais, desde que confiram proteção nas eventualidades de invalidez e velhice.
+
+4 - Quando o cargo for exercido em regime de tempo parcial, será este considerado, só para efeitos de inscrição na Caixa, como tempo completo.
+
+5 - Para efeitos do disposto na alínea d) do n.º 2, a pensão apenas é elevada para o montante mínimo legalmente previsto quando o aposentado ou reformado não perceba pensão ou pensões de valor global igual ou superior à pensão mínima que seria devida com base exclusivamente no tempo de serviço da CGA, I. P.
+
+> Alterado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 5.º — (Quota para a aposentação)
+
+1. O subscritor contribuirá para a Caixa, em cada mês, com a quota de 6 por cento do total da remuneração que competir ao cargo exercido, em função do tempo de serviço prestado nesse mês.
+
+2. Havendo acumulação de cargos, a quota sobre a remuneração referida no n.º 1 será devida em relação:
+
+a) Ao cargo a que competir remuneração mais elevada ou, se as remunerações forem de igual montante, ao que houver determinado primeiramente a inscrição na Caixa;
+
+b) A todos os cargos acumulados, quando a lei permita a aposentação com base neles, simultâneamente, ou quando se trate de tempo não sobreposto.
+
+3. A importância da quota será arredondada para número exacto de escudos, por defeito, se a fracção for inferior a $50, e por excesso, se igual ou superior.
+
+###### Artigo 6.º — Incidência da quota
+
+1 - Para efeitos do presente diploma e salvo disposição especial em contrário, consideram-se remunerações os ordenados, salários, gratificações, emolumentos, o subsídio de férias, o subsídio de Natal e outras retribuições, certas ou acidentais, fixas ou variáveis, correspondentes ao cargo ou cargos exercidos e não isentas de quota nos termos do n.º 2.
+
+2. Estão isentos de quota os abonos provenientes de participações em multas, senhas de presença, prémios por sugestões, trabalho extraordinário, simples inerências e outros análogos, bem como todos os demais que, por força do presente diploma ou de lei especial, não possam igualmente influir, em qualquer medida, na pensão de aposentação.
+
+3. Não constituem remuneração o abono de família, as ajudas de custo, os abonos ou subsídios de residência, de campo, de transportes, de viagens ou caminhos, para falhas, para despesas de representação, para vestuário e outros de natureza similar.
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, 1º Suplemento, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+###### Artigo 6.º-A — Contribuições
+
+1 - Todas as entidades, independentemente da respetiva natureza jurídica e do seu grau de autonomia, contribuem mensalmente para a CGA, I. P., com 23,75 % da remuneração sujeita a desconto de quota dos trabalhadores abrangidos pelo regime de proteção social convergente ao seu serviço.
+
+2 - O disposto no número anterior prevalece sobre quaisquer disposições legais, gerais ou especiais, em contrário, com excepção das seguintes:
+
+a) Para as entidades cujas responsabilidades com pensões foram transferidas para a CGA, I. P., uma contribuição de montante igual à existente no âmbito do regime geral da segurança social para as entidades empregadoras;
+
+b) Para as entidades com pessoal relativamente ao qual a CGA, I. P., seja responsável unicamente pelo encargo com pensões de sobrevivência, uma contribuição de 3,75 % da remuneração do respectivo pessoal sujeita a desconto de quota.
+
+3 - As contribuições mensais para a CGA, I. P., são-lhe obrigatoriamente entregues juntamente com as quotas para a aposentação e para a pensão de sobrevivência do pessoal a que respeitam.
+
+4 - As instituições de ensino superior e restantes entidades com autonomia administrativa e financeira podem, para efeitos do presente artigo, utilizar os saldos de gerência de anos anteriores, ficando, para esse efeito, dispensados do cumprimento do artigo 25.º da Lei n.º 91/2001, de 20 de Agosto, alterada pela Lei n.º 48/2004, de 24 de Agosto.
+
+5 - À taxa contributiva prevista no n.º 1 para os estabelecimentos de ensino superior privado e cooperativo e não superior particular e cooperativo cujo pessoal se encontra inscrito no regime geral da segurança social para outras eventualidades não cobertas pela Caixa Geral de Aposentações, I. P., é deduzida à suportada por aquelas entidades, como empregadores no âmbito do regime geral.
+
+6 - (Revogado.)
+
+> Nota: [Artigo 80.º, Decreto-Lei n.º 72-A/2010 - Diário da República n.º 117/2010, 1º Suplemento, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757) Determinado que a alteração ao disposto no artigo 6º-A do Estatuto da Aposentação, introduzida pelo artigo 29º da Lei 3-B/2010 de 28 abril, produza efeitos a 01 de janeiro de 2010.
+
+> Alterado pelo/a Artigo 81.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 81.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 29.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Aditado pelo/a Artigo 41.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 6.º-B — Base de incidência contributiva
+
+1 - As quotizações e contribuições para a Caixa incidem sobre a remuneração ilíquida do subscritor tal como definida no âmbito do regime geral de segurança social dos trabalhadores por conta de outrem.
+
+2 - A remuneração ilíquida referida no número anterior é a que corresponder ao cargo ou função exercidos ou, nas situações em que não haja prestação de serviço, a do cargo ou função pelo qual o subscritor estiver inscrito na Caixa.
+
+3 - O disposto nos números anteriores tem natureza imperativa, prevalecendo sobre quaisquer outras normas, especiais ou excecionais, em contrário, com exceção das que estabelecem limites mínimos ou máximos à base de incidência contributiva.
+
+4 - Ficam excluídos do presente artigo os subscritores cujas pensões são fixadas com base em fórmula de cálculo diversa da prevista no artigo 5.º da Lei n.º 60/2005, de 29 de dezembro, alterada pelas Leis n.os 52/2007, de 31 de agosto, e 11/2008, de 20 de fevereiro, e os subscritores cujos direitos a pensão, garantidos através de fundos de pensões, foram transferidos para a Caixa Geral de Aposentações, aos quais continuam a aplicar-se as disposições dos artigos 6.º, 11.º e 48.º da referida lei.
+
+> Aditado pelo/a Artigo 79.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 7.º — Relação contributiva
+
+1 - No dia 19 de cada mês, a Caixa disponibiliza na sua página electrónica, em área de acesso reservado, relativamente aos serviços que processem remunerações sujeitas a desconto de quota ou que contribuam para a Caixa, uma relação contributiva previsional, relativa aos descontos de quotas e às contribuições desse mês e a outros valores que se mostrem em dívida.
+
+2 - Compete aos serviços, até ao dia 6 do mês seguinte àquele em que a relação contributiva previsional tenha sido disponibilizada, introduzirem-lhe as alterações necessárias e confirmarem-na, através do código de utilizador previamente fornecido pela Caixa e de uma palavra passe.
+
+3 - A relação contributiva previsional converte-se em definitiva no dia em que tenha sido confirmada pelo serviço ou, na falta de intervenção deste, no último dia de que aquele disponha para o fazer.
+
+> Alterado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 309/2007 - Diário da República n.º 173/2007, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2007-640297)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2003-176338), em vigor a partir de 2003-01-23
+
+###### Artigo 8.º — Entrega de valores
+
+1 - Após validar as relações contributivas definitivas, a Caixa, até ao dia 7 de cada mês, disponibiliza na sua página eletrónica, em área de acesso reservado, as seguintes informações:
+
+a) Valor global a entregar, discriminando a parte relativa a quotas, contribuição e importâncias de outra natureza;
+
+b) Modalidades de pagamento, a definir pelo conselho directivo da Caixa.
+
+2 - Em função do canal de pagamento escolhido por cada entidade, é disponibilizada a referência identificativa da entrega a efectuar.
+
+3 - Com base nos elementos referidos nos números anteriores, os serviços e entidades entregam à Caixa, directamente ou através da Direcção-Geral do Tesouro e Finanças, o valor correspondente à relação contributiva definitiva até ao dia 15 do mês em que aquela seja emitida.
+
+> Alterado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 309/2007 - Diário da República n.º 173/2007, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2007-640297), em vigor a partir de 2007-09-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2003-176338), em vigor a partir de 2003-01-23
+
+###### Artigo 9.º — Funcionamento
+
+1 - A Caixa disponibiliza a todos os serviços e entidades o apoio adequado e necessário ao funcionamento do sistema de relação contributiva desmaterializada e põe em prática as medidas técnicas e organizativas adequadas para proteger os respectivos dados contra a destruição, a perda acidental, a alteração, a difusão ou o acesso não autorizados e contra qualquer outra forma de tratamento ilícito.
+
+2 - A relação contributiva electrónica definitiva é equiparada, para todos os efeitos legais, à relação de descontos em suporte de papel apresentada pelo serviço ou entidade a que diga respeito.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 309/2007 - Diário da República n.º 173/2007, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2007-640297)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2003-176338), em vigor a partir de 2003-01-23
+
+###### Artigo 10.º — (Pagamento directo da quota)
+
+Os subscritores legalmente destacados para o exercício de funções a que não corresponda remuneração ou em que esta não esteja sujeita a desconto de quotas serão admitidos a fazer o pagamento delas directamente à Caixa, com base na remuneração do cargo pelo qual estão inscritos, ou a regularizar esse pagamento nos termos do n.º 1 do artigo 13.º
+
+###### Artigo 11.º — (Comissão e serviço militar
+
+1 - O subscritor que, a título temporário e com prejuízo do exercício do seu cargo, passe a prestar serviço militar ou a exercer, em regime de comissão de serviço ou requisição previsto na lei, funções remuneradas das por qualquer das entidades referidas no artigo 1.º e que relevem para o direito à aposentação, descontará quota sobre a remuneração correspondente à nova situação.
+
+2. Salvo o caso de serviço militar, o montante da quota não poderá ser inferior ao que seria devido pelo exercício, durante o mesmo tempo, do cargo pelo qual o subscritor estiver inscrito na Caixa.
+
+3 - Quando o subscritor preste serviço, nos termos do n.º 1, a entidades diversas das que no mesmo número se referem ou exerça funções que não relevem para o direito à aposentação, a quota continuará a incidir sobre as remunerações correspondentes ao cargo pelo qual estiver inscrito na Caixa.
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, 1º Suplemento, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+###### Artigo 12.º — (Comissão no ultramar)
+
+As quotas descontadas ao subscritor que desempenhe funções na administração ultramarina, nos termos do n.º 1 do artigo precedente, ficarão retidas nos cofres desta última para os fins previstos nos artigos 19.º e 63.º
+
+###### Artigo 13.º — Regularização e pagamento de quotas
+
+1. A regularização de quotas em dívida por tempo de serviço a que já correspondesse o direito de aposentação à data em que foi prestado efectuar-se-á com base na remuneração e na quota praticadas nessa época, com o acréscimo de juros à taxa de 4 por cento ao ano, se a falta de oportuna inscrição for imputável ao subscritor.
+
+2. Na mesma base serão liquidadas as quotas correspondentes a percentagens legais de aumento do tempo de serviço prestado nas condições do número anterior.
+
+3 - Nos demais casos de contagem de tempo, as quotas que não hajam sido pagas ou que tenham sido restituídas pela Caixa serão liquidadas, sem juros, com base na remuneração do cargo do subscritor à data da entrada do seu requerimento e na taxa então vigente.
+
+4 - Para efeitos de reforma e de pensão de sobrevivência, os trabalhadores bancários no activo poderão requerer a contagem de todo o tempo de serviço militar obrigatório, aplicando-se, para efeito de liquidação da correspondente dívida de quotas, a taxa de 2% sobre a remuneração auferida à data do requerimento, quando esse tempo não confira direitos em matéria de aposentação e sobrevivência no âmbito da Caixa.
+
+5 - A Caixa poderá, por si ou a pedido das instituições de crédito onde os trabalhadores exercem a sua actividade profissional, transferir os referidos descontos para o fundo de pensões dos bancários, cobrando, a título de compensação pela prestação de serviços, a importância de 10% do montante a transferir, com o limite máximo de 5000$00.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 28/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1997-581225), em vigor a partir de 1997-01-28
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, 1º Suplemento, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209)
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, 1º Suplemento, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 14.º — (Isenção de quotas por tempo contado para a aposentação ultramarina)
+
+Não são devidas quotas à Caixa relativamente ao tempo de serviço anteriormente prestado pelo subscritor à administração ultramarina e por esta contado para efeitos de aposentação.
+
+###### Artigo 15.º — (Dispensa de quotas por tempo de contribuição para a Previdência)
+
+1. O subscritor poderá pedir a dispensa do pagamento de quotas pela contagem de tempo de serviço prestado aos organismos de coordenação económica ou a outras entidades referidas no artigo 1.º, desde que tenham sido pagas as contribuições para reforma, devidas por esse período, à respectiva instituição de previdência social.
+
+2. O pedido formulado nos termos do número anterior implica opção pelo regime previsto no n.º 3 do artigo 53.º e no n.º 4 do artigo 63.º e o seu deferimento será desde logo comunicado à instituição de previdência para oportuno cumprimento do que nesses preceitos se dispõe.
+
+###### Artigo 16.º — (Pagamento de quotas em dívida)
+
+1 - O pagamento previsto no artigo 13.º poderá ser feito por uma só vez ou em prestações mensais, sem acréscimos de novos juros, por meio de descontos em folha até ao máximo de 60 prestações, sendo de € 50 o mínimo de cada prestação.
+
+2. Se o pagamento referido no número anterior implicar o desconto, em cada mês, de importância superior à da quota do subscritor, é permitido um número maior de prestações, desde que estas sejam, pelo menos, de montante igual ao da mesma quota.
+
+3. Na falta de declaração em contrário, feita dentro do prazo de trinta dias, a contar da expedição pela Caixa do aviso de liquidação, entende-se que o interessado optou pelo pagamento em prestações e pelo número máximo destas.
+
+4. Se o interessado estiver em situação em que não receba remuneração ou não sofra desconto de quota, fará o pagamento directamente à Caixa, nas condições que esta fixar para execução do estabelecido nos números anteriores.
+
+5. A Caixa, no caso de não cumprimento do disposto no n.º 4, notificará o interessado, por carta registada com aviso de recepção, para, no prazo de trinta dias, efectuar o pagamento, sob pena de ficar sem efeito a contagem do tempo de serviço que exceda o correspondente às importâncias já satisfeitas e de a mesma só poder ser objecto de novo requerimento mediante liquidação imediata do total devido.
+
+6 - O montante da prestação mínima referida no n.º 1 poderá ser alterado por despacho do Ministro das Finanças e do Plano.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/85 - Diário da República n.º 143/1985, Série I de 1985-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1985-182243), em vigor a partir de 1985-06-30
+
+###### Artigo 17.º — (Custas ou despesas a liquidar com a quota)
+
+Ao desconto de quotas ou ao seu pagamento directo acrescerá, nos termos fixados pela Caixa, o das quantias em dívida por custas ou despesas a cargo do subscritor.
+
+###### Artigo 18.º — (Desconto de encargos na pensão)
+
+1. O subscritor desligado do serviço para efeitos de aposentação e que tenha importâncias em dívida, nos termos do artigo anterior ou por tempo de serviço que influa na respectiva pensão, fica sujeito ao correspondente desconto na primeira pensão que lhe for abonada ou também nas pensões seguintes até perfazer o total devido.
+
+2 - Salvo pedido de maior desconto, este não poderá exceder 6,5% da importância de cada pensão.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/85 - Diário da República n.º 143/1985, Série I de 1985-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1985-182243), em vigor a partir de 1985-06-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 19.º — (Parte devida a outras entidades)
+
+As quotas e indemnizações relativas a tempo de serviço prestado às autarquias locais e demais entidades responsáveis, nos termos do artigo 63.º pela aposentação pertencem às mesmas entidades, sendo as que a Caixa arrecadar levadas em conta na atribuição dos encargos respectivos, incluindo os mencionados no n.º 7 do artigo 63.º
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+###### Artigo 20.º — (Extinção da responsabilidade)
+
+A responsabilidade pelas importâncias referidas no artigo 18.º e pelas indemnizações previstas no n.º 3 do artigo 57.º, que se encontrem em dívida à Caixa, cessa com a definitiva eliminação do subscritor ou com a extinção da situação de aposentado.
+
+###### Artigo 21.º — (Restituição e retenção)
+
+1. Só as quantias indevidamente cobradas serão restituídas pela Caixa, acrescendo-lhes juros à taxa de 4 por cento ao ano, desde a data do requerimento do interessado ou daquela em que a Caixa teve conhecimento da irregularidade da cobrança.
+
+2. As quantias inferiores a 10$00 não são restituíveis ao subscritor, nem exigíveis deste quando a sua falta venha a verificar-se no processo de aposentação.
+
+3. O direito à restituição prescreve no prazo de três anos, a contar da data em que o interessado teve conhecimento dele.
+
+4. O direito ao levantamento das importâncias cuja restituição foi autorizada prescreve no prazo de um ano, a contar da comunicação do despacho respectivo.
+
+5. As quotas pagas por subscritores cuja aposentação venha a efectivar-se pela administração ultramarina ficam retidas, para os fins previstos no artigo 19.º e no n.º 7 do artigo 63.º, em poder da Caixa ou dos serviços que as arrecadaram.
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+###### Artigo 22.º — (Eliminação do subscritor)
+
+1. Será eliminado o subscritor que, a título definitivo, cesse o exercício do seu cargo, salvo se for investido noutro a que corresponda igualmente direito de inscrição.
+
+2. O antigo subscritor será de novo inscrito se for readmitido em quaisquer funções públicas previstas nos artigos 1.º e 2.º e satisfizer ao disposto no artigo 4.º
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+###### Artigo 23.º — (Cadastro do subscritor)
+
+1. A Caixa manterá actualizado o cadastro de cada subscritor, dele fazendo constar as situações funcionais do interessado, a sua posição relativamente ao pagamento de quotas e o grau de desvalorização por acidentes de serviço ou factos equiparados.
+
+2 - Às resoluções proferidas no processo de cadastro é aplicável o disposto no n.º 3 do artigo 34.º, mas, se determinarem a não restituição de quotas ou a negação ou extinção da qualidade de subscritor, ficam sujeitas ao regime estabelecido na alínea a) do n.º 1 e no n.º 2 do artigo 101.º e no artigo 102.º
+
+> Alterado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29, produz efeitos a partir de 2019-01-01
+
+### Capítulo II — Tempo de serviço
+
+###### Artigo 24.º — (Tempo do subscritor)
+
+1. É contado oficiosamente para a aposentação todo o tempo de serviço prestado por subscritor da Caixa em qualquer das situações a que corresponda direito de inscrição.
+
+2. Os contribuintes de outras entidades ou organismos cuja aposentação tenha passado a competir à Caixa são equiparados a subscritores desta para os efeitos do n.º 1.
+
+3. Considera-se como prestado pelo subscritor no seu quadro de origem o serviço desempenhado em regime de comissão ou requisição previsto na lei, bem como o prestado nos quadros de organismos internacionais, nos termos de lei especial.
+
+###### Artigo 25.º — (Tempo acrescido)
+
+É contado para efeitos de aposentação, por acréscimo ao tempo de subscritor:
+
+a) O tempo de serviço que confira direito de aposentação pela administração ultramarina ou por esta contado para tal efeito;
+
+b) O tempo de serviço prestado, em condições diversas das previstas no n.º 1 do artigo 1.º, e ainda que sem remuneração, às entidades abrangidas pelo disposto no mesmo número e, bem assim, o prestado, em qualquer situação, a organismos de coordenação económica;
+
+c) A percentagem de aumento de tempo de serviço especialmente fixada por lei para funções que o subscritor exerça ou haja exercido, ou a mais elevada das percentagens que concorram, salvo se a lei expressamente permitir a sua acumulação;
+
+d) O tempo de serviço, anterior à vigência do presente Estatuto, prestado no domínio de lei que o mandava contar para a aposentação.
+
+###### Artigo 25.º-A — Contagem do tempo de serviço militar obrigatório
+
+1 - O tempo de serviço militar obrigatório e as correspondentes bonificações dos subscritores da Caixa Geral de Aposentações, I. P., apurados em processo de contagem prévia de tempo de serviço ou no âmbito da instrução de processo de atribuição de pensão de aposentação ou reforma ou de pensão de sobrevivência cujo despacho seja proferido a partir de 1 de janeiro de 2018 são contados sem encargos para o subscritor.
+
+2 - O disposto no número anterior não é aplicável às situações de passagem à aposentação ou reforma com efeitos reportados a data anterior a 1 de janeiro de 2018, nem ao tempo de serviço militar e correspondentes bonificações que tenha sido objeto de despacho de contagem anterior àquela data, independentemente da situação da dívida de quotas nele fixada.
+
+3 - As bonificações abrangidas pelo disposto no n.º 1 são apenas as relacionadas com as condições especiais da prestação do serviço militar obrigatório, com exclusão de quaisquer outras, nomeadamente das atribuídas por estatuto profissional do subscritor.
+
+4 - O tempo contado nos termos do presente artigo não releva para apuramento da remuneração de referência a considerar no cálculo da pensão dos subscritores inscritos na CGA a partir de 1 de setembro de 1993 a que seja aplicável o regime de cálculo da segurança social.
+
+5 - A contagem do serviço militar obrigatório e das correspondentes bonificações de antigos combatentes continua a regular-se pela legislação que lhes é especificamente aplicável.
+
+> Aditado pelo/a Artigo 172.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+###### Artigo 26.º — (Tempo sem serviço e tempo parcial)
+
+1. Contar-se-á por inteiro, para eleitos de aposentação, nos termos dos artigos anteriores, ainda que, no todo ou em parte, não corresponda a efectiva prestação de serviço:
+
+a) O tempo em razão do qual é atribuída remuneração, total ou parcial, ou subsidio de tratamento, ou é autorizada, em consequência de decisão administrativa ou judicial, reparação de qualquer montante;
+
+b) O tempo decorrido em situação que a lei equipare à de exercício do cargo ou mande contar para a aposentação.
+
+2. No caso de exercício de cargo em regime de tempo parcial, será este convertido em tempo completo através da soma das respectivas fracções.
+
+###### Artigo 27.º — (Tempo não contável)
+
+Não será contado o tempo que a lei especialmente declare não se considerar como tempo de serviço para efeito algum ou para o de aposentação.
+
+###### Artigo 28.º — (Pagamento de quotas como condição de contagem de tempo)
+
+1. Será contado apenas o tempo de serviço em relação ao qual tenham sido ou venham a ser pagas as quotas correspondentes, sem prejuízo do disposto nos artigos 14.º e 15.º e no n.º 2 do artigo 141.º
+
+2. O pagamento de quotas não confere, por si só, o direito à contagem do respectivo período de tempo.
+
+###### Artigo 29.º — (Pedido de contagem)
+
+1. A contagem do tempo acrescido, pelo qual não se mostrem pagas as correspondentes quotas, depende de requerimento do subscritor.
+
+2. O requerimento implica o pedido de pagamento das quotas e será acompanhado da documentação necessária à contagem, aplicando-se à prova complementar o disposto no n.º 3 do artigo 86.º
+
+3. A junção de prova de tempo de serviço considerar-se-á como requerimento da respectiva contagem.
+
+###### Artigo 30.º — (Restrição da contagem)
+
+O pedido a que se refere o artigo anterior entende-se limitado ao tempo de serviço necessário para perfazer, no momento, o máximo relevante para a aposentação e pode o requerente restringi-lo a uma parcela determinada ou à que venha a julgar-se suficiente para preencher o tempo mínimo para a mesma aposentação.
+
+###### Artigo 31.º — (Acumulação de cargos)
+
+O tempo de serviço prestado simultâneamente em dois ou mais cargos ou situações não é contado cumulativamente, sem prejuízo da contagem de fracções não sobrepostas de tempo parcial.
+
+###### Artigo 32.º — (Manutenção do direito à contagem)
+
+1 - O tempo que os subscritores da CGA, I. P., se encontrem na situação de redução ou suspensão do contrato de trabalho, por terem celebrado acordo de pré-reforma com as respetivas entidades empregadoras, não sendo titulares de contrato de trabalho em funções públicas, releva para a aposentação nos termos em que tal relevância é estabelecida no regime geral de segurança social.
+
+2 - A contagem do tempo referido no número anterior pressupõe que, enquanto durar a situação nele prevista, o subscritor e a entidade empregadora mantenham o pagamento de contribuições à CGA, I. P., calculadas à taxa normal com base no valor atualizado da remuneração relevante para aposentação que serviu de base ao cálculo da prestação de pré-reforma.
+
+3 - A relevância para aposentação de período anterior à data em que o subscritor completa 55 anos de idade está limitada aos casos em que a responsabilidade pelo encargo com a parcela da pensão relativa a esse período não pertence à CGA, I. P..
+
+4 - A cessação definitiva de funções, mesmo que imposta com fundamento em infracção penal ou disciplinar, não determina a perda do direito à contagem do tempo de serviço anterior.
+
+5. A amnistia e a anulação ou revogação de pena expulsiva, em consequência de recurso ou revisão, implicam a contagem do tempo de serviço anterior à execução da pena, bem como do tempo posterior relativamente ao qual seja reconhecido o direito à reparação de remunerações.
+
+> Alterado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 33.º — (Limites da contagem)
+
+1 - Na contagem final do tempo de serviço para a aposentação considerar-se-ão apenas os anos e os meses completos de serviço.
+
+2. Para os efeitos do n.º 1 contar-se-á o tempo decorrido até à data em que se verificar:
+
+a) Qualquer dos factos previstos nos n.os 1 e 2 do artigo 43.º;
+
+b) A cessação de funções, quer esta seja definitiva, quer resulte de passagem à licença ilimitada ou a outra situação sem direito a remuneração, quando ocorra anteriormente a qualquer dos factos a que se refere a alínea a);
+
+c) O termo do subsídio legal de tratamento, percebido posteriormente aos mesmos factos.
+
+3. O disposto na alínea b) do número anterior não prejudica a contagem, nos termos do artigo 25.º, do tempo de serviço prestado após a cessação de funções, desde que esta não tenha implicado a eliminação do subscritor.
+
+4. Quando o tempo susceptível de contagem exceder o máximo relevante para a aposentação, devem ser considerados, para quaisquer efeitos, sòmente os anos de serviço mais recentes, até perfazerem aquele máximo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 238/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2009-490254), em vigor a partir de 2009-09-21
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 34.º — (Processo de contagem)
+
+1. A contagem de tempo de serviço, para efeitos de inscrição ou de aposentação, pode ser requerida pelo interessado:
+
+a) Em processo de contagem prévia, até ser instaurado o processo de aposentação;
+
+b) No processo de aposentação, até neste ser proferida a resolução final a que se refere o n.º 1 do artigo 97.º
+
+2 - A CGA, I. P., pode efetuar oficiosamente contagens prévias do tempo de serviço a que se refere o artigo 24.º
+
+3 - As resoluções tomadas em processo de contagem prévia pela Caixa são preparatórias da resolução final prevista no n.º 1 do artigo 97.º, podendo nesta última, ou antes dela, mediante novas decisões das entidades que a proferiram, ser revistas nos termos da alínea a) do n.º 1 do artigo 101.º, revogadas ou reformadas com base em ilegalidade ou modificação da lei.
+
+> Alterado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+### Capítulo III — Direito de aposentação
+
+###### Artigo 35.º — (Fundamento do direito de aposentação)
+
+O direito de aposentação depende da qualidade de subscritor, sem prejuízo do disposto no artigo 40.º
+
+###### Artigo 36.º — Formas de aposentação
+
+1 - A aposentação pode ser voluntária ou obrigatória.
+
+2 - A aposentação é voluntária quando tem lugar a requerimento do subscritor, nos casos em que a lei a faculta; é obrigatória quando resulta de simples determinação da lei ou de imposição da autoridade competente.
+
+> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 37.º — Condições de aposentação
+
+1 - A aposentação pode verificar-se, independentemente de qualquer outro requisito, quando o
+
+subscritor contar 15 anos de serviço e a idade normal de acesso à pensão de velhice que
+
+sucessivamente estiver estabelecida no regime geral de segurança social.
+
+2 - A aposentação pode ainda verificar-se quando o subscritor atingir a idade pessoal de acesso à
+
+pensão de velhice, sendo esta a que resulta da redução, por relação à idade normal de acesso à pensão
+
+de velhice em vigor, de quatro meses por cada ano civil que exceda os 40 anos de serviço efetivo à
+
+data da aposentação, não podendo a redução resultar no acesso à pensão antes dos 60 anos de idade.
+
+3 - Há ainda lugar a aposentação quando o subscritor, tendo, pelo menos, cinco anos de serviço:
+
+a) Seja declarado, em exame médico, absoluta e permanentemente incapaz para o exercício das suas
+
+funções;
+
+b) Atinja o limite de idade legalmente fixado para o exercício das suas funções;
+
+c) Seja punido com pena expulsiva de natureza disciplinar ou, por condenação penal definitiva,
+
+demitido ou colocado em situação equivalente, sem prejuízo do disposto nos n.os 2 e 3 do Artigo 40º.
+
+4 - O Governo poderá fixar, em diploma especial, limites de idade e de tempo de serviço inferiores aos
+
+referidos nos números anteriores, os quais prevalecerão sobre estes últimos.
+
+5 - O tempo de inscrição nas instituições de previdência referidas no n.º 2 do artigo 4.º, quer anterior,
+
+quer posterior ao tempo de inscrição na Caixa, conta-se também para o efeito de se considerar
+
+completado o prazo de garantia que resultar do disposto nos n.os 3 e 4.
+
+> Nota: [Artigo 3.º, Lei n.º 60/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/lei/60-2005-469066) A partir de 1 de Janeiro de 2006 - 60 anos e 6 meses. A partir de 1 de Janeiro de 2007 - 61 anos. A partir de 1 de Janeiro de 2008 - 61 anos e 6 meses. A partir de 1 de Janeiro de 2009 - 62 anos. A partir de 1 de Janeiro de 2010 - 62 anos e 6 meses. A partir de 1 de Janeiro de 2011 - 63 anos. A partir de 1 de Janeiro de 2012 - 63 anos e 6 meses. A partir de 1 de Janeiro de 2013 - 64 anos. A partir de 1 de Janeiro de 2014 - 64 anos e 6 meses. A partir de 1 de Janeiro de 2015 - 65 anos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 37.º-A — Aposentação antecipada
+
+1 - Podem requerer a aposentação antecipada, independentemente de submissão a junta médica e sem prejuízo da aplicação do regime de pensão unificada, os subscritores que tenham, pelo menos, 60 anos de idade e que, enquanto tiverem essa idade, tenham completado, pelo menos, 40 anos de exercício efetivo de funções.
+
+2 - O valor da pensão de aposentação antecipada prevista no número anterior é calculado nos termos gerais e reduzido pela aplicação de um factor de redução determinado pela fórmula 1 - x, em que x é igual à taxa de redução do valor da pensão.
+
+3 - A taxa global de redução é o produto do número de meses de antecipação em relação à idade normal de acesso à pensão de velhice que sucessivamente estiver estabelecida no sistema previdencial do regime geral de segurança social ou à idade pessoal de acesso à pensão de velhice pela taxa mensal de 0,5 %.
+
+4 - (Revogado).
+
+5 - Às pensões atribuídas ao abrigo do n.º 1 não é aplicado o fator de sustentabilidade.
+
+> Nota: [Artigo 4.º, Lei n.º 60/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/lei/60-2005-469066) A partir de 1 de Janeiro de 2006 - 36 anos e 6 meses (36,5). A partir de 1 de Janeiro de 2007 - 37 anos (37). A partir de 1 de Janeiro de 2008 - 37 anos e 6 meses (37,5). A partir de 1 de Janeiro de 2009 - 38 anos (38). A partir de 1 de Janeiro de 2010 - 38 anos e 6 meses (38,5). A partir de 1 de Janeiro de 2011 - 39 anos (39). A partir de 1 de Janeiro de 2012 - 39 anos e 6 meses (39,5). A partir de 1 de Janeiro de 2013 - 40 anos (40).
+
+> Nota: [Acórdão n.º 360/2003 - Diário da República n.º 232/2003, Série I-A de 2003-10-07](https://diariodarepublica.pt/dr/detalhe/acordao/360-2003-482631) Declara a inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.os 1 a 8 do artigo 9.º da Lei n.º 32-B/2002, de 30 de Dezembro, por violação do direito das Associações Sindicais à participação na elaboração da legislação do Trabalho, previsto na al. a) do nº 2 do art. 56º da Constituição.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 81.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07
+
+> Alterado pelo/a Artigo 29.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 1/2004 - Diário da República n.º 12/2004, Série I-A de 2004-01-15](https://diariodarepublica.pt/dr/detalhe/lei/1-2004-603273), em vigor a partir de 2004-01-01
+
+> Aditado pelo/a Artigo 9.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+###### Artigo 37.º-B — Aposentação por carreira longa
+
+1 - Podem requerer a aposentação, independentemente de submissão a junta médica e sem prejuízo da aplicação do regime da pensão unificada, os subscritores da CGA com, pelo menos, 60 anos de idade e que:
+
+a) Tendo sido inscritos na CGA ou no regime geral de segurança social em idade igual ou inferior a 16 anos, tenham, pelo menos, 46 anos de serviço;
+
+b) Independentemente do momento em que tenham sido inscritos na CGA ou no regime geral de segurança social, tenham, pelo menos, 48 anos de serviço.
+
+2 - Para efeitos do disposto no número anterior, releva apenas o tempo de exercício efetivo de funções.
+
+3 - O valor da pensão de aposentação atribuída ao abrigo do n.º 1 é calculado nos termos gerais, sem redução por aplicação do fator de sustentabilidade ou de penalizações por antecipação relativamente à idade normal de acesso à pensão de velhice.
+
+4 - A modalidade de aposentação por carreira longa prevista no presente artigo não é aplicável aos subscritores da CGA que beneficiam de regimes especiais em matéria de condições de aposentação ou reforma ou em matéria de regras de cálculo ou atualização da pensão, nomeadamente os profissionais abrangidos pelos Decretos-Leis n.os 3/2017 e 4/2017, de 6 de janeiro, os magistrados e os embaixadores e ministros plenipotenciários.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2018 - Diário da República n.º 179/2018, Série I de 2018-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2018-116417932), em vigor a partir de 2018-09-22, produz efeitos a partir de 2018-10-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+###### Artigo 38.º — (Aposentação extraordinária)
+
+A aposentação extraordinária verifica-se, independente do pressuposto de tempo de serviço estabelecido no n.º 2 do artigo anterior, e precedendo exame médico, em qualquer dos casos seguintes:
+
+a) Incapacidade permanente e absoluta do subscritor para o exercício das suas funções em virtude de acidente de serviço ou de doença contraída neste e por motivo do seu desempenho;
+
+b) Igual incapacidade em virtude de acidente ou doença resultantes da prática de acto humanitário ou de dedicação à causa pública;
+
+c) Simples desvalorização permanente e parcial na capacidade geral de ganho, devida aos acidentes ou doenças referidos nas alíneas anteriores.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 38.º-A — Tratamento mais favorável
+
+1 - Nos casos em que o subscritor reúne as condições de duas ou mais modalidades de aposentação, a Caixa Geral de Aposentações atribui obrigatoriamente a pensão de valor mais elevado, aplicando no futuro as regras próprias dessa modalidade para todos os efeitos, sem possibilidade de alteração.
+
+2 - Se o subscritor pertencer a categoria profissional abrangida por regime especial em matéria de condições de aposentação ou reforma ou em matéria de regras de cálculo ou atualização da pensão, apenas pode aposentar-se por uma das modalidades do Estatuto da Aposentação se, não querendo ou não podendo beneficiar das regras próprias do seu estatuto, renunciar expressa e definitivamente ao regime especial, para todos os efeitos, antes de a pensão ser atribuída.
+
+3 - Nenhum subscritor pode beneficiar da aplicação cruzada de regras ou parâmetros, nomeadamente idade e tempo de serviço, de mais do que uma modalidade, geral ou especial.
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-09-18, produz efeitos a partir de 2019-10-01
+
+###### Artigo 39.º — Aposentação voluntária
+
+1 - A aposentação depende necessariamente de requerimento do interessado nos casos previstos nos n.os 1 e 2 do artigo 37.º e nos artigos 37.º-A, 37.º-B e 40.º
+
+2 - A aposentação pode ser requerida pelo subscritor nas hipóteses previstas na alínea a) do n.º 3 do artigo 37.º
+
+3 - No caso do n.º 1 do presente artigo, o requerimento de aposentação não terá seguimento sem o prévio pagamento das quotas correspondentes ao tempo mínimo de 5 anos de serviço, quando este for indispensável para a aposentação.
+
+4 - O pedido de aposentação pode ser apresentado com a antecedência máxima de três meses em relação à data em que o interessado reúna todos os requisitos para a aposentação.
+
+5 - O requerente pode indicar, no pedido de aposentação, uma data posterior a considerar pela CGA para os efeitos do n.º 1 do artigo 43.º, sendo tal indicação obrigatória nos pedidos apresentados nos termos do número anterior.
+
+6 - O requerente não pode desistir do pedido de aposentação depois de proferido despacho a reconhecer o direito a aposentação voluntária que não dependa de incapacidade, ou de verificados os factos a que se refere o n.º 2 do artigo 43.º
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 238/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2009-490254), em vigor a partir de 2009-09-21
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2007-641154), produz efeitos a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 40.º — Aposentação de antigo subscritor
+
+1 - A eliminação da qualidade de subscritor não extingue o direito de requerer a aposentação nos seguintes casos:
+
+a) Previstos nos n.os 1 e 2 e nas alíneas a) e b) do n.º 3 do artigo 37.º, quando a cessação definitiva de funções ocorra após cinco anos de serviço;
+
+b) Previstos nos artigos 37.º-A e 37.º-B e na Lei n.º 5/2022, de 7 de janeiro, quando a cessação definitiva de funções ocorra após cinco anos de subscritor e, cumulativamente, este não reúna as condições de acesso a pensão atribuída por outro regime de proteção social de inscrição obrigatória.
+
+2 - Quando a eliminação da qualidade de subscritor tiver resultado de demissão, mesmo com expresso fundamento em infracção penal ou disciplinar, a aposentação só poderá ser concedida, a requerimento do interessado, dois anos após a aplicação da pena desde que ele conte, pelo menos, 5 anos de serviço e observada uma das seguintes condições:
+
+a) Seja declarado, em exame médico, absoluta e permanentemente incapaz;
+
+b) Tenha atingido o limite de idade.
+
+3 - Se, porém, a eliminação for consequência de infracção penal pela qual o ex-subscritor seja condenado a pena superior a dois anos, a concessão da pensão de aposentação apenas poderá ter lugar findo o cumprimento da pena, se contar 5 anos de serviço e nos termos das alíneas a) ou b) do número anterior.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 18/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2023-208124553), em vigor a partir de 2023-03-04, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2018 - Diário da República n.º 197/2018, Série I de 2018-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2018-116649878), em vigor a partir de 2018-11-01
+
+> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 41.º — (Aposentação obrigatória por incapacidade ou por limite de idade)
+
+1 - Nos casos da alínea a) do n.º 3 do artigo 37.º, a aposentação ordinária pode também ser promovida pelo competente órgão superior da Administração Pública, mediante apresentação do subscritor a exame médico.
+
+2 - A aposentação por limite de idade, a que se refere a alínea b) do n.º 3 do artigo 37.º, é promovida pelo serviço a que o subscritor estiver adstrito.
+
+3. (Revogado).
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 42.º — (Aposentação compulsiva)
+
+1. A aposentação compulsiva é aplicada por decisão da autoridade competente, pelas infracções disciplinares previstas na lei, ou por deliberação do Conselho de Ministros, nos casos permitidos em lei especial.
+
+2 - A aplicação desta pena só terá lugar quando a Caixa informe que o subscritor reúne o pressuposto do tempo de serviço exigível, nos termos do artigo 37.º, para a aposentação ordinária.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 43.º — Regime da aposentação
+
+1 - O regime da aposentação voluntária que não dependa de verificação de incapacidade fixa-se com base na lei em vigor à data em que seja recebido o pedido de aposentação pela CGA, sem prejuízo do disposto no n.º 7 do artigo 39.º, e na situação existente à data em que o mesmo seja despachado.
+
+2 - Nas restantes situações, o regime da aposentação fixa-se com base na lei em vigor e na situação existente à data em que:
+
+a) Seja declarada a incapacidade pela competente junta médica ou homologado o parecer desta, quando a lei especial o exija;
+
+b) O interessado atinja o limite de idade;
+
+c) Se profira decisão que imponha pena expulsiva ou se prefira condenação penal definitiva da qual resulta a demissão ou que coloque o interessado em situação equivalente.
+
+3. O disposto no n.º 1 não prejudica os efeitos que a lei atribua, em matéria de aposentação, a situações anteriores.
+
+4. É irrelevante qualquer alteração de remunerações ocorrida posteriormente à data a que se refere o n.º 2 do artigo 33.º
+
+> Nota: [Acórdão do Tribunal Constitucional n.º 134/2019 - Diário da República n.º 66/2019, Série I de 2019-04-03](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/134-2019-121942396) Declarada a inconstitucionalidade, com força obrigatória geral, a norma do segmento do artigo 43.º, n.º 1, do Estatuto da Aposentação, na redação dada pela Lei n.º 66-B/2012, de 31 de dezembro, que determina que a aposentação voluntária se rege pela lei em vigor no momento em que for proferido o despacho a reconhecer o direito à aposentação
+
+> Alterado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 238/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2009-490254), em vigor a partir de 2009-09-21
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2007-641154), produz efeitos a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+###### Artigo 44.º — (Cargo pelo qual se verifica a aposentação)
+
+1. O subscritor é aposentado pelo último cargo em que esteja inscrito na Caixa.
+
+2. Se à função exercida pelo subscritor, fora do quadro ou da categoria a que pertença, não corresponder direito de aposentação, esta efectivar-se-á pelo cargo de origem.
+
+###### Artigo 45.º — (Concorrência de cargos)
+
+1. O subscritor com direito de aposentação por mais de um cargo deverá escolher aquele por que pretende ser aposentado, salvo nos casos em que  lei especial faculte a aposentação cumulativa pelos cargos simultâneamente exercidos.
+
+2. O subscritor que tenha também direito de aposentação por cargo que exerça em regime de comissão ou requisição poderá optar pela aposentação correspondente ao seu cargo de origem.
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+### Capítulo IV — Pensão de aposentação
+
+###### Artigo 46.º — (Direito à pensão)
+
+Pela aposentação o interessado adquire o direito a uma pensão mensal vitalícia, fixada pela Caixa, nos termos dos artigos seguintes, em função da remuneração mensal e do número de anos e meses de serviço de subscritor, bem como, se for caso disso, do seu grau de incapacidade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 47.º — Remuneração mensal
+
+1. Para determinar a remuneração mensal atende-se às seguintes parcelas, que respeitem ao cargo pelo qual o subscritor é aposentado:
+
+a) O ordenado ou outra retribuição base de carácter mensal, ou a duodécima parte da que for estabelecida por ano ou corresponder ao número de dias de serviço anual, quando fixada por dia ou por hora;
+
+b) A média mensal das demais remunerações percebidas pelo subscritor nos dois últimos anos e que devam ser consideradas nos termos do artigo seguinte.
+
+2. Quando o período de serviço legalmente estabelecido seja inferior ao ano, o montante global das respectivas remunerações, que hajam de converter-se em mensais para os efeitos do presente artigo, será dividido pelo número de meses que naquele período se comporte.
+
+3. Será havida como enumeração dos cargos exercidos em regime de tempo parcial, depois de efectuada a conversão prevista no n.º 2 do artigo 26.º, a que corresponder ao serviço em regime de tempo completo.
+
+4 - As remunerações percebidas a título de participações emolumentares, qualquer que seja a sua natureza, são em todos os casos consideradas para a aposentação, nos termos do disposto da alínea b) do n.º 1.
+
+5 - Nos casos em que a média das remunerações previstas na alínea b) do n.º 1, adicionada da remuneração estabelecida na alínea a) do mesmo número, exceda a remuneração base legalmente fixada para o cargo de Primeiro-Ministro, será a remuneração mensal relevante reduzida até ao limite daquela.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, 1º Suplemento, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209)
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, 1º Suplemento, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+###### Artigo 48.º — (Remunerações a considerar)
+
+As remunerações a considerar para os efeitos do artigo anterior serão as abrangidas pelo n.º 1 do artigo 6.º, com excepção das que não tiverem carácter permanente, das gratificações que não forem de atribuição obrigatória, das remunerações complementares por serviço prestado no ultramar e das resultantes da acumulação de outros cargos.
+
+###### Artigo 49.º — Subscritores em serviço militar
+
+No caso de aposentação por incapacidade motivada pela prestação de serviço militar, a pensão, observado o disposto nos artigos anteriores, tem por base as remunerações correspondentes a esse serviço, se forem superiores às do cargo pelo qual o subscritor é aposentado.
+
+> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 50.º — (Sucessão de cargos)
+
+1. Se durante os dois últimos anos o subscritor houver exercido sucessivamente dois ou mais cargos a que a lei em vigor à data dos factos previstos no n.º 2 do artigo 33.º atribua remunerações diferentes, atender-se-á à média destas, na proporção do tempo de serviço em cada cargo.
+
+2. Quando, porém, a sucessão de cargos corresponda a acesso, previsto na lei, a lugar superior da mesma hierarquia ou do mesmo serviço, atender-se-á sòmente à remuneração relativa ao último desses cargos, qualquer que seja o tempo de permanência nele.
+
+###### Artigo 51.º — Regimes especiais
+
+1 - A remuneração mensal relevante para o cálculo da pensão do subscritor que nos últimos três anos tenha exercido cargos dirigentes em regime de comissão de serviço determina-se pela média das remunerações correspondentes a cada um dos cargos exercidos e na proporção do tempo de serviço neles prestado.
+
+2 - As remunerações percebidas nos últimos três anos de actividade pela prestação de serviço em diferentes regimes de trabalho, que correspondam a aumento sobre a remuneração devida em regime de tempo completo ou integral, relevam para o cálculo da pensão na proporção do tempo de serviço prestado em cada regime, durante o referido período.
+
+3 - Sem prejuízo de outros limites aplicáveis, a pensão de aposentação do subscritor sujeito ao regime do contrato individual de trabalho determina-se pela média mensal das remunerações sujeitas a desconto auferidas nos últimos três anos, com exclusão dos subsídios de férias e de Natal ou prestações equivalentes.
+
+4 - A remuneração relevante para o cálculo da pensão do pessoal dos gabinetes dos órgãos de
+
+soberania, livremente nomeados e exonerados pelos respectivos titulares, é a que corresponda ao seu
+
+lugar de origem.
+
+> Nota: [Acórdão n.º 360/2003 - Diário da República n.º 232/2003, Série I-A de 2003-10-07](https://diariodarepublica.pt/dr/detalhe/acordao/360-2003-482631) Declara a inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.os 1 a 8 do artigo 9.º da Lei n.º 32-B/2002, de 30 de Dezembro, por violação do direito das Associações Sindicais à participação na elaboração da legislação do Trabalho, previsto na al. a) do nº 2 do art. 56º da Constituição.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 1/2004 - Diário da República n.º 12/2004, Série I-A de 2004-01-15](https://diariodarepublica.pt/dr/detalhe/lei/1-2004-603273), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, 1º Suplemento, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+###### Artigo 52.º — (Subscritores em serviço nos organismos de coordenação económica e na administração ultramarina)
+
+1. Independentemente do preceituado no artigo anterior, o subscritor que, em regime de comissão ou de requisição, tenha prestado continuadamente serviço nos dois últimos anos em organismos de coordenação económica poderá optar, para o cômputo da pensão nos termos dos artigos 47.º a 50.º, pelas remunerações auferidas nessas funções.
+
+2. O regime estabelecido no número anterior é igualmente aplicável ao caso previsto no artigo 12.º, sem prejuízo do disposto  no artigo 48.º quanto às remunerações complementares por serviço prestado no ultramar.
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+###### Artigo 53.º — Cálculo da pensão
+
+1 - A pensão de aposentação é igual à 36.ª parte da remuneração mensal relevante, deduzida da percentagem da quota para efeitos de aposentação e de pensão de sobrevivência, multiplicada pela expressão em anos do número de meses de serviço contados para a aposentação, com o limite máximo de 36 anos.
+
+2 - A pensão não pode, em caso algum, exceder o montante da remuneração líquida a que se refere o n.º 1.
+
+3 - Concorrendo tempo de serviço nas condições previstas no artigo 15.º, a pensão será a soma das seguintes parcelas, calculadas separadamente:
+
+a) Uma, pela Caixa Geral de Aposentações, em função do tempo de serviço por ela contado e a que não corresponda dispensa de pagamento de quotas;
+
+b) Outra, pela respectiva instituição de previdência social, nos termos dos diplomas aplicáveis.
+
+4 - O tempo a que se refere o n.º 5 do artigo 37.º não influi na pensão a calcular pela Caixa.
+
+> Nota: [Acórdão n.º 360/2003 - Diário da República n.º 232/2003, Série I-A de 2003-10-07](https://diariodarepublica.pt/dr/detalhe/acordao/360-2003-482631) Declara a inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.os 1 a 8 do artigo 9.º da Lei n.º 32-B/2002, de 30 de Dezembro, por violação do direito das Associações Sindicais à participação na elaboração da legislação do Trabalho, previsto na al. a) do nº 2 do art. 56º da Constituição.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 1/2004 - Diário da República n.º 12/2004, Série I-A de 2004-01-15](https://diariodarepublica.pt/dr/detalhe/lei/1-2004-603273), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+###### Artigo 54.º — (Pensão de aposentação extraordinária)
+
+1 - Nos casos de aposentação extraordinária, o tempo de serviço do subscritor considera-se equivalente a 36 anos.
+
+2. Se, porém, a desvalorização sofrida na capacidade geral de ganho for sòmente parcial, a pensão será igual à soma das seguintes parcelas:
+
+a) Montante da pensão relativa ao número de anos e meses de serviço efectivo;
+
+b) Fracção da pensão relativa ao número de anos e meses que faltarem para 36 anos, em percentagem igual à do respectivo grau de desvalorização, segundo a tabela nacional de incapacidades.
+
+3. No caso previsto no número anterior, a pensão será, no entanto, calculada por inteiro sempre que o acidente ou doença resulte de serviço em campanha ou na manutenção da ordem pública, ou da prática de acto humanitário ou de dedicação à causa pública.
+
+4. Considera-se serviço em campanha o que como tal for definido, para efeitos de reforma, por disposição especial.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 55.º — (Pensão equiparada à extraordinária)
+
+Se, apesar da verificação de facto previsto no artigo 38.º, a aposentação vier a ter lugar com outro fundamento, a pensão será calculada nos termos do artigo anterior e equiparada, para todos os efeitos, à de aposentação extraordinária.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 56.º — Redução da pensão
+
+No caso de aposentação compulsiva, a pensão é calculada nos termos gerais e reduzida em 4,5% do seu valor por cada ano de antecipação em relação à idade legalmente exigida para a aposentação, com o limite de 25%.
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 60/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/lei/60-2005-469066), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 57.º — (Deduções na pensão)
+
+1 - Serão descontadas na pensão as importâncias em dívida referidas no artigo 18.º, bem como as indemnizações que, por motivo da elevação geral de vencimentos, a lei estabeleça.
+
+2 - O quantitativo da pensão e dos descontos de qualquer natureza que nela hajam de fazer-se serão sempre arredondados para o número exacto de escudos, por defeito, se a fracção for inferior a $50, e por excesso, se igual ou superior.
+
+3 - As pensões atribuídas pela Caixa Geral de Aposentações estão isentas de imposto do selo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 58.º — (Alteração da pensão)
+
+1. A alteração de resoluções definitivas sobre o quantitativo da pensão, nos casos em que a lei a permita, só produzirá efeitos a partir do dia 1 do mês imediato àquele em que for deliberada.
+
+2. Os efeitos da alteração reportar-se-ão, todavia, à data em que a resolução anterior os produziu, nos casos seguintes:
+
+a) Se a alteração derivar de recursos contencioso ou hierárquico, de rectificação da pensão ou de resolução revogatória da Caixa;
+
+b) Se, no caso de revisão previsto na alínea a) do n.º 1 do artigo 101.º, a nova resolução for proferida oficiosamente no prazo de sessenta dias, a contar da data da resolução revista ou tiver sido requerida pelo interessado nos prazos referidos no n.º 2 do mesmo artigo;
+
+c) Se a alteração resultar de parecer da junta médica de revisão.
+
+###### Artigo 59.º — (Actualização de pensões)
+
+A actualização das pensões será efectuada, em consequência da elevação geral dos vencimentos do funcionalismo ou da criação de suplemento ou subsídio geral sobre os mesmos, mediante diploma do Conselho de Ministros, sob proposta do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 60.º — (Indemnização de acidente ou facto equiparado)
+
+A diferença entre o valor da pensão devida pela aposentação extraordinária e o da pensão de aposentação ordinária que corresponderia ao mesmo tempo de serviço, constitui indemnização pelo acidente ou doença e considera-se equivalente ao capital que lhe corresponda por cálculo actuarial.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 61.º — (Responsabilidade de terceiros)
+
+1. A aposentação extraordinária não prejudica o direito de acção, nos termos da lei geral, contra os que forem civilmente responsáveis pelo facto que a origina.
+
+2. Se o interessado receber do responsável indemnização de danos patrimoniais que compreendam incapacidade ou desvalorização relevantes para a pensão de aposentação, far-se-á nesta a correspondente redução, até ao limite da pensão ordinária.
+
+3. A Caixa, uma vez preferida resolução definitiva sobre o direito à pensão extraordinária, terá acção de regresso contra os terceiros responsáveis, para obter deles o valor a que se refere o artigo precedente, se o interessado o não houver exigido no prazo de um ano a contar do acidente ou facto equiparado.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 62.º — (Direitos da Caixa)
+
+1. À Caixa assistem ainda os seguintes direitos:
+
+a) De intervir como parte principal no processo em que o lesado exija dos responsáveis, em qualquer tribunal, a indemnização respectiva;
+
+b) De simplesmente reclamar, por meio de ofício, até ao julgamento do mesmo processo, a indemnização referida no artigo 60.º;
+
+c) De obter sentença de condenação dos réus no pagamento, a seu favor, da indemnização mencionada e de a executar, beneficiando do privilégio de que gozam os créditos emergentes do contrato de trabalho, mas com prioridade sobre estes.
+
+2. Sempre que o lesado seja subscritor da Caixa, deverá o tribunal por onde corra o processo referido na alínea a) do número anterior notificá-la oficiosamente do despacho que designar o dia do julgamento.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 63.º — (Atribuição dos encargos da aposentação)
+
+1. As autarquias locais e outras entidades responsáveis pela aposentação do seu pessoal suportarão, nos termos e dentro dos limites da legislação respectiva, e proporcionalmente ao tempo em relação ao qual essa responsabilidade exista, os encargos com as pensões de aposentação abonadas pela Caixa.
+
+2. Passam a ser inteiramente responsáveis pelos encargos com a aposentação do seu pessoal subscritor da Caixa, em relação a todo o tempo de serviço que lhes tenha sido prestado, os seguintes serviços e entidades:
+
+a) Os que a lei qualifique de empresas públicas;
+
+b) As províncias ultramarinas;
+
+c) As Câmaras Municipais de Lisboa e do Porto e os respectivos Serviços Municipalizados;
+
+d) A Santa Casa da Misericórdia de Lisboa;
+
+e) Os demais serviços ou entidades, dotados de receitas próprias e que reúnam condições para suportar o encargo, a indicar em resolução do Conselho de Ministros, sob proposta do Ministro das Finanças.
+
+3. A responsabilidade dos serviços e entidades mencionados nos números anteriores compreende o encargo pela aposentação do pessoal que neles se encontre em regime previsto nos artigos 11.º, 12.º e 14.º
+
+4. O encargo, com a parte da pensão a que se refere a alínea b) do n.º 3 do artigo 53.º, é suportado pela respectiva instituição de previdência.
+
+5. (Revogado).
+
+6. A responsabilidade prevista neste artigo não prejudica a obrigação de pagamento pelo subscritor de quotas e indemnizações devidas nos termos do presente Estatuto.
+
+7. Os encargos com as pensões de aposentação pelo ultramar do pessoal que tenha sido subscritor da Caixa são suportados por esta e pelos serviços e entidades referidos nos n.os 1, 2 e 4, em função do tempo de serviço respectivo, competindo à Caixa, quando tiver arrecadado as quotas correspondentes, a transferência para os serviços ultramarinos das importâncias destinadas a satisfazer esses encargos.
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01
+
+###### Artigo 63.º-A — Encargos com pensões da CGA, I. P.
+
+Os montantes correspondentes aos encargos com as pensões e demais prestações abonadas pela CGA, I. P., da responsabilidade de terceiras entidades, incluindo os encargos referidos no número anterior e os encargos do regime de pensão unificada, devem ser-lhe entregues até ao dia 15 do mês em que tem lugar o pagamento das pensões e das prestações a que respeitam.
+
+> Aditado pelo/a Artigo 73.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01
+
+###### Artigo 64.º — (Pagamento da pensão)
+
+1. A pensão de aposentação é devida pela Caixa a partir da data em que o subscritor passa à situação de aposentado.
+
+2 - Com exceção dos casos previstos no n.º 7, a pensão vence-se mensalmente por inteiro no dia 1 do mês a que respeita.
+
+3 - Se o aposentado estiver impossibilitado, de modo permanente ou duradouro, de receber a pensão, ou estiver internado em estabelecimento de assistência ou equiparado, poderá o conselho de administração da Caixa, não havendo interdição ou inabilitação judicial, autorizar que as pensões sejam pagas à pessoa que superintenda na assistência ao aposentado, ou directamente ao referido estabelecimento, desde que, em qualquer dos casos, a respectiva idoneidade seja atestada pela autoridade administrativa com competência para tal.
+
+4 - O conselho poderá mandar examinar o aposentado por médico da Caixa Nacional de Previdência e exigir prova dos requisitos da pessoa a designar, podendo também, a todo o tempo, determinar a substituição da que estiver designada.
+
+5 - O procedimento referido no n.º 3 e a substituição a que alude o n.º 4 devem ser precedidos de assentimento expresso, dado por escrito, que só será dispensado quando o estado de saúde mental ou psíquico do aposentado o não permitir.
+
+6 - A Caixa poderá tornar obrigatório o pagamento da pensão mediante crédito em conta de depósito à ordem do beneficiário, sempre que o justifiquem as necessidades de simplificação ou mecanização dos serviços, em condições a estabelecer por despacho do conselho de administração.
+
+7 - A primeira pensão dos aposentados a que se refere o n.º 2 do artigo 73.º é devida desde a data em que devam considerar-se desligados do serviço e o abono será sempre proporcional aos dias que decorrerem entre aquela data e o termo do respectivo mês, passando as pensões seguintes a obedecer às regras gerais de vencimento e cálculo.
+
+8 - No mês do óbito do aposentado a pensão é devida por inteiro.
+
+9 - O pagamento da pensão depende de prova periódica de vida, que tem lugar:
+
+a) Para os residentes em território nacional, por interconexão de dados com o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.);
+
+b) Para os residentes no estrangeiro, nos termos a definir em portaria dos membros do Governo responsáveis pela tutela da CGA, I. P.
+
+10 - O processo de interconexão de dados previsto na alínea a) do número anterior é efetuado mediante protocolo estabelecido entre a CGA, I. P., e o IRN, I. P., nos termos e com os limites previstos na legislação aplicável à proteção de dados, nomeadamente no Regulamento Geral de Proteção de Dados e demais legislação complementar.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 65.º — (Suplementos à pensão)
+
+Integram-se na pensão, salvo preceito especial em contrário, os suplementos legais que a ela acresçam.
+
+###### Artigo 66.º — (Habilitação de herdeiros)
+
+Os herdeiros do aposentado, no caso de falecimento deste, poderão obter a entrega das pensões em dívida, mediante o processo de habilitação previsto para os créditos sobre a Caixa Geral de Depósitos.
+
+###### Artigo 67.º — (Acumulação de pensões)
+
+A pensão de aposentação, salvo o disposto no n.º 3 do artigo 53.º, não é acumulável com outra de natureza ou fins semelhantes, abonada por qualquer entidade com base em tempo de serviço prestado às entidades públicas referidas no artigo 25.º e que seja susceptível de contagem pela Caixa para efeitos de aposentação, ficando o interessado com o direito de optar por qualquer delas.
+
+###### Artigo 68.º — (Prescrição de pensões)
+
+1. As pensões de aposentação prescrevem no prazo de um ano a contar da data do vencimento de cada uma.
+
+2. O não recebimento das pensões durante o prazo de três anos consecutivos a contar do vencimento da primeira implica a prescrição do direito unitário à pensão.
+
+3. O processamento mensal dos abonos não interrompe a prescrição.
+
+###### Artigo 69.º — (Arquivo de documentos)
+
+1 - A Caixa deve conservar em arquivo todos os documentos que compõem o processo individual do subscritor, incluindo o registo de comunicações, enquanto forem os mesmos necessários para a constituição de direitos do próprio ou dos seus herdeiros.
+
+2 - Os processos em formato digital têm valor probatório idêntico e substituem para todos os efeitos os correspondentes em papel, que a Caixa está dispensada de conservar.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+###### Artigo 70.º — (Penhora de pensões)
+
+1. As pensões só podem ser penhoradas nos termos e dentro dos limites fixados pelo Código de Processo Civil.
+
+2. A Caixa fará trimestralmente o depósito das importâncias descontadas em cumprimento da penhora.
+
+###### Artigo 71.º — (Suspensão de pensão)
+
+O pagamento suspende-se sempre que o aposentado sofra condenação disciplinar ou penal, nos termos do artigo 76.º e dos n.os 2 e 3 do artigo 77.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 72.º — (Perda do direito à pensão)
+
+O direito à pensão extingue-se nos casos previstos no n.º 1 do artigo 82.º
+
+###### Artigo 72.º-A — Estorno de valores pagos após o óbito
+
+1 - No caso de ter sido efetuado o pagamento de valores de pensão de aposentação, reforma, invalidez, sobrevivência ou outra pensão ou prestação pecuniária por transferência bancária em data posterior ao mês da morte do beneficiário, a CGA procede à sua recuperação através de débito daqueles valores na conta onde efetuou o crédito.
+
+2 - A operação de estorno referida no número anterior apenas pode ocorrer nos três meses seguintes ao mês da morte do beneficiário.
+
+> Aditado pelo/a Artigo 411.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+### Capítulo V — Situação de aposentação
+
+###### Artigo 73.º — (Passagem à aposentação)
+
+1. A passagem do interessado à situação de aposentação verifica-se no dia 1 do mês seguinte ao da publicação oficial da lista de aposentados em que se inclua o seu nome.
+
+2 - Os subscritores abrangidos por lei especial referida no n.º 3 do artigo 99.º passam à aposentação na data em que devam considerar-se desligados do serviço.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 74.º — (Direitos e deveres do aposentado)
+
+1. O aposentado, além de titular do direito à pensão de aposentação, continua vinculado à função pública, conservando os títulos e a categoria do cargo que exercia e os direitos e deveres que não dependam da situação de actividade.
+
+2. Salvo quando de outro modo se dispuser, o regime legal relativo aos aposentados é também aplicável aos que se encontrem desligados do serviço aguardando aposentação.
+
+###### Artigo 75.º — (Sustação do abono de pensão)
+
+Se na data da passagem à situação de aposentação ou à prevista no n.º 2 do artigo 99.º o interessado estiver a cumprir pena criminal ou disciplinar que importe suspensão de remunerações, só a partir do termo desta se iniciará o abono da respectiva pensão.
+
+###### Artigo 76.º — (Penas disciplinares)
+
+1. Na aplicação de penas disciplinares aos aposentados, as de multa, suspensão ou inactividade serão substituídas pela perda da pensão de aposentação por igual tempo.
+
+2 - A pena de demissão ou equivalente determina a suspensão do abono da pensão pelo período de três anos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 77.º — (Penas criminais)
+
+1. À demissão ou situação equivalente derivadas de condenação criminal definitiva é aplicável o disposto no n.º 2 do artigo anterior.
+
+2 - Se além da demissão referida no número anterior houver lugar à aplicação de pena superior a três anos, a suspensão do abono manter-se-á durante o cumprimento da pena.
+
+3 - Acarreta a perda da pensão pelo tempo correspondente à suspensão a aplicação, por condenação penal definitiva, das penas previstas no n.º 6 do artigo 55.º, n.º 3 do artigo 56.º e n.º 2 do artigo 57.º, todos do Código Penal.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 78.º — Incompatibilidades
+
+1 - Os aposentados, reformados, reservistas fora de efetividade e equiparados não podem exercer atividade profissional remunerada para quaisquer serviços da administração central, regional e autárquica, empresas públicas, entidades públicas empresariais, entidades que integram o setor empresarial regional e municipal e demais pessoas coletivas públicas, exceto quando haja lei especial que o permita ou quando, por razões de interesse público excecional, sejam autorizados pelos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.
+
+2 - Não podem exercer atividade profissional remunerada nos termos do número anterior:
+
+a) Os aposentados e reformados que se tenham aposentado ou reformado com fundamento em incapacidade;
+
+b) Os aposentados e reformados por força de aplicação da pena disciplinar de aposentação ou reforma compulsiva.
+
+3 - Consideram-se abrangidos pelo conceito de atividade profissional remunerada:
+
+a) Todos os tipos de funções e de serviços, independentemente da sua duração ou regularidade;
+
+b) Todas as formas de contrapartida, pecuniária ou em espécie, direta ou indireta, da atividade desenvolvida, nomeadamente todas as prestações que, total ou parcialmente, constituem base de incidência contributiva nos termos do Código dos Regimes Contributivos do Sistema Previdencial da Segurança Social;
+
+c) Todas as modalidades de contratos, independentemente da respectiva natureza, pública ou privada, laboral ou de aquisição de serviços.
+
+4 - A decisão de autorização do exercício de funções é precedida de proposta do membro do Governo que tenha o poder de direcção, de superintendência, de tutela ou influência dominante sobre o serviço, entidade ou empresa onde as funções devam ser exercidas, e produz efeitos por um ano, excepto se fixar um prazo superior, em razão da natureza das funções.
+
+5 - (Revogado.)
+
+6 - (Revogado).
+
+7 - Os termos a que deve obedecer a autorização de exercício de funções prevista no n.º 1 pelos aposentados com recurso a mecanismos legais de antecipação de aposentação são estabelecidos, atento o interesse público subjacente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, sem prejuízo do disposto nos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 137/2010 - Diário da República n.º 250/2010, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2010-306615), em vigor a partir de 2010-12-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/2005 - Diário da República n.º 210/2005, Série I-A de 2005-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2005-585009), em vigor a partir de 2005-11-07
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 215/87 - Diário da República n.º 123/1987, Série I de 1987-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1987-421775), em vigor a partir de 1987-06-03
+
+###### Artigo 79.º — Cumulação de pensão e remuneração
+
+1 - No período que durar o exercício das funções públicas autorizadas, os aposentados, reformados, reservistas fora de efetividade e equiparados auferem a remuneração que está definida para as funções ou cargo que desempenham ou para o trabalho prestado, mantendo o direito à respetiva pensão, quando esta seja superior, e no montante correspondente à diferença entre aquela e esta.
+
+2 - As condições de cumulação de remunerações referidas no número anterior são reconhecidas no despacho de autorização previsto no n.º 1 do artigo anterior
+
+3 - Cessado o exercício de funções públicas, o pagamento da pensão ou da remuneração de reserva ou equiparada, com valor atualizado nos termos gerais, é retomado.
+
+4 - O início e o termo do exercício de funções públicas são obrigatoriamente comunicados à Caixa Geral de Aposentações, I. P. (CGA, I. P.), pelos serviços, entidades ou empresas a que se refere o n.º 1 do artigo anterior no prazo máximo de 10 dias a contar dos mesmos, indicando igualmente o valor da remuneração a auferir, para que a CGA, I. P., possa suspender a pensão ou efetuar o pagamento do montante correspondente à diferença entre a remuneração e a pensão.
+
+5 - São ainda obrigatoriamente comunicadas as alterações de remuneração no âmbito do exercício das funções públicas.
+
+6 - O incumprimento pontual do dever de comunicação estabelecido nos números anteriores constitui o dirigente máximo do serviço, entidade ou empresa, pessoal e solidariamente responsável, juntamente com o aposentado, pelo reembolso à CGA, I. P., das importâncias que esta venha a abonar indevidamente em consequência daquela omissão.
+
+7 - Em caso de realização de estudos, pareceres, projetos ou outros trabalhos especializados, de cariz meramente esporádico ou pontual, por aposentados, reformados, reservistas fora de efetividade e equiparados, estes mantêm a respetiva pensão, recebendo ainda a prestação única correspondente ao trabalho realizado.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 6/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2019-117754017), em vigor a partir de 2019-02-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 137/2010 - Diário da República n.º 250/2010, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2010-306615), em vigor a partir de 2010-12-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/2005 - Diário da República n.º 210/2005, Série I-A de 2005-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2005-585009), em vigor a partir de 2005-11-07
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 215/87 - Diário da República n.º 123/1987, Série I de 1987-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1987-421775), em vigor a partir de 1987-06-03
+
+###### Artigo 80.º — Nova aposentação e revisão da pensão
+
+1. Se o aposentado, quer pelas províncias ultramarinas, quer pela Caixa, tiver direito de inscrição nesta última pelo novo cargo que lhe seja permitido exercer, poderá optar pela aposentação correspondente a esse cargo e ao tempo de serviço que nele prestar, salvo nos casos em que  lei especial permita a acumulação das pensões.
+
+2. Não será de considerar para cômputo da nova pensão o tempo de serviço anterior à primeira aposentação.
+
+3 - Nos casos em que o aposentado opte por manter a primeira aposentação, haverá lugar à divisão da pensão respectiva, a qual só pode ser requerida depois da cessação de funções a título definitivo e é devida a partir do dia 1 do mês imediato ao da apresentação do pedido.
+
+4 - O montante da pensão a que se refere o número anterior é igual à pensão auferida à data do requerimento multiplicada pelo factor resultante da divisão de todo o tempo de serviço prestado, até ao limite máximo de 36 anos, pelo tempo de serviço contado no cálculo da pensão inicial.
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, 1º Suplemento, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+###### Artigo 81.º — (Contagem de tempo aos ex-aposentados)
+
+O regime estabelecido no n.º 2 do artigo precedente é ainda aplicável ao caso de o novo subscritor haver estado anteriormente na situação de aposentado e esta se encontrar extinta.
+
+###### Artigo 82.º — (Extinção da aposentação)
+
+1. A situação de aposentado extingue-se nos casos de:
+
+a) (Eliminada)
+
+b) Renúncia ao direito à pensão;
+
+c) Prescrição do mesmo direito;
+
+d) Perda da nacionalidade portuguesa, quando esta for exigida para o exercício do cargo pelo qual o interessado foi aposentado;
+
+e) Falecimento.
+
+2. Os serviços a que o aposentado se encontrava adstrito deverão enviar à Caixa os requerimentos de renúncia e comunicar-lhe imediatamente os factos extintivos da aposentação de que tenham conhecimento.
+
+3. Os factos previstos nas alíneas b), c) e d) do n.º 1 produzirão os mesmos efeitos da exoneração.
+
+4. Os conservadores do registo civil comunicarão à Caixa, nos termos do Código do Registo Civil, o falecimento dos indivíduos acerca dos quais conste que se encontravam na situação de aposentados.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 83.º — Prestações por morte
+
+1 - O subsídio por morte e o reembolso das despesas de funeral atribuídos pela Caixa Geral de Aposentações seguem o regime que sucessivamente estiver estabelecido no sistema previdencial do regime geral de segurança social para essas prestações.
+
+2 - (Revogado.)
+
+3. (Revogado).
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 52.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 223/95 - Diário da República n.º 208/1995, Série I-A de 1995-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1995-551194), em vigor a partir de 1995-11-07
+
+### Capítulo VI — Processo de aposentação
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+###### Artigo 84.º — (Instauração do processo)
+
+1. O processo de aposentação inicia-se com base em requerimento do interessado ou em comunicação dos serviços de que o mesmo dependa.
+
+2. O requerimento e a comunicação deverão conter os fundamentos da aposentação e serão acompanhados dos documentos necessários à instrução do processo.
+
+3. O requerimento será dirigido ao Ministro ou órgão superior da entidade pública de que o requerente dependa e enviado à Caixa pelos respectivos serviços.
+
+###### Artigo 85.º — (Cadastro e contagens)
+
+Instaurado o processo de aposentação, juntar-se-lhe-á informação do que constar do cadastro do subscritor, apensando-se os processos de contagem prévia e de cadastro que lhe digam respeito.
+
+###### Artigo 86.º — (Prova das condições para a aposentação)
+
+1. O competente serviço da Caixa verificará se o interessado reúne as condições necessárias para a aposentação.
+
+2. Se não estiver comprovado tempo de serviço suficiente para a aposentação, ou outro tempo útil de que haja notícia no processo, deverá exigir-se prova complementar ao requerente, através dos serviços de que dependa, ou directamente a estes, se a aposentação for obrigatória.
+
+3. Qualquer prova complementar a cargo do interessado só pode ser considerada quando oferecida no prazo que, para o efeito, a Caixa houver fixado.
+
+###### Artigo 87.º — (Prova do tempo de serviço)
+
+O tempo de serviço para efeitos de aposentação prova-se por meio de certidões ou informações autênticas da efectividade do serviço, emitidas pelas entidades competentes.
+
+###### Artigo 88.º — (Suprimento da prova de tempo de serviço)
+
+1. Mostrando-se por documento autêntico a impossibilidade de obter a prova a que se refere o artigo anterior, pode o interessado requerer a instauração de processo especial de justificação nos serviços onde exerceu funções, indicando desde logo os períodos e as condições em que as exerceu e foi remunerado e juntando os elementos de que dispuser.
+
+2. Os serviços tomarão em consideração os diplomas ou actos de investidura e exoneração, folhas de remunerações, listas de antiguidade, livros de ponto e quaisquer outros elementos donde possa inferir-se a efectividade de exercício de funções e resolverão, a final, se este se verificou e em que condições, emitindo certidão da resolução.
+
+3. Tratando-se de funções exercidas em mais de um serviço, o processo poderá ser instaurado sòmente no último, que solicitará dos restantes a instrução e resolução da parte que lhes diga respeito.
+
+###### Artigo 89.º — Exame médico
+
+1 - O subscritor é submetido a exame médico da Caixa nos termos dos artigos seguintes sempre que, preenchidos os demais requisitos da aposentação, esta dependa da verificação de incapacidade.
+
+2.(Revogado).
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 90.º — Médico relator
+
+1 - O exame médico inicia-se com a intervenção de médico relator designado pela Caixa, incumbindo-lhe preparar o processo de verificação da incapacidade e elaborar os relatórios clínicos que sirvam de base à deliberação da junta médica.
+
+2 - São funções do médico relator, designadamente:
+
+a) Verificar se a informação médica recebida está completa e, caso contrário, dar conhecimento do facto ao subscritor;
+
+b) Realizar o exame clínico ao subscritor;
+
+c) Promover a obtenção dos meios auxiliares de diagnóstico, bem como dos exames e pareceres especializados que considerar necessários;
+
+d) Articular-se directamente com os serviços e estabelecimentos de saúde ou médicos que tenham intervindo na situação clínica do subscritor, objecto de verificação de incapacidade, de forma a obter os elementos necessários ao estudo da situação;
+
+e) Elaborar um relatório circunstanciado do exame feito com base nos elementos reunidos, organizar o processo clínico do subscritor e submetê-lo à junta médica;
+
+f) Propor que da junta médica faça parte perito de determinada especialidade, sempre que tal se mostre conveniente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 91.º — Junta médica
+
+1 - A junta médica é composta por três médicos designados pela Caixa, sendo o presidente escolhido entre eles por cooptação.
+
+2 - Compete à junta médica apreciar o processo clínico do subscritor com base nos dados coligidos pelo médico relator e nos demais elementos de diagnóstico constantes do respectivo processo.
+
+3 - Os pareceres da junta médica são sempre fundamentados.
+
+4 - As orientações técnicas necessárias à actividade do médico relator e ao funcionamento das juntas médicas são asseguradas por um conselho médico, cujas composição e competências são estabelecidas por decreto regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 92.º — (Juntas extraordinárias)
+
+A administração da Caixa poderá autorizar a realização de juntas médicas extraordinárias:
+
+a) Fora dos locais referidos no artigo anterior, quando se comprove que o subscritor está impossibilitado de neles comparecer;
+
+b) Fora das datas previstas no mesmo artigo, quando, por motivo justificado, o subscritor o requeira ou os serviços de que dependa o solicitem.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+###### Artigo 93.º — (Encargos com a apresentação à junta)
+
+1. O requerente da aposentação pagará prèviamente à Caixa, pela sua apresentação à junta ordinária ou extraordinária, a taxa de 50$00.
+
+2. No caso de junta médica extraordinária, o interessado que a pediu ou requereu a aposentação pagará também prèviamente à Caixa a despesa que for fixada para a sua realização.
+
+3. Se a aposentação for obrigatória, o pagamento prévio da despesa a que se refere o n.º 2 será feito pelos serviços que solicitarem a realização da junta.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+###### Artigo 94.º — (Novo exame)
+
+1. O interessado pode requerer novo exame com o fundamento de se haver agravado o grau de incapacidade parcial verificado no exame anterior relativamente à mesma lesão ou doença.
+
+2. O requerimento, por cujo deferimento é devida a taxa fixada no n.º 1 do artigo 93.º, será acompanhado dos elementos clínicos justificativos e só poderá ser apresentado dentro dos dez anos posteriores à data da fixação da pensão, uma vez em cada semestre, nos dois primeiros anos, e uma vez por ano, nos anos imediatos.
+
+3. A administração da Caixa poderá determinar que a respectiva junta médica seja constituída por médicos diferentes dos que intervieram no exame anterior.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 95.º — Junta de recurso
+
+1 - O conselho directivo da Caixa pode autorizar a realização de juntas de recurso:
+
+a) Mediante proposta fundamentada dos serviços de que o subscritor dependa, apresentada no prazo de 60 dias;
+
+b) Mediante requerimento justificado do subscritor, entregue na Caixa no prazo de 60 dias a contar da notificação do resultado do exame.
+
+2 - A junta de recurso é composta por dois médicos designados pela Caixa, que não tenham tido anteriormente intervenção no processo, e por um médico designado pelo requerente, o qual, não sendo designado no prazo que para o efeito for fixado pelo conselho directivo da Caixa, é substituído por um médico designado pela administração regional de saúde territorialmente competente.
+
+3 - Compete à junta de recurso apreciar as decisões das juntas médicas relativas à situação dos subscritores.
+
+4 - Os pareceres da junta de recurso são sempre fundamentados.
+
+5 - Pela realização da junta de recurso é devida uma taxa, em montante a definir por portaria do ministro responsável pela área das finanças, a pagar pelo requerente, sempre que a decisão lhe seja desfavorável.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 101/83 - Diário da República n.º 40/1983, Série I de 1983-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1983-311059), em vigor a partir de 1983-02-23
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+###### Artigo 96.º — (Elementos médicos complementares)
+
+1. Sempre que uma junta médica considere necessária a apresentação de radiografias e outros meios auxiliares de diagnóstico ou de parecer de médico especialista poderá a administração da Caixa requisitá-los aos competentes serviços do Estado, que lhos remeterão directamente.
+
+2. Além dos elementos referidos no número anterior, a junta tomará em consideração os exames oficiais a que o interessado tenha sido sujeito, as informações ou pareceres complementares julgados necessários e os demais elementos constantes do processo, mas o seu parecer é independente de uns e outros.
+
+3. A despesa a que houver lugar com as requisições previstas no n.º 1 será satisfeita pelo requerente da aposentação no próprio serviço onde se proceder aos exames, ou por intermédio da Caixa, se assim for acordado entre esta e a direcção do mesmo serviço.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+###### Artigo 97.º — (Resolução final)
+
+1. Concluída a instrução do processo, a administração da Caixa, se julgar verificadas as condições necessárias, proferirá resolução final sobre o direito à pensão de aposentação e sobre o montante desta, regulando definitivamente a situação do interessado.
+
+2. Suscitando-se dúvidas sobre matéria que possa influir no montante da pensão, a Caixa fixará provisòriamente as bases do seu cálculo, em conformidade com os dados já apurados e sem prejuízo da sua rectificação em resolução final, uma vez completada a instrução do processo.
+
+###### Artigo 98.º — (Sustação da resolução)
+
+Não serão proferidas as resoluções a que se refere o artigo precedente enquanto o subscritor estiver preventivamente suspenso ou afastado do exercício de funções.
+
+###### Artigo 99.º — Termo do serviço
+
+1. As resoluções a que se refere o artigo 97.º serão desde logo comunicadas aos serviços onde o subscritor exerça funções.
+
+2 - O subscritor considera-se desligado do serviço a partir do dia 1 do mês seguinte àquele em que seja comunicada a resolução da Caixa, ficando a aguardar aposentação até ao fim do mês em que seja divulgada a lista dos aposentados com a inclusão do seu nome.
+
+3 - Salvo o disposto em lei especial, o subscritor desligado do serviço abre vaga e fica com direito a receber, pela verba destinada ao pessoal fora do serviço aguardando aposentação, pensão transitória de aposentação, fixada de harmonia com a comunicação da Caixa, a partir do dia em que for desligado do serviço.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 309/2007 - Diário da República n.º 173/2007, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2007-640297), em vigor a partir de 2007-09-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 100.º — Divulgação da aposentação
+
+1 - Concedida a aposentação e fixada a pensão definitiva, inscreve-se o interessado na lista de aposentados a publicar na 2.ª série do Diário da República entre os dias 5 e 10 de cada mês, sem prejuízo da sua divulgação na página electrónica da Caixa, através de ligação para o documento publicado.
+
+2 - A mudança de situação resultante do disposto no n.º 3 do artigo 99.º, bem como da aplicação de lei especial naquele referida, é divulgada da mesma forma.
+
+3 - Na publicitação a que se referem os números anteriores indica-se o montante global da pensão.
+
+> Nota: [Artigo único, Decreto-Lei n.º 108/2003 - Diário da República n.º 129/2003, Série I-A de 2003-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2003-553424) Substituída a formalidade referida no nº 1 do artigo 100º do Estatuto, pela notificação directa aos interessados e à PT Comunicações, S.A. relativamente aos trabalhadores desta empresa que sejam subscritores da Caixa Geral de Aposentações.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 309/2007 - Diário da República n.º 173/2007, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2007-640297), em vigor a partir de 2007-09-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 101.º — Revisão das resoluções
+
+1 - As resoluções finais podem, oficiosamente ou mediante requerimento, ser objecto de revisão quando, por facto não imputável ao interessado, tenha havido falta de apresentação, em devido tempo, de elementos de prova relevantes.
+
+2. Os prazos para o interessado requerer a revisão nos casos da alínea a) do número anterior são os referidos no n.º 1 do artigo 104.º
+
+> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 102.º — (Revogação e rectificação das resoluções)
+
+Sem prejuízo do disposto nos artigos 101.º e 103.º, as resoluções finais só podem ser revogadas ou reformadas por ilegalidade, ou rectificadas por erro de escrita ou de cálculo, nos termos gerais de direito.
+
+###### Artigo 103.º — (Recursos)
+
+De quaisquer resoluções definitivas e executórias da administração da Caixa, ou tomadas por delegação sua, haverá recurso contencioso, nos termos gerais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+> Rectificado pelo/a [Rectificação - Diário do Governo n.º 11/1973, Série I de 1973-01-13](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683653), em vigor a partir de 1973-01-01
+
+###### Artigo 104.º — (Interposição do recurso gracioso)
+
+1. Os recursos para o Ministro das Finanças serão interpostos nos prazos fixados para os recursos contenciosos perante o Supremo Tribunal Administrativo.
+
+2. O recurso considera-se interposto com a entrada na Caixa de petição, dirigida ao Ministro das Finanças, em que o recorrente exponha os respectivos fundamentos, juntando os documentos necessários.
+
+3. O recorrente depositará como preparo a quantia de 200$00, dentro de cinco dias, a partir da entrada da petição; na falta do depósito, será avisado de que poderá efectuar o preparo em novo prazo de cinco dias, acrescido do pagamento de taxa de igual montante a favor da Caixa.
+
+4. O recurso não tem efeito suspensivo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 105.º — (Não seguimento do recurso)
+
+1. O conselho de administração da Caixa negará seguimento ao recurso se o preparo não for depositado no prazo legal ou se ocorrer outra causa que obste ao conhecimento do seu objecto.
+
+2. Da resolução proferida ao abrigo do número anterior pode o interessado recorrer, nos termos dos artigos precedentes.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 106.º — (Reparação e sustentação da resolução)
+
+1. O conselho de administração da Caixa, perante os fundamentos do recurso e a informação dos serviços competentes, deverá reparar, modificar ou sustentar a resolução recorrida.
+
+2. Se a, resolução for sustentada, no todo ou em parte, será o processo remetido à Procuradoria-Geral da República para esta emitir parecer.
+
+3. Quando o parecer for favorável ao provimento total ou parcial do recurso, o conselho de administração poderá ainda alterar a resolução recorrida.
+
+4. Mantendo-se, no todo ou em parte, a resolução impugnada, subirá o processo, com o parecer da Procuradoria-Geral, ao Ministro das Finanças para decisão final.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 107.º — (Custas do recurso)
+
+1. O recorrente, no caso de não obter provimento total do recurso, pagará custas a favor da Caixa.
+
+2. As custas serão fixadas entre 200$00 e 2000$00 e nelas será levada em conta a importância do preparo.
+
+3. Se o Ministro não fixar o montante das custas ou se, por resolução sua ou da administração da Caixa, não se conhecer do objecto do recurso, serão as custas contadas pelo mínimo legal.
+
+4. Se as custas em dívida não puderem ser cobradas através de desconto na remuneração ou na pensão, será o responsável avisado para, no prazo de trinta dias, efectuar o pagamento, instaurando-se, na falta deste, a respectiva execução.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 108.º — (Competência para as resoluções)
+
+1 - Salvo o disposto nos números seguintes, as resoluções da Caixa Geral de Aposentações serão tomadas por 2 administradores.
+
+2 - A intervenção do conselho de administração será, todavia, obrigatória nos casos seguintes:
+
+a) Se disposição especial o exigir;
+
+b) Se o próprio conselho o determinar;
+
+c) Se os 2 administradores não chegarem a acordo ou qualquer deles entender que o caso merece ser submetido ao conselho.
+
+3 - Podem, porém, os 2 administradores designados para efeitos do n.º 1 delegar os respectivos poderes nos directores, directores-adjuntos ou subdirectores.
+
+4 - Os actos que estabeleçam as delegações deverão especificar as matérias ou poderes neles abrangidos e serão publicados no Diário da República.
+
+5 - A entidade delegada deverá mencionar essa qualidade nos actos que pratique no uso da delegação.
+
+6 - As delegações de competência são revogáveis a todo o tempo, caducam com a substituição do delegante, salvo no caso de impedimento temporário, e não prejudicam o direito de avocação.
+
+7 - Os despachos de carácter preparatório podem ser proferidos pelos chefes de serviço, sem prejuízo do direito de avocação pelos directores e subdirectores.
+
+8 - Os despachos de mero expediente podem ser proferidos pelos chefes de secção.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 108.º-A — (Recurso hierárquico)
+
+1 - Haverá recurso hierárquico necessário para o conselho de administração das resoluções que:
+
+a) Resolvam sobre a diminuição ou perda de pensão;
+
+b) Resolvam sobre a negação ou extinção da qualidade de subscritor;
+
+c) Resolvam sobre a denegação da realização de juntas médicas de revisão;
+
+d) Resolvam sobre a denegação do subsídio por morte.
+
+2 - Este recurso será interposto no prazo de 30 dias a contar do dia da notificação feita ao interessado da resolução recorrida.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 109.º — (Notificação)
+
+1 - O interessado será notificado das resoluções preparatórias ou definitivas da Caixa.
+
+2 - As notificações previstas no número anterior e quaisquer comunicações são efetuadas, preferencialmente, através da publicação dos atos a notificar na área reservada da página eletrónica da Caixa, denominada CGA Direta, acessível através de autenticação pelos meios disponíveis.
+
+3 - A publicação referida no número anterior é anunciada ao subscritor e ao respetivo serviço, se estiver na efetividade, por correio eletrónico e através do serviço de mensagens curtas.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 110.º — (Consulta do processo)
+
+Os processos podem ser consultados por advogado com procuração do interessado, durante o prazo para o recurso hierárquico necessário ou para o recurso contencioso.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 111.º — (Processos que não sejam de aposentação)
+
+1. Regem-se igualmente pelas disposições relativas ao processo de aposentação, na parte aplicável, os demais processos cuja resolução seja da competência da Caixa Geral de Aposentações.
+
+2. O disposto neste capítulo não é aplicável à impugnação de resoluções tomadas pelas instituições de previdência social para os fins da alínea b) do n.º 3 do artigo 53.º
+
+## Parte II — Regimes especiais
+
+### Capítulo I — Reforma de militares
+
+###### Artigo 112.º — (Âmbito e regime)
+
+1. Designa-se por reforma a aposentação do pessoal militar do Exército, da Armada, da Força Aérea, da Guarda Fiscal e Guarda Nacional Republicana, bem como a do pessoal civil equiparado por lei especial ou militar para efeitos de reforma.
+
+2. Considera-se equiparado ao pessoal militar referido no número anterior o pessoal da Polícia de Segurança Pública.
+
+3. À matéria de reforma é aplicável o regime geral das aposentações em tudo o que não for contrariado por disposição especial do presente capítulo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 508/75 - Diário do Governo n.º 218/1975, Série I de 1975-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1975-307261), em vigor a partir de 1975-09-21
+
+###### Artigo 113.º — (Inscrição de militares)
+
+1. Será inscrito na Caixa o pessoal referido no artigo anterior, com excepção do que se encontre a prestar serviço militar obrigatório, nos termos da lei do serviço militar, e dos capelães militares eventuais.
+
+2. Na reforma dos capelães militares titulares atender-se-á ao disposto em lei especial.
+
+###### Artigo 114.º — (Subscritores na reserva)
+
+Aos subscritores que passem a receber pensão de reserva continua a ser feito em folha o desconto de quotas para a Caixa sobre o quantitativo da mesma pensão, salvo o disposto no n.º 2 do artigo 117.º
+
+###### Artigo 115.º — (Tempo sem serviço)
+
+Contar-se-á para a reforma, mediante a liquidação das quotas respectivas:
+
+a) Como tempo de subscritor, aquele em que o militar, reintegrado por revisão de processo disciplinar, esteve compulsivamente afastado do serviço;
+
+b) Aos oficiais médicos, veterinários e farmacêuticos e outros recrutados por exigência legal entre diplomados com curso superior para os quadros permanentes das forças armadas, como acréscimo ao tempo de subscritor, o tempo de duração normal dos respectivos cursos de ensino superior, desde que completem, para efeitos de reforma, quinze anos de serviço activo no respectivo quadro.
+
+###### Artigo 116.º — (Resoluções sobre contagem de tempo)
+
+As resoluções sobre contagem de tempo acrescido dos subscritores militares, bem como a forma de desconto das respectivas quotas, serão comunicadas pela Caixa às competentes autoridades militares.
+
+###### Artigo 117.º — (Tempo de serviço na reserva)
+
+1. Aos militares que, na situação de reserva, prestem serviço em comissão militar ou civil, com pagamento de quotas à Caixa sobre a remuneração auferida, é também contado para a reforma cada ano completo susceptível de influir na melhoria da respectiva pensão de reserva.
+
+2. No caso de exercício de cargo previsto no artigo 122.º, a que corresponda remuneração de montante superior ao da pensão de reserva, a quota devida incidirá apenas sobre essa remuneração.
+
+###### Artigo 118.º — Casos de reforma
+
+Transitam para a situação de reforma os subscritores que estejam nas condições do n.º 1 do artigo 37.º e o requeiram e aqueles que, verificados os requisitos mínimos de idade e de tempo de serviço exigidos pelo n.º 2 do artigo 37.º:
+
+a) Atinjam o limite de idade;
+
+b) Sejam julgados incapazes de todo o serviço militar, mediante exame da junta médica dos competentes serviços de saúde militar;
+
+c) Revelem incapacidade para o desempenho das funções do seu posto, mediante o exame médico referido na alínea anterior;
+
+d) Sejam punidos com a pena disciplinar de separação do serviço ou de reforma, ainda que em substituição de outra sanção mais grave;
+
+e) Sejam mandados reformar por deliberação do Conselho de Ministros, nos termos de lei especial;
+
+f) Devam ser reformados, segundo a lei, por efeito da aplicação de outra pena.»
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07
+
+> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 241/98 - Diário da República n.º 181/1998, Série I-A de 1998-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1998-435237), em vigor a partir de 1998-08-12
+
+###### Artigo 119.º — Exame médico
+
+1 - O exame de militares ou equiparados, para os efeitos previstos no n.º 2 do artigo anterior, compete a uma junta médica, composta por dois médicos indicados pela CGA, sendo presidida por um destes, e um médico indicado pelo competente serviço de saúde militar.
+
+2 - Incumbe a esta junta determinar o grau de incapacidade geral de ganho, quando influa na pensão de reforma, e a conexão da incapacidade com o acidente de serviço ou facto equiparado, em parecer devidamente fundamentado.
+
+3 - A junta médica ocorrerá no prazo de 60 dias contados da data da recepção do processo administrativo instruído no respectivo ramo.
+
+4 - Quando o interessado não se conforme com a decisão da junta, poderá requerer, dentro do prazo de 90 dias após a sua notificação, uma nova junta médica, apresentando, para o efeito, elementos clínicos susceptíveis de fundamentar a reapreciação daquela.
+
+5 - A junta referida no número anterior terá a mesma composição, sendo necessariamente constituída por médicos que não tenham tido intervenção na junta precedente.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 241/98 - Diário da República n.º 181/1998, Série I-A de 1998-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1998-435237), em vigor a partir de 1998-08-12
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 101/83 - Diário da República n.º 40/1983, Série I de 1983-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1983-311059), em vigor a partir de 1983-02-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 508/75 - Diário do Governo n.º 218/1975, Série I de 1975-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1975-307261), em vigor a partir de 1975-09-21
+
+###### Artigo 120.º — (Passagem da reserva à reforma)
+
+1 - Na reforma de militares que transitem da situação de reserva, e não reúnam as condições legais para a actualização automática das respectivas pensões de reserva ou não hajam completado os requisitos fixados na lei para a revisão dessas pensões, a remuneração a considerar para os efeitos do artigo 43.º é a que se encontrar estabelecida à data da passagem à reserva, salvo o disposto no n.º 3 do presente artigo. Na determinação da pensão de reforma, aquela remuneração será acrescida das últimas diuturnidades vigentes para os militares de igual posto, graduação e quadro do activo, observando-se ainda as normas estabelecidas para a generalidade dos subscritores da Caixa.
+
+2 - Nos restantes casos, as pensões de reforma serão calculadas nos termos que estiverem estipulados para o cálculo de pensões de reserva e demais legislação aplicável.
+
+3. O disposto no número anterior não prejudica a opção pela pensão correspondente à remuneração dos cargos mencionados no artigo 122.º ou à média decenal prevista no artigo 51.º, desde que se verifiquem as condições exigidas por um ou outro destes preceitos.
+
+4. Os factos anteriores à concessão da pensão de reserva não podem ser considerados para a reforma, se não constarem do processo de passagem à reserva, salvo o caso de contagem de tempo de serviço acrescido ao de subscritor.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 543/77 - Diário da República n.º 302/1977, Série I de 1977-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1977-276613), em vigor a partir de 1974-01-01
+
+###### Artigo 121.º — (Base do cálculo da pensão)
+
+1. Sem prejuízo do disposto no artigo 51.º, o cálculo da pensão de reforma tem por base as remunerações de carácter permanente referidas nos artigos 47.º e 48.º, que correspondam ao último posto no activo.
+
+2 - Consideram-se abrangidas nas remunerações a que se refere o n.º 1 as gratificações de serviço de imersão e de serviço de mergulhador recebidas pelo pessoal especializado que tenha servido, respectivamente, nas guarnições dos submarinos ou como mergulhador da Armada, as quais serão tomadas nos quantitativos correspondentes ao último posto em que esse serviço tenha sido prestado, com redução a 80%, arredondada para a centena de escudos imediatamente superior, no caso da gratificação do serviço de imersão.
+
+3 - Para o pessoal especializado que tenha servido na Marinha, no Exército e na Força Aérea, à pensão calculada nos termos do n.º 1 será adicionada uma parcela de montante igual à 36.ª parte do montante da gratificação de serviço aéreo, do suplemento de serviço aéreo, da gratificação de serviço pára-quedista ou do suplemento de serviço aerotransportado, no quantitativo correspondente ao último posto em que esse serviço foi prestado, multiplicado pela expressão em anos do número de meses de serviço, incluindo as percentagens legais de aumento, em que foi exercida a actividade inerente ao abono dessa gratificação ou suplemento, considerando-se esse tempo até ao limite de 36 anos e a gratificação ou suplemento até ao quantitativo correspondente ao menor valor atribuído a oficial-general na efectividade de serviço.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 180/94 - Diário da República n.º 148/1994, Série I-A de 1994-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), produz efeitos a partir de 1994-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 75/83 - Diário da República n.º 32/1983, Série I de 1983-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1983-311034), em vigor a partir de 1983-02-13
+
+###### Artigo 122.º — (Pensão com base em outro cargo)
+
+O militar dos quadros permanentes que esteja a exercer continuadamente, nos últimos dois anos, cargo considerado de comissão normal pela legislação militar ou, a titulo definitivo, cargo civil poderá optar pela pensão de reforma que corresponda à remuneração permanente de qualquer desses cargos, desde que os mesmos confiram direito de aposentação.
+
+###### Artigo 123.º — (Remunerações mínimas)
+
+1 - Na reforma extraordinária de pessoal com remuneração inferior à que compete a um marinheiro do quadro permanente, é esta que se considerará para cálculo da pensão.
+
+2. O limite mínimo a que se refere o número anterior será substituído pela remuneração correspondente aos seguintes postos dos quadros permanentes:
+
+a) De alferes, quando se trate de alunos da Academia Militar, da Escola Naval, da Academia da Força Aérea ou de outros cursos de preparação para oficiais daqueles quadros.
+
+b) De furriel, quando se trate de alunos de cursos de alistamento ou preparação para sargento, que não estejam a prestar servido militar obrigatório.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 182/84 - Diário da República n.º 123/1984, Série I de 1984-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1984-384381)
+
+###### Artigo 124.º — (Redução da pensão)
+
+A pensão será reduzida de acordo com o disposto no artigo 56.º somente no caso de mudança de situação imposta nos termos da alínea d) do n.º 1 do artigo 118.º
+
+###### Artigo 125.º — (Separação de serviço)
+
+Os militares separados do serviço estão sujeitos às restrições estabelecidas pelas leis militares para essa situação.
+
+###### Artigo 126.º — (Pensão transitória)
+
+A pensão transitória de reforma a que se refere o artigo 99.º será paga, a partir da data do facto que a determina, pela verba por que é abonado o militar, independentemente da comunicação prevista no mesmo artigo.
+
+### Capítulo II — Pensão de invalidez de militares
+
+###### Artigo 127.º — (Fundamento da pensão)
+
+1. Os militares que não sejam subscritores da Caixa Geral de Aposentações têm direito a uma pensão de invalidez pelas mesmas causas que servem de fundamento à reforma extraordinária.
+
+2. O disposto no número anterior abrange os capelães militares eventuais.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 128.º — (Fixação da pensão)
+
+1. A pensão de invalidez é determinada nos mesmos termos da pensão de reforma extraordinária, com base na remuneração liquida a que se refere o n.º 1 do artigo 53.º
+
+2. A remuneração mínima a considerar será fixada:
+
+a) Na alínea a) do n.º 2 do artigo 123.º, relativamente aos aspirantes milicianos ou das reservas naval e marítima e ao pessoal que frequente qualquer curso de preparação para oficial miliciano ou das mesmas reservas;
+
+b) Na alínea b) do mesmo número, quanto ao pessoal que frequenta qualquer curso de alistamento de sargentos dos quadros permanentes ou de preparação para sargentos milicianos ou das reservas referidas ou ainda que frequente qualquer curso comum de preparação e selecção para o curso de oficiais ou de sargentos milicianos.
+
+c) No n.º 1 do citado artigo, para os demais militares.
+
+3. Os interessados não estão sujeitos ao pagamento de quotas relativamente ao tempo de serviço contado, nem ao de indemnizações que sejam inerentes a alterações de vencimentos.
+
+4. Para efeitos de cálculo do grau de desvalorização, atender-se-á à função militar do interessado se não puder averigua-se a sua profissão civil.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 182/84 - Diário da República n.º 123/1984, Série I de 1984-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1984-384381)
+
+###### Artigo 129.º — (Processo)
+
+O processo para atribuição da pensão de invalidez corre pela Caixa, com observância dos termos do processo de aposentação e das disposições especiais sobre reforma dos subscritores militares.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 130.º — (Pagamento da pensão)
+
+1. O pagamento das pensões de invalidez é feito, nos termos estabelecidos para o das pensões de reforma, pela Caixa Geral de Aposentações, que, para tal fim, será abonada pelo Estado das importâncias correspondentes.
+
+2. No Orçamento Geral do Estado inscrever-se-á, em rubrica especial, a verba necessária para o abono referido no número anterior.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+###### Artigo 131.º — (Situação do beneficiário)
+
+Para todos os efeitos do presente Estatuto considera-se como de reforma a pensão de invalidez e como reformado o beneficiário.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01
+
+## Parte III — Disposições finais e transitórias
+
+###### Artigo 132.º — (Vigência e aplicação do Estatuto)
+
+1. O presente Estatuto entra em vigor em 1 de Janeiro de 1973 e é aplicável, sem prejuízo do disposto no artigo 43.º, aos processos pendentes.
+
+2. No caso de alteração de prazos em curso, observar-se-á o disposto na lei civil.
+
+###### Artigo 133.º — (Subsistência de resoluções)
+
+1. Não são prejudicadas pelo disposto neste diploma as resoluções através das quais a Caixa haja reconhecido direitos de inscrição ao abrigo do Decreto-Lei n.º 46307, de 27 de Abril de 1965, e bem assim as liquidações de quotas, juros, indemnizações e outros encargos já descontados em folha pelos serviços competentes ou que tenham sido objecto de resolução da mesma Caixa embora não esteja ainda iniciado o respectivo pagamento.
+
+2. Subsiste igualmente inscrição dos subscritores exonerados dos seus cargos, que se haja mantido por virtude do disposto no artigo 187.º do Decreto-Lei n.º 35108, de 7 de Novembro do 1945.
+
+###### Artigo 134.º — (Subsistência da quota anterior)
+
+A quota dos subscritores inscritos anteriormente a 1 de Outubro de 1954 mantém-se em 5 por cento, se a sua remuneração base não excede 1200$00 por mês.
+
+###### Artigo 135.º — (Quota anterior de militares na reserva)
+
+Os militares na situação de reserva continuam sujeitos ao desconto, quando devido, da quota de 4 por cento, relativamente ao tempo de serviço anterior à data da elevação dessa taxa, se a respectiva pensão tiver sido definitivamente fixada antes da mesma data.
+
+###### Artigo 136.º — (Acréscimo à pensão de reforma)
+
+1. A pensão de reforma é acrescida de 0,14 por cento relativamente a cada período de trinta dias de serviço prestado em campanha ou no ultramar, até à data em que foi imposta a obrigação legal de desconto de quotas para a Caixa.
+
+2 - O acréscimo não excederá, todavia, 25% da remuneração considerada para o cálculo da pensão e o total desta não poderá ultrapassar o montante da que caberia ao subscritor com base em 36 anos de serviço.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-A/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), em vigor a partir de 1979-07-01
+
+###### Artigo 137.º — (Abono dos aposentados em serviço)
+
+O disposto no artigo 79.º não prejudica o regime de abonos dos aposentados que à data da entrada em vigor do presente diploma já se encontram em exercício de funções.
+
+###### Artigo 138.º — (Dedução no pagamento de obras públicas)
+
+Nas folhas de pagamento relativas a contratos de empreitadas, tarefas e fornecimentos de obras públicas, adjudicadas por quaisquer entidades com pessoal inscrito na Caixa Geral de Aposentações, far-se-á a dedução do 0,5 por cento a favor desta, depositando-se o respectivo produto na Caixa Geral de Depósitos, nos termos da legislação em vigor.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30
+
+###### Artigo 139.º — (Contribuição do Estado para a Caixa)
+
+O Estado contribuirá anualmente para a Caixa Geral de Aposentações com a quantia necessária para assegurar o equilíbrio financeiro da instituição, inscrevendo a verba respectiva no orçamento de despesa do Ministério das Finanças.
+
+###### Artigo 140.º — (Dívidas dos corpos administrativos)
+
+As dívidas dos corpos administrativos à Caixa Geral de Aposentações quando não sejam satisfeitas voluntàriamente, serão cobradas, a requisição da mesma Caixa, através da Direcção-Geral da Fazenda Pública, por meio de desconto nas percentagens adicionais às e impostos do Estado.
+
+###### Artigo 141.º — (Legislação revogada)
+
+1. Ficam revogados, a partir da data da entrada em vigor do presente estatuto:
+
+a) O Decreto n.º 16669, de 27 de Março de 1929;
+
+o Decreto n.º 19468, de 16 de Março de 1931;
+
+o Decreto n.º 21890, de 22 de Novembro de 1932, com excepção do corpo do artigo 1.º, das alíneas a) e b) do artigo 2.º e do artigo 3.º;
+
+o Decreto-Lei n.º 24824, de 29 de Dezembro de 1934; o Decreto-Lei n.º 25866, de 21 de Setembro de 1935; o Decreto-Lei n.º 26503, de 6 de Abril de 1936; o Decreto n.º 26880, de 13 de Agosto de 1936; o Decreto-Lei n.º 27586, de 18 de Março de 1937; o Decreto-Lei n.º 30913, de 23 de Novembro de 1940;
+
+o Decreto-Lei n.º 31672, de 22 de Novembro de 1941; o Decreto-Lei n.º 32691, de 20 de Fevereiro de 1943, com excepção dos artigos 20.º e seu § 2.º, 21.º, 22.º, na parte relativa ao Montepio dos Servidores do Estado, 24.º e seguintes; o Decreto-Lei n.º 33477, de 30 de Dezembro de 1943; o Decreto-Lei n.º 33540, de 21 de Fevereiro de 1944; o Decreto-Lei n.º 36610, de 24 de Novembro de 1947, com excepção do artigo 13.º, na parte relativa ao Montepio dos Servidores do Estado, do corpo do artigo 17.º e dos artigos 18.º, 22.º, na parte respeitante ao mesmo Montepio, 25.º e 26.º; o Decreto-Lei n.º 37618, de 17 de Novembro de 1949; o Decreto-Lei n.º 38385, de 8 de Agosto de 1951; os artigos 12.º o 13.º do Decreto-Lei n.º 38523, de 23 de Novembro de 1951; o Decreto-Lei n.º 39843, de 7 de Outubro do 1954, com excepção do artigo 5.º, do n.º 3 do artigo 6.º e dos artigos 7.º e 10.º; o Decreto-Lei n.º 41387, de 22 de Novembro de 1957; o artigo 1.º do Decreto-Lei n.º 42880, de 21 de Março de 1960, na parte respeitante ao pessoal que seja subscritor da Caixa; o Decreto-Lei n.º 45684, de 27 de Abril de 1964, com excepção do artigo 4.º e seu § 2.º e artigos seguintes;
+
+o Decreto-Lei n.º 46046, de 27 de Novembro de 1964;
+
+b) As leis gerais e especiais anteriores sobre as matérias abrangidas pelas disposições deste Estatuto, com ressalva da legislação especial a que nas mesmas disposições se faça referência.
+
+2. Mantêm-se em vigor os preceitos especiais sobre a aplicação sucessiva de diferentes regimes de aposentação, nomeadamente quanto à contagem de tempo de serviço, à dispensa do pagamento das respectivas quotas e ao regime decorrente da responsabilidade e das autarquias locais e outras entidades por encargos com a aposentação do seu pessoal.
+
+###### Artigo 142.º — (Modificações ao Estatuto)
+
+1. As disposições que de futuro se publicarem sobre matéria abrangida no presente Estatuto deverão, depois de ouvida, a administração da Caixa, ser nele inseridas no lugar próprio, por substituição, supressão ou adicionamento dos respectivos preceitos.
+
+2. As taxas mencionadas no n.º 1 do artigo 93.º, no n.º 2 do artigo 95.º, no n.º 3 do artigo 104.º e no n.º 2 do artigo 107.º poderão ser revistas mediante portaria do Ministro das Finanças.
+
+###### Artigo 143.º — (Resolução genérica de dúvidas)
+
+Compete ao Ministro das Finanças, ouvida a administração da Caixa ou mediante proposta fundamentada desta, resolver, por despacho genérico, as dúvidas que se suscitarem na aplicação do presente diploma ou de quaisquer preceitos legais sobre matéria de aposentações.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
+
+Promulgado em 2 de Dezembro de 1972.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.

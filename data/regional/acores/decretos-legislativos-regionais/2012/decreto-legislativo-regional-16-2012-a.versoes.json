@@ -1,0 +1,1545 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:554387:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-114480216",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-2012-554387",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-04-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114477733",
+    "114477734",
+    "114477735",
+    "114477736",
+    "114477738",
+    "114477739",
+    "114477740",
+    "114477741",
+    "114477742",
+    "114477743",
+    "114477744",
+    "114477745",
+    "114477746",
+    "114477747",
+    "114477748",
+    "114477749",
+    "114477750",
+    "114477751",
+    "114477752",
+    "114477753",
+    "114477754",
+    "114477755",
+    "114477756",
+    "114477757",
+    "114477758",
+    "114477759",
+    "114477760",
+    "114477761",
+    "114477762",
+    "114477763",
+    "114477764",
+    "114477765",
+    "114477766",
+    "114477767",
+    "114477768",
+    "114477769",
+    "114477770",
+    "114477771",
+    "114477772",
+    "114477773",
+    "114477774",
+    "114479775",
+    "114479776",
+    "114479777",
+    "114479778",
+    "114479779",
+    "114479780",
+    "114479781",
+    "114479782",
+    "114479783",
+    "114479784",
+    "114479785",
+    "114479786",
+    "114479787",
+    "114479788",
+    "114479789",
+    "114479790",
+    "114479791",
+    "114479792",
+    "114479793",
+    "114479794",
+    "114479795",
+    "114479796",
+    "114479797",
+    "114479798",
+    "114479799",
+    "114479800",
+    "114479801",
+    "114479802",
+    "114479803",
+    "114479804",
+    "114479805",
+    "114479806",
+    "114479807",
+    "114479808",
+    "114479809",
+    "114479810",
+    "114479811",
+    "114479812",
+    "114479813",
+    "114479814",
+    "114479815",
+    "114479816",
+    "114479817",
+    "114479818",
+    "114479819",
+    "114479820",
+    "114479821",
+    "114479822",
+    "114479823",
+    "114479824",
+    "114479825",
+    "114479826",
+    "114479827",
+    "114479828",
+    "114479829",
+    "114479830",
+    "114479831",
+    "114479832",
+    "114479833",
+    "114479834",
+    "114479835",
+    "114479836",
+    "114479837",
+    "114479838",
+    "114479839",
+    "114479840",
+    "114479841",
+    "114479842",
+    "114479843",
+    "114479844",
+    "114479845",
+    "114479846",
+    "114479847",
+    "114479848",
+    "114479849",
+    "114479850",
+    "114479851",
+    "114479852",
+    "114479853",
+    "114479854",
+    "114479855",
+    "114479856",
+    "114479857",
+    "114479858",
+    "114479859",
+    "114479860",
+    "114479861",
+    "114479862",
+    "114479863",
+    "114479864",
+    "114479865",
+    "114479866",
+    "114479867",
+    "114479868",
+    "114479869",
+    "114479870",
+    "114479871",
+    "114479872",
+    "114479873",
+    "114479874",
+    "114481975",
+    "114481976",
+    "114481977",
+    "114481978",
+    "114481979",
+    "114481980",
+    "114481981",
+    "114481982"
+   ]
+  },
+  {
+   "date": "2013-11-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:503827:por",
+     "title": "Decreto Legislativo Regional n.º 21/2013/A",
+     "published": "2013-11-21",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-2013-503827"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 108.º"
+   ],
+   "fragments": [
+    "114477733",
+    "114477734",
+    "114477735",
+    "114477736",
+    "114477737",
+    "114477738",
+    "114477739",
+    "114477740",
+    "114477741",
+    "114477742",
+    "114477743",
+    "114477744",
+    "114477745",
+    "114477746",
+    "114477747",
+    "114477748",
+    "114477749",
+    "114477750",
+    "114477751",
+    "114477752",
+    "114477753",
+    "114477754",
+    "114477755",
+    "114477756",
+    "114477757",
+    "114477758",
+    "114477759",
+    "114477760",
+    "114477761",
+    "114477762",
+    "114477763",
+    "114477764",
+    "114477765",
+    "114477766",
+    "114477767",
+    "114477768",
+    "114477769",
+    "114477770",
+    "114477771",
+    "114477772",
+    "114477773",
+    "114477774",
+    "114479775",
+    "114479776",
+    "114479777",
+    "114479778",
+    "114479779",
+    "114479780",
+    "114479781",
+    "114479782",
+    "114479783",
+    "114479784",
+    "114479785",
+    "114479786",
+    "114479787",
+    "114479788",
+    "114479789",
+    "114479790",
+    "114479791",
+    "114479792",
+    "114479793",
+    "114479794",
+    "114479795",
+    "114479796",
+    "114479797",
+    "114479798",
+    "114479799",
+    "114479800",
+    "114479801",
+    "114479802",
+    "114479803",
+    "114479804",
+    "114479805",
+    "114479806",
+    "114479807",
+    "114479808",
+    "114479809",
+    "114479810",
+    "114479811",
+    "114479812",
+    "114479813",
+    "114479814",
+    "114479815",
+    "114479816",
+    "114479817",
+    "114479818",
+    "114479819",
+    "114479820",
+    "114479821",
+    "114479822",
+    "114479823",
+    "114479824",
+    "114479825",
+    "114479826",
+    "114479827",
+    "114479828",
+    "114479829",
+    "114479830",
+    "114479831",
+    "114479832",
+    "114479833",
+    "114479834",
+    "114479835",
+    "114479836",
+    "114479837",
+    "114479838",
+    "114479839",
+    "114479840",
+    "114479841",
+    "114479842",
+    "114479843",
+    "114479844",
+    "114479845",
+    "114479846",
+    "114479847",
+    "114479848",
+    "114479849",
+    "114479850",
+    "114479851",
+    "114479852",
+    "114479853",
+    "114479854",
+    "114479855",
+    "114479856",
+    "114479857",
+    "114479858",
+    "114479859",
+    "114479860",
+    "114479861",
+    "114479862",
+    "114479863",
+    "114479864",
+    "114479865",
+    "114479866",
+    "114479867",
+    "114479868",
+    "114479869",
+    "114479870",
+    "114479871",
+    "114479872",
+    "114479873",
+    "114479874",
+    "114481975",
+    "114481976",
+    "114481977",
+    "114481978",
+    "114481979",
+    "114481987",
+    "114481981",
+    "114481982"
+   ]
+  }
+ ],
+ "fragments": {
+  "114477733": {
+   "fragment_id": "114480217",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 16/2012/A\n\nAprova o Código da Ação Social dos Açores\n\nO presente decreto legislativo regional aprova o Código da Ação Social dos Açores. Por esta via, procede-se à consolidação dos diferentes normativos que orientam a ação social na Região Autónoma dos Açores e que regulam a relação do Governo Regional com a rede de parceiros no seu desenvolvimento, introduzindo critérios de sustentabilidade e de qualidade e assumindo como princípios orientadores a eficiência e a eficácia da rede de respostas sociais.\n\nAs linhas de orientação que estruturam o Código da Ação Social são aplicáveis a todos os agentes sociais, em consonância com a Lei de Bases do Sistema de Segurança Social, no respeito pela idiossincrasia da Região Autónoma dos Açores. Dessas orientações estruturantes da ação social destacam-se a proximidade da intervenção, a qualificação e integração do indivíduo, a contratualização e responsabilização dos intervenientes, o reforço e valorização de parcerias, a modelação e não cumulação de ações no âmbito da intervenção social, a desburocratização e eficiência e o estímulo ao voluntariado e à responsabilidade social.\n\nO presente diploma, ao considerar o utente ou beneficiário da rede de equipamentos sociais como cliente, pretende configurar um modelo integrado onde se distinguem os prestadores de apoios dos seus financiadores públicos ou parapúblicos. Nesse sentido, os contratos a estabelecer com os parceiros sociais, seja de caráter eventual, de investimento ou de financiamento, assumem um papel fundamental no sistema agora estabelecido.\n\nA prestação de apoios sociais passa a depender de contratualização e favorece o aumento da competitividade na economia social, premiando a excelência dos serviços e equipamentos, favorecendo uma maior e melhor oferta de respostas sociais e fomentando o envolvimento de todos os sectores da sociedade civil, assente numa lógica de responsabilidade social partilhada entre os indivíduos, as famílias, os grupos e as empresas.\n\nDefinem-se os critérios de elaboração dos contratos de cooperação com as instituições particulares de solidariedade social, ou outras sem finalidade lucrativa, assim como do financiamento deles decorrentes, promovendo uma maior autonomia organizacional e o reforço na liberdade de gestão. Atendendo a que os recursos em causa são, na sua grande maioria, constituídos por verbas públicas, esta liberdade de gestão é complementada por um acompanhamento reforçado, no que concerne à aplicação dos financiamentos concedidos e à efetiva prestação de serviços aos clientes das instituições, imprimindo-se uma lógica de responsabilidade e exigência de resultados.\n\nCom o atual diploma, estabelece-se uma nova estruturação material e orgânica do sistema de ação social; novos programas anuais de avaliação e auditoria da qualidade; uma maior aproximação ao terreno e às instituições por parte dos técnicos sociais e a promoção de boas práticas, numa lógica de atuação global e integrada, com vista à melhoria dos serviços prestados à população, tornando-os mais próximos dos destinatários, mais eficazes, eficientes e céleres enquanto respostas às necessidades sociais.\n\nNo Código da Ação Social prevê-se ainda a criação de uma nova plataforma comunicacional, o sistema de informação e apoio à decisão social (SIADS), libertando, por essa via, recursos humanos de tarefas meramente burocráticas para a intervenção social junto da população e das entidades que efetivamente promovem a ação social.\n\nO Código da Ação Social constitui assim uma reforma estrutural, que consagra o regime jurídico da ação social nos Açores, reunindo disposições legislativas ou regulamentares que conjugam a continuação do alargamento da rede de serviços e equipamentos sociais, como uma aposta na qualificação, certificação, diversificação e sustentabilidade da atual oferta regional de respostas sociais.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "114477734": {
+   "fragment_id": "114480218",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação do Código da Ação Social dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação do Código da Ação Social dos Açores\n\nÉ aprovado o Código da Ação Social dos Açores, que se publica em anexo ao presente decreto legislativo regional e que dele faz parte integrante."
+  },
+  "114477735": {
+   "fragment_id": "114480219",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\n1 - São revogados:\n\na) O Decreto Legislativo Regional n.º 5/98/A, de 11 de março;\n\nb) O Despacho Normativo n.º 70/99, de 1 de abril;\n\nc) A Resolução n.º 172/97, de 7 de agosto.\n\n2 -As disposições constantes nos diplomas não expressamente revogados produzem todos os seus efeitos até à entrada em vigor da regulamentação necessária à implementação, aplicação e execução do disposto no Código da Ação Social dos Açores.\n\n3 -Mantêm-se igualmente em vigor todas as disposições compatíveis com o presente código."
+  },
+  "114477736": {
+   "fragment_id": "114480220",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente decreto legislativo regional entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "114477738": {
+   "fragment_id": "114480222",
+   "type": 14,
+   "heading": "Anexo — Código da Ação Social dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Código da Ação Social dos Açores"
+  },
+  "114477739": {
+   "fragment_id": "114480223",
+   "type": 13,
+   "heading": "Título I — Parte geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Parte geral"
+  },
+  "114477740": {
+   "fragment_id": "114480224",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "114477741": {
+   "fragment_id": "114480225",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma define o regime jurídico do sistema de ação social na Região Autónoma dos Açores.\n\n2 - O sistema de ação social nos Açores é constituído pelos serviços e organismos de segurança social sujeitos à tutela da administração regional e local, por instituições particulares de solidariedade social, casas do povo, cooperativas de segurança social, misericórdias, organizações não governamentais, pessoas singulares, pessoas coletivas de utilidade pública administrativa e demais entidades privadas, com ou sem fins lucrativos, com atuação na área social."
+  },
+  "114477742": {
+   "fragment_id": "114480226",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito material\n\n1 - A ação social nos Açores tem como objetivos fundamentais a prevenção e reparação de situações de carência e desigualdade socioeconómica, de dependência, de disfunção, exclusão ou vulnerabilidade sociais, bem como a integração e promoção comunitária das pessoas e o desenvolvimento das respetivas capacidades.\n\n2 - O sistema de ação social nos Açores assegura ainda especial proteção aos grupos mais vulneráveis, nomeadamente crianças, jovens, pessoas com deficiência e idosos, bem como outras pessoas em situação de carência económica ou social.\n\n3 - A ação social deve ainda ser conjugada com outras políticas sociais públicas, bem como ser articulada com a atividade de instituições privadas."
+  },
+  "114477743": {
+   "fragment_id": "114480227",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito subjetivo\n\n1 - Todas as pessoas residentes na Região Autónoma dos Açores beneficiam do apoio social previsto no presente diploma, cumpridas as respetivas condições de atribuição.\n\n2 - Os estrangeiros e apátridas que, não tendo domicílio fixo nos Açores, se encontrem no território da Região em circunstâncias excecionais têm direito às modalidades de apoio social mencionadas nas alíneas a) a c) do artigo 12.º\n\n3 - O disposto no número anterior não prejudica os direitos dos cidadãos europeus ou estrangeiros ao abrigo de disposições de direito comunitário ou internacional a que Portugal esteja vinculado."
+  },
+  "114477744": {
+   "fragment_id": "114480228",
+   "type": 11,
+   "heading": "Artigo 4.º — Linhas de orientação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Linhas de orientação\n\nO sistema de ação social na Região Autónoma dos Açores rege-se pela proximidade aos indivíduos, famílias e grupos, pela sua qualificação e integração na comunidade, pela contratualização e responsabilização, pela modelação não cumulativa das ações de intervenção social, pela desburocratização e eficiência, pela valorização de parcerias e pelo estímulo ao voluntariado social."
+  },
+  "114477745": {
+   "fragment_id": "114480229",
+   "type": 11,
+   "heading": "Artigo 5.º — Proximidade da intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Proximidade da intervenção\n\nA ação social é desenvolvida através da intervenção prioritária das entidades mais próximas dos indivíduos, das famílias e dos grupos."
+  },
+  "114477746": {
+   "fragment_id": "114480230",
+   "type": 11,
+   "heading": "Artigo 6.º — Qualificação e integração do indivíduo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Qualificação e integração do indivíduo\n\n1 - A intervenção social tem como objetivo qualificar e integrar os indivíduos, famílias e grupos na comunidade a que pertencem.\n\n2 - A intervenção social é efetuada a partir de três níveis:\n\na) Prevenção, através de ações oportunas, tendentes a evitar disfunções sociais, o seu agravamento ou os seus efeitos;\n\nb) Proteção, no sentido de promover o auxílio social às pessoas, famílias e grupos mais vulneráveis, através de prestações adequadas às situações individualmente consideradas, de acordo com os objetivos e prioridades sociais;\n\nc) Integração dos membros da comunidade, através de alterações organizacionais e comportamentais."
+  },
+  "114477747": {
+   "fragment_id": "114480231",
+   "type": 11,
+   "heading": "Artigo 7.º — Contratualização e responsabilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contratualização e responsabilização\n\nA ação social tem como instrumento preferencial a contratualização da intervenção social, numa ótica de envolvimento e de responsabilização entre as partes envolvidas."
+  },
+  "114477748": {
+   "fragment_id": "114480232",
+   "type": 11,
+   "heading": "Artigo 8.º — Valorização de parcerias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Valorização de parcerias\n\nO desenvolvimento da ação social promove a valorização de parcerias, constituídas por entidades públicas e particulares, para uma atuação integrada junto dos indivíduos, das famílias e dos grupos."
+  },
+  "114477749": {
+   "fragment_id": "114480233",
+   "type": 11,
+   "heading": "Artigo 9.º — Modelação e não cumulação das ações de intervenção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Modelação e não cumulação das ações de intervenção social\n\n1 - Todos os apoios concedidos em matéria de ação social são personalizados, seletivos e flexíveis aos fins a que se destinam, de modo a permitir a sua adequação e eficácia.\n\n2 - Exceto nos casos legalmente previstos, as ações de intervenção social não são cumuláveis com outras de idêntica natureza e finalidade, quando garantidas pelo sistema público de segurança social."
+  },
+  "114477750": {
+   "fragment_id": "114480234",
+   "type": 11,
+   "heading": "Artigo 10.º — Desburocratização e eficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Desburocratização e eficiência\n\n1 - A ação social é desenvolvida através da utilização eficiente dos recursos financeiros e dos serviços e equipamentos de apoio social, com eliminação de sobreposições, lacunas de atuação e assimetrias na disposição geográfica dos meios envolvidos, tendo em conta o contexto disperso e insular da Região Autónoma dos Açores.\n\n2 - A situação do cliente deve ser avaliada de modo global e integrado, abrangendo todos os fatores relevantes para a determinação e atribuição do apoio."
+  },
+  "114477751": {
+   "fragment_id": "114480235",
+   "type": 11,
+   "heading": "Artigo 11.º — Voluntariado social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Voluntariado social\n\nO voluntariado social é estimulado com o objetivo de assegurar a participação e envolvimento da sociedade civil na promoção do bem-estar social e uma maior harmonização das respostas sociais."
+  },
+  "114477752": {
+   "fragment_id": "114480236",
+   "type": 1,
+   "heading": "Capítulo II — Ações de intervenção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Ações de intervenção social"
+  },
+  "114477753": {
+   "fragment_id": "114480237",
+   "type": 11,
+   "heading": "Artigo 12.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Modalidades\n\nA intervenção no âmbito do sistema de ação social concretiza-se através das seguintes modalidades:\n\na) Prestações em espécie;\n\nb) Acesso a serviços ou equipamentos de apoio social;\n\nc) Apoio e participação em programas de combate à pobreza, disfunção, marginalização e exclusão sociais;\n\nd) Prestações pecuniárias, de caráter eventual ou renovável;\n\ne) Outras prestações criadas por decreto legislativo regional."
+  },
+  "114477754": {
+   "fragment_id": "114480238",
+   "type": 11,
+   "heading": "Artigo 13.º — Atuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Atuação\n\n1 - O desenvolvimento da ação social pode implicar o recurso a subvenções, protocolos ou contratos de cooperação com quaisquer instituições particulares não lucrativas que desenvolvam atividades de ação social.\n\n2 - A criação e o acesso aos serviços e equipamentos de apoio social são promovidos, incentivados e apoiados pela Região Autónoma dos Açores, envolvendo, sempre que possível, os parceiros referidos no número seguinte.\n\n3 - No âmbito da intervenção local, o desenvolvimento da ação social concretiza-se através de parcerias, designadamente através da rede social, envolvendo a participação e a colaboração entre as diferentes entidades previstas no artigo 1.º\n\n4 - A utilização de serviços, equipamentos ou prestações sociais pode ser condicionada ao pagamento de prestações pelos respetivos clientes, tendo em conta os seus rendimentos e os dos seus agregados familiares.\n\n5 - Por despacho do membro do Governo Regional competente em matéria de solidariedade social, podem ser fixados preços máximos por utilização."
+  },
+  "114477755": {
+   "fragment_id": "114480239",
+   "type": 11,
+   "heading": "Artigo 14.º — Entidades privadas com fins lucrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entidades privadas com fins lucrativos\n\nAs pessoas e as entidades privadas com fins lucrativos que sejam titulares de serviços e equipamentos de apoio social podem beneficiar de incentivos e benefícios concedidos pela Região Autónoma dos Açores."
+  },
+  "114477756": {
+   "fragment_id": "114480240",
+   "type": 1,
+   "heading": "Capítulo III — Despesas e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Despesas e financiamento"
+  },
+  "114477757": {
+   "fragment_id": "114480241",
+   "type": 11,
+   "heading": "Artigo 15.º — Despesas da ação social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Despesas da ação social\n\n1 - Constituem despesas do sistema de ação social as resultantes da execução das políticas e medidas de prevenção e erradicação das situações referidas no artigo 2.º, nomeadamente:\n\na) Investimentos em serviços e equipamentos de apoio social;\n\nb) Programas de combate à pobreza, disfunção, marginalização e exclusão sociais;\n\nc) Prestações pecuniárias e em espécie.\n\n2 - A realização de serviços e investimentos em serviços e equipamentos de apoio social referidos na alínea a) do n.º 1 pode concretizar-se através de transferências para outros sectores da administração pública regional, cujas competências sejam enquadráveis na prossecução dos objetivos associados àqueles equipamentos.\n\n3 - Constituem ainda despesas da ação social as decorrentes de programas, projetos e iniciativas, tais como:\n\na) Apoio às famílias, à infância e às vítimas de violência doméstica;\n\nb) Apoio aos repatriados;\n\nc) Execução de políticas sociais de lazer;\n\nd) Outras prestações e apoios enquadráveis nos objetivos do sistema de ação social."
+  },
+  "114477758": {
+   "fragment_id": "114480242",
+   "type": 11,
+   "heading": "Artigo 16.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Financiamento\n\nA ação social nos Açores é financiada nos termos da Lei n.º 4/2007, de 16 de janeiro, por transferências do Orçamento do Estado e, de modo solidário e subsidiário, pela Região Autónoma dos Açores e por quaisquer transferências de entidades públicas ou privadas."
+  },
+  "114477759": {
+   "fragment_id": "114480243",
+   "type": 13,
+   "heading": "Título II — Parte especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Parte especial"
+  },
+  "114477760": {
+   "fragment_id": "114480244",
+   "type": 1,
+   "heading": "Capítulo I — Serviços e equipamentos de apoio social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Serviços e equipamentos de apoio social"
+  },
+  "114477761": {
+   "fragment_id": "114480245",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "114477762": {
+   "fragment_id": "114480246",
+   "type": 11,
+   "heading": "Artigo 17.º — Serviços e equipamentos de apoio social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Serviços e equipamentos de apoio social\n\nConsideram-se de apoio social os serviços e os equipamentos através dos quais sejam prestados serviços às pessoas e às famílias, com ou sem estruturas associadas, e que prossigam os objetivos do sistema de ação social mencionados no artigo 2.º"
+  },
+  "114477763": {
+   "fragment_id": "114480247",
+   "type": 11,
+   "heading": "Artigo 18.º — Respostas sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Respostas sociais\n\n1 - Os serviços e equipamentos de apoio social concretizam-se através das seguintes respostas:\n\na) Apoio a crianças e jovens: creche, centro de atividades de tempos livres, lar de infância e juventude, apartamento de autonomização e casa de acolhimento temporário;\n\nb) Apoio a pessoas idosas: centro de convívio, centro de dia, centro de noite, lar e residência;\n\nc) Apoio a pessoas com deficiência: centro de atividades ocupacionais, lar residencial, residência autónoma, centro de atendimento, acompanhamento e animação de pessoas com deficiência;\n\nd) Apoio a pessoas com doença do foro mental ou psiquiátrico: fórum socio-ocupacional e unidades de vida protegida, autónoma e apoiada;\n\ne) Apoio a outros grupos vulneráveis: apartamento de reinserção social, centro de alojamento temporário e comunidade de inserção;\n\nf) Apoio à família e comunidade: centro comunitário, casa-abrigo e serviço de apoio domiciliário.\n\n2 - Consideram-se ainda de apoio social os serviços e os equipamentos através dos quais sejam desenvolvidas atividades similares às referidas no número anterior, ainda que sob designação diferente."
+  },
+  "114477764": {
+   "fragment_id": "114480248",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime de exercício de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime de exercício de atividade\n\nOs equipamentos e os serviços de apoio social estão sujeitos a licenciamento, sem prejuízo do disposto no artigo seguinte."
+  },
+  "114477765": {
+   "fragment_id": "114480249",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições técnicas de instalação e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições técnicas de instalação e funcionamento\n\n1 - Todos os serviços e equipamentos de apoio social da Região Autónoma dos Açores devem observar as condições técnicas de instalação e funcionamento.\n\n2 - Consideram-se condições técnicas de instalação e funcionamento de um serviço ou de um equipamento de apoio social as que respeitam à sua organização, instalações, funcionamento, apetrechamento, qualidade, metodologias de intervenção, recursos humanos e demais aspetos para o adequado desenvolvimento da sua atividade.\n\n3 - As condições técnicas de instalação e funcionamento dos serviços e equipamentos de apoio social são objeto de decreto legislativo regional."
+  },
+  "114477766": {
+   "fragment_id": "114480250",
+   "type": 11,
+   "heading": "Artigo 21.º — Utilidade social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Utilidade social\n\nTodos os serviços e equipamentos de apoio social que, nos termos do presente diploma, se encontrem licenciados para o exercício da respetiva atividade são considerados de utilidade social."
+  },
+  "114477767": {
+   "fragment_id": "114480251",
+   "type": 8,
+   "heading": "Secção II — Das obrigações das entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das obrigações das entidades gestoras"
+  },
+  "114477768": {
+   "fragment_id": "114480252",
+   "type": 11,
+   "heading": "Artigo 22.º — Deveres gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Deveres gerais\n\nSem prejuízo das restrições que correspondam a carências específicas de determinados grupos ou categorias de pessoas, constituem deveres gerais das entidades gestoras:\n\na) Não praticar atos ou atitudes discriminatórias, por ação ou por omissão, para com o cliente, em razão da sua origem, nomeadamente étnica ou social, estado físico ou psíquico, orientação sexual, deficiência, idade ou convicções pessoais, políticas ou religiosas;\n\nb) Promover ambientes calmos, confortáveis e humanizados, adequados à convivência social, privilegiando o relacionamento com familiares e amigos, com os funcionários e com a própria comunidade, de acordo com os interesses dos clientes;\n\nc) Prestar serviços com qualidade, individualizados e adequados às necessidades dos clientes, nomeadamente serviços domésticos destinados à higiene do ambiente, ao serviço de refeições e ao tratamento de roupas; fornecimento de alimentação adequada atendendo, na medida do possível, aos hábitos alimentares e gostos pessoais; animação sociocultural, recreativa e ocupacional, para manutenção e desenvolvimento das suas capacidades físicas e psíquicas;\n\nd) Fornecer e disponibilizar toda a informação ao cliente sobre os serviços prestados, a organização, os seus direitos e obrigações, de forma clara, célere e completa;\n\ne) Promover a liberdade de escolha e de acesso dos clientes aos serviços ou equipamentos, o consentimento esclarecido nas decisões que lhe digam respeito e a participação efetiva na conceção e execução do seu projeto individual;\n\nf) Garantir a possibilidade de livre renúncia ou modificação dos serviços prestados;\n\ng) Respeitar e promover os laços familiares, possibilitando, sempre que possível, a participação dos familiares ou pessoa responsável pelo apoio ao cliente, desde que contribua para o seu bem-estar e equilíbrio psicoafetivo;\n\nh) Garantir a confidencialidade dos dados e informações relativos ao cliente;\n\ni) Promover a prestação efetiva de todos os cuidados e serviços necessários à proteção da sua segurança, saúde e alimentação;\n\nj) Promover a liberdade de circulação e de exercício de direitos cívicos;\n\nk) Respeitar o direito à liberdade de culto e prática religiosa;\n\nl) Preservar e assegurar a dignidade, integridade, intimidade e segurança;\n\nm) Promover a participação efetiva na instituição."
+  },
+  "114477769": {
+   "fragment_id": "114480253",
+   "type": 11,
+   "heading": "Artigo 23.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Instrumentos de gestão\n\n1 - Os responsáveis pelos serviços e equipamentos de apoio social devem adotar, de forma contínua e atualizada, instrumentos de gestão que permitam a concretização dos deveres previstos no artigo anterior.\n\n2 - Os instrumentos de gestão são objeto de regulamentação nos termos do n.º 3 do artigo 20.º"
+  },
+  "114477770": {
+   "fragment_id": "114480254",
+   "type": 11,
+   "heading": "Artigo 24.º — Dever de publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Dever de publicitação\n\nDevem estar disponíveis em local visível e acessível ao público, nas próprias instalações onde são prestados os serviços ou, na sua inexistência, na sede da entidade administradora:\n\na) Os instrumentos de gestão referidos no artigo anterior;\n\nb) O certificado de resposta social;\n\nc) O regulamento interno;\n\nd) O mapa de pessoal e respetivos horários, de acordo com a lei em vigor;\n\ne) O nome do diretor técnico;\n\nf) O horário de funcionamento;\n\ng) O mapa semanal das ementas, quando aplicável;\n\nh) O preçário, com a indicação dos valores mínimos e máximos;\n\ni) O valor da contraprestação financeira pública no conjunto das despesas dos serviços ou equipamentos, quando aplicável."
+  },
+  "114477771": {
+   "fragment_id": "114480255",
+   "type": 11,
+   "heading": "Artigo 25.º — Denominação dos serviços e equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Denominação dos serviços e equipamentos\n\nCada estrutura prestadora de serviços ou equipamento de apoio social deve possuir uma denominação própria, de forma a garantir a sua perfeita individualização e impedir a duplicação de denominações."
+  },
+  "114477772": {
+   "fragment_id": "114480256",
+   "type": 11,
+   "heading": "Artigo 26.º — Livro de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Livro de reclamações\n\nDeve existir um livro de reclamações em todos os serviços e equipamentos de apoio social, de harmonia com o disposto na legislação em vigor, nas próprias instalações ou, na sua ausência, na sede da entidade prestadora."
+  },
+  "114477773": {
+   "fragment_id": "114480257",
+   "type": 11,
+   "heading": "Artigo 27.º — Certificação da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Certificação da qualidade\n\nO serviço ou equipamento de apoio social está sujeito a certificação da qualidade, a desenvolver através da regulamentação especial prevista no n.º 3 do artigo 20.º"
+  },
+  "114477774": {
+   "fragment_id": "114480258",
+   "type": 11,
+   "heading": "Artigo 28.º — Gestão dos equipamentos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Gestão dos equipamentos e serviços\n\nAs entidades gestoras de serviços e equipamentos de apoio social devem ser diligentes, desenvolvendo a atividade de modo criterioso e ordenado, em consonância com a evolução da técnica, a qualidade dos bens ou serviços e a eficiente afetação dos recursos."
+  },
+  "114479775": {
+   "fragment_id": "114480259",
+   "type": 1,
+   "heading": "Capítulo II — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Licenciamento"
+  },
+  "114479776": {
+   "fragment_id": "114480260",
+   "type": 8,
+   "heading": "Secção I — Licenciamento da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Licenciamento da atividade"
+  },
+  "114479777": {
+   "fragment_id": "114480261",
+   "type": 11,
+   "heading": "Artigo 29.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Âmbito\n\n1 - A atividade dos serviços e os equipamentos de apoio social dependem de licença de funcionamento, a constar do certificado de resposta social previsto no artigo 39.º\n\n2 - Estão isentos de licenciamento os equipamentos e os serviços de apoio social geridos diretamente pelas administrações central e regional autónoma.\n\n3 - Os serviços e equipamentos de apoio social, previstos no número anterior, devem observar as condições técnicas de instalação e funcionamento previstas no presente diploma.\n\n4 - A instrução do pedido e a decisão referentes à licença de funcionamento são da competência dos serviços ou organismos regionais de segurança social competentes em matéria de ação social."
+  },
+  "114479778": {
+   "fragment_id": "114480262",
+   "type": 11,
+   "heading": "Artigo 30.º — Princípio do balcão único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Princípio do balcão único\n\n1 - O licenciamento dos equipamentos e dos serviços de apoio social obedece a um processo único, através do qual todos os procedimentos a que haja lugar até ao início da atividade devem constar num único processo.\n\n2 - Para efeitos do número anterior, as entidades requerentes podem relacionar-se apenas com os serviços ou organismos regionais de segurança social competentes em matéria de ação social, que assumirão a gestão do processo em colaboração com as entidades responsáveis pelos demais licenciamentos, nomeadamente para efeitos de informação e instrução processual."
+  },
+  "114479779": {
+   "fragment_id": "114480263",
+   "type": 11,
+   "heading": "Artigo 31.º — Princípio da proatividade instrutória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Princípio da proatividade instrutória\n\n1 - Ao requerente deve ser dispensada a apresentação de documentos, desde que assegurado o acesso à informação necessária por parte do serviço ou organismo regional de segurança social competente em matéria de ação social, designadamente através da interconexão de dados com outros organismos da Administração Pública.\n\n2 -Em caso de impossibilidade, e sempre que se mostre necessário, o órgão instrutor deve solicitar a colaboração de outros serviços da administração pública central, regional ou local para a realização de diligências probatórias."
+  },
+  "114479780": {
+   "fragment_id": "114480264",
+   "type": 11,
+   "heading": "Artigo 32.º — Atribuição de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Atribuição de licença\n\nO licenciamento da atividade depende do cumprimento das exigências e requisitos previstos no presente diploma e das condições técnicas de instalação e funcionamento dos serviços e equipamentos de apoio social previstas no artigo 20.º, bem como da:\n\na) Regularidade da situação contributiva do requerente, quer perante a segurança social quer perante a administração fiscal;\n\nb) Idoneidade do requerente e do pessoal a afetar ao serviço ou equipamento em causa, considerando designadamente o previsto no artigo 34.º"
+  },
+  "114479781": {
+   "fragment_id": "114480265",
+   "type": 8,
+   "heading": "Secção II — Do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do procedimento"
+  },
+  "114479782": {
+   "fragment_id": "114480266",
+   "type": 11,
+   "heading": "Artigo 33.º — Legitimidade para o licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Legitimidade para o licenciamento\n\nTem legitimidade para requerer o licenciamento da atividade de um serviço ou equipamento de apoio social toda a pessoa singular ou coletiva, independentemente do título de utilização das instalações afetas, desde que não se encontre impedida, nos termos previstos no artigo 34.º"
+  },
+  "114479783": {
+   "fragment_id": "114480267",
+   "type": 11,
+   "heading": "Artigo 34.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Impedimentos\n\n1 - Não podem exercer funções nos serviços e equipamentos de apoio social, a qualquer título, as pessoas relativamente às quais se verifique algum dos seguintes impedimentos:\n\na) Terem sido interditadas do exercício das atividades em qualquer serviço ou equipamento abrangido pelo presente diploma;\n\nb) Terem sido condenadas, por sentença transitada em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição de profissão relacionada com a atividade de serviços ou equipamentos de apoio social de idêntica natureza.\n\n2 - Tratando-se de pessoa coletiva, os impedimentos aplicam-se às pessoas dos administradores, sócios-gerentes, gerentes ou membros dos órgãos sociais das instituições."
+  },
+  "114479784": {
+   "fragment_id": "114480268",
+   "type": 11,
+   "heading": "Artigo 35.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Requerimento\n\n1 - O pedido de licenciamento da atividade é efetuado mediante a apresentação de requerimento, em modelo próprio, dirigido ao serviço ou organismo regional de segurança social competente em matéria de ação social, instruído com os documentos referidos no artigo seguinte.\n\n2 - Do requerimento constam obrigatoriamente:\n\na) A identificação do requerente;\n\nb) A denominação do serviço ou do equipamento de apoio social e respetiva localização;\n\nc) A identificação da direção técnica;\n\nd) O tipo de serviços que se propõe prestar;\n\ne) A lotação máxima proposta."
+  },
+  "114479785": {
+   "fragment_id": "114480269",
+   "type": 11,
+   "heading": "Artigo 36.º — Documentos anexos ao requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Documentos anexos ao requerimento\n\n1 - O requerimento deve ser acompanhado dos seguintes documentos:\n\na) Cópia do cartão de identificação de pessoa coletiva ou do documento de identificação civil do requerente;\n\nb) Cópia do cartão de identificação fiscal;\n\nc) Certidão do registo ou de matrícula e cópia dos estatutos, quando o requerente seja uma pessoa coletiva;\n\nd) Certidão do registo criminal do requerente ou, quando pessoas coletivas, dos respetivos administradores, sócios-gerentes, gerentes ou membros dos órgãos sociais;\n\ne) Declaração da situação contributiva perante a administração fiscal ou autorização para consulta dessa informação;\n\nf) Documento comprovativo do título da posse ou utilização das instalações, quando aplicável;\n\ng) Licença ou autorização de utilização, quando aplicável;\n\nh) Quadro de pessoal, com indicação das respetivas categorias, habilitações literárias e conteúdo funcional;\n\ni) Instrumentos de gestão;\n\nj) Outros elementos relevantes para a instrução do pedido.\n\n2 - Compete ao serviço ou organismo regional de segurança social competente em matéria de ação social comprovar que a situação contributiva da segurança social relativa ao requerente se encontra regularizada.\n\n3 - Caso se comprove que a situação contributiva do requerente não se encontra regularizada, deve o interessado ser notificado para, no prazo de 10 dias, proceder à respetiva regularização, sob pena de indeferimento do pedido."
+  },
+  "114479786": {
+   "fragment_id": "114480270",
+   "type": 11,
+   "heading": "Artigo 37.º — Vistoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Vistoria\n\n1 - Instruídos os documentos iniciais, o serviço ou organismo regional de segurança social competente em matéria de ação social promove a realização de uma vistoria às instalações a licenciar.\n\n2 - A vistoria é realizada por uma comissão constituída por técnicos com formação académica adequada às características do projeto, nomeadamente na área da ação social, economia, gestão, engenharia civil e arquitetura."
+  },
+  "114479787": {
+   "fragment_id": "114480271",
+   "type": 11,
+   "heading": "Artigo 38.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Decisão\n\n1 - A entidade pública referida no n.º 1 do artigo anterior profere a decisão sobre o pedido de licenciamento no prazo de 30 dias a contar da data de receção do relatório de vistoria.\n\n2 - O requerimento é indeferido quando não forem cumpridas as condições e os requisitos previstos no presente diploma."
+  },
+  "114479788": {
+   "fragment_id": "114480272",
+   "type": 11,
+   "heading": "Artigo 39.º — Certificado de resposta social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Certificado de resposta social\n\n1 - Concluído o processo, e verificando-se que o serviço ou o equipamento de apoio social reúne os requisitos exigidos, é emitido o certificado de resposta social, do qual deve constar:\n\na) A denominação do serviço e ou equipamento de apoio social em causa;\n\nb) A localização;\n\nc) A identificação da pessoa ou da entidade gestora do serviço e ou equipamento de apoio social;\n\nd) A atividade que pode ser desenvolvida através do serviço e ou equipamento de apoio social;\n\ne) A lotação máxima;\n\nf) A data de emissão;\n\ng) A licença de funcionamento.\n\n2 - O certificado de resposta social tem modelo próprio, a aprovar por portaria do membro do Governo Regional competente em matéria de solidariedade social."
+  },
+  "114479789": {
+   "fragment_id": "114480273",
+   "type": 11,
+   "heading": "Artigo 40.º — Licença provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Licença provisória\n\n1 - Quando não estiverem reunidas todas as condições de funcionamento exigidas para a emissão da licença, mas seja previsível que as mesmas possam ser cumpridas, pode ser emitida licença provisória para o exercício da atividade, a constar no certificado de resposta social, se daí não resultar riscos para a saúde, segurança ou bem-estar dos clientes.\n\n2 - A licença provisória é concedida pelo prazo máximo de 180 dias, prorrogável por igual período, por uma só vez, mediante requerimento devidamente fundamentado.\n\n3 - O licenciamento é indeferido se, dentro do prazo referido no número anterior, não forem cumpridas as condições para o funcionamento ou supridas as anomalias mencionadas na licença provisória.\n\n4 -Durante a vigência da licença provisória, os serviços e equipamentos de apoio social beneficiam das isenções e regalias do estatuto adquirido nos termos do artigo 21.º"
+  },
+  "114479790": {
+   "fragment_id": "114480274",
+   "type": 8,
+   "heading": "Secção III — Das vicissitudes da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Das vicissitudes da licença"
+  },
+  "114479791": {
+   "fragment_id": "114479875",
+   "type": 11,
+   "heading": "Artigo 41.º — Suspensão da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Suspensão da licença\n\n1 - A interrupção da atividade do serviço ou equipamento de apoio social por um período superior a um ano determina a suspensão da respetiva licença.\n\n2 - O interessado pode reclamar da proposta de suspensão no prazo de 10 dias após a notificação, findo o qual, ou se o pedido for considerado improcedente, é proferida a decisão definitiva.\n\n3 - Logo que se alterem as circunstâncias que determinaram a suspensão da licença, pode o interessado requerer o fim da suspensão."
+  },
+  "114479792": {
+   "fragment_id": "114479876",
+   "type": 11,
+   "heading": "Artigo 42.º — Caducidade da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Caducidade da licença\n\nA interrupção da atividade do serviço ou equipamento de apoio social por um período superior a cinco anos determina a caducidade da licença."
+  },
+  "114479793": {
+   "fragment_id": "114479877",
+   "type": 11,
+   "heading": "Artigo 43.º — Substituição do certificado de resposta social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Substituição do certificado de resposta social\n\n1 - Quando se verifique a alteração de qualquer dos elementos da licença da atividade, deve ser requerida a substituição do certificado de resposta social.\n\n2 - A substituição do certificado de resposta social é requerida no prazo de 30 dias, juntando para o efeito todos os elementos comprovativos da alteração efetuada.\n\n3 - O pedido de substituição é indeferido se as alterações não cumprirem com as condições técnicas de instalação e de funcionamento legalmente estabelecidas."
+  },
+  "114479794": {
+   "fragment_id": "114479878",
+   "type": 1,
+   "heading": "Capítulo III — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Cooperação"
+  },
+  "114479795": {
+   "fragment_id": "114479879",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "114479796": {
+   "fragment_id": "114479880",
+   "type": 11,
+   "heading": "Artigo 44.º — Objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Objetivo\n\nA cooperação entre a Região Autónoma dos Açores e instituições privadas sem fins lucrativos que desenvolvam atividades de apoio social, abreviadamente adiante designadas por instituições, tem como principal objetivo a atuação integrada no desenvolvimento da ação social junto dos indivíduos, das famílias e dos grupos mais fragilizados, numa lógica de responsabilização contratualizada, na prevalência dos clientes em detrimento das estruturas, e a sustentabilidade da rede de equipamentos e serviços dos Açores (RESA)."
+  },
+  "114479797": {
+   "fragment_id": "114479881",
+   "type": 11,
+   "heading": "Artigo 45.º — Contratos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Contratos de cooperação\n\nPara efeitos do número anterior, a Região Autónoma dos Açores, através dos seus serviços e organismos de segurança social competentes para o desenvolvimento da ação social, e as instituições privadas sem fins lucrativos que desenvolvam atividades de apoio social podem celebrar contratos de cooperação, nos termos previstos no presente diploma."
+  },
+  "114479798": {
+   "fragment_id": "114479882",
+   "type": 11,
+   "heading": "Artigo 46.º — Tipos de contratos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Tipos de contratos de cooperação\n\nOs contratos de cooperação revestem os seguintes tipos:\n\na) Contrato de cooperação - valor cliente: estabelece obrigações recíprocas relacionadas com a efetiva prestação de serviços no âmbito de uma determinada resposta social, assegurada pelas instituições a um conjunto de clientes, através de um serviço ou equipamento de apoio social;\n\nb) Contrato de cooperação - valor investimento: estabelece as obrigações recíprocas relacionadas com a construção, aquisição, adaptação, melhoramento, remodelação ou apetrechamento de bens móveis e imóveis, com a finalidade última da instituição prestar, por si ou em pareceria com outra instituição ou entidade pública ou privada, serviços a clientes no âmbito de uma determinada resposta social;\n\nc) Contrato de cooperação - valor eventual: estabelece as obrigações recíprocas relacionadas com necessidades específicas da instituição, conexas com a respetiva resposta social, que revistam caráter excecional, imprevisível e urgente, não suscetíveis de enquadramento noutros contratos de cooperação."
+  },
+  "114479799": {
+   "fragment_id": "114479883",
+   "type": 11,
+   "heading": "Artigo 47.º — Acordo base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Acordo base\n\n1 - A Região Autónoma dos Açores pode celebrar acordos base com duas ou mais instituições, enquanto parte, tendo em vista disciplinar relações contratuais futuras através de antecipada fixação dos respetivos termos.\n\n2 - Os acordos base podem ser celebrados com entidades representantes de instituições, tais como associações, uniões ou confederações.\n\n3 - Aplica-se ao acordo base, com as necessárias adaptações, as regras relativas ao contrato ou contratos de cooperação a executar."
+  },
+  "114479800": {
+   "fragment_id": "114479884",
+   "type": 8,
+   "heading": "Secção II — Procedimento pré-contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento pré-contratual"
+  },
+  "114479801": {
+   "fragment_id": "114479885",
+   "type": 3,
+   "heading": "Subsecção I — Pressupostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Pressupostos"
+  },
+  "114479802": {
+   "fragment_id": "114479886",
+   "type": 11,
+   "heading": "Artigo 48.º — Da boa-fé",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Da boa-fé\n\nAs partes intervenientes no contrato de cooperação ou acordo base, tanto nos preliminares como na formação e na sua execução, estão vinculadas às regras da boa-fé."
+  },
+  "114479803": {
+   "fragment_id": "114479887",
+   "type": 11,
+   "heading": "Artigo 49.º — Condições de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Condições de candidatura\n\nÀ data da apresentação da candidatura a qualquer dos contratos de cooperação, as instituições devem preencher as seguintes condições cumulativas:\n\na) Registo da instituição junto da entidade competente para o desenvolvimento da ação social, de acordo com a legislação aplicável;\n\nb) Situação contributiva regularizada perante a administração fiscal e a segurança social;\n\nc) Existência de contabilidade organizada;\n\nd) Capacidade técnica e financeira para a boa execução do projeto subjacente à cooperação pretendida."
+  },
+  "114479804": {
+   "fragment_id": "114479888",
+   "type": 11,
+   "heading": "Artigo 50.º — Requerimento e decisão liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Requerimento e decisão liminar\n\n1 - As instituições devem requerer ao membro do Governo Regional competente em matéria de solidariedade social que decida liminarmente sobre a utilidade e o interesse na resposta social a realizar através da proposta para a celebração de contrato de cooperação.\n\n2 - De acordo com o objeto do contrato de cooperação pretendido, e face à proposta a apresentar, o pedido mencionado no número anterior deve conter, pelo menos:\n\na) A descrição detalhada da resposta social desenvolvida ou a desenvolver;\n\nb) O objeto do investimento;\n\nc) Indicação dos fins a prosseguir pela instituição através do serviço, equipamento ou bens a abranger pelo contrato de cooperação;\n\nd) A identificação da capacidade máxima instalada para o serviço ou equipamento (CMI) e previsão do número máximo de clientes (C) e taxa de utilização máxima (C/CMI);\n\ne) O montante, a comparticipação, o prazo de execução e a repartição do financiamento, especificada por entidade financiadora e respetivo escalonamento anual.\n\n3 - O pedido de decisão liminar é submetido em formulário próprio e pela mesma forma da proposta.\n\n4 - A fundamentação da decisão liminar deve ter em consideração aspetos sociais, económicos e financeiros, bem como os instrumentos de planeamento relacionados com os serviços e equipamentos de apoio social, nomeadamente a carta social - rede de serviços e equipamentos sociais dos Açores (RESA) e o Plano Regional Anual da Região Autónoma dos Açores para o ano em causa.\n\n5 - No contrato de cooperação - valor eventual, a decisão liminar deve ser emitida no prazo de cinco dias.\n\n6 - A decisão liminar é obrigatória, vinculativa e definitiva."
+  },
+  "114479805": {
+   "fragment_id": "114479889",
+   "type": 3,
+   "heading": "Subsecção II — Proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Proposta"
+  },
+  "114479806": {
+   "fragment_id": "114479890",
+   "type": 11,
+   "heading": "Artigo 51.º — Requisitos da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Requisitos da proposta\n\n1 - A proposta para a celebração de contrato de cooperação deve satisfazer os seguintes requisitos:\n\na) Ter sido objeto de decisão liminar favorável;\n\nb) Cumprir as condições técnicas de instalação e funcionamento aplicáveis ao serviço ou equipamento de apoio social em causa;\n\nc) Consagrar modelos de funcionamento e de gestão que assegurem a qualidade dos serviços a prestar, num quadro de eficácia, eficiência e economia;\n\nd) Ser o proponente proprietário do terreno, do edifício ou da fração a intervir, ou o titular de qualquer outro direito que lhe permita afetar as infraestruturas e equipamentos objeto do contrato de cooperação pelo prazo mínimo de 20 anos, em regime de permanência e exclusividade, exceto quando os próprios bens imóveis integrarem o objeto da cooperação, nomeadamente quanto à respetiva aquisição ou construção;\n\ne) Indicar a quota máxima de clientes cuja admissão no serviço ou equipamento é da responsabilidade dos serviços da segurança social;\n\nf) Indicar formas de colaboração previstas com outras instituições ou com serviços e organismos públicos, tendo em vista a otimização das respostas sociais e a rentabilização através da partilha de recursos.\n\n2 - Por despacho do membro do Governo Regional competente em matéria de solidariedade social podem ser adotados formulários de propostas."
+  },
+  "114479807": {
+   "fragment_id": "114479891",
+   "type": 11,
+   "heading": "Artigo 52.º — Períodos de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Períodos de candidatura\n\n1 - A apresentação de propostas, com exceção das previstas na alínea c) do artigo 46.º, está sujeita a períodos de candidatura, fixados por despacho do membro do Governo Regional competente em matéria de solidariedade social.\n\n2 - O início dos períodos referidos no número anterior é precedido de aviso de abertura de candidatura, nos termos do capítulo vii."
+  },
+  "114479808": {
+   "fragment_id": "114479892",
+   "type": 11,
+   "heading": "Artigo 53.º — Apresentação da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Apresentação da proposta\n\n1 - A apresentação da proposta de celebração de contrato de cooperação é submetida por via eletrónica, através do sistema de informação e apoio à decisão social (SIADS), de acordo com os formulários existentes no respetivo sítio da Internet.\n\n2 - As propostas apresentadas são ordenadas e analisadas por data de submissão."
+  },
+  "114479809": {
+   "fragment_id": "114479893",
+   "type": 3,
+   "heading": "Subsecção III — Instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Instrução e decisão"
+  },
+  "114479810": {
+   "fragment_id": "114479894",
+   "type": 11,
+   "heading": "Artigo 54.º — Competência instrutória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Competência instrutória\n\n1 - A instrução, análise e emissão de parecer sobre a proposta para a celebração de contratos de cooperação - valor eventual e valor investimento cabem aos serviços do departamento do Governo Regional competente em matéria de solidariedade e segurança social.\n\n2 - A instrução, análise e emissão de parecer sobre as propostas de celebração de contratos de cooperação - valor cliente são da competência dos serviços ou organismos regionais de segurança social competentes em matéria de ação social.\n\n3 - Os pareceres referidos nos números anteriores são facultativos e não vinculativos."
+  },
+  "114479811": {
+   "fragment_id": "114479895",
+   "type": 11,
+   "heading": "Artigo 55.º — Análise das propostas de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Análise das propostas de cooperação\n\n1 - Os pareceres referidos no artigo anterior incidem sobre a verificação do cumprimento dos pressupostos, requisitos e demais exigências previstos na legislação e regulamentação aplicáveis, bem como os constantes na decisão liminar a que se refere o artigo 50.º do presente diploma.\n\n2 - O parecer referido no número anterior tem em conta aspetos sociais, económicos, de engenharia ou de arquitetura, ou outros em função das características do projeto em causa.\n\n3 - Sempre que tal se justifique, pode ser solicitado ao proponente a entrega dos documentos originais exigidos no formulário respetivo ou outros elementos complementares.\n\n4 - A não entrega dos documentos previstos no número anterior ou a ausência de resposta do proponente pelo prazo superior a 10 dias são fundamento para a caducidade do pedido."
+  },
+  "114479812": {
+   "fragment_id": "114479896",
+   "type": 11,
+   "heading": "Artigo 56.º — Aceitação da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Aceitação da proposta\n\n1 - As propostas são remetidas com o parecer e informação sobre cabimento orçamental para decisão do membro do Governo Regional competente em matéria de solidariedade social ou para resolução do Conselho do Governo Regional, de acordo com a competência para autorização de despesas, no prazo de 30 dias contados da data da submissão da proposta.\n\n2 - A proposta só é considerada aceite com a decisão expressa e positiva do membro do Governo Regional ou do Conselho de Governo Regional, consoante o caso."
+  },
+  "114479813": {
+   "fragment_id": "114479897",
+   "type": 11,
+   "heading": "Artigo 57.º — Transição de propostas para a celebração de contratos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Transição de propostas para a celebração de contratos de cooperação\n\n1 - As propostas de celebração de contratos de cooperação objeto de parecer favorável, mas não aceites por insuficiência orçamental, transitam automaticamente para o período de candidatura seguinte, sem prejuízo da sua reavaliação e atualização.\n\n2 - As propostas que não tenham sido aceites em dois períodos de candidatura consecutivos consideram-se recusadas."
+  },
+  "114479814": {
+   "fragment_id": "114479898",
+   "type": 8,
+   "heading": "Secção III — Celebração do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Celebração do contrato"
+  },
+  "114479815": {
+   "fragment_id": "114479899",
+   "type": 3,
+   "heading": "Subsecção I — Forma e conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Forma e conteúdo"
+  },
+  "114479816": {
+   "fragment_id": "114479900",
+   "type": 11,
+   "heading": "Artigo 58.º — Forma e assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Forma e assinatura\n\n1 - O contrato de cooperação deve ser reduzido a escrito.\n\n2 - O contrato é assinado pelo representante legal da instituição e pelo membro do Governo Regional competente em matéria de solidariedade social, com possibilidade de delegação de assinatura no dirigente máximo das entidades previstas no artigo 54.º\n\n3 - Após a aceitação do contrato, o mesmo deve ser assinado no prazo de 20 dias.\n\n4 - Os contratos de cooperação são elaborados em duplicado, destinado um exemplar a cada uma das partes outorgantes."
+  },
+  "114479817": {
+   "fragment_id": "114479901",
+   "type": 11,
+   "heading": "Artigo 59.º — Obrigações das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Obrigações das instituições\n\nNo âmbito dos contratos de cooperação, as instituições obrigam-se a:\n\na) Garantir, com a melhor qualidade possível, o bom funcionamento dos serviços ou equipamentos;\n\nb) Assegurar a existência de recursos humanos e materiais adequados;\n\nc) Ajustar a respetiva atividade, maximizando a eficiência e eficácia na alocação dos recursos, e não assumir compromissos ou tomar decisões sem cobertura orçamental;\n\nd) Na admissão dos clientes, dar prioridade às pessoas economicamente mais desfavorecidas, bem como às que sejam encaminhadas pelas entidades competentes;\n\ne) Fornecer aos serviços da segurança social os dados solicitados ou que lhes devam ser remetidos;\n\nf) Executar as recomendações, nomeadamente de caráter técnico ou financeiro, emitidas pelos serviços da segurança social no âmbito das respetivas competências;\n\ng) Cumprir pontualmente o contrato de cooperação;\n\nh) Atuar sob uma perspetiva de rede, partilhando e articulando, sempre que possível, a respetiva atividade com outras instituições no âmbito dos instrumentos de planeamento e das determinações do membro do Governo Regional competente em matéria de solidariedade social;\n\ni) Observar a demais legislação aplicável."
+  },
+  "114479818": {
+   "fragment_id": "114479902",
+   "type": 11,
+   "heading": "Artigo 60.º — Obrigações da Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Obrigações da Região Autónoma dos Açores\n\nNo âmbito dos contratos de cooperação, a Região Autónoma dos Açores obriga-se a:\n\na) Respeitar a liberdade e autonomia das instituições;\n\nb) Colaborar com as instituições na promoção da qualidade, eficácia e eficiência da sua atividade e, quando aplicável, na boa execução da obra ou processo de aquisição, nomeadamente na formação dos recursos humanos, na gestão e organização dos serviços ou equipamentos e no apoio jurídico e técnico;\n\nc) Fiscalizar e auditar os serviços e equipamentos de apoio social das instituições, relativamente ao cumprimento da legislação e do contrato de cooperação celebrado;\n\nd) Assegurar o tempestivo pagamento das prestações acordadas."
+  },
+  "114479819": {
+   "fragment_id": "114479903",
+   "type": 3,
+   "heading": "Subsecção II — Contrato de cooperação - Valor cliente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Contrato de cooperação - Valor cliente"
+  },
+  "114479820": {
+   "fragment_id": "114479904",
+   "type": 11,
+   "heading": "Artigo 61.º — Valor padrão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Valor padrão\n\n1 - No âmbito dos contratos de cooperação - valor cliente, a prestação pecuniária devida às instituições pelos serviços prestados aos clientes é determinada de acordo com o valor padrão por cliente, nos termos e valores fixados por despacho do membro do Governo Regional competente em matéria de solidariedade social, atento o disposto no número seguinte.\n\n2 - O valor padrão é fixado por cliente/mês com base nos custos médios de referência, por unidade, para a resposta social em causa, tendo por critérios orientadores a proteção dos interesses dos clientes, nomeadamente a qualidade dos serviços prestados, a gestão eficiente dos serviços e equipamentos, as necessidades financeiras do ciclo de gestão anual, a coesão e especificidades regionais e as linhas de atuação previstas no artigo 13.º do presente diploma.\n\n3 - Sempre que a prestação de serviço não perfaça o mês completo, o valor padrão corresponde ao número efetivo e total de dias que o cliente tenha beneficiado dos serviços da instituição."
+  },
+  "114479821": {
+   "fragment_id": "114479905",
+   "type": 11,
+   "heading": "Artigo 62.º — Atualização do valor padrão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Atualização do valor padrão\n\n1 - O valor padrão é atualizado automaticamente de acordo com a taxa de inflação média nos Açores verificada no ano anterior.\n\n2 - O valor padrão pode, sempre que a conjuntura económica ou social assim o justifique, ser objeto de atualização extraordinária por despacho do membro do Governo Regional competente em matéria de solidariedade social."
+  },
+  "114479822": {
+   "fragment_id": "114479906",
+   "type": 11,
+   "heading": "Artigo 63.º — Reserva para despesas eventuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Reserva para despesas eventuais\n\n1 - Da totalidade da prestação financeira mensal devida à instituição, são retidos 5 % para a constituição de uma reserva para despesas eventuais.\n\n2 - A reserva para despesas eventuais destina-se a assegurar situações imprevisíveis relacionadas com o funcionamento do serviço ou da instituição.\n\n3 - A totalidade do valor acumulado da reserva é automaticamente transferida para as instituições nos meses de maio e outubro de cada ano."
+  },
+  "114479823": {
+   "fragment_id": "114479907",
+   "type": 11,
+   "heading": "Artigo 64.º — Cláusulas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Cláusulas\n\n1 - O contrato de cooperação - valor cliente contém obrigatoriamente cláusulas respeitantes às seguintes matérias:\n\na) Descrição da resposta social desenvolvida;\n\nb) Fins prosseguidos pelas instituições relativamente ao serviço, equipamento ou bens abrangidos pelo contrato de cooperação;\n\nc) Identificação da capacidade máxima instalada do serviço ou equipamento (CMI), número máximo de clientes (C) e taxa de utilização máxima (C/CMI);\n\nd) Datas de início e termo do contrato;\n\ne) Identificação das prestações devidas pela Região Autónoma dos Açores ou por outras entidades, quando aplicável;\n\nf) Adequação dos recursos humanos e materiais à finalidade do contrato;\n\ng) Outras condições especiais que devam ser referidas para a boa execução do contrato.\n\n2 - Quando os contratos de cooperação - valor cliente contemplem prestações em espécie ou indústria, devem conter cláusulas respeitantes às seguintes matérias:\n\na) Descrição dos serviços, equipamentos ou bens abrangidos pelo contrato e fins a que se destinam;\n\nb) Identificação dos direitos de terceiros que devam ser salvaguardados;\n\nc) Natureza, caracterização e prazo da cedência;\n\nd) Destino dos bens, serviços ou equipamento no caso de extinção ou deficiente funcionamento da instituição;\n\ne) Identificação das prestações em espécie ou indústria."
+  },
+  "114479824": {
+   "fragment_id": "114479908",
+   "type": 11,
+   "heading": "Artigo 65.º — Prémio valor social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Prémio valor social\n\nA Região Autónoma dos Açores atribui um prémio anual, nos termos a definir em regulamento aprovado pelo membro do Governo Regional competente em matéria de solidariedade social, com o objetivo de reconhecer e incentivar a qualidade dos serviços prestados pelas instituições ao abrigo da cooperação."
+  },
+  "114479825": {
+   "fragment_id": "114479909",
+   "type": 3,
+   "heading": "Subsecção III — Contrato de cooperação - Valor investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Contrato de cooperação - Valor investimento"
+  },
+  "114479826": {
+   "fragment_id": "114479910",
+   "type": 11,
+   "heading": "Artigo 66.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Elegibilidade\n\nNo âmbito da alínea b) do artigo 46.º, são ainda consideradas elegíveis as despesas referentes a:\n\na) Projetos técnicos de arquitetura e de engenharia;\n\nb) Aquisição de serviços de fiscalização de empreitadas;\n\nc) Aquisição de serviços especializados necessários à apresentação da candidatura, bem como à observância dos procedimentos exigidos em matéria de contratação pública."
+  },
+  "114479827": {
+   "fragment_id": "114479911",
+   "type": 11,
+   "heading": "Artigo 67.º — Prestação não pecuniária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Prestação não pecuniária\n\n1 - No âmbito do contrato de cooperação - valor investimento podem ser efetuadas prestações em espécie ou indústria, nomeadamente através de:\n\na) Transferência da propriedade de bens móveis ou imóveis;\n\nb) Cedência temporária de bens móveis ou imóveis;\n\nc) Cedência da exploração de serviços e ou equipamentos de apoio social.\n\n2 - Nas situações previstas no número anterior, as partes obrigam-se a:\n\na) Utilizar os bens, serviços ou equipamentos para os fins para que foram entregues e com respeito pelos direitos e obrigações dos clientes e dos trabalhadores;\n\nb) Assegurar a correta e adequada manutenção dos bens e equipamentos entregues."
+  },
+  "114479828": {
+   "fragment_id": "114479912",
+   "type": 11,
+   "heading": "Artigo 68.º — Cláusulas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Cláusulas\n\n1 - O contrato de cooperação - valor investimento deve conter cláusulas referentes às seguintes matérias:\n\na) Descrição pormenorizada do projeto objeto do investimento e fins a prosseguir pela instituição através do serviço, equipamento ou bens abrangidos pelo contrato;\n\nb) Identificação da capacidade máxima instalada para o serviço ou equipamento (CMI) e previsão do número máximo de clientes (C) e taxa de utilização máxima (C/CMI);\n\nc) Montante, comparticipação, prazo de execução e repartição do investimento, por entidade financiadora e respetivo escalonamento anual;\n\nd) Datas de início e termo do contrato;\n\ne) Condições especiais que devam ser referidas.\n\n2 - Tratando-se de construção, reparação, adaptação, melhoramento e remodelação de edifícios, a instituição fica abrangida pelas regras do Código dos Contratos Públicos.\n\n3 - Quando o investimento relativo à aquisição ou construção de imóveis resultar na totalidade de financiamento público, a propriedade dos imóveis pertence à entidade competente em matéria de gestão do património da segurança social regional."
+  },
+  "114479829": {
+   "fragment_id": "114479913",
+   "type": 3,
+   "heading": "Subsecção IV — Contrato de cooperação - Valor eventual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Contrato de cooperação - Valor eventual"
+  },
+  "114479830": {
+   "fragment_id": "114479914",
+   "type": 11,
+   "heading": "Artigo 69.º — Cláusulas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Cláusulas\n\nO contrato de cooperação - valor eventual deve conter cláusulas que determinem o seu objeto e a prestação a atribuir, bem como o prazo para a execução do contrato."
+  },
+  "114479831": {
+   "fragment_id": "114479915",
+   "type": 11,
+   "heading": "Artigo 70.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Requisitos\n\n1 - O recurso ao contrato de cooperação - valor eventual deve ter em consideração a disponibilidade financeira existente ou a existir na reserva para despesas eventuais, face aos montantes necessários para as despesas em causa.\n\n2 - Sem prejuízo dos demais requisitos previstos no presente diploma, a excecionalidade, imprevisibilidade e urgência das necessidades a financiar têm caráter cumulativo, sob pena de indeferimento do pedido."
+  },
+  "114479832": {
+   "fragment_id": "114479916",
+   "type": 8,
+   "heading": "Secção IV — Execução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Execução do contrato"
+  },
+  "114479833": {
+   "fragment_id": "114479917",
+   "type": 11,
+   "heading": "Artigo 71.º — Entrega da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Entrega da prestação\n\n1 - A entrega das prestações pecuniárias da responsabilidade da Região Autónoma dos Açores é efetuada por transferência bancária para a instituição e processada nos termos dos artigos seguintes.\n\n2 - O modo de entrega de prestações em espécie ou indústria deve constar no contrato."
+  },
+  "114479834": {
+   "fragment_id": "114479918",
+   "type": 11,
+   "heading": "Artigo 72.º — Contrato de cooperação - Valor cliente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Contrato de cooperação - Valor cliente\n\n1 - A prestação a efetuar ao abrigo de contrato de cooperação - valor cliente é automaticamente transferida para as instituições na primeira quinzena de cada mês, relativamente à totalidade dos clientes do mês anterior registados.\n\n2 - Para efeitos do número anterior, a instituição deve proceder ao registo dos clientes na última semana de cada mês.\n\n3 - A instituição deve enviar trimestralmente os recibos comprovativos dos serviços prestados aos clientes e uma relação dos pagamentos não efetuados, sob pena de suspensão dos pagamentos devidos."
+  },
+  "114479835": {
+   "fragment_id": "114479919",
+   "type": 11,
+   "heading": "Artigo 73.º — Contrato de cooperação - Valor investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Contrato de cooperação - Valor investimento\n\n1 - As prestações são entregues em parcelas, no máximo de quatro, com um valor mínimo correspondente a 15 % do investimento elegível do projeto, exceto quanto à última parcela, que não pode ser inferior a 20 %.\n\n2 - O pedido de pagamento deve ser apresentado no prazo máximo de 90 dias a contar da data de conclusão do projeto.\n\n3 - Para efeitos do pagamento da prestação, o serviço do departamento do Governo Regional competente em matéria de solidariedade social pode verificar a execução do projeto no próprio local, bem como solicitar a colaboração de outros serviços da administração pública regional.\n\n4 - O recibo de pagamento ao fornecedor, por parte da instituição, deve ser apresentado no prazo de 15 dias após a entrega da prestação.\n\n5 - Após o incumprimento do prazo referido no número anterior, a não apresentação de recibo, dentro de prazo admonitório fixado pelo serviço mencionado no n.º 3, e até à sua apresentação, inibe a instituição de receber outras prestações financeiras ao abrigo da cooperação com a Região Autónoma dos Açores."
+  },
+  "114479836": {
+   "fragment_id": "114479920",
+   "type": 11,
+   "heading": "Artigo 74.º — Antecipação de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Antecipação de pagamento\n\n1 - A instituição pode beneficiar do pagamento antecipado das prestações, a determinar de acordo com as necessidades do investimento e com a disponibilidade orçamental, mediante a apresentação das faturas ou, no caso de aquisição de bens imóveis, do respetivo contrato promessa.\n\n2 - O não cumprimento do prazo mencionado no n.º 4 do artigo anterior inibe a instituição de recorrer novamente à antecipação de pagamento."
+  },
+  "114479837": {
+   "fragment_id": "114479921",
+   "type": 11,
+   "heading": "Artigo 75.º — Contrato de cooperação - Valor eventual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Contrato de cooperação - Valor eventual\n\n1 - Após assinatura do contrato de cooperação - valor eventual é imediatamente efetuado o pagamento das prestações contratualizadas, a determinar de acordo com as necessidades e com a disponibilidade orçamental.\n\n2 - Efetuado o pagamento, a instituição deve apresentar recibo comprovativo no prazo de 15 dias.\n\n3 - Ao contrato de cooperação - valor eventual aplica-se o disposto no n.º 5 do artigo 73.º"
+  },
+  "114479838": {
+   "fragment_id": "114479922",
+   "type": 8,
+   "heading": "Secção V — Vigência, publicidade e vicissitudes do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Vigência, publicidade e vicissitudes do contrato"
+  },
+  "114479839": {
+   "fragment_id": "114479923",
+   "type": 11,
+   "heading": "Artigo 76.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Vigência\n\nOs contratos de cooperação vigoram pelo prazo fixado no contrato, até ao máximo de cinco anos, sem prejuízo da sua renovação ou renegociação."
+  },
+  "114479840": {
+   "fragment_id": "114479924",
+   "type": 11,
+   "heading": "Artigo 77.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Publicação\n\nO contrato de cooperação é publicado em plataforma disponível na Internet, nos termos previstos no capítulo vii."
+  },
+  "114479841": {
+   "fragment_id": "114479925",
+   "type": 11,
+   "heading": "Artigo 78.º — Suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Suspensão\n\n1 - O contrato de cooperação pode, por acordo, ser suspenso pelo prazo máximo de 180 dias.\n\n2 - As declarações de consentimento são manifestadas por quaisquer dos meios e nos prazos previstos no Código do Procedimento Administrativo.\n\n3 - Se a suspensão do contrato não for sanada durante o prazo fixado no n.º 1, o contrato presume-se resolvido."
+  },
+  "114479842": {
+   "fragment_id": "114479926",
+   "type": 11,
+   "heading": "Artigo 79.º — Cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Cessação\n\n1 - O contrato de cooperação cessa por caducidade, revogação, denúncia ou por resolução.\n\n2 - O contrato caduca pelo decurso do prazo de vigência ou pelo não exercício do direito no prazo fixado no contrato.\n\n3 - As partes podem acordar a revogação do contrato, desde que não resulte em prejuízo considerável para terceiros.\n\n4 - A denúncia do contrato pode ser efetuada por vontade de uma das partes, desde que comunicada por escrito e com a antecedência mínima de 90 dias ao termo do prazo de vigência.\n\n5 - A resolução pode ser efetuada a todo o tempo, pelos motivos fixados no contrato ou quando factos ocorridos o inviabilizem ou tornem insuscetível a sua manutenção, nomeadamente por incumprimento definitivo ou violação de normas técnicas ou regulamentares.\n\n6 - A cessação do contrato de cooperação não afasta eventuais responsabilidades pelos danos causados."
+  },
+  "114479843": {
+   "fragment_id": "114479927",
+   "type": 1,
+   "heading": "Capítulo IV — Responsabilidade social das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Responsabilidade social das empresas"
+  },
+  "114479844": {
+   "fragment_id": "114479928",
+   "type": 11,
+   "heading": "Artigo 80.º — Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Regra geral\n\n1 - As empresas devem integrar e promover ações de caráter social, tendo por finalidade contribuírem para o sistema da ação social na Região Autónoma dos Açores.\n\n2 - Compete ao departamento do Governo Regional competente em matéria de solidariedade social promover e apoiar projetos ou atividades desenvolvidos pelas empresas tendentes à concretização da sua responsabilidade no âmbito da ação social."
+  },
+  "114479845": {
+   "fragment_id": "114479929",
+   "type": 11,
+   "heading": "Artigo 81.º — Responsabilidade social das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Responsabilidade social das empresas\n\nA Região Autónoma dos Açores estimula e apoia as iniciativas das empresas, integradas no sector privado ou público, que promovam políticas sociais, designadamente através da criação de equipamentos sociais e serviços de ação social de apoio à maternidade e à paternidade, à infância e à velhice, que contribuam para a conciliação da vida pessoal, profissional e familiar dos membros do agregado familiar."
+  },
+  "114479846": {
+   "fragment_id": "114479930",
+   "type": 11,
+   "heading": "Artigo 82.º — Cooperação com a Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Cooperação com a Região Autónoma dos Açores\n\nPara efeitos do disposto no artigo anterior, as empresas podem candidatar-se aos instrumentos de cooperação previstos no capítulo iii, com as seguintes adaptações:\n\na) O montante máximo das prestações públicas devidas para a resposta social em causa é reduzido em 20 %, o qual é da responsabilidade das entidades empregadoras;\n\nb) As propostas são submetidas em períodos de candidatura especialmente abertos para o efeito, de acordo a existência de disponibilidade orçamental."
+  },
+  "114479847": {
+   "fragment_id": "114479931",
+   "type": 1,
+   "heading": "Capítulo V — Programas de incentivo à iniciativa privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Programas de incentivo à iniciativa privada"
+  },
+  "114479848": {
+   "fragment_id": "114479932",
+   "type": 11,
+   "heading": "Artigo 83.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Regime\n\n1 - Podem ser criados programas específicos de estímulo a projetos e atividades de iniciativa privada, com ou sem escopo lucrativo, no âmbito da ação social.\n\n2 - Os programas referidos no número anterior são objeto de decreto legislativo regional."
+  },
+  "114479849": {
+   "fragment_id": "114479933",
+   "type": 1,
+   "heading": "Capítulo VI — Fundo de socorro social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Fundo de socorro social"
+  },
+  "114479850": {
+   "fragment_id": "114479934",
+   "type": 11,
+   "heading": "Artigo 84.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Objeto\n\n1 - O fundo de socorro social destina-se a prestar auxílio a indivíduos, grupos ou famílias em situações de catástrofe ou calamidade pública, bem como no combate à exclusão social extrema, nos termos a definir por decreto legislativo regional.\n\n2 - Os apoios no âmbito do fundo de socorro social podem ser prestados excecionalmente através de instituições sem fins lucrativos."
+  },
+  "114479851": {
+   "fragment_id": "114479935",
+   "type": 1,
+   "heading": "Capítulo VII — Sistema de informação e apoio à decisão social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Sistema de informação e apoio à decisão social"
+  },
+  "114479852": {
+   "fragment_id": "114479936",
+   "type": 11,
+   "heading": "Artigo 85.º — Finalidade do sistema de informação e apoio à decisão social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Finalidade do sistema de informação e apoio à decisão social\n\n1 - É criado o sistema de informação e apoio à decisão social, abreviadamente designado por SIADS, enquanto plataforma comum entre a Região Autónoma dos Açores e os intervenientes no âmbito da ação social.\n\n2 - O SIADS tem a finalidade de reunir, gerir, facilitar e disponibilizar informação, promover a tramitação procedimental à distância, bem como constituir acervo de dados no âmbito da ação social.\n\n3 - O SIADS compreende, nomeadamente:\n\na) Tramitação e consulta procedimental e processual no âmbito da intervenção e ação social;\n\nb) Emissão de comunicações, incluindo notificações a interessados;\n\nc) Registo e disponibilização de informação relevante, tais como contratos de cooperação ou acordos base celebrados;\n\nd) Outras funcionalidades que permitam e facilitem a gestão de processos e a ligação com e entre as entidades."
+  },
+  "114479853": {
+   "fragment_id": "114479937",
+   "type": 11,
+   "heading": "Artigo 86.º — Obrigatoriedade de inscrição e registo no SIADS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Obrigatoriedade de inscrição e registo no SIADS\n\nEstão sujeitas à inscrição e registo no SIADS as entidades públicas ou privadas, singulares ou coletivas, com ou sem escopo lucrativo, que operam ou pretendam operar no sector do apoio social nos Açores."
+  },
+  "114479854": {
+   "fragment_id": "114479938",
+   "type": 11,
+   "heading": "Artigo 87.º — Regime de acesso e confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Regime de acesso e confidencialidade\n\n1 - A informação constante no SIADS está sujeita ao regime jurídico de acesso aos documentos administrativos, sem prejuízo da proteção de dados pessoais.\n\n2 - Todas as pessoas com competências no âmbito do SIADS, independentemente da natureza jurídica do vínculo, estão sujeitas ao dever de sigilo sobre os dados de que tenham conhecimento em virtude do exercício das respetivas funções.\n\n3 - A violação do dever de sigilo constitui infração grave para efeitos de responsabilidade disciplinar, sem prejuízo da responsabilidade civil e penal que ao caso couber."
+  },
+  "114479855": {
+   "fragment_id": "114479939",
+   "type": 11,
+   "heading": "Artigo 88.º — Remissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Remissão\n\n1 - O SIADS é objeto de regulamentação própria, da competência do membro do Governo Regional competente em matéria de solidariedade social.\n\n2 - A regulamentação referida no número anterior determina ainda a forma, o modelo e suporte do SIADS, bem como as tipologias procedimentais e processuais que, no âmbito da intervenção e apoio social, devam ser obrigatoriamente realizados através do mesmo."
+  },
+  "114479856": {
+   "fragment_id": "114479940",
+   "type": 1,
+   "heading": "Capítulo VIII — Avaliação e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Avaliação e fiscalização"
+  },
+  "114479857": {
+   "fragment_id": "114479941",
+   "type": 8,
+   "heading": "Secção I — Modalidades e procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Modalidades e procedimento"
+  },
+  "114479858": {
+   "fragment_id": "114479942",
+   "type": 11,
+   "heading": "Artigo 89.º — Auditorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Auditorias\n\n1 - Compete aos serviços do departamento do Governo Regional competente em matéria de solidariedade social auditar e avaliar o regular funcionamento dos serviços e equipamentos de apoio social.\n\n2 - As avaliações e auditorias podem ser:\n\na) Ordinárias, efetuadas de dois em dois anos;\n\nb) Extraordinárias, efetuadas sempre que existam razões que as justifiquem."
+  },
+  "114479859": {
+   "fragment_id": "114479943",
+   "type": 11,
+   "heading": "Artigo 90.º — Ações de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Ações de fiscalização\n\n1 - Compete aos serviços do departamento do Governo Regional competente em matéria de solidariedade social, sem prejuízo da competência de fiscalização de outros organismos ou serviços, desenvolver ações de fiscalização aos equipamentos e serviços de apoio social, bem como desencadear os procedimentos necessários face às ilegalidades detetadas, promovendo e acompanhando a execução das medidas propostas.\n\n2 - Os trabalhadores que procedem à fiscalização têm livre acesso a todas as dependências do serviço ou equipamento de apoio social, e devem-lhes ser facultados todos os elementos necessários ao ato de fiscalização."
+  },
+  "114479860": {
+   "fragment_id": "114479944",
+   "type": 11,
+   "heading": "Artigo 91.º — Colaboração de outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Colaboração de outras entidades\n\nNa execução das ações previstas nos artigos anteriores, o serviço competente pode solicitar a colaboração de peritos ou de entidades especializadas da administração pública regional, central ou local."
+  },
+  "114479861": {
+   "fragment_id": "114479945",
+   "type": 11,
+   "heading": "Artigo 92.º — Comunicação às entidades interessadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Comunicação às entidades interessadas\n\nO resultado das ações de auditoria e de fiscalização deve ser comunicado à entidade gestora do serviço ou do equipamento no prazo de 30 dias após a conclusão das ações."
+  },
+  "114479862": {
+   "fragment_id": "114479946",
+   "type": 8,
+   "heading": "Secção II — Encerramento administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Encerramento administrativo"
+  },
+  "114479863": {
+   "fragment_id": "114479947",
+   "type": 11,
+   "heading": "Artigo 93.º — Condições e consequências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Condições e consequências\n\n1 - Pode ser ordenado o imediato encerramento do serviço e ou do equipamento de apoio social sempre que se verifiquem deficiências graves nas condições de instalação, segurança, funcionamento, salubridade, higiene e conforto, que ponham em causa os direitos ou a dignidade dos clientes.\n\n2 - A ordem de encerramento implica a automática caducidade da licença ou da autorização provisória de funcionamento, bem como a cessação dos benefícios previstos na lei."
+  },
+  "114479864": {
+   "fragment_id": "114479948",
+   "type": 11,
+   "heading": "Artigo 94.º — Competência e procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Competência e procedimento\n\n1 - O encerramento do serviço ou equipamento compete ao membro do Governo Regional competente em matéria de solidariedade social, mediante decisão fundamentada.\n\n2 - A entidade referida no número anterior pode solicitar a intervenção das autoridades administrativas e policiais competentes.\n\n3 - O encerramento administrativo não prejudica a aplicação das coimas relativas às contraordenações a aplicar ao caso concreto."
+  },
+  "114479865": {
+   "fragment_id": "114479949",
+   "type": 1,
+   "heading": "Capítulo IX — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Regime sancionatório"
+  },
+  "114479866": {
+   "fragment_id": "114479950",
+   "type": 11,
+   "heading": "Artigo 95.º — Das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Das contraordenações\n\nAs infrações ao disposto no presente Código constituem contraordenações, nos termos dos artigos seguintes."
+  },
+  "114479867": {
+   "fragment_id": "114479951",
+   "type": 11,
+   "heading": "Artigo 96.º — Classificação das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Classificação das contraordenações\n\n1 - Para determinação da coima aplicável, as contraordenações classificam-se em leves, graves e muito graves.\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "114479868": {
+   "fragment_id": "114479952",
+   "type": 11,
+   "heading": "Artigo 97.º — Contraordenações muito graves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Contraordenações muito graves\n\nConstitui contraordenação muito grave a abertura ou o funcionamento de serviço ou equipamento de apoio social que não se encontre licenciado nos termos do presente Código, nem disponha de autorização provisória de funcionamento válida."
+  },
+  "114479869": {
+   "fragment_id": "114479953",
+   "type": 11,
+   "heading": "Artigo 98.º — Contraordenações graves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Contraordenações graves\n\nConstitui contraordenação grave:\n\na) A não observância das condições técnicas de instalação e funcionamento dos serviços e equipamentos de apoio social previstas no artigo 20.º;\n\nb) A violação dos deveres gerais das entidades gestoras dos serviços ou equipamentos de apoio social previstos nas alíneas a) e h) a l) do artigo 22.º;\n\nc) A utilização, afetação ou oneração, a qualquer título, das prestações, auxílios, incentivos e demais apoios públicos atribuídos no âmbito do presente Código para finalidades ou objetivos diferentes dos que justificaram, respetivamente, a sua contratualização ou atribuição."
+  },
+  "114479870": {
+   "fragment_id": "114479954",
+   "type": 11,
+   "heading": "Artigo 99.º — Contraordenações leves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Contraordenações leves\n\nConstitui contraordenação leve:\n\na) A violação dos deveres gerais das entidades gestoras previstos nas alíneas b) a g) e m) do artigo 22.º;\n\nb) A não adoção dos instrumentos de gestão, de forma contínua e atualizada, previstos no artigo 23.º;\n\nc) A violação do dever de publicitação previsto no artigo 24.º;\n\nd) A violação do disposto no artigo 27.º quanto à certificação da qualidade;\n\ne) A não substituição do certificado de resposta social nos termos previstos no artigo 43.º;\n\nf) A inobservância das regras e obrigações referentes ao SIADS, nomeadamente quanto à obrigatoriedade de inscrição, registo e disponibilização de informação."
+  },
+  "114479871": {
+   "fragment_id": "114479955",
+   "type": 11,
+   "heading": "Artigo 100.º — Montante das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Montante das coimas\n\n1 - As contraordenações leves são puníveis com coima de (euro) 50 a (euro) 250 se praticadas por negligência e de (euro) 100 a (euro) 500 se praticadas com dolo.\n\n2 - As contraordenações graves são puníveis com coima de (euro) 300 a (euro) 1200 se praticadas por negligência e de (euro) 600 a (euro) 2400 se praticadas com dolo.\n\n3 - As contraordenações muito graves são puníveis com coima de (euro) 1250 a (euro) 6250 se praticadas por negligência e de (euro) 2500 a (euro) 12 500 se praticadas com dolo.\n\n4 - Os limites mínimos e máximos das coimas previstas nos números anteriores são elevados:\n\na) Em 100 % sempre que sejam aplicados a uma pessoa coletiva, sociedade, ainda que irregularmente constituída, ou outra entidade equiparada com 50 ou mais trabalhadores;\n\nb) Em 75 % sempre que sejam aplicados a uma pessoa coletiva, sociedade, ainda que irregularmente constituída, ou outra entidade equiparada com menos de 50 trabalhadores;\n\nc) Em 50 % sempre que sejam aplicados a instituições particulares não lucrativas, ainda que irregularmente constituídas."
+  },
+  "114479872": {
+   "fragment_id": "114479956",
+   "type": 11,
+   "heading": "Artigo 101.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Sanções acessórias\n\nSimultaneamente com a coima podem ser aplicadas as seguintes sanções acessórias:\n\na) Interdição de exercer a atividade em quaisquer serviços ou equipamentos de apoio social;\n\nb) Privação do direito a subsídio ou benefício outorgado por entidade ou serviço público;\n\nc) Encerramento do estabelecimento e suspensão da licença de funcionamento ou da autorização provisória."
+  },
+  "114479873": {
+   "fragment_id": "114479957",
+   "type": 11,
+   "heading": "Artigo 102.º — Competência para aplicação das coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Competência para aplicação das coimas e sanções acessórias\n\n1 - A instauração e instrução dos processos de contraordenação é da competência dos serviços das entidades referidas no artigo 90.º\n\n2 - A decisão dos processos referidos no número anterior é da competência do dirigente máximo do serviço do departamento do Governo Regional competente em matéria de solidariedade social."
+  },
+  "114479874": {
+   "fragment_id": "114479958",
+   "type": 11,
+   "heading": "Artigo 103.º — Pagamento das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Pagamento das coimas\n\nO pagamento das coimas não dispensa a entidade proprietária do serviço ou equipamento de apoio social do cumprimento das obrigações impostas por força da aplicação do presente Código."
+  },
+  "114481975": {
+   "fragment_id": "114479959",
+   "type": 11,
+   "heading": "Artigo 104.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º — Publicidade\n\n1 - As decisões definitivas que apliquem coima de montante igual ou superior a (euro) 1250, ou que determinem o encerramento do serviço ou equipamento de apoio social, são publicadas pelo serviço referido no n.º 2 do artigo 102.º\n\n2 - A publicidade é efetuada através de publicação do extrato da decisão definitiva no jornal da localidade ou, na sua falta, no da localidade mais próxima, no SIADS, bem como por afixação de edital, por período não inferior a 30 dias, no próprio estabelecimento, em local visível ao público.\n\n3 - As despesas decorrentes da publicidade referida nos números anteriores são da responsabilidade do infrator."
+  },
+  "114481976": {
+   "fragment_id": "114479960",
+   "type": 11,
+   "heading": "Artigo 105.º — Dispensa e atenuação de coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105.º — Dispensa e atenuação de coima\n\nNos casos de contraordenação leve pode a entidade competente pela decisão dispensar ou atenuar a aplicação de coima, desde que se verifiquem cumulativamente as seguintes circunstâncias:\n\na) A prática da infração não ocasione prejuízo efetivo aos clientes dos serviços ou equipamentos de apoio social;\n\nb) A falta cometida se encontre regularizada;\n\nc) A infração tenha sido praticada por negligência;\n\nd) Não haja reincidência."
+  },
+  "114481977": {
+   "fragment_id": "114479961",
+   "type": 11,
+   "heading": "Artigo 106.º — Sujeitos responsáveis pelas contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º — Sujeitos responsáveis pelas contraordenações\n\n1 - É responsável pelas contraordenações e pelo pagamento das coimas o agente da infração, quer seja pessoa singular ou coletiva, ainda que irregularmente constituída, ou associação sem personalidade jurídica, sem prejuízo do disposto nos números seguintes.\n\n2 - As pessoas coletivas ou entidades equiparadas, nos termos dos números anteriores, são subsidiariamente responsáveis pelas contraordenações praticadas, em seu nome ou por sua conta, pelos titulares dos seus órgãos sociais, mandatários, representantes ou trabalhadores.\n\n3 - No caso da responsabilidade ser imputada a pessoas coletivas ou equiparadas, os administradores, gerentes ou diretores são solidariamente responsáveis pelo pagamento da coima."
+  },
+  "114481978": {
+   "fragment_id": "114479962",
+   "type": 1,
+   "heading": "Capítulo X — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Disposições complementares, transitórias e finais"
+  },
+  "114481979": {
+   "fragment_id": "114479963",
+   "type": 11,
+   "heading": "Artigo 107.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Aplicação subsidiária\n\nMantêm-se em vigor todas as disposições regionais e nacionais, subsidiariamente aplicáveis, em tudo o que não estiver especialmente regulado no presente diploma."
+  },
+  "114481980": {
+   "fragment_id": "114479964",
+   "type": 11,
+   "heading": "Artigo 108.º — Acordos de cooperação em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º — Acordos de cooperação em vigor\n\n1 - As instituições abrangidas por acordos de cooperação celebrados antes da entrada em vigor do presente diploma não estão sujeitas, enquanto vigorar o acordo, ao regime de licenciamento previsto no capítulo ii.\n\n2 - Os anteriores acordos de cooperação - funcionamento devem transitar para o regime do contrato de cooperação - valor cliente no prazo de dois anos a contar da data de produção de efeitos do presente diploma.\n\n3 - No caso de o valor médio, por cliente, da prestação financeira fixada nos anteriores acordos de cooperação, ser superior ou inferior a 20 % do valor padrão, prevalece o valor médio, o qual é progressivamente aproximado do valor padrão nos três anos subsequentes, contados a partir da entrada em vigor do novo contrato de cooperação.\n\n4 - A aproximação ao valor padrão referida no número anterior deve ser realizada progressivamente, tendo em conta a dotação orçamental máxima disponível para a cooperação - valor cliente."
+  },
+  "114481981": {
+   "fragment_id": "114479965",
+   "type": 11,
+   "heading": "Artigo 109.º — Prazo de inscrição no SIADS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109.º — Prazo de inscrição no SIADS\n\nAs entidades já constituídas ou que já operem no sector do apoio social dispõem de 120 dias para procederem à respetiva inscrição e registo no SIADS, contados a partir da data de início de funcionamento do referido sistema."
+  },
+  "114481982": {
+   "fragment_id": "114479966",
+   "type": 11,
+   "heading": "Artigo 110.º — Taxas, coimas e multas contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110.º — Taxas, coimas e multas contratuais\n\n1 - Podem ser devidas taxas pela emissão ou substituição de licenças previstas no presente Código, a estabelecer por decreto legislativo regional.\n\n2 - As taxas, coimas e multas referidas no presente diploma revertem para a entidade competente em matéria de gestão financeira da segurança social nos Açores, cujo valor é destinado, exclusivamente, à melhoria da qualidade dos serviços e equipamentos de apoio social dos Açores."
+  },
+  "114477737": {
+   "fragment_id": "114480221",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de fevereiro de 2012.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 22 de março de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  },
+  "114481987": {
+   "fragment_id": "114479964",
+   "type": 11,
+   "heading": "Artigo 108.º — Acordos de cooperação em vigor",
+   "in_force_from": "2013-11-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 21/2013/A - Diário da República n.º 226/2013, Série I de 2013-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2013-503827), em vigor a partir de 2013-11-22"
+   ],
+   "markdown": "###### Artigo 108.º — Acordos de cooperação em vigor\n\n1 - As instituições abrangidas por acordos de cooperação celebrados antes da entrada em vigor do presente diploma não estão sujeitas, enquanto vigorar o acordo, ao regime de licenciamento previsto no capítulo ii.\n\n2 - Os anteriores acordos de cooperação - funcionamento devem transitar para o regime do contrato de cooperação - valor cliente no prazo de dois anos a contar da data de produção de efeitos do presente diploma.\n\n3 - No prazo previsto no número anterior, a prestação pecuniária devida às instituições pelos serviços prestados aos clientes determina-se com base no valor padrão para a totalidade dos serviços e vagas contratadas.\n\n4 - O estabelecimento dos serviços e vagas a contratar com as instituições tem em conta não apenas o número mensal de clientes registados para uma determinada resposta social, mas também o desenvolvimento prospetivo das necessidades sociais.\n\n5 - As respostas sociais abertas à comunidade nas quais os clientes não desenvolvem atividades de forma continuada ou que de alguma forma a sua relação com o serviço social disponibilizado não possa ser aferida por cliente, serão financiadas de acordo com critério nos quais se incluem os serviços efetivamente prestados, a frequência média, bem como as necessidades públicas da resposta social em causa.\n\n6 - Da aplicação do disposto neste artigo, não podem resultar perdas ou ganhos superiores a 10 % relativamente ao valor auferido no âmbito dos anteriores acordos de cooperação.\n\n7 - A aproximação ao valor padrão referida no número anterior deve ser realizada progressivamente, tendo em conta a dotação orçamental máxima disponível para a cooperação - valor cliente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 21/2013/A - Diário da República n.º 226/2013, Série I de 2013-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2013-503827), em vigor a partir de 2013-11-22"
+  }
+ }
+}

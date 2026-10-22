@@ -1,0 +1,209 @@
+---
+schema_version: '1.0'
+id: pt:dre:1697067:por
+title: Declaração de Rectificação n.º 495/2009
+short_title: null
+summary: Concurso de professor catedrático do Grupo III - Matemática
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Universidade Técnica de Lisboa - Instituto Superior de Economia e Gestão
+proposing_entity: null
+official_number: 495/2009
+official_date: null
+publication_date: '2009-02-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/2009, Série II de 2009-02-17
+  number: '33'
+  series: II
+  supplement: null
+  pages: 6690 - 6691
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/02/033000000/0669006691.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1697067'
+  dre_path: /dr/detalhe/declaracao-rectificacao/495-2009-1697067
+  internal: pt:dre:1697067:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/495-2009-1697067
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/495-2009-1697067
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-02-17T00:00:00Z'
+integrity:
+  source_sha256: 4d01ae3e0f87984f35e95cafc1293dac59515f781dbf7c0292e0aeac9d6388fd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-495-1697067.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 495/2009
+
+Por ter saído com inexactidão o edital n.º 123/2009, referente ao concurso de Professor Catedrático do Grupo III - Matemática, publicado no Diário da República, 2.ª série, n.º 21 de 30 de Janeiro de 2009, pág. 4646 e 4647, coluna 2 e 1, respectivamente, novamente se manda publicar na íntegra:
+
+Faz-se saber que, perante o Instituto Superior de Economia e Gestão, pelo período de 30 dias, contados do dia imediato àquele em que o presente edital for publicado no Diário da República, se encontra aberto concurso documental, para provimento no quadro do pessoal docente deste Instituto, 1 lugar de Professor Catedrático do Grupo III - Matemática.
+
+Em conformidade com os artigos 37.º, 38.º, 40.º, 42.º e 43.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho observar-se-ão as seguintes disposições:
+
+I - Ao concurso poderão apresentar-se:
+
+a) Os professores catedráticos do mesmo grupo ou disciplina de outra Universidade ou de análogo grupo ou disciplina de outra escola da mesma ou de diferente Universidade;
+
+b) Os professores associados do mesmo grupo ou disciplina ou de análogo grupo ou disciplina de qualquer escola ou departamento da mesma ou de diferente Universidade, que tenham sido aprovados em provas públicas de agregação e contem, pelo menos, três anos de efectivo serviço docente na qualidade de professor convidado, catedrático ou associado;
+
+c) Os professores convidados, catedráticos ou associados, do mesmo grupo ou disciplina ou de análogo grupo ou disciplina de qualquer escola ou departamento da mesma ou de diferente Universidade que tenham sido aprovados em provas públicas de agregação e contem, pelo menos, três anos de efectivo serviço docente como professores ou professores convidados daquelas categorias.
+
+II - 1 - O requerimento de admissão ao concurso é instruído com:
+
+a) Documentos comprovativos do preenchimento das condições exigidas em qualquer das alíneas do capítulo I, designadamente a certidão de agregação e certidão comprovativa do tempo de serviço na qualidade de professor associado e ou professor convidado catedrático ou associado;
+
+b) Trinta exemplares, impressos ou policopiados do "curriculum vitae" do candidato, com indicação das obras e trabalhos efectuados e publicados, bem como das actividades pedagógicas desenvolvidas.
+
+2 - Os candidatos deverão indicar no requerimento os seguintes elementos:
+
+a) Nome completo;
+
+b) Filiação;
+
+c) Número e data do bilhete de identidade e serviço que o emitiu;
+
+d) Data e local de nascimento;
+
+e) Estado civil;
+
+f) Profissão;
+
+g) Residência.
+
+3 - Não é exigida a apresentação de documentos comprovativos da posse dos requisitos gerais de provimento em funções públicas, bastando a declaração do candidato, sob compromisso de honra, no próprio requerimento ou em documento à parte, da situação precisa em que se encontra relativamente ao conteúdo de cada uma das seguintes alíneas:
+
+a) Nacionalidade;
+
+b) Cumprimento dos deveres militares ou de serviço cívico, quando obrigatório;
+
+c) Não estar inibido do exercício de funções públicas ou interdito para o exercício das funções a que se candidata;
+
+d) Possuir a robustez física e o perfil psíquico indispensáveis ao exercício da função e ter cumprido as leis de vacinação obrigatória.
+
+Os candidatos que prestam serviço no Instituto Superior de Economia e Gestão ficam dispensados da apresentação dos documentos que já existam nos respectivos processos individuais, devendo o facto ser expressamente declarado nos respectivos requerimentos.
+
+III - 1 - Será comunicado aos candidatos, no prazo de três dias, o despacho de admissão ou não admissão ao concurso, o qual basear-se-á no preenchimento ou na falta de preenchimento, por parte daqueles, das condições para tal estabelecidas.
+
+2 - Após a admissão dos candidatos ao concurso deverão estes entregar, nos 30 dias subsequentes ao da recepção do despacho de admissão, de acordo com o n.º 1 do artigo 44.º do Estatuto da Carreira Docente Universitária (ECDU), os documentos que a seguir se indica, sob pena de exclusão:
+
+a) Dois exemplares de cada um dos trabalhos mencionados no seu "Curriculum Vitae";
+
+A este concurso é ainda aplicável o disposto nos artigos 45.º, 47.º, 48.º, n.º 1 do artigo 49.º, artigos 50.º, 51.º e 52.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho.
+
+IV - Método de selecção e critérios de avaliação dos candidatos
+
+Para a avaliação curricular e seriação dos candidatos admitidos ao concurso serão utilizados os seguintes critérios:
+
+A - O concurso tem por finalidade preencher um lugar para as áreas das unidades curriculares de Ciências Actuariais, de Econometria, de Estatística ou de Matemática Financeira.
+
+A descrição e ponderação da avaliação curricular relativamente ao mérito científico e pedagógico são apresentadas a seguir:
+
+B - Mérito Cientifico (70%):
+
+Constituem critérios para a avaliação científica:
+
+Produção científica realizada e publicada;
+
+Impacto e reconhecimento junto da comunidade científica designadamente, a partir de referências feitas por outros autores;
+
+Autonomia e liderança científica;
+
+Reconhecimento nacional e internacional, designadamente na participação em redes nacionais e internacionais de investigação;
+
+Capacidade para organizar e liderar equipas científicas;
+
+Capacidade para organizar e liderar níveis de formação avançada: mestrados, doutoramentos, pós-doutoramentos, pós-graduações;
+
+Impacto social e económico da actividade científica desenvolvida;
+
+Empenho e envolvimento na gestão de unidades de investigação.
+
+C - Mérito Pedagógico (30% ):
+
+Constituem critérios para avaliação pedagógica:
+
+Capacidade para criar, dinamizar e coordenar projectos de natureza pedagógica;
+
+Docência de disciplinas enquadradas em diferentes ciclos de estudos;
+
+Produção de material pedagógico;
+
+Avaliação da qualidade da actividade lectiva;
+
+Empenho e envolvimento na gestão pedagógica e universitária.
+
+V - O júri tem a seguinte constituição:
+
+Presidente - Prof. Doutor Fernando Manuel Ramôa Cardoso Ribeiro, Reitor da Universidade Técnica de Lisboa.
+
+Vogais:
+
+Doutora Maria Antónia da Conceição Abrantes Amaral Turkamn, professora catedrática da Faculdade de Ciências da Universidade de Lisboa;
+
+Doutor Carlos Alberto dos Santos Braumann, professor catedrático da Universidade de Évora;
+
+Doutor José António Ferreira Machado, professor catedrático da Faculdade de Economia da Universidade Nova de Lisboa;
+
+Doutor Carlos Alberto da Silva Ribeiro, professor catedrático do Instituto Superior de Economia e Gestão da Universidade Técnica de Lisboa;
+
+Doutora Maria de Lurdes Caraças Centeno, professora catedrática do Instituto Superior de Economia e Gestão da Universidade Técnica de Lisboa;
+
+Doutora Maria Teresa Nunes Chaves de Almeida, professora catedrática do Instituto Superior de Economia e Gestão da Universidade Técnica de Lisboa;
+
+Doutor Daniel de Assunção Müller, professor catedrático do Instituto Superior de Economia e Gestão da Universidade Técnica de Lisboa;
+
+Doutora Margarida Maria Gonçalves Vaz Pato, professora catedrática do Instituto Superior de Economia e Gestão da Universidade Técnica de Lisboa.
+
+VI - Nos termos do disposto no despacho conjunto n.º 373/2000 de 1 de Março publicado no DR, 2.ª série, n.º 77 de 31 de Março de 2000 faz-se constar a seguinte menção: "Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove activamente uma politica de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação".
+
+Os interessados deverão entregar as candidaturas pessoalmente ou através de correio registado com aviso de recepção na Divisão de Recursos Humanos - Docente, do Instituto Superior de Economia e Gestão, Rua do Quelhas, n.º 6, - 1200-781 Lisboa.
+
+9 de Fevereiro de 2009. - O Presidente do Conselho Directivo, António da Ascenção Mendonça.

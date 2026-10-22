@@ -1,0 +1,283 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667323:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34571875",
+ "dre_path": "/dr/detalhe/decreto-lei/56-2006-667323",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51249575",
+    "51249675",
+    "51249775",
+    "51249875",
+    "51249975",
+    "51250075",
+    "51250175",
+    "51250275"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:655676:por",
+     "title": "Declaração de Rectificação n.º 15-A/2011",
+     "published": "2011-05-23",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/15-a-2011-655676",
+     "date": "2006-03-20"
+    },
+    {
+     "id": "pt:dre:661931:por",
+     "title": "Declaração de Rectificação n.º 26/2006",
+     "published": "2006-04-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/26-2006-661931",
+     "date": "2006-03-20"
+    }
+   ]
+  },
+  {
+   "date": "2011-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:278879:por",
+     "title": "Decreto-Lei n.º 44/2011",
+     "published": "2011-03-24",
+     "dre_path": "/dr/detalhe/decreto-lei/44-2011-278879"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "51249575",
+    "51249675",
+    "51249775",
+    "114083498",
+    "51249975",
+    "51250075",
+    "51250175",
+    "51250275",
+    "51250375"
+   ]
+  },
+  {
+   "date": "2011-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146936:por",
+     "title": "Decreto-Lei n.º 106/2011",
+     "published": "2011-10-21",
+     "dre_path": "/dr/detalhe/decreto-lei/106-2011-146936"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "51249575",
+    "51249675",
+    "51249775",
+    "114083501",
+    "51249975",
+    "51250075",
+    "114083502",
+    "51250275",
+    "51250375"
+   ]
+  },
+  {
+   "date": "2018-04-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115017488:por",
+     "title": "Decreto-Lei n.º 23/2018",
+     "published": "2018-04-10",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2018-115017488"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "51249575",
+    "51249675",
+    "51249775",
+    "115018861",
+    "51249975",
+    "51250075",
+    "114083502",
+    "51250275",
+    "51250375"
+   ]
+  },
+  {
+   "date": "2025-03-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:911488702:por",
+     "title": "Decreto-Lei n.º 25/2025",
+     "published": "2025-03-19",
+     "dre_path": "/dr/detalhe/decreto-lei/25-2025-911488702"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "51249575",
+    "51249675",
+    "51249775",
+    "911628115",
+    "51249975",
+    "51250075",
+    "114083502",
+    "51250275",
+    "51250375"
+   ]
+  }
+ ],
+ "fragments": {
+  "51249575": {
+   "fragment_id": "35191675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A afectação das receitas dos jogos sociais está, nos termos da lei, consignada a uma multiplicidade de entidades beneficiárias, com base na lógica de distribuição reportada ao momento do lançamento de cada um dos jogos.\n\nConsiderando que a introdução de novos jogos teve reflexos negativos, porque voláteis e variáveis nos resultados líquidos dos jogos sociais existentes, repercutindo-se consequentemente nos benefícios que lhe estão associados, importa reequacionar o modelo da distribuição das receitas, procedendo a ajustamentos no regime legal aplicável de forma a promover uma redistribuição dos resultados e respectiva afectação a fins de natureza cultural desportiva e social.\n\nCom efeito, o presente decreto-lei, no cumprimento do Programa do Governo, vai no sentido de permitir, através da aplicação de critérios de selectividade e rentabilidade dos apoios financeiros, uma afectação mais eficiente dos recursos disponíveis a uma rede equilibrada de apoios eminentemente sociais.\n\nAssim, altera-se o esquema de repartição da receita dos jogos sociais, que reflecte uma maior preocupação actualista, de forma a maximizar as verbas daí resultantes, através de uma repartição dos resultados dos jogos, mais equilibrada e estável, tendo em conta o conjunto do produto líquido da exploração de todos os jogos pelos actuais beneficiários.\n\nPretende-se assim o aperfeiçoamento da distribuição das verbas relativas ao apoio social aos idosos, aos mais carenciados, às pessoas portadoras de deficiência, às famílias e à comunidade em geral, às crianças e jovens, bem como uma maior promoção e valorização da cultura, uma melhoria na qualidade educativa e um incremento dos apoios às actividades desportivas, o que permite o desenvolvimento de uma rede equilibrada e equitativa de apoios educativos, culturais e eminentemente sociais.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, bem como o Conselho de Jogos da Santa Casa da Misericórdia de Lisboa.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "51249675": {
+   "fragment_id": "36154175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei altera a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa."
+  },
+  "51249775": {
+   "fragment_id": "36154275",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se à distribuição dos resultados líquidos de exploração dos seguintes jogos sociais:\n\na) Lotaria Nacional;\n\nb) Lotaria Instantânea;\n\nc) Totobola;\n\nd) Totoloto;\n\ne) Totogolo;\n\nf) Loto 2;\n\ng) Joker;\n\nh) Euromilhões.\n\n2 - O disposto no presente decreto-lei aplica-se ainda à distribuição dos resultados líquidos de exploração dos jogos sociais que forem criados após a sua entrada em vigor."
+  },
+  "51249875": {
+   "fragment_id": "36154375",
+   "type": 11,
+   "heading": "Artigo 3.º — Resultados de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Resultados de exploração\n\n1 - Os resultados líquidos da exploração dos jogos sociais previstos no artigo anterior são repartidos pelas entidades beneficiárias nos termos do presente artigo.\n\n2 - As verbas atribuídas ao Ministério da Administração Interna são repartidas do seguinte modo:\n\na) 2,8% para finalidades de protecção civil, emergência e socorro, nomeadamente apoio a associações de bombeiros voluntários;\n\nb) 0,3% para financiamento de iniciativas no domínio da prevenção dos riscos sociais, da vitimação e do sentimento de insegurança decorrentes da criminalidade, nomeadamente as dirigidas a populações com particular vulnerabilidade;\n\nc) 0,7% para o policiamento de espectáculos desportivos.\n\n3 - Constituem receitas do Estado 2,8% dos resultados líquidos de exploração dos jogos sociais.\n\n4 - As verbas atribuídas à Presidência do Conselho de Ministros são repartidas do seguinte modo:\n\na) 7,8% para o fomento de actividades e infra-estruturas desportivas, a transferir para o Instituto do Desporto de Portugal;\n\nb) 1,5% para o fomento das actividades e infra-estruturas juvenis, a transferir para o Instituto Português da Juventude;\n\nc) 0,6% para a promoção e desenvolvimento do futebol a transferir para o Instituto do Desporto de Portugal.\n\n5 - As verbas atribuídas ao Ministério do Trabalho e da Solidariedade Social são repartidas da seguinte forma:\n\na) 13% destinam-se ao desenvolvimento de programas, medidas, projectos, acções, equipamentos e serviços que visem elevar o nível de vida das pessoas idosas, melhorar as condições de vida e de acompanhamento das pessoas com deficiência, promover o apoio a crianças e jovens, à família e à comunidade em geral, o combate à violência doméstica e à violência numa perspectiva de género, bem como o apoio a crianças e jovens carenciados e em situação de risco, nomeadamente através do desenvolvimento de modelos de financiamento que visem o alargamento ou a melhoria da qualidade da rede de equipamentos e serviços, desenvolvimento de programas de combate à pobreza e à exclusão social e ainda através da cobertura de despesas efectuadas por estabelecimentos e instituições de solidariedade social que prossigam modalidades e acções no domínio da acção social, bem como o desenvolvimento de medidas de apoio às comunidades portuguesas;\n\nb) 9,3% destinam-se à cobertura parcial das despesas efectuadas pelas instituições de solidariedade social no domínio da acção social;\n\nc) 2,8% destinam-se a apoiar as instituições particulares de solidariedade social que prossigam modalidades de acção social;\n\nd) 2,5% são afectos a estabelecimentos e instituições que prossigam acções no domínio da prevenção e reabilitação de deficientes e de apoio a deficientes graves e profundos;\n\ne) 2,3% para programas e projectos de combate à pobreza e exclusão social;\n\nf) 1,7% destinam-se a projectos especiais de apoio a crianças carenciadas e em risco incluindo os referentes à recuperação e educação especial de crianças com deficiência;\n\ng) 1,7% para projectos e acções de auxílio à população idosa carenciada;\n\nh) 1,2% para a prestação de serviços sociais nas áreas do turismo social e sénior, do termalismo social e sénior, da organização dos tempos livres, da cultura e do desporto populares a afectar ao Instituto Nacional de Aproveitamento dos Tempos Livres;\n\ni) 0,3% são afectos a medidas e projectos de apoio à família e à criança.\n\n6 - São atribuídos ao Ministério da Saúde 16,6% do valor dos resultados líquidos de exploração dos jogos sociais, para acções previstas no Plano Nacional de Saúde, designadamente para projectos no âmbito do Alto Comissariado da Saúde, como sejam a luta contra a sida, luta contra o cancro, prevenção das doenças cardiovasculares, cuidados de saúde às pessoas idosas e às pessoas em situação de dependência e para o desenvolvimento de projectos e acções de prevenção, tratamento e reinserção no âmbito da toxicodependência.\n\n7 - As verbas atribuídas ao Ministério da Educação são repartidas do seguinte modo:\n\na) 1% para o apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares;\n\nb) 0,5% para financiamento de projectos especiais destinados a estudantes do ensino secundário que revelem mérito excepcional e que careçam de apoio financeiro para prosseguimento dos seus estudos.\n\n8 - São atribuídos ao Ministério da Cultura 2,2% do valor dos resultados líquidos de exploração dos jogos sociais a afectar ao Fundo de Fomento Cultural.\n\n9 - São atribuídos ao Instituto de Desporto da Madeira 0,2% do valor dos resultados líquidos de exploração dos jogos sociais, nomeadamente para apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares.\n\n10 - São atribuídos ao Fundo Regional do Desporto dos Açores 0,2% do valor dos resultados líquidos de exploração dos jogos sociais, nomeadamente para apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares.\n\n11 - São atribuídos à Santa Casa da Misericórdia de Lisboa, para desenvolvimento de projectos integrados nos seus fins estatutários, 28% do valor dos resultados líquidos de exploração dos jogos sociais.\n\n12 - À excepção do previsto na alínea h) do n.º 5, as verbas afectas ao Ministério do Trabalho e da Solidariedade Social são transferidas para o Instituto de Gestão Financeira da Segurança Social para cobertura das despesas com as respectivas áreas.\n\n13 - As verbas afectas ao Ministério da Saúde são transferidas para o Instituto de Gestão Informática e Financeira da Saúde.\n\n14 - A Santa Casa da Misericórdia de Lisboa envia às entidades beneficiárias um relatório trimestral referente aos resultados líquidos da exploração dos jogos sociais."
+  },
+  "51249975": {
+   "fragment_id": "36154475",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma remissiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma remissiva\n\n1 - Passam a considerar-se feitas pelo montante resultante da distribuição dos resultados da exploração afecto às respectivas entidades, operada pelo presente decreto-lei, as referências às normas relativas à distribuição dos resultados líquidos de exploração pelas respectivas entidades beneficiárias, constantes dos diplomas que criam ou regulam os jogos sociais, nomeadamente as referências às seguintes normas:\n\na) Alínea a) do artigo 11.º do Decreto-Lei n.º 40397, de 24 de Novembro de 1955, na redacção dada pelo Decreto-Lei n.º 43399, de 15 de Dezembro de 1960;\n\nb) N.os 3 e 4 do artigo 16.º e n.os 1 e 3 do artigo 17.º do Decreto-Lei n.º 84/85, de 28 de Março, alterado pelos Decretos-Leis n.os 389/85, de 9 de Outubro, 387/86, de 17 de Novembro, 285/88, de 12 de Agosto, 371/90, de 27 de Novembro, 174/92, de 13 de Agosto, 238/92, de 29 de Outubro, 64/95, de 7 de Abril, 258/97, de 30 de Setembro, 153/2000, de 21 de Julho, 317/2002, de 27 de Dezembro, e 37/2003, de 6 de Março;\n\nc) N.º 1 do artigo 5.º do Decreto-Lei n.º 412/93, de 21 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 225/98, de 17 de Julho;\n\nd) Artigo 2.º do Decreto-Lei n.º 314/94, de 23 de Dezembro;\n\ne) Artigo 9.º do Decreto-Lei n.º 210/2004, de 20 de Agosto.\n\n2 - O disposto no número anterior não se aplica ao previsto na alínea a) do artigo 6.º do Decreto-Lei n.º 274/91, de 7 de Agosto."
+  },
+  "51250075": {
+   "fragment_id": "36154575",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nÉ revogada toda a legislação que contrarie o disposto no presente decreto-lei."
+  },
+  "51250175": {
+   "fragment_id": "36154675",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\nAs normas regulamentares que se venham a revelar necessárias para a aplicação do presente decreto-lei são aprovadas por despacho normativo do ministro que tutela a respectiva área sectorial."
+  },
+  "51250275": {
+   "fragment_id": "36154775",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a partir de 1 de Janeiro de 2006."
+  },
+  "114083498": {
+   "fragment_id": "36154375",
+   "type": 11,
+   "heading": "Artigo 3.º — Resultados de exploração",
+   "in_force_from": "2011-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-29, produz efeitos a partir de 2011-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 26/2006 - Diário da República n.º 83/2006, Série I-A de 2006-04-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Resultados de exploração\n\n1 - Os resultados líquidos da exploração dos jogos sociais previstos no artigo anterior são repartidos pelas entidades beneficiárias nos termos do presente artigo.\n\n2 - As verbas atribuídas ao Ministério da Administração Interna são repartidas do seguinte modo:\n\na) 2,77 % para finalidades de protecção civil, emergência e socorro, nomeadamente apoio a associações de bombeiros voluntários;\n\nb) 0,30 % para financiamento de iniciativas no domínio da prevenção dos riscos sociais, da vitimação e do sentimento de insegurança decorrentes da criminalidade, nomeadamente as dirigidas a populações com particular vulnerabilidade;\n\nc) 0,69 % para o policiamento de espectáculos desportivos.\n\n3 - Constituem receitas do Estado 2,28 % dos resultados líquidos de exploração dos jogos sociais.\n\n4 - As verbas atribuídas à Presidência do Conselho de Ministros são repartidas do seguinte modo:\n\na) 7,8 % para o fomento de actividades e infra-estruturas desportivas, a transferir para o Instituto do Desporto de Portugal, I. P.;\n\nb) 1,5 % para o fomento das actividades e infra-estruturas juvenis, a transferir para o Instituto Português da Juventude, I. P.;\n\nc) 0,55 % para a promoção e desenvolvimento do futebol, a transferir para o Instituto do Desporto de Portugal, I. P.\n\n5 - As verbas atribuídas ao Ministério do Trabalho e da Solidariedade Social são repartidas da seguinte forma:\n\na) 12,89 % destinam-se ao desenvolvimento de programas, medidas, projectos, acções, equipamentos e serviços que visem elevar o nível de vida das pessoas idosas, melhorar as condições de vida e de acompanhamento das pessoas com deficiência, promover o apoio a crianças e jovens, à família e à comunidade em geral, o combate à violência doméstica e à violência numa perspectiva de género, bem como o apoio a crianças e jovens carenciados e em situação de risco, nomeadamente através do desenvolvimento de modelos de financiamento que visem o alargamento ou a melhoria da qualidade da rede de equipamentos e serviços, desenvolvimento de programas de combate à pobreza e à exclusão social e ainda através da cobertura de despesas efectuadas por estabelecimentos e instituições de solidariedade social que prossigam modalidades e acções no domínio da acção social, bem como o desenvolvimento de medidas de apoio às comunidades portuguesas;\n\nb) 9,22 % destinam-se à cobertura parcial das despesas efectuadas pelas instituições de solidariedade social no domínio da acção social;\n\nc) 2,78 % destinam-se a apoiar as instituições particulares de solidariedade social que prossigam modalidades de acção social;\n\nd) 2,48 % são afectos a estabelecimentos e instituições que prossigam acções no domínio da prevenção e reabilitação de deficientes e de apoio a deficientes graves e profundos;\n\ne) 2,28 % para programas e projectos de combate à pobreza e exclusão social;\n\nf) 1,69 % destinam-se a projectos especiais de apoio a crianças carenciadas e em risco incluindo os referentes à recuperação e educação especial de crianças com deficiência;\n\ng) 1,69 % para projectos e acções de auxílio à população idosa carenciada;\n\nh) 1,19 % para a prestação de serviços sociais nas áreas do turismo social e sénior, do termalismo social e sénior, da organização dos tempos livres, da cultura e do desporto populares a afectar ao Instituto Nacional de Aproveitamento dos Tempos Livres;\n\ni) 0,30 % são afectos a medidas e projectos de apoio à família e à criança.\n\n6 - São atribuídos ao Ministério da Saúde 16,44 % do valor dos resultados líquidos de exploração dos jogos sociais, para acções previstas no Plano Nacional de Saúde, designadamente para projectos no âmbito do Alto Comissariado da Saúde, como sejam a luta contra a sida, luta contra o cancro, prevenção das doenças cardiovasculares, cuidados de saúde às pessoas idosas e às pessoas em situação de dependência e para o desenvolvimento de projectos e acções de prevenção, tratamento e reinserção no âmbito da toxicodependência.\n\n7 - As verbas atribuídas ao Ministério da Educação são repartidas do seguinte modo:\n\na) 1 % para o apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares;\n\nb) 0,49 % para financiamento de projectos especiais destinados a estudantes do ensino secundário que revelem mérito excepcional e que careçam de apoio financeiro para prosseguimento dos seus estudos.\n\n8 - São atribuídos ao Ministério da Cultura 3,5 % do valor dos resultados líquidos de exploração dos jogos sociais, a afectar ao Fundo de Fomento Cultural.\n\n9 - São atribuídos ao Instituto de Desporto da Região Autónoma da Madeira 0,2% do valor dos resultados líquidos de exploração dos jogos sociais, nomeadamente para apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares.\n\n10 - São atribuídos ao Fundo Regional do Desporto dos Açores 0,2% do valor dos resultados líquidos de exploração dos jogos sociais, nomeadamente para apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares.\n\n11 - São atribuídos à Santa Casa da Misericórdia de Lisboa, para desenvolvimento de projectos integrados nos seus fins estatutários, 27,77 % do valor dos resultados líquidos de exploração dos jogos sociais.\n\n12 - À excepção do previsto na alínea h) do n.º 5, as verbas afectas ao Ministério do Trabalho e da Solidariedade Social são transferidas para o Instituto de Gestão Financeira da Segurança Social para cobertura das despesas com as respectivas áreas.\n\n13 - As verbas afectas ao Ministério da Saúde são transferidas para o Instituto de Gestão Informática e Financeira da Saúde.\n\n14 - A Santa Casa da Misericórdia de Lisboa envia às entidades beneficiárias um relatório trimestral referente aos resultados líquidos da exploração dos jogos sociais.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-29, produz efeitos a partir de 2011-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 26/2006 - Diário da República n.º 83/2006, Série I-A de 2006-04-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01"
+  },
+  "51250375": {
+   "fragment_id": "36154875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Jorge Miguel de Melo Viana Pedreira - Maria Isabel da Silva Pires de Lima.\n\nPromulgado em 5 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "114083501": {
+   "fragment_id": "36154375",
+   "type": 11,
+   "heading": "Artigo 3.º — Resultados de exploração",
+   "in_force_from": "2011-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2011 - Diário da República n.º 203/2011, Série I de 2011-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), em vigor a partir de 2011-10-22",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-A/2011 - Diário da República n.º 99/2011, 1º Suplemento, Série I de 2011-05-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-2011-655676), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-29, produz efeitos a partir de 2011-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 26/2006 - Diário da República n.º 83/2006, Série I-A de 2006-04-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Resultados de exploração\n\n1 - Os resultados líquidos da exploração dos jogos sociais previstos no artigo anterior são repartidos pelas entidades beneficiárias nos termos do presente artigo.\n\n2 - As verbas atribuídas ao Ministério da Administração Interna são repartidas do seguinte modo:\n\na) 2,8% para finalidades de protecção civil, emergência e socorro, nomeadamente apoio a associações de bombeiros voluntários;\n\nb) 0,30 % para acções no domínio da sinistralidade rodoviária e da prevenção da criminalidade, designadamente em espaços turísticos, no interior do País e em zonas de risco, bem como para financiamento de iniciativas no domínio da prevenção dos riscos sociais, da vitimação e do sentimento de insegurança decorrentes da criminalidade;\n\nc) 0,7% para o policiamento de espectáculos desportivos.\n\n3 - Constituem receitas do Estado 2,8% dos resultados líquidos de exploração dos jogos sociais.\n\n4 - São atribuídos à Presidência do Conselho de Ministros 13,35 % do valor dos resultados líquidos de exploração de jogos sociais, destinados à promoção, desenvolvimento e fomento de actividades, programas, acções ou infra-estruturas, no âmbito da juventude e do desporto, da cultura e da igualdade de género.\n\n5 - As verbas atribuídas ao Ministério da Solidariedade e Segurança Social são repartidas da seguinte forma:\n\na) 33,33 % destinam-se a melhorar as condições de vida e o acompanhamento das pessoas idosas e das pessoas com deficiência, a promover o apoio a crianças e jovens, à família e à comunidade em geral, a combater a violência doméstica e a violência numa perspectiva de género, bem como a apoiar situações graves de carência e risco, incluindo as referentes à recuperação e educação especial de crianças com deficiência, nomeadamente através do desenvolvimento de iniciativas que visem o alargamento ou a melhoria da qualidade da rede de equipamentos e serviços, de programas de combate à pobreza e à exclusão social, a situações de risco social emergente e, ainda, através do apoio a estabelecimentos e instituições de solidariedade social que prossigam fins de acção social, bem como o desenvolvimento de medidas de apoio às comunidades portuguesas;\n\nb) 1,19 % para a prestação de serviços sociais nas áreas do turismo e do termalismo social e sénior, da organização dos tempos livres, da cultura e do desporto populares, a afectar à Fundação INATEL.\n\n6 - São atribuídos ao Ministério da Saúde 16,44 % do valor dos resultados líquidos de exploração dos jogos sociais, para acções destinadas à concretização dos objectivos estratégicos do Plano Nacional de Saúde, em áreas que envolvam a promoção da saúde e a prevenção da doença e da incapacidade, incluindo a reabilitação e a reinserção, nomeadamente em áreas de especial diferenciação e no conjunto da patologia cardiovascular, oncologia, saúde mental, dependências e comportamentos aditivos, doenças raras, sida, bem como nos cuidados continuados.\n\n7 - As verbas atribuídas ao Ministério da Educação são repartidas do seguinte modo:\n\na) 1% para o apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares;\n\nb) 0,5% para financiamento de projectos especiais destinados a estudantes do ensino secundário que revelem mérito excepcional e que careçam de apoio financeiro para prosseguimento dos seus estudos.\n\n8 - (Revogado.)\n\n9 - São atribuídos ao Instituto de Desporto da Região Autónoma da Madeira 0,2% do valor dos resultados líquidos de exploração dos jogos sociais, nomeadamente para apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares.\n\n10 - São atribuídos ao Fundo Regional do Desporto dos Açores 0,2% do valor dos resultados líquidos de exploração dos jogos sociais, nomeadamente para apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares.\n\n11 - São atribuídos à Santa Casa da Misericórdia de Lisboa, para desenvolvimento de projectos integrados nos seus fins estatutários, 27,76% do valor dos resultados líquidos de exploração dos jogos sociais.\n\n12 - À excepção do previsto na alínea b) do n.º 5, as verbas afectas ao Ministério da Solidariedade e Segurança Social são transferidas para o Instituto de Gestão Financeira da Segurança Social, I. P.\n\n13 - As verbas afectas ao Ministério da Saúde são transferidas para a Administração Central do Sistema de Saúde, I. P.\n\n14 - A Santa Casa da Misericórdia de Lisboa envia às entidades beneficiárias um relatório trimestral referente aos resultados líquidos da exploração dos jogos sociais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2011 - Diário da República n.º 203/2011, Série I de 2011-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), em vigor a partir de 2011-10-22\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-A/2011 - Diário da República n.º 99/2011, 1º Suplemento, Série I de 2011-05-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-2011-655676), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-29, produz efeitos a partir de 2011-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 26/2006 - Diário da República n.º 83/2006, Série I-A de 2006-04-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01"
+  },
+  "114083502": {
+   "fragment_id": "36154675",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": "2011-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2011 - Diário da República n.º 203/2011, Série I de 2011-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), em vigor a partir de 2011-10-22"
+   ],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\nAs normas regulamentares necessárias à repartição anual das verbas referidas no presente diploma são aprovadas até 10 de Outubro, através de portaria do ministro responsável pela respectiva área sectorial, para vigorar no ano seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2011 - Diário da República n.º 203/2011, Série I de 2011-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), em vigor a partir de 2011-10-22"
+  },
+  "115018861": {
+   "fragment_id": "36154375",
+   "type": 11,
+   "heading": "Artigo 3.º — Resultados de exploração",
+   "in_force_from": "2018-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488), em vigor a partir de 2018-04-15, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2011 - Diário da República n.º 203/2011, Série I de 2011-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), em vigor a partir de 2011-10-22",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-A/2011 - Diário da República n.º 99/2011, 1º Suplemento, Série I de 2011-05-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-2011-655676), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-29, produz efeitos a partir de 2011-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 26/2006 - Diário da República n.º 83/2006, Série I-A de 2006-04-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Resultados de exploração\n\n1 - Os resultados líquidos da exploração dos jogos sociais previstos no artigo anterior são repartidos pelas entidades beneficiárias nos termos do presente artigo.\n\n2 - As verbas atribuídas ao Ministério da Administração Interna são repartidas do seguinte modo:\n\na) 2,65 % para finalidades de proteção civil, emergência e socorro, nomeadamente apoio a associações de bombeiros voluntários;\n\nb) 0,29 % para ações no domínio da sinistralidade rodoviária e da prevenção da criminalidade, designadamente em espaços turísticos, no interior do País e em zonas de risco, bem como para financiamento de iniciativas no domínio da prevenção dos riscos sociais, da vitimação e do sentimento de insegurança decorrentes da criminalidade;\n\nc) 0,66 % para o policiamento de espetáculos desportivos.\n\n3 - Constituem receitas do Estado 2,18 % dos resultados líquidos de exploração dos jogos sociais.\n\n4 - São atribuídos à Presidência do Conselho de Ministros 3,88 % do valor dos resultados líquidos de exploração de jogos sociais, destinados à promoção, desenvolvimento e fomento de atividades, programas, ações ou infraestruturas, no âmbito da cultura e da igualdade de género.\n\n5 - As verbas atribuídas ao Ministério do Trabalho, Solidariedade e Segurança Social são repartidas da seguinte forma:\n\na) 31,84 % destinam-se a melhorar as condições de vida e o acompanhamento das pessoas idosas e das pessoas com deficiência, a promover o apoio a crianças e jovens, à família e à comunidade em geral, a combater a violência doméstica e a violência numa perspetiva de género, bem como a apoiar situações graves de carência e risco, incluindo as referentes à recuperação e educação especial de crianças com deficiência, nomeadamente através do desenvolvimento de iniciativas que visem o alargamento ou a melhoria da qualidade da rede de equipamentos e serviços, combate à pobreza e à exclusão social, a situações de risco social emergente e, ainda, através do apoio a estabelecimentos e instituições de solidariedade social que prossigam fins de ação social, bem como o desenvolvimento de medidas de apoio às comunidades portuguesas;\n\nb) 1,14 % para a prestação de serviços sociais nas áreas do turismo e do termalismo social e sénior, da organização dos tempos livres, da cultura e do desporto populares, a afetar à Fundação INATEL.\n\n6 - São atribuídos ao Ministério da Saúde 15,70 % do valor dos resultados líquidos de exploração dos jogos sociais, para ações destinadas à concretização dos objetivos estratégicos do Plano Nacional de Saúde, em áreas que envolvam a promoção da saúde e a prevenção da doença como a literacia em saúde, promoção da alimentação saudável e da atividade física, prevenção do tabagismo, vacinação, saúde mental, bem como em áreas prioritárias como a patologia cérebro-cardiovascular, oncologia, diabetes, doenças respiratórias, infeções e resistência aos antimicrobianos, dependências e comportamentos aditivos, doenças raras, prevenção de doenças infecciosas relevantes em saúde pública como o VIH/SIDA, tuberculose, hepatites virais e infeções sexualmente transmissíveis, bem como nos cuidados continuados integrados e cuidados paliativos.\n\n7 - As verbas atribuídas ao Ministério da Educação são repartidas do seguinte modo:\n\na) 0,95 % para o apoio ao desporto escolar e investimentos em infraestruturas desportivas escolares;\n\nb) 0,47 % para financiamento de projetos especiais destinados a estudantes do ensino secundário que revelem mérito excecional e que careçam de apoio financeiro para prosseguimento dos seus estudos;\n\nc) 8,87 % são transferidos para o Instituto Português do Desporto e Juventude, I. P., para o fomento e desenvolvimento de atividades e infraestruturas desportivas e juvenis.\n\n8 - (Revogado.)\n\n9 - São atribuídos ao Governo Regional da Madeira 2,47 % do valor dos resultados líquidos de exploração dos jogos sociais, nos termos a definir por Decreto Legislativo Regional.\n\n10 - São atribuídos ao Governo Regional dos Açores 2,38 % do valor dos resultados líquidos de exploração dos jogos sociais, nos termos a definir por Decreto Legislativo Regional.\n\n11 - São atribuídos à Santa Casa da Misericórdia de Lisboa, para desenvolvimento de projetos integrados nos seus fins estatutários, 26,52 % do valor dos resultados líquidos de exploração dos jogos sociais.\n\n12 - À excepção do previsto na alínea b) do n.º 5, as verbas afectas ao Ministério da Solidariedade e Segurança Social são transferidas para o Instituto de Gestão Financeira da Segurança Social, I. P.\n\n13 - As verbas afectas ao Ministério da Saúde são transferidas para a Administração Central do Sistema de Saúde, I. P.\n\n14 - A Santa Casa da Misericórdia de Lisboa envia às entidades beneficiárias um relatório trimestral referente aos resultados líquidos da exploração dos jogos sociais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488), em vigor a partir de 2018-04-15, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2011 - Diário da República n.º 203/2011, Série I de 2011-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), em vigor a partir de 2011-10-22\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-A/2011 - Diário da República n.º 99/2011, 1º Suplemento, Série I de 2011-05-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-2011-655676), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-29, produz efeitos a partir de 2011-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 26/2006 - Diário da República n.º 83/2006, Série I-A de 2006-04-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01"
+  },
+  "911628115": {
+   "fragment_id": "36154375",
+   "type": 11,
+   "heading": "Artigo 3.º — Resultados de exploração",
+   "in_force_from": "2025-03-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2025-911488702), em vigor a partir de 2025-03-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488), em vigor a partir de 2018-04-15, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2011 - Diário da República n.º 203/2011, Série I de 2011-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), em vigor a partir de 2011-10-22",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-A/2011 - Diário da República n.º 99/2011, 1º Suplemento, Série I de 2011-05-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-2011-655676), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-29, produz efeitos a partir de 2011-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 26/2006 - Diário da República n.º 83/2006, Série I-A de 2006-04-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Resultados de exploração\n\n1 - Os resultados líquidos da exploração dos jogos sociais previstos no artigo anterior são repartidos pelas entidades beneficiárias nos termos do presente artigo.\n\n2 - São atribuídos ao Ministério da Administração Interna 3,60 % do valor dos resultados líquidos de exploração de jogos sociais, sendo fixadas anualmente, nos termos da portaria emitida ao abrigo do disposto no artigo 6.º, as normas regulamentares necessárias à repartição anual das verbas, as percentagens afetas a cada área e a respetiva distribuição para áreas mais deficitárias ou estratégicas, desde que com observância das seguintes percentagens mínimas:\n\na) 2,50 % para finalidades de proteção civil, emergência e socorro, nomeadamente apoio a associações de bombeiros voluntários;\n\nb) 0,20 % para ações no domínio da sinistralidade rodoviária e da prevenção da criminalidade, designadamente em espaços turísticos, no interior do País e em zonas de risco, bem como para financiamento de iniciativas no domínio da prevenção dos riscos sociais, da vitimação e do sentimento de insegurança decorrentes da criminalidade;\n\nc) 0,60 % para o policiamento de espetáculos desportivos.\n\n3 - Constituem receitas do Estado 2,18 % dos resultados líquidos de exploração dos jogos sociais.\n\n4 - São atribuídos à Presidência do Conselho de Ministros 3,88 % do valor dos resultados líquidos de exploração de jogos sociais, destinados à promoção, desenvolvimento e fomento de atividades, programas, ações ou infraestruturas, no âmbito da cultura e da igualdade de género.\n\n5 - As verbas atribuídas ao Ministério do Trabalho, Solidariedade e Segurança Social são repartidas da seguinte forma:\n\na) 31,84 % destinam-se a melhorar as condições de vida e o acompanhamento das pessoas idosas e das pessoas com deficiência, a promover o apoio a crianças e jovens, à família e à comunidade em geral, a combater a violência doméstica e a violência numa perspetiva de género, bem como a apoiar situações graves de carência e risco, incluindo as referentes à recuperação e educação especial de crianças com deficiência, nomeadamente através do desenvolvimento de iniciativas que visem o alargamento ou a melhoria da qualidade da rede de equipamentos e serviços, combate à pobreza e à exclusão social, a situações de risco social emergente e, ainda, através do apoio a estabelecimentos e instituições de solidariedade social que prossigam fins de ação social, bem como o desenvolvimento de medidas de apoio às comunidades portuguesas;\n\nb) 1,14 % para a prestação de serviços sociais nas áreas do turismo e do termalismo social e sénior, da organização dos tempos livres, da cultura e do desporto populares, a afetar à Fundação INATEL.\n\n6 - São atribuídos ao Ministério da Saúde 15,70 % do valor dos resultados líquidos de exploração dos jogos sociais, para ações destinadas à concretização dos objetivos estratégicos do Plano Nacional de Saúde, em áreas que envolvam a promoção da saúde e a prevenção da doença como a literacia em saúde, promoção da alimentação saudável e da atividade física, prevenção do tabagismo, vacinação, saúde mental, bem como em áreas prioritárias como a patologia cérebro-cardiovascular, oncologia, diabetes, doenças respiratórias, infeções e resistência aos antimicrobianos, dependências e comportamentos aditivos, doenças raras, prevenção de doenças infecciosas relevantes em saúde pública como o VIH/SIDA, tuberculose, hepatites virais e infeções sexualmente transmissíveis, bem como nos cuidados continuados integrados e cuidados paliativos.\n\n7 - As verbas atribuídas ao Ministério da Educação são repartidas do seguinte modo:\n\na) 0,95 % para o apoio ao desporto escolar e investimentos em infraestruturas desportivas escolares;\n\nb) 0,47 % para financiamento de projetos especiais destinados a estudantes do ensino secundário que revelem mérito excecional e que careçam de apoio financeiro para prosseguimento dos seus estudos;\n\nc) 8,87 % são transferidos para o Instituto Português do Desporto e Juventude, I. P., para o fomento e desenvolvimento de atividades e infraestruturas desportivas e juvenis.\n\n8 - (Revogado.)\n\n9 - São atribuídos ao Governo Regional da Madeira 2,47 % do valor dos resultados líquidos de exploração dos jogos sociais, nos termos a definir por Decreto Legislativo Regional.\n\n10 - São atribuídos ao Governo Regional dos Açores 2,38 % do valor dos resultados líquidos de exploração dos jogos sociais, nos termos a definir por Decreto Legislativo Regional.\n\n11 - São atribuídos à Santa Casa da Misericórdia de Lisboa, para desenvolvimento de projetos integrados nos seus fins estatutários, 26,52 % do valor dos resultados líquidos de exploração dos jogos sociais.\n\n12 - À excepção do previsto na alínea b) do n.º 5, as verbas afectas ao Ministério da Solidariedade e Segurança Social são transferidas para o Instituto de Gestão Financeira da Segurança Social, I. P.\n\n13 - As verbas afectas ao Ministério da Saúde são transferidas para a Administração Central do Sistema de Saúde, I. P.\n\n14 - A Santa Casa da Misericórdia de Lisboa envia às entidades beneficiárias um relatório trimestral referente aos resultados líquidos da exploração dos jogos sociais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2025-911488702), em vigor a partir de 2025-03-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488), em vigor a partir de 2018-04-15, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2011 - Diário da República n.º 203/2011, Série I de 2011-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), em vigor a partir de 2011-10-22\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-A/2011 - Diário da República n.º 99/2011, 1º Suplemento, Série I de 2011-05-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-2011-655676), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-29, produz efeitos a partir de 2011-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 26/2006 - Diário da República n.º 83/2006, Série I-A de 2006-04-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01"
+  }
+ }
+}

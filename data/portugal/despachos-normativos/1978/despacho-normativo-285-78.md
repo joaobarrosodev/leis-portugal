@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:328178:por
+title: Despacho Normativo n.º 285/78
+short_title: null
+summary: Fixa os preços de aquisição pela EPAC de cereais praganosos de sequeiro para a próxima campanha de 1978-1979
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios da Agricultura e Pescas e do Comércio e Turismo
+proposing_entity: null
+official_number: 285/78
+official_date: null
+publication_date: '1978-10-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 240/1978, Série I de 1978-10-18
+  number: '240'
+  series: I
+  supplement: null
+  pages: 2197 - 2198
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '328178'
+  dre_path: /dr/detalhe/despacho-normativo/285-1978-328178
+  internal: pt:dre:328178:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/285-1978-328178
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/285-1978-328178
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-04-12T00:00:00Z'
+integrity:
+  source_sha256: ad78acbb5ed7459f5d430619c7fd3d1f6a3672d90139fb49a7d36886aa2faff9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-285-328178.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:682014:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 285/78
+
+1 - Com o objectivo de permitir uma orientação dos agricultores quanto às suas decisões de produção de cereais e a exemplo do que se fez para a campanha passada (1977-1978), estabelecem-se com antecedência os preços de aquisição pela EPAC de cereais praganosos de sequeiro referentes à próxima campanha de 1978-1979.
+
+2 - Estabelecem-se assim, simultaneamente, para o trigo o preço único e para os restantes cereais os preços de intervenção, aos quais a EPAC adquirirá qualquer quantidade que lhe seja entregue pelos produtores.
+
+3 - Para a fixação destes preços foram tidos em consideração os agravamentos já verificados ou previstos nos custos dos factores de produção, nomeadamente adubos, máquinas, sementes certificadas e pesticidas, de modo que os produtores não sejam por isso prejudicados.
+
+Foram igualmente consideradas as relações mais desejáveis entre os preços dos diferentes cereais, verificando-se em relação a campanhas anteriores uma melhoria dos preços de centeio, triticale e aveia relativamente aos preços dos outros cereais.
+
+Com a finalidade de incentivar a produção de semente para certificação de qualidade e garantir deste modo as necessidades de abastecimento sem recurso à importação, foram significativamente aumentados os bónus a pagar pelos cereais provenientes dos lotes aprovados com destino à preparação de semente certificada. Com idêntica finalidade, foi igualmente aumentado o bónus para o trigo rijo.
+
+Finalmente, foram tidos em consideração os maus resultados verificados nas duas últimas campanhas cerealíferas.
+
+4 - Com a intenção de remunerar os produtores que armazenem em instalações próprias os cereais da sua produção, os preços serão acrescidos de um suplemento por quilograma, em função da data de entrega à EPAC. Será necessário, no entanto, conhecer após as colheitas as quantidades totais de cereais produzidos e a entregar posteriormente pelos produtores para que seja convenientemente programado o abastecimento ao País.
+
+5 - Com a mesma orientação contida no presente despacho serão brevemente estabelecidos os preços do arroz, milho, sorgo e sementes de cártamo e girassol, cujos estudos se encontram em fase de conclusão.
+
+Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 75-P/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-p-1977-509025), de 28 de Fevereiro, e obtido visto prévio do Ministério das Finanças e do Plano, nos termos do artigo 26.º do mesmo decreto-lei, determina-se:
+
+Campanha de produção de 1978-1979
+
+I
+
+Preço único do trigo
+
+1.º A tabela de preços de aquisição à produção do trigo produzido no continente e regiões autónomas é a seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf))](https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf)
+
+2.º O preço da tonelada de trigo de peso específico inferior a 73 kg por hectolitro é reduzido de 31$60 por cada quilograma a menos.
+
+3.º O trigo rijo de grão claro será acrescido, em relação aos preços considerados no n.º 1, de 3000$00 e 2000$00 por tonelada para as classes A e B, respectivamente definidas e classificadas na [Portaria n.º 20795](https://diariodarepublica.pt/dr/detalhe/portaria/20795-1964-537381), de 9 de Setembro de 1964.
+
+4.º Os preços de aquisição referem-se a trigo descarregado no tegão dos celeiros ou silos da EPAC ou, no caso de entregas directas determinadas por esta empresa pública, no tegão das fábricas.
+
+5.º A EPAC poderá, no entanto, determinar que os produtores procedam a entregas de trigo fora da zona da sua exploração agrícola, desde que as condições de armazenagem assim justifiquem.
+
+Preço do trigo para preparação de semente em 1979
+
+6.º O trigo mole proveniente dos lotes aprovados a que se refere o artigo 6.º do [Decreto-Lei n.º 29999](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29999-1939-186161), de 24 de Outubro de 1939, será adquirido pela EPAC com destino à preparação de semente com garantia oficial e será pago pelo preço legalmente fixado para o trigo de consumo, acrescido de um bónus de 3500$00 por tonelada.
+
+7.º O trigo rijo de grão claro proveniente dos lotes aprovados a que se refere o artigo 6.º do [Decreto-Lei n.º 29999](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29999-1939-186161), de 24 de Outubro de 1939, será adquirido pela EPAC com destino à preparação de semente com garantia oficial e será pago pelo preço legalmente fixado para o trigo rijo de consumo da classe A, acrescido de um bónus de 3500$00 por tonelada.
+
+II
+
+Preços de intervenção
+
+Centeio
+
+8.º A tabela dos preços de intervenção para o centeio de grão seco e são, com um máximo de 3% de impurezas e 14% de humidade, entregue pela produção à EPAC é a seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf))](https://files.diariodarepublica.pt/1s/1978/10/24000/21972198.pdf)
+
+9.º O preço da tonelada de centeio de peso específico inferior a 70 kg por hectolitro é reduzido de 30$00 por cada quilograma a menos.
+
+10.º É aplicável ao centeio o disposto nos n.os 4.º e 5.º deste despacho.
+
+Triticale
+
+11.º O preço de intervenção para o triticale é de 8400$00 por tonelada de grão seco e são, com o máxima de 3% de impurezas e 14% de humidade e um peso específico mínimo de 70 kg por hectolitro.
+
+12.º O preço por tonelada de triticale de peso específico infeiror a 70 kg por hectolitro é reduzido de 30$00 por cada quilograma a menos.
+
+13.º É aplicável ao triticale o disposto nos n.os 4.º e 5.º deste despacho.
+
+Cevada vulgar
+
+14.º O preço de intervenção para a cevada vulgar é de 7300$00 por tonelada de grão seco e são, com o máximo de 3% de impurezas e 14% de humidade e um peso específico mínimo de 60 kg por hectolitro.
+
+15.º O preço da tonelada de cevada vulgar de peso específico inferior a 60 kg por hectolitro é reduzido de 40$00 por cada quilograma a menos.
+
+16.º É aplicável à cevada vulgar o disposto nos n.os 4.º e 5.º deste despacho.
+
+Aveia
+
+17.º O preço de intervenção para a aveia é de 6500$00 por tonelada de grão seco e são, de humidade não superior a 14% e com o máximo de 4% de impurezas e um peso específico mínimo de 45 kg por hectolitro.
+
+18.º É aplicável à aveia o disposto nos n.os 4.º e 5.º deste despacho.
+
+Cevada dística maltável
+
+19.º Os preços de compra pela EPAC da cevada dística maltável definida pelo Decreto-Lei n.º 47745, de 2 de Junho de 1967, e classificada pela [Portaria n.º 22757](https://diariodarepublica.pt/dr/detalhe/portaria/22757-1967-311784), de 28 do mesmo mês, são os seguintes:
+
+1.ª classe ... 8000$00
+
+2.ª classe ... 7900$00
+
+3.ª classe ... 7800$00
+
+20.º A EPAC comprará as quantidades de cevada dística maltável que excedam as necessidades das malterias nas condições expressas nos n.os 4.º e 5.º deste despacho.
+
+III
+
+Preços de centeio, triticale, cevada, aveia e cevada dística para preparação de semente em 1979
+
+21.º O centeio, triticale, cevada vulgar e aveia provenientes dos lotes aprovados a que se refere a [Portaria n.º 20161](https://diariodarepublica.pt/dr/detalhe/portaria/20161-1963-688206), de 11 de Novembro de 1963, serão adquiridos pela EPAC ou pelos comerciantes inscritos para o efeito, com destino à preparação de semente com garantia oficial, e serão pagos pelos preços de intervenção respectivos, acrescidos de um bónus de 3000$00 por tonelada.
+
+22.º A cevada dística para preparação de sementes em 1979, proveniente dos lotes produzidos ao abrigo da [Portaria n.º 18760](https://diariodarepublica.pt/dr/detalhe/portaria/18760-1961-183240), de 3 de Outubro de 1961, depois de aprovados no ensaio preliminar, será adquirida pela EPAC aos preços calculados a partir da seguinte fórmula:
+
+P = (S x p + D x p' + I x p")/100
+
+Sendo:
+
+P - Preço por quilograma de lote;
+
+S - Pe entagem em peso de semente limpa no lote;
+
+D - Percentagem em peso de cevada de calibre inferior a 2,2 mm no lote;
+
+I - Percentagem em peso de impurezas valorizadas no lote;
+
+p - Preço fixado para a compra à produção de cada quilograma de cevada qualificada para o fabrico de malte de 1.ª classe, acrescido de 3$40, 3$20 e 3$00 quando o lote em apreciação seja, respectivamente, de uma das categorias: original, original multiplicada e certificada;
+
+p' - Preço acordado para o quilograma de cevada forrageira;
+
+p" - Preço acordado para o quilograma de impurezas valorizáveis.
+
+IV
+
+Disposições gerais
+
+23.º Os preços indicados nos n.os 6.º, 7.º e 21.º entendem-se para o cereal colocado nos armazéns de recolha do respectivo concelho.
+
+24.º A EPAC só receberá cereal quando as entregas se processem através de produtores possuidores do respectivo «cartão de produtor» passado por esta empresa.
+
+25.º - 1 - Os preços do trigo fixados no n.º 1.º serão acrescidos, a partir de Outubro de 1979, inclusive, e até Maio de 1980, de $14 por quilograma e por mês.
+
+2 - Os preços do centeio, do triticale, da cevada vulgar e da aveia fixados nos n.os 8.º, 11.º, 14.º e 17.º serão acrescidos, a partir de Setembro de 1979, inclusive, e até Abril de 1980, de $11 por quilograma e por mês.
+
+26.º Este despacho entra imediatamente em vigor.
+
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 22 de Setembro de 1978. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Ministro do Comércio e Turismo, Pedro José Rodrigues Pires de Miranda.

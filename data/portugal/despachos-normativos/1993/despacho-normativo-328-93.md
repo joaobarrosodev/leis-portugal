@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:668337:por
+title: Despacho Normativo n.º 328/93
+short_title: null
+summary: Cria no quadro de pessoal do Departamento Central de Planeamento um lugar de assessor principal, a extinguir quando
+  vagar
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 328/93
+official_date: null
+publication_date: '1993-10-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 240/1993, Série I-B de 1993-10-13
+  number: '240'
+  series: I
+  supplement: null
+  pages: 5758 - 5758
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/10/240b00/57585758.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/328/1993/10/13/p/dre/pt/html
+  oj: null
+  dre: '668337'
+  dre_path: /dr/detalhe/despacho-normativo/328-1993-668337
+  internal: pt:dre:668337:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/328-1993-668337
+  metadata_url: https://data.dre.pt/eli/despnorm/328/1993/10/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/328-1993-668337
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-10-13T00:00:00Z'
+integrity:
+  source_sha256: 86b927febec3785face125821707e0d6a3dec393a43d5824e3e3856ed48373c2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-328-668337.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Departamento Central de Planeamento
+- Ministério do Planeamento e da Administração do Território
+- Pessoal Técnico Superior
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/34/1993/02/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/34/1993/02/13/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 328/93
+
+Considerando que Joaquim Maia Gomes, assessor do quadro de pessoal do Departamento Central de Planeamento, a exercer, em comissão de serviço, o cargo de chefe de divisão do mesmo Departamento, requereu em 17 de Maio de 1993 que lhe fosse criado um lugar de assessor principal;
+
+Considerando o disposto no artigo 3.º do [Decreto-Lei n.º 34/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134), de 3 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:
+
+Determina-se o seguinte:
+
+É criado no quadro de pessoal do Departamento Central de Planeamento, aprovado pelo [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, um lugar de assessor principal, a extinguir quando vagar.
+
+Ministérios das Finanças e do Planeamento e da Administração do Território, 16 de Setembro de 1993. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Planeamento e da Administração do Território, Isabel Lucena Vasconcelos Cruz de Almeida Mota, Secretária de Estado do Planeamento e do Desenvolvimento Regional.

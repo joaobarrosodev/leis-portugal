@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:605518:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-856339625",
+ "dre_path": "/dr/detalhe/portaria/304-2009-605518",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-03-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "856226908",
+    "856226909",
+    "856226910",
+    "856226912"
+   ]
+  }
+ ],
+ "fragments": {
+  "856226908": {
+   "fragment_id": "856339626",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 304/2009\n\nde 25 de Março\n\nA Lei n.º 37/2008, de 6 de Agosto, aprovou a nova orgânica da Polícia Judiciária e decretou a missão, atribuições e tipo de organização interna deste corpo superior de polícia criminal.\n\nDe acordo com o artigo 37.º desta lei, os lugares de direcção superior e intermédia da Polícia Judiciária são estabelecidos por portaria a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\nPor sua vez, o Decreto-Lei n.º 42/2009, de 12 de Fevereiro, estabeleceu no seu artigo 22.º as qualificações e graus desses mesmos lugares de direcção da Polícia Judiciária.\n\nAssim, importa agora fixar o número de lugares de direcção superior e intermédia da Polícia Judiciária.\n\nO número de lugares agora estabelecido respeita os princípios pelos quais se rege a recente lei orgânica da Polícia Judiciária - modernização administrativa, melhoria da qualidade dos serviços públicos com ganhos de eficiência e racionalização estrutural - representando uma redução de 25 % do número de lugares de direcção, que corresponde a uma redução equivalente da despesa anual com as remunerações base destes dirigentes.\n\nAssim:\n\nAo abrigo do artigo 37.º da Lei n.º 37/2008, de 6 de Agosto, manda o Governo, pelos Ministros das Finanças e da Justiça, o seguinte:"
+  },
+  "856226909": {
+   "fragment_id": "856339627",
+   "type": 11,
+   "heading": "Artigo 1.º — Lugares de direcção superior e intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Lugares de direcção superior e intermédia\n\nO mapa com o número de lugares de direcção superior e intermédia da Polícia Judiciária é publicado em anexo à presente portaria."
+  },
+  "856226910": {
+   "fragment_id": "856339628",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "856226912": {
+   "fragment_id": "856339630",
+   "type": 14,
+   "heading": "Anexo — Mapa de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa de pessoal dirigente\n\n(ver documento original)"
+  }
+ }
+}

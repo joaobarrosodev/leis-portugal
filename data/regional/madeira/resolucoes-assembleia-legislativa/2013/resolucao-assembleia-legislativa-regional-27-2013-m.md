@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:484075:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 27/2013/M
+short_title: null
+summary: Delibera a manutenção e readaptação da ligação aérea regular entre o Continente e a ilha do Porto Santo
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 27/2013/M
+official_date: null
+publication_date: '2013-12-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 245/2013, Série I de 2013-12-18
+  number: '245'
+  series: I
+  supplement: null
+  pages: 6840 - 6841
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/12/24500/0684006841.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/27/2013/12/18/m/dre/pt/html
+  oj: null
+  dre: '484075'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/27-2013-484075
+  internal: pt:dre:484075:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/27-2013-484075
+  metadata_url: https://data.dre.pt/eli/resolalram/27/2013/12/18/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/27-2013-484075
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-12-18T00:00:00Z'
+integrity:
+  source_sha256: a1f2209bb65d171055d8c2eeda7d57ba2feb78293caa77dff9ace767766c0ed1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2013/DRE-2013-27-484075.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ILHA de Porto Santo
+- Transporte Aéreo
+- Madeira.região Autónoma
+- Aviação Civil
+- TAP
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 27/2013/M
+
+Manutenção e readaptação da ligação aérea regular semanal entre o Continente e a ilha do Porto Santo
+
+As viagens aéreas assumem particular importância nos dias que correm, nomeadamente nas ligações entre territórios cuja conexão está muito limitada em função de condicionantes particularmente penalizadoras para o bem-estar, progresso e qualidade de vida nessas áreas.
+
+O arquipélago da Madeira tem nos transportes aéreos um importante e insubstituível meio que permite esbater o isolamento social, económico e cultural particularmente agravado pela sua condição de região insular distante e ultraperiférica.
+
+De facto, e não obstante a importância que as ligações marítimas representam para a Região Autónoma da Madeira, enquanto meio de garantir não só a chegada de quase tudo o que é essencial para a sobrevivência das populações, mas também o escoamento de boa parte da produção regional, são os transportes aéreos que, pelo seu alcance global, versatilidade e, acima de tudo, rapidez, contribuem para aproximar os territórios, nomeadamente no que ao transporte de passageiros concerne, reduzindo custos e tempo despendido nas viagens.
+
+Apesar da insularidade, e dos pesados custos que a mesma acarreta para a Região e as suas populações, dentro do próprio arquipélago somos confrontados com a situação de dupla insularidade que se faz sentir na ilha do Porto Santo, geradora de ainda maiores penalizações, grande obstáculo ao desenvolvimento local e potenciadora de limitações à qualidade de vida e ao desenvolvimento.
+
+Como em todas as ilhas, só há duas formas práticas de concretizar as ligações entre o Porto Santo e o exterior: por via marítima ou por via aérea. A ligação marítima doméstica mais importante com a «ilha dourada» é, neste momento, a viagem que é mantida diariamente recorrendo ao ferryboat «Lobo Marinho», operada pela Porto Santo Line. Quanto às ligações aéreas domésticas, estas concretizam-se através dos voos diretos diários Funchal-Porto Santo, operados pela SATA, e de um voo semanal (dois, até 2011) com o Continente, mantido pela TAP Portugal.
+
+Foi anunciada a intenção de cessar, já no final do mês de outubro de 2013, esta ligação direta Continente-Porto Santo, o que, a concretizar-se, traduzir-se-á não apenas num claro desrespeito pelo cumprimento das obrigações de serviço público no que aos serviços aéreos regulares entre o Continente e a Região Autónoma da Madeira concerne, mas também numa óbvia e extremamente lesiva penalização para os direitos dos cidadãos, acentuando ainda mais a problemática da dupla insularidade que já afeta o Porto Santo de forma opressiva, e afetando de forma particularmente gravosa a economia, a oferta turística e a qualidade de vida locais.
+
+Suprimindo esta ligação direta entre o Continente e o Porto Santo, quem tenha de se deslocar do Continente para a ilha do Porto Santo (e vice-versa) passa a estar obrigado, para além do custo da viagem até à ilha da Madeira, ao pagamento de uma outra viagem, por via aérea ou por via marítima, entre a Madeira e o Porto Santo, única forma de garantir a necessária ligação entre as duas ilhas.
+
+Enquanto vigorou o acordo entre a TAP e a Aerocondor Transportes Aéreos (até 2006), a quem estava obrigado a ir até à ilha da Madeira para conseguir voo para o Continente era aplicado o sistema de «bilhete corrido», sem qualquer custo adicional pela ligação aérea Porto Santo-Madeira, sistema esse que ficou suspenso quando a ligação regular diária entre as duas ilhas passou a ser assegurada pela SATA.
+
+Tendo em conta que uma viagem de avião (ida e volta, na SATA) para um passageiro não-residente ronda os 170 euros, baixando para 110 euros para residentes no Porto Santo (variando, em ambos os casos, consoante o valor das taxas aplicadas), e que uma viagem marítima, no «Lobo Marinho», custa para o residente, nos dois sentidos, 38 euros, implicando custos de estada de uma noite no Funchal, devido ao inviável cruzamento de horários diretos, ficando essa mesma viagem a rondar os 65 a 68 euros para não-residentes, em função das taxas, o facto de deixar de existir uma ligação aérea direta, ainda que apenas uma vez por semana, entre o Porto Santo e o Continente causará sérios e graves inconvenientes, não apenas para os cidadãos, mas também para o próprio Porto Santo. E isto sem contar, é claro, com o tempo despendido nas conexões interilhas, conexões essas muitas vezes sujeitas a atrasos e a adiamentos quase sempre imprevisíveis.
+
+Tal situação exige, da Região Autónoma da Madeira, e particularmente do Governo Regional, a tomada de enérgicas medidas visando a salvaguarda e a defesa dos direitos dos cidadãos deste arquipélago.
+
+Assim, em conformidade com a Constituição da República Portuguesa e com o Estatuto Político-Administrativo da Região Autónoma da Madeira, e de acordo com o Regimento, a Assembleia Legislativa da Região Autónoma da Madeira delibera que:
+
+1 - O Governo Regional deverá desenvolver as seguintes diligências político-institucionais:
+
+a) Reivindicar, junto do Governo Central e da TAP Portugal, para que seja garantida não apenas a manutenção da ligação aérea regular semanal entre o Porto Santo e o Continente, mas também a sua readaptação à realidade e necessidades insulares, em defesa do desenvolvimento económico e social do Porto Santo e, por consequência, da própria Região, o que assume particular importância num período de aguda crise económica e social como a que atualmente atravessamos;
+
+b) Informar, a curto prazo, a Assembleia Legislativa da Região Autónoma da Madeira do resultado das diligências desencadeadas.
+
+2 - A presente Resolução entra em vigor imediatamente após a sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de novembro de 2013.
+
+**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**

@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:401476:por
+title: Decreto-Lei n.º 382/84
+short_title: null
+summary: Suspende, para os primeiros-sargentos e segundos-sargentos do Exército, os limites de idade para passagem à situação
+  de adidos aos respectivos quadros, a que se refere o n.º 12) da alínea b) do n.º 1 do artigo 9.º do Decreto-Lei n.º 941/76,
+  de 31 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Defesa Nacional e das Finanças e do Plano
+proposing_entity: null
+official_number: 382/84
+official_date: null
+publication_date: '1984-12-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 280/1984, Série I de 1984-12-04
+  number: '280'
+  series: I
+  supplement: null
+  pages: 3697 - 3697
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28000/36973697.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '401476'
+  dre_path: /dr/detalhe/decreto-lei/382-1984-401476
+  internal: pt:dre:401476:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1984-401476
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1984-401476
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-01-24T00:00:00Z'
+integrity:
+  source_sha256: 5b730cb74db7e373ffc9302cd21421a57ff43c5fbe6d7c454ccac03816034472
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-382-401476.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:626423:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 382/84
+
+de 4 de Dezembro
+
+Considerando que os efeitos dos Decretos-Leis n.os [920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206) e [941/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/941-1976-390839), ambos de 31 de Dezembro, limitaram as perspectivas de promoção de uma significativa faixa etária de primeiros-sargentos dos quadros permanentes do Exército;
+
+Considerando que as situações decorrentes daqueles diplomas se têm revelado menos adequadas às carreiras militares de quantos tão abnegada e sacrificadamente têm vindo a servir o Exército;
+
+Considerando que as medidas que ora se instituem vêm ao encontro de uma justa aspiração da referida classe de primeiros-sargentos;
+
+Considerando, ainda, o interesse de que se reveste, para o Exército, o alargamento do período de pleno aproveitamento da competência profissional adquirida por aqueles primeiros-sargentos, conforme proposto pelo Conselho de Chefes de Estado-Maior;
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º São suspensos para os primeiros-sargentos e segundos-sargentos do Exército os limites de idade para passagem à situação de adidos aos respectivos quadros, previstos no n.º 12) da alínea b) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 941/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/941-1976-390839), de 31 de Dezembro.
+
+###### Art. 2.º - 1 - Serão promovidos, a título excepcional, ao posto de sargento-ajudante os primeiros-sargentos do Exército ingressados nos quadros permanentes e no serviço postal militar antes de 1 de Janeiro de 1977, desde que satisfaçam uma das seguintes condições:
+
+a) Hajam completado 53 anos de idade e após se terem verificado as possíveis promoções ao posto de sargento-ajudante dos primeiros-sargentos que os antecedem na escala de antiguidades do quadro da respectiva arma ou serviço, excluídos os demorados e preteridos na promoção e os que não tenham possibilidades legais de vir a ser promovidos àquele mesmo posto;
+
+b) Atinjam a véspera da data em que completem 57 anos de idade.
+
+2 - As promoções a sargento-ajudante dos primeiros-sargentos referidos no número anterior só poderão verificar-se desde que estes se encontrem na situação de activo, mesmo que adidos aos respectivos quadros por limite de idade, após parecer favorável do director, chefe da sua arma ou serviço, ouvido o respectivo conselho e estejam nas seguintes situações:
+
+a) Embora satisfazendo as condições legalmente estabelecidas, não tenham sido promovidos por inexistência de vagas;
+
+b) Tendo sido admitidos ao curso de promoção a sargento-ajudante, não o tenham concluído por razões não decorrentes de procedimento criminal, acção disciplinar, desistência ou reprovação;
+
+c) Não tenham sido admitidos ao curso de promoção a sargento-ajudante por não satisfazerem a condição a que se refere a alínea c) do artigo 31.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro.
+
+###### Art. 3.º Os vencimentos do novo posto, devidos aos sargentos promovidos por aplicação do presente diploma, reportar-se-ão à data da sua entrada em vigor, desde que a data de antiguidade atribuída no novo posto seja anterior àquela.
+
+Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1984. - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
+
+**Promulgado em 23 de Novembro de 1984.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 26 de Novembro de 1984.**
+
+**O Primeiro-Ministro, Mário Soares.**

@@ -1,0 +1,383 @@
+---
+schema_version: '1.0'
+id: pt:dre:72927557:por
+title: Decreto Legislativo Regional n.º 11/2015/M
+short_title: null
+summary: Estabelece os princípios orientadores e o enquadramento a que deve obedecer a cooperação entre o Instituto de Segurança
+  Social da Madeira, IP-RAM, e as instituições particulares de solidariedade social (IPSS) e outras instituições particulares
+  sem fins lucrativos que lhe são equiparadas e que prosseguem atividades sociais na Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 11/2015/M
+official_date: null
+publication_date: '2015-12-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 247/2015, Série I de 2015-12-18
+  number: '247'
+  series: I
+  supplement: null
+  pages: 9780 - 9783
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/12/24700/0978009783.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-07-30'
+version_history:
+  file: decreto-legislativo-regional-11-2015-m.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-12-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-08-02'
+    amending: pt:dre:107791620:por
+    amending_title: Decreto Legislativo Regional n.º 22/2017/M
+    changes:
+    - Altera Artigo 1.º
+  - date: '2018-08-07'
+    amending: pt:dre:115924019:por
+    amending_title: Decreto Legislativo Regional n.º 12/2018/M
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+  - date: '2022-11-23'
+    amending: pt:dre:203729609:por
+    amending_title: Decreto Legislativo Regional n.º 23/2022/M
+    changes:
+    - Altera Artigo 7.º
+  - date: '2024-07-30'
+    amending: pt:dre:873755644:por
+    amending_title: Decreto Legislativo Regional n.º 6/2024/M
+    changes:
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/11/2015/m/cons/20240729/pt/html
+  oj: null
+  dre: '72927557'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/11-2015-72927557
+  internal: pt:dre:72927557:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-72927557
+  metadata_url: https://data.dre.pt/eli/declegreg/11/2015/m/cons/20240729/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-107796844
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-107796844
+  retrieved_at: '2026-10-22T12:13:26Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: eb3314b3e1b5cc8eadca572f870b6cc2034954fc63e622380fb9b82731e8a6bd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:13:26Z'
+  notes: 5 versão(ões); histórico completo em decreto-legislativo-regional-11-2015-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acordo
+- Instituto da Segurança Social
+- Cooperação
+- Política de Cooperação
+- Entidade sem FINS Lucrativos
+- Estatuto
+- IPSS
+- Pessoa Colectiva de Direito Privado sem FINS Lucrativos
+- Economia Social
+- Madeira.região Autónoma
+- Setor Privado
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:107791620:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2017-107791620
+  date: '2017-08-01'
+- type: amended_by
+  target: pt:dre:115924019:por
+  label: Altera Artigo 1.º; Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019
+  date: '2018-08-06'
+- type: amended_by
+  target: pt:dre:203729609:por
+  label: Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2022-203729609
+  date: '2022-11-22'
+- type: amended_by
+  target: pt:dre:873755644:por
+  label: Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644
+  date: '2024-07-29'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/120/2015/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/120/2015/06/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/172-a/2014/11/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172-a/2014/11/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/34/2012/11/16/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/34/2012/11/16/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/6/2015/08/13/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/6/2015/08/13/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/9/2006/04/18/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/9/2006/04/18/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/30/2013/05/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/30/2013/05/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:13:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 11/2015/M
+
+Decreto Legislativo Regional n.º 11/2015/M
+
+Estabelece os princípios orientadores e o enquadramento a que deve obedecer a cooperação entre o Instituto de Segurança Social da Madeira, IP-RAM, e as instituições particulares de solidariedade social (IPSS) e outras instituições particulares sem fins lucrativos que lhe são equiparadas e que prosseguem atividades sociais na Região Autónoma da Madeira.
+
+As instituições particulares de solidariedade social têm desempenhado ao longo da história um papel fulcral na realização dos objetivos da solidariedade social e têm raízes profundas na Região Autónoma da Madeira, no desenvolvimento de respostas sociais dirigidas aos grupos sociais mais vulneráveis, designadamente crianças, jovens, famílias e pessoas idosas, em estreita cooperação com as instituições públicas do sistema de segurança social.
+
+A atividade de tais instituições, e em especial a sua associação ao interesse público, é devidamente reconhecida na Constituição da República Portuguesa, a qual, no n.º 5 do artigo 63.º, postula que o Estado apoia e fiscaliza, nos termos da lei, a sua atividade e o funcionamento, bem como de outras instituições de reconhecido interesse público sem caráter lucrativo, com vista à prossecução de objetivos de solidariedade social.
+
+Concretizando aquele desiderato constitucional, quer o Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo Decreto-Lei n.º 119/83, de 25 de fevereiro, aplicado à Região Autónoma da Madeira, pelo Decreto Regulamentar Regional n.º 3/84/M, de 22 de março, quer a Lei n.º 4/2007, de 16 de janeiro, que aprova as Bases Gerais do Sistema de Segurança Social, preveem a implementação de diversas medidas de apoio, incremento e valorização da intervenção daquelas instituições, na prossecução dos objetivos da solidariedade social.
+
+Por sua vez, o Estatuto da Ação Social da Área de Segurança Social na Região Autónoma da Madeira, aprovado pelo Decreto Legislativo Regional n.º 9/2006/M, de 18 de abril, define as normas enquadradoras gerais aplicáveis ao sistema de ação social da área de segurança social na Região Autónoma da Madeira, bem como os critérios e objetivos deste sistema de intervenção social, prevendo-se no seu n.º 1 do artigo 17.º que a cooperação com as referidas instituições é realizada através da forma de acordos de cooperação e gestão.
+
+Entretanto, ocorreram relevantes evoluções legais no que concerne à solidariedade e segurança social em resposta aos desafios decorrentes da satisfação das atuais necessidades sociais, nomeadamente a Lei de Bases da Economia Social, aprovada pela Lei n.º 30/2013, de 8 de maio, os princípios orientadores e o enquadramento da cooperação, previstos no Decreto-Lei n.º 120/2015, de 30 de junho, as alterações ao Estatuto das Instituições Particulares de Solidariedade Social, introduzidas pelo Decreto-Lei n.º 172-A/2014, de 14 de novembro, as alterações à Lei n.º 4/2007, de 16 de janeiro, introduzidas pela Lei n.º 83-A/2013, de 30 de dezembro, bem como em matéria relativa à contratação pública e à assunção de compromissos, a par de alterações significativas ao nível da organização da entidade pública a quem, na Região Autónoma da Madeira, compete a gestão do sistema de intervenção social na área de segurança social, decorrentes da criação do Instituto de Segurança Social da Madeira, IP-RAM, e da respetiva orgânica aprovada pelo Decreto Legislativo Regional n.º 34/2012/M, de 16 de novembro, alterado pelo Decreto Legislativo Regional n.º 6/2015/M, de 13 de agosto.
+
+Revela-se assim oportuno estabelecer um modelo de partilha mais efetiva de responsabilidades entre os vários intervenientes, o qual deverá conter regras e procedimentos de controlo eficazes, à semelhança, aliás, do já instituído no âmbito da cooperação com instituições privadas na área da saúde.
+
+Foi cumprido o dever de auscultação dos parceiros sociais.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa, no artigo 46.º da Lei Constitucional n.º 1/2004, de 24 de julho, na alínea c) do n.º 1 do artigo 37.º, na alínea m) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente diploma estabelece os princípios orientadores e o enquadramento a que deve obedecer a cooperação entre o Instituto de Segurança Social da Madeira, IP-RAM, e as Instituições Particulares de Solidariedade Social (IPSS) e outras instituições particulares sem fins lucrativos que lhe são equiparadas e que prosseguem atividades sociais na Região Autónoma da Madeira, definidas no artigo 2.º do Estatuto das IPSS, adaptado à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 9/2015/M, de 2 de dezembro.
+
+2 - O presente diploma aplica-se igualmente à cooperação com as Misericórdias, Casas do Povo, Cooperativas e outras instituições particulares sem fins lucrativos, cujo fim social seja a prossecução de objetivos de solidariedade social e desenvolvam na Região Autónoma da Madeira atividades do setor social e solidário, prosseguindo, assim, os objetivos previstos no artigo 2.º do Estatuto das IPSS, adaptado à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 9/2015/M, de 2 de dezembro.
+
+3 - As Instituições Particulares de Solidariedade Social, Misericórdias, Casas do Povo, Cooperativas e as outras instituições particulares referidas nos números anteriores são adiante abreviadamente designadas por Instituições.
+
+4 - O presente diploma é ainda aplicável, com as devidas adaptações, à cooperação com as instituições referidas nos números anteriores e que envolva a intervenção do Instituto de Segurança Social da Madeira, IP-RAM, mas cujos encargos financeiros sejam diretamente assumidos pelo orçamento da Região Autónoma da Madeira, através de dotações atribuídas à Secretaria Regional da Inclusão e Assuntos Sociais, em virtude de insuficiência de dotações disponibilizadas em sede do orçamento anual daquele instituto público.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2017/M - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2017-107791620), em vigor a partir de 2017-08-02
+
+###### Artigo 2.º — Cooperação
+
+A cooperação consiste na relação de parceria estabelecida entre o Instituto de Segurança Social da Madeira, IP-RAM, e as instituições e tem por finalidade a prossecução de respostas sociais que visem o apoio a crianças, jovens, idosos, pessoas com deficiência, indivíduos e famílias, nomeadamente no desenvolvimento de ações com vista à prevenção e reparação de situações de carência, de disfunção social e de marginalização social, de desenvolvimento das comunidades, e a integração e inclusão sociais, baseando-se no reconhecimento e valorização, por parte da Região Autónoma da Madeira, do contributo das instituições para a realização dos fins da ação social, enquanto expressão da sociedade civil.
+
+###### Artigo 3.º — Formas da cooperação
+
+1 - As instituições podem intervir na atividade do subsistema de ação social da área de segurança social na Região Autónoma da Madeira, mediante a realização de respostas sociais a desenvolver, designadamente, em estabelecimentos, equipamentos ou serviços enunciados no artigo 13.º do Estatuto da Ação Social da Área de Segurança Social na Região Autónoma da Madeira, aprovado pelo Decreto Legislativo Regional n.º 9/2006/M, de 18 de abril, traduzidas em acordos e protocolos, os quais podem revestir as seguintes formas:
+
+a) Acordo de cooperação;
+
+b) Acordo de gestão;
+
+c) Protocolo.
+
+2 - O acordo de cooperação é um contrato através do qual se estabelece uma relação jurídica com vista ao desenvolvimento de uma resposta social e pode assumir as seguintes modalidades:
+
+a) Acordo típico, que consiste num acordo cuja resposta social a contratualizar obedece a um valor de financiamento padronizado por utente ou família, face à despesa de funcionamento que está associada ao desenvolvimento da resposta social;
+
+b) Acordo de investimento, que visa estabelecer as obrigações recíprocas entre as partes, relativas à construção, reparação, remodelação, ampliação ou aquisição de imóveis, e à aquisição de bens móveis que se mostrem indispensáveis à execução de atividades de apoio social;
+
+c) Acordo de apoio eventual, que visa estabelecer as obrigações recíprocas entre as partes, relacionadas com a atribuição de apoio financeiro de caráter excecional ou pontual, destinado a cobrir necessidades específicas relacionadas com a prossecução ou desenvolvimento das suas atividades, que pela sua natureza, urgência dos problemas a resolver ou diminuto valor não justifiquem a utilização de uma das formas previstas nas alíneas anteriores;
+
+d) Acordo atípico, que consiste num acordo cuja resposta social a contratualizar implica, desde que devidamente justificada, uma alteração dos critérios padronizados, designadamente em função das características do território, da resposta social a implementar, da população a abranger, bem como dos recursos humanos a afetar, e de todos os serviços a prestar, que contenham matéria inovadora, ou que não se enquadrem no âmbito das modalidades referidas nas alíneas anteriores.
+
+3 - O acordo de gestão é um contrato que visa confiar às instituições a gestão de serviços, instalações, estabelecimentos ou equipamentos de natureza pública e onde se desenvolvem respostas sociais, quando daí resultem benefícios para o atendimento de utentes, interesse para a comunidade, ou melhor aproveitamento dos recursos disponíveis.
+
+4 - O acordo de gestão pode ainda prever que a gestão de serviços, instalações, estabelecimentos ou equipamentos afetos a respostas sociais seja realizada em regime de parceria com partilha de responsabilidades e de riscos, entre as partes, sempre que tal opção contribua para o acréscimo de eficiência na afetação dos recursos públicos e a melhoria qualitativa das respostas sociais envolvidas.
+
+5 - A gestão prevista no número anterior pode abranger parte ou a totalidade das áreas funcionais dos estabelecimentos ou equipamentos, ou da gestão de outras respostas ou serviços sociais e o fornecimento e colocação de pessoal que for necessário para a sua prossecução.
+
+6 - O protocolo é um contrato que estabelece um modelo de partilha de responsabilidades que visa a experimentação e desenvolvimento de projetos, programas e medidas inovadoras de ação social, que concorram para resolução de situações identificadas no território da Região Autónoma da Madeira.
+
+7 - As formas de cooperação previstas nos números anteriores não prejudicam a aplicação de outros modelos de contratualização das instituições previstos noutros diplomas legais, ou a criar através de Portaria do membro do Governo Regional responsável pela área da segurança social.
+
+###### Artigo 4.º — Procedimentos e sujeitos
+
+1 - Os acordos e protocolos com as instituições são precedidos de uma análise, a efetuar pelos serviços competentes do Instituto de Segurança Social da Madeira, IP-RAM, que avalie a sua economia, eficiência e eficácia, bem como a sua sustentabilidade financeira.
+
+2 - Nas situações referidas no n.º 4 do artigo 1.º do presente diploma e em caso de emergência social, devidamente justificada, o Instituto de Segurança Social da Madeira, IP-RAM fica dispensado do cumprimento do disposto no número anterior.
+
+3 - A Parte II do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, retificado pela Declaração de Retificação n.º 18-A/2008, de 28 de março, e com as alterações introduzidas pelo Decreto-Lei n.º 278/2009, de 2 de outubro, Lei n.º 3/2010, de 27 de abril, Decreto-Lei n.º 131/2010, de 14 de dezembro, Lei n.º 64-B/2011, de 30 de dezembro, Decreto-Lei n.º 149/2012, de 12 de julho, e Decreto-Lei n.º 214-G/2015, de 2 de outubro, não é aplicável à formação dos acordos e protocolos a que se refere o presente diploma.
+
+4 - A celebração dos acordos nas modalidades legalmente previstas, bem como de protocolos, é sempre precedida de autorização prévia do Conselho do Governo Regional, a conceder sob a forma de Resolução, a publicar no Jornal Oficial da Região Autónoma da Madeira.
+
+5 - Os acordos e protocolos são sempre reduzidos a escrito e subscritos pelo representante da Direção das instituições e pelo Presidente do Conselho Diretivo do Instituto de Segurança Social da Madeira, IP-RAM.
+
+6 - Nas situações referidas no n.º 4 do artigo 1.º do presente diploma, os acordos e protocolos são celebrados de forma tripartida e subscritos pelos representantes da instituição, do Instituto de Segurança Social da Madeira, IP-RAM, e da Secretaria Regional da Inclusão e Assuntos Sociais.
+
+7 - As uniões, federações e confederações de IPSS podem celebrar acordos ou protocolos, em representação dos seus associados, ou em nome próprio, para as finalidades previstas no artigo 2.º e outras atividades abrangidas pelos seus estatutos.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07, produz efeitos a partir de 2018-01-01
+
+###### Artigo 5.º — Princípios orientadores da cooperação com as instituições
+
+1 - A celebração de acordos ou protocolos com as instituições, previstos no âmbito do presente diploma, deve respeitar os princípios orientadores previstos no artigo 6.º do Estatuto da Ação Social da Área de Segurança Social na Região Autónoma da Madeira e obedece ainda aos seguintes princípios:
+
+a) Realização de respostas sociais em conformidade com as regras aplicáveis ao sistema de ação social da área de segurança social na Região Autónoma da Madeira, e, designadamente, da aceitação do princípio de que se devem privilegiar os indivíduos e famílias ou grupos económica e socialmente mais desfavorecidos;
+
+b) Respeito, por parte das instituições, das orientações técnicas emanadas pelo Instituto de Segurança Social da Madeira, IP-RAM;
+
+c) Prestação atempada, pelas instituições, das informações necessárias ao acompanhamento dos acordos;
+
+d) Corresponsabilização da Região Autónoma da Madeira, nos domínios da comparticipação financeira e apoio técnico, através do Instituto de Segurança Social da Madeira, IP-RAM, sem prejuízo de outros apoios por parte de outras entidades públicas a nível regional ou local;
+
+e) Colaboração das instituições entre si e com o Instituto de Segurança Social da Madeira, IP-RAM, e demais entidades e serviços da Região Autónoma da Madeira intervenientes na área da ação social em ordem à otimização das respostas e rentabilização dos meios existentes.
+
+2 - Para garantia do princípio referido na alínea a) do número anterior deverá ser definido no acordo uma quota de utentes/camas cuja admissão no equipamento, estabelecimento ou serviço é da responsabilidade do Instituto de Segurança Social da Madeira, IP-RAM, sendo sempre garantido a este Instituto que tal quota é, no mínimo, percentualmente proporcional ao montante da sua comparticipação financeira.
+
+3 - Sem prejuízo do disposto nos números anteriores, os acordos e protocolos são celebrados no respeito pela autonomia de organização, gestão e administração das instituições, bem como o prosseguimento dos fins de solidariedade e ajuda aos mais carenciados, em ligação direta às populações em que estão inseridas.
+
+###### Artigo 6.º — Condições para a celebração de acordos e protocolos
+
+A cooperação em qualquer das suas formas depende do cumprimento dos requisitos estabelecidos nos diplomas especialmente aplicáveis ao regime da cooperação e da verificação das respetivas condições de funcionamento dos estabelecimentos e serviços de apoio social previstos no regime de licenciamento e fiscalização.
+
+###### Artigo 7.º — Duração
+
+1 - Os acordos de cooperação, nas modalidades de investimento e apoio eventual, os acordos de gestão e os protocolos referidos nas alíneas b) e c) do n.º 2 e nos n.os 3 e 6 do artigo 3.º do presente diploma, têm a duração que for convencionada pelos outorgantes.
+
+2 - Os acordos de gestão, cujo objeto abranja a cedência de utilização do edificado, em regime de comodato, têm a duração mínima de 20 anos.
+
+3 - Os acordos, nas restantes modalidades previstas no presente diploma, são válidos por períodos até cinco anos, podendo ser automaticamente renovados por iguais períodos, salvo se, com a antecedência mínima de 180 dias em relação ao termo de cada período de vigência, qualquer das partes os denunciar.
+
+4 - A renovação dos acordos de harmonia com o previsto no número anterior pressupõe a autorização prévia para a assunção dos respetivos encargos plurianuais nos termos da lei.
+
+5 - As respostas sociais ou atividades objeto dos acordos referidos no n.º 3 são ajustadas periodicamente, nos termos a regulamentar, com vista a verificar a efetiva capacidade de cada resposta objeto do acordo e as necessidades sociais da comunidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2022/M - Diário da República n.º 225/2022, Série I de 2022-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2022-203729609), em vigor a partir de 2022-11-23
+
+###### Artigo 8.º — Acompanhamento e controlo
+
+No âmbito do acompanhamento, avaliação e controlo dos acordos e protocolos compete ao Instituto de Segurança Social da Madeira, IP-RAM:
+
+a) Avaliar, de forma sistemática, a qualidade e acessibilidade das respostas sociais prestadas pelas instituições objeto dos acordos e protocolos e zelar pelo seu cumprimento;
+
+b) Efetuar fiscalizações, sem prejuízo das competências atribuídas a outras entidades.
+
+c) Controlar a aplicação dos apoios atribuídos ao abrigo das alíneas a) a c), do n.º 1, do artigo 3.º, determinando, no caso de verificação de excedentes desses apoios, designadamente a sua restituição.
+
+2 - Para o efeito constante da alínea c) do número anterior, as instituições devem apresentar a contabilidade analítica organizada, por fonte de financiamento, que evidencie que os rendimentos inerentes aos apoios provenientes do Instituto de Segurança Social da Madeira, IP-RAM e os correspondentes gastos estão contabilisticamente segregados dos restantes rendimentos e gastos.
+
+3 - A aplicação do disposto na alínea c) do n.º 1 é realizada no respeito da salvaguarda de um fundo de maneio de funcionamento das instituições e ressalva do seu equilíbrio financeiro.
+
+4 - Não é aplicável a restituição referida na alínea c) do n.º 1, no caso do financiamento de respostas sociais baseado em valores de financiamento padronizado, por utente ou família.
+
+> Alterado pelo/a Artigo 99.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01
+
+###### Artigo 9.º — Pessoal afeto às respostas sociais
+
+1 - Os prestadores afetos às respostas sociais objeto do presente diploma devem ter as qualificações, títulos profissionais e a formação profissional adequada e exigida para as atividades que realizam.
+
+2 - Os trabalhadores com relação jurídica de emprego público afetos aos serviços, estabelecimentos ou equipamentos sociais de ação social que sejam alvo de acordo de gestão com as instituições exercem funções ao abrigo de acordo de cedência de interesse público, previsto no artigo 241.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, retificada pela Declaração de Retificação n.º 37-A/2014, de 19 de agosto, com as alterações introduzidas pelas Leis n.os 82-B/2014, de 31 de dezembro, e 84/2015, de 7 de agosto, com manutenção do regime de proteção social de origem.
+
+3 - A gestão dos trabalhadores referidos no número anterior, que não acordem na cedência de interesse público, ou que cessem o acordo, cabe ao Instituto de Segurança Social da Madeira, IP-RAM.
+
+4 - Aos trabalhadores com contrato de trabalho são aplicáveis as disposições correspondentes à transmissão de estabelecimento previstas no Código do Trabalho.
+
+###### Artigo 10.º — Comissões de serviço
+
+Mantêm-se as comissões de serviço dos dirigentes dos serviços, estabelecimentos e equipamentos sociais que forem cedidos em gestão às instituições, nos termos previstos no presente diploma.
+
+###### Artigo 11.º — Sistema de acolhimento de emergência social
+
+O Instituto de Segurança Social da Madeira, IP-RAM, mantém a competência para a gestão global e integrada das vagas do sistema de acolhimento de emergência social nos estabelecimentos ou equipamentos de apoio social que forem cedidos em gestão, nos termos previstos no presente diploma.
+
+###### Artigo 12.º — Prestação de informação
+
+1 - As instituições e demais agentes que prossigam fins de ação social devem prestar ao Instituto de Segurança Social da Madeira, IP-RAM, ao abrigo do disposto na alínea r) do n.º 2 do artigo 4.º da orgânica desse Instituto, aprovada pelo Decreto Legislativo Regional n.º 34/2012/M, de 16 de novembro, alterado pelo Decreto Legislativo Regional n.º 6/2015/M, de 13 de agosto, sempre que solicitada, informação relativa às respostas sociais desenvolvidas ou a prosseguir, a fim de promover, nas intervenções territorializadas, a integração das políticas e medidas sociais, em cumprimento do Programa do Governo Regional e do plano de ação social da área de segurança social, com vista à otimização das correspondentes respostas, o melhor aproveitamento dos recursos disponíveis, e a consequente articulação entre os serviços de segurança social, as instituições e os demais agentes da comunidade.
+
+2 - Para o efeito do disposto no número anterior, as instituições e demais agentes devem utilizar as ferramentas eletrónicas indicadas pelo Instituto de Segurança Social da Madeira, IP-RAM, e nos termos a regulamentar.
+
+###### Artigo 13.º — Confidencialidade e proteção de dados pessoais
+
+1 - O Instituto de Segurança Social da Madeira, IP-RAM, e as demais instituições abrangidas pelo presente diploma devem assegurar a confidencialidade dos dados de natureza estritamente privada de que disponham, relativos à situação pessoal, económica ou financeira de quaisquer pessoas ou destinatários das respostas sociais referidas no artigo 2.º do presente diploma.
+
+2 - O tratamento dos dados referidos no número anterior pressupõe sempre, por parte do Instituto de Segurança Social da Madeira, IP-RAM, ou por parte das instituições abrangidas, a comunicação prévia à Comissão Nacional de Proteção de Dados e cumprimento das demais obrigações previstas na Lei n.º 67/98, de 26 de outubro, retificada pela Declaração de Retificação n.º 22/98, de 28 de novembro, e alterada pela Lei n.º 103/2015, de 28 de novembro.
+
+###### Artigo 14.º — Disposições transitórias
+
+Mantêm-se em vigor os acordos já celebrados com as instituições nos termos do respetivo clausulado, sem prejuízo do previsto no n.º 3 do artigo 7.º do presente diploma.
+
+###### Artigo 15.º — Regulamentação
+
+Mantém-se a regulamentação em matéria de cooperação em vigor com as alterações que entretanto forem introduzidas.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de novembro de 2015.
+
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
+
+Assinado em 30 de novembro de 2015.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

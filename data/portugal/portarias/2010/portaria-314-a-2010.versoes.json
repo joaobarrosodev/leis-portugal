@@ -1,0 +1,557 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:438725:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-204710660",
+ "dre_path": "/dr/detalhe/portaria/314-a-2010-438725",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206142169",
+    "204708732",
+    "204708733",
+    "204708734",
+    "204708735",
+    "204708736",
+    "204708737",
+    "204708738",
+    "204708739",
+    "204708740",
+    "204708741",
+    "204708742",
+    "204708743",
+    "204708744",
+    "204708745"
+   ]
+  },
+  {
+   "date": "2010-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:405303:por",
+     "title": "Portaria n.º 1033-B/2010",
+     "published": "2010-10-06",
+     "dre_path": "/dr/detalhe/portaria/1033-b-2010-405303"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "204708731",
+    "204708761",
+    "204708762",
+    "204708747",
+    "204708763",
+    "204708764",
+    "204708765",
+    "204708766",
+    "204708752",
+    "204708753",
+    "204708767",
+    "204708768",
+    "204708756",
+    "204708769",
+    "204708758",
+    "204708759",
+    "204708760"
+   ]
+  },
+  {
+   "date": "2023-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:204552603:por",
+     "title": "Decreto-Lei n.º 84-C/2022",
+     "published": "2022-12-09",
+     "dre_path": "/dr/detalhe/decreto-lei/84-c-2022-204552603"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "206142169",
+    "206142170",
+    "206142171",
+    "206142172",
+    "206142173",
+    "206142174",
+    "206157375",
+    "206157376",
+    "206157377",
+    "206157378",
+    "206157379",
+    "206157380",
+    "206157381",
+    "206157382",
+    "206157383",
+    "206157384",
+    "206157385"
+   ]
+  }
+ ],
+ "fragments": {
+  "206142169": {
+   "fragment_id": "204710661",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-01-08",
+   "changed_by": [],
+   "markdown": "Portaria n.º 314-A/2010\n\nde 14 de Junho\n\nO Decreto-Lei n.º 54/2005, de 3 de Março, aprovou o Regulamento da Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, tendo sido posteriormente alterado pelo Decreto-Lei n.º 106/2006, de 8 de Junho, e pelo Decreto-Lei n.º 112/2009, de 18 de Maio, tendo, este último, introduzindo a obrigatoriedade de instalação de um dispositivo electrónico de matrícula (DEM) em todos os veículos automóveis, ligeiros e pesados, seus reboques, motociclos, bem como em triciclos autorizados a circular em auto-estradas e vias equiparadas, visando a cobrança electrónica de portagens, em conformidade com o Serviço Electrónico Europeu de Portagens.\n\nO n.º 8 do artigo 17.º do referido Regulamento estabelece que os meios e o modo de acesso aos dados obtidos pela utilização do DEM são definidos por portaria dos membros do Governo responsáveis pelas áreas da administração interna, da justiça e das obras públicas e transportes.\n\nO DEM constitui uma inovação tecnológica à matrícula tradicional, permitindo evoluir de um sistema de identificação visual de veículos, para outro, mais avançado, de detecção e identificação electrónica dos mesmos.\n\nTal dispositivo permite a obtenção de dados, cujo processamento e tratamento são da responsabilidade do Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), da SIEV - Sistema de Identificação Electrónica de Veículos, S. A. (SIEV, S. A.), e das entidades de cobrança de portagens, conforme previsto no n.º 3 do artigo 17.º do Regulamento de Matrícula dos Automóveis, que, para esse efeito, desenvolvem e mantêm, de forma independente, uma base de dados do DEM, uma base de dados de eventos públicos de tráfego, para efeitos de cobrança de portagem e uma base de dados de estado de adequação operacional do dispositivo, para efeitos de cobrança electrónica de portagens.\n\nO sistema criado pressupõe que a informação contida no DEM é lida de forma directa, sendo este dispositivo constituído por dados referentes ao seu código de identificação e à classe do veículo para efeitos de cobrança de portagens e não por dados relativos às pessoas, protegendo-se o direito à reserva da intimidade da vida privada dos proprietários do DEM e dos meros utilizadores do veículo no qual o DEM se encontra instalado, salvaguardando-se igualmente a confidencialidade no tratamento dos dados, de acordo com as recomendações da Comissão Nacional de Protecção de Dados.\n\nAlém das entidades referidas anteriormente, o acesso aos dados constantes das referidas bases de dados pode ser autorizado às forças de segurança, às concessionárias e às subconcessionárias de infra-estruturas rodoviárias, ao Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), e às entidades de cobrança de portagens, para seu uso exclusivo e apenas para o estritamente indispensável ao eficaz desempenho das atribuições que lhes estão cometidas.\n\nPara salvaguardar os direitos de personalidade dos cidadãos consagra-se um conjunto de regras a que os funcionários e os agentes do Estado, que possam aceder a estas bases de dados, devem obedecer conforme impõe a Lei da Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro.\n\nAdicionalmente, através da presente portaria, clarificam-se as questões relativas ao tratamento dos dados a integrar nas mencionadas bases de dados, por imposições de transparência e de uniformidade na prestação de informação.\n\nAssim:\n\nManda o Governo, pelos Ministros da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações, ao abrigo do disposto no n.º 8 do artigo 17.º do Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado pelo Decreto-Lei n.º 54/2005, de 3 de Março, alterado pelo Decreto-Lei n.º 106/2006, de 8 de Junho, e pelo Decreto-Lei n.º 112/2009, de 18 de Maio, o seguinte:"
+  },
+  "204708732": {
+   "fragment_id": "204710662",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria estabelece os termos e as condições a que obedece o tratamento das bases de dados obtidos mediante a identificação ou a detecção electrónica de veículos através do dispositivo electrónico de matrícula (DEM), designadamente os meios e o modo de acesso aos dados por parte das concessionárias e das subconcessionárias de infra-estruturas rodoviárias, da SIEV - Sistema de Identificação Electrónica de Veículos, S. A. (SIEV, S. A.), do Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), e das entidades de cobrança de portagens (ECP).\n\n2 - A presente portaria estabelece, ainda, as condições de recolha dos dados, as categorias de dados a tratar, o respectivo prazo de conservação, bem como as medidas de segurança a adoptar no âmbito do tratamento dos mesmos."
+  },
+  "204708733": {
+   "fragment_id": "204710663",
+   "type": 11,
+   "heading": "Artigo 2.º — Bases de dados e responsáveis pelo seu tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Bases de dados e responsáveis pelo seu tratamento\n\n1 - O tratamento das bases de dados obtidos mediante a identificação ou a detecção electrónica de veículos, através do DEM, implica a constituição das bases de dados identificadas no n.º 3 do artigo 17.º do Regulamento da Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, abreviadamente designado por Regulamento da Matrícula dos Automóveis, aprovado pelo Decreto-Lei n.º 54/2005, de 3 de Março, alterado pelo Decreto-Lei n.º 106/2006, de 8 de Junho, e pelo Decreto-Lei n.º 112/2009, de 18 de Maio.\n\n2 - A constituição das bases de dados referidas no número anterior deve ser precedida de notificação à Comissão Nacional de Protecção de Dados (CNPD), ao abrigo do artigo 27.º da Lei n.º 67/98, de 26 de Outubro, devendo o seu tratamento respeitar o Regulamento de Matrícula dos Automóveis e a presente portaria.\n\n3 - Compete aos responsáveis pelo tratamento das bases de dados, identificados no n.º 4 do artigo 17.º do Regulamento de Matrícula dos Automóveis, e mediante os procedimentos previstos na presente portaria, salvaguardar os direitos dos titulares dos dados, designadamente a confidencialidade, o modo de acesso e de actualização dos dados.\n\n4 - Os responsáveis pelo tratamento das bases de dados, identificados no n.º 1 do artigo 1.º da presente portaria, podem escolher um subcontratante para realizar operações de tratamento, desde que, cumulativamente:\n\na) O subcontratante ofereça garantias suficientes em relação às medidas de segurança técnica e de organização do tratamento das bases de dados e zele pelo cumprimento dessas medidas;\n\nb) As operações sejam regidas por contrato escrito que vincule o subcontratante perante o responsável pelo tratamento e que estabeleça que este apenas actua mediante instruções expressas do responsável pelo tratamento das bases de dados;\n\nc) O subcontratante fique vinculado ao cumprimento das obrigações de segurança dos dados que decorrem da legislação aplicável aos responsáveis pelo tratamento das bases de dados nos termos do n.º 1 do artigo 14.º da Lei n.º 67/98, de 26 de Outubro.\n\n5 - A constituição das bases de dados referidas no n.º 3 do artigo 17.º do Regulamento de Matrícula dos Automóveis não prejudica a manutenção ou a constituição de outras bases próprias que as concessionárias, as subconcessionárias ou as ECP detenham ou venham a constituir, ao abrigo da Lei n.º 67/98, de 26 de Outubro.\n\n6 - Servem de título bastante para a identificação do respectivo veículo, para efeitos da cobrança de portagem, nos termos do artigo 18.º do Regulamento de Matrícula dos Automóveis, os dados constantes das bases de dados associadas à detecção do DEM, criadas nos termos do número anterior, sem prejuízo do acesso a outras bases de dados quando tal for legalmente admissível.\n\n7 - Em tudo o que não estiver previsto nos números anteriores é subsidiariamente aplicável o disposto na Lei da Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro."
+  },
+  "204708734": {
+   "fragment_id": "204710664",
+   "type": 11,
+   "heading": "Artigo 3.º — Base de dados do DEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Base de dados do DEM\n\n1 - A base de dados do DEM prevista na alínea a) do n.º 3 do artigo 17.º do Regulamento de Matrícula dos Automóveis é constituída pelas seguintes categorias de dados:\n\na) O código de identificação do DEM, tal como definido na portaria que regula o modo de utilização do DEM, prevista no n.º 2 do artigo 17.º do Regulamento de Matrícula dos Automóveis;\n\nb) O número de matrícula a que o DEM fica associado;\n\nc) Os dados que resultam da informação relacionada com a gestão do seu ciclo de vida, designadamente a associação ao número de matrícula e o cancelamento do DEM, devendo corresponder exclusivamente a cada DEM um número de matrícula.\n\n2 - A substituição do DEM, designadamente por motivo de avaria, implica o respectivo cancelamento e a uma nova associação ao número de matrícula.\n\n3 - Os dados referidos no n.º 1 são recolhidos e registados na base de dados do DEM pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), enquanto entidade responsável pelo tratamento da mesma, sendo igualmente responsável pela criação de uma plataforma informática que permita:\n\na) Registo dos dados relativos aos códigos dos DEM, adquiridos para distribuição pelos distribuidores grossistas do DEM, autorizados pela SIEV, S. A.;\n\nb) Registo dos dados relativos à associação entre o código de identificação do DEM e a matrícula do veículo, pelos distribuidores retalhistas do DEM, autorizados pela SIEV, S. A.;\n\nc) Registo dos dados relativos à substituição e ao cancelamento dos DEM, pelas ECP ou por outras entidades autorizadas pela SIEV, S. A.\n\n4 - As entidades referidas no número anterior, devidamente credenciadas pela SIEV, S. A., devem registar, junto do IMTT, I. P., os dados relativos aos DEM directamente na plataforma electrónica criada para o efeito pelo IMTT, I. P., de acordo com o disposto no artigo 7.º\n\n5 - O IMTT, I. P., pode comunicar às entidades referidas no artigo 11.º da Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, e pelo Decreto-Lei n.º 113/2009, de 18 de Maio, quando por estas for solicitado e para a finalidade prevista no referido artigo, a matrícula associada ao código de identificação do DEM ou o código de identificação do DEM associado à matrícula, sendo os termos, as condições e os custos de disponibilização da informação referida definidos por protocolo, a celebrar entre o IMTT, I. P., e essas entidades.\n\n6 - Os dados referidos no n.º 1 devem ser conservados pelo IMTT, I. P., pelo mesmo período de tempo em que são conservados os dados relativos à matrícula."
+  },
+  "204708735": {
+   "fragment_id": "204710665",
+   "type": 11,
+   "heading": "Artigo 4.º — Base de dados de eventos públicos de tráfego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Base de dados de eventos públicos de tráfego\n\n1 - A base de dados de eventos públicos de tráfego prevista na alínea b) do n.º 3 do artigo 17.º do Regulamento de Matrícula dos Automóveis é constituída pelas seguintes categorias de dados:\n\na) O código de identificação do DEM;\n\nb) A data e a hora da detecção do DEM;\n\nc) A classe do veículo para efeitos de cobrança de portagem;\n\nd) O valor da taxa de portagem.\n\n2 - Os dados referidos no número anterior são recolhidos pelos dispositivos de detecção e de identificação electrónica (DDIE) das seguintes entidades:\n\na) As concessionárias ou as subconcessionárias de infra-estruturas rodoviárias;\n\nb) As ECP;\n\nc) O InIR, I. P.;\n\nd) Outras entidades autorizadas pela SIEV, S. A.\n\n3 - As entidades referidas no número anterior devem transmitir à SIEV, S. A., entidade responsável pelo tratamento da base de dados de eventos públicos de tráfego, os dados referidos no n.º 1, de acordo com o disposto no artigo 7.º\n\n4 - Os dados relativos à detecção do DEM devem ser conservados pela SIEV, S. A., pelo período de dois anos, após a sua recolha."
+  },
+  "204708736": {
+   "fragment_id": "204710666",
+   "type": 11,
+   "heading": "Artigo 5.º — Base de dados de estado de adequação operacional do DEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Base de dados de estado de adequação operacional do DEM\n\n1 - A base de dados de estado de adequação operacional do DEM para efeitos de cobrança electrónica de portagens, prevista na alínea c) do n.º 3 do artigo 17.º do Regulamento de Matrícula dos Automóveis, é constituída pelas seguintes categorias de dados:\n\na) O código de identificação do DEM;\n\nb) A ECP com quem foi celebrado o contrato para cobrança das portagens, se aplicável;\n\nc) A validade do meio de pagamento.\n\n2 - Os dados referidos no número anterior são recolhidos e registados por cada uma das ECP que distribuam o DEM ou com quem foi celebrado o contrato para a cobrança das portagens, enquanto responsáveis pelo tratamento da base de dados de estado de adequação operacional do DEM.\n\n3 - Os dados referidos no n.º 1 devem ser conservados pelas ECP pelo período de dois anos, após a sua recolha."
+  },
+  "204708737": {
+   "fragment_id": "204710667",
+   "type": 11,
+   "heading": "Artigo 6.º — Acesso às bases de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acesso às bases de dados\n\n1 - Estão autorizadas a aceder às bases de dados referidas na presente portaria para prossecução das suas atribuições:\n\na) As concessionárias e as subconcessionárias de infra-estruturas rodoviárias, relativamente às bases de dados previstas nos artigos 4.º e 5.º;\n\nb) A SIEV, S. A., relativamente às bases de dados a que se referem os artigos 3.º e 5.º;\n\nc) O InIR, I. P., relativamente às bases de dados previstas no artigo 4.º;\n\nd) As ECP, relativamente às bases de dados referidas no artigo 4.º\n\n2 - O acesso às bases de dados pelas entidades referidas no número anterior é realizado exclusivamente para o desempenho das competências e das atribuições que lhes estão cometidas pela Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, e pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela presente portaria.\n\n3 - O acesso aos dados pelas entidades referidas no n.º 1 é efectuado por via electrónica, através de ligação segura, encriptada, em conformidade com o disposto na alínea b) do n.º 1 do artigo seguinte, sendo assegurada a autenticação das entidades, bem como o registo de acessos entre os sistemas informáticos intervenientes.\n\n4 - O acesso aos dados só é permitido a pessoas devidamente autorizadas pelas entidades referidas no n.º 1, mediante atribuição de código de utilizador e de palavra-passe, devendo cada entidade manter um registo actualizado das pessoas especialmente autorizadas a aceder aos dados.\n\n5 - Para efeitos de acesso às bases de dados, os responsáveis pelo tratamento de dados definem os procedimentos de credenciação das pessoas que tratam e acedem aos dados, designadamente dos acessos externos, da periodicidade dos backups das bases de dados e do período de armazenamento dos dados."
+  },
+  "204708738": {
+   "fragment_id": "204710668",
+   "type": 11,
+   "heading": "Artigo 7.º — Meios e modos de comunicação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Meios e modos de comunicação dos dados\n\n1 - Os dados referidos na presente portaria devem ser transmitidos por via electrónica, adoptando-se para o efeito as seguintes medidas de segurança:\n\na) Autenticação das entidades envolvidas;\n\nb) Encriptação de todas as comunicações electrónicas efectuadas ao abrigo da presente portaria que impliquem a transmissão de dados pessoais nos termos da alínea a) do artigo 3.º da Lei n.º 67/98, de 3 de Outubro;\n\nc) Registo electrónico de quem procedeu à transmissão de dados, e da data e da hora em que tal transmissão ocorreu;\n\nd) Outras que se revelem adequadas.\n\n2 - Sempre que não seja possível o acesso às bases de dados através dos meios electrónicos, as entidades competentes podem adoptar as medidas necessárias que permitam, excepcionalmente, o registo dos dados por outros meios."
+  },
+  "204708739": {
+   "fragment_id": "204710669",
+   "type": 11,
+   "heading": "Artigo 8.º — Protecção e segurança dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Protecção e segurança dos dados\n\n1 - Sem prejuízo de outras medidas de segurança previstas na presente portaria e das regras relativas à qualidade, à salvaguarda da confidencialidade e à segurança dos dados previstas na Lei n.º 67/98, de 26 de Outubro, as entidades responsáveis pelas bases de dados devem garantir a segurança dos dados pessoais tratados, devendo cumulativamente:\n\na) Adoptar as medidas técnicas e organizativas adequadas à protecção dos dados contra a destruição acidental ou ilícita, a perda ou a alteração acidental e o armazenamento, o acesso ou a divulgação não autorizada ou ilícita dos mesmos;\n\nb) Adoptar as medidas técnicas e organizativas adequadas para garantir que apenas pessoas autorizadas tenham acesso aos dados;\n\nc) Manter as bases de dados separadas de quaisquer outras bases de dados com outras finalidades;\n\nd) Manter um registo electrónico dos acessos a ficheiros, com indicação de quem acedeu aos ficheiros e das respectivas data e hora de acesso;\n\ne) Implementar outras medidas que se revelem adequadas.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o acesso aos dados só é permitido a pessoas credenciadas por cada uma das entidades responsáveis pelo tratamento das bases de dados, mediante atribuição de código de utilizador e de palavra-passe, devendo cada entidade responsável pelo tratamento manter um registo actualizado das pessoas autorizadas a aceder aos dados.\n\n3 - O uso indevido da informação disponível nas bases de dados é punido nos termos previstos na Lei n.º 67/98, de 26 de Outubro."
+  },
+  "204708740": {
+   "fragment_id": "204710670",
+   "type": 11,
+   "heading": "Artigo 9.º — Titulares dos dados e respectivos direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Titulares dos dados e respectivos direitos\n\n1 - São titulares dos dados os proprietários ou os utilizadores dos veículos em que o DEM se encontre instalado.\n\n2 - Sem prejuízo do disposto nos números seguintes, a SIEV, S. A., tem a responsabilidade de informar os proprietários ou os utilizadores dos veículos, na sua página da Internet, dos termos e das condições do tratamento das bases de dados contempladas na presente portaria, nomeadamente os relativos aos dados recolhidos para a base de dados de eventos públicos de tráfego.\n\n3 - Compete aos responsáveis pelo tratamento das bases de dados, directamente ou através dos seus representantes, informar os utilizadores dos veículos dos termos e das condições do tratamento das bases de dados contempladas na presente portaria, nos termos do artigo 10.º da Lei n.º 67/98, de 26 de Outubro, designadamente a identidade do responsável pelo tratamento, as finalidades do tratamento e a existência e condições dos direitos de acesso e de rectificação.\n\n4 - A informação relativa aos dados recolhidos para a base de dados do DEM é prestada pelo IMTT, I. P., na sua página da Internet, e pelos distribuidores retalhistas do DEM autorizados, no comprovativo da associação entre o código do DEM e a matrícula do veículo, entregue ao proprietário nos termos da portaria que regula o modo de utilização do DEM, prevista no n.º 2 do artigo 17.º do Regulamento de Matrícula dos Automóveis.\n\n5 - A prestação da informação relativa aos dados recolhidos para a base de dados de estado de adequação operacional dos DEM deve ser efectuada pelas ECP, no momento da recolha dos dados.\n\n6 - Sem prejuízo do direito ao anonimato por parte do titular dos dados, para efeitos de cobrança electrónica de portagens, este não pode opor-se ao tratamento das bases de dados pelas entidades competentes ao abrigo da presente portaria, no âmbito das respectivas atribuições legais ou estatutárias.\n\n7 - É reconhecido o direito de acesso dos titulares dos dados, desde que identificados como tal, às informações que lhes digam respeito que se encontram registadas nas bases de dados, nos termos do n.º 1 do artigo 11.º da Lei n.º 67/98, de 26 de Outubro, devendo as entidades responsáveis pelo seu tratamento facultar este acesso no prazo de 10 dias a contar da data de entrada do respectivo requerimento.\n\n8 - Para efeitos do disposto no número anterior, da alínea c) do n.º 3 do artigo 3.º e do n.º 3 do artigo 9.º, o Instituto dos Registos e Notariado, I. P., e o Instituto das Tecnologias de Informação da Justiça, I. P., mediante protocolo que defina os termos, as condições e os custos de disponibilização, fornecem às entidades responsáveis pelas bases de dados do DEM acessos em linha às bases de dados de identificação civil e de propriedade de veículos que permitam confirmar a identidade e a qualificação dos requerentes."
+  },
+  "204708741": {
+   "fragment_id": "204710671",
+   "type": 11,
+   "heading": "Artigo 10.º — Salvaguarda do direito à privacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Salvaguarda do direito à privacidade\n\n1 - O tratamento dos dados de identificação ou de detecção electrónica de veículos, objecto das bases de dados previstas na presente portaria, processa-se de acordo com normas publicamente divulgadas e no estrito respeito pela reserva da vida privada.\n\n2 - Os dados obtidos através de identificação ou de detecção electrónica de veículos, através do DEM, têm um alcance meramente local, estando proibida uma identificação geral e permanente dos veículos a partir da leitura electrónica do dispositivo electrónico dos veículos em circulação.\n\n3 - É vedada qualquer utilização da identificação e da detecção electrónica dos veículos para efectuar uma vigilância em tempo real ou a partir de registos sucessivos dos movimentos dos veículos, bem como o fornecimento de informação constante das bases de dados referidas na presente portaria para esse efeito.\n\n4 - Os sistemas de pagamento, no âmbito da cobrança electrónica de portagens, asseguram e preservam o anonimato do utente, permitindo o seu pagamento em numerário, nos termos da portaria que regula o modo de utilização do DEM, prevista no n.º 2 do artigo 17.º do Regulamento de Matrícula dos Automóveis.\n\n5 - O IMTT, I. P., é a única entidade que pode associar em permanência o código de identificação do DEM ao registo nacional de matrículas, não tendo, contudo, acesso a qualquer informação de bases de dados relativa a eventos públicos de tráfego, obtida através dos equipamentos de detecção do DEM.\n\n6 - É proibido o cruzamento automático e permanente entre as bases de dados do DEM e os dados relativos aos proprietários, constantes do registo automóvel.\n\n7 - As disposições do presente artigo não prejudicam que, em caso de verificação de infracção das normas previstas no Código da Estrada e da Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, e pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e demais legislação rodoviária, as entidades com atribuições de fiscalização daquelas normas procedam ao relacionamento de dados, ao abrigo do n.º 2 do artigo 21.º do Regulamento de Matrícula e nos termos da legislação aplicável."
+  },
+  "204708742": {
+   "fragment_id": "204710672",
+   "type": 11,
+   "heading": "Artigo 11.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sigilo profissional\n\nOs responsáveis pelo tratamento das bases de dados, bem como todas as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais tratados ao abrigo da presente portaria, ficam obrigados ao dever de sigilo profissional, mesmo após o termo das suas funções."
+  },
+  "204708743": {
+   "fragment_id": "204710673",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposição transitória\n\nA comunicação ao IMTT, I. P., dos dados referidos no artigo 3.º respeitantes aos identificadores associados ao sistema Via Verde que sejam convertidos em DEM, deve ser efectuada pela Via Verde Portugal - Gestão de Sistemas Electrónicos de Cobrança, S. A., nos termos do artigo 9.º do Decreto-Lei n.º 112/2009, de 18 de Maio."
+  },
+  "204708744": {
+   "fragment_id": "204710674",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "204708745": {
+   "fragment_id": "204722675",
+   "type": 11,
+   "heading": "Artigo 14.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Produção de efeitos\n\nA presente portaria produz efeitos no dia 18 de Maio de 2010."
+  },
+  "204708731": {
+   "fragment_id": "204710661",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 314-A/2010\n\nde 14 de Junho\n\nO Decreto-Lei n.º 54/2005, de 3 de Março, aprovou o Regulamento da Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, tendo sido posteriormente alterado pelo Decreto-Lei n.º 106/2006, de 8 de Junho, e pelo Decreto-Lei n.º 112/2009, de 18 de Maio, tendo, este último, introduzindo a obrigatoriedade de instalação de um dispositivo electrónico de matrícula (DEM) em todos os veículos automóveis, ligeiros e pesados, seus reboques, motociclos, bem como em triciclos autorizados a circular em auto-estradas e vias equiparadas, visando a cobrança electrónica de portagens, em conformidade com o Serviço Electrónico Europeu de Portagens.\n\nO n.º 8 do artigo 17.º do referido Regulamento estabelece que os meios e o modo de acesso aos dados obtidos pela utilização do DEM são definidos por portaria dos membros do Governo responsáveis pelas áreas da administração interna, da justiça e das obras públicas e transportes.\n\nO DEM constitui uma inovação tecnológica à matrícula tradicional, permitindo evoluir de um sistema de identificação visual de veículos, para outro, mais avançado, de detecção e identificação electrónica dos mesmos.\n\nTal dispositivo permite a obtenção de dados, cujo processamento e tratamento são da responsabilidade do Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), da SIEV - Sistema de Identificação Electrónica de Veículos, S. A. (SIEV, S. A.), e das entidades de cobrança de portagens, conforme previsto no n.º 3 do artigo 17.º do Regulamento de Matrícula dos Automóveis, que, para esse efeito, desenvolvem e mantêm, de forma independente, uma base de dados do DEM, uma base de dados de eventos públicos de tráfego, para efeitos de cobrança de portagem e uma base de dados de estado de adequação operacional do dispositivo, para efeitos de cobrança electrónica de portagens.\n\nO sistema criado pressupõe que a informação contida no DEM é lida de forma directa, sendo este dispositivo constituído por dados referentes ao seu código de identificação e à classe do veículo para efeitos de cobrança de portagens e não por dados relativos às pessoas, protegendo-se o direito à reserva da intimidade da vida privada dos proprietários do DEM e dos meros utilizadores do veículo no qual o DEM se encontra instalado, salvaguardando-se igualmente a confidencialidade no tratamento dos dados, de acordo com as recomendações da Comissão Nacional de Protecção de Dados.\n\nAlém das entidades referidas anteriormente, o acesso aos dados constantes das referidas bases de dados pode ser autorizado às forças de segurança, às concessionárias e às subconcessionárias de infra-estruturas rodoviárias, ao Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), e às entidades de cobrança de portagens, para seu uso exclusivo e apenas para o estritamente indispensável ao eficaz desempenho das atribuições que lhes estão cometidas.\n\nPara salvaguardar os direitos de personalidade dos cidadãos consagra-se um conjunto de regras a que os funcionários e os agentes do Estado, que possam aceder a estas bases de dados, devem obedecer conforme impõe a Lei da Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro.\n\nAdicionalmente, através da presente portaria, clarificam-se as questões relativas ao tratamento dos dados a integrar nas mencionadas bases de dados, por imposições de transparência e de uniformidade na prestação de informação.\n\nAssim:\n\nManda o Governo, pelos Ministros da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações, ao abrigo do disposto no n.º 8 do artigo 17.º do Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado pelo Decreto-Lei n.º 54/2005, de 3 de Março, alterado pelo Decreto-Lei n.º 106/2006, de 8 de Junho, e pelo Decreto-Lei n.º 112/2009, de 18 de Maio, o seguinte:"
+  },
+  "204708761": {
+   "fragment_id": "204710662",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2010-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria estabelece os termos e as condições a que obedece o tratamento das bases de dados obtidos mediante a identificação ou a detecção electrónica de veículos através de dispositivos electrónicos (DE), designadamente os meios e o modo de acesso aos dados por parte das concessionárias e das subconcessionárias de infra-estruturas rodoviárias, da SIEV - Sistema de Identificação Electrónica de Veículos, S. A. (SIEV, S. A.), do Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), e das entidades de cobrança de portagens (ECP).\n\n2 - A presente portaria estabelece, ainda, as condições de recolha dos dados, as categorias de dados a tratar, o respectivo prazo de conservação, bem como as medidas de segurança a adoptar no âmbito do tratamento dos mesmos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "204708762": {
+   "fragment_id": "204710663",
+   "type": 11,
+   "heading": "Artigo 2.º — Bases de dados e responsáveis pelo seu tratamento",
+   "in_force_from": "2010-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 2.º — Bases de dados e responsáveis pelo seu tratamento\n\n1 - O tratamento das bases de dados obtidos mediante a identificação ou a detecção electrónica de veículos, através de DE, implica a constituição das bases de dados identificadas no n.º 3 do artigo 17.º do Regulamento da Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis (Regulamento de Matrícula), aprovado pelo Decreto-Lei n.º 54/2005, de 3 de Março, alterado pelo Decreto-Lei n.º 106/2006, de 8 de Junho, pelo Decreto-Lei n.º 112/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro.\n\n2 - A constituição das bases de dados referidas no número anterior deve ser precedida de notificação à Comissão Nacional de Protecção de Dados (CNPD), ao abrigo do artigo 27.º da Lei n.º 67/98, de 26 de Outubro, devendo o seu tratamento respeitar o Regulamento de Matrícula e a presente portaria.\n\n3 - Compete aos responsáveis pelo tratamento das bases de dados, identificados no n.º 4 do artigo 17.º do Regulamento de Matrícula, e mediante os procedimentos previstos na presente portaria, salvaguardar os direitos dos titulares dos dados, designadamente a confidencialidade, o modo de acesso e de actualização dos dados.\n\n4 - Os responsáveis pelo tratamento das bases de dados, identificados no n.º 1 do artigo 1.º da presente portaria, podem escolher um subcontratante para realizar operações de tratamento, desde que, cumulativamente:\n\na) O subcontratante ofereça garantias suficientes em relação às medidas de segurança técnica e de organização do tratamento das bases de dados e zele pelo cumprimento dessas medidas;\n\nb) As operações sejam regidas por contrato escrito que vincule o subcontratante perante o responsável pelo tratamento e que estabeleça que este apenas actua mediante instruções expressas do responsável pelo tratamento das bases de dados;\n\nc) O subcontratante fique vinculado ao cumprimento das obrigações de segurança dos dados que decorrem da legislação aplicável aos responsáveis pelo tratamento das bases de dados nos termos do n.º 1 do artigo 14.º da Lei n.º 67/98, de 26 de Outubro.\n\n5 - A constituição das bases de dados referidas no n.º 3 do artigo 17.º do Regulamento de Matrícula não prejudica a manutenção ou a constituição de outras bases próprias que as concessionárias, as subconcessionárias ou as ECP detenham ou venham a constituir, ao abrigo da Lei n.º 67/98, de 26 de Outubro.\n\n6 - Servem de título bastante para a identificação do respectivo veículo, para efeitos da cobrança de portagem, nos termos do artigo 18.º do Regulamento de Matrícula, os dados constantes das bases de dados associadas à detecção do dispositivo electrónico de matrícula (DEM), criadas nos termos do número anterior, sem prejuízo do acesso a outras bases de dados quando tal for legalmente admissível.\n\n7 - Em tudo o que não estiver previsto nos números anteriores é subsidiariamente aplicável o disposto na Lei da Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "204708747": {
+   "fragment_id": "204722677",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Equiparação",
+   "in_force_from": "2010-10-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 2.º-A — Equiparação\n\nPara efeitos da presente portaria, consideram-se equiparados às concessionárias os operadores de sistemas de cobrança de portagens, no caso de cedência da posição contratual daquelas.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "204708763": {
+   "fragment_id": "204710664",
+   "type": 11,
+   "heading": "Artigo 3.º — Base de dados do DEM",
+   "in_force_from": "2010-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 3.º — Base de dados do DEM\n\n1 - A base de dados do DEM prevista na alínea a) do n.º 3 do artigo 17.º do Regulamento de Matrícula é constituída pelas seguintes categorias de dados:\n\na) O código de identificação do DEM, tal como definido na Portaria n.º 314-B/2010, de 14 de Junho, na sua redacção actual, que regula o modo de utilização dos DE;\n\nb) O número de matrícula a que o DEM fica associado;\n\nc) Os dados que resultam da informação relacionada com a gestão do seu ciclo de vida, designadamente a associação ao número de matrícula e o cancelamento do DEM, devendo corresponder exclusivamente a cada DEM um número de matrícula.\n\nd) Um código de bloqueio de distribuição de DEM, no caso de os proprietários dos veículos optarem por um dispositivo electrónico de uma entidade de cobrança de portagens (DECP).\n\n2 - A substituição do DEM, designadamente por motivo de avaria, implica o respectivo cancelamento e a uma nova associação ao número de matrícula.\n\n3 - Os dados referidos no n.º 1 são recolhidos e registados na base de dados do DEM pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), enquanto entidade responsável pelo tratamento da mesma, sendo igualmente responsável pela criação de uma plataforma informática que permita:\n\na) Registo dos dados relativos aos códigos dos DEM, adquiridos para distribuição pelos distribuidores grossistas do DEM, autorizados pela SIEV, S. A.;\n\nb) Registo dos dados relativos à associação entre o código de identificação do DEM e a matrícula do veículo, pelos distribuidores retalhistas do DEM, autorizados pela SIEV, S. A.;\n\nc) Registo dos dados relativos à substituição e ao cancelamento dos DEM, pelas ECP ou por outras entidades autorizadas pela SIEV, S. A.\n\n4 - As entidades referidas no número anterior, devidamente credenciadas pela SIEV, S. A., devem registar, junto do IMTT, I. P., os dados relativos aos DEM directamente na plataforma electrónica criada para o efeito pelo IMTT, I. P., de acordo com o disposto no artigo 7.º\n\n5 - O IMTT, I. P., pode comunicar às entidades referidas no artigo 11.º da Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro, quando por estas for solicitado e para a finalidade prevista no referido artigo, a matrícula associada ao código de identificação do DEM ou o código de identificação do DEM associado à matrícula, sendo os termos, as condições e os custos de disponibilização da informação referida definidos por protocolo, a celebrar entre o IMTT, I. P., e essas entidades.\n\n6 - Os dados referidos no n.º 1 devem ser conservados pelo IMTT, I. P., pelo mesmo período de tempo em que são conservados os dados relativos à matrícula.\n\n7 - Os distribuidores devem prestar informação ao IMTT, I. P., relativa aos DE colocados no mercado, bem como informação relativa às matrículas a bloquear nos termos da alínea d) do n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "204708764": {
+   "fragment_id": "204710665",
+   "type": 11,
+   "heading": "Artigo 4.º — Base de dados de eventos públicos de tráfego",
+   "in_force_from": "2010-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 4.º — Base de dados de eventos públicos de tráfego\n\n1 - A base de dados de eventos públicos de tráfego prevista na alínea b) do n.º 3 do artigo 17.º do Regulamento de Matrícula é constituída pelas seguintes categorias de dados:\n\na) O código de identificação dos DE;\n\nb) A data e a hora da detecção dos DE;\n\nc) A classe do veículo para efeitos de cobrança de portagem;\n\nd) O valor da taxa de portagem.\n\n2 - Os dados referidos no número anterior são recolhidos pelos dispositivos de detecção e de identificação electrónica (DDIE) das seguintes entidades:\n\na) As concessionárias ou as subconcessionárias de infra-estruturas rodoviárias;\n\nb) As ECP;\n\nc) O InIR, I. P.;\n\nd) Outras entidades autorizadas pela SIEV, S. A.\n\n3 - As entidades referidas no número anterior devem transmitir à SIEV, S. A., entidade responsável pelo tratamento da base de dados de eventos públicos de tráfego, os dados referidos no n.º 1, de acordo com o disposto no artigo 7.º\n\n4 - Os dados relativos à detecção dos DE devem ser conservados pela SIEV, S. A., pelo período de dois anos, após a sua recolha.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "204708765": {
+   "fragment_id": "204710666",
+   "type": 11,
+   "heading": "Artigo 5.º — Base de dados de estado de adequação operacional do DE",
+   "in_force_from": "2010-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 5.º — Base de dados de estado de adequação operacional do DE\n\n1 - A base de dados de estado de adequação operacional dos DE para efeitos de cobrança electrónica de portagens, prevista na alínea c) do n.º 3 do artigo 17.º do Regulamento de Matrícula, é constituída pelas seguintes categorias de dados:\n\na) O código de identificação dos DE;\n\nb) A ECP com quem foi celebrado o contrato para cobrança das portagens, se aplicável;\n\nc) A validade do meio de pagamento.\n\n2 - Os dados referidos no número anterior são recolhidos e registados por cada uma das ECP que distribuam os DE ou com quem foi celebrado o contrato para a cobrança das portagens, enquanto responsáveis pelo tratamento da base de dados de estado de adequação operacional dos DE.\n\n3 - Os dados referidos no n.º 1 devem ser conservados pelas ECP pelo período de dois anos, após a sua recolha.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "204708766": {
+   "fragment_id": "204710667",
+   "type": 11,
+   "heading": "Artigo 6.º — Acesso às bases de dados",
+   "in_force_from": "2010-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 6.º — Acesso às bases de dados\n\n1 - Estão autorizadas a aceder às bases de dados referidas na presente portaria para prossecução das suas atribuições:\n\na) As concessionárias e as subconcessionárias de infra-estruturas rodoviárias, relativamente às bases de dados previstas nos artigos 4.º e 5.º;\n\nb) A SIEV, S. A., relativamente à base de dados a que se refere o artigo 5.º;\n\nc) O InIR, I. P., relativamente às bases de dados previstas no artigo 4.º;\n\nd) As ECP, relativamente às bases de dados referidas no artigo 4.º\n\n2 - O acesso às bases de dados pelas entidades referidas no número anterior é realizado exclusivamente para o desempenho das competências e das atribuições que lhes estão cometidas pela Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro, e pela presente portaria.\n\n3 - O acesso aos dados pelas entidades referidas no n.º 1 é efectuado por via electrónica, através de ligação segura, encriptada, em conformidade com o disposto na alínea b) do n.º 1 do artigo seguinte, sendo assegurada a autenticação das entidades, bem como o registo de acessos entre os sistemas informáticos intervenientes.\n\n4 - O acesso aos dados só é permitido a pessoas devidamente autorizadas pelas entidades referidas no n.º 1, mediante atribuição de código de utilizador e de palavra-passe, devendo cada entidade manter um registo actualizado das pessoas especialmente autorizadas a aceder aos dados.\n\n5 - Para efeitos de acesso às bases de dados, os responsáveis pelo tratamento de dados definem os procedimentos de credenciação das pessoas que tratam e acedem aos dados, designadamente dos acessos externos, da periodicidade dos backups das bases de dados e do período de armazenamento dos dados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "204708752": {
+   "fragment_id": "204710668",
+   "type": 11,
+   "heading": "Artigo 7.º — Meios e modos de comunicação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Meios e modos de comunicação dos dados\n\n1 - Os dados referidos na presente portaria devem ser transmitidos por via electrónica, adoptando-se para o efeito as seguintes medidas de segurança:\n\na) Autenticação das entidades envolvidas;\n\nb) Encriptação de todas as comunicações electrónicas efectuadas ao abrigo da presente portaria que impliquem a transmissão de dados pessoais nos termos da alínea a) do artigo 3.º da Lei n.º 67/98, de 3 de Outubro;\n\nc) Registo electrónico de quem procedeu à transmissão de dados, e da data e da hora em que tal transmissão ocorreu;\n\nd) Outras que se revelem adequadas.\n\n2 - Sempre que não seja possível o acesso às bases de dados através dos meios electrónicos, as entidades competentes podem adoptar as medidas necessárias que permitam, excepcionalmente, o registo dos dados por outros meios."
+  },
+  "204708753": {
+   "fragment_id": "204710669",
+   "type": 11,
+   "heading": "Artigo 8.º — Protecção e segurança dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Protecção e segurança dos dados\n\n1 - Sem prejuízo de outras medidas de segurança previstas na presente portaria e das regras relativas à qualidade, à salvaguarda da confidencialidade e à segurança dos dados previstas na Lei n.º 67/98, de 26 de Outubro, as entidades responsáveis pelas bases de dados devem garantir a segurança dos dados pessoais tratados, devendo cumulativamente:\n\na) Adoptar as medidas técnicas e organizativas adequadas à protecção dos dados contra a destruição acidental ou ilícita, a perda ou a alteração acidental e o armazenamento, o acesso ou a divulgação não autorizada ou ilícita dos mesmos;\n\nb) Adoptar as medidas técnicas e organizativas adequadas para garantir que apenas pessoas autorizadas tenham acesso aos dados;\n\nc) Manter as bases de dados separadas de quaisquer outras bases de dados com outras finalidades;\n\nd) Manter um registo electrónico dos acessos a ficheiros, com indicação de quem acedeu aos ficheiros e das respectivas data e hora de acesso;\n\ne) Implementar outras medidas que se revelem adequadas.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o acesso aos dados só é permitido a pessoas credenciadas por cada uma das entidades responsáveis pelo tratamento das bases de dados, mediante atribuição de código de utilizador e de palavra-passe, devendo cada entidade responsável pelo tratamento manter um registo actualizado das pessoas autorizadas a aceder aos dados.\n\n3 - O uso indevido da informação disponível nas bases de dados é punido nos termos previstos na Lei n.º 67/98, de 26 de Outubro."
+  },
+  "204708767": {
+   "fragment_id": "204710670",
+   "type": 11,
+   "heading": "Artigo 9.º — Titulares dos dados e respectivos direitos",
+   "in_force_from": "2010-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 9.º — Titulares dos dados e respectivos direitos\n\n1 - São titulares dos dados os proprietários ou os utilizadores dos veículos em que os DE se encontrem instalados.\n\n2 - Sem prejuízo do disposto nos números seguintes, a SIEV, S. A., tem a responsabilidade de informar os proprietários ou os utilizadores dos veículos, na sua página da Internet, dos termos e das condições do tratamento das bases de dados contempladas na presente portaria, nomeadamente os relativos aos dados recolhidos para a base de dados de eventos públicos de tráfego.\n\n3 - Compete aos responsáveis pelo tratamento das bases de dados, directamente ou através dos seus representantes, informar os utilizadores dos veículos dos termos e das condições do tratamento das bases de dados contempladas na presente portaria, nos termos do artigo 10.º da Lei n.º 67/98, de 26 de Outubro, designadamente a identidade do responsável pelo tratamento, as finalidades do tratamento e a existência e condições dos direitos de acesso e de rectificação.\n\n4 - A informação relativa aos dados recolhidos para a base de dados do DEM é prestada pelo IMTT, I. P., na sua página da Internet, e pelos distribuidores retalhistas do DEM autorizados, no comprovativo da associação entre o código do DEM e a matrícula do veículo, entregue ao proprietário nos termos da portaria que regula o modo de utilização do DEM, prevista no n.º 2 do artigo 17.º do Regulamento de Matrícula dos Automóveis.\n\n5 - A prestação da informação relativa aos dados recolhidos para a base de dados de estado de adequação operacional dos DE deve ser efectuada pelas ECP, no momento da recolha dos dados.\n\n6 - Sem prejuízo do direito ao anonimato por parte do titular dos dados, para efeitos de cobrança electrónica de portagens, este não pode opor-se ao tratamento das bases de dados pelas entidades competentes ao abrigo da presente portaria, no âmbito das respectivas atribuições legais ou estatutárias.\n\n7 - É reconhecido o direito de acesso dos titulares dos dados, desde que identificados como tal, às informações que lhes digam respeito que se encontram registadas nas bases de dados, nos termos do n.º 1 do artigo 11.º da Lei n.º 67/98, de 26 de Outubro, devendo as entidades responsáveis pelo seu tratamento facultar este acesso no prazo de 10 dias a contar da data de entrada do respectivo requerimento.\n\n8 - Para efeitos do disposto no número anterior, na alínea c) do n.º 3 do artigo 3.º e no n.º 3, o Instituto dos Registos e Notariado, I. P., e o Instituto das Tecnologias de Informação da Justiça, I. P., mediante protocolo que defina os termos, as condições e os custos de disponibilização, fornecem às entidades responsáveis pelas bases de dados do DEM acessos em linha às bases de dados de identificação civil e de propriedade de veículos que permitam confirmar a identidade e a qualificação dos requerentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "204708768": {
+   "fragment_id": "204710671",
+   "type": 11,
+   "heading": "Artigo 10.º — Salvaguarda do direito à privacidade",
+   "in_force_from": "2010-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 10.º — Salvaguarda do direito à privacidade\n\n1 - O tratamento dos dados de identificação ou de detecção electrónica de veículos, objecto das bases de dados previstas na presente portaria, processa-se de acordo com normas publicamente divulgadas e no estrito respeito pela reserva da vida privada.\n\n2 - Os dados obtidos através de identificação ou de detecção electrónica de veículos, através dos DE, têm um alcance meramente local, estando proibida uma identificação geral e permanente dos veículos a partir da leitura electrónica dos DE dos veículos em circulação.\n\n3 - É vedada qualquer utilização da identificação e da detecção electrónica dos veículos para efectuar uma vigilância em tempo real ou a partir de registos sucessivos dos movimentos dos veículos, bem como o fornecimento de informação constante das bases de dados referidas na presente portaria para esse efeito.\n\n4 - Os sistemas de pagamento, no âmbito da cobrança electrónica de portagens, asseguram e preservam o anonimato do utente, permitindo o seu pagamento em numerário, nos termos da Portaria n.º 314-B/2010, de 14 de Junho, na sua redacção actual, que regula o modo de utilização dos DE.\n\n5 - O IMTT, I. P., é a única entidade que pode associar em permanência o código de identificação do DEM ao registo nacional de matrículas, não tendo, contudo, acesso a qualquer informação de bases de dados relativa a eventos públicos de tráfego, obtida através dos equipamentos de detecção dos DE.\n\n6 - É proibido o cruzamento automático e permanente entre as bases de dados do DEM e os dados relativos aos proprietários, constantes do registo automóvel.\n\n7 - As disposições do presente artigo não prejudicam que, em caso de verificação de infracção das normas previstas na Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro, e demais legislação rodoviária, as entidades com atribuições de fiscalização daquelas normas procedam ao relacionamento de dados, ao abrigo do n.º 2 do artigo 21.º do Regulamento de Matrícula e nos termos da legislação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "204708756": {
+   "fragment_id": "204710672",
+   "type": 11,
+   "heading": "Artigo 11.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sigilo profissional\n\nOs responsáveis pelo tratamento das bases de dados, bem como todas as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais tratados ao abrigo da presente portaria, ficam obrigados ao dever de sigilo profissional, mesmo após o termo das suas funções."
+  },
+  "204708769": {
+   "fragment_id": "204710673",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposição transitória",
+   "in_force_from": "2010-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 12.º — Disposição transitória\n\nA comunicação ao IMTT, I. P., dos dados referidos no artigo 3.º respeitantes aos identificadores associados ao sistema Via Verde que sejam convertidos em DEM deve ser efectuada pela Via Verde Portugal - Gestão de Sistemas Electrónicos de Cobrança, S. A.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "204708758": {
+   "fragment_id": "204710674",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "204708759": {
+   "fragment_id": "204722675",
+   "type": 11,
+   "heading": "Artigo 14.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Produção de efeitos\n\nA presente portaria produz efeitos no dia 18 de Maio de 2010."
+  },
+  "204708760": {
+   "fragment_id": "204722676",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Rui Carlos Pereira, em 21 de Maio de 2010. - O Ministro da Justiça, Alberto de Sousa Martins, em 28 de Maio de 2010. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 20 de Maio de 2010."
+  },
+  "206142170": {
+   "fragment_id": "204710662",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria estabelece os termos e as condições a que obedece o tratamento das bases de dados obtidos mediante a identificação ou a detecção electrónica de veículos através de dispositivos electrónicos (DE), designadamente os meios e o modo de acesso aos dados por parte das concessionárias e das subconcessionárias de infra-estruturas rodoviárias, da SIEV - Sistema de Identificação Electrónica de Veículos, S. A. (SIEV, S. A.), do Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), e das entidades de cobrança de portagens (ECP).\n\n2 - A presente portaria estabelece, ainda, as condições de recolha dos dados, as categorias de dados a tratar, o respectivo prazo de conservação, bem como as medidas de segurança a adoptar no âmbito do tratamento dos mesmos.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "206142171": {
+   "fragment_id": "204710663",
+   "type": 11,
+   "heading": "Artigo 2.º — Bases de dados e responsáveis pelo seu tratamento",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 2.º — Bases de dados e responsáveis pelo seu tratamento\n\n1 - O tratamento das bases de dados obtidos mediante a identificação ou a detecção electrónica de veículos, através de DE, implica a constituição das bases de dados identificadas no n.º 3 do artigo 17.º do Regulamento da Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis (Regulamento de Matrícula), aprovado pelo Decreto-Lei n.º 54/2005, de 3 de Março, alterado pelo Decreto-Lei n.º 106/2006, de 8 de Junho, pelo Decreto-Lei n.º 112/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro.\n\n2 - A constituição das bases de dados referidas no número anterior deve ser precedida de notificação à Comissão Nacional de Protecção de Dados (CNPD), ao abrigo do artigo 27.º da Lei n.º 67/98, de 26 de Outubro, devendo o seu tratamento respeitar o Regulamento de Matrícula e a presente portaria.\n\n3 - Compete aos responsáveis pelo tratamento das bases de dados, identificados no n.º 4 do artigo 17.º do Regulamento de Matrícula, e mediante os procedimentos previstos na presente portaria, salvaguardar os direitos dos titulares dos dados, designadamente a confidencialidade, o modo de acesso e de actualização dos dados.\n\n4 - Os responsáveis pelo tratamento das bases de dados, identificados no n.º 1 do artigo 1.º da presente portaria, podem escolher um subcontratante para realizar operações de tratamento, desde que, cumulativamente:\n\na) O subcontratante ofereça garantias suficientes em relação às medidas de segurança técnica e de organização do tratamento das bases de dados e zele pelo cumprimento dessas medidas;\n\nb) As operações sejam regidas por contrato escrito que vincule o subcontratante perante o responsável pelo tratamento e que estabeleça que este apenas actua mediante instruções expressas do responsável pelo tratamento das bases de dados;\n\nc) O subcontratante fique vinculado ao cumprimento das obrigações de segurança dos dados que decorrem da legislação aplicável aos responsáveis pelo tratamento das bases de dados nos termos do n.º 1 do artigo 14.º da Lei n.º 67/98, de 26 de Outubro.\n\n5 - A constituição das bases de dados referidas no n.º 3 do artigo 17.º do Regulamento de Matrícula não prejudica a manutenção ou a constituição de outras bases próprias que as concessionárias, as subconcessionárias ou as ECP detenham ou venham a constituir, ao abrigo da Lei n.º 67/98, de 26 de Outubro.\n\n6 - Servem de título bastante para a identificação do respectivo veículo, para efeitos da cobrança de portagem, nos termos do artigo 18.º do Regulamento de Matrícula, os dados constantes das bases de dados associadas à detecção do dispositivo electrónico de matrícula (DEM), criadas nos termos do número anterior, sem prejuízo do acesso a outras bases de dados quando tal for legalmente admissível.\n\n7 - Em tudo o que não estiver previsto nos números anteriores é subsidiariamente aplicável o disposto na Lei da Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "206142172": {
+   "fragment_id": "204722677",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Equiparação",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 2.º-A — Equiparação\n\nPara efeitos da presente portaria, consideram-se equiparados às concessionárias os operadores de sistemas de cobrança de portagens, no caso de cedência da posição contratual daquelas.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "206142173": {
+   "fragment_id": "204710664",
+   "type": 11,
+   "heading": "Artigo 3.º — Base de dados do DEM",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 3.º — Base de dados do DEM\n\n1 - A base de dados do DEM prevista na alínea a) do n.º 3 do artigo 17.º do Regulamento de Matrícula é constituída pelas seguintes categorias de dados:\n\na) O código de identificação do DEM, tal como definido na Portaria n.º 314-B/2010, de 14 de Junho, na sua redacção actual, que regula o modo de utilização dos DE;\n\nb) O número de matrícula a que o DEM fica associado;\n\nc) Os dados que resultam da informação relacionada com a gestão do seu ciclo de vida, designadamente a associação ao número de matrícula e o cancelamento do DEM, devendo corresponder exclusivamente a cada DEM um número de matrícula.\n\nd) Um código de bloqueio de distribuição de DEM, no caso de os proprietários dos veículos optarem por um dispositivo electrónico de uma entidade de cobrança de portagens (DECP).\n\n2 - A substituição do DEM, designadamente por motivo de avaria, implica o respectivo cancelamento e a uma nova associação ao número de matrícula.\n\n3 - Os dados referidos no n.º 1 são recolhidos e registados na base de dados do DEM pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), enquanto entidade responsável pelo tratamento da mesma, sendo igualmente responsável pela criação de uma plataforma informática que permita:\n\na) Registo dos dados relativos aos códigos dos DEM, adquiridos para distribuição pelos distribuidores grossistas do DEM, autorizados pela SIEV, S. A.;\n\nb) Registo dos dados relativos à associação entre o código de identificação do DEM e a matrícula do veículo, pelos distribuidores retalhistas do DEM, autorizados pela SIEV, S. A.;\n\nc) Registo dos dados relativos à substituição e ao cancelamento dos DEM, pelas ECP ou por outras entidades autorizadas pela SIEV, S. A.\n\n4 - As entidades referidas no número anterior, devidamente credenciadas pela SIEV, S. A., devem registar, junto do IMTT, I. P., os dados relativos aos DEM directamente na plataforma electrónica criada para o efeito pelo IMTT, I. P., de acordo com o disposto no artigo 7.º\n\n5 - O IMTT, I. P., pode comunicar às entidades referidas no artigo 11.º da Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro, quando por estas for solicitado e para a finalidade prevista no referido artigo, a matrícula associada ao código de identificação do DEM ou o código de identificação do DEM associado à matrícula, sendo os termos, as condições e os custos de disponibilização da informação referida definidos por protocolo, a celebrar entre o IMTT, I. P., e essas entidades.\n\n6 - Os dados referidos no n.º 1 devem ser conservados pelo IMTT, I. P., pelo mesmo período de tempo em que são conservados os dados relativos à matrícula.\n\n7 - Os distribuidores devem prestar informação ao IMTT, I. P., relativa aos DE colocados no mercado, bem como informação relativa às matrículas a bloquear nos termos da alínea d) do n.º 1.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "206142174": {
+   "fragment_id": "204710665",
+   "type": 11,
+   "heading": "Artigo 4.º — Base de dados de eventos públicos de tráfego",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 4.º — Base de dados de eventos públicos de tráfego\n\n1 - A base de dados de eventos públicos de tráfego prevista na alínea b) do n.º 3 do artigo 17.º do Regulamento de Matrícula é constituída pelas seguintes categorias de dados:\n\na) O código de identificação dos DE;\n\nb) A data e a hora da detecção dos DE;\n\nc) A classe do veículo para efeitos de cobrança de portagem;\n\nd) O valor da taxa de portagem.\n\n2 - Os dados referidos no número anterior são recolhidos pelos dispositivos de detecção e de identificação electrónica (DDIE) das seguintes entidades:\n\na) As concessionárias ou as subconcessionárias de infra-estruturas rodoviárias;\n\nb) As ECP;\n\nc) O InIR, I. P.;\n\nd) Outras entidades autorizadas pela SIEV, S. A.\n\n3 - As entidades referidas no número anterior devem transmitir à SIEV, S. A., entidade responsável pelo tratamento da base de dados de eventos públicos de tráfego, os dados referidos no n.º 1, de acordo com o disposto no artigo 7.º\n\n4 - Os dados relativos à detecção dos DE devem ser conservados pela SIEV, S. A., pelo período de dois anos, após a sua recolha.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "206157375": {
+   "fragment_id": "204710666",
+   "type": 11,
+   "heading": "Artigo 5.º — Base de dados de estado de adequação operacional do DE",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 5.º — Base de dados de estado de adequação operacional do DE\n\n1 - A base de dados de estado de adequação operacional dos DE para efeitos de cobrança electrónica de portagens, prevista na alínea c) do n.º 3 do artigo 17.º do Regulamento de Matrícula, é constituída pelas seguintes categorias de dados:\n\na) O código de identificação dos DE;\n\nb) A ECP com quem foi celebrado o contrato para cobrança das portagens, se aplicável;\n\nc) A validade do meio de pagamento.\n\n2 - Os dados referidos no número anterior são recolhidos e registados por cada uma das ECP que distribuam os DE ou com quem foi celebrado o contrato para a cobrança das portagens, enquanto responsáveis pelo tratamento da base de dados de estado de adequação operacional dos DE.\n\n3 - Os dados referidos no n.º 1 devem ser conservados pelas ECP pelo período de dois anos, após a sua recolha.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "206157376": {
+   "fragment_id": "204710667",
+   "type": 11,
+   "heading": "Artigo 6.º — Acesso às bases de dados",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 6.º — Acesso às bases de dados\n\n1 - Estão autorizadas a aceder às bases de dados referidas na presente portaria para prossecução das suas atribuições:\n\na) As concessionárias e as subconcessionárias de infra-estruturas rodoviárias, relativamente às bases de dados previstas nos artigos 4.º e 5.º;\n\nb) A SIEV, S. A., relativamente à base de dados a que se refere o artigo 5.º;\n\nc) O InIR, I. P., relativamente às bases de dados previstas no artigo 4.º;\n\nd) As ECP, relativamente às bases de dados referidas no artigo 4.º\n\n2 - O acesso às bases de dados pelas entidades referidas no número anterior é realizado exclusivamente para o desempenho das competências e das atribuições que lhes estão cometidas pela Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro, e pela presente portaria.\n\n3 - O acesso aos dados pelas entidades referidas no n.º 1 é efectuado por via electrónica, através de ligação segura, encriptada, em conformidade com o disposto na alínea b) do n.º 1 do artigo seguinte, sendo assegurada a autenticação das entidades, bem como o registo de acessos entre os sistemas informáticos intervenientes.\n\n4 - O acesso aos dados só é permitido a pessoas devidamente autorizadas pelas entidades referidas no n.º 1, mediante atribuição de código de utilizador e de palavra-passe, devendo cada entidade manter um registo actualizado das pessoas especialmente autorizadas a aceder aos dados.\n\n5 - Para efeitos de acesso às bases de dados, os responsáveis pelo tratamento de dados definem os procedimentos de credenciação das pessoas que tratam e acedem aos dados, designadamente dos acessos externos, da periodicidade dos backups das bases de dados e do período de armazenamento dos dados.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "206157377": {
+   "fragment_id": "204710668",
+   "type": 11,
+   "heading": "Artigo 7.º — Meios e modos de comunicação dos dados",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+   ],
+   "markdown": "###### Artigo 7.º — Meios e modos de comunicação dos dados\n\n1 - Os dados referidos na presente portaria devem ser transmitidos por via electrónica, adoptando-se para o efeito as seguintes medidas de segurança:\n\na) Autenticação das entidades envolvidas;\n\nb) Encriptação de todas as comunicações electrónicas efectuadas ao abrigo da presente portaria que impliquem a transmissão de dados pessoais nos termos da alínea a) do artigo 3.º da Lei n.º 67/98, de 3 de Outubro;\n\nc) Registo electrónico de quem procedeu à transmissão de dados, e da data e da hora em que tal transmissão ocorreu;\n\nd) Outras que se revelem adequadas.\n\n2 - Sempre que não seja possível o acesso às bases de dados através dos meios electrónicos, as entidades competentes podem adoptar as medidas necessárias que permitam, excepcionalmente, o registo dos dados por outros meios.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+  },
+  "206157378": {
+   "fragment_id": "204710669",
+   "type": 11,
+   "heading": "Artigo 8.º — Protecção e segurança dos dados",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+   ],
+   "markdown": "###### Artigo 8.º — Protecção e segurança dos dados\n\n1 - Sem prejuízo de outras medidas de segurança previstas na presente portaria e das regras relativas à qualidade, à salvaguarda da confidencialidade e à segurança dos dados previstas na Lei n.º 67/98, de 26 de Outubro, as entidades responsáveis pelas bases de dados devem garantir a segurança dos dados pessoais tratados, devendo cumulativamente:\n\na) Adoptar as medidas técnicas e organizativas adequadas à protecção dos dados contra a destruição acidental ou ilícita, a perda ou a alteração acidental e o armazenamento, o acesso ou a divulgação não autorizada ou ilícita dos mesmos;\n\nb) Adoptar as medidas técnicas e organizativas adequadas para garantir que apenas pessoas autorizadas tenham acesso aos dados;\n\nc) Manter as bases de dados separadas de quaisquer outras bases de dados com outras finalidades;\n\nd) Manter um registo electrónico dos acessos a ficheiros, com indicação de quem acedeu aos ficheiros e das respectivas data e hora de acesso;\n\ne) Implementar outras medidas que se revelem adequadas.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o acesso aos dados só é permitido a pessoas credenciadas por cada uma das entidades responsáveis pelo tratamento das bases de dados, mediante atribuição de código de utilizador e de palavra-passe, devendo cada entidade responsável pelo tratamento manter um registo actualizado das pessoas autorizadas a aceder aos dados.\n\n3 - O uso indevido da informação disponível nas bases de dados é punido nos termos previstos na Lei n.º 67/98, de 26 de Outubro.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+  },
+  "206157379": {
+   "fragment_id": "204710670",
+   "type": 11,
+   "heading": "Artigo 9.º — Titulares dos dados e respectivos direitos",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 9.º — Titulares dos dados e respectivos direitos\n\n1 - São titulares dos dados os proprietários ou os utilizadores dos veículos em que os DE se encontrem instalados.\n\n2 - Sem prejuízo do disposto nos números seguintes, a SIEV, S. A., tem a responsabilidade de informar os proprietários ou os utilizadores dos veículos, na sua página da Internet, dos termos e das condições do tratamento das bases de dados contempladas na presente portaria, nomeadamente os relativos aos dados recolhidos para a base de dados de eventos públicos de tráfego.\n\n3 - Compete aos responsáveis pelo tratamento das bases de dados, directamente ou através dos seus representantes, informar os utilizadores dos veículos dos termos e das condições do tratamento das bases de dados contempladas na presente portaria, nos termos do artigo 10.º da Lei n.º 67/98, de 26 de Outubro, designadamente a identidade do responsável pelo tratamento, as finalidades do tratamento e a existência e condições dos direitos de acesso e de rectificação.\n\n4 - A informação relativa aos dados recolhidos para a base de dados do DEM é prestada pelo IMTT, I. P., na sua página da Internet, e pelos distribuidores retalhistas do DEM autorizados, no comprovativo da associação entre o código do DEM e a matrícula do veículo, entregue ao proprietário nos termos da portaria que regula o modo de utilização do DEM, prevista no n.º 2 do artigo 17.º do Regulamento de Matrícula dos Automóveis.\n\n5 - A prestação da informação relativa aos dados recolhidos para a base de dados de estado de adequação operacional dos DE deve ser efectuada pelas ECP, no momento da recolha dos dados.\n\n6 - Sem prejuízo do direito ao anonimato por parte do titular dos dados, para efeitos de cobrança electrónica de portagens, este não pode opor-se ao tratamento das bases de dados pelas entidades competentes ao abrigo da presente portaria, no âmbito das respectivas atribuições legais ou estatutárias.\n\n7 - É reconhecido o direito de acesso dos titulares dos dados, desde que identificados como tal, às informações que lhes digam respeito que se encontram registadas nas bases de dados, nos termos do n.º 1 do artigo 11.º da Lei n.º 67/98, de 26 de Outubro, devendo as entidades responsáveis pelo seu tratamento facultar este acesso no prazo de 10 dias a contar da data de entrada do respectivo requerimento.\n\n8 - Para efeitos do disposto no número anterior, na alínea c) do n.º 3 do artigo 3.º e no n.º 3, o Instituto dos Registos e Notariado, I. P., e o Instituto das Tecnologias de Informação da Justiça, I. P., mediante protocolo que defina os termos, as condições e os custos de disponibilização, fornecem às entidades responsáveis pelas bases de dados do DEM acessos em linha às bases de dados de identificação civil e de propriedade de veículos que permitam confirmar a identidade e a qualificação dos requerentes.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "206157380": {
+   "fragment_id": "204710671",
+   "type": 11,
+   "heading": "Artigo 10.º — Salvaguarda do direito à privacidade",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 10.º — Salvaguarda do direito à privacidade\n\n1 - O tratamento dos dados de identificação ou de detecção electrónica de veículos, objecto das bases de dados previstas na presente portaria, processa-se de acordo com normas publicamente divulgadas e no estrito respeito pela reserva da vida privada.\n\n2 - Os dados obtidos através de identificação ou de detecção electrónica de veículos, através dos DE, têm um alcance meramente local, estando proibida uma identificação geral e permanente dos veículos a partir da leitura electrónica dos DE dos veículos em circulação.\n\n3 - É vedada qualquer utilização da identificação e da detecção electrónica dos veículos para efectuar uma vigilância em tempo real ou a partir de registos sucessivos dos movimentos dos veículos, bem como o fornecimento de informação constante das bases de dados referidas na presente portaria para esse efeito.\n\n4 - Os sistemas de pagamento, no âmbito da cobrança electrónica de portagens, asseguram e preservam o anonimato do utente, permitindo o seu pagamento em numerário, nos termos da Portaria n.º 314-B/2010, de 14 de Junho, na sua redacção actual, que regula o modo de utilização dos DE.\n\n5 - O IMTT, I. P., é a única entidade que pode associar em permanência o código de identificação do DEM ao registo nacional de matrículas, não tendo, contudo, acesso a qualquer informação de bases de dados relativa a eventos públicos de tráfego, obtida através dos equipamentos de detecção dos DE.\n\n6 - É proibido o cruzamento automático e permanente entre as bases de dados do DEM e os dados relativos aos proprietários, constantes do registo automóvel.\n\n7 - As disposições do presente artigo não prejudicam que, em caso de verificação de infracção das normas previstas na Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro, e demais legislação rodoviária, as entidades com atribuições de fiscalização daquelas normas procedam ao relacionamento de dados, ao abrigo do n.º 2 do artigo 21.º do Regulamento de Matrícula e nos termos da legislação aplicável.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "206157381": {
+   "fragment_id": "204710672",
+   "type": 11,
+   "heading": "Artigo 11.º — Sigilo profissional",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+   ],
+   "markdown": "###### Artigo 11.º — Sigilo profissional\n\nOs responsáveis pelo tratamento das bases de dados, bem como todas as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais tratados ao abrigo da presente portaria, ficam obrigados ao dever de sigilo profissional, mesmo após o termo das suas funções.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+  },
+  "206157382": {
+   "fragment_id": "204710673",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposição transitória",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+   ],
+   "markdown": "###### Artigo 12.º — Disposição transitória\n\nA comunicação ao IMTT, I. P., dos dados referidos no artigo 3.º respeitantes aos identificadores associados ao sistema Via Verde que sejam convertidos em DEM deve ser efectuada pela Via Verde Portugal - Gestão de Sistemas Electrónicos de Cobrança, S. A.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-B/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-b-2010-405303), em vigor a partir de 2010-10-07, produz efeitos a partir de 2010-05-18"
+  },
+  "206157383": {
+   "fragment_id": "204710674",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+   ],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+  },
+  "206157384": {
+   "fragment_id": "204722675",
+   "type": 11,
+   "heading": "Artigo 14.º — Produção de efeitos",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+   ],
+   "markdown": "###### Artigo 14.º — Produção de efeitos\n\nA presente portaria produz efeitos no dia 18 de Maio de 2010.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+  },
+  "206157385": {
+   "fragment_id": "204722676",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+   ],
+   "markdown": "O Ministro da Administração Interna, Rui Carlos Pereira, em 21 de Maio de 2010. - O Ministro da Justiça, Alberto de Sousa Martins, em 28 de Maio de 2010. - O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 20 de Maio de 2010.\n\n> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08"
+  }
+ }
+}

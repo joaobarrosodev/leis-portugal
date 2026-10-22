@@ -1,0 +1,180 @@
+---
+schema_version: '1.0'
+id: pt:dre:669284:por
+title: Decreto Legislativo Regional n.º 23/2011/A
+short_title: null
+summary: Estabelece a obrigatoriedade de monitorização e de divulgação do consumo energético dos edifícios públicos e das
+  vias públicas afectos e dependentes à administração regional autónoma e autárquica
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 23/2011/A
+official_date: null
+publication_date: '2011-07-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 133/2011, Série I de 2011-07-13
+  number: '133'
+  series: I
+  supplement: null
+  pages: 4000 - 4001
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/07/13300/0400004001.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/23/2011/07/13/a/dre/pt/html
+  oj: null
+  dre: '669284'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/23-2011-669284
+  internal: pt:dre:669284:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2011-669284
+  metadata_url: https://data.dre.pt/eli/declegreg/23/2011/07/13/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2011-669284
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-08-06T00:00:00Z'
+integrity:
+  source_sha256: 324a6558984d0a25fa806a3bb5b6258b8e38043a3329f10c56b4dfbc9b52ace0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2011/DRE-2011-23-669284.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Energia Elétrica
+- Consumo de Energia
+- Edifício Público
+- Poupança de Energia
+- Administração Regional
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:123725412:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32002L0091
+  label: null
+  source: http://data.europa.eu/eli/dir/2002/91/oj
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 23/2011/A
+
+Estabelece a obrigatoriedade de monitorização e de divulgação do consumo energético dos edifícios públicos e das vias públicas afectos à administração regional autónoma e autárquica
+
+A insustentabilidade dos actuais níveis de consumo de combustíveis fósseis e as alterações climáticas ditam a necessidade de implementação de uma política energética adequada aos compromissos de Quioto e à satisfação dos objectivos da estratégia clima-energia delineada para a União Europeia: aumentar a eficiência energética, desenvolver e aumentar a utilização de energias renováveis e reduzir as emissões de gases com efeito de estufa.
+
+A Região Autónoma dos Açores tem prosseguido uma política energética centrada na investigação na área da energia, como é o caso do projecto Green Islands, em parceria com diversas instituições nacionais e internacionais, no aproveitamento dos recursos naturais renováveis e na promoção da eficiência energética, assumida como um pilar fundamental para a sustentabilidade económica e ambiental da Região e adequada aos compromissos decorrentes dos instrumentos comunitários e internacionais em vigor.
+
+Esta política levou à alteração da matriz energética da Região e, quanto ao consumo de energia produzida através de fontes renováveis, colocou os Açores substancialmente acima dos níveis da União Europeia.
+
+No que se refere à emissão de gases de efeito de estufa, a sua diminuição depende, como é mundialmente reconhecido, de medidas de eficiência energética, que garantam uma redução efectiva do consumo de energia ou, pelo menos, o seu crescimento lento.
+
+As medidas orientadas para uma maior eficiência na utilização final de energia, para além de conduzirem a importantes reduções de custos, constituem um elemento fundamental na estratégia para as alterações climáticas.
+
+A obrigatoriedade da certificação energética de edifícios, consagrada no Decreto Legislativo Regional n.º 16/2009/A, de 13 de Outubro, que transpôs para o ordenamento jurídico regional a Directiva n.º [2002/91/CE](https://data.europa.eu/eli/dir/2002/91/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de Dezembro, assim como a realização de auditorias energéticas aos edifícios da administração pública regional autónoma, promovidas pelo Governo Regional, na sequência da Resolução do Conselho do Governo n.º 66/2006, de 16 de Junho, levaram ao estabelecimento de medidas concretas de melhoria do desempenho energético dos edifícios por via da maior poupança energética e do uso racional da energia.
+
+A monitorização e divulgação do consumo energético da administração regional autónoma e autárquica é uma medida adicional que conferirá a desejável transparência aos consumos energéticos por parte destas entidades públicas e constituirá um importante contributo para a sensibilização dos diversos utilizadores e à necessária mudança dos comportamentos em matéria de consumo de energia.
+
+A monitorização e divulgação, em tempo real, dos consumos energéticos dos edifícios e vias públicas, assim como a divulgação do correspondente relatório anual de consumo energético, deve ser feita com recurso às tecnologias de informação e comunicação, através de plataforma criada para o efeito, sendo a informação disponibilizada na Internet.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente decreto legislativo regional institui a monitorização e divulgação do consumo energético dos edifícios públicos e vias públicas.
+
+2 - Ficam abrangidos pelas obrigações enunciadas no número anterior os edifícios e vias públicas afectos e dependentes da administração regional autónoma e autárquica.
+
+3 - Para efeito do estabelecido nos números anteriores a divulgação dos consumos energéticos inclui a possibilidade de acesso, em tempo real, dos consumos energéticos de cada edifício, em cada momento, assim como a elaboração e divulgação de um relatório energético anual.
+
+4 - A monitorização, em tempo real, é realizada a uma selecção de vias públicas e de edifícios da administração regional autónoma representativa da sua diversidade, a ser estipulada por portaria do membro do Governo Regional com competência em matéria de energia.
+
+5 - Compete a cada câmara municipal definir os edifícios e vias públicas, da sua competência, nos quais deverá ser implementada a monitorização em tempo real.
+
+###### Artigo 2.º — Conteúdo do relatório energético
+
+1 - O relatório energético anual incluirá, pelo menos, os seguintes elementos:
+
+a) Despesa com consumos energéticos em percentagem do orçamento anual de funcionamento do respectivo departamento governamental ou autarquia;
+
+b) Despesas com o consumo de electricidade, gasóleo, gasolina, gás, fuelóleo ou outra fonte de energia, especificando ainda o consumo em kilowatts-hora, litros, quilogramas, metros cúbicos ou outra medida comummente utilizada;
+
+c) Quantificação do total dos consumos energéticos e, separadamente, por fonte de energia, em toneladas equivalentes de petróleo;
+
+d) Quantificação das emissões de gases com efeito de estufa, nomeadamente dióxido de carbono, avaliando formas de compensação das suas emissões, através de investimentos em esquemas de captura de carbono, por reflorestação ou por produção de energia de fonte renovável, entre outros.
+
+2 - A divulgação em tempo real incluirá, pelo menos, a apresentação, em cada momento, dos seguintes elementos:
+
+a) Consumo total de electricidade e gás de cada edifício, em kilowatts-hora e quilogramas, respectivamente, assim como em toneladas equivalentes de petróleo;
+
+b) Consumo de electricidade e de gás de cada edifício, em kilowatts-hora e quilogramas, respectivamente, e em toneladas equivalentes de petróleo, por metro quadrado de área útil;
+
+c) Quantificação das emissões de gases com efeito de estufa, nomeadamente de dióxido de carbono.
+
+3 - A elaboração do relatório energético anual, previsto nos números anteriores é obrigatória para todos os edifícios da administração regional autónoma e autárquica e vias públicas, assim como a sua divulgação.
+
+###### Artigo 3.º — Gestão e monitorização
+
+1 - A administração regional autónoma e as autarquias locais ficam obrigadas a implementar os sistemas de monitorização e divulgação dos consumos energéticos aqui definidos no prazo de três anos, contados a partir da data de início de vigência do presente decreto legislativo regional.
+
+2 - Os sistemas de monitorização e divulgação dos consumos de energia dos edifícios e vias públicas abrangidos pelo presente decreto legislativo regional devem recorrer à utilização de tecnologias de informação e de comunicação, através da criação de uma plataforma de recolha e tratamento automático de informação e de um portal de divulgação pública na Internet.
+
+3 - A plataforma e o portal referidos no número anterior podem ser elaborados de forma conjunta ou separada, entre a administração regional autónoma e as autarquias locais.
+
+###### Artigo 4.º — Avaliação e acompanhamento
+
+1 - O departamento do Governo Regional com competência em matéria de energia constituirá uma equipa técnica que acompanha e avalia a aplicação do presente decreto legislativo regional e que, perante a análise de resultados, propõe medidas para a redução do consumo energético.
+
+2 - A avaliação referida no número anterior deve ser objecto de relatório a divulgar anualmente.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente diploma entra em vigor no prazo de três meses após a sua publicação.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de Junho de 2011.
+
+**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+
+**Assinado em Angra do Heroísmo em 4 de Julho de 2011.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

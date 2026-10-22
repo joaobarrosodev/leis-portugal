@@ -1,0 +1,354 @@
+---
+schema_version: '1.0'
+id: pt:dre:543735:por
+title: Decreto-Lei n.º 30/2012
+short_title: null
+summary: Transpõe a Diretiva n.º 2009/71/EURATOM, do Conselho, de 25 de junho de 2009, que estabelece um quadro comunitário
+  para a segurança das instalações nucleares, e cria a respetiva autoridade reguladora competente
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 30/2012
+official_date: null
+publication_date: '2012-02-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/2012, Série I de 2012-02-09
+  number: '29'
+  series: I
+  supplement: null
+  pages: 653 - 656
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/02/02900/0065300656.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-10-21'
+version_history:
+  file: decreto-lei-30-2012.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-10-21'
+    amending: pt:dre:108355494:por
+    amending_title: Decreto-Lei n.º 135/2017
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Revoga Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/30/2012/p/cons/20171020/pt/html
+  oj: null
+  dre: '543735'
+  dre_path: /dr/detalhe/decreto-lei/30-2012-543735
+  internal: pt:dre:543735:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2012-543735
+  metadata_url: https://data.dre.pt/eli/dec-lei/30/2012/p/cons/20171020/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-73321181
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-73321181
+  retrieved_at: '2026-10-22T12:05:20Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 0efb3090afbbbb9b922686fcaa0669307d360b901cbe13601137bd3e7c61bcb0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:05:20Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-30-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Radioprotecção
+- Criação de Serviços
+- Definição de Competências
+- Energia Nuclear
+- Saúde Pública
+- Central Nuclear
+- Licenciamento
+- Materia Radiactiva
+- Segurança das Instalações
+relationships:
+- type: amended_by
+  target: pt:dre:108355494:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 8.º; Altera Artigo 12.º; Altera Artigo 15.º; Altera Artigo 16.º;
+    Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494
+  date: '2017-10-20'
+- type: cites
+  target: celex:32009L0071
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/71/oj
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:05:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 30/2012
+
+Decreto-Lei n.º 30/2012
+
+de 9 de fevereiro
+
+A adoção unânime pelo Conselho Europeu, em 25 de junho de 2009, da Diretiva sobre segurança nuclear estabeleceu um quadro jurídico comum e criou as condições para a implementação de uma cultura avançada de segurança na Europa.
+
+Com esta iniciativa, a União Europeia tornou-se o primeiro ator de nível regional no domínio nuclear a estabelecer um conjunto de regras vinculativas para a adoção de padrões de segurança nuclear, com particular realce para as obrigações decorrentes da Convenção sobre Segurança Nuclear.
+
+Criaram-se, assim, as condições para o desenvolvimento de uma dinâmica de proteção dos trabalhadores e do público em geral através do reforço da independência e dos recursos postos ao dispor da autoridade reguladora e da transparência da sua atuação. Segundo este diploma, enuncia-se o princípio da responsabilidade primeira e indeclinável dos detentores de licenças e definem-se as condições para uma melhoria contínua da segurança nuclear das instalações, com base na cooperação internacional de especialistas acreditados e na realização de avaliações internacionais dos sistemas e das autoridades nacionais.
+
+No plano nacional, o desenvolvimento institucional e legislativo deve tomar em consideração as circunstâncias nacionais que se resumem à existência de uma única instalação nuclear, na aceção da diretiva, localizada no território nacional: o Reator Português de Investigação.
+
+O presente decreto-lei funciona como diploma de orientação do quadro legislativo, regulamentar e organizacional para a segurança das instalações nucleares. Este quadro é constituído por diplomas e regulamentos específicos, nos quais se definem as responsabilidades relativas à adoção dos requisitos de segurança nuclear nacionais, se estabelece um sistema de licenciamento e de proibição da exploração de instalações nucleares sem licença e, bem assim, se regulam as ações de execução, incluindo a suspensão da exploração e a alteração ou revogação da licença, que tornam efetivas as decisões das autoridades competentes no domínio da segurança nuclear.
+
+O quadro nacional deve ser complementado com o estabelecimento de mecanismos de manutenção e melhoria que possibilitem a consideração da experiência adquirida com a exploração de instalações, os ensinamentos colhidos das análises de segurança das instalações em funcionamento, os avanços tecnológicos e os resultados da investigação no domínio da segurança, quando deles se disponha e sejam pertinentes.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma transpõe para a ordem jurídica interna as disposições da Diretiva n.º <a href="eurlex.asp?ano=2009&id=309L0071" title="Link para Directiva da Comunidade Europeia">2009/71/EURATOM</a>, do Conselho, de 25 de junho de 2009, que estabelece um quadro comunitário para a segurança nuclear das instalações nucleares, e cria a respetiva autoridade reguladora competente, estabelecendo o seu âmbito e atribuições.
+
+###### Artigo 2.º — Âmbito de aplicação e objetivos
+
+1 - O presente diploma aplica-se a qualquer instalação nuclear civil em território nacional sujeita a licença, bem como à regulação das atividades dessas instalações.
+
+2 - São seus objetivos:
+
+a) A preservação e a promoção da melhoria contínua da segurança nuclear e da sua regulação;
+
+b) A adoção de disposições conducentes a um elevado nível de segurança nuclear, que proteja os trabalhadores e a população em geral dos riscos de contaminação nuclear.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente diploma, aplicam-se as seguintes definições:
+
+a) «Instalação nuclear»:
+
+i) Uma central nuclear, uma fábrica de enriquecimento, uma instalação de fabrico de combustível nuclear, uma instalação de reprocessamento, um reator de investigação, uma instalação de armazenagem de combustível irradiado; e
+
+ii) Instalações de armazenagem de resíduos radioativos que se encontrem no mesmo local e que estejam diretamente relacionadas com as instalações nucleares referidas na subalínea anterior;
+
+b) «Licença», documento jurídico emitido pela entidade pública competente e que confere a responsabilidade pelas fases de escolha do local, projeto, construção, entrada em funcionamento, exploração ou desmantelamento de uma instalação nuclear;
+
+c) «Titular da licença», uma pessoa singular ou coletiva com responsabilidade geral por uma instalação nuclear tal como especificada numa licença;
+
+d) «Segurança nuclear», a obtenção de condições de exploração adequadas, a prevenção de acidentes e a minoração das suas consequências que resultem na proteção dos trabalhadores e da população em geral dos perigos decorrentes das radiações ionizantes produzidas pelas instalações nucleares.
+
+e) 'Acidente', qualquer ocorrência não intencional cujas consequências ou potenciais consequências sejam significativas do ponto de vista da proteção contra radiações ou da segurança nuclear;
+
+f) 'Incidente', qualquer ocorrência não intencional cujas consequências ou potenciais consequências não sejam negligenciáveis do ponto de vista da proteção contra radiações ou da segurança nuclear.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21
+
+###### Artigo 4.º — Comissão Reguladora para a Segurança das Instalações Nucleares
+
+1 - É criada a Comissão Reguladora para a Segurança das Instalações Nucleares, abreviadamente designada por COMRSIN, que tem como missão assegurar a preservação e a promoção da segurança das instalações nucleares no território nacional.
+
+2 - A COMRSIN tem a natureza de entidade independente, sendo funcionalmente distinta de qualquer organismo ou organização relacionados com a promoção ou utilização da energia nuclear, incluindo a produção de energia elétrica, e visa assegurar as funções que lhe sejam legalmente atribuídas, definindo com independência a orientação das suas atividades e exercendo os necessários poderes de regulação e de supervisão.
+
+3 - A COMRSIN prossegue as atribuições no domínio da segurança nuclear enunciadas no artigo 8.º, sem prejuízo das atribuições e competências legalmente atribuídas a outras entidades em matéria nuclear, e funciona junto da Secretaria-Geral do Ministério da Educação e Ciência.
+
+###### Artigo 5.º — Composição
+
+1 - A COMRSIN é composta por três membros, designados, a título individual, pelo Primeiro-Ministro, sob proposta do membro do Governo responsável pela área da educação e ciência, ouvidos os membros do Governo responsáveis pelas áreas do ambiente, do ordenamento do território e da saúde, por um período de cinco anos, renovável, de entre personalidades de reconhecido mérito no meio académico, científico e técnico.
+
+2 - Os membros da COMRSIN estão sujeitos ao regime de garantias de imparcialidade previstos para os trabalhadores que exercem funções públicas.
+
+3 - Os membros da COMRSIN não são remunerados, sem prejuízo do direito ao pagamento de despesas com as deslocações, decorrentes das funções exercidas, nos termos previstos no regime jurídico do abono de ajudas de custo e transporte relativo às deslocações em serviço público da generalidade dos trabalhadores em funções públicas.
+
+###### Artigo 6.º — Apoio logístico e administrativo
+
+O apoio logístico, administrativo e técnico-jurídico ao funcionamento da COMRSIN é prestado pela Secretaria-Geral do Ministério da Educação e Ciência.
+
+###### Artigo 7.º — Colaboração de outras entidades
+
+1 - Para prossecução das suas atribuições, a COMRSIN pode requerer a colaboração de técnicos pertencentes a outros organismos da administração pública, incluindo empresas públicas, instituições de ensino superior e forças armadas, bem como, subsidiariamente, de empresas privadas, para exercerem funções de apoio técnico e científico à COMRSIN, designadamente:
+
+a) Na avaliação das condições de segurança no transporte de combustível nuclear, fresco ou irradiado, e do transporte de fontes de radiação destinadas às instalações nucleares e dos resíduos radioativos delas provenientes;
+
+b) Na avaliação do impacto radioativo das instalações nucleares no ambiente e na população;
+
+c) Nas atividades de dosimetria, monitorização ambiental e metrologia de radiações ionizantes e calibração de sistemas e instrumentos de medição;
+
+d) No apoio à COMRSIN na prossecução das atribuições enunciadas nas alíneas f), g) e h) do artigo 8.º;
+
+e) Na emissão de pareceres técnicos e científicos.
+
+2 - No caso de técnicos pertencentes ao sector público, são disponibilizados pelos organismos a que pertencem, os quais suportam os encargos com a respetiva remuneração, cabendo à COMRSIN os encargos com as ajudas de custo e transporte nas deslocações decorrentes das funções de apoio técnico e científico à COMRSIN.
+
+###### Artigo 8.º — Atribuições
+
+1 - São atribuições da COMRSIN:
+
+a) Promover a elaboração de legislação e regulamentação no domínio da segurança nuclear, visando a melhoria contínua dos instrumentos de regulação da atividade;
+
+b) Avaliar e fiscalizar a segurança nuclear de instalações nucleares nas fases de escolha de local, projeto, construção, entrada em funcionamento, exploração ou desmantelamento, incluindo a análise de uma demonstração de segurança nuclear apresentada pelo requerente da licença, proporcional à potencial magnitude e à natureza do perigo relevante para a instalação nuclear e o respetivo local, emitindo as correspondentes licenças para o exercício da atividade, de acordo com um padrão de elevado nível de segurança nuclear, preservando e promovendo a melhoria contínua da segurança nuclear e a promoção e contínuo reforço de uma efetiva cultura de segurança nuclear;
+
+c) Inspecionar, exigir a demonstração do cumprimento dos requisitos nacionais de segurança nuclear e da respetiva licença, e ordenar medidas corretivas, incluindo a alteração das licenças, das condições de funcionamento ou dos procedimentos de exploração e ou o encerramento temporário ou definitivo das instalações, com as imposições que entender necessárias à proteção dos trabalhadores, da população em geral e do ambiente contra os riscos de exposição às radiações ionizantes decorrentes da construção, operação ou encerramento de instalações nucleares;
+
+d) Autorizar e fiscalizar as condições de segurança no transporte de combustível nuclear, fresco ou irradiado, e no transporte de fontes de radiação destinadas às instalações nucleares, bem como dos resíduos radioativos delas provenientes;
+
+e) Colaborar com as entidades competentes na elaboração dos planos de formação dos quadros e pessoal que tenha responsabilidades relacionadas com a segurança nuclear das instalações nucleares, a fim de obter, preservar e desenvolver qualificações e competências adequadas às necessidades, em matéria de segurança nuclear e de preparação para situações de emergência in situ;
+
+f) Promover, participar e dinamizar, em articulação com as autoridades competentes, a cooperação com instituições congéneres estrangeiras e com as agências e comissões especializadas de organismos e agências internacionais, assegurando a representação nacional nos grupos e comités de áreas das suas atribuições e proceder à elaboração e apresentação de relatórios cuja submissão decorra de obrigações externas assumidas pelo País;
+
+g) Participar na preparação de acordos internacionais e de cooperação científica e técnica no domínio das suas atribuições, em articulação com as autoridades competentes;
+
+h) Proceder ao acompanhamento do Acordo de Salvaguardas celebrado entre a República Portuguesa, a Comunidade Europeia da Energia Atómica e a Agência Internacional de Energia Atómica, em aplicação dos n.os 1 e 4 do artigo iii do Tratado de não Proliferação de Armas Nucleares, e do Protocolo Adicional ao referido Acordo;
+
+i) Proceder ao acompanhamento e fiscalização das instalações e dos materiais abrangidos pela Convenção sobre a Proteção Física dos Materiais Nucleares e Instalações Nucleares.
+
+2 - As decisões de regulamentação adotadas pela COMRSIN ao abrigo das suas atribuições deverão ser baseadas em requisitos fundamentados e transparentes em matéria de segurança nuclear.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21
+
+###### Artigo 9.º — Receitas
+
+1 - A COMRSIN dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A COMRSIN dispõe, ainda, das seguintes receitas próprias:
+
+a) As comparticipações ou subsídios concedidos por quaisquer entidades;
+
+b) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou por outro título, bem como as procedentes da prossecução das suas atribuições.
+
+###### Artigo 10.º — Despesas
+
+Constituem despesas da COMRSIN as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
+
+###### Artigo 11.º — Exploração de instalações nucleares
+
+A exploração de uma instalação nuclear, em qualquer das suas fases, pressupõe a prévia obtenção de licença emitida pela COMRSIN.
+
+###### Artigo 12.º — Titulares das licenças
+
+1 - Ao titular da licença de uma instalação nuclear incumbe a principal responsabilidade pela sua segurança, a qual não pode ser delegada ou transferida e inclui a responsabilidade pelas atividades de contratantes e subcontratantes cujas atividades possam afetar a segurança nuclear de uma instalação nuclear.
+
+2 - Os requisitos para que os titulares das licenças analisem, verifiquem e melhorem continuamente, na medida do razoável e sob a supervisão da COMRSIN, a segurança nuclear das suas instalações nucleares, de forma sistemática e verificável, são fixados em diploma próprio.
+
+3 - As avaliações referidas no número anterior devem incluir a verificação das medidas existentes para a prevenção de acidentes e a minoração das suas consequências, incluindo a verificação das barreiras físicas e dos procedimentos administrativos de proteção a efetuar pelo titular da licença que teriam de falhar para que os trabalhadores e a população em geral fossem significativamente afetados pelas radiações ionizantes.
+
+4 - As condições para que os titulares das licenças instituam e ponham em prática sistemas de gestão da segurança que deem a devida prioridade à segurança nuclear e sejam periodicamente verificados pela COMRSIN, no âmbito das respetivas atribuições, são fixadas em diploma próprio.
+
+5 - Os titulares de licença devem prever e manter os recursos financeiros e recursos humanos com as adequadas habilitações e competências, necessários para cumprir as suas obrigações relativamente à segurança nuclear da instalação nuclear, tal como previsto nos requisitos nacionais de segurança nuclear e na respetiva licença, sendo o cumprimento de tais condições regularmente verificado pela COMRSIN, de acordo com padrões aceites internacionalmente.
+
+6 - Os titulares de licenças asseguram que os contratantes e subcontratantes sob a sua responsabilidade, e cujas atividades possam afetar a segurança nuclear de uma instalação nuclear, disponham dos recursos humanos necessários com as adequadas habilitações e competências para cumprirem as suas obrigações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21
+
+###### Artigo 13.º — Dever de colaboração
+
+Os titulares de licenças devem prestar toda a colaboração solicitada pela COMRSIN na prossecução das suas atribuições.
+
+###### Artigo 14.º — Qualificações e competências em matéria de segurança
+
+Os planos de educação e formação para o pessoal das entidades relacionadas com a segurança nuclear das instalações nucleares são definidos por portaria dos membros do Governo responsáveis pelas áreas da economia e emprego e da educação e ciência, a publicar em 90 dias, tendo em vista preservar e desenvolver qualificações e competências no domínio da segurança nuclear.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21
+
+###### Artigo 15.º — Informação ao público
+
+1 - As informações relacionadas com a segurança nuclear das instalações nucleares e a correspondente regulamentação são, obrigatoriamente, facultadas aos trabalhadores e ao público em geral, prestando-se particular atenção às autoridades locais, à população e às partes interessadas que se encontrem na proximidade de uma instalação nuclear.
+
+2 - Sem prejuízo das obrigações de informação impostas aos titulares de licenças, cabe à COMRSIN garantir o cumprimento das obrigações de informação nos termos do número anterior, incluindo informar o público em geral sobre as condições normais de funcionamento das instalações nucleares.
+
+3 - Em caso de incidentes e acidentes, a COMRSIN colabora com a Autoridade Nacional de Proteção Civil, a quem cabe promover, nos termos do Decreto-Lei n.º 36/95, de 14 de fevereiro, na sua redação atual, e do Decreto-Lei n.º 174/2002, de 25 de julho, na sua redação atual, a informação rápida ao público em geral, bem como às autoridades reguladoras competentes de outros Estados-Membros na proximidade de uma instalação nuclear.
+
+4 - As informações são disponibilizadas ao público, sem necessidade de autorização de qualquer outro organismo ou organização, desde que tal não prejudique outros interesses imperativos, designadamente em matéria de segurança, reconhecidos pela legislação nacional e nas obrigações internacionais.
+
+5 - A COMRSIN deverá participar, se for conveniente, em atividades de cooperação sobre segurança nuclear de instalações nucleares com as autoridades reguladoras competentes de outros Estados-Membros na proximidade de uma instalação nuclear, nomeadamente através do intercâmbio ou partilha de informações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21
+
+###### Artigo 16.º — Relatórios e avaliações periódicas
+
+1 - Compete à COMRSIN:
+
+a) Elaborar o relatório periódico a enviar à Comissão Europeia sobre a aplicação da Diretiva n.º 2009/71/EURATOM, nos termos da mesma;
+
+b) Convidar à realização de avaliações internacionais pelos pares dos segmentos pertinentes do quadro nacional e da estrutura reguladora, no máximo de 10 em 10 anos, no intuito de melhorar constantemente a segurança nuclear, sendo os seus resultados comunicados aos restantes Estados-Membros da Comunidade Europeia de Energia Atómica e à Comissão Europeia, logo que forem conhecidos.
+
+2 - Compete ainda à COMRSIN a realização de uma avaliação nacional, pelo menos de seis em seis anos, baseada num tema específico relacionado com a segurança nuclear das instalações nucleares no território nacional, de forma coordenada com os restantes Estados-Membros, convidando-os, e à Comissão Europeia, a participarem enquanto observadores e a procederem à revisão desta avaliação enquanto pares.
+
+3 - Em caso de acidente que ocasione situações que exijam medidas de emergência no exterior da instalação ou medidas de proteção da população em território nacional, a COMRSIN convoca sem demora a realização de uma avaliação internacional pelos pares.
+
+4 - A COMRSIN deverá adotar ou promover a adoção das medidas adequadas a dar seguimento às conclusões pertinentes retiradas das avaliações nacionais e internacionais referidas nos números anteriores, elaborando e publicando relatórios pertinentes sobre estes processos de avaliação e suas principais conclusões, quando os resultados forem conhecidos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21
+
+###### Artigo 17.º — Norma transitória
+
+O disposto no n.º 1 do artigo 9.º aplica-se a partir de 2013.
+
+###### Artigo 18.º — Norma final
+
+No prazo de 90 dias após a entrada em vigor do presente diploma, a COMRSIN elabora uma proposta de decreto-lei que especifique as obrigações dos titulares de instalações nucleares, nos termos previstos no artigo 12.º do presente diploma.
+
+###### Artigo 19.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 48 568, de 4 de setembro de 1968;
+
+b) O Decreto-Lei n.º 49 398, de 24 de novembro de 1969;
+
+c) O Decreto n.º 487/72, de 5 de dezembro;
+
+d) A alínea a) do artigo 13.º do Decreto-Lei n.º 165/2002, de 17 de julho;
+
+e) A Portaria n.º 23 527, de 9 de agosto de 1968, alterada pela Portaria n.º 512/70, de 14 de outubro.
+
+Visto e aprovado em Conselho de Ministros de 5 de janeiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - Nuno Paulo de Sousa Arrobas Crato.
+
+Promulgado em 25 de janeiro de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 31 de janeiro de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

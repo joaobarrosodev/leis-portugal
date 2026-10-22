@@ -1,0 +1,387 @@
+---
+schema_version: '1.0'
+id: pt:dre:335230:por
+title: Portaria n.º 363/2010
+short_title: null
+summary: Regulamenta a certificação prévia dos programas informáticos de facturação do Código do Imposto sobre o Rendimento
+  das Pessoas Colectivas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 363/2010
+official_date: null
+publication_date: '2010-06-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 120/2010, Série I de 2010-06-23
+  number: '120'
+  series: I
+  supplement: null
+  pages: 2221 - 2223
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/12000/0222102223.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-02-16'
+version_history:
+  file: portaria-363-2010.versoes.json
+  count: 4
+  source_lastmod: '2024-11-05'
+  versions:
+  - date: '2010-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-04-28'
+    amending: pt:dre:260384:por
+    amending_title: Portaria n.º 160/2013
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Revoga Artigo 11.º
+  - date: '2014-01-01'
+    amending: pt:dre:503842:por
+    amending_title: Portaria n.º 340/2013
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+  - date: '2019-02-16'
+    amending: pt:dre:119622094:por
+    amending_title: Decreto-Lei n.º 28/2019
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/363/2010/p/cons/20190215/pt/html
+  oj: null
+  dre: '335230'
+  dre_path: /dr/detalhe/portaria/363-2010-335230
+  internal: pt:dre:335230:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/363-2010-335230
+  metadata_url: https://data.dre.pt/eli/port/363/2010/p/cons/20190215/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-119668497
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-119668497
+  retrieved_at: '2026-10-22T13:18:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-11-05T00:00:00Z'
+integrity:
+  source_sha256: b92b92030682a761c032e0ece2aa54b4262d0e1afe3a48ad32a771161e15f7af
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:18:49Z'
+  notes: 4 versão(ões); histórico completo em portaria-363-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Ficheiro Informático
+- Empresa
+- Contabilidade
+- Código do IRC
+- Software
+- Direcção Geral dos Impostos
+- IRS
+- IVA
+- Sistema de Informação
+- IRC
+relationships:
+- type: amended_by
+  target: pt:dre:260384:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º;
+    Revoga Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/160-2013-260384
+  date: '2013-04-23'
+- type: amended_by
+  target: pt:dre:503842:por
+  label: Altera Artigo 2.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/340-2013-503842
+  date: '2013-11-22'
+- type: amended_by
+  target: pt:dre:119622094:por
+  label: Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 8.º; Revoga Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094
+  date: '2019-02-15'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/147/2003/07/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/147/2003/07/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/58/2000/04/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/58/2000/04/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/321-a/2007/03/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/321-a/2007/03/26/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:18:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 363/2010
+
+Portaria n.º 363/2010
+
+de 23 de Junho
+
+A utilização crescente de sistemas de processamento electrónico de dados, nomeadamente para facturação da transmissão de bens ou de prestações de serviços, acarreta inegáveis vantagens em termos de celeridade do tratamento da informação.
+
+Todavia, introduz novos riscos em termos de controlo fiscal, pela possibilidade de subsequente adulteração dos dados registados, potenciando situações de evasão fiscal.
+
+Nesta perspectiva, importa definir regras para que os programas de facturação observem requisitos que garantam a inviolabilidade da informação inicialmente registada, permitindo-se, consequentemente, que apenas os programas que respeitem tais requisitos possam ser utilizados, após certificação pela AT.
+
+Foram observados os procedimentos de notificação à Comissão Europeia previstos no Decreto-Lei n.º 58/2000, de 18 de Abril.
+
+Assim:
+
+Manda o Governo, ao abrigo do disposto no n.º 8 do artigo 123.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, pelo Ministro de Estado e das Finanças, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A presente portaria:
+
+a) Regulamenta a utilização e certificação prévia dos programas informáticos de faturação, a que se refere o n.º 9 do artigo 123.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, abreviadamente designado por Código do IRC, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro;
+
+b) Regulamenta a emissão de documentos por equipamentos ou programas não certificados;
+
+c) [Revogada].
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 160/2013 - Diário da República n.º 79/2013, Série I de 2013-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/160-2013-260384), em vigor a partir de 2013-04-28
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 22-A/2012 - Diário da República n.º 17/2012, 1º Suplemento, Série I de 2012-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/22-a-2012-402697), produz efeitos a partir de 2012-04-01
+
+###### Artigo 2.º — Utilização de programas de faturação
+
+1 - Os sujeitos passivos de imposto sobre o rendimento das pessoas singulares (IRS) ou de imposto sobre o rendimento das pessoas coletivas (IRC), para emissão de faturas, nos termos dos artigos 36.º e 40.º do Código do Imposto sobre o Valor Acrescentado (IVA), estão obrigados a utilizar, exclusivamente, programas informáticos de faturação que tenham sido objeto de prévia certificação pela Autoridade Tributária e Aduaneira (AT).
+
+2 - Excluem-se do disposto no número anterior os sujeitos passivos que reúnam algum dos seguintes requisitos:
+
+a) [Revogada];
+
+b) Tenham tido, no período de tributação anterior, um volume de negócios inferior ou igual a (euro) 100 000;
+
+c) [Revogada];
+
+d) Os documentos emitidos através de aparelhos de distribuição automática ou prestações de serviços em que seja habitual a emissão de talão, bilhete de ingresso ou de transporte, senha ou outro documento pré-impresso e ao portador comprovativo do pagamento.
+
+3 - São ainda obrigados a utilizar programa certificado:
+
+a) Os sujeitos passivos referidos no n.º 1, ainda que abrangidos por qualquer das exclusões constantes do número anterior, quando optem, a partir da entrada em vigor da presente portaria, pela utilização de programa informático de faturação;
+
+b) Os sujeitos passivos que utilizem programa de faturação multiempresa.
+
+4 - Para efeitos do disposto no n.º 1, consideram-se também programas de faturação os programas que emitam apenas guias de transporte ou de remessa, que sirvam de documento de transporte, de acordo com o disposto no regime de bens em circulação, aprovado pelo Decreto-Lei n.º 147/2003, de 11 de julho.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 340/2013 - Diário da República n.º 227/2013, Série I de 2013-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/340-2013-503842), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 160/2013 - Diário da República n.º 79/2013, Série I de 2013-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/160-2013-260384), em vigor a partir de 2013-04-28
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 22-A/2012 - Diário da República n.º 17/2012, 1º Suplemento, Série I de 2012-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/22-a-2012-402697), produz efeitos a partir de 2012-04-01
+
+###### Artigo 3.º — Requisitos
+
+A certificação dos programas de faturação depende da verificação cumulativa dos seguintes requisitos:
+
+a) Ter a possibilidade de exportar o ficheiro a que se refere a Portaria n.º 321-A/2007, de 26 de Março;
+
+b) Possuir um sistema que permita identificar a gravação do registo de faturas e documentos retificativos, através de um algoritmo de cifra assimétrica e de uma chave privada de conhecimento exclusivo do produtor do programa;
+
+c) Possuir um controlo do acesso ao sistema informático, obrigando a uma autenticação de cada utilizador;
+
+d) Não dispor de qualquer função que, no local ou remotamente, permita alterar, directa ou indirectamente, a informação de natureza fiscal, sem gerar evidência agregada à informação original.
+
+e) Observar os demais requisitos técnicos aprovados por despacho do diretor-geral da AT.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 160/2013 - Diário da República n.º 79/2013, Série I de 2013-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/160-2013-260384), em vigor a partir de 2013-04-28
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 22-A/2012 - Diário da República n.º 17/2012, 1º Suplemento, Série I de 2012-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/22-a-2012-402697), produz efeitos a partir de 2012-04-01
+
+###### Artigo 4.º — Obrigações
+
+As empresas produtoras de software, antes da comercialização dos programas, para efeitos de certificação, devem enviar à AT:
+
+a) Uma declaração de modelo oficial, aprovado por despacho do Ministro das Finanças;
+
+b) A chave pública que permita validar a autenticidade e integridade do conjunto de dados a que se refere o artigo 6.º, assinados com a correspondente chave privada.
+
+###### Artigo 5.º — Emissão do certificado
+
+1 - A  AT emite, no prazo de 30 dias a contar da recepção da declaração referida no artigo anterior, o correspondente certificado do programa.
+
+2 - A emissão do certificado pode ser precedida de testes de conformidade devendo, para o efeito, o produtor do programa ser notificado, ficando suspenso o prazo previsto no número anterior até à conclusão dos respectivos testes.
+
+3 - Para verificação do cumprimento dos requisitos previstos no artigo 3.º, a AT pode, ainda, em qualquer momento, efectuar testes de conformidade, devendo o produtor do software disponibilizar um exemplar do programa e a documentação necessária, incluindo o dicionário de dados.
+
+4 - A AT mantém no seu sítio, na Internet, uma lista actualizada dos programas e respectivas versões certificadas, bem como a identificação dos produtores.
+
+5 - A versão certificada de um programa de faturação tem de observar os correspondentes requisitos, ainda que seja utilizada por sujeito passivo não obrigado a ter programa certificado.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 22-A/2012 - Diário da República n.º 17/2012, 1º Suplemento, Série I de 2012-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/22-a-2012-402697), produz efeitos a partir de 2012-04-01
+
+###### Artigo 6.º — Sistema de identificação
+
+1 - O sistema de identificação a que se refere a alínea b) do artigo 3.º deve utilizar o algoritmo de cifra assimétrica RSA, recebendo como argumento os seguintes dados concatenados, pela ordem indicada, com o separador «;» (ponto e vírgula), que constituem a mensagem a assinar com a chave privada, constantes da tabela 4.1 - Documentos comerciais a clientes (SalesInvoices):
+
+a) A data de criação do documento de venda [campo 4.1.4.6 - data do documento de venda (InvoiceDate) do SAF-T (PT)];
+
+b) A data e hora da criação do documento de venda [campo 4.1.4.11 - data de gravação do documento (SystemEntryDate) do SAF-T (PT)];
+
+c) O número do documento de venda [campo 4.1.4.1 - identificação única do documento de venda (InvoiceNo) do SAF-T (PT)];
+
+d) O valor do documento de venda [campo 4.1.4.19.3 - total do documento com impostos (GrossTotal) do SAF-T (PT)];
+
+e) A assinatura gerada no documento anterior, do mesmo tipo e série de documento [campo 4.1.4.3 - chave do documento (Hash) do SAF-T (PT)].
+
+2 - A assinatura resultante do disposto no número anterior e a versão da chave privada de encriptação devem ficar guardadas na base de dados do programa de facturação.
+
+3 - Os documentos assinados, nos termos do n.º 1, devem conter impresso:
+
+a) Um conjunto de quatro caracteres da assinatura a que se refere o número anterior, correspondentes à 1.ª, 11.ª, 21.ª e 31.ª posições, e separado por hífen;
+
+b) O número do certificado atribuído ao respetivo programa, utilizando para o efeito a expressão "Processado por programa certificado n.º...";
+
+c) A identificação única dos documentos, conforme alínea c) do n.º 1 do presente artigo e pontos iii) das alíneas a) e b) do n.º 2 do artigo seguinte.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 340/2013 - Diário da República n.º 227/2013, Série I de 2013-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/340-2013-503842), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 160/2013 - Diário da República n.º 79/2013, Série I de 2013-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/160-2013-260384), em vigor a partir de 2013-04-28
+
+###### Artigo 7.º — Documentos de transporte e outros
+
+1 - São ainda assinados nos termos do artigo 6.º:
+
+a) Os documentos, nomeadamente, guias de transporte ou de remessa, que sirvam de documento de transporte, de acordo com o disposto no regime de bens em circulação, aprovado pelo Decreto-Lei n.º 147/2003, de 11 de julho;
+
+b) Quaisquer outros documentos, independentemente da sua designação, suscetíveis de apresentação ao cliente para conferência de entrega de mercadorias ou da prestação de serviços, nomeadamente as designadas consultas de mesa.
+
+2 - Para efeitos do disposto no número anterior, devem ser utilizados os seguintes dados:
+
+a) No caso da tabela 4.2 - Documentos de movimentação de mercadorias (MovementOfGoods):
+
+i) A data de criação do documento de movimentação de mercadorias [campo 4.2.3.6 - data do documento de movimentação de mercadorias (MovementDate) do SAF-T (PT)];
+
+ii) A data e hora da criação do documento de movimentação de mercadorias [campo 4.2.3.8 - data de gravação do documento (SystemEntryDate) do SAF-T (PT)];
+
+iii) O número do documento de movimentação de mercadorias [campo 4.2.3.1 - identificação única do documento de movimentação de mercadorias (DocumentNumber) do SAF-T (PT)];
+
+iv) O valor do documento de movimentação de mercadorias [campo 4.2.3.21.3 - total do documento com impostos (GrossTotal) do SAF-T (PT)];
+
+v) A assinatura gerada no documento anterior, do mesmo tipo e série do documento [campo 4.2.3.3 - chave do documento (Hash) do SAF-T (PT)].
+
+b) No caso da tabela 4.3 - Documentos de conferência de entrega de mercadorias ou da prestação de serviços (WorkingDocuments):
+
+i) A data de criação do documento de conferência [campo 4.3.4.6 - data do documento (WorkDate) do SAF-T (PT)];
+
+ii) A data e hora da criação do documento de conferência [campo 4.3.4.10 - data de gravação do documento (SystemEntryDate) do SAF-T (PT)];
+
+iii) O número do documento de conferência [campo 4.3.4.1 - identificação única do documento (DocumentNumber) do SAF-T (PT)];
+
+iv) O valor do documento de conferência [campo 4.3.4.13.3 - total do documento com impostos (GrossTotal) do SAF-T (PT)];
+
+v) A assinatura gerada no documento anterior, do mesmo tipo e série do documento [campo 4.3.4.3 - chave do documento (Hash) do SAF-T (PT)].
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 160/2013 - Diário da República n.º 79/2013, Série I de 2013-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/160-2013-260384), em vigor a partir de 2013-04-28
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 22-A/2012 - Diário da República n.º 17/2012, 1º Suplemento, Série I de 2012-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/22-a-2012-402697), produz efeitos a partir de 2012-04-01
+
+###### Artigo 8.º — Utilização de faturas impressas em tipografias
+
+Os sujeitos passivos referidos no artigo 2.º só podem emitir faturas ou documentos de transporte impressas em tipografias autorizadas em caso de inoperacionalidade do programa de faturação, devendo ser posteriormente recuperadas para o programa.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 340/2013 - Diário da República n.º 227/2013, Série I de 2013-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/340-2013-503842), em vigor a partir de 2014-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 22-A/2012 - Diário da República n.º 17/2012, 1º Suplemento, Série I de 2012-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/22-a-2012-402697), produz efeitos a partir de 2012-04-01
+
+###### Artigo 9.º — Documentos emitidos por máquinas registadoras
+
+1 - Os equipamentos ou programas de faturação certificados ou não que, para além das faturas, emitam para os clientes quaisquer documentos de conferência da entrega de mercadorias ou da prestação de serviços, nomeadamente as designadas consultas de mesa, devem:
+
+a) Numerar sequencialmente esses documentos, que devem conter ainda os seguintes elementos:
+
+i) Data e hora da emissão;
+
+ii) Denominação social e número de identificação fiscal do fornecedor de bens ou prestador de serviços;
+
+iii) Denominação usual e quantidades dos bens transmitidos ou dos serviços prestados;
+
+iv) O preço líquido de imposto e o montante de imposto devido, ou o preço com a inclusão do imposto;
+
+v) A indicação de que não serve de fatura;
+
+b) Registar os documentos numa série específica, em base de dados, no rolo interno da fita da máquina ou no jornal eletrónico, evidenciando igualmente os documentos anulados.
+
+2 - Os documentos emitidos, em modo de treino, pelos equipamentos ou programas de faturação não certificados, devem conter menção expressa de tal facto.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 340/2013 - Diário da República n.º 227/2013, Série I de 2013-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/340-2013-503842), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 160/2013 - Diário da República n.º 79/2013, Série I de 2013-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/160-2013-260384), em vigor a partir de 2013-04-28
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 22-A/2012 - Diário da República n.º 17/2012, 1º Suplemento, Série I de 2012-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/22-a-2012-402697), produz efeitos a partir de 2012-04-01
+
+###### Artigo 10.º — Revogação do certificado
+
+O membro do Governo responsável pela área das finanças, por proposta do director-geral dos Impostos, pode determinar a revogação do certificado emitido nos termos do artigo 5.º, quando deixarem de ser observados os requisitos previstos no artigo 3.º
+
+> Alterado pelo/a [Portaria n.º 22-A/2012 - Diário da República n.º 17/2012, 1º Suplemento, Série I de 2012-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/22-a-2012-402697), produz efeitos a partir de 2012-04-01
+
+###### Artigo 11.º — Alteração à Portaria n.º 1192/2009
+
+1 - A nota técnica do campo 4.1.4.3 da estrutura de dados constante do anexo à Portaria n.º 1192/2009, de 8 de Outubro, passa a ter a seguinte redacção: «Assinatura nos termos da portaria que regulamenta a certificação dos programas informáticos de facturação. O campo deve ser preenchido com '0' (zero), caso não haja obrigatoriedade de certificação.».
+
+2 - O formato do campo referido no número anterior passa a ser: «Texto 200».
+
+3 - A nota técnica do campo 4.1.4.4 da referida estrutura de dados passa a ter a seguinte redacção: «Versão da chave privada utilizada na criação da assinatura do campo 4.1.4.3».
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 160/2013 - Diário da República n.º 79/2013, Série I de 2013-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/160-2013-260384), em vigor a partir de 2013-04-28
+
+> Alterado pelo/a [Portaria n.º 22-A/2012 - Diário da República n.º 17/2012, 1º Suplemento, Série I de 2012-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/22-a-2012-402697), produz efeitos a partir de 2012-04-01
+
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 7 de Maio de 2010.

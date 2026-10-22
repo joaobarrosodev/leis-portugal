@@ -1,0 +1,217 @@
+---
+schema_version: '1.0'
+id: pt:dre:671474:por
+title: Declaração de Rectificação n.º 25/2011
+short_title: null
+summary: Rectifica o Decreto-Lei n.º 70/2011, de 16 de Junho, da Presidência do Conselho de Ministros, que determina, de forma
+  expressa, no âmbito do programa SIMPLEGIS, que certos decretos-leis não se encontram em vigor, em razão de caducidade, revogação
+  tácita anterior ou revogação efectuada pelo presente decreto-lei, publicado no Diário da República, 1.ª série, n.º 115,
+  de 16 de Junho de 2011
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros - Centro Jurídico
+proposing_entity: null
+official_number: 25/2011
+official_date: null
+publication_date: '2011-08-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 155/2011, Série I de 2011-08-12
+  number: '155'
+  series: I
+  supplement: null
+  pages: 4263 - 4264
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/08/15500/0426304264.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/25/2011/08/12/p/dre/pt/html
+  oj: null
+  dre: '671474'
+  dre_path: /dr/detalhe/declaracao-rectificacao/25-2011-671474
+  internal: pt:dre:671474:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2011-671474
+  metadata_url: https://data.dre.pt/eli/declrectif/25/2011/08/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2011-671474
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-08-12T00:00:00Z'
+integrity:
+  source_sha256: 1f365881a4120d51463119b216fcb1a5f2e0d8ce7ab0a6c2b0c44646a88ecffd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-25-671474.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Simplegis
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/70/2011/06/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/2011/06/16/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 25/2011
+
+Ao abrigo das disposições conjugadas da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do [Decreto-Lei n.º 162/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2007-521257), de 3 de Maio, e dos n.os 2 e 3 do artigo 41.º do Código do Procedimento Administrativo, por vacatura dos cargos de director e director-adjunto, declara-se que o [Decreto-Lei n.º 70/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2011-670001), de 16 de Junho, publicado no Diário da República, 1.ª série, n.º 115, de 16 de Junho de 2011, saiu com a seguinte inexactidão que, mediante declaração da entidade emitente, assim se rectifica:
+
+Onde se lê:
+
+«Artigo 7.º
+
+Economia
+
+Nos termos do artigo 1.º, determina-se a não vigência, na área de atribuições da economia, dos seguintes decretos-leis:
+
+a) [Decreto-Lei n.º 48/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1974-407498), de 14 de Fevereiro, que criou, na Secretaria de Estado da Indústria, o Fundo de Fomento Industrial;
+
+b) [Decreto-Lei n.º 72/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1974-412667), de 28 de Fevereiro, que alterava as regras relativas a garantias de liquidez e solvabilidade dos bancos comerciais;
+
+c) [Decreto-Lei n.º 108/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1974-412426), de 15 de Março, que extinguiu o Ministério da Economia e a Secretaria de Estado da Indústria e criou o Ministério da Agricultura e Comércio e o da Indústria e Energia;
+
+d) [Decreto-Lei n.º 187/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1974-623201), de 6 de Maio, que revogava uma disposição do [Decreto n.º 551/71](https://diariodarepublica.pt/dr/detalhe/decreto/551-1971-158609), de 15 de Dezembro, sobre a sujeição a registo prévio, no território do continente e ilhas adjacentes, das operações de importação e das de exportação ou reexportação de mercadorias de ou para as províncias ultramarinas;
+
+e) [Decreto-Lei n.º 191/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1974-623200), de 6 de Maio, que criava a Comissão de Controlo do Comércio Externo e definia diversas medidas transitórias para assegurar o regular abastecimento do país em produtos essenciais;
+
+f) [Decreto-Lei n.º 252/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1974-622835), de 12 de Junho, que introduzia alterações ao Estatuto da Empresa Pública de Parques Industriais, relativamente aos poderes do conselho de administração e à prestação de contas;
+
+g) [Decreto-Lei n.º 256/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1974-622815), de 15 de Junho, que determinava que a Junta Nacional da Marinha Mercante e o Fundo de Renovação da Marinha Mercante passassem a depender da Secretaria de Estado da Marinha Mercante;
+
+h) [Decreto-Lei n.º 305/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1974-476344), de 6 de Julho, que estabeleceu normas relativas à comercialização do açúcar em rama e refinado;
+
+i) [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, que estabelecia os regimes dos preços dos bens ou serviços vendidos no mercado interno;
+
+j) [Decreto-Lei n.º 329-B/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-1974-560232), de 10 de Julho, que criou na Secretaria de Estado do Abastecimento e Preços a Direcção-Geral de Preços (DGP) e extinguiu o Conselho Nacional dos Preços;
+
+l) [Decreto-Lei n.º 329-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-c-1974-560233), de 10 de Julho, que criou na Secretaria de Estado do Abastecimento e Preços a Direcção-Geral do Comércio Interno (DGCI) e extinguiu a Comissão Nacional do Frio;
+
+m) [Decreto-Lei n.º 329-D/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-d-1974-560234), de 10 de Julho, que criou, na Secretaria de Estado do Abastecimento e Preços, a Direcção-Geral de Fiscalização Económica e extinguiu a Inspecção -Geral das Actividades Económicas;
+
+n) [Decreto-Lei n.º 329-E/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-e-1974-560235), de 10 de Julho, relativo ao abono de juros aos depósitos à ordem, depósitos com pré-aviso e depósitos a prazo;
+
+o) [Decreto-Lei n.º 365/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1974-475709), de 17 de Agosto, relativo aos regimes dos preços dos bens ou serviços vendidos no mercado interno;
+
+p) [Decreto-Lei n.º 413/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1974-474901), de 6 de Setembro, que determinava a abolição do regime de quotas de rateio de ramas de açúcar;
+
+q) [Decreto-Lei n.º 437/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1974-473757), de 11 de Setembro, relativo ao exercício da indústria hoteleira e similares;
+
+r) [Decreto-Lei n.º 443/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1974-473734), de 12 de Setembro, que extinguia os organismos corporativos dependentes do Ministério da Economia;
+
+s) [Decreto-Lei n.º 444/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1974-473736), de 12 de Setembro, que aprovou o Regulamento da Peneiração das Farinhas em Rama;
+
+t) [Decreto-Lei n.º 470/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/470-1974-473287), de 20 de Setembro, que criou, na Secretaria de Estado do Comércio Externo e Turismo, do Ministério da Economia, o cargo de Subsecretário de Estado do Turismo;
+
+u) [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, que definia a orgânica geral do Ministério da Economia e das Secretarias de Estado nele compreendidas;
+
+v) [Decreto-Lei n.º 540/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1974-585843), de 12 de Outubro, que reestruturava os serviços da administração pública com funções no sector do comércio externo;
+
+x) [Decreto-Lei n.º 631/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/631-1974-465449), de 18 de Novembro, que alterou o regime do Fundo de Turismo;
+
+z) [Decreto-Lei n.º 649/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1974-466039), de 21 de Novembro, que autorizava a Administração dos Portos do Douro e Leixões a celebrar contrato com a Sociedade Anónima de Refinação de Petróleos em Portugal;
+
+aa) [Decreto-Lei n.º 659/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/659-1974-466191), de 23 de Novembro, que autorizava a Administração dos Portos do Douro e Leixões a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo;
+
+bb) [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), de 26 de Novembro, relativo ao exercício da indústria de moagem;
+
+cc) [Decreto-Lei n.º 718/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/718-1974-298214), de 17 de Dezembro, que definia o regime jurídico geral dos contratos de desenvolvimento.»
+
+deve ler-se:
+
+«Artigo 7.º
+
+Economia
+
+Nos termos do artigo 1.º, determina-se a não vigência, na área de atribuições da economia, dos seguintes decretos-leis:
+
+a) [Decreto-Lei n.º 48/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1974-407498), de 14 de Fevereiro, que criou, na Secretaria de Estado da Indústria, o Fundo de Fomento Industrial;
+
+b) [Decreto-Lei n.º 72/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1974-412667), de 28 de Fevereiro, que alterava as regras relativas a garantias de liquidez e solvabilidade dos bancos comerciais;
+
+c) [Decreto-Lei n.º 108/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1974-412426), de 15 de Março, que extinguiu o Ministério da Economia e a Secretaria de Estado da Indústria e criou o Ministério da Agricultura e Comércio e o da Indústria e Energia;
+
+d) [Decreto-Lei n.º 187/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1974-623201), de 6 de Maio, que revogava uma disposição do [Decreto n.º 551/71](https://diariodarepublica.pt/dr/detalhe/decreto/551-1971-158609), de 15 de Dezembro, sobre a sujeição a registo prévio, no território do continente e ilhas adjacentes, das operações de importação e das de exportação ou reexportação de mercadorias de ou para as províncias ultramarinas;
+
+e) [Decreto-Lei n.º 191/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1974-623200), de 6 de Maio, que criava a Comissão de Controlo do Comércio Externo e definia diversas medidas transitórias para assegurar o regular abastecimento do país em produtos essenciais;
+
+f) [Decreto-Lei n.º 252/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1974-622835), de 12 de Junho, que introduzia alterações ao Estatuto da Empresa Pública de Parques Industriais, relativamente aos poderes do conselho de administração e à prestação de contas;
+
+g) [Decreto-Lei n.º 256/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1974-622815), de 15 de Junho, que determinava que a Junta Nacional da Marinha Mercante e o Fundo de Renovação da Marinha Mercante passassem a depender da Secretaria de Estado da Marinha Mercante;
+
+h) [Decreto-Lei n.º 305/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1974-476344), de 6 de Julho, que estabeleceu normas relativas à comercialização do açúcar em rama e refinado;
+
+i) [Decreto-Lei n.º 329-B/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-1974-560232), de 10 de Julho, que criou na Secretaria de Estado do Abastecimento e Preços a Direcção-Geral de Preços (DGP) e extinguiu o Conselho Nacional dos Preços;
+
+j) [Decreto-Lei n.º 329-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-c-1974-560233), de 10 de Julho, que criou na Secretaria de Estado do Abastecimento e Preços a Direcção-Geral do Comércio Interno (DGCI) e extinguiu a Comissão Nacional do Frio;
+
+l) [Decreto-Lei n.º 329-D/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-d-1974-560234), de 10 de Julho, que criou, na Secretaria de Estado do Abastecimento e Preços, a Direcção-Geral de Fiscalização Económica e extinguiu a Inspecção-Geral das Actividades Económicas;
+
+m) [Decreto-Lei n.º 329-E/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-e-1974-560235), de 10 de Julho, relativo ao abono de juros aos depósitos à ordem, depósitos com pré-aviso e depósitos a prazo;
+
+n) [Decreto-Lei n.º 365/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1974-475709), de 17 de Agosto, relativo aos regimes dos preços dos bens ou serviços vendidos no mercado interno;
+
+o) [Decreto-Lei n.º 413/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1974-474901), de 6 de Setembro, que determinava a abolição do regime de quotas de rateio de ramas de açúcar;
+
+p) [Decreto-Lei n.º 437/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1974-473757), de 11 de Setembro, relativo ao exercício da indústria hoteleira e similares;
+
+q) [Decreto-Lei n.º 443/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1974-473734), de 12 de Setembro, que extinguia os organismos corporativos dependentes do Ministério da Economia;
+
+r) [Decreto-Lei n.º 444/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1974-473736), de 12 de Setembro, que aprovou o Regulamento da Peneiração das Farinhas em Rama;
+
+s) [Decreto-Lei n.º 470/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/470-1974-473287), de 20 de Setembro, que criou, na Secretaria de Estado do Comércio Externo e Turismo, do Ministério da Economia, o cargo de Subsecretário de Estado do Turismo;
+
+t) [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, que definia a orgânica geral do Ministério da Economia e das Secretarias de Estado nele compreendidas;
+
+u) [Decreto-Lei n.º 540/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1974-585843), de 12 de Outubro, que reestruturava os serviços da administração pública com funções no sector do comércio externo;
+
+v) [Decreto-Lei n.º 631/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/631-1974-465449), de 18 de Novembro, que alterou o regime do Fundo de Turismo;
+
+x) [Decreto-Lei n.º 649/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1974-466039), de 21 de Novembro, que autorizava a Administração dos Portos do Douro e Leixões a celebrar contrato com a Sociedade Anónima de Refinação de Petróleos em Portugal;
+
+z) [Decreto-Lei n.º 659/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/659-1974-466191), de 23 de Novembro, que autorizava a Administração dos Portos do Douro e Leixões a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo;
+
+aa) [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), de 26 de Novembro, relativo ao exercício da indústria de moagem;
+
+bb) [Decreto-Lei n.º 718/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/718-1974-298214), de 17 de Dezembro, que definia o regime jurídico geral dos contratos de desenvolvimento.»
+
+Centro Jurídico, 10 de Agosto de 2011. - O Director, em substituição, nos termos do artigo 41.º do Código do Procedimento Administrativo, José Manuel Bento Ferreira de Almeida.

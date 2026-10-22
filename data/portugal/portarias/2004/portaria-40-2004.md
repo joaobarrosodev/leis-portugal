@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:603033:por
+title: Portaria n.º 40/2004
+short_title: null
+summary: Estabelece os valores e critérios de determinação das comparticipações das famílias na frequência de estabelecimentos
+  de educação especial por crianças e jovens com deficiência, com vista ao cálculo do respectivo subsídio de educação especial.
+  Revoga a Portaria n.º 134/2003, de 6 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Segurança Social e do Trabalho
+proposing_entity: null
+official_number: 40/2004
+official_date: null
+publication_date: '2004-01-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 11/2004, Série I-B de 2004-01-14
+  number: '11'
+  series: I
+  supplement: null
+  pages: 270 - 271
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/01/011b00/02700271.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/40/2004/01/14/p/dre/pt/html
+  oj: null
+  dre: '603033'
+  dre_path: /dr/detalhe/portaria/40-2004-603033
+  internal: pt:dre:603033:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/40-2004-603033
+  metadata_url: https://data.dre.pt/eli/port/40/2004/01/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/40-2004-603033
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-11-05T00:00:00Z'
+integrity:
+  source_sha256: 7068d053c45e14df23a201951eaf1b4709d1c757620077fd848a494a0d510789
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-40-603033.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Deficiente
+- ADSE
+- Educação Especial
+- Comparticipação Familiar
+- Administração Pública
+- Proteção ao Deficiente
+- Prestações da Segurança Social
+- Regimes de Segurança Social
+- Segurança Social
+- Subsídio de Educação Especial
+relationships:
+- type: amended_by
+  target: pt:dre:548264:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/133-b/1997/05/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133-b/1997/05/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/176/2003/08/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/176/2003/08/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/19/1998/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/19/1998/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/134/2003/02/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/134/2003/02/06/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 40/2004
+
+de 14 de Janeiro
+
+De acordo com o disposto no artigo 6.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, na redacção dada pelo [Decreto Regulamentar n.º 19/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1998-437804), de 14 de Agosto, o valor do subsídio de educação especial é obtido através da dedução do valor da comparticipação familiar ao montante da mensalidade praticada pelo estabelecimento, sendo o valor da comparticipação familiar calculado a partir da aplicação de percentagens correspondentes a escalões de poupança mensal do agregado familiar.
+
+Neste contexto, importa proceder à actualização das referidas componentes que servem de base à determinação do subsídio de educação especial, ou seja, das receitas das famílias, tendo em consideração a evolução salarial e o aumento das respectivas despesas, para assim apurar o valor da poupança familiar e, consequentemente, da comparticipação familiar, tendo em vista a determinação do montante do subsídio a receber.
+
+Por outro lado, na sequência do que vinha sendo estabelecido, considera-se que o montante mínimo de comparticipação familiar deve corresponder ao valor do subsídio familiar a crianças e jovens, procurando-se, assim, uma corresponsabilização mínima das famílias no apoio sócio-educativo às crianças e jovens com deficiência.
+
+Todavia, face às alterações legais verificadas, este critério apenas se reportará ao mês de Setembro de 2003, visto que a partir de 1 de Outubro entrou em vigor o [Decreto-Lei n.º 176/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2003-652702), de 2 de Agosto, que regula a atribuição do abono de família para crianças e jovens. Assim, além de se proceder ao ajustamento do critério em função do novo quadro legal, houve necessidade de introduzir um preceito que regule o apuramento do valor mínimo de comparticipação familiar, durante o período em que se manteve a vigência da legislação anterior.
+
+Nestes termos, ao abrigo da alínea b) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 133-B/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-b-1997-158179), de 30 de Maio, e dos artigos 6.º e 9.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, na redacção dada pelo [Decreto Regulamentar n.º 19/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1998-437804), de 14 de Agosto:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Segurança Social e do Trabalho, o seguinte:
+
+1.º
+
+Objecto
+
+A presente portaria estabelece os valores e critérios de determinação das comparticipações das famílias na frequência de estabelecimentos de educação especial por crianças e jovens com deficiência, com vista ao cálculo do respectivo subsídio de educação especial, previsto no âmbito das prestações familiares, que integra os regimes de segurança social e de protecção social da função pública.
+
+2.º
+
+Determinação do valor da comparticipação das famílias
+
+1 - É aprovada a tabela para a determinação do valor da comparticipação das famílias prevista no n.º 1 do artigo 9.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, na redacção dada pelo [Decreto Regulamentar n.º 19/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1998-437804), de 14 de Agosto:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02700271.pdf)
+
+2 - Na modalidade de internato a comparticipação não pode ser inferior ao montante de abono de família concedido a crianças e jovens com idade superior a 12 meses correspondente ao 5.º escalão, deduzido do montante da bonificação por deficiência que lhe acresça, se for caso disso.
+
+3 - Na modalidade de semi-internato, a comparticipação não pode ser inferior a metade do valor apurado nos termos fixados no número anterior.
+
+3.º
+
+Determinação da poupança familiar
+
+É aprovada a tabela das despesas anuais fixas a considerar para o cálculo da poupança familiar e determinação da comparticipação das famílias, de harmonia com o disposto no n.º 2 do artigo 9.º e no artigo 10.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, na redacção dada pelo [Decreto Regulamentar n.º 19/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1998-437804), de 14 de Agosto:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/011b00/02700271.pdf)
+
+4.º
+
+Actuação das instituições e serviços
+
+As instituições e serviços processadores do subsídio de educação especial devem proceder com rigor na determinação do quantitativo da prestação através do apuramento do valor da comparticipação familiar, designadamente:
+
+a) Analisando criteriosamente os elementos de prova apresentados ou exigíveis para conhecimento actualizado das receitas do agregado familiar da criança ou do jovem com deficiência;
+
+b) Exercendo, sempre que necessário, o poder conferido pelo n.º 4 do artigo 10.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, na redacção dada pelo [Decreto Regulamentar n.º 19/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1998-437804), de 14 de Agosto, quanto à verificação da suficiência e exactidão dos elementos fornecidos.
+
+5.º
+
+Norma transitória
+
+A comparticipação familiar a que se refere o n.º 2 do n.º 2.º da presente portaria, relativa ao mês de Setembro de 2003, não pode ser inferior ao montante do subsídio familiar a crianças e jovens, recebido por um só filho de idade superior a 12 meses, correspondente ao último escalão, deduzido dos montantes de eventuais majorações e bonificações específicas que lhe acresçam.
+
+6.º
+
+Produção de efeitos e revogação
+
+A presente portaria produz efeitos a partir de 1 de Setembro de 2003 e revoga a [Portaria n.º 134/2003](https://diariodarepublica.pt/dr/detalhe/portaria/134-2003-200032), de 6 de Fevereiro.
+
+Em 16 de Dezembro de 2003.
+
+**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix.**

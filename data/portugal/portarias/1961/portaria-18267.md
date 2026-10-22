@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:555791:por
+title: Portaria n.º 18267
+short_title: null
+summary: Cria na província ultramarina de Macau uma zona de turismo, abrangendo todo o território da província e tendo a sua
+  sede na cidade de Macau
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Agência-Geral do Ultramar
+proposing_entity: null
+official_number: '18267'
+official_date: null
+publication_date: '1961-02-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 37/1961, Série I de 1961-02-13
+  number: '37'
+  series: I
+  supplement: null
+  pages: 148 - 148
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/02/03700/01480148.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '555791'
+  dre_path: /dr/detalhe/portaria/18267-1961-555791
+  internal: pt:dre:555791:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/18267-1961-555791
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18267-1961-555791
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1961-02-13T00:00:00Z'
+integrity:
+  source_sha256: 4db2d9ed4f721d6c03e12475ee184650a61a166be08ff210fd293882c6a19b4b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1961/DRE-1961-18267-555791.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 18267
+
+Considerando que, embora já criado pelo [Decreto-Lei n.º 42194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42194-1959-586599), de 27 de Março de 1959, e [Portaria n.º 18111](https://diariodarepublica.pt/dr/detalhe/portaria/18111-1960-512785), de 7 de Dezembro de 1960, o Centro de Informação e Turismo de Macau não iniciou ainda a sua actividade;
+
+Considerando que compete à Repartição dos Serviços de Turismo da Agência-Geral do Ultramar, nos termos do n.º 2.º do artigo 12.º do [Decreto n.º 41407](https://diariodarepublica.pt/dr/detalhe/decreto/41407-1957-252394), de 28 de Novembro de 1957, definir zonas de turismo e propor o regime especial a que devem ficar sujeitas;
+
+Considerando que pelo n.º 22.º do artigo 9.º do [Decreto-Lei n.º 42194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42194-1959-586599), de 27 de Março de 1959, compete igualmente aos centros de informação e turismo propor ao governo da província a criação de zonas de turismo, incluindo a delimitação das respectivas áreas e fixação da sede e tudo o mais que com elas se relacione, sendo, porém, esta competência necessàriamente exercida em colaboração com a Agência-Geral do Ultramar, conforme preceitua o artigo 11.º do mesmo decreto-lei;
+
+Considerando ainda que o artigo 11.º do [Decreto n.º 41407](https://diariodarepublica.pt/dr/detalhe/decreto/41407-1957-252394), de 28 de Novembro de 1957, deu à Repartição dos Serviços de Turismo da Agência-Geral do Ultramar a incumbência de, quando necessário, suprir a actividade dos centros;
+
+Considerando, por sua vez, que o turismo pode ser um factor primacial da transformação da actual estrutura da economia de Macau, por constituir uma apreciável fonte de riqueza;
+
+Considerando, finalmente, que, para se atingir este objectivo, se impõe tomar as necessárias providências tendentes a fomentar o desenvolvimento desta prometedora indústria, proporcionando-se assim à província novas possibilidades de vida:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, de acordo com o disposto no n.º I da base LXXXIX da Lei Orgânica do Ultramar Português, o seguinte:
+
+1.º É criada na província de Macau, por proposta da Repartição dos Serviços de Turismo da Agência-Geral do Ultramar, nos termos do artigo 11.º e do n.º 2.º do artigo 12.º do [Decreto n.º 41407](https://diariodarepublica.pt/dr/detalhe/decreto/41407-1957-252394), de 28 de Novembro de 1957, uma zona de turismo, abrangendo todo o território da província e tendo a sua sede na cidade de Macau.
+
+2.º O regime a que ficará sujeita esta zona de turismo será definido em regulamento especial a publicar pelo Governo da província e a fiscalizar pelo respectivo Centro de Informação e Turismo.
+
+3.º A zona de turismo criada por este diploma não é abrangida pela proibição constante da portaria de 10 de Julho de 1896.
+
+4.º Para completa execução deste diploma, fica o Governo da província autorizado a dar desde já a necessária concessão ou concessões por um período experimental e a fixar o seu condicionamento a título provisório e precário.
+
+Ministério do Ultramar, 13 de Fevereiro de 1961. - O Ministro do Ultramar, Vasco Lopes Alves.
+
+Para ser publicada no Boletim Oficial de Macau. - Vasco Lopes Alves.

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:977507251:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2025-992618940",
+ "dre_path": "/dr/detalhe/despacho-extrato/14787-2025-977507251",
+ "source_lastmod": "2026-01-13",
+ "versions": [
+  {
+   "date": "2025-12-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "992625728"
+   ]
+  }
+ ],
+ "fragments": {
+  "992625728": {
+   "fragment_id": "992618941",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho (extrato)  n.º 14787/2025\n\nEm cumprimento do disposto na alínea b) do n.º 1 e no n.º 2 do artigo 4.º da Lei n.º 35/2014, de 20 de junho, torna-se público que, nos termos do artigo 99.º-A da Lei Geral do Trabalho em Funções Públicas, aprovada pela referida Lei n.º 35/2014, de 20 de junho, por despacho da Reitora da Universidade dos Açores, de 1 de setembro de 2025, foi autorizada, com efeitos a 1 de junho de 2025, a consolidação definitiva da mobilidade interna, na modalidade de mobilidade intercarreiras, do trabalhador do mapa de pessoal da Universidade dos Açores:\n\n| Nome | Categoria | Posição remuneratória | Nível remuneratório |\n| --- | --- | --- | --- |\n| Márcio Alexandre Cabral Silva | Técnico superior | 1.ª | 16 |"
+  }
+ }
+}

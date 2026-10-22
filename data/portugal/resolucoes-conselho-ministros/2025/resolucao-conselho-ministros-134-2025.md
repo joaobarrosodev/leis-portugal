@@ -1,0 +1,270 @@
+---
+schema_version: '1.0'
+id: pt:dre:934502552:por
+title: Resolução do Conselho de Ministros n.º 134/2025
+short_title: null
+summary: Cria o modelo de governação para a concretização da Recomendação do Conselho, de 30 de setembro de 2020, 2020/C 372/01,
+  e revoga as Resoluções do Conselho de Ministros n.os 188/2021, de 30 de dezembro, e 104/2013, de 31 de dezembro, que reforça
+  a Garantia para a Juventude e tem como objetivo promover uma resposta integrada, eficaz e adaptada à realidade dos jovens
+  em Portugal.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 134/2025
+official_date: null
+publication_date: '2025-09-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/2025, Série I de 2025-09-09
+  number: '173'
+  series: I
+  supplement: null
+  pages: 13 - 17
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/09/17300/0001300017.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/134/2025/09/09/p/dre/pt/html
+  oj: null
+  dre: '934502552'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/134-2025-934502552
+  internal: pt:dre:934502552:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/134-2025-934502552
+  metadata_url: https://data.dre.pt/eli/resolconsmin/134/2025/09/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/134-2025-934502552
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-10-31T00:00:00Z'
+integrity:
+  source_sha256: 780e592ea8cc032b5d505c70ab18672bb9b9be41c9e91974d49c9289befe7818
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-134-934502552.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Instituto do Emprego e Formação Profissional
+- Formação Profissional
+- Comissão Coordenadora
+- Comissão de Acompanhamento
+- Coordenador
+- Jovem
+- Base de Dados
+- Orientação Escolar
+- Orientação Profissional
+- Sistema de Informação
+- Primeiro Emprego
+- Estágio de Formação
+- Política de Emprego
+- Política de Juventude
+- Garantia Jovem
+relationships:
+- type: amended_by
+  target: pt:dre:943647415:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/104/2013/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/104/2013/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/188/2021/12/30/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 134/2025
+
+Implementado por via da [Resolução do Conselho de Ministros n.º 104/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-2013-483892), de 31 de dezembro, o Plano Nacional de Implementação de uma Garantia Jovem (PNI-GJ), responde à Recomendação do Conselho da União Europeia de 22 de abril de 2013 (2013/C 120/01), a qual pretendeu responder ao problema com que a União Europeia (UE) se defrontava - uma elevada taxa de desemprego jovem -, situação que acarretava graves consequências socioeconómicas não só para os jovens afetados, mas também para as suas famílias, e, em última linha, os países e a Europa no seu todo.
+
+No âmbito da iniciativa «Europa 2020», bem como da iniciativa «Juventude em Movimento», a criação de emprego foi assumida como uma das prioridades da estratégia para um crescimento inteligente, sustentável e inclusivo, por forma a alcançar níveis elevados de emprego, de produtividade e de coesão social propostas pela Comissão Europeia (COM).
+
+A 30 de outubro de 2020, o Conselho da União Europeia adotou, por unanimidade, a Recomendação 2020/C372/01, relativa a «Uma ponte para o emprego - Reforçar a Garantia para a Juventude», que substituiu a Recomendação do Conselho 2013/C120/01, de 22 de abril de 2013, dando continuidade à Garantia para a Juventude, iniciada sete anos antes em resposta ao desemprego jovem, que atingiu na UE níveis sem precedentes durante a recessão económica de 2013. Com esta Recomendação, o Conselho da União Europeia pretendeu responder a um novo aumento da taxa de desemprego jovens e do número de jovens NEET (não estudam, não trabalham, não frequentam formação profissional), em consequência da pandemia COVID-19 e das respetivas repercussões sociais e económicas.
+
+Em consonância com o princípio 4 do Pilar Europeu dos Direitos Sociais, a COM recomendou aos Estados-Membros que garantissem que todos os jovens até aos 30 anos beneficiem de uma oferta de emprego de qualidade, de educação contínua, aprendizagem ou estágio, no prazo de quatro meses após terem ficado desempregados ou terem terminado os seus estudos.
+
+Nesse sentido, em Portugal, a [Resolução do Conselho de Ministros n.º 188/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/188-2021-176811777), de 30 de dezembro, alterou o PNI-GJ em resposta às novas orientações do Parlamento Europeu e do Conselho Europeu e a um aumento do desemprego jovem e do número de jovens NEET, mais pronunciados em Portugal do que o observado na média europeia no ano de 2020 [respetivamente mais 2 e 0,7 pontos percentuais (p.p.)].
+
+De acordo com o Eurostat, em 2024, a taxa de jovens NEET com idades compreendidas entre os 15-29 anos na UE foi de 11 %, o que insta os Estados-Membros a desenvolverem mais esforços para que se consiga que a média fique abaixo dos 9 % em 2030.
+
+Em Portugal, a taxa de jovens NEET em 2024 foi de 8,7 %, representando um total de 143 mil jovens NEET com 16-29 anos, enquanto a taxa de desemprego jovem (menores de 25 anos) foi de 21,6 % em 2024, o que corresponde a cerca de 81 mil jovens desempregados, percentagem acima da média da UE (14,9 %) e a sexta maior taxa no conjunto dos Estados-Membros da UE, segundo os dados publicados pelo Eurostat.
+
+Em 2025, registou-se uma evolução positiva, tendo a taxa de desemprego jovem em maio de 2025 sido de 19,5 %, o que representa uma diminuição anual de -2,1 p.p., o que corresponde, em termos absolutos, a uma diminuição anual do desemprego em cerca de 12,7 mil jovens desempregados.
+
+Apesar da evidente melhoria registada no primeiro semestre de 2025 em relação a 2024, entende o Governo ser necessário lançar um novo impulso nas políticas de transição para a vida ativa, educação, ensino e formação profissional e emprego jovem, de modo a garantir uma maior articulação entre diferentes programas e ministérios, com uma abordagem transversal, mobilizadora das instituições públicas, da administração central, regional e local, mas também de muitas entidades da economia social que desenvolvem iniciativas com públicos jovens, promovendo a inclusão social, a integração no mercado de trabalho, o empreendedorismo jovem e a participação cívica.
+
+Pretende-se responder também à Resolução do Parlamento Europeu 2020/2764 (RSP), de 8 de outubro, e à Recomendação do Conselho, de 30 de outubro, 2020/C372/01, que reforça a Garantia para a Juventude e propõe a implementação de instrumentos estruturados em diferentes vetores:
+
+i) Inventário - identificar o grupo-alvo, os serviços disponíveis e as necessidades em termos de competências; instituir um sistema de prevenção com mecanismos de acompanhamento e de alerta precoce, através da criação de um sistema de monitorização e gestão centralizada de indicadores;
+
+ii) Comunicação - aumentar a sensibilização e direcionar a comunicação; intensificar a divulgação junto de grupos vulneráveis e dos profissionais envolvidos com estes grupos-alvo;
+
+iii) Preparação - utilizar ferramentas de definição de perfis, que cruzem dados dos indicadores recolhidos de diversa natureza, nomeadamente os relativos ao histórico de saúde e do meio sociocultural do jovem, por forma a conceber planos de ação individualizados; assegurar o aconselhamento, a orientação, a mentoria; melhorar as competências que se mostrem necessárias a uma plena integração destes jovens, sobretudo competências sociais, de cidadania, ferramentas digitais, com recurso a esta formação preparatória antes da mobilização para outras medidas de emprego e de educação e formação profissional; avaliar, melhorar e validar outras competências evidenciadas pelos jovens;
+
+iv) Oferta - aproveitar os incentivos ao emprego e à criação de empresas; alinhar a oferta com as normas existentes para garantir a qualidade e a equidade; prestar apoio após a colocação e assegurar um sistema de retorno de informações; e
+
+v) Facilitadores transversais - mobilizar parcerias; melhorar a recolha de dados e o acompanhamento dos instrumentos; utilização integral e ótima dos fundos europeus, organizadas em função das circunstâncias específicas de cada território e de cada perfil dos jovens NEET.
+
+Pretende-se ainda possibilitar o acesso a todos os jovens a oportunidades de desenvolvimento pessoal, profissional e consequentemente familiar, ajustadas às suas necessidades e perfis, aliadas, designadamente, à inovação social, a iniciativas empreendedoras e às competências verdes e digitais.
+
+É, por isso, necessário estabelecer um modelo de governação da estratégia que permita o envolvimento e participação dos diferentes atores, de acordo com as respetivas responsabilidades e competências em matérias de política, promovendo também um acompanhamento e monitorização transparentes, com foco em metas definidas para indicadores de impacto (de longo prazo) e capacidade de revisão e adaptação, periódica, das iniciativas, de acordo com a avaliação efetuada e as novas necessidades identificadas.
+
+Tendo em conta que os objetivos a alcançar pelo novo modelo de governação se enquadram na missão e atribuições do Ministério do Trabalho, Solidariedade e Segurança Social, mais concretamente nas do Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), instituto público, integrado na administração indireta do Estado, organismo central e imprescindível no âmbito da política de emprego e formação profissional, considera-se que não subsistem razões para a manutenção de figuras executivas e de coordenação externas à orgânica do IEFP, I. P., pelo que se entende proceder à internalização das mesmas na esfera deste instituto público.
+
+Importa ainda referir que uma abordagem holística não deve deixar de dar prioridade e resposta às situações de maior vulnerabilidade, com particular atenção para a igualdade no mercado de trabalho entre homens e mulheres (nomeadamente na igualdade salarial, na segmentação do mercado de trabalho, no acesso a posições de chefia), à discriminação racial, às pessoas com deficiência e a outras vulnerabilidades com forte impacto na exclusão social, como são exemplo a doença mental, ex-reclusos, situação de sem-abrigo ou de desinstitucionalização.
+
+Esta estratégia concretiza o Objetivo de Desenvolvimento Sustentável 8 - Trabalho Digno e Crescimento Económico (ODS 8.6), previsto na Agenda 2030 das Nações Unidas para o Desenvolvimento Sustentável.
+
+O XXV Governo Constitucional, suportado pelo seu Programa, tem como preocupação fundamental reduzir a taxa de desemprego jovem para níveis próximos da média da UE, preocupação já assumida pelo XXIV Governo, de modo a criar condições e oportunidades para que os jovens possam realizar os seus projetos de vida.
+
+Assim, a adoção de uma estratégia que reforce as políticas ativas do mercado de trabalho dirigidas, em especial, aos jovens NEET, à prevenção da inatividade jovem e à sua inserção no mercado de trabalho, reveste um caráter de especial importância que cumpre acautelar.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar o modelo de governação para a concretização da Recomendação do Conselho, de 30 de outubro de 2020, 2020/C 372/01, através da alteração do ponto 6.3 previsto no Plano Nacional de Implementação de Uma Garantia Jovem (PNI-GJ), aprovado pela [Resolução do Conselho de Ministros n.º 104/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-2013-483892), de 31 de dezembro, alterada pela [Resolução do Conselho de Ministros n.º 188/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/188-2021-176811777), de 30 de dezembro.
+
+2 - Instituir a Equipa de Coordenação Nacional, a qual é cometida ao conselho diretivo do Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), e à qual compete assegurar o desenvolvimento das ações para o cumprimento das iniciativas previstas no âmbito da Recomendação do Conselho, de 30 de outubro de 2020, relativa a «Uma ponte para o emprego - Reforçar a Garantia para a Juventude», 2020/C 372/01, nomeadamente promover a informação global e articulada entre as áreas intervenientes e as situações de acompanhamento e monitorização.
+
+3 - Determinar que é designado, pelo membro do Governo responsável pela área do trabalho, solidariedade e segurança social, um coordenador nacional da Garantia Jovem, no âmbito do conselho diretivo do IEFP, I. P., cuja atividade não é remunerada, competindo-lhe, nomeadamente:
+
+a) Assegurar a coordenação estratégica e operacional da Garantia Jovem;
+
+b) Promover a articulação entre a Equipa de Coordenação Nacional, a Comissão de Acompanhamento e os diversos organismos e entidades envolvidas na implementação da estratégia;
+
+c) Acompanhar a execução da estratégia em articulação com a Equipa de Coordenação Nacional, com base nos relatórios de monitorização.
+
+4 - Determinar que a Equipa de Coordenação Nacional elabora, no prazo de 90 dias contados a partir da entrada em vigor da presente resolução, uma estratégia para o período de 2026-2030, a qual é submetida ao membro do Governo responsável pela área do trabalho, solidariedade e segurança social, para homologação e posterior publicação no Diário da República.
+
+5 - Constituir uma Comissão de Acompanhamento da Garantia Jovem, presidida pelo presidente do conselho diretivo do IEFP, I. P., cuja composição é a seguinte:
+
+a) Instituto do Emprego e da Formação Profissional, I. P.;
+
+b) Instituto da Segurança Social, I. P.;
+
+c) Instituto Português do Desporto e Juventude, I. P.;
+
+d) Direção Geral do Emprego e das Relações de Trabalho;
+
+e) Direção-Geral da Educação.
+
+6 - Estabelecer que os membros da Comissão de Acompanhamento referida no número anterior não auferem qualquer remuneração, incluindo senhas de presença ou ajudas de custo.
+
+7 - Determinar que a Comissão de Acompanhamento pode realizar reuniões de âmbito setorial, com discussão na especialidade em razão da matéria a analisar.
+
+8 - Estabelecer que, sempre que se revele necessário, o presidente da Comissão de Acompanhamento pode solicitar a presença e participação de outras entidades, públicas ou privadas, bem como de especialistas em matéria relevante para a monitorização da Garantia Jovem.
+
+9 - Determinar que a Comissão é responsável pela apresentação, até 30 de junho do ano seguinte, de um relatório anual de monitorização sobre o desenho, a eficiência e a eficácia das medidas da Garantia Jovem, incluindo, se necessário, propostas de revisão e adaptação.
+
+10 - Determinar que a Equipa de Coordenação Nacional assegura, em articulação com a Comissão de Acompanhamento, a atualização e revisão da estratégia, sempre que tal se justifique, nomeadamente com base nas propostas constantes dos relatórios anuais de monitorização ou outras fontes, garantindo a permanente adequação das medidas da Garantia Jovem às necessidades identificadas.
+
+11 - Estabelecer que a Comissão de Acompanhamento deve ainda garantir a discussão, o acompanhamento e a incorporação de orientações ou propostas subsequentes e relativas à aplicação da Garantia Jovem que sejam emanadas pelas diversas Instituições Europeias com relevância na matéria.
+
+12 - Determinar que o apoio logístico, administrativo e financeiro à Equipa de Coordenação e à Comissão de Acompanhamento é assegurado pelo IEFP, I. P.
+
+13 - Determinar que a assunção de compromissos para a execução das medidas previstas na estratégia para o período de 2026-2030, depende da existência de dotação orçamental por parte das entidades públicas competentes, sendo o financiamento assegurado, quer por fundos europeus, quer por outras fontes de financiamento privado.
+
+14 - Determinar que os pontos 6.3.2, 6.3.3, 6.3.4, 6.3.5, 6.3.6, 6.3.7, 6.3.8, 6.3.9, 6.3.10 e 6.3.11 do Plano Nacional de Implementação de uma Garantia Jovem (PNI-GJ), aprovado em anexo à [Resolução do Conselho de Ministros n.º 104/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-2013-483892), de 31 de dezembro, na sua redação atual, são alterados com a redação constante do anexo à presente resolução e da qual faz parte integrante.
+
+15 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação, com exceção da alteração dos pontos 6.3.3 e 6.3.4 do Plano Nacional de Implementação de Uma Garantia Jovem (PNI-GJ), que produzem efeitos 90 dias após a data de entrada em vigor da presente resolução.
+
+Presidência do Conselho de Ministros, 4 de setembro de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+## ANEXO — (a que se refere o n.º 14)
+
+## ANEXO — [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+6.1 - [...]
+
+6.2 - [...]
+
+6.3 - [...]
+
+6.3.1 - [...]
+
+6.3.2 - Instituir a Equipa de Coordenação Nacional, a qual é cometida ao conselho diretivo do Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), e à qual compete assegurar o desenvolvimento das ações para o cumprimento das iniciativas previstas no âmbito da Recomendação do Conselho, de 30 de outubro de 2020, relativa a ‘Uma ponte para o emprego - Reforçar a Garantia para a Juventude’ 2020/C 372/01, nomeadamente promover a informação global e articulada entre as áreas intervenientes e as situações de acompanhamento e monitorização.
+
+6.3.3 - Determinar que é designado, pelo membro do Governo responsável pela área do trabalho, solidariedade e segurança social, um coordenador nacional da Garantia Jovem, no âmbito do conselho diretivo do IEFP, I. P., cuja atividade não é remunerada, competindo-lhe, nomeadamente:
+
+a) Assegurar a coordenação estratégica e operacional da Garantia Jovem;
+
+b) Promover a articulação entre a Equipa de Coordenação Nacional, a Comissão de Acompanhamento e os diversos organismos e entidades envolvidas na implementação da estratégia;
+
+c) Acompanhar a execução da estratégia em articulação com a Equipa de Coordenação Nacional, com base nos relatórios de monitorização.
+
+6.3.4 - O apoio logístico, administrativo e financeiro à Equipa de Coordenação e à Comissão de Acompanhamento, é assegurado pelo IEFP, I. P.
+
+6.3.5 - Constituir uma Comissão de Acompanhamento da Garantia Jovem, presidida pelo Presidente do conselho diretivo do IEFP, I. P., cuja composição é a seguinte:
+
+a) Instituto do Emprego e da Formação Profissional, I. P.;
+
+b) Instituto da Segurança Social, I. P.;
+
+c) Instituto Português do Desporto e Juventude, I. P.;
+
+d) Direção Geral do Emprego e das Relações de Trabalho;
+
+e) Direção-Geral da Educação.
+
+6.3.6 - Estabelecer que os membros da Comissão de Acompanhamento referida no número anterior não auferem qualquer remuneração, incluindo senhas de presença ou ajudas de custo.
+
+6.3.7 - A Comissão de Acompanhamento, pode realizar reuniões de âmbito setorial, com discussão na especialidade em razão da matéria a analisar.
+
+6.3.8 - Sempre que se revele necessário, o presidente da Comissão de Acompanhamento pode solicitar a presença e participação de outras entidades, públicas ou privadas, bem como de especialistas em matéria relevante para a monitorização da Garantia Jovem.
+
+6.3.9 - A Comissão é responsável pela apresentação, até 30 de junho do ano seguinte, de um relatório anual de monitorização sobre o desenho, a eficiência e a eficácia das medidas da Garantia Jovem, incluindo, se necessário, propostas de revisão e adaptação.
+
+6.3.10 - A Comissão de Acompanhamento deve ainda garantir a discussão, o acompanhamento e a incorporação de orientações ou propostas subsequentes e relativas à aplicação da Garantia Jovem, que sejam emanadas pelas diversas Instituições Europeias com relevância na matéria.
+
+6.3.11 - Determinar que a Equipa de Coordenação Nacional assegura, em articulação com a Comissão de Acompanhamento, a atualização e revisão da estratégia, sempre que tal se justifique, nomeadamente com base nas propostas constantes dos relatórios anuais de monitorização ou outras fontes, garantindo a permanente adequação das medidas da Garantia Jovem às necessidades identificadas.

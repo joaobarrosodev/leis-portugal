@@ -1,0 +1,369 @@
+---
+schema_version: '1.0'
+id: pt:dre:551463:por
+title: Portaria n.º 1095/95
+short_title: null
+summary: Aplica aos estabelecimentos de educação especial sem fins lucrativos o princípio da gratuitidade
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 1095/95
+official_date: null
+publication_date: '1995-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 206/1995, Série I-B de 1995-09-06
+  number: '206'
+  series: I
+  supplement: null
+  pages: 5652 - 5655
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/09/206b00/56525655.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1997-01-26'
+version_history:
+  file: portaria-1095-95.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1995-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-01-26'
+    amending: pt:dre:581672:por
+    amending_title: Portaria n.º 52/97
+    changes:
+    - Altera 1.º
+    - Altera 2.º
+    - Altera 4.º
+    - Altera 5.º
+    - Altera 6.º
+    - Altera 7.º
+    - Altera 9.º
+    - Altera 10.º
+    - Altera 11.º
+    - Altera 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1095/1995/p/cons/19971103/pt/html
+  oj: null
+  dre: '551463'
+  dre_path: /dr/detalhe/portaria/1095-1995-551463
+  internal: pt:dre:551463:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1095-1995-551463
+  metadata_url: https://data.dre.pt/eli/port/1095/1995/p/cons/19971103/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1995-869766583
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1995-869766583
+  retrieved_at: '2026-10-22T13:10:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 5659cee7d01fb774d27a561c2fefaeaa4224df07d91ec9aaad6adafb17fd05b5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:10:01Z'
+  notes: 2 versão(ões); histórico completo em portaria-1095-95.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Subsídio de Alimentação
+- Apoio Técnico
+- Financiamento
+- Apoio Pedagógico
+- Educação Especial
+- Ensino Cooperativo
+- Ensino Particular
+- Proteção ao Deficiente
+- Ensino Básico
+- Subsídio de Educação Especial
+- Subsídio para Aquisições de Livros e Material Escolar
+relationships:
+- type: amended_by
+  target: pt:dre:581672:por
+  label: Altera 1.º; Altera 2.º; Altera 4.º; Altera 5.º; Altera 6.º; Altera 7.º; Altera 9.º; Altera 10.º; Altera 11.º; Altera
+    13.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672
+  date: '1997-01-21'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/319/1991/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/319/1991/08/23/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:10:01Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1095/95
+
+Portaria n.º 1095/95
+
+de 6 de Setembro
+
+A Lei de Bases do Sistema Educativo preconiza que a educação especial deve organizar-se, preferencialmente, segundo modelos diversificados de integração em estabelecimentos regulares de ensino, com apoio de educadores especializados, podendo, também, processar-se em instituições específicas, quando comprovadamente o exijam o tipo e o grau de deficiência do educando.
+
+De entre estas instituições figuram as associações e as cooperativas de educação especial, sem fins lucrativos, as quais visam ministrar a educação especial e promover a integração sócio-profissional dos alunos que não encontram condições adequadas às suas necessidades nas escolas de ensino regular.
+
+Considerando que, nos termos do Decreto-Lei n.º 35/90, de 25 de Janeiro, os alunos com necessidades educativas especiais estão igualmente sujeitos ao cumprimento da escolaridade obrigatória, a que corresponde o conceito de gratuitidade de ensino, gradualmente implementada, o Ministério da Educação tem vindo a assumir os encargos técnicos e financeiros decorrentes da frequência destes alunos nas referidas instituições, mediante a concessão de apoios e subsídios a estas.
+
+Não obstante a concessão dos referidos apoios e subsídios, os alunos com necessidades educativas especiais que frequentam estas instituições, têm sido sujeitos ao pagamento de mensalidades, cujo valor é fixado anualmente por portaria conjunta dos Ministros da Educação e do Emprego e da Segurança Social.
+
+Considerando que é propósito do Governo aplicar aos estabelecimentos de educação especial sem fins lucrativos o princípio da gratuitidade, à semelhança do regime já consagrado para os estabelecimentos de ensino com fins lucrativos;
+
+Urge definir as condições de acesso e de frequência dos alunos com necessidades educativas especiais que frequentam os estabelecimentos de educação especial sem fins lucrativos, bem como os apoios técnicos e financeiros a conceder-lhes, visando garantir o princípio da gratuitidade consagrado para o ensino básico.
+
+Assim, ao abrigo do Decreto-Lei n.º 553/80, de 21 de Novembro, e do disposto no artigo 2.º do Decreto-Lei n.º 35/90, de 25 de Janeiro:
+
+Manda o Governo, pela Ministra da Educação, o seguinte:
+
+###### 1.º — Âmbito de aplicação
+
+A presente portaria aplica-se a instituições de educação especial, sem fins lucrativos, que prestem uma ou mais das seguintes modalidades de serviço, através de:
+
+a) Estabelecimentos de educação especial tutelados pelo Ministério da Educação, nos termos do Decreto-Lei n.º 553/80, de 21 de Novembro;
+
+b) Actividades de integração educacional e social de crianças e jovens com necessidades educativas especiais através de uma equipa de pessoal técnico e auxiliar;
+
+c) Actividades de intervenção precoce para crianças com deficiência ou em situações de alto risco.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 52/97 - Diário da República n.º 17/1997, Série I-B de 1997-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672), em vigor a partir de 1997-01-26
+
+###### 2.º — Definição
+
+Para os efeitos do presente diploma consideram-se:
+
+1) Estabelecimentos de educação especial os que se destinam a alunos com idades compreendidas entre os 6 e os 18 anos com necessidades educativas especiais que exijam um atendimento educativo especifico, resultante de:
+
+a) Dificuldades graves de comunicação no acesso ao currículo regular, designadamente nas áreas da motricidade, da linguagem, da visão e da audição;
+
+b) Dificuldades graves de compreensão do currículo regular;
+
+c) Problemas graves do foro emocional e comportamental;
+
+d) Outros problemas que, por razões conjunturais ou contextuais devidamente fundamentadas, exijam um atendimento especializado não disponível no quadro do atendimento regular.
+
+2) Actividades de apoio à integração os serviços técnicos e os apoios complementares prestados por pessoal qualificado a alunos com necessidades educativas especiais integrados em escolas de ensino regular, em articulação com as equipas de educação especial.
+
+3) Actividades de intervenção precoce as desenvolvidas em articulação com as equipas de educação especial, dirigidas a famílias e a crianças, entre os 0 e os 6 anos de idade, com deficiência ou em situação de alto risco, em complemento da acção educativa desenvolvida no âmbito dos contextos educativos normais, formais ou informais, em que a criança se encontra inserida.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 52/97 - Diário da República n.º 17/1997, Série I-B de 1997-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672), em vigor a partir de 1997-01-26
+
+###### 3.º — Requisitos gerais de funcionamento
+
+Às instituições de educação especial sem fins lucrativos são exigidos os seguintes requisitos de funcionamento:
+
+a) Estarem legalmente constituídas e desenvolverem o exercício da sua actividade em conformidade com a legislação aplicável;
+
+b) Terem órgãos directivos que assegurem o normal funcionamento dos seus serviços;
+
+c) Celebrarem acordo específico com o Ministério da Educação, através do Departamento da Educação Básica;
+
+d) Cumprirem o contrato colectivo de trabalho para o ensino particular e cooperativo.
+
+###### 4.º — Requisitos específicos de funcionamento
+
+1 - Aos estabelecimentos de educação especial referidos no n.º 1 do n.º 2.º são exigidos os seguintes requisitos específicos:
+
+a) Funcionarem, perante o Ministério da Educação, de acordo com as disposições aplicáveis ao ensino particular e cooperativo;
+
+b) Disporem de direcção pedagógica constituída nos termos da lei;
+
+c) Disporem de instalações adequadas às necessidades dos alunos, nomeadamente no que respeita à dimensão, arejamento e acessibilidade;
+
+d) Terem uma lotação máxima de 80 alunos;
+
+e) Admitirem alunos com idades compreendidas entre os 6 e os 18 anos;
+
+f) Terem regularizada a situação de matrícula dos alunos;
+
+g) Disporem de processo individual do aluno, do qual conste o plano educativo individual e o programa educativo para cada ano escolar, nos termos dos artigos 15.º e 16.º do Decreto-Lei n.º 319/91, de 23 de Agosto;
+
+h) Elaborarem o projecto educativo adequado às necessidades dos alunos;
+
+i) Cumprirem o calendário escolar de funcionamento estipulado;
+
+j) Disporem de regulamento interno, a ser entregue no acto da matrícula ou inscrição ao encarregado de educação;
+
+l) Apresentarem ao Departamento da Educação Básica, até 31 de Julho de cada ano, o relatório de funcionamento pedagógico relativo ao ano findo, de que conste, nomeadamente, a organização e o funcionamento dos grupos escolares, a relação com os pais ou encarregados de educação, o movimento dos alunos admitidos e dos que abandonaram ou terminaram a escolaridade obrigatória e local para onde transitaram;
+
+m) Apresentarem ao Departamento da Educação Básica, até 15 de Outubro de cada ano, a lista nominal dos alunos, com a indicação da data de nascimento, data de admissão no estabelecimento e escola de origem.
+
+2 - Aos estabelecimentos de educação especial para realizarem actividades de integração educacional ou de intervenção precoce nos termos dos n.os 2) e 3) do n.º 2.º são exigidos os seguintes requisitos específicos:
+
+a) Apresentar ao Departamento da Educação Básica um projecto detalhado de intervenção, até ao final do 2.º período lectivo;
+
+b) Caracterizar devidamente o projecto, referindo, designadamente, o levantamento de necessidades dos alunos a abranger, a existência de seguro para os alunos, os objectivos do projecto, as estratégias de intervenção e de interacção com a comunidade, os tempos em que se realizam as intervenções, os recursos humanos e materiais necessários à implementação do projecto, bem como as modalidades de avaliação do projecto;
+
+c) Apresentar as medidas concretas previstas no projecto, em protocolos estabelecidos para o efeito com as equipas de educação especial e com as escolas envolvidas, bem como com os serviços de psicologia e orientação e de saúde escolar existentes e outras instituições tidas como adequadas;
+
+d) Apresentar ao Departamento da Educação Básica, até 30 de Junho, um relatório de avaliação da execução do projecto.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 52/97 - Diário da República n.º 17/1997, Série I-B de 1997-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672), em vigor a partir de 1997-01-26
+
+###### 5.º — Apoio técnico-pedagógico
+
+1 - O apoio técnico-pedagógico a prestar aos estabelecimentos de educação especial sem fins lucrativos destina-se a dotar estas instituições dos meios necessários para a prossecução das acções que se propõem realizar.
+
+2 - O apoio técnico-pedagógico a prestar aos estabelecimentos de educação especial referidos no n.º 1 do n.º 2.º consiste no seguinte:
+
+a) Destacamento de docentes, em número correspondente ao quociente, arredondado por excesso, da divisão do número total de alunos por cinco;
+
+b) Criação de condições para a contratação de psicólogos, de terapeutas e de pessoal auxiliar pedagógico de educação especial;
+
+c) Fornecimento de documentação especializada;
+
+d) Acompanhamento técnico-pedagógico através de acções de formação para pessoal técnico e auxiliar e de visitas e reuniões nos estabelecimentos de ensino.
+
+3 - O apoio técnico-pedagógico a conceder às instituições que prestam as actividades referidas nos n.os 2) e 3) do n.º 2.º será atribuído em conformidade com a análise dos projectos que forem apresentados e as necessidades de recursos aí referenciadas, não podendo ser ultrapassados os níveis de apoio técnico-pedagógico estabelecidos no número anterior.
+
+4 - Compete à direcção regional de educação competente a afectação dos docentes referidos na alínea a) do n.º 2 deste número.
+
+5 - Ao Departamento da Educação Básica compete a apreciação dos projectos decorrentes dos n.os 2) e 3) do n.º 2.º, a definição dos respectivos apoios técnico-pedagógicos a conceder e a decisão sobre as modalidades de funcionamento inerentes a esses apoios, devendo, para o efeito, comunicar à respectiva direcção regional de educação, para efeitos de concretização, as afectações deles decorrentes.
+
+6 - Os outros apoios técnico-pedagógicos são prestados pela direcção regional de educação competente e pelo Departamento da Educação Básica.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 52/97 - Diário da República n.º 17/1997, Série I-B de 1997-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672), em vigor a partir de 1997-01-26
+
+###### 6.º — Equipa multidisciplinar
+
+A equipa multidisciplinar, adequada ao tipo e grau de deficiência, à faixa etária dos alunos e ao projecto pedagógico da escola, é constituída por:
+
+a) Pessoal docente, a recrutar de entre educadores de infância, professores do 1.º ciclo do ensino básico, professores de Trabalhos Manuais, de Educação Visual e Tecnológica, de Educação Física e de Educação Musical;
+
+b) Pessoal técnico, designadamente psicólogo(s) e terapeuta(s);
+
+c) Pessoal auxiliar pedagógico de ensino especial.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 52/97 - Diário da República n.º 17/1997, Série I-B de 1997-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672), em vigor a partir de 1997-01-26
+
+###### 7.º — Condições de acesso
+
+1 - A matrícula no ensino básico é efectuada na escola da área pedagógica de residência do aluno, dependendo o encaminhamento do aluno para estabelecimento de ensino especial de envio, ao Departamento da Educação Básica, dos seguintes documentos:
+
+a) Proposta de encaminhamento do aluno formulada pelo órgão de gestão e administração do estabelecimento educativo onde foi efectuada a matrícula;
+
+b) Declaração de concordância do encarregado de educação;
+
+c) Parecer fundamentado da equipa de educação especial da área escolar;
+
+d) Declaração de aceitação do aluno por parte do estabelecimento de ensino especial;
+
+e) Plano educativo individual do aluno.
+
+2 - Nos casos de encaminhamento que se reportem a crianças matriculadas pela primeira vez, o processo deverá ser enviado pelo órgão de gestão e administração do estabelecimento para o Departamento da Educação Básica até 30 de Junho.
+
+3 - Nas situações de alunos provenientes de escolas públicas, particulares ou cooperativas, do ensino regular, que necessitem de encaminhamento, no ano lectivo seguinte, para instituições de educação especial sem fins lucrativos deverá o órgão de gestão e administração da escola de origem remeter para o Departamento da Educação Básica, até ao final do 2.º período do ano lectivo, o plano educativo do aluno, de acordo com o disposto no artigo 15.º do Decreto-Lei n.º 319/91, de 23 de Agosto, bem como os documentos referidos no n.º 1 deste número.
+
+4 - Após decisão das situações referidas no número anterior, e até 30 de Junho, o Departamento da Educação Básica remeterá ao estabelecimento de educação especial o documento comprovativo da necessidade de encaminhamento, bem como os elementos do respectivo processo.
+
+5 - Só em situações excepcionais, devidamente justificadas, poderão ser considerados pedidos de encaminhamento apresentados fora dos prazos estipulados.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 52/97 - Diário da República n.º 17/1997, Série I-B de 1997-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672), em vigor a partir de 1997-01-26
+
+###### 8.º — Processo individual do aluno
+
+Do processo individual do aluno deve constar obrigatoriamente o plano educativo individual constituído pelos seguintes elementos:
+
+a) Resumo da história escolar e outros antecedentes relevantes, designadamente grau de eficácia de medidas anteriormente adoptadas;
+
+b) Caracterização das potencialidades, nível de aquisições e problemas do aluno;
+
+c) Diagnóstico médico e recomendações dos serviços de saúde;
+
+d) Medidas do regime educativo especial a aplicar.
+
+###### 9.º — Apoio financeiro
+
+1 - O apoio financeiro a conceder aos estabelecimentos de educação especial referidos na alínea a) do n.º 1.º da presente portaria destina-se a:
+
+a) Suportar os encargos com os vencimentos do pessoal docente;
+
+b) Conceder, mensalmente, subsídios para os encargos com os vencimentos do pessoal previsto nas alíneas b) e c) do n.º 6.º;
+
+c) Conceder um subsídio de 5250$00 por aluno, durante 11 meses, destinado a comparticipar nas despesas de funcionamento, incluindo o seguro escolar dos alunos;
+
+d) Atribuir subsídios de alimentação, de transporte e para material didáctico e escolar, no âmbito da acção social escolar.
+
+2 - A concessão de subsídios destinados aos encargos com os vencimentos, com exclusão dos encargos sociais, de psicólogos, terapeutas e pessoal auxiliar pedagógico de educação especial obedece aos parâmetros seguintes:
+
+a) Um psicólogo por estabelecimento, que, nos casos de estabelecimentos de educação especial com lotação inferior a 80 alunos, deverá completar, proporcionalmente, o seu horário com serviço prestado à equipa de educação especial mais próxima mediante o horário que, no início do ano, enviará para a respectiva direcção regional de educação;
+
+b) Terapeutas em número correspondente ao quociente, arredondado por excesso, da divisão do número de alunos por 20;
+
+c) Pessoal auxiliar pedagógico de educação especial em número correspondente ao quociente, arredondado por excesso, da divisão do número de alunos por 10, excepto no caso em que o número de alunos totalmente dependentes seja igual ou superior a 5, em que o quociente é de 1 para 5.
+
+3 - O apoio financeiro a conceder mensalmente às instituições de educação especial em função dos projectos decorrentes das alíneas b) e c) do n.º 1 destina-se a suportar os encargos com pessoal técnico e auxiliar, dependendo os seus valores da análise das situações propostas pelo Departamento da Educação Básica.
+
+4 - As instituições de educação especial que pela primeira vez pretendam beneficiar das modalidades de apoio previstas na presente portaria devem apresentar, até 31 de Janeiro de cada ano, a sua candidatura no Departamento da Educação Básica.
+
+5 - O apoio financeiro é atribuído pelo Ministério da Educação, através do Departamento da Educação Básica, excepto no que respeita aos encargos com os vencimentos do pessoal docente.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 52/97 - Diário da República n.º 17/1997, Série I-B de 1997-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672), em vigor a partir de 1997-01-26
+
+###### 10.º — Acção social escolar
+
+1 - O Ministério da Educação, através do Departamento da Educação Básica, prestará, no ano lectivo de 1996-1997, apoio no âmbito da acção social escolar, mediante a atribuição de subsídios de alimentação, de transporte, correspondente ao custo da carreira pública casa-escola-casa, e de material didáctico e escolar.
+
+2 - Os subsídios de alimentação e para material didáctico e escolar são os seguintes:
+
+a) Subsídio de alimentação, incluindo produtos lácteos - 415$00 aluno/dia;
+
+b) Subsídio para material didáctico e escolar - 21950$00 aluno/ano.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 52/97 - Diário da República n.º 17/1997, Série I-B de 1997-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672), em vigor a partir de 1997-01-26
+
+###### 11.º — Gratuidade de ensino
+
+A fim de garantir a gratuitidade do ensino aos alunos que em 15 de Setembro de 1996 tenham idades compreendidas entre os 6 e os 14 anos, o Ministério da Educação, através do Departamento da Educação Básica, comparticipará mensalmente com um montante igual ao valor da mensalidade máxima fixada por portaria conjunta para o regime de semi-internato.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 52/97 - Diário da República n.º 17/1997, Série I-B de 1997-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672), em vigor a partir de 1997-01-26
+
+###### 12.º — Norma transitória
+
+Aos alunos que em 15 de Setembro de 1995 tenham idades compreendidas entre os 6 e os 13 anos o Ministério da Educação, através do Departamento da Educação Básica, e até 31 de Dezembro de 1995, efectua o pagamento do montante correspondente à comparticipação familiar prevista no Decreto Regulamentar n.º 14/81, de 7 de Abril.
+
+###### 13.º — Disposições finais
+
+1 - O disposto na presente portaria produz efeitos a partir de 1 de Setembro de 1996.
+
+2 - Pelo presente diploma é revogado o Despacho n.º 8/SERE/SEAM/91, de 17 de Abril.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 52/97 - Diário da República n.º 17/1997, Série I-B de 1997-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/52-1997-581672), em vigor a partir de 1997-01-26
+
+Ministério da Educação.
+
+Assinada em 11 de Agosto de 1995.
+
+A Ministra da Educação, Maria Manuela Dias Ferreira Leite.

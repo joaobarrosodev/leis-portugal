@@ -1,0 +1,201 @@
+---
+schema_version: '1.0'
+id: pt:dre:282083:por
+title: Resolução do Conselho de Ministros n.º 27/92
+short_title: null
+summary: Aprova o Programa de Apoio à Internacionalização das Empresas Portuguesas
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 27/92
+official_date: null
+publication_date: '1992-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1992, Série I-B de 1992-08-18
+  number: '189'
+  series: I
+  supplement: null
+  pages: 4009 - 4010
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/08/189b00/40094010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/27/1992/08/18/p/dre/pt/html
+  oj: null
+  dre: '282083'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/27-1992-282083
+  internal: pt:dre:282083:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-1992-282083
+  metadata_url: https://data.dre.pt/eli/resolconsmin/27/1992/08/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-1992-282083
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-08-18T00:00:00Z'
+integrity:
+  source_sha256: 0dc50640e6301508b23d8c1a7b98086b7f64cf710f28200ccc1cd9510e2ca613
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-27-282083.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ICEP
+- Banco de Fomento Exterior
+- Empresa
+- Cosec
+- Definição de Competências
+- Fundo para a Cooperação Económica
+- Apoio ao Investimento
+- Projeto de Investimento
+- Investimento no Estrangeiro
+- IPE
+- Linha de Crédito
+- Ministério do Comércio e Turismo
+- PAIEP
+- Desenvolvimento Económico
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 27/92
+
+A economia portuguesa vive hoje um profundo processo de internacionalização, em que o comércio internacional, o investimento directo estrangeiro em Portugal e o investimento português no estrangeiro são factores centrais da sua dinâmica.
+
+O processo de internacionalização das nossas empresas deve ser equacionado ao nível das estratégias empresariais, pelo que é fundamental criar o enquadramento para que os empresários se sintam mais estimulados e disponham de instrumentos que viabilizem e facilitem essa alteração estratégica.
+
+A nível interno, às empresas industriais nacionais é necessário continuar a aumentar a sua eficiência (produtividade, capacidade de gestão e inovação) e a sua eficácia (flexibilidade, orientação para o mercado e serviço ao cliente). É neste domínio que os mecanismos do PEDIP têm prestado um apoio inequívoco.
+
+Porém, o mercado interno implica desafios que não se compadecem apenas com alterações ao nível do sistema interno das empresas. Há que criar condições para que surjam estratégias empresariais orientadas para o aproveitamento de um mercado vasto, altamente concorrencial, complexo e exigente. Nesta perspectiva, as estratégias empresariais de internacionalização são fundamentais para assegurar, no longo prazo, a competitividade das empresas nacionais, permitindo-lhes posicionar-se melhor na cadeia de valor dos produtos, de forma a controlar uma maior parte deste, nomeadamente ao nível das margens de distribuição e comercialização.
+
+O processo de internacionalização das empresas nacionais compreende dois vectores centrais, que, por sua vez, são particularmente orientados para dois grandes grupos de países. Assim, há que incentivar a internacionalização da actividade comercial das empresas nacionais nos países da OCDE e, muito em especial, no novo espaço económico europeu. Simultaneamente, a internacionalização baseada na deslocalização da produção industrial é particularmente adequada no âmbito dos países em desenvolvimento e, muito em especial, nos países ACP, com destacada incidência nos PALOPs.
+
+Este processo de internacionalização das empresas não pode deixar de se enquadrar nas grandes linhas da política externa portuguesa definida pelo Governo e executada pelo Ministério dos Negócios Estrangeiros.
+
+O Governo, atento à importância deste processo, tem vindo a preparar um conjunto de instrumentos fiscais e financeiros que facilitem a internacionalização das empresas nacionais, procurando anular as desvantagens competitivas que se colocam, nomeadamente, a nível do financiamento de capitais próprios e alheios e ao regime de fiscalidade. A [Lei n.º 2/92](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), no n.º 4 do seu artigo 36.º, previu já expressamente a criação deste tipo de incentivos fiscais.
+
+Neste sentido, o Conselho de Ministros aprovou os diplomas que criam os fundos de reestruturação e internacionalização empresarial e regulamentam a atribuição de benefícios fiscais a empresas que apresentem projectos eficazes de internacionalização.
+
+Paralelamente, deverá ser institucionalizada uma colaboração sistemática com os organismos que tenham a seu cargo a gestão de instrumentos complementares no apoio à internacionalização.
+
+A intervenção coordenada dos diversos organismos e empresas que têm capacidades específicas nesta área [Instituto do Comércio Externo de Portugal (ICEP), Fundo para a Cooperação Económica, bancos, sociedades de capital de risco, sociedades de leasing, fundos imobiliários] permitirá uma maior integração de todos os mecanismos disponíveis, a melhoria das suas condições e a procura de outros instrumentos que possam igualmente desempenhar um papel relevante na promoção do investimento no exterior.
+
+Assim:
+
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+
+1 - Aprovar o Programa de Apoio à Internacionalização das Empresas Portuguesas, cuja gestão global é cometida ao Ministério do Comércio e Turismo, através do ICEP, e que compreende os seguintes vectores:
+
+1.1 - Medidas de carácter comercial:
+
+a) Sensibilização para a actuação directa das empresas nacionais nos nossos principais mercados, através de:
+
+Apoio informativo e logístico à presença física nos diversos países europeus, através de sucursais, redes de distribuição ou lojas;
+
+Apoio à criação de marcas nacionais e campanhas de marketing e imagem;
+
+Apoio técnico à gestão comercial das empresas;
+
+b) Diversificação de mercados, através do apoio a acções que contribuam para:
+
+Posicionar as empresas nacionais como elemento central da estratégia de implantação de empresas europeias na África Austral;
+
+Desenvolver as relações comerciais e de investimento mútuo com os países do Magreb e da Europa Central e Oriental;
+
+Recuperar quotas de mercado nos EUA, numa perspectiva de criação de condições mais favoráveis de acesso ao mercado americano pendente da resolução favorável dos acordos GATT;
+
+c) Fomento do associativismo entre empresas, através de:
+
+Apoio à dinamização de acordos complementares de empresas, consórcios de exportação, tradings ou outras formas societárias para actuação no mercado internacional que permitam obter economias de escala na comercialização e atingir a dimensão adequada ao processo de internacionalização que venham a definir;
+
+Apoio técnico às operações de concentração de esforços comerciais e empresariais, quer nos domínios jurídicos quer de gestão.
+
+1.2 - Medidas de carácter financeiro:
+
+a) Reforço dos capitais próprios das empresas, orientando o capital de risco para projectos de internacionalização, designadamente através dos fundos de reestruturação e internacionalização empresarial, de sociedades de capital de risco e do IPE - Investimentos e Participações Empresariais, S. A.;
+
+b) Reforço dos capitais alheios, através de:
+
+Dinamização das agências dos bancos nacionais no estrangeiro como fonte de financiamento ou prestadores de garantias e informações comerciais, a fim de superar as normais dificuldades iniciais de inserção em mercados financeiros externos;
+
+Acesso em Portugal a linhas de crédito em divisas para investimentos em projectos de internacionalização;
+
+Utilização do NIDE - Novo Instrumento de Desenvolvimento da Exportação e dos instrumentos financeiros geridos pelo Fundo de Cooperação como forma de diminuir o custo médio de financiamento dos projectos de internacionalização;
+
+c) Utilização de fundos de investimento imobiliários ou sociedades de leasing para aquisição no estrangeiro de espaços comerciais e de escritórios em que venham a instalar-se empresas portuguesas;
+
+d) Especialização de entidades financeiras no apoio à internacionalização, por forma a colocarem à disposição das empresas um conjunto integrado de instrumentos financeiros.
+
+1.3 - Medidas de carácter fiscal:
+
+a) Implementação do sistema de benefícios fiscais contratuais no domínio dos projectos de internacionalização;
+
+b) Autorização para a consolidação de contas com as filiais estrangeiras para efeitos de IRC;
+
+c) Celebração de acordos de protecção mútua de investimento e de dupla tributação com outros países.
+
+2 - Implementar as seguintes acções, a fim de operacionalizar o Programa de Apoio à Internacionalização das Empresas Portuguesas:
+
+2.1 - Dar orientações ao Instituto do Comércio Externo de Portugal (ICEP), como órgão executor da política que o Governo define, designadamente nos domínios do comércio e investimento externo, para:
+
+a) Estabelecer protocolos com instituições financeiras, por forma a facilitar às empresas que apresentem projectos de reconhecida eficácia acesso:
+
+Aos meios financeiros indispensáveis, através de linhas de crédito em condições favoráveis de mercado, utilizando como forma de diminuir o custo médio de capital o NIDE, criado pelo [Decreto-Lei n.º 324/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1984-400036), de 9 de Outubro, o qual, para o efeito, será devidamente reforçado, e os instrumentos financeiros geridos pelo Fundo de Cooperação Económica;
+
+A fundos de capital de risco ou sociedades de capital de risco, para reforço dos capitais próprios;
+
+A fundos de investimento imobiliários ou ao leasing, com vista à aquisição de equipamentos ou imóveis para instalação das empresas nos mercados externos;
+
+A mecanismos de seguros que permitam minimizar o risco do negócio;
+
+b) Incrementar a cooperação com os países de África, Caraíbas e Pacífico (ACP), estimulando o investimento das empresas portuguesas naqueles países, com especial relevo para os países africanos de língua oficial portuguesa (PALOPs), em colaboração com instituições com objectivos complementares ou afins, nomeadamente o Fundo para a Cooperação Económica e o CDI - Centre pour le Développement Industriel;
+
+c) Intensificar o apoio às empresas, através das suas delegações no exterior, facultando, para além das informações normais sobre o mercado e oportunidades comerciais, os dados necessários para avaliação de projectos de instalação, compreendendo indicações sobre mercado de arrendamento e de trabalho, legislação e outras pertinentes, informação que detêm nos domínios da organização e funcionamento dos respectivos mercados, por forma que aquelas se tornem verdadeiros centros de negócio.
+
+2.2 - Recomendar ao Banco de Fomento e Exterior, S. A., e à COSEC - Companhia de Seguros de Créditos, S. A., para, em articulação, dinamizarem linhas de financiamento e produtos de seguro de investimento e de crédito que facilitem os estágios iniciais de expansão internacional das empresas portuguesas, bem como colaborarem com o ICEP e com o Fundo de Cooperação Económica na análise de projectos, divulgação de instrumentos e promoção e apoio técnico ao investimento português no estrangeiro.
+
+2.3 - Recomendar ao IPE para vocacionar a sua actuação na área do capital de risco para projectos de expansão internacional de empresas portuguesas, quer industriais quer comerciais, e articular com o ICEP a sua actuação no âmbito da promoção e dinamização do investimento português no estrangeiro.
+
+2.4 - Articular as actuações do ICEP e do Fundo de Cooperação Económica, dentro do enquadramento ao apoio e promoção do investimento de empresas portuguesas em projectos de relevo para a sua estratégia de internacionalização.
+
+Presidência do Conselho de Ministros, 9 de Julho de 1992. - O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:3270985:por
+title: Portaria n.º 722/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 722/2005 (2.ª série)
+official_date: null
+publication_date: '2005-06-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/2005, Série II de 2005-06-29
+  number: '123'
+  series: II
+  supplement: null
+  pages: 9536 - 9536
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/06/123000000/0953609536.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3270985'
+  dre_path: /dr/detalhe/portaria/722-2005-3270985
+  internal: pt:dre:3270985:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-2005-3270985
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-2005-3270985
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-06-29T00:00:00Z'
+integrity:
+  source_sha256: 9bfb32c446deea51ed4684d8e02338c2d722b0a902f3181cbea7408644f3308e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-722-3270985.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 722/2005 (2.ª série)
+
+Portaria n.º 722/2005 (2.ª série). - Considerando o disposto na [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro, nomeadamente nos artigos 15.º, 18.º e 28.º;
+
+Tendo sido cumpridos os procedimentos de audição de todos os interessados previstos no artigo 27.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro, bem como nos artigos 100.º e seguintes do Código do Procedimento Administrativo;
+
+Considerando que se trata de uma das mais emblemáticas obras de Raul Lino, datada de 1912-1914;
+
+Considerando que neste exemplar notável os aspectos historicístas se casam com o organicismo caraterístico das obras do autor;
+
+Considerando que a casa foi implantada em lugar de peculiar protagonismo paisagístico, interpretando o próprio entorno da serra e o seu monte de penhascos, tendo-lhe conferido uma fachada "aberta" por uma loggia para a fruição dos vales e cumeeiras que dali se avistam:
+
+Nos termos da alínea g) do artigo 199.º da Constituição da República Portuguesa, manda o Governo, pela Ministra da Cultura, o seguinte:
+
+###### Artigo único
+
+É classificada como imóvel de interesse público (IIP) a Casa do Cipreste, incluindo a cerca, sita na Rua do Roseiral, 3 e 5, freguesia de São Pedro de Penaferrim, concelho de Sintra, distrito de Lisboa, conforme a planta anexa a esta portaria, da qual faz parte integrante.
+
+3 de Junho de 2005. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima.
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2005/06/123000000/0953609536.pdf))](https://files.diariodarepublica.pt/2s/2005/06/123000000/0953609536.pdf)

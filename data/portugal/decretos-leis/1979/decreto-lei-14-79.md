@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: pt:dre:393072:por
+title: Decreto-Lei n.º 14/79
+short_title: null
+summary: Dá nova redacção a vários artigos do Decreto-Lei n.º 114/70, de 18 de Março, e adita o artigo 21.º-A (Comissão Regional
+  de Turismo do Algarve)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Comércio e Turismo - Secretaria de Estado do Turismo
+proposing_entity: null
+official_number: 14/79
+official_date: null
+publication_date: '1979-02-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 31/1979, Série I de 1979-02-06
+  number: '31'
+  series: I
+  supplement: null
+  pages: 176 - 178
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/02/03100/01760178.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '393072'
+  dre_path: /dr/detalhe/decreto-lei/14-1979-393072
+  internal: pt:dre:393072:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1979-393072
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1979-393072
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-10-17T00:00:00Z'
+integrity:
+  source_sha256: f91d5e2e9e30d271a62c88203ff15a018f95413e0edc4b0f795234167ed991ef
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-14-393072.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:462588:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 14/79
+
+de 6 de Fevereiro
+
+1. A conjuntura económica e financeira do País privilegia o turismo como sector estratégico a que prioritariamente o Governo tem de acorrer com soluções imediatas e eficazes com o objectivo de lhe potenciar as virtualidades, sem prejuízo de outras medidas de maior alcance que em tempo oportuno se virão a determinar.
+
+2. Nesta perspectiva, entendeu-se chegado o momento de fazer cessar funções à actual comissão administrativa da Comissão Regional de Turismo do Algarve, que, sem embargo dos seus esforços e dedicação, não tem podido, dada a sua natureza excepcional e, por isso, precária, alcançar resultados que só serão legitimamente exigíveis aos órgãos normais das comissões regionais.
+
+3. A normalização institucional que a curto prazo se tem em vista implementar exige, porém, que, paralelamente, se façam desde já algumas alterações ao diploma que criou a Comissão Regional de Turismo do Algarve. E isto, e desde logo, não só por serem necessários alguns ajustamentos determinados pelo desaparecimento da organização corporativa, mas também pelo facto de o [Decreto-Lei n.º 278/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1975-335909), de 5 de Junho, ter transferido para o Gabinete do Planeamento da Região do Algarve a competência da Comissão Regional para o estudo e realização das infra-estruturas integradas no seu plano de obras.
+
+4. Por outro lado, ao proceder-se à necessária recomposição do conselho regional e da comissão executiva desta Comissão Regional, julgou-se também oportuno proporcionar-lhe instrumentos legais adequados a uma actividade mais ampla e fecunda.
+
+Assim, aproveitando o ensejo legislativo, dirimem-se dúvidas que estavam em aberto quanto à competência da Comissão Regional de intervir, coadjuvando as câmaras municipais na fiscalização da liquidação e cobrança do imposto de turismo.
+
+A questão não é dispicienda se se tiver em conta que este imposto é, praticamente, a única fonte de receita a financiar o vasto conjunto de actividades da Comissão Regional o que agora se permite à Comissão Regional traduz-se, apenas, em favorecer um melhor aproveitamento do imposto já existente, o que se espera será suficiente para que no seu montante global se verifique aumento considerável.
+
+5. Dado que a organização político-administrativa do País se norteia por princípios descentralizadores e que o imposto de turismo é, como se disse, um imposto municipal e principal receita da Comissão Regional, entendeu-se que as câmaras deveriam ser ouvidas acerca dos membros cuja nomeação compete ao Governo Central.
+
+Importará salientar que as câmaras terão também na comissão executiva um representante de sua exclusiva escolha.
+
+6. Finalmente, teve-se como boa solução, com vista a dotar a Comissão Regional de uma mais dinâmica operacionalidade, inscrever no articulado norma que permita a delegação na Comissão Regional de competências até agora pertencentes em exclusivo à Direcção-Geral do Turismo, de forma que aquele órgão local veja enriquecida a sua capacidade de acção.
+
+7. Assim, por que a urgência das medidas a tomar não se compadece com a demora do estudo em curso, que tem como objectivo uma reestruturação mais profunda e adequada da Comissão Regional de Turismo do Algarve, introduzem-se, com o presente diploma, apenas as alterações por agora indispensáveis e mais urgentes.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 114/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1970-228801), de 18 de Março, passa a ter a seguinte redacção:
+
+###### Art. 3.º - 1 - O Conselho Regional terá a seguinte composição:
+
+a) Um presidente, nomeado pelo Secretário de Estado do Turismo, ouvidas as câmaras municipais;
+
+b) Um representante do Governo Civil do Distrito de Faro;
+
+c) Um representante de cada uma das câmaras municipais dos concelhos compreendidos na região;
+
+d) Um representante da Direcção-Geral das Alfândegas;
+
+e) Um representante da Guarda Fiscal,
+
+f) Os capitães dos portos do Algarve;
+
+g) Os directores dos portos do Algarve;
+
+h) O delegado distrital de Saúde;
+
+i) O director do aeroporto de Faro;
+
+j) Um representante do Centro Nacional de Formação Turística e Hoteleira;
+
+l) Um representante da Polícia Judiciária;
+
+m) Um representante da TAP;
+
+n) Um representante das associações patronais da indústria hoteleira e similar do Algarve;
+
+o) Um representante da associação patronal das agências de viagem;
+
+p) Um representante das associações patronais dos transportes rodoviários;
+
+q) Um representante das associações patronais dos industriais de aluguer de automóveis sem condutor;
+
+r) Um representante da empresa concessionária do jogo do Algarve;
+
+s) Um representante das associações comerciais da região;
+
+t) Um representante de cada um dos sindicatos dos trabalhadores da indústria hoteleira e similares, das agências de viagens, da informação turística, dos transportes rodoviários e do comércio.
+
+2 - A designação dos membros do conselho regional, que o não sejam por inerência, é feita sem limitação de tempo, podendo, no entanto, ser revogada a todo o tempo.
+
+3 - O presidente poderá convidar a participar nas reuniões do conselho, sem direito a voto, quaisquer outras entidades, quando a natureza dos assuntos a tratar o aconselhe.
+
+4 - A composição do Conselho Regional poderá ser alterada por portaria do Secretário de Estado do Turismo.
+
+###### Art. 2.º O artigo 6.º do [Decreto-Lei n.º 114/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1970-228801) passa a ter a seguinte redacção:
+
+###### Art. 6.º A comissão executiva terá a seguinte composição:
+
+1) Um presidente, que será o presidente do Conselho Regional;
+
+2) Um vogal nomeado pelo Secretário de Estado do Turismo, ouvidas as câmaras municipais;
+
+3) Três vogais designados, respectivamente, pelos representantes das câmaras municipais, das associações patronais e dos sindicatos no Conselho Regional;
+
+4) Os vogais referidos no número anterior podem ser escolhidos de entre pessoas estranhas ao Conselho Regional ou entre os seus membros;
+
+5) De entre os vogais da comissão executiva o presidente escolherá um para, como vice-presidente, o substituir nas suas ausências ou empedimentos.
+
+###### Art. 3.º O artigo 7.º do [Decreto-Lei n.º 114/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1970-228801), passa a ter a seguinte redacção:
+
+###### Art. 7.º Compete à comissão executiva:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Fiscalizar, em colaboração com as restivas câmaras municipais, a liquidação e cobrança do imposto de turismo nos concelhos da região, comunicando às respectivas câmaras municipais as faltas verificadas;
+
+e) Exercer as competências da Direcção-Geral do Turismo que forem delegadas na Comissão Regional;
+
+f) Submeter à apreciação do Conselho Regional quaisquer assuntos de interesse turístico para a região.
+
+###### Art. 4.º É aditado ao [Decreto-Lei n.º 114/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1970-228801) o artigo 21.º-A, com a seguinte redacção:
+
+###### Art. 21.º-A - 1 - Os fiscais de turismo do quadro de pessoal da Comissão Regional de Turismo têm direito de entrada e permanência, pelo tempo necessário ao exercício das suas funções, em quaisquer locais sujeitos à sua fiscalização.
+
+2 - As pessoas que estiverem legalmente obrigadas a entregar às câmaras o imposto de turismo, ou os seus representantes, devem prestar aos fiscais de turismo as informações que lhes forem solicitadas referentes à matéria do imposto e bem assim apresentar-lhes as facturas, recibos e demais documentação pertinente.
+
+###### Art. 5.º Por despacho do Secretário de Estado do Turismo, publicado no Diário da República, podem ser delegadas na Comissão Regional de Turismo do Algarve competências da Direcção-Geral do Turismo.
+
+Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Abel Pinto Repolho Correia.
+
+**Promulgado em 22 de Janeiro de 1979.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

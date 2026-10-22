@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:868418312:por
+title: Declaração de Retificação n.º 409/2024/2
+short_title: null
+summary: Retifica o Aviso n.º 10649/2024/2, publicado no <em>Diário da República,</em> 2.ª série, n.º 95, de 16 de maio de
+  2024. Altera a estrutura curricular e o plano de estudos do 3.º ciclo de estudos em Serviço Social, ministrado na Universidade
+  Lusíada ― Centro Universitário Lusíada ― Lisboa, e procede à sua republicação.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Fundação Minerva - Cultura - Ensino e Investigação Científica
+proposing_entity: null
+official_number: 409/2024/2
+official_date: null
+publication_date: '2024-06-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2024, Série II de 2024-06-11
+  number: '111'
+  series: II
+  supplement: null
+  pages: 720 - 724
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/06/111000000/0072000724.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '868418312'
+  dre_path: /dr/detalhe/declaracao-retificacao/409-2024-868418312
+  internal: pt:dre:868418312:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/409-2024-868418312
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/409-2024-868418312
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-06-11T00:00:00Z'
+integrity:
+  source_sha256: 4657c670f9c352098569c9a2753bca17b69c3a7981eaa7f7393fff608cbbfe2f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-409-868418312.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 409/2024/2
+
+O [Aviso n.º 10649/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso/10649-2024-865034794), Diário da República, 2.ª série, n.º 95, de 16 de maio de 2024, que altera a estrutura curricular e o plano de estudos do 3.º ciclo de estudos em Serviço Social, ministrado na Universidade Lusíada - Centro Universitário Lusíada - Lisboa, foi publicado com as seguintes incorreções, que assim se retificam:
+
+1 - No anexo, onde se lê:
+
+"QUADRO N.º 2
+
+| Unidade curricular(1) | Área científica(2) | Ano curricular(3) | Organização do ano curricular(4) | Total(5) | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos(7) | Observações(8) | Observações(8) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade curricular(1) | Área científica(2) | Ano curricular(3) | Organização do ano curricular(4) | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos(7) | Observações(8) | Observações(8) |
+| Unidade curricular(1) | Área científica(2) | Ano curricular(3) | Organização do ano curricular(4) | Total(5) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Créditos(7) | Observações(8) | Observações(8) |
+| Metodologia de Investigação Avançada em Serviço Social | CSO | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Estado e Políticas Públicas | E | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Desenvolvimento do Pensamento e da Teoria em Serviço Social | SS | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Serviço Social e Problemas Sociais Contemporâneos | SS | 1.º | Semestral | 260,0 |  |  |  |  | 10,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Seminário Avançado em Intervenção em Serviço Social | SS | 1.º | Semestral | 260,0 |  |  |  |  | 10,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Seminário de Projeto de Tese | SS | 1.º | Semestral | 260,0 |  |  |  |  | 10,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Seminário Avançado de Análise de Dados | CSO | 2.º | Semestral | 260,0 |  |  |  |  | 20,0 |  |  |  | 20,0 | 10,0 |  |  |
+| Seminário de Desenvolvimento de Tese | SS | 2.º | Semestral | 520,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 20,0 |  |  |
+| Tese | SS | 2.º | Semestral | 800,0 |  |  |  |  |  |  | 30,0 |  | 30,0 | 30,0 |  |  |
+| Tese | SS | 3.º | Semestral | 800,0 |  |  |  |  |  |  | 30,0 |  | 30,0 | 30,0 |  |  |
+| Tese | SS | 3.º | Semestral | 800,0 |  |  |  |  |  |  | 30,0 |  | 30,0 | 30,0 |  | " |
+
+deve ler-se:
+
+"QUADRO N.º 2
+
+| Unidade curricular(1) | Área científica(2) | Ano curricular(3) | Organização do ano curricular(4) | Total(5) | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos(7) | Observações(8) | Observações(8) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade curricular(1) | Área científica(2) | Ano curricular(3) | Organização do ano curricular(4) | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos(7) | Observações(8) | Observações(8) |
+| Unidade curricular(1) | Área científica(2) | Ano curricular(3) | Organização do ano curricular(4) | Total(5) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Créditos(7) | Observações(8) | Observações(8) |
+| Metodologia de Investigação Avançada em Serviço Social | CSO | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Estado e Políticas Públicas | E | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Desenvolvimento do Pensamento e da Teoria em Serviço Social | SS | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Serviço Social e Problemas Sociais Contemporâneos | SS | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Seminário Avançado em Intervenção em Serviço Social | SS | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Seminário de Projeto de Tese | SS | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Seminário Avançado de Análise de Dados | CSO | 2.º | Semestral | 260,0 |  |  |  |  | 20,0 |  |  |  | 20,0 | 10,0 |  |  |
+| Seminário de Desenvolvimento de Tese | SS | 2.º | Semestral | 520,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 20,0 |  |  |
+| Tese | SS | 2.º | Semestral | 800,0 |  |  |  |  |  |  | 30,0 |  | 30,0 | 30,0 |  |  |
+| Tese | SS | 3.º | Semestral | 800,0 |  |  |  |  |  |  | 30,0 |  | 30,0 | 30,0 |  |  |
+| Tese | SS | 3.º | Semestral | 800,0 |  |  |  |  |  |  | 30,0 |  | 30,0 | 30,0 |  | " |
+
+2 - Procede-se em anexo à republicação e consequente retificação do [Aviso n.º 10649/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso/10649-2024-865034794), Diário da República, 2.ª série, n.º 95, de 16 de maio de 2024, que altera a estrutura curricular e o plano de estudos do 3.º ciclo de estudos em Serviço Social, ministrado na Universidade Lusíada - Centro Universitário Lusíada - Lisboa.
+
+16 de maio de 2024. - O Reitor da Universidade Lusíada, Prof. Doutor Afonso Filipe Pereira d’Oliveira Martins.
+
+## ANEXO
+
+Considerando que as alterações à estrutura curricular e ao plano de estudos do 3.º ciclo de estudos conducente à atribuição do grau de Doutor em Serviço Social, ministrado pela Universidade Lusíada - Centro Universitário Lusíada - Lisboa, publicado através do Despacho n.º 4711/2014, de 1 de abril de 2014, no Diário da República, 2.ª série, n.º 64, foram, nos termos dos artigos 75.º a 80.º do Regime jurídico dos graus e diplomas do ensino superior - RJGDES, objeto de registo na Direção-Geral do Ensino Superior, em 10 de abril de 2024 (ID-3219), com o n.º R/A-Ef 307/2012/AL01;
+
+Considerando o disposto no n.º 2 do artigo 54-A.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na sua redação atual;
+
+Considerando o disposto no n.º 8 do Despacho n.º 5941/2016, de 22 de abril de 2016, do Diretor-Geral do Ensino Superior, publicado no Diário da República, 2.ª série, n.º 86, de 4 de maio de 2016;
+
+Determino a publicação da estrutura curricular e do plano de estudos do 3.º ciclo de estudos conducente à atribuição do grau de Doutor em Serviço Social, ministrado pela Universidade Lusíada - Centro Universitário Lusíada - Lisboa, com as alterações que lhe foram introduzidas e registadas nos termos enunciados.
+
+22 de abril de 2024. - O Reitor da Universidade Lusíada, Prof. Doutor Afonso Filipe Pereira d’Oliveira Martins.
+
+## ANEXO
+
+1 - Instituição de ensino: Universidade Lusíada - Centro Universitário Lusíada - Lisboa (2410).
+
+2 - Tipo de curso: Doutoramento - 3.º ciclo.
+
+3 - Denominação: Serviço Social.
+
+4 - Grau ou diploma: Doutor.
+
+5 - Número de créditos, segundo o sistema europeu de transferência de créditos, necessário à obtenção do grau ou diploma: 180 créditos ECTS.
+
+6 - Opções, ramos, áreas de especialização, especialidades ou outras formas de organização da estrutura curricular: Não aplicável.
+
+7 - Estrutura curricular:
+
+QUADRO N.º 1
+
+| Áreas científicas | Sigla | Créditos | Créditos |
+| --- | --- | --- | --- |
+| Áreas científicas | Sigla | Obrigatórios | Opcionais |
+| Serviço Social | SS | 150,0 |  |
+| Economia | E | 10,0 |  |
+| Ciências Sociais | CSO | 20,0 |  |
+| Subtotal |  | 180,0 |  |
+| Total |  | 180 |  |
+
+8 - Observações:
+
+9 - Plano de estudos (retificado em 16 de maio de 2024):
+
+QUADRO N.º 2
+
+| Unidade curricular(1) | Área científica(2) | Ano curricular(3) | Organização do ano curricular(4) | Total(5) | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos(7) | Observações(8) | Observações(8) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unidade curricular(1) | Área científica(2) | Ano curricular(3) | Organização do ano curricular(4) | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos(7) | Observações(8) | Observações(8) |
+| Unidade curricular(1) | Área científica(2) | Ano curricular(3) | Organização do ano curricular(4) | Total(5) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Créditos(7) | Observações(8) | Observações(8) |
+| Metodologia de Investigação Avançada em Serviço Social | CSO | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Estado e Políticas Públicas | E | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Desenvolvimento do Pensamento e da Teoria em Serviço Social | SS | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Serviço Social e Problemas Sociais Contemporâneos | SS | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Seminário Avançado em Intervenção em Serviço Social | SS | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Seminário de Projeto de Tese | SS | 1.º | Semestral | 260,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 10,0 |  |  |
+| Seminário Avançado de Análise de Dados | CSO | 2.º | Semestral | 260,0 |  |  |  |  | 20,0 |  |  |  | 20,0 | 10,0 |  |  |
+| Seminário de Desenvolvimento de Tese | SS | 2.º | Semestral | 520,0 |  |  |  |  | 30,0 |  |  |  | 30,0 | 20,0 |  |  |
+| Tese | SS | 2.º | Semestral | 800,0 |  |  |  |  |  |  | 30,0 |  | 30,0 | 30,0 |  |  |
+| Tese | SS | 3.º | Semestral | 800,0 |  |  |  |  |  |  | 30,0 |  | 30,0 | 30,0 |  |  |
+| Tese | SS | 3.º | Semestral | 800,0 |  |  |  |  |  |  | 30,0 |  | 30,0 | 30,0 |  | " |

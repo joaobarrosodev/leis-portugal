@@ -1,0 +1,203 @@
+---
+schema_version: '1.0'
+id: pt:dre:333287:por
+title: Decreto Regulamentar n.º 6/90
+short_title: null
+summary: Regulamenta o Decreto-Lei n.º 157/89, de 12 de Maio [cria o Centro Escolar do Senhor da Serra (CESS)]
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 6/90
+official_date: null
+publication_date: '1990-03-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 66/1990, Série I de 1990-03-20
+  number: '66'
+  series: I
+  supplement: null
+  pages: 1383 - 1384
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06600/13831384.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '333287'
+  dre_path: /dr/detalhe/decreto-regulamentar/6-1990-333287
+  internal: pt:dre:333287:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1990-333287
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1990-333287
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-03-20T00:00:00Z'
+integrity:
+  source_sha256: 9877d0cbab1d92e8a65cbb2743d702445a51221a164d2ec3e68c5828b670ad49
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-6-333287.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 6/90
+
+de 20 de Março
+
+O [Decreto-Lei n.º 157/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1989-611551), de 12 de Maio, cria, na localidade do Senhor da Serra, Município de Miranda do Corvo, distrito de Coimbra, o Centro Escolar do Senhor da Serra (CESS), o qual funcionará em regime experimental durante um período de cinco anos, com a frequência de crianças desde os 3 anos de idade até ao 3.º ciclo do ensino básico.
+
+Tal experiência, agora institucionalizada, concretiza o disposto nos n.os 1 e 2 do artigo 40.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro. Resta, porém, regulamentar, conforme se previa no n.º 2 do artigo 5.º do citado decreto-lei, as competências da comissão instaladora, do conselho pedagógico e do conselho administrativo deste Centro Escolar.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 5.º do [Decreto-Lei n.º 157/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1989-611551), de 12 de Maio, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º Os órgãos do Centro Escolar do Senhor de Serra (CESS) são os seguintes:
+
+a) Comissão instaladora;
+
+b) Conselho pedagógico;
+
+c) Conselho administrativo;
+
+d) Conselho consultivo.
+
+###### Art. 2.º A comissão instaladora é o órgão deliberativo do Centro Escolar, exceptuada a competência específica do conselho pedagógico no que respeita à orientação pedagógica e do conselho administrativo em matéria de gestão financeira e orçamental.
+
+###### Art. 3.º - 1 - A comissão instaladora é constituída por três docentes, um elemento do pessoal administrativo com categoria não inferior a segundo-oficial e um elemento do pessoal auxiliar.
+
+2 - Aos membros docentes são atribuídos os cargos de presidente, vice-presidente e professor-secretário.
+
+###### Art. 4.º - 1 - O presidente da comissão instaladora é nomeado por despacho do Ministro da Educação, sob proposta do director regional de educação, ouvida a Inspecção-Geral de Ensino.
+
+2 - Os restantes elementos da comissão instaladora serão nomeados pelo director regional de educação, sob proposta do presidente.
+
+3 - O director regional de educação dá posse à comissão instaladora no prazo de 15 dias após a sua nomeação e do acto dará conhecimento à Inspecção-Geral de Ensino.
+
+###### Art. 5.º São atribuições da comissão instaladora as que se encontram definidas para os conselhos directivos das escolas preparatórias e secundárias e para os órgãos directivos das escolas do ensino primário e de educação pré-escolar.
+
+###### Art. 6.º As competências do presidente e dos membros docentes da comissão instaladora são as atribuídas por lei ao presidente e membros docentes do conselho directivo.
+
+###### Art. 7.º O conselho pedagógico é o órgão de gestão do Centro Escolar nos domínios da orientação e coordenação pedagógicas, bem como da relação escola-família-meio.
+
+###### Art. 8.º O conselho pedagógico tem a seguinte composição:
+
+a) Presidente da comissão instaladora, que preside;
+
+b) Um professor representante da educação pré-escolar, do ensino primário, do ensino preparatório e do ensino secundário;
+
+c) O coordenador dos directores de turma;
+
+d) Um representante dos alunos do ensino secundário;
+
+e) Um representante dos pais e encarregados de educação ou da sua associação de pais, se esta se encontrar legalmente constituída;
+
+f) Um representante do conselho consultivo.
+
+###### Art. 9.º São competências do conselho pedagógico as que se encontram definidas por lei para a gestão das escolas preparatórias e secundárias, respeitadas, porém, as devidas adaptações, que constarão do regulamento interno do Centro Escolar.
+
+Art 10.º - 1 - O conselho consultivo é o órgão de apoio ao conselho pedagógico, especialmente no âmbito da interacção escola-comunidade.
+
+2 - O conselho consultivo tem a seguinte composição:
+
+a) O presidente do conselho pedagógico, que presidirá;
+
+b) Um representante dos pais e encarregados de educação ou da sua associação de pais, se esta se encontrar legalmente constituída;
+
+c) Um representante da autarquia local;
+
+d) O médico escolar;
+
+e) O psicólogo, quando exista;
+
+f) O assistente social, quando exista.
+
+3 - Compete ao conselho consultivo:
+
+a) Colaborar na construção de um projecto da escola;
+
+b) Apreciar o plano anual de actividades do Centro e colaborar na sua execução;
+
+c) Formular os pareceres e as sugestões que lhe forem solicitados ou que considere oportunos;
+
+d) Propor acções que reforcem a cooperação entre a escola e o meio;
+
+e) Cooperar nas acções relativas à segurança, conservação do edifício e equipamento e aproveitamento integral do património do Centro Escolar.
+
+###### Art. 11.º - 1 - O conselho administrativo é constituído por um presidente, um vice-presidente e um secretário.
+
+2 - As funções de presidente do conselho administrativo serão desempenhadas pelo presidente da comissão instaladora ou pelo seu vice-presidente, quando tal competência lhe for delegada.
+
+3 - As funções de vice-presidente do conselho administrativo serão desempenhadas pelo secretário da comissão instaladora.
+
+4 - As funções de secretário do conselho administrativo serão desempenhadas pelo elemento do pessoal administrativo que integre a comissão instaladora.
+
+###### Art. 12.º Compete ao conselho administrativo:
+
+a) Estabelecer as regras a que deve obedecer a administração do Centro Escolar, de acordo com as normas gerais da contabilidade pública e a competente orientação dos serviços centrais do Ministério da Educação;
+
+b) Aprovar os projectos de orçamento e a conta de gerência;
+
+c) Verificar a legalidade das despesas efectuadas e autorizar o respectivo pagamento;
+
+d) Fiscalizar a cobrança das receitas e dar balanço ao cofre a cargo do tesoureiro;
+
+e) Velar pela manutenção e conservação do património, bem como pela permanente utilização do respectivo cadastro;
+
+f) Aceitar, cumpridos os requisitos legais, as liberalidades feitas a favor do Centro Escolar.
+
+###### Art. 13.º No seu funcionamento, o conselho administrativo regular-se-á pelo previsto nos artigos 34.º a 36.º do [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), de 23 de Outubro.
+
+Presidência do Conselho de Ministros, 29 de Janeiro de 1990.
+
+Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro.
+
+**Promulgado em 2 de Março de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 5 de Março de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

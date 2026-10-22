@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:575335:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-56873988",
+ "dre_path": "/dr/detalhe/portaria/701-b-2008-575335",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108115403",
+    "56873902",
+    "56873903",
+    "56873904"
+   ]
+  },
+  {
+   "date": "2009-10-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:482826:por",
+     "title": "Portaria n.º 1265/2009",
+     "published": "2009-10-16",
+     "dre_path": "/dr/detalhe/portaria/1265-2009-482826"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "56873901",
+    "56873909",
+    "56873903",
+    "56873904",
+    "56873906"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108086621:por",
+     "title": "Decreto-Lei n.º 111-B/2017",
+     "published": "2017-08-31",
+     "dre_path": "/dr/detalhe/decreto-lei/111-b-2017-108086621"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "108115403",
+    "108115404",
+    "108115405",
+    "108115406",
+    "108115407"
+   ]
+  }
+ ],
+ "fragments": {
+  "108115403": {
+   "fragment_id": "56873989",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-01-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 701-B/2008\n\nde 29 de Julho\n\nO Decreto-Lei n.º 18/2008, de 29 de Janeiro, que aprovou o Código dos Contratos Públicos, previu a criação de uma comissão de acompanhamento da sua aplicação no sentido de contribuir para uma posterior revisão do mesmo se tal se revelar necessário e nos termos que, da observação crítica da prática da contratação pública, resultem como os mais adequados.\n\nCabe, assim, nomear as entidades cujos representantes integrarão a comissão de acompanhamento.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 17.º do Decreto-Lei n.º 18/2008, de 29 de Janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Comunicações, o seguinte:"
+  },
+  "56873902": {
+   "fragment_id": "56873990",
+   "type": 11,
+   "heading": "Artigo 1.º — Nomeação da comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Nomeação da comissão de acompanhamento\n\n1 - É nomeada a comissão de acompanhamento do Código dos Contratos Públicos (CA), a qual é composta:\n\na) Por um representante do Ministério das Finanças e da Administração Pública;\n\nb) Por um representante do Ministério das Obras Públicas, Transportes e Comunicações;\n\nc) Por um representante do Governo Regional dos Açores;\n\nd) Por um representante do Governo Regional da Madeira;\n\ne) Por um representante da Associação Nacional de Municípios Portugueses;\n\nf) Por um representante do InCI - Instituto da Construção e do Imobiliário, I. P.;\n\ng) Por um representante da Agência Nacional de Compras Públicas, E. P. E.;\n\nh) Por um representante da Autoridade da Concorrência;\n\ni) Por dois representantes da entidade representativa do sector da construção e obras públicas a nível nacional;\n\nj) Por um representante das plataformas electrónicas em actividade no mercado.\n\n2 - A representação das entidades referidas no número anterior não implica, em qualquer dos casos, a atribuição de remuneração.\n\n3 - A coordenação da CA cabe, conjuntamente, aos representantes dos Ministérios das Finanças e da Administração Pública e das Obras Públicas, Transportes e Comunicações."
+  },
+  "56873903": {
+   "fragment_id": "56873991",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência da CA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência da CA\n\n1 - Compete à CA recolher os elementos relativos à aplicação do Código dos Contratos Públicos para avaliar o seu impacte e propor eventuais alterações que se revelem necessárias à garantia ou à melhoria da eficácia das soluções nele consagradas.\n\n2 - A CA é incumbida da elaboração trimestral de um relatório da sua actividade, a remeter aos ministros responsáveis pelas áreas das finanças e das obras públicas."
+  },
+  "56873904": {
+   "fragment_id": "56873992",
+   "type": 11,
+   "heading": "Artigo 3.º — Funcionamento da CA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funcionamento da CA\n\n1 - A organização e o funcionamento da CA são fixados por regulamento interno, cabendo aos coordenadores da comissão, conjuntamente, agendar as reuniões e definir o local de realização das mesmas.\n\n2 - A CA inicia funções com a entrada em vigor do Código dos Contratos Públicos, devendo proceder à primeira reunião até ao dia 15 de Setembro de 2008.\n\n3 - A CA permanece em funcionamento durante um período de cinco anos, podendo o seu mandato ser renovado por despacho dos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Comunicações."
+  },
+  "56873901": {
+   "fragment_id": "56873989",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 701-B/2008\n\nde 29 de Julho\n\nO Decreto-Lei n.º 18/2008, de 29 de Janeiro, que aprovou o Código dos Contratos Públicos, previu a criação de uma comissão de acompanhamento da sua aplicação no sentido de contribuir para uma posterior revisão do mesmo se tal se revelar necessário e nos termos que, da observação crítica da prática da contratação pública, resultem como os mais adequados.\n\nCabe, assim, nomear as entidades cujos representantes integrarão a comissão de acompanhamento.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 17.º do Decreto-Lei n.º 18/2008, de 29 de Janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Comunicações, o seguinte:"
+  },
+  "56873909": {
+   "fragment_id": "56873990",
+   "type": 11,
+   "heading": "Artigo 1.º — Nomeação da comissão de acompanhamento",
+   "in_force_from": "2009-10-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1265/2009 - Diário da República n.º 201/2009, Série I de 2009-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1265-2009-482826), em vigor a partir de 2009-10-17"
+   ],
+   "markdown": "###### Artigo 1.º — Nomeação da comissão de acompanhamento\n\n1 - É nomeada a comissão de acompanhamento do Código dos Contratos Públicos (CA), a qual é composta:\n\na) Por um representante do Ministério das Finanças e da Administração Pública;\n\nb) Por um representante do Ministério das Obras Públicas, Transportes e Comunicações;\n\nc) Por um representante do Governo Regional dos Açores;\n\nd) Por um representante do Governo Regional da Madeira;\n\ne) Por um representante da Associação Nacional de Municípios Portugueses;\n\nf) Por um representante do InCI - Instituto da Construção e do Imobiliário, I. P.;\n\ng) Por um representante da Agência Nacional de Compras Públicas, E. P. E.;\n\nh) Por um representante da Autoridade da Concorrência;\n\ni) Por dois representantes da entidade representativa do sector da construção e obras públicas a nível nacional;\n\nj) Por um representante das plataformas electrónicas em actividade no mercado.\n\nl) Por um representante do Laboratório Nacional de Engenharia Civil, I. P.;\n\nm) Por um representante da Ordem dos Engenheiros;\n\nn) Por um representante da Ordem dos Arquitectos; e\n\no) Por um representante da Associação Portuguesa de Projectistas e Consultores.\n\n2 - A representação das entidades referidas no número anterior não implica, em qualquer dos casos, a atribuição de remuneração.\n\n3 - A coordenação da CA cabe, conjuntamente, aos representantes dos Ministérios das Finanças e da Administração Pública e das Obras Públicas, Transportes e Comunicações.\n\n> Alterado pelo/a [Portaria n.º 1265/2009 - Diário da República n.º 201/2009, Série I de 2009-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1265-2009-482826), em vigor a partir de 2009-10-17"
+  },
+  "56873906": {
+   "fragment_id": "56873993",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 25 de Julho de 2008.\n\nO Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia."
+  },
+  "108115404": {
+   "fragment_id": "56873990",
+   "type": 11,
+   "heading": "Artigo 1.º — Nomeação da comissão de acompanhamento",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01",
+    "Alterado pelo/a [Portaria n.º 1265/2009 - Diário da República n.º 201/2009, Série I de 2009-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1265-2009-482826), em vigor a partir de 2009-10-17"
+   ],
+   "markdown": "###### Artigo 1.º — Nomeação da comissão de acompanhamento\n\n1 - É nomeada a comissão de acompanhamento do Código dos Contratos Públicos (CA), a qual é composta:\n\na) Por um representante do Ministério das Finanças e da Administração Pública;\n\nb) Por um representante do Ministério das Obras Públicas, Transportes e Comunicações;\n\nc) Por um representante do Governo Regional dos Açores;\n\nd) Por um representante do Governo Regional da Madeira;\n\ne) Por um representante da Associação Nacional de Municípios Portugueses;\n\nf) Por um representante do InCI - Instituto da Construção e do Imobiliário, I. P.;\n\ng) Por um representante da Agência Nacional de Compras Públicas, E. P. E.;\n\nh) Por um representante da Autoridade da Concorrência;\n\ni) Por dois representantes da entidade representativa do sector da construção e obras públicas a nível nacional;\n\nj) Por um representante das plataformas electrónicas em actividade no mercado.\n\nl) Por um representante do Laboratório Nacional de Engenharia Civil, I. P.;\n\nm) Por um representante da Ordem dos Engenheiros;\n\nn) Por um representante da Ordem dos Arquitectos; e\n\no) Por um representante da Associação Portuguesa de Projectistas e Consultores.\n\n2 - A representação das entidades referidas no número anterior não implica, em qualquer dos casos, a atribuição de remuneração.\n\n3 - A coordenação da CA cabe, conjuntamente, aos representantes dos Ministérios das Finanças e da Administração Pública e das Obras Públicas, Transportes e Comunicações.\n\n> Revogado pelo/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a [Portaria n.º 1265/2009 - Diário da República n.º 201/2009, Série I de 2009-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1265-2009-482826), em vigor a partir de 2009-10-17"
+  },
+  "108115405": {
+   "fragment_id": "56873991",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência da CA",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Competência da CA\n\n1 - Compete à CA recolher os elementos relativos à aplicação do Código dos Contratos Públicos para avaliar o seu impacte e propor eventuais alterações que se revelem necessárias à garantia ou à melhoria da eficácia das soluções nele consagradas.\n\n2 - A CA é incumbida da elaboração trimestral de um relatório da sua actividade, a remeter aos ministros responsáveis pelas áreas das finanças e das obras públicas.\n\n> Revogado pelo/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+  },
+  "108115406": {
+   "fragment_id": "56873992",
+   "type": 11,
+   "heading": "Artigo 3.º — Funcionamento da CA",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Funcionamento da CA\n\n1 - A organização e o funcionamento da CA são fixados por regulamento interno, cabendo aos coordenadores da comissão, conjuntamente, agendar as reuniões e definir o local de realização das mesmas.\n\n2 - A CA inicia funções com a entrada em vigor do Código dos Contratos Públicos, devendo proceder à primeira reunião até ao dia 15 de Setembro de 2008.\n\n3 - A CA permanece em funcionamento durante um período de cinco anos, podendo o seu mandato ser renovado por despacho dos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Comunicações.\n\n> Revogado pelo/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+  },
+  "108115407": {
+   "fragment_id": "56873993",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "Em 25 de Julho de 2008.\n\nO Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.\n\n> Revogado pelo/a [Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-b-2017-108086621), em vigor a partir de 2018-01-01"
+  }
+ }
+}

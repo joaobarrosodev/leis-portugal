@@ -1,0 +1,477 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:379919:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-889126998",
+ "dre_path": "/dr/detalhe/decreto-lei/289-1988-379919",
+ "source_lastmod": "2024-09-26",
+ "versions": [
+  {
+   "date": "1988-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889144068",
+    "889144069",
+    "889144070",
+    "889144071",
+    "889144072",
+    "889144073",
+    "889144074",
+    "889144275",
+    "889144276",
+    "889144277",
+    "889144278",
+    "889144279",
+    "889144280",
+    "889144281",
+    "889144282",
+    "889144283",
+    "889144285"
+   ]
+  },
+  {
+   "date": "1993-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:408881:por",
+     "title": "Decreto-Lei n.º 294/92",
+     "published": "1992-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/294-1992-408881"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Anexo",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "889144068",
+    "889144331",
+    "889144070",
+    "889144071",
+    "889144072",
+    "889144073",
+    "889144074",
+    "889144332",
+    "889144333",
+    "889144277",
+    "889144334",
+    "889144279",
+    "889144335",
+    "889144337",
+    "889144282",
+    "889144283",
+    "889144284",
+    "889144336"
+   ]
+  },
+  {
+   "date": "1999-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:694175:por",
+     "title": "Decreto-Lei n.º 445/99",
+     "published": "1999-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/445-1999-694175"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "889144068",
+    "889144331",
+    "889144338",
+    "889144071",
+    "889144072",
+    "889144073",
+    "889144074",
+    "889144332",
+    "889144333",
+    "889144277",
+    "889144334",
+    "889144279",
+    "889144335",
+    "889144337",
+    "889144282",
+    "889144283",
+    "889144284",
+    "889144336"
+   ]
+  },
+  {
+   "date": "2001-03-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:385026:por",
+     "title": "Decreto-Lei n.º 73/2001",
+     "published": "2001-02-26",
+     "dre_path": "/dr/detalhe/decreto-lei/73-2001-385026"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "889144068",
+    "889144339",
+    "889144340",
+    "889144071",
+    "889144072",
+    "889144073",
+    "889144074",
+    "889144332",
+    "889144333",
+    "889144277",
+    "889144334",
+    "889144279",
+    "889144335",
+    "889144337",
+    "889144282",
+    "889144283",
+    "889144284",
+    "889144336"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243769:por",
+     "title": "Lei n.º 64-B/2011",
+     "published": "2011-12-30",
+     "dre_path": "/dr/detalhe/lei/64-b-2011-243769"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "889144068",
+    "889282169",
+    "889282170",
+    "889144071",
+    "889282171",
+    "889144073",
+    "889144074",
+    "889144332",
+    "889282172",
+    "889144277",
+    "889144334",
+    "889144279",
+    "889144335",
+    "889144337",
+    "889144282",
+    "889144283",
+    "889144284",
+    "889144336"
+   ]
+  }
+ ],
+ "fragments": {
+  "889144068": {
+   "fragment_id": "889126999",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 289/88\n\nde 24 de Agosto\n\nTem-se constatado que o processo de desalfandegamento de mercadorias actualmente em vigor não permite o seu desembaraço aduaneiro em prazos que possam ser considerados razoáveis.\n\nEsta situação é inconveniente, quer para os serviços, que se vêem confrontados com a exigência de controlar o cumprimento de numerosas formalidades, quer para os declarantes perante a alfândega, designadamente os despachantes oficiais, que têm de as cumprir, quer para os agentes económicos, que têm de suportar eventuais prejuízos decorrentes da demora no desalfandegamento das mercadorias.\n\nImpõe-se, por isso, rever o actual processo de desalfandegamento, com vista a tornar mais célere a importação e a exportação.\n\nNesta perspectiva, institui-se pelo presente decreto-lei a caução global para o desalfandegamento, a qual vem simplificar o sistema de prestação de garantia e de pagamento dos direitos e demais imposições e, assim, reduzir substancialmente os prazos de entrega das mercadorias.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "889144069": {
+   "fragment_id": "889127000",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É criada a caução global para desalfandegamento, que se destina a garantir os direitos e demais imposições devidos pela totalidade das declarações apresentadas pelo despachante oficial às alfândegas.\n\n2 - Os direitos e demais imposições compreendem os direitos aduaneiros e outras imposições de efeito equivalente, bem como quaisquer outros impostos ou taxas cuja cobrança esteja a cargo das alfândegas."
+  },
+  "889144070": {
+   "fragment_id": "889127001",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - No âmbito da utilização do sistema de caução global para desalfandegamento o despachante oficial age em nome próprio e por conta de outrem, constituindo-se, porém, aquele e a pessoa por conta de quem declara perante as alfândegas solidariamente responsáveis pelo pagamento dos direitos e demais imposições exigíveis.\n\n2 - O despachante oficial ou a entidade garante gozam do direito de regresso contra a pessoa por conta de quem foram pagos os direitos e demais imposições, fincando sub-rogados em todos os direitos das alfândegas relativos às quantias pagas, acompanhados de todos os seus privilégios, nomeadamente do direito de retenção sobre as mercadorias e documentos objecto das declarações apresentadas."
+  },
+  "889144071": {
+   "fragment_id": "889127002",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA caução global para desalfandegamento é prestada sob a forma de fiança bancária ou de seguro-caução."
+  },
+  "889144072": {
+   "fragment_id": "889127003",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - A prestação da caução global para desalfandegamento é autorizada pelo director da respectiva alfândega, que aprovará igualmente o seu montante, mediante requerimento apresentado pelo despachante oficial.\n\n2 - No requerimento o despachante oficial indicará os montantes dos direitos e demais imposições pagos e garantidos nos seis meses anteriores à sua apresentação e proporá o montante da respectiva caução.\n\n3 - O montante da caução não poderá, todavia, ser inferior ao que resultar da aplicação da fórmula C = 1,5 A + 0,2 B, sendo:\n\nC, o montante da caução global para desalfandegamento;\n\nA, a média mensal dos direitos e demais imposições pagos nos seis meses anteriores à apresentação do requerimento;\n\nB, a média mensal dos direitos e demais imposições garantidos no mesmo período de tempo, com exclusão dos direitos e demais imposições que tenham sido, previamente e com carácter permanente, objecto de garantia autónoma, prestada no âmbito de regimes suspensivos."
+  },
+  "889144073": {
+   "fragment_id": "889127004",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - O despachante oficial é responsável pela gestão permanente do saldo da caução global para desalfandegamento, devendo promover o respectivo reforço, nos termos do disposto no artigo seguinte, independentemente de notificação.\n\n2 - As autoridades aduaneiras poderão, sempre que o julguem necessário, proceder ao respectivo controle, devendo o despachante oficial dispor dos registos adequados para o efeito."
+  },
+  "889144074": {
+   "fragment_id": "889127005",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - O montante da caução global para desalfandegamento será reforçado ou poderá ser reduzido, sempre que se verifique estar frequentemente desajustado, relativamente ao montante dos direitos e demais imposições efectivamente pagos ou garantidos durante o período.\n\n2 - Os ajustamentos referidos no número anterior serão efectuados trimestralmente, sem prejuízo de serem autorizados a qualquer momento, quando circunstâncias excepcionais justificaram a alteração do montante da caução.\n\n3 - Quando, ocasionalmente, o montante da caução global para desalfandegamento for insuficiente para garantir o pagamento dos direitos e demais imposições durante determinado período, o despachante oficial será autorizado a prestar uma garantia, sob a forma de depósito, a fim de suprir a referida insuficiência."
+  },
+  "889144275": {
+   "fragment_id": "889127006",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - Os direitos e demais imposições exigíveis num determinado período, coincidente com o mês do calendário, serão objecto de um único pagamento, a efectuar até ao dia 15 do mês seguinte, nos termos previstos no Decreto-Lei n.º 504-D/85, de 30 de Dezembro.\n\n2 - Para efeitos de aplicação do artigo 6.º do diploma referido no n.º 1, a caução global para desalfandegamento é considerada garantia apropriada."
+  },
+  "889144276": {
+   "fragment_id": "889127007",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1 - Os direitos e demais imposições relativos a declarações aceites durante o período do mês do calendário e cujo pagamento deva continuar suspenso para além do dia 15 do mês seguinte ao referido período deverão ser objecto de garantia autónoma, até ao final daquele prazo, prestada de acordo com as regras aplicáveis em cada caso.\n\n2 - Serão igualmente objecto de garantia autónoma, prestada no mesmo prazo, os direitos e demais imposições que se tornem exigíveis durante o período do mês do calendário e cujo pagamento esteja diferido para além do dia 15 do mês seguinte ao referido período.\n\n3 - Nas situações previstas no n.º 1, relativas a regimes suspensivos e para as quais tenham sido, previamente e com carácter permanente, prestadas garantias autónomas, a caução global para desalfandegamento apenas será utilizada no caso de as referidas garantias se revelarem insuficientes."
+  },
+  "889144277": {
+   "fragment_id": "889127008",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Quando os serviços aduaneiros constatarem o incumprimento do disposto no n.º 1 do artigo 5.º, o director da alfândega determinará de imediato:\n\na) A notificação ao despachante oficial para proceder à regularização da situação, nomeadamente através de depósito correspondente, no mínimo, ao montante do saldo devedor, no prazo de três dias úteis, findo o qual incorrerá no disposto no artigo 10.º;\n\nb) A suspensão da aceitação de declarações ao abrigo do sistema da caução global para desalfandegamento até a situação ter sido regularizada.\n\n2 - Se a situação prevista no n.º 1 se repetir, o director da alfândega determinará o reforço imediato da caução em montante correspondente ao saldo devedor mais elevado que se tiver verificado.\n\n3 - No caso de se voltar a repetir, relativamente à mesma caução e dentro do mesmo ano económico, a situação referida no n.º 1, o director da alfândega determinará a suspensão de aceitação de declarações ao abrigo do sistema da caução global para desalfandegamento durante os seis meses subsequentes.\n\n4 - O director da alfândega poderá delegar nos chefes das estâncias aduaneiras a competência prevista nos números anteriores.\n\n5 - O disposto nos números anteriores não prejudica a eventual aplicação de sanções decorrentes da violação de outras disposições legais."
+  },
+  "889144278": {
+   "fragment_id": "889127009",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Em caso de incumprimento do disposto no n.º 1 do artigo 7.º ou na alínea a) do n.º 1 do artigo 9.º, o director da alfândega determinará de imediato:\n\na) A notificação de pagamento à entidade garante;\n\nb) A suspensão, por seis meses, da aceitação de declarações ao abrigo do sistema da caução global para desalfandegamento;\n\nc) A instauração de processo disciplinar ao despachante oficial para efeitos de aplicação do disposto no n.º 2 do artigo 465.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965.\n\n2 - No caso de se repetir a situação referida no n.º 1, o director da alfândega determinará o cancelamento definitivo da autorização para utilização do sistema da caução global para desalfandegamento.\n\n3 - O disposto nos números anteriores não prejudica a eventual aplicação das sanções decorrentes da violação de outras disposições legais."
+  },
+  "889144279": {
+   "fragment_id": "889127010",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO termo de caução global para desalfandegamento, em qualquer das suas modalidades, deverá obedecer ao modelo constante do anexo ao presente diploma, que dele faz parte integrante."
+  },
+  "889144280": {
+   "fragment_id": "889127011",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nQuando o despachante oficial exercer a sua actividade em sociedade, o disposto nos artigos anteriores é aplicável à sociedade de despachantes, constituída de acordo com o Regulamento das Sociedades de Despachantes e Seus Empregados, aprovado pelo Decreto-Lei n.º 513-F1/79, de 27 de Dezembro, sem prejuízo da aplicação do disposto na alínea c) do n.º 1 do artigo 10.º a todos os sócios que sejam passíveis do procedimento aí referido."
+  },
+  "889144281": {
+   "fragment_id": "889127012",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nRelativamente às restantes entidades habilitadas a despachar, referidas no artigo 426.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, é aplicável o disposto nos artigos 1.º a 11.º do presente decreto-lei, com as seguintes alterações:\n\na) As referências ao despachante oficial serão entendidas como sendo feitas aos donos ou consignatários das mercadorias, nos casos previstos nos n.os 1 e 2 do artigo 426.º da Reforma Aduaneira, e às empresas ferroviárias ou de navegação aérea, nos casos referidos no n.º 3 do mesmo artigo;\n\nb) Relativamente ao disposto na alínea c) do n.º 1 do artigo 10.º, serão observadas as disposições constantes dos artigos 486.º e 487.º, ambos da Reforma Aduaneira."
+  },
+  "889144282": {
+   "fragment_id": "889127013",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO Ministro das Finanças aprovará, mediante despacho normativo, a regulamentação dos procedimentos necessários à execução do presente diploma."
+  },
+  "889144283": {
+   "fragment_id": "889127014",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - O presente decreto-lei produz efeitos a partir do dia 1 de Julho de 1988.\n\n2 - O disposto no n.º 3 do artigo 9.º só é aplicável aos factos ocorridos seis meses após a data referida no número anterior."
+  },
+  "889144285": {
+   "fragment_id": "889127016",
+   "type": 14,
+   "heading": "Anexo — Termo de caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Termo de caução\n\n(Artigo 11.º do Decreto-Lei n.º 289/88)\n\n... (ver nota a), com sede em ..., declara que pelo presente documento presta a favor da Alfândega de ... um(a) ... (ver nota b) até ao montante de ... para garantia do pagamento dos direitos e demais imposições e eventuais juros de mora pelo qual, no âmbito do sistema de caução global para desalfandegamento, instituído pelo Decreto-Lei n.º 289/88, de 24 de Agosto, seja responsável o despachante oficial ... (ver nota c), a Sociedade de Despachantes Oficiais ... ou alguns dos seus sócios ... (ver nota c).\n\nMais se declara que pela presente garantia se obriga como principal pagador, com expressa renúncia ao benefício da excussão, comprometendo-se ainda, ao primeiro pedido da Alfândega de ..., e sem necessidade de qualquer outra consideração, a pagar, no prazo de oito dias a contar da data da recepção do referido pedido, todas as quantias cujo pagamento seja da responsabilidade de ... (ver nota c).\n\nA presente garantia é válida pelo período de um ano, sendo sucessiva e automaticamente renovável por iguais períodos de tempo, salvo denúncia prévia da entidade garante com a antecedência mínima de 45 dias.\n\n... (assinaturas).\n\n(nota a) Identificação da entidade garante.\n\n(nota b) Fiança bancária ou seguro-caução.\n\n(nota c) Preencher a hipótese aplicável, de acordo com o disposto nos artigos 1.º, 12.º ou 13.º do Decreto-Lei n.º 289/88, de 24 de Agosto."
+  },
+  "889144331": {
+   "fragment_id": "889127000",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1993-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A caução global para desalfândegamento constitui garantia dos direitos e demais imposições relativos a declarações apresentadas pelo despachante oficial às alfândegas, sem prejuízo do disposto no n.º 1 do artigo 8.º\n\n2 - Os donos ou consignatários das mercadorias podem, igualmente, ser titulares de uma caução global para desalfândegamento, sendo-lhes aplicáveis, com as necessárias adaptações, as disposições dos artigos seguintes.\n\n3 - Para efeitos do presente diploma relevam os direitos aduaneiros e outras imposições de efeito equivalente, bem como quaisquer outros impostos ou taxas cuja cobrança esteja a cargo das alfândegas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+  },
+  "889144332": {
+   "fragment_id": "889127006",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1993-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - Os direitos e demais imposições exigíveis num determinado período, coincidente com o mês do calendário, serão objecto de um único pagamento, a efectuar até ao dia 15 do mês seguinte.\n\n2 - O despachante oficial pode efectuar um pagamento parcial, desde que o faça até ao termo do prazo fixado no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+  },
+  "889144333": {
+   "fragment_id": "889127007",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1993-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Os direitos e demais imposições que, a pedido do despachante oficial, não devam ser garantidos pela caução global serão objecto de pagamento o de diferimento do pagamento, de acordo com as regras previstas no Regulamento (CEE) n.º 1854/89, do Conselho, de 14 de Junho, e respectivos procedimentos de execução.\n\n2 - Os direitos e demais imposições, inicialmente garantidos pela caução global, podem ser objecto de garantia autónoma, prestada até ao termo do dia 15 do mês seguinte àquele em que a respectiva declaração tiver sido aceite, quando:\n\na) O seu pagamento deva continuar suspenso para além daquela data;\n\nb) Nos termos da legislação especial, gozem de prazo de diferimento do pagamento superior ao previsto no n.º 1 do artigo 7.º\n\n3 - Nas situações previstas na alínea a) do número anterior, relativas a regimes suspensivos e para as quais tenham sido, previamente e com carácter permanente, prestadas garantias autónomas, a caução global para desalfândegamento apenas será utilizada no caso de as referidas garantias se revelarem insuficientes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+  },
+  "889144334": {
+   "fragment_id": "889127009",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1993-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - Em caso de incumprimento total ou parcial do disposto no n.º 1 do artigo 7.º ou na alínea a) do n.º 1 do artigo 9.º, o director da alfândega determinará de imediato:\n\na) A notificação de pagamento à entidade garante;\n\nb) A suspensão, por seis meses, da aceitação de declarações ao abrigo do sistema da caução global para desalfandegamento;\n\nc) A instauração de processo disciplinar ao despachante oficial para efeitos de aplicação do disposto no n.º 2 do artigo 465.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965.\n\n2 - O disposto no número anterior não é aplicável quando o despachante oficial efectuar o pagamento dos direitos e demais imposições em dívida e respectivos juros de mora, em momento anterior à notificação da entidade garante.\n\n3 - No caso de se repetir a situação referida no n.º 1, o director da alfândega determinará o cancelamento definitivo da autorização para utilização do sistema da caução global para desalfândegamento.\n\n4 - O disposto nos números anteriores não prejudica a eventual aplicação das sanções decorrentes da violação de outras disposições legais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+  },
+  "889144335": {
+   "fragment_id": "889127011",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1993-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+   ],
+   "markdown": "###### Artigo 12.º\n\nQuando o despachante oficial exercer a sua actividade em sociedade, o disposto nos artigos anteriores é aplicável à sociedade de despachantes, constituída de acordo com o Regulamento das Sociedades de Despachantes Oficiais e seus Empregados, aprovado pelo Decreto-Lei n.º 513-F1/79, de 27 de Dezembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+  },
+  "889144337": {
+   "fragment_id": "889127012",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1993-01-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+   ],
+   "markdown": "###### Artigo 13.º\n\nRelativamente às restantes entidades habilitadas a despachar, referidas no artigo 426.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, é aplicável o disposto nos artigos 1.º a 11.º do presente decreto-lei, com as seguintes alterações:\n\na) As referências ao despachante oficial serão entendidas como sendo feitas aos donos ou consignatários das mercadorias, nos casos previstos nos n.os 1 e 2 do artigo 426.º da Reforma Aduaneira, e às empresas ferroviárias ou de navegação aérea, nos casos referidos no n.º 3 do mesmo artigo;\n\nb) Relativamente ao disposto na alínea c) do n.º 1 do artigo 10.º, serão observadas as disposições constantes dos artigos 486.º e 487.º, ambos da Reforma Aduaneira.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+  },
+  "889144284": {
+   "fragment_id": "889127015",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Junho de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 8 de Agosto de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Agosto de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "889144336": {
+   "fragment_id": "889127016",
+   "type": 14,
+   "heading": "Anexo — Termo de caução",
+   "in_force_from": "1993-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+   ],
+   "markdown": "## Anexo — Termo de caução\n\n(artigo 11.º do Decreto-Lei n.º 289/88)\n\n... (ver nota 1), com sede em ..., declara que pelo presente documento presta a favor da Alfândega de ... um(a) ... (ver nota 2) até ao montante de ... para garantia do pagamento dos direitos e demais imposições e eventuais juros de mora pelo qual, no âmbito do sistema de caução global para desalfandegamento, instituído pelo Decreto-Lei n.º 289/88, de 24 de Agosto, seja responsável ... (ver nota 3).\n\nMais se declara que pela presente garantia se obriga como principal pagador, com expressa renúncia ao benefício da excussão, e sem necessidade de qualquer outra consideração, a pagar, no prazo de oito dias a contar da data da recepção do referido pedido, todas as quantias cujo pagamento seja da responsabilidade de ... (ver nota 3).\n\nA presente garantia é válida pelo período de um ano, sendo sucessiva e automaticamente renovável por iguais períodos de tempo, salvo denúncia prévia da entidade garante com a antecedência mínima de 45 dias.\n\n... (assinaturas).\n\n(nota 1) Identificação da entidade garante.\n\n(nota 2) Fiança bancária ou seguro-caução.\n\n(nota 3) Preencher a hipótese aplicável, de acordo com o disposto nos n.os 1 ou 2 do artigo 1.º ou no artigo 12.º do Decreto-Lei n.º 289/88, de 24 de Agosto, na redacção que lhe foi dada pelo Decreto-Lei n.º 294/92, de 30 de Dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+  },
+  "889144338": {
+   "fragment_id": "889127001",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1999-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 445/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1999-694175), em vigor a partir de 1999-11-08"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - No âmbito da utilização do sistema de caução global para desalfandegamento, o despachante oficial e a pessoa por conta de quem declara perante as alfândegas são solidariamente responsáveis pelo pagamento dos direitos e demais imposições exigíveis.\n\n2 - O despachante oficial ou a entidade garante gozam do direito de regresso contra a pessoa por conta de quem foram pagos os direitos e demais imposições, fincando sub-rogados em todos os direitos das alfândegas relativos às quantias pagas, acompanhados de todos os seus privilégios, nomeadamente do direito de retenção sobre as mercadorias e documentos objecto das declarações apresentadas.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 445/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1999-694175), em vigor a partir de 1999-11-08"
+  },
+  "889144339": {
+   "fragment_id": "889127000",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2001-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A caução global para desalfândegamento constitui garantia dos direitos e demais imposições relativos a declarações apresentadas pelo despachante oficial às alfândegas, sem prejuízo do disposto no n.º 1 do artigo 8.º\n\n2 - Os donos ou consignatários das mercadorias, bem como qualquer pessoa que exerça a actividade de declarar perante a alfândega, podem, igualmente, ser titulares de uma caução global para desalfandegamento, sendo-lhes aplicáveis, com as necessárias adaptações, as disposições dos artigos seguintes.\n\n3 - Para efeitos do presente diploma relevam os direitos aduaneiros e outras imposições de efeito equivalente, bem como quaisquer outros impostos ou taxas cuja cobrança esteja a cargo das alfândegas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+  },
+  "889144340": {
+   "fragment_id": "889127001",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2001-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-05",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 445/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1999-694175), em vigor a partir de 1999-11-08"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - No âmbito da utilização do sistema de caução global para desalfandegamento, o despachante oficial age em nome próprio e por conta de outrem, constituindo-se, porém, aquele e a pessoa por conta de quem declara perante as alfândegas solidariamente responsáveis pelo pagamento dos direitos e demais imposições exigíveis.\n\n2 - O despachante oficial ou a entidade garante gozam do direito de regresso contra a pessoa por conta de quem foram pagos os direitos e demais imposições, fincando sub-rogados em todos os direitos das alfândegas relativos às quantias pagas, acompanhados de todos os seus privilégios, nomeadamente do direito de retenção sobre as mercadorias e documentos objecto das declarações apresentadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-05\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 445/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1999-694175), em vigor a partir de 1999-11-08"
+  },
+  "889282169": {
+   "fragment_id": "889127000",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 169.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A caução global para desalfândegamento constitui garantia dos direitos e demais imposições relativos a declarações apresentadas pelo despachante oficial às alfândegas, sem prejuízo do disposto no n.º 1 do artigo 8.º\n\n2 - Os donos ou consignatários das mercadorias, bem como qualquer pessoa que exerça a actividade de declarar perante a alfândega, podem, igualmente, ser titulares de uma caução global para desalfandegamento, sendo-lhes aplicáveis, com as necessárias adaptações, as disposições dos artigos seguintes.\n\n2 - Os donos ou consignatários das mercadorias, bem como qualquer pessoa que exerça a actividade de declarar perante a alfândega, podem, igualmente, ser titulares de uma caução global para desalfandegamento, sendo-lhes aplicáveis, com as necessárias adaptações, as disposições dos artigos seguintes, com excepção, no que respeita aos representantes, da possibilidade conferida pelo n.º 3 do artigo 2.º\n\n3 - A excepção a que se refere a parte final do número anterior vigora enquanto não for abolida a atribuição do exclusivo da declaração aduaneira em representação directa ao despachante oficial.\n\n4 - Para efeitos do presente diploma relevam os direitos aduaneiros e outras imposições de efeito equivalente, bem como quaisquer outros impostos ou taxas cuja cobrança esteja a cargo das alfândegas.\n\n> Alterado pelo/a Artigo 169.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+  },
+  "889282170": {
+   "fragment_id": "889127001",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 169.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-05",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 445/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1999-694175), em vigor a partir de 1999-11-08"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - No âmbito da utilização do sistema de caução global para desalfandegamento, o despachante oficial age em nome próprio e por conta de outrem, constituindo-se, porém, aquele e a pessoa por conta de quem declara perante as alfândegas solidariamente responsáveis pelo pagamento dos direitos e demais imposições exigíveis.\n\n2 - O despachante oficial ou a entidade garante gozam do direito de regresso contra a pessoa por conta de quem foram pagos os direitos e demais imposições, fincando sub-rogados em todos os direitos das alfândegas relativos às quantias pagas, acompanhados de todos os seus privilégios, nomeadamente do direito de retenção sobre as mercadorias e documentos objecto das declarações apresentadas.\n\n3 - Em derrogação ao disposto no n.º 1, o despachante oficial pode agir em nome e por conta de outrem no âmbito da caução global de que seja titular, quando possuir poderes de representação para o efeito, caso em que apenas se constitui solidariamente responsável pelo pagamento dos direitos e demais imposições apurados até ao termo do prazo de pagamento a que se refere o n.º 1 do artigo 7.º\n\n> Alterado pelo/a Artigo 169.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2001 - Diário da República n.º 48/2001, Série I-A de 2001-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), em vigor a partir de 2001-03-05\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 445/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1999-694175), em vigor a partir de 1999-11-08"
+  },
+  "889282171": {
+   "fragment_id": "889127003",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 169.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A prestação da caução global para desalfandegamento é autorizada pelo director da alfândega que, por opção do despachante oficial, seja a mais adequada ao exercício da sua actividade de declarar perante a alfândega, mediante requerimento por ele apresentado.\n\n2 - No requerimento o despachante oficial indicará os montantes dos direitos e demais imposições pagos e garantidos nos seis meses anteriores à sua apresentação e proporá o montante da respectiva caução.\n\n3 - O montante da caução não poderá, todavia, ser inferior ao que resultar da aplicação da fórmula C = 1,5 A + 0,2 B, sendo:\n\nC, o montante da caução global para desalfandegamento;\n\nA, a média mensal dos direitos e demais imposições pagos nos seis meses anteriores à apresentação do requerimento;\n\nB, a média mensal dos direitos e demais imposições garantidos no mesmo período de tempo, com exclusão dos direitos e demais imposições que tenham sido, previamente e com carácter permanente, objecto de garantia autónoma, prestada no âmbito de regimes suspensivos.\n\n> Alterado pelo/a Artigo 169.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "889282172": {
+   "fragment_id": "889127007",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 169.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Os direitos e demais imposições que, a pedido do despachante oficial, não devam ser garantidos pela caução global, serão objecto de pagamento ou de deferimento do pagamento de acordo com as regras previstas no Regulamento (CEE) n.º 2913/92, do Conselho, de 12 de Outubro, e respectivas disposições de aplicação.\n\n2 - Os direitos e demais imposições, inicialmente garantidos pela caução global, podem ser objecto de garantia autónoma, prestada até ao termo do dia 15 do mês seguinte àquele em que a respectiva declaração tiver sido aceite, quando:\n\na) O seu pagamento deva continuar suspenso para além daquela data;\n\nb) Nos termos da legislação especial, gozem de prazo de diferimento do pagamento superior ao previsto no n.º 1 do artigo 7.º\n\n3 - Nas situações previstas na alínea a) do número anterior, relativas a regimes suspensivos e para as quais tenham sido, previamente e com carácter permanente, prestadas garantias autónomas, a caução global para desalfândegamento apenas será utilizada no caso de as referidas garantias se revelarem insuficientes.\n\n> Alterado pelo/a Artigo 169.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/92 - Diário da República n.º 300/1992, Série I-A de 1992-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1992-408881), em vigor a partir de 1993-01-04"
+  }
+ }
+}

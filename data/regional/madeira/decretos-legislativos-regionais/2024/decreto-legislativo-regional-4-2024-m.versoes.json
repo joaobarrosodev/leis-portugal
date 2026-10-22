@@ -1,0 +1,666 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:858631721:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-923474972",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/4-2024-858631721",
+ "source_lastmod": "2025-07-04",
+ "versions": [
+  {
+   "date": "2024-04-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "923475036",
+    "923475037",
+    "923475038",
+    "923475039",
+    "923475040",
+    "923475041",
+    "923475042",
+    "923475043",
+    "923475044",
+    "923475045",
+    "923475046",
+    "923475047",
+    "923475048",
+    "923475049",
+    "923475050",
+    "923475051",
+    "923475052",
+    "923475053",
+    "923475054",
+    "923475055",
+    "923475056",
+    "923475057",
+    "923475058",
+    "923475059",
+    "923475060",
+    "923475061",
+    "923475062",
+    "923475063",
+    "923475064",
+    "923475065",
+    "923475066",
+    "923475067",
+    "923475068",
+    "923475069",
+    "923475070",
+    "923475071",
+    "923475072",
+    "923475073",
+    "923475074",
+    "923473675",
+    "923473676",
+    "923473677",
+    "923473678",
+    "923473679",
+    "923473680",
+    "923473681",
+    "923473682"
+   ]
+  },
+  {
+   "date": "2025-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:923290710:por",
+     "title": "Decreto Legislativo Regional n.º 2/2025/M",
+     "published": "2025-07-02",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2025-923290710"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "923475036",
+    "923475037",
+    "923475038",
+    "923475039",
+    "923475040",
+    "923475041",
+    "923475042",
+    "923475043",
+    "923475044",
+    "923475045",
+    "923475046",
+    "923475047",
+    "923492322",
+    "923475049",
+    "923475050",
+    "923475051",
+    "923475052",
+    "923492323",
+    "923475054",
+    "923475055",
+    "923475056",
+    "923492324",
+    "923475058",
+    "923475059",
+    "923475060",
+    "923475061",
+    "923475062",
+    "923475063",
+    "923475064",
+    "923475065",
+    "923475066",
+    "923475067",
+    "923475068",
+    "923475069",
+    "923475070",
+    "923475071",
+    "923475072",
+    "923475073",
+    "923475074",
+    "923473675",
+    "923473676",
+    "923473677",
+    "923473678",
+    "923473679",
+    "923473680",
+    "923473681",
+    "923473682",
+    "923473683"
+   ]
+  },
+  {
+   "date": "2025-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993031451:por",
+     "title": "Decreto Legislativo Regional n.º 8/2025/M",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2025-993031451"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "923475036",
+    "923475037",
+    "923475038",
+    "923475039",
+    "923475040",
+    "923475041",
+    "923475042",
+    "923475043",
+    "923475044",
+    "923475045",
+    "923475046",
+    "993774207",
+    "923492322",
+    "923475049",
+    "923475050",
+    "923475051",
+    "923475052",
+    "923492323",
+    "923475054",
+    "993774203",
+    "923475056",
+    "923492324",
+    "923475058",
+    "923475059",
+    "923475060",
+    "993774204",
+    "923475062",
+    "993774205",
+    "923475064",
+    "923475065",
+    "923475066",
+    "993774206",
+    "923475068",
+    "923475069",
+    "923475070",
+    "923475071",
+    "923475072",
+    "923475073",
+    "923475074",
+    "923473675",
+    "923473676",
+    "923473677",
+    "923473678",
+    "923473679",
+    "923473680",
+    "923473681",
+    "923473682",
+    "923473683"
+   ]
+  }
+ ],
+ "fragments": {
+  "923475036": {
+   "fragment_id": "923474973",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 4/2024/M\n\nCria o programa de habitação pública apoiada denominado \"Programa de Renda Reduzida\"\n\nOs desafios que a política de habitação enfrenta na atualidade, aliada aos objetivos definidos na Estratégia Regional de Habitação 2020-2030, implicam uma adaptação da abordagem na sua forma tradicional de conceber e implementar as políticas públicas neste domínio, nomeadamente uma política que abranja as carências de vários estratos sociais, orientada para o acesso universal a uma habitação condigna.\n\nAssim, tendo por base o diagnóstico das carências habitacionais na Região Autónoma da Madeira constante da referida Estratégia Regional de Habitação e da sua avaliação intercalar, deverá ser assegurada a disponibilização de uma oferta pública de habitação de cariz social para os grupos mais vulneráveis e carenciados, bem como para as famílias que, apesar de terem rendimentos, não conseguem aceder a uma habitação condigna no mercado privado sem que isso implique uma sobrecarga sobre o orçamento familiar.\n\nA oposição à renovação de contratos de arrendamento e intransmissibilidade de arrendamentos antigos, bem como o aumento generalizado do custo de vida, decorrente do contexto inflacionista nos últimos anos e, em especial, das rendas no mercado privado que atingiram valores incomportáveis para os rendimentos das famílias, agravou o problema do acesso à habitação.\n\nNeste cenário, as estatísticas demonstram que os mais afetados são, por um lado, os jovens em início de vida ativa que se encontram impossibilitados de emancipação pessoal e familiar e, por outro, os agregados familiares com dependentes a cargo, cuja vulnerabilidade socioeconómica não lhes permite ter acesso, pelos próprios meios, a uma habitação.\n\nPelo que, a par do problema habitacional, assume primordial importância assegurar a fixação dos jovens na Região, de forma a combater o envelhecimento da população ativa.\n\nNeste âmbito e em convergência com a União Europeia, é urgente e primordial dar resposta a estas situações, mediante o alargamento da dimensão do parque habitacional público apoiado, visando garantir o acesso a uma habitação aos agregados mais desfavorecidos e cujos rendimentos do trabalho não lhes permite aceder ao mercado de arrendamento privado.\n\nA promoção de políticas públicas não deve ser estática, devendo admitir a criação de programas que permitam dar resposta às necessidades sentidas em cada momento pela população, garantindo, por um lado, o acesso a uma habitação digna e adequada aos rendimentos e à dimensão dos agregados familiares e, por outro, que o peso da resposta pública no mercado habitacional seja capaz de, a médio prazo, dar resposta às necessidades existentes e contribua para a regulação do mercado no seu todo, equilibrando a oferta e tornando a habitação mais acessível.\n\nFace à incapacidade de uma resposta pública assente no mercado privado, urge incrementar o parque habitacional público e fortalecer o papel das regiões autónomas e seus órgãos próprios, enquanto parte complementar no esforço de concretização da política pública de habitação, através de programas específicos para os seus territórios.\n\nComo tal, a criação de um regime de habitação apoiada que permita aceder também a outras situações de carência habitacional, nomeadamente das famílias que ainda não se encontrem em fim de linha, como será o caso do \"Programa de Renda Reduzida\" permitirá, por um lado, dar uma nova oportunidade a famílias que não têm um fácil acesso à habitação social e, por outro, que, em detrimento de respostas exclusivamente remediativas, se verifique uma ação preventiva, que minimize as eventuais situações de emergência. Deste modo, e assegurando que a classe trabalhadora possa ter, também ela, acesso a uma habitação condigna a valores mais baixos, garante-se a resiliência das famílias, a justiça e a coesão social no acesso a uma habitação.\n\nNa conjuntura socioeconómica atual, esta é uma condição imprescindível para a construção de uma política de habitação mais ampla e justa, que funcione efetivamente como um garante do direito à habitação, pelo que o \"Programa de Renda Reduzida\" é um programa regional que visa garantir que os cidadãos residentes na Região Autónoma da Madeira tenham condições de acesso a uma habitação condigna, reconhecendo que tal implica soluções adaptadas às situações concretas dos vários agregados familiares, numa visão integrada da habitação e do território regional.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos das disposições conjugadas do n.º 4 do artigo 112.º e da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º e da alínea z) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.<sup>os </sup>130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "923475037": {
+   "fragment_id": "923474974",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "923475038": {
+   "fragment_id": "923473575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente diploma estabelece o regime jurídico do programa regional de habitação pública apoiada designado por \"Programa de Renda Reduzida\".\n\n2 - O \"Programa de Renda Reduzida\" destina-se a apoiar os agregados familiares com rendimentos insuficientes para aceder, no mercado privado, a uma habitação condigna e adequada, sem que isso implique uma sobrecarga financeira no orçamento familiar."
+  },
+  "923475039": {
+   "fragment_id": "923473576",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nO presente programa aplica-se, exclusivamente, na Região Autónoma da Madeira e tem por objeto habitações públicas propriedade ou sob gestão detidas pela IHM - Investimentos Habitacionais da Madeira, EPERAM (IHM, EPERAM)."
+  },
+  "923475040": {
+   "fragment_id": "923473577",
+   "type": 11,
+   "heading": "Artigo 3.º — Fim das habitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fim das habitações\n\nAs habitações atribuídas ao abrigo do presente programa destinam-se a assegurar a residência permanente de agregados familiares, sem prejuízo do disposto no artigo seguinte."
+  },
+  "923475041": {
+   "fragment_id": "923473578",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza transitória da atribuição de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Natureza transitória da atribuição de habitação\n\nA atribuição de uma habitação pública apoiada ao abrigo do presente programa tem uma duração transitória, mantendo-se enquanto se verificarem os pressupostos que fundamentaram a sua atribuição."
+  },
+  "923475042": {
+   "fragment_id": "923473579",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidade gestora\n\nA entidade gestora do \"Programa de Renda Reduzida\" é a IHM, EPERAM, competindo-lhe a instrução e a análise das candidaturas, bem como a atribuição das habitações e a monitorização e o acompanhamento das condições socioeconómicas das famílias."
+  },
+  "923475043": {
+   "fragment_id": "923473580",
+   "type": 11,
+   "heading": "Artigo 6.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conceitos\n\nPara efeitos do presente diploma, consideram-se os seguintes conceitos:\n\na) \"Candidato\", o membro do agregado familiar, maior ou emancipado, que formaliza a candidatura e que deve ser titular da mesma, em representação de todo o agregado familiar, desde que detenha as capacidades físicas e psíquicas para a instrução do processo de candidatura;\n\nb) \"Agregado familiar\", a pessoa ou conjunto de pessoas que vivem em economia comum, ou seja, com partilha de habitação e vivência comum de entreajuda e partilha de recursos, composto, para além do candidato, por:\n\ni) Cônjuge ou pessoa que com ele viva em união de facto há mais de dois anos;\n\nii) Parentes e afins, em linha reta e em linha colateral, até ao 3.º grau;\n\niii) Adotados, tutelados e crianças e jovens confiados por decisão de entidade legalmente competente, a membro do agregado familiar;\n\nc) \"Agregado familiar jovem\", o agregado familiar cuja totalidade dos membros tem idade até 35 anos ou, no caso de cônjuge ou pessoa que com ele viva em união de facto há mais de dois anos, um dos membros do agregado familiar pode ter até 37 anos de idade;\n\nd) \"Família carenciada\", o agregado familiar cujos rendimentos auferidos não permitem o acesso, pelos próprios meios, a uma habitação condigna;\n\ne) \"Dependentes a cargo\", os menores de idade não emancipados (filhos, adotados, enteados ou sob tutela) a cargo do candidato, os maiores de idade até 25 anos a estudar em estabelecimento de ensino oficial e a pessoa com incapacidade física ou psíquica devidamente atestada;\n\nf) \"Portador de incapacidade\", a pessoa com grau de incapacidade igual ou superior a 60 % que integra o agregado familiar;\n\ng) \"Violência doméstica\", o contexto do agregado familiar em que foi atribuído o estatuto de vítima a pelo menos um dos seus membros, nos termos do regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, aprovado pela Lei n.º 112/2009, de 16 de setembro, e sua regulamentação, ou outro regime que lhe suceda;\n\nh) \"Habitação permanente\", o prédio urbano ou fração autónoma objeto do contrato de mútuo com o propósito de servir de residência ao candidato e seu agregado familiar e onde tenham organizada, de forma estável, a sua vida pessoal, familiar e social;\n\ni) \"Tipologia adequada\", o prédio ou fração autónoma destinado a habitação, apto a satisfazer condignamente as necessidades do agregado familiar, tendo em consideração a composição deste, a tipologia da habitação e as condições de habitabilidade e de segurança da mesma, de acordo com os critérios adotados pelo Instituto Nacional de Estatística, IP (INE, IP) em Espaço de Habitação Sobrelotado e nos termos definidos na portaria de regulamentação do presente diploma;\n\nj) \"Rendimento anual bruto\" (RAB), o valor dos rendimentos ilíquidos auferidos pelo agregado familiar, aferidos pelo rendimento global constante da última declaração de rendimentos das pessoas singulares (IRS) apresentada e validada pela Autoridade Tributária e Aduaneira (AT), sendo zero o valor do rendimento global ou não tendo havido lugar à entrega da declaração de IRS, considera-se a soma dos rendimentos ilíquidos auferidos pelo agregado familiar, nomeadamente:\n\ni) Os ordenados, salários e outras remunerações, incluindo diuturnidades, horas extraordinárias, gratificações e subsídios, com exceção do subsídio de alimentação, do abono de família e bolsas de estudo;\n\nii) As pensões de reforma, aposentação, velhice, invalidez, sobrevivência, baixas médicas e quaisquer outras;\n\niii) As prestações sociais relativas a desemprego, rendimento social de inserção e medidas ou programas de emprego;\n\niv) Outros rendimentos declarados;\n\nk) \"Rendimento anual líquido\" (RAL), o valor do rendimento anual bruto (RAB) apurado nos termos da alínea anterior do presente artigo, deduzido dos valores de retenção na fonte para efeitos de IRS e das contribuições obrigatórias efetuadas ao abrigo dos regimes da segurança social, Caixa Geral de Aposentações, I. P. (CGA, I. P.), Instituto de Proteção e Assistência na Doença, I. P. (ADSE, I. P.), Serviço de Assistência Médico-Social (SAMS) ou outros equiparados;\n\nl) \"Rendimento médio mensal líquido\" (RMML), o duodécimo do rendimento anual líquido (RAL) do agregado familiar;\n\nm) \"Remuneração mínima mensal garantida\" (RMMG), o valor da retribuição mínima mensal garantida em vigor na Região Autónoma da Madeira, definido anualmente por decreto legislativo regional;\n\nn) \"Inscrição\", ato através do qual um candidato submete eletronicamente com êxito a sua inscrição para acesso ao presente programa;\n\no) \"Candidatura\", ato através do qual um candidato submete eletronicamente com êxito a sua candidatura a uma habitação pública apoiada, em regime de renda acessível, nos concelhos indicados na respetiva inscrição;\n\np) \"Taxa de esforço do arrendamento\" (TEA), a relação existente entre o valor da renda mensal suportada para residência permanente do agregado familiar e o rendimento médio mensal líquido (RMML);\n\nq) \"Valor da renda por metro quadrado, em cada concelho\", corresponde ao valor mediano das rendas por metro quadrado de novos contratos de arrendamento de alojamentos familiares nos últimos 12 meses publicado pelo INE, I. P., para o concelho do Funchal, deduzido de uma percentagem do seu valor e afetado por um coeficiente de município conforme localização da habitação, nos termos definidos na portaria de regulamentação do presente diploma."
+  },
+  "923475044": {
+   "fragment_id": "923473581",
+   "type": 1,
+   "heading": "Capítulo II — Acesso ao programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acesso ao programa"
+  },
+  "923475045": {
+   "fragment_id": "923473582",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrições no programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inscrições no programa\n\n1 - Os interessados numa habitação pública ao abrigo do \"Programa de Renda Reduzida\" devem inscrever-se, através da plataforma online disponibilizada para o efeito, tendo por referência o concelho de residência ou de domicílio profissional do agregado familiar do candidato, bem como a tipologia adequada à sua dimensão, conforme previsto na alínea i) do artigo 6.º\n\n2 - A gestão das inscrições é realizada de acordo com as regras definidas na portaria de regulamentação do presente diploma."
+  },
+  "923475046": {
+   "fragment_id": "923473583",
+   "type": 11,
+   "heading": "Artigo 8.º — Requisitos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requisitos de acesso\n\n1 - Podem inscrever-se para atribuição de uma habitação pública apoiada ao abrigo do presente programa os agregados familiares com residência permanente na Região Autónoma da Madeira que reúnam cumulativamente os seguintes requisitos:\n\na) Que não possuam condições económico-financeiras para arrendar uma habitação pelos próprios meios, auferindo um RAB entre 12 e 70 RMMG, nos termos definidos na portaria de regulamentação do presente diploma;\n\nb) Cujos membros, adultos e em idade ativa, estejam inseridos no mercado de trabalho;\n\nc) Não integrem membros que sejam titulares de direitos sobre bens imóveis em condições de constituírem habitação permanente.\n\n2 - Os limites mínimos e máximos de rendimento anual bruto do agregado familiar a que se refere a alínea a) do número anterior podem ser atualizados por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da habitação e das finanças."
+  },
+  "923475047": {
+   "fragment_id": "923473584",
+   "type": 11,
+   "heading": "Artigo 9.º — Situações de impedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Situações de impedimento\n\n1 - Constituem impedimento à atribuição de uma habitação pública apoiada ao abrigo do presente programa as situações em que o candidato ou membro do seu agregado familiar:\n\na) Seja proprietário, usufrutuário ou detenha outro direito real sobre o imóvel urbano ou de fração autónoma de prédio urbano destinado a habitação, desde que o imóvel tenha condições de habitabilidade;\n\nb) Estejam a beneficiar de uma habitação pública com fins sociais propriedade ou sob gestão da IHM, EPERAM, ou outra entidade pública, exceto nos casos a que se refere a alínea c) do n.º 2 do artigo 27.º;\n\nc) Estejam a ocupar ilegalmente uma habitação propriedade ou sob gestão da IHM, EPERAM;\n\nd) Tenham beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de processo expropriativo, que se revele suficiente para a aquisição de uma habitação adequada ao seu agregado familiar a preços de mercado;\n\ne) Tenham sido arrendatários de habitação pública com fins sociais, em regime de arrendamento apoiado, sob gestão da IHM, EPERAM, cujo contrato de arrendamento tenha sido objeto de resolução por incumprimento.\n\n2 - Para efeitos de cumprimento do disposto no número anterior, o candidato tem de comprovar a não verificação das situações de impedimento elencadas, mediante entrega da documentação necessária para o efeito, nos termos definidos na portaria de regulamentação do presente diploma."
+  },
+  "923475048": {
+   "fragment_id": "923473585",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime\n\n1 - O \"Programa de Renda Reduzida\" tem por objeto as habitações públicas propriedade ou sob gestão da IHM, EPERAM, para atribuição quando disponíveis.\n\n2 - A atribuição de uma habitação pública apoiada ao abrigo do presente programa é efetuada mediante inscrição prévia e posterior candidatura às habitações disponíveis, sem prejuízo do regime excecional previsto no artigo 27.º\n\n> Nota: [Artigo 110.º, Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710) As alterações ao presente artigo apenas se aplicam às inscrições e candidaturas realizadas após o dia 2025-07-03, salvo se o regime ora instituído se revelar mais favorável ao interessado ou candidato ao «Programa de Renda Reduzida», casos em que produzem efeitos reportados ao dia 2024-04-04."
+  },
+  "923475049": {
+   "fragment_id": "923473586",
+   "type": 1,
+   "heading": "Capítulo III — Candidaturas e atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Candidaturas e atribuição"
+  },
+  "923475050": {
+   "fragment_id": "923473587",
+   "type": 8,
+   "heading": "Secção I — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Candidaturas"
+  },
+  "923475051": {
+   "fragment_id": "923473588",
+   "type": 11,
+   "heading": "Artigo 11.º — Formalização de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formalização de candidaturas\n\n1 - As habitações afetas ao presente programa são publicitadas através de aviso de abertura para efeitos de apresentação de candidaturas, as quais devem ser formalizadas na plataforma online da entidade gestora, de acordo com as regras e acompanhadas da documentação definidas na portaria de regulamentação do presente diploma.\n\n2 - Não são admitidas as candidaturas:\n\na) Sem inscrição prévia do candidato validada pela entidade gestora;\n\nb) Que tenham por objeto habitações cujo concelho e tipologia diferem dos indicados na inscrição validada pela entidade gestora, sem prejuízo do disposto no número seguinte.\n\n3 - Não sendo atribuídas todas as habitações disponíveis num determinado concelho, por falta de candidatos elegíveis, é publicitado novo aviso de abertura para os cidadãos inscritos noutros concelhos."
+  },
+  "923475052": {
+   "fragment_id": "923473589",
+   "type": 11,
+   "heading": "Artigo 12.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Análise das candidaturas\n\n1 - A análise das candidaturas apresentadas é efetuada pela entidade gestora, mediante verificação da conformidade dos documentos validados e avaliação socioeconómica do agregado familiar.\n\n2 - A entidade gestora procede à hierarquização das candidaturas validadas, de acordo com os critérios de ordenação previstos no artigo 14.º"
+  },
+  "923475053": {
+   "fragment_id": "923473590",
+   "type": 11,
+   "heading": "Artigo 13.º — Indeferimento de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Indeferimento de candidaturas\n\n1 - Constituem fundamento de indeferimento da candidatura:\n\na) O incumprimento de algum dos requisitos previstos no artigo 8.º;\n\nb) A verificação de algum dos impedimentos previstos no artigo 9.º;\n\nc) A desconformidade e ou a incongruência da informação constante da documentação entregue ou a falta desta no prazo estabelecido;\n\nd) A verificação dos fundamentos de não admissão previstos no n.º 2 do artigo 11.º;\n\ne) A existência de dívidas à IHM, EPERAM, às finanças ou à segurança social;\n\nf) A prestação de falsas declarações, omissão dolosa de informação ou utilização de meio fraudulento por parte do candidato.\n\n2 - O candidato é notificado da decisão de indeferimento da candidatura, para efeitos da audiência dos interessados.\n\n> Nota: [Artigo 110.º, Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710) As alterações ao presente artigo apenas se aplicam às inscrições e candidaturas realizadas após o dia 2025-07-03, salvo se o regime ora instituído se revelar mais favorável ao interessado ou candidato ao «Programa de Renda Reduzida», casos em que produzem efeitos reportados ao dia 2024-04-04."
+  },
+  "923475054": {
+   "fragment_id": "923473591",
+   "type": 11,
+   "heading": "Artigo 14.º — Ordenação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ordenação de candidaturas\n\n1 - As candidaturas validadas são ordenadas, em cada tipologia, tendo em consideração os seguintes critérios:\n\na) Agregados familiares carenciados, inseridos no mercado de trabalho, que aufiram os rendimentos mais baixos;\n\nb) Agregados familiares jovens em início de vida profissional, nos termos previstos na alínea c) do artigo 6.º;\n\nc) Agregados familiares com maior número de menores ou dependentes a cargo, nos termos previstos na alínea e) do artigo 6.º;\n\nd) Agregados familiares que integrem pelo menos um membro portador de incapacidade, nos termos previstos na alínea f) do artigo 6.º;\n\ne) Agregados familiares em que, pelo menos, um dos membros tenha o estatuto de vítima de violência doméstica, conforme disposto na alínea g) do artigo 6.º;\n\nf) Agregados familiares com contrato de arrendamento, desde que não estejam a usufruir de um apoio público para o mesmo fim;\n\ng) Agregados familiares com maior número de membros adultos em idade ativa inseridos no mercado de trabalho, além do candidato, em relação ao número total de membros adultos em idade ativa do agregado familiar;\n\nh) Agregados familiares que residam há mais tempo no concelho onde se situa a habitação a que se candidatam;\n\ni) Agregados familiares sinalizados por entidades competentes nas áreas da proteção civil, segurança social, saúde e justiça, nos termos a definir na portaria de regulamentação do presente diploma.\n\n2 - As candidaturas são hierarquizadas em função do resultado da ponderação atribuída a cada um dos critérios elencados no número anterior, nos termos a definir na portaria que regulamenta o presente diploma.\n\n3 - Em caso de empate, são aplicados os critérios de desempate a que se refere o artigo seguinte."
+  },
+  "923475055": {
+   "fragment_id": "923473592",
+   "type": 11,
+   "heading": "Artigo 15.º — Critérios de desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Critérios de desempate\n\nOs critérios de desempate são aplicados pela seguinte ordem:\n\na) Agregados familiares com o menor rendimento anual bruto (RAB);\n\nb) Agregados familiares com contrato de arrendamento que possuam maior taxa de esforço do arrendamento (TEA), conforme disposto na alínea p) do artigo 6.º;\n\nc) Agregados familiares que trabalhem há mais tempo no concelho onde se localiza a habitação;\n\nd) Agregados familiares que residam em habitações com piores condições de habitabilidade;\n\ne) Agregados familiares com a data de inscrição mais antiga."
+  },
+  "923475056": {
+   "fragment_id": "923473593",
+   "type": 8,
+   "heading": "Secção II — Atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Atribuição"
+  },
+  "923475057": {
+   "fragment_id": "923473594",
+   "type": 11,
+   "heading": "Artigo 16.º — Atribuição das habitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Atribuição das habitações\n\n1 - A atribuição da habitação é realizada aos agregados familiares com a pontuação mais alta, na sequência da aplicação dos critérios de ordenação e desempate das candidaturas, nos termos definidos nos artigos 14.º e 15.º e na portaria de regulamentação do presente diploma.\n\n2 - A atribuição da habitação formaliza-se mediante contrato de arrendamento, nos termos do artigo 18.º, a celebrar entre a entidade gestora e o candidato, no qual se incluem todos os membros do agregado familiar maiores de idade e ou emancipados.\n\n3 - Os candidatos com a pontuação mais alta na lista ordenada são notificados para efeitos de aceitação da atribuição da habitação e comparência no ato de assinatura do contrato de arrendamento.\n\n4 - Os restantes candidatos não contemplados assumem a posição de suplentes na lista ordenada, cuja validade é de dois anos, para efeitos de atribuição ou reatribuição de uma habitação.\n\n> Nota: [Artigo 110.º, Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710) As alterações ao presente artigo apenas se aplicam às inscrições e candidaturas realizadas após o dia 2025-07-03, salvo se o regime ora instituído se revelar mais favorável ao interessado ou candidato ao «Programa de Renda Reduzida», casos em que produzem efeitos reportados ao dia 2024-04-04."
+  },
+  "923475058": {
+   "fragment_id": "923473595",
+   "type": 11,
+   "heading": "Artigo 17.º — Renúncia à atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Renúncia à atribuição\n\n1 - Considera-se renúncia à atribuição de habitação a recusa da habitação atribuída por parte do candidato, a não comparência no ato da celebração do contrato de arrendamento, bem como a recusa em assiná-lo.\n\n2 - A renúncia à atribuição implica o arquivamento da inscrição e constitui um impedimento à apresentação de nova inscrição, pelo período de dois anos.\n\n3 - Ficando a habitação disponível, é aplicável o procedimento previsto no n.º 4 do artigo anterior, mediante recurso aos candidatos suplentes constantes da lista ordenada."
+  },
+  "923475059": {
+   "fragment_id": "923473596",
+   "type": 1,
+   "heading": "Capítulo IV — Contrato de arrendamento ao abrigo do \"Programa de Renda Reduzida\"",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Contrato de arrendamento ao abrigo do \"Programa de Renda Reduzida\""
+  },
+  "923475060": {
+   "fragment_id": "923473597",
+   "type": 8,
+   "heading": "Secção I — Condições contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Condições contratuais"
+  },
+  "923475061": {
+   "fragment_id": "923473598",
+   "type": 11,
+   "heading": "Artigo 18.º — Contrato de arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contrato de arrendamento\n\n1 - O contrato de arrendamento a celebrar no âmbito do presente programa tem a duração de cinco anos, renovável por períodos de dois anos.\n\n2 - No primeiro trimestre do quinto ano do contrato inicial e do segundo ano de cada renovação, o arrendatário compromete-se a entregar a documentação necessária à confirmação da manutenção das condições de carência socioeconómica que fundamentaram a atribuição da habitação.\n\n3 - A não entrega da documentação no prazo estipulado ou a confirmação da não manutenção das situações de carência determinam a não renovação do contrato."
+  },
+  "923475062": {
+   "fragment_id": "923473599",
+   "type": 11,
+   "heading": "Artigo 19.º — Limites do valor de renda mensal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Limites do valor de renda mensal\n\n1 - O valor de renda mensal de uma habitação a disponibilizar no âmbito do \"Programa de Renda Reduzida\" é apurado de acordo com os seguintes limites:\n\na) O limite geral do valor de renda por tipologia e concelho, a definir na portaria de regulamentação do presente diploma;\n\nb) O limite específico do valor de renda por habitação, correspondente a 80 % do valor de referência da renda dessa habitação, calculado nos termos do número seguinte.\n\n2 - O valor de referência da renda de uma habitação é calculado de acordo com as fórmulas estabelecidas na portaria de regulamentação do presente diploma, tendo em consideração, designadamente, os seguintes fatores:\n\na) Área;\n\nb) Certificação energética;\n\nc) Qualidade e conforto da habitação;\n\nd) Valor da renda por metro quadrado, em cada concelho, conforme previsto na alínea q) do artigo 6.º"
+  },
+  "923475063": {
+   "fragment_id": "923473600",
+   "type": 11,
+   "heading": "Artigo 20.º — Cálculo da renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Cálculo da renda\n\n1 - A renda mensal aplicável é calculada de acordo com os limites referidos no artigo anterior e compreendida na moldura da taxa de esforço a que se refere o número seguinte.\n\n2 - O valor de renda a pagar pelo agregado familiar não pode ser inferior a 15 % nem superior a 35 % do seu rendimento médio mensal líquido, conforme disposto na alínea l) do artigo 6.º\n\n3 - O valor de renda a pagar pelo agregado familiar é revisto em cada renovação do contrato de arrendamento.\n\n4 - As percentagens referidas no n.º 2 podem ser alteradas por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da habitação e das finanças."
+  },
+  "923475064": {
+   "fragment_id": "923473601",
+   "type": 11,
+   "heading": "Artigo 21.º — Obrigações do arrendatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Obrigações do arrendatário\n\nSem prejuízo das demais obrigações previstas na lei e no contrato de arrendamento, cabe ao arrendatário:\n\na) Não ceder, de forma total ou parcial, temporária ou permanente, onerosa ou gratuita, o gozo da habitação, nomeadamente através de cessão da posição contratual, subarrendamento, hospedagem ou comodato;\n\nb) Cumprir as regras previstas no regulamento das habitações públicas;\n\nc) Restituir a habitação, findo o contrato, no estado em que a recebeu e sem quaisquer deteriorações, salvo as inerentes a uma prudente utilização em conformidade com o fim do contrato e sem prejuízo do pagamento de danos, caso se verifiquem, nos termos do artigo 26.º"
+  },
+  "923475065": {
+   "fragment_id": "923473602",
+   "type": 11,
+   "heading": "Artigo 22.º — Obrigações da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Obrigações da entidade gestora\n\nNo âmbito do contrato de arrendamento celebrado, a entidade gestora está vinculada ao cumprimento das obrigações legais e contratuais aplicáveis, sem prejuízo das obrigações previstas na portaria de regulamentação do presente diploma."
+  },
+  "923475066": {
+   "fragment_id": "923473603",
+   "type": 8,
+   "heading": "Secção II — Cessação do contrato de arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Cessação do contrato de arrendamento"
+  },
+  "923475067": {
+   "fragment_id": "923473604",
+   "type": 11,
+   "heading": "Artigo 23.º — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Resolução do contrato\n\nConstituem causas de resolução do contrato pela entidade gestora:\n\na) O não pagamento da renda mensal;\n\nb) O incumprimento das regras previstas no regulamento das habitações públicas;\n\nc) A utilização da habitação para fins contrários à lei, aos bons costumes ou à ordem pública;\n\nd) O uso da habitação para fim diverso daquele a que se destina, ainda que a alteração do uso não implique maior desgaste ou desvalorização;\n\ne) A cessão, total ou parcial, temporária ou permanente e onerosa ou gratuita, do gozo da habitação;\n\nf) O conhecimento pela entidade gestora da existência de uma das situações de impedimento previstas no artigo 9.º;\n\ng) A prestação de falsas declarações, de forma expressa ou por omissão, sobre os rendimentos ou sobre factos e requisitos determinantes para o acesso ou manutenção do arrendamento;\n\nh) A permanência na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar, sem autorização prévia da entidade gestora."
+  },
+  "923475068": {
+   "fragment_id": "923473605",
+   "type": 11,
+   "heading": "Artigo 24.º — Cessação do contrato por renúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cessação do contrato por renúncia\n\n1 - Considera-se haver renúncia do arrendamento quando se verifique o não uso da habitação pelo agregado familiar por período superior a dois meses consecutivos, a contar do fim do período autorizado ou, não existindo autorização para a ausência, da data da primeira comunicação da entidade gestora, de entre as referidas na alínea a) do número seguinte.\n\n2 - Considera-se não uso da habitação a situação em que, dentro do período mínimo de dois meses consecutivos, se verifiquem cumulativamente as seguintes condições:\n\na) Tenham sido realizadas pelo menos duas tentativas, com intervalo mínimo de duas semanas entre cada uma delas, de entrega de comunicação na pessoa do arrendatário ou de elemento do agregado familiar, consoante for o caso, por representante do senhorio devidamente identificado e a entrega tenha resultado impossível por ausência dos mesmos;\n\nb) Os registos do fornecimento de serviços essenciais de água e eletricidade evidenciarem a ausência de contratos de fornecimento ou de consumos relativamente ao locado, nos termos do n.º 2 do artigo 33.º\n\n3 - Verificando-se a renúncia do arrendamento nos termos dos números anteriores, os arrendatários são notificados para entrega voluntária da habitação, devoluta de pessoas e bens, no prazo de 30 dias, cujo incumprimento determina o despejo nos termos do artigo seguinte."
+  },
+  "923475069": {
+   "fragment_id": "923473606",
+   "type": 11,
+   "heading": "Artigo 25.º — Desocupação da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Desocupação da habitação\n\n1 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação, cabe à entidade gestora levar a cabo os procedimentos subsequentes, nos termos da lei.\n\n2 - Salvo acordo em sentido diferente, quaisquer bens móveis deixados na habitação, após qualquer forma de cessação do contrato e tomada de posse pela entidade gestora, são considerados abandonados a favor desta, caso não sejam reclamados no prazo de 60 dias a contar da data da receção da respetiva notificação, podendo deles dispor de forma onerosa ou gratuita, sem direito a qualquer compensação por parte do arrendatário."
+  },
+  "923475070": {
+   "fragment_id": "923473607",
+   "type": 11,
+   "heading": "Artigo 26.º — Danos na habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Danos na habitação\n\nSe, na sequência de vistoria subsequente a qualquer caso de cessação do contrato, houver evidência de danos na habitação, de realização de obras não autorizadas ou de não realização das obras exigidas ao arrendatário nos termos da lei ou do contrato, a entidade gestora tem o direito de exigir o pagamento das despesas por si efetuadas com a realização das obras necessárias para reposição da habitação nas condições iniciais."
+  },
+  "923475071": {
+   "fragment_id": "923473608",
+   "type": 1,
+   "heading": "Capítulo V — Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições especiais"
+  },
+  "923475072": {
+   "fragment_id": "923473609",
+   "type": 11,
+   "heading": "Artigo 27.º — Regime excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regime excecional\n\n1 - Não é aplicável o disposto no n.º 2 do artigo 10.º quando relevante motivo de interesse público, devidamente fundamentado, justifique o realojamento urgente de agregados familiares, respeitando os limites de rendimentos e taxas de esforço de acesso ao programa.\n\n2 - Considera-se situação de necessidade habitacional urgente a decorrente de:\n\na) Desastres naturais, calamidades e incêndios;\n\nb) Processos expropriativos, cuja indemnização é insuficiente para a aquisição de uma habitação;\n\nc) Subarrendamentos em que a entidade gestora tem uma obrigação legal de devolução da habitação arrendada."
+  },
+  "923475073": {
+   "fragment_id": "923473610",
+   "type": 11,
+   "heading": "Artigo 28.º — Reajuste da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Reajuste da habitação\n\nO reajuste de habitação pode ser efetuado por iniciativa da entidade gestora ou a pedido do arrendatário, em casos devidamente fundamentados e nos termos a definir na portaria de regulamentação do presente diploma."
+  },
+  "923475074": {
+   "fragment_id": "923473611",
+   "type": 11,
+   "heading": "Artigo 29.º — Reatribuição de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Reatribuição de habitação\n\n1 - As habitações devolutas são objeto de reatribuição aos candidatos suplentes constantes da lista ordenada a que se refere o n.º 4 do artigo 16.º, enquanto a mesma se mantiver válida, sem prejuízo da aplicação do regime excecional.\n\n2 - Findo o prazo de validade da lista ordenada de candidatos suplentes, é publicitado novo aviso de abertura para efeitos de apresentação de candidaturas, nos termos previstos na portaria de regulamentação do presente diploma."
+  },
+  "923473675": {
+   "fragment_id": "923473612",
+   "type": 11,
+   "heading": "Artigo 30.º — Habitações a afetar ao programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Habitações a afetar ao programa\n\n1 - São afetas ao presente programa habitações públicas propriedade ou sob gestão da entidade gestora.\n\n2 - Podem ainda ser afetas ao presente programa habitações privadas, objeto de protocolos celebrados entre a entidade gestora e outras entidades, mediante cumprimento das regras do cálculo da renda definidas nos artigos 19.º e 20.º\n\n3 - Podem ser cedidos pela Região Autónoma da Madeira à IHM, EPERAM, a título definitivo e gratuito, imóveis para construção ou reabilitação de novas habitações a afetar ao presente programa.\n\n4 - As cedências a que se refere o número anterior são efetuadas ao abrigo do regime jurídico do património imobiliário privado da Região Autónoma da Madeira, ou outro que lhe suceda, considerando-se fim de interesse público a afetação ao presente programa."
+  },
+  "923473676": {
+   "fragment_id": "923473613",
+   "type": 11,
+   "heading": "Artigo 31.º — Acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Acesso aos dados\n\nA candidatura para atribuição de uma habitação pública apoiada ao abrigo do presente programa confere à IHM, EPERAM, o direito de aceder aos dados do candidato e demais elementos do agregado familiar, para fins de informação ou confirmação dos dados por eles declarados, sem prejuízo do disposto no artigo seguinte."
+  },
+  "923473677": {
+   "fragment_id": "923473614",
+   "type": 11,
+   "heading": "Artigo 32.º — Proteção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Proteção de dados pessoais\n\n1 - Para efeitos do presente programa, o tratamento de dados pessoais deverá verificar-se nas situações previstas no artigo 6.º do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016.\n\n2 - A finalidade do acesso da entidade gestora aos dados da vida privada do titular e dos respetivos membros que compõem o agregado é a atribuição de habitações, a gestão desses arrendamentos, a sua análise para adequação da oferta à procura e planeamento das políticas de habitação, não podendo ser tratados posteriormente de uma forma incompatível com as finalidades para os quais foram recolhidos.\n\n3 - Os dados pessoais objeto de tratamento pela entidade gestora são os seguintes:\n\na) Dados dos candidatos: nome, género, data de nascimento, número de contribuinte, número e validade de documento de identificação civil, morada, situação profissional, tipo de rendimento, dados constantes na declaração de IRS e na nota de liquidação de IRS, número de telefone, caixa de correio eletrónico, documentos que atestam a incapacidade igual ou superior a 60 %, dados constantes nos documentos que atestam relações cuidadoras ou de tutela;\n\nb) Dados dos membros do agregado: nome, género, data de nascimento, número de contribuinte, número e validade de documento de identificação civil, grau de parentesco, situação profissional, tipo de rendimento, dados constantes na declaração de IRS e na nota de liquidação de IRS, documentos que atestam a incapacidade igual ou superior a 60 %, dados constantes nos documentos que atestam relações cuidadoras ou de tutela.\n\n4 - Cada uma destas categorias de dados pessoais é objeto de tratamento adequado, pertinente e estritamente necessário para a prossecução da finalidade pretendida pelos seus titulares.\n\n5 - Os dados pessoais objeto de tratamento são conservados informaticamente pela entidade gestora para serem exclusivamente utilizados pela mesma, no âmbito do presente programa ou outro programa de apoio habitacional.\n\n6 - Os interessados podem, a todo o tempo, aceder à informação sobre o tratamento dos seus dados, retificá-los ou solicitar o seu apagamento.\n\n7 - Os dados pessoais serão conservados durante o período de 5 (cinco) anos após a cessação da relação contratual ou outro prazo obrigatório por lei, consoante as finalidades a que se destinam, sendo aplicados critérios de retenção da informação apropriados a cada tratamento, nos termos do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016.\n\n8 - O tratamento de dados pessoais realizados ao abrigo do presente programa é regulado pela legislação relativa à proteção de dados pessoais, designadamente o regulamento identificado no número anterior."
+  },
+  "923473678": {
+   "fragment_id": "923473615",
+   "type": 11,
+   "heading": "Artigo 33.º — Prerrogativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Prerrogativas\n\n1 - A entidade gestora não está obrigada a efetuar o seguro de incêndio das habitações de que seja proprietária, cabendo-lhe suportar os custos com as reparações próprias ou devidas a terceiros que seriam cobertas pelo seguro em caso de sinistro, sem prejuízo do direito de regresso em caso de culpa do lesado, nos termos do disposto no artigo 570.º do Código Civil.\n\n2 - As empresas de fornecimento de água, gás e eletricidade devem prestar à entidade gestora informação sobre a existência de contratos e consumos relativamente a um dado prédio ou fração autónoma, sempre que haja suspeita de não ocupação da habitação."
+  },
+  "923473679": {
+   "fragment_id": "923473616",
+   "type": 11,
+   "heading": "Artigo 34.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Falsas declarações\n\nA falsificação de documentos e/ou a prestação de falsas declarações, omissões de dados ou factos relevantes para apreciação da candidatura determina a exclusão automática, sem prejuízo da responsabilidade civil e/ou criminal que ao facto corresponda."
+  },
+  "923473680": {
+   "fragment_id": "923473617",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "923473681": {
+   "fragment_id": "923473618",
+   "type": 11,
+   "heading": "Artigo 35.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Regulamentação\n\nA execução do presente diploma será definida por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da habitação e das finanças."
+  },
+  "923473682": {
+   "fragment_id": "923473619",
+   "type": 11,
+   "heading": "Artigo 36.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Entrada em vigor e produção de efeitos\n\nO presente diploma entra em vigor no dia seguinte à sua publicação e produz efeitos na data da publicação da portaria que o regulamenta."
+  },
+  "923492322": {
+   "fragment_id": "923473585",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime",
+   "in_force_from": "2025-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 110.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Regime\n\n1 - O \"Programa de Renda Reduzida\" tem por objeto as habitações públicas propriedade ou sob gestão da IHM, EPERAM, para atribuição quando disponíveis.\n\n2 - A atribuição de uma habitação pública apoiada ao abrigo do presente programa é efetuada mediante inscrição prévia e posterior candidatura às habitações disponíveis, sem prejuízo do regime excecional previsto no artigo 27.º\n\n3 - As inscrições caducam nas seguintes situações:\n\na) Nos casos previstos no n.º 2 do artigo 17.º;\n\nb) Pela atribuição de uma habitação nos termos previstos no presente diploma;\n\nc) Sempre que se verifique uma das situações de impedimento previstas no artigo 9.º do presente diploma;\n\nd) Quando o interessado não preencha ou deixe de preencher os requisitos de acesso previstos no artigo 8.º do presente diploma;\n\ne) Outras situações previstas de forma expressa na regulamentação do presente diploma.\n\n4 - Periodicamente, podem ser solicitados aos interessados inscritos os elementos que permitam comprovar a sua elegibilidade e ou a inexistência de impedimentos.\n\n5 - As candidaturas validadas, sem atribuição, mantêm-se ativas a todo o tempo, sendo repescadas e oficiosamente aditadas ao universo de novos candidatos, resultantes de avisos de abertura que sejam posteriormente abertos para o mesmo concelho, salvo se:\n\na) No decurso desse prazo, se verificar a renúncia à habitação, nos termos do n.º 1 do artigo 17.º;\n\nb) Tendo sido notificados para atualização dos documentos exigíveis para formalização de candidatura, os candidatos repescados não os apresentem, de forma completa, no prazo determinado;\n\nc) Tendo sido apresentados os documentos a que se refere a alínea anterior, a candidatura repescada seja considerada indeferida em sede da nova análise, nos termos do artigo 13.º\n\n6 - As candidaturas repescadas serão objeto de nova análise, nos termos da secção i do capítulo iii do presente diploma, para efeitos de determinação da sua elegibilidade e ordenação, no âmbito dos novos avisos aos quais foram oficiosamente aditadas no decurso da sua validade.\n\n> Nota: [Artigo 110.º, Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710) As alterações ao presente artigo apenas se aplicam às inscrições e candidaturas realizadas após o dia 2025-07-03, salvo se o regime ora instituído se revelar mais favorável ao interessado ou candidato ao «Programa de Renda Reduzida», casos em que produzem efeitos reportados ao dia 2024-04-04.\n\n> Alterado pelo/a Artigo 110.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01"
+  },
+  "923492323": {
+   "fragment_id": "923473590",
+   "type": 11,
+   "heading": "Artigo 13.º — Indeferimento de candidaturas",
+   "in_force_from": "2025-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 110.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Indeferimento de candidaturas\n\n1 - Constituem fundamento de indeferimento da candidatura:\n\na) O incumprimento de algum dos requisitos previstos no artigo 8.º;\n\nb) A verificação de algum dos impedimentos previstos no artigo 9.º;\n\nc) A desconformidade e ou a incongruência da informação constante da documentação entregue ou a falta desta no prazo estabelecido;\n\nd) A verificação dos fundamentos de não admissão previstos no n.º 2 do artigo 11.º;\n\ne) A existência de dívidas à IHM, EPERAM, às finanças ou à segurança social;\n\nf) A prestação de falsas declarações, omissão dolosa de informação ou utilização de meio fraudulento por parte do candidato.\n\n2 - O candidato é notificado da decisão de indeferimento da candidatura, para efeitos de pronúncia, num prazo entre cinco e dez dias úteis.\n\n> Nota: [Artigo 110.º, Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710) As alterações ao presente artigo apenas se aplicam às inscrições e candidaturas realizadas após o dia 2025-07-03, salvo se o regime ora instituído se revelar mais favorável ao interessado ou candidato ao «Programa de Renda Reduzida», casos em que produzem efeitos reportados ao dia 2024-04-04.\n\n> Alterado pelo/a Artigo 110.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01"
+  },
+  "923492324": {
+   "fragment_id": "923473594",
+   "type": 11,
+   "heading": "Artigo 16.º — Atribuição das habitações",
+   "in_force_from": "2025-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 110.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Atribuição das habitações\n\n1 - A atribuição da habitação é realizada aos agregados familiares com a pontuação mais alta, na sequência da aplicação dos critérios de ordenação e desempate das candidaturas, nos termos definidos nos artigos 14.º e 15.º e na portaria de regulamentação do presente diploma.\n\n2 - A atribuição da habitação formaliza-se mediante contrato de arrendamento, nos termos do artigo 18.º, a celebrar entre a entidade gestora e o candidato, no qual se incluem todos os membros do agregado familiar maiores de idade e ou emancipados.\n\n3 - Os candidatos com a pontuação mais alta na lista ordenada são notificados para efeitos de aceitação da atribuição da habitação e comparência no ato de assinatura do contrato de arrendamento.\n\n4 - Os restantes candidatos não contemplados assumem a posição de suplentes na lista ordenada, cuja validade é de dois anos, para efeitos de atribuição ou reatribuição de uma habitação.\n\n4 - De entre o universo de candidatos sem atribuição é constituída uma bolsa de candidatos suplentes, válida por 6 meses ou até à abertura de novo aviso para o mesmo concelho, conforme o que ocorrer primeiro.\n\n5 - Aos candidatos suplentes e aos demais candidatos sem atribuição, aplica-se, para efeitos de atribuição ou reatribuição de uma habitação, o disposto no n.º 5 do artigo 10.º\n\n> Nota: [Artigo 110.º, Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710) As alterações ao presente artigo apenas se aplicam às inscrições e candidaturas realizadas após o dia 2025-07-03, salvo se o regime ora instituído se revelar mais favorável ao interessado ou candidato ao «Programa de Renda Reduzida», casos em que produzem efeitos reportados ao dia 2024-04-04.\n\n> Alterado pelo/a Artigo 110.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01"
+  },
+  "923473683": {
+   "fragment_id": "923473620",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 19 de março de 2024.\n\nO Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.\n\nAssinado em 28 de março de 2024.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "993774207": {
+   "fragment_id": "923473584",
+   "type": 11,
+   "heading": "Artigo 9.º — Situações de impedimento",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Situações de impedimento\n\n1 - Constituem impedimento à atribuição de uma habitação pública apoiada ao abrigo do presente programa as situações em que o candidato ou membro do seu agregado familiar:\n\na) Seja proprietário, usufrutuário ou detenha outro direito real sobre o imóvel urbano ou de fração autónoma de prédio urbano destinado a habitação, desde que o imóvel tenha condições de habitabilidade;\n\nb) (Revogada.)\n\nc) Estejam a ocupar ilegalmente uma habitação propriedade ou sob gestão da IHM, EPERAM;\n\nd) Tenham beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de processo expropriativo, que se revele suficiente para a aquisição de uma habitação adequada ao seu agregado familiar a preços de mercado;\n\ne) Tenham sido arrendatários de habitação pública com fins sociais, em regime de arrendamento apoiado, sob gestão da IHM, EPERAM, cujo contrato de arrendamento tenha sido objeto de resolução por incumprimento.\n\n2 - Para efeitos de cumprimento do disposto no número anterior, o candidato tem de comprovar a não verificação das situações de impedimento elencadas, mediante entrega da documentação necessária para o efeito, nos termos definidos na portaria de regulamentação do presente diploma.\n\n> Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+  },
+  "993774203": {
+   "fragment_id": "923473592",
+   "type": 11,
+   "heading": "Artigo 15.º — Critérios de desempate",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Critérios de desempate\n\nOs critérios de desempate são aplicados pela seguinte ordem:\n\na) Agregados familiares com contrato de arrendamento que possuam maior taxa de esforço do arrendamento (TEA), conforme disposto na alínea p) do artigo 6.º;\n\nb) Agregados familiares com o menor rendimento anual bruto (RAB);\n\nc) Agregados familiares que trabalhem há mais tempo no concelho onde se localiza a habitação;\n\nd) Agregados familiares que residam em habitações com piores condições de habitabilidade;\n\ne) Agregados familiares com a data de inscrição mais antiga.\n\n> Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+  },
+  "993774204": {
+   "fragment_id": "923473598",
+   "type": 11,
+   "heading": "Artigo 18.º — Contrato de arrendamento",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Contrato de arrendamento\n\n1 - O contrato de arrendamento a celebrar no âmbito do presente programa tem a duração de cinco anos, renovável por períodos de dois anos.\n\n2 - No primeiro trimestre do segundo ano do contrato inicial, e anualmente, após essa data, o arrendatário compromete-se a entregar a documentação necessária à confirmação da manutenção das condições de carência socioeconómica e outros pressupostos que fundamentaram a atribuição da habitação, sem prejuízo da definição de periodicidade distinta na portaria de regulamentação do presente diploma.\n\n3 - A não entrega da documentação no prazo estipulado ou a ausência da manutenção das situações de carência ou dos pressupostos que determinaram a atribuição, originam a não renovação do contrato ou a sua resolução.\n\n> Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+  },
+  "993774205": {
+   "fragment_id": "923473600",
+   "type": 11,
+   "heading": "Artigo 20.º — Cálculo da renda",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Cálculo da renda\n\n1 - A renda mensal aplicável é calculada de acordo com os limites referidos no artigo anterior e compreendida na moldura da taxa de esforço a que se refere o número seguinte.\n\n2 - O valor de renda a pagar pelo agregado familiar não pode ser inferior a 15 % nem superior a 35 % do seu rendimento médio mensal líquido, conforme disposto na alínea l) do artigo 6.º\n\n3 - O valor de renda a pagar pelo agregado familiar é revisto anualmente a partir do segundo ano de vigência do contrato de arrendamento, sem prejuízo do disposto no número seguinte e da possibilidade de definição de periodicidade distinta na portaria de regulamentação do presente diploma.\n\n4 - Fora dos casos referidos no número anterior, o agregado familiar pode solicitar à IHM, EPERAM a revisão extraordinária do cálculo da renda sempre que se verifiquem alterações significativas nos pressupostos de atribuição ou da situação de carência do agregado, designadamente quanto à sua composição e à perda abrupta e definitiva de rendimentos.\n\n5 - As percentagens referidas no n.º 2 podem ser alteradas por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da habitação e das finanças.\n\n> Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+  },
+  "993774206": {
+   "fragment_id": "923473604",
+   "type": 11,
+   "heading": "Artigo 23.º — Resolução do contrato",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Resolução do contrato\n\nConstituem causas de resolução do contrato pela entidade gestora:\n\na) O não pagamento da renda mensal;\n\nb) O incumprimento das regras previstas no regulamento das habitações públicas;\n\nc) A utilização da habitação para fins contrários à lei, aos bons costumes ou à ordem pública;\n\nd) O uso da habitação para fim diverso daquele a que se destina, ainda que a alteração do uso não implique maior desgaste ou desvalorização;\n\ne) A cessão, total ou parcial, temporária ou permanente e onerosa ou gratuita, do gozo da habitação;\n\nf) O conhecimento pela entidade gestora da existência de uma das situações de impedimento previstas no artigo 9.º;\n\ng) A prestação de falsas declarações, de forma expressa ou por omissão, sobre os rendimentos ou sobre factos e requisitos determinantes para o acesso ou manutenção do arrendamento;\n\nh) A permanência na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar, sem autorização prévia da entidade gestora;\n\ni) A não entrega da documentação necessária à confirmação da manutenção das condições de carência socioeconómica e outros pressupostos que fundamentaram a atribuição da habitação, nos prazos previstos no artigo 18.º, ou a ausência da manutenção das situações de carência ou dos pressupostos que determinaram a respetiva atribuição.\n\n> Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+  }
+ }
+}

@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:1223463:por
+title: Portaria n.º 181/2012
+short_title: null
+summary: Concessão da medalha de serviços distintos, grau prata, ao Coronel PILAV Francisco Rui Pedro Matos Tendeiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 181/2012
+official_date: null
+publication_date: '2012-04-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 69/2012, Série II de 2012-04-05
+  number: '69'
+  series: II
+  supplement: null
+  pages: 12390 - 12391
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/04/069000000/1239012391.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1223463'
+  dre_path: /dr/detalhe/portaria/181-2012-1223463
+  internal: pt:dre:1223463:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/181-2012-1223463
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/181-2012-1223463
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-04-05T00:00:00Z'
+integrity:
+  source_sha256: e5b49bc036802e28e6174563b1c295cb237c7a4b36c27559d761921e0713d13a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-181-1223463.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 181/2012
+
+Louvo o Coronel Piloto-Aviador, NIP 062280-L, Rui Pedro Matos Tendeiro, pela forma altamente meritória, competente e prestigiante como desempenhou as funções de Conselheiro Militar na Delegação de Portugal junto da OTAN, no período compreendido entre 1 de outubro de 2008 e 30 de setembro de 2011.
+
+O Coronel Rui Tendeiro revelou um conjunto de excecionais qualidades e virtudes militares, bem como elevados dotes de caráter, que, no quadro do vasto e diversificado conjunto de tarefas que desempenhou, colocou em todas as ocasiões na defesa do interesse nacional.
+
+Durante este período desempenhou as funções de representante nacional no Comité da Defesa Aérea (ADC), onde demonstrou ter conhecimentos profissionais e uma atitude muito determinada, que, em estreita coordenação com as autoridades nacionais, permitiu encontrar argumentação e soluções em prol dos interesses do país, de que se salienta o seu contributo para a definição da política de integração da nova capacidade de Defesa Antimíssil na existente capacidade de Defesa Aérea da Aliança.
+
+Como representante nacional no Comité do Espaço Aéreo, o Coronel Rui Tendeiro colaborou na defesa dos interesses da Aliança junto das outras instituições internacionais que tratam a gestão do Espaço Aéreo, contribuindo para a definição do nível de envolvimento da Aliança na expansão da atividade aérea ao Espaço.
+
+No quadro das parcerias, acompanhou o desenvolvimento de novas atividades de combate ao terrorismo, através da partilha de informação-radar com países parceiros, prevendo um possível envolvimento nacional com países do Diálogo do Mediterrâneo.
+
+De salientar igualmente a particular eficiência do Coronel Rui Tendeiro como representante nacional e controlador financeiro junto do Comité do Orçamento Militar, cuja dedicação foi muito reconhecida pela análise, pertinência e rigor dos comentários na gestão do orçamento, que muito contribuíram para fundamentar o processo de decisão nacional.
+
+Assinala-se ainda a relevância do seu desempenho como representante nacional para os assuntos da normalização e logística, garantindo que os sistemas e equipamentos nacionais fossem devidamente contemplados e que Portugal se mantivesse incluído na «Política de Logística Multinacional da Aliança».
+
+O Coronel Rui Tendeiro acompanhou, ainda e transversalmente, vários assuntos ligados ao Conselho NATO-Rússia, como a cooperação na gestão do Espaço Aéreo, questões do âmbito da logística, helicópteros e transporte aéreo estratégico, bem como do controlo de armamento convencional.
+
+O elevado nível de desempenho evidenciado pelo Coronel Rui Tendeiro nas variadíssimas e importantes funções que lhe foram cometidas apenas foi possível devido à sua competência profissional, extraordinária capacidade de organização, pragmatismo e dedicação irrepreensível ao serviço. Estas qualidades, aliadas ao sentimento de entreajuda e simpatia, fizeram-no granjearam o respeito e a amizade de todos quantos com ele privaram.
+
+Pelas razões expostas, é com enorme satisfação que manifesto o meu reconhecimento público pelas qualidades evidenciadas pelo Coronel Rui Tendeiro, sendo de inteira justiça considerar os serviços por si prestados extraordinários, relevantes e muito distintos, dos quais resultou honra, lustre e prestígio para as Forças Armadas e para Portugal.
+
+Assim, pela competência que me é conferida pelo n.º 1 do artigo 34.º, atento o disposto no artigo 13.º e na alínea b) do n.º 1 do artigo 16.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, concedo a medalha de serviços distintos, grau prata, ao Coronel Piloto-Aviador Francisco Rui Pedro Matos Tendeiro.
+
+10 de fevereiro de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.

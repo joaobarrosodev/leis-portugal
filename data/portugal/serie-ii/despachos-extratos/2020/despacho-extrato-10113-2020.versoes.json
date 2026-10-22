@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145875151:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2020-1177983075",
+ "dre_path": "/dr/detalhe/despacho-extrato/10113-2020-145875151",
+ "source_lastmod": "2026-10-06",
+ "versions": [
+  {
+   "date": "2020-10-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1177980975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1177980975": {
+   "fragment_id": "1177983175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por despacho do Presidente do Grupo Parlamentar do Partido Comunista Português, de 2 de outubro de 2020, nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, são nomeados para exercerem funções no gabinete de apoio do Grupo Parlamentar do Partido Comunista Português, com efeitos a partir do dia 1 de outubro de 2020, os seguintes consultores:\n\nAlexandre Miguel Pereira Araújo\n\nAmarilia Fernandes Luís Barradas\n\nEduardo Augusto Teixeira\n\nEduardo Manuel Reis Vieira\n\nHugo Rafael Ropio Molha Amaro\n\nJoão António Albuquerque Frazão\n\nJoão Carlos Jorge Pauzinho\n\nJosé Ângelo Mateus Alves\n\nJosé António Monginho Rodrigues\n\nMafalda Sofia Rodrigues Guerreiro\n\nManuel Lopes Valente\n\nPaulo Alexandre Valério Loya\n\nTeresa Cristina Conceição Andrade Chaveiro."
+  }
+ }
+}

@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:491676:por
+title: Acórdão doutrinário
+short_title: null
+summary: Proferido no processo n.º 60395, em que era recorrente António Tavares Poeta e recorrido Rodrigo Soares Ferreira
+  Júnior
+jurisdiction: portugal
+territory: null
+document_type: acordao-doutrinario
+document_type_label: Acórdão Doutrinário
+issuing_authority:
+- Supremo Tribunal de Justiça
+proposing_entity: null
+official_number: null
+official_date: null
+publication_date: '1966-02-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 44/1966, Série I de 1966-02-22
+  number: '44'
+  series: I
+  supplement: null
+  pages: 265 - 266
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/02/04400/02650266.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '491676'
+  dre_path: /dr/detalhe/acordao-doutrinario/1966-491676
+  internal: pt:dre:491676:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/acordao-doutrinario/1966-491676
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/acordao-doutrinario/1966-491676
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-02-22T00:00:00Z'
+integrity:
+  source_sha256: 82dbb3280507bdbfac5cd5ae2ab5358706a5322b8470e8b8ca92fdd262bafb97
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-491676.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão doutrinário
+
+Processo n.º 60395. - Autos de recurso para o tribunal pleno. Recorrente, António Tavares Poeta. Recorrido, Rodrigo Soares Ferreira Júnior.
+
+Acordam no Supremo Tribunal de Justiça:
+
+Vem este recurso interposto por António Tavares Poeta do Acórdão de 28 de Abril de 1964, com fundamento de que nele se firmou a doutrina de a presunção constante da 4.ª alínea do artigo 31.º da lei uniforme relativa a letras não admitir prova em contrário, quer no domínio das relações mediatas, quer no domínio das relações imediatas, doutrina esta que é oposta à consignada no Acórdão deste Tribunal de 14 de Outubro de 1960, no qual se estabeleceu a de que, no domínio das relações imediatas, a presunção de ser dado a favor do sacador o aval aposto na letra não obsta a que o sacador e portador dela prove, em contrário, que o aval fora dado a favor do aceitante.
+
+É esta a questão fundamental de direito posta no objecto de recurso.
+
+Não sofre dúvida terem sido proferidas as duas decisões no domínio da mesma legislação.
+
+O acórdão de fl. 21 julgou existir oposição de doutrina nas duas decisões em confronto.
+
+Tem-se como transitado em julgado o referido Acórdão de 1960.
+
+Mantém-se como existente a oposição dos julgados sobre esta questão.
+
+Conhecendo:
+
+Está em apreciação o enunciado na segunda parte da 4.º, alínea do artigo 31.º da lei uniforme sobre letras, que é do seguinte teor: «O aval deve indicar a pessoa por quem se dá. Na falta de indicação, entender-se-á pelo sacador.»
+
+O aval representa a garantia do pagamento de uma letra, quanto à totalidade ou a parte do seu montante, por terceiro ou pelo próprio interveniente, com a expressa declaração de «bom para aval» ou outra forma equivalente, seguida da respectiva assinatura, quando no verso do título.
+
+Nos termos do preceito que regimenta a constituição do aval, o dador deve indicar a pessoa por quem é dado; tem de referir expressamente qual ou quais, de entre os obrigados ao pagamento da letra, ficam por ele avalizados. A lei, porém, dispensa-o de fazer essa declaração quando o avalizado seja o sacador. Assim acontecendo, por disposição legal, como avalizado se tem de considerar o sacador.
+
+Na falta de manifestação expressa da vontade do dador, o aval implica, jurìdicamente, a sua relacionação à exclusiva pessoa do sacador.
+
+Conformes com o lúcido parecer do ilustre procurador da República, dizemos que o «legislador se preocupou em criar para o aval um certa estrutura formal simples, segura e prática a determinar a pessoa avalizada. Tal pessoa é aquela que o dador indica; na falta de indicação a pessoa do sacador - e só essa.»
+
+Daqui deriva que não nos encontramos em face da figura jurídica das presunções - consequências ou ilações que a lei ou o julgador deduz de um facto conhecido para firmar um facto desconhecido (artigo 2516.º do Código Civil).
+
+É certo ter-se sustentado e julgado que a disposição da alínea 4.ª do artigo 31.º da lei uniforme constitui uma presunção, ilidível por prova em contrário, admitindo-se que se venha a demonstrar que o aval foi prestado a favor de outro interessado.
+
+Este entendimento está em oposição como princípio da literalidade da letra, segundo o qual os direitos emergentes deste título de crédito valem pelos seus próprios termos.
+
+O respeito à literalidade do título, que essencialmente importa à fixação e definição do seu conteúdo e modalidade nele incorporado, conduz à afirmação da generalidade de que o título vale pelos seus dizeres, exactamente pela incorporação do direito no próprio documento.
+
+A mobilização constante e rápida dos direitos que se incorporam nos títulos de crédito implica ser decisivo o seu contexto para a pronta definição desses direitos, cuja certeza se deve impor à geral confiança.
+
+Estas razões justificam o dominante princípio de que o preceito legal em apreço não contém nenhuma presunção. Esse preceito contém uma disposição supletiva, integradora da vontade das partes.
+
+Nos termos expostos, confirma-se o acórdão recorrido e lavra-se o seguinte assento:
+
+Mesmo no domínio das relações imediatas o aval que não indique o avalizado é sempre prestado a favor do sacador.
+
+Custas pelo recorrente.
+
+Lisboa, 1 de Fevereiro de 1966. - Alberto Toscano - Lopes Cardoso - Albuquerque Rocha - Torres Paulo - António Laranja - Joaquim de Melo - H. Dias Freire Francisco Soares - Fernando Toscano Pessoa - A. Vera Jardim - J. Santos Carvalho Júnior - Ludovico da Costa [vencido. Penso que a doutrina da presunção juris tantum, limitada no domínio das relações imediatas, é a que, embora tècnicamente menos sugestiva, melhor satisfaz à realização do suum cuique tribuere (v. g. Boletins n.os 107, p. 582, e 117, p. 623). Pois, em tais relações e consoante o princípio informador do assento de 27 de Novembro de 1964 (Boletim n.º 141, p. 171), mais concretamente traduzido no recente Acórdão deste Supremo de 14 de Dezembro de 1965 (revista n.º 60890), em tais relações, dizia, não está em causa a estrutura da letra (título destinado à generalidade), mas simplesmente, os interesses dos sujeitos da relação fundamental, os quais, só por si, não justificariam um especial regime jurídico, como é o dos títulos de crédito, dado que as características destes, nomeadamente a literalidade e a abstracção, visam apenas assegurar a circulação dos mesmos e proteger a boa fé de terceiros portadores.
+
+Numa palavra: a literalidade e o concernente carácter supletivo do preceito em causa pressupõem que se transpôs a fronteira das relações imediatas, que a letra entrou em circulação; pois, só então pode funcionar o condicionalismo jurídico de tais títulos. Até lá tudo se passa como no regime comum das obrigações.
+
+Votei, por isso, pelo provimento do recurso e consequente solução do conflito, segundo a doutrina do acórdão invocado em oposição] - Gonçalves Pereira (vencido pelos mesmos fundamentos).
+
+Está conforme.
+
+Supremo Tribunal de Justiça, 15 de Fevereiro de 1966. - O Secretário, Joaquim Múrias de Freitas.

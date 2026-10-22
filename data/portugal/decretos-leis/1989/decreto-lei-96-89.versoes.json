@@ -1,0 +1,1636 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:614782:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-141358087",
+ "dre_path": "/dr/detalhe/decreto-lei/96-1989-614782",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1989-03-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "141357364",
+    "141357365",
+    "141357366",
+    "141357367",
+    "141357368",
+    "141357369",
+    "141357370",
+    "141357371",
+    "141357372",
+    "141357373",
+    "141357374",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "141352879",
+    "141352880",
+    "141352881",
+    "141352882",
+    "141352883",
+    "141352884",
+    "141352885",
+    "141352886",
+    "141352887",
+    "141352888",
+    "141352889",
+    "141352890",
+    "141352891",
+    "141352892",
+    "141352893",
+    "141352894",
+    "141352895",
+    "141352896",
+    "141352897",
+    "141352898"
+   ]
+  },
+  {
+   "date": "1993-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:674418:por",
+     "title": "Decreto-Lei n.º 393/93",
+     "published": "1993-11-23",
+     "dre_path": "/dr/detalhe/decreto-lei/393-1993-674418"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "177715216",
+    "177715214",
+    "177715217",
+    "177715218",
+    "141357368",
+    "177715219",
+    "177715220",
+    "141357371",
+    "177715221",
+    "141357373",
+    "177715215",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "177715222",
+    "141352880",
+    "141352881",
+    "177715223",
+    "141352883",
+    "141352884",
+    "141352885",
+    "177715224",
+    "141352887",
+    "141352888",
+    "141352889",
+    "141352890",
+    "141352891",
+    "141352892",
+    "141352893",
+    "141352894",
+    "141352895",
+    "141352896",
+    "141352897",
+    "141352898",
+    "141352899"
+   ]
+  },
+  {
+   "date": "1997-01-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:302094:por",
+     "title": "Decreto-Lei n.º 5/97",
+     "published": "1997-01-09",
+     "dre_path": "/dr/detalhe/decreto-lei/5-1997-302094"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "177715216",
+    "177715214",
+    "177715217",
+    "177715218",
+    "141357368",
+    "177715219",
+    "177715220",
+    "141357371",
+    "177715221",
+    "141357373",
+    "177715215",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "177715226",
+    "141352880",
+    "141352881",
+    "177715223",
+    "141352883",
+    "141352884",
+    "141352885",
+    "177715224",
+    "141352887",
+    "141352888",
+    "141352889",
+    "141352890",
+    "141352891",
+    "141352892",
+    "141352893",
+    "141352894",
+    "141352895",
+    "141352896",
+    "141352897",
+    "141352898",
+    "141352899"
+   ]
+  },
+  {
+   "date": "1997-02-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571198:por",
+     "title": "Decreto-Lei n.º 31/97",
+     "published": "1997-01-28",
+     "dre_path": "/dr/detalhe/decreto-lei/31-1997-571198"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "177715216",
+    "177715214",
+    "177715217",
+    "177715218",
+    "141357368",
+    "177715219",
+    "177715220",
+    "141357371",
+    "177715221",
+    "141357373",
+    "177715215",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "177715226",
+    "177715231",
+    "141352881",
+    "177715223",
+    "141352883",
+    "141352884",
+    "141352885",
+    "177715224",
+    "141352887",
+    "141352888",
+    "141352889",
+    "141352890",
+    "141352891",
+    "141352892",
+    "141352893",
+    "141352894",
+    "141352895",
+    "141352896",
+    "141352897",
+    "141352898",
+    "141352899"
+   ]
+  },
+  {
+   "date": "1999-08-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:434012:por",
+     "title": "Decreto-Lei n.º 331/99",
+     "published": "1999-08-20",
+     "dre_path": "/dr/detalhe/decreto-lei/331-1999-434012"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "177715216",
+    "177715214",
+    "177715237",
+    "177715218",
+    "141357368",
+    "177715219",
+    "177715220",
+    "141357371",
+    "177715221",
+    "141357373",
+    "177715215",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "177715226",
+    "177715238",
+    "141352881",
+    "177715223",
+    "141352883",
+    "141352884",
+    "141352885",
+    "177715224",
+    "141352887",
+    "141352888",
+    "141352889",
+    "141352890",
+    "141352891",
+    "141352892",
+    "141352893",
+    "141352894",
+    "141352895",
+    "141352896",
+    "141352897",
+    "141352898",
+    "141352899"
+   ]
+  },
+  {
+   "date": "2002-11-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:425480:por",
+     "title": "Decreto-Lei n.º 248/2002",
+     "published": "2002-11-08",
+     "dre_path": "/dr/detalhe/decreto-lei/248-2002-425480"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "177715216",
+    "177715214",
+    "177715237",
+    "177715218",
+    "141357368",
+    "177715219",
+    "177715220",
+    "141357371",
+    "177715221",
+    "141357373",
+    "177715215",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "177715226",
+    "177715238",
+    "141352881",
+    "177715223",
+    "141352883",
+    "141352884",
+    "141352885",
+    "177715244",
+    "141352887",
+    "141352888",
+    "141352889",
+    "141352890",
+    "141352891",
+    "141352892",
+    "141352893",
+    "141352894",
+    "141352895",
+    "141352896",
+    "141352897",
+    "141352898",
+    "141352899"
+   ]
+  },
+  {
+   "date": "2003-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:423922:por",
+     "title": "Decreto-Lei n.º 321/2003",
+     "published": "2003-12-23",
+     "dre_path": "/dr/detalhe/decreto-lei/321-2003-423922"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "177715216",
+    "177715214",
+    "177715246",
+    "177715247",
+    "141357368",
+    "177715219",
+    "177715220",
+    "177715245",
+    "177715221",
+    "141357373",
+    "177715215",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "177715226",
+    "177715238",
+    "141352881",
+    "177715223",
+    "141352883",
+    "141352884",
+    "141352885",
+    "177715244",
+    "141352887",
+    "141352888",
+    "141352889",
+    "141352890",
+    "141352891",
+    "141352892",
+    "141352893",
+    "141352894",
+    "141352895",
+    "141352896",
+    "141352897",
+    "141352898",
+    "141352899"
+   ]
+  },
+  {
+   "date": "2015-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66773611:por",
+     "title": "Lei n.º 23/2015",
+     "published": "2015-03-17",
+     "dre_path": "/dr/detalhe/lei/23-2015-66773611"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "177715216",
+    "177715214",
+    "177715246",
+    "177715247",
+    "141357368",
+    "177715219",
+    "177715220",
+    "177715245",
+    "177715221",
+    "141357373",
+    "177715215",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "177715226",
+    "177715238",
+    "141352881",
+    "177715223",
+    "141352883",
+    "141352884",
+    "141352885",
+    "177715244",
+    "141352887",
+    "141352888",
+    "141352889",
+    "141352890",
+    "141352891",
+    "177847186",
+    "141352893",
+    "141352894",
+    "141352895",
+    "141352896",
+    "141352897",
+    "141352898",
+    "141352899"
+   ]
+  },
+  {
+   "date": "2015-10-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70641450:por",
+     "title": "Decreto-Lei n.º 234/2015",
+     "published": "2015-10-13",
+     "dre_path": "/dr/detalhe/decreto-lei/234-2015-70641450"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "177715216",
+    "177715214",
+    "177847187",
+    "177847188",
+    "141357368",
+    "177715219",
+    "177715220",
+    "177715245",
+    "177847189",
+    "141357373",
+    "177715215",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "177847190",
+    "177847191",
+    "177847192",
+    "177847193",
+    "141352883",
+    "141352884",
+    "141352885",
+    "177847194",
+    "141352887",
+    "141352888",
+    "141352889",
+    "141352890",
+    "141352891",
+    "177847186",
+    "141352893",
+    "141352894",
+    "177847195",
+    "141352896",
+    "141352897",
+    "141352898",
+    "141352899"
+   ]
+  },
+  {
+   "date": "2020-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:141259622:por",
+     "title": "Lei n.º 56/2020",
+     "published": "2020-08-27",
+     "dre_path": "/dr/detalhe/lei/56-2020-141259622"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Adita Artigo 14.º-B",
+    "Adita Artigo 14.º-C",
+    "Adita Artigo 14.º-D",
+    "Adita Artigo 14.º-E",
+    "Adita Artigo 14.º-F",
+    "Adita Artigo 14.º-G",
+    "Adita Artigo 14.º-H",
+    "Adita Artigo 14.º-I",
+    "Adita Artigo 14.º-J",
+    "Adita Artigo 14.º-K",
+    "Adita Artigo 14.º-L",
+    "Adita Artigo 14.º-M",
+    "Adita Artigo 14.º-N",
+    "Adita Artigo 15.º-A",
+    "Adita Artigo 15.º-B",
+    "Adita Artigo 15.º-C",
+    "Adita Artigo 15.º-D",
+    "Adita Artigo 15.º-E",
+    "Adita Artigo 23.º-A",
+    "Adita Artigo 23.º-B",
+    "Adita Artigo 23.º-C",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "177715216",
+    "177715214",
+    "177847508",
+    "177847509",
+    "141357368",
+    "177715219",
+    "177715220",
+    "177715245",
+    "177847189",
+    "141357373",
+    "177715215",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "177847510",
+    "177847196",
+    "177847202",
+    "177847208",
+    "177847214",
+    "177847220",
+    "177847226",
+    "177847232",
+    "177847238",
+    "177847244",
+    "177847250",
+    "177847256",
+    "177847262",
+    "177847268",
+    "177847274",
+    "177847511",
+    "177847480",
+    "177847485",
+    "177847490",
+    "177847495",
+    "177847500",
+    "177847512",
+    "177847502",
+    "177847503",
+    "177847504",
+    "141352885",
+    "177847194",
+    "141352887",
+    "141352888",
+    "141352889",
+    "177847505",
+    "177847506",
+    "177847507",
+    "141352890",
+    "141352891",
+    "177847186",
+    "141352893",
+    "141352894",
+    "177847195",
+    "141352896",
+    "141352897",
+    "141352898",
+    "141352899"
+   ]
+  },
+  {
+   "date": "2022-01-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177796599:por",
+     "title": "Decreto-Lei n.º 17/2022",
+     "published": "2022-01-18",
+     "dre_path": "/dr/detalhe/decreto-lei/17-2022-177796599"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "141357362",
+    "141357363",
+    "177715216",
+    "177715214",
+    "177847508",
+    "177847513",
+    "141357368",
+    "177715219",
+    "177715220",
+    "177715245",
+    "177847189",
+    "141357373",
+    "177715215",
+    "141352875",
+    "141352876",
+    "141352877",
+    "141352878",
+    "177847510",
+    "177847196",
+    "177847202",
+    "177847208",
+    "177847214",
+    "177847220",
+    "177847226",
+    "177847232",
+    "177847238",
+    "177847244",
+    "177847250",
+    "177847256",
+    "177847262",
+    "177847268",
+    "177847274",
+    "177847511",
+    "177847480",
+    "177847485",
+    "177847490",
+    "177847495",
+    "177847500",
+    "177847512",
+    "177847502",
+    "177847503",
+    "177847504",
+    "141352885",
+    "177847194",
+    "141352887",
+    "141352888",
+    "141352889",
+    "177847505",
+    "177847506",
+    "177847507",
+    "141352890",
+    "141352891",
+    "177847186",
+    "141352893",
+    "141352894",
+    "177847195",
+    "141352896",
+    "141352897",
+    "141352898",
+    "141352899"
+   ]
+  }
+ ],
+ "fragments": {
+  "141357362": {
+   "fragment_id": "141358088",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 96/89\n\nde 28 de Março\n\nA competição internacional no sector da marinha de comércio e extremamente forte, tendo conduzido à baixa acentuada e prolongada dos fretes marítimos, facto este que tem originado no sector margens de rentabilidade muito reduzidas.\n\nDentro deste contexto, todos os factores de custo assumem uma relevância determinante na viabilização da actividade, pelo que se tem assistido, a nível internacional, ao aumento da importância quer das bandeiras de conveniência, quer dos registos especiais, quer ainda de outras soluções para vencer as dificuldades existentes.\n\nAssim, para fazer face à situação da marinha de comércio, diversos Estados europeus criaram já os seus próprios segundos registos, como seja o caso do Reino Unido, da França, da Holanda, da Dinamarca e da Noruega, estando outros países presentemente a estudar soluções semelhantes.\n\nEstes segundos registos criados por aqueles países têm permitido estancar os processos de saída de navios do registo principal para registos de conveniência, assim como atrair alguns novos armadores e navios aos novos registos, oferecendo a estes condições de custos semelhantes às dos registos mais competitivos.\n\nA marinha de comércio, pelo seu carácter verdadeiro e inteiramente internacional, reveste características muito especiais, dado que o essencial da actividade se desenvolve normalmente em águas internacionais ou de países diferentes dos de registo.\n\nÉ cada vez mais frequente que os navios não tenham mesmo quaisquer contactos com os países de origem, porque a sua inserção em pools de transporte internacional é muitas vezes indispensável para a respectiva rentabilização.\n\nFace à situação de crise internacional do sector, dos níveis de competitividade e rentabilidade e das características especiais da actividade, assim como do recurso, já com alguma expressão no caso português, de armadores nacionais a bandeiras de conveniência, também em Portugal se tornou necessário analisar o interesse da constituição de um segundo registo.\n\nTendo em conta, por um lado, a conclusão pela vantagem da criação de um registo daquele tipo com vista a ajudar a solucionar os problemas da marinha de comércio nacional e, por outro, a existência de uma zona franca na Região Autónoma da Madeira, foi decidido criar pelo presente diploma o Registo Internacional de Navios da Madeira (MAR).\n\nPretende-se que este registo figure entre os registos internacionais considerados de qualidade, tanto mais que os navios que o vão utilizar arvorarão a bandeira portuguesa, pelo que se estabelece no presente diploma que todas as convenções internacionais de que o Estado Português seja signatário obrigarão também o Registo Internacional de Navios da Madeira. Ainda com vista a assegurar a qualidade do registo terão de ser garantidos sistemas eficazes de fiscalização dos navios.\n\nEste registo, para além de vir a funcionar como elemento de dinamização da marinha de comércio nacional e factor de estancagem da passagem de navios portugueses para bandeira de conveniência, será também um importante factor de dinamização económica da Região Autónoma da Madeira e do País, quer criando emprego neste sector, em que os Portugueses têm historicamente revelado aptidões especiais, quer permitindo o crescimento de actividades directa e indirectamente relacionadas com o MAR, tanto no campo económico como da educação e da investigação.\n\nFace aos condicionalismos actuais, o presente diploma é uma peça indispensável para que Portugal possa cumprir a sua vocação também como país marítimo, reforçando as nossas actividades nesta área e fortalecendo as nossas potencialidades estratégicas em tudo o que respeita ao MAR.\n\nForam ouvidos os órgãos de governo próprio da Região Autónoma da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "141357363": {
+   "fragment_id": "141358089",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, atribuições e competências"
+  },
+  "141357364": {
+   "fragment_id": "141358090",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão criados, na dependência do Ministério da Justiça, os serviços do Registo Internacional de Navios da Madeira, adiante abreviadamente designados por MAR, e integrados na Conservatória do Registo Comercial privativa da zona franca da Madeira."
+  },
+  "141357365": {
+   "fragment_id": "141358091",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO MAR tem por fim efectuar o registo de todos os actos e contratos referentes a navios a ele sujeitos."
+  },
+  "141357366": {
+   "fragment_id": "141358092",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO MAR tem as seguintes competências:\n\na) Efectuar o registo de navios;\n\nb) Fiscalizar as condições técnicas dos navios, de acordo com as convenções internacionais vigentes na ordem jurídica portuguesa ou a legislação nacional aplicável aos navios não abrangidos por aquelas;\n\nc) Efectuar inspecções aos navios;\n\nd) Proceder à atribuição de indicativos de chamada;\n\ne) Proceder à atribuição e reserva dos nomes e números de registo dos navios;\n\nf) Emitir os certificados dos navios;\n\ng) Emitir, validar e controlar os papéis de bordo;\n\nh) Fiscalizar a actividade das sociedades de classificação devidamente credenciadas;\n\ni) Fixar as lotações mínimas dos navios e emitir os respectivos certificados;\n\nj) Fazer a matrícula das tripulações;\n\nl) Reconhecer os certificados académicos e técnicos estrangeiros referentes à actividade da marinha de comércio;\n\nm) Realizar os demais actos inerentes às obrigações do registo."
+  },
+  "141357367": {
+   "fragment_id": "141358093",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O MAR tem uma comissão técnica constituída da seguinte forma:\n\na) Um representante do membro do Governo responsável pelo sector dos transportes, o qual presidirá;\n\nb) Um representante da Região Antónoma da Madeira;\n\nc) Um representante da Inspecção-Geral de Navios.\n\n2 - Compete à comissão técnica pronunciar-se sobre os actos relativos ao registo de navios, exercer as demais competências previstas no artigo anterior e credenciar as sociedades de classificação.\n\n3 - O capitão do porto assessorará a comissão sempre que esta o solicite.\n\n4 - O apoio funcional à comissão e o suporte de todas as despesas por esta realizadas serão assegurados pela Região Autónoma da Madeira."
+  },
+  "141357368": {
+   "fragment_id": "141358094",
+   "type": 1,
+   "heading": "Capítulo II — Exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício da actividade"
+  },
+  "141357369": {
+   "fragment_id": "141358095",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPara efeitos do disposto no presente diploma, entende-se por:\n\na) Indústria do transporte marítimo - o exercício da actividade de transportador marítimo, em nome próprio ou alheio, através do recurso a navios próprios ou afretados;\n\nb) Proprietário do navio - o titular do direito de propriedade sobre o navio;\n\nc) Armador - o que explora comercialmente o navio de que é proprietário ou afretador;\n\nd) Operador - o que explora comercialmente o navio em nome alheio;\n\ne) Navio - toda a embarcação de comércio que opere no meio ambiental marítimo, incluindo plataformas fixas ou flutuantes."
+  },
+  "141357370": {
+   "fragment_id": "141358096",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs navios registados no MAR arvoram a bandeira portuguesa."
+  },
+  "141357371": {
+   "fragment_id": "141358097",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - O MAR pode delegar em sociedades de classificação credenciadas o desempenho de algumas das suas funções e reconhecer os certificados por estas emitidos.\n\n2 - A credenciação das sociedades de classificação será objecto de portaria do Ministro das Obras Públicas, Transportes e Comunicações."
+  },
+  "141357372": {
+   "fragment_id": "141358098",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1 - As sociedades e suas formas de representação bem como os estabelecimentos individuais de responsabilidade limitada que prossigam a actividade da indústria de transportes marítimos na Região Autónoma da Madeira farão parte da actividade desenvolvida no âmbito institucional da zona franca e como tal integrarão aquela zona para todos os efeitos, desde que o requeiram e sejam devidamente licenciadas.\n\n2 - A constituição e funcionamento das entidades referidas no número anterior dependem de autorização do Governo Regional da Madeira, estando sujeitas ao pagamento de uma licença de instalação e de uma licença anual de funcionamento, nos termos a definir pelos respectivos órgãos de governo próprio."
+  },
+  "141357373": {
+   "fragment_id": "141358099",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - As entidades referidas no n.º 1 do artigo anterior regem-se pelas disposições do Código das Sociedades Comerciais e do Decreto-Lei n.º 248/86, de 25 de Agosto, em tudo o que não contrarie o disposto no presente diploma e o regime de registo e de funcionamento das sociedades e demais entidades licenciadas no âmbito institucional da zona franca da Madeira.\n\n2 - As entidades referidas no número anterior não ficarão sujeitas aos requisitos de capital mínimo previstos no Código das Sociedades Comerciais e no Decreto-Lei n.º 248/86, de 25 de Agosto."
+  },
+  "141357374": {
+   "fragment_id": "141358100",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n- 1 - As entidades de nacionalidade estrangeira que pretendam constituir na Região Autónoma da Madeira sociedade ou estabelecimento individual de responsabilidade limitada ou outra forma local de representação cujo objecto consista no exercício da indústria de transporte marítimo não carecem de autorização para efeitos de importação de capital.\n\n2 - A importação de capitais destinada à finalidade prevista no número anterior deve ser comunicada ao Banco de Portugal."
+  },
+  "141352875": {
+   "fragment_id": "141358101",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n- 1 - As entidades previstas no artigo 8.º não serão obrigadas a ter a sua sede social na Região Autónoma da Madeira.\n\n2 - Nos casos em que a sede social se situe fora da Região Autónoma da Madeira devem aquelas entidades dispor localmente de sucursal, delegação, agência ou qualquer outra forma de representação, dotada de todos os poderes necessários para, perante as autoridades do Estado ou da Região Autónoma da Madeira e perante terceiros, assegurar uma representação plena, com escolha de domicílio particular para o efeito.\n\n3 - Os poderes referidos no número anterior incluirão obrigatoriamente o de receber citações."
+  },
+  "141352876": {
+   "fragment_id": "141358102",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs membros da administração, direcção ou gerência das entidades referidas no artigo 8.º não ficarão sujeitos a requisitos de nacionalidade ou residência."
+  },
+  "141352877": {
+   "fragment_id": "141358103",
+   "type": 1,
+   "heading": "Capítulo III — Compra, venda e registo de navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Compra, venda e registo de navios"
+  },
+  "141352878": {
+   "fragment_id": "141358104",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA compra e venda de navios registados no MAR não está sujeita a qualquer autorização."
+  },
+  "141352879": {
+   "fragment_id": "141358105",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n- 1 - A venda de navios poderá ser feita por declaração de venda (bill of sale), com reconhecimento presencial da assinatura do vendedor.\n\n2 - O acto de constituição ou modificação de hipoteca sobre navio deve constar de documento assinado pelas partes, com reconhecimento presencial das assinaturas."
+  },
+  "141352880": {
+   "fragment_id": "141358106",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - São objecto de registo no MAR os navios de que sejam proprietários:\n\na) Entidades off-shore licenciadas, a que se refere o artigo 8.º;\n\nb) Entidades não inseridas no âmbito institucional da zona franca da Madeira.\n\n2 - Serão igualmente registáveis no MAR, a título provisório, os navios afretados em casco nu pelas entidades referidas no número anterior, desde que devidamente autorizadas pelos seus proprietários e pela autoridade competente do país no qual se encontra feito o registo de propriedade.\n\n3 - Os navios registados no MAR não poderão transportar passageiros ou carga entre portos nacionais, salvo na situação prevista no n.º 2 do artigo 7.º do Decreto-Lei n.º 34/87, de 20 de Janeiro.\n\n4 - Os navios registados no MAR não poderão beneficiar de quaisquer apoios ou regimes proteccionistas, os quais são exclusivamente reservados à restante frota sob bandeira nacional.\n\n5 - Os navios de bandeira portuguesa que tenham recebido incentivos ao investimento não poderão transferir o seu registo para o MAR antes de satisfazerem os compromissos assumidos para com o Estado Português."
+  },
+  "141352881": {
+   "fragment_id": "141358107",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n- 1 - Os navios referidos no artigo anterior poderão ser provisoriamente registados nos consulados de Portugal.\n\n2 - O tempo de vigência do registo provisório e os requisitos necessários à sua conversão em definitivo serão fixados mediante decreto regulamentar."
+  },
+  "141352882": {
+   "fragment_id": "141358108",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - As entidades off-shore requerentes do registo farão prova dos requisitos a seguir indicados:\n\na) Licenciamento na Região Autónoma da Madeira, nos termos do presente diploma e demais legislação aplicável;\n\nb) Título de aquisição do navio;\n\nc) Liquidação das taxas a que se refere o n.º 2 do artigo 8.º\n\n2 - As demais entidades referidas no artigo 8.º farão prova do seguinte:\n\na) Indicação da firma ou denominação social, domicílio ou sede do requerente, com junção do respectivo contrato de sociedade, em caso de se tratar de pessoa colectiva;\n\nb) Identificação completa, em caso de se tratar de pessoa singular;\n\nc) Título de aquisição do navio.\n\n3 - Nos casos em que se situe fora da Região Autónoma da Madeira o domicílio ou sede das entidades referidas no número anterior que tenham por objecto a indústria de transporte marítimo deverão ser cumpridos os requisitos a que aludem os n.os 2 e 3 do artigo 11.º"
+  },
+  "141352883": {
+   "fragment_id": "141358109",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO MAR poderá autorizar o registo temporário no estrangeiro de navios afretados em casco nu."
+  },
+  "141352884": {
+   "fragment_id": "141358110",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA emissão dos certificados dos navios registados no MAR fica subordinada aos padrões estabelecidos pelas convenções internacionais em vigor na ordem jurídica portuguesa."
+  },
+  "141352885": {
+   "fragment_id": "141358111",
+   "type": 1,
+   "heading": "Capítulo IV — Tripulações e lotações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Tripulações e lotações"
+  },
+  "141352886": {
+   "fragment_id": "141358112",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n- 1 - Sem prejuízo do disposto no número seguinte, o comandante e pelo menos metade dos tripulantes dos navios registados no MAR devem ser cidadãos portugueses.\n\n2 - Em casos especiais devidamente justificados, nomeadamente quando não existam tripulantes portugueses disponíveis, poderá o ministro com tutela sobre os transportes marítimos autorizar o MAR a permitir o embarque de tripulantes estrangeiros para além do máximo estipulado no número anterior."
+  },
+  "141352887": {
+   "fragment_id": "141358113",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n- 1 - Os tripulantes deverão satisfazer as qualificações académicas e técnicas exigidas para o exercício das respectivas funções, em conformidade com as convenções internacionais vigentes na ordem jurídica portuguesa sobre a matéria.\n\n2 - O Regulamento de Inscrição Marítima, Matrícula e Lotações não será aplicável aos navios registados no MAR.\n\n3 - O regime disciplinar será objecto de legislação própria."
+  },
+  "141352888": {
+   "fragment_id": "141358114",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA contratação e as condições de trabalho das tripulações deverão apenas obedecer ao disposto nas convenções internacionais vigentes na ordem jurídica portuguesa sobre a matéria."
+  },
+  "141352889": {
+   "fragment_id": "141358115",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs critérios a que deverá obedecer a fixação de lotações mínimas serão estabelecidos em diploma próprio."
+  },
+  "141352890": {
+   "fragment_id": "141358116",
+   "type": 1,
+   "heading": "Capítulo V — Regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime fiscal"
+  },
+  "141352891": {
+   "fragment_id": "141358117",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n- 1 - O regime fiscal aplicável às entidades referidas no artigo 8.º é o previsto na legislação relativa à zona franca da Madeira.\n\n2 - O regime referido no número anterior aplica-se também aos navios registados no MAR."
+  },
+  "141352892": {
+   "fragment_id": "141358118",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nOs tripulantes e as empresas proprietárias de navios registados no MAR não estão obrigados a descontos para a Segurança Social, sem prejuízo, porém, de serem assegurados os sistemas de segurança decorrentes das convenções internacionais em vigor na ordem jurídica portuguesa."
+  },
+  "141352893": {
+   "fragment_id": "141358119",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs actos de registo comercial previstos neste diploma encontram-se isentos de quaisquer taxas ou emolumentos."
+  },
+  "141352894": {
+   "fragment_id": "141358120",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n- 1 - Os actos de registo dos navios implicam o pagamento de uma taxa aquando da efectivação do registo e de uma taxa de manutenção anual, destinada a cobrir as despesas com o serviço de registo, cujo produto constitui receita da Região Autónoma da Madeira.\n\n2 - O incumprimento do disposto no número anterior implica o imediato cancelamento do registo.\n\n3 - Pelas restantes prestações de serviços do MAR aos utentes, a que se refere o artigo 3.º, serão devidas taxas, que constituirão receitas da Região Autónoma da Madeira.\n\n4 - O montante das taxas referidas nos números anteriores será fixado pelos respectivos órgãos de governo próprio."
+  },
+  "141352895": {
+   "fragment_id": "141358121",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n- 1 - A violação dos artigos 6.º, 8.º, n.º 2, 11.º, n.º 2, 15.º, n.º 3, 20.º, n.º 1, 21.º, n.º 1, e 25.º constitui contra-ordenação punível com coima até 200000$00 ou 3000000$00, conforme se trate de pessoa singular ou colectiva.\n\n2 - A violação do n.º 2 do artigo 8.º e do n.º 3 do artigo 15.º pode determinar também a aplicação, como sanção acessória, da suspensão temporária ou do cancelamento do registo.\n\n3 - A negligência é punível.\n\n4 - O processamento das contra-ordenações e a aplicação das respectivas coimas competem à entidade indicada pelos órgãos de governo próprio da Região, para quem reverterá o produto das coimas aplicadas."
+  },
+  "141352896": {
+   "fragment_id": "141358122",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições transitórias e finais"
+  },
+  "141352897": {
+   "fragment_id": "141358123",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nAté à entrada em vigor da legislação complementar a este diploma aplicar-se-á, com as devidas adaptações, a legislação vigente sobre cada uma das matérias a disciplinar."
+  },
+  "141352898": {
+   "fragment_id": "141358124",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "177715216": {
+   "fragment_id": "141358090",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O Registo Internacional de Navios da Madeira, abreviadamente designado por MAR, funciona na dependência dos Ministérios da Justiça e do Mar, incumbindo-lhe, em especial, o registo de todos os actos e contratos referentes aos navios a ele sujeitos e o controlo dos requisitos de segurança exigidos pelas convenções internacionais aplicáveis.\n\n2 - Dependem do Ministério da Justiça os serviços de registo de navios integrados na Conservatória de Registo Comercial privativa da Zona Franca da Madeira.\n\n3 - É da competência do Ministério do Mar a supervisão relativamente à segurança da navegação, à salvaguarda da vida humana no mar, à protecção do meio ambiente marinho e, de um modo geral, o controlo e fiscalização dos aspectos técnicos, referentes aos navios registados no MAR.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715214": {
+   "fragment_id": "141358091",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO MAR tem por fim efectuar o registo de todos os actos e contratos referentes a navios a ele sujeitos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715217": {
+   "fragment_id": "141358092",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\nPara a prossecução dos objectivos e atribuições a que refere o artigo 1.º, compete ao MAR:\n\na) Efectuar o registo de navios de comércio, incluindo os contratos de construção, e das embarcações de recreio;\n\nb) Fiscalizar as condições técnicas dos navios, de acordo com as convenções internacionais vigentes na ordem jurídica portuguesa ou a legislação nacional aplicável aos navios não abrangidos por aquelas;\n\nc) Efectuar inspecções aos navios;\n\nd) Proceder à atribuição de indicativos de chamada;\n\ne) Proceder à atribuição e reserva dos nomes e números de registo dos navios;\n\nf) Emitir os certificados dos navios;\n\ng) Emitir, validar e controlar os papéis de bordo;\n\nh) Fiscalizar a actividade das sociedades de classificação devidamente credenciadas;\n\ni) Fixar as lotações mínimas dos navios e emitir os respectivos certificados;\n\nj) Fazer a matrícula das tripulações;\n\nl) Reconhecer os certificados técnicos emitidos por administrações marítimas estrangeiras referentes à actividade das marinhas de comércio e de recreio;\n\nm) Efectuar a inscrição dos factos jurídicos a ele sujeitos e referentes aos navios registados;\n\nn) Realizar os demais actos inerentes às obrigações do registo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715218": {
+   "fragment_id": "141358093",
+   "type": 11,
+   "heading": "Artigo 4.º — - 1 - O MAR tem uma comissão técnica constituída da seguinte forma:",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 4.º — - 1 - O MAR tem uma comissão técnica constituída da seguinte forma:\n\n1 - O MAR tem uma comissão técnica constituída da seguinte forma:\n\na) Um representante do membro do Governo responsável pelo sector dos transportes, o qual presidirá;\n\nb) Um representante da Região Antónoma da Madeira;\n\nc) Um representante da Inspecção-Geral de Navios.\n\n2 - Compete à comissão técnica pronunciar-se sobre os actos relativos ao registo de navios, exercer as demais competências previstas no artigo anterior e credenciar as sociedades de classificação.\n\n3 - O capitão do porto assessorará a comissão sempre que esta o solicite.\n\n4 - O apoio funcional à comissão e o suporte de todas as despesas por esta realizadas serão assegurados pela Região Autónoma da Madeira.\n\n5 - A comissão técnica articula com a Direcção-Geral de Portos, Navegação e Transportes Marítimos as modalidades de aplicação de normas e procedimentos necessários ao exercício das suas funções.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715219": {
+   "fragment_id": "141358095",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 5.º\n\nPara efeitos do disposto no presente diploma, entende-se por:\n\na) Indústria do transporte marítimo - o exercício da actividade de transportador marítimo, em nome próprio ou alheio, através do recurso a navios próprios ou afretados;\n\nb) Proprietário do navio - o titular do direito de propriedade sobre o navio;\n\nc) Armador - o que explora comercialmente o navio de que é proprietário ou afretador;\n\nd) Operador - o que explora comercialmente o navio em nome alheio;\n\ne) Navio - toda a embarcação de comércio que opere no meio ambiental marítimo, incluindo plataformas fixas ou flutuantes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715220": {
+   "fragment_id": "141358096",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 6.º\n\nOs navios registados no MAR arvoram a bandeira portuguesa.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715221": {
+   "fragment_id": "141358098",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 8.º\n\n- 1 - As sociedades e suas formas de representação, bem como os estabelecimentos individuais de responsabilidade limitada que prossigam as actividades da indústria de transportes marítimos ou da marinha de recreio na Região Autónoma da Madeira, farão parte da actividade desenvolvida no âmbito institucional da zona franca e como tal integrarão aquela zona para todos os efeitos, desde que o requeiram e sejam devidamente licenciados.\n\n2 - A constituição e funcionamento das entidades referidas no número anterior dependem de autorização do Governo Regional da Madeira, estando sujeitas ao pagamento de uma licença de instalação e de uma licença anual de funcionamento, nos termos a definir pelos respectivos órgãos de governo próprio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715215": {
+   "fragment_id": "141358100",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 10.º\n\n- 1 - As entidades de nacionalidade estrangeira que pretendam constituir na Região Autónoma da Madeira sociedade ou estabelecimento individual de responsabilidade limitada ou outra forma local de representação cujo objecto consista no exercício da indústria de transporte marítimo não carecem de autorização para efeitos de importação de capital.\n\n2 - A importação de capitais destinada à finalidade prevista no número anterior deve ser comunicada ao Banco de Portugal.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715222": {
+   "fragment_id": "141358105",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 14.º\n\n- 1 - A venda de navios poderá ser feita por declaração de venda (bill of sale), com reconhecimento presencial da assinatura do vendedor.\n\n2 - A constituição, a modificação ou a extinção da hipoteca ou de direito a ela equivalente devem constar de documento assinado pelo titular do navio, com reconhecimento presencial da assinatura.\n\n3 - As partes podem designar a lei aplicável à hipoteca ou direito equivalente, devendo em tal caso, com o pedido de registo, juntar cópia dessa legislação para elas assinada, depois de traduzida, excepto quando o conservador dispense a tradução ou determine que esta seja feita por perito por ele escolhido.\n\n4 - A escolha das partes deve ser inscrita em conjunto com o próprio registo da hipoteca.\n\n5 - Na falta de estipulação das partes ou na ausência de inscrição da mesma, a hipoteca ou direito equivalente rege-se pela lei portuguesa.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715223": {
+   "fragment_id": "141358108",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 17.º\n\n1 - As entidades off-shore requerentes do registo farão prova dos requisitos a seguir indicados:\n\na) Licenciamento na Região Autónoma da Madeira, nos termos do presente diploma e demais legislação aplicável;\n\nb) Título de aquisição do navio;\n\nc) Liquidação das taxas a que se refere o n.º 2 do artigo 8.º\n\n2 - As demais entidades referidas no artigo 8.º farão prova do seguinte:\n\na) Indicação da firma ou denominação social, domicílio ou sede do requerente, com junção do respectivo contrato de sociedade, em caso de se tratar de pessoa colectiva;\n\nb) Identificação completa, em caso de se tratar de pessoa singular;\n\nc) Título de aquisição do navio.\n\n3 - Nos casos em que se situe fora da Região Autónoma da Madeira o domicílio ou sede das entidades referidas no número anterior que tenham por objecto a indústria de transporte marítimo deverão ser cumpridos os requisitos a que aludem os n.os 2 e 3 do artigo 11.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715224": {
+   "fragment_id": "141358112",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1993-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 20.º\n\n- 1 - Sem prejuízo do disposto nos números seguintes, o comandante e pelo menos 50% dos tripulantes dos navios registados no MAR devem ser cidadãos de nacionalidade portuguesa ou de Estados membros da Comunidade Europeia.\n\n2 - Em casos especiais devidamente justificados, nomeadamente quando não existam ou não se encontrem disponíveis tripulantes das nacionalidades referidas no número anterior, poderá ser autorizado pelo Ministro do Mar o embarque de tripulantes estrangeiros para além do máximo estipulado no número anterior.\n\n3 - O disposto no presente artigo não se aplica às embarcações de recreio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "141352899": {
+   "fragment_id": "141358125",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - José Bernardo Veloso Falcão e Cunha.\n\nPromulgado em 11 de Março de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Março de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "177715226": {
+   "fragment_id": "141358105",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1997-01-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 5/97 - Diário da República n.º 7/1997, Série I-A de 1997-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1997-302094), em vigor a partir de 1997-01-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 14.º\n\n- 1 - A venda de navios poderá ser feita por declaração de venda (bill of sale), com reconhecimento presencial da assinatura do vendedor.\n\n2 - A constituição, a modificação ou a extinção da hipoteca ou de direito a ela equivalente devem constar de documento assinado pelo titular do navio, com reconhecimento presencial da assinatura.\n\n3 - As partes podem designar a lei aplicável à hipoteca ou direito equivalente, sem prejuízo da aplicação das normas constantes das convenções internacionais que vinculam internacionalmente o Estado Português.\n\n4 - No caso previsto no número anterior, com o pedido de registo é junta cópia dessa legislação, assinada pelas partes, depois de traduzida, excepto quando o conservador dispense a tradução ou determine que esta seja feita por perito por ele escolhido.\n\n5 - A escolha das partes deve ser inscrita em conjunto com o próprio registo da hipoteca.\n\n6 - Na falta de estipulação das partes ou na ausência de inscrição da mesma, a hipoteca ou direito equivalente rege-se pela lei portuguesa.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/97 - Diário da República n.º 7/1997, Série I-A de 1997-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1997-302094), em vigor a partir de 1997-01-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715231": {
+   "fragment_id": "141358106",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1997-02-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/97 - Diário da República n.º 23/1997, Série I-A de 1997-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1997-571198), em vigor a partir de 1997-02-02, produz efeitos a partir de 1997-01-01"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - São objecto de registo no MAR os navios de que sejam proprietários:\n\na) Entidades off-shore licenciadas, a que se refere o artigo 8.º;\n\nb) Entidades não inseridas no âmbito institucional da zona franca da Madeira.\n\n2 - Serão igualmente registáveis no MAR, a título provisório, os navios afretados em casco nu pelas entidades referidas no número anterior, desde que devidamente autorizadas pelos seus proprietários e pela autoridade competente do país no qual se encontra feito o registo de propriedade.\n\n3 - Os navios registados no MAR não poderão transportar passageiros ou carga entre portos nacionais, salvo na situação prevista no n.º 2 do artigo 7.º do Decreto-Lei n.º 34/87, de 20 de Janeiro.\n\n4 - Os navios registados no MAR não poderão beneficiar de quaisquer apoios ou regimes proteccionistas, os quais são exclusivamente reservados à restante frota sob bandeira nacional.\n\n5 - Os navios de bandeira portuguesa que tenham recebido incentivos ao investimento não poderão transferir o seu registo para o MAR antes de satisfazerem os compromissos assumidos para com o Estado Português.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/97 - Diário da República n.º 23/1997, Série I-A de 1997-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1997-571198), em vigor a partir de 1997-02-02, produz efeitos a partir de 1997-01-01"
+  },
+  "177715237": {
+   "fragment_id": "141358092",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\nO MAR tem as seguintes competências:\n\na) Efectuar o registo de navios;\n\nb) Fiscalizar as condições técnicas dos navios, de acordo com as convenções internacionais vigentes na ordem jurídica portuguesa ou a legislação nacional aplicável aos navios não abrangidos por aquelas;\n\nc) Efectuar inspecções aos navios;\n\nd) Proceder à atribuição de indicativos de chamada;\n\ne) Proceder à atribuição e reserva dos nomes e números de registo dos navios;\n\nf) Emitir os certificados dos navios;\n\ng) Emitir, validar e controlar os papéis de bordo;\n\nh) Fiscalizar a actividade das sociedades de classificação devidamente credenciadas;\n\ni) Fixar as lotações mínimas dos navios e emitir os respectivos certificados;\n\nj) Fazer a matrícula das tripulações;\n\nl) Reconhecer os certificados académicos e técnicos estrangeiros referentes à actividade da marinha de comércio;\n\nm) Realizar os demais actos inerentes às obrigações do registo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715238": {
+   "fragment_id": "141358106",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1999-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/97 - Diário da República n.º 23/1997, Série I-A de 1997-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1997-571198), em vigor a partir de 1997-02-02, produz efeitos a partir de 1997-01-01"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - São objecto de registo no MAR os navios de que sejam proprietários:\n\na) Entidades off-shore licenciadas, a que se refere o artigo 8.º;\n\nb) Entidades não inseridas no âmbito institucional da zona franca da Madeira.\n\n2 - Serão igualmente registáveis no MAR, a título provisório, os navios afretados em casco nu pelas entidades referidas no número anterior, desde que devidamente autorizadas pelos seus proprietários e pela autoridade competente do país no qual se encontra feito o registo de propriedade.\n\n3 - Os navios registados no MAR não poderão transportar passageiros ou carga entre portos nacionais, salvo na situação prevista no n.º 2 do artigo 7.º do Decreto-Lei n.º 34/87, de 20 de Janeiro.\n\n4 - Os navios registados no MAR não poderão beneficiar de quaisquer apoios ou regimes proteccionistas, os quais são exclusivamente reservados à restante frota sob bandeira nacional.\n\n5 - Os navios de bandeira portuguesa que tenham recebido incentivos ao investimento não poderão transferir o seu registo para o MAR antes de satisfazerem os compromissos assumidos para com o Estado Português.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/97 - Diário da República n.º 23/1997, Série I-A de 1997-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1997-571198), em vigor a partir de 1997-02-02, produz efeitos a partir de 1997-01-01"
+  },
+  "177715244": {
+   "fragment_id": "141358112",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2002-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 248/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2002-425480), em vigor a partir de 2002-11-13",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 20.º\n\n1 - Sem prejuízo do disposto nos números seguintes, o comandante e pelo menos 50% dos tripulantes dos navios registados no MAR devem ser cidadãos de nacionalidade portuguesa ou nacionais de países europeus ou de países de língua oficial portuguesa.\n\n2 - Em casos especiais devidamente justificados, quando não seja possível o recrutamento de marítimos nacionais dos países referidos no número anterior, o membro do Governo responsável pela área dos transportes marítimos pode autorizar o embarque de marítimos de outras nacionalidades, para além do limite previsto no número anterior.\n\n3 - O disposto no presente artigo não se aplica às embarcações de recreio.\n\n> Alterado pelo/a [Decreto-Lei n.º 248/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2002-425480), em vigor a partir de 2002-11-13\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715246": {
+   "fragment_id": "141358092",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2003-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\nO MAR tem as seguintes competências:\n\na) Efectuar o registo de navios;\n\nb) Fiscalizar as condições técnicas dos navios, de acordo com as convenções internacionais vigentes na ordem jurídica portuguesa ou a legislação nacional aplicável aos navios não abrangidos por aquelas;\n\nc) Efectuar inspecções aos navios;\n\nd) Proceder à atribuição de indicativos de chamada;\n\ne) Proceder à atribuição e reserva dos nomes e números de registo dos navios;\n\nf) Emitir os certificados dos navios;\n\ng) Emitir, validar e controlar os papéis de bordo;\n\nh) Fiscalizar a actividade das sociedades de classificação devidamente credenciadas;\n\ni) Fixar as lotações mínimas dos navios e emitir os respectivos certificados;\n\nj) Fazer a matrícula das tripulações;\n\nl) Reconhecer os certificados académicos e técnicos estrangeiros referentes à actividade da marinha de comércio;\n\nm) Realizar os demais actos inerentes às obrigações do registo.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715247": {
+   "fragment_id": "141358093",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2003-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O MAR tem uma comissão técnica constituída da seguinte forma:\n\na) Um representante do membro do Governo responsável pelo sector dos transportes, o qual presidirá;\n\nb) Um representante da Região Antónoma da Madeira;\n\nc) Um representante da Inspecção-Geral de Navios.\n\n2 - Compete à comissão técnica pronunciar-se sobre os actos relativos ao registo dos navios e exercer as demais competências previstas no artigo anterior.\n\n3 - O capitão do porto assessorará a comissão sempre que esta o solicite.\n\n4 - O apoio funcional à comissão e o suporte de todas as despesas por esta realizadas serão assegurados pela Região Autónoma da Madeira.\n\n5 - A comissão técnica articula com a Direcção-Geral de Portos, Navegação e Transportes Marítimos as modalidades de aplicação de normas e procedimentos necessários ao exercício das suas funções.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177715245": {
+   "fragment_id": "141358097",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2003-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+   ],
+   "markdown": "###### Artigo 7.º\n\n- 1 - O MAR pode delegar em sociedades de classificação credenciadas o desempenho de algumas das suas funções e reconhecer os certificados por estas emitidos.\n\n2 - A credenciação das sociedades de classificação será objecto de portaria do Ministro das Obras Públicas, Transportes e Comunicações.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+  },
+  "177847186": {
+   "fragment_id": "141358118",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "2015-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2015 - Diário da República n.º 53/2015, Série I de 2015-03-17](https://diariodarepublica.pt/dr/detalhe/lei/23-2015-66773611), em vigor a partir de 2015-03-22"
+   ],
+   "markdown": "###### Artigo 25.º\n\n1 - Os tripulantes devem estar abrangidos por um regime de proteção social que cubra obrigatoriamente as eventualidades de doença, doença profissional e parentalidade.\n\n2 - A cobertura das eventualidades referidas no número anterior pode ser feita por qualquer regime de proteção social, salvo no caso de tripulantes nacionais ou residentes em território nacional cuja cobertura é obrigatoriamente efetuada pela inscrição no regime geral de segurança social dos trabalhadores por conta de outrem.\n\n3 - No caso de inscrição no regime geral de segurança social dos trabalhadores por conta de outrem, a taxa contributiva é de 2,7 %, cabendo 2,0 % à entidade empregadora e 0,7 % ao trabalhador.\n\n4 - Os tripulantes podem ainda inscrever-se no regime de seguro social voluntário para proteção nas eventualidades de invalidez, velhice e morte.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2015 - Diário da República n.º 53/2015, Série I de 2015-03-17](https://diariodarepublica.pt/dr/detalhe/lei/23-2015-66773611), em vigor a partir de 2015-03-22"
+  },
+  "177847187": {
+   "fragment_id": "141358092",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2015-10-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\nO MAR tem as seguintes competências:\n\na) Efectuar o registo de navios;\n\nb) Fiscalizar as condições técnicas dos navios, de acordo com as convenções internacionais vigentes na ordem jurídica portuguesa ou a legislação nacional aplicável aos navios não abrangidos por aquelas;\n\nc) Efectuar inspecções aos navios;\n\nd) Proceder à atribuição de indicativos de chamada;\n\ne) Proceder à atribuição e reserva dos nomes e números de registo dos navios;\n\nf) Emitir os certificados dos navios;\n\ng) Emitir, validar e controlar os papéis de bordo;\n\nh) Fiscalizar a actividade das sociedades de classificação devidamente credenciadas;\n\ni) Fixar as lotações mínimas dos navios e emitir os respectivos certificados;\n\nj) Fazer a matrícula das tripulações;\n\nl) Reconhecer os certificados académicos e técnicos estrangeiros referentes à actividade da marinha de comércio;\n\nm) Realizar os demais actos inerentes às obrigações do registo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177847188": {
+   "fragment_id": "141358093",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2015-10-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O MAR tem uma comissão técnica constituída da seguinte forma:\n\na) Um representante do membro do Governo responsável pela área da segurança marítima, o qual preside;\n\nb) Um representante da Região Antónoma da Madeira;\n\nc) Um representante da DGRM.\n\n2 - Compete à comissão técnica pronunciar-se sobre os actos relativos ao registo dos navios e exercer as demais competências previstas no artigo anterior.\n\n3 - O capitão do porto assessorará a comissão sempre que esta o solicite.\n\n4 - O apoio funcional à comissão e o suporte de todas as despesas por esta realizadas serão assegurados pela Região Autónoma da Madeira.\n\n5 - A comissão técnica articula com a Direcção-Geral de Portos, Navegação e Transportes Marítimos as modalidades de aplicação de normas e procedimentos necessários ao exercício das suas funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177847189": {
+   "fragment_id": "141358098",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2015-10-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - As sociedades e suas formas de representação, bem como os estabelecimentos individuais de responsabilidade limitada que prossigam as actividades da indústria de transportes marítimos ou da marinha de recreio na Região Autónoma da Madeira, farão parte da actividade desenvolvida no âmbito institucional da zona franca e como tal integrarão aquela zona para todos os efeitos, desde que o requeiram e sejam devidamente licenciados.\n\n2 - A constituição e funcionamento das entidades referidas no número anterior dependem de autorização do Governo Regional da Madeira, estando sujeitas ao pagamento de uma taxa de instalação e de uma taxa anual de funcionamento, nos termos a definir pelos respetivos órgãos de governo próprio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177847190": {
+   "fragment_id": "141358105",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2015-10-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a [Decreto-Lei n.º 5/97 - Diário da República n.º 7/1997, Série I-A de 1997-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1997-302094), em vigor a partir de 1997-01-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 14.º\n\n1 - A venda de navios pode ser feita por declaração de venda (bill of sale), com reconhecimento da assinatura do vendedor, com menção à qualidade e poderes para o ato, quando aplicável.\n\n2 - A constituição, a modificação ou a extinção da hipoteca ou de direito a ela equivalente devem constar de documento assinado pelo titular do navio, com reconhecimento da assinatura, com menção à qualidade e poderes para o ato, quando aplicável.\n\n3 - A redução voluntária de hipoteca ou extinção por renúncia do credor deve constar de declaração expressa do credor hipotecário, com reconhecimento da assinatura, com menção à qualidade e poderes para o ato, quando aplicável.\n\n4 - As partes podem designar a lei aplicável à hipoteca ou direito equivalente, sem prejuízo da aplicação das normas constantes das convenções internacionais que vinculam internacionalmente o Estado Português.\n\n5 - No caso previsto no número anterior, com o pedido de registo é junta cópia dessa legislação, assinada pelas partes, depois de traduzida, excepto quando o conservador dispense a tradução ou determine que esta seja feita por perito por ele escolhido.\n\n6 - A escolha das partes deve ser inscrita em conjunto com o próprio registo da hipoteca.\n\n7 - Na falta de estipulação das partes ou na ausência de inscrição da mesma, a hipoteca ou direito equivalente rege-se pela lei portuguesa.\n\n8 - Nos casos previstos no número anterior, o adquirente dos bens hipotecados só pode exercer o direito à expurgação, previsto no artigo 721.º do Código Civil português, desde que o exercício desse direito garanta ao credor hipotecário o pagamento integral de todos os direitos e encargos decorrentes do contrato de hipoteca, não sendo aplicável o disposto na alínea b) do mencionado artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a [Decreto-Lei n.º 5/97 - Diário da República n.º 7/1997, Série I-A de 1997-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1997-302094), em vigor a partir de 1997-01-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177847191": {
+   "fragment_id": "141358106",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2015-10-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/97 - Diário da República n.º 23/1997, Série I-A de 1997-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1997-571198), em vigor a partir de 1997-02-02, produz efeitos a partir de 1997-01-01"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - São objecto de registo no MAR os navios de que sejam proprietários:\n\na) Entidades off-shore licenciadas, a que se refere o artigo 8.º;\n\nb) Entidades não inseridas no âmbito institucional da zona franca da Madeira.\n\n2 - Serão igualmente registáveis no MAR, a título provisório, os navios afretados em casco nu pelas entidades referidas no número anterior, desde que devidamente autorizadas pelos seus proprietários e pela autoridade competente do país no qual se encontra feito o registo de propriedade.\n\n3 - Os navios registados no MAR não poderão transportar passageiros ou carga entre portos nacionais, salvo na situação prevista no n.º 2 do artigo 7.º do Decreto-Lei n.º 34/87, de 20 de Janeiro.\n\n4 - Os navios registados no MAR não poderão beneficiar de quaisquer apoios ou regimes proteccionistas, os quais são exclusivamente reservados à restante frota sob bandeira nacional.\n\n5 - Os navios de bandeira portuguesa que tenham recebido incentivos ao investimento não poderão transferir o seu registo para o MAR antes de satisfazerem os compromissos assumidos para com o Estado Português.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/97 - Diário da República n.º 23/1997, Série I-A de 1997-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1997-571198), em vigor a partir de 1997-02-02, produz efeitos a partir de 1997-01-01"
+  },
+  "177847192": {
+   "fragment_id": "141358107",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2015-10-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14"
+   ],
+   "markdown": "###### Artigo 16.º\n\n1 - Os navios referidos no artigo anterior bem como os factos referentes às hipotecas com eles relacionados podem ser provisoriamente registados nos consulados de Portugal.\n\n2 - O tempo de vigência do registo provisório e os requisitos necessários à sua conversão em definitivo serão fixados mediante decreto regulamentar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14"
+  },
+  "177847193": {
+   "fragment_id": "141358108",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "2015-10-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 17.º\n\n1 - As entidades off-shore requerentes do registo farão prova dos requisitos a seguir indicados:\n\na) Licenciamento na Região Autónoma da Madeira, nos termos do presente diploma e demais legislação aplicável;\n\nb) Título de aquisição do navio;\n\nc) Liquidação das taxas a que se refere o n.º 2 do artigo 8.º\n\n2 - As demais entidades referidas no artigo 8.º farão prova do seguinte:\n\na) Indicação da firma ou denominação social, domicílio ou sede do requerente, com junção do respectivo contrato de sociedade, em caso de se tratar de pessoa colectiva;\n\nb) Identificação completa, em caso de se tratar de pessoa singular;\n\nc) Título de aquisição do navio.\n\n3 - Nos casos em que se situe fora da Região Autónoma da Madeira o domicílio ou sede das entidades referidas no número anterior que tenham por objecto a indústria de transporte marítimo deverão ser cumpridos os requisitos a que aludem os n.os 2 e 3 do artigo 11.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177847194": {
+   "fragment_id": "141358112",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2015-10-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a [Decreto-Lei n.º 248/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2002-425480), em vigor a partir de 2002-11-13",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 20.º\n\n1 - Sem prejuízo do disposto nos números seguintes, pelo menos 30 % dos tripulantes dos navios registados no MAR devem ser cidadãos de nacionalidade portuguesa ou nacionais de países europeus ou de países de língua oficial portuguesa.\n\n2 - Em casos especiais devidamente justificados, quando não seja possível o recrutamento de marítimos nacionais dos países referidos no número anterior, o membro do Governo responsável pela área da segurança marítima pode autorizar o embarque de marítimos de outras nacionalidades, para além do limite previsto no número anterior.\n\n3 - O disposto no presente artigo não se aplica às embarcações de recreio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a [Decreto-Lei n.º 248/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2002-425480), em vigor a partir de 2002-11-13\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177847195": {
+   "fragment_id": "141358121",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "2015-10-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14"
+   ],
+   "markdown": "###### Artigo 28.º\n\n1 - A violação do artigo 6.º, do n.º 2 do artigo 8.º, do n.º 2 do artigo 11.º, do n.º 3 do artigo 15.º, do n.º 1 do artigo 20.º, do n.º 1 do artigo 21.º e do artigo 25.º constitui contraordenação punível com coima até (euro) 1 000,00 ou (euro) 15 000,00, conforme se trate de pessoa singular ou coletiva.\n\n2 - A violação do n.º 2 do artigo 8.º e do n.º 3 do artigo 15.º pode determinar também a aplicação, como sanção acessória, da suspensão temporária ou do cancelamento do registo.\n\n3 - A negligência é punível.\n\n4 - O processamento das contra-ordenações e a aplicação das respectivas coimas competem à entidade indicada pelos órgãos de governo próprio da Região, para quem reverterá o produto das coimas aplicadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14"
+  },
+  "177847508": {
+   "fragment_id": "141358092",
+   "type": 11,
+   "heading": "Artigo 3.º — Para a prossecução dos objectivos e atribuições a que refere o artigo 1.º, compete ao MAR:",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 3.º — Para a prossecução dos objectivos e atribuições a que refere o artigo 1.º, compete ao MAR:\n\nPara a prossecução dos objectivos e atribuições a que refere o artigo 1.º, compete ao MAR:\n\n1 - Para a prossecução dos objectivos e atribuições a que refere o artigo 1.º, compete ao MAR:\n\na) Efectuar o registo de navios de comércio, incluindo os contratos de construção, e das embarcações de recreio;\n\nb) Fiscalizar as condições técnicas dos navios, de acordo com as convenções internacionais vigentes na ordem jurídica portuguesa ou a legislação nacional aplicável aos navios não abrangidos por aquelas;\n\nc) Efectuar inspecções aos navios;\n\nd) Proceder à identificação radioelétrica aos navios;\n\ne) Proceder à atribuição e reserva dos nomes e números de registo dos navios;\n\nf) Emitir os certificados aos navios, incluindo, conforme aplicável, os certificados de responsabilidade civil requeridos pela regulamentação internacional, os Registos Sinóticos Contínuos e as licenças radioelétricas;\n\ng) Emitir, validar e controlar os papéis de bordo;\n\nh) Comunicar, delegar e articular com as organizações reconhecidas que tenham estabelecido com acordos formais de delegação de funções estatutárias com a DGRM intervenções a bordo das embarcações, nomeadamente no que respeita a vistorias e certificação de embarcações não abrangidas pela regulamentação internacional obrigatória;\n\ni) Fixar as lotações mínimas dos navios e emitir os respectivos certificados;\n\nj) Fazer a matrícula das tripulações;\n\nl) Reconhecer os certificados técnicos emitidos por administrações marítimas estrangeiras referentes à actividade das marinhas de comércio e de recreio;\n\nm) Efectuar a inscrição dos factos jurídicos a ele sujeitos e referentes aos navios registados;\n\nn) Realizar os demais actos inerentes às obrigações do registo.\n\n2 - Sempre que os navios registados no MAR sejam utilizados na cabotagem nacional, compete à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM):\n\na) Realizar as inspecções no início da utilização dos navios na cabotagem nacional tendo em vista a verificação dos requisitos necessários à manutenção da certificação, nos termos das convenções internacionais aplicáveis;\n\nb) Promover as acções de fiscalização relativas aos requisitos de segurança dos navios no que respeita às responsabilidades do Estado de bandeira, nos termos da lei e das convenções internacionais aplicáveis, sempre que se entenda adequado e durante o período de operação naquele tráfego;\n\nc) Exercer as competências referidas nas alíneas i) e l) do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177847509": {
+   "fragment_id": "141358093",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O MAR tem uma comissão técnica constituída da seguinte forma:\n\na) Um representante do membro do Governo responsável pela área da segurança marítima, o qual preside;\n\nb) Um representante da Região Antónoma da Madeira;\n\nc) Um representante da Inspecção-Geral de Navios.\n\n2 - Compete à comissão técnica pronunciar-se sobre os actos relativos ao registo dos navios e exercer as demais competências previstas no artigo anterior.\n\n3 - A comissão técnica integra, para todos os efeitos legais, a administração marítima nacional, devendo cooperar e estabelecer parcerias com a DGRM para o desenvolvimento do MAR e o cumprimento dos adequados padrões de qualidade e de segurança marítima.\n\n4 - O capitão do porto assessorará a comissão sempre que esta o solicite.\n\n5 - A DGRM poderá ser assistida por um grupo técnico, constituído por especialistas indicados por esta direção-geral em articulação com a comissão técnica, para a realização das seguintes tarefas e de acordo com os seguintes requisitos:\n\na) Apoio na comunicação com as organizações reconhecidas no que respeita aos atos e operações realizados por estas em nome do Estado Português, tal como definidos no n.º 3 do artigo 1.º e no artigo 2.º, nos termos do acordo previsto no n.º 1 do artigo 8.º, do Decreto-Lei n.º 13/2012, de 20 de janeiro, conforme alterado;\n\nb) Assistir em quaisquer tarefas necessárias ao cumprimento das atribuições cometidas por lei à DGRM, em especial as referidas nas alíneas h) a n) do n.º 2 do artigo 2.º do Decreto-Lei n.º 49-A/2012, de 29 de fevereiro;\n\nc) O grupo técnico deverá ficar sediado em Lisboa;\n\nd) A comunicação com as organizações reconhecidas e restantes partes envolvidas será realizada através do Balcão Eletrónico do Mar do Sistema Nacional de Embarcações e Marítimos, criado pelo Decreto-Lei n.º 43/2018, de 18 de junho;\n\ne) A coordenação do grupo técnico será assegurada pelo representante da DGRM na comissão técnica e nos termos a definir por protocolo a celebrar entre as duas partes.\n\n6 - O apoio funcional à comissão e o suporte de todas as despesas por esta realizadas serão assegurados pela Região Autónoma da Madeira.\n\n7 - A comissão técnica articula com a Direcção-Geral de Portos, Navegação e Transportes Marítimos as modalidades de aplicação de normas e procedimentos necessários ao exercício das suas funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177847510": {
+   "fragment_id": "141358105",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a [Decreto-Lei n.º 5/97 - Diário da República n.º 7/1997, Série I-A de 1997-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1997-302094), em vigor a partir de 1997-01-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 14.º\n\n1 - A venda de navios pode ser feita por declaração de venda (bill of sale), com reconhecimento da assinatura do vendedor, com menção à qualidade e poderes para o ato, quando aplicável.\n\n2 - A constituição, a modificação ou a extinção da hipoteca ou de direito a ela equivalente devem constar de documento assinado pelo titular do navio, com reconhecimento da assinatura, com menção à qualidade e poderes para o ato, quando aplicável.\n\n3 - A redução voluntária de hipoteca ou extinção por renúncia do credor deve constar de declaração expressa do credor hipotecário, com reconhecimento da assinatura, com menção à qualidade e poderes para o ato, quando aplicável.\n\n4 - As partes podem designar a lei aplicável à hipoteca ou direito equivalente, sem prejuízo da aplicação das normas constantes das convenções internacionais que vinculam internacionalmente o Estado Português.\n\n5 - No caso previsto no número anterior, com o pedido de registo é junta cópia dessa legislação, assinada pelas partes, depois de traduzida, exceto quando o conservador dispense, total ou parcialmente, a tradução ou determine que esta seja feita por perito por ele escolhido.\n\n6 - A escolha das partes deve ser inscrita em conjunto com o próprio registo da hipoteca.\n\n7 - Na falta de estipulação das partes ou na ausência de inscrição da mesma, a hipoteca ou direito equivalente rege-se pela lei portuguesa.\n\n8 - Nos casos previstos no número anterior, o adquirente dos bens hipotecados só pode exercer o direito à expurgação, previsto no artigo 721.º do Código Civil português, desde que o exercício desse direito garanta ao credor hipotecário o pagamento integral de todos os direitos e encargos decorrentes do contrato de hipoteca, não sendo aplicável o disposto na alínea b) do mencionado artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a [Decreto-Lei n.º 5/97 - Diário da República n.º 7/1997, Série I-A de 1997-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1997-302094), em vigor a partir de 1997-01-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177847196": {
+   "fragment_id": "177791855",
+   "type": 11,
+   "heading": "Artigo 14.º-A",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-A\n\n1 - O registo de navios é submetido a tratamento informático.\n\n2 - Os requerimentos e documentos que servem de base principal a atos de registo devem ser arquivados em suporte eletrónico, assim que as condições técnicas o permitirem, nos termos a determinar por despacho do presidente do conselho diretivo do IRN, I. P.\n\n3 - Os requerimentos e documentos a arquivar em suporte eletrónico nos termos do número anterior têm a força probatória dos originais.\n\n4 - Quando ocorra o arquivo eletrónico referido no n.º 2, os documentos que serviram de base ao registo são devolvidos aos interessados.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847202": {
+   "fragment_id": "177791856",
+   "type": 11,
+   "heading": "Artigo 14.º-B",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-B\n\n1 - O pedido de registo pode ser apresentado presencialmente, por via eletrónica ou por correio.\n\n2 - A apresentação de pedido de registo por via eletrónica é regulamentada por portaria do membro do Governo responsável pela área da justiça.\n\n3 - Os documentos apresentados presencialmente são anotados pela ordem de entrega dos pedidos.\n\n4 - Os documentos apresentados pelo correio são anotados com a observação de 'correspondência', no dia da receção e imediatamente após a última apresentação presencial.\n\n5 - Em casos devidamente justificados, os interessados no registo podem solicitar a confirmação e realização de registos, sem subordinação à ordem de anotação no diário, e fora do horário de funcionamento da Conservatória, e aos sábados, domingos e feriados, desde que expressamente indiquem essa necessidade com, pelo menos, 48 horas de antecedência da apresentação do respetivo pedido de registo.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847208": {
+   "fragment_id": "177791857",
+   "type": 11,
+   "heading": "Artigo 14.º-C",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-C\n\n1 - Só podem ser registados os factos constantes de documentos que legalmente os comprovem.\n\n2 - Os documentos escritos em língua estrangeira só podem ser aceites quando traduzidos nos termos da lei ou quando redigidos em formato bilingue, desde que uma das línguas adotadas seja a língua portuguesa, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.\n\n3 - Pode ser aceite tradução parcial, emitida nos termos da lei, desde que esta contenha a declaração de que a parte não traduzida não releva para efeitos do registo nem contraria a parte traduzida.\n\n4 - Sem prejuízo da apresentação de outros documentos, em caso de impossibilidade de apresentação de cópia do certificado de cancelamento de registo anterior de navio, a Conservatória procede ao registo definitivo com base em declaração escrita emitida pela autoridade de registo cessante, atestando o cancelamento do registo anterior, bem como o nome do último titular inscrito e a inexistência de ónus registados sobre o navio.\n\n5 - O documento referido no número anterior pode ser remetido à Conservatória, pela entidade de registo cessante, através de qualquer meio previsto na lei que permita salvaguardar o princípio da prioridade do registo, nomeadamente através de correio eletrónico.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847214": {
+   "fragment_id": "177791858",
+   "type": 11,
+   "heading": "Artigo 14.º-D",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-D\n\n1 - Os originais ou cópias certificadas dos documentos que titulem os factos sujeitos a registo podem ser entregues em qualquer posto ou secção consular de Portugal no estrangeiro, incluindo os consulados honorários, ficando estes encarregues de os remeter à Conservatória competente dentro do prazo de 15 dias.\n\n2 - No caso previsto no número anterior, deve o posto ou secção consular de Portugal no estrangeiro, ou consulado honorário quando aplicável, notificar a Conservatória competente, até ao momento da apresentação a registo, que está na posse dos originais ou cópias certificadas dos documentos que titulam os factos sujeitos a registo, identificando-os nomeadamente quanto à entidade emitente e respetiva data de emissão.\n\n3 - A notificação a que se refere o número anterior poderá ser efetuada através de qualquer meio previsto na lei que permita salvaguardar o princípio da prioridade do registo, nomeadamente através de correio eletrónico.\n\n4 - A entrega dos originais ou cópias certificadas dos documentos nos termos do presente artigo não prejudica a inscrição do respetivo pedido de registo como definitivo quando tal resulte da decisão de qualificação do mesmo.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847220": {
+   "fragment_id": "177791859",
+   "type": 11,
+   "heading": "Artigo 14.º-E",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-E\n\n1 - Os registos são efetuados no prazo de um dia útil e pela ordem de anotação.\n\n2 - Sem prejuízo do disposto no número anterior, nos casos previstos no n.º 5 do artigo 14.º-B, os registos são confirmados e efetuados, sem subordinação à ordem de anotação no diário, mas sem prejuízo da dependência dos atos relativamente a cada navio, no prazo máximo de uma hora a contar do momento em que são apresentados.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847226": {
+   "fragment_id": "177791860",
+   "type": 11,
+   "heading": "Artigo 14.º-F",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-F\n\n1 - O registo prova-se por meio de certidão, cuja validade é de seis meses, podendo ser revalidada por períodos de igual duração se a sua informação se mantiver atual.\n\n2 - As certidões podem ser disponibilizadas em suporte eletrónico, em termos a definir pela portaria referida no n.º 2 do artigo 14.º-B.\n\n3 - As certidões disponibilizadas nos termos do número anterior fazem prova para todos os efeitos legais e perante qualquer autoridade pública ou entidade privada, nos mesmos termos da correspondente versão em suporte de papel.\n\n4 - Sem prejuízo do referido no n.º 2, por cada processo de registo é disponibilizada, gratuitamente, uma certidão eletrónica pelo período de três meses.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847232": {
+   "fragment_id": "177791861",
+   "type": 11,
+   "heading": "Artigo 14.º-G",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-G\n\n1 - A Conservatória e os interessados estão sujeitos a um dever de colaboração recíproco.\n\n2 - A Conservatória presta a necessária assessoria aos interessados, designadamente na apreciação e análise dos documentos indispensáveis à instrução dos atos de registo.\n\n3 - A colaboração dos interessados com a Conservatória compreende, designadamente, a apresentação de documentos adicionais que esta, no âmbito da apreciação referida no número anterior, lhes solicitar.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847238": {
+   "fragment_id": "177791862",
+   "type": 11,
+   "heading": "Artigo 14.º-H",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-H\n\nSão aplicáveis ao registo comercial de navios, com as necessárias adaptações e na medida indispensável ao preenchimento das lacunas da regulamentação própria, as disposições relativas ao registo predial que não sejam contrárias aos princípios informadores do presente diploma.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847244": {
+   "fragment_id": "177791863",
+   "type": 11,
+   "heading": "Artigo 14.º-I",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-I\n\n1 - O contrato de hipoteca pode, em caso de incumprimento, conferir ao credor hipotecário o direito de disposição sobre o navio, desde que sobre ele não incida hipoteca de grau superior, salvo se os respetivos titulares manifestarem, por escrito, o seu assentimento.\n\n2 - O direito de disposição confere ao credor hipotecário os poderes de apreender, fazer navegar e alienar o navio, nos termos previstos no contrato, como se fosse seu proprietário.\n\n3 - Exercido o direito de disposição, o credor é obrigado:\n\na) A administrar o navio e a sua carga como um proprietário diligente, respondendo pela sua existência e conservação;\n\nb) A prestar contas da sua administração ao proprietário do navio no prazo convencionado;\n\nc) A promover a alienação do navio segundo as regras da boa-fé;\n\nd) A restituir o navio, extinta a obrigação garantida pela hipoteca, caso essa extinção ocorra antes da alienação do navio.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847250": {
+   "fragment_id": "177791864",
+   "type": 11,
+   "heading": "Artigo 14.º-J",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-J\n\n1 - O credor hipotecário notifica o devedor da intenção de proceder à alienação do navio com, pelo menos, 30 dias de antecedência.\n\n2 - A transmissão do direito de propriedade só pode ter lugar, uma vez avaliado o navio, após o vencimento da obrigação, segundo o modo e os critérios estabelecidos no contrato de hipoteca ou, na sua falta, segundo os que sejam definidos por um terceiro independente de acordo com critérios comerciais razoáveis.\n\n3 - A satisfação dos direitos de crédito sobre o navio é realizada de acordo com as normas aplicáveis ao concurso de créditos, sendo os credores hipotecários pagos dos seus créditos pela ordem da prioridade do registo comercial.\n\n4 - Transmitido o direito de propriedade sobre o navio, o credor hipotecário fica obrigado a restituir ao proprietário do navio o montante correspondente à diferença entre o valor apurado nos termos do n.º 2 e o montante da obrigação garantida, depois de satisfeitos os créditos dos credores reclamantes de créditos privilegiados ou com garantia sobre o navio.\n\n5 - A pedido do proprietário do navio ou de qualquer credor, o credor hipotecário deve prestar contas dos pagamentos realizados ao abrigo do número anterior.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847256": {
+   "fragment_id": "177791865",
+   "type": 11,
+   "heading": "Artigo 14.º-K",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-K\n\n1 - É lícito às partes convencionarem que a alienação ou oneração do navio hipotecado depende de prévio consentimento do credor hipotecário.\n\n2 - O credor hipotecário a quem seja solicitado consentimento nos termos do número anterior tem o ónus de responder ao devedor hipotecário dentro do prazo máximo convencionado, findo o qual o consentimento se considera prestado.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847262": {
+   "fragment_id": "177791866",
+   "type": 11,
+   "heading": "Artigo 14.º-L",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-L\n\nNa hipoteca constituída e regida pela lei portuguesa, pode o credor hipotecário usufruir dos restantes meios de garantia e de tutela aí previstos.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847268": {
+   "fragment_id": "177791867",
+   "type": 11,
+   "heading": "Artigo 14.º-M",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-M\n\n1 - A hipoteca assegura os acessórios do crédito que constem do registo, nomeadamente juros moratórios e remuneratórios, as despesas de constituição e do registo da hipoteca e a cláusula penal contratualmente acordada.\n\n2 - Tratando-se de juros, a hipoteca abrange os relativos ao período da obrigação garantida pela hipoteca.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847274": {
+   "fragment_id": "177791868",
+   "type": 11,
+   "heading": "Artigo 14.º-N",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 14.º-N\n\nO regime previsto nos artigos 14.º-I a 14.º-K não é aplicável às embarcações de recreio registadas ou a registar no MAR, tal como definidas no artigo 2.º, alínea a), do regulamento aplicável às embarcações de recreio registadas ou a registar no Registo Internacional de Navios da Madeira, aprovado em anexo ao Decreto-Lei n.º 192/2003, de 22 de agosto.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847511": {
+   "fragment_id": "141358106",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/97 - Diário da República n.º 23/1997, Série I-A de 1997-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1997-571198), em vigor a partir de 1997-02-02, produz efeitos a partir de 1997-01-01"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - São objecto de registo no MAR os navios de que sejam proprietários:\n\na) Entidades licenciadas, a que se refere o artigo 8.º;\n\nb) Entidades não inseridas no âmbito institucional da zona franca da Madeira.\n\n2 - Serão igualmente registáveis no MAR, a título temporário, os navios tomados de fretamento em casco nu pelas entidades referidas no número anterior, desde que devidamente autorizados pelos seus proprietários, pela autoridade competente do país no qual se encontra feito o registo de propriedade e pelo(s) credor(es) hipotecário(s), caso exista(m).\n\n3 - Os navios registados no MAR têm acesso ao transporte de passageiros ou de mercadorias entre os portos do continente (cabotagem continental) e entre os portos do continente e os das Regiões Autónomas dos Açores e da Madeira, entre os portos destas e entre os portos de cada uma daquelas Regiões (cabotagem insular), nos termos da legislação aplicável à cabotagem nacional, desde que os seus proprietários ou afretadores em casco nu sejam:\n\na) Nacionais de um Estado membro da União Europeia que estejam estabelecidos num Estado membro ao abrigo da legislação desse Estado e que se dediquem a actividades de navegação;\n\nb) Pessoas colectivas que se dediquem a actividades de navegação estabelecidas de acordo com a legislação de um Estado membro e cuja sede principal esteja situada num Estado membro, sendo neste Estado exercido o seu controlo efectivo;\n\nc) Nacionais de um Estado membro estabelecidos fora da Comunidade ou pessoas colectivas estabelecidas fora da comunidade e controladas por nacionais de um Estado membro, desde que os seus navios se encontrem registados num Estado membro e arvorem o respectivo pavilhão, de acordo com a sua legislação.\n\n4 - A Comissão Técnica do MAR deve manter o IMT, I. P., informado dos navios registados no MAR que satisfaçam as condições fixadas para a sua utilização na cabotagem nacional, bem como o início e termo da sua utilização neste tráfego.\n\n5 - Com exceção das embarcações de recreio, os navios registados no MAR só podem operar na área de navegação do tráfego local com autorização da IMT, I. P..\n\n6 - Os navios registados no MAR não poderão beneficiar de quaisquer apoios, os quais são exclusivamente reservados à restante frota sob bandeira nacional.\n\n7 - Os navios de bandeira portuguesa que tenham recebido incentivos ao investimento não poderão transferir o seu registo para o MAR antes de satisfazerem os compromissos assumidos perante o Estado português.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/97 - Diário da República n.º 23/1997, Série I-A de 1997-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1997-571198), em vigor a partir de 1997-02-02, produz efeitos a partir de 1997-01-01"
+  },
+  "177847480": {
+   "fragment_id": "177791869",
+   "type": 11,
+   "heading": "Artigo 15.º-A",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 15.º-A\n\n1 - Os navios referidos no artigo anterior podem ser registados a título provisório no MAR, com base em cópias dos documentos relevantes para registo.\n\n2 - Após a data do registo provisório, o requerente dispõe de um prazo de 90 dias para entregar os documentos originais ao MAR junto com o requerimento para o registo definitivo do navio, findo o qual o registo caduca.\n\n3 - O requerente pode solicitar a prorrogação do prazo referido no número anterior por um período de 60 dias, oferecendo ao MAR prova de justo impedimento da entrega tempestiva dos documentos em falta.\n\n4 - Oficiosamente, a comissão técnica do MAR pode prorrogar o prazo do registo provisório referido no n.º 2 por um período máximo de 60 dias, quando tal se justifique.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847485": {
+   "fragment_id": "177791870",
+   "type": 11,
+   "heading": "Artigo 15.º-B",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 15.º-B\n\nO registo temporário a que se refere o artigo 15.º, n.º 2, não confere a nacionalidade portuguesa ao navio, mas confere o direito ao uso da bandeira portuguesa, ficando este sujeito aos requisitos técnicos exigidos aos navios nacionais.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847490": {
+   "fragment_id": "177791871",
+   "type": 11,
+   "heading": "Artigo 15.º-C",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 15.º-C\n\n1 - Efetuado o registo temporário do navio, a Comissão Técnica do MAR emitirá o correspondente certificado, que será de modelo a aprovar em portaria do Ministro do Mar.\n\n2 - Do certificado de registo temporário do navio deve constar, pelo menos:\n\na) Os elementos de identificação do navio;\n\nb) Os elementos de identificação do proprietário e do afretador a casco nu;\n\nc) O local do registo da propriedade do navio no estrangeiro;\n\nd) O prazo de validade do registo temporário concedido pela autoridade competente do local do registo da propriedade;\n\ne) Declaração expressa de que as questões relacionadas com direitos reais sobre o navio são reguladas pela lei da nacionalidade do navio e são apenas registadas e publicadas pela autoridade competente do país no qual se encontra feito o registo de propriedade, nomeadamente no que se refere a informação atualizada quanto a ónus e encargos que impendam sobre este; e\n\nf) A data de validade do certificado, a qual deverá coincidir com o prazo a que se refere a alínea d).\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847495": {
+   "fragment_id": "177791872",
+   "type": 11,
+   "heading": "Artigo 15.º-D",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 15.º-D\n\n1 - Os registos temporários efetuados ao abrigo do artigo 15.º, n.º 2, são cancelados quando:\n\na) Caducar a validade do certificado de registo temporário, a menos que este tenha sido prorrogado, nos termos do n.º 2;\n\nb) Ocorrer resolução ou extinção do contrato de fretamento;\n\nc) Ocorrer revogação da autorização do(s) credor(es) hipotecário(s) a que se refere o artigo 15.º, n.º 2, com fundamento em incumprimento das obrigações garantidas pelas hipotecas;\n\nd) For solicitado pela autoridade competente do país no qual se encontra feito o registo de propriedade.\n\n2 - Os certificados de registo temporário podem ser prorrogados mediante a apresentação no MAR das autorizações a que se refere artigo 15.º, n.º 2.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847500": {
+   "fragment_id": "177791873",
+   "type": 11,
+   "heading": "Artigo 15.º-E",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 15.º-E\n\nSão aplicáveis ao registo temporário, com as necessárias adaptações e na medida indispensável ao preenchimento das lacunas da regulamentação própria, as disposições do Decreto-Lei n.º 287/83, de 22 de junho, na sua redação atual, que não sejam contrárias aos princípios informadores do presente diploma.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847512": {
+   "fragment_id": "141358107",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14"
+   ],
+   "markdown": "###### Artigo 16.º\n\nOs navios referidos no artigo 15.º bem como os factos referentes às hipotecas com eles relacionados podem ser provisoriamente registados nos consulados de Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14"
+  },
+  "177847502": {
+   "fragment_id": "141358108",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 17.º\n\n1 - As entidades off-shore requerentes do registo farão prova dos requisitos a seguir indicados:\n\na) Licenciamento na Região Autónoma da Madeira, nos termos do presente diploma e demais legislação aplicável;\n\nb) Título de aquisição do navio;\n\nc) Liquidação das taxas a que se refere o n.º 2 do artigo 8.º\n\n2 - As demais entidades referidas no artigo 8.º farão prova do seguinte:\n\na) Indicação da firma ou denominação social, domicílio ou sede do requerente, com junção do respectivo contrato de sociedade, em caso de se tratar de pessoa colectiva;\n\nb) Identificação completa, em caso de se tratar de pessoa singular;\n\nc) Título de aquisição do navio.\n\n3 - Nos casos em que se situe fora da Região Autónoma da Madeira o domicílio ou sede das entidades referidas no número anterior que tenham por objecto a indústria de transporte marítimo deverão ser cumpridos os requisitos a que aludem os n.os 2 e 3 do artigo 11.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  },
+  "177847503": {
+   "fragment_id": "141358109",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO MAR poderá autorizar o registo temporário no estrangeiro de navios afretados em casco nu."
+  },
+  "177847504": {
+   "fragment_id": "141358110",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA emissão dos certificados dos navios registados no MAR fica subordinada aos padrões estabelecidos pelas convenções internacionais em vigor na ordem jurídica portuguesa."
+  },
+  "177847505": {
+   "fragment_id": "177791874",
+   "type": 11,
+   "heading": "Artigo 23.º-A",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 23.º-A\n\nA comprovação da compensação das agulhas magnéticas nos navios registados no MAR é feita através da existência a bordo de tabelas atualizadas de desvios residuais e informação sobre os compensadores aplicados.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847506": {
+   "fragment_id": "177847575",
+   "type": 11,
+   "heading": "Artigo 23.º-B",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 23.º-B\n\n1 - Os navios registados no MAR devem possuir e manter os livros e diários de bordo requeridos pela legislação nacional e internacional aplicável estando, contudo, dispensados da utilização obrigatória dos modelos de livros e diários de bordo estabelecidos pela legislação nacional, podendo utilizar outros modelos de livros e diários de bordo, desde que incluam todos os elementos relevantes para o seu propósito e cumpram com os requisitos internacionais aplicáveis.\n\n2 - Os livros e diários de bordo podem também tomar a forma de registos informáticos, desde que os respetivos sistemas tenham sido aprovados de acordo com os requisitos internacionais aplicáveis e tenham em consideração as recomendações e linhas de orientação relevantes, nomeadamente no que respeita à integridade e disponibilidade dos registos.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847507": {
+   "fragment_id": "177847576",
+   "type": 11,
+   "heading": "Artigo 23.º-C",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 23.º-C\n\n1 - Os factos e ocorrências de natureza civil devem ser registados em livro próprio ou em papel avulso, em duplicado, e observar o disposto nos artigos 109.º e seguintes do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de junho.\n\n2 - Estão sujeitos a registo os seguintes factos e ocorrências de natureza civil, sem prejuízo de outros que a lei determine ou que, pela sua relevância, o comandante ache de registar:\n\na) Nascimentos ocorridos a bordo, nos termos dos artigos 109.º e seguintes do Código do Registo Civil;\n\nb) Declaração de maternidade a bordo, nos termos do artigo 128.º, n.º 1, do Código do Registo Civil;\n\nc) Óbitos ocorridos a bordo, nos termos do artigo 204.º do Código do Registo Civil;\n\nd) Testamentos feitos a bordo de navio, nos termos do artigo 2214.º e seguintes do Código Civil.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01"
+  },
+  "177847513": {
+   "fragment_id": "141358093",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2022-01-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2022 - Diário da República n.º 12/2022, Série I de 2022-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2022-177796599), em vigor a partir de 2022-01-19",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O MAR tem uma comissão técnica constituída da seguinte forma:\n\na) Um representante do membro do Governo responsável pela área da segurança marítima, o qual preside;\n\nb) Um representante da Região Antónoma da Madeira;\n\nc) Um representante da Inspecção-Geral de Navios.\n\n2 - Compete à comissão técnica pronunciar-se sobre os actos relativos ao registo dos navios e exercer as demais competências previstas no artigo anterior.\n\n3 - A comissão técnica integra, para todos os efeitos legais, a administração marítima nacional, devendo cooperar e estabelecer parcerias com a DGRM para o desenvolvimento do MAR e o cumprimento dos adequados padrões de qualidade e de segurança marítima.\n\n4 - O capitão do porto assessorará a comissão sempre que esta o solicite.\n\n5 - Para assegurar os padrões de qualidade e segurança marítima a que se refere o n.º 3, bem como o exercício das atribuições e competências previstas no presente decreto-lei, pode ser criado um grupo técnico composto por um mínimo de dois e um máximo de cinco especialistas, consoante as necessidades técnicas requeridas, designados por despacho do membro do Governo Regional da Madeira responsável pelos encargos com o apoio funcional à comissão técnica, sob proposta conjunta da comissão técnica e da DGRM.\n\n6 - Os especialistas a que se refere o número anterior são designados em regime de comissão de serviço pelo período de um ano renovável e são escolhidos de entre licenciados, preferencialmente com vínculo à Administração Pública, que possuam competência técnica, aptidão, experiência profissional e formação adequadas.\n\n7 - Os especialistas a que se refere o n.º 5 são remunerados pelo nível 50 da tabela remuneratória única.\n\n8 - Os termos, condições e modo de funcionamento do grupo técnico são definidos por protocolo a celebrar entre a Região Autónoma da Madeira, a DGRM e a comissão técnica, sem prejuízo do seguinte:\n\na) Compete aos especialistas assegurar as seguintes tarefas:\n\ni) Apoio na comunicação com as organizações reconhecidas no que respeita aos atos e operações realizados por estas em nome do Estado Português, tal como definidos no n.º 3 do artigo 1.º e no artigo 2.º, nos termos do acordo previsto no n.º 1 do artigo 8.º, do Decreto-Lei n.º 13/2012, de 20 de janeiro, conforme alterado;\n\nii) Assistir em quaisquer tarefas necessárias ao cumprimento das atribuições cometidas por lei à DGRM, em especial as referidas nas alíneas h) a n) do n.º 2 do artigo 2.º do Decreto-Lei n.º 49-A/2012, de 29 de fevereiro;\n\nb) A comunicação com as organizações reconhecidas e restantes partes envolvidas será realizada através do Balcão Eletrónico do Mar do Sistema Nacional de Embarcações e Marítimos, criado pelo Decreto-Lei n.º 43/2018, de 18 de junho;\n\nc) Para efeitos de residência profissional dos especialistas é fixada a cidade de Lisboa;\n\nd) A coordenação do grupo técnico será assegurada pelo representante da DGRM na comissão técnica e nos termos a definir por protocolo a celebrar entre as duas partes.\n\ne) Em situações devidamente justificadas, sob proposta da DGRM em articulação com a comissão técnica, o número de especialistas que compõem o grupo técnico pode ser aumentado, aplicando-se o disposto nos n.os 5 a 7.\n\n9 - O apoio funcional à comissão técnica e ao grupo técnico, assim como o suporte de todas as despesas por estes realizadas, são assegurados pela Região Autónoma da Madeira.\n\n10 - A comissão técnica articula com a Direcção-Geral de Portos, Navegação e Transportes Marítimos as modalidades de aplicação de normas e procedimentos necessários ao exercício das suas funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2022 - Diário da República n.º 12/2022, Série I de 2022-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2022-177796599), em vigor a partir de 2022-01-19\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28"
+  }
+ }
+}

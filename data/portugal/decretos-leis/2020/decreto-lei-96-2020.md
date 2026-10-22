@@ -1,0 +1,209 @@
+---
+schema_version: '1.0'
+id: pt:dre:147533138:por
+title: Decreto-Lei n.º 96/2020
+short_title: null
+summary: Prevê a dispensa de cobrança de taxas moderadoras nas consultas e em todos os exames complementares de diagnóstico
+  e terapêutica prescritos no âmbito da rede de prestação de cuidados de saúde primários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Saúde
+official_number: 96/2020
+official_date: null
+publication_date: '2020-11-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 215/2020, Série I de 2020-11-04
+  number: '215'
+  series: I
+  supplement: null
+  pages: 11 - 12
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/11/21500/0001100012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/96/2020/11/04/p/dre/pt/html
+  oj: null
+  dre: '147533138'
+  dre_path: /dr/detalhe/decreto-lei/96-2020-147533138
+  internal: pt:dre:147533138:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2020-147533138
+  metadata_url: https://data.dre.pt/eli/dec-lei/96/2020/11/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2020-147533138
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2020-11-04T00:00:00Z'
+integrity:
+  source_sha256: beb1e906333562261827f2c2ea6a84673e1326ae85bd952ff443c5a8bc86485e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2020/DRE-2020-96-147533138.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Análises Clínicas
+- Assistência Médica
+- Consulta Médica
+- Serviço Nacional de Saúde
+- Meios Complementares de Diagnóstico
+- Cuidados Médicos
+- TAXA Moderadora
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/113/2011/11/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/113/2011/11/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/117/2014/08/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/117/2014/08/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/128/2012/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/128/2012/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/61/2015/04/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/61/2015/04/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/134/2015/09/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/134/2015/09/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/51/2013/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/51/2013/07/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/84/2019/09/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/84/2019/09/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 96/2020
+
+de 4 de novembro
+
+A nova Lei de Bases da Saúde, aprovada pela [Lei n.º 95/2019](https://diariodarepublica.pt/web/guest/pesquisa/-/search/124417108/details/normal?l=1), de 4 de setembro, estabeleceu no n.º 2 da Base 24 que «Com o objetivo de promover a correta orientação dos utentes, deve ser dispensada a cobrança de taxas moderadoras nos cuidados de saúde primários e, se a origem da referenciação for o SNS, nas demais prestações de saúde, nos termos a definir por lei».
+
+De igual modo, a [Lei n.º 84/2019](https://diariodarepublica.pt/web/guest/pesquisa/-/search/124392056/details/normal?l=1), de 3 de setembro, entrou em vigor com o Orçamento do Estado para o ano de 2020, aprovado pela [Lei n.º 2/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130893436/details/normal?l=1), de 31 de março, que introduziu uma alteração ao [Decreto-Lei n.º 113/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/146061/details/normal?l=1), de 29 de novembro, que regula o acesso às prestações do Serviço Nacional de Saúde (SNS) por parte dos utentes no que respeita ao regime das taxas moderadoras e à aplicação de regimes especiais de benefícios, aditando-lhe o artigo 7.º-A, o qual estabeleceu a dispensa da cobrança de taxas moderadoras nos cuidados de saúde primários e, nas demais prestações de saúde sempre que a origem da referenciação seja o SNS, nos termos que vierem a ser definidos nos diplomas de execução orçamental.
+
+Ora, nesta mesma linha, e com o objetivo expresso de alcançar um SNS cada vez mais justo e inclusivo, que responda melhor às necessidades da população e garanta a cobertura universal em saúde, o XXII Governo Constitucional previu no seu Programa a importância da redução de custos que os cidadãos suportam na saúde, designadamente através da eliminação faseada do pagamento de taxas moderadoras nos cuidados de saúde primários e em todas as prestações de cuidados, cuja origem seja uma referenciação do SNS.
+
+Neste contexto, a [Lei n.º 2/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130893436/details/normal?l=1), de 31 de março, definiu, no artigo 273.º, o faseamento de parte do processo de dispensa da cobrança de taxas moderadoras, prevendo a sua concretização em três momentos distintos: (i) com a entrada em vigor da mesma Lei, a dispensa nas consultas no âmbito dos cuidados de saúde primários; (ii) a partir de 1 de setembro de 2020, a dispensa nos exames complementares de diagnóstico e terapêutica prescritos no âmbito dos cuidados de saúde primários e realizados nas instituições e serviços públicos de saúde, e (iii) a partir de 1 de janeiro de 2021, a dispensa em todos os exames complementares de diagnóstico e terapêutica, prescritos no âmbito dos cuidados de saúde primários.
+
+Deste modo, importa atualizar, em conformidade com este faseamento, o regime do [Decreto-Lei n.º 113/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/146061/details/normal?l=1), de 29 de novembro, na sua redação atual, prevendo, entre o elenco dos casos de dispensa de cobrança de taxas moderadoras, as consultas e os exames complementares de diagnóstico e terapêutica, prescritos no âmbito da rede de prestação de cuidados de saúde primários, sem prejuízo da futura conclusão do processo de dispensa previsto no seu artigo 7.º-A, no que se refere às demais prestações de saúde, a definir posteriormente.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 95/2019](https://diariodarepublica.pt/web/guest/pesquisa/-/search/124417108/details/normal?l=1), de 4 de setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à décima segunda alteração ao [Decreto-Lei n.º 113/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/146061/details/normal?l=1), de 29 de novembro, alterado pelo [Decreto-Lei n.º 128/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/178848/details/normal?l=1), de 21 de junho, pelas Leis n.os [66-B/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/632448/details/normal?l=1), de 31 de dezembro, e [51/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/498764/details/normal?l=1), de 24 de julho, pelos [Decretos-Leis n.os 117/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/55076560/details/normal?l=1), de 5 de agosto, e [61/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67051306/details/normal?l=1), de 22 de abril, pelas Leis n.os [134/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/70196961/details/normal?l=1), de 7 de setembro, [3/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73740376/details/normal?l=1), de 29 de fevereiro, [7-A/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73958532/details/normal?l=1), de 30 de março, e [42/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/105637672/details/normal?l=1), de 28 de dezembro, pelo [Decreto-Lei n.º 131/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/108280429/details/normal?l=1), de 10 de outubro, e pela [Lei n.º 84/2019](https://diariodarepublica.pt/web/guest/pesquisa/-/search/124392056/details/normal?l=1), de 3 de setembro, que regula o acesso às prestações do Serviço Nacional de Saúde por parte dos utentes, no que respeita ao regime de taxas moderadoras e à aplicação dos regimes especiais de benefícios.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 113/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/146061/details/normal?l=1), de 29 de novembro
+
+O artigo 8.º do [Decreto-Lei n.º 113/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/146061/details/normal?l=1), de 29 de novembro, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 8.º
+
+[...]
+
+[...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) [...];
+
+f) [...];
+
+g) [...];
+
+h) [...];
+
+i) [...];
+
+j) [...];
+
+k) [...];
+
+l) [...];
+
+m) [...];
+
+n) Consultas e todos os exames complementares de diagnóstico e terapêutica prescritos no âmbito da rede de prestação de cuidados de saúde primários.
+
+o) [...].»
+
+###### Artigo 3.º — Entrada em vigor e produção de efeitos
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - A dispensa do pagamento de taxas moderadoras nos exames complementares de diagnóstico e terapêutica, prescritos no âmbito dos cuidados de saúde primários e realizados fora das instituições e serviços públicos de saúde, produz efeitos apenas no dia 1 de janeiro de 2021, conforme disposto no artigo 273.º da [Lei n.º 2/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130893436/details/normal?l=1), de 31 de março.
+
+Visto e aprovado em Conselho de Ministros de 22 de outubro de 2020. - António Luís Santos da Costa - António Mendonça Mendes - Marta Alexandra Fartura Braga Temido de Almeida Simões.
+
+**Promulgado em 28 de outubro de 2020.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 30 de outubro de 2020.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

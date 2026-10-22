@@ -1,0 +1,442 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:275871:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-165207444",
+ "dre_path": "/dr/detalhe/decreto-lei/75-2000-275871",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165200805",
+    "165200806",
+    "165200807",
+    "165200808",
+    "165200809",
+    "165200810",
+    "165200811",
+    "165200812",
+    "165200813",
+    "165200814",
+    "165200815",
+    "165200816",
+    "165200817",
+    "165200818",
+    "165200819",
+    "165200820",
+    "165200821",
+    "165200822",
+    "165200823",
+    "165200824",
+    "165200825",
+    "165200827"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247448:por",
+     "title": "Decreto-Lei n.º 34/2008",
+     "published": "2008-02-26",
+     "dre_path": "/dr/detalhe/decreto-lei/34-2008-247448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "165200805",
+    "165200806",
+    "165200828",
+    "165200808",
+    "165200809",
+    "165200810",
+    "165200811",
+    "165200812",
+    "165200813",
+    "165200814",
+    "165200815",
+    "165200816",
+    "165200817",
+    "165200818",
+    "165200819",
+    "165200820",
+    "165200821",
+    "165200822",
+    "165200823",
+    "165200824",
+    "165200825",
+    "165200826",
+    "165200827"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "165200805",
+    "165200806",
+    "165200829",
+    "165200808",
+    "165200809",
+    "165200810",
+    "165200811",
+    "165200812",
+    "165200813",
+    "165200814",
+    "165200815",
+    "165200816",
+    "165200817",
+    "165200818",
+    "165200819",
+    "165200820",
+    "165200821",
+    "165200822",
+    "165200823",
+    "165200824",
+    "165200825",
+    "165200826",
+    "165200827"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213881448:por",
+     "title": "Decreto-Lei n.º 41/2023",
+     "published": "2023-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2023-213881448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "165200805",
+    "165200806",
+    "165200829",
+    "213919019",
+    "213919020",
+    "213919021",
+    "213919022",
+    "165200812",
+    "165200813",
+    "165200814",
+    "165200815",
+    "165200816",
+    "165200817",
+    "165200818",
+    "213919023",
+    "165200820",
+    "165200821",
+    "213919024",
+    "165200823",
+    "213919025",
+    "165200825",
+    "165200826",
+    "165200827"
+   ]
+  }
+ ],
+ "fragments": {
+  "165200805": {
+   "fragment_id": "165207445",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 75/2000\n\nde 9 de Maio\n\nA Lei n.º 115/99, de 3 de Agosto, estabeleceu o regime jurídico das associações representativas dos imigrantes e seus descendentes, prevendo o reconhecimento da sua representatividade, bem como o direito ao apoio técnico e financeiro do Estado para o desenvolvimento das suas actividades e o direito a beneficiar de tempo de antena nos serviços públicos de rádio e televisão.\n\nImporta pois definir o processo de reconhecimento de representatividade, delimitar os sectores de actuação e definir critérios objectivos de apoio às actividades desenvolvidas pelas associações representativas de imigrantes e seus descendentes, por forma que possam melhor proteger os direitos e interesses específicos daqueles, contribuindo para que todos os cidadãos legalmente residentes em Portugal gozem de dignidade e oportunidades idênticas.\n\nAcresce que a Lei n.º 115/99, de 3 de Agosto, prevê que passem a integrar o Conselho Consultivo para os Assuntos da Imigração três representantes das associações representativas das comunidades de imigrantes não lusófonas, pelo que igualmente se revela necessário regulamentar a respectiva eleição.\n\nFoi ouvido o Conselho Consultivo para os Assuntos da Imigração.\n\nAssim, no desenvolvimento do regime jurídico da Lei n.º 115/99, de 3 de Agosto, e nos termos das alíneas a) e c) do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "165200806": {
+   "fragment_id": "165207446",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regulamenta a Lei n.º 115/99, de 3 de Agosto, que tem por objectivo estabelecer o regime de constituição e os direitos e deveres das associações representativas dos imigrantes e seus descendentes."
+  },
+  "165200807": {
+   "fragment_id": "165207447",
+   "type": 11,
+   "heading": "Artigo 2.º — Direitos das associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direitos das associações\n\n1 - As associações de imigrantes gozam dos seguintes direitos:\n\na) Participar na definição da política de imigração;\n\nb) Participar nos processos legislativos referentes a imigração;\n\nc) Participar em órgãos consultivos, nos termos do presente diploma;\n\nd) Beneficiar de direito de antena nos serviços públicos de rádio e televisão através das respectivas associações representativas de âmbito nacional;\n\ne) Beneficiar de todos os direitos e regalias atribuídos por lei às pessoas colectivas de utilidade pública;\n\nf) Beneficiar de isenção de custas e preparos judiciais e de imposto do selo;\n\ng) Solicitar e obter das entidades competentes as informações e a documentação que lhes permitam acompanhar a definição e execução das políticas de imigração;\n\nh) Intervir junto das autoridades públicas em defesa dos direitos dos imigrantes;\n\ni) Participar, junto das autarquias locais, na definição e execução das políticas locais que digam directamente respeito aos imigrantes;\n\nj) Beneficiar de apoio técnico e financeiro por parte do Estado, nos termos do presente diploma.\n\n2 - Os direitos previstos nas alíneas a) a f) do número anterior só podem ser exercidos pelas associações cuja representatividade seja reconhecida, nos termos dos artigos 3.º e 4.º do presente diploma e do artigo 5.º da Lei n.º 115/99, de 3 de Agosto."
+  },
+  "165200808": {
+   "fragment_id": "165207448",
+   "type": 11,
+   "heading": "Artigo 3.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reconhecimento\n\n1 - O reconhecimento de representatividade depende de requerimento da associação interessada e da verificação dos requisitos legais previstos na Lei n.º 115/99, de 3 de Agosto.\n\n2 - O requerimento referido no número anterior é dirigido ao Alto-Comissário para a Imigração e Minorias Étnicas (ACIME), instruído com os seguintes documentos:\n\na) Cópia dos estatutos e do respectivo extracto publicado no Diário da República;\n\nb) Cópia da acta de eleição dos corpos sociais em exercício;\n\nc) Cópia do cartão de identificação de pessoa colectiva;\n\nd) Relatório de actividades do último exercício, ou plano anual de actividades, caso se trate de associação em início de actividade;\n\ne) Declaração em que conste o número total de associados e o âmbito territorial de actuação.\n\n3 - Sempre que se verifiquem alterações, as associações devem enviar ao ACIME os documentos correspondentes às mesmas e referidos no número anterior, a fim de confirmar a manutenção dos requisitos legais do reconhecimento de representatividade, sem prejuízo da remessa anual, até 31 de Janeiro, da declaração mencionada na alínea e) do n.º 2.\n\n4 - As associações de imigrantes podem ser de âmbito nacional, regional ou local, de acordo com o número mínimo de associados, que será, respectivamente, de 1000, 500 e 100."
+  },
+  "165200809": {
+   "fragment_id": "165207449",
+   "type": 11,
+   "heading": "Artigo 4.º — Instrução e decisão do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Instrução e decisão do processo\n\n1 - O ACIME e o Conselho Consultivo para os Assuntos da Imigração (COCAI) podem solicitar informações ou documentos adicionais que se revelem necessários a tomada de decisão ou à emissão de parecer.\n\n2 - O COCAI emite parecer no prazo máximo de 10 dias úteis a contar da data da entrada do requerimento ou da instrução do processo nos termos do número anterior.\n\n3 - O ACIME profere a decisão no prazo máximo de 15 dias a contar da emissão do parecer do COCAI."
+  },
+  "165200810": {
+   "fragment_id": "165207450",
+   "type": 11,
+   "heading": "Artigo 5.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Publicidade\n\nO ACIME promove, no prazo de 10 dias, a publicação no Diário da República do extracto da decisão proferida."
+  },
+  "165200811": {
+   "fragment_id": "165207451",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo das associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo das associações\n\nO Gabinete do ACIME organiza o registo das associações cuja representatividade é reconhecida e emite, anualmente, o respectivo cartão de identificação, de modelo anexo ao presente diploma."
+  },
+  "165200812": {
+   "fragment_id": "165207452",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito de participação das associações representativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito de participação das associações representativas\n\n1 - As associações com reconhecimento de representatividade participam na definição das medidas concretizadoras do Programa do Governo em matéria de imigração.\n\n2 - O membro do Governo responsável pela área da igualdade faculta às associações referidas no número anterior os elementos necessários, fixando um prazo para que elas se pronunciem por escrito, o qual não poderá ser inferior a 15 dias.\n\n3 - As associações referidas no n.º 1, através das respectivas associações de âmbito nacional, beneficiam do direito de antena nos serviços públicos de rádio e televisão nos mesmos termos das associações profissionais."
+  },
+  "165200813": {
+   "fragment_id": "165207453",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio do Estado\n\n1 - O membro do Governo responsável pela área da igualdade concede apoio do Estado e valoriza o contributo das associações de imigrantes na execução das políticas nacionais vocacionadas para a melhoria das condições de vida dos imigrantes em Portugal, na perspectiva da sua integração na sociedade, com respeito pela sua identidade e cultura de origem, de forma a eliminar a discriminação, bem como para a promoção da dignificação e da igualdade de oportunidades de todos os cidadãos legalmente residentes em Portugal.\n\n2 - O apoio referido no número anterior efectiva-se através de ajudas de carácter técnico e financeiro às associações de imigrantes que desenvolvam programas, projectos e acções que tenham como objectivo:\n\na) Contribuir para a integração de cidadãos imigrantes, promovendo a sua dignificação e igualdade de oportunidades;\n\nb) A mudança de atitudes e mentalidades, no âmbito da igualdade de oportunidades dos cidadãos legalmente residentes em Portugal, nomeadamente a nível da educação, da cultura e dos meios de comunicação social;\n\nc) A formação técnica de suporte a iniciativas empresariais, culturais e sociais com vista a estimular a actividade empreendedora dos imigrantes;\n\nd) A formação profissional, de forma a fomentar o aumento da qualificação profissional dos cidadãos imigrantes;\n\ne) A criação de serviços de apoio às famílias imigrantes;\n\nf) O estabelecimento de intercâmbios com associações congéneres estrangeiras ou a promoção de acções comuns de informação ou formação;\n\ng) O estudo e a investigação de casos e medidas de integração social e de discriminação baseada na raça, cor, nacionalidade ou origem étnica;\n\nh) A eliminação de todas as formas de discriminação baseadas na raça, cor, nacionalidade ou origem étnica."
+  },
+  "165200814": {
+   "fragment_id": "165207454",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de apreciação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de apreciação dos pedidos\n\n1 - Os pedidos de apoio formulados ao abrigo do artigo anterior são apreciados de acordo com os seguintes critérios:\n\na) Qualidade técnica da acção proposta, nomeadamente quanto aos objectivos, conteúdos programáticos e duração da acção;\n\nb) Âmbito regional, local, nacional ou internacional da acção proposta;\n\nc) O grau de carência da região ou população abrangida;\n\nd) A continuidade e a estabilidade dos efeitos pretendidos;\n\ne) A participação de trabalho de voluntariado;\n\nf) A relação entre o custo e os resultados esperados;\n\ng) Capacidade de estabelecer parcerias;\n\nh) Tipo de actividades desenvolvidas pela associação promotora da acção ou projecto;\n\ni) Cumprimento dos objectivos de acções ou projectos anteriores.\n\n2 - São excluídas do apoio as associações que se encontrem numa das situações previstas no artigo 33.º do Decreto-Lei n.º 197/99, de 8 de Junho."
+  },
+  "165200815": {
+   "fragment_id": "165207455",
+   "type": 11,
+   "heading": "Artigo 10.º — Formalização dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Formalização dos pedidos\n\nAs associações devem formalizar os seus pedidos de apoio ao membro do Governo responsável pela área da igualdade."
+  },
+  "165200816": {
+   "fragment_id": "165207456",
+   "type": 11,
+   "heading": "Artigo 11.º — Formas de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formas de apoio técnico\n\nO apoio técnico, a prestar pelo membro do Governo que tem a seu cargo a área da igualdade ou por entidades públicas ou privadas com as quais aquele estabeleça acordos para o efeito, deve revestir, entre outras, as seguintes formas:\n\na) Informação jurídica ou outra;\n\nb) Documentação, bibliografia."
+  },
+  "165200817": {
+   "fragment_id": "165207457",
+   "type": 11,
+   "heading": "Artigo 12.º — Modalidades de apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Modalidades de apoio financeiro\n\n1 - O apoio financeiro pode ser concedido à globalidade das acções previstas no plano anual de actividades ou pontualmente.\n\n2 - As associações que optem pelo apoio para o plano anual de actividades não serão elegíveis para o apoio pontual.\n\n3 - As associações que optem pelo apoio pontual podem apresentar até ao máximo de três pedidos por ano civil.\n\n4 - O apoio financeiro não pode exceder 70% do total do valor do programa, projecto ou acção."
+  },
+  "165200818": {
+   "fragment_id": "165207458",
+   "type": 11,
+   "heading": "Artigo 13.º — Prazo de apresentação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prazo de apresentação dos pedidos\n\nOs pedidos devem ser apresentados ao membro do Governo responsável pela área da igualdade até 31 de Outubro do ano que antecede o apoio para o plano anual de actividades e até 60 dias de antecedência para o apoio pontual."
+  },
+  "165200819": {
+   "fragment_id": "165207459",
+   "type": 11,
+   "heading": "Artigo 14.º — Apreciação e decisão dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apreciação e decisão dos pedidos\n\n1 - Os pedidos são apreciados pelo ACIME, que solicita parecer ao COCAI:\n\na) Até 31 de Janeiro do ano a que respeita o pedido de apoio para o plano anual de actividades;\n\nb) No prazo de 10 dias úteis a contar da apresentação do pedido de apoio pontual.\n\n2 - O membro do Governo responsável pela área da igualdade decide sobre a concessão do apoio e comunica a decisão no prazo máximo de 10 dias úteis a contar da emissão da apreciação feita pelo ACIME e promove a celebração do protocolo de apoio nos 15 dias seguintes à comunicação da decisão."
+  },
+  "165200820": {
+   "fragment_id": "165207460",
+   "type": 11,
+   "heading": "Artigo 15.º — Processamento do apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Processamento do apoio financeiro\n\nO apoio financeiro é concedido de acordo com o seguinte calendário de pagamentos:\n\na) Para o plano anual de actividades: 50% até 31 de Março, 20% até 30 de Junho, 30% após 30 de Novembro e condicionado à apresentação de relatório de actividades e contas até aquela data;\n\nb) Para o apoio pontual: 60% com a celebração do protocolo de apoio e 40% no prazo de 10 dias úteis após entrega de relatório de actividades e contas."
+  },
+  "165200821": {
+   "fragment_id": "165207461",
+   "type": 11,
+   "heading": "Artigo 16.º — Deveres das associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Deveres das associações\n\n1 - As associações apoiadas ficam obrigadas a:\n\na) Aceitar a avaliação e o acompanhamento das actividades apoiadas;\n\nb) Articular, sempre que possível, as suas actividades com as actividades que o membro do Governo responsável pela área da igualdade promova no mesmo âmbito;\n\nc) Apresentar, até 15 de Janeiro de cada ano, relatório anual e circunstanciado da actividade desenvolvida e da aplicação das verbas concedidas.\n\n2 - O relatório referido no número anterior, caso se trate de apoio pontual, é apresentado no prazo máximo de 30 dias após o final da acção apoiada.\n\n3 - Caso se verifiquem irregularidades na aplicação das verbas concedidas, nomeadamente a sua utilização para fins diversos dos indicados, a associação fica impedida de concorrer a qualquer espécie de apoio por um prazo de dois anos, sem prejuízo da responsabilidade civil ou criminal a que haja lugar."
+  },
+  "165200822": {
+   "fragment_id": "165207462",
+   "type": 11,
+   "heading": "Artigo 17.º — Avaliação e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação e acompanhamento\n\n1 - Compete ao ACIME a avaliação e o acompanhamento da aplicação das verbas concedidas.\n\n2 - O ACIME promove a publicação no Diário da República, de um relatório até 30 de Abril do ano seguinte àquele a que se referem os apoios, donde consta a lista das associações apoiadas, a modalidade de apoio e os respectivos montantes."
+  },
+  "165200823": {
+   "fragment_id": "165207463",
+   "type": 11,
+   "heading": "Artigo 18.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Financiamento\n\nA atribuição dos apoios previstos no presente diploma fica condicionada à dotação orçamental inscrita para o efeito no Orçamento do Estado, em rubrica própria, nos termos do artigo 8.º da Lei n.º 115/99, de 3 de Agosto."
+  },
+  "165200824": {
+   "fragment_id": "165207464",
+   "type": 11,
+   "heading": "Artigo 19.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conselho consultivo\n\n1 - As associações de imigrantes das comunidades não lusófonas cuja representatividade venha a ser reconhecida nos seis meses seguintes à publicação do presente diploma elegem os três representantes a que alude a alínea b) do n.º 1 do artigo 3.º do Decreto-Lei n.º 39/98, de 27 de Fevereiro, na redacção dada pela Lei n.º 115/99, de 3 de Agosto.\n\n2 - O Gabinete do ACIME promove a eleição nos 15 dias posteriores ao decurso do prazo fixado no número anterior.\n\n3 - O mandato dos actuais membros do conselho, nos termos do n.º 4 do artigo 3.º do Decreto-Lei n.º 39/98, de 27 de Fevereiro, termina no prazo de três anos a contar da data da respectiva posse."
+  },
+  "165200825": {
+   "fragment_id": "165207465",
+   "type": 11,
+   "heading": "Artigo 20.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Disposição transitória\n\n1 - Os pedidos sobre os quais o COCAI se haja já pronunciado são decididos no prazo máximo de 10 dias a contar da publicação do presente diploma.\n\n2 - No ano 2000, o prazo para apresentação de pedidos de apoio ao plano anual de actividades é de 45 dias a contar da data de publicação do presente diploma."
+  },
+  "165200827": {
+   "fragment_id": "165207467",
+   "type": 14,
+   "heading": "Anexo — (ver modelos no documento original)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (ver modelos no documento original)"
+  },
+  "165200828": {
+   "fragment_id": "165207447",
+   "type": 11,
+   "heading": "Artigo 2.º — Direitos das associações",
+   "in_force_from": "2009-04-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2009-04-20"
+   ],
+   "markdown": "###### Artigo 2.º — Direitos das associações\n\n1 - As associações de imigrantes gozam dos seguintes direitos:\n\na) Participar na definição da política de imigração;\n\nb) Participar nos processos legislativos referentes a imigração;\n\nc) Participar em órgãos consultivos, nos termos do presente diploma;\n\nd) Beneficiar de direito de antena nos serviços públicos de rádio e televisão através das respectivas associações representativas de âmbito nacional;\n\ne) Beneficiar de todos os direitos e regalias atribuídos por lei às pessoas colectivas de utilidade pública;\n\nf) Beneficiar de isenção de imposto do selo;\n\ng) Solicitar e obter das entidades competentes as informações e a documentação que lhes permitam acompanhar a definição e execução das políticas de imigração;\n\nh) Intervir junto das autoridades públicas em defesa dos direitos dos imigrantes;\n\ni) Participar, junto das autarquias locais, na definição e execução das políticas locais que digam directamente respeito aos imigrantes;\n\nj) Beneficiar de apoio técnico e financeiro por parte do Estado, nos termos do presente diploma.\n\n2 - Os direitos previstos nas alíneas a) a f) do número anterior só podem ser exercidos pelas associações cuja representatividade seja reconhecida, nos termos dos artigos 3.º e 4.º do presente diploma e do artigo 5.º da Lei n.º 115/99, de 3 de Agosto.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2009-04-20"
+  },
+  "165200826": {
+   "fragment_id": "165207466",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Março de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Armando António Martins Vara.\n\nPromulgado em 14 de Abril de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Abril de 2000.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama."
+  },
+  "165200829": {
+   "fragment_id": "165207447",
+   "type": 11,
+   "heading": "Artigo 2.º — Direitos das associações",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2009-04-20"
+   ],
+   "markdown": "###### Artigo 2.º — Direitos das associações\n\n1 - As associações de imigrantes gozam dos seguintes direitos:\n\na) Participar na definição da política de imigração;\n\nb) Participar nos processos legislativos referentes a imigração;\n\nc) Participar em órgãos consultivos, nos termos do presente diploma;\n\nd) Beneficiar de direito de antena nos serviços públicos de rádio e televisão através das respectivas associações representativas de âmbito nacional;\n\ne) (Revogada).\n\nf) Beneficiar de isenção de imposto do selo;\n\ng) Solicitar e obter das entidades competentes as informações e a documentação que lhes permitam acompanhar a definição e execução das políticas de imigração;\n\nh) Intervir junto das autoridades públicas em defesa dos direitos dos imigrantes;\n\ni) Participar, junto das autarquias locais, na definição e execução das políticas locais que digam directamente respeito aos imigrantes;\n\nj) Beneficiar de apoio técnico e financeiro por parte do Estado, nos termos do presente diploma.\n\n2 - Os direitos previstos nas alíneas a) a f) do número anterior só podem ser exercidos pelas associações cuja representatividade seja reconhecida, nos termos dos artigos 3.º e 4.º do presente diploma e do artigo 5.º da Lei n.º 115/99, de 3 de Agosto.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2009-04-20"
+  },
+  "213919019": {
+   "fragment_id": "165207448",
+   "type": 11,
+   "heading": "Artigo 3.º — Reconhecimento",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 3.º — Reconhecimento\n\n1 - O reconhecimento de representatividade depende de requerimento da associação interessada e da verificação dos requisitos legais previstos na Lei n.º 115/99, de 3 de Agosto.\n\n2 - O requerimento referido no número anterior é dirigido à Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), instruído com os seguintes documentos:\n\na) Cópia dos estatutos e do respectivo extracto publicado no Diário da República;\n\nb) Cópia da acta de eleição dos corpos sociais em exercício;\n\nc) Cópia do cartão de identificação de pessoa colectiva;\n\nd) Relatório de actividades do último exercício, ou plano anual de actividades, caso se trate de associação em início de actividade;\n\ne) Declaração em que conste o número total de associados e o âmbito territorial de actuação.\n\n3 - Sempre que se verifiquem alterações, as associações devem enviar à AIMA, I. P., os documentos correspondentes às mesmas e referidos no número anterior, a fim de confirmar a manutenção dos requisitos legais do reconhecimento de representatividade, sem prejuízo da remessa anual, até 31 de janeiro, da declaração mencionada na alínea e) do n.º 2.\n\n4 - As associações de imigrantes podem ser de âmbito nacional, regional ou local, de acordo com o número mínimo de associados, que será, respectivamente, de 1000, 500 e 100.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213919020": {
+   "fragment_id": "165207449",
+   "type": 11,
+   "heading": "Artigo 4.º — Instrução e decisão do processo",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 4.º — Instrução e decisão do processo\n\n1 - A AIMA, I. P., e o Conselho para as Migrações e Asilo podem solicitar informações ou documentos adicionais que se revelem necessários a tomada de decisão ou à emissão de parecer.\n\n2 - O Conselho para as Migrações e Asilo emite parecer no prazo máximo de 10 dias úteis a contar da data da entrada do requerimento ou da instrução do processo nos termos do número anterior.\n\n3 - A AIMA, I. P., profere a decisão no prazo máximo de 15 dias a contar da emissão do parecer do Conselho para as Migrações e Asilo.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213919021": {
+   "fragment_id": "165207450",
+   "type": 11,
+   "heading": "Artigo 5.º — Publicidade",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 5.º — Publicidade\n\nA AIMA, I. P., promove, no prazo de 10 dias, a publicação no Diário da República do extrato da decisão proferida.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213919022": {
+   "fragment_id": "165207451",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo das associações",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 6.º — Registo das associações\n\nA AIMA, I. P., organiza o registo das associações cuja representatividade é reconhecida e emite, anualmente, o respetivo cartão de identificação, de modelo anexo ao presente diploma.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213919023": {
+   "fragment_id": "165207459",
+   "type": 11,
+   "heading": "Artigo 14.º — Apreciação e decisão dos pedidos",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 14.º — Apreciação e decisão dos pedidos\n\n1 - Os pedidos são apreciados pela AIMA, I. P., que solicita parecer ao Conselho para as Migrações e Asilo:\n\na) Até 31 de Janeiro do ano a que respeita o pedido de apoio para o plano anual de actividades;\n\nb) No prazo de 10 dias úteis a contar da apresentação do pedido de apoio pontual.\n\n2 - O membro do Governo responsável pela área das migrações decide sobre a concessão do apoio e comunica a decisão no prazo máximo de 10 dias úteis a contar da emissão da apreciação feita pela AIMA, I. P., e promove a celebração do protocolo de apoio nos 15 dias seguintes à comunicação da decisão.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213919024": {
+   "fragment_id": "165207462",
+   "type": 11,
+   "heading": "Artigo 17.º — Avaliação e acompanhamento",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 17.º — Avaliação e acompanhamento\n\n1 - Compete à AIMA, I. P., a avaliação e o acompanhamento da aplicação das verbas concedidas.\n\n2 - A AIMA, I. P., promove a publicação no Diário da República de um relatório até 30 de abril do ano seguinte àquele a que se referem os apoios, donde consta a lista das associações apoiadas, a modalidade de apoio e os respetivos montantes.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213919025": {
+   "fragment_id": "165207464",
+   "type": 11,
+   "heading": "Artigo 19.º — Conselho consultivo",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 19.º — Conselho consultivo\n\n1 - As associações de imigrantes das comunidades não lusófonas cuja representatividade venha a ser reconhecida nos seis meses seguintes à publicação do presente diploma elegem os três representantes a que alude a alínea b) do n.º 1 do artigo 3.º do Decreto-Lei n.º 39/98, de 27 de Fevereiro, na redacção dada pela Lei n.º 115/99, de 3 de Agosto.\n\n2 - A AIMA, I. P., promove a eleição nos 15 dias posteriores ao decurso do prazo fixado no número anterior.\n\n3 - O mandato dos actuais membros do conselho, nos termos do n.º 4 do artigo 3.º do Decreto-Lei n.º 39/98, de 27 de Fevereiro, termina no prazo de três anos a contar da data da respectiva posse.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  }
+ }
+}

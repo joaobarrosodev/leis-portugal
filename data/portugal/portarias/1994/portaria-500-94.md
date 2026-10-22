@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:290988:por
+title: Portaria n.º 500/94
+short_title: null
+summary: Estabelece que no município de Lisboa não haja áreas a integrar na Reserva Agrícola Nacional (RAN)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 500/94
+official_date: null
+publication_date: '1994-07-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/1994, Série I-B de 1994-07-06
+  number: '154'
+  series: I
+  supplement: null
+  pages: 3565 - 3565
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/07/154b00/35653565.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/500/1994/07/06/p/dre/pt/html
+  oj: null
+  dre: '290988'
+  dre_path: /dr/detalhe/portaria/500-1994-290988
+  internal: pt:dre:290988:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/500-1994-290988
+  metadata_url: https://data.dre.pt/eli/port/500/1994/07/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/500-1994-290988
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-07-06T00:00:00Z'
+integrity:
+  source_sha256: de1e5840862b128c486ae9fb4ea62f7abc079f25ee2ef4fc507c87ef24be9e0b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-500-290988.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Reserva Agrícola Nacional
+- Lisboa
+- Política de Solos
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 500/94
+
+de 6 de Julho
+
+Considerando o [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, que estabelece o regime jurídico da Reserva Agrícola Nacional (RAN);
+
+Considerando que toda a área do município de Lisboa foi objecto de um Plano Geral de Urbanização e que nela não existem áreas afectas à agricultura;
+
+Ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho:
+
+Manda o Governo, pelo Ministro da Agricultura, que no município de Lisboa não haja áreas a integrar na Reserva Agrícola Nacional.
+
+Ministério da Agricultura.
+
+**Assinada em 15 de Junho de 1994.**
+
+Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

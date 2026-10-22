@@ -1,0 +1,229 @@
+---
+schema_version: '1.0'
+id: pt:dre:406485:por
+title: Decreto-Lei n.º 333/97
+short_title: null
+summary: Transpõe para a ordem jurídica interna a Directiva n.º 93/83/CEE, do Conselho, de 27 de Setembro de 1993, relativa
+  à coordenação de determinadas disposições em matéria de direito de autor e direitos conexos aplicáveis à radiodifusão por
+  satélite e à retransmissão por cabo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 333/97
+official_date: null
+publication_date: '1997-11-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 275/1997, Série I-A de 1997-11-27
+  number: '275'
+  series: I
+  supplement: null
+  pages: 6394 - 6396
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/11/275a00/63946396.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-06-20'
+version_history:
+  file: decreto-lei-333-97.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1997-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-06-20'
+    amending: pt:dre:214524781:por
+    amending_title: Decreto-Lei n.º 46/2023
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/333/1997/p/cons/20230619/pt/html
+  oj: null
+  dre: '406485'
+  dre_path: /dr/detalhe/decreto-lei/333-1997-406485
+  internal: pt:dre:406485:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1997-406485
+  metadata_url: https://data.dre.pt/eli/dec-lei/333/1997/p/cons/20230619/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-214476760
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-214476760
+  retrieved_at: '2026-10-22T12:57:23Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 55a72a4a0c24a0214915e79d7768cac09d4ac07648227a464c3b84fce7cfe75a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:57:23Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-333-97.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- RDP
+- Código do Direito de Autor e dos Direitos Conexos
+- Direito de Autor
+- Comunicação por Satélite
+- Satélite
+- Televisão Terrestre
+- Televisão por CABO
+relationships:
+- type: amended_by
+  target: pt:dre:214524781:por
+  label: Altera Artigo 3.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2023-214524781
+  date: '2023-06-19'
+- type: cites
+  target: celex:31992L0100
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/100/oj
+- type: cites
+  target: celex:31993L0083
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/83/oj
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:57:23Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 333/97
+
+Decreto-Lei n.º 333/97
+
+de 27 de Novembro
+
+O presente decreto-lei visa transpor para a ordem jurídica portuguesa a Directiva comunitária n.º <a href="eurlex.asp?ano=1993&id=393L0083" title="Link para Directiva da Comunidade Europeia">93/83/CEE</a>, de 27 de Setembro de 1993, do Conselho, que implica alterações ao Código do Direito de Autor e dos Direitos Conexos em matéria respeitante a determinadas disposições aplicáveis à radiodifusão por satélite e à retransmissão por cabo.
+
+Assim:
+
+No uso da autorização legislativa concedida pela alínea b) do artigo 2.º da Lei n.º 99/97, de 3 de Setembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma transpõe para a ordem jurídica interna o disposto na Directiva n.º <a href="eurlex.asp?ano=1993&id=393L0083" title="Link para Directiva da Comunidade Europeia">93/83/CEE</a>, do Conselho, de 27 de Setembro de 1993, relativa à coordenação de determinadas disposições em matéria de direito de autor e direitos conexos aplicáveis à radiodifusão por satélite e à retransmissão por cabo.
+
+###### Artigo 2.º — Regime aplicável
+
+As disposições sobre radiodifusão, constantes dos artigos 149.º a 156.º do Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de Março, e alterado pelas Leis n.os 45/85, de 17 de Setembro, e 114/91, de 3 de Setembro, aplicam-se à radiodifusão por satélite e à retransmissão por cabo, nos termos do presente diploma.
+
+###### Artigo 3.º — Definições
+
+Para os efeitos do presente diploma:
+
+a) Entende-se por «satélite» qualquer aparelho artificial colocado no espaço que permita a transmissão de sinais de radiodifusão destinados a ser captados pelo público;
+
+b) Entende-se por «comunicação ao público por satélite» o acto de introdução, sob o controlo e a responsabilidade do organismo de radiodifusão, de sinais portadores de programas destinados a ser captados pelo público numa cadeia ininterrupta de comunicação conducente ao satélite e deste para a terra;
+
+c) Entende-se por 'retransmissão por cabo' a retransmissão ao público, simultânea, inalterada e integral, por cabo ou micro-ondas, de uma emissão primária a partir de outro Estado-Membro, com ou sem fio, incluindo por satélite, de programas de televisão e de rádio destinados à receção pelo público, independentemente da forma como o operador de um serviço de retransmissão por cabo obtém os sinais portadores de programas do organismo de radiodifusão para efeitos de retransmissão.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 46/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2023-214524781), em vigor a partir de 2023-06-20
+
+###### Artigo 4.º — Comunicação por satélite
+
+1 - A comunicação ao público por satélite só se verifica no lugar onde os sinais portadores do programa são introduzidos, sob o controlo e a responsabilidade do organismo de radiodifusão, numa cadeia ininterrupta de transmissão conducente ao satélite, e deste para a terra, com destino à captação pelo público.
+
+2 - Se os sinais forem codificados, só há comunicação ao público por satélite se os meios de descodificação forem postos à disposição do público pelo organismo de radiodifusão ou com o seu consentimento.
+
+###### Artigo 5.º — Comunicação por satélite realizada em país terceiro
+
+1 - Se for realizada uma comunicação ao público por satélite num país terceiro que não assegure a protecção exigida nos países da União Europeia, considera-se que essa comunicação ocorreu no país membro em que os sinais portadores do programa foram transmitidos ao satélite a partir de uma estação de ligação ascendente aí localizada.
+
+2 - Se não for utilizada uma estação de ligação ascendente localizada num país da União Europeia, considera-se que a comunicação ao público por satélite ocorreu num país membro quando esta for feita por incumbência de um organismo de radiodifusão que tiver nesse país o seu estabelecimento principal.
+
+3 - Nos casos previstos nos n.os 1 e 2, os direitos previstos neste diploma poderão ser exercidos contra a entidade que opere a estação de ligação ascendente ou contra o organismo de radiodifusão.
+
+###### Artigo 6.º — Autorização do autor
+
+1 - A autorização de comunicar ao público por satélite constitui direito exclusivo do autor, a qual pode obter-se por contrato individual ou acordo colectivo.
+
+2 - Os acordos colectivos tendo por objecto a comunicação por satélite, celebrados entre uma entidade de gestão do direito de autor e um organismo de televisão, relativa a obras musicais, com ou sem palavras, são extensivos aos titulares de direitos sobre essas obras não representados por essa entidade, desde que a comunicação se verifique em simultâneo com uma emissão terrestre pelo mesmo radiodifusor e esses titulares possam excluir a extensão do acordo às suas obras e exercer os seus direitos, individual ou colectivamente.
+
+3 - O disposto no n.º 2 não se aplica às obras cinematográficas ou produzidas por um processo semelhante ao destas.
+
+###### Artigo 7.º — Retransmissão por cabo
+
+1 - O direito de autorizar ou proibir a retransmissão por cabo só pode ser exercido através de uma entidade de gestão colectiva do direito de autor, que se considera mandatada para gerir os direitos de todos os titulares, incluindo os que nela não estejam inscritos, sem prejuízo do disposto no artigo 8.º quanto às emissões próprias dos organismos de radiodifusão.
+
+2 - Os titulares de direitos referidos na parte final do n.º 1 terão os mesmos direitos e obrigações resultantes do contrato celebrado entre o operador por cabo e a entidade de gestão aplicáveis aos membros desta, podendo reivindicá-los no prazo de três anos a contar da data da retransmissão por cabo do programa que inclui a sua obra.
+
+3 - Na falta de acordo sobre a autorização da retransmissão por cabo, o litígio resolver-se-á por via arbitral, nos termos da lei.
+
+###### Artigo 8.º — Extensão aos titulares de direitos conexos
+
+Aplicam-se aos artistas ou executantes, produtores de fonogramas e videogramas e organismos de radiodifusão, no respeitante à comunicação ao público por satélite das suas prestações, fonogramas, videogramas e emissões e à retransmissão por cabo, as disposições dos artigos 178.º, 184.º e 187.º do Código do Direito de Autor e dos Direitos Conexos e, bem assim, dos artigos 6.º e 7.º do presente diploma.
+
+###### Artigo 9.º — Obrigação de negociar
+
+1 - As entidades representativas dos vários interesses em presença estabelecem as negociações e os acordos, no respeito pelo princípio da boa fé, conducentes a assegurar que a retransmissão se processe em condições equilibradas e sem interrupções.
+
+2 - As negociações mencionadas no número anterior não devem ser impedidas ou atrasadas pelas partes sem válida justificação.
+
+3 - Sem prejuízo do disposto no n.º 3 do artigo 7.º, na falta de acordo entre uma ou mais entidades de gestão coletiva de direito de autor e direitos conexos ou um ou mais organismos de radiodifusão e os operadores de um serviço de retransmissão relativamente às condições da autorização para a retransmissão de emissões, qualquer uma das partes pode submeter a resolução do litígio a serviço de mediação de centro de arbitragem institucionalizada especializada em matéria de direito de autor e direitos conexos a autorizar nos termos da lei.
+
+4 - Até à constituição e efetivo início de funcionamento de centro de arbitragem a que se refere o número anterior, tendo em vista a resolução dos litígios aí prevista, as partes podem recorrer a mediador inscrito na lista de mediadores privados a que se reporta a alínea e) do n.º 1 do artigo 9.º da Lei n.º 29/2013, de 19 de abril, gerida pelo Ministério da Justiça e publicitada conforme disposto no artigo 5.º da Portaria n.º 344/2013, de 27 de novembro.
+
+5 - Ao procedimento de mediação desenvolvido nos termos dos n.os 3 e 4 aplica-se o regime da mediação civil e comercial em Portugal com a especificidade prevista no número seguinte.
+
+6 - O mediador pode apresentar propostas de acordo às partes, considerando-se a proposta aceite por todas as partes caso nenhuma delas se oponha à mesma no prazo de três meses.
+
+7 - A proposta e qualquer oposição à mesma são notificadas às partes nos termos do disposto nos n.os 1 e 2 do artigo 249.º do Código de Processo Civil, aprovado em anexo à Lei n.º 41/2013, de 26 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 46/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2023-214524781), em vigor a partir de 2023-06-20
+
+###### Artigo 10.º — Disposições transitórias
+
+1 - Aos contratos de exploração de obras e outras prestações em vigor no dia 1 de Janeiro de 1995, cuja vigência ultrapasse o dia 1 de Janeiro de 2000, aplicar-se-á o disposto nos artigos 3.º, 4.º, 5.º e 6.º deste diploma.
+
+2 - Nos contratos internacionais de co-produção celebrados antes do dia 1 de Janeiro de 1995 em que intervenha um produtor submetido à lei portuguesa e estiver estabelecida uma repartição entre co-produtores relativamente aos direitos de exploração por áreas geográficas para todos os meios de comunicação ao público, sem especializar o regime de radiodifusão por satélite, a autorização da comunicação ao público por satélite fica subordinada ao consentimento do co-produtor que tiver direito à exclusividade, nomeadamente linguística, num determinado território, se esta puder ficar prejudicada.
+
+3 - Para efeitos da comunicação ao público por satélite, os direitos dos artistas intérpretes ou executantes, dos produtores de fonogramas e dos organismos de radiodifusão, para além do contemplado no Código do Direito de Autor e dos Direitos Conexos, são regulados pelas disposições do Decreto-Lei n.º 332/97, de 27 de Novembro, que procedeu à transposição para a ordem jurídica interna da Directiva n.º <a href="eurlex.asp?ano=1992&id=392L0100" title="Link para Directiva da Comunidade Europeia">92/100/CEE</a>, do Conselho, de 19 de Novembro de 1992.
+
+###### Artigo 11.º — Produção de efeitos
+
+O disposto no presente diploma produz efeitos desde 1 de Janeiro de 1995.
+
+Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.
+
+Promulgado em 13 de Novembro de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 17 de Novembro de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

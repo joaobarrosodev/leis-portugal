@@ -1,0 +1,757 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:226806:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-167838330",
+ "dre_path": "/dr/detalhe/decreto-lei/72-2003-226806",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-04-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "167901711",
+    "167901712",
+    "167901713",
+    "167901714",
+    "167901715",
+    "167901716",
+    "167901717",
+    "167901718",
+    "167901719",
+    "167901720",
+    "167901721",
+    "167901722",
+    "167901723",
+    "167901724",
+    "167901725",
+    "167901726",
+    "167901727",
+    "167901728",
+    "167901729",
+    "167901730",
+    "167901731",
+    "167901732",
+    "167901733",
+    "167901734",
+    "167901735",
+    "167901736",
+    "167901737",
+    "167901738",
+    "167901739",
+    "167901740",
+    "167901741",
+    "167901742",
+    "167901743",
+    "167901744",
+    "167901745",
+    "167901746",
+    "167901747",
+    "167901748",
+    "167901749",
+    "167901750",
+    "167901751",
+    "167901752",
+    "167901753",
+    "167901754",
+    "167901755",
+    "167901757",
+    "167901758",
+    "167901759",
+    "167901760",
+    "167901761",
+    "167901762",
+    "167901763",
+    "167901764",
+    "167901765",
+    "167901766",
+    "167901767",
+    "167901768"
+   ]
+  },
+  {
+   "date": "2004-07-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:517436:por",
+     "title": "Decreto-Lei n.º 164/2004",
+     "published": "2004-07-03",
+     "dre_path": "/dr/detalhe/decreto-lei/164-2004-517436"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º-A",
+    "Adita Artigo 26.º-A",
+    "Adita Artigo 38.º-A",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "167901711",
+    "167901712",
+    "167901713",
+    "167901714",
+    "167901715",
+    "167901716",
+    "167901717",
+    "167901718",
+    "167901719",
+    "167901720",
+    "167901721",
+    "167901722",
+    "167901723",
+    "167901724",
+    "167901725",
+    "167901726",
+    "167901727",
+    "167901728",
+    "167901729",
+    "167904978",
+    "167904979",
+    "167904980",
+    "167904981",
+    "167904982",
+    "167904983",
+    "167904984",
+    "167904985",
+    "167904986",
+    "167904987",
+    "167904988",
+    "167904989",
+    "167904990",
+    "167901741",
+    "167901742",
+    "167901743",
+    "167901744",
+    "167901745",
+    "167901746",
+    "167901747",
+    "167901748",
+    "167901749",
+    "167901750",
+    "167901751",
+    "167901752",
+    "167901753",
+    "167904991",
+    "167904992",
+    "167904993",
+    "167901756",
+    "167901757",
+    "167901758",
+    "167901759",
+    "167901760",
+    "167901761",
+    "167901762",
+    "167901763",
+    "167901764",
+    "167901765",
+    "167901766",
+    "167901767",
+    "167901768"
+   ]
+  }
+ ],
+ "fragments": {
+  "167901711": {
+   "fragment_id": "167838331",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 72/2003\n\nde 10 de Abril\n\nA protecção da saúde humana e do ambiente exige uma atenção particular aos riscos relacionados com a utilização das biotecnologias, em particular dos novos produtos que resultam da alteração genética de seres vivos. A libertação no ambiente de organismos geneticamente modificados (OGM) e a comercialização de produtos que contenham ou sejam constituídos por OGM devem ser acompanhadas de instrumentos que proporcionem uma avaliação rigorosa dos riscos envolvidos.\n\nAssim, tomando em consideração o princípio da precaução e a clarificação do âmbito de aplicação da Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0220\" title=\"Link para Directiva da Comunidade Europeia\">90/220/CEE</a>, a União Europeia adoptou a Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0018\" title=\"Link para Directiva da Comunidade Europeia\">2001/18/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Março, relativa à libertação deliberada no ambiente de OGM e que revoga a Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0220\" title=\"Link para Directiva da Comunidade Europeia\">90/220/CEE</a>, do Conselho, de 23 de Abril.\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0018\" title=\"Link para Directiva da Comunidade Europeia\">2001/18/CE</a> e revoga, entre outros, o Decreto-Lei n.º 126/93, de 20 de Abril, diploma que regula a utilização e libertação no ambiente de OGM, bem como a comercialização de produtos que contenham ou sejam constituídos por OGM, instrumento jurídico que, pela primeira vez, transpôs para o ordenamento jurídico português as disposições comunitárias nesta matéria, dotando os serviços com as necessárias competências para procederem às autorizações indispensáveis à libertação daqueles organismos.\n\nTendo em conta as alterações que a União Europeia introduziu no ordenamento jurídico comunitário através da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0018\" title=\"Link para Directiva da Comunidade Europeia\">2001/18/CE</a>, no que respeita à libertação no ambiente dos OGM, do presente diploma constam, nomeadamente:\n\nUma avaliação de riscos ambientais de acordo com princípios previamente estabelecidos;\n\nA consulta do público durante a tomada de decisão relativa aos pedidos de autorização para a libertação de OGM, bem como a informação do mesmo relativamente às decisões de comercialização e aos resultados da monitorização efectuada;\n\nA consulta, por intermédio da Comissão Europeia, de quaisquer comités éticos e científicos existentes na União Europeia;\n\nA necessidade de o notificante pôr em prática um plano de monitorização para detectar e identificar quaisquer efeitos directos ou indirectos, imediatos, diferidos ou imprevistos dos produtos que contenham ou sejam constituídos por OGM sobre a saúde humana e o ambiente, após a sua colocação no mercado;\n\nO estabelecimento de um prazo fixo para a primeira autorização para colocação no mercado;\n\nA exigência de que o rótulo ou o documento que acompanha o OGM refira claramente a expressão «este produto contém OGM».\n\nForam ouvidas as seguintes entidades: Instituto Nacional de Saúde Dr. Ricardo Jorge, Instituto do Consumidor, Instituto de Biologia Molecular e Celular, Instituto Nacional de Engenharia e Tecnologia Industrial (INETI), IACA - Associação Portuguesa dos Industriais de Alimentos Compostos para Animais, FIPA - Federação das Indústrias Agro-Alimentares, QUERCUS - Associação Nacional de Conservação da Natureza, DECO - Associação Portuguesa para a Defesa do Consumidor, LPN - Liga para a Protecção da Natureza, CAP - Confederação dos Agricultores de Portugal, CONFAGRI - Confederação Nacional das Cooperativas Agrícolas e do Crédito Agrícola de Portugal, CNA - Confederação Nacional de Agricultura, AJAP - Associação de Jovens Agricultores de Portugal, CIB - Centro de Informação de Biotecnologia, OMAIA - Observatório dos Mercados Agrícolas e das Importações Agro-Alimentares e Colégio de Engenharia Agronómica da Ordem dos Engenheiros.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "167901712": {
+   "fragment_id": "167838332",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "167901713": {
+   "fragment_id": "167838333",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regula a libertação deliberada no ambiente de organismos geneticamente modificados para qualquer fim diferente da colocação no mercado, bem como a colocação no mercado de produtos que os contenham ou por eles sejam constituídos, em conformidade com o princípio da precaução e tendo em vista a protecção da saúde humana e do ambiente.\n\n2 - Este diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0018\" title=\"Link para Directiva da Comunidade Europeia\">2001/18/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Março, relativa à libertação deliberada no ambiente de organismos geneticamente modificados."
+  },
+  "167901714": {
+   "fragment_id": "167838334",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da aplicação do presente diploma, entende-se por:\n\na) «Organismo» qualquer entidade biológica dotada de capacidade de se reproduzir ou de transferir material genético;\n\nb) «Organismo geneticamente modificado» (OGM) qualquer organismo, com excepção do ser humano, cujo material genético foi modificado de uma forma que não ocorre naturalmente por meio de cruzamentos e ou de recombinação natural, entendendo-se que:\n\ni) A modificação genética ocorre, pelo menos, quando são utilizadas as técnicas referidas na parte 1 do anexo I-A do presente diploma;\n\nii) As técnicas referidas na parte 2 do anexo I-A do presente diploma não são consideradas como dando origem a modificação genética;\n\nc) «Libertação deliberada» qualquer introdução intencional no ambiente de um OGM ou de uma combinação de OGM sem que se recorra a medidas específicas de confinamento com o objectivo de limitar o seu contacto com a população em geral e com o ambiente e de proporcionar a ambos um elevado nível de segurança;\n\nd) «Colocação no mercado» a colocação à disposição de terceiros, quer a título oneroso quer gratuito, excluindo-se as seguintes operações:\n\ni) A disponibilização de microrganismos geneticamente modificados para actividades regulamentadas pelo Decreto-Lei n.º 2/2001, de 4 de Janeiro, que regula a utilização confinada de microrganismos geneticamente modificados, transpondo para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0081\" title=\"Link para Directiva da Comunidade Europeia\">98/81/CE</a>, do Conselho, de 26 de Outubro, que altera a Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0219\" title=\"Link para Directiva da Comunidade Europeia\">90/219/CEE</a>, do Conselho, de 23 de Abril, incluindo a constituição de colecções de culturas;\n\nii) A disponibilização de OGM que não sejam os microrganismos referidos na subalínea anterior, a utilizar exclusivamente em actividades em que sejam tomadas medidas adequadas de confinamento rigoroso, baseadas nos princípios de confinamento estabelecidos no Decreto-Lei n.º 2/2001, de 4 de Janeiro, com o objectivo de limitar o seu contacto com a população em geral e com o ambiente e de proporcionar um elevado nível de segurança;\n\niii) A disponibilização de OGM a utilizar exclusivamente para libertações deliberadas que cumpram os requisitos estabelecidos no capítulo II do presente diploma;\n\ne) «Notificação» a apresentação das informações exigidas no presente decreto-lei à autoridade competente;\n\nf) «Notificador» a pessoa, singular ou colectiva, que apresenta a notificação;\n\ng) «Produto» um preparado ou substância que contenha ou seja constituída por um OGM ou uma combinação de OGM e que seja colocado no mercado;\n\nh) «Avaliação dos riscos ambientais» (ARA) a avaliação dos riscos para a saúde humana e para o ambiente, directa ou indirectamente, a curto ou a longo prazo, que a libertação deliberada de OGM no ambiente ou a sua colocação no mercado possam representar, efectuada em conformidade com o anexo II do presente diploma;\n\ni) «Autoridade competente» o Instituto do Ambiente (IA)."
+  },
+  "167901715": {
+   "fragment_id": "167838335",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\nExcluem-se do âmbito de aplicação do presente diploma:\n\na) Os organismos obtidos através das técnicas de modificação genética enumeradas no anexo I-B do presente diploma;\n\nb) O transporte por via ferroviária, rodoviária, marítima, fluvial ou aérea de organismos geneticamente modificados."
+  },
+  "167901716": {
+   "fragment_id": "167838336",
+   "type": 1,
+   "heading": "Capítulo II — Libertação deliberada de OGM para qualquer fim diferente da colocação no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Libertação deliberada de OGM para qualquer fim diferente da colocação no mercado"
+  },
+  "167901717": {
+   "fragment_id": "167838337",
+   "type": 11,
+   "heading": "Artigo 4.º — Libertação deliberada de OGM para qualquer fim diferente da colocação no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Libertação deliberada de OGM para qualquer fim diferente da colocação no mercado\n\n1 - A libertação deliberada no ambiente de um OGM ou de uma combinação de OGM está sujeita à autorização prévia da autoridade competente, ouvida a Direcção-Geral da Saúde (DGS).\n\n2 - Na libertação deliberada no ambiente de plantas superiores geneticamente modificadas (PSGM) deve ser igualmente ouvida a Direcção-Geral de Protecção das Culturas (DGPC).\n\n3 - As disposições do presente capítulo não se aplicam às substâncias e compostos medicinais para consumo humano que consistam num OGM ou numa combinação de OGM ou que os contenham, desde que a sua libertação deliberada para qualquer fim diferente da colocação no mercado seja autorizada ao abrigo de legislação específica que preveja:\n\na) Uma avaliação específica dos riscos ambientais em conformidade com o anexo II do presente diploma e com base no tipo de informações especificadas no anexo III do presente diploma, sem prejuízo dos requisitos adicionais previstos na legislação específica aplicável;\n\nb) Uma autorização explícita prévia à libertação;\n\nc) Um plano de monitorização em conformidade com as partes pertinentes do anexo III do presente diploma, com o objectivo de identificar os efeitos do OGM ou dos OGM sobre a saúde humana ou sobre o ambiente;\n\nd) Requisitos relativos ao tratamento de novos elementos de informação, informação ao público, informação sobre os resultados das emissões e troca de informação pelo menos equivalentes às constantes no presente diploma."
+  },
+  "167901718": {
+   "fragment_id": "167838338",
+   "type": 11,
+   "heading": "Artigo 5.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Notificação\n\n1 - O interessado na libertação deve submeter à autoridade competente uma notificação prévia que contenha:\n\na) Um dossier técnico que forneça as informações especificadas no anexo III do presente diploma e necessárias para a avaliação dos riscos ambientais da libertação deliberada do OGM ou da combinação de OGM, em especial:\n\ni) Informações de ordem geral, incluindo informações sobre o pessoal e respectiva formação;\n\nii) Informações relativas ao(s) OGM;\n\niii) Informações relativas às condições de libertação e ao potencial meio receptor;\n\niv) Informações sobre as interacções do(s) OGM com o ambiente;\n\nv) Um plano de monitorização e avaliação, em conformidade com as partes pertinentes do anexo III do presente diploma, dos efeitos do(s) OGM para a saúde humana ou para o ambiente;\n\nvi) Informações sobre controlo, métodos de remediação, tratamento de resíduos e planos de emergência;\n\nvii) Um resumo do dossier;\n\nb) A avaliação dos riscos ambientais efectuada em conformidade com o anexo II do presente diploma e as conclusões requeridas na parte D do anexo II do presente diploma, juntamente com quaisquer referências bibliográficas e com indicação dos métodos utilizados.\n\n2 - O notificador pode referir dados ou apresentar resultados constantes de notificações anteriormente apresentadas por outros notificadores, desde que as informações, dados ou resultados não sejam confidenciais ou que os outros notificadores tenham dado o seu consentimento por escrito, ou pode ainda apresentar dados adicionais que considere pertinentes.\n\n3 - Em casos justificados, a autoridade competente pode aceitar que as libertações deliberadas do mesmo OGM ou de uma combinação de OGM no mesmo local, ou em locais diferentes mas para o mesmo efeito, e num período de tempo definido, possam ser objecto de uma única notificação."
+  },
+  "167901719": {
+   "fragment_id": "167838339",
+   "type": 11,
+   "heading": "Artigo 6.º — Decisão da autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Decisão da autoridade competente\n\n1 - A autoridade competente acusa a recepção da notificação, verifica a sua conformidade com as disposições do presente diploma e comunica, por escrito, a sua decisão no prazo de 90 dias a contar da data da recepção da notificação, tendo em conta as eventuais observações pertinentes de outros Estados membros apresentadas nos termos do artigo 14.º\n\n2 - A decisão de recusa da notificação carece de fundamentação."
+  },
+  "167901720": {
+   "fragment_id": "167838340",
+   "type": 11,
+   "heading": "Artigo 7.º — Suspensão dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Suspensão dos prazos\n\n1 - A autoridade competente pode solicitar fundamentadamente ao notificador informações complementares, suspendendo-se, entretanto, a contagem do prazo previsto no artigo anterior até à recepção de resposta.\n\n2 - Quando a autoridade competente entenda recorrer à consulta pública prevista no artigo 11.º, suspende-se igualmente a contagem do prazo referido no artigo anterior, não podendo esta suspensão prolongar-se por mais de 30 dias."
+  },
+  "167901721": {
+   "fragment_id": "167838341",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres do notificador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres do notificador\n\nConstituem deveres daquele que pretenda libertar OGM:\n\na) Proceder à avaliação dos eventuais riscos para a saúde humana e para o ambiente resultantes da libertação deliberada de OGM, tendo por base pelo menos os elementos constantes do anexo III do presente diploma;\n\nb) Facultar à autoridade competente as informações que lhe sejam solicitadas, bem como fornecer oficiosamente todas as informações pertinentes;\n\nc) Proceder à libertação só após ser notificado por escrito da autorização pela autoridade competente e de acordo com as condições por ela impostas;\n\nd) Elaborar o relatório das libertações nos termos do artigo 12.º;\n\ne) Adoptar de imediato as medidas necessárias para proteger a saúde humana e o ambiente no caso de alterações ou novas informações nos termos referidos no n.º 1 do artigo 10.º"
+  },
+  "167901722": {
+   "fragment_id": "167838342",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimentos diferenciados de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimentos diferenciados de autorização\n\n1 - No caso de a autoridade competente considerar que adquiriu experiência suficiente de libertação de certos OGM em determinados ecossistemas e se os OGM em questão preencherem os critérios do anexo V, a autoridade competente pode apresentar à Comissão uma proposta fundamentada para a aplicação de procedimentos diferenciados a esses tipos de OGM.\n\n2 - Relativamente a cada proposta apresentada, é tomada uma decisão pelo comité que assiste a Comissão, nos termos do n.º 1 do artigo 30.º da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0018\" title=\"Link para Directiva da Comunidade Europeia\">2001/18/CE</a>, de 12 de Março, a qual deve indicar a informação técnica mínima, nos termos do anexo III, necessária para avaliar quaisquer riscos previsíveis resultantes da libertação.\n\n3 - A decisão referida no n.º 2 deve determinar que o notificador só possa proceder à libertação depois de ter recebido por escrito a aprovação da autoridade competente e deve proceder à libertação em conformidade com todas as condições impostas nessa autorização.\n\n4 - A decisão referida no n.º 2 pode determinar que a libertação de um OGM ou de uma combinação de OGM no mesmo local, ou em locais diferentes mas para o mesmo efeito, e num período de tempo definido, possam ser notificadas numa única notificação.\n\n5 - Sempre que a autoridade competente decida fazer ou não uso de um procedimento estabelecido na decisão referida no n.º 2 para libertações deliberadas de OGM, deve informar desse facto a Comissão."
+  },
+  "167901723": {
+   "fragment_id": "167838343",
+   "type": 11,
+   "heading": "Artigo 10.º — Alterações e novas informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alterações e novas informações\n\n1 - Em caso de superveniente alteração ou modificação não intencional da libertação que seja susceptível de pôr em risco a saúde humana ou o ambiente, ou de reavaliação desses riscos com base em informações obtidas após a notificação ou a autorização, o notificador deve de imediato adoptar todas as medidas necessárias para proteger a saúde humana e o ambiente, informar a autoridade competente da alteração sobrevinda e das novas informações colhidas, bem como rever as medidas especificadas na notificação.\n\n2 - No caso de a autoridade competente obter novas informações que possam ter consequências significativas quanto aos riscos para a saúde humana e o ambiente ou nas circunstâncias referidas no n.º 1, deve proceder à avaliação da referida informação e torná-la acessível ao público, podendo exigir que o notificador altere as condições de libertação deliberada, a suspenda ou lhe ponha termo, devendo do facto informar o público."
+  },
+  "167901724": {
+   "fragment_id": "167838344",
+   "type": 11,
+   "heading": "Artigo 11.º — Consulta pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Consulta pública\n\n1 - A autoridade competente deve promover, previamente à tomada de decisão, a consulta do público ou, quando adequado, de grupos de interesse, colocando, por um período inferior a 60 dias, à disposição dos interessados as partes constantes da notificação apresentada, sem prejuízo do disposto no artigo 28.º\n\n2 - As exposições apresentadas pelo público nos termos do número anterior devem ser tidas em consideração pela autoridade competente na tomada de decisão.\n\n3 - Para efeitos da publicitação da informação referida no n.º 1 do presente artigo, a autoridade competente publica um anúncio em dois jornais de âmbito nacional e, sendo possível, num de âmbito regional ou local, em que conste o endereço do local onde pode ser consultada a notificação efectuada, bem como informação relativa ao início e termo do prazo de consulta, informações que devem igualmente ser disponibilizadas por meios electrónicos, tais como a Internet."
+  },
+  "167901725": {
+   "fragment_id": "167838345",
+   "type": 11,
+   "heading": "Artigo 12.º — Relatório das libertações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Relatório das libertações\n\nTerminada a libertação, o notificador elabora e remete à autoridade competente no prazo fixado na autorização um relatório, de acordo com um modelo a estabelecer, dos resultados relativamente a qualquer risco para a saúde humana ou para o ambiente referindo, em especial, os tipos de produtos que pretende notificar posteriormente."
+  },
+  "167901726": {
+   "fragment_id": "167838346",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências da autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências da autoridade competente\n\nNo âmbito da libertação deliberada no ambiente de OGM, cabe à autoridade competente, ouvida a DGS e, no caso de se tratar de PSGM, ouvida igualmente a DGPC:\n\na) Autorizar a libertação;\n\nb) Inspeccionar e controlar, coadjuvada pela Inspecção-Geral do Ambiente (IGA), as operações de libertação;\n\nc) Suspender a autorização ou revogá-la quando o interesse público o imponha, de acordo com o referido no n.º 2 do artigo 10.º;\n\nd) Dispor de registos públicos com informação sobre a libertação dos OGM abrangidos por este capítulo, nomeadamente com a indicação da localização da sua libertação;\n\ne) Suspender a libertação para a qual não foi concedida autorização, garantir a adopção de medidas necessárias para eliminar os danos causados e informar o público, a Comissão e os restantes Estados membros;\n\nf) Assegurar que os OGM autorizados a serem libertados ao abrigo do capítulo II não são colocados no mercado, salvo se o forem nos termos do capítulo III do presente diploma."
+  },
+  "167901727": {
+   "fragment_id": "167838347",
+   "type": 11,
+   "heading": "Artigo 14.º — Informações a prestar à Comissão da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informações a prestar à Comissão da União Europeia\n\n1 - A autoridade competente deve enviar à Comissão, no prazo de 30 dias a contar da sua recepção, um resumo de cada notificação recebida nos termos do artigo 5.º\n\n2 - Os Estados membros podem apresentar observações no prazo de 30 dias.\n\n3 - A autoridade competente deve informar a Comissão da decisão final, incluindo os motivos de recusa de uma notificação, bem como dos resultados das libertações recebidos nos termos do artigo 12.º"
+  },
+  "167901728": {
+   "fragment_id": "167838348",
+   "type": 1,
+   "heading": "Capítulo III — Colocação no mercado de produtos que contenham ou sejam constituídos por OGM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Colocação no mercado de produtos que contenham ou sejam constituídos por OGM"
+  },
+  "167901729": {
+   "fragment_id": "167838349",
+   "type": 11,
+   "heading": "Artigo 15.º — Colocação no mercado de produtos que contenham ou sejam constituídos por OGM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Colocação no mercado de produtos que contenham ou sejam constituídos por OGM\n\n1 - A colocação no mercado de produtos que contenham ou sejam constituídos por OGM está sujeita à autorização prévia da autoridade competente, ouvida a DGS.\n\n2 - Na libertação deliberada no ambiente de PSGM deve ser igualmente ouvida a DGPC.\n\n3 - As disposições do presente capítulo não são aplicáveis a produtos que contenham ou sejam constituídos por OGM, desde que tenham sido autorizados por legislação comunitária que preveja uma avaliação específica dos riscos ambientais efectuada em conformidade com os princípios e informações estabelecidos nos anexos II e III do presente diploma, que preveja requisitos em matéria de gestão dos riscos, de rotulagem, de monitorização adequada, de informações a fornecer ao público e de cláusula de salvaguarda, pelo menos equivalentes aos previstos no presente diploma, sem prejuízo dos requisitos adicionais previstos naquela legislação.\n\n4 - As disposições do presente capítulo não são aplicáveis aos produtos que contenham ou sejam constituídos por OGM, desde que tenham sido autorizados ao abrigo do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1993&id=393R2309\" title=\"Link para Regulamento da Comunidade Europeia\">2309/93</a>, do Conselho, e tenha sido efectuada uma avaliação específica dos riscos ambientais em conformidade com os princípios e informações estabelecidos nos anexos II e III do presente diploma, sem prejuízo de outros requisitos em matéria de avaliação e gestão dos riscos, de rotulagem, de monitorização, de informações a fornecer ao público e de cláusula de salvaguarda, previstos em legislação comunitária para os produtos medicinais para uso humano e veterinário.\n\n5 - Até à entrada em vigor do regulamento do Parlamento Europeu e do Conselho, previsto no n.º 3 do artigo 12.º da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0018\" title=\"Link para Directiva da Comunidade Europeia\">2001/18/CE</a>, de 12 de Março, que introduza os procedimentos destinados a assegurar que a avaliação dos riscos e os requisitos em matéria de gestão dos riscos, de rotulagem, de monitorização adequada, de informações a fornecer ao público e de cláusula de salvaguarda sejam equivalentes aos previstos na Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0018\" title=\"Link para Directiva da Comunidade Europeia\">2001/18/CE</a>, quaisquer produtos que contenham ou sejam constituídos por OGM, desde que estejam autorizados por outra legislação comunitária, só serão colocados no mercado depois de terem sido aceites ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0018\" title=\"Link para Directiva da Comunidade Europeia\">2001/18/CE</a>, de 12 de Março.\n\n6 - Os produtos cuja colocação no mercado tenha sido objecto de uma autorização escrita por parte de uma autoridade competente de outro Estado membro poderão ser utilizados desde que as condições específicas de utilização e a protecção de ecossistemas/ambientes e ou zonas geográficas estipuladas na mesma autorização sejam estritamente respeitadas.\n\n7 - Os produtos que contenham ou sejam constituídos por OGM, cuja colocação no mercado tenha sido autorizada por uma entidade competente de outro Estado membro, em conformidade com as disposições da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0018\" title=\"Link para Directiva da Comunidade Europeia\">2001/18/CE</a>, não podem ser proibidos, restringidos ou impedidos ressalvada a excepção prevista na alínea b) do artigo 25.º\n\n8 - Neste último caso, a autoridade competente informará imediatamente a Comissão, que deverá pronunciar-se no prazo de 60 dias, bem como os restantes Estados membros, da medida tomada, indicando as razões da sua decisão."
+  },
+  "167901730": {
+   "fragment_id": "167838350",
+   "type": 11,
+   "heading": "Artigo 16.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Notificação\n\n1 - O interessado na colocação no mercado pela primeira vez de produtos que contenham ou sejam constituídos por OGM deve submeter à autoridade competente uma notificação prévia que contenha:\n\na) As informações exigidas nos anexos III e IV do presente diploma, que terão de tomar em consideração a diversidade geográfica da utilização dos produtos que contenham ou sejam constituídos por OGM e incluir informações sobre os dados e resultados, obtidos a partir de libertações para fins de investigação e desenvolvimento, relativos ao impacte da libertação sobre a saúde humana e sobre o ambiente;\n\nb) A avaliação dos riscos ambientais, efectuada em conformidade com o anexo II do presente diploma e as conclusões requeridas na parte D do anexo II do presente diploma;\n\nc) As condições para a colocação do produto no mercado, incluindo as condições específicas de utilização e manipulação;\n\nd) Uma proposta de prazo de validade da autorização, que não deverá exceder 10 anos;\n\ne) Um plano para a monitorização, em conformidade com o anexo VII do presente diploma, incluindo uma proposta de prazo para o plano de monitorização que poderá ser diferente do prazo de validade da autorização;\n\nf) Uma proposta de rotulagem que respeite os requisitos definidos no anexo IV do presente diploma, devendo o rótulo referir claramente a presença de OGM; a expressão «Este produto contém organismos geneticamente modificados» deve constar do rótulo ou de documento de acompanhamento;\n\ng) Uma proposta de embalagem que incluirá os requisitos definidos no anexo IV do presente diploma;\n\nh) Um resumo do dossier, em modelo a fornecer pela autoridade competente.\n\n2 - Após a recepção da notificação, a autoridade competente envia de imediato às autoridades dos restantes Estados membros e à Comissão o resumo do dossier referido na alínea h) do número anterior.\n\n3 - A autoridade competente pode aceitar que o notificador não seja obrigado a fornecer toda ou parte da informação requerida na parte B do anexo IV do presente diploma nos casos em que, com base nos resultados de qualquer libertação notificada nos termos do capítulo II ou noutros casos cientificamente justificados, o notificador considere que a colocação no mercado e a utilização de um produto que contenha ou seja constituído por OGM não representa risco para a saúde humana e para o ambiente.\n\n4 - O notificador deve incluir na notificação informações relativas a dados ou resultados de libertações do mesmo OGM ou da mesma combinação de OGM, já notificados ou com a notificação em curso por ele realizadas dentro ou fora da Comunidade.\n\n5 - O notificador poderá referir dados ou apresentar resultados constantes de notificações anteriormente apresentadas por outros notificadores, desde que as informações, dados ou resultados não sejam confidenciais ou que os outros notificadores tenham dado o seu consentimento por escrito.\n\n6 - A utilização de um OGM ou de uma combinação de OGM de forma diferente da já notificada carece da apresentação de nova notificação."
+  },
+  "167901731": {
+   "fragment_id": "167838351",
+   "type": 11,
+   "heading": "Artigo 17.º — Relatório de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Relatório de avaliação\n\n1 - A autoridade competente, após acusar a recepção da notificação, analisa o processo de notificação avaliando a sua conformidade com o disposto no presente diploma, podendo solicitar ao notificador informações adicionais, e remete cópia do processo à Comissão.\n\n2 - No processo de análise da notificação, a autoridade competente informa a DGS e, sempre que se trate de PSGM, informa igualmente a DGPC do conteúdo da mesma e recolhe os respectivos pareceres.\n\n3 - No prazo de 90 dias a contar da data da recepção da notificação, a autoridade competente envia ao notificador um relatório de avaliação elaborado em conformidade com o anexo VI do presente diploma, no qual indica o seu parecer desfavorável à colocação do produto no mercado e a recusa da notificação ou o seu parecer favorável, remetendo, neste caso, o relatório à Comissão.\n\n4 - A decisão de recusa da notificação carece de fundamentação.\n\n5 - No caso de parecer desfavorável o relatório de avaliação deve ser remetido à Comissão 15 dias após ter sido enviado ao notificador."
+  },
+  "167901732": {
+   "fragment_id": "167838352",
+   "type": 11,
+   "heading": "Artigo 18.º — Decisão da autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Decisão da autoridade competente\n\n1 - Na falta de indicações em contrário das autoridades competentes de outros Estados membros, no prazo de 60 dias contados da data da distribuição do relatório de avaliação pela Comissão, a autoridade competente autoriza a colocação no mercado, dá conhecimento da decisão ao notificador e, no prazo de 30 dias, informa os restantes Estados membros e a Comissão.\n\n2 - No caso de a autoridade competente de outro Estado membro ou a Comissão solicitarem informações complementares ao notificador ou levantarem dúvidas que obstem à autorização, que não sejam resolvidas no prazo de 105 dias contados da data da distribuição do relatório de avaliação, a autoridade competente suspende o processo de notificação até à decisão da Comissão.\n\n3 - Quando as objecções a que se refere o artigo anterior forem resolvidas no prazo de 105 dias, a autoridade competente autoriza a colocação no mercado, dá conhecimento da sua decisão ao notificador e, no prazo de 30 dias, informa os restantes Estados membros e a Comissão."
+  },
+  "167901733": {
+   "fragment_id": "167838353",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Suspensão dos prazos\n\nOs prazos previstos no n.º 3 do artigo 17.º e no n.º 2 do artigo 18.º suspendem-se nos períodos em que a autoridade competente aguarda as informações complementares fundamentadamente solicitadas ao notificador."
+  },
+  "167901734": {
+   "fragment_id": "167838354",
+   "type": 11,
+   "heading": "Artigo 20.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Autorização\n\n1 - A autorização de colocação no mercado de produtos que contenham ou sejam constituídos por OGM deve ser objecto de publicação no Diário da República.\n\n2 - O notificador só pode proceder à colocação no mercado de produtos que contenham ou sejam constituídos por OGM depois de ser notificado da autorização pela autoridade competente e de acordo com as condições por ela impostas.\n\n3 - A autorização deve indicar explicitamente:\n\na) O âmbito da autorização, incluindo a identificação dos produtos a colocar no mercado que contenham ou sejam constituídos por OGM e a sua identificação específica;\n\nb) O prazo de validade da autorização, que não pode exceder o período de 10 anos a contar da data da sua emissão;\n\nc) As condições de colocação do produto no mercado, incluindo quaisquer condições específicas de utilização, manipulação e embalagem de produtos que contenham ou sejam constituídos por OGM, bem como as condições para a protecção de ecossistemas/ambientes e ou zonas geográficas específicos;\n\nd) O dever de o notificador disponibilizar amostras de controlo a pedido da autoridade competente sem prejuízo do disposto no artigo 28.º;\n\ne) Os requisitos em matéria de rotulagem, em conformidade com os requisitos constantes do anexo IV do presente diploma, devendo o rótulo referir claramente a presença de OGM; a expressão «Este produto contém organismos geneticamente modificados» deve figurar quer num rótulo quer num documento de acompanhamento do produto ou produtos que contenham ou sejam constituídos por OGM;\n\nf) Os requisitos em matéria de monitorização nos termos do anexo VII do presente diploma, incluindo a obrigação de apresentar relatórios à Comissão e às autoridades competentes dos Estados membros, o prazo para o plano de monitorização e, se for caso disso, as obrigações de qualquer pessoa que venda ou utilize o produto, nomeadamente no caso de OGM cultivados, referentes a um nível de informação considerado adequado quanto à respectiva localização.\n\n4 - Para efeitos de aprovação de um OGM ou de uma descendência desse OGM exclusivamente para fins de colocação no mercado das suas sementes, o período da primeira autorização termina o mais tardar 10 anos após a data da primeira inclusão da primeira variedade vegetal que contenha o OGM no Catálogo Nacional de Variedades Vegetais, em conformidade com o Decreto-Lei n.º 268/2000, de 24 de Outubro."
+  },
+  "167901735": {
+   "fragment_id": "167838355",
+   "type": 11,
+   "heading": "Artigo 21.º — Renovação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Renovação da autorização\n\n1 - A renovação das autorizações para colocação no mercado de produtos que contenham ou sejam constituídos por OGM, concedidas ao abrigo dos artigos 16.º a 25.º do presente diploma, deve ser solicitada no prazo máximo de nove meses antes da caducidade das respectivas autorizações ou até 17 de Outubro de 2006, no caso das autorizações concedidas ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0220\" title=\"Link para Directiva da Comunidade Europeia\">90/220/CEE</a>, devendo o interessado submeter à autoridade competente uma notificação que contenha:\n\na) Uma cópia da autorização de colocação do OGM no mercado;\n\nb) Um relatório com os resultados da monitorização realizada nos termos da alínea d) do artigo 22.º que, no caso das autorizações concedidas ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0220\" title=\"Link para Directiva da Comunidade Europeia\">90/220/CEE</a>, deve ser entregue aquando da realização da monitorização;\n\nc) Qualquer nova informação que tenha surgido em relação aos riscos do produto para a saúde humana e ou para o ambiente;\n\nd) Se necessário, uma proposta que altere ou complemente as condições da autorização inicial, nomeadamente as condições relacionadas com a futura monitorização e o prazo de validade da autorização.\n\n2 - A autoridade competente analisa o processo de notificação avaliando a sua conformidade com o disposto no número anterior e envia de imediato cópia da notificação à Comissão.\n\n3 - Após a recepção da notificação, a autoridade competente, depois de ouvida a DGS e, no caso de se tratar de PSGM, ouvida igualmente a DGPC, envia ao notificador e à Comissão um relatório de avaliação onde indica o seu parecer favorável ou desfavorável à continuação do produto no mercado.\n\n4 - No caso de parecer favorável e na falta de indicações em contrário das autoridades de outros Estados membros ou da Comissão, no prazo de 60 dias contados da data da distribuição do relatório de avaliação, a autoridade competente autoriza a continuação da colocação no mercado, dá conhecimento da decisão ao notificador e, no prazo de 30 dias, informa os restantes Estados membros e a Comissão.\n\n5 - No caso de a autoridade competente de outro Estado membro ou a Comissão levantarem dúvidas que obstem à renovação da autorização, que não sejam resolvidas no prazo de 75 dias contados da data da distribuição do relatório de avaliação, a autoridade competente suspende o processo de notificação até à decisão da Comissão.\n\n6 - Quando as objecções a que se refere o artigo anterior forem resolvidas no prazo de 75 dias, a autoridade competente autoriza a renovação, dá conhecimento da sua decisão ao notificador e, no prazo de 30 dias, informa os restantes Estados membros e a Comissão.\n\n7 - A recusa da notificação para a renovação de autorização carece de fundamentação.\n\n8 - Enquanto decorrer o processo de notificação para a renovação de uma autorização e até à decisão final, o notificador pode continuar a colocar no mercado o OGM objecto de notificação, de acordo com as condições especificadas na respectiva autorização.\n\n9 - A autorização não deve ser concedida por prazo superior a 10 anos, podendo, no entanto, este prazo ser restringido ou alargado por motivos específicos."
+  },
+  "167901736": {
+   "fragment_id": "167838356",
+   "type": 11,
+   "heading": "Artigo 22.º — Deveres do notificador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Deveres do notificador\n\nConstituem deveres daquele que pretenda colocar no mercado produtos que contenham ou sejam constituídos por OGM:\n\na) Proceder à avaliação prévia dos eventuais riscos para a saúde humana e para o ambiente resultantes da colocação no mercado de produtos que contenham ou sejam constituídos por OGM, tendo por base pelo menos os elementos constantes do anexo III do presente diploma;\n\nb) Facultar às autoridades competentes as informações que lhe sejam solicitadas, bem como fornecer oficiosamente todas as informações pertinentes;\n\nc) Tomar de imediato as medidas necessárias à protecção da saúde humana e do ambiente no caso de surgirem novas informações relativas aos riscos dos OGM para a saúde humana ou para o ambiente, informar a autoridade competente, rever as informações e as condições especificadas na notificação;\n\nd) Efectuar a monitorização e o respectivo relatório de acordo com as condições estabelecidas na autorização."
+  },
+  "167901737": {
+   "fragment_id": "167838357",
+   "type": 11,
+   "heading": "Artigo 23.º — Procedimento em caso de novas informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Procedimento em caso de novas informações\n\n1 - No caso de a autoridade competente obter informações que possam ter consequências significativas quanto aos riscos que o OGM representa para a saúde humana ou para o ambiente, antes da decisão de autorização, comunica imediatamente as informações à Comissão e às autoridades competentes dos restantes Estados membros.\n\n2 - No caso de as informações surgirem depois de emitida a autorização, a autoridade competente envia à Comissão, no prazo de 60 dias após a recepção das novas informações, o seu relatório de avaliação, indicando se as condições da autorização devem ser alteradas ou se a autorização deve ser revogada.\n\n3 - Quaisquer comentários ou objecções fundamentadas em relação à continuação da colocação do OGM no mercado ou à proposta de alteração das condições da autorização devem ser enviados, no prazo de 60 dias a contar da distribuição do envio do relatório de avaliação, à Comissão Europeia, que os enviará imediatamente a todas as autoridades competentes.\n\n4 - Na ausência de objecções fundamentadas por parte de outro Estado membro ou da Comissão no prazo de 60 dias a contar da data de divulgação das novas informações, ou se as questões pendentes tiverem sido resolvidas no prazo de 75 dias, a autoridade competente deve, no prazo de 30 dias, modificar a autorização em conformidade com a proposta, comunicar a autorização modificada ao notificador e informar do facto os restantes Estados membros e a Comissão."
+  },
+  "167901738": {
+   "fragment_id": "167838358",
+   "type": 11,
+   "heading": "Artigo 24.º — Procedimento comunitário em caso de objecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Procedimento comunitário em caso de objecções\n\n1 - Nos casos em que seja levantada e mantida uma objecção por uma autoridade competente de outro Estado membro ou pela Comissão nos termos dos artigos 18.º, 21.º e 23.º, é adoptada e publicada uma decisão, no prazo de 120 dias, que deve incluir as informações referidas no n.º 3 do artigo 20.º\n\n2 - O prazo de 120 dias referido no número anterior suspende-se durante o período de tempo em que a Comissão aguarda informações complementares que tenha solicitado ao notificador ou o parecer de um comité científico que tenha consultado, sem prejuízo de o período de tempo em que a Comissão aguarda o parecer do comité científico consultado não poder exceder 90 dias.\n\n3 - Se a decisão for favorável, a autoridade competente dará a sua autorização por escrito à colocação no mercado ou à renovação da autorização, comunica ao notificador e informa do facto os restantes Estados membros e a Comissão no prazo de 30 dias a contar da publicação ou notificação da decisão."
+  },
+  "167901739": {
+   "fragment_id": "167838359",
+   "type": 11,
+   "heading": "Artigo 25.º — Competências da autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competências da autoridade competente\n\n1 - No âmbito da colocação no mercado de produtos que contenham ou sejam constituídos por OGM, compete à autoridade competente, ouvida a DGS e, no caso de se tratar de PSGM, ouvida igualmente a DGPC:\n\na) Autorizar a colocação no mercado de produtos que contenham ou sejam constituídos por OGM;\n\nb) Na sequência de informações novas ou suplementares disponíveis a partir da data da autorização que afectem a avaliação de riscos ambientais, ou de uma nova avaliação de informações já existentes com base em conhecimentos científicos novos ou suplementares, pode condicionar ou proibir provisoriamente a colocação no mercado e a utilização em Portugal de um produto autorizado noutro Estado membro, quando considere que constitui um risco para a saúde humana e para o ambiente, e, em caso de risco sério, tomar medidas de emergência, tais como a suspensão ou revogação da autorização de colocação no mercado, incluindo a informação do público;\n\nc) Condicionar a utilização do produto, em função da sua perigosidade para ecossistemas ou ambientes de recepção específicos;\n\nd) Verificar se as condições de rotulagem e embalagem dos produtos, em todas as fases de colocação no mercado, estão em conformidade com a autorização;\n\ne) Inspeccionar e tomar outras medidas de controlo, coadjuvadas pela IGA, relativamente à colocação no mercado de produtos que contenham ou sejam constituídos por OGM;\n\nf) Alterar ou limitar o prazo da autorização quando as circunstâncias o imponham;\n\ng) Dispor de registos relativos à localização dos OGM cultivados, a fim de permitir, designadamente, acompanhar os eventuais efeitos desses OGM sobre o ambiente;\n\nh) Suspender a colocação no mercado de produtos que contenham ou sejam constituídos por OGM para os quais não foi concedida autorização, garantir a adopção de medidas necessárias para eliminar os danos causados e informar o público, a Comissão e os restantes Estados membros;\n\ni) Solicitar, no prazo de 60 dias a contar da data da distribuição do relatório de avaliação, informações complementares, fazer comentários ou apresentar objecções fundamentadas em relação à colocação no mercado de OGM em processos a decorrer noutro Estado membro;\n\nj) Solicitar à Comissão Europeia a consulta dos comités científicos e de ética existentes na União Europeia sobre quaisquer questões que possam ter efeitos negativos na saúde humana ou no ambiente, quando tal se justifique.\n\n2 - No caso referido na alínea b) do n.º 1, a autoridade competente deve informar imediatamente a Comissão e os restantes Estados membros das medidas tomadas ao abrigo da referida alínea e indicar as razões da sua decisão, fornecendo a nova avaliação dos riscos ambientais, referir se as condições da autorização devem ser alteradas e a forma de o fazer ou se esta deve ser suprimida e, quando adequado, prestar as informações novas ou suplementares sobre as quais baseou essa decisão."
+  },
+  "167901740": {
+   "fragment_id": "167838360",
+   "type": 11,
+   "heading": "Artigo 26.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Rotulagem\n\n1 - A autoridade competente assegura que em todas as fases de colocação no mercado a rotulagem e a embalagem dos produtos que contenham ou sejam constituídos por OGM estão em conformidade com os requisitos constantes da autorização referida no artigo 20.º\n\n2 - No que respeita aos produtos relativamente aos quais não seja possível excluir a existência fortuita ou tecnicamente inevitável de vestígios de OGM autorizados, pode ser fixado, pela autoridade competente, de acordo com as decisões da União Europeia, um limiar mínimo abaixo do qual esses produtos não têm de ser rotulados."
+  },
+  "167901741": {
+   "fragment_id": "167838361",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "167901742": {
+   "fragment_id": "167838362",
+   "type": 11,
+   "heading": "Artigo 27.º — Informação do público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Informação do público\n\nSem prejuízo do disposto no artigo 28.º, a autoridade competente deve facultar ao público informações relativas às libertações deliberadas de OGM e aos OGM colocados no mercado nos termos referidos no presente diploma, disponibilizando, nomeadamente:\n\na) A autorização e a decisão da Comissão referida no n.º 2 do artigo 18.º e no n.º 5 do artigo 21.º;\n\nb) Os resultados da monitorização;\n\nc) Os registos relativos à localização das libertações de OGM e à localização dos OGM cultivados a que se referem a alínea d) do artigo 13.º e a alínea g) do artigo 25.º, respectivamente;\n\nd) As informações relativas a libertações de OGM ou colocação no mercado de produtos que contenham ou sejam constituídos por OGM efectuadas sem autorização."
+  },
+  "167901743": {
+   "fragment_id": "167838363",
+   "type": 11,
+   "heading": "Artigo 28.º — Confidencialidade das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Confidencialidade das informações\n\n1 - O interessado pode requerer à autoridade competente a salvaguarda da confidencialidade das informações contidas no processo de notificação, cuja divulgação considere, fundamentadamente, susceptível de prejudicar a sua posição em termos concorrenciais.\n\n2 - A autoridade competente, depois de ouvida a DGS e, no caso de se tratar de PSGM, depois de ouvida igualmente a DGPC, dá conhecimento ao interessado da sua decisão, comunicando quais as informações que são mantidas confidenciais, mesmo que o interessado venha a retirar a notificação, devendo assegurar a protecção dos direitos de propriedade intelectual relacionados com as informações recebidas.\n\n3 - Não podem ser mantidas confidenciais as seguintes informações:\n\na) Descrição do(s) OGM, nome e endereço do notificador, objectivo e localização da libertação;\n\nb) Métodos e planos para a monitorização do(s) OGM e para uma resposta de emergência;\n\nc) Avaliação dos riscos ambientais;"
+  },
+  "167901744": {
+   "fragment_id": "167838364",
+   "type": 11,
+   "heading": "Artigo 29.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Relatório\n\nA autoridade competente deve elaborar um relatório sobre a aplicação do presente diploma, incluindo um relatório factual sucinto sobre a experiência com os OGM ou produtos que os contenham e que sejam colocados no mercado, a enviar à Comissão Europeia de três em três anos."
+  },
+  "167901745": {
+   "fragment_id": "167838365",
+   "type": 11,
+   "heading": "Artigo 30.º — Genes de resistência aos antibióticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Genes de resistência aos antibióticos\n\nA autoridade competente deve verificar se os OGM que contenham genes de resistência aos antibióticos utilizados na terapêutica médica ou veterinária são considerados na avaliação dos riscos ambientais, a fim de identificar e eliminar progressivamente dos OGM, até 31 de Dezembro de 2004 no caso dos OGM colocados no mercado nos termos das disposições do capítulo III, e até 31 de Dezembro de 2008, no caso dos OGM autorizados nos termos das disposições do capítulo II, os marcadores de resistência aos antibióticos que tenham efeitos adversos na saúde humana ou no ambiente."
+  },
+  "167901746": {
+   "fragment_id": "167838366",
+   "type": 11,
+   "heading": "Artigo 31.º — Rotulagem dos OGM referidos na alínea d), subalínea ii), do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Rotulagem dos OGM referidos na alínea d), subalínea ii), do artigo 2.º\n\nOs OGM disponibilizados para as operações referidas na alínea d), segunda subalínea, do artigo 2.º devem ser submetidos a requisitos adequados em matéria de rotulagem, em conformidade com as partes pertinentes do anexo IV do presente diploma, de forma a indicar claramente, num rótulo ou num documento de acompanhamento, a presença de OGM, contendo, para o efeito, a expressão «Este produto contém organismos geneticamente modificados»."
+  },
+  "167901747": {
+   "fragment_id": "167838367",
+   "type": 11,
+   "heading": "Artigo 32.º — Notificações pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Notificações pendentes\n\nOs processos de notificação para colocação no mercado de produtos que contenham ou sejam constituídos por OGM, recebidos ao abrigo do Decreto-Lei n.º 126/93, de 20 de Abril, alterado pelo Decreto-Lei n.º 63/99, de 2 de Março, que até à data de entrada em vigor do presente diploma não estejam concluídos ficam sujeitos ao regime previsto no presente diploma."
+  },
+  "167901748": {
+   "fragment_id": "167838368",
+   "type": 11,
+   "heading": "Artigo 33.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Fiscalização\n\nA fiscalização do cumprimento das disposições previstas no presente diploma compete à IGA."
+  },
+  "167901749": {
+   "fragment_id": "167838369",
+   "type": 11,
+   "heading": "Artigo 34.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Medidas cautelares\n\n1 - A IGA pode, quando a gravidade da infracção o justifique, adoptar como medida cautelar:\n\na) A apreensão do equipamento susceptível de ter sido utilizado na prática da contra-ordenação;\n\nb) O depósito de uma caução, cujo limite pode ascender ao máximo da coima abstractamente aplicável pela prática da infracção;\n\nc) A suspensão temporária da actividade;\n\nd) O encerramento preventivo das instalações ou a destruição de culturas, quando se justificar.\n\n2 - Para efeito da alínea a) do n.º 1 do artigo 103.º do Código do Procedimento Administrativo, as medidas a adoptar presumem-se decisões urgentes, embora a entidade competente, sempre que possível, deva proceder à audição do interessado, concedendo-lhe prazo não inferior a três dias para se pronunciar."
+  },
+  "167901750": {
+   "fragment_id": "167838370",
+   "type": 11,
+   "heading": "Artigo 35.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de (euro) 498,80 a (euro) 3740, no caso de pessoas singulares, e de (euro) 2494,10 a (euro) 44891,81, no caso de pessoas colectivas, a violação do disposto nos artigos 5.º, 8.º, 16.º, 20.º, 21.º e 22.º do presente diploma.\n\n2 - A tentativa e a negligência são sempre puníveis."
+  },
+  "167901751": {
+   "fragment_id": "167838371",
+   "type": 11,
+   "heading": "Artigo 36.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas simultaneamente com a coima, nos termos da lei geral, as seguintes sanções acessórias:\n\na) Perda, a favor do Estado, dos objectos utilizados na prática da infracção;\n\nb) Interdição do exercício da actividade;\n\nc) Privação do direito a subsídios ou benefícios outorgados por entidades ou serviços públicos;\n\nd) Privação do direito de participar em concursos públicos que tenham por objecto o fornecimento de bens e serviços e a concessão de serviços públicos;\n\ne) Encerramento do estabelecimento e destruição das culturas.\n\n2 - As sanções previstas nas alíneas b) a e) do número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva."
+  },
+  "167901752": {
+   "fragment_id": "167838372",
+   "type": 11,
+   "heading": "Artigo 37.º — Instrução dos processos e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Instrução dos processos e aplicação das coimas\n\nCompete à IGA a instrução dos processos relativos às contra-ordenações previstas no artigo 35.º, bem como a aplicação das coimas e sanções acessórias."
+  },
+  "167901753": {
+   "fragment_id": "167838373",
+   "type": 11,
+   "heading": "Artigo 38.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Afectação do produto das coimas\n\n1 - O produto das coimas aplicadas por infracção ao disposto no presente diploma reverte:\n\na) Em 10% para a entidade que levanta o auto;\n\nb) Em 30% para a entidade que aplica a coima, a título de compensação de custos de funcionamento e despesas processuais;\n\nc) Em 60% para o Estado.\n\n2 - A entidade que aplicar a coima transferirá, trimestralmente, para as entidades referidas no número anterior a respectiva percentagem da receita efectivamente arrecadada."
+  },
+  "167901754": {
+   "fragment_id": "167838374",
+   "type": 11,
+   "heading": "Artigo 39.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Regiões Autónomas\n\n1 - O regime previsto no presente diploma aplica-se às Regiões Autónomas, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir em diploma regional adequado.\n\n2 - O produto das coimas resultante da aplicação das contra-ordenações previstas no presente diploma, e cobradas nos respectivos territórios, constitui receita própria das Regiões."
+  },
+  "167901755": {
+   "fragment_id": "167902675",
+   "type": 11,
+   "heading": "Artigo 40.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Revogação\n\nSão revogadas todas as disposições legais que contrariem o disposto no presente diploma, nomeadamente:\n\na) O Decreto-Lei n.º 126/93, de 20 de Abril;\n\nb) O Decreto-Lei n.º 172/98, de 25 de Junho;\n\nc) O Decreto-Lei n.º 63/99, de 2 de Março;\n\nd) A Portaria n.º 751/94, de 16 de Agosto."
+  },
+  "167901757": {
+   "fragment_id": "167902677",
+   "type": 14,
+   "heading": "Anexo I-A — Técnicas referidas na alínea b) do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I-A — Técnicas referidas na alínea b) do artigo 2.º"
+  },
+  "167901758": {
+   "fragment_id": "167902678",
+   "type": 4,
+   "heading": "Parte 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte 1\n\nAs técnicas de modificação genética referidas na alínea b), primeira subalínea, do artigo 2.º são, nomeadamente:\n\n1) Técnicas de recombinação de ácidos nucleicos que envolvam a formação de novas combinações de material genético através da inserção de moléculas de ácidos nucleicos em vírus, plasmídeos de bactérias ou outros vectores, independentemente do modo como sejam produzidas fora do organismo, e respectiva incorporação num organismo hospedeiro em que não ocorrem naturalmente mas onde poderão continuar a ser propagadas;\n\n2) Técnicas, incluindo a microinjecção, a macroinjecção e o microencapsulamento, que envolvam a introdução directa num organismo de material geneticamente transmissível preparado fora desse organismo;\n\n3) Técnicas de fusão celular (incluindo a fusão protoplástica) ou de hibridação em que células viáveis com combinações novas de material geneticamente transmissível sejam formadas através da fusão de duas ou mais células através de meios ou métodos que não ocorrem naturalmente."
+  },
+  "167901759": {
+   "fragment_id": "167902679",
+   "type": 4,
+   "heading": "Parte 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte 2\n\nTécnicas referidas na alínea b), segunda subalínea, do artigo 2.º, cujos resultados não são considerados modificações genéticas desde que não envolvam a utilização de moléculas recombinantes de ácidos nucleicos ou de organismos geneticamente modificados obtidos por técnicas/métodos diferentes dos excluídos pelo anexo I-B:\n\n1) Fertilização in vitro;\n\n2) Processos naturais como a conjugação, a transdução e a transformação;\n\n3) Indução da poliploidia."
+  },
+  "167901760": {
+   "fragment_id": "167902680",
+   "type": 14,
+   "heading": "Anexo I-B — Técnicas referidas na alínea a) do artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I-B — Técnicas referidas na alínea a) do artigo 3.º\n\nFicam excluídos do âmbito da presente directiva os organismos resultantes das seguintes técnicas/métodos de modificação genética, desde que estes não envolvam a utilização de moléculas recombinantes de ácidos nucleicos ou de organismos geneticamente modificados diferentes dos obtidos por uma ou mais das técnicas/métodos:\n\n1) Mutagénese;\n\n2) Fusão celular (incluindo a fusão protoplástica) de células vegetais de organismos resultantes que podem trocar material genético através dos métodos tradicionais de cultura."
+  },
+  "167901761": {
+   "fragment_id": "167902681",
+   "type": 14,
+   "heading": "Anexo II — Princípios aplicáveis à avaliação dos riscos ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Princípios aplicáveis à avaliação dos riscos ambientais\n\nNo presente anexo é descrito em termos gerais o objectivo a cumprir, os elementos a considerar e os princípios e metodologia gerais a seguir na avaliação dos riscos ambientais referida na alínea b) do artigo 5.º e na alínea b) do artigo 16.º O presente anexo será completado com notas de orientação a serem fornecidas pela autoridade competente.\n\nA fim de permitir uma mesma interpretação dos termos «directa ou indirectamente, a curto ou a longo prazo», aquando da aplicação do disposto no presente anexo, sem prejuízo de novas orientações na matéria e em especial relativamente ao grau em que os efeitos indirectos poderão e deverão ser considerados, esses termos são definidos como se segue:\n\n«Efeitos directos» - efeitos primários sobre a saúde humana ou sobre o ambiente, resultantes do próprio OGM e não de qualquer sequência de fenómenos interligados por uma relação de causa-efeito;\n\n«Efeitos indirectos» - efeitos sobre a saúde humana ou sobre o ambiente resultantes de uma sequência de fenómenos interligados por uma relação de causa-efeito, através de mecanismos, tais como a interacção com outros organismos, a transmissão de material genético, ou mudanças na utilização a que o OGM se destina ou na sua gestão. Os efeitos indirectos são susceptíveis de só poderem ser observados a longo prazo;\n\n«Efeitos a curto prazo» - efeitos sobre a saúde humana ou sobre o ambiente, observáveis durante o período de libertação do OGM. Os efeitos imediatos podem ser directos ou indirectos;\n\n«Efeitos a longo prazo» - efeitos sobre a saúde humana ou sobre o ambiente, não observáveis durante o período de libertação do OGM mas observáveis, sob a forma de efeito directo ou indirecto, quer uma vez terminada a libertação quer numa fase posterior.\n\nUm princípio geral de avaliação do risco ambiental consistirá também numa análise dos «efeitos cumulativos a longo prazo» relevantes para a libertação e colocação no mercado. Por «efeitos cumulativos a longo prazo» entendem-se os efeitos cumulados de autorizações na saúde humana e no ambiente, incluindo inter alia a flora e a fauna, a fertilidade do solo, a degradação dos materiais orgânicos no solo, a cadeia alimentar humana e animal, a diversidade biológica, a saúde dos animais e problemas de resistência aos antibióticos.\n\nA) Objectivo\n\nO objectivo de uma avaliação dos riscos ambientais é definir e avaliar, caso a caso, os potenciais efeitos adversos sobre a saúde humana e sobre o ambiente, quer directos quer indirectos a curto e a longo prazos, da libertação voluntária do OGM ou da sua colocação no mercado. A avaliação dos riscos ambientais deverá ser realizada com vista a apurar se há necessidade de gestão de riscos e, na afirmativa, a determinar quais os métodos mais adequados a utilizar.\n\nB) Princípios gerais\n\nDe acordo com o princípio de precaução, deverão observar-se os seguintes princípios gerais ao realizar cada avaliação dos riscos ambientais:\n\nAs características encontradas no OGM ou na utilização deste último potencialmente susceptíveis de provocar efeitos adversos deverão ser comparadas com as do organismo não modificado no qual teve origem e com as da utilização deste último em situações equivalentes;\n\nA avaliação dos riscos ambientais deverá ser realizada de forma cientificamente correcta e transparente, assente nos dados científicos e técnicos disponíveis;\n\nA avaliação dos riscos ambientais deverá ser realizada caso a caso, o que significa que a informação necessária pode variar consoante o tipo do OGM visado, a utilização a que o mesmo se destina e o eventual meio receptor, tendo em conta, entre outros aspectos, os OGM já presentes em tal meio;\n\nA avaliação dos riscos ambientais poderá ter de ser revista se surgirem novas informações sobre o OGM e seus efeitos na saúde humana ou no ambiente, a fim de permitir determinar se:\n\nHouve alteração do risco;\n\nHá ou não necessidade de corrigir a gestão do risco, em conformidade.\n\nC) Metodologia\n\nC1) Características dos OGM e das libertações de OGM\n\nAo ser realizada a avaliação dos riscos ambientais, deverão ser tomados em consideração todos os dados técnicos e científicos, consoante os casos, referentes às características:\n\nDo organismo ou organismos receptores ou parentais;\n\nDas modificações genéticas operadas, tanto por inclusão como por delecção de material genético, e a informação relevante sobre os organismos vector e dador;\n\nDo OGM;\n\nDa libertação ou utilização previstas e respectiva escala;\n\nDo eventual meio receptor;\n\nDa interacção entre os factores acima referidos.\n\nSerão de utilidade para a avaliação dos riscos ambientais quaisquer informações sobre libertações de organismos semelhantes ou que apresentem características genéticas semelhantes e sobre a sua interacção com ambientes semelhantes.\n\nC2) Fases da avaliação dos riscos ambientais\n\nAo serem apuradas as conclusões da avaliação dos riscos ambientais referidas na alínea b) do artigo 5.º e na alínea b) do artigo 16.º, deverão ser focados todos os aspectos que adiante se referem.\n\n1) Identificação das características susceptíveis de induzir efeitos adversos\n\nDeverão ser definidas todas as características do OGM decorrentes da modificação genética susceptíveis de efeitos adversos sobre a saúde humana e sobre o ambiente. Para o apuramento dos potenciais efeitos adversos decorrentes da modificação genética será útil proceder a uma comparação, em condições de libertação ou utilização semelhantes, das características do OGM com as do organismo não modificado. Não se deverá nunca negligenciar qualquer potencial efeito adverso, no pressuposto de que é improvável.\n\nOs potenciais efeitos adversos dos OGM podem variar consoante os casos e podem incluir:\n\nDoenças e efeitos alergénicos ou tóxicos para o ser humano [v., por exemplo, os pontos II, A), 11), e II, C), 2), i), do anexo III-A e B), 7), do anexo III-B];\n\nDoenças e efeitos tóxicos e, eventualmente, alergénicos para animais e plantas [v., por exemplo, pontos II, A), 11), e II, C), 2), i), do anexo III-A e B), 7), e D), 8), do anexo III-B];\n\nEfeitos sobre a dinâmica das populações de espécies presentes no meio receptor e sobre a diversidade genética de cada uma dessas populações [v., por exemplo, ponto IV, B), 8), 9) e 12), do anexo III-A];\n\nAlterações na vulnerabilidade aos agentes patogénicos, facilitando a propagação de doenças infecciosas e ou criando novos reservatórios genéticos ou vectores;\n\nComprometimento da eficácia dos cuidados médicos, veterinários ou fitossanitários de carácter profiláctico ou terapêutico, por exemplo, mediante a transferência de genes de resistência aos antibióticos utilizados na medicina humana ou veterinária [v., por exemplo, pontos II, A), 11), c), e II, C), 2), i) e iv), do anexo III-A];\n\nEfeitos sobre a biogeoquímica (ciclos biogeoquímicos) e em especial sobre a reciclagem do carbono e do azoto em virtude de alterações na forma de decomposição das matérias orgânicas presentes no solo [v., por exemplo, pontos II, A), 11), f), e IV, B), 15) do anexo III-A e D), 11), do anexo III-B].\n\nPoderão, directa ou indirectamente, ocorrer efeitos adversos através de fenómenos de:\n\nPropagação do ou dos OGM no ambiente;\n\nTransmissão do material genético inserido para outros organismos ou para o mesmo organismo, geneticamente modificado ou não;\n\nInstabilidade fenotípica e genética;\n\nInteracções com outros organismos;\n\nModificação da gestão, incluindo, eventualmente, das práticas agrícolas.\n\n2) Avaliação das potenciais consequências de cada efeito adverso, caso ocorra\n\nDeverá ser avaliada a dimensão das consequências de cada efeito potencialmente adverso, no pressuposto de que o mesmo ocorrerá. A dimensão de tais consequências dependerá provavelmente do meio em que o(s) OGM deverá(ão) ser libertado(s) e da forma de libertação prevista.\n\n3) Avaliação da probabilidade de ocorrência de cada potencial efeito adverso\n\nUm dos principais factores que determinam a probabilidade ou eventualidade de ocorrência de um efeito adverso reside nas características do meio em que o(s) OGM se destina(m) a ser libertado(s) e na forma de libertação prevista.\n\n4) Estimativa do risco inerente a cada característica conhecida do OGM\n\nSempre que possível deverá ser efectuada, à luz dos mais avançados conhecimentos científicos, uma estimativa dos riscos para a saúde humana ou o ambiente colocados por cada característica conhecida do OGM potencialmente apta a provocar efeitos adversos, combinando a probabilidade de ocorrência destes últimos com a magnitude das consequências da sua eventual ocorrência.\n\n5) Aplicação de estratégias de gestão dos riscos ligados à libertação deliberada de OGM ou à sua comercialização\n\nA avaliação dos riscos poderá identificar riscos que careçam de gestão e de um estudo sobre a melhor forma de os controlar, implicando a definição de uma estratégia de gestão de riscos.\n\n6) Determinação do risco global do OGM\n\nA avaliação do risco global do OGM deverá ser efectuada tendo em conta todas as estratégias de gestão de riscos eventualmente propostas.\n\nD) Conclusões sobre o potencial impacte ambiental da libertação de OGM ou da sua colocação no mercado\n\nAs informações relativas aos aspectos adiante enumerados nos pontos D1) ou D2) obtidas com base numa avaliação dos riscos ambientais efectuada em conformidade com os princípios e a metodologia descritos nos pontos B) e C), deverão ser incluídas, sempre que pertinente, nas notificações, a fim de ajudar a determinar o potencial impacte ambiental resultante da libertação de OGM ou da sua colocação no mercado.\n\nD1) No caso dos OGM que não sejam plantas superiores\n\n1 - Probabilidade de o OGM se tornar persistente e invasivo em habitats naturais, nas condições da libertação proposta.\n\n2 - Eventuais vantagens ou inconvenientes selectivos do OGM e probabilidade de se concretizarem nas condições da libertação proposta.\n\n3 - Potencial de transmissão de genes para outras espécies nas condições da libertação proposta para o OGM e eventuais vantagens ou inconvenientes selectivos assim adquiridos por tais espécies.\n\n4 - Se pertinente, potencial impacte a curto e ou a longo prazos das interacções directas e indirectas entre o OGM e os organismos alvo.\n\n5 - Potencial impacte a curto e ou a longo prazos das interacções directas e indirectas entre o OGM e outros organismos não alvo e sobre os níveis populacionais de organismos seus concorrentes, presas, hospedeiros, simbiontes, predadores, parasitas e agentes patogénicos.\n\n6 - Possíveis efeitos a curto e ou a longo prazos sobre a saúde humana resultantes das potenciais interacções directas e indirectas do OGM com os seres humanos que durante a sua libertação o manipulem, com ele tenham contacto ou dele se aproximem.\n\n7 - Possíveis efeitos a curto e ou a longo prazos sobre a saúde animal e consequências para a cadeia alimentar animal/humana resultantes do consumo do OGM e seus derivados destinados à alimentação animal.\n\n8 - Possíveis efeitos a curto e ou a longo prazos sobre os processos biogeoquímicos resultantes das potenciais interacções directas e indirectas do OGM com outros organismos - alvo ou não - que dele se encontrem próximos ao ser libertado.\n\n9 - Possíveis incidências ambientais, tanto a curto e ou a longo prazos como directas e indirectas, de técnicas especificamente utilizadas na gestão do OGM diferentes das utilizadas com organismos não modificados geneticamente.\n\nD2) No caso das plantas superiores geneticamente modificadas (PSGM)\n\n1 - Probabilidade de as PSGM se tornarem mais persistentes nos habitats agrícolas e mais invasivas nos habitats naturais que as plantas receptoras ou parentais.\n\n2 - Quaisquer vantagens ou desvantagens selectivas adquiridas pelas PSGM.\n\n3 - Potencial da PSGM para, nas condições em que é plantada, transmitir genes à mesma espécie ou a outras espécies vegetais com ela sexualmente compatíveis, e quaisquer vantagens ou inconvenientes selectivos assim adquiridos por estas espécies.\n\n4 - Se pertinente, potencial impacte ambiental a curto e ou a longo prazos resultante das interacções directas e indirectas da PSGM com organismos alvo, como por exemplo predadores, parasitóides e agentes patogénicos.\n\n5 - Possível impacte ambiental a curto e ou a longo prazos resultante das interacções directas e indirectas da PSGM com organismos não alvo (e, entre estes, considerando igualmente os que estabelecem interacções com os organismos alvo) e impacte sobre os níveis populacionais de organismos concorrentes, herbívoros, simbiontes (se oportuno), parasitas e agentes patogénicos.\n\n6 - Possíveis efeitos a curto e ou a longo prazos sobre a saúde humana resultantes das potenciais interacções directas e indirectas da PSGM com os seres humanos que durante a sua libertação a manipulem, com ela tenham contacto ou dela se aproximem.\n\n7 - Possíveis efeitos a curto e ou a longo prazos sobre a saúde animal e consequências para a cadeia alimentar animal/humana resultantes do consumo do OGM e seus derivados destinados à alimentação animal.\n\n8 - Possíveis efeitos a curto e ou a longo prazos sobre os processos biogeoquímicos resultantes das potenciais interacções directas e indirectas do OGM com outros organismos - alvo ou não - que dele se encontrem próximos ao ser libertado.\n\n9 - Possíveis incidências ambientais, tanto a curto e ou a longo prazos como directas e indirectas, das técnicas específicas de cultivo, gestão e colheita utilizadas para a PSGM, sempre que diferentes das utilizadas com plantas superiores não modificadas geneticamente."
+  },
+  "167901762": {
+   "fragment_id": "167902682",
+   "type": 14,
+   "heading": "Anexo III — Informações exigidas na notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Informações exigidas na notificação\n\nUma notificação referida nos capítulos II e III do presente decreto-lei deve incluir, quando oportuno, a informação definida abaixo, nos subanexos.\n\nNem todos os pontos referidos se aplicarão a cada caso. Será normal que certas notificações incluam apenas um determinado subconjunto de considerações, apropriado para a situação em causa.\n\nÉ também possível que o nível de pormenor exigido em resposta a cada subconjunto de considerações varie de acordo com a natureza e escala da libertação proposta.\n\nA futura evolução das modificações genéticas poderá exigir a adaptação do presente anexo ao progresso técnico e científico, ou a elaboração de notas de orientação sobre o mesmo. A experiência que a Comunidade vier a acumular com as notificações relativas à libertação de determinados OGM poderá possibilitar uma melhor diferenciação dos requisitos em matéria de informação para os diferentes tipos de OGM, como os organismos unicelulares, os peixes ou os insectos, ou para a utilização específica de OGM, como no desenvolvimento de vacinas.\n\nO dossier deverá conter igualmente a descrição dos métodos utilizados ou qualquer referência a métodos normalizados ou internacionalmente consagrados, bem como a designação do organismo ou organismos responsáveis pela execução dos estudos.\n\nO anexo III-A é aplicável à libertação de todos os tipos de organismos geneticamente modificados, com excepção das plantas superiores. O anexo III-B é aplicável à libertação de plantas superiores geneticamente modificadas.\n\nPor «plantas superiores» entende-se o taxon espermatófitas (gimnospérmicas e angiospérmicas)."
+  },
+  "167901763": {
+   "fragment_id": "167902683",
+   "type": 14,
+   "heading": "Anexo III-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III-A\n\nInformações exigidas nas notificações relativas à libertação de OGM com excepção das plantas superiores\n\nI - Informações gerais:\n\nA) Nome e endereço do notificador (empresa ou instituto);\n\nB) Nome, qualificações e experiência do(s) cientista(s) responsável(eis);\n\nC) Título do projecto.\n\nII - Informações relativas ao OGM:\n\nA) Características do: a) dador; b) receptor, ou c) se pertinente, organismo parental:\n\n1) Nome científico;\n\n2) Taxonomia;\n\n3) Outros nomes (designação comum, nome da estirpe, etc.);\n\n4) Marcadores fenotípicos e genéticos;\n\n5) Grau de parentesco entre o dador e o receptor ou entre os organismos parentais;\n\n6) Descrição das técnicas de identificação e detecção;\n\n7) Sensibilidade, fiabilidade (em termos quantitativos) e especificidade das técnicas de detecção e identificação;\n\n8) Descrição da distribuição geográfica e do habitat natural do organismo, incluindo informação sobre os seus predadores, presas, parasitas e concorrentes, simbiontes e hospedeiros naturais;\n\n9) Organismos em relação aos quais se sabe da ocorrência de transferência de material genético em condições naturais;\n\n10) Verificação da estabilidade genética do organismo e dos factores que a afectam;\n\n11) Características patológicas, ecológicas e fisiológicas:\n\na) Classificação do risco de acordo com as regras comunitárias em vigor para a protecção da saúde humana e ou do ambiente;\n\nb) Tempo de geração em ecossistemas naturais, ciclo de reprodução sexuada e assexuada;\n\nc) Informação sobre a sobrevivência, incluindo a sasonabilidade e a capacidade para formar estruturas de sobrevivência;\n\nd) Patogenicidade: infectividade, toxigenicidade, virulência, alergenicidade, vector de agentes patogénicos, vectores possíveis, gama de hospedeiros, incluindo organismos que não o organismo alvo. Possibilidade de activação de vírus latentes (provírus). Capacidade para colonizar outros organismos;\n\ne) Resistência aos antibióticos e potencial utilização destes no ser humano e nos organismos domésticos para fins profilácticos e terapêuticos;\n\nf) Participação em processos ambientais: produção primária, utilização de nutrientes, decomposição de matéria orgânica, respiração, etc.;\n\n12) Natureza dos vectores nativos:\n\na) Sequência;\n\nb) Frequência de mobilização;\n\nc) Especificidade;\n\nd) Presença de genes que conferem resistência;\n\n13) Historial de modificações genéticas anteriores;\n\nB) Características do vector:\n\n1) Natureza e origem do vector;\n\n2) Sequência dos transposões, dos vectores e de outros segmentos genéticos não codificantes utilizados para construir o OGM e nele fazer funcionar o vector e a sequência inserida;\n\n3) Frequência de mobilização do vector inserido e ou capacidade de transferência genética, bem como métodos para a respectiva determinação;\n\n4) Informação que indique em que medida o vector se limita ao DNA necessário para executar a função pretendida;\n\nC) Características do organismo modificado:\n\n1) Informações relativas à modificação genética:\n\na) Métodos utilizados para a modificação;\n\nb) Métodos utilizados para a construção e introdução da(s) sequência(s) no receptor ou para a delecção de uma sequência;\n\nc) Descrição da sequência inserida e ou da construção do vector;\n\nd) Pureza da sequência inserida, em termos de ausência de sequências desconhecidas, e informação que indique em que medida a sequência inserida se limita ao DNA necessário para executar a função pretendida;\n\ne) Métodos e critérios de selecção;\n\nf) Sequência, identidade funcional e localização do(s) segmento(s) de ácidos nucleicos modificado(s)/inserido(s)/suprimido(s) em causa, com especial referência a eventuais sequências prejudiciais conhecidas;\n\n2) Informações sobre o OGM na sua forma final:\n\na) Descrição da(s) característica(s) genética(s) ou fenotípicas e, em especial, de quaisquer novas características que possam passar a exprimir-se ou a deixar de se exprimir;\n\nb) Estrutura e quantidade de qualquer ácido nucleico do vector e ou do dador que resulte como produto residual da construção do organismo modificado;\n\nc) Estabilidade do organismo em termos de características genéticas;\n\nd) Taxa e nível de expressão do novo material genético. Método e sensibilidade da medição;\n\ne) Actividade da(s) proteína(s) expressa(s);\n\nf) Descrição das técnicas de identificação e detecção, incluindo as técnicas de identificação e detecção da sequência inserida e do vector;\n\ng) Sensibilidade, fiabilidade (em termos quantitativos) e especificidade das técnicas de detecção e identificação;\n\nh) Antecedentes de libertações ou utilizações do mesmo OGM;\n\ni) Considerações em matéria de saúde humana e animal, bem como das plantas:\n\ni) Efeitos tóxicos ou alergénicos dos OGM e ou dos seus produtos metabólicos;\n\nii) Comparação do organismo modificado, em termos de patogenicidade, com o dador, com o receptor ou (se oportuno) com o organismo parental;\n\niii) Capacidade de colonização;\n\niv) Se o organismo for patogénico para o ser humano imunocompetente:\n\nDoenças causadas e mecanismo de patogenicidade, incluindo a invasividade e virulência;\n\nTransmissibilidade;\n\nDose infecciosa;\n\nGama de hospedeiros, possibilidades de alteração;\n\nPossibilidades de sobrevivência fora do hospedeiro humano;\n\nPresença de vectores ou meios de difusão;\n\nEstabilidade biológica;\n\nPadrões de resistência aos antibióticos;\n\nAlergenicidade;\n\nDisponibilidade de terapias adequadas;\n\nv) Outros riscos.\n\nIII - Informações relativas às condições de libertação e ao meio receptor:\n\nA) Informações sobre a libertação:\n\n1) Descrição da libertação deliberada proposta, incluindo o seu objectivo e os produtos previstos;\n\n2) Datas previstas para as libertações e planeamento temporal da experiência, incluindo a frequência e duração das libertações;\n\n3) Preparação do local antes da libertação;\n\n4) Dimensões do local;\n\n5) Método a utilizar para a libertação;\n\n6) Quantidades do OGM a libertar;\n\n7) Perturbação do local (tipo e método de cultivo, de extracção, de irrigação ou outras actividades);\n\n8) Medidas aplicadas durante a libertação para protecção dos trabalhadores;\n\n9) Tratamento do local pós-libertação;\n\n10) Técnicas previstas para a eliminação ou inactivação dos OGM no fim da experiência;\n\n11) Informação e resultados de anteriores libertações do OGM, em especial a diferentes escalas e em diferentes ecossistemas;\n\nB) Informações sobre o ambiente (no local e no ambiente em sentido lato):\n\n1) Localização geográfica e referência da grelha do(s) local(ais) (nas notificações ao abrigo do capítulo III, o local de libertação corresponde às zonas previstas para a utilização do produto);\n\n2) Proximidade física ou biológica de seres humanos e de outros biota significativos;\n\n3) Proximidade de biótopos significativos, zonas protegidas ou instalações de água potável;\n\n4) Características climáticas da(s) região(ões) mais passíveis de serem afectadas;\n\n5) Características geográficas, geológicas e pedológicas;\n\n6) Flora e fauna, incluindo culturas, rebanhos animais e espécies migratórias;\n\n7) Descrição dos ecossistemas alvo e não alvo mais passíveis de serem afectados;\n\n8) Comparação do habitat natural do organismo receptor com o(s) local(ais) proposto(s) para a libertação;\n\n9) Desenvolvimento previsto ou alterações já conhecidas da utilização dos solos na região que sejam susceptíveis de influenciar o impacte ambiental da libertação.\n\nIV - Informações relativas às interacções dos OGM com o ambiente:\n\nA) Características que afectem a sobrevivência, multiplicação e dispersão:\n\n1) Características biológicas que afectem a sobrevivência, multiplicação e dispersão;\n\n2) Condições ambientais conhecidas ou previstas que possam afectar a sobrevivência, multiplicação e dispersão (vento, água, solos, temperatura, pH, etc.);\n\n3) Sensibilidade a agentes específicos;\n\nB) Interacções com o ambiente:\n\n1) Habitat previsto dos OGM;\n\n2) Estudos do comportamento e características dos OGM e seu impacte ecológico, realizados em ambiente natural simulado, como, por exemplo, microcosmos, salas de cultura, estufas;\n\n3) Capacidade de transferência genética:\n\na) Transferência pós-libertação do material genético dos OGM para outros organismos nos ecossistemas afectados;\n\nb) Transferência pós-libertação do material genético de organismos nativos para os OGM;\n\n4) Probabilidades de selecção pós-libertação que conduzam à expressão de características genéticas inesperadas e ou indesejáveis no organismo modificado;\n\n5) Medidas aplicadas para garantir e verificar a estabilidade genética. Descrição das características genéticas que possam impedir ou minimizar a disseminação do material genético. Métodos de verificação da estabilidade genética;\n\n6) Itinerários de disseminação biológica, modos conhecidos ou potenciais de interacção com o agente de disseminação, incluindo a inalação, ingestão, contacto superficial, construção de galerias, etc.;\n\n7) Descrição dos ecossistemas em que o OGM poderá ser disseminado;\n\n8) Potencial de aumento excessivo da população no ambiente;\n\n9) Vantagem competitiva dos OGM em relação ao organismo receptor ou parental não modificados;\n\n10) Se pertinente, identificação e descrição dos organismos alvo;\n\n11) Se pertinente, mecanismo e resultados da interacção esperada dos OGM libertados com o organismo alvo;\n\n12) Identificação e descrição dos organismos não alvo que poderão ser adversamente afectados pela libertação do OGM e previsão dos mecanismos inerentes à interacção adversa eventualmente apurada;\n\n13) Probabilidade de alteração das interacções biológicas ou da gama de hospedeiros a seguir à libertação;\n\n14) Interacções conhecidas ou previstas com organismos não alvo no ambiente, incluindo com concorrentes, presas, hospedeiros, simbiontes, predadores, parasitas e agentes patogénicos;\n\n15) Participação conhecida ou prevista em processos biogeoquímicos;\n\n16) Outras eventuais interacções com o ambiente.\n\nV - Informações sobre a monitorização, controlo e tratamento de resíduos e planos de emergência:\n\nA) Técnicas de monitorização:\n\n1) Métodos de rastreio dos OGM e de monitorização dos seus efeitos;\n\n2) Especificidade (para identificação dos OGM e para os distinguir do dador, do receptor ou, quando necessário, dos organismos parentais), sensibilidade e fiabilidade das técnicas de monitorização;\n\n3) Técnicas de detecção das transferências do material genético doado para outros organismos;\n\n4) Duração e frequência da monitorização;\n\nB) Controlo da libertação:\n\n1) Métodos e procedimentos para evitar e ou minimizar a disseminação dos OGM para além do local da libertação ou da zona designada para a sua utilização;\n\n2) Métodos e procedimentos para a protecção do local contra a intrusão de indivíduos não autorizados;\n\n3) Métodos e procedimentos para impedir outros organismos de entrar no local;\n\nC) Tratamento de resíduos:\n\n1) Tipo de resíduos gerados;\n\n2) Quantidade prevista desses resíduos;\n\n3) Descrição dos tratamentos previstos;\n\nD) Planos de emergência:\n\n1) Métodos e procedimentos para controlo dos OGM em caso de disseminação inesperada;\n\n2) Métodos para a descontaminação das zonas afectadas, ou seja, erradicação dos OGM;\n\n3) Métodos para a eliminação ou saneamento de plantas, animais, solos, etc., que tenham sido expostos durante ou após a disseminação;\n\n4) Métodos para o isolamento da zona afectada pela propagação;\n\n5) Planos para proteger a saúde humana e o ambiente no caso da ocorrência de efeitos indesejáveis;"
+  },
+  "167901764": {
+   "fragment_id": "167902684",
+   "type": 14,
+   "heading": "Anexo III-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III-B\n\nInformações exigidas nas notificações relativas à libertação de plantas superiores geneticamente modificadas\n\n(gimnospérmicas e angiospérmicas)\n\nA) Informações gerais:\n\n1) Nome e endereço do notificador (empresa ou instituto);\n\n2) Nome, qualificações e experiência do(s) cientista(s) responsável(eis);\n\n3) Título do projecto.\n\nB) Informações relativas: a) ao receptor, ou b) se pertinente, às plantas parentais:\n\n1) Nome completo:\n\na) Família;\n\nb) Género;\n\nc) Espécie;\n\nd) Subespécie;\n\ne) Cultivar/linhagem;\n\nf) Designação comum;\n\n2):\n\na) Informação relativa à reprodução:\n\ni) Modo(s) de reprodução;\n\nii) Quando existam, factores específicos que afectem a reprodução;\n\niii) Tempo de geração;\n\nb) Compatibilidade sexual com outras espécies de plantas cultivadas ou selvagens e distribuição na Europa das espécies compatíveis;\n\n3) Capacidade de sobrevivência:\n\na) Capacidade para formar estruturas de sobrevivência ou dormência;\n\nb) Quando existam, factores específicos que afectem a capacidade de sobrevivência;\n\n4) Disseminação:\n\na) Forma e extensão da disseminação (por exemplo, estimativa do modo como o pólen e ou as sementes viáveis declinam com a distância);\n\nb) Quando existam, factores específicos que afectem a disseminação;\n\n5) Distribuição geográfica da planta;\n\n6) No caso de espécies de plantas que não sejam normalmente cultivadas nos Estados membros, descrição do habitat natural da planta, incluindo informação sobre os seus predadores, parasitas, concorrentes naturais e simbiontes;\n\n7) Outras potenciais interacções, pertinentes para o OGM, da planta com organismos que não sejam plantas e que existam no ecossistema onde é geralmente cultivada ou noutros locais, incluindo informação sobre eventuais efeitos tóxicos para o ser humano, para os animais e para outros organismos.\n\nC) Informações relativas à modificação genética:\n\n1) Descrição dos métodos utilizados para a modificação genética;\n\n2) Natureza e origem do vector utilizado;\n\n3) Dimensão, fonte (nome) do(s) organismo(s) dador(es) e função pretendida de cada fragmento constitutivo da sequência que se pretende inserir.\n\nD) Informações relativas à planta geneticamente modificada:\n\n1) Descrição das características introduzidas ou modificadas;\n\n2) Informação sobre as sequências realmente inseridas/suprimidas:\n\na) Dimensão e estrutura da sequência inserida e métodos utilizados para a sua caracterização, incluindo informação sobre quaisquer partes do vector introduzido na PSGM ou sobre qualquer vector de DNA alienígeno residualmente presente na PSGM;\n\nb) Em caso de delecção, dimensão e função da região suprimida;\n\nc) Número de cópias da sequência inserida;\n\nd) Localização da sequência inserida nas células da planta (integrada nos cromossomas, cloroplastos, mitocôndrias, ou mantida numa forma não integrada) e métodos para a sua determinação;\n\n3) Informações sobre a expressão da sequência inserida:\n\na) Informação sobre a expressão evolucionária da sequência inserida durante o ciclo de vida da planta e métodos utilizados para a sua caracterização;\n\nb) Partes da planta onde a sequência inserida se exprime (p. ex.: raízes, haste, pólen, etc.);\n\n4) Informação sobre o modo como a planta geneticamente modificada difere da planta receptora em termos de:\n\na) Modo e ou taxa de reprodução;\n\nb) Disseminação;\n\nc) Capacidade de sobrevivência;\n\n5) Estabilidade genética da sequência inserida e estabilidade fenotípica da PSGM;\n\n6) Qualquer alteração da capacidade de transferência do material genético das PSGM para outros organismos;\n\n7) Informações sobre quaisquer efeitos tóxicos, alergénicos ou quaisquer outros efeitos prejudiciais para a saúde humana resultantes da modificação genética;\n\n8) Informações sobre a segurança da PSGM para a saúde animal, especialmente no que se refere a quaisquer efeitos tóxicos, alergénicos ou a quaisquer outros efeitos prejudiciais resultantes da modificação genética, quando a PSGM for utilizada em alimentos para animais;\n\n9) Mecanismo de interacção das plantas geneticamente modificadas com os organismos alvo se pertinente;\n\n10) Potenciais alterações das interacções da PSGM com organismos não alvo resultantes da modificação genética;\n\n11) Potenciais interacções com o ambiente abiótico;\n\n12) Descrição das técnicas de detecção e identificação das plantas geneticamente modificadas;\n\n13) Informações sobre anteriores libertações das plantas geneticamente modificadas, se pertinente.\n\nE) Informações relativas ao local de libertação (só para as notificações apresentadas nos termos dos artigos 5.º e 9.º):\n\n1) Localização e dimensão do(s) local(ais) da libertação;\n\n2) Descrição do ecossistema no(s) local(ais) de libertação, incluindo os respectivos clima, flora e fauna;\n\n3) Presença de organismos selvagens aparentados ou de espécies cultivadas sexualmente compatíveis;\n\n4) Proximidade de biótopos oficialmente reconhecidos ou de zonas protegidas que possam ser afectados.\n\nF) Informações relativas à libertação (só para as notificações apresentadas nos termos dos artigos 5.º e 9.º):\n\n1) Objectivo da libertação;\n\n2) Data(s) e duração previstas da libertação;\n\n3) Método de libertação das plantas geneticamente modificadas;\n\n4) Método de preparação e gestão do local de libertação, antes, durante e após a libertação, incluindo práticas de cultivo e métodos de colheita;\n\n5) Número aproximado de plantas (ou número de plantas por metro quadrado).\n\nG) Informações sobre planos de monitorização, controlo, tratamento pós-libertação e tratamento de resíduos (só para as notificações apresentadas nos termos dos artigos 5.º e 9.º):\n\n1) Precauções tomadas:\n\na) Distância em relação a espécies sexualmente compatíveis, quer organismos aparentados selvagens quer plantas cultivadas;\n\nb) Medidas para minimizar/impedir a dispersão de qualquer órgão reprodutor das PSGM (p. ex.: pólen, sementes, tubérculos);\n\n2) Descrição dos métodos de tratamento do local pós-libertação;\n\n3) Descrição dos métodos de tratamento pós-libertação das plantas geneticamente modificadas, incluindo os seus resíduos;\n\n4) Descrição dos planos e técnicas de monitorização;\n\n5) Descrição dos eventuais planos de emergência;\n\n6) Métodos e processos de protecção do local."
+  },
+  "167901765": {
+   "fragment_id": "167902685",
+   "type": 14,
+   "heading": "Anexo IV — Informações adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Informações adicionais\n\nO presente anexo descreve, em termos gerais, as informações adicionais a fornecer em caso de notificação para colocação no mercado, bem como informações relativas aos requisitos de rotulagem de produtos a colocar no mercado que contenham ou sejam constituídos por OGM e de OGM excluídos ao abrigo da alínea d), segunda subalínea, do artigo 2.º Serão completadas por notas de orientação respeitantes, entre outros aspectos, à descrição de como deve ser utilizado o produto, a serem fornecidas pela autoridade competente. A rotulagem dos organismos excluídos requerida pelo artigo 29.º será respeitada através de recomendações adequadas e restrições acerca da utilização do produto:\n\nA) A notificação para colocação no mercado de um produto que contenha ou seja constituído por OGM deve conter as seguintes informações, para além das mencionadas no anexo III:\n\n1) Designações comerciais propostas para os produtos e nomes dos OGM que contêm, bem como qualquer identificação específica, nome ou código usado pelo notificador para identificar o OGM. Após a autorização, qualquer nova designação comercial deve ser fornecida à autoridade competente;\n\n2) Nome e endereço completo da pessoa estabelecida na Comunidade que é responsável pela colocação no mercado, quer seja o fabricante, o importador ou o distribuidor;\n\n3) Nome e endereço completo do(s) fornecedor(es) de amostras de controlo;\n\n4) Descrição de como deve ser usado o produto que contenha ou seja constituído por OGM. Devem ser realçadas as diferenças de utilização ou de tratamento do OGM em relação a produtos similares que não sejam geneticamente modificados;\n\n5) Descrição da(s) área(s) geográfica(s) e dos tipos de ambiente em que se pretende utilizar o produto no território da Comunidade, incluindo, se possível, uma estimativa da escala de utilização em cada área;\n\n6) Categorias de utilizadores a que se destina o produto: indústria, agricultura e actividades profissionais, consumo pelo público em geral;\n\n7) Informações sobre a modificação genética, para efeitos de introdução num ou mais registos de modificações de organismos, que possam ser usadas para detectar e identificar produtos específicos que contenham ou sejam constituídos por OGM a fim de facilitar o controlo e a inspecção pós-venda. Essas informações devem incluir, quando pertinente, o depósito de amostras do OGM, ou respectivo material genético, junto da autoridade competente e pormenores sobre as sequências de nucleótidos ou outros elementos necessários para identificar o produto que contenha ou seja constituído por OGM e respectiva progenitura, nomeadamente a metodologia para detectar e identificar o produto, incluindo dados experimentais que demonstrem a especificidade da metodologia. Devem ser identificadas as informações que, por motivos de confidencialidade, não podem ser colocadas na parte do registo que é acessível ao público;\n\n8) Rotulagem, num rótulo ou num documento de acompanhamento, proposta, que deve incluir, pelo menos numa forma resumida, um nome comercial do produto, uma declaração de que «este produto contém organismos geneticamente modificados», o nome do OGM e as informações referidas no n.º 2. A rotulagem deve indicar como ter acesso às informações disponíveis na parte do registo que é acessível ao público;\n\nB) Quando pertinente, devem ser fornecidas na notificação as informações a seguir indicadas, para além das mencionadas no ponto A), de acordo com o artigo 16.º do presente decreto-lei:\n\n1) Medidas a tomar em caso de libertação imprevista ou má utilização;\n\n2) Instruções ou recomendações específicas relativas ao armazenamento e à manipulação;\n\n3) Instruções específicas para a realização de controlos e para a comunicação das informações ao notificador e, quando requerido, à autoridade competente, por forma que as autoridades competentes possam ser eficazmente informadas de quaisquer efeitos adversos. Estas instruções devem ser coerentes com as previstas na parte C) do anexo VII;\n\n4) Restrições propostas para a utilização aprovada do OGM, que indiquem, por exemplo, onde e para que fins o produto pode ser utilizado;\n\n5) Embalagem proposta;\n\n6) Estimativa da produção comunitária e ou das importações para a Comunidade;\n\n7) Rotulagem suplementar proposta. Esta poderá incluir, pelo menos numa forma resumida, as informações mencionadas nos pontos A), 4) e 5), e B), 1), 2), 3) e 4);"
+  },
+  "167901766": {
+   "fragment_id": "167902686",
+   "type": 14,
+   "heading": "Anexo V — Critérios para a aplicação dos procedimentos diferenciados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Critérios para a aplicação dos procedimentos diferenciados\n\n(artigo 9.º)\n\nSão a seguir enunciados os critérios a que se refere o n.º 1 do artigo 9.º:\n\n1) A classificação taxonómica e a biologia (p. ex.: modo de reprodução e de polinização, capacidade de cruzamento com espécies afins, patogenicidade) do organismo (receptor) não modificado devem ser bem conhecidas;\n\n2) Devem existir conhecimentos suficientes no que se refere à segurança para a saúde humana e para o ambiente, sobre o comportamento do organismo parental, quando pertinente, e do organismo receptor no meio em que é efectuada a libertação;\n\n3) Deve dispor-se de informações sobre quaisquer interacções especialmente significativas para a avaliação do risco que envolvam o organismo parental, quando pertinente, o organismo receptor e outros organismos no ecossistema de libertação experimental;\n\n4) Deve dispor-se de informações que demonstrem que qualquer material genético inserido está bem caracterizado, bem como de informações relativas à construção de quaisquer vectores ou sequências de material genético que tenham sido utilizados com o DNA transportador. Nos casos em que a modificação genética envolva a delecção de material genético, a extensão dessa delecção deve ser conhecida. Deve ainda dispor-se de informações que permitam identificar o OGM e a sua progenitura durante uma libertação;\n\n5) Em condições de libertação experimental, o OGM não deve apresentar mais riscos para a saúde humana ou para o ambiente do que os riscos criados pela libertação dos organismos parental, quando pertinente, e receptor correspondentes. A capacidade de propagação no ambiente e de invasão de outros ecossistemas não relacionados, bem como a capacidade de transferência do material genético para outros organismos no ambiente, não deve dar origem a quaisquer efeitos adversos."
+  },
+  "167901767": {
+   "fragment_id": "167902687",
+   "type": 14,
+   "heading": "Anexo VI — Linhas de orientação para os relatórios de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Linhas de orientação para os relatórios de avaliação\n\nOs relatórios de avaliação previstos nos artigos 17.º e 21.º devem incluir, nomeadamente, o seguinte:\n\n1) Identificação das características do organismo receptor relevantes para a avaliação do(s) OGM em questão. Identificação de quaisquer riscos conhecidos para a saúde humana e ou para o ambiente como resultado da libertação no ambiente do organismo receptor não modificado;\n\n2) Descrição dos resultados da modificação genética no organismo modificado;\n\n3) Avaliação da caracterização da modificação genética, para verificar se é suficiente para a avaliação de quaisquer riscos para a saúde humana e para o ambiente;\n\n4) Identificação de eventuais novos riscos para a saúde humana e ou para o ambiente que possam resultar da libertação do(s) OGM em questão, por comparação com a libertação do organismo correspondente não modificado, com base nas avaliações de risco efectuadas de acordo com o anexo II;\n\n5) Conclusões sobre a conveniência de o(s) OGM em questão poder(em) ser colocado(s) no mercado como produto(s) ou integrado(s) em produto(s), e em que condições, sobre o(s) OGM em questão não poder(em) ser colocado(s) no mercado, ou sobre a eventual necessidade do parecer de outras autoridades competentes e da Comissão em relação a determinados pontos específicos da avaliação dos riscos ambientais, os quais devem ser especificados. Nas conclusões, deve ser feita uma referência clara à utilização proposta, à gestão dos riscos e ao plano de monitorização proposto. Caso se conclua que o(s) OGM não deve(m) ser colocado(s) no mercado, a autoridade competente deverá fundamentar as suas conclusões."
+  },
+  "167901768": {
+   "fragment_id": "167902688",
+   "type": 14,
+   "heading": "Anexo VII — Plano de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — Plano de monitorização\n\nNo presente anexo é descrito em termos gerais o objectivo a cumprir e os princípios gerais a seguir para a concepção do plano de monitorização referido no n.º 1 do artigo 16.º, no n.º 3 do artigo 20.º e no artigo 21.º O presente anexo será complementado com notas de orientação a serem fornecidas pela autoridade competente.\n\nA) Objectivo - o plano de monitorização tem por finalidade:\n\nConfirmar a correcção de todos os pressupostos que serviram de base à realização da avaliação dos riscos ambientais no que se refere à ocorrência e impacte de potenciais efeitos adversos do OGM ou respectiva utilização;\n\nDeterminar a ocorrência de efeitos adversos do OGM ou respectiva utilização na saúde humana ou no ambiente, não previstos na avaliação dos riscos ambientais.\n\nB) Princípios gerais - a monitorização referida nos artigos 16.º, 20.º e 22.º, alínea d), deverá ser efectuada após a autorização de colocação no mercado do OGM.\n\nOs dados recolhidos através da monitorização deverão ser interpretados à luz de outras condições e actividades ambientais existentes. Sempre que forem observadas alterações ambientais, deverá ser aprofundada a análise com vista a determinar se resultam ou não do OGM ou respectiva utilização, dado que podem resultar de factores ambientais alheios à colocação deste último no mercado.\n\nA experiência e os dados obtidos através da monitorização de libertações experimentais do OGM poderão ser de utilidade na concepção do regime de monitorização pós-comercialização exigido para a colocação no mercado de produtos que contenham ou sejam constituídos por OGM.\n\nC) Concepção do plano de monitorização - o plano de monitorização deverá:\n\n1) Ser particularizado caso a caso e em função da avaliação dos riscos ambientais;\n\n2) Tomar em consideração as características do OGM, as características e escala da utilização a que se destina e a gama de condições pertinentes do meio em que o OGM deverá ser libertado;\n\n3) Integrar a vigilância geral dos efeitos adversos imprevistos e, se necessário, a monitorização específica (caso a caso) dos efeitos adversos determinados na avaliação dos riscos ambientais:\n\n3.1) Sempre que a monitorização específica (caso a caso) tiver de ser efectuada durante um período suficientemente longo para permitir a detecção de todos os efeitos directos e a curto prazo e, sempre que se justifique, de todos os efeitos indirectos ou a longo prazo determinados na avaliação dos riscos ambientais;\n\n3.2) Sempre que a vigilância puder utilizar práticas de vigilância já consagradas, tais como as relativas à monitorização de «cultivares» agrícolas, à protecção fitossanitária ou à utilização de medicamentos para uso veterinário e humano. Será fornecida uma explicação de como serão facultadas ao titular da autorização as informações pertinentes obtidas através de tais práticas de vigilância;\n\n4) Facilitar a observação sistemática da libertação do OGM no meio receptor e a interpretação de tal observação em termos de segurança para a saúde humana e para o ambiente;\n\n5) Estabelecer a quem (notificador, utilizadores, etc.) competirá a execução das diversas tarefas previstas no plano de monitorização e quem será responsável por assegurar a sua instauração e boa execução, bem como garantir a existência de um canal através do qual o titular da autorização e a autoridade competente sejam informados de qualquer observação de efeitos adversos sobre a saúde humana e sobre o ambiente (deverá igualmente indicar as datas e periodicidade dos relatórios sobre os resultados da monitorização);\n\n6) Prever mecanismos de definição e confirmação dos efeitos adversos para a saúde humana e para o ambiente observados e permitir que o titular da autorização ou a autoridade competente tomem medidas necessárias em matéria de protecção da saúde humana e do ambiente."
+  },
+  "167904978": {
+   "fragment_id": "167904884",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Medidas transitórias relativas à presença acidental ou tecnicamente inevitável de OGM",
+   "in_force_from": "2004-07-08",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 164/2004 - Diário da República n.º 155/2004, Série I-A de 2004-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2004-517436), em vigor a partir de 2004-07-08"
+   ],
+   "markdown": "###### Artigo 15.º-A — Medidas transitórias relativas à presença acidental ou tecnicamente inevitável de OGM\n\n1 - À colocação no mercado de vestígios de OGM ou de uma combinação de OGM em produtos destinados a serem utilizados directamente como géneros alimentícios, alimentos para animais ou para transformação não se aplica o disposto nos artigos 16.º a 26.º do presente diploma, desde que satisfaçam as condições previstas no artigo 47.º do Regulamento (CE) n.º 1829/2003, do Parlamento Europeu e do Conselho, de 22 de Setembro, relativo a géneros alimentícios e alimentos para animais geneticamente modificados.\n\n2 - O presente artigo vigorará por um período de três anos a contar da data da aplicação do Regulamento (CE) n.º 1829/2003, do Parlamento Europeu e do Conselho, de 22 de Setembro.\n\n> Aditado pelo/a [Decreto-Lei n.º 164/2004 - Diário da República n.º 155/2004, Série I-A de 2004-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2004-517436), em vigor a partir de 2004-07-08"
+  },
+  "167904979": {
+   "fragment_id": "167838350",
+   "type": 11,
+   "heading": "Artigo 16.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Notificação\n\n1 - O interessado na colocação no mercado pela primeira vez de produtos que contenham ou sejam constituídos por OGM deve submeter à autoridade competente uma notificação prévia que contenha:\n\na) As informações exigidas nos anexos III e IV do presente diploma, que terão de tomar em consideração a diversidade geográfica da utilização dos produtos que contenham ou sejam constituídos por OGM e incluir informações sobre os dados e resultados, obtidos a partir de libertações para fins de investigação e desenvolvimento, relativos ao impacte da libertação sobre a saúde humana e sobre o ambiente;\n\nb) A avaliação dos riscos ambientais, efectuada em conformidade com o anexo II do presente diploma e as conclusões requeridas na parte D do anexo II do presente diploma;\n\nc) As condições para a colocação do produto no mercado, incluindo as condições específicas de utilização e manipulação;\n\nd) Uma proposta de prazo de validade da autorização, que não deverá exceder 10 anos;\n\ne) Um plano para a monitorização, em conformidade com o anexo VII do presente diploma, incluindo uma proposta de prazo para o plano de monitorização que poderá ser diferente do prazo de validade da autorização;\n\nf) Uma proposta de rotulagem que respeite os requisitos definidos no anexo IV do presente diploma, devendo o rótulo referir claramente a presença de OGM; a expressão «Este produto contém organismos geneticamente modificados» deve constar do rótulo ou de documento de acompanhamento;\n\ng) Uma proposta de embalagem que incluirá os requisitos definidos no anexo IV do presente diploma;\n\nh) Um resumo do dossier, em modelo a fornecer pela autoridade competente.\n\n2 - Após a recepção da notificação, a autoridade competente envia de imediato às autoridades dos restantes Estados membros e à Comissão o resumo do dossier referido na alínea h) do número anterior.\n\n3 - A autoridade competente pode aceitar que o notificador não seja obrigado a fornecer toda ou parte da informação requerida na parte B do anexo IV do presente diploma nos casos em que, com base nos resultados de qualquer libertação notificada nos termos do capítulo II ou noutros casos cientificamente justificados, o notificador considere que a colocação no mercado e a utilização de um produto que contenha ou seja constituído por OGM não representa risco para a saúde humana e para o ambiente.\n\n4 - O notificador deve incluir na notificação informações relativas a dados ou resultados de libertações do mesmo OGM ou da mesma combinação de OGM, já notificados ou com a notificação em curso por ele realizadas dentro ou fora da Comunidade.\n\n5 - O notificador poderá referir dados ou apresentar resultados constantes de notificações anteriormente apresentadas por outros notificadores, desde que as informações, dados ou resultados não sejam confidenciais ou que os outros notificadores tenham dado o seu consentimento por escrito.\n\n6 - A utilização de um OGM ou de uma combinação de OGM de forma diferente da já notificada carece da apresentação de nova notificação."
+  },
+  "167904980": {
+   "fragment_id": "167838351",
+   "type": 11,
+   "heading": "Artigo 17.º — Relatório de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Relatório de avaliação\n\n1 - A autoridade competente, após acusar a recepção da notificação, analisa o processo de notificação avaliando a sua conformidade com o disposto no presente diploma, podendo solicitar ao notificador informações adicionais, e remete cópia do processo à Comissão.\n\n2 - No processo de análise da notificação, a autoridade competente informa a DGS e, sempre que se trate de PSGM, informa igualmente a DGPC do conteúdo da mesma e recolhe os respectivos pareceres.\n\n3 - No prazo de 90 dias a contar da data da recepção da notificação, a autoridade competente envia ao notificador um relatório de avaliação elaborado em conformidade com o anexo VI do presente diploma, no qual indica o seu parecer desfavorável à colocação do produto no mercado e a recusa da notificação ou o seu parecer favorável, remetendo, neste caso, o relatório à Comissão.\n\n4 - A decisão de recusa da notificação carece de fundamentação.\n\n5 - No caso de parecer desfavorável o relatório de avaliação deve ser remetido à Comissão 15 dias após ter sido enviado ao notificador."
+  },
+  "167904981": {
+   "fragment_id": "167838352",
+   "type": 11,
+   "heading": "Artigo 18.º — Decisão da autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Decisão da autoridade competente\n\n1 - Na falta de indicações em contrário das autoridades competentes de outros Estados membros, no prazo de 60 dias contados da data da distribuição do relatório de avaliação pela Comissão, a autoridade competente autoriza a colocação no mercado, dá conhecimento da decisão ao notificador e, no prazo de 30 dias, informa os restantes Estados membros e a Comissão.\n\n2 - No caso de a autoridade competente de outro Estado membro ou a Comissão solicitarem informações complementares ao notificador ou levantarem dúvidas que obstem à autorização, que não sejam resolvidas no prazo de 105 dias contados da data da distribuição do relatório de avaliação, a autoridade competente suspende o processo de notificação até à decisão da Comissão.\n\n3 - Quando as objecções a que se refere o artigo anterior forem resolvidas no prazo de 105 dias, a autoridade competente autoriza a colocação no mercado, dá conhecimento da sua decisão ao notificador e, no prazo de 30 dias, informa os restantes Estados membros e a Comissão."
+  },
+  "167904982": {
+   "fragment_id": "167838353",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Suspensão dos prazos\n\nOs prazos previstos no n.º 3 do artigo 17.º e no n.º 2 do artigo 18.º suspendem-se nos períodos em que a autoridade competente aguarda as informações complementares fundamentadamente solicitadas ao notificador."
+  },
+  "167904983": {
+   "fragment_id": "167838354",
+   "type": 11,
+   "heading": "Artigo 20.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Autorização\n\n1 - A autorização de colocação no mercado de produtos que contenham ou sejam constituídos por OGM deve ser objecto de publicação no Diário da República.\n\n2 - O notificador só pode proceder à colocação no mercado de produtos que contenham ou sejam constituídos por OGM depois de ser notificado da autorização pela autoridade competente e de acordo com as condições por ela impostas.\n\n3 - A autorização deve indicar explicitamente:\n\na) O âmbito da autorização, incluindo a identificação dos produtos a colocar no mercado que contenham ou sejam constituídos por OGM e a sua identificação específica;\n\nb) O prazo de validade da autorização, que não pode exceder o período de 10 anos a contar da data da sua emissão;\n\nc) As condições de colocação do produto no mercado, incluindo quaisquer condições específicas de utilização, manipulação e embalagem de produtos que contenham ou sejam constituídos por OGM, bem como as condições para a protecção de ecossistemas/ambientes e ou zonas geográficas específicos;\n\nd) O dever de o notificador disponibilizar amostras de controlo a pedido da autoridade competente sem prejuízo do disposto no artigo 28.º;\n\ne) Os requisitos em matéria de rotulagem, em conformidade com os requisitos constantes do anexo IV do presente diploma, devendo o rótulo referir claramente a presença de OGM; a expressão «Este produto contém organismos geneticamente modificados» deve figurar quer num rótulo quer num documento de acompanhamento do produto ou produtos que contenham ou sejam constituídos por OGM;\n\nf) Os requisitos em matéria de monitorização nos termos do anexo VII do presente diploma, incluindo a obrigação de apresentar relatórios à Comissão e às autoridades competentes dos Estados membros, o prazo para o plano de monitorização e, se for caso disso, as obrigações de qualquer pessoa que venda ou utilize o produto, nomeadamente no caso de OGM cultivados, referentes a um nível de informação considerado adequado quanto à respectiva localização.\n\n4 - Para efeitos de aprovação de um OGM ou de uma descendência desse OGM exclusivamente para fins de colocação no mercado das suas sementes, o período da primeira autorização termina o mais tardar 10 anos após a data da primeira inclusão da primeira variedade vegetal que contenha o OGM no Catálogo Nacional de Variedades Vegetais, em conformidade com o Decreto-Lei n.º 268/2000, de 24 de Outubro."
+  },
+  "167904984": {
+   "fragment_id": "167838355",
+   "type": 11,
+   "heading": "Artigo 21.º — Renovação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Renovação da autorização\n\n1 - A renovação das autorizações para colocação no mercado de produtos que contenham ou sejam constituídos por OGM, concedidas ao abrigo dos artigos 16.º a 25.º do presente diploma, deve ser solicitada no prazo máximo de nove meses antes da caducidade das respectivas autorizações ou até 17 de Outubro de 2006, no caso das autorizações concedidas ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0220\" title=\"Link para Directiva da Comunidade Europeia\">90/220/CEE</a>, devendo o interessado submeter à autoridade competente uma notificação que contenha:\n\na) Uma cópia da autorização de colocação do OGM no mercado;\n\nb) Um relatório com os resultados da monitorização realizada nos termos da alínea d) do artigo 22.º que, no caso das autorizações concedidas ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0220\" title=\"Link para Directiva da Comunidade Europeia\">90/220/CEE</a>, deve ser entregue aquando da realização da monitorização;\n\nc) Qualquer nova informação que tenha surgido em relação aos riscos do produto para a saúde humana e ou para o ambiente;\n\nd) Se necessário, uma proposta que altere ou complemente as condições da autorização inicial, nomeadamente as condições relacionadas com a futura monitorização e o prazo de validade da autorização.\n\n2 - A autoridade competente analisa o processo de notificação avaliando a sua conformidade com o disposto no número anterior e envia de imediato cópia da notificação à Comissão.\n\n3 - Após a recepção da notificação, a autoridade competente, depois de ouvida a DGS e, no caso de se tratar de PSGM, ouvida igualmente a DGPC, envia ao notificador e à Comissão um relatório de avaliação onde indica o seu parecer favorável ou desfavorável à continuação do produto no mercado.\n\n4 - No caso de parecer favorável e na falta de indicações em contrário das autoridades de outros Estados membros ou da Comissão, no prazo de 60 dias contados da data da distribuição do relatório de avaliação, a autoridade competente autoriza a continuação da colocação no mercado, dá conhecimento da decisão ao notificador e, no prazo de 30 dias, informa os restantes Estados membros e a Comissão.\n\n5 - No caso de a autoridade competente de outro Estado membro ou a Comissão levantarem dúvidas que obstem à renovação da autorização, que não sejam resolvidas no prazo de 75 dias contados da data da distribuição do relatório de avaliação, a autoridade competente suspende o processo de notificação até à decisão da Comissão.\n\n6 - Quando as objecções a que se refere o artigo anterior forem resolvidas no prazo de 75 dias, a autoridade competente autoriza a renovação, dá conhecimento da sua decisão ao notificador e, no prazo de 30 dias, informa os restantes Estados membros e a Comissão.\n\n7 - A recusa da notificação para a renovação de autorização carece de fundamentação.\n\n8 - Enquanto decorrer o processo de notificação para a renovação de uma autorização e até à decisão final, o notificador pode continuar a colocar no mercado o OGM objecto de notificação, de acordo com as condições especificadas na respectiva autorização.\n\n9 - A autorização não deve ser concedida por prazo superior a 10 anos, podendo, no entanto, este prazo ser restringido ou alargado por motivos específicos."
+  },
+  "167904985": {
+   "fragment_id": "167838356",
+   "type": 11,
+   "heading": "Artigo 22.º — Deveres do notificador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Deveres do notificador\n\nConstituem deveres daquele que pretenda colocar no mercado produtos que contenham ou sejam constituídos por OGM:\n\na) Proceder à avaliação prévia dos eventuais riscos para a saúde humana e para o ambiente resultantes da colocação no mercado de produtos que contenham ou sejam constituídos por OGM, tendo por base pelo menos os elementos constantes do anexo III do presente diploma;\n\nb) Facultar às autoridades competentes as informações que lhe sejam solicitadas, bem como fornecer oficiosamente todas as informações pertinentes;\n\nc) Tomar de imediato as medidas necessárias à protecção da saúde humana e do ambiente no caso de surgirem novas informações relativas aos riscos dos OGM para a saúde humana ou para o ambiente, informar a autoridade competente, rever as informações e as condições especificadas na notificação;\n\nd) Efectuar a monitorização e o respectivo relatório de acordo com as condições estabelecidas na autorização."
+  },
+  "167904986": {
+   "fragment_id": "167838357",
+   "type": 11,
+   "heading": "Artigo 23.º — Procedimento em caso de novas informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Procedimento em caso de novas informações\n\n1 - No caso de a autoridade competente obter informações que possam ter consequências significativas quanto aos riscos que o OGM representa para a saúde humana ou para o ambiente, antes da decisão de autorização, comunica imediatamente as informações à Comissão e às autoridades competentes dos restantes Estados membros.\n\n2 - No caso de as informações surgirem depois de emitida a autorização, a autoridade competente envia à Comissão, no prazo de 60 dias após a recepção das novas informações, o seu relatório de avaliação, indicando se as condições da autorização devem ser alteradas ou se a autorização deve ser revogada.\n\n3 - Quaisquer comentários ou objecções fundamentadas em relação à continuação da colocação do OGM no mercado ou à proposta de alteração das condições da autorização devem ser enviados, no prazo de 60 dias a contar da distribuição do envio do relatório de avaliação, à Comissão Europeia, que os enviará imediatamente a todas as autoridades competentes.\n\n4 - Na ausência de objecções fundamentadas por parte de outro Estado membro ou da Comissão no prazo de 60 dias a contar da data de divulgação das novas informações, ou se as questões pendentes tiverem sido resolvidas no prazo de 75 dias, a autoridade competente deve, no prazo de 30 dias, modificar a autorização em conformidade com a proposta, comunicar a autorização modificada ao notificador e informar do facto os restantes Estados membros e a Comissão."
+  },
+  "167904987": {
+   "fragment_id": "167838358",
+   "type": 11,
+   "heading": "Artigo 24.º — Procedimento comunitário em caso de objecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Procedimento comunitário em caso de objecções\n\n1 - Nos casos em que seja levantada e mantida uma objecção por uma autoridade competente de outro Estado membro ou pela Comissão nos termos dos artigos 18.º, 21.º e 23.º, é adoptada e publicada uma decisão, no prazo de 120 dias, que deve incluir as informações referidas no n.º 3 do artigo 20.º\n\n2 - O prazo de 120 dias referido no número anterior suspende-se durante o período de tempo em que a Comissão aguarda informações complementares que tenha solicitado ao notificador ou o parecer de um comité científico que tenha consultado, sem prejuízo de o período de tempo em que a Comissão aguarda o parecer do comité científico consultado não poder exceder 90 dias.\n\n3 - Se a decisão for favorável, a autoridade competente dará a sua autorização por escrito à colocação no mercado ou à renovação da autorização, comunica ao notificador e informa do facto os restantes Estados membros e a Comissão no prazo de 30 dias a contar da publicação ou notificação da decisão."
+  },
+  "167904988": {
+   "fragment_id": "167838359",
+   "type": 11,
+   "heading": "Artigo 25.º — Competências da autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competências da autoridade competente\n\n1 - No âmbito da colocação no mercado de produtos que contenham ou sejam constituídos por OGM, compete à autoridade competente, ouvida a DGS e, no caso de se tratar de PSGM, ouvida igualmente a DGPC:\n\na) Autorizar a colocação no mercado de produtos que contenham ou sejam constituídos por OGM;\n\nb) Na sequência de informações novas ou suplementares disponíveis a partir da data da autorização que afectem a avaliação de riscos ambientais, ou de uma nova avaliação de informações já existentes com base em conhecimentos científicos novos ou suplementares, pode condicionar ou proibir provisoriamente a colocação no mercado e a utilização em Portugal de um produto autorizado noutro Estado membro, quando considere que constitui um risco para a saúde humana e para o ambiente, e, em caso de risco sério, tomar medidas de emergência, tais como a suspensão ou revogação da autorização de colocação no mercado, incluindo a informação do público;\n\nc) Condicionar a utilização do produto, em função da sua perigosidade para ecossistemas ou ambientes de recepção específicos;\n\nd) Verificar se as condições de rotulagem e embalagem dos produtos, em todas as fases de colocação no mercado, estão em conformidade com a autorização;\n\ne) Inspeccionar e tomar outras medidas de controlo, coadjuvadas pela IGA, relativamente à colocação no mercado de produtos que contenham ou sejam constituídos por OGM;\n\nf) Alterar ou limitar o prazo da autorização quando as circunstâncias o imponham;\n\ng) Dispor de registos relativos à localização dos OGM cultivados, a fim de permitir, designadamente, acompanhar os eventuais efeitos desses OGM sobre o ambiente;\n\nh) Suspender a colocação no mercado de produtos que contenham ou sejam constituídos por OGM para os quais não foi concedida autorização, garantir a adopção de medidas necessárias para eliminar os danos causados e informar o público, a Comissão e os restantes Estados membros;\n\ni) Solicitar, no prazo de 60 dias a contar da data da distribuição do relatório de avaliação, informações complementares, fazer comentários ou apresentar objecções fundamentadas em relação à colocação no mercado de OGM em processos a decorrer noutro Estado membro;\n\nj) Solicitar à Comissão Europeia a consulta dos comités científicos e de ética existentes na União Europeia sobre quaisquer questões que possam ter efeitos negativos na saúde humana ou no ambiente, quando tal se justifique.\n\n2 - No caso referido na alínea b) do n.º 1, a autoridade competente deve informar imediatamente a Comissão e os restantes Estados membros das medidas tomadas ao abrigo da referida alínea e indicar as razões da sua decisão, fornecendo a nova avaliação dos riscos ambientais, referir se as condições da autorização devem ser alteradas e a forma de o fazer ou se esta deve ser suprimida e, quando adequado, prestar as informações novas ou suplementares sobre as quais baseou essa decisão."
+  },
+  "167904989": {
+   "fragment_id": "167838360",
+   "type": 11,
+   "heading": "Artigo 26.º — Rotulagem",
+   "in_force_from": "2004-07-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 164/2004 - Diário da República n.º 155/2004, Série I-A de 2004-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2004-517436), em vigor a partir de 2004-07-08"
+   ],
+   "markdown": "###### Artigo 26.º — Rotulagem\n\n1 - A autoridade competente assegura que em todas as fases de colocação no mercado a rotulagem e a embalagem dos produtos que contenham ou sejam constituídos por OGM estão em conformidade com os requisitos constantes da autorização referida no artigo 20.º\n\n2 - No que respeita aos produtos relativamente aos quais não seja possível excluir a existência fortuita ou tecnicamente inevitável de vestígios de OGM autorizados, pode ser fixado, pela autoridade competente, de acordo com as decisões da União Europeia, um limiar mínimo abaixo do qual esses produtos não têm de ser rotulados.\n\n3 - No que respeita aos produtos destinados ao processamento directo, o disposto no n.º 1 não é aplicável aos vestígios de OGM autorizados numa proporção não superior a 0,9% ou a limiares mais baixos estabelecidos pela Comissão Europeia, de acordo com os procedimentos previstos no n.º 2 do artigo 30.º da Directiva n.º 2001/18/CE, do Parlamento Europeu e do Conselho, de 12 de Março, desde que a presença desses vestígios seja acidental ou tecnicamente inevitável.\n\n> Alterado pelo/a [Decreto-Lei n.º 164/2004 - Diário da República n.º 155/2004, Série I-A de 2004-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2004-517436), em vigor a partir de 2004-07-08"
+  },
+  "167904990": {
+   "fragment_id": "167904885",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Medidas destinadas a evitar a presença acidental de OGM",
+   "in_force_from": "2004-07-08",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 164/2004 - Diário da República n.º 155/2004, Série I-A de 2004-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2004-517436), em vigor a partir de 2004-07-08"
+   ],
+   "markdown": "###### Artigo 26.º-A — Medidas destinadas a evitar a presença acidental de OGM\n\nO Governo estabelecerá, em diploma específico, medidas visando evitar a presença acidental de OGM, incluindo medidas de coexistência entre culturas geneticamente modificadas e outros modos de produção agrícola.\n\n> Aditado pelo/a [Decreto-Lei n.º 164/2004 - Diário da República n.º 155/2004, Série I-A de 2004-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2004-517436), em vigor a partir de 2004-07-08"
+  },
+  "167904991": {
+   "fragment_id": "167904886",
+   "type": 11,
+   "heading": "Artigo 38.º-A — Taxas",
+   "in_force_from": "2004-07-08",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 164/2004 - Diário da República n.º 155/2004, Série I-A de 2004-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2004-517436), em vigor a partir de 2004-07-08"
+   ],
+   "markdown": "###### Artigo 38.º-A — Taxas\n\n1 - Pela apreciação dos processos de notificação previstos nos artigos 5.º e 16.º do presente diploma são devidas taxas, cujo montante mínimo é de (euro) 1500 e o montante máximo é de (euro) 20000, a cobrar pelo Instituto do Ambiente, cujos critérios e montantes são fixados por portaria conjunta dos Ministros das Finanças e das Cidades, Ordenamento do Território e Ambiente.\n\n2 - Sem prejuízo do disposto no número seguinte, o produto das taxas referidas no número anterior constitui receita própria do Instituto do Ambiente e da Direcção-Geral da Saúde e é afectado da seguinte forma:\n\na) 80% para o Instituto do Ambiente;\n\nb) 20% para a Direcção-Geral da Saúde.\n\n3 - Sempre que no processo de apreciação intervenha a Direcção-Geral da Protecção das Culturas, a afectação do produto das taxas referida no número anterior faz-se da seguinte forma:\n\na) 60% para o Instituto do Ambiente;\n\nb) 20% para a Direcção-Geral da Saúde;\n\nc) 20% para a Direcção-Geral da Protecção das Culturas.\n\n> Aditado pelo/a [Decreto-Lei n.º 164/2004 - Diário da República n.º 155/2004, Série I-A de 2004-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2004-517436), em vigor a partir de 2004-07-08"
+  },
+  "167904992": {
+   "fragment_id": "167838374",
+   "type": 11,
+   "heading": "Artigo 39.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Regiões Autónomas\n\n1 - O regime previsto no presente diploma aplica-se às Regiões Autónomas, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir em diploma regional adequado.\n\n2 - O produto das coimas resultante da aplicação das contra-ordenações previstas no presente diploma, e cobradas nos respectivos territórios, constitui receita própria das Regiões."
+  },
+  "167904993": {
+   "fragment_id": "167902675",
+   "type": 11,
+   "heading": "Artigo 40.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Revogação\n\nSão revogadas todas as disposições legais que contrariem o disposto no presente diploma, nomeadamente:\n\na) O Decreto-Lei n.º 126/93, de 20 de Abril;\n\nb) O Decreto-Lei n.º 172/98, de 25 de Junho;\n\nc) O Decreto-Lei n.º 63/99, de 2 de Março;\n\nd) A Portaria n.º 751/94, de 16 de Agosto."
+  },
+  "167901756": {
+   "fragment_id": "167902676",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Isaltino Afonso de Morais.\n\nPromulgado em 28 de Março de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Abril de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

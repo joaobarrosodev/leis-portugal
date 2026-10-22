@@ -1,0 +1,420 @@
+---
+schema_version: '1.0'
+id: pt:dre:539980:por
+title: Decreto-Lei n.º 181/2006
+short_title: null
+summary: Estabelece o regime de limitação das emissões de compostos orgânicos voláteis (COV) resultantes da utilização de
+  solventes orgânicos em determinadas tintas e vernizes e em produtos de retoque de veículos, transpondo para a ordem jurídica
+  interna a Directiva n.º 2004/42/CE, do Parlamento Europeu e do Conselho, de 21 de Abril
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 181/2006
+official_date: null
+publication_date: '2006-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/2006, Série I de 2006-09-06
+  number: '172'
+  series: I
+  supplement: null
+  pages: 6578 - 6583
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/09/17200/65786583.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2012-08-04'
+version_history:
+  file: decreto-lei-181-2006.versoes.json
+  count: 3
+  source_lastmod: '2024-08-22'
+  versions:
+  - date: '2006-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-12'
+    amending: pt:dre:343084:por
+    amending_title: Decreto-Lei n.º 98/2010
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+  - date: '2012-08-04'
+    amending: pt:dre:179014:por
+    amending_title: Decreto-Lei n.º 180/2012
+    changes:
+    - Altera Anexo III
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/181/2006/p/cons/20120803/pt/html
+  oj: null
+  dre: '539980'
+  dre_path: /dr/detalhe/decreto-lei/181-2006-539980
+  internal: pt:dre:539980:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2006-539980
+  metadata_url: https://data.dre.pt/eli/dec-lei/181/2006/p/cons/20120803/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-885361629
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-885361629
+  retrieved_at: '2026-10-22T13:12:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-22T00:00:00Z'
+integrity:
+  source_sha256: 1a483a793d4f448081642e624a51ff79e949e5baca30665dfcbec1d7a318dce3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:12:47Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-181-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Contra-ordenação
+- Poluição Atmosférica
+- Saúde Pública
+- Etiquetagem
+- Fiscalização
+- Instituto do Ambiente
+- ASAE
+- Veículo
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Proteção do Ambiente
+- Madeira.região Autónoma
+- Poluição
+- Açores
+- Comércio
+- Tintas e Vernizes
+relationships:
+- type: amended_by
+  target: pt:dre:343084:por
+  label: Altera Artigo 2.º; Altera Artigo 8.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2010-343084
+  date: '2010-08-11'
+- type: amended_by
+  target: pt:dre:179014:por
+  label: Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2012-179014
+  date: '2012-08-03'
+- type: cites
+  target: celex:31999L0013
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/13/oj
+- type: cites
+  target: celex:32004L0042
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/42/oj
+- type: cites
+  target: celex:32008R1272
+  label: null
+  source: null
+- type: transposes
+  target: celex:32004L0042
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:12:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 181/2006
+
+Decreto-Lei n.º 181/2006
+
+de 6 de Setembro
+
+A prevenção e o controlo da poluição atmosférica constituem vertentes fundamentais da política do ambiente, visando assegurar um nível elevado de protecção da saúde das populações e do ambiente em geral.
+
+Tendo em vista a prossecução deste objectivo, têm sido fixados valores limite para a emissão de determinados poluentes atmosféricos cujos efeitos se consideram particularmente nocivos, como se reconhece ser o caso da poluição provocada pelos compostos orgânicos voláteis (COV), dada a sua significativa contribuição para a formação do ozono troposférico.
+
+Neste sentido, a Directiva n.º 1999/13/CE, do Conselho, de 11 de Março, transposta para a ordem jurídica interna pelo Decreto-Lei n.º 242/2001, de 31 de Agosto, procedeu à definição de medidas que visam reduzir os efeitos directos e indirectos das emissões de COV para o ambiente resultantes da aplicação de solventes orgânicos em certas actividades e instalações.
+
+Entretanto, a Directiva n.º 2004/42/CE, do Parlamento Europeu e do Conselho, de 21 de Abril, que ora se transpõe, veio limitar o teor total de COV que pode ser utilizado em determinadas tintas e vernizes e em produtos de retoque de veículos.
+
+Procura-se assim reduzir o conteúdo de COV destas categorias de produtos, estabelecendo-se um prazo para a adaptação ao novo regime legal no que respeita à comercialização de produtos que, apesar de se encontrarem abrangidos pelo presente decreto-lei, tenham sido produzidos antes da sua entrada em vigor.
+
+De referir ainda que, nos casos especiais de produtos que se destinam ao restauro e manutenção de imóveis ou de veículos de colecção, poderá, excepcionalmente, ser concedida autorização para a colocação no mercado, em quantidades rigorosamente limitadas, de produtos que não respeitem os valores limite de COV impostos pelo presente diploma.
+
+É de notar que o presente decreto-lei não se aplica a produtos vendidos para utilização exclusiva em actividades abrangidas pelo Decreto-Lei n.º 242/2001, de 31 de Agosto, e executadas em instalações registadas ou autorizadas ao abrigo do referido diploma.
+
+É ainda necessário e conveniente proceder à revogação do n.º 5 do artigo 21.º do Decreto-Lei n.º 242/2001, de 31 de Agosto, norma que regula matéria respeitante à competência dos tribunais sem a competente autorização legislativa e, para mais, de sentido contrário ao da recente reforma da legislação do contencioso administrativo, que teve por escopo remeter estas matérias para a sede própria, as leis que delimitam de forma genérica a competência material dos tribunais, como ficou bem expresso na alteração do artigo 45.º da Lei de Bases do Ambiente levada a cabo pelo artigo 6.º da Lei n.º 13/2002, de 19 de Fevereiro.
+
+Foram ouvidos os órgãos de governo próprios das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei limita o teor total de compostos orgânicos voláteis (COV) nos produtos identificados no anexo I do presente decreto-lei, do qual faz parte integrante, tendo em vista prevenir ou reduzir a poluição atmosférica devida à formação de ozono troposférico resultante das emissões dos COV.
+
+2 - O presente decreto-lei não prejudica a aplicação da legislação relativa a rotulagem com vista à protecção da saúde dos consumidores e dos trabalhadores nos seus locais de trabalho.
+
+3 - O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º 2004/42/CE, do Parlamento Europeu e do Conselho, de 21 de Abril.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Colocação no mercado» a disponibilização de produtos a terceiros, a título oneroso ou gratuito, incluindo a importação para o território nacional;
+
+b) «Composto orgânico» qualquer composto que contenha, pelo menos, o elemento carbono e um ou mais do seguintes elementos: hidrogénio, oxigénio, enxofre, fósforo, silício, azoto ou halogénio, com excepção dos óxidos de carbono e dos carbonatos e bicarbonatos inorgânicos;
+
+c) «Composto orgânico volátil (COV)» um composto orgânico cujo ponto de ebulição inicial, à pressão normal de 101,3 kPa, seja inferior ou igual a 250ºC;
+
+d) «Película» uma camada contínua resultante da aplicação de uma ou mais camadas de revestimento a um substrato;
+
+e) 'Mistura' uma mistura ou solução composta por duas ou mais substâncias, nos termos do n.º 2 do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de Dezembro;
+
+f) 'Produto de revestimento' uma mistura incluindo os solventes orgânicos ou as misturas que contenham solventes orgânicos necessários a sua aplicação, utilizada para aplicar a uma superfície uma película com um efeito decorativo ou protector ou outro efeito funcional;
+
+g) «Produto de revestimento de base aquosa (BA)» um produto de revestimento cuja viscosidade seja ajustada por meio de água;
+
+h) «Produto de revestimento de base solvente (BS)» um produto de revestimento cuja viscosidade seja ajustada por meio de um solvente orgânico;
+
+i) «Solvente orgânico» um COV utilizado, isoladamente ou combinado com outros agentes, para dissolver ou diluir matérias-primas, produtos ou matérias residuais, como agente de limpeza para dissolver contaminantes, como meio de dispersão, para ajustamento da viscosidade ou da tensão superficial, como plastificante ou como conservante;
+
+j) «Substância» um elemento químico e seus compostos, no estado natural ou produzido industrialmente, na forma sólida, líquida ou gasosa;
+
+l) «Teor de COV» a massa de compostos orgânicos voláteis, expressa em gramas por litro (g/l), na formulação do produto pronto a utilizar, excluindo-se desta noção a massa de compostos orgânicos voláteis que, num dado produto, reage quimicamente durante a secagem, integrando-se no revestimento.
+
+> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 98/2010 - Diário da República n.º 155/2010, Série I de 2010-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2010-343084), em vigor a partir de 2010-08-12
+
+###### Artigo 3.º — Requisitos para a colocação no mercado
+
+1 - A colocação no mercado nacional de produtos identificados no anexo I após as datas indicadas no anexo II do presente decreto-lei, do qual faz parte integrante, depende:
+
+a) De o respectivo teor de COV não exceder os valores limite previstos no referido anexo II; e
+
+b) Do cumprimento das obrigações relativas à rotulagem constantes do artigo 4.º do presente decreto-lei.
+
+2 - Os valores limite de teor de COV a que se refere a alínea a) do número anterior são determinados através dos métodos analíticos indicados no anexo III do presente decreto lei, do qual faz parte integrante.
+
+3 - No caso de produtos identificados no anexo I aos quais seja necessário adicionar solventes ou outros componentes que contenham solventes para que os mesmos possam ser utilizados, os valores limite constantes do anexo II aplicam-se ao teor de COV na formulação do produto pronto a utilizar.
+
+4 - O disposto nos números anteriores não se aplica aos produtos vendidos para utilização exclusiva numa actividade abrangida pelo Decreto-Lei n.º 242/2001, de 31 de Agosto, e executada numa instalação registada ou autorizada nos termos dos artigos 5.º e 6.º do referido diploma.
+
+5 - No caso de produtos destinados ao restauro e à manutenção de imóveis ou de veículos de colecção, classificados ou inventariados ao abrigo da Lei n.º 107/2001, de 31 de Agosto, e demais legislação aplicável, o Instituto do Ambiente pode, excepcionalmente, autorizar a colocação no mercado, em quantidades rigorosamente limitadas, de produtos que não respeitem os valores limite de COV indicados no anexo II.
+
+6 - O pedido de autorização referido no número anterior é apresentado pelo responsável pela colocação no mercado, indicando:
+
+a) As quantidades e as características do produto em causa;
+
+b) O objectivo a que o mesmo se destina;
+
+c) As especificações da aplicação pretendida;
+
+d) Os fundamentos do pedido.
+
+7 - Os produtos abrangidos pelo presente decreto-lei que tenham sido produzidos antes das datas indicadas no anexo II e não preencham os requisitos referidos no n.º 1 do presente artigo podem ser colocados no mercado durante um período de 12 meses a contar da data de aplicação dos requisitos constantes do anexo II.
+
+###### Artigo 4.º — Rotulagem
+
+Os produtos enumerados no anexo I, antes de serem colocados no mercado, são obrigatoriamente rotulados com as seguintes indicações:
+
+a) A subcategoria do produto e os valores limite pertinentes de COV em g/l, referidos no anexo II;
+
+b) O teor máximo de COV em g/l do produto pronto a utilizar.
+
+###### Artigo 5.º — Fiscalização
+
+1 - A fiscalização do cumprimento do presente decreto-lei compete à Inspecção-Geral do Ambiente e do Ordenamento do Território e à Autoridade de Segurança Alimentar e Económica.
+
+2 - A fiscalização é exercida junto dos produtores e dos distribuidores e em postos de venda directa.
+
+###### Artigo 6.º — Controlo
+
+1 - Compete ao Instituto do Ambiente e à Inspecção-Geral do Ambiente e do Ordenamento do Território promover a execução do programa de controlo relativo ao cumprimento das obrigações decorrentes do presente decreto-lei, a aprovar por despacho do membro do Governo responsável pela área do ambiente no prazo de 90 dias a contar da sua entrada em vigor.
+
+2 - O programa de controlo referido no número anterior tem em conta o modelo definido pela Comissão Europeia relativo à transmissão dos dados de controlo.
+
+###### Artigo 7.º — Elaboração de relatórios e comunicação de dados
+
+1 - Compete ao Instituto do Ambiente elaborar um relatório sobre as categorias e quantidades de produtos autorizados ao abrigo do n.º 5 do artigo 3.º, bem como, em articulação com a Inspecção-Geral do Ambiente e do Ordenamento do Território, um relatório sobre os resultados da aplicação do programa de controlo referido no artigo anterior.
+
+2 - O Instituto do Ambiente assegura a comunicação à Comissão Europeia do cumprimento das obrigações decorrentes do presente decreto-lei, nomeadamente através da remessa dos relatórios a que se refere o número anterior, no prazo de 18 meses após as datas fixadas no anexo II para o cumprimento dos valores limite de COV e, posteriormente, de cinco em cinco anos.
+
+3 - Para efeitos do cumprimento do disposto no número anterior, as entidades responsáveis pela fiscalização devem remeter ao Instituto do Ambiente, até 31 de Março de cada ano, os resultados das respectivas acções de fiscalização.
+
+###### Artigo 8.º — Contra-ordenações
+
+1 - Constituem contra-ordenações ambientais graves, puníveis nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto:
+
+a) A colocação no mercado nacional de produtos enumerados no anexo i que não respeitem os valores limite de COV previstos no anexo ii ou as obrigações de rotulagem, em violação do disposto no n.º 1 do artigo 3.º;
+
+b) A colocação no mercado nacional de produtos que não respeitem os valores limite de COV previstos no anexo ii sem a autorização a que se refere o n.º 5 do artigo 3.º ou em desconformidade com o teor da mesma;
+
+c) A colocação no mercado nacional dos produtos abrangidos pelo presente decreto-lei, produzidos antes das datas indicadas no anexo ii, depois do prazo referido no n.º 7 do artigo 3.º
+
+2 - Constitui contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, o incumprimento do prazo de envio de dados estabelecido no programa de controlo referido no n.º 1 do artigo 6.º
+
+3 - A tentativa e a negligência são puníveis.
+
+> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 98/2010 - Diário da República n.º 155/2010, Série I de 2010-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2010-343084), em vigor a partir de 2010-08-12
+
+###### Artigo 9.º — Sanções acessórias e apreensão cautelar
+
+1 - Sempre que a gravidade da infracção o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.
+
+2 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, a condenação pela prática de infracções graves previstas no artigo anterior, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
+
+3 - A autoridade administrativa pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto.
+
+> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 98/2010 - Diário da República n.º 155/2010, Série I de 2010-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2010-343084), em vigor a partir de 2010-08-12
+
+###### Artigo 10.º — Instrução e decisão dos processos
+
+1 - A instauração e a instrução dos processos contra-ordenacionais compete às entidades referidas no artigo 5.º
+
+2 - Compete à Inspecção-Geral do Ambiente e do Ordenamento do Território decidir da aplicação de coimas e sanções acessórias.
+
+###### Artigo 11.º — Produto das coimas
+
+O produto das coimas, independentemente da fase processual em que estas forem liquidadas, é repartido da seguinte forma:
+
+a) 60% para o Estado;
+
+b) 20% para a entidade que levanta o auto e procede à instrução do processo;
+
+c) 20% para a entidade que aplica a coima.
+
+###### Artigo 12.º — Aplicação às Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma.
+
+2 - Os serviços e organismos das respectivas administrações regionais devem remeter ao Instituto do Ambiente até 31 de Março de cada ano as informações necessárias ao cumprimento da obrigação de informação prevista no artigo 7.º
+
+###### Artigo 13.º — Norma revogatória
+
+São revogados o n.º 5 do artigo 21.º do Decreto-Lei n.º 242/2001, de 31 de Agosto, e a alínea a) da categoria L), «Retoque de veículos», constante do anexo I do mesmo decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 6 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.
+
+Promulgado em 24 de Agosto de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 25 de Agosto de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — (a que se refere o n.º 1 do artigo 1.º)
+
+O presente decreto-lei é aplicável às tintas e vernizes e aos produtos de retoque de veículos e respectivas subcategorias, nos termos das definições seguintes.
+
+1 - Entende-se por tintas e vernizes os produtos enumerados nas subcategorias abaixo indicadas, com exclusão dos aerossóis. Trata-se de produtos de revestimento para aplicação em edifícios, seus remates e guarnições e estruturas associadas, para fins decorativos, funcionais e protectores.
+
+1.1 - Subcategorias:
+
+a) Tintas mate para paredes e tectos interiores: produtos de revestimento para aplicação em paredes e tectos interiores, com brilho inferior ou igual a 25, num ângulo de 60º;
+
+b) Tintas brilhantes para paredes e tectos interiores: produtos de revestimento para aplicação em paredes e tectos interiores, com brilho superior a 25, num ângulo de 60º;
+
+c) Tintas para paredes exteriores de substrato mineral: produtos de revestimento para aplicação em paredes exteriores de alvenaria, tijolo ou estuque;
+
+d) Tintas para remates e painéis interiores ou exteriores de madeira, metal ou plástico: produtos de revestimento que formam uma película opaca, para aplicação em remates e painéis. Estes produtos destinam-se a substratos de madeira, metal ou plástico. Esta subcategoria inclui subcapas e produtos de revestimento intermédios;
+
+e) Vernizes e lasures para remates interiores ou exteriores: produtos de revestimento que formam uma película transparente ou semiopaca, para aplicação em remates de madeira, metal ou plástico com fins decorativos e protectores. Nesta subcategoria estão incluídas as lasures opacas: produtos de revestimento que formam uma película opaca, para decoração e protecção da madeira contra a intempérie, conforme definido na norma EN 927-1, na categoria semiestável;
+
+f) Lasures com poder de enchimento mínimo: lasures que, de acordo com a norma EN 927-1:1996, formam uma película de espessura média inferior a 5 mm quando ensaiadas pelo método 5 A da norma ISO 2808:1997;
+
+g) Primários: produtos de revestimento com propriedades selantes e ou isolantes para utilização em madeira ou paredes e tectos;
+
+h) Primários fixadores: produtos de revestimento destinados a estabilizar as partículas soltas de substratos, a conferir propriedades hidrofóbicas e ou a proteger a madeira contra o azulamento;
+
+i) Produtos de revestimento de alto desempenho monocomponente: produtos de alto desempenho à base de material que forma película, para aplicações com funções especiais, nomeadamente capa primária ou de acabamento para plásticos, capa primária para substratos ferrosos ou metais reactivos como o zinco e o alumínio, acabamento anticorrosão, revestimento de pisos, incluindo de madeira e cimento, resistência aos graffiti, retardamento da chama e preservação das normas de higiene da indústria alimentar e dos serviços de saúde;
+
+j) Produtos de revestimento de alto desempenho bicomponente: produtos para as mesmas utilizações dos anteriores, com um segundo componente (por exemplo, aminas terciárias) adicionado antes da aplicação;
+
+l) Produtos de revestimento multicolor: produtos destinados a conferir efeitos a dois tons ou policromáticos à primeira aplicação;
+
+m) Produtos de revestimento de efeito decorativo: produtos destinados a conferir efeitos estéticos especiais a substratos pré-pintados especialmente preparados ou bases, subsequentemente tratados com vários instrumentos durante a fase de secagem.
+
+2 - Entende-se por produtos de retoque de veículos os produtos referidos nas subcategorias abaixo indicadas. São utilizados para o revestimento de veículos rodoviários, tal como definidos na Portaria n.º 427/87, de 22 de Maio, ou parte deles, efectuado no âmbito de uma reparação, conservação ou decoração de veículo fora das instalações de produção.
+
+2.1 - Subcategorias:
+
+a) Produtos de preparação e limpeza: produtos destinados à remoção, mecânica ou química, de revestimentos antigos ou ferrugem ou a conferir uma base adequada para aplicação de novos produtos de revestimento:
+
+i) Produtos de preparação, incluem produtos de limpeza (produto para limpeza de pistolas de aplicação e outros equipamentos), decapantes, desengordurantes (incluindo os do tipo antiestático para plástico) e removedores de silicone;
+
+ii) Pré-detergente: um produto de limpeza para eliminar as impurezas superficiais no processo de preparação e previamente à aplicação dos produtos de revestimento;
+
+b) Betume para carroçarias ou betume enchedor: produtos de altos sólidos, para aplicação à pistola ou à espátula, destinados a eliminar imperfeições profundas da superfície previamente à aplicação do aparelho;
+
+c) Primário: qualquer produto de revestimento para aplicação em metal nu ou acabamentos existentes, destinado a proporcionar protecção contra a corrosão previamente à aplicação de um primário aparelho:
+
+i) Aparelho: qualquer produto de revestimento para aplicação imediata, prévia ao acabamento, com o fim de promover a resistência à corrosão, assegurar a aderência do acabamento e possibilitar a formação de uma superfície uniforme por eliminação de imperfeições superficiais menores;
+
+ii) Primários condicionadores: produtos de revestimento para aplicação como capa primária, nomeadamente promotores de aderência, selantes, betumes, subcapas, primários para plástico, enchedores de aplicação molhado sobre molhado, sem precisão de lixa e enchedores pulverizáveis;
+
+iii) Pré-primário: qualquer produto de revestimento que contenha, pelo menos, 0,5% em massa de ácido fosfórico, para aplicação directa em superfícies de metal nu com o fim de promover a resistência à corrosão e a aderência; produtos de revestimento utilizados como primários soldáveis e soluções mordentes para galvanizados de zinco;
+
+d) Acabamento: qualquer produto de revestimento pigmentado para aplicação em monocamada ou base policamada, destinado a conferir brilho e durabilidade. Inclui todos os produtos de acabamento, como as bases e os vernizes de acabamento:
+
+i) Base: um produto de revestimento pigmentado destinado a conferir a cor ou o efeito óptico desejado, mas não o brilho ou a resistência superficial do esquema de pintura;
+
+ii) Verniz de acabamento: um produto de revestimento transparente destinado a conferir o brilho final e as propriedades de resistência do esquema de pintura;
+
+e) Acabamentos especiais: produtos de revestimento para aplicação como acabamentos com propriedades especiais, como efeito metalizado ou nacarado à primeira demão, capa de alto desempenho de cor homogénea ou transparente (por exemplo, vernizes de acabamento anti-riscos fluorados), base reflectora, acabamento texturado (por exemplo, martelado), revestimento antiderrapante, selante para a parte inferior das carroçarias, revestimento antigravilha, acabamento interior; e aerossóis.
+
+## Anexo II — (a que se refere o n.º 1 do artigo 3.º)
+
+A - Teor máximo de COV para as tintas decorativas e vernizes
+
+(ver documento original)
+
+B - Teor máximo de COV para os produtos de retoque de veículos
+
+(ver documento original)
+
+> Retificado pelo/a [Declaração de Rectificação n.º 75/2006 - Diário da República n.º 212/2006, Série I de 2006-11-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/75-2006-546203), produz efeitos a partir de 2006-09-11
+
+## Anexo III — (métodos referidos no n.º 2 do artigo 3.º)
+
+Método autorizado para produtos com teor ponderal de COV inferior a 15 % quando não estão presentes diluentes reativos:
+
+(ver documento original)
+
+Métodos autorizados para produtos com teor ponderal de COV igual ou superior a 15 % quando não estão presentes diluentes reativos:
+
+(ver documento original)
+
+Método autorizado para produtos que contenham COV quando estão presentes diluentes reativos:
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 180/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2012-179014), em vigor a partir de 2012-08-04

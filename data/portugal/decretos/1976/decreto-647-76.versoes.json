@@ -1,0 +1,337 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:431003:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/1976-213463256",
+ "dre_path": "/dr/detalhe/decreto/647-1976-431003",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1976-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213437917",
+    "213437903",
+    "213437904",
+    "213437905",
+    "213437906",
+    "213437907",
+    "213437908",
+    "213437909",
+    "213437910",
+    "213437911",
+    "213437912"
+   ]
+  },
+  {
+   "date": "2006-08-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:537249:por",
+     "title": "Lei n.º 30/2006",
+     "published": "2006-07-11",
+     "dre_path": "/dr/detalhe/lei/30-2006-537249"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "213437902",
+    "213437903",
+    "213437904",
+    "213437905",
+    "213437906",
+    "213437907",
+    "213437908",
+    "213437909",
+    "213437914",
+    "213437915",
+    "213437916",
+    "213437913"
+   ]
+  },
+  {
+   "date": "2012-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179059:por",
+     "title": "Decreto-Lei n.º 174/2012",
+     "published": "2012-08-02",
+     "dre_path": "/dr/detalhe/decreto-lei/174-2012-179059"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "213437917",
+    "213437918",
+    "213437919",
+    "213437920",
+    "213437921",
+    "213437922",
+    "213437923",
+    "213437924",
+    "213437925",
+    "213437926",
+    "213437927",
+    "213437928"
+   ]
+  }
+ ],
+ "fragments": {
+  "213437917": {
+   "fragment_id": "213463257",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2012-09-01",
+   "changed_by": [],
+   "markdown": "Decreto n.º 647/76\n\nde 31 de Julho\n\nNos termos do artigo 2.º do Decreto-Lei n.º 254/76, de 7 de Abril, a exposição e venda de objectos e meios de conteúdo pornográfico ou obsceno só é permitida no interior de estabelecimentos que se dediquem exclusivamente a esse tipo de comércio, devidamente licenciados, em termos a regulamentar.\n\nÉ a essa regulamentação que se procede através do presente diploma.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, o seguinte:"
+  },
+  "213437903": {
+   "fragment_id": "213463258",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1. A exposição e venda de objectos e meios referidos no n.º 1 do artigo 1.º do Decreto-Lei n.º 254/76, de 7 de Abril, só é permitida no interior de estabelecimentos que se dediquem exclusivamente a esse tipo de comércio, devidamente licenciados, nos termos deste diploma.\n\n2. Os mencionados estabelecimentos não poderão exibir nas montras ou em locais visíveis da via pública objectos e meios de conteúdo pornográfico ou obsceno.\n\n3. Não poderão também os mesmos estabelecimento usar nos seus nomes ou insígnias expressões ou figuras ultrajantes do pudor público."
+  },
+  "213437904": {
+   "fragment_id": "213463259",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA venda referida no artigo anterior é vedada a ou por menores de 18 anos."
+  },
+  "213437905": {
+   "fragment_id": "213463260",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs estabelecimentos de comércio de objectos ou meios de conteúdo pornográfico ou obsceno não poderão funcionar a menos de 300 m de locais onde se pratique o culto de qualquer religião, de estabelecimentos de ensino, parques ou jardins infantis."
+  },
+  "213437906": {
+   "fragment_id": "213463261",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs pedidos de entrada em funcionamento destes estabelecimentos serão formulados em requerimento, em papel selado, com a assinatura reconhecida por notário, dirigido ao director-geral do Comércio não Alimentar, instruído com os seguintes elementos:\n\na) Prova da qualidade de comerciante;\n\nb) Certidão do pacto social, se o requerente for uma sociedade;\n\nc) Planta topográfica da zona onde se situa o estabelecimento, abrangendo um raio de 300 m a partir do local do mesmo, em escala de 1/1000, em duplicado, com indicação dos fins a que se destinam os edifícios e terrenos nela incluídos."
+  },
+  "213437907": {
+   "fragment_id": "213463262",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1. Se, instruído o processo, em face do mesmo se concluir que o estabelecimento reúne as condições exigidas, a Direcção-Geral de Fiscalização Económica, a pedido da Direcção-Geral do Comércio não Alimentar, determinará uma vistoria ao mesmo, a fim de averiguar se está em condições de ser aberto ao público.\n\nDetectadas deficiências ou anomalias, será o peticionário convidado a suprimi-las no prazo que lhe for fixado, findo o qual aquela Direcção-Geral determinará que se proceda a nova vistoria.\n\n2. Serão lavrados auto das vistorias efectuadas, os quais deverão ser remetidos, com parecer fundamentado pela Direcção-Geral de Fiscalização Económica, à Direcção-Geral do Comércio não Alimentar, que definitivamente resolverá acerca do pedido formulado, com comunicação da decisão àquela Direcção-Geral e ao interessado."
+  },
+  "213437908": {
+   "fragment_id": "213463263",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nDa decisão que denegar autorização para a entrada em funcionamento do estabelecimento cabe recurso nos termos gerais de direito."
+  },
+  "213437909": {
+   "fragment_id": "213463264",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs estabelecimentos a que se refere o presente diploma ficarão sujeitos, quanto ao seu funcionamento, incluindo horas de abertura e de encerramento, às normas regulamentadoras dos estabelecimentos de venda a retalho."
+  },
+  "213437910": {
+   "fragment_id": "213463265",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs infracções ao disposto no presente regulamento são puníveis com multa até 100000$00, e nunca inferior a 20000$00, no caso de reincidência, se não lhes couber pena mais grave pela lei geral."
+  },
+  "213437911": {
+   "fragment_id": "213463266",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSem prejuízo do disposto no artigo 7.º do Decreto-Lei n.º 254/76, de 7 de Abril, compete especialmente à Direcção-Geral de Fiscalização Económica a prevenção, fiscalização e denúncia das infracções ao presente regulamento."
+  },
+  "213437912": {
+   "fragment_id": "213463267",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio Interno."
+  },
+  "213437902": {
+   "fragment_id": "213463257",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 647/76\n\nde 31 de Julho\n\nNos termos do artigo 2.º do Decreto-Lei n.º 254/76, de 7 de Abril, a exposição e venda de objectos e meios de conteúdo pornográfico ou obsceno só é permitida no interior de estabelecimentos que se dediquem exclusivamente a esse tipo de comércio, devidamente licenciados, em termos a regulamentar.\n\nÉ a essa regulamentação que se procede através do presente diploma.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, o seguinte:"
+  },
+  "213437914": {
+   "fragment_id": "213463265",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2006-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+   ],
+   "markdown": "###### Artigo 8.º\n\nA infracção ao disposto no presente diploma constitui contra-ordenação sancionada com coima de (euro) 200 a (euro) 1000, se sanção mais grave não for aplicável por força de outra disposição legal.\n\n> Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+  },
+  "213437915": {
+   "fragment_id": "213463266",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2006-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+   ],
+   "markdown": "###### Artigo 9.º\n\nÉ competente para a instauração, processamento e instrução dos processos de contra-ordenação a Autoridade de Segurança Alimentar e Económica, sendo a Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade competente para a decisão de aplicação de coimas.\n\n> Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+  },
+  "213437916": {
+   "fragment_id": "213463267",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2006-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+   ],
+   "markdown": "###### Artigo 10.º\n\nO produto das coimas aplicadas é distribuído da seguinte forma:\n\na) 40% para a Autoridade de Segurança Alimentar e Económica;\n\nb) 60% para o Estado.\n\n> Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+  },
+  "213437913": {
+   "fragment_id": "213463268",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António de Almeida Santos - José Carlos Alfaia Pinto Pereira.\n\nPromulgado em 13 de Julho de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "213437918": {
+   "fragment_id": "213463258",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1. A exposição e venda de objectos e meios referidos no n.º 1 do artigo 1.º do Decreto-Lei n.º 254/76, de 7 de Abril, só é permitida no interior de estabelecimentos que se dediquem exclusivamente a esse tipo de comércio, devidamente licenciados, nos termos deste diploma.\n\n2. Os mencionados estabelecimentos não poderão exibir nas montras ou em locais visíveis da via pública objectos e meios de conteúdo pornográfico ou obsceno.\n\n3. Não poderão também os mesmos estabelecimento usar nos seus nomes ou insígnias expressões ou figuras ultrajantes do pudor público.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+  },
+  "213437919": {
+   "fragment_id": "213463259",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA venda referida no artigo anterior é vedada a ou por menores de 18 anos.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+  },
+  "213437920": {
+   "fragment_id": "213463260",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 3.º\n\nOs estabelecimentos de comércio de objectos ou meios de conteúdo pornográfico ou obsceno não poderão funcionar a menos de 300 m de locais onde se pratique o culto de qualquer religião, de estabelecimentos de ensino, parques ou jardins infantis.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+  },
+  "213437921": {
+   "fragment_id": "213463261",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs pedidos de entrada em funcionamento destes estabelecimentos serão formulados em requerimento, em papel selado, com a assinatura reconhecida por notário, dirigido ao director-geral do Comércio não Alimentar, instruído com os seguintes elementos:\n\na) Prova da qualidade de comerciante;\n\nb) Certidão do pacto social, se o requerente for uma sociedade;\n\nc) Planta topográfica da zona onde se situa o estabelecimento, abrangendo um raio de 300 m a partir do local do mesmo, em escala de 1/1000, em duplicado, com indicação dos fins a que se destinam os edifícios e terrenos nela incluídos.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+  },
+  "213437922": {
+   "fragment_id": "213463262",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n- 1. Se, instruído o processo, em face do mesmo se concluir que o estabelecimento reúne as condições exigidas, a Direcção-Geral de Fiscalização Económica, a pedido da Direcção-Geral do Comércio não Alimentar, determinará uma vistoria ao mesmo, a fim de averiguar se está em condições de ser aberto ao público.\n\nDetectadas deficiências ou anomalias, será o peticionário convidado a suprimi-las no prazo que lhe for fixado, findo o qual aquela Direcção-Geral determinará que se proceda a nova vistoria.\n\n2. Serão lavrados auto das vistorias efectuadas, os quais deverão ser remetidos, com parecer fundamentado pela Direcção-Geral de Fiscalização Económica, à Direcção-Geral do Comércio não Alimentar, que definitivamente resolverá acerca do pedido formulado, com comunicação da decisão àquela Direcção-Geral e ao interessado.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+  },
+  "213437923": {
+   "fragment_id": "213463263",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\nDa decisão que denegar autorização para a entrada em funcionamento do estabelecimento cabe recurso nos termos gerais de direito.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+  },
+  "213437924": {
+   "fragment_id": "213463264",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 7.º\n\nOs estabelecimentos a que se refere o presente diploma ficarão sujeitos, quanto ao seu funcionamento, incluindo horas de abertura e de encerramento, às normas regulamentadoras dos estabelecimentos de venda a retalho.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+  },
+  "213437925": {
+   "fragment_id": "213463265",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+   ],
+   "markdown": "###### Artigo 8.º\n\nA infracção ao disposto no presente diploma constitui contra-ordenação sancionada com coima de (euro) 200 a (euro) 1000, se sanção mais grave não for aplicável por força de outra disposição legal.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+  },
+  "213437926": {
+   "fragment_id": "213463266",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+   ],
+   "markdown": "###### Artigo 9.º\n\nÉ competente para a instauração, processamento e instrução dos processos de contra-ordenação a Autoridade de Segurança Alimentar e Económica, sendo a Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade competente para a decisão de aplicação de coimas.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+  },
+  "213437927": {
+   "fragment_id": "213463267",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+   ],
+   "markdown": "###### Artigo 10.º\n\nO produto das coimas aplicadas é distribuído da seguinte forma:\n\na) 40% para a Autoridade de Segurança Alimentar e Económica;\n\nb) 60% para o Estado.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 26.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+  },
+  "213437928": {
+   "fragment_id": "213463268",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António de Almeida Santos - José Carlos Alfaia Pinto Pereira.\n\nPromulgado em 13 de Julho de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2012-179059), em vigor a partir de 2012-09-01"
+  }
+ }
+}

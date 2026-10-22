@@ -1,0 +1,214 @@
+---
+schema_version: '1.0'
+id: pt:dre:216770688:por
+title: Decreto-Lei n.º 65/2023
+short_title: null
+summary: Procede à prorrogação do regime remuneratório aplicável à prestação de trabalho suplementar por médicos nos serviços
+  de urgência e altera o regime jurídico dos estabelecimentos de cuidados de saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Saúde
+official_number: 65/2023
+official_date: null
+publication_date: '2023-08-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/2023, Série I de 2023-08-07
+  number: '152'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15200/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/65/2023/08/07/p/dre/pt/html
+  oj: null
+  dre: '216770688'
+  dre_path: /dr/detalhe/decreto-lei/65-2023-216770688
+  internal: pt:dre:216770688:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2023-216770688
+  metadata_url: https://data.dre.pt/eli/dec-lei/65/2023/08/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2023-216770688
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-08-07T00:00:00Z'
+integrity:
+  source_sha256: ffd3b26b2e19e8234c1316f129b3aa2dd33800fcc352b4205f299614aba1815a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-65-216770688.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Função Pública
+- Saúde
+- Serviço Nacional de Saúde
+- Remuneração Acessória
+- Horas Extraordinárias
+- Administração Central do Sistema de Saúde
+- Prestação de Serviços
+- Cuidados Médicos
+- Estabelecimento Hospitalar
+- Remuneração
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/125/2019/08/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/125/2019/08/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2014/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2014/08/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/15/2023/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/2023/02/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/50-a/2022/07/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/50-a/2022/07/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/392/2019/11/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/392/2019/11/05/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 65/2023
+
+de 7 de agosto
+
+As características da demografia médica e o regime de dispensa de trabalho noturno e de trabalho em serviço de urgência que dela decorrem não têm permitido colmatar todas as necessidades em saúde, em especial no que aos serviços de urgência diz respeito.
+
+Como forma de minimizar o recurso à prestação de serviços médicos, através do [Decreto-Lei n.º 50-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2022-186577262), de 25 de julho, que estabelece o regime remuneratório do trabalho suplementar realizado por médicos em serviços de urgência, criaram-se, provisoriamente, as condições para a estabilização das equipas de urgência dos serviços e estabelecimentos de saúde públicos e estabeleceu-se um regime remuneratório aplicável à prestação de trabalho suplementar realizado por trabalhadores médicos necessário para assegurar o funcionamento dos serviços de urgência.
+
+Tal regime vigorou, inicialmente, até 31 de janeiro de 2023, altura em que, fruto das negociações em curso com as respetivas estruturas sindicais, e sem prejuízo do reconhecimento da essencialidade da adoção de medidas de caráter estrutural, se previu a sua prorrogação até ao final do mês de julho de 2023, através do [Decreto-Lei n.º 15/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), de 24 de fevereiro, que altera o regime remuneratório aplicável à prestação de trabalho suplementar realizado por médicos nos serviços de urgência.
+
+Considerando que as referidas negociações com as estruturas sindicais ainda perduram e que as necessidades de recursos humanos, em especial nos serviços de urgência, se tornam particularmente evidentes em período de férias, importa assegurar, no imediato, a capacidade de resposta do Serviço Nacional de Saúde, prorrogando a vigência do [Decreto-Lei n.º 50-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2022-186577262), de 25 de julho, na sua redação atual, até ao final do mês de setembro de 2023.
+
+Assim, além da capacidade de resposta do Serviço Nacional de Saúde durante este período, garantem-se também as condições necessárias para que as negociações com as estruturas sindicais permitam alcançar soluções de caráter estrutural que se reconhecem como essenciais e indispensáveis para a resolução do problema em termos definitivos, permitindo pôr termo a este regime transitório.
+
+Por outro lado, as especificidades dos estabelecimentos prestadores de cuidados de saúde determinam que se proceda também à alteração do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, que estabelece o regime jurídico a que ficam sujeitos a abertura, a modificação e o funcionamento dos estabelecimentos prestadores de cuidados de saúde.
+
+Com efeito, nos termos do artigo 19.º do referido regime previu-se, inicialmente, que todos os estabelecimentos prestadores de cuidados de saúde detentores de licenças emitidas ao abrigo de legislação vigente antes da sua entrada em vigor deviam conformar-se com o regime neste estabelecido, no prazo de cinco anos, a contar da data da sua entrada em vigor.
+
+Foi, contudo, reconhecido que a conformação com o novo regime, em particular com os requisitos técnicos de funcionamento e com as regras de licenciamento, comportava processos morosos, complexos e custos de contexto que justificavam uma séria e criteriosa ponderação e revisão do regime substantivo relativo a estes licenciamentos.
+
+Neste contexto, o [Decreto-Lei n.º 125/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2019-124256709), de 28 de agosto, veio alterar o prazo de adaptação previsto no n.º 4 do artigo 19.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, prorrogando-o até ao dia 31 de agosto de 2023, com o propósito de, nesse período, se proceder à necessária revisão das regras de licenciamento e dos requisitos técnicos relativos à organização e funcionamento das diversas tipologias de unidades, a aprovar por portarias ao abrigo do referido decreto-lei.
+
+Por vicissitudes várias, em particular a que decorreu do impacto da pandemia da doença COVID-19, com particular repercussão nas instituições da área da saúde, não foi possível concluir o trabalho de revisão das regras de licenciamento da generalidade das tipologias, com a exceção da revisão relativa aos laboratórios de patologia clínica e respetivos postos de colheita, que culminou com a publicação da [Portaria n.º 392/2019](https://diariodarepublica.pt/dr/detalhe/portaria/392-2019-125874620), de 5 de novembro, que estabelece os requisitos mínimos relativos ao licenciamento, instalação, organização e funcionamento, recursos humanos e instalações técnicas dos laboratórios de patologia clínica ou análises clínicas e, bem assim, dos respetivos postos de colheitas.
+
+Como forma de retomar aquele objetivo, através do [Despacho n.º 14603/2022](https://diariodarepublica.pt/dr/detalhe/despacho/14603-2022-205049459), do Ministro da Saúde, foi criado um grupo de trabalho com a missão de estudar e propor os requisitos técnicos de funcionamento aplicáveis a cada uma das tipologias de estabelecimentos prestadores de cuidados de saúde com vista ao respetivo licenciamento, nos termos do disposto nos n.os 1 e 4 do artigo 2.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual.
+
+No decurso dos trabalhos, considerando a existência de várias tipologias de estabelecimento em causa, concluiu-se que o prazo de adaptação ao regime em apreço, uniformemente concedido até ao dia 31 de agosto de 2023, deve atender às especificidades e complexidades próprias de cada tipologia, a prever em portaria que defina os respetivos requisitos técnicos.
+
+Foram observados os procedimentos de negociação coletiva, decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
+
+Foi ouvida a Entidade Reguladora da Saúde.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede:
+
+a) À segunda alteração ao [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, alterado pelo [Decreto-Lei n.º 125/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2019-124256709), de 28 de agosto, que estabelece o regime jurídico a que ficam sujeitos a abertura, a modificação e o funcionamento dos estabelecimentos prestadores de cuidados de saúde;
+
+b) À segunda alteração ao [Decreto-Lei n.º 50-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2022-186577262), de 25 de julho, alterado pelo [Decreto-Lei n.º 15/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), de 24 de fevereiro, que estabelece o regime remuneratório do trabalho suplementar realizado por médicos em serviços de urgência.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto
+
+O artigo 19.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 19.º
+
+[...]
+
+1 - Mantêm-se válidas as licenças de estabelecimentos prestadores de cuidados de saúde emitidas ao abrigo de legislação vigente antes da entrada em vigor do presente decreto-lei, desde que não ocorram modificações nos termos do artigo 12.º
+
+2 - [...]
+
+3 - [...]
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - O disposto no n.º 1 não dispensa os operadores do cumprimento dos requisitos de funcionamento vigentes à data da emissão da respetiva licença de funcionamento.»
+
+###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 50-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2022-186577262), de 25 de julho
+
+O artigo 7.º do [Decreto-Lei n.º 50-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2022-186577262), de 25 de julho, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 7.º
+
+[...]
+
+O regime previsto no presente decreto-lei vigora até 30 de setembro de 2023.»
+
+###### Artigo 4.º — Norma revogatória
+
+São revogados os n.os 4 e 5 do artigo 19.º do [Decreto-Lei n.º 127/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), de 22 de agosto, na sua redação atual.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+###### Artigo 6.º — Produção de efeitos
+
+A alteração introduzida ao artigo 7.º do [Decreto-Lei n.º 50-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2022-186577262), de 25 de julho, na sua redação atual, produz efeitos a partir de 1 de agosto de 2023.
+
+Visto e aprovado em Conselho de Ministros de 13 de julho de 2023. - António Luís Santos da Costa - Sofia Alves de Aguiar Batalha - Manuel Francisco Pizarro de Sampaio e Castro.
+
+**Promulgado em 27 de julho de 2023.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 2 de agosto de 2023.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

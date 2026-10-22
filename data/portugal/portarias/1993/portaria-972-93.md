@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:645483:por
+title: Portaria n.º 972/93
+short_title: null
+summary: Altera a Portaria n.º 219/91, de 16 de Março, que determina que as Faculdades de Medicina e de Ciências Médicas,
+  bem como outras instituições hospitalares e estabelecimentos de saúde, passem a estar articulados institucionalmente, nos
+  termos definidos no Decreto-Lei n.º 94/91, de 26 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Educação e da Saúde
+proposing_entity: null
+official_number: 972/93
+official_date: null
+publication_date: '1993-10-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/1993, Série I-B de 1993-10-02
+  number: '232'
+  series: I
+  supplement: null
+  pages: 5579 - 5580
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/10/232b00/55795580.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/972/1993/10/02/p/dre/pt/html
+  oj: null
+  dre: '645483'
+  dre_path: /dr/detalhe/portaria/972-1993-645483
+  internal: pt:dre:645483:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-1993-645483
+  metadata_url: https://data.dre.pt/eli/port/972/1993/10/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-1993-645483
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-03-23T00:00:00Z'
+integrity:
+  source_sha256: 9ea9e07e74cb928bc139017dbc1778a7d25f4c771de0c10bbe1f9a00717ec11c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-972-645483.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Medicina
+- Médico
+- Faculdade de Medicina
+- Pessoal Docente
+- Estabelecimento Hospitalar
+- Ensino Superior
+relationships:
+- type: amended_by
+  target: pt:dre:209618:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/94/1991/02/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/94/1991/02/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/219/1991/03/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/219/1991/03/16/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 972/93
+
+de 2 de Outubro
+
+A [Portaria n.º 219/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-1991-476091), de 16 de Março, determinou que a Faculdade de Ciências Médicas da Universidade Nova de Lisboa e o Hospital de Egas Moniz funcionassem em articulação institucional, para os efeitos previstos no [Decreto-Lei n.º 94/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1991-484416), de 26 de Fevereiro.
+
+A articulação possibilitou que algumas disciplinas constantes do plano de estudos aprovado para a Faculdade de Ciências Médicas fossem ministradas no Hospital.
+
+No entanto, disciplinas há que, constando embora do plano de estudos em vigor para a licenciatura em Medicina leccionadas pela Faculdade de Ciências Médicas, são da responsabilidade do Departamento de Microbiologia do Instituto de Higiene e Medicina Tropical, como é o caso da Bacteriologia.
+
+Por outro lado, os Departamentos de Anatomia Patológica e de Genética da Faculdade de Ciências Médicas da Universidade Nova de Lisboa estão instalados no edifício do Instituto de Higiene e Medicina Tropical, onde são leccionadas as aulas das disciplinas conexas com aquelas áreas do conhecimento científico, situação que aconselha a que a articulação institucional se estenda ao Instituto.
+
+Assim, ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 94/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1991-484416), de 26 de Fevereiro:
+
+Manda o Governo, pelos Ministros da Educação e da Saúde, que a [Portaria n.º 219/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-1991-476091), de 16 de Março, passe a ter a seguinte redacção:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Instituto de Higiene e Medicina Tropical;
+
+f) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de Pulido Valente;
+
+g) Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Hospital de São Francisco Xavier;
+
+h) Faculdades de Medicina das Universidades de Lisboa, Coimbra e Porto, Faculdade de Ciências Médicas da Universidade Nova de Lisboa e Instituto de Ciências Biomédicas de Abel Salazar com os centros de saúde dependentes das Administrações Regionais de Saúde de Lisboa, Coimbra e Porto.
+
+Ministérios da Educação e da Saúde.
+
+**Assinada em 9 de Setembro de 1993.**
+
+**O Ministro da Educação, António Fernando Couto dos Santos. - O Ministro da Saúde, Arlindo Gomes de Carvalho.**

@@ -1,0 +1,727 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:475755:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-221278567",
+ "dre_path": "/dr/detalhe/decreto-lei/130-a-2001-475755",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-04-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221311979",
+    "221311980",
+    "221311981",
+    "221311982",
+    "221311983",
+    "221311984",
+    "221311985",
+    "221311986",
+    "221311987",
+    "221311988",
+    "221311989",
+    "221311990",
+    "221311991",
+    "221311992",
+    "221311993",
+    "221311994",
+    "221311995",
+    "221311996",
+    "221311997",
+    "221311998",
+    "221311999",
+    "221312000",
+    "221312001",
+    "221312002",
+    "221312003",
+    "221312004",
+    "221312005",
+    "221312006",
+    "221312007",
+    "221312008",
+    "221312009",
+    "221312010",
+    "221312011",
+    "221312012",
+    "221312013",
+    "221312014",
+    "221312015",
+    "221312016",
+    "221312017",
+    "221312018",
+    "221312019",
+    "221312020",
+    "221312021",
+    "221312022"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146221:por",
+     "title": "Decreto-Lei n.º 114/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2011-146221"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º"
+   ],
+   "fragments": [
+    "221311979",
+    "221311980",
+    "221312024",
+    "221311982",
+    "221312025",
+    "221311984",
+    "221312026",
+    "221311986",
+    "221311987",
+    "221312027",
+    "221311989",
+    "221311990",
+    "221311991",
+    "221311992",
+    "221311993",
+    "221311994",
+    "221311995",
+    "221311996",
+    "221311997",
+    "221311998",
+    "221311999",
+    "221312000",
+    "221312001",
+    "221312002",
+    "221312003",
+    "221312004",
+    "221312005",
+    "221312006",
+    "221312007",
+    "221312008",
+    "221312028",
+    "221312010",
+    "221312011",
+    "221312012",
+    "221312013",
+    "221312014",
+    "221312029",
+    "221312030",
+    "221312017",
+    "221312018",
+    "221312019",
+    "221312020",
+    "221312021",
+    "221312022",
+    "221312023"
+   ]
+  },
+  {
+   "date": "2023-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222645049:por",
+     "title": "Decreto-Lei n.º 89/2023",
+     "published": "2023-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2023-222645049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º"
+   ],
+   "fragments": [
+    "221311979",
+    "221311980",
+    "222515465",
+    "222515466",
+    "222515467",
+    "222515468",
+    "222515469",
+    "221311986",
+    "221311987",
+    "221312027",
+    "221311989",
+    "221311990",
+    "221311991",
+    "221311992",
+    "221311993",
+    "221311994",
+    "221311995",
+    "221311996",
+    "221311997",
+    "221311998",
+    "221311999",
+    "221312000",
+    "221312001",
+    "221312002",
+    "221312003",
+    "221312004",
+    "221312005",
+    "221312006",
+    "221312007",
+    "221312008",
+    "222515470",
+    "221312010",
+    "221312011",
+    "222515471",
+    "221312013",
+    "221312014",
+    "222515472",
+    "222515473",
+    "221312017",
+    "221312018",
+    "221312019",
+    "221312020",
+    "221312021",
+    "221312022",
+    "221312023"
+   ]
+  }
+ ],
+ "fragments": {
+  "221311979": {
+   "fragment_id": "221278568",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 130-A/2001\n\nde 23 de Abril\n\nA Lei n.º 30/2000, de 29 de Novembro, definiu o regime jurídico aplicável ao consumo de estupefacientes e substâncias psicotrópicas, bem como a protecção sanitária e social das pessoas que consomem tais substâncias sem prescrição médica.\n\nNos termos dessa lei a competência para o processamento das contra-ordenações e aplicação das respectivas sanções é atribuída a uma comissão especialmente criada para o efeito, designada «comissão para a dissuasão da toxicodependência», devendo ser adoptadas todas as providências regulamentares necessárias à aplicação do regime de tratamento e fiscalização nela previsto.\n\nEmbora a Lei n.º 30/2000, de 29 de Novembro, determine que a organização, processo e regime de funcionamento da comissão é definida por portaria de dois membros do Governo, a conveniência em incluir num único diploma matérias que em rigor não se reconduzem integralmente a esse núcleo temático (como é o caso, designadamente, da actuação das entidades policiais e dos governos civis no âmbito do processo de contra-ordenação), tornando mais fácil a sua aplicação, leva a que se opte pela utilização da forma de decreto-lei.\n\nAssim:\n\nConsiderando o n.º 3 do artigo 7.º da Lei n.º 30/2000, de 29 de Novembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\nI - Objecto"
+  },
+  "221311980": {
+   "fragment_id": "221278569",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma tem por objecto estabelecer a organização, o processo e o regime de funcionamento da comissão para a dissuasão da toxicodependência, a que se refere o n.º 1 do artigo 5.º da Lei n.º 30/2000, de 29 de Novembro, e regular outras matérias complementares.\n\nII - Organização"
+  },
+  "221311981": {
+   "fragment_id": "221278570",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e competência territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito e competência territorial\n\n1 - Em cada capital de distrito do continente é constituída uma comissão para a dissuasão da toxicodependência, doravante designada comissão, que exerce funções em instalações para o efeito disponibilizadas pelo respectivo governo civil.\n\n2 - É territorialmente competente a comissão da área do domicílio do consumidor, excepto se este não for conhecido, circunstância em que será competente a comissão da área em que o consumidor tiver sido encontrado.\n\n3 - O membro do Governo responsável pela coordenação da política da droga e da toxicodependência pode constituir, por portaria, mais de uma comissão nos distritos onde a concentração de processos o justifique, devendo, aquando da sua constituição, definir o local onde fica sediada, podendo determinar que se localize noutro concelho que não o da capital de distrito, bem como a respectiva área geográfica de competência dentro do distrito.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "221311982": {
+   "fragment_id": "221278571",
+   "type": 11,
+   "heading": "Artigo 3.º — Período de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Período de exercício\n\n1 - A comissão é composta por três membros, um dos quais preside, nomeados nos termos do disposto nos n.os 1 e 2 do artigo 7.º da Lei n.º 30/2000, de 29 de Novembro, por um período de três anos, contados da data do efectivo início de funções, sendo substituídos com a posse do membro designado para preencher o respectivo lugar.\n\n2 - O mandato dos membros da comissão é renovável por idênticos períodos.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "221311983": {
+   "fragment_id": "221278572",
+   "type": 11,
+   "heading": "Artigo 4.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Presidente\n\n1 - O presidente de cada comissão é nomeado por despacho conjunto do Ministro da Justiça, da Ministra da Saúde e do membro do Governo responsável pela coordenação da política da droga e da toxicodependência, mediante proposta deste.\n\n2 - Ao presidente compete:\n\na) Representar a comissão, assegurando os contactos que se mostrem adequados com o governo civil, com o Instituto Português da Droga e da Toxicodependência (IPDT), com as autoridades policiais, com as entidades públicas e privadas que prestam serviços de saúde e com outras entidades com as quais se mostre necessário contactar por força das atribuições da comissão;\n\nb) Convocar e presidir às audições e sessões, dirigindo os trabalhos e garantindo a disciplina;\n\nc) Propor o horário de funcionamento e fixar, de modo rotativo, o regime de disponibilidade permanente dos membros da comissão, se este se revelar necessário, tendo em conta as exigências do serviço;\n\nd) Despachar os assuntos correntes;\n\ne) Dirigir os serviços dependentes da comissão e exercer o poder disciplinar relativamente ao respectivo pessoal;\n\nf) Fixar as escalas de serviço e os turnos quando os houver;\n\ng) Estabelecer o mapa de férias dos membros da comissão e do pessoal ao seu serviço;\n\nh) Exercer os demais poderes que lhe forem atribuídos pela lei ou por regulamento.\n\n3 - O presidente é substituído, nas suas faltas e impedimentos, pelo membro da comissão que designar ou, na falta de designação, por aquele que o membro do Governo responsável pela coordenação da política da droga e da toxicodependência indicar.\n\n4 - O presidente pode delegar competências em qualquer membro da comissão e, no que tange à articulação com os órgãos e autoridades públicos e com as entidades privadas, no pessoal técnico.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "221311984": {
+   "fragment_id": "221278573",
+   "type": 11,
+   "heading": "Artigo 5.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cessação de funções\n\n1 - O exercício do cargo de membro da comissão cessa antes de decorrido o prazo a que se reporta o n.º 1 do artigo 3.º, quando se verifique qualquer das seguintes situações:\n\na) Morte ou impossibilidade física ou psíquica permanentes;\n\nb) Renúncia;\n\nc) Nomeação para funções nas magistraturas judicial ou do Ministério Público;\n\nd) Eleição como deputado à Assembleia da República ou às assembleias legislativas das Regiões Autónomas e para funções nos respectivos gabinetes de apoio;\n\ne) Nomeação para o exercício de funções no Governo da República, nos governos regionais a nos gabinetes dos seus membros;\n\nf) Demissão ou aposentação compulsiva, determinadas em sede de processo disciplinar ou criminal.\n\n2 - A renúncia, que não carece de aceitação, é comunicada por escrito ao membro do Governo responsável pela coordenação da política da droga e da toxicodependência, que desencadeará o processo conducente à substituição no prazo máximo de 30 dias, findo o qual a renúncia produzirá os seus efeitos.\n\n3 - Quando, nos termos dos números anteriores, ocorrer a nomeação de um membro, o seu mandato tem a duração prevista no n.º 1 do artigo 3.º\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "221311985": {
+   "fragment_id": "221278574",
+   "type": 11,
+   "heading": "Artigo 6.º — Equipa de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Equipa de apoio\n\n1 - Para cada comissão é disponibilizada pelo IPDT uma equipa de apoio técnico e técnico-administrativo, cuja composição é definida por despacho do membro do Governo responsável pela coordenação da política da droga e da toxicodependência.\n\n2 - Sempre que o presidente de uma comissão entenda como adequado alterar a composição da sua equipa de apoio, deve remeter tal pedido devidamente fundamentado ao IPDT, que se pronuncia e submete a despacho do membro do Governo referido no n.º 1 deste artigo.\n\n3 - O pessoal que integra a equipa de apoio rege-se pela regulamentação do regime de trabalho a que está vinculado.\n\n4 - O pessoal afecto ao serviço da comissão está sujeito ao dever de sigilo profissional.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "221311986": {
+   "fragment_id": "221325575",
+   "type": 11,
+   "heading": "Artigo 7.º — Funções da equipa de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funções da equipa de apoio\n\nÀ equipa de apoio, na dependência directa do presidente da comissão, cabe executar, com respeito pelo conteúdo funcional da respectiva categoria, as tarefas que lhe forem distribuídas, designadamente:\n\na) Assegurar o normal desenvolvimento dos processos, realizando atempadamente as diligências que lhe forem determinadas;\n\nb) Consultar o registo central instituído pelo artigo 6.º da Lei n.º 30/2000, de 29 de Novembro, doravante designado registo central, nos termos do diploma que o regulamenta;\n\nc) Prestar apoio técnico na escolha das sanções a aplicar;\n\nd) Realizar, por iniciativa da comissão, a eventual avaliação psicológica dos indiciados, diligenciando em ordem ao conhecimento preliminar das suas personalidades e trajectórias de vida;\n\ne) Emitir pareceres e efectuar relatórios;\n\nf) Assegurar o encaminhamento dos consumidores para as entidades de saúde;\n\ng) Acompanhar os consumidores nos casos de suspensão provisória do processo, de suspensão da determinação da sanção e de suspensão da execução da sanção, designadamente em caso de aceitação de tratamento voluntário, sem prejuízo das funções próprias dos serviços de tratamento, e quando a sanção aplicada recair em medida alternativa à coima, em especial, a prestação de serviços gratuitos a favor da comunidade;\n\nh) Colher informação sobre a continuidade do tratamento, se este tiver sido aceite no âmbito de um processo e sobre a existência ou não de reincidência;\n\ni) Informar sobre o termo do período de suspensão do processo, de suspensão da determinação da sanção, ou de suspensão da execução da sanção, para efeitos de arquivamento ou extinção do processo, ou extinção da sanção;\n\nj) Manter um arquivo de processos de contra-ordenação.\n\nIII - Processo"
+  },
+  "221311987": {
+   "fragment_id": "221325576",
+   "type": 11,
+   "heading": "Artigo 8.º — Utilização de meios informáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Utilização de meios informáticos\n\nEm todas as fases da tramitação dos processos de contra-ordenação regulamentados por este diploma são utilizados, sempre que possível, os meios informáticos ou outros meios que facilitem a celeridade processual."
+  },
+  "221311988": {
+   "fragment_id": "221325577",
+   "type": 11,
+   "heading": "Artigo 9.º — Conhecimento da contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conhecimento da contra-ordenação\n\n1 - A autoridade policial que tome conhecimento da prática de contra-ordenação prevista na Lei n.º 30/2000, de 29 de Novembro, elabora auto de ocorrência, onde se menciona:\n\na) Os factos que constituem a contra-ordenação;\n\nb) O dia, a hora, o local e as circunstâncias em que a contra-ordenação foi cometida;\n\nc) Tudo o que puder averiguar acerca da identificação do agente da contra-ordenação e seu domicílio;\n\nd) As diligências efectuadas, bem como os meios de prova conhecidos, nomeadamente as testemunhas que puderem depor sobre os factos.\n\n2 - O auto de ocorrência é assinado pela entidade que o elaborou e enviado pelo meio mais célere à comissão que se afigure territorialmente competente, de modo que seja recebido até trinta e seis horas depois daquela ocorrência.\n\n3 - As autoridades policiais providenciam em ordem a evitar o desaparecimento de provas e apreendem as substâncias suspeitas, as quais constam do auto e são remetidas, no mais curto lapso de tempo, à comissão competente, para serem depositadas no governo civil.\n\n4 - Quando não for possível identificar o indiciado e conhecer o seu domicílio no local e no momento da prática do facto, as autoridades policiais podem proceder à sua detenção, a fim de o identificarem ou de garantirem a comparência perante a comissão, nos termos do regime legal da detenção para identificação.\n\n5 - No caso previsto no número anterior pode o indiciado contactar telefonicamente qualquer familiar e um advogado por si escolhido."
+  },
+  "221311989": {
+   "fragment_id": "221325578",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas preliminares\n\n1 - Quando o indiciado revelar sinais de descompensação física ou psíquica, as autoridades policiais podem promover a sua apresentação em serviço de saúde público, a fim de lhe serem dispensados os necessários cuidados terapêuticos, se não houver oposição do iniciado ou se estiver em perigo a sua integridade, ou, se possível, comunicam o facto à comissão territorialmente competente ou à do domicílio provisório, a fim de adoptar os procedimentos que repute adequados.\n\n2 - Na circunstância a que alude o número precedente, as autoridades policiais remetem de imediato, por qualquer meio, ao presidente da comissão que se afigure ser territorialmente competente, um registo contendo a identificação do sujeito, a data a as razões da apresentação."
+  },
+  "221311990": {
+   "fragment_id": "221325579",
+   "type": 11,
+   "heading": "Artigo 11.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicações\n\n1 - Elaborado o auto de ocorrência, é o consumidor logo notificado pela entidade autuante para se apresentar na comissão territorialmente competente, fixando-se o dia e a hora para a realização dessa apresentação, a qual deve ocorrer no mais curto espaço de tempo possível, sem nunca ultrapassar as setenta e duas horas subsequentes ao da ocorrência.\n\n2 - Quando o indiciado revelar qualquer incapacidade, as autoridades policiais diligenciam no sentido da localização de quem exerça a representação legal, contactando-o no mais curto espaço de tempo, a fim de lhe darem conhecimento da ocorrência e de o notificarem nos termos do número anterior.\n\n3 - O indiciado ou o seu representante são informados de que podem constituir defensor, ou requerer a sua nomeação oficiosa.\n\n4 - Logo que recebido o auto, a comissão pode alterar o dia e a hora da apresentação, em caso de dificuldade de agenda e desde que seja possível notificar o indiciado ou o seu representante em tempo útil.\n\n5 - Sempre que o indiciado se encontre domiciliado provisoriamente em local abrangido por comissão diferente da do seu domicílio habitual, e aí se vá manter por período superior a setenta e duas horas, é enviada também cópia do auto de ocorrência à comissão do domicílio provisório.\n\n6 - As diligências a que se refere o n.º 2 constarão do auto de ocorrência.\n\n7 - Quando o consumidor for internado nos termos do artigo anterior, com o documento da alta é entregue guia de apresentação na comissão territorialmente competente, para o primeiro dia útil imediato, emitida pela autoridade policial que elaborou o auto."
+  },
+  "221311991": {
+   "fragment_id": "221325580",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação do indiciado pela entidade policial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação do indiciado pela entidade policial\n\n1 - No caso do n.º 4 do artigo 9.º, o indiciado pode ser apresentado à comissão pela entidade policial imediatamente após a ocorrência, se a comissão estiver em funcionamento ou se houver um membro em regime de disponibilidade permanente.\n\n2 - A entidade policial que entenda submeter de imediato o indiciado à comissão comunica esse facto a esta ou ao membro que se encontre em regime de disponibilidade permanente, sendo em qualquer dos casos definidos os termos em que o indiciado deve ser presente.\n\n3 - A comissão ou o membro referido no número anterior marcam o dia da audição, podendo ainda tomar as medidas do artigo 10.º, n.º 1, ou do número seguinte do presente artigo.\n\n4 - A comissão pode determinar o acompanhamento do indiciado por um técnico entre o momento da notícia da ocorrência e o momento da audição."
+  },
+  "221311992": {
+   "fragment_id": "221325581",
+   "type": 11,
+   "heading": "Artigo 13.º — Audição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Audição\n\n1 - Se o indiciado ou o seu representante não o tiverem já constituído, a comissão pode a qualquer momento nomear defensor, oficiosamente ou a requerimento daqueles, sempre que as circunstâncias do caso revelarem a necessidade ou a conveniência de o indiciado ser assistido na sua defesa.\n\n2 - A comissão reúne para a audição do indiciado, que está obrigado a comparecer.\n\n3 - Em caso de não comparência na data e hora designadas, e após uma suspensão de trinta minutos, o presidente promove todas as diligências que se afigurem necessárias para assegurar que o indiciado se apresenta, é apresentado ou é motivado a apresentar-se, num prazo razoável que não exceda 15 dias.\n\n4 - A audição não pode ser adiada com fundamento em falta de defensor constituído ou nomeado.\n\n5 - Esgotado o prazo a que alude o n.º 3, a comissão pode prescindir da audição presencial do indiciado, prosseguindo o processo os seus trâmites de acordo com os preceitos seguintes, promovidas as necessárias adaptações e dando-se sempre oportunidade de defesa.\n\n6 - As audições não são públicas, podendo, contudo, o presidente admitir assistência se o indiciado não se opuser e se estiver devidamente salvaguardada a sua dignidade."
+  },
+  "221311993": {
+   "fragment_id": "221325582",
+   "type": 11,
+   "heading": "Artigo 14.º — Termos da audição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Termos da audição\n\n1 - A comissão onde o indiciado se apresenta ou é apresentado, depois de lido o auto da ocorrência e feita a respectiva identificação, apura se é territorialmente competente para prosseguir o processo, ouvindo aquele sobre o seu domicílio e, em caso positivo, promove seguidamente a audição, nomeadamente para efeitos do artigo 10.º da Lei n.º 30/2000, de 29 de Novembro, ao mesmo tempo que consulta o registo central por forma a obter informação sobre se existe registo prévio de contra-ordenação.\n\n2 - A comissão pode, porém, marcar novo dia e hora para a audição se algo obstar à audição imediata.\n\n3 - Caso a comissão territorialmente competente não seja aquela onde foi mandado apresentar-se inicialmente, é o indiciado ou o seu representante notificado do dia e hora em que é ouvido pela comissão territorialmente competente.\n\n4 - Para garantir o que se dispõe no número anterior, a comissão onde inicialmente foi mandado apresentar deve, pela via mais célere, designadamente por telefone, contactar aquela que se afigura territorialmente competente e com ela definir o dia e hora em que se realiza a audição, sendo a esta última remetido, no prazo de vinte e quatro horas, o original do processo.\n\n5 - Por razões de celeridade processual, os elementos processuais referidos nos números anteriores podem ser enviados por telecópia ou confirmados por via telefónica ou por quaisquer outros meios que se mostrem idóneos, sem prejuízo da realização dos procedimentos aí indicados.\n\n6 - Sempre que a comissão onde o indiciado se apresenta inicialmente concluir que o mesmo é menor de 16 anos, assegura que lhe é prestado apoio através de serviço público de saúde habilitado, bastando para tal que o representante daquele manifeste, por escrito, a sua concordância, não havendo lugar a registo da contra-ordenação e apenas se comunicando a ocorrência ao registo central para fins meramente estatísticos.\n\n7 - Na audição, os membros da comissão ouvem o indiciado, interrogando-o sobre as questões que considerem pertinentes, especialmente sobre eventuais antecedentes em matéria de contra-ordenações da mesma natureza, as circunstâncias em que estava a consumir quando foi interpelado, ou o modo como adquiriu ou detinha as plantas, substâncias ou preparações compreendidas nas tabelas anexas ao Decreto-Lei n.º 15/93, de 22 de Janeiro, bem como sobre a sua situação económica, social e familiar e ainda sobre os meios de subsistência e demais condicionantes de vida.\n\n8 - A comissão procura averiguar se o indiciado é toxicodependente ou consumidor não toxicodependente, podendo ser promovidos os exames referidos no artigo 10.º, n.º 3, da Lei n.º 30/2000, de 29 de Novembro.\n\n9 - Os procedimentos de diagnóstico e os exames referidos nos números anteriores devem ser concluídos em prazo não superior a 30 dias, salvo casos excepcionais devidamente fundamentados.\n\n10 - A realização da audição não pode exceder 35 dias, salvo no caso da parte final do n.º 9.\n\n11 - Da audição é lavrada acta no próprio momento, a qual é assinada pelos membros da comissão e pelo indiciado ou seu representante."
+  },
+  "221311994": {
+   "fragment_id": "221325583",
+   "type": 11,
+   "heading": "Artigo 15.º — Colaboração de familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Colaboração de familiares\n\n1 - A comissão pode convocar, por iniciativa própria ou precedendo proposta dos técnicos afectos ao seu serviço, os familiares que coabitem com o indiciado ou as pessoas que com ele vivam em união de facto ou, na falta de uns e outros, os familiares mais próximos, de modo a obter informação mais ampla sobre a sua trajectória de vida e medidas terapêuticas que tenham sido anteriormente adoptadas.\n\n2 - Os técnicos procuram motivar os familiares do indiciado para colaborarem no plano terapêutico, sempre que o reputem conveniente para a sua recuperação clínico-psicológica."
+  },
+  "221311995": {
+   "fragment_id": "221325584",
+   "type": 11,
+   "heading": "Artigo 16.º — Diligências de motivação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Diligências de motivação\n\n1 - Até ao final da audição, a comissão poderá convidar o indiciado a apresentar-se periodicamente, de molde a estimular a sua adesão ao tratamento, ou à decisão de abstinência de consumo.\n\n2 - Os técnicos podem sugerir ao presidente da comissão, em qualquer fase do processo, que seja proposta ao indiciado a realização de exames e perícias psicológicas, bem como a procedimentos de diagnóstico, incluindo análises de sangue, de urina ou outros que se mostrem adequados, nos termos legalmente prescritos.\n\n3 - A comissão promoverá todas as medidas necessárias à adesão do indiciado toxicodependente a um plano de tratamento, podendo para esse efeito estabelecer contactos com os serviços de saúde, públicos ou privados, e de reinserção social."
+  },
+  "221311996": {
+   "fragment_id": "221325585",
+   "type": 11,
+   "heading": "Artigo 17.º — Análise às substâncias apreendidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Análise às substâncias apreendidas\n\n1 - Quando o indiciado negar a natureza estupefaciente ou psicotrópica das substâncias encontradas na sua posse, a comissão determina a imediata realização das análises necessárias à sua caracterização, correndo os encargos por conta do indiciado se se comprovar aquela natureza.\n\n2 - O disposto no número precedente, com excepção da parte final, é correspondentemente aplicável sempre que as autoridades policiais tenham dúvidas sobre a natureza dos produtos."
+  },
+  "221311997": {
+   "fragment_id": "221325586",
+   "type": 11,
+   "heading": "Artigo 18.º — Depoimento do autuante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Depoimento do autuante\n\n1 - A comissão, por iniciativa própria ou precedendo requerimento do indiciado, poderá convocar o agente da autoridade que tiver procedido à interpelação e autuação, a fim de lhe serem tomadas declarações.\n\n2 - O depoimento a que se alude no número anterior poderá ser prestado pessoalmente, bem como por via telefónica ou videoconferência por ocasião da própria audição.\n\n3 - Se houver que suspender a audição a fim de garantir a prestação desse depoimento, a suspensão não pode exceder três dias."
+  },
+  "221311998": {
+   "fragment_id": "221325587",
+   "type": 11,
+   "heading": "Artigo 19.º — Participação de terapeuta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Participação de terapeuta\n\n1 - O indiciado ou o seu representante podem requerer a participação de terapeuta por si escolhido, fornecendo logo o nome e o domicílio profissional.\n\n2 - Compete ao indiciado ou ao seu representante providenciar a apresentação do terapeuta.\n\n3 - Caso o indiciado não esteja acompanhado do terapeuta no momento da audição, é-lhe concedido o prazo de três dias para que consulte o processo e se pronuncie nos termos que entender por convenientes, sendo logo designada data para continuação da audição.\n\n4 - A falta do terapeuta ou de apresentação de depoimento escrito na data designada implica a preclusão do direito à sua participação no procedimento.\n\n5 - A comissão regulará a forma de participação do terapeuta."
+  },
+  "221311999": {
+   "fragment_id": "221325588",
+   "type": 11,
+   "heading": "Artigo 20.º — Avaliação do indiciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Avaliação do indiciado\n\n1 - Para valoração da ocorrência e conhecimento da personalidade do indiciado, os membros da comissão podem determinar a presença na audição de um psicólogo ou de outro técnico com formação adequada que integre o apoio técnico à comissão, que dirige ao consumidor as perguntas que considere relevantes.\n\n2 - O defensor, quando constituído ou nomeado, pode interrogar o indiciado sobre os factos descritos no auto de ocorrência e sobre a sua personalidade e condições de vida.\n\n3 - O indiciado ou o seu representante podem requerer a realização de procedimentos de diagnóstico, podendo também requerer exames psicológicos, os quais só são recusados se forem considerados inúteis ou meramente dilatórios."
+  },
+  "221312000": {
+   "fragment_id": "221325589",
+   "type": 11,
+   "heading": "Artigo 21.º — Suspensão provisória do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Suspensão provisória do processo\n\nApós a audição do indiciado e a audição do terapeuta, quando requerida, a comissão decide sobre a suspensão provisória do processo, de acordo com o que se estabelece nos artigos 11.º e 13.º da Lei n.º 30/2000, de 29 de Novembro."
+  },
+  "221312001": {
+   "fragment_id": "221325590",
+   "type": 11,
+   "heading": "Artigo 22.º — Suspensão da determinação da sanção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Suspensão da determinação da sanção\n\nCaso o indiciado toxicodependente aceite submeter-se voluntariamente a tratamento, poderá a comissão suspender a determinação da sanção, nos termos do disposto no artigo 14.º da Lei n.º 30/2000, de 29 de Novembro."
+  },
+  "221312002": {
+   "fragment_id": "221325591",
+   "type": 11,
+   "heading": "Artigo 23.º — Tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Tratamento\n\n1 - Quando em qualquer momento do processo o indiciado toxicodependente aceite, ou o seu representante autorize, a submissão a um processo de tratamento, o presidente diligenciará de modo que essa medida seja executada no mais curto espaço de tempo em serviço de saúde público, excepto se o indiciado ou o seu representante optarem por unidade privada devidamente habilitada, correndo os eventuais encargos, neste caso, sob sua responsabilidade.\n\n2 - A entidade referida no n.º 1 informa a comissão de três em três meses sobre a continuidade ou não do tratamento, podendo essa informação ser sumária e transmitida por qualquer meio, oral ou escrito, incluindo a via telefónica e a via electrónica."
+  },
+  "221312003": {
+   "fragment_id": "221325592",
+   "type": 11,
+   "heading": "Artigo 24.º — Alegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alegações\n\n1 - Quando o processo prosseguir para decisão e eventual aplicação de sanção, o presidente concederá a palavra ao indiciado ou ao representante para se pronunciar, por uma só vez e por período não superior a quinze minutos, sobre o sentido da decisão e a medida a aplicar no caso.\n\n2 - Se constituído ou nomeado defensor, este pode apresentar sumariamente as suas alegações por escrito, até ao final da sessão em que devam ser proferidas, dispensando-se então as alegações orais."
+  },
+  "221312004": {
+   "fragment_id": "221325593",
+   "type": 11,
+   "heading": "Artigo 25.º — Interrupção para decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Interrupção para decisão\n\n1 - Encerrados os trâmites processuais previstos nas disposições anteriores, a comissão delibera sobre o sentido da decisão, podendo participar, sem direito a voto, o técnico que eventualmente tenha estado presente na audição.\n\n2 - Qualquer membro da comissão pode votar vencido e exarar o sentido do seu voto, que consta da acta."
+  },
+  "221312005": {
+   "fragment_id": "221325594",
+   "type": 11,
+   "heading": "Artigo 26.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Decisão\n\nA decisão deve conter um relatório, fazendo constar, sumariamente:\n\na) A identificação do indiciado;\n\nb) A descrição do facto imputado e das condições em que ocorreu, e ainda a indicação das normas presumivelmente violadas e das que fundamentam a decisão;\n\nc) A decisão, absolutória ou condenatória, e, neste caso, a sanção aplicada;\n\nd) O prazo no decurso do qual a decisão pode ser impugnada judicialmente, findo o qual se tornará definitiva;\n\ne) As demais referências obrigatórias pelo regime geral das contra-ordenações;\n\nf) A data e a assinatura dos membros da comissão."
+  },
+  "221312006": {
+   "fragment_id": "221325595",
+   "type": 11,
+   "heading": "Artigo 27.º — Fundamentação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Fundamentação da decisão\n\n1 - Quando a comissão entender que os factos constantes do auto de ocorrência não integram a prática de qualquer ilícito contra-ordenacional, decide no sentido da absolvição do indiciado.\n\n2 - Verificando-se que os factos imputados ao indiciado constituem contra-ordenação passível da aplicação de uma sanção, nos termos do estabelecido pela Lei n.º 30/2000, de 29 de Novembro, a decisão determinará qual a medida a aplicar, ponderando todos os elementos enunciados naquele diploma, em especial a personalidade e a culpa do sujeito.\n\n3 - A decisão condenatória especifica as razões que determinaram a condenação, bem como a escolha e medida da sanção aplicada, indicando o início, no caso de o indiciado não interpor recurso, o regime de cumprimento e os demais deveres que impendem sobre ele.\n\n4 - Na escolha da medida a aplicar, a decisão tomará em consideração os eventuais efeitos terapêuticos e pedagógicos da sanção, bem como a influência que a mesma poderá ter na adesão do sujeito ao tratamento ou a uma opção pela abstinência.\n\n5 - A decisão é notificada de imediato ao indiciado ou ao seu representante."
+  },
+  "221312007": {
+   "fragment_id": "221325596",
+   "type": 11,
+   "heading": "Artigo 28.º — Decisão absolutória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Decisão absolutória\n\nA decisão absolutória declara a extinção do procedimento, sendo comunicada ao registo central para efeitos meramente estatísticos."
+  },
+  "221312008": {
+   "fragment_id": "221325597",
+   "type": 11,
+   "heading": "Artigo 29.º — Decisão condenatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Decisão condenatória\n\n1 - A decisão condenatória é comunicada ao registo central no prazo de cinco dias a contar do trânsito em julgado.\n\n2 - Se a comissão suspender a execução da sanção, nos termos do artigo 19.º da Lei n.º 30/2000, de 29 de Novembro, a sua decisão fixa as medidas de acompanhamento aceites pelo consumidor, nos termos do n.º 3 do preceito acima referido, bem como os termos da apresentação periódica nos serviços de saúde a que alude o n.º 1 desse preceito, se for caso disso, fazendo de imediato as comunicações previstas nos artigos 21.º e 22.º daquela lei."
+  },
+  "221312009": {
+   "fragment_id": "221325598",
+   "type": 11,
+   "heading": "Artigo 30.º — Execução das sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Execução das sanções\n\n1 - A execução das sanções ou medidas de acompanhamento é da competência do governo civil, podendo recorrer para o efeito às entidades competentes, designadamente o Instituto de Reinserção Social.\n\n2 - Cabe ao governo civil proceder à distribuição do produto das coimas, nos termos legais.\n\n3 - Quando a sanção aplicada consistir em coima e não se mostrar satisfeita no prazo de 10 dias após o trânsito em julgado da decisão, o presidente da comissão, nos 5 dias subsequentes à comunicação do governo civil que disso dê conta, poderá promover, se aceite pelo indiciado, a sua substituição pela prestação de serviços gratuitos a favor da comunidade, comunicando esta conversão ao governo civil para que diligencie a colocação do visado em instituição pública ou particular de solidariedade social na qual realizará as tarefas que lhe forem determinadas.\n\n4 - No despacho que operar a conversão, o presidente fixa o número de horas de trabalho que devem ser prestadas, assegurando que não colidem com os horários de trabalho, de actividades escolares ou de formação profissional do visado.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "221312010": {
+   "fragment_id": "221325599",
+   "type": 11,
+   "heading": "Artigo 31.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Recursos\n\nAs decisões que apliquem sanções são recorríveis nos termos prescritos no regime geral do ilícito de mera ordenação social."
+  },
+  "221312011": {
+   "fragment_id": "221325600",
+   "type": 11,
+   "heading": "Artigo 32.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Notificações\n\nAs notificações efectuam-se:\n\na) No acto de autuação, quando possível, mediante a entrega de um duplicado do auto, donde constem, além do mais, as sanções aplicáveis e o dia e hora para a apresentação do indiciado na comissão territorialmente competente;\n\nb) Por contacto telefónico ou pessoal com o notificando no lugar em que for encontrado;\n\nc) Quando impossível qualquer das vias das alíneas anteriores, por carta expedida para o domicílio do notificando.\n\nIV - Regime de funcionamento"
+  },
+  "221312012": {
+   "fragment_id": "221325601",
+   "type": 11,
+   "heading": "Artigo 33.º — Horário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Horário\n\n1 - O horário de funcionamento da comissão é fixado pelo membro do Governo responsável pela coordenação da política da droga e da toxicodependência, sob proposta do presidente.\n\n2 - A fixação do horário deve obedecer às seguintes normas:\n\na) A comissão deve funcionar pelo menos cinco dias por semana e um mínimo de quarenta horas semanais;\n\nb) A comissão deve adaptar o seu horário à exigência da celeridade na apreciação dos casos que lhe sejam submetidos.\n\n3 - A comissão, fora do horário de funcionamento, pode ter um dos seus membros e um elemento da equipa de apoio em regime de disponibilidade permanente, sempre contactáveis e disponíveis para se apresentarem na respectiva sede.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "221312013": {
+   "fragment_id": "221325602",
+   "type": 11,
+   "heading": "Artigo 34.º — Escalas de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Escalas de serviço\n\nO presidente promove a existência de escalas de serviço dos membros da comissão e do pessoal de apoio administrativo e técnico."
+  },
+  "221312014": {
+   "fragment_id": "221325603",
+   "type": 11,
+   "heading": "Artigo 35.º — Quórum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Quórum\n\n1 - Os membros da comissão reúnem-se em sessão sempre que ouvem um indiciado ou outra pessoa ligada ao processo ou quando o fim da reunião é pronunciarem-se sobre qualquer matéria.\n\n2 - As sessões realizam-se com a presença de todos os membros da comissão, salvo se um deles estiver impedido, situação em que podem realizar-se com a presença de apenas dois dos seus membros, ficando o presidente ou o seu substituto com voto de qualidade."
+  },
+  "221312015": {
+   "fragment_id": "221325604",
+   "type": 11,
+   "heading": "Artigo 36.º — Apoio do IPDT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Apoio do IPDT\n\nO IPDT assegura o apoio técnico que se revele necessário às comissões, designadamente em matérias jurídicas e processuais relacionadas com o âmbito das suas atribuições na área da toxicodependência, e qualquer outro que se revele conveniente e não esteja cometido por lei a outra entidade.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "221312016": {
+   "fragment_id": "221325605",
+   "type": 11,
+   "heading": "Artigo 37.º — Envio de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Envio de informações\n\n1 - Trimestralmente cada comissão envia ao IPDT e ao governo civil mapas com a relação das coimas aplicadas nos termos do artigo 16.º da Lei n.º 30/2000, de 29 de Novembro.\n\n2 - A comissão envia por via informática ao IPDT informação sobre todos os novos processos que abrir e cópia de todas as decisões de suspensão provisória do processo, de suspensão da determinação da sanção ou finais que proferir, acautelando todas as garantias de segurança na transmissão.\n\nIV - Disposições finais\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "221312017": {
+   "fragment_id": "221325606",
+   "type": 11,
+   "heading": "Artigo 38.º — Custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Custas\n\nOs processos na comissão não estão sujeitos a custas."
+  },
+  "221312018": {
+   "fragment_id": "221325607",
+   "type": 11,
+   "heading": "Artigo 39.º — Linhas de orientação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Linhas de orientação\n\nQuando constatar a existência de divergências acentuadas entre as decisões proferidas pelas comissões, o membro do Governo responsável pela coordenação da política da droga a da toxicodependência promoverá as acções e medidas tendentes à sua uniformização."
+  },
+  "221312019": {
+   "fragment_id": "221325608",
+   "type": 11,
+   "heading": "Artigo 40.º — Certidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Certidões\n\n1 - De decisão proferida pela comissão podem ser requeridas certidões narrativas do respectivo teor.\n\n2 - Têm legitimidade para requerer a emissão de certidões a pessoa que tiver sido apresentada à comissão ou, tratando-se de menor, interdito ou inabilitado, as pessoas que exerçam o poder paternal ou os seus representantes legais.\n\n3 - As certidões são passadas pelo pessoal de apoio técnico, no prazo de 10 dias."
+  },
+  "221312020": {
+   "fragment_id": "221325609",
+   "type": 11,
+   "heading": "Artigo 41.º — Conhecimento de contra-ordenação em processo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Conhecimento de contra-ordenação em processo criminal\n\nQuando, no decurso de um processo criminal, resultarem indícios de que o arguido cometeu uma contra-ordenação prevista no artigo 2.º da Lei n.º 30/2000, de 29 de Novembro, a autoridade judiciária manda extrair certidão, remetendo-a, sempre que possível por via informática, à comissão territorialmente competente."
+  },
+  "221312021": {
+   "fragment_id": "221325610",
+   "type": 11,
+   "heading": "Artigo 42.º — Destino das substâncias apreendidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Destino das substâncias apreendidas\n\nAs substâncias apreendidas e enviadas à comissão são destruídas nos termos legais."
+  },
+  "221312022": {
+   "fragment_id": "221325611",
+   "type": 11,
+   "heading": "Artigo 43.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Direito subsidiário\n\nNa falta de disposição específica deste diploma são subsidiariamente aplicáveis as normas do regime geral do ilícito de mera ordenação social."
+  },
+  "221312024": {
+   "fragment_id": "221278570",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e competência territorial",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito e competência territorial\n\n1 - Em cada capital de distrito do continente é constituída uma comissão para a dissuasão da toxicodependência, doravante designada comissão, que exerce funções em instalações disponibilizadas pelo Instituto da Droga e da Toxicodependência, I. P. (IDT, I. P.)\n\n2 - É territorialmente competente a comissão da área do domicílio do consumidor, excepto se este não for conhecido, circunstância em que será competente a comissão da área em que o consumidor tiver sido encontrado.\n\n3 - O membro do Governo responsável pela coordenação da política da droga e da toxicodependência pode constituir, por portaria, mais de uma comissão nos distritos onde a concentração de processos o justifique, devendo, aquando da sua constituição, definir o local onde fica sediada, podendo determinar que se localize noutro concelho que não o da capital de distrito, bem como a respectiva área geográfica de competência dentro do distrito.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "221312025": {
+   "fragment_id": "221278572",
+   "type": 11,
+   "heading": "Artigo 4.º — Presidente",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Presidente\n\n1 - O presidente de cada comissão é nomeado por despacho dos membros do Governo responsáveis pelas áreas da justiça, da saúde e pela coordenação da política da droga e da toxicodependência, mediante proposta deste.\n\n2 - Ao presidente compete:\n\na) Representar a comissão, assegurando os contactos que se mostrem adequados com o IDT, I. P., com as autoridades policiais, com as entidades públicas e privadas que prestam serviços de saúde e com outras entidades com as quais se mostre necessário contactar por força das atribuições da comissão;\n\nb) Convocar e presidir às audições e sessões, dirigindo os trabalhos e garantindo a disciplina;\n\nc) Propor o horário de funcionamento e fixar, de modo rotativo, o regime de disponibilidade permanente dos membros da comissão, se este se revelar necessário, tendo em conta as exigências do serviço;\n\nd) Despachar os assuntos correntes;\n\ne) Dirigir os serviços dependentes da comissão e exercer o poder disciplinar relativamente ao respectivo pessoal;\n\nf) Fixar as escalas de serviço e os turnos quando os houver;\n\ng) Estabelecer o mapa de férias dos membros da comissão e do pessoal ao seu serviço;\n\nh) Exercer os demais poderes que lhe forem atribuídos pela lei ou por regulamento.\n\n3 - O presidente é substituído, nas suas faltas e impedimentos, pelo membro da comissão que designar ou, na falta de designação, por aquele que o membro do Governo responsável pela coordenação da política da droga e da toxicodependência indicar.\n\n4 - O presidente pode delegar competências em qualquer membro da comissão e, no que tange à articulação com os órgãos e autoridades públicos e com as entidades privadas, no pessoal técnico.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "221312026": {
+   "fragment_id": "221278574",
+   "type": 11,
+   "heading": "Artigo 6.º — Equipa de apoio",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 6.º — Equipa de apoio\n\n1 - Para cada comissão é disponibilizada pelo IDT, I. P., uma equipa de apoio técnico e técnico-administrativo, cuja composição é definida por despacho do membro do Governo responsável pela coordenação da política da droga e da toxicodependência.\n\n2 - Sempre que o presidente de uma comissão entenda como adequado alterar a composição da sua equipa de apoio, deve remeter tal pedido devidamente fundamentado ao IDT, I. P., que se pronuncia e submete a despacho do membro do Governo referido no número anterior.\n\n3 - O pessoal que integra a equipa de apoio rege-se pela regulamentação do regime de trabalho a que está vinculado.\n\n4 - O pessoal afecto ao serviço da comissão está sujeito ao dever de sigilo profissional.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "221312027": {
+   "fragment_id": "221325577",
+   "type": 11,
+   "heading": "Artigo 9.º — Conhecimento da contra-ordenação",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 9.º — Conhecimento da contra-ordenação\n\n1 - A autoridade policial que tome conhecimento da prática de contra-ordenação prevista na Lei n.º 30/2000, de 29 de Novembro, elabora auto de ocorrência, onde se menciona:\n\na) Os factos que constituem a contra-ordenação;\n\nb) O dia, a hora, o local e as circunstâncias em que a contra-ordenação foi cometida;\n\nc) Tudo o que puder averiguar acerca da identificação do agente da contra-ordenação e seu domicílio;\n\nd) As diligências efectuadas, bem como os meios de prova conhecidos, nomeadamente as testemunhas que puderem depor sobre os factos.\n\n2 - O auto de ocorrência é assinado pela entidade que o elaborou e enviado pelo meio mais célere à comissão que se afigure territorialmente competente, de modo que seja recebido até trinta e seis horas depois daquela ocorrência.\n\n3 - As autoridades policiais providenciam em ordem a evitar o desaparecimento de provas e apreendem as substâncias suspeitas, as quais constam do auto e são remetidas, no mais curto lapso de tempo, à comissão competente, para serem depositadas no comando distrital da respectiva força.\n\n4 - Quando não for possível identificar o indiciado e conhecer o seu domicílio no local e no momento da prática do facto, as autoridades policiais podem proceder à sua detenção, a fim de o identificarem ou de garantirem a comparência perante a comissão, nos termos do regime legal da detenção para identificação.\n\n5 - No caso previsto no número anterior pode o indiciado contactar telefonicamente qualquer familiar e um advogado por si escolhido.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "221312028": {
+   "fragment_id": "221325598",
+   "type": 11,
+   "heading": "Artigo 30.º — Execução das sanções",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 30.º — Execução das sanções\n\n1 - A execução das sanções ou medidas de acompanhamento é da competência das autoridades policiais, podendo recorrer para o efeito às entidades competentes, designadamente à Direcção-Geral de Reinserção Social.\n\n2 - Cabe ao IDT, I. P., proceder à distribuição do produto das coimas, nos termos legais.\n\n3 - Quando a sanção aplicada consistir em coima e não se mostrar satisfeita no prazo de 10 dias após o trânsito em julgado da decisão, o presidente da comissão, nos 5 dias subsequentes à comunicação das autoridades policiais que disso dê conta, poderá promover, se aceite pelo indiciado, a sua substituição pela prestação de serviços gratuitos a favor da comunidade, comunicando esta conversão àquelas autoridades, para que diligenciem a colocação do visado em instituição pública ou particular de solidariedade social na qual realizará as tarefas que lhe forem determinadas.\n\n4 - No despacho que operar a conversão, o presidente fixa o número de horas de trabalho que devem ser prestadas, assegurando que não colidem com os horários de trabalho, de actividades escolares ou de formação profissional do visado.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "221312029": {
+   "fragment_id": "221325604",
+   "type": 11,
+   "heading": "Artigo 36.º — Apoio do IDT, I. P.",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 36.º — Apoio do IDT, I. P.\n\nO IDT, I. P., assegura o apoio técnico que se revele necessário às comissões, designadamente em matérias jurídicas e processuais relacionadas com o âmbito das suas atribuições na área da toxicodependência, e qualquer outro que se revele conveniente e não esteja cometido por lei a outra entidade.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "221312030": {
+   "fragment_id": "221325605",
+   "type": 11,
+   "heading": "Artigo 37.º — Envio de informações",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 37.º — Envio de informações\n\n1 - Trimestralmente cada comissão envia ao IDT, I. P., mapas com a relação das coimas aplicadas nos termos do artigo 16.º da Lei n.º 30/2000, de 29 de Novembro.\n\n2 - A comissão envia por via informática ao IDT, I. P., informação sobre todos os novos processos que abrir e cópia de todas as decisões de suspensão provisória do processo, de suspensão da determinação da sanção ou finais que proferir, acautelando todas as garantias de segurança na transmissão.\n\nIV - Disposições finais\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "221312023": {
+   "fragment_id": "221325612",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Abril de 2001. - Jaime José Matos da Gama - Henrique Nuno Pires Severiano Teixeira - Eduardo Arménio do Nascimento Cabrita - José Miguel Marques Boquinhas.\n\nPromulgado em 19 de Abril de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Abril de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "222515465": {
+   "fragment_id": "221278570",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e competência territorial",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito e competência territorial\n\n1 - Em cada capital de distrito do continente é constituída uma comissão para a dissuasão da toxicodependência, doravante designada comissão, que exerce funções em instalações disponibilizadas pelo Instituto para os Comportamentos Aditivos e as Dependências, I. P. (ICAD, I. P.).\n\n2 - É territorialmente competente a comissão da área do domicílio do consumidor, excepto se este não for conhecido, circunstância em que será competente a comissão da área em que o consumidor tiver sido encontrado.\n\n3 - (Revogado.)\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "222515466": {
+   "fragment_id": "221278571",
+   "type": 11,
+   "heading": "Artigo 3.º — Período de exercício",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Período de exercício\n\n1 - A comissão é composta nos termos do disposto no artigo 7.º da Lei n.º 30/2000, de 29 de novembro, na sua redação atual, sendo os seus membros designados por um período de três anos, contados da data do efetivo início de funções.\n\n2 - O mandato dos membros da comissão é renovável por idênticos períodos.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01"
+  },
+  "222515467": {
+   "fragment_id": "221278572",
+   "type": 11,
+   "heading": "Artigo 4.º — Presidente",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Presidente\n\n1 - O presidente de cada comissão é designado por despacho dos membros do Governo responsáveis pelas áreas da justiça e da saúde, mediante proposta deste.\n\n2 - Ao presidente compete:\n\na) Representar a comissão, assegurando os contactos que se mostrem adequados com o ICAD, I. P., com as autoridades policiais, com as entidades públicas e privadas que prestam serviços de saúde e com outras entidades com as quais se mostre necessário contactar por força das atribuições da comissão;\n\nb) Convocar e presidir às audições e sessões, dirigindo os trabalhos e garantindo a disciplina;\n\nc) Propor o horário de funcionamento e fixar, de modo rotativo, o regime de disponibilidade permanente dos membros da comissão, se este se revelar necessário, tendo em conta as exigências do serviço;\n\nd) Despachar os assuntos correntes;\n\ne) Dirigir os serviços dependentes da comissão e exercer o poder disciplinar relativamente ao respectivo pessoal;\n\nf) Fixar as escalas de serviço e os turnos quando os houver;\n\ng) Estabelecer o mapa de férias dos membros da comissão e do pessoal ao seu serviço;\n\nh) Exercer os demais poderes que lhe forem atribuídos pela lei ou por regulamento.\n\n3 - O presidente é substituído, nas suas faltas e impedimentos, pelo membro da comissão que designar ou, na falta de designação, por aquele que o membro do Governo responsável pela área da saúde indicar.\n\n4 - O presidente pode delegar competências em qualquer membro da comissão e, no que tange à articulação com os órgãos e autoridades públicos e com as entidades privadas, no pessoal técnico.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "222515468": {
+   "fragment_id": "221278573",
+   "type": 11,
+   "heading": "Artigo 5.º — Cessação de funções",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01"
+   ],
+   "markdown": "###### Artigo 5.º — Cessação de funções\n\n1 - O exercício do cargo de membro da comissão cessa antes de decorrido o prazo a que se reporta o n.º 1 do artigo 3.º, quando se verifique qualquer das seguintes situações:\n\na) Morte ou impossibilidade física ou psíquica permanentes;\n\nb) Renúncia;\n\nc) Nomeação para funções nas magistraturas judicial ou do Ministério Público;\n\nd) Eleição como deputado à Assembleia da República ou às assembleias legislativas das Regiões Autónomas e para funções nos respectivos gabinetes de apoio;\n\ne) Nomeação para o exercício de funções no Governo da República, nos governos regionais a nos gabinetes dos seus membros;\n\nf) Demissão ou aposentação compulsiva, determinadas em sede de processo disciplinar ou criminal.\n\n2 - A renúncia, que não carece de aceitação, é comunicada por escrito ao membro do Governo responsável pela área da saúde, que desencadeia o processo conducente à substituição no prazo máximo de 30 dias, findo o qual a renúncia produz os seus efeitos.\n\n3 - Quando, nos termos dos números anteriores, ocorrer a nomeação de um membro, o seu mandato tem a duração prevista no n.º 1 do artigo 3.º\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01"
+  },
+  "222515469": {
+   "fragment_id": "221278574",
+   "type": 11,
+   "heading": "Artigo 6.º — Equipa de apoio",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 6.º — Equipa de apoio\n\n1 - Para cada comissão é disponibilizada pelo ICAD, I. P., uma equipa de apoio técnico e técnico-administrativo, cuja composição é definida por despacho do conselho diretivo do ICAD, I. P.\n\n2 - Sempre que o presidente de uma comissão entenda como adequado alterar a composição da sua equipa de apoio, deve remeter um pedido fundamentado ao ICAD, I. P., a quem compete decidir.\n\n3 - O pessoal que integra a equipa de apoio rege-se pela regulamentação do regime de trabalho a que está vinculado.\n\n4 - O pessoal afecto ao serviço da comissão está sujeito ao dever de sigilo profissional.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "222515470": {
+   "fragment_id": "221325598",
+   "type": 11,
+   "heading": "Artigo 30.º — Execução das sanções",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 30.º — Execução das sanções\n\n1 - A execução das sanções ou medidas de acompanhamento é da competência das autoridades policiais, podendo recorrer para o efeito às entidades competentes, designadamente à Direcção-Geral de Reinserção Social.\n\n2 - Cabe ao ICAD, I. P., proceder à distribuição do produto das coimas, nos termos legais.\n\n3 - Quando a sanção aplicada consistir em coima e não se mostrar satisfeita no prazo de 10 dias após o trânsito em julgado da decisão, o presidente da comissão, nos 5 dias subsequentes à comunicação das autoridades policiais que disso dê conta, poderá promover, se aceite pelo indiciado, a sua substituição pela prestação de serviços gratuitos a favor da comunidade, comunicando esta conversão àquelas autoridades, para que diligenciem a colocação do visado em instituição pública ou particular de solidariedade social na qual realizará as tarefas que lhe forem determinadas.\n\n4 - No despacho que operar a conversão, o presidente fixa o número de horas de trabalho que devem ser prestadas, assegurando que não colidem com os horários de trabalho, de actividades escolares ou de formação profissional do visado.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "222515471": {
+   "fragment_id": "221325601",
+   "type": 11,
+   "heading": "Artigo 33.º — Horário",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01"
+   ],
+   "markdown": "###### Artigo 33.º — Horário\n\n1 - O horário de funcionamento da comissão é, sob proposta do presidente, fixado por despacho do conselho diretivo do ICAD, I. P.\n\n2 - A fixação do horário deve obedecer às seguintes normas:\n\na) A comissão deve funcionar pelo menos cinco dias por semana e um mínimo de quarenta horas semanais;\n\nb) A comissão deve adaptar o seu horário à exigência da celeridade na apreciação dos casos que lhe sejam submetidos.\n\n3 - A comissão, fora do horário de funcionamento, pode ter um dos seus membros e um elemento da equipa de apoio em regime de disponibilidade permanente, sempre contactáveis e disponíveis para se apresentarem na respectiva sede.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01"
+  },
+  "222515472": {
+   "fragment_id": "221325604",
+   "type": 11,
+   "heading": "Artigo 36.º — Apoio do Instituto para os Comportamentos Aditivos e as Dependências, I. P.",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 36.º — Apoio do Instituto para os Comportamentos Aditivos e as Dependências, I. P.\n\nO ICAD, I. P., assegura o apoio técnico que se revele necessário às comissões, designadamente em matérias jurídicas e processuais relacionadas com o âmbito das suas atribuições na área dos comportamentos aditivos e das dependências, e qualquer outro que se revele conveniente e não esteja cometido por lei a outra entidade.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "222515473": {
+   "fragment_id": "221325605",
+   "type": 11,
+   "heading": "Artigo 37.º — Envio de informações",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 37.º — Envio de informações\n\n1 - Trimestralmente cada comissão envia ao ICAD, I. P., mapas com a relação das coimas aplicadas nos termos do artigo 16.º da Lei n.º 30/2000, de 29 de novembro, na sua redação atual.\n\n2 - A comissão transmite por via informática ao ICAD, I. P., informação sobre todos os novos processos que abrir e cópia de todas as decisões que proferir, sejam de suspensão provisória do processo, de suspensão da determinação da sanção ou de caráter final, acautelando todas as garantias de segurança na transmissão.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  }
+ }
+}

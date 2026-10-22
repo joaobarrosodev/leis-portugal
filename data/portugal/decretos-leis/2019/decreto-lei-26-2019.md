@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:119556792:por
+title: Decreto-Lei n.º 26/2019
+short_title: null
+summary: Determina o montante das taxas para efeitos de inscrição nas listas oficiais de mediadores e regula os termos da
+  remuneração do mediador de recuperação de empresas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Adjunto e Economia
+official_number: 26/2019
+official_date: null
+publication_date: '2019-02-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 32/2019, Série I de 2019-02-14
+  number: '32'
+  series: I
+  supplement: null
+  pages: 1231 - 1232
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/02/03200/0123101232.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/26/2019/02/14/p/dre/pt/html
+  oj: null
+  dre: '119556792'
+  dre_path: /dr/detalhe/decreto-lei/26-2019-119556792
+  internal: pt:dre:119556792:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2019-119556792
+  metadata_url: https://data.dre.pt/eli/dec-lei/26/2019/02/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2019-119556792
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-02-14T00:00:00Z'
+integrity:
+  source_sha256: 2db890ca56972ae953473a9ebbe0bfb8a04ee0759b2633414453bb03191b5f51
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2019/DRE-2019-26-119556792.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Insolvência
+- Recuperação de Empresas
+- Reembolso
+- Remuneração
+- Mediador
+- IAPMEI
+- Taxa
+- Mediador de Recuperação de Empresas
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/53/2004/03/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/53/2004/03/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/6/2018/02/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/6/2018/02/22/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 26/2019
+
+de 14 de fevereiro
+
+O Programa do XXI Governo Constitucional assumiu, entre os seus objetivos essenciais para o relançamento da economia portuguesa e para a criação de emprego, a redução do elevado nível de endividamento das empresas e a melhoria de condições para o investimento, constituindo estes objetivos pilares fundamentais do Plano Nacional de Reformas. Neste contexto, foi aprovado um conjunto de medidas do Programa Capitalizar, onde se insere a criação da figura do mediador de recuperação de empresas, no eixo estratégico de intervenção relativo à Reestruturação Empresarial, concretizada através da [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro.
+
+O mediador de recuperação de empresas é a pessoa incumbida de prestar assistência a uma empresa devedora que, de acordo com o previsto no Código da Insolvência e da Recuperação de Empresas, aprovado pelo [Decreto-Lei n.º 53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março, na sua redação atual, se encontre em situação económica difícil ou em situação de insolvência, nomeadamente no âmbito das negociações com os seus credores, com vista a alcançar um acordo extrajudicial de reestruturação que vise a sua recuperação.
+
+A [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro, em particular no n.º 5 do artigo 13.º e no n.º 1 do artigo 22.º, determina o pagamento de taxas, pelos mediadores, ao IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), estabelecendo o direito do mediador a uma remuneração pelo exercício das suas funções, determinando a fixação do montante das taxas e os termos da remuneração do mediador por decreto-lei.
+
+Deste modo, o presente decreto-lei determina o montante das taxas a pagar pelos mediadores ao IAPMEI, I. P., para efeitos de inscrição nas listas oficiais de mediadores, existentes em cada centro de apoio empresarial, estabelecendo, ainda, os termos da remuneração dos mediadores de recuperação de empresas, a qual, nos termos da [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro, deve compreender uma componente base e uma componente a pagar apenas em caso de conclusão de um acordo de reestruturação.
+
+Foram ouvidas a Ordem dos Revisores Oficiais de Contas e a Associação Portuguesa dos Administradores Judiciais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei determina o montante das taxas devidas ao IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), para efeitos de inscrição nas listas oficiais de mediadores, e regula os termos da remuneração do mediador de recuperação de empresas, de acordo com o previsto na [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro.
+
+###### Artigo 2.º — Taxas devidas pela inscrição nas listas oficiais de mediadores
+
+1 - Para efeitos de inscrição nas listas oficiais de mediadores, nos termos do artigo 7.º da [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro, é devida uma taxa de (euro) 280 ao IAPMEI, I. P.
+
+2 - O valor determinado no número anterior é acrescido em 10 % por cada lista adicional de centro de apoio empresarial em que o candidato se pretenda inscrever.
+
+3 - Caso o candidato se pretenda inscrever em mais listas adicionais de centro de apoio empresarial, após a inscrição inicial, a taxa devida corresponde apenas ao incremento previsto no número anterior.
+
+4 - O pagamento da taxa prevista no presente artigo é efetuado no prazo de cinco dias úteis após comunicação por via eletrónica da deliberação prevista no n.º 1 do artigo 9.º da [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro, através da Plataforma de Pagamentos da Administração Pública, ou, em caso de indisponibilidade do sistema, por transferência bancária a comprovar documentalmente.
+
+5 - Os pedidos de renovação da inscrição ou de reingresso na atividade, após suspensão do exercício de funções, nos termos do n.º 5 do artigo 9.º e do artigo 10.º da [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro, não implicam o pagamento de qualquer taxa.
+
+###### Artigo 3.º — Remuneração do mediador de recuperação de empresas
+
+1 - Nos termos do n.º 2 do artigo 22.º da [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro, a remuneração do mediador deve compreender uma componente base e uma componente variável, sendo esta paga em caso de conclusão de um acordo de reestruturação.
+
+2 - O mediador tem ainda direito ao reembolso das despesas necessárias ao cumprimento das funções que lhe são cometidas.
+
+###### Artigo 4.º — Componente base
+
+1 - A componente base da remuneração do mediador de recuperação de empresas consiste no pagamento dos seguintes montantes ilíquidos:
+
+a) (euro) 577,50, no caso de processos relativos a microempresas;
+
+b) (euro) 1237,50, no caso de processos relativos a pequenas e médias empresas; e
+
+c) (euro) 2062,50, no caso de processos relativos a grandes empresas.
+
+2 - Nos termos do n.º 3 do artigo 22.º da [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro, o pagamento da componente base deve efetuar-se em três prestações, a realizar-se nos seguintes termos:
+
+a) A primeira prestação, correspondente a 30 % do montante total da componente base definido nos termos do n.º 1, é paga após a nomeação do mediador de recuperação de empresas;
+
+b) A segunda prestação, correspondente a 20 % do montante total da componente base definido nos termos do n.º 1, é paga após a elaboração do plano de recuperação, com o auxílio do mediador; e
+
+c) A terceira prestação, correspondente a 50 % do montante total da componente base definido nos termos do n.º 1, é paga após o encerramento do processo de negociação com os credores.
+
+3 - Nos termos do n.º 5 do artigo 22.º da [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro, a primeira prestação da componente base constitui encargo do IAPMEI, I. P.
+
+4 - Para efeitos do número anterior, o mediador deve apresentar requerimento para pagamento da primeira prestação ao IAPMEI, I. P., por meio eletrónico e nos cinco dias úteis após a nomeação, juntando a respetiva fatura e identificação do número internacional de identificação bancária (IBAN) da conta a creditar, devendo o IAPMEI, I. P., proceder ao pagamento no prazo de 30 dias.
+
+###### Artigo 5.º — Componente variável
+
+1 - A componente variável da remuneração do mediador apenas é devida em caso de conclusão de um acordo de reestruturação.
+
+2 - A componente variável é calculada, salvo distinto acordo escrito entre as partes, de acordo com a seguinte fórmula:
+
+X = [(vn * 0,25 %) + [(pn/pt) * 1,0 %] * pn]
+
+onde:
+
+X é o valor a liquidar pelo devedor ao mediador em caso de celebração de acordo de reestruturação;
+
+vn é o valor das vendas e prestações de serviços da empresa no ano n-1;
+
+pn é o valor do passivo negociado no âmbito do acordo de reestruturação;
+
+pt é o passivo total da empresa evidenciado no balanço do ano n-1.
+
+3 - Salvo acordo por escrito entre as partes, o pagamento da componente variável da remuneração do mediador é realizado numa única prestação, num prazo de 30 dias após a conclusão do acordo de reestruturação.
+
+###### Artigo 6.º — Reembolso de despesas
+
+1 - Nos termos do n.º 1 do artigo 22.º da [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro, o mediador tem direito ao reembolso das despesas necessárias ao cumprimento das funções que lhe são cometidas.
+
+2 - Consideram-se necessárias as despesas diretamente relacionadas com o processo de recuperação de empresas em causa e que não pudessem ser razoavelmente evitadas.
+
+3 - No que respeita às despesas de deslocação, apenas são reembolsadas aquelas que seriam devidas a um mediador que tenha domicílio profissional no concelho da sede da empresa em processo de recuperação.
+
+###### Artigo 7.º — Exercício de funções em processo especial de revitalização
+
+1 - O disposto nos artigos anteriores relativamente à remuneração do mediador é aplicável, com as devidas adaptações e com exceção do disposto nos n.os 3 e 4 do artigo 4.º, à assistência do mediador ao devedor nas negociações previstas no n.º 9 do artigo 17.º-D do Código da Insolvência e da Recuperação de Empresas, aprovado em anexo ao [Decreto-Lei n.º 53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março, na sua redação atual, a realizar no processo especial de revitalização que seja iniciado por requerimento desse devedor, nos termos do artigo 15.º da [Lei n.º 6/2018](https://diariodarepublica.pt/dr/detalhe/lei/6-2018-114749189), de 22 de fevereiro.
+
+2 - As partes acordam por escrito a forma e prazo de pagamento de ambas as componentes da remuneração do mediador, previstas no n.º 1 do artigo 3.º, no âmbito do exercício de funções em processo especial de revitalização.
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 24 de janeiro de 2019. - António Luís Santos da Costa - João Jorge Arede Correia Neves.
+
+**Promulgado em 5 de fevereiro de 2019.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 7 de fevereiro de 2019.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

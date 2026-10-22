@@ -1,0 +1,745 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:541857:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2003-186805593",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2003-541857",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-05-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "186805546",
+    "186805513",
+    "186805514",
+    "186805515",
+    "186805516",
+    "186805517",
+    "186805518",
+    "186805519",
+    "186805520",
+    "186805521",
+    "186805522",
+    "186805523",
+    "186805524",
+    "186805525",
+    "186805526",
+    "186805527",
+    "186805528",
+    "186805529",
+    "186805530",
+    "186805531",
+    "186805532",
+    "186805533",
+    "186805534",
+    "186805535",
+    "186805536",
+    "186805537",
+    "186805538",
+    "186805539",
+    "186805540",
+    "186805541",
+    "186805543"
+   ]
+  },
+  {
+   "date": "2003-12-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:429182:por",
+     "title": "Decreto Legislativo Regional n.º 29/2003/M",
+     "published": "2003-12-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/29-2003-429182"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "186805512",
+    "186805513",
+    "186805514",
+    "186805515",
+    "186805516",
+    "186805517",
+    "186805544",
+    "186805519",
+    "186805520",
+    "186805521",
+    "186805522",
+    "186805523",
+    "186805524",
+    "186805525",
+    "186805526",
+    "186805527",
+    "186805528",
+    "186805529",
+    "186805530",
+    "186805531",
+    "186805532",
+    "186805533",
+    "186805534",
+    "186805535",
+    "186805536",
+    "186805537",
+    "186805538",
+    "186805539",
+    "186805540",
+    "186805541",
+    "186805542",
+    "186805545"
+   ]
+  },
+  {
+   "date": "2022-07-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:186771210:por",
+     "title": "Decreto Legislativo Regional n.º 15/2022/M",
+     "published": "2022-07-28",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2022-186771210"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "186805546",
+    "186805547",
+    "186805548",
+    "186805549",
+    "186805550",
+    "186805551",
+    "186805552",
+    "186805553",
+    "186805554",
+    "186805555",
+    "186805556",
+    "186805557",
+    "186805558",
+    "186805559",
+    "186805560",
+    "186805561",
+    "186805562",
+    "186805563",
+    "186805564",
+    "186805565",
+    "186805566",
+    "186805567",
+    "186805568",
+    "186805569",
+    "186805570",
+    "186805571",
+    "186805572",
+    "186805573",
+    "186805574",
+    "186806075",
+    "186806076",
+    "186806077"
+   ]
+  }
+ ],
+ "fragments": {
+  "186805546": {
+   "fragment_id": "186805594",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-07-29",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 8/2003/M\n\nCria o Gabinete de Gestão da Loja do Cidadão da Madeira\n\nCom a Resolução do Conselho de Ministros n.º 176/97, de 21 de Outubro, foi criada uma equipa de missão tendo por objectivo a implementação e entrada em funcionamento de serviços de atendimento ao cidadão, projecto que tomou a designação de Loja do Cidadão. No seguimento deste processo, foi inaugurada a primeira Loja do Cidadão na cidade de Lisboa, num processo evolutivo que permitiu a posterior abertura de estruturas congéneres nas cidades do Porto, Aveiro, Viseu, Braga e Setúbal.\n\nO trabalho para a instalação de estrutura idêntica na Região Autónoma da Madeira iniciou-se em 1999, com a nomeação da respectiva comissão instaladora, através da Resolução do Conselho do Governo Regional n.º 1422/99, de 24 de Setembro. Posteriormente, o Governo Regional da Madeira assinou com o Governo da República um protocolo com vista à efectiva implementação da Loja do Cidadão na Madeira.\n\nNa sequência do referido protocolo, encontra-se realizado o trabalho de concepção dos modelos de implantação e desenvolvimento, assim como de articulação institucional com os serviços públicos e empresas que hão-de disponibilizar os seus serviços no espaço da loja, pelo que importa agora proceder à institucionalização da entidade que assegurará a gestão e regular funcionamento da Loja do Cidadão na Madeira.\n\nA preservação da qualidade dos serviços prestados num espaço que congregará, inicialmente, cerca de 35 serviços públicos e empresas e a coordenação e articulação da Loja do Cidadão com os postos de atendimento ao cidadão que poderão ser criados justificam, por si só e independentemente de quaisquer outros critérios, a adopção do modelo de autonomia administrativa e financeira que o diploma consagra, por forma a permitir igualmente o desempenho eficaz das suas atribuições e a garantir a maior operacionalidade nos planos gestionário e financeiro que lhe permitam ser também um factor indutor de simplicidade e de desburocratização.\n\nA estrutura criada é igualmente dotada da necessária flexibilidade no plano organizativo, combinando a possibilidade de recurso ao contrato individual de trabalho com o regime normal de admissões vigente na função pública.\n\nNo plano institucional, assegura-se a participação das entidades envolvidas na Loja do Cidadão num conselho de carácter consultivo que, a diversos níveis, acompanha o funcionamento e organização da mesma.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nA Assembleia Legislativa Regional decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e da alínea n) do artigo 228.º da Constituição da República Portuguesa e das alíneas c) e i) do n.º 1 do artigo 37.º e da alínea qq) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, na redacção e numeração da Lei n.º 130/99, de 21 de Agosto, e alterado pela Lei n.º 12/2000, de 21 de Junho, o seguinte:"
+  },
+  "186805513": {
+   "fragment_id": "186805595",
+   "type": 13,
+   "heading": "Título I — Do Gabinete de Gestão da Loja do Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Do Gabinete de Gestão da Loja do Cidadão"
+  },
+  "186805514": {
+   "fragment_id": "186805596",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, objecto e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, objecto e atribuições"
+  },
+  "186805515": {
+   "fragment_id": "186805597",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação e objecto\n\n1 - É criado o Gabinete de Gestão da Loja do Cidadão, adiante abreviadamente designado apenas por GGLC, que é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, com sede no Funchal.\n\n2 - O GGLC é a entidade sob tutela da Vice-Presidência do Governo Regional que é responsável, designadamente, pela gestão e funcionamento da Loja do Cidadão na Madeira e dos postos de atendimento ao cidadão."
+  },
+  "186805516": {
+   "fragment_id": "186805598",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nO GGLC tem como atribuições a implementação e a gestão dos serviços de atendimento da Loja do Cidadão, assentes num modelo de prestação célere e personalizada, num único local, de um conjunto de serviços públicos."
+  },
+  "186805517": {
+   "fragment_id": "186805599",
+   "type": 1,
+   "heading": "Capítulo II — Dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos órgãos"
+  },
+  "186805518": {
+   "fragment_id": "186805600",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - São órgãos do GGLC a direcção, o fiscal único e o conselho de parceiros.\n\n2 - A direcção do GGLC será composta por um ou três membros, conforme vier a ser determinado no decreto regulamentar que definirá a sua estrutura orgânica, sendo presidida por um director, equiparado, para todos os efeitos legais, a director regional, e, na eventualidade da sua existência, por dois subdirectores, equiparados, para todos os efeitos legais, a subdirector regional, conforme mapa anexo ao presente diploma e que dele faz parte integrante.\n\n3 - Os membros da direcção são nomeados e exonerados pelo Conselho do Governo Regional, sob proposta do Vice-Presidente do Governo Regional."
+  },
+  "186805519": {
+   "fragment_id": "186805601",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências do director\n\n1 - Compete em especial ao director ou a quem o substituir:\n\na) Representar o GGLC, em juízo e fora dele;\n\nb) Cumprir e fazer cumprir as disposições legais e regulamentares relativas à organização e funcionamento do GGLC;\n\nc) Outorgar protocolos e contratos com outras entidades, públicas ou privadas, no âmbito da sua actividade e para a prossecução dos seus objectivos;\n\nd) Presidir ao conselho de parceiros e convocar as respectivas reuniões;\n\ne) Assegurar as relações do GGLC com os diversos departamentos do Governo Regional.\n\n2 - O director pode delegar, com a faculdade de subdelegar, o exercício de parte da sua competência em pessoal com funções de chefia no GGLC, especificando as matérias e os poderes abrangidos na delegação.\n\n3 - O director será substituído nas suas faltas e impedimentos pelo elemento com funções de chefia que, sob sua proposta, for designado pelo Vice-Presidente do Governo Regional."
+  },
+  "186805520": {
+   "fragment_id": "186805602",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências da direcção\n\nA direcção é o órgão permanente de administração do GGLC, competindo-lhe, designadamente:\n\na) Dirigir os serviços, bem como coordenar as respectivas actividades;\n\nb) Definir e sujeitar à aprovação da tutela a estrutura orgânica interna;\n\nc) Submeter à aprovação da tutela a criação de novos serviços;\n\nd) Aprovar os regulamentos internos e emitir as directrizes adequadas ao bom funcionamento do GGLC;\n\ne) Elaborar o plano anual de actividades e o orçamento e submetê-los a homologação da tutela;\n\nf) Elaborar o relatório, conta e balanços de cada exercício e submetê-los à tutela;\n\ng) Contratar com terceiros a prestação de serviços ao GGLC, com vista ao adequado desempenho das suas atribuições;\n\nh) Aceitar doações, heranças e legados;\n\ni) Promover a cobrança e arrecadação de receitas, verificar a sua conformidade legal e a regularidade financeira das despesas e autorizar o respectivo pagamento;\n\nj) Exercer todos os demais poderes necessários para assegurar a gestão do GGLC e o seu normal funcionamento e desenvolvimento, bem como a administração do seu património."
+  },
+  "186805521": {
+   "fragment_id": "186805603",
+   "type": 11,
+   "heading": "Artigo 6.º — Vinculação do GGLC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Vinculação do GGLC\n\n1 - O GGLC obriga-se:\n\na) Pela assinatura do director, quando a direcção seja composta apenas por um membro;\n\nb) Pela assinatura conjunta de dois membros da direcção, sendo uma delas a do director ou de quem o substitua nas suas ausências e impedimentos;\n\nc) Pela assinatura de um membro da direcção que, para tanto, tenha recebido em acta delegação para acto ou actos determinados.\n\n2 - Os actos de mero expediente de que não resultem obrigações para o GGLC podem ser assinados por qualquer membro da direcção ou pelos trabalhadores a quem tal poder tenha sido conferido."
+  },
+  "186805522": {
+   "fragment_id": "186805604",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fiscal único\n\n1 - O fiscal único é designado, de entre revisores oficiais de contas, mediante despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças, o qual deve mencionar a respectiva remuneração e a designação do fiscal único suplente.\n\n2 - Compete ao fiscal único:\n\na) Acompanhar e controlar a gestão financeira do GGLC;\n\nb) Apreciar e emitir parecer sobre o orçamento, relatório de actividades financeiras e as contas anuais do GGLC;\n\nc) Fiscalizar a boa execução da contabilidade do GGLC e o cumprimento das disposições aplicáveis em matéria orçamental, contabilística e de tesouraria, informando a direcção de qualquer anomalia eventualmente detectada;\n\nd) Pronunciar-se sobre todos os assuntos da sua competência que lhe sejam submetidos pela direcção.\n\n3 - Os mandatos do fiscal único e do fiscal suplente têm a duração de três anos, podendo ser renovados por iguais períodos de tempo."
+  },
+  "186805523": {
+   "fragment_id": "186805605",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho de parceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho de parceiros\n\n1 - O conselho de parceiros é um órgão com carácter consultivo, constituído pelo director, que o dirige, pelo gerente de loja e por um responsável de cada um dos serviços de atendimento sediados na loja.\n\n2 - Compete ao conselho de parceiros:\n\na) Aprovar o regulamento do seu funcionamento;\n\nb) Pronunciar-se sobre o modo de funcionamento da Loja do Cidadão da Madeira;\n\nc) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelos seus membros.\n\n3 - O conselho de parceiros reúne ordinariamente, pelo menos, quatro vezes por ano e extraordinariamente sempre que for convocado por, pelo menos, um terço dos seus membros."
+  },
+  "186805524": {
+   "fragment_id": "186805606",
+   "type": 13,
+   "heading": "Título II — Da Loja do Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Da Loja do Cidadão"
+  },
+  "186805525": {
+   "fragment_id": "186805607",
+   "type": 1,
+   "heading": "Capítulo I — Serviços locais e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Serviços locais e funcionamento"
+  },
+  "186805526": {
+   "fragment_id": "186805608",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviços locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Serviços locais\n\n1 - O GGLC dispõe de serviços locais, designados por lojas do cidadão, considerando-se desde já criada a loja do Funchal.\n\n2 - Por despacho do membro do Governo da tutela e com base em proposta devidamente fundamentada da direcção do GGLC, podem ser criados, caso se justifiquem, novos serviços locais, que devem atender, designadamente, aos seguintes critérios:\n\na) Número de habitantes;\n\nb) Taxa de crescimento da população;\n\nc) Serviços públicos existentes;\n\nd) Inexistência de oferta idêntica nos concelhos limítrofes;\n\ne) Estudos de acessibilidades;\n\nf) Disponibilidade de instalações.\n\n3 - A prestação de serviços é assegurada através de serviços de atendimento, constituídos por extensões de entidades públicas e privadas, sediadas em cada loja, e processa-se nos termos e condições estabelecidos na lei e em protocolo."
+  },
+  "186805527": {
+   "fragment_id": "186805609",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento da Loja do Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionamento da Loja do Cidadão\n\n1 - A actividade da Loja do Cidadão é assegurada por uma unidade de gestão, que funciona sob a direcção e coordenação de um gerente de loja, coadjuvado por dois subgerentes e demais pessoal de apoio.\n\n2 - Compete ao gerente de loja, no âmbito da sua área de actuação, gerir os meios e os recursos de utilização comum, coordenar, apoiar e avaliar a actividade dos serviços instalados, na perspectiva de garantir aos cidadãos o melhor acolhimento e atendimento, e assegurar aos parceiros as melhores condições para a prestação dos seus serviços.\n\n3 - Compete ainda ao gerente de loja:\n\na) Assegurar a gestão e direcção dos recursos humanos que constituem a unidade de gestão;\n\nb) Gerir o património e os recursos materiais, garantindo e acompanhando a execução de obras, a operacionalidade e manutenção dos equipamentos e a reposição dos materiais necessários ao normal funcionamento da actividade prosseguida na respectiva loja;\n\nc) Assegurar a supervisão dos procedimentos operacionais da loja."
+  },
+  "186805528": {
+   "fragment_id": "186805610",
+   "type": 1,
+   "heading": "Capítulo II — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Gestão financeira e patrimonial"
+  },
+  "186805529": {
+   "fragment_id": "186805611",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime patrimonial e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime patrimonial e financeiro\n\n1 - O património do GGLC é constituído pela universalidade dos seus bens, direitos e obrigações.\n\n2 - O orçamento anual do GGLC depende de aprovação da tutela e do Secretário Regional do Plano e Finanças.\n\n3 - O relatório anual de actividades e as contas anuais, organizadas de acordo com o Plano Oficial de Contabilidade Pública (POCP) e acompanhadas do parecer do fiscal único, bem como de eventuais relatórios de auditoria externa, devem ser submetidos até 31 de Março do ano seguinte àquele a que respeitem à aprovação da tutela e do Secretário Regional do Plano e Finanças.\n\n4 - O GGLC adopta, nas suas contas, o POCP."
+  },
+  "186805530": {
+   "fragment_id": "186805612",
+   "type": 11,
+   "heading": "Artigo 12.º — Instrumentos de gestão e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instrumentos de gestão e controlo\n\nA actuação do GGLC é disciplinada pelos seguintes instrumentos de gestão e controlo:\n\na) Planos de actividades financeiras, anual e plurianual;\n\nb) Orçamento anual;\n\nc) Relatórios anuais de actividade financeira;\n\nd) Relatório e contas anuais;\n\ne) Relatórios mensais de controlo orçamental."
+  },
+  "186805531": {
+   "fragment_id": "186805613",
+   "type": 11,
+   "heading": "Artigo 13.º — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Receitas e despesas\n\n1 - Constituem receitas do GGLC:\n\na) Os rendimentos provenientes dos serviços prestados na prossecução das suas atribuições;\n\nb) Os juros dos valores depositados ou mutuados, bem como quaisquer outros rendimentos de bens mobiliários ou imobiliários de que tenha fruição;\n\nc) As comparticipações provenientes das entidades públicas e privadas decorrentes da correspondente participação na Loja do Cidadão;\n\nd) As dotações inscritas no Orçamento Regional;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título e, bem assim, o produto da alienação ou cedência, a qualquer título, de bens e direitos do seu património;\n\nf) As doações, heranças ou legados aceites a benefício de inventário.\n\n2 - Constituem despesas do GGLC as inerentes ao funcionamento e à prossecução das actividades resultantes das respectivas atribuições previstas no presente diploma, designadamente os custos de aquisição, manutenção e conservação dos bens e equipamentos ou serviços que tenha de utilizar."
+  },
+  "186805532": {
+   "fragment_id": "186805614",
+   "type": 11,
+   "heading": "Artigo 14.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Isenções\n\nO GGLC goza de todas as isenções reconhecidas por lei ao Estado e à Região Autónoma da Madeira."
+  },
+  "186805533": {
+   "fragment_id": "186805615",
+   "type": 1,
+   "heading": "Capítulo III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pessoal"
+  },
+  "186805534": {
+   "fragment_id": "186805616",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime jurídico do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime jurídico do pessoal\n\n1 - O pessoal do GGLC rege-se pelas normas aplicáveis aos funcionários e agentes da administração pública central e regional autónoma, salvo o disposto nos números seguintes.\n\n2 - Para a realização de tarefas indiferenciadas passíveis de serem realizadas por pessoal operário ou auxiliar, o GGLC pode recorrer ao contrato individual de trabalho.\n\n3 - A celebração dos contratos individuais de trabalho, nos termos previstos no número anterior, fica sujeita à observância dos seguintes parâmetros:\n\na) As categorias e carreiras profissionais são análogas às existentes no âmbito da administração central e regional autónoma, exigindo-se para ingresso e acesso as mesmas habilitações e ou qualificações profissionais;\n\nb) Os procedimentos de ingresso e acesso devem garantir o respeito pelos princípios da publicidade, igualdade, proporcionalidade e prossecução do interesse público;\n\nc) As remunerações serão fixadas em montantes idênticos aos que vigoram na Administração Pública, atento o respectivo enquadramento profissional.\n\n4 - O quadro de pessoal do GGLC será aprovado pelo Vice-Presidente do Governo Regional e pelo secretário regional com a tutela das finanças e constará do mapa anexo ao diploma referido no artigo 17.º"
+  },
+  "186805535": {
+   "fragment_id": "186805617",
+   "type": 11,
+   "heading": "Artigo 16.º — Gerentes e subgerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Gerentes e subgerentes\n\n1 - São criadas as categorias de gerente e subgerente, responsáveis directos pela coordenação e chefia da unidade de gestão.\n\n2 - O gerente e o subgerente são recrutados de entre indivíduos possuidores de licenciatura, com ou sem vínculo à função pública.\n\n3 - O gerente e o subgerente desempenham funções em regime de contrato individual de trabalho ou, se tiverem vínculo à função pública, em regime de comissão de serviço.\n\n4 - O gerente e o subgerente são remunerados, respectivamente, pelos índices 820 e 760 da tabela de vencimentos do regime geral da função pública."
+  },
+  "186805536": {
+   "fragment_id": "186805618",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "186805537": {
+   "fragment_id": "186805619",
+   "type": 11,
+   "heading": "Artigo 17.º — Orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Orgânica\n\nO modo de funcionamento, a competência e a natureza dos órgãos e serviços do GGLC, bem como a sua estrutura orgânica interna, serão aprovados por decreto regulamentar regional."
+  },
+  "186805538": {
+   "fragment_id": "186805620",
+   "type": 11,
+   "heading": "Artigo 18.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regulamentação\n\n1 - É aplicável ao pessoal que prestar serviço nos postos de atendimento da Loja do Cidadão da Madeira o disposto no Decreto-Lei n.º 187/99, de 2 de Junho, salvo o disposto nos números seguintes.\n\n2 - Por despacho do Vice-Presidente do Governo Regional, poderão ser alterados os horários de funcionamento e atendimento da Loja do Cidadão e seus postos de funcionamento, previstos no diploma mencionado no número anterior.\n\n3 - O montante do suplemento remuneratório a que se refere o artigo 12.º do Decreto-Lei n.º 187/99, de 2 de Junho, será fixado por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças.\n\n4 - O modelo e as características da indumentária a utilizar pelos trabalhadores e do logótipo da Loja do Cidadão serão definidos por portaria do Vice-Presidente do Governo Regional.\n\n5 - As condições de fornecimento e utilização da indumentária a utilizar pelos trabalhadores da Loja do Cidadão constarão de regulamento a aprovar pelo GGLC.\n\n6 - O modelo de cartão de identificação dos dirigentes e do pessoal que presta serviço na Loja do Cidadão da Madeira será definido por portaria do Vice-Presidente do Governo Regional."
+  },
+  "186805539": {
+   "fragment_id": "186805621",
+   "type": 11,
+   "heading": "Artigo 19.º — Remissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Remissão\n\nEm todas as matérias respeitantes ao enquadramento jurídico de funcionamento e organização da Loja do Cidadão que não se encontrem previstas no presente diploma aplicar-se-á a legislação e regulamentação nacional vigente sobre essa matéria."
+  },
+  "186805540": {
+   "fragment_id": "186805622",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "186805541": {
+   "fragment_id": "186805623",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\nA comissão instaladora da Loja do Cidadão manter-se-á em funções até à data da nomeação dos membros da direcção."
+  },
+  "186805543": {
+   "fragment_id": "186805625",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver quadro no documento original)"
+  },
+  "186805512": {
+   "fragment_id": "186805594",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 8/2003/M\n\nCria o Gabinete de Gestão da Loja do Cidadão da Madeira\n\nCom a Resolução do Conselho de Ministros n.º 176/97, de 21 de Outubro, foi criada uma equipa de missão tendo por objectivo a implementação e entrada em funcionamento de serviços de atendimento ao cidadão, projecto que tomou a designação de Loja do Cidadão. No seguimento deste processo, foi inaugurada a primeira Loja do Cidadão na cidade de Lisboa, num processo evolutivo que permitiu a posterior abertura de estruturas congéneres nas cidades do Porto, Aveiro, Viseu, Braga e Setúbal.\n\nO trabalho para a instalação de estrutura idêntica na Região Autónoma da Madeira iniciou-se em 1999, com a nomeação da respectiva comissão instaladora, através da Resolução do Conselho do Governo Regional n.º 1422/99, de 24 de Setembro. Posteriormente, o Governo Regional da Madeira assinou com o Governo da República um protocolo com vista à efectiva implementação da Loja do Cidadão na Madeira.\n\nNa sequência do referido protocolo, encontra-se realizado o trabalho de concepção dos modelos de implantação e desenvolvimento, assim como de articulação institucional com os serviços públicos e empresas que hão-de disponibilizar os seus serviços no espaço da loja, pelo que importa agora proceder à institucionalização da entidade que assegurará a gestão e regular funcionamento da Loja do Cidadão na Madeira.\n\nA preservação da qualidade dos serviços prestados num espaço que congregará, inicialmente, cerca de 35 serviços públicos e empresas e a coordenação e articulação da Loja do Cidadão com os postos de atendimento ao cidadão que poderão ser criados justificam, por si só e independentemente de quaisquer outros critérios, a adopção do modelo de autonomia administrativa e financeira que o diploma consagra, por forma a permitir igualmente o desempenho eficaz das suas atribuições e a garantir a maior operacionalidade nos planos gestionário e financeiro que lhe permitam ser também um factor indutor de simplicidade e de desburocratização.\n\nA estrutura criada é igualmente dotada da necessária flexibilidade no plano organizativo, combinando a possibilidade de recurso ao contrato individual de trabalho com o regime normal de admissões vigente na função pública.\n\nNo plano institucional, assegura-se a participação das entidades envolvidas na Loja do Cidadão num conselho de carácter consultivo que, a diversos níveis, acompanha o funcionamento e organização da mesma.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nA Assembleia Legislativa Regional decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e da alínea n) do artigo 228.º da Constituição da República Portuguesa e das alíneas c) e i) do n.º 1 do artigo 37.º e da alínea qq) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, na redacção e numeração da Lei n.º 130/99, de 21 de Agosto, e alterado pela Lei n.º 12/2000, de 21 de Junho, o seguinte:"
+  },
+  "186805544": {
+   "fragment_id": "186805600",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2003-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2003/M - Diário da República n.º 283/2003, Série I-A de 2003-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2003-429182), em vigor a partir de 2003-12-10"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - São órgãos do GGLC a direcção, o fiscal único e o conselho de parceiros.\n\n2 - A direcção do GGLC será composta por um ou três membros, conforme vier a ser determinado no decreto regulamentar que definirá a sua estrutura orgânica, sendo presidido por um director, equiparado, para efeitos remuneratórios, a director regional, e, na eventualidade da sua existência, por dois subdirectores, equiparados, para efeitos remuneratórios, a subdirector regional, conforme mapa anexo ao presente diploma e que dele faz parte integrante.\n\n3 - Os membros da direcção são nomeados e exonerados pelo Conselho do Governo Regional, sob proposta do Vice-Presidente do Governo Regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2003/M - Diário da República n.º 283/2003, Série I-A de 2003-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2003-429182), em vigor a partir de 2003-12-10"
+  },
+  "186805542": {
+   "fragment_id": "186805624",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional em 8 de Abril de 2003.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nPublique-se.\n\nAssinado em 2 de Maio de 2003.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "186805545": {
+   "fragment_id": "186805625",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2003-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2003/M - Diário da República n.º 283/2003, Série I-A de 2003-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2003-429182), em vigor a partir de 2003-12-10"
+   ],
+   "markdown": "## Anexo\n\n(ver quadro no documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2003/M - Diário da República n.º 283/2003, Série I-A de 2003-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2003-429182), em vigor a partir de 2003-12-10"
+  },
+  "186805547": {
+   "fragment_id": "186805595",
+   "type": 13,
+   "heading": "Título I — Do Gabinete de Gestão da Loja do Cidadão",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "## Título I — Do Gabinete de Gestão da Loja do Cidadão\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805548": {
+   "fragment_id": "186805596",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, objecto e atribuições",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "### Capítulo I — Denominação, objecto e atribuições\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805549": {
+   "fragment_id": "186805597",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e objecto",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 1.º — Denominação e objecto\n\n1 - É criado o Gabinete de Gestão da Loja do Cidadão, adiante abreviadamente designado apenas por GGLC, que é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, com sede no Funchal.\n\n2 - O GGLC é a entidade sob tutela da Vice-Presidência do Governo Regional que é responsável, designadamente, pela gestão e funcionamento da Loja do Cidadão na Madeira e dos postos de atendimento ao cidadão.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805550": {
+   "fragment_id": "186805598",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nO GGLC tem como atribuições a implementação e a gestão dos serviços de atendimento da Loja do Cidadão, assentes num modelo de prestação célere e personalizada, num único local, de um conjunto de serviços públicos.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805551": {
+   "fragment_id": "186805599",
+   "type": 1,
+   "heading": "Capítulo II — Dos órgãos",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "### Capítulo II — Dos órgãos\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805552": {
+   "fragment_id": "186805600",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2003/M - Diário da República n.º 283/2003, Série I-A de 2003-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2003-429182), em vigor a partir de 2003-12-10"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - São órgãos do GGLC a direcção, o fiscal único e o conselho de parceiros.\n\n2 - A direcção do GGLC será composta por um ou três membros, conforme vier a ser determinado no decreto regulamentar que definirá a sua estrutura orgânica, sendo presidido por um director, equiparado, para efeitos remuneratórios, a director regional, e, na eventualidade da sua existência, por dois subdirectores, equiparados, para efeitos remuneratórios, a subdirector regional, conforme mapa anexo ao presente diploma e que dele faz parte integrante.\n\n3 - Os membros da direcção são nomeados e exonerados pelo Conselho do Governo Regional, sob proposta do Vice-Presidente do Governo Regional.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2003/M - Diário da República n.º 283/2003, Série I-A de 2003-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2003-429182), em vigor a partir de 2003-12-10"
+  },
+  "186805553": {
+   "fragment_id": "186805601",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências do director",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 4.º — Competências do director\n\n1 - Compete em especial ao director ou a quem o substituir:\n\na) Representar o GGLC, em juízo e fora dele;\n\nb) Cumprir e fazer cumprir as disposições legais e regulamentares relativas à organização e funcionamento do GGLC;\n\nc) Outorgar protocolos e contratos com outras entidades, públicas ou privadas, no âmbito da sua actividade e para a prossecução dos seus objectivos;\n\nd) Presidir ao conselho de parceiros e convocar as respectivas reuniões;\n\ne) Assegurar as relações do GGLC com os diversos departamentos do Governo Regional.\n\n2 - O director pode delegar, com a faculdade de subdelegar, o exercício de parte da sua competência em pessoal com funções de chefia no GGLC, especificando as matérias e os poderes abrangidos na delegação.\n\n3 - O director será substituído nas suas faltas e impedimentos pelo elemento com funções de chefia que, sob sua proposta, for designado pelo Vice-Presidente do Governo Regional.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805554": {
+   "fragment_id": "186805602",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências da direcção",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 5.º — Competências da direcção\n\nA direcção é o órgão permanente de administração do GGLC, competindo-lhe, designadamente:\n\na) Dirigir os serviços, bem como coordenar as respectivas actividades;\n\nb) Definir e sujeitar à aprovação da tutela a estrutura orgânica interna;\n\nc) Submeter à aprovação da tutela a criação de novos serviços;\n\nd) Aprovar os regulamentos internos e emitir as directrizes adequadas ao bom funcionamento do GGLC;\n\ne) Elaborar o plano anual de actividades e o orçamento e submetê-los a homologação da tutela;\n\nf) Elaborar o relatório, conta e balanços de cada exercício e submetê-los à tutela;\n\ng) Contratar com terceiros a prestação de serviços ao GGLC, com vista ao adequado desempenho das suas atribuições;\n\nh) Aceitar doações, heranças e legados;\n\ni) Promover a cobrança e arrecadação de receitas, verificar a sua conformidade legal e a regularidade financeira das despesas e autorizar o respectivo pagamento;\n\nj) Exercer todos os demais poderes necessários para assegurar a gestão do GGLC e o seu normal funcionamento e desenvolvimento, bem como a administração do seu património.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805555": {
+   "fragment_id": "186805603",
+   "type": 11,
+   "heading": "Artigo 6.º — Vinculação do GGLC",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 6.º — Vinculação do GGLC\n\n1 - O GGLC obriga-se:\n\na) Pela assinatura do director, quando a direcção seja composta apenas por um membro;\n\nb) Pela assinatura conjunta de dois membros da direcção, sendo uma delas a do director ou de quem o substitua nas suas ausências e impedimentos;\n\nc) Pela assinatura de um membro da direcção que, para tanto, tenha recebido em acta delegação para acto ou actos determinados.\n\n2 - Os actos de mero expediente de que não resultem obrigações para o GGLC podem ser assinados por qualquer membro da direcção ou pelos trabalhadores a quem tal poder tenha sido conferido.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805556": {
+   "fragment_id": "186805604",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscal único",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 7.º — Fiscal único\n\n1 - O fiscal único é designado, de entre revisores oficiais de contas, mediante despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças, o qual deve mencionar a respectiva remuneração e a designação do fiscal único suplente.\n\n2 - Compete ao fiscal único:\n\na) Acompanhar e controlar a gestão financeira do GGLC;\n\nb) Apreciar e emitir parecer sobre o orçamento, relatório de actividades financeiras e as contas anuais do GGLC;\n\nc) Fiscalizar a boa execução da contabilidade do GGLC e o cumprimento das disposições aplicáveis em matéria orçamental, contabilística e de tesouraria, informando a direcção de qualquer anomalia eventualmente detectada;\n\nd) Pronunciar-se sobre todos os assuntos da sua competência que lhe sejam submetidos pela direcção.\n\n3 - Os mandatos do fiscal único e do fiscal suplente têm a duração de três anos, podendo ser renovados por iguais períodos de tempo.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805557": {
+   "fragment_id": "186805605",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho de parceiros",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 8.º — Conselho de parceiros\n\n1 - O conselho de parceiros é um órgão com carácter consultivo, constituído pelo director, que o dirige, pelo gerente de loja e por um responsável de cada um dos serviços de atendimento sediados na loja.\n\n2 - Compete ao conselho de parceiros:\n\na) Aprovar o regulamento do seu funcionamento;\n\nb) Pronunciar-se sobre o modo de funcionamento da Loja do Cidadão da Madeira;\n\nc) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelos seus membros.\n\n3 - O conselho de parceiros reúne ordinariamente, pelo menos, quatro vezes por ano e extraordinariamente sempre que for convocado por, pelo menos, um terço dos seus membros.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805558": {
+   "fragment_id": "186805606",
+   "type": 13,
+   "heading": "Título II — Da Loja do Cidadão",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "## Título II — Da Loja do Cidadão\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805559": {
+   "fragment_id": "186805607",
+   "type": 1,
+   "heading": "Capítulo I — Serviços locais e funcionamento",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "### Capítulo I — Serviços locais e funcionamento\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805560": {
+   "fragment_id": "186805608",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviços locais",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 9.º — Serviços locais\n\n1 - O GGLC dispõe de serviços locais, designados por lojas do cidadão, considerando-se desde já criada a loja do Funchal.\n\n2 - Por despacho do membro do Governo da tutela e com base em proposta devidamente fundamentada da direcção do GGLC, podem ser criados, caso se justifiquem, novos serviços locais, que devem atender, designadamente, aos seguintes critérios:\n\na) Número de habitantes;\n\nb) Taxa de crescimento da população;\n\nc) Serviços públicos existentes;\n\nd) Inexistência de oferta idêntica nos concelhos limítrofes;\n\ne) Estudos de acessibilidades;\n\nf) Disponibilidade de instalações.\n\n3 - A prestação de serviços é assegurada através de serviços de atendimento, constituídos por extensões de entidades públicas e privadas, sediadas em cada loja, e processa-se nos termos e condições estabelecidos na lei e em protocolo.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805561": {
+   "fragment_id": "186805609",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento da Loja do Cidadão",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 10.º — Funcionamento da Loja do Cidadão\n\n1 - A actividade da Loja do Cidadão é assegurada por uma unidade de gestão, que funciona sob a direcção e coordenação de um gerente de loja, coadjuvado por dois subgerentes e demais pessoal de apoio.\n\n2 - Compete ao gerente de loja, no âmbito da sua área de actuação, gerir os meios e os recursos de utilização comum, coordenar, apoiar e avaliar a actividade dos serviços instalados, na perspectiva de garantir aos cidadãos o melhor acolhimento e atendimento, e assegurar aos parceiros as melhores condições para a prestação dos seus serviços.\n\n3 - Compete ainda ao gerente de loja:\n\na) Assegurar a gestão e direcção dos recursos humanos que constituem a unidade de gestão;\n\nb) Gerir o património e os recursos materiais, garantindo e acompanhando a execução de obras, a operacionalidade e manutenção dos equipamentos e a reposição dos materiais necessários ao normal funcionamento da actividade prosseguida na respectiva loja;\n\nc) Assegurar a supervisão dos procedimentos operacionais da loja.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805562": {
+   "fragment_id": "186805610",
+   "type": 1,
+   "heading": "Capítulo II — Gestão financeira e patrimonial",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "### Capítulo II — Gestão financeira e patrimonial\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805563": {
+   "fragment_id": "186805611",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime patrimonial e financeiro",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 11.º — Regime patrimonial e financeiro\n\n1 - O património do GGLC é constituído pela universalidade dos seus bens, direitos e obrigações.\n\n2 - O orçamento anual do GGLC depende de aprovação da tutela e do Secretário Regional do Plano e Finanças.\n\n3 - O relatório anual de actividades e as contas anuais, organizadas de acordo com o Plano Oficial de Contabilidade Pública (POCP) e acompanhadas do parecer do fiscal único, bem como de eventuais relatórios de auditoria externa, devem ser submetidos até 31 de Março do ano seguinte àquele a que respeitem à aprovação da tutela e do Secretário Regional do Plano e Finanças.\n\n4 - O GGLC adopta, nas suas contas, o POCP.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805564": {
+   "fragment_id": "186805612",
+   "type": 11,
+   "heading": "Artigo 12.º — Instrumentos de gestão e controlo",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 12.º — Instrumentos de gestão e controlo\n\nA actuação do GGLC é disciplinada pelos seguintes instrumentos de gestão e controlo:\n\na) Planos de actividades financeiras, anual e plurianual;\n\nb) Orçamento anual;\n\nc) Relatórios anuais de actividade financeira;\n\nd) Relatório e contas anuais;\n\ne) Relatórios mensais de controlo orçamental.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805565": {
+   "fragment_id": "186805613",
+   "type": 11,
+   "heading": "Artigo 13.º — Receitas e despesas",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 13.º — Receitas e despesas\n\n1 - Constituem receitas do GGLC:\n\na) Os rendimentos provenientes dos serviços prestados na prossecução das suas atribuições;\n\nb) Os juros dos valores depositados ou mutuados, bem como quaisquer outros rendimentos de bens mobiliários ou imobiliários de que tenha fruição;\n\nc) As comparticipações provenientes das entidades públicas e privadas decorrentes da correspondente participação na Loja do Cidadão;\n\nd) As dotações inscritas no Orçamento Regional;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título e, bem assim, o produto da alienação ou cedência, a qualquer título, de bens e direitos do seu património;\n\nf) As doações, heranças ou legados aceites a benefício de inventário.\n\n2 - Constituem despesas do GGLC as inerentes ao funcionamento e à prossecução das actividades resultantes das respectivas atribuições previstas no presente diploma, designadamente os custos de aquisição, manutenção e conservação dos bens e equipamentos ou serviços que tenha de utilizar.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805566": {
+   "fragment_id": "186805614",
+   "type": 11,
+   "heading": "Artigo 14.º — Isenções",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 14.º — Isenções\n\nO GGLC goza de todas as isenções reconhecidas por lei ao Estado e à Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805567": {
+   "fragment_id": "186805615",
+   "type": 1,
+   "heading": "Capítulo III — Pessoal",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "### Capítulo III — Pessoal\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805568": {
+   "fragment_id": "186805616",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime jurídico do pessoal",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 15.º — Regime jurídico do pessoal\n\n1 - O pessoal do GGLC rege-se pelas normas aplicáveis aos funcionários e agentes da administração pública central e regional autónoma, salvo o disposto nos números seguintes.\n\n2 - Para a realização de tarefas indiferenciadas passíveis de serem realizadas por pessoal operário ou auxiliar, o GGLC pode recorrer ao contrato individual de trabalho.\n\n3 - A celebração dos contratos individuais de trabalho, nos termos previstos no número anterior, fica sujeita à observância dos seguintes parâmetros:\n\na) As categorias e carreiras profissionais são análogas às existentes no âmbito da administração central e regional autónoma, exigindo-se para ingresso e acesso as mesmas habilitações e ou qualificações profissionais;\n\nb) Os procedimentos de ingresso e acesso devem garantir o respeito pelos princípios da publicidade, igualdade, proporcionalidade e prossecução do interesse público;\n\nc) As remunerações serão fixadas em montantes idênticos aos que vigoram na Administração Pública, atento o respectivo enquadramento profissional.\n\n4 - O quadro de pessoal do GGLC será aprovado pelo Vice-Presidente do Governo Regional e pelo secretário regional com a tutela das finanças e constará do mapa anexo ao diploma referido no artigo 17.º\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805569": {
+   "fragment_id": "186805617",
+   "type": 11,
+   "heading": "Artigo 16.º — Gerentes e subgerentes",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 16.º — Gerentes e subgerentes\n\n1 - São criadas as categorias de gerente e subgerente, responsáveis directos pela coordenação e chefia da unidade de gestão.\n\n2 - O gerente e o subgerente são recrutados de entre indivíduos possuidores de licenciatura, com ou sem vínculo à função pública.\n\n3 - O gerente e o subgerente desempenham funções em regime de contrato individual de trabalho ou, se tiverem vínculo à função pública, em regime de comissão de serviço.\n\n4 - O gerente e o subgerente são remunerados, respectivamente, pelos índices 820 e 760 da tabela de vencimentos do regime geral da função pública.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805570": {
+   "fragment_id": "186805618",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805571": {
+   "fragment_id": "186805619",
+   "type": 11,
+   "heading": "Artigo 17.º — Orgânica",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 17.º — Orgânica\n\nO modo de funcionamento, a competência e a natureza dos órgãos e serviços do GGLC, bem como a sua estrutura orgânica interna, serão aprovados por decreto regulamentar regional.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805572": {
+   "fragment_id": "186805620",
+   "type": 11,
+   "heading": "Artigo 18.º — Regulamentação",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 18.º — Regulamentação\n\n1 - É aplicável ao pessoal que prestar serviço nos postos de atendimento da Loja do Cidadão da Madeira o disposto no Decreto-Lei n.º 187/99, de 2 de Junho, salvo o disposto nos números seguintes.\n\n2 - Por despacho do Vice-Presidente do Governo Regional, poderão ser alterados os horários de funcionamento e atendimento da Loja do Cidadão e seus postos de funcionamento, previstos no diploma mencionado no número anterior.\n\n3 - O montante do suplemento remuneratório a que se refere o artigo 12.º do Decreto-Lei n.º 187/99, de 2 de Junho, será fixado por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças.\n\n4 - O modelo e as características da indumentária a utilizar pelos trabalhadores e do logótipo da Loja do Cidadão serão definidos por portaria do Vice-Presidente do Governo Regional.\n\n5 - As condições de fornecimento e utilização da indumentária a utilizar pelos trabalhadores da Loja do Cidadão constarão de regulamento a aprovar pelo GGLC.\n\n6 - O modelo de cartão de identificação dos dirigentes e do pessoal que presta serviço na Loja do Cidadão da Madeira será definido por portaria do Vice-Presidente do Governo Regional.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805573": {
+   "fragment_id": "186805621",
+   "type": 11,
+   "heading": "Artigo 19.º — Remissão",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 19.º — Remissão\n\nEm todas as matérias respeitantes ao enquadramento jurídico de funcionamento e organização da Loja do Cidadão que não se encontrem previstas no presente diploma aplicar-se-á a legislação e regulamentação nacional vigente sobre essa matéria.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186805574": {
+   "fragment_id": "186805622",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186806075": {
+   "fragment_id": "186805623",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\nA comissão instaladora da Loja do Cidadão manter-se-á em funções até à data da nomeação dos membros da direcção.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186806076": {
+   "fragment_id": "186805624",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+   ],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional em 8 de Abril de 2003.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nPublique-se.\n\nAssinado em 2 de Maio de 2003.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29"
+  },
+  "186806077": {
+   "fragment_id": "186805625",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2022-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2003/M - Diário da República n.º 283/2003, Série I-A de 2003-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2003-429182), em vigor a partir de 2003-12-10"
+   ],
+   "markdown": "## Anexo\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 15/2022/M - Diário da República n.º 145/2022, Série I de 2022-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), em vigor a partir de 2022-07-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2003/M - Diário da República n.º 283/2003, Série I-A de 2003-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2003-429182), em vigor a partir de 2003-12-10"
+  }
+ }
+}

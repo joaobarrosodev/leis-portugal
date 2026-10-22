@@ -1,0 +1,3571 @@
+---
+schema_version: '1.0'
+id: eu:celex:32001R0999:por
+title: Regulamento (CE) n.° 999/2001 do Parlamento Europeu e do Conselho, de 22 de Maio de 2001
+short_title: null
+summary: Regulamento (CE) n.° 999/2001 do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, que estabelece regras para
+  a prevenção, o controlo e a erradicação de determinadas encefalopatias espongiformes transmissíveis
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+- Parlamento Europeu
+proposing_entity: null
+official_number: 2001/999
+official_date: null
+publication_date: '2001-05-31'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 147 de 31.5.2001
+  number: '147'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/cba1d322-3457-4545-a539-5b38936b3b15.0010.02/DOC_1
+entry_into_force_dates:
+- '2001-06-01'
+- '2001-07-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2025-03-12'
+identifiers:
+  celex: 32001R0999
+  eli: http://data.europa.eu/eli/reg/2001/999/oj
+  oj: oj:JOL_2001_147_R_0001_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32001R0999:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32001R0999
+  metadata_url: http://publications.europa.eu/resource/cellar/cba1d322-3457-4545-a539-5b38936b3b15.0010
+  content_url: http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R0999-20250312
+  retrieved_at: '2026-10-22T02:36:22Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-24T22:49:14.400+01:00'
+integrity:
+  source_sha256: 2910912b1ccb3f604a9fa26d6a464d20a42bc3e585234795331ccdc1aecb2840
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:36:22Z'
+  notes: Texto consolidado 02001R0999-20250312.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- alimentação animal
+- autorização de venda
+- encefalopatia espongiforme bovina
+- exportação (UE)
+- inspeção sanitária
+- inspeção veterinária
+- prevenção das doenças
+- proteção do consumidor
+- risco sanitário
+relationships:
+- type: amended_by
+  target: celex:32003R0650
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ea0f67b0-1235-4820-b26b-63f105077844
+  date: '2003-04-14'
+- type: amended_by
+  target: celex:12003TN02/06/B1
+  label: null
+  source: http://publications.europa.eu/resource/cellar/22e89737-66b5-4f06-bf20-2c952d817e96
+  date: '2003-10-16'
+- type: amended_by
+  target: celex:32006R1791
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ee8e6594-31ce-466e-8d6f-30b742d581f0
+  date: '2006-11-20'
+- type: amended_by
+  target: celex:32007R0722
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c7fefed7-1924-4175-946e-730c207cec87
+  date: '2007-06-26'
+- type: amended_by
+  target: celex:32007R0727
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2eba957d-efd0-4939-915d-e32f82e2d636
+  date: '2007-06-27'
+- type: amended_by
+  target: celex:32007R1275
+  label: null
+  source: http://publications.europa.eu/resource/cellar/135dbf69-9038-4b3a-a47c-91592bcbbeb3
+  date: '2007-11-06'
+- type: amended_by
+  target: celex:32007R1428
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a63b9e17-cc64-4d51-b4a8-1d7ef36f5f8e
+  date: '2007-12-06'
+- type: amended_by
+  target: celex:32008R0021
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e103586f-27f9-4e54-9f11-df0c8f28e49a
+  date: '2008-01-14'
+- type: amended_by
+  target: celex:32008R0315
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f16a108c-6ff2-437c-866c-a7f6ef41dba6
+  date: '2008-04-08'
+- type: amended_by
+  target: celex:32008R0357
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6b0117ef-023e-4e6d-86c0-7a379c5f9ed4
+  date: '2008-04-24'
+- type: amended_by
+  target: celex:32008R0553
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f59c7d72-5239-4ac9-8c9a-6f633be603f1
+  date: '2008-06-18'
+- type: amended_by
+  target: celex:32008R0571
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cbfa6f0e-3162-467c-8553-9cd66e48cd50
+  date: '2008-06-24'
+- type: amended_by
+  target: celex:32008R0746
+  label: null
+  source: http://publications.europa.eu/resource/cellar/37999c89-50bc-4918-9f42-3c67523966f8
+  date: '2008-07-31'
+- type: amended_by
+  target: celex:32008R0956
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c1dfa1bd-c97e-4d75-9723-a6084bc7edf2
+  date: '2008-09-30'
+- type: amended_by
+  target: celex:32009R0103
+  label: null
+  source: http://publications.europa.eu/resource/cellar/763bd570-1a90-4add-96cc-c22b93f22008
+  date: '2009-02-04'
+- type: amended_by
+  target: celex:32009R0162
+  label: null
+  source: http://publications.europa.eu/resource/cellar/93f62d24-592c-4fea-8b1c-648999c7a258
+  date: '2009-02-27'
+- type: amended_by
+  target: celex:32009R0163
+  label: null
+  source: http://publications.europa.eu/resource/cellar/40769cb1-76c6-41c0-bd73-6bb896c79c09
+  date: '2009-02-27'
+- type: amended_by
+  target: celex:32009R0220
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c0a98603-8a3e-4d42-b7a2-7c2cea079f07
+  date: '2009-04-02'
+- type: amended_by
+  target: celex:32001R1248
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a2fa39b9-ab15-45c6-ba81-b39317e694f9
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32001R1326
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a314f4a7-2f82-48d0-8c28-142e79b7ad58
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32002R0270
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9a422f79-be07-4278-9347-715a4f02f2ac
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32002R1494
+  label: null
+  source: http://publications.europa.eu/resource/cellar/661cb751-297f-4bab-9caf-aaaf5b71f9fa
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32003R0260
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e3382b78-8b3a-4d81-bc47-926bead5c07b
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32003R1053
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b3dbfa87-730c-4540-b076-830b234cfc2a
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32003R1128
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f4da7b10-a4b1-47a3-9d6f-a1d8ae68e7af
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32003R1139
+  label: null
+  source: http://publications.europa.eu/resource/cellar/293f627b-a916-434e-8e9f-7954daa59685
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32003R1234
+  label: null
+  source: http://publications.europa.eu/resource/cellar/82d3bb9b-10bf-4e14-87e0-42ecbac46f68
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32003R1809
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fdd0d64f-cc06-4c5f-8a25-f07e49371ea3
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32003R1915
+  label: null
+  source: http://publications.europa.eu/resource/cellar/944ac16b-fbf2-4461-8385-dcbbac1e7547
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32003R2245
+  label: null
+  source: http://publications.europa.eu/resource/cellar/25896a19-1ced-4c4a-bc26-e059dc967226
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32004R0876
+  label: null
+  source: http://publications.europa.eu/resource/cellar/27766f6c-fabf-4cb0-b28d-0dc912216737
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32004R1471
+  label: null
+  source: http://publications.europa.eu/resource/cellar/932a0090-1eef-4e2a-b461-aa9cfa4b8264
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32004R1492
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a0f6b41b-99f8-4a8f-8131-62400a8edfd1
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32004R1993
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0b990086-8a60-468b-9bb5-9c1c02d4d47f
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32005R0036
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e11e4878-8a40-493d-aceb-013302815413
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32005R0214
+  label: null
+  source: http://publications.europa.eu/resource/cellar/54fb1377-059c-4891-9039-c7acedc1e68f
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32005R0260
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9ff8ec46-1661-449e-a5c4-811ff55dae24
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32005R0932
+  label: null
+  source: http://publications.europa.eu/resource/cellar/19213f3f-6509-4950-abfb-d64a92e88ba6
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32005R1292
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c2806ac9-381a-4438-bbb8-4e5ac1de1d99
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32005R1974
+  label: null
+  source: http://publications.europa.eu/resource/cellar/158ec06c-0a12-43c4-8ff2-dd0add1de22b
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32006R0253
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e1847e30-c2f3-434c-bc6b-c9cbdca9d7e6
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32006R0339
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ad3cc92e-c198-475a-b987-32c8e2a69d0f
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32006R0657
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b743b283-cd6a-45a4-876c-695b6d31ea5c
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32006R0688
+  label: null
+  source: http://publications.europa.eu/resource/cellar/887c63b8-8947-4216-8b53-198dd82cb1de
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32006R1041
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c5900bbb-e110-4147-a1b4-624f88dfd581
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32006R1923
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8b268639-20c5-4ef3-ac11-f63a819a508b
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32010R0956
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8382229d-9df8-4bd2-9b93-745ffa7bcef7
+  date: '2010-10-26'
+- type: amended_by
+  target: celex:32011R0189
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fb30e6a0-0214-44d9-9467-2bf394afae7a
+  date: '2011-03-01'
+- type: amended_by
+  target: celex:32012R1064
+  label: null
+  source: http://publications.europa.eu/resource/cellar/858e7535-58a9-4ae5-9f82-e73861f2c292
+  date: '2012-11-14'
+- type: amended_by
+  target: celex:32013R0056
+  label: null
+  source: http://publications.europa.eu/resource/cellar/415a7510-6620-11e2-9294-01aa75ed71a1
+  date: '2013-01-16'
+- type: amended_by
+  target: celex:32013R0517
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9b4fa6e4-84ab-40f4-817b-f74ac4149977
+  date: '2013-06-11'
+- type: amended_by
+  target: celex:32013R0630
+  label: null
+  source: http://publications.europa.eu/resource/cellar/22120f3a-e08f-11e2-9165-01aa75ed71a1
+  date: '2013-06-29'
+- type: amended_by
+  target: celex:32014R1148
+  label: null
+  source: http://publications.europa.eu/resource/cellar/804b5247-5f36-11e4-9cbe-01aa75ed71a1
+  date: '2014-10-29'
+- type: amended_by
+  target: celex:32015R0728
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6e942ea1-f485-11e4-a3bf-01aa75ed71a1
+  date: '2015-05-07'
+- type: amended_by
+  target: celex:32015R1162
+  label: null
+  source: http://publications.europa.eu/resource/cellar/090ec7dc-2b80-11e5-9f85-01aa75ed71a1
+  date: '2015-07-16'
+- type: amended_by
+  target: celex:32016R0027
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4188d98d-ba91-11e5-8d3c-01aa75ed71a1
+  date: '2016-01-14'
+- type: amended_by
+  target: celex:32016R1396
+  label: null
+  source: http://publications.europa.eu/resource/cellar/de72804b-65c4-11e6-9b08-01aa75ed71a1
+  date: '2016-08-19'
+- type: amended_by
+  target: celex:32017R0110
+  label: null
+  source: http://publications.europa.eu/resource/cellar/561b8e7f-e201-11e6-ad7c-01aa75ed71a1
+  date: '2017-01-24'
+- type: amended_by
+  target: celex:32017R0625
+  label: null
+  source: http://publications.europa.eu/resource/cellar/27d35592-1b59-11e7-aeb3-01aa75ed71a1
+  date: '2017-04-07'
+- type: amended_by
+  target: celex:32017R0736
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9e19aae6-2b11-11e7-9412-01aa75ed71a1
+  date: '2017-04-27'
+- type: amended_by
+  target: celex:32017R0893
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d07e2398-410c-11e7-a9b0-01aa75ed71a1
+  date: '2017-05-25'
+- type: amended_by
+  target: celex:32017R0894
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ab18d0f7-410d-11e7-a9b0-01aa75ed71a1
+  date: '2017-05-25'
+- type: amended_by
+  target: celex:32017R1972
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a1568b31-bdd0-11e7-a7f8-01aa75ed71a1
+  date: '2017-10-31'
+- type: amended_by
+  target: celex:32018R0221
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b3444049-12e7-11e8-9253-01aa75ed71a1
+  date: '2018-02-16'
+- type: amended_by
+  target: celex:32018R0969
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a97b986c-83c7-11e8-ac6a-01aa75ed71a1
+  date: '2018-07-10'
+- type: amended_by
+  target: celex:32019R0319
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a359d2c8-3ae7-11e9-8d04-01aa75ed71a1
+  date: '2019-02-28'
+- type: amended_by
+  target: celex:32019R1091
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3e6c91c2-98ac-11e9-b2f2-01aa75ed71a1
+  date: '2019-06-27'
+- type: amended_by
+  target: celex:32020R0772
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d83ab78b-ac71-11ea-bb7a-01aa75ed71a1
+  date: '2020-06-12'
+- type: amended_by
+  target: celex:32020R1593
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a6f16787-1a7b-11eb-b57e-01aa75ed71a1
+  date: '2020-10-30'
+- type: amended_by
+  target: celex:32021R1176
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3d60a0b4-e85c-11eb-93a8-01aa75ed71a1
+  date: '2021-07-19'
+- type: amended_by
+  target: celex:32021R1372
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3409966f-00ca-11ec-8f47-01aa75ed71a1
+  date: '2021-08-18'
+- type: amended_by
+  target: celex:32022R0175
+  label: null
+  source: http://publications.europa.eu/resource/cellar/57501e41-8a14-11ec-8c40-01aa75ed71a1
+  date: '2022-02-10'
+- type: amended_by
+  target: celex:32022R1403
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c5b73953-1dc7-11ed-8fa0-01aa75ed71a1
+  date: '2022-08-17'
+- type: amended_by
+  target: celex:32022R2246
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3fd2b2d9-6582-11ed-9f85-01aa75ed71a1
+  date: '2022-11-16'
+- type: amended_by
+  target: celex:32024R0877
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b75430d9-e7ec-11ee-9ea8-01aa75ed71a1
+  date: '2024-03-22'
+- type: amended_by
+  target: celex:32024R0887
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dfbe32bf-ea49-11ee-bf53-01aa75ed71a1
+  date: '2024-03-25'
+- type: amended_by
+  target: celex:32024R0918
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cd0aea49-eb11-11ee-bf53-01aa75ed71a1
+  date: '2024-03-26'
+- type: amended_by
+  target: celex:32025R0328
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fefd73cd-ef2b-11ef-981b-01aa75ed71a1
+  date: '2025-02-20'
+- type: based_on
+  target: celex:11997E152
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5da7efe4-7429-4995-bb57-a0876f22f41c
+  date: '1999-05-31'
+- type: based_on
+  target: celex:11997E251
+  label: null
+  source: http://publications.europa.eu/resource/cellar/77d8f3bb-cfe1-43e0-a854-f8c51b9ccda8
+  date: '1999-05-31'
+- type: cited_by
+  target: pt:dre:106647823:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:117384024:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:118010891:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:183587343:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:183839:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:188480:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1941815:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:261504:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:280501:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:357771:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3619303:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:604838:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:611688:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:66547565:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:667549:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:684611:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70095700:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:73576679:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:74385264:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:75468668:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:898378511:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31964L0432
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b4b312f4-ba77-4cc7-99cd-5fc19c85d2cd
+- type: cites
+  target: celex:31964L0433
+  label: null
+  source: http://publications.europa.eu/resource/cellar/759f2d2b-6b09-4d07-ae48-d56a16b166d6
+- type: cites
+  target: celex:31977L0099
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7c32d7ef-2983-4ed2-84c8-369af82bbef3
+- type: cites
+  target: celex:31982L0894
+  label: null
+  source: http://publications.europa.eu/resource/cellar/44f52f1b-6d0b-4083-959a-38fa9a1d3374
+- type: cites
+  target: celex:31989L0556
+  label: null
+  source: http://publications.europa.eu/resource/cellar/19758089-68ec-44a1-b9b7-440a7c6d5c03
+- type: cites
+  target: celex:31989L0662
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0c21eb0f-b405-4c20-8b0b-7e7c3bb1ee16
+- type: cites
+  target: celex:31990L0425
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ab8624bc-b6de-43f3-9a99-83fc83c8d85f
+- type: cites
+  target: celex:31990L0667
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e89bc3e2-aca9-40a1-8cee-1d06d6d368a3
+- type: cites
+  target: celex:31991L0068
+  label: null
+  source: http://publications.europa.eu/resource/cellar/974e880f-1f19-4526-8f73-a5a0c073eeed
+- type: cites
+  target: celex:31991L0496
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3ed86f37-3881-4162-8d8d-48e59de7b01e
+- type: cites
+  target: celex:31992D0562
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8d5ae0ec-5d19-44f0-86ce-838e3768f67f
+- type: cites
+  target: celex:31992L0046
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8cec900b-5284-4d1e-a83d-9fe4bd13bcba
+- type: cites
+  target: celex:31992L0118
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b24e7cad-c821-4121-98da-f5d3479aea3d
+- type: cites
+  target: celex:31994L0065
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5a1988e1-9646-4e5a-bfa1-73c96dea5d93
+- type: cites
+  target: celex:31996R0716
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1edb9c7c-07a2-4642-9283-a172ed917cca
+- type: cites
+  target: celex:31997D0735
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fd9f58df-2647-47f5-836a-402c94f71cbe
+- type: cites
+  target: celex:31997L0078
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6f200bc0-0895-477c-a87a-b43a23328596
+- type: cites
+  target: celex:31999D0468
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f9830283-df4c-4576-b043-875dce0385ce
+- type: cites
+  target: celex:31999D0534
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8957a7a5-6a77-4e55-8b42-e37fe12faea8
+- type: cites
+  target: celex:31999L0031
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ec0a6777-382e-4614-900a-ea7011fb5c4f
+- type: cites
+  target: celex:32000R1760
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c0b254d3-1a9a-46ac-af2b-4243ea07d5ec
+- type: corrected_by
+  target: celex:32001R0999R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fdd32768-0df6-4fad-ad7c-04087ee9f34e
+  date: '1002-02-02'
+- type: corrected_by
+  target: celex:32001R0999R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/374d131a-078d-11e6-b713-01aa75ed71a1
+  date: '2016-04-21'
+- type: corrected_by
+  target: celex:32001R0999R(03)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e49f83a0-e101-11ee-8b2b-01aa75ed71a1
+  date: '2024-03-13'
+- type: interpreted_by
+  target: celex:62008CJ0562
+  label: null
+  source: http://publications.europa.eu/resource/cellar/030bcf90-6685-467c-a690-d91054448265
+  date: '2010-03-07'
+- type: interpreted_by
+  target: celex:62008CA0562
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5dc8a29b-5294-4847-b010-14b5783c0b35
+  date: '2010-04-20'
+article_structure:
+  article_count: 27
+  section_count: 116
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:36:22Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento (CE) n.° 999/2001 do Parlamento Europeu e do Conselho, de 22 de Maio de 2001
+
+> 02001R0999 — PT — 12.03.2025 — 062.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterado por:**
+
+- [M1](http://publications.europa.eu/resource/celex/32001R1248) — [REGULAMENTO (CE) N.º 1248/2001 DA COMISSÃO de 22 de Junho de 2001](http://publications.europa.eu/resource/celex/32001R1248) — L 173 — 12 — 27.6.2001
+- [M2](http://publications.europa.eu/resource/celex/32001R1326) — [REGULAMENTO (CE) N.º 1326/2001 DA COMISSÃO de 29 de Junho de 2001](http://publications.europa.eu/resource/celex/32001R1326) — L 177 — 60 — 30.6.2001
+- [M3](http://publications.europa.eu/resource/celex/32002R0270) — [REGULAMENTO (CE) N.º 270/2002 DA COMISSÃO de 14 de Fevereiro de 2002](http://publications.europa.eu/resource/celex/32002R0270) — L 45 — 4 — 15.2.2002
+- [M4](http://publications.europa.eu/resource/celex/32002R1494) — [REGULAMENTO (CE) N.º 1494/2002 DA COMISSÃO de 21 de Agosto de 2002](http://publications.europa.eu/resource/celex/32002R1494) — L 225 — 3 — 22.8.2002
+- [M5](http://publications.europa.eu/resource/celex/32003R0260) — [REGULAMENTO (CE) N.º 260/2003 DA COMISSÃO de 12 de Fevereiro de 2003](http://publications.europa.eu/resource/celex/32003R0260) — L 37 — 7 — 13.2.2003
+- [M6](http://publications.europa.eu/resource/celex/32003R0650) — [REGULAMENTO (CE) N.º 650/2003 DA COMISSÃO de 10 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0650) — L 95 — 15 — 11.4.2003
+- [M7](http://publications.europa.eu/resource/celex/32003R1053) — [REGULAMENTO (CE) N.º 1053/2003 DA COMISSÃO de 19 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1053) — L 152 — 8 — 20.6.2003
+- [M8](http://publications.europa.eu/resource/celex/32003R1128) — [REGULAMENTO (CE) N.º 1128/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1128) — L 160 — 1 — 28.6.2003
+- [M9](http://publications.europa.eu/resource/celex/32003R1139) — [REGULAMENTO (CE) N.º 1139/2003 DA COMISSÃO de 27 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1139) — L 160 — 22 — 28.6.2003
+- [►M10](http://publications.europa.eu/resource/celex/32003R1234) — [REGULAMENTO (CE) N.º 1234/2003 DA COMISSÃO de 10 de Julho de 2003](http://publications.europa.eu/resource/celex/32003R1234) — L 173 — 6 — 11.7.2003
+- [M11](http://publications.europa.eu/resource/celex/32003R1809) — [REGULAMENTO (CE) N.º 1809/2003 DA COMISSÃO de 15 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R1809) — L 265 — 10 — 16.10.2003
+- [M12](http://publications.europa.eu/resource/celex/32003R1915) — [REGULAMENTO (CE) N.º 1915/2003 DA COMISSÃO de 30 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R1915) — L 283 — 29 — 31.10.2003
+- [►M13](http://publications.europa.eu/resource/celex/32003R2245) — [REGULAMENTO (CE) N.º 2245/2003 DA COMISSÃO de 19 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32003R2245) — L 333 — 28 — 20.12.2003
+- [M14](http://publications.europa.eu/resource/celex/32004R0876) — [REGULAMENTO (CE) N.º 876/2004 DA COMISSÃO de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0876) — L 162 — 52 — 30.4.2004
+- [M15](http://publications.europa.eu/resource/celex/32004R1471) — [REGULAMENTO (CE) N.º 1471/2004 DA COMISSÃO de 18 de Agosto de 2004](http://publications.europa.eu/resource/celex/32004R1471) — L 271 — 24 — 19.8.2004
+- [M16](http://publications.europa.eu/resource/celex/32004R1492) — [REGULAMENTO (CE) N.º 1492/2004 DA COMISSÃO de 23 de Agosto de 2004](http://publications.europa.eu/resource/celex/32004R1492) — L 274 — 3 — 24.8.2004
+- [M17](http://publications.europa.eu/resource/celex/32004R1993) — [REGULAMENTO (CE) N.º 1993/2004 DA COMISSÃO de 19 de Novembro de 2004](http://publications.europa.eu/resource/celex/32004R1993) — L 344 — 12 — 20.11.2004
+- [M18](http://publications.europa.eu/resource/celex/32005R0036) — [REGULAMENTO (CE) N.º 36/2005 DA COMISSÃO de 12 de Janeiro de 2005](http://publications.europa.eu/resource/celex/32005R0036) — L 10 — 9 — 13.1.2005
+- [M19](http://publications.europa.eu/resource/celex/32005R0214) — [REGULAMENTO (CE) N.º 214/2005 DA COMISSÃO de 9 de Fevereiro de 2005](http://publications.europa.eu/resource/celex/32005R0214) — L 37 — 9 — 10.2.2005
+- [M20](http://publications.europa.eu/resource/celex/32005R0260) — [REGULAMENTO (CE) N.º 260/2005 DA COMISSÃO de 16 de Fevereiro de 2005](http://publications.europa.eu/resource/celex/32005R0260) — L 46 — 31 — 17.2.2005
+- [►M21](http://publications.europa.eu/resource/celex/32005R0932) — [REGULAMENTO (CE) N.º 932/2005 do Parlamento Europeu e do Conselho de 8 de Junho de 2005](http://publications.europa.eu/resource/celex/32005R0932) — L 163 — 1 — 23.6.2005
+- [M22](http://publications.europa.eu/resource/celex/32005R1292) — [REGULAMENTO (CE) N.º 1292/2005 DA COMISSÃO de 5 de Agosto de 2005](http://publications.europa.eu/resource/celex/32005R1292) — L 205 — 3 — 6.8.2005
+- [M23](http://publications.europa.eu/resource/celex/32005R1974) — [REGULAMENTO (CE) N.º 1974/2005 DA COMISSÃO de 2 de Dezembro de 2005](http://publications.europa.eu/resource/celex/32005R1974) — L 317 — 4 — 3.12.2005
+- [M24](http://publications.europa.eu/resource/celex/32006R0253) — [REGULAMENTO (CE) N.º 253/2006 DA COMISSÃO de 14 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006R0253) — L 44 — 9 — 15.2.2006
+- [M25](http://publications.europa.eu/resource/celex/32006R0339) — [REGULAMENTO (CE) N.º 339/2006 DA COMISSÃO de 24 de Fevereiro de 2006](http://publications.europa.eu/resource/celex/32006R0339) — L 55 — 5 — 25.2.2006
+- [►M26](http://publications.europa.eu/resource/celex/32006R0657) — [REGULAMENTO (CE) N.º 657/2006 DA COMISSÃO de 10 de Abril de 2006](http://publications.europa.eu/resource/celex/32006R0657) — L 116 — 9 — 29.4.2006
+- [M27](http://publications.europa.eu/resource/celex/32006R0688) — [REGULAMENTO (CE) N.º 688/2006 DA COMISSÃO de 4 de Maio de 2006](http://publications.europa.eu/resource/celex/32006R0688) — L 120 — 10 — 5.5.2006
+- [M28](http://publications.europa.eu/resource/celex/32006R1041) — [REGULAMENTO (CE) N.º 1041/2006 DA COMISSÃO de 7 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1041) — L 187 — 10 — 8.7.2006
+- [M29](http://publications.europa.eu/resource/celex/32006R1791) — [REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1791) — L 363 — 1 — 20.12.2006
+- [►M30](http://publications.europa.eu/resource/celex/32006R1923) — [REGULAMENTO (CE) N.º 1923/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1923) — L 404 — 1 — 30.12.2006
+- [►M31](http://publications.europa.eu/resource/celex/32007R0722) — [REGULAMENTO (CE) N.º 722/2007 DA COMISSÃO de 25 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0722) — L 164 — 7 — 26.6.2007
+- [►M32](http://publications.europa.eu/resource/celex/32007R0727) — [REGULAMENTO (CE) N.º 727/2007 DA COMISSÃO de 26 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0727) — L 165 — 8 — 27.6.2007
+- [M33](http://publications.europa.eu/resource/celex/32007R1275) — [REGULAMENTO (CE) N.º 1275/2007 DA COMISSÃO de 29 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1275) — L 284 — 8 — 30.10.2007
+- [M34](http://publications.europa.eu/resource/celex/32007R1428) — [REGULAMENTO (CE) N.º 1428/2007 DA COMISSÃO de 4 de Dezembro de 2007](http://publications.europa.eu/resource/celex/32007R1428) — L 317 — 61 — 5.12.2007
+- [M35](http://publications.europa.eu/resource/celex/32008R0021) — [REGULAMENTO (CE) N.º 21/2008 DA COMISSÃO de 11 de Janeiro de 2008](http://publications.europa.eu/resource/celex/32008R0021) — L 9 — 3 — 12.1.2008
+- [M36](http://publications.europa.eu/resource/celex/32008R0315) — [REGULAMENTO (CE) N.º 315/2008 DA COMISSÃO de 4 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0315) — L 94 — 3 — 5.4.2008
+- [►M37](http://publications.europa.eu/resource/celex/32008R0357) — [REGULAMENTO (CE) N.º 357/2008 DA COMISSÃO de 22 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0357) — L 111 — 3 — 23.4.2008
+- [►M38](http://publications.europa.eu/resource/celex/32008R0571) — [REGULAMENTO (CE) N.º 571/2008 DA COMISSÃO de 19 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0571) — L 161 — 4 — 20.6.2008
+- [M39](http://publications.europa.eu/resource/celex/32008R0746) — [REGULAMENTO (CE) N.º 746/2008 DA COMISSÃO de 17 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0746) — L 202 — 11 — 31.7.2008
+- [M40](http://publications.europa.eu/resource/celex/32008R0956) — [REGULAMENTO (CE) N.º 956/2008 DA COMISSÃO de 29 de Setembro de 2008](http://publications.europa.eu/resource/celex/32008R0956) — L 260 — 8 — 30.9.2008
+- [M41](http://publications.europa.eu/resource/celex/32009R0103) — [REGULAMENTO (CE) N.º 103/2009 DA COMISSÃO de 3 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0103) — L 34 — 11 — 4.2.2009
+- [M42](http://publications.europa.eu/resource/celex/32009R0162) — [REGULAMENTO (CE) N.º 162/2009 DA COMISSÃO de 26 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0162) — L 55 — 11 — 27.2.2009
+- [M43](http://publications.europa.eu/resource/celex/32009R0163) — [REGULAMENTO (CE) N.º 163/2009 DA COMISSÃO de 26 de Fevereiro de 2009](http://publications.europa.eu/resource/celex/32009R0163) — L 55 — 17 — 27.2.2009
+- [►M44](http://publications.europa.eu/resource/celex/32009R0220) — [REGULAMENTO (CE) N.º 220/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0220) — L 87 — 155 — 31.3.2009
+- [M45](http://publications.europa.eu/resource/celex/32010R0956) — [REGULAMENTO (UE) N.º 956/2010 DA COMISSÃO de 22 de Outubro de 2010](http://publications.europa.eu/resource/celex/32010R0956) — L 279 — 10 — 23.10.2010
+- [M46](http://publications.europa.eu/resource/celex/32011R0189) — [REGULAMENTO (UE) N.º 189/2011 DA COMISSÃO de 25 de Fevereiro de 2011](http://publications.europa.eu/resource/celex/32011R0189) — L 53 — 56 — 26.2.2011
+- [M47](http://publications.europa.eu/resource/celex/32012R1064) — [REGULAMENTO (UE) N.º 1064/2012 DA COMISSÃO de 13 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1064) — L 314 — 13 — 14.11.2012
+- [►M48](http://publications.europa.eu/resource/celex/32013R0056) — [REGULAMENTO (UE) N.º 56/2013 DA COMISSÃO de 16 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0056) — L 21 — 3 — 24.1.2013
+- [M49](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
+- [►M50](http://publications.europa.eu/resource/celex/32013R0630) — [REGULAMENTO (UE) N.º 630/2013 DA COMISSÃO de 28 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0630) — L 179 — 60 — 29.6.2013
+- [►M51](http://publications.europa.eu/resource/celex/32014R1148) — [REGULAMENTO (UE) N.º 1148/2014 DA COMISSÃO de 28 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1148) — L 308 — 66 — 29.10.2014
+- [►M52](http://publications.europa.eu/resource/celex/32015R0728) — [REGULAMENTO (UE) 2015/728 DA COMISSÃO de 6 de maio de 2015](http://publications.europa.eu/resource/celex/32015R0728) — L 116 — 1 — 7.5.2015
+- [►M53](http://publications.europa.eu/resource/celex/32015R1162) — [REGULAMENTO (UE) 2015/1162 DA COMISSÃO de 15 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1162) — L 188 — 3 — 16.7.2015
+- [►M54](http://publications.europa.eu/resource/celex/32016R0027) — [REGULAMENTO (UE) 2016/27 DA COMISSÃO de 13 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0027) — L 9 — 4 — 14.1.2016
+- [►M55](http://publications.europa.eu/resource/celex/32016R1396) — [REGULAMENTO (UE) 2016/1396 DA COMISSÃO de 18 de agosto de 2016](http://publications.europa.eu/resource/celex/32016R1396) — L 225 — 76 — 19.8.2016
+- [►M56](http://publications.europa.eu/resource/celex/32017R0110) — [REGULAMENTO (UE) 2017/110 DA COMISSÃO de 23 de janeiro de 2017](http://publications.europa.eu/resource/celex/32017R0110) — L 18 — 42 — 24.1.2017
+- [►M57](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
+- [►M58](http://publications.europa.eu/resource/celex/32017R0736) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/736 DA COMISSÃO de 26 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0736) — L 110 — 2 — 27.4.2017
+- [►M59](http://publications.europa.eu/resource/celex/32017R0893) — [REGULAMENTO (UE) 2017/893 DA COMISSÃO de 24 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0893) — L 138 — 92 — 25.5.2017
+- [►M60](http://publications.europa.eu/resource/celex/32017R0894) — [REGULAMENTO (UE) 2017/894 DA COMISSÃO de 24 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0894) — L 138 — 117 — 25.5.2017
+- [►M61](http://publications.europa.eu/resource/celex/32017R1972) — [REGULAMENTO (UE) 2017/1972 DA COMISSÃO de 30 de outubro de 2017](http://publications.europa.eu/resource/celex/32017R1972) — L 281 — 14 — 31.10.2017
+- [M62](http://publications.europa.eu/resource/celex/32018R0221) — [REGULAMENTO (UE) 2018/221 DA COMISSÃO de 15 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018R0221) — L 43 — 6 — 16.2.2018
+- [M63](http://publications.europa.eu/resource/celex/32018R0969) — [REGULAMENTO (UE) 2018/969 DA COMISSÃO de 9 de julho de 2018](http://publications.europa.eu/resource/celex/32018R0969) — L 174 — 12 — 10.7.2018
+- [►M64](http://publications.europa.eu/resource/celex/32019R0319) — [REGULAMENTO (UE) 2019/319 DA COMISSÃO de 6 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0319) — L 61 — 1 — 28.2.2019
+- [►M65](http://publications.europa.eu/resource/celex/32019R1091) — [REGULAMENTO (UE) 2019/1091 DA COMISSÃO de 26 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1091) — L 173 — 42 — 27.6.2019
+- [►M66](http://publications.europa.eu/resource/celex/32020R0772) — [REGULAMENTO (UE) 2020/772 DA COMISSÃO de 11 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0772) — L 184 — 43 — 12.6.2020
+- [►M67](http://publications.europa.eu/resource/celex/32020R1593) — [REGULAMENTO (UE) 2020/1593 DA COMISSÃO de 29 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1593) — L 360 — 13 — 30.10.2020
+- [►M68](http://publications.europa.eu/resource/celex/32021R1176) — [REGULAMENTO (UE) 2021/1176 DA COMISSÃO de 16 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1176) — L 256 — 56 — 19.7.2021
+- [►M69](http://publications.europa.eu/resource/celex/32021R1372) — [REGULAMENTO (UE) 2021/1372 DA COMISSÃO de 17 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R1372) — L 295 — 1 — 18.8.2021
+- [►M70](http://publications.europa.eu/resource/celex/32022R0175) — [REGULAMENTO (UE) 2022/175 DA COMISSÃO de 9 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0175) — L 29 — 1 — 10.2.2022
+- [M71](http://publications.europa.eu/resource/celex/32022R1403) — [REGULAMENTO (UE) 2022/1403 DA COMISSÃO de 16 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R1403) — L 214 — 1 — 17.8.2022
+- [►M72](http://publications.europa.eu/resource/celex/32022R2246) — [REGULAMENTO (UE) 2022/2246 DA COMISSÃO de 15 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2246) — L 295 — 1 — 16.11.2022
+- [M73](http://publications.europa.eu/resource/celex/32024R0877) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/877 DA COMISSÃO de 21 de março de 2024](http://publications.europa.eu/resource/celex/32024R0877) — L 877 — 1 — 22.3.2024
+- [►M74](http://publications.europa.eu/resource/celex/32024R0887) — [REGULAMENTO (UE) 2024/887 DA COMISSÃO de 22 de março de 2024](http://publications.europa.eu/resource/celex/32024R0887) — L 887 — 1 — 25.3.2024
+- [►M75](http://publications.europa.eu/resource/celex/32024R0918) — [REGULAMENTO (UE) 2024/918 DA COMISSÃO de 25 de março de 2024](http://publications.europa.eu/resource/celex/32024R0918) — L 918 — 1 — 26.3.2024
+- [►M76](http://publications.europa.eu/resource/celex/32025R0328) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/328 DA COMISSÃO de 19 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0328) — L 328 — 1 — 20.2.2025
+
+**Alterado por:**
+
+- [A1](http://publications.europa.eu/resource/celex/12003T%2FACT) — [ACTO relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia](http://publications.europa.eu/resource/celex/12003T%2FACT) — L 236 — 33 — 23.9.2003
+
+**Retificado por:**
+
+- [C1](http://publications.europa.eu/resource/celex/32003R1234R%2803%29) — [Rectificação, JO L 323, 10.12.2003, p. 14 (1234/2003)](http://publications.europa.eu/resource/celex/32003R1234R%2803%29)
+- [►C2](http://publications.europa.eu/resource/celex/32013R0630R%2803%29) — [Rectificação, JO L 094, 3.4.2019, p. 3 (n.o 630/2013)](http://publications.europa.eu/resource/celex/32013R0630R%2803%29)
+- [►C3](http://publications.europa.eu/resource/celex/32021R1372R%2801%29) — [Rectificação, JO L 398, 11.11.2021, p. 51 (2021/1372)](http://publications.europa.eu/resource/celex/32021R1372R%2801%29)
+
+## REGULAMENTO (CE) N.º 999/2001 DO PARLAMENTO EUROPEU E DO CONSELHO
+
+de 22 de Maio de 2001
+
+que estabelece regras para a prevenção, o controlo e a erradicação de determinadas encefalopatias espongiformes transmissíveis
+
+## CAPÍTULO I
+
+### DISPOSIÇÕES DE CARÁCTER GERAL
+
+###### Artigo 1.º — Âmbito
+
+1. O presente regulamento estabelece as regras para a prevenção, o controlo e a erradicação das encefalopatias espongiformes transmissíveis (EET) nos animais e é aplicável à produção e introdução no mercado de animais vivos e de produtos de origem animal e, em certos casos específicos, à sua exportação.
+
+2.
+
+O presente regulamento não é aplicável a:
+
+a) Cosméticos, produtos farmacêuticos, dispositivos médicos e respectivos produtos de base e intermédios;
+
+b) Produtos, e respectivos produtos de base e intermédios, não destinados a serem utilizados na alimentação humana ou animal ou em fertilizantes;
+
+c) Produtos de origem animal destinados a exibição em público ou ao ensino, à investigação, a estudos especiais ou a análises, desde que esses produtos não se destinem ao consumo humano, ou a ser utilizados por seres humanos, nem ao consumo de animais que não estejam integrados no projecto de investigação em questão;
+
+d) Animais vivos utilizados na investigação ou a ela destinados.
+
+###### Artigo 2.º — Separação de animais vivos e de produtos de origem animal
+
+Para evitar a contaminação cruzada ou a substituição dos animais vivos ou dos produtos de origem animal referidos no n.º 1 do artigo 1.º pelos produtos referidos no n.º 2, alíneas a), b) e c) do artigo 1.º, ou pelos animais vivos referidos no n.º 2, alínea d), do artigo 1.º, os produtos e animais vivos devem estar sempre separados, a não ser que esses animais vivos ou produtos de origem animal sejam produzidos observando pelo menos as mesmas condições de protecção da saúde no que respeita às EET.
+
+As regras de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 24.º
+
+###### Artigo 3.º — Definições
+
+1.
+
+Na acepção do presente regulamento, entende-se por:
+
+a) EET: todas as encefalopatias espongiformes transmissíveis, com excepção das que afectem o ser humano;
+
+b) Introdução no mercado: qualquer operação cujo objectivo seja fornecer a terceiros, na Comunidade, animais vivos ou produtos de origem animal abrangidos pelo presente regulamento para efeitos de venda ou de qualquer outra forma de transferência para terceiros, a título gratuito ou oneroso, ou de armazenagem com vista ao fornecimento a terceiros;
+
+c) Produtos de origem animal: qualquer produto derivado de um produto que por sua vez derive de um animal abrangido pelo disposto nas Directivas 89/662/CEE ([^1^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0001)) ou 90/425/CEE ([^2^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0002)), ou que contenha tal produto derivado;
+
+d) Produtos de base: matérias-primas e quaisquer outros produtos de origem animal a partir dos quais, ou através dos quais, são produzidos os produtos referidos no n.º 2, alíneas a) e b), do artigo 1.º;
+
+e) Autoridade competente: a autoridade central de um Estado-Membro encarregada de assegurar a observância do presente regulamento, ou qualquer autoridade em quem aquela tenha delegado essa competência, nomeadamente no que se refere ao controlo dos alimentos para animais; inclui, se disso for caso, a autoridade correspondente de um país terceiro;
+
+f) Categoria: uma das categorias de classificação constantes do anexo II, capítulo C;
+
+g) Matérias de risco especificadas: os tecidos especificados no anexo V; salvo indicação em contrário, não estão incluídos na definição os produtos que contenham ou que sejam derivados desses tecidos;
+
+h) Animal suspeito de infecção por EET: os animais vivos, abatidos ou mortos que manifestem ou tenham manifestado perturbações neurológicas ou comportamentais ou uma deterioração progressiva do seu estado geral associada a uma doença do sistema nervoso central e em relação aos quais as informações recolhidas com base num exame clínico, na resposta ao tratamento, no exame *post mortem* ou nos resultados de análises laboratoriais *ante* ou *post mortem* não permitam fazer outro diagnóstico. São igualmente suspeitos de infecção por encefalopatia espongiforme bovina (EEB) os bovinos que apresentem resultados positivos num teste rápido específico da EEB;
+
+i) Exploração: qualquer local em que os animais abrangidos pelo presente regulamento sejam alojados, mantidos, criados, tratados, ou exibidos em público;
+
+j) Amostragem: a colheita de amostras, garantindo uma representação estatística correcta, de animais ou do seu ambiente ou de produtos de origem animal, para efeitos de formulação de um diagnóstico da doença, de determinação do parentesco, de vigilância da saúde ou de controlo da ausência de agentes microbianos ou de determinadas matérias em produtos de origem animal;
+
+k) Fertilizantes: substâncias que contenham produtos de origem animal, aplicadas nos solos para favorecer o crescimento da vegetação, incluindo eventualmente resíduos digestivos provenientes de instalações de produção de bio-gás ou de compostagem;
+
+l) Testes rápidos: os métodos de despistagem enumerados no Anexo X, cujos resultados sejam conhecidos no prazo de 24 horas;
+
+m) Testes alternativos: os testes referidos no n.º 2 do artigo 8.º, utilizados em substituição da retirada das matérias de risco especificadas;
+
+n) Carne separada mecanicamente ou «CSM»: o produto obtido através da remoção da carne dos ossos carnudos depois da desmancha, utilizando meios mecânicos que provoquem a perda ou a alteração da estrutura das fibras musculares;
+
+o) Vigilância passiva: a comunicação de todos os casos de animais suspeitos de estarem infectados com EET e, caso a EET não possa ser excluída por meio de investigação clínica, a realização de testes laboratoriais a todos esses animais;
+
+p) Vigilância activa: a realização de testes a animais não referidos como suspeitos de estarem infectados com EET, tais como animais abatidos por motivo de emergência, animais aos quais tenham sido feitas observações aquando de inspecções *ante mortem*, animais encontrados mortos, animais saudáveis abatidos e animais abatidos no contexto de um caso de EEB, em particular para determinar a evolução e prevalência de EET num país ou numa região de um país.
+
+2. As definições específicas previstas no anexo I são igualmente aplicáveis.
+
+3. Quando os termos do presente regulamento não se encontrem definidos no n.º 1 ou no anexo I, são aplicáveis, na medida em que sejam referidas no presente texto, as definições do Regulamento (CE) n.º 1760/2000 ([^3^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0003)) e das Directivas 64/432/CEE ([^4^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0004)), 89/662/CEE, 90/425/CEE e 91/68/CEE ([^5^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0005)) ou elaboradas nos termos destas.
+
+###### Artigo 4.º — Medidas de salvaguarda
+
+1. Em relação à execução das medidas de salvaguarda, são aplicáveis os princípios e disposições dos artigos 9.º da Directiva 89/662/CEE, 10.º da Directiva 90/425/CEE, 18.º da Directiva 91/496/CEE ([^6^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0006)) e 22.º da Directiva 97/78/CE ([^7^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0007)).
+
+2. As medidas de salvaguarda são aprovadas nos termos do n.º 2 do artigo 24.º e simultaneamente comunicadas ao Parlamento Europeu, com a respectiva justificação.
+
+## CAPÍTULO II
+
+### DETERMINAÇÃO DO ESTATUTO EM MATÉRIA DE EEB
+
+###### Artigo 5.º — Classificação
+
+1.
+
+O estatuto dos Estados-Membros ou países terceiros ou das respectivas regiões (adiante designados «países ou regiões») em matéria de EEB é determinado em função da sua classificação numa das três categorias seguintes:
+
+— risco negligenciável de EEB, tal como definido no Anexo II,
+
+— risco controlado de EEB, tal como definido no Anexo II,
+
+— risco indeterminado de EEB, tal como definido no Anexo II.
+
+O estatuto dos países ou regiões em matéria de EEB só pode ser determinado com base nos critérios definidos no Capítulo A do Anexo II. Esses critérios incluem os resultados de uma análise de risco que identifique todos os factores potenciais de emergência de EEB, previstos no Capítulo B do Anexo II, e a respectiva evolução no tempo, bem como medidas gerais de vigilância activa e passiva, tendo em conta a categoria de risco do país ou região em causa.
+
+Os Estados-Membros e os países terceiros que pretendam ser mantidos nas listas de países terceiros aprovados para a exportação para a Comunidade de animais vivos ou dos produtos abrangidos pelo presente regulamento, devem apresentar à Comissão um pedido de determinação do seu estatuto em matéria de EEB, acompanhado das informações pertinentes relativas aos critérios mencionados no Capítulo A do Anexo II, bem como aos potenciais factores de risco previstos no Capítulo B do Anexo II e à respectiva evolução no tempo.
+
+2. Será adoptada uma decisão de deliberação sobre cada um dos pedidos, a fim de classificar o Estado-Membro ou o país terceiro que o tenha apresentado numa das categorias previstas no anexo II, capítulo C, tomando em consideração os critérios e potenciais factores de risco referidos no segundo parágrafo do n.º 1, nos termos do n.º 2 do artigo 24.º
+
+A referida decisão será adoptada no prazo de seis meses a contar da data de apresentação do pedido e das informações pertinentes referidas no segundo parágrafo. Se a Comissão considerar que os elementos de prova não incluem as informações previstas no anexo II, capítulos A e B, solicitará informações complementares num prazo a determinar. A decisão final será então tomada no prazo de seis meses a contar da data de apresentação das informações completas.
+
+Depois de o Instituto Internacional das Epizootias (OIE) ter estabelecido um procedimento para a classificação dos países por categorias, e quando tenha colocado o país requerente numa dessas categorias, pode ser eventualmente decidida, nos termos do n.º 2 do artigo 24.º, uma reavaliação da classificação comunitária, feita nos termos do primeiro parágrafo do presente número em relação ao país em questão.
+
+3. Se a Comissão verificar que as informações transmitidas por um Estado-Membro ou por um país terceiro nos termos do anexo II, capítulos A e B, são insuficientes ou pouco claras, pode determinar, nos termos do n.º 2 do artigo 24.º, o estatuto em matéria de EEB do Estado-Membro ou do país terceiro em questão à luz de uma análise completa dos riscos.
+
+Essa análise de risco incluirá um levantamento estatístico conclusivo da situação epidemiológica em matéria de EET no Estado-Membro ou no país terceiro requerente, recorrendo, através de um processo de despistagem, a testes rápidos. A Comissão terá em conta os critérios de classificação aceites pelo OIE.
+
+Os testes rápidos são aprovados para o efeito pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 24.º e inscritos numa lista estabelecida no anexo X, capítulo C, ponto 4.
+
+Este processo de despistagem pode igualmente ser utilizado pelos Estados-Membros ou pelos países terceiros que, nos termos do n.º 2 do artigo 24.º, desejem fazer aprovar pela Comissão a classificação a que procederam nesta base.
+
+Os custos dessas análises correm por conta do Estado-Membro ou do país terceiro interessado.
+
+4. Os Estados-Membros e os países terceiros que não tenham apresentado um pedido nos termos do terceiro parágrafo do n.º 1 devem satisfazer, no que diz respeito à expedição de animais vivos e produtos de origem animal a partir do seu território, os requisitos de importação aplicáveis a países com um risco indeterminado de EET, até apresentarem esse pedido e ter sido tomada uma decisão definitiva sobre o seu estatuto em matéria de EEB.
+
+5. Os Estados-Membros notificarão, sem demora, a Comissão de qualquer prova de natureza epidemiológica ou de outra informação que possa conduzir a uma alteração do seu estatuto em matéria de EEB, nomeadamente os resultados dos programas de vigilância previstos no artigo 6.º
+
+6. Nos termos do n.º 2 do artigo 24.º, a manutenção de um país terceiro numa das listas previstas nos regulamentos comunitários para efeitos de autorização de exportação, para a Comunidade Europeia, de animais vivos e produtos de origem animal para os quais o presente regulamento prevê regras específicas depende, em função das informações disponíveis ou em caso de presunção de existência de EET, da prestação das informações previstas no n.º 1. Em caso de recusa de prestação dessas informações no prazo de três meses a contar da data de apresentação do pedido pela Comissão, é aplicável o disposto no n.º 4 do presente artigo enquanto essas informações não tiverem sido prestadas nem avaliadas nos termos dos n.^os^ 2 ou 3.
+
+A elegibilidade de países terceiros para exportar para a Comunidade animais vivos ou produtos de origem animal para os quais o presente regulamento prevê regras específicas, nas condições estabelecidas para a sua categoria definida pela Comissão, depende do seu compromisso de notificar esta última, por escrito e sem demora, de qualquer prova de natureza epidemiológica ou outra que possa conduzir a uma alteração do seu estatuto em matéria de EEB.
+
+7. Pode ser adoptada uma decisão, nos termos do n.º 2 do artigo 24.º, a fim de alterar a classificação de um Estado-Membro ou país terceiro, ou de uma das suas regiões, em matéria de EEB, em função dos resultados dos controlos previstos no artigo 21.º
+
+8. As decisões referidas nos n.^os^ 2, 3, 4, 6 e 7 fundamentam-se numa avaliação do risco, tendo em conta os critérios enumerados no anexo II, capítulos A e B.
+
+## CAPÍTULO III
+
+### PREVENÇÃO DAS EET
+
+###### Artigo 6.º — Sistema de vigilância
+
+1. Cada Estado Membro deve criar um programa anual de vigilância da EEB baseado na vigilância activa e passiva, nos termos do Anexo III. Se estiver disponível para as espécies animais, o programa deve incluir um processo de despistagem mediante a utilização de testes rápidos.
+
+Os testes rápidos são para esse efeito aprovados nos termos do n.º 3 do artigo 24.º e enumerados no Anexo X.
+
+1-A.
+
+O programa anual de vigilância referido no n.º 1 abrange, no mínimo, as seguintes subpopulações:
+
+a) Todos os bovinos com mais de 24 meses de idade enviados para abate de emergência ou com sintomas de doença aquando de inspecções *ante mortem*;
+
+b) Todos os bovinos com mais de 30 meses de idade abatidos normalmente para consumo humano;
+
+c) Todos os bovinos com mais de 24 meses de idade não abatidos para consumo humano, mortos ou abatidos na exploração agrícola, durante o transporte ou num matadouro (animais encontrados mortos).
+
+Os Estados-Membros podem decidir derrogar a disposição prevista na alínea c) em zonas remotas com baixa densidade animal, onde não seja organizada qualquer recolha de animais mortos. Os Estados-Membros que façam uso desta possibilidade devem informar a Comissão e apresentar uma lista das zonas em causa, juntamente com uma justificação da derrogação. A derrogação não pode abranger mais de 10 % da população bovina de um Estado-Membro.
+
+1-B. Após consulta ao comité científico competente, a idade estabelecida nas alíneas a) e c) do n.º 1-A pode ser adaptada de acordo com o progresso científico, nos termos do n.º 3 do artigo 24.º.
+
+A pedido de um Estado-Membro capaz de demonstrar a melhoria da situação epidemiológica no seu território, de acordo com certos critérios a estabelecer nos termos do n.º 3 do artigo 24.º, os programas anuais de vigilância para esse Estado-Membro em particular podem ser revistos.
+
+O Estado-Membro em causa deve apresentar prova da sua capacidade de determinar a eficácia das medidas adoptadas e de assegurar a protecção da saúde humana e animal, com base numa análise de risco global. Em particular, o Estado-Membro deve demonstrar:
+
+a) Uma diminuição nítida ou uma prevalência de EEB invariavelmente baixa, com base em resultados actualizados de testes;
+
+b) Ter aplicado e feito respeitar durante pelo menos seis anos um regime completo de testes de EEB (legislação comunitária sobre rastreabilidade e identificação de animais vivos, e vigilância de EEB);
+
+c) Ter aplicado e feito respeitar durante pelo menos seis anos a legislação comunitária em matéria de proibição absoluta quanto à alimentação dos animais de criação.
+
+2. Cada Estado-Membro deve, no âmbito do Comité Veterinário Permanente, informar a Comissão e os restantes Estados-Membros sobre a emergência de uma EET distinta da EEB.
+
+3. Todos os inquéritos oficiais e análises laboratoriais devem ser registados nos termos do anexo III, capítulo B.
+
+4. Os Estados-Membros apresentam um relatório anual à Comissão, que deve incluir pelo menos as informações referidas no anexo III, capítulo B, parte I. O relatório relativo a cada ano civil é apresentado o mais tardar até 31 de Março do ano seguinte. No prazo de três meses a contar da recepção dos relatórios nacionais, a Comissão apresenta ao Comité Veterinário Permanente um resumo destes, incluindo no mínimo, as informações referidas no anexo III, capítulo B, parte II.
+
+5. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 24.º.
+
+###### Artigo 6.º-A — Programas de criação
+
+1. Os Estados-Membros podem introduzir programas de criação destinados à selecção de resistência às EET dos respectivos efectivos ovinos. Esses programas incluem um enquadramento para o reconhecimento do estatuto de resistência às EET de certos efectivos e podem ser alargados de modo a incluir outras espécies animais, com base em dados científicos que corroborem a resistência às EET de genotipos particulares dessas espécies.
+
+2. As regras específicas relativas aos programas previstos no n.º 1 do presente artigo são aprovadas nos termos do n.º 2 do artigo 24.º.
+
+3. Os Estados-Membros que introduzirem programas de criação devem apresentar relatórios periódicos à Comissão para permitir que os programas sejam avaliados cientificamente, em particular no que respeita ao seu impacto sobre a incidência das EET, mas também sobre a variabilidade e a diversidade genética e sobre a manutenção de raças ovinas antigas ou raras, ou das que se tenham adaptado bem a uma região particular. Os resultados científicos e as consequências totais dos programas de criação animal são avaliados periodicamente e, sempre que necessário, esses programas são alterados em conformidade.
+
+###### Artigo 7.º — Proibições relativas à alimentação dos animais
+
+1. É proibido alimentar ruminantes com proteínas provenientes de animais.
+
+2. A proibição referida no n.º 1 é tornada extensiva a outros animais não ruminantes e restringida, no que diz respeito à alimentação desses animais com produtos de origem animal, nos termos do Anexo IV.
+
+3. Os n.ºs 1 e 2 são aplicáveis sem prejuízo do disposto no Anexo IV que estabelece derrogações à proibição prevista nos mesmos.
+
+A Comissão pode decidir, nos termos do n.º 3 do artigo 24.º, com base numa avaliação científica das necessidades dietéticas dos ruminantes jovens e de acordo com as normas aprovadas para a aplicação do presente artigo previstas no n.º 5 do presente artigo, e na sequência de uma avaliação dos aspectos relativos ao controlo desta derrogação, autorizar a alimentação de animais jovens de espécies ruminantes com proteínas provenientes de peixe.
+
+4. Os Estados-Membros ou as regiões dos mesmos que apresentem um risco indeterminado de EEB não são autorizados a exportar ou armazenar alimentos destinados a animais de criação que contenham proteínas provenientes de mamíferos, nem alimentos destinados a mamíferos, com excepção de alimentos para cães, gatos e animais destinados à produção de peles com pêlo, que contenham proteínas animais transformadas provenientes de mamíferos.
+
+Os países terceiros ou as regiões dos mesmos que apresentem um risco indeterminado de EEB não são autorizados a exportar para a Comunidade alimentos destinados a animais de criação que contenham proteínas provenientes de mamíferos, nem alimentos destinados a mamíferos, com excepção de alimentos para cães, gatos e animais destinados à produção de peles com pêlo, que contenham proteínas animais transformadas provenientes de mamíferos.
+
+A pedido de um Estado-Membro ou de um país terceiro, pode ser tomada nos termos do n.º 2 do artigo 24.º uma decisão, na sequência da adopção nos termos do n.º 3 do artigo 24.º de critérios pormenorizados, concedendo isenções individuais às restrições estabelecidas no presente número. As isenções devem ter em conta as disposições estabelecidas no n.º 3 do presente artigo.
+
+4-A. Com base numa avaliação de risco favorável que tenha em conta, pelo menos, a quantidade e a fonte possível de contaminação e o destino final da remessa, pode ser tomada uma decisão, nos termos do n.º 3 do artigo 24.º, de introduzir um nível de tolerância para quantidades insignificantes de proteínas animais presentes em alimentos para animais, na sequência de uma contaminação acidental e tecnicamente inevitável.
+
+5. As regras de execução do presente artigo, incluindo as regras referentes à prevenção da contaminação cruzada ou a métodos de colheita e análise de amostras necessários para verificar o cumprimento do disposto no presente artigo, são aprovadas nos termos do n.º 2 do artigo 24.º. Essas regras têm por base um relatório da Comissão sobre a origem, a transformação, o controlo e a rastreabilidade dos alimentos para animais de origem animal.
+
+###### Artigo 8.º — Matérias de risco especificadas
+
+1. As matérias de risco especificadas são removidas e eliminadas nos termos do Anexo V do presente regulamento e do Regulamento (CE) n.º 1774/2002. Não podem ser importadas para a Comunidade matérias de risco especificadas. A lista das matérias de risco especificadas indicadas no Anexo V inclui, pelo menos, o cérebro, a espinal-medula, os olhos e as amígdalas de bovinos com mais de 12 meses e a coluna vertebral a partir de uma idade a determinar nos termos do n.º 3 do artigo 24.º. Tendo em conta as diferentes categorias de risco estabelecidas no primeiro parágrafo do n.º 1 do artigo 5.º e os requisitos constantes do n.º 1-A e da alínea b) do n.º 1-B do artigo 6.º, a lista das matérias de risco especificadas que consta do Anexo V é alterada em conformidade.
+
+2. O n.º 1 do presente artigo não é aplicável aos tecidos de animais em que tenha sido efectuado, com resultados negativos, um teste alternativo aprovado para esse fim específico nos termos do n.º 3 do artigo 24.º e inscrito na lista constante do Anexo X, aplicado nas condições previstas no Anexo V e cujos resultados sejam negativos.
+
+Os Estados-Membros que autorizarem a utilização de um teste alternativo por força do presente número devem informar os restantes Estados-Membros e a Comissão desse facto.
+
+3. Nos Estados-Membros ou nas regiões dos mesmos que apresentem um risco controlado ou indeterminado de EEB, a laceração, após atordoamento, do tecido nervoso central através de um instrumento comprido de forma cilíndrica introduzido na cavidade craniana ou através de uma injecção de gás na cavidade craniana relacionada com o atordoamento, não pode ser utilizada em bovinos, ovinos ou caprinos cuja carne se destine ao consumo humano ou animal.
+
+4. Os dados relativos à idade estabelecida no Anexo V podem ser ajustados. Esses ajustamentos têm por base os mais recentes resultados científicos comprovados respeitantes à probabilidade estatística de ocorrência de EET nas faixas etárias pertinentes da população bovina, ovina e caprina da Comunidade.
+
+5. Podem ser aprovadas, nos termos do n.º 3 do artigo 24.º, regras que prevejam isenções dos n.ºs 1 a 4 do presente artigo, relativamente à data de aplicação efectiva da proibição relativa à alimentação estabelecida no n.º 1 do artigo 7.º ou, se apropriado para países terceiros ou regiões dos mesmos que apresentem um risco controlado de EEB, relativamente à data de aplicação efectiva da proibição relativa à alimentação de ruminantes com proteínas provenientes de mamíferos, a fim de limitar as exigências de remoção e destruição de matérias de risco especificadas aos animais nascidos antes dessa data, nos países ou regiões em causa.
+
+6. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 24.º
+
+###### Artigo 9.º — Produtos de origem animal derivados de matérias provenientes de ruminantes ou que as contenham
+
+1. Os produtos de origem animal enumerados no Anexo VI são produzidos com processos de produção aprovados nos termos do n.º 3 do artigo 24.º.
+
+2. Os ossos de bovinos, ovinos e caprinos provenientes de países ou regiões que apresentem um risco controlado ou indeterminado de EEB não podem ser utilizados na produção de carne separada mecanicamente (CSM). Os Estados-Membros enviam à Comissão, antes de 1 de Julho de 2008, um relatório sobre a utilização e o método de produção de CSM no seu território. Esse relatório inclui uma declaração sobre se o Estado-Membro pretende continuar a produzir CSM.
+
+Com base nesse relatório, a Comissão apresenta uma comunicação ao Parlamento Europeu e ao Conselho sobre a necessidade e a utilização de CSM na Comunidade no futuro, incluindo a política de informação dos consumidores.
+
+3. De acordo com os critérios estabelecidos no ponto 5 do anexo V, as disposições dos n.^os^ 1 e 2 não são aplicáveis aos ruminantes em que tenha sido efectuado, com resultados negativos, um teste alternativo reconhecido pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 24.º, desde que este teste conste da lista do anexo X.
+
+4. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 24.º
+
+###### Artigo 10.º — Programas de formação
+
+1. Os Estados-Membros asseguram que o pessoal da autoridade competente, dos laboratórios de diagnóstico e dos estabelecimentos de ensino de agronomia e de veterinária, os veterinários oficiais, os veterinários em geral, o pessoal dos matadouros e os criadores e tratadores sejam treinados em matéria de despiste de sinais clínicos, de epidemiologia e, no caso do pessoal encarregado dos controlos, de interpretação de dados laboratoriais relativos às EET.
+
+2. Pode ser concedida assistência financeira comunitária destinada a uma execução efectiva dos programas de formação previstos no n.º 1. O montante dessa assistência financeira é determinado nos termos do n.º 2 do artigo 24.º
+
+## CAPÍTULO IV
+
+### CONTROLO E ERRADICAÇÃO DAS EET
+
+###### Artigo 11.º — Notificação
+
+Sem prejuízo do disposto na Directiva 82/894/CEE ([^8^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0008)), os Estados-Membros asseguram que a suspeita de infecção de qualquer animal por EET, seja imediatamente notificada às autoridades competentes.
+
+Os Estados-Membros informam regularmente os restantes Estados-Membros e a Comissão dos casos de EET notificados.
+
+A autoridade competente tomará imediatamente as medidas previstas no artigo 12.º do presente regulamento, bem como quaisquer outras medidas necessárias.
+
+###### Artigo 12.º — Medidas em relação a animais suspeitos
+
+1. Qualquer animal suspeito de infecção por EET deve ser objecto de uma restrição oficial de circulação até que sejam conhecidos os resultados de um exame clínico e epidemiológico efectuado pela autoridade competente, ou ser morto para exame laboratorial com supervisão oficial.
+
+Se se suspeitar oficialmente da existência de EET num bovino presente numa exploração de um Estado-Membro, todos os outros bovinos dessa exploração são objecto de uma restrição oficial de circulação até que sejam conhecidos os resultados do exame. Se se suspeitar oficialmente da existência de EET num ovino ou caprino presente numa exploração de um Estado-Membro, todos os outros ovinos ou caprinos dessa exploração são objecto de uma restrição oficial de circulação até que sejam conhecidos os resultados.
+
+Contudo, se houver elementos de prova que indiquem que a exploração em que o animal se encontrava quando se suspeitou da presença de EET poderá não ser a exploração em que o animal terá sido exposto à EET, a autoridade competente pode decidir que só o animal suspeito de infecção seja objecto de uma restrição oficial de circulação.
+
+Se o considerar necessário, a autoridade competente pode também decidir que outras explorações ou só a exploração de exposição sejam colocadas sob controlo oficial, consoante as informações epidemiológicas disponíveis.
+
+Nos termos do n.º 2 do artigo 24.º e em derrogação das restrições oficiais de circulação referidas no presente número, um Estado-Membro pode ser dispensado da aplicação das medidas em causa, se aplicar medidas que ofereçam garantias equivalentes baseadas numa avaliação adequada dos eventuais riscos para a saúde humana e animal.
+
+2. Se a autoridade competente entender não ser possível excluir a infecção por EET, o animal, se ainda estiver vivo, deve ser morto. O seu cérebro e todos os outros tecidos indicados pela autoridade competente serão removidos e enviados para um laboratório oficialmente aprovado, para o laboratório nacional de referência previsto no n.º 1 do artigo 19.º ou para o laboratório comunitário de referência previsto no n.º 2 do artigo 19.º, para exame através dos métodos de análise referidos no artigo 20.º
+
+3. Todas as partes do organismo do animal suspeito são mantidas sob controlo oficial até que seja feito um diagnóstico negativo ou são eliminadas em conformidade com o Regulamento (CE) n.º 1774/2002.
+
+4. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 24.º
+
+###### Artigo 13.º — Medidas subsequentes à confirmação de EET
+
+1.
+
+Quando a presença de uma EET é oficialmente confirmada, devem ser rapidamente aplicadas as seguintes medidas mínimas:
+
+a) Todas as partes do organismo do animal são eliminadas em conformidade com o Regulamento (CE) n.º 1774/2002, com excepção do material conservado para os registos nos termos do Capítulo B do Anexo III do presente regulamento;
+
+b) Deve-se efectuar um inquérito para identificar todos os animais de risco, nos termos do anexo VII, ponto 1;
+
+c) Todos os animais e produtos de origem animal referidos no ponto 2 do Anexo VII do presente regulamento que tenham sido considerados de risco no inquérito referido na alínea b) do presente número são abatidos e eliminados em conformidade com o Regulamento (CE) n.º 1774/2002.
+
+A pedido de um Estado-Membro e com base numa avaliação de risco favorável que tenha especialmente em conta as medidas de controlo nele aplicadas, pode ser tomada uma decisão nos termos do n.º 2 do artigo 24.º para permitir a utilização de bovinos, tal como referido no presente número, até ao fim da sua vida produtiva.
+
+Não obstante o disposto no presente número, os Estados-Membros podem aplicar outras medidas que proporcionem um nível de protecção equivalente com base numa avaliação de risco favorável efectuada nos termos dos artigos 24.º-A e 25.º que tenha especialmente em conta as medidas de controlo aplicadas nos Estados-Membros em causa, se essas medidas aí tiverem sido aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 24.º.
+
+2. Enquanto se aguarda a execução das medidas referidas nas alíneas b) e c) do n.º 1, a exploração em que o animal se encontrava quando se confirmou a presença de EET deve ser colocada sob controlo oficial, ficando a deslocação dos animais sensíveis às EET e dos respectivos produtos de origem animal, de e para a referida exploração sujeita à autorização da autoridade competente, por forma a assegurar a identificação e o rastreio imediatos dos animais e dos produtos de origem animal em questão.
+
+Se houver elementos de prova que indiquem que a exploração em que o animal afectado se encontrava quando foi confirmada a EET não era a exploração em que o animal foi exposto à EET, a autoridade competente pode decidir que ambas as explorações ou só a exploração em que o animal esteve exposto sejam colocadas sob controlo oficial.
+
+3. Os Estados-Membros que tiverem aplicado um regime alternativo que proporcione garantias equivalentes, tal como previsto no quinto parágrafo do n.º 1 do artigo 12.º podem, nos termos do n.º 2 do artigo 24.º e em derrogação dos requisitos das alíneas b) e c) do n.º 1, ser dispensados da obrigação de aplicar medidas oficiais de proibição de deslocação de animais, e de abate e destruição dos mesmos.
+
+4. Os proprietários são rapidamente indemnizados pela perda dos animais mortos ou dos produtos de origem animal destruídos nos termos do n.º 2 do artigo 12.º e das alíneas a) e c) do n.º 1 do presente artigo.
+
+5. Sem prejuízo do disposto na Directiva 82/894/CEE, a Comissão deve ser notificada numa base anual de qualquer confirmação da presença de uma EET distinta da EEB.
+
+6. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 24.º
+
+###### Artigo 14.º — Plano de contingência
+
+1. Os Estados-Membros elaboram, segundo os critérios gerais aplicáveis à regulamentação comunitária sobre o controlo de doenças veterinárias, directrizes que especifiquem as medidas nacionais a executar e que indiquem as competências e responsabilidades aquando da ocorrência de casos confirmados de EET.
+
+2. Sempre que necessário e para permitir uma aplicação uniforme da legislação comunitária, essas directrizes podem ser harmonizadas nos termos do n.º 2 do artigo 24.º
+
+## CAPÍTULO V
+
+### INTRODUÇÃO NO MERCADO E EXPORTAÇÃO
+
+###### Artigo 15.º — Animais vivos, respectivo sémen, embriões e óvulos
+
+1. A introdução no mercado ou, eventualmente, as exportações de bovinos, ovinos ou caprinos, bem como do respectivo sémen, embriões e óvulos, está sujeita às condições do anexo VIII ou, por ocasião da importação, às condições do anexo IX. Os animais vivos e respectivos embriões e óvulos devem ser acompanhados dos certificados sanitários adequados previstos na legislação comunitária, nos termos do artigo 17.º ou, por ocasião da importação, nos termos do artigo 18.º
+
+2. A introdução no mercado de descendentes da primeira geração, do sémen, dos embriões e dos óvulos de animais em que haja suspeita ou confirmação de EET será sujeita às condições do anexo VIII, capítulo B.
+
+3. Nos termos do n.º 3 do artigo 24.º, o disposto nos n.ºs 1 e 2 pode ser alargado a outras espécies animais.
+
+4. Podem ser aprovadas regras de execução relativamente ao presente artigo nos termos do n.º 2 do artigo 24.º.
+
+###### Artigo 16.º — Introdução no mercado de produtos de origem animal
+
+1.
+
+Os seguintes produtos de origem animal provenientes de ruminantes saudáveis não estão sujeitos a restrições em matéria de introdução no mercado ou, eventualmente, de exportação, nos termos do presente artigo e do anexo VIII, capítulos C e D, e do anexo IX, capítulos A, C, F e G:
+
+a) Produtos de origem animal abrangidos pelo artigo 15.º, nomeadamente sémen, embriões e óvulos;
+
+b) Leite e produtos à base de leite, couros e peles, e gelatina e colagénio derivados de couros e peles.
+
+2. Os produtos de origem animal importados de países terceiros que apresentem um risco controlado ou indeterminado de EEB devem provir de bovinos, ovinos e caprinos sãos que não tenham sido objecto da laceração do tecido nervoso central ou da injecção de gás na cavidade craniana referidas no n.º 3 do artigo 8.º.
+
+3.
+
+Os produtos alimentares de origem animal que contenham matérias provenientes de bovinos originários de um país ou região que apresentem um risco indeterminado de EEB não são introduzidos no mercado, excepto se provierem de animais:
+
+a) Nascidos oito anos após a data a partir da qual foi aplicada de forma efectiva a proibição de utilização de proteínas animais provenientes de mamíferos na alimentação de ruminantes; e
+
+b) Nascidos, criados e que tenham permanecido em efectivos com um historial comprovadamente isento de EEB durante pelo menos sete anos.
+
+Além disso, os produtos alimentares provenientes de ruminantes não devem ser expedidos de um Estado-Membro ou de uma região deste que apresentem um risco indeterminado de EEB para outro Estado-Membro, nem importados de um país terceiro que apresente um risco indeterminado de EEB.
+
+Essa proibição não é aplicável aos produtos de origem animal enumerados no Capítulo C do Anexo VIII e que preencham os requisitos do Capítulo C do Anexo VIII.
+
+Os referidos produtos devem ser acompanhados de um certificado sanitário emitido por um veterinário oficial, que ateste terem sido produzidos em conformidade com o presente regulamento.
+
+4. Sempre que um animal seja transportado de um país ou região para um país ou região de categoria diferente, será classificado na categoria mais elevada das categorias dos países ou regiões em que tiver estado mais de vinte e quatro horas, a menos que possam ser dadas garantias adequadas de que o animal não recebeu alimentos desse país ou região classificada na mais elevada das categorias.
+
+5. Os produtos de origem animal em relação aos quais o presente artigo prevê exigências especiais devem ser acompanhados dos certificados sanitários adequados ou dos documentos comerciais exigidos pela legislação comunitária nos termos dos artigos 17.º e 18.º ou, na falta de tal requisito na legislação comunitária, de um certificado sanitário ou de um documento comercial cujos modelos devem ser definidos nos termos do n.º 2 do artigo 24.º
+
+6. Para efeitos de importação para a Comunidade, os produtos de origem animal devem cumprir as condições estipuladas no anexo IX, capítulos A, C, F e G.
+
+7. Nos termos do procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 24.º, o disposto nos n.^os^ 1 a 6 pode ser alargado a outros produtos de origem animal. As regras de execução do presente artigo são aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 24.º.
+
+###### Artigo 17.º
+
+Nos termos do n.º 2 do artigo 24.º, os certificados sanitários referidos no anexo F da Directiva 64/432/CEE do Conselho e nos modelos II e III do anexo E da Directiva 91/68/CEE do Conselho, bem como os certificados sanitários adequados previstos na regulamentação comunitária em matéria de comércio de sémen, óvulos e embriões de bovinos, ovinos ou caprinos devem, se necessário, ser completados por uma referência à categoria que especifique a classificação do Estado-Membro ou da região de origem atribuída nos termos do artigo 5.º
+
+Os documentos comerciais adequados relativos ao comércio de produtos de origem animal devem, se necessário, ser completados por uma referência à categoria que especifique a classificação do Estado-Membro ou da região de origem atribuída pela Comissão, nos termos do artigo 5.º
+
+###### Artigo 18.º
+
+Os certificados sanitários adequados relativos à importação previstos na legislação comunitária são completados, nos termos do n.º 2 do artigo 24.º e em relação aos países terceiros classificados numa categoria ao abrigo do artigo 5.º, pelos requisitos específicos previstos no anexo IX, logo que seja adoptada essa decisão de classificação.
+
+## CAPÍTULO VI
+
+### LABORATÓRIOS DE REFERÊNCIA, AMOSTRAGEM, DETECÇÃO E CONTROLO
+
+###### Artigo 20.º — Amostragem e métodos laboratoriais de análise
+
+1. As colheitas e análises laboratoriais destinadas à detecção de EET são feitas segundo os métodos e protocolos previstos no anexo X, capítulo C.
+
+2. Caso tal se revele necessário para assegurar a aplicação uniforme do presente artigo, são aprovadas regras de execução pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 24.º. O método para confirmar a presença de EEB nos ovinos e caprinos é aprovado pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 24.º.
+
+## CAPÍTULO VII
+
+### DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+###### Artigo 22.º — Medidas transitórias relativas às matérias de risco especificadas
+
+1. As disposições do anexo XI, capítulo A, são aplicáveis durante um prazo mínimo de 6 meses a contar de 1 de Julho de 2001m deixando de o ser a partir da data de adopção de uma decisão nos termos dos n.^os^ 2 ou 4 do artigo 5.º, data em que passa a ser aplicável o artigo 8.º
+
+2. Para confirmar ou infirmar as conclusões da análise dos riscos prevista no n.º 1 do artigo 5.º, são utilizados os resultados de um estudo estatístico conclusivo realizado nos termos do n.º 3 do artigo 5.º durante o período transitório, tomando em consideração os critérios de classificação definidos pelo OIE.
+
+3. As regras pormenorizadas relativas a esse estudo estatístico são aprovadas, após consulta do comité científico adequado, nos termos do n.º 2 do artigo 24.º
+
+4. Os critérios mínimos para este estudo estatístico constam do anexo XI, capítulo B.
+
+###### Artigo 23.º — Alteração dos anexos e medidas transitórias
+
+Após consulta do comité científico adequado sobre todas as questões susceptíveis de afectar a saúde pública, são alterados ou completados os anexos e tomadas as medidas transitórias adequadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 24.º.
+
+Nos mesmos termos, serão adoptadas medidas transitórias para um período que termina, o mais tardar, em 1 de Julho de 2007, a fim de permitir a passagem do actual regime para o regime estabelecido no presente regulamento.
+
+###### Artigo 23.º-A
+
+São aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 24.º as seguintes medidas, que se destinam a alterar elementos não essenciais do presente regulamento, designadamente completando-o:
+
+a) Aprovação dos testes rápidos a que se referem o terceiro parágrafo do n.º 3 do artigo 5.º, o n.º 1 do artigo 6.º, o n.º 2 do artigo 8.º e o n.º 3 do artigo 9.º;
+
+b) Adaptação da idade a que se refere o n.º 1-B do artigo 6.º;
+
+c) Critérios para demonstrar a melhoria da situação epidemiológica a que se refere o n.º 1-B do artigo 6.º;
+
+d) Decisão de autorizar a alimentação de animais jovens de espécie ruminante com proteínas provenientes de peixe a que se refere o n.º 3 do artigo 7.º;
+
+e) Critérios de concessão de isenções às restrições a que se refere o n.º 4 do artigo 7.º;
+
+f) Decisão de introduzir um nível de tolerância a que se refere o n.º 4-A do artigo 7.º;
+
+g) Decisão sobre a idade a que se refere o n.º 1 do artigo 8.º;
+
+h) Regras que prevejam isenções quanto às exigências de remoção e destruição de matérias de risco a que se refere o n.º 5 do artigo 8.º;
+
+i) Aprovação dos processos de produção a que se refere o n.º 1 do artigo 9.º;
+
+j) Decisão de alargar determinadas disposições a outras espécies animais a que se refere o n.º 3 do artigo 15.º;
+
+k) Alargamento do âmbito de aplicação dos n.^os^ 1 a 6 do artigo 16.º a outros produtos de origem animal;
+
+l) Aprovação do método para confirmar a presença de EEB nos ovinos e caprinos referido no n.º 2 do artigo 20.º;
+
+m) Alteração ou aditamento dos anexos e aprovação das medidas transitórias adequadas referidas no artigo 23.º.
+
+###### Artigo 24.º — Comités
+
+1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal. Todavia, a Comissão consulta igualmente o Comité Zootécnico Permanente em relação ao artigo 6.º-A.
+
+2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.
+
+O prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses e, no caso das medidas de salvaguarda referidas no n.º 2 do artigo 4.º do presente regulamento, de 15 dias.
+
+3. Sempre que se faça referência ao presente número, são aplicáveis os n.ºs 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.
+
+###### Artigo 24.º-A
+
+As decisões a aprovar de acordo com um dos procedimentos a que se refere o artigo 24.º devem basear-se numa avaliação adequada dos eventuais riscos para a saúde humana e animal e devem, à luz das provas científicas existentes, manter ou aumentar, se tal se justificar do ponto de vista científico, o nível de protecção da saúde humana e animal garantido na Comunidade.
+
+###### Artigo 25.º — Consulta dos comités científicos
+
+Os comités científicos adequados são consultados sobre qualquer questão do âmbito de aplicação do presente regulamento que seja susceptível de afectar a saúde pública.
+
+###### Artigo 26.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia seguinte à sua publicação no *Jornal Oficial das Comunidades Europeias*.
+
+O presente regulamento é aplicável a partir de 1 de Julho de 2001.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+## ANEXO I
+
+### DEFINIÇÕES ESPECÍFICAS
+
+1. [▼M66](http://publications.europa.eu/resource/celex/32020R0772) Para efeitos do presente regulamento, são aplicáveis as seguintes definições estabelecidas no Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0009)), no Regulamento (UE) n.º 142/2011 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0010)), no Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^11^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0011)), no Regulamento (CE) n.º 767/2009 do Parlamento Europeu e do Conselho ([^12^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0012)), na Diretiva 2006/88/CE do Conselho ([^13^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0013)) e no Regulamento (UE) 2016/1012 do Parlamento Europeu e do Conselho ([^14^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0014)): [▼M48](http://publications.europa.eu/resource/celex/32013R0056) a) A definição de «animais de criação» constante do artigo 3.º, n.º 6, do Regulamento (CE) n.º 1069/2009; b) As seguintes definições constantes do anexo I do Regulamento (UE) n.º 142/2011: i) «animais para produção de peles com pelo» no ponto 1, ii) «produtos derivados do sangue» no ponto 4, iii) «proteínas animais transformadas» no ponto 5, iv) «farinha de peixe» no ponto 7, v) «colagénio» no ponto 11, vi) «gelatina» no ponto 12, vii) «proteínas hidrolisadas» no ponto 14, viii) «alimentos enlatados para animais de companhia» no ponto 16, ix) «alimentos para animais de companhia» no ponto 19, x) «alimentos transformados para animais de companhia» no ponto 20; c) A definição de «alimento para animais» constante do artigo 3.º, n.º 4, do Regulamento (CE) n.º 178/2002; d) Regulamento (CE) n.º 767/2009: i) «matérias-primas para alimentação animal» no artigo 3.º, n.º 2, alínea g), ii) «alimento composto para animais» no artigo 3.º, n.º 2, alínea h), iii) «alimento completo para animais» no artigo 3.º, n.º 2, alínea i), [▼M59](http://publications.europa.eu/resource/celex/32017R0893) iv) «rótulo» no artigo 3.º, n.º 2, alínea t); [▼M48](http://publications.europa.eu/resource/celex/32013R0056) e) Diretiva 2006/88/CE: i) «animal de aquicultura» no artigo 3.º, n.º 1, alínea b), ii) «animal aquático» no artigo 3.º, n.º 1, alínea e); [▼M66](http://publications.europa.eu/resource/celex/32020R0772) f) a definição de «raça ameaçada» constante do artigo 2.º, n.º 24, do Regulamento (UE) 2016/1012.
+
+2. Para efeitos do disposto no presente regulamento, são igualmente aplicáveis as seguintes definições, entendendo-se por: a) «Caso nativo de EEB», caso de encefalopatia espongiforme bovina que não foi clara e comprovadamente devido a uma infeção anterior à importação do animal vivo; b) «Coorte», um grupo de bovinos que inclui animais: i) nascidos no mesmo efectivo que o bovino afectado nos 12 meses precedentes ou seguintes à data de nascimento do animal afectado, bem como ii) criados em qualquer momento durante o primeiro ano de vida juntamente com o bovino afectado no primeiro ano de vida; c) «Caso índice», o primeiro animal de uma exploração ou de um grupo epidemiológico definido em que se confirma uma infeção por EET; d) «EET em pequenos ruminantes», caso de encefalopatia espongiforme transmissível detetada num ovino ou caprino depois da realização de um teste confirmatório para detetar a presença da proteína PrP anormal; e) «Caso de tremor epizoótico», caso confirmado de encefalopatia espongiforme transmissível num ovino ou caprino, em que se excluiu o diagnóstico de EEB em conformidade com os critérios estabelecidos no manual técnico do laboratório da União Europeia de referência em matéria de caracterização de estirpes de EET em pequenos ruminantes ([^15^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0015)); f) «Caso de tremor epizoótico clássico», caso confirmado de tremor epizoótico classificado como clássico em conformidade com os critérios estabelecidos no manual técnico do laboratório da União Europeia de referência em matéria de caracterização de estirpes de EET em pequenos ruminantes; g) «Caso de tremor epizoótico atípico», caso confirmado de tremor epizoótico distinguível do tremor epizoótico clássico em conformidade com os critérios estabelecidos no manual técnico do laboratório de referência da União Europeia em matéria de caracterização de estirpes de EET em pequenos ruminantes. h) «Genótipo da proteína do prião» dos ovinos, combinação de dois alelos tal como descrito no ponto 1 do anexo I da Decisão 2002/1003/CE ([^16^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0016)); i) «Caso de EEB», um caso de EEB confirmado por um laboratório nacional de referência, de acordo com os métodos e protocolos enunciados no ponto 3.1., alínea a), e alínea b), do capítulo C do anexo X; j) «Caso de EEB clássica», caso de EEB classificada como clássico em conformidade com os critérios estabelecidos no método do laboratório de referência da União Europeia para a classificação de EET isolados ([^17^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0017)); k) «Caso de EEB atípica», caso de EEB que não pode ser classificado como clássico em conformidade com os critérios estabelecidos no método do laboratório de referência da União Europeia para a classificação de EET isolados; l) «Ovinos e caprinos com mais de 18 meses de idade», ovinos e caprinos: i) cuja idade é confirmada pelos registos ou documentos de transporte referidos no artigo 3.º, n.º 1, alíneas b), c) e d), do Regulamento (CE) n.º 21/2004 do Conselho ([^18^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0018)), ou ii) que apresentam mais de dois incisivos permanentes que tenham perfurado a gengiva; [▼M59](http://publications.europa.eu/resource/celex/32017R0893) m) «Insetos de criação», animais de criação, como definidos no artigo 3.º, n.º 6, alínea a), do Regulamento (CE) n.º 1069/2009, das espécies de insetos que são autorizadas para a produção de proteínas animais transformadas em conformidade com o anexo X, capítulo II, secção 1, parte A, ponto 2, do Regulamento (UE) n.º 142/2011; n) «Autoprodutores», os criadores de gado que misturam os alimentos compostos para animais exclusivamente para utilização na sua própria exploração; [▼M61](http://publications.europa.eu/resource/celex/32017R1972) o) «cervídeos de criação e em cativeiro», animais da família *Cervidae* que são mantidos por seres humanos num território vedado; p) «cervídeos selvagens», animais da família *Cervidae* que não são mantidos por seres humanos; q) «cervídeos semidomesticados», animais da família *Cervidae* que são mantidos por seres humanos, mas não num território vedado.
+
+## ANEXO II
+
+### DETERMINAÇÃO DO ESTATUTO EM MATÉRIA DE EEB
+
+#### CAPÍTULO A
+
+#### Critérios
+
+O estatuto dos Estados-Membros, países terceiros ou suas regiões (adiante designados «países ou regiões») em matéria de EEB deve ser determinado com base nos critérios enunciados nas alíneas a) a e). Para efeitos do presente anexo, «EEB» exclui a «EEB atípica» como doença que se presume ocorrer espontaneamente em todas as populações bovinas a um nível muito baixo.
+
+No país ou na região:
+
+a) Realiza-se uma análise dos riscos, em conformidade com o capítulo B, que identifique todos os factores potenciais para a ocorrência de EEB, bem como a respectiva perspectiva histórica no país ou na região;
+
+b) Existe um sistema de vigilância e monitorização contínuas da EEB, em especial no que se refere aos riscos descritos no capítulo B, que satisfaz os requisitos mínimos de vigilância estabelecidos no capítulo D;
+
+c) Existe um programa de sensibilização permanente dirigido aos veterinários, agricultores e trabalhadores envolvidos no transporte, comercialização e abate de bovinos, a fim de incentivar a comunicação de todos os casos que evidenciem sinais clínicos compatíveis com a EEB nas subpopulações-alvo, tal com se definem no capítulo D;
+
+d) Está em vigor a obrigação de notificar e investigar todos os bovinos que evidenciem sinais clínicos compatíveis com a EEB;
+
+e) O exame do tecido cerebral bem como de outros tecidos recolhidos no âmbito do sistema de vigilância e monitorização referido na alínea b) é realizado por um laboratório aprovado.
+
+#### CAPÍTULO B
+
+#### Análise dos riscos
+
+A análise dos riscos deve incluir uma avaliação da entrada e uma avaliação da exposição.
+
+2.1. A avaliação da entrada consiste em determinar a probabilidade de o agente da EEB ter sido introduzido no país ou na região através de mercadorias potencialmente contaminadas com um agente da EEB ou de já estar presente no país ou na região.
+
+a) A presença ou ausência do agente da EEB no país ou na região e, se estiver presente, a sua prevalência, com base no resultado das atividades de vigilância;
+
+b) A produção de farinhas de carne e de ossos ou de torresmos a partir da população autóctone de ruminantes;
+
+c) As farinhas de carne e de ossos e os torresmos importados;
+
+d) Os bovinos, ovinos e caprinos importados;
+
+e) Alimentos para animais e seus ingredientes importados;
+
+f) Produtos destinados ao consumo humano importados, com origem em ruminantes, que possam ter contido os tecidos enumerados no ponto 1 do anexo V e possam ter sido usados na alimentação de bovinos;
+
+g) Produtos importados com origem em ruminantes para utilização *in vivo* nos bovinos.
+
+2.2. Na realização da avaliação da entrada, deve ter-se em conta a existência de planos especiais de erradicação, vigilância e outras investigações epidemiológicas (em especial a vigilância da EEB levada a efeito na população bovina) que sejam relevantes em termos dos fatores de risco enumerados no ponto 2.1.
+
+A avaliação da exposição consiste na apreciação da probabilidade de exposição dos bovinos ao agente da EEB, mediante a análise dos seguintes aspectos:
+
+a) Reciclagem e amplificação do agente da EEB através do consumo pelos bovinos de farinhas de carne e de ossos e de torresmos com origem em ruminantes ou de outros alimentos para animais ou seus ingredientes que possam estar contaminados com aqueles produtos;
+
+b) A utilização de carcaças de ruminantes (incluindo as dos animais encontrados mortos), de subprodutos e de resíduos de matadouros; os parâmetros dos processos de transformação e os métodos de fabrico de alimentos para animais;
+
+c) A alimentação — ou não — dos ruminantes com farinhas de carne e de ossos ou torresmos derivados de ruminantes, incluindo as medidas destinadas a evitar a contaminação cruzada dos alimentos para animais;
+
+d) O nível da vigilância da EEB aplicada à população bovina até ao momento e os resultados dessa vigilância.
+
+#### CAPÍTULO C
+
+#### Definição das categorias
+
+Um país ou uma região:
+
+1. Em que se realizou uma análise dos riscos, em conformidade com o disposto no capítulo B, a fim de identificar os factores de risco históricos e actuais.
+
+2. Que demonstrou ter tomado as medidas específicas adequadas pelo período relevante, tal com definido *infra*, para a gestão de cada risco identificado.
+
+3. Que demonstrou ter em vigor a vigilância de tipo B, em conformidade com o capítulo D, e que atingiu a pontuação-objectivo, em conformidade com o quadro 2 desse capítulo.
+
+4. Que se encontra:
+
+a) Quer na situação seguinte:
+
+i) no país ou na região não se registou qualquer caso de EEB ou demonstrou-se que um eventual caso de EEB foi importado e completamente destruído,
+
+ii) os critérios constantes das alíneas c, d e e) do capítulo A foram cumpridos pelo menos durante os sete anos anteriores, e
+
+iii) demonstrou-se, mediante um nível adequado de controlo e auditoria, que, pelo menos durante os oito anos anteriores, os ruminantes não foram alimentados com farinhas de carne e de ossos nem com torresmos derivados de ruminantes;
+
+b) Quer na situação seguinte:
+
+i) no país ou na região, registou-se um ou vários casos nativos de EEB mas todos os animais afectados nasceram há mais de 11 anos,
+
+ii) os critérios constantes das alíneas c), d) e e) do capítulo A foram cumpridos pelo menos durante os sete anos anteriores,
+
+iii) demonstrou-se, mediante um nível adequado de controlo e auditoria, que, pelo menos durante os oito anos anteriores, os ruminantes não foram alimentados com farinhas de carne e de ossos nem com torresmos derivados de ruminantes,
+
+iv) os animais seguintes, se estiverem vivos no país ou na região, encontram-se permanentemente identificados, as suas deslocações são controladas e, quando abatidos ou mortos, são completamente destruídos:
+
+— todos os casos de EEB,
+
+— todos os bovinos que, durante o seu primeiro ano de vida, foram criados com casos de EEB, durante o seu primeiro ano de vida, e que, de acordo com investigações, consumiram, durante esse período, os mesmos alimentos potencialmente contaminados, ou
+
+— se os resultados das investigações referidas no segundo travessão forem inconclusivos, todos os bovinos nascidos no mesmo efectivo que os casos de EEB, nos 12 meses anteriores ou seguintes ao nascimento destes.
+
+Um país ou uma região:
+
+1. Em que se realizou uma análise dos riscos, com base nas informações estabelecidas no capítulo B, a fim de identificar os factores de risco históricos e actuais.
+
+2. Que demonstrou ter tomado as medidas adequadas para a gestão de todos os riscos identificados, mas não pelo período relevante.
+
+3. Que demonstrou ter em vigor a vigilância de tipo A, em conformidade com o capítulo D, e que atingiu a pontuação-objectivo, em conformidade com o quadro 2 desse capítulo. Depois de atingida essa pontuação, a vigilância de tipo A pode ser substituída pela vigilância de tipo B.
+
+4. Que se encontra:
+
+a) Quer na situação seguinte:
+
+i) no país ou na região não se registou qualquer caso de EEB ou demonstrou-se que um eventual caso de EEB foi importado e completamente destruído, cumprem-se os critérios constantes das alíneas c), d) e e) do capítulo A e pode demonstrar-se, mediante um nível adequado de controlo e auditoria, que os ruminantes não foram alimentados com farinhas de carne e de ossos nem com torresmos derivados de ruminantes,
+
+ii) os critérios constantes das alíneas c), d) e e) do capítulo A foram cumpridos por um período inferior aos sete anos anteriores, e/ou
+
+iii) não se pode demonstrar que, durante os oito anos anteriores, estava em vigor um sistema de controlo para assegurar que os ruminantes não eram alimentados com farinhas de carne e de ossos nem com torresmos derivados de ruminantes;
+
+b) Quer na situação seguinte:
+
+i) no país ou na região registou-se um caso nativo de EEB, cumprem-se os critérios constantes das alíneas c), d) e e) do capítulo A e pode demonstrar-se, mediante um nível adequado de controlo e auditoria, que os ruminantes não foram alimentados com farinhas de carne e de ossos nem com torresmos derivados de ruminantes,
+
+ii) os critérios constantes das alíneas c), d) e e) do capítulo A foram cumpridos por um período inferior aos sete anos anteriores, e/ou
+
+iii) não se pode demonstrar que, durante pelo menos os oito anos anteriores, estava em vigor um sistema de controlo para assegurar que os ruminantes não eram alimentados com farinhas de carne e de ossos nem com torresmos derivados de ruminantes,
+
+iv) os animais seguintes, se estiverem vivos no país ou na região, encontram-se permanentemente identificados, as suas deslocações são controladas e, quando abatidos ou mortos, são completamente destruídos:
+
+— todos os casos de EEB, e
+
+— todos os bovinos que, durante o seu primeiro ano de vida, foram criados com casos de EEB, durante o seu primeiro ano de vida, e que, de acordo com investigações, consumiram, durante esse período, os mesmos alimentos potencialmente contaminados, ou
+
+— se os resultados das investigações referidas no segundo travessão forem inconclusivos, todos os bovinos nascidos no mesmo efectivo que os casos de EEB, nos 12 meses anteriores ou seguintes ao nascimento destes.
+
+Um país ou uma região em relação ao qual não se concluiu a determinação do estatuto em matéria de EEB ou que não preenche as condições necessárias para ser classificado numa das outras categorias.
+
+#### CAPÍTULO D
+
+#### Requisitos mínimos de vigilância
+
+Para efeitos do presente anexo, entende-se por:
+
+a) Vigilância de tipo A
+
+b) Vigilância de tipo B
+
+a) Bovinos com mais de 30 meses de idade com sinais comportamentais ou clínicos compatíveis com a EEB (casos clínicos suspeitos);
+
+b) Bovinos com mais de 30 meses que se mantenham deitados ou imobilizados e sejam incapazes de se levantar ou andar sem ajuda; bovinos com mais de 30 meses de idade enviados para abate de emergência ou com observações anormais na inspecção *ante mortem* (abate de emergência);
+
+c) Bovinos com mais de 30 meses de idade encontrados mortos ou abatidos nas explorações, durante o transporte ou num matadouro (animais encontrados mortos);
+
+d) Bovinos com mais de 36 meses de idade no abate normal.
+
+2.1. A estratégia de vigilância deve ser concebida por forma a garantir que as amostras são representativas do efectivo do país ou da região e deve levar em conta factores demográficos, como o tipo de produção e a localização geográfica, assim como a potencial influência de práticas pecuárias culturalmente singulares. A abordagem usada e os pressupostos assumidos devem estar plenamente documentados, sendo a documentação conservada por um período de sete anos.
+
+2.2. Na implementação da estratégia de vigilância da EEB, cada país deve usar registos documentais ou estimativas fiáveis da distribuição etária da população bovina adulta bem como do número de bovinos submetidos aos testes à EEB estratificado por idades e por subpopulação dentro do país ou região.
+
+As amostras destinadas à vigilância devem corresponder às pontuações-objectivo estabelecidas no quadro 2, com base nos valores fixados no quadro 1. Todos os casos clínicos suspeitos devem ser investigados, independentemente do número de pontos acumulados. Cada país deve submeter a amostragem pelo menos três das quatro subpopulações. A pontuação total das amostras colhidas deve ser acumulada ao longo de um período máximo de sete anos consecutivos, a fim de alcançar a pontuação-objectivo. Periodicamente, esta pontuação acumulada deve ser comparada com a pontuação-objectivo para o país ou a região.
+
+| Subpopulação objecto da vigilância |  |  |  |
+| --- | --- | --- | --- |
+| Abate normal [(^1^)](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0020) | Animais encontrados mortos [(^2^)](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0021) | Abate de emergência [(^3^)](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0022) | Caso clínico suspeito [(^4^)](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0023) |
+| Idade ≥ 1 ano e < 2 anos |  |  |  |
+| 0,01 | 0,2 | 0,4 | N/D |
+| Idade ≥ 2 anos e < 4 anos (adulto jovem) |  |  |  |
+| 0,1 | 0,2 | 0,4 | 260 |
+| Idade ≥ 4 anos e < 7 anos (adulto intermédio) |  |  |  |
+| 0,2 | 0,9 | 1,6 | 750 |
+| Idade ≥ 7 anos e < 9 anos (adulto idoso) |  |  |  |
+| 0,1 | 0,4 | 0,7 | 220 |
+| Idade ≥ 9 anos (idoso) |  |  |  |
+| 0,0 | 0,1 | 0,2 | 45 |
+| (^1^) Bovinos com mais de 36 meses de idade no abate normal. (^2^) Bovinos com mais de 30 meses de idade encontrados mortos ou abatidos nas explorações, durante o transporte ou num matadouro (animais encontrados mortos). (^3^) Bovinos com mais de 30 meses que se mantenham deitados ou imobilizados e sejam incapazes de se levantar ou andar sem ajuda; bovinos com mais de 30 meses de idade enviados para abate de emergência ou com observações anormais na inspecção *ante mortem* (abate de emergência). (^4^) Bovinos com mais de 30 meses de idade com sinais comportamentais ou clínicos compatíveis com a EEB (casos clínicos suspeitos). |  |  |  |
+
+| Pontuação — objetivo para o país ou a região |  |  |
+| --- | --- | --- |
+| Dimensão da população de bovinos adultos (24 meses ou mais) | Vigilância de tipo A | Vigilância de tipo B |
+| > 1 000 000 | 300 000 | 150 000 |
+| 900 001 — 1 000 000 | 214 600 | 107 300 |
+| 800 001 — 900 000 | 190 700 | 95 350 |
+| 700 001 — 800 000 | 166 900 | 83 450 |
+| 600 001 — 700 000 | 143 000 | 71 500 |
+| 500 001 — 600 000 | 119 200 | 59 600 |
+| 400 001 — 500 000 | 95 400 | 47 700 |
+| 300 001 — 400 000 | 71 500 | 35 750 |
+| 200 001 — 300 000 | 47 700 | 23 850 |
+| 100 001 — 200 000 | 22 100 | 11 500 |
+| 90 001 — 100 000 | 19 900 | 9 950 |
+| 80 001 — 90 000 | 17 700 | 8 850 |
+| 70 001 — 80 000 | 15 500 | 7 750 |
+| 60 001 — 70 000 | 13 000 | 6 650 |
+| 50 001 — 60 000 | 11 000 | 5 500 |
+| 40 001 — 50 000 | 8 800 | 4 400 |
+| 30 001 — 40 000 | 6 600 | 3 300 |
+| 20 001 — 30 000 | 4 400 | 2 200 |
+| 10 001 — 20 000 | 2 100 | 1 050 |
+| 9 001 — 10 000 | 1 900 | 950 |
+| 8 001 — 9 000 | 1 600 | 800 |
+| 7 001 — 8 000 | 1 400 | 700 |
+| 6 001 — 7 000 | 1 200 | 600 |
+| 5 001 — 6 000 | 1 000 | 500 |
+| 4 001 — 5 000 | 800 | 400 |
+| 3 001 — 4 000 | 600 | 300 |
+| 2 001 — 3 000 | 400 | 200 |
+| 1 001 — 2 000 | 200 | 100 |
+
+Cada país ou região pode, para cada uma das subpopulações mencionadas *supra*, orientar a vigilância para bovinos identificáveis como tendo sido importados de países ou regiões onde se detectou a presença de EEB e para bovinos que tenham consumido alimentos potencialmente contaminados provenientes desses países ou regiões.
+
+Na sua estimativa da presença/prevalência de EEB, cada país pode optar pela utilização do modelo BSurvE na íntegra ou por um método alternativo nele baseado.
+
+Depois de alcançada a pontuação-objectivo, e a fim de manter o país ou a região com o estatuto de risco controlado ou risco negligenciável de EEB, a vigilância pode ser reduzida para a vigilância de tipo B (desde que todos os outros indicadores permaneçam positivos). Todavia, para continuar a satisfazer os requisitos previstos no presente capítulo, a vigilância anual permanente deve continuar a incidir sobre pelo menos três das quatro subpopulações previstas. Além disso, todos os bovinos clinicamente suspeitos de estarem infectados com a EEB devem ser investigados, independentemente do número de pontos acumulados. Num país ou numa região que já atingiu a pontuação-objectivo, a vigilância anual não deve ser inferior à sétima parte do seu objectivo total para a vigilância de tipo B.
+
+## ANEXO III
+
+### SISTEMA DE VIGILÂNCIA
+
+### CAPÍTULO A
+
+#### I. VIGILÂNCIA DOS BOVINOS
+
+A vigilância dos bovinos será levada a cabo em conformidade com os métodos laboratoriais estabelecidos na alínea b) do ponto 3.1 do capítulo C do anexo X.
+
+2.1. Todos os bovinos com idade superior a 24 meses devem ser submetidos ao teste da EEB sempre que tiverem sido objeto de: — abate de emergência em conformidade com o ponto 1 do capítulo VI da secção I do anexo III do Regulamento (CE) n.º 853/2004 ([^20^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0024)), ou — uma inspeção *ante mortem* com observações relativas a acidentes, ou perturbações fisiológicas e funcionais graves, ou sinais em conformidade com o ponto 2 da parte B do capítulo II da secção I do anexo I do Regulamento (CE) n.º 854/2004 ([^21^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0025)).
+
+2.2. Todos os bovinos sãos com mais de 30 meses de idade submetidos a abate normal para consumo humano serão testados para detetar a presença de EEB.
+
+3.1. Todos os bovinos com idade superior a 24 meses de idade que tenham morrido ou sido mortos mas que: — não tenham sido mortos para destruição nos termos do Regulamento (CE) n.º 716/96 da Comissão ([^22^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0026)), — não tenham sido mortos no quadro de uma epidemia, como a da febre aftosa, — não tenham sido abatidos para consumo humano, serão testados para detectar a presença de EEB.
+
+3.2. Os Estados-Membros podem decidir derrogar ao disposto no ponto 3.1 em áreas remotas com uma baixa densidade animal, onde não se organiza nenhuma recolha de animais mortos. Os Estados-Membros que recorrem a esta derrogação informarão a Comissão deste facto e apresentarão uma lista das áreas derrogadas. A derrogação não deverá abranger mais de 10 % da população bovina do Estado-Membro.
+
+Todos os animais nascidos entre 1 de Agosto de 1995 e 1 de Agosto de 1996 abatidos para destruição ao abrigo do Regulamento (CE) n.º 716/96 devem ser testados para detectar a presença de EEB.
+
+Além dos testes referidos nos pontos 2 a 4, os Estados-Membros podem, a título facultativo, decidir testar outros bovinos no seu território, designadamente os animais provenientes de países com casos autóctones de EEB, os animais que tenham consumido alimentos potencialmente contaminados ou os animais nascidos ou descendentes de fêmeas infectadas com EEB.
+
+6.1. Quando um animal abatido para consumo humano tiver sido selecionado para um teste destinado a detetar a presença de EEB, a marcação de salubridade prevista no anexo I, secção I, capítulo III, do Regulamento (CE) n.º 854/2004 não deve ser efetuada na carcaça desse animal até se obter um teste rápido com resultado negativo.
+
+6.2. Os Estados-Membros podem derrogar ao disposto no ponto 6.1 se existir um sistema oficial no matadouro que garanta que nenhuma parte dos animais examinados que apresente a marca de salubridade sai do matadouro sem que tenha sido obtido um resultado negativo no teste rápido.
+
+6.3. Todas as partes da carcaça de um animal testado para detetar a presença de EEB, incluindo a pele, devem ser mantidas sob controlo oficial até que tenha sido obtido um resultado negativo ao teste rápido, exceto se forem eliminadas em conformidade com o artigo 12.º, alínea a) ou b), do Regulamento (CE) n.º 1069/2009, ou se as respetivas gorduras forem processadas em conformidade com o Regulamento (UE) n.º 142/2011 e utilizadas em conformidade com o artigo 12.º, alínea e), do Regulamento (CE) n.º 1069/2009 ou utilizadas para o fabrico dos produtos derivados referidos no artigo 36.º do mesmo regulamento.
+
+6.4. Todas as partes da carcaça de um animal com resultados positivos ou inconclusivos ao teste rápido, incluindo a pele, devem ser eliminadas em conformidade com o artigo 12.º, alínea a) ou b), do Regulamento (CE) n.º 1069/2009, com exceção do material a conservar juntamente com os registos previstos no capítulo B, parte III, do presente anexo, e com exceção das gorduras provenientes dessa carcaça, desde que as gorduras sejam processadas em conformidade com o Regulamento (UE) n.º 142/2011 e utilizadas em conformidade com o artigo 12.º, alínea e), do Regulamento (CE) n.º 1069/2009 ou utilizadas para o fabrico dos produtos derivados referidos no artigo 36.º do mesmo regulamento.
+
+6.5. Se um animal abatido para consumo humano tiver resultados positivos ou inconclusivos ao teste rápido, pelo menos a carcaça imediatamente anterior e as duas carcaças imediatamente a seguir à carcaça positiva ou inconclusiva na mesma linha de abate devem ser destruídas de acordo com o ponto 6.4.
+
+6.6. Os Estados-Membros podem derrogar ao disposto no ponto 6.5 se existir um sistema no matadouro que previna a contaminação entre as carcaças.
+
+Os pedidos que os Estados-Membros apresentem à Comissão tendo em vista a revisão dos seus programas anuais de vigilância da EEB devem incluir pelo menos o seguinte:
+
+a) Informações sobre o sistema anual de vigilância da EEB em vigor durante os seis anos precedentes no território do Estado-Membro, incluindo documentação pormenorizada que comprove a observância dos critérios epidemiológicos estabelecidos no ponto 7.2;
+
+b) Informações sobre o sistema de identificação e rastreabilidade dos bovinos, como referido no n.º 1-B, terceiro parágrafo, alínea b), do artigo 6.º, em vigor no território do Estado-Membro durante o período de seis anos precedente, incluindo uma descrição pormenorizada do funcionamento da base de dados informatizada referida no artigo 5.º do Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho ([^23^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0027));
+
+c) Informações sobre as proibições em matéria de alimentação animal aplicadas durante os seis anos precedentes, com uma descrição pormenorizada do controlo da proibição relativa à alimentação dos animais de criação, como referido no n.º 1-B, terceiro parágrafo, alínea c), do artigo 6.º, incluindo o plano de amostragem bem como o número e o tipo de infracções constatadas e os resultados das medidas de acompanhamento;
+
+d) Uma descrição pormenorizada do programa revisto de vigilância da EEB proposto, que inclua a indicação da área geográfica em que o programa será aplicado e uma descrição das subpopulações de bovinos a abranger pelo referido programa revisto, bem como a indicação dos limites de idade e da dimensão das amostras para análise;
+
+e) O resultado de uma análise de risco global, mostrando que o programa de vigilância da EEB revisto assegurará a protecção da saúde humana e animal. Esta análise de risco deve incluir uma análise das coortes de nascimento ou outros estudos relevantes destinados a demonstrar que as medidas de redução de riscos respeitantes às EET, incluindo as proibições relativas à alimentação dos animais referidas no n.º 1-B, terceiro parágrafo, alínea c), do artigo 6.º, foram aplicadas com eficácia.
+
+Os pedidos de revisão de um programa de vigilância da EEB só podem ser aceites se o Estado-Membro em questão puder demonstrar que, além dos requisitos previstos no n.º 1-B, terceiro parágrafo, alíneas a), b) e c), do artigo 6.º, são cumpridos no seu território os critérios epidemiológicos seguintes:
+
+a) Durante um período de pelo menos seis anos consecutivos a contar da data de aplicação do regime comunitário de testes de EEB, como previsto no n.º 1-B, terceiro parágrafo, alínea b), artigo 6.º:
+
+i) a redução média da taxa anual de incidência da EEB observada na população bovina adulta (mais de 24 meses de idade) foi superior a 20 % e o número total de bovinos afectados nascidos após a aplicação da proibição comunitária total relativa à alimentação dos animais de criação, como referido no n.º 1-B, terceiro parágrafo, alínea c), do artigo 6.º, não excedeu 5 % do número total de casos de EEB confirmados,
+
+ii) a taxa anual de incidência de EEB observada na população bovina adulta (mais de 24 meses de idade) manteve-se sempre abaixo de 1/100 000,
+
+iii) enquanto opção adicional para os Estados-Membros com populações bovinas adultas (mais de 24 meses de idade) de menos de 1 000 000 de animais, o número cumulado de casos de EEB confirmados foi inferior a cinco;
+
+b) Após o período de seis anos referido na alínea a), não há dados que indiciem uma deterioração da situação epidemiológica da EEB.
+
+#### II. VIGILÂNCIA DOS OVINOS E CAPRINOS
+
+A vigilância dos ovinos e caprinos será levada a cabo em conformidade com os métodos laboratoriais estabelecidos na alínea b) do ponto 3.2 do capítulo C do anexo X.
+
+a) Os Estados-Membros cuja população de ovelhas e borregas cobertas exceda os 750 000 animais, submeterão a testes, em conformidade com as regras de amostragem estabelecidas no ponto 4, uma amostra mínima anual de 10 000 ovinos abatidos para consumo humano;
+
+b) Os Estados-Membros cuja população de cabras que já tenham parido e cabras cobertas exceda os 750 000 animais, submeterão a testes, em conformidade com as regras de amostragem estabelecidas no ponto 4, uma amostra mínima anual de 10 000 caprinos abatidos para consumo humano;
+
+c) Um Estado-Membro pode optar por substituir um máximo de:
+
+— 50 % da sua amostra mínima de ovinos e caprinos abatidos para consumo humano estabelecida nas alíneas a) e b), por testes a ovinos ou caprinos mortos com mais de 18 meses, num rácio de um para um, para além da dimensão mínima da amostra referido no ponto 3;
+
+— 10 % da sua amostra mínima estabelecida nas alíneas a) e b) por testes a ovinos ou caprinos com mais de 18 meses abatidos no âmbito de uma campanha de erradicação da doença, num rácio de um para um.
+
+Os Estados-Membros submeterão a testes, de acordo com as regras de amostragem estabelecidas no ponto 4 e com as dimensões mínimas das amostras indicadas no quadro A e no quadro B, os ovinos e caprinos que tenham morrido ou sido abatidos, mas que:
+
+— não tenham sido abatidos no âmbito de uma campanha de erradicação da doença, ou que
+
+— não tenham sido abatidos para consumo humano.
+
+| População de ovelhas e borregas cobertas nos Estados-Membros | Dimensão mínima da amostra de ovinos mortos [(^1^)](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0028) |
+| --- | --- |
+| > 750 000 | 10 000 |
+| 100 000 -750 000 | 1 500 |
+| 40 000 -100 000 | 100 % até 500 |
+| < 40 000 | 100 % até 100 |
+| (^1^) As dimensões mínimas das amostras são definidas em função da dimensão das populações de ovinos em cada Estado-Membro e destinam-se a estabelecer objectivos atingíveis. |  |
+
+| População de cabras que já pariram e cabras cobertas nos Estados-Membros | Dimensão mínima da amostra de caprinos mortos [(^1^)](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0029) |
+| --- | --- |
+| > 750 000 | 10 000 |
+| 250 000 -750 000 | 1 500 |
+| 40 000 -250 000 | 100 % até 500 |
+| < 40 000 | 100 % até 100 |
+| (^1^) As dimensões mínimas das amostras são definidas em função da dimensão das populações de caprinos em cada Estado-Membro e destinam-se a estabelecer objectivos atingíveis. |  |
+
+Os animais terão mais de 18 meses ou apresentarão mais de dois incisivos permanentes que tenham perfurado a gengiva.
+
+A idade dos animais será estimada com base na dentição, nos sinais evidentes de maturidade ou em quaisquer outras informações fiáveis.
+
+A selecção das amostras será feita por forma a evitar a representação excessiva de um determinado grupo em termos de origem, idade, raça, tipo de produção ou qualquer outra característica.
+
+A amostragem deverá ser representativa de cada região e estação do ano. Sempre que possível evitar-se-á a amostragem múltipla no mesmo efectivo. Os Estados-Membros, através dos seus programas de vigilância, visarão, sempre que possível, em anos de amostragem sucessivos, que todas as explorações oficialmente registadas com mais de 100 animais e onde nunca foram detectados casos de EET sejam submetidas a testes às EET.
+
+Os Estados-Membros criarão um sistema para verificar, de forma selectiva ou outra, que os animais não estão a ser desviados da amostragem.
+
+Contudo, os Estados-Membros podem decidir excluir da amostragem as áreas remotas com uma baixa densidade animal, onde não se organiza nenhuma recolha de animais mortos. Os Estados-Membros que recorram a esta derrogação informarão a Comissão deste facto e apresentarão uma lista das áreas remotas em que a derrogação tem aplicação. A derrogação não abrangerá mais de 10 % da população ovina e caprina do Estado-Membro em causa.
+
+Os animais com mais de 18 meses ou que sejam abatidos para destruição em conformidade com o anexo VII, capítulo B, parte 2, ponto 2.2.1 e ponto 2.2.2, alínea b) ou c), sejam submetidos a testes para detetar a presença de EET em conformidade com os métodos laboratoriais e os protocolos previstos no anexo X, capítulo C, parte 3, ponto 3.2, alínea b) com base na seleção de uma amostra aleatória simples, em conformidade com a dimensão das amostras indicada no quadro seguinte.
+
+Número de animais do efetivo com com mais de 18 meses de idade abatidos para destruição Dimensão mínima da amostra
+
+70 ou menos Todos os animais elegíveis
+
+80 68
+
+90 73
+
+100 78
+
+120 86
+
+140 92
+
+160 97
+
+180 101
+
+200 105
+
+250 112
+
+300 117
+
+350 121
+
+400 124
+
+450 127
+
+500 ou mais 150
+
+Para além dos programas de vigilância descritos nos pontos 2, 3 e 4, os Estados-Membros podem, a título facultativo, proceder a uma vigilância de outros animais, designadamente:
+
+— animais utilizados para a produção leiteira,
+
+— animais provenientes de países com casos nativos de EET,
+
+— animais que tenham consumido alimentos potencialmente contaminados,
+
+— animais nascidos ou descendentes de fêmeas infectadas por uma EET.
+
+7.1. Quando um ovino ou um caprino abatido para consumo humano for seleccionado para um teste destinado a detectar a presença de EET, em conformidade com o ponto 2, a marcação de salubridade prevista na secção I do capítulo III do anexo I do Regulamento (CE) n.º 854/2004 não deve ser efectuada na carcaça desse animal até se obter um resultado negativo no teste rápido.
+
+7.2. Os Estados-Membros podem derrogar ao disposto no ponto 7.1 se estiver a ser posto em prática no matadouro um sistema aprovado pela autoridade competente que garanta a rastreabilidade de todas as partes dos animais e que nenhuma parte dos animais examinados ostentando a marca de salubridade sai do matadouro sem que tenha sido obtido um resultado negativo no teste rápido.
+
+7.3. Todas as partes da carcaça de um animal testado, incluindo a pele, devem ser mantidas sob controlo oficial até que tenha sido obtido um resultado negativo ao teste rápido, exceto se forem eliminadas em conformidade com o artigo 12.º, alínea a) ou b), do Regulamento (CE) n.º 1069/2009, ou se as respetivas gorduras forem processadas em conformidade com o Regulamento (UE) n.º 142/2011 e utilizadas em conformidade com o artigo 12.º, alínea e), do Regulamento (CE) n.º 1069/2009 ou utilizadas para o fabrico dos produtos derivados referidos no artigo 36.º do mesmo regulamento.
+
+7.4. Todas as partes da carcaça de um animal com resultados positivos ao teste rápido, incluindo a pele, devem ser diretamente eliminadas em conformidade com o artigo 12.º, alínea a) ou b), do Regulamento (CE) n.º 1069/2009, com exceção do material a conservar juntamente com os registos previstos no capítulo B, parte III, do presente anexo, e com exceção das gorduras fundidas provenientes dessa carcaça, desde que as gorduras fundidas sejam processadas em conformidade com o Regulamento (UE) n.º 142/2011 e utilizadas em conformidade com a artigo 12.º, alínea e), do Regulamento (CE) n.º 1069/2009 ou utilizadas para o fabrico dos produtos derivados referidos no artigo 36.º do mesmo regulamento.
+
+8.1. Para cada caso positivo de EET nos ovinos será determinado o genótipo da proteína do prião para os codões 136, 154 e 171. Os casos de EET detetados em ovinos com genótipos que codificam a alanina (A) em ambos os alelos no codão 136, a arginina (R) em ambos os alelos no codão 154 e a arginina (R) em ambos os alelos no codão 171 serão imediatamente notificados à Comissão. Quando o caso positivo de EET for um caso de tremor epizoótico atípico, deverá ser determinado também o genótipo da proteína do prião para o codão 141.
+
+8.2. Para cada caso positivo de EET nos caprinos será determinado o genótipo da proteína do prião para os codões 146 e 222. Os casos de EET detetados em caprinos com genótipos que codificam a serina (S) ou o ácido aspártico (D) em, pelo menos, um alelo no codão 146 e/ou lisina (K) em, pelo menos, um alelo no codão 222 serão imediatamente notificados à Comissão.
+
+#### III. VIGILÂNCIA DOS CERVÍDEOS
+
+1.1. Os Estados-Membros que têm populações de alces e/ou renas selvagens e/ou de criação e/ou semidomesticadas (Estónia, Finlândia, Letónia, Lituânia, Polónia e Suécia) devem realizar um programa trienal de vigilância da doença emaciante crónica dos cervídeos, de 1 de janeiro de 2018 a 31 de dezembro de 2020. Para fins deste programa de vigilância, os testes de deteção de EET devem ser realizados entre 1 de janeiro de 2018 e 31 de dezembro de 2020, no entanto, a colheita de amostras pode começar em 2017.
+
+1.2. O programa trienal de vigilância da doença emaciante crónica deve abranger as seguintes espécies de cervídeos:
+
+— rena da tundra eurasiática (*Rangifer tarandus tarandus*),
+
+— rena da floresta finlandesa (*Rangifer tarandus fennicus*),
+
+— alce (*Alces alces*),
+
+— cabrito-montês (*Capreolus capreolus*),
+
+— veado de cauda branca (*Odocoileus virginianus*),
+
+— veado (*Cervus elaphus*).
+
+1.3. Em derrogação do disposto no ponto 1.2, um Estado-Membro pode, com base numa avaliação dos riscos documentada apresentada à Comissão Europeia, selecionar um subconjunto das espécies enumeradas nesse ponto para o programa trienal de vigilância da doença emaciante crónica.
+
+2.1. Os Estados-Membros referidos no ponto 1.1 devem identificar as unidades amostrais primárias (UAP), que devem abranger todos os territórios em que estão presentes populações de cervídeos, utilizando pelo menos os seguintes elementos:
+
+a) para cervídeos de criação e em cativeiro, cada exploração e instalação em que são mantidos cervídeos num território vedado são consideradas uma UAP;
+
+b) para cervídeos selvagens e semidomesticados, a UAP é definida geograficamente com base nos seguintes critérios:
+
+i) as zonas em que os animais selvagens e semidomesticados de uma espécie abrangida pelo programa de vigilância se reúnem durante pelo menos um determinado período do ano,
+
+ii) se os animais de uma espécie não se reunirem, as zonas delimitadas por barreiras naturais ou artificiais em que estão presentes os animais da espécie abrangida pelo programa de vigilância,
+
+iii) as zonas em que os animais da espécie abrangida pelo programa de vigilância são caçados e as zonas ligadas a outras atividades relevantes relacionadas com a espécie abrangida pelo programa de vigilância.
+
+2.2. Os Estados-Membros referidos no ponto 1.1 devem selecionar cervídeos de criação, em cativeiro, selvagens e semidomesticados para o teste de EET, utilizando o seguinte método de amostragem em duas fases:
+
+a) na primeira fase, os Estados-Membros devem:
+
+i) para cervídeos de criação e em cativeiro:
+
+— selecionar, numa base aleatória assegurando a representatividade geográfica e, se for caso disso, tendo em conta os fatores de risco relevantes identificados numa avaliação dos riscos documentada realizada pelo Estado-Membro, 100 UAP a cobrir durante o período de três anos do programa de vigilância, ou
+
+— se o Estado-Membro não conseguir identificar 100 UAP para cervídeos de criação e em cativeiro, selecionar todas as UAP identificadas.
+
+ii) para cervídeos selvagens e semidomesticados:
+
+— selecionar, numa base aleatória assegurando a representatividade geográfica e, se for caso disso, tendo em conta os fatores de risco relevantes identificados numa avaliação dos riscos documentada realizada pelo Estado-Membro, 100 UAP a cobrir durante o período de três anos do programa de vigilância, ou
+
+— se o Estado-Membro não conseguir identificar 100 UAP para cervídeos selvagens e semidomesticados, selecionar todas as UAP identificadas.
+
+b) na segunda fase:
+
+i) para cervídeos de criação e em cativeiro:
+
+— um Estado-Membro que tenha selecionado 100 UAP deve, em cada UAP selecionada, colher amostras em todos os animais pertencentes aos grupos-alvo enumerados no ponto 2.4., alínea a), durante o período de três anos até que seja alcançada uma meta de 30 animais testados por UAP. No entanto, se determinadas UAP não permitirem alcançar a meta de 30 animais testados durante o período de três anos devido à reduzida dimensão da sua população de cervídeos, a amostragem de animais pertencentes aos grupos-alvo enumerados no ponto 2.4, alínea a), pode continuar em UAP maiores mesmo após ter sido alcançada a meta de 30 animais testados, com o objetivo de atingir, sempre que possível, um número total de até 3 000 cervídeos de criação e em cativeiro testados a nível nacional durante o período de três anos do programa de vigilância,
+
+— um Estado-Membro que tenha identificado menos de 100 UAP deve, em cada UAP, colher amostras em todos os animais pertencentes aos grupos-alvo enumerados no ponto 2.4., alínea a), durante o período de três anos, com o objetivo de se aproximar, sempre que possível, de um número total de até 3 000 cervídeos de criação e em cativeiro testados a nível nacional durante o período de três anos do programa de vigilância.
+
+ii) para cervídeos selvagens e semidomesticados:
+
+— um Estado-Membro que tenha selecionado 100 UAP deve, em cada UAP selecionada, colher amostras em todos os animais pertencentes aos grupos-alvo enumerados no ponto 2.4., alínea b), durante o período de três anos até que seja alcançada uma meta de 30 animais testados por UAP, com o objetivo de atingir até 3 000 cervídeos selvagens e semidomesticados testados a nível nacional durante o período de três anos,
+
+— um Estado-Membro que tenha identificado menos de 100 UAP deve, em cada UAP, colher amostras em todos os animais pertencentes aos grupos-alvo enumerados no ponto 2.4., alínea b), durante o período de três anos, com o objetivo de se aproximar de um número total de 3 000 cervídeos selvagens e semidomesticados testados a nível nacional durante o período de três anos do programa de vigilância.
+
+2.3. Todos os cervídeos selecionados devem ter mais de 12 meses de idade. A idade será estimada com base na dentição, nos sinais evidentes de maturidade ou em quaisquer outras informações fiáveis.
+
+2.4. Os cervídeos devem ser selecionados de entre os seguintes grupos-alvo:
+
+a) para cervídeos de criação e em cativeiro:
+
+i) cervídeos de criação ou em cativeiro encontrados mortos/abatidos, definidos como cervídeos de criação ou em cativeiro encontrados mortos no território vedado no qual são mantidos, durante o transporte ou no matadouro, bem como cervídeos de criação ou em cativeiro abatidos por razões de saúde/idade,
+
+ii) cervídeos de criação ou em cativeiro com sintomas clínicos/doentes, definidos como cervídeos de criação ou em cativeiro que apresentam sinais de comportamento anormal e/ou perturbações motoras e/ou um estado geral pouco saudável,
+
+iii) cervídeos de criação abatidos que tenham sido declarados impróprios para o consumo humano,
+
+iv) cervídeos de criação abatidos considerados próprios para o consumo humano se um Estado-Membro identificar menos de 3 000 cervídeos de criação e em cativeiro nos grupos i) a iii).
+
+b) para cervídeos selvagens e semidomesticados:
+
+i) cervídeos selvagens ou semidomesticados encontrados mortos/abatidos, definidos como cervídeos encontrados mortos na natureza, bem como cervídeos semidomesticados encontrados mortos ou abatidos por razões de saúde/idade,
+
+ii) cervídeos feridos ou mortos na estrada ou por predadores, definidos como cervídeos selvagens ou semidomesticados atingidos por veículos rodoviários ou comboios, ou atacados por predadores,
+
+iii) cervídeos selvagens e semidomesticados com sintomas clínicos/doentes, definidos como cervídeos selvagens e semidomesticados que apresentam sinais de comportamento anormal e/ou perturbações motoras e/ou um mau estado geral de saúde,
+
+iv) cervídeos selvagens caçados e cervídeos semidomesticados abatidos que tenham sido declarados impróprios para o consumo humano,
+
+v) cervídeos selvagens caçados e cervídeos semidomesticados abatidos considerados próprios para o consumo humano se um Estado-Membro identificar menos de 3 000 cervídeos selvagens e semidomesticados nos grupos i) a iv).
+
+2.5. Em caso de um resultado positivo de EET num cervídeo, deve aumentar-se o número de amostras colhidas de cervídeos na zona em que foi detetado o caso positivo de EET, com base numa avaliação realizada pelo Estado-Membro em causa.
+
+3.1. Para cada cervídeo selecionado em conformidade com o ponto 2, deve ser colhida uma amostra de obex e testada para deteção de EET.
+
+a) gânglios linfáticos retrofaríngeos;
+
+b) amígdalas;
+
+c) outros gânglios linfáticos da cabeça.
+
+3.2. Até que sejam publicadas orientações relativas aos testes de EET em cervídeos pelo laboratório de referência da UE para as EET, deve ser utilizado o seguinte método laboratorial para efeitos do programa de vigilância da doença emaciante crónica:
+
+a) testes rápidos:
+
+b) testes de confirmação:
+
+— método imuno-histoquímico (IHC),
+
+— Western blot.
+
+c) caracterização de isolados:
+
+3.3. Por cada resultado positivo de EET nos cervídeos deve determinar-se o genótipo da proteína do prião.
+
+— é determinado o genótipo da proteína do prião do animal testado e considerado negativo para EET, ou
+
+— deve manter-se congelada uma amostra de tecido, que pode ser o obex, até, pelo menos, 31 de dezembro de 2021, a fim de permitir a genotipagem, se assim for decidido.
+
+Os Estados-Membros devem realizar vigilância adicional para as EET em cervídeos, com base numa avaliação dos riscos que pode ter em conta a deteção de uma EET em cervídeos na mesma região ou em regiões vizinhas.
+
+Os Estados-Membros que não os mencionados no ponto 1.1 da Parte A podem, a título facultativo, proceder à vigilância das EET em cervídeos.
+
+Após a conclusão do programa trienal de vigilância referido na parte A, os Estados-Membros mencionados no ponto 1.1 podem, a título facultativo, proceder à vigilância das EET em cervídeos.
+
+#### IV. VIGILÂNCIA DE OUTRAS ESPÉCIES ANIMAIS
+
+Os Estados-Membros podem, a título facultativo, proceder à vigilância das EET em espécies animais que não os bovinos, os ovinos, os caprinos e os cervídeos.
+
+### CAPÍTULO B
+
+### OBRIGAÇÕES EM MATÉRIA DE RELATÓRIO E REGISTO
+
+#### I. OBRIGAÇÕES DOS ESTADOS MEMBROS
+
+1. Número de casos suspeitos, por espécie animal, sujeitos a restrições oficiais de circulação em conformidade com o artigo 12.º, n.º 1.
+
+2. Número de casos suspeitos, por espécie animal, submetidos a análises laboratoriais em conformidade com o artigo 12.º, n.º 2, incluindo os resultados dos testes rápido e de confirmação (número de positivos e negativos) e, no caso dos bovinos, a repartição etária de todos os animais testados. A repartição etária deve ser agrupada do seguinte modo: «menos de 24 meses», de 12 em 12 meses entre os 24 e os 155 meses e «mais de 155 meses».
+
+3. Número de efetivos em que tenham sido notificados e examinados casos suspeitos em ovinos e caprinos, nos termos do artigo 12.º, n.^os^ 1 e 2.
+
+4. Número de bovinos testados em cada subpopulação, em conformidade com o capítulo A, parte I, pontos 2.1, 2.2, 3.1 e 5. Serão fornecidos o método que presidiu à seleção das amostras, os resultados dos testes rápido e de confirmação e a repartição etária dos animais testados, agrupados em conformidade com o disposto no ponto 2.
+
+5. Número de ovinos e caprinos e de efetivos testados em cada subpopulação, em conformidade com o disposto no capítulo A, parte II, pontos 2, 3, 5 e 6, juntamente com o método para a seleção das amostras e os resultados dos testes rápido e de confirmação.
+
+6. Repartição geográfica, incluindo país de origem, se diferente do país de notificação, dos casos positivos de EEB e tremor epizoótico. Para cada caso de EET em bovinos, ovinos e caprinos deve ser indicado o ano e, sempre que possível, o mês do nascimento. Os casos de EET considerados atípicos devem ser indicados. Para os casos de tremor epizoótico, farão objeto de relatório, quando adequado, os resultados das análises moleculares primária e secundária referidas no anexo X, capítulo C, ponto 3.2, alínea c).
+
+7. Em animais que não bovinos, ovinos e caprinos, bem como em cervídeos, com exceção dos abrangidos pelo programa trienal de vigilância da doença emaciante crónica referido no capítulo A, parte III, A, do presente anexo, o número de amostras e de casos confirmados de EET, por espécie.
+
+8. Genótipo e, sempre que possível, a raça de cada ovino e caprino com resultados positivos às EET e objeto de amostragem em conformidade com o disposto no capítulo A, parte II, ponto 8.
+
+9. Para os Estados-Membros abrangidos pelo programa trienal de vigilância da doença emaciante crónica referido no capítulo A, parte III, A, do presente anexo, o relatório anual para os anos de 2018, 2019 e 2020 deve incluir:
+
+a) o número de amostras de cervídeos submetidas a testes, por grupo-alvo, de acordo com os seguintes critérios:
+
+— identificador da unidade amostral primária (UAP),
+
+— espécie,
+
+— sistema de gestão: criação, em cativeiro, selvagem ou semidomesticado,
+
+— grupo-alvo,
+
+— sexo.
+
+b) os resultados dos testes rápidos e de confirmação (número de resultados positivos e negativos) e, quando aplicável, dos exames de caracterização de isolados, o tecido recolhido, bem como o teste rápido e a técnica de confirmação utilizados;
+
+c) a localização geográfica, incluindo o país de origem dos casos positivos de EET, se diferente do Estado-Membro declarante;
+
+d) o genótipo e a espécie de cada cervídeo que tenha tido resultados positivos no teste às EET;
+
+e) quando testado, o genótipo dos cervídeos testados e que tenham tido resultados negativos no teste às EET.
+
+O conjunto dos relatórios que contêm as informações referidas na secção A e que são apresentados mensalmente à Comissão (que os enviará à Autoridade Europeia para a Segurança dos Alimentos) no formato eletrónico acordado entre os Estados-Membros, a Comissão e a Autoridade Europeia para a Segurança dos Alimentos, ou trimestralmente no caso das informações referidas no ponto 8, pode constituir o relatório anual exigido nos termos do artigo 6.º, n.º 4, desde que as informações sejam atualizadas sempre que se disponha de novos dados.
+
+#### II. INFORMAÇÕES A APRESENTAR NO RELATÓRIO DE SÍNTESE DA UNIÃO
+
+O resumo será apresentado sob a forma de quadro e incluirá pelo menos as informações mencionadas na parte I.A em relação a cada Estado-Membro.
+
+A partir de 1 de janeiro de 2016, a Autoridade Europeia para a Segurança dos Alimentos analisará as informações referidas na parte I e publicará até ao final de novembro um relatório de síntese sobre as tendências e fontes das encefalopatias espongiformes transmissíveis na União.
+
+#### III. REGISTOS
+
+1. A autoridade competente deve conservar, durante sete anos, os registos das informações referidas na parte I.A.
+
+2. O laboratório que efetua os exames deve conservar, durante sete anos, todos os registos dos mesmos, em especial as fichas de laboratório e, quando adequado, blocos de parafina e fotografias de *western blots*.
+
+## ANEXO IV
+
+### ALIMENTOS PARA ANIMAIS
+
+#### CAPÍTULO I
+
+#### Extensão da proibição prevista no artigo 7.º, n.º 1
+
+Em conformidade com o artigo 7.º, n.º 2, a proibição prevista no artigo 7.º, n.º 1, será extensiva à alimentação:
+
+a) de ruminantes com fosfato dicálcico e fosfato tricálcico de origem animal e com alimentos compostos para animais que contenham esses produtos;
+
+b) de animais de criação não ruminantes, com exceção dos animais destinados à produção de peles com pelo, com:
+
+i) proteínas animais transformadas,
+
+ii) produtos derivados do sangue,
+
+iii) proteínas hidrolisadas de origem animal,
+
+iv) fosfato dicálcico e fosfato tricálcico de origem animal,
+
+v) alimentos para animais que contenham os produtos enumerados nas subalíneas i) a iv).
+
+#### CAPÍTULO II
+
+#### Derrogações às proibições previstas no artigo 7.º, n.º 1, e no capítulo I
+
+Em conformidade com o artigo 7.º, n.º 3, primeiro parágrafo, as proibições previstas no artigo 7.º, n.º 1, e no capítulo I não são aplicáveis à alimentação de:
+
+a) ruminantes com:
+
+i) leite, produtos à base de leite, produtos derivados do leite, colostro e produtos à base de colostro;
+
+ii) ovos e ovoprodutos,
+
+iii) colagénio e gelatina provenientes de não ruminantes,
+
+iv) proteínas hidrolisadas derivadas de:
+
+— partes de não ruminantes, ou
+
+— couros e peles de ruminantes,
+
+v) alimentos compostos para animais que contenham os produtos enumerados nas alíneas i) a iv) *supra*;
+
+b) animais de criação não ruminantes com as seguintes matérias-primas para a alimentação animal e alimentos compostos para animais:
+
+i) proteínas hidrolisadas derivadas de partes de não ruminantes ou de couros e peles de ruminantes,
+
+ii) farinha de peixe e alimentos compostos para animais que contenham farinha de peixe, produzidos, colocados no mercado e utilizados em conformidade com as condições gerais estabelecidas no capítulo III e com as condições específicas estabelecidas no capítulo IV, secção A,
+
+iii) fosfato dicálcico e fosfato tricálcico de origem animal e alimentos compostos para animais que contenham esses fosfatos, produzidos, colocados no mercado e utilizados em conformidade com as condições gerais estabelecidas no capítulo III e com as condições específicas estabelecidas no capítulo IV, secção B,
+
+iv) produtos derivados do sangue provenientes de não ruminantes e alimentos compostos para animais que contenham esses produtos, produzidos, colocados no mercado e utilizados em conformidade com as condições gerais estabelecidas no capítulo III e com as condições específicas estabelecidas no capítulo IV, secção C;
+
+c) animais de aquicultura com as seguintes matérias-primas para a alimentação animal e alimentos compostos para animais:
+
+i) proteínas animais transformadas provenientes de não ruminantes, com exceção da farinha de peixe e das proteínas animais transformadas provenientes de insetos de criação, e alimentos compostos para animais que contenham essas proteínas animais transformadas, produzidos, colocados no mercado e utilizados em conformidade com as condições gerais estabelecidas no capítulo III e com as condições específicas estabelecidas no capítulo IV, secção D;
+
+ii) proteínas animais transformadas provenientes de insetos de criação e alimentos compostos para animais que contenham essas proteínas animais transformadas, produzidos, colocados no mercado e utilizados em conformidade com as condições gerais estabelecidas no capítulo III e com as condições específicas estabelecidas no capítulo IV, secção F;
+
+d) ruminantes não desmamados com substitutos do leite que contenham farinha de peixe, produzidos, colocados no mercado e utilizados de acordo com as condições específicas estabelecidas no capítulo IV, secção E;
+
+e) animais de criação com matérias-primas de origem vegetal para a alimentação animal e com alimentos compostos para animais que contenham essas matérias, contaminadas com quantidades insignificantes de espículas de osso derivadas de espécies animais não autorizadas. Os Estados-Membros só podem utilizar esta derrogação se tiverem efetuado antecipadamente uma avaliação dos riscos que tenha confirmado que os riscos para a saúde animal são negligenciáveis. A avaliação dos riscos deve ter em conta, pelo menos, os seguintes elementos:
+
+i) o nível da contaminação,
+
+ii) a natureza e a fonte da contaminação,
+
+iii) a utilização prevista dos alimentos para animais contaminados;
+
+f) aves de capoeira com as seguintes matérias-primas para a alimentação animal e alimentos compostos para animais:
+
+i) proteínas animais transformadas provenientes de suínos e alimentos compostos para animais que contenham essas proteínas animais transformadas, produzidos, colocados no mercado e utilizados em conformidade com as condições gerais estabelecidas no capítulo III e com as condições específicas estabelecidas no capítulo IV, secção G,
+
+ii) proteínas animais transformadas provenientes de insetos de criação e alimentos compostos para animais que contenham essas proteínas animais transformadas, produzidos, colocados no mercado e utilizados em conformidade com as condições gerais estabelecidas no capítulo III e com as condições específicas estabelecidas no capítulo IV, secção F;
+
+g) suínos com as seguintes matérias-primas para a alimentação animal e alimentos compostos para animais:
+
+i) proteínas animais transformadas provenientes de aves de capoeira e alimentos compostos para animais que contenham essas proteínas animais transformadas, produzidos, colocados no mercado e utilizados em conformidade com as condições gerais estabelecidas no capítulo III e com as condições específicas estabelecidas no capítulo IV, secção H,
+
+ii) proteínas animais transformadas provenientes de insetos de criação e alimentos compostos para animais que contenham essas proteínas animais transformadas, produzidos, colocados no mercado e utilizados em conformidade com as condições gerais estabelecidas no capítulo III e com as condições específicas estabelecidas no capítulo IV, secção F.
+
+#### CAPÍTULO III
+
+#### Condições gerais para a aplicação de certas derrogações previstas no capítulo II
+
+1. Os seguintes produtos destinados a ser utilizados na alimentação de animais de criação não ruminantes devem ser transportados em veículos e contentores e armazenados em instalações de armazenagem que não sejam utilizados, respetivamente, no transporte ou na armazenagem de alimentos para ruminantes:
+
+a) Proteínas animais transformadas a granel provenientes de não ruminantes, incluindo farinha de peixe, proteínas animais transformadas provenientes de insetos de criação, proteínas animais transformadas provenientes de suínos e proteínas animais transformadas provenientes de aves de capoeira;
+
+b) Fosfato dicálcico e fosfato tricálcico a granel de origem animal;
+
+c) Produtos derivados do sangue a granel provenientes de não ruminantes;
+
+d) Alimentos compostos para animais a granel contendo as matérias-primas para alimentação animal enumeradas nas alíneas a), b) e c).
+
+2. Em derrogação ao disposto no ponto 1, os veículos, contentores e instalações de armazenagem que tenham sido anteriormente utilizados no transporte ou armazenagem dos produtos referidos nesse ponto podem ser posteriormente utilizados no transporte ou armazenagem de alimentos para ruminantes, desde que sejam limpos com antecedência a fim de evitar a contaminação cruzada, em conformidade com um procedimento documentado previamente autorizado pela autoridade competente.
+
+3. As unidades de armazenagem que armazenem em conformidade com o ponto 2 as matérias-primas para alimentação animal e os alimentos compostos para animais referidos no ponto 1 devem ser autorizadas pela autoridade competente com base na verificação da sua conformidade com os requisitos referidos no ponto 2.
+
+4. As proteínas animais transformadas a granel provenientes de suínos e os alimentos compostos para animais a granel que contenham essas proteínas animais transformadas devem ser transportados em veículos e contentores e armazenados em instalações de armazenagem que não sejam utilizados, respetivamente, para o transporte ou a armazenagem de alimentos destinados a animais de criação não ruminantes, com exceção dos animais de aquicultura e das aves de capoeira.
+
+5. Em derrogação do ponto 4, os veículos, contentores e instalações de armazenagem que tenham sido anteriormente utilizados no transporte ou armazenagem de proteínas animais transformadas a granel provenientes de suínos e dos alimentos compostos para animais a granel que contenham essas proteínas animais transformadas podem ser posteriormente utilizados no transporte ou armazenagem de alimentos para animais destinados a animais de criação não ruminantes, com exceção de animais de aquicultura e aves de capoeira, desde que sejam limpos com antecedência a fim de evitar a contaminação cruzada, em conformidade com um procedimento documentado previamente autorizado pela autoridade competente.
+
+6. As proteínas animais transformadas a granel provenientes de aves de capoeira e os alimentos compostos para animais a granel que contenham essas proteínas animais transformadas devem ser transportados em veículos e contentores e armazenados em instalações de armazenagem que não sejam utilizados, respetivamente, para o transporte ou a armazenagem de alimentos destinados a animais de criação não ruminantes, com exceção dos animais de aquicultura e dos suínos.
+
+7. Em derrogação do ponto 6, os veículos, contentores e instalações de armazenagem que tenham sido anteriormente utilizados no transporte ou armazenagem de proteínas animais transformadas a granel provenientes de aves de capoeira e dos alimentos compostos para animais a granel que contenham essas proteínas animais transformadas podem ser posteriormente utilizados no transporte ou armazenagem de alimentos para animais destinados a animais de criação não ruminantes, com exceção de animais de aquicultura e suínos, desde que sejam limpos com antecedência a fim de evitar a contaminação cruzada, em conformidade com um procedimento documentado previamente autorizado pela autoridade competente.
+
+8. As proteínas animais transformadas a granel provenientes de insetos de criação e os alimentos compostos para animais a granel que contenham essas proteínas animais transformadas devem ser transportados em veículos e contentores e armazenados em instalações de armazenagem que não sejam utilizados, respetivamente, para o transporte ou a armazenagem de alimentos destinados a animais de criação não ruminantes, com exceção dos animais de aquicultura, das aves de capoeira e dos suínos.
+
+9. Em derrogação do ponto 8, os veículos, contentores e instalações de armazenagem que tenham sido anteriormente utilizados no transporte ou armazenagem de proteínas animais transformadas a granel provenientes de insetos de criação e dos alimentos compostos para animais a granel que contenham essas proteínas animais transformadas podem ser posteriormente utilizados no transporte ou armazenagem de alimentos para animais destinados a animais de criação não ruminantes, com exceção de animais de aquicultura, aves de capoeira e suínos, desde que sejam limpos com antecedência a fim de evitar a contaminação cruzada, em conformidade com um procedimento documentado previamente autorizado pela autoridade competente.
+
+10. As proteínas animais transformadas a granel provenientes de não ruminantes, com exceção de farinha da peixe e de proteínas animais transformadas provenientes de aves de capoeira, suínos e insetos de criação, e os alimentos compostos para animais a granel que contenham essas proteínas animais transformadas devem ser transportados em veículos e contentores e armazenados em instalações de armazenagem que não sejam utilizados, respetivamente, para o transporte ou a armazenagem de alimentos destinados a animais de criação não ruminantes, com exceção dos animais de aquicultura.
+
+11. Em derrogação do ponto 10, os veículos, contentores e instalações de armazenagem que tenham sido anteriormente utilizados no transporte ou armazenagem dos produtos referidos nesse ponto podem ser posteriormente utilizados no transporte ou armazenagem de alimentos para animais destinados a animais de criação não ruminantes, com exceção de animais de aquicultura, desde que sejam limpos com antecedência a fim de evitar a contaminação cruzada, em conformidade com um procedimento documentado previamente autorizado pela autoridade competente.
+
+1. Os alimentos compostos para animais destinados a ser utilizados na alimentação de animais de criação não ruminantes e que contenham as seguintes matérias-primas para alimentação animal devem ser produzidos em estabelecimentos que não produzam alimentos compostos para ruminantes e que estejam autorizados pela autoridade competente:
+
+a) Farinha de peixe;
+
+b) Fosfato dicálcico e fosfato tricálcico de origem animal;
+
+c) Produtos derivados do sangue provenientes de não ruminantes.
+
+2. Em derrogação ao ponto 1, a produção de alimentos compostos para ruminantes em estabelecimentos que também produzam alimentos compostos para animais de criação não ruminantes que contenham os produtos enumerados no referido ponto pode ser autorizada pela autoridade competente, na sequência da realização, por essa autoridade, de uma inspeção no local e desde que sejam respeitadas as seguintes condições:
+
+a) Os alimentos compostos para ruminantes devem ser fabricados e mantidos, durante a armazenagem, o transporte e a embalagem, em instalações separadas fisicamente das instalações em que são fabricados e mantidos os alimentos compostos destinados a não ruminantes;
+
+b) Os registos detalhados das compras e das utilizações dos produtos enumerados no ponto 1 e das vendas de alimentos compostos para animais que contenham esses produtos devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos;
+
+c) Há que efetuar regularmente a colheita e análise de amostras dos alimentos compostos para ruminantes a fim de comprovar a ausência de constituintes de origem animal não autorizados, utilizando os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo dos alimentos para animais estabelecido no anexo VI do Regulamento (CE) n.º 152/2009 da Comissão ([^24^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0030)); a frequência da colheita e análise de amostras é determinada com base numa avaliação dos riscos levada a cabo pelo operador no âmbito dos seus procedimentos com base nos princípios de análise de riscos e pontos de controlo críticos (princípios HACCP – *Hazard Analysis and Critical Control Points*); os resultados dessa colheita e análise de amostras devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos.
+
+3. Em derrogação ao ponto 1, não é necessário atribuir uma autorização específica para a produção de alimentos completos a partir de alimentos compostos que contenham os produtos enumerados nesse ponto aos autoprodutores, desde que respeitem as seguintes condições:
+
+a) Estejam registados pela autoridade competente como produzindo alimentos completos para animais a partir de alimentos compostos para animais que contenham os produtos enumerados no ponto 1;
+
+b) Mantenham unicamente animais não ruminantes;
+
+c) Os alimentos compostos para animais que contenham farinha de peixe utilizados na produção do alimento completo contenham menos de 50 % de proteína bruta;
+
+d) Os alimentos compostos que contenham fosfato dicálcico e fosfato tricálcico de origem animal utilizados na produção do alimento completo contenham menos de 10 % de fósforo total;
+
+e) Os alimentos compostos para animais que contenham produtos derivados do sangue provenientes de não ruminantes utilizados na produção do alimento completo contenham menos de 50 % de proteína bruta.
+
+Antes da sua introdução em livre prática na União, os importadores devem assegurar que cada remessa das seguintes matérias-primas para a alimentação animal e de alimentos compostos para animais destinados a ser utilizados na alimentação de animais de criação não ruminantes – com exceção dos animais destinados à produção de peles com pelo, em conformidade com o capítulo II do presente anexo – é analisada em conformidade com os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo de alimentos para animais estabelecido no anexo VI do Regulamento (CE) n.º 152/2009, a fim de comprovar a ausência de constituintes de origem animal não autorizados:
+
+a) Proteínas animais transformadas provenientes de não ruminantes, incluindo farinha de peixe, proteínas animais transformadas provenientes de insetos de criação, proteínas animais transformadas provenientes de suínos e proteínas animais transformadas provenientes de aves de capoeira;
+
+b) Produtos derivados do sangue provenientes de não ruminantes;
+
+c) Alimentos compostos para animais que contenham as matérias-primas para alimentação animal enumeradas nas alíneas a) e b).
+
+1. A utilização e a armazenagem dos alimentos para animais a seguir indicados são proibidas em explorações que mantenham espécies de animais de criação às quais esses alimentos não sejam destinados:
+
+a) Proteínas animais transformadas provenientes de não ruminantes, incluindo farinha de peixe, proteínas animais transformadas provenientes de insetos de criação, proteínas animais transformadas provenientes de suínos e proteínas animais transformadas provenientes de aves de capoeira;
+
+b) Fosfato dicálcico e fosfato tricálcico de origem animal;
+
+c) Produtos derivados do sangue provenientes de não ruminantes;
+
+d) Alimentos compostos para animais que contenham as matérias-primas para alimentação animal enumeradas nas alíneas a) a c).
+
+2. Em derrogação ao ponto 1, a autoridade competente pode autorizar a utilização e a armazenagem dos alimentos compostos para animais referidos no ponto 1, alínea d), em explorações que mantenham espécies de animais de criação às quais esses alimentos compostos não se destinem, desde que sejam implementadas medidas internas na exploração para evitar que os mesmos sejam consumidos por uma espécie animal à qual não se destinam.
+
+#### CAPÍTULO IV
+
+#### Condições específicas para a aplicação das derrogações previstas no capítulo II
+
+As seguintes condições aplicam-se à produção e utilização de farinha de peixe e de alimentos compostos para animais que contenham farinha de peixe destinados a ser utilizados na alimentação de animais de criação não ruminantes, com exceção de animais destinados à produção de peles com pelo:
+
+a) A farinha de peixe deve ser produzida em unidades de transformação dedicadas exclusivamente à produção de produtos derivados de:
+
+i) animais aquáticos, exceto mamíferos marinhos,
+
+ii) invertebrados aquáticos de criação, com exceção dos abrangidos pela definição de «animal aquático» estabelecida no artigo 3.º, n.º 1, alínea e), da Diretiva 2006/88/CE, ou
+
+iii) estrelas-do-mar da espécie *Asterias rubens* que são colhidas numa zona de produção definida no anexo I, ponto 2.5, do Regulamento (CE) n.º 853/2004 e classificadas em conformidade;
+
+b) A menção «Farinha de peixe — não utilizar na alimentação de ruminantes, com exceção de ruminantes não desmamados» deve estar claramente indicada no documento comercial ou certificado sanitário de acompanhamento a que se refere o artigo 21.º, n.º 2, do Regulamento (CE) n.º 1069/2009, consoante o caso, bem como no rótulo da farinha de peixe.
+
+a) A menção «Fosfato dicálcico/fosfato tricálcico de origem animal — não utilizar na alimentação de ruminantes» deve estar claramente indicada no documento comercial ou certificado sanitário de acompanhamento a que se refere o artigo 21.º, n.º 2, do Regulamento (CE) n.º 1069/2009, consoante o caso, bem como no rótulo do fosfato dicálcico/fosfato tricálcico de origem animal;
+
+b) A menção «Contém fosfato dicálcico/fosfato tricálcico de origem animal — não utilizar na alimentação de ruminantes» deve estar claramente indicada no rótulo dos alimentos compostos que contenham fosfato dicálcico/fosfato tricálcico de origem animal.
+
+As seguintes condições específicas aplicam-se à produção e utilização de produtos derivados do sangue provenientes de não ruminantes e de alimentos compostos para animais que contenham esses produtos, destinados a ser utilizados na alimentação de animais de criação não ruminantes, com exceção de animais destinados à produção de peles com pelo:
+
+a) O sangue destinado a ser utilizado na produção de produtos derivados do sangue deve ser proveniente de matadouros que não abatam ruminantes e que estejam registados pela autoridade competente enquanto tal.
+
+i) o abate de não ruminantes deve ser efetuado em linhas de abate que se encontrem fisicamente separadas das linhas utilizadas no abate de ruminantes,
+
+ii) as instalações de colheita, armazenagem, transporte e embalagem do sangue de não ruminantes devem ser mantidas separadas das instalações utilizadas para o sangue de ruminantes,
+
+iii) há que efetuar regularmente a colheita e análise de amostras de sangue de não ruminantes para detetar a presença de proteínas de ruminantes. O método de análise utilizado deve ser cientificamente validado para esse efeito. A frequência da colheita e da análise deve ser determinada com base numa avaliação dos riscos, realizada pelo operador no âmbito dos seus procedimentos com base nos princípios HACCP;
+
+b) O sangue destinado a ser utilizado na produção de produtos derivados do sangue de não ruminantes deve ser transportado para uma unidade de transformação em veículos e contentores dedicados exclusivamente ao transporte de sangue de não ruminantes.
+
+c) Os produtos derivados do sangue devem ser produzidos em unidades de transformação que se dediquem exclusivamente à transformação de sangue de não ruminantes e registadas pela autoridade competente como dedicadas exclusivamente à transformação de sangue de não ruminantes.
+
+i) a produção de produtos derivados do sangue de não ruminantes deve ser realizada num sistema fechado que seja mantido fisicamente separado do sistema utilizado na produção de produtos derivados do sangue de ruminantes,
+
+ii) as instalações de colheita, armazenagem, transporte e embalagem de matéria-prima a granel e produtos acabados a granel provenientes de não ruminantes devem ser mantidas separadas das instalações de matéria-prima a granel e produtos acabados a granel provenientes de ruminantes,
+
+iii) há que aplicar um processo de reconciliação contínuo entre o sangue que entra, proveniente de ruminantes e de não ruminantes, respetivamente, e os correspondentes produtos derivados do sangue,
+
+iv) há que efetuar regularmente a colheita e análise de amostras de produtos derivados do sangue de não ruminantes a fim de comprovar a ausência de contaminação cruzada com produtos derivados do sangue de ruminantes, utilizando os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo dos alimentos para animais estabelecido no anexo VI do Regulamento (CE) n.º 152/2009; a frequência da colheita e análise de amostras é determinada com base numa avaliação dos riscos levada a cabo pelo operador no âmbito dos seus procedimentos com base nos princípios HACCP; os resultados dessa colheita e análise de amostras devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos;
+
+d) A menção «Produtos derivados do sangue de não ruminantes — não utilizar na alimentação de ruminantes» deve estar claramente indicada no documento comercial ou certificado sanitário de acompanhamento a que se refere o artigo 21.º, n.º 2, do Regulamento (CE) n.º 1069/2009, consoante o caso, bem como no rótulo dos produtos derivados do sangue de não ruminantes.
+
+As seguintes condições específicas aplicam-se à produção e à utilização de proteínas animais transformadas provenientes de não ruminantes, com exceção da farinha de peixe e das proteínas animais transformadas provenientes de insetos de criação, e de alimentos compostos para animais que contenham essas proteínas, destinados à alimentação de animais de aquicultura:
+
+a) Os subprodutos animais destinados a ser utilizados na produção das proteínas animais transformadas referidas na presente secção devem provir de um ou mais dos seguintes estabelecimentos:
+
+i) matadouros aprovados em conformidade com o artigo 4.º do Regulamento (CE) n.º 853/2004 que não abatam ruminantes e que estejam como tal registados pela autoridade competente,
+
+ii) instalações de desmancha aprovadas em conformidade com o artigo 4.º do Regulamento (CE) n.º 853/2004 que não desossem nem desmanchem carne de ruminantes e que estejam como tal registadas pela autoridade competente,
+
+iii) outros estabelecimentos, exceto os referidos em i) ou ii), registados ou aprovados em conformidade com o artigo 4.º do Regulamento (CE) n.º 853/2004 que não manipulem produtos provenientes de ruminantes e que estejam como tal registados pela autoridade competente,
+
+iv) estabelecimentos aprovados referidos no artigo 24.º, n.º 1, alíneas h) e i), do Regulamento (CE) n.º 1069/2009, registados pela autoridade competente como manipulando ou armazenando apenas subprodutos animais provenientes de não ruminantes de estabelecimentos referidos nas subalíneas i), ii) e iii).
+
+1) o abate de não ruminantes deve ser efetuado em linhas de abate que se encontrem fisicamente separadas das linhas utilizadas para o abate de ruminantes;
+
+2) os produtos de origem não ruminante devem ser manipulados em linhas de produção que se encontrem fisicamente separadas das linhas utilizadas para a manipulação de produtos de origem ruminante;
+
+3) as instalações de colheita, armazenagem, transporte e embalagem dos subprodutos animais de origem não ruminante devem ser mantidas separadas das instalações utilizadas para os subprodutos animais de origem ruminante;
+
+4) devem ser efetuadas regularmente a colheita e análise de amostras dos subprodutos animais de origem não ruminante para detetar a presença de proteínas de ruminantes. O método de análise utilizado deve ser cientificamente validado para esse efeito. A frequência da colheita e análise das amostras deve ser determinada com base numa avaliação dos riscos, realizada pelo operador no âmbito dos seus procedimentos baseados nos princípios HACCP;
+
+b) Os subprodutos animais de origem não ruminante destinados a ser utilizados na produção das proteínas animais transformadas referidas na presente secção devem ser transportados para uma unidade de transformação em veículos e contentores que não sejam utilizados no transporte de subprodutos animais de origem ruminante.
+
+c) [▼M59](http://publications.europa.eu/resource/celex/32017R0893)
+
+As proteínas animais transformadas referidas na presente secção devem ser produzidas em unidades de transformação que se dediquem exclusivamente à transformação de subprodutos animais de origem não ruminante provenientes dos matadouros, instalações de desmancha ou outros estabelecimentos referidos na alínea a). Essas unidades de transformação devem estar registadas pela autoridade competente como dedicadas exclusivamente à transformação de subprodutos animais de origem não ruminante.
+
+i) a produção de proteínas animais transformadas de origem ruminante deve ser realizada num sistema fechado que seja mantido fisicamente separado do sistema utilizado para a produção das proteínas animais transformadas referidas na presente secção,
+
+ii) os subprodutos animais de origem ruminante devem ser mantidos, durante a armazenagem e o transporte, em instalações fisicamente separadas das instalações utilizadas para os subprodutos animais de origem não ruminante,
+
+iii) as proteínas animais transformadas de origem ruminante devem ser mantidas, durante a armazenagem e o transporte, em instalações fisicamente separadas das instalações utilizadas para os produtos acabados de origem não ruminante,
+
+iv) há que efetuar regularmente a colheita e análise de amostras das proteínas animais transformadas referidas na presente secção, a fim de comprovar a ausência de contaminação cruzada com proteínas animais transformadas de origem ruminante, utilizando os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo dos alimentos para animais estabelecido no anexo VI do Regulamento (CE) n.º 152/2009; a frequência da colheita e análise de amostras é determinada com base numa avaliação dos riscos levada a cabo pelo operador no âmbito dos seus procedimentos com base nos princípios HACCP; os resultados dessa colheita e análise de amostras devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos;
+
+d) Os alimentos compostos para animais que contenham as proteínas animais transformadas referidas na presente secção devem ser produzidos em estabelecimentos autorizados para esse efeito pela autoridade competente e que se dediquem exclusivamente à produção de alimentos para animais de aquicultura.
+
+i) [▼M59](http://publications.europa.eu/resource/celex/32017R0893)
+
+a produção de alimentos compostos, que contenham as proteínas animais transformadas referidas na presente secção, para animais de aquicultura em estabelecimentos que também produzam alimentos compostos destinados a outros animais de criação, exceto animais destinados à produção de peles com pelo, pode ser autorizada pela autoridade competente na sequência da realização de uma inspeção no local e desde que sejam respeitadas as seguintes condições:
+
+— os alimentos compostos para ruminantes devem ser fabricados e mantidos, durante a armazenagem, o transporte e a embalagem, em instalações separadas fisicamente das instalações em que são fabricados e mantidos os alimentos compostos para não ruminantes,
+
+— os alimentos compostos para animais de aquicultura devem ser fabricados e mantidos, durante a armazenagem, o transporte e a embalagem, em instalações separadas fisicamente das instalações em que são fabricados e mantidos os alimentos compostos para outros não ruminantes,
+
+— os registos detalhados das compras e das utilizações das proteínas animais transformadas referidas na presente secção, assim como das vendas de alimentos compostos para animais que contenham essas proteínas devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos,
+
+— há que efetuar regularmente a colheita e análise de amostras dos alimentos compostos para animais de criação, com exceção dos animais de aquicultura, a fim de comprovar a ausência de constituintes de origem animal não autorizados, utilizando os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo dos alimentos para animais estabelecido no anexo VI do Regulamento (CE) n.º 152/2009; a frequência da colheita e da análise deve ser determinada com base numa avaliação do risco, realizada pelo operador no âmbito dos seus procedimentos com base nos princípios HACCP; os resultados devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos,
+
+ii) uma autorização específica para a produção de alimentos completos para animais a partir de alimentos compostos que contenham as proteínas animais transformadas referidas na presente secção não deve ser exigida aos autoprodutores que cumpram as seguintes condições:
+
+— estejam registados pela autoridade competente como produzindo alimentos completos para animais a partir de alimentos compostos que contenham proteínas animais transformadas provenientes de não ruminantes, com exceção da farinha de peixe e das proteínas animais transformadas provenientes de insetos de criação,
+
+— mantenham unicamente animais de aquicultura, e
+
+— utilizem na produção os alimentos compostos para animais contendo as proteínas animais transformadas referidas na presente secção com menos de 50 % de proteína bruta;
+
+e) O documento comercial ou certificado sanitário de acompanhamento a que se refere o artigo 21.º, n.º 2, do Regulamento (CE) n.º 1069/2009, consoante o caso, das proteínas animais transformadas referidas na presente secção, bem como o respetivo rótulo, devem ostentar claramente a menção: «Proteínas animais transformadas de origem não ruminante — não utilizar na alimentação de animais de criação, exceto animais de aquicultura e animais destinados à produção de peles com pelo».
+
+«Contém proteínas animais transformadas de origem não ruminante — não utilizar na alimentação de animais de criação, exceto animais de aquicultura e animais destinados à produção de peles com pelo».
+
+As seguintes condições específicas aplicam-se à produção, à colocação no mercado e à utilização de substitutos do leite que contenham farinha de peixe na alimentação de animais de criação não desmamados das espécies ruminantes:
+
+a) A farinha de peixe utilizada nos substitutos do leite deve ser produzida em unidades de transformação dedicadas exclusivamente à produção de produtos derivados de:
+
+i) animais aquáticos, exceto mamíferos marinhos,
+
+ii) invertebrados aquáticos de criação, com exceção dos abrangidos pela definição de «animal aquático» estabelecida no artigo 3.º, n.º 1, alínea e), da Diretiva 2006/88/CE, ou
+
+iii) estrelas-do-mar da espécie *Asterias rubens* que são colhidas numa zona de produção definida no anexo I, ponto 2.5, do Regulamento (CE) n.º 853/2004 e classificadas em conformidade.
+
+b) A menção «Farinha de peixe — não utilizar na alimentação de ruminantes, com exceção de ruminantes não desmamados» deve estar claramente indicada no documento comercial ou certificado sanitário de acompanhamento a que se refere o artigo 21.º, n.º 2, do Regulamento (CE) n.º 1069/2009, consoante o caso, bem como no rótulo da farinha de peixe destinada a ser utilizada nos substitutos do leite;
+
+c) A utilização de farinha de peixe para animais de criação não desmamados das espécies ruminantes só deve ser autorizada na produção de substitutos do leite, distribuídos no estado seco e administrados após diluição numa determinada quantidade de líquido, destinados à alimentação de ruminantes não desmamados em complemento ou substituição do leite pós-colostral antes de completado o desmame;
+
+d) Os substitutos do leite que contêm farinha de peixe destinados a animais de criação não desmamados das espécies ruminantes devem ser produzidos em estabelecimentos que não produzam outros alimentos compostos para ruminantes e que estejam autorizados para este efeito pela autoridade competente.
+
+i) os outros alimentos compostos para ruminantes devem, durante a armazenagem, o transporte e a embalagem, ser mantidos em instalações fisicamente separadas das instalações utilizadas para a farinha de peixe a granel e os substitutos do leite a granel que contenham farinha de peixe,
+
+ii) os outros alimentos compostos para ruminantes devem ser fabricados em instalações fisicamente separadas das instalações em que são fabricados os substitutos do leite que contêm farinha de peixe,
+
+iii) os registos detalhados das compras e das utilizações da farinha de peixe assim como das vendas de substitutos do leite que contenham farinha de peixe devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos,
+
+iv) há que efetuar regularmente a colheita e análise de amostras dos outros alimentos compostos para ruminantes a fim de comprovar a ausência de constituintes de origem animal não autorizados, utilizando os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo dos alimentos para animais estabelecidos no anexo VI do Regulamento (CE) n.º 152/2009; a frequência da colheita e da análise deve ser determinada com base numa avaliação do risco, realizada pelo operador no âmbito dos seus procedimentos com base nos princípios HACCP; os resultados devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos;
+
+e) Antes da sua introdução em livre prática na União, os importadores devem assegurar que cada remessa de substitutos do leite importados que contenham farinha de peixe é analisada em conformidade com os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo de alimentos para animais estabelecidos no anexo VI do Regulamento (CE) n.º 152/2009, a fim de comprovar a ausência de constituintes de origem animal não autorizados;
+
+f) O rótulo dos substitutos do leite que contenham farinha de peixe destinados a animais de criação não desmamados das espécies ruminantes deve ostentar claramente a menção «Contém farinha de peixe — não utilizar na alimentação de ruminantes, com exceção de ruminantes não desmamados»;
+
+g) Os substitutos do leite a granel que contenham farinha de peixe destinados a animais de criação não desmamados das espécies ruminantes devem ser transportados em veículos e contentores e armazenados em instalações de armazenagem que não sejam utilizados, respetivamente, no transporte ou armazenagem de outros alimentos destinados a ruminantes.
+
+h) Em explorações nas quais são mantidos ruminantes, devem estar em vigor medidas internas que impeçam a utilização de substitutos do leite contendo farinha de peixe na alimentação de outros ruminantes que não os desmamados. A autoridade competente deve estabelecer uma lista das explorações em que se utilizam substitutos do leite contendo farinha de peixe, através de um sistema de notificação prévia por parte das explorações ou de outro sistema que assegure o cumprimento desta condição específica.
+
+As seguintes condições específicas aplicam-se à produção e utilização de proteínas animais transformadas provenientes de insetos de criação e de alimentos compostos para animais que contenham essas proteínas animais transformadas, destinados à alimentação de animais de aquicultura, aves de capoeira e suínos:
+
+a) as proteínas animais transformadas provenientes de insetos de criação devem ser produzidas:
+
+i) em unidades de transformação aprovadas em conformidade com o artigo 24.º, n.º 1, alínea a), do Regulamento (CE) n.º 1069/2009 e dedicadas exclusivamente à produção de produtos provenientes de insetos de criação,
+
+ii) em conformidade com os requisitos estabelecidos no anexo X, capítulo II, secção 1, do Regulamento (UE) n.º 142/2011.
+
+— a produção de proteínas animais transformadas provenientes de ruminantes ou de não ruminantes, com exceção de insetos, deve ser realizada num sistema fechado que seja mantido fisicamente separado do sistema utilizado para a produção das proteínas animais transformadas provenientes de insetos de criação,
+
+— os subprodutos animais provenientes de ruminantes ou de não ruminantes, com exceção de insetos, devem ser mantidos, durante a armazenagem e o transporte, em instalações fisicamente separadas das instalações utilizadas para os subprodutos animais provenientes de insetos de criação;
+
+— as proteínas animais transformadas provenientes de ruminantes ou de não ruminantes, com exceção de insetos, devem ser mantidas, durante a armazenagem e a embalagem, em instalações fisicamente separadas das instalações utilizadas para os produtos acabados provenientes de insetos de criação,
+
+— devem ser efetuadas regularmente a colheita e análise de amostras das proteínas animais transformadas provenientes de insetos de criação para comprovar a ausência de contaminação cruzada com proteínas animais transformadas provenientes de ruminantes ou de outros não ruminantes, utilizando os métodos de análise para a determinação de constituintes de origem animal para o controlo dos alimentos para animais estabelecidos no anexo VI do Regulamento (CE) n.º 152/2009; a frequência da colheita e análise das amostras deve ser determinada com base numa avaliação dos riscos, realizada pelo operador no âmbito dos seus procedimentos com base nos princípios HACCP; os resultados dessa colheita e análise de amostras devem ser mantidos à disposição da autoridade competente durante um período de pelo menos cinco anos;
+
+b) os alimentos compostos para animais que contenham proteínas animais transformadas provenientes de insetos de criação devem ser produzidos em estabelecimentos:
+
+i) autorizados para o efeito pela autoridade competente,
+
+ii) dedicados à produção de alimentos para animais de aquicultura, aves de capoeira ou suínos.
+
+— estejam registados pela autoridade competente como produzindo alimentos completos para animais a partir de alimentos compostos que contenham proteínas animais transformadas provenientes de insetos de criação,
+
+— não detenham animais de criação, tal como definidos no artigo 3.º, ponto 6, alínea a), do Regulamento (CE) n.º 1069/2009, com exceção de animais de aquicultura, aves de capoeira, suínos ou animais destinados à produção de peles com pelo,
+
+— utilizem na respetiva produção alimentos compostos para animais contendo proteínas animais transformadas provenientes de insetos de criação com menos de 50% de proteína bruta.
+
+— os alimentos compostos para ruminantes devem ser fabricados e mantidos, durante a armazenagem, o transporte e a embalagem, em instalações separadas fisicamente das instalações em que são fabricados e mantidos os alimentos compostos para não ruminantes,
+
+— os alimentos compostos destinados a animais de aquicultura, aves de capoeira ou suínos devem ser fabricados e mantidos, durante a armazenagem, o transporte e a embalagem, em instalações separadas fisicamente das instalações em que são fabricados e mantidos os alimentos compostos para outros não ruminantes,
+
+— os registos detalhados das compras e das utilizações das proteínas animais transformadas provenientes de insetos de criação, assim como das vendas de alimentos compostos para animais que contenham essas proteínas devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos,
+
+— devem ser efetuadas regularmente a colheita e análise de amostras dos alimentos compostos para animais de criação, com exceção dos animais de aquicultura, aves de capoeira e suínos, para comprovar a ausência de constituintes de origem animal não autorizados, utilizando os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo dos alimentos para animais estabelecidos no anexo VI do Regulamento (CE) n.º 152/2009; a frequência da colheita e análise das amostras deve ser determinada com base numa avaliação do risco, realizada pelo operador no âmbito dos seus procedimentos baseados nos princípios HACCP; os resultados devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos;
+
+c) o documento comercial ou, conforme adequado, o certificado sanitário que acompanha as proteínas animais transformadas provenientes de insetos de criação, em conformidade com o artigo 21.º, n.º 2, do Regulamento (CE) n.º 1069/2009, o rótulo dessas proteínas animais transformadas provenientes de insetos de criação e o rótulo dos alimentos compostos para animais que contenham proteínas animais transformadas provenientes de insetos de criação devem ser claramente marcados em conformidade com o capítulo V, secção G, do presente anexo.
+
+As seguintes condições específicas aplicam-se à produção e utilização de proteínas animais transformadas provenientes de suínos e de alimentos compostos para animais que contenham essas proteínas, destinados à alimentação de aves de capoeira («proteínas animais transformadas provenientes de suínos»):
+
+a) os subprodutos animais destinados a ser utilizados na produção de proteínas animais transformadas provenientes de suínos devem provir de um ou mais dos seguintes estabelecimentos:
+
+i) matadouros aprovados em conformidade com o artigo 4.º do Regulamento (CE) n.º 853/2004 que não abatam ruminantes nem aves de capoeira e que estejam como tal registados pela autoridade competente,
+
+ii) instalações de desmancha aprovadas em conformidade com o artigo 4.º do Regulamento (CE) n.º 853/2004 que não desossem nem desmanchem carne de ruminantes nem de aves de capoeira e que estejam como tal registadas pela autoridade competente,
+
+iii) outros estabelecimentos, exceto os referidos em i) ou ii), registados ou aprovados em conformidade com o artigo 4.º do Regulamento (CE) n.º 853/2004 que não manipulem produtos provenientes de ruminantes nem de aves de capoeira e que estejam como tal registados pela autoridade competente,
+
+iv) estabelecimentos aprovados referidos no artigo 24.º, n.º 1, alíneas h) e i), do Regulamento (CE) n.º 1069/2009, registados pela autoridade competente como manipulando ou armazenando apenas subprodutos animais provenientes de não ruminantes de estabelecimentos referidos nas subalíneas i), ii) e iii).
+
+1) o abate de suínos deve ser efetuado em linhas de abate que se encontrem fisicamente separadas das linhas utilizadas para o abate de ruminantes ou de aves de capoeira;
+
+2) os produtos provenientes de suínos devem ser manipulados em linhas de produção que se encontrem fisicamente separadas das linhas utilizadas para a manipulação de produtos de provenientes de ruminante ou de aves de capoeira;
+
+3) as instalações de recolha, armazenagem, transporte e embalagem dos subprodutos animais provenientes de suínos devem ser mantidas separadas das instalações utilizadas para os subprodutos animais provenientes de ruminantes ou de aves de capoeira;
+
+4) devem ser efetuadas regularmente a colheita e análise de amostras dos subprodutos animais de origem suína para detetar a presença de proteínas de ruminantes ou de aves de capoeira. O método de análise utilizado deve ser cientificamente validado para esse efeito. A frequência da colheita e análise das amostras deve ser determinada com base numa avaliação dos riscos, realizada pelo operador no âmbito dos seus procedimentos baseados nos princípios HACCP;
+
+b) os subprodutos animais de origem suína destinados a ser utilizados na produção das proteínas animais transformadas provenientes de suínos devem ser transportados para uma unidade de transformação em veículos e contentores que não sejam utilizados no transporte de subprodutos animais provenientes de ruminantes ou de aves de capoeira.
+
+c) as proteínas animais transformadas provenientes de suínos devem ser produzidas em unidades de transformação:
+
+i) dedicadas à transformação de subprodutos obtidos em matadouros, instalações de desmancha ou outros estabelecimentos referidos na alínea a),
+
+ii) registadas pela autoridade competente como não transformando subprodutos de ruminantes ou de aves de capoeira.
+
+1) a produção de proteínas animais transformadas provenientes de ruminantes ou de aves de capoeira deve ser realizada num sistema fechado que seja mantido fisicamente separado do sistema utilizado para a produção das proteínas animais transformadas provenientes de suínos;
+
+2) os subprodutos animais provenientes de ruminantes e de aves de capoeira devem ser mantidos, durante a armazenagem e o transporte, em instalações fisicamente separadas das instalações utilizadas para os subprodutos animais provenientes de suínos;
+
+3) as proteínas animais transformadas provenientes de ruminante ou de aves de capoeira devem ser mantidas, durante a armazenagem e a embalagem, em instalações fisicamente separadas das instalações utilizadas para os produtos acabados provenientes de suínos;
+
+4) devem ser efetuadas regularmente a colheita e análise de amostras das proteínas animais transformadas provenientes de suínos para comprovar a ausência de contaminação cruzada com proteínas animais transformadas provenientes de ruminantes ou de aves de capoeira, utilizando os métodos de análise para a determinação de constituintes de origem animal para o controlo dos alimentos para animais estabelecidos no anexo VI do Regulamento (CE) n.º 152/2009; a frequência da colheita e análise das amostras deve ser determinada com base numa avaliação dos riscos, realizada pelo operador no âmbito dos seus procedimentos com base nos princípios HACCP; os resultados dessa colheita e análise de amostras devem ser mantidos à disposição da autoridade competente durante um período de pelo menos cinco anos;
+
+d) os alimentos compostos para animais que contenham proteínas animais transformadas provenientes de suínos devem ser produzidos em estabelecimentos:
+
+i) autorizados para o efeito pela autoridade competente,
+
+ii) exclusivamente dedicados à produção de alimentos para aves de capoeira, animais de aquicultura ou animais destinados à produção de peles com pelo.
+
+— estejam registados pela autoridade competente como produzindo alimentos completos para animais a partir de alimentos compostos que contenham proteínas animais transformadas provenientes de suínos,
+
+— não detenham animais de criação, tal como definidos no artigo 3.º, ponto 6, alínea a), do Regulamento (CE) n.º 1069/2009, com exceção de aves de capoeira, animais de aquicultura ou animais destinados à produção de peles com pelo,
+
+— utilizem na respetiva produção alimentos compostos para animais contendo proteínas animais transformadas provenientes de suínos com menos de 50% de proteína bruta.
+
+— os alimentos compostos para ruminantes devem ser fabricados e mantidos, durante a armazenagem, o transporte e a embalagem, em instalações separadas fisicamente das instalações em que são fabricados e mantidos os alimentos compostos para não ruminantes,
+
+— os alimentos compostos para suínos devem ser fabricados e mantidos, durante a armazenagem, o transporte e a embalagem, em instalações separadas fisicamente das instalações em que são fabricados e mantidos os alimentos compostos para outros não ruminantes,
+
+— os registos detalhados das compras e das utilizações das proteínas animais transformadas provenientes de suínos e das vendas de alimentos compostos para animais que contenham essas proteínas devem ser mantidos à disposição da autoridade competente durante um período de pelo menos cinco anos,
+
+— devem ser efetuadas regularmente a colheita e análise de amostras dos alimentos compostos para animais de criação, com exceção de aves de capoeira, animais de aquicultura e animais destinados à produção de peles com pelo, para comprovar a ausência de constituintes de origem animal não autorizados, utilizando os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo dos alimentos para animais estabelecidos no anexo VI do Regulamento (CE) n.º 152/2009; a frequência da colheita e análise das amostras deve ser determinada com base numa avaliação do risco, realizada pelo operador no âmbito dos seus procedimentos baseados nos princípios HACCP; os resultados devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos;
+
+e) o documento comercial ou, conforme adequado, o certificado sanitário que acompanha as proteínas animais transformadas provenientes de suínos, em conformidade com o artigo 21.º, n.º 2, do Regulamento (CE) n.º 1069/2009, o rótulo dessas proteínas animais transformadas provenientes de suínos e o rótulo dos alimentos compostos para animais que contenham proteínas animais transformadas provenientes de suínos devem ser claramente marcados em conformidade com o capítulo V, secção G, do presente anexo.
+
+As seguintes condições específicas aplicam-se à produção e utilização de proteínas animais transformadas provenientes de aves de capoeira e alimentos compostos para animais que contenham essas proteínas, destinados à alimentação de suínos («proteínas animais transformadas provenientes de aves de capoeira»):
+
+a) os subprodutos animais destinados a ser utilizados na produção de proteínas animais transformadas provenientes de aves de capoeira devem provir de um ou vários dos seguintes estabelecimentos:
+
+i) matadouros aprovados em conformidade com o artigo 4.º do Regulamento (CE) n.º 853/2004 que não abatam ruminantes nem suínos e que estejam como tal registados pela autoridade competente,
+
+ii) instalações de desmancha aprovadas em conformidade com o artigo 4.º do Regulamento (CE) n.º 853/2004 que não desossem nem desmanchem carne de ruminantes nem de suínos e que estejam como tal registadas pela autoridade competente,
+
+iii) outros estabelecimentos, exceto os referidos em i) ou ii), registados ou aprovados em conformidade com o artigo 4.º do Regulamento (CE) n.º 853/2004 que não manipulem produtos provenientes de ruminantes nem de suínos e que estejam como tal registados pela autoridade competente,
+
+iv) estabelecimentos aprovados referidos no artigo 24.º, n.º 1, alíneas h) e i), do Regulamento (CE) n.º 1069/2009, registados pela autoridade competente como manipulando ou armazenando apenas subprodutos animais provenientes de não ruminantes de estabelecimentos referidos nas subalíneas i), ii) e iii).
+
+1) o abate de aves de capoeira deve ser efetuado em linhas de abate que se encontrem fisicamente separadas das linhas utilizadas para o abate de ruminantes ou de suínos;
+
+2) os produtos provenientes de aves de capoeira devem ser manipulados em linhas de produção que se encontrem fisicamente separadas das linhas utilizadas para a manipulação de produtos provenientes de ruminantes ou de suínos;
+
+3) as instalações de recolha, armazenagem, transporte e embalagem dos subprodutos animais provenientes de aves de capoeira devem ser mantidas separadas das instalações utilizadas para os subprodutos animais provenientes de ruminantes ou de suínos;
+
+4) devem ser efetuadas regularmente a colheita e análise de amostras dos subprodutos animais provenientes de aves de capoeira para detetar a presença de proteínas de ruminantes ou de suínos. O método de análise utilizado deve ser cientificamente validado para esse efeito. A frequência da colheita e análise das amostras deve ser determinada com base numa avaliação dos riscos, realizada pelo operador no âmbito dos seus procedimentos baseados nos princípios HACCP;
+
+b) os subprodutos animais provenientes de aves de capoeira destinados a ser utilizados na produção das proteínas animais transformadas provenientes de aves de capoeira devem ser transportados para uma unidade de transformação em veículos e contentores que não sejam utilizados no transporte de subprodutos animais provenientes de ruminantes ou de suínos.
+
+c) as proteínas animais transformadas provenientes de aves de capoeira devem ser produzidas em unidades de transformação:
+
+i) dedicadas à transformação de subprodutos animais obtidos em matadouros, instalações de desmancha ou outros estabelecimentos referidos na alínea a),
+
+ii) registadas pela autoridade competente como não transformando subprodutos animais provenientes de ruminantes ou suínos.
+
+1) a produção de proteínas animais transformadas provenientes de ruminantes ou de suínos deve ser realizada num sistema fechado que seja mantido fisicamente separado do sistema utilizado para a produção das proteínas animais transformadas provenientes de aves de capoeira;
+
+2) os subprodutos animais provenientes de ruminantes e de suínos devem ser mantidos, durante a armazenagem e o transporte, em instalações fisicamente separadas das instalações utilizadas para os subprodutos animais provenientes de aves de capoeira;
+
+3) as proteínas animais transformadas provenientes de ruminantes ou de suínos devem ser mantidas, durante a armazenagem e a embalagem, em instalações fisicamente separadas das instalações utilizadas para os produtos acabados provenientes de aves de capoeira;
+
+4) devem ser efetuadas regularmente a colheita e análise de amostras das proteínas animais transformadas provenientes de aves de capoeira para comprovar a ausência de contaminação cruzada com proteínas animais transformadas provenientes de ruminantes ou de suínos, utilizando os métodos de análise para a determinação de constituintes de origem animal para o controlo dos alimentos para animais estabelecidos no anexo VI do Regulamento (CE) n.º 152/2009; a frequência da colheita e análise das amostras deve ser determinada com base numa avaliação dos riscos, realizada pelo operador no âmbito dos seus procedimentos com base nos princípios HACCP; os resultados dessa colheita e análise de amostras devem ser mantidos à disposição da autoridade competente durante um período de pelo menos cinco anos;
+
+d) os alimentos compostos para animais que contenham proteínas animais transformadas provenientes de aves de capoeira devem ser produzidos em estabelecimentos:
+
+i) autorizados para o efeito pela autoridade competente,
+
+ii) exclusivamente dedicados à produção de alimentos para suínos, animais de aquicultura ou animais destinados à produção de peles com pelo.
+
+— estejam registados pela autoridade competente como produzindo alimentos completos para animais a partir de alimentos compostos que contenham proteínas animais transformadas provenientes de aves de capoeira,
+
+— não detenham animais de criação, tal como definidos no artigo 3.º, ponto 6, alínea a), do Regulamento (CE) n.º 1069/2009, com exceção de suínos, animais de aquicultura ou animais destinados à produção de peles com pelo,
+
+— utilizem na respetiva produção alimentos compostos para animais contendo proteínas animais transformadas provenientes de aves de capoeira com menos de 50% de proteína bruta.
+
+— os alimentos compostos para ruminantes devem ser fabricados e mantidos, durante a armazenagem, o transporte e a embalagem, em instalações separadas fisicamente das instalações em que são fabricados e mantidos os alimentos compostos para não ruminantes,
+
+— os alimentos compostos para aves de capoeira devem ser fabricados e mantidos, durante a armazenagem, o transporte e a embalagem, em instalações separadas fisicamente das instalações em que são fabricados e mantidos os alimentos compostos para outros não ruminantes,
+
+— os registos detalhados das compras e das utilizações das proteínas animais transformadas provenientes de aves de capoeira e das vendas de alimentos compostos para animais que contenham essas proteínas devem ser mantidos à disposição da autoridade competente durante um período de pelo menos cinco anos,
+
+— devem ser efetuadas regularmente a colheita e análise de amostras dos alimentos compostos para animais de criação, com exceção de suínos, animais de aquicultura e animais destinados à produção de peles com pelo, para comprovar a ausência de constituintes de origem animal não autorizados, utilizando os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo dos alimentos para animais estabelecidos no anexo VI do Regulamento (CE) n.º 152/2009; a frequência da colheita e análise das amostras deve ser determinada com base numa avaliação do risco, realizada pelo operador no âmbito dos seus procedimentos baseados nos princípios HACCP; os resultados devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, cinco anos;
+
+e) o documento comercial ou, conforme adequado, o certificado sanitário que acompanha as proteínas animais transformadas provenientes de aves de capoeira, em conformidade com o artigo 21.º, n.º 2, do Regulamento (CE) n.º 1069/2009, o rótulo dessas proteínas animais transformadas provenientes de aves de capoeira e o rótulo dos alimentos compostos para animais que contenham proteínas animais transformadas provenientes de aves de capoeira devem ser claramente marcados em conformidade com o capítulo V, secção G, do presente anexo.
+
+#### CAPÍTULO V
+
+#### Requisitos gerais
+
+1. Os Estados Membros devem elaborar e disponibilizar ao público listas atualizadas de:
+
+a) matadouros registados como não abatendo ruminantes em conformidade com o capítulo IV, secção C, alínea a), primeiro parágrafo, bem como matadouros autorizados a partir dos quais se pode obter sangue produzido em conformidade com o capítulo IV, secção C, alínea a), segundo, terceiro e quarto parágrafos;
+
+b) matadouros, instalações de desmancha, outros estabelecimentos alimentares e estabelecimentos de subprodutos animais registados como, respetivamente, não dedicados ao abate de ruminantes, não dedicados à desossa ou ao corte de carne de ruminantes, não dedicados ao manuseamento de produtos provenientes de ruminantes, e apenas manuseando ou armazenando subprodutos animais desses estabelecimentos alimentares, a partir dos quais se pode obter subprodutos animais destinados à produção de proteínas animais transformadas provenientes de não ruminantes em conformidade com o capítulo IV, secção D, alínea a), primeiro parágrafo, bem como de matadouros, instalações de desmancha e outros estabelecimentos alimentares autorizados a partir dos quais se pode obter subprodutos animais destinados a serem utilizados para a produção de proteínas animais transformadas provenientes de não ruminantes em conformidade com o capítulo IV, secção D, alínea a), segundo, terceiro e quarto parágrafos;
+
+c) matadouros, instalações de desmancha e outros estabelecimentos alimentares e estabelecimentos de subprodutos animais registados como, respetivamente, não dedicados ao abate de ruminantes e aves de capoeira, não dedicados à desossa ou ao corte de carne de ruminantes e de aves de capoeira, não dedicados ao manuseamento de produtos provenientes de ruminantes e de aves de capoeira, e apenas manuseando ou armazenado subprodutos animais desses estabelecimentos alimentares, a partir dos quais se pode obter subprodutos animais destinados à produção de proteínas animais transformadas provenientes de suínos em conformidade com o capítulo IV, secção G, alínea a), primeiro parágrafo, bem como de matadouros, instalações de desmancha e outros estabelecimentos alimentares autorizados a partir dos quais se pode obter subprodutos animais destinados a serem utilizados para a produção de proteínas animais transformadas provenientes suínos em conformidade com o capítulo IV, secção G, alínea a), segundo, terceiro e quarto parágrafos;
+
+d) matadouros, instalações de desmancha e outros estabelecimentos alimentares e estabelecimentos de subprodutos animais registados como, respetivamente, não dedicados ao abate de ruminantes e suínos, não dedicados à desossa ou ao corte de carne de ruminantes e de suínos, não dedicados ao manuseamento de produtos provenientes de ruminantes e de suínos, e apenas manuseando ou armazenando subprodutos animais desses estabelecimentos alimentares, a partir dos quais se pode obter subprodutos animais destinados à produção de proteínas animais transformadas provenientes de aves de capoeira em conformidade com o capítulo IV, secção H, alínea a), primeiro parágrafo, bem como de matadouros, instalações de desmancha e outros estabelecimentos alimentares autorizados a partir dos quais se pode obter subprodutos animais destinados a serem utilizados para a produção de proteínas animais transformadas provenientes aves de capoeira em conformidade com o capítulo IV, secção H, alínea a), segundo, terceiro e quarto parágrafos;
+
+e) unidades de transformação registadas como dedicadas exclusivamente à transformação de sangue de não ruminantes em conformidade com o capítulo IV, secção C, alínea c), primeiro parágrafo, bem como de unidades de transformação autorizadas que produzam produtos derivados do sangue em conformidade com o capítulo IV, secção C, alínea c), segundo, terceiro e quarto parágrafos;
+
+f) unidades de transformação registadas como não dedicadas à transformação de subprodutos animais provenientes de ruminantes, em conformidade com o capítulo IV, secção D, alínea c), primeiro parágrafo, bem como de unidades de transformação autorizadas que produzam proteínas animais transformadas provenientes de não ruminantes que funcionem em conformidade com o capítulo IV, secção D, alínea c), segundo, terceiro e quarto parágrafos;
+
+g) unidades de transformação registadas como não dedicadas à transformação de subprodutos animais provenientes de ruminantes e de aves de capoeira, em conformidade com o capítulo IV, secção G, alínea c), primeiro parágrafo, bem como de unidades de transformação autorizadas que produzam proteínas animais transformadas provenientes de suínos que funcionem em conformidade com o capítulo IV, secção G, alínea c), segundo, terceiro e quarto parágrafos;
+
+h) unidades de transformação registadas como não dedicadas à transformação de subprodutos animais provenientes de ruminantes e de suínos, em conformidade com o capítulo IV, secção H, alínea c), primeiro parágrafo, bem como de unidades de transformação autorizadas que produzam proteínas animais transformadas provenientes de aves de capoeira que funcionem em conformidade com o capítulo IV, secção H, alínea c), segundo, terceiro e quarto parágrafos;
+
+i) estabelecimentos autorizados de alimentos compostos para animais que produzam, em conformidade com o capítulo III, secção B, alimentos compostos para animais que contenham farinha de peixe, fosfato dicálcico e fosfato tricálcico de origem animal e produtos derivados do sangue de não ruminantes;
+
+j) estabelecimentos autorizados de alimentos compostos para animais que produzam, em conformidade com o capítulo IV, secção D, alínea d), alimentos compostos para animais que contenham proteínas animais transformadas provenientes de não ruminantes, bem como de estabelecimentos autorizados de alimentos compostos para animais que produzam, em conformidade com o capítulo V, secção E, ponto 3, alínea b), subalínea ii), exclusivamente alimentos compostos para animais destinados à exportação a partir da União ou alimentos compostos para animais destinados à exportação a partir da União e alimentos compostos para animais de aquicultura destinados a ser colocados no mercado;
+
+k) estabelecimentos autorizados de alimentos compostos para animais que produzam, em conformidade o capítulo IV, secção E, alínea d), substitutos do leite que contenham farinha de peixe destinados a animais de criação não desmamados de espécies ruminantes;
+
+l) estabelecimentos autorizados de alimentos compostos para animais que produzam, em conformidade com o capítulo IV, secção F, alínea b), alimentos compostos para animais que contenham proteínas animais transformadas provenientes de insetos de criação;
+
+m) estabelecimentos autorizados de alimentos compostos para animais que produzam, em conformidade com o capítulo IV, secção G, alínea d), alimentos compostos para animais que contenham proteínas animais transformadas provenientes de suínos e destinados a aves de capoeira;
+
+n) estabelecimentos autorizados de alimentos compostos para animais que produzam, em conformidade com o capítulo IV, secção H, alínea d), alimentos compostos para animais que contenham proteínas animais transformadas provenientes de aves de capoeira e destinados a suínos;
+
+o) unidades de armazenagem autorizadas em conformidade com o capítulo III, secção A, ponto 3, ou em conformidade com o capítulo V, secção E, ponto 3, alínea d), terceiro parágrafo.
+
+2. Os Estados-Membros devem manter listas atualizadas dos autoprodutores registados em conformidade com o capítulo III, secção B, ponto 3, e com o capítulo IV, secção D, alínea d), subalínea ii), secção F, alínea b), subalínea ii), secção G, alínea d), subalínea ii), e secção H, alínea d), subalínea ii).
+
+1. As matérias-primas para alimentação animal a granel e os alimentos compostos para animais a granel que contenham produtos provenientes de ruminantes, com exceção dos enumerados nas alíneas a) a d) seguintes, devem ser transportados em veículos e contentores e armazenados em instalações de armazenagem que não sejam utilizados, respetivamente, no transporte ou armazenagem de alimentos para animais de criação, com exceção de animais destinados à produção de peles com pelo:
+
+a) Leite, produtos à base de leite, produtos derivados do leite, colostro e produtos à base de colostro;
+
+b) Fosfato dicálcico e fosfato tricálcico de origem animal;
+
+c) Proteínas hidrolisadas derivadas de couros e peles de ruminantes;
+
+d) Gorduras fundidas provenientes de ruminantes, com um nível máximo de impurezas insolúveis de 0,15 %, em peso, e os derivados dessas gorduras.
+
+2. Em derrogação ao disposto no ponto 1, os veículos, contentores e instalações de armazenagem que tenham sido anteriormente utilizados no transporte ou armazenagem das matérias-primas para alimentação animal a granel e dos alimentos compostos para animais a granel enumerados nesse ponto podem ser utilizados no transporte ou armazenagem de alimentos destinados a animais de criação, à exceção de animais destinados à produção de peles com pelo, desde que sejam limpos com antecedência a fim de evitar a contaminação cruzada, em conformidade com um procedimento documentado previamente autorizado pela autoridade competente.
+
+1. Os alimentos compostos destinados a animais produtores de peles com pelo ou a animais de companhia que contêm produtos provenientes de ruminantes, com exceção dos enumerados nas alíneas a) a d) seguintes, não devem ser produzidos em estabelecimentos que produzam alimentos para animais de criação, com exceção de animais destinados à produção de peles com pelo:
+
+a) Leite, produtos à base de leite, produtos derivados do leite, colostro e produtos à base de colostro;
+
+b) Fosfato dicálcico e fosfato tricálcico de origem animal;
+
+c) Proteínas hidrolisadas derivadas de couros e peles de ruminantes;
+
+d) Gorduras fundidas provenientes de ruminantes, com um nível máximo de impurezas insolúveis de 0,15 %, em peso, e os derivados dessas gorduras.
+
+2. Os alimentos compostos para animais destinados à produção de peles com pelo ou para animais de companhia, que contenham proteínas animais transformadas provenientes de não ruminantes, não podem ser produzidos em estabelecimentos que produzam alimentos para animais de criação, com exceção de animais destinados à produção de peles com pelo ou de animais de aquicultura.
+
+3. Em derrogação do disposto no ponto 2:
+
+i) os alimentos compostos para animais destinados à produção de peles com pelo ou para animais de companhia, que contenham farinha de peixe, podem ser produzidos em estabelecimentos que produzam alimentos para animais de criação não ruminantes e substitutos do leite para a alimentação de ruminantes não desmamados,
+
+ii) os alimentos compostos para animais destinados à produção de peles com pelo ou para animais de companhia, que contenham proteínas animais transformadas provenientes de insetos de criação, podem ser produzidos em estabelecimentos que produzam alimentos para aves de capoeira ou suínos, desde que as proteínas animais transformadas provenientes de insetos de criação cumpram o disposto no capítulo IV, secção F, alínea a),
+
+iii) os alimentos compostos para animais destinados à produção de peles com pelo ou para animais de companhia, que contenham proteínas animais transformadas provenientes de suínos, podem ser produzidos em estabelecimentos que produzam alimentos para aves de capoeira, desde que as proteínas animais transformadas provenientes de suínos cumpram o disposto no capítulo IV, secção G, alíneas a), b) e c),
+
+iv) os alimentos compostos para animais destinados à produção de peles com pelo ou para animais de companhia, que contenham proteínas animais transformadas provenientes de aves de capoeira, podem ser produzidos em estabelecimentos que produzam alimentos para suínos, desde que as proteínas animais transformadas provenientes de aves de capoeira cumpram o disposto no capítulo IV, secção H, alíneas a), b) e c).
+
+A utilização e a armazenagem de matérias-primas para a alimentação animal e de alimentos compostos para animais de criação que contenham produtos provenientes de ruminantes, com exceção dos enumerados nas alíneas a) a d), deve ser proibida em explorações que mantenham animais de criação, exceto animais destinados à produção de peles com pelo:
+
+a) Leite, produtos à base de leite, produtos derivados do leite, colostro e produtos à base de colostro;
+
+b) Fosfato dicálcico e fosfato tricálcico de origem animal;
+
+c) Proteínas hidrolisadas derivadas de couros e peles de ruminantes;
+
+d) Gorduras fundidas provenientes de ruminantes, com um nível máximo de impurezas insolúveis de 0,15 %, em peso, e os derivados dessas gorduras.
+
+1. A exportação de proteínas animais transformadas provenientes de ruminantes, ou de proteínas animais transformadas provenientes de ruminantes e de não ruminantes, é sujeita ao cumprimento das seguintes condições:
+
+a) As proteínas animais transformadas devem ser transportadas em contentores selados, diretamente da unidade de transformação onde são produzidas até ao ponto de saída do território da União, que deve ser de um posto de inspeção fronteiriço constante do anexo I da Decisão 2009/821/CE da Comissão ([^25^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0031)). Antes de sair do território da União, o operador responsável pela organização do transporte das proteínas animais transformadas deve informar a autoridade competente desse posto de inspeção fronteiriço da chegada da remessa ao ponto de saída;
+
+b) A remessa deve ser acompanhada de um documento comercial devidamente preenchido, apresentado de acordo com o modelo estabelecido no anexo VIII, capítulo III, ponto 6, do Regulamento (UE) n.º 142/2011 e emitido a partir do sistema informático veterinário integrado (TRACES) introduzido pela Decisão 2004/292/CE da Comissão ([^26^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0032)). Nesse documento comercial, o posto de inspeção fronteiriço de saída deve ser indicado como ponto de saída na casa I.28;
+
+c) Quando a remessa chegar ao ponto de saída, a autoridade competente do posto de inspeção fronteiriço deve verificar o selo de cada um dos contentores apresentados no posto de inspeção fronteiriço.
+
+d) A autoridade competente responsável pelo estabelecimento de origem deve efetuar controlos oficiais regulares, a fim de verificar a correta aplicação das alíneas a) e b) e de verificar se, para cada remessa de proteínas animais transformadas de origem ruminante destinada à exportação, a confirmação do controlo efetuado no ponto de saída foi recebida da autoridade competente do posto de inspeção fronteiriço, através do sistema TRACES.
+
+2. Sem prejuízo do disposto no ponto 1, a exportação de produtos que contenham proteínas animais transformadas provenientes de ruminantes deve ser proibida.
+
+a) Aos alimentos transformados para animais de companhia que contenham proteínas animais transformadas provenientes de ruminantes, que:
+
+i) tenham sido transformados em estabelecimentos ou instalações aprovados em conformidade com o artigo 24.º, n.º 1, alínea e), do Regulamento (CE) n.º 1069/2009, e
+
+ii) sejam embalados e rotulados em conformidade com a legislação da União.
+
+b) [▼M74](http://publications.europa.eu/resource/celex/32024R0887)
+
+Aos fertilizantes orgânicos ou corretivos orgânicos do solo, tal como definidos no artigo 3.º, ponto 22, do Regulamento (CE) n.º 1069/2009, que contenham na sua composição proteínas animais transformadas provenientes de ruminantes ou uma mistura de proteínas animais transformadas provenientes de ruminantes e não ruminantes, desde que tenham atingido o ponto final, tal como definido no artigo 4, n.º 1, alínea c), ou no artigo 4, n.º 2, do Regulamento Delegado (UE) 2023/1605 da Comissão ([^27^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0033)), ou:
+
+i) não contenham matérias da categoria 1 e produtos delas derivados ou matérias da categoria 2 e produtos delas derivados, exceto chorume, tal como definido no artigo 3.º, ponto 20, do Regulamento (CE) n.º 1069/2009, transformado em conformidade com as regras para a colocação no mercado de chorume transformado, estabelecidas no anexo XI, capítulo I, secção 2, alíneas a), b), d) e e), do Regulamento (UE) n.º 142/2011 da Comissão,
+
+ii) as proteínas animais transformadas contidas nos fertilizantes orgânicos ou nos corretivos orgânicos do solo cumpram os requisitos específicos descritos no anexo X, capítulo II, secção 1, do Regulamento (UE) n.º 142/2011,
+
+iii) os fertilizantes orgânicos ou os corretivos orgânicos do solo podem conter outras matérias da categoria 3 que tenham sido transformadas em conformidade com:
+
+— qualquer dos métodos de processamento 1 a 7 referidos no anexo IV, capítulo III, do Regulamento (UE) n.º 142/2011 ou
+
+— os requisitos estabelecidos no anexo V, capítulo III, secção 1, do Regulamento (UE) n.º 142/2011, no caso de composto ou de resíduos da digestão provenientes da transformação de subprodutos animais em biogás, ou
+
+— os requisitos específicos estabelecidos no anexo XIII do Regulamento (UE) n.º 142/2011, caso essas matérias possam ser utilizadas para fertilizantes orgânicos e corretivos orgânicos do solo em conformidade com esse regulamento,
+
+iv) tenham sido produzidos em estabelecimentos ou instalações aprovados em conformidade com o artigo 24.º, n.º 1, alínea f), do Regulamento (CE) n.º 1069/2009,
+
+v) sejam misturados com uma proporção suficiente de um componente, autorizado pela autoridade competente do Estado-Membro onde são produzidos os fertilizantes orgânicos ou os corretivos orgânicos do solo, que diminua a palatabilidade do produto para os animais ou seja de outro modo eficaz para impedir uma má utilização da mistura para efeitos de alimentação de animais. Este componente deve ser misturado com os fertilizantes orgânicos ou os corretivos orgânicos do solo na instalação que os fabrica ou numa instalação registada para esse fim em conformidade com o anexo XI, capítulo II, secção 1, ponto 2, do Regulamento (UE) n.º 142/2011.
+
+vi) tenham sido transformados para assegurar a descontaminação de agentes patogénicos, em conformidade com o anexo XI, capítulo II, secção 1, ponto 5, do Regulamento (UE) n.º 142/2011,
+
+vii) apresentem um rótulo, afixado na embalagem ou recipiente, ostentando a menção «fertilizantes orgânicos ou corretivos orgânicos do solo — não permitir o pastoreio ou a utilização de culturas como forragem durante pelo menos 21 após a aplicação»,
+
+viii) sejam exportados em conformidade com as seguintes condições:
+
+— devem ser transportados em contentores selados, diretamente da instalação que fabrica os fertilizantes orgânicos ou os corretivos orgânicos do solo ou da instalação registada onde o componente que diminui a palatabilidade do produto para os animais é adicionado, até ao ponto de saída do território da União, que deve ser um posto de controlo fronteiriço enumerado no anexo I da Decisão 2009/821/CE da Comissão. Antes da saída do território da União, o operador responsável pela organização do transporte dos fertilizantes orgânicos ou dos corretivos orgânicos do solo deve informar a autoridade competente desse posto de controlo fronteiriço da chegada da remessa ao ponto de saída,
+
+— a remessa deve ser acompanhada de um documento comercial devidamente preenchido, elaborado de acordo com o modelo estabelecido no anexo VIII, capítulo III, ponto 6, do Regulamento (UE) n.º 142/2011 e emitido a partir do sistema informático veterinário integrado (TRACES) introduzido pela Decisão 2004/292/CE da Comissão. Nesse documento comercial, o posto de controlo fronteiriço de saída deve ser indicado na casa I.28,
+
+— quando a remessa chegar ao ponto de saída, a autoridade competente do posto de controlo fronteiriço deve, com base no risco, verificar o selo dos contentores apresentados no posto de controlo fronteiriço. Se o selo for verificado e a verificação não for satisfatória, a remessa deve ser destruída ou reexpedida para o estabelecimento de origem, indicado na casa I.12 do documento comercial,
+
+— a autoridade competente do posto de controlo fronteiriço deve, através do sistema TRACES, informar a autoridade competente indicada na casa I.4 do documento comercial da chegada da remessa ao ponto de saída e, se for caso disso, dos resultados da verificação do selo e das eventuais medidas corretivas adotadas,
+
+— a autoridade competente responsável pela instalação de fabrico de origem ou pela instalação registada em que o componente que diminui a palatabilidade do produto para os animais é adicionado deve realizar controlos oficiais baseados no risco, a fim de verificar a conformidade com o primeiro e segundo travessões e verificar se, para cada remessa exportada de fertilizantes orgânicos e de corretivos orgânicos do solo que contenham na sua composição proteínas animais transformadas provenientes de ruminantes ou uma mistura de proteínas animais transformadas de ruminantes e de não ruminantes, foi recebida da autoridade competente do posto de controlo fronteiriço, através do sistema TRACES, a confirmação do controlo efetuado no ponto de saída.
+
+3. A exportação de proteínas animais transformadas provenientes de não ruminantes, ou de alimentos compostos para animais que contenham essas proteínas, é sujeita ao cumprimento das seguintes condições:
+
+a) as proteínas animais transformadas provenientes de não ruminantes devem ser produzidas em unidades de transformação que cumpram os requisitos do capítulo IV, secção D, alínea c), ou do capítulo IV, secção F, alínea a), subalínea i), ou do capítulo IV, secção G, alínea c), ou do capítulo IV, secção H, alínea c);
+
+b) os alimentos compostos para animais que contenham proteínas animais transformadas provenientes de não ruminantes devem ser produzidos em estabelecimentos de alimentos compostos para animais que:
+
+i) procedam à produção em conformidade com o capítulo IV, secção D, alínea d), ou com o capítulo IV, secção F, alínea b), ou com o capítulo IV, secção G, alínea d), ou com o capítulo IV, secção H, alínea d), ou
+
+ii) obtenham as proteínas animais transformadas utilizadas em alimentos compostos para animais destinados à exportação em unidades de transformação que estejam em conformidade com o disposto na alínea a), e:
+
+— se dediquem exclusivamente à produção de alimentos compostos para animais destinados à exportação a partir da União e estejam autorizadas para esse efeito pela autoridade competente, ou
+
+— se dediquem exclusivamente à produção de alimentos compostos para animais destinados à exportação a partir da União e à produção de alimentos compostos para animais de aquicultura, aves de capoeira ou suínos a ser colocados no mercado na União, e estejam autorizadas para esse efeito pela autoridade competente;
+
+c) os alimentos compostos para animais que contenham proteínas animais transformadas provenientes de não ruminantes devem ser embalados e rotulados em conformidade com a legislação da União ou com os requisitos legais do país de importação. Sempre que os alimentos compostos para animais que contenham proteínas animais transformadas provenientes de não ruminantes não estejam rotulados em conformidade com a legislação da União, a seguinte menção deve ser indicada no rótulo: «Contém proteínas animais transformadas provenientes de não ruminantes»;
+
+d) as proteínas animais transformadas a granel provenientes de não ruminantes e os alimentos compostos para animais a granel que contenham essas proteínas, e se destinem à exportação a partir da União, devem ser transportados em veículos e contentores e armazenados em instalações de armazenagem que não sejam utilizados, respetivamente, no transporte ou armazenagem de alimentos para animais para colocação no mercado e destinados à alimentação de animais de criação ruminantes ou não ruminantes, com exceção dos animais de aquicultura. Os registos com pormenores sobre o tipo de produtos que foram transportados ou armazenados devem ser mantidos à disposição da autoridade competente durante um período de, pelo menos, dois anos.
+
+4. Em derrogação ao ponto 3, as condições nele previstas não são aplicáveis:
+
+a) Aos alimentos para animais de companhia que contêm proteínas animais transformadas provenientes de não ruminantes e que foram transformados em estabelecimentos de alimentos para animais de companhia aprovados em conformidade com o artigo 24.º do Regulamento (CE) n.º 1069/2009 e que são embalados e rotulados em conformidade com a legislação da União;
+
+b) À farinha de peixe, desde que seja produzida em conformidade com o presente anexo;
+
+c) Às proteínas animais transformadas provenientes de insetos de criação, desde que sejam produzidas em conformidade com o presente anexo;
+
+d) Aos alimentos compostos para animais que não contenham outras proteínas animais transformadas além da farinha de peixe e às proteínas animais transformadas provenientes de insetos de criação, desde que sejam produzidos em conformidade com o presente anexo;
+
+e) Às proteínas animais transformadas provenientes de não ruminantes destinadas ao fabrico de alimentos para animais de companhia ou de fertilizantes orgânicos e corretivos orgânicos do solo no país terceiro de destino, desde que, antes da exportação, o exportador assegure que cada remessa de proteínas animais transformadas é analisada em conformidade com o método de análise constante do ponto 2.2 do anexo VI do Regulamento (CE) n.º 152/2009, a fim de comprovar a ausência de constituintes de origem ruminante.
+
+5. A exportação de fertilizantes orgânicos ou de corretivos orgânicos do solo que contenham na sua composição proteínas animais transformadas provenientes apenas de não ruminantes e que não contenham matérias de origem ruminante deve estar subordinada ao cumprimento das seguintes condições:
+
+a) Aplicam-se os requisitos estabelecidos no ponto 2, alínea b), subalíneas i), ii), iii), iv), v), vi) e vii) da presente secção. As condições estabelecidas no ponto 2, alínea b), subalíneas v) e vii), não são aplicáveis aos fertilizantes orgânicos nem aos corretivos orgânicos do solo em embalagens prontas para venda com um peso não superior a 50 kg para utilização pelo consumidor final;
+
+b) As proteínas animais transformadas provenientes de não ruminantes contidas nos fertilizantes orgânicos ou nos corretivos orgânicos do solo devem ser produzidas em unidades de transformação que preencham os requisitos do capítulo IV, secção D, alínea c), e que constem da lista prevista no capítulo V, secção A, ponto 1, alínea d);
+
+c) Os fertilizantes orgânicos ou os corretivos orgânicos do solo foram produzidos em estabelecimentos ou instalações exclusivamente dedicados à transformação de fertilizantes orgânicos ou de corretivos orgânicos do solo que não contenham matérias provenientes de ruminantes.
+
+d) Os fertilizantes orgânicos ou os corretivos orgânicos do solo são transportados para o ponto de saída do território da União em material de embalagem novo ou em contentores para transporte a granel que não sejam utilizados para o transporte de matérias de origem ruminante ou que tenham sido previamente limpos a fim de evitar a contaminação cruzada, em conformidade com um procedimento documentado previamente autorizado pela autoridade competente.
+
+1. Os controlos oficiais realizados pela autoridade competente a fim de verificar o cumprimento das regras estabelecidas no presente anexo devem incluir inspeções e colheita de amostras para análise de proteínas animais transformadas e de alimentos para animais, em conformidade com os métodos de análise para a determinação de constituintes de origem animal no quadro do controlo de alimentos para animais estabelecido no anexo VI do Regulamento (CE) n.º 152/2009.
+
+2. A autoridade competente deve verificar regularmente a competência dos laboratórios que efetuam as análises no âmbito de tais controlos oficiais, em especial mediante a avaliação dos resultados de ensaios de proficiência.
+
+1. O documento comercial ou, conforme adequado, o certificado sanitário que acompanha as proteínas animais transformadas provenientes de insetos de criação, suínos ou aves de capoeira, em conformidade com o artigo 21.º, n.º 2, do Regulamento (CE) n.º 1069/2009, e o rótulo dessas proteínas animais transformadas provenientes de insetos de criação, suínos ou aves de capoeira devem ser claramente marcados com a seguinte menção: «Proteínas animais transformadas provenientes de … [inserir os animais de criação pertinentes de que provêm as proteínas animais transformadas, enumerados na primeira coluna do quadro 1] — não devem ser utilizadas na alimentação de animais de criação, exceto … [inserir os animais de criação correspondentes que podem ser alimentados com as proteínas animais transformadas, enumerados na segunda coluna do quadro 1]».
+
+2. A seguinte menção deve ser claramente indicada no rótulo dos alimentos compostos para animais que contenham proteínas animais transformadas provenientes de insetos de criação, suínos ou aves de capoeira: «Contém proteínas animais transformadas provenientes de … [inserir os animais de criação pertinentes de que provêm as proteínas animais transformadas, enumerados na primeira coluna do quadro 1] — não devem ser utilizado na alimentação de animais de criação, exceto … [inserir os animais de criação correspondentes que podem ser alimentados com as proteínas animais transformadas, enumerados na segunda coluna do quadro 1]»;
+
+Animais de criação dos quais provêm as proteínas animais transformadas Animais de criação que podem ser alimentados com as proteínas animais transformadas
+
+Insetos de criação Animais de aquicultura, animais destinados à produção de peles com pelo, suínos, aves de capoeira
+
+Suínos Animais de aquicultura, animais destinados à produção de peles com pelo, aves de capoeira
+
+Aves de capoeira Animais de aquicultura, animais destinados à produção de peles com pelo, suínos
+
+Insetos de criação e suínos Animais de aquicultura, animais destinados à produção de peles com pelo, aves de capoeira
+
+Insetos de criação e aves de capoeira Animais de aquicultura, animais destinados à produção de peles com pelo, suínos
+
+Suínos e aves de capoeira Animais de aquicultura, animais destinados à produção de peles com pelo
+
+Insetos de criação, suínos e aves de capoeira Animais de aquicultura, animais destinados à produção de peles com pelo
+
+## ANEXO V
+
+### MATÉRIAS DE RISCO ESPECIFICADAS
+
+#### 1. Definição de matérias de risco especificadas
+
+Os tecidos que se seguem devem ser designados matérias de risco especificadas sempre que originários de um Estado-Membro, de um país terceiro ou de uma das suas regiões com um risco de EEB controlado ou indeterminado:
+
+a) No que se refere à espécie bovina:
+
+i) o crânio, excluindo a mandíbula e incluindo o cérebro e os olhos, e a espinal medula dos animais com idade superior a 12 meses,
+
+ii) a coluna vertebral, excluindo as vértebras do rabo, as apófises espinhosas e transversas das vértebras cervicais, torácicas e lombares, a crista mediana e as asas do sacro, mas incluindo os gânglios das raízes dorsais, dos animais com idade superior a 30 meses; e.
+
+iii) as amígdalas, os últimos quatro metros do intestino delgado, o ceco e o mesentério dos animais de qualquer idade;
+
+b) No que se refere às espécies ovina e caprina: o crânio, incluindo o cérebro e os olhos, e a espinal medula de animais com idade superior a 12 meses, ou que apresentem um incisivo permanente que tenha perfurado a gengiva.
+
+#### 2. Requisitos específicos aplicáveis aos Estados-Membros com um estatuto de risco negligenciável de EEB
+
+Os tecidos enumerados no ponto 1, alínea a), subalínea i), e no ponto 1, alínea b), derivados de animais com origem num Estado-Membro com risco negligenciável de EEB, devem ser considerados matérias de risco especificadas.
+
+#### 3. Marcação e eliminação
+
+As matérias de risco especificadas devem ser marcadas com um corante ou, se adequado, marcadas por outro meio, imediatamente após a sua remoção, e eliminadas em conformidade com as regras estabelecidas no Regulamento (CE) n.º 1069/2009, nomeadamente no artigo 12.º.
+
+#### 4. Remoção das matérias de risco especificadas
+
+4.1. As matérias de risco especificadas devem ser removidas em:
+
+a) Matadouros, ou, se for caso disso, outros locais de abate;
+
+b) Instalações de desmancha, no caso da coluna vertebral de bovinos;
+
+c) Sempre que adequado, estabelecimentos ou instalações aprovados referidos no artigo 24.º, n.º 1, alínea h), do Regulamento (CE) n.º 1069/2009.
+
+4.2. Em derrogação ao ponto 4.1, em vez da remoção das matérias de risco especificadas, pode ser autorizada a realização do teste alternativo referido no artigo 8.º, n.º 2, em conformidade com o procedimento referido artigo 24.º, n.º 3, do presente regulamento, desde que esse teste alternativo conste da lista do anexo X, em conformidade com as seguintes condições:
+
+a) Os testes alternativos devem efetuar-se em matadouros e aplicar-se a todos os animais elegíveis para remoção de matérias de risco especificadas;
+
+b) Nenhum produto de bovino, ovino ou caprino destinado ao consumo humano ou à alimentação animal pode deixar o matadouro antes de a autoridade competente ter recebido e aceitado os resultados dos testes alternativos relativos a todos os animais abatidos potencialmente contaminados, se num deles tiver sido confirmada a presença de EEB;
+
+c) Se um teste alternativo tiver resultado positivo, todas as matérias dos bovinos, ovinos e caprinos potencialmente contaminadas no matadouro têm de ser destruídas em conformidade com o disposto no ponto 3, a não ser que todas as partes da carcaça do animal afetado, incluindo a pele, possam ser identificadas e mantidas separadas.
+
+4.3. Em derrogação ao ponto 4.1, os Estados-Membros podem decidir permitir:
+
+a) A remoção da espinal medula de ovinos e caprinos em instalações de desmancha especificamente autorizadas para esse fim;
+
+b) A remoção da coluna vertebral de carcaças ou partes de carcaças de bovinos em talhos especificamente autorizados, monitorizados e registados para esse fim;
+
+c) A remoção da carne da cabeça de bovinos em instalações de desmancha especificamente autorizadas para esse fim em conformidade com o ponto 9.
+
+4.4. As regras relativas à remoção das matérias de risco especificadas previstas no presente capítulo não se aplicam às matérias da categoria 1 utilizadas, em conformidade com o artigo 18.º, n.º 2, alínea a), do Regulamento (CE) n.º 1069/2009, na alimentação de animais de jardim zoológico, nem às matérias de categoria 1 utilizadas, em conformidade com o artigo 18.º, n.º 2, alínea b), do mesmo regulamento, na alimentação de espécies em risco ou protegidas de aves necrófagas e de outras espécies que vivam no seu habitat natural, para a promoção da biodiversidade.
+
+#### 5. Medidas respeitantes à carne separada mecanicamente
+
+Não obstante as decisões específicas referidas no n.º 2 do artigo 5.º e em derrogação ao disposto no n.º 3 do artigo 9.º, é proibida, em todos os Estados-Membros, a utilização de ossos ou de peças não desossadas de bovinos, ovinos e caprinos para a produção de carne separada mecanicamente.
+
+#### 6. Medidas respeitantes à laceração dos tecidos
+
+A proibição estabelecida no artigo 8.º, n.º 3, nos Estados-Membros ou regiões de Estados-Membros com um risco controlado ou indeterminado de EEB, de lacerar os tecidos do sistema nervoso central, após atordoamento, através de um instrumento comprido de forma cilíndrica introduzido na cavidade craniana, ou através da injeção de gás na cavidade craniana de bovinos, ovinos e caprinos cuja carne se destine ao consumo humano ou animal, deve ser também aplicável em Estados-Membros com um risco negligenciável de EEB.
+
+#### 7. Remoção das línguas de bovinos
+
+As línguas de bovinos de todas as idades destinados ao consumo humano ou animal devem ser removidas no matadouro através de um corte transverso rostral do processo lingual do osso basi-hióide, exceto as línguas de bovinos com origem em Estados-Membros com um risco negligenciável de EEB.
+
+#### 8. Remoção da carne da cabeça de bovinos
+
+8.1. A carne da cabeça dos bovinos com mais de 12 meses de idade será removida nos matadouros, em conformidade com um sistema de controlo reconhecido pela autoridade competente, por forma a garantir a prevenção de eventual contaminação da carne da cabeça com tecido do sistema nervoso central. O sistema deve incluir, no mínimo, as seguintes disposições:
+
+a) A remoção deve ter lugar num espaço dedicado a essa função, separado fisicamente de outras partes da linha de abate;
+
+b) Sempre que as cabeças sejam retiradas da cinta transportadora ou dos ganchos antes de ser removida a carne da cabeça, o orifício resultante do abate por pistola e o buraco occipital deverão ser selados com um vedante impermeável e durável. Sempre que sejam colhidas amostras do tronco cerebral para testes laboratoriais à EEB, o buraco occipital deverá ser selado imediatamente após aquela amostragem;
+
+c) A carne da cabeça não deve ser removida das cabeças sempre que os olhos se encontrem danificados ou tenham sido perdidos imediatamente antes ou após o abate ou que se encontre danificada de tal forma que possa resultar na contaminação da cabeça com tecido do sistema nervoso central;
+
+d) A carne da cabeça não deve ser removida das cabeças que não tenham sido adequadamente seladas em conformidade com o disposto na alínea b);
+
+e) Sem prejuízo de regras gerais de higiene, devem existir instruções de serviço específicas, por forma a evitar a contaminação da carne da cabeça durante a remoção, nomeadamente nos casos em que o vedante referido na alínea b) o se tenha perdido ou em que os olhos tenham sido danificados durante a actividade;
+
+f) Deve existir um plano de amostragem com recurso a um teste laboratorial adequado para detectar tecido do sistema nervoso central, no sentido de verificar que as medidas destinadas a reduzir a contaminação são adequadamente aplicadas.
+
+8.2. Em derrogação aos requisitos do ponto 8.1, os Estados-Membros podem decidir aplicar no matadouro um sistema de controlo alternativo para a remoção da carne da cabeça de bovinos que tenha como resultado uma redução equivalente do nível de contaminação da carne da cabeça com tecido do sistema nervoso central. Deve existir um plano de amostragem com recurso a um teste laboratorial adequado para detectar tecido do sistema nervoso central, no sentido de verificar que as medidas destinadas a reduzir a contaminação são adequadamente aplicadas. Os Estados-Membros que recorram a esta derrogação deverão informar a Comissão e os restantes Estados-Membros no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal acerca do respectivo sistema de controlo e dos resultados da amostragem.
+
+8.3. O disposto nos pontos 8.1 e 8.2 não é aplicável caso a remoção da carne seja efectuada sem remover as cabeças dos bovinos das cintas transportadoras nem dos ganchos.
+
+#### 9. Remoção da carne da cabeça de bovinos em instalações de desmancha autorizadas
+
+Em derrogação ao disposto no ponto 8, os Estados-Membros podem decidir permitir a remoção da carne da cabeça de bovinos em instalações de desmancha especificamente autorizadas para este fim, desde que sejam respeitadas as condições seguintes:
+
+a) As cabeças destinadas ao transporte para a instalação de desmancha deverão ser colocadas numa grade durante o período de armazenamento e o transporte do matadouro para a instalação de desmancha;
+
+b) O orifício resultante do abate por pistola e o buraco occipital deverão ser adequadamente selados com um vedante impermeável e durável antes de serem deslocadas das cintas de transporte ou dos ganchos para as grades. Sempre que sejam colhidas amostras do tronco cerebral para testes laboratoriais à EEB, o buraco occipital deverá ser selado imediatamente após aquela amostragem;
+
+c) As cabeças que não tenham sido adequadamente seladas em conformidade com a alínea b), sempre que os olhos se encontrem danificados ou tenham sido perdidos imediatamente antes ou após o abate ou que se encontrem danificadas de tal forma que possa resultar na contaminação da cabeça com tecido do sistema nervoso central, serão excluídas do transporte para as instalações de desmancha especificamente autorizadas;
+
+d) No matadouro, deve existir um plano de amostragem com recurso a um teste laboratorial adequado para detectar tecido do sistema nervoso central, no sentido de verificar que as medidas destinadas a reduzir a contaminação são adequadamente aplicadas;
+
+e) A remoção de carne da cabeça deve efectuar-se em conformidade com um sistema de controlo reconhecido pela autoridade competente, para garantir a prevenção de uma eventual contaminação da carne da cabeça. Este sistema deve incluir, pelo menos, os seguintes aspectos:
+
+i) antes do início da remoção da carne, todas as cabeças devem ser controladas visualmente em busca de sinais de contaminação ou de danificação, assim como para verificar que a selagem é adequada,
+
+ii) não se remove carne de cabeças que não tenham sido adequadamente seladas, sempre que os olhos se encontrem danificados, ou que se encontrem danificadas de tal forma que possa resultar na contaminação da carne da cabeça com tecido do sistema nervoso central. Também não se deve remover carne de cabeças suspeitas de estarem contaminadas por aquelas cabeças,
+
+iii) sem prejuízo de regras gerais de higiene, devem existir instruções de serviço específicas, por forma a evitar a contaminação da carne da cabeça durante o transporte e a remoção, nomeadamente sempre que o vedante se tenha perdido ou em que os olhos tenham sido danificados durante a actividade;
+
+f) Na instalação de desmancha, deve existir um plano de amostragem com recurso a um teste laboratorial adequado para detectar tecido do sistema nervoso central, no sentido de verificar que as medidas destinadas a reduzir a contaminação são adequadamente aplicadas.
+
+#### 10. Regras aplicáveis ao comércio e à exportação
+
+10.1. Os Estados-Membros só podem permitir a expedição de cabeças ou carcaças inteiras que contenham matérias de risco especificadas para outros Estados-Membros depois de estes últimos terem aceite receber essas matérias e aprovado as condições aplicáveis à expedição e ao transporte.
+
+10.2. Em derrogação ao disposto no ponto 10.1, as carcaças, meias-carcaças ou meias-carcaças cortadas num máximo de três partes destinadas ao comércio grossista e os quartos que apenas contenham como matérias de risco especificadas a coluna vertebral, incluindo os gânglios das raízes dorsais, podem ser expedidos de um Estado-Membro para outro sem o acordo prévio deste último.
+
+10.3. São proibidas as exportações para fora da Comunidade de cabeças e de carne fresca de bovinos, ovinos ou caprinos contendo matérias de risco especificadas.
+
+#### 11. Controlos
+
+11.1. Os Estados-Membros devem efetuar controlos oficiais frequentes destinados a verificar a aplicação correta do presente anexo e garantir a tomada de medidas para evitar qualquer contaminação, nomeadamente em matadouros, instalações de desmancha ou noutros locais onde sejam removidas matérias de risco especificadas, tais como talhos ou estabelecimentos referidos no ponto 4.1, alínea c).
+
+11.2. Em especial, os Estados-Membros devem estabelecer um sistema que garanta e verifique que as matérias de risco especificadas são manuseadas e eliminadas em conformidade com o disposto no presente regulamento e no Regulamento (CE) n.º 1069/2009.
+
+11.3. Deve ser colocado em prática um sistema de controlo da remoção da coluna vertebral, tal como se especifica no ponto 1, alínea a). Esse sistema de controlo deve incluir, no mínimo, as seguintes medidas:
+
+a) Até 30 de junho de 2017, sempre que não seja exigida a remoção da coluna vertebral, as carcaças de bovinos ou as partes de carcaças de bovinos destinadas ao comércio grossista contendo a coluna vertebral devem ser identificadas através de uma risca azul bem visível no rótulo referido no artigo 13.º do Regulamento (CE) n.º 1760/2000.
+
+b) Quando aplicável, deve aditar-se ao documento comercial relativo às remessas de carne informação específica sobre o número de carcaças de bovinos ou de partes de carcaças de bovinos destinadas ao comércio grossista das quais é obrigatório remover a coluna vertebral. Quando aplicável, no caso das importações, essa informação específica deve ser aditada ao Documento Veterinário Comum de Entrada (DVCE) referido no artigo 2.º, n.º 1, do Regulamento (CE) n.º 136/2004 da Comissão ([^28^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0034));
+
+c) Os talhos devem manter durante, pelo menos, um ano os documentos comerciais referidos na alínea b).
+
+## ANEXO VI
+
+### PRODUTOS DE ORIGEM ANIMAL DERIVADOS DE MATÉRIAS PROVENIENTES DE RUMINANTES OU QUE AS CONTENHAM, TAL COMO REFERIDOS NO N.º 1 DO ARTIGO 9.º
+
+## ANEXO VII
+
+### CONTROLO E ERRADICAÇÃO DE ENCEFALOPATIAS ESPONGIFORMES TRANSMISSÍVEIS
+
+#### CAPÍTULO A
+
+#### Medidas a tomar perante a suspeita da presença de uma eet em ovinos e caprinos
+
+Se se suspeitar da existência de uma EET num ovino ou caprino presente numa exploração de um Estado-Membro, todos os outros ovinos ou caprinos dessa exploração serão objeto de uma restrição oficial de circulação até que sejam conhecidos os resultados dos exames de confirmação.
+
+Se houver elementos de prova que indiquem que a exploração em que o animal se encontrava quando houve suspeita de EET não era a exploração em que o animal poderia ter sido exposto à EET, o Estado-Membro pode decidir colocar sob controlo oficial só a exploração de exposição ou outras explorações, consoante as informações epidemiológicas disponíveis.
+
+O leite e os produtos à base de leite provenientes dos ovinos ou caprinos da exploração colocada sob controlo oficial, que estejam presentes nessa exploração desde a data de suspeita da existência da EET até à disponibilização dos resultados dos exames de confirmação, só podem ser utilizados nessa exploração.
+
+#### CAPÍTULO B
+
+#### Medidas a tomar perante a suspeita da presença de uma eet em bovinos, ovinos e caprinos
+
+1. O inquérito referido no artigo 13.º, n.º 1, alínea b), deve identificar:
+
+a) No que diz respeito aos bovinos:
+
+— todos os outros ruminantes presentes na exploração do animal em que a doença foi confirmada,
+
+— quando tiver sido confirmada a doença numa fêmea, a sua progenitura nascida num período de dois anos anteriores, ou posteriores, às primeiras manifestações clínicas da doença,
+
+— todos os animais da coorte do animal em que a doença foi confirmada,
+
+— a origem provável da doença,
+
+— outros animais da exploração do animal em que a doença foi confirmada ou de outras explorações que possam ter sido infetados pelo agente da EET ou ter estado expostos aos mesmos alimentos ou fonte de contaminação,
+
+— a circulação de alimentos potencialmente contaminados, de outras matérias ou de quaisquer outros meios de transmissão que possam ter transmitido o agente da EET da exploração em causa ou para ela;
+
+b) No que diz respeito aos ovinos e caprinos:
+
+— todos os outros ruminantes não pertencentes às espécies ovina e caprina existentes na exploração do animal em que a doença foi confirmada,
+
+— na medida em que sejam identificáveis, os progenitores e, no caso das fêmeas, todos os embriões, óvulos e a última progenitura da fêmea em que a doença foi confirmada,
+
+— todos os outros ovinos e caprinos existentes na exploração do animal em que a doença foi confirmada, para além dos referidos no segundo travessão,
+
+— a eventual origem da doença e a identificação de outras explorações em que existam animais, embriões ou óvulos que possam ter sido infectados pelo agente da EET ou ter sido expostos aos mesmos alimentos ou fonte de contaminação,
+
+— a circulação de alimentos potencialmente contaminados, de outras matérias ou de quaisquer outros meios de transmissão que possam ter transmitido o agente da EET da exploração em causa ou para ela.
+
+2. As medidas previstas no artigo 13.º, n.º 1, alínea c), devem incluir, pelo menos:
+
+2.1. Caso se confirme a existência de EEB num bovino, o abate e a destruição total dos bovinos identificados através do inquérito referido no ponto 1, alínea a), segundo e terceiro travessões; no entanto, o Estado-Membro pode decidir:
+
+— não abater e destruir os animais da coorte referida no ponto 1, alínea a), terceiro travessão, desde que se demonstre que esses animais não tiveram acesso aos mesmos alimentos que o animal afetado,
+
+— adiar o abate e a destruição dos animais da coorte referida no ponto 1, alínea a), terceiro travessão, até ao final da sua vida produtiva, desde que se trate de touros mantidos permanentemente num centro de colheita de sémen e se possa garantir que são totalmente destruídos após a sua morte.
+
+2.2. Caso se confirme a existência de EET num ovino ou num caprino:
+
+2.2.1. Nos casos em que a existência de EEB não pode ser excluída
+
+2.2.2. Nos casos em que a EEB e o tremor epizoótico atípico podem ser excluídos
+
+a) O leite e os produtos à base de leite provenientes dos animais que devem ser destruídos ou abatidos e que estavam presentes na exploração entre a data da confirmação do caso de EET e a data de conclusão das medidas a aplicar na exploração em conformidade com o disposto nas alíneas b) e c), ou derivados do efetivo infetado até que todas as restrições estabelecidas na alínea d) e no ponto 4 sejam suspensas não devem ser utilizados para a alimentação de ruminantes, exceto para a alimentação de ruminantes dessa exploração.
+
+b) Opção 1 – abate e destruição total de todos os animais
+
+i) Substituir o abate e a destruição total imediatos de todos os animais, pelo seu abate imediato para consumo humano, desde que:
+
+— os animais sejam abatidos para consumo humano no território do Estado-Membro responsável pela exploração;
+
+— todos os animais com mais de 18 meses abatidos para consumo humano sejam submetidos a testes para detetar a presença de EET em conformidade com os métodos laboratoriais e os protocolos enunciados no anexo X, capítulo C, parte 3, ponto 3.2.
+
+ii) isentar os borregos e os cabritos com menos de três meses de idade do abate e destruição total imediatos, desde que sejam abatidos para consumo humano até completarem três meses de idade.
+
+c) Opção 2 — abate e destruição total apenas dos animais sensíveis
+
+— carneiros reprodutores do genótipo ARR/ARR,
+
+— ovelhas reprodutoras portadoras de, pelo menos, um alelo ARR e sem alelo VRQ e, caso essas ovelhas reprodutoras se encontrem grávidas aquando da realização do inquérito, os borregos nascidos subsequentemente, se o respetivo genótipo cumprir os requisitos do presente parágrafo,
+
+— ovinos portadores de, pelo menos, um alelo ARR que se destinem exclusivamente a consumo humano,
+
+— caprinos portadores de, pelo menos, um dos seguintes alelos: K222, D146 e S146,
+
+— se o Estado-Membro responsável pela exploração assim o decidir, os borregos e cabritos com menos de três meses de idade, desde que sejam abatidos para consumo humano até completarem três meses de idade.
+
+i) substituir o abate e a destruição total dos animais referidos no segundo parágrafo da opção 2 pelo abate para consumo humano, desde que:
+
+— os animais sejam abatidos para consumo humano no território do Estado-Membro responsável pela exploração,
+
+— todos os animais com mais de 18 meses abatidos para consumo humano sejam submetidos a testes para detetar a presença de EET em conformidade com os métodos laboratoriais e os protocolos enunciados no anexo X, capítulo C, parte 3, ponto 3.2,
+
+ii) adiar a genotipagem e o subsequente abate e destruição total ou abate para consumo humano dos animais referidos no segundo parágrafo da opção 2 por um período não superior a três meses. Esta derrogação pode ser aplicada em situações em que o caso índice é confirmado próximo do início do período de parição, desde que as ovelhas e/ou cabras e os recém-nascidos sejam mantidos isolados dos ovinos e/ou caprinos de outras explorações durante todo o período,
+
+iii) adiar o abate e a destruição total ou o abate para consumo humano dos animais referidos no segundo parágrafo da opção 2 por um período máximo de três anos a partir da data de confirmação do caso índice em efetivos de ovinos ou caprinos e explorações em que os ovinos e os caprinos são conservados juntos. A aplicação da derrogação prevista no presente parágrafo deve ser limitada aos casos em que o Estado-Membro responsável pela exploração considere que a situação epidemiológica não possa ser tratada sem o sacrifício dos animais pertinentes, mas que tal não pode ser executado de imediato devido ao baixo nível de resistência na população de ovinos e caprinos da exploração associada a outras considerações, incluindo fatores económicos. Os carneiros reprodutores que não os do genótipo ARR/ARR devem ser abatidos ou castrados de imediato. Devem ser aplicadas todas as medidas possíveis para criar rapidamente resistência genética na população ovina e/ou caprina da exploração, incluindo pela reprodução razoável e o abate das ovelhas para aumentar a frequência do alelo ARR e eliminar o alelo VRQ, e a reprodução de bodes portadores dos alelos K222, D146 ou S146. O Estado-Membro responsável pela exploração tem de garantir que o número de animais a abater no final do período de adiamento não é superior ao do momento imediatamente após a confirmação do caso índice. Em caso de aplicação da derrogação estabelecida no presente parágrafo, as medidas enunciadas no ponto 4 aplicam-se à exploração até à destruição total ou ao abate para consumo humano dos animais referidos no segundo parágrafo da opção 2, após o que são aplicáveis as restrições estabelecidas no ponto 3.
+
+d) Opção 3 — inexistência de obrigação de abate e destruição total dos animais
+
+— é difícil obter ovinos machos de substituição com o genótipo ARR/ARR e ovinos fêmeas portadores de, pelo menos, um alelo ARR e sem alelo VRQ, ou caprinos portadores de, pelo menos, um dos seguintes alelos: K222, D146 e S146,
+
+— a frequência do alelo ARR na raça ou na exploração de ovinos, ou dos alelos K222, D146 ou S146 na raça ou na exploração de caprinos, for baixa,
+
+— é considerado necessário para evitar a consanguinidade,
+
+— é considerado necessário pelo Estado-Membro com base numa ponderação fundamentada de todos os fatores epidemiológicos.
+
+2.3. Se um animal infetado com EET tiver provindo de outra exploração:
+
+a) um Estado-Membro pode decidir, com base nos antecedentes animal infetado, aplicar medidas de erradicação na exploração de origem para além, ou em vez, da exploração em que a infeção foi confirmada;
+
+b) no caso da terra usada para pastagem comum por mais de um efetivo, os Estados-Membros podem decidir limitar a aplicação dessas medidas a um único efetivo, com base na ponderação fundamentada de todos os fatores epidemiológicos;
+
+c) se numa exploração existir mais do que um efetivo, os Estados-Membros podem decidir limitar a aplicação das medidas de erradicação ao efetivo em que se confirmou a EET, desde que se tenha verificado que os efetivos permaneceram isolados um do outro e que é improvável a propagação da infeção entre os efetivos, através de contacto direto ou indireto.
+
+3. Após o abate e a destruição total ou o abate para consumo humano de todos os animais identificados na exploração em conformidade com o ponto 2.2.1., o ponto 2.2.2, alínea b), ou o ponto 2.2.2, alínea c), aplicam-se as seguintes restrições:
+
+3.1. A exploração deve ficar sujeita a um protocolo de vigilância reforçada das EET. Tal inclui a realização de testes para detetar a presença de EET em animais com mais de 18 meses de idade que tenham morrido ou sido abatidos na exploração, mas não no âmbito de uma campanha de erradicação da doença. Os ovinos com o genótipo ARR/ARR e os caprinos portadores de, pelo menos, um dos alelos K222, D146 ou S146 estão isentos. Os testes devem ser realizados em conformidade com os métodos laboratoriais e os protocolos enunciados no anexo X, capítulo C, parte 3, ponto 3.2.
+
+3.2. Só podem ser introduzidos na exploração os seguintes animais:
+
+— ovinos machos do genótipo ARR/ARR,
+
+— ovinos fêmeas portadores de, pelo menos, um alelo ARR e sem alelo VRQ,
+
+— caprinos, desde que todos os locais de alojamento dos animais nas instalações tenham sido limpos e desinfetados após a liquidação do efetivo.
+
+3.3. Só podem ser utilizados na exploração os seguintes carneiros reprodutores, bodes reprodutores e produtos germinais de ovinos e caprinos:
+
+— ovinos machos do genótipo ARR/ARR,
+
+— sémen de carneiros do genótipo ARR/ARR,
+
+— embriões portadores de, pelo menos, um alelo ARR e sem alelo VRQ,
+
+— bodes reprodutores e produtos germinais de caprinos, tal como definidos nas medidas decididas pelo Estado-Membro para reforçar a resistência genética na população de caprinos da exploração.
+
+3.4. A circulação de animais a partir da exploração deve ser autorizada para efeitos de destruição, ou ser sujeita às seguintes condições:
+
+a) os animais a seguir especificados podem ser transportados da exploração para todos os fins, incluindo a reprodução:
+
+— ovinos ARR/ARR,
+
+— ovelhas portadoras de um alelo ARR e sem alelo VRQ, desde que sejam transferidas para outras explorações sujeitas a restrições após a aplicação das medidas previstas no ponto 2.2.2, alínea b) (opção 1), alínea c) (opção 2) e alínea d) (opção 3),
+
+— caprinos portadores de, pelo menos, um dos seguintes alelos: K222, D146 e S146,
+
+— caprinos, desde que sejam transferidos para outras explorações sujeitas a restrições após a aplicação das medidas previstas no ponto 2.2.2, alínea b) (opção 1), alínea c) (opção 2) e alínea d) (opção 3);
+
+b) os animais a seguir especificados podem ser transferidos da exploração para irem diretamente para o abate para consumo humano:
+
+— ovinos portadores de, pelo menos, um alelo ARR,
+
+— caprinos,
+
+— se o Estado-Membro assim o decidir, os borregos e cabritos com menos de três meses de idade no momento do abate;
+
+— todos os animais, caso o Estado-Membro tiver decidido aplicar as derrogações previstas no ponto 2.2.2., alínea b), subalínea i), e no ponto 2.2.2, alínea c), subalínea i);
+
+c) se o Estado-Membro assim o decidir, os borregos e cabritos podem ser transferidos para outra exploração situada no seu território exclusivamente para fins de engorda antes do abate, desde que respeitadas as seguintes condições:
+
+— a exploração de destino não tem quaisquer outros ovinos ou caprinos exceto os que se destinam a engorda antes do abate,
+
+— no final do período de engorda, os borregos e cabritos provenientes das explorações sujeitas às medidas de erradicação devem ser transportados diretamente para um matadouro situado no território do mesmo Estado-Membro para serem abatidos até completarem 12 meses de idade.
+
+3.5. As restrições estabelecidas nos pontos 3.1 a 3.4 devem continuar a aplicar-se à exploração:
+
+a) até à data de obtenção do estatuto ARR/ARR por todos os ovinos na exploração, desde que não sejam mantidos quaisquer caprinos na exploração; ou
+
+b) até à data em que todos os caprinos da exploração sejam portadores de, pelo menos, um dos alelos K222, D146 ou S146, desde que não sejam mantidos quaisquer ovinos na exploração; ou
+
+c) até à data de obtenção do estatuto ARR/ARR por todos os ovinos da exploração e em que todos os caprinos da exploração sejam portadores de, pelo menos, um dos alelos K222, D146 ou S146; ou
+
+d) por um período de dois anos a partir da data em que todas as medidas referidas no ponto 2.2.1, no ponto 2.2.2, alínea b), ou no ponto 2.2.2, alínea c), estiverem concluídas, desde que não seja detetado nenhum caso de EET para além do tremor epizoótico atípico durante esse período de dois anos.
+
+4. Na sequência da decisão de aplicar a opção 3 prevista no ponto 2.2.2, alínea d), ou da derrogação prevista no ponto 2.2.2, alínea c), subalínea iii), devem ser aplicadas de imediato à exploração as seguintes medidas:
+
+4.1. A exploração deve ficar sujeita a um protocolo de vigilância reforçada das EET. Tal inclui a realização de testes para detetar a presença de EET em animais com mais de 18 meses de idade que:
+
+— tenham sido abatidos para consumo humano,
+
+— tenham morrido ou sido abatidos na exploração, mas não no âmbito de uma campanha de erradicação da doença.
+
+4.2. Devem aplicar-se as condições estabelecidas nos pontos 3.2 e 3.3.
+
+— ovinos machos e respetivo sémen portadores de, pelo menos, um alelo ARR e sem alelo VRQ, incluindo para reprodução,
+
+— ovinos fêmeas não portadores de alelo VRQ,
+
+— embriões não portadores de alelo VRQ,
+
+— a raça do animal mantido na exploração é uma raça ameaçada,
+
+— a raça do animal mantido na exploração é abrangida por um programa de melhoramento destinado à conservação da raça, realizado por uma associação de criadores, na aceção do artigo 2.º, n.º 5, do Regulamento (UE) 2016/1012, ou uma autoridade competente, em conformidade com o artigo 38.º do mesmo regulamento e
+
+— a frequência do alelo ARR na raça é baixa.
+
+4.3. A circulação de animais a partir da exploração deve ser autorizada para efeitos de destruição ou de envio direto para abate para consumo humano, ou ser sujeita às seguintes condições:
+
+a) os carneiros e ovelhas do genótipo ARR/ARR e os caprinos portadores de, pelo menos, um dos alelos K222, D146 ou S146 podem ser transferidos da exploração para todos os fins, incluindo a reprodução, desde que sejam transferidos para outras explorações que estejam sujeitas à aplicação das medidas em conformidade com o ponto 2.2.2, alínea c) (opção 2) ou d) (opção 3);
+
+b) se o Estado-Membro assim o decidir, os borregos e cabritos podem ser transferidos para outra exploração situada no seu território exclusivamente para fins de engorda antes do abate, desde que respeitadas as seguintes condições:
+
+— a exploração de destino não tem quaisquer outros ovinos ou caprinos exceto os que se destinam a engorda antes do abate,
+
+— no final do período de engorda, os borregos e cabritos devem ser transportados diretamente para um matadouro situado no território do mesmo Estado-Membro para serem abatidos até completarem 12 meses de idade.
+
+4.4. O Estado-Membro deve garantir que não serão expedidos da exploração quaisquer sémen, embriões e óvulos.
+
+4.5. A pastagem comum de todos os ovinos e caprinos da exploração com ovinos e caprinos de outras explorações deve ser proibida durante o período de parição.
+
+4.6. As restrições estabelecidas nos pontos 4.1 a 4.5 aplicam-se durante um período de dois anos após a deteção do último caso de EET que não seja de tremor epizoótico atípico às explorações onde foi aplicada a opção 3 prevista no ponto 2.2.2, alínea d).
+
+#### CAPÍTULO C
+
+#### Requisitos mínimos para um programa de criação de ovinos resistentes às eet em conformidade com o Artigo 6.º-A
+
+1. O programa de criação centrar-se-á em efetivos de elevado mérito genético, tal como definido no anexo I, ponto 3, da Decisão 2002/1003/CE da Comissão.
+
+2. Será criada uma base de dados contendo pelo menos as seguintes informações:
+
+a) a identidade, a raça e o número de animais de todos os efetivos que participam no programa de criação;
+
+b) a identificação de cada animal amostrado no âmbito do programa de criação, incluindo machos reprodutores amostrados em efetivos que não participam no programa de criação;
+
+c) os resultados de todos os testes de determinação do genótipo.
+
+3. Será estabelecido um sistema de certificação uniforme, no qual é certificado o genótipo de cada animal amostrado no âmbito do programa de criação, incluindo os carneiros reprodutores amostrados em efetivos que não participam no programa de criação, tendo por referência o seu número de identificação individual.
+
+4. Será estabelecido um sistema de identificação de animais e de amostras, de tratamento de amostras e de entrega de resultados, que minimize a eventualidade de erro humano. A eficiência desse sistema será submetida a uma verificação aleatória periódica.
+
+5. A determinação do genótipo de sangue ou de outros tecidos colhidos para os fins do programa de criação, incluindo a partir de carneiros reprodutores amostrados em efetivos que não participam no programa de criação, será realizada em laboratórios que tiverem sido aprovados no âmbito do programa de criação.
+
+6. A autoridade competente do Estado-Membro poderá ajudar as associações de criadores a estabelecer bancos genéticos compostos por sémen, óvulos e embriões representativos dos genótipos da proteína do prião suscetíveis de se virem a tornar-se raros como consequência do programa de criação.
+
+7. Os programas de criação serão estabelecidos para cada raça, tendo em conta:
+
+a) as frequências dos diferentes alelos na raça;
+
+b) a raridade da raça;
+
+c) o afastamento da possibilidade de consanguinidade ou de desvio genético.
+
+8. Se o Estado-Membro autorizar, em conformidade com o segundo parágrafo do ponto 1, a amostragem e a determinação do genótipo de carneiros reprodutores de efetivos que não participam no programa de criação, o genótipo da proteína do prião para os codões 136, 141, 154 e 171 deve ser determinado numa amostra mínima representativa de toda a população ovina do Estado-Membro, quer:
+
+a) uma vez de três em três anos, com uma amostra mínima de, pelo menos, 1 560 ovinos; quer
+
+b) com uma frequência e com uma dimensão da amostra determinadas pelo Estado-Membro com base na conformidade com os seguintes critérios:
+
+i) o plano de amostragem tem em conta os dados epidemiológicos relevantes recolhidos durante estudos anteriores, incluindo dados sobre o genótipo da proteína do prião de ovinos para os codões 136, 141, 154 e 171 por raça, região, idade, sexo e tipo de efetivo,
+
+ii) o plano de amostragem permite, pelo menos, detetar uma alteração de 5 % na prevalência do genótipo num período de três anos, com uma potência de 80 % e um nível de confiança de 95 %.
+
+1. O programa de criação procurará aumentar a frequência do alelo ARR no efetivo de ovinos, diminuindo e ao mesmo tempo diminuir a prevalência dos alelos que tiverem revelado um contributo para a suscetibilidade às EET.
+
+2. Os requisitos mínimos aplicáveis aos efectivos participantes serão os seguintes:
+
+a) todos os animais do efetivo cujo genótipo se pretenda determinar serão identificados individualmente através de meios seguros;
+
+b) proceder-se-á à determinação do genótipo de todos os machos reprodutores pertencentes ao efetivo antes de serem usados para reprodução;
+
+c) proceder-se-á ao abate ou castração de qualquer macho portador do alelo VRQ no prazo de seis meses após a determinação do seu genótipo; o animal não poderá abandonar a exploração, exceto para ser abatido;
+
+d) as fêmeas que se sabe serem portadoras do alelo VRQ não poderão abandonar a exploração, exceto para serem abatidas;
+
+e) os machos não certificados ao abrigo do programa de criação, incluindo os dadores de sémen para inseminação artificial, não poderão ser usados para reprodução dentro do efetivo.
+
+3. Os Estados-Membros podem decidir conceder derrogações ao disposto no ponto 2, alíneas c) e d), para efeitos de proteção de raças e de características da produção.
+
+4. Os Estados-Membros informarão a Comissão sobre eventuais derrogações concedidas ao abrigo do ponto 3, bem como sobre os critérios utilizados.
+
+1. Os carneiros a abranger pela amostragem serão identificados individualmente por meios seguros.
+
+2. Os carneiros considerados portadores do alelo VRQ não poderão abandonar a exploração, exceto para serem abatidos.
+
+1. O quadro para o reconhecimento do estatuto de resistência às EET de efetivos de ovinos deve reconhecer o estatuto de resistência às EET de efetivos de ovinos que, na sequência da participação no programa de criação conforme previsto no artigo 6.º-A, respeitem os critérios definidos no programa.
+
+a) os efetivos de nível I serão os efetivos constituídos inteiramente por ovinos do genótipo ARR/ARR;
+
+b) os efetivos de nível II serão os efetivos cuja descendência provier exclusivamente de machos reprodutores do genótipo ARR/ARR.
+
+2. Proceder-se-á à amostragem aleatória periódica de ovinos pertencentes a efetivos resistentes às EET:
+
+a) na exploração ou no matadouro, para verificar o seu genótipo;
+
+b) no caso de efetivos de nível I, no matadouro, em animais com mais de 18 meses de idade, para o teste às EET, em conformidade com o anexo III.
+
+Os Estados-Membros que introduzirem programas de criação nacionais destinados à seleção de resistência às EET dos respetivos efetivos ovinos devem:
+
+1. Notificar a Comissão dos requisitos aplicáveis a esses programas;
+
+2. Apresentar à Comissão um relatório sempre que sejam introduzidas alterações a esses programas.
+
+## ANEXO VIII
+
+### INTRODUÇÃO NO MERCADO E EXPORTAÇÃO
+
+### CAPÍTULO A
+
+### Condições aplicáveis às trocas intra-União de animais vivos, sémen e embriões
+
+#### SECÇÃO A
+
+#### Condições aplicáveis aos ovinos e caprinos e respetivos sémen e embriões
+
+1. Nas explorações com um risco negligenciável de tremor epizoótico clássico e um risco controlado de tremor epizoótico clássico: 1.1. Para efeitos do comércio intra-União, os Estados-Membros devem, conforme adequado, estabelecer e supervisionar um regime oficial para o reconhecimento das explorações com um risco negligenciável de tremor epizoótico clássico e as explorações com um risco controlado de tremor epizoótico clássico. Com base nesse regime oficial, devem, conforme aplicável, estabelecer e manter listas de explorações de ovinos e caprinos com um risco negligenciável e explorações com um risco controlado de tremor epizoótico clássico. [▼M74](http://publications.europa.eu/resource/celex/32024R0887) 1.2. Uma exploração de ovinos que tenha o estatuto de resistência às EET de nível I, tal como estabelecido no anexo VII, capítulo C, parte 4, ponto 1, alínea a), e onde nenhum caso de tremor epizoótico clássico foi confirmado durante pelo menos os últimos sete anos, pode ser reconhecida como tendo um risco negligenciável de tremor epizoótico clássico. Uma exploração de ovinos, de caprinos, ou de ovinos e caprinos pode também ser reconhecida como tendo um risco negligenciável de tremor epizoótico clássico, desde que tenham sido cumpridas as seguintes condições durante pelo menos os últimos sete anos: a) os ovinos e caprinos encontram-se permanentemente identificados e são mantidos registos para que se possa determinar a exploração de nascimento; b) são mantidos registos de entrada e de saída de ovinos e caprinos da exploração; c) só são introduzidos na exploração os seguintes ovinos e caprinos: i) ovinos e caprinos provenientes de explorações com um risco negligenciável de tremor epizoótico clássico, ii) ovinos e caprinos provenientes de explorações que cumpriram as condições estabelecidas nas alíneas a) a i) durante pelo menos os últimos sete anos, ou pelo menos durante um período correspondente ao período durante o qual a exploração onde serão introduzidos cumpriu as condições previstas naquelas alíneas, iii) ovinos com o genótipo de proteína de prião ARR/ARR e caprinos portadores de pelo menos um dos alelos K222, D146 ou S146, iv) ovinos ou caprinos que cumprem as condições previstas nas subalíneas i) ou ii), exceto durante o período em que permaneceram num centro de colheita de sémen, desde que este cumpra as seguintes condições: — o centro de colheita de sémen foi aprovado em conformidade com a parte II, capítulo 1, do Regulamento Delegado (UE) 2020/686 da Comissão ([^30^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0036)), — durante os últimos sete anos, só foram introduzidos no centro de colheita de sémen os ovinos ou caprinos provenientes de explorações que cumpriram, durante esse período, as condições estabelecidas nas alíneas a), b) e e), e que foram submetidas a controlos regulares por um veterinário oficial ou por um veterinário autorizado pela autoridade competente, — não foi confirmado nenhum caso de tremor epizoótico clássico no centro de colheita de sémen durante os últimos sete anos, — no centro de colheita de sémen, estão em vigor medidas de bioproteção para assegurar que os ovinos e caprinos mantidos no centro e provenientes de explorações com um estatuto de risco negligenciável ou controlado de tremor epizoótico clássico não têm qualquer contacto direto ou indireto com ovinos e caprinos provenientes de explorações de estatuto inferior em matéria de tremor epizoótico clássico; d) a exploração é submetida a controlos regulares a fim de verificar a sua conformidade com as condições estabelecidas nas alíneas a) a i) por um veterinário oficial ou por um veterinário autorizado para esse efeito pela autoridade competente, a levar a cabo pelo menos uma vez por ano; e) não foi confirmado nenhum caso de tremor epizoótico clássico; f) todos os ovinos e caprinos com idade superior a 18 meses que tenham morrido ou sido mortos por motivos diferentes do abate para consumo humano são testados num laboratório para a deteção de tremor epizoótico clássico em conformidade com os métodos e protocolos laboratoriais enunciados no anexo X, capítulo C, ponto 3.2. Em derrogação a essa condição específica, os Estados-Membros podem decidir que todos os ovinos e caprinos com mais de 18 meses de idade sem valor comercial, que foram mortos no final da sua vida produtiva e não abatidos para consumo humano, são inspecionados por um veterinário oficial, e todos aqueles que apresentem sinais de doença emaciante ou sinais neurológicos são testados num laboratório para a deteção de tremor epizoótico clássico em conformidade com os métodos e protocolos laboratoriais enunciados no anexo X, capítulo C, ponto 3.2; g) só são introduzidos na exploração os seguintes óvulos e embriões de animais das espécies ovina e caprina: i) óvulos e embriões de animais dadores que permaneceram desde o seu nascimento num Estado-Membro com um risco negligenciável de tremor epizoótico clássico, ou numa exploração com um risco negligenciável ou controlado de tremor epizoótico clássico, ou que cumpram os seguintes requisitos: — encontram-se permanentemente identificados para que se possa determinar a exploração de nascimento, — permaneceram desde o seu nascimento em explorações nas quais, durante a sua permanência, não foi confirmado qualquer caso de tremor epizoótico clássico, — não apresentavam qualquer sinal clínico de tremor epizoótico clássico no momento da colheita dos óvulos ou dos embriões, ii) óvulos e embriões de animais da espécie ovina portadores de pelo menos um alelo ARR e de animais da espécie caprina portadores de pelo menos um dos alelos K222, D146 ou S146; h) só é introduzido na exploração o seguinte sémen de animais das espécies ovina e caprina: i) sémen de animais dadores que permaneceram desde o seu nascimento num Estado-Membro com um risco negligenciável de tremor epizoótico clássico, ou numa exploração com um risco negligenciável ou um risco controlado de tremor epizoótico clássico, ou que cumpram os seguintes requisitos: — encontram-se permanentemente identificados para que se possa determinar a exploração de nascimento, — não apresentavam qualquer sinal clínico de tremor epizoótico clássico no momento da colheita do sémen, ii) sémen de carneiros com o genótipo de proteína de prião ARR/ARR e de bodes portadores de pelo menos um dos alelos K222, D146 ou S146; i) os ovinos e caprinos na exploração não têm qualquer contacto direto ou indireto, incluindo a partilha de pastagem, com ovinos e caprinos de explorações com um estatuto inferior em matéria de tremor epizoótico clássico. 1.3. Uma exploração de ovinos, de caprinos, ou de ovinos e caprinos pode ser reconhecida como tendo um risco controlado de tremor epizoótico clássico, desde que tenham sido cumpridas as seguintes condições durante pelo menos os últimos três anos: a) os ovinos e caprinos encontram-se permanentemente identificados e são mantidos registos para que se possa determinar a exploração de nascimento; b) são mantidos registos de entrada e de saída de ovinos e caprinos da exploração; c) só são introduzidos na exploração os seguintes ovinos e caprinos: i) ovinos e caprinos provenientes de explorações com um risco negligenciável ou controlado de tremor epizoótico clássico, ii) ovinos e caprinos provenientes de explorações que cumpriram as condições estabelecidas nas alíneas a) a i) durante pelo menos os últimos três anos, ou pelo menos durante um período correspondente ao período durante o qual a exploração onde serão introduzidos cumpriu as condições previstas naquelas alíneas, iii) ovinos com o genótipo de proteína de prião ARR/ARR e caprinos portadores de pelo menos um dos alelos K222, D146 ou S146, iv) ovinos ou caprinos que cumprem as condições previstas nas subalíneas i) ou ii), exceto durante o período em que permaneceram num centro de colheita de sémen, desde que este cumpra as seguintes condições: — o centro de colheita de sémen foi aprovado em conformidade com a parte II, capítulo 1, do Regulamento Delegado (UE) 2020/686, — durante os últimos três anos, só foram introduzidos no centro de colheita de sémen os ovinos ou caprinos provenientes de explorações que cumpriram, durante esse período, as condições estabelecidas nas alíneas a), b) e e), e que foram submetidas a controlos regulares por um veterinário oficial ou por um veterinário autorizado pela autoridade competente, — não foi confirmado nenhum caso de tremor epizoótico clássico no centro de colheita de sémen durante os últimos três anos, — no centro de colheita de sémen, estão em vigor medidas de bioproteção para assegurar que os ovinos e caprinos mantidos no centro e provenientes de explorações com um estatuto de risco negligenciável ou controlado de tremor epizoótico clássico não têm qualquer contacto direto ou indireto com ovinos e caprinos provenientes de explorações de estatuto inferior em matéria de tremor epizoótico clássico; d) a exploração é submetida a controlos regulares a fim de verificar a sua conformidade com as condições estabelecidas nas alíneas a) a i) por um veterinário oficial ou por um veterinário autorizado para esse efeito pela autoridade competente, a levar a cabo pelo menos uma vez por ano; e) não foi confirmado nenhum caso de tremor epizoótico clássico; f) todos os ovinos e caprinos com idade superior a 18 meses que tenham morrido ou sido mortos por motivos diferentes do abate para consumo humano são testados num laboratório para a deteção de tremor epizoótico clássico em conformidade com os métodos e protocolos laboratoriais enunciados no anexo X, capítulo C, ponto 3.2. Em derrogação a essa condição específica, os Estados-Membros podem decidir que todos os ovinos e caprinos com mais de 18 meses de idade sem valor comercial, que foram mortos no final da sua vida produtiva e não abatidos para consumo humano, são inspecionados por um veterinário oficial, e todos aqueles que apresentem sinais de doença emaciante ou sinais neurológicos são testados num laboratório para a deteção de tremor epizoótico clássico em conformidade com os métodos e protocolos laboratoriais enunciados no anexo X, capítulo C, ponto 3.2; g) só são introduzidos na exploração os seguintes óvulos e embriões de animais das espécies ovina e caprina: i) óvulos e embriões de animais dadores que permaneceram desde o seu nascimento num Estado-Membro com um risco negligenciável de tremor epizoótico clássico, ou numa exploração com um risco negligenciável ou controlado de tremor epizoótico clássico, ou que cumpram os seguintes requisitos: — encontram-se permanentemente identificados para que se possa determinar a exploração de nascimento, — permaneceram desde o seu nascimento em explorações nas quais, durante a sua permanência, não foi confirmado qualquer caso de tremor epizoótico clássico, — não apresentavam qualquer sinal clínico de tremor epizoótico clássico no momento da colheita dos óvulos ou dos embriões, ii) óvulos e embriões de animais da espécie ovina portadores de pelo menos um alelo ARR e de animais da espécie caprina portadores de pelo menos um dos alelos K222, D146 ou S146; h) só é introduzido na exploração o seguinte sémen de animais das espécies ovina e caprina: i) sémen de animais dadores que permaneceram desde o seu nascimento num Estado-Membro com um risco negligenciável de tremor epizoótico clássico, ou numa exploração com um risco negligenciável ou com um risco controlado de tremor epizoótico clássico, ou que cumpram os seguintes requisitos: — encontram-se permanentemente identificados para que se possa determinar a exploração de nascimento, — não apresentavam qualquer sinal clínico de tremor epizoótico clássico no momento da colheita do sémen, ii) sémen de carneiros com o genótipo de proteína de prião ARR/ARR e de bodes portadores de pelo menos um dos alelos K222, D146 ou S146; i) os ovinos e caprinos da exploração não têm qualquer contacto direto ou indireto, incluindo a partilha de pastagem, com ovinos e caprinos de explorações com um estatuto inferior em matéria de tremor epizoótico clássico. [▼M55](http://publications.europa.eu/resource/celex/32016R1396) 1.4. Se se confirmar um caso de tremor epizoótico clássico numa exploração com um risco negligenciável ou um risco controlado de tremor epizoótico clássico, ou numa exploração que, segundo um inquérito referido no anexo VII, capítulo B, parte 1, tenha uma ligação epidemiológica com uma exploração com um risco negligenciável ou um risco controlado de tremor epizoótico clássico, a exploração com um risco negligenciável ou um risco controlado de tremor epizoótico clássico deve ser imediatamente suprimida da lista referida no ponto 1.1 da presente secção. O Estado-Membro deve informar imediatamente os demais Estados-Membros onde tenham sido introduzidos ovinos e caprinos originários da exploração infetada, ou sémen ou embriões de ovinos e caprinos mantidos nessa exploração, durante os últimos sete anos, no caso de uma exploração com um risco negligenciável de tremor epizoótico clássico, ou durante os últimos três anos, no caso de uma exploração com um risco controlado de tremor epizoótico clássico.
+
+2. Estados-Membros ou zonas de um Estado-Membro com um risco negligenciável de tremor epizoótico clássico 2.1. Um Estado-Membro que considere que o seu território ou parte do seu território apresenta um risco negligenciável de tremor epizoótico clássico, deverá apresentar à Comissão as justificações apropriadas, especificando, em especial, que: a) foi efetuada uma avaliação de riscos, pela qual ficou demonstrado que são aplicadas medidas adequadas, e que são aplicáveis durante o tempo suficiente para gerir todos os riscos identificados. A avaliação do risco deve identificar todos os fatores potenciais para a ocorrência de tremor epizoótico clássico e a respetiva perspetiva histórica, em especial, no tocante aos seguintes aspetos: i) importação ou introdução de ovinos e caprinos ou respetivos sémen e embriões potencialmente infetados com o tremor epizoótico clássico; ii) conhecimento da estrutura da população e as práticas pecuárias relativas a ovinos e caprinos; iii) práticas de alimentação animal, incluindo consumo, pelos bovinos, de farinhas de carne e de ossos ou torresmos derivados de ruminantes; iv) importação de leite e produtos à base de leite provenientes dos ovinos ou caprinos destinados a ser utilizados na alimentação de ovinos e caprinos; [▼M55](http://publications.europa.eu/resource/celex/32016R1396) b) durante pelo menos os últimos sete anos, foram efetuados testes a ovinos e caprinos com sinais clínicos compatíveis com o tremor epizoótico clássico; c) durante pelo menos os últimos sete anos, testou-se anualmente um número suficiente de ovinos e caprinos com mais de 18 meses de idade, representativo dos ovinos e caprinos abatidos, que morreram ou foram abatidos por outras razões que não o abate para consumo humano, a fim de proporcionar um nível de confiança de 95 % para a deteção do tremor epizoótico clássico se estiver presente nessa população a uma taxa de prevalência superior a 0,1 %, não tendo sido comunicado durante esse período nenhum caso de tremor epizoótico clássico; [▼C2](http://publications.europa.eu/resource/celex/32013R0630R%2803%29) d) foi proibida a alimentação de animais das espécies ovina e caprina com farinhas de carne e de ossos ou torresmos provenientes de ruminantes, tendo essa proibição sido aplicada de forma eficaz em todo o território do Estado-Membro, por um período de pelo menos sete anos; e) a introdução de ovinos e caprinos e respetivos sémen e embriões provenientes de outros Estados-Membros é realizada em conformidade com o disposto no ponto 4.1, alínea b), ou no ponto 4.2; f) a introdução de ovinos e caprinos e respetivos sémen e embriões provenientes de países terceiros é realizada em conformidade com o capítulo E ou capítulo H do anexo IX. [▼M50](http://publications.europa.eu/resource/celex/32013R0630) 2.2. O estatuto de risco negligenciável de tremor epizoótico clássico do Estado-Membro ou da zona do Estado-Membro pode ser aprovado em conformidade com o procedimento referido no artigo 24.º, n.º 2. O Estado-Membro deve notificar a Comissão de qualquer alteração das informações fornecidas nos termos do ponto 2.1 respeitantes à doença. À luz das informações comunicadas, o estatuto de risco negligenciável aprovado em conformidade com o ponto 2.2, poderá ser retirado em conformidade com o procedimento previsto no artigo 24.º, n.º 2. [▼M76](http://publications.europa.eu/resource/celex/32025R0328) 2.3. Os Estados-Membros ou zonas de um Estado-Membro com um risco negligenciável de tremor epizoótico clássico são os seguintes: — Áustria — Chéquia — Eslovénia — Finlândia — Suécia. [▼M50](http://publications.europa.eu/resource/celex/32013R0630)
+
+3. Programa nacional de controlo para o tremor epizoótico clássico: 3.1. Um Estado-Membro que tenha um programa nacional obrigatório de luta contra o tremor epizoótico clássico que abranja todo o seu território: a) poderá submetê-lo à apreciação da Comissão, indicando nomeadamente: — a distribuição do tremor epizoótico clássico no Estado-Membro, — a justificação do programa de controlo nacional, tomando em consideração a importância da doença e a relação custo/benefício, — as categorias de estatuto definidas para as explorações e as normas que devem ser alcançadas em cada subcategoria, — os métodos de ensaio a utilizar, — os procedimentos controlo do programa nacional de controlo, — os resultados da perda do estatuto da exploração, por qualquer razão que seja, — as medidas a tomar em caso de resultados positivos constatados por ocasião dos controlos efectuados em conformidade com o programa nacional de controlo, b) o programa referido na alínea a) pode ser aprovado se cumprir os critérios estabelecidos nessa alínea e em conformidade com o procedimento previsto no artigo 24.º, n.º 2; as alterações ou as adendas aos programas apresentados pelos Estados-Membros podem ser aprovadas em conformidade com o procedimento referido no artigo 24.º, n.º 2. [▼M58](http://publications.europa.eu/resource/celex/32017R0736) 3.2. São aprovados os programas nacionais de controlo do tremor epizoótico dos seguintes Estados-Membros: — Dinamarca, — Eslovénia.
+
+4. Comércio intra-União de ovinos e caprinos e respetivos sémen e embriõesAplicam-se as seguintes condições: 4.1. Ovinos e caprinos: a) os ovinos e caprinos para reprodução destinados a Estados-Membros que não aqueles que apresentam um risco negligenciável de tremor epizoótico clássico ou que disponham de um programa nacional aprovado de controlo do tremor epizoótico devem: i) ser provenientes de uma exploração ou de explorações com um risco negligenciável ou controlado de tremor epizoótico clássico, ou ii) ser provenientes de um Estado-Membro ou zona de um Estado-Membro com um risco negligenciável de tremor epizoótico clássico, ou [▼M66](http://publications.europa.eu/resource/celex/32020R0772) iii) no caso de ovinos, ter genótipo de proteína de prião ARR/ARR e, no caso de caprinos, ter, pelo menos, um dos alelos K222, D146 ou S146, desde que não provenham de uma exploração sujeita às restrições previstas no anexo VII, capítulo B, pontos 3 e 4; [▼M55](http://publications.europa.eu/resource/celex/32016R1396) b) os ovinos e caprinos para todas as utilizações previstas, exceto para o abate imediato, destinados a Estados-Membros com um risco negligenciável de tremor epizoótico clássico ou com um programa nacional aprovado de controlo do tremor epizoótico devem: i) ser provenientes de uma exploração ou de explorações com um risco negligenciável de tremor epizoótico clássico, ou ii) ser provenientes de um Estado-Membro ou zona de um Estado-Membro com um risco negligenciável de tremor epizoótico clássico, ou [▼M66](http://publications.europa.eu/resource/celex/32020R0772) iii) no caso de ovinos, ter genótipo de proteína de prião ARR/ARR e, no caso de caprinos, ter, pelo menos, um dos alelos K222, D146 ou S146, desde que não provenham de uma exploração sujeita às restrições previstas no anexo VII, capítulo B, pontos 3 e 4; [▼M74](http://publications.europa.eu/resource/celex/32024R0887) c) em derrogação ao disposto nas alíneas a) e b), os requisitos previstos nessas alíneas não se aplicam aos ovinos e caprinos que são mantidos em estabelecimentos confinados, tal como definidos no artigo 4.º, ponto 48), do Regulamento (UE) 2016/429 ([^31^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0037)), e transportados exclusivamente entre estes; [▼M55](http://publications.europa.eu/resource/celex/32016R1396) d) em derrogação ao disposto nas alíneas a) e b), a autoridade competente de um Estado-Membro pode autorizar o comércio intra-União de animais que não cumpram os requisitos estabelecidos nessas alíneas, desde que tenha recebido o consentimento prévio da autoridade competente dos Estados-Membros de destino dos animais e desde que os animais cumpram as seguintes condições: [▼M66](http://publications.europa.eu/resource/celex/32020R0772) i) a raça dos animais é uma raça ameaçada, ii) os animais estão inscritos num livro genealógico dessa raça no Estado-Membro de expedição. Este livro genealógico é estabelecido e mantido por uma associação de criadores reconhecida nos termos do artigo 4.º, n.º 3, do Regulamento (UE) 2016/1012, ou por uma autoridade competente desse Estado-Membro, em conformidade com o artigo 38.º do mesmo regulamento. Os animais serão também inscritos num livro genealógico dessa raça no Estado-Membro de destino. Este livro genealógico é também estabelecido e mantido por uma associação de criadores reconhecida nos termos do artigo 4.º, n.º 3, do Regulamento (UE) 2016/1012, ou por uma autoridade competente desse Estado-Membro, em conformidade com o artigo 38.º do mesmo regulamento, iii) no Estado-Membro de expedição e no Estado-Membro de destino, as associações de criadores ou autoridades competentes referidas na subalínea ii) realizam um programa de melhoramento destinado à conservação dessa raça, [▼M55](http://publications.europa.eu/resource/celex/32016R1396) iv) os animais não provêm de uma exploração sujeita às restrições previstas no anexo VII, capítulo B, pontos 3 e 4, v) [**►M66**](http://publications.europa.eu/resource/celex/32020R0772) após a entrada dos animais que não cumprem os requisitos estabelecidos na alínea a) ou b) na exploração recetora no Estado-Membro de destino, a circulação de todos os ovinos e caprinos dessa exploração deve ser restringida em conformidade com o anexo VII, capítulo B, ponto 3.4, durante um período de três anos. Se o Estado-Membro de destino tiver um risco negligenciável de tremor epizoótico clássico ou tiver um programa nacional aprovado de controlo do tremor epizoótico, esta restrição será mantida por um período de sete anos. Em derrogação ao primeiro parágrafo da presente subalínea, essa restrição ao comércio intra-União ou à circulação de animais no interior do Estado-Membro não é aplicável aos animais pertencentes a uma raça ameaçada destinados a uma exploração na qual esta raça é criada. A raça deve ser abrangida por um programa de melhoramento destinado à conservação da raça e realizado por uma associação de criadores, na aceção do artigo 2.º, n.º 5, do Regulamento (UE) 2016/1012, ou uma autoridade competente, em conformidade com o artigo 38.º do mesmo regulamento.**◄** Após o comércio intra-União ou a circulação em território nacional referidos no segundo parágrafo da subalínea v), a circulação de todos os ovinos e caprinos da exploração ou explorações que recebem animais transportados ao abrigo desta derrogação deve ser restringida em conformidade com o primeiro e segundo parágrafos da subalínea v). 4.2. O sémen e os embriões de animais das espécies ovina e caprina devem: a) ser colhidos de animais que tenham permanecido sem interrupção desde o seu nascimento numa exploração ou explorações com um risco negligenciável ou um risco controlado de tremor epizoótico clássico, exceto se a exploração for um centro de colheita de sémen, desde que este cumpra as condições estabelecidas no ponto 1.3, alínea c), subalínea iv); ou b) ser colhidos de animais que tenham permanecido sem interrupção, durante os últimos três anos anteriores à colheita, numa exploração ou explorações que tenham cumprido todas as condições estabelecidas no ponto 1.3, alíneas a) a f) durante três anos, exceto se a exploração for um centro de colheita de sémen, desde que este cumpra as condições estabelecidas no ponto 1.3, alínea c), subalínea iv); ou c) ser colhidos de animais que tenham permanecido sem interrupção desde o seu nascimento num país ou zona com um risco negligenciável de tremor epizoótico clássico; ou [▼M74](http://publications.europa.eu/resource/celex/32024R0887) d) no caso de sémen de animais da espécie ovina, ser colhido de machos com o genótipo de proteína de prião ARR/ARR e, no caso de sémen de animais da espécie caprina, ser colhido de machos portadores de pelo menos um dos alelos K222, D146 ou S146; ou e) no caso de embriões de animais da espécie ovina, serem portadores de pelo menos um alelo ARR e, no caso de embriões de animais da espécie caprina, serem portadores de pelo menos um dos alelos K222, D146 ou S146.
+
+#### SECÇÃO C
+
+#### Condições aplicáveis aos cervídeos
+
+1. Lista de Estados-Membros e respetivas zonas estabelecidas em relação à doença emaciante crónica
+
+1.1. Estados-Membros em que foram confirmados casos de doença emaciante crónica:
+
+a) Finlândia
+
+b) Suécia
+
+1.2. Zonas da Finlândia e da Suécia definidas em relação ao risco de doença emaciante crónica associado à circulação transfronteiriça tradicional de renas vivas semidomesticadas de e para a Noruega:
+
+a) Na Finlândia: zona situada entre a fronteira entre a Noruega e a Finlândia e a vedação para renas entre a Noruega e a Finlândia;
+
+b) Na Suécia:
+
+— distrito de Norrbotten,
+
+— distrito de Västerbotten,
+
+— distrito de Jämtland,
+
+— distrito de Västernorrland,
+
+— município de Älvdalen, no distrito de Dalarna,
+
+— municípios de Nordanstig, Hudiksvall e Söderhamn, no distrito de Gävleborg.
+
+2. Circulação de cervídeos vivos da Noruega para a União
+
+2.1. É proibida a circulação de cervídeos vivos da Noruega para a União.
+
+2.2. Em derrogação do disposto no ponto 2.1, é permitida a circulação de cervídeos vivos nos seguintes casos:
+
+a) Circulação de renas semidomesticadas vivas, para pastoreio sazonal, da Noruega para as zonas da Suécia constantes da lista do ponto 1.2, alínea b), desde que a autoridade competente da Suécia dê o seu consentimento escrito prévio para essa circulação;
+
+b) Regresso da Noruega de renas semidomesticadas vivas às zonas da Suécia constantes da lista do ponto 1.2, alínea b), após pastoreio sazonal na Noruega, desde que a autoridade competente da Suécia dê o seu consentimento escrito prévio para essa circulação;
+
+c) Circulação de renas semidomesticadas vivas, para pastoreio sazonal, da Noruega para as zonas da Finlândia constantes da lista do ponto 1.2, alínea a);
+
+d) Regresso da Noruega de renas semidomesticadas vivas à Finlândia, que estiveram em pastoreio na Noruega, na zona situada entre a fronteira entre a Noruega e a Finlândia e a vedação para renas entre a Noruega e a Finlândia;
+
+e) Circulação de cervídeos vivos da Noruega para a Suécia ou para a Finlândia, para abate direto, desde que a autoridade competente do Estado-Membro de destino dê o seu consentimento escrito prévio para essa circulação;
+
+f) Circulação de renas semidomesticadas vivas da Noruega para as zonas da Suécia constantes da lista o ponto 1.2, alínea b), para participarem em manifestações culturais ou desportivas, desde que a autoridade competente da Suécia dê o seu consentimento escrito prévio para a circulação de cada remessa;
+
+g) Regresso da Noruega de renas semidomesticadas vivas às zonas da Suécia constantes do ponto 1.2, alínea b), após terem participado em manifestações culturais ou desportivas na Noruega, desde que a autoridade competente da Suécia dê o seu consentimento escrito prévio para a circulação de cada remessa;
+
+h) Trânsito de cervídeos vivos da Noruega, através da Suécia ou da Finlândia e com destino à Noruega, desde que a autoridade competente do Estado-Membro de trânsito dê o seu consentimento escrito prévio.
+
+3. Circulação de cervídeos vivos para fora das zonas da Finlândia e da Suécia com uma tradição de circulação transfronteiriça de renas vivas semidomesticadas com a Noruega
+
+3.1. É proibida a circulação de cervídeos vivos para fora das zonas constantes da lista do ponto 1.2.
+
+3.2. Em derrogação do ponto 3.1, é permitida a circulação de cervídeos vivos para fora das zonas constantes da lista do ponto 1.2, nos seguintes casos:
+
+a) Circulação de cervídeos vivos para a Noruega, desde que a autoridade competente da Noruega dê o seu consentimento escrito prévio para essa circulação;
+
+b) Circulação de cervídeos vivos para abate direto na Finlândia ou na Suécia, desde que a autoridade competente do local de destino dê o seu consentimento escrito prévio para essa circulação;
+
+c) Circulação de renas-da-floresta vivas das zonas da Suécia constantes da lista do ponto 1.2, alínea b), para a Finlândia, desde que a autoridade competente da Finlândia dê o seu consentimento escrito prévio para essa circulação;
+
+d) Circulação de cervídeos vivos a partir de um estabelecimento confinado, como definido no artigo 4.º, alínea 48), do Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho ([^32^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0038)) e situado numa zona constante da lista do ponto 1.2, alínea b), do presente anexo, para um estabelecimento confinado, como definido no artigo 4.º, alínea 48), do Regulamento (UE) 2016/429, na Suécia, desde que a autoridade competente da Suécia dê o seu consentimento escrito prévio para essa circulação.
+
+4. Circulação de cervídeos vivos para fora de um Estado-Membro em que a doença emaciante crónica foi confirmada
+
+4.1. Sem prejuízo do disposto no ponto 3, é proibida a circulação de cervídeos vivos a partir de um Estado-Membro constante da lista do ponto 1.1 para outro Estado-Membro.
+
+4.2. Em derrogação do ponto 4.1, é permitida a circulação de cervídeos vivos para fora de um Estado-Membro constante da lista do ponto 1.1, nos seguintes casos:
+
+a) Circulação de cervídeos vivos para abate direto noutro Estado-Membro constante da lista do ponto 1.1 ou na Noruega;
+
+b) Circulação de cervídeos vivos para outro Estado-Membro constante da lista do ponto 1.1 ou para a Noruega, para outros fins que não o abate direto, desde que a autoridade competente do local de destino dê o seu consentimento escrito prévio para essa circulação;
+
+c) Circulação de cervídeos vivos a partir de um estabelecimento confinado, como definido no artigo 4.º, alínea 48), do Regulamento (UE) 2016/429, para um estabelecimento confinado, como definido no artigo 4.º, alínea 48), do Regulamento (UE) 2016/429, noutro Estado-Membro, desde que a autoridade competente do local de destino dê o seu consentimento escrito prévio para essa circulação.
+
+### CAPÍTULO B
+
+#### Condições relativas à progenitura de animais com suspeita ou confirmação de EET, de acordo com o n.º 2 do artigo 15.º
+
+É proibida a comercialização da última progenitura dada à luz por fêmeas bovinas atingidas por uma EET ou de ovinos e caprinos atingidos por um caso de EEB confirmado nos dois anos anteriores ou durante o período que se seguiu à ocorrência das primeiras manifestações clínicas da doença.
+
+### CAPÍTULO C
+
+### Condições para as trocas intracomunitárias de certos produtos de origem animal
+
+#### SECÇÃO A
+
+#### Produtos
+
+Aos produtos de origem animal a seguir indicados não se aplica a proibição referida no n.º 3 do artigo 16.º, desde que sejam derivados de animais da espécie bovina, ovina ou caprina que satisfaçam os requisitos da secção B:
+
+— carne fresca,
+
+— carne picada,
+
+— preparados de carnes,
+
+— produtos à base de carne.
+
+#### SECÇÃO B
+
+#### Requisitos
+
+Os produtos referidos na secção A devem satisfazer os requisitos seguintes:
+
+a) Os animais de onde provêm os produtos de origem bovina, ovina ou caprina não foram alimentados com farinhas de carne e de ossos nem com torresmos derivados de ruminantes e foram submetidos a inspecções *ante mortem* e *post mortem*;
+
+b) Os animais de onde provêm os produtos de origem bovina, ovina e caprina não foram abatidos após atordoamento através da injecção de gás na cavidade craniana, nem mortos pelo mesmo método, e não foram abatidos por laceração do tecido do sistema nervoso central, após atordoamento, através de um instrumento comprido de forma cilíndrica introduzido na cavidade craniana;
+
+c) Os produtos de origem bovina, ovina e caprina não derivam de:
+
+i) matérias de risco especificadas, tal como definidas no anexo V,
+
+ii) tecido nervoso e linfático exposto durante o processo de desossa, nem de
+
+iii) carne separada mecanicamente obtida a partir de ossos de bovinos, ovinos ou caprinos.
+
+#### SECÇÃO C
+
+#### Iscos de caça à base de urina de cervídeos
+
+1. É proibida a circulação para a União de remessas de iscos de caça à base de urina derivada de cervídeos originários da Noruega.
+
+2. São proibidos o fabrico, a introdução no mercado e a utilização de iscos de caça à base de urina de cervídeos originários dos Estados-Membros constantes da lista do capítulo A, secção C, ponto 1.1.
+
+### CAPÍTULO D
+
+#### Condições aplicáveis às exportações
+
+Os bovinos vivos e os produtos de origem animal deles derivados estão sujeitos, no que se refere às exportações para países terceiros, às regras previstas pelo presente regulamento para as trocas intracomunitárias.
+
+## ANEXO IX
+
+### IMPORTAÇÃO DE ANIMAIS VIVOS, EMBRIÕES, ÓVULOS E PRODUTOS DE ORIGEM ANIMAL PARA A UNIÃO
+
+#### CAPÍTULO B
+
+#### Importações de bovinos
+
+As importações de bovinos a partir de um país ou região com um risco negligenciável de EEB devem ser sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) os animais nasceram e foram criados permanentemente num país ou região ou em países ou regiões classificados, em conformidade com a Decisão 2007/453/CE da Comissão ([^33^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0039)), como países ou regiões apresentando um risco negligenciável de EEB;
+
+b) os animais estão identificados através de um sistema de identificação permanente que permite detetar a mãe e o efetivo de origem, e não são nenhum dos seguintes bovinos:
+
+i) todos os casos de EEB,
+
+ii) todos os bovinos que, durante o seu primeiro ano de vida, foram criados com casos de EEB durante o seu primeiro ano de vida e que, de acordo com investigações, consumiram, durante esse período, os mesmos alimentos potencialmente contaminados, ou
+
+iii) se os resultados das investigações referidas na subalínea ii) forem inconclusivos, todos os bovinos nascidos no mesmo efetivo que os casos de EEB, nos 12 meses anteriores ou seguintes ao nascimento destes;
+
+c) se se tiverem registado casos nativos de EEB no país em causa, os animais nasceram:
+
+i) após a data de entrada em vigor efetiva da proibição de alimentar ruminantes com farinhas de carne e de ossos e com torresmos derivados de ruminantes, tal como definidos no Código Sanitário para os Animais Terrestres da OIE, ou
+
+ii) após a data de nascimento do último caso nativo de EEB, se este tiver nascido após a data de entrada em vigor da proibição referida na subalínea i).
+
+As importações de bovinos de um país ou região com um risco controlado de EEB devem ser sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) o país ou região está classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco controlado de EEB;
+
+b) os animais estão identificados através de um sistema de identificação permanente que permite detetar a mãe e o efetivo de origem, e não são nenhum dos seguintes bovinos:
+
+i) todos os casos de EEB,
+
+ii) todos os bovinos que, durante o seu primeiro ano de vida, foram criados com casos de EEB durante o seu primeiro ano de vida e que, de acordo com investigações, consumiram, durante esse período, os mesmos alimentos potencialmente contaminados, ou
+
+iii) se os resultados das investigações referidas na subalínea ii) forem inconclusivos, todos os bovinos nascidos no mesmo efetivo que os casos de EEB, nos 12 meses anteriores ou seguintes ao nascimento destes;
+
+c) os animais nasceram:
+
+i) após a data de entrada em vigor efetiva da proibição de alimentar ruminantes com farinhas de carne e de ossos e com torresmos derivados de ruminantes, tal como definidos no Código Sanitário para os Animais Terrestres da OIE, ou
+
+ii) após a data de nascimento do último caso nativo de EEB, se este tiver nascido após a data de entrada em vigor da proibição referida na subalínea i).
+
+As importações de bovinos a partir de um país ou região com um risco indeterminado de EEB devem ser sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) o país ou região está classificado em conformidade com a Decisão 2007/453/CE como país ou região apresentando um risco indeterminado de EEB;
+
+b) a alimentação de ruminantes com farinhas de carne e de ossos ou torresmos provenientes de ruminantes, tal como definidos no Código Sanitário para os Animais Terrestres da OIE, foi proibida e essa proibição entrou efetivamente em vigor no país ou região;
+
+c) os animais estão identificados através de um sistema de identificação permanente que permite detetar a mãe e o efetivo de origem, e não são nenhum dos seguintes bovinos:
+
+i) todos os casos de EEB,
+
+ii) todos os bovinos que, durante o seu primeiro ano de vida, foram criados com casos de EEB durante o seu primeiro ano de vida e que, de acordo com investigações, consumiram, durante esse período, os mesmos alimentos potencialmente contaminados, ou
+
+iii) se os resultados das investigações referidas na subalínea ii) forem inconclusivos, todos os bovinos nascidos no mesmo efetivo que os casos de EEB, nos 12 meses anteriores ou seguintes ao nascimento destes;
+
+d) os animais nasceram:
+
+i) pelo menos dois anos após a data de entrada em vigor efetiva da proibição de alimentar ruminantes com farinhas de carne e de ossos e com torresmos derivados de ruminantes, tal como definidos no Código Sanitário para os Animais Terrestres da OIE, ou
+
+ii) após a data de nascimento do último caso nativo de EEB, se este tiver nascido após a data de entrada em vigor da proibição referida na subalínea i).
+
+#### CAPÍTULO C
+
+#### Importações de produtos de origem bovina, ovina ou caprina
+
+Os seguintes produtos de origem bovina, ovina e caprina, definidos nos pontos a seguir indicados do anexo I do Regulamento (CE) n.º 853/2004, devem ser sujeitos às condições previstas nas secções B, C ou D do presente capítulo, em função da categoria de risco de EEB do país de origem:
+
+— carne fresca, tal como definida no ponto 1.10 do referido anexo;
+
+— carne picada, tal como definida no ponto 1.13 do referido anexo;
+
+— carne separada mecanicamente, tal como definida no ponto 1.14 do referido anexo;
+
+— preparados de carne, tal como definidos no ponto 1.15 do referido anexo;
+
+— produtos à base de carne, tal como definidos no ponto 7.1 do referido anexo;
+
+— gorduras animais fundidas, tal como definidas no ponto 7.5 do referido anexo;
+
+— torresmos, tal como definidos no ponto 7.6 do referido anexo;
+
+— gelatina, tal como definida no ponto 7.7 do referido anexo, com exceção da derivada de peles e couros;
+
+— colagénio, tal como definido no ponto 7.8 do referido anexo, com exceção do derivado de peles e couros;
+
+— estômagos, bexigas e intestinos tratados, tal como definidos no ponto 7.9 do referido anexo.
+
+As importações de produtos de origem bovina, ovina ou caprina, referidos na secção A, a partir de um país ou região com um risco negligenciável de EEB devem ser sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) o país ou região está classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco negligenciável de EEB;
+
+b) os animais de que derivam os produtos de origem bovina, ovina e caprina foram submetidos a inspeções *ante mortem* e *post mortem*;
+
+c) os produtos de origem bovina, ovina e caprina não contêm e não derivam de matérias de risco especificadas, tal como definidas no anexo V, ponto 1, do presente regulamento;
+
+d) se os animais de que derivam os produtos de origem bovina forem originários de um país ou região classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco controlado ou indeterminado de EEB, em derrogação ao disposto na alínea c) da presente secção, podem importar-se carcaças, meias-carcaças ou meias-carcaças cortadas num máximo de três partes destinadas ao comércio grossista e quartos que apenas contenham como matérias de risco especificadas a coluna vertebral, incluindo os gânglios das raízes dorsais. No caso de tais importações, as carcaças de bovinos ou as partes de carcaças de bovinos destinadas ao comércio grossista contendo a coluna vertebral, que é definida como matéria de risco especificada em conformidade com o anexo V, ponto 1, do presente regulamento, devem ser identificadas através de uma risca vermelha claramente visível no rótulo referido nos artigos 13.º ou 15.º do Regulamento (CE) n.º 1760/2000. Além disso, deve aditar-se ao Documento Veterinário Comum de Entrada (DVCE) referido no artigo 2.º, n.º 1, do Regulamento (CE) n.º 136/2004 informação específica sobre o número de carcaças de bovinos ou de partes de carcaças de bovinos destinadas ao comércio grossista das quais é obrigatório remover a coluna vertebral;
+
+e) os produtos de origem bovina, ovina e caprina não contêm e não derivam de carne separada mecanicamente obtida a partir de ossos de bovinos, ovinos ou caprinos, exceto se os animais de que derivam os produtos de origem bovina, ovina e caprina nasceram, foram criados continuamente e abatidos num país ou região classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco negligenciável de EEB em que não houve casos nativos de EEB;
+
+f) os animais de que derivam os produtos de origem bovina, ovina e caprina não foram abatidos após atordoamento através da injeção de gás na cavidade craniana, nem mortos pelo mesmo método, e não foram abatidos por laceração, após atordoamento, do tecido do sistema nervoso central através de um instrumento comprido de forma cilíndrica introduzido na cavidade craniana, exceto se os animais de que derivam os produtos de origem bovina, ovina e caprina nasceram, foram criados continuamente e abatidos num país ou região classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco negligenciável de EEB;
+
+g) se os animais de que derivam os produtos de origem bovina, ovina e caprina forem originários de um país ou região classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco indeterminado de EEB, os animais não foram alimentados com farinhas de carne e de ossos ou torresmos, tal como definidos no Código Sanitário para os Animais Terrestres da OIE;
+
+h) se os animais de que derivam os produtos de origem bovina, ovina e caprina forem originários de um país ou região classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco indeterminado de EEB, os produtos foram produzidos e manuseados de forma a garantir que não contêm e não estão contaminados com tecido nervoso e linfático exposto durante o processo de desossa.
+
+1. As importações de produtos de origem bovina, ovina ou caprina, referidos na secção A, a partir de um país ou região com um risco controlado de EEB devem ser sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) o país ou região está classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco controlado de EEB;
+
+b) os animais de que derivam os produtos de origem bovina, ovina e caprina foram submetidos a inspeções *ante mortem* e *post mortem*;
+
+c) os animais de que derivam os produtos de origem bovina, ovina e caprina destinados à exportação não foram abatidos por laceração, após atordoamento, do tecido nervoso central através de um instrumento comprido de forma cilíndrica introduzido na cavidade craniana, ou através da injeção de gás na cavidade craniana;
+
+d) os produtos de origem bovina, ovina ou caprina não contêm e não derivam de matérias de risco especificadas, tal como definidas no anexo V, ponto 1, do presente regulamento, nem de carne separada mecanicamente obtida a partir de ossos de bovinos, ovinos ou caprinos;
+
+e) se os animais de que derivam os produtos de origem bovina, ovina e caprina forem originários de um país ou região classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco indeterminado de EEB, os animais não foram alimentados com farinhas de carne e de ossos ou torresmos, tal como definidos no Código Sanitário para os Animais Terrestres da OIE;
+
+f) se os animais de que derivam os produtos de origem bovina, ovina e caprina forem originários de um país ou região classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco indeterminado de EEB, os produtos foram produzidos e manuseados de forma a garantir que não contêm e não estão contaminados com tecido nervoso e linfático exposto durante o processo de desossa.
+
+2. Para os produtos de origem bovina, em derrogação ao disposto no ponto 1, alínea d), podem importar-se carcaças, meias-carcaças ou meias-carcaças cortadas num máximo de três partes destinadas ao comércio grossista e quartos que apenas contenham como matérias de risco especificadas a coluna vertebral, incluindo os gânglios das raízes dorsais.
+
+3. Sempre que seja exigida a remoção da coluna vertebral, as carcaças de bovinos ou as partes de carcaças de bovinos destinadas ao comércio grossista contendo a coluna vertebral devem ser identificadas através de uma risca vermelha bem visível no rótulo referido nos artigos 13.º ou 15.º do Regulamento (CE) n.º 1760/2000.
+
+4. No caso de importações, deve aditar-se ao Documento Veterinário Comum de Entrada (DVCE) referido no artigo 2.º, n.º 1, do Regulamento (CE) n.º 136/2004 o número de carcaças de bovinos ou de partes de carcaças de bovinos destinadas ao comércio grossista das quais é obrigatório remover a coluna vertebral.
+
+5. No caso de intestinos inicialmente provenientes de um país ou região com um risco negligenciável de EEB, as importações de intestinos tratados devem ser sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) o país ou região está classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco controlado de EEB;
+
+b) os animais de que derivam os produtos de origem bovina, ovina e caprina nasceram, foram permanentemente criados e foram abatidos no país ou região com risco negligenciável de EEB e foram submetidos a inspeções *ante mortem* e *post mortem*;
+
+c) se os intestinos provierem de um país ou região onde se registaram casos nativos de EEB:
+
+i) os animais nasceram após a data de entrada em vigor da proibição de alimentar ruminantes com farinhas de carne e de ossos e com torresmos derivados de ruminantes, ou
+
+ii) os produtos de origem bovina, ovina e caprina não contêm e não derivam de matérias de risco especificadas, tal como definidas no anexo V, ponto 1, do presente regulamento.
+
+1. As importações de produtos de origem bovina, ovina ou caprina, referidos na secção A, a partir de um país ou região com um risco indeterminado de EEB devem ser sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) os animais de que derivam os produtos de origem bovina, ovina ou caprina não foram alimentados com farinhas de carne e de ossos nem com torresmos derivados de ruminantes, tal como definidos no Código Sanitário para os Animais Terrestres da OIE e foram submetidos a inspeções *ante mortem* e *post mortem*;
+
+b) os animais de que derivam os produtos de origem bovina, ovina e caprina não foram abatidos por laceração, após atordoamento, do tecido nervoso central através de um instrumento comprido de forma cilíndrica introduzido na cavidade craniana, ou através da injeção de gás na cavidade craniana;
+
+c) os produtos de origem bovina, ovina e caprina não contêm e não derivam de:
+
+i) matérias de risco especificadas, tal como definidas no anexo V, ponto 1, do presente regulamento,
+
+ii) tecido nervoso e linfático exposto durante o processo de desossa,
+
+iii) carne separada mecanicamente obtida a partir de ossos de bovinos, ovinos ou caprinos.
+
+2. Para os produtos de origem bovina, em derrogação ao disposto no ponto 1, alínea c), podem importar-se carcaças, meias-carcaças ou meias-carcaças cortadas num máximo de três partes destinadas ao comércio grossista e quartos que apenas contenham como matérias de risco especificadas a coluna vertebral, incluindo os gânglios das raízes dorsais.
+
+3. Sempre que seja exigida a remoção da coluna vertebral, as carcaças de bovinos ou as partes de carcaças de bovinos destinadas ao comércio grossista contendo a coluna vertebral devem ser identificadas através de uma risca vermelha bem visível no rótulo referido nos artigos 13.º ou 15.º do Regulamento (CE) n.º 1760/2000.
+
+4. No caso de importações, deve aditar-se ao Documento Veterinário Comum de Entrada (DVCE) referido no artigo 2.º, n.º 1, do Regulamento (CE) n.º 136/2004 informação específica sobre o número de carcaças de bovinos ou de partes de carcaças de bovinos destinadas ao comércio grossista das quais é obrigatório remover a coluna vertebral.
+
+5. No caso de intestinos inicialmente provenientes de um país ou região com um risco negligenciável de EEB, as importações de intestinos tratados devem ser sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) o país ou região está classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco indeterminado de EEB;
+
+b) os animais de que derivam os produtos de origem bovina, ovina e caprina nasceram, foram permanentemente criados e foram abatidos no país ou região com risco negligenciável de EEB e foram submetidos a inspeções *ante mortem* e *post mortem*;
+
+c) se os intestinos provierem de um país ou região onde se registaram casos nativos de EEB:
+
+i) os animais nasceram após a data de entrada em vigor da proibição de alimentar ruminantes com farinhas de carne e de ossos e com torresmos derivados de ruminantes, ou
+
+ii) os produtos de origem bovina, ovina e caprina não contêm e não derivam de matérias de risco especificadas, tal como definidas no anexo V, ponto 1, do presente regulamento.
+
+#### CAPÍTULO D
+
+#### Importações de subprodutos animais e produtos derivados de origem bovina, ovina e caprina
+
+O presente capítulo aplica-se aos seguintes subprodutos animais, tal como definidos no artigo 3.º, ponto 1, do Regulamento (CE) n.º 1069/2009, e aos seguintes produtos derivados, tal como definidos no ponto 2 do mesmo artigo, desde que se trate de subprodutos animais e produtos derivados de origem bovina, ovina e caprina:
+
+a) gorduras fundidas derivadas de matérias da categoria 2, para utilização enquanto fertilizantes orgânicos e corretivos orgânicos do solo, na aceção do artigo 3.º, n.º 22, do Regulamento (CE) n.º 1069/2009;
+
+b) ossos e produtos à base de osso derivados de matérias da categoria 2;
+
+c) gorduras fundidas derivadas de matérias da categoria 3, para utilização enquanto fertilizantes orgânicos e corretivos orgânicos do solo ou alimentos para animais, na aceção do artigo 3.º, n.^os^ 22 e 25, respetivamente, do Regulamento (CE) n.º 1069/2009, ou respetivas matérias de base;
+
+d) alimentos para animais de companhia, incluindo ossos de couro;
+
+e) produtos derivados do sangue;
+
+f) proteínas animais transformadas;
+
+g) ossos e produtos à base de osso derivados de matérias da categoria 3;
+
+h) gelatina e colagénio derivados de matérias que não peles e couros;
+
+i) matérias da categoria 3 e produtos derivados que não os referidos nas alíneas c) a h), excluindo:
+
+i) peles e couros frescos, peles e couros tratados,
+
+ii) gelatina e colagénio derivados de peles e couros,
+
+iii) derivados de gorduras.
+
+1. As importações de subprodutos animais e produtos derivados de origem bovina, ovina e caprina referidos na secção A devem ser sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) o subproduto animal ou produto derivado:
+
+i) não contém e não deriva de matérias de risco especificadas, tal como definidas no anexo V, ponto 1, do presente regulamento, e
+
+ii) não contém e não deriva de carne separada mecanicamente obtida a partir de ossos de bovinos, ovinos ou caprinos, exceto se os animais de que deriva o subproduto animal ou produto derivado nasceram, foram criados continuamente e abatidos num país ou região classificado, em conformidade com a Decisão 2007/453/CE, como país ou região apresentando um risco negligenciável de EEB em que não houve casos nativos de EEB, e
+
+iii) deriva de animais que não foram abatidos por laceração, após atordoamento, do tecido nervoso central através de um instrumento comprido de forma cilíndrica introduzido na cavidade craniana, ou através da injeção de gás na cavidade craniana, exceto no caso de animais nascidos, criados permanentemente e abatidos num país ou numa região classificado como apresentando um risco negligenciável de EEB em conformidade com a Decisão 2007/453/CE;
+
+b) o subproduto animal ou produto derivado só contém e só deriva de matérias de origem bovina, ovina ou caprina provenientes de animais que nasceram, foram criados permanentemente e abatidos num país ou numa região classificado como apresentando um risco negligenciável de EEB em conformidade com a Decisão 2007/453/CE.
+
+2. Para além dos requisitos do ponto 1 da presente secção, as importações dos subprodutos animais e produtos derivados referidos nas alíneas d) e f) da secção A devem estar sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) o subproduto animal ou produto derivado provém de um país ou região classificado como apresentando um risco negligenciável de EEB em conformidade com a Decisão 2007/453/CE e em que não houve casos nativos de EEB;
+
+b) o subproduto animal ou produto derivado provém de um país ou região classificado como apresentando um risco negligenciável de EEB em conformidade com a Decisão 2007/453/CE e em que houve um caso nativo de EEB, e o subproduto animal ou produto derivado provém de animais nascidos após a data de aplicação efetiva, naquele país ou região, da proibição de alimentar ruminantes com farinha de carne e de ossos e com torresmos derivados de ruminantes, tal como definidos no Código Sanitário para os Animais Terrestres da OIE.
+
+3. Para além dos requisitos dos pontos 1 e 2 da presente secção, as importações dos subprodutos animais e produtos derivados referidos na secção A que contenham leite ou produtos à base de leite de origem ovina ou caprina e destinados à alimentação animal devem estar sujeitas à apresentação de um certificado sanitário que ateste que:
+
+a) os ovinos ou caprinos de que derivam esses subprodutos animais e produtos derivados permaneceram sem interrupção desde o seu nascimento num país em que são cumpridas as seguintes condições:
+
+i) o tremor epizoótico clássico é de notificação obrigatória,
+
+ii) está em funcionamento um sistema de sensibilização, vigilância e monitorização,
+
+iii) aplicam-se restrições oficiais às explorações de ovinos ou caprinos em caso de suspeita de EET ou de confirmação do tremor epizoótico clássico,
+
+iv) os ovinos e caprinos afetados com tremor epizoótico clássico são mortos e totalmente destruídos,
+
+v) a alimentação de animais das espécies ovina e caprina com farinhas de carne e de ossos ou torresmos provenientes de ruminantes, tal como definidos no Código Sanitário para os Animais Terrestres da OIE, foi proibida, tendo essa proibição sido aplicada de forma eficaz em todo o território do país, durante pelo menos os últimos sete anos;
+
+b) o leite e os produtos à base de leite de ovinos ou caprinos provêm de explorações que não estão sujeitas a quaisquer restrições oficiais devido a uma suspeita de EET;
+
+c) o leite e os produtos à base de leite de ovinos ou caprinos provêm de explorações nas quais nenhum caso de tremor epizoótico clássico foi diagnosticado durante pelo menos os últimos sete anos, ou, após a confirmação de um caso de tremor epizoótico clássico:
+
+i) todos os ovinos e caprinos da exploração foram mortos e destruídos ou abatidos, com exceção dos carneiros reprodutores do genótipo ARR/ARR, das fêmeas reprodutoras portadoras de pelo menos um alelo ARR e sem alelo VRQ, outros ovinos portadores de pelo menos um alelo ARR e caprinos portadores de pelo menos um dos alelos K222, D146 ou S146,
+
+ii) todos os animais em que o tremor epizoótico clássico foi confirmado foram mortos e destruídos, e a exploração esteve sujeita, pelo menos durante dois anos desde a data de confirmação do último caso de tremor epizoótico clássico, a uma vigilância reforçada das EET, incluindo a realização de testes com resultados negativos para detetar a presença de EET, em conformidade com os métodos laboratoriais enunciados no anexo X, capítulo C, ponto 3.2, em todos os seguintes animais com mais de 18 meses, exceto ovinos com o genótipo ARR/ARR e caprinos portadores de pelo menos um dos alelos K222, D146 ou S146:
+
+— animais abatidos para consumo humano, e
+
+— animais que morreram ou foram mortos na exploração, mas que não foram abatidos no âmbito de uma campanha de erradicação da doença.
+
+#### CAPÍTULO E
+
+#### Importações de ovinos e de caprinos
+
+As importações de ovinos e caprinos para a União devem ser sujeitas à apresentação de um certificado sanitário que ateste que aqueles animais permaneceram sem interrupção desde o seu nascimento num país em que são cumpridas as seguintes condições:
+
+1) o tremor epizoótico clássico é de notificação obrigatória;
+
+2) está em funcionamento um sistema de sensibilização, vigilância e monitorização;
+
+3) os ovinos e caprinos afetados com tremor epizoótico clássico são abatidos e totalmente destruídos;
+
+4) a alimentação de animais das espécies ovina e caprina com farinhas de carne e de ossos ou torresmos provenientes de ruminantes, tal como definidos no Código Sanitário para Animais Terrestres da OIE, foi proibida, tendo essa proibição sido aplicada de forma eficaz em todo o território do país, durante pelo menos os últimos sete anos.
+
+Para além das condições enumeradas nos pontos 1 a 4, o certificado sanitário deve atestar que:
+
+5) em relação aos ovinos e caprinos para reprodução importados para a União e que se destinam a outros Estados-Membros que não os que apresentam um risco negligenciável de tremor epizoótico clássico ou os que dispõem de um programa nacional aprovado de controlo do tremor epizoótico enumerados no anexo VIII, capítulo A, secção A, ponto 3.2, foram cumpridas as seguintes condições:
+
+a) os ovinos e caprinos importados provêm de uma exploração ou explorações que cumpriram as condições estabelecidas no anexo VIII, capítulo A, secção A, ponto 1.3; ou
+
+b) são ovinos com o genótipo de proteína de prião ARR/ARR ou caprinos portadores de pelo menos um dos alelos K222, D146 ou S146, provenientes de uma exploração ou explorações em que não foi imposta qualquer restrição oficial de circulação devida à BSE ou ao tremor epizoótico clássico durante os últimos dois anos; ou
+
+c) no caso de ovinos e caprinos provenientes da Grã-Bretanha importados para a Irlanda do Norte até 31 de dezembro de 2024, os ovinos e caprinos importados provêm de uma exploração ou explorações:
+
+i) em que não foi imposta qualquer restrição oficial de circulação devido à EEB ou ao tremor epizoótico clássico nos últimos 3 anos, e
+
+ii) que aderiram, antes de 1 de janeiro de 2022, ao regime oficial de reconhecimento de explorações com um risco controlado de tremor epizoótico clássico, em conformidade com as condições estabelecidas no anexo VIII, capítulo A, secção A, ponto 1.3, e que cumprem as condições estabelecidas nas respetivas alíneas a) a i) no momento da importação para a Irlanda do Norte.
+
+6) em relação aos ovinos e caprinos destinados a todas as utilizações à exceção do abate imediato importados para a União e que se destinam a um Estado-Membro com um risco negligenciável de tremor epizoótico clássico ou com um programa nacional aprovado de controlo do tremor epizoótico enumerado no anexo VIII, capítulo A, secção A, ponto 3.2, devem ser cumpridas as seguintes condições:
+
+a) provêm de uma exploração ou explorações que cumpriram as condições do anexo VIII, capítulo A, secção A, ponto 1.2; ou
+
+b) são ovinos com o genótipo de proteína de prião ARR/ARR ou caprinos portadores de pelo menos um dos alelos K222, D146 ou S146, provenientes de uma exploração ou explorações em que não foi imposta qualquer restrição oficial de circulação devida à BSE ou ao tremor epizoótico clássico durante os últimos dois anos.
+
+#### CAPÍTULO F
+
+#### Importações de produtos de origem animal derivados de cervídeos de criação e selvagens
+
+1. Sempre que se importar para a União, a partir do Canadá ou dos Estados Unidos da América, carne fresca, carne picada, preparados de carne e produtos à base de carne, tal como definidos, respetivamente, nos pontos 1.10, 1.13, 1.15 e 7.1 do anexo I do Regulamento (CE) n.º 853/2004, derivados de cervídeos de criação, os certificados sanitários devem ser acompanhados de uma declaração assinada pela autoridade competente do país produtor, com a seguinte redação:
+
+«Este produto contém ou é derivado exclusivamente de carne, excluindo miudezas e espinal medula, de cervídeos de criação que foram examinados por histopatologia, imuno-histoquímica ou outro método de diagnóstico reconhecido pela autoridade competente com vista a detetar a doença emaciante crónica, com resultados negativos, não sendo derivado de animais provenientes de um efetivo em que a presença da doença emaciante crónica tenha sido confirmada ou dela oficialmente se suspeite.».
+
+2. Sempre que se importar para a União, a partir do Canadá ou dos Estados Unidos da América, carne fresca, carne picada, preparados de carne e produtos à base de carne, tal como definidos, respetivamente, nos pontos 1.10, 1.13, 1.15 e 7.1 do anexo I do Regulamento (CE) n.º 853/2004, derivados de cervídeos selvagens, os certificados sanitários devem ser acompanhados de uma declaração assinada pela autoridade competente do país produtor, com a seguinte redação:
+
+«Este produto contém ou é derivado exclusivamente de carne, excluindo miudezas e espinal medula, de cervídeos selvagens que foram examinados por histopatologia, imuno-histoquímica ou outro método de diagnóstico reconhecido pela autoridade competente com vista a detetar a doença emaciante crónica, com resultados negativos, não sendo derivado de animais provenientes de uma região onde a presença da doença emaciante crónica tenha sido confirmada nos últimos três anos ou dela oficialmente se suspeite.».
+
+3. É proibida a importação para a União de iscos de caça à base de urina derivada de cervídeos.
+
+#### CAPÍTULO H
+
+#### Importação de sémen e embriões de ovinos e caprinos
+
+A importação de sémen e de embriões de ovinos e caprinos para a União deve ser sujeita à apresentação de um certificado sanitário que ateste que:
+
+1) os animais dadores permaneceram sem interrupção desde o seu nascimento num país em que são cumpridas as seguintes condições:
+
+a) o tremor epizoótico clássico é de notificação obrigatória;
+
+b) está em funcionamento um sistema de sensibilização, vigilância e monitorização;
+
+c) os ovinos e caprinos afetados com tremor epizoótico clássico são abatidos e totalmente destruídos;
+
+d) a alimentação de animais das espécies ovina e caprina com farinhas de carne e de ossos ou torresmos provenientes de ruminantes, tal como definidos no Código Sanitário para Animais Terrestres da OIE, foi proibida, tendo essa proibição sido aplicada de forma eficaz em todo o território do país, durante pelo menos os últimos sete anos; e
+
+2) os animais dadores permaneceram sem interrupção, durante um período de três anos que precedeu a data de colheita do sémen ou dos embriões exportados, numa exploração ou explorações que cumpriram, durante esse período, todos os requisitos estabelecidos no anexo VIII, capítulo A, secção A, ponto 1.3, alíneas a) a f), exceto no caso de a exploração ser um centro de colheita de sémen, desde que este cumpra as condições estabelecidas no ponto 1.3, alínea c), subalínea iv), da mesma secção; ou
+
+a) no caso de sémen de animais da espécie ovina, o sémen foi colhido de machos com o genótipo de proteína de prião ARR/ARR e, no caso de sémen de animais da espécie caprina, o sémen foi colhido de machos portadores de pelo menos um dos alelos K222, D146 ou S146; ou
+
+b) no caso de embriões de animais da espécie ovina, os embriões são portadores de pelo menos um alelo ARR e, no caso de embriões de animais da espécie caprina, os embriões são portadores de pelo menos um dos alelos K222, D146 ou S146.
+
+## ANEXO X
+
+### LABORATÓRIOS DE REFERÊNCIA, AMOSTRAGEM E MÉTODOS LABORATORIAIS
+
+### CAPÍTULO C
+
+### Amostragem e análises laboratoriais
+
+#### 1. Amostragem
+
+A colheita de amostras destinadas a exame para deteção da presença de uma EET deve ser efetuada de acordo com os métodos e protocolos estabelecidos na última edição do Manual de Testes de Diagnóstico e Vacinas para Animais Terrestres (adiante designado «Manual») da Organização Mundial da Saúde Animal (OIE). Além, ou na ausência, dos métodos e protocolos da OIE, e de forma a assegurar a disponibilidade de material suficiente, a autoridade competente deve assegurar a utilização de métodos e de protocolos de amostragem em conformidade com as diretrizes emitidas pelo laboratório de referência da UE.
+
+Em particular, a autoridade competente deve colher os tecidos apropriados, de acordo com os conselhos científicos disponíveis e as diretrizes do laboratório de referência da UE, de modo a assegurar a deteção de todas as estirpes conhecidas de EET em pequenos ruminantes, mantendo frescos, mas não congelados, pelo menos metade dos tecidos colhidos, até se obter um resultado negativo no teste rápido. Se o resultado for positivo ou inconclusivo, os tecidos residuais devem ser submetidos a um teste de confirmação e ser subsequentemente tratados de acordo com as diretrizes do laboratório de referência da UE sobre testes discriminatórios e classificação — « *TSE strain characterisation in small ruminants: A technical handbook for National Reference Laboratories in the EU* ».
+
+As amostras devem ser corretamente marcadas quanto à identidade do animal submetido à amostragem.
+
+#### 2. Laboratórios
+
+As análises laboratoriais relativas às EET devem ser efetuadas em laboratórios oficiais de diagnóstico designados para esse efeito pela autoridade competente.
+
+#### 3. Métodos e protocolos
+
+As amostras de bovinos enviadas para análises laboratoriais nos termos do disposto no artigo 12.º, n.º 2, devem ser imediatamente submetidas a exames de confirmação, recorrendo a pelo menos um dos seguintes métodos e protocolos estabelecidos na última edição do Manual:
+
+i) método imunohistoquímico (IHC),
+
+ii) Western blot,
+
+iii) demonstração das estruturas fibrilares características por microscopia eletrónica,
+
+iv) exame histopatológico,
+
+v) combinação de testes rápidos, tal como se estabelece no terceiro parágrafo.
+
+Se os resultados do exame histopatológico forem inconclusivos ou negativos, os tecidos devem ser submetidos a novo exame realizado segundo um dos outros métodos e protocolos de confirmação.
+
+Os testes rápidos podem ser usados tanto para efeitos de despistagem primária de casos suspeitos como, se os resultados forem inconclusivos ou positivos, para confirmação subsequente, de acordo com as diretrizes do laboratório de referência da UE — « *OIE rules for the official confirmation of BSE in bovines (based on an initial reactive result in an approved rapid test) by using a second rapid test* » — desde que:
+
+i) a confirmação se efetue num laboratório nacional de referência para as EET, e
+
+ii) um dos dois testes rápidos seja um *Western blot*, e
+
+iii) o segundo teste rápido usado:
+
+— inclua um tecido de controlo negativo e, como tecido de controlo positivo, uma amostra de EEB em bovinos,
+
+— seja diferente do teste usado na despistagem primária, e
+
+iv) se o primeiro teste for um teste rápido *Western blot*, o resultado do mesmo deve ser documentado e a imagem da membrana apresentada ao laboratório nacional de referência para as EET, e
+
+v) se o resultado da despistagem primária não for confirmado pelo teste rápido subsequente, a amostra deve ser submetida a exame por um dos outros métodos de confirmação; se, para esse efeito, se usar o exame histopatológico e os resultados forem inconclusivos ou negativos, os tecidos devem ser submetidos a novo exame realizado segundo um dos outros métodos e protocolos de confirmação.
+
+Se o resultado de um dos exames de confirmação referidos nas alíneas i) a v) do primeiro parágrafo for positivo, o animal será considerado um caso positivo de EEB.
+
+As amostras de bovinos enviadas para análises laboratoriais nos termos do disposto no anexo III, capítulo A, parte I, devem ser submetidas a um teste rápido.
+
+Se o resultado do teste rápido for inconclusivo ou positivo, a amostra deve ser imediatamente submetida a exames de confirmação, recorrendo a pelo menos um dos seguintes métodos e protocolos estabelecidos na última edição do Manual:
+
+i) método imunohistoquímico (IHC),
+
+ii) Western blot,
+
+iii) demonstração das estruturas fibrilares características por microscopia eletrónica,
+
+iv) exame histopatológico,
+
+v) combinação de testes rápidos, tal como se estabelece no quarto parágrafo.
+
+Se os resultados do exame histopatológico forem inconclusivos ou negativos, os tecidos devem ser submetidos a novo exame realizado segundo um dos outros métodos e protocolos de confirmação.
+
+Os testes rápidos podem ser usados tanto para efeitos de despistagem primária como, se os resultados forem inconclusivos ou positivos, para confirmação subsequente, de acordo com as diretrizes do laboratório de referência da UE — « *OIE rules for the official confirmation of BSE in bovines (based on an initial reactive result in an approved rapid test) by using a second rapid test* » — desde que:
+
+i) a confirmação se efetue num laboratório nacional de referência para as EET, e
+
+ii) um dos dois testes rápidos seja um *Western blot*, e
+
+iii) o segundo teste rápido usado:
+
+— inclua um tecido de controlo negativo e, como tecido de controlo positivo, uma amostra de EEB em bovinos,
+
+— seja diferente do teste usado na despistagem primária, e
+
+iv) se o primeiro teste for um teste rápido *Western blot*, o resultado do mesmo deve ser documentado e a imagem da membrana apresentada ao laboratório nacional de referência para as EET, e
+
+v) se o resultado da despistagem primária não for confirmado pelo teste rápido subsequente, a amostra deve ser submetida a exame por um dos outros métodos de confirmação; se, para esse efeito, se usar o exame histopatológico e os resultados forem inconclusivos ou negativos, os tecidos devem ser submetidos a novo exame realizado segundo um dos outros métodos e protocolos de confirmação.
+
+Um animal será considerado caso positivo de EEB se o resultado do teste rápido for inconclusivo ou positivo e se pelo menos um dos exames de confirmação referidos nas alíneas i) a v) do segundo parágrafo for positivo.
+
+As amostras de todos os casos positivos de BSE devem ser enviadas para um laboratório, designado pela autoridade competente, que tenha participado com sucesso no teste de proficiência mais recente organizado pelo laboratório de referência da UE para testes discriminatórios de casos confirmados de BSE, onde serão novamente testadas em conformidade com os métodos e os protocolos estabelecidos no método do laboratório de referência da UE para a classificação de isolados de EET de bovinos (método duplo — *two-blot* — para a classificação provisória de isolados de EET em bovinos).
+
+As amostras de ovinos e caprinos enviadas para análises laboratoriais nos termos do disposto no artigo 12.º, n.º 2, devem ser imediatamente submetidas a exames de confirmação, recorrendo a pelo menos um dos seguintes métodos e protocolos estabelecidos na última edição do Manual:
+
+i) método imunohistoquímico (IHC),
+
+ii) Western blot,
+
+iii) demonstração das estruturas fibrilares características por microscopia eletrónica,
+
+iv) exame histopatológico.
+
+Se os resultados do exame histopatológico forem inconclusivos ou negativos, os tecidos devem ser submetidos a novo exame realizado segundo um dos outros métodos e protocolos de confirmação.
+
+Os testes rápidos podem ser usados para efeitos de despistagem primária de casos suspeitos. Todavia, não podem ser utilizados para a confirmação subsequente.
+
+Se o resultado do teste rápido usado na despistagem primária de casos suspeitos for positivo ou inconclusivo, a amostra deve ser submetida a análise através de um dos exames de confirmação referidos nas alíneas i) a iv) do primeiro parágrafo. Se, para esse efeito, se usar o exame histopatológico e os resultados forem inconclusivos ou negativos, os tecidos devem ser submetidos a novo exame realizado segundo um dos outros métodos e protocolos de confirmação.
+
+Se o resultado de um dos exames de confirmação referidos nas subalíneas i) a iv) do primeiro parágrafo for positivo, o animal será considerado um caso positivo de EET.
+
+As amostras de ovinos e caprinos enviadas para análises laboratoriais nos termos do disposto no anexo III, capítulo A, parte II (Vigilância dos ovinos e caprinos) devem ser examinadas através de um teste rápido, de modo a assegurar a deteção de todas as estirpes conhecidas de EET.
+
+Se o resultado do teste rápido for inconclusivo ou positivo, os tecidos amostrados devem ser imediatamente enviados a um laboratório oficial para exames de confirmação por histopatologia, imunohistoquímica, *Western blotting* ou demonstração das estruturas fibrilares características por microscopia eletrónica, como referido na alínea a). Se os resultados do exame de confirmação forem negativos ou inconclusivos, os tecidos devem ser submetidos a novo exame por imunohistoquímica ou *Western blotting.*
+
+Se o resultado de um dos exames de confirmação for positivo, o animal será considerado um caso positivo de EET.
+
+As amostras que, na sequência das análises referidas nas alíneas a) ou b), são consideradas casos positivos de EET, mas que não são consideradas casos atípicos, devem ser analisadas para excluir a presença de EEB apenas quando são provenientes de um caso índice. Outros casos, que exibam características que, de acordo com o laboratório examinador, são merecedoras de investigação, devem também ser analisados para excluir a presença de EEB.
+
+Para a exclusão da presença de EEB, as amostras devem ser analisadas utilizando um método de Western blotting discriminatório constante das diretrizes do laboratório de referência da UE. O exame discriminatório deve ser efetuado por um laboratório oficial, designado pela autoridade competente, que tenha participado com sucesso no teste de proficiência mais recente organizado pelo laboratório de referência da UE para esse método.
+
+Os casos de EET em que não possa excluir-se a presença de EEB, em conformidade com as diretrizes emitidas pelo laboratório de referência da UE, através da análise molecular primária referida em i), devem ser imediatamente remetidos para o laboratório de referência da UE, juntamente com todas as informações relevantes disponíveis. As amostras devem ser submetidas a investigação e confirmação suplementares utilizando pelo menos um método alternativo, diferente imunoquimicamente do método de análise molecular primária. A conceção das análises moleculares secundárias, em conformidade com os conhecimentos científicos e as competências laboratoriais mais recentes, será aprovada caso a caso pelo laboratório de referência da UE, tal como descrito nas suas orientações. O laboratório de referência da UE será assistido por um painel de peritos denominado Grupo de Peritos em Caracterização de Estirpes (STEG — *Strain Typing Expert Group*) e por um representante do laboratório nacional de referência relevante.
+
+Os resultados serão interpretados pelo laboratório de referência da UE, assistido pelo STEG e por um representante do laboratório nacional de referência relevante. A Comissão deve ser imediatamente informada acerca das conclusões dessa interpretação.
+
+As amostras que indiquem a presença de EEB e as que tenham resultados inconclusivos, no seguimento da análise molecular secundária, devem ser analisadas novamente através de um bioensaio em ratos, para confirmação final. A natureza ou a quantidade do material disponível podem influenciar o desenho do bioensaio, que será aprovado, caso a caso, pelo laboratório de referência da UE, assistido pelo STEG. Os bioensaios devem ser efetuados pelo laboratório de referência da UE ou por laboratórios por este designados.
+
+Os resultados serão interpretados pelo laboratório de referência da UE, assistido pelo STEG. A Comissão deve ser imediatamente informada acerca das conclusões dessa interpretação.
+
+Sempre que estejam estabelecidos métodos e protocolos relativos a testes realizados para confirmar a presença suspeita de uma EET numa espécie animal que não a bovina, ovina e caprina, os mesmos devem compreender pelo menos um exame histopatológico de tecido cerebral. A autoridade competente pode igualmente requerer exames laboratoriais, como exames imunohistoquímicos, *Western blotting*, demonstração das estruturas fibrilares características por microscopia eletrónica ou outros métodos destinados a detetar a forma da proteína priónica associada à doença. Em qualquer caso, se o exame histopatológico inicial for negativo ou inconclusivo será necessário efetuar pelo menos outra análise laboratorial. Caso se esteja face à primeira ocorrência da doença, devem ser efetuados pelo menos três exames diferentes com resultados positivos.
+
+Em especial, se se suspeitar da existência de EEB numa espécie que não a bovina, os casos devem ser remetidos ao laboratório de referência da UE, assistido pelo STEG, para caracterização complementar.
+
+#### 4. Testes rápidos
+
+Para efeitos da realização dos testes rápidos em conformidade com o artigo 5.º, n.º 3, e com o artigo 6.º, n.º 1, serão utilizados apenas os seguintes métodos como testes rápidos para a vigilância da EEB em bovinos:
+
+— Teste de *immunoblotting* baseado na técnica *Western blotting*, com vista à deteção do fragmento PrPRes resistente à proteinase K (teste Prionics-Check Western);
+
+— Imunodoseamento «em sanduíche» para deteção do PrPRes (protocolo de ensaio curto) após desnaturação e concentração (teste rápido Bio-Rad TeSeE SAP);
+
+— Imunodoseamento em microplacas (ELISA) para deteção do fragmento PrPRes resistente à proteinase K com anticorpos monoclonais (teste Prionics-Check LIA);
+
+— Imunodoseamento com utilização de um polímero químico para a captura seletiva do PrPSc e de um anticorpo monoclonal de deteção orientado para as regiões conservadas da molécula PrP (IDEXX HerdChek BSE Antigen Test Kit, EIA & HerdChek BSE-Scrapie Antigen (IDEXX Laboratories));
+
+— Imunodoseamento de fluxo lateral usando dois anticorpos monoclonais diferentes para deteção das frações PrP resistentes à proteinase K (Prionics Check PrioSTRIP);
+
+— Imunodoseamento em duas etapas usando dois anticorpos monoclonais diferentes orientados para dois epitopos presentes num estado altamente desnaturado do PrPSc bovino (Roboscreen Beta Prion BSE EIA Test Kit).
+
+Para efeitos da realização dos testes rápidos em conformidade com o artigo 5.º, n.º 3, e com o artigo 6.º, n.º 1, serão utilizados apenas os seguintes métodos como testes rápidos para a vigilância das EET em ovinos e caprinos:
+
+— Imunodoseamento «em sanduíche» para deteção do PrPRes (protocolo de ensaio curto) após desnaturação e concentração (teste rápido Bio-Rad TeSeE SAP);
+
+— Imunodoseamento «em sanduíche» para deteção do PrPRes com o kit de deteção TeSeE Sheep/Goat após desnaturação e concentração com o kit de purificação TeSeE Sheep/Goat (teste rápido Bio-Rad TeSeE Sheep/Goat);
+
+— Imunodoseamento com utilização de um polímero químico para a captura seletiva do PrPSc e de um anticorpo monoclonal de deteção orientado para as regiões conservadas da molécula PrP (HerdChek BSE-Scrapie Antigen (IDEXX Laboratories));
+
+Em todos os testes rápidos, o tecido da amostra a que se deve aplicar o teste tem de estar em conformidade com as instruções de utilização do fabricante.
+
+Os produtores dos testes rápidos devem ter implementado um sistema de garantia de qualidade que tenha sido aprovado pelo laboratório de referência da UE e que garanta que o desempenho do teste não se altera. Os produtores devem fornecer os protocolos dos testes ao laboratório de referência da UE.
+
+As alterações aos testes rápidos ou aos protocolos dos testes só podem ser feitas após notificação prévia ao laboratório de referência da UE e desde que este considere que a alteração não afeta a sensibilidade, a especificidade e a fiabilidade do teste rápido. Esse facto será comunicado à Comissão bem como aos laboratórios nacionais de referência.
+
+#### 5. Testes alternativos
+
+(Por definir)
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Directiva 89/662/CEE do Conselho, de 11 de Dezembro de 1989, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário, na perspectiva da realização do mercado interno (JO L 395 de 30.12.1989, p. 13). Directiva com a última redacção que lhe foi dada pela Directiva 92/118/CEE do Conselho (JO L 62 de 15.3.1993, p. 49).
+
+> ([^2^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (JO L 224 de 18.8.1990, p. 29). Directiva com a última redacção que lhe foi dada pela Directiva 92/118/CEE do Conselho.
+
+> ([^3^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino, e que revoga o Regulamento (CE) n.º 820/97 do Conselho (JO L 204 de 11.8.2000, p. 1).
+
+> ([^4^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína (JO 121 de 29.7.1964, p. 1977/64). Directiva com a última redacção que lhe foi dada pela Directiva 2000/20/CE do Parlamento Europeu e do Conselho (JO L 163 de 4.7.2000, p. 35).
+
+> ([^5^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0005)) Directiva 91/68/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos (JO L 46 de 19.12.1991, p. 19). Directiva com a última redacção que lhe foi dada pela Decisão 94/953/CE da Comissão (JO L 371 de 31.12.1994, p. 14).
+
+> ([^6^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Directiva 91/496/CEE do Conselho, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade e que altera as Directivas 89/662/CEE, 90/425/CEE e 90/675/CEE (JO L 268 de 24.9.1991, p. 56). Directiva com a última redacção que lhe foi dada pela Directiva 96/43/CE do Conselho (JO L 162 de 1.7.1996, p. 1).
+
+> ([^7^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0007)) Directiva 97/78/CE do Conselho, de 18 de Dezembro de 1997, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade (JO L 24 de 30.11.1998, p. 9).
+
+> ([^8^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0008)) Directiva 82/894/CEE do Conselho, de 21 de Dezembro de 1982, relativa à notificação de doenças dos animais na Comunidade (JO L 378 de 31.12.1982, p. 58). Directiva com a última redacção que lhe foi dada pela Decisão 2000/556/CE da Comissão (JO L 235 de 19.9.2000, p. 27).
+
+> ([^9^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0009)) Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que define regras sanitárias relativas a subprodutos animais e produtos derivados não destinados ao consumo humano e que revoga o Regulamento (CE) n.º 1774/2002 (regulamento relativo aos subprodutos animais) (JO L 300 de 14.11.2009, p. 1).
+
+> ([^10^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0010)) Regulamento (UE) n.º 142/2011 da Comissão, de 25 de fevereiro de 2011, que aplica o Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho que define regras sanitárias relativas a subprodutos animais e produtos derivados não destinados ao consumo humano e que aplica a Diretiva 97/78/CE do Conselho no que se refere a certas amostras e certos artigos isentos de controlos veterinários nas fronteiras ao abrigo da referida diretiva (JO L 54 de 26.2.2011, p. 1).
+
+> ([^11^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0011)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).
+
+> ([^12^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0012)) Regulamento (CE) n.º 767/2009 do Parlamento Europeu e do Conselho, de 13 de julho de 2009, relativo à colocação no mercado e à utilização de alimentos para animais, que altera o Regulamento (CE) n.º 1831/2003 e revoga as Diretivas 79/373/CEE do Conselho, 80/511/CEE da Comissão, 82/471/CEE do Conselho, 83/228/CEE do Conselho, 93/74/CEE do Conselho, 93/113/CE do Conselho e 96/25/CE do Conselho e a Decisão 2004/217/CE da Comissão (JO L 229 de 1.9.2009, p. 1).
+
+> ([^13^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0013)) Diretiva 2006/88/CE do Conselho, de 24 de outubro de 2006, relativa aos requisitos zoossanitários aplicáveis aos animais de aquicultura e produtos derivados, assim como à prevenção e à luta contra certas doenças dos animais aquáticos (JO L 328 de 24.11.2006, p. 14).
+
+> ([^14^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0014)) Regulamento (UE) 2016/1012 do Parlamento Europeu e do Conselho, de 8 de junho de 2016, sobre as condições zootécnicas e genealógicas aplicáveis à produção, ao comércio e à entrada na União de animais reprodutores de raça pura, de suínos reprodutores híbridos e dos respetivos produtos germinais, que altera o Regulamento (UE) n.º 652/2014 e as Diretivas 89/608/CEE e 90/425/CEE do Conselho e revoga determinados atos no domínio da produção animal («Regulamento sobre a produção animal») (JO L 171 de 29.6.2016, p. 66).
+
+> ([^15^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0015)) http://vla.defra.gov.uk/science/docs/sci_tse_rl_handbookv4jan10.pdf
+
+> ([^16^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0016)) JO L 349 de 24.12.2002, p. 105.
+
+> ([^17^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0017)) http://vla.defra.gov.uk/science/docs/sci_tse_rl_2blot.pdf
+
+> ([^18^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0018)) JO L 5 de 9.1.2004, p. 8.
+
+> ([^19^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0019)) A prevalência de delineamento é usada para determinar a dimensão de um inquérito com testes em termos de pontuação-objectivo. Se a prevalência real for superior à prevalência de delineamento seleccionada, a probabilidade de detectar a doença com o estudo é muito elevada.
+
+> ([^20^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0024)) JO L 139 de 30.4.2004, p. 55.
+
+> ([^21^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0025)) JO L 139 de 30.4.2004, p. 206.
+
+> ([^22^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0026)) JO L 99 de 20.4.1996, p. 14.
+
+> ([^23^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0027)) JO L 204 de 11.8.2000, p. 1.
+
+> ([^24^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0030)) JO L 54 de 26.2.2009, p. 1.
+
+> ([^25^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0031)) Decisão 2009/821/CE da Comissão, de 28 de setembro de 2009, que estabelece uma lista de postos de inspeção fronteiriços aprovados, prevê certas regras aplicáveis às inspeções efetuadas pelos peritos veterinários da Comissão e determina as unidades veterinárias no sistema Traces (JO L 296 de 12.11.2009, p. 1).
+
+> ([^26^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0032)) Decisão 2004/292/CE da Comissão, de 30 de março de 2004, relativa à aplicação do sistema Traces e que altera a Decisão 92/486/CEE (JO L 94 de 31.3.2004, p. 63).
+
+> ([^27^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0033)) Regulamento Delegado (UE) 2023/1605 da Comissão de 22 de maio de 2023 que complementa o Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho no que diz respeito à determinação de pontos finais na cadeia de fabrico de determinados fertilizantes orgânicos e corretivos orgânicos do solo (JO L 198 de 8.8.2023, p. 1).
+
+> ([^28^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0034)) Regulamento (CE) n.º 136/2004 da Comissão, de 22 de janeiro de 2004, que define os procedimentos de controlo veterinário nos postos de inspeção fronteiriços da Comunidade a aplicar a produtos importados de países terceiros (JO L 21 de 28.1.2004, p. 11).
+
+> ([^29^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0035)) JO L 300 de 14.11.2009, p. 1.
+
+> ([^30^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0036)) Regulamento Delegado (UE) 2020/686 da Comissão, de 17 de dezembro de 2019, que complementa o Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho no que se refere à aprovação de estabelecimentos de produtos germinais e aos requisitos de rastreabilidade e de saúde animal aplicáveis à circulação na União de produtos germinais de determinados animais terrestres detidos (JO L 174 de 3.6.2020, p. 1).
+
+> ([^31^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0037)) Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às doenças animais transmissíveis e que altera e revoga determinados atos no domínio da saúde animal («Lei da Saúde Animal») (JO L 084 de 31.3.2016, p. 1).
+
+> ([^32^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0038)) Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às doenças animais transmissíveis e que altera e revoga determinados atos no domínio da saúde animal («Lei da Saúde Animal») (JO L 84 de 31.3.2016, p. 1).
+
+> ([^33^](http://publications.europa.eu/resource/cellar/9f3b12d1-098e-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#src.E0039)) Decisão 2007/453/CE da Comissão, de 29 de junho de 2007, que estabelece o estatuto em matéria de EEB de Estados-Membros, países terceiros e suas regiões, em função do respetivo risco de EEB (JO L 172 de 30.6.2007, p. 84).

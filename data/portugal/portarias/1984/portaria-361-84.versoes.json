@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:386644:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-889496480",
+ "dre_path": "/dr/detalhe/portaria/361-1984-386644",
+ "source_lastmod": "2024-09-30",
+ "versions": [
+  {
+   "date": "1984-06-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889498675"
+   ]
+  },
+  {
+   "date": "1984-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:275406:por",
+     "title": "Declaração",
+     "published": "1984-06-30",
+     "dre_path": "/dr/detalhe/declaracao/1984-275406"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "889498675",
+    "889496036"
+   ]
+  }
+ ],
+ "fragments": {
+  "889498675": {
+   "fragment_id": "889496481",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1984-06-30",
+   "changed_by": [],
+   "markdown": "Portaria n.º 361/84\n\nde 11 de Junho\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Habitação e Urbanismo, aprovar a zona de protecção do Centro de Saúde de Mértola, de acordo com a planta anexa e conforme o proposto pela DGPU, nos termos do disposto no Decreto-Lei n.º 34993, de 11 de Outubro de 1945.\n\nDentro desta zona de protecção e sem prejuízo do disposto no artigo 2.º do decreto-lei citado, só poderão ser licenciadas construções ou reconstruções de edifícios ou quaisquer instalações que, pela sua volumetria e ou situações, não venham a prejudicar as edificações do conjunto do Centro de Saúde de Mértola, bem como a paisagem envolvente, e, bem assim, aquelas que pela sua utilização não perturbem o funcionamento do Centro, através de produção de ruídos, cheiros ou fumos.\n\nSecretaria de Estado da Habitação e Urbanismo."
+  },
+  "889496036": {
+   "fragment_id": "889496482",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 18 de Maio de 1984.\n\nO Secretário de Estado da Habitação e Urbanismo, Fernando Manuel dos Santos Gomes.\n\n(ver documento original)"
+  }
+ }
+}

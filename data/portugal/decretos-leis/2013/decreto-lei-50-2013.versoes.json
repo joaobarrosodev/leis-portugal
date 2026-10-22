@@ -1,0 +1,309 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:260432:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-58361867",
+ "dre_path": "/dr/detalhe/decreto-lei/50-2013-260432",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "58341496",
+    "58341497",
+    "58341498",
+    "58341499",
+    "58341500",
+    "58341501",
+    "58341502",
+    "58341503",
+    "58341504",
+    "58341505",
+    "58341506",
+    "58341507",
+    "58341508",
+    "58341509",
+    "58341510",
+    "58341511"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:260893:por",
+     "title": "Declaração de Retificação n.º 23/2013",
+     "published": "2013-05-08",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/23-2013-260893",
+     "date": "2013-05-01"
+    }
+   ]
+  },
+  {
+   "date": "2015-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67498687:por",
+     "title": "Decreto-Lei n.º 106/2015",
+     "published": "2015-06-16",
+     "dre_path": "/dr/detalhe/decreto-lei/106-2015-67498687"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "58341496",
+    "58341497",
+    "58341498",
+    "67502481",
+    "67502482",
+    "58341501",
+    "58341502",
+    "58341503",
+    "58341504",
+    "58341505",
+    "58341506",
+    "58341507",
+    "58341508",
+    "58341509",
+    "58341510",
+    "58341512",
+    "58341532"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:108041482:por",
+     "title": "Decreto-Lei n.º 102/2017",
+     "published": "2017-08-23",
+     "dre_path": "/dr/detalhe/decreto-lei/102-2017-108041482",
+     "date": "2017-07-01"
+    }
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "58341496",
+    "58341497",
+    "58341498",
+    "67502481",
+    "155904993",
+    "58341501",
+    "58341502",
+    "58341503",
+    "155904997",
+    "58341505",
+    "58341506",
+    "58341507",
+    "58341508",
+    "58341509",
+    "58341510",
+    "58341512",
+    "58341532"
+   ]
+  }
+ ],
+ "fragments": {
+  "58341496": {
+   "fragment_id": "58361868",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 50/2013\n\nde 16 de abril\n\nA evidência científica demonstra a existência de padrões de consumo de alto risco de bebidas alcoólicas, como a embriaguez e o consumo ocasional excessivo, também designado binge drinking, especialmente em adolescentes e jovens adultos, revelando igualmente que a experimentação do álcool é cada vez mais precoce em crianças.\n\nTambém se constata que a relação entre estes padrões de consumo e a sua precocidade é responsável por uma maior probabilidade de ocorrência de dependência alcoólica, assim como de consequências diretas a nível do sistema nervoso central, com défices cognitivos e de memória, limitações a nível da aprendizagem e, bem assim, ao nível do desempenho profissional.\n\nCom efeito, verifica-se que o álcool diminui a acuidade para a tomada de decisão consciente, facilitando comportamentos impulsivos e agressivos e alterando funções executivas (redução do juízo crítico, incapacidade em planear o futuro e gerir o presente). Por outro lado, o consumo de álcool produz efeitos ao nível da capacidade de atenção e do processamento de informação.\n\nNão constitui objetivo primordial sancionar ou penalizar comportamentos, antes se pretendendo, de forma progressiva, colocar barreiras ao consumo de bebidas alcoólicas por adolescentes, através do aumento da idade mínima de acesso e da proibição correspondente de venda, conforme recomendações da Organização Mundial de Saúde.\n\nA título de direito comparado, sublinha-se que outros países da Europa, como o Reino Unido, a Suíça, a Alemanha ou a Bélgica, diferenciam as bebidas espirituosas das outras bebidas para os limites etários de 18 e de 16 anos, respetivamente.\n\nPor todo o exposto, e face ao imperativo constitucional de proteção da saúde dos cidadãos, impõe-se criar um novo regime jurídico de disponibilização, venda e consumo de bebidas alcoólicas, em locais públicos e em locais abertos ao público, no sentido de aumentar a idade mínima legal de consumo.\n\nÉ ainda significativa a proibição agora introduzida de venda de bebidas alcoólicas entre as 0 e as 8 horas, com exceção dos estabelecimentos comerciais de restauração ou de bebidas, dos situados em portos e aeroportos em local de acessibilidade reservada a passageiros e dos de diversão noturna e análogos.\n\nCom a realização de um estudo sobre a aplicação do regime previsto no presente decreto-lei, pretende-se, até 1 de janeiro de 2015, a avaliação dos padrões de consumo de álcool, por jovens em geral e por adolescentes em especial, a realizar pelo Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD).\n\nForam tidos em consideração os diversos estudos efetuados no âmbito do Conselho Interministerial para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool, bem como o Plano Nacional para a Redução dos Problemas Ligados ao Álcool 2010-2012, com vista à minimização dos efeitos nocivos do álcool, os quais apontam para a necessidade de alteração da idade mínima legal para o consumo de álcool nos jovens em Portugal.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Associação da Hotelaria, Restauração e Similares de Portugal.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "58341497": {
+   "fragment_id": "58361869",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime de disponibilização, venda e consumo de bebidas alcoólicas em locais públicos e em locais abertos ao público."
+  },
+  "58341498": {
+   "fragment_id": "58361870",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, considera-se:\n\na) «Bebidas alcoólicas», cerveja, vinhos, outras bebidas fermentadas, produtos intermédios, bebidas espirituosas ou equiparadas e bebidas não espirituosas tal como definidas na alínea c);\n\nb) «Bebida espirituosa», toda a bebida que seja como tal definida pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0110\" title=\"Link para Regulamento da Comunidade Europeia\">110/2008</a>, do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, ou toda a bebida a esta equiparada nos termos do artigo 66.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho;\n\nc) «Bebida não espirituosa», toda a bebida que, por fermentação, destilação ou adição, contenha um título alcoométrico superior a 0,5 % vol, mas inferior ao definido para as bebidas referidas na alínea anterior;\n\nd) «Estabelecimento de restauração ou de bebidas», aquele que se destina a prestar, mediante remuneração, serviços de alimentação, bebidas e ou cafetaria, no próprio estabelecimento ou fora dele."
+  },
+  "58341499": {
+   "fragment_id": "58361871",
+   "type": 11,
+   "heading": "Artigo 3.º — Restrições à disponibilização, venda e consumo de bebidas alcoólicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Restrições à disponibilização, venda e consumo de bebidas alcoólicas\n\n1 - É proibido facultar, independentemente de objetivos comerciais, vender ou, com objetivos comerciais, colocar à disposição, em locais públicos e em locais abertos ao público:\n\na) Bebidas espirituosas, ou equiparadas, a quem não tenha completado 18 anos de idade;\n\nb) Todas as bebidas alcoólicas, espirituosas e não espirituosas, a quem não tenha completado 16 anos de idade;\n\nc) Todas as bebidas alcoólicas, espirituosas e não espirituosas, a quem se apresente notoriamente embriagado ou aparente possuir anomalia psíquica.\n\n2 - É proibido às pessoas referidas no número anterior consumir bebidas alcoólicas em locais públicos e em locais abertos ao público.\n\n3 - Para efeitos da aplicação dos números anteriores, pode ser exigida a apresentação de um documento de identificação que permita a comprovação da idade, devendo tal pedido ser feito sempre que existam dúvidas relativamente à mesma.\n\n4 - É ainda proibida a disponibilização, a venda e o consumo de bebidas alcoólicas:\n\na) Nas cantinas, bares e outros estabelecimentos de restauração ou de bebidas, acessíveis ao público, localizados nos estabelecimentos de saúde;\n\nb) Em máquinas automáticas;\n\nc) Em postos de abastecimento de combustível localizados nas autoestradas ou fora das localidades;\n\nd) Em qualquer estabelecimento, entre as 0 e as 8 horas, com exceção:\n\ni) Dos estabelecimentos comerciais de restauração ou de bebidas;\n\nii) Dos estabelecimentos situados em portos e aeroportos em local de acessibilidade reservada a passageiros;\n\niii) Dos estabelecimentos de diversão noturna e análogos.\n\n5 - A violação do disposto da alínea b) do número anterior acarreta responsabilidade solidária entre o proprietário do equipamento e o titular do espaço onde aquele se encontra instalado.\n\n6 - Para efeitos do disposto na alínea c) do n.º 4, a proibição abrange os edifícios integrados destinados a atividades complementares ao abastecimento de combustível, nomeadamente lojas de conveniência, não incluindo os estabelecimentos de restauração ou de bebidas.\n\n7 - Sem prejuízo do disposto nos números anteriores, o facultar, vender ou, com objetivos comerciais, colocar à disposição bebidas alcoólicas em sala ou recinto de espetáculo, independentemente da sua natureza permanente ou temporária, acidental ou improvisada, nomeadamente em arraiais populares, concertos musicais ou festas académicas, é obrigatoriamente realizado em recipiente de material leve e não contundente.\n\n8 - O disposto no número anterior não se aplica aos recintos fixos de espetáculos de natureza artística onde simultaneamente se desenvolvam atividades de restauração ou de bebidas, designadamente casas de fado, cafés-teatro e salas de espetáculos de casinos, nem aos recintos de espetáculos em que se realizem feiras, quando exista uma área reservada exclusivamente à prestação de serviços de restauração e bebidas, ou em mostras e ações de degustação realizadas em áreas delimitadas para o efeito.\n\n9 - Os estabelecimentos a que se referem as subalíneas i) e iii) da alínea d) do n.º 4 e aqueles a que se refere o número anterior só devem permitir, para consumo de bebidas fora do espaço licenciado do estabelecimento, designadamente na via pública, a utilização de recipiente de material leve e não contundente."
+  },
+  "58341500": {
+   "fragment_id": "58361872",
+   "type": 11,
+   "heading": "Artigo 4.º — Afixação de avisos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Afixação de avisos\n\n1 - A proibição referida nos n.os 1 e 4 do artigo anterior deve constar de aviso afixado de forma visível nos locais públicos e abertos ao público onde se venda e ou se possa consumir bebidas alcoólicas.\n\n2 - Nos estabelecimentos comerciais de autosserviço, independentemente das suas dimensões, devem ser delimitados e explicitamente assinalados os espaços de exposição de bebidas alcoólicas e de bebidas não alcoólicas.\n\n3 - Os avisos referidos nos números anteriores devem ser obrigatoriamente:\n\na) Impressas;\n\nb) Escritas em carateres facilmente legíveis e sobre fundo contrastante."
+  },
+  "58341501": {
+   "fragment_id": "58361873",
+   "type": 11,
+   "heading": "Artigo 5.º — Disponibilização, venda e consumo nos serviços e organismos da Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disponibilização, venda e consumo nos serviços e organismos da Administração Pública\n\nSem prejuízo do disposto na alínea a) do n.º 4 do artigo 3.º, a disponibilização, a venda e o consumo de bebidas alcoólicas no local de trabalho, refeitórios, bares, cafetarias e locais similares dos serviços e organismos da Administração Pública ou na sua dependência, é regulado por portaria dos membros do Governo responsáveis pelas áreas da administração pública e da saúde."
+  },
+  "58341502": {
+   "fragment_id": "58361874",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização e encerramento temporário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização e encerramento temporário\n\n1 - A fiscalização do cumprimento do disposto nos artigos 3.º e 4.º é da competência da Autoridade de Segurança Alimentar e Económica (ASAE), da Polícia de Segurança Pública e da Guarda Nacional Republicana, sem prejuízo das competências de fiscalização atribuídas a outras entidades.\n\n2 - As autoridades referidas no número anterior podem, no decurso da fiscalização, determinar o encerramento imediato e provisório do estabelecimento, por um período não superior a 12 horas, quando e enquanto tal se revele indispensável para:\n\na) A recolha de elementos de prova;\n\nb) A apreensão dos objetos utilizados na prática da infração; e ou\n\nc) Para a identificação dos agentes da infração e dos consumidores.\n\n3 - A determinação do encerramento provisório do estabelecimento pode também ocorrer, por um período não superior a 12 horas, se, perante a deteção de uma infração em flagrante delito, ocorrer perigo sério de continuação da atividade ilícita."
+  },
+  "58341503": {
+   "fragment_id": "58364375",
+   "type": 11,
+   "heading": "Artigo 7.º — Consumo por menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Consumo por menores\n\n1 - A violação do disposto no n.º 2 do artigo 3.º por menores tem por consequência a notificação da ocorrência:\n\na) Ao respetivo representante legal, nos casos em que os menores evidenciem intoxicação alcoólica;\n\nb) Ao núcleo de apoio a crianças e jovens em risco localizado no centro de saúde ou no hospital da área de residência do menor, ou, em alternativa, às equipas de resposta aos problemas ligados ao álcool integradas nos cuidados de saúde primários da área de residência do menor, nos casos de reincidência da situação de intoxicação alcoólica, ou de impossibilidade de notificação do representante legal.\n\n2 - As notificações previstas no número anterior são da competência da entidade fiscalizadora que levanta o auto.\n\n3 - As notificações são efetuadas através de modelo próprio, constando em anexo ao presente decreto-lei, do qual faz parte integrante.\n\n4 - Se a violação do disposto no n.º 2 do artigo 3.º implicar perigo para o menor, nos termos do disposto no artigo 3.º da Lei n.º 147/99, de 1 de setembro, alterada pela Lei n.º 31/2003, de 22 de agosto, as entidades referidas no n.º 2 devem diligenciar para lhe por termo, pelos meios estritamente adequados e necessários e sempre com preservação da vida privada do menor e da sua família.\n\n5 - Para efeitos do disposto no número anterior, as entidades referidas no n.º 2 podem solicitar a cooperação das autoridades públicas competentes, nomeadamente da Comissão de Proteção de Crianças e Jovens ou do representante do Ministério Público territorialmente competentes."
+  },
+  "58341504": {
+   "fragment_id": "58364376",
+   "type": 11,
+   "heading": "Artigo 8.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contraordenações\n\n1 - A violação do disposto nos n.os 1, 4, 7 e 9 do artigo 3.º constitui contraordenação punível com as seguintes coimas:\n\na) De (euro)500 a (euro)3740, se o infrator for uma pessoa singular;\n\nb) De (euro)2500 a (euro)30000, se o infrator for uma pessoa coletiva;\n\n2 - A violação do disposto no artigo 4.º constitui contraordenação punível com as seguintes coimas:\n\na) De (euro) 500 a (euro) 1500, se o infrator for uma pessoa singular;\n\nb) De (euro) 1500 a (euro) 5500, se o infrator for uma pessoa coletiva.\n\n3 - A instrução dos processos compete à ASAE, a quem as demais entidades fiscalizadoras remetem os respetivos autos e demais elementos, designadamente probatórios.\n\n4 - Compete ao inspetor-geral da ASAE a aplicação das coimas e das sanções acessórias.\n\n5 - O produto das coimas reverte em:\n\na) 60 % para o Estado;\n\nb) 25 % para a ASAE;\n\nc) 15 % para a entidade fiscalizadora.\n\n6 - Nas Regiões Autónomas, as competências cometidas à ASAE são exercidas pelos organismos das administrações regionais com idênticas funções e competências, constituindo receitas daquelas regiões o produto das coimas aí cobradas."
+  },
+  "58341505": {
+   "fragment_id": "58364377",
+   "type": 11,
+   "heading": "Artigo 9.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sanções acessórias\n\nEm função da gravidade e da reiteração das infrações previstas nos n.os 1 e 2 do artigo anterior, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda do produto da venda através da qual foi praticada a infração;\n\nb) Interdição, até um período de dois anos, do exercício de atividade diretamente relacionada com a infração praticada."
+  },
+  "58341506": {
+   "fragment_id": "58364378",
+   "type": 11,
+   "heading": "Artigo 10.º — Delimitação de perímetros nas Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Delimitação de perímetros nas Regiões Autónomas\n\nCompete aos órgãos próprios das Regiões Autónomas dos Açores e da Madeira a delimitação, no respetivo território, das áreas relativas às seguintes proibições:\n\na) Proibição de instalação de estabelecimentos de bebidas onde se vendam bebidas alcoólicas, para consumo no próprio estabelecimento ou fora dele, junto de estabelecimentos escolares dos ensinos básico e secundário;\n\nb) Proibição de atividade de comércio a retalho em feiras e mercados, sempre que esteja em causa a venda de bebidas alcoólicas junto de estabelecimentos escolares dos ensinos básico e secundário;\n\nc) Proibição de venda ambulante, sempre que a respetiva atividade se relacione com a venda de bebidas alcoólicas."
+  },
+  "58341507": {
+   "fragment_id": "58364379",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposição transitória\n\nAté à publicação da regulamentação prevista no artigo 5.º, mantém-se em vigor a Portaria n.º 390/2002, de 11 de abril, salvo no que contrariar o disposto no presente decreto-lei, designadamente a aplicação de exceções a quem não tenha completado 18 anos de idade."
+  },
+  "58341508": {
+   "fragment_id": "58364380",
+   "type": 11,
+   "heading": "Artigo 12.º — Estudo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estudo\n\nAté 1 de janeiro de 2015, o Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD) elabora e apresenta ao membro do Governo responsável pela área da saúde um estudo sobre a aplicação do regime previsto no presente decreto-lei."
+  },
+  "58341509": {
+   "fragment_id": "58364381",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 9/2002, de 24 de janeiro, com exceção do seu artigo 9.º"
+  },
+  "58341510": {
+   "fragment_id": "58364382",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "58341511": {
+   "fragment_id": "58364383",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 7.º)\n\n(ver documento original)"
+  },
+  "67502481": {
+   "fragment_id": "58361871",
+   "type": 11,
+   "heading": "Artigo 3.º — Restrições à disponibilização, venda e consumo de bebidas alcoólicas",
+   "in_force_from": "2015-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2015 - Diário da República n.º 115/2015, Série I de 2015-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2015-67498687), em vigor a partir de 2015-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Restrições à disponibilização, venda e consumo de bebidas alcoólicas\n\n1 - É proibido facultar, independentemente de objetivos comerciais, vender ou, com objetivos comerciais, colocar à disposição, em locais públicos e em locais abertos ao público:\n\na)  A menores;\n\nb) Revogada;\n\nc) A quem se apresente notoriamente embriagado ou aparente possuir anomalia psíquica.\n\n2 - É proibido às pessoas referidas no número anterior consumir bebidas alcoólicas em locais públicos e em locais abertos ao público.\n\n3 - Para efeitos da aplicação dos números anteriores, pode ser exigida a apresentação de um documento de identificação que permita a comprovação da idade, devendo tal pedido ser feito sempre que existam dúvidas relativamente à mesma.\n\n4 - É ainda proibida a disponibilização, a venda e o consumo de bebidas alcoólicas:\n\na) Nas cantinas, bares e outros estabelecimentos de restauração ou de bebidas, acessíveis ao público, localizados nos estabelecimentos de saúde;\n\nb) Em máquinas automáticas;\n\nc) Em postos de abastecimento de combustível localizados nas autoestradas ou fora das localidades;\n\nd) Em qualquer estabelecimento, entre as 0 e as 8 horas, com exceção:\n\ni) Dos estabelecimentos comerciais de restauração ou de bebidas;\n\nii) Dos estabelecimentos situados em portos e aeroportos em local de acessibilidade reservada a passageiros;\n\niii) Dos estabelecimentos de diversão noturna e análogos.\n\n5 - A violação do disposto da alínea b) do número anterior acarreta responsabilidade solidária entre o proprietário do equipamento e o titular do espaço onde aquele se encontra instalado.\n\n6 - Para efeitos do disposto na alínea c) do n.º 4, a proibição abrange os edifícios integrados destinados a atividades complementares ao abastecimento de combustível, nomeadamente lojas de conveniência, não incluindo os estabelecimentos de restauração ou de bebidas.\n\n7 - Sem prejuízo do disposto nos números anteriores, o facultar, vender ou, com objetivos comerciais, colocar à disposição bebidas alcoólicas em sala ou recinto de espetáculo, independentemente da sua natureza permanente ou temporária, acidental ou improvisada, nomeadamente em arraiais populares, concertos musicais ou festas académicas, é obrigatoriamente realizado em recipiente de material leve e não contundente.\n\n8 - O disposto no número anterior não se aplica aos recintos fixos de espetáculos de natureza artística onde simultaneamente se desenvolvam atividades de restauração ou de bebidas, designadamente casas de fado, cafés-teatro e salas de espetáculos de casinos, nem aos recintos de espetáculos em que se realizem feiras, quando exista uma área reservada exclusivamente à prestação de serviços de restauração e bebidas, ou em mostras e ações de degustação realizadas em áreas delimitadas para o efeito.\n\n9 - Os estabelecimentos a que se referem as subalíneas i) e iii) da alínea d) do n.º 4 e aqueles a que se refere o número anterior só devem permitir, para consumo de bebidas fora do espaço licenciado do estabelecimento, designadamente na via pública, a utilização de recipiente de material leve e não contundente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2015 - Diário da República n.º 115/2015, Série I de 2015-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2015-67498687), em vigor a partir de 2015-07-01"
+  },
+  "67502482": {
+   "fragment_id": "58361872",
+   "type": 11,
+   "heading": "Artigo 4.º — Afixação de avisos",
+   "in_force_from": "2015-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2015 - Diário da República n.º 115/2015, Série I de 2015-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2015-67498687), em vigor a partir de 2015-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Afixação de avisos\n\n1 - A proibição referida nos n.os 1 e 4 do artigo anterior deve constar de aviso afixado de forma visível nos locais públicos e abertos ao público onde se venda e ou se possa consumir bebidas alcoólicas.\n\n2 - Nos estabelecimentos comerciais de autosserviço, independentemente das suas dimensões, devem ser delimitados e explicitamente assinalados os espaços de exposição de bebidas alcoólicas e de bebidas não alcoólicas.\n\n3 - Os avisos referidos nos números anteriores devem ser obrigatoriamente:\n\na) Impressos;\n\nb) Escritos em carateres facilmente legíveis e sobre fundo contrastante.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2015 - Diário da República n.º 115/2015, Série I de 2015-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2015-67498687), em vigor a partir de 2015-07-01"
+  },
+  "58341512": {
+   "fragment_id": "58364384",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de fevereiro de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo - João Filipe Cortez Rodrigues Queiró.\n\nPromulgado em 9 de abril de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de abril de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "58341532": {
+   "fragment_id": "58364383",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 7.º)",
+   "in_force_from": "2013-05-01",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Retificação n.º 23/2013 - Diário da República n.º 88/2013, Série I de 2013-05-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/23-2013-260893), em vigor a partir de 2013-05-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 7.º)\n\n(ver documento original)\n\n> Rectificado pelo/a [Declaração de Retificação n.º 23/2013 - Diário da República n.º 88/2013, Série I de 2013-05-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/23-2013-260893), em vigor a partir de 2013-05-01"
+  },
+  "155904993": {
+   "fragment_id": "58361872",
+   "type": 11,
+   "heading": "Artigo 4.º — Afixação de avisos",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 102/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2017-108041482), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2015 - Diário da República n.º 115/2015, Série I de 2015-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2015-67498687), em vigor a partir de 2015-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Afixação de avisos\n\n1 - A proibição referida no n.º 1 do artigo anterior deve constar de aviso afixado de forma visível nos locais públicos e abertos ao público onde se venda ou se possa consumir bebidas alcoólicas.\n\n2 - Nos estabelecimentos comerciais de autosserviço, independentemente das suas dimensões, devem ser delimitados e explicitamente assinalados os espaços de exposição de bebidas alcoólicas e de bebidas não alcoólicas.\n\n3 - Os avisos referidos nos números anteriores devem ser obrigatoriamente:\n\na) Impressos;\n\nb) Escritos em carateres facilmente legíveis e sobre fundo contrastante.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 102/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2017-108041482), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2015 - Diário da República n.º 115/2015, Série I de 2015-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2015-67498687), em vigor a partir de 2015-07-01"
+  },
+  "155904997": {
+   "fragment_id": "58364376",
+   "type": 11,
+   "heading": "Artigo 8.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 127.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 8.º — Contraordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação do disposto nos n.os 1, 4, 7 e 9 do artigo 3.º\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto no artigo 4.º\n\n3 - A instrução dos processos compete à ASAE, a quem as demais entidades fiscalizadoras remetem os respetivos autos e demais elementos, designadamente probatórios.\n\n4 - Compete ao inspetor-geral da ASAE a aplicação das coimas e das sanções acessórias.\n\n5 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente artigo é repartido nos termos do RJCE.\n\n6 - Nas Regiões Autónomas, as competências cometidas à ASAE são exercidas pelos organismos das administrações regionais com idênticas funções e competências, constituindo receitas daquelas regiões o produto das coimas aí cobradas.\n\n> Alterado pelo/a Artigo 127.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

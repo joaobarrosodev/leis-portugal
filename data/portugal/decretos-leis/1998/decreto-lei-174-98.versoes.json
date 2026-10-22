@@ -1,0 +1,1527 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:478841:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-70054444",
+ "dre_path": "/dr/detalhe/decreto-lei/174-1998-478841",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-06-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70054535",
+    "70054536",
+    "70054537",
+    "70054538",
+    "70054539",
+    "70054540",
+    "70054541",
+    "70054542",
+    "70054543",
+    "70054544",
+    "70054545",
+    "70054546",
+    "70054547",
+    "70054548",
+    "70054549",
+    "70054550",
+    "70054551",
+    "70054552",
+    "70054553",
+    "70054554",
+    "70054555",
+    "70054556",
+    "70054557",
+    "70054558",
+    "70054559",
+    "70054560",
+    "70054561",
+    "70054562",
+    "70054563",
+    "70054564",
+    "70054565",
+    "70054566",
+    "70054567",
+    "70054568",
+    "70054569",
+    "70054570",
+    "70054571",
+    "70054572",
+    "70054573",
+    "70054574",
+    "70067275",
+    "70067276",
+    "70067277",
+    "70067278",
+    "70067279",
+    "70067280",
+    "70067281",
+    "70067282",
+    "70067283",
+    "70067284",
+    "70067285",
+    "70067286",
+    "70067287",
+    "70067288",
+    "70067289",
+    "70067290",
+    "70067291",
+    "70067292",
+    "70067293",
+    "70067294",
+    "70067295",
+    "70067296",
+    "70067297",
+    "70067298",
+    "70067299",
+    "70067300",
+    "70067301",
+    "70067302",
+    "70067303",
+    "70067304",
+    "70067305",
+    "70067306",
+    "70067307",
+    "70067308",
+    "70067309",
+    "70067310",
+    "70067311",
+    "70067312",
+    "70067313",
+    "70067314",
+    "70067315",
+    "70067316",
+    "70067317",
+    "70067318",
+    "70067319",
+    "70067320",
+    "70067321",
+    "70067322",
+    "70067323",
+    "70067324",
+    "70067325",
+    "70067326",
+    "70067327",
+    "70067328",
+    "70067329",
+    "70067330",
+    "70067331",
+    "70067332",
+    "70067333",
+    "70067334",
+    "70067335",
+    "70067336",
+    "70067337",
+    "70067338",
+    "70067339",
+    "70067340",
+    "70067341",
+    "70067342",
+    "70067343",
+    "70067344",
+    "70067345",
+    "70067346",
+    "70067347",
+    "70067348",
+    "70067349",
+    "70067350",
+    "70067351",
+    "70067352",
+    "70067353",
+    "70067354",
+    "70067355",
+    "70067356",
+    "70067357",
+    "70067358",
+    "70067359",
+    "70067360",
+    "70067361",
+    "70067362",
+    "70067363",
+    "70067364",
+    "70067365",
+    "70067366",
+    "70067367",
+    "70067368",
+    "70067369",
+    "70067370",
+    "70067371",
+    "70067372",
+    "70067373",
+    "70067374",
+    "70067475",
+    "70067476",
+    "70067477",
+    "70067478",
+    "70067479"
+   ]
+  },
+  {
+   "date": "2015-11-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70054436:por",
+     "title": "Lei n.º 101/2015",
+     "published": "2015-08-20",
+     "dre_path": "/dr/detalhe/lei/101-2015-70054436"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "70054535",
+    "70054536",
+    "808121584",
+    "808121585",
+    "808121586",
+    "70054540",
+    "70067481",
+    "70054541",
+    "70054542",
+    "70054543",
+    "70054544",
+    "70054545",
+    "70054546",
+    "70054547",
+    "70054548",
+    "70054549",
+    "70054550",
+    "70054551",
+    "70054552",
+    "70054553",
+    "70054554",
+    "70054555",
+    "70054556",
+    "70054557",
+    "70054558",
+    "70054559",
+    "70054560",
+    "70054561",
+    "70054562",
+    "70054563",
+    "70054564",
+    "70054565",
+    "70054566",
+    "70054567",
+    "70054568",
+    "70054569",
+    "70054570",
+    "70054571",
+    "70054572",
+    "70054573",
+    "70054574",
+    "70067275",
+    "70067276",
+    "70067277",
+    "70067278",
+    "70067279",
+    "70067280",
+    "70067281",
+    "70067282",
+    "70067283",
+    "70067284",
+    "70067285",
+    "70067286",
+    "70067287",
+    "70067288",
+    "70067289",
+    "70067290",
+    "70067291",
+    "70067292",
+    "70067293",
+    "70067294",
+    "70067295",
+    "70067296",
+    "70067297",
+    "70067298",
+    "70067299",
+    "70067300",
+    "70067301",
+    "70067302",
+    "70067303",
+    "70067304",
+    "70067305",
+    "70067306",
+    "70067307",
+    "70067308",
+    "70067309",
+    "70067310",
+    "70067311",
+    "70067312",
+    "70067313",
+    "70067314",
+    "70067315",
+    "70067316",
+    "70067317",
+    "70067318",
+    "70067319",
+    "70067320",
+    "70067321",
+    "70067322",
+    "70067323",
+    "70067324",
+    "70067325",
+    "70067326",
+    "70067327",
+    "70067328",
+    "70067329",
+    "70067330",
+    "70067331",
+    "70067332",
+    "70067333",
+    "70067334",
+    "70067335",
+    "70067336",
+    "70067337",
+    "70067338",
+    "70067339",
+    "70067340",
+    "70067341",
+    "70067342",
+    "70067343",
+    "70067344",
+    "70067345",
+    "70067346",
+    "70067347",
+    "70067348",
+    "70067349",
+    "70067350",
+    "70067351",
+    "70067352",
+    "70067353",
+    "70067354",
+    "70067355",
+    "70067356",
+    "70067357",
+    "70067358",
+    "70067359",
+    "70067360",
+    "70067361",
+    "70067362",
+    "70067363",
+    "70067364",
+    "70067365",
+    "70067366",
+    "70067367",
+    "70067368",
+    "70067369",
+    "70067370",
+    "70067371",
+    "70067372",
+    "70067373",
+    "70067374",
+    "70067475",
+    "70067476",
+    "70067477",
+    "70067478",
+    "70067479"
+   ]
+  }
+ ],
+ "fragments": {
+  "70054535": {
+   "fragment_id": "70054445",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 174/98\n\nde 27 de Junho\n\nA criação da Ordem dos Economistas, associação profissional de direito público, através da transformação da APEC - Associação Portuguesa de Economistas, associação de direito privado, responde à necessidade de valorizar a profissão de economista, a qual adquiriu, nos nossos dias, uma importância económica e social acentuada e, nessa medida, exige uma entidade que a discipline, salvaguarde valores e crie condições de enquadramento e valorização técnico-profissional.\n\nCom efeito, a multiplicidade de licenciaturas na área da ciência económica e a acentuada indefinição que marca, hoje, o exercício da actividade de economista, dispersa por funções, sectores de actividade, tipos de entidades e organizações empregadoras, justificam a necessidade de uma regulamentação e de um controlo unitários do acesso e exercício da actividade profissional de economista.\n\nSem nunca perder de vista a natureza mista das associações públicas profissionais - pública, enquanto prossegue atribuições públicas relativas ao exercício de profissões onde o interesse público está especialmente patente; privada, porque associação representativa dos profissionais inscritos -, a elaboração do Estatuto da Ordem dos Economistas procurou conciliar as propostas apresentadas pela APEC - Associação Portuguesa de Economistas com os imperativos decorrentes do actual quadro constitucional português.\n\nEntre os aspectos mais significativos da regulamentação a que agora se procede, cumpre assinalar o reforço da descentralização organizativa e, bem assim, da separação entre órgãos executivos e disciplinares, a abertura à criação de áreas de especialização, a definição do núcleo essencial de regras de deontologia profissional, a previsão das regras sobre processo disciplinar, a consagração do referendo interno como instrumento de aprovação ou de ratificação pela profissão de decisões particularmente relevantes e, de uma maneira geral, todo o enquadramento relativo ao exercício da profissão de economista.\n\nFoi ouvida a APEC - Associação Portuguesa de Economistas.\n\nAssim, no uso da autorização legislativa concedida pela Lei n.º 118/97, de 13 de Novembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei aplicável em todo o território nacional, o seguinte:"
+  },
+  "70054536": {
+   "fragment_id": "70054446",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada a Ordem dos Economistas, doravante designada Ordem, cujo Estatuto se publica em anexo ao presente decreto-lei, do qual faz parte integrante.\n\n2 - A Ordem resulta da transformação da actual APEC - Associação Portuguesa de Economistas, associação de direito privado, em associação de direito público."
+  },
+  "70054537": {
+   "fragment_id": "70054447",
+   "type": 11,
+   "heading": "Artigo 2.º — Instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Instalação\n\n1 - Compete à direcção da APEC - Associação Portuguesa de Economistas, abreviadamente designada direcção, proceder à instalação da Ordem, para o que:\n\na) Prepara os regulamentos internos necessários ao funcionamento da Ordem;\n\nb) Promove a inscrição dos economistas;\n\nc) Prepara os actos eleitorais para os órgãos nacionais e regionais da Ordem;\n\nd) Confere posse aos titulares dos órgãos nacionais eleitos da Ordem;\n\ne) Realiza os demais actos necessários à instalação e normal funcionamento da Ordem;\n\nf) Presta contas do mandato exercido.\n\n2 - Na execução dos actos de instalação, a direcção rege-se, com as necessárias adaptações, pelo regime previsto no Estatuto anexo ao presente diploma.\n\n3 - O período de instalação não pode exceder o prazo de um ano a contar da data da entrada em vigor do presente diploma, cessando com a investidura dos órgãos nacionais da Ordem.\n\n4 - O termo do período de instalação requer uma declaração formal pública da direcção da Ordem."
+  },
+  "70054538": {
+   "fragment_id": "70054448",
+   "type": 11,
+   "heading": "Artigo 3.º — Inscrições na Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Inscrições na Ordem\n\n1 - As inscrições aceites pela direcção no período de instalação deverão ser posteriormente sujeitas a ratificação pela direcção eleita da Ordem com vista à emissão da competente cédula profissional.\n\n2 - Para efeitos de inscrição como membro efectivo e de exercício da profissão de economista só é exigido estágio a quem obtenha a formação académica necessária após o final do período de instalação.\n\n3 - A aplicação do novo estatuto não prejudica a inscrição automática na Ordem dos actuais membros da APEC - Associação Portuguesa de Economistas no pleno gozo dos seus direitos, desde que reúnam as habilitações legalmente exigidas e se não tiverem declarado expressamente que não desejam a inscrição na Ordem."
+  },
+  "70054539": {
+   "fragment_id": "70054449",
+   "type": 11,
+   "heading": "Artigo 4.º — Eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Eleições\n\nAs eleições dos órgãos da Ordem devem estar concluídas até nove meses após a entrada em vigor do presente decreto-lei."
+  },
+  "70054540": {
+   "fragment_id": "70054450",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime de transição\n\n1 - A Ordem sucede nas situações jurídicas activas e passivas da APEC - Associação Portuguesa de Economistas.\n\n2 - A Ordem pode, por convénio a celebrar com outras instituições, suceder nos direitos e obrigações de que estas sejam titulares."
+  },
+  "70054541": {
+   "fragment_id": "70054451",
+   "type": 14,
+   "heading": "Anexo — ESTATUTO DA ORDEM DOS ECONOMISTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTO DA ORDEM DOS ECONOMISTAS"
+  },
+  "70054542": {
+   "fragment_id": "70054452",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "70054543": {
+   "fragment_id": "70054453",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e sede\n\n1 - A Ordem dos Economistas, abreviadamente designada por Ordem, é a associação pública representativa dos licenciados na área da ciência económica que, nos termos do presente Estatuto, exercem a profissão de economista.\n\n2 - A Ordem tem a sua sede em Lisboa."
+  },
+  "70054544": {
+   "fragment_id": "70054454",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nConstituem atribuições da Ordem:\n\na) Reconhecer o título profissional de economista aos titulares de licenciaturas na área da ciência económica;\n\nb) Regulamentar, com observância da lei e nos termos estatutários, as condições substanciais e deontológicas do exercício da profissão de economista;\n\nc) Zelar pela função social, dignidade e prestígio da profissão de economista;\n\nd) Assegurar o cumprimento de regras de deontologia profissional;\n\ne) Defender os direitos e interesses legítimos dos seus membros;\n\nf) Exercer a disciplina sobre os economistas;\n\ng) Reforçar a solidariedade entre os seus membros;\n\nh) Promover o estreitamento das ligações com instituições congéneres estrangeiras;\n\ni) Contribuir para o desenvolvimento da ciência económica."
+  },
+  "70054545": {
+   "fragment_id": "70054455",
+   "type": 1,
+   "heading": "Capítulo II — Título profissional e exercício da profissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Título profissional e exercício da profissão"
+  },
+  "70054546": {
+   "fragment_id": "70054456",
+   "type": 11,
+   "heading": "Artigo 3.º — Título de economista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Título de economista\n\nPara os efeitos do presente Estatuto, designa-se por economista o titular de licenciatura na área da ciência económica inscrito na Ordem como membro efectivo."
+  },
+  "70054547": {
+   "fragment_id": "70054457",
+   "type": 11,
+   "heading": "Artigo 4.º — Exercício da profissão de economista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exercício da profissão de economista\n\n1 - A actividade e o exercício da profissão de economista materializam-se em análises, estudos, relatórios, pareceres, peritagens, auditorias, planos, previsões, certificações e outros actos, decisórios ou não, relativos a assuntos específicos na área da ciência económica.\n\n2 - O exercício da profissão depende da inscrição como membro efectivo da Ordem."
+  },
+  "70054548": {
+   "fragment_id": "70054458",
+   "type": 1,
+   "heading": "Capítulo III — Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Membros"
+  },
+  "70054549": {
+   "fragment_id": "70054459",
+   "type": 11,
+   "heading": "Artigo 5.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Categorias\n\nA Ordem tem as seguintes categorias de membros:\n\na) Membro efectivo;\n\nb) Membro estagiário;\n\nc) Membro honorário."
+  },
+  "70054550": {
+   "fragment_id": "70054460",
+   "type": 11,
+   "heading": "Artigo 6.º — Membro efectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Membro efectivo\n\n1 - A admissão como membro efectivo depende da titularidade de licenciatura na área da ciência económica e da realização de estágio.\n\n2 - Os membros efectivos são inscritos nas especialidades reconhecidas pela Ordem."
+  },
+  "70054551": {
+   "fragment_id": "70054461",
+   "type": 11,
+   "heading": "Artigo 7.º — Membro estagiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Membro estagiário\n\nTem a categoria de membro estagiário o titular de licenciatura na área da ciência económica que, para acesso a membro efectivo, se encontra a frequentar estágio."
+  },
+  "70054552": {
+   "fragment_id": "70054462",
+   "type": 11,
+   "heading": "Artigo 8.º — Inscrição de estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inscrição de estrangeiros\n\n1 - Podem inscrever-se na Ordem, para efeito do exercício em Portugal da profissão de economista, os nacionais de outros Estados da União Europeia, quando titulares das habilitações académicas e profissionais requeridas legalmente para o exercício desta profissão no respectivo Estado de origem e que equivalham às exigidas para os nacionais portugueses para a inscrição na Ordem.\n\n2 - A inscrição de economistas nacionais de Estados não pertencentes à União Europeia é feita em condições de reciprocidade, podendo a Ordem exigir a realização de estágio, a prestação de provas e a comprovação de adequados conhecimentos da língua portuguesa."
+  },
+  "70054553": {
+   "fragment_id": "70054463",
+   "type": 11,
+   "heading": "Artigo 9.º — Membro honorário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Membro honorário\n\nPodem ser admitidas na qualidade de membro honorário as pessoas colectivas ou singulares que, exercendo ou tendo exercido actividade de reconhecido interesse público para a profissão de economista ou para a ciência económica, sejam merecedoras de tal distinção."
+  },
+  "70054554": {
+   "fragment_id": "70054464",
+   "type": 11,
+   "heading": "Artigo 10.º — Direitos dos membros efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direitos dos membros efectivos\n\nSão direitos dos membros efectivos:\n\na) Usar o título profissional de economista;\n\nb) Exercer a profissão de economista;\n\nc) Obter a cédula profissional, indispensável ao uso do título profissional de economista e ao exercício da profissão de economista;\n\nd) Eleger e ser eleito para os órgãos da Ordem, nas condições fixadas neste Estatutos;\n\ne) Participar e beneficiar da actividade social, cultural e científica da Ordem;\n\nf) Informar-se das actividades da Ordem."
+  },
+  "70054555": {
+   "fragment_id": "70054465",
+   "type": 11,
+   "heading": "Artigo 11.º — Deveres dos membros efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Deveres dos membros efectivos\n\nSão deveres dos membros efectivos:\n\na) Cumprir o Estatuto da Ordem;\n\nb) Cumprir e fazer cumprir as deliberações dos órgãos da Ordem;\n\nc) Pagar regularmente a quotização e outras contribuições financeiras devidas à Ordem;\n\nd) Comunicar à Ordem a mudança de residência e de domicílio profissional;\n\ne) Agir solidariamente na defesa dos interesses colectivos dos membros da Ordem."
+  },
+  "70054556": {
+   "fragment_id": "70054466",
+   "type": 11,
+   "heading": "Artigo 12.º — Suspensão da inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Suspensão da inscrição\n\nÉ suspensa a inscrição na Ordem:\n\na) Aos membros que a requeiram;\n\nb) Aos membros que fiquem em situação de incompatibilidade com o exercício da profissão de economista."
+  },
+  "70054557": {
+   "fragment_id": "70054467",
+   "type": 11,
+   "heading": "Artigo 13.º — Aquisição e perda da qualidade de membro honorário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aquisição e perda da qualidade de membro honorário\n\nA qualidade de membro honorário adquire-se por deliberação da assembleia geral, sob proposta da direcção ou de, pelo menos, 50 membros efectivos, obedecendo ao mesmo formalismo e requisitos a perda dessa qualidade."
+  },
+  "70054558": {
+   "fragment_id": "70054468",
+   "type": 11,
+   "heading": "Artigo 14.º — Direitos dos membros honorários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direitos dos membros honorários\n\nSão direitos dos membros honorários:\n\na) Participar e beneficiar da actividade social, cultural e científica da Ordem;\n\nb) Informar-se das actividades da Ordem;\n\nc) Assistir e intervir, sem direito a voto, nas assembleias gerais."
+  },
+  "70054559": {
+   "fragment_id": "70054469",
+   "type": 1,
+   "heading": "Capítulo IV — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Organização"
+  },
+  "70054560": {
+   "fragment_id": "70054470",
+   "type": 11,
+   "heading": "Artigo 15.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Âmbito territorial\n\nA Ordem tem âmbito nacional, sem prejuízo da existência de órgãos regionais, aos quais incumbe o desenvolvimento e prossecução, a nível regional, das atribuições da Ordem."
+  },
+  "70054561": {
+   "fragment_id": "70054471",
+   "type": 11,
+   "heading": "Artigo 16.º — Organização profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Organização profissional\n\n1 - No plano profissional a Ordem organiza-se em especialidades e especializações.\n\n2 - Entende-se por especialidade um domínio das actividades do economista, com características técnicas e científicas próprias, que assumam no País grande relevância económica e social.\n\n3 - São, desde já, reconhecidas as seguintes especialidades:\n\na) Economia política;\n\nb) Economia e gestão empresariais.\n\n4 - Entende-se por especialização uma área restrita da actividade do economista contida numa especialidade ou abrangendo matérias de várias especialidades que assumam importância científica e técnica e desenvolvam metodologia específica."
+  },
+  "70054562": {
+   "fragment_id": "70054472",
+   "type": 11,
+   "heading": "Artigo 17.º — Congresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Congresso\n\nA Ordem realiza, com frequência não inferior a dois anos, um congresso, aberto a todos os seus membros e a entidades convidadas."
+  },
+  "70054563": {
+   "fragment_id": "70054473",
+   "type": 1,
+   "heading": "Capítulo V — Órgãos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Órgãos nacionais"
+  },
+  "70054564": {
+   "fragment_id": "70054474",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "70054565": {
+   "fragment_id": "70067175",
+   "type": 11,
+   "heading": "Artigo 18.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Órgãos\n\n1 - São órgãos nacionais da Ordem dos Economistas:\n\na) A assembleia geral;\n\nb) A direcção;\n\nc) O conselho fiscalizador de contas;\n\nd) O conselho geral;\n\ne) O conselho da profissão;\n\nf) A comissão de disciplina profissional;\n\ng) Os colégios de especialidade.\n\n2 - O presidente da direcção é o bastonário da Ordem."
+  },
+  "70054566": {
+   "fragment_id": "70067176",
+   "type": 11,
+   "heading": "Artigo 19.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Mandato\n\n1 - A duração dos mandatos dos órgãos electivos é de três anos, sendo permitida a reeleição até um total de dois mandatos.\n\n2 - Os mandatos iniciam-se a 1 de Janeiro e terminam a 31 de Dezembro."
+  },
+  "70054567": {
+   "fragment_id": "70067177",
+   "type": 11,
+   "heading": "Artigo 20.º — Exercício de cargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Exercício de cargos\n\n1 - Sem prejuízo do disposto no número seguinte, o exercício de cargos nos órgãos da Ordem é gratuito.\n\n2 - Os membros dos órgãos da Ordem que, por motivos de desempenho das suas funções, percam toda ou parte da remuneração do seu trabalho, têm direito ao reembolso, por parte da Ordem, das importâncias correspondentes, em condições a regulamentar pelo conselho geral."
+  },
+  "70054568": {
+   "fragment_id": "70067178",
+   "type": 8,
+   "heading": "Secção II — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assembleia geral"
+  },
+  "70054569": {
+   "fragment_id": "70067179",
+   "type": 11,
+   "heading": "Artigo 21.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Composição\n\nA assembleia geral é constituída pelos membros efectivos com mais de seis meses e no pleno gozo dos seus direitos."
+  },
+  "70054570": {
+   "fragment_id": "70067180",
+   "type": 11,
+   "heading": "Artigo 22.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competência\n\nCompete à assembleia geral:\n\na) Eleger e destituir os membros da mesa da assembleia geral;\n\nb) Eleger e destituir os membros da direcção;\n\nc) Eleger e destituir os membros do conselho fiscalizador de contas;\n\nd) Eleger e destituir 10 membros efectivos para integrarem o conselho geral;\n\ne) Eleger e destituir sete membros efectivos para integrarem a comissão de disciplina profissional;\n\nf) Apreciar e deliberar sobre o relatório e contas da direcção relativo a cada exercício;\n\ng) Autorizar a direcção a praticar todos os actos de aquisição, alienação ou oneração de bens imóveis, desde que não incluídos em plano de actividades e orçamento anual aprovados pelo conselho geral;\n\nh) Resolver os casos não previstos e as dúvidas surgidas na interpretação e aplicação do presente Estatuto;\n\ni) Deliberar sobre a extinção de delegações regionais e o consequente destino do património;\n\nj) Deliberar sobre a extinção de colégios de especialidade;\n\nl) Deliberar sobre a participação ou inscrição da Ordem em instituições nacionais ou estrangeiras;\n\nm) Apreciar a actividade dos órgãos sociais da Ordem e aprovar moções e recomendações de carácter associativo e profissional;\n\nn) Deliberar sobre propostas de alteração do Estatuto da Ordem;\n\no) Estabelecer os pressupostos de dispensa do pagamento das quotizações devidas à Ordem, nos termos do n.º 2 do artigo 68.º do presente Estatuto;\n\np) Aprovar os símbolos heráldicos da Ordem."
+  },
+  "70054571": {
+   "fragment_id": "70067181",
+   "type": 11,
+   "heading": "Artigo 23.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Mesa\n\n1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e dois secretários.\n\n2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vice-presidente e este por um dos secretários."
+  },
+  "70054572": {
+   "fragment_id": "70067182",
+   "type": 11,
+   "heading": "Artigo 24.º — Voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Voto\n\nA assembleia geral funciona sempre em regime de voto directo e universal."
+  },
+  "70054573": {
+   "fragment_id": "70067183",
+   "type": 11,
+   "heading": "Artigo 25.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Reuniões\n\n1 - A assembleia geral reúne-se ordinariamente no 1.º trimestre de cada ano para os efeitos da alínea f) do artigo 22.º e, para a realização das eleições previstas nas alíneas a) a e) do artigo 22.º, no último trimestre do ano que precede o início dos mandatos em causa.\n\n2 - A assembleia geral reúne-se extraordinariamente:\n\na) Sempre que o presidente da mesa o entenda;\n\nb) A requerimento da direcção;\n\nc) A requerimento do conselho geral;\n\nd) A requerimento de, pelo menos, 100 dos seus membros.\n\n3 - Os requerimentos para reuniões da assembleia geral extraordinária devem ser fundamentados e dirigidos, por escrito, ao presidente da mesa, deles constando necessariamente a ordem de trabalhos.\n\n4 - Nos casos previstos nas alíneas b), c) e d) do n.º 2 do presente artigo, o presidente da mesa deve convocar a reunião da assembleia geral no prazo máximo de 30 dias após a recepção do requerimento."
+  },
+  "70054574": {
+   "fragment_id": "70067184",
+   "type": 11,
+   "heading": "Artigo 26.º — Convocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Convocação\n\nA convocação da assembleia geral é feita através de anúncios publicados nos dois jornais diários mais lidos a nível nacional e com a antecedência mínima de 15 dias."
+  },
+  "70067275": {
+   "fragment_id": "70067185",
+   "type": 11,
+   "heading": "Artigo 27.º — Quórum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Quórum\n\n1 - Sem prejuízo do disposto no número seguinte, as reuniões da assembleia geral têm início à hora marcada na convocatória, com a presença de, pelo menos, metade dos membros efectivos no pleno gozo dos seus direitos.\n\n2 - Quando não estiver presente o número mínimo de membros previsto no número anterior, a sessão terá início uma hora depois, com a presença de qualquer número de membros.\n\n3 - As reuniões da assembleia geral requeridas nos termos da alínea d) do n.º 2 do artigo 25.º não se realizam sem a presença de, pelo menos, metade do número dos requerentes, pelo que deve ser feita uma chamada no início da reunião pela ordem por que constam os respectivos nomes no requerimento."
+  },
+  "70067276": {
+   "fragment_id": "70067186",
+   "type": 11,
+   "heading": "Artigo 28.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Deliberações\n\n1 - Sem prejuízo do disposto no número seguinte, as deliberações são tomadas à pluralidade de votos dos membros efectivos presentes.\n\n2 - Nos casos das alíneas f) a o) do artigo 22.º, as deliberações são tomadas por maioria de dois terços dos votos dos membros presentes."
+  },
+  "70067277": {
+   "fragment_id": "70067187",
+   "type": 8,
+   "heading": "Secção III — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Direcção"
+  },
+  "70067278": {
+   "fragment_id": "70067188",
+   "type": 11,
+   "heading": "Artigo 29.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Composição\n\n1 - A direcção é composta pelo bastonário da Ordem, por quatro vogais efectivos e por dois vogais suplentes, todos eleitos em assembleia geral.\n\n2 - Os vogais suplentes substituem os vogais efectivos nas suas ausências e impedimentos."
+  },
+  "70067279": {
+   "fragment_id": "70067189",
+   "type": 11,
+   "heading": "Artigo 30.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competência\n\nCompete à direcção, salvo delegação nos secretariados regionais:\n\na) Dirigir e coordenar as actividades da Ordem, de acordo com os princípios definidos no presente Estatuto;\n\nb) Conceder ou recusar a inscrição dos economistas na Ordem, sob proposta da comissão permanente do conselho da profissão;\n\nc) Elaborar e apresentar ao conselho geral o plano de actividades e o orçamento para o exercício seguinte;\n\nd) Elaborar e apresentar à assembleia geral o relatório e contas de cada exercício;\n\ne) Aprovar o regulamento do congresso dos economistas, ouvido o conselho da profissão;\n\nf) Propor ao conselho geral os valores da jóia de inscrição como economista e da quotização mensal;\n\ng) Administrar os bens e gerir os fundos da Ordem;\n\nh) Decidir da criação de novas especialidades e da inscrição em colégios de especialidade, sob proposta do conselho da profissão;\n\ni) Decidir da criação de especializações e da atribuição do título de especialista, sob proposta do conselho da profissão;\n\nj) Propor ao conselho geral a criação de colégios de especialidade e de núcleos de especialistas;\n\nl) Propor ao conselho geral a criação de delegações regionais;\n\nm) Propor ao conselho geral a dotação de fundos das delegações regionais;\n\nn) Aprovar o regulamento do estágio, sob proposta do conselho da profissão;\n\no) Submeter à apreciação dos outros órgãos da Ordem os assuntos sobre os quais eles devam pronunciar-se;\n\np) Recorrer das decisões da comissão de disciplina profissional para o conselho da profissão;\n\nq) Propor ao conselho da profissão a revisão dos processos disciplinares já decididos definitivamente;\n\nr) Executar as decisões definitivas da comissão de disciplina profissional;\n\ns) Constituir grupos de trabalho com fins específicos;\n\nt) Sem prejuízo do disposto na alínea g) do artigo 22.º, deliberar sobre a propositura de acções judiciais, alienar ou onerar bens, contrair empréstimos e aceitar doações e legados;\n\nu) Elaborar propostas de regulamentos necessários à boa execução do presente Estatuto e submetê-los à aprovação do conselho geral."
+  },
+  "70067280": {
+   "fragment_id": "70067190",
+   "type": 11,
+   "heading": "Artigo 31.º — Competência do bastonário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Competência do bastonário\n\nCompete ao bastonário:\n\na) Presidir, com voto de qualidade, à direcção, ao conselho geral e ao conselho da profissão;\n\nb) Designar um vogal para o substituir nas suas faltas ou impedimentos;\n\nc) Representar a Ordem, em juízo e fora dele."
+  },
+  "70067281": {
+   "fragment_id": "70067191",
+   "type": 11,
+   "heading": "Artigo 32.º — Quórum e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Quórum e deliberações\n\n1 - A direcção reúne ordinariamente pelo menos uma vez por quinzena e, extraordinariamente, mediante convocação do bastonário ou, nos seus impedimentos, do seu substituto.\n\n2 - As deliberações são tomadas com a presença de, pelo menos, três membros efectivos e aprovadas por, pelo menos, três votos favoráveis."
+  },
+  "70067282": {
+   "fragment_id": "70067192",
+   "type": 11,
+   "heading": "Artigo 33.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Vinculação\n\n1 - Para que a Ordem fique obrigada são necessárias a assinatura do bastonário e a de um vogal em efectividade de funções.\n\n2 - A direcção pode constituir mandatário para a prática de certos e determinados actos, devendo para tal fixar com precisão o âmbito dos poderes conferidos."
+  },
+  "70067283": {
+   "fragment_id": "70067193",
+   "type": 11,
+   "heading": "Artigo 34.º — Responsabilidade solidária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Responsabilidade solidária\n\n1 - Os membros da direcção respondem solidariamente pelos actos praticados no exercício do mandato que lhes foi conferido.\n\n2 - Ficam isentos desta responsabilidade os membros que não tenham estado presentes na sessão na qual tenha sido tomada a deliberação, nem naquela em que, após leitura, for aprovada a acta da sessão em causa ou, estando presentes, tenham votado expressamente contra a deliberação em causa."
+  },
+  "70067284": {
+   "fragment_id": "70067194",
+   "type": 8,
+   "heading": "Secção IV — Conselho fiscalizador de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho fiscalizador de contas"
+  },
+  "70067285": {
+   "fragment_id": "70067195",
+   "type": 11,
+   "heading": "Artigo 35.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Composição\n\nO conselho fiscalizador de contas é composto por um presidente, um vice-presidente, um vogal e dois suplentes, eleitos em assembleia geral."
+  },
+  "70067286": {
+   "fragment_id": "70067196",
+   "type": 11,
+   "heading": "Artigo 36.º — Competência, reuniões e quórum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Competência, reuniões e quórum\n\n1 - Compete ao conselho fiscalizador de contas:\n\na) Examinar a contabilidade da sede nacional, pelo menos uma vez por trimestre, e a contabilidade das delegações regionais, pelo menos uma vez por semestre;\n\nb) Dar parecer sobre o relatório e contas de cada exercício, apresentados pela direcção, bem como sobre o orçamento anual;\n\nc) Elaborar actas das suas reuniões;\n\nd) Apresentar à direcção as sugestões que entender sobre a gestão económico-financeira da Ordem;\n\ne) Requerer a convocação do conselho geral, quando entender necessário.\n\n2 - O conselho fiscalizador de contas reúne mediante convocatória do seu presidente, ordinariamente, uma vez por trimestre, e, extraordinariamente, sempre que haja matéria relevante.\n\n3 - As deliberações são tomadas com a presença de, pelo menos, dois membros e são aprovadas com, pelo menos, dois votos favoráveis."
+  },
+  "70067287": {
+   "fragment_id": "70067197",
+   "type": 8,
+   "heading": "Secção V — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Conselho geral"
+  },
+  "70067288": {
+   "fragment_id": "70067198",
+   "type": 11,
+   "heading": "Artigo 37.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Composição\n\nO conselho geral é composto pelo bastonário da Ordem, por 10 membros efectivos eleitos em assembleia geral, por um representante de cada secretariado regional e por um representante de cada colégio de especialidade."
+  },
+  "70067289": {
+   "fragment_id": "70067199",
+   "type": 11,
+   "heading": "Artigo 38.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competência\n\nCompete ao conselho geral:\n\na) Apreciar e deliberar sobre o plano de actividades e o orçamento anual para o exercício seguinte, proposto pela direcção;\n\nb) Nomear, em caso de destituição, os substitutos dos membros do conselho fiscalizador de contas e dos secretariados regionais, bem como da respectiva comissão executiva, os quais exercem funções até nova eleição;\n\nc) Fixar, sob proposta da direcção, a jóia de inscrição como economista e a quotização mensal;\n\nd) Apreciar e decidir dos recursos interpostos das deliberações em matéria de admissão na Ordem, bem como de suspensão da inscrição por incompatibilidade;\n\ne) Apreciar e decidir dos recursos interpostos das decisões que violem o presente Estatuto, sempre que não esteja prevista no Estatuto ou em regulamentos outra instância de recurso;\n\nf) Aprovar a criação das delegações regionais, sob proposta da direcção;\n\ng) Fixar a dotação de fundos para as delegações regionais, sob proposta da direcção;\n\nh) Apreciar e deliberar sobre as propostas de regulamentos apresentadas pela direcção destinadas à boa execução das normas do presente Estatuto;\n\ni) Aprovar a criação de colégios de especialidades e de núcleos de especialistas sob proposta da direcção."
+  },
+  "70067290": {
+   "fragment_id": "70067200",
+   "type": 11,
+   "heading": "Artigo 39.º — Reuniões e quórum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reuniões e quórum\n\n1 - O conselho geral reúne ordinariamente no último trimestre de cada ano, excepto para se pronunciar sobre o plano e o orçamento do primeiro exercício de cada mandato, para o que reunirá no 1.º trimestre do mandato.\n\n2 - O conselho geral reúne extraordinariamente:\n\na) Sempre que o bastonário o entenda;\n\nb) A requerimento da direcção;\n\nc) A requerimento do conselho fiscalizador de contas;\n\nd) A requerimento de, pelo menos, 20% dos seus membros;\n\ne) No caso previsto no n.º 4 do artigo 87.º\n\n3 - Os requerimentos para reuniões do conselho geral extraordinário devem ser fundamentados e dirigidos, por escrito, ao bastonário, deles constando necessariamente a ordem de trabalhos.\n\n4 - Nos casos previstos nas alíneas b) e d) do n.º 2 do presente artigo, o presidente deve convocar o conselho geral no prazo máximo de 15 dias após recepção do requerimento.\n\n5 - As reuniões do conselho geral são dirigidas por uma mesa, constituída pelo bastonário e por dois secretários cooptados de entre os membros do conselho na primeira reunião deste órgão.\n\n6 - O conselho geral reúne com a presença da maioria do seu número legal de membros, sendo as deliberações tomadas à pluralidade de votos.\n\n7 - Qualquer membro efectivo da Ordem pode assistir e intervir nas reuniões do conselho geral, sem direito a voto."
+  },
+  "70067291": {
+   "fragment_id": "70067201",
+   "type": 11,
+   "heading": "Artigo 40.º — Convocatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Convocatórias\n\nA convocatória do conselho geral é feita por carta registada, com antecedência mínima de oito dias, enviada a cada membro do conselho e afixada na sede e delegações regionais, para conhecimento dos membros efectivos em geral."
+  },
+  "70067292": {
+   "fragment_id": "70067202",
+   "type": 8,
+   "heading": "Secção VI — Conselho da profissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Conselho da profissão"
+  },
+  "70067293": {
+   "fragment_id": "70067203",
+   "type": 11,
+   "heading": "Artigo 41.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Composição\n\nO conselho da profissão é composto:\n\na) Pelo bastonário da Ordem;\n\nb) Por um economista designado pelo reitor de cada universidade ou escola superior que confira grau de licenciatura na área da ciência económica;\n\nc) Por um economista representante de cada uma das organizações associativas profissionais exclusiva ou maioritariamente compostas por economistas;\n\nd) Por um mínimo de economistas até um terço do universo do conselho, nomeados pela direcção da Ordem;\n\ne) Por um representante de cada colégio de especialidade."
+  },
+  "70067294": {
+   "fragment_id": "70067204",
+   "type": 11,
+   "heading": "Artigo 42.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Competência\n\nSem prejuízo do disposto no artigo seguinte, compete ao conselho da profissão:\n\na) Propor à direcção as condições de realização do estágio;\n\nb) Propor à direcção o reconhecimento de novas especialidades e a criação de especializações;\n\nc) Pronunciar-se sobre os pedidos de inscrição como membros efectivos;\n\nd) Pronunciar-se sobre os pedidos de inscrição nos colégios das especialidades e de atribuições do título de especialista;\n\ne) Dar parecer sobre o regulamento do congresso dos economistas, elaborado pela direcção;\n\nf) Apreciar e decidir dos recursos das decisões das comissões das especialidades;\n\ng) Apreciar e decidir dos recursos das decisões da comissão de disciplina profissional;\n\nh) Exercer o poder disciplinar relativo aos membros da comissão de disciplina profissional;\n\ni) Apreciar e deliberar sobre os pedidos ou propostas de revisão de decisões definitivas proferidas em processos disciplinares;\n\nj) Nomear, em caso de destituição da comissão de disciplina profissional ou das comissões das especialidades, a respectiva comissão executiva que exerce funções até à realização de novas eleições;\n\nl) Decidir dos recursos das decisões das mesas eleitorais;\n\nm) Aprovar o regulamento de funcionamento da sua comissão permanente."
+  },
+  "70067295": {
+   "fragment_id": "70067205",
+   "type": 11,
+   "heading": "Artigo 43.º — Comissão permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Comissão permanente\n\n1 - Consideram-se delegadas na comissão permanente do conselho da profissão as competências constantes das alíneas c), d), g) e h) do artigo anterior.\n\n2 - A comissão permanente é constituída:\n\na) Pelo bastonário, que preside com voto de qualidade;\n\nb) Por um representante de cada conjunto de membros do conselho da profissão identificados nas alíneas b), c) e e) do artigo 41.º\n\n3 - Sempre que julgar conveniente, a comissão permanente pode ser assessorada por outros membros da Ordem ou por personalidades exteriores à Ordem de reconhecido mérito científico ou profissional.\n\n4 - O regime de funcionamento da comissão permanente é aprovado por maioria de dois terços dos membros do conselho da profissão."
+  },
+  "70067296": {
+   "fragment_id": "70067206",
+   "type": 11,
+   "heading": "Artigo 44.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Reuniões\n\n1 - Mediante convocação do bastonário, o conselho da profissão reúne-se ordinariamente no 1.º trimestre de cada exercício.\n\n2 - O conselho da profissão reúne extraordinariamente:\n\na) Sempre que o bastonário o entenda necessário;\n\nb) Mediante convocação de, pelo menos, 20% dos seus membros;\n\nc) Mediante convocação da comissão permanente.\n\n3 - Os requerimentos de reunião extraordinária devem ser fundamentados e dirigidos, por escrito, ao bastonário, deles constando necessariamente a ordem de trabalhos.\n\n4 - Nos casos previstos nas alíneas b) e c) do n.º 2 do presente artigo, o bastonário deve convocar o conselho no prazo máximo de 30 dias após a recepção do requerimento."
+  },
+  "70067297": {
+   "fragment_id": "70067207",
+   "type": 11,
+   "heading": "Artigo 45.º — Convocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Convocação\n\nA convocação do conselho da profissão é feita por carta registada, enviada aos membros do conselho, com a antecedência mínima de 15 dias."
+  },
+  "70067298": {
+   "fragment_id": "70067208",
+   "type": 11,
+   "heading": "Artigo 46.º — Quórum de funcionamento e deliberativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Quórum de funcionamento e deliberativo\n\nAs reuniões do conselho da profissão têm início à hora marcada, com a presença, pelo menos, da maioria absoluta dos seus membros, ou uma hora depois, com qualquer número de presenças, sendo as deliberações tomadas à pluralidade de votos, sem prejuízo do disposto no n.º 4 do artigo 43.º"
+  },
+  "70067299": {
+   "fragment_id": "70067209",
+   "type": 8,
+   "heading": "Secção VII — Comissão de disciplina profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Comissão de disciplina profissional"
+  },
+  "70067300": {
+   "fragment_id": "70067210",
+   "type": 11,
+   "heading": "Artigo 47.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Composição\n\nA comissão de disciplina profissional é composta por sete membros efectivos da Ordem, eleitos em assembleia geral, sendo o presidente cooptado de entre eles."
+  },
+  "70067301": {
+   "fragment_id": "70067211",
+   "type": 11,
+   "heading": "Artigo 48.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Competência\n\nCompete à comissão de disciplina profissional o exercício do poder disciplinar sobre os membros da Ordem."
+  },
+  "70067302": {
+   "fragment_id": "70067212",
+   "type": 11,
+   "heading": "Artigo 49.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Reuniões\n\nA comissão de disciplina profissional reúne ordinariamente uma vez por semestre, mediante convocação do respectivo presidente e, extraordinariamente, sempre que o presidente ou o bastonário da Ordem o entendam, designadamente tendo em conta as conveniências dos relatores de processos disciplinares em curso."
+  },
+  "70067303": {
+   "fragment_id": "70067213",
+   "type": 11,
+   "heading": "Artigo 50.º — Convocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Convocação\n\nA convocação da comissão de disciplina profissional é feita por carta registada ou telegrama, com a antecedência mínima de oito dias."
+  },
+  "70067304": {
+   "fragment_id": "70067214",
+   "type": 11,
+   "heading": "Artigo 51.º — Quórum de funcionamento e deliberativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Quórum de funcionamento e deliberativo\n\nAs reuniões da comissão de disciplina profissional realizam-se com a presença de, pelo menos, quatro membros, sendo as deliberações tomadas à pluralidade de votos."
+  },
+  "70067305": {
+   "fragment_id": "70067215",
+   "type": 8,
+   "heading": "Secção VIII — Colégios de especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Colégios de especialidade"
+  },
+  "70067306": {
+   "fragment_id": "70067216",
+   "type": 11,
+   "heading": "Artigo 52.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Composição\n\n1 - Cada colégio de especialidade é composto pelos membros efectivos que exerçam uma especialidade da profissão de economista cuja inscrição no colégio tenha sido aprovada.\n\n2 - Para além das especialidades que venham a ser reconhecidas pelos órgãos competentes da Ordem, são desde já estruturadas em colégio as seguintes especialidades:\n\na) Economia política;\n\nb) Economia e gestão empresariais.\n\n3 - Os titulares de licenciatura na área da ciência económica ainda não estruturada em colégio são inscritos naquela que a comissão permanente do conselho da profissão considere mais adequada de entre as especialidades reconhecidas."
+  },
+  "70067307": {
+   "fragment_id": "70067217",
+   "type": 11,
+   "heading": "Artigo 53.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Competência\n\nSão competências dos colégios de especialidade:\n\na) Acompanhar e contribuir para o desenvolvimento técnico-científico das especialidades, mantendo adequado relacionamento com a comunidade científica;\n\nb) Promover o estreitamento das relações científicas e profissionais entre os membros dos colégios;\n\nc) Incentivar a valorização do exercício profissional dos seus membros;\n\nd) Apoiar os outros órgãos da Ordem quando solicitados."
+  },
+  "70067308": {
+   "fragment_id": "70067218",
+   "type": 11,
+   "heading": "Artigo 54.º — Órgão executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Órgão executivo\n\n1 - Os colégios são dirigidos por conselhos de especialidade, compostos por cinco membros, eleitos nos colégios, um dos quais presidirá.\n\n2 - Cada colégio designa um representante no conselho geral."
+  },
+  "70067309": {
+   "fragment_id": "70067219",
+   "type": 11,
+   "heading": "Artigo 55.º — Competência dos conselhos de especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Competência dos conselhos de especialidade\n\nCompete aos conselhos de especialidade:\n\na) Discutir e propor à direcção planos de acção relativos a questões profissionais, no âmbito da especialidade, com vista à realização das competências do respectivo colégio;\n\nb) Dar parecer sobre matéria da especialidade ou outras referentes à Ordem, quando solicitados pela direcção;\n\nc) Coadjuvar a comissão permanente do conselho da profissão nos processos de admissão de membros efectivos, de inscrição nos colégios e de atribuição do título de especialista."
+  },
+  "70067310": {
+   "fragment_id": "70067220",
+   "type": 8,
+   "heading": "Secção IX — Especializações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Especializações"
+  },
+  "70067311": {
+   "fragment_id": "70067221",
+   "type": 11,
+   "heading": "Artigo 56.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Organização\n\n1 - As especializações organizam-se em núcleos de especialistas no interior dos colégios de especialidades.\n\n2 - A estrutura e o funcionamento dos núcleos de especialistas obedece a regulamento aprovado pelo conselho geral, sob proposta da direcção."
+  },
+  "70067312": {
+   "fragment_id": "70067222",
+   "type": 1,
+   "heading": "Capítulo VI — Órgãos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Órgãos regionais"
+  },
+  "70067313": {
+   "fragment_id": "70067223",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "70067314": {
+   "fragment_id": "70067224",
+   "type": 11,
+   "heading": "Artigo 57.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Órgãos\n\nSão órgãos das delegações regionais da Ordem dos Economistas:\n\na) A assembleia regional;\n\nb) O secretariado regional."
+  },
+  "70067315": {
+   "fragment_id": "70067225",
+   "type": 8,
+   "heading": "Secção II — Assembleias regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assembleias regionais"
+  },
+  "70067316": {
+   "fragment_id": "70067226",
+   "type": 11,
+   "heading": "Artigo 58.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Composição\n\nAs assembleias regionais são compostas por todos os membros efectivos no pleno gozo dos seus direitos associativos que residam na área da delegação regional."
+  },
+  "70067317": {
+   "fragment_id": "70067227",
+   "type": 11,
+   "heading": "Artigo 59.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Competência\n\nCompete a cada assembleia regional:\n\na) Eleger os membros da mesa da assembleia regional e do secretariado regional, bem como destituí-los;\n\nb) Apreciar e deliberar sobre o relatório e contas da delegação relativos a cada exercício;\n\nc) Apreciar e deliberar sobre o plano de actividades e orçamento anual para o exercício seguinte, propostos pelo secretariado."
+  },
+  "70067318": {
+   "fragment_id": "70067228",
+   "type": 11,
+   "heading": "Artigo 60.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Reuniões\n\n1 - As assembleias regionais reúnem ordinariamente até 31 de Março para exercer a competência prevista na alínea b) do artigo anterior e no último trimestre de cada ano para exercer a competência prevista na alínea c) do artigo anterior excepto quanto ao plano e orçamento do primeiro exercício de cada mandato, caso em que deve reunir no 1.º trimestre do mandato.\n\n2 - As reuniões extraordinárias têm lugar sempre que o presidente da mesa da assembleia regional o entenda ou a pedido de um grupo de membros correspondente a, pelo menos, 10% dos membros da respectiva delegação regional."
+  },
+  "70067319": {
+   "fragment_id": "70067229",
+   "type": 11,
+   "heading": "Artigo 61.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Composição\n\nA mesa da assembleia regional é composta pelo presidente da respectiva assembleia regional, que preside, e por dois secretários eleitos nos termos da alínea a) do artigo 59.º"
+  },
+  "70067320": {
+   "fragment_id": "70067230",
+   "type": 11,
+   "heading": "Artigo 62.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Competência\n\nCompete à mesa da assembleia regional:\n\na) Dirigir os trabalhos da assembleia regional;\n\nb) Exercer as competências da mesa eleitoral nas eleições para os órgãos regionais."
+  },
+  "70067321": {
+   "fragment_id": "70067231",
+   "type": 8,
+   "heading": "Secção III — Secretariados regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Secretariados regionais"
+  },
+  "70067322": {
+   "fragment_id": "70067232",
+   "type": 11,
+   "heading": "Artigo 63.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Composição\n\nOs secretariados regionais são constituídos por três membros efectivos e dois suplentes, eleitos de entre os membros de cada delegação regional, cabendo a presidência ao primeiro nome da lista eleita."
+  },
+  "70067323": {
+   "fragment_id": "70067233",
+   "type": 11,
+   "heading": "Artigo 64.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Competência\n\nCompete a cada secretariado regional:\n\na) Elaborar e apresentar anualmente à respectiva assembleia regional o orçamento e plano de actividades para o ano corrente;\n\nb) Administrar os bens e gerir os fundos próprios de cada delegação regional;\n\nc) Submeter à apreciação dos outros órgãos da Ordem os assuntos sobre os quais eles devam pronunciar-se;\n\nd) Nomear e destituir o representante no conselho geral."
+  },
+  "70067324": {
+   "fragment_id": "70067234",
+   "type": 11,
+   "heading": "Artigo 65.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Reuniões\n\nOs secretariados regionais reúnem, pelo menos, uma vez por mês."
+  },
+  "70067325": {
+   "fragment_id": "70067235",
+   "type": 11,
+   "heading": "Artigo 66.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Receitas\n\nConstituem receitas das delegações regionais:\n\na) A dotação de fundos atribuída pelo conselho geral;\n\nb) As receitas de prestação de serviços e outras actividades remuneradas;\n\nc) Os rendimentos de bens afectos às delegações regionais."
+  },
+  "70067326": {
+   "fragment_id": "70067236",
+   "type": 1,
+   "heading": "Capítulo VII — Fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Fundos"
+  },
+  "70067327": {
+   "fragment_id": "70067237",
+   "type": 11,
+   "heading": "Artigo 67.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Receitas\n\nConstituem receitas da Ordem:\n\na) As quotas dos membros;\n\nb) As jóias de inscrição na Ordem;\n\nc) As receitas de prestação de serviços e outras actividades remuneradas;\n\nd) Os rendimentos de bens próprios;\n\ne) As heranças, legados, subsídios e donativos."
+  },
+  "70067328": {
+   "fragment_id": "70067238",
+   "type": 11,
+   "heading": "Artigo 68.º — Quotização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Quotização\n\n1 - A quotização dos membros reformados é de 50% da quotização dos restantes membros.\n\n2 - O conselho geral pode dispensar o pagamento da quotização mediante a verificação dos pressupostos a estabelecer pela assembleia geral."
+  },
+  "70067329": {
+   "fragment_id": "70067239",
+   "type": 11,
+   "heading": "Artigo 69.º — Distribuição de receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Distribuição de receitas\n\nA direcção deve enviar a cada secretariado regional, até ao final de cada mês, o montante de receitas a que a respectiva delegação regional teve direito no mês imediatamente anterior."
+  },
+  "70067330": {
+   "fragment_id": "70067240",
+   "type": 11,
+   "heading": "Artigo 70.º — Isenção de custas, preparos e imposto de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Isenção de custas, preparos e imposto de justiça\n\nA Ordem está isenta de custas, preparos e imposto de justiça em qualquer processo em que intervenha."
+  },
+  "70067331": {
+   "fragment_id": "70067241",
+   "type": 1,
+   "heading": "Capítulo VIII — Processo eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Processo eleitoral"
+  },
+  "70067332": {
+   "fragment_id": "70067242",
+   "type": 11,
+   "heading": "Artigo 71.º — Mesa eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Mesa eleitoral\n\nNas eleições para os órgãos nacionais a mesa da assembleia geral assume as funções de mesa eleitoral e nas eleições dos órgãos regionais a mesa eleitoral é a mesa da assembleia regional."
+  },
+  "70067333": {
+   "fragment_id": "70067243",
+   "type": 11,
+   "heading": "Artigo 72.º — Capacidade eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Capacidade eleitoral\n\n1 - Só podem eleger e ser eleitos para os órgãos da Ordem os seus membros efectivos inscritos há mais de seis meses, no pleno gozo dos seus direitos.\n\n2 - Os candidatos à direcção da Ordem e aos secretariados regionais não podem integrar as listas de candidatos a qualquer outro órgão."
+  },
+  "70067334": {
+   "fragment_id": "70067244",
+   "type": 11,
+   "heading": "Artigo 73.º — Eleições para os órgãos da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Eleições para os órgãos da Ordem\n\n1 - As eleições para o conselho geral e para a comissão de disciplina profissional são feitas por listas completas, aplicando-se o sistema da média mais alta de Hondt, devendo cada lista apresentar suplentes até um quarto do número total dos elementos eleitos que compõem o órgão.\n\n2 - As eleições para a mesa da assembleia geral, para o conselho fiscalizador de contas, para a direcção e para os órgãos regionais são feitas por listas completas, aplicando-se o sistema da maioria simples dos votos expressos."
+  },
+  "70067335": {
+   "fragment_id": "70067245",
+   "type": 11,
+   "heading": "Artigo 74.º — Período eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Período eleitoral\n\n1 - As eleições devem ter lugar no último trimestre do ano em que termina o mandato dos órgãos eleitos.\n\n2 - No caso de falta de quórum ou de destituição de órgãos eleitos, as eleições devem ter lugar nos três meses seguintes à falta de quórum ou da destituição."
+  },
+  "70067336": {
+   "fragment_id": "70067246",
+   "type": 11,
+   "heading": "Artigo 75.º — Publicidade das eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Publicidade das eleições\n\nA convocação das assembleias eleitorais é feita por meio de anúncios convocatórios, afixados na sede nacional e nas sedes regionais, e publicada em dois dos jornais mais lidos na área eleitoral, com a antecedência mínima de 60 dias."
+  },
+  "70067337": {
+   "fragment_id": "70067247",
+   "type": 11,
+   "heading": "Artigo 76.º — Cadernos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Cadernos eleitorais\n\n1 - Os cadernos eleitorais devem ser afixados nas sedes nacionais e regionais 45 dias antes da data da realização da assembleia eleitoral.\n\n2 - Da inscrição irregular ou da omissão nos cadernos eleitorais poderá qualquer eleitor reclamar para a mesa eleitoral nos 15 dias seguintes aos da afixação, devendo esta decidir da reclamação no prazo de quarenta e oito horas."
+  },
+  "70067338": {
+   "fragment_id": "70067248",
+   "type": 11,
+   "heading": "Artigo 77.º — Apresentação de listas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Apresentação de listas\n\n1 - As candidaturas são entregues na mesa eleitoral respectiva, devendo as listas conter a identificação dos candidatos e ser acompanhadas de um termo de aceitação, individual ou colectivo, das candidaturas, bem como dos respectivos programas de acção.\n\n2 - A apresentação das listas de candidatura deve ser feita até 30 dias antes da data do acto eleitoral.\n\n3 - As listas de candidatura devem ser subscritas por, pelo menos, 3% do número de membros da respectiva assembleia eleitoral, até ao máximo de 200, no pleno gozo dos seus direitos.\n\n4 - Os candidatos são identificados pelo nome completo, número de cédula profissional, idade, residência e local de trabalho.\n\n5 - Os subscritores das candidaturas a que se refere o n.º 3 da presente disposição são identificados pelo nome completo legível, assinatura e número de cédula profissional."
+  },
+  "70067339": {
+   "fragment_id": "70067249",
+   "type": 11,
+   "heading": "Artigo 78.º — Comissão de fiscalização eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Comissão de fiscalização eleitoral\n\n1 - A comissão de fiscalização eleitoral é composta pelo presidente da mesa da assembleia geral e por três representantes de cada uma das listas concorrentes, devendo iniciar funções vinte e quatro horas após a apresentação das candidaturas.\n\n2 - Os representantes de cada uma das listas concorrentes devem ser indicados conjuntamente com a apresentação das respectivas candidaturas.\n\n3 - Compete à comissão de fiscalização eleitoral:\n\na) Fiscalizar o processo eleitoral e resolver todas as questões surgidas no seu âmbito;\n\nb) Elaborar relatórios de irregularidades detectadas e apresentá-los à mesa eleitoral;\n\nc) Distribuir entre as diferentes listas de candidatos a utilização dos meios de apoio disponibilizados pela direcção da Ordem."
+  },
+  "70067340": {
+   "fragment_id": "70067250",
+   "type": 11,
+   "heading": "Artigo 79.º — Suprimento de irregularidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Suprimento de irregularidades\n\n1 - A mesa eleitoral deve verificar da regularidade das candidaturas nos cinco dias subsequentes ao encerramento do prazo para entrega das listas de candidatura.\n\n2 - Com vista ao suprimento das eventuais irregularidades encontradas, a documentação é devolvida ao primeiro subscritor da lista, o qual deve saná-la no prazo de três dias úteis.\n\n3 - Findo o prazo referido no número anterior sem que se proceda à regularização das candidaturas, deve a mesa eleitoral rejeitá-las nas vinte e quatro horas seguintes."
+  },
+  "70067341": {
+   "fragment_id": "70067251",
+   "type": 11,
+   "heading": "Artigo 80.º — Publicidade dos programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Publicidade dos programas\n\nAs listas de candidatura concorrentes às eleições, bem como os respectivos programas de acção, são afixados nas sedes nacionais e regionais da Ordem, desde a data da sua aceitação definitiva até à realização do acto eleitoral."
+  },
+  "70067342": {
+   "fragment_id": "70067252",
+   "type": 11,
+   "heading": "Artigo 81.º — Horário de votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Horário de votação\n\nO horário das mesas de voto é fixado pela mesa eleitoral."
+  },
+  "70067343": {
+   "fragment_id": "70067253",
+   "type": 11,
+   "heading": "Artigo 82.º — Boletins de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Boletins de voto\n\n1 - Os boletins de voto são editados pela Ordem, mediante controlo da mesa eleitoral.\n\n2 - Os boletins de voto, bem como as listas de candidatura, são enviados a todos os membros da assembleia eleitoral até 10 dias úteis antes da data marcada para o acto eleitoral e estão disponíveis no local de voto."
+  },
+  "70067344": {
+   "fragment_id": "70067254",
+   "type": 11,
+   "heading": "Artigo 83.º — Identidade dos eleitores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Identidade dos eleitores\n\nA identificação dos eleitores é feita através da cédula profissional e, na sua falta, por meio de bilhete de identidade ou qualquer outro elemento de identificação com fotografia, aceite pela mesa de voto."
+  },
+  "70067345": {
+   "fragment_id": "70067255",
+   "type": 11,
+   "heading": "Artigo 84.º — Sistema de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Sistema de voto\n\n1 - O voto é pessoal e secreto, não sendo admitido o voto por procuração.\n\n2 - É admitido o voto por correspondência desde que:\n\na) O boletim de voto esteja dobrado em quatro e contido em sobrescrito fechado;\n\nb) Do referido sobrescrito conste o nome, o número de cédula profissional e a assinatura igual à existente na ficha de filiação;\n\nc) O sobrescrito seja introduzido noutro e endereçado à mesa eleitoral, por meio de correio registado, até ao dia da votação inclusive."
+  },
+  "70067346": {
+   "fragment_id": "70067256",
+   "type": 11,
+   "heading": "Artigo 85.º — Funcionamento das mesas de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Funcionamento das mesas de voto\n\n1 - As mesas de voto funcionam nas sedes nacional e regionais da Ordem e, eventualmente, noutros locais a definir pela mesa eleitoral.\n\n2 - Cada lista deve credenciar um representante para cada mesa de voto.\n\n3 - A mesa eleitoral promove, até cinco dias da data da assembleia eleitoral, a constituição das mesas de voto, devendo, obrigatoriamente, designar um representante seu, que preside."
+  },
+  "70067347": {
+   "fragment_id": "70067257",
+   "type": 11,
+   "heading": "Artigo 86.º — Contagem dos votos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Contagem dos votos\n\n1 - Logo que a votação tenha terminado, procede-se à contagem dos votos e à elaboração da acta dos resultados, devidamente assinada pelos elementos da mesa de voto.\n\n2 - O apuramento final é feito na sede da Ordem obrigatoriamente no 7.º dia seguinte ao da votação, sendo proclamada a lista vencedora."
+  },
+  "70067348": {
+   "fragment_id": "70067258",
+   "type": 11,
+   "heading": "Artigo 87.º — Reclamações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Reclamações e recursos\n\n1 - Os eleitores podem apresentar reclamação, com fundamento em irregularidades do acto eleitoral, a qual deverá ser apresentada à mesa eleitoral até três dias após o encerramento do acto eleitoral.\n\n2 - A mesa eleitoral deve apreciar a reclamação no prazo de quarenta e oito horas, sendo a decisão comunicada ao recorrente por escrito e afixada na sede da Ordem.\n\n3 - Da decisão da mesa eleitoral cabe recurso para o conselho geral, no prazo de oito dias úteis contados da data em que os recorrentes tiveram conhecimento da decisão da mesa eleitoral.\n\n4 - O conselho geral é convocado pelo respectivo presidente, para o efeito, nos oito dias seguintes."
+  },
+  "70067349": {
+   "fragment_id": "70067259",
+   "type": 11,
+   "heading": "Artigo 88.º — Financiamento das eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Financiamento das eleições\n\nA Ordem comparticipará nos encargos das eleições com montante a fixar pela direcção."
+  },
+  "70067350": {
+   "fragment_id": "70067260",
+   "type": 1,
+   "heading": "Capítulo IX — Referendos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Referendos internos"
+  },
+  "70067351": {
+   "fragment_id": "70067261",
+   "type": 11,
+   "heading": "Artigo 89.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Âmbito\n\n1 - A Ordem pode realizar referendos internos aos seus membros, ao nível nacional com carácter vinculativo, destinados a submeter a votação as questões que a direcção da Ordem considere relevantes para o exercício da profissão.\n\n2 - As questões devem ser formuladas com clareza e para respostas de sim ou não.\n\n3 - As questões referentes a matérias que o presente Estatuto cometa à competência deliberativa de qualquer órgão nacional só podem ser submetidas a referendo interno mediante autorização desse órgão."
+  },
+  "70067352": {
+   "fragment_id": "70067262",
+   "type": 11,
+   "heading": "Artigo 90.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Organização\n\n1 - Compete à direcção fixar a data do referendo interno.\n\n2 - O teor das questões a submeter a referendo interno é divulgado junto de todos os membros da Ordem e deve ser objecto de reuniões de esclarecimento e debate, sem carácter deliberativo, na sede e nas delegações regionais.\n\n3 - Sem prejuízo do disposto no número seguinte, as propostas de alteração às questões a submeter a referendo interno devem ser dirigidas por escrito, durante o período de esclarecimento e debate, à direcção, sendo os respectivos subscritores identificados pelo nome completo, assinatura, número de cédula e residência.\n\n4 - As propostas de referendo interno subscritas por um mínimo de 3% dos membros efectivos da Ordem no pleno gozo dos seus direitos não podem ser objecto de alteração."
+  },
+  "70067353": {
+   "fragment_id": "70067263",
+   "type": 11,
+   "heading": "Artigo 91.º — Efeito do referendo interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Efeito do referendo interno\n\n1 - O efeito vinculativo do referendo interno depende de o número de votantes ser superior a metade dos membros efectivos inscritos nos cadernos eleitorais.\n\n2 - Quando se trate de projectos de propostas relativos à dissolução da Ordem, a aprovação carece do voto expresso de dois terços dos membros efectivos inscritos nos cadernos eleitorais.\n\n3 - Os resultados dos referendos internos são divulgados pela direcção após a recepção dos apuramentos parciais de todas as delegações regionais."
+  },
+  "70067354": {
+   "fragment_id": "70067264",
+   "type": 1,
+   "heading": "Capítulo X — Deontologia profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Deontologia profissional"
+  },
+  "70067355": {
+   "fragment_id": "70067265",
+   "type": 11,
+   "heading": "Artigo 92.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Princípios gerais\n\nNo exercício da sua actividade profissional, devem ser respeitados pelo economista os seguintes princípios gerais:\n\na) Actuar com independência, isenção e probidade profissional;\n\nb) Prestigiar e dignificar a profissão;\n\nc) Colocar a sua capacidade ao serviço do bem público;\n\nd) Empenhar-se no estabelecimento de uma dinâmica de cooperação social com o objectivo de melhorar o bem-estar colectivo;\n\ne) Defender os valores do trabalho, da solidariedade, da tolerância e da racionalidade;\n\nf) Defender e fazer defender o sigilo profissional;\n\ng) Exigir aos seus sócios e colaboradores o respeito pela confidencialidade;\n\nh) Utilizar os instrumentos científicos adequados à obtenção de conclusões precisas;\n\ni) Actuar com conhecimento, empenho e dedicação nas actividades, serviços e empreendimentos em que se envolva;\n\nj) Conhecer e agir com respeito pelos preceitos legais e regulamentares;\n\nl) Respeitar as normas de incompatibilidade que decorram da lei."
+  },
+  "70067356": {
+   "fragment_id": "70067266",
+   "type": 11,
+   "heading": "Artigo 93.º — Deveres gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Deveres gerais\n\nO economista deve, na sua actividade profissional:\n\na) Omitir actos de improbidade, designadamente visando proveito pessoal ou de outrem;\n\nb) Abster-se de sancionar documentos ou de fazer declarações que indevidamente resultem em favorecimento próprio ou de outrem;\n\nc) Evitar a deturpação da interpretação do conteúdo, explícito ou implícito, de documentos de apoio técnico ao exercício da profissão, com o intuito de iludir a boa fé de outrem;\n\nd) Zelar pelo interesse das entidades com as quais colabore, sem prejuízo da sua dignidade;\n\ne) Defender os princípios da ética da profissão, recusando colaborar ou participar em qualquer serviço ou empreendimento que julgue ferir esses princípios;\n\nf) Recusar quaisquer interferências no exercício da sua actividade que ponham em causa aspectos técnico-científicos ou éticos do exercício profissional, sejam quais forem as suas funções e dependências hierárquicas ou o local onde exerce a sua actividade."
+  },
+  "70067357": {
+   "fragment_id": "70067267",
+   "type": 11,
+   "heading": "Artigo 94.º — Deveres entre membros da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Deveres entre membros da Ordem\n\nOs economistas, nas suas relações com os outros membros da Ordem, devem:\n\na) Evitar e combater qualquer referência prejudicial ao bom nome da profissão;\n\nb) Renunciar a intervir em casos que saibam entregues a outros economistas de forma a ferir a sua dignidade;\n\nc) Respeitar as iniciativas, os trabalhos e soluções concebidos por colegas, nunca usurpando a sua autoria."
+  },
+  "70067358": {
+   "fragment_id": "70067268",
+   "type": 11,
+   "heading": "Artigo 95.º — Relações com outros profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Relações com outros profissionais\n\nNas relações com outros profissionais, os economistas devem:\n\na) Respeitar os princípios, normas, tradições e regras deontológicos próprios das diferentes profissões;\n\nb) Cooperar nas realizações e iniciativas de interesse mútuo, aproveitando as sinergias resultantes das equipas multidisciplinares."
+  },
+  "70067359": {
+   "fragment_id": "70067269",
+   "type": 11,
+   "heading": "Artigo 96.º — Relações com organizações e instituições onde o economista exerce a sua actividade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Relações com organizações e instituições onde o economista exerce a sua actividade profissional\n\nO economista, na sua relação com as organizações e instituições onde exerce a sua actividade, deve:\n\na) Usar o melhor da sua capacidade, experiência e competência profissional;\n\nb) Recusar envolver-se em qualquer tipo de actividade que conflitue com os interesses destas organizações ou instituições."
+  },
+  "70067360": {
+   "fragment_id": "70067270",
+   "type": 11,
+   "heading": "Artigo 97.º — Relações com instituições científicas e de ensino da economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Relações com instituições científicas e de ensino da economia\n\nO economista deve colaborar, no âmbito das suas competências e na medida das suas possibilidades, com as instituições científicas e de ensino da economia, designadamente em acções de formação contínua e de valorização sócio-profissional."
+  },
+  "70067361": {
+   "fragment_id": "70067271",
+   "type": 11,
+   "heading": "Artigo 98.º — Relações com a sociedade em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Relações com a sociedade em geral\n\nNas suas relações com a sociedade em geral, o economista deve:\n\na) Recusar a intervenção em iniciativas e realizações que contrariem a lei e a ética profissional;\n\nb) Recusar o aval a documentos elaborados por terceiros que comprometam a dignidade da profissão;\n\nc) Recusar a cooperação com quaisquer entidades em práticas condenáveis, ética e socialmente, e o desenvolvimento em empreendimentos de objectivos duvidosos;\n\nd) Combater o exercício da profissão por não economistas, bem como o uso indevido de títulos e diplomas da profissão de economista."
+  },
+  "70067362": {
+   "fragment_id": "70067272",
+   "type": 1,
+   "heading": "Capítulo XI — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Responsabilidade disciplinar"
+  },
+  "70067363": {
+   "fragment_id": "70067273",
+   "type": 11,
+   "heading": "Artigo 99.º — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Responsabilidade disciplinar\n\n1 - Os economistas estão sujeitos à jurisdição disciplinar dos órgãos da Ordem, nos termos previstos no presente Estatuto.\n\n2 - Comete infracção disciplinar o que, por acção ou omissão, violar dolosa ou negligentemente algum dos deveres fixados neste Estatuto.\n\n3 - A acção disciplinar é independente de eventual responsabilidade civil ou criminal."
+  },
+  "70067364": {
+   "fragment_id": "70067274",
+   "type": 11,
+   "heading": "Artigo 100.º — Competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Competência disciplinar\n\n1 - O exercício do poder disciplinar compete à comissão de disciplina profissional, salvo o disposto no número seguinte.\n\n2 - O exercício do poder disciplinar relativo aos membros da comissão de disciplina profissional compete ao conselho geral."
+  },
+  "70067365": {
+   "fragment_id": "70067375",
+   "type": 11,
+   "heading": "Artigo 101.º — Instauração do processo disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Instauração do processo disciplinar\n\n1 - O processo disciplinar é instaurado mediante decisão da comissão de disciplina profissional.\n\n2 - Os tribunais e demais autoridades públicas devem dar conhecimento à Ordem da prática por economistas de actos susceptíveis de constituírem infracção disciplinar.\n\n3 - O Ministério Público e as demais entidades com poderes de investigação criminal devem dar conhecimento à Ordem das participações apresentadas contra economistas, por actos relacionados com o exercício da profissão."
+  },
+  "70067366": {
+   "fragment_id": "70067376",
+   "type": 11,
+   "heading": "Artigo 102.º — Prescrição do procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Prescrição do procedimento disciplinar\n\n1 - O procedimento disciplinar prescreve no prazo de três anos sobre a prática da infracção, salvo o disposto no número seguinte.\n\n2 - O procedimento disciplinar de titulares de órgãos da Ordem prescreve no prazo de três anos sobre a cessação das respectivas funções.\n\n3 - As infracções disciplinares que constituam simultaneamente ilícito penal prescrevem no mesmo prazo que o procedimento criminal, quando este for superior.\n\n4 - A responsabilidade disciplinar permanece durante o período de suspensão da Ordem, e não cessa pela demissão da Ordem, relativamente a factos anteriormente praticados."
+  },
+  "70067367": {
+   "fragment_id": "70067377",
+   "type": 11,
+   "heading": "Artigo 103.º — Penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Penas\n\n1 - As penas disciplinares são as seguintes:\n\na) Advertência;\n\nb) Censura registada;\n\nc) Multa;\n\nd) Suspensão até 6 meses;\n\ne) Suspensão de 6 meses a 2 anos;\n\nf) Suspensão de 2 a 10 anos.\n\n2 - A pena prevista na alínea d) do n.º 1 é aplicável ao economista em caso de negligência grave ou de acentuado desinteresse pelo cumprimento dos deveres profissionais consagrados nas alíneas a) a c) do artigo 93.º, no artigo 94.º e no artigo 98.º\n\n3 - A pena prevista na alínea e) do n.º 1 só pode ser aplicada por infracção que afecte gravemente a dignidade e o prestígio profissional do economista.\n\n4 - A pena prevista na alínea f) do n.º 1 é aplicável ao economista quando tenha sido cometida infracção disciplinar que também constitua crime punível com pena de prisão superior a dois anos, ou em caso de reincidência da infracção referida no número anterior."
+  },
+  "70067368": {
+   "fragment_id": "70067378",
+   "type": 11,
+   "heading": "Artigo 104.º — Escolha e medida da pena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º — Escolha e medida da pena\n\nA escolha e a medida da pena são feitas em função da culpa do arguido, tendo em conta a gravidade e as consequências da infracção, os antecedentes profissionais e disciplinares e as demais circunstâncias da infracção."
+  },
+  "70067369": {
+   "fragment_id": "70067379",
+   "type": 11,
+   "heading": "Artigo 105.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105.º — Instrução\n\n1 - A instrução do processo disciplinar compreende as diligências necessárias ao apuramento da verdade material, devendo o relator remover os obstáculos ao seu regular e rápido andamento e, sem prejuízo do direito de defesa, recusar o que for inútil ou dilatório.\n\n2 - Até ao despacho de acusação o processo é secreto."
+  },
+  "70067370": {
+   "fragment_id": "70067380",
+   "type": 11,
+   "heading": "Artigo 106.º — Termo da instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º — Termo da instrução\n\n1 - Finda a instrução, o relator profere despacho de acusação ou emite parecer fundamentado em que conclua no sentido do arquivamento do processo ou por que este fique a aguardar a produção de melhor prova.\n\n2 - Não sendo proferido despacho de acusação, o relator apresenta o parecer na primeira reunião da comissão de disciplina profissional, a fim de ser deliberado o arquivamento do processo ou determinado que o mesmo prossiga com a realização de diligências suplementares ou com o despacho de acusação, podendo neste último caso ser designado novo relator."
+  },
+  "70067371": {
+   "fragment_id": "70067381",
+   "type": 11,
+   "heading": "Artigo 107.º — Despacho de acusação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Despacho de acusação\n\n1 - O despacho de acusação deve indicar a identidade do arguido, os factos imputados e as circunstâncias em que foram praticados, as normas legais e regulamentares infringidas, a prova e o prazo para a apresentação de defesa.\n\n2 - O arguido é notificado da acusação pessoalmente ou por carta registada com aviso de recepção, com a entrega da respectiva cópia."
+  },
+  "70067372": {
+   "fragment_id": "70067382",
+   "type": 11,
+   "heading": "Artigo 108.º — Defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º — Defesa\n\n1 - O prazo para apresentação de defesa é de 20 dias.\n\n2 - O arguido pode nomear para a sua defesa um representante especialmente mandatado para esse efeito.\n\n3 - A defesa deve expor clara e concisamente os factos e as razões que a fundamentam.\n\n4 - Com a defesa, deve o arguido apresentar o rol de testemunhas, juntar documentos e requerer as diligências necessárias para o apuramento dos factos relevantes.\n\n5 - Não podem ser apresentadas mais de 5 testemunhas por cada facto, não podendo o total delas exceder 20."
+  },
+  "70067373": {
+   "fragment_id": "70067383",
+   "type": 11,
+   "heading": "Artigo 109.º — Alegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109.º — Alegações\n\nRealizadas as diligências a que se refere o artigo anterior e outras que sejam determinadas pelo relator, o interessado e o arguido são notificados para alegarem por escrito no prazo de 20 dias."
+  },
+  "70067374": {
+   "fragment_id": "70067384",
+   "type": 11,
+   "heading": "Artigo 110.º — Julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110.º — Julgamento\n\n1 - Finda a instrução, o processo é presente à comissão de disciplina profissional para julgamento, sendo lavrado e assinado o respectivo acórdão.\n\n2 - As penas de suspensão de 2 a 10 anos só podem ser aplicadas mediante decisão que obtenha dois terços dos votos de todos os membros da comissão de disciplina profissional.\n\n3 - Das deliberações da comissão de disciplina profissional cabe recurso para o conselho da profissão, sem prejuízo do disposto no n.º 1 do artigo 43.º"
+  },
+  "70067475": {
+   "fragment_id": "70067385",
+   "type": 11,
+   "heading": "Artigo 111.º — Notificação do acórdão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 111.º — Notificação do acórdão\n\n1 - Os acórdãos finais são imediatamente notificados ao arguido e aos interessados por carta registada com aviso de recepção.\n\n2 - O acórdão que aplicar pena de suspensão é também notificado à entidade empregadora do infractor, se existir."
+  },
+  "70067476": {
+   "fragment_id": "70067386",
+   "type": 11,
+   "heading": "Artigo 112.º — Processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 112.º — Processo de inquérito\n\n1 - Pode ser ordenada a abertura de processo de inquérito sempre que não esteja concretizada a infracção ou não seja conhecido o seu autor e quando seja necessário proceder a averiguações destinadas ao esclarecimento dos factos.\n\n2 - O processo de inquérito regula-se pelas normas aplicáveis ao processo disciplinar em tudo o que não esteja especialmente previsto."
+  },
+  "70067477": {
+   "fragment_id": "70067387",
+   "type": 11,
+   "heading": "Artigo 113.º — Termo de instrução em processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 113.º — Termo de instrução em processo de inquérito\n\n1 - Finda a instrução, o relator emite um parecer fundamentado em que propõe o prosseguimento do processo como disciplinar ou o seu arquivamento, consoante considere existirem ou não indícios suficientes da prática de infracção disciplinar.\n\n2 - O relator apresenta o seu parecer em reunião da comissão de disciplina profissional, que delibera no sentido de o processo prosseguir como disciplinar, ser arquivado ou de serem realizadas diligências complementares.\n\n3 - Caso o parecer não seja aprovado, pode ser designado novo relator de entre os membros da comissão que façam vencimento."
+  },
+  "70067478": {
+   "fragment_id": "70067388",
+   "type": 11,
+   "heading": "Artigo 114.º — Execução das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 114.º — Execução das decisões\n\n1 - Compete à direcção dar execução às decisões disciplinares, podendo essa competência ser delegada no presidente do secretariado regional da delegação onde o arguido tenha domicílio profissional.\n\n2 - O cumprimento da pena de suspensão tem início a partir do dia da respectiva notificação.\n\n3 - Se à data do início da suspensão estiver suspensa ou cancelada a inscrição do arguido, o cumprimento da pena de suspensão tem início a partir do dia imediato àquele em que tiver lugar o levantamento da suspensão da inscrição, ou a reinscrição, ou a partir da data em que termina a execução da anterior pena de suspensão."
+  },
+  "70067479": {
+   "fragment_id": "70067389",
+   "type": 11,
+   "heading": "Artigo 115.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 115.º — Revisão\n\n1 - As decisões disciplinares definitivas podem ser revistas a pedido do interessado, com fundamento em novos factos ou novas provas, susceptíveis de alterar o sentido daquelas, ou quando outra decisão definitiva considerar falsos elementos de prova determinantes da decisão a rever.\n\n2 - A concessão de revisão depende de deliberação pela maioria absoluta dos membros do órgão que proferiu a decisão disciplinar."
+  },
+  "808121584": {
+   "fragment_id": "70054447",
+   "type": 11,
+   "heading": "Artigo 2.º — Instalação",
+   "in_force_from": "2015-11-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 101/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/lei/101-2015-70054436), em vigor a partir de 2015-11-18"
+   ],
+   "markdown": "###### Artigo 2.º — Instalação\n\n1 - Compete à direcção da APEC - Associação Portuguesa de Economistas, abreviadamente designada direcção, proceder à instalação da Ordem, para o que:\n\na) Prepara os regulamentos internos necessários ao funcionamento da Ordem;\n\nb) Promove a inscrição dos economistas;\n\nc) Prepara os actos eleitorais para os órgãos nacionais e regionais da Ordem;\n\nd) Confere posse aos titulares dos órgãos nacionais eleitos da Ordem;\n\ne) Realiza os demais actos necessários à instalação e normal funcionamento da Ordem;\n\nf) Presta contas do mandato exercido.\n\n2 - Na execução dos actos de instalação, a direcção rege-se, com as necessárias adaptações, pelo regime previsto no Estatuto anexo ao presente diploma.\n\n3 - O período de instalação não pode exceder o prazo de um ano a contar da data da entrada em vigor do presente diploma, cessando com a investidura dos órgãos nacionais da Ordem.\n\n4 - O termo do período de instalação requer uma declaração formal pública da direcção da Ordem.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 101/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/lei/101-2015-70054436), em vigor a partir de 2015-11-18"
+  },
+  "808121585": {
+   "fragment_id": "70054448",
+   "type": 11,
+   "heading": "Artigo 3.º — Inscrições na Ordem",
+   "in_force_from": "2015-11-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 101/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/lei/101-2015-70054436), em vigor a partir de 2015-11-18"
+   ],
+   "markdown": "###### Artigo 3.º — Inscrições na Ordem\n\n1 - As inscrições aceites pela direcção no período de instalação deverão ser posteriormente sujeitas a ratificação pela direcção eleita da Ordem com vista à emissão da competente cédula profissional.\n\n2 - Para efeitos de inscrição como membro efectivo e de exercício da profissão de economista só é exigido estágio a quem obtenha a formação académica necessária após o final do período de instalação.\n\n3 - A aplicação do novo estatuto não prejudica a inscrição automática na Ordem dos actuais membros da APEC - Associação Portuguesa de Economistas no pleno gozo dos seus direitos, desde que reúnam as habilitações legalmente exigidas e se não tiverem declarado expressamente que não desejam a inscrição na Ordem.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 101/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/lei/101-2015-70054436), em vigor a partir de 2015-11-18"
+  },
+  "808121586": {
+   "fragment_id": "70054449",
+   "type": 11,
+   "heading": "Artigo 4.º — Eleições",
+   "in_force_from": "2015-11-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 101/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/lei/101-2015-70054436), em vigor a partir de 2015-11-18"
+   ],
+   "markdown": "###### Artigo 4.º — Eleições\n\nAs eleições dos órgãos da Ordem devem estar concluídas até nove meses após a entrada em vigor do presente decreto-lei.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 101/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/lei/101-2015-70054436), em vigor a partir de 2015-11-18"
+  },
+  "70067481": {
+   "fragment_id": "70067392",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Abril de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Joaquim Augusto Nunes de Pina Moura - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 5 de Junho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 17 de Junho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

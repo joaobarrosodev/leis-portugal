@@ -1,0 +1,1210 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108301506:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-120488275",
+ "dre_path": "/dr/detalhe/portaria/301-2017-108301506",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-10-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "167281096",
+    "120488376",
+    "120488377",
+    "120488378",
+    "120488380",
+    "120488381",
+    "120488382",
+    "120488383",
+    "120488384",
+    "120488385",
+    "120488386",
+    "120488387",
+    "120488388",
+    "120488389",
+    "120488390",
+    "120488391",
+    "120488392",
+    "120488393",
+    "120488394",
+    "120488395",
+    "120488396",
+    "120488397",
+    "120488398",
+    "120488399",
+    "120488400",
+    "120488401",
+    "120488402",
+    "120488403",
+    "120488404",
+    "120488405",
+    "120488406",
+    "120488407",
+    "120488408",
+    "120488409",
+    "120488410",
+    "120488411",
+    "120488412",
+    "120488413",
+    "120488414",
+    "120488415",
+    "120488416",
+    "120488417",
+    "120488418",
+    "120488419",
+    "120488420",
+    "120488421",
+    "120488422",
+    "120488423"
+   ]
+  },
+  {
+   "date": "2019-03-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:120446620:por",
+     "title": "Portaria n.º 71-B/2019",
+     "published": "2019-02-28",
+     "dre_path": "/dr/detalhe/portaria/71-b-2019-120446620"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "120488375",
+    "120488376",
+    "120488377",
+    "120488378",
+    "120488379",
+    "120488380",
+    "120488381",
+    "120488382",
+    "120488383",
+    "120456952",
+    "120456953",
+    "120488386",
+    "120488387",
+    "120456954",
+    "120456955",
+    "120488390",
+    "120456956",
+    "120488392",
+    "120456957",
+    "120488394",
+    "120456958",
+    "120488396",
+    "120488397",
+    "120488398",
+    "120488399",
+    "120488400",
+    "120456959",
+    "120456960",
+    "120488403",
+    "120488404",
+    "120488405",
+    "120456961",
+    "120456962",
+    "120488408",
+    "120488409",
+    "120488410",
+    "120488411",
+    "120488412",
+    "120488413",
+    "120488414",
+    "120488415",
+    "120488416",
+    "120488417",
+    "120488418",
+    "120488419",
+    "120488420",
+    "120488421",
+    "120488422",
+    "120488423"
+   ]
+  },
+  {
+   "date": "2021-07-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:167133020:por",
+     "title": "Portaria n.º 146/2021",
+     "published": "2021-07-13",
+     "dre_path": "/dr/detalhe/portaria/146-2021-167133020"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "167281096",
+    "167281097",
+    "167281098",
+    "167281099",
+    "167281100",
+    "167281101",
+    "167281102",
+    "167281103",
+    "167281104",
+    "167281105",
+    "167281106",
+    "167281107",
+    "167281108",
+    "167281109",
+    "167281110",
+    "167281111",
+    "167281112",
+    "167281113",
+    "167281114",
+    "167281115",
+    "167281116",
+    "167281117",
+    "167281118",
+    "167281119",
+    "167281120",
+    "167281121",
+    "167281122",
+    "167281123",
+    "167281124",
+    "167281125",
+    "167281126",
+    "167281127",
+    "167281128",
+    "167281129",
+    "167281130",
+    "167281131",
+    "167281132",
+    "167281133",
+    "167281134",
+    "167281135",
+    "167281136",
+    "167281137",
+    "167281138",
+    "167281139",
+    "167281140",
+    "167281141",
+    "167281142",
+    "167281143",
+    "167281144"
+   ]
+  }
+ ],
+ "fragments": {
+  "167281096": {
+   "fragment_id": "120488276",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-07-14",
+   "changed_by": [],
+   "markdown": "Portaria n.º 301/2017\n\nde 16 de outubro\n\nO Decreto-Lei n.º 103/2017, de 24 de agosto, aprovou o regime de atribuição de apoios financeiros do Estado, através da Direção-Geral das Artes (DGARTES), a entidades que exerçam atividades profissionais nas áreas das artes visuais, das artes performativas e de cruzamento disciplinar.\n\nImporta salientar que o novo modelo de apoio às artes pretende ser flexível nas suas várias dimensões, nomeadamente em termos territoriais, nos domínios de atividade artística e nas formas de concessão de financiamento. Tal propósito vai ao encontro da heterogeneidade do setor, sendo deste modo inclusivo porquanto promove e alarga a democratização do acesso à criação e à fruição artísticas por parte dos cidadãos, incentivando-se, assim, o serviço público na área das artes.\n\nNa prossecução do serviço público, os agentes do setor são parceiros privilegiados do Estado, cabendo a este criar mecanismos ou tipologias de apoio que viabilizem a prestação desse serviço.\n\nPara esse fim, são criadas três tipologias de apoio que preconizam um papel dinâmico e inovador ao setor: o apoio sustentado - de cariz plurianual, no qual se propõe a estabilidade e a consolidação do funcionamento das entidades elegíveis; o apoio a projetos - no qual se pretende um papel dinâmico na renovação do tecido artístico, através do apoio a projetos nucleares ou a atividades particulares, intermitentes ou finitas, bem como do apoio complementar de comparticipação de financiamento a projetos já aprovados em programas nacionais ou internacionais ou cuja viabilidade dependa de uma reduzida percentagem de apoio; e o apoio em parceria - no qual a DGARTES se associa a outras entidades financiadoras, públicas ou privadas, para lançamento em conjunto de linhas de apoio para ações que se enquadrem nos objetivos e linhas estratégicas previstos no regime de apoio às artes, nomeadamente, em articulação ou intersecção com outras áreas setoriais, ou no estabelecimento de parcerias com a administração local no desenvolvimento de sinergias para uma efetiva correção de assimetrias.\n\nNos procedimentos destacam-se a simplificação administrativa e a redução do período temporal da fase de verificação das candidaturas, dando-se, assim, maior enfoque ao período de apreciação e à celeridade do processo decisório dos apoios. Ainda nesta fase, abre-se a possibilidade de um prazo suplementar, sem qualquer efeito suspensivo no procedimento, para as entidades apresentarem a documentação comprovativa em falta respeitante a acordos de coprodução, patrocínios, mecenato e outras formas de apoio e financiamentos.\n\nCom a finalidade de tornar este modelo mais transparente e rigoroso na determinação do montante de apoio, é criada a possibilidade de serem previamente estabelecidos patamares de financiamento de montante fixo. Neste sentido, cria-se um maior rigor e previsibilidade na elaboração das candidaturas, tal como na sua apreciação, bem como no nível ou grau de execução dos projetos e das atividades artísticas.\n\nNa senda da clarificação do modelo e da operacionalização do apoio às artes, designadamente no que se refere à execução das obrigações dos contratos de apoio, por razões de segurança jurídica para todas as partes envolvidas, são fixadas no presente regulamento as situações de incumprimento e as correspondentes consequências.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º do Decreto-Lei n.º 103/2017, de 24 de agosto, manda o Governo, pelo Ministro da Cultura, o seguinte:"
+  },
+  "120488376": {
+   "fragment_id": "120488277",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado o Regulamento dos Programas de Apoio às Artes, em anexo à presente portaria, da qual faz parte integrante."
+  },
+  "120488377": {
+   "fragment_id": "120488278",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 1204-A/2008, de 17 de outubro, alterada pelas Portarias n.os 1189-A/2010, de 17 de novembro, 217/2012, de 19 de julho, e 145/2015, de 25 de maio;\n\nb) A Portaria n.º 58/2012, de 13 de março."
+  },
+  "120488378": {
+   "fragment_id": "120488279",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "120488380": {
+   "fragment_id": "120488281",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DOS PROGRAMAS DE APOIO ÀS ARTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DOS PROGRAMAS DE APOIO ÀS ARTES"
+  },
+  "120488381": {
+   "fragment_id": "120488282",
+   "type": 1,
+   "heading": "Capítulo I — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições genéricas"
+  },
+  "120488382": {
+   "fragment_id": "120488283",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente regulamento estabelece as normas aplicáveis à atribuição pelo Estado, através da Direção-Geral das Artes (DGARTES), dos apoios financeiros no âmbito dos programas de apoio às artes previstos no artigo 4.º do Decreto-Lei n.º 103/2017, de 24 de agosto, nas seguintes tipologias:\n\na) Programa de apoio sustentado;\n\nb) Programa de apoio a projetos;\n\nc) Programa em parceria.\n\n2 - Os apoios a conceder nos termos do presente regulamento têm por objeto projetos ou atividades desenvolvidos em Portugal ou no estrangeiro pelas entidades elegíveis previstas no artigo 2.º do Decreto-Lei n.º 103/2017, de 24 de agosto, que exerçam, a título predominante, atividades profissionais nas seguintes áreas:\n\na) Artes performativas: circo contemporâneo e artes de rua, dança, música e teatro;\n\nb) Artes visuais: arquitetura, artes plásticas, design, fotografia e novos media;\n\nc) Cruzamento disciplinar.\n\n3 - As entidades que apresentem candidatura ao abrigo dos apoios previstos no presente regulamento devem optar pela área preponderante na sua atividade, sem prejuízo da diversidade de projetos que a integram."
+  },
+  "120488383": {
+   "fragment_id": "120488284",
+   "type": 11,
+   "heading": "Artigo 2.º — Interesse público cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Interesse público cultural\n\nNo âmbito do disposto no artigo 3.º do Decreto-Lei n.º 103/2017, de 24 de agosto, constituem objetivos específicos de interesse público cultural:\n\na) Contribuir para a diversidade e a qualidade da oferta artística no território nacional;\n\nb) Promover a participação e qualificação das comunidades e dos públicos na cultura em diversos domínios da atividade artística e boas práticas de acessibilidade;\n\nc) Dinamizar a internacionalização das artes e da cultura portuguesa, através da cooperação com outros países e do fomento da presença de projetos internacionais no território nacional;\n\nd) Valorizar a dimensão educativa e de sensibilização para a cultura;\n\ne) Incentivar projetos emergentes e dinamizadores do setor;\n\nf) Fomentar a coesão territorial e corrigir assimetrias de acesso à criação e fruição cultural;\n\ng) Valorizar a missão das entidades profissionais com atividade continuada;\n\nh) Promover a partilha de responsabilidades do Estado, nas dimensões central, regional e local, com os agentes culturais e outras entidades, públicas e privadas, para incentivar boas práticas de empregabilidade e sustentabilidade, combatendo assimetrias económicas e a precariedade no setor cultural;\n\ni) Valorizar a pesquisa e experimentação artísticas como práticas inovadoras do desenvolvimento e do conhecimento;\n\nj) Articular as artes com outras áreas sectoriais;\n\nk) Promover a diversidade e qualificação dos profissionais das artes;\n\nl) Promover a inclusão social, a cidadania e a qualidade de vida das populações."
+  },
+  "120488384": {
+   "fragment_id": "120488285",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos artísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos artísticos\n\nSão objetivos específicos para cada área artística:\n\na) Nas artes performativas:\n\ni) Para o circo contemporâneo e artes de rua, fomentar, valorizar e promover a sua prática, enquadrada na produção artística contemporânea;\n\nii) Para a dança, a música e o teatro, fomentar, preservar, valorizar e promover as respetivas culturas nas suas diversas manifestações;\n\nb) Nas artes visuais:\n\ni) Para a arquitetura, o design e a fotografia, enquanto ato artístico, fomentar, preservar, valorizar e promover as respetivas culturas, nas suas diversas manifestações;\n\nii) Para as artes plásticas, fomentar, preservar, valorizar e promover as suas diversas manifestações;\n\niii) Para os novos media, fomentar, valorizar e promover projetos artísticos que tenham na sua génese o recurso a meios digitais e eletrónicos, nas suas diversas manifestações;\n\nc) Para o cruzamento disciplinar, fomentar, preservar, valorizar e promover as múltiplas práticas de reflexão e relação entre disciplinas artísticas, que evidenciem uma dimensão transversal, inovadora e experimental, tanto ao nível da criação, concebendo-se obras que envolvam a intersecção de diversas disciplinas artísticas ou a sua relação com outras áreas do conhecimento, como em termos da programação, organizando-se propostas que impliquem, clara e predominantemente, uma abordagem multidisciplinar dos projetos."
+  },
+  "120488385": {
+   "fragment_id": "120488286",
+   "type": 11,
+   "heading": "Artigo 4.º — Domínios artísticos de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Domínios artísticos de atividade\n\nOs domínios de atividade previstos no artigo 6.º do Decreto-Lei n.º 103/2017, de 24 de agosto, têm o seguinte alcance e subdomínios de atividade:\n\na) Criação: o processo de elaboração criativa, em diferentes fases, que origina o objeto artístico, material ou imaterial, e que pode integrar:\n\ni) Conceção, execução e apresentação de obras;\n\nii) Residências artísticas;\n\niii) Interpretação de repertório, nomeadamente na área da música;\n\nb) Programação: a gestão da oferta cultural em determinado espaço e tempo, de forma regular ou pontual, como ciclos, mostras, festivais, e que pode integrar:\n\ni) Acolhimento e coproduções;\n\nii) Residências artísticas;\n\nc) Circulação nacional: a itinerância de obras ou projetos pelo território nacional, incluindo as ações que contribuam para esse fim;\n\nd) Internacionalização: a itinerância de obras ou projetos pelo espaço internacional, incluindo as ações que contribuam para esse fim, que podem integrar:\n\ni) Desenvolvimento e circulação internacional de obras e projetos;\n\nii) Ações de intercâmbio e acolhimento de promotores em contexto específico;\n\niii) Fomento da integração em redes internacionais;\n\niv) Tradução e edição de obras nacionais para línguas estrangeiras;\n\ne) Desenvolvimento de públicos: a captação, a sensibilização e a qualificação de públicos diversificados, que pode integrar:\n\ni) Ações em articulação com o ensino formal;\n\nii) Ações de educação não formal;\n\niii) Ações de promoção, proximidade e acessibilidade;\n\nf) Edição: a publicação de uma obra em suporte físico ou digital com o objetivo da sua disseminação e que pode integrar:\n\ni) Apoio à edição nacional;\n\nii) Apoio à tradução de obras estrangeiras;\n\ng) Investigação: o processo de construção do conhecimento humano capaz de gerar novas propostas, no campo das diversas disciplinas artísticas, nomeadamente o conjunto de atividades desenvolvidas com esse fim;\n\nh) Formação: as ações de valorização e qualificação dos profissionais das artes, no território nacional ou internacional."
+  },
+  "120488386": {
+   "fragment_id": "120488287",
+   "type": 1,
+   "heading": "Capítulo II — Programas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Programas de apoio"
+  },
+  "120488387": {
+   "fragment_id": "120488288",
+   "type": 8,
+   "heading": "Secção I — Programa de apoio sustentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Programa de apoio sustentado"
+  },
+  "120488388": {
+   "fragment_id": "120488289",
+   "type": 11,
+   "heading": "Artigo 5.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Caracterização\n\n1 - O programa de apoio sustentado tem por objetivo, nomeadamente, a consolidação e estabilidade da atividade profissional regular, preconizada pelo terceiro setor, sendo essencial para a qualificação dos seus intervenientes e para a inovação do serviço público que estes se propõem prestar.\n\n2 - A abertura deste programa de apoio ocorre no ano civil anterior àquele a que reporta o início da sua atribuição e em conformidade com o que estiver inscrito na declaração anual prevista no artigo 8.º do Decreto-Lei n.º 103/2017, de 24 de agosto.\n\n3 - As modalidades bienal e quadrienal correspondem ao período de concessão de apoio, por dois ou quatro anos respetivamente, sendo exigida uma planificação concreta que evidencie e justifique o financiamento de uma atividade continuada e plurianual.\n\n4 - Com o objetivo de fortalecer estruturalmente o setor, este programa de apoio pode contemplar despesas de funcionamento necessárias à prossecução do plano de atividades apresentado, como a capacitação e a contratação de recursos humanos especializados e a afetação de serviços e meios materiais em permanência.\n\n5 - As condições e os limites de apoio às despesas referidas no número anterior são definidos em aviso de abertura.\n\n6 - Considerando a diversidade de entidades elegíveis, de áreas artísticas e conjuntos de atividades que este programa de apoio pode abranger, são fixados em aviso de abertura os elementos diferenciadores para instrução das candidaturas e orientação da sua apreciação."
+  },
+  "120488389": {
+   "fragment_id": "120488290",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de apreciação\n\n1 - As candidaturas são apreciadas de acordo com os seguintes critérios e respetiva ponderação na classificação final:\n\na) Plano de atividades - qualidade artística e relevância cultural do projeto artístico, aferida pela inovação, originalidade, coerência e excelência no contexto em que se propõe intervir e na representação do setor à escala nacional e internacional - 40 %;\n\nb) Entidade e equipa - historial, mérito e adequação aferidos pela relevância estratégica da organização no plano profissional, social e territorial, e pela competência e qualificação dos recursos humanos afetos ao plano de atividades - 15 %;\n\nc) Repercussão social - alcance e visibilidade aferidas pela diversidade de públicos-alvo e condições de acessibilidade, pela estimativa de adesão de participantes, espetadores e visitantes das atividades, bem como pela inovação e eficácia do plano de comunicação - 15 %;\n\nd) Projeto de gestão - qualidade e viabilidade aferidas pela coerência do orçamento face à dimensão do projeto e dos recursos humanos e materiais necessários, bem como pela captação de fontes de financiamento alternativas e parcerias estratégicas que permitam atingir o alcance e objetivos do plano de atividades - 20 %;\n\ne) Correspondência aos objetivos - aferida pelo potencial de concretização do serviço público previsto no Decreto-Lei n.º 103/2017, de 24 de agosto, bem como dos objetivos de interesse cultural fixados em aviso de abertura - 10 %.\n\n2 - O desempenho no ciclo plurianual anterior, aferido pela comissão de avaliação relativamente a contratos de apoio financeiro celebrados após a entrada em vigor do Decreto-Lei n.º 103/2017, de 24 de agosto, quando exista, será considerado na pontuação total de cada um dos critérios com uma ponderação de 20 %.\n\n3 - Cada critério é pontuado de 0 a 20, correspondendo 20 à pontuação mais elevada, sendo elegíveis as candidaturas que venham a obter no mínimo 60 % da pontuação máxima possível em cada um dos critérios de apreciação.\n\n4 - A pontuação final dos critérios de apreciação é obtida através da soma das pontuações de cada um dos critérios previstos no n.º 1, considerando a sua taxa de ponderação de acordo com a seguinte fórmula de cálculo:\n\nPE % = (a) x 40 % + b) x 15 % + c) x 15 % + d) x 20 % + e) x 10 %)/20\n\nEm que:\n\nPE % - corresponde à pontuação de elegibilidade da candidatura em escala percentual (0 a 100 %);\n\na), b), c), d) e e) - pontuação atribuída a cada critério de apreciação nos termos do n.º 1 e, quando aplicável, do n.º 2.\n\n5 - As candidaturas elegíveis nos termos do n.º 3 são pontuadas adicionalmente pelas seguintes qualidades de distinção para a classificação final, considerando, ao nível da intervenção local, uma relação comprovada com municípios nos seguintes âmbitos:\n\na) Integração estratégica do plano da entidade e do projeto no desenvolvimento e oferta cultural local - 1 ponto percentual;\n\nb) Apoio financeiro mínimo de 20 % do apoio solicitado à DGARTES - 1 ponto percentual;\n\nc) Apoio através de recursos humanos e logísticos que contribuam de forma determinante para o desenvolvimento do plano de atividades - 1 ponto percentual.\n\n6 - A classificação das candidaturas é calculada através da aplicação da fórmula prevista no n.º 4 e, quando aplicável, adicionada às pontuações atribuídas pelas qualidades de distinção previstas no n.º 5, sendo as candidaturas ordenadas de forma decrescente, a partir da mais pontuada.\n\n7 - As comissões de apreciação, em função da análise global efetuada, podem propor a transição de candidaturas a apoio à modalidade quadrienal para a modalidade bienal."
+  },
+  "120488390": {
+   "fragment_id": "120488291",
+   "type": 8,
+   "heading": "Secção II — Programa de apoio a projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Programa de apoio a projetos"
+  },
+  "120488391": {
+   "fragment_id": "120488292",
+   "type": 11,
+   "heading": "Artigo 7.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Caracterização\n\n1 - O programa de apoio a projetos tem por objetivo contribuir para o dinamismo e a renovação do tecido artístico, através do incentivo ao surgimento de propostas que reflitam a singularidade do tecido artístico em territórios criativos, sociais, intersectoriais e geográficos dinâmicos.\n\n2 - Este programa integra linhas de financiamento direcionadas a projetos com fruição pública, que possam contemplar uma atividade particular, intermitente ou finita, de capacitação ou complementar, ou contemplar projetos nucleares que agregam várias valências e atividades decorrentes do seu desígnio.\n\n3 - A abertura deste programa de apoio ocorre, no mínimo, uma vez por ano, e em conformidade com o que tiver sido inscrito na declaração anual prevista no artigo 8.º do Decreto-Lei n.º 103/2017, de 24 de agosto.\n\n4 - Tendo por fim assumir uma diferenciação positiva das tipologias de candidatura que este programa de apoio pode abranger, em aviso de abertura são considerados os elementos diferenciadores para instrução das candidaturas e orientação da sua apreciação."
+  },
+  "120488392": {
+   "fragment_id": "120488293",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio complementar a projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio complementar a projetos\n\nSão elegíveis, nesta modalidade, projetos previamente selecionados por concurso em programas nacionais ou internacionais de financiamento reconhecidos para este efeito pela DGARTES ou projetos que tenham assegurado o mínimo de 80 % do seu custo total."
+  },
+  "120488393": {
+   "fragment_id": "120488294",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de apreciação\n\n1 - As candidaturas são apreciadas de acordo com os seguintes critérios e respetiva ponderação na classificação final:\n\na) Projeto artístico - qualidade, relevância cultural e equipa - 55 %;\n\nb) Viabilidade - consistência do projeto de gestão e parcerias estabelecidas - 25 %;\n\nc) Alcance social - índices de abrangência, participação pública e qualidade da comunicação - 10 %;\n\nd) Objetivos - correspondência aos objetivos de interesse cultural definidos em aviso de abertura - 10 %.\n\n2 - Cada critério é pontuado de 0 a 20, correspondendo 20 à pontuação mais elevada, sendo elegíveis as candidaturas que venham a obter, no mínimo, 60 % da pontuação máxima possível em cada um dos critérios de apreciação.\n\n3 - A classificação das candidaturas é obtida pela soma das pontuações atribuídas aos critérios previstos no n.º 1, considerando a sua taxa de ponderação de acordo com a seguinte fórmula de cálculo:\n\nPF % = (a) x 55 % + b) x 25 % + c) x 10 % + d) x 10 %)/20\n\nEm que:\n\nPF % - corresponde à pontuação final da candidatura em escala percentual (0 a 100 %);\n\na), b), c) e d) - pontuação atribuída a cada critério de apreciação nos termos do n.º 1.\n\n4 - As candidaturas são ordenadas de forma decrescente, a partir da mais pontuada."
+  },
+  "120488394": {
+   "fragment_id": "120488295",
+   "type": 8,
+   "heading": "Secção III — Programa de apoio em parceria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Programa de apoio em parceria"
+  },
+  "120488395": {
+   "fragment_id": "120488296",
+   "type": 11,
+   "heading": "Artigo 10.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Caracterização\n\n1 - A DGARTES implementa linhas de apoio em parceria mediante acordo previamente estabelecido com entidades públicas ou privadas, nacionais ou estrangeiras, para o desenvolvimento de determinadas ações ou projetos que concretizem os fins e objetivos dos apoios às artes.\n\n2 - No âmbito do incentivo e da articulação das artes com outras políticas setoriais, este programa visa ultrapassar as assimetrias territoriais e os desequilíbrios sociais e culturais, estimulando a criação de projetos artísticos, bem como o fomento de intercâmbios artísticos e técnicos, pelo território nacional e internacional.\n\n3 - Com o objetivo de viabilizar projetos de continuidade e estruturalmente relevantes para a oferta, acesso e fruição cultural, o programa em parceria pode, em casos especificamente identificados, contemplar despesas de funcionamento para a capacitação e a contratação de recursos humanos especializados e a afetação de serviços e meios materiais em permanência dos planos de atividade.\n\n4 - Os programas em parceria com a administração local são desenvolvidos tendo em consideração critérios de suporte à sinalização das áreas artísticas e dos territórios prioritários, a definir pela DGARTES em articulação com os serviços ou organismos da área da cultura territorialmente competentes.\n\n5 - Os elementos diferenciadores para instrução das candidaturas ao programa em parceria e as orientações para a sua apreciação são estabelecidos no acordo de parceria e no aviso de abertura, quando aplicável.\n\n6 - O acordo de parceria previsto no n.º 1 é publicitado no Balcão Artes."
+  },
+  "120488396": {
+   "fragment_id": "120488297",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de apreciação\n\n1 - As candidaturas ao abrigo de linhas de apoio decorrentes do presente programa são apreciadas conforme os critérios estabelecidos no acordo de parceria.\n\n2 - Os critérios de apreciação devem basear-se nos critérios definidos no presente regulamento para o programa de apoio sustentado ou para o programa de apoio a projetos, consoante as suas características se aproximem de um ou de outro, sem prejuízo de outros considerados relevantes pelas entidades parceiras."
+  },
+  "120488397": {
+   "fragment_id": "120488298",
+   "type": 8,
+   "heading": "Secção IV — Cumulação de programas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Cumulação de programas de apoio"
+  },
+  "120488398": {
+   "fragment_id": "120488299",
+   "type": 11,
+   "heading": "Artigo 12.º — Impedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Impedimento\n\nEstão impedidas de apresentar candidaturas ao programa de apoio a projetos e ao programa de apoio em parceria as entidades candidatas ou beneficiárias de apoio sustentado, salvo disposição em contrário em aviso de abertura."
+  },
+  "120488399": {
+   "fragment_id": "120488300",
+   "type": 1,
+   "heading": "Capítulo III — Formas de atribuição do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Formas de atribuição do apoio"
+  },
+  "120488400": {
+   "fragment_id": "120488301",
+   "type": 11,
+   "heading": "Artigo 13.º — Concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Concurso\n\n1 - No concurso, a apresentação de candidatura pode ser feita por qualquer entidade elegível, nos termos do aviso de abertura.\n\n2 - A verificação das candidaturas é realizada pelos serviços técnicos da DGARTES, nos termos previstos no artigo 20.º\n\n3 - A apreciação das candidaturas é da competência das comissões de apreciação, nos termos previstos no artigo 22.º\n\n4 - O projeto de decisão, resultante da apreciação das candidaturas, é notificado aos candidatos para efeitos de audiência dos interessados nos termos legalmente aplicáveis.\n\n5 - Quando em sede de audiência dos interessados não resultar alteração das candidaturas selecionadas para apoio financeiro não há lugar à realização de nova audiência.\n\n6 - A decisão final da comissão de apreciação, que inclui a lista definitiva da pontuação e dos apoios financeiros a conceder, é homologada pelo diretor-geral da DGARTES e notificada aos candidatos."
+  },
+  "120488401": {
+   "fragment_id": "120488302",
+   "type": 11,
+   "heading": "Artigo 14.º — Concurso limitado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Concurso limitado\n\nNo concurso limitado aplica-se, com as necessárias adaptações, o disposto no artigo 13.º, podendo ocorrer uma fase de negociação entre a DGARTES e as entidades que foram convidadas a apresentar candidatura."
+  },
+  "120488402": {
+   "fragment_id": "120488303",
+   "type": 11,
+   "heading": "Artigo 15.º — Procedimento simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento simplificado\n\n1 - No procedimento simplificado as candidaturas são apreciadas pelos serviços técnicos da DGARTES, que submetem proposta fundamentada, com base nos critérios de apreciação do programa do apoio em que se inserem e na disponibilidade financeira, à decisão do diretor-geral da DGARTES.\n\n2 - A DGARTES notifica o interessado da decisão de apreciação da candidatura no prazo máximo de 30 dias úteis.\n\n3 - No caso dos apoios previstos na alínea b) do n.º 2 do artigo 11.º do Decreto-Lei n.º 103/2017, de 24 de agosto, o procedimento simplificado apenas pode ser utilizado se o valor do apoio a atribuir não exceder o montante de (euro) 5000."
+  },
+  "120488403": {
+   "fragment_id": "120488304",
+   "type": 11,
+   "heading": "Artigo 16.º — Protocolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Protocolo\n\n1 - O protocolo pode ser adotado no âmbito de um programa em parceria, quando seja a forma de atribuição do apoio financeiro acordada, e a respetiva proposta for homologada pelo membro do Governo responsável pela área da cultura.\n\n2 - Após a fixação das condições do programa em parceria, os serviços técnicos da DGARTES promovem a discussão dos termos protocolares com as entidades elegíveis, e submetem, sob proposta fundamentada, a atribuição do apoio e a minuta do protocolo a celebrar à decisão do diretor-geral da DGARTES e de outras entidades intervenientes, quando aplicável.\n\n3 - A minuta de protocolo a celebrar com as entidades elegíveis respeita os requisitos e obedece aos termos e condições definidos no acordo celebrado entre as entidades parceiras."
+  },
+  "120488404": {
+   "fragment_id": "120488305",
+   "type": 1,
+   "heading": "Capítulo IV — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Tramitação"
+  },
+  "120488405": {
+   "fragment_id": "120488306",
+   "type": 11,
+   "heading": "Artigo 17.º — Balcão Artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Balcão Artes\n\n1 - Os procedimentos inerentes à atribuição do apoio financeiro, através de concurso, procedimento simplificado ou protocolo, decorrem no Balcão Artes.\n\n2 - As entidades que pretendam apresentar candidatura, nos termos do presente regulamento, devem registar-se na plataforma prevista no número anterior, com os seguintes elementos de identificação:\n\na) Designação da entidade;\n\nb) Número de identificação fiscal;\n\nc) Natureza jurídica;\n\nd) Sede e zona onde exerce predominantemente a sua atividade;\n\ne) Endereço de correio eletrónico para comunicações;\n\nf) Responsáveis pela direção artística e pela gestão administrativa e financeira;\n\ng) Identificação do técnico oficial de contas, quando aplicável;\n\nh) Historial da entidade e/ou notas biográficas dos dirigentes.\n\n3 - Os elementos previstos no número anterior instruem automaticamente a identificação da entidade em todas as candidaturas que venha a submeter.\n\n4 - As entidades devem atualizar o respetivo registo na plataforma em caso de alteração de qualquer dos elementos previstos no n.º 2, no prazo máximo de 30 dias após o conhecimento dessa alteração."
+  },
+  "120488406": {
+   "fragment_id": "120488307",
+   "type": 11,
+   "heading": "Artigo 18.º — Aviso de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Aviso de abertura\n\n1 - O aviso de abertura fixa o prazo para a apresentação das candidaturas, que não pode ser inferior a:\n\na) 22 dias úteis, no programa de apoio sustentado;\n\nb) 10 dias úteis, no programa de apoio a projetos e no programa em parceria.\n\n2 - Para além dos elementos previstos no artigo 9.º do Decreto-Lei n.º 103/2017, de 24 de agosto, o aviso de abertura pode especificar:\n\na) Requisitos de admissibilidade determinados em função de patamares de financiamento;\n\nb) Percentagens máximas de apoio a atribuir;\n\nc) Documentação comprovativa exigida;\n\nd) As condições e limites de apoio às despesas de funcionamento necessárias à prossecução do plano de atividades.\n\n3 - Os requisitos de admissibilidade referidos na alínea a) do número anterior podem considerar o desenvolvimento sustentável, a diversidade, a quantidade, a amplitude, o âmbito territorial das atividades, o tipo de despesas admitidas, a percentagem máxima de apoio sobre o custo total do plano de atividades proposto ou do projeto, os comprovativos de apoios estruturantes e complementares e/ou recursos próprios, bem como a relação contratual com trabalhadores."
+  },
+  "120488407": {
+   "fragment_id": "120488308",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Apresentação de candidaturas\n\n1 - As candidaturas são redigidas integralmente em língua portuguesa, com exceção das declarações emitidas por entidade de país estrangeiro que podem ser redigidas em inglês, e com respeito pelo disposto no aviso de abertura.\n\n2 - As candidaturas não podem sofrer alterações posteriores à data de entrega, com exceção das que decorram do previsto no n.º 3 do artigo 20.º\n\n3 - A apresentação de candidaturas é obrigatoriamente efetuada em formulário disponibilizado no Balcão Artes, que pode contemplar, em função da especificidade de cada programa de apoio, nomeadamente:\n\na) Identificação da entidade candidata;\n\nb) Exposição do plano de atividades plurianual ou do projeto:\n\ni) Objetivos artísticos e profissionais, linhas de orientação e estratégia de desenvolvimento;\n\nii) Atividades a desenvolver em território nacional e/ou no estrangeiro;\n\niii) Equipas artística e técnica, incluindo notas biográficas dos elementos não integrados no registo da entidade previsto no n.º 2 do artigo 17.º;\n\niv) Instalações de que dispõem e o respetivo regime legal de utilização;\n\nv) Públicos-alvo e iniciativas de captação e sensibilização;\n\nvi) Calendarização;\n\nvii) Plano de comunicação;\n\nc) Previsão orçamental:\n\ni) Montante financeiro a que se candidata;\n\nii) Despesas estimadas, nomeadamente encargos com pessoal, espaço, equipamentos, produção, gestão, comunicação e outros;\n\niii) Receitas estimadas, tais como receitas próprias e, devidamente comprovados, os acordos de coprodução, patrocínios, mecenato e outros apoios e financiamentos;\n\nd) Indicação da situação regularizada perante a administração fiscal e a segurança social;\n\ne) Outros elementos considerados relevantes.\n\n4 - Para efeito do disposto no presente regulamento, as entidades candidatas ao programa de apoio sustentado devem enquadrar a sua atividade em apenas uma candidatura e, em caso de concessão do apoio, o respetivo contrato constitui o único instrumento de regulação para o período a que se destina, salvo o disposto no artigo 12.º\n\n5 - Sempre que seja opção das entidades inscrever em candidatura uma coprodução com outras entidades também candidatas a um programa de apoio, a respetiva inscrição deve ser acompanhada de uma declaração de repartição detalhada de responsabilidades, incluindo financeiras, das entidades envolvidas, devidamente assinada pelas mesmas."
+  },
+  "120488408": {
+   "fragment_id": "120488309",
+   "type": 11,
+   "heading": "Artigo 20.º — Verificação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Verificação das candidaturas\n\n1 - A verificação das candidaturas consiste na análise dos elementos que compõem uma candidatura e da sua conformidade com os requisitos e as condições definidas no presente regulamento ou outros que venham a ser fixados em aviso de abertura.\n\n2 - Só são admitidas aos programas de apoio as candidaturas com os formulários devida e completamente preenchidos e acompanhados pelos documentos exigidos, bem como aquelas que não se encontrem em nenhum dos motivos de não admissão previstos no artigo seguinte.\n\n3 - No caso das candidaturas que não se encontrem instruídas com todos os documentos exigidos, são as entidades candidatas notificadas individualmente para, no prazo máximo de 5 dias úteis, apresentar os documentos em falta, sob pena de exclusão automática da candidatura apresentada."
+  },
+  "120488409": {
+   "fragment_id": "120488310",
+   "type": 11,
+   "heading": "Artigo 21.º — Não admissão de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Não admissão de candidaturas\n\n1 - As candidaturas aos programas de apoio não são admitidas nos seguintes casos:\n\na) Se apresentadas fora do prazo;\n\nb) Se apresentadas por uma entidade não elegível, em desconformidade com o estabelecido no artigo 2.º do Decreto-Lei n.º 103/2017, de 24 de agosto;\n\nc) Se a entidade é beneficiária de apoio sustentado, salvo o disposto no artigo 12.º;\n\nd) Se a proposta não se encontrar instruída nos termos previstos no artigo 19.º;\n\ne) A não realização de atividades maioritariamente públicas, salvo disposição em contrário no aviso de abertura;\n\nf) A não incidência maioritária no território abrangido.\n\n2 - A não admissão de candidatura nos termos do presente artigo é notificada aos respetivos candidatos."
+  },
+  "120488410": {
+   "fragment_id": "120488311",
+   "type": 11,
+   "heading": "Artigo 22.º — Apreciação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Apreciação de candidaturas\n\nA apreciação das candidaturas é realizada nos termos do presente regulamento e do regulamento relativo à composição e funcionamento das comissões de apreciação."
+  },
+  "120488411": {
+   "fragment_id": "120488312",
+   "type": 11,
+   "heading": "Artigo 23.º — Determinação do montante do apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Determinação do montante do apoio financeiro\n\n1 - Na determinação do apoio financeiro a atribuir às candidaturas elegíveis, é tida em consideração, por esta ordem:\n\na) A dotação financeira global disponível;\n\nb) A afetação da dotação financeira disponível por região, área artística e domínio de atividade, quando aplicável;\n\nc) Os limites financeiros dos patamares fixados, quando aplicável;\n\nd) A classificação e a ordenação das candidaturas após apreciação.\n\n2 - Os patamares de financiamento fixados no aviso de abertura podem considerar uma das seguintes possibilidades:\n\na) A atribuição de um montante fixo - igual ao montante do apoio a que se candidata;\n\nb) A atribuição de um montante ponderado - proporcional à classificação das candidaturas elegíveis.\n\n3 - No programa de apoio sustentado o cálculo do montante previsto na alínea b) do número anterior considera apenas a pontuação obtida pelas candidaturas nos critérios de apreciação previstos nos n.os 1 e 2 do artigo 6.º"
+  },
+  "120488412": {
+   "fragment_id": "120488313",
+   "type": 1,
+   "heading": "Capítulo V — Formalização do apoio e relatório de atividades e contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Formalização do apoio e relatório de atividades e contas"
+  },
+  "120488413": {
+   "fragment_id": "120488314",
+   "type": 11,
+   "heading": "Artigo 24.º — Entrega de documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrega de documentação\n\n1 - As entidades beneficiárias submetem ou atualizam, consoante o caso, no Balcão Artes, no prazo de 5 dias úteis a contar da notificação da decisão final, os seguintes documentos:\n\na) No caso de se terem verificado alterações, cópia do documento de constituição e respetivos estatutos, devidamente atualizados, bem como cópia da ata que comprove os atuais corpos dirigentes, ou, se sujeita a registo comercial, cópia da certidão permanente com todos os registos em vigor ou indicação do respetivo número de acesso para a sua consulta no respetivo sítio da Internet;\n\nb) Documentos comprovativos da situação regularizada perante a administração fiscal e a segurança social ou autorização para a sua consulta nos respetivos sítios da Internet;\n\nc) Documentos comprovativos das autorizações ou dos pedidos relativos às obras que impliquem direitos de autor e direitos conexos ou declaração de honra que o ateste;\n\nd) Documentos comprovativos exigidos para o exercício da atividade ou declaração de honra que o ateste;\n\ne) Ficha de entidade devidamente preenchida, conforme modelo disponibilizado pela DGARTES;\n\nf) No caso dos beneficiários de apoio sustentado, informação relativa às instalações, designadamente cópia do pedido de vistoria à Inspeção-Geral das Atividades Culturais, quando aplicável, autorizações camarárias ou outras, ou declaração de honra que o ateste.\n\n2 - A atribuição do apoio e a celebração do contrato previsto no artigo 26.º ficam dependentes da submissão no Balcão Artes, no prazo estipulado, da documentação prevista no número anterior.\n\n3 - No caso de grupo informal ou de pessoa singular, pode ser indicada uma pessoa coletiva com a qual se pretende que seja celebrado o contrato, desde que os documentos previstos no n.º 1 respeitantes a esta sejam também entregues no prazo estipulado, ficando a mesma sujeita ao cumprimento das condições e obrigações que impendem sobre a entidade beneficiária."
+  },
+  "120488414": {
+   "fragment_id": "120488315",
+   "type": 11,
+   "heading": "Artigo 25.º — Ajustamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Ajustamento\n\n1 - Sempre que o montante do apoio financeiro atribuído seja inferior ao montante do apoio financeiro a que se candidata, a entidade beneficiária apresenta, no prazo de 10 dias úteis, uma proposta de ajustamento ao plano de atividades ou projeto e previsão orçamental, sem desvirtuar as características que presidiram à atribuição do apoio.\n\n2 - Cabe à respetiva comissão de apreciação a validação, no prazo máximo de 10 dias úteis, do ajustamento apresentado nos termos do número anterior."
+  },
+  "120488415": {
+   "fragment_id": "120488316",
+   "type": 11,
+   "heading": "Artigo 26.º — Formalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Formalização\n\n1 - A atribuição do apoio financeiro é formalizada mediante contrato escrito nos termos previstos no artigo 16.º do Decreto-Lei n.º 103/2017, de 24 de agosto, sem prejuízo do disposto no número seguinte.\n\n2 - O acordo escrito no âmbito do procedimento simplificado contém os seguintes elementos:\n\na) A proposta apresentada pela entidade;\n\nb) Os direitos e obrigações das partes;\n\nc) O montante de financiamento;\n\nd) O prazo de vigência.\n\n3 - Salvo situações de força maior, caso a entidade beneficiária não assine o contrato no prazo de 15 dias úteis a contar da data de envio do mesmo, o procedimento finda quanto a esta, podendo a DGARTES selecionar para a contratação do apoio financeiro a entidade beneficiária que ficou graduada no lugar imediatamente seguinte."
+  },
+  "120488416": {
+   "fragment_id": "120488317",
+   "type": 11,
+   "heading": "Artigo 27.º — Relatório de atividades e contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Relatório de atividades e contas\n\n1 - As entidades beneficiárias de apoio estão obrigadas à entrega de um relatório de atividades e contas com a periodicidade definida no contrato e elaborado segundo formulário disponibilizado pela DGARTES no Balcão Artes.\n\n2 - Nos programas de apoio que incluam o domínio da circulação internacional, para efeitos avaliativos da atividade desenvolvida, a entidade beneficiária entrega também uma declaração emitida pela entidade de acolhimento do projeto, conforme formulário a disponibilizar pela DGARTES."
+  },
+  "120488417": {
+   "fragment_id": "120488318",
+   "type": 1,
+   "heading": "Capítulo VI — Incumprimento das obrigações contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Incumprimento das obrigações contratuais"
+  },
+  "120488418": {
+   "fragment_id": "120488319",
+   "type": 11,
+   "heading": "Artigo 28.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Incumprimento\n\n1 - O não cumprimento pelas entidades beneficiárias das respetivas obrigações contratuais, bem como as omissões ou falsas declarações no âmbito de informações prestadas à DGARTES ou as irregularidades detetadas em sede de auditoria, são sancionados nos termos dos artigos seguintes.\n\n2 - O não cumprimento, sempre que identificado pela comissão de avaliação, é comunicado por esta à DGARTES para prossecução do procedimento subsequente."
+  },
+  "120488419": {
+   "fragment_id": "120488320",
+   "type": 11,
+   "heading": "Artigo 29.º — Suspensão dos pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Suspensão dos pagamentos\n\n1 - Determinam a suspensão do pagamento do apoio financeiro os seguintes incumprimentos por parte da entidade beneficiária:\n\na) Não disponibilização de informação solicitada pela DGARTES ou pelas comissões de avaliação;\n\nb) Não atualização da informação disponível no Balcão Artes, nomeadamente no que concerne à sua identificação, à equipa, ao plano de atividades, à agenda e ao reporte da bilheteira;\n\nc) As irregularidades no cumprimento de obrigações legais e contratuais detetadas em sede de auditoria.\n\n2 - O direito de suspensão do pagamento do apoio é exercido mediante declaração da DGARTES enviada à entidade beneficiária e produz efeitos no prazo de 5 dias úteis a contar da expedição da declaração caso não se verifique neste prazo a regularização do incumprimento por parte da entidade beneficiária, e mantém-se até à sua sanação."
+  },
+  "120488420": {
+   "fragment_id": "120488321",
+   "type": 11,
+   "heading": "Artigo 30.º — Sanção pecuniária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sanção pecuniária\n\n1 - Determinam a aplicação de uma sanção pecuniária no montante de 1 % do montante do apoio atribuído os seguintes incumprimentos imputáveis à entidade beneficiária, e por cada incumprimento verificado:\n\na) Inviabilização do acesso dos membros das comissões de avaliação às instalações e às atividades;\n\nb) Não inserção dos logótipos da República Portuguesa - Cultura e da DGARTES nos materiais promocionais da atividade ou projeto objeto de apoio;\n\nc) Fração de 30 dias de atraso na entrega do relatório de atividades e contas nos termos contratualmente definidos, até ao limite de 6 meses.\n\n2 - A sanção pecuniária prevista no número anterior efetiva-se mediante declaração da DGARTES enviada à entidade beneficiária e produz efeitos na data da expedição da declaração, sendo o valor correspondente deduzido no pagamento seguinte a realizar.\n\n3 - Caso não existam pagamentos por realizar, não sendo por isso possível a execução do procedimento previsto no número anterior, a DGARTES procede à emissão de uma guia de reposição, ficando ainda a entidade beneficiária impedida de apresentar candidatura a novos programas de apoio até proceder à liquidação do montante em causa.\n\n4 - O incumprimento previsto na alínea c) do n.º 1 é de conhecimento oficioso, não carecendo de qualquer declaração por parte da DGARTES."
+  },
+  "120488421": {
+   "fragment_id": "120488322",
+   "type": 11,
+   "heading": "Artigo 31.º — Resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Resolução\n\n1 - O não cumprimento, integral ou parcial, do objeto contratual por facto imputável à entidade beneficiária determina a resolução do contrato a título sancionatório, bem como a reposição da quantia recebida correspondente ao plano de atividades não cumprido.\n\n2 - O direito de resolução é exercido mediante declaração da DGARTES à entidade beneficiária e produz efeitos no prazo de 10 dias úteis a contar da data de expedição da respetiva declaração.\n\n3 - A resolução do contrato determina ainda o impedimento de a entidade beneficiária apresentar candidatura a novos programas de apoio nos seguintes termos:\n\na) Nos 3 anos civis subsequentes, se não entregar o relatório de atividades e contas, para além do prazo de 6 meses previsto na alínea c) do n.º 1 do artigo 30.º;\n\nb) Enquanto não proceder à reposição da quantia recebida correspondente ao plano de atividades não cumprido."
+  },
+  "120488422": {
+   "fragment_id": "120488323",
+   "type": 1,
+   "heading": "Capítulo VII — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposição final"
+  },
+  "120488423": {
+   "fragment_id": "120488324",
+   "type": 11,
+   "heading": "Artigo 32.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Comunicações\n\n1 - A comunicação entre a DGARTES e as entidades candidatas e beneficiárias, designadamente em matéria de notificações, é efetuada sempre para o endereço eletrónico indicado no Balcão Artes.\n\n2 - As notificações e as comunicações, quando efetuadas através de correio eletrónico ou de outro meio de transmissão escrita e eletrónica de dados, consideram-se feitas na data da respetiva expedição."
+  },
+  "120488375": {
+   "fragment_id": "120488276",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 301/2017\n\nde 16 de outubro\n\nO Decreto-Lei n.º 103/2017, de 24 de agosto, aprovou o regime de atribuição de apoios financeiros do Estado, através da Direção-Geral das Artes (DGARTES), a entidades que exerçam atividades profissionais nas áreas das artes visuais, das artes performativas e de cruzamento disciplinar.\n\nImporta salientar que o novo modelo de apoio às artes pretende ser flexível nas suas várias dimensões, nomeadamente em termos territoriais, nos domínios de atividade artística e nas formas de concessão de financiamento. Tal propósito vai ao encontro da heterogeneidade do setor, sendo deste modo inclusivo porquanto promove e alarga a democratização do acesso à criação e à fruição artísticas por parte dos cidadãos, incentivando-se, assim, o serviço público na área das artes.\n\nNa prossecução do serviço público, os agentes do setor são parceiros privilegiados do Estado, cabendo a este criar mecanismos ou tipologias de apoio que viabilizem a prestação desse serviço.\n\nPara esse fim, são criadas três tipologias de apoio que preconizam um papel dinâmico e inovador ao setor: o apoio sustentado - de cariz plurianual, no qual se propõe a estabilidade e a consolidação do funcionamento das entidades elegíveis; o apoio a projetos - no qual se pretende um papel dinâmico na renovação do tecido artístico, através do apoio a projetos nucleares ou a atividades particulares, intermitentes ou finitas, bem como do apoio complementar de comparticipação de financiamento a projetos já aprovados em programas nacionais ou internacionais ou cuja viabilidade dependa de uma reduzida percentagem de apoio; e o apoio em parceria - no qual a DGARTES se associa a outras entidades financiadoras, públicas ou privadas, para lançamento em conjunto de linhas de apoio para ações que se enquadrem nos objetivos e linhas estratégicas previstos no regime de apoio às artes, nomeadamente, em articulação ou intersecção com outras áreas setoriais, ou no estabelecimento de parcerias com a administração local no desenvolvimento de sinergias para uma efetiva correção de assimetrias.\n\nNos procedimentos destacam-se a simplificação administrativa e a redução do período temporal da fase de verificação das candidaturas, dando-se, assim, maior enfoque ao período de apreciação e à celeridade do processo decisório dos apoios. Ainda nesta fase, abre-se a possibilidade de um prazo suplementar, sem qualquer efeito suspensivo no procedimento, para as entidades apresentarem a documentação comprovativa em falta respeitante a acordos de coprodução, patrocínios, mecenato e outras formas de apoio e financiamentos.\n\nCom a finalidade de tornar este modelo mais transparente e rigoroso na determinação do montante de apoio, é criada a possibilidade de serem previamente estabelecidos patamares de financiamento de montante fixo. Neste sentido, cria-se um maior rigor e previsibilidade na elaboração das candidaturas, tal como na sua apreciação, bem como no nível ou grau de execução dos projetos e das atividades artísticas.\n\nNa senda da clarificação do modelo e da operacionalização do apoio às artes, designadamente no que se refere à execução das obrigações dos contratos de apoio, por razões de segurança jurídica para todas as partes envolvidas, são fixadas no presente regulamento as situações de incumprimento e as correspondentes consequências.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º do Decreto-Lei n.º 103/2017, de 24 de agosto, manda o Governo, pelo Ministro da Cultura, o seguinte:"
+  },
+  "120488379": {
+   "fragment_id": "120488280",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Cultura, Luís Filipe Carrilho de Castro Mendes, em 11 de outubro de 2017."
+  },
+  "120456952": {
+   "fragment_id": "120488285",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos artísticos",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Objetivos artísticos\n\nSão objetivos específicos para cada área artística:\n\na) Nas artes performativas:\n\ni) Para o circo contemporâneo e artes de rua, fomentar, valorizar e promover a sua prática, enquadrada na produção artística contemporânea;\n\nii) Para a dança, a música e o teatro, fomentar, preservar, valorizar e promover as respetivas culturas nas suas diversas manifestações;\n\nb) Nas artes visuais:\n\ni) Para a arquitetura, o design e a fotografia, enquanto ato artístico, fomentar, preservar, valorizar e promover as respetivas culturas, nas suas diversas manifestações;\n\nii) Para as artes plásticas, fomentar, preservar, valorizar e promover as suas diversas manifestações;\n\niii) Para os novos media, fomentar, valorizar e promover projetos artísticos que tenham na sua génese o recurso a meios digitais e eletrónicos, nas suas diversas manifestações;\n\nc) Para o cruzamento disciplinar, fomentar, preservar, valorizar e promover as múltiplas práticas de reflexão, relação e interseção entre disciplinas artísticas ou com outras áreas do conhecimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120456953": {
+   "fragment_id": "120488286",
+   "type": 11,
+   "heading": "Artigo 4.º — Domínios artísticos de atividade",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 4.º — Domínios artísticos de atividade\n\nOs domínios de atividade previstos no artigo 6.º do Decreto-Lei n.º 103/2017, de 24 de agosto, têm o seguinte alcance e subdomínios de atividade:\n\na) Criação: o processo de elaboração criativa, em diferentes fases, que origina o objeto artístico, material ou imaterial, e que pode integrar:\n\ni) Conceção, execução e apresentação de obras;\n\nii) Residências artísticas;\n\niii) Interpretação, nomeadamente na área da música;\n\nb) Programação: a gestão da oferta cultural em determinado espaço e tempo, de forma regular ou pontual, como ciclos, mostras, festivais, e que pode integrar:\n\ni) Acolhimento e coproduções;\n\nii) Residências artísticas;\n\nc) Circulação nacional: a itinerância de obras ou projetos pelo território nacional, incluindo as ações que contribuam para esse fim;\n\nd) Internacionalização: a itinerância de obras ou projetos pelo espaço internacional, incluindo as ações que contribuam para esse fim, que podem integrar:\n\ni) Desenvolvimento e circulação internacional de obras e projetos;\n\nii) Ações de intercâmbio e acolhimento de promotores em contexto específico;\n\niii) Fomento da integração em redes internacionais;\n\niv) Tradução e edição de obras nacionais para línguas estrangeiras;\n\ne) Desenvolvimento de públicos: a captação, a sensibilização e a qualificação de públicos diversificados, que pode integrar:\n\ni) Ações em articulação com o ensino formal;\n\nii) Ações de educação não formal;\n\niii) Ações de promoção, proximidade e acessibilidade;\n\nf) Edição: a publicação de uma obra em suporte físico ou digital com o objetivo da sua disseminação e que pode integrar:\n\ni) Apoio à edição nacional;\n\nii) Apoio à tradução de obras estrangeiras;\n\ng) Investigação: o processo de construção do conhecimento humano capaz de gerar novas propostas, no campo das diversas disciplinas artísticas, nomeadamente o conjunto de atividades desenvolvidas com esse fim;\n\nh) Formação: as ações de valorização e qualificação dos profissionais das artes, no território nacional ou internacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120456954": {
+   "fragment_id": "120488289",
+   "type": 11,
+   "heading": "Artigo 5.º — Caracterização",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Caracterização\n\n1 - O programa de apoio sustentado tem por objetivo, nomeadamente, a consolidação e estabilidade da atividade profissional regular, preconizada pelo terceiro setor, sendo essencial para a qualificação dos seus intervenientes e para a inovação do serviço público que estes se propõem prestar.\n\n2 - A abertura deste programa de apoio ocorre no ano civil anterior àquele a que reporta o início da sua atribuição por forma a assegurar a contratação dos apoios até ao final do terceiro trimestre desse ano e em conformidade com o que estiver inscrito na declaração anual prevista no artigo 8.º do Decreto-Lei n.º 103/2017, de 24 de agosto.\n\n3 - As modalidades bienal e quadrienal correspondem ao período de concessão de apoio, por dois ou quatro anos respetivamente, sendo exigida uma descrição do projeto para o período de financiamento que evidencie e justifique o apoio de uma atividade continuada e plurianual.\n\n4 - Com o objetivo de fortalecer estruturalmente o setor, este programa de apoio pode contemplar despesas de funcionamento necessárias à prossecução do plano de atividades apresentado, como a capacitação e a contratação de recursos humanos especializados e a afetação de serviços e meios materiais em permanência.\n\n5 - As condições e os limites de apoio às despesas referidas no número anterior são definidos em aviso de abertura.\n\n6 - Considerando a diversidade de entidades elegíveis, de áreas artísticas e conjuntos de atividades que este programa de apoio pode abranger, são fixados em aviso de abertura os elementos diferenciadores para instrução das candidaturas e orientação da sua apreciação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120456955": {
+   "fragment_id": "120488290",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de apreciação",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de apreciação\n\n1 - As candidaturas são apreciadas de acordo com os seguintes critérios e respetiva ponderação na classificação final:\n\na) Plano de atividades - qualidade artística e relevância cultural do projeto artístico, aferida pela inovação, originalidade, coerência e excelência no contexto em que se propõe intervir e na representação do setor à escala nacional e internacional - 50 %;\n\nb) Entidade e equipa - historial, mérito e adequação aferidos pela relevância estratégica da organização no plano profissional, social e territorial, e pela competência e qualificação dos recursos humanos afetos ao plano de atividades - 15 %;\n\nc) Repercussão social - alcance e visibilidade aferidas pela diversidade de públicos-alvo e condições de acessibilidade, pela estimativa de adesão de participantes, espetadores e visitantes das atividades, bem como pela inovação e eficácia do plano de comunicação - 7,5 %;\n\nd) Projeto de gestão - qualidade e viabilidade aferidas pela coerência do orçamento face à dimensão do projeto e dos recursos humanos e materiais necessários, bem como pela captação de fontes de financiamento alternativas e parcerias estratégicas, incluindo o apoio dos municípios, que permitam atingir o alcance e objetivos do plano de atividades - 20 %;\n\ne) Correspondência aos objetivos - aferida pelo potencial de concretização do serviço público previsto no Decreto-Lei n.º 103/2017, de 24 de agosto, bem como dos objetivos de interesse cultural fixados em aviso de abertura - 7,5 %.\n\n2 - O desempenho no ciclo plurianual anterior, aferido nos termos dos n.os 8 e 9 do artigo 15.º da Portaria n.º 302/2017, de 16 de outubro, quando exista, será considerado na apreciação do critério previsto na alínea b) do número anterior.\n\n3 - São elegíveis para apoio as candidaturas que atinjam pelo menos 60 % da pontuação global máxima, sendo cada critério pontuado de 0 a 20, correspondendo 20 à pontuação mais elevada.\n\n4 - A pontuação final dos critérios de apreciação é obtida através da soma das pontuações de cada um dos critérios previstos no n.º 1, considerando a sua taxa de ponderação de acordo com a seguinte fórmula de cálculo:\n\nPE % = (a) x 50 % b) x 15 % c x 7,5 % d) x 20 % e) x 7,5 %)/20\n\nEm que:\n\nPE % - corresponde à pontuação de elegibilidade da candidatura em escala percentual (0 a 100 %);\n\na), b), c), d) e e) - pontuação atribuída a cada critério de apreciação nos termos do n.º 1.\n\n5 - (Revogado.)\n\n6 - A classificação das candidaturas é calculada através da aplicação da fórmula prevista no n.º 4, sendo as candidaturas ordenadas de forma decrescente, a partir da mais pontuada.\n\n7 - As comissões de apreciação, em função da análise global efetuada, podem propor a transição de candidaturas a apoio à modalidade quadrienal para a modalidade bienal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120456956": {
+   "fragment_id": "120488292",
+   "type": 11,
+   "heading": "Artigo 7.º — Caracterização",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Caracterização\n\n1 - O programa de apoio a projetos tem por objetivo contribuir para o dinamismo e a renovação do tecido artístico, através do incentivo ao surgimento de propostas que reflitam a singularidade do setor.\n\n2 - Este programa integra linhas de financiamento direcionadas a uma atividade ou a um projeto particulares, de ocorrência pontual ou intermitente, e que contemplem o conjunto das ações necessárias à sua concretização.\n\n3 - A abertura deste programa de apoio ocorre, no mínimo, uma vez por ano, e em conformidade com o que tiver sido inscrito na declaração anual prevista no artigo 8.º do Decreto-Lei n.º 103/2017, de 24 de agosto, por forma a assegurar a contratação dos apoios até 15 dias úteis antes do início das atividades a apoiar.\n\n4 - Tendo por fim assumir uma diferenciação positiva das tipologias de candidatura que este programa de apoio pode abranger, em aviso de abertura são considerados os elementos diferenciadores para instrução das candidaturas e orientação da sua apreciação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120456957": {
+   "fragment_id": "120488294",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de apreciação",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 9.º — Critérios de apreciação\n\n1 - As candidaturas são apreciadas de acordo com os seguintes critérios e respetiva ponderação na classificação final:\n\na) Projeto artístico - qualidade, relevância cultural e equipa - 60 %;\n\nb) Viabilidade - consistência do projeto de gestão e parcerias estabelecidas - 30 %;\n\nc) (Revogado.)\n\nd) Objetivos - correspondência aos objetivos de interesse cultural definidos em aviso de abertura - 10 %.\n\n2 - São elegíveis para apoio as candidaturas que atinjam pelo menos 60 % da pontuação global máxima, sendo cada critério pontuado de 0 a 20, correspondendo 20 à pontuação mais elevada.\n\n3 - A classificação das candidaturas é obtida pela soma das pontuações atribuídas aos critérios previstos no n.º 1, considerando a sua taxa de ponderação de acordo com a seguinte fórmula de cálculo:\n\nPF % = (a) x 60 % + b) x 30 % + d) x 10 %)/20\n\nEm que:\n\nPF % - corresponde à pontuação final da candidatura em escala percentual (0 a 100 %);\n\na), b) e d) - pontuação atribuída a cada critério de apreciação nos termos do n.º 1.\n\n4 - [...].\n\n5 - Os critérios fixados no presente artigo podem não se aplicar ao apoio complementar a projetos previamente selecionados por concurso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120456958": {
+   "fragment_id": "120488296",
+   "type": 11,
+   "heading": "Artigo 10.º — Caracterização",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Caracterização\n\n1 - A DGARTES implementa linhas de apoio em parceria mediante acordo previamente estabelecido com entidades públicas ou privadas, nacionais ou estrangeiras, para o desenvolvimento de determinadas ações ou projetos que concretizem os fins e objetivos dos apoios às artes.\n\n2 - No âmbito do incentivo e da articulação das artes com outras políticas setoriais, este programa visa ultrapassar as assimetrias territoriais e os desequilíbrios sociais e culturais, estimulando a criação de projetos artísticos, bem como o fomento de intercâmbios artísticos e técnicos, pelo território nacional e internacional.\n\n3 - Com o objetivo de viabilizar projetos de continuidade e estruturalmente relevantes para a oferta, acesso e fruição cultural, o programa em parceria pode, em casos especificamente identificados, contemplar despesas de funcionamento para a capacitação e a contratação de recursos humanos especializados e a afetação de serviços e meios materiais em permanência dos planos de atividade.\n\n4 - Os programas em parceria com a administração local são desenvolvidos tendo em consideração critérios de suporte à sinalização das áreas artísticas e dos territórios prioritários, a definir pela DGARTES em articulação com os serviços ou organismos da área da cultura territorialmente competentes.\n\n5 - Os elementos diferenciadores para instrução das candidaturas ao programa em parceria e as orientações para a sua apreciação são estabelecidos no acordo de parceria e no aviso de abertura, quando aplicável.\n\n6 - O acordo de parceria previsto no n.º 1 é publicitado no Balcão Artes.\n\n7 - Sempre que os apoios tenham carácter plurianual a sua contratação deve ocorrer até três meses antes do início das atividades a apoiar.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120456959": {
+   "fragment_id": "120488302",
+   "type": 11,
+   "heading": "Artigo 14.º — Concurso limitado",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 14.º — Concurso limitado\n\n1 - No concurso limitado aplica-se, com as necessárias adaptações, o disposto no artigo 13.º, podendo ocorrer uma fase de negociação entre a DGARTES e as entidades que foram convidadas a apresentar candidatura.\n\n2 - No concurso limitado, podem ser definidos em aviso de abertura, critérios de apreciação e respetiva ponderação distintos dos previstos no programa de apoio em que se insere.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120456960": {
+   "fragment_id": "120488303",
+   "type": 11,
+   "heading": "Artigo 15.º — Procedimento simplificado",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 15.º — Procedimento simplificado\n\n1 - No procedimento simplificado as candidaturas são apreciadas pelos serviços técnicos da DGARTES, que submetem proposta fundamentada, com base nos critérios de apreciação do programa do apoio em que se inserem e na disponibilidade financeira, à decisão do diretor-geral da DGARTES.\n\n2 - A DGARTES notifica o interessado da decisão de apreciação da candidatura no prazo máximo de 30 dias úteis.\n\n3 - No caso dos apoios previstos na alínea b) do n.º 2 do artigo 11.º do Decreto-Lei n.º 103/2017, de 24 de agosto, o procedimento simplificado apenas pode ser utilizado se o valor do apoio a atribuir não exceder o montante de (euro) 5000.\n\n4 - O prazo previsto na alínea b) no n.º 1 do artigo 18.º não é aplicável a esta forma de atribuição do apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120456961": {
+   "fragment_id": "120488307",
+   "type": 11,
+   "heading": "Artigo 18.º — Aviso de abertura",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 18.º — Aviso de abertura\n\n1 - O aviso de abertura fixa o prazo para a apresentação das candidaturas, que não pode ser inferior a:\n\na) 30 dias úteis, no programa de apoio sustentado;\n\nb) 15 dias úteis, no programa de apoio a projetos;\n\nc) 10 dias úteis, no programa de apoio em parceria.\n\n2 - Para além dos elementos previstos no artigo 9.º do Decreto-Lei n.º 103/2017, de 24 de agosto, o aviso de abertura pode especificar:\n\na) Princípios subjacentes à distribuição do financiamento por região e por áreas artísticas e/ou domínios de atividade;\n\nb) Requisitos de admissibilidade determinados em função de patamares de financiamento;\n\nc) Percentagens máximas de apoio a atribuir;\n\nd) Documentação comprovativa exigida;\n\ne) As condições e limites de apoio às despesas de funcionamento necessárias à prossecução do plano de atividades.\n\n3 - Os requisitos de admissibilidade referidos na alínea b) do número anterior podem considerar o desenvolvimento sustentável, a diversidade, a quantidade, a amplitude, o âmbito territorial das atividades, o tipo de despesas admitidas, a percentagem máxima de apoio sobre o custo total do plano de atividades proposto ou do projeto, os comprovativos de apoios estruturantes e complementares e/ou recursos próprios, bem como a relação contratual com trabalhadores.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120456962": {
+   "fragment_id": "120488308",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação de candidaturas",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 19.º — Apresentação de candidaturas\n\n1 - As candidaturas são redigidas integralmente em língua portuguesa, com exceção das declarações emitidas por entidade de país estrangeiro que podem ser redigidas em inglês, e com respeito pelo disposto no aviso de abertura.\n\n2 - As candidaturas não podem sofrer alterações posteriores à data de entrega, com exceção das que decorram do previsto no n.º 3 do artigo 20.º\n\n3 - A apresentação de candidaturas é obrigatoriamente efetuada em formulário disponibilizado no Balcão Artes, que pode contemplar, em função da especificidade de cada programa de apoio, nomeadamente:\n\na) Identificação da entidade candidata;\n\nb) Exposição do plano de atividades plurianual ou do projeto:\n\ni) Objetivos artísticos e profissionais, linhas de orientação e estratégia de desenvolvimento;\n\nii) Atividades a desenvolver em território nacional e/ou no estrangeiro;\n\niii) Equipas artística e técnica, incluindo notas biográficas dos elementos não integrados no registo da entidade previsto no n.º 2 do artigo 17.º;\n\niv) Instalações de que dispõem e o respetivo regime legal de utilização;\n\nv) Públicos-alvo e iniciativas de captação e sensibilização;\n\nvi) Calendarização;\n\nvii) Plano de comunicação;\n\nc) Previsão orçamental:\n\ni) Montante financeiro a que se candidata;\n\nii) Despesas estimadas, nomeadamente encargos com pessoal, espaço, equipamentos, produção, gestão, comunicação e outros;\n\niii) Receitas estimadas, tais como receitas próprias e, devidamente comprovados, os acordos de coprodução, patrocínios, mecenato e outros apoios e financiamentos;\n\nd) Indicação da situação regularizada perante a administração fiscal e a segurança social;\n\ne) Outros elementos considerados relevantes.\n\n4 - Para efeito do disposto no presente regulamento, as entidades candidatas ao programa de apoio sustentado devem enquadrar a sua atividade em apenas uma candidatura e, em caso de concessão do apoio, o respetivo contrato constitui o único instrumento de regulação para o período a que se destina, salvo o disposto no artigo 12.º\n\n5 - Sempre que seja opção das entidades inscrever em candidatura uma coprodução com outras entidades também candidatas a um programa de apoio, a respetiva inscrição deve ser acompanhada de uma declaração de repartição detalhada de responsabilidades, incluindo financeiras, das entidades envolvidas, devidamente assinada pelas mesmas.\n\n6 - No programa de apoio sustentado as entidades devem apresentar o plano de atividades e orçamento detalhado respeitante ao primeiro ano de atividades, e em relação a cada um dos anos seguintes, deve ser entregue uma síntese dos dados solicitados, de acordo com o formulário disponibilizado.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281097": {
+   "fragment_id": "120488277",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado o Regulamento dos Programas de Apoio às Artes, em anexo à presente portaria, da qual faz parte integrante.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281098": {
+   "fragment_id": "120488278",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 1204-A/2008, de 17 de outubro, alterada pelas Portarias n.os 1189-A/2010, de 17 de novembro, 217/2012, de 19 de julho, e 145/2015, de 25 de maio;\n\nb) A Portaria n.º 58/2012, de 13 de março.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281099": {
+   "fragment_id": "120488279",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281100": {
+   "fragment_id": "120488280",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "O Ministro da Cultura, Luís Filipe Carrilho de Castro Mendes, em 11 de outubro de 2017.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281101": {
+   "fragment_id": "120488281",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DOS PROGRAMAS DE APOIO ÀS ARTES",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "## Anexo — REGULAMENTO DOS PROGRAMAS DE APOIO ÀS ARTES\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281102": {
+   "fragment_id": "120488282",
+   "type": 1,
+   "heading": "Capítulo I — Disposições genéricas",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "### Capítulo I — Disposições genéricas\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281103": {
+   "fragment_id": "120488283",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente regulamento estabelece as normas aplicáveis à atribuição pelo Estado, através da Direção-Geral das Artes (DGARTES), dos apoios financeiros no âmbito dos programas de apoio às artes previstos no artigo 4.º do Decreto-Lei n.º 103/2017, de 24 de agosto, nas seguintes tipologias:\n\na) Programa de apoio sustentado;\n\nb) Programa de apoio a projetos;\n\nc) Programa em parceria.\n\n2 - Os apoios a conceder nos termos do presente regulamento têm por objeto projetos ou atividades desenvolvidos em Portugal ou no estrangeiro pelas entidades elegíveis previstas no artigo 2.º do Decreto-Lei n.º 103/2017, de 24 de agosto, que exerçam, a título predominante, atividades profissionais nas seguintes áreas:\n\na) Artes performativas: circo contemporâneo e artes de rua, dança, música e teatro;\n\nb) Artes visuais: arquitetura, artes plásticas, design, fotografia e novos media;\n\nc) Cruzamento disciplinar.\n\n3 - As entidades que apresentem candidatura ao abrigo dos apoios previstos no presente regulamento devem optar pela área preponderante na sua atividade, sem prejuízo da diversidade de projetos que a integram.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281104": {
+   "fragment_id": "120488284",
+   "type": 11,
+   "heading": "Artigo 2.º — Interesse público cultural",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 2.º — Interesse público cultural\n\nNo âmbito do disposto no artigo 3.º do Decreto-Lei n.º 103/2017, de 24 de agosto, constituem objetivos específicos de interesse público cultural:\n\na) Contribuir para a diversidade e a qualidade da oferta artística no território nacional;\n\nb) Promover a participação e qualificação das comunidades e dos públicos na cultura em diversos domínios da atividade artística e boas práticas de acessibilidade;\n\nc) Dinamizar a internacionalização das artes e da cultura portuguesa, através da cooperação com outros países e do fomento da presença de projetos internacionais no território nacional;\n\nd) Valorizar a dimensão educativa e de sensibilização para a cultura;\n\ne) Incentivar projetos emergentes e dinamizadores do setor;\n\nf) Fomentar a coesão territorial e corrigir assimetrias de acesso à criação e fruição cultural;\n\ng) Valorizar a missão das entidades profissionais com atividade continuada;\n\nh) Promover a partilha de responsabilidades do Estado, nas dimensões central, regional e local, com os agentes culturais e outras entidades, públicas e privadas, para incentivar boas práticas de empregabilidade e sustentabilidade, combatendo assimetrias económicas e a precariedade no setor cultural;\n\ni) Valorizar a pesquisa e experimentação artísticas como práticas inovadoras do desenvolvimento e do conhecimento;\n\nj) Articular as artes com outras áreas sectoriais;\n\nk) Promover a diversidade e qualificação dos profissionais das artes;\n\nl) Promover a inclusão social, a cidadania e a qualidade de vida das populações.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281105": {
+   "fragment_id": "120488285",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos artísticos",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Objetivos artísticos\n\nSão objetivos específicos para cada área artística:\n\na) Nas artes performativas:\n\ni) Para o circo contemporâneo e artes de rua, fomentar, valorizar e promover a sua prática, enquadrada na produção artística contemporânea;\n\nii) Para a dança, a música e o teatro, fomentar, preservar, valorizar e promover as respetivas culturas nas suas diversas manifestações;\n\nb) Nas artes visuais:\n\ni) Para a arquitetura, o design e a fotografia, enquanto ato artístico, fomentar, preservar, valorizar e promover as respetivas culturas, nas suas diversas manifestações;\n\nii) Para as artes plásticas, fomentar, preservar, valorizar e promover as suas diversas manifestações;\n\niii) Para os novos media, fomentar, valorizar e promover projetos artísticos que tenham na sua génese o recurso a meios digitais e eletrónicos, nas suas diversas manifestações;\n\nc) Para o cruzamento disciplinar, fomentar, preservar, valorizar e promover as múltiplas práticas de reflexão, relação e interseção entre disciplinas artísticas ou com outras áreas do conhecimento.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281106": {
+   "fragment_id": "120488286",
+   "type": 11,
+   "heading": "Artigo 4.º — Domínios artísticos de atividade",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 4.º — Domínios artísticos de atividade\n\nOs domínios de atividade previstos no artigo 6.º do Decreto-Lei n.º 103/2017, de 24 de agosto, têm o seguinte alcance e subdomínios de atividade:\n\na) Criação: o processo de elaboração criativa, em diferentes fases, que origina o objeto artístico, material ou imaterial, e que pode integrar:\n\ni) Conceção, execução e apresentação de obras;\n\nii) Residências artísticas;\n\niii) Interpretação, nomeadamente na área da música;\n\nb) Programação: a gestão da oferta cultural em determinado espaço e tempo, de forma regular ou pontual, como ciclos, mostras, festivais, e que pode integrar:\n\ni) Acolhimento e coproduções;\n\nii) Residências artísticas;\n\nc) Circulação nacional: a itinerância de obras ou projetos pelo território nacional, incluindo as ações que contribuam para esse fim;\n\nd) Internacionalização: a itinerância de obras ou projetos pelo espaço internacional, incluindo as ações que contribuam para esse fim, que podem integrar:\n\ni) Desenvolvimento e circulação internacional de obras e projetos;\n\nii) Ações de intercâmbio e acolhimento de promotores em contexto específico;\n\niii) Fomento da integração em redes internacionais;\n\niv) Tradução e edição de obras nacionais para línguas estrangeiras;\n\ne) Desenvolvimento de públicos: a captação, a sensibilização e a qualificação de públicos diversificados, que pode integrar:\n\ni) Ações em articulação com o ensino formal;\n\nii) Ações de educação não formal;\n\niii) Ações de promoção, proximidade e acessibilidade;\n\nf) Edição: a publicação de uma obra em suporte físico ou digital com o objetivo da sua disseminação e que pode integrar:\n\ni) Apoio à edição nacional;\n\nii) Apoio à tradução de obras estrangeiras;\n\ng) Investigação: o processo de construção do conhecimento humano capaz de gerar novas propostas, no campo das diversas disciplinas artísticas, nomeadamente o conjunto de atividades desenvolvidas com esse fim;\n\nh) Formação: as ações de valorização e qualificação dos profissionais das artes, no território nacional ou internacional.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281107": {
+   "fragment_id": "120488287",
+   "type": 1,
+   "heading": "Capítulo II — Programas de apoio",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "### Capítulo II — Programas de apoio\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281108": {
+   "fragment_id": "120488288",
+   "type": 8,
+   "heading": "Secção I — Programa de apoio sustentado",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "#### Secção I — Programa de apoio sustentado\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281109": {
+   "fragment_id": "120488289",
+   "type": 11,
+   "heading": "Artigo 5.º — Caracterização",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Caracterização\n\n1 - O programa de apoio sustentado tem por objetivo, nomeadamente, a consolidação e estabilidade da atividade profissional regular, preconizada pelo terceiro setor, sendo essencial para a qualificação dos seus intervenientes e para a inovação do serviço público que estes se propõem prestar.\n\n2 - A abertura deste programa de apoio ocorre no ano civil anterior àquele a que reporta o início da sua atribuição por forma a assegurar a contratação dos apoios até ao final do terceiro trimestre desse ano e em conformidade com o que estiver inscrito na declaração anual prevista no artigo 8.º do Decreto-Lei n.º 103/2017, de 24 de agosto.\n\n3 - As modalidades bienal e quadrienal correspondem ao período de concessão de apoio, por dois ou quatro anos respetivamente, sendo exigida uma descrição do projeto para o período de financiamento que evidencie e justifique o apoio de uma atividade continuada e plurianual.\n\n4 - Com o objetivo de fortalecer estruturalmente o setor, este programa de apoio pode contemplar despesas de funcionamento necessárias à prossecução do plano de atividades apresentado, como a capacitação e a contratação de recursos humanos especializados e a afetação de serviços e meios materiais em permanência.\n\n5 - As condições e os limites de apoio às despesas referidas no número anterior são definidos em aviso de abertura.\n\n6 - Considerando a diversidade de entidades elegíveis, de áreas artísticas e conjuntos de atividades que este programa de apoio pode abranger, são fixados em aviso de abertura os elementos diferenciadores para instrução das candidaturas e orientação da sua apreciação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281110": {
+   "fragment_id": "120488290",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de apreciação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de apreciação\n\n1 - As candidaturas são apreciadas de acordo com os seguintes critérios e respetiva ponderação na classificação final:\n\na) Plano de atividades - qualidade artística e relevância cultural do projeto artístico, aferida pela inovação, originalidade, coerência e excelência no contexto em que se propõe intervir e na representação do setor à escala nacional e internacional - 50 %;\n\nb) Entidade e equipa - historial, mérito e adequação aferidos pela relevância estratégica da organização no plano profissional, social e territorial, e pela competência e qualificação dos recursos humanos afetos ao plano de atividades - 15 %;\n\nc) Repercussão social - alcance e visibilidade aferidas pela diversidade de públicos-alvo e condições de acessibilidade, pela estimativa de adesão de participantes, espetadores e visitantes das atividades, bem como pela inovação e eficácia do plano de comunicação - 7,5 %;\n\nd) Projeto de gestão - qualidade e viabilidade aferidas pela coerência do orçamento face à dimensão do projeto e dos recursos humanos e materiais necessários, bem como pela captação de fontes de financiamento alternativas e parcerias estratégicas, incluindo o apoio dos municípios, que permitam atingir o alcance e objetivos do plano de atividades - 20 %;\n\ne) Correspondência aos objetivos - aferida pelo potencial de concretização do serviço público previsto no Decreto-Lei n.º 103/2017, de 24 de agosto, bem como dos objetivos de interesse cultural fixados em aviso de abertura - 7,5 %.\n\n2 - O desempenho no ciclo plurianual anterior, aferido nos termos dos n.os 8 e 9 do artigo 15.º da Portaria n.º 302/2017, de 16 de outubro, quando exista, será considerado na apreciação do critério previsto na alínea b) do número anterior.\n\n3 - São elegíveis para apoio as candidaturas que atinjam pelo menos 60 % da pontuação global máxima, sendo cada critério pontuado de 0 a 20, correspondendo 20 à pontuação mais elevada.\n\n4 - A pontuação final dos critérios de apreciação é obtida através da soma das pontuações de cada um dos critérios previstos no n.º 1, considerando a sua taxa de ponderação de acordo com a seguinte fórmula de cálculo:\n\nPE % = (a) x 50 % b) x 15 % c x 7,5 % d) x 20 % e) x 7,5 %)/20\n\nEm que:\n\nPE % - corresponde à pontuação de elegibilidade da candidatura em escala percentual (0 a 100 %);\n\na), b), c), d) e e) - pontuação atribuída a cada critério de apreciação nos termos do n.º 1.\n\n5 - (Revogado.)\n\n6 - A classificação das candidaturas é calculada através da aplicação da fórmula prevista no n.º 4, sendo as candidaturas ordenadas de forma decrescente, a partir da mais pontuada.\n\n7 - As comissões de apreciação, em função da análise global efetuada, podem propor a transição de candidaturas a apoio à modalidade quadrienal para a modalidade bienal.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281111": {
+   "fragment_id": "120488291",
+   "type": 8,
+   "heading": "Secção II — Programa de apoio a projetos",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "#### Secção II — Programa de apoio a projetos\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281112": {
+   "fragment_id": "120488292",
+   "type": 11,
+   "heading": "Artigo 7.º — Caracterização",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Caracterização\n\n1 - O programa de apoio a projetos tem por objetivo contribuir para o dinamismo e a renovação do tecido artístico, através do incentivo ao surgimento de propostas que reflitam a singularidade do setor.\n\n2 - Este programa integra linhas de financiamento direcionadas a uma atividade ou a um projeto particulares, de ocorrência pontual ou intermitente, e que contemplem o conjunto das ações necessárias à sua concretização.\n\n3 - A abertura deste programa de apoio ocorre, no mínimo, uma vez por ano, e em conformidade com o que tiver sido inscrito na declaração anual prevista no artigo 8.º do Decreto-Lei n.º 103/2017, de 24 de agosto, por forma a assegurar a contratação dos apoios até 15 dias úteis antes do início das atividades a apoiar.\n\n4 - Tendo por fim assumir uma diferenciação positiva das tipologias de candidatura que este programa de apoio pode abranger, em aviso de abertura são considerados os elementos diferenciadores para instrução das candidaturas e orientação da sua apreciação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281113": {
+   "fragment_id": "120488293",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio complementar a projetos",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 8.º — Apoio complementar a projetos\n\nSão elegíveis, nesta modalidade, projetos previamente selecionados por concurso em programas nacionais ou internacionais de financiamento reconhecidos para este efeito pela DGARTES ou projetos que tenham assegurado o mínimo de 80 % do seu custo total.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281114": {
+   "fragment_id": "120488294",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de apreciação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 9.º — Critérios de apreciação\n\n1 - As candidaturas são apreciadas de acordo com os seguintes critérios e respetiva ponderação na classificação final:\n\na) Projeto artístico - qualidade, relevância cultural e equipa - 60 %;\n\nb) Viabilidade - consistência do projeto de gestão e parcerias estabelecidas - 30 %;\n\nc) (Revogado.)\n\nd) Objetivos - correspondência aos objetivos de interesse cultural definidos em aviso de abertura - 10 %.\n\n2 - São elegíveis para apoio as candidaturas que atinjam pelo menos 60 % da pontuação global máxima, sendo cada critério pontuado de 0 a 20, correspondendo 20 à pontuação mais elevada.\n\n3 - A classificação das candidaturas é obtida pela soma das pontuações atribuídas aos critérios previstos no n.º 1, considerando a sua taxa de ponderação de acordo com a seguinte fórmula de cálculo:\n\nPF % = (a) x 60 % + b) x 30 % + d) x 10 %)/20\n\nEm que:\n\nPF % - corresponde à pontuação final da candidatura em escala percentual (0 a 100 %);\n\na), b) e d) - pontuação atribuída a cada critério de apreciação nos termos do n.º 1.\n\n4 - [...].\n\n5 - Os critérios fixados no presente artigo podem não se aplicar ao apoio complementar a projetos previamente selecionados por concurso.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281115": {
+   "fragment_id": "120488295",
+   "type": 8,
+   "heading": "Secção III — Programa de apoio em parceria",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "#### Secção III — Programa de apoio em parceria\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281116": {
+   "fragment_id": "120488296",
+   "type": 11,
+   "heading": "Artigo 10.º — Caracterização",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Caracterização\n\n1 - A DGARTES implementa linhas de apoio em parceria mediante acordo previamente estabelecido com entidades públicas ou privadas, nacionais ou estrangeiras, para o desenvolvimento de determinadas ações ou projetos que concretizem os fins e objetivos dos apoios às artes.\n\n2 - No âmbito do incentivo e da articulação das artes com outras políticas setoriais, este programa visa ultrapassar as assimetrias territoriais e os desequilíbrios sociais e culturais, estimulando a criação de projetos artísticos, bem como o fomento de intercâmbios artísticos e técnicos, pelo território nacional e internacional.\n\n3 - Com o objetivo de viabilizar projetos de continuidade e estruturalmente relevantes para a oferta, acesso e fruição cultural, o programa em parceria pode, em casos especificamente identificados, contemplar despesas de funcionamento para a capacitação e a contratação de recursos humanos especializados e a afetação de serviços e meios materiais em permanência dos planos de atividade.\n\n4 - Os programas em parceria com a administração local são desenvolvidos tendo em consideração critérios de suporte à sinalização das áreas artísticas e dos territórios prioritários, a definir pela DGARTES em articulação com os serviços ou organismos da área da cultura territorialmente competentes.\n\n5 - Os elementos diferenciadores para instrução das candidaturas ao programa em parceria e as orientações para a sua apreciação são estabelecidos no acordo de parceria e no aviso de abertura, quando aplicável.\n\n6 - O acordo de parceria previsto no n.º 1 é publicitado no Balcão Artes.\n\n7 - Sempre que os apoios tenham carácter plurianual a sua contratação deve ocorrer até três meses antes do início das atividades a apoiar.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281117": {
+   "fragment_id": "120488297",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de apreciação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 11.º — Critérios de apreciação\n\n1 - As candidaturas ao abrigo de linhas de apoio decorrentes do presente programa são apreciadas conforme os critérios estabelecidos no acordo de parceria.\n\n2 - Os critérios de apreciação devem basear-se nos critérios definidos no presente regulamento para o programa de apoio sustentado ou para o programa de apoio a projetos, consoante as suas características se aproximem de um ou de outro, sem prejuízo de outros considerados relevantes pelas entidades parceiras.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281118": {
+   "fragment_id": "120488298",
+   "type": 8,
+   "heading": "Secção IV — Cumulação de programas de apoio",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "#### Secção IV — Cumulação de programas de apoio\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281119": {
+   "fragment_id": "120488299",
+   "type": 11,
+   "heading": "Artigo 12.º — Impedimento",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 12.º — Impedimento\n\nEstão impedidas de apresentar candidaturas ao programa de apoio a projetos e ao programa de apoio em parceria as entidades candidatas ou beneficiárias de apoio sustentado, salvo disposição em contrário em aviso de abertura.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281120": {
+   "fragment_id": "120488300",
+   "type": 1,
+   "heading": "Capítulo III — Formas de atribuição do apoio",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "### Capítulo III — Formas de atribuição do apoio\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281121": {
+   "fragment_id": "120488301",
+   "type": 11,
+   "heading": "Artigo 13.º — Concurso",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 13.º — Concurso\n\n1 - No concurso, a apresentação de candidatura pode ser feita por qualquer entidade elegível, nos termos do aviso de abertura.\n\n2 - A verificação das candidaturas é realizada pelos serviços técnicos da DGARTES, nos termos previstos no artigo 20.º\n\n3 - A apreciação das candidaturas é da competência das comissões de apreciação, nos termos previstos no artigo 22.º\n\n4 - O projeto de decisão, resultante da apreciação das candidaturas, é notificado aos candidatos para efeitos de audiência dos interessados nos termos legalmente aplicáveis.\n\n5 - Quando em sede de audiência dos interessados não resultar alteração das candidaturas selecionadas para apoio financeiro não há lugar à realização de nova audiência.\n\n6 - A decisão final da comissão de apreciação, que inclui a lista definitiva da pontuação e dos apoios financeiros a conceder, é homologada pelo diretor-geral da DGARTES e notificada aos candidatos.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281122": {
+   "fragment_id": "120488302",
+   "type": 11,
+   "heading": "Artigo 14.º — Concurso limitado",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 14.º — Concurso limitado\n\n1 - No concurso limitado aplica-se, com as necessárias adaptações, o disposto no artigo 13.º, podendo ocorrer uma fase de negociação entre a DGARTES e as entidades que foram convidadas a apresentar candidatura.\n\n2 - No concurso limitado, podem ser definidos em aviso de abertura, critérios de apreciação e respetiva ponderação distintos dos previstos no programa de apoio em que se insere.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281123": {
+   "fragment_id": "120488303",
+   "type": 11,
+   "heading": "Artigo 15.º — Procedimento simplificado",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 15.º — Procedimento simplificado\n\n1 - No procedimento simplificado as candidaturas são apreciadas pelos serviços técnicos da DGARTES, que submetem proposta fundamentada, com base nos critérios de apreciação do programa do apoio em que se inserem e na disponibilidade financeira, à decisão do diretor-geral da DGARTES.\n\n2 - A DGARTES notifica o interessado da decisão de apreciação da candidatura no prazo máximo de 30 dias úteis.\n\n3 - No caso dos apoios previstos na alínea b) do n.º 2 do artigo 11.º do Decreto-Lei n.º 103/2017, de 24 de agosto, o procedimento simplificado apenas pode ser utilizado se o valor do apoio a atribuir não exceder o montante de (euro) 5000.\n\n4 - O prazo previsto na alínea b) no n.º 1 do artigo 18.º não é aplicável a esta forma de atribuição do apoio.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281124": {
+   "fragment_id": "120488304",
+   "type": 11,
+   "heading": "Artigo 16.º — Protocolo",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 16.º — Protocolo\n\n1 - O protocolo pode ser adotado no âmbito de um programa em parceria, quando seja a forma de atribuição do apoio financeiro acordada, e a respetiva proposta for homologada pelo membro do Governo responsável pela área da cultura.\n\n2 - Após a fixação das condições do programa em parceria, os serviços técnicos da DGARTES promovem a discussão dos termos protocolares com as entidades elegíveis, e submetem, sob proposta fundamentada, a atribuição do apoio e a minuta do protocolo a celebrar à decisão do diretor-geral da DGARTES e de outras entidades intervenientes, quando aplicável.\n\n3 - A minuta de protocolo a celebrar com as entidades elegíveis respeita os requisitos e obedece aos termos e condições definidos no acordo celebrado entre as entidades parceiras.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281125": {
+   "fragment_id": "120488305",
+   "type": 1,
+   "heading": "Capítulo IV — Tramitação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "### Capítulo IV — Tramitação\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281126": {
+   "fragment_id": "120488306",
+   "type": 11,
+   "heading": "Artigo 17.º — Balcão Artes",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 17.º — Balcão Artes\n\n1 - Os procedimentos inerentes à atribuição do apoio financeiro, através de concurso, procedimento simplificado ou protocolo, decorrem no Balcão Artes.\n\n2 - As entidades que pretendam apresentar candidatura, nos termos do presente regulamento, devem registar-se na plataforma prevista no número anterior, com os seguintes elementos de identificação:\n\na) Designação da entidade;\n\nb) Número de identificação fiscal;\n\nc) Natureza jurídica;\n\nd) Sede e zona onde exerce predominantemente a sua atividade;\n\ne) Endereço de correio eletrónico para comunicações;\n\nf) Responsáveis pela direção artística e pela gestão administrativa e financeira;\n\ng) Identificação do técnico oficial de contas, quando aplicável;\n\nh) Historial da entidade e/ou notas biográficas dos dirigentes.\n\n3 - Os elementos previstos no número anterior instruem automaticamente a identificação da entidade em todas as candidaturas que venha a submeter.\n\n4 - As entidades devem atualizar o respetivo registo na plataforma em caso de alteração de qualquer dos elementos previstos no n.º 2, no prazo máximo de 30 dias após o conhecimento dessa alteração.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281127": {
+   "fragment_id": "120488307",
+   "type": 11,
+   "heading": "Artigo 18.º — Aviso de abertura",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 18.º — Aviso de abertura\n\n1 - O aviso de abertura fixa o prazo para a apresentação das candidaturas, que não pode ser inferior a:\n\na) 30 dias úteis, no programa de apoio sustentado;\n\nb) 15 dias úteis, no programa de apoio a projetos;\n\nc) 10 dias úteis, no programa de apoio em parceria.\n\n2 - Para além dos elementos previstos no artigo 9.º do Decreto-Lei n.º 103/2017, de 24 de agosto, o aviso de abertura pode especificar:\n\na) Princípios subjacentes à distribuição do financiamento por região e por áreas artísticas e/ou domínios de atividade;\n\nb) Requisitos de admissibilidade determinados em função de patamares de financiamento;\n\nc) Percentagens máximas de apoio a atribuir;\n\nd) Documentação comprovativa exigida;\n\ne) As condições e limites de apoio às despesas de funcionamento necessárias à prossecução do plano de atividades.\n\n3 - Os requisitos de admissibilidade referidos na alínea b) do número anterior podem considerar o desenvolvimento sustentável, a diversidade, a quantidade, a amplitude, o âmbito territorial das atividades, o tipo de despesas admitidas, a percentagem máxima de apoio sobre o custo total do plano de atividades proposto ou do projeto, os comprovativos de apoios estruturantes e complementares e/ou recursos próprios, bem como a relação contratual com trabalhadores.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281128": {
+   "fragment_id": "120488308",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação de candidaturas",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 19.º — Apresentação de candidaturas\n\n1 - As candidaturas são redigidas integralmente em língua portuguesa, com exceção das declarações emitidas por entidade de país estrangeiro que podem ser redigidas em inglês, e com respeito pelo disposto no aviso de abertura.\n\n2 - As candidaturas não podem sofrer alterações posteriores à data de entrega, com exceção das que decorram do previsto no n.º 3 do artigo 20.º\n\n3 - A apresentação de candidaturas é obrigatoriamente efetuada em formulário disponibilizado no Balcão Artes, que pode contemplar, em função da especificidade de cada programa de apoio, nomeadamente:\n\na) Identificação da entidade candidata;\n\nb) Exposição do plano de atividades plurianual ou do projeto:\n\ni) Objetivos artísticos e profissionais, linhas de orientação e estratégia de desenvolvimento;\n\nii) Atividades a desenvolver em território nacional e/ou no estrangeiro;\n\niii) Equipas artística e técnica, incluindo notas biográficas dos elementos não integrados no registo da entidade previsto no n.º 2 do artigo 17.º;\n\niv) Instalações de que dispõem e o respetivo regime legal de utilização;\n\nv) Públicos-alvo e iniciativas de captação e sensibilização;\n\nvi) Calendarização;\n\nvii) Plano de comunicação;\n\nc) Previsão orçamental:\n\ni) Montante financeiro a que se candidata;\n\nii) Despesas estimadas, nomeadamente encargos com pessoal, espaço, equipamentos, produção, gestão, comunicação e outros;\n\niii) Receitas estimadas, tais como receitas próprias e, devidamente comprovados, os acordos de coprodução, patrocínios, mecenato e outros apoios e financiamentos;\n\nd) Indicação da situação regularizada perante a administração fiscal e a segurança social;\n\ne) Outros elementos considerados relevantes.\n\n4 - Para efeito do disposto no presente regulamento, as entidades candidatas ao programa de apoio sustentado devem enquadrar a sua atividade em apenas uma candidatura e, em caso de concessão do apoio, o respetivo contrato constitui o único instrumento de regulação para o período a que se destina, salvo o disposto no artigo 12.º\n\n5 - Sempre que seja opção das entidades inscrever em candidatura uma coprodução com outras entidades também candidatas a um programa de apoio, a respetiva inscrição deve ser acompanhada de uma declaração de repartição detalhada de responsabilidades, incluindo financeiras, das entidades envolvidas, devidamente assinada pelas mesmas.\n\n6 - No programa de apoio sustentado as entidades devem apresentar o plano de atividades e orçamento detalhado respeitante ao primeiro ano de atividades, e em relação a cada um dos anos seguintes, deve ser entregue uma síntese dos dados solicitados, de acordo com o formulário disponibilizado.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-B/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2019-120446620), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281129": {
+   "fragment_id": "120488309",
+   "type": 11,
+   "heading": "Artigo 20.º — Verificação das candidaturas",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 20.º — Verificação das candidaturas\n\n1 - A verificação das candidaturas consiste na análise dos elementos que compõem uma candidatura e da sua conformidade com os requisitos e as condições definidas no presente regulamento ou outros que venham a ser fixados em aviso de abertura.\n\n2 - Só são admitidas aos programas de apoio as candidaturas com os formulários devida e completamente preenchidos e acompanhados pelos documentos exigidos, bem como aquelas que não se encontrem em nenhum dos motivos de não admissão previstos no artigo seguinte.\n\n3 - No caso das candidaturas que não se encontrem instruídas com todos os documentos exigidos, são as entidades candidatas notificadas individualmente para, no prazo máximo de 5 dias úteis, apresentar os documentos em falta, sob pena de exclusão automática da candidatura apresentada.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281130": {
+   "fragment_id": "120488310",
+   "type": 11,
+   "heading": "Artigo 21.º — Não admissão de candidaturas",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 21.º — Não admissão de candidaturas\n\n1 - As candidaturas aos programas de apoio não são admitidas nos seguintes casos:\n\na) Se apresentadas fora do prazo;\n\nb) Se apresentadas por uma entidade não elegível, em desconformidade com o estabelecido no artigo 2.º do Decreto-Lei n.º 103/2017, de 24 de agosto;\n\nc) Se a entidade é beneficiária de apoio sustentado, salvo o disposto no artigo 12.º;\n\nd) Se a proposta não se encontrar instruída nos termos previstos no artigo 19.º;\n\ne) A não realização de atividades maioritariamente públicas, salvo disposição em contrário no aviso de abertura;\n\nf) A não incidência maioritária no território abrangido.\n\n2 - A não admissão de candidatura nos termos do presente artigo é notificada aos respetivos candidatos.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281131": {
+   "fragment_id": "120488311",
+   "type": 11,
+   "heading": "Artigo 22.º — Apreciação de candidaturas",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 22.º — Apreciação de candidaturas\n\nA apreciação das candidaturas é realizada nos termos do presente regulamento e do regulamento relativo à composição e funcionamento das comissões de apreciação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281132": {
+   "fragment_id": "120488312",
+   "type": 11,
+   "heading": "Artigo 23.º — Determinação do montante do apoio financeiro",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 23.º — Determinação do montante do apoio financeiro\n\n1 - Na determinação do apoio financeiro a atribuir às candidaturas elegíveis, é tida em consideração, por esta ordem:\n\na) A dotação financeira global disponível;\n\nb) A afetação da dotação financeira disponível por região, área artística e domínio de atividade, quando aplicável;\n\nc) Os limites financeiros dos patamares fixados, quando aplicável;\n\nd) A classificação e a ordenação das candidaturas após apreciação.\n\n2 - Os patamares de financiamento fixados no aviso de abertura podem considerar uma das seguintes possibilidades:\n\na) A atribuição de um montante fixo - igual ao montante do apoio a que se candidata;\n\nb) A atribuição de um montante ponderado - proporcional à classificação das candidaturas elegíveis.\n\n3 - No programa de apoio sustentado o cálculo do montante previsto na alínea b) do número anterior considera apenas a pontuação obtida pelas candidaturas nos critérios de apreciação previstos nos n.os 1 e 2 do artigo 6.º\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281133": {
+   "fragment_id": "120488313",
+   "type": 1,
+   "heading": "Capítulo V — Formalização do apoio e relatório de atividades e contas",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "### Capítulo V — Formalização do apoio e relatório de atividades e contas\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281134": {
+   "fragment_id": "120488314",
+   "type": 11,
+   "heading": "Artigo 24.º — Entrega de documentação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 24.º — Entrega de documentação\n\n1 - As entidades beneficiárias submetem ou atualizam, consoante o caso, no Balcão Artes, no prazo de 5 dias úteis a contar da notificação da decisão final, os seguintes documentos:\n\na) No caso de se terem verificado alterações, cópia do documento de constituição e respetivos estatutos, devidamente atualizados, bem como cópia da ata que comprove os atuais corpos dirigentes, ou, se sujeita a registo comercial, cópia da certidão permanente com todos os registos em vigor ou indicação do respetivo número de acesso para a sua consulta no respetivo sítio da Internet;\n\nb) Documentos comprovativos da situação regularizada perante a administração fiscal e a segurança social ou autorização para a sua consulta nos respetivos sítios da Internet;\n\nc) Documentos comprovativos das autorizações ou dos pedidos relativos às obras que impliquem direitos de autor e direitos conexos ou declaração de honra que o ateste;\n\nd) Documentos comprovativos exigidos para o exercício da atividade ou declaração de honra que o ateste;\n\ne) Ficha de entidade devidamente preenchida, conforme modelo disponibilizado pela DGARTES;\n\nf) No caso dos beneficiários de apoio sustentado, informação relativa às instalações, designadamente cópia do pedido de vistoria à Inspeção-Geral das Atividades Culturais, quando aplicável, autorizações camarárias ou outras, ou declaração de honra que o ateste.\n\n2 - A atribuição do apoio e a celebração do contrato previsto no artigo 26.º ficam dependentes da submissão no Balcão Artes, no prazo estipulado, da documentação prevista no número anterior.\n\n3 - No caso de grupo informal ou de pessoa singular, pode ser indicada uma pessoa coletiva com a qual se pretende que seja celebrado o contrato, desde que os documentos previstos no n.º 1 respeitantes a esta sejam também entregues no prazo estipulado, ficando a mesma sujeita ao cumprimento das condições e obrigações que impendem sobre a entidade beneficiária.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281135": {
+   "fragment_id": "120488315",
+   "type": 11,
+   "heading": "Artigo 25.º — Ajustamento",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 25.º — Ajustamento\n\n1 - Sempre que o montante do apoio financeiro atribuído seja inferior ao montante do apoio financeiro a que se candidata, a entidade beneficiária apresenta, no prazo de 10 dias úteis, uma proposta de ajustamento ao plano de atividades ou projeto e previsão orçamental, sem desvirtuar as características que presidiram à atribuição do apoio.\n\n2 - Cabe à respetiva comissão de apreciação a validação, no prazo máximo de 10 dias úteis, do ajustamento apresentado nos termos do número anterior.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281136": {
+   "fragment_id": "120488316",
+   "type": 11,
+   "heading": "Artigo 26.º — Formalização",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 26.º — Formalização\n\n1 - A atribuição do apoio financeiro é formalizada mediante contrato escrito nos termos previstos no artigo 16.º do Decreto-Lei n.º 103/2017, de 24 de agosto, sem prejuízo do disposto no número seguinte.\n\n2 - O acordo escrito no âmbito do procedimento simplificado contém os seguintes elementos:\n\na) A proposta apresentada pela entidade;\n\nb) Os direitos e obrigações das partes;\n\nc) O montante de financiamento;\n\nd) O prazo de vigência.\n\n3 - Salvo situações de força maior, caso a entidade beneficiária não assine o contrato no prazo de 15 dias úteis a contar da data de envio do mesmo, o procedimento finda quanto a esta, podendo a DGARTES selecionar para a contratação do apoio financeiro a entidade beneficiária que ficou graduada no lugar imediatamente seguinte.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281137": {
+   "fragment_id": "120488317",
+   "type": 11,
+   "heading": "Artigo 27.º — Relatório de atividades e contas",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 27.º — Relatório de atividades e contas\n\n1 - As entidades beneficiárias de apoio estão obrigadas à entrega de um relatório de atividades e contas com a periodicidade definida no contrato e elaborado segundo formulário disponibilizado pela DGARTES no Balcão Artes.\n\n2 - Nos programas de apoio que incluam o domínio da circulação internacional, para efeitos avaliativos da atividade desenvolvida, a entidade beneficiária entrega também uma declaração emitida pela entidade de acolhimento do projeto, conforme formulário a disponibilizar pela DGARTES.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281138": {
+   "fragment_id": "120488318",
+   "type": 1,
+   "heading": "Capítulo VI — Incumprimento das obrigações contratuais",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "### Capítulo VI — Incumprimento das obrigações contratuais\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281139": {
+   "fragment_id": "120488319",
+   "type": 11,
+   "heading": "Artigo 28.º — Incumprimento",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 28.º — Incumprimento\n\n1 - O não cumprimento pelas entidades beneficiárias das respetivas obrigações contratuais, bem como as omissões ou falsas declarações no âmbito de informações prestadas à DGARTES ou as irregularidades detetadas em sede de auditoria, são sancionados nos termos dos artigos seguintes.\n\n2 - O não cumprimento, sempre que identificado pela comissão de avaliação, é comunicado por esta à DGARTES para prossecução do procedimento subsequente.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281140": {
+   "fragment_id": "120488320",
+   "type": 11,
+   "heading": "Artigo 29.º — Suspensão dos pagamentos",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 29.º — Suspensão dos pagamentos\n\n1 - Determinam a suspensão do pagamento do apoio financeiro os seguintes incumprimentos por parte da entidade beneficiária:\n\na) Não disponibilização de informação solicitada pela DGARTES ou pelas comissões de avaliação;\n\nb) Não atualização da informação disponível no Balcão Artes, nomeadamente no que concerne à sua identificação, à equipa, ao plano de atividades, à agenda e ao reporte da bilheteira;\n\nc) As irregularidades no cumprimento de obrigações legais e contratuais detetadas em sede de auditoria.\n\n2 - O direito de suspensão do pagamento do apoio é exercido mediante declaração da DGARTES enviada à entidade beneficiária e produz efeitos no prazo de 5 dias úteis a contar da expedição da declaração caso não se verifique neste prazo a regularização do incumprimento por parte da entidade beneficiária, e mantém-se até à sua sanação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281141": {
+   "fragment_id": "120488321",
+   "type": 11,
+   "heading": "Artigo 30.º — Sanção pecuniária",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 30.º — Sanção pecuniária\n\n1 - Determinam a aplicação de uma sanção pecuniária no montante de 1 % do montante do apoio atribuído os seguintes incumprimentos imputáveis à entidade beneficiária, e por cada incumprimento verificado:\n\na) Inviabilização do acesso dos membros das comissões de avaliação às instalações e às atividades;\n\nb) Não inserção dos logótipos da República Portuguesa - Cultura e da DGARTES nos materiais promocionais da atividade ou projeto objeto de apoio;\n\nc) Fração de 30 dias de atraso na entrega do relatório de atividades e contas nos termos contratualmente definidos, até ao limite de 6 meses.\n\n2 - A sanção pecuniária prevista no número anterior efetiva-se mediante declaração da DGARTES enviada à entidade beneficiária e produz efeitos na data da expedição da declaração, sendo o valor correspondente deduzido no pagamento seguinte a realizar.\n\n3 - Caso não existam pagamentos por realizar, não sendo por isso possível a execução do procedimento previsto no número anterior, a DGARTES procede à emissão de uma guia de reposição, ficando ainda a entidade beneficiária impedida de apresentar candidatura a novos programas de apoio até proceder à liquidação do montante em causa.\n\n4 - O incumprimento previsto na alínea c) do n.º 1 é de conhecimento oficioso, não carecendo de qualquer declaração por parte da DGARTES.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281142": {
+   "fragment_id": "120488322",
+   "type": 11,
+   "heading": "Artigo 31.º — Resolução",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 31.º — Resolução\n\n1 - O não cumprimento, integral ou parcial, do objeto contratual por facto imputável à entidade beneficiária determina a resolução do contrato a título sancionatório, bem como a reposição da quantia recebida correspondente ao plano de atividades não cumprido.\n\n2 - O direito de resolução é exercido mediante declaração da DGARTES à entidade beneficiária e produz efeitos no prazo de 10 dias úteis a contar da data de expedição da respetiva declaração.\n\n3 - A resolução do contrato determina ainda o impedimento de a entidade beneficiária apresentar candidatura a novos programas de apoio nos seguintes termos:\n\na) Nos 3 anos civis subsequentes, se não entregar o relatório de atividades e contas, para além do prazo de 6 meses previsto na alínea c) do n.º 1 do artigo 30.º;\n\nb) Enquanto não proceder à reposição da quantia recebida correspondente ao plano de atividades não cumprido.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281143": {
+   "fragment_id": "120488323",
+   "type": 1,
+   "heading": "Capítulo VII — Disposição final",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "### Capítulo VII — Disposição final\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281144": {
+   "fragment_id": "120488324",
+   "type": 11,
+   "heading": "Artigo 32.º — Comunicações",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 32.º — Comunicações\n\n1 - A comunicação entre a DGARTES e as entidades candidatas e beneficiárias, designadamente em matéria de notificações, é efetuada sempre para o endereço eletrónico indicado no Balcão Artes.\n\n2 - As notificações e as comunicações, quando efetuadas através de correio eletrónico ou de outro meio de transmissão escrita e eletrónica de dados, consideram-se feitas na data da respetiva expedição.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  }
+ }
+}

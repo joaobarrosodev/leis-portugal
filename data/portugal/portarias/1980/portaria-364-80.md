@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:473289:por
+title: Portaria n.º 364/80
+short_title: null
+summary: Cria cartões especiais de identificação para uso do pessoal do Instituto do Azeite e Produtos Oleaginosos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo - Secretaria de Estado do Comércio Interno
+proposing_entity: null
+official_number: 364/80
+official_date: null
+publication_date: '1980-07-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/1980, Série I de 1980-07-02
+  number: '150'
+  series: I
+  supplement: null
+  pages: 1524 - 1524
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15000/15241524.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '473289'
+  dre_path: /dr/detalhe/portaria/364-1980-473289
+  internal: pt:dre:473289:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/364-1980-473289
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/364-1980-473289
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-05-20T00:00:00Z'
+integrity:
+  source_sha256: c2e790d6fb5d8bf10f6fbc9502bb257d9faccee1d5162e1a054ced2911e84a82
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-364-473289.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:573691:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 364/80
+
+de 2 de Julho
+
+Considerando a conveniência de, em cumprimento do disposto no [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), de 31 de Outubro, criar para todos os funcionários do Instituto do Azeite e Produtos Oleaginosos um meio de identificação que permita o fácil reconhecimento da sua qualidade:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, ao abrigo da alínea d) do artigo 202.º da Constituição e dos artigos 20.º e 21.º do [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), de 31 de Outubro, o seguinte:
+
+1.º São criados, nos termos da presente portaria, cartões especiais de identificação para uso do pessoal do Instituto do Azeite e Produtos Oleaginosos.
+
+2.º Os cartões serão de modelo anexo a esta portaria e sobre a assinatura do presidente da direcção do Instituto do Azeite e Produtos Oleaginosos será aposto o selo branco privativo do organismo.
+
+3.º O fundo dos cartões será de cor branca, tendo impresso, a verde claro, a designação «Instituto do Azeite e Produtos Oleaginosos». Terão na frente uma barra oblíqua, que irá do canto inferior esquerdo ao canto superior direito, contendo as cores da bandeira nacional, com a largura de 10 mm, e no verso, no canto inferior esquerdo, a indicação de que o modelo foi aprovado pela presente portaria.
+
+4.º Os cartões serão emitidos pelo Instituto do Azeite e Produtos Oleaginosos e serão assinados, nos locais respectivos, pelo presidente da direcção e pelo portador.
+
+5.º Os cartões destinados a ser utilizados pelo presidente da direcção, directores e funcionários da fiscalização terão impresso no verso o «artigo 20.º e os n.os 1 e 2 do artigo 21.º do [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), de 31 de Outubro».
+
+6.º Os cartões deverão ser substituídos quando se verifique qualquer alteração nos elementos deles constantes e serão obrigatoriamente recolhidos quando os seus titulares cessem o exercício das respectivas funções.
+
+7.º Em caso de extravio, de destruição ou deterioração, será passada uma 2.ª via, de que se fará referência expressa no cartão, mantendo este, todavia, o número anterior.
+
+8.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Secretaria de Estado do Comércio Interno, 17 de Junho de 1980. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
+
+Modelo a que se refere o n.º 2.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/15000/15241524.pdf))](https://files.diariodarepublica.pt/1s/1980/07/15000/15241524.pdf)

@@ -1,0 +1,1129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:278033:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2002-123281001",
+ "dre_path": "/dr/detalhe/lei/14-2002-278033",
+ "source_lastmod": "2025-06-18",
+ "versions": [
+  {
+   "date": "2002-02-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123259703",
+    "123259704",
+    "123259705",
+    "123259706",
+    "123259707",
+    "123259708",
+    "123259709",
+    "123259710",
+    "123259711",
+    "123259712",
+    "123259713",
+    "123259714",
+    "123259715",
+    "123259716",
+    "123259717",
+    "123259718",
+    "123259719",
+    "123259720",
+    "123259721",
+    "123259722",
+    "123259723",
+    "123259724",
+    "123259725",
+    "123259726",
+    "123259727",
+    "123259728",
+    "123259729",
+    "123259730",
+    "123259731",
+    "123259732",
+    "123259733",
+    "123259734",
+    "123259735",
+    "123259736",
+    "123259737",
+    "123259738",
+    "123259739",
+    "123259740",
+    "123259741",
+    "123259742",
+    "123259743",
+    "123259744",
+    "123259745",
+    "123259746",
+    "123259747",
+    "123259748",
+    "123259749",
+    "123259750",
+    "123259751",
+    "123259752",
+    "123259753",
+    "123259754",
+    "123259755",
+    "123259756",
+    "123259757",
+    "123259758",
+    "123259759"
+   ]
+  },
+  {
+   "date": "2019-10-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123279812:por",
+     "title": "Lei n.º 49/2019",
+     "published": "2019-07-18",
+     "dre_path": "/dr/detalhe/lei/49-2019-123279812"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 17.º-A",
+    "Adita Artigo 42.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Secção I",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Secção II",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Secção IV",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 44.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 45.º"
+   ],
+   "fragments": [
+    "123259703",
+    "123259704",
+    "921945073",
+    "123259706",
+    "123259707",
+    "921945074",
+    "922107975",
+    "922107976",
+    "922107977",
+    "922107978",
+    "922107979",
+    "123259714",
+    "922107980",
+    "123259716",
+    "922107981",
+    "922108012",
+    "922107982",
+    "922107983",
+    "922107984",
+    "922107985",
+    "922107986",
+    "922108015",
+    "922107987",
+    "922108010",
+    "922108013",
+    "922107988",
+    "922107989",
+    "922107990",
+    "123259729",
+    "922107991",
+    "123259731",
+    "123259732",
+    "922107992",
+    "922107993",
+    "922108014",
+    "922107994",
+    "922107995",
+    "922107996",
+    "922108016",
+    "922107997",
+    "123259741",
+    "922107998",
+    "123259743",
+    "922107999",
+    "922108000",
+    "922108001",
+    "922108002",
+    "922108003",
+    "922108004",
+    "922108005",
+    "123259751",
+    "922108006",
+    "922108007",
+    "922108011",
+    "123259754",
+    "922108008",
+    "922108009",
+    "922108017",
+    "921943114",
+    "123259759",
+    "123259760"
+   ]
+  }
+ ],
+ "fragments": {
+  "123259703": {
+   "fragment_id": "123281002",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 14/2002\n\nde 19 de Fevereiro\n\nRegula o exercício da liberdade sindical e os direitos de negociação colectiva e de participação do pessoal da Polícia de Segurança Pública (PSP).\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "123259704": {
+   "fragment_id": "123281003",
+   "type": 13,
+   "heading": "Título I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Âmbito de aplicação"
+  },
+  "123259705": {
+   "fragment_id": "123281004",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei regula o exercício da liberdade sindical e os direitos de negociação colectiva e de participação do pessoal da Polícia de Segurança Pública com funções policiais, designada abreviadamente pela sigla PSP.\n\n2 - Ao pessoal da PSP não integrado em carreiras técnico-policiais aplica-se o regime geral dos trabalhadores da Administração Pública."
+  },
+  "123259706": {
+   "fragment_id": "123281005",
+   "type": 13,
+   "heading": "Título II — Da liberdade sindical",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Da liberdade sindical"
+  },
+  "123259707": {
+   "fragment_id": "123281006",
+   "type": 1,
+   "heading": "Capítulo I — Direitos e garantias fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Direitos e garantias fundamentais"
+  },
+  "123259708": {
+   "fragment_id": "123281007",
+   "type": 11,
+   "heading": "Artigo 2.º — Direitos fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direitos fundamentais\n\n1 - É assegurada ao pessoal da PSP com funções policiais liberdade sindical, nos termos da Constituição e do regime especial previsto na presente lei.\n\n2 - O direito de filiação e participação activa em associações sindicais está restrito às associações sindicais compostas exclusivamente por pessoal com funções policiais em serviço efectivo nos quadros da PSP.\n\n3 - São assegurados, ainda, os direitos de exercício colectivo, nos termos constitucionalmente consagrados e concretizados em lei, sem prejuízo do disposto na presente lei.\n\n4 - As associações sindicais legalmente constituídas prosseguem fins de natureza sindical, sem prejuízo do disposto no artigo 3.º da presente lei.\n\n5 - Está vedada às associações sindicais a federação ou confederação com outras associações sindicais que não sejam exclusivamente compostas por pessoal com funções policiais em serviço efectivo nos quadros da PSP.\n\n6 - Sem prejuízo do disposto no número anterior, as associações sindicais têm o direito de estabelecer relações com organizações, nacionais ou internacionais, que sigam objectivos análogos.\n\n7 - É reconhecida às associações sindicais a legitimidade processual para defesa dos direitos e interesses colectivos e para defesa colectiva dos direitos e interesses individuais legalmente protegidos do pessoal com funções policiais que representem, beneficiando da isenção do pagamento de custas.\n\n8 - A defesa colectiva dos direitos e interesses individuais legalmente protegidos previstos no número anterior não pode implicar limitação da autonomia individual do pessoal da PSP com funções policiais."
+  },
+  "123259709": {
+   "fragment_id": "123281008",
+   "type": 11,
+   "heading": "Artigo 3.º — Restrições ao exercício da liberdade sindical",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Restrições ao exercício da liberdade sindical\n\nAo pessoal da PSP com funções policiais são aplicáveis, atendendo à natureza e missão desta força de segurança, as seguintes restrições ao exercício de actividade sindical, não podendo:\n\na) Fazer declarações que afectem a subordinação da polícia à legalidade democrática, bem como a sua isenção política e partidária;\n\nb) Fazer declarações sobre matérias de que tomem conhecimento no exercício das suas funções e constituam segredo de Estado ou de justiça ou respeitem a matérias relativas ao dispositivo ou actividade operacional da polícia classificadas de reservado nos termos legais;\n\nc) Convocar reuniões ou manifestações de carácter político ou partidário ou nelas participar, excepto, neste caso, se trajar civilmente, e, tratando-se de acto público, não integrar a mesa, usar da palavra ou exibir qualquer tipo de mensagem;\n\nd) Exercer o direito à greve."
+  },
+  "123259710": {
+   "fragment_id": "123281009",
+   "type": 11,
+   "heading": "Artigo 4.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Garantias\n\n1 - O pessoal da PSP com funções policiais não pode ser prejudicado, beneficiado, isento de um dever ou privado de qualquer direito em virtude dos direitos de associação sindical ou pelo exercício da actividade sindical, sem prejuízo do disposto no artigo anterior.\n\n2 - Os membros dos corpos gerentes e os delegados sindicais, na situação de candidatos ou já eleitos, não podem ser transferidos do local de trabalho sem o seu acordo expresso e sem audição da associação sindical respectiva.\n\n3 - O disposto no número anterior não é aplicável quando manifesto interesse público, devidamente fundamentado, o exigir e enquanto este permanecer."
+  },
+  "123259711": {
+   "fragment_id": "123281010",
+   "type": 11,
+   "heading": "Artigo 5.º — Constituição e alterações estatutárias das associações sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Constituição e alterações estatutárias das associações sindicais\n\nA constituição e alterações estatutárias das associações sindicais do pessoal da PSP com funções policiais rege-se pelo disposto na presente lei e, subsidiariamente, pelo Decreto-Lei n.º 215-B/75, de 30 de Abril."
+  },
+  "123259712": {
+   "fragment_id": "123281011",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Documentação\n\nO Ministério do Trabalho e da Solidariedade remeterá, oficiosamente, ao Ministério da Administração Interna cópia da convocatória da assembleia constituinte da associação sindical, dos respectivos estatutos, da acta da assembleia geral eleitoral e da relação contendo a identificação dos titulares dos corpos gerentes."
+  },
+  "123259713": {
+   "fragment_id": "123281012",
+   "type": 11,
+   "heading": "Artigo 7.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Incompatibilidades\n\nO exercício de cargos em corpos gerentes de associações sindicais é incompatível com as funções dirigentes de:\n\na) Director nacional e directores nacionais-adjuntos;\n\nb) Inspector-geral;\n\nc) Comandantes dos comandos metropolitanos, regionais e de polícia;\n\nd) Director do Instituto Superior de Ciências Policiais e de Segurança Interna;\n\ne) Comandante da Escola Prática de Polícia;\n\nf) Comandantes do Corpo de Intervenção do Grupo de Operações Especiais e do Corpo de Segurança Pessoal;\n\ng) Directores de departamento com atribuições exclusiva ou predominantemente policiais."
+  },
+  "123259714": {
+   "fragment_id": "123281013",
+   "type": 11,
+   "heading": "Artigo 8.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sede\n\nAs associações sindicais têm obrigatoriamente sede em território nacional."
+  },
+  "123259715": {
+   "fragment_id": "123281014",
+   "type": 11,
+   "heading": "Artigo 9.º — Quotizações sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Quotizações sindicais\n\n1 - As quotizações sindicais são descontadas na fonte, procedendo-se à sua remessa às associações sindicais interessadas, nos termos dos números seguintes.\n\n2 - O sistema previsto no número anterior produzirá efeitos mediante declaração individual de autorização do associado, a enviar, por meios seguros e idóneos, ao serviço processador e à associação sindical.\n\n3 - A declaração de autorização ou desistência pode ser feita a todo o tempo, conterá o nome e a assinatura do associado, a associação sindical em que está inscrito e o valor da quota e produzirá efeitos no mês seguinte ao da sua entrega."
+  },
+  "123259716": {
+   "fragment_id": "123281015",
+   "type": 1,
+   "heading": "Capítulo II — Exercício da actividade sindical",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício da actividade sindical"
+  },
+  "123259717": {
+   "fragment_id": "123281016",
+   "type": 8,
+   "heading": "Secção I — Corpos gerentes e faltas dos seus membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Corpos gerentes e faltas dos seus membros"
+  },
+  "123259718": {
+   "fragment_id": "123281017",
+   "type": 11,
+   "heading": "Artigo 11.º — Corpos gerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Corpos gerentes\n\n1 - Consideram-se corpos gerentes da associação sindical os estatutariamente consagrados e cuja competência abranja o âmbito, pessoal e territorial, estatutariamente definido.\n\n2 - Para os efeitos da presente lei não se consideram corpos gerentes a assembleia geral, o congresso ou outros órgãos equivalentes, bem como quaisquer outros de funções consultivas, de apoio técnico ou logístico."
+  },
+  "123259719": {
+   "fragment_id": "123281018",
+   "type": 11,
+   "heading": "Artigo 12.º — Faltas dos membros dos corpos gerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Faltas dos membros dos corpos gerentes\n\n1 - Sem prejuízo do disposto no número seguinte, as faltas dadas pelos membros dos corpos gerentes para o exercício das suas funções sindicais consideram-se justificadas e contam, para todos os efeitos legais, como serviço efectivo, salvo quanto à remuneração.\n\n2 - O pessoal referido no número anterior tem, contudo, direito a um crédito de quatro dias remunerados por mês para o exercício das suas funções."
+  },
+  "123259720": {
+   "fragment_id": "123281019",
+   "type": 11,
+   "heading": "Artigo 13.º — Formalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formalidades\n\n1 - A associação sindical interessada comunicará, por meios idóneos e seguros, à unidade orgânica de que dependam os membros dos órgãos referidos nos artigos anteriores as datas e o número de dias de que os mesmos necessitam para o exercício das respectivas funções.\n\n2 - A comunicação prevista no número anterior será feita com dois dias de antecedência."
+  },
+  "123259721": {
+   "fragment_id": "123281020",
+   "type": 11,
+   "heading": "Artigo 14.º — Acumulação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acumulação de créditos\n\nO crédito de faltas de cada membro dos corpos gerentes da associação sindical pode, por ano civil, ser acumulado."
+  },
+  "123259722": {
+   "fragment_id": "123281021",
+   "type": 11,
+   "heading": "Artigo 15.º — Formalidades para a acumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Formalidades para a acumulação\n\nA utilização dos créditos acumulados deve ser comunicada pela associação sindical à unidade orgânica de que dependa o membro do corpo gerente com a antecedência de três dias sobre o início do respectivo gozo."
+  },
+  "123259723": {
+   "fragment_id": "123281022",
+   "type": 11,
+   "heading": "Artigo 16.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Limites\n\nCada associação sindical deverá enviar ao director nacional da PSP, que dará desse facto conhecimento ao Ministro da Administração Interna, por meios idóneos e seguros, e até 15 de Janeiro de cada ano ou até 60 dias após a realização de acto eleitoral, uma lista dos membros efectivos e suplentes dos respectivos corpos gerentes que podem acumular créditos."
+  },
+  "123259724": {
+   "fragment_id": "123281023",
+   "type": 11,
+   "heading": "Artigo 17.º — Interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Interesse público\n\n1 - A acumulação de créditos só pode ser recusada por razões de grave prejuízo para a realização do interesse público, por despacho fundamentado do Ministro da Administração Interna, ouvido o director nacional da PSP.\n\n2 - A pretensão considera-se deferida se sobre ela não for proferido despacho expresso de indeferimento no prazo de 20 dias após a sua apresentação e notificado à associação sindical interessada."
+  },
+  "123259725": {
+   "fragment_id": "123281024",
+   "type": 8,
+   "heading": "Secção II — Faltas dos delegados sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Faltas dos delegados sindicais"
+  },
+  "123259726": {
+   "fragment_id": "123281025",
+   "type": 11,
+   "heading": "Artigo 18.º — Faltas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Faltas\n\nOs delegados sindicais têm direito a um crédito de não trabalho de doze horas remuneradas por mês para o exercício das suas funções, que conta, para todos os efeitos legais, como serviço efectivos."
+  },
+  "123259727": {
+   "fragment_id": "123281026",
+   "type": 11,
+   "heading": "Artigo 19.º — Formalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Formalidades\n\n1 - As associações sindicais devem comunicar, por meios idóneos e seguros, às unidades orgânicas a identificação dos delegados e dos suplentes, se existirem, devendo idêntico procedimento ser adoptado no caso de substituição ou cessação de funções.\n\n2 - Os delegados sindicais devem informar as suas unidades orgânicas com dois dias de antecedência da utilização do crédito de que dispõem.\n\n3 - O prazo previsto no número anterior é computado nos termos da alínea b) do artigo 279.º do Código Civil."
+  },
+  "123259728": {
+   "fragment_id": "123281027",
+   "type": 11,
+   "heading": "Artigo 20.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Limites\n\n1 - O número de delegados sindicais que pode gozar do direito a que se referem os artigos anteriores é, por associação sindical, o seguinte:\n\na) Um, por unidade orgânica com menos de 50 elementos sindicalizados;\n\nb) Dois, por unidade orgânica com 50 a 99 elementos sindicalizados;\n\nc) Três, por unidade orgânica com 100 a 199 elementos sindicalizados;\n\nd) Seis, por unidade orgânica com 200 a 499 elementos sindicalizados;\n\ne) Seis, acrescendo um por cada 200 elementos sindicalizados, ou fracção, nos restantes casos.\n\n2 - Consideram-se unidade orgânica os serviços e organismos que dependam directamente do director nacional, bem como os serviços e departamentos dependentes dos comandos metropolitanos, regionais e de polícia."
+  },
+  "123259729": {
+   "fragment_id": "123281028",
+   "type": 8,
+   "heading": "Secção III — Actos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Actos eleitorais"
+  },
+  "123259730": {
+   "fragment_id": "123281029",
+   "type": 11,
+   "heading": "Artigo 21.º — Processos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Processos eleitorais\n\n1 - Na realização de assembleias constituintes de associações sindicais, para efeitos de alteração dos estatutos ou eleição dos corpos gerentes, o pessoal da PSP com funções policiais e as associações sindicais gozam dos seguintes direitos:\n\na) Dispensa de serviço para os membros da mesa, até ao limite de três, por período não superior a um dia;\n\nb) Dispensa de serviço ao pessoal com direito de voto pelo período estritamente necessário para o exercício do respectivo direito;\n\nc) Dispensa de serviço para os membros das listas concorrentes para participação em actividades pré-eleitorais, até ao limite de cinco dias;\n\nd) Dispensa de serviço a um elemento de cada lista concorrente que participe em cada mesa de voto em actividades de fiscalização do acto eleitoral, durante o período de votação e contagem de votos, a indicar por cada lista concorrente nos termos do disposto no número seguinte.\n\n2 - As dispensas de serviço previstas no número anterior não são imputadas noutros créditos, previstos na presente lei, sendo, todavia, equiparadas a serviço efectivo, para todos os efeitos legais.\n\n3 - A solicitação das associações sindicais ou das comissões promotoras da respectiva constituição, pode ser autorizada a instalação e o funcionamento de mesas de voto nos locais de trabalho, não destinados a acesso do público, de preferência em instalações sociais.\n\n4 - O exercício dos direitos previstos no presente artigo só pode ser impedido com fundamento em grave prejuízo para a realização do interesse público, mediante despacho do director nacional.\n\n5 - Do acto previsto no número anterior cabe recurso hierárquico necessário, a interpor para o Ministro da Administração Interna, no prazo de setenta e duas horas após a sua notificação.\n\n6 - A interposição do recurso hierárquico suspende a execução da decisão e devolve ao membro do Governo a competência para decidir definitivamente."
+  },
+  "123259731": {
+   "fragment_id": "123281030",
+   "type": 11,
+   "heading": "Artigo 22.º — Formalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Formalidades\n\n1 - A solicitação para a instalação e o funcionamento das mesas de voto sediadas nas unidades orgânicas deve ser apresentada, por meios idóneos e seguros, ao director nacional da PSP, com antecedência não inferior a 20 dias, e dela deve constar:\n\na) A identificação do acto eleitoral;\n\nb) A indicação do local ou dos locais pretendidos;\n\nc) A identificação dos membros da mesa ou substitutos;\n\nd) O período de funcionamento.\n\n2 - Considera-se tacitamente autorizada a instalação e o funcionamento das mesas de voto se sobre a comunicação referida no número anterior não recair despacho do director nacional da PSP no prazo de 10 dias."
+  },
+  "123259732": {
+   "fragment_id": "123281031",
+   "type": 11,
+   "heading": "Artigo 23.º — Período de utilização dos locais de votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Período de utilização dos locais de votação\n\n1 - O período da utilização dos locais de votação cedidos, nos termos do artigo anterior, não deve iniciar-se antes das 8 horas nem ultrapassar as 22 horas.\n\n2 - O funcionamento das mesas não pode prejudicar o normal funcionamento dos serviços."
+  },
+  "123259733": {
+   "fragment_id": "123281032",
+   "type": 11,
+   "heading": "Artigo 24.º — Votação em local diferente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Votação em local diferente\n\nO pessoal da PSP com funções policiais que deva votar em local diferente daquele em que desempenha funções só pode nele permanecer pelo tempo indispensável ao exercício do seu direito de voto."
+  },
+  "123259734": {
+   "fragment_id": "123281033",
+   "type": 11,
+   "heading": "Artigo 25.º — Extensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Extensão\n\nNo caso da realização de consultas eleitorais estatutariamente previstas, designadamente congressos ou outras de idêntica natureza, poderão ser concedidas facilidades ao pessoal da PSP com funções policiais em termos a definir, caso acaso, por despacho do Ministro da Administração Interna."
+  },
+  "123259735": {
+   "fragment_id": "123281034",
+   "type": 8,
+   "heading": "Secção IV — Actividade sindical nos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Actividade sindical nos serviços"
+  },
+  "123259736": {
+   "fragment_id": "123281035",
+   "type": 11,
+   "heading": "Artigo 26.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Princípio geral\n\n1 - É garantido o direito de exercer a actividade sindical nas instalações dos serviços.\n\n2 - O exercício do direito referido no número anterior não pode comprometer a realização do interesse público, bem como o normal funcionamento dos serviços, atenta a natureza destes."
+  },
+  "123259737": {
+   "fragment_id": "123281036",
+   "type": 11,
+   "heading": "Artigo 27.º — Reuniões sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Reuniões sindicais\n\n1 - O pessoal da PSP com funções policiais, goza do direito de reunião nos locais de trabalho mediante convocação pelo órgão competente da associação sindical ou pelos delegados sindicais.\n\n2 - Os membros dos corpos gerentes das associações sindicais podem participar nas reuniões referidas no número anterior, sem prejuízo de lhes poder ser exigida a respectiva identificação de qualidade.\n\n3 - A realização das reuniões nos locais de trabalho deve ser comunicada ao respectivo dirigente máximo do serviço ou organismo com a antecedência mínima de quatro dias úteis, incumbindo a este designar a sala, ou salas, a que o público não tenha acesso, em que a reunião terá lugar.\n\n4 - Nessa comunicação deve ser anunciado o número de membros de corpos gerentes das associações sindicais que nelas pretendam participar.\n\n5 - O pessoal da PSP com funções policiais que participe nas reuniões não pode exceder uma participação superior a quinze horas anuais dentro do período das suas horas de serviço, devendo comunicar essa participação ao responsável da unidade orgânica.\n\n6 - As reuniões não podem prejudicar o normal funcionamento dos serviços ou missões inadiáveis."
+  },
+  "123259738": {
+   "fragment_id": "123281037",
+   "type": 11,
+   "heading": "Artigo 28.º — Distribuição e afixação de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Distribuição e afixação de documentos\n\n1 - É autorizada a distribuição de comunicados e de quaisquer outros documentos subscritos pelas associações sindicais, bem como a respectiva afixação em locais próprios, devidamente assinalados, e a que o público não tenha acesso.\n\n2 - Incumbe ao responsável da unidade orgânica definir, alterar e disponibilizar os locais com normal acesso à generalidade do pessoal da PSP com funções policiais para o exercício do direito referido no número anterior."
+  },
+  "123259739": {
+   "fragment_id": "123281038",
+   "type": 11,
+   "heading": "Artigo 29.º — Requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Requisição\n\n1 - As associações sindicais podem requisitar funcionários seus associados das unidades orgânicas e organismos para nelas prestarem serviço.\n\n2 - O requerimento referido no número anterior será instruído com declaração expressa do elemento da PSP manifestando o seu acordo.\n\n3 - A requisição efectua-se mediante despacho do Ministro da Administração Interna, ouvido o director nacional da PSP.\n\n4 - Sem prejuízo do disposto no número anterior, à requisição aplica-se, subsidiariamente, o consagrado no artigo 27.º do Decreto-Lei n.º 427/89, de 7 de Dezembro."
+  },
+  "123259740": {
+   "fragment_id": "123281039",
+   "type": 11,
+   "heading": "Artigo 30.º — Licença especial para desempenho de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Licença especial para desempenho de funções\n\n1 - A requerimento da associação sindical interessada, e para nela prestar serviço, pode ser concedida licença a elemento da PSP que conte mais de seis anos de antiguidade.\n\n2 - O requerimento previsto no número anterior será instruído com declaração expressa do elemento da PSP manifestando o seu acordo.\n\n3 - A licença prevista no n.º 1 do presente artigo caracteriza-se por:\n\na) Ser por um ano, sucessiva e tacitamente renovável, e sem vencimento;\n\nb) Não abrir vaga no quadro de origem nem prejudicar a normal progressão e promoção do elemento da PSP.\n\n4 - Sem prejuízo do disposto no número anterior, à licença é subsidiariamente aplicável o regime dos artigos 76.º e 77.º do Decreto-Lei n.º 100/99, de 31 de Março."
+  },
+  "123259741": {
+   "fragment_id": "123281040",
+   "type": 13,
+   "heading": "Título III — Dos direitos de negociação colectiva e de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Dos direitos de negociação colectiva e de participação"
+  },
+  "123259742": {
+   "fragment_id": "123281041",
+   "type": 11,
+   "heading": "Artigo 31.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Legitimidade\n\nOs direitos de negociação colectiva e de participação, no que respeita às associações sindicais, apenas podem ser exercidos através daquelas que, nos termos dos respectivos estatutos, representem interesses do pessoal da PSP com funções policiais e se encontrem devidamente registadas."
+  },
+  "123259743": {
+   "fragment_id": "123281042",
+   "type": 11,
+   "heading": "Artigo 32.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Princípios\n\n1 - A Administração e as associações sindicais respeitam os princípios da boa-fé, nomeadamente respondendo com a máxima brevidade quer aos pedidos de reunião solicitados quer às propostas mútuas, fazendo-se representar nas reuniões destinadas à negociação ou participação e à prevenção ou resolução de conflitos.\n\n2 - As consultas que as partes entendam efectuar no âmbito do processo negocial ou de participação não suspendem nem interrompem a marcha do respectivo procedimento, salvo se o contrário expressamente for acordado.\n\n3 - Cada uma das partes pode solicitar à outra as informações consideradas necessárias ao exercício adequado dos direitos de negociação colectiva e de participação, designadamente os estudos e elementos de ordem técnica ou estatística, não classificados, que sejam tidos como indispensáveis à fundamentação das propostas e das contrapropostas."
+  },
+  "123259744": {
+   "fragment_id": "123281043",
+   "type": 11,
+   "heading": "Artigo 33.º — Cláusula de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Cláusula de salvaguarda\n\nA Administração e as associações sindicais estão subordinadas ao princípio da prossecução do interesse público, visando a dignificação da função policial e a melhoria das condições socioeconómicas do pessoal da PSP com funções policiais."
+  },
+  "123259745": {
+   "fragment_id": "123281044",
+   "type": 11,
+   "heading": "Artigo 34.º — Direito de negociação colectiva e procedimento de negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direito de negociação colectiva e procedimento de negociação\n\n1 - É garantido ao pessoal da PSP com funções policiais o direito de negociação colectiva do seu estatuto jurídico-profissional.\n\n2 - Considera-se negociação colectiva a apreciação e negociação entre as associações sindicais e a PSP das matérias relativas àquele estatuto, com vista a tentar atingir um acordo.\n\n3 - Ao direito de negociação colectiva previsto na presente lei aplica-se, relativamente à negociação geral, o previsto no regime de negociação colectiva e de participação dos trabalhadores da Administração Pública em regime de direito público.\n\n4 - As negociações sectoriais iniciam-se em qualquer altura do ano e têm a duração que for acordada entre as partes, aplicando-se-lhes os princípios vigentes para a negociação geral anual.\n\n5 - O acordo sectorial, total ou parcial, que for obtido consta de documento autónomo subscrito pelas partes e obriga o Governo a adoptar as medidas legislativas ou administrativas adequadas ao seu integral e exacto cumprimento, no prazo máximo de 180 dias, sem prejuízo de outros prazos que sejam acordados, salvo nas matérias que careçam de autorização legislativa, caso em que os respectivos pedidos devem ser submetidos à Assembleia da República no prazo máximo de 45 dias.\n\n6 - A negociação colectiva garantida na presente lei compatibilizar-se-á com a negociação geral anual da função pública."
+  },
+  "123259746": {
+   "fragment_id": "123281045",
+   "type": 11,
+   "heading": "Artigo 35.º — Objecto de negociação colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Objecto de negociação colectiva\n\nSão objecto de negociação colectiva as matérias relativas à fixação ou alteração:\n\na) Da estrutura da escala remuneratória e indiciária;\n\nb) Do regime dos suplementos remuneratórios;\n\nc) Das prestações da acção social e da acção social complementares específicas;\n\nd) Dos princípios da constituição, modificação e extinção da relação de emprego;\n\ne) Das carreiras, incluindo as respectivas escalas salariais;\n\nf) Da duração e horário de trabalho;\n\ng) Do regime de férias, faltas e licenças;\n\nh) Das condições de higiene, saúde e segurança no trabalho;\n\ni) Da formação e aperfeiçoamento profissional;\n\nj) Dos princípios do estatuto disciplinar;\n\nl) Dos princípios do regime de mobilidade;\n\nm) Dos princípios do regime de recrutamento e selecção;\n\nn) Do regime de classificação de serviço."
+  },
+  "123259747": {
+   "fragment_id": "123281046",
+   "type": 11,
+   "heading": "Artigo 36.º — Convocação de reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Convocação de reuniões\n\nA convocação de reuniões dentro do procedimento negocial tem de ser feita sempre com a antecedência mínima de oito dias, salvo acordo das partes."
+  },
+  "123259748": {
+   "fragment_id": "123281047",
+   "type": 11,
+   "heading": "Artigo 37.º — Resolução de conflitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Resolução de conflitos\n\n1 - Terminado o período da negociação sem que tenha havido acordo, poderá abrir-se uma negociação suplementar, a pedido das associações sindicais, para resolução dos conflitos.\n\n2 - O pedido para negociação suplementar será apresentado no final da última reunião negocial ou, por escrito, no prazo de cinco dias, contado a partir do encerramento do procedimento de negociação referido no artigo 35.º, devendo dele ser dado conhecimento a todas as partes envolvidas no processo.\n\n3 - A negociação suplementar, desde que requerida nos termos do número anterior, é obrigatória, não podendo a sua duração exceder 15 dias úteis, consiste na tentativa da obtenção de um acordo e tem como consequência que não pode ser encerrado qualquer procedimento negocial em curso sobre as matérias com qualquer outra entidade.\n\n4 - Na negociação suplementar, a parte governamental será constituída por membro ou membros do Governo, sendo obrigatoriamente presidida pelo Ministro da Administração Interna.\n\n5 - Finda a negociação suplementar sem obtenção de acordo, o Governo toma a decisão que entender adequada, sem prejuízo do disposto no n.º 5 do artigo 34.º"
+  },
+  "123259749": {
+   "fragment_id": "123281048",
+   "type": 11,
+   "heading": "Artigo 38.º — Direito de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Direito de participação\n\n1 - É garantido ao pessoal da PSP com funções policiais o direito de participar, através das suas associações sindicais:\n\na) Na fiscalização e implementação das medidas relativas às condições de higiene, saúde e segurança no trabalho;\n\nb) Na gestão, com carácter consultivo, das instituições de segurança social dos trabalhadores da função pública e de outras organizações que visem satisfazer o interesse do pessoal da PSP, designadamente os serviços sociais;\n\nc) Nas alterações ao regime jurídico da aposentação;\n\nd) Na definição dos princípios da política de formação e aperfeiçoamento profissional da PSP;\n\ne) No controlo da execução dos planos económico-sociais;\n\nf) No domínio da melhoria da qualidade dos serviços públicos;\n\ng) Nas auditorias de gestão efectuadas aos serviços públicos;\n\nh) Na elaboração dos pedidos de autorização legislativa sobre matéria sujeita a negociação ou participação;\n\ni) Na definição do regime de acidentes de serviço e de doenças profissionais;\n\nj) No direito de apresentar parecer consultivo relativamente à elaboração de legislação respeitante ao regime da PSP que não seja objecto de negociação.\n\n2 - A participação na fiscalização das medidas relativas às condições de higiene e segurança faz-se nos termos da lei.\n\n3 - A participação no controlo da execução dos planos económico-sociais faz-se de acordo com o disposto na lei.\n\n4 - A participação nas alterações ao regime jurídico da aposentação e na elaboração de legislação respeitante ao regime da PSP que não seja objecto de negociação tem a natureza de consulta, oral ou escrita, pressupondo, caso a iniciativa seja do Governo, a existência de documento escrito a apresentar por este.\n\n5 - O prazo para apreciação escrita dos projectos de diploma por parte das associações sindicais nunca pode ser inferior a 20 dias a contar da sua recepção por parte da associação sindical, salvo acordo expresso em contrário.\n\n6 - O prazo previsto no número anterior é, porém, contado a partir do dia útil imediatamente seguinte ao do recebimento das informações solicitadas ao abrigo do n.º 3 do artigo 32.º"
+  },
+  "123259750": {
+   "fragment_id": "123281049",
+   "type": 11,
+   "heading": "Artigo 39.º — Casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Casos especiais\n\nAo Corpo de Intervenção, ao Grupo de Operações Especiais e ao Corpo de Segurança Pessoal é aplicado, em cada caso, o procedimento negocial adequado à natureza das respectivas funções, sem prejuízo dos direitos reconhecidos na presente lei."
+  },
+  "123259751": {
+   "fragment_id": "123281050",
+   "type": 11,
+   "heading": "Artigo 40.º — Matérias excluídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Matérias excluídas\n\nA estrutura, as atribuições e as competências da PSP não podem ser objecto de negociação colectiva ou de participação."
+  },
+  "123259752": {
+   "fragment_id": "123281051",
+   "type": 11,
+   "heading": "Artigo 41.º — Interlocutor da Administração nos processos de negociação e de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Interlocutor da Administração nos processos de negociação e de participação\n\n1 - O interlocutor pela Administração nos procedimentos de negociação colectiva e de participação que revistam carácter geral é o previsto nos termos do regime de negociação colectiva e participação dos trabalhadores da Administração Pública em regime de direito público.\n\n2 - O interlocutor pela Administração nos procedimentos de negociação colectiva e de participação que revistam carácter sectorial é o Governo, através do Ministro da Administração Interna, que coordena, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública, nos quais intervêm por si ou através de representantes."
+  },
+  "123259753": {
+   "fragment_id": "123281052",
+   "type": 11,
+   "heading": "Artigo 42.º — Representantes das associações sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Representantes das associações sindicais\n\n1 - Consideram-se representantes legítimos das associações sindicais:\n\na) Os membros dos respectivos corpos gerentes portadores de credencial com poderes bastantes para negociar e participar;\n\nb) Os portadores de mandato escrito conferido pelos corpos gerentes das associações sindicais, do qual constem expressamente poderes para negociar e participar.\n\n2 - A revogação do mandato só é eficaz após comunicação ao Ministro da Administração Interna."
+  },
+  "123259754": {
+   "fragment_id": "123281053",
+   "type": 13,
+   "heading": "Título IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Disposições transitórias e finais"
+  },
+  "123259755": {
+   "fragment_id": "123281054",
+   "type": 11,
+   "heading": "Artigo 43.º — Transcrição oficiosa do registo das associações sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Transcrição oficiosa do registo das associações sindicais\n\nA direcção nacional da PSP deve requerer ao Ministério do Trabalho e da Solidariedade transcrição oficiosa do registo das associações sindicais que representem interesses do pessoal da PSP com funções policiais e comunicá-las às Regiões Autónomas."
+  },
+  "123259756": {
+   "fragment_id": "123281055",
+   "type": 11,
+   "heading": "Artigo 44.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Delegação de competências\n\nAs competências do Ministro da Administração Interna fixadas no âmbito da presente lei são delegáveis num outro membro do Governo do mesmo Ministério."
+  },
+  "123259757": {
+   "fragment_id": "123281056",
+   "type": 11,
+   "heading": "Artigo 45.º — Transição de associações profissionais em associações sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Transição de associações profissionais em associações sindicais\n\n1 - As associações profissionais do pessoal da PSP com funções policiais legalmente constituídas à data da entrada em vigor da presente lei podem converter-se em associações sindicais por deliberação dos respectivos associados e mediante o registo dos correspondentes estatutos no Ministério do Trabalho e da Solidariedade.\n\n2 - No caso previsto no número anterior, a associação sindical dará conhecimento, por escrito, nos 10 dias subsequentes ao registo, ao Ministro da Administração Interna."
+  },
+  "123259758": {
+   "fragment_id": "123281057",
+   "type": 11,
+   "heading": "Artigo 46.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Norma revogatória\n\nConsidera-se revogado o disposto no artigo 6.º da Lei n.º 16/90, de 20 de Fevereiro, na parte em que seja incompatível com os direitos regulados na presente lei."
+  },
+  "123259759": {
+   "fragment_id": "123281058",
+   "type": 11,
+   "heading": "Artigo 47.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Entrada em vigor\n\nA presente lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "921945073": {
+   "fragment_id": "123281004",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei regula o exercício da liberdade sindical e os direitos de negociação coletiva e de participação do pessoal com funções policiais da Polícia de Segurança Pública (PSP), adiante designados por polícias.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "921945074": {
+   "fragment_id": "123281007",
+   "type": 11,
+   "heading": "Artigo 2.º — Direitos fundamentais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+   ],
+   "markdown": "###### Artigo 2.º — Direitos fundamentais\n\n1 - É assegurada aos polícias liberdade sindical, nos termos da Constituição e do regime especial previsto na presente lei.\n\n2 - O direito de filiação e participação ativa em associações sindicais está restrito às associações sindicais compostas exclusivamente por polícias no ativo em efetividade de serviço na PSP.\n\n3 - Os polícias não podem estar simultaneamente filiados em mais do que uma associação sindical.\n\n4 - São assegurados, ainda, os direitos de exercício coletivo, nos termos constitucionalmente consagrados e concretizados em lei, sem prejuízo do disposto na presente lei.\n\n5 - As associações sindicais legalmente constituídas prosseguem fins de natureza sindical, sem prejuízo do disposto no artigo 3.º da presente lei.\n\n6 - Está vedada às associações sindicais a federação ou confederação com outras associações sindicais que não sejam exclusivamente compostas por polícias no ativo em efetividade de serviço na PSP.\n\n7 - Sem prejuízo do disposto no número anterior, as associações sindicais têm o direito de estabelecer relações com organizações, nacionais ou internacionais, que prossigam objetivos análogos.\n\n8 - É reconhecida às associações sindicais a legitimidade processual para defesa dos direitos e interesses coletivos e para defesa coletiva dos direitos e interesses individuais legalmente protegidos dos polícias que representem.\n\n9 - A defesa coletiva dos direitos e interesses individuais legalmente protegidos previstos no número anterior não pode implicar limitação da autonomia individual dos polícias.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+  },
+  "922107975": {
+   "fragment_id": "123281008",
+   "type": 11,
+   "heading": "Artigo 3.º — Restrições ao exercício da liberdade sindical",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 3.º — Restrições ao exercício da liberdade sindical\n\n1 - Atendendo à natureza e missão da PSP, a atividade sindical dos polícias não lhes permite:\n\na) Fazer declarações que afetem a subordinação da polícia à legalidade democrática, a sua isenção política e partidária;\n\nb) Fazer declarações sobre matérias de que tomem conhecimento no exercício das suas funções e constituam segredo de Estado ou de justiça ou respeitem a matérias relativas ao dispositivo ou atividade operacional da polícia classificadas de reservado nos termos legais;\n\nc) Convocar reuniões ou manifestações de caráter político ou partidário ou nelas participar, exceto, neste caso, se trajar civilmente, e, tratando-se de ato público, não integrar a mesa, usar da palavra ou exibir qualquer tipo de mensagem;\n\nd) Exercer o direito à greve.\n\n2 - A restrição do uso de uniforme referida na alínea c) é extensível à participação em quaisquer manifestações ou reuniões públicas de caráter sindical.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107976": {
+   "fragment_id": "123281009",
+   "type": 11,
+   "heading": "Artigo 4.º — Garantias",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 4.º — Garantias\n\n1 - Os polícias não podem ser prejudicados, beneficiados, isentos de um dever ou privados de qualquer direito em virtude dos direitos de associação sindical ou pelo exercício da atividade sindical, sem prejuízo do disposto no artigo anterior.\n\n2 - Os membros das direções das associações sindicais e os delegados sindicais, na situação de candidatos ou já eleitos, não podem ser transferidos do seu local de trabalho sem o seu acordo expresso e sem audição da associação sindical respetiva.\n\n3 - O disposto no número anterior não é aplicável quando manifesto interesse público, devidamente fundamentado, o exigir e enquanto este permanecer.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107977": {
+   "fragment_id": "123281010",
+   "type": 11,
+   "heading": "Artigo 5.º — Constituição e alterações estatutárias das associações sindicais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 5.º — Constituição e alterações estatutárias das associações sindicais\n\n1 - À constituição, extinção e organização das associações sindicais reguladas pela presente lei aplica-se o disposto na Lei Geral do Trabalho em Funções Públicas e no Código do Trabalho.\n\n2 - O ministério responsável pela área laboral comunica, oficiosamente, aos membros do Governo responsáveis pelas áreas da Administração Pública e da administração interna o cancelamento do registo da associação sindical.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107978": {
+   "fragment_id": "123281011",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo e aquisição de personalidade",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 6.º — Registo e aquisição de personalidade\n\nO ministério responsável pela área laboral remete oficiosamente aos membros do Governo responsáveis pelas áreas da Administração Pública e da administração interna cópia da convocatória da assembleia constituinte da associação sindical, dos respetivos estatutos, da ata da assembleia geral eleitoral e da relação contendo a identificação dos titulares dos corpos gerentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107979": {
+   "fragment_id": "123281012",
+   "type": 11,
+   "heading": "Artigo 7.º — Incompatibilidades",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 7.º — Incompatibilidades\n\n1 - O exercício de cargos de direção de associação sindical ou de delegados sindicais é incompatível com o exercício dos seguintes cargos de comando e direção previstos na estrutura orgânica da PSP:\n\na) Diretor nacional e diretores nacionais-adjuntos;\n\nb) Inspetor-geral;\n\nc) Secretário-geral dos Serviços Sociais;\n\nd) Comandante e segundo-comandante da Unidade Especial de Polícia;\n\ne) Comandantes e segundos-comandantes dos comandos territoriais de polícia;\n\nf) Diretores e diretores-adjuntos dos estabelecimentos de ensino policial;\n\ng) Comandantes das subunidades operacionais da Unidade Especial de Polícia.\n\n2 - O exercício de cargos de direção de associação sindical ou de delegados sindicais é igualmente incompatível com a prestação de serviço em órgãos ou serviços da administração central, regional e local ou em organismos de interesse público, em áreas do domínio da segurança interna, e em organismos nacionais ou internacionais, em território nacional ou no estrangeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107980": {
+   "fragment_id": "123281014",
+   "type": 11,
+   "heading": "Artigo 9.º — Quotizações sindicais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 9.º — Quotizações sindicais\n\n1 - Desde que solicitado pelo polícia, as quotizações sindicais são descontadas na fonte, procedendo-se à sua remessa às associações sindicais interessadas, nos termos dos números seguintes.\n\n2 - O sistema previsto no número anterior produz efeitos mediante declaração individual de autorização do associado.\n\n3 - A declaração de autorização ou desistência pode ser feita a todo o tempo, e contém o nome e a assinatura do associado, a associação sindical em que está inscrito e o valor da quota, produzindo efeitos no mês seguinte ao da sua entrega.\n\n4 - As declarações previstas nos números anteriores são obrigatoriamente comunicadas pelo interessado ao serviço processador e à respetiva associação sindical.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107981": {
+   "fragment_id": "921935988",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição geral",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Disposição geral\n\n1 - Os membros da direção das associações sindicais e os delegados sindicais têm o direito de exercício de atividade sindical e, designadamente, o direito de faltar ao serviço para o exercício das suas funções, nos termos da presente lei.\n\n2 - Os polícias têm o direito de participar nos processos eleitorais que, de acordo com os respetivos estatutos, se desenvolvam no âmbito da associação sindical, sob a forma de atividade pré-eleitoral, exercício do direito de voto e fiscalização.\n\n3 - A atividade sindical nas instalações dos órgãos e serviços da PSP é exercida nos termos da presente lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+  },
+  "922108012": {
+   "fragment_id": "123281016",
+   "type": 8,
+   "heading": "Secção I — Faltas dos membros da direção de associação sindical",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "#### Secção I — Faltas dos membros da direção de associação sindical\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107982": {
+   "fragment_id": "123281017",
+   "type": 11,
+   "heading": "Artigo 11.º — Membros da direção",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 11.º — Membros da direção\n\n1 - Consideram-se membros da direção da associação sindical os estatutariamente consagrados com competência executiva nacional e plenos poderes não delegados de representação da associação, em juízo e fora dele.\n\n2 - Para os efeitos da presente lei o disposto no número anterior não abrange os membros das mesas de assembleia geral ou de congresso, ou de outros órgãos equivalentes, bem como de quaisquer outros órgãos de funções consultivas, de fiscalização, de apoio técnico ou logístico.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107983": {
+   "fragment_id": "123281018",
+   "type": 11,
+   "heading": "Artigo 12.º — Faltas dos membros da direção",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 12.º — Faltas dos membros da direção\n\n1 - Sem prejuízo do disposto no número seguinte, as faltas dadas pelos membros da direção para o exercício das suas funções sindicais consideram-se justificadas, até ao limite de 33 faltas por ano, e contam, para todos os efeitos legais, como serviço efetivo, salvo quanto à remuneração.\n\n2 - Têm direito a um crédito de quatro dias remunerados por mês para o exercício das suas funções os membros da direção da respetiva associação sindical definidos dentro dos seguintes limites:\n\na) Nas associações sindicais com um número entre 100 e 200 associados inclusive, pode beneficiar do crédito um membro da direção;\n\nb) Nas associações sindicais com mais de 200 associados pode beneficiar do crédito um membro da direção por cada 200 associados ou fração.\n\n3 - Não beneficiam do previsto nos números anteriores os membros da direção das federações, uniões ou confederações.\n\n4 - A comunicação das faltas é feita nos termos do estatuto profissional do pessoal com funções policiais da PSP.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107984": {
+   "fragment_id": "123281019",
+   "type": 11,
+   "heading": "Artigo 13.º — Formalidades",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 13.º — Formalidades\n\n1 - Até ao dia 15 de janeiro de cada ano civil, a associação sindical deve comunicar à direção nacional da PSP a identificação dos membros de direção beneficiários do crédito de horas e respetivo órgão ou serviço onde desempenham funções.\n\n2 - A associação sindical deve ainda, no mesmo prazo, comunicar aos órgãos ou serviços onde os mesmos desempenham funções a identificação dos membros de direção beneficiários do crédito de horas.\n\n3 - Em caso de alteração da composição da direção sindical, as comunicações previstas nos números anteriores devem ser efetuadas no prazo de 15 dias.\n\n4 - A associação sindical deve indicar aos órgãos ou serviços onde desempenham funções os membros da direção referidos nos números anteriores as datas e o número de dias de que os mesmos necessitam para o exercício das respetivas funções, através de comunicação remetida com dois dias úteis de antecedência ou, em caso de impossibilidade, num dos dois dias úteis imediatos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107985": {
+   "fragment_id": "123281020",
+   "type": 11,
+   "heading": "Artigo 14.º — Acumulação de créditos",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 14.º — Acumulação de créditos\n\n1 - O crédito de horas de cada membro da direção da associação sindical pode, em cada ano civil, ser acumulado.\n\n2 - Cada associação sindical deve enviar à direção nacional da PSP, até 15 de janeiro de cada ano ou até 15 dias após a realização de ato eleitoral, uma lista com a identificação dos membros da direção que podem acumular créditos.\n\n3 - A associação sindical deve ainda, no mesmo prazo, comunicar aos órgãos ou serviços onde os mesmos desempenham funções identificação dos membros de direção que podem acumular créditos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107986": {
+   "fragment_id": "123281021",
+   "type": 11,
+   "heading": "Artigo 15.º — Formalidades para a acumulação",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 15.º — Formalidades para a acumulação\n\nA utilização dos créditos acumulados a que se refere o artigo anterior deve ser comunicada pela associação sindical aos órgãos ou serviços onde os membros da direção exercem funções com a antecedência de dois dias úteis sobre o início do respetivo gozo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108015": {
+   "fragment_id": "123281022",
+   "type": 11,
+   "heading": "Artigo 16.º — Limites",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 16.º — Limites\n\nCada associação sindical deverá enviar ao director nacional da PSP, que dará desse facto conhecimento ao Ministro da Administração Interna, por meios idóneos e seguros, e até 15 de Janeiro de cada ano ou até 60 dias após a realização de acto eleitoral, uma lista dos membros efectivos e suplentes dos respectivos corpos gerentes que podem acumular créditos.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107987": {
+   "fragment_id": "123281023",
+   "type": 11,
+   "heading": "Artigo 17.º — Interesse público",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 17.º — Interesse público\n\n1 - A acumulação de créditos só pode ser recusada por razões de relevante prejuízo para a realização do interesse público, por despacho fundamentado do membro do Governo responsável pela área da administração interna, ouvido o diretor nacional da PSP.\n\n2 - A pretensão considera-se deferida se sobre ela não for proferido despacho expresso de indeferimento no prazo de 20 dias após a sua apresentação e notificado à associação sindical interessada.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108010": {
+   "fragment_id": "921978946",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Delegados sindicais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 17.º-A — Delegados sindicais\n\n1 - Os delegados sindicais são eleitos e destituídos nos termos dos estatutos das respetivas associações sindicais, por voto direto e secreto.\n\n2 - O mandato do delegado sindical não pode ter duração superior a quatro anos.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108013": {
+   "fragment_id": "123281024",
+   "type": 8,
+   "heading": "Secção II — Delegados sindicais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "#### Secção II — Delegados sindicais\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107988": {
+   "fragment_id": "123281025",
+   "type": 11,
+   "heading": "Artigo 18.º — Créditos de horas",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+   ],
+   "markdown": "###### Artigo 18.º — Créditos de horas\n\n1 - Cada delegado sindical dispõe, para o exercício das suas funções, de um crédito de 12 horas remuneradas por mês, que conta, para todos os efeitos legais, como serviço efetivo.\n\n2 - Não beneficiam do crédito previsto no número anterior:\n\na) Os delegados das associações com um número de associados inferior a 10 % do número total de polícias na efetividade de serviço na respetiva unidade orgânica;\n\nb) Os delegados sindicais das federações, uniões e confederações.\n\n3 - Para efeitos do disposto na alínea a) do número anterior, o número de polícias é determinado com base no balanço social da PSP, considerando-se como unidade orgânica:\n\na) A Direção Nacional;\n\nb) Os Serviços Sociais da PSP;\n\nc) A Unidade Especial de Polícia;\n\nd) Os comandos territoriais de polícia;\n\ne) Os estabelecimentos de ensino policial;\n\nf) Divisões policiais dos comandos territoriais de polícia.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+  },
+  "922107989": {
+   "fragment_id": "123281026",
+   "type": 11,
+   "heading": "Artigo 19.º — Formalidades",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 19.º — Formalidades\n\n1 - Até 15 de janeiro de cada ano civil, deve a associação sindical comunicar à direção nacional da PSP e aos órgãos e serviços onde os mesmos desempenham funções a identificação dos delegados sindicais eleitos beneficiários dos créditos de horas.\n\n2 - Em caso de nova eleição de delegados sindicais, as comunicações previstas no número anterior devem ser efetuadas no prazo de 15 dias.\n\n3 - Os delegados sindicais devem informar com dois dias úteis de antecedência os órgãos e serviços onde os mesmos exercem funções da utilização do crédito de que dispõem, juntando declaração da direção da associação sindical a atestar o caráter sindical da atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107990": {
+   "fragment_id": "123281027",
+   "type": 11,
+   "heading": "Artigo 20.º — Limites de créditos de horas",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+   ],
+   "markdown": "###### Artigo 20.º — Limites de créditos de horas\n\n1 - Podem beneficiar do crédito de horas previsto na presente lei:\n\na) Um delegado sindical nas unidades orgânicas com 10 a 49 polícias associados;\n\nb) Dois delegados sindicais nas unidades orgânicas com 50 a 99 polícias associados;\n\nc) Três delegados sindicais nas unidades orgânicas com 100 a 199 polícias associados;\n\nd) Seis delegados sindicais nas unidades orgânicas com 200 a 499 polícias associados.\n\n2 - Em unidade orgânica com 500 ou mais polícias associados, o número máximo de delegados sindicais que beneficiam do crédito de horas previsto na presente lei apura-se através da seguinte fórmula:\n\n6 + [(n - 500): 200]\n\n3 - Na fórmula prevista no número anterior, n é o número de polícias associados, sendo o resultado apurado arredondado para a unidade imediatamente superior.\n\n4 - O disposto nos n.os 1 e 2 é determinado pelo somatório, por unidade orgânica, dos polícias associados em cada associação sindical.\n\n5 - Para efeitos dos números anteriores, considera-se como unidade orgânica cada uma das unidades elencadas no n.º 3 do artigo 18.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+  },
+  "922107991": {
+   "fragment_id": "123281029",
+   "type": 11,
+   "heading": "Artigo 21.º — Processos eleitorais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+   ],
+   "markdown": "###### Artigo 21.º — Processos eleitorais\n\n1 - Na realização de assembleias constituintes de associações sindicais para efeitos de alteração dos estatutos ou eleição dos membros da direção, os polícias e as associações sindicais gozam dos seguintes direitos:\n\na) Dispensa de serviço para os membros da mesa, até ao limite de três, por período não superior a um dia;\n\nb) Dispensa de serviço para os polícias com direito de voto pelo período estritamente necessário para o exercício do respetivo direito;\n\nc) Dispensa de serviço para os membros das listas concorrentes para participação em actividades pré-eleitorais, até ao limite de cinco dias;\n\nd) Dispensa de serviço a um elemento de cada lista concorrente que participe em cada mesa de voto em actividades de fiscalização do acto eleitoral, durante o período de votação e contagem de votos, a indicar por cada lista concorrente nos termos do disposto no número seguinte.\n\n2 - As dispensas de serviço previstas no número anterior não são imputadas noutros créditos previstos na presente lei, sendo, todavia, equiparadas a serviço efectivo, para todos os efeitos legais.\n\n3 - A solicitação das associações sindicais ou das comissões promotoras da respectiva constituição, pode ser autorizada a instalação e o funcionamento de mesas de voto nos locais de trabalho, não destinados a acesso do público, de preferência em instalações sociais.\n\n4 - O exercício dos direitos previstos no presente artigo só pode ser impedido com fundamento em grave prejuízo para a realização do interesse público, mediante despacho do director nacional.\n\n5 - Do ato previsto no número anterior cabe recurso hierárquico necessário, a interpor para o membro do Governo responsável pela área da administração interna, no prazo de cinco dias após a sua notificação.\n\n6 - A interposição do recurso hierárquico suspende os efeitos da decisão, sendo aquele imediatamente remetido ao órgão com competência para dele conhecer.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+  },
+  "922107992": {
+   "fragment_id": "123281032",
+   "type": 11,
+   "heading": "Artigo 24.º — Votação em local diferente",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 24.º — Votação em local diferente\n\nOs polícias que devam votar em local diferente daquele em que desempenham funções só podem nele permanecer pelo tempo indispensável ao exercício do seu direito de voto.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107993": {
+   "fragment_id": "123281033",
+   "type": 11,
+   "heading": "Artigo 25.º — Extensão",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+   ],
+   "markdown": "###### Artigo 25.º — Extensão\n\nNo caso da realização de consultas eleitorais estatutariamente previstas, designadamente congressos ou outras de idêntica natureza, pode ser facilitada aos polícias a sua participação, em termos a definir, caso a caso, por despacho do Ministro da Administração Interna.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+  },
+  "922108014": {
+   "fragment_id": "123281034",
+   "type": 8,
+   "heading": "Secção IV — Atividade sindical nas instalações dos órgãos e serviços da Polícia de Segurança Pública",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "#### Secção IV — Atividade sindical nas instalações dos órgãos e serviços da Polícia de Segurança Pública\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107994": {
+   "fragment_id": "123281035",
+   "type": 11,
+   "heading": "Artigo 26.º — Princípio geral",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 26.º — Princípio geral\n\n1 - É garantido o direito de exercer a atividade sindical nas instalações dos órgãos e serviços da PSP.\n\n2 - O exercício do direito referido no número anterior não pode comprometer a realização do interesse público, nem o normal funcionamento dos órgãos e serviços, atenta a natureza destes.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107995": {
+   "fragment_id": "123281036",
+   "type": 11,
+   "heading": "Artigo 27.º — Reuniões sindicais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 27.º — Reuniões sindicais\n\n1 - Os polícias gozam do direito de reunião nas instalações dos órgãos e serviços da PSP mediante convocação pelo órgão competente da associação sindical ou pelos delegados sindicais.\n\n2 - Os membros da direção das associações sindicais podem participar nas reuniões referidas no número anterior, sem prejuízo de lhes poder ser exigida a respetiva identificação de qualidade.\n\n3 - A realização das reuniões nas instalações dos órgãos e serviços da PSP deve ser comunicada ao respetivo dirigente máximo do órgão ou serviço com a antecedência mínima de quatro dias úteis, incumbindo a este designar a sala, ou salas, a que o público não tenha acesso, em que a reunião tem lugar.\n\n4 - Nessa comunicação deve ser anunciado o número de membros de direção das associações sindicais que nelas pretendem participar.\n\n5 - Os polícias que participem nas reuniões não podem exceder uma participação superior a quinze horas anuais dentro do período das suas horas de serviço, devendo comunicar essa participação ao responsável do órgão ou serviço onde desempenham funções.\n\n6 - As reuniões não podem prejudicar o normal funcionamento dos órgãos e serviços da PSP ou a realização de missões inadiáveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107996": {
+   "fragment_id": "123281037",
+   "type": 11,
+   "heading": "Artigo 28.º — Distribuição e afixação de documentos",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 28.º — Distribuição e afixação de documentos\n\n1 - É autorizada a distribuição de comunicados e de quaisquer outros documentos subscritos pelas associações sindicais, bem como a respectiva afixação em locais próprios, devidamente assinalados, e a que o público não tenha acesso.\n\n2 - Incumbe ao responsável da unidade orgânica definir, alterar e disponibilizar os locais com acesso à generalidade dos polícias para o exercício do direito referido no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108016": {
+   "fragment_id": "123281038",
+   "type": 11,
+   "heading": "Artigo 29.º — Requisição",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 29.º — Requisição\n\n1 - As associações sindicais podem requisitar funcionários seus associados das unidades orgânicas e organismos para nelas prestarem serviço.\n\n2 - O requerimento referido no número anterior será instruído com declaração expressa do elemento da PSP manifestando o seu acordo.\n\n3 - A requisição efectua-se mediante despacho do Ministro da Administração Interna, ouvido o director nacional da PSP.\n\n4 - Sem prejuízo do disposto no número anterior, à requisição aplica-se, subsidiariamente, o consagrado no artigo 27.º do Decreto-Lei n.º 427/89, de 7 de Dezembro.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107997": {
+   "fragment_id": "123281039",
+   "type": 11,
+   "heading": "Artigo 30.º — Licença especial para desempenho de funções",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 30.º — Licença especial para desempenho de funções\n\n1 - A requerimento da associação sindical interessada, e para nela prestar serviço, pode ser concedida licença sem remuneração aos polícias com mais de seis anos de serviço efetivo.\n\n2 - O requerimento previsto no número anterior é instruído com declaração expressa do polícia manifestando o seu acordo.\n\n3 - A licença prevista no n.º 1 é concedida pelo prazo de um ano, sucessiva e tacitamente renovável.\n\n4 - A concessão da licença especial para o desempenho de funções sindicais não permite abertura de vaga no lugar de origem do polícia a quem a mesma foi concedida, não podendo este ser prejudicado na progressão e promoção.\n\n5 - Sem prejuízo do disposto no número anterior, à licença referida no n.º 1 é aplicável, com as devidas adaptações, o regime do artigo 49.º do Decreto-Lei n.º 243/2015, de 19 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107998": {
+   "fragment_id": "123281041",
+   "type": 11,
+   "heading": "Artigo 31.º — Legitimidade",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 31.º — Legitimidade\n\n1 - Os direitos de negociação coletiva e de participação são exercidos pelas associações sindicais que, conforme os respetivos estatutos, representem interesses dos polícias e se encontrem devidamente registadas, e são exercidos nos termos dos números seguintes.\n\n2 - Têm legitimidade para a negociação coletiva:\n\na) As associações com um número de associados que corresponda a, pelo menos, 5 % do número total de polícias na efetividade de serviço;\n\nb) As associações que, representando interesses de polícias de uma carreira, tenham um número de associados que corresponda a, pelo menos, 20 % do número total dos polícias da respetiva carreira na efetividade de serviço;\n\nc) As federações cujas associações sindicais respeitem individualmente a representatividade referida pelo menos numa das alíneas anteriores.\n\n3 - Para efeitos do disposto no número anterior, o número de polícias é determinado com base no balanço social anual da PSP.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922107999": {
+   "fragment_id": "123281043",
+   "type": 11,
+   "heading": "Artigo 33.º — Cláusula de salvaguarda",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 33.º — Cláusula de salvaguarda\n\nA Administração e as associações sindicais estão subordinadas ao princípio da prossecução do interesse público, visando a dignificação da função policial, da condição policial e a melhoria das condições socioeconómicas dos polícias.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108000": {
+   "fragment_id": "123281044",
+   "type": 11,
+   "heading": "Artigo 34.º — Direito de negociação colectiva e procedimento de negociação",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 34.º — Direito de negociação colectiva e procedimento de negociação\n\n1 - É garantido aos polícias o direito de negociação coletiva do seu estatuto jurídico-profissional.\n\n2 - Considera-se negociação coletiva a apreciação e negociação, entre as associações sindicais e o Governo, das matérias relativas àquele estatuto, com vista a tentar atingir um acordo.\n\n3 - Ao direito de negociação colectiva previsto na presente lei aplica-se, relativamente à negociação geral, o previsto no regime de negociação colectiva e de participação dos trabalhadores da Administração Pública em regime de direito público.\n\n4 - As negociações sectoriais iniciam-se em qualquer altura do ano e têm a duração que for acordada entre as partes, aplicando-se-lhes os princípios vigentes para a negociação geral anual.\n\n5 - O acordo sectorial, total ou parcial, que for obtido consta de documento autónomo subscrito pelas partes e obriga o Governo a adoptar as medidas legislativas ou administrativas adequadas ao seu integral e exacto cumprimento, no prazo máximo de 180 dias, sem prejuízo de outros prazos que sejam acordados, salvo nas matérias que careçam de autorização legislativa, caso em que os respectivos pedidos devem ser submetidos à Assembleia da República no prazo máximo de 45 dias.\n\n6 - A negociação colectiva garantida na presente lei compatibilizar-se-á com a negociação geral anual da função pública.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108001": {
+   "fragment_id": "123281045",
+   "type": 11,
+   "heading": "Artigo 35.º — Objecto de negociação colectiva",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 35.º — Objecto de negociação colectiva\n\nSão objeto de negociação coletiva as matérias relativas à fixação ou alteração:\n\na) Da tabela remuneratória, suas posições e níveis remuneratórios;\n\nb) Do regime dos suplementos remuneratórios;\n\nc) Das prestações da ação social e da ação social complementares específicas;\n\nd) Dos princípios da constituição, modificação e extinção do vínculo de emprego;\n\ne) Das carreiras, incluindo as respetivas posições e níveis remuneratórios e seus montantes;\n\nf) Da duração e horário de trabalho;\n\ng) Do regime de férias, faltas e licenças;\n\nh) Das condições de segurança, higiene e saúde no trabalho;\n\ni) Da formação e aperfeiçoamento profissional;\n\nj) Dos princípios do estatuto disciplinar;\n\nl) Dos princípios do regime de mobilidade;\n\nm) Dos princípios do recrutamento e seleção;\n\nn) Do sistema de avaliação do desempenho.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108002": {
+   "fragment_id": "123281046",
+   "type": 11,
+   "heading": "Artigo 36.º — Convocação de reuniões",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 36.º — Convocação de reuniões\n\nA convocação de reuniões dentro do procedimento negocial tem de ser feita com a antecedência mínima de cinco dias úteis, salvo acordo das partes.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108003": {
+   "fragment_id": "123281047",
+   "type": 11,
+   "heading": "Artigo 37.º — Resolução de conflitos",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+   ],
+   "markdown": "###### Artigo 37.º — Resolução de conflitos\n\n1 - Terminado o período da negociação sem que tenha havido acordo, pode abrir-se uma negociação suplementar, a pedido das associações sindicais, para resolução dos conflitos.\n\n2 - O pedido para negociação suplementar é apresentado no final da última reunião negocial ou, por escrito, no prazo de cinco dias úteis, contado a partir do encerramento do procedimento de negociação referido no artigo 34.º, devendo dele ser dado conhecimento a todas as partes envolvidas no processo.\n\n3 - A negociação suplementar, desde que requerida nos termos do número anterior, é obrigatória, não podendo a sua duração exceder 15 dias úteis, e consiste na tentativa de obtenção de um acordo e tem como consequência que não pode ser encerrado qualquer procedimento negocial em curso sobre as matérias com qualquer outra entidade.\n\n4 - Na negociação suplementar, a parte governamental será constituída por membro ou membros do Governo, sendo obrigatoriamente presidida pelo membro do Governo responsável pela área da administração interna.\n\n5 - Finda a negociação suplementar sem obtenção de acordo, o Governo toma a decisão que entender adequada, sem prejuízo do disposto no n.º 5 do artigo 34.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+  },
+  "922108004": {
+   "fragment_id": "123281048",
+   "type": 11,
+   "heading": "Artigo 38.º — Direito de participação",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 38.º — Direito de participação\n\n1 - É garantido aos polícias o direito de participar, através das suas associações sindicais, nas seguintes matérias:\n\na) Fiscalização e implementação das medidas relativas às condições de segurança, higiene e saúde no trabalho;\n\nb) Gestão, com caráter consultivo, das instituições de segurança social dos trabalhadores em funções públicas e de outras organizações que visem satisfazer o interesse dos polícias, designadamente os serviços sociais;\n\nc) Alterações ao regime jurídico da aposentação;\n\nd) Definição dos princípios da política de formação e aperfeiçoamento profissional da PSP;\n\ne) Controlo da execução dos planos económico-sociais;\n\nf) Domínio da melhoria da qualidade dos serviços públicos;\n\ng) Auditorias de gestão efetuadas aos serviços públicos;\n\nh) Elaboração dos pedidos de autorização legislativa sobre matéria sujeita a negociação ou participação;\n\ni) Definição do regime jurídico dos acidentes de trabalho e das doenças profissionais;\n\nj) Direito de apresentar parecer consultivo relativamente à elaboração de legislação respeitante ao regime da PSP que não seja objeto de negociação.\n\n2 - A participação na fiscalização das medidas relativas às condições de segurança, higiene e saúde no trabalho faz-se nos termos da lei.\n\n3 - A participação no controlo da execução dos planos económico-sociais faz-se de acordo com o disposto na lei.\n\n4 - A participação nas alterações ao regime jurídico da aposentação e na elaboração de legislação respeitante ao regime da PSP que não seja objeto de negociação tem a natureza de consulta, oral ou escrita, pressupondo, caso a iniciativa seja do Governo, a existência de documento escrito a apresentar por este.\n\n5 - O prazo para apreciação escrita dos projetos de diploma por parte das associações sindicais nunca pode ser inferior a 20 dias a contar da sua receção por parte da associação sindical, salvo acordo expresso em contrário.\n\n6 - O prazo previsto no número anterior é, porém, contado a partir do dia útil imediatamente seguinte ao do recebimento das informações solicitadas ao abrigo do n.º 3 do artigo 32.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108005": {
+   "fragment_id": "123281049",
+   "type": 11,
+   "heading": "Artigo 39.º — Casos especiais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 39.º — Casos especiais\n\nÀ Unidade Especial de Polícia é aplicado o procedimento negocial adequado à natureza das respetivas funções, sem prejuízo dos direitos reconhecidos na presente lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108006": {
+   "fragment_id": "123281051",
+   "type": 11,
+   "heading": "Artigo 41.º — Interlocutor da Administração nos processos de negociação e de participação",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 41.º — Interlocutor da Administração nos processos de negociação e de participação\n\n1 - O interlocutor pela Administração nos procedimentos de negociação colectiva e de participação que revistam carácter geral é o previsto nos termos do regime de negociação colectiva e participação dos trabalhadores da Administração Pública em regime de direito público.\n\n2 - O interlocutor da parte da Administração, nos procedimentos de negociação coletiva e de participação que revistam caráter setorial, é o Governo, através do membro do Governo responsável pela área da administração interna, que coordena, e dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, nos quais intervêm por si ou através de representantes.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108007": {
+   "fragment_id": "123281052",
+   "type": 11,
+   "heading": "Artigo 42.º — Representantes das associações sindicais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 42.º — Representantes das associações sindicais\n\n1 - Consideram-se representantes legítimos das associações sindicais:\n\na) Os membros da direção portadores de credencial com poderes bastantes para negociar e participar;\n\nb) Os portadores de mandato escrito conferido pela direção das associações sindicais, do qual constem expressamente poderes para negociar e participar.\n\n2 - A revogação do mandato só é eficaz após comunicação ao membro do Governo responsável pela área da administração interna.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108011": {
+   "fragment_id": "921978947",
+   "type": 11,
+   "heading": "Artigo 42.º-A — Presunção do número de associados",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 42.º-A — Presunção do número de associados\n\n1 - Para efeitos de determinação do número de associados, consideram-se aqueles cujas quotizações sindicais são descontadas na fonte.\n\n2 - Cada associação sindical pode, a todo o tempo, submeter à direção nacional da PSP prova documental adequada que vise atualizar o número de associados.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108008": {
+   "fragment_id": "123281054",
+   "type": 11,
+   "heading": "Artigo 43.º — Transcrição oficiosa do registo das associações sindicais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 43.º — Transcrição oficiosa do registo das associações sindicais\n\nA direção nacional da PSP deve requerer ao ministério responsável pela área laboral a transcrição oficiosa do registo das associações sindicais que representem interesses dos polícias e comunicá-las às regiões autónomas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108009": {
+   "fragment_id": "123281055",
+   "type": 11,
+   "heading": "Artigo 44.º — Delegação de competências",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 44.º — Delegação de competências\n\nAs competências do membro do Governo responsável pela área da administração interna fixadas no âmbito da presente lei são delegáveis num outro membro do Governo do mesmo ministério.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "922108017": {
+   "fragment_id": "123281056",
+   "type": 11,
+   "heading": "Artigo 45.º — Transição de associações profissionais em associações sindicais",
+   "in_force_from": "2019-10-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+   ],
+   "markdown": "###### Artigo 45.º — Transição de associações profissionais em associações sindicais\n\n1 - As associações profissionais do pessoal da PSP com funções policiais legalmente constituídas à data da entrada em vigor da presente lei podem converter-se em associações sindicais por deliberação dos respectivos associados e mediante o registo dos correspondentes estatutos no Ministério do Trabalho e da Solidariedade.\n\n2 - No caso previsto no número anterior, a associação sindical dará conhecimento, por escrito, nos 10 dias subsequentes ao registo, ao Ministro da Administração Interna.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 49/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/lei/49-2019-123279812), em vigor a partir de 2019-10-16"
+  },
+  "921943114": {
+   "fragment_id": "123281057",
+   "type": 11,
+   "heading": "Artigo 46.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+   ],
+   "markdown": "###### Artigo 46.º — Norma revogatória\n\nConsidera-se revogado o disposto no artigo 6.º da Lei n.º 6/90, de 20 de Fevereiro, na parte em que seja incompatível com os direitos regulados na presente lei.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2002-300605), produz efeitos a partir de 2002-03-01"
+  },
+  "123259760": {
+   "fragment_id": "123281059",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de Dezembro de 2001.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 31 de Janeiro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 7 de Fevereiro de 2002.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

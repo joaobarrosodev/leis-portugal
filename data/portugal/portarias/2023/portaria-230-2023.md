@@ -1,0 +1,527 @@
+---
+schema_version: '1.0'
+id: pt:dre:216253488:por
+title: Portaria n.º 230/2023
+short_title: null
+summary: Aprova os modelos e meios de identificação das autoridades de polícia criminal e dos trabalhadores da carreira especial
+  de investigação criminal da Polícia Judiciária, bem como dos restantes trabalhadores da Polícia Judiciária e revoga as Portarias
+  n.os 96/2002, de 31 de janeiro, 290/2002, de 18 de março, e 167/2009, de 16 de fevereiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Justiça
+proposing_entity: null
+official_number: 230/2023
+official_date: null
+publication_date: '2023-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 145/2023, Série I de 2023-07-27
+  number: '145'
+  series: I
+  supplement: null
+  pages: 3 - 15
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/230/2023/07/27/p/dre/pt/html
+  oj: null
+  dre: '216253488'
+  dre_path: /dr/detalhe/portaria/230-2023-216253488
+  internal: pt:dre:216253488:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-2023-216253488
+  metadata_url: https://data.dre.pt/eli/port/230/2023/07/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-2023-216253488
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-07-27T00:00:00Z'
+integrity:
+  source_sha256: 1397f044b20de927fab60981f8797942501e1519f63491f5c223248bb1709f56
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-230-216253488.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Deficiente
+- Investigador
+- Aposentado
+- Cartão de Identificação
+- Regulamentação de Atos Legislativos
+- Livre Trânsito
+- Polícia Judiciária
+- Polícia Criminal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/137/2019/09/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2019/09/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/138/2019/09/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/138/2019/09/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/167/2009/02/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/167/2009/02/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/290/2002/03/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/290/2002/03/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/96/2002/01/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/96/2002/01/31/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 230/2023
+
+de 27 de julho
+
+Conforme o disposto nos n.os 1 e 2 do artigo 9.º do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, que estabelece o estatuto profissional do pessoal da Polícia Judiciária (PJ), a identificação das autoridades de polícia criminal e dos trabalhadores da carreira de investigação criminal faz-se por intermédio de crachá e cartão de livre-trânsito e a dos demais trabalhadores é realizada por cartão de modelo próprio, que especifica o cargo e, se for o caso, as prerrogativas inerentes ao exercício funcional.
+
+Nos termos dos n.os 1, 2 e 4 do artigo 87.º do mesmo diploma, os trabalhadores da PJ em situação de aposentação ou reforma por motivo diverso da aplicação de pena disciplinar são titulares de cartão de identificação para reconhecimento da sua qualidade e dos direitos de que goza.
+
+E, ainda, nos termos dos n.os 1 e 4 do artigo 17.º do referido diploma, os trabalhadores das carreiras especiais da PJ a quem tenha sido reconhecido o estatuto de equiparado a deficientes das Forças Armadas (DFA) têm direito ao uso de cartão de identificação de características em condições de utilização idênticas às do DFA.
+
+Assim:
+
+Considerando que os cartões ainda em vigor foram aprovados em 2002 e em 2009, tendo por base outro enquadramento legal, impondo-se a necessidade de aprovar novos modelos e meios de identificação pessoal, por portaria do membro do Governo responsável pela área da justiça; e
+
+Considerando que para assegurar os procedimentos em matéria de prevenção e de segurança na PJ e garantir a segurança de dirigentes, do pessoal e do público, bem como das instalações e dos equipamentos, é necessária a emissão de cartões de circulação;
+
+Tendo sido ouvidas as associações sindicais, em observância dos procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual;
+
+Ao abrigo do disposto nos n.os 1 e 2 do artigo 9.º, nos n.os 1, 2 e 4 do artigo 87.º e nos n.os 1 e 4 do artigo 17.º do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, e ainda da alínea q) do artigo 39.º do Decreto-Lei n.º [137/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), de 13 de setembro, nas suas redações atuais, manda o Governo, pela Ministra da Justiça, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - É aprovado o crachá como meio de identificação pessoal das autoridades de polícia criminal e dos trabalhadores da carreira especial de investigação criminal da PJ, nos termos do n.º 1 do artigo 2.º e do anexo i da presente portaria, da qual faz parte integrante.
+
+2 - É aprovado o modelo de cartão de livre-trânsito das autoridades de polícia criminal e dos trabalhadores da carreira especial de investigação criminal da PJ, nos termos dos n.os 2 e 3 do artigo 2.º, do artigo 3.º e do anexo ii da presente portaria, da qual faz parte integrante.
+
+3 - São aprovados os modelos de cartão de identificação dos trabalhadores das carreiras especiais de apoio à investigação criminal da PJ, nos termos dos n.os 2 e 3 do artigo 2.º, dos artigos 4.º e 5.º e dos anexos iii e iv da presente portaria, da qual fazem parte integrante.
+
+4 - É aprovado o modelo de cartão de identificação dos trabalhadores das carreiras subsistentes e gerais da PJ, nos termos dos n.os 2 e 3 do artigo 2.º, do artigo 6.º e do anexo v da presente portaria, da qual faz parte integrante.
+
+5 - É aprovado o modelo do cartão de identificação dos trabalhadores da PJ aposentados ou reformados, nos termos dos n.os 2 e 3 do artigo 2.º, do artigo 7.º e do anexo vi da presente portaria, da qual faz parte integrante.
+
+6 - É aprovado o modelo de cartão de identificação de equiparado a deficiente das Forças Armadas (DFA) dos trabalhadores das carreiras especiais da PJ, nos termos dos n.os 2 e 3 do artigo 2.º, do artigo 8.º e do anexo vii da presente portaria, da qual faz parte integrante.
+
+7 - Os modelos de cartão de identificação para acesso e circulação nas instalações da PJ dos trabalhadores, público e prestadores de serviços são aprovados por despacho do diretor nacional, nos termos do Regulamento do Serviço de Segurança da Polícia Judiciária.
+
+###### Artigo 2.º — Características dos instrumentos de identificação
+
+1 - O crachá é de metal tombak dourado, em fundo azul, com a inscrição «Polícia Judiciária» em esmalte azul, com as dimensões 41 mm x 51 mm, e é numerado no verso.
+
+2 - Os cartões referidos no artigo anterior são em PVC, de cor cinzenta e no formato ID1 da norma ISO/IEC 7810:2003.
+
+3 - Os cartões referidos nos n.os 2 a 6 do artigo anterior, que contêm elementos de segurança acrescidos, são produzidos por entidade certificada.
+
+4 - Os cartões referidos no n.º 7 do artigo anterior são emitidos pela PJ sem prejuízo de, por decisão do diretor nacional, poderem ser produzidos por entidade qualificada para o efeito.
+
+###### Artigo 3.º — Modelo de cartão de livre-trânsito
+
+O cartão de livre-trânsito das autoridades de polícia criminal e dos trabalhadores da carreira de investigação criminal da PJ é configurado na vertical, em ambas as faces, e incorpora os seguintes elementos:
+
+a) Frente:
+
+i) Topo: logótipo da República Portuguesa e menções em letras maiúsculas: «Ministério da Justiça», «Polícia Judiciária» e «Livre-Trânsito»;
+
+ii) Lado esquerdo: duas faixas, de cor verde e vermelha e fotografia do titular a cores;
+
+iii) Lado direito: crachá e símbolo da PJ;
+
+iv) Base: identificação do titular pelo nome, cargo ou categoria, número e data de validade;
+
+b) Verso:
+
+i) Topo: direitos que a lei confere ao titular:
+
+«Nos termos dos Decretos-Leis n.os [137/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594) e [138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), ambos de 13/9, o titular deste cartão, goza nomeadamente das seguintes prerrogativas:
+
+a) Detenção, uso e porte de arma;
+
+b) Proceder à identificação de qualquer pessoa suspeita e à detenção de suspeitos, nas condições em que a lei o prevê;
+
+c) Acesso e livre-trânsito aos locais em que a PJ deva proceder à deteção e dissuasão de situações conducentes à prática de crimes;
+
+d) Acesso e livre-trânsito a quaisquer repartições ou serviços públicos, empresas comerciais ou industriais, gares, cais de embarque e aeroportos e outras instalações públicas ou privadas;
+
+e) Entrada e livre-trânsito em navios acostados nos portos, nas casas e recintos de espetáculos ou outras diversões, nas associações de recreio e, em geral, em todos os lugares onde se realizem reuniões ou seja permitido o acesso público mediante o pagamento de uma taxa, realização de certa despesa ou apresentação de bilhete;
+
+f) Livre acesso, em todo o território nacional, aos transportes coletivos terrestres, fluviais, marítimos e aéreos;
+
+g) A utilização, em todo o território nacional, dos transportes coletivos terrestres, fluviais e marítimos.
+
+Ao titular deste cartão deverá ser prestado todo o apoio que necessite para o desempenho das suas funções.»
+
+ii) Base: data de emissão no formato DD/MM/AAAA e assinaturas, de autenticação e do titular.
+
+###### Artigo 4.º — Modelo de cartão de identificação da carreira de especialista de polícia científica
+
+O cartão de identificação dos trabalhadores da carreira de especialista de polícia científica da PJ é configurado na horizontal, em ambas as faces, e incorpora os seguintes elementos:
+
+a) Frente:
+
+i) Topo lado esquerdo: crachá da PJ;
+
+ii) Topo centro: logótipo da República Portuguesa e menções em letras maiúsculas «Ministério da Justiça» e «Polícia Judiciária»;
+
+iii) Lado esquerdo: duas faixas, de cor verde e vermelha;
+
+iv) Lado direito: fotografia do titular a cores;
+
+v) Base lado esquerdo: identificação do titular pelo nome, cargo ou carreira, número e data de validade;
+
+vi) Base lado direito: símbolo da PJ;
+
+b) Verso:
+
+i) Topo: direitos que a lei confere ao titular:
+
+«Nos termos do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13/9, o titular deste cartão, no exercício das suas funções, goza nomeadamente das seguintes prerrogativas:
+
+a) Detenção, uso e porte de arma;
+
+b) Acesso e livre-trânsito a quaisquer repartições ou serviços públicos, empresas comerciais ou industriais, gares, cais de embarque e aeroportos e outras instalações públicas ou privadas;
+
+c) Livre acesso, em todo o território nacional, aos transportes coletivos terrestres, fluviais, marítimos e aéreos;
+
+d) Utilização, em todo o território nacional, dos transportes coletivos terrestres, fluviais e marítimos.
+
+Ao titular deste cartão deverá ser prestado todo o apoio que necessite para o desempenho das suas funções.»
+
+ii) Base: data de emissão no formato DD/MM/AAAA e assinaturas, de autenticação e do titular.
+
+###### Artigo 5.º — Modelo de cartão de identificação da carreira de segurança
+
+O cartão de identificação dos trabalhadores da carreira de segurança da PJ é configurado na horizontal, em ambas as faces, e incorpora os seguintes elementos:
+
+a) Frente:
+
+i) Topo lado esquerdo: crachá da PJ;
+
+ii) Topo centro: logótipo da República Portuguesa e menções em letras maiúsculas «Ministério da Justiça» e «Polícia Judiciária»;
+
+iii) Lado esquerdo: duas faixas, de cor verde e vermelha;
+
+iv) Lado direito: fotografia do titular a cores;
+
+v) Base lado esquerdo: identificação do titular pelo nome, cargo ou carreira, número e data de validade;
+
+vi) Base lado direito: símbolo da PJ;
+
+b) Verso:
+
+i) Topo: direitos que a lei confere ao titular:
+
+«Nos termos do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13/9, o titular deste cartão, no exercício das suas funções, goza nomeadamente das seguintes prerrogativas:
+
+a) Detenção, uso e porte de arma;
+
+b) Acesso e livre-trânsito a quaisquer repartições ou serviços públicos, empresas comerciais ou industriais, gares, cais de embarque e aeroportos e outras instalações públicas ou privadas;
+
+c) Livre acesso, em todo o território nacional, aos transportes coletivos terrestres, fluviais, marítimos e aéreos;
+
+d) Utilização, em todo o território nacional, dos transportes coletivos terrestres, fluviais e marítimos;
+
+e) Gozo das mesmas prerrogativas de acesso a instalações públicas ou privadas conferidas à pessoa a quem deva ser assegurada proteção pessoal.
+
+Ao titular deste cartão deverá ser prestado todo o apoio que necessite para o desempenho das suas funções.»
+
+ii) Base: data de emissão no formato DD/MM/AAAA e assinaturas, de autenticação e do titular.
+
+###### Artigo 6.º — Modelo de cartão de identificação das carreiras subsistentes e gerais
+
+O cartão de identificação dos trabalhadores das carreiras subsistentes e gerais da PJ é configurado na horizontal, em ambas as faces, e incorpora os seguintes elementos:
+
+a) Frente:
+
+i) Topo lado esquerdo: crachá da PJ;
+
+ii) Topo centro: logótipo da República Portuguesa e menções em letras maiúsculas «Ministério da Justiça» e «Polícia Judiciária»;
+
+iii) Lado direito: duas faixas, de cor verde e vermelha;
+
+iv) Lado direito: fotografia do titular a cores;
+
+v) Base lado esquerdo: identificação do titular pelo nome, cargo ou carreira, número e data de validade;
+
+vi) Base lado direito: símbolo da PJ;
+
+b) Verso:
+
+i) Topo: direitos que a lei confere ao titular:
+
+Carreiras subsistentes:
+
+«Nos termos do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13/9, o titular deste cartão, no exercício das suas funções, goza nomeadamente das seguintes prerrogativas:
+
+a) Acesso e livre-trânsito a quaisquer repartições ou serviços públicos, empresas comerciais ou industriais, gares, cais de embarque e aeroportos e outras instalações públicas ou privadas;
+
+b) Utilização, dentro da área de circunscrição em que exercem as suas funções, dos transportes coletivos terrestres, fluviais e marítimos.
+
+Ao titular deste cartão deverá ser prestado todo o apoio que necessite para o desempenho das suas funções.»
+
+Carreiras gerais:
+
+«Nos termos do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13/9, o titular deste cartão, no exercício das suas funções, goza nomeadamente das seguintes prerrogativas:
+
+a) Quando designado pela respetiva chefia para o exercício de funções coadjuvantes dos trabalhadores da carreira de investigação criminal, direito de acesso e livre-trânsito a quaisquer repartições ou serviços públicos, empresas comerciais ou industriais, gares, cais de embarque e aeroportos e outras instalações públicas ou privadas;
+
+b) Quando em serviço, utilização dos transportes coletivos terrestres, fluviais e marítimos, dentro da área de circunscrição em que exerce funções.
+
+Ao titular deste cartão deverá ser prestado todo o apoio que necessite para o desempenho das suas funções.»
+
+c) Base: data de emissão no formato DD/MM/AAAA e assinaturas, de autenticação e do titular.
+
+###### Artigo 7.º — Modelo de cartão de identificação dos trabalhadores em situação de aposentação ou reforma
+
+O cartão de identificação dos trabalhadores das carreiras da PJ em situação de aposentação ou reforma é configurado na horizontal, em ambas as faces, e incorpora os seguintes elementos:
+
+a) Frente:
+
+i) Topo: duas faixas, de cor verde e vermelha;
+
+ii) Lado esquerdo: crachá da PJ;
+
+iii) Centro: logótipo da República Portuguesa e menções em letras maiúsculas «Ministério da Justiça», «Polícia Judiciária» e «Aposentado»;
+
+iv) Lado direito: fotografia do titular a cores;
+
+v) Base lado esquerdo: identificação do titular pelo nome, carreira ou categoria e número do cartão;
+
+vi) Fundo: símbolo da PJ;
+
+b) Verso:
+
+i) Topo: direitos que a lei confere ao titular, de acordo com a respetiva carreira:
+
+Carreira especial de investigação criminal:
+
+«Nos termos do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13/9, o titular deste cartão, em situação de aposentação ou reforma, goza nomeadamente das seguintes prerrogativas:
+
+a) Uso e porte de arma;
+
+b) Ajudas de custo e transportes quando chamado a participar em atos processuais perante a autoridade judiciária e os tribunais, em virtude de funções exercidas anteriormente à aposentação ou reforma;
+
+c) Posse do crachá em uso na PJ, sendo que a sua utilização abusiva implica a sua imediata devolução, sem prejuízo da responsabilidade criminal ou de outra natureza a que haja lugar.»
+
+Carreiras especiais de apoio:
+
+«Nos termos do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13/9, o titular deste cartão, em situação de aposentação ou reforma, goza nomeadamente das seguintes prerrogativas:
+
+a) Uso e porte de arma;
+
+b) Ajudas de custo e transportes quando chamado a participar em atos processuais perante a autoridade judiciária e os tribunais, em virtude de funções exercidas anteriormente à aposentação ou reforma.»
+
+Carreiras subsistentes e gerais:
+
+«Nos termos do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13/9, o titular deste cartão, em situação de aposentação ou reforma, goza nomeadamente do direito a ajudas de custo e transportes quando chamado a participar em atos processuais perante a autoridade judiciária e os tribunais, em virtude de funções exercidas anteriormente à aposentação ou reforma.»
+
+ii) Base: data de emissão no formato DD/MM/AAAA e assinaturas, de autenticação e do titular.
+
+###### Artigo 8.º — Modelo de cartão de equiparado a deficiente das Forças Armadas
+
+O cartão de identificação dos trabalhadores da PJ a quem tenha sido reconhecido o estatuto de equiparado a DFA é configurado na horizontal, em ambas as faces, e incorpora os seguintes elementos:
+
+a) Frente:
+
+i) Canto superior esquerdo: duas faixas, de cor verde e vermelha;
+
+ii) Lado esquerdo: crachá da PJ;
+
+iii) Centro: logótipo da República Portuguesa e menções em letras maiúsculas «Ministério da Justiça», «Polícia Judiciária» e «Equiparado a DFA»;
+
+iv) Topo lado direito: fotografia do titular a cores;
+
+v) Base lado esquerdo: identificação do titular pelo nome, cargo ou categoria, número do cartão, grau de deficiência, grupo sanguíneo e fator RH;
+
+vi) Fundo: símbolo da PJ;
+
+b) Verso:
+
+i) Topo: direitos que a lei confere ao titular das carreiras especiais:
+
+«Nos termos do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13/9, o titular deste cartão a quem foi reconhecido o estatuto de equiparado a DFA, goza nomeadamente das seguintes prerrogativas:
+
+a) As consagradas no regime legal em vigor para os deficientes das Forças Armadas e das forças de segurança, com as devidas adaptações, designadamente os previstos no [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de janeiro;
+
+b) Admissão à frequência de cursos de formação ministrados pelo Instituto da Polícia Judiciária e Ciências Criminais em igualdade de circunstâncias com os demais candidatos, beneficiando, de acordo com a sua condição, da dispensa de algumas ou de todas as provas a que haja lugar, nos termos fixados pelo diretor nacional, se for considerado clinicamente curado e possa efetuar todas as funções que não dependam da sua capacidade física.»
+
+ii) Base: data de emissão no formato DD/MM/AAAA e assinaturas, de autenticação e do titular.
+
+###### Artigo 9.º — Vicissitudes dos meios de identificação
+
+1 - Os meios de identificação são obrigatoriamente devolvidos ou recolhidos quando se verifique a cessação do direito ao seu uso ou a suspensão de funções do respetivo titular.
+
+2 - Em caso de extravio, destruição ou deterioração, é atribuído um novo crachá ou passada uma segunda via do cartão, conforme os casos.
+
+3 - Os cartões devem ser substituídos sempre que se verifique qualquer alteração substancial dos elementos neles inscritos.
+
+4 - Sem prejuízo do disposto no número anterior, os cartões têm um prazo de validade de 10 anos.
+
+5 - A Direção de Serviços de Gestão e Administração de Pessoal (DS-GAP) deve proceder ao registo da emissão, distribuição, substituição e devolução de crachás e dos cartões referidos nos n.os 1 a 6 do artigo 1.º da presente portaria.
+
+6 - A Unidade de Armamento e Segurança deve proceder ao registo da emissão, distribuição, substituição e devolução dos cartões referidos no n.º 7 do artigo 1.º da presente portaria.
+
+###### Artigo 10.º — Nome profissional
+
+1 - Nos termos do artigo 11.º do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, os trabalhadores que intervenham em atos processuais, por força do exercício das suas funções, identificam-se pelo nome, número de identificação e domicílio profissionais.
+
+2 - Para efeitos de identificação pelo nome profissional os trabalhadores podem indicar o nome abreviado pretendido, o qual não é admitido se igual ou confundível com outro anteriormente registado a nível nacional.
+
+3 - Na ausência da indicação referida no número anterior é considerado o nome completo.
+
+4 - O disposto no presente artigo aplica-se igualmente aos trabalhadores em situação de aposentação ou reforma e aos cartões de identificação para acesso e circulação nas instalações da PJ.
+
+###### Artigo 11.º — Disposições finais e transitórias
+
+1 - São revogadas as Portarias n.os [96/2002](https://diariodarepublica.pt/dr/detalhe/portaria/96-2002-276427), de 31 de janeiro, [290/2002](https://diariodarepublica.pt/dr/detalhe/portaria/290-2002-264145), de 18 de março, e [167/2009](https://diariodarepublica.pt/dr/detalhe/portaria/167-2009-602285), de 16 de fevereiro.
+
+2 - Após a distribuição dos cartões de identificação aprovados ao abrigo da presente portaria cessa a validade dos anteriores, os quais são obrigatoriamente devolvidos à DS-GAP no momento da entrega dos novos.
+
+3 - Os crachás e os cartões de identificação dos trabalhadores em situação de aposentação ou reforma anteriormente emitidos conservam a sua validade.
+
+###### Artigo 12.º — Entrada em vigor
+
+A presente portaria entra em vigor 30 dias após a data da sua publicação.
+
+**A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro, em 25 de julho de 2023.**
+
+## ANEXO I — Crachá de identificação pessoal das autoridades de polícia criminal e dos trabalhadores da carreira de investigação criminal da PJ
+
+(a que se refere o n.º 1 do artigo 1.º)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+## ANEXO II — Cartão de livre-trânsito das autoridades de polícia criminal e dos trabalhadores da carreira de investigação criminal da PJ
+
+(a que se refere o n.º 2 do artigo 1.º)
+
+Frente:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+Verso:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+## ANEXO III — Cartão de cartão de identificação dos trabalhadores da carreira especial de apoio à investigação criminal da PJ - Especialista de polícia científica
+
+(a que se refere o n.º 3 do artigo 1.º)
+
+Frente:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+Verso:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+## ANEXO IV — Cartão de identificação dos trabalhadores da carreira especial de apoio à investigação criminal da PJ - Segurança
+
+(a que se refere o n.º 3 do artigo 1.º)
+
+Frente:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+Verso:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+## ANEXO V
+
+Cartão de identificação dos trabalhadores das carreiras subsistentes da PJ - Especialista superior, especialista, especialista-adjunto e especialista auxiliar e das carreiras gerais da PJ - Técnico superior, assistente técnico e assistente operacional
+
+(a que se refere o n.º 4 do artigo 1.º)
+
+Frente:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+Verso:
+
+Carreiras subsistentes:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+Carreiras gerais:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+## ANEXO VI — Cartão de identificação dos trabalhadores da PJ em situação de aposentação ou reforma
+
+(a que se refere o n.º 5 do artigo 1.º)
+
+Frente:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+Verso:
+
+Carreira especial de investigação criminal:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+Carreiras especiais de apoio:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+Carreiras subsistentes e gerais:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+## ANEXO VII — Cartão de equiparado a deficiente das Forças Armadas
+
+(a que se refere o n.º 6 do artigo 1.º)
+
+Frente:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)
+
+Verso:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14500/0000300015.pdf)

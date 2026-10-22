@@ -1,0 +1,520 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:390225:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-107106270",
+ "dre_path": "/dr/detalhe/portaria/202-2001-390225",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107105699",
+    "107105700",
+    "107105701",
+    "107105702",
+    "107105703",
+    "107105704",
+    "107105705",
+    "107105706",
+    "107105707",
+    "107105708",
+    "107105709",
+    "107105710",
+    "107105711",
+    "107105712",
+    "107105713",
+    "107105714",
+    "107105715",
+    "107105716",
+    "107105717",
+    "107105718",
+    "107105719",
+    "107105720"
+   ]
+  },
+  {
+   "date": "2017-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107106264:por",
+     "title": "Portaria n.º 183/2017",
+     "published": "2017-05-31",
+     "dre_path": "/dr/detalhe/portaria/183-2017-107106264"
+    }
+   ],
+   "changes": [
+    "Altera 3.º",
+    "Revoga REGULAMENTO DO PROGRAMA FÉRIAS EM MOVIMENTO",
+    "Revoga Capítulo I",
+    "Revoga Capítulo II",
+    "Revoga Capítulo III",
+    "Revoga Capítulo IV"
+   ],
+   "fragments": [
+    "107105699",
+    "107105751",
+    "107105752",
+    "107116096",
+    "107105754",
+    "107116097",
+    "107116098",
+    "107116099",
+    "107116100",
+    "107116101",
+    "107116102",
+    "107116103",
+    "107116104",
+    "107116105",
+    "107116106",
+    "107116107",
+    "107116108",
+    "107116109",
+    "107116110",
+    "107116111",
+    "107116112",
+    "107116113",
+    "107116114",
+    "107116115",
+    "107116116",
+    "107116117",
+    "107116118"
+   ]
+  }
+ ],
+ "fragments": {
+  "107105699": {
+   "fragment_id": "107106271",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 202/2001\n\nde 13 de Março\n\nConsiderando a necessidade de promover a ocupação saudável dos tempos livres dos jovens durante os períodos de férias escolares e pausas pedagógicas;\n\nConsiderando o interesse em promover a prática de actividades lúdico-formativas;\n\nConsiderando que muitas famílias têm graves dificuldades em assegurar o acompanhamento dos respectivos jovens durante aqueles períodos em virtude sobretudo de compromissos profissionais;\n\nConsiderando o interesse no incremento do conhecimento das diversas regiões do País por parte dos jovens;\n\nConsiderando as capacidades das associações juvenis como promotoras de actividades de ocupação saudável dos tempos livres dos jovens;\n\nConsiderando as atribuições prosseguidas pelo Instituto Português da Juventude na promoção, desenvolvimento e coordenação de programas destinados à ocupação de tempos livres por parte dos jovens:\n\nManda o Governo, pelo Ministro da Juventude e do Desporto, ao abrigo do n.º 2 do artigo 2.º do Decreto-Lei n.º 70/96, de 4 de Junho, e atendendo ao estabelecido no Decreto-Lei n.º 198/96, de 17 de Outubro, o seguinte:"
+  },
+  "107105700": {
+   "fragment_id": "107106272",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "107105701": {
+   "fragment_id": "107106273",
+   "type": 11,
+   "heading": "Artigo 1.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Finalidade\n\n1 - O Programa Férias em Movimento visa promover a ocupação saudável dos tempos livres dos jovens no período de férias escolares e pausas pedagógicas, através da prática de actividades lúdico-formativas, e incentivar o conhecimento de diversas regiões do País.\n\n2 - O Instituto Português da Juventude (IPJ) pode atribuir apoios financeiros para a realização das actividades referidas no número anterior, através de protocolos a estabelecer com as entidades promotoras que vejam os respectivos projectos aprovados, nos termos do presente Regulamento.\n\n3 - A responsabilidade pelas actividades desenvolvidas cabe exclusivamente às entidades que as venham a promover nos termos do presente Regulamento."
+  },
+  "107105702": {
+   "fragment_id": "107106274",
+   "type": 11,
+   "heading": "Artigo 2.º — Actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Actividades\n\n1 - As actividades de campos de férias podem enquadrar-se nas seguintes áreas:\n\na) Desporto;\n\nb) Ambiente;\n\nc) Cultura;\n\nd) Património histórico e cultural;\n\ne) Multimedia;\n\nf) Outras, de relevante interesse para os jovens.\n\n2 - As actividades a desenvolver podem ter uma componente predominantemente lúdica, ou acumular aspectos lúdicos com a aprendizagem e o desenvolvimento de tarefas."
+  },
+  "107105703": {
+   "fragment_id": "107112875",
+   "type": 1,
+   "heading": "Capítulo II — Entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Entidades promotoras"
+  },
+  "107105704": {
+   "fragment_id": "107112876",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades promotoras\n\nPodem candidatar-se à realização de actividades no âmbito do Programa Férias em Movimento as seguintes entidades:\n\na) Associações inscritas no Registo Nacional das Associações Juvenis (RNAJ);\n\nb) Grupos informais de jovens;\n\nc) Clubes desportivos, associações de modalidade e federações desportivas;\n\nd) Outras entidades privadas desde que não tenham fins lucrativos."
+  },
+  "107105705": {
+   "fragment_id": "107112877",
+   "type": 11,
+   "heading": "Artigo 4.º — Caracterização dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Caracterização dos projectos\n\n1 - Os projectos a desenvolver no âmbito do Programa podem ser do tipo residencial ou não residencial consoante seja obrigatório ou não facultar aos participantes alojamento.\n\n2 - Os campos de férias residenciais têm uma duração máxima de 14 noites e mínima de 6 noites, devendo obrigatoriamente iniciar-se e findar ou num sábado ou num domingo.\n\n3 - Os campos de férias não residenciais têm uma duração máxima de 15 dias e mínima de 5 dias, devendo as actividades ocupar os períodos da manhã e da tarde.\n\n4 - Os escalões etários a que se destinam os campos de férias residenciais e não residenciais, bem como os prazos para a apresentação de projectos para a sua realização, são fixados por despacho da comissão executiva do IPJ."
+  },
+  "107105706": {
+   "fragment_id": "107112878",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apresentação dos projectos\n\n1 - A apresentação dos projectos deve ser feita em formulário próprio, a obter via Internet ou junto dos serviços do IPJ.\n\n2 - Dos projectos a apresentar devem constar, obrigatoriamente, os elementos que o IPJ defina no formulário como necessários.\n\n3 - Os formulários de candidatura devem ser remetidos à delegação regional do IPJ do distrito onde se situa a sede da entidade promotora."
+  },
+  "107105707": {
+   "fragment_id": "107112879",
+   "type": 11,
+   "heading": "Artigo 6.º — Apreciação dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apreciação dos projectos\n\n1 - Compete ao IPJ, por intermédio da delegação regional do distrito onde se realiza o campo de férias, proceder à apreciação dos projectos, bem como ao seu acompanhamento e avaliação.\n\n2 - Não são elegíveis as candidaturas que não se enquadrem nos objectivos do Programa ou não cumpram os requisitos fixados no presente Regulamento.\n\n3 - A apreciação dos projectos considerados como elegíveis tem em conta, designadamente, os seguintes critérios:\n\na) A qualidade das actividades propostas;\n\nb) A qualificação e experiência demonstradas pelo responsável pela actividade e respectivos monitores;\n\nc) A capacidade de execução da entidade promotora;\n\nd) A melhor adequação aos objectivos definidos no Programa;\n\ne) A caracterização da entidade promotora, sendo privilegiadas as candidaturas de associações juvenis inscritas no RNAJ;\n\nf) A adequação do orçamento à actividade proposta;\n\ng) A capacidade de autofinanciamento demonstrada.\n\n4 - A taxa de participação deve ser adequada às actividades a realizar e ao apoio financeiro atribuído pelo IPJ, sendo anualmente fixada por despacho da comissão executiva do IPJ.\n\n5 - No prazo de cinco dias úteis após a decisão, o IPJ comunica às entidades promotoras a rejeição ou a aprovação dos projectos apresentados."
+  },
+  "107105708": {
+   "fragment_id": "107112880",
+   "type": 11,
+   "heading": "Artigo 7.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Financiamento\n\n1 - O IPJ transfere para as entidades promotoras o apoio financeiro atribuído, calculado com base no número de jovens inscritos e na duração do projecto e em função de limites máximos a fixar por despacho da comissão executiva do IPJ, acrescido das taxas de participação recebidas dos participantes.\n\n2 - A transferência referida no número anterior é efectuada em duas prestações, sendo a primeira de 70% do valor total, que deve ocorrer até à data acordada para o início da actividade, e a segunda que deve ocorrer nos 20 dias úteis subsequentes à entrega do relatório final da actividade e contas.\n\n3 - As entidades promotoras não podem cobrar qualquer taxa extra aos jovens participantes."
+  },
+  "107105709": {
+   "fragment_id": "107112881",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres das entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres das entidades promotoras\n\nConstituem deveres gerais das entidades promotoras:\n\na) Cumprir pontualmente o programa do projecto aprovado;\n\nb) Assegurar o acompanhamento permanente dos jovens, durante toda a duração da actividade, através de monitores qualificados;\n\nc) Dar prévio conhecimento ao IPJ das alterações à planificação inicial da actividade, caso venham a verificar-se;\n\nd) Apresentar ao IPJ, no prazo de 20 dias úteis após a conclusão da actividade, o relatório final da actividade e contas;\n\ne) Publicitar, de acordo com as orientações gerais definidas pelo IPJ, o apoio do Programa Férias em Movimento e do IPJ ao projecto."
+  },
+  "107105710": {
+   "fragment_id": "107112882",
+   "type": 11,
+   "heading": "Artigo 9.º — Cancelamento das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cancelamento das actividades\n\n1 - Após a recepção da comunicação de que a respectiva proposta foi aprovada, a entidade promotora não pode cancelar a actividade por motivos que lhe sejam imputáveis.\n\n2 - Após o fecho das inscrições dos participantes, se não for atingida a ocupação mínima de vagas acordadas com a entidade promotora, a actividade pode ser cancelada pelo IPJ."
+  },
+  "107105711": {
+   "fragment_id": "107112883",
+   "type": 11,
+   "heading": "Artigo 10.º — Penalizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Penalizações\n\n1 - A existência de quaisquer irregularidades na aplicação das verbas concedidas, nomeadamente a sua utilização para fins diferentes dos estabelecidos, implica a imediata suspensão do processamento das mesmas, não podendo a entidade beneficiar de qualquer espécie de apoio por um prazo não inferior a dois anos.\n\n2 - A não apresentação do relatório nos termos referidos na alínea d) do n.º 1 do artigo 8.º do presente Regulamento implica a reposição das verbas já recebidas e a inelegibilidade de novos projectos ao abrigo do Programa.\n\n3 - Caso existam dúvidas na análise do relatório ou do balancete financeiro, o IPJ pode solicitar à entidade documentos comprovativos das acções ou despesas nele apresentadas.\n\n4 - O incumprimento, por parte de qualquer entidade promotora, do disposto no n.º 1 do artigo 9.º do presente Regulamento implica, para além da devolução das verbas já recebidas ao abrigo do Programa, a imediata suspensão de todos os apoios por parte do IPJ, não podendo a entidade beneficiar de qualquer espécie de apoio por um prazo não inferior a dois anos."
+  },
+  "107105712": {
+   "fragment_id": "107112884",
+   "type": 1,
+   "heading": "Capítulo III — Jovens participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Jovens participantes"
+  },
+  "107105713": {
+   "fragment_id": "107112885",
+   "type": 11,
+   "heading": "Artigo 11.º — Inscrições dos participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inscrições dos participantes\n\n1 - A inscrição dos jovens participantes deve ser feita através do preenchimento de formulário próprio via Internet ou junto dos serviços do IPJ.\n\n2 - A participação de jovens menores nas actividades do presente Programa só tem lugar se devidamente autorizada pelo respectivo representante legal.\n\n3 - A inscrição dos participantes fica condicionada ao efectivo pagamento da taxa de inscrição, que pode ser efectuado mediante cartão de crédito, multibanco, cheque ou numerário."
+  },
+  "107105714": {
+   "fragment_id": "107112886",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres do participante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deveres do participante\n\n1 - O participante deve respeitar os regulamentos em vigor e é responsável pelos prejuízos causados à entidade promotora ou a terceiros, podendo incorrer na pena de exclusão quando a sua acção tenha afectado o normal funcionamento da actividade.\n\n2 - O participante deve prestar informações correctas e apresentar toda a documentação necessária à sua participação solicitada nos termos do presente Regulamento ou de outros que venham a ser elaborados."
+  },
+  "107105715": {
+   "fragment_id": "107112887",
+   "type": 11,
+   "heading": "Artigo 13.º — Desistências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Desistências\n\nO participante ou o seu representante legal podem desistir da inscrição no Programa comunicando essa intenção à delegação regional do IPJ do distrito onde se vai realizar o campo, nas seguintes condições:\n\na) Para as comunicações de desistência chegadas antes do fim do prazo das inscrições, é devolvida uma percentagem de 75% do total da inscrição;\n\nb) Para as comunicações de desistência após o final do prazo das inscrições ou a não comparência na actividade, não há lugar a qualquer reembolso."
+  },
+  "107105716": {
+   "fragment_id": "107112888",
+   "type": 1,
+   "heading": "Capítulo IV — Instituto Português da Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Instituto Português da Juventude"
+  },
+  "107105717": {
+   "fragment_id": "107112889",
+   "type": 11,
+   "heading": "Artigo 14.º — Deveres do Instituto Português da Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Deveres do Instituto Português da Juventude\n\nConstituem deveres do IPJ:\n\na) Efectuar os pagamentos devidos;\n\nb) Prestar informação aos jovens relativa ao Programa e publicitar os projectos aprovados, identificando claramente a entidade promotora da actividade;\n\nc) Aceitar as inscrições dos jovens participantes nos projectos aprovados;\n\nd) Acompanhar e avaliar o desenrolar das actividades desenvolvidas;\n\ne) Esclarecer e interpretar eventuais dúvidas suscitadas pelo presente Regulamento;\n\nf) Comunicar com a antecedência mínima de cinco dias do início das actividades a aprovação dos projectos;\n\ng) Efectuar um seguro de acidentes pessoais para todos os jovens participantes nos campos de férias."
+  },
+  "107105718": {
+   "fragment_id": "107112890",
+   "type": 11,
+   "heading": "Artigo 15.º — Cancelamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cancelamentos\n\nO IPJ reserva-se o direito de cancelar projectos aprovados e em fase de execução desde que se revelem desadequados, obrigando-se, neste caso, ao reembolso do participante do valor pago no acto da inscrição pelos participantes."
+  },
+  "107105719": {
+   "fragment_id": "107112891",
+   "type": 11,
+   "heading": "Artigo 16.º — Responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Responsabilidades\n\n1 - O IPJ não é responsável por quaisquer danos sofridos por bens ou pessoas afectas às entidades promotoras ou face a terceiros.\n\n2 - O IPJ não é responsável por qualquer dano pessoal sofrido na deslocação até ao ponto de encontro, identificado na ficha de candidatura da entidade promotora, bem como após a partida."
+  },
+  "107105720": {
+   "fragment_id": "107112892",
+   "type": 11,
+   "heading": "Artigo 17.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Financiamento\n\nA aprovação dos projectos apresentados fica condicionada à dotação orçamental para o Programa Férias em Movimento."
+  },
+  "107105751": {
+   "fragment_id": "107112926",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ criado o Programa Férias em Movimento."
+  },
+  "107105752": {
+   "fragment_id": "107112927",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nÉ aprovado o respectivo Regulamento, que faz parte integrante da presente portaria."
+  },
+  "107116096": {
+   "fragment_id": "107112928",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### 3.º\n\nÉ atribuída a gestão do Programa Férias em Movimento ao Instituto Português do Desporto e Juventude, I. P.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107105754": {
+   "fragment_id": "107112929",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nA presente portaria entra em vigor em 1 de Fevereiro de 2001.\n\nPelo Ministro da Juventude e do Desporto, Luís Miguel de Oliveira Fontes, Secretário de Estado da Juventude e do Desporto, em 31 de Janeiro de 2001."
+  },
+  "107116097": {
+   "fragment_id": "107114283",
+   "type": 13,
+   "heading": "REGULAMENTO DO PROGRAMA FÉRIAS EM MOVIMENTO",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "## REGULAMENTO DO PROGRAMA FÉRIAS EM MOVIMENTO\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116098": {
+   "fragment_id": "107106272",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "### Capítulo I — Princípios gerais\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116099": {
+   "fragment_id": "107106273",
+   "type": 11,
+   "heading": "Artigo 1.º — Finalidade",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 1.º — Finalidade\n\n1 - O Programa Férias em Movimento visa promover a ocupação saudável dos tempos livres dos jovens no período de férias escolares e pausas pedagógicas, através da prática de actividades lúdico-formativas, e incentivar o conhecimento de diversas regiões do País.\n\n2 - O Instituto Português da Juventude (IPJ) pode atribuir apoios financeiros para a realização das actividades referidas no número anterior, através de protocolos a estabelecer com as entidades promotoras que vejam os respectivos projectos aprovados, nos termos do presente Regulamento.\n\n3 - A responsabilidade pelas actividades desenvolvidas cabe exclusivamente às entidades que as venham a promover nos termos do presente Regulamento.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116100": {
+   "fragment_id": "107106274",
+   "type": 11,
+   "heading": "Artigo 2.º — Actividades",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Actividades\n\n1 - As actividades de campos de férias podem enquadrar-se nas seguintes áreas:\n\na) Desporto;\n\nb) Ambiente;\n\nc) Cultura;\n\nd) Património histórico e cultural;\n\ne) Multimedia;\n\nf) Outras, de relevante interesse para os jovens.\n\n2 - As actividades a desenvolver podem ter uma componente predominantemente lúdica, ou acumular aspectos lúdicos com a aprendizagem e o desenvolvimento de tarefas.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116101": {
+   "fragment_id": "107112875",
+   "type": 1,
+   "heading": "Capítulo II — Entidades promotoras",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "### Capítulo II — Entidades promotoras\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116102": {
+   "fragment_id": "107112876",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades promotoras",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Entidades promotoras\n\nPodem candidatar-se à realização de actividades no âmbito do Programa Férias em Movimento as seguintes entidades:\n\na) Associações inscritas no Registo Nacional das Associações Juvenis (RNAJ);\n\nb) Grupos informais de jovens;\n\nc) Clubes desportivos, associações de modalidade e federações desportivas;\n\nd) Outras entidades privadas desde que não tenham fins lucrativos.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116103": {
+   "fragment_id": "107112877",
+   "type": 11,
+   "heading": "Artigo 4.º — Caracterização dos projectos",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Caracterização dos projectos\n\n1 - Os projectos a desenvolver no âmbito do Programa podem ser do tipo residencial ou não residencial consoante seja obrigatório ou não facultar aos participantes alojamento.\n\n2 - Os campos de férias residenciais têm uma duração máxima de 14 noites e mínima de 6 noites, devendo obrigatoriamente iniciar-se e findar ou num sábado ou num domingo.\n\n3 - Os campos de férias não residenciais têm uma duração máxima de 15 dias e mínima de 5 dias, devendo as actividades ocupar os períodos da manhã e da tarde.\n\n4 - Os escalões etários a que se destinam os campos de férias residenciais e não residenciais, bem como os prazos para a apresentação de projectos para a sua realização, são fixados por despacho da comissão executiva do IPJ.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116104": {
+   "fragment_id": "107112878",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação dos projectos",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Apresentação dos projectos\n\n1 - A apresentação dos projectos deve ser feita em formulário próprio, a obter via Internet ou junto dos serviços do IPJ.\n\n2 - Dos projectos a apresentar devem constar, obrigatoriamente, os elementos que o IPJ defina no formulário como necessários.\n\n3 - Os formulários de candidatura devem ser remetidos à delegação regional do IPJ do distrito onde se situa a sede da entidade promotora.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116105": {
+   "fragment_id": "107112879",
+   "type": 11,
+   "heading": "Artigo 6.º — Apreciação dos projectos",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 6.º — Apreciação dos projectos\n\n1 - Compete ao IPJ, por intermédio da delegação regional do distrito onde se realiza o campo de férias, proceder à apreciação dos projectos, bem como ao seu acompanhamento e avaliação.\n\n2 - Não são elegíveis as candidaturas que não se enquadrem nos objectivos do Programa ou não cumpram os requisitos fixados no presente Regulamento.\n\n3 - A apreciação dos projectos considerados como elegíveis tem em conta, designadamente, os seguintes critérios:\n\na) A qualidade das actividades propostas;\n\nb) A qualificação e experiência demonstradas pelo responsável pela actividade e respectivos monitores;\n\nc) A capacidade de execução da entidade promotora;\n\nd) A melhor adequação aos objectivos definidos no Programa;\n\ne) A caracterização da entidade promotora, sendo privilegiadas as candidaturas de associações juvenis inscritas no RNAJ;\n\nf) A adequação do orçamento à actividade proposta;\n\ng) A capacidade de autofinanciamento demonstrada.\n\n4 - A taxa de participação deve ser adequada às actividades a realizar e ao apoio financeiro atribuído pelo IPJ, sendo anualmente fixada por despacho da comissão executiva do IPJ.\n\n5 - No prazo de cinco dias úteis após a decisão, o IPJ comunica às entidades promotoras a rejeição ou a aprovação dos projectos apresentados.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116106": {
+   "fragment_id": "107112880",
+   "type": 11,
+   "heading": "Artigo 7.º — Financiamento",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Financiamento\n\n1 - O IPJ transfere para as entidades promotoras o apoio financeiro atribuído, calculado com base no número de jovens inscritos e na duração do projecto e em função de limites máximos a fixar por despacho da comissão executiva do IPJ, acrescido das taxas de participação recebidas dos participantes.\n\n2 - A transferência referida no número anterior é efectuada em duas prestações, sendo a primeira de 70% do valor total, que deve ocorrer até à data acordada para o início da actividade, e a segunda que deve ocorrer nos 20 dias úteis subsequentes à entrega do relatório final da actividade e contas.\n\n3 - As entidades promotoras não podem cobrar qualquer taxa extra aos jovens participantes.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116107": {
+   "fragment_id": "107112881",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres das entidades promotoras",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Deveres das entidades promotoras\n\nConstituem deveres gerais das entidades promotoras:\n\na) Cumprir pontualmente o programa do projecto aprovado;\n\nb) Assegurar o acompanhamento permanente dos jovens, durante toda a duração da actividade, através de monitores qualificados;\n\nc) Dar prévio conhecimento ao IPJ das alterações à planificação inicial da actividade, caso venham a verificar-se;\n\nd) Apresentar ao IPJ, no prazo de 20 dias úteis após a conclusão da actividade, o relatório final da actividade e contas;\n\ne) Publicitar, de acordo com as orientações gerais definidas pelo IPJ, o apoio do Programa Férias em Movimento e do IPJ ao projecto.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116108": {
+   "fragment_id": "107112882",
+   "type": 11,
+   "heading": "Artigo 9.º — Cancelamento das actividades",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 9.º — Cancelamento das actividades\n\n1 - Após a recepção da comunicação de que a respectiva proposta foi aprovada, a entidade promotora não pode cancelar a actividade por motivos que lhe sejam imputáveis.\n\n2 - Após o fecho das inscrições dos participantes, se não for atingida a ocupação mínima de vagas acordadas com a entidade promotora, a actividade pode ser cancelada pelo IPJ.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116109": {
+   "fragment_id": "107112883",
+   "type": 11,
+   "heading": "Artigo 10.º — Penalizações",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Penalizações\n\n1 - A existência de quaisquer irregularidades na aplicação das verbas concedidas, nomeadamente a sua utilização para fins diferentes dos estabelecidos, implica a imediata suspensão do processamento das mesmas, não podendo a entidade beneficiar de qualquer espécie de apoio por um prazo não inferior a dois anos.\n\n2 - A não apresentação do relatório nos termos referidos na alínea d) do n.º 1 do artigo 8.º do presente Regulamento implica a reposição das verbas já recebidas e a inelegibilidade de novos projectos ao abrigo do Programa.\n\n3 - Caso existam dúvidas na análise do relatório ou do balancete financeiro, o IPJ pode solicitar à entidade documentos comprovativos das acções ou despesas nele apresentadas.\n\n4 - O incumprimento, por parte de qualquer entidade promotora, do disposto no n.º 1 do artigo 9.º do presente Regulamento implica, para além da devolução das verbas já recebidas ao abrigo do Programa, a imediata suspensão de todos os apoios por parte do IPJ, não podendo a entidade beneficiar de qualquer espécie de apoio por um prazo não inferior a dois anos.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116110": {
+   "fragment_id": "107112884",
+   "type": 1,
+   "heading": "Capítulo III — Jovens participantes",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "### Capítulo III — Jovens participantes\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116111": {
+   "fragment_id": "107112885",
+   "type": 11,
+   "heading": "Artigo 11.º — Inscrições dos participantes",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 11.º — Inscrições dos participantes\n\n1 - A inscrição dos jovens participantes deve ser feita através do preenchimento de formulário próprio via Internet ou junto dos serviços do IPJ.\n\n2 - A participação de jovens menores nas actividades do presente Programa só tem lugar se devidamente autorizada pelo respectivo representante legal.\n\n3 - A inscrição dos participantes fica condicionada ao efectivo pagamento da taxa de inscrição, que pode ser efectuado mediante cartão de crédito, multibanco, cheque ou numerário.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116112": {
+   "fragment_id": "107112886",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres do participante",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 12.º — Deveres do participante\n\n1 - O participante deve respeitar os regulamentos em vigor e é responsável pelos prejuízos causados à entidade promotora ou a terceiros, podendo incorrer na pena de exclusão quando a sua acção tenha afectado o normal funcionamento da actividade.\n\n2 - O participante deve prestar informações correctas e apresentar toda a documentação necessária à sua participação solicitada nos termos do presente Regulamento ou de outros que venham a ser elaborados.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116113": {
+   "fragment_id": "107112887",
+   "type": 11,
+   "heading": "Artigo 13.º — Desistências",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 13.º — Desistências\n\nO participante ou o seu representante legal podem desistir da inscrição no Programa comunicando essa intenção à delegação regional do IPJ do distrito onde se vai realizar o campo, nas seguintes condições:\n\na) Para as comunicações de desistência chegadas antes do fim do prazo das inscrições, é devolvida uma percentagem de 75% do total da inscrição;\n\nb) Para as comunicações de desistência após o final do prazo das inscrições ou a não comparência na actividade, não há lugar a qualquer reembolso.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116114": {
+   "fragment_id": "107112888",
+   "type": 1,
+   "heading": "Capítulo IV — Instituto Português da Juventude",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "### Capítulo IV — Instituto Português da Juventude\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116115": {
+   "fragment_id": "107112889",
+   "type": 11,
+   "heading": "Artigo 14.º — Deveres do Instituto Português da Juventude",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 14.º — Deveres do Instituto Português da Juventude\n\nConstituem deveres do IPJ:\n\na) Efectuar os pagamentos devidos;\n\nb) Prestar informação aos jovens relativa ao Programa e publicitar os projectos aprovados, identificando claramente a entidade promotora da actividade;\n\nc) Aceitar as inscrições dos jovens participantes nos projectos aprovados;\n\nd) Acompanhar e avaliar o desenrolar das actividades desenvolvidas;\n\ne) Esclarecer e interpretar eventuais dúvidas suscitadas pelo presente Regulamento;\n\nf) Comunicar com a antecedência mínima de cinco dias do início das actividades a aprovação dos projectos;\n\ng) Efectuar um seguro de acidentes pessoais para todos os jovens participantes nos campos de férias.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116116": {
+   "fragment_id": "107112890",
+   "type": 11,
+   "heading": "Artigo 15.º — Cancelamentos",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 15.º — Cancelamentos\n\nO IPJ reserva-se o direito de cancelar projectos aprovados e em fase de execução desde que se revelem desadequados, obrigando-se, neste caso, ao reembolso do participante do valor pago no acto da inscrição pelos participantes.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116117": {
+   "fragment_id": "107112891",
+   "type": 11,
+   "heading": "Artigo 16.º — Responsabilidades",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 16.º — Responsabilidades\n\n1 - O IPJ não é responsável por quaisquer danos sofridos por bens ou pessoas afectas às entidades promotoras ou face a terceiros.\n\n2 - O IPJ não é responsável por qualquer dano pessoal sofrido na deslocação até ao ponto de encontro, identificado na ficha de candidatura da entidade promotora, bem como após a partida.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  },
+  "107116118": {
+   "fragment_id": "107112892",
+   "type": 11,
+   "heading": "Artigo 17.º — Financiamento",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+   ],
+   "markdown": "###### Artigo 17.º — Financiamento\n\nA aprovação dos projectos apresentados fica condicionada à dotação orçamental para o Programa Férias em Movimento.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 183/2017 - Diário da República n.º 105/2017, Série I de 2017-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/183-2017-107106264), em vigor a partir de 2017-06-01"
+  }
+ }
+}

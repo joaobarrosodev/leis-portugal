@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:167904904:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-909476930",
+ "dre_path": "/dr/detalhe/portaria/156-a-2021-167904904",
+ "source_lastmod": "2025-03-03",
+ "versions": [
+  {
+   "date": "2021-07-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "909467183",
+    "909467184",
+    "909467185",
+    "909467186",
+    "909467187",
+    "909467188",
+    "909467189",
+    "909467190",
+    "909467191",
+    "909467192",
+    "909467193",
+    "909467194",
+    "909467195",
+    "909467197",
+    "909467198"
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:909476477:por",
+     "title": "Portaria n.º 79/2025/1",
+     "published": "2025-03-03",
+     "dre_path": "/dr/detalhe/portaria/79-2025-909476477"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "909467183",
+    "909467184",
+    "909467207",
+    "909467186",
+    "909467187",
+    "909467188",
+    "909467189",
+    "909467190",
+    "909467191",
+    "909467192",
+    "909467193",
+    "909467194",
+    "909467195",
+    "909467196",
+    "909467208",
+    "909467198"
+   ]
+  }
+ ],
+ "fragments": {
+  "909467183": {
+   "fragment_id": "909476931",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 156-A/2021\n\nde 20 de julho\n\nSumário: Estabelece as regras de repartição, pelos navios nacionais, das quotas disponíveis para operar no Atlântico Norte, com vista a um melhor aproveitamento das quotas de pesca a nível nacional.\n\nAs regras e respetiva determinação das quotas de pesca disponíveis para Portugal nas áreas de regulamentação da Organização das Pescarias do Noroeste do Atlântico (NAFO), a Comissão de Pescarias do Atlântico Nordeste (NEAFC) - Mar de Irminger - e, ainda, Zona Económica Exclusiva (ZEE) da Noruega e as águas em torno de Svalbard são fixadas, anualmente, através de Regulamento do Conselho.\n\nCom vista a assegurar a conservação dos recursos da pesca, a NAFO tem autoridade para adotar decisões vinculativas, principalmente dirigidas às partes contratantes, mas que comportam, igualmente, obrigações para os operadores. As medidas de conservação e de execução (MCE) da NAFO, sendo vinculativas para as partes contratantes, devem, no caso da União Europeia (UE), ser integradas no respetivo acervo legislativo.\n\nAtento a necessidade de assegurar o cumprimento do Regulamento (UE) 2017/2403 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017, relativo à gestão sustentável das frotas de pesca externas, e garantir que todos os navios nacionais a licenciar para operar no Atlântico Norte dão cabal cumprimento às obrigações previstas em matéria de conservação e controlo da atividade, decorrentes da regulamentação da UE, das Organizações Regionais de Pesca e de acordos da UE com países terceiros.\n\nO Decreto-Lei n.º 73/2020, de 23 de setembro, que aprova o regime jurídico do exercício da atividade profissional da pesca comercial marítima e da autorização, registo e licenciamento dos navios ou embarcações utilizadas na referida atividade, passou a prever a necessidade da definição de limites de captura e a repartição das possibilidades de pesca, revestir a forma de portaria.\n\nNeste contexto, e em execução dos referidos regulamentos, é adotada a presente portaria, que estabelece as regras de repartição, pelos navios nacionais, das quotas disponíveis, adotando-se um sistema de gestão flexível das mesmas para permitir que cada empresa possa gerir, com estabilidade, a atividade dos seus navios, com vista a um melhor aproveitamento das quotas de pesca a nível nacional.\n\nForam ouvidos a Associação dos Armadores das Pescas Industriais (ADAPI), bem como as empresas armadoras sem representação associativa, quanto à distribuição de quotas na NAFO, na NEAFC, na Noruega e no Svalbard.\n\nAssim, ao abrigo do disposto na alínea c) do n.º 1 e no n.º 6 do artigo 6.º conjugado com o n.º 6 do artigo 40.º do Decreto-Lei n.º 73/2020, de 23 de setembro, e no uso da delegação de competências conferida pelo Despacho n.º 10712-E/2020, do Ministro do Mar, publicado no Diário da República, 2.ª série, n.º 212, de 30 de outubro de 2020, manda o Governo, pela Secretária de Estado das Pescas, o seguinte:"
+  },
+  "909467184": {
+   "fragment_id": "909476932",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as regras para a gestão das quotas e possibilidades de pesca disponíveis dos stocks identificados no anexo i e ii, da qual faz parte integrante, nas seguintes áreas:\n\na) Área de Regulamentação da Organização das Pescarias do Noroeste do Atlântico (NAFO);\n\nb) Área de Regulamentação da Comissão de Pescarias do Atlântico Nordeste (NEAFC);\n\nc) Zona Económica Exclusiva (ZEE) da Noruega, incluindo as águas em torno de Svalbard;\n\nd) Nas águas da União e internacionais definidas pelo Conselho Internacional para a Exploração do Mar (CIEM) e na divisão 34.1.1 definida pelo Comité das Pescas para o Atlântico Centro Este (CECAF)."
+  },
+  "909467185": {
+   "fragment_id": "909476933",
+   "type": 11,
+   "heading": "Artigo 2.º — Repartição de quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Repartição de quotas\n\n1 - As possibilidades de pesca nas áreas de regulamentação previstas nas alíneas a), b) e c) do artigo anterior, são repartidas por navio, de acordo com a chave de repartição aplicável estabelecida no anexo i à presente portaria, da qual faz parte integrante.\n\n2 - As possibilidades de pesca de cantarilho no Mar de Irminger são distribuídas por seis navios, identificados no anexo i à presente portaria, da qual faz parte integrante.\n\n3 - Sem prejuízo do disposto no número anterior, as empresas titulares de licenças podem solicitar à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) autorização para que a captura da totalidade ou de parte da quota de um navio seja efetuada por outro navio constante do anexo i, solicitando, se necessário, a respetiva autorização para a captura de cantarilho nestes pesqueiros.\n\n4 - As possibilidades de pesca de cantarilho na ZEE da Noruega destina-se a capturas acessórias de navios constantes do anexo i, que capturam bacalhau na referida zona, mediante autorização especial de pesca.\n\n5 - As possibilidades de pesca nacionais estabelecidas para as zonas definidas pelo Conselho Internacional para a Exploração do Mar (CIEM), de carapau nas águas UE 2a, 4a, 6, 7a, 7c, 7e a 7k, 8a, 8b, 8d e 8e e águas internacionais 12 e 14 e nas águas UE 4b e 4c e 7d, de arenque nas zonas 1 e 2, de verdinho nas águas UE e internacionais 1a, 8a, 8b, 8d, 8e, 12 e 14, e 12,5 % da quota nacional de sarda, nas zonas 8c, 9 e 10 e águas UE da CECAF, são repartidas pelos navios constantes do anexo i nos termos do disposto no anexo ii.\n\n6 - As quotas atribuídas ao abrigo da presente portaria não constituem direitos adquiridos dos titulares das licenças, podendo ser, a todo o tempo, retiradas ou diminuídas em resultado de decisões nacionais ou da UE, no âmbito da conservação e gestão de recursos."
+  },
+  "909467186": {
+   "fragment_id": "909476934",
+   "type": 11,
+   "heading": "Artigo 3.º — Comunicação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comunicação prévia\n\nOs armadores dos navios de pesca que constam do anexo i, que participam nas pescarias referidas no n.º 4 do artigo 2.º devem informar previamente a DGRM, a intenção de iniciar a campanha anual de pesca."
+  },
+  "909467187": {
+   "fragment_id": "909476935",
+   "type": 11,
+   "heading": "Artigo 4.º — Planos de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Planos de pesca\n\nOs titulares das licenças dos navios previstos nos anexos i e ii, devem apresentar à DGRM, um plano de pesca contendo a previsão do número de dias de pesca a exercer em cada ano, por navio, naquela área regulamentar, assim como, nos outros pesqueiros do Atlântico Norte para que se encontrem licenciados, nos termos do disposto no artigo 22.º do Regulamento (UE) 2019/833 do Parlamento Europeu e do Conselho, de 20 de maio de 2019."
+  },
+  "909467188": {
+   "fragment_id": "909476936",
+   "type": 11,
+   "heading": "Artigo 5.º — Licenciamento para a captura de camarão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licenciamento para a captura de camarão\n\n1 - O licenciamento para captura de camarão na subdivisão 3M da NAFO e para a captura de camarão no Svalbard, é realizada nos seguintes termos:\n\na) Em alternância anual, o navio Princesa Santa Joana e um dos restantes navios constantes do anexo i à presente portaria, para um destes dois pesqueiros;\n\nb) O navio Princesa Santa Joana é autorizado, em 2021, para a captura de camarão no Svalbard e para a captura de camarão na zona 3M NAFO em 2022, continuando nos anos seguintes a ser autorizado, alternadamente, para um destes dois pesqueiros.\n\n2 - Para o pesqueiro em que o navio Princesa Santa Joana não tenha sido autorizado, é autorizado, anualmente um dos restantes navios constantes do anexo i à presente portaria, definidos pela ordem alfabética que detinham à data da ordenação, tal como se indica: Santa Princesa (antigo Brites), Cidade de Amarante, Coimbra, França Morte, Novo Virgem da Barca (anterior Joana Princesa), Lutador, Pascoal, Atlântico, Santa Cristina e Santa Mafalda.\n\n3 - Aplica-se o critério estabelecido na alínea anterior para captura de camarão na zona 3M NAFO, autorizando, em 2021, o navio Cidade de Amarante.\n\n4 - Até 31 de dezembro do ano anterior, os titulares das licenças dos navios a autorizar de acordo com o disposto neste artigo informam a DGRM da sua intenção de, na campanha seguinte, utilizar a respetiva autorização, sendo que, caso não pretendam utilizá-la, a mesma será disponibilizada a outro navio que manifeste interesse na pescaria.\n\n5 - Havendo mais de um navio interessado, será atribuída prioridade ao navio seguinte do anexo, conforme previsto nos n.os 1 e 2."
+  },
+  "909467189": {
+   "fragment_id": "909476937",
+   "type": 11,
+   "heading": "Artigo 6.º — Limitação do esforço de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limitação do esforço de pesca\n\nNo caso de serem estabelecidos limites ao esforço de pesca expressos em número de dias de pesca estes são repartidos pelos navios autorizados de forma proporcional às possibilidades de pesca atribuídas a cada navio."
+  },
+  "909467190": {
+   "fragment_id": "909476938",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão da utilização das quotas e sua transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão da utilização das quotas e sua transferência\n\n1 - Os titulares das licenças de pesca gerem livremente a utilização das quotas de pesca atribuídas aos seus navios, constantes dos anexos, podendo agregar ou repartir as quotas atribuí-das a cada um deles substituindo uns pelos outros.\n\n2 - A transferência de quotas entre navios da mesma sociedade deve ser previamente comunicada à DGRM quando os navios que beneficiem dessa transferência estejam já autorizados para a captura das mesmas unidades populacionais estando, nos restantes casos, sujeita a autorização prévia do diretor-geral da DGRM.\n\n3 - A transferência de quotas entre navios de diferentes sociedades, no caso de já se encontrarem licenciados para a captura da unidade populacional em causa, deve ser prévia e conjuntamente comunicada à DGRM pelas empresas ou sociedades titulares das licenças dos navios cujas quotas são objeto da transferência, estando, nos restantes casos, sujeita a autorização prévia do diretor-geral da DGRM.\n\n4 - O disposto nos números anteriores não exclui a possibilidade de serem autorizados e contemplados na atribuição de quotas em cada ano os navios que, por força da liberdade de gestão das quotas, não operem no ano anterior.\n\n5 - Cada titular de licença pode promover com titulares de licenças de navios de outros Estados-Membros ou de países terceiros, a troca de quotas individuais atribuídas aos referidos navios, devendo, para tal, solicitar à DGRM a concretização da transferência de quotas com o Estado-Membro ou país terceiro em causa.\n\n6 - Caso um dos navios constantes do anexo i venha a ser retirado da frota nacional sem recurso a ajuda pública, as quotas de pesca que lhe estavam afetas podem ser transferidas definitivamente para outro ou outros navios propriedade da mesma empresa que integrem os mesmos anexos, mediante autorização da DGRM e desde que nos dois últimos anos não tenha registo de infrações classificadas como graves no regime de controlo nacional ou da UE.\n\n7 - Estando em causa a substituição de um navio constante do anexo i à presente portaria o registo do navio substituto na frota nacional tem de ocorrer no prazo de cinco anos contados a partir da data de transferência das quotas de pesca a que se refere o número seguinte.\n\n8 - As quotas do navio a substituir são temporariamente transferidas, a partir da data da autorização da substituição, para outro ou outros navios da mesma empresa até à entrada ao serviço do navio substituto, cujo licenciamento estará sujeito às condições legais e operacionais existentes naquela data, devendo a transferência ser previamente comunicada à DGRM."
+  },
+  "909467191": {
+   "fragment_id": "909476939",
+   "type": 11,
+   "heading": "Artigo 8.º — Utilização e saldos das quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Utilização e saldos das quotas\n\n1 - As possibilidades de pesca nacionais atribuídas a cada navio devem ser capturadas até ao final do ano civil e, em caso de não utilização integral da quota individual atribuída, os remanescentes por utilizar das quotas individuais dos navios autorizados que excedam 5 % da quota disponível do navio, passam a constituir um saldo comum de quota nacional, disponível para todos os navios constantes dos anexos i e ii licenciados para a captura da unidade populacional em causa, salvo em caso de declaração de compromisso pelo armador de cumprimento do saldo de quota até ao final do ano, comunicada à DGRM até 1 de novembro.\n\n2 - No caso de incumprimento da declaração de compromisso prevista no número anterior, as quotas individuais de pesca atribuídas ao navio no ano seguinte, é reduzida dos saldos de quotas não utilizadas no ano anterior.\n\n3 - Os saldos retirados aos navios nos termos do disposto no número anterior, são repartidos pelos restantes navios, com base na chave de repartição aplicável, exceto, se ouvido incumpridor, for determinada a não aplicação deste mecanismo por despacho do diretor-geral da DGRM,\n\n4 - Os saldos comuns podem ser utilizados para trocas com outros Estados-Membros ou países terceiros, a menos que os armadores manifestem interesse na sua utilização, num prazo de quarenta e oito horas, após consulta da DGRM."
+  },
+  "909467192": {
+   "fragment_id": "909476940",
+   "type": 11,
+   "heading": "Artigo 9.º — Medidas especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas especiais\n\n1 - As quotas individuais atribuídas aos navios constantes dos Anexos não podem ser ultrapassadas, ainda que temporariamente.\n\n2 - Com vista ao aproveitamento integral das possibilidades de pesca nacionais, o diretor-geral da DGRM, atentos vários fatores, designadamente, as capturas médias na área e na época de um dado ano, pode, mediante despacho, tornar disponível a totalidade ou parte das quotas atribuídas a um ou mais navios, a todos os navios licenciados para a captura das unidades populacionais em causa.\n\n3 - Por despacho do diretor-geral da DGRM pode ser determinado o encerramento da pesca de determinadas unidades populacionais constantes dos Anexos, a fim de evitar situações de ultrapassagem das quotas nacionais.\n\n4 - Na eventualidade de uma redução das possibilidades de pesca nacionais, por força de dedução por sobrepesca, prevista no artigo 105.º do Regulamento (CE) n.º 1224/2009 do Conselho, de 20 de novembro, a DGRM faz repercutir a redução nos navios cuja atividade tenha originado a sobrepesca.\n\n5 - Se a redução das possibilidades de pesca de um só navio, determinada pelo número anterior, não for suficiente para acomodar a redução das possibilidades de pesca nacionais, a DGRM faz repercutir a redução nos outros navios do mesmo titular."
+  },
+  "909467193": {
+   "fragment_id": "909476941",
+   "type": 11,
+   "heading": "Artigo 10.º — Sobrepesca de quota individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sobrepesca de quota individual\n\n1 - Nos casos em que se verifique sobrepesca de quota individual, ou seja, a ultrapassagem por um, ou mais navios de pesca, das quotas individuais atribuídas causando prejuízo à captura a outros navios de pesca, com quota disponível à data do encerramento da pesca, é retirada a quantidade correspondente à sobrepesca ao navio de pesca que originou a referida sobrepesca, no ano em curso ou nos seguintes, até à sua dedução total.\n\n2 - Para efeitos do disposto no número anterior, as quantidades correspondentes à sobrepesca de quota individual são adicionadas às quotas dos navios que ficaram prejudicadas.\n\n3 - Para efeitos de penalização ou ressarcimento dos navios envolvidos, é considerado o saldo das respetivas quotas individuais verificado à data do encerramento da pescaria."
+  },
+  "909467194": {
+   "fragment_id": "909476942",
+   "type": 11,
+   "heading": "Artigo 11.º — Fixação de quotas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fixação de quotas anuais\n\nEm cada ano, os dias de pesca e os montantes das quotas nacionais aplicáveis, aos navios autorizados e respetivas quotas individuais são fixados mediante despacho do diretor-geral da DGRM, a publicitar no sítio da Internet desta Direção-Geral, em www.dgrm.mm.gov.pt."
+  },
+  "909467195": {
+   "fragment_id": "909476943",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2021."
+  },
+  "909467197": {
+   "fragment_id": "909476945",
+   "type": 14,
+   "heading": "Anexo I — Licenciamento e repartição de quotas por navio no Atlântico Norte - NAFO, Noruega e Svalbard",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Licenciamento e repartição de quotas por navio no Atlântico Norte - NAFO, Noruega e Svalbard\n\n(ver documento original)"
+  },
+  "909467198": {
+   "fragment_id": "909476946",
+   "type": 14,
+   "heading": "Anexo II — Licenciamento e repartição de quotas por navio no Atlântico Norte - Pelágicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Licenciamento e repartição de quotas por navio no Atlântico Norte - Pelágicos\n\n(ver documento original)\n\n114426281"
+  },
+  "909467207": {
+   "fragment_id": "909476933",
+   "type": 11,
+   "heading": "Artigo 2.º — Repartição de quotas",
+   "in_force_from": "2025-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/79-2025-909476477), em vigor a partir de 2025-03-04, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Repartição de quotas\n\n1 - As possibilidades de pesca nas áreas de regulamentação previstas nas alíneas a), b) e c) do artigo anterior, são repartidas por navio, de acordo com a chave de repartição aplicável estabelecida no anexo i à presente portaria, da qual faz parte integrante.\n\n2 - As possibilidades de pesca de cantarilho no Mar de Irminger são distribuídas por seis navios, identificados no anexo i à presente portaria, da qual faz parte integrante.\n\n3 - Sem prejuízo do disposto no número anterior, as empresas titulares de licenças podem solicitar à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) autorização para que a captura da totalidade ou de parte da quota de um navio seja efetuada por outro navio constante do anexo i, solicitando, se necessário, a respetiva autorização para a captura de cantarilho nestes pesqueiros.\n\n4 - As possibilidades de pesca de cantarilho na ZEE da Noruega destina-se a capturas acessórias de navios constantes do anexo i, que capturam bacalhau na referida zona, mediante autorização especial de pesca.\n\n5 - As possibilidades de pesca nacionais estabelecidas para as zonas definidas pelo Conselho Internacional para a Exploração do Mar (CIEM), de carapau nas águas UE 2a, 4a, 6, 7a, 7c, 7e a 7k, 8a, 8b, 8d e 8e e águas internacionais 12 e 14 e nas águas UE 4b e 4c e 7d, de arenque nas zonas 1 e 2, de verdinho nas águas UE e internacionais 1a, 8a, 8b, 8d, 8e, 12 e 14, e 12,5 % da quota nacional de sarda, nas zonas 8c, 9 e 10 e águas UE da CECAF, são repartidas pelos navios constantes do anexo i nos termos do disposto no anexo ii.\n\n6 - Caso sejam atribuídas quotas de pesca a Portugal relativamente a novas unidades populacionais, estas são repartidas pelos navios licenciados para operar na área em causa, de acordo com os critérios previstos no n.º 2 do artigo 6.º do Decreto-Lei n.º 73/2020, de 23 de setembro, designadamente, o registo histórico das capturas e as zonas de atuação habitual desses navios.\n\n7 - Os critérios para atribuição de quotas, a que se refere o número anterior, e após a audiência de interessados, constam do despacho referido no artigo 11.º\n\n8 - As quotas atribuídas ao abrigo da presente portaria não constituem direitos adquiridos dos titulares das licenças, podendo ser, a todo o tempo, retiradas ou diminuídas em resultado de decisões nacionais ou da UE, no âmbito da conservação e gestão de recursos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/79-2025-909476477), em vigor a partir de 2025-03-04, produz efeitos a partir de 2025-01-01"
+  },
+  "909467196": {
+   "fragment_id": "909476944",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 19 de julho de 2021."
+  },
+  "909467208": {
+   "fragment_id": "909476945",
+   "type": 14,
+   "heading": "Anexo I — Licenciamento e repartição de quotas por navio no Atlântico Norte - NAFO, Noruega e Svalbard",
+   "in_force_from": "2025-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 79/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/79-2025-909476477), em vigor a partir de 2025-03-04, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo I — Licenciamento e repartição de quotas por navio no Atlântico Norte - NAFO, Noruega e Svalbard\n\n| **Navio** | **Registo frota UE** | **Abrótea** | **Bacalhau** | **Cantarilho** | **Palmeta** | **Camarão** | **Raia** |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **NAFO 3NO (HKW/N3NO.) (4)** | **Svalbard (COD/1/2B.) (1)** | **Noruega (COD/1N2AB.) (1)** | **NAFO 3M (COD/N3M.)** | **NAFO2J3KL (COD/N2J3KL)** | **Noruega (REB/1N2AB.) (2)** | **NAFO 3M (RED/N3M.) (4)** | **NAFO 3º (RED/N3O.) (4)** | **Irminger (RED/51214D) (3)** | **NAFO (GHL/N3LMNO) (4)** | **NAFO 3M (PRA(EFF/*N3M.)** | **Svalbard (PRA/EF_XSV)** | **NAFO3LNO (SKA/N3LNO) (4)** |  |  |\n| **% quota PT** | **% quota PT** | **% quota PT** | **% quota PT** | **% quota PT** | **% quota PT** | **% quota PT** | **% quota PT** | **% quota PT** | **% quota PT** | **1 navio** | **1 navio** | **% quota PT** |  |  |\n| Cidade de Amarante | PRT000019075 | 6,08 | 11,11 | 11,11 | 8,33 | 9,17 | (**) | 6,08 | 6,08 | 16,66 | 6,67 | (***) | (***) | 6,08 |\n| Coimbra | PRT000000095 | 6,08 | 11,11 | 11,11 | 8,33 | 9,17 | (**) | 6,08 | 6,08 | 16,66 | 6,67 | (***) | (***) | 6,08 |\n| França Morte | PRT000023094 | 20,73 | 11,11 | 11,11 | 16,66 | 13,33 | (**) | 20,73 | 20,73 | (*) | 19,99 | (***) | (***) | 20,73 |\n| Lutador | PRT000000100 | 6,08 | 11,11 | 11,11 | 8,33 | 9,17 | (**) | 6,08 | 6,08 | 16,66 | 6,67 | (***) | (***) | 6,08 |\n| Novo Virgem da Barca | ESP000015586 | 22,23 | (**) | (**) | (**) | 5,00 | (**) | (**) | 22,23 | (*) | 20,01 | (***) | (***) | 22,23 |\n| Pascoal Atlântico | PRT000019387 | 6,08 | 11,11 | 11,11 | 8,33 | 9,17 | (**) | 6,08 | 6,08 | 16,66 | 6,67 | (***) | (***) | 6,08 |\n| Princesa Santa Joana | DEU110000301 | (**) | (*) | (*) | (**) | 5,00 | (**) | 13,32 | 13,32 | 16,66 | (**) | (***) | (***) | (**) |\n| Santa Cristina | PRT000000101 | 6,08 | (*) | (*) | 8,33 | 9,17 | (*) | 6,08 | 6,08 | (*) | 6,67 | (***) | (***) | 6,08 |\n| Santa Mafalda | PRT000000099 | 26,64 | 11,11 | 11,11 | 16,66 | 13,33 | (**) | 13,32 | 13,32 | (*) | 26,64 | (***) | (***) | 26,64 |\n| Santa Princesa | DEU002120300 | (**) | 33,33 | 33,33 | 25,00 | 17,50 | (**) | 22,23 | (**) | 16,66 | (**) | (***) | (***) | (**) |\n\n(*) Sem licença para a zona e espécie.\n(**) Com licença para zona e espécie.\n(***) De acordo com o artigo 5.º da presente portaria.\n(1) Pesca livre para todos os navios licenciados a partir de 1 de novembro, salvo se a empresa assumir que captura a(s) quota(s) atribuída(s) aos respetivos navios até ao final do ano.\n(2) Quota acessível a todos os navios licenciados para a Noruega.\n(3) Pesca livre a partir de 1 de maio para todos os navios licenciados para o mar de Irminger, salvo se a empresa assumir que captura a(s) quota(s) atribuída(s) aos respetivos navios até ao final do ano.\n(4) Pesca livre a partir de 1 de julho, salvo se a empresa assumir que captura a(s) quota(s) atribuída(s) ao(s) respetivo(s) navio(s) até final do ano.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 79/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/79-2025-909476477), em vigor a partir de 2025-03-04, produz efeitos a partir de 2025-01-01"
+  }
+ }
+}

@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:156234:por
+title: Portaria n.º 19493
+short_title: null
+summary: Aprova o modelo do cartão de identidade a fornecer aos funcionários civis dos Serviços Sociais das Forças Armadas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho - Gabinete do Ministro da Defesa Nacional - Secretariado dos Serviços Sociais das Forças Armadas
+proposing_entity: null
+official_number: '19493'
+official_date: null
+publication_date: '1962-11-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 259/1962, Série I de 1962-11-10
+  number: '259'
+  series: I
+  supplement: null
+  pages: 1469 - 1470
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/11/25900/14691470.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '156234'
+  dre_path: /dr/detalhe/portaria/19493-1962-156234
+  internal: pt:dre:156234:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19493-1962-156234
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19493-1962-156234
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-11-10T00:00:00Z'
+integrity:
+  source_sha256: 8d63b7f2bb612569806de6174c9532991cdf1f9449f5e6262068e6bb29b9a0cc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-19493-156234.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19493
+
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, aprovar o modelo, anexo a esta portaria, do cartão de identidade a fornecer aos funcionários civis dos Serviços Sociais das Forças Armadas.
+
+A emissão dos referidos cartões reger-se-á pelas disposições seguintes:
+
+1.ª Compete à Repartição do Pessoal do Secretariado dos Serviços Sociais das Forças Armadas a emissão dos cartões, a qual fará, em livro especial, o registo dos que forem emitidos, com as fotografias dos funcionários e os outros elementos de identificação necessários.
+
+2.ª Os cartões só terão validade depois de assinados pelo secretário-geral, ou por quem legalmente o substituir, e de autenticados com o selo branco do Secretariado dos Serviços Sociais das Forças Armadas.
+
+3.ª Os cartões devem ser substituídos sempre que os funcionários mudem de categoria e recolhidos quando os portadores deixem de exercer a função em virtude da qual os mesmos lhes foram concedidos.
+
+Presidência do Conselho, 10 de Novembro de 1962. - O Ministro da Defesa Nacional, António de Oliveira Salazar.
+
+Modelo do cartão de identidade a que se refere a Portaria n.º 19493
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/25900/14691470.pdf))](https://files.diariodarepublica.pt/1s/1962/11/25900/14691470.pdf)
+
+Características:
+
+a) Cartolina branca.
+
+b) Formato 12 cm x 8 cm.
+
+Presidência do Conselho, 10 de Novembro de 1962. - O Ministro da Defesa Nacional, António de Oliveira Salazar.

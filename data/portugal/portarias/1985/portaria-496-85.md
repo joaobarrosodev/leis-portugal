@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:183621:por
+title: Portaria n.º 496/85
+short_title: null
+summary: Sujeita ao regime de preços as especialidades farmacêuticas de produção nacional ou importadas, com exclusão das
+  especialidades farmacêuticas de venda livre e de uso veterinário
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Saúde, da Indústria e Energia e do Comércio e Turismo
+proposing_entity: null
+official_number: 496/85
+official_date: null
+publication_date: '1985-07-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 165/1985, Série I de 1985-07-20
+  number: '165'
+  series: I
+  supplement: null
+  pages: 2141 - 2142
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16500/21412142.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '183621'
+  dre_path: /dr/detalhe/portaria/496-1985-183621
+  internal: pt:dre:183621:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/496-1985-183621
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/496-1985-183621
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-01-13T00:00:00Z'
+integrity:
+  source_sha256: b42da9d9bf99fa731ced1cc74a4601ce3a683fe98e0cad7785b912aab9239a96
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-496-183621.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:333525:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 496/85
+
+de 29 de Julho
+
+Considerando que as modificações operadas durante o ano de 1984 no sistema de comparticipações pelo Serviço Nacional de Saúde e pela Direcção-Geral de Protecção Social aos funcionários e agentes da Administração Pública na aquisição de especialidades farmacêuticas introduziram significativas alterações em todo o sector da indústria farmacêutica;
+
+Considerando que no início de 1986 as especialidades farmacêuticas comparticipadas deverão passar a ser dispensadas pelo número de unidades indicadas no receituário médico;
+
+Considerando que se reveste do maior interesse para a saúde pública, e consequentemente para a economia nacional, a concessão à indústria farmacêutica de um conjunto de incentivos que possibilitem o seu adequado desenvolvimento;
+
+Considerando ainda que o actual sistema de fixação de preços de especialidades farmacêuticas, em vigor há vários anos, necessita de ser convenientemente ajustado às realidades actuais e aos objectivos pretendidos, de forma a contribuir com maior flexibilidade, transparência e rapidez para as exigências de uma gestão moderna e racional do sector industrial farmacêutico:
+
+Ao abrigo do disposto no artigo 17.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, e no artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Saúde, da Indústria e Energia e do Comércio e Turismo, o seguinte:
+
+1.º As especialidades farmacêuticas de produção nacional ou importadas, com exclusão das especialidades farmacêuticas de venda livre e de uso veterinário, ficam sujeitas ao regime de preços estabelecidos pelo presente diploma.
+
+2.º O regime de preços a que se refere o n.º 1.º consiste na fixação anual dos preços das especialidades farmacêuticas, a praticar a partir de 1 de Janeiro de cada ano, nos termos estabelecidos pelo presente diploma.
+
+3.º Para efeitos do disposto no número anterior, as respectivas empresas produtoras ou importadoras deverão apresentar obrigatoriamente na Direcção-Geral de Concorrência e Preços (DGCP), até 30 de Novembro de cada ano, em modelo próprio e por carta registada com aviso de recepção, para todas as especialidades farmacêuticas que comercializam a listagem dos preços que pretendem praticar de acordo com as regras definidas nos termos do presente diploma, acompanhada dos respectivos elementos justificativos.
+
+4.º Os preços de venda ao público (PVP) das especialidades farmacêuticas referidas no presente diploma não poderão exceder o valor máximo que resulta da comparação com os preços de referência nos estádios de produção ou importação (PVA) em vigor em determinados países de referência para especialidades farmacêuticas idênticas ou similares, quando existam, sem taxas e impostos, acrescido de diferenciais compensatórios de valor acrescentado nacional e de exportação e das margens de comercialização, taxas e impostos vigentes em Portugal.
+
+5.º Por despacho conjunto dos Ministros das Finanças e do Plano, da Saúde, da Indústria e Energia e do Comércio e Turismo serão definidos:
+
+a) Os países de referência e as formas de cálculo dos preços de referência a que se refere o presente diploma;
+
+b) Os diferenciais compensatórios de valor acrescentado nacional e de exportação;
+
+c) Os critérios de determinação das comparações a que se refere o número anterior;
+
+d) O câmbio para conversão em escudos dos preços de referência;
+
+e) O índice de referência a estabelecer anualmente e aplicável às especialidades farmacêuticas de produção nacional para as quais não existam produtos idênticos ou similares nos países de referência;
+
+f) O regime de preços transitório, a vigorar em 1985, para os produtos a que se refere o presente diploma;
+
+g) Os critérios excepcionais de revisão de preços para especialidades farmacêuticas, a que se refere o presente diploma, imprescindíveis para a saúde pública e cuja produção no País não é viável no plano técnico e ou económico.
+
+6.º - 1 - Os preços apresentados pelas empresas poderão ser praticados na data referida no n.º 2.º, caso a DGCP não tenha efectuado até àquela data comunicação em contrário face às verificações que tenha efectuado.
+
+2 - A DGCP poderá ainda comunicar às empresas, até 60 dias após a data da entrada em vigor dos preços referidos no n.º 2.º, não estarem tais preços conformes com as regras estabelecidas no presente diploma, ficando, nesse caso, as empresas obrigadas a praticar os preços anteriormente em vigor ou os conformes com as regras estabelecidas, se inferiores àqueles.
+
+7.º Os preços de venda de especialidades farmacêuticas nacionais ou importadas a introduzir pela primeira vez no mercado nacional ou os referentes a alterações da forma farmacêutica, da dosagem e da origem ficam sujeitos, com as necessárias adaptações, às mesmas regras de fixação de preços a que se refere o presente diploma.
+
+8.º - 1 - A partir de 1 de Janeiro de 1986 os medicamentos comparticipados pelo Serviço Nacional de Saúde e pela Direcção-Geral de Protecção Social aos funcionários e agentes da Administração Pública deverão passar a ser dispensados pelo número de unidades, indicado no receituário médico.
+
+2 - A regulamentação do disposto no número anterior será objecto de legislação regulamentar subscrita pelos Ministros das Finanças e do Plano e da Saúde.
+
+9.º À violação do disposto no presente diploma aplica-se o [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+
+10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Ministérios das Finanças e do Plano, da Saúde, da Indústria e Energia e do Comércio e Turismo.
+
+**Assinada em 8 de Julho de 1985.**
+
+**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Ministro da Indústria e Energia, José Veiga Simão. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**

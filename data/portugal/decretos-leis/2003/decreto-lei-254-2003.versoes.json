@@ -1,0 +1,188 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:476700:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-108000655",
+ "dre_path": "/dr/detalhe/decreto-lei/254-2003-476700",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-10-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107997367",
+    "107997368",
+    "107997369",
+    "107997370",
+    "107997371",
+    "107997372",
+    "107997373",
+    "107997374",
+    "108001075",
+    "108001076"
+   ]
+  },
+  {
+   "date": "2004-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:480517:por",
+     "title": "Decreto-Lei n.º 208/2004",
+     "published": "2004-08-19",
+     "dre_path": "/dr/detalhe/decreto-lei/208-2004-480517"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "107997367",
+    "107997368",
+    "107997369",
+    "107997370",
+    "107997371",
+    "108001078",
+    "108001081",
+    "108001079",
+    "108001080",
+    "108001076",
+    "108001077"
+   ]
+  }
+ ],
+ "fragments": {
+  "107997367": {
+   "fragment_id": "108000656",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 254/2003\n\nde 18 de Outubro\n\nNos últimos anos verificou-se um aumento do número de incidentes a bordo de aeronaves provocado pelo comportamento de passageiros que não respeitam as regras de conduta estabelecidas ou que não seguem as instruções dos membros da tripulação, perturbando a boa ordem e a disciplina a bordo e afectando assim a segurança do transporte aéreo.\n\nDe harmonia com a classificação internacional no âmbito da Organização de Aviação Civil Internacional e da Conferência Europeia de Aviação Civil, tais passageiros são designados «passageiros desordeiros».\n\nA 33.ª Assembleia Geral da Organização da Aviação Civil Internacional, realizada em 2001, aprovou um projecto de legislação tipo, a ser adoptado por todos os Estados contratantes, de modo que estes legislem sobre as infracções praticadas por passageiros desordeiros.\n\nSaliente-se que, na mesma linha de orientação, e evidenciando as constantes e crescentes preocupações com o problema da segurança na aviação civil, foi publicado o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R2320\" title=\"Link para Regulamento da Comunidade Europeia\">2320/2002</a>, do Parlamento e do Conselho, de 16 de Dezembro, relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil.\n\nPretende-se, assim, dar execução à mencionada deliberação da Assembleia Geral da Organização da Aviação Civil Internacional, tendo em atenção o imposto pelo referido regulamento.\n\nO presente decreto-lei procede, nesta medida, ao alargamento da aplicação no espaço das leis penal e contra-ordenacional portuguesas, relativamente a actos cometidos a bordo de aeronaves alugadas, com ou sem tripulação, a um operador que tenha a sua sede em território português, e a bordo de aeronaves de matrícula estrangeira que se encontrem a sobrevoar espaço aéreo estrangeiro, desde que o local de aterragem seguinte seja território português e o comandante da aeronave entregue o presumível infractor às autoridades portuguesas competentes. Realce-se, todavia, que este alargamento da aplicação da lei portuguesa no espaço é limitado às infracções previstas no presente diploma.\n\nSemelhante alargamento foi já efectuado por convenções internacionais relativas à segurança da aviação civil, compreendendo, designadamente, os casos de captura ilícita e de sabotagem.\n\nEmbora estas convenções se tenham mostrado eficazes na luta contra os actos de terrorismo, não trataram, porém, de situações como as que agora se pretendem regular.\n\nPretende-se, ainda, estabelecer o agravamento de um terço dos limites mínimos e máximos das penas aplicáveis a certos crimes, já tipificados no Código Penal, quando cometidos a bordo de aeronaves civis, em voo comercial, criando perigo para a segurança da aeronave. Tal agravamento é justificado pela frequência com que se tem verificado a prática dessas condutas e pelos riscos que tais actos comportam para a segurança do transporte aéreo comercial.\n\nSão ainda tipificados um crime de desobediência a ordem ou instrução legítima destinada a garantir a segurança, a boa ordem e disciplina a bordo, dada pelo comandante da aeronave ou por qualquer membro da tripulação em seu nome, e um crime de difusão de informações falsas sobre o voo, quando tal provoque alarme ou inquietação entre os passageiros.\n\nAcresce, por último, que são tipificadas como contra-ordenação, designadamente, a utilização, a bordo de uma aeronave civil em voo comercial, de telemóvel ou qualquer outro mecanismo electrónico, bem como fumar, quando tal seja proibido.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 50/2003, de 22 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "107997368": {
+   "fragment_id": "108000657",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma tem por objecto a prevenção e repressão de actos de interferência ilícita cometidos a bordo de aeronave civil, em voo comercial, por passageiros desordeiros, através da tipificação de contra-ordenações, do agravamento dos limites mínimos e máximos de crimes já tipificados no Código Penal e do alargamento da aplicação no espaço das leis penal e contra-ordenacional portuguesas."
+  },
+  "107997369": {
+   "fragment_id": "108000658",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Voo comercial» a operação de aeronave que envolva o transporte de passageiros, carga ou correio efectuada mediante qualquer tipo de remuneração;\n\nb) «Aeronave em voo» desde o momento em que, terminado o embarque, tenham sido fechadas todas as portas exteriores até ao momento em que uma dessas portas seja aberta para desembarque. Em caso de aterragem forçada, o voo é considerado como estando a decorrer até que a autoridade competente se responsabilize pela aeronave, bem como pelas pessoas e bens a bordo."
+  },
+  "107997370": {
+   "fragment_id": "108000659",
+   "type": 11,
+   "heading": "Artigo 3.º — Extensão da competência territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Extensão da competência territorial\n\nSalvo tratado ou convenção internacional em contrário, a lei portuguesa é aplicável às infracções previstas nos artigos 4.º e 5.º quando cometidas:\n\na) A bordo de aeronave alugada, com ou sem tripulação, a um operador que tenha a sua sede em território português;\n\nb) A bordo de aeronave civil registada noutro Estado, em voo comercial fora do espaço aéreo nacional, se o local de aterragem seguinte for em território português e o comandante da aeronave entregar o presumível infractor às autoridades portuguesas competentes."
+  },
+  "107997371": {
+   "fragment_id": "108000660",
+   "type": 11,
+   "heading": "Artigo 4.º — Crimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Crimes\n\n1 - É punido com a pena aplicável ao respectivo crime quem, a bordo de uma aeronave civil em voo comercial, praticar:\n\na) Crimes contra a vida;\n\nb) Crimes contra a integridade física;\n\nc) Crimes contra a liberdade pessoal;\n\nd) Crimes contra a liberdade e autodeterminação sexual;\n\ne) Crimes contra a honra;\n\nf) Crimes contra a propriedade.\n\n2 - Se a prática de qualquer crime compreendido no número anterior criar um perigo para a segurança da aeronave, o agente é punido com a pena que ao caso caberia agravada de um terço nos seus limites mínimo e máximo, não podendo ultrapassar 25 anos, tratando-se de pena de prisão, e 900 dias, tratando-se de pena de multa.\n\n3 - Quem, a bordo de uma aeronave civil em voo comercial, desobedecer a ordem ou instrução legítima destinada a garantir a segurança, a boa ordem e a disciplina a bordo, dada pelo comandante da aeronave ou por qualquer membro da tripulação em seu nome, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.\n\n4 - Quem, a bordo de uma aeronave civil em voo comercial, difundir informações falsas sobre o voo, causando alarme ou inquietação entre os passageiros, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias."
+  },
+  "107997372": {
+   "fragment_id": "108000661",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contra-ordenações\n\n1 - Comete uma contra-ordenação quem:\n\na) Entrar a bordo de uma aeronave civil em voo comercial sob a influência de bebida alcoólica, substância psicotrópica ou produto com efeito análogo e, nesse estado, comprometer a segurança da aeronave, seus ocupantes ou bens;\n\nb) Consumir bebidas alcoólicas a bordo de uma aeronave civil em voo comercial e, nesse estado, comprometer a segurança da aeronave, seus ocupantes ou bens;\n\nc) Fumar a bordo de uma aeronave civil em voo comercial, quando tal seja proibido;\n\nd) Utilizar telemóvel ou qualquer outro mecanismo electrónico a bordo de uma aeronave civil em voo comercial, quando tal seja proibido.\n\n2 - O consumo de bebidas alcoólicas que integram o serviço de restauração da aeronave é limitado em número, consoante o tipo e duração do voo, nos termos de regulamentação complementar.\n\n3 - O disposto nas alíneas c) e d) do n.º 1 e no n.º 2 é obrigatoriamente comunicado aos passageiros no início de cada voo e, sempre que possível, aquando da aquisição do título de transporte.\n\n4 - A tentativa e a negligência são puníveis."
+  },
+  "107997373": {
+   "fragment_id": "108000662",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime sancionatório das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime sancionatório das contra-ordenações\n\nAs contra-ordenações previstas no artigo anterior são punidas com coima de (euro) 250 a (euro) 3740."
+  },
+  "107997374": {
+   "fragment_id": "108000663",
+   "type": 11,
+   "heading": "Artigo 7.º — Processamento das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Processamento das contra-ordenações\n\n1 - Compete ao Instituto Nacional de Aviação Civil instaurar e instruir os processos de contra-ordenação nos termos do Regime Geral das Contra-Ordenações, bem como proceder à aplicação das respectivas coimas.\n\n2 - O montante das coimas cobradas pelo Instituto Nacional de Aviação Civil, em execução do presente diploma, revertem para o Estado e para este Instituto, nas percentagens de 60 e 40, respectivamente."
+  },
+  "108001075": {
+   "fragment_id": "108000664",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direito subsidiário\n\nQuanto à matéria constante do presente diploma são aplicáveis, subsidiariamente, as disposições do Código Penal e respectiva legislação complementar e o Regime Geral das Contra-Ordenações."
+  },
+  "108001076": {
+   "fragment_id": "108000665",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "108001078": {
+   "fragment_id": "108000661",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 5.º — Contra-ordenações\n\n1 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações muito graves:\n\na) Entrar a bordo de uma aeronave civil em voo comercial sob a influência de bebida alcoólica, substância psicotrópica ou produto com efeito análogo e, nesse estado, comprometer a segurança da aeronave, seus ocupantes ou bens;\n\nb) Consumir bebidas alcoólicas a bordo de uma aeronave civil em voo comercial e, nesse estado, comprometer a segurança da aeronave, seus ocupantes ou bens;\n\nc) Fumar a bordo de uma aeronave civil em voo comercial, quando tal seja proibido;\n\nd) Utilizar telemóvel ou qualquer outro mecanismo electrónico a bordo de uma aeronave civil em voo comercial, quando tal seja proibido.\n\n2 - O consumo de bebidas alcoólicas que integram o serviço de restauração da aeronave é limitado em número, consoante o tipo e duração do voo, nos termos de regulamentação complementar.\n\n3 - O disposto nas alíneas c) e d) do n.º 1 e no n.º 2 é obrigatoriamente comunicado aos passageiros no início de cada voo e, sempre que possível, aquando da aquisição do título de transporte.\n\n4 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do Decreto-Lei n.º 10/2004, de 9 de Janeiro.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "108001081": {
+   "fragment_id": "108000662",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime sancionatório das contra-ordenações",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 6.º — Regime sancionatório das contra-ordenações\n\nAs contra-ordenações previstas no artigo anterior são punidas com coima de (euro) 250 a (euro) 3740.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "108001079": {
+   "fragment_id": "108000663",
+   "type": 11,
+   "heading": "Artigo 7.º — Processamento das contra-ordenações",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 7.º — Processamento das contra-ordenações\n\nCompete ao INAC instaurar e instruir os processos de contra-ordenação nos termos do regime das contra-ordenações aeronáuticas civis, bem como proceder à aplicação das respectivas coimas.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "108001080": {
+   "fragment_id": "108000664",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito subsidiário",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 8.º — Direito subsidiário\n\nQuanto à matéria constante do presente diploma são aplicáveis, subsidiariamente, o regime das contra-ordenações aeronáuticas civis e as disposições do Código Penal e respectiva legislação complementar.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "108001077": {
+   "fragment_id": "108000666",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2003. - José Manuel Durão Barroso - António Jorge de Figueredo Lopes - Maria Celeste Ferreira Lopes Cardona - António Pedro de Nobre Carmona Rodrigues.\n\nPromulgado em 6 de Outubro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Outubro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

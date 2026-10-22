@@ -1,0 +1,402 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177309293:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-177309327",
+ "dre_path": "/dr/detalhe/decreto-lei/6-2022-177309293",
+ "source_lastmod": "2026-07-21",
+ "versions": [
+  {
+   "date": "2022-01-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177335788",
+    "177335789",
+    "177335790",
+    "177335791",
+    "177335792",
+    "177335793",
+    "177335794",
+    "177335795",
+    "177335797",
+    "177335798",
+    "177335799",
+    "177335800",
+    "177335801",
+    "177335802"
+   ]
+  },
+  {
+   "date": "2024-01-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:836117871:por",
+     "title": "Decreto-Lei n.º 9/2024",
+     "published": "2024-01-05",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2024-836117871"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo IV",
+    "Altera Anexo VI"
+   ],
+   "fragments": [
+    "177335788",
+    "177335789",
+    "177335790",
+    "177335791",
+    "177335792",
+    "177335793",
+    "177335794",
+    "177335795",
+    "177335796",
+    "836222389",
+    "177335798",
+    "177335799",
+    "836222390",
+    "177335801",
+    "836222391"
+   ]
+  },
+  {
+   "date": "2026-07-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1147043701:por",
+     "title": "Decreto-Lei n.º 142/2026",
+     "published": "2026-07-14",
+     "dre_path": "/dr/detalhe/decreto-lei/142-2026-1147043701"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1147419575",
+    "1147420075",
+    "1147420375",
+    "1147420675",
+    "1147420775",
+    "1147421075",
+    "1147421275",
+    "1147421475",
+    "1147421775",
+    "1147422075",
+    "1147422175",
+    "1147422275",
+    "1147422375",
+    "1147422475",
+    "1147422575"
+   ]
+  }
+ ],
+ "fragments": {
+  "177335788": {
+   "fragment_id": "177309328",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 6/2022\n\nde 7 de janeiro\n\nSumário: Fixa os efetivos das Forças Armadas para o triénio de 2022-2024.\n\nA Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela Lei Orgânica n.º 2/2021, de 9 de agosto, determina no artigo 6.º que os efetivos militares, em todas as situações, são fixados trianualmente, por decreto-lei, sob proposta do Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior.\n\nO Decreto-Lei n.º 104/2020, de 22 de dezembro, fixou os efetivos das Forças Armadas para o ano de 2021, considerando as necessidades estruturais e as atividades das Forças Armadas previstas para esse ano, assim como as condições e discriminação de efetivos definidas no artigo 44.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, na sua redação atual.\n\nEsgotando-se a aplicação do Decreto-Lei n.º 104/2020, de 22 de dezembro, é necessário aprovar um novo decreto-lei que fixe os efetivos das Forças Armadas para os anos de 2022, 2023 e 2024, revogando-se aquele decreto-lei por razões de certeza e segurança jurídicas.\n\nNa elaboração do presente decreto-lei foram mantidos os critérios de fixação dos efetivos em regime de voluntariado e de contrato, bem como em formação para ingresso nos quadros permanentes.\n\nO presente decreto-lei assenta, ainda, numa gestão criteriosa por parte dos ramos das Forças Armadas, permitindo uma aproximação às necessidades estruturais e às atividades das Forças Armadas previstas para os anos de 2022, 2023 e 2024, tendo, também, em consideração a edificação do Centro de Excelência da NATO em informação Marítima Geoespacial, Meteorológica e Oceanográfica (NATO MGEOMETOC COE), a edificação da capacidade da Ciberdefesa, a participação da Defesa Nacional na Divisão de Defesa na Agência Espacial Portuguesa, as necessidades de efetivos militares a afetar ao programa SST no Centro de Operações Espaciais, no TERINOV, Ilha Terceira, Angra do Heroísmo, a participação no projeto de cooperação delegada Support to West Africa Integrated Maritime Security (SWAIMS), o conceito de Apoio Militar a Emergências Civis (AMEC), bem como o quantitativo de efetivos militares da Marinha e da Força Aérea afetos respetivamente à Autoridade Marítima Nacional e à Autoridade Aeronáutica Nacional, e, finalmente, o objetivo de situar o número máximo de efetivos na estrutura das Forças Armadas, sem contabilizar os efetivos em formação, entre os 30 000 e os 32 000 militares.\n\nFoi ouvido o Conselho de Chefes de Estado-Maior.\n\nAssim:\n\nAo abrigo do disposto no artigo 6.º da Lei Orgânica n.º 2/2021, de 9 de agosto, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "177335789": {
+   "fragment_id": "177309329",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei fixa os efetivos das Forças Armadas, em todas as situações, para os anos de 2022, 2023 e 2024."
+  },
+  "177335790": {
+   "fragment_id": "177309330",
+   "type": 11,
+   "heading": "Artigo 2.º — Fixação e previsão de efetivos militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fixação e previsão de efetivos militares\n\n1 - Os efetivos máximos dos militares dos quadros Permanentes (QP) na situação de ativo, por ramos e postos, na estrutura orgânica das Forças Armadas, incluindo o Estado-Maior-General das Forças Armadas (EMGFA), e fora desta estrutura, são os fixados nas tabelas do anexo i e do anexo ii ao presente decreto-lei e do qual fazem parte integrante, conforme a seguir indicado:\n\na) Para o ano de 2022: nas tabelas 1.a, 2.a e 3.a do anexo i e na tabela A do anexo ii;\n\nb) Para o ano de 2023: nas tabelas 1.b, 2.b e 3.b do anexo i e na tabela B do anexo ii;\n\nc) Para o ano de 2024: nas tabelas 1.c, 2.c e 3.c do anexo i e na tabela C do anexo ii.\n\n2 - Os efetivos máximos dos militares dos QP, na situação de reserva na efetividade de serviço, por ramos e categorias, na estrutura orgânica das Forças Armadas, incluindo o EMGFA, e fora desta estrutura, são os fixados, respetivamente, nas tabelas dos anexos iii e iv ao presente decreto-lei e do qual fazem parte integrante, conforme a seguir indicado:\n\na) Para o ano de 2022: na tabela A do anexo iii e na tabela A do anexo iv;\n\nb) Para o ano de 2023: na tabela B do anexo iii e na tabela B do anexo iv;\n\nc) Para o ano de 2024: na tabela C do anexo iii e na tabela C do anexo iv.\n\n3 - Os efetivos militares dos QP, na situação de reserva fora da efetividade de serviço, por ramos e categorias, são os estimados nas tabelas do anexo v ao presente decreto-lei e do qual faz parte integrante, conforme a seguir indicado:\n\na) Para o ano de 2022: na tabela A do anexo v;\n\nb) Para o ano de 2023: na tabela B do anexo v;\n\nc) Para o ano de 2024: na tabela C do anexo v.\n\n4 - Os efetivos máximos dos militares em regime de voluntariado (RV) e em regime de contrato (RC), incluindo os militares a admitir em regime de contrato especial (RCE), por ramos e categorias, incluindo os que desempenham funções nas estruturas do EMGFA, são os fixados nas tabelas do anexo vi ao presente decreto-lei e do qual faz parte integrante, conforme a seguir indicado:\n\na) Para o ano de 2022: nas tabelas 1.ªe 2.ªdo anexo vi;\n\nb) Para o ano de 2023: nas tabelas 1.b e 2.b do anexo vi;\n\nc) Para o ano de 2024: nas tabelas 1.c e 2.c do anexo vi.\n\n5 - A afetação dos efetivos previstos nas tabelas 1 e 2 do anexo i ao presente decreto-lei, e nas tabelas 1 e 2 do anexo vi ao presente decreto-lei, para as estruturas orgânicas dos ramos e do EMGFA, é efetuada de forma proporcional, em função dos efetivos existentes."
+  },
+  "177335791": {
+   "fragment_id": "177309331",
+   "type": 11,
+   "heading": "Artigo 3.º — Efetivos em formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Efetivos em formação\n\n1 - Para efeitos do disposto no presente decreto-lei, os efetivos em formação, fixados nas tabelas 3 do anexo i ao presente decreto-lei, incluem os militares em RV e RC que frequentem os respetivos ciclos de formação necessários para ingresso no QP, os quais não são contabilizados nas tabelas 1 do anexo vi ao presente decreto-lei.\n\n2 - Os quantitativos constantes nas tabelas do anexo vi ao presente decreto-lei não incluem os militares destinados ao RV e RC que se encontram na frequência da formação inicial, até à conclusão da instrução complementar.\n\n3 - O número de vagas para admissão aos cursos, tirocínios ou estágios para ingresso nas várias categorias dos QP é fixado anualmente por despacho dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional, conforme previsto no n.º 3 do artigo 44.º e no n.º 3 do artigo 168.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, na sua redação atual.\n\n4 - O número de militares a admitir nos regimes de RV e RC, é fixado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional, que aprova o plano de incorporações anual, visando a manutenção dos quantitativos constantes nas tabelas do anexo vi ao presente decreto-lei, conforme previsto no n.º 4 do artigo 44.º do EMFAR."
+  },
+  "177335792": {
+   "fragment_id": "177309332",
+   "type": 11,
+   "heading": "Artigo 4.º — Afetação de efetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Afetação de efetivos\n\nSem prejuízo dos quantitativos máximos de militares das Forças Armadas fixados no presente decreto-lei, os efetivos militares máximos a afetar por cada um dos ramos das Forças Armadas às estruturas orgânicas da Autoridade Marítima Nacional e da Autoridade Aeronáutica Nacional, para os anos de 2022, 2023 e 2024, são fixados até 30 dias após a publicação do presente decreto-lei, por despacho do membro do Governo responsável pela área da defesa nacional, sob proposta do Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior."
+  },
+  "177335793": {
+   "fragment_id": "177309333",
+   "type": 11,
+   "heading": "Artigo 5.º — Normas especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Normas especiais\n\nSem prejuízo da verificação cumulativa de todos os requisitos legais para a concretização anual de promoções, os efetivos máximos fixados nas tabelas 1 do anexo i e nas tabelas do anexo ii ao presente decreto-lei podem ser excedidos pontualmente, num determinado posto, desde que não ultrapassem o efetivo máximo que resulta da soma de efetivos por postos na categoria do respetivo ramo."
+  },
+  "177335794": {
+   "fragment_id": "177309334",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 104/2020, de 22 de dezembro, com efeitos a partir de 31 de dezembro de 2021."
+  },
+  "177335795": {
+   "fragment_id": "177309335",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "177335797": {
+   "fragment_id": "177309337",
+   "type": 14,
+   "heading": "Anexo I — (a que se referem os n.os 1 e 5 do artigo 2.º, o n.º 1 do artigo 3.º e o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se referem os n.os 1 e 5 do artigo 2.º, o n.º 1 do artigo 3.º e o artigo 5.º)\n\nEfetivos militares dos quadros permanentes, na situação de ativo, por ramos e postos, na estrutura orgânica das Forças Armadas, incluindo o Estado-Maior-General das Forças Armadas e formação para o ingresso nos quadros permanentes\n\nTABELA 1.a\n\nEfetivos militares dos quadros permanentes na estrutura orgânica das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 1.b\n\nEfetivos militares dos quadros permanentes na estrutura orgânica das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 1.c\n\nEfetivos militares dos quadros permanentes na estrutura orgânica das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\nTABELA 2.a\n\nEfetivos militares dos quadros permanentes a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 2.b\n\nEfetivos militares dos quadros permanentes a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 2.c\n\nEfetivos militares dos quadros permanentes a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\nTABELA 3.a\n\nMilitares e alunos militares em formação para ingresso nos quadros permanentes, para o ano de 2022\n\n(ver documento original)\n\nTABELA 3.b\n\nMilitares e alunos militares em formação para ingresso nos quadros permanentes, para o ano de 2023\n\n(ver documento original)\n\nTABELA 3.c\n\nMilitares e alunos militares em formação para ingresso nos quadros permanentes, para o ano de 2024\n\n(ver documento original)"
+  },
+  "177335798": {
+   "fragment_id": "177309338",
+   "type": 14,
+   "heading": "Anexo II — (a que se referem o n.º 1 do artigo 2.º e o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se referem o n.º 1 do artigo 2.º e o artigo 5.º)\n\nTABELA A\n\nEfetivos militares dos quadros permanentes, na situação de ativo, por ramos e postos, fora da estrutura orgânica das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA B\n\nEfetivos militares dos quadros permanentes, na situação de ativo, por ramos e postos, fora da estrutura orgânica das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA C\n\nEfetivos militares dos quadros permanentes, na situação de ativo, por ramos e postos, fora da estrutura orgânica das Forças Armadas, para o ano de 2024\n\n(ver documento original)"
+  },
+  "177335799": {
+   "fragment_id": "177309339",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 2 do artigo 2.º)\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, na estrutura orgânica das Forças Armadas, incluindo o Estado-Maior-General das Forças Armadas\n\nTABELA 1.a\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, na estrutura orgânica das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 1.b\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, na estrutura orgânica das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 1.c\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, na estrutura orgânica das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\nTABELA 2.a\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 2.b\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 2.c\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2024\n\n(ver documento original)"
+  },
+  "177335800": {
+   "fragment_id": "177309340",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o n.º 2 do artigo 2.º)\n\nTABELA A\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA B\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA C\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2024\n\n(ver documento original)"
+  },
+  "177335801": {
+   "fragment_id": "177309341",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o n.º 3 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (a que se refere o n.º 3 do artigo 2.º)\n\nTABELA A\n\nEfetivos estimados de militares dos quadros permanentes, na situação de reserva fora da efetividade de serviço, por ramos e categorias, para o ano de 2022\n\n(ver documento original)\n\nTABELA B\n\nEfetivos estimados de militares dos quadros permanentes, na situação de reserva fora da efetividade de serviço, por ramos e categorias, para o ano de 2023\n\n(ver documento original)\n\nTABELA C\n\nEfetivos estimados de militares dos quadros permanentes, na situação de reserva fora da efetividade de serviço, por ramos e categorias, para o ano de 2024\n\n(ver documento original)"
+  },
+  "177335802": {
+   "fragment_id": "177309342",
+   "type": 14,
+   "heading": "Anexo VI — (a que se refere o n.º 4 do artigo 2.º e os n.os 1, 2 e 4 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — (a que se refere o n.º 4 do artigo 2.º e os n.os 1, 2 e 4 do artigo 3.º)\n\nEfetivos militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, por ramos e categoria, incluindo os que desempenham funções nas estruturas do Estado-Maior-General das Forças Armadas\n\nTABELA 1.a\n\nEfetivos de militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, para o ano de 2022\n\n(ver documento original)\n\nTABELA 1.b\n\nEfetivos de militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, para o ano de 2023\n\n(ver documento original)\n\nTABELA 1.c\n\nEfetivos de militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, para o ano de 2024\n\n(ver documento original)\n\nTABELA 2.a\n\nEfetivos militares em regime de voluntariado e em regime de contrato a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 2.b\n\nEfetivos militares em regime de voluntariado e em regime de contrato a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 2.c\n\nEfetivos militares em regime de voluntariado e em regime de contrato a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\n114869782"
+  },
+  "177335796": {
+   "fragment_id": "177309336",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de dezembro de 2021. - António Luís Santos da Costa - Miguel Jorge de Campos Cruz - João Titterington Gomes Cravinho.\n\nPromulgado em 31 de dezembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 4 de janeiro de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "836222389": {
+   "fragment_id": "177309337",
+   "type": 14,
+   "heading": "Anexo I — (a que se referem os n.os 1 e 5 do artigo 2.º, o n.º 1 do artigo 3.º e o artigo 5.º)",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+   ],
+   "markdown": "## Anexo I — (a que se referem os n.os 1 e 5 do artigo 2.º, o n.º 1 do artigo 3.º e o artigo 5.º)\n\nEfetivos militares dos quadros permanentes, na situação de ativo, por ramos e postos, na estrutura orgânica das Forças Armadas, incluindo o Estado-Maior-General das Forças Armadas e formação para o ingresso nos quadros permanentes\n\nTABELA 1.a\n\nEfetivos militares dos quadros permanentes na estrutura orgânica das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 1.b\n\nEfetivos militares dos quadros permanentes na estrutura orgânica das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 1.c\n\nEfetivos militares dos quadros permanentes na estrutura orgânica das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\nTABELA 2.a\n\nEfetivos militares dos quadros permanentes a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 2.b\n\nEfetivos militares dos quadros permanentes a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 2.c\n\nEfetivos militares dos quadros permanentes a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\nTABELA 3.a\n\nMilitares e alunos militares em formação para ingresso nos quadros permanentes, para o ano de 2022\n\n(ver documento original)\n\nTABELA 3.b\n\nMilitares e alunos militares em formação para ingresso nos quadros permanentes, para o ano de 2023\n\n(ver documento original)\n\nTABELA 3.c\n\nMilitares e alunos militares em formação para ingresso nos quadros permanentes, para o ano de 2024\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+  },
+  "836222390": {
+   "fragment_id": "177309340",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+   ],
+   "markdown": "## Anexo IV — (a que se refere o n.º 2 do artigo 2.º)\n\nTABELA A\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA B\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA C\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+  },
+  "836222391": {
+   "fragment_id": "177309342",
+   "type": 14,
+   "heading": "Anexo VI — (a que se refere o n.º 4 do artigo 2.º e os n.os 1, 2 e 4 do artigo 3.º)",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+   ],
+   "markdown": "## Anexo VI — (a que se refere o n.º 4 do artigo 2.º e os n.os 1, 2 e 4 do artigo 3.º)\n\nEfetivos militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, por ramos e categoria, incluindo os que desempenham funções nas estruturas do Estado-Maior-General das Forças Armadas\n\nTABELA 1.a\n\nEfetivos de militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, para o ano de 2022\n\n(ver documento original)\n\nTABELA 1.b\n\nEfetivos de militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, para o ano de 2023\n\n(ver documento original)\n\nTABELA 1.c\n\nEfetivos de militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, para o ano de 2024\n\n(ver documento original)\n\nTABELA 2.a\n\nEfetivos militares em regime de voluntariado e em regime de contrato a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 2.b\n\nEfetivos militares em regime de voluntariado e em regime de contrato a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 2.c\n\nEfetivos militares em regime de voluntariado e em regime de contrato a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\n114869782\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+  },
+  "1147419575": {
+   "fragment_id": "177309328",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "A Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela Lei Orgânica n.º 2/2021, de 9 de agosto, determina no artigo 6.º que os efetivos militares, em todas as situações, são fixados trianualmente, por decreto-lei, sob proposta do Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior.\n\nO Decreto-Lei n.º 104/2020, de 22 de dezembro, fixou os efetivos das Forças Armadas para o ano de 2021, considerando as necessidades estruturais e as atividades das Forças Armadas previstas para esse ano, assim como as condições e discriminação de efetivos definidas no artigo 44.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, na sua redação atual.\n\nEsgotando-se a aplicação do Decreto-Lei n.º 104/2020, de 22 de dezembro, é necessário aprovar um novo decreto-lei que fixe os efetivos das Forças Armadas para os anos de 2022, 2023 e 2024, revogando-se aquele decreto-lei por razões de certeza e segurança jurídicas.\n\nNa elaboração do presente decreto-lei foram mantidos os critérios de fixação dos efetivos em regime de voluntariado e de contrato, bem como em formação para ingresso nos quadros permanentes.\n\nO presente decreto-lei assenta, ainda, numa gestão criteriosa por parte dos ramos das Forças Armadas, permitindo uma aproximação às necessidades estruturais e às atividades das Forças Armadas previstas para os anos de 2022, 2023 e 2024, tendo, também, em consideração a edificação do Centro de Excelência da NATO em informação Marítima Geoespacial, Meteorológica e Oceanográfica (NATO MGEOMETOC COE), a edificação da capacidade da Ciberdefesa, a participação da Defesa Nacional na Divisão de Defesa na Agência Espacial Portuguesa, as necessidades de efetivos militares a afetar ao programa SST no Centro de Operações Espaciais, no TERINOV, Ilha Terceira, Angra do Heroísmo, a participação no projeto de cooperação delegada Support to West Africa Integrated Maritime Security (SWAIMS), o conceito de Apoio Militar a Emergências Civis (AMEC), bem como o quantitativo de efetivos militares da Marinha e da Força Aérea afetos respetivamente à Autoridade Marítima Nacional e à Autoridade Aeronáutica Nacional, e, finalmente, o objetivo de situar o número máximo de efetivos na estrutura das Forças Armadas, sem contabilizar os efetivos em formação, entre os 30 000 e os 32 000 militares.\n\nFoi ouvido o Conselho de Chefes de Estado-Maior.\n\nAssim:\n\nAo abrigo do disposto no artigo 6.º da Lei Orgânica n.º 2/2021, de 9 de agosto, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147420075": {
+   "fragment_id": "177309329",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei fixa os efetivos das Forças Armadas, em todas as situações, para os anos de 2022, 2023 e 2024.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147420375": {
+   "fragment_id": "177309330",
+   "type": 11,
+   "heading": "Artigo 2.º — Fixação e previsão de efetivos militares",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 2.º — Fixação e previsão de efetivos militares\n\n1 - Os efetivos máximos dos militares dos quadros Permanentes (QP) na situação de ativo, por ramos e postos, na estrutura orgânica das Forças Armadas, incluindo o Estado-Maior-General das Forças Armadas (EMGFA), e fora desta estrutura, são os fixados nas tabelas do anexo i e do anexo ii ao presente decreto-lei e do qual fazem parte integrante, conforme a seguir indicado:\n\na) Para o ano de 2022: nas tabelas 1.a, 2.a e 3.a do anexo i e na tabela A do anexo ii;\n\nb) Para o ano de 2023: nas tabelas 1.b, 2.b e 3.b do anexo i e na tabela B do anexo ii;\n\nc) Para o ano de 2024: nas tabelas 1.c, 2.c e 3.c do anexo i e na tabela C do anexo ii.\n\n2 - Os efetivos máximos dos militares dos QP, na situação de reserva na efetividade de serviço, por ramos e categorias, na estrutura orgânica das Forças Armadas, incluindo o EMGFA, e fora desta estrutura, são os fixados, respetivamente, nas tabelas dos anexos iii e iv ao presente decreto-lei e do qual fazem parte integrante, conforme a seguir indicado:\n\na) Para o ano de 2022: na tabela A do anexo iii e na tabela A do anexo iv;\n\nb) Para o ano de 2023: na tabela B do anexo iii e na tabela B do anexo iv;\n\nc) Para o ano de 2024: na tabela C do anexo iii e na tabela C do anexo iv.\n\n3 - Os efetivos militares dos QP, na situação de reserva fora da efetividade de serviço, por ramos e categorias, são os estimados nas tabelas do anexo v ao presente decreto-lei e do qual faz parte integrante, conforme a seguir indicado:\n\na) Para o ano de 2022: na tabela A do anexo v;\n\nb) Para o ano de 2023: na tabela B do anexo v;\n\nc) Para o ano de 2024: na tabela C do anexo v.\n\n4 - Os efetivos máximos dos militares em regime de voluntariado (RV) e em regime de contrato (RC), incluindo os militares a admitir em regime de contrato especial (RCE), por ramos e categorias, incluindo os que desempenham funções nas estruturas do EMGFA, são os fixados nas tabelas do anexo vi ao presente decreto-lei e do qual faz parte integrante, conforme a seguir indicado:\n\na) Para o ano de 2022: nas tabelas 1.ªe 2.ªdo anexo vi;\n\nb) Para o ano de 2023: nas tabelas 1.b e 2.b do anexo vi;\n\nc) Para o ano de 2024: nas tabelas 1.c e 2.c do anexo vi.\n\n5 - A afetação dos efetivos previstos nas tabelas 1 e 2 do anexo i ao presente decreto-lei, e nas tabelas 1 e 2 do anexo vi ao presente decreto-lei, para as estruturas orgânicas dos ramos e do EMGFA, é efetuada de forma proporcional, em função dos efetivos existentes.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147420675": {
+   "fragment_id": "177309331",
+   "type": 11,
+   "heading": "Artigo 3.º — Efetivos em formação",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 3.º — Efetivos em formação\n\n1 - Para efeitos do disposto no presente decreto-lei, os efetivos em formação, fixados nas tabelas 3 do anexo i ao presente decreto-lei, incluem os militares em RV e RC que frequentem os respetivos ciclos de formação necessários para ingresso no QP, os quais não são contabilizados nas tabelas 1 do anexo vi ao presente decreto-lei.\n\n2 - Os quantitativos constantes nas tabelas do anexo vi ao presente decreto-lei não incluem os militares destinados ao RV e RC que se encontram na frequência da formação inicial, até à conclusão da instrução complementar.\n\n3 - O número de vagas para admissão aos cursos, tirocínios ou estágios para ingresso nas várias categorias dos QP é fixado anualmente por despacho dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional, conforme previsto no n.º 3 do artigo 44.º e no n.º 3 do artigo 168.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, na sua redação atual.\n\n4 - O número de militares a admitir nos regimes de RV e RC, é fixado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional, que aprova o plano de incorporações anual, visando a manutenção dos quantitativos constantes nas tabelas do anexo vi ao presente decreto-lei, conforme previsto no n.º 4 do artigo 44.º do EMFAR.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147420775": {
+   "fragment_id": "177309332",
+   "type": 11,
+   "heading": "Artigo 4.º — Afetação de efetivos",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 4.º — Afetação de efetivos\n\nSem prejuízo dos quantitativos máximos de militares das Forças Armadas fixados no presente decreto-lei, os efetivos militares máximos a afetar por cada um dos ramos das Forças Armadas às estruturas orgânicas da Autoridade Marítima Nacional e da Autoridade Aeronáutica Nacional, para os anos de 2022, 2023 e 2024, são fixados até 30 dias após a publicação do presente decreto-lei, por despacho do membro do Governo responsável pela área da defesa nacional, sob proposta do Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147421075": {
+   "fragment_id": "177309333",
+   "type": 11,
+   "heading": "Artigo 5.º — Normas especiais",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 5.º — Normas especiais\n\nSem prejuízo da verificação cumulativa de todos os requisitos legais para a concretização anual de promoções, os efetivos máximos fixados nas tabelas 1 do anexo i e nas tabelas do anexo ii ao presente decreto-lei podem ser excedidos pontualmente, num determinado posto, desde que não ultrapassem o efetivo máximo que resulta da soma de efetivos por postos na categoria do respetivo ramo.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147421275": {
+   "fragment_id": "177309334",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 104/2020, de 22 de dezembro, com efeitos a partir de 31 de dezembro de 2021.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147421475": {
+   "fragment_id": "177309335",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147421775": {
+   "fragment_id": "177309336",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de dezembro de 2021. - António Luís Santos da Costa - Miguel Jorge de Campos Cruz - João Titterington Gomes Cravinho.\n\nPromulgado em 31 de dezembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 4 de janeiro de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147422075": {
+   "fragment_id": "177309337",
+   "type": 14,
+   "heading": "Anexo I — (a que se referem os n.os 1 e 5 do artigo 2.º, o n.º 1 do artigo 3.º e o artigo 5.º)",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+   ],
+   "markdown": "## Anexo I — (a que se referem os n.os 1 e 5 do artigo 2.º, o n.º 1 do artigo 3.º e o artigo 5.º)\n\nEfetivos militares dos quadros permanentes, na situação de ativo, por ramos e postos, na estrutura orgânica das Forças Armadas, incluindo o Estado-Maior-General das Forças Armadas e formação para o ingresso nos quadros permanentes\n\nTABELA 1.a\n\nEfetivos militares dos quadros permanentes na estrutura orgânica das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 1.b\n\nEfetivos militares dos quadros permanentes na estrutura orgânica das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 1.c\n\nEfetivos militares dos quadros permanentes na estrutura orgânica das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\nTABELA 2.a\n\nEfetivos militares dos quadros permanentes a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 2.b\n\nEfetivos militares dos quadros permanentes a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 2.c\n\nEfetivos militares dos quadros permanentes a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\nTABELA 3.a\n\nMilitares e alunos militares em formação para ingresso nos quadros permanentes, para o ano de 2022\n\n(ver documento original)\n\nTABELA 3.b\n\nMilitares e alunos militares em formação para ingresso nos quadros permanentes, para o ano de 2023\n\n(ver documento original)\n\nTABELA 3.c\n\nMilitares e alunos militares em formação para ingresso nos quadros permanentes, para o ano de 2024\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+  },
+  "1147422175": {
+   "fragment_id": "177309338",
+   "type": 14,
+   "heading": "Anexo II — (a que se referem o n.º 1 do artigo 2.º e o artigo 5.º)",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo II — (a que se referem o n.º 1 do artigo 2.º e o artigo 5.º)\n\nTABELA A\n\nEfetivos militares dos quadros permanentes, na situação de ativo, por ramos e postos, fora da estrutura orgânica das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA B\n\nEfetivos militares dos quadros permanentes, na situação de ativo, por ramos e postos, fora da estrutura orgânica das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA C\n\nEfetivos militares dos quadros permanentes, na situação de ativo, por ramos e postos, fora da estrutura orgânica das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147422275": {
+   "fragment_id": "177309339",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 2 do artigo 2.º)\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, na estrutura orgânica das Forças Armadas, incluindo o Estado-Maior-General das Forças Armadas\n\nTABELA 1.a\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, na estrutura orgânica das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 1.b\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, na estrutura orgânica das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 1.c\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, na estrutura orgânica das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\nTABELA 2.a\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 2.b\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 2.c\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147422375": {
+   "fragment_id": "177309340",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+   ],
+   "markdown": "## Anexo IV — (a que se refere o n.º 2 do artigo 2.º)\n\nTABELA A\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA B\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA C\n\nEfetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+  },
+  "1147422475": {
+   "fragment_id": "177309341",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o n.º 3 do artigo 2.º)",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo V — (a que se refere o n.º 3 do artigo 2.º)\n\nTABELA A\n\nEfetivos estimados de militares dos quadros permanentes, na situação de reserva fora da efetividade de serviço, por ramos e categorias, para o ano de 2022\n\n(ver documento original)\n\nTABELA B\n\nEfetivos estimados de militares dos quadros permanentes, na situação de reserva fora da efetividade de serviço, por ramos e categorias, para o ano de 2023\n\n(ver documento original)\n\nTABELA C\n\nEfetivos estimados de militares dos quadros permanentes, na situação de reserva fora da efetividade de serviço, por ramos e categorias, para o ano de 2024\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01."
+  },
+  "1147422575": {
+   "fragment_id": "177309342",
+   "type": 14,
+   "heading": "Anexo VI — (a que se refere o n.º 4 do artigo 2.º e os n.os 1, 2 e 4 do artigo 3.º)",
+   "in_force_from": "2026-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+   ],
+   "markdown": "## Anexo VI — (a que se refere o n.º 4 do artigo 2.º e os n.os 1, 2 e 4 do artigo 3.º)\n\nEfetivos militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, por ramos e categoria, incluindo os que desempenham funções nas estruturas do Estado-Maior-General das Forças Armadas\n\nTABELA 1.a\n\nEfetivos de militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, para o ano de 2022\n\n(ver documento original)\n\nTABELA 1.b\n\nEfetivos de militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, para o ano de 2023\n\n(ver documento original)\n\nTABELA 1.c\n\nEfetivos de militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial, para o ano de 2024\n\n(ver documento original)\n\nTABELA 2.a\n\nEfetivos militares em regime de voluntariado e em regime de contrato a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2022\n\n(ver documento original)\n\nTABELA 2.b\n\nEfetivos militares em regime de voluntariado e em regime de contrato a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2023\n\n(ver documento original)\n\nTABELA 2.c\n\nEfetivos militares em regime de voluntariado e em regime de contrato a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas, para o ano de 2024\n\n(ver documento original)\n\n114869782\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2026-1147043701), em vigor a partir de 2026-07-19, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2024-836117871), em vigor a partir de 2024-01-06"
+  }
+ }
+}

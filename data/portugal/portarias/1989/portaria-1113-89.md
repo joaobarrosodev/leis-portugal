@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:551259:por
+title: Portaria n.º 1113/89
+short_title: null
+summary: Dá nova redacção aos n.os 1.º e 3.º da Portaria n.º 821/82, de 30 de Agosto, que cria o cartão especial de identificação
+  para uso do pessoal do Serviço Nacional de Protecção Civil (SNPC)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 1113/89
+official_date: null
+publication_date: '1989-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 299/1989, Série I de 1989-12-30
+  number: '299'
+  series: I
+  supplement: null
+  pages: 5648 - 5649
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29900/56485649.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '551259'
+  dre_path: /dr/detalhe/portaria/1113-1989-551259
+  internal: pt:dre:551259:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1113-1989-551259
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1113-1989-551259
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-12-30T00:00:00Z'
+integrity:
+  source_sha256: d540b2ee2bfd084b337d6dc48693dfc09279e73969eba196498496cd19d3e0ce
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-1113-551259.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1113/89
+
+de 30 de Dezembro
+
+A [Portaria n.º 821/82](https://diariodarepublica.pt/dr/detalhe/portaria/821-1982-374629), de 30 de Agosto, criou, para os funcionários e agentes do Serviço Nacional de Protecção Civil, um cartão de identificação.
+
+Havendo necessidade de fazer constar do cartão de dirigentes e delegados daquele serviço a prerrogativa de «Livre trânsito»:
+
+Manda o Governo, pelo Ministro da Administração Interna, nos termos do disposto no artigo 2.º do [Decreto-Lei n.º 68/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1979-383000), de 30 de Maio, que os n.os 1.º e 3.º da [Portaria n.º 821/82](https://diariodarepublica.pt/dr/detalhe/portaria/821-1982-374629), de 30 de Agosto, passem a ter a seguinte redacção:
+
+1.º É criado, nos termos da presente portaria, o cartão especial de identificação para uso do pessoal do SNPC, sendo o modelo A, com direito de «Livre trânsito», para os dirigentes e delegados, e o modelo B para os restantes funcionários e agentes do mesmo serviço.
+
+2.º ...
+
+3.º O fundo dos cartões será de cor branca e impressão a preto, de acordo com os modelos anexos.
+
+Terão ainda, na frente, o timbre da República Portuguesa, bem como uma barra oblíqua, no canto superior esquerdo, contendo as cores verde e vermelha, com a largura de 10 mm.
+
+4.º ...
+
+5.º ...
+
+6.º ...
+
+7.º ...
+
+8.º ...
+
+9.º ...
+
+Ministério da Administração Interna.
+
+**Assinada em 16 de Outubro de 1989.**
+
+**O Ministro da Administração Interna, José António da Silveira Godinho.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29900/56485649.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29900/56485649.pdf)

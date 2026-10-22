@@ -1,0 +1,240 @@
+---
+schema_version: '1.0'
+id: pt:dre:191565:por
+title: Decreto Regulamentar Regional n.º 29/2012/M
+short_title: null
+summary: Aprova a orgânica da Direção Regional do Comércio, Indústria e Energia
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 29/2012/M
+official_date: null
+publication_date: '2012-10-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/2012, Série I de 2012-10-31
+  number: '211'
+  series: I
+  supplement: null
+  pages: 6298 - 6299
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/10/21100/0629806299.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/29/2012/10/31/m/dre/pt/html
+  oj: null
+  dre: '191565'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/29-2012-191565
+  internal: pt:dre:191565:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565
+  metadata_url: https://data.dre.pt/eli/decregulreg/29/2012/10/31/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-10-26T00:00:00Z'
+integrity:
+  source_sha256: 577276f0c9cd0454bdf227011f3ea30bd66b948006418f83fc98beb599ae2c95
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2012/DRE-2012-29-191565.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Definição de Competências
+- Direcção Regional do Comércio Indústria e Energia
+- Diretor Regional
+- Orgânica
+- Madeira.região Autónoma
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:70804098:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/7/2009/08/03/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/7/2009/08/03/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/9/2011/12/19/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/9/2011/12/19/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 10
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 29/2012/M
+
+Aprova a orgânica da Direção Regional do Comércio, Indústria e Energia
+
+O n.º 3 do artigo 6.º do [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro, que criou a nova estrutura da Vice-Presidência do Governo Regional, estabelece que a orgânica da Direção Regional do Comércio, Indústria e Energia constará de diploma próprio, onde se contempla a sua natureza, missão, atribuições e organização interna.
+
+Assim, ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, da alínea e) do n.º 1 e do n.º 3 do artigo 6.º do [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro, e do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º
+
+É aprovada a estrutura orgânica da Direção Regional do Comércio, Indústria e Energia, publicada em anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 2.º
+
+É revogado o [Decreto Regulamentar Regional n.º 7/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2009-493027), de 3 de agosto, com exceção da estrutura das unidades orgânicas até à sua regulamentação, nos termos previstos no artigo 21.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro.
+
+###### Artigo 3.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 2 de outubro de 2012.
+
+O Vice-Presidente do Governo Regional, no exercício da Presidência, João Cunha e Silva.
+
+**Assinado em 18 de outubro de 2012.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+## ANEXO — Orgânica da Direção Regional do Comércio, Indústria e Energia
+
+### CAPÍTULO I — Natureza, missão e atribuições
+
+###### Artigo 1.º — Natureza
+
+A Direção Regional do Comércio, Indústria e Energia, adiante designada por DRCIE, é um serviço central da administração direta da Região Autónoma da Madeira, a que se refere a alínea e) do n.º 1 do artigo 6.º do [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro, que aprova a orgânica da Vice-Presidência do Governo Regional.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DRCIE tem por missão assegurar a execução da política definida pelo Governo Regional para os sectores do comércio, indústria, energia e qualidade.
+
+2 - A DRCIE prossegue as seguintes atribuições:
+
+a) Promover a execução da política definida para as áreas do comércio, indústria, energia e qualidade;
+
+b) Executar as ações da política comercial, tanto interna como externa;
+
+c) Estudar os circuitos de distribuição e comercialização e propor medidas tendentes à sua reestruturação, bem como sugerir formas de atuação conducentes à sua concretização;
+
+d) Estudar, propor e licenciar operações de importação, exportação e reexportação de mercadorias, em coordenação com as unidades competentes;
+
+e) Estudar e propor implementação de medidas que contribuam para a modernização da qualidade das entidades da RAM;
+
+f) Proceder a ações de fiscalização nos domínios do comércio, indústria e energia, nos termos da legislação aplicável aos referidos sectores;
+
+g) Promover as medidas necessárias à implementação da política energética e dos planos e programas aprovados, nomeadamente através de estímulos às iniciativas empresariais que neles se enquadrem;
+
+h) Propor, juntamente com outras entidades competentes, as medidas adequadas para fazer face a eventuais situações de interferência no normal abastecimento de combustíveis;
+
+i) Promover a difusão de informação junto dos utilizadores de energia, designadamente nos aspetos de segurança, gestão e diversificação das fontes de energia;
+
+j) Promover relações de cooperação com entidades públicas ou privadas, nacionais, regionais ou estrangeiras, tendo em vista o aproveitamento das melhores potencialidades para o desenvolvimento técnico/científico das áreas de comércio, indústria, energia e qualidade;
+
+k) Promover a adoção de medidas de simplificação e racionalização dos procedimentos administrativos com vista a uma maior celeridade na resposta às solicitações dos agentes económicos;
+
+l) Coordenar e assegurar a recolha, organização, tratamento e difusão de informação com interesse para o desenvolvimento dos sectores da sua competência;
+
+m) Definir, acompanhar e controlar as políticas no âmbito da qualidade, procedendo à sua divulgação, sensibilização e dinamização.
+
+###### Artigo 3.º — Diretor regional
+
+1 - A DRCIE é dirigida pelo diretor regional do Comércio, Indústria e Energia, adiante designada por diretor regional, cargo de direção superior de 1.º grau.
+
+2 - Compete ao diretor regional:
+
+a) Promover a execução da política e prossecução dos objetivos definidos pelo Governo Regional para os sectores do comércio, indústria, energia e qualidade;
+
+b) Superintender a realização de estudos e outros trabalhos considerados importantes para os referidos sectores;
+
+c) Promover a gestão participativa por objetivos criando as condições necessárias a uma maior descentralização e atribuição de responsabilidades, que conduzam a um aumento da eficiência dos diversos serviços;
+
+d) Coordenar e orientar os serviços bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento.
+
+3 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências.
+
+4 - O diretor regional é substituído, nas suas faltas e impedimentos, por um titular de cargo de direção intermédia de 1.º grau ou por um técnico superior, a designar.
+
+### CAPÍTULO II — Estrutura orgânica
+
+###### Artigo 4.º — Tipo de organização interna
+
+A organização interna dos serviços da DRCIE obedece ao modelo de estrutura hierarquizada.
+
+###### Artigo 5.º — Quadro de cargos de direção
+
+Os lugares de direção superior de 1.º grau e de direção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 6.º — Estrutura
+
+A estrutura hierarquizada da DRCIE é constituída por unidades orgânicas nucleares e flexíveis, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro.
+
+### CAPÍTULO III — Pessoal
+
+###### Artigo 7.º — Pessoal com funções de fiscalização
+
+1 - O pessoal da DRCIE que exerça funções de fiscalização e de inspeção deve, no exercício das mesmas, usar cartão de identidade especial, cujo modelo será aprovado por portaria do Vice-Presidente do Governo Regional.
+
+2 - O pessoal a que alude o número anterior é considerado agente de autoridade, tendo livre acesso aos estabelecimentos e locais sujeitos à jurisdição do serviço a que pertençam, gozando dos seguintes direitos e prerrogativas:
+
+a) Acesso e livre-trânsito nas instalações e equipamentos sujeitos a inspeção ou fiscalização e investigação;
+
+b) Examinar livros, documentos e arquivos relativos às matérias inspecionadas;
+
+c) Proceder à selagem de quaisquer instalações ou equipamentos quando isso se mostre necessário face às infrações detetadas;
+
+d) Levantar autos de notícia por infração ao cumprimento de normas e regulamentos cuja fiscalização seja da competência da DRCIE;
+
+e) Solicitar o apoio das autoridades administrativas e policiais para o cumprimento integral das respetivas funções.
+
+MAPA ANEXO
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/10/21100/0629806299.pdf))](https://files.diariodarepublica.pt/1s/2012/10/21100/0629806299.pdf)

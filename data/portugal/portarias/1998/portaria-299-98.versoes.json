@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:521838:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1998-946449763",
+ "dre_path": "/dr/detalhe/portaria/299-1998-521838",
+ "source_lastmod": "2025-11-14",
+ "versions": [
+  {
+   "date": "1998-05-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "946248062",
+    "946248065",
+    "946248066",
+    "946248067",
+    "946248068",
+    "946248069",
+    "946248070",
+    "946248071"
+   ]
+  },
+  {
+   "date": "1998-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:248874:por",
+     "title": "Declaração de Rectificação n.º 10-N/98",
+     "published": "1998-05-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-n-1998-248874"
+    }
+   ],
+   "changes": [
+    "Retifica MAPA ANEXO"
+   ],
+   "fragments": [
+    "946248062",
+    "946248065",
+    "946248066",
+    "946248067",
+    "946248068",
+    "946248069",
+    "946248070",
+    "946248071",
+    "946248063",
+    "946248074"
+   ]
+  }
+ ],
+ "fragments": {
+  "946248062": {
+   "fragment_id": "946449764",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 299/98\n\nde 18 de Maio\n\nAo abrigo do disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 376/87, de 11 de Dezembro:\n\nManda o Governo, pelos Ministros das Finanças, da Justiça e Adjunto, o seguinte:"
+  },
+  "946248065": {
+   "fragment_id": "946449767",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nOs quadros de pessoal das secretarias judiciais indicadas no mapa anexo, aprovados pela Portaria n.º 1177/93, de 10 de Novembro, rectificada pela declaração publicada no Diário da República, 1.ª série, n.º 25, de 31 de Janeiro de 1994, e alterada pelas Portarias n.os 816/94, de 16 de Setembro, 1258/95, de 24 de Outubro, 245/96, de 8 de Julho, 63/97, de 28 de Janeiro, 306/97, de 9 de Maio, 307/97, de 9 de Maio, e 311/97, de 13 de Maio, passam a ter a composição constante do mesmo, o qual faz parte integrante da presente portaria."
+  },
+  "946248066": {
+   "fragment_id": "946449768",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA 2.ª Secção de Processos do Tribunal da Comarca de Lamego passa a constituir a Secção de Processos do 2.º Juízo daquele Tribunal."
+  },
+  "946248067": {
+   "fragment_id": "946449769",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nNo Tribunal da Comarca de Tomar, a 1.ª Secção de Processos do 1.º Juízo passa a constituir a Secção de Processos do 1.º Juízo, a 1.ª Secção de Processos do 2.º Juízo passa a constituir a Secção de Processos do 2.º Juízo e a 2.ª Secção de Processos do 1.º Juízo passa a constituir a Secção de Processos do 3.º Juízo."
+  },
+  "946248068": {
+   "fragment_id": "946449770",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nNo Tribunal da Comarca de Torres Vedras, a 1.ª Secção de Processos do 1.º Juízo passa a constituir a Secção de Processos do 1.º Juízo, a 1.ª Secção de Processos do 2.º Juízo passa a constituir a Secção de Processos do 2.º Juízo e a 2.ª Secção de Processos do 1.º Juízo passa a constituir a Secção de Processos do 3.º Juízo."
+  },
+  "946248069": {
+   "fragment_id": "946449771",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nSão extintas as 2.as Secções dos 2.os Juízos dos Tribunais das Comarcas de Tomar e de Torres Vedras."
+  },
+  "946248070": {
+   "fragment_id": "946449772",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nOs serviços do Ministério Público junto do Tribunal de Recuperação da Empresa e de Falência de Lisboa são dotados das seguintes unidades de apoio:\n\nTécnico de justiça-adjunto - 1;\n\nTécnico de justiça auxiliar - 1."
+  },
+  "946248071": {
+   "fragment_id": "946449773",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nOs serviços do Ministério Público junto do Tribunal de Recuperação da Empresa e de Falência de Vila Nova de Gaia são dotados da seguinte unidade de apoio:\n\nTécnico de justiça-adjunto - 1."
+  },
+  "946248063": {
+   "fragment_id": "946449765",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros e Ministérios das Finanças e da Justiça.\n\nAssinada em 24 de Abril de 1998.\n\nPelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro da Justiça, José Manuel de Matos Fernandes, Secretário de Estado Adjunto do Ministro da Justiça. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa."
+  },
+  "946248074": {
+   "fragment_id": "946449766",
+   "type": 14,
+   "heading": "MAPA ANEXO",
+   "in_force_from": "1998-05-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 10-N/98 - Diário da República n.º 125/1998, 3º Suplemento, Série I-B de 1998-05-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-n-1998-248874), em vigor a partir de 1998-05-30"
+   ],
+   "markdown": "## MAPA ANEXO\n\nSecretarias judiciais\n\nAveiro\n\nTribunal de família e de menores\n\nSecção central e uma secção de processos:\n\nPessoal:\n\nCategorias:\n\nSecretário judicial - 1\n\nEscrivão de direito - 1;\n\nEscrivão-adjunto - 3;\n\nEscriturário judicial - 4.\n\nServiços do Ministério Público\n\nUnidade de apoio:\n\nPessoal:\n\nCategorias:\n\nTécnico de justiça-adjunto - 1.\n\nCoimbra\n\nTribunal de comarca\n\nSecção central e nove secções de processos, sendo cinco afectas aos juízos de competência especializada cível e quatro afectas aos juízos de competência especializada criminal:\n\nPessoal:\n\nCategorias:\n\nEscrivão de direito - 10;\n\nEscrivão-adjunto - 21;\n\nEscriturário judicial - 30.\n\nServiços do Ministério Público\n\nSecção central e duas secções de processos:\n\nPessoal:\n\nCategorias:\n\nSecretário técnico - 1;\n\nTécnico de justiça principal - 2;\n\nTécnico de justiça-adjunto - 9;\n\nTécnico de justiça auxiliar - 11.\n\nTribunal de família e de menores\n\nServiços do Ministério Público\n\nUnidades de apoio:\n\nPessoal:\n\nCategorias:\n\nTécnico de justiça-adjunto - 1;\n\nTécnico de justiça auxiliar - 1.\n\nFundão\n\nTribunal de comarca\n\nSecção central e duas secções de processos:\n\nPessoal:\n\nCategorias:\n\nSecretário judicial - 1;\n\nEscrivão de direito - 2;\n\nEscrivão-adjunto - 5;\n\nEscriturário judicial - 5.\n\nGuarda\n\nTribunal de círculo e de comarca\n\nSecção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:\n\nPessoal:\n\nCategorias:\n\nSecretário judicial - 1;\n\nEscrivão de direito - 5;\n\nEscrivão-adjunto - 7;\n\nEscriturário judicial - 10;\n\nMotorista de ligeiros - 1;\n\nOficial porteiro - 1\n\nTelefonista - 1.\n\nServiços do Ministério Público\n\nSecção central e uma secção de processos:\n\nPessoal:\n\nCategorias:\n\nTécnico de justiça principal - 1;\n\nTécnico de justiça-adjunto - 1;\n\nTécnico de justiça auxiliar - 3.\n\nLamego\n\nTribunal de círculo e de comarca\n\nSecção central e três secções de processos, sendo uma afecta ao tribunal de círculo:\n\nPessoal:\n\nCategorias:\n\nSecretário judicial - 1;\n\nEscrivão de direito - 3;\n\nEscrivão-adjunto - 7;\n\nEscriturário judicial - 9;\n\nMotorista de ligeiros - 1;\n\nOficial porteiro - 1.\n\nPenafiel\n\nTribunal de círculo e de comarca\n\nSecção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:\n\nPessoal:\n\nCategorias:\n\nSecretário judicial - 1;\n\nEscrivão de direito - 5;\n\nEscrivão-adjunto - 9;\n\nEscriturário judicial - 13;\n\nMotorista de ligeiros - 1;\n\nTelefonista - 1;\n\nAuxiliar de segurança - 1.\n\nPeso da Régua\n\nTribunal de comarca\n\nSecção central e duas secções de processos:\n\nPessoal:\n\nCategorias:\n\nSecretário judicial - 1;\n\nEscrivão de direito - 2;\n\nEscrivão-adjunto - 3;\n\nEscriturário judicial - 7.\n\nPonta Delgada\n\nTribunal de comarca\n\nSecção central e cinco secções de processos:\n\nPessoal:\n\nCategorias:\n\nSecretário judicial - 1;\n\nEscrivão de direito - 6;\n\nEscrivão-adjunto - 16;\n\nEscriturário judicial - 16;\n\nTécnico-adjunto de arquivo - 1;\n\nMotorista de ligeiros - 1;\n\nOficial porteiro - 1;\n\nTelefonista - 1;\n\nAuxiliar de segurança - 1.\n\nServiços do Ministério Público\n\nSecção central e uma secção de processos:\n\nPessoal:\n\nCategorias:\n\nTécnico de justiça principal - 1;\n\nTécnico de justiça-adjunto - 6;\n\nTécnico de justiça auxiliar - 6.\n\nSintra\n\nTribunal de comarca\n\n[...]\n\nServiços do Ministério Público\n\nSecção central e três secções de processos:\n\n[...]\n\nTomar\n\nTribunal de círculo e de comarca\n\nSecção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:\n\nPessoal:\n\nCategorias:\n\nSecretário judicial - 1;\n\nEscrivão de direito - 5;\n\nEscrivão-adjunto - 7;\n\nEscriturário judicial - 10;\n\nMotorista de ligeiros - 1;\n\nOficial porteiro - 1;\n\nTelefonista - 1.\n\nServiços do Ministério Público\n\nSecção central e uma secção de processos:\n\nPessoal:\n\nCategorias:\n\nTécnico de justiça principal - 1;\n\nTécnico de justiça-adjunto - 2;\n\nTécnico de justiça auxiliar - 3.\n\nTorres Vedras\n\nTribunal de círculo e de comarca\n\nSecção central e quatro secções de processos, sendo uma afecta ao tribunal de círculo:\n\nPessoal:\n\nCategorias:\n\nSecretário judicial - 1;\n\nEscrivão de direito - 5;\n\nEscrivão-adjunto - 13;\n\nEscriturário judicial - 16;\n\nTécnico-adjunto de arquivo - 1;\n\nMotorista de ligeiros - 1;\n\nOficial porteiro - 1;\n\nTelefonista - 1;\n\nOperador de reprografia - 1.\n\nVila Nova de Gaia\n\nTribunal de comarca\n\nSecção central e nove secções de processos, sendo seis afectas aos juízos de competência especializada cível e três afectas aos juízos de competência especializada criminal:\n\nPessoal:\n\nCategorias:\n\nEscrivão de direito - 10;\n\nEscrivão-adjunto - 27;\n\nEscriturário judicial - 31.\n\nServiços do Ministério Público\n\nSecção central e três secções de processos:\n\nPessoal:\n\nCategorias:\n\nSecretário técnico - 1;\n\nTécnico de justiça principal - 3;\n\nTécnico de justiça-adjunto - 10;\n\nTécnico de justiça auxiliar - 13.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10-N/98 - Diário da República n.º 125/1998, 3º Suplemento, Série I-B de 1998-05-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-n-1998-248874), em vigor a partir de 1998-05-30"
+  }
+ }
+}

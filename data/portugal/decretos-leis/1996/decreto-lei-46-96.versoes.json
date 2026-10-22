@@ -1,0 +1,102 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:468873:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-1027260131",
+ "dre_path": "/dr/detalhe/decreto-lei/46-1996-468873",
+ "source_lastmod": "2026-07-23",
+ "versions": [
+  {
+   "date": "1998-11-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222612:por",
+     "title": "Decreto-Lei n.º 328/98",
+     "published": "1998-11-02",
+     "dre_path": "/dr/detalhe/decreto-lei/328-1998-222612"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "1027327475",
+    "1027327675",
+    "1027327875",
+    "1027328075",
+    "1027328275",
+    "1027328475",
+    "1148798975",
+    "1027328875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1027327475": {
+   "fragment_id": "1027327375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A situação do sistema prisional, caracterizada sobretudo pela existência de um número de reclusos muito superior à capacidade de enquadramento existente e pela degradação de instalações e equipamentos em muitos estabelecimentos, configura um quadro de excepcionalidade e emergência, que justifica plenamente o recurso a medidas especiais e limitadas no tempo que permitam a realização rápida de obras urgentes indispensáveis ao aumento da lotação do sistema.\n\nTal aumento exige também que ao mesmo ritmo se proceda à aquisição dos bens necessários ao funcionamento de novos espaços prisionais.\n\nOs valores de segurança pública interna, a imprevisibilidade do aumento da população prisional e a verificação de que os mecanismos previstos na lei geral, em função dos montantes envolvidos, não dão adequada resposta à satisfação das necessidades públicas impõem que se recorra a soluções adequadas à imperiosa urgência existente.\n\nA par das obras a realizar e dos bens a adquirir, é imprescindível igualmente proceder, através de mecanismos excepcionais, ao recrutamento de pessoal que permita pôr em funcionamento novos estabelecimentos prisionais e novos edifícios em estabelecimentos prisionais existentes.\n\nAssim:\n\nNos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição e no desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei n.º 184/89, de 2 de Junho, o Governo decreta o seguinte:"
+  },
+  "1027327675": {
+   "fragment_id": "1027327575",
+   "type": 11,
+   "heading": "Artigo 1.º — Realização de obras em prédios militares e outros edifícios públicos destinados a estabelecimentos prisionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Realização de obras em prédios militares e outros edifícios públicos destinados a estabelecimentos prisionais\n\n1 - A realização de trabalhos de construção, reconstrução, restauro, reparação, conservação ou adaptação, independentemente do seu valor, em prédios militares ou em outros edifícios públicos destinados a estabelecimentos prisionais enquadra-se no disposto nas alíneas c) e e) do n.º 2 do artigo 52.º do Decreto-Lei n.º 405/93, de 10 de Dezembro, na redacção dada pelo Decreto-Lei n.º 101/95, de 19 de Maio.\n\n2 - O regime previsto no número anterior aplica-se igualmente:\n\na) Aos trabalhos a realizar em estabelecimentos prisionais visando o aumento da sua lotação;\n\nb) Aos trabalhos de construção de estabelecimentos prisionais em terrenos contíguos a estabelecimentos prisionais existentes e a estes afectos;\n\nc) Aos trabalhos a realizar em colégios de acolhimento, educação e formação do Instituto de Reinserção Social, visando o aumento da sua lotação, por forma que outros colégios sejam destinados a estabelecimentos prisionais."
+  },
+  "1027327875": {
+   "fragment_id": "1027327775",
+   "type": 11,
+   "heading": "Artigo 2.º — Construção de novos estabelecimentos prisionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Construção de novos estabelecimentos prisionais\n\n1 - A consignação dos empreendimentos para a construção de estabelecimentos prisionais pode ser feita imediatamente após despacho de adjudicação, devendo o processo ser posteriormente submetido a visto do Tribunal de Contas.\n\n2 - Em simultâneo com a notificação ao empreiteiro do despacho referido no número anterior, é feita a notificação da data fixada para a consignação e o envio da minuta do contrato.\n\n3 - Se o adjudicatário não concordar com a minuta, deve apresentar reclamação fundamentada antes da data marcada para a consignação, presumindo-se o seu acordo se o não fizer.\n\n4 - Em caso de reclamação aplica-se o disposto nos n.os 2 e 3 do artigo 101.º do Decreto-Lei n.º 405/93, de 10 de Dezembro.\n\n5 - Efectuada a consignação, e enquanto não estiverem concluídas as formalidades conducentes à produção de efeitos financeiros, poderá o dono da obra conceder adiantamentos, nos termos do artigo 195.º do Decreto-Lei n.º 405/93, de 10 de Dezembro."
+  },
+  "1027328075": {
+   "fragment_id": "1027327975",
+   "type": 11,
+   "heading": "Artigo 3.º — Aquisição de bens e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aquisição de bens e serviços\n\n1 - A aquisição de bens e serviços para assegurar o funcionamento de estabelecimentos prisionais instalados em prédios ou outros edifícios referidos no n.º 1 do artigo 1.º, ou para assegurar o aumento da lotação de estabelecimentos prisionais incluídos nos programas de execução a que se refere o artigo 5.º, enquadra-se no disposto no n.º 2 do artigo 12.º e na alínea c) do n.º 1 do artigo 36.º do Decreto-Lei n.º 55/95, de 29 de Março.\n\n2 - As aquisições previstas no Decreto-Lei n.º 243/93, de 8 de Julho, podem ser feitas com dispensa de celebração de contrato escrito.\n\n3 - O regime previsto no n.º 1 é ainda aplicável:\n\na) Às aquisições feitas para colégios de acolhimento, educação e formação que se encontrem na situação prevista na alínea c) do n.º 2 do artigo 1.º;\n\nb) Às aquisições de material de defesa e segurança em estabelecimentos prisionais;\n\nc) Às aquisições relacionadas com o reforço dos sistemas de telecomunicações no sistema prisional e com o transporte de reclusos;\n\nd) À realização dos projectos para construção de estabelecimentos prisionais e os relativos às obras referidas no artigo 1.º"
+  },
+  "1027328275": {
+   "fragment_id": "1027328175",
+   "type": 11,
+   "heading": "Artigo 4.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pessoal\n\n1 - O recrutamento de pessoal não vinculado à função pública para o exercício de funções de guarda prisional é feito de acordo com as normas legais vigentes, designadamente o disposto no Decreto-Lei n.º 174/93, de 12 de Maio.\n\n2 - O recrutamento do restante pessoal, necessário ao funcionamento dos novos estabelecimentos prisionais ou para fazer face ao aumento de lotação de estabelecimentos prisionais existentes, far-se-á de acordo com os mecanismos de mobilidade previstos na lei geral.\n\n3 - Para efeitos do número anterior, a Direcção-Geral dos Serviços Prisionais fará a publicitação da oferta de emprego em jornal de expansão regional ou local.\n\n4 - Se do previsto nos n.os 2 e 3 não resultar o recrutamento do pessoal necessário, a Direcção-Geral dos Serviços Prisionais pode proceder ao recrutamento de pessoal não vinculado à função pública, sem prejuízo dos requisitos habilitacionais e profissionais fixados por lei, mediante contratos administrativos de provimento, com prazo renovável até três anos.\n\n5 - O recrutamento referido no número anterior é feito com dispensa de concurso, mas depende de processo de selecção sumária, do qual faz parte:\n\na) A publicitação da oferta de emprego em jornal de expansão regional ou local, incluindo obrigatoriamente a indicação do tipo de contrato a celebrar, o serviço e posto de trabalho a que se destina, a categoria, os requisitos exigidos e aqueles que constituem condição de preferência, bem como a remuneração a atribuir;\n\nb) A subordinação a mecanismos de selecção que assegurem a adequação à função;\n\nc) A apreciação das candidaturas e a aplicação de mecanismos de selecção por júri designado pelo Ministro da Justiça;\n\nd) A elaboração de acta contendo obrigatoriamente os fundamentos da decisão tomada e os critérios adoptados para a admissão.\n\n6 - O disposto nos n.os 2 a 5 aplica-se igualmente a pessoal a recrutar pelo Instituto de Reinserção Social para fazer face às situações de aumento de lotação referidas na alínea c) do n.º 2 do artigo 1.º ou para o desempenho de funções em novos estabelecimentos prisionais.\n\n7 - O ingresso no quadro da Direcção-Geral dos Serviços Prisionais e do Instituto de Reinserção Social do pessoal contratado ao abrigo dos n.os 4 a 6, com avaliação de desempenho favorável, durante, pelo menos, um ano de exercício de funções, é feito por concurso, nos termos da lei geral.\n\n8 - Consideram-se descongeladas as admissões, por contrato ou nomeação, das unidades de pessoal a que se refere o n.º 2 do artigo 5.º\n\n9 - Os quadros de pessoal da Direcção-Geral dos Serviços Prisionais e do Instituto de Reinserção Social serão alterados por forma a neles poderem ser integradas as unidades de pessoal referidas no n.º 2 do artigo 5.º"
+  },
+  "1027328475": {
+   "fragment_id": "1027328375",
+   "type": 11,
+   "heading": "Artigo 5.º — Programas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Programas de execução\n\n1 - A realização das obras, a aquisição de bens e serviços e o recrutamento de pessoal ao abrigo do presente diploma devem constar de programas aprovados pelos Ministros das Finanças, do Equipamento, do Planeamento e da Administração do Território e da Justiça e pelo Ministro Adjunto, em função da respectiva competência.\n\n2 - Para cada novo estabelecimento prisional, para cada estabelecimento prisional cuja lotação seja aumentada ou para cada colégio de acolhimento, educação e formação que se encontre na situação prevista na alínea c) do n.º 2 do artigo 1.º é elaborado um programa, em que, por subprogramas ou projectos, se discriminem as obras a realizar, os bens e serviços a adquirir e as unidades de pessoal a recrutar."
+  },
+  "1148798975": {
+   "fragment_id": "1027328575",
+   "type": 11,
+   "heading": "Artigo 6.º — Vigência",
+   "in_force_from": "1998-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 328/98 - Diário da República n.º 253/1998, Série I-A de 1998-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1998-222612), em vigor a partir de 1998-11-07."
+   ],
+   "markdown": "###### Artigo 6.º — Vigência\n\nO disposto no presente diploma vigora até 31 de Dezembro de 2000.\n\n> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 328/98 - Diário da República n.º 253/1998, Série I-A de 1998-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1998-222612), em vigor a partir de 1998-11-07."
+  },
+  "1027328875": {
+   "fragment_id": "1027328775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Abril de 1996. - António Manuel de Oliveira Guterres - António Carlos dos Santos - José Manuel da Costa Monteiro Consiglieri Pedroso - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 30 de Abril de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Maio de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:573311:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-182018432",
+ "dre_path": "/dr/detalhe/decreto-lei/67-2005-573311",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "182018157",
+    "182018158",
+    "182018159",
+    "182018160",
+    "182018161",
+    "182018162",
+    "182018163"
+   ]
+  },
+  {
+   "date": "2008-06-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456200:por",
+     "title": "Decreto-Lei n.º 107/2008",
+     "published": "2008-06-25",
+     "dre_path": "/dr/detalhe/decreto-lei/107-2008-456200"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "182018157",
+    "182018158",
+    "182018159",
+    "182024490",
+    "182018161",
+    "182018162",
+    "182024491",
+    "182018164"
+   ]
+  }
+ ],
+ "fragments": {
+  "182018157": {
+   "fragment_id": "182018433",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 67/2005\n\nde 15 de Março\n\nAtravés da Decisão n.º <a href=\"eurlex.asp?ano=2003&id=303D2317\" title=\"Link para Decisão da Comunidade Europeia\">2317/2003/CE</a>, do Parlamento Europeu e do Conselho, de 5 de Dezembro (Jornal Oficial da União Europeia, n.º L 345, de 31 de Dezembro de 2003), foi criado o programa «Erasmus Mundus».\n\nEntre outros objectivos, o programa visa promover uma oferta de qualidade em matéria de ensino superior, com um claro valor acrescentado europeu, aliciante tanto a nível da União Europeia como além-fronteiras.\n\nConcretizando os seus objectivos, o programa inclui, entre as suas acções, a realização de cursos de mestrado, seleccionados em função da qualidade proposta e do acolhimento dos estudantes.\n\nUm curso de mestrado «Erasmus Mundus» caracteriza-se, entre outros aspectos, por:\n\nEnvolver no mínimo três estabelecimentos de ensino superior de três Estados membros diferentes;\n\nExecutar um programa curricular que abranja um período de estudos em pelo menos dois dos estabelecimentos envolvidos no curso;\n\nDispor de mecanismos integrados para o reconhecimento de períodos de estudo efectuados nos estabelecimentos envolvidos, baseados no ou compatíveis com o sistema europeu de transferência de créditos;\n\nConduzir à atribuição, pelos estabelecimentos participantes, de diplomas duplos ou múltiplos conjuntos, reconhecidos ou acreditados pelos Estados membros.\n\nNos termos da alínea a) do n.º 2 do artigo 6.º da citada decisão, os Estados membros devem «adoptar as medidas necessárias para a gestão eficaz do programa a nível nacional, associando todos os intervenientes no processo de ensino segundo as práticas nacionais, e procurar adoptar essas medidas da forma que pareça mais adequada à eliminação de entraves jurídicos e administrativos.»\n\nEmbora hoje já existam normas que asseguram a existência de condições legais para o reconhecimento dos cursos pelas universidades participantes, estabelecem-se, através do presente diploma, procedimentos mais simples e expeditos ao mesmo tempo que se autoriza a emissão de diplomas conjuntos.\n\nFoi ouvido o Conselho de Reitores das Universidades Portuguesas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "182018158": {
+   "fragment_id": "182018434",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma visa regular:\n\na) O reconhecimento pelo Estado Português dos graus académicos conferidos na sequência da conclusão com êxito de um curso de mestrado «Erasmus Mundus»;\n\nb) A titulação desses graus."
+  },
+  "182018159": {
+   "fragment_id": "182018435",
+   "type": 11,
+   "heading": "Artigo 2.º — Curso de mestrado «Erasmus Mundus»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Curso de mestrado «Erasmus Mundus»\n\nPara os fins deste diploma, designa-se «curso de mestrado 'Erasmus Mundus'» um curso realizado no âmbito da acção I do programa «Erasmus Mundus» [Decisão n.º <a href=\"eurlex.asp?ano=2003&id=303D2317\" title=\"Link para Decisão da Comunidade Europeia\">2317/2003/CE</a>, do Parlamento Europeu e do Conselho, de 5 de Dezembro (Jornal Oficial da União Europeia, n.º L 345, de 31 de Dezembro de 2003)] em cuja organização e ministração seja parceiro um estabelecimento de ensino superior português através de um curso conducente ao grau de mestre cujas criação e autorização de funcionamento tenham sido realizadas nos termos da lei portuguesa."
+  },
+  "182018160": {
+   "fragment_id": "182018436",
+   "type": 11,
+   "heading": "Artigo 3.º — Grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Grau de mestre\n\nO grau de mestre conferido através de um curso de mestrado «Erasmus Mundus» cuja conclusão tenha tido lugar no âmbito de um estabelecimento de ensino superior português é titulado por uma carta magistral emitida nos termos da lei portuguesa."
+  },
+  "182018161": {
+   "fragment_id": "182018437",
+   "type": 11,
+   "heading": "Artigo 4.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reconhecimento\n\nSão reconhecidos os direitos inerentes à titularidade do grau de mestre aos estudantes que hajam obtido o grau académico conferido por um curso de mestrado «Erasmus Mundus» cuja conclusão tenha tido lugar no âmbito de um estabelecimento de ensino superior de outro Estado membro."
+  },
+  "182018162": {
+   "fragment_id": "182018438",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo\n\n1 - O reconhecimento a que se refere o artigo anterior depende do registo prévio do diploma na Direcção-Geral do Ensino Superior.\n\n2 - Os termos e condições em que se realiza o registo são aprovados por portaria do Ministro da Ciência, Inovação e Ensino Superior."
+  },
+  "182018163": {
+   "fragment_id": "182018439",
+   "type": 11,
+   "heading": "Artigo 6.º — Diploma conjunto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Diploma conjunto\n\n1 - Os estabelecimentos de ensino superior portugueses parceiros na organização e ministração de um curso de mestrado «Erasmus Mundus» podem emitir diplomas conjuntos com os restantes estabelecimentos parceiros.\n\n2 - Os diplomas conjuntos têm o mesmo valor da carta magistral.\n\n3 - Os termos e condições em que os estabelecimentos de ensino superior portugueses podem participar na emissão de diplomas conjuntos são aprovados por portaria do Ministro da Ciência, Inovação e Ensino Superior."
+  },
+  "182024490": {
+   "fragment_id": "182018436",
+   "type": 11,
+   "heading": "Artigo 3.º — Grau de mestre",
+   "in_force_from": "2008-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26"
+   ],
+   "markdown": "###### Artigo 3.º — Grau de mestre\n\nO grau de mestre conferido através de um curso de mestrado 'Erasmus Mundus' cuja conclusão tenha tido lugar no âmbito de um estabelecimento de ensino superior português é titulado nos termos fixados pelo Decreto-Lei n.º 74/2006, de 24 de Março.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26"
+  },
+  "182024491": {
+   "fragment_id": "182018439",
+   "type": 11,
+   "heading": "Artigo 6.º — Diploma conjunto",
+   "in_force_from": "2008-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26"
+   ],
+   "markdown": "###### Artigo 6.º — Diploma conjunto\n\nOs estabelecimentos de ensino superior portugueses parceiros na organização e ministração de um curso de mestrado 'Erasmus Mundus' podem emitir diplomas conjuntos com os restantes estabelecimentos parceiros, nos termos fixados pelo artigo 43.º do Decreto-Lei n.º 74/2006, de 24 de Março.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26"
+  },
+  "182018164": {
+   "fragment_id": "182018440",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António Victor Martins Monteiro - Maria da Graça Martins da Silva Carvalho.\n\nPromulgado em 28 de Fevereiro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 3 de Março de 2005.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  }
+ }
+}

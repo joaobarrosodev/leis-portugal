@@ -1,0 +1,209 @@
+---
+schema_version: '1.0'
+id: pt:dre:350477:por
+title: Decreto-Lei n.º 140/97
+short_title: null
+summary: Cria uma linha de crédito para reestruturação de dívidas de pessoas singulares ou colectivas dos sectores agrícola
+  e agro-industrial
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 140/97
+official_date: null
+publication_date: '1997-06-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 129/1997, Série I-A de 1997-06-05
+  number: '129'
+  series: I
+  supplement: null
+  pages: 2760 - 2762
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/06/129a00/27602762.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/140/1997/06/05/p/dre/pt/html
+  oj: null
+  dre: '350477'
+  dre_path: /dr/detalhe/decreto-lei/140-1997-350477
+  internal: pt:dre:350477:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1997-350477
+  metadata_url: https://data.dre.pt/eli/dec-lei/140/1997/06/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1997-350477
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-06-05T00:00:00Z'
+integrity:
+  source_sha256: cd062e081b2ff393952257e0688f1f382d466a0bf8d3265ea808d0f665a3846e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-140-350477.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Indústria Agrícola
+- Investimento
+- JURO Bonificado
+- Linha de Crédito
+- Piddac
+- Agricultura
+- Ifadap
+relationships:
+- type: cites
+  target: celex:31975L0268
+  label: null
+  source: http://data.europa.eu/eli/dir/1975/268/oj
+- type: cites
+  target: celex:31977R0355
+  label: null
+  source: http://data.europa.eu/eli/reg/1977/355/oj
+- type: cites
+  target: celex:31986L0467
+  label: null
+  source: http://data.europa.eu/eli/dir/1986/467/oj
+- type: cites
+  target: celex:31990R0866
+  label: null
+  source: http://data.europa.eu/eli/reg/1990/866/oj
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 140/97
+
+de 5 de Junho
+
+A crescente globalização dos mercados e o consequente agravamento da pressão concorrencial, conjugados com a prossecução de políticas desfavoráveis no início da década de 1990, nomeadamente a apreciação sustentada do escudo e a persistência de elevadas taxas de juro, repercutiram-se de forma significativamente negativa nas empresas agrícolas e do sector agro-industrial.
+
+A recessão económica verificada em Portugal nos anos de 1991 a 1994 e as condições climáticas particularmente adversas ocorridas no mesmo período agravaram, ainda mais, a já débil situação económica das empresas destes sectores, reduzindo a sua rentabilidade e gerando acrescidas e graves dificuldades financeiras.
+
+Tais dificuldades assumiram especial importância nas empresas que desde 1986 vinham realizando um esforço de modernização e desenvolvimento, efectuando investimentos que as condições económicas e de mercado impediram de rentabilizar, apesar de ser inequívoca a sua viabilidade. Para sobrevivência destas empresas que importa assegurar, é imperiosa a adopção de medidas que possibilitem a recuperação do seu equilíbrio financeiro mínimo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É criada uma linha de crédito destinada às pessoas singulares ou colectivas do sector agrícola e agro-industrial em situação financeira difícil, com o objectivo de permitir a renegociação de dívidas referentes a financiamentos afectos à sua actividade e ligados a investimentos realizados entre 1 de Julho de 1986 e a data da publicação deste diploma.
+
+###### Artigo 2.º — Acesso
+
+Têm acesso à linha de crédito as pessoas singulares ou colectivas do sector agrícola e agro-industrial localizadas no território nacional que apresentem garantias de viabilidade técnica e económico-financeira e se dediquem:
+
+a) À produção primária de bens de origem vegetal ou animal;
+
+b) À transformação e comercialização de produtos agrícolas e que tenham realizado investimentos enquadráveis nos critérios gerais dos Regulamentos (CEE) n.º [355/77](http://data.europa.eu/eli/reg/1977/355/oj?locale=pt) e [866/90](http://data.europa.eu/eli/reg/1990/866/oj?locale=pt).
+
+###### Artigo 3.º — Montante
+
+1 - O montante global de crédito a conceder não pode exceder 150 milhões de contos.
+
+2 - Tratando-se de renegociação ou de pagamento de dívidas contraídas no âmbito de operações de ajudas comunitárias e ou nacionais, ao montante de investimento a considerar para concessão do crédito devem ser deduzidas as ajudas já atribuídas.
+
+3 - O valor das ajudas já atribuídas e os que decorrem da presente medida não podem exceder, no seu conjunto, para as empresas enquadráveis na alínea a) do artigo anterior, a percentagem máxima de 75% nas regiões desfavorecidas e de 35% nas regiões não desfavorecidas, do montante dos investimentos referidos no artigo 1.º; e para as empresas enquadráveis na alínea b) do artigo anterior, a percentagem máxima de 75% do montante dos investimentos referidos no artigo 1.º
+
+4 - Para efeitos do disposto no número anterior, consideram-se regiões desfavorecidas as que constam da lista publicada em anexo à Directiva n.º [86/467/CEE](http://data.europa.eu/eli/dir/1986/467/oj?locale=pt), do Conselho, de 14 de Julho, relativa às regiões desfavorecidas na acepção da Directiva n.º [75/268/CEE](http://data.europa.eu/eli/dir/1975/268/oj?locale=pt), do Conselho, de 28 de Abril.
+
+###### Artigo 4.º — Forma
+
+1 - O crédito é concedido, sob a forma de empréstimo reembolsável, pelas instituições de crédito que celebrem protocolo com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), no qual é estabelecida uma taxa de juro nominal máxima.
+
+2 - Os empréstimos são formalizados em contratos escritos, a definir pelo IFADAP.
+
+###### Artigo 5.º — Condições financeiras dos empréstimos
+
+1 - Os empréstimos são concedidos pelo prazo máximo de 10 anos e amortizáveis anualmente, até ao máximo de oito prestações de igual montante, ocorrendo a primeira amortização 3 anos após a data prevista para a utilização do crédito.
+
+2 - Os empréstimos vencem juros sobre o capital em dívida à taxa anual contratada.
+
+3 - Os juros são postecipados e pagos anualmente.
+
+4 - São estabelecidas as seguintes percentagens para as bonificações de juros:
+
+1.º ano - 62%;
+
+2.º ano - 46%;
+
+3.º ano - 46%;
+
+4.º ano - 30%;
+
+5.º ano - 30%;
+
+6.º ano - 20%.
+
+5 - As percentagens referidas no número anterior são aplicadas à taxa de referência criada pelo Decreto-Lei n.º 359/89, de 18 de Outubro, que se encontre em vigor no início do período de contagem dos juros, excepto se esta for superior à taxa activa praticada pela instituição de crédito para a operação em análise, caso em que aquelas percentagens são aplicadas a esta taxa.
+
+###### Artigo 6.º — Condições de bonificação
+
+1 - A bonificação de juros é processada enquanto se verificar o cumprimento de todas as obrigações contratualmente assumidas pelo mutuário.
+
+2 - O incumprimento de qualquer destas obrigações deve ser prontamente comunicado ao IFADAP pelas instituições de crédito e acarreta a cessação das bonificações.
+
+3 - A cessação das bonificações implica o pagamento de juros, pelo mutuário, à taxa contratual, desde a data do vencimento anterior à data do incumprimento, bem como o estorno das bonificações que depois deste hajam sido processadas.
+
+###### Artigo 7.º — Outras condições
+
+1 - Compete ao IFADAP o processamento e o pagamento das bonificações, bem como a definição e o estabelecimento das normas técnicas e financeiras complementares destinadas à execução do disposto no presente diploma.
+
+2 - As instituições de crédito devem fornecer prontamente ao IFADAP todas as informações por este solicitadas, relativamente aos créditos concedidos ao abrigo deste diploma.
+
+###### Artigo 8.º — Financiamento
+
+1 - Os encargos financeiros referentes à bonificação de juros dos empréstimos são suportados pelo Orçamento do Estado e inscritos no PIDDAC do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+2 - Pelos serviços prestados no âmbito do presente diploma, o IFADAP recebe uma retribuição a definir por portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, sem acréscimo de encargos para o Orçamento do Estado.
+
+###### Artigo 9.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 17 de Abril de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva.
+
+**Promulgado em 22 de Maio de 1997.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 26 de Maio de 1997.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

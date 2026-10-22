@@ -1,0 +1,397 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122520772:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-158052142",
+ "dre_path": "/dr/detalhe/portaria/175-2019-122520772",
+ "source_lastmod": "2026-10-19",
+ "versions": [
+  {
+   "date": "2019-06-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "158043568",
+    "158043569",
+    "158043570",
+    "158043571",
+    "158043572",
+    "158043573",
+    "158043574",
+    "158145975",
+    "158145977"
+   ]
+  },
+  {
+   "date": "2021-02-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:158052100:por",
+     "title": "Portaria n.º 40/2021",
+     "published": "2021-02-22",
+     "dre_path": "/dr/detalhe/portaria/40-2021-158052100"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "158043568",
+    "158043569",
+    "158043570",
+    "158043571",
+    "158145978",
+    "158145979",
+    "158043574",
+    "158145975",
+    "158145976",
+    "158145977"
+   ]
+  },
+  {
+   "date": "2024-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:852994096:por",
+     "title": "Portaria n.º 52/2024",
+     "published": "2024-02-19",
+     "dre_path": "/dr/detalhe/portaria/52-2024-852994096"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "158043568",
+    "853111396",
+    "853111397",
+    "853111398",
+    "853111399",
+    "853111400",
+    "853111401",
+    "158145975",
+    "158145976",
+    "853111447"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1179722108:por",
+     "title": "Portaria n.º 454/2026/1",
+     "published": "2026-10-13",
+     "dre_path": "/dr/detalhe/portaria/454-2026-1179722108"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1180102475",
+    "1180102675",
+    "1180102775",
+    "1180102875",
+    "1180102975",
+    "1180103075",
+    "1180103175",
+    "1180103275",
+    "1180103375",
+    "1180103475"
+   ]
+  }
+ ],
+ "fragments": {
+  "158043568": {
+   "fragment_id": "158052143",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 175/2019\n\nde 6 de junho\n\nNos termos previstos na alínea c) do artigo 28.º do Decreto-Lei n.º 68/2019, de 22 de maio, o Governo deve, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da habitação, proceder à regulamentação das disposições relativas ao registo de candidatura ao Programa de Arrendamento Acessível, definindo o valor máximo de rendimentos para efeitos de elegibilidade dos agregados habitacionais, a informação e os elementos instrutórios a apresentar, incluindo os documentos demonstrativos das situações previstas no n.º 2 do artigo 6.º e no artigo 13.º, a ocupação mínima dos alojamentos e o conteúdo do certificado de registo de candidatura, previstos no n.º 1 do artigo 12.º, na alínea b) do n.º 1 do artigo 15.º e nos n.os 1 e 5 do artigo 16.º do referido decreto-lei.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 12.º, na alínea b) do n.º 1 do artigo 15.º e nos n.os 1 e 5 do artigo 16.º do Decreto-Lei n.º 68/2019, de 22 de maio, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, no uso de competências delegadas pelo Despacho n.º 9005/2017, publicado no Diário da República, 2.ª série, n.º 197, de 12 de outubro, e pela Secretária de Estado da Habitação, no uso de competências delegadas pelo Despacho n.º 3396/2019, de 21 de março, publicado no Diário da República, 2.ª série, n.º 61, de 27 de março, o seguinte:"
+  },
+  "158043569": {
+   "fragment_id": "158052144",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à regulamentação das disposições do Decreto-Lei n.º 68/2019, de 22 de maio, relativas ao registo de candidatura ao Programa de Arrendamento Acessível, estabelecendo:\n\na) O valor máximo de rendimentos para efeitos de elegibilidade dos agregados habitacionais previsto no n.º 1 do artigo 12.º;\n\nb) A ocupação mínima dos alojamentos, em função da dimensão dos agregados habitacionais, prevista na alínea b) do n.º 1 do artigo 15.º;\n\nc) A informação e os elementos instrutórios a apresentar para registo da candidatura, nos termos do n.º 1 do artigo 16.º;\n\nd) O conteúdo do certificado de registo de candidatura previsto no n.º 5 do artigo 16.º"
+  },
+  "158043570": {
+   "fragment_id": "158052145",
+   "type": 11,
+   "heading": "Artigo 2.º — Valor máximo de rendimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Valor máximo de rendimentos\n\nO valor máximo de rendimento anual para efeitos de elegibilidade dos agregados habitacionais no âmbito do Programa de Arrendamento Acessível é estabelecido, em função da composição de cada agregado habitacional, no anexo à presente portaria, que dela faz parte integrante."
+  },
+  "158043571": {
+   "fragment_id": "158052146",
+   "type": 11,
+   "heading": "Artigo 3.º — Ocupação mínima dos alojamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ocupação mínima dos alojamentos\n\n1 - A ocupação mínima dos alojamentos no âmbito do Programa de Arrendamento Acessível é de uma pessoa por quarto, independentemente da modalidade de disponibilização desse mesmo alojamento.\n\n2 - Para o efeito previsto no número anterior, os quartos devem cumprir as condições mínimas de segurança, salubridade e conforto aplicáveis nos termos da portaria prevista na alínea a) do artigo 8.º do Decreto-Lei n.º 68/2019, de 22 de maio."
+  },
+  "158043572": {
+   "fragment_id": "158052147",
+   "type": 11,
+   "heading": "Artigo 4.º — Elementos a apresentar para registo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Elementos a apresentar para registo de candidatura\n\n1 - O registo de candidaturas no âmbito do Programa de Arrendamento Acessível é feito na respetiva plataforma eletrónica mediante a apresentação dos seguintes elementos:\n\na) Definição do âmbito da procura:\n\ni) Finalidade de arrendamento pretendida, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\nii) Modalidade de alojamento pretendida, nos termos do artigo 9.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\nb) Informações:\n\ni) Identificação de todos os elementos do agregado habitacional, contendo para cada um deles o nome completo, a data de nascimento, o número e validade do bilhete de identidade ou cartão de cidadão, o número de identificação fiscal (NIF) e o endereço de correio eletrónico adotado para efeito de comunicação no âmbito do Programa de Arrendamento Acessível;\n\nii) Indicação dos membros do agregado habitacional que possuem a condição de candidatos, distinguindo entre estes os que adquirem essa condição nos termos do artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\niii) Rendimentos de cada um dos candidatos relevantes para a determinação do rendimento anual do agregado habitacional, nos termos do artigo 14.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\niv) Nos casos previstos no artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio:\n\nQuantia mensal fixa destinada ao pagamento da renda a que se refere o n.º 2 do mesmo artigo;\n\nIdentificação do fiador, incluindo o nome completo, o número e validade do bilhete de identidade ou cartão de cidadão e o NIF;\n\nQuando a finalidade for «residência temporária de estudantes do ensino superior», concelho do domicílio fiscal dos candidatos à data da candidatura;\n\nc) Documentos:\n\ni) Nos casos previstos no artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio:\n\nComprovativo de inscrição, vigente no ano da candidatura, como aluno no ensino secundário ou num ciclo de estudos conferente de grau ou diploma de ensino superior, ou como formando num curso de formação profissional de dupla certificação desenvolvido no âmbito do sistema nacional de qualificações;\n\nDeclaração de fiança em conformidade com o disposto no n.º 2 do mesmo artigo;\n\nii) Documentos comprovativos dos rendimentos indicados na subalínea iii) da alínea anterior, designadamente:\n\nNo caso previsto no n.º 1 do artigo 14.º do Decreto-Lei n.º 68/2019, de 22 de maio, o comprovativo da última declaração do Imposto sobre o Rendimento das Pessoas Singulares cuja liquidação se encontre disponível;\n\nNo caso previsto na alínea a) do n.º 2 do artigo 14.º do Decreto-Lei n.º 68/2019, de 22 de maio, os documentos comprovativos dos rendimentos efetivamente auferidos no ano fiscal anterior à data de registo da candidatura;\n\nNo caso previsto na alínea b) do n.º 2 do artigo 14.º do Decreto-Lei n.º 68/2019, de 22 de maio, declaração justificativa da modificação relevante na fonte de rendimento regular ali prevista, acompanhada dos documentos comprovativos dos rendimentos efetivamente auferidos desde a data de ocorrência dessa modificação.\n\n2 - O modelo de formulário de inscrição é definido pelo Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.)."
+  },
+  "158043573": {
+   "fragment_id": "158052148",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificado de registo da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Certificado de registo da candidatura\n\n1 - O certificado de registo da candidatura, previsto no n.º 5 do artigo 16.º do Decreto-Lei n.º 68/2019, de 22 de maio, é emitido pela plataforma eletrónica do Programa de Arrendamento Acessível com base nas informações prestadas pelos candidatos no registo da candidatura, contendo os seguintes elementos:\n\na) O número de registo da candidatura, atribuído automaticamente;\n\nb) A identificação de todos os elementos do agregado habitacional;\n\nc) A finalidade de arrendamento pretendida;\n\nd) As modalidades de alojamento pretendidas;\n\ne) A tipologia máxima admissível nos termos da alínea b) do n.º 1 do artigo 15.º do Decreto-Lei n.º 68/2019, de 22 de maio, quando se trate da modalidade «habitação»;\n\nf) O intervalo de preço de renda mensal admissível nos termos da alínea a) do n.º 1 do artigo 15.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\ng) A data de emissão e validade do certificado;\n\nh) Declaração a assinar por todos os candidatos, incluindo os previstos no artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio, que:\n\ni) Confirme expressamente a veracidade e atualidade das informações e dos documentos constantes no registo da candidatura, designadamente dos respeitantes à sua pessoa e aos dependentes a seu cargo;\n\nii) Autorize a entidade gestora a proceder ao tratamento dos dados pessoais próprios e dos respeitantes aos dependentes a seu cargo (menores e maiores acompanhados), para os fins estritamente necessários à gestão do registo da candidatura e à fiscalização do cumprimento dos deveres assumidos no âmbito do Programa de Arrendamento Acessível, incluindo a confirmação, junto das entidades emitentes dos documentos comprovativos apresentados, dos dados indicados nesses documentos e no registo da candidatura;\n\niii) Ateste ter sido informado de que pode retirar a autorização prevista na subalínea anterior, a todo o tempo, e que, nessa situação, deixa de poder beneficiar do Programa de Arrendamento Acessível.\n\n2 - Nos casos previstos no artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio, ou quando existam no agregado habitacional maiores que não possuam a condição de candidatos, o certificado de registo de candidatura deve também incluir declaração nos termos das subalíneas i) e ii) da alínea h) do número anterior, assinada pelo fiador ou pelos restantes membros maiores do agregado habitacional, consoante o caso, com as devidas adaptações.\n\n3 - Cada certificado de registo de candidatura é válido por sete dias corridos a contar da data da sua emissão, sem prejuízo da possibilidade de renovação do mesmo enquanto o registo de candidatura se mantiver eficaz.\n\n4 - O modelo de certificado de registo de candidatura é definido pelo IHRU, I. P."
+  },
+  "158043574": {
+   "fragment_id": "158052149",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicações e notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicações e notificações\n\nPara os efeitos previstos no artigo 25.º do Decreto-Lei n.º 68/2019, de 22 de maio:\n\na) A comunicação por correio eletrónico entre os prestadores, candidatos e a entidade gestora é realizada através da plataforma eletrónica para o efeito disponibilizada pelo IHRU, I. P.;\n\nb) A comunicação entre a entidade gestora e outras entidades públicas ou privadas intervenientes no Programa de Arrendamento Acessível pode, mediante protocolo, ser realizada através da plataforma eletrónica referida na alínea anterior."
+  },
+  "158145975": {
+   "fragment_id": "158052150",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor a 1 de julho de 2019."
+  },
+  "158145977": {
+   "fragment_id": "158052152",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\nValor máximo de rendimento anual para efeitos de elegibilidade dos agregados habitacionais\n\n(ver documento original)\n\n112357436"
+  },
+  "158145978": {
+   "fragment_id": "158052147",
+   "type": 11,
+   "heading": "Artigo 4.º — Elementos a apresentar para registo de candidatura",
+   "in_force_from": "2021-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 4.º — Elementos a apresentar para registo de candidatura\n\n1 - O registo de candidaturas no âmbito do Programa de Arrendamento Acessível é feito na respetiva plataforma eletrónica mediante a apresentação dos seguintes elementos:\n\na) Definição do âmbito da procura:\n\ni) Finalidade de arrendamento pretendida, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\nii) Modalidade de alojamento pretendida, nos termos do artigo 9.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\nb) Identificação completa dos elementos do agregado habitacional e dos seus rendimentos, designadamente, pela apresentação das seguintes informações:\n\ni) Identificação de todos os elementos do agregado habitacional, contendo para cada um deles o nome completo, a data de nascimento, o número e validade do bilhete de identidade, do cartão de cidadão ou da autorização de residência ou de permanência, o número de identificação fiscal (NIF) e o endereço de correio eletrónico adotado para efeito de comunicação no âmbito do Programa de Arrendamento Acessível;\n\nii) Indicação dos membros do agregado habitacional que possuem a condição de candidatos, distinguindo entre estes os que adquirem essa condição nos termos do artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\niii) Rendimentos de cada um dos candidatos relevantes para a determinação do rendimento anual do agregado habitacional, nos termos do artigo 14.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\niv) Nos casos previstos no artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio:\n\nQuantia mensal fixa destinada ao pagamento da renda a que se refere o n.º 2 do mesmo artigo;\n\nIdentificação do fiador, incluindo o nome completo, o número e validade do bilhete de identidade ou cartão de cidadão e o NIF;\n\nQuando a finalidade for «residência temporária de estudantes do ensino superior», concelho do domicílio fiscal dos candidatos à data da candidatura;\n\nc) Documentos:\n\ni) Nos casos previstos no artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio:\n\nComprovativo de inscrição, vigente no ano da candidatura, como aluno no ensino secundário ou num ciclo de estudos conferente de grau ou diploma de ensino superior, ou como formando num curso de formação profissional de dupla certificação desenvolvido no âmbito do sistema nacional de qualificações;\n\nDeclaração de fiança em conformidade com o disposto no n.º 2 do mesmo artigo;\n\nii) Documentos comprovativos dos rendimentos indicados na subalínea iii) da alínea anterior, designadamente:\n\nNo caso previsto no n.º 1 do artigo 14.º do Decreto-Lei n.º 68/2019, de 22 de maio, o comprovativo da última declaração do Imposto sobre o Rendimento das Pessoas Singulares cuja liquidação se encontre disponível;\n\nNo caso previsto na alínea a) do n.º 2 do artigo 14.º do Decreto-Lei n.º 68/2019, de 22 de maio, os documentos comprovativos dos rendimentos efetivamente auferidos no ano fiscal anterior à data de registo da candidatura;\n\nNo caso previsto na alínea b) do n.º 2 do artigo 14.º do Decreto-Lei n.º 68/2019, de 22 de maio, declaração justificativa da modificação relevante na fonte de rendimento regular ali prevista, acompanhada dos documentos comprovativos dos rendimentos efetivamente auferidos desde a data de ocorrência dessa modificação.\n\n2 - O modelo de formulário de inscrição é definido pelo Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+  },
+  "158145979": {
+   "fragment_id": "158052148",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificado de registo da candidatura",
+   "in_force_from": "2021-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 5.º — Certificado de registo da candidatura\n\n1 - O certificado de registo da candidatura, previsto no n.º 5 do artigo 16.º do Decreto-Lei n.º 68/2019, de 22 de maio, é emitido pela plataforma eletrónica do Programa de Arrendamento Acessível com base nas informações prestadas pelos candidatos no registo da candidatura, contendo os seguintes elementos:\n\na) O número de registo da candidatura, atribuído automaticamente;\n\nb) A identificação de todos os elementos do agregado habitacional;\n\nc) A finalidade de arrendamento pretendida;\n\nd) As modalidades de alojamento pretendidas;\n\ne) A tipologia máxima admissível nos termos da alínea b) do n.º 1 do artigo 15.º do Decreto-Lei n.º 68/2019, de 22 de maio, quando se trate da modalidade «habitação»;\n\nf) O intervalo de preço de renda mensal admissível nos termos da alínea a) do n.º 1 do artigo 15.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\ng) A data de emissão e validade do certificado;\n\nh) Declaração a assinar por todos os candidatos, incluindo os previstos no artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio, que:\n\ni) Confirme expressamente a veracidade e atualidade das informações e dos documentos constantes no registo da candidatura, designadamente dos respeitantes à sua pessoa e aos dependentes a seu cargo;\n\nii) Autorize a entidade gestora a proceder ao tratamento dos dados pessoais próprios e dos respeitantes aos dependentes a seu cargo (menores e maiores acompanhados), para os fins estritamente necessários à gestão do registo da candidatura e à fiscalização do cumprimento dos deveres assumidos no âmbito do Programa de Arrendamento Acessível, incluindo a confirmação, junto das entidades emitentes dos documentos comprovativos apresentados, dos dados indicados nesses documentos e no registo da candidatura;\n\niii) Ateste ter sido informado de que pode retirar a autorização prevista na subalínea anterior, a todo o tempo, e que, nessa situação, deixa de poder beneficiar do Programa de Arrendamento Acessível.\n\n2 - Nos casos previstos no artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio, ou quando existam no agregado habitacional maiores que não possuam a condição de candidatos, o certificado de registo de candidatura deve também incluir declaração nos termos das subalíneas i) e ii) da alínea h) do número anterior, assinada pelo fiador ou pelos restantes membros maiores do agregado habitacional, consoante o caso, com as devidas adaptações.\n\n3 - Cada certificado de registo de candidatura é válido por sete dias corridos a contar da data da sua emissão, sem prejuízo da possibilidade de renovação do mesmo enquanto o registo de candidatura se mantiver eficaz.\n\n4 - O modelo de certificado de registo de candidatura é definido pelo IHRU, I. P.\n\n5 - O registo de candidatura pode ser retificado, ainda que decorrido o prazo de validade previsto no n.º 3 do presente artigo, para correção de erros materiais, lapsos gramaticais, ortográficos, de mero cálculo ou de natureza análoga, desde que validada pelo IHRU, I. P., considerando-se o registo efetuado nos termos dos certificados emitidos, sem prejuízo de os efeitos da referida retificação se reportarem à data de emissão do certificado inicial.\n\n6 - A validação das retificações previstas no número anterior é notificada ao candidato e ao prestador.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+  },
+  "158145976": {
+   "fragment_id": "158052151",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 31 de maio de 2019. - A Secretária de Estado da Habitação, Ana Cláudia da Costa Pinho, em 28 de maio de 2019."
+  },
+  "853111396": {
+   "fragment_id": "158052144",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à regulamentação das disposições do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, relativas ao registo de candidatura ao Programa de Apoio ao Arrendamento, estabelecendo:\n\na) O valor máximo de rendimentos para efeitos de elegibilidade dos agregados habitacionais previsto no n.º 1 do artigo 12.º;\n\nb) A tipologia adequada dos alojamentos, em função da dimensão dos agregados habitacionais, prevista na alínea b) do n.º 1 do artigo 15.º;\n\nc) Os elementos de informação necessários ao registo de candidatura, nos termos do n.º 1 do artigo 16.º, incluindo os relativos às situações previstas no n.º 2 do artigo 6.º e no artigo 13.º;\n\nd) O conteúdo do certificado de registo de candidatura previsto no n.º 5 do artigo 16.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+  },
+  "853111397": {
+   "fragment_id": "158052145",
+   "type": 11,
+   "heading": "Artigo 2.º — Valor máximo de rendimentos",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 2.º — Valor máximo de rendimentos\n\nO valor máximo de rendimento anual para efeitos de elegibilidade dos agregados habitacionais no âmbito do Programa de Apoio ao Arrendamento é estabelecido, em função da composição de cada agregado habitacional, no quadro I anexo à presente portaria, que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+  },
+  "853111398": {
+   "fragment_id": "158052146",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologia adequada dos alojamentos",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 3.º — Tipologia adequada dos alojamentos\n\n1 - Para efeitos do acesso ao Programa de Apoio ao Arrendamento é considerada adequada à dimensão do agregado habitacional a habitação cuja tipologia respeite os limites estabelecidos no quadro II anexo à presente portaria, que dela faz parte integrante, sem prejuízo do disposto no número seguinte.\n\n2 - A tipologia da habitação pode ser superior à prevista no número anterior nos casos em que o preço da renda mensal cumpra os limites previstos para a tipologia adequada ao agregado habitacional.\n\n3 - Quando a disponibilização de um alojamento se processar na modalidade de 'parte de habitação', a ocupação mínima é de uma pessoa por quarto.\n\n4 - Para o efeito previsto no número anterior, os quartos devem cumprir as condições mínimas de segurança, salubridade e conforto aplicáveis nos termos da portaria prevista na alínea a) do artigo 8.º do Decreto-Lei n.º 68/2019, de 22 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+  },
+  "853111399": {
+   "fragment_id": "158052147",
+   "type": 11,
+   "heading": "Artigo 4.º — Elementos necessários ao registo de candidatura",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 4.º — Elementos necessários ao registo de candidatura\n\n1 - Para efeitos do registo de candidatura a alojamento no âmbito do Programa de Apoio ao Arrendamento na plataforma eletrónica, são necessários os seguintes elementos de informação:\n\na) Identificação completa de todos os elementos do agregado habitacional, nomeadamente, o nome completo, a data de nascimento, o número e validade do bilhete de identidade, do cartão de cidadão ou da autorização de residência ou de permanência, o número de identificação fiscal (NIF) e o endereço de correio eletrónico adotado para efeitos de comunicação no âmbito do referido Programa;\n\nb) Indicação dos elementos do agregado habitacional que possuem a condição de candidatos, distinguindo, entre estes, os que adquirem essa condição nos termos do artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\nc) Finalidade de arrendamento pretendida, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\nd) Modalidade de alojamento pretendida, nos termos do artigo 9.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\ne) Rendimentos de cada um dos candidatos relevantes para a determinação do rendimento anual, nos termos do artigo 14.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual.\n\n2 - Quando a finalidade de arrendamento pretendida for 'residência temporária para estudantes e formandos, bem como para formadores, técnicos especializados e pessoal docente e não docente de todos os níveis de educação ou formação escolar e profissional', nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, são necessários, adicionalmente, os seguintes elementos de informação:\n\na) Identificação do concelho do domicílio fiscal;\n\nb) Documentação que ateste a finalidade de residência temporária, designadamente:\n\ni) Comprovativo do vínculo laboral, vigente no ano da candidatura, no caso dos formadores, técnicos especializados e pessoal docente e não docente;\n\nii) Comprovativo de inscrição ou matrícula em qualquer nível de educação ou formação escolar e profissional, vigente no ano da candidatura, no caso dos estudantes ou formandos.\n\n3 - Quando o agregado habitacional for composto por estudantes ou formandos dependentes que pretendam adquirir a condição de candidatos, nos termos do artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, são necessários, ainda, os seguintes elementos de informação:\n\na) Identificação do fiador, incluindo o nome completo, o número e validade do bilhete de identidade ou cartão de cidadão e o NIF;\n\nb) Quantia mensal fixa destinada ao pagamento da renda;\n\nc) Declaração de fiança.\n\n4 - Os elementos de informação previstos nos números anteriores são facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n5 - O candidato fica dispensado de facultar os elementos de informação previstos nos n.os 1 a 3 sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das áreas das finanças e da segurança social e com as demais entidades públicas competentes na matéria.\n\n6 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das áreas das finanças e da segurança social e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n7 - Caso o candidato detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das áreas das finanças e da segurança social e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas.\n\n8 - O modelo de formulário de registo de candidatura é definido pelo IHRU, I. P., e deve prever:\n\na) Confirmação expressa, por parte dos candidatos, da veracidade e atualidade dos elementos de informação previstos nos n.os 1 a 3;\n\nb) Autorização dos candidatos à entidade gestora para confirmar, junto das entidades emitentes dos documentos comprovativos apresentados, os dados indicados nesses documentos e no registo da candidatura respeitantes aos próprios ou aos dependentes a seu cargo (menores e maiores acompanhados).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+  },
+  "853111400": {
+   "fragment_id": "158052148",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificado de registo de candidatura",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 5.º — Certificado de registo de candidatura\n\n1 - O certificado de registo de candidatura, previsto no n.º 5 do artigo 16.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, é emitido pela plataforma eletrónica, com base nos elementos de informação previstos no artigo anterior, contendo o seguinte:\n\na) O número de registo da candidatura, atribuído automaticamente;\n\nb) A identificação de todos os elementos do agregado habitacional;\n\nc) A finalidade de arrendamento pretendida;\n\nd) A modalidade de alojamento pretendida;\n\ne) A tipologia adequada apurada nos termos do artigo 3.º, quando se trate da modalidade 'habitação';\n\nf) O preço máximo de renda mensal admissível nos termos da alínea a) do n.º 1 do artigo 15.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\ng) A data de emissão e validade do certificado;\n\nh) (Revogada.)\n\n2 - (Revogado.)\n\n3 - Cada certificado de registo de candidatura é válido por sete dias corridos a contar da data da sua emissão, sem prejuízo da possibilidade de renovação do mesmo enquanto o registo de candidatura se mantiver eficaz.\n\n3 - Cada certificado de registo de candidatura é válido por 120 dias corridos a contar da data da sua emissão, sem prejuízo do disposto nos números seguintes.\n\n4 - No decurso do prazo previsto no número anterior, o registo de candidatura pode ser alterado por iniciativa do candidato, sendo emitido novo certificado, sempre que se alterem quaisquer dos elementos previstos no n.º 1.\n\n5 - O certificado de registo de candidatura pode ser renovado por iniciativa do candidato, mantendo-se o respetivo número de registo, nos casos em que não se verifiquem quaisquer alterações aos elementos previstos no n.º 1, ou sendo emitido um novo certificado, nos casos em que esses elementos se alterem.\n\n6  - O modelo de certificado de registo de candidatura é definido pelo IHRU, I. P.\n\n7 - A documentação relativa aos candidatos é destruída quando a sua restituição não seja solicitada no prazo máximo de um ano após a caducidade do certificado de registo de candidatura.\n\n8 - Em caso de impugnação jurisdicional, a documentação relativa aos candidatos só pode ser destruída ou restituída após a execução de decisão jurisdicional não suscetível de recurso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+  },
+  "853111401": {
+   "fragment_id": "158052149",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicações e notificações",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 6.º — Comunicações e notificações\n\nPara os efeitos previstos no artigo 25.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual:\n\na) A comunicação por correio eletrónico entre os prestadores, candidatos e a entidade gestora é realizada através da plataforma eletrónica para o efeito disponibilizada pelo IHRU, I. P.;\n\nb) A comunicação entre a entidade gestora e outras entidades públicas ou privadas intervenientes no Programa de Apoio ao Arrendamento pode, mediante protocolo, ser realizada através da plataforma eletrónica referida na alínea anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+  },
+  "853111447": {
+   "fragment_id": "158052152",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\nQUADRO I\n\n(a que se refere o artigo 2.º)\n\nValor máximo de rendimento anual para efeitos de elegibilidade dos agregados habitacionais\n\n| Número de pessoas<br>do agregado | Rendimento anual bruto máximo |\n| --- | --- |\n|  |  |\n| 1 pessoa... | Até ao limite do 6.º escalão do IRS ou, se inferior, até 38 632,00 (euro). |\n| 2 pessoas... | Até ao limite do 6.º escalão do IRS ou, se inferior, até 38 632,00 (euro) + 10 000,00 (euro). |\n| + de 2 pessoas... | Até ao limite do sexto escalão do IRS ou, se inferior, até 38 632,00 (euro) + 10 000,00 (euro) + 5000,00 (euro) por cada pessoa adicional. |\n\nQUADRO II\n\n(a que se refere o n.º 1 do artigo 3.º)\n\nTipologia adequada à dimensão dos agregados habitacionais\n\n| Número de pessoas | Tipologia<br>da habitação |\n| --- | --- |\n|  |  |\n| 1 a 2... | Até T2 |\n| 3... | Até T3 |\n| 4... | Até T4 |\n| 5... | Até T5 |\n| 6... | Até T6 |\n| (igual ou maior que)7... | (igual ou maior que)T4 |\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+  },
+  "1180102475": {
+   "fragment_id": "158052143",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+   ],
+   "markdown": "Nos termos previstos na alínea c) do artigo 28.º do Decreto-Lei n.º 68/2019, de 22 de maio, o Governo deve, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da habitação, proceder à regulamentação das disposições relativas ao registo de candidatura ao Programa de Arrendamento Acessível, definindo o valor máximo de rendimentos para efeitos de elegibilidade dos agregados habitacionais, a informação e os elementos instrutórios a apresentar, incluindo os documentos demonstrativos das situações previstas no n.º 2 do artigo 6.º e no artigo 13.º, a ocupação mínima dos alojamentos e o conteúdo do certificado de registo de candidatura, previstos no n.º 1 do artigo 12.º, na alínea b) do n.º 1 do artigo 15.º e nos n.os 1 e 5 do artigo 16.º do referido decreto-lei.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 12.º, na alínea b) do n.º 1 do artigo 15.º e nos n.os 1 e 5 do artigo 16.º do Decreto-Lei n.º 68/2019, de 22 de maio, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, no uso de competências delegadas pelo Despacho n.º 9005/2017, publicado no Diário da República, 2.ª série, n.º 197, de 12 de outubro, e pela Secretária de Estado da Habitação, no uso de competências delegadas pelo Despacho n.º 3396/2019, de 21 de março, publicado no Diário da República, 2.ª série, n.º 61, de 27 de março, o seguinte:\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+  },
+  "1180102675": {
+   "fragment_id": "158052144",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à regulamentação das disposições do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, relativas ao registo de candidatura ao Programa de Apoio ao Arrendamento, estabelecendo:\n\na) O valor máximo de rendimentos para efeitos de elegibilidade dos agregados habitacionais previsto no n.º 1 do artigo 12.º;\n\nb) A tipologia adequada dos alojamentos, em função da dimensão dos agregados habitacionais, prevista na alínea b) do n.º 1 do artigo 15.º;\n\nc) Os elementos de informação necessários ao registo de candidatura, nos termos do n.º 1 do artigo 16.º, incluindo os relativos às situações previstas no n.º 2 do artigo 6.º e no artigo 13.º;\n\nd) O conteúdo do certificado de registo de candidatura previsto no n.º 5 do artigo 16.º\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+  },
+  "1180102775": {
+   "fragment_id": "158052145",
+   "type": 11,
+   "heading": "Artigo 2.º — Valor máximo de rendimentos",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 2.º — Valor máximo de rendimentos\n\nO valor máximo de rendimento anual para efeitos de elegibilidade dos agregados habitacionais no âmbito do Programa de Apoio ao Arrendamento é estabelecido, em função da composição de cada agregado habitacional, no quadro I anexo à presente portaria, que dela faz parte integrante.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+  },
+  "1180102875": {
+   "fragment_id": "158052146",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologia adequada dos alojamentos",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 3.º — Tipologia adequada dos alojamentos\n\n1 - Para efeitos do acesso ao Programa de Apoio ao Arrendamento é considerada adequada à dimensão do agregado habitacional a habitação cuja tipologia respeite os limites estabelecidos no quadro II anexo à presente portaria, que dela faz parte integrante, sem prejuízo do disposto no número seguinte.\n\n2 - A tipologia da habitação pode ser superior à prevista no número anterior nos casos em que o preço da renda mensal cumpra os limites previstos para a tipologia adequada ao agregado habitacional.\n\n3 - Quando a disponibilização de um alojamento se processar na modalidade de 'parte de habitação', a ocupação mínima é de uma pessoa por quarto.\n\n4 - Para o efeito previsto no número anterior, os quartos devem cumprir as condições mínimas de segurança, salubridade e conforto aplicáveis nos termos da portaria prevista na alínea a) do artigo 8.º do Decreto-Lei n.º 68/2019, de 22 de maio.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+  },
+  "1180102975": {
+   "fragment_id": "158052147",
+   "type": 11,
+   "heading": "Artigo 4.º — Elementos necessários ao registo de candidatura",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 4.º — Elementos necessários ao registo de candidatura\n\n1 - Para efeitos do registo de candidatura a alojamento no âmbito do Programa de Apoio ao Arrendamento na plataforma eletrónica, são necessários os seguintes elementos de informação:\n\na) Identificação completa de todos os elementos do agregado habitacional, nomeadamente, o nome completo, a data de nascimento, o número e validade do bilhete de identidade, do cartão de cidadão ou da autorização de residência ou de permanência, o número de identificação fiscal (NIF) e o endereço de correio eletrónico adotado para efeitos de comunicação no âmbito do referido Programa;\n\nb) Indicação dos elementos do agregado habitacional que possuem a condição de candidatos, distinguindo, entre estes, os que adquirem essa condição nos termos do artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\nc) Finalidade de arrendamento pretendida, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\nd) Modalidade de alojamento pretendida, nos termos do artigo 9.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\ne) Rendimentos de cada um dos candidatos relevantes para a determinação do rendimento anual, nos termos do artigo 14.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual.\n\n2 - Quando a finalidade de arrendamento pretendida for 'residência temporária para estudantes e formandos, bem como para formadores, técnicos especializados e pessoal docente e não docente de todos os níveis de educação ou formação escolar e profissional', nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, são necessários, adicionalmente, os seguintes elementos de informação:\n\na) Identificação do concelho do domicílio fiscal;\n\nb) Documentação que ateste a finalidade de residência temporária, designadamente:\n\ni) Comprovativo do vínculo laboral, vigente no ano da candidatura, no caso dos formadores, técnicos especializados e pessoal docente e não docente;\n\nii) Comprovativo de inscrição ou matrícula em qualquer nível de educação ou formação escolar e profissional, vigente no ano da candidatura, no caso dos estudantes ou formandos.\n\n3 - Quando o agregado habitacional for composto por estudantes ou formandos dependentes que pretendam adquirir a condição de candidatos, nos termos do artigo 13.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, são necessários, ainda, os seguintes elementos de informação:\n\na) Identificação do fiador, incluindo o nome completo, o número e validade do bilhete de identidade ou cartão de cidadão e o NIF;\n\nb) Quantia mensal fixa destinada ao pagamento da renda;\n\nc) Declaração de fiança.\n\n4 - Os elementos de informação previstos nos números anteriores são facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n5 - O candidato fica dispensado de facultar os elementos de informação previstos nos n.os 1 a 3 sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das áreas das finanças e da segurança social e com as demais entidades públicas competentes na matéria.\n\n6 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das áreas das finanças e da segurança social e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n7 - Caso o candidato detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das áreas das finanças e da segurança social e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas.\n\n8 - O modelo de formulário de registo de candidatura é definido pelo IHRU, I. P., e deve prever:\n\na) Confirmação expressa, por parte dos candidatos, da veracidade e atualidade dos elementos de informação previstos nos n.os 1 a 3;\n\nb) Autorização dos candidatos à entidade gestora para confirmar, junto das entidades emitentes dos documentos comprovativos apresentados, os dados indicados nesses documentos e no registo da candidatura respeitantes aos próprios ou aos dependentes a seu cargo (menores e maiores acompanhados).\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+  },
+  "1180103075": {
+   "fragment_id": "158052148",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificado de registo de candidatura",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 5.º — Certificado de registo de candidatura\n\n1 - O certificado de registo de candidatura, previsto no n.º 5 do artigo 16.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, é emitido pela plataforma eletrónica, com base nos elementos de informação previstos no artigo anterior, contendo o seguinte:\n\na) O número de registo da candidatura, atribuído automaticamente;\n\nb) A identificação de todos os elementos do agregado habitacional;\n\nc) A finalidade de arrendamento pretendida;\n\nd) A modalidade de alojamento pretendida;\n\ne) A tipologia adequada apurada nos termos do artigo 3.º, quando se trate da modalidade 'habitação';\n\nf) O preço máximo de renda mensal admissível nos termos da alínea a) do n.º 1 do artigo 15.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\ng) A data de emissão e validade do certificado;\n\nh) (Revogada.)\n\n2 - (Revogado.)\n\n3 - Cada certificado de registo de candidatura é válido por sete dias corridos a contar da data da sua emissão, sem prejuízo da possibilidade de renovação do mesmo enquanto o registo de candidatura se mantiver eficaz.\n\n3 - Cada certificado de registo de candidatura é válido por 120 dias corridos a contar da data da sua emissão, sem prejuízo do disposto nos números seguintes.\n\n4 - No decurso do prazo previsto no número anterior, o registo de candidatura pode ser alterado por iniciativa do candidato, sendo emitido novo certificado, sempre que se alterem quaisquer dos elementos previstos no n.º 1.\n\n5 - O certificado de registo de candidatura pode ser renovado por iniciativa do candidato, mantendo-se o respetivo número de registo, nos casos em que não se verifiquem quaisquer alterações aos elementos previstos no n.º 1, ou sendo emitido um novo certificado, nos casos em que esses elementos se alterem.\n\n6  - O modelo de certificado de registo de candidatura é definido pelo IHRU, I. P.\n\n7 - A documentação relativa aos candidatos é destruída quando a sua restituição não seja solicitada no prazo máximo de um ano após a caducidade do certificado de registo de candidatura.\n\n8 - Em caso de impugnação jurisdicional, a documentação relativa aos candidatos só pode ser destruída ou restituída após a execução de decisão jurisdicional não suscetível de recurso.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/40-2021-158052100), em vigor a partir de 2021-02-23"
+  },
+  "1180103175": {
+   "fragment_id": "158052149",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicações e notificações",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 6.º — Comunicações e notificações\n\nPara os efeitos previstos no artigo 25.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual:\n\na) A comunicação por correio eletrónico entre os prestadores, candidatos e a entidade gestora é realizada através da plataforma eletrónica para o efeito disponibilizada pelo IHRU, I. P.;\n\nb) A comunicação entre a entidade gestora e outras entidades públicas ou privadas intervenientes no Programa de Apoio ao Arrendamento pode, mediante protocolo, ser realizada através da plataforma eletrónica referida na alínea anterior.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+  },
+  "1180103275": {
+   "fragment_id": "158052150",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+   ],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor a 1 de julho de 2019.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+  },
+  "1180103375": {
+   "fragment_id": "158052151",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+   ],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 31 de maio de 2019. - A Secretária de Estado da Habitação, Ana Cláudia da Costa Pinho, em 28 de maio de 2019.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+  },
+  "1180103475": {
+   "fragment_id": "158052152",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Anexo do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\nQUADRO I\n\n(a que se refere o artigo 2.º)\n\nValor máximo de rendimento anual para efeitos de elegibilidade dos agregados habitacionais\n\n| Número de pessoas<br>do agregado | Rendimento anual bruto máximo |\n| --- | --- |\n|  |  |\n| 1 pessoa... | Até ao limite do 6.º escalão do IRS ou, se inferior, até 38 632,00 (euro). |\n| 2 pessoas... | Até ao limite do 6.º escalão do IRS ou, se inferior, até 38 632,00 (euro) + 10 000,00 (euro). |\n| + de 2 pessoas... | Até ao limite do sexto escalão do IRS ou, se inferior, até 38 632,00 (euro) + 10 000,00 (euro) + 5000,00 (euro) por cada pessoa adicional. |\n\nQUADRO II\n\n(a que se refere o n.º 1 do artigo 3.º)\n\nTipologia adequada à dimensão dos agregados habitacionais\n\n| Número de pessoas | Tipologia<br>da habitação |\n| --- | --- |\n|  |  |\n| 1 a 2... | Até T2 |\n| 3... | Até T3 |\n| 4... | Até T4 |\n| 5... | Até T5 |\n| 6... | Até T6 |\n| (igual ou maior que)7... | (igual ou maior que)T4 |\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 52/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/52-2024-852994096), em vigor a partir de 2024-02-20"
+  }
+ }
+}

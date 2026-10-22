@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:231769:por
+title: Despacho Normativo n.º 571/94
+short_title: null
+summary: Fixa o limite máximo da intervenção das sociedades de capital de risco
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 571/94
+official_date: null
+publication_date: '1994-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 174/1994, Série I-B de 1994-07-29
+  number: '174'
+  series: I
+  supplement: null
+  pages: 4294 - 4294
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/07/174b00/42944294.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/571/1994/07/29/p/dre/pt/html
+  oj: null
+  dre: '231769'
+  dre_path: /dr/detalhe/despacho-normativo/571-1994-231769
+  internal: pt:dre:231769:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/571-1994-231769
+  metadata_url: https://data.dre.pt/eli/despnorm/571/1994/07/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/571-1994-231769
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-05-12T00:00:00Z'
+integrity:
+  source_sha256: 5484a9f8a046169177655c5fe6e48c685e281f01112a02b00694a92773281483
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-571-231769.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Desenvolvimento Industrial
+- Política Industrial
+- Indústria
+- Investimento
+- Modernização Industrial
+- Regime de Apoio
+- Regime de Apoio à Dinamização do Capital de Risco
+- Pedip II
+- Sociedade de Capital de Risco
+relationships:
+- type: amended_by
+  target: pt:dre:475098:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/563/1994/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/563/1994/07/29/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 571/94
+
+(IIDE050102)
+
+O [Despacho Normativo n.º 563/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/563-1994-231884) (IIDE0501), que regulamenta o Regime de Apoio à Dinamização do Capital de Risco, estabelece no n.º 3 do seu artigo 8.º a competência do Ministro da Indústria e Energia para a definição dos limites de intervenção das sociedades de capital de risco em resultado das acções definidas no diploma.
+
+Nestes termos, ao abrigo do disposto no n.º 3 do artigo 8.º do [Despacho Normativo n.º 563/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/563-1994-231884) (IIDE0501), determina-se o seguinte:
+
+1 - O limite máximo da intervenção das sociedades de capital de risco, em resultado das acções referidas no n.º 1 do artigo 8.º do Regime de Apoio à Dinamização do Capital de Risco, não poderá ultrapassar um terço do capital das empresas participadas.
+
+2 - Os investimentos superiores a 50000 contos, sempre que promovidos por sociedades de capital de risco que não sejam maioritariamente privadas, devem ser efectuados em consórcio.
+
+Ministério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indútria e Energia, Luís Fernando Mira Amaral.

@@ -1,0 +1,514 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:547637:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-164343508",
+ "dre_path": "/dr/detalhe/decreto-lei/316-1989-547637",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1989-09-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164454755",
+    "164233474",
+    "164454675",
+    "164454676",
+    "164454677",
+    "164454678",
+    "164454679",
+    "164454680",
+    "164454681",
+    "164454682",
+    "164454683",
+    "164454684",
+    "164454685",
+    "164454686",
+    "164454687",
+    "164454688",
+    "164454689",
+    "164454690",
+    "164454691",
+    "164454692"
+   ]
+  },
+  {
+   "date": "1990-06-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:575116:por",
+     "title": "Decreto-Lei n.º 196/90",
+     "published": "1990-06-18",
+     "dre_path": "/dr/detalhe/decreto-lei/196-1990-575116"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "164233473",
+    "164233474",
+    "164454675",
+    "164454676",
+    "164454677",
+    "164454678",
+    "164454679",
+    "164454680",
+    "164454681",
+    "164454682",
+    "164454683",
+    "164454684",
+    "164454685",
+    "164454686",
+    "164454698",
+    "164454699",
+    "164454689",
+    "164454690",
+    "164454691",
+    "164454692",
+    "164454693"
+   ]
+  },
+  {
+   "date": "2021-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164258742:por",
+     "title": "Decreto-Lei n.º 38/2021",
+     "published": "2021-05-31",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2021-164258742"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "164454755",
+    "164454756",
+    "164454757",
+    "164454758",
+    "164454759",
+    "164454760",
+    "164454761",
+    "164454762",
+    "164454763",
+    "164454764",
+    "164454765",
+    "164454766",
+    "164454767",
+    "164454768",
+    "164454769",
+    "164454770",
+    "164454771",
+    "164454772",
+    "164454773",
+    "164454774",
+    "164478275"
+   ]
+  }
+ ],
+ "fragments": {
+  "164454755": {
+   "fragment_id": "164343509",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-06-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 316/89\n\nde 22 de Setembro\n\nA 19 de Setembro de 1979 foi assinada por países membros do Conselho da Europa a Convenção Relativa à Conservação da Vida Selvagem e dos Habitats Naturais da Europa (Convenção de Berna).\n\nPortugal, pelo Decreto n.º 95/81, de 23 de Julho, ratificou aquela Convenção.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "164233474": {
+   "fragment_id": "164343510",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos do presente diploma, entende-se por:\n\na) Convenção - a Convenção Relativa à Protecção da Vida Selvagem e do Ambiente Natural na Europa, aprovada, para ratificação, pelo Decreto n.º 95/81, de 23 de Julho;\n\nb) Anexo I - anexo da Convenção que inclui o elenco das espécies da flora que são estritamente protegidas;\n\nc) Anexo II - anexo da Convenção que inclui o elenco das espécies da fauna estritamente protegidas;\n\nd) Anexo III - anexo da Convenção que inclui o elenco das espécies protegidas da fauna;\n\ne) Anexo IV - anexo da Convenção que inclui o elenco dos meios e métodos de caça e outras formas interditas de exploração;\n\nf) SNPRCN - Serviço Nacional de Parques, Reservas e Conservação da Natureza;\n\ng) Comité permanente - comissão criada nos termos do capítulo VI da Convenção de Berna com vista à realização das finalidades da Convenção;\n\nh) Comissões de peritos - grupos de especialistas dos países membros do Conselho da Europa, ou das Partes Contratantes, por este convocados para a discussão e tratamento de diferentes assuntos;\n\ni) Comissão nacional - comissão que integra representantes designados pelo Serviço Nacional de Parques, Reservas e Conservação da Natureza, pela Direcção-Geral de Ordenamento do Território, pela Direcção-Geral das Florestas e ainda pelas Regiões Autónomas dos Açores e da Madeira, constituída nos termos e para os efeitos do artigo 6.º do presente diploma."
+  },
+  "164454675": {
+   "fragment_id": "164343511",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Com vista à protecção das espécies da flora inscritas no anexo I da Convenção, e salvo licença, a emitir nos termos do artigo 8.º, são proibidas:\n\na) A sua colheita, apanha, corte ou arranque intencionais;\n\nb) A sua venda, detenção para venda, oferta e transporte para venda e exposição com fins comerciais;\n\nc) A deterioração intencional dos respectivos habitats.\n\n2 - O disposto no número anterior não se aplica quando:\n\na) As plantas tenham sido cultivadas;\n\nb) As plantas tenham sido retiradas do seu meio natural antes da inscrição da respectiva espécie nos anexos da Convenção;\n\nc) As plantas tenham sido introduzidas no nosso território de acordo com as normas relativas à protecção da respectiva espécie."
+  },
+  "164454676": {
+   "fragment_id": "164343512",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO regime de introdução de espécies exóticas da flora no território nacional será fixado por portaria conjunta dos Ministros do Planeamento e da Administração do Território e da Agricultura, Pescas e Alimentação."
+  },
+  "164454677": {
+   "fragment_id": "164343513",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Com vista à protecção das espécies da fauna inscritas no anexo II da Convenção, e salvo licença, a emitir nos termos do artigo 8.º, são proibidas:\n\na) A sua captura, detenção e abate intencionais;\n\nb) A deterioração ou destruição intencional dos respectivos habitats;\n\nc) A sua venda, detenção para venda, oferta e transporte para venda e exposição com fins comerciais;\n\nd) A sua perturbação intencional, designadamente durante o período de reprodução, de dependência e de hibernação;\n\ne) A destruição ou a apanha intencionais de ovos do meio natural, mesmo vazios.\n\n2 - O disposto no número anterior não se aplica quando:\n\na) Os animais tenham nascido e sido criados em cativeiro;\n\nb) Os animais tenham sido capturados no seu meio natural antes da inscrição da respectiva espécie nos anexos da Convenção;\n\nc) Os animais tenham entrado no nosso território de acordo com as normas relativas à protecção da respectiva espécie."
+  },
+  "164454678": {
+   "fragment_id": "164343514",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - São proibidas, salvo licença, a emitir nos termos do artigo 8.º, as actividades de captura, detenção e abate intencionais das espécies de fauna inscritas no anexo III da Convenção.\n\n2 - As actividades de venda, detenção, transporte e oferta para venda de animais vivos ou mortos das espécies a que se refere o número anterior serão reguladas por portaria conjunta dos Ministros do Planeamento e da Administração do Território e da Agricultura, Pescas e Alimentação."
+  },
+  "164454679": {
+   "fragment_id": "164343515",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Com vista à protecção dos habitats das espécies da flora e da fauna mencionadas nos anexos I e II da Convenção e dos habitats naturais ameaçados é instituída uma comissão nacional para aplicação da Convenção de Berna, integrando representantes designados pelo Serviço Nacional de Parques, Reservas e Conservação da Natureza, pela Direcção-Geral de Ordenamento do Território, pela Direcção-Geral das Florestas e ainda pelas Regiões Autónomas dos Açores e da Madeira.\n\n2 - Compete à comissão nacional propor ao Governo a adopção das medidas tendentes à protecção das áreas previstas no número anterior, nomeadamente:\n\na) Protecção das zonas que sejam importantes para as espécies migradoras enumeradas nos anexos II e III da Convenção e se situem de modo adequado relativamente às vias de migração, tais como as áreas de invernada, de reunião, de alimentação, de reprodução ou de muda;\n\nb) Protecção de habitats transfronteiros no sentido do estabelecimento de critérios uniformes na protecção da totalidade da zona abrangida.\n\n3 - As entidades competentes para autorizar ou licenciar a instalação de industrias ou de outras actividades devem pedir parecer à comissão referida nos números anteriores sempre que as instalações em causa, em virtude das emissões de ruído ou de rejeição de efluentes, sejam susceptíveis de provocarem a deterioração dos habitats das espécies constantes dos anexos II e III da Convenção."
+  },
+  "164454680": {
+   "fragment_id": "164343516",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nÉ proibida a utilização dos seguintes meios, métodos e equipamentos para perseguir, capturar ou matar espécies da fauna selvagem protegida pela Convenção:\n\na) Laços, viscos, anzóis, gases ou fumos;\n\nb) Explosivos;\n\nc) Animais vivos, cegos ou mutilados como chamariz;\n\nd) Gravadores;\n\ne) Aparelhos eléctricos capazes de matar ou atordoar;\n\nf) Luzes artificiais;\n\ng) Espelhos ou outros objectos susceptíveis de causarem encandeamento;\n\nh) Dispositivos de mira munidos de amplificadores de imagem ou de transformadores;\n\ni) Veneno e isco envenenado ou anestesiante;\n\nj) Dispositivos para iluminar os alvos;\n\nl) Armas semiautomáticas ou automáticas cujo carregador comporte mais de dois cartuchos;\n\nm) Aviões;\n\nn) Veículos automóveis em movimento;\n\no) Redes e armadilhas, quando utilizadas para a captura ou abate indiscriminado ou em massa."
+  },
+  "164454681": {
+   "fragment_id": "164343517",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1 - Mediante licença do SNPRCN, homologada pelo membro do Governo responsável pela área do ambiente, podem ser excepcionalmente permitidos os actos ou actividades proibidos pelos artigos 2.º, 4.º e 5.º ou a utilização dos meios proibidos no artigo 7.º, desde que não exista alternativa satisfatória e se verifique algum dos seguintes pressupostos:\n\na) Especial exigência na protecção da flora e da fauna;\n\nb) Necessidade de prevenção de danos importantes nas culturas, nas florestas, nas águas, na caça, nas pescas e no gado;\n\nc) Especial interesse na defesa da saúde pública, da segurança da população e da segurança aérea ou de outros interesses públicos prioritários;\n\nd) Necessidade de viabilizar a prossecução de fins de investigação e de educação, de repovoamento, de reintrodução ou de criação artificial das espécies da flora e da fauna.\n\n2 - A licença referida no número anterior será titulada por documento a fornecer pelos serviços, do qual constarão:\n\na) Referência à espécie ou espécies afectadas;\n\nb) Indicação do período de duração da licença, o qual não poderá ser superior a um ano;\n\nc) Área abrangida pela autorização;\n\nd) Número de indivíduos de cada espécie que será permitido recolher ou capturar ao abrigo da autorização concedida, sempre que tal indicação seja possível;\n\ne) Métodos e meios de equipamento que se podem utilizar na captura ou recolha;\n\nf) Outras indicações ou limites que julgue necessários.\n\n3 - Os destinatários das licenças deverão exibir o documento que as titula sempre que os funcionários do SNPRCN ou demais agentes da autoridade o solicitem.\n\n4 - Os beneficiários das licenças deverão informar o SNPRCN dos contingentes de espécies efectivamente recolhidas ou capturadas ao abrigo da licença emitida.\n\n5 - São nulas as licenças obtidas mediante falsas declarações.\n\n6 - Compete especialmente aos funcionários e agentes do SNPRCN, à Direcção-Geral das Florestas, à Guarda Nacional Republicana e demais autoridades policiais fiscalizar as actividades realizadas ao abrigo das licenças concedidas nos termos do presente artigo."
+  },
+  "164454682": {
+   "fragment_id": "164343518",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - Os organismos ou indivíduos que se dediquem à investigação e pretendam beneficiar de uma licença ao abrigo do disposto no artigo 8.º do presente diploma deverão, para o efeito, dirigir um requerimento ao SNPRCN, instruído dos seguintes elementos:\n\na) Prova da sua qualidade de investigador;\n\nb) Justificação da necessidade de utilização do método ou métodos.\n\n2 - Os organismos competentes deverão informar o SNPRCN, juntando os documentos comprovativos pertinentes, quando, por motivos de saúde pública e segurança das populações, se torne necessária a utilização dos meios, métodos e equipamentos referidos no artigo 7.º deste diploma ou a destruição de espécies constantes dos anexos I II e III da Convenção."
+  },
+  "164454683": {
+   "fragment_id": "164343519",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n- 1 - Compete ao SNPRCN assegurar as funções administrativas e científicas necessárias à aplicação da Convenção e do presente diploma.\n\n2 - O SNPRCN poderá consultar outros organismos, instituições ou especialistas quando a especificidade das matérias sobre as quais se deva pronunciar o justifique."
+  },
+  "164454684": {
+   "fragment_id": "164343520",
+   "type": 11,
+   "heading": "Artigo 11.º — :",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — :\n\nPara efeitos da aplicação da Convenção e do presente diploma, compete ao SNPRCN\n\na) Incrementar, promover e coordenar trabalhos de investigação no âmbito da Convenção;\n\nb) Promover a reintrodução de espécies indígenas extintas em território nacional, sempre que tal medida se mostre apta a contribuir para o enriquecimento e conservação de ecossistemas;\n\nc) Promover o alargamento da área de distribuição das espécies indígenas da flora e da fauna selvagens, sempre que tal medida se mostre apta a contribuir para a conservação de espécies raras ameaçadas ou vulneráveis;\n\nd) Submeter à aprovação do membro do Governo responsável pela área do ambiente as licenças previstas no artigo 8.º;\n\ne) Fiscalizar o cumprimento da Convenção e do presente diploma;\n\nf) Verificar a regularidade do registo referido na alínea b) do artigo 13.º;\n\ng) Divulgar os objectivos e princípios consagrados na Convenção."
+  },
+  "164454685": {
+   "fragment_id": "164343521",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n- 1 - Compete a comissão nacional propor ao Governo a adopção das medidas tendentes a:\n\na) Contribuir para a conjugação das actividades inerentes às matérias objecto da Convenção;\n\nb) Propor alterações aos anexos da Convenção;\n\nc) Propor o levantamento de reservas formuladas ao abrigo dos n.os 1 e 2 do artigo 22.º da Convenção;\n\nd) Propor o relatório a que se refere o n.º 2 do artigo 9.º da Convenção;\n\ne) Estabelecer um cadastro nacional de habitats protegidos a tomar em conta nos planos de ordenamento e desenvolvimento do território.\n\n2 - Os membros da delegação portuguesa a que se refere o artigo 13.º da Convenção são designados por despacho conjunto dos Ministros do Planeamento e da Administração do Território e da Agricultura, Pescas e Alimentação, preferencialmente de entre os membros da comissão criada pelo artigo 6.º"
+  },
+  "164454686": {
+   "fragment_id": "164343522",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs viveiristas, criadores e taxidermistas de espécies constantes dos anexos I, II e III da Convenção ficam obrigados a:\n\na) No espaço de 150 dias a contar da data da publicação do presente diploma, enviar ao SNPRCN as listas das espécies da flora e da fauna que detenham naquela data;\n\nb) Organizar e manter actualizado um registo das espécies e espécimes que detêm e exibi-lo sempre que tal lhes for solicitado pelo SNPRCN."
+  },
+  "164454687": {
+   "fragment_id": "164343523",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n- 1 - As infecções ao disposto no presente diploma constituem contra-ordenações puníveis, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, com coima:\n\na) De 50000$00 a 200000$00, a violação da proibição estabelecida no n.º 1 do artigo 2.º e no n.º 1 do artigo 4.º;\n\nb) De 25000$00 a 150000$00, a violação do estabelecido no artigo 5.º;\n\nc) De 5000$00 a 150000$00, a violação da proibição estabelecida no artigo 7.º;\n\nd) De 5000$00 a 100000$00, a falta de envio das listas referidas na alínea a) do artigo 13.º e falta de registo actualizado, nos termos da alínea b) do mesmo artigo;\n\ne) De 25000$00 a 200000$00, a violação de conteúdo e limites da licença concedida nos termos do artigo 8.º\n\n2 - Quando, no caso das infecções previstas nas alíneas a), b) e c) do número anterior e em caso de dolo, as coimas forem aplicadas a pessoas colectivas, o seu montante poderá multiplicar-se até um máximo de quinze vezes.\n\n3 - A tentativa e a negligência são sempre puníveis."
+  },
+  "164454688": {
+   "fragment_id": "164343524",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nCumulativamente com as coimas previstas no artigo anterior, e nos termos da legislação aplicável, poderão ser aplicadas, como sanções acessórias:\n\na) A interdição do exercício da profissão ou da actividade, até um máximo de dois anos;\n\nb) A apreensão das espécies que estejam na origem da infecção, bem como do equipamento utilizado para a sua captura, que serão perdidos a favor do Estado."
+  },
+  "164454689": {
+   "fragment_id": "164343525",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n- 1 - As funções de fiscalização, para efeitos deste diploma, competem especialmente aos funcionários e agentes do SNPRCN, da Direcção-Geral das Florestas, da Guarda Nacional Republicana e demais autoridades policiais.\n\n2 - Compete ao SNPRCN o processamento das contra-ordenações e aplicação das sanções previstas nos artigos 14.º e 15.º deste diploma."
+  },
+  "164454690": {
+   "fragment_id": "164343526",
+   "type": 11,
+   "heading": "Artigo 17.º — :",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — :\n\nA receita das coimas previstas no artigo 14.º será assim distribuída\n\na) 60% para a entidade fiscalizadora;\n\nb) 40% para o Estado."
+  },
+  "164454691": {
+   "fragment_id": "164343527",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nA aplicação nas Regiões Autónomas dos Açores e da Madeira do regime constante do presente diploma não prejudica as competências cometidas aos respectivos órgãos de governo próprio."
+  },
+  "164454692": {
+   "fragment_id": "164343528",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n- 1 - O disposto no presente diploma não se aplica:\n\na) À fauna e actividade cinegética, que continuam a regular-se pela Lei n.º 30/86, de 27 de Agosto, pelo Decreto-Lei n.º 274-A/88, de 3 de Agosto, e pela respectiva legislação complementar;\n\nb) Às espécies e à actividade piscícola nas águas interiores, que continuam a regular-se pela Lei n.º 2097, de 6 de Junho de 1959, pelo Decreto n.º 44623, de 10 de Outubro de 1962, e pela respectiva legislação complementar;\n\nc) Às acções de protecção, ordenamento, fomento e exploração florestal reguladas nos Decretos-Leis n.os 139/88, de 22 de Abril, 172/88, de 16 de Maio, e 173/88 e 175/88, de 17 de Maio, e pela respectiva legislação complementar.\n\n2 - A Direcção-Geral das Florestas deve solicitar parecer ao SNPRCN sempre que estejam em causa projectos submetidos ao regime do Decreto-Lei n.º 175/88, de 17 de Maio, que considere susceptíveis de contenderem com os interesses tutelados pelo presente diploma."
+  },
+  "164233473": {
+   "fragment_id": "164343509",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 316/89\n\nde 22 de Setembro\n\nA 19 de Setembro de 1979 foi assinada por países membros do Conselho da Europa a Convenção Relativa à Conservação da Vida Selvagem e dos Habitats Naturais da Europa (Convenção de Berna).\n\nPortugal, pelo Decreto n.º 95/81, de 23 de Julho, ratificou aquela Convenção.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "164454698": {
+   "fragment_id": "164343523",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1990-06-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 196/90 - Diário da República n.º 138/1990, Série I de 1990-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1990-575116), em vigor a partir de 1990-06-23"
+   ],
+   "markdown": "###### Artigo 14.º\n\n- 1 - As infecções ao disposto no presente diploma constituem contra-ordenações puníveis, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, com coima:\n\na) De 50000$00 a 500000$00 a violação da proibição estabelecida no n.º 1 do artigo 2.º e no n.º 1 do artigo 4.º;\n\nb) De 25000$00 a 400000$00 a violação do estabelecido no artigo 5.º;\n\nc) De 10000$00 a 400000$00, a violação da proibição estabelecida no artigo 7.º;\n\nd) De 10000$00 a 350000$00 a falta de envio das listas referidas na alínea a) do artigo 13.º e falta de registo actualizado, nos termos da alínea b) do mesmo artigo;\n\ne) De 50000$00 a 500000$00, a violação de conteúdo e limites da licença concedida nos termos do artigo 8.º\n\n2 - Quando, no caso das infracções previstas nas alíneas a), b) e c) do número anterior, as coimas forem aplicadas a pessoas colectivas, o seu montante poderá multiplicar-se até um máximo de 12 vezes.\n\n3 - A tentativa e a negligência são sempre puníveis.\n\n> Alterado pelo/a [Decreto-Lei n.º 196/90 - Diário da República n.º 138/1990, Série I de 1990-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1990-575116), em vigor a partir de 1990-06-23"
+  },
+  "164454699": {
+   "fragment_id": "164343524",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1990-06-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 196/90 - Diário da República n.º 138/1990, Série I de 1990-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1990-575116), em vigor a partir de 1990-06-23"
+   ],
+   "markdown": "###### Artigo 15.º\n\nCumulativamente com as coimas previstas no artigo anterior, e nos termos da legislação aplicável, poderão ser aplicadas, como sanções acessórias:\n\na) A interdição do exercício da profissão ou da actividade, até um máximo de dois anos;\n\nb) A apreensão das espécies que estejam na origem da infecção, bem como do equipamento utilizado para a sua captura, que serão perdidos a favor do Estado.\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participação ou arrematações a concursos promovidos por entidades ou serviços públicos, de obras públicas, de fornecimento de bens e serviços, ou concessão de serviços, licenças ou alvarás.\n\n> Alterado pelo/a [Decreto-Lei n.º 196/90 - Diário da República n.º 138/1990, Série I de 1990-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1990-575116), em vigor a partir de 1990-06-23"
+  },
+  "164454693": {
+   "fragment_id": "164343529",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Junho de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Arlindo Marques Cunha.\n\nPromulgado em 8 de Setembro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "164454756": {
+   "fragment_id": "164343510",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos do presente diploma, entende-se por:\n\na) Convenção - a Convenção Relativa à Protecção da Vida Selvagem e do Ambiente Natural na Europa, aprovada, para ratificação, pelo Decreto n.º 95/81, de 23 de Julho;\n\nb) Anexo I - anexo da Convenção que inclui o elenco das espécies da flora que são estritamente protegidas;\n\nc) Anexo II - anexo da Convenção que inclui o elenco das espécies da fauna estritamente protegidas;\n\nd) Anexo III - anexo da Convenção que inclui o elenco das espécies protegidas da fauna;\n\ne) Anexo IV - anexo da Convenção que inclui o elenco dos meios e métodos de caça e outras formas interditas de exploração;\n\nf) SNPRCN - Serviço Nacional de Parques, Reservas e Conservação da Natureza;\n\ng) Comité permanente - comissão criada nos termos do capítulo VI da Convenção de Berna com vista à realização das finalidades da Convenção;\n\nh) Comissões de peritos - grupos de especialistas dos países membros do Conselho da Europa, ou das Partes Contratantes, por este convocados para a discussão e tratamento de diferentes assuntos;\n\ni) Comissão nacional - comissão que integra representantes designados pelo Serviço Nacional de Parques, Reservas e Conservação da Natureza, pela Direcção-Geral de Ordenamento do Território, pela Direcção-Geral das Florestas e ainda pelas Regiões Autónomas dos Açores e da Madeira, constituída nos termos e para os efeitos do artigo 6.º do presente diploma.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454757": {
+   "fragment_id": "164343511",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Com vista à protecção das espécies da flora inscritas no anexo I da Convenção, e salvo licença, a emitir nos termos do artigo 8.º, são proibidas:\n\na) A sua colheita, apanha, corte ou arranque intencionais;\n\nb) A sua venda, detenção para venda, oferta e transporte para venda e exposição com fins comerciais;\n\nc) A deterioração intencional dos respectivos habitats.\n\n2 - O disposto no número anterior não se aplica quando:\n\na) As plantas tenham sido cultivadas;\n\nb) As plantas tenham sido retiradas do seu meio natural antes da inscrição da respectiva espécie nos anexos da Convenção;\n\nc) As plantas tenham sido introduzidas no nosso território de acordo com as normas relativas à protecção da respectiva espécie.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454758": {
+   "fragment_id": "164343512",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 3.º\n\nO regime de introdução de espécies exóticas da flora no território nacional será fixado por portaria conjunta dos Ministros do Planeamento e da Administração do Território e da Agricultura, Pescas e Alimentação.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454759": {
+   "fragment_id": "164343513",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Com vista à protecção das espécies da fauna inscritas no anexo II da Convenção, e salvo licença, a emitir nos termos do artigo 8.º, são proibidas:\n\na) A sua captura, detenção e abate intencionais;\n\nb) A deterioração ou destruição intencional dos respectivos habitats;\n\nc) A sua venda, detenção para venda, oferta e transporte para venda e exposição com fins comerciais;\n\nd) A sua perturbação intencional, designadamente durante o período de reprodução, de dependência e de hibernação;\n\ne) A destruição ou a apanha intencionais de ovos do meio natural, mesmo vazios.\n\n2 - O disposto no número anterior não se aplica quando:\n\na) Os animais tenham nascido e sido criados em cativeiro;\n\nb) Os animais tenham sido capturados no seu meio natural antes da inscrição da respectiva espécie nos anexos da Convenção;\n\nc) Os animais tenham entrado no nosso território de acordo com as normas relativas à protecção da respectiva espécie.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454760": {
+   "fragment_id": "164343514",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n- 1 - São proibidas, salvo licença, a emitir nos termos do artigo 8.º, as actividades de captura, detenção e abate intencionais das espécies de fauna inscritas no anexo III da Convenção.\n\n2 - As actividades de venda, detenção, transporte e oferta para venda de animais vivos ou mortos das espécies a que se refere o número anterior serão reguladas por portaria conjunta dos Ministros do Planeamento e da Administração do Território e da Agricultura, Pescas e Alimentação.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454761": {
+   "fragment_id": "164343515",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Com vista à protecção dos habitats das espécies da flora e da fauna mencionadas nos anexos I e II da Convenção e dos habitats naturais ameaçados é instituída uma comissão nacional para aplicação da Convenção de Berna, integrando representantes designados pelo Serviço Nacional de Parques, Reservas e Conservação da Natureza, pela Direcção-Geral de Ordenamento do Território, pela Direcção-Geral das Florestas e ainda pelas Regiões Autónomas dos Açores e da Madeira.\n\n2 - Compete à comissão nacional propor ao Governo a adopção das medidas tendentes à protecção das áreas previstas no número anterior, nomeadamente:\n\na) Protecção das zonas que sejam importantes para as espécies migradoras enumeradas nos anexos II e III da Convenção e se situem de modo adequado relativamente às vias de migração, tais como as áreas de invernada, de reunião, de alimentação, de reprodução ou de muda;\n\nb) Protecção de habitats transfronteiros no sentido do estabelecimento de critérios uniformes na protecção da totalidade da zona abrangida.\n\n3 - As entidades competentes para autorizar ou licenciar a instalação de industrias ou de outras actividades devem pedir parecer à comissão referida nos números anteriores sempre que as instalações em causa, em virtude das emissões de ruído ou de rejeição de efluentes, sejam susceptíveis de provocarem a deterioração dos habitats das espécies constantes dos anexos II e III da Convenção.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454762": {
+   "fragment_id": "164343516",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 7.º\n\nÉ proibida a utilização dos seguintes meios, métodos e equipamentos para perseguir, capturar ou matar espécies da fauna selvagem protegida pela Convenção:\n\na) Laços, viscos, anzóis, gases ou fumos;\n\nb) Explosivos;\n\nc) Animais vivos, cegos ou mutilados como chamariz;\n\nd) Gravadores;\n\ne) Aparelhos eléctricos capazes de matar ou atordoar;\n\nf) Luzes artificiais;\n\ng) Espelhos ou outros objectos susceptíveis de causarem encandeamento;\n\nh) Dispositivos de mira munidos de amplificadores de imagem ou de transformadores;\n\ni) Veneno e isco envenenado ou anestesiante;\n\nj) Dispositivos para iluminar os alvos;\n\nl) Armas semiautomáticas ou automáticas cujo carregador comporte mais de dois cartuchos;\n\nm) Aviões;\n\nn) Veículos automóveis em movimento;\n\no) Redes e armadilhas, quando utilizadas para a captura ou abate indiscriminado ou em massa.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454763": {
+   "fragment_id": "164343517",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 8.º\n\n- 1 - Mediante licença do SNPRCN, homologada pelo membro do Governo responsável pela área do ambiente, podem ser excepcionalmente permitidos os actos ou actividades proibidos pelos artigos 2.º, 4.º e 5.º ou a utilização dos meios proibidos no artigo 7.º, desde que não exista alternativa satisfatória e se verifique algum dos seguintes pressupostos:\n\na) Especial exigência na protecção da flora e da fauna;\n\nb) Necessidade de prevenção de danos importantes nas culturas, nas florestas, nas águas, na caça, nas pescas e no gado;\n\nc) Especial interesse na defesa da saúde pública, da segurança da população e da segurança aérea ou de outros interesses públicos prioritários;\n\nd) Necessidade de viabilizar a prossecução de fins de investigação e de educação, de repovoamento, de reintrodução ou de criação artificial das espécies da flora e da fauna.\n\n2 - A licença referida no número anterior será titulada por documento a fornecer pelos serviços, do qual constarão:\n\na) Referência à espécie ou espécies afectadas;\n\nb) Indicação do período de duração da licença, o qual não poderá ser superior a um ano;\n\nc) Área abrangida pela autorização;\n\nd) Número de indivíduos de cada espécie que será permitido recolher ou capturar ao abrigo da autorização concedida, sempre que tal indicação seja possível;\n\ne) Métodos e meios de equipamento que se podem utilizar na captura ou recolha;\n\nf) Outras indicações ou limites que julgue necessários.\n\n3 - Os destinatários das licenças deverão exibir o documento que as titula sempre que os funcionários do SNPRCN ou demais agentes da autoridade o solicitem.\n\n4 - Os beneficiários das licenças deverão informar o SNPRCN dos contingentes de espécies efectivamente recolhidas ou capturadas ao abrigo da licença emitida.\n\n5 - São nulas as licenças obtidas mediante falsas declarações.\n\n6 - Compete especialmente aos funcionários e agentes do SNPRCN, à Direcção-Geral das Florestas, à Guarda Nacional Republicana e demais autoridades policiais fiscalizar as actividades realizadas ao abrigo das licenças concedidas nos termos do presente artigo.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454764": {
+   "fragment_id": "164343518",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 9.º\n\n- 1 - Os organismos ou indivíduos que se dediquem à investigação e pretendam beneficiar de uma licença ao abrigo do disposto no artigo 8.º do presente diploma deverão, para o efeito, dirigir um requerimento ao SNPRCN, instruído dos seguintes elementos:\n\na) Prova da sua qualidade de investigador;\n\nb) Justificação da necessidade de utilização do método ou métodos.\n\n2 - Os organismos competentes deverão informar o SNPRCN, juntando os documentos comprovativos pertinentes, quando, por motivos de saúde pública e segurança das populações, se torne necessária a utilização dos meios, métodos e equipamentos referidos no artigo 7.º deste diploma ou a destruição de espécies constantes dos anexos I II e III da Convenção.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454765": {
+   "fragment_id": "164343519",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 10.º\n\n- 1 - Compete ao SNPRCN assegurar as funções administrativas e científicas necessárias à aplicação da Convenção e do presente diploma.\n\n2 - O SNPRCN poderá consultar outros organismos, instituições ou especialistas quando a especificidade das matérias sobre as quais se deva pronunciar o justifique.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454766": {
+   "fragment_id": "164343520",
+   "type": 11,
+   "heading": "Artigo 11.º — :",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 11.º — :\n\nPara efeitos da aplicação da Convenção e do presente diploma, compete ao SNPRCN\n\na) Incrementar, promover e coordenar trabalhos de investigação no âmbito da Convenção;\n\nb) Promover a reintrodução de espécies indígenas extintas em território nacional, sempre que tal medida se mostre apta a contribuir para o enriquecimento e conservação de ecossistemas;\n\nc) Promover o alargamento da área de distribuição das espécies indígenas da flora e da fauna selvagens, sempre que tal medida se mostre apta a contribuir para a conservação de espécies raras ameaçadas ou vulneráveis;\n\nd) Submeter à aprovação do membro do Governo responsável pela área do ambiente as licenças previstas no artigo 8.º;\n\ne) Fiscalizar o cumprimento da Convenção e do presente diploma;\n\nf) Verificar a regularidade do registo referido na alínea b) do artigo 13.º;\n\ng) Divulgar os objectivos e princípios consagrados na Convenção.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454767": {
+   "fragment_id": "164343521",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 12.º\n\n- 1 - Compete a comissão nacional propor ao Governo a adopção das medidas tendentes a:\n\na) Contribuir para a conjugação das actividades inerentes às matérias objecto da Convenção;\n\nb) Propor alterações aos anexos da Convenção;\n\nc) Propor o levantamento de reservas formuladas ao abrigo dos n.os 1 e 2 do artigo 22.º da Convenção;\n\nd) Propor o relatório a que se refere o n.º 2 do artigo 9.º da Convenção;\n\ne) Estabelecer um cadastro nacional de habitats protegidos a tomar em conta nos planos de ordenamento e desenvolvimento do território.\n\n2 - Os membros da delegação portuguesa a que se refere o artigo 13.º da Convenção são designados por despacho conjunto dos Ministros do Planeamento e da Administração do Território e da Agricultura, Pescas e Alimentação, preferencialmente de entre os membros da comissão criada pelo artigo 6.º\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454768": {
+   "fragment_id": "164343522",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 13.º\n\nOs viveiristas, criadores e taxidermistas de espécies constantes dos anexos I, II e III da Convenção ficam obrigados a:\n\na) No espaço de 150 dias a contar da data da publicação do presente diploma, enviar ao SNPRCN as listas das espécies da flora e da fauna que detenham naquela data;\n\nb) Organizar e manter actualizado um registo das espécies e espécimes que detêm e exibi-lo sempre que tal lhes for solicitado pelo SNPRCN.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454769": {
+   "fragment_id": "164343523",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01",
+    "Alterado pelo/a [Decreto-Lei n.º 196/90 - Diário da República n.º 138/1990, Série I de 1990-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1990-575116), em vigor a partir de 1990-06-23"
+   ],
+   "markdown": "###### Artigo 14.º\n\n- 1 - As infecções ao disposto no presente diploma constituem contra-ordenações puníveis, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, com coima:\n\na) De 50000$00 a 500000$00 a violação da proibição estabelecida no n.º 1 do artigo 2.º e no n.º 1 do artigo 4.º;\n\nb) De 25000$00 a 400000$00 a violação do estabelecido no artigo 5.º;\n\nc) De 10000$00 a 400000$00, a violação da proibição estabelecida no artigo 7.º;\n\nd) De 10000$00 a 350000$00 a falta de envio das listas referidas na alínea a) do artigo 13.º e falta de registo actualizado, nos termos da alínea b) do mesmo artigo;\n\ne) De 50000$00 a 500000$00, a violação de conteúdo e limites da licença concedida nos termos do artigo 8.º\n\n2 - Quando, no caso das infracções previstas nas alíneas a), b) e c) do número anterior, as coimas forem aplicadas a pessoas colectivas, o seu montante poderá multiplicar-se até um máximo de 12 vezes.\n\n3 - A tentativa e a negligência são sempre puníveis.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01\n\n> Alterado pelo/a [Decreto-Lei n.º 196/90 - Diário da República n.º 138/1990, Série I de 1990-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1990-575116), em vigor a partir de 1990-06-23"
+  },
+  "164454770": {
+   "fragment_id": "164343524",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01",
+    "Alterado pelo/a [Decreto-Lei n.º 196/90 - Diário da República n.º 138/1990, Série I de 1990-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1990-575116), em vigor a partir de 1990-06-23"
+   ],
+   "markdown": "###### Artigo 15.º\n\nCumulativamente com as coimas previstas no artigo anterior, e nos termos da legislação aplicável, poderão ser aplicadas, como sanções acessórias:\n\na) A interdição do exercício da profissão ou da actividade, até um máximo de dois anos;\n\nb) A apreensão das espécies que estejam na origem da infecção, bem como do equipamento utilizado para a sua captura, que serão perdidos a favor do Estado.\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participação ou arrematações a concursos promovidos por entidades ou serviços públicos, de obras públicas, de fornecimento de bens e serviços, ou concessão de serviços, licenças ou alvarás.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01\n\n> Alterado pelo/a [Decreto-Lei n.º 196/90 - Diário da República n.º 138/1990, Série I de 1990-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1990-575116), em vigor a partir de 1990-06-23"
+  },
+  "164454771": {
+   "fragment_id": "164343525",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 16.º\n\n- 1 - As funções de fiscalização, para efeitos deste diploma, competem especialmente aos funcionários e agentes do SNPRCN, da Direcção-Geral das Florestas, da Guarda Nacional Republicana e demais autoridades policiais.\n\n2 - Compete ao SNPRCN o processamento das contra-ordenações e aplicação das sanções previstas nos artigos 14.º e 15.º deste diploma.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454772": {
+   "fragment_id": "164343526",
+   "type": 11,
+   "heading": "Artigo 17.º — :",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 17.º — :\n\nA receita das coimas previstas no artigo 14.º será assim distribuída\n\na) 60% para a entidade fiscalizadora;\n\nb) 40% para o Estado.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454773": {
+   "fragment_id": "164343527",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 18.º\n\nA aplicação nas Regiões Autónomas dos Açores e da Madeira do regime constante do presente diploma não prejudica as competências cometidas aos respectivos órgãos de governo próprio.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164454774": {
+   "fragment_id": "164343528",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 19.º\n\n- 1 - O disposto no presente diploma não se aplica:\n\na) À fauna e actividade cinegética, que continuam a regular-se pela Lei n.º 30/86, de 27 de Agosto, pelo Decreto-Lei n.º 274-A/88, de 3 de Agosto, e pela respectiva legislação complementar;\n\nb) Às espécies e à actividade piscícola nas águas interiores, que continuam a regular-se pela Lei n.º 2097, de 6 de Junho de 1959, pelo Decreto n.º 44623, de 10 de Outubro de 1962, e pela respectiva legislação complementar;\n\nc) Às acções de protecção, ordenamento, fomento e exploração florestal reguladas nos Decretos-Leis n.os 139/88, de 22 de Abril, 172/88, de 16 de Maio, e 173/88 e 175/88, de 17 de Maio, e pela respectiva legislação complementar.\n\n2 - A Direcção-Geral das Florestas deve solicitar parecer ao SNPRCN sempre que estejam em causa projectos submetidos ao regime do Decreto-Lei n.º 175/88, de 17 de Maio, que considere susceptíveis de contenderem com os interesses tutelados pelo presente diploma.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  },
+  "164478275": {
+   "fragment_id": "164343529",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Junho de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Arlindo Marques Cunha.\n\nPromulgado em 8 de Setembro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2021-164258742), em vigor a partir de 2021-06-01"
+  }
+ }
+}

@@ -1,0 +1,1194 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:202586:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-117480185",
+ "dre_path": "/dr/detalhe/decreto-lei/206-1997-202586",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-08-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117479498",
+    "117480142",
+    "117480143",
+    "117480144",
+    "117480145",
+    "117480146",
+    "117480147",
+    "117480148",
+    "117480149",
+    "117480150",
+    "117480151",
+    "117480152",
+    "117480153",
+    "117480154",
+    "117480155",
+    "117480156",
+    "117480157",
+    "117480158",
+    "117480159",
+    "117480160",
+    "117480161",
+    "117480162",
+    "117480163",
+    "117480164",
+    "117480165",
+    "117480166",
+    "117480167",
+    "117480168",
+    "117480169",
+    "117480170",
+    "117480171",
+    "117480172",
+    "117480173",
+    "117480174",
+    "117479475",
+    "117479476",
+    "117479477",
+    "117479478",
+    "117479479",
+    "117479480",
+    "117479481",
+    "117479482",
+    "117479483",
+    "117479484",
+    "117479485",
+    "117479486",
+    "117479487",
+    "117479488",
+    "117479489",
+    "117479490",
+    "117479491",
+    "117479492"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:232766:por",
+     "title": "Declaração de Rectificação n.º 15-E/97",
+     "published": "1997-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/15-e-1997-232766",
+     "date": "1997-08-17"
+    }
+   ]
+  },
+  {
+   "date": "1998-08-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:431468:por",
+     "title": "Decreto-Lei n.º 238/98",
+     "published": "1998-08-05",
+     "dre_path": "/dr/detalhe/decreto-lei/238-1998-431468"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 35.º"
+   ],
+   "fragments": [
+    "117480141",
+    "117480142",
+    "117480143",
+    "117480144",
+    "117480145",
+    "117480146",
+    "117480147",
+    "117480148",
+    "117480149",
+    "117480150",
+    "117480151",
+    "117480152",
+    "117480153",
+    "117480154",
+    "117480155",
+    "117480156",
+    "117480157",
+    "117480158",
+    "117480159",
+    "117480160",
+    "117479496",
+    "117480162",
+    "117480163",
+    "117480164",
+    "117480165",
+    "117480166",
+    "117480167",
+    "117480168",
+    "117480169",
+    "117480170",
+    "117480171",
+    "117480172",
+    "117480173",
+    "117480174",
+    "117479475",
+    "117479476",
+    "117479477",
+    "117479478",
+    "117479479",
+    "117479480",
+    "117479497",
+    "117479482",
+    "117479483",
+    "117479484",
+    "117479485",
+    "117479486",
+    "117479487",
+    "117479488",
+    "117479489",
+    "117479490",
+    "117479491",
+    "117479492",
+    "117479493"
+   ]
+  },
+  {
+   "date": "2018-12-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117471256:por",
+     "title": "Decreto-Lei n.º 115/2018",
+     "published": "2018-12-21",
+     "dre_path": "/dr/detalhe/decreto-lei/115-2018-117471256"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "117479498",
+    "117479499",
+    "117479500",
+    "117479501",
+    "117479502",
+    "117479503",
+    "117479504",
+    "117479505",
+    "117479506",
+    "117479507",
+    "117479508",
+    "117479509",
+    "117479510",
+    "117479511",
+    "117479512",
+    "117479513",
+    "117479514",
+    "117479515",
+    "117479516",
+    "117479517",
+    "117479518",
+    "117479519",
+    "117479520",
+    "117479521",
+    "117479522",
+    "117479523",
+    "117479524",
+    "117479525",
+    "117479526",
+    "117479527",
+    "117479528",
+    "117479529",
+    "117479530",
+    "117479531",
+    "117479532",
+    "117479533",
+    "117479534",
+    "117479535",
+    "117479536",
+    "117479537",
+    "117479538",
+    "117479539",
+    "117479540",
+    "117479541",
+    "117479542",
+    "117479543",
+    "117479544",
+    "117479545",
+    "117479546",
+    "117479547",
+    "117479548",
+    "117479549",
+    "117479550"
+   ]
+  }
+ ],
+ "fragments": {
+  "117479498": {
+   "fragment_id": "117480186",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-12-26",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 206/97\n\nde 12 de Agosto\n\nO Decreto-Lei n.º 92/90, de 17 de Março, fixou as regras de ingresso na carreira de conservador e notário, instituindo designadamente um curso de extensão universitária ou, na sua falta, um curso de formação.\n\nCedo se mostrou necessário actualizar algumas das suas disposições, o que motivou a publicação do Decreto-Lei n.º 238/93, de 3 de Julho. Este diploma prevê ainda que o processo de ingresso obedeça a regulamento a aprovar por despacho do Ministro da Justiça.\n\nA experiência colhida com os cinco cursos realizados aconselha a que se introduzam algumas alterações no sistema, nomeadamente no que concerne à inclusão de um exame psicológico aos candidatos e à definição das fases eliminatórias.\n\nParece assim preferível, em lugar da inserção de tais alterações no Decreto-Lei n.º 238/93 e da regulamentação que não chegou a ser efectuada, disciplinar num só diploma toda a matéria relativa ao procedimento de ingresso na carreira de conservador e notário, adaptando-a às normas do Código do Procedimento Administrativo e aproximando-a, na medida do aplicável, do regime geral de recrutamento e selecção de pessoal para a Administração Pública.\n\nO presente diploma foi objecto de audição, nos termos da lei, da Associação Sindical de Conservadores dos Registos, da Associação Portuguesa de Notários e do Sindicato dos Trabalhadores dos Registos e do Notariado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "117480142": {
+   "fragment_id": "117480187",
+   "type": 8,
+   "heading": "Secção I — Ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Ingresso"
+  },
+  "117480143": {
+   "fragment_id": "117480188",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente diploma regula o procedimento de ingresso na carreira de conservador e notário."
+  },
+  "117480144": {
+   "fragment_id": "117480189",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de admissão\n\nSão condições de admissão ao procedimento de ingresso:\n\na) Ser licenciado em Direito por universidade portuguesa ou possuir habilitação académica equivalente à face da lei portuguesa;\n\nb) Preencher os requisitos gerais para ingresso na função pública."
+  },
+  "117480145": {
+   "fragment_id": "117480190",
+   "type": 11,
+   "heading": "Artigo 3.º — Fases do procedimento de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fases do procedimento de ingresso\n\n1 - O procedimento de ingresso integra as seguintes fases:\n\na) Provas de aptidão;\n\nb) Curso de extensão universitária ou de formação;\n\nc) Estágio;\n\nd) Provas finais.\n\n2 - Todas as fases são eliminatórias.\n\n3 - São dispensados das fases referidas nas alíneas a) e b) do n.º 1 os doutores em Direito."
+  },
+  "117480146": {
+   "fragment_id": "117480191",
+   "type": 11,
+   "heading": "Artigo 4.º — Aviso de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aviso de abertura\n\nA Direcção-Geral dos Registos e do Notariado (DGRN) faz publicar no Diário da República aviso de abertura do procedimento de ingresso do qual constam, designadamente:\n\na) As condições de admissão ao procedimento;\n\nb) As fases do procedimento, com indicação de que todas as fases são eliminatórias, e a data prevista para o seu início;\n\nc) O número de candidatos a admitir, com e sem vínculo à função pública;\n\nd) A forma e o prazo para apresentação das candidaturas;\n\ne) A entidade à qual devem ser dirigidos os requerimentos e respectivo endereço;\n\nf) A composição do júri do procedimento;\n\ng) A especificação dos métodos de selecção a utilizar nas provas de aptidão, com menção de que cada um deles é eliminatório;\n\nh) O programa das provas de conhecimentos e a bibliografia aconselhada;\n\ni) A indicação de que o procedimento de ingresso se rege pelo presente diploma."
+  },
+  "117480147": {
+   "fragment_id": "117480192",
+   "type": 11,
+   "heading": "Artigo 5.º — Listas de candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Listas de candidatos\n\n1 - Encerrado o prazo para apresentação dos requerimentos, é publicada no Diário da República a lista dos candidatos admitidos ao procedimento de ingresso e a dos excluídos, com indicação sucinta dos motivos da exclusão, bem como a data e o local de realização das provas de conhecimentos e a composição dos júris referidos nos n.os 2 ou 3 do artigo 6.º, consoante o caso, e ainda a menção de que se não houver recursos a lista se converte em definitiva.\n\n2 - Os candidatos excluídos podem recorrer para o Ministro da Justiça no prazo de 15 dias.\n\n3 - Decididos os recursos, é publicado no Diário da República aviso a confirmar ou a alterar as listas anteriormente publicadas."
+  },
+  "117480148": {
+   "fragment_id": "117480193",
+   "type": 11,
+   "heading": "Artigo 6.º — Júris",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Júris\n\n1 - O júri do procedimento de ingresso é constituído pelo director-geral dos Registos e do Notariado - adiante designado por director-geral -, que preside, e por quatro vogais nomeados pelo Ministro da Justiça de entre membros do Conselho Técnico e pessoal dirigente da DGRN, sem prejuízo do disposto nos números seguintes.\n\n2 - As provas de conhecimentos destinadas ao curso de extensão universitária são avaliadas por júri próprio constituído pelo director-geral, que preside, por dois docentes da faculdade de direito que tiver a seu cargo a realização do curso de extensão universitária, pelo subdirector-geral com a tutela da Direcção de Serviços Jurídicos e por três vogais do Conselho Técnico.\n\n3 - As provas de conhecimentos destinadas ao curso de formação são avaliadas por júri próprio constituído nos termos do número anterior, com excepção dos docentes da faculdade de direito.\n\n4 - Os membros dos júris referidos nos n.os 2 e 3 são designados pelo Ministro da Justiça, sob proposta do director-geral, exceptuados os docentes da faculdade de direito.\n\n5 - Os membros do júri docentes da faculdade de direito são designados pelo órgão directivo da faculdade."
+  },
+  "117480149": {
+   "fragment_id": "117480194",
+   "type": 8,
+   "heading": "Secção II — Provas de aptidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Provas de aptidão"
+  },
+  "117480150": {
+   "fragment_id": "117480195",
+   "type": 11,
+   "heading": "Artigo 7.º — Métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Métodos de selecção\n\n1 - Nas provas de aptidão são utilizados, com carácter eliminatório, os seguintes métodos de selecção:\n\na) Provas de conhecimentos;\n\nb) Exame psicológico.\n\n2 - As provas de conhecimentos consistem em provas escritas sobre matérias de direito privado relacionadas com os registos e o notariado.\n\n3 - O programa das provas de conhecimentos é aprovado por despacho do Ministro da Justiça."
+  },
+  "117480151": {
+   "fragment_id": "117480196",
+   "type": 11,
+   "heading": "Artigo 8.º — Classificação das provas de conhecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Classificação das provas de conhecimentos\n\n1 - Efectuadas as provas de conhecimentos, o júri referido nos n.os 2 ou 3 do artigo 6.º, consoante o caso, classifica os candidatos de acordo com um processo valorimétrico de 0 a 20, conforme parâmetros previamente fixados em acta, e faz afixar na sede da DGRN a pauta com os resultados.\n\n2 - A DGRN faz publicar no Diário da República aviso de informação sobre a data em que a pauta foi afixada e a partir da qual pode ser consultada.\n\n3 - Da classificação referida no n.º 1 cabe recurso para o Ministro da Justiça, a interpor no prazo de 15 dias, devendo a decisão ser proferida em igual prazo."
+  },
+  "117480152": {
+   "fragment_id": "117480197",
+   "type": 11,
+   "heading": "Artigo 9.º — Exame psicológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exame psicológico\n\n1 - São submetidos a exame psicológico, nos termos da lei geral, os candidatos com classificação não inferior a 9,5 valores.\n\n2 - Aos resultados do exame psicológico são atribuídas as menções de Favorável preferencialmente, Bastante favorável, Favorável, Favorável com reservas e Não favorável.\n\n3 - São eliminados do procedimento de ingresso os candidatos com menção de Não favorável."
+  },
+  "117480153": {
+   "fragment_id": "117480198",
+   "type": 11,
+   "heading": "Artigo 10.º — Faltas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Faltas\n\n1 - Os candidatos que não compareçam às provas de conhecimentos podem justificar a falta, perante o director-geral, nas vinte e quatro horas seguintes.\n\n2 - Se a falta for considerada justificada, é designado novo dia para a realização das provas.\n\n3 - Não é permitido faltar a mais de um dia de provas.\n\n4 - A falta de justificação, bem como a falta à segunda marcação, implica a exclusão automática do candidato.\n\n5 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, ao exame psicológico."
+  },
+  "117480154": {
+   "fragment_id": "117480199",
+   "type": 11,
+   "heading": "Artigo 11.º — Admissão ao curso de extensão universitária ou de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Admissão ao curso de extensão universitária ou de formação\n\n1 - O júri do procedimento de ingresso, face aos resultados das provas de aptidão, elabora a lista dos candidatos admitidos à frequência do curso de extensão universitária ou do curso de formação, pela ordem seguinte:\n\na) Candidatos graduados nas provas de conhecimentos com classificação não inferior a 9,5 valores, preferindo, em caso de igualdade de classificação, os candidatos com menção no exame psicológico sucessivamente de Favorável preferencialmente, Bastante favorável e Favorável;\n\nb) Candidatos graduados nas provas de conhecimentos com classificação não inferior a 9,5 valores, com menção no exame psicológico de Favorável com reservas, pela ordem da classificação.\n\n2 - Os candidatos não vinculados à função pública são graduados até atingirem o número de vagas descongeladas acrescido de 15%, sendo excluídos os que excederem este número.\n\n3 - Os candidatos vinculados à função pública admitidos ao curso de extensão universitária ou de formação são os que forem graduados dentro do número de vagas anunciadas no aviso de abertura do concurso para concorrentes com vínculo à função pública.\n\n4 - Em caso de igualdade de condições, serão graduados, sucessivamente, os oficiais dos serviços externos dos registos e do notariado, os de maior idade e os que possuírem melhor classificação de licenciatura."
+  },
+  "117480155": {
+   "fragment_id": "117480200",
+   "type": 11,
+   "heading": "Artigo 12.º — Publicação da lista dos candidatos admitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Publicação da lista dos candidatos admitidos\n\n1 - A lista dos candidatos admitidos ao curso de extensão universitária ou de formação é publicada no Diário da República.\n\n2 - Os restantes candidatos podem interpor recurso nos termos do n.º 3 do artigo 8.º"
+  },
+  "117480156": {
+   "fragment_id": "117480201",
+   "type": 11,
+   "heading": "Artigo 13.º — Validade das provas de aptidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Validade das provas de aptidão\n\n1 - A validade das provas de aptidão é limitada ao curso de formação ou de extensão universitária que imediatamente se lhes seguir.\n\n2 - Os candidatos que, por motivos ponderosos devidamente justificados, não possam apresentar-se à frequência do curso para que foram admitidos podem requerer ao director-geral, no prazo de 15 dias a contar da notificação da lista referida no n.º 2 do artigo seguinte, a admissão ao curso subsequente.\n\n3 - O deferimento do pedido apresentado nos termos do número anterior não dispensa os candidatos de requererem o ingresso no curso para cuja frequência tenham sido autorizados, após a publicação do aviso a que se refere o artigo 4.º, sendo de novo graduados de harmonia com os critérios constantes do artigo 11.º\n\n4 - O disposto nos n.os 2 e 3 não impede o candidato de, querendo, prestar novas provas de aptidão."
+  },
+  "117480157": {
+   "fragment_id": "117480202",
+   "type": 8,
+   "heading": "Secção III — Cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Cursos"
+  },
+  "117480158": {
+   "fragment_id": "117480203",
+   "type": 11,
+   "heading": "Artigo 14.º — Curso de extensão universitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Curso de extensão universitária\n\n1 - O curso de extensão universitária tem a duração de seis meses, sendo a data do seu início fixada pelo director-geral, ouvidos os órgãos directivos da faculdade em que se realizar.\n\n2 - Os candidatos admitidos ao curso de extensão universitária são avisados da data do seu início por carta registada com aviso de recepção, com antecedência não inferior a 15 dias.\n\n3 - Os programas e as disciplinas a ministrar no curso são definidos em protocolo celebrado entre a DGRN e a universidade em que se realizar.\n\n4 - A avaliação dos conhecimentos é efectuada, no final do curso, por testes escritos."
+  },
+  "117480159": {
+   "fragment_id": "117480204",
+   "type": 11,
+   "heading": "Artigo 15.º — Docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Docentes\n\n1 - O curso é leccionado por docentes universitários, sem prejuízo do seu estatuto de dedicação exclusiva, bem como por conservadores e notários ou especialistas de reconhecido mérito.\n\n2 - Os conservadores e notários referidos no número anterior são escolhidos pelo director-geral, ouvido o Conselho Técnico."
+  },
+  "117480160": {
+   "fragment_id": "117480205",
+   "type": 11,
+   "heading": "Artigo 16.º — Curso de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Curso de formação\n\n1 - O curso de formação que substitua o curso de extensão universitária tem a duração de seis meses, sendo-lhe aplicável, com as necessárias adaptações, o disposto nos artigos anteriores.\n\n2 - As disciplinas a ministrar no curso e a forma de avaliação dos conhecimentos são definidas por despacho do Ministro da Justiça, sob proposta do director-geral, ouvido o Conselho Técnico."
+  },
+  "117480161": {
+   "fragment_id": "117480206",
+   "type": 11,
+   "heading": "Artigo 17.º — Auditores dos registos e do notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Auditores dos registos e do notariado\n\n1 - Os candidatos admitidos ao curso de extensão universitária ou de formação e ao estágio subsequente são considerados auditores dos registos e do notariado.\n\n2 - Os auditores são admitidos por contrato administrativo de provimento e estão sujeitos aos direitos, deveres e incompatibilidades dos conservadores e notários, sendo-lhes vedado exercer actividades de advogado ou de solicitador ou frequentar os respectivos estágios.\n\n3 - Os auditores recebem um subsídio mensal de formação igual a 90% do ordenado correspondente ao escalão de ingresso na 3.ª classe do grupo de pessoal da carreira de conservador e notário.\n\n4 - Os auditores que sejam funcionários da Administração Pública frequentam o curso de extensão universitária ou o curso de formação e o estágio subsequente em regime de comissão de serviço extraordinária e podem optar pela remuneração do lugar de origem.\n\n5 - Em caso de exclusão ou de desistência, finda automaticamente a comissão de serviço extraordinária dos auditores, retomando estes os seus anteriores cargos ou funções.\n\n6 - Os auditores podem inscrever-se nos Serviços Sociais do Ministério da Justiça se não forem beneficiários de outro sistema de segurança social."
+  },
+  "117480162": {
+   "fragment_id": "117480207",
+   "type": 11,
+   "heading": "Artigo 18.º — Faltas e férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Faltas e férias\n\n1 - O limite global máximo de faltas a cada disciplina que, durante o curso de extensão universitária ou de formação, os auditores podem atingir é o de duas vezes o número semanal de aulas dessa disciplina.\n\n2 - A ultrapassagem do limite fixado no número anterior implica a perda da frequência do curso, salvo razões excepcionais a ponderar, em cada caso, pelo director-geral mediante pedido de justificação das faltas a apresentar pelo auditor na DGRN no prazo de quarenta e oito horas.\n\n3 - As férias a que os auditores tenham direito são obrigatoriamente gozadas entre o termo do curso de extensão universitária ou do curso de formação e o início do estágio."
+  },
+  "117480163": {
+   "fragment_id": "117480208",
+   "type": 8,
+   "heading": "Secção IV — Estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Estágio"
+  },
+  "117480164": {
+   "fragment_id": "117480209",
+   "type": 11,
+   "heading": "Artigo 19.º — Duração e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Duração e objectivos\n\n1 - Findo qualquer dos cursos com aproveitamento, os auditores dos registos e do notariado são admitidos à realização do estágio, com a duração de 12 meses, sob orientação de conservadores e notários formadores.\n\n2 - As áreas funcionais em que é realizada cada fase do estágio, bem como a duração de cada fase e as respectivas precedências, são fixadas por despacho do director-geral.\n\n3 - O estágio visa proporcionar uma formação adequada, em especial de carácter prático, ao exercício das funções de conservadores e notários.\n\n4 - Os auditores executam as tarefas que lhes forem distribuídas e procedem ao estudo das questões de natureza teórica que lhes forem indicadas pelo formador.\n\n5 - Os formadores são designados por despacho do director-geral de entre conservadores e notários classificados pelo menos de Bom com distinção."
+  },
+  "117480165": {
+   "fragment_id": "117480210",
+   "type": 11,
+   "heading": "Artigo 20.º — Realização do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Realização do estágio\n\n1 - A relação das conservatórias e cartórios notariais onde pode ser realizada cada fase do estágio é publicada no Diário da República.\n\n2 - No prazo de 10 dias a contar da publicação, os auditores dos registos e do notariado devem indicar, por ordem decrescente de preferência, pelo menos cinco serviços de cada área funcional em que deva ter lugar cada fase do estágio.\n\n3 - A colocação dos estagiários obedece, sucessivamente, aos critérios de melhor aproveitamento no curso, melhor classificação nas provas de aptidão e situação familiar.\n\n4 - No caso de as conservatórias e cartórios indicados pelo auditor já terem sido preenchidos por outros auditores que lhe devam preferir em razão dos critérios referidos no número anterior, ou no caso de tais serviços deixarem de ter condições para ministrar formação, deve o auditor ser notificado para indicar, no prazo de três dias, novas conservatórias e cartórios de entre aqueles que estiverem ainda disponíveis.\n\n5 - Se no decurso do estágio vagar o lugar de conservador ou notário formador, ou se este não puder prestar o necessário acompanhamento, o auditor é transferido, com o seu acordo, para serviço próximo que reúna condições para o estágio, sem prejuízo de o formador cessante dever prestar informação sobre o aproveitamento, até então, do auditor."
+  },
+  "117480166": {
+   "fragment_id": "117480211",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regime de estágio\n\n1 - Os auditores dos registos e do notariado são colocados por despacho do director-geral, com indicação da data de início do estágio em cada fase.\n\n2 - Os auditores iniciam o estágio perante o formador responsável pela 1.ª fase e, concluída esta, transitam para as fases subsequentes nas datas previstas no despacho referido no número anterior, sem prejuízo do disposto nos artigos seguintes."
+  },
+  "117480167": {
+   "fragment_id": "117480212",
+   "type": 11,
+   "heading": "Artigo 22.º — Frequência do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Frequência do estágio\n\n1 - Os auditores podem faltar justificadamente até ao máximo de 15 dias úteis durante o período de estágio.\n\n2 - Duas faltas injustificadas ou mais de 15 faltas justificadas determinam a perda do estágio, salvo o disposto nos números seguintes.\n\n3 - Os auditores que ultrapassem o número de faltas a que se refere o n.º 1 podem requerer ao director-geral autorização para realizarem ou completarem o estágio noutra data, fundamentando o pedido.\n\n4 - O director-geral pode autorizar o auditor a realizar ou completar o estágio em data que lhe determinar e reconhecer que as faltas foram dadas por motivos ponderosos e for possível concluí-lo até ao termo do prazo previsto no n.º 1 do artigo 28.º\n\n5 - Perdem o direito ao subsídio mensal de formação os auditores a que se refere o número anterior, salvo disposição legal em contrário."
+  },
+  "117480168": {
+   "fragment_id": "117480213",
+   "type": 11,
+   "heading": "Artigo 23.º — Suspensão do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Suspensão do estágio\n\n1 - Sempre que o auditor revelar desinteresse ou conduta incompatível com a dignidade das funções, o formador deve suspender imediatamente o estágio e propor a sua cessação, em relatório fundamentado, dirigido ao director-geral.\n\n2 - O relatório do formador é facultado ao auditor para, no prazo de 10 dias, dizer o que houver por conveniente, sendo a resposta junta ao relatório.\n\n3 - O director-geral, apreciado o relatório e documentos que o instruam, determina, mediante despacho, a cessação ou a continuação do estágio."
+  },
+  "117480169": {
+   "fragment_id": "117480214",
+   "type": 11,
+   "heading": "Artigo 24.º — Informação do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Informação do estágio\n\n1 - Os conservadores e notários formadores prestam a informação de cada fase do estágio, valorada de 0 a 20, com base nos elementos resultantes do preenchimento da ficha de informação, completada com referências concretas, positivas ou negativas, à actuação do estagiário.\n\n2 - A informação deve ainda ser acompanhada de relatório efectuado pelo estagiário e comentado pelo formador e de cópia de trabalhos que aquele tenha realizado.\n\n3 - Os elementos referidos nos números anteriores, bem como a indicação da assiduidade e da pontualidade do estagiário, devem ser remetidos à DGRN pelo conservador ou notário formador no prazo de cinco dias após o termo do estágio.\n\n4 - Findo o estágio, o júri do procedimento de ingresso atribui aos auditores a menção de Muito bom, Bom com distinção, Bom, Suficiente ou Insuficiente, com base na avaliação do curso de formação ou de extensão universitária, nos elementos resultantes da informação dos formadores, do relatório e da assiduidade e pontualidade dos estagiários.\n\n5 - São eliminados do procedimento os auditores classificados com a menção de Insuficiente.\n\n6 - A classificação do estágio é comunicada aos auditores, que dela podem recorrer para o Ministro da Justiça no prazo de 15 dias, devendo a decisão ser proferida em igual prazo."
+  },
+  "117480170": {
+   "fragment_id": "117480215",
+   "type": 11,
+   "heading": "Artigo 25.º — Complemento de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Complemento de formação\n\n1 - Concluído o estágio e enquanto não se realizarem as provas finais para ingresso na carreira de conservador e notário, os auditores que tiverem obtido aproveitamento são colocados nos serviços centrais ou nas conservatórias ou cartórios constantes de relação elaborada pela DGRN.\n\n2 - Para efeitos do disposto no número anterior, os auditores devem entregar na DGRN, com 20 dias de antecedência relativamente ao termo do estágio, requerimento com a indicação, por ordem de preferência, dos serviços onde pretendem ser colocados, bem como o pedido de concessão das férias a que eventualmente tenham direito.\n\n3 - O regime de faltas e de férias dos auditores é o aplicável aos agentes da função pública.\n\n4 - O regime de comissão de serviço extraordinária dos auditores que se encontrem nesta situação considera-se automaticamente prorrogado.\n\n5 - A falta do requerimento a que se refere o n.º 2 implica a rescisão do contrato ou o fim do regime de comissão de serviço extraordinária, com efeitos a partir do termo do estágio."
+  },
+  "117480171": {
+   "fragment_id": "117480216",
+   "type": 8,
+   "heading": "Secção V — Provas finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Provas finais"
+  },
+  "117480172": {
+   "fragment_id": "117480217",
+   "type": 11,
+   "heading": "Artigo 26.º — Natureza das provas finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Natureza das provas finais\n\nAs provas finais são escritas e orais e destinam-se a apreciar, em especial, a preparação e a capacidade dos candidatos para o exercício das funções de conservador e notário e a permitir a graduação do mérito relativo dos concorrentes."
+  },
+  "117480173": {
+   "fragment_id": "117480218",
+   "type": 11,
+   "heading": "Artigo 27.º — Admissão às provas finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Admissão às provas finais\n\n1 - Os auditores dos registos e do notariado com aproveitamento no estágio são concorrentes obrigatórios às primeiras provas finais que se realizem após o termo daquele.\n\n2 - Aos auditores que não se apresentarem às provas finais fica rescindido o contrato ou finda a comissão de serviço extraordinária, salvo se forem admitidos à segunda chamada a que se refere o artigo 31.º"
+  },
+  "117480174": {
+   "fragment_id": "117480219",
+   "type": 11,
+   "heading": "Artigo 28.º — Prazo das provas finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Prazo das provas finais\n\n1 - As provas finais de ingresso na carreira de conservador e notário devem realizar-se nos seis meses posteriores ao termo do estágio.\n\n2 - A realização das provas é publicitada mediante aviso publicado pela DGRN no Diário da República com 30 dias, pelo menos, de antecedência sobre a data da sua realização.\n\n3 - O aviso contém o programa geral das provas, bem como a data, local e duração de cada prova escrita."
+  },
+  "117479475": {
+   "fragment_id": "117480220",
+   "type": 11,
+   "heading": "Artigo 29.º — Provas escritas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Provas escritas\n\n1 - As provas escritas são em número de quatro, consistindo na resolução de questões práticas, respectivamente, de registo civil, de registo predial ou comercial, de notariado, com aplicação das respectivas tabelas emolumentares, e de organização e gestão de serviços públicos, designadamente dos registos e do notariado.\n\n2 - As provas escritas são classificadas de 0 a 20 valores.\n\n3 - Os auditores com média inferior a 5 valores numa das provas escritas ou com média aritmética no conjunto destas provas inferior a 8 valores são excluídos.\n\n4 - Os auditores excluídos podem recorrer para o Ministro da Justiça, no prazo de 15 dias, devendo a decisão ser proferida em igual prazo.\n\n5 - Os auditores com média aritmética no conjunto das provas escritas igual ou superior a 12 valores são dispensados das provas orais."
+  },
+  "117479476": {
+   "fragment_id": "117480221",
+   "type": 11,
+   "heading": "Artigo 30.º — Provas orais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Provas orais\n\n1 - As provas orais consistem na resposta a questões sobre as matérias referidas no artigo anterior e têm, em princípio, a duração de quinze minutos para cada um dos temas.\n\n2 - Os auditores referidos no n.º 5 do artigo anterior podem solicitar a sua admissão às provas orais no prazo de quarenta e oito horas após a afixação das classificações das provas escritas.\n\n3 - As provas orais têm início quatro dias após a afixação da classificação das provas escritas.\n\n4 - Os resultados das provas orais são valorados de 0 a 20.\n\n5 - A classificação final dos auditores que prestarem provas orais é a obtida nestas, ponderada a classificação da prova escrita.\n\n6 - Os auditores excluídos podem recorrer nos termos do n.º 4 do artigo anterior."
+  },
+  "117479477": {
+   "fragment_id": "117480222",
+   "type": 11,
+   "heading": "Artigo 31.º — Segunda chamada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Segunda chamada\n\n1 - No prazo de 30 dias a contar da afixação das classificações finais poderá realizar-se uma segunda chamada, à qual são admitidos os auditores que não tenham comparecido às provas referidas no artigo anterior e hajam requerido a justificação da falta nos termos do n.º 1 do artigo 10.º, se o director-geral reconhecer que a não apresentação foi devida a motivos ponderosos.\n\n2 - À segunda chamada podem ainda ser admitidos os auditores aprovados na primeira chamada que pretendam melhorar a sua classificação."
+  },
+  "117479478": {
+   "fragment_id": "117480223",
+   "type": 11,
+   "heading": "Artigo 32.º — Júri das provas finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Júri das provas finais\n\nO júri das provas finais é o júri do procedimento de ingresso a que se refere o n.º 1 do artigo 6.º"
+  },
+  "117479479": {
+   "fragment_id": "117480224",
+   "type": 11,
+   "heading": "Artigo 33.º — Graduação dos auditores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Graduação dos auditores\n\n1 - Os auditores aprovados nas provas finais são classificados com a menção de Muito bom, Bom com distinção, Bom ou Suficiente, sendo graduados em mérito relativo pelo júri do procedimento de ingresso, dentro de cada menção, tendo em conta as classificações obtidas, sucessivamente, nas provas finais, no estágio, no curso de extensão universitária ou de formação e na licenciatura.\n\n2 - A classificação e graduação dos auditores são publicadas no Diário da República.SECÇÃO VI\n\nAdjuntos de conservador ou notário"
+  },
+  "117479480": {
+   "fragment_id": "117480225",
+   "type": 11,
+   "heading": "Artigo 34.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Colocação\n\n1 - Os auditores aprovados nas provas finais são considerados adjuntos de conservador ou notário com a publicação referida no n.º 2 do artigo anterior.\n\n2 - Os adjuntos continuam em funções nos serviços onde se encontrem, podendo ser destacados ou transferidos nos termos do artigo 36.º"
+  },
+  "117479481": {
+   "fragment_id": "117480226",
+   "type": 11,
+   "heading": "Artigo 35.º — Direitos, deveres e incompatibilidades dos adjuntos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Direitos, deveres e incompatibilidades dos adjuntos\n\n1 - Os adjuntos de conservador ou notário mantêm, conforme os casos, o regime de contrato administrativo de provimento ou de comissão de serviço extraordinária e estão sujeitos aos direitos, deveres e incompatibilidades dos conservadores e notários, sendo-lhes vedado exercer as actividades de advogado e de solicitador ou frequentar os respectivos estágios.\n\n2 - Os adjuntos auferem 90% da remuneração global mínima de conservador ou notário de 3.ª classe em lugar da mesma classe e têm direito aos emolumentos previstos no artigo 137.º, n.º 1, do Decreto Regulamentar n.º 55/80, de 8 de Outubro.\n\n3 - Os adjuntos têm a competência que lhes for especificamente delegada por despacho do conservador ou notário, o qual deve ser comunicado ao director-geral.\n\n4 - O delegado deve mencionar sempre essa qualidade nos actos que pratique por delegação."
+  },
+  "117479482": {
+   "fragment_id": "117480227",
+   "type": 11,
+   "heading": "Artigo 36.º — Destacamento e transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Destacamento e transferência\n\n1 - Os adjuntos de conservador ou notário podem ser transferidos ou destacados por despacho do director-geral para os serviços centrais ou para conservatórias ou cartórios, em função da necessidade ou conveniência dos serviços.\n\n2 - Os adjuntos destacados para os serviços centrais da DGRN mantêm o direito à remuneração global que auferiam na repartição de origem, cabendo o encargo ao Cofre dos Conservadores, Notários e Funcionários de Justiça.\n\n3 - O destacamento pode cessar a qualquer momento por conveniência de serviço.\n\n4 - Os adjuntos têm direito a ajudas de custo e a despesas de transporte nos termos da lei geral."
+  },
+  "117479483": {
+   "fragment_id": "117480228",
+   "type": 11,
+   "heading": "Artigo 37.º — Reposições, obrigatoriedade de concorrer e dever de permanência na função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Reposições, obrigatoriedade de concorrer e dever de permanência na função\n\n1 - Os auditores que injustificadamente não completem o procedimento de ingresso previsto no presente diploma ficam obrigados a restituir ao Cofre dos Conservadores, Notários e Funcionários de Justiça a totalidade das remunerações que tiverem auferido.\n\n2 - O dever de restituir estabelecido no número anterior, que se circunscreve ao montante das remunerações auferidas durante o período de formação, é aplicável aos adjuntos quando injustificadamente não concorram às vagas abertas no ano subsequente à realização das provas finais ou não tomem posse do lugar para que foram nomeados.\n\n3 - Os adjuntos e os conservadores ou notários que, sem motivo atendível, requeiram a exoneração ou licença sem vencimento de longa duração antes de decorridos três anos sobre a sua primeira nomeação ficam obrigados a restituir ao Cofre dos Conservadores, Notários e Funcionários de Justiça a totalidade das remunerações auferidas durante o período de formação.\n\n4 - Nos casos referidos nos números anteriores será rescindido o vínculo à DGRN.\n\n5 - As restituições referidas no presente artigo podem efectuar-se em prestações de número não superior a 12, no prazo máximo de três anos.\n\n6 - As provas finais são válidas por cinco anos, podendo a sua validade ser prorrogada anualmente por despacho do director-geral, a requerimento do interessado, sempre que o adjunto se mantenha nesta situação funcional por motivos que lhe não sejam imputáveis."
+  },
+  "117479484": {
+   "fragment_id": "117480229",
+   "type": 8,
+   "heading": "Secção VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Disposições finais"
+  },
+  "117479485": {
+   "fragment_id": "117480230",
+   "type": 11,
+   "heading": "Artigo 38.º — Remuneração de docentes conservadores e notários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Remuneração de docentes conservadores e notários\n\nOs conservadores e notários, enquanto exercerem funções docentes nos termos do artigo 15.º, têm direito a uma remuneração mensal correspondente ao número de horas leccionadas nesse mês a multiplicar pelo valor da remuneração horária, para o efeito fixada anualmente por despacho do Ministro da Justiça, acrescida de ajudas de custo e despesas de transporte, quando exerçam funções fora da localidade onde o curso é ministrado."
+  },
+  "117479486": {
+   "fragment_id": "117480231",
+   "type": 11,
+   "heading": "Artigo 39.º — Subsídio para formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Subsídio para formação\n\nOs formadores referidos no artigo 19.º têm direito, na fase de estágio efectuada sob a sua orientação, a um subsídio mensal, a fixar anualmente por despacho do Ministro da Justiça."
+  },
+  "117479487": {
+   "fragment_id": "117480232",
+   "type": 11,
+   "heading": "Artigo 40.º — Júris",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Júris\n\nOs membros dos júris têm direito a uma gratificação individual final, fixada por despacho do Ministro da Justiça em função do número de candidatos em prova."
+  },
+  "117479488": {
+   "fragment_id": "117480233",
+   "type": 11,
+   "heading": "Artigo 41.º — Cooperação com países de língua oficial portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Cooperação com países de língua oficial portuguesa\n\nSem prejuízo das necessidades dos serviços, pode ser aditada uma quota de lugares nos cursos previstos neste diploma reservada a licenciados em Direito originários de países de língua oficial portuguesa, em termos a acordar em protocolo."
+  },
+  "117479489": {
+   "fragment_id": "117480234",
+   "type": 11,
+   "heading": "Artigo 42.º — Protocolo entre o Ministério da Justiça e a universidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Protocolo entre o Ministério da Justiça e a universidade\n\nNo protocolo referido no n.º 3 do artigo 14.º são estabelecidos os termos da comparticipação financeira do Ministério da Justiça nos encargos que resultem para a universidade da realização do curso de extensão universitária."
+  },
+  "117479490": {
+   "fragment_id": "117480235",
+   "type": 11,
+   "heading": "Artigo 43.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Despesas\n\nAs despesas resultantes da aplicação do presente diploma ficam a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça."
+  },
+  "117479491": {
+   "fragment_id": "117480236",
+   "type": 11,
+   "heading": "Artigo 44.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Prazos\n\nOs prazos constantes do presente regulamento são contados nos termos previstos no artigo 72.º do Código do Procedimento Administrativo."
+  },
+  "117479492": {
+   "fragment_id": "117480237",
+   "type": 11,
+   "heading": "Artigo 45.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Norma revogatória\n\nSão revogados os artigos 1.º a 32.º e 48.º a 52.º e o n.º 6 do artigo 58.º, todos do Decreto-Lei n.º 92/90, de 17 de Março, com a redacção que lhes é dada pelos Decretos-Leis n.os 238/93, de 3 de Julho, e 256/95, de 30 de Setembro."
+  },
+  "117480141": {
+   "fragment_id": "117480186",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 206/97\n\nde 12 de Agosto\n\nO Decreto-Lei n.º 92/90, de 17 de Março, fixou as regras de ingresso na carreira de conservador e notário, instituindo designadamente um curso de extensão universitária ou, na sua falta, um curso de formação.\n\nCedo se mostrou necessário actualizar algumas das suas disposições, o que motivou a publicação do Decreto-Lei n.º 238/93, de 3 de Julho. Este diploma prevê ainda que o processo de ingresso obedeça a regulamento a aprovar por despacho do Ministro da Justiça.\n\nA experiência colhida com os cinco cursos realizados aconselha a que se introduzam algumas alterações no sistema, nomeadamente no que concerne à inclusão de um exame psicológico aos candidatos e à definição das fases eliminatórias.\n\nParece assim preferível, em lugar da inserção de tais alterações no Decreto-Lei n.º 238/93 e da regulamentação que não chegou a ser efectuada, disciplinar num só diploma toda a matéria relativa ao procedimento de ingresso na carreira de conservador e notário, adaptando-a às normas do Código do Procedimento Administrativo e aproximando-a, na medida do aplicável, do regime geral de recrutamento e selecção de pessoal para a Administração Pública.\n\nO presente diploma foi objecto de audição, nos termos da lei, da Associação Sindical de Conservadores dos Registos, da Associação Portuguesa de Notários e do Sindicato dos Trabalhadores dos Registos e do Notariado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "117479496": {
+   "fragment_id": "117480206",
+   "type": 11,
+   "heading": "Artigo 17.º — Auditores dos registos e do notariado",
+   "in_force_from": "1997-08-17",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-E/97 - Diário da República n.º 226/1997, 2º Suplemento, Série I-A de 1997-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-e-1997-232766), em vigor a partir de 1997-08-17"
+   ],
+   "markdown": "###### Artigo 17.º — Auditores dos registos e do notariado\n\n1 - Os candidatos admitidos ao curso de extensão universitária ou de formação e ao estágio subsequente são considerados auditores dos registos e do notariado.\n\n2 - Os auditores são admitidos por contrato administrativo de provimento e estão sujeitos aos direitos, deveres e incompatibilidades dos conservadores e notários, sendo-lhes vedado exercer actividades de advogado ou de solicitador ou frequentar os respectivos estágios.\n\n3 - Os auditores recebem um subsídio mensal de formação igual a 90% do ordenado correspondente ao escalão de ingresso na 3.ª classe pessoal da carreira de conservador e notário.\n\n4 - Os auditores que sejam funcionários da Administração Pública frequentam o curso de extensão universitária ou o curso de formação e o estágio subsequente em regime de comissão de serviço extraordinária e podem optar pela remuneração do lugar de origem.\n\n5 - Em caso de exclusão ou de desistência, finda automaticamente a comissão de serviço extraordinária dos auditores, retomando estes os seus anteriores cargos ou funções.\n\n6 - Os auditores podem inscrever-se nos Serviços Sociais do Ministério da Justiça se não forem beneficiários de outro sistema de segurança social.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-E/97 - Diário da República n.º 226/1997, 2º Suplemento, Série I-A de 1997-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-e-1997-232766), em vigor a partir de 1997-08-17"
+  },
+  "117479497": {
+   "fragment_id": "117480226",
+   "type": 11,
+   "heading": "Artigo 35.º — Direitos, deveres e incompatibilidades dos adjuntos",
+   "in_force_from": "1998-08-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 238/98 - Diário da República n.º 179/1998, Série I-A de 1998-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1998-431468), em vigor a partir de 1998-08-10"
+   ],
+   "markdown": "###### Artigo 35.º — Direitos, deveres e incompatibilidades dos adjuntos\n\n1 - Os adjuntos de conservador ou notário mantêm, conforme os casos, o regime de contrato administrativo de provimento ou de comissão de serviço extraordinária e estão sujeitos aos direitos, deveres e incompatibilidades dos conservadores e notários, sendo-lhes vedado exercer as actividades de advogado e de solicitador ou frequentar os respectivos estágios.\n\n2 - Os adjuntos auferem 90% da remuneração global mínima de conservador ou notário de 3.ª classe em lugar da mesma classe e têm direito aos emolumentos previstos no artigo 137.º, n.º 1, do Decreto Regulamentar n.º 55/80, de 8 de Outubro.\n\n3 - Os adjuntos executam o serviço que lhes for distribuído pelo respectivo conservador ou notário, sob cuja direcção actuam.\n\n4 - Não podem constituir objecto da distribuição referida no número anterior as decisões dos processos que, nos termos do Código do Registo Civil, são da exclusiva competência do conservador.\n\n> Alterado pelo/a [Decreto-Lei n.º 238/98 - Diário da República n.º 179/1998, Série I-A de 1998-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1998-431468), em vigor a partir de 1998-08-10"
+  },
+  "117479493": {
+   "fragment_id": "117480238",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 23 de Julho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 28 de Julho de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "117479499": {
+   "fragment_id": "117480187",
+   "type": 8,
+   "heading": "Secção I — Ingresso",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "#### Secção I — Ingresso\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479500": {
+   "fragment_id": "117480188",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente diploma regula o procedimento de ingresso na carreira de conservador e notário.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479501": {
+   "fragment_id": "117480189",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de admissão",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Condições de admissão\n\nSão condições de admissão ao procedimento de ingresso:\n\na) Ser licenciado em Direito por universidade portuguesa ou possuir habilitação académica equivalente à face da lei portuguesa;\n\nb) Preencher os requisitos gerais para ingresso na função pública.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479502": {
+   "fragment_id": "117480190",
+   "type": 11,
+   "heading": "Artigo 3.º — Fases do procedimento de ingresso",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Fases do procedimento de ingresso\n\n1 - O procedimento de ingresso integra as seguintes fases:\n\na) Provas de aptidão;\n\nb) Curso de extensão universitária ou de formação;\n\nc) Estágio;\n\nd) Provas finais.\n\n2 - Todas as fases são eliminatórias.\n\n3 - São dispensados das fases referidas nas alíneas a) e b) do n.º 1 os doutores em Direito.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479503": {
+   "fragment_id": "117480191",
+   "type": 11,
+   "heading": "Artigo 4.º — Aviso de abertura",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Aviso de abertura\n\nA Direcção-Geral dos Registos e do Notariado (DGRN) faz publicar no Diário da República aviso de abertura do procedimento de ingresso do qual constam, designadamente:\n\na) As condições de admissão ao procedimento;\n\nb) As fases do procedimento, com indicação de que todas as fases são eliminatórias, e a data prevista para o seu início;\n\nc) O número de candidatos a admitir, com e sem vínculo à função pública;\n\nd) A forma e o prazo para apresentação das candidaturas;\n\ne) A entidade à qual devem ser dirigidos os requerimentos e respectivo endereço;\n\nf) A composição do júri do procedimento;\n\ng) A especificação dos métodos de selecção a utilizar nas provas de aptidão, com menção de que cada um deles é eliminatório;\n\nh) O programa das provas de conhecimentos e a bibliografia aconselhada;\n\ni) A indicação de que o procedimento de ingresso se rege pelo presente diploma.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479504": {
+   "fragment_id": "117480192",
+   "type": 11,
+   "heading": "Artigo 5.º — Listas de candidatos",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Listas de candidatos\n\n1 - Encerrado o prazo para apresentação dos requerimentos, é publicada no Diário da República a lista dos candidatos admitidos ao procedimento de ingresso e a dos excluídos, com indicação sucinta dos motivos da exclusão, bem como a data e o local de realização das provas de conhecimentos e a composição dos júris referidos nos n.os 2 ou 3 do artigo 6.º, consoante o caso, e ainda a menção de que se não houver recursos a lista se converte em definitiva.\n\n2 - Os candidatos excluídos podem recorrer para o Ministro da Justiça no prazo de 15 dias.\n\n3 - Decididos os recursos, é publicado no Diário da República aviso a confirmar ou a alterar as listas anteriormente publicadas.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479505": {
+   "fragment_id": "117480193",
+   "type": 11,
+   "heading": "Artigo 6.º — Júris",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Júris\n\n1 - O júri do procedimento de ingresso é constituído pelo director-geral dos Registos e do Notariado - adiante designado por director-geral -, que preside, e por quatro vogais nomeados pelo Ministro da Justiça de entre membros do Conselho Técnico e pessoal dirigente da DGRN, sem prejuízo do disposto nos números seguintes.\n\n2 - As provas de conhecimentos destinadas ao curso de extensão universitária são avaliadas por júri próprio constituído pelo director-geral, que preside, por dois docentes da faculdade de direito que tiver a seu cargo a realização do curso de extensão universitária, pelo subdirector-geral com a tutela da Direcção de Serviços Jurídicos e por três vogais do Conselho Técnico.\n\n3 - As provas de conhecimentos destinadas ao curso de formação são avaliadas por júri próprio constituído nos termos do número anterior, com excepção dos docentes da faculdade de direito.\n\n4 - Os membros dos júris referidos nos n.os 2 e 3 são designados pelo Ministro da Justiça, sob proposta do director-geral, exceptuados os docentes da faculdade de direito.\n\n5 - Os membros do júri docentes da faculdade de direito são designados pelo órgão directivo da faculdade.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479506": {
+   "fragment_id": "117480194",
+   "type": 8,
+   "heading": "Secção II — Provas de aptidão",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "#### Secção II — Provas de aptidão\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479507": {
+   "fragment_id": "117480195",
+   "type": 11,
+   "heading": "Artigo 7.º — Métodos de selecção",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Métodos de selecção\n\n1 - Nas provas de aptidão são utilizados, com carácter eliminatório, os seguintes métodos de selecção:\n\na) Provas de conhecimentos;\n\nb) Exame psicológico.\n\n2 - As provas de conhecimentos consistem em provas escritas sobre matérias de direito privado relacionadas com os registos e o notariado.\n\n3 - O programa das provas de conhecimentos é aprovado por despacho do Ministro da Justiça.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479508": {
+   "fragment_id": "117480196",
+   "type": 11,
+   "heading": "Artigo 8.º — Classificação das provas de conhecimentos",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Classificação das provas de conhecimentos\n\n1 - Efectuadas as provas de conhecimentos, o júri referido nos n.os 2 ou 3 do artigo 6.º, consoante o caso, classifica os candidatos de acordo com um processo valorimétrico de 0 a 20, conforme parâmetros previamente fixados em acta, e faz afixar na sede da DGRN a pauta com os resultados.\n\n2 - A DGRN faz publicar no Diário da República aviso de informação sobre a data em que a pauta foi afixada e a partir da qual pode ser consultada.\n\n3 - Da classificação referida no n.º 1 cabe recurso para o Ministro da Justiça, a interpor no prazo de 15 dias, devendo a decisão ser proferida em igual prazo.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479509": {
+   "fragment_id": "117480197",
+   "type": 11,
+   "heading": "Artigo 9.º — Exame psicológico",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Exame psicológico\n\n1 - São submetidos a exame psicológico, nos termos da lei geral, os candidatos com classificação não inferior a 9,5 valores.\n\n2 - Aos resultados do exame psicológico são atribuídas as menções de Favorável preferencialmente, Bastante favorável, Favorável, Favorável com reservas e Não favorável.\n\n3 - São eliminados do procedimento de ingresso os candidatos com menção de Não favorável.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479510": {
+   "fragment_id": "117480198",
+   "type": 11,
+   "heading": "Artigo 10.º — Faltas",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Faltas\n\n1 - Os candidatos que não compareçam às provas de conhecimentos podem justificar a falta, perante o director-geral, nas vinte e quatro horas seguintes.\n\n2 - Se a falta for considerada justificada, é designado novo dia para a realização das provas.\n\n3 - Não é permitido faltar a mais de um dia de provas.\n\n4 - A falta de justificação, bem como a falta à segunda marcação, implica a exclusão automática do candidato.\n\n5 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, ao exame psicológico.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479511": {
+   "fragment_id": "117480199",
+   "type": 11,
+   "heading": "Artigo 11.º — Admissão ao curso de extensão universitária ou de formação",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Admissão ao curso de extensão universitária ou de formação\n\n1 - O júri do procedimento de ingresso, face aos resultados das provas de aptidão, elabora a lista dos candidatos admitidos à frequência do curso de extensão universitária ou do curso de formação, pela ordem seguinte:\n\na) Candidatos graduados nas provas de conhecimentos com classificação não inferior a 9,5 valores, preferindo, em caso de igualdade de classificação, os candidatos com menção no exame psicológico sucessivamente de Favorável preferencialmente, Bastante favorável e Favorável;\n\nb) Candidatos graduados nas provas de conhecimentos com classificação não inferior a 9,5 valores, com menção no exame psicológico de Favorável com reservas, pela ordem da classificação.\n\n2 - Os candidatos não vinculados à função pública são graduados até atingirem o número de vagas descongeladas acrescido de 15%, sendo excluídos os que excederem este número.\n\n3 - Os candidatos vinculados à função pública admitidos ao curso de extensão universitária ou de formação são os que forem graduados dentro do número de vagas anunciadas no aviso de abertura do concurso para concorrentes com vínculo à função pública.\n\n4 - Em caso de igualdade de condições, serão graduados, sucessivamente, os oficiais dos serviços externos dos registos e do notariado, os de maior idade e os que possuírem melhor classificação de licenciatura.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479512": {
+   "fragment_id": "117480200",
+   "type": 11,
+   "heading": "Artigo 12.º — Publicação da lista dos candidatos admitidos",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Publicação da lista dos candidatos admitidos\n\n1 - A lista dos candidatos admitidos ao curso de extensão universitária ou de formação é publicada no Diário da República.\n\n2 - Os restantes candidatos podem interpor recurso nos termos do n.º 3 do artigo 8.º\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479513": {
+   "fragment_id": "117480201",
+   "type": 11,
+   "heading": "Artigo 13.º — Validade das provas de aptidão",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Validade das provas de aptidão\n\n1 - A validade das provas de aptidão é limitada ao curso de formação ou de extensão universitária que imediatamente se lhes seguir.\n\n2 - Os candidatos que, por motivos ponderosos devidamente justificados, não possam apresentar-se à frequência do curso para que foram admitidos podem requerer ao director-geral, no prazo de 15 dias a contar da notificação da lista referida no n.º 2 do artigo seguinte, a admissão ao curso subsequente.\n\n3 - O deferimento do pedido apresentado nos termos do número anterior não dispensa os candidatos de requererem o ingresso no curso para cuja frequência tenham sido autorizados, após a publicação do aviso a que se refere o artigo 4.º, sendo de novo graduados de harmonia com os critérios constantes do artigo 11.º\n\n4 - O disposto nos n.os 2 e 3 não impede o candidato de, querendo, prestar novas provas de aptidão.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479514": {
+   "fragment_id": "117480202",
+   "type": 8,
+   "heading": "Secção III — Cursos",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "#### Secção III — Cursos\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479515": {
+   "fragment_id": "117480203",
+   "type": 11,
+   "heading": "Artigo 14.º — Curso de extensão universitária",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Curso de extensão universitária\n\n1 - O curso de extensão universitária tem a duração de seis meses, sendo a data do seu início fixada pelo director-geral, ouvidos os órgãos directivos da faculdade em que se realizar.\n\n2 - Os candidatos admitidos ao curso de extensão universitária são avisados da data do seu início por carta registada com aviso de recepção, com antecedência não inferior a 15 dias.\n\n3 - Os programas e as disciplinas a ministrar no curso são definidos em protocolo celebrado entre a DGRN e a universidade em que se realizar.\n\n4 - A avaliação dos conhecimentos é efectuada, no final do curso, por testes escritos.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479516": {
+   "fragment_id": "117480204",
+   "type": 11,
+   "heading": "Artigo 15.º — Docentes",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Docentes\n\n1 - O curso é leccionado por docentes universitários, sem prejuízo do seu estatuto de dedicação exclusiva, bem como por conservadores e notários ou especialistas de reconhecido mérito.\n\n2 - Os conservadores e notários referidos no número anterior são escolhidos pelo director-geral, ouvido o Conselho Técnico.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479517": {
+   "fragment_id": "117480205",
+   "type": 11,
+   "heading": "Artigo 16.º — Curso de formação",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Curso de formação\n\n1 - O curso de formação que substitua o curso de extensão universitária tem a duração de seis meses, sendo-lhe aplicável, com as necessárias adaptações, o disposto nos artigos anteriores.\n\n2 - As disciplinas a ministrar no curso e a forma de avaliação dos conhecimentos são definidas por despacho do Ministro da Justiça, sob proposta do director-geral, ouvido o Conselho Técnico.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479518": {
+   "fragment_id": "117480206",
+   "type": 11,
+   "heading": "Artigo 17.º — Auditores dos registos e do notariado",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-E/97 - Diário da República n.º 226/1997, 2º Suplemento, Série I-A de 1997-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-e-1997-232766), em vigor a partir de 1997-08-17"
+   ],
+   "markdown": "###### Artigo 17.º — Auditores dos registos e do notariado\n\n1 - Os candidatos admitidos ao curso de extensão universitária ou de formação e ao estágio subsequente são considerados auditores dos registos e do notariado.\n\n2 - Os auditores são admitidos por contrato administrativo de provimento e estão sujeitos aos direitos, deveres e incompatibilidades dos conservadores e notários, sendo-lhes vedado exercer actividades de advogado ou de solicitador ou frequentar os respectivos estágios.\n\n3 - Os auditores recebem um subsídio mensal de formação igual a 90% do ordenado correspondente ao escalão de ingresso na 3.ª classe pessoal da carreira de conservador e notário.\n\n4 - Os auditores que sejam funcionários da Administração Pública frequentam o curso de extensão universitária ou o curso de formação e o estágio subsequente em regime de comissão de serviço extraordinária e podem optar pela remuneração do lugar de origem.\n\n5 - Em caso de exclusão ou de desistência, finda automaticamente a comissão de serviço extraordinária dos auditores, retomando estes os seus anteriores cargos ou funções.\n\n6 - Os auditores podem inscrever-se nos Serviços Sociais do Ministério da Justiça se não forem beneficiários de outro sistema de segurança social.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-E/97 - Diário da República n.º 226/1997, 2º Suplemento, Série I-A de 1997-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-e-1997-232766), em vigor a partir de 1997-08-17"
+  },
+  "117479519": {
+   "fragment_id": "117480207",
+   "type": 11,
+   "heading": "Artigo 18.º — Faltas e férias",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Faltas e férias\n\n1 - O limite global máximo de faltas a cada disciplina que, durante o curso de extensão universitária ou de formação, os auditores podem atingir é o de duas vezes o número semanal de aulas dessa disciplina.\n\n2 - A ultrapassagem do limite fixado no número anterior implica a perda da frequência do curso, salvo razões excepcionais a ponderar, em cada caso, pelo director-geral mediante pedido de justificação das faltas a apresentar pelo auditor na DGRN no prazo de quarenta e oito horas.\n\n3 - As férias a que os auditores tenham direito são obrigatoriamente gozadas entre o termo do curso de extensão universitária ou do curso de formação e o início do estágio.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479520": {
+   "fragment_id": "117480208",
+   "type": 8,
+   "heading": "Secção IV — Estágio",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "#### Secção IV — Estágio\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479521": {
+   "fragment_id": "117480209",
+   "type": 11,
+   "heading": "Artigo 19.º — Duração e objectivos",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Duração e objectivos\n\n1 - Findo qualquer dos cursos com aproveitamento, os auditores dos registos e do notariado são admitidos à realização do estágio, com a duração de 12 meses, sob orientação de conservadores e notários formadores.\n\n2 - As áreas funcionais em que é realizada cada fase do estágio, bem como a duração de cada fase e as respectivas precedências, são fixadas por despacho do director-geral.\n\n3 - O estágio visa proporcionar uma formação adequada, em especial de carácter prático, ao exercício das funções de conservadores e notários.\n\n4 - Os auditores executam as tarefas que lhes forem distribuídas e procedem ao estudo das questões de natureza teórica que lhes forem indicadas pelo formador.\n\n5 - Os formadores são designados por despacho do director-geral de entre conservadores e notários classificados pelo menos de Bom com distinção.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479522": {
+   "fragment_id": "117480210",
+   "type": 11,
+   "heading": "Artigo 20.º — Realização do estágio",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Realização do estágio\n\n1 - A relação das conservatórias e cartórios notariais onde pode ser realizada cada fase do estágio é publicada no Diário da República.\n\n2 - No prazo de 10 dias a contar da publicação, os auditores dos registos e do notariado devem indicar, por ordem decrescente de preferência, pelo menos cinco serviços de cada área funcional em que deva ter lugar cada fase do estágio.\n\n3 - A colocação dos estagiários obedece, sucessivamente, aos critérios de melhor aproveitamento no curso, melhor classificação nas provas de aptidão e situação familiar.\n\n4 - No caso de as conservatórias e cartórios indicados pelo auditor já terem sido preenchidos por outros auditores que lhe devam preferir em razão dos critérios referidos no número anterior, ou no caso de tais serviços deixarem de ter condições para ministrar formação, deve o auditor ser notificado para indicar, no prazo de três dias, novas conservatórias e cartórios de entre aqueles que estiverem ainda disponíveis.\n\n5 - Se no decurso do estágio vagar o lugar de conservador ou notário formador, ou se este não puder prestar o necessário acompanhamento, o auditor é transferido, com o seu acordo, para serviço próximo que reúna condições para o estágio, sem prejuízo de o formador cessante dever prestar informação sobre o aproveitamento, até então, do auditor.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479523": {
+   "fragment_id": "117480211",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime de estágio",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Regime de estágio\n\n1 - Os auditores dos registos e do notariado são colocados por despacho do director-geral, com indicação da data de início do estágio em cada fase.\n\n2 - Os auditores iniciam o estágio perante o formador responsável pela 1.ª fase e, concluída esta, transitam para as fases subsequentes nas datas previstas no despacho referido no número anterior, sem prejuízo do disposto nos artigos seguintes.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479524": {
+   "fragment_id": "117480212",
+   "type": 11,
+   "heading": "Artigo 22.º — Frequência do estágio",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Frequência do estágio\n\n1 - Os auditores podem faltar justificadamente até ao máximo de 15 dias úteis durante o período de estágio.\n\n2 - Duas faltas injustificadas ou mais de 15 faltas justificadas determinam a perda do estágio, salvo o disposto nos números seguintes.\n\n3 - Os auditores que ultrapassem o número de faltas a que se refere o n.º 1 podem requerer ao director-geral autorização para realizarem ou completarem o estágio noutra data, fundamentando o pedido.\n\n4 - O director-geral pode autorizar o auditor a realizar ou completar o estágio em data que lhe determinar e reconhecer que as faltas foram dadas por motivos ponderosos e for possível concluí-lo até ao termo do prazo previsto no n.º 1 do artigo 28.º\n\n5 - Perdem o direito ao subsídio mensal de formação os auditores a que se refere o número anterior, salvo disposição legal em contrário.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479525": {
+   "fragment_id": "117480213",
+   "type": 11,
+   "heading": "Artigo 23.º — Suspensão do estágio",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Suspensão do estágio\n\n1 - Sempre que o auditor revelar desinteresse ou conduta incompatível com a dignidade das funções, o formador deve suspender imediatamente o estágio e propor a sua cessação, em relatório fundamentado, dirigido ao director-geral.\n\n2 - O relatório do formador é facultado ao auditor para, no prazo de 10 dias, dizer o que houver por conveniente, sendo a resposta junta ao relatório.\n\n3 - O director-geral, apreciado o relatório e documentos que o instruam, determina, mediante despacho, a cessação ou a continuação do estágio.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479526": {
+   "fragment_id": "117480214",
+   "type": 11,
+   "heading": "Artigo 24.º — Informação do estágio",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Informação do estágio\n\n1 - Os conservadores e notários formadores prestam a informação de cada fase do estágio, valorada de 0 a 20, com base nos elementos resultantes do preenchimento da ficha de informação, completada com referências concretas, positivas ou negativas, à actuação do estagiário.\n\n2 - A informação deve ainda ser acompanhada de relatório efectuado pelo estagiário e comentado pelo formador e de cópia de trabalhos que aquele tenha realizado.\n\n3 - Os elementos referidos nos números anteriores, bem como a indicação da assiduidade e da pontualidade do estagiário, devem ser remetidos à DGRN pelo conservador ou notário formador no prazo de cinco dias após o termo do estágio.\n\n4 - Findo o estágio, o júri do procedimento de ingresso atribui aos auditores a menção de Muito bom, Bom com distinção, Bom, Suficiente ou Insuficiente, com base na avaliação do curso de formação ou de extensão universitária, nos elementos resultantes da informação dos formadores, do relatório e da assiduidade e pontualidade dos estagiários.\n\n5 - São eliminados do procedimento os auditores classificados com a menção de Insuficiente.\n\n6 - A classificação do estágio é comunicada aos auditores, que dela podem recorrer para o Ministro da Justiça no prazo de 15 dias, devendo a decisão ser proferida em igual prazo.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479527": {
+   "fragment_id": "117480215",
+   "type": 11,
+   "heading": "Artigo 25.º — Complemento de formação",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Complemento de formação\n\n1 - Concluído o estágio e enquanto não se realizarem as provas finais para ingresso na carreira de conservador e notário, os auditores que tiverem obtido aproveitamento são colocados nos serviços centrais ou nas conservatórias ou cartórios constantes de relação elaborada pela DGRN.\n\n2 - Para efeitos do disposto no número anterior, os auditores devem entregar na DGRN, com 20 dias de antecedência relativamente ao termo do estágio, requerimento com a indicação, por ordem de preferência, dos serviços onde pretendem ser colocados, bem como o pedido de concessão das férias a que eventualmente tenham direito.\n\n3 - O regime de faltas e de férias dos auditores é o aplicável aos agentes da função pública.\n\n4 - O regime de comissão de serviço extraordinária dos auditores que se encontrem nesta situação considera-se automaticamente prorrogado.\n\n5 - A falta do requerimento a que se refere o n.º 2 implica a rescisão do contrato ou o fim do regime de comissão de serviço extraordinária, com efeitos a partir do termo do estágio.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479528": {
+   "fragment_id": "117480216",
+   "type": 8,
+   "heading": "Secção V — Provas finais",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "#### Secção V — Provas finais\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479529": {
+   "fragment_id": "117480217",
+   "type": 11,
+   "heading": "Artigo 26.º — Natureza das provas finais",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Natureza das provas finais\n\nAs provas finais são escritas e orais e destinam-se a apreciar, em especial, a preparação e a capacidade dos candidatos para o exercício das funções de conservador e notário e a permitir a graduação do mérito relativo dos concorrentes.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479530": {
+   "fragment_id": "117480218",
+   "type": 11,
+   "heading": "Artigo 27.º — Admissão às provas finais",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Admissão às provas finais\n\n1 - Os auditores dos registos e do notariado com aproveitamento no estágio são concorrentes obrigatórios às primeiras provas finais que se realizem após o termo daquele.\n\n2 - Aos auditores que não se apresentarem às provas finais fica rescindido o contrato ou finda a comissão de serviço extraordinária, salvo se forem admitidos à segunda chamada a que se refere o artigo 31.º\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479531": {
+   "fragment_id": "117480219",
+   "type": 11,
+   "heading": "Artigo 28.º — Prazo das provas finais",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 28.º — Prazo das provas finais\n\n1 - As provas finais de ingresso na carreira de conservador e notário devem realizar-se nos seis meses posteriores ao termo do estágio.\n\n2 - A realização das provas é publicitada mediante aviso publicado pela DGRN no Diário da República com 30 dias, pelo menos, de antecedência sobre a data da sua realização.\n\n3 - O aviso contém o programa geral das provas, bem como a data, local e duração de cada prova escrita.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479532": {
+   "fragment_id": "117480220",
+   "type": 11,
+   "heading": "Artigo 29.º — Provas escritas",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Provas escritas\n\n1 - As provas escritas são em número de quatro, consistindo na resolução de questões práticas, respectivamente, de registo civil, de registo predial ou comercial, de notariado, com aplicação das respectivas tabelas emolumentares, e de organização e gestão de serviços públicos, designadamente dos registos e do notariado.\n\n2 - As provas escritas são classificadas de 0 a 20 valores.\n\n3 - Os auditores com média inferior a 5 valores numa das provas escritas ou com média aritmética no conjunto destas provas inferior a 8 valores são excluídos.\n\n4 - Os auditores excluídos podem recorrer para o Ministro da Justiça, no prazo de 15 dias, devendo a decisão ser proferida em igual prazo.\n\n5 - Os auditores com média aritmética no conjunto das provas escritas igual ou superior a 12 valores são dispensados das provas orais.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479533": {
+   "fragment_id": "117480221",
+   "type": 11,
+   "heading": "Artigo 30.º — Provas orais",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Provas orais\n\n1 - As provas orais consistem na resposta a questões sobre as matérias referidas no artigo anterior e têm, em princípio, a duração de quinze minutos para cada um dos temas.\n\n2 - Os auditores referidos no n.º 5 do artigo anterior podem solicitar a sua admissão às provas orais no prazo de quarenta e oito horas após a afixação das classificações das provas escritas.\n\n3 - As provas orais têm início quatro dias após a afixação da classificação das provas escritas.\n\n4 - Os resultados das provas orais são valorados de 0 a 20.\n\n5 - A classificação final dos auditores que prestarem provas orais é a obtida nestas, ponderada a classificação da prova escrita.\n\n6 - Os auditores excluídos podem recorrer nos termos do n.º 4 do artigo anterior.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479534": {
+   "fragment_id": "117480222",
+   "type": 11,
+   "heading": "Artigo 31.º — Segunda chamada",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Segunda chamada\n\n1 - No prazo de 30 dias a contar da afixação das classificações finais poderá realizar-se uma segunda chamada, à qual são admitidos os auditores que não tenham comparecido às provas referidas no artigo anterior e hajam requerido a justificação da falta nos termos do n.º 1 do artigo 10.º, se o director-geral reconhecer que a não apresentação foi devida a motivos ponderosos.\n\n2 - À segunda chamada podem ainda ser admitidos os auditores aprovados na primeira chamada que pretendam melhorar a sua classificação.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479535": {
+   "fragment_id": "117480223",
+   "type": 11,
+   "heading": "Artigo 32.º — Júri das provas finais",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — Júri das provas finais\n\nO júri das provas finais é o júri do procedimento de ingresso a que se refere o n.º 1 do artigo 6.º\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479536": {
+   "fragment_id": "117480224",
+   "type": 11,
+   "heading": "Artigo 33.º — Graduação dos auditores",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — Graduação dos auditores\n\n1 - Os auditores aprovados nas provas finais são classificados com a menção de Muito bom, Bom com distinção, Bom ou Suficiente, sendo graduados em mérito relativo pelo júri do procedimento de ingresso, dentro de cada menção, tendo em conta as classificações obtidas, sucessivamente, nas provas finais, no estágio, no curso de extensão universitária ou de formação e na licenciatura.\n\n2 - A classificação e graduação dos auditores são publicadas no Diário da República.SECÇÃO VI\n\nAdjuntos de conservador ou notário\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479537": {
+   "fragment_id": "117480225",
+   "type": 11,
+   "heading": "Artigo 34.º — Colocação",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 34.º — Colocação\n\n1 - Os auditores aprovados nas provas finais são considerados adjuntos de conservador ou notário com a publicação referida no n.º 2 do artigo anterior.\n\n2 - Os adjuntos continuam em funções nos serviços onde se encontrem, podendo ser destacados ou transferidos nos termos do artigo 36.º\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479538": {
+   "fragment_id": "117480226",
+   "type": 11,
+   "heading": "Artigo 35.º — Direitos, deveres e incompatibilidades dos adjuntos",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a [Decreto-Lei n.º 238/98 - Diário da República n.º 179/1998, Série I-A de 1998-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1998-431468), em vigor a partir de 1998-08-10"
+   ],
+   "markdown": "###### Artigo 35.º — Direitos, deveres e incompatibilidades dos adjuntos\n\n1 - Os adjuntos de conservador ou notário mantêm, conforme os casos, o regime de contrato administrativo de provimento ou de comissão de serviço extraordinária e estão sujeitos aos direitos, deveres e incompatibilidades dos conservadores e notários, sendo-lhes vedado exercer as actividades de advogado e de solicitador ou frequentar os respectivos estágios.\n\n2 - Os adjuntos auferem 90% da remuneração global mínima de conservador ou notário de 3.ª classe em lugar da mesma classe e têm direito aos emolumentos previstos no artigo 137.º, n.º 1, do Decreto Regulamentar n.º 55/80, de 8 de Outubro.\n\n3 - Os adjuntos executam o serviço que lhes for distribuído pelo respectivo conservador ou notário, sob cuja direcção actuam.\n\n4 - Não podem constituir objecto da distribuição referida no número anterior as decisões dos processos que, nos termos do Código do Registo Civil, são da exclusiva competência do conservador.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a [Decreto-Lei n.º 238/98 - Diário da República n.º 179/1998, Série I-A de 1998-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1998-431468), em vigor a partir de 1998-08-10"
+  },
+  "117479539": {
+   "fragment_id": "117480227",
+   "type": 11,
+   "heading": "Artigo 36.º — Destacamento e transferência",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — Destacamento e transferência\n\n1 - Os adjuntos de conservador ou notário podem ser transferidos ou destacados por despacho do director-geral para os serviços centrais ou para conservatórias ou cartórios, em função da necessidade ou conveniência dos serviços.\n\n2 - Os adjuntos destacados para os serviços centrais da DGRN mantêm o direito à remuneração global que auferiam na repartição de origem, cabendo o encargo ao Cofre dos Conservadores, Notários e Funcionários de Justiça.\n\n3 - O destacamento pode cessar a qualquer momento por conveniência de serviço.\n\n4 - Os adjuntos têm direito a ajudas de custo e a despesas de transporte nos termos da lei geral.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479540": {
+   "fragment_id": "117480228",
+   "type": 11,
+   "heading": "Artigo 37.º — Reposições, obrigatoriedade de concorrer e dever de permanência na função",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 37.º — Reposições, obrigatoriedade de concorrer e dever de permanência na função\n\n1 - Os auditores que injustificadamente não completem o procedimento de ingresso previsto no presente diploma ficam obrigados a restituir ao Cofre dos Conservadores, Notários e Funcionários de Justiça a totalidade das remunerações que tiverem auferido.\n\n2 - O dever de restituir estabelecido no número anterior, que se circunscreve ao montante das remunerações auferidas durante o período de formação, é aplicável aos adjuntos quando injustificadamente não concorram às vagas abertas no ano subsequente à realização das provas finais ou não tomem posse do lugar para que foram nomeados.\n\n3 - Os adjuntos e os conservadores ou notários que, sem motivo atendível, requeiram a exoneração ou licença sem vencimento de longa duração antes de decorridos três anos sobre a sua primeira nomeação ficam obrigados a restituir ao Cofre dos Conservadores, Notários e Funcionários de Justiça a totalidade das remunerações auferidas durante o período de formação.\n\n4 - Nos casos referidos nos números anteriores será rescindido o vínculo à DGRN.\n\n5 - As restituições referidas no presente artigo podem efectuar-se em prestações de número não superior a 12, no prazo máximo de três anos.\n\n6 - As provas finais são válidas por cinco anos, podendo a sua validade ser prorrogada anualmente por despacho do director-geral, a requerimento do interessado, sempre que o adjunto se mantenha nesta situação funcional por motivos que lhe não sejam imputáveis.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479541": {
+   "fragment_id": "117480229",
+   "type": 8,
+   "heading": "Secção VII — Disposições finais",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "#### Secção VII — Disposições finais\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479542": {
+   "fragment_id": "117480230",
+   "type": 11,
+   "heading": "Artigo 38.º — Remuneração de docentes conservadores e notários",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 38.º — Remuneração de docentes conservadores e notários\n\nOs conservadores e notários, enquanto exercerem funções docentes nos termos do artigo 15.º, têm direito a uma remuneração mensal correspondente ao número de horas leccionadas nesse mês a multiplicar pelo valor da remuneração horária, para o efeito fixada anualmente por despacho do Ministro da Justiça, acrescida de ajudas de custo e despesas de transporte, quando exerçam funções fora da localidade onde o curso é ministrado.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479543": {
+   "fragment_id": "117480231",
+   "type": 11,
+   "heading": "Artigo 39.º — Subsídio para formação",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 39.º — Subsídio para formação\n\nOs formadores referidos no artigo 19.º têm direito, na fase de estágio efectuada sob a sua orientação, a um subsídio mensal, a fixar anualmente por despacho do Ministro da Justiça.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479544": {
+   "fragment_id": "117480232",
+   "type": 11,
+   "heading": "Artigo 40.º — Júris",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Júris\n\nOs membros dos júris têm direito a uma gratificação individual final, fixada por despacho do Ministro da Justiça em função do número de candidatos em prova.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479545": {
+   "fragment_id": "117480233",
+   "type": 11,
+   "heading": "Artigo 41.º — Cooperação com países de língua oficial portuguesa",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 41.º — Cooperação com países de língua oficial portuguesa\n\nSem prejuízo das necessidades dos serviços, pode ser aditada uma quota de lugares nos cursos previstos neste diploma reservada a licenciados em Direito originários de países de língua oficial portuguesa, em termos a acordar em protocolo.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479546": {
+   "fragment_id": "117480234",
+   "type": 11,
+   "heading": "Artigo 42.º — Protocolo entre o Ministério da Justiça e a universidade",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 42.º — Protocolo entre o Ministério da Justiça e a universidade\n\nNo protocolo referido no n.º 3 do artigo 14.º são estabelecidos os termos da comparticipação financeira do Ministério da Justiça nos encargos que resultem para a universidade da realização do curso de extensão universitária.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479547": {
+   "fragment_id": "117480235",
+   "type": 11,
+   "heading": "Artigo 43.º — Despesas",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 43.º — Despesas\n\nAs despesas resultantes da aplicação do presente diploma ficam a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479548": {
+   "fragment_id": "117480236",
+   "type": 11,
+   "heading": "Artigo 44.º — Prazos",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 44.º — Prazos\n\nOs prazos constantes do presente regulamento são contados nos termos previstos no artigo 72.º do Código do Procedimento Administrativo.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479549": {
+   "fragment_id": "117480237",
+   "type": 11,
+   "heading": "Artigo 45.º — Norma revogatória",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 45.º — Norma revogatória\n\nSão revogados os artigos 1.º a 32.º e 48.º a 52.º e o n.º 6 do artigo 58.º, todos do Decreto-Lei n.º 92/90, de 17 de Março, com a redacção que lhes é dada pelos Decretos-Leis n.os 238/93, de 3 de Julho, e 256/95, de 30 de Setembro.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  },
+  "117479550": {
+   "fragment_id": "117480238",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-12-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 23 de Julho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 28 de Julho de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01"
+  }
+ }
+}

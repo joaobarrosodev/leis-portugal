@@ -1,0 +1,769 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:221329:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-993077677",
+ "dre_path": "/dr/detalhe/decreto-lei/40-2003-221329",
+ "source_lastmod": "2026-01-06",
+ "versions": [
+  {
+   "date": "2003-03-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "993072875",
+    "993072876",
+    "993072877",
+    "993072878",
+    "993072879",
+    "993072880",
+    "993072881",
+    "993072883",
+    "993072884",
+    "993072885",
+    "993072886",
+    "993072887",
+    "993072888",
+    "993072889",
+    "993072890",
+    "993072891",
+    "993072892",
+    "993072893",
+    "993072894",
+    "993072895",
+    "993072896",
+    "993072897",
+    "993072898",
+    "993072899",
+    "993072900",
+    "993072901",
+    "993072902",
+    "993072903",
+    "993072904",
+    "993072905"
+   ]
+  },
+  {
+   "date": "2007-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:627802:por",
+     "title": "Decreto-Lei n.º 392/2007",
+     "published": "2007-12-27",
+     "dre_path": "/dr/detalhe/decreto-lei/392-2007-627802"
+    }
+   ],
+   "changes": [
+    "Adita Capítulo III",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Adita Artigo 24.º",
+    "Adita Artigo 25.º",
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "993072875",
+    "993072876",
+    "993072932",
+    "993072878",
+    "993072879",
+    "993072880",
+    "993072881",
+    "993072882",
+    "993072883",
+    "993072884",
+    "993072885",
+    "993072886",
+    "993072887",
+    "993072888",
+    "993072889",
+    "993072890",
+    "993072891",
+    "993072892",
+    "993072893",
+    "993072894",
+    "993072895",
+    "993072896",
+    "993072897",
+    "993072898",
+    "993072899",
+    "993072900",
+    "993072901",
+    "993072902",
+    "993072903",
+    "993072904",
+    "993072905",
+    "993072949",
+    "993072935",
+    "993072936",
+    "993072937",
+    "993072938",
+    "993072939",
+    "993072940",
+    "993072941",
+    "993072942",
+    "993072943",
+    "993072944",
+    "993072945",
+    "993072946",
+    "993072947",
+    "993072948",
+    "993072950",
+    "993072951",
+    "993072913",
+    "993072914",
+    "993072912",
+    "993072915",
+    "993072916",
+    "993072917",
+    "993072918",
+    "993072919",
+    "993072920",
+    "993072921",
+    "993072922",
+    "993072952",
+    "993072934",
+    "993072925"
+   ]
+  },
+  {
+   "date": "2009-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493687:por",
+     "title": "Decreto-Lei n.º 193/2009",
+     "published": "2009-08-17",
+     "dre_path": "/dr/detalhe/decreto-lei/193-2009-493687"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "993072875",
+    "993072876",
+    "993072932",
+    "993072878",
+    "993072879",
+    "993072880",
+    "993072881",
+    "993072882",
+    "993072883",
+    "993072884",
+    "993072885",
+    "993072886",
+    "993072887",
+    "993072888",
+    "993072889",
+    "993072890",
+    "993072891",
+    "993072892",
+    "993072893",
+    "993072894",
+    "993072895",
+    "993072896",
+    "993072897",
+    "993072898",
+    "993072899",
+    "993072900",
+    "993072901",
+    "993072902",
+    "993072903",
+    "993072904",
+    "993072905",
+    "993072949",
+    "1001144376",
+    "993072936",
+    "993072937",
+    "993072938",
+    "993072939",
+    "993072940",
+    "993072941",
+    "993072942",
+    "993072943",
+    "993072944",
+    "993072945",
+    "993072946",
+    "993072947",
+    "993072948",
+    "993072950",
+    "993072951",
+    "993072913",
+    "993072914",
+    "993072912",
+    "993072915",
+    "993072916",
+    "993072917",
+    "993072918",
+    "993072919",
+    "993072920",
+    "993072921",
+    "993072922",
+    "993072952",
+    "993072934",
+    "993072925"
+   ]
+  }
+ ],
+ "fragments": {
+  "993072875": {
+   "fragment_id": "993077678",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 40/2003\n\nde 11 de Março\n\nCom a publicação do presente diploma transpõe-se para o direito interno a Directiva n.º 2001/92/CE, da Comissão, de 30 de Outubro, que adapta ao progresso técnico a Directiva n.º 92/22/CEE, do Conselho, de 31 de Março, relativa às vidraças de segurança e aos materiais para vidraças dos veículos a motor e seus reboques, bem como a Directiva n.º 70/156/CE, de 6 de Fevereiro, relativa à homologação dos veículos a motor e seus reboques. A Directiva n.º 2001/92/CE, de 30 de Outubro, é uma das directivas específicas do procedimento de homologação CE, mencionado no Decreto-Lei n.º 72/2000, de 6 de Maio.\n\nNo que respeita aos pára-brisas, o aspecto da segurança apresenta uma importância crucial, dado que, mais do que outros vidros, estes estão sujeitos a sofrer choques violentos, quer no caso de colisões quer no caso de choques externos, podendo estar na origem de graves acidentes corporais, pelo que devem ser adoptadas soluções que garantam a segurança na circulação rodoviária.\n\nPor outro lado, simplificam-se os procedimentos de homologação, mantendo-se a alternativa entre os requisitos de determinadas directivas específicas e os regulamentos correspondentes da Comissão Económica para a Europa das Nações Unidas (CEE/NU). Os requisitos técnicos que constam da Directiva n.º 92/22/CEE, de 31 de Março, são substituídos pelos requisitos do Regulamento n.º 43 da CEE/NU, que se encontra aprovado pelo Decreto n.º 14/90, de 24 de Maio.\n\nPelo presente diploma procede-se à regulamentação do n.º 3 do artigo 114.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 2/98, de 3 de Janeiro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "993072876": {
+   "fragment_id": "993077679",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º 2001/92/CE, da Comissão, de 30 de Outubro, aprovando o Regulamento Relativo aos Vidros de Segurança e aos Materiais para Vidros dos Automóveis e Seus Reboques e respectivos anexos, cujo texto se publica em anexo ao presente diploma e dele faz parte integrante."
+  },
+  "993072877": {
+   "fragment_id": "993077680",
+   "type": 11,
+   "heading": "Artigo 2.º — Afixação de películas coloridas nos vidros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Afixação de películas coloridas nos vidros\n\n1 - É proibida a afixação de películas coloridas nos vidros dos automóveis de passageiros ou mercadorias, com excepção dos autocolantes regulamentares e de películas opacas não reflectoras nas caixas de carga dos automóveis de mercadorias.\n\n2 - A infracção ao disposto no número anterior constitui contra-ordenação punível com coima de (euro) 30 a (euro) 150.\n\n3 - Na contra-ordenação prevista no número anterior a negligência é sempre punível.\n\n4 - À contra-ordenação prevista no n.º 2 são aplicáveis as disposições do Código da Estrada para o processamento das infracções rodoviárias.\n\n5 - A aplicação da coima compete ao director-geral de Viação."
+  },
+  "993072878": {
+   "fragment_id": "993077681",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento do ponto 9.5.1.5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento do ponto 9.5.1.5\n\nÉ aditado o ponto 9.5.1.5 ao anexo I do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, com a seguinte redacção:\n\n«9.5.1.5 - Equipamento(s) complementar(es) do pára-brisas e suas localizações e breve descrição dos eventuais componentes eléctricos/electrónicos.»"
+  },
+  "993072879": {
+   "fragment_id": "993077682",
+   "type": 11,
+   "heading": "Artigo 4.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Revogação\n\nÉ revogado o anexo I da Portaria n.º 517-A/96, de 27 de Setembro, com a redacção que lhe foi dada pela Portaria n.º 1080/97, de 29 de Outubro, no que se refere aos vidros de segurança."
+  },
+  "993072880": {
+   "fragment_id": "993077683",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\n1 - A partir da entrada em vigor do presente diploma, a Direcção-Geral de Viação não concede a homologação CE e recusa a homologação nacional aos modelos de veículos que, por motivos relacionados com os tipos de vidro de segurança, não respeitem os requisitos constantes do Regulamento ora aprovado.\n\n2 - A partir de 1 de Julho de 2003, os requisitos constantes do presente Regulamento, relativos aos vidros de segurança, enquanto componentes, são aplicáveis para efeitos do disposto no artigo 22.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio.\n\n3 - Sem prejuízo do disposto no número anterior a Direcção-Geral de Viação pode, no que respeita a peças sobressalentes, conceder a homologação CE e autorizar a venda e a colocação em serviço de vidros de segurança ou de materiais para vidros dos automóveis e seus reboques, desde que se destinem a veículos já em circulação que satisfaçam os requisitos constantes da Directiva n.º 92/22/CEE."
+  },
+  "993072881": {
+   "fragment_id": "993077684",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "993072883": {
+   "fragment_id": "993077686",
+   "type": 14,
+   "heading": "Anexo — Regulamento Relativo aos Vidros de Segurança e aos Materiais para Vidros dos Automóveis e Seus Reboques",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento Relativo aos Vidros de Segurança e aos Materiais para Vidros dos Automóveis e Seus Reboques"
+  },
+  "993072884": {
+   "fragment_id": "993077687",
+   "type": 1,
+   "heading": "Capítulo I — Disposições administrativas relativas à homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições administrativas relativas à homologação CE"
+  },
+  "993072885": {
+   "fragment_id": "993077688",
+   "type": 8,
+   "heading": "Secção I — Do âmbito de aplicação e das definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do âmbito de aplicação e das definições"
+  },
+  "993072886": {
+   "fragment_id": "993077689",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente Regulamento aplica-se aos vidros de segurança e aos materiais para vidros destinados a serem instalados como pára-brisas ou outros vidros, ou como painéis de separação nos automóveis e seus reboques, bem como à respectiva instalação, exceptuando os vidros para dispositivos de iluminação e de sinalização luminosa e para o quadro de bordo, os vidros especiais que oferecem protecção contra as agressões, os pára-brisas temperados e os pára-brisas destinados a equipar veículos utilizados em meios extremos e tendo em conta uma velocidade de 40 km/h."
+  },
+  "993072887": {
+   "fragment_id": "993077690",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do disposto no presente Regulamento, entende-se por «veículo» qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, que tenha, pelo menos, quatro rodas e uma velocidade máxima, por construção, superior a 25 km/h, bem como os seus reboques, com excepção dos veículos que se deslocam sobre carris, dos tractores agrícolas e florestais e de todas as máquinas móveis.\n\n2 - As definições constam do n.º 2 do Regulamento n.º 43 da Comissão Económica para a Europa das Nações Unidas, aprovado pelo Decreto n.º 14/90, de 24 de Maio."
+  },
+  "993072888": {
+   "fragment_id": "993077691",
+   "type": 8,
+   "heading": "Secção II — Das marcas de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das marcas de homologação CE"
+  },
+  "993072889": {
+   "fragment_id": "993077692",
+   "type": 11,
+   "heading": "Artigo 3.º — Marca de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Marca de homologação CE\n\n1 - Todos os vidros de segurança, incluindo as amostras e provetes apresentados à homologação, devem apresentar a marca de fabrico ou de comércio do fabricante, devendo esta marca ser nitidamente legível, indelével e visível.\n\n2 - Para além dos elementos contidos no n.º 3 do artigo 7.º do presente Regulamento, há símbolos complementares que devem ser apostos em conformidade com o definido no Regulamento n.º 43 da Comissão Económica para a Europa das Nações Unidas."
+  },
+  "993072890": {
+   "fragment_id": "993077693",
+   "type": 8,
+   "heading": "Secção III — Das especificações gerais e especiais, ensaios e requisitos técnicos não abrangidos pelo presente Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Das especificações gerais e especiais, ensaios e requisitos técnicos não abrangidos pelo presente Regulamento"
+  },
+  "993072891": {
+   "fragment_id": "993077694",
+   "type": 11,
+   "heading": "Artigo 4.º — Especificações gerais e especiais, ensaios e requisitos técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Especificações gerais e especiais, ensaios e requisitos técnicos\n\nCom excepção das disposições que dizem respeito aos pára-brisas temperados, não abrangidos pelo presente Regulamento, as disposições relativas às especificações gerais e especiais, aos ensaios e aos requisitos técnicos são definidas pelo Regulamento n.º 43 da Comissão Económica para a Europa das Nações Unidas."
+  },
+  "993072892": {
+   "fragment_id": "993077695",
+   "type": 8,
+   "heading": "Secção IV — Do pedido de homologação CE de um tipo de componente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Do pedido de homologação CE de um tipo de componente"
+  },
+  "993072893": {
+   "fragment_id": "993077696",
+   "type": 11,
+   "heading": "Artigo 5.º — O pedido de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — O pedido de homologação CE\n\n1 - O pedido de homologação CE, nos termos dos n.os 2 e 3 do artigo 4.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, de um tipo de vidro, deve ser apresentado pelo fabricante de vidros de segurança.\n\n2 - No anexo I do presente Regulamento figura um modelo da ficha de informações.\n\n3 - Deve ser apresentada ao serviço técnico responsável pela realização dos ensaios de homologação uma quantidade suficiente de provetes ou amostras de vidros acabados dos modelos considerados, fixada, se necessário, com o serviço técnico encarregado dos ensaios."
+  },
+  "993072894": {
+   "fragment_id": "993077697",
+   "type": 8,
+   "heading": "Secção V — Do pedido de homologação CE de um modelo de veículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Do pedido de homologação CE de um modelo de veículo"
+  },
+  "993072895": {
+   "fragment_id": "993077698",
+   "type": 11,
+   "heading": "Artigo 6.º — O pedido de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — O pedido de homologação CE\n\n1 - O pedido de homologação CE, nos termos dos n.os 2 e 3 do artigo 4.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, de um modelo de veículo no que diz respeito aos seus vidros de segurança, deve ser apresentado pelo fabricante do veículo.\n\n2 - No anexo III do presente Regulamento figura um modelo da ficha de informações.\n\n3 - Deve ser apresentado ao serviço técnico responsável pela realização dos ensaios de homologação um veículo representativo do modelo, fixado, se necessário, com o serviço técnico encarregado dos ensaios."
+  },
+  "993072896": {
+   "fragment_id": "993077699",
+   "type": 8,
+   "heading": "Secção VI — Da homologação CE de um tipo de vidro de segurança ou de um modelo de veículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Da homologação CE de um tipo de vidro de segurança ou de um modelo de veículo"
+  },
+  "993072897": {
+   "fragment_id": "993077700",
+   "type": 11,
+   "heading": "Artigo 7.º — Homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Homologação CE\n\n1 - No caso de os requisitos relevantes serem satisfeitos, deve ser concedida a homologação CE em conformidade com os n.os 6 a 8 do artigo 11.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.\n\n2 - O modelo do certificado de homologação CE e suas adendas figuram:\n\na) No anexo II no que diz respeito à aplicação do n.º 1 do artigo 5.º do presente Regulamento;\n\nb) No anexo IV no que diz respeito à aplicação do n.º 1 do artigo anterior.\n\n3 - A cada tipo de vidro ou modelo de veículo homologado é atribuído um número de homologação de acordo com o anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, não podendo a Direcção-Geral de Viação atribuir o mesmo número a outro tipo de vidro ou modelo de veículo."
+  },
+  "993072898": {
+   "fragment_id": "993077701",
+   "type": 8,
+   "heading": "Secção VII — Da modificação de tipos/modelos e alteração de homologações e da conformidade da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Da modificação de tipos/modelos e alteração de homologações e da conformidade da produção"
+  },
+  "993072899": {
+   "fragment_id": "993077702",
+   "type": 11,
+   "heading": "Artigo 8.º — Modificação de tipos/modelos e alteração de homologações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Modificação de tipos/modelos e alteração de homologações\n\nNo caso de modificações do tipo/modelo homologado nos termos do presente Regulamento, aplicam-se as disposições constantes da secção III do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio."
+  },
+  "993072900": {
+   "fragment_id": "993077703",
+   "type": 11,
+   "heading": "Artigo 9.º — Conformidade da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conformidade da produção\n\nAs medidas destinadas a garantir a conformidade da produção devem ser tomadas de acordo com o disposto no artigo 32.º do Regulamento citado no artigo anterior."
+  },
+  "993072901": {
+   "fragment_id": "993077704",
+   "type": 1,
+   "heading": "Capítulo II — Prescrições de instalação dos pára-brisas nos veículos e dos vidros que não sejam pára-brisas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Prescrições de instalação dos pára-brisas nos veículos e dos vidros que não sejam pára-brisas"
+  },
+  "993072902": {
+   "fragment_id": "993077705",
+   "type": 8,
+   "heading": "Secção I — Dos pára-brisas e dos vidros que não sejam pára-brisas instalados em veículos das categorias M e N",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dos pára-brisas e dos vidros que não sejam pára-brisas instalados em veículos das categorias M e N"
+  },
+  "993072903": {
+   "fragment_id": "993077706",
+   "type": 11,
+   "heading": "Artigo 10.º — Prescrições de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prescrições de instalação\n\n1 - Os pára-brisas e os vidros que não sejam pára-brisas devem ser instalados de modo que, apesar das solicitações a que o veículo possa estar submetido nas condições normais de circulação, se mantenham no lugar e continuem a assegurar a visibilidade e a segurança dos seus ocupantes.\n\n2 - Todos os veículos a motor das categorias M e N devem ser sujeitos às verificações constantes do número seguinte.\n\n3 - O pára-brisas deve apresentar a marca de homologação CE apropriada, seguida de um dos símbolos adicionais previstos no Regulamento n.º 43 da Comissão Económica para a Europa das Nações Unidas, a última versão adoptada pela Comunidade Europeia, aprovado pelo Decreto n.º 14/90, de 24 de Maio, devendo:\n\na) O pára-brisas ter sido homologado para o tipo de veículo em que se encontra instalado;\n\nb) O pára-brisas estar correctamente instalado em relação ao ponto «R» do veículo, podendo esta verificação ser efectuada quer no veículo quer nos respectivos desenhos, à escolha do fabricante do veículo.\n\n4 - As janelas e o óculo traseiro devem apresentar a marca de homologação CE apropriada, especificada no referido Regulamento n.º 43 da Comissão Económica para a Europa das Nações Unidas.\n\n5 - As janelas laterais e o óculo traseiro através dos quais o condutor obtém o ângulo de visão anterior directa de 180º ou obtém o campo de visão indirecta por meio de retrovisores interiores e exteriores, que preencham os requisitos constantes da Directiva n.º 71/127/CEE, não devem apresentar o símbolo adicional previsto no Regulamento referido no número anterior.\n\n6 - O vidro do tecto de abrir deve apresentar a marca de homologação CE descrita no citado Regulamento, podendo os tectos de abrir apresentar o referido símbolo adicional.\n\n7 - Deve ser verificado se os vidros, que não os referidos nos números anteriores, que entrem, nomeadamente, na composição de divisórias internas, apresentam a marca de homologação CE descrita no referido Regulamento n.º 43 da Comissão Económica para a Europa das Nações Unidas, seguida, eventualmente, do símbolo complementar."
+  },
+  "993072904": {
+   "fragment_id": "993077707",
+   "type": 8,
+   "heading": "Secção II — Dos pára-brisas e dos vidros que não sejam pára-brisas instalados em veículos da categoria O",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos pára-brisas e dos vidros que não sejam pára-brisas instalados em veículos da categoria O"
+  },
+  "993072905": {
+   "fragment_id": "993077708",
+   "type": 11,
+   "heading": "Artigo 11.º — Marca de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Marca de homologação CE\n\nEm relação aos veículos da categoria O, deve-se verificar se os vidros apresentam a marca de homologação CE descrita no referido Regulamento n.º 43 da Comissão Económica para a Europa das Nações Unidas, seguida, eventualmente, do símbolo complementar."
+  },
+  "993072932": {
+   "fragment_id": "993077680",
+   "type": 11,
+   "heading": "Artigo 2.º — Afixação de películas coloridas nos vidros",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 2.º — Afixação de películas coloridas nos vidros\n\n1 - É proibida a afixação de películas coloridas nos vidros dos automóveis de passageiros ou mercadorias, com excepção dos autocolantes regulamentares e de películas opacas não reflectoras nas caixas de carga dos automóveis de mercadorias.\n\n2 - A infracção ao disposto no número anterior constitui contra-ordenação punível com coima de (euro) 30 a (euro) 150.\n\n3 - Na contra-ordenação prevista no número anterior a negligência é sempre punível.\n\n4 - À contra-ordenação prevista no n.º 2 são aplicáveis as disposições do Código da Estrada para o processamento das infracções rodoviárias.\n\n5 - A aplicação da coima compete ao director-geral de Viação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072882": {
+   "fragment_id": "993077685",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Isaltino Afonso de Morais.\n\nPromulgado em 17 de Fevereiro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Fevereiro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "993072949": {
+   "fragment_id": "993077741",
+   "type": 1,
+   "heading": "Capítulo III — Procedimentos relativos à utilização de películas plásticas coloridas não homologadas conjuntamente com os vidros",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "### Capítulo III — Procedimentos relativos à utilização de películas plásticas coloridas não homologadas conjuntamente com os vidros\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072935": {
+   "fragment_id": "993077743",
+   "type": 11,
+   "heading": "Artigo 12.º — Âmbito",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 12.º — Âmbito\n\nO presente capítulo aplica-se às películas plásticas coloridas não homologadas conjuntamente com os vidros e destinadas a serem aplicadas no lado interior de vidros homologados, em todas as janelas dos automóveis das categorias M(índice 1) e N(índice 1).\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072936": {
+   "fragment_id": "993077744",
+   "type": 11,
+   "heading": "Artigo 13.º — Definições",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 13.º — Definições\n\nPara efeitos do disposto no presente capítulo, entende-se por:\n\na) «Película plástica» a película de material plástico destinada a ser afixada na superfície de um vidro homologado de um veículo;\n\nb) «Tipo de película» as películas que não apresentam entre si diferenças essenciais no que se refere às seguintes características:\n\ni) Nome do fabricante ou designação comercial;\n\nii) Modelo;\n\niii) Processo de fabricação;\n\niv) Número de lâminas componentes que a formam;\n\nv) Espessura nominal da película;\n\nvi) Cor da película;\n\nvii) Natureza do adesivo e procedimento a utilizar para aplicar a película;\n\nviii) Substância química de composição da película;\n\nc) «Homologação» o acto através do qual a autoridade nacional competente ou de outro Estado membro da União Europeia certifica que o tipo de película satisfaz os requisitos técnicos estabelecidos no presente capítulo ou regulamento específico e foi submetido aos ensaios e controlos para tal exigidos;\n\nd) «Ensaio» a operação feita para comprovar as propriedades da película;\n\ne) «Factor de transmissão» a razão entre o fluxo energético ou o fluxo luminoso transmitido e o fluxo incidente nas condições dadas.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072937": {
+   "fragment_id": "993077745",
+   "type": 11,
+   "heading": "Artigo 14.º — Ensaios",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 14.º — Ensaios\n\n1 - As películas fabricadas em Portugal devem ser ensaiadas em laboratório acreditado no âmbito do Sistema Português da Qualidade e nos termos do Regulamento n.º 43 da Comissão Económica das Nações Unidas para a Europa, na sua última redacção.\n\n2 - Os ensaios devem ser efectuados a pedido do fabricante ou do seu representante devidamente acreditado, sendo acompanhado da documentação e das amostras seguintes:\n\na) Uma descrição técnica do processo de fabricação e do seu sistema de adesão ao vidro;\n\nb) Cinco amostras com as características constantes do regulamento referido no número anterior.\n\n3 - São admitidas amostras de vidro especialmente fabricadas para o ensaio ou amostras de vidros que já existem no mercado.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072938": {
+   "fragment_id": "993077746",
+   "type": 11,
+   "heading": "Artigo 15.º — Confidencialidade",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 15.º — Confidencialidade\n\nDeve ser assegurada a confidencialidade das informações técnicas do processo de fabricação, bem como do seu sistema de adesão ao vidro, quando não sejam do domínio público.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072939": {
+   "fragment_id": "993077747",
+   "type": 11,
+   "heading": "Artigo 16.º — Tipos de ensaios",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 16.º — Tipos de ensaios\n\n1 - As amostras de vidro, com a película afixada do lado interior, devem ser submetidas ao ensaio de fragmentação e ao ensaio de resistência ao fogo, de acordo com o disposto no Regulamento n.º 43 da Comissão Económica das Nações Unidas para a Europa.\n\n2 - Deve ser realizado um ensaio de medição relativamente ao factor de transmissão entre os ensaios a efectuar nas amostras de vidros, de modo a poder ser determinado qual o grupo de categoria a que corresponde a marca de homologação nacional, nos termos do despacho a que se refere o artigo 21.º\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072940": {
+   "fragment_id": "993077748",
+   "type": 11,
+   "heading": "Artigo 17.º — Ensaio de fragmentação",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 17.º — Ensaio de fragmentação\n\n1 - O ensaio de fragmentação deve ser efectuado em conformidade com o parágrafo 1 do anexo n.º 3 do Regulamento n.º 43 da Comissão Económica das Nações Unidas para a Europa e os critérios de aprovação e de reprovação devem ser os estabelecidos no n.º 2.6 do anexo n.º 5 do mesmo regulamento.\n\n2 - A fragmentação mencionada no número anterior não se aplica ao vidro laminado dotado de películas de plástico.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072941": {
+   "fragment_id": "993077749",
+   "type": 11,
+   "heading": "Artigo 18.º — Ensaio de resistência ao fogo",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 18.º — Ensaio de resistência ao fogo\n\nO ensaio de resistência ao fogo deve ser efectuado em conformidade com o disposto no n.º 10 do anexo n.º 3 do mesmo regulamento referido no número anterior.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072942": {
+   "fragment_id": "993077750",
+   "type": 11,
+   "heading": "Artigo 19.º — Laboratórios",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 19.º — Laboratórios\n\n1 - As películas podem ser ensaiadas em laboratórios acreditados por outro Estado membro, pela Turquia ou por um Estado subscritor do Acordo sobre o Espaço Económico Europeu.\n\n2 - São aceites os relatórios de ensaio emitidos por laboratórios acreditados por outro Estado membro, pela Turquia ou por um Estado subscritor do Acordo sobre o Espaço Económico Europeu, desde que os resultados e a natureza dos ensaios efectuados demonstrem que foi garantido um nível de protecção equivalente ao estabelecido no presente capítulo.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072943": {
+   "fragment_id": "993077751",
+   "type": 11,
+   "heading": "Artigo 20.º — Homologação",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 20.º — Homologação\n\n1 - Aos tipos de películas conformes com o presente capítulo é concedida a homologação nacional.\n\n2 - A homologação concedida nos termos do presente capítulo é válida por um período de cinco anos a contar da data da respectiva concessão.\n\n3 - Consideram-se como equivalentes à homologação nacional as homologações concedidas por outros Estados membros, válidas.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072944": {
+   "fragment_id": "993077752",
+   "type": 11,
+   "heading": "Artigo 21.º — Marca de homologação",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 21.º — Marca de homologação\n\n1 - As películas devem conter marca de homologação, a definir por despacho do presidente do Instituto da Mobilidade e dos Transportes Terrestres, I. P.\n\n2 - A marca referida no número anterior deve ser claramente legível e indelével quando a película esteja afixada no vidro.\n\n3 - As marcas de homologação concedidas por outros Estados membros constituem prova suficiente da homologação válida de um tipo de película noutro Estado membro, reconhecida como equivalente à homologação nacional.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072945": {
+   "fragment_id": "993077753",
+   "type": 11,
+   "heading": "Artigo 22.º — Especificações de instalação",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 22.º — Especificações de instalação\n\n1 - As películas não podem ser afixadas em vidros de veículos que estejam marcados como 'saída de emergência', ou qualquer outra marca de significado equivalente.\n\n2 - A afixação de película no vidro à retaguarda do veículo implica, para todos os veículos em utilização, a obrigatoriedade de instalação de dois espelhos retrovisores exteriores, um à esquerda e outro à direita do condutor, homologados nos termos do Regulamento Relativo à Homologação de Dispositivos para Visão Indirecta e de Veículos Equipados com Estes Dispositivos, aprovado pelo Decreto-Lei n.º 215/2004, de 25 de Agosto, com a última redacção conferida pelo Decreto-Lei n.º 191/2005, de 7 de Novembro.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072946": {
+   "fragment_id": "993077754",
+   "type": 11,
+   "heading": "Artigo 23.º — Controlo das condições de visibilidade",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 23.º — Controlo das condições de visibilidade\n\nAs condições de visibilidade em que permanecem as películas devem ser objecto de comprovação nas inspecções técnicas periódicas, nomeadamente a verificação da existência de bolhas de ar ou o descolar da película do vidro, que comprometam as condições de visibilidade do condutor.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072947": {
+   "fragment_id": "993077755",
+   "type": 11,
+   "heading": "Artigo 24.º — Factor de transmissão",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 24.º — Factor de transmissão\n\nO factor de transmissão regular das amostras de vidro, com película colorida afixada do lado interior, medido de fora para dentro, não deve ser:\n\na) Inferior a 75 % para os pára-brisas;\n\nb) Inferior a 70 %, no caso de vidros não destinados a pára-brisas, à frente do pilar B.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072948": {
+   "fragment_id": "993077756",
+   "type": 11,
+   "heading": "Artigo 25.º — Averbamento",
+   "in_force_from": "2007-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 25.º — Averbamento\n\n1 - A afixação de películas nos vidros é considerada como uma transformação das características do veículo.\n\n2 - A circulação de veículos com afixação de películas nos vidros fica condicionada à aprovação do veículo em inspecção extraordinária a realizar num centro de inspecção técnica de veículos (CITV) da categoria B.\n\n3 - Os veículos que tenham películas afixadas nos vidros devem ter essa indicação expressa no certificado de matrícula.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  },
+  "993072950": {
+   "fragment_id": "993077713",
+   "type": 14,
+   "heading": "Anexo I — Ficha de informações n.º ... relativa à homologação CE de vidros de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Ficha de informações n.º ... relativa à homologação CE de vidros de segurança\n\n(a que se refere o n.º 2 do artigo 5.º do Regulamento)\n\nDirectiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE, da Comissão\n\nAs informações seguintes, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente.\n\n0 - Generalidades:\n\n0.1 - Marca(s) depositada(s) do fabricante: ...\n\n0.2 - Tipo: ...\n\n0.2.1 - Eventual denominação comercial: ...\n\n0.3 - Meios de identificação do tipo, se indicado no vidro (ver nota 1): ...\n\n0.4 - Categoria do veículo (ver nota 2): ...\n\n0.5 - Nome e morada do fabricante: ...\n\n0.7 - Localização e método de fixação da marca de homologação CE: ...\n\n0.8 - Morada(s) do(s) local(is) de fabrico: ...\n\n1 - Pára-brisas e outros vidros - desenho(s) suficientemente pormenorizado(s) para permitir a identificação do tipo de dispositivo e que mostre:\n\n1.1 - No que diz respeito aos vidros de vidro temperado que não sejam pára-brisas:\n\n1.1.1 - A área máxima: ...\n\n1.1.2 - O ângulo mais pequeno entre dois lados adjacentes do vidro: ...\n\n1.1.3 - A maior altura de segmento, se for caso disso: ...\n\n1.2 - No que diz respeito aos pára-brisas - um plano à escala 1:1, eventualmente 1:10, para os veículos que não sejam da categoria M(índice 1), ou um esquema pormenorizado que mostra:\n\n1.2.1 - A posição do pára-brisas em relação ao ponto «R» do banco do condutor, se for caso disso: ...\n\n1.2.2 - O ângulo de inclinação do pára-brisas: ...\n\n1.2.3 - O ângulo de inclinação do encosto do banco, se aplicável: ...\n\n1.2.4 - A posição e a dimensão das zonas nas quais é efectuado o controlo das qualidades ópticas (ver nota 3):...\n\n1.2.5 - A área planificada do pára-brisas: ...\n\n1.2.6 - A altura máxima do segmento do pára-brisas: ...\n\n1.2.7 - A curvatura do pára-brisas: ...\n\n1.2.8 - Fornecer a lista dos modelos de veículos para os quais a homologação é pedida, indicando o nome dos fabricantes dos veículos bem como o modelo e a categoria dos veículos: ...\n\n1.3 - No que diz respeito aos vidros duplos:\n\n1.3.1 - O tipo de cada um dos vidros constitutivos: ...\n\n1.3.2 - O tipo de colagem (orgânica, vidro-vidro ou vidro-metal): ...\n\n1.3.3 - A espessura nominal do espaço entre os dois vidros: ...\n\n1.4 - Material utilizado:\n\n1.4.1 - Natureza do(s) material(is): ...\n\n1.4.2 - Coloração do ou dos intercalares: ...\n\n1.4.3 - Coloração do(s) revestimento(s) plástico(s): ...\n\n1.4.4 - Coloração do vidro: ...\n\n1.4.5 - Condutores eléctricos incorporados: ...\n\n1.4.6 - Faixas de obscurecimento: ...\n\n1.4.7 - Nome químico do plástico: ...\n\n1.4.8 - Coloração do plástico: ...\n\n1.4.9 - Processo de fabrico (plástico): ...\n\n(nota 1) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica para este certificado de homologação, tais caracteres devem ser apresentados na documentação por meio do símbolo «?» (por exemplo: ABC??123??).\n\n(nota 2) Conforme definida na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.\n\n(nota 3) Alguns pára-brisas «envolventes» podem conter montantes fictícios de tejadilho. Neste caso, estes últimos são marcados por serigrafia."
+  },
+  "993072951": {
+   "fragment_id": "993077714",
+   "type": 14,
+   "heading": "Anexo II — Certificados de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Certificados de homologação CE\n\n[a que se refere a alínea a) do n.º 2 do artigo 7.º do Regulamento]"
+  },
+  "993072913": {
+   "fragment_id": "993077716",
+   "type": 4,
+   "heading": "Modelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Modelo\n\n[formato máximo: A4 (210 mm x 297 mm)]\n\nCertificado de homologação CE\n\n[Carimbo da autoridade administrativa]\n\nComunicação relativa à:\n\nHomologação (ver nota 1);\n\nExtensão da homologação (ver nota 1);\n\nRecusa da homologação (ver nota 1);\n\nRevogação da homologação (ver nota 1);\n\nde um modelo/tipo (ver nota 1) de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nNúmero de homologação: ...\n\nRazão da extensão: ...\n\nSecção I:\n\n0.1 - Marca(s) depositada(s) do fabricante: ...\n\n0.2 - Modelo/tipo (ver nota 1): ...\n\n0.3 - Meios de identificação do modelo/tipo (ver nota 1), se marcados no veículo/componente/unidade técnica (ver nota 1): ...\n\n0.4 - Categoria do veículo (ver nota 2): ...\n\n0.5 - Nome e morada do fabricante: ...\n\n0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...\n\n0.8 - Morada(s) do(s) local(is) de fabrico: ...\n\nSecção II:\n\n1 - Informações adicionais: (V. adenda.)\n\n2 - Serviço técnico responsável pela execução dos ensaios: ...\n\n3 - Data do relatório de ensaio: ...\n\n4 - Número do relatório de ensaio: ...\n\n5 - Eventuais observações: (V. adenda.)\n\n6 - Local: ...\n\n7 - Data: ...\n\n8 - Assinatura: ...\n\n9 - Está anexado o índice do dossier de homologação, que está arquivado nas autoridades de homologação e pode ser obtido a pedido.\n\n(nota 1) Riscar o que não interessa.\n\n(nota 2) Conforme definida na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas."
+  },
+  "993072914": {
+   "fragment_id": "993077717",
+   "type": 4,
+   "heading": "Adenda n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda n.º 1\n\nAdenda n.º 1 ao certificado de homologação CE n.º . . ., relativo à homologação CE de um tipo de pára-brisas no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nPára-brisas de vidro laminado\n\n(vulgar, tratado ou revestido de plástico)\n\n1 - Informações complementares:\n\n1.1 - Características principais:\n\nEspessura nominal do pára-brisas: ...\n\nNúmero de lâminas de vidro: ...\n\nNúmero de lâminas de intercalares: ...\n\nEspessura nominal do(s) intercalar(es): ...\n\nNatureza e tipo do(s) intercalar(es): ...\n\nNatureza e tipo do(s) revestimento(s) plástico(s): ...\n\nTratamento especial do vidro (sim/não): ...\n\n1.2 - Características secundárias:\n\nNatureza do material (chapa de vidro polido, chapa de vidro flutuado, vidro estirado): ...\n\nColoração do vidro (incolor/de cor): ...\n\nColoração do intercalar (total/parcial): ...\n\nColoração do(s) revestimento(s) plástico(s): ...\n\nCondutores eléctricos incorporados (sim/não): ...\n\nFaixas de obscurecimento incorporadas (sim/não): ...\n\nColoração do vidro: ...\n\n5 - Observações:\n\n...\n\n5.1 - Peças anexas: lista dos pára-brisas (v. adenda n.º 7)."
+  },
+  "993072912": {
+   "fragment_id": "993077715",
+   "type": 4,
+   "heading": "Adenda n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda n.º 2\n\nAdenda n.º 2 ao certificado de homologação CE n.º . . ., relativo à homologação CE de um tipo de pára-brisas no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nPára-brisas de vidro plástico\n\n1 - Informações complementares:\n\n1.1 - Características principais:\n\nCategoria de forma: ...\n\nEspessura nominal do pára-brisas: ...\n\nEspessura nominal do vidro: ...\n\nEspessura nominal da(s) lâmina(s) de plástico que desempenha(m) o papel de intercalar(es): ...\n\nNúmero de lâminas de plástico: ...\n\nNatureza e tipo(s) da(s) lâmina(s) de plástico que desempenha(m) o papel de intercalar(es): ...\n\nNatureza e tipo de lâmina de plástico externa: ...\n\nTratamento especial do vidro (sim/não): ...\n\n1.2 - Características secundárias:\n\nNatureza do material (chapa de vidro polido, chapa de vidro flutuado, vidro estirado): ...\n\nColoração da(s) lâmina(s) de plástico (total/parcial): ...\n\nColoração do vidro: ...\n\nCondutores eléctricos incorporados (sim/não): ...\n\nFaixas de obscurecimento incorporadas (sim/não): ...\n\n5 - Observações:\n\n...\n\n5.1 - Peças anexas: lista do pára-brisas (v. adenda n.º 7)."
+  },
+  "993072915": {
+   "fragment_id": "993077718",
+   "type": 4,
+   "heading": "Adenda n.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda n.º 3\n\nAdenda n.º 3 ao certificado de homologação CE n.º . . ., relativo à homologação CE de um tipo de vidro no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nPainel de vidro têmpera uniforme\n\n1 - Informações complementares:\n\n1.1 - Características principais:\n\nCategoria de forma: . . .\n\nNatureza da têmpera: . . .\n\nCategoria de espessura: . . .\n\nNatureza e tipo do(s) revestimento(s) plástico(s): . . .\n\n1.2 - Características secundárias:\n\nNatureza do material (chapa de vidro, chapa de vidro flutuado, vidro estirado): . . .\n\nColoração do vidro: . . .\n\nColoração do(s) revestimento(s) plástico(s): . . .\n\nCondutores eléctricos incorporados (sim/não): . . .\n\nFaixas de obscurecimento incorporadas (sim/não): . . .\n\n1.3 - Critérios homologados:\n\nMaior área (vidro plano): . . .\n\nÂngulo mais pequeno: . . .\n\nMaior área planificada (vidro bombeado): . . .\n\nMaior altura de segmento: . . .\n\n5 - Observações:\n\n..."
+  },
+  "993072916": {
+   "fragment_id": "993077719",
+   "type": 4,
+   "heading": "Adenda n.º 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda n.º 4\n\nAdenda n.º 4 ao certificado de homologação CE n.º . . ., relativo à homologação CE de um tipo de vidro no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nPainéis de vidro laminado que não sejam pára-brisas\n\n1 - Informações complementares:\n\n1.1 - Características principais:\n\nCategoria de espessura: . . .\n\nNúmero de lâminas de vidro: . . .\n\nNúmero de lâminas de intercalares: . . .\n\nEspessura nominal do(s) intercalar(es): . . .\n\nNatureza e tipo do(s) intercalar(es): . . .\n\nEspessura do(s) revestimento(s) plástico(s): . . .\n\nNatureza e tipo do(s) revestimento(s) plástico(s): . . .\n\nTratamento especial do vidro (sim/não): . . .\n\n1.2 - Características secundárias:\n\nNatureza do material (chapa de vidro polido, chapa\n\nde vidro flutuado, vidro estirado): . . .\n\nColoração do intercalar (total/parcial): . . .\n\nColoração do vidro: . . .\n\nColoração do(s) revestimento(s) plástico(s): . . .\n\nCondutores eléctricos incorporados (sim/não): . . .\n\nFaixas de obscurecimento incorporadas\n\n(sim/não): . . .\n\n5 - Observações:\n\n..."
+  },
+  "993072917": {
+   "fragment_id": "993077720",
+   "type": 4,
+   "heading": "Adenda n.º 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda n.º 5\n\nAdenda n.º 5 ao certificado de homologação CE n.º . . ., relativo à homologação CE de um tipo de vidro no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nPainéis de vidro de plástico que não sejam pára-brisas\n\n1 - Informações complementares:\n\n1.1 - Características principais:\n\nCategoria de espessura do vidro: . . .\n\nEspessura nominal do elemento de vidro: . . .\n\nTratamento especial do vidro (sim/não): . . .\n\nNúmero de lâminas de vidro: . . .\n\nEspessura nominal da(s) lâmina(s) de plástico que desempenha(m) o papel de intercalar(es): . . .\n\nNatureza e tipo da(s) lâmina(s) de plástico que desempenha(m) o papel de intercalar(es): . . .\n\nNatureza e tipo de lâmina de plástico externa: . . .\n\n1.2 - Características secundárias:\n\nNatureza do material (chapa de vidro polido, chapa de vidro flutuado, vidro estirado): . . .\n\nColoração do vidro (incolor/de cor): . . .\n\nColoração da(s) lâmina(s) de plástico (total/parcial): . . .\n\nCondutores eléctricos incorporados (sim/não): . . .\n\nFaixas de obscurecimento incorporadas (sim/não): . . .\n\n5 - Observações:\n\n..."
+  },
+  "993072918": {
+   "fragment_id": "993077721",
+   "type": 4,
+   "heading": "Adenda n.º 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda n.º 6\n\nAdenda n.º 6 ao certificado de homologação CE n.º . . ., relativo à homologação CE de um tipo de vidro no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nUnidades com vidro duplo\n\n1 - Informações complementares:\n\n1.1 - Características principais:\n\nComposição das unidades com vidro duplo (simétrica/dissimétrica): ...\n\nEspessura nominal do espaço: ...\n\nMétodo de montagem: ...\n\nTipo de cada vidro: ...\n\n1.2 - Peças anexas:\n\nUma ficha para os dois vidros de uma unidade de vidro duplo simétrica em função do anexo de acordo com o qual esses vidros são ensaiados ou homologados;\n\nUma ficha para cada vidro constituinte de uma unidade de vidro dupla dissimétrica em função dos anexos de acordo com os quais esses vidros são ensaiados ou homologados.\n\n5 - Observações:\n\n..."
+  },
+  "993072919": {
+   "fragment_id": "993077723",
+   "type": 4,
+   "heading": "Adenda n.º 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda n.º 7\n\nAdenda n.º 7 ao certificado de homologação CE n.º . . ., relativo à homologação CE de um tipo de pára-brisas no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nConteúdo da lista do pára-brisas\n\nPara cada um dos pára-brisas que não são objecto da presente homologação, devem ser fornecidas, pelo menos, as seguintes informações:\n\nFabricante do veículo: ...\n\nModelo: ...\n\nCategoria do veículo: ...\n\nÁrea planificada (F): ...\n\nAltura do segmento (h): ...\n\nCurvatura (r): ...\n\nÂngulo de instalação (a): ...\n\nÂngulo do encosto ((beta)): ...\n\nCoordenadas do ponto «R» (A, B, C) em relação ao meio do bordo superior do pára-brisas: ...\n\nDescrição do parâmetro F do pára-brisas\n\n(ver figura no documento original)"
+  },
+  "993072920": {
+   "fragment_id": "993077724",
+   "type": 4,
+   "heading": "Adenda n.º 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda n.º 8\n\nAdenda n.º 8 ao certificado de homologação CE n.º ..., relativo à homologação CE de um tipo de vidro de plástico rígido no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nPainéis de vidro de plástico rígido que não sejam pára-brisas\n\n1 - Informações complementares:\n\n1.1 - Características principais:\n\nEspessura nominal (ver nota *): ...\n\nForma e dimensões: ...\n\nClasse atribuída ao material pelo fabricante: ...\n\nDesignação química do material: ...\n\nProcesso de fabrico: ...\n\nColoração: ...\n\nNatureza do revestimento superficial: ...\n\n1.2 - Características secundárias:\n\nCondutores eléctricos incorporados (sim/não): ...\n\n5 - Observações:\n\n...\n\n(nota *) Com uma tolerância de 10% para os vidros de plástico e, para as outras fabricações, a tolerância é igual (em milímetros) a (mais ou menos) 0,4 mm + 0,1 e, em que e é igual à espessura nominal em milímetros."
+  },
+  "993072921": {
+   "fragment_id": "993077725",
+   "type": 4,
+   "heading": "Adenda n.º 9",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda n.º 9\n\nAdenda n.º 9 ao certificado de homologação CE n.º ..., relativo à homologação CE de um tipo de vidro de plástico flexível no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nPainéis de vidro de plástico flexível que não sejam pára-brisas\n\n1 - Informações complementares:\n\n1.1 - Características principais:\n\nEspessura nominal (ver nota *): ...\n\nClasse atribuída ao material pelo fabricante: ...\n\nDesignação química do material: ...\n\nProcesso de fabrico: ...\n\nColoração: ...\n\nNatureza do revestimento superficial: ...\n\n1.2 - Características secundárias:\n\nNão intervém nenhuma característica secundária.\n\n5 - Observações:\n\n...\n\n(nota *) Com uma tolerância igual (em milímetros) a (mais ou menos) 0,1 mm + 0,1 e, em que e é igual à espessura nominal em milímetros."
+  },
+  "993072922": {
+   "fragment_id": "993077726",
+   "type": 4,
+   "heading": "Adenda n.º 10",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda n.º 10\n\nAdenda n.º 10 ao certificado de homologação CE n.º ..., relativo à homologação CE de um tipo de vidro duplo de plástico rígido no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nUnidades com vidro duplo de plástico rígido\n\n1 - Informações complementares:\n\n1.1 - Características principais:\n\nEspessura nominal: ...\n\nForma e dimensões: ...\n\nClasse atribuída ao material pelo fabricante: ...\n\nDesignação química do material: ...\n\nProcesso de fabrico: ...\n\nColoração: ...\n\nNatureza do revestimento superficial: ...\n\n1.2 - Características secundárias:\n\nNão intervém nenhuma característica secundária.\n\n5 - Observações:\n\n..."
+  },
+  "993072952": {
+   "fragment_id": "993077727",
+   "type": 14,
+   "heading": "Anexo III — Ficha de informações n.º ..., no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE em aplicação do anexo I da Directiva n.º 70/156/CE70/156/CEE, relativa à homologação de um modelo de veículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Ficha de informações n.º ..., no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE em aplicação do anexo I da Directiva n.º 70/156/CE70/156/CEE, relativa à homologação de um modelo de veículo\n\n(a que se refere o n.º 2 do artigo 6.º do Regulamento)\n\nAs informações seguintes, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente.\n\nNo caso de os sistemas, componentes ou unidades técnicas possuírem controlos electrónicos, o fabricante desses elementos electrónicos deve fornecer as informações relevantes relacionadas com o seu desempenho.\n\n0 - Generalidades:\n\n0.1 - Marca (depositada) do construtor: ...\n\n0.2 - Modelo: ...\n\n0.3 - Meios de identificação do modelo/tipo (ver nota 1), se marcados no veículo/componente/unidade técnica (ver nota 2): ...\n\n0.4 - Categoria do veículo (ver nota 2): ...\n\n0.5 - Nome e morada do construtor: ...\n\n0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...\n\n0.8 - Morada(s) da(s) linha(s) de montagem: ...\n\n1 - Pára-brisas e outros vidros:\n\nFotografias e ou desenhos de um veículo representativo: ...\n\n9 - Carroçaria:\n\n9.1 - Estilo da carroçaria: ...\n\n9.5 - Pára-brisas e outros vidros:\n\n9.5.1.1 - Materiais utilizados: ...\n\n9.5.1.2 - Método de montagem: ...\n\n9.5.1.3 - Ângulo de inclinação: ...\n\n9.5.1.4 - Número(s) de homologação: ...\n\n9.5.1.5 - Equipamento(s) complementar(es) do pára-brisas e breve descrição de eventuais componentes eléctricos/electrónicos: ...\n\n9.5.2 - Outros vidros:\n\n9.5.2.1 - Materiais utilizados: ...\n\n9.5.2.2 - Número(s) de homologação: ...\n\n9.5.2.3 - Breve descrição dos eventuais componentes eléctricos/electrónicos do mecanismo de elevação das janelas: ...\n\n9.5.3 - Vidro do tecto de abrir:\n\n9.5.3.1 - Materiais utilizados: ...\n\n9.5.3.2 - Número(s) de homologação: ...\n\n9.5.4 - Outros vidros: ...\n\n9.5.4.1 - Materiais utilizados: ...\n\n9.5.4.2 - Número(s) de homologação: ...\n\n(nota 1) Riscar o que não interessa.\n\n(nota 2) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos, componente ou unidade técnica abrangidos por este certificado de homologação, tais caracteres devem ser apresentados na documentação por meio do símbolo «?» (por exemplo: ABC??123??).\n\n(3) Conforme definida na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas."
+  },
+  "993072934": {
+   "fragment_id": "993077728",
+   "type": 14,
+   "heading": "Anexo IV — Modelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Modelo\n\n[a que se refere a alínea b) do n.º 2 do artigo 7.o do Regulamento]\n\n[formato máximo: A4 (210 mm×297 mm)]\n\nCertificado de homologação CE\n\n[Carimbo da autoridade administrativa]\n\nComunicação relativa à:\n\nHomologação (ver nota 1);\n\nExtensão da homologação (ver nota 1);\n\nRecusa da homologação (ver nota 1);\n\nRevogação da homologação (ver nota 1);\n\nde um modelo/tipo (ver nota 1) de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\nNúmero de homologação: ...\n\nRazão da extensão: ...\n\nSecção I:\n\n0.1 - Marca (firma do fabricante): ...\n\n0.2 - Modelo/tipo: ...\n\n0.3 - Meios de identificação do modelo/tipo (ver nota 1), se marcados no veículo/componente/unidade técnica (ver nota 1): ...\n\n0.3.1 - Localização dessa marcação: ...\n\n0.4 - Categoria (ver nota 2): ...\n\n0.5 - Nome e morada do fabricante: ...\n\n0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...\n\n0.8 - Morada(s) da(s) linha(s) de montagem: ...\n\nSecção II:\n\n1 - Informações adicionais (se aplicável): (V. adenda.)\n\n2 - Serviço técnico responsável pela execução dos ensaios: ...\n\n3 - Data do relatório de ensaio: ...\n\n4 - Número do relatório de ensaio: ...\n\n5 - Eventuais observações: (V. adenda.)\n\n6 - Local: ...\n\n7 - Data: ...\n\n8 - Assinatura: ...\n\n9 - Está anexado o índice do dossier de homologação, que está arquivado nas autoridades de homologação e pode ser obtido a pedido.\n\n(nota 1) Riscar o que não interessa.\n\n(nota 2) Conforme definida no anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas."
+  },
+  "993072925": {
+   "fragment_id": "993077729",
+   "type": 4,
+   "heading": "Adenda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Adenda\n\nAdenda ao certificado de homologação CE n.º ..., no que respeita à homologação de um veículo em conformidade com a Directiva n.º 92/22/CEE, alterada pela Directiva n.º 2001/92/CE.\n\n1 - Informações adicionais:\n\n1.1 - Descrição do tipo de vidro utilizado:\n\n1.1.1 - Para os pára-brisas: ...\n\n1.1.2 - Para os vidros laterais: ...\n\n1.1.3 - Para os vidros traseiros: ...\n\n1.1.4 - Para os tectos de abrir: ...\n\n1.1.5 - Para os restantes vidros: ...\n\n1.2 - Marca de homologação CE:\n\n1.2.1 - Do pára-brisas: ...\n\n1.2.2 - Dos vidros laterais: ...\n\n1.2.3 - Dos vidros traseiros: ...\n\n1.2.4 - Dos tectos de abrir: ...\n\n1.2.5 - Dos restantes vidros: ...\n\n1.3 - Equipamento(s) complementar(es) do pára-brisas e respectiva localização: ...\n\n1.4 - As disposições de montagem são/não são (ver nota *) respeitadas.\n\n5 - Observações:\n\n...\n\n(nota *) Riscar o que não interessa."
+  },
+  "1001144376": {
+   "fragment_id": "993077743",
+   "type": 11,
+   "heading": "Artigo 12.º — Âmbito",
+   "in_force_from": "2009-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 193/2009 - Diário da República n.º 158/2009, Série I de 2009-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2009-493687), em vigor a partir de 2009-08-18",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+   ],
+   "markdown": "###### Artigo 12.º — Âmbito\n\n1 - O presente capítulo aplica-se às películas plásticas coloridas não homologadas conjuntamente com os vidros e destinadas a serem aplicadas no lado interior de vidros homologados, em todas as janelas dos automóveis das categorias M1 e N1.\n\n2 - O disposto no presente capítulo não se aplica:\n\na) Às películas plásticas afixadas nos vidros de veículos pertencentes às forças de segurança e de autoridades judiciais;\n\nb) Às películas plásticas afixadas nos vidros correspondentes à caixa de carga dos automóveis ligeiros de mercadorias;\n\nc) Às películas plásticas afixadas nos vidros correspondentes à célula sanitária das ambulâncias.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 193/2009 - Diário da República n.º 158/2009, Série I de 2009-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2009-493687), em vigor a partir de 2009-08-18\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 392/2007 - Diário da República n.º 249/2007, Série I de 2007-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-2007-627802), em vigor a partir de 2007-12-28"
+  }
+ }
+}

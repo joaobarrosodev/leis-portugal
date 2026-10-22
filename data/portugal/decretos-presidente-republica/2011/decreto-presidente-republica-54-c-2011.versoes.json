@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:316361:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2011-167216896",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/54-c-2011-316361",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-06-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921239134"
+   ]
+  }
+ ],
+ "fragments": {
+  "921239134": {
+   "fragment_id": "167216897",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 54-C/2011\n\nde 21 de Junho\n\nO Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:\n\nSão nomeados, sob proposta do Primeiro-Ministro:\n\nO Prof. Doutor Vítor Louçã Rabaça Gaspar Ministro de Estado e das Finanças;\n\nO Dr. Paulo Sacadura Cabral Portas Ministro de Estado e dos Negócios Estrangeiros;\n\nO Dr. José Pedro Correia de Aguiar-Branco Ministro da Defesa Nacional;\n\nO Dr. Miguel Bento Martins Costa Macedo e Silva Ministro da Administração Interna;\n\nA Dr.ª Paula Maria Von Hafe Teixeira da Cruz Ministra da Justiça;\n\nO Dr. Miguel Fernando Cassola de Miranda Relvas Ministro Adjunto e dos Assuntos Parlamentares;\n\nO Prof. Doutor Álvaro Santos Pereira Ministro da Economia e do Emprego;\n\nA Prof.ª Doutora Maria da Assunção de Oliveira Cristas Machado da Graça Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;\n\nO Dr. Paulo José de Ribeiro Moita de Macedo Ministro da Saúde;\n\nO Prof. Doutor Nuno Paulo de Sousa Arrobas Crato Ministro da Educação e Ciência;\n\nO Dr. Luís Pedro Russo da Mota Soares Ministro da Solidariedade e da Segurança Social;\n\nO Dr. Luís Maria de Barros Serra Marques Guedes Secretário de Estado da Presidência do Conselho de Ministros;\n\nO Engenheiro Carlos Manuel Félix Moedas Secretário de Estado Adjunto do Primeiro-Ministro."
+  }
+ }
+}

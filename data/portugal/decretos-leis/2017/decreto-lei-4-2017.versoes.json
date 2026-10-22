@@ -1,0 +1,227 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105711789:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-122866599",
+ "dre_path": "/dr/detalhe/decreto-lei/4-2017-105711789",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122866697",
+    "122866698",
+    "122866699",
+    "122866700",
+    "122866701",
+    "122866702",
+    "122866703",
+    "122866704",
+    "122866705",
+    "122866706",
+    "122866707",
+    "122866708",
+    "122866709"
+   ]
+  },
+  {
+   "date": "2020-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129208004:por",
+     "title": "Decreto-Lei n.º 5/2020",
+     "published": "2020-02-14",
+     "dre_path": "/dr/detalhe/decreto-lei/5-2020-129208004"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "122866697",
+    "122866698",
+    "129112462",
+    "122866700",
+    "122866701",
+    "122866702",
+    "122866703",
+    "122866704",
+    "122866705",
+    "122866706",
+    "122866707",
+    "122866708",
+    "122866709",
+    "122866710"
+   ]
+  },
+  {
+   "date": "2023-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211499214:por",
+     "title": "Lei n.º 15/2023",
+     "published": "2023-04-06",
+     "dre_path": "/dr/detalhe/lei/15-2023-211499214"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "122866697",
+    "122866698",
+    "211556107",
+    "122866700",
+    "122866701",
+    "122866702",
+    "122866703",
+    "122866704",
+    "122866705",
+    "122866706",
+    "122866707",
+    "122866708",
+    "122866709",
+    "122866710"
+   ]
+  }
+ ],
+ "fragments": {
+  "122866697": {
+   "fragment_id": "122866600",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 4/2017\n\nde 6 de janeiro\n\nA Lei n.º 60/2005, de 29 de dezembro, estabeleceu mecanismos de convergência do regime de proteção social da função pública com o regime geral de segurança social no que respeita às condições de acesso e ao cálculo das pensões de aposentação, tendo ainda determinado a cessação da inscrição de novos subscritores na Caixa Geral de Aposentações a partir de 1 de janeiro de 2006.\n\nO Decreto-Lei n.º 229/2005, de 29 de dezembro, procedeu à revisão dos regimes que consagravam desvios ao regime geral de aposentação em matéria de tempo de serviço, idade de aposentação, fórmula de cálculo e atualização das pensões de forma a compatibilizá-los com a convergência acima referida.\n\nFicaram, porém, excluídos do âmbito do Decreto-Lei n.º 229/2005, de 29 de dezembro, entre outros, o pessoal com funções policiais da Polícia de Segurança Pública (PSP), o pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, o pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária e o pessoal do corpo da Guarda Prisional.\n\nO Decreto-Lei n.º 55/2006, de 15 de março, veio estabelecer, relativamente aos funcionários e agentes e demais pessoal abrangido pelo n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de dezembro, que inicie funções a partir de 1 de janeiro de 2006, que o acréscimo de encargos resultante da aplicação de regimes mais favoráveis por referência ao regime geral de aposentação é suportado por verbas inscritas nos orçamentos dos serviços e organismos a que aqueles se encontram vinculados ou das correspondentes entidades empregadoras.\n\nPosteriormente, verificou-se uma continuidade do esforço de convergência das condições de acesso e de cálculo das pensões de aposentação do regime de proteção social convergente, assim denominado pela Lei n.º 4/2009, de 29 de janeiro, em substituição do regime de proteção social da função pública, com o regime geral de segurança social que, entretanto, foi sujeito a diversas reformas no que respeita à fórmula de cálculo, com vista à sua sustentabilidade financeira.\n\nPor seu turno, os Estatutos Profissionais do pessoal não abrangido pelo Decreto-Lei n.º 229/2005, de 29 de dezembro, continuaram a prever normas específicas de acesso à pensão de aposentação ou de reforma distintas face às constantes na Lei n.º 60/2005, de 29 de dezembro, e no regime geral de segurança social, quer no que respeita à idade de acesso à pensão, como no que respeita ao cálculo e à penalização por antecipação.\n\nCom efeito, os estatutos profissionais do pessoal com funções policiais continuam a prever idades de acesso à pensão de aposentação inferiores à idade normal de acesso à pensão de aposentação ou à pensão de velhice do regime de proteção social convergente ou do regime geral de segurança social, respetivamente, que é atualmente idêntica.\n\nNo que respeita ao cálculo da pensão de aposentação, os referidos estatutos profissionais continuam a conter regras que preveem o cálculo da pensão sem redução do seu montante, correspondente a uma percentagem aplicada por cada mês de antecipação face à idade normal de acesso à pensão, mantendo a aplicação da fórmula de cálculo que incorpora o fator de sustentabilidade.\n\nAtualmente, ao pessoal com funções policiais que não se encontre abrangido por normas de salvaguarda, aplica-se a fórmula de cálculo do regime convergente ou do regime geral de segurança social em vigor, ou seja, com o fator de sustentabilidade, consoante sejam subscritores da Caixa Geral de Aposentações ou se encontrem inscritos no Regime Geral de Segurança Social.\n\nSe é certo que a existência de especificidades relativamente ao regime de convergência e ao regime geral de segurança social se justifica em razão das condições em que as funções policiais são exercidas pelos respetivos profissionais, no que respeita à permanente disponibilidade e ao especial risco e perigosidade que lhes está associado, importa, contudo, proceder a uma uniformização das condições e das regras de atribuição e de cálculo das pensões de aposentação e de pensão de velhice entre o pessoal com funções policiais da Polícia de Segurança Pública, o pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, o pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária e o pessoal do corpo da Guarda Prisional abrangidos pelo regime de proteção social convergente ou pelo regime geral de segurança social.\n\nConsidera-se com esta uniformização que as condições e as regras de atribuição e de cálculo das pensões de aposentação devem constar de um único diploma legal aplicável ao pessoal com funções policiais, que agora se aprova, não integrando os respetivos estatutos e legislação específica, uma vez que se trata de matéria específica que não integra o âmbito das relações laborais.\n\nSendo as especificidades supracitadas decorrentes unicamente das especiais condições de exercício da atividade profissional destas categorias de trabalhadores em prol da segurança externa e interna, as quais determinam exceções no que respeita às condições de acesso e de cálculo das pensões de aposentação e pensão de velhice, importa reconhecer a justeza destas diferenças através da aplicação na idade de acesso à pensão, estabelecida no presente diploma, da fórmula de cálculo aplicável à idade normal de aposentação do regime convergente ou do regime geral de segurança social, e regular o financiamento dos encargos decorrentes destas exigências profissionais no regime de proteção social convergente e no regime geral.\n\nExercendo estes profissionais funções de soberania e segurança interna do Estado, justifica-se que o encargo com estes trabalhadores quando inscritos no regime geral de segurança social recaia sobre todos os cidadãos, o que faz com que o seu financiamento seja assegurado integralmente por transferências do Orçamento do Estado para o Orçamento da Segurança Social até à idade normal de reforma e que, atingida essa idade, a parcela que distingue o montante de pensão destes trabalhadores face aos restantes trabalhadores inscritos no regime geral de segurança social, designada de complemento de pensão, seja igualmente assegurada por transferências do Orçamento do Estado para o Orçamento da Segurança Social.\n\nNestes termos, o presente decreto-lei estabelece o regime específico de acesso e de cálculo das pensões de aposentação e pensão de velhice do pessoal com funções policiais, identificando as regras e os encargos a suportar pelo Orçamento do Estado, bem como a forma de financiamento desses encargos do regime de proteção social convergente e do regime geral de segurança social.\n\nProcede-se ainda à alteração do Decreto-Lei n.º 55/2006, de 15 de março, que define as regras de execução da Lei n.º 60/2005, de 29 de dezembro, de forma a assegurar o financiamento do regime previsto no presente decreto-lei e do regime aplicável aos militares e ao pessoal militarizado.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 60/2015, de 29 de dezembro, pelo Decreto-Lei n.º 55/2006, de 15 de março, e pelo artigo 164.º do Estatuto do pessoal com funções policiais da Policia de Segurança Pública, aprovado pelo Decreto-Lei n.º 243/2015, de 19 de outubro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122866698": {
+   "fragment_id": "122866601",
+   "type": 1,
+   "heading": "Capítulo I — Condições de acesso e cálculo das pensões do pessoal com funções policiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Condições de acesso e cálculo das pensões do pessoal com funções policiais"
+  },
+  "122866699": {
+   "fragment_id": "122866602",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei regula as condições e as regras de atribuição e de cálculo das pensões de aposentação do regime de proteção social convergente, adiante designado por regime convergente, e das pensões de invalidez e velhice do regime geral de segurança social, adiante designado por regime geral, dos seguintes subscritores do regime convergente e contribuintes do regime geral, adiante designados trabalhadores:\n\na) Pessoal com funções policiais da Polícia de Segurança Pública;\n\nb) Pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras;\n\nc) Pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária;\n\nd) Pessoal do corpo da Guarda Prisional."
+  },
+  "122866700": {
+   "fragment_id": "122866603",
+   "type": 11,
+   "heading": "Artigo 2.º — Cálculo da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cálculo da pensão\n\n1 - No âmbito do regime convergente, as pensões de aposentação dos trabalhadores referidos no artigo anterior são calculadas nos seguintes termos:\n\na) As pensões dos trabalhadores inscritos na Caixa Geral de Aposentações, I. P. (CGA, I. P.), até 31 de agosto de 1993 são calculadas de acordo com o disposto no artigo 5.º da Lei n.º 60/2005, de 29 de dezembro, republicada pela Lei n.º 11/2008, de 20 de fevereiro, e alterada pelas Leis n.os 66-B/2012, de 31 de dezembro, e 11/2014, de 6 de março;\n\nb) As pensões dos trabalhadores inscritos na CGA, I. P., após 31 de agosto de 1993 são fixadas de acordo com as regras aplicáveis ao cálculo das pensões de velhice do regime geral de segurança social.\n\n2 - No âmbito do regime geral, as pensões de invalidez e de velhice dos trabalhadores referidos no artigo anterior são calculadas nos termos do correspondente regime jurídico.\n\n3 - Aos trabalhadores a que se refere o artigo anterior, abrangidos pelo regime convergente, é atribuído um complemento de pensão que corresponde à diferença entre o valor da pensão a que o trabalhador tem direito nos termos do n.º 1 e o valor da pensão calculada com base na outra fórmula prevista no mesmo número, se aquela tiver valor inferior a esta.\n\n4 - Aos trabalhadores a que se refere o artigo anterior, abrangidos pelo regime geral, é atribuído um complemento de pensão que corresponde à diferença entre o valor da pensão calculada nos termos da alínea a) do n.º 1 e o valor da pensão calculada nos termos do n.º 2.\n\n5 - Para efeitos de aplicação, às pensões calculadas nos termos dos n.os 1 e 2, do fator de sustentabilidade e do fator de redução por antecipação da idade previstos no regime convergente e no regime geral, considera-se que a idade de acesso às pensões de aposentação e à pensão de velhice dos trabalhadores, adiante designada idade de acesso, corresponde à idade normal de acesso à pensão de velhice do regime geral aplicável em cada ano, reduzida em 6 anos, pelo que:\n\na) Às pensões atribuídas após o trabalhador ter completado a idade de acesso não são aplicáveis aqueles fatores;\n\nb) Às pensões atribuídas antes de o trabalhador ter completado a idade de acesso são aplicados ambos os fatores.\n\n6 - O disposto no número anterior não prejudica o regime estabelecido para a aposentação com fundamento em incapacidade, no regime convergente, e a atribuição da pensão de invalidez, no regime geral."
+  },
+  "122866701": {
+   "fragment_id": "122866604",
+   "type": 11,
+   "heading": "Artigo 3.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Salvaguarda de direitos\n\n1 - Encontram-se abrangidos pela salvaguarda de direitos os trabalhadores referidos no artigo 1.º que, em 31 de dezembro de 2005, tinham, pelo menos, 60 anos de idade e 36 anos de serviço.\n\n2 - A pensão dos trabalhadores abrangidos pela salvaguarda de direitos é calculada de acordo com as seguintes fórmulas, em vigor em 31 de dezembro de 2005:\n\na) As pensões dos trabalhadores inscritos na CGA, I. P., até 31 de agosto de 1993 são calculadas de acordo com o disposto no Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, com a redação da Lei n.º 1/2004, de 15 de janeiro;\n\nb) As pensões dos trabalhadores inscritos na CGA, I. P., após 31 de agosto de 1993 são fixadas de acordo com as regras aplicáveis ao cálculo das pensões de velhice do regime geral de segurança social, salvo se da aplicação do artigo anterior resultar um valor de pensão mais favorável, caso em que é essa a fórmula a aplicar.\n\n3 - Às pensões calculadas nos termos do número anterior não é aplicado o fator de redução por antecipação da idade.\n\n4 - A CGA, I. P., procede oficiosamente, no prazo de 90 dias a contar da data de entrada em vigor do presente decreto-lei, com efeitos retroativos à data da passagem à aposentação, à revisão do valor das respetivas pensões para eliminação do fator de sustentabilidade aplicado às pensões do pessoal que tenha passado à aposentação ao abrigo das alíneas a) a c) do n.º 2 do artigo 116.º do Decreto-Lei n.º 243/2015, de 19 de outubro, após a sua entrada em vigor e anteriormente à data de entrada em vigor do presente decreto-lei, abrangendo:\n\na) O pessoal com funções policiais da Polícia de Segurança Pública;\n\nb) O pessoal do corpo da Guarda Prisional, por força dos artigos 28.º e 66.º do Decreto-Lei n.º 3/2014, de 9 de janeiro.\n\n5 - O ato de revisão da pensão previsto no número anterior é notificado ao pensionista, podendo ser objeto de impugnação, nos termos gerais.\n\n> Nota: [Artigo 9.º, Lei n.º 15/2023 - Diário da República n.º 69/2023, Série I de 2023-04-06](https://diariodarepublica.pt/dr/detalhe/lei/15-2023-211499214) A salvaguarda de direitos prevista no presente artigo, não é aplicável ao pessoal das carreiras de guarda-florestal das Regiões Autónomas dos Açores e da Madeira."
+  },
+  "122866702": {
+   "fragment_id": "122866605",
+   "type": 1,
+   "heading": "Capítulo II — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Financiamento"
+  },
+  "122866703": {
+   "fragment_id": "122866606",
+   "type": 11,
+   "heading": "Artigo 4.º — Assunção de encargos no âmbito do regime convergente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Assunção de encargos no âmbito do regime convergente\n\nSão integralmente suportados por verbas do Orçamento do Estado os encargos com as seguintes prestações:\n\na) Pensão de aposentação, entre a data de início da pensão e aquela em que o pensionista perfaz a idade normal de acesso à pensão de velhice em vigor no regime geral de segurança social;\n\nb) Complemento de pensão previsto no n.º 3 do artigo 2.º"
+  },
+  "122866704": {
+   "fragment_id": "122866607",
+   "type": 11,
+   "heading": "Artigo 5.º — Assunção de encargos no âmbito do regime geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Assunção de encargos no âmbito do regime geral\n\n1 - Os encargos com a pensão estatutária de invalidez ou de velhice e com o complemento de pensão previsto no n.º 4 do artigo 2.º devidos entre a data de início da pensão e a data em que o beneficiário perfaz a idade normal de acesso à pensão de velhice em vigor são suportados por verbas do Orçamento do Estado.\n\n2 - O acréscimo de encargos com o pagamento do complemento de pensão a que se refere o n.º 4 do artigo 2.º mantém-se integralmente suportado por verbas do Orçamento do Estado a partir da data em que o beneficiário atinge a idade normal de acesso à pensão de velhice referida no número anterior.\n\n3 - O Estado é responsável pelo financiamento das pensões estatutárias de invalidez ou de velhice e dos complementos de pensão referidos nos números anteriores, incluindo os encargos administrativos, devendo para tanto transferir para o Orçamento da Segurança Social os respetivos montantes.\n\n4 - A transferência a que se refere o número anterior constitui uma dotação específica não incluída nas dotações previstas na Lei de Bases da Segurança Social."
+  },
+  "122866705": {
+   "fragment_id": "122866608",
+   "type": 11,
+   "heading": "Artigo 6.º — Compatibilização dos regimes de pré-aposentação e disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Compatibilização dos regimes de pré-aposentação e disponibilidade\n\nOs trabalhadores que se encontrem na pré-aposentação ou na disponibilidade na data de entrada em vigor do presente decreto-lei podem permanecer nessa situação até completarem a idade de acesso à aposentação prevista no n.º 5 do artigo 2.º"
+  },
+  "122866706": {
+   "fragment_id": "122866609",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "122866707": {
+   "fragment_id": "122866610",
+   "type": 11,
+   "heading": "Artigo 7.º — Prevalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prevalência\n\n1 - O disposto no presente decreto-lei tem caráter imperativo, prevalecendo sobre quaisquer outras normas, gerais ou especiais, nomeadamente estatutárias, em sentido contrário, designadamente as que tenham incidência na idade de acesso e no cálculo da pensão de aposentação, no regime convergente, e da pensão de velhice ou de invalidez, no regime geral, não podendo ser afastado ou modificado pelas mesmas.\n\n2 - O disposto no presente decreto-lei não afasta as regras relativas às bonificações do tempo de serviço legalmente previstas para efeitos de cálculo da pensão de aposentação ou de velhice."
+  },
+  "122866708": {
+   "fragment_id": "122866611",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração ao Decreto-Lei n.º 55/2006, de 15 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração ao Decreto-Lei n.º 55/2006, de 15 de março\n\nO artigo 5.º do Decreto-Lei n.º 55/2006, de 15 de março, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - No caso da legislação especial aplicável aos militares das Forças Armadas, da Guarda Nacional Republicana, do pessoal militarizado da Marinha, da Polícia Marítima e do Exército, do pessoal com funções policiais da Polícia de Segurança Pública, do pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, do pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária e do pessoal do corpo da Guarda Prisional, o acréscimo de encargos resultante do seu regime por referência ao regime geral de segurança social é integralmente suportado por verbas do Orçamento do Estado.\n\n4 - Para cumprimento do disposto no número anterior são transferidas, anualmente, do Orçamento do Estado para o Orçamento da Segurança Social as correspondentes verbas.»"
+  },
+  "122866709": {
+   "fragment_id": "122866612",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "129112462": {
+   "fragment_id": "122866602",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 5/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2020-129208004), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei regula as condições e as regras de atribuição e de cálculo das pensões de aposentação do regime de proteção social convergente, adiante designado por regime convergente, e das pensões de invalidez e velhice do regime geral de segurança social, adiante designado por regime geral, dos seguintes subscritores do regime convergente e contribuintes do regime geral, adiante designados trabalhadores:\n\na) Pessoal com funções policiais da Polícia de Segurança Pública;\n\nb) Pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras;\n\nc) Pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária;\n\nd) Pessoal do corpo da Guarda Prisional;\n\ne) Funcionários e agentes integrados nos corpos especiais do Sistema de Informações da República Portuguesa, desde que contem, pelo menos, oito anos de serviço nestes organismos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 5/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2020-129208004), em vigor a partir de 2020-02-15"
+  },
+  "122866710": {
+   "fragment_id": "122866613",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de novembro de 2016. - Maria Manuel de Lemos Leitão Marques - Fernando António Portela Rocha de Andrade - Marcos da Cunha e Lorena Perestrello de Vasconcellos - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - José António Fonseca Vieira da Silva.\n\nPromulgado em 15 de dezembro de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 3 de janeiro de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "211556107": {
+   "fragment_id": "122866602",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 15/2023 - Diário da República n.º 69/2023, Série I de 2023-04-06](https://diariodarepublica.pt/dr/detalhe/lei/15-2023-211499214), em vigor a partir de 2023-06-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 5/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2020-129208004), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei regula as condições e as regras de atribuição e de cálculo das pensões de aposentação do regime de proteção social convergente, adiante designado por regime convergente, e das pensões de invalidez e velhice do regime geral de segurança social, adiante designado por regime geral, dos seguintes subscritores do regime convergente e contribuintes do regime geral, adiante designados trabalhadores:\n\na) Pessoal com funções policiais da Polícia de Segurança Pública;\n\nb) Pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras;\n\nc) Pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária;\n\nd) Pessoal do corpo da Guarda Prisional;\n\ne) Funcionários e agentes integrados nos corpos especiais do Sistema de Informações da República Portuguesa, desde que contem, pelo menos, oito anos de serviço nestes organismos.\n\nf) Pessoal das carreiras de guarda-florestal das Regiões Autónomas dos Açores e da Madeira.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 15/2023 - Diário da República n.º 69/2023, Série I de 2023-04-06](https://diariodarepublica.pt/dr/detalhe/lei/15-2023-211499214), em vigor a partir de 2023-06-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 5/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2020-129208004), em vigor a partir de 2020-02-15"
+  }
+ }
+}

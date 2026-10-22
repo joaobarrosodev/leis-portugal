@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:305073:por
+title: Despacho Normativo n.º 192/91
+short_title: null
+summary: Atribui ao INGA - Instituto Nacional de Intervenção e Garantia Agrícola a execução processual inerente ao cumprimento
+  das normas comunitárias relativas à cobrança da taxa de co-responsabilidade prevista na organização comum do mercado dos
+  cereais
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 192/91
+official_date: null
+publication_date: '1991-09-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 203/1991, Série I-B de 1991-09-04
+  number: '203'
+  series: I
+  supplement: null
+  pages: 4675 - 4676
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/09/203b00/46754676.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/192/1991/09/04/p/dre/pt/html
+  oj: null
+  dre: '305073'
+  dre_path: /dr/detalhe/despacho-normativo/192-1991-305073
+  internal: pt:dre:305073:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/192-1991-305073
+  metadata_url: https://data.dre.pt/eli/despnorm/192/1991/09/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/192-1991-305073
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-09-04T00:00:00Z'
+integrity:
+  source_sha256: 182b5073186bfc72a78955a9b6a0ebd86047bf3f94a88ea779e8f22f080d476c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-192-305073.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Cereal
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Agricultura
+relationships:
+- type: cites
+  target: celex:31975R2727
+  label: null
+  source: http://data.europa.eu/eli/reg/1975/2727/oj
+- type: cites
+  target: celex:31988R1432
+  label: null
+  source: http://data.europa.eu/eli/reg/1988/1432/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 192/91
+
+Considerando o disposto no Acto de Adesão de Portugal à Comunidade Económica Europeia no que respeita à organização comum do mercado de cereais;
+
+Considerando o Regulamento (CEE) n.º [2727/75](http://data.europa.eu/eli/reg/1975/2727/oj?locale=pt), do Conselho, de 29 de Outubro, que estabelece a Organização Comum do Mercado dos Cereais;
+
+Considerando o Regulamento (CEE) n.º [1432/88](http://data.europa.eu/eli/reg/1988/1432/oj?locale=pt), da Comissão, de 26 de Maio, relativo às modalidades de aplicação da taxa de co-responsabilidade no sector dos cereais;
+
+Considerando que, para além da aplicação da regulamentação comunitária relativa à taxa de co-responsabilidade, é necessário introduzir na ordem jurídica nacional normas que regulamentem a sua execução e definam as competências das entidades directamente intervenientes no sistema;
+
+Considerando, finalmente, a aplicabilidade directa dos citados regulamentos comunitários em Portugal:
+
+Ao abrigo das mencionadas disposições legais e do Decreto-Lei n.º 282/88, de 12 de Agosto, determina-se o seguinte:
+
+1 - Compete ao INGA - Instituto Nacional de Intervenção e Garantia Agrícola a execução processual inerente ao cumprimento das normas comunitárias relativas à cobrança da taxa de co-responsabilidade prevista na organização comum do mercado dos cereais.
+
+2 - A taxa de co-responsabilidade é devida no momento da colocação dos cereais no mercado, nos termos e condições estabelecidos na regulamentação comunitária.
+
+3 - A cobrança da taxa de co-responsabilidade é efectuada pelos compradores de cereais, quer a compra seja feita em natureza quer sob a forma de produtos transformados, nos prazos e demais condições estabelecidos na legislação comunitária aplicável.
+
+4 - É fixado em 75% o coeficiente previsto no artigo 9.º do Regulamento (CEE) n.º [1432/88](http://data.europa.eu/eli/reg/1988/1432/oj?locale=pt), da Comissão, de 26 de Maio, aplicável durante a campanha de comercialização de 1991-1992, no âmbito do regime de excepção à cobrança da taxa de co-responsabilidade, a todos os cereais de semente constantes das alíneas a) e b) do artigo 1.º do Regulamento (CEE) n.º [2727/75](http://data.europa.eu/eli/reg/1975/2727/oj?locale=pt), do Conselho, de 29 de Outubro, o qual exprime a relação entre a quantidade de sementes certificadas e vendidas e a quantidade de sementes compradas ao abrigo de contratos de multiplicação.
+
+5 - Os compradores de sementes deverão reter, nas condições estabelecidas na legislação aplicável, a taxa de co-responsabilidade que incida sobre 25% da quantidade de sementes que lhes forem entregues pelos produtores ao abrigo de contratos de multiplicação.
+
+6 - Os compradores referidos no n.º 3 obrigam-se a enviar ao INGA ou outras entidades por este designadas para o efeito, em carta registada com aviso de recepção, nos prazos e demais condições estipulados na legislação, declarações periódicas, segundo modelo a fornecer por aquelas entidades.
+
+7 - As declarações mencionadas no número anterior deverão fazer-se acompanhar de documento comprovativo de depósito efectuado pelas entidades declarantes em conta aberta junto de uma instituição bancária, a indicar pelo INGA, mediante guia modelo a fornecer por este, da totalidade dos fundos respeitantes à taxa de co-responsabilidade cobrada no período a que se reporta cada uma das declarações.
+
+8 - As declarações referidas no n.º 6 que sejam apresentadas no INGA fora dos prazos estabelecidos na regulamentação comunitária implicam o pagamento, por parte dos compradores, de juros de mora, calculados, relativamente à totalidade do período em atraso, com base numa taxa a determinar por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, atendendo ao disposto na regulamentação comunitária aplicável.
+
+9 - Os compradores dos cereais sujeitos à taxa de co-responsabilidade deverão enviar mensalmente ao INGA uma declaração elaborada nos termos do anexo I ao Regulamento (CEE) n.º [1432/88](http://data.europa.eu/eli/reg/1988/1432/oj?locale=pt), da Comissão, de 26 de Maio.
+
+10.1 - Todos os operadores envolvidos no sistema de cobrança da taxa de co-responsabilidade deverão manter à disposição do INGA ou de outras entidades por este designadas para o efeito uma contabilidade que indique, nomeadamente:
+
+a) Nomes e endereços dos produtores ou operadores que lhes entregaram cereal em grão;
+
+b) Quantidades e datas das entregas dos cereais;
+
+c) Montantes da taxa de co-responsabilidade cobrados em cada uma das transacções efectuadas;
+
+d) Quantidades de cereal colocadas no mercado com isenção da mencionada taxa;
+
+e) Quantidades em relação às quais a taxa de co-responsabilidade já foi cobrada numa fase anterior;
+
+f) Quantidades entregues aos operadores para efeito de prestação de serviços de qualquer outra natureza e que não sejam objecto de transacção sujeita nessa fase a taxa de co-responsabilidade.
+
+10.2 - Os operadores que transaccionem os cereais sob a forma de produtos transformados indicarão na sua contabilidade as quantidades de produto vendidas, bem como as quantidades de cereal base utilizadas para obter os referidos produtos.
+
+11 - As declarações recebidas no INGA que não se encontrem preenchidas de harmonia com o estabelecido na legislação aplicável e que não sejam rectificadas nos prazos fixados para a respectiva apresentação serão objecto da aplicação da sanção prevista no n.º 8 deste diploma.
+
+12 - Os documentos comprovativos das transacções dos cereais devem conter as menções referentes ao processo de cobrança da taxa de co-responsabilidade nos termos que vierem a ser fixados pelo INGA antes do início de cada campanha de comercialização.
+
+13 - Os declarantes deverão facultar todos os meios necessários à execução das acções de controlo a efectuar pelo INGA ou por outras entidades por este designadas para o efeito.
+
+14 - A prestação de falsas declarações conduzirá à aplicação de sanções nos termos da regulamentação comunitária e nacional.
+
+15 - Este diploma produz efeitos a partir de 1 de Junho de 1991 para os cereais sobre os quais incide a taxa de co-responsabilidade nos termos da legislação comunitária, à excepção do milho e do sorgo, para os quais se aplicará a partir de 1 de Julho de 1991, e entra em vigor no dia imediato ao da sua publicação.
+
+Ministério da Agricultura, Pescas e Alimentação, 22 de Agosto de 1991. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.

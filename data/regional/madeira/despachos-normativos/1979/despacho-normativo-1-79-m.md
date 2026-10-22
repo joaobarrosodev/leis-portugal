@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:382457:por
+title: Despacho Normativo n.º 1/79/M
+short_title: null
+summary: Autoriza a Capitania do Porto do Funchal a proceder à inscrição marítima dos residentes na região há mais de dois
+  anos que tenham assegurado trabalho em navios de empresas estrangeiras ou embarcações de tráfego local ou pesca registadas
+  nos portos
+jurisdiction: regional
+territory: madeira
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Região Autónoma da Madeira - Gabinete do Ministro da República
+proposing_entity: null
+official_number: 1/79/M
+official_date: null
+publication_date: '1979-04-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/1979, Série I de 1979-04-14
+  number: '87'
+  series: I
+  supplement: null
+  pages: 605 - 605
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08700/06050605.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '382457'
+  dre_path: /dr/detalhe/despacho-normativo/1-1979-382457
+  internal: pt:dre:382457:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-1979-382457
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-1979-382457
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-02-25T00:00:00Z'
+integrity:
+  source_sha256: 1b512296b552fce911d9044fa9db035c29257bffda02c462554a591274dbb93d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1979/DRE-1979-1-382457.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:679655:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 1/79/M
+
+Face ao disposto no artigo 249.º do Decreto-Lei n.º 45969, de 15 de Outubro de 1964, conjugado com o estabelecido pelo [Despacho Normativo n.º 150/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/150-1978-297999), de 2 de Junho, muitos trabalhadores portugueses que desempenham funções a bordo de navios estrangeiros deixarão de poder exercer a sua actividade, por dificuldade de obtenção da necessária licença das autoridades marítimas, por não poderem satisfazer as exigências legais.
+
+Tendo em conta os aspectos específicos do sector na Região Autónoma da Madeira, nomeadamente:
+
+A não existência de meios que facultem a satisfação dos requisitos estabelecidos;
+
+Uma tradição pela qual muitas empresas de navegação estrangeiras contratam desde há muito indivíduos para os diversos misteres da marinha mercante;
+
+A circunstância do [Despacho Normativo n.º 150/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/150-1978-297999) lançar no desemprego mais de uma dezena de trabalhadores, chefes de família, que há anos trabalham em navios estrangeiros que normalmente escalam o Funchal:
+
+Torna-se necessária uma solução, embora transitória, que contemple estes problemas em relação à Região Autónoma da Madeira.
+
+Nestes termos, e de acordo com o parecer do Governo Regional da Madeira:
+
+Determino:
+
+1 - Não obstante o disposto no [Despacho Normativo n.º 150/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/150-1978-297999), de 2 de Junho, até publicação de legislação adequada, fica autorizada a Capitania do Porto do Funchal a proceder à inscrição marítima dos indivíduos residentes na Região Autónoma da Madeira há mais de dois anos que tenham assegurado trabalho em navios de empresas estrangeiras ou embarcações do tráfego local ou pesca registadas nos portos da região.
+
+2 - Para a inscrição marítima dos indivíduos, enquanto não existam na região associações sindicais do sector e de armadores, será ouvida a Secretaria Regional do Trabalho, através da Direcção Regional do Emprego e Formação Profissional.
+
+3 - A inscrição marítima a que se refere o n.º 1 só pode ser efectuada nas categorias consideradas de ingresso desde que os candidatos satisfaçam a todas as condições do título IV do RIM.
+
+a) Até 31 de Dezembro de 1979 poderão ser inscritos os candidatos que demonstrem possuir as habilitações necessárias para a categoria, mediante exame a efectuar na Capitania do Porto do Funchal ou pela apresentação de documentos considerados suficientes.
+
+4 - Aos candidatos à inscrição marítima serão exigidas as habilitações literárias mínimas equivalentes à escolaridade obrigatória, de acordo com o [Decreto-Lei n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1978-468838), de 11 de Janeiro.
+
+5 - O movimento da inscrição marítima efectuado ao abrigo do presente despacho deverá ser comunicado mensalmente à Direcção-Geral do Pessoal do Mar.
+
+6 - Sem embargo do disposto no artigo 249.º do RIM, até publicação de legislação adequada, fica autorizada a Capitania do Porto do Funchal a permitir a matrícula em embarcações estrangeiras aos marítimos residentes na Região Autónoma da Madeira, com dispensa do estipulado na alínea b) e §§ 2.º e 3.º, nas referidas embarcações.
+
+Gabinete do Ministro da República para a Região Autónoma da Madeira, 28 de Fevereiro de 1979. - O Ministro da República, Lino Dias Miguel.

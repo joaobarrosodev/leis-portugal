@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:308115:por
+title: Decreto-Lei n.º 6/83
+short_title: null
+summary: Fixa os limites máximos de aflatoxinas permitidas para o amendoim e outros alimentos para consumo humano
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios dos Assuntos Sociais e da Agricultura, Comércio e Pescas
+proposing_entity: null
+official_number: 6/83
+official_date: null
+publication_date: '1983-01-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 11/1983, Série I de 1983-01-14
+  number: '11'
+  series: I
+  supplement: null
+  pages: 74 - 75
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01100/00740075.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '308115'
+  dre_path: /dr/detalhe/decreto-lei/6-1983-308115
+  internal: pt:dre:308115:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1983-308115
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1983-308115
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-01-14T00:00:00Z'
+integrity:
+  source_sha256: c4f4ea6282f7b285779df8b622a23d9212deec72102247eba7927c8918e3b1f8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-6-308115.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 6/83
+
+de 14 de Janeiro
+
+1. Durante longos anos, admitiu-se que os fungos que aparecem com relativa frequência nos géneros alimentícios, designadamente nos transportados e armazenados em deficientes condições de humidade e temperatura, eram praticamente inofensivos para a saúde humana e dos animais.
+
+Sabe-se, porém, hoje, que determinadas espécies de fungos têm uma actividade bioquímica intensa e podem elaborar uma gama muito vasta de compostos moleculares orgânicos, designados por metabolitos fúngicos secundários, alguns dos quais se têm revelado tóxicos para os seres humanos e para os animais, sendo, na generalidade, designados por micotoxinas.
+
+De entre estas, destaca-se o grupo das chamadas aflatoxinas, produzidas sobretudo pelo fungo Aspergillus flavus, causadoras de graves doenças, nomeadamente de cirrose hepática e de carcinoma do fígado.
+
+Está, na verdade, demonstrada a sua extrema acção carcinogénica em animais de experiência e existem provas de uma estreita ligação entre o grau de contaminação do regime alimentar por aflatoxinas e a incidência do cancro do fígado, em relação a determinados grupos da população humana.
+
+As aflatoxinas podem contaminar qualquer dos alimentos-base consumidos pelo homem, mas são sobretudo as proteínas vegetais as mais vulneráveis, mormente os cereais, certas sementes e frutos oleaginosos, sendo de destacar, nestes últimos, o amendoim e as nozes.
+
+2. Ora, se é certo que, relativamente à alimentação dos animais, se estabeleceram já, através da [Portaria n.º 671/73](https://diariodarepublica.pt/dr/detalhe/portaria/671-1973-413044), de 8 de Outubro, os limites máximos permitidos em matéria de aflatoxinas, a verdade é que, neste domínio, nada se fez no tocante aos alimentos destinados ao consumo humano, situação a que urge pôr cobro.
+
+3. De entre as várias acções que nesta área vêm sendo implementadas pelo Instituto de Qualidade Alimentar (IQA), destacam-se as inerentes ao controle de aflatoxinas no amendoim importado para consumo humano em natureza, produto relativamente ao qual têm sido detectados por via laboratorial elevados graus de contaminação, não obstante os respectivos certificados de alguns países de origem referirem o contrário.
+
+Torna-se, portanto, necessário e urgente fixar o limite máximo de aflatoxinas admitido para que o produto possa ser utilizado na alimentação humana e ao mesmo tempo uniformizar critérios relativamente à colheita de amostras, à sua preparação e ao método de análise a seguir.
+
+Ao tomarem-se estas medidas, tem-se a consciência de que se irão, possivelmente à semelhança do que aconteceu com outros países ao publicarem legislação sobre esta matéria, afectar interesses ligados ao comércio do referido produto; mas, acima de tudo, há que ter bem presente que elas se justificam plenamente, por terem como objectivo fundamental a defesa do consumidor.
+
+4. Com o mesmo objectivo, acha-se conveniente que o presente diploma estabeleça igualmente os limites máximos de aflatoxinas admitidos para outros produtos alimentares destinados ao consumo humano.
+
+5. Ao estabelecerem-se quer para o amendoim quer para os outros produtos estes limites, ressalva-se o facto de que, não se dispondo ainda entre nós de uma grande experiência em matéria de controle e de investigação de aflatoxinas, em relação a alimentos para consumo humano, e sendo, por outro lado, escassos ou mesmo nulos os dados existentes no campo médico quanto à incidência de micotoxicoses no nosso país, houve necessidade de se ajustarem tais valores aos vigentes nalguns países, segundo um critério que, dando garantias ao consumidor, acautela, dentro de certa medida, os interesses dos agentes económicos nacionais relacionados com a importação, produção e venda de bens alimentares.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Sem prejuízo das atribuições cometidas por lei à Direcção-Geral de Saúde, nos aspectos relacionados com a defesa da saúde pública, a fiscalização e o controle da qualidade quer do amendoim importado, destinado a rações para animais, ao consumo humano em natureza ou a fins industriais, quer dos outros produtos alimentares a que se refere o presente diploma serão da competência do IQA ou dos organismos oficiais em que este Instituto entenda dever delegar a sua execução.
+
+###### Art. 2.º - 1 - Para efeito do disposto no artigo anterior, o pessoal do IQA e dos organismos em que o mesmo Instituto delegar terá, nos termos das disposições legais em vigor, livre acesso a todos os locais onde se encontrem os produtos em causa, inclusive a bordo dos meios de transporte, a fim de ajuizar das condições em que os mesmos produtos foram ou estiverem acondicionados.
+
+2 - O pessoal referido no número anterior poderá requisitar meios necessários para a execução das tarefas atrás mencionadas, mesmo os das entidades sob cuja guarda estiverem os produtos alimentares de que trata o presente diploma.
+
+###### Art. 3.º A colheita de amostras de cada partida ou lote de amendoim será efectuada em conformidade com as indicações da norma portuguesa NP-855.
+
+###### Art. 4.º O método de análise utilizado para a determinação dos teores de aflatoxinas no amendoim destinado a rações para animais, ao consumo humano em natureza ou para fins industriais é o estabelecido pela norma portuguesa NP-1822.
+
+###### Art. 5.º A preparação de cada amostra ou subamostra de amendoim para análise laboratorial será efectuada em conformidade com a norma portuguesa NP-915.
+
+###### Art. 6.º Enquanto não forem estabelecidas normas oficiais para colheita de amostras e métodos de análise aplicáveis aos outros alimentos para o consumo humano indicados no artigo 7.º, as referidas normas serão definidas, quanto à colheita de amostras, pelo IQA e, quanto aos métodos de doseamento das aflatoxinas, pelo referido Instituto, conjuntamente com o Instituto Nacional de Saúde Dr. Ricardo Jorge (INSA).
+
+###### Art. 7.º Os limites máximos permitidos de aflatoxinas (B1) nos alimentos destinados ao consumo humano, importados ou produzidos no País, são os seguintes:
+
+Amendoim - 25 p. p. b.;
+
+Alimentos dietéticos e de regime para crianças - 5 p. p. b.;
+
+Restantes alimentos - 20 p. p. b.
+
+###### Art. 8.º Às infracções ao disposto no artigo anterior serão aplicáveis as penas previstas nos artigos 17.º, 18.º, 19.º e 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, e legislação complementar.
+
+###### Art. 9.º Qualquer agente económico nacional, relacionado com a importação, produção e venda dos produtos alimentares referidos no presente diploma, poderá interpor recurso, nos termos das disposições legais em vigor, sempre que se não conforme com os resultados das análises laboratoriais ou com as decisões dos serviços oficiais de fiscalização e controle da qualidade.
+
+Visto e aprovado em Conselho de Ministros de 25 de Maio de 1982. - Francisco José Pereira Pinto Balsemão - Luís da Silva Eduardo Barbosa - Basílio Adolfo Mendonça Horta da Franca.
+
+**Promulgado em 5 de Janeiro de 1983.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

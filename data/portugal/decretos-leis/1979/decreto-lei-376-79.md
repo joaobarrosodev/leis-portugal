@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:369598:por
+title: Decreto-Lei n.º 376/79
+short_title: null
+summary: Estabelece as condições em que é concedido o transporte a efectuar por via férrea, fluvial ou marítima por militares
+  dos três ramos das forças armadas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 376/79
+official_date: null
+publication_date: '1979-09-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 212/1979, Série I de 1979-09-13
+  number: '212'
+  series: I
+  supplement: null
+  pages: 2292 - 2292
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21200/22922292.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '369598'
+  dre_path: /dr/detalhe/decreto-lei/376-1979-369598
+  internal: pt:dre:369598:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1979-369598
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1979-369598
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-12-30T00:00:00Z'
+integrity:
+  source_sha256: 0b88a6ec3bdfb24208393c15a3fc4e0c0a1264afcad348764e946cdbbe6713e6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-376-369598.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:210839:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 376/79
+
+de 13 de Setembro
+
+Considerando a necessidade de ajustar o sistema de utilização das classes em meios comerciais ferroviários, fluviais e marítimos por militares dos três ramos das Forças Armadas e respectivos familiares nas deslocações que importem despesas para o Estado:
+
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - O transporte a efectuar por via férrea, fluvial ou marítima será concedido nas seguintes condições:
+
+a) Por via férrea, em 1.ª classe, aos oficiais, aspirantes a oficial e sargentos e equiparados; em 2.ª classe, às praças e equiparados;
+
+b) Por via fluvial ou marítima, em 1.ª classe, aos oficiais, aspirantes a oficial e equiparados e sargentos e equiparados; em turística ou classes equivalentes, às praças e equiparados.
+
+2 - As condições referidas no número anterior são extensivas às famílias dos militares ou equiparados, quando viajam por conta do Estado.
+
+###### Art. 2.º - 1 - Os oficiais generais, bem como os seus ajudantes de campo que os acompanhem, poderão viajar em lugares superiores aos de 1.ª classe, quando os haja à disposição do público, bem como em comboios rápidos e com suplemento, sem quaisquer restrições, não sendo, contudo, estas concessões extensivas à família dos mesmos oficiais.
+
+2 - Aos restantes militares e equiparados só poderá conceder-se o transporte em comboios rápidos por razões de economia ou conveniência de serviço. Nos outros casos, a utilização de comboios com suplemento importa para o utente o encargo de suportar a taxa adicional, quando a isso haja lugar.
+
+###### Art. 3.º No caso de supressão de alguma classe, as passagens serão concedidas na classe imediatamente superior.
+
+###### Art. 4.º Este diploma entra em vigor trinta dias após a data da sua publicação.
+
+Visto e aprovado em Conselho da Revolução em 30 de Março de 1979.
+
+**Promulgado em 6 de Agosto de 1979.**
+
+**Publique-se.**
+
+**O Presidente da República ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.**

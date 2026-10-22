@@ -1,0 +1,343 @@
+---
+schema_version: '1.0'
+id: pt:dre:540999:por
+title: Resolução do Conselho de Ministros n.º 11/2006
+short_title: null
+summary: Ratifica o Plano de Urbanização da Expansão Norte da Cidade de Beja, no município de Beja
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 11/2006
+official_date: null
+publication_date: '2006-01-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 16/2006, Série I-B de 2006-01-23
+  number: '16'
+  series: I
+  supplement: null
+  pages: 508 - 511
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/01/016b00/05080511.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/11/2006/01/23/p/dre/pt/html
+  oj: null
+  dre: '540999'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/11-2006-540999
+  internal: pt:dre:540999:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-2006-540999
+  metadata_url: https://data.dre.pt/eli/resolconsmin/11/2006/01/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/11-2006-540999
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-01-23T00:00:00Z'
+integrity:
+  source_sha256: e2a10cfdf3eac17a525fd25787292662b1bd44fd11b81a2780d9577cdd1d39db
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-11-540999.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Plano Director Municipal
+- Beja
+- Política de Solos
+- Plano de Urbanização
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/282/1993/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/282/1993/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/69/2003/04/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/69/2003/04/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port
+  label: null
+  source: http://data.dre.pt/eli/port
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/464/2003/06/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/464/2003/06/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/744-b/1993/08/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/123/2000/10/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/123/2000/10/07/p/dre
+article_structure:
+  article_count: 17
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 11/2006
+
+Sob proposta da Câmara Municipal, a Assembleia Municipal de Beja aprovou, em 28 de Junho de 2004, o Plano de Urbanização da Expansão Norte da Cidade de Beja, no município de Beja.
+
+Foram cumpridas todas as formalidades legais, designadamente quanto à discussão pública prevista no artigo 77.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção dada pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro.
+
+O município de Beja dispõe de Plano Director Municipal, ratificado pela [Resolução do Conselho de Ministros n.º 123/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-2000-543930), de 7 de Outubro.
+
+O Plano de Urbanização da Expansão Norte da Cidade de Beja altera o Plano Director Municipal de Beja, que prevê que a área em questão seja desenvolvida por plano de pormenor que estabelecerá os respectivos indicadores urbanísticos de referência.
+
+Salienta-se que os n.os 3 e 4 do artigo 8.º do Regulamento, no que diz respeito aos estabelecimentos industriais das classes A e B, devem ser interpretados e aplicados de acordo com o regime jurídico estabelecido no [Decreto-Lei n.º 69/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2003-226807), de 10 de Abril, e nas disposições da [Portaria n.º 464/2003](https://diariodarepublica.pt/dr/detalhe/portaria/464-2003-683047), de 6 de Junho, que revogaram, respectivamente, o [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, alterado pelo [Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987), de 17 de Agosto, e a [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto, que previa aquelas classes de estabelecimentos industriais.
+
+De mencionar ainda que no n.º 4 do artigo 13.º do Regulamento a suspensão da contagem dos prazos para efeitos relativos à validade do licenciamento se encontra condicionada à verificação do estatuído no n.º 1 do artigo 42.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro, que estabelece as bases da política e do regime de protecção e valorização do património cultural, isto é, a notificação do acto que determina a abertura do procedimento de classificação de bens imóveis.
+
+Verifica-se a conformidade do Plano de Urbanização da Expansão Norte da Cidade de Beja com as disposições legais e regulamentares em vigor.
+
+O Plano foi objecto de parecer favorável da Comissão de Coordenação e Desenvolvimento Regional do Alentejo.
+
+Considerando o disposto na alínea d) do n.º 3 e no n.º 8 do artigo 80.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção dada pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro:
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Ratificar o Plano de Urbanização da Expansão Norte da Cidade de Beja, cujo Regulamento, planta de zonamento e planta de condicionantes se publicam em anexo à presente resolução, dela fazendo parte integrante.
+
+2 - Fica alterado o Plano Director Municipal de Beja na área de intervenção do Plano de Urbanização da Expansão Norte da Cidade de Beja.
+
+Presidência do Conselho de Ministros, 5 de Janeiro de 2006. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+REGULAMENTO DO PLANO DE URBANIZAÇÃO DA EXPANSÃO NORTE DA CIDADE DE BEJA
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O Plano de Urbanização da Expansão Norte da Cidade de Beja estabelece as regras a que deve obedecer qualquer tipo de intervenção, definindo a rede viária estruturante, a localização de equipamentos de uso e interesse colectivo e das zonas verdes, o zonamento para localização das diversas funções urbanas e os indicadores e parâmetros urbanísticos aplicáveis, que constituem critérios e orientações para a gestão urbanística da área abrangida.
+
+###### Artigo 2.º — Área de intervenção
+
+1 - O presente Regulamento aplica-se à área do Plano de Urbanização da Expansão Norte da Cidade de Beja, delimitada pelo IP 8 a sul, e na parte restante pelo perímetro urbano, tal como está definido na planta de ordenamento da cidade no Plano Director Municipal de Beja.
+
+2 - O Plano de Urbanização da Expansão Norte da Cidade de Beja contempla os loteamentos aprovados dentro da área de intervenção e subordina-se às disposições do Plano Director Municipal em vigor.
+
+### CAPÍTULO II — Usos
+
+###### Artigo 3.º — Categorias de espaço
+
+O Plano de Urbanização define as seguintes categorias de espaço:
+
+a) Zona habitacional consolidada;
+
+b) Zona industrial consolidada;
+
+c) Zona industrial a reconverter;
+
+d) Zona habitacional de expansão;
+
+e) Zona industrial de expansão;
+
+f) Zona de equipamento;
+
+g) Zona verde.
+
+###### Artigo 4.º — Zona habitacional consolidada
+
+1 - A zona habitacional consolidada integra dois núcleos habitacionais: o Bairro da Esperança e o Bairro de São Miguel.
+
+2 - Estes núcleos estão sujeitos às seguintes regras:
+
+a) No Bairro da Esperança as intervenções devem respeitar o Plano de Pormenor de Reabilitação do Bairro da Esperança, a ser elaborado para reabilitação do Bairro, respeitando os parâmetros previstos no Plano Director Municipal de Beja para as zonas de expansão H2;
+
+b) No Bairro de São Miguel:
+
+1) Admite-se a edificação em lote livre, cuja cércea máxima, sem prejuízo do fixado no Regulamento Geral das Edificações Urbanas, será fixada pela cércea das edificações contíguas;
+
+2) Na construção ou reconstrução devem ser respeitados os alinhamentos e as tipologias definidas pelas edificações existentes.
+
+###### Artigo 5.º — Zona industrial consolidada
+
+1 - À zona industrial consolidada corresponde a área de indústria e armazéns dotada de infra-estruturas urbanísticas adequadas e que dispõe de alinhamentos definidos e enquadráveis na estrutura urbana definida neste Plano.
+
+2 - Estas zonas ficam sujeitas aos seguintes condicionalismos:
+
+a) Admite-se nas instalações existentes obras de modernização, reestruturação, adaptação ou renovação;
+
+b) Em caso de remodelação a área de estacionamento no interior do lote não deve ser inferior a 10% da superfície do pavimento;
+
+c) A superfície máxima coberta relativamente à área do lote é de 70%.
+
+3 - Admite-se a remodelação total destas zonas desde que devidamente justificadas, sujeitas a plano de pormenor ou loteamento, devendo, neste caso, ser respeitados os condicionamentos relativos às zonas industriais de expansão.
+
+###### Artigo 6.º — Zona industrial a reconverter
+
+1 - À zona industrial a reconverter corresponde a área consolidada de indústria e armazéns que, em termos de usos, alinhamentos e estrutura, se encontram desenquadrados da estrutura urbana e parâmetros definidos neste Plano de Urbanização.
+
+2 - Estas zonas serão objecto de plano de pormenor ou loteamento que promova a utilização dessas áreas de acordo com os condicionamentos aplicáveis às áreas industriais de expansão.
+
+3 - No período de transição até à concretização do projecto de reconversão destas zonas não é permitido que as instalações existentes sejam objecto de obras de reestruturação e ampliação.
+
+###### Artigo 7.º — Zona habitacional de expansão
+
+1 - A zona habitacional de expansão corresponde à expansão do Bairro da Esperança que está a ser objecto do Plano de Pormenor de Reabilitação do Bairro da Esperança que engloba também a reabilitação do Bairro e que está a ser elaborado ao abrigo de um programa de reabilitação urbana.
+
+2 - Qualquer intervenção nesta zona deve respeitar as regras desse Plano de Pormenor, devendo ser considerada uma zona de expansão habitacional H1, em conformidade com as regras previstas no Plano Director Municipal de Beja.
+
+###### Artigo 8.º — Zona industrial de expansão
+
+1 - As zonas industriais de expansão correspondem a lotes desocupados e que poderão, mediante a elaboração de planos de pormenor ou loteamento, vir a ter a ocupação prevista neste Plano.
+
+2 - Nestas zonas podem ser admitidas actividades industriais, de armazenagem, serviços e comércio por grosso.
+
+3 - É interdita a instalação de parques de sucata, depósitos de resíduos sólidos, instalações industriais da classe A, depósitos de produtos explosivos e de produtos inflamáveis por grosso.
+
+4 - É admitida a instalação de unidades industriais da classe B, sem prejuízo do cumprimento da legislação aplicável, desde que não tenham impacte negativo significativo sobre a área envolvente e caso sejam acauteladas todas as medidas de minimização adequadas, o que deverá ser garantido na fase de licenciamento.
+
+5 - Os planos de pormenor e os loteamentos a executar ficam sujeitos às seguintes regras:
+
+a) Os arruamentos a prever terão a largura mínima de 9 m e deverão ser arborizados;
+
+b) Sempre que tal se justifique deverá prever-se uma área de parqueamento exterior aos lotes, comum a toda a zona;
+
+c) A área máxima de impermeabilização no total da área dos lotes não será superior a 70%;
+
+d) A altura máxima da construção é de 9,5 m, medida da cota de soleira ao beirado;
+
+e) Para cálculo da área de pavimento total, a área de telheiros é contabilizada a 50%;
+
+f) As áreas destinadas a salas de formação, instalações para tempos livres, para actividades culturais, recreativas ou desportivas poderão ser acrescidas à superfície de implantação do lote, desde que não excedam 5% da área do mesmo;
+
+g) A área de parqueamento obedece ao disposto na [Portaria n.º 1136/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1136-2001-610032), de 25 de Setembro, dispondo de acessos com perfis compatíveis ao tipo de indústria a instalar;
+
+h) Os projectos de arranjos dos espaços exteriores e respectivos planos de plantação constituem peça de apresentação aconselhável;
+
+i) Nas operações de loteamento devem ser respeitados os parâmetros definidos na [Portaria n.º 1136/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1136-2001-610032), de 25 de Setembro, para dimensionamento dos espaços verdes e de utilização colectiva e dos equipamentos de utilização colectiva;
+
+j) Os efluentes derivados da produção industrial apenas podem ser lançados no colector municipal após tratamento processado em estação própria.
+
+###### Artigo 9.º — Zona de equipamento
+
+1 - São zonas de equipamento as destinadas à implantação de equipamentos de interesse e uso colectivos.
+
+2 - As zonas de equipamento propostas localizam-se em terrenos municipais, sem prejuízo de se poderem localizar equipamentos noutros locais que venham a ser propostos na sequência de planos de pormenor ou loteamentos.
+
+###### Artigo 10.º — Zona verde
+
+1 - As zonas verdes previstas neste Plano correspondem a zonas de protecção ao IP 8 e à rede ferroviária, às faixas arborizadas previstas ao longo da estrutura viária fundamental, à faixa de separação entre o Bairro de São Miguel e a ocupação industrial e à zona do aterro sanitário e envolvente.
+
+2 - Estas zonas são públicas, devendo a sua execução ser objecto de plano de pormenor.
+
+3 - As zonas verdes de protecção às redes viária e ferroviária devem estar sujeitas aos seguintes condicionalismos:
+
+a) É interdito o loteamento urbano;
+
+b) É interdita a execução de qualquer edificação;
+
+c) É interdita a descarga de entulhos de qualquer tipo e o depósito de materiais.
+
+4 - A zona verde de protecção do Bairro de São Miguel pode ser devidamente equipada, destinando-se a recreio e serviços ao ar livre.
+
+5 - A zona do aterro sanitário que está selado deverá ser objecto de projecto de recuperação, constituindo, em conjunto com os terrenos anexos, uma zona verde, com as regras previstas no Plano de Pormenor de Reabilitação do Bairro da Esperança, que integra estas áreas, em conformidade com o determinado no Plano Director Municipal de Beja.
+
+### CAPÍTULO III — Infra-estruturas
+
+###### Artigo 11.º — Rede viária
+
+A rede viária fundamental é constituída pela rede viária estruturante da ocupação proposta, que será completada pelo esquema viário que vier a ser definido para cada parcela e que possui as seguintes características:
+
+a) Faixa de rodagem com 9 m;
+
+b) Passeio arborizado com 2,5 m;
+
+c) Não se prevê estacionamento ao longo destas vias.
+
+###### Artigo 12.º — Rede eléctrica
+
+1 - Devem ser respeitados, de acordo com as disposições legais aplicáveis, os corredores de protecção das linhas constantes na planta de condicionantes.
+
+2 - A rede de média tensão pode ser reconvertida para subterrânea, no âmbito dos planos de pormenor ou loteamentos que vierem a ser elaborados.
+
+### CAPÍTULO IV — Arqueologia
+
+###### Artigo 13.º — Arqueologia
+
+1 - Qualquer trabalho que implique revolvimento do subsolo deve ser precedido da respectiva prospecção arqueológica.
+
+2 - O aparecimento de quaisquer vestígios arqueológicos implica a paragem imediata dos trabalhos e a comunicação da ocorrência ao Instituto Português de Arqueologia, ao Instituto Português do Património Arquitectónico ou à autoridade policial.
+
+3 - Os trabalhos só podem recomeçar depois das instituições mencionadas no número anterior se pronunciarem.
+
+4 - Na eventualidade da suspensão das obras devido a trabalhos arqueológicos será suspensa a contagem dos prazos para efeitos relativos à validade do licenciamento.
+
+### CAPÍTULO V — Condicionantes
+
+###### Artigo 14.º — Servidões e restrições de utilidade pública
+
+1 - As servidões e restrições de utilidade pública existentes na área do Plano correspondem às zonas de protecção ao IP 8 e à linha de caminho de ferro e a corredores de protecção de infra-estruturas eléctricas.
+
+2 - Nas áreas referidas no número anterior aplica-se a legislação em vigor relativa a cada servidão constituída.
+
+### CAPÍTULO VI — Disposições finais
+
+###### Artigo 15.º — Controlo da poluição sonora
+
+As áreas envolventes às áreas industriais são classificadas como zonas mistas no que se refere ao controlo da poluição sonora, devendo ser respeitado para o efeito o estabelecido no Regulamento Geral do Ruído.
+
+###### Artigo 16.º — Sanções
+
+Constitui contra-ordenação punível com coima, nos termos das disposições legais aplicáveis, a realização de obras e a utilização de edificações ou do solo em violação do presente Regulamento.
+
+###### Artigo 17.º — Casos omissos
+
+Nos casos omissos não previstos neste Regulamento aplica-se o disposto na legislação em vigor.
+
+[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2006/01/016b00/05080511.pdf)

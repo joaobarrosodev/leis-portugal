@@ -1,0 +1,505 @@
+---
+schema_version: '1.0'
+id: pt:dre:424107:por
+title: Portaria n.º 418/98
+short_title: null
+summary: Fixa as taxas devidas pelos diversos actos previstos no Código da Propriedade Industrial e as resultantes da aplicação
+  a Portugal da Convenção de Munique sobre a Patente Europeia e do Tratado de Cooperação em Matéria de Patentes (PCT)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Economia
+proposing_entity: null
+official_number: 418/98
+official_date: null
+publication_date: '1998-07-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 166/1998, Série I-B de 1998-07-21
+  number: '166'
+  series: I
+  supplement: null
+  pages: 3492 - 3494
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/07/166b00/34923494.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/418/1998/07/21/p/dre/pt/html
+  oj: null
+  dre: '424107'
+  dre_path: /dr/detalhe/portaria/418-1998-424107
+  internal: pt:dre:424107:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-1998-424107
+  metadata_url: https://data.dre.pt/eli/port/418/1998/07/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-1998-424107
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-07-31T00:00:00Z'
+integrity:
+  source_sha256: cf68e2804320e24a8ab6204b8bfa626cee1e5cbb3507ae6fd59a67dad66d9484
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-418-424107.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código da Propriedade Industrial
+- Denominação de Origem
+- Convenção
+- Marca
+- Macau
+- Patente
+- Propriedade Industrial
+- Marca Registada
+- Munique
+- Invenção
+- Taxa
+- TAXA de Prestação de Serviços
+- Tratado de Cooperação em Matéria de Patentes
+relationships:
+- type: amended_by
+  target: pt:dre:652287:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/409/1996/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/409/1996/08/23/p/dre
+article_structure:
+  article_count: 0
+  section_count: 1
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 418/98
+
+de 21 de Julho
+
+Considerando que a entrada em vigor do Código da Propriedade Industrial instituiu novos actos aos quais necessariamente tem de corresponder o pagamento de taxas que não estão ainda previstas na [Portaria n.º 409/96](https://diariodarepublica.pt/dr/detalhe/portaria/409-1996-406477), de 23 de Agosto, com a devida adequação e distribuição;
+
+Considerando que as taxas praticadas pelo INPI são ainda muito inferiores à média das correspondentes taxas praticadas pelos Estados comunitários e, nomeadamente, pelo Instituto Europeu de Patentes;
+
+Ao abrigo do artigo 278.º do Código da Propriedade Industrial:
+
+Manda o Governo, pelos Ministros das Finanças e da Economia, o seguinte:
+
+1.º As taxas devidas pelos diversos actos previstos no Código da Propriedade Industrial e as resultantes da aplicação a Portugal da Convenção de Munique sobre a Patente Europeia e do Tratado de Cooperação em Matéria de Patentes (PCT) são as seguintes:
+
+Pedidos (ver nota *)
+
+Patente de invenção - 17500$00.
+
+Patente europeia feito ou não no INPI - 9300$00.
+
+No acto do pedido de protecção provisória ou de validação nacional - 8200$00.
+
+Internacionais (PCT) feito ou não no INPI - 9300$00.
+
+No acto do pedido de protecção provisória ou de estudo nacional - 8200$00.
+
+Modelo de utilidade - 16500$00.
+
+Topografia dos produtos semicondutores - 7800$00.
+
+Desenho e modelo industriais - 6400$00.
+
+Por cada objecto - 4300$00.
+
+Mediação no âmbito das licenças de exploração obrigatórias - 27500$00.
+
+Marca de produtos ou serviços:
+
+Por cada classe, seja qual for o número de produtos - 9300$00.
+
+Marca de artífice:
+
+Por cada classe, seja qual for o número de produtos - 5500$00.
+
+Marca colectiva de associação:
+
+Por cada classe, seja qual for o número de produtos - 10900$00.
+
+Marca colectiva de certificação:
+
+Por cada classe, seja qual for o número de produtos - 10900$00.
+
+Marca de base:
+
+Por cada classe, seja qual for o número de produtos - 15000$00.
+
+Registo internacional de marca nacional, ou renovação - 24000$00.
+
+Extensões posteriores - 24000$00.
+
+Recompensa - 10300$00.
+
+Nome ou insígnia - 8700$00.
+
+Logótipo - 8700$00.
+
+Denominação de origem ou indicação geográfica - 13800$00.
+
+Registo internacional de denominação de origem ou indicação geográfica nacional - 8500$00.
+
+Processo especial de registo de marca - 21200$00, mais taxa do pedido registo respectivo.
+
+(nota *) Estas taxas incluem as de publicação dos pedidos no Boletim da Propriedade Industrial e as referentes às duas primeiras anuidades para as patentes, modelos e desenhos.
+
+Publicações
+
+Por nova publicação do pedido:
+
+Patente de invenção - 8200$00.
+
+Modelo de utilidade - 8200$00.
+
+Topografia dos produtos semicondutores - 2750$00.
+
+Desenho e modelo industriais:
+
+Por cada objecto - 3300$00.
+
+Por nova publicação de pedido de registo:
+
+Marca, recompensa, nome ou insígnia, logótipo ou denominação de origem - 3300$00.
+
+Actos relativos ao exame
+
+Patente de invenção - 20000$00.
+
+Modelo de utilidade - 16500$00.
+
+Topografia dos produtos semicondutores - 11000$00.
+
+Desenho e modelo industriais:
+
+Por cada objecto - 13000$00.
+
+Marca, recompensa, nome ou insígnia, logótipo ou denominação de origem - 3300$00.
+
+Oposição e recurso hierárquico
+
+Por cada reclamação, contestação, exposição ou peças análogas:
+
+Patente de invenção - 3750$00.
+
+Modelo de utilidade - 3750$00.
+
+Topografia dos produtos semicondutores - 2100$00.
+
+Desenho e modelo industriais - 2100$00.
+
+Marca, recompensa, nome ou insígnia, logótipo ou denominação de origem - 2100$00.
+
+Por cada recurso hierárquico - 2100$00.
+
+Registo e manutenção de direitos
+
+Patente de invenção:
+
+Anuidades:
+
+1.ª - 5000$00.
+
+2.ª - 6000$00.
+
+3.ª - 6700$00.
+
+4.ª - 8300$00.
+
+5.ª - 10600$00.
+
+6.ª - 11800$00.
+
+7.ª - 13400$00.
+
+8.ª - 15100$00.
+
+9.ª - 16800$00.
+
+10.ª - 18400$00.
+
+11.ª - 20100$00.
+
+12.ª - 22400$00.
+
+13.ª - 25200$00.
+
+14.ª - 28000$00.
+
+15.ª - 30800$00.
+
+16.ª - 33700$00.
+
+17.ª - 36300$00.
+
+18.ª - 40100$00.
+
+19.ª - 44900$00.
+
+20.ª - 49200$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Modelo de utilidade:
+
+Por cada anuidade:
+
+Da 1.ª à 5.ª - 4350$00.
+
+Da 6.ª à 10.ª - 5500$00.
+
+Da 11.ª à 15.ª ou seguintes - 7700$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Topografia dos produtos semicondutores:
+
+Por cada anuidade:
+
+Da 1.ª à 5.ª - 3300$00.
+
+Da 6.ª à 10.ª - 4350$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Desenho e modelo industriais:
+
+Por cada objecto:
+
+Da 1.ª à 5.ª - 3800$00.
+
+Da 6.ª à 10.ª - 4800$00.
+
+Da 11.ª à 15.ª - 6000$00.
+
+Da 16.ª à 20.ª - 7600$00.
+
+Da 21.ª à 25.ª ou seguintes - 11000$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Marca de produtos ou serviços:
+
+Registo ou renovação - 7800$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Marca de artífice:
+
+Registo ou renovação - 4300$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Marca colectiva de associação:
+
+Registo ou renovação - 7800$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Marca colectiva de certificação:
+
+Registo ou renovação - 7800$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Marca de base:
+
+Registo ou renovação - 7800$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Recompensa:
+
+Registo - 7500$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Nome ou insígnia:
+
+Registo ou renovação - 40000$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Logótipo:
+
+Registo ou renovação - 40000$00.
+
+Sobretaxa pela renovação dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Denominação de origem e indicação geográfica:
+
+Registo - 10900$00.
+
+Sobretaxa por registo dentro de seis meses - 50% da taxa em dívida.
+
+Averbamentos
+
+Modificações:
+
+De nome, firma, denominação social ou outro elemento de identificação do titular ou requerente - 4900$00.
+
+Residência ou sede quando resulte de actos não imputáveis ao titular ou ao requerente - 850$00.
+
+Do sinal, adição ou substituição de produtos ou serviços em pedidos de registo - taxa igual à do pedido de registo respectivo.
+
+Transmissão ou licença de exploração:
+
+Patente de invenção - 13200$00.
+
+Modelo de utilidade - 13200$00.
+
+Topografia dos produtos semicondutores - 13200$00.
+
+Desenho e modelo industriais - 13200$00.
+
+Marca de registo nacional - 13200$00.
+
+Recompensa - 7500$00.
+
+Nome ou insígnia - 20000$00.
+
+Logótipo - 20000$00.
+
+Certificado comprovativo da exploração - 10500$00.
+
+Extensões a Macau
+
+Patente de invenção - 11000$00.
+
+Modelo de utilidade - 9900$00.
+
+Desenho e modelo industriais - 9900$00.
+
+Marca:
+
+Registo ou renovação - 10900$00.
+
+Sobretaxa por registo dentro de seis meses - 50% da taxa em dívida.
+
+Revalidação - o triplo da taxa em dívida.
+
+Pedidos de caducidade
+
+Por cada pedido de caducidade, resposta a pedido de caducidade ou peças análogas - 2200$00.
+
+Outras taxas
+
+Certidão - 2300$00.
+
+Por cada página suplementar autenticada - 700$00.
+
+Certificado de pedido - 4900$00.
+
+Certificado de patente, modelo de utilidade, topografia dos produtos semicondutores ou registo - 4900$00.
+
+## Título - 4000$00.
+
+Outras vias de título - 6000$00.
+
+Transmissão de um pedido internacional PCT - 4650$00.
+
+Expediente, em pedido de marca comunitária - 3200$00.
+
+Entradas de requerimentos:
+
+Por cada apresentação - 800$00.
+
+Prestação de serviços
+
+Pesquisas:
+
+De elementos não informatizados:
+
+Por modalidade e por ano - 20000$00.
+
+De elementos informatizados:
+
+Por modalidade e:
+
+Com consulta a base de dados internas - 3300$00.
+
+Com consulta a base de dados externas - 6600$00.
+
+Acrescida de custo próprio da(s) base(s) de dado(s) utilizada(s); custo de telecomunicações.
+
+Por página de impressão de resultados - 110$00.
+
+Autenticação de resultados:
+
+Por página autenticada - 650$00.
+
+Informações:
+
+Por cada elemento solicitado (referente a um único processo) com consulta a base de dados internas - 1100$00.
+
+Por cada elemento solicitado (referente a um único processo) com consulta a base de dados externas - 2200$00.
+
+Cópias de documentos:
+
+Fascículos de patente - 2750$00.
+
+Outros por página A4 - 110$00.
+
+2.º Esta portaria entra em vigor a 30 dias após a data da publicação.
+
+Ministérios das Finanças e da Economia.
+
+**Assinada em 9 de Junho de 1998.**
+
+**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.**

@@ -1,0 +1,477 @@
+---
+schema_version: '1.0'
+id: pt:dre:157567893:por
+title: Portaria n.º 38/2021
+short_title: null
+summary: Cria as taxas de carbono sobre as viagens aéreas e marítimas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Infraestruturas e Habitação
+proposing_entity: null
+official_number: 38/2021
+official_date: null
+publication_date: '2021-02-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 32/2021, Série I de 2021-02-16
+  number: '32'
+  series: I
+  supplement: null
+  pages: 2 - 8
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03200/0000200008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-07-29'
+version_history:
+  file: portaria-38-2021.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2021-02-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-03-11'
+    amending: pt:dre:180121060:por
+    amending_title: Portaria n.º 110/2022
+    changes:
+    - Altera Artigo 8.º
+  - date: '2023-07-01'
+    amending: pt:dre:212137580:por
+    amending_title: Portaria n.º 110/2023
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+  - date: '2023-07-29'
+    amending: pt:dre:216323580:por
+    amending_title: Portaria n.º 242/2023
+    changes:
+    - Altera Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/38/2021/p/cons/20230728/pt/html
+  oj: null
+  dre: '157567893'
+  dre_path: /dr/detalhe/portaria/38-2021-157567893
+  internal: pt:dre:157567893:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-2021-157567893
+  metadata_url: https://data.dre.pt/eli/port/38/2021/p/cons/20230728/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-158240165
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-158240165
+  retrieved_at: '2026-10-22T12:39:58Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d7e6965e568a157b017ad407db98163cd241c48198445542485ae298dc903f94
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:39:58Z'
+  notes: 4 versão(ões); histórico completo em portaria-38-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cobrança de Impostos
+- Transporte Marítimo
+- Transporte Aéreo
+- Portugal
+- Regulamentação de Atos Legislativos
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:180121060:por
+  label: Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/110-2022-180121060
+  date: '2022-03-10'
+- type: amended_by
+  target: pt:dre:212137580:por
+  label: Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo
+    14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580
+  date: '2023-04-21'
+- type: amended_by
+  target: pt:dre:216323580:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/242-2023-216323580
+  date: '2023-07-28'
+- type: cites
+  target: celex:32008R1008
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/1008/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/166/2013/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/166/2013/12/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/398/1998/12/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/398/1998/12/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/42-a/2016/08/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42-a/2016/08/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/433/1999/10/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/433/1999/10/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/93/2020/11/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/93/2020/11/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+article_structure:
+  article_count: 22
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:39:58Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 38/2021
+
+Portaria n.º 38/2021
+
+de 16 de fevereiro
+
+Sumário: Cria as taxas de carbono sobre as viagens aéreas e marítimas.
+
+A implementação de uma estratégia consistente tendo em vista a redução das emissões poluentes e com o objetivo de se transitar para uma economia mais sustentável tem estado no centro das preocupações do XXII Governo Constitucional. O investimento na ferrovia, a redução tarifária nos transportes públicos e a aposta nas energias renováveis em detrimento dos combustíveis fósseis são uma marca dos últimos anos.
+
+As preocupações com o ambiente têm sido abordadas por diversas instituições internacionais: da Comissão Europeia à Organização das Nações Unidas, do Fundo Monetário Internacional à Organização para a Cooperação e Desenvolvimento Económico, são várias as organizações internacionais que destacam a importância de dotar os Estados dos meios necessários para responder a este desafio.
+
+Foram estas preocupações que estiveram na base da aprovação no Orçamento do Estado para 2021 da taxa de carbono sobre as viagens aéreas e marítimas, prevista no artigo 390.º da Lei n.º 75-B/2020, de 31 de dezembro.
+
+O transporte aéreo representava, em 2019, mais de 3 % das emissões de gases com efeito de estufa a nível comunitário. Para além de ser um dos setores mais poluentes, é um dos que mais tem aumentado as suas emissões. Apesar das melhorias ao nível da tecnologia dos aviões, o setor emitia em 2019 mais 70 % do que em 2005 e, segundo a International Civil Aviation Organization, se nada for feito até 2050, as emissões poluentes da aviação poderão quadruplicar.
+
+É importante ter em conta que o setor do transporte aéreo beneficia de um enquadramento fiscal vantajoso, contemplando isenções ao nível do imposto sobre os combustíveis e do imposto sobre o valor acrescentado dos bilhetes internacionais.
+
+Ao mesmo tempo, é necessário reconhecer que o transporte aéreo é muito relevante para a economia nacional, garantindo que o país tem boas ligações ao resto do mundo, dinamizando o turismo e estando diretamente ligado a centenas de milhares de postos de trabalho.
+
+A criação de uma taxa de carbono sobre as viagens aéreas é a solução mais equilibrada, que permite, simultaneamente, colocar os passageiros do transporte aéreo a contribuírem para projetos que tornam a economia ambientalmente mais sustentável através do Fundo Ambiental, enquanto, pelo seu valor nominal, a taxa terá as consequências económicas residuais para o setor.
+
+A taxa sobre os bilhetes tem a vantagem de ser facilmente aplicável e de ser percetível pelos utilizadores. Para além disso, tem um enquadramento legal favorável a nível europeu e é já aplicada em oito países europeus: Alemanha, Áustria, França, Holanda, Itália, Noruega, Reino Unido e Suécia. Acrescente-se ainda que um estudo do Banco Europeu de Investimentos, de setembro de 2019, concluiu que 82 % dos portugueses é favorável a uma taxa sobre a aviação, bem acima da média comunitária (72 %). Portugal é mesmo o segundo país, apenas atrás da Croácia, onde uma maior percentagem da população apoia esta solução.
+
+Por sua vez, o investimento na rede de portos comerciais tem ido além do desenvolvimento das infraestruturas portuárias, fazendo Portugal diferenciar-se e construir valor através da afirmação dos seus portos como plataformas logísticas globais dos grandes operadores mundiais e da sua transformação em hubs aceleradores de negócios e tecnologia, eficientes, inteligentes e sustentáveis, liderando a inovação no green shipping.
+
+As Diretivas comunitárias, transpostas para a legislação nacional, determinam que a partir de 1 de janeiro de 2020 não podem ser utilizados combustíveis navais cujo teor de enxofre exceda 1,5 % em massa, no mar territorial português, zona económica exclusiva e zonas de controlo da poluição incluídas em zonas de controlo das emissões de SOx, e, desde 1 de janeiro de 2010, que os navios atracados em portos nacionais, dando à tripulação tempo suficiente para terminar uma eventual operação de substituição do combustível o mais depressa possível depois da atracagem e o mais tarde possível antes da partida, não podem utilizar combustíveis navais cujo teor de enxofre seja superior a 0,1 % em massa.
+
+Todavia, quer no segmento do turismo de cruzeiros em particular, quer nos demais segmentos da atividade económica em geral, importa que Portugal continue a apostar na redução das emissões de gases com efeito de estufa.
+
+Ao mesmo tempo, é urgente reconhecer que o setor do turismo de cruzeiros é muito relevante para a economia regional, dinamizando o turismo e estando diretamente ligado a centenas de postos de trabalho diretos e indiretos. De acordo com a CLIA - Europe, Cruise Lines International Association, em 2018, os impactos diretos da indústria dos cruzeiros situaram-se nos 258 milhões de euros, em Portugal.
+
+A criação de uma taxa de carbono, processada pela autoridade portuária por meios simplificados digitais por via da Fatura Única Portuária, é uma solução equilibrada que permite colocar os passageiros dos navios de cruzeiros, quer estejam em trânsito, em embarque ou desembarque, a contribuírem para projetos que tornam a economia ambientalmente mais sustentável através do Fundo Ambiental.
+
+O objetivo é, pois, reunir meios que possibilitem o investimento em setores verdes através do Fundo Ambiental, financiando as atividades das autoridades portuárias competentes no que diz respeito à segurança e condições de navegabilidade e realização de campanhas regulares de medição da qualidade do ar, bem como compensar os municípios onde se localizam os terminais que recebem os navios de passageiros pelos custos em que incorram com ações de limpeza, não sendo, por isso, o objetivo reduzir o número de navios que toque os portos nacionais.
+
+Assim, manda o Governo, pelo Secretário de Estado Adjunto e das Comunicações, no uso das competências delegadas pelo Despacho n.º 11146/2020, de 2 de novembro, e nos termos e para os efeitos do disposto no n.º 5 do artigo 390.º da Lei n.º 75-B/2020, de 31 de dezembro, que aprova o Orçamento do Estado para o ano de 2021, o seguinte:
+
+### Capítulo I — Objeto
+
+###### Artigo 1.º — Objeto
+
+O presente regime procede à criação das taxas de carbono sobre as viagens marítimas e aéreas, como contrapartida pela emissão de gases poluentes e demais externalidades ambientais negativas provocadas por estes meios de transporte, e determina as condições da sua aplicação.
+
+### Capítulo II — Taxa de carbono sobre viagens marítimas
+
+###### Artigo 2.º — Taxa de carbono sobre viagens marítimas
+
+É criada uma taxa de carbono sobre os navios de passageiros, como definido nos termos do Decreto-Lei n.º 93/2020, de 3 de novembro, que atraquem nos terminais localizados em território de Portugal continental, doravante designada de taxa, e determina as condições da sua aplicação.
+
+###### Artigo 3.º — Incidência objetiva e subjetiva
+
+1 - A taxa incide sobre a atracagem de navios de passageiros movidos a energia fóssil nos terminais localizados em território de Portugal continental para abastecimento, reparação, embarque ou desembarque de passageiros.
+
+2 - Estão sujeitos à taxa os armadores dos navios de passageiros ou os respetivos representantes legais.
+
+###### Artigo 4.º — Taxa
+
+1 - A taxa de carbono sobre os navios de passageiros é devida no momento da atracagem, nos termos do artigo anterior.
+
+2 - A taxa tem um valor de 2 (dois) euros por passageiro, em trânsito, desembarque ou embarque.
+
+3 - A taxa não dispensa o pagamento das demais taxas devidas às autoridades portuárias ou a outras entidades nos termos do Regulamento do Sistema Tarifário dos Portos do Continente e demais normas tarifárias.
+
+###### Artigo 5.º — Isenções
+
+1 - Ficam isentos da taxa:
+
+a) As crianças com menos de 2 anos;
+
+b) Os navios de passageiros entrados no porto exclusivamente para mudança de tripulação ou para desembarque de doentes ou mortos, durante o tempo estritamente necessário para o efeito;
+
+c) Os navios de passageiros que arribam ao porto para desembarcar náufragos, tripulantes ou passageiros em perigo de vida ou que precisem de ser socorridos, não fazendo outra operação de serviço;
+
+d) Os navios ro-ro de passageiros, como definido nos termos do Decreto-Lei n.º 93/2020, de 3 de novembro;
+
+e) O transporte fluvial de passageiros.
+
+2 - Os tripulantes dos navios de passageiros estão isentos da taxa, não estando incluídos na transmissão devida do movimento de passageiros referida no artigo 6.º
+
+3 - Os navios de passageiros que façam operação de «turnaround» nos portos nacionais beneficiam de uma redução de 50 % no valor da taxa.
+
+###### Artigo 6.º — Encargo da taxa de carbono sobre viagens marítimas
+
+1 - A taxa de carbono sobre viagens marítimas constitui encargo do adquirente final, devendo os agentes económicos inseridos na cadeia comercial repercutir o encargo económico da taxa, para o seu adquirente, a título de preço.
+
+2 - O valor da taxa de carbono sobre viagens marítimas é obrigatoriamente discriminado na fatura.
+
+3 - Não é aplicável ao n.º 1 o regime previsto no Decreto-Lei n.º 166/2013, de 27 de dezembro, relativamente à venda com prejuízo.
+
+###### Artigo 7.º — Liquidação e cobrança
+
+1 - A taxa é liquidada e cobrada imediatamente após a prestação do serviço de uso do porto.
+
+2 - A prestação de serviços referida no número anterior é precedida de requisição a efetuar por formulários uniformizados e transmissão eletrónica de dados, designadamente através do sistema de informação Janela Única Logística, e nos termos definidos nas normas legais e regulamentares aplicáveis, incluindo as normas que configuram o Regulamento de Exploração do Porto, sendo da responsabilidade dos requisitantes o pagamento das respetivas tarifas.
+
+3 - Para efeitos do disposto no n.º 1, o movimento de passageiros deve ser entregue à autoridade portuária, no prazo de 3 (três) dias após a escala do navio de passageiros, sob pena de, sem prejuízo de processo contraordenacional, a autoridade portuária competente proceder à emissão da fatura tendo por referência as capacidades do respetivo navio conforme constam do registo da International Maritime Organization.
+
+###### Artigo 8.º — Afetação da receita
+
+1 - A receita resultante da aplicação da taxa é distribuída da seguinte forma:
+
+a) (Revogada.)
+
+b) 75 % do valor para a autoridade portuária com competência para a cobrança da taxa;
+
+c) 25 % do valor para o município onde esteja localizado o terminal.
+
+2 - A autoridade portuária transfere a percentagem da receita resultante da aplicação da taxa devida nos termos do número anterior para município até ao dia 8 do mês seguinte ao do pagamento referido no artigo 6.º, não podendo esta ser sujeita a cativação, retenção ou compensação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110/2022 - Diário da República n.º 49/2022, Série I de 2022-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/110-2022-180121060), em vigor a partir de 2022-03-11
+
+### Capítulo III — Taxa de carbono sobre viagens aéreas
+
+###### Artigo 9.º — Taxa de carbono sobre viagens aéreas
+
+São criadas as seguintes taxas de carbono sobre viagens aéreas:
+
+a) Taxa de carbono sobre os bilhetes do transporte aéreo comercial de passageiros com partida dos aeroportos e aeródromos situados em território português, não enquadradas no âmbito da alínea seguinte, ao abrigo do n.º 1 do artigo 390.º da Lei n.º 75-B/2020, de 31 de dezembro;
+
+b) Taxa de carbono sobre o consumidor de viagens aéreas em voo comercial ou não comercial com partida dos aeroportos e aeródromos situados em território português, em aeronaves com capacidade máxima para passageiros de até 19 lugares, ao abrigo do n.º 1 do artigo 184.º da Lei n.º 24-D/2022, de 30 de dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110/2023 - Diário da República n.º 79/2023, Série I de 2023-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-07-01
+
+###### Artigo 10.º — Definições
+
+Para os efeitos do presente regime, entende-se por:
+
+a) «Aeródromo», uma área definida (incluindo edifícios, instalações e equipamentos) em terra, na água ou numa estrutura fixa, numa plataforma fixa no mar ou flutuante, destinada no todo ou em parte à realização de aterragens, descolagens ou manobras de superfície de aeronaves;
+
+b) «Aeroporto», o aeródromo que dispõe de forma permanente de instalações, equipamentos e serviços adequados ao tráfego aéreo comercial internacional;
+
+c) 'Consumidor de viagens aéreas', para efeitos da taxa prevista na alínea b) do artigo anterior, considera-se o passageiro, o fretador e o proprietário da aeronave movida a energia fóssil com capacidade máxima para passageiros de até 19 lugares, sobre quem recai o encargo económico da taxa, quando a aeronave seja utilizada na atividade de transporte aéreo de passageiros em voo comercial ou não comercial com partida dos aeroportos e aeródromos situados em território português, incluindo o voo não comercial sem passageiros a bordo da aeronave, em que o proprietário opte por realizar ou operar o mesmo como tripulante de voo;
+
+d) «Passageiro», qualquer pessoa transportada ou a transportar numa aeronave com o consentimento da transportadora ou operador, não incluindo os membros da tripulação ou pessoas afetas à operação;
+
+e) «Operador da aeronave», a pessoa ou entidade, que não seja uma transportadora aérea, que disponha de forma contínua e real da utilização ou exploração da aeronave, presumindo-se que o operador é a pessoa singular ou coletiva em cujo nome está registada a aeronave, a menos que aquela possa provar que o operador é outra pessoa;
+
+f) «Transporte aéreo comercial», uma operação de aeronave realizada para transportar passageiros, carga ou correio, mediante remuneração ou outra retribuição;
+
+g) «Transportadora aérea», uma empresa titular de uma licença de exploração válida, nos termos do Regulamento (CE) n.º 1008/2008, do Parlamento Europeu e do Conselho, de 24 de setembro de 2008, na sua redação atual, ou titulares de uma licença de exploração, ou equivalente, proveniente de países terceiros;
+
+h) «Tripulação», a tripulação de um determinado voo, incluindo a tripulação de cabina, a tripulação técnica ou ao seu serviço.
+
+i) «Voo comercial», o voo realizado por aeronave para utilização do consumidor de viagens aéreas, mediante remuneração ou outra retribuição;
+
+j) «Voo não comercial», o voo realizado por aeronave para utilização do consumidor de viagens aéreas efetuado sem qualquer tipo de remuneração ou outra retribuição.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2023 - Diário da República n.º 146/2023, Série I de 2023-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/242-2023-216323580), em vigor a partir de 2023-07-29, produz efeitos a partir de 2023-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110/2023 - Diário da República n.º 79/2023, Série I de 2023-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-07-01
+
+###### Artigo 11.º — Incidência objetiva
+
+1 - A taxa prevista na alínea a) do artigo 9.º incide sobre todos os negócios jurídicos que atribuam a um passageiro um título de transporte aéreo comercial que lhe permita deslocar-se a bordo de uma aeronave movida a energia fóssil com partida de um aeroporto ou aeródromo situado em território português.
+
+2 - Estão também incluídos no número anterior, designadamente, os contratos de transporte realizados mediante a compra de bilhetes de avião, as reservas de pacotes de férias ou a atribuição de voos bónus através de um sistema de prémios oferecidos por um operador aéreo ou de um qualquer outro tipo de oferta ou prémio, incluindo prémios obtidos no âmbito de um jogo ou competição.
+
+3 - A taxa prevista na alínea b) do artigo 9.º incide sobre cada voo comercial e não comercial com partida dos aeroportos e aeródromos situados em território português operado por aeronaves movidas a energia fóssil com capacidade máxima para passageiros de até 19 lugares.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110/2023 - Diário da República n.º 79/2023, Série I de 2023-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-07-01
+
+###### Artigo 12.º — Incidência subjetiva
+
+1 - A taxa prevista na alínea a) do artigo 9.º incide sobre os passageiros do transporte aéreo, sendo cobrada pelas transportadoras aéreas que procedam à comercialização, nos termos do artigo anterior, de um título de transporte para voo comercial, com partida dos aeroportos e aeródromos situados em território português.
+
+2 - No caso de um voo comercializado numa única transação legal, que envolva várias etapas operadas por diferentes transportadoras aéreas, a taxa referida no número anterior é devida pela transportadora aérea que opera a partida de Portugal, a quem compete garantir junto da transportadora aérea contratual a cobrança da mesma.
+
+3 - Caso o voo sobre o qual incide a taxa referida no n.º 1 seja comercializado por várias transportadoras aéreas, a cobrança é realizada pela transportadora que, de facto, opera o voo.
+
+4 - A taxa prevista na alínea b) do artigo 9.º incide sobre o consumidor de viagens aéreas e é cobrada e liquidada, nos seguintes termos:
+
+a) Pelo proprietário da aeronave caso esta não esteja a ser operada por outra entidade;
+
+b) Pelo operador da aeronave nos restantes casos de voos não comerciais;
+
+c) Pelas transportadoras aéreas que realizem os voos e procedam à sua comercialização.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110/2023 - Diário da República n.º 79/2023, Série I de 2023-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-07-01
+
+###### Artigo 13.º — Taxa
+
+1 - A taxa a que se refere a alínea a) do artigo 9.º tem o valor fixo de 2 (dois) euros, por cada passageiro embarcado nos termos dos artigos anteriores.
+
+2 - A taxa a que se refere a alínea b) do artigo 9.º é apurada através da aplicação da seguinte fórmula: valor final = TC x CP x L x (D + 1).
+
+3 - Para efeitos do número anterior, considera-se:
+
+«TC», o valor da taxa de carbono criada pelo artigo 390.º da Lei n.º 75-B/2020, de 31 de dezembro, e regulamentada pela portaria prevista no n.º 5 do mesmo artigo;
+
+«CP», o coeficiente de poluição per capita agravado, cujo valor se fixa em 10;
+
+«L», a capacidade máxima de lugares da aeronave utilizada, segundo a configuração de fábrica; e
+
+«D», a unidade de milhar da distância percorrida, em quilómetros, entre o aeroporto de partida em território nacional e o aeroporto de destino final, arredondado à primeira casa decimal.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110/2023 - Diário da República n.º 79/2023, Série I de 2023-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-07-01
+
+###### Artigo 14.º — Isenções
+
+1 - Nos termos do n.º 4 do artigo 390.º da Lei n.º 75-B/2020, de 31 de dezembro, a taxa referida na alínea a) do artigo 9.º não se aplica aos títulos de transporte que sejam utilizados:
+
+a) Por crianças com menos de dois anos;
+
+b) Para voos realizados com destino nos aeroportos e aeródromos situados nas Regiões Autónomas da Madeira e dos Açores;
+
+c) Para voos com destino ao território nacional e partida nos aeroportos e aeródromos situados nas Regiões Autónomas da Madeira e dos Açores;
+
+d) Por passageiros de aeronaves que, por motivos de ordem técnica, meteorológica ou contingência similar, sejam forçados a aterrar num aeroporto ou aeródromo situado em território português;
+
+e) Por serviços de transporte aéreo abrangidos por obrigações de serviço público.
+
+2 - Nos termos do n.º 6 do artigo 184.º da Lei n.º 24-D/2022, de 30 de dezembro, a taxa referida na alínea b) do artigo 9.º não se aplica:
+
+a) Às aeronaves totalmente elétricas;
+
+b) Aos serviços de transporte abrangidos por obrigações de serviço público;
+
+c) Aos voos de Estado;
+
+d) Aos voos de instrução;
+
+e) Aos voos de emergência médica realizados no quadro do sistema integrado de emergência médica;
+
+f) Aos voos de busca e salvamento;
+
+g) Às descolagens na sequência de aterragens por motivos de ordem técnica, meteorológica ou contingência similar.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110/2023 - Diário da República n.º 79/2023, Série I de 2023-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-07-01
+
+###### Artigo 15.º — Encargo da taxa de carbono de carbono sobre viagens aéreas
+
+1 - A taxa de carbono prevista na alínea a) do artigo 9.º constitui encargo do adquirente final, devendo os agentes económicos inseridos na cadeia comercial repercutir o encargo económico da taxa, para o seu adquirente, a título de preço.
+
+2 - O valor da taxa de carbono referida no número anterior é obrigatoriamente discriminado na fatura ou documento equivalente que suporte a respetiva transação.
+
+3 - Não é aplicável ao n.º 1 o regime previsto no Decreto-Lei n.º 166/2013, de 27 de dezembro, relativamente à venda com prejuízo.
+
+4 - A taxa de carbono prevista na alínea b) do artigo 9.º constitui encargo para o consumidor da viagem aérea em voo comercial ou não comercial, devendo os agentes económicos inseridos na cadeia comercial repercutir o encargo económico da taxa, para o seu adquirente, a título de preço, nos voos comerciais.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110/2023 - Diário da República n.º 79/2023, Série I de 2023-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-07-01
+
+###### Artigo 16.º — Liquidação, cobrança e entrega da taxa de carbono sobre viagens aéreas
+
+1 - A taxa de carbono a que se refere a alínea a) do artigo 9.º é liquidada e cobrada pelas transportadoras aéreas referidas nos n.os 1 a 3 do artigo 12.º no momento da emissão do título de transporte.
+
+2 - A taxa de carbono a que se refere a alínea b) do artigo 9.º é liquidada e cobrada pelas entidades referidas no n.º 4 do artigo 12.º após a realização dos voos em causa, independentemente, nos voos comerciais, dos termos acordados no negócio jurídico celebrado.
+
+3 - As taxas mencionadas nos números anteriores são devidas após a realização dos respetivos voos.
+
+4 - As entidades referidas nos n.os 1 e 2 devem comunicar à Autoridade Nacional da Aviação Civil (ANAC), até ao 15.º dia do mês seguinte ao da realização do voo, em formulário próprio a disponibilizar pela ANAC, os dados relevantes que suportam o apuramento das taxas de carbono devidas, bem como das isenções atribuídas.
+
+5 - A entrega dos montantes das taxas de carbono devidas, com base no apuramento referido no número anterior é efetuada pelas entidades referidas nos n.os 1 e 2, em regime de autoliquidação, à ANAC, até ao último dia do mês seguinte ao da realização do voo.
+
+6 - A ANAC é a entidade responsável pelo processamento da gestão da cobrança das taxas de carbono a que se refere o artigo 9.º, bem como pela fiscalização e supervisão de todo o processo de liquidação.
+
+7 - A liquidação prevista nos n.os 1 e 2 pode ser corrigida pela ANAC, nos prazos previstos na lei geral tributária com as devidas adaptações, caso sejam verificados erros ou omissões que determinem a exigência de um valor superior ao liquidado.
+
+8 - No âmbito do exercício das suas competências de fiscalização e supervisão, a ANAC pode solicitar às entidades gestoras aeroportuárias o reporte da informação necessária para o efeito.
+
+9 - As certidões de dívida emitidas pela ANAC constituem títulos executivos e a sua cobrança coerciva é feita pela Autoridade Tributária e Aduaneira, nos termos previstos no Código de Procedimento e de Processo Tributário (CPPT).
+
+10 - Pelo custo correspondente ao processamento da gestão da cobrança da taxa, a ANAC tem direito a uma comparticipação correspondente a 3 %, a qual deve ser deduzida do montante mensal a ser transferido pela ANAC para o Fundo Ambiental.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110/2023 - Diário da República n.º 79/2023, Série I de 2023-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-07-01
+
+###### Artigo 17.º — Transportadoras aéreas não estabelecidas em território nacional
+
+1 - As transportadoras aéreas não residentes, sem estabelecimento estável em território nacional, que aqui pratiquem negócios sujeitos à presente taxa e que disponham de sede, estabelecimento estável ou domicílio noutro Estado membro da União Europeia podem proceder à nomeação de um representante com residência em território nacional.
+
+2 - As transportadoras aéreas não residentes, sem estabelecimento estável em território nacional, que aqui pratiquem negócios sujeitos à presente taxa e que não disponham de sede, estabelecimento estável ou domicílio noutro Estado-Membro da União Europeia estão obrigados a nomear um representante com residência em território português.
+
+3 - O representante a que se referem os números anteriores deve cumprir todas as obrigações decorrentes da aplicação do presente regime, e é devedor das taxas que se mostrem devidas pelos negócios realizados pelo representado.
+
+4 - As transportadoras aéreas não estabelecidas em território nacional são solidariamente responsáveis com os respetivos representantes pelo pagamento da taxa.
+
+###### Artigo 18.º — Afetação da receita
+
+1 - A receita resultante da aplicação da taxa de carbono sobre as viagens aéreas constitui receita própria do Fundo Ambiental, nos termos da alínea l) do n.º 1 do artigo 4.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto.
+
+2 - A ANAC transfere para o Fundo Ambiental, com periodicidade mensal, até ao dia 15 do mês seguinte ao do pagamento referido no n.º 5 do artigo 16.º, as receitas relativas à taxa, não podendo estas ser sujeitas a cativação, retenção ou compensação, sem prejuízo do disposto no n.º 10 do artigo 16.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110/2023 - Diário da República n.º 79/2023, Série I de 2023-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/110-2023-212137580), em vigor a partir de 2023-07-01, produz efeitos a partir de 2023-07-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 8/2021 - Diário da República n.º 39/2021, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/8-2021-158240145), produz efeitos a partir de 2021-07-01
+
+### Capítulo IV — Disposições complementares, transitórias e finais
+
+###### Artigo 19.º — Infrações
+
+Ao incumprimento das obrigações tributárias previstas neste regime é aplicável o Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho, na sua redação atual.
+
+###### Artigo 20.º — Direito subsidiário
+
+Em tudo o que não contrarie as disposições deste regime, são subsidiariamente aplicáveis as disposições da lei geral tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, na sua redação atual, e do Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro, na sua redação atual.
+
+###### Artigo 21.º — Produção de efeitos
+
+O presente regime produz efeitos a partir de 1 de julho de 2021, sendo as taxas de carbono sobre viagens marítimas e aéreas devidas relativamente aos factos tributários ocorridos em ou após aquela data.
+
+###### Artigo 22.º — Avaliação de impactos
+
+Para efeitos de acompanhamento do impacto económico e ambiental do presente regime, o Governo apresenta à Assembleia da República, até 30 de setembro de 2022, um estudo sobre o impacto das taxas de carbono sobre viagens marítimas e aéreas na mitigação das alterações climáticas, na competitividade do turismo nacional e na economia, com vista a eventuais ajustamentos ao presente regime.
+
+O Secretário de Estado Adjunto e das Comunicações, Hugo Santos Mendes, em 2 de fevereiro de 2021.
+
+113951062

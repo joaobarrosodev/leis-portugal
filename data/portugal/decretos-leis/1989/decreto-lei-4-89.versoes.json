@@ -1,0 +1,254 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:234497:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-904920046",
+ "dre_path": "/dr/detalhe/decreto-lei/4-1989-234497",
+ "source_lastmod": "2025-01-27",
+ "versions": [
+  {
+   "date": "1989-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "904813411",
+    "904813412",
+    "904813413",
+    "904813414",
+    "904813415",
+    "904813416",
+    "904813417",
+    "904813418"
+   ]
+  },
+  {
+   "date": "1998-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:242068:por",
+     "title": "Decreto-Lei n.º 276/98",
+     "published": "1998-09-11",
+     "dre_path": "/dr/detalhe/decreto-lei/276-1998-242068"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "904813411",
+    "904813412",
+    "904813424",
+    "904813427",
+    "904813428",
+    "904813429",
+    "904813430",
+    "904813431",
+    "904813432",
+    "904813433"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243747:por",
+     "title": "Lei n.º 64-A/2008",
+     "published": "2008-12-31",
+     "dre_path": "/dr/detalhe/lei/64-a-2008-243747"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "904813411",
+    "904813434",
+    "904813435",
+    "904813427",
+    "904813428",
+    "904813436",
+    "904813430",
+    "904813431",
+    "904813432",
+    "904813433"
+   ]
+  }
+ ],
+ "fragments": {
+  "904813411": {
+   "fragment_id": "904920047",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 4/89\n\nde 6 de Janeiro\n\nA atribuição do abono para falhas na Administração Pública tem estado até ao presente regulamentada casuisticamente, motivando a consequente disparidade de condições do seu processamento as mais diversas e justas contestações.\n\nSe relativamente aos funcionários integrados na carreira de tesoureiro não se levantam dúvidas sobre o direito ao abono, inerente ao seu conteúdo funcional, o mesmo não sucede quanto a outros funcinários ou agentes que, também situados nas áreas de tesouraria e cobrança, deverão igualmente ver acautelado o risco que o exercício das suas funções envolve.\n\nJá para as tesourarias da Fazenda Pública, não abrangidas neste diploma, foi consagrada a atribuição deste abono em termos semelhantes aos presentemente estabelecidos.\n\nCom efeito, a impossibilidade de determinar, em cada situação, o montante dos valores movimentados, sua natureza e espécie, motivou a opção pela uniformização do abono por referência ao vencimento da categoria base da carreira de tesoureiro.\n\nO presente diploma visa, em suma, compensar os riscos inerentes ao exercício das funções referidas e uniformizar o montante atribuído a título de abono para falhas.\n\nForam ouvidas as associações sindicais, nos termos do Decreto-Lei n.º 45-A/84, de 3 de Fevereiro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 24.º, Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747) No presente decreto-lei, todas as referências a funcionários e agentes devem ser tidas por feitas a trabalhadores, independentemente da modalidade de constituição da relação jurídica de emprego público ao abrigo da qual exercem funções."
+  },
+  "904813412": {
+   "fragment_id": "904920048",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma é aplicável aos funcionários e agentes da administração central e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos."
+  },
+  "904813413": {
+   "fragment_id": "904920049",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Têm direito a abono para falhas:\n\na) Os funcionários integrados na carreira de tesoureiro e os portageiros da Junta Autónoma de Estradas;\n\nb) Os funcionários ou agentes que, não se encontrando integrados na carreira de tesoureiro, manuseiem ou tenham à sua guarda, nas áreas de tesouraria ou cobrança, valores, numerário, títulos ou documentos, sendo por eles responsáveis.\n\n2 - No caso da alínea b) do número anterior, as categorias que em cada departamento ministerial têm direito ao abono para falhas são determinadas por despacho conjunto do respectivo ministro e do Ministro das Finanças."
+  },
+  "904813414": {
+   "fragment_id": "904920050",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - Sempre que se verifique impedimento temporário dos titulares do direito ao abono para falhas, será o mesmo atribuído aos funcionários ou agentes que os substituam no exercício efectivo das suas funções.\n\n2 - O processamento do abono aos substitutos será autorizado pelo director-geral ou equiparado do respectivo organismo."
+  },
+  "904813415": {
+   "fragment_id": "904920051",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - O abono para falhas a que se refere o presente diploma é fixado em 10% do vencimento da letra correspondente à categoria de ingresso na carreira de tesoureiro.\n\n2 - Os abonos para falhas que, à data da entrada em vigor do presente diploma, sejam de montante superior ao definido pelo modo descrito no número anterior só serão actualizados quando, por virtude de futuras alterações salariais e da aplicação da mesma regra, tal montante seja ultrapassado."
+  },
+  "904813416": {
+   "fragment_id": "904920052",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - O abono para falhas é reversível diariamente a favor dos funcionários ou agentes que a ele tenham direito e distribuído na proporção do tempo de serviço prestado no exercício das funções.\n\n2 - O valor diário do abono para falhas calcula-se por aplicação da fórmula\n\n(Abono para falhas x 12)/(n x 52)\n\nem que n é igual ao número de dias de trabalho por semana."
+  },
+  "904813417": {
+   "fragment_id": "904920053",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO disposto neste diploma não se aplica ao pessoal das tesourarias da Fazenda Pública."
+  },
+  "904813418": {
+   "fragment_id": "904920054",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO disposto no presente diploma produz efeitos a partir do primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "904813424": {
+   "fragment_id": "904920049",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1998-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Têm direito a abono para falhas:\n\na) Os funcionários integrados na carreira de tesoureiro;\n\nb) Os funcionários ou agentes que, não se encontrando integrados na carreira de tesoureiro, manuseiem ou tenham à sua guarda, nas áreas de tesouraria ou cobrança, valores, numerário, títulos ou documentos, sendo por eles responsáveis.\n\n2 - No caso da alínea b) do número anterior, as carreiras que em cada departamento ministerial têm direito a abono para falhas são determinadas por despacho conjunto do respectivo ministro, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública.\n\n3 - O abono para falhas pode ser reconhecido a mais de um funcionário ou agente por cada serviço ou organismo público quando a actividade de guarda ou manuseamento de valores ou dinheiros públicos abranja diferentes postos de trabalho, em resultado da organização dos serviços e organismos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+  },
+  "904813427": {
+   "fragment_id": "904920061",
+   "type": 11,
+   "heading": "Artigo 2.º-A",
+   "in_force_from": "1998-09-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+   ],
+   "markdown": "###### Artigo 2.º-A\n\nAs propostas do reconhecimento do direito ao abono para falhas deverão ser sempre devidamente fundamentadas, designadamente por referência à ou às carreiras abrangidas, aos riscos efectivos e às responsabilidades que impendem sobre os funcionários ou agentes para os quais é solicitado o abono e aos montantes anuais movimentados.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+  },
+  "904813428": {
+   "fragment_id": "904920050",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - Sempre que se verifique impedimento temporário dos titulares do direito ao abono para falhas, será o mesmo atribuído aos funcionários ou agentes que os substituam no exercício efectivo das suas funções.\n\n2 - O processamento do abono aos substitutos será autorizado pelo director-geral ou equiparado do respectivo organismo."
+  },
+  "904813429": {
+   "fragment_id": "904920051",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1998-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O abono para falhas a que se refere o presente diploma é fixado em 10% do valor correspondente ao escalão 1 da carreira de tesoureiro.\n\n2 - Os abonos para falhas que, à data da entrada em vigor do presente diploma, sejam de montante superior ao definido pelo modo descrito no número anterior só serão actualizados quando, por virtude de futuras alterações salariais e da aplicação da mesma regra, tal montante seja ultrapassado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+  },
+  "904813430": {
+   "fragment_id": "904920052",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1998-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - O abono para falhas é reversível diariamente a favor dos funcionários ou agentes que a ele tenham direito e distribuído na proporção do tempo de serviço prestado no exercício das funções.\n\n2 - O valor diário do abono para falhas calcula-se por aplicação da fórmula\n\n(Abono para falhas x 12)/(n x 52)\n\nem que n é igual ao número de dias de trabalho por semana.\n\n3 - Em casos excepcionais, a reversibilidade de área de abono para falhas pode ser fraccionada a favor dos funcionários ou agentes que a ele tenham direito e distribuída na proporção do tempo de serviço prestado no exercício das funções.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+  },
+  "904813431": {
+   "fragment_id": "904920053",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO disposto neste diploma não se aplica ao pessoal das tesourarias da Fazenda Pública."
+  },
+  "904813432": {
+   "fragment_id": "904920054",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO disposto no presente diploma produz efeitos a partir do primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "904813433": {
+   "fragment_id": "904920055",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 22 de Dezembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Dezembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "904813434": {
+   "fragment_id": "904920048",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma é aplicável aos serviços da administração directa e indirecta do Estado, bem como, com as adaptações respeitantes às competências dos correspondentes órgãos das autarquias locais, aos serviços das administrações autárquicas.\n\n> Alterado pelo/a Artigo 24.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "904813435": {
+   "fragment_id": "904920049",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Têm direito a um suplemento remuneratório designado 'abono para falhas' os trabalhadores que manuseiem ou tenham à sua guarda, nas áreas de tesouraria ou cobrança, valores, numerário, títulos ou documentos, sendo por eles responsáveis.\n\n2 - As carreiras e ou categorias, bem como os trabalhadores que, em cada departamento ministerial, têm direito a 'abono para falhas', são determinadas por despacho conjunto do respectivo membro do Governo e dos responsáveis pelas áreas das finanças e da Administração Pública.\n\n3 - O direito a 'abono para falhas' pode ser reconhecido a mais de um trabalhador por cada órgão ou serviço, quando a actividade de manuseamento ou guarda referida no n.º 1 abranja diferentes postos de trabalho.\n\n> Alterado pelo/a Artigo 24.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+  },
+  "904813436": {
+   "fragment_id": "904920051",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O montante pecuniário do 'abono para falhas' é fixado na portaria referida no n.º 2 do artigo 68.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - Os abonos para falhas que, à data da entrada em vigor do presente diploma, sejam de montante superior ao definido pelo modo descrito no número anterior só serão actualizados quando, por virtude de futuras alterações salariais e da aplicação da mesma regra, tal montante seja ultrapassado.\n\n> Alterado pelo/a Artigo 24.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276/98 - Diário da República n.º 210/1998, Série I-A de 1998-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068), em vigor a partir de 1998-09-16"
+  }
+ }
+}

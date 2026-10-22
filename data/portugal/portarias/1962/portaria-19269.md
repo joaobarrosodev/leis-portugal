@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:162804:por
+title: Portaria n.º 19269
+short_title: null
+summary: Autoriza o Governo-Geral da província ultramarina de Angola a abrir créditos, tomando como contrapartida os saldos
+  apurados em dotações do programa de execução do II Plano de Fomento aprovado para 1961, destinados a reforçar dotações de
+  objectivos correspondentes do programa autorizado para o ano em curso
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '19269'
+official_date: null
+publication_date: '1962-07-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 156/1962, Série I de 1962-07-10
+  number: '156'
+  series: I
+  supplement: null
+  pages: 965 - 966
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/07/15600/09650966.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '162804'
+  dre_path: /dr/detalhe/portaria/19269-1962-162804
+  internal: pt:dre:162804:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19269-1962-162804
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19269-1962-162804
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-07-10T00:00:00Z'
+integrity:
+  source_sha256: d4f9b4df42b8a34a9b449b3885fdf88819344722c4a6b46451770d03f0767f33
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-19269-162804.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19269
+
+Considerando que se torna indispensável dar imediata aplicação a parte dos saldos apurados em dotações do programa de execução do II Plano de Fomento de Angola aprovado para 1961 no reforço de dotações de objectivos correspondentes do programa autorizado para o ano em curso;
+
+Tendo em vista a autorização dada pelo Conselho Económico em sessão de 17 de Outubro do ano findo:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 11.º, alínea h), 13.º e 16.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugados com o artigo 5.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, que o Governo-Geral de Angola abra os seguintes créditos especiais:
+
+1) Um de 23080883$17, tomando como contrapartida os saldos das contas de exercícios findos, destinado a reforçar, com as quantias que se indicam, as seguintes verbas da tabela de despesa extraordinária do orçamento geral:
+
+### Capítulo 12.º, artigo 1440.º «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+
+1) «Conhecimento científico do território»:
+
+b) «Estudos geológicos (carta geológica)» ... 382592$13
+
+e) «Estudos económicos com objectivo ao Plano de Fomento» ... 333500$00
+
+2) «Aproveitamento de recursos»:
+
+a) «Agricultura, silvicultura e pecuária»:
+
+1) «Estudo e aproveitamento dos meios de obtenção de água doce» ... 250284$46
+
+2) «Fomento pecuário» ... 83374$07
+
+8) «Estudos das cabeceiras do rio Cunene para regularização da albufeira da Matala e conclusão dos estudos da 2.ª fase da rega do Cunene (Molondo-Quiteve)» ... 2594470$50
+
+3) «Povoamento»:
+
+a) «Continuação da colonização do Cunene (1.ª fase - Matala)» ... 65693$27
+
+c) «Colonização do Cuanza-Bengo (1.ª fase)» ... 5000000$00
+
+4) «Comunicações e transportes»:
+
+a) «Execução do plano rodoviário» ... 521805$24
+
+b) «Caminhos de ferro»:
+
+3) «Moçâmedes» ... 1531519$69
+
+e) «Portos»:
+
+1) «Luanda» ... 9718151$86
+
+3) «Moçâmedes» ... 1953385$80
+
+5) «Melhoramento e apetrechamento de portos secundários» ... 566226$15
+
+g) «Telecomunicações» ... 80000$00
+
+... 23080883$17
+
+2) Um de 4644528$19, servindo de contrapartida os saldos das contas de exercícios findos, consignado a fazer face aos seguintes encargos:
+
+II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958:
+
+Aproveitamento de recursos:
+
+Electricidade e industrias:
+
+a) «Conclusão das obras de aproveitamento hidroeléctrico da Matala» ... 2936437$08
+
+b) «Conclusão das obras de aproveitamento hidroeléctrico do Biópio» ... 1638407$40
+
+Comunicações e transportes:
+
+Obras fluviais e flúvio-marítimas de Chiloango ... 69683$71
+
+... 4644528$19
+
+3) Um de 2014894$84, tomando como contrapartida igual quantia do imposto das sobrevalorizações, para reforço das seguintes verbas da mesma tabela de despesa com estas importâncias:
+
+### Capítulo 12.º, artigo 1440.º «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+
+2) «Aproveitamento de recursos»:
+
+a) «Agricultura, silvicultura e pecuária»:
+
+2) «Fomento pecuário» ... 312776$28
+
+b) «Electricidade e indústrias»:
+
+3) «Pesca» ... 1702118$56
+
+... 2014894$84
+
+4) Um de 34931$25, usando como contrapartida igual importância do imposto das sobrevalorizações, destinado a fazer face às despesas com «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958 - Aproveitamento de recursos - Agricultura, silvicultura e pecuária - Continuação das obras de rega do Cunene (1.ª fase - Matala)».
+
+5) Um de 16195394$50, tomando como contrapartida igual importância a sair do Fundo de Fomento, consignado ao reforço com estas quantias das seguintes verbas da mesma tabela de despesa:
+
+### Capítulo 12.º, artigo 1440.º «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+
+1) «Conhecimento científico do território»:
+
+a) «Revisão da cartografia geral» ... 5000000$00
+
+2) «Aproveitamento de recursos»:
+
+a) «Agricultura, silvicultura e pecuária»:
+
+2) «Fomento pecuário» ... 417900$90
+
+b) «Electricidade e indústrias»:
+
+2) «Minas» ... 32956$85
+
+3) «Pesca» ... 1641390$89
+
+3) «Povoamento»:
+
+a) «Continuação da colonização do Cunene (1.ª fase - Matala)» ... 1299348$41
+
+4) «Comunicações e transportes»:
+
+a) «Execução do plano rodoviário» ... 1654442$94
+
+b) «Caminhos de ferro»:
+
+1) «Luanda» ... 5691004$85
+
+4) «Tigres (estudos)» ... 394173$66
+
+c) «Transportes fluviais (obras e meios de transporte)» ... 64176$00
+
+... 16195394$50
+
+6) Um de 2710999$54, tomando como contrapartida igual quantia a sair do Fundo de Fomento, para suportar os encargos seguintes:
+
+II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958:
+
+Aproveitamento de recursos:
+
+Electricidade e indústrias:
+
+Conclusão das obras de aproveitamento hidroeléctrico da Matala ... 1060331$50
+
+Comunicações e transportes:
+
+Obras fluviais e flúvio-marítimas do Chiloango ... 1650668$04
+
+... 2710999$54
+
+7) Um de 701572$44, tomando como contrapartida igual importância do empréstimo da metrópole autorizado pelo [Decreto-Lei n.º 40434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40434-1955-246519), de 14 de Dezembro de 1955, destinado a reforçar a verba do capítulo 12.º, artigo 1440.º, n.º 4), alínea b), 3 «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958 - Comunicações e transportes - Caminhos de ferro - Moçâmedes», da mesma tabela de despesa.
+
+8) Um de 564679$75, usando como contrapartida igual quantia do empréstimo local, para reforço da verba do capítulo 12.º, artigo 1440.º, n.º 5), alínea c) «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958 - Comunicações e transportes - Portos - Moçâmedes», da mesma tabela de despesa.
+
+9) Um de 762571$46, tomando como contrapartida igual importância a sair do empréstimo local, para satisfação dos encargos com «II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958 - Aproveitamento de recursos - Electricidade e indústrias - Conclusão das obras de aproveitamento hidroeléctrico da Matala».
+
+Ministério do Ultramar, 10 de Julho de 1962. - Pelo Ministro do Ultramar, Manuel Rafael Amaro da Costa, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Angola. - A. da Costa.

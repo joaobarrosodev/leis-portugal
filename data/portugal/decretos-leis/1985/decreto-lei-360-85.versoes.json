@@ -1,0 +1,424 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:179355:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-858632755",
+ "dre_path": "/dr/detalhe/decreto-lei/360-1985-179355",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1985-09-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "858641502",
+    "858641503",
+    "858641504",
+    "858641505",
+    "858641506",
+    "858641507",
+    "858641508",
+    "858641509",
+    "858641510",
+    "858641511",
+    "858641512",
+    "858641513",
+    "858641514",
+    "858641515",
+    "858641516",
+    "858641517",
+    "858641518",
+    "858641519",
+    "858641520",
+    "858641521",
+    "858641522",
+    "858641523",
+    "858641524",
+    "858641525",
+    "858641526",
+    "858641527",
+    "858641528",
+    "858641529",
+    "858641530",
+    "858641531"
+   ]
+  },
+  {
+   "date": "2011-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:485605:por",
+     "title": "Decreto-Lei n.º 2/2011",
+     "published": "2011-01-06",
+     "dre_path": "/dr/detalhe/decreto-lei/2-2011-485605"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "858641502",
+    "858641503",
+    "858641504",
+    "858641505",
+    "858641540",
+    "858641507",
+    "858641508",
+    "858641509",
+    "858641510",
+    "858641511",
+    "858641512",
+    "858641513",
+    "858641514",
+    "858641515",
+    "858641516",
+    "858641517",
+    "858641518",
+    "858641519",
+    "858641520",
+    "858641521",
+    "858641522",
+    "858641523",
+    "858641524",
+    "858641525",
+    "858641526",
+    "858641527",
+    "858641528",
+    "858641529",
+    "858641530",
+    "858641531",
+    "858641532"
+   ]
+  },
+  {
+   "date": "2017-01-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105703294:por",
+     "title": "Decreto-Lei n.º 1/2017",
+     "published": "2017-01-05",
+     "dre_path": "/dr/detalhe/decreto-lei/1-2017-105703294"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "858641502",
+    "858641503",
+    "858641504",
+    "858641505",
+    "858641541",
+    "858641507",
+    "858641508",
+    "858641509",
+    "858641510",
+    "858641511",
+    "858641512",
+    "858641513",
+    "858641542",
+    "858641515",
+    "858641516",
+    "858641517",
+    "858641518",
+    "858641519",
+    "858641520",
+    "858641521",
+    "858641522",
+    "858641523",
+    "858641524",
+    "858641525",
+    "858641526",
+    "858641527",
+    "858641528",
+    "858641529",
+    "858641530",
+    "858641531",
+    "858641532"
+   ]
+  }
+ ],
+ "fragments": {
+  "858641502": {
+   "fragment_id": "858632756",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 360/85\n\nde 3 de Setembro\n\nNo Estatuto do Selo Postal, aprovado pelo Decreto-Lei n.º 42417, de 27 de Julho de 1959, está contida toda a matéria relativa a selos postais nos seus diversos aspectos, desde a concepção e produção à utilização.\n\nDesde a publicação daquele diploma ocorreram profundas transformações, quer nos CTT, quer no contexto sócio-cultural, com realce para a passagem da Administração-Geral dos Correios, Telégrafos e Telefones a empresa pública do Estado, denominada «Correios e Telecomunicações de Portugal», pelo Decreto-Lei n.º 49368, de 10 de Novembro de 1969.\n\nTambém o selo postal, embora exercendo a sua função essencial de franquiar correspondências, cada vez com maior concorrência de outras fórmulas mecânicas de franquia, assume actualmente um valor artístico, cultural e filatélico, da maior relevância.\n\nTudo isto impõe a aprovação de um novo Estatuto do Selo Postal, ajustado à realidade actual e aliviado da carga exagerada de normas de mera execução.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "858641503": {
+   "fragment_id": "858632757",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO selo postal em forma de estampilha pode ter as seguintes finalidades:\n\na) Documentar a cobrança prévia das taxas dos serviços de correio para a qual não se determine, expressamente, outra forma de pagamento - selo postal ordinário ou extraordinário;\n\nb) Constituir recibo de pagamento feito por destinatários ou remetentes relativo a correspondências que lhes sejam entregues em condições especiais fixadas na legislação postal - selo postal de taxa a cobrar (porteado)."
+  },
+  "858641504": {
+   "fragment_id": "858632758",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAlém dos selos indicados no artigo 1.º, os CTT poderão emitir bilhetes-postais estampilhados, cujo preço de venda ao público será equivalente ao valor do porte, e outras formas estampilhadas."
+  },
+  "858641505": {
+   "fragment_id": "858632759",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA emissão de selos, de bilhetes-postais estampilhados e de outras formas estampilhadas compete exclusivamente aos CTT, no âmbito das suas atribuições."
+  },
+  "858641506": {
+   "fragment_id": "858632760",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA atribuição do valor postal e a determinação da entrada em circulação das emissões, assim como a fixação das características das formas estampilhadas, serão efectivadas por meio de portaria, assinada pelo ministro da tutela."
+  },
+  "858641507": {
+   "fragment_id": "858632761",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAlém dos selos em vigor emitidos pelos CTT como valores ou documentos postais, nenhuns outros poderão ser utilizados para, de qualquer modo, permitir, onerar ou restringir a livre circulação das remessas postais."
+  },
+  "858641508": {
+   "fragment_id": "858632762",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - O selo como valor ou documento postal só é válido para uma única utilização, a qual será comprovada pela sua obliteração com sinais especiais (marca de dia ou carimbo especial) que impeça novo uso.\n\n2 - Os selos utilizados que, por lapso ou acidente, não hajam sido marcados não podem voltar a utilizar-se."
+  },
+  "858641509": {
+   "fragment_id": "858632763",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNão poderão utilizar-se como valor ou documento postal os selos que, embora pertencentes a emissões vigentes dos CTT, se encontrem nas condições seguintes:\n\na) Sujos, desbotados, deteriorados, rasgados, cortados ou incompletos;\n\nb) Com induto ou protecção que impeça a aposição directa, durável e fácil do mata-selos;\n\nc) Apresentando quaisquer inscrições ou desenhos, manuscritos ou impressos, ou sinais de já terem servido para franquiar objectos de correspondência;\n\nd) Afixados na correspondência sem apresentarem para a inutilização toda a superfície ou de maneira que fique uma das partes na frente e a outra no verso do objecto de correspondência;\n\ne) Perfurados em condições diferentes das especificadas no artigo 27.º"
+  },
+  "858641510": {
+   "fragment_id": "858632764",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO produto da venda dos selos postais, dos bilhetes-postais e de outras formas estampilhadas emitidas pelos CTT constitui sempre, integralmente, receita da mesma empresa."
+  },
+  "858641511": {
+   "fragment_id": "858632765",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs emissões devem corresponder às necessidades do serviço de correio, podendo ser cumulativamente utilizadas para homenagear personalidades, comemorar factos ou divulgar motivos de elevado interesse nacional ou internacional."
+  },
+  "858641512": {
+   "fragment_id": "858632766",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - As emissões ordinárias compreendem selos de valores correspondentes ou não a taxas da tarifa postal, com variedade bastante para permitir a boa execução do serviço de correio.\n\n2 - As tiragens dos selos referidas no número anterior são ilimitadas, devendo fazer-se as necessárias para abastecimento público durante o tempo da sua circulação como valor ou documento postal.\n\n3 - Os selos de refugo da impressão ou estampagem devem ser destruídos."
+  },
+  "858641513": {
+   "fragment_id": "858632767",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - As emissões extraordinárias de selos postais compreendem geralmente pequeno número de taxas, sendo os selos fabricados em regime de edição única, limitada aos quantitativos anunciados na portaria a que se refere o artigo 4.º\n\n2 - Os selos que constituam sobras de fabrico, bem como os de refugo, devem ser destruídos."
+  },
+  "858641514": {
+   "fragment_id": "858632768",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA empresa CTT submeterá, em Junho de cada ano, à aprovação do ministro da tutela o plano de emissões postais a efectuar no ano seguinte."
+  },
+  "858641515": {
+   "fragment_id": "858632769",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Compete aos CTT definir e mandar executar as tarefas necessárias ao processo de fabrico de selos e fixar o valor das taxas a emitir.\n\n2 - Os modelos ou originais para selos devem conciliar, ponderadamente, os efeitos artísticos com as necessidades e características postais e filatélicas das emissões.\n\n3 - A impressão ou estampagem, bem como outras operações subsequentes do fabrico dos selos, será feita de preferência pela Imprensa Nacional-Casa da Moeda (INCM), podendo, contudo, os CTT decidir confiar estas tarefas a outras entidades especializadas neste tipo de trabalho, desde que sejam mais vantajosas as condições de preço, de qualidade e de prazo de entrega."
+  },
+  "858641516": {
+   "fragment_id": "858632770",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Pertencem aos CTT a propriedade e os direitos perpétuos de reprodução dos modelos das suas emissões, bem como os das obras de arte feitas para obtenção dos modelos, devendo essas obras de arte ser apresentadas pelos seus autores em matérias perduráveis e convenientemente acondicionadas.\n\n2 - De igual forma pertencem aos CTT todas as gravuras, matrizes e outros objectos fundamentais utilizados na fabricação das emissões, que serão arquivados no Museu dos CTT.\n\n3 - As gravuras, matrizes e demais objectos fundamentais da fabricação das emissões extraordinárias devem marcar-se ou inutilizar-se, depois da mesma fabricação, de forma a impossibilitar edições ulteriores."
+  },
+  "858641517": {
+   "fragment_id": "858632771",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - O abastecimento e a venda dos selos postais e outros valores filatélicos serão regulados pelos CTT.\n\n2 - Os CTT disporão de serviços próprios para venda de selos e outros valores postais para fins filatélicos, podendo, no entanto, a sua venda ser realizada noutros locais que se revelem adequados para o efeito."
+  },
+  "858641518": {
+   "fragment_id": "858632772",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nÉ proibido aos serviços de venda comprar selos postais a particulares."
+  },
+  "858641519": {
+   "fragment_id": "858632773",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs CTT podem retirar da circulação os selos postais quando estejam quase consumidas as suas existências em armazém e sempre que se verifique que as taxas não correspondem ao tarifário em vigor, podendo o correio manter para venda, após a retirada da circulação, exclusivamente com fins filatélicos, séries completas destas emissões."
+  },
+  "858641520": {
+   "fragment_id": "858632774",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - Os selos retirados da circulação em poder de qualquer utente poderão ser trocados por outros válidos dentro do prazo a fixar pelos CTT, o qual não poderá ser inferior a 30 dias.\n\n2 - A troca referida no número anterior efectuar-se-á em qualquer estação de correios.\n\n3 - Nas localidades com mais de uma estação de correios podem os CTT designar uma ou alguma delas para a execução dessa tarefa.\n\n4 - Não podem aceitar-se para troca os selos perfurados e, bem assim, os designados nas alíneas a), b) e c) do artigo 7.º"
+  },
+  "858641521": {
+   "fragment_id": "858664675",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nSe for ultrapassada a data que tiver sido fixada para a retirada da circulação de uma emissão, os selos que a compõem deixam de ter validade postal."
+  },
+  "858641522": {
+   "fragment_id": "858664676",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - Os CTT tomarão as providências necessárias para que a marcação dos selos postais se efectue de forma a afectar o menos possível o seu valor filatélico.\n\n2 - Os CTT não poderão apor sobrecargas (de legenda, ou taxa) em selos ou outras formas estampilhadas pertencentes a emissões ordinárias e extraordinárias susceptíveis de valorização filatélica."
+  },
+  "858641523": {
+   "fragment_id": "858664677",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - Fica proibida a reprodução de selos postais sem autorização dos CTT, incluindo a dos selos que se encontrem em vigor, dos que não tenham chegado a circular e dos que já tenham sido retirados da circulação.\n\n2 - A reprodução só pode fazer-se quando autorizada, podendo os CTT exigir que os exemplares reproduzidos tenham impressa na sua margem inferior a seguinte referência: «Reprodução autorizada pelos CTT.»"
+  },
+  "858641524": {
+   "fragment_id": "858664678",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nSão atribuições dos CTT patrocinar iniciativas tendentes a desenvolver o gosto e a cultura filatélicos e participar em reuniões, congressos e exposições de natureza filatélica."
+  },
+  "858641525": {
+   "fragment_id": "858664679",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs CTT, sempre que entendam necessário, consultarão a Federação Portuguesa de Filatelia sobre os aspectos específicos do coleccionismo filatélico, a fim de obterem parecer sobre a matéria."
+  },
+  "858641526": {
+   "fragment_id": "858664680",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs selos de «taxa a cobrar» devem obedecer aos seguintes requisitos:\n\na) Distinguir-se facilmente dos selos ordinários e extraordinários;\n\nb) Conter, além da indicação da taxa, as palavras «a cobrar»."
+  },
+  "858641527": {
+   "fragment_id": "858664681",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nOs selos de «taxa a cobrar» não marcados só poderão vender-se ao público para fins filatélicos."
+  },
+  "858641528": {
+   "fragment_id": "858664682",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs selos de «taxa a cobrar» e os que forem recortados de formas postais estampilhadas não podem utilizar-se para os fins previstos na alínea a) do artigo 1.º do presente diploma."
+  },
+  "858641529": {
+   "fragment_id": "858664683",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1 - Podem os CTT autorizar a perfuração de selos postais, depois de adquiridos pelos usuários, para efeitos de fiscalização particular do seu uso, desde que essa perfuração não atinja a indicação da taxa nem prejudique de qualquer forma o reconhecimento da validade dos selos nem da sua legítima utilização.\n\n2 - A autorização depende da apresentação de um exemplar perfurado, da sua aprovação e do pagamento prévio da respectiva taxa constante do tarifário em vigor."
+  },
+  "858641530": {
+   "fragment_id": "858664684",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1 - Nos objectos de correspondência ou encomendas postais poderão afixar-se vinhetas destinadas a fins de beneficência ou de propaganda, desde que previamente autorizadas pelos CTT.\n\n2 - A fim de evitar confusão durante as operações de tratamento de correio, as vinhetas deverão distinguir-se facilmente dos selos postais e ser afixadas do lado oposto ao que contiver o endereço e o selo postal.\n\n3 - As vinhetas utilizadas para fins de beneficência não são oneradas com quaisquer encargos.\n\n4 - O uso das vinhetas destinadas a fins de propaganda só pode ser permitido mediante o pagamento, por cada modelo de vinheta, da taxa constante do tarifário.\n\n5 - Não é permitido aplicar no exterior dos objectos com valor declarado quaisquer vinhetas ou etiquetas além das de serviço.\n\n6 - A correspondência confiada ao correio em mão e as encomendas postais onde se encontrem afixadas vinhetas não autorizadas serão recusadas no acto da aceitação.\n\n7 - A correspondência encontrada nas condições referidas no número anterior noutra qualquer fase de transmissão postal cai em refugo, se antes não puder ser restituída."
+  },
+  "858641531": {
+   "fragment_id": "858664685",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nÉ revogado o Decreto-Lei n.º 42417, de 27 de Julho de 1959."
+  },
+  "858641540": {
+   "fragment_id": "858632760",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2011-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 2/2011 - Diário da República n.º 4/2011, Série I de 2011-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), em vigor a partir de 2011-01-11"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A atribuição do valor postal e a determinação da entrada em circulação das emissões, assim como a fixação das características das formas estampilhadas, são efectuadas por despacho do ministro da tutela, publicado exclusivamente no sítio da Internet dos CTT.\n\n2 - Compete aos CTT assegurar a publicidade e acessibilidade permanente do despacho referido no número anterior, em local do respectivo sítio da Internet que assegure uma visibilidade adequada.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 2/2011 - Diário da República n.º 4/2011, Série I de 2011-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), em vigor a partir de 2011-01-11"
+  },
+  "858641532": {
+   "fragment_id": "858664686",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Carlos Montez Melancia.\n\nPromulgado em 20 de Agosto de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 22 de Agosto de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "858641541": {
+   "fragment_id": "858632760",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2017-01-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 1/2017 - Diário da República n.º 4/2017, Série I de 2017-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2017-105703294), em vigor a partir de 2017-01-10",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 2/2011 - Diário da República n.º 4/2011, Série I de 2011-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), em vigor a partir de 2011-01-11"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A atribuição do valor postal e a determinação da entrada em circulação das emissões, assim como a fixação das características das formas estampilhadas, são efetuadas pelos CTT, com publicação no respetivo sítio da Internet.\n\n2 - Compete aos CTT assegurar a publicidade e acessibilidade permanente do despacho referido no número anterior, em local do respectivo sítio da Internet que assegure uma visibilidade adequada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 1/2017 - Diário da República n.º 4/2017, Série I de 2017-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2017-105703294), em vigor a partir de 2017-01-10\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 2/2011 - Diário da República n.º 4/2011, Série I de 2011-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), em vigor a partir de 2011-01-11"
+  },
+  "858641542": {
+   "fragment_id": "858632768",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 1/2017 - Diário da República n.º 4/2017, Série I de 2017-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2017-105703294), produz efeitos a partir de 2017-03-11"
+   ],
+   "markdown": "###### Artigo 12.º\n\nA empresa CTT submeterá, em Junho de cada ano, à aprovação do ministro da tutela o plano de emissões postais a efectuar no ano seguinte.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 1/2017 - Diário da República n.º 4/2017, Série I de 2017-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2017-105703294), produz efeitos a partir de 2017-03-11"
+  }
+ }
+}

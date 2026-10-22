@@ -1,0 +1,359 @@
+---
+schema_version: '1.0'
+id: pt:dre:75170443:por
+title: Decreto-Lei n.º 49/2016
+short_title: null
+summary: Estabelece o regime jurídico do Conselho Nacional de Saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Saúde
+proposing_entity: null
+official_number: 49/2016
+official_date: null
+publication_date: '2016-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/2016, Série I de 2016-08-23
+  number: '161'
+  series: I
+  supplement: null
+  pages: 2848 - 2851
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/08/16100/0284802851.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-08-01'
+version_history:
+  file: decreto-lei-49-2016.versoes.json
+  count: 2
+  source_lastmod: '2024-07-17'
+  versions:
+  - date: '2016-08-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-08-01'
+    amending: pt:dre:872180332:por
+    amending_title: Decreto-Lei n.º 46/2024
+    changes:
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/49/2016/p/cons/20240717/pt/html
+  oj: null
+  dre: '75170443'
+  dre_path: /dr/detalhe/decreto-lei/49-2016-75170443
+  internal: pt:dre:75170443:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2016-75170443
+  metadata_url: https://data.dre.pt/eli/dec-lei/49/2016/p/cons/20240717/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-872180357
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-872180357
+  retrieved_at: '2026-10-22T13:11:03Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-07-17T00:00:00Z'
+integrity:
+  source_sha256: 6d09a98f96204615e29269dda2a1a0c27bce69e48a8826f07a7a3dcc39dd39be
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:11:03Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-49-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal de Saúde
+- Conselho de Ministros
+- Criação de Serviços
+- Definição de Competências
+- Saúde Pública
+- Estatuto
+- Política de Saúde
+- Serviço Nacional de Saúde
+- Secretaria Geral
+- Conselho Nacional de Saúde
+- Orgânica
+- Presidente
+- Ministério da Saúde
+- Regime Jurídico
+- Vice-presidente
+relationships:
+- type: amended_by
+  target: pt:dre:872180332:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2024-872180332
+  date: '2024-07-17'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:11:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49/2016
+
+Decreto-Lei n.º 49/2016
+
+de 23 de agosto
+
+O reforço do poder do cidadão no Serviço Nacional de Saúde constitui um dos compromissos do Programa do XXI Governo Constitucional, consubstanciado em várias medidas, entre as quais se destaca a criação do «Conselho Nacional de Saúde no sentido de garantir a participação dos cidadãos utilizadores do Serviço Nacional de Saúde na definição das políticas, contando com a participação das autarquias e dos profissionais, bem como de conselhos regionais e institucionais, como forma de promover uma cultura de transparência e prestação de contas perante a sociedade».
+
+Embora legalmente previsto há mais de 25 anos na Base VII da Lei n.º 48/90, de 24 de agosto - Lei de Bases da Saúde, e ao longo das várias leis orgânicas do Ministério da Saúde, o Conselho Nacional de Saúde nunca foi criado.
+
+Trata-se de um órgão consultivo do Governo representativo dos interessados no funcionamento das entidades prestadoras de cuidados de saúde, cuja composição, competência e funcionamento constam de diploma próprio, que importa agora concretizar.
+
+Este órgão tem presente as melhores práticas internacionais e traduz o que os estudos de reflexão na área da saúde consideram ser importante, estabelecendo uma aliança de toda a sociedade para definir uma visão para o futuro e ter uma perspetiva de conjunto do sistema.
+
+Foram ouvidos os órgãos do governo próprio das regiões autónomas, a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias, as Ordens dos Biólogos, dos Enfermeiros, dos Farmacêuticos, dos Médicos, dos Médicos Dentistas, dos Nutricionistas e dos Psicólogos, o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos, a Comissão Permanente de Concertação Social, o Conselho Nacional para a Economia Social e o Conselho Nacional de Ética para as Ciências da Vida.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece o regime jurídico do Conselho Nacional de Saúde (CNS), previsto na Base VII da Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro.
+
+###### Artigo 2.º — Natureza
+
+O CNS é um órgão independente, de consulta do Governo na definição de políticas de saúde, sem prejuízo do previsto no n.º 2 do artigo 4.º, que funciona junto do Ministério da Saúde.
+
+###### Artigo 3.º — Missão
+
+O CNS tem por missão proporcionar a participação das várias entidades científicas, sociais, culturais e económicas, na procura de consensos alargados relativamente à política de saúde.
+
+###### Artigo 4.º — Competências
+
+1 - Compete ao CNS, por iniciativa própria ou sempre que solicitado pelo Governo:
+
+a) Apreciar e emitir parecer e recomendações sobre questões relativas a temas relacionados com a política de saúde, designadamente:
+
+i) Execução do programa do Governo e modelo de governação da saúde;
+
+ii) Saúde dos portugueses conforme relatórios anuais de acesso e qualidade;
+
+iii) Plano Nacional de Saúde;
+
+iv) Investigação e inovação nas áreas da saúde.
+
+b) Promover a análise e o debate público sobre a política de saúde;
+
+c) Promover a formação, e a sensibilização da população em geral sobre as questões relevantes para a saúde pública, por sua iniciativa ou em colaboração com outras entidades públicas, sociais ou privadas, nomeadamente através da realização de conferências periódicas e da apresentação pública das questões mais importantes que tenham sido submetidas à sua análise;
+
+d) Colaborar na preparação e realização dos debates a propósito do Dia Mundial da Saúde;
+
+e) Apresentar anualmente ao membro do Governo responsável pela área da saúde e à Assembleia da República um relatório sobre a situação da saúde em Portugal, formulando as recomendações que tenha por convenientes;
+
+f) Assegurar a representação nacional em reuniões internacionais de organismos congéneres;
+
+g) Publicar os documentos elaborados no âmbito das suas competências, através de sítio próprio na Internet;
+
+h) Aprovar o plano anual de atividades;
+
+i) Elaborar e aprovar o relatório anual de atividades, a enviar ao Presidente da República, à Assembleia da República e ao membro do Governo responsável pela área da saúde;
+
+j) Aprovar o seu regulamento interno.
+
+2 - A Assembleia da República pode, também, solicitar a emissão de pareceres, nos termos do número anterior.
+
+###### Artigo 5.º — Composição
+
+1 - O CNS é composto pelos membros a seguir identificados, nos seguintes termos:
+
+a) Um presidente e um vice-presidente designados pelo Conselho de Ministros, sob proposta do membro do Governo responsável pela área da saúde;
+
+b) Seis representantes dos utentes, eleitos, pela Assembleia da República, por maioria absoluta dos deputados em efetividade de funções, incluindo as associações de doentes, em conformidade com o disposto no n.º 3 da Base VII da Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro;
+
+c) Um representante das seguintes associações públicas profissionais:
+
+i) Ordem dos Biólogos;
+
+ii) Ordem dos Enfermeiros;
+
+iii) Ordem dos Farmacêuticos;
+
+iv) Ordem dos Médicos;
+
+v) Ordem dos Médicos Dentistas;
+
+vi) Ordem dos Nutricionistas;
+
+vii) Ordem dos Psicólogos.
+
+viii) Ordem dos Fisioterapeutas;
+
+ix) Ordem dos Médicos Veterinários;
+
+d) Dois representantes das autarquias designados um pela Associação Nacional de Municípios Portugueses e um pela Associação Nacional de Freguesias;
+
+e) Duas personalidades de reconhecido mérito na área da saúde devendo refletir a pluralidade dos saberes, designados pelo Conselho de Reitores das Universidades Portuguesas;
+
+f) Duas personalidades de reconhecido mérito na área da saúde, devendo refletir a pluralidade dos saberes, designados pelo Conselho Coordenador dos Institutos Superiores Politécnicos;
+
+g) Uma personalidade de reconhecido mérito na área da saúde, designada pelo Governo da Região Autónoma dos Açores;
+
+h) Uma personalidade de reconhecido mérito na área da saúde, designada pelo Governo da Região Autónoma da Madeira;
+
+i) Cinco personalidades indicadas pela Comissão Permanente de Concertação Social, sob proposta das respetivas organizações sindicais e empresariais;
+
+j) Uma personalidade de reconhecido mérito na área da saúde, indicada pelo Conselho Nacional para a Economia Social;
+
+k) Uma personalidade de reconhecido mérito na área da saúde, indicada pelo Conselho Nacional de Ética para as Ciências da Vida.
+
+2 - Para cada representante no CNS, previstos nas alíneas b) a k) do número anterior, é designado também um suplente.
+
+3 - A designação dos membros referidos nos números anteriores deve ter em conta a relevância dos interesses representados, e as competências do CNS.
+
+4 - Face à natureza das matérias a abordar, o Presidente pode, por iniciativa própria, ou a solicitação de qualquer membro do CNS, convidar entidades ou personalidades não incluídas no n.º 1, e convocar os dirigentes máximos dos serviços da Administração Pública, para participarem nas reuniões do CNS, sem direito a voto.
+
+5 - Relativamente aos representantes indicados nas alíneas b), c) e d) do n.º 1 o respetivo mandado coincide com o termo do mandato das entidades representadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2024 - Diário da República n.º 137/2024, Série I de 2024-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2024-872180332), em vigor a partir de 2024-08-01
+
+###### Artigo 6.º — Mandato dos membros
+
+1 - Os membros do CNS exercem funções por um período de quatro anos não renovável.
+
+2 - Os membros do CNS tomam posse perante o presidente.
+
+###### Artigo 7.º — Estatuto dos membros
+
+1 - Os membros do CNS são inamovíveis, não podendo as suas funções cessar antes do termo do mandato, exceto em caso de:
+
+a) Morte ou incapacidade física ou psíquica;
+
+b) Renúncia ao mandato;
+
+c) Perda do mandato.
+
+2 - Perdem o mandato os membros do CNS que:
+
+a) Sejam condenados judicialmente, com sentença transitada em julgado, incompatível com o exercício do mandato, nos termos da sentença aplicável;
+
+b) Faltem injustificadamente a duas ou mais reuniões sucessivas, devendo proceder-se à sua substituição pelo suplente indicado ou a nova designação, se aquele não existir;
+
+c) Deixem de ser reconhecidos como tais pelas entidades que representam, devendo estas dar conhecimento do facto, por escrito, ao presidente.
+
+3 - A cessação ou perda de mandato prevista nos números anteriores é determinada por deliberação do CNS, ouvidos os interessados.
+
+###### Artigo 8.º — Competências do presidente
+
+1 - Compete ao presidente do CNS:
+
+a) Representar o CNS;
+
+b) Dar posse aos membros do CNS;
+
+c) Coordenar a atividade do CNS, convocar e presidir às reuniões e fazer cumprir a ordem de trabalhos;
+
+d) Exercer voto de qualidade em caso de empate nas votações;
+
+e) Solicitar ao Governo e a quaisquer entidades públicas ou privadas as informações necessárias ao bom desempenho das atribuições do CNS;
+
+f) Convidar individualidades ou entidades não representadas no CNS, e os dirigentes máximos dos serviços a participarem nas respetivas reuniões, nos termos do n.º 2 do artigo seguinte.
+
+2 - O presidente é substituído nas suas ausências ou impedimentos pelo vice-presidente, ou na falta deste, por quem indicar para o efeito.
+
+###### Artigo 9.º — Funcionamento
+
+1 - O CNS reúne ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que convocado pelo seu presidente, a pedido do Governo ou de um terço dos seus membros.
+
+2 - Podem participar nas reuniões, sem direito a voto, quaisquer pessoas cuja presença seja considerada necessária para esclarecimento dos assuntos em apreciação, por convocação do presidente.
+
+3 - Por iniciativa do presidente, quando a natureza da matéria o justifique, e tendo em conta a composição do CNS e a especificidade do assunto em causa, podem ser constituídas comissões especializadas, incumbidas de preparar o parecer do CNS sobre as matérias que lhes sejam expressamente submetidas.
+
+4 - A comissão criada nos termos do número anterior extingue-se com a emissão do parecer cuja preparação fundamentou a sua criação.
+
+5 - As reuniões ordinárias são convocadas pelo presidente do CNS, com a antecedência mínima de 15 dias úteis, salvo motivo de força maior.
+
+6 - As convocatórias indicam o dia, a hora da reunião e a ordem do dia e contêm a documentação de suporte sobre cada assunto dela constante.
+
+7 - As faltas às reuniões devem, quando previsíveis, ser previamente comunicadas e justificadas ao presidente.
+
+8 - De cada reunião é lavrada ata, que inclui um resumo de tudo o que nela tiver ocorrido, indicando, designadamente, a data e o local da reunião, os membros presentes, as justificações de ausência recebidas, os assuntos apreciados, as deliberações tomadas e a forma e o resultado das respetivas votações.
+
+9 - As atas de cada reunião são submetidas pelo presidente à discussão e aprovação de todos os membros na reunião subsequente.
+
+10 - A comunicação de todos os atos deve ser realizada por correio eletrónico.
+
+###### Artigo 10.º — Quórum e deliberações
+
+1 - O CNS só pode reunir estando presente a maioria dos seus membros, entre os quais o presidente ou o vice-presidente.
+
+2 - As deliberações são tomadas por maioria simples dos membros presentes, tendo o presidente do CNS, ou o seu substituto, voto de qualidade.
+
+3 - As deliberações são eficazes com a aprovação das respetivas atas, nos termos previstos no Código do Procedimento Administrativo.
+
+###### Artigo 11.º — Apoio logístico, administrativo e financeiro
+
+O apoio logístico, administrativo e financeiro indispensável ao funcionamento do CNS é prestado pela Secretaria-Geral do Ministério da Saúde.
+
+###### Artigo 12.º — Início de funções
+
+O CNS inicia as suas funções assim que comunicada ao respetivo Presidente a designação de, no mínimo, 16 membros.
+
+###### Artigo 13.º — Direitos dos membros
+
+1 - Constituem direitos dos membros do CNS:
+
+a) Participar nas reuniões e votações;
+
+b) Apresentar sugestões ou propostas ao CNS, para os efeitos do previsto no n.º 1 do artigo 4.º;
+
+c) Solicitar, através do seu presidente, ao Governo, os esclarecimentos que entendam por convenientes, no âmbito das competências do CNS.
+
+2 - Constituem, ainda, direitos dos membros do CNS a dispensa das suas atividades profissionais, públicas ou privadas, quando se encontrem no exercício efetivo de funções neste órgão, sem perda de quaisquer direitos ou regalias.
+
+3 - Os membros do CNS não têm direito a qualquer tipo de remuneração, sem prejuízo do pagamento de ajudas de custo e deslocações a que tenham direito, nos termos legais.
+
+###### Artigo 14.º — Colaboração
+
+1 - O CNS pode solicitar a quaisquer entidades públicas ou privadas os elementos que considerar indispensáveis para a prossecução da sua missão, as quais devem prestar, no âmbito das suas atribuições e competências, todo o apoio que lhes for solicitado.
+
+2 - Os serviços e organismos da Administração Central, Regional e Local do Estado colaboram com o CNS, prestando toda a informação que lhes seja solicitada pelo presidente do CNS.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - Carlos Manuel Soares Miguel - Manuel Frederico Tojal de Valsassina Heitor - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - José Fernando Gomes Mendes.
+
+Promulgado em 9 de agosto de 2016.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 11 de agosto de 2016.
+
+O Primeiro-Ministro, António Luís Santos da Costa.

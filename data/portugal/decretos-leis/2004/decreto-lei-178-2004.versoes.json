@@ -1,0 +1,255 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:507226:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-214375586",
+ "dre_path": "/dr/detalhe/decreto-lei/178-2004-507226",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-07-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "214375310",
+    "214375311",
+    "214375312",
+    "214375313",
+    "214375314",
+    "214375315",
+    "214375316"
+   ]
+  },
+  {
+   "date": "2005-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:245285:por",
+     "title": "Decreto-Lei n.º 143/2005",
+     "published": "2005-08-26",
+     "dre_path": "/dr/detalhe/decreto-lei/143-2005-245285"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "214375310",
+    "214375311",
+    "214375320",
+    "214375313",
+    "214375321",
+    "214375322",
+    "214375323",
+    "214375318",
+    "214375319"
+   ]
+  },
+  {
+   "date": "2023-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:214315733:por",
+     "title": "Decreto-Lei n.º 45/2023",
+     "published": "2023-06-13",
+     "dre_path": "/dr/detalhe/decreto-lei/45-2023-214315733"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "214375310",
+    "214375311",
+    "214375324",
+    "214375313",
+    "214375325",
+    "214375326",
+    "214375327",
+    "214375328",
+    "214375319"
+   ]
+  }
+ ],
+ "fragments": {
+  "214375310": {
+   "fragment_id": "214375587",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 178/2004\n\nde 27 de Julho\n\nA Lei n.º 12/2004, de 30 de Março, estabelece, no n.º 6 do artigo 30.º, que o produto resultante da cobrança das taxas de autorização referentes à instalação e modificação de estabelecimentos de comércio e à instalação de conjuntos comerciais, abrangidos pela mesma lei, reverte parcialmente a favor de um fundo de modernização do comércio, a criar, fixando igualmente os objectivos visados com este instrumento.\n\nO presente diploma visa dar cumprimento às disposições antes referidas, criando, no âmbito do Ministério da Economia, o Fundo de Modernização do Comércio, instrumento que também se enquadra nos objectivos de política económica do Governo e, em particular, nas orientações contidas no Programa para a Produtividade e o Crescimento da Economia.\n\nPretende-se que o Fundo, para o qual poderão reverter outros meios financeiros, para além dos provenientes das supracitadas taxas, permita, por um lado, uma efectiva transparência da gestão dos fluxos financeiros que lhe estão afectos e, por outro, possibilite a viabilização de projectos determinantes na dinamização e revitalização da actividade comercial, particularmente em centros de comércio com predomínio de comércio independente de proximidade, em zonas urbanas ou rurais, bem como a promoção de acções e programas de formação dirigidos ao sector do comércio, constituindo-se, assim, num instrumento importante no domínio das políticas públicas de dinamização do sector do comércio.\n\nAssim:\n\nAo abrigo do disposto no n.º 6 do artigo 30.º da Lei n.º 12/2004, de 30 de Março, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "214375311": {
+   "fragment_id": "214375588",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - É criado, no âmbito do Ministério da Economia, o Fundo de Modernização do Comércio, abreviadamente designado por Fundo.\n\n2 - O Fundo tem a natureza de património autónomo sem personalidade jurídica."
+  },
+  "214375312": {
+   "fragment_id": "214375589",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos e acções a apoiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos e acções a apoiar\n\n1 - O Fundo tem como objectivos a modernização e a revitalização da actividade comercial, particularmente em centros de comércio com predomínio de comércio independente de proximidade, em zonas urbanas ou rurais, bem como a promoção de acções e programas de formação dirigidos ao sector do comércio.\n\n2 - A prossecução dos objectivos referidos no número anterior concretiza-se através do apoio ao investimento de empresas e de entidades sem fins lucrativos do sector privado ou destas e de instituições do sector público, no âmbito de parcerias que envolvam a cooperação e a partilha de riscos.\n\n3 - O apoio a que se refere o número anterior é concretizado através do financiamento de projectos e iniciativas enquadrados em programas ou medidas de apoio que visem os objectivos mencionados no n.º 1."
+  },
+  "214375313": {
+   "fragment_id": "214375590",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologia de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipologia de apoios\n\n1 - Os apoios a conceder através do Fundo assumem a forma de comparticipações financeiras directas, reembolsáveis e não reembolsáveis.\n\n2 - Os apoios tipificados no número anterior são concedidos com respeito pelas regras inerentes às ajudas do Estado definidas pela Comissão Europeia e de acordo com o quadro legal nacional em matéria de programas e instrumentos de apoio."
+  },
+  "214375314": {
+   "fragment_id": "214375591",
+   "type": 11,
+   "heading": "Artigo 4.º — Fontes de financiamento e afectação de receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fontes de financiamento e afectação de receitas\n\n1 - O Fundo é financiado pelas seguintes receitas:\n\na) 50% das taxas relativas à autorização de instalação e modificação de estabelecimentos de comércio e de instalação de conjuntos comerciais, fixadas ao abrigo do disposto no n.º 1 do artigo 30.º da Lei n.º 12/2004, de 30 de Março;\n\nb) Reembolso das comparticipações financeiras reembolsáveis referidas no artigo 3.º;\n\nc) Rendimentos provenientes de aplicações financeiras;\n\nd) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados.\n\n2 - As receitas do Fundo são afectas ao organismo gestor na vertente técnica, sendo aplicadas preferencialmente em projectos e iniciativas que se dirijam às regiões que estão na origem das mesmas, nos termos definidos nos programas e medidas de apoio a que se refere o n.º 3 do artigo 2.º"
+  },
+  "214375315": {
+   "fragment_id": "214375592",
+   "type": 11,
+   "heading": "Artigo 5.º — Gestão, controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gestão, controlo e fiscalização\n\n1 - A gestão do Fundo é atribuída:\n\na) Ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), na vertente técnica;\n\nb) À Direcção-Geral do Tesouro (DGT), na vertente financeira.\n\n2 - A operacionalização da gestão do Fundo consta do regulamento de gestão aprovado por despacho conjunto dos Ministros das Finanças e da Economia.\n\n3 - Sem prejuízo das competências legalmente atribuídas a outras entidades, o controlo e fiscalização da gestão do Fundo, na vertente técnica, é exercido pelo órgão de fiscalização do IAPMEI.\n\n4 - A DGT elabora anualmente um relatório da gestão financeira do Fundo, que envia ao IAPMEI."
+  },
+  "214375316": {
+   "fragment_id": "214375593",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma transitória\n\nO produto das taxas referidas na alínea a) do n.º 1 do artigo 4.º é integralmente contabilizado no Fundo enquanto não estiver constituído o fundo de apoio aos empresários comerciais a que se refere o despacho conjunto n.º 324/2002, de 28 de Março, publicado no Diário da República, 2.ª série, n.º 94, de 22 de Abril de 2002."
+  },
+  "214375320": {
+   "fragment_id": "214375589",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos e acções a apoiar",
+   "in_force_from": "2005-08-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+   ],
+   "markdown": "###### Artigo 2.º — Objectivos e acções a apoiar\n\n1 - O Fundo tem como objectivos a modernização e a revitalização da actividade comercial, particularmente em centros de comércio com predomínio de comércio independente de proximidade, em zonas urbanas ou rurais, bem como a promoção de acções e programas de formação dirigidos ao sector do comércio.\n\n2 - A prossecução dos objectivos referidos no número anterior concretiza-se através do apoio ao investimento de empresas e de estruturas associativas do sector sem fim lucrativo.\n\n3 - O apoio a que se refere o número anterior é concretizado através do financiamento de projectos e iniciativas enquadrados em programas ou medidas de apoio que visem os objectivos mencionados no n.º 1.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+  },
+  "214375321": {
+   "fragment_id": "214375591",
+   "type": 11,
+   "heading": "Artigo 4.º — Fontes de financiamento e afectação de receitas",
+   "in_force_from": "2005-08-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+   ],
+   "markdown": "###### Artigo 4.º — Fontes de financiamento e afectação de receitas\n\n1 - O Fundo é financiado pelas seguintes receitas:\n\na) 50% das taxas relativas à autorização de instalação e modificação de estabelecimentos de comércio e de instalação de conjuntos comerciais, fixadas ao abrigo do disposto no n.º 1 do artigo 30.º da Lei n.º 12/2004, de 30 de Março;\n\nb) Reembolso das comparticipações financeiras reembolsáveis referidas no artigo 3.º;\n\nc) Rendimentos provenientes de aplicações financeiras;\n\nd) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados.\n\n2 - As receitas do Fundo são afectas ao organismo gestor da vertente financeira, sendo aplicadas preferencialmente em projectos e iniciativas que se dirijam às regiões que estão na origem das mesmas, nos termos definidos nos programas e medidas de apoio a que se refere o n.º 3 do artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+  },
+  "214375322": {
+   "fragment_id": "214375592",
+   "type": 11,
+   "heading": "Artigo 5.º — Gestão, controlo e fiscalização",
+   "in_force_from": "2005-08-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+   ],
+   "markdown": "###### Artigo 5.º — Gestão, controlo e fiscalização\n\n1 - A gestão do Fundo é atribuída:\n\na) À Direcção-Geral da Empresa (DGE), na vertente técnica;\n\nb) Ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), na vertente financeira;\n\nc) À Direcção-Geral do Tesouro (DGT), na vertente da gestão dos fundos e respectivas disponibilidades.\n\n2 - Sem prejuízo das competências legalmente atribuídas a outras entidades, o controlo e fiscalização da gestão do Fundo, na vertente financeira, é exercido pelo órgão de fiscalização do IAPMEI.\n\n3 - O IAPMEI elabora anualmente um relatório da gestão financeira do Fundo, que envia aos Ministros de Estado e das Finanças e da Economia e da Inovação.\n\n4 - O regulamento de gestão do Fundo é aprovado por portaria conjunta dos Ministros de Estado e das Finanças e da Economia e da Inovação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+  },
+  "214375323": {
+   "fragment_id": "214375593",
+   "type": 11,
+   "heading": "Artigo 6.º — Estruturas de acompanhamento",
+   "in_force_from": "2005-08-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+   ],
+   "markdown": "###### Artigo 6.º — Estruturas de acompanhamento\n\n1 - O Fundo tem estruturas de acompanhamento, a quem compete submeter ao Ministro da Economia e da Inovação as medidas de apoio a financiar pelo Fundo.\n\n2 - A composição das referidas estruturas de acompanhamento e a enumeração das respectivas competências são fixadas no regulamento mencionado no n.º 4 do artigo 5.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+  },
+  "214375318": {
+   "fragment_id": "214375595",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma transitória",
+   "in_force_from": "2005-08-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+   ],
+   "markdown": "###### Artigo 7.º — Norma transitória\n\nO produto das taxas referidas na alínea a) do n.º 1 do artigo 4.º é integralmente contabilizado no Fundo enquanto não estiver constituído o fundo de apoio aos empresários comerciais a que se refere o despacho conjunto n.º 324/2002, de 28 de Março, publicado no Diário da República, 2.ª série, n.º 94, de 22 de Abril de 2002.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+  },
+  "214375319": {
+   "fragment_id": "214375594",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Junho de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - António José de Castro Bagão Félix.\n\nPromulgado em 14 de Julho de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 16 de Julho de 2004.\n\nPelo Primeiro-Ministro, Maria Manuela Dias Ferreira Leite."
+  },
+  "214375324": {
+   "fragment_id": "214375589",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos e acções a apoiar",
+   "in_force_from": "2023-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2023 - Diário da República n.º 113/2023, Série I de 2023-06-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2023-214315733), em vigor a partir de 2023-06-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+   ],
+   "markdown": "###### Artigo 2.º — Objectivos e acções a apoiar\n\n1 - O Fundo tem como objetivos a modernização e a revitalização de atividades de comércio, de serviços e de restauração, particularmente em centros de comércio com predomínio de comércio independente de proximidade, em zonas urbanas ou rurais, bem como a promoção de ações e programas de formação dirigidos a estes setores.\n\n2 - A prossecução dos objetivos referidos no número anterior concretiza-se através do apoio ao investimento de empresas, de cooperativas de consumo ou de comercialização e de estruturas associativas do setor sem fim lucrativo.\n\n3 - O apoio a que se refere o número anterior é concretizado através do financiamento de projectos e iniciativas enquadrados em programas ou medidas de apoio que visem os objectivos mencionados no n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2023 - Diário da República n.º 113/2023, Série I de 2023-06-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2023-214315733), em vigor a partir de 2023-06-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+  },
+  "214375325": {
+   "fragment_id": "214375591",
+   "type": 11,
+   "heading": "Artigo 4.º — Fontes de financiamento e afectação de receitas",
+   "in_force_from": "2023-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2023 - Diário da República n.º 113/2023, Série I de 2023-06-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2023-214315733), em vigor a partir de 2023-06-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+   ],
+   "markdown": "###### Artigo 4.º — Fontes de financiamento e afectação de receitas\n\n1 - O Fundo é financiado pelas seguintes receitas:\n\na) As taxas relativas à autorização de instalação ou alteração significativa de grandes superfícies comerciais não inseridas em conjuntos comerciais e de conjuntos comerciais com área bruta locável igual ou superior a 8000 m2, fixadas ao abrigo do disposto no artigo 18.º do Decreto-Lei n.º 10/2015, de 16 de janeiro, na sua redação atual;\n\nb) Reembolso das comparticipações financeiras reembolsáveis referidas no artigo 3.º;\n\nc) Rendimentos provenientes de aplicações financeiras;\n\nd) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados.\n\n2 - As receitas do Fundo são afectas ao organismo gestor da vertente financeira, sendo aplicadas preferencialmente em projectos e iniciativas que se dirijam às regiões que estão na origem das mesmas, nos termos definidos nos programas e medidas de apoio a que se refere o n.º 3 do artigo 2.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2023 - Diário da República n.º 113/2023, Série I de 2023-06-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2023-214315733), em vigor a partir de 2023-06-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+  },
+  "214375326": {
+   "fragment_id": "214375592",
+   "type": 11,
+   "heading": "Artigo 5.º — Gestão, controlo e fiscalização",
+   "in_force_from": "2023-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2023 - Diário da República n.º 113/2023, Série I de 2023-06-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2023-214315733), em vigor a partir de 2023-06-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+   ],
+   "markdown": "###### Artigo 5.º — Gestão, controlo e fiscalização\n\n1 - A gestão do Fundo é atribuída:\n\na) À Direção-Geral das Atividades Económicas, na vertente técnica;\n\nb) Ao IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), na vertente financeira;\n\nc) À Direção-Geral de Tesouro e Finanças, na vertente da gestão dos fundos e respetivas disponibilidades.\n\n2 - Sem prejuízo das competências legalmente atribuídas a outras entidades, o controlo e fiscalização da gestão do Fundo, na vertente financeira, é exercido pelo órgão de fiscalização do IAPMEI, I. P.\n\n3 - O IAPMEI, I. P., elabora anualmente um relatório da gestão financeira do Fundo, que envia aos membros do Governo responsáveis pelas áreas das finanças e da economia.\n\n4 - O regulamento de gestão do Fundo é aprovado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2023 - Diário da República n.º 113/2023, Série I de 2023-06-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2023-214315733), em vigor a partir de 2023-06-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+  },
+  "214375327": {
+   "fragment_id": "214375593",
+   "type": 11,
+   "heading": "Artigo 6.º — Estruturas de acompanhamento",
+   "in_force_from": "2023-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2023 - Diário da República n.º 113/2023, Série I de 2023-06-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2023-214315733), em vigor a partir de 2023-06-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+   ],
+   "markdown": "###### Artigo 6.º — Estruturas de acompanhamento\n\n1 - O Fundo tem estruturas de acompanhamento, a quem compete submeter ao membro do Governo responsável pela área da economia as medidas de apoio a financiar pelo Fundo.\n\n2 - A composição das referidas estruturas de acompanhamento e a enumeração das respectivas competências são fixadas no regulamento mencionado no n.º 4 do artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2023 - Diário da República n.º 113/2023, Série I de 2023-06-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2023-214315733), em vigor a partir de 2023-06-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+  },
+  "214375328": {
+   "fragment_id": "214375595",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma transitória",
+   "in_force_from": "2023-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 45/2023 - Diário da República n.º 113/2023, Série I de 2023-06-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2023-214315733), em vigor a partir de 2023-06-14",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+   ],
+   "markdown": "###### Artigo 7.º — Norma transitória\n\nO produto das taxas referidas na alínea a) do n.º 1 do artigo 4.º é integralmente contabilizado no Fundo enquanto não estiver constituído o fundo de apoio aos empresários comerciais a que se refere o despacho conjunto n.º 324/2002, de 28 de Março, publicado no Diário da República, 2.ª série, n.º 94, de 22 de Abril de 2002.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 45/2023 - Diário da República n.º 113/2023, Série I de 2023-06-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2023-214315733), em vigor a partir de 2023-06-14\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), em vigor a partir de 2005-08-31"
+  }
+ }
+}

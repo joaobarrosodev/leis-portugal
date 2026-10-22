@@ -1,0 +1,382 @@
+---
+schema_version: '1.0'
+id: pt:dre:633290:por
+title: Decreto-Lei n.º 85/2006
+short_title: null
+summary: Estende a aplicação do projecto «Documento único automóvel» às Regiões Autónomas dos Açores e da Madeira, alterando
+  os Decretos-Leis n.os 178-A/2005, de 28 de Outubro, e 54/75, de 12 de Fevereiro, bem como o Regulamento do Registo de Automóveis
+  e o Regulamento Emolumentar dos Registos e do Notariado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 85/2006
+official_date: null
+publication_date: '2006-05-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 99/2006, Série I-A de 2006-05-23
+  number: '99'
+  series: I
+  supplement: null
+  pages: 3463 - 3466
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/05/099a00/34633466.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/85/2006/05/23/p/dre/pt/html
+  oj: null
+  dre: '633290'
+  dre_path: /dr/detalhe/decreto-lei/85-2006-633290
+  internal: pt:dre:633290:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2006-633290
+  metadata_url: https://data.dre.pt/eli/dec-lei/85/2006/05/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2006-633290
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-08-16T00:00:00Z'
+integrity:
+  source_sha256: dbb886be237b9d4ffdedeaff97fa1622cffab291f74221208d3afd7478838537
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-85-633290.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Livrete de Veículo Automóvel
+- Conservatória do Registo Automóvel
+- Contrato de Aluguer
+- Direcção Geral dos Registos e do Notariado
+- Registo Automóvel
+- Emolumento
+- Veículo
+- Documento Eletrónico
+- Madeira.região Autónoma
+- Documento Único Automóvel
+- Regulamento do Registo de Automóveis
+- Regulamento Emolumentar dos Registos e Notariado
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:123962149:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/
+  label: null
+  source: http://data.dre.pt/eli/
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/178-a/2005/10/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/178-a/2005/10/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/182/2002/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/182/2002/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/194/2003/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/194/2003/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/277/1995/10/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/277/1995/10/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/315/2002/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/315/2002/12/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/322-a/2001/12/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/322-a/2001/12/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/323/2001/12/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/323/2001/12/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/53/2004/03/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/53/2004/03/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 85/2006
+
+de 23 de Maio
+
+O [Decreto-Lei n.º 178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de Outubro, aprovou o projecto «Documento único automóvel», assim disponibilizando aos cidadãos e às empresas, com evidentes vantagens para ambos, um único suporte - o certificado de matrícula - que agrega informação relativa ao veículo e à situação jurídica do mesmo, anteriormente constantes do título de registo de propriedade e do livrete do veículo. O documento único automóvel é um projecto nacional, pelo que cumpre agora dar execução ao disposto no artigo 26.º desse diploma, onde se dispõe que «a aplicação do presente decreto-lei às Regiões Autónomas dos Açores e da Madeira depende de legislação especial».
+
+Este decreto-lei visa, pois, em primeiro lugar, estender o projecto «Documento único automóvel» a todo o território nacional, aplicando às Regiões Autónomas dos Açores e da Madeira o decreto-lei que o aprovou.
+
+Permite-se, todavia, que os órgãos competentes dos Governos Regionais procedam à adaptação do [Decreto-Lei n.º 178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de Outubro, tendo em conta as especificidades regionais, designadamente no que respeita aos órgãos competentes para a emissão de portarias, assinatura de protocolos e emissão de despachos.
+
+Aproveita-se ainda esta intervenção para clarificar algumas disposições dos diplomas alterados pelo [Decreto-Lei n.º 178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de Outubro, com o objectivo de eliminar dúvidas de interpretação já suscitadas. Assim, esclarece-se que a desafectação ao regime de aluguer sem condutor é registada através de menção especial efectuada no registo da constituição ou transmissão e que, quando se prevê o registo do aluguer por prazo superior a um ano, o acto que está sujeito a inscrição obrigatória é a sujeição do veículo ao regime do aluguer de longa duração.
+
+Por outro lado, estabelece-se que as regras de substituição do certificado de matrícula dos veículos afectos ao regime de aluguer sem condutor são aprovadas por portaria conjunta dos Ministros de Estado e da Administração Interna e da Justiça, consagrando, por esta via, a possibilidade de esta actividade continuar a beneficiar de um regime de excepção.
+
+Faz-se ainda menção, no texto da lei, à necessidade de compensar o Instituto das Tecnologias de Informação na Justiça (ITIJ) pelos encargos que venha a suportar em consequência da emissão de certificados de matrícula.
+
+Procede-se, por fim, a pequenas alterações ao Regulamento Emolumentar dos Registos e do Notariado, eliminando incoerências, incentivando o fornecimento em suporte electrónico de mapas estatísticos e estabelecendo uma redução emolumentar no registo de reboques solicitado por entidades licenciadas que exerçam a actividade de transportes rodoviários de mercadorias por conta de outrem.
+
+Foram ouvidos, a título facultativo, a Associação dos Oficiais dos Registos e do Notariado, a Associação Nacional das Empresas do Comércio e da Reparação Automóvel, a Associação do Comércio Automóvel de Portugal e a Associação Portuguesa para a Defesa do Consumidor.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Aplicação do projecto «Documento único automóvel» às Regiões Autónomas dos Açores e da Madeira
+
+1 - O [Decreto-Lei n.º 178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de Outubro, que aprovou o projecto «Documento único automóvel», é aplicável às Regiões Autónomas dos Açores e da Madeira.
+
+2 - O disposto no número anterior não prejudica a possibilidade de, tendo em conta as especificidades regionais, proceder à adaptação do regime previsto no decreto-lei referido no número anterior, designadamente no que respeita à determinação da entidade competente dos Governos Regionais para a prática de determinados actos quando os serviços envolvidos estejam regionalizados, tais como:
+
+a) Determinar as entidades competentes para a emissão da portaria referida no n.º 2 do seu artigo 3.º;
+
+b) Determinar as entidades competentes para a emissão dos despachos previstos no n.º 2 do seu artigo 6.º e no seu artigo 20.º;
+
+c) Determinar as entidades competentes para a celebração dos protocolos referidos no seu artigo 8.º
+
+3 - Os serviços situados nas Regiões Autónomas que praticarem os actos relativos aos veículos devem entregar à Direcção-Geral dos Registos e do Notariado um montante correspondente às despesas de emissão do certificado de matrícula em que esta venha a incorrer, na proporção dos certificados que sejam emitidos e nos termos de protocolo a celebrar entre as entidades competentes das Regiões Autónomas e o director-geral dos Registos e do Notariado.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de Outubro
+
+Os artigos 7.º e 24.º do [Decreto-Lei n.º 178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 7.º
+
+[...]
+
+1 - O certificado de matrícula não pode ser substituído por fotocópia simples ou autenticada do mesmo documento.
+
+2 - O disposto no número anterior não é aplicável aos veículos afectos ao regime de aluguer sem condutor, cujas regras de substituição do certificado de matrícula são reguladas por portaria conjunta dos Ministros de Estado e da Administração Interna e da Justiça.
+
+###### Artigo 24.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Nos casos em que o acto tenha sido praticado por um serviço externo da DGRN, os encargos previstos no número anterior são suportados por aquele serviço, sendo o montante desses encargos determinado por despacho do director-geral dos Registos e do Notariado.
+
+5 - (Anterior n.º 4.)
+
+6 - A DGRN deve compensar o Instituto das Tecnologias de Informação na Justiça (ITIJ) pelos encargos em que este venha a incorrer com a emissão dos certificados de matrícula, na proporção dos certificados que sejam emitidos e nos termos de protocolo a celebrar entre as duas entidades.»
+
+###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de Fevereiro
+
+O artigo 5.º do [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de Fevereiro, com as alterações introduzidas pelos Decretos-Leis n.os [242/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1982-395317), de 22 de Junho, [461/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/461-1982-380150), de 26 de Novembro, [217/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1983-451817), de 25 de Maio, [54/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1985-326118), de 4 de Março, [403/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1988-358754), de 9 de Novembro, [277/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1995-668290), de 25 de Outubro, [182/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2002-171693), de 20 de Agosto, e [178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de Outubro, passa a ter a seguinte redacção:
+
+«Artigo 5.º
+
+1 - Estão sujeitos a registo:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) O aluguer por prazo superior a um ano, quando do respectivo contrato resulte a existência de uma expectativa de transmissão da propriedade;
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+2 - ...
+
+3 - ...»
+
+###### Artigo 4.º — Alteração ao Regulamento do Registo de Automóveis
+
+O artigo 46.º-A do Regulamento do Registo de Automóveis, aprovado pelo [Decreto n.º 55/75](https://diariodarepublica.pt/dr/detalhe/decreto/55-1975-159882), de 12 de Fevereiro, com as alterações introduzidas pelo [Decreto Regulamentar n.º 36/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1982-395312), de 22 de Junho, pelo [Decreto n.º 130/82](https://diariodarepublica.pt/dr/detalhe/decreto/130-1982-379909), de 27 de Novembro, e pelos Decretos-Leis n.os [226/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1984-591314), de 6 de Julho, [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de Dezembro, e [178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de Outubro, passa a ter a seguinte redacção:
+
+«Artigo 46.º-A
+
+[...]
+
+1 - A afectação do veículo ao regime de aluguer sem condutor é registada através de menção especial efectuada no registo do direito do locador.
+
+2 - Nos casos de constituição ou transmissão de direito sobre o veículo, acompanhadas da desafectação deste ao regime referido no número anterior, a desafectação é registada através de menção especial efectuada no registo da constituição ou transmissão.»
+
+###### Artigo 5.º — Alteração ao Regulamento Emolumentar dos Registos e do Notariado
+
+Os artigos 25.º e 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 315/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2002-404747), de 27 de Dezembro, pela [Lei n.º 32-B/2002](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), de 30 de Dezembro, e pelos Decretos-Leis n.os [194/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2003-655966), de 23 de Agosto, [53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de Março, [199/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2004-480709), de 18 de Agosto, [111/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2005-235906), de 8 de Julho, [178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de Outubro, e [76-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), de 29 de Março, passam a ter a seguinte redacção:
+
+###### Artigo 25.º — [...]
+
+... Euros
+
+1 - Registos:
+
+1.1 - ... ... ...
+
+1.2 - ... ... ...
+
+1.3 - ... ... ...
+
+1.4 - ... ... ...
+
+1.5 - Tratando-se de registo de alteração de nome, firma, residência ou sede ... 30
+
+1.6 - ... ... ...
+
+2 - ... ... ...
+
+3 - ... ... ...
+
+4 - ... ... ...
+
+5 - Mapas estatísticos e bases de dados:
+
+5.1 - Pelo fornecimento em suporte de papel de mapas estatísticos:
+
+5.2 - Até 5000 registos ... 750
+
+5.3 - Acima de 5000 registos ... 1500
+
+5.4 - Pelo fornecimento em suporte electrónico de mapas estatísticos:
+
+5.5 - Até 5000 registos ... 100
+
+5.6 - Acima de 5000 registos ... 200
+
+5.7 - ... ... ...
+
+5.8 - ... ... ...
+
+5.9 - ... ... ...
+
+6 - ... ... ...
+
+7 - ... ... ...
+
+###### Artigo 28.º — [...]
+
+... Euros
+
+1 - ... ... ...
+
+2 - ... ... ...
+
+3 - ... ... ...
+
+4 - ... ... ...
+
+5 - ... ... ...
+
+6 - ... ... ...
+
+7 - ... ... ...
+
+8 - ... ... ...
+
+9 - ... ... ...
+
+10 - ... ... ...
+
+11 - ... ... ...
+
+12 - ... ... ...
+
+13 - ... ... ...
+
+14 - ... ... ...
+
+15 - ... ... ...
+
+16 - ... ... ...
+
+17 - ... ... ...
+
+18 - ... ... ...
+
+19 - ... ... ...
+
+20 - ... ... ...
+
+21 - ... ... ...
+
+22 - ... ... ...
+
+23 - ... ... ...
+
+24 - ... ... ...
+
+25 - ... ... ...
+
+26 - Os emolumentos devidos pelo fornecimento em suporte electrónico de mapas estatísticos de registo de veículos a entidades sem fins lucrativos são reduzidos a um quarto.
+
+27 - Se o registo for solicitado por entidades licenciadas que exerçam a actividade de transportes rodoviários de mercadorias por conta de outrem, o primeiro registo de transmissão de reboques está isento de tributação emolumentar e os emolumentos devidos pelos subsequentes registos de transmissão de reboques são reduzidos a três quartos.»
+
+###### Artigo 6.º — Produção de efeitos
+
+O artigo 2.º, na parte em que altera o artigo 24.º do [Decreto-Lei n.º 178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de Outubro, produz efeitos desde 31 de Outubro de 2005.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 6 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
+
+**Promulgado em 4 de Maio de 2006.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 11 de Maio de 2006.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

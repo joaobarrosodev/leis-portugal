@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:363306:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/2002-202547189",
+ "dre_path": "/dr/detalhe/despacho-normativo/33-2002-363306",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-05-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202437470"
+   ]
+  }
+ ],
+ "fragments": {
+  "202437470": {
+   "fragment_id": "202547190",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 33/2002\n\nO Decreto-Lei n.º 289/91, de 10 de Agosto, alterado pelo Decreto-Lei n.º 396/99, de 13 de Outubro, transpôs para o direito interno a Directiva Comunitária n.º <a href=\"eurlex.asp?ano=1989&id=389L0048\" title=\"Link para Directiva da Comunidade Europeia\">89/48/CEE</a>, do Conselho, de 21 de Dezembro de 1988, que, no âmbito da concretização do princípio da livre-circulação de trabalhadores e prestação de serviços na União Europeia, estabelece um sistema geral de reconhecimento dos diplomas de ensino superior que sancionam formações profissionais com uma duração mínima de três anos.\n\nNo seu artigo 16.º, determina aquele diploma legal que o regime de acesso a cada uma das profissões abrangidas pela directiva comunitária mencionada seja objecto de regulamentação, a qual deverá ser emitida pelo departamento governamental dotado de poder hierárquico ou de tutela sobre a correspondente autoridade competente, sendo, «obrigatoriamente, integrada no instrumento legal regulador do estatuto da profissão considerada».\n\nCabe, assim, ao Ministério da Saúde proceder à referida regulamentação, enquanto departamento governamental dotado de poder hierárquico sobre o Departamento de Modernização e Recursos da Saúde, autoridade competente para receber, apreciar e decidir dos pedidos de reconhecimento de qualificações profissionais, formulados ao abrigo do Decreto-Lei n.º 289/91, de 10 de Agosto, alterado pelo Decreto-Lei n.º 396/99, de 13 de Outubro, para efeitos de exercício em Portugal das profissões de técnico de diagnóstico e terapêutica, conforme o disposto na Portaria n.º 325/2000, de 8 de Junho, e respectivo mapa anexo, que dela faz parte integrante, aprovada na sequência da norma constante do n.º 2 do artigo 2.º do diploma legal acima citado.\n\nNo respeito pelo princípio da igualdade e da não discriminação, são aplicáveis aos cidadãos abrangidos pelo âmbito de aplicação do presente Regulamento as mesmas normas que vigoram para os cidadãos nacionais, em matéria de exercício daquelas profissões, e que são as constantes do Decreto-Lei n.º 320/99, de 11 de Agosto, remetendo-se para este diploma legal a presente regulamentação.\n\nEste Regulamento deverá ser objecto de revisão sempre que as alterações legislativas que venham a ser introduzidas no regime jurídico relativo ao exercício ou acesso às profissões em causa o exijam ou, ainda, sempre que se verifique a necessidade de melhorar as condições da sua efectivação.\n\nAssim, ao abrigo do artigo 16.º do Decreto-Lei n.º 289/91, de 10 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 396/99, de 13 de Outubro, e tendo em conta o teor da Portaria n.º 325/2000, de 8 de Junho, e do seu mapa anexo, que dela faz parte integrante:\n\nÉ aprovado o Regulamento do Acesso dos Cidadãos Oriundos dos Estados-Membros da União Europeia e dos Países Signatários do Acordo Sobre o Espaço Económico Europeu ao Exercício em Portugal das Profissões de Técnico de Diagnóstico e Terapêutica, abrangidas pelo Decreto-Lei n.º 289/91, de 10 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 396/99, de 13 de Outubro."
+  }
+ }
+}

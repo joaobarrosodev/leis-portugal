@@ -1,0 +1,230 @@
+---
+schema_version: '1.0'
+id: pt:dre:643686:por
+title: Portaria n.º 350/71
+short_title: null
+summary: Cria na bacia hidrográfica do rio Lima várias zonas de pesca reservada - Aprova o regulamento para as referidas zonas
+  de pesca
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Florestais e Aquícolas
+proposing_entity: null
+official_number: 350/71
+official_date: null
+publication_date: '1971-06-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 152/1971, Série I de 1971-06-30
+  number: '152'
+  series: I
+  supplement: null
+  pages: 978 - 980
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/06/15200/09780980.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '643686'
+  dre_path: /dr/detalhe/portaria/350-1971-643686
+  internal: pt:dre:643686:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-1971-643686
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-1971-643686
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-01-22T00:00:00Z'
+integrity:
+  source_sha256: 183e8d2b33854f91f45ea32e23c55344cdb9bc2222870c6d85dea6c458d07e89
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-350-643686.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:392254:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 350/71
+
+de 30 de Junho
+
+Considerando que a bacia hidrográfica do rio Lima oferece condições verdadeiramente excepcionais para a prática da pesca desportiva;
+
+Atendendo a que a citada bacia hidrográfica se encontra, para os mesmos efeitos, beneficiada pela ausência de grandes aglomerados populacionais e de indústrias poluidoras;
+
+Considerando o interesse social e turístico que advirá para a região com a protecção e o fomento piscícola do rio Lima e seus afluentes, especìficamente no que se refere à truta indígena e a outros salmonídeos migradores - salmão e truta marisca;
+
+Verificada, entretanto, que a recuperação haliêutica desta bacia hidrográfica para seu melhor aproveitamento, salvaguardados os interesses dos povos ribeirinhos, só poderá ser realizada através da constituição de zonas de pesca reservada, onde o exercício da pesca desportiva possa estar condicionado por uma conveniente regulamentação;
+
+Ouvidas a secção aquícola do Conselho Técnico Florestal e a Comissão Regional de Pesca do Norte:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, com fundamento no n.º 1 da base XXIX da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, e artigo 5.º e seu § único do Regulamento da Pesca nas Águas Interiores, aprovado pelo [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962:
+
+1.º São criadas na bacia hidrográfica do rio Lima as seguintes zonas de pesca reservada:
+
+No concelho de Arcos de Valdevez:
+
+a) Zona de pesca reservada do rio Cabreiro - todo o seu curso;
+
+b) Zona de pesca reservada do rio Frio - todo o seu curso;
+
+c) Zona de pesca reservada do rio Ázere - todo o seu curso;
+
+d) Zona de pesca reservada do rio Cabrão - todo o seu curso.
+
+No concelho de Ponte da Barca:
+
+e) Zona de pesca reservada do rio Tamente - todo o seu curso e ainda os seus emissários:
+
+1) Ribeiro de Padrenda (ou rio de S. João) - da sua foz à Ponte de S. João Baptista de Vila Chã;
+
+2) Rio de Portuzelo - da sua foz até à entrada da povoação de Paradela;
+
+3) Rio de Germil - todo o seu percurso;
+
+f) Zona de pesca reservada do rio Froufe - desde a sua foz até 2 km a montante da confluência com o ribeiro de Carcerelha e ainda 2 km deste tributário, medida para montante a partir da sua foz.
+
+No concelho de Ponte de Lima:
+
+g) Zona de pesca reservada do rio Trovela - desde a sua foz até à ponte nova na estrada nacional n.º 201;
+
+h) Zona de pesca reservada do rio Estorãos - todo o seu curso, incluindo os seus emissários, a montante do lugar da Igreja, da freguesia de Estorãos;
+
+i) Zona de pesca reservada do rio Labruja - todo o seu curso e afluentes.
+
+Nos concelhos de Arcos de Valdevez, Monção e Melgaço:
+
+j) Zona de pesca reservada do rio Vez desde a ponte de Aspra até às nascentes;
+
+Nos concelhos de Ponte da Barca e Vila Verde:
+
+l) Zona de pesca reservada do rio Vade - desde a sua foz até à nascente, incluindo os seus tributários.
+
+2.º Nas zonas de pesca reservada referidas no número anterior vigorará, a partir de 1 de Agosto de 1971, o seguinte regulamento:
+
+Regulamento para as Zonas de Pesca Reservada da Bacia Hidrográfica do Rio Lima Disposições gerais
+
+1. Cada uma das zonas de pesca reservada criadas pela presente portaria será dividida em lotes numerados, devidamente sinalizados, cuja extensão não deverá ser inferior a 1 km.
+
+2. Cada lote destina-se a um só pescador, podendo, no entanto, juntarem-se no mesmo lote dois pescadores, desde que estes possuam licença especial para lotes contíguos e entre eles tenha havido prévio acordo, comunicado antecipadamente aquando da obtenção das respectivas licenças especiais.
+
+3. Ressalvados para determinadas zonas outros processos de pesca que venham a ser indicados como mais convenientes pela Direcção-Geral dos Serviços Florestais e Aquícolas, os pescadores só poderão utilizar no exercício da pesca amostras metálicas ou a pluma, com exclusão do bulbo ou bola.
+
+4. Em cada zona de pesca reservada poderão ser destinados lotes ou parte destes, nos quais será apenas permitido o uso da pluma.
+
+5. Cada pescador não poderá pescar diàriamente mais do que o número de trutas fixado em cada ano pela Direcção-Geral dos Serviços Florestais e Aquícolas.
+
+6. As dimensões mínimas das espécies a capturar são as fixadas pela lei geral; todavia, essas dimensões poderão ser aumentadas pela Direcção-Geral dos Serviços Florestais sempre que esta entenda conveniente e oportuno.
+
+Licenciamento
+
+7. Só poderão pescar em qualquer lote das zonas de pesca reservada os pescadores desportivos que possuam uma licença especial diária para esse dia e lote.
+
+8. Para poderem adquirir essa licença especial diária os interessados terão de possuir:
+
+a) Licença de pesca desportiva concelhia, se forem residentes no concelho ou nos concelhos da zona de pesca reservada pretendida;
+
+b) Licença de pesca desportiva regional no norte, se forem residentes num dos outros concelhos ao norte do rio Douro;
+
+c) Licença de pesca desportiva nacional, os restantes.
+
+9. Os estrangeiros não residentes no País são isentos de qualquer das licenças estipuladas no número anterior, nos termos do artigo 57.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+
+10. As licenças diárias especiais são de dois tipos:
+
+a) Tipo A - Ùnicamente destinada aos pescadores desportivos ribeirinhos (residentes em qualquer das freguesias limítrofes da respectiva zona de pesca reservada);
+
+b) Tipo B - Destinada aos restantes pescadores desportivos.
+
+11. O custo da licença diária especial tipo A não poderá ultrapassar um quarto da do tipo B.
+
+12. Para efeitos do disposto no n.º 8, comprova-se a residência do interessado através do bilhete de identidade.
+
+13. Para efeitos do disposto na alínea a) do n.º 10, o pescador ribeirinho poderá ser obrigado a apresentar o atestado de residência.
+
+14. A atribuição das licenças especiais diárias é feita por ordem da inscrição, a partir de 15 de Janeiro, inclusive, e nas condições homologadas pela Direcção-Geral dos Serviços Florestais e Aquícolas.
+
+15. Serão reservados semanalmente para os pescadores ribeirinhos, até sábado da semana anterior à da sua utilização, um quarto das licenças especiais diárias referentes a cada zona.
+
+16. Sempre que haja licenças especiais diárias do tipo A disponíveis, os lotes vagos poderão ser preenchidos por pescadores não ribeirinhos em condições de adquirirem as respectivas licenças.
+
+17. Os lotes vagos referentes a licenças diárias especiais do tipo B poderão ser preenchidos por pescadores ribeirinhos em condições de adquirirem as respectivas licenças a partir das 10 horas do próprio dia.
+
+18. Cada pescador ribeirinho não poderá pescar mais de três vezes por semana com licença especial diária do tipo A.
+
+19. Ficará reservado semanalmente até um quarto das licenças especiais diárias do grupo das zonas de pesca reservada, para distribuição a estrangeiros não residentes, por intermédio dos serviços regionais de turismo e nas condições homologadas pela Direcção-Geral dos Serviços Florestais e Aquícolas.
+
+Condicionalismos
+
+20. A Direcção-Geral dos Serviços Florestais e Aquícolas, ouvidos os serviços regionais respectivos, mandará publicar, até 31 de Dezembro de cada ano e para cada zona de pesca reservada, editais com indicações sobre:
+
+a) Datas de abertura e encerramento, dentro dos limites legalmente fixados;
+
+b) Número máximo de capturas permitidas, conforme o estipulado no n.º 5 deste Regulamento;
+
+c) Dimensões mínimas permitidas, conforme o preceituado no n.º 6 deste Regulamento;
+
+d) Preços das licenças diárias, tendo em atenção o determinado no n.º 11 deste Regulamento;
+
+e) Lotes em que se poderão utilizar outros processos de pesca, além da amostra metálica ou pluma, nos termos do estipulado no n.º 3 deste Regulamento;
+
+f) Lotes onde será proibido o exercício da pesca no ano seguinte;
+
+g) Lotes nos quais se poderá pescar sem necessidade de licença diária especial.
+
+21. É proibido proceder à apanha ou corte de plantas aquáticas e de todas as que marginam os cursos de água dos troços que constituem as zonas de pesca reservada sem parecer favorável da Direcção-Geral dos Serviços Florestais e Aquícolas.
+
+Penalidades
+
+22. As infracções do disposto nos n.os 2, 5, 7 e 18 deste Regulamento constituem contravenções puníveis pela alínea b) do artigo 72.º do regulamento da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642) e pelo [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), com a multa de 1000$00.
+
+23. As infracções do disposto nos n.os 3 e 4 deste Regulamento constituem contravenções puníveis conforme os artigos 65.º e 67.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+
+24. As infracções do disposto no n.º 6 deste Regulamento constituem contravenções puníveis conforme a alínea a) do artigo 73.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), nunca podendo a multa ser inferior a 1000$00.
+
+25. As infracções do disposto no n.º 21 deste Regulamento constituem contravenções puníveis segundo o artigo 70.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), com a pena de prisão de um a dez dias e multa de 100$00 a 500$00.
+
+26. Todo o omisso neste Regulamento reger-se-á pelo estabelecido nos Decretos n.os 44623, de 10 de Outubro de 1962, e 312/70, de 6 de Julho.
+
+**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**

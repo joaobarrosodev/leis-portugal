@@ -1,0 +1,1112 @@
+---
+schema_version: '1.0'
+id: eu:celex:31999L0031:por
+title: Directiva 1999/31/CE do Conselho, de 26 de Abril de 1999
+short_title: null
+summary: Directiva 1999/31/CE do Conselho, de 26 de Abril de 1999, relativa à deposição de resíduos em aterros
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1999/31
+official_date: null
+publication_date: '1999-07-16'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 182 de 16.7.1999
+  number: '182'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/ec0a6777-382e-4614-900a-ea7011fb5c4f.0011.02/DOC_1
+entry_into_force_dates:
+- '1999-07-16'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2024-08-04'
+identifiers:
+  celex: 31999L0031
+  eli: http://data.europa.eu/eli/dir/1999/31/oj
+  oj: oj:JOL_1999_182_R_0001_001
+  dre: null
+  dre_path: null
+  internal: eu:celex:31999L0031:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31999L0031
+  metadata_url: http://publications.europa.eu/resource/cellar/ec0a6777-382e-4614-900a-ea7011fb5c4f.0011
+  content_url: http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0031-20240804
+  retrieved_at: '2026-10-22T02:35:48Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-12-22T22:31:59.184+01:00'
+integrity:
+  source_sha256: e4267b721c8112e442a062bd49afdeb77b0ad7fed133058a0a38b3138ed7f34e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:35:48Z'
+  notes: Texto consolidado 01999L0031-20240804.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- armazenamento de resíduos
+- eliminação de resíduos
+- poluição da água
+- poluição do solo
+- prevenção da poluição
+- proteção do ambiente
+- qualidade do ar
+relationships:
+- type: amended_by
+  target: celex:32003R1882
+  label: null
+  source: http://publications.europa.eu/resource/cellar/102e48a9-478f-4fee-8b8d-ef9068ea3936
+  date: '2003-10-30'
+- type: amended_by
+  target: celex:32008R1137
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e115172d-3ab3-4b14-b0a4-dfdcc9871793
+  date: '2008-11-24'
+- type: amended_by
+  target: celex:32011L0097
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9a4c92aa-969d-4e36-8c5f-92ad18494dd7
+  date: '2011-12-05'
+- type: amended_by
+  target: celex:32018L0850
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6c1ba60b-6f9d-11e8-9483-01aa75ed71a1
+  date: '2018-06-14'
+- type: amended_by
+  target: celex:32024L1785
+  label: null
+  source: http://publications.europa.eu/resource/cellar/830ebb2d-4242-11ef-865a-01aa75ed71a1
+  date: '2024-07-15'
+- type: based_on
+  target: celex:11992E130S
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4e029949-9fc3-4c87-bf77-a2bc885a983f
+  date: '1992-08-31'
+- type: based_on
+  target: celex:11992E189C
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b86a5126-9bcd-4a14-982a-e82c9d09bf0e
+  date: '1992-08-31'
+- type: cited_by
+  target: pt:dre:1171535220:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:146215:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:154945780:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:158583:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:177801:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:210923318:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:213408:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:215798228:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:321276:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:335430:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:362316:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:489708:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:490702:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:491263:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:497866:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:517658:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:527180:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:551652:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:602280:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:638769:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:67283028:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:73986213:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:75468668:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:914597185:por
+  label: null
+  source: null
+- type: cites
+  target: celex:11992E148
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0b4430ef-7d25-41b9-be3d-94be73774062
+- type: cites
+  target: celex:31975L0442
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7740f6fe-43ed-49d5-b0fa-516d890c02a0
+- type: cites
+  target: celex:31985L0337
+  label: null
+  source: http://publications.europa.eu/resource/cellar/92497bd3-ff88-4f06-8ffd-3715f9795a58
+- type: cites
+  target: celex:31990L0313
+  label: null
+  source: http://publications.europa.eu/resource/cellar/adc195c3-5384-4ea5-9875-9741b33c665b
+- type: cites
+  target: celex:31990Y0518(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5223e701-4eb3-4994-952b-cf7ce521a32c
+- type: cites
+  target: celex:31991L0689
+  label: null
+  source: http://publications.europa.eu/resource/cellar/36b8e69c-e1be-4b66-80c7-8b366b5a2540
+- type: cites
+  target: celex:31991L0692
+  label: null
+  source: http://publications.europa.eu/resource/cellar/311f10aa-2eb3-4fcc-9787-36aa83f2fb2d
+- type: cites
+  target: celex:31993R0259
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f9862d97-7d50-4448-9006-8728bd88dc12
+- type: cites
+  target: celex:31996L0061
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e81fef3f-8c7d-4683-93fc-c3bc9cacbb96
+- type: corrected_by
+  target: celex:31999L0031R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/889b7fa0-4f34-4217-b105-e6b592e1204b
+  date: '1999-11-10'
+- type: corrected_by
+  target: celex:31999L0031R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5f0d25d9-7897-11e5-86db-01aa75ed71a1
+  date: '2015-10-22'
+- type: corrected_by
+  target: celex:31999L0031R(03)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/98613920-8387-11e5-b8b7-01aa75ed71a1
+  date: '2015-11-05'
+- type: corrected_by
+  target: celex:31999L0031R(04)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e29882c5-2a08-11e7-ab65-01aa75ed71a1
+  date: '2017-04-26'
+- type: corrected_by
+  target: celex:31999L0031R(05)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7fdb2c00-3b81-11e8-b5fe-01aa75ed71a1
+  date: '2018-04-09'
+- type: corrected_by
+  target: celex:31999L0031R(06)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4bc791b7-d22e-11ea-adf7-01aa75ed71a1
+  date: '2020-07-30'
+- type: corrected_by
+  target: celex:31999L0031R(07)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b59bad3b-a884-11eb-9585-01aa75ed71a1
+  date: '2021-04-29'
+- type: corrected_by
+  target: celex:31999L0031R(08)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/715cba41-31c3-11ee-946a-01aa75ed71a1
+  date: '2023-08-03'
+- type: interpreted_by
+  target: celex:62003CJ0006
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0ec8e12b-ac9f-48a0-9ec9-7e7fb9b8f93e
+  date: '2005-04-20'
+- type: interpreted_by
+  target: celex:62008CJ0172
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7b5c8309-5e08-4fee-a985-e5682c9f247b
+  date: '2010-03-07'
+- type: interpreted_by
+  target: celex:62008CA0172
+  label: null
+  source: http://publications.europa.eu/resource/cellar/40846a13-b1c7-42a4-84f9-cb6912ace2f7
+  date: '2010-04-20'
+- type: interpreted_by
+  target: celex:62011CJ0121
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0a06c626-ddad-4db4-9e07-e3a4fd953b4c
+  date: '2012-04-25'
+- type: interpreted_by
+  target: celex:62011CJ0097
+  label: null
+  source: http://publications.europa.eu/resource/cellar/25de4362-7e5b-4bcc-bcd9-aae01a30d154
+  date: '2012-05-30'
+- type: interpreted_by
+  target: celex:62013CJ0225
+  label: null
+  source: http://publications.europa.eu/resource/cellar/247e94bc-bfc3-11e3-86f9-01aa75ed71a1
+  date: '2014-04-09'
+- type: interpreted_by
+  target: celex:62015CJ0147
+  label: null
+  source: http://publications.europa.eu/resource/cellar/128f22fd-54ab-11e6-89bd-01aa75ed71a1
+  date: '2016-07-28'
+- type: transposed_by
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:210923319:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:454822:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:493485:por
+  label: null
+  source: null
+article_structure:
+  article_count: 26
+  section_count: 30
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:35:48Z'
+  warnings: []
+  errors: []
+---
+
+# Directiva 1999/31/CE do Conselho, de 26 de Abril de 1999
+
+> 01999L0031 — PT — 04.08.2024 — 005.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterada por:**
+
+- [M1](http://publications.europa.eu/resource/celex/32003R1882) — [REGULAMENTO (CE) N.º 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1882) — L 284 — 1 — 31.10.2003
+- [M2](http://publications.europa.eu/resource/celex/32008R1137) — [REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1137) — L 311 — 1 — 21.11.2008
+- [►M3](http://publications.europa.eu/resource/celex/32011L0097) — [DIRECTIVA 2011/97/UE DO CONSELHO de 5 de Dezembro de 2011](http://publications.europa.eu/resource/celex/32011L0097) — L 328 — 49 — 10.12.2011
+- [►M4](http://publications.europa.eu/resource/celex/32018L0850) — [DIRETIVA (UE) 2018/850 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0850) — L 150 — 100 — 14.6.2018
+- [►M5](http://publications.europa.eu/resource/celex/32024L1785) — [DIRETIVA (UE) 2024/1785 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024](http://publications.europa.eu/resource/celex/32024L1785) — L 1785 — 1 — 15.7.2024
+
+**Retificada por:**
+
+- [►C1](http://publications.europa.eu/resource/celex/31999L0031R%2806%29) — [Rectificação, JO L 245, 30.7.2020, p. 31 (1999/31/CE)](http://publications.europa.eu/resource/celex/31999L0031R%2806%29)
+
+## DIRECTIVA 1999/31/CE DO CONSELHO
+
+de 26 de Abril de 1999
+
+relativa à deposição de resíduos em aterros
+
+###### Artigo 1.º — Objectivo geral
+
+1. A fim de apoiar a transição da União para uma economia circular e de dar cumprimento aos requisitos da Diretiva 2008/98/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0001)), nomeadamente dos seus artigos 4.º e 12.º, a presente diretiva tem por objetivo assegurar uma redução progressiva da deposição de resíduos em aterro, nomeadamente dos resíduos adequados para reciclagem ou outro tipo de valorização, e prever, por meio de requisitos operacionais e técnicos exigentes aplicáveis aos resíduos e aterros, medidas, processos e orientações destinados a evitar ou reduzir tanto quanto possível os efeitos nefastos para o ambiente, em especial a poluição das águas de superfície, das águas subterrâneas, do solo e da atmosfera, e para o ambiente a nível global, incluindo o efeito de estufa, bem como quaisquer riscos para a saúde humana decorrentes da deposição de resíduos em aterros, durante todo o ciclo de vida do aterro.
+
+###### Artigo 2.º — Definições
+
+Para efeitos da presente directiva, entende-se por:
+
+a) São aplicáveis as definições de «resíduos», «resíduos perigosos», «resíduos não perigosos», «resíduos urbanos», «produtor de resíduos», «detentor de resíduos», «gestão de resíduos», «recolha seletiva», «valorização», «preparação para a reutilização», «reciclagem» e «eliminação» estabelecidas no artigo 3.º da Diretiva 2008/98/CE;
+
+e) *Resíduos inertes:* os resíduos que não sofrem transformações físicas, químicas ou biológicas importantes. Os resíduos inertes não podem ser solúveis nem inflamáveis, nem ter qualquer outro tipo de reacção física ou química e não podem ser biodegradáveis, nem afectar negativamente outras substâncias com as quais entrem em contacto, de forma susceptível de aumentar a poluição do ambiente ou prejudicar a saúde humana. A lixiviabilidade total e o conteúdo poluente dos resíduos e a ecotoxicidade do lixiviado devem ser insignificantes e, em especial, não pôr em perigo a qualidade das águas superficiais e/ou subterrâneas;
+
+f) *Armazenagem subterrânea:* uma instalação permanente de armazenagem de resíduos numa cavidade geológica profunda, como por exemplo uma mina de sal ou de potássio;
+
+g) *Aterro:* uma instalação de eliminação para a deposição de resíduos acima ou abaixo da superfície natural (isto é, deposição subterrânea), incluindo:
+
+— as instalações de eliminação internas (isto é, os aterros onde o produtor de resíduos efectua a sua própria eliminação de resíduos no local da produção) e
+
+— uma instalação permanente (isto é, por um período superior a um ano) usada para armazenagem temporária,
+
+— instalações onde são descarregados resíduos com o objectivo de os preparar para serem transportados para outro local de valorização, tratamento ou eliminação,
+
+— a armazenagem de resíduos previamente à sua valorização ou de tratamento por um período geralmente inferior a três anos,
+
+— a armazenagem de resíduos previamente à sua eliminação por um período inferior a um ano;
+
+h) *Tratamento:* os processos físicos, térmicos, químicos ou biológicos, incluindo a separação, que alteram as características dos resíduos de forma a reduzir o seu volume ou perigosidade, a facilitar a sua manipulação ou a melhorar a sua valorização;
+
+i) *Lixiviados:* os líquidos que percolam através dos resíduos depositados e que efluem de um aterro ou nele estão contidos;
+
+j) *Gases de aterro:* os gases produzidos pelos resíduos em aterro;
+
+k) *Eluato:* a solução obtida num ensaio de lixiviação em laboratório;
+
+l) *Operador:* a pessoa singular ou colectiva responsável por um aterro, segundo a legislação interna do Estado-membro onde o aterro está situado; esta pessoa pode mudar desde a fase de preparação até à fase de manutenção;
+
+m) *Resíduos biodegradáveis:* os resíduos que podem ser sujeitos a decomposição anaeróbia ou aeróbia, como, por exemplo, os resíduos alimentares e de jardim, o papel e o cartão;
+
+o) *Requerente:* a pessoa que concorre a uma licença de exploração de um aterro nos termos da presente directiva;
+
+p) *Autoridade competente:* a autoridade que os Estados-membros designam como responsável pelo desempenho das funções previstas na presente directiva;
+
+q) *Resíduos líquidos:* os resíduos em forma líquida, incluindo as águas residuais, mas excluindo as lamas;
+
+r) *Aglomeração isolada:* uma aglomeração:
+
+— com 500 habitantes, no máximo, por município ou aglomeração e cinco habitantes, no máximo, por quilómetro quadrado e,
+
+— que diste pelo menos 50 km da aglomeração urbana mais próxima com pelo menos 250 habitantes por quilómetro quadrado, ou cujo acesso rodoviário às aglomerações mais próximas seja difícil durante uma parte significativa do ano devido a condições meteorológicas adversas.
+
+— com 2 000 habitantes, no máximo, por aglomeração e cinco habitantes, no máximo, por quilómetro quadrado, ou com mais de 2 000, mas menos de 5 000, habitantes por aglomeração e cinco habitantes, no máximo, por quilómetro quadrado e cuja produção de resíduos não exceda 3 000 toneladas por ano, e
+
+— que diste pelo menos 100 km da aglomeração urbana mais próxima com, pelo menos, 250 habitantes por quilómetro quadrado e não tenha acesso rodoviário.
+
+###### Artigo 3.º — Âmbito de aplicação
+
+1. Os Estados-membros aplicarão a presente directiva a todos os aterros que correspondam à definição da alínea g) do artigo 2.º
+
+2.
+
+Sem prejuízo da legislação comunitária existente, estão igualmente excluídos do âmbito da presente directiva as seguintes operações:
+
+— o espalhamento de lamas, incluindo as lamas provenientes de esgotos e as lamas resultantes de operações de dragagem, e de matérias análogas, com o objectivo de fertilização ou de enriquecimento dos solos,
+
+— a utilização de resíduos inertes e que se prestem para o efeito em obras de reconstrução/restauro e enchimento, ou para fins de construção, nos aterros,
+
+— a deposição de lamas de dragagem não perigosas nas margens de pequenos cursos de água de onde tenham sido dragadas, bem como de lamas não perigosas em cursos de água superficiais, incluindo os respectivos leitos e subsolos.
+
+3. A gestão de resíduos de indústrias extrativas em terra, ou seja, dos resíduos resultantes da prospeção, da extração (incluindo a fase de desenvolvimento pré-produção), do tratamento e da armazenagem de recursos minerais, bem como da exploração de pedreiras, fica excluída do âmbito de aplicação da presente diretiva sempre que integre o âmbito de aplicação de outros atos legislativos da União.
+
+4.
+
+Sem prejuízo do disposto na Directiva 75/442/CEE, os Estados-membros podem, se assim o entenderem, declarar o n.º 4 do artigo 6.º, o n.º 9 do artigo 7.º, o n.º 1, alínea d), do artigo 8.º, o artigo 10.º, o n.º 1, alíneas a), b) e c), do artigo 11.º, o n.º 1 e o n.º 3 do artigo 12.º, os pontos 3 e 4 do anexo I, o anexo II (excepto o ponto 3, nível 3, e ponto 4) e os pontos 3 a 5 do anexo III da presente directiva não se aplicam, no seu todo ou em parte:
+
+a) A aterros para resíduos não perigosos ou resíduos inertes com uma capacidade total não superior a 15 000 toneladas ou uma capacidade de recepção anual não superior a 1 000 toneladas, que sirvam ilhas, caso o aterro seja o único existente na ilha e se destine exclusivamente à eliminação de resíduos produzidos nessa ilha. Quando essa capacidade total tiver sido utilizada, a implantação de qualquer novo aterro na ilha terá que satisfazer os requisitos da presente directiva;
+
+b) A aterros para resíduos não perigosos em aglomerações isoladas de difícil acesso, caso o aterro se destine à eliminação de resíduos produzidos apenas por essa aglomeração isolada.
+
+O mais tardar dois anos após a data prevista no n.º 1 do artigo 18.º, os Estados-membros notificarão a Comissão da lista das ilhas e aglomerações isoladas que estão isentas. A Comissão publicará a lista das ilhas e aglomerações isoladas.
+
+5. Sem prejuízo da Directiva 75/442/CEE, os Estados-membros podem declarar, se assim o entenderem, que a armazenagem subterrânea definida na alínea f) do artigo 2.º pode ser isenta do disposto no n.º 4 do artigo 13.º e no ponto 2, excepto o primeiro travessão e pontos 3 a 5, do anexo I e nos pontos 2, 3 e 5 do anexo III.
+
+###### Artigo 4.º — Classes de aterros
+
+Cada aterro será classificado numa das seguintes classes:
+
+— aterro para resíduos perigosos,
+
+— aterro para resíduos não perigosos,
+
+— aterro para resíduos inertes.
+
+###### Artigo 5.º — Resíduos e tratamentos não admissíveis em aterro
+
+1. No prazo máximo de dois anos a contar da data prevista no n.º 1 do artigo 18.º, os Estados-membros definirão uma estratégia nacional para a redução dos resíduos biodegradáveis destinados aos aterros e notificarão a Comissão dessa estratégia. Essa estratégia deverá incluir medidas destinadas a alcançar os objectivos estabelecidos no n.º 2, através, designadamente, de reciclagem, compostagem, produção de biogás ou valorização de materiais/energia. No prazo de 30 meses a contar da data mencionada no n.º 1 do artigo 18.º, a Comissão enviará ao Parlamento Europeu e ao Conselho um relatório do qual constará uma síntese de todas as estratégias nacionais.
+
+2.
+
+Essa estratégia deverá assegurar o seguinte:
+
+a) No prazo máximo de cinco anos a contar da data prevista no n.º 1 do artigo 18.º, os resíduos urbanos biodegradáveis destinados a aterros devem ser reduzidos para 75 % da quantidade total (por peso) de resíduos urbanos biodegradáveis produzidos em 1995 ou no ano mais recente antes de 1995 para o qual existam dados normalizados do Eurostat;
+
+b) No prazo máximo de oito anos a contar da data prevista no n.º 1 do artigo 18.º, os resíduos urbanos biodegradáveis destinados a aterros devem ser reduzidos para 50 % da quantidade total (por peso) de resíduos urbanos biodegradáveis produzidos em 1995 ou no ano mais recente antes de 1995 para o qual existam dados normalizados do Eurostat;
+
+c) No prazo máximo de 15 anos a contar da data prevista no n.º 1 do artigo 18.º, os resíduos urbanos biodegradáveis destinados a aterros devem ser reduzidos para 35 % da quantidade total (em peso) de resíduos urbanos biodegradáveis produzidos em 1995 ou no ano mais recente antes de 1995 para o qual existam dados normalizados do Eurostat;
+
+Os Estados-membros que, em 1995 ou no ano mais recente antes de 1995 para o qual existam dados normalizados do Eurostat, depositem em aterros mais de 80 % dos resíduos municipais recolhidos, poderão adiar por um período não superior a quatro anos a realização dos objectivos estabelecidos nas alíneas a), b), ou c). Os Estados-membros que pretendam recorrer a esta disposição informarão previamente a Comissão da sua decisão. A Comissão informará os outros Estados-membros e o Parlamento Europeu destas decisões.
+
+A execução do disposto no parágrafo anterior nunca poderá conduzir a que se atinja o objectivo referido na alínea c) numa data posterior ao fim do prazo de quatro anos a contar da data prevista na mesma alínea.
+
+3.
+
+Os Estados-membros tomarão medidas para que não sejam aceites em aterros os seguintes resíduos:
+
+a) Resíduos líquidos;
+
+b) Resíduos que, nas condições de aterro, sejam explosivos, corrosivos, oxidantes, muito inflamáveis ou inflamáveis, na acepção do anexo III da Directiva 91/689/CEE;
+
+c) Resíduos provenientes de estabelecimentos hospitalares, médicos ou veterinários que sejam infecciosos de acordo com a Directiva 91/689/CEE (propriedade H9, no anexo III) e resíduos pertencentes à categoria 14 (anexo I A) da mesma directiva;
+
+d) Pneus usados inteiros, a partir de dois anos após a data estabelecida no n.º 1 do artigo 18.º — com exclusão dos pneus utilizados como materiais de fabrico —, e pneus usados fragmentados, a partir de cinco anos após a data estabelecida no n.º 1 do artigo 18.º (excluindo, em ambos os casos, os pneus de bicicletas e os pneus com um diâmetro exterior superior a 1 400 mm);
+
+e) Quaisquer outros tipos de resíduos que não satisfaçam os critérios de admissão determinados nos termos do anexo II;
+
+f) Resíduos que tenham sido objeto de recolha seletiva para efeitos de preparação para a reutilização e de reciclagem nos termos do artigo 11.º, n.º 1, e do artigo 22.º da Diretiva 2008/98/CE, à exceção dos resíduos resultantes de operações de tratamento subsequentes de resíduos objeto de recolha seletiva cuja deposição em aterro conduza aos melhores resultados ambientais em conformidade com o artigo 4.º dessa diretiva.
+
+3-A. Os Estados-Membros devem envidar esforços para assegurar que, a partir de 2030, todos os resíduos adequados para reciclagem ou outro tipo de valorização, em especial os resíduos urbanos, não sejam aceites em aterros, com exceção dos resíduos cuja deposição em aterro conduza aos melhores resultados ambientais em conformidade com o artigo 4.º da Diretiva 2008/98/CE.
+
+Os Estados-Membros devem incluir informações sobre as medidas tomadas nos termos do presente número nos planos de gestão de resíduos referidos no artigo 28.º da Diretiva 2008/98/CE ou noutros documentos estratégicos que abranjam todo o território do Estado-Membro em questão.
+
+4. É proibida a diluição ou mistura de resíduos que tenha por único objectivo torná-los conformes com os critérios de admissão.
+
+5. Os Estados-Membros tomam as medidas necessárias para garantir que, até 2035, a quantidade de resíduos urbanos depositados em aterros seja reduzida para 10 % ou menos da quantidade total de resíduos urbanos produzidos (por peso).
+
+6.
+
+Os Estados-Membros podem prorrogar o prazo para cumprimento da meta a que se refere o no n.º 5 por um máximo de cinco anos, desde que o Estado-Membro em questão:
+
+a) Tenha depositado em aterros mais de 60 % dos seus resíduos urbanos produzidos em 2013, tal como comunicados no âmbito do Questionário Conjunto da OCDE e do Eurostat; e
+
+b) O mais tardar 24 meses antes do termo do prazo fixado no n.º 5 do presente artigo, notifique a Comissão da sua intenção de prorrogar esse prazo e apresentado um plano de execução nos termos do anexo IV da presente diretiva. Esse plano poderá ser combinado com um plano de execução apresentado nos termos do artigo 11.º, n.º 3, alínea b), da Diretiva 2008/98/CE.
+
+7. No prazo de três meses a contar da receção do plano de execução apresentado por força do n.º 6, alínea b), a Comissão pode solicitar a um Estado-Membro que reveja esse plano de execução se a Comissão considerar que o plano não cumpre os requisitos estabelecidos no anexo IV. O Estado-Membro em causa apresenta um plano revisto no prazo de três meses a contar da receção do pedido da Comissão.
+
+8. Se o prazo for prorrogado nos termos do n.º 6, o Estado-Membro deve tomar as medidas necessárias para reduzir, até 2035, a quantidade de resíduos urbanos depositados em aterros para 25 % ou menos da quantidade total de resíduos urbanos produzidos (por peso).
+
+9. Até 31 de dezembro de 2024, a Comissão reexamina a meta fixada no n.º 5, no intuito de a manter ou, se for caso disso, de a reduzir, de ponderar a fixação de metas quantitativas *per capita* para a deposição em aterro e de introduzir restrições à deposição em aterro de resíduos não perigosos que não se incluem na categoria dos resíduos urbanos. Para esse efeito, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório, acompanhado, se for caso disso, de uma proposta legislativa.
+
+###### Artigo 5.º-A — Regras para calcular o cumprimento das metas
+
+1.
+
+Para calcular se as metas fixadas no artigo 5.º, n.^os^ 5 e 6, foram cumpridas:
+
+a) O peso dos resíduos urbanos gerados e depositados em aterro é calculado para cada ano civil;
+
+b) O peso dos resíduos resultantes de operações de tratamento anteriores à reciclagem ou outro tipo de valorização de resíduos urbanos, como a triagem e o tratamento mecânico-biológico, que forem subsequentemente depositados em aterro é incluído no peso dos resíduos urbanos comunicados como depositados em aterro;
+
+c) O peso dos resíduos urbanos que são objeto de operações de eliminação por incineração e o peso dos resíduos resultantes de operações de estabilização da fração biodegradável dos resíduos urbanos a fim de subsequentemente serem depositados em aterro são comunicados como depositados em aterro;
+
+d) O peso dos resíduos produzidos durante operações de reciclagem ou outro tipo de operações de valorização dos resíduos urbanos que subsequentemente sejam depositados em aterro não é incluído no peso dos resíduos urbanos comunicados como depositados em aterro.
+
+2. Os Estados-Membros devem criar um sistema eficaz de controlo da qualidade e rastreabilidade dos resíduos urbanos depositados em aterro, para garantir o cumprimento das condições estabelecidas no n.º 1 do presente artigo. Os Estados-Membros podem utilizar o sistema criado para esse efeito nos termos do artigo 11.º-A, n.º 3, da Diretiva 2008/98/CE.
+
+3. Caso os resíduos urbanos sejam enviados para outro Estado-Membro ou exportados a partir da União para efeitos de deposição em aterro, em conformidade com o Regulamento (CE) n.º 1013/2006 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0003)), são contabilizados no cálculo da quantidade de resíduos depositados em aterro, nos termos do n.º 1, relativamente ao Estado-Membro em que os resíduos foram recolhidos.
+
+4. A fim de assegurar condições uniformes de aplicação do presente artigo, a Comissão adota, até 31 de março de 2019, atos de execução que estabelecem regras para o cálculo, a verificação e a comunicação de dados. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 17.º, n.º 2.
+
+###### Artigo 5.º-B — Relatório de alerta precoce
+
+1. A Comissão, em cooperação com a Agência Europeia do Ambiente, elabora um relatório sobre os progressos registados no cumprimento das metas estabelecidas no artigo 5.º, n.^os^ 5 e 6, o mais tardar três anos antes do termo de cada um dos prazos neles fixados.
+
+2.
+
+Os relatórios referidos no n.º 1 devem incluir os seguintes elementos:
+
+a) Uma estimativa do grau de cumprimento das metas por Estado-Membro;
+
+b) Uma lista dos Estados-Membros em risco de incumprimento das metas nos prazos fixados, acompanhada de recomendações adequadas para os Estados-Membros em questão;
+
+c) Exemplos das melhores práticas utilizadas na União e suscetíveis de fornecer orientações para se avançar no sentido do cumprimento das metas.
+
+###### Artigo 5.º-C — Intercâmbio de informações e das melhores práticas
+
+A Comissão promove periodicamente o intercâmbio de informações e das melhores práticas entre Estados-Membros, incluindo, se for caso disso, as autoridades regionais e locais, relativas à aplicação prática dos requisitos da presente diretiva.
+
+###### Artigo 6.º — Resíduos admissíveis nas diferentes classes de aterros
+
+Os Estados-membros tomarão medidas para que:
+
+a) [▼C1](http://publications.europa.eu/resource/celex/31999L0031R%2806%29)
+
+Só sejam depositados em aterros os resíduos que tenham sido tratados. Esta disposição não se aplica a resíduos inertes cujo tratamento não seja tecnicamente viável, ou a quaisquer outros resíduos cujo tratamento não contribua para os objectivos da presente directiva estabelecidos no artigo 1.º mediante a redução da quantidade de resíduos ou dos perigos para a saúde humana ou o ambiente.
+
+b) Só sejam encaminhados para um aterro de resíduos perigosos os resíduos perigosos que correspondam aos critérios definidos no anexo II;
+
+c) Os aterros para resíduos não perigosos possam ser utilizados para:
+
+i) Resíduos urbanos;
+
+ii) Resíduos não perigosos de qualquer outra origem que correspondam aos critérios de admissão de resíduos em aterros para resíduos não perigosos definidos no anexo II;
+
+iii) Resíduos perigosos estáveis, não reactivos (por exemplo: solidificados, vitrificados), com um comportamento lixiviante equivalente ao dos resíduos não perigosos referidos na alínea b) que correspondam aos critérios de admissão pertinentes definidos no anexo II. Tais resíduos perigosos não serão depositados em celas destinadas a resíduos não perigosos biodegradáveis;
+
+d) Os aterros para resíduos inertes sejam utilizados unicamente para resíduos inertes.
+
+###### Artigo 7.º — Pedido de licença
+
+Os Estados-membros garantirão que o pedido de licença para exploração de um aterro contenha pelo menos os seguintes dados:
+
+a) Identificação do requerente e, se se tratar de entidades distintas, do operador;
+
+b) Descrição dos tipos e quantidade total de resíduos a depositar;
+
+c) Capacidade proposta do local de descarga;
+
+d) Descrição do local, incluindo as sua características hidrogeológicas;
+
+e) Métodos propostos de prevenção e redução da poluição;
+
+f) Plano de exploração, acompanhamento e controlo proposto;
+
+g) Plano de encerramento e de manutenção após encerramento proposto;
+
+h) Sempre que, nos termos da Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente ([^3^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0004)), for obrigatório um estudo de impacto ambiental, as informações fornecidas pelo construtor nos termos do artigo 5.º dessa directiva;
+
+i) A garantia financeira por parte do requerente, ou qualquer outro meio equivalente, consoante exigido no n.º 1, alínea d), do artigo 8.º da presente directiva.
+
+Após a concessão da licença pedida, estas informações devem ser disponibilizadas às autoridades nacionais competentes e às autoridades estatísticas comunitárias que as solicitem para fins estatísticos.
+
+###### Artigo 8.º — Condições da licença
+
+Os Estados-membros tomarão medidas para que:
+
+a) As autoridades competentes só concedam a licença de exploração de um aterro depois de se terem certificado que:
+
+i) Sem prejuízo dos n.^os^ 4 e 5 do artigo 3.º, o projecto de aterro preenche todos os requisitos da presente directiva, incluindo os anexos;
+
+ii) A gestão do aterro é da responsabilidade de uma pessoa singular tecnicamente competente para gerir o aterro; são dadas formação e actualização profissional e técnica aos operadores dos aterros e respectivo pessoal;
+
+iii) O aterro será explorado de forma tal que permita tomar as medidas necessárias para prevenir os acidentes e limitar as respectivas consequências;
+
+iv) Antes do início das operações de eliminação, o requerente já tomou ou irá tomar as medidas necessárias, mediante garantia financeira ou equivalente e segundo normas a determinar pelos Estados-membros, para assegurar o cumprimento das obrigações decorrentes da licença emitida ao abrigo do disposto na presente directiva (incluindo as operações de manutenção após o encerramento) e que serão efectuadas as operações de encerramento previstas no artigo 13.º A referida garantia, ou o respectivo equivalente, será mantida enquanto assim o exigirem as operações de manutenção e de gestão posterior ao encerramento do local nos termos do n.º 4 do artigo 13.º Os Estados-membros podem declarar, se assim o entenderem, que a presente alínea não se aplica aos aterros destinados a resíduos inertes;
+
+b) O projecto de aterro esteja conforme com o plano ou planos pertinentes de gestão de resíduos previstos no artigo 7.º da Directiva 75/442/CEE;
+
+c) Antes do início das operações de eliminação, as autoridades competentes inspeccionem o local para assegurar a sua conformidade com as condições pertinentes da licença. Esta disposição em nada diminui a responsabilidade do operador nos termos da licença.
+
+###### Artigo 9.º — Conteúdo da licença
+
+Especificando e complementando o disposto no artigo 9.º da Directiva 75/442/CEE e no artigo 9.º da Directiva 96/61/CE, a licença de exploração de um aterro deve incluir, no mínimo:
+
+a) A classificação do aterro;
+
+b) A lista dos tipos e a quantidade total de resíduos autorizados a ser depositados no aterro;
+
+c) As condições a preencher para a preparação dos aterros, as operações de deposição e os processos de acompanhamento e de controlo, incluindo os planos de emergência (anexo III, ponto 4 B), bem como os requisitos provisórios relativos às operações de encerramento e de gestão posterior;
+
+d) A obrigação do requerente de apresentar às autoridades competentes, pelo menos uma vez por ano, um relatório sobre os tipos e quantidades de resíduos depositados e sobre os resultados do programa de controlo previsto nos artigos 12.º e 13.º e no anexo III da presente directiva.
+
+###### Artigo 10.º — Custo da deposição de resíduos em aterros
+
+Os Estados-membros tomarão medidas para garantir que todos os custos decorrentes da instalação e da exploração do aterro, incluindo, na medida do possível, o custo da garantia financeira ou seu equivalente a que se refere o n.º 1, alínea d), do artigo 8.º e as despesas previstas de encerramento e manutenção após o encerramento do aterro durante um período de, pelos menos, 30 anos, serão cobertos pelo preço cobrado pelo operador para a eliminação de qualquer tipo de resíduos no aterro em questão. De acordo com os requisitos da Directiva 93/313/CEE do Conselho, de 7 de Junho de 1990, relativa à liberdade de acesso à informação em matéria de ambiente ([^4^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0005)), os Estados-membros garantirão a transparência na recolha e na utilização das informações necessárias relativas aos custos.
+
+###### Artigo 11.º — Processo de admissão de resíduos
+
+1.
+
+Os Estados-membros tomarão medidas para que, previamente à admissão dos resíduos no aterro:
+
+a) Antes da entrega ou por ocasião desta ou da primeira de uma série de entregas de resíduos do mesmo tipo, o detentor ou o operador possam comprovar, por meio de documentação adequada, que os resíduos em questão podem ser admitidos no aterro tendo em conta as condições estabelecidas na licença, e que os mesmos preenchem os critérios de admissão estabelecidos no anexo II;
+
+b) O operador cumpra os seguintes trâmites de admissão:
+
+— verificação da documentação relativa aos resíduos, incluindo os documentos exigidos no n.º 3 do artigo 5.º da Directiva 91/689/CEE e, sempre que aplicáveis, os exigidos no Regulamento (CEE) n.º 259/93 do Conselho, de 1 de Fevereiro de 1993, relativo à fiscalização e ao controlo das trasferências de resíduos no interior, à entrada e à saída da Comunidade Europeia ([^5^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0006)),
+
+— inspecção visual dos resíduos à entrada e no local de depósito e, sempre que tal se justifique, verificação da conformidade com a descrição constante da documentação fornecida pelo detentor; se, para dar cumprimento ao disposto no anexo II, nível 3, tiverem de ser colhidas amostras representativas, os resultados das respectivas análises deverão ser conservados e a amostragem deve ser feita nos temos do ponto 5 do anexo II. Estas amostras devem ser conservadas durante pelo menos um mês,
+
+— manutenção de um registo das quantidades e características dos resíduos depositados, com indicação da origem, data de entrega, produtor ou responsável pela recolha no caso de resíduos urbanos e, no caso de resíduos perigosos, a indicação exacta do local de deposição no aterro: Estas informações serão colocadas ao dispor das autoridades nacionais competentes e das autoridades estatísticas comunitárias que as solicitem para fins estatísticos;
+
+c) O operador do aterro forneça um recibo por escrito por cada remessa admitida no aterro;
+
+d) Sem prejuízo do disposto no Regulamento (CEE) n.º 259/93, em caso de não admissão de resíduos em determinado aterro, o operador deste último notifique imediatamente do facto as autoridades competentes.
+
+2.
+
+Para os aterros que estejam isentos do cumprimento das disposições da presente directiva por força dos n.^os^ 4 e 5 do artigo 3.º, os Estados-membros tomarão as medidas necessárias para garantir:
+
+— a inspecção regular dos resíduos no ponto de deposição para assegurar que só sejam admitidos no aterro os resíduos não perigosos da ilha ou da aglomeração isolada, e
+
+— que seja mantido um registo das quantidades de resíduos depositadas no aterro.
+
+###### Artigo 12.º — Processo de controlo e acompanhamento na fase de exploração
+
+Os Estados-membros tomarão as medidas necessárias para que as operações de controlo e acompanhamento na fase de exploração preencham pelo menos os seguintes requisitos:
+
+a) Durante a fase de exploração, o operador do aterro executará o programa de controlo e acompanhamento definido no anexo III;
+
+b) O operador notificará as autoridades competentes de quaisquer efeitos negativos significativos sobre o ambiente revelados pelas operações de controlo e acompanhamento e cumprirá a decisão das autoridades competentes sobre a natureza das medidas correctoras a tomar e respectivo calendário. A execução dessas medidas será custeada pelo operador.
+
+c) O controlo de qualidade das operações analíticas dos processos de controlo e acompanhamento e/ou das análises referidas no n.º 1, alínea b), do artigo 11.º será efectuado por laboratórios competentes.
+
+###### Artigo 13.º — Processo de encerramento e de manutenção após encerramento
+
+Os Estados-membros tomarão medidas para que, eventualmente de acordo com a licença:
+
+a) Seja dado início ao processo de encerramento de um aterro ou de parte de um aterro:
+
+i) Quando estiverem reunidas as condições necessárias previstas na licença de exploração, ou
+
+ii) A pedido do operador, mediante autorização das autoridades competentes, ou
+
+iii) Por decisão fundamentada das autoridades competentes;
+
+b) Um aterro ou parte de um aterro só possa ser considerado definitivamente encerrado depois de as autoridades competentes terem realizado uma inspecção final ao local, analisado todos os relatórios apresentados pelo operador e comunicado formalmente ao operador que aprovam o encerramento. Esta disposição em nada diminui a responsabilidade do operador decorrente das condições da licença;
+
+c) Após o encerramento definitivo de um aterro, o respectivo operador fique responsável pela sua conservação, acompanhamento e controlo na fase de manutenção após encerramento durante o tempo que for exigido pelas autoridades competentes tendo em conta o período de tempo durante o qual o aterro poderá apresentar perigo.
+
+d) Enquanto as autoridades competentes considerarem que o aterro pode apresentar perigo para o ambiente, e sem prejuízo de qualquer disposição de direito comunitário ou nacional relativa à responsabilidade do detentor dos resíduos, o operador do local seja responsável pelo acompanhamento e análise dos gases e dos lixiviados provenientes do local e do sistema de águas subterrâneas na sua vizinhança, nos termos do anexo III.
+
+###### Artigo 14.º — Aterros já existentes
+
+Os Estados-membros tomarão medidas para garantir que os aterros aos quais já tenha sido concedida uma licença ou que se encontrem em exploração à data da transposição da presente directiva só continuem em funcionamento se, o mais rapidamente possível e, o mais tardar, no prazo de oito anos a contar da data prevista no n.º 1 do artigo 18.º, estiverem preenchidas as seguintes condições:
+
+a) No prazo de um ano a contar da data prevista no n.º 1 do artigo 18.º, o operador no aterro deve preparar e submeter à aprovação das autoridades competentes, um plano de ordenamento do local que inclua as informações referidas no artigo 8.º e quaisquer medidas correctoras que o operador considere necessárias para dar cumprimento aos requisitos da presente directiva, com excepção dos requisitos do ponto 1 do anexo I;
+
+b) Após a apresentação do plano de ordenamento, as autoridades competentes tomarão uma decisão definitiva sobre a eventual continuação das operações nos termos do referido plano de ordenamento e do disposto na presente directiva. Os Estados-membros tomarão as medidas necessárias para que, nos termos do n.º 7 do artigo 7.º e do artigo 13.º, os aterros que não tenham obtido uma licença para continuar as operações nos termos do artigo 8.º sejam encerrados logo que possível;
+
+c) Autorização, pelas autoridades competentes, dos trabalhos necessários, com base no plano de ordenamento aprovado, e fixação de um período de transição para a execução do plano. Todos os aterros existentes deverão preencher os requisitos da presente directiva, com excepção dos requisitos do ponto 1 do anexo I, no prazo de oito anos a contar da data prevista no n.º 1 do artigo 18.º;
+
+d)
+
+i) No prazo de um ano a contar da data estabelecida no n.º 1 do artigo 18.º, os artigos 4.º, 5.º e 11.º e o anexo II passarão a ser aplicáveis aos aterros destinados a resíduos perigosos;
+
+ii) No prazo de três anos a contar da data prevista no n.º 1 do artigo 18.º, o artigo 6.º passará a ser aplicável aos aterros para resíduos perigosos.
+
+###### Artigo 15.º — Apresentação de relatórios
+
+1. Os Estados-Membros comunicam à Comissão os dados relativos à aplicação do artigo 5.º, n.^os^ 2, 5 e 6, para cada ano civil.
+
+Os dados são comunicados por via eletrónica no prazo de 18 meses a contar do final do ano de referência em relação ao qual foram recolhidos. Os dados são comunicados de acordo com o modelo estabelecido pela Comissão em conformidade com o n.º 5 do presente artigo.
+
+O primeiro período de referência relativo à aplicação do artigo 5.º, n.^os^ 5 e 6, começa no primeiro ano civil completo após a adoção do ato de execução que estabelece o modelo de relatório em que os dados devem ser comunicados, em conformidade com o n.º 5 do presente artigo e abrange os dados relativos a esse período de referência.
+
+2. Os Estados-Membros comunicam os dados relativos à aplicação do artigo 5.º, n.º 2, até 1 de janeiro de 2025.
+
+3. Os dados comunicados pelos Estados-Membros nos termos do presente artigo são acompanhados de um relatório de controlo da qualidade.
+
+4. A Comissão analisa os dados comunicados nos termos do presente artigo e publica um relatório sobre os resultados dessa análise. O relatório avalia a organização da recolha de dados, as fontes dos dados e a metodologia utilizadas nos Estados-Membros, bem como a exaustividade, a fiabilidade, a atualidade e a coerência dos dados. Esta avaliação pode incluir recomendações específicas para melhorias. O relatório é elaborado após a data da primeira comunicação dos dados pelos Estados-Membros e, posteriormente, de quatro em quatro anos.
+
+5. Até 31 de março de 2019, a Comissão adota atos de execução para estabelecer o modelo de relatório em que os dados devem ser comunicados a que se refere o n.º 1 do presente artigo. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 17.º, n.º 2.
+
+###### Artigo 15.º-A — Instrumentos para promover a transição para uma economia mais circular
+
+A fim de contribuir para os objetivos fixados na presente diretiva, os Estados-Membros utilizam instrumentos económicos adequados e tomam outras medidas que permitam criar incentivos à aplicação da hierarquia dos resíduos. Tais instrumentos e medidas podem incluir os indicados no anexo IV-A da Diretiva 2008/98/CE ou outros instrumentos e medidas adequados.
+
+###### Artigo 15.º-B — Determinação do coeficiente de permeabilidade para os aterros
+
+A Comissão adota atos de execução para estabelecer o método a utilizar para determinar o coeficiente de permeabilidade para os aterros, *in situ* e em toda a extensão do local. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 17.º, n.º 2.
+
+###### Artigo 15.º-C — Norma da União para a amostragem de resíduos
+
+A Comissão adota atos de execução para estabelecer a norma a seguir para proceder à amostragem dos resíduos. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 17.º, n.º 2. Até à adoção desses atos de execução, os Estados-Membros podem aplicar as normas e procedimentos nacionais.
+
+###### Artigo 16.º — Reexame dos anexos
+
+A Comissão procede ao reexame periódico dos anexos e, se necessário, apresenta as propostas legislativas adequadas.
+
+###### Artigo 17.º — Procedimento de comité
+
+1. A Comissão é assistida pelo comité criado pelo artigo 39.º da Diretiva 2008/98/CE. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0007)).
+
+2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.
+
+Na falta de parecer do comité, a Comissão não adota o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011.
+
+###### Artigo 18.º — Transposição
+
+1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar dois anos após a sua entrada em vigor. Do facto informarão imediatamente a Comissão.
+
+Quando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.
+
+2. Os Estados-membros comunicarão à Comissão as disposições de direito nacional adoptadas nas matérias reguladas pela presente directiva.
+
+###### Artigo 19.º — Entrada em vigor
+
+A presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.
+
+###### Artigo 20.º — Destinatários
+
+Os Estados-membros são os destinatários da presente directiva.
+
+## ANEXO I
+
+### CONDIÇÕES GERAIS PARA TODAS AS CLASSES DE ATERROS
+
+### 1. Localização
+
+1.1. A localização de um aterro deverá obedecer a requisitos relativos: a) Às distâncias do perímetro do local em relação a áreas residenciais e recreativas, cursos de água, massas de água e outras zonas agrícolas e urbanas; b) À existência na zona de águas subterrâneas ou costeiras, ou áreas protegidas da natureza; c) Às condições geológicas e hidrogeológicas da zona; d) Aos riscos de cheias, de aluimento, de desabamento de terra ou de avalanches; e) À protecção do património natural ou cultural da zona.
+
+1.2. A instalação de um aterro só pode ser autorizada se as características do local no que se refere aos requisitos acima mencionados ou as medidas corectoras a implementar indicarem que o aterro não apresenta qualquer risco grave para o ambiente.
+
+### 2. Controlo das águas e gestão dos lixiviados
+
+No respeitante às características do aterro e às condições meterológicas, devem ser tomadas medidas adequadas para:
+
+— controlar a infiltração no aterro das águas de precipitação,
+
+— evitar a infiltração de águas superficiais e/ou subterrâneas nos resíduos depositados,
+
+— captar águas contaminadas e lixiviados. Se uma avaliação feita em função da localização do aterro e dos resíduos a receber demonstrar que o aterro não constitui um perigo potencial para o ambiente, a autoridade competente pode decidir que a presente disposição não é aplicável,
+
+— tratar as águas contaminadas e lixiviados captados do aterro segundo as normas exigidas para a sua descarga.
+
+O acima disposto pode não se aplicar aos aterros para resíduos inertes.
+
+### 3. Protecção do solo e das águas
+
+3.1. Os aterros devem estar localizados e ser concebidos por forma a obedecer às condições necessárias para evitar a poluição do solo, das águas subterrâneas ou das águas superficiais e para proporcionar, em tempo útil e nas condições necessárias, segundo o disposto na secção 2, uma recolha eficaz dos lixiviados, devendo a protecção do solo, das águas subterrâneas e das águas superficiais ser assegurada utilizando em combinação uma barreira geológica e um forro inferior durante a fase activa de exploração e uma barreira geológica e um forro de cobertura superior durante a fase passiva de encerramento e manutenção após encerramento.
+
+3.2. A barreira geológica é determinada pelas condições geológicas e hidrogeológicas inferiores e adjacentes ao local de implantação do aterro das quais resulte um efeito atenuador suficiente para impedir qualquer potencial risco para o solo e as águas subterrâneas. A base e os taludes do aterro devem consistir numa camada mineral que satisfaça as condições de permeabilidade e espessura de efeito combinado em termos de protecção do solo e das águas subterrâneas e de superfície, pelo menos equivalente à que resulta das seguintes condições: — aterros para resíduos perigosos: K ≤ 1,0 × 10^- 9^ m/s; espessura ≥ 5 m, — aterros para resíduos não perigosos: K ≤ 1,0 × 10^- 9^ m/s; espessura ≥ 1 m, — aterros para resíduos inertes: K ≤ 1,0 × 10^- 7^ m/s; espessura ≥ 1 m, m/s = metro/segundo. Sempre que a barreira geológica não ofereça de modo natural as condições acima descritas, poderá ser complementada e reforçada artificialmente por outros meios dos quais resulte uma protecção equivalente. As barreiras geológicas artificialmente criadas não poderão ser de espessura inferior a 0,5 m.
+
+| 3.3. | Além da barreira geológica acima descrita, o aterro deverá ser provido de um sistema de impermeabilização e de recolha de lixiviados que deverá obedecer aos seguintes princípios, de modo a garantir que a acumulação de lixiviados no fundo do aterro se mantenha a um nível mínimo: Recolha de lixiviados e impermeabilização do fundo Categoria de aterro Não perigoso Perigoso Forro de impermeabilização artificial necessário necessário Camada de drenagem ≥ 0,5 m necessário necessário Os Estados-membros poderão estipular requisitos gerais ou particulares para os aterros destinados a resíduos inertes, bem como para as características a que os meios técnicos acima referidos deverão obedecer. Se, após ponderarem os riscos potenciais para o ambiente, as autoridades competentes considerarem necessária a prevenção da formação de lixiviados, poderá ser exigida a impermeabilização da superfície, devendo esta operação obedecer às seguintes recomendações: Categoria de aterro Não perigoso Perigoso Camada de drenagem de gases necessária desnecessária Forro de impermeabilização artificial desnecessário necessário Camada mineral impermeável necessária necessária Camada de drenagem > 0,5 m necessária necessária Cobertura sobre o solo > 1 m necessária necessária |  |
+| --- | --- | --- |
+| Categoria de aterro | Não perigoso | Perigoso |
+| Forro de impermeabilização artificial | necessário | necessário |
+| Camada de drenagem ≥ 0,5 m | necessário | necessário |
+| Categoria de aterro | Não perigoso | Perigoso |
+| Camada de drenagem de gases | necessária | desnecessária |
+| Forro de impermeabilização artificial | desnecessário | necessário |
+| Camada mineral impermeável | necessária | necessária |
+| Camada de drenagem > 0,5 m | necessária | necessária |
+| Cobertura sobre o solo > 1 m | necessária | necessária |
+
+3.4. Se, com base numa avaliação dos riscos para o ambiente, tomando especialmente em consideração a Directiva 80/68/CEE ([^7^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0008)), as autoridades competentes não considerarem necessária, ao abrigo do ponto 2 («Controlo das águas e gestão dos lixiviados»), a recolha e tratamento de lixiviados, ou o aterro tiver sido classificado como não oferecendo potenciais riscos para o solo e águas subterrâneas e superficiais, os requisitos dos pontos 3.2 e 3.3 *supra* poderão ser reduzidos em conformidade. No caso dos aterros para resíduos inertes estes requisitos podem ser adaptados pela legislação nacional.
+
+### 4. Controlo dos gases
+
+4.1. Devem ser tomadas medidas adequadas para controlar a acumulação e dispersão dos gases de aterro (anexo III).
+
+4.2. Os gases de aterro produzidos por todos os aterros que recebem resíduos biodegradáveis devem ser captados, tratados e utilizados. Caso os gases captados não possam ser utilizados para a produção de energia, deverão ser queimados em facho.
+
+4.3. A captação, tratamento e utilização dos gases de aterro referidos no n.º 2 far-se-á de forma a reduzir ao mínimo os efeitos negativos ou a deterioração do ambiente e os perigos para a saúde humana.
+
+### 5. Perturbações e perigos
+
+Devem ser tomadas medidas para reduzir ao mínimo as perturbações e perigos para o ambiente provocados pelo aterro por:
+
+— emissão de cheiros e poeiras,
+
+— elementos dispersos pelo vento,
+
+— ruído e tráfego,
+
+— aves, roedores e insectos,
+
+— formação de aerossóis,
+
+— incêndios.
+
+Os aterros deverão ser concebidos de modo a que a poluição originada pela instalação não se disperse na via pública ou nos terrenos adjacentes.
+
+### 6. Estabilidade
+
+A deposição dos resíduos no aterro deve ser realizada de modo a assegurar a estabilidade da massa de resíduos e das estruturas associadas, nomeadamente no sentido de evitar desabamentos. Sempre que for criada uma barreira artificial, deve garantir-se que o substrato geológico, considerando a morfologia do aterro, é suficientemente estável para evitar assentamentos que possam danificar essa barreira.
+
+### 7. Barreiras
+
+O aterro deverá ter uma protecção adequada que impeça o livre acesso ao local. Os portões deverão manter-se fechados fora das horas de funcionamento. O sistema de controlo e de acesso à instalação deverá incluir um programa de medidas para detectar e dissuadir qualquer descarga ilegal na instalação.
+
+### 8. Armazenagem temporária de mercúrio metálico
+
+Na armazenagem temporária de mercúrio metálico por períodos superiores a um ano, deve respeitar-se o seguinte:
+
+— armazenagem do mercúrio metálico separado de outros resíduos,
+
+— armazenagem dos recipientes em bacias colectoras adequadamente revestidas, de modo a não apresentarem fissuras nem intervalos e a serem impermeáveis ao mercúrio metálico, cujo volume de confinamento se adeque à quantidade de mercúrio armazenada,
+
+— existência, no sítio de armazenagem, de barreiras naturais ou artificiais que protejam adequadamente o ambiente contra emissões de mercúrio e cujo volume de confinamento se adeque à quantidade de mercúrio armazenada,
+
+— pavimentação do piso do sítio de armazenagem com matérias selantes impermeáveis ao mercúrio; existência de um declive com colector,
+
+— equipamento do sítio de armazenagem com um sistema de protecção contra incêndios,
+
+— arrumação dos recipientes de um modo que permita removê-los facilmente.
+
+## ANEXO II
+
+### CRITÉRIOS E PROCESSOS DE ADMISSÃO DE RESÍDUOS
+
+#### 1. Introdução
+
+O presente anexo inclui:
+
+— os princípios gerais de admissão de resíduos nas diversas classes de aterros. O futuro processo de classificação de resíduos deverá basear-se nestes princípios,
+
+— orientações com vista a uma definição do processo preliminar de admissão de resíduos, que deverão ser seguidas até à adopção de um processo uniforme de classificação e admissão de resíduos. Este processo, bem como os processos de amostragem pertinentes, será elaborado pelo comité técnico referido no artigo 16.º da presente directiva. O comité técnico definirá os critérios a respeitar para que certos resíduos perigosos sejam admitidos em aterros para resíduos não perigosos. Esses critérios deverão, em especial, ter em conta o comportamento lixiviante a curto, médio e longo prazo de tais resíduos. Os critérios serão definidos no prazo de dois anos a contar da data da entrada em vigor da presente directiva. O comité técnico deverá também definir os critérios a satisfazer pelos resíduos para serem admitidos em armazenagem subterrânea. Esses critérios devem ter em conta, nomeadamente, o facto de que os resíduos não devem reagir entre si e com a rocha.
+
+Este trabalho do comité técnico, com excepção das propostas relativas à normalização dos métodos de controlo, amostragem e análise relacionadas com os anexos da presente directiva, que serão adoptadas no prazo de dois anos a contar da data de entrada em vigor da presente directiva, deverá estar terminado no prazo de três anos a contar da data da entrada em vigor da presente directiva e deverá ser realizado tendo em conta os objectivos estabelecidos no respectivo artigo 1.º
+
+#### 2. Princípios gerais
+
+A composição, lixiviabilidade, comportamento a longo prazo e propriedades gerais dos resíduos a depositar num aterro deverão ser conhecidos da forma mais exacta possível. A admissão de resíduos num aterro poderá basear-se em listas de resíduos admitidos ou recusados, definidos pela respectiva natureza e origem, e em métodos de análise de resíduos e valores-limite para as propriedades dos resíduos a admitir. Os futuros processos de admissão de resíduos descritos na presente directiva deverão, na medida do possível, basear-se em métodos de análise de resíduos e valores-limite normalizados para as propriedades dos resíduos a admitir.
+
+Antes de serem definidos os referidos métodos de análise e valores-limite, os Estados-membros deverão, no mínimo, elaborar listas nacionais de resíduos a admitir ou recusar em cada classe de aterro ou definir os critérios que deverão constar obrigatoriamente das listas. Para ser admitido numa classe particular de aterro, cada tipo de resíduos deverá constar da lista nacional pertinente ou obedecer a critérios semelhantes aos exigidos para constar dessa lista. Estas listas, ou os critérios equivalentes, e os métodos de análise e valores-limite serão enviadas à Comissão no prazo de seis meses a contar da transposição da presente directiva ou quando forem adoptadas a nível nacional.
+
+As listas ou critérios de admissão deverão servir de base para a elaboração de listas específicas de cada instalação, ou seja, da lista dos resíduos admitidos especificados na licença, em conformidade com o artigo 9.º da presente directiva.
+
+Os critérios de admissão de resíduos nas listas de referência ou em cada classe de aterros poderão basear-se noutra legislação e/ou nas propriedades dos resíduos.
+
+Os critérios de admissão num tipo particular de aterro deverão ser definidos tomando em consideração:
+
+— a protecção do meio ambiente circundante (em particular as águas subterrâneas e as águas superficiais),
+
+— a protecção dos sistemas de protecção do ambiente (por exemplo, revestimentos e sistemas de tratamento de lixiviados),
+
+— a protecção dos processos adequados de estabilização de resíduos no interior do aterro,
+
+— a protecção contra os perigos para a saúde humana;
+
+Exemplos de critérios baseados nas propriedades dos resíduos:
+
+— requisitos relativos ao conhecimento da composição total,
+
+— limitações relativas à quantidade de matéria orgânica nos resíduos,
+
+— requisitos ou limitações relativos à biodegradabilidade dos componentes orgânicos dos resíduos,
+
+— limitações relativas à quantidade de componentes potencialmente nocivos/perigosos especificados (em relação aos critérios de protecção supracitados),
+
+— limitações relativas à lixiviabilidade potencial e antecipada de componentes potencialmente nocivos/perigosos especificados (em relação aos critérios de protecção supracitados),
+
+— propriedades ecotoxicológicas dos resíduos e do respectivo lixiviado.
+
+De uma maneira geral, os critérios de admissão de resíduos baseados nas suas propriedades devem ser mais exigentes em relação aos aterros de resíduos inertes, e podem ser menos exigentes para os aterros de resíduos não perigosos e ainda menos para os aterros de resíduos perigosos, atendendo ao nível elevado de protecção do meio ambiente dos dois últimos tipos de aterros.
+
+#### 3. Processos gerais de verificação e admissão de resíduos
+
+A classificação geral dos resíduos e a respectiva verificação deverão basear-se numa escala de três níveis:
+
+Classificação básica. Consiste na determinação rigorosa do comportamento do resíduo a curto e a longo prazo em matéria de produção de lixiviados e/ou das suas propriedades características, de acordo com métodos normalizados de análise e de verificação do comportamento do lixiviado.
+
+Verificação de conformidade. Consiste na verificação periódica por métodos normalizados mais simples de análise e de verificação do comportamento do resíduo, das condições da licença e/ou dos critérios específicos de referência. A verificação incidirá sobre determinadas variáveis essenciais e sobre o comportamento, identificados através da classificação básica.
+
+Verificação no local. Consiste em métodos de ensaio rápido com vista a confirmar se se trata dos mesmos resíduos que os submetidos à verificação de conformidade e que os descritos nos documentos de acompanhamento. Poderá tratar-se de uma simples inspecção visual de um carregamento de resíduos antes e depois da descarga no local do aterro.
+
+Cada tipo determinado de resíduos deve, por norma, ser classificado no nível 1 e respeitar os critérios adequados para poder ser aceite numa lista de referência. Para poder permanecer numa lista específica do local, cada determinado tipo de resíduos deve ser verificado no nível 2 a intervalos regulares (por exemplo anualmente) e respeitar os critérios apropriados. Cada carregamento de resíduos deve ser submetido a uma verificação de nível 3 à sua chegada à entrada do aterro.
+
+Determinados tipos de resíduos poderão ser temporária ou permanentemente isentos das verificações do nível 1, o que poderá ocorrer quando a verificação for impraticável, quando não se dispuser de processos de verificação e de critérios de admissão apropriados ou quando for aplicável uma legislação derrogatória.
+
+#### 4. Oreintações para os processos preliminares de admissão de resíduos
+
+Até o presente anexo estar inteiramente completo, só é obrigatória a verificação do nível 3, aplicando-se o nível 1 e o nível 2 na medida do possível. Durante esta fase preliminar, os resíduos a admitir numa classe particular de aterros devem quer figurar numa lista restritiva nacional ou numa lista específica do local para esse tipo de aterros quer respeitar critérios equivalentes aos estipulados para inclusão na lista.
+
+Para a definição dos critérios preliminares de admissão de resíduos nas três principais classes de aterros, poderão seguir-se as seguintes orientações gerais ou as listas correspondentes:
+
+Aterros para resíduos inertes: Só podem ser aceites na lista os resíduos inertes definidos na alínea e) do artigo 2.º
+
+Aterros para resíduos não perigosos: Para poderem ser admitidos na lista, os resíduos não deverão estar abrangidos pela Directiva 91/689/CEE.
+
+Aterros para resíduos perigosos: Uma lista preliminar de aterros para resíduos perigosos abrangeria apenas os tipos de resíduos abrangidos pela Directiva 91/689/CEE. Contudo, esses resíduos não deverão ser admitidos na lista sem tratamento prévio, caso apresentem um teor global ou uma lixiviabilidade de componentes potencialmente perigosos suficientemente elevados para representarem um perigo a curto prazo para os trabalhadores ou para o ambiente ou para impedirem uma estabilização dos resíduos suficiente dentro do período de vida previsto para o aterro.
+
+#### 6. Disposições especificamente aplicáveis ao mercúrio metálico
+
+Na armazenagem temporária de mercúrio metálico por períodos superiores a um ano, deve respeitar-se o seguinte:
+
+A. Composição do mercúrio
+
+— teor ponderal de mercúrio superior a 99,9 %;
+
+— ausência de impurezas que corroam aços-carbono ou aços inoxidáveis (ácido nítrico, soluções de cloretos, etc.).
+
+B. Confinamento
+
+— material: aço-carbono (mínimo ASTM A36) ou aço inoxidável (AISI 304, 316L),
+
+— impermeabilidade a gases e a líquidos,
+
+— resistência da superfície exterior dos recipientes às condições de armazenagem,
+
+— aprovação do tipo de recipiente nos ensaios de gotejamento e de estanqueidade descritos nos capítulos 6.1.5.3 e 6.1.5.4 do *UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria* (Manual de Ensaios e Critérios das Recomendações da ONU relativas ao Transporte de Mercadorias Perigosas).
+
+C. Admissão
+
+— apenas é admitido mercúrio metálico que respeite os critérios de admissão mínimos acima especificados,
+
+— os recipientes são inspeccionados visualmente antes da armazenagem; não são admitidos recipientes danificados, com fugas ou corroídos,
+
+— encontram-se gravados com durabilidade nos recipientes (por punção) o número de identificação, o material constitutivo, a massa em vazio, a referência do fabricante e a data de fabrico do recipiente,
+
+— os recipientes ostentam uma placa que lhes foi aposta com carácter permanente e que indica o número de identificação do atestado.
+
+D. Atestado
+
+— nome e endereço do produtor dos resíduos,
+
+— nome e endereço do responsável pelo enchimento dos recipientes,
+
+— local e data do enchimento,
+
+— quantidade de mercúrio,
+
+— grau de pureza do mercúrio e, se for caso disso, descrição das impurezas, incluindo o relatório analítico,
+
+— confirmação da utilização exclusiva dos recipientes no transporte/armazenagem de mercúrio,
+
+— números de identificação dos recipientes,
+
+— eventuais observações específicas.
+
+## ANEXO III
+
+### PROCESSOS DE ACOMPANHAMENTO E CONTROLO NAS FASES DE EXPLORAÇÃO APÓS ENCERRAMENTO
+
+### 1. Introdução
+
+O presente anexo visa apresentar os processos mínimos de controlo que devem ser seguidos a fim de verificar:
+
+— que os resíduos foram admitidos para depósito em conformidade com os critérios estabelecidos para a categoria de aterro em questão,
+
+— que os processos no interior do aterro funcionam correctamente,
+
+— que os sistemas de protecção do ambiente funcionam inteiramente de forma adequada,
+
+— que as condições de licenciamento do aterro são respeitadas.
+
+### 2. Dados meteorológicos
+
+Se os Estados-membros decidirem que os balanços hídricos são um instrumento eficaz para avaliar se há formação de lixiviado na massa do aterro ou se a instalação tem fugas, recomenda-se a recolha dos seguintes dados das operações de controlo do aterro ou da estação meteorológica mais próxima, conforme for exigido pelas autoridades competentes, nos termos do ponto 3 do artigo 13.º:
+
+|  | Fase de exploração | Fase de manutenção após encerramento |
+| --- | --- | --- |
+| 1.1. Volume da precipitação | diariamente | diariamente, além dos valores mensais |
+| 1.2. Temperatura (min., max., 14.00 h TEC) | diariamente | média mensal |
+| 1.3. Direcção e velocidade do vento dominante | diariamente | desnecessário |
+| 1.4. Evaporação (lisímetro) [(^1^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0009) | diariamente | diariamente, além dos valores mensais |
+| 1.5. Humidade atmosférica (14.00 h TEC) | diariamente | média mensal |
+| (^1^) Ou outros métodos apropriados |  |  |
+
+### 3. Dados sobre emissões: controlo das águas, lixiviados e gases
+
+Deve proceder-se à recolha em pontos representativos de amostras dos lixiviados e das águas de superfície, se presentes. A amostragem e a medição (volume e composição) dos lixiviados devem ser efectuadas separadamente em cada ponto em que surjam. Referência: «General guidelines on sampling technology», documento ISO 5667-2 (1991).
+
+O controlo das águas de superfície, se presentes, deverá ser efectuado em, pelo menos, dois pontos, um a montante e outro a jusante do aterro.
+
+O controlo de gases deve ser representativo de cada secção do aterro. A frequência da amostragem e das análises consta do quadro adiante.
+
+Para o controlo dos lixiviados e águas, a amostra a recolher deverá ser representativa da composição média.
+
+|  | Fase de exploração | Fase de manutenção após encerramento [(^3^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0012) |
+| --- | --- | --- |
+| 2.1. Volume dos lixiviados | mensalmente [(^1^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0010) [(^3^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0012) | semestralmente |
+| 2.2. Composição dos lixiviados [(^2^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0011) | trimestralmente [(^3^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0012) | semestralmente |
+| 2.3. Volume e composição das águas de superfície [(^7^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0016) | trimestralmente [(^3^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0012) | semestralmente |
+| 2.4. Emissões potenciais de gases e pressão atmosférica [(^4^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0013)(CH4, CO2, O2, H2S, H2 etc.) | mensalmente [(^3^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0012) [(^5^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0014) | semestralmente [(^6^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0015) |
+| (^1^) A frequência da amostragem deverá ser adaptada em função da morfologia do aterro (sob a forma de tumulus, enterrado, etc.). Há que especificar este aspecto na licença. (^2^) Os parâmetros a medir e as substâncias a analisar variam de acordo com a composição dos resíduos depositados. Devem ser mencionados na licença de exploração e correlacionados com as características lixiviantes dos resíduos. (^3^) Se a avaliação dos dados indicar que intervalos mais longos são igualmente eficazes, poderá proceder-se a uma adaptação das medições e análises. Quanto aos lixiviados, a condutividade deve ser sempre medida pelo menos uma vez por ano. (^4^) Estas medições dizem principalmente respeito ao teor em matéria orgânica dos resíduos. (^5^) CH4, CO2, O2 regularmente; outros gases segundo as necessidades, de acordo com a composição dos resíduos depositados, com vista a reflectir as suas propriedades lixiviantes. (^6^) A eficácia do sistema de extracção dos gases deve ser verificada regularmente. (^7^) Com base nas características da instalação do aterro, as autoridades competentes poderão determinar que estas medições não são necessárias, dando conhecimento do facto em conformidade com o previsto no artigo 15.º da directiva. Os n.^os^ 2.1 e 2.2 só se aplicam na recolha do lixiviado (ver o ponto 2 do anexo I). |  |  |
+
+### 4. Protecção das águas subterrâneas
+
+#### A. Amostragem
+
+As medições deverão poder fornecer informações sobre as águas subterrâneas susceptíveis de ser afectadas por descargas do aterro, devendo pelo menos um ponto de medição estar localizado na região de infiltração e dois na região de escoamento. Este número pode ser aumentado com base em controlos hidrogeológicos específicos e em caso de necessidade de uma identificação o mais rápida possível de uma descarga acidental de lixiviado nas águas subterrâneas.
+
+A amostragem deverá ser realizada, no mínimo em três locais distintos, antes das operações de aterro, por forma a estabelecer valores de referência para futuras amostragens. Referência: «Sampling Groundwaters», ISO 5667, parte 11, 1993.
+
+#### B. Controlo
+
+Os parâmetros a analisar nas amostras colhidas deverão ser determinados a partir da composição prevista do lixiviado e da qualidade das águas subterrâneas da zona. Ao seleccionar os parâmetros para análise, deverá atender-se à mobilidade da zona freática. Os parâmetros poderão incluir parâmetros indicativos destinados a garantir o reconhecimento tão rápido quanto possível de alterações da qualidade das águas ([^8^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0017)).
+
+|  | Fase de exploração | Fase de manutenção após encerramento |
+| --- | --- | --- |
+| Níveis das águas subterrâneas | de 6 em 6 meses [(^1^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0018) | semestralmente [(^1^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0018) |
+| Composição das águas subterrâneas | frequência específica do local [(^2^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0019) [(^3^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0020) | frequência específica do local [(^2^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0019) [(^3^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0020) |
+| (^1^) Se houver níveis freáticos variáveis a frequência deve ser aumentada. (^2^) A frequência deverá basear-se na possibilidade de acções de correcção entre as duas amostragens, caso se atinja o limiar de desencadeamento, ou seja, a frequência deverá ser determinada com base no conhecimento e avaliação da rapidez de deslocação do fluxo das águas subterrâneas. (^3^) Quando se atinge o limiar de desencadeamento (ver C), a verificação deve fazer-se através da repetição da amostragem. Quando esse limiar tiver sido confirmado, deverá ser seguido um plano de emergência (estipulado na licença). |  |  |
+
+#### C. Limiar de desencadeamento
+
+Relativamente às águas subterrâneas, deverá considerar-se que se observam importantes efeitos negativos para o ambiente, tal como referido nos artigos 12.º e 13.º, quando, na sequência da análise de uma amostra das águas subterrâneas, se comprovar uma alteração significativa da qualidade dessas águas. Deverá determinar-se um limiar de desencadeamento com base nas formações hidrogeológicas específicas da instalação do aterro e na qualidade das águas subterrâneas. Os limiares de desencadeamento deverão constar da licença, sempre que possível.
+
+As observações deverão ser avaliadas através de tabelas de controlo com normas e níveis de controlo definidos para cada poço em nível inferior. Os níveis de controlo deverão ser determinados a partir das variações locais da qualidade das águas subterrâneas.
+
+### 5. Topografia da instalação: dados sobre o aterro
+
+|  | Fase de exploração | Fase de manutenção após encerramento |
+| --- | --- | --- |
+| 5.1. Estrutura e composição do aterro [(^1^)](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0021) | anualmente |  |
+| 5.2. Comportamento do aterro relativamente a eventuais assentamentos | anualmente | anualmente |
+| (^1^) Dados para avaliar o estado do aterro: superfície ocupada pelos resíduos, volume e composição dos resíduos, métodos de deposição, início e duração da deposição, cálculo da capacidade de deposição ainda disponível no aterro. |  |  |
+
+### 6. Disposições especificamente aplicáveis ao mercúrio metálico
+
+Na armazenagem temporária de mercúrio metálico por períodos superiores a um ano, deve respeitar-se o seguinte:
+
+A. Disposições relativas a monitorização, inspecção e situações de emergência
+
+B. Manutenção de registos
+
+## ANEXO IV
+
+### PLANO DE EXECUÇÃO A APRESENTAR NOS TERMOS DO ARTIGO 5.º, N.º 6
+
+O plano de execução a apresentar nos termos do artigo 5.º, n.º 6, deve conter os seguintes elementos:
+
+1) Uma avaliação das taxas (passadas, presentes e futuras) de reciclagem, deposição em aterro e outros tratamentos de resíduos urbanos, e dos fluxos de que são compostos;
+
+2) Uma avaliação da execução dos planos de gestão de resíduos e dos programas de prevenção de resíduos existentes nos termos dos artigos 28.º e 29.º da Diretiva 2008/98/CE;
+
+3) Os motivos pelos quais o Estado-Membro considera que poderá não conseguir cumprir a meta pertinente estabelecida no artigo 5.º, n.º 5, no prazo nele fixado e uma estimativa da prorrogação do prazo necessária para cumprir essa a meta;
+
+4) As medidas necessárias para cumprir as metas estabelecidas no artigo 5.º, n.º 8, da presente diretiva, aplicáveis ao Estado-Membro durante a prorrogação do prazo, incluindo os instrumentos económicos adequados e outras medidas de incentivo à aplicação da hierarquia dos resíduos prevista no artigo 4.º, n.º 1, e no anexo IV-A da Diretiva 2008/98/CE;
+
+5) Um calendário de execução das medidas identificadas no ponto 4, a definição da entidade responsável pela sua execução e uma avaliação do seu contributo individual para o cumprimento das metas aplicáveis em caso de prorrogação do prazo;
+
+6) Informações sobre o financiamento da gestão de resíduos em consonância com o princípio do poluidor-pagador;
+
+7) Medidas destinadas a melhorar a qualidade dos dados, se for o caso, tendo em vista melhorar o planeamento e a monitorização do desempenho em matéria de gestão de resíduos.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Diretiva 2008/98/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa aos resíduos e que revoga certas diretivas (JO L 312 de 22.11.2008, p. 3).
+
+> ([^2^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (CE) n.º 1013/2006 do Parlamento Europeu e do Conselho, de 14 de junho de 2006, relativo a transferências de resíduos (JO L 190 de 12.7.2006, p. 1).
+
+> ([^3^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0004)) JO L 175 de 5.7.1985, p. 40. Directiva alterada pela Directiva 97/11/CE (JO L 73 de 14.3.1997, p. 5).
+
+> ([^4^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0005)) JO L 158 de 23.6.1990, p. 56.
+
+> ([^5^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0006)) JO L 30 de 6.2.1993, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 120/97 (JO L 22 de 24.1.1997, p. 14).
+
+> ([^6^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0007)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).
+
+> ([^7^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0008)) JO L 20 de 26.1.1980, p. 43, com a última redacção que lhe foi dada pela Directiva 91/692/CEE (JO L 377 de 31.12.1991, p. 48).
+
+> ([^8^](http://publications.europa.eu/resource/cellar/4041e05d-501c-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0017)) Parâmetros recomendados: pH, TOC, fenóis, metais pesados, fluoretos, AS, petróleo, hidrocarbonetos.

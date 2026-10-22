@@ -1,0 +1,162 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:405484:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-886673832",
+ "dre_path": "/dr/detalhe/decreto-lei/312-2002-405484",
+ "source_lastmod": "2024-09-02",
+ "versions": [
+  {
+   "date": "2002-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886673919",
+    "886673920",
+    "886673921",
+    "886673922"
+   ]
+  },
+  {
+   "date": "2010-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609990:por",
+     "title": "Lei n.º 3-B/2010",
+     "published": "2010-04-28",
+     "dre_path": "/dr/detalhe/lei/3-b-2010-609990"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "886673919",
+    "886723653",
+    "886723654",
+    "886723655",
+    "886673923"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "886673919",
+    "886723656",
+    "886723657",
+    "886723655",
+    "886673923"
+   ]
+  }
+ ],
+ "fragments": {
+  "886673919": {
+   "fragment_id": "886673833",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 312/2002\n\nde 20 de Dezembro\n\nA taxa sobre a comercialização de produtos cosméticos e de higiene corporal, produtos farmacêuticos homeopáticos, dispositivos médicos não activos e dispositivos para diagnóstico in vitro foi criada pelo artigo 72.º da Lei n.º 3-B/2000, de 4 de Abril, e foi mantida em vigor pela Lei n.º 30-C/2000, de 29 de Dezembro, e pela Lei n.º 109-B/2001, de 27 de Dezembro, que, simultaneamente, autorizou o Governo a rever e regulamentar aquela taxa.\n\nAs contrapartidas pelo pagamento da taxa, a assegurar pelo Instituto Nacional da Farmácia e do Medicamento (INFARMED), estão a ser reforçadas, em resultado de este Instituto se encontrar dotado de mais e melhores meios para assegurar o sistema global de garantia de qualidade dos produtos cosméticos e de higiene corporal, produtos farmacêuticos homeopáticos, dispositivos médicos não activos e dispositivos para diagnóstico in vitro, no âmbito do qual os serviços prestados e a correspondente taxa se incluem.\n\nFoi ouvido o INFARMED.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 55.º da Lei n.º 109-B/2001, de 27 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886673920": {
+   "fragment_id": "886673834",
+   "type": 11,
+   "heading": "Artigo 1.º — Taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Taxa\n\n1 - As entidades responsáveis pela colocação no mercado de produtos cosméticos e de higiene corporal, produtos farmacêuticos homeopáticos, dispositivos médicos não activos e dispositivos para diagnóstico in vitro ficam obrigadas ao pagamento de uma taxa sobre a sua comercialização, nos seguintes termos:\n\na) Produtos cosméticos e de higiene corporal - 2%;\n\nb) Produtos farmacêuticos homeopáticos - 0,4%;\n\nc) Dispositivos médicos não activos e dispositivos para diagnóstico in vitro - 0,4%.\n\n2 - A taxa referida no número anterior constitui contrapartida do adequado controlo dos respectivos produtos de saúde, com a execução de acções inspectivas de carácter aleatório e subsequente controlo laboratorial dos produtos colocados no mercado, visando garantir a qualidade e segurança da utilização dos mesmos, bem como da realização das acções de informação e formação que visem a protecção da saúde pública e dos utilizadores, a assegurar pelo Instituto Nacional da Farmácia e do Medicamento (INFARMED).\n\n3 - Para efeitos do disposto nos números anteriores, a taxa sobre a comercialização dos produtos cosméticos e de higiene corporal, produtos farmacêuticos homeopáticos, dispositivos médicos não activos e dispositivos para diagnóstico in vitro incide sobre o montante do volume de vendas dos mesmos produtos, deduzido o imposto sobre o valor acrescentado, pelas entidades responsáveis pela sua colocação no mercado.\n\n> Nota: [Artigo 168.º, Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747) Fixa em 1% a percentagem da taxa sobre a comercialização de produtos cosméticos e de higiene corporal prevista na alínea a) do n.º 1 do artigo 1.º do presente decreto-lei no ano de 2009.\n\n> Nota: [Artigo 152.º, Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511) Fixa em 1,5% a percentagem da taxa sobre a comercialização de produtos cosméticos e de higiene corporal prevista na alínea a) do n.º 1 do artigo 1.º do presente decreto-lei no ano de 2007."
+  },
+  "886673921": {
+   "fragment_id": "886673835",
+   "type": 11,
+   "heading": "Artigo 2.º — Cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cobrança\n\n1 - A taxa prevista no artigo anterior constitui receita própria do INFARMED.\n\n2 - A cobrança da taxa é feita mensalmente, com base nas declarações de vendas mensais fornecidas pelos sujeitos obrigados ao seu pagamento, a exarar em impresso próprio aprovado pelo INFARMED.\n\n3 - A falta de registo dos sujeitos passivos como entidades responsáveis pela sua colocação no mercado, a não apresentação dos documentos e declarações considerados necessários para o apuramento da taxa, a sua apresentação com dados incorrectos ou o não pagamento atempado da mesma taxa são considerados contra-ordenações puníveis nos termos e com as coimas previstas no n.º 1 do artigo 10.º do Decreto-Lei n.º 94/95, de 9 de Maio, no n.º 1 do artigo 10.º do Decreto-Lei n.º 273/95, de 23 de Outubro, no artigo 17.º do Decreto-Lei n.º 306/97, de 11 de Novembro, nos n.os 1 e 2 do artigo 19.º do Decreto-Lei n.º 189/2000, de 12 de Agosto, e no n.º 1 do artigo 23.º do Decreto-Lei n.º 296/98, de 25 de Setembro, conjugados com o Decreto-Lei n.º 136/2002, de 16 de Maio.\n\n4 - O INFARMED pode determinar, em articulação com a Inspecção-Geral de Finanças, a realização das inspecções ou outras acções que se mostrem necessárias, com o objectivo de verificar e fiscalizar a correcção dos elementos, documentos e declarações fornecidos para a determinação da taxa devida nos termos deste diploma.\n\n5 - Os sujeitos passivos deverão conservar devidamente arquivados e em boa ordem, durante 10 anos, os documentos, declarações e demais elementos considerados necessários pelo INFARMED para o apuramento da taxa devida.\n\n6 - O INFARMED deverá articular-se com os serviços competentes do Ministério das Finanças e do Ministério da Justiça na área do registo do início da actividade de empresas que criem os canais de informação adequados à fiscalização do cumprimento deste diploma."
+  },
+  "886673922": {
+   "fragment_id": "886673836",
+   "type": 11,
+   "heading": "Artigo 3.º — Actividades do INFARMED",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Actividades do INFARMED\n\nNo âmbito das contrapartidas a prestar, o INFARMED deve enviar aos obrigados ao pagamento da taxa as conclusões dos estudos e das informações recolhidas sobre cada um dos produtos cosméticos e de higiene corporal, produtos farmacêuticos homeopáticos, dispositivos médicos não activos e dispositivos para diagnóstico in vitro que comercializam, bem como das demais acções referidas no n.º 2 do artigo 1.º"
+  },
+  "886723653": {
+   "fragment_id": "886673834",
+   "type": 11,
+   "heading": "Artigo 1.º — Taxa",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 155.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 1.º — Taxa\n\n1 - As entidades responsáveis pela colocação no mercado de produtos cosméticos e de higiene corporal, produtos farmacêuticos homeopáticos e dispositivos médicos, incluindo dispositivos médicos activos e não activos e dispositivos para diagnóstico in vitro, ficam obrigadas ao pagamento de uma taxa sobre a sua comercialização, nos seguintes termos:\n\na) Produtos cosméticos e de higiene corporal - 1 %;\n\nb) Produtos farmacêuticos homeopáticos - 0,4 %;\n\nc) Dispositivos médicos - 0,4 %.\n\n2 - O tributo referido no número anterior visa nomeadamente financiar o adequado controlo dos respectivos produtos de saúde, com a execução de acções inspectivas de carácter aleatório e subsequente controlo laboratorial dos produtos colocados no mercado, de modo a garantir a qualidade e segurança da utilização dos mesmos, bem como da realização das acções de informação e formação que visem a protecção da saúde pública e dos utilizadores, a assegurar pelo INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED).\n\n3 - Para efeitos do disposto nos números anteriores, a taxa sobre a comercialização dos produtos cosméticos e de higiene corporal, produtos farmacêuticos homeopáticos e dispositivos médicos, incide sobre o montante do volume de vendas dos mesmos produtos, deduzido o imposto sobre o valor acrescentado, pelas entidades responsáveis pela sua colocação no mercado.\n\n> Nota: [Artigo 168.º, Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747) Fixa em 1% a percentagem da taxa sobre a comercialização de produtos cosméticos e de higiene corporal prevista na alínea a) do n.º 1 do artigo 1.º do presente decreto-lei no ano de 2009.\n\n> Nota: [Artigo 152.º, Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511) Fixa em 1,5% a percentagem da taxa sobre a comercialização de produtos cosméticos e de higiene corporal prevista na alínea a) do n.º 1 do artigo 1.º do presente decreto-lei no ano de 2007.\n\n> Alterado pelo/a Artigo 155.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  },
+  "886723654": {
+   "fragment_id": "886673835",
+   "type": 11,
+   "heading": "Artigo 2.º — Cobrança e contra-ordenações",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 155.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 2.º — Cobrança e contra-ordenações\n\n1 - A taxa prevista no artigo anterior constitui receita própria do INFARMED.\n\n2 - A cobrança da taxa é feita mensalmente, com base nas declarações de vendas mensais fornecidas pelos sujeitos obrigados ao seu pagamento, a exarar em impresso próprio aprovado pelo INFARMED.\n\n3 - Sem prejuízo da responsabilidade criminal, constitui contra-ordenação, punível com coima de (euro) 2000 a (euro) 3740,98 ou até (euro) 44 891,81, consoante o agente seja pessoa singular ou pessoa colectiva:\n\na) A falta de registo dos sujeitos passivos como entidades responsáveis pela sua colocação no mercado;\n\nb) A não apresentação dos documentos e declarações considerados necessários para o apuramento da taxa ou a sua apresentação com dados incorrectos;\n\nc) O não pagamento atempado da mesma taxa.\n\n4 - A negligência e a tentativa são puníveis.\n\n5 - Compete ao INFARMED a instrução dos respectivos processos e a aplicação das respectivas coimas.\n\n6 - O INFARMED pode determinar, em articulação com a Inspecção-Geral de Finanças, a realização das inspecções ou outras acções que se mostrem necessárias, com o objectivo de verificar e fiscalizar a correcção dos elementos, documentos e declarações fornecidos para a determinação da taxa devida nos termos deste diploma.\n\n7 - Os sujeitos passivos deverão conservar devidamente arquivados e em boa ordem, durante 10 anos, os documentos, declarações e demais elementos considerados necessários pelo INFARMED para o apuramento da taxa devida.\n\n8 - O INFARMED deverá articular-se com os serviços competentes do Ministério das Finanças e do Ministério da Justiça na área do registo do início da actividade de empresas que criem os canais de informação adequados à fiscalização do cumprimento deste diploma.\n\n> Alterado pelo/a Artigo 155.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  },
+  "886723655": {
+   "fragment_id": "886673836",
+   "type": 11,
+   "heading": "Artigo 3.º — Actividades do INFARMED",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 155.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 3.º — Actividades do INFARMED\n\nO INFARMED envia aos sujeitos passivos do tributo as conclusões dos estudos e das informações recolhidas sobre cada um dos produtos cosméticos e de higiene corporal, produtos farmacêuticos homeopáticos e dispositivos médicos que comercializam, bem como das demais acções referidas no n.º 2 do artigo 1.º\n\n> Alterado pelo/a Artigo 155.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  },
+  "886673923": {
+   "fragment_id": "886673837",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Filipe Pereira.\n\nPromulgado em 22 de Novembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Dezembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "886723656": {
+   "fragment_id": "886673834",
+   "type": 11,
+   "heading": "Artigo 1.º — Taxa",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 176.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 155.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 1.º — Taxa\n\n1 - As entidades que procedam à primeira alienação a título oneroso em território nacional de produtos cosméticos e de higiene corporal ou de dispositivos médicos, incluindo dispositivos médicos ativos e não ativos, dispositivos para diagnóstico in vitro e acessórios, bem como as que sejam responsáveis pela colocação no mercado de produtos farmacêuticos homeopáticos, ficam obrigadas ao pagamento de uma taxa sobre a comercialização desses produtos, nos seguintes termos:\n\na) Produtos cosméticos e de higiene corporal - 1 %;\n\nb) Produtos farmacêuticos homeopáticos - 0,4 %;\n\nc) Dispositivos médicos - 0,4 %.\n\n2 - O tributo referido no número anterior visa nomeadamente financiar o adequado controlo dos respectivos produtos de saúde, com a execução de acções inspectivas de carácter aleatório e subsequente controlo laboratorial dos produtos colocados no mercado, de modo a garantir a qualidade e segurança da utilização dos mesmos, bem como da realização das acções de informação e formação que visem a protecção da saúde pública e dos utilizadores, a assegurar pelo INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED).\n\n3 - Para efeitos do disposto nos números anteriores, a taxa sobre a comercialização dos produtos cosméticos e de higiene corporal, produtos farmacêuticos homeopáticos e dispositivos médicos incide sobre o montante do volume de vendas dos mesmos produtos, deduzido o IVA, realizadas pelas entidades referidas no n.º 1.\n\n4 - As entidades referidas no n.º 1 devem registar-se no INFARMED, até ao final do mês seguinte ao do início da comercialização dos produtos nele previstos.\n\n> Nota: [Artigo 168.º, Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747) Fixa em 1% a percentagem da taxa sobre a comercialização de produtos cosméticos e de higiene corporal prevista na alínea a) do n.º 1 do artigo 1.º do presente decreto-lei no ano de 2009.\n\n> Nota: [Artigo 152.º, Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511) Fixa em 1,5% a percentagem da taxa sobre a comercialização de produtos cosméticos e de higiene corporal prevista na alínea a) do n.º 1 do artigo 1.º do presente decreto-lei no ano de 2007.\n\n> Alterado pelo/a Artigo 176.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 155.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  },
+  "886723657": {
+   "fragment_id": "886673835",
+   "type": 11,
+   "heading": "Artigo 2.º — Cobrança e contra-ordenações",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 176.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 155.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 2.º — Cobrança e contra-ordenações\n\n1 - A taxa prevista no artigo anterior constitui receita própria do INFARMED.\n\n2 - A taxa é autoliquidada e paga mensalmente, com base nas declarações de vendas mensais, referentes ao mês imediatamente anterior, fornecidas pelos sujeitos obrigados ao seu pagamento e submetidas em local adequado da página eletrónica do INFARMED.\n\n3 - Sem prejuízo da responsabilidade criminal, constitui contra-ordenação, punível com coima de (euro) 2000 a (euro) 3740,98 ou até (euro) 44 891,81, consoante o agente seja pessoa singular ou pessoa colectiva:\n\na) A falta de registo dos sujeitos passivos como entidades que procedem à primeira alienação a título oneroso de produtos cosméticos e de higiene corporal em território nacional, ou como entidades responsáveis pela colocação no mercado de produtos farmacêuticos homeopáticos ou de dispositivos médicos, incluindo dispositivos médicos ativos e não ativos e dispositivos para diagnóstico in vitro;\n\nb) A não apresentação dos documentos e declarações considerados necessários para o apuramento da taxa ou a sua apresentação com dados incorrectos;\n\nc) O não pagamento atempado da mesma taxa.\n\n4 - A negligência e a tentativa são puníveis.\n\n5 - Compete ao INFARMED a instrução dos respectivos processos e a aplicação das respectivas coimas.\n\n6 - O INFARMED pode determinar, em articulação com a Inspecção-Geral de Finanças, a realização das inspecções ou outras acções que se mostrem necessárias, com o objectivo de verificar e fiscalizar a correcção dos elementos, documentos e declarações fornecidos para a determinação da taxa devida nos termos deste diploma.\n\n7 - Os sujeitos passivos deverão conservar devidamente arquivados e em boa ordem, durante 10 anos, os documentos, declarações e demais elementos considerados necessários pelo INFARMED para o apuramento da taxa devida.\n\n8 - O INFARMED deverá articular-se com os serviços competentes do Ministério das Finanças e do Ministério da Justiça na área do registo do início da actividade de empresas que criem os canais de informação adequados à fiscalização do cumprimento deste diploma.\n\n> Alterado pelo/a Artigo 176.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 155.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  }
+ }
+}

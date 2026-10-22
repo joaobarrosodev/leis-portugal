@@ -1,0 +1,398 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:280489:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-964512977",
+ "dre_path": "/dr/detalhe/portaria/66-2011-280489",
+ "source_lastmod": "2025-12-15",
+ "versions": [
+  {
+   "date": "2011-02-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "965366475",
+    "965366675",
+    "965366875",
+    "965367075",
+    "965367275",
+    "965367475",
+    "965367675",
+    "965367875",
+    "965368075",
+    "965368275",
+    "965368475",
+    "965368675",
+    "965368875",
+    "965369075",
+    "965369275",
+    "965369475",
+    "965369675",
+    "965369875",
+    "965370075",
+    "965370275",
+    "965370475",
+    "965370675",
+    "965370875",
+    "965371075",
+    "965371275",
+    "965371475",
+    "965371675",
+    "965371875",
+    "965372075",
+    "965372275",
+    "965372475",
+    "965372675",
+    "965372875"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:983592814:por",
+     "title": "Portaria n.º 445/2025/1",
+     "published": "2025-12-15",
+     "dre_path": "/dr/detalhe/portaria/445-2025-983592814"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "965366475",
+    "965366675",
+    "965366875",
+    "965367075",
+    "965367275",
+    "965367475",
+    "979311241",
+    "979311243",
+    "979311242",
+    "965368275",
+    "965368475",
+    "965368675",
+    "965368875",
+    "965369075",
+    "965369275",
+    "965369475",
+    "965369675",
+    "965369875",
+    "965370075",
+    "965370275",
+    "965370475",
+    "965370675",
+    "965370875",
+    "965371075",
+    "965371275",
+    "965371475",
+    "965371675",
+    "965371875",
+    "965372075",
+    "965372275",
+    "965372475",
+    "965372675",
+    "965372875"
+   ]
+  }
+ ],
+ "fragments": {
+  "965366475": {
+   "fragment_id": "965366375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Decreto Regulamentar n.º 1-A/2011, de 3 de Janeiro, foi regulamentada a aplicação do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de Setembro, alterada pela Lei n.º 119/2009, de 30 de Dezembro, pelo Decreto-Lei n.º 140-B/2010, de 30 de Dezembro, e pela Lei n.º 55-A/2010, de 31 de Dezembro.\n\nTorna-se necessária a aprovação das normas que, complementarmente, definam procedimentos e delimitem os elementos e meios de prova que permitirão a concretização daquela aplicação.\n\nAssim:\n\nAo abrigo do artigo 3.º do Decreto Regulamentar n.º 1-A/2011, de 3 de Janeiro, manda o Governo, pela Ministra do Trabalho e da Solidariedade Social, o seguinte:"
+  },
+  "965366675": {
+   "fragment_id": "965366575",
+   "type": 8,
+   "heading": "Secção I — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objecto"
+  },
+  "965366875": {
+   "fragment_id": "965366775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define os procedimentos, os elementos e os meios de prova necessários à inscrição, ao enquadramento e ao cumprimento da obrigação contributiva previstos no Decreto Regulamentar n.º 1-A/2011, de 3 de Janeiro, que aprova a regulamentação do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, adiante designado por regulamento."
+  },
+  "965367075": {
+   "fragment_id": "965366975",
+   "type": 8,
+   "heading": "Secção II — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Inscrição"
+  },
+  "965367275": {
+   "fragment_id": "965367175",
+   "type": 11,
+   "heading": "Artigo 2.º — Elementos e meios de prova necessários à inscrição no sistema previdencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Elementos e meios de prova necessários à inscrição no sistema previdencial\n\n1 - Os elementos necessários à inscrição dos trabalhadores por conta de outrem, dos trabalhadores independentes e dos beneficiários do seguro social voluntário são, designadamente, os seguintes:\n\na) Nome completo;\n\nb) Data de nascimento;\n\nc) Naturalidade;\n\nd) Nacionalidade;\n\ne) Sexo;\n\nf) Estado civil;\n\ng) Residência;\n\nh) Número de identificação de segurança social (NISS), se já estiver identificado no sistema de segurança social;\n\ni) Número dos documentos de identificação civil e fiscal.\n\n2 - Para efeitos de instrução do processo de inscrição deve ser remetida cópia dos documentos de identificação civil e fiscal."
+  },
+  "965367475": {
+   "fragment_id": "965367375",
+   "type": 8,
+   "heading": "Secção III — Regime geral dos trabalhadores por conta de outrem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Regime geral dos trabalhadores por conta de outrem"
+  },
+  "965367675": {
+   "fragment_id": "965367575",
+   "type": 11,
+   "heading": "Artigo 3.º — Elementos necessários ao enquadramento dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Elementos necessários ao enquadramento dos trabalhadores\n\n1 - Para efeitos do disposto no artigo 5.º do regulamento são ainda necessários ao enquadramento dos trabalhadores os seguintes elementos:\n\na) Data da produção de efeitos do contrato de trabalho;\n\nb) Modalidade de contrato;\n\nc) Duração dos contratos a termo certo e de muito curta duração;\n\nd) Remuneração base;\n\ne) Local do exercício da actividade.\n\n2 - Na comunicação de admissão de trabalhadores devem ainda ser incluídos os seguintes elementos referentes à entidade empregadora:\n\na) Nome e residência ou firma e sede, consoante os casos;\n\nb) NISS;\n\nc) Número de identificação fiscal (NIF)."
+  },
+  "965367875": {
+   "fragment_id": "965367775",
+   "type": 11,
+   "heading": "Artigo 4.º — Declaração do trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Declaração do trabalhador\n\n1 - A declaração do trabalhador prevista no artigo 9.º do regulamento deve conter ainda os seguintes elementos:\n\na) Data de nascimento, naturalidade e residência;\n\nb) NIF;\n\nc) Modalidade de contrato;\n\nd) Local do exercício da actividade.\n\n2 - A declaração deve ainda conter os seguintes elementos referentes à entidade empregadora:\n\na) Nome e residência ou firma e sede, consoante os casos;\n\nb) NIF."
+  },
+  "965368075": {
+   "fragment_id": "965367975",
+   "type": 11,
+   "heading": "Artigo 5.º — Elementos necessários à inscrição da entidade empregadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elementos necessários à inscrição da entidade empregadora\n\n1 - Para efeitos do disposto no artigo 34.º do Código, os elementos necessários à inscrição das entidades empregadoras são, designadamente, os seguintes:\n\na) Nome, firma e natureza jurídica;\n\nb) NIF;\n\nc) Sede, direcção efectiva, domicílio profissional ou residência, denominação e localização dos estabelecimentos, classificação da actividade da sede e dos estabelecimentos e endereço para correspondência;\n\nd) Identificação dos responsáveis pela administração ou gerência.\n\n2 - No caso de a entidade empregadora ser uma pessoa singular, são ainda necessários os seguintes elementos:\n\na) Data de nascimento;\n\nb) Naturalidade;\n\nc) Nacionalidade;\n\nd) Sexo;\n\ne) Estado civil;\n\nf) Número do documento de identificação civil."
+  },
+  "965368275": {
+   "fragment_id": "965368175",
+   "type": 11,
+   "heading": "Artigo 6.º — Elementos adicionais ao enquadramento do trabalhador do serviço doméstico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Elementos adicionais ao enquadramento do trabalhador do serviço doméstico\n\nPara efeitos do disposto nos artigos 116.º e 117.º do Código, a entidade empregadora de trabalhador de serviço doméstico deve declarar junto da instituição de segurança social competente, em formulário de modelo próprio:\n\na) Que o trabalhador exerce, com carácter de regularidade e sob a sua direcção e autoridade, mediante retribuição, a profissão de serviço doméstico;\n\nb) A inexistência das situações determinantes de exclusão de enquadramento do trabalhador."
+  },
+  "965368475": {
+   "fragment_id": "965368375",
+   "type": 8,
+   "heading": "Secção IV — Regime dos trabalhadores independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Regime dos trabalhadores independentes"
+  },
+  "965368675": {
+   "fragment_id": "965368575",
+   "type": 11,
+   "heading": "Artigo 7.º — Prova da situação de isenção da obrigação de contribuir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prova da situação de isenção da obrigação de contribuir\n\nO requerimento previsto na parte final do n.º 2 do artigo 157.º do Código é apresentado em formulário de modelo próprio e deve ser instruído com os seguintes elementos de prova:\n\na) Para efeitos do disposto na subalínea i) da alínea a), identificação da entidade empregadora e declaração sob compromisso de honra do próprio;\n\nb) Para efeitos do disposto na subalínea ii) da alínea a), documento comprovativo do respectivo enquadramento;\n\nc) Para efeitos do disposto na subalínea iii) da alínea a), declaração da entidade empregadora;\n\nd) Para efeitos do disposto na alínea b), documento comprovativo da situação de pensionista e declaração sob compromisso de honra de que cumpre o disposto na parte final da referida alínea;\n\ne) Para efeitos do disposto na alínea c), documento comprovativo da incapacidade aí prevista."
+  },
+  "965368875": {
+   "fragment_id": "965368775",
+   "type": 11,
+   "heading": "Artigo 8.º — Comunicação da fixação da base de incidência contributiva em situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comunicação da fixação da base de incidência contributiva em situações especiais\n\nPara efeitos do disposto nos n.os 1, 3 e 4 do artigo 165.º do Código, o trabalhador independente deve apresentar requerimento junto da instituição de segurança social competente."
+  },
+  "965369075": {
+   "fragment_id": "965368975",
+   "type": 8,
+   "heading": "Secção V — Regime de seguro social voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Regime de seguro social voluntário"
+  },
+  "965369275": {
+   "fragment_id": "965369175",
+   "type": 11,
+   "heading": "Artigo 9.º — Meios de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Meios de prova\n\n1 - O requerimento de adesão ao seguro social voluntário deve ser ainda instruído com os seguintes documentos:\n\na) Declaração, sob compromisso de honra, de que o requerente não se encontra abrangido por regime obrigatório de protecção social ou de que, encontrando-se, não seja o mesmo relevante;\n\nb) Certificação médica comprovativa de que o interessado se encontra apto para o trabalho.\n\n2 - A verificação do tempo de residência previsto no n.º 3 do artigo 169.º do Código é feita por troca de informação com o Serviço de Estrangeiros e Fronteiras."
+  },
+  "965369475": {
+   "fragment_id": "965369375",
+   "type": 11,
+   "heading": "Artigo 10.º — Declaração de cidadãos nacionais residentes no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Declaração de cidadãos nacionais residentes no estrangeiro\n\n1 - Os cidadãos nacionais residentes no estrangeiro devem ainda apresentar, com o requerimento, declaração relativa a uma das seguintes situações:\n\na) Não exercício de actividade profissional;\n\nb) Exercício de actividade profissional no território do Estado de residência relativamente ao qual não vigore instrumento internacional que vincule o Estado Português;\n\nc) Exercício de actividade profissional no território do Estado de residência relativamente ao qual vigore instrumento internacional que vincule o Estado Português, mas que não abranja a actividade em causa.\n\n2 - A declaração referida no número anterior deve ser autenticada pela rede consular portuguesa que abranja o interessado ou, não existindo serviços consulares, pela embaixada respectiva."
+  },
+  "965369675": {
+   "fragment_id": "965369575",
+   "type": 11,
+   "heading": "Artigo 11.º — Certificação da aptidão para o trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Certificação da aptidão para o trabalho\n\n1 - A certificação da aptidão para o trabalho dos requerentes é realizada por médicos dos serviços competentes do Serviço Nacional de Saúde.\n\n2 - Para efeitos do disposto no número anterior, são considerados serviços competentes os centros de saúde e os hospitais, com excepção dos serviços de urgência.\n\n3 - A certificação da aptidão para o trabalho dos cidadãos nacionais que residam em território estrangeiro é efectuada por declaração do médico assistente do interessado, autenticada pela rede consular portuguesa ou, não existindo serviços consulares, por instituição pública de saúde do país de residência.\n\n4 - Sempre que se suscitem dúvidas sobre a aptidão para o trabalho do requerente, deve a instituição de segurança social competente determinar a realização de exame no âmbito do sistema de verificação de incapacidades."
+  },
+  "965369875": {
+   "fragment_id": "965369775",
+   "type": 11,
+   "heading": "Artigo 12.º — Conteúdo do relatório clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conteúdo do relatório clínico\n\n1 - A certificação consta de relatório devidamente fundamentado e deve expressar, em termos inequívocos, a aptidão ou não aptidão do requerente para o trabalho.\n\n2 - Nos casos em que o requerente apresente situação clínica incapacitante, mas que não determine inaptidão para o trabalho, deve a mesma constar especificamente da certificação do médico assistente."
+  },
+  "965370075": {
+   "fragment_id": "965369975",
+   "type": 11,
+   "heading": "Artigo 13.º — Encargos com a certificação da aptidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Encargos com a certificação da aptidão\n\nAs despesas decorrentes da certificação da aptidão para o trabalho são da responsabilidade do interessado."
+  },
+  "965370275": {
+   "fragment_id": "965370175",
+   "type": 11,
+   "heading": "Artigo 14.º — Prova de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prova de actividade\n\n1 - A prova do exercício da actividade dos trabalhadores em navios de empresas estrangeiras é feita mediante a apresentação de cópia do contrato de trabalho celebrado com o armador estrangeiro devidamente autenticada.\n\n2 - Para efeitos do disposto na alínea b) do artigo 9.º é conferido idêntico valor à declaração emitida no âmbito da inspecção médica pelas capitanias dos portos como condição de autorização para embarque dos trabalhadores ao serviço de navios estrangeiros.\n\n3 - A prova da actividade dos voluntários é feita por declaração das entidades que beneficiam da mesma.\n\n4 - A prova da actividade dos bolseiros de investigação é feita por declaração comprovativa do estatuto de bolseiro emitido pela Fundação para a Ciência e Tecnologia.\n\n5 - A prova da actividade dos praticantes desportivos de alto rendimento é feita por declaração comprovativa do Instituto do Desporto."
+  },
+  "965370475": {
+   "fragment_id": "965370375",
+   "type": 8,
+   "heading": "Secção VI — Cumprimento da obrigação contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Cumprimento da obrigação contributiva"
+  },
+  "965370675": {
+   "fragment_id": "965370575",
+   "type": 11,
+   "heading": "Artigo 15.º — Requisitos do pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Requisitos do pagamento\n\n1 - No acto de pagamento de valores devidos à segurança social, com excepção dos que resultem de documentos previamente emitidos, os contribuintes devem indicar os seguintes elementos:\n\na) NISS;\n\nb) NIF;\n\nc) Ano e mês a que se refere o pagamento;\n\nd) Valor a pagar.\n\n2 - O comprovativo do pagamento a entregar ao contribuinte deve mencionar expressamente os elementos referidos no número anterior."
+  },
+  "965370875": {
+   "fragment_id": "965370775",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento por cheque",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamento por cheque\n\nOs cheques são emitidos à ordem do Instituto de Gestão Financeira da Segurança Social, I. P., e devem conter no verso os elementos constantes das alíneas a) a c) do n.º 1 do artigo anterior."
+  },
+  "965371075": {
+   "fragment_id": "965370975",
+   "type": 11,
+   "heading": "Artigo 17.º — Data de emissão dos cheques",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Data de emissão dos cheques\n\nNão são aceites cheques com data de emissão anterior em mais de um dia à data da sua entrega."
+  },
+  "965371275": {
+   "fragment_id": "965371175",
+   "type": 8,
+   "heading": "Secção VII — Regularização da dívida à segurança social e situação contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Regularização da dívida à segurança social e situação contributiva"
+  },
+  "965371475": {
+   "fragment_id": "965371375",
+   "type": 11,
+   "heading": "Artigo 18.º — Retenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Retenções\n\n1 - As entidades que procederem à retenção de valores ao abrigo do artigo 198.º do Código devem comunicar a referida retenção através de formulário próprio, no sítio da Internet da segurança social.\n\n2 - A entrega dos valores retidos deve ser efectuada no prazo de cinco dias após a retenção, por depósito em conta do Instituto de Gestão Financeira da Segurança Social, I. P., ou nas tesourarias do sistema de segurança social, indicando o código de referência de pagamento que, para o efeito, for fornecido pelo sistema de segurança social na sequência da comunicação referida no número anterior.\n\n3 - A imputação ao montante da dívida dos valores retidos é efectuada, pelo Instituto da Segurança Social, I. P., nos termos do artigo 79.º do regulamento."
+  },
+  "965371675": {
+   "fragment_id": "965371575",
+   "type": 11,
+   "heading": "Artigo 19.º — Requisitos da declaração de situação contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Requisitos da declaração de situação contributiva\n\nA declaração de situação contributiva inclui obrigatoriamente:\n\na) No caso de existência de dívida de contribuições e quotizações, que ao valor da mesma acrescem juros de mora;\n\nb) A identificação da legislação ao abrigo da qual é emitida."
+  },
+  "965371875": {
+   "fragment_id": "965371775",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência para emissão de declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competência para emissão de declarações\n\n1 - É competente para a emissão de declaração de inscrição do contribuinte:\n\na) Tratando-se de pessoa colectiva, a instituição de segurança social em cujo âmbito territorial se situe a sede ou o estabelecimento;\n\nb) Tratando-se de pessoa singular, a instituição de segurança social em cujo âmbito territorial se situe a residência.\n\n2 - Compete ao Instituto da Segurança Social, I. P., a emissão da declaração de situação contributiva dos contribuintes não residentes e sem estabelecimento estável em Portugal."
+  },
+  "965372075": {
+   "fragment_id": "965371975",
+   "type": 11,
+   "heading": "Artigo 21.º — Depósito de importâncias pagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Depósito de importâncias pagas\n\n1 - As importâncias devidas à segurança social, pagas pelos executados em processo de execução em curso nos serviços de finanças, são depositadas à ordem do Instituto de Gestão Financeira da Segurança Social, I. P.\n\n2 - As importâncias do produto da venda judicial de bens que cabem à segurança social na qualidade de credor preferente são depositadas à ordem do Instituto de Gestão Financeira da Segurança Social, I. P."
+  },
+  "965372275": {
+   "fragment_id": "965372175",
+   "type": 8,
+   "heading": "Secção VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Disposições finais"
+  },
+  "965372475": {
+   "fragment_id": "965372375",
+   "type": 11,
+   "heading": "Artigo 22.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competência\n\nAs competências atribuídas ao Instituto de Gestão Financeira da Segurança Social, I. P., ou ao Instituto da Segurança Social, I. P., é feita sem prejuízo das competências próprias das instituições de segurança social das regiões autónomas, bem como das que resultam do âmbito pessoal das caixas de previdência social."
+  },
+  "965372675": {
+   "fragment_id": "965372575",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos na data de produção de efeitos do regulamento."
+  },
+  "965372875": {
+   "fragment_id": "965372775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pela Ministra do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 2 de Fevereiro de 2011."
+  },
+  "979311241": {
+   "fragment_id": "965367575",
+   "type": 11,
+   "heading": "Artigo 3.º — Elementos necessários ao enquadramento dos trabalhadores",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 445/2025/1 - Diário da República n.º 240/2025, Série I de 2025-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/445-2025-983592814), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Elementos necessários ao enquadramento dos trabalhadores\n\n1 - Para efeitos do disposto no artigo 5.º do regulamento são ainda necessários ao enquadramento dos trabalhadores os seguintes elementos:\n\na) Data da produção de efeitos do contrato de trabalho;\n\nb) Modalidade de contrato;\n\nc) Duração dos contratos a termo certo e de muito curta duração;\n\nd) Remuneração base e outras remunerações permanentes;\n\ne) Local do exercício da actividade;\n\nf) Profissão e categoria profissional.\n\n2 - Na comunicação de admissão de trabalhadores devem ainda ser incluídos os seguintes elementos referentes à entidade empregadora:\n\na) Nome e residência ou firma e sede, consoante os casos;\n\nb) NISS;\n\nc) Número de identificação fiscal (NIF).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 445/2025/1 - Diário da República n.º 240/2025, Série I de 2025-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/445-2025-983592814), em vigor a partir de 2026-01-01"
+  },
+  "979311243": {
+   "fragment_id": "965367775",
+   "type": 11,
+   "heading": "Artigo 4.º — Declaração do trabalhador",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 445/2025/1 - Diário da República n.º 240/2025, Série I de 2025-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/445-2025-983592814), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Declaração do trabalhador\n\n1 - A declaração do trabalhador prevista no artigo 9.º do regulamento deve conter ainda os seguintes elementos:\n\na) Data de nascimento, naturalidade e residência;\n\nb) NIF;\n\nc) Modalidade de contrato;\n\nd) Local do exercício da actividade.\n\n2 - A declaração deve ainda conter os seguintes elementos referentes à entidade empregadora:\n\na) Nome e residência ou firma e sede, consoante os casos;\n\nb) NIF.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 445/2025/1 - Diário da República n.º 240/2025, Série I de 2025-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/445-2025-983592814), em vigor a partir de 2026-01-01"
+  },
+  "979311242": {
+   "fragment_id": "965367975",
+   "type": 11,
+   "heading": "Artigo 5.º — Elementos necessários à inscrição da entidade empregadora",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 445/2025/1 - Diário da República n.º 240/2025, Série I de 2025-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/445-2025-983592814), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Elementos necessários à inscrição da entidade empregadora\n\n1 - Para efeitos do disposto no artigo 34.º do Código, os elementos necessários à inscrição das entidades empregadoras são, designadamente, os seguintes:\n\na) Nome, firma e natureza jurídica;\n\nb) NIF;\n\nc) Sede, direcção efectiva, domicílio profissional ou residência, denominação e localização dos estabelecimentos, classificação da actividade da sede e dos estabelecimentos e endereço para correspondência;\n\nd) Identificação dos responsáveis pela administração ou gerência;\n\ne) Número de identificação bancária (IBAN) válido.\n\n2 - No caso de a entidade empregadora ser uma pessoa singular, são ainda necessários os seguintes elementos:\n\na) Data de nascimento;\n\nb) Naturalidade;\n\nc) Nacionalidade;\n\nd) Sexo;\n\ne) Estado civil;\n\nf) Número do documento de identificação civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 445/2025/1 - Diário da República n.º 240/2025, Série I de 2025-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/445-2025-983592814), em vigor a partir de 2026-01-01"
+  }
+ }
+}

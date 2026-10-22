@@ -1,0 +1,308 @@
+---
+schema_version: '1.0'
+id: pt:dre:667118:por
+title: Decreto-Lei n.º 142/2003
+short_title: null
+summary: Transpõe para a ordem jurídica nacional as Directivas n.os 2002/36/CE e 2003/22/CE, da Comissão, respectivamente
+  de 29 de Abril e de 24 de Março, relativas às medidas de protecção fitossanitária destinadas a evitar a introdução e dispersão
+  de organismos prejudiciais aos vegetais e produtos vegetais na Comunidade, e 2003/21/CE, da Comissão, de 24 de Março, que
+  reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos, e altera o Decreto-Lei n.º 14/99,
+  de 12 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 142/2003
+official_date: null
+publication_date: '2003-07-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/2003, Série I-A de 2003-07-02
+  number: '150'
+  series: I
+  supplement: null
+  pages: 3794 - 3803
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/142/2003/07/02/p/dre/pt/html
+  oj: null
+  dre: '667118'
+  dre_path: /dr/detalhe/decreto-lei/142-2003-667118
+  internal: pt:dre:667118:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2003-667118
+  metadata_url: https://data.dre.pt/eli/dec-lei/142/2003/07/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2003-667118
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-09-06T00:00:00Z'
+integrity:
+  source_sha256: 98fe932dd1b8487b9150768641f231189392e58a063bf680a39df6ffc6cfd7cc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-142-667118.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- CE Países
+- Certificado Fitossanitário
+- Doença Vegetal
+- Controlo Sanitário
+- Floricultura
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Produção Vegetal
+- Produto Agrícola
+- Vegetais
+relationships:
+- type: amended_by
+  target: pt:dre:141854:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32000L0029
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/29/oj
+- type: cites
+  target: celex:32001L0032
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/32/oj
+- type: cites
+  target: celex:32002L0036
+  label: null
+  source: http://data.europa.eu/eli/dir/2002/36/oj
+- type: cites
+  target: celex:32003L0021
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/21/oj
+- type: cites
+  target: celex:32003L0022
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/22/oj
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 142/2003
+
+de 2 de Julho
+
+A Directiva n.º [2000/29/CE](https://data.europa.eu/eli/dir/2000/29/oj?locale=pt), do Conselho, de 8 de Maio, relativa às medidas de protecção fitossanitária destinadas a evitar a introdução e dispersão de organismos prejudiciais aos vegetais e produtos vegetais na Comunidade, não necessitou de ser transposta para a ordem jurídica interna por se tratar de uma directiva de consolidação, sendo que o direito que esta directiva codificou já se encontrava transposto para o direito nacional pelo Decreto-Lei n.º 14/99, de 12 de Janeiro, republicado pelo Decreto-Lei n.º 517/99, de 4 de Dezembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 63/2000, de 19 de Abril.
+
+Por força da aprovação de outras directivas comunitárias, o citado decreto-lei foi alterado pelos Decretos-Leis n.os 160/2000, 269/2001 e 172/2002, respectivamente de 27 de Julho, de 6 Outubro e de 25 de Julho.
+
+A aprovação da Directiva n.º [2002/36/CE](https://data.europa.eu/eli/dir/2002/36/oj?locale=pt), da Comissão, de 29 de Abril, que altera a Directiva n.º [2000/29/CE](https://data.europa.eu/eli/dir/2000/29/oj?locale=pt), do Conselho, de 8 de Maio, relativa às medidas de protecção fitossanitária destinadas a evitar a introdução e dispersão de organismos prejudiciais aos vegetais e produtos vegetais na Comunidade, implica que sejam alterados os anexos I, II, IV e V do referido Decreto-Lei n.º 14/99, de 12 de Janeiro.
+
+Por outro lado, a aprovação da Directiva n.º [2003/21/CE](https://data.europa.eu/eli/dir/2003/21/oj?locale=pt), da Comissão, de 24 de Março, que altera a Directiva n.º [2001/32/CE](https://data.europa.eu/eli/dir/2001/32/oj?locale=pt), da Comissão, de 8 de Maio, que reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos, vem introduzir alterações no estatuto fitossanitário destas zonas protegidas, razão pela qual se torna, também, necessário harmonizar o anexo VI do citado Decreto-Lei n.º 14/99, de 12 de Janeiro, com o disposto nesta directiva.
+
+Como consequência das alterações introduzidas ao estatuto fitossanitário, foi, igualmente, aprovada a Directiva n.º [2003/22/CE](https://data.europa.eu/eli/dir/2003/22/oj?locale=pt), da Comissão, de 24 de Março, que altera a citada Directiva n.º [2000/29/CE](https://data.europa.eu/eli/dir/2000/29/oj?locale=pt), do Conselho, de 8 de Maio, o que implica que sejam alterados os anexos I, II, III, IV e V do referido Decreto-Lei n.º 14/99, de 12 de Janeiro.
+
+Deste modo, procede-se à transposição das citadas directivas, introduzindo-se alterações aos referidos anexos do Decreto-Lei n.º 14/99, de 12 de Janeiro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma transpõe para a ordem jurídica interna as Directivas n.os [2002/36/CE](https://data.europa.eu/eli/dir/2002/36/oj?locale=pt) e [2003/22/CE](https://data.europa.eu/eli/dir/2003/22/oj?locale=pt), da Comissão, respectivamente de 29 de Abril e de 24 de Março, relativas às medidas de protecção fitossanitária destinadas a evitar a introdução e dispersão de organismos prejudiciais aos vegetais e produtos vegetais na Comunidade, e [2003/21/CE](https://data.europa.eu/eli/dir/2003/21/oj?locale=pt), da Comissão, de 24 de Março, que reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos.
+
+###### Artigo 2.º — Alterações ao Decreto-Lei n.º 14/99, de 12 de Janeiro
+
+Os anexos I, II, III, IV, V e VI do Decreto-Lei n.º 14/99, de 12 de Janeiro, republicado pelo Decreto-Lei n.º 517/99, de 4 de Dezembro, na redacção que lhe foi dada pelos Decretos-Leis n.os 63/2000, 160/2000, 269/2001 e 172/2002, respectivamente de 19 de Abril, de 27 de Julho, de 6 de Outubro e de 25 de Julho, são alterados nos termos do anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Maio de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Armando José Cordeiro Sevinate Pinto.
+
+**Promulgado em 13 de Junho de 2003, na ilha das Flores, Açores.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 18 de Junho de 2003.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**
+
+## ANEXO — (a que se refere o artigo 2.º)
+
+1 - Ao anexo I, parte A, secção I, alínea a), são aditados os n.os 4.1 e 16.1, respectivamente, com a seguinte redacção:
+
+«4.1 - Anoplophora glabripennis (Motschulsky).
+
+16.1 - Naupactus leucoloma Boheman.»
+
+2 - No anexo I, parte A, secção II, alínea a), são suprimidos os n.os 4, 5 e 6.
+
+3 - Ao anexo I, parte B, alínea a), é aditado o n.º 3, com a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+4 - No anexo I, parte B, alínea b), n.º 1, e no anexo IV, parte B, n.os 20.1, 23, 27.1 e 27.2, as respectivas colunas da direita passam a ter, respectivamente, a seguinte redacção:
+
+«DK, F (Bretanha), FIN, IRL, P (Açores), Suécia (excepto as comunas de Bromölla, Hässleholm, Krinstianstad e Östra Göinge, no län de Skåne, UK (Irlanda do Norte).»
+
+5 - No anexo II, parte A, secção I, alínea c), é aditado o n.º 1.1, com a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+6 - Ao anexo II, parte A, secção II, alínea a), são aditados os n.os 8 e 9, respectivamente, com a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+7 - No anexo II, parte B, alínea a), n.º 5, e no anexo IV, parte B, n.º 19, as respectivas colunas da direita passam a ter, respectivamente, a seguinte redacção:
+
+«EL, P (Açores).»
+
+8 - No anexo II, parte B, alínea b), n.º 2, no anexo III, parte B, n.º 1, e no anexo IV, parte B, n.º 21, as respectivas colunas da direita passam a ter, respectivamente, a seguinte redacção:
+
+«E, F (Córsega), IRL, I (Abruzo; Apúlia; Basilicata; Calábria; Campânia; Emília-Romanha: províncias de Forlí-Cesena, Parma, Piacenza e Rimini; Friul-Venécia Júlia; Lácio; Ligúria; Lombardia; Marcas; Molise; Piemonte; Sardenha; Sicília; Toscânia; Trentino-Alto Adige: províncias autónomas de Bolzano e Trento; Úmbria, Vale de Aosta; Veneto: excepto as comunas de Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba e Salara, na província de Rovigo; na província de Pádua, as comunas de Castelbaldo, Barbona, Piacenza d'Agide, Vescovana, S. Urbano, Boara Pisani, Masi; na província de Verona, as comunas de Palù, Roverchiara, Legnago, Castagnaro, Ronco all'Adige, Villa Bartolomea, Oppeanno, Terrazzo, Isola Rizzi, Angiari), A [Burgenland, Caríntia, Baixa Áustria, Tirol (Verwaltungsbezirk Lienz), Estíria, Viena], P, FIN, UK (Irlanda do Norte, ilha de Man e ilhas anglo-normandas).»
+
+9 - Ao anexo IV, parte A, secção I, é aditado o n.º 11.3, com a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+10 - No anexo IV, parte A, secção I, os n.os 32.1, 32.2, 32.3, 34, 36.1, 36.2, 40, 46, 53 e 54 passam a ter, respectivamente, a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+11 - No anexo IV, parte A, secção I, o n.º 45.1 é substituído pelo n.º 45.3 mantendo a mesma redacção.
+
+12 - No anexo IV, parte A, secção I, o n.º 45 é substituído pelos n.os 45.1 e 45.2, passando a ter, respectivamente, a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+13 - No anexo IV, parte A, secção II, o n.º 24 passa a ter a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+14 - No anexo IV, parte B, os n.os 20.2 e 22 passam a ter, respectivamente, a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+15 - No anexo IV, parte B, o n.º 24 é substituído pelos n.os 24.1, 24.2 e 24.3, que passam a ter, respectivamente, a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+16 - No anexo IV, parte B, é suprimido o n.º 25.1 e o n.º 25.2 é substituído pelo n.º 25, com a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+17 - No anexo IV, parte B, os n.os 26 e 30 passam a ter, respectivamente, a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+18 - No anexo V, parte A, secção I, o n.º 2.1 passa a ter a seguinte redacção:
+
+«2.1 - Vegetais destinados à plantação, excepto sementes, dos géneros: Abies Mill., Apium graveolens L., Argyranthemum spp., Aster spp., Brassica spp., Castanea Mill., Cucumis spp., Dendranthema (DC) Des. Moul., Dianthus L. e híbridos, Exacum spp., Fragaria L., Gerbera Cass., Gypsophila L., todas as variedades de híbridos da Nova Guiné de Impatiens L., Lactuca spp., Larix Mill., Leucanthemum L., Lupinus L., Pelargonium L'Hérit ex Ait., Picea A. Dietr., Pinus L., Platanus L., Populus L., Prunus laurocenasus L., Prunus lusitanica L., Pseudotsuga Carr. Quercus L., Rubus L., Spinacia L., Tanacetum L., Tsuga Carr., e Verbena L. e outros vegetais de espécies herbáceas, excepto da família Gramineae, destinados à plantação, excepto bolbos, rizomas, sementes e tubérculos.»
+
+19 - No anexo V, parte A, secção II, os n.os 1.6, 1.7 e 2.1 passam a ter, respectivamente, a seguinte redacção:
+
+«1.6 - Vegetais de Beta vulgaris L. para transformação industrial.
+
+1.7 - Solo de beterraba e resíduos não esterilizados de beterraba (Beta vulgaris L.).
+
+2.1 - Vegetais de Begonia L., destinados à plantação, excepto estolhos, rizomas, sementes e tubérculos, e vegetais de Euphorbia pulcherrima Willd., Ficus L. e Hibiscus L., destinados à plantação, excepto sementes.»
+
+20 - No anexo V, parte B, secção I, os n.os 1 e 8 passam a ter, respectivamente, a seguinte redacção:
+
+«1 - Vegetais destinados à plantação, excepto sementes, mas incluindo sementes de Cruciferae, Gramimeae, Trifolium spp., originárias da Argentina, Austrália, Bolívia, Chile, Nova Zelândia e Uruguai, dos géneros Triticum, Secale e X Triticosecale, originárias do Afeganistão, Índia, Iraque, México, Nepal, Paquistão, África do Sul e EUA, Capsicum spp., Helianthus annuus L., Lycopersicon lycopersicum (L.) Karsten ex Farw., Medicago sativa L., Prunus L., Rubus L., Oryza spp., Zea Mays L., Allium ascalonicum L., Allium cepa L., Allium porrum L., Allium schoenoprasum L. e Phaeolus L.
+
+8 - Grão dos géneros Triticum, Secale e X Triticosecale, originário do Afeganistão, Índia, Iraque, México, Nepal, Paquistão, África do Sul e EUA.»
+
+21 - No anexo V, parte B, secção I, os n.os 2, 3 e 7 passam a ter, respectivamente, a seguinte redacção:
+
+«2 - Partes de vegetais, excepto frutos e sementes, de:
+
+Castanea Mill., Dendranthema (DC) Des. Moul., Dianthus L., Gypsophila L., Pelargonium L'Herit ex Ait., Phoenix spp., Populus L. e Quercus L., Solidago L. e flores cortadas de Orchidaceae;
+
+Coníferas (Coniferales);
+
+Acer saccharum Marsh., originárias de países da América do Norte;
+
+Prunus L., originárias de países não europeus;
+
+Flores cortadas de Aster spp., Eryngium L., Hypericum L., Lisianthus L., Rosa L. e Trachelium L., originárias de países não europeus;
+
+Produtos hortícolas de folhas de Apium graveolens L. e Ocimum L.
+
+3 - Frutos de:
+
+Citrus L., Fortunella Swingle, Poncirus Raf. e seus híbridos, Momordica L. e Solanum melongena L.;
+
+Annona L., Cydonia Mill., Diospirus L., Malus Mill., Mangifera L., Passiflora L., Prunus L., Psidium L., Pyrus L., Ribes L., Syzygium Gaertn. e Vaccinium L., originários de países não europeus.
+
+7 - a) Solo e substrato de cultura constituído no todo ou em parte por solo ou substâncias orgânicas sólidas, tais como partes de vegetais, húmus, incluindo turfa ou casca, excepto os constituídos inteiramente por turfa.
+
+b) Solo e meio de cultura, agregados ou associados a vegetais, que consistam, na totalidade ou em parte, em material especificado na alínea a) ou que consistam em parte em qualquer substância inorgânica sólida destinada a manter a vitalidade dos vegetais, originários de:
+
+Chipre, Malta, Turquia;
+
+Bielorrússia, Estónia, Geórgia, Letónia, Lituânia, Moldávia, Rússia, Ucrânia;
+
+Países não europeus, excepto Argélia, Egipto, Israel, Líbia, Marrocos, Tunísia.»
+
+22 - No anexo V, parte B, secção II, os n.os 1 e 2 passam a ter, respectivamente, a seguinte redacção:
+
+«1 - Vegetais de Beta vulgaris L., para transformação industrial.
+
+2 - Solo de beterraba e resíduos não esterilizados de beterraba (Beta vulgaris L.).»
+
+23 - No anexo VI, alínea a), o n.º 7 passa a ter seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+24 - No anexo VI, alínea a), é aditado o n.º 14, com a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+25 - No anexo VI, alínea b), o n.º 2 passa a ter seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+26 - No anexo VI, alínea d), o n.º 1 passa a ter seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/150a00/37943803.pdf)
+
+27 - No anexo VI, a nota de rodapé passa a ter a seguinte redacção:
+
+«(1) (2) Zona protegida reconhecida até 31 de Março de 2004.»

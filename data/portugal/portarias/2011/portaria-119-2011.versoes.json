@@ -1,0 +1,409 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:277612:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-107794292",
+ "dre_path": "/dr/detalhe/portaria/119-2011-277612",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-03-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107794213",
+    "107794214",
+    "107794215",
+    "107794216",
+    "107794217",
+    "107794218",
+    "107794219",
+    "107794220",
+    "107794221",
+    "107794222",
+    "107794223",
+    "107794224",
+    "107794225",
+    "107794226",
+    "107794227"
+   ]
+  },
+  {
+   "date": "2016-08-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75079789:por",
+     "title": "Portaria n.º 210/2016",
+     "published": "2016-08-02",
+     "dre_path": "/dr/detalhe/portaria/210-2016-75079789"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "107794213",
+    "107794214",
+    "107794215",
+    "107794216",
+    "107794266",
+    "107794267",
+    "107794273",
+    "107794268",
+    "107794269",
+    "107794222",
+    "107794270",
+    "107794271",
+    "107794272",
+    "107794226",
+    "107794227"
+   ]
+  },
+  {
+   "date": "2017-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107791616:por",
+     "title": "Portaria n.º 243/2017",
+     "published": "2017-08-01",
+     "dre_path": "/dr/detalhe/portaria/243-2017-107791616"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "107794213",
+    "107794214",
+    "107794215",
+    "107794216",
+    "107794266",
+    "107794274",
+    "107797482",
+    "107797475",
+    "107797476",
+    "107797477",
+    "107794270",
+    "107797478",
+    "107797479",
+    "107797480",
+    "107797481"
+   ]
+  }
+ ],
+ "fragments": {
+  "107794213": {
+   "fragment_id": "107794293",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 119/2011\n\nde 29 de Março\n\nO Decreto-Lei n.º 14/2011, de 25 de Janeiro, que criou o Fundo de Modernização de Justiça, dispõe no seu artigo 9.º que o Regulamento do Fundo é aprovado por portaria do membro do governo responsável pela área da justiça e que o mesmo deve estabelecer o objecto do regime de financiamento, os procedimentos de apresentação e decisão das candidaturas e as regras relativas à afectação dos recursos financeiros.\n\nO presente Regulamento visa garantir o rigor na aplicação dos recursos financeiros disponíveis no Fundo, consagrando uma via simplificadora na apresentação de candidaturas e de concessão de financiamentos.\n\nPretende também garantir a flexibilidade desejável na aplicação do Fundo, tendo em conta a sua dupla natureza, de nova e importante fonte de financiamento da justiça e de potenciador e facilitador dos projectos de modernização do sector.\n\nEsta flexibilidade é assegurada através da publicação de avisos que em função dos recursos disponíveis permitirão canalizar os meios disponíveis para os projectos considerados prioritários.\n\nCom o objectivo de maximizar a contribuição do Fundo para o equilíbrio financeiro do Ministério da Justiça, confere-se maior importância à avaliação ao impacto financeiro dos projectos, seja na redução da despesa seja no aumento da receita. Valoriza-se também, fortemente, a contribuição dos projectos para a qualidade do serviço prestado pela justiça.\n\nAssim:\n\nAo abrigo do disposto no artigo 9.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro, manda o Governo, pelo Ministro da Justiça, o seguinte:"
+  },
+  "107794214": {
+   "fragment_id": "107794294",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\nÉ aprovado, em anexo à presente portaria e dela fazendo parte integrante, o Regulamento do Fundo para a Modernização da Justiça."
+  },
+  "107794215": {
+   "fragment_id": "107794295",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107794216": {
+   "fragment_id": "107794296",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO FUNDO PARA A MODERNIZAÇÃO DA JUSTIÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO FUNDO PARA A MODERNIZAÇÃO DA JUSTIÇA"
+  },
+  "107794217": {
+   "fragment_id": "107794297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento aprova as regras que regulam a gestão do Fundo para a Modernização da Justiça, adiante designado por Fundo.\n\n2 - O Fundo tem por objectivo o financiamento de projectos tendentes a assegurar a modernização judiciária."
+  },
+  "107794218": {
+   "fragment_id": "107794298",
+   "type": 11,
+   "heading": "Artigo 2.º — Administração e gestão do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Administração e gestão do Fundo\n\n1 - A administração e gestão do Fundo compete ao Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P., doravante designado por IGFIJ, através do seu conselho directivo, no prosseguimento das orientações estratégicas aprovadas pelo Ministro da Justiça, nos termos do artigo 7.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro.\n\n2 - No exercício das competências de administração e gestão, cabe ao conselho directivo do IGFIJ:\n\na) Aprovar até ao dia 31 de Dezembro do ano civil anterior o plano anual de actividades, no qual devem constar as medidas a financiar enquadradas nas finalidades previstas no artigo 4.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro;\n\nb) Aprovar o relatório de execução anual até ao dia 1 de Março do ano seguinte, no qual conste a execução material e financeira dos apoios concedidos;\n\nc) Apresentar ao Ministro da Justiça, até ao dia 31 de Outubro do ano civil anterior, as propostas de orientação estratégicas de aplicação do Fundo;\n\nd) Aprovar relatórios trimestrais de gestão do Fundo.\n\n3 - O conselho directivo do IGFIJ pode delegar competências de gestão do Fundo em dirigentes de unidades orgânicas daquele Instituto desde que essa delegação não implique aumento de despesa.\n\n4 - A contabilidade e execução orçamental do Fundo são registadas em rubricas económicas pertencentes a uma actividade própria no orçamento do IGFIJ."
+  },
+  "107794219": {
+   "fragment_id": "107794299",
+   "type": 11,
+   "heading": "Artigo 3.º — Afectação dos recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Afectação dos recursos financeiros\n\n1 - O financiamento total atribuído em cada ano, relativamente às finalidades previstas no artigo 4.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro, tem os seguintes limites:\n\na) As alíneas a), b) e c) não podem exceder individualmente 60 % do montante disponível;\n\nb) As alíneas d) e e) não podem exceder individualmente 20 % do montante disponível.\n\n2 - Cabe ao conselho directivo do IGFIJ deliberar anualmente a afectação financeira, no quadro do plano anual de actividades do Fundo."
+  },
+  "107794220": {
+   "fragment_id": "107794300",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nSão potenciais beneficiários do Fundo os serviços, organismos, órgãos consultivos e demais estruturas do Ministério da Justiça, nomeadamente:\n\na) Direcção-Geral de Política da Justiça;\n\nb) Instituto de Tecnologias e Informática da Justiça, I. P.;\n\nc) Secretaria-Geral do Ministério da Justiça;\n\nd) Inspecção-Geral dos Serviços da Justiça;\n\ne) Direcção-Geral da Administração da Justiça;\n\nf) Centro de Estudos Judiciários;\n\ng) Instituto de Registos e do Notariado, I. P.;\n\nh) Polícia Judiciária;\n\ni) Direcção-Geral dos Serviços Prisionais;\n\nj) Direcção-Geral de Reinserção Social;\n\nk) Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.;\n\nl) Instituto Nacional de Medicina Legal, I. P.;\n\nm) Instituto Nacional da Propriedade Industrial, I. P."
+  },
+  "107794221": {
+   "fragment_id": "107794301",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - A abertura das candidaturas é divulgada no sítio electrónico do IGFIJ.\n\n2 - No aviso de abertura de candidaturas constam obrigatoriamente:\n\na) O prazo para apresentação de candidaturas;\n\nb) As finalidades abrangidas, de acordo com o artigo 5.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro;\n\nc) O montante total disponível para financiamento;\n\nd) As regras e os critérios de decisão, bem como a ponderação de cada critério;\n\ne) A calendarização do processo de decisão.\n\n3 - As candidaturas são apresentadas através de um formulário disponibilizado no sítio electrónico do IGFIJ.\n\n4 - Do formulário constam, entre outros elementos:\n\na) Identificação do serviço/organismo proponente ou serviços/organismos proponentes em caso de candidatura conjunta;\n\nb) Descrição do projecto;\n\nc) Enquadramento do projecto nas finalidades do Fundo;\n\nd) Programação financeira, física e temporal, por classificação económica;\n\ne) Descrição dos benefícios decorrentes da realização do projecto, incluindo indicadores e metas quantificadas relativas a redução da despesa e ou aumento da receita;\n\nf) Contribuição do projecto para os objectivos definidos no QUAR do serviço proponente."
+  },
+  "107794222": {
+   "fragment_id": "107794302",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de admissão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de admissão das candidaturas\n\nSão aceites para análise as candidaturas apresentadas por serviços e organismos previstos no artigo 4.º deste Regulamento que respeitem os prazos indicados no aviso de abertura e que contenham os elementos obrigatórios previstos no formulário."
+  },
+  "107794223": {
+   "fragment_id": "107794303",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis\n\n1 - São elegíveis as despesas de capital, de pessoal e de aquisição de bens ou serviços que se destinem à execução das candidaturas aprovadas e que constem do orçamento de funcionamento ou do orçamento PIDDAC do serviço proponente.\n\n2 - As despesas que não cumpram os requisitos do número anterior são liminarmente excluídas."
+  },
+  "107794224": {
+   "fragment_id": "107794304",
+   "type": 11,
+   "heading": "Artigo 8.º — Processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Processo de decisão\n\n1 - No decorrer da verificação e análise das candidaturas, pode o IGFIJ solicitar ao serviço proponente esclarecimentos adicionais, podendo ser aceites correcções aos elementos indicados no formulário de candidatura.\n\n2 - A decisão sobre as candidaturas aprovadas tem como critérios de decisão os constantes do aviso, que devem referir, entre outros, os indicadores de análise custo/benefício, de retorno do investimento e de melhoria da qualidade de serviço ao cidadão, com peso combinado nunca inferior a 70 %.\n\n3 - O IGFIJ emite decisão e notifica o serviço proponente, no prazo indicado no aviso de abertura, após a sua homologação pelo membro do Governo responsável pela área da justiça.\n\n4 - A decisão favorável de financiamento é formalizada através de contrato."
+  },
+  "107794225": {
+   "fragment_id": "107794305",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamentos\n\n1 - Os pedidos de pagamento são submetidos pelos serviços ao IGFIJ, através de formulário disponível no sítio electrónico, acompanhados dos respectivos documentos de suporte.\n\n2 - Os pagamentos são efectuados a título de reembolso, contra cópia da factura ou documento equivalente e comprovativo de pagamento, ou a título de adiantamento, contra cópia da factura ou documento equivalente.\n\n3 - No caso de pagamento contra adiantamento, o comprovativo de pagamento é enviado posteriormente ao IGFIJ.\n\n4 - Os pagamentos referidos no n.º 2 são efectuados através de classificações económicas de transferência."
+  },
+  "107794226": {
+   "fragment_id": "107794306",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acompanhamento e controlo\n\n1 - O IGFIJ assegura o controlo da execução física e financeira das candidaturas aprovadas, nomeadamente:\n\na) A realização das acções e o cumprimento dos respectivos objectivos, conforme aprovado;\n\nb) O cumprimento da programação física, financeira e temporal.\n\n2 - Qualquer alteração às programações física, financeira ou temporal aprovada carece de aprovação prévia do IGFIJ."
+  },
+  "107794227": {
+   "fragment_id": "107794307",
+   "type": 11,
+   "heading": "Artigo 11.º — Incumprimento do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Incumprimento do contrato\n\n1 - Sem prejuízo de qualquer penalidade estabelecida no contrato, este pode ser objecto de resolução desde que se verifique o não cumprimento, por facto imputável ao serviço beneficiário, dos objectivos e obrigações nele estabelecidos, incluindo os prazos relativos ao início e conclusão do projecto.\n\n2 - A resolução do contrato implica a devolução dos valores recebidos, no prazo de 30 dias a contar da data da notificação.\n\nO Ministro da Justiça, Alberto de Sousa Martins, em 22 de Março de 2011."
+  },
+  "107794266": {
+   "fragment_id": "107794297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento aprova as regras que regulam a gestão do Fundo para a Modernização da Justiça, adiante designado por Fundo.\n\n2 - O Fundo tem por objetivo o financiamento ou o cofinanciamento de projetos tendentes a assegurar a modernização judiciária.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107794267": {
+   "fragment_id": "107794298",
+   "type": 11,
+   "heading": "Artigo 2.º — Administração e gestão do Fundo",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 2.º — Administração e gestão do Fundo\n\n1 - A administração e gestão do Fundo compete ao Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P., doravante designado por IGFIJ, através do seu conselho directivo, no prosseguimento das orientações estratégicas aprovadas pelo Ministro da Justiça, nos termos do artigo 7.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro.\n\n2 - No exercício das competências de administração e gestão, cabe ao conselho directivo do IGFIJ:\n\na) Aprovar, até ao dia 31 de dezembro do ano civil anterior a que respeita, o plano anual de atividades do Fundo;\n\nb) Aprovar, até ao dia 15 de abril do ano seguinte ao que respeita, o relatório de execução anual no qual conste a descrição da execução material e financeira dos apoios concedidos;\n\nc) Apresentar ao membro do Governo responsável pela área da justiça, até ao dia 31 de outubro do ano civil anterior a que respeitem, as propostas de orientação estratégicas de aplicação do Fundo, nas quais devem constar as medidas a financiar, enquadradas nas finalidades previstas no artigo 4.º do Decreto-Lei n.º 14/2011, de 25 de janeiro, bem como a respetiva afetação financeira;\n\nd) Aprovar relatórios trimestrais de gestão do Fundo.\n\n3 - O conselho directivo do IGFIJ pode delegar competências de gestão do Fundo em dirigentes de unidades orgânicas daquele Instituto desde que essa delegação não implique aumento de despesa.\n\n4 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107794273": {
+   "fragment_id": "107794299",
+   "type": 11,
+   "heading": "Artigo 3.º — Afectação dos recursos financeiros",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 3.º — Afectação dos recursos financeiros\n\n1 - O financiamento total atribuído em cada ano, relativamente às finalidades previstas no artigo 4.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro, tem os seguintes limites:\n\na) As alíneas a), b) e c) não podem exceder individualmente 60 % do montante disponível;\n\nb) As alíneas d) e e) não podem exceder individualmente 20 % do montante disponível.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107794268": {
+   "fragment_id": "107794300",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nSão potenciais beneficiários do Fundo os serviços, organismos, órgãos consultivos e demais estruturas do Ministério da Justiça, nomeadamente:\n\na) Direcção-Geral de Política da Justiça;\n\nb) Secretaria-Geral do Ministério da Justiça;\n\nc) Inspecção-Geral dos Serviços da Justiça;\n\nd) Direcção-Geral da Administração da Justiça;\n\ne) Centro de Estudos Judiciários;\n\nf) Instituto de Registos e do Notariado, I. P.;\n\ng) Polícia Judiciária;\n\nh) Direção-Geral de Reinserção e Serviços Prisionais;\n\ni) Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.;\n\nj) Instituto Nacional de Medicina Legal e Ciências Forenses;\n\nk) Instituto Nacional da Propriedade Industrial, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107794269": {
+   "fragment_id": "107794301",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - A abertura das candidaturas é divulgada no sítio electrónico do IGFIJ.\n\n2 - No aviso de abertura de candidaturas constam obrigatoriamente:\n\na) O prazo para apresentação de candidaturas;\n\nb) As finalidades abrangidas, de acordo com o artigo 5.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro;\n\nc) O montante total disponível para financiamento;\n\nd) As regras e os critérios de decisão, bem como a ponderação de cada critério;\n\ne) A calendarização do processo de decisão.\n\nf) A percentagem de financiamento a conceder, que pode ser até 100 % da despesa elegível.\n\n3 - As candidaturas são apresentadas através de um formulário disponibilizado no sítio electrónico do IGFIJ.\n\n4 - Do formulário constam, entre outros elementos:\n\na) Identificação do serviço/organismo proponente ou serviços/organismos proponentes em caso de candidatura conjunta;\n\nb) Descrição do projeto e seus objetivos;\n\nc) Enquadramento do projecto nas finalidades do Fundo;\n\nd) Programação financeira, física e temporal, por classificação económica;\n\ne) Descrição dos benefícios decorrentes da realização do projeto, incluindo os indicadores e metas quantificadas que, na perspetiva do beneficiário, sintetizam os resultados que se pretendem atingir com a realização do projeto;\n\nf) Contribuição do projeto para o cumprimento dos objetivos do programa de modernização da Justiça e dos objetivos definidos no Quadro de Avaliação e Responsabilização (QUAR) do serviço proponente;\n\ng) Declaração de compromisso de honra do dirigente do organismo beneficiário, de execução do financiamento conforme respetiva candidatura.\n\n5 - A publicitação do aviso de abertura prevista no n.º 1 e a disponibilização do formulário para as candidaturas prevista no n.º 3 podem ser divulgadas ainda noutro sítio eletrónico que se considere adequado para o efeito.\n\n6 - O Fundo pode assegurar a contrapartida nacional em projetos cofinanciados por outros fundos de financiamento.\n\n7 - Não se aplica o disposto no n.º 4, nos seguintes casos:\n\na) Projetos cofinanciados por outros fundos de financiamento sendo obrigatória a apresentação de cópia da candidatura submetida àquele fundo, em formato eletrónico;\n\nb) Provas de conceito e/ou projetos-piloto inseridos nos objetivos de modernização da Justiça, desde que aprovados pelo membro do Governo responsável pela área da justiça.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107794270": {
+   "fragment_id": "107794303",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas elegíveis",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis\n\n1 - São elegíveis as despesas de capital, de pessoal e de aquisição de bens ou serviços que se destinem à execução das candidaturas aprovadas, com exceção das inerentes à aquisição de terrenos e edifícios, bem como ao seu arrendamento, à constituição de quaisquer outros direitos de gozo sobre os mesmos e à liquidação de rendas de locação financeira e arrendamento.\n\n2 - As despesas que não cumpram os requisitos do número anterior são liminarmente excluídas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107794271": {
+   "fragment_id": "107794304",
+   "type": 11,
+   "heading": "Artigo 8.º — Processo de decisão e contrato de financiamento",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 8.º — Processo de decisão e contrato de financiamento\n\n1 - No decorrer da verificação e análise das candidaturas, pode o IGFIJ solicitar ao serviço proponente esclarecimentos adicionais, podendo ser aceites correcções aos elementos indicados no formulário de candidatura.\n\n2 - A decisão sobre as candidaturas a aprovar tem como critérios de decisão os constantes do aviso de abertura..\n\n3 - O IGFIJ emite decisão e notifica o serviço proponente, no prazo indicado no aviso de abertura, após a sua homologação pelo membro do Governo responsável pela área da justiça.\n\n4 - A decisão favorável de financiamento é formalizada através de contrato.\n\n5 - As condições de atribuição e suspensão do financiamento pelo Fundo, bem como os demais direitos e deveres das partes, constituem objeto de contrato de financiamento.\n\n6 - Para efeitos de celebração do contrato de financiamento devem ser apresentados, no prazo máximo de 20 dias úteis, a contar da data da notificação da respetiva aprovação, os documentos indicados no aviso de abertura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107794272": {
+   "fragment_id": "107794305",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamentos",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 9.º — Pagamentos\n\n1 - Os pedidos de pagamento são submetidos pela entidade beneficiária ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., através de formulário disponível no sítio eletrónico, acompanhados dos respetivos documentos de suporte.\n\n2 - O pagamento do financiamento ou cofinanciamento atribuído às candidaturas aprovadas é processado de acordo com as seguintes modalidades:\n\na) Pagamento a título de adiantamento sem apresentação de comprovativo de despesa, o qual deve ser apresentado após assinatura do contrato, não podendo exceder 50 % do financiamento aprovado, ou o montante previsto, em sede de candidatura, para o primeiro ano económico;\n\nb) Pagamento a título de adiantamento, contra cópia validada de fatura ou documento equivalente;\n\nc) Pagamento a título de reembolso, contra cópia validada da fatura ou documento equivalente e comprovativo de pagamento.\n\n3 - No caso de pagamento a título de adiantamento, previsto na alínea a) do número anterior, a entidade beneficiária deve apresentar, no prazo máximo de 180 dias seguidos, a partir do dia seguinte ao do pagamento efetivo do adiantamento, os respetivos documentos comprovativos de despesa e de pagamento.\n\n4 - No caso de pagamento a título de adiantamento, previsto na alínea b) do n.º 2, a entidade beneficiária deve remeter o comprovativo de pagamento no prazo máximo de 20 dias úteis, contados a partir do dia seguinte ao do pagamento efetivo do adiantamento.\n\n5 - Não são efetuados quaisquer pagamentos subsequentes à candidatura em causa, nem a outras candidaturas aprovadas, da responsabilidade do beneficiário, sem que, nos prazos estabelecidos nos números anteriores, tenham sido apresentados os correspondentes comprovativos de pagamento.\n\n6 - O pagamento dos últimos 5 % do financiamento da candidatura deve ser efetuado a título de reembolso, após análise e aprovação do relatório final de execução da candidatura.\n\n7 - O pagamento referido no número anterior deve ser solicitado ao Fundo no prazo máximo de 90 dias seguidos, após a data de conclusão do projeto, considerando, para este efeito, a última fatura imputável ao projeto.\n\n8 - Os pagamentos referidos no n.º 2 são efectuados através de classificações económicas de transferência.\n\n9 - O Fundo pode assegurar a contrapartida nacional em projetos cofinanciados por outros fundos de financiamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107794274": {
+   "fragment_id": "107794298",
+   "type": 11,
+   "heading": "Artigo 2.º — Administração e gestão do Fundo",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 2.º — Administração e gestão do Fundo\n\n1 - A administração e gestão do Fundo compete ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., doravante designado por IGFEJ, I. P., através do seu conselho diretivo, no prosseguimento das orientações estratégicas aprovadas pelo membro do Governo responsável pela área da justiça, nos termos do artigo 7.º do Decreto-Lei n.º 14/2011, de 25 de janeiro.\n\n2 - No exercício das competências de administração e gestão, cabe ao conselho directivo do IGFIJ:\n\na) Aprovar, até ao dia 31 de dezembro do ano civil anterior a que respeita, o plano anual de atividades do Fundo;\n\nb) Aprovar, até ao dia 15 de abril do ano seguinte ao que respeita, o relatório de execução anual no qual conste a descrição da execução material e financeira dos apoios concedidos;\n\nc) Apresentar ao membro do Governo responsável pela área da justiça, até ao dia 31 de outubro do ano civil anterior a que respeitem, as propostas de orientação estratégicas de aplicação do Fundo, nas quais devem constar as medidas a financiar, enquadradas nas finalidades previstas no artigo 4.º do Decreto-Lei n.º 14/2011, de 25 de janeiro, bem como a respetiva afetação financeira;\n\nd) Aprovar relatórios trimestrais de gestão do Fundo.\n\n3 - O conselho directivo do IGFIJ pode delegar competências de gestão do Fundo em dirigentes de unidades orgânicas daquele Instituto desde que essa delegação não implique aumento de despesa.\n\n4 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107797482": {
+   "fragment_id": "107794299",
+   "type": 11,
+   "heading": "Artigo 3.º — Afectação dos recursos financeiros",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 3.º — Afectação dos recursos financeiros\n\n1 - O financiamento total atribuído em cada ano, relativamente às finalidades previstas no artigo 4.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro, tem os seguintes limites:\n\na) As alíneas a), b) e c) não podem exceder individualmente 60 % do montante disponível;\n\nb) As alíneas d) e e) não podem exceder individualmente 20 % do montante disponível.\n\n2 - [Revogado.]\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107797475": {
+   "fragment_id": "107794300",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nSão beneficiários do Fundo os serviços, organismos, órgãos consultivos e demais estruturas orçamentais do Ministério da Justiça, nomeadamente:\n\na) Direcção-Geral de Política da Justiça;\n\nb) Secretaria-Geral do Ministério da Justiça;\n\nc) Inspecção-Geral dos Serviços da Justiça;\n\nd) Direcção-Geral da Administração da Justiça;\n\ne) Centro de Estudos Judiciários;\n\nf) Instituto de Registos e do Notariado, I. P.;\n\ng) Polícia Judiciária;\n\nh) Direção-Geral de Reinserção e Serviços Prisionais;\n\ni) Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.;\n\nj) Instituto Nacional de Medicina Legal e Ciências Forenses;\n\nk) Instituto Nacional da Propriedade Industrial, I. P.\n\nl) Procuradoria-Geral da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107797476": {
+   "fragment_id": "107794301",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - A abertura das candidaturas é divulgada no sítio electrónico do IGFIJ.\n\n2 - No aviso de abertura de candidaturas constam obrigatoriamente:\n\na) O prazo para apresentação de candidaturas;\n\nb) As finalidades abrangidas, de acordo com o artigo 4.º do Decreto-Lei n.º 14/2011, de 25 de janeiro.\n\nc) O montante total disponível para financiamento;\n\nd) As regras e os critérios de decisão, bem como a ponderação de cada critério;\n\ne) A calendarização do processo de decisão.\n\nf) A percentagem de financiamento a conceder, que pode ser até 100 % da despesa elegível.\n\n3 - As candidaturas são apresentadas através de um formulário disponibilizado no sítio electrónico do IGFIJ.\n\n4 - A candidatura deve ser instruída com os seguintes elementos:\n\na) Identificação do serviço/organismo proponente ou serviços/organismos proponentes em caso de candidatura conjunta;\n\nb) Descrição do projeto e seus objetivos;\n\nc) Enquadramento do projecto nas finalidades do Fundo;\n\nd) Programação financeira, física e temporal;\n\ne) Descrição dos benefícios decorrentes da realização do projeto, incluindo os indicadores e metas quantificadas que, na perspetiva do beneficiário, sintetizam os resultados que se pretendem atingir com a realização do projeto;\n\nf) Contribuição do projeto para o cumprimento dos objetivos do programa de modernização da Justiça;\n\ng) Declaração de compromisso de honra do dirigente do organismo beneficiário, de execução do financiamento conforme respetiva candidatura.\n\n5 - A publicitação do aviso de abertura prevista no n.º 1 e a disponibilização do formulário para as candidaturas prevista no n.º 3 podem ser divulgadas ainda noutro sítio eletrónico que se considere adequado para o efeito.\n\n6 - O Fundo pode assegurar a contrapartida nacional em projetos cofinanciados por outros fundos de financiamento.\n\n7 - Não se aplica o disposto nas alíneas d), e) e f) do disposto no n.º 4, nos seguintes casos:\n\na) Projetos cofinanciados por outros fundos de financiamento sendo obrigatória a apresentação de cópia da candidatura submetida àquele fundo, em formato eletrónico;\n\nb) Provas de conceito e/ou projetos-piloto inseridos nos objetivos de modernização da Justiça, desde que aprovados pelo membro do Governo responsável pela área da justiça.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107797477": {
+   "fragment_id": "107794302",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de admissão das candidaturas",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02"
+   ],
+   "markdown": "###### Artigo 6.º — Condições de admissão das candidaturas\n\nSem prejuízo do disposto no artigo anterior, são aceites para análise as candidaturas apresentadas por serviços e organismos previstos no artigo 4.º deste Regulamento, que respeitem os prazos indicados no aviso de abertura e que contenham os elementos obrigatórios nele previsto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02"
+  },
+  "107797478": {
+   "fragment_id": "107794304",
+   "type": 11,
+   "heading": "Artigo 8.º — Processo de decisão e contrato de financiamento",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 8.º — Processo de decisão e contrato de financiamento\n\n1 - No decorrer da verificação e análise das candidaturas, pode o IGFEJ, I. P. solicitar ao serviço proponente esclarecimentos adicionais, podendo ser aceites correções aos elementos indicados no processo de candidatura.\n\n2 - A decisão sobre as candidaturas a aprovar tem como critérios de decisão os constantes do aviso de abertura..\n\n3 - O IGFIJ emite decisão e notifica o serviço proponente, no prazo indicado no aviso de abertura, após a sua homologação pelo membro do Governo responsável pela área da justiça.\n\n4 - A decisão favorável de financiamento é formalizada através de contrato.\n\n5 - As condições de atribuição e suspensão do financiamento pelo Fundo, bem como os demais direitos e deveres das partes, constituem objeto de contrato de financiamento.\n\n6 - Para efeitos de celebração do contrato de financiamento devem ser apresentados, no prazo máximo de 30 dias seguidos, a contar da data da notificação da respetiva aprovação, os documentos indicados no aviso de abertura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107797479": {
+   "fragment_id": "107794305",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamentos",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+   ],
+   "markdown": "###### Artigo 9.º — Pagamentos\n\n1 - Os pedidos de pagamento são submetidos pela entidade beneficiária ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., através de formulário disponível no sítio eletrónico, acompanhados dos respetivos documentos de suporte.\n\n2 - O pagamento do financiamento ou cofinanciamento atribuído às candidaturas aprovadas é processado de acordo com as seguintes modalidades:\n\na) Pagamento a título de adiantamento, desde que o valor a adiantar não ultrapasse a programação financeira da candidatura para cada ano económico, mediante apresentação de fundamentação da respetiva necessidade;\n\nb) Pagamento a título de adiantamento, contra cópia validada de fatura ou documento equivalente;\n\nc) Pagamento a título de reembolso, contra cópia validada da fatura ou documento equivalente e comprovativo de pagamento.\n\n3 - No caso de pagamento a título de adiantamento, previsto na alínea a) do número anterior, a entidade beneficiária deve apresentar, no prazo máximo de 270 dias seguidos, a partir do dia seguinte ao do pagamento efetivo do adiantamento, os respetivos documentos comprovativos de despesa e de pagamento.\n\n4 - No caso de pagamento a título de adiantamento, previsto na alínea b) do n.º 2, a entidade beneficiária deve remeter o comprovativo de pagamento no prazo máximo de 30 dias seguidos, contados a partir do dia seguinte ao do pagamento efetivo do adiantamento.\n\n5 - Não são efetuados quaisquer pagamentos subsequentes à candidatura em causa, nem a outras candidaturas aprovadas, da responsabilidade do beneficiário, sem que, nos prazos estabelecidos nos números anteriores, tenham sido apresentados os correspondentes comprovativos de pagamento.\n\n6 - Em caso de aprovação de alteração da programação financeira, os prazos referidos nos pontos 3 e 4 poderão ser prorrogados, no mínimo, por período equivalente ao da reprogramação.\n\n7 - Na situação prevista no n.º 3, o beneficiário apenas pode proceder à devolução do valor das verbas não executadas, após apresentação do relatório final, nos termos do n.º 3 do artigo 10.º\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2016 - Diário da República n.º 147/2016, Série I de 2016-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/210-2016-75079789), em vigor a partir de 2016-08-03"
+  },
+  "107797480": {
+   "fragment_id": "107794306",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento e controlo",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02"
+   ],
+   "markdown": "###### Artigo 10.º — Acompanhamento e controlo\n\n1 - O IGFIJ assegura o controlo da execução física e financeira das candidaturas aprovadas, nomeadamente:\n\na) A realização das acções e o cumprimento dos respectivos objectivos, conforme aprovado;\n\nb) O cumprimento da programação física, financeira e temporal.\n\n2 - Qualquer alteração às programações física, financeira ou temporal aprovada carece de aprovação prévia do IGFIJ.\n\n3 - Para efeitos de acompanhamento e controlo da execução física e financeira, os beneficiários devem apresentar:\n\na) Relatórios semestrais, em projetos com prazo de duração superior a 12 meses;\n\nb) O relatório final, no final de cada projeto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02"
+  },
+  "107797481": {
+   "fragment_id": "107794307",
+   "type": 11,
+   "heading": "Artigo 11.º — Incumprimento do contrato",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02"
+   ],
+   "markdown": "###### Artigo 11.º — Incumprimento do contrato\n\n1 - Sem prejuízo de qualquer penalidade estabelecida no contrato, este pode ser objecto de resolução desde que se verifique o não cumprimento, por facto imputável ao serviço beneficiário, dos objectivos e obrigações nele estabelecidos, incluindo os prazos relativos ao início e conclusão do projecto.\n\n2 - A resolução do contrato implica a devolução dos valores recebidos, no prazo de 30 dias seguidos, a contar da data da notificação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/243-2017-107791616), em vigor a partir de 2017-08-02"
+  }
+ }
+}

@@ -1,0 +1,295 @@
+---
+schema_version: '1.0'
+id: pt:dre:393381:por
+title: Resolução do Conselho de Ministros n.º 84/2001
+short_title: null
+summary: Ratifica o Plano de Pormenor da Zona Industrial de Vila Viçosa, no município de Vila Viçosa
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 84/2001
+official_date: null
+publication_date: '2001-07-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 166/2001, Série I-B de 2001-07-19
+  number: '166'
+  series: I
+  supplement: null
+  pages: 4416 - 4418
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/07/166b00/44164418.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/84/2001/07/19/p/dre/pt/html
+  oj: null
+  dre: '393381'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/84-2001-393381
+  internal: pt:dre:393381:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2001-393381
+  metadata_url: https://data.dre.pt/eli/resolconsmin/84/2001/07/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2001-393381
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-07-19T00:00:00Z'
+integrity:
+  source_sha256: b7bf0d3216a0db3c8c642403e03315c020d27af5ec92450064a9b0408cf705aa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-84-393381.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Política de Solos
+- Plano de Pormenor
+- Regulamento
+- Vila Viçosa
+- Zona Industrial
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/299/2000/11/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/299/2000/11/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/451/2001/05/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/451/2001/05/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/153/1995/11/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/153/1995/11/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/90/1997/06/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/90/1997/06/11/p/dre
+article_structure:
+  article_count: 33
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 84/2001
+
+A Assembleia Municipal de Vila Viçosa aprovou em 15 de Setembro de 2000 o Plano de Pormenor da Zona Industrial de Vila Viçosa, no município de Vila Viçosa.
+
+Foram cumpridas todas as formalidades legais, designadamente quanto ao inquérito público.
+
+Não obstante a deficiente redacção de alguns preceitos do Regulamento do Plano de Pormenor da Zona Industrial de Vila Viçosa, designadamente dos artigos 6.º, 8.º, 11.º, 16.º, 17.º, 21.º e 33.º, verifica-se a conformidade formal deste instrumento de gestão territorial com as disposições legais e regulamentares em vigor.
+
+De mencionar que a ocupação dos lotes A1 a A7, destinados a armazenamento de gás, tem de obedecer ao disposto na [Portaria n.º 451/2001](https://diariodarepublica.pt/dr/detalhe/portaria/451-2001-315910), de 5 de Maio, que impõe condicionantes a este tipo de instalações.
+
+De assinalar, ainda, que a contiguidade da zona industrial com áreas residenciais implica, no âmbito do licenciamento dos estabelecimentos, a devida ponderação de eventuais incompatibilidades e a adopção de medidas eficazes que evitem a ocorrência de conflitos e potenciais incomodidades.
+
+Importa também salientar que na execução do Plano deve ser dado cumprimento ao disposto no Regulamento Geral do Ruído, aprovado pelo [Decreto-Lei n.º 299/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2000-616577), de 14 de Novembro.
+
+O município de Vila Viçosa dispõe de Plano Director Municipal, ratificado pela [Resolução do Conselho de Ministros n.º 153/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1995-692234), de 25 de Novembro, e alterado pela [Resolução do Conselho de Ministros n.º 90/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-1997-358971), de 11 de Junho.
+
+O Plano de Pormenor introduz alterações à planta de ordenamento e à planta do perímetro urbano de Vila Viçosa, do Plano Director Municipal, modificando a classificação da sua área de intervenção como «espaço urbano» para «espaço industrial», e revoga, no que se aplica à mesma área, os índices urbanísticos constantes do artigo 12.º do Regulamento do Plano Director Municipal, referentes ao aglomerado urbano de nível I, pelo que está sujeito a ratificação pelo Conselho de Ministros.
+
+Dos elementos constituintes do Plano não se sujeita a ratificação nem se publica a planta de condicionantes, atendendo a que não foram identificadas cartograficamente quaisquer servidões e restrições de utilidade pública na sua área de intervenção.
+
+A Comissão de Coordenação da Região do Alentejo emitiu parecer favorável ao Plano.
+
+Considerando o disposto no n.º 3 do artigo 25.º e na alínea e) do n.º 3 e no n.º 8 do artigo 80.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro:
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Ratificar o Plano de Pormenor da Zona Industrial de Vila Viçosa, no município de Vila Viçosa, cujo regulamento e planta de implantação se publicam em anexo à presente resolução, dela fazendo parte integrante.
+
+2 - São alteradas, na área de intervenção do Plano de Pormenor da Zona Industrial de Vila Viçosa, a planta de ordenamento e a planta do perímetro urbano de Vila Viçosa do Plano Director Municipal e revogados, na mesma área, os índices urbanísticos constantes do artigo 12.º do regulamento deste Plano, referentes ao aglomerado urbano de nível I.
+
+Presidência do Conselho de Ministros, 21 de Junho de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+REGULAMENTO DO PLANO DE PORMENOR DA ZONA INDUSTRIAL DE VILA VIÇOSA
+
+1 - Generalidades
+
+###### Artigo 1.º
+
+O presente Regulamento visa caracterizar, genericamente, ordenar e estabelecer regras de utilização da Zona Industrial de Vila Viçosa.
+
+###### Artigo 2.º
+
+Todos os elementos edificados a construir devem estar em estreita observância da imagem urbanística representada nas peças desenhadas, nomeadamente na planta de síntese.
+
+###### Artigo 3.º
+
+Em caso algum serão permitidas quaisquer modificações que alterem o conjunto a edificar, com especial incidência nos índices urbanísticos programados.
+
+###### Artigo 4.º
+
+Não são permitidas alienações ou alterações de uso urbano nas áreas consignadas ao público.
+
+###### Artigo 5.º
+
+As indústrias a instalar que de alguma forma tenham desperdícios de óleos ou gorduras deverão prever medidas para que esses desperdícios não sejam lançados nas redes de esgotos.
+
+###### Artigo 6.º
+
+A envolvência verde de protecção será, oportunamente, objecto de um estudo paisagístico integrado na ambiência proposta e existente.
+
+2 - Organização/imagem urbanística
+
+###### Artigo 7.º
+
+Na Zona Industrial de Vila Viçosa existem zonas de edifícios industriais (lotes para pavilhões modulados e indústria ligeira), zonas de equipamento e zona verde, além de infra-estruturas que a suportam.
+
+§ único. Ficam destinados a parque de veículos pesados/ligeiros, bombeiros/quartel, respectivamente, os lotes L15 e L16.
+
+###### Artigo 8.º
+
+Os projectos das instalações industriais a construir deverão ser elaborados de acordo com o presente Regulamento, com a legislação geral da construção e com a legislação das instalações industriais específica para cada tipo de indústria.
+
+###### Artigo 9.º
+
+A implantação das instalações industriais, além de respeitar os afastamentos previamente estabelecidos, deverá estabelecer as mesmas características, ou seja, volume e formas dos respectivos alçados, vãos e outros elementos arquitectónicos.
+
+###### Artigo 10.º
+
+Os afastamentos aos tardozes do lote deverão respeitar os preconizados na cartografia apresentada, com relevância para as cartas de trabalho e síntese.
+
+###### Artigo 11.º
+
+Os espaços livres dos lotes deverão ser cuidados, sendo desejável a plantação de árvores e evitar-se, tanto quanto possível, o depósito de materiais e objectos que pela sua natureza e aspecto prejudiquem o aspecto da Zona.
+
+###### Artigo 12.º
+
+É completamente interdita a construção de anexos adjacentes às instalações industriais.
+
+3 - Utilização/imagem urbanística
+
+###### Artigo 13.º
+
+Na zona industrial destinada a lotes para pavilhões modulados e indústria ligeira poder-se-ão instalar armazéns, indústrias, oficinas, áreas comerciais e de serviços compatíveis.
+
+§ único. Existe uma zona isolada exclusivamente reservada ao armazenamento de combustíveis.
+
+###### Artigo 14.º
+
+Nos lotes para indústria ligeira poder-se-ão instalar unidades transformadoras de mármores, bem como outras indústrias ligeiras, e ou adaptar através de projecto próprio (nave única) para divisão em propriedade horizontal, por forma a permitir o disposto no artigo 13.º
+
+###### Artigo 15.º
+
+Na zona de equipamento implantar-se-ão serviços de apoio às indústrias instaladas.
+
+###### Artigo 16.º
+
+A zona verde destinada a proteger e enquadrar o conjunto nunca poderá ser alienada ou alterada no seu uso ou função (oportunamente, objecto de um estudo paisagístico integrado na ambiência proposta e na existente).
+
+###### Artigo 17.º
+
+Nos espaços referidos nos artigos 15.º e 16.º a sua tutela e administração cabe à autarquia ou às entidades competentes de acordo com a legislação.
+
+###### Artigo 18.º
+
+Não é permitida a construção para fins habitacionais.
+
+4 - Ocupação/imagem urbanística
+
+###### Artigo 19.º
+
+As cotas de soleira a respeitar em cada um dos lotes são as indicadas na planta de trabalhos, sendo o movimento de terras no interior de cada lote da responsabilidade do respectivo proprietário e sujeito a aprovação pela Câmara Municipal de Vila Viçosa.
+
+###### Artigo 20.º
+
+Na Zona Industrial os pavilhões modulados devem ter uma disposição em banda contínua.
+
+###### Artigo 21.º
+
+A área de implantação dos pavilhões modulados terá inicialmente de ser de 50% da área do lote, podendo evoluir para a totalidade do lote.
+
+###### Artigo 22.º
+
+Os pavilhões a construir nas zonas de indústria ligeira deverão ter uma área de implantação mínima de 30% e máxima de 60%.
+
+###### Artigo 23.º
+
+Os pavilhões de indústria ligeira deverão respeitar o alinhamento aos arruamentos definido na planta de síntese.
+
+###### Artigo 24.º
+
+Nas zonas destinadas ao equipamento podem instalar-se serviços administrativos e sociais de apoio às indústrias, uma unidade de saúde de primeiros socorros e uma estação de serviço/abastecimento de combustíveis.
+
+###### Artigo 25.º
+
+A cércea máxima permitida é de 9 m, excepto para construções tecnicamente justificáveis.
+
+5 - Ocupação/imagem cromática
+
+###### Artigo 26.º
+
+Na imagem cromática para a Zona Industrial de Vila Viçosa predominará a cor branca ou uma cor clara, com excepção nos socos, cunhais e aros dos vãos, onde podem aparecer outras cores com implantação definida na região.
+
+###### Artigo 27.º
+
+As coberturas das construções poderão ser em telha cerâmica (vermelha) ou em chapas de fibrocimento, devendo, neste último caso, ser previstas platibandas.
+
+###### Artigo 28.º
+
+Nas construções não serão autorizados rodapés construídos em pedra com juntas aparentes.
+
+###### Artigo 29.º
+
+Nas caixilharias em vãos exteriores não deverá ser utilizado alumínio anodizado de cor natural.
+
+###### Artigo 30.º
+
+Os reclamos publicitários a instalar na Zona Industrial deverão integrar-se no conjunto e deverão ser objecto de licenciamento por parte da Câmara Municipal de Vila Viçosa.
+
+6 - Trânsito e estacionamento
+
+###### Artigo 31.º
+
+Nos arruamentos do Plano prevêem-se dois sentidos de circulação.
+
+###### Artigo 32.º
+
+Prevê-se estacionamento público em faixa própria ao longo dos arruamentos e estacionamento privado no interior de cada lote.
+
+Diversos
+
+###### Artigo 33.º
+
+Em qualquer aspecto urbanístico de que haja omissões neste Regulamento, reporta-se, de imediato, ao sistema legislativo em vigor sobre os aspectos em reparo.
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2001/07/166b00/44164418.pdf)

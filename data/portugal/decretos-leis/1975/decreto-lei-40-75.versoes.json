@@ -1,0 +1,292 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:159476:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1975-178855375",
+ "dre_path": "/dr/detalhe/decreto-lei/40-1975-159476",
+ "source_lastmod": "2025-05-26",
+ "versions": [
+  {
+   "date": "1975-02-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919442541",
+    "178602121",
+    "178602122",
+    "178602123",
+    "178602124",
+    "178602125",
+    "178602126",
+    "178602127",
+    "178602128",
+    "178602129"
+   ]
+  },
+  {
+   "date": "1975-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:389780:por",
+     "title": "Rectificação",
+     "published": "1975-06-04",
+     "dre_path": "/dr/detalhe/rectificacao/1975-389780"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º"
+   ],
+   "fragments": [
+    "178602120",
+    "178602121",
+    "178602122",
+    "919442536",
+    "178602124",
+    "178602125",
+    "178602126",
+    "178602127",
+    "178602128",
+    "178602129",
+    "178602130"
+   ]
+  },
+  {
+   "date": "2019-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122434535:por",
+     "title": "Lei n.º 36/2019",
+     "published": "2019-05-29",
+     "dre_path": "/dr/detalhe/lei/36-2019-122434535"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "919442541",
+    "919442542",
+    "919442543",
+    "919442544",
+    "919442545",
+    "919442546",
+    "919442547",
+    "919442548",
+    "919442549",
+    "919442550",
+    "919442551"
+   ]
+  }
+ ],
+ "fragments": {
+  "919442541": {
+   "fragment_id": "178855376",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 40/75\n\nde 1 de Fevereiro\n\nNo intuito de assegurar o saneamento e reforma da actuação dos corpos administrativos locais e centrais, foi publicado o Decreto-Lei n.º 286/74, de 26 de Junho, que criou a comissão permanente e as subcomissões destinadas a coordenar e a realizar os inquéritos e as sindicâncias originados pelas queixas relativas a abuso de poder, atentados contra os direitos dos cidadãos ou práticas de corrupção.\n\nNão estabelece, porém, o referido diploma as condições em que devem processar-se as remunerações a abonar aos membros daqueles órgãos, o que se afigura imperioso para que os mesmos possam funcionar com a brevidade e a eficiência desejadas.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "178602121": {
+   "fragment_id": "178855377",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presidente da Comissão Coordenadora a que se refere o n.º 3 do artigo 3.º do Decreto-Lei n.º 286/74, de 26 de Junho, terá direito à gratificação mensal de 4000$00, percebendo os vogais da mesma Comissão a gratificação mensal de 3000$00, quando se trate de técnicos pertencentes aos quadros dos Ministérios da Administração Interna ou do Equipamento Social e do Ambiente ou que nestes prestem serviço com carácter permanente e se achem vinculados por adequado título de provimento."
+  },
+  "178602122": {
+   "fragment_id": "178855378",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs presidentes e os vogais das subcomissões, quando abrangidos pela parte final do artigo precedente, perceberão, respectivamente, as gratificações mensais de 3000$00 e 2000$00, cabendo àqueles que forem recrutados entre pessoas estranhas aos serviços públicos e que prestem serviço em regime de horário completo o direito à percepção de uma remuneração mensal correspondente à letra F da tabela constante do artigo 1.º do Decreto-Lei n.º 372/74, de 20 de Agosto."
+  },
+  "178602123": {
+   "fragment_id": "178855379",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nTodos os demais técnicos designados para os cargos de presidentes e vogais das subcomissões serão remunerados em função do valor calculado ou ajustado dos trabalhos a realizar no período considerado, mediante proposta prévia, que compreenderá os honorários e demais encargos, devidamente sancionada por despacho do Ministro do Equipamento Social e do Ambiente."
+  },
+  "178602124": {
+   "fragment_id": "178855380",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs pessoas que forem agregadas à Comissão Coordenadora ou às subcomissões para desempenharem funções de secretários têm direito a uma gratificação mensal de 1500$00."
+  },
+  "178602125": {
+   "fragment_id": "178855381",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs gratificações estabelecidas no presente diploma não prejudicam os vencimentos daqueles a quem forem atribuídas, que ficam desde já autorizados a acumulá-las sem mais formalidades."
+  },
+  "178602126": {
+   "fragment_id": "178855382",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA todos os técnicos designados para fazerem parte da Comissão Coordenadora ou das subcomissões, bem como aos que a elas forem agregados, com excepção dos abrangidos pelo artigo 3.º deste diploma, serão abonados, quando for caso disso, os transportes, as ajudas de custo e as remunerações por horas extraordinárias a que tiverem direito nos termos da lei geral."
+  },
+  "178602127": {
+   "fragment_id": "178855383",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs remunerações previstas no presente diploma são devidas desde as datas das posses dos membros da Comissão Coordenadora ou das subcomissões, e a partir do despacho de designação, nos restantes casos."
+  },
+  "178602128": {
+   "fragment_id": "178855384",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs encargos resultantes da publicação deste diploma serão custeados pelas dotações a inscrever no orçamento da Secretaria-Geral do Ministério do Equipamento Social e do Ambiente."
+  },
+  "178602129": {
+   "fragment_id": "178855385",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nEste diploma entra imediatamente em vigor e produz efeitos a partir da vigência do Decreto-Lei n.º 286/74, de 26 de Junho."
+  },
+  "178602120": {
+   "fragment_id": "178855376",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 40/75\n\nde 1 de Fevereiro\n\nNo intuito de assegurar o saneamento e reforma da actuação dos corpos administrativos locais e centrais, foi publicado o Decreto-Lei n.º 286/74, de 26 de Junho, que criou a comissão permanente e as subcomissões destinadas a coordenar e a realizar os inquéritos e as sindicâncias originados pelas queixas relativas a abuso de poder, atentados contra os direitos dos cidadãos ou práticas de corrupção.\n\nNão estabelece, porém, o referido diploma as condições em que devem processar-se as remunerações a abonar aos membros daqueles órgãos, o que se afigura imperioso para que os mesmos possam funcionar com a brevidade e a eficiência desejadas.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "919442536": {
+   "fragment_id": "178855379",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1975-06-04",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 128/1975, 2º Suplemento, Série I de 1975-06-04](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-389780), em vigor a partir de 1975-06-04"
+   ],
+   "markdown": "###### Artigo 3.º\n\nTodos os demais técnicos designados para os cargos de presidentes ou vogais da Comissão Coordenadora ou das subcomissões serão remunerados em função do valor calculado ou ajustado dos trabalhos a realizar no período considerado, mediante proposta prévia, que compreenderá os honorários e demais encargos, devidamente sancionada por despacho do Ministro do Equipamento Social e do Ambiente.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 128/1975, 2º Suplemento, Série I de 1975-06-04](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-389780), em vigor a partir de 1975-06-04"
+  },
+  "178602130": {
+   "fragment_id": "178855386",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes - José Augusto Fernandes.\n\nPromulgado em 7 de Janeiro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "919442542": {
+   "fragment_id": "178855377",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO presidente da Comissão Coordenadora a que se refere o n.º 3 do artigo 3.º do Decreto-Lei n.º 286/74, de 26 de Junho, terá direito à gratificação mensal de 4000$00, percebendo os vogais da mesma Comissão a gratificação mensal de 3000$00, quando se trate de técnicos pertencentes aos quadros dos Ministérios da Administração Interna ou do Equipamento Social e do Ambiente ou que nestes prestem serviço com carácter permanente e se achem vinculados por adequado título de provimento.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "919442543": {
+   "fragment_id": "178855378",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs presidentes e os vogais das subcomissões, quando abrangidos pela parte final do artigo precedente, perceberão, respectivamente, as gratificações mensais de 3000$00 e 2000$00, cabendo àqueles que forem recrutados entre pessoas estranhas aos serviços públicos e que prestem serviço em regime de horário completo o direito à percepção de uma remuneração mensal correspondente à letra F da tabela constante do artigo 1.º do Decreto-Lei n.º 372/74, de 20 de Agosto.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "919442544": {
+   "fragment_id": "178855379",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 128/1975, 2º Suplemento, Série I de 1975-06-04](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-389780), em vigor a partir de 1975-06-04"
+   ],
+   "markdown": "###### Artigo 3.º\n\nTodos os demais técnicos designados para os cargos de presidentes ou vogais da Comissão Coordenadora ou das subcomissões serão remunerados em função do valor calculado ou ajustado dos trabalhos a realizar no período considerado, mediante proposta prévia, que compreenderá os honorários e demais encargos, devidamente sancionada por despacho do Ministro do Equipamento Social e do Ambiente.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 128/1975, 2º Suplemento, Série I de 1975-06-04](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-389780), em vigor a partir de 1975-06-04"
+  },
+  "919442545": {
+   "fragment_id": "178855380",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 4.º\n\nAs pessoas que forem agregadas à Comissão Coordenadora ou às subcomissões para desempenharem funções de secretários têm direito a uma gratificação mensal de 1500$00.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "919442546": {
+   "fragment_id": "178855381",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 5.º\n\nAs gratificações estabelecidas no presente diploma não prejudicam os vencimentos daqueles a quem forem atribuídas, que ficam desde já autorizados a acumulá-las sem mais formalidades.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "919442547": {
+   "fragment_id": "178855382",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 6.º\n\nA todos os técnicos designados para fazerem parte da Comissão Coordenadora ou das subcomissões, bem como aos que a elas forem agregados, com excepção dos abrangidos pelo artigo 3.º deste diploma, serão abonados, quando for caso disso, os transportes, as ajudas de custo e as remunerações por horas extraordinárias a que tiverem direito nos termos da lei geral.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "919442548": {
+   "fragment_id": "178855383",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 7.º\n\nAs remunerações previstas no presente diploma são devidas desde as datas das posses dos membros da Comissão Coordenadora ou das subcomissões, e a partir do despacho de designação, nos restantes casos.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "919442549": {
+   "fragment_id": "178855384",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 8.º\n\nOs encargos resultantes da publicação deste diploma serão custeados pelas dotações a inscrever no orçamento da Secretaria-Geral do Ministério do Equipamento Social e do Ambiente.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "919442550": {
+   "fragment_id": "178855385",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 9.º\n\nEste diploma entra imediatamente em vigor e produz efeitos a partir da vigência do Decreto-Lei n.º 286/74, de 26 de Junho.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "919442551": {
+   "fragment_id": "178855386",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes - José Augusto Fernandes.\n\nPromulgado em 7 de Janeiro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  }
+ }
+}

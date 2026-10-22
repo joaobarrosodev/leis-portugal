@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:552074:por
+title: Despacho Normativo n.º 24-A/2005
+short_title: null
+summary: Fixa a percentagem máxima de aumento médio para os transportes urbanos de Lisboa e do Porto, para os transportes
+  colectivos rodoviários interurbanos de passageiros e para os transportes ferroviários e fluviais
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças, da Economia e da Inovação e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 24-A/2005
+official_date: null
+publication_date: '2005-04-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 73/2005, 1º Suplemento, Série I-B de 2005-04-14
+  number: '73'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2976-(2) a 2976-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/04/073b01/00020002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/24-a/2005/04/14/p/dre/pt/html
+  oj: null
+  dre: '552074'
+  dre_path: /dr/detalhe/despacho-normativo/24-a-2005-552074
+  internal: pt:dre:552074:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-a-2005-552074
+  metadata_url: https://data.dre.pt/eli/despnorm/24-a/2005/04/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-a-2005-552074
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-04-14T00:00:00Z'
+integrity:
+  source_sha256: 5a96bbb9ae20885655a85e037595b34dd7fb1d16c9ff75bed3e6358b7367706e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-24-A-552074.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Transporte Ferroviário
+- Preço
+- Transporte de Passageiros
+- Transporte Fluvial
+- Transporte Público
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/8/1993/01/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/8/1993/01/11/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 24-A/2005
+
+Tendo em conta que no início de 2005 não foi actualizado o tarifário dos transportes públicos e colectivos de passageiros e atendendo ao impacte do aumento de preço dos combustíveis neste sector, deverá a actualização anual do tarifário ser superior ao da inflação prevista para o corrente ano.
+
+Assim:
+
+Ao abrigo do disposto na alínea b) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 8/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1993-469604), de 11 de Janeiro, determina-se o seguinte:
+
+1 - É fixada em 3,7% a percentagem máxima de aumento médio para os transportes urbanos de Lisboa e do Porto, para os transportes colectivos rodoviários interurbanos de passageiros e para os transportes ferroviários e fluviais.
+
+2 - Por despacho do director-geral de Transportes Terrestres e Fluviais será definida a tabela do preço máximo de referência do quilómetro rodoviário interurbano.
+
+3 - Os preços decorrentes da execução do presente despacho poderão ser aplicados pelos operadores a partir de 1 de Maio de 2005.
+
+Ministérios das Finanças, da Economia e da Inovação e das Obras Públicas, Transportes e Comunicações, 13 de Abril de 2005. - O Ministro de Estado e das Finanças, Luís Manuel Moreira de Campos e Cunha. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.

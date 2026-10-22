@@ -1,0 +1,339 @@
+---
+schema_version: '1.0'
+id: pt:dre:553437:por
+title: Decreto n.º 4/2012
+short_title: null
+summary: Aprova o Acordo de Cooperação entre a República Portuguesa e a República Popular da China no Domínio do Turismo,
+  assinado em Lisboa em 7 de novembro de 2010
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 4/2012
+official_date: null
+publication_date: '2012-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 52/2012, Série I de 2012-03-13
+  number: '52'
+  series: I
+  supplement: null
+  pages: 1108 - 1111
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05200/0110801111.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/4/2012/03/13/p/dre/pt/html
+  oj: null
+  dre: '553437'
+  dre_path: /dr/detalhe/decreto/4-2012-553437
+  internal: pt:dre:553437:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2012-553437
+  metadata_url: https://data.dre.pt/eli/dec/4/2012/03/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-2012-553437
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-03-13T00:00:00Z'
+integrity:
+  source_sha256: e561bce38107cf449bc9148cd749e9613adea0e00f70579101c3da20acd21d82
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-4-553437.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Turismo
+- Promoção Turística
+- Convenção
+- Política de Cooperação
+- Portugal
+- China
+- Lisboa
+relationships: []
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 4/2012
+
+de 13 de março
+
+A República Portuguesa e a República Popular da China assinaram, em 7 de novembro de 2010, em Lisboa, um Acordo de Cooperação no Domínio do Turismo.
+
+O presente Acordo insere-se na orientação geral de desenvolver as relações económicas e culturais com a China, tendo em vista fortalecer as relações de cooperação no domínio do turismo entre os dois Estados, baseadas na igualdade de direitos e benefícios mútuos.
+
+Com o presente Acordo pretende-se, ainda, promover o desenvolvimento da cooperação institucional e empresarial entre os dois Estados neste sector da economia.
+
+Assim:
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o Acordo entre a República Portuguesa e a República Popular da China sobre a Cooperação no Domínio do Turismo, assinado em Lisboa em 7 de Novembro de 2010, cujo texto, nas versões autênticas nas línguas portuguesa, chinesa e inglesa, se publica em anexo.
+
+Visto e aprovado em Conselho de Ministros de 2 de fevereiro de 2012. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - Álvaro Santos Pereira.
+
+**Assinado em 1 de março de 2012.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 8 de março de 2012.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**
+
+ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DA CHINA NO DOMÍNIO DO TURISMO
+
+A República Portuguesa e a República Popular da China, doravante designadas «Partes»:
+
+Conscientes da importância da cooperação no domínio do turismo para o desenvolvimento das relações bilaterais Luso-chinesas;
+
+Tendo em vista o alargamento e fortalecimento dos laços de amizade entre os dois Povos;
+
+Considerando o turismo um meio importante para o reforço da compreensão mútua, da expressão de boa vontade e da consolidação das relações entre os dois países;
+
+Decididos a estabelecer um enquadramento jurídico para a cooperação no domínio do turismo, com base no princípio da igualdade e de benefícios mútuos;
+
+acordam no seguinte:
+
+###### Artigo 1.º — Objecto
+
+As Partes promoverão e reforçarão a cooperação institucional e empresarial no domínio do turismo em conformidade com a respectiva legislação nacional em vigor e com outros Acordos Internacionais aplicáveis.
+
+###### Artigo 2.º — Âmbito da Cooperação
+
+O presente Acordo estabelece a base jurídica para o desenvolvimento da cooperação entre as Partes no domínio do turismo, nos seguintes níveis:
+
+a) Cooperação institucional;
+
+b) Cooperação Empresarial e Investimento;
+
+c) Formação profissional;
+
+d) Promoção turística.
+
+###### Artigo 3.º — Cooperação institucional
+
+As Partes comprometem-se a desenvolver a cooperação entre os respectivos Organismos Nacionais de Turismo e facilitar contactos entre as instituições dos dois Estados na área do turismo.
+
+###### Artigo 4.º — Cooperação Empresarial e Investimento
+
+As Partes promoverão e encorajarão o intercâmbio de informação sobre oportunidades de investimento nas áreas do turismo e hotelaria, bem como facilitarão os contactos entre as associações empresariais dos dois países.
+
+###### Artigo 5.º — Formação Profissional
+
+As Partes comprometem-se a cooperar no domínio da formação turística, ao nível da formação inicial ou de activos.
+
+###### Artigo 6.º — Promoção turística
+
+As Partes procurarão desenvolver a cooperação no domínio da promoção turística facilitando a troca de informação sobre mercados turísticos e sobre planos de marketing e campanhas publicitárias.
+
+###### Artigo 7.º — Representações Oficiais de Turismo
+
+As Partes facilitarão a abertura de representações oficiais de turismo nos seus territórios em conformidade com a respectiva legislação.
+
+###### Artigo 8.º — Comissão Mista
+
+1 - As Partes instituirão uma Comissão Mista com o objectivo de promover, desenvolver e implementar a cooperação prevista no presente Acordo.
+
+2 - A Comissão Mista será constituída por representantes dos organismos responsáveis pelo sector do turismo de ambas as Partes, cujas respectivas delegações serão comunicadas por via diplomática.
+
+3 - A Comissão Mista reunirá alternadamente no território de cada uma das Partes.
+
+4 - Peritos e representantes do sector privado de ambos os Estados poderão ser convidados a participar nos trabalhos da Comissão Mista, mediante acordo prévio das Partes.
+
+###### Artigo 9.º — Solução de controvérsias
+
+Qualquer controvérsia relativa à interpretação ou aplicação deste Acordo, não solucionada no âmbito da Comissão Mista, será resolvida através de negociações entre as Partes.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente Acordo entrará em vigor trinta (30) dias após a data de recepção da última notificação, por escrito e por via diplomática, declarando que foram cumpridos todos os procedimentos internos de ambas as Partes necessários para o efeito.
+
+###### Artigo 11.º — Revisão
+
+1 - O presente Acordo pode ser objecto de revisão a pedido de qualquer das Partes.
+
+2 - As emendas entrarão em vigor nos termos previstos no artigo 10.º do presente Acordo.
+
+###### Artigo 12.º — Vigência e denúncia
+
+1 - O presente Acordo permanecerá em vigor por um período de cinco anos renovável automaticamente por períodos iguais e sucessivos.
+
+2 - Qualquer das Partes poderá denunciar o presente Acordo mediante notificação prévia, por escrito e por via diplomática, com uma antecedência mínima de seis meses em relação ao termo do período de vigência em curso.
+
+3 - Em caso de denúncia, o presente Acordo cessará a sua vigência no final do período de vigência em curso.
+
+4 - Em caso de denúncia, qualquer programa ou projecto, iniciado durante a vigência do presente Acordo, permanecerá em execução até à sua conclusão, salvo se as Partes acordarem em contrário.
+
+###### Artigo 13.º — Registo
+
+A Parte em cujo território o presente Acordo for assinado, no mais breve prazo possível após a sua entrada em vigor, submetê-lo-á para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar-lhe o número de registo atribuído.
+
+**Assinado em Lisboa, no dia 7 de Novembro de 2010, nas línguas portuguesa, chinesa e inglesa, fazendo todos os textos igualmente fé. Em caso de divergência de interpretação prevalecerá a versão inglesa.**
+
+Pela República Portuguesa:
+
+Bernardo Trindade, Secretário de Estado do Turismo.
+
+Pela República Popular da China:
+
+Shao Qiwei, Presidente da Administração Nacional de Turismo da China.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/05200/0110801111.pdf))](https://files.diariodarepublica.pt/1s/2012/03/05200/0110801111.pdf)
+
+CO-OPERATION AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE PEOPLE'S REPUBLIC OF CHINA IN THE FIELD OF TOURISM
+
+The Portuguese Republic and the People's Republic of China hereinafter referred to as «Parties»:
+
+Aware of the importance of co-operation in the field of tourism for the development of the bilateral relations between Portugal and China;
+
+Aiming at the enlargement and strengthening of the friendship relations between both Peoples;
+
+Considering tourism as an important means for the reinforcement of mutual understanding, sign of good will and consolidation of the relations between both countries;
+
+Decided to establish a legal framework for the co-operation in the field of tourism, based on the principles of equality and mutual benefits;
+
+agree as follows:
+
+Article 1
+
+Object
+
+The Parties shall promote and reinforce institutional and entrepreneurial co-operation in the field of tourism in accordance with the relative national legislation in force and other International Agreements applicable.
+
+Article 2
+
+Scope of the Co-operation
+
+The present Agreement establishes the legal framework for the development of co-operation between the Parties in the field of tourism, at the following levels:
+
+a) Institutional co-operation;
+
+b) Entrepreneurial co-operation and Investment;
+
+c) Professional training;
+
+d) Tourism promotion.
+
+Article 3
+
+Institutional Co-operation
+
+The Parties shall engage themselves in the development of co-operation between the relative National Tourism Bodies and the facilitation of contacts between the institutions of both States in the field of tourism.
+
+Article 4
+
+Entrepreneurial Co-operation and Investment
+
+The Parties shall promote and encourage the exchange of information on investment opportunities in the fields of tourism and hotel industry, and shall also facilitate the contacts between the entrepreneurial associations of the both countries.
+
+Article 5
+
+Professional Training
+
+The Parties shall cooperate in the field of professional tourism training, namely through the initial basic training and the training of professionals.
+
+Article 6
+
+Tourism promotion
+
+The Parties shall endeavour the development of co-operation in the field of the tourism promotion by facilitating the exchange of information on tourist markets, marketing plans and advertising campaigns.
+
+Article 7
+
+Official Tourism Representations
+
+The Parties shall facilitate the opening of official tourism representations on their territories in accordance with their respective legislation.
+
+Article 8
+
+Joint Commission
+
+1 - The Parties shall create a Joint Commission in order to promote, develop and implement the co-operation established in the present Agreement.
+
+2 - The Joint Commission shall be composed of representatives of the institutions responsible for the tourism sector of both Parties, being the respective delegations communicated through diplomatic channels.
+
+3 - The Joint Commission shall convene alternately on the territory of each Party.
+
+4 - Experts and representatives of the private sector of both States may be invited to take part in the works of the Joint Commission, through previous agreement of the Parties.
+
+Article 9
+
+Settlement of disputes
+
+Any dispute concerning the interpretation or application of this Agreement, not solved under the context of the Joint Commission, shall be settled through negotiations between the Parties.
+
+Article 10
+
+Entry into force
+
+The present Agreement shall enter into force thirty (30) days after the date of receipt of the later of the notifications, in writing and through diplomatic channels, declaring the completion of the internal procedures of both Parties required for that purpose.
+
+Article 11
+
+Amendments
+
+1 - The present Agreement may be amended upon request of one of the Parties.
+
+2 - The amendments shall enter into force in accordance with the terms established in article 10 of the present Agreement.
+
+Article 12
+
+Duration and termination
+
+1 - The present Agreement shall remain in force for successive and automatically renewable periods of five years.
+
+2 - Either Party may denounce the present Agreement upon a notification, in writing through diplomatic channels, at least six months prior to its expiry date.
+
+3 - In case of denunciation, the present Agreement shall terminate on its expiry date.
+
+4 - In the case of denunciation, any programme or project initiated while the present Agreement was in force, shall remain in execution until its conclusion, unless the Parties agree otherwise.
+
+Article 13
+
+Registration
+
+Upon the entry into force of the present Agreement, the Party in whose territory it is signed shall transmit it to the Secretariat of the United Nations for registration, in accordance with article 102 of the Charter of the United Nations, and shall notify the other Party of the completion of this procedure as well as of its registration number.
+
+Signed in Lisbon, on 7th of November of 2010, in the Portuguese, Chinese and English languages, all texts being equally authentic. In case of divergence of interpretation, the English version shall prevail.
+
+For The Portuguese Republic:
+
+Bernardo Trindade, Secretary of State for Tourism.
+
+For The People's Republic of China:
+
+Shao Qiwei, Chairman of China National Tourism Administration.

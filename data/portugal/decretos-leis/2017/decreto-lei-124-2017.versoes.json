@@ -1,0 +1,604 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108219722:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-835806465",
+ "dre_path": "/dr/detalhe/decreto-lei/124-2017-108219722",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-09-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835807029",
+    "835807030",
+    "835807031",
+    "835807032",
+    "835807033",
+    "835807034",
+    "835807035",
+    "835807036",
+    "835807037",
+    "835807038",
+    "835807039",
+    "835807040",
+    "835807041",
+    "835807042",
+    "835807043",
+    "835807044",
+    "835807045",
+    "835807046",
+    "835807047",
+    "835807048",
+    "835807049"
+   ]
+  },
+  {
+   "date": "2023-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835674287:por",
+     "title": "Decreto-Lei n.º 122/2023",
+     "published": "2023-12-26",
+     "dre_path": "/dr/detalhe/decreto-lei/122-2023-835674287"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 6.º-A",
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "835807029",
+    "835807030",
+    "835807055",
+    "835807032",
+    "835807033",
+    "835807034",
+    "835807056",
+    "835807057",
+    "835807064",
+    "835807065",
+    "835807069",
+    "835807070",
+    "835807071",
+    "835807072",
+    "835807041",
+    "835807061",
+    "835807043",
+    "835807073",
+    "835807074",
+    "835807175",
+    "835807176",
+    "835807046",
+    "835807047",
+    "835807048",
+    "835807049",
+    "835807050"
+   ]
+  },
+  {
+   "date": "2025-03-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:911303061:por",
+     "title": "Decreto-Lei n.º 19/2025",
+     "published": "2025-03-18",
+     "dre_path": "/dr/detalhe/decreto-lei/19-2025-911303061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 5.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 6.º-A",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "835807029",
+    "835807030",
+    "911478383",
+    "911478384",
+    "835807033",
+    "835807034",
+    "911478385",
+    "911478386",
+    "911478387",
+    "911478388",
+    "911478389",
+    "911478390",
+    "911478391",
+    "911478392",
+    "835807041",
+    "911478393",
+    "911478394",
+    "835807073",
+    "911478395",
+    "835807175",
+    "835807176",
+    "835807046",
+    "835807047",
+    "835807048",
+    "835807049",
+    "835807050"
+   ]
+  }
+ ],
+ "fragments": {
+  "835807029": {
+   "fragment_id": "835806466",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 124/2017\n\nde 27 de setembro\n\nA projeção de Portugal no mundo, através das suas comunidades residentes no estrangeiro, implica o reconhecimento da importância do papel que estas têm desempenhado, constituindo, entre outros, objetivo do Governo potenciar a representatividade das comunidades e reforçar a solidariedade para com estas.\n\nÉ atribuição do Ministério dos Negócios Estrangeiros, a prosseguir pela Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas, o apoio e a valorização das comunidades portuguesas espalhadas pelo mundo.\n\nNeste contexto, o associativismo constitui uma das mais importantes formas de organização social e um instrumento privilegiado para a satisfação das necessidades do ser humano, nas suas mais diversas manifestações sociais, educativas, políticas, culturais e económicas.\n\nNo seio das comunidades portuguesas, a proliferação de iniciativas e de movimentos com carácter associativo tem sido uma característica assaz significativa, que demonstra não só a permanência de um vínculo de pertença cultural, mas sobretudo um sinal de integração nos países de acolhimento. De facto, as mais diferentes associações, com origem na comunidade portuguesa, têm uma vocação que largamente excede a pura relação intracomunitária. São conhecidas as diversas parcerias em vários países entre movimentos associativos das comunidades portuguesas e diferentes poderes locais e, bem assim, a sua própria abertura à participação de e por outras comunidades. Os desafios da passagem do testemunho às novas gerações, no tempo presente, recomendam uma reflexão não só sobre a sustentabilidade das iniciativas e sobre o rigor na atribuição dos diferentes apoios, mas também sobre as suas condições de angariação de meios, dada a complexidade crescente das relações no seio das sociedades marcadas pela globalização.\n\nA espontaneidade do surgimento das associações é uma das suas principais riquezas. Contudo, o apelo à unificação e à construção de sinergias que levem ao reforço das capacidades de intervenção no domínio associativo é também uma das valências que se pretende fazer relevar na disponibilização de apoios públicos.\n\nO reforço das iniciativas das associações portuguesas no estrangeiro, como espaço privilegiado de valorização de Portugal no mundo e de apoio e proteção aos portugueses, no quadro das atribuições consulares, justifica uma disciplina de atribuição de apoios sustentada na avaliação e ponderação por critérios objetivos. Pretende-se, assim, um reforço da organização e do rigor na avaliação e aplicação dos recursos públicos ao serviço do movimento associativo, em consonância com os princípios gerais que regem a concessão de subvenções públicas, estabelecidos pelo Decreto-Lei n.º 167/2008, de 26 de agosto.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "835807030": {
+   "fragment_id": "835806467",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "835807031": {
+   "fragment_id": "835806468",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei estabelece e regula as condições de atribuição de apoios, por parte do Ministério dos Negócios Estrangeiros (MNE), às ações e projetos de movimentos associativos das comunidades portuguesas no estrangeiro, que contribuam para os seguintes objetivos gerais:\n\na) Promover a integração social, nomeadamente em termos linguísticos, culturais e políticos, dos portugueses nos países de acolhimento;\n\nb) Reforçar a ligação dos portugueses residentes no estrangeiro à vida social, política, cultural e económica dos países onde residem;\n\nc) Promover e divulgar a língua e cultura portuguesas no estrangeiro;\n\nd) Consolidar os laços de solidariedade entre os membros de uma determinada comunidade, nomeadamente com os mais idosos e carenciados;\n\ne) Estimular e consolidar os vínculos de pertença à cultura portuguesa;\n\nf) Promover a formação dos dirigentes associativos;\n\ng) Promover a igualdade, designadamente de género, e a cidadania nas comunidades.\n\n2 - Sem prejuízo do número anterior, consideram-se prioritárias as ações do movimento associativo que privilegiem a promoção da língua e da cultura portuguesas, os jovens, a inclusão social, a capacitação e a valorização profissional, a participação cívica e política, o combate à xenofobia e o diálogo com as micro e pequenas empresas dos portugueses residentes no estrangeiro que queiram investir em Portugal.\n\n3 - Em casos excecionais, nomeadamente os que digam respeito aos países identificados no âmbito do Plano Nacional de Regresso, podem vir a ser apoiados outros projetos ou ações, desde que estejam devidamente fundamentados quanto aos seus objetivos e destinatários e relevem pela sua qualidade."
+  },
+  "835807032": {
+   "fragment_id": "835806469",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nOs apoios têm a natureza de apoio financeiro não reembolsável e são concedidos através do financiamento de ações e projetos, enquadrados no plano de atividades e orçamento da entidade proponente, até ao limite máximo de 80 % ou de 50 % do valor considerado elegível do orçamento apresentado, consoante se trate de entidades com sede em território estrangeiro ou em território nacional."
+  },
+  "835807033": {
+   "fragment_id": "835806470",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicitação do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Publicitação do apoio\n\n1 - As entidades beneficiárias ficam obrigadas a publicitar o apoio atribuído, com menção explícita ao MNE e utilização do logótipo das Comunidades Portuguesas, disponível no sítio na Internet do MNE, em todas as ações, atividades ou suportes de comunicação com divulgação pública.\n\n2 - O incumprimento do disposto no número anterior determina a impossibilidade de apresentação de novas candidaturas, nos três anos seguintes à sua verificação.\n\n3 - A Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas (DGACCP) divulga anualmente, no sítio na Internet do MNE, a lista de apoios concedidos, nos termos dos artigos 4.º e 5.º da Lei n.º 64/2013, de 27 de agosto."
+  },
+  "835807034": {
+   "fragment_id": "835806471",
+   "type": 1,
+   "heading": "Capítulo II — Acesso aos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acesso aos apoios"
+  },
+  "835807035": {
+   "fragment_id": "835806472",
+   "type": 11,
+   "heading": "Artigo 4.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Candidaturas\n\n1 - Podem candidatar-se à atribuição de apoios as seguintes entidades:\n\na) Associações e federações das comunidades portuguesas legalmente constituídas há mais de um ano, sem fins lucrativos ou partidários, cujo objeto vise o benefício sociocultural das referidas comunidades;\n\nb) Outras pessoas coletivas nacionais ou estrangeiras constituídas há mais de um ano, sem fins lucrativos ou partidários, que proponham a realização de atividades que resultem em benefício das comunidades portuguesas e se enquadrem em pelo menos um dos objetivos e prioridades definidas no artigo 1.º\n\n2 - É condição prévia de apresentação de qualquer candidatura a credenciação da entidade junto da DGACCP, através da apresentação:\n\na) Do ato de constituição e dos estatutos;\n\nb) Do registo junto das autoridades do país onde está sediada;\n\nc) Do plano de atividades e orçamento; e\n\nd) Do relatório de atividades e contas relativos ao ano anterior, aprovados e assinados pelos órgãos sociais."
+  },
+  "835807036": {
+   "fragment_id": "835806473",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - As candidaturas ao apoio são apresentadas junto do posto consular ou da secção consular da embaixada territorialmente competente, em razão da área de execução da ação ou projeto, preferencialmente por via eletrónica.\n\n2 - As candidaturas são apresentadas mediante entrega de formulário disponível no Portal das Comunidades Portuguesas.\n\n3 - As candidaturas devem ser acompanhadas de um orçamento global, do qual conste a estimativa de custos e receitas, incluindo os apoios de outras entidades, nacionais ou estrangeiras, quando existam, de modo a permitir a avaliação da viabilidade do projeto.\n\n4 - Para além dos elementos referidos no número anterior, as candidaturas devem ser acompanhadas:\n\na) Do plano de atividades calendarizado e do orçamento do ano para o qual se solicita o apoio, aprovados e assinados pelos órgãos sociais;\n\nb) Do relatório de atividades e contas relativas ao ano anterior ao da apresentação da candidatura, aprovados e assinados pelos órgãos sociais;\n\nc) Das certidões comprovativas de situação contributiva e tributária regularizadas, quando aplicável, ou de consentimento para consulta da situação tributária ou contributiva regularizada;\n\nd) De declaração, sob compromisso de honra, de não condenação da pessoa coletiva ou dos titulares dos seus órgãos sociais por factos relativos à prossecução do seu objeto, por sentença transitada em julgado, nos cinco anos que precedem a candidatura, nos termos constantes do formulário de candidatura;\n\ne) De declaração, sob compromisso de honra, da veracidade das informações prestadas, nos termos constantes do formulário de candidatura;\n\nf) Do programa do projeto, com cronograma.\n\n5 - O prazo para apresentação de candidaturas decorre entre 1 de outubro e 31 de dezembro de cada ano para ação ou projeto a realizar no ano civil seguinte, ou que tenha conclusão até ao final do primeiro trimestre do segundo ano civil seguinte, de modo a permitir uma análise sobre a planificação de prioridades, enquadramento orçamental e respetiva execução.\n\n6 - A não apresentação dos documentos exigidos nos n.os 3 e 4 determina o indeferimento liminar da candidatura pelo posto consular ou secção consular da embaixada.\n\n7 - O modelo de formulário previsto no n.º 2 é aprovado por portaria do membro do Governo responsável pela área dos assuntos consulares."
+  },
+  "835807037": {
+   "fragment_id": "835806474",
+   "type": 11,
+   "heading": "Artigo 6.º — Parecer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Parecer\n\nAs candidaturas apresentadas carecem de parecer do posto consular ou da secção consular da embaixada territorialmente competente, o qual deve ser emitido no prazo de 15 dias a contar da data da receção da candidatura no posto consular ou secção consular da embaixada."
+  },
+  "835807038": {
+   "fragment_id": "835804775",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de apreciação do mérito das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de apreciação do mérito das candidaturas\n\n1 - Na apreciação do mérito das candidaturas, e para efeitos de instrução da decisão sobre o pedido de atribuição do apoio, são considerados os seguintes critérios:\n\na) A conformidade da ação ou projeto com os objetivos ou prioridades definidas no artigo 1.º;\n\nb) A conformidade com as exigências previstas no artigo 5.º;\n\nc) A qualidade do projeto apresentado, bem como a sua relevância e interesse para a comunidade portuguesa local;\n\nd) A capacidade de organização, de promoção e de divulgação de iniciativas demonstradas pela entidade candidata;\n\ne) O número e a caracterização dos potenciais destinatários do projeto;\n\nf) Previsão da ação ou projeto no plano de atividades anual, nos termos previstos no número seguinte;\n\ng) A não atribuição de financiamento para a mesma ação ou projeto por outra entidade, nacional ou estrangeira.\n\n2 - Para a concessão do apoio, é obrigatório que as ações ou projetos estejam devidamente enquadrados no plano de atividades anual da entidade candidata, aprovado pelos órgãos estatutários competentes."
+  },
+  "835807039": {
+   "fragment_id": "835804776",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\n1 - São consideradas elegíveis as despesas realizadas pelas entidades candidatas para execução da ação ou projeto apoiado, desde que previstas no orçamento global referido no n.º 3 do artigo 5.º, e na medida em que se demonstrem adequadas e necessárias.\n\n2 - Não são por regra consideradas as despesas relativas, nomeadamente:\n\na) Aos encargos correntes e permanentes que digam respeito ao regular e normal funcionamento da entidade candidata ao apoio;\n\nb) À aquisição de instalações;\n\nc) À aquisição e aluguer de veículos automóveis;\n\nd) À aquisição de instrumentos, equipamentos científicos, técnicos e de software;\n\ne) Às viagens, alojamento, alimentação e ajudas de custo de qualquer espécie de colaboradores permanentes da entidade candidata ao apoio."
+  },
+  "835807040": {
+   "fragment_id": "835804777",
+   "type": 11,
+   "heading": "Artigo 9.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Decisão\n\n1 - Tendo em conta os critérios indicados no artigo 7.º, a DGACCP procede à análise das candidaturas e elabora uma proposta de distribuição da dotação orçamental disponível para o efeito, até 15 de março de cada ano.\n\n2 - A proposta da DGACCP é publicada no Portal das Comunidades Portuguesas, podendo qualquer interessado pronunciar-se sobre a mesma, no prazo de 10 dias.\n\n3 - A DGACCP elabora uma proposta final de distribuição da dotação orçamental disponível, tendo em conta os contributos apresentados nos termos do número anterior, competindo ao membro do Governo responsável pela área dos assuntos consulares a aprovação da referida proposta.\n\n4 - A lista das entidades cujos pedidos foram aprovados é divulgada pela DGACCP no Portal das Comunidades Portuguesas, até 15 de maio de cada ano.\n\n5 - As candidaturas a que não seja atribuído financiamento são indeferidas, sendo as entidades em causa notificadas da decisão, nos termos dos artigos 110.º e seguintes do Código do Procedimento Administrativo."
+  },
+  "835807041": {
+   "fragment_id": "835804778",
+   "type": 1,
+   "heading": "Capítulo III — Entrega, controlo e avaliação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Entrega, controlo e avaliação dos apoios"
+  },
+  "835807042": {
+   "fragment_id": "835804779",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrega do apoio atribuído",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrega do apoio atribuído\n\n1 - A entrega do apoio atribuído é feita por intermédio do posto ou secção consular da embaixada territorialmente competente, mediante a celebração de um contrato.\n\n2 - O contrato a celebrar com a entidade apoiada contém, designadamente:\n\na) A identificação das partes e dos respetivos representantes, assim como do título a que intervêm;\n\nb) A descrição do objeto do contrato;\n\nc) Os direitos e obrigações de cada uma das partes;\n\nd) O prazo de execução das atividades apoiadas;\n\ne) O montante do apoio atribuído;\n\nf) As consequências do incumprimento contratual, tendo em conta, nomeadamente, o disposto no artigo 13.º\n\n3 - O contrato é assinado, em representação da República Portuguesa, pelo titular do posto ou secção consular da embaixada territorialmente competente.\n\n4 - O contrato é celebrado em triplicado, sendo um exemplar enviado à DGACCP no prazo de 30 dias a contar da sua assinatura.\n\n5 - Quando o montante do apoio atribuído for inferior a (euro) 10 000,00, a entrega do financiamento faz-se mediante a assinatura, pela entidade apoiada, de declaração de compromisso de execução da ação ou projeto, nos precisos termos da candidatura, e de aceitação das condições impostas pelo presente decreto-lei, a enviar pelo titular do posto ou secção consular da embaixada territorialmente competente à DGACCP, no prazo previsto no número anterior."
+  },
+  "835807043": {
+   "fragment_id": "835804780",
+   "type": 11,
+   "heading": "Artigo 11.º — Circunstâncias imprevistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Circunstâncias imprevistas\n\n1 - Se, por circunstâncias imprevistas e imprevisíveis, uma ação ou projeto financeiramente apoiado não for cumprido no prazo estabelecido, o mesmo pode ainda ser executado até ao final do trimestre seguinte àquele prazo, nos termos do número seguinte.\n\n2 - O pedido de prorrogação deve ser apresentado junto do posto consular ou da secção consular da embaixada territorialmente competente, dirigido ao Diretor-Geral dos Assuntos Consulares e das Comunidades Portuguesas, e é remetido à DGACCP no prazo de 10 dias, instruído com o parecer do titular do serviço, para autorização."
+  },
+  "835807044": {
+   "fragment_id": "835804781",
+   "type": 11,
+   "heading": "Artigo 12.º — Controlo, acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Controlo, acompanhamento e avaliação\n\n1 - Cabe à DGACCP o controlo, acompanhamento e avaliação dos projetos apoiados.\n\n2 - As entidades apoiadas são obrigadas a apresentar à DGACCP, no prazo de 45 dias a contar do termo da ação ou projeto apoiado, um relatório final que contenha todos os elementos de natureza qualitativa e quantitativa necessários à análise e avaliação dos resultados obtidos e da boa aplicação do apoio concedido, o qual deve merecer parecer do posto ou secção consular da embaixada territorialmente competente.\n\n3 - As entidades apoiadas devem ainda organizar um arquivo autónomo, preferencialmente em suporte eletrónico, da documentação relativa à ação ou projeto apoiado, utilizando os documentos originais ou cópias autenticadas das despesas efetuadas e respetivos comprovativos de pagamento, emitidos nos termos legais aplicáveis, devidamente numerados, e identificando a percentagem de qualquer outro apoio financeiro recebido, quando seja caso disso.\n\n4 - Para efeitos de apreciação e avaliação dos resultados obtidos e da boa aplicação do apoio concedido, a DGACCP pode solicitar o acesso ao arquivo mencionado no número anterior, ou, através dos postos consulares ou das secções consulares das embaixadas, a todos os elementos que entenda pertinentes para a melhor apreciação e avaliação dos projetos apoiados.\n\n5 - O modelo de relatório final é aprovado por portaria do membro do Governo responsável pela área dos assuntos consulares, e é disponibilizado no Portal das Comunidades Portuguesas."
+  },
+  "835807045": {
+   "fragment_id": "835804782",
+   "type": 11,
+   "heading": "Artigo 13.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Incumprimento\n\n1 - A falta de cumprimento, pela entidade apoiada, das respetivas obrigações ou do disposto no presente decreto-lei, determina a impossibilidade de apresentação de novas candidaturas nos três anos seguintes à verificação do incumprimento.\n\n2 - Implica ainda a reposição do montante atribuído, pela entidade apoiada, qualquer dos seguintes factos:\n\na) A não execução da ação ou projeto no prazo previsto ou até ao final da prorrogação autorizada nos termos do artigo 11.º;\n\nb) A não apresentação do relatório previsto no n.º 2 do artigo anterior;\n\nc) A não apresentação dos elementos solicitados pela DGACCP, nos termos do n.º 4 do artigo anterior, sempre que estes sejam considerados essenciais para justificar a boa aplicação do apoio concedido;\n\nd) A utilização do apoio financeiro, no todo ou em parte, para fins diversos daqueles para os quais foi atribuído, ou outras irregularidades de igual gravidade.\n\n3 - A reposição do montante atribuído pode ser exigida no prazo de três anos a contar do seu recebimento pela entidade apoiada, aplicando-se quanto a esta matéria, com as devidas adaptações, o disposto no regime da administração financeira do Estado, aprovado pelo Decreto-Lei n.º 155/92, de 28 de julho, alterado pelos Decretos-Leis n.os 275-A/93, de 9 de agosto, e 113/95, de 25 de maio, pela Lei n.º 10-B/96, de 23 de março, pelo Decreto-Lei n.º 190/96, de 9 de outubro, pela Lei n.º 55-B/2004, de 30 de dezembro, pelo Decreto-Lei n.º 29-A/2011, de 1 de março, e pela Lei n.º 83-C/2013, de 31 de dezembro, e pelo Decreto-Lei n.º 85/2016, de 21 de dezembro.\n\n4 - As falsas declarações são puníveis nos termos gerais da lei."
+  },
+  "835807046": {
+   "fragment_id": "835804783",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares e finais"
+  },
+  "835807047": {
+   "fragment_id": "835804784",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direito subsidiário\n\nEm tudo o que não estiver especificamente regulado no presente decreto-lei, aplica-se subsidiariamente, e com as necessárias adaptações, o disposto no Código do Procedimento Administrativo e no regime jurídico aplicável à concessão de subvenções públicas, estabelecido pelo Decreto-Lei n.º 167/2008, de 26 de agosto."
+  },
+  "835807048": {
+   "fragment_id": "835804785",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nÉ revogado o Despacho n.º 16155/2005, publicado no Diário da República, 2.ª série, n.º 141, de 25 de julho, com efeitos à data de 30 de setembro de 2017."
+  },
+  "835807049": {
+   "fragment_id": "835804786",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "835807055": {
+   "fragment_id": "835806468",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei estabelece e regula as condições de atribuição de apoios, por parte do Ministério dos Negócios Estrangeiros (MNE), às ações e projetos de movimentos associativos das comunidades portuguesas no estrangeiro, que contribuam para os seguintes objetivos gerais:\n\na) Promover a integração social em termos linguísticos, culturais, políticos, económicos e reforçar a ligação dos portugueses nos países de acolhimento;\n\nb) (Revogada.)\n\nc) Promover e divulgar a língua e cultura portuguesas no estrangeiro;\n\nd) Consolidar os laços de solidariedade entre os membros de uma determinada comunidade, nomeadamente com os mais idosos e carenciados;\n\ne) Estimular e consolidar os vínculos de pertença à cultura portuguesa;\n\nf) Promover a formação dos dirigentes associativos;\n\ng) Promover a igualdade de género, a não discriminação em razão da raça, cor, origem étnica ou nacional, ascendência, língua, religião, sexo, orientação sexual, identidade de género ou deficiência física ou psíquica, a participação cívica e a cidadania.\n\n2 - Sem prejuízo do número anterior, consideram-se prioritárias as ações do movimento associativo que privilegiem a promoção da língua e da cultura portuguesas, a diplomacia científica, os jovens, os idosos, a inclusão social, a capacitação e a valorização profissional, a participação cívica e política, o combate à xenofobia, a promoção da igualdade de género e da não discriminação.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807056": {
+   "fragment_id": "835806472",
+   "type": 11,
+   "heading": "Artigo 4.º — Credenciação e candidaturas",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 4.º — Credenciação e candidaturas\n\n1 - É condição prévia à apresentação de qualquer candidatura a credenciação junto da DGACCP.\n\n2 - Podem credenciar-se as seguintes entidades:\n\na) Associações e federações das comunidades portuguesas no estrangeiro, constituídas legalmente há mais de um ano, sem fins lucrativos ou partidários, cujo objeto vise o benefício sociocultural das referidas comunidades;\n\nb) Outras pessoas coletivas nacionais ou estrangeiras, cujos órgãos sociais sejam constituídos por cidadãos nacionais ou lusodescendentes, constituídas há mais de um ano, sem fins lucrativos ou partidários, que proponham a realização de atividades que resultem em benefício das comunidades portuguesas e se enquadrem em pelo menos um dos objetivos e prioridades definidas no artigo 1.º\n\n3 - A credenciação é conferida pelo prazo de três anos.\n\n4 - O pedido de credenciação pode ser requerido a todo o tempo pela entidade proponente, por via eletrónica, através da apresentação:\n\na) Do ato de constituição e dos estatutos;\n\nb) Do registo junto das autoridades do país onde está sediada;\n\n5 - A lista das associações credenciadas e o período de validade da credenciação conferida é publicitada anualmente no sítio na Internet do MNE.\n\n6 - Podem candidatar-se à concessão de apoios as entidades credenciadas nos termos dos números anteriores.\n\n7 - Cada entidade pode apresentar até três candidaturas por ano civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807057": {
+   "fragment_id": "835806473",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - As candidaturas são apresentadas por via eletrónica, pela entidade credenciada, junto do posto consular ou secção consular da embaixada territorialmente competente, em razão da área de execução da ação ou projeto.\n\n2 - O prazo para apresentação de candidaturas decorre, anualmente, entre 1 de outubro e 31 de dezembro.\n\n3 - As candidaturas são acompanhadas pelos seguintes documentos:\n\na) Formulário disponível no sítio na Internet do MNE;\n\nb) Plano de atividades calendarizado e do orçamento do ano para o qual se solicita o apoio, aprovados e assinados pelos órgãos sociais;\n\nc) Certidões comprovativas de situação contributiva e tributária regularizadas, quando aplicável, ou de consentimento para consulta da situação tributária ou contributiva regularizada;\n\nd) Programa do projeto, com orçamento e cronograma.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807064": {
+   "fragment_id": "835804792",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Admissão de candidaturas",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 5.º-A — Admissão de candidaturas\n\n1 - As candidaturas apresentadas são objeto de registo, no momento em que as entidades candidatas as submetem eletronicamente, sendo permitidas, dentro do prazo fixado para a apresentação de candidaturas, por iniciativa da própria entidade ou a pedido do posto consular ou da secção consular da embaixada territorialmente competente, alterações posteriores para suprir deficiências documentais.\n\n2 - A não apresentação das candidaturas dentro do prazo fixado para a sua apresentação e a falta de apresentação dos documentos previstos no n.º 3 do artigo 5.º determina o indeferimento liminar da candidatura pelo posto consular ou secção consular da embaixada territorialmente competente.\n\n3 - Em casos excecionais, e de comprovada ausência de meios tecnológicos adequados, podem ser admitidas candidaturas e respetivos documentos em suporte papel.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807065": {
+   "fragment_id": "835806474",
+   "type": 11,
+   "heading": "Artigo 6.º — Parecer consular",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 6.º — Parecer consular\n\nAs candidaturas admitidas pelo posto consular ou secção consular da embaixada territorialmente competente são enviadas, por via eletrónica, à DGACCP, nos 15 dias úteis após o fim do prazo da apresentação das mesmas, acompanhadas do respetivo parecer do posto consular ou secção consular, que deverá respeitar os seguintes critérios de apreciação:\n\na) A exequibilidade temporal e objetiva do projeto ou ação;\n\nb) A capacidade organizativa da entidade candidata;\n\nc) A adequação dos meios utilizados para a concretização do projeto ou ação;\n\nd) Os benefícios para as comunidades portuguesas residentes na área de execução do projeto ou ação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807069": {
+   "fragment_id": "835804793",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Júri",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 6.º-A — Júri\n\n1 - A apreciação das candidaturas é da competência do júri constituído por um presidente, dois vogais efetivos e dois vogais suplentes, designados pelo Diretor-Geral dos Assuntos Consulares e das Comunidades Portuguesas.\n\n2 - O júri é constituído por:\n\na) Diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas, que preside;\n\nb) Quatro trabalhadores em funções públicas, pertencentes ao mapa de pessoal da DGACCP, dois efetivos, um deles substitui o presidente nas suas faltas e impedimentos, e dois suplentes.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807070": {
+   "fragment_id": "835804775",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de apreciação do mérito das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de apreciação do mérito das candidaturas\n\n1 - Na apreciação do mérito das candidaturas, e para efeitos de instrução da decisão sobre o pedido de atribuição do apoio, são considerados os seguintes critérios:\n\na) A conformidade da ação ou projeto com os objetivos ou prioridades definidas no artigo 1.º;\n\nb) A conformidade com as exigências previstas no artigo 5.º;\n\nc) A qualidade do projeto apresentado, bem como a sua relevância e interesse para a comunidade portuguesa local;\n\nd) A capacidade de organização, de promoção e de divulgação de iniciativas demonstradas pela entidade candidata;\n\ne) O número e a caracterização dos potenciais destinatários do projeto;\n\nf) Previsão da ação ou projeto no plano de atividades anual, nos termos previstos no número seguinte;\n\ng) A não atribuição de financiamento para a mesma ação ou projeto por outra entidade, nacional ou estrangeira.\n\n2 - Para a concessão do apoio, é obrigatório que as ações ou projetos estejam devidamente enquadrados no plano de atividades anual da entidade candidata, aprovado pelos órgãos estatutários competentes."
+  },
+  "835807071": {
+   "fragment_id": "835804776",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\n1 - São consideradas elegíveis as despesas previstas no orçamento apresentado com a candidatura, desde que adequadas, proporcionais e necessárias à execução da ação ou projeto.\n\n2 - Não são por regra consideradas as despesas relativas, nomeadamente:\n\na) Aos encargos correntes e permanentes que digam respeito ao regular e normal funcionamento da entidade candidata ao apoio;\n\nb) À aquisição de instalações;\n\nc) À aquisição e aluguer de veículos automóveis;\n\nd) À aquisição de instrumentos, equipamentos científicos, técnicos e de software;\n\ne) Às viagens, alojamento, alimentação e ajudas de custo de qualquer espécie de colaboradores permanentes da entidade candidata ao apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807072": {
+   "fragment_id": "835804777",
+   "type": 11,
+   "heading": "Artigo 9.º — Decisão",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 9.º — Decisão\n\n1 - Até ao dia 15 de março de cada ano, o júri procede à análise das candidaturas e elabora uma lista provisória de decisão, devidamente fundamentada, com a distribuição da dotação orçamental disponível que é notificada às candidaturas, deferidas e indeferidas, para pronúncia no prazo de 10 dias úteis, em sede de audiência prévia.\n\n2 - A lista provisória de decisão é, igualmente, publicada no sítio na Internet do MNE.\n\n3 - Após aquele prazo e analisadas as eventuais pronúncias, o júri envia a lista final de distribuição da dotação orçamental disponível para homologação do membro do Governo responsável pela área das comunidades portuguesas.\n\n4 - A lista das candidaturas a quem foi atribuído financiamento é divulgada no sítio na Internet do MNE, até ao dia 30 de abril de cada ano e as candidaturas notificadas.\n\n5 - As candidaturas que não foram objeto de atribuição de financiamento são notificadas da decisão, nos termos dos artigos 110.º e seguintes do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807061": {
+   "fragment_id": "835804779",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrega do apoio atribuído",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 10.º — Entrega do apoio atribuído\n\n1 - A entrega do apoio atribuído é feita por intermédio do posto ou secção consular da embaixada territorialmente competente, mediante a celebração de um contrato.\n\n2 - O contrato a celebrar contém, designadamente:\n\na) A identificação das partes e dos respetivos representantes, assim como do título a que intervêm;\n\nb) A descrição do objeto do contrato;\n\nc) Os direitos e obrigações de cada uma das partes;\n\nd) O prazo de execução das atividades apoiadas;\n\ne) O montante do apoio atribuído;\n\nf) As consequências do incumprimento contratual.\n\n3 - O contrato é assinado, em representação da República Portuguesa, pelo titular do posto ou secção consular da embaixada territorialmente competente.\n\n4 - O contrato é celebrado em triplicado, sendo um exemplar enviado à DGACCP no prazo de 30 dias a contar da sua assinatura.\n\n5 - A entrega do financiamento faz-se mediante a assinatura, pela entidade apoiada, de declaração de compromisso de execução da ação ou projeto, nos precisos termos da candidatura, e de aceitação das condições previstas no presente decreto-lei, a enviar pelo titular do posto ou secção consular da embaixada territorialmente competente à DGACCP, no prazo previsto no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807073": {
+   "fragment_id": "835804794",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Prorrogação excecional",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 11.º-A — Prorrogação excecional\n\n1 - Em circunstâncias absolutamente excecionais e imprevisíveis, designadamente provocadas por desastre natural ou ambiental, ou fortes perturbações de ordem pública, de segurança pública ou de saúde pública, e tendo em conta os pareceres dos postos consulares ou secções consulares das embaixadas territorialmente competentes e proposta da DGACCP, pode o membro do Governo responsável pela área das comunidades portuguesas prorrogar os prazos de execução dos projetos para além dos prazos identificados no n.º 1 do artigo anterior, bem como autorizar o reembolso até 40 % de despesas que tiveram de ser contraídas.\n\n2 - Para a entidade apoiada beneficiar do regime previsto no número anterior, deverá submeter requerimento fundamentado, junto do posto ou secção consular da embaixada territorialmente competente.\n\n3 - O requerimento deve ser acompanhado de prova dos pagamentos efetuados ou compromissos registados junto de fornecedores de bens ou serviços das despesas elegíveis do projeto, desde que emitidos em data prévia às circunstâncias excecionais que levaram ao cancelamento da ação ou projeto e em nome da entidade beneficiária do apoio.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807074": {
+   "fragment_id": "835804781",
+   "type": 11,
+   "heading": "Artigo 12.º — Controlo, acompanhamento e avaliação",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 12.º — Controlo, acompanhamento e avaliação\n\n1 - Cabe à DGACCP, em articulação com o posto consular ou secção consular da embaixada territorialmente competente, o controlo, acompanhamento e avaliação dos projetos apoiados e da respetiva execução.\n\n2 - As entidades apoiadas são obrigadas a apresentar à DGACCP, no prazo de 45 dias a contar do termo da ação ou projeto apoiado, um relatório final que contenha todos os elementos de natureza qualitativa e quantitativa necessários à análise e avaliação dos resultados obtidos e da boa aplicação do apoio concedido, o qual deve merecer parecer do posto ou secção consular da embaixada territorialmente competente.\n\n3 - Para efeitos do disposto no número anterior, a DGACCP, o posto consular ou secção consular da embaixada competente podem solicitar às entidades apoiadas o envio de informações ou documentos adicionais que considerem pertinentes.\n\n4 - As entidades apoiadas devem ainda organizar um arquivo autónomo, preferencialmente em suporte eletrónico, da documentação relativa à ação ou projeto apoiado, utilizando os documentos originais ou cópias autenticadas das despesas efetuadas e respetivos comprovativos de pagamento, emitidos nos termos legais aplicáveis, devidamente numerados, e identificando a percentagem de qualquer outro apoio financeiro recebido, quando seja caso disso.\n\n5 - O modelo de relatório final é aprovado por portaria do membro do Governo responsável pela área das comunidades portuguesas e disponibilizado no sítio na Internet do MNE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807175": {
+   "fragment_id": "835804782",
+   "type": 11,
+   "heading": "Artigo 13.º — Incumprimento",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 13.º — Incumprimento\n\n1 - A falta de cumprimento, pela entidade apoiada, das respetivas obrigações ou do disposto no presente decreto-lei, determina a impossibilidade de apresentação de novas candidaturas nos três anos seguintes à verificação do incumprimento ou até à reposição total ou parcial da verba atribuída.\n\n2 - Implica ainda a reposição da totalidade ou de parte do montante atribuído, pela entidade apoiada, qualquer dos seguintes factos:\n\na) A não execução ou execução parcial da ação ou projeto no prazo previsto ou até ao final da prorrogação autorizada nos termos do artigo 11.º;\n\nb) A não apresentação do relatório previsto no n.º 2 do artigo anterior;\n\nc) A não apresentação dos elementos solicitados pela DGACCP, nos termos do n.º 3 do artigo anterior, sempre que estes sejam considerados essenciais para justificar a boa aplicação do apoio concedido;\n\nd) A utilização do apoio financeiro, no todo ou em parte, para fins diversos daqueles para os quais foi atribuído, ou outras irregularidades de igual gravidade.\n\n3 - A reposição do montante atribuído pode ser exigida no prazo de dois anos a contar do seu recebimento pela entidade apoiada, aplicando-se quanto a esta matéria, com as devidas adaptações, o disposto no regime da administração financeira do Estado, aprovado pelo Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual.\n\n4 - As falsas declarações são puníveis nos termos gerais da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807176": {
+   "fragment_id": "835804795",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Ações informativas e divulgação",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 13.º-A — Ações informativas e divulgação\n\n1 - A DGACCP promove a divulgação de materiais de suporte no sítio na Internet do MNE ou outros meios de informação relevantes a definir anualmente, com vista à capacitação de potenciais destinatários.\n\n2 - Os serviços periféricos externos do MNE divulgam, junto do movimento associativo ou outras entidades interessadas, a informação relevante sobre o regime consagrado no presente decreto-lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "835807050": {
+   "fragment_id": "835804787",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de maio de 2017. - Mário José Gomes de Freitas Centeno - Jorge Manuel Faria da Costa Oliveira.\n\nPromulgado em 28 de junho de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 30 de junho de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "911478383": {
+   "fragment_id": "835806468",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei estabelece e regula as condições de atribuição de apoios, por parte do Ministério dos Negócios Estrangeiros (MNE), às ações e projetos de movimentos associativos das comunidades portuguesas no estrangeiro, que contribuam para os seguintes objetivos gerais:\n\na) Promover a integração social em termos linguísticos, culturais, políticos, económicos e reforçar a ligação dos portugueses nos países de acolhimento;\n\nb) Reforçar a ligação dos portugueses residentes no estrangeiro à vida social, política, cultural e económica dos países onde residem;\n\nc) Promover e divulgar a língua e cultura portuguesas no estrangeiro;\n\nd) Consolidar os laços de solidariedade entre os membros de uma determinada comunidade, nomeadamente com os mais idosos e carenciados;\n\ne) Estimular e consolidar os vínculos de pertença à cultura portuguesa;\n\nf) Promover a formação dos dirigentes associativos;\n\ng) Promover a igualdade de género, a não discriminação, o combate à xenofobia, a participação cívica e a cidadania.\n\n2 - Sem prejuízo do número anterior, consideram-se prioritárias as ações e os projetos do movimento associativo que privilegiem a promoção da língua e da cultura portuguesas, a manutenção do património e as instalações das associações, a diplomacia científica, os jovens, os idosos, a inclusão social, a capacitação e a valorização profissional, a participação cívica e política, o combate à xenofobia, a promoção da igualdade de género e da não discriminação.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "911478384": {
+   "fragment_id": "835806469",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza dos apoios",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza dos apoios\n\nOs apoios têm a natureza de apoio financeiro não reembolsável e são concedidos através do financiamento de ações e projetos até ao limite máximo de 80 % do valor considerado elegível do orçamento apresentado, por verbas inscritas no orçamento do Ministério dos Negócios Estrangeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23"
+  },
+  "911478385": {
+   "fragment_id": "835806472",
+   "type": 11,
+   "heading": "Artigo 4.º — Credenciação e candidaturas",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 4.º — Credenciação e candidaturas\n\n1 - É condição prévia à apresentação de qualquer candidatura a credenciação junto da DGACCP.\n\n2 - Podem credenciar-se as seguintes entidades:\n\na) Associações e federações das comunidades portuguesas no estrangeiro, constituídas legalmente há mais de um ano, sem fins lucrativos ou partidários, cujo objeto vise o benefício sociocultural das referidas comunidades;\n\nb) Outras pessoas coletivas nacionais ou estrangeiras, cujos órgãos sociais sejam constituídos por cidadãos nacionais ou lusodescendentes, constituídas há mais de um ano, sem fins lucrativos ou partidários, que proponham a realização de atividades que resultem em benefício das comunidades portuguesas e se enquadrem em pelo menos um dos objetivos e prioridades definidas no artigo 1.º\n\n3 - A credenciação é conferida pelo prazo de cinco anos.\n\n4 - O pedido de credenciação pode ser requerido a todo o tempo pela entidade proponente, por via eletrónica, através da apresentação:\n\na) Do ato de constituição e dos estatutos;\n\nb) Do registo junto das autoridades do país onde está sediada;\n\n5 - A lista das associações credenciadas e o período de validade da credenciação conferida é publicitada anualmente no sítio na Internet do MNE.\n\n6 - Podem candidatar-se à concessão de apoios as entidades credenciadas nos termos dos números anteriores.\n\n7 - Cada entidade pode apresentar até três candidaturas por ano civil.\n\n8 - Não podem candidatar-se as entidades que estejam nas condições previstas no artigo 11.º\n\n9 - Não podem candidatar-se as entidades que incluam organismos oficiais portugueses ou de outro Estado entre os respetivos associados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "911478386": {
+   "fragment_id": "835806473",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - As candidaturas, não obstante a área da execução da ação ou projeto, são apresentadas, por via eletrónica, preferencialmente, através do Portal Único dos Serviços Digitais - o gov.pt, ou em suporte papel, pela entidade previamente credenciada junto:\n\na) Do posto consular ou secção consular da embaixada territorialmente competente, no caso das entidades com sede no estrangeiro;\n\nb) Da DGACCP, no caso das entidades com sede em território nacional.\n\n2 - O prazo para apresentação de candidaturas decorre, semestralmente, consoante a data da execução da ação ou projeto:\n\na) Entre 15 de setembro e 15 de outubro do ano civil anterior para as ações ou projetos que decorram no 1.º semestre do ano civil seguinte;\n\nb) Entre 15 de março e 15 de abril para as ações ou projetos que decorram no 2.º semestre de cada ano.\n\n3 - As candidaturas são acompanhadas dos seguintes documentos:\n\na) Formulário acessível, designadamente, através do Portal Único dos Serviços Digitais - o gov.pt, aprovado por portaria do membro do Governo responsável pela área das comunidades portuguesas;\n\nb) Relatório de atividades e contas relativas ao ano anterior ao da apresentação da candidatura, aprovados e assinados pelos órgãos sociais;\n\nc) Certidões comprovativas de situação contributiva e tributária regularizadas, quando aplicável, ou de consentimento para consulta da situação tributária ou contributiva regularizada;\n\nd) Programa do projeto, com orçamento e cronograma do qual conste a estimativa de custos e receitas, incluindo os apoios de outras entidades, nacionais ou estrangeiras, quando existam, de modo a permitir a avaliação da viabilidade do projeto.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - A tramitação dos procedimentos administrativos deve observar as normas e boas práticas de desmaterialização, garantindo:\n\na) A autenticação eletrónica segura dos utilizadores através do Cartão de Cidadão (CC) ou da Chave Móvel Digital (CMD);\n\nb) A utilização do princípio «Once Only», dispensando os requerentes da apresentação de documentos já disponíveis na Administração Pública, mediante autorização para consulta pela Plataforma de Interoperabilidade da Administração Pública (iAP);\n\nc) A realização de notificações por meios eletrónicos, preferencialmente através do Serviço Público de Notificações Eletrónicas (SPNE).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "911478387": {
+   "fragment_id": "835804792",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Admissão de candidaturas",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 5.º-A — Admissão de candidaturas\n\n1 - (Revogado.)\n\n2 - A não apresentação das candidaturas nos prazos fixados e/ou a falta dos documentos previstos no n.º 3 do artigo 5.º determina o indeferimento liminar da candidatura pelo posto consular ou secção consular da embaixada territorialmente competente.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "911478388": {
+   "fragment_id": "835806474",
+   "type": 11,
+   "heading": "Artigo 6.º — Parecer consular",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 6.º — Parecer consular\n\n1 - As candidaturas admitidas pelo posto consular ou secção consular da embaixada territorialmente competente são enviadas, por via eletrónica, à DGACCP, no prazo de 10 dias úteis após o fim do prazo para a respetiva apresentação, acompanhadas do parecer do posto consular ou secção consular, sem prejuízo do disposto no número seguinte.\n\n2 - O parecer consular não se aplica às candidaturas apresentadas por entidades com sede no território nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "911478389": {
+   "fragment_id": "835804793",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Júri",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 6.º-A — Júri\n\n1 - A apreciação das candidaturas é da competência de um júri constituído pelo diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas, que preside, e por dois vogais efetivos e dois vogais suplentes, designados pelo diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas de entre trabalhadores pertencentes ao mapa de pessoal da DGACCP.\n\n2 - O presidente é substituído por um dos vogais efetivos nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "911478390": {
+   "fragment_id": "835804775",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de apreciação do mérito das candidaturas",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de apreciação do mérito das candidaturas\n\n1 - Na apreciação do mérito das candidaturas, e para efeitos de instrução da decisão sobre o pedido de atribuição do apoio, são considerados os seguintes critérios:\n\na) A conformidade da ação ou projeto com os objetivos ou prioridades definidas no artigo 1.º;\n\nb) A conformidade com as exigências previstas no artigo 5.º;\n\nc) A qualidade da ação ou projeto, bem como a sua relevância e interesse para as comunidades portuguesas;\n\nd) A capacidade de organização, de promoção e de divulgação de iniciativas demonstradas pela entidade candidata;\n\ne) O número e a caracterização dos potenciais destinatários do projeto;\n\nf) (Revogada.)\n\ng) A não atribuição de financiamento para a mesma ação ou projeto por outra entidade, nacional ou estrangeira.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23"
+  },
+  "911478391": {
+   "fragment_id": "835804776",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\n1 - São consideradas elegíveis as despesas previstas no orçamento apresentado com a candidatura, desde que adequadas, proporcionais e necessárias à execução da ação ou projeto.\n\n2 - Não são consideradas as despesas relativas:\n\na) Aos encargos correntes e permanentes que digam respeito ao regular e normal funcionamento da entidade candidata ao apoio;\n\nb) À aquisição e arrendamento de instalações;\n\nc) À aquisição de veículos automóveis;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "911478392": {
+   "fragment_id": "835804777",
+   "type": 11,
+   "heading": "Artigo 9.º — Decisão",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 9.º — Decisão\n\n1 - O júri procede à análise das candidaturas e elabora uma proposta de distribuição da dotação orçamental disponível até 15 de dezembro ou 15 de junho de cada ano, consoante as ações ou projetos decorram no 1.º ou no 2.º semestre.\n\n2 - A proposta do júri é publicada no sítio na Internet do MNE, e será notificada preferencialmente por via eletrónica através do SPNE, associado à morada única digital dos requerentes aderentes, podendo, qualquer interessado, pronunciar-se sobre a mesma, no prazo de 10 dias úteis a contar da data da publicação.\n\n3 - O júri elabora uma proposta final de distribuição da dotação orçamental disponível para homologação do membro do Governo responsável pela área das comunidades portuguesas.\n\n4 - A lista das entidades cujas candidaturas foram aprovadas é divulgada no sítio na Internet do MNE até aos dias 1 de fevereiro ou 31 de julho de cada ano, consoante as ações ou projetos decorram no 1.º ou no 2.º semestre.\n\n5 - As candidaturas que não foram objeto de atribuição de financiamento são notificadas da decisão, nos termos dos artigos 110.º e seguintes do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "911478393": {
+   "fragment_id": "835804779",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrega do apoio atribuído",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 10.º — Entrega do apoio atribuído\n\n1 - A entrega do apoio atribuído é feita por intermédio do posto ou secção consular da embaixada territorialmente competente, mediante a celebração de um contrato.\n\n2 - O contrato a celebrar com a entidade apoiada contém, designadamente:\n\na) A identificação das partes e dos respetivos representantes, assim como do título a que intervêm;\n\nb) A descrição do objeto do contrato;\n\nc) Os direitos e obrigações de cada uma das partes;\n\nd) O prazo de execução das atividades apoiadas;\n\ne) O montante do apoio atribuído;\n\nf) As consequências do incumprimento contratual, tendo em conta, nomeadamente, o disposto no artigo 13.º\n\n3 - O contrato é assinado, em representação da República Portuguesa, pelo titular do posto ou secção consular da embaixada territorialmente competente ou pela DGACCP nos apoios atribuídos às entidades sediadas em Portugal.\n\n4 - O contrato é celebrado em triplicado, sendo um exemplar enviado à DGACCP no prazo de 30 dias a contar da sua assinatura.\n\n5 - No caso das entidades com sede em Portugal, a entrega do financiamento é feita pela DGACCP mediante a assinatura, pela entidade apoiada, de declaração de compromisso de execução da ação ou projeto, nos termos da candidatura, e de aceitação das condições previstas no presente decreto-lei, bem como do correspondente recibo de pagamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  },
+  "911478394": {
+   "fragment_id": "835804780",
+   "type": 11,
+   "heading": "Artigo 11.º — Ações ou projetos não executados",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23"
+   ],
+   "markdown": "###### Artigo 11.º — Ações ou projetos não executados\n\n1 - Quando, por motivos não imputáveis à entidade, devidamente fundamentados, uma ação ou projeto financeiramente apoiado não for cumprido no prazo estabelecido na candidatura, o mesmo pode ainda ser excecionalmente executado até ao final do semestre seguinte ao termo daquele prazo, desde que previamente autorizado pelo diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas, e exista a respetiva dotação orçamental.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23"
+  },
+  "911478395": {
+   "fragment_id": "835804781",
+   "type": 11,
+   "heading": "Artigo 12.º — Controlo, acompanhamento e avaliação",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+   ],
+   "markdown": "###### Artigo 12.º — Controlo, acompanhamento e avaliação\n\n1 - Cabe à DGACCP, em articulação com o posto consular ou secção consular da embaixada territorialmente competente, o controlo, acompanhamento e avaliação dos projetos apoiados e da respetiva execução.\n\n2 - As entidades apoiadas são obrigadas a apresentar à DGACCP, no prazo de 60 dias a contar do termo da ação ou projeto apoiado, um relatório final que contenha todos os elementos de natureza qualitativa e quantitativa necessários à análise e avaliação dos resultados obtidos e da boa aplicação do apoio concedido, o qual, salvo no caso das entidades com sede em Portugal ou com atividades de caráter global, deve merecer parecer do posto ou secção consular da embaixada territorialmente competente.\n\n3 - Para efeitos do disposto no número anterior, a DGACCP, o posto consular ou secção consular da embaixada competente podem solicitar às entidades apoiadas o envio de informações ou documentos adicionais que considerem pertinentes.\n\n4 - As entidades apoiadas devem ainda organizar um arquivo autónomo, preferencialmente em suporte eletrónico, da documentação relativa à ação ou projeto apoiado, utilizando os documentos originais ou cópias autenticadas das despesas efetuadas e respetivos comprovativos de pagamento, emitidos nos termos legais aplicáveis, devidamente numerados, e identificando a percentagem de qualquer outro apoio financeiro recebido, quando seja caso disso.\n\n5 - O modelo de relatório final é aprovado por portaria do membro do Governo responsável pela área das comunidades portuguesas e disponibilizado no sítio na Internet do MNE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), em vigor a partir de 2023-12-27"
+  }
+ }
+}

@@ -1,0 +1,1043 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:406882:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1996-34491075",
+ "dre_path": "/dr/detalhe/lei/24-1996-406882",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1996-11-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:166775:por",
+     "title": "Declaração de Rectificação n.º 16/96",
+     "published": "1996-11-13",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/16-1996-166775"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 9.º"
+   ],
+   "fragments": [
+    "43831575",
+    "43831675",
+    "43831775",
+    "43831875",
+    "43831975",
+    "43832075",
+    "43832175",
+    "43832275",
+    "43832375",
+    "43832475",
+    "43832575",
+    "44374775",
+    "43832775",
+    "43832875",
+    "43832975",
+    "43833075",
+    "43833175",
+    "43833275",
+    "43833375",
+    "43833475",
+    "43833575",
+    "43833675",
+    "43833775",
+    "43833875",
+    "43833975",
+    "43834075",
+    "43834175",
+    "43834275",
+    "43834375",
+    "43834475",
+    "43834575",
+    "43861475"
+   ]
+  },
+  {
+   "date": "2003-04-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223630:por",
+     "title": "Decreto-Lei n.º 67/2003",
+     "published": "2003-04-08",
+     "dre_path": "/dr/detalhe/decreto-lei/67-2003-223630"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "43831575",
+    "43831675",
+    "43831775",
+    "43831875",
+    "43831975",
+    "43832075",
+    "1027595803",
+    "43832275",
+    "43832375",
+    "43832475",
+    "43832575",
+    "44374775",
+    "43832775",
+    "43832875",
+    "1027595804",
+    "43833075",
+    "43833175",
+    "43833275",
+    "43833375",
+    "43833475",
+    "43833575",
+    "43833675",
+    "43833775",
+    "43833875",
+    "43833975",
+    "43834075",
+    "43834175",
+    "43834275",
+    "43834375",
+    "43834475",
+    "43834575",
+    "43861475"
+   ]
+  },
+  {
+   "date": "2013-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:257004:por",
+     "title": "Lei n.º 10/2013",
+     "published": "2013-01-28",
+     "dre_path": "/dr/detalhe/lei/10-2013-257004"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "43831575",
+    "43831675",
+    "43831775",
+    "43831875",
+    "43831975",
+    "43832075",
+    "1027595803",
+    "43832275",
+    "43832375",
+    "43832475",
+    "1033275803",
+    "44374775",
+    "43832775",
+    "43832875",
+    "1027595804",
+    "43833075",
+    "43833175",
+    "43833275",
+    "43833375",
+    "43833475",
+    "43833575",
+    "43833675",
+    "43833775",
+    "43833875",
+    "43833975",
+    "43834075",
+    "43834175",
+    "43834275",
+    "43834375",
+    "43834475",
+    "43834575",
+    "43861475"
+   ]
+  },
+  {
+   "date": "2014-07-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:55021031:por",
+     "title": "Lei n.º 47/2014",
+     "published": "2014-07-28",
+     "dre_path": "/dr/detalhe/lei/47-2014-55021031"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 9.º-B",
+    "Adita Artigo 9.º-C",
+    "Adita Artigo 9.º-D",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "43831575",
+    "43831675",
+    "1037787184",
+    "1037787185",
+    "43831975",
+    "1037787186",
+    "1027595803",
+    "1037787187",
+    "1037787188",
+    "1037787189",
+    "1028144850",
+    "1028144851",
+    "1028144856",
+    "1028144863",
+    "1028144870",
+    "1037787177",
+    "1037787190",
+    "1037787179",
+    "1037787180",
+    "1037787181",
+    "1037787191",
+    "1037787192",
+    "43833375",
+    "43833475",
+    "43833575",
+    "1037787193",
+    "1037787194",
+    "1037787195",
+    "1037787196",
+    "1028144854",
+    "1028144855",
+    "43834275",
+    "1037787197",
+    "43834475",
+    "1037787198",
+    "43861475"
+   ]
+  },
+  {
+   "date": "2019-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123962147:por",
+     "title": "Lei n.º 63/2019",
+     "published": "2019-08-16",
+     "dre_path": "/dr/detalhe/lei/63-2019-123962147"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "43831575",
+    "43831675",
+    "1037787184",
+    "1037787185",
+    "43831975",
+    "1037787186",
+    "1027595803",
+    "1037787187",
+    "1037787188",
+    "1037787189",
+    "1028144850",
+    "1028144851",
+    "1028144856",
+    "1028144863",
+    "1028144870",
+    "1037787177",
+    "1037787190",
+    "1037787179",
+    "1037787180",
+    "1037787181",
+    "1037799031",
+    "1037787192",
+    "43833375",
+    "43833475",
+    "43833575",
+    "1037787193",
+    "1037787194",
+    "1037787195",
+    "1037787196",
+    "1028144854",
+    "1028144855",
+    "43834275",
+    "1037787197",
+    "43834475",
+    "1037787198",
+    "43861475"
+   ]
+  },
+  {
+   "date": "2021-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:167281002:por",
+     "title": "Decreto-Lei n.º 59/2021",
+     "published": "2021-07-14",
+     "dre_path": "/dr/detalhe/decreto-lei/59-2021-167281002"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 9.º-D"
+   ],
+   "fragments": [
+    "43831575",
+    "43831675",
+    "1037787184",
+    "1037787185",
+    "43831975",
+    "1037787186",
+    "1027595803",
+    "1037787187",
+    "1037787188",
+    "1037787189",
+    "1028144850",
+    "1028144851",
+    "1028144856",
+    "1043257575",
+    "1043257576",
+    "1037796124",
+    "1037787190",
+    "1037787179",
+    "1037787180",
+    "1037787181",
+    "1037799031",
+    "1037787192",
+    "43833375",
+    "43833475",
+    "43833575",
+    "1037787193",
+    "1037787194",
+    "1037787195",
+    "1037787196",
+    "1028144854",
+    "1028144855",
+    "43834275",
+    "1037787197",
+    "43834475",
+    "1037787198",
+    "43861475"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172938301:por",
+     "title": "Decreto-Lei n.º 84/2021",
+     "published": "2021-10-18",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2021-172938301"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 9.º-B",
+    "Revoga Artigo 9.º-C"
+   ],
+   "fragments": [
+    "43831575",
+    "43831675",
+    "1037787184",
+    "1037787185",
+    "43831975",
+    "1037787186",
+    "1027595803",
+    "1037787187",
+    "1037787188",
+    "1037787189",
+    "1045237589",
+    "1045237590",
+    "1028144856",
+    "1043257575",
+    "1043257576",
+    "1037796124",
+    "1037787190",
+    "1037787179",
+    "1037787180",
+    "1037787181",
+    "1037799031",
+    "1037787192",
+    "43833375",
+    "43833475",
+    "43833575",
+    "1037787193",
+    "1037787194",
+    "1037787195",
+    "1037787196",
+    "1028144854",
+    "1028144855",
+    "43834275",
+    "1037787197",
+    "43834475",
+    "1037787198",
+    "43861475"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:175744207:por",
+     "title": "Decreto-Lei n.º 109-G/2021",
+     "published": "2021-12-10",
+     "dre_path": "/dr/detalhe/decreto-lei/109-g-2021-175744207",
+     "date": "2022-05-28"
+    }
+   ]
+  },
+  {
+   "date": "2023-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215097636:por",
+     "title": "Lei n.º 28/2023",
+     "published": "2023-07-04",
+     "dre_path": "/dr/detalhe/lei/28-2023-215097636"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "43831575",
+    "43831675",
+    "1037787184",
+    "1037787185",
+    "43831975",
+    "1037787186",
+    "1027595803",
+    "1037787187",
+    "1037787188",
+    "1037787189",
+    "1045237589",
+    "1045674275",
+    "1028144856",
+    "1043257575",
+    "1043257576",
+    "1037796124",
+    "1037787190",
+    "1037787179",
+    "1037787180",
+    "1037787181",
+    "1037799031",
+    "1037787192",
+    "43833375",
+    "43833475",
+    "43833575",
+    "1037787193",
+    "1037787194",
+    "1037787195",
+    "1037787196",
+    "1028144854",
+    "1028144855",
+    "43834275",
+    "1037787197",
+    "43834475",
+    "1037787198",
+    "43861475"
+   ]
+  }
+ ],
+ "fragments": {
+  "43831575": {
+   "fragment_id": "35110875",
+   "type": 15,
+   "heading": "Diploma — Estabelece o regime legal aplicável à defesa dos consumidores Revoga a Lei n.º 29/81, de 22 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "43831675": {
+   "fragment_id": "35255875",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "43831775": {
+   "fragment_id": "36422775",
+   "type": 11,
+   "heading": "Artigo 1.º — Dever geral de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Dever geral de protecção\n\n1 - Incumbe ao Estado, às Regiões Autónomas e às autarquias locais proteger o consumidor, designadamente através do apoio à constituição e funcionamento das associações de consumidores e de cooperativas de consumo, bem como à execução do disposto na presente lei.\n\n2 - A incumbência geral do Estado na protecção dos consumidores pressupõe a intervenção legislativa e regulamentar adequada em todos os domínios envolvidos."
+  },
+  "43831875": {
+   "fragment_id": "36422875",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição e âmbito\n\n1 - Considera-se consumidor todo aquele a quem sejam fornecidos bens, prestados serviços ou transmitidos quaisquer direitos, destinados a uso não profissional, por pessoa que exerça com carácter profissional uma actividade económica que vise a obtenção de benefícios.\n\n2 - Consideram-se incluídos no âmbito da presente lei os bens, serviços e direitos fornecidos, prestados e transmitidos pelos organismos da Administração Pública, por pessoas colectivas públicas, por empresas de capitais públicos ou detidos maioritariamente pelo Estado, pelas Regiões Autónomas ou pelas autarquias locais e por empresas concessionárias de serviços públicos."
+  },
+  "43831975": {
+   "fragment_id": "35255975",
+   "type": 1,
+   "heading": "Capítulo II — Direitos do consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direitos do consumidor"
+  },
+  "43832075": {
+   "fragment_id": "36422975",
+   "type": 11,
+   "heading": "Artigo 3.º — Direitos do consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direitos do consumidor\n\nO consumidor tem direito:\n\na) À qualidade dos bens e serviços;\n\nb) À protecção da saúde e da segurança física;\n\nc) À formação e à educação para o consumo;\n\nd) À informação para o consumo;\n\ne) À protecção dos interesses económicos;\n\nf) À prevenção e à reparação dos danos patrimoniais ou não patrimoniais que resultem da ofensa de interesses ou direitos individuais homogéneos, colectivos ou difusos;\n\ng) À protecção jurídica e a uma justiça acessível e pronta;\n\nh) À participação, por via representativa, na definição legal ou administrativa dos seus direitos e interesses."
+  },
+  "43832175": {
+   "fragment_id": "36423075",
+   "type": 11,
+   "heading": "Artigo 4.º — Direito à qualidade dos bens e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direito à qualidade dos bens e serviços\n\n1 - Os bens e serviços destinados ao consumo devem ser aptos a satisfazer os fins a que se destinam e produzir os efeitos que se lhes atribuem, segundo as normas legalmente estabelecidas, ou, na falta delas, de modo adequado às legítimas expectativas do consumidor.\n\n2 - Sem prejuízo do estabelecimento de prazos mais favoráveis por convenção das partes ou pelos usos, o fornecedor de bens móveis não consumíveis está obrigado a garantir o seu bom estado e o seu bom funcionamento por período nunca inferior a um ano.\n\n3 - O consumidor tem direito a uma garantia mínima de cinco anos para os imóveis.\n\n4 - O decurso do prazo de garantia suspende-se durante o período de tempo em que o consumidor se achar privado do uso dos bens em virtude das operações de reparação resultantes de defeitos originários."
+  },
+  "43832275": {
+   "fragment_id": "36423175",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito à protecção da saúde e da segurança física",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito à protecção da saúde e da segurança física\n\n1 - É proibido o fornecimento de bens ou a prestação de serviços que, em condições de uso normal ou previsível, incluindo a duração, impliquem riscos incompatíveis com a sua utilização, não aceitáveis de acordo com um nível elevado de protecção da saúde e da segurança física das pessoas.\n\n2 - Os serviços da Administração Pública que, no exercício das suas funções, tenham conhecimento da existência de bens ou serviços proibidos nos termos do número anterior devem notificar tal facto às entidades competentes para a fiscalização do mercado.\n\n3 - Os organismos competentes da Administração Pública devem mandar apreender e retirar do mercado os bens e interditar as prestações de serviços que impliquem perigo para a saúde ou segurança física dos consumidores, quando utilizados em condições normais ou razoavelmente previsíveis."
+  },
+  "43832375": {
+   "fragment_id": "36423275",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito à formação e à educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito à formação e à educação\n\n1 - Incumbe ao Estado a promoção de uma política educativa para os consumidores, através da inserção nos programas e nas actividades escolares, bem como nas acções de educação permanente, de matérias relacionadas com o consumo e os direitos dos consumidores, usando, designadamente, os meios tecnológicos próprios numa sociedade de informação.\n\n2 - Incumbe ao Estado, às Regiões Autónomas e às autarquias locais desenvolver acções e adoptar medidas tendentes à formação e à educação do consumidor, designadamente através de:\n\na) Concretização, no sistema educativo, em particular no ensino básico e secundário, de programas e actividades de educação para o consumo;\n\nb) Apoio às iniciativas que neste domínio sejam promovidas pelas associações de consumidores;\n\nc) Promoção de acções de educação permanente de formação e sensibilização para os consumidores em geral;\n\nd) Promoção de uma política nacional de formação de formadores e de técnicos especializados na área do consumo.\n\n3 - Os programas de carácter educativo difundidos no serviço público de rádio e de televisão devem integrar espaços destinados à educação e à formação do consumidor.\n\n4 - Na formação do consumidor devem igualmente ser utilizados meios telemáticos, designadamente através de redes nacionais e mundiais de informação, estimulando-se o recurso a tais meios pelo sector público e privado."
+  },
+  "43832475": {
+   "fragment_id": "36423375",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito à informação em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito à informação em geral\n\n1 - Incumbe ao Estado, às Regiões Autónomas e às autarquias locais desenvolver acções e adoptar medidas tendentes à informação em geral do consumidor, designadamente através de:\n\na) Apoio às acções de informação promovidas pelas associações de consumidores;\n\nb) Criação de serviços municipais de informação ao consumidor;\n\nc) Constituição de conselhos municipais de consumo, com a representação, designadamente, de associações de interesses económicos e de interesses dos consumidores;\n\nd) Criação de bases de dados e arquivos digitais acessíveis, de âmbito nacional, no domínio do direito do consumo, destinados a difundir informação geral e específica;\n\ne) Criação de bases de dados e arquivos digitais acessíveis em matéria de direitos do consumidor, de acesso incondicionado.\n\n2 - O serviço público de rádio e de televisão deve reservar espaços, em termos que a lei definirá, para a promoção dos interesses e direitos do consumidor.\n\n3 - A informação ao consumidor é prestada em língua portuguesa.\n\n4 - A publicidade deve ser lícita, inequivocamente identificada e respeitar a verdade e os direitos dos consumidores.\n\n5 - As informações concretas e objectivas contidas nas mensagens publicitárias de determinado bem, serviço ou direito consideram-se integradas no conteúdo dos contratos que se venham a celebrar após a sua emissão, tendo-se por não escritas as cláusulas contratuais em contrário."
+  },
+  "43832575": {
+   "fragment_id": "36423475",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito à informação em particular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direito à informação em particular\n\n1 - O fornecedor de bens ou prestador de serviços deve, tanto nas negociações como na celebração de um contrato, informar de forma clara, objectiva e adequada o consumidor, nomeadamente, sobre características, composição e preço do bem ou serviço, bem como sobre o período de vigência do contrato, garantias, prazos de entrega e assistência após o negócio jurídico.\n\n2 - A obrigação de informar impende também sobre o produtor, o fabricante, o importador, o distribuidor, o embalador e o armazenista, por forma que cada elo do ciclo produção-consumo possa encontrar-se habilitado a cumprir a sua obrigação de informar o elo imediato até ao consumidor, destinatário final da informação.\n\n3 - Os riscos para a saúde e segurança dos consumidores que possam resultar da normal utilização de bens ou serviços perigosos devem ser comunicados, de modo claro, completo e adequado, pelo fornecedor ou prestador de serviços ao potencial consumidor.\n\n4 - Quando se verifique falta de informação, informação insuficiente, ilegível ou ambígua que comprometa a utilização adequada do bem ou do serviço, o consumidor goza do direito de retractação do contrato relativo à sua aquisição ou prestação, no prazo de sete dias úteis a contar da data de recepção do bem ou da data de celebração do contrato de prestação de serviços.\n\n5 - O fornecedor de bens ou o prestador de serviços que viole o dever de informar responde pelos danos que causar ao consumidor, sendo solidariamente responsáveis os demais intervenientes na cadeia da produção à distribuição que hajam igualmente violado o dever de informação.\n\n6 - O dever de informar não pode ser denegado ou condicionado por invocação de segredo de fabrico não tutelado na lei, nem pode prejudicar o regime jurídico das cláusulas contratuais gerais ou outra legislação mais favorável para o consumidor."
+  },
+  "44374775": {
+   "fragment_id": "36423575",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito à protecção dos interesses económicos",
+   "in_force_from": "1996-11-13",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 16/96 - Diário da República n.º 263/1996, Série I-A de 1996-11-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1996-166775), em vigor a partir de 1996-11-13"
+   ],
+   "markdown": "###### Artigo 9.º — Direito à protecção dos interesses económicos\n\n1 - O consumidor tem direito à protecção dos seus interesses económicos, impondo-se nas relações jurídicas de consumo a igualdade material dos intervenientes, a lealdade e a boa fé, nos preliminares, na formação e ainda na vigência dos contratos.\n\n2 - Com vista à prevenção de abusos resultantes de contratos pré-elaborados, o fornecedor de bens e o prestador de serviços estão obrigados:\n\na) À redacção clara e precisa, em caracteres facilmente legíveis, das cláusulas contratuais gerais, incluindo as inseridas em contratos singulares;\n\nb) À não inclusão de cláusulas em contratos singulares que originem significativo desequilíbrio em detrimento do consumidor.\n\n3 - A inobservância do disposto no número anterior fica sujeita ao regime das cláusulas contratuais gerais.\n\n4 - O consumidor não fica obrigado ao pagamento de bens ou serviços que não tenha prévia e expressamente encomendado ou solicitado, ou que não constitua cumprimento de contrato válido, não lhe cabendo, do mesmo modo, o encargo da sua devolução ou compensação, nem a responsabilidade pelo risco de perecimento ou deterioração da coisa.\n\n5 - O consumidor tem direito à assistência após a venda, com incidência no fornecimento de peças e acessórios, pelo período de duração média normal dos produtos fornecidos.\n\n6 - É vedado ao fornecedor ou prestador de serviços fazer depender o fornecimento de um bem ou a prestação de um serviço da aquisição ou da prestação de um outro ou outros.\n\n7 - Sem prejuízo de regimes mais favoráveis, nos contratos que resultem da iniciativa do fornecedor de bens ou do prestador de serviços fora do estabelecimento comercial, por meio de correspondência ou outros equivalentes, é assegurado ao consumidor o direito de retractação, no prazo de sete dias úteis a contar da data da recepção do bem ou da conclusão do contrato de prestação de serviços.\n\n8 - Incumbe ao Governo adoptar medidas adequadas a assegurar o equilíbrio das relações jurídicas que tenham por objecto bens e serviços essenciais, designadamente água, energia eléctrica, gás, telecomunicações e transportes públicos.\n\n9 - Incumbe ao Governo adoptar medidas tendentes a prevenir a lesão dos interesses dos consumidores no domínio dos métodos de venda que prejudiquem a avaliação consciente das cláusulas apostas em contratos singulares e a formação livre, esclarecida e ponderada da decisão de se vincularem.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 16/96 - Diário da República n.º 263/1996, Série I-A de 1996-11-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1996-166775), em vigor a partir de 1996-11-13"
+  },
+  "43832775": {
+   "fragment_id": "36423675",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito à prevenção e acção inibitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito à prevenção e acção inibitória\n\n1 - É assegurado o direito de acção inibitória destinada a prevenir, corrigir ou fazer cessar práticas lesivas dos direitos do consumidor consignados na presente lei, que, nomeadamente:\n\na) Atentem contra a sua saúde e segurança física;\n\nb) Se traduzam no uso de cláusulas gerais proibidas;\n\nc) Consistam em práticas comerciais expressamente proibidas por lei.\n\n2 - A sentença proferida em acção inibitória pode ser acompanhada de sanção pecuniária compulsória, prevista no artigo 829.º-A do Código Civil, sem prejuízo da indemnização a que houver lugar."
+  },
+  "43832875": {
+   "fragment_id": "36423775",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma de processo da acção inibitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forma de processo da acção inibitória\n\n1 - A acção inibitória tem o valor equivalente ao da alçada da Relação mais 1$00, segue os termos do processo sumário e está isenta de custas.\n\n2 - A decisão especificará o âmbito da abstenção ou correcção, designadamente através da referência concreta do seu teor e a indicação do tipo de situações a que se reporta.\n\n3 - Transitada em julgado, a decisão condenatória será publicitada a expensas do infractor, nos termos fixados pelo juiz, e será registada em serviço a designar nos termos da legislação regulamentar da presente lei.\n\n4 - Quando se tratar de cláusulas contratuais gerais, aplicar-se-á ainda o disposto nos artigos 31.º e 32.º do Decreto-Lei n.º 446/85, de 25 de Outubro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 220/95, de 31 de Agosto."
+  },
+  "43832975": {
+   "fragment_id": "36423875",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito à reparação de danos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito à reparação de danos\n\n1 - O consumidor a quem seja fornecida a coisa com defeito, salvo se dele tivesse sido previamente informado e esclarecido antes da celebração do contrato, pode exigir, independentemente de culpa do fornecedor do bem, a reparação da coisa, a sua substituição, a redução do preço ou a resolução do contrato.\n\n2 - O consumidor deve denunciar o defeito no prazo de 30 dias, caso se trate de bem móvel, ou de um ano, se se tratar de bem imóvel, após o seu conhecimento e dentro dos prazos de garantia previstos nos n.os 2 e 3 do artigo 4.º da presente lei.\n\n3 - Os direitos conferidos ao consumidor nos termos do n.º 1 caducam findo qualquer dos prazos referidos no número anterior sem que o consumidor tenha feito a denúncia, ou decorridos sobre esta seis meses, não se contando para o efeito o tempo despendido com as operações de reparação.\n\n4 - Sem prejuízo do disposto no número anterior, o consumidor tem direito à indemnização dos danos patrimoniais e não patrimoniais resultantes do fornecimento de bens ou prestações de serviços defeituosos.\n\n5 - O produtor é responsável, independentemente de culpa, pelos danos causados por defeitos de produtos que coloque no mercado, nos termos da lei."
+  },
+  "43833075": {
+   "fragment_id": "36423975",
+   "type": 11,
+   "heading": "Artigo 13.º — Legitimidade activa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Legitimidade activa\n\nTêm legitimidade para intentar as acções previstas nos artigos anteriores:\n\na) Os consumidores directamente lesados;\n\nb) Os consumidores e as associações de consumidores ainda que não directamente lesados, nos termos da Lei n.º 83/95, de 31 de Agosto;\n\nc) O Ministério Público e o Instituto do Consumidor quando estejam em causa interesses individuais homogéneos, colectivos ou difusos."
+  },
+  "43833175": {
+   "fragment_id": "36424075",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito à protecção jurídica e direito a uma justiça acessível e pronta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direito à protecção jurídica e direito a uma justiça acessível e pronta\n\n1 - Incumbe aos órgãos e departamentos da Administração Pública promover a criação e apoiar centros de arbitragem com o objectivo de dirimir os conflitos de consumo.\n\n2 - É assegurado ao consumidor o direito à isenção de preparos nos processos em que pretenda a protecção dos seus interesses ou direitos, a condenação por incumprimento do fornecedor de bens ou prestador de serviços, ou a reparação de perdas e danos emergentes de factos ilícitos ou da responsabilidade objectiva definida nos termos da lei, desde que o valor da acção não exceda a alçada do tribunal judicial de 1.ª instância.\n\n3 - Os autores nos processos definidos no número anterior ficam isentos do pagamento de custas em caso de procedência parcial da respectiva acção.\n\n4 - Em caso de decaimento total, o autor ou autores intervenientes serão condenados em montantes, a fixar pelo julgador, entre um décimo e a totalidade das custas que normalmente seriam devidas, tendo em conta a sua situação económica e a razão formal ou substantiva da improcedência."
+  },
+  "43833275": {
+   "fragment_id": "36424175",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito de participação por via representativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito de participação por via representativa\n\nO direito de participação consiste, nomeadamente, na audição e consulta prévias, em prazo razoável, das associações de consumidores no tocante às medidas que afectem os direitos ou interesses legalmente protegidos dos consumidores."
+  },
+  "43833375": {
+   "fragment_id": "35256075",
+   "type": 1,
+   "heading": "Capítulo III — Carácter injuntivo dos direitos dos consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Carácter injuntivo dos direitos dos consumidores"
+  },
+  "43833475": {
+   "fragment_id": "36424275",
+   "type": 11,
+   "heading": "Artigo 16.º — Nulidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Nulidade\n\n1 - Sem prejuízo do regime das cláusulas contratuais gerais, qualquer convenção ou disposição contratual que exclua ou restrinja os direitos atribuídos pela presente lei é nula.\n\n2 - A nulidade referida no número anterior apenas pode ser invocada pelo consumidor ou seus representantes.\n\n3 - O consumidor pode optar pela manutenção do contrato quando algumas das suas cláusulas forem nulas nos termos do n.º 1."
+  },
+  "43833575": {
+   "fragment_id": "35256175",
+   "type": 1,
+   "heading": "Capítulo IV — Instituições de promoção e tutela dos direitos do consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Instituições de promoção e tutela dos direitos do consumidor"
+  },
+  "43833675": {
+   "fragment_id": "36424375",
+   "type": 11,
+   "heading": "Artigo 17.º — Associações de consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Associações de consumidores\n\n1 - As associações de consumidores são associações dotadas de personalidade jurídica, sem fins lucrativos e com o objectivo principal de proteger os direitos e os interesses dos consumidores em geral ou dos consumidores seus associados.\n\n2 - As associações de consumidores podem ser de âmbito nacional, regional ou local, consoante a área a que circunscrevam a sua acção e tenham, pelo menos, 3000, 500 ou 100 associados, respectivamente.\n\n3 - As associações de consumidores podem ser ainda de interesse genérico ou de interesse específico:\n\na) São de interesse genérico as associações de consumidores cujo fim estatutário seja a tutela dos direitos dos consumidores em geral e cujos órgãos sejam livremente eleitos pelo voto universal e secreto de todos os seus associados;\n\nb) São de interesse específico as demais associações de consumidores de bens e serviços determinados, cujos órgãos sejam livremente eleitos pelo voto universal e secreto de todos os seus associados.\n\n4 - As cooperativas de consumo são equiparadas, para os efeitos do disposto no presente diploma, às associações de consumidores."
+  },
+  "43833775": {
+   "fragment_id": "36424475",
+   "type": 11,
+   "heading": "Artigo 18.º — Direitos das associações de consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direitos das associações de consumidores\n\n1 - As associações de consumidores gozam dos seguintes direitos:\n\na) Ao estatuto de parceiro social em matérias que digam respeito à política de consumidores, nomeadamente traduzido na indicação de representantes para órgãos de consulta ou concertação que se ocupem da matéria;\n\nb) Direito de antena na rádio e na televisão, nos mesmos termos das associações com estatuto de parceiro social;\n\nc) Direito a representar os consumidores no processo de consulta e audição públicas a realizar no decurso da tomada de decisões susceptíveis de afectar os direitos e interesses daqueles;\n\nd) Direito a solicitar, junto das autoridades administrativas ou judiciais competentes, a apreensão e retirada de bens do mercado ou a interdição de serviços lesivos dos direitos e interesses dos consumidores;\n\ne) Direito a corrigir e a responder ao conteúdo de mensagens publicitárias relativas a bens e serviços postos no mercado, bem como a requerer, junto das autoridades competentes, que seja retirada do mercado publicidade enganosa ou abusiva;\n\nf) Direito a consultar os processos e demais elementos existentes nas repartições e serviços públicos da administração central, regional ou local que contenham dados sobre as características de bens e serviços de consumo e de divulgar as informações necessárias à tutela dos interesses dos consumidores;\n\ng) Direito a serem esclarecidas sobre a formação dos preços de bens e serviços, sempre que o solicitem;\n\nh) Direito de participar nos processos de regulação de preços de fornecimento de bens e de prestações de serviços essenciais, nomeadamente nos domínios da água, energia, gás, transportes e telecomunicações, e a solicitar os esclarecimentos sobre as tarifas praticadas e a qualidade dos serviços, por forma a poderem pronunciar-se sobre elas;\n\ni) Direito a solicitar aos laboratórios oficiais a realização de análises sobre a composição ou sobre o estado de conservação e demais características dos bens destinados ao consumo público e de tornarem públicos os correspondentes resultados, devendo o serviço ser prestado segundo tarifa que não ultrapasse o preço de custo;\n\nj) Direito à presunção de boa fé das informações por elas prestadas;\n\nl) Direito à acção popular;\n\nm) Direito de queixa e denúncia, bem como direito de se constituírem como assistentes em sede de processo penal e a acompanharem o processo contra-ordenacional, quando o requeiram, apresentando memoriais, pareceres técnicos, sugestão de exames ou outras diligências de prova até que o processo esteja pronto para decisão final;\n\nn) Direito à isenção do pagamento de custas, preparos e de imposto do selo, nos termos da Lei n.º 83/95, de 31 de Agosto;\n\no) Direito a receber apoio do Estado, através da administração central, regional e local, para a prossecução dos seus fins, nomeadamente no exercício da sua actividade no domínio da formação, informação e representação dos consumidores;\n\np) Direito a benefícios fiscais idênticos aos concedidos ou a conceder às instituições particulares de solidariedade social.\n\n2 - Os direitos previstos nas alíneas a) e b) do número anterior são exclusivamente conferidos às associações de consumidores de âmbito nacional e de interesse genérico.\n\n3 - O direito previsto na alínea h) do n.º 1 é conferido às associações de interesse genérico ou de interesse específico quando esse interesse esteja directamente relacionado com o bem ou serviço que é objecto da regulação de preços e, para os serviços de natureza não regional ou local, exclusivamente conferido a associações de âmbito nacional."
+  },
+  "43833875": {
+   "fragment_id": "36424575",
+   "type": 11,
+   "heading": "Artigo 19.º — Acordos de boa conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acordos de boa conduta\n\n1 - As associações de consumidores podem negociar com os profissionais ou as suas organizações representativas acordos de boa conduta, destinados a reger as relações entre uns e outros.\n\n2 - Os acordos referidos no número anterior não podem contrariar os preceitos imperativos da lei, designadamente os da lei da concorrência, nem conter disposições menos favoráveis aos consumidores do que as legalmente previstas.\n\n3 - Os acordos de boa conduta celebrados com associações de consumidores de interesse genérico obrigam os profissionais ou representados em relação a todos os consumidores, sejam ou não membros das associações intervenientes.\n\n4 - Os acordos atrás referidos devem ser objecto de divulgação, nomeadamente através da afixação nos estabelecimentos comerciais, sem prejuízo da utilização de outros meios informativos mais circunstanciados."
+  },
+  "43833975": {
+   "fragment_id": "36424675",
+   "type": 11,
+   "heading": "Artigo 20.º — Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Ministério Público\n\nIncumbe também ao Ministério Público a defesa dos consumidores no âmbito da presente lei e no quadro das respectivas competências, intervindo em acções administrativas e cíveis tendentes à tutela dos interesses individuais homogéneos, bem como de interesses colectivos ou difusos dos consumidores."
+  },
+  "43834075": {
+   "fragment_id": "36424775",
+   "type": 11,
+   "heading": "Artigo 21.º — Instituto do Consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instituto do Consumidor\n\n1 - O Instituto do Consumidor é o instituto público destinado a promover a política de salvaguarda dos direitos dos consumidores, bem como a coordenar e executar as medidas tendentes à sua protecção, informação e educação e de apoio às organizações de consumidores.\n\n2 - Para a prossecução das suas atribuições, o Instituto do Consumidor é considerado autoridade pública e goza dos seguintes poderes:\n\na) Solicitar e obter dos fornecedores de bens e prestadores de serviços, bem como das entidades referidas no n.º 2 do artigo 2.º, mediante pedido fundamentado, as informações, os elementos e as diligências que entender necessários à salvaguarda dos direitos e interesses dos consumidores;\n\nb) Participar na definição do serviço público de rádio e de televisão em matéria de informação e educação dos consumidores;\n\nc) Representar em juízo os direitos e interesses colectivos e difusos dos consumidores;\n\nd) Ordenar medidas cautelares de cessação, suspensão ou interdição de fornecimentos de bens ou prestações de serviços que, independentemente de prova de uma perda ou um prejuízo real, pelo seu objecto, forma ou fim, acarretem ou possam acarretar riscos para a saúde, a segurança e os interesses económicos dos consumidores."
+  },
+  "43834175": {
+   "fragment_id": "36424875",
+   "type": 11,
+   "heading": "Artigo 22.º — Conselho Nacional do Consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Conselho Nacional do Consumo\n\n1 - O Conselho Nacional do Consumo é um órgão independente de consulta e acção pedagógica e preventiva, exercendo a sua acção em todas as matérias relacionadas com o interesse dos consumidores.\n\n2 - São, nomeadamente, funções do Conselho:\n\na) Pronunciar-se sobre todas as questões relacionadas com o consumo que sejam submetidas à sua apreciação pelo Governo, pelo Instituto do Consumidor, pelas associações de consumidores ou por outras entidades nele representadas;\n\nb) Emitir parecer prévio sobre iniciativas legislativas relevantes em matéria de consumo;\n\nc) Estudar e propor ao Governo a definição das grandes linhas políticas e estratégicas gerais e sectoriais de acção na área do consumo;\n\nd) Dar parecer sobre o relatório e o plano de actividades anuais do Instituto do Consumidor;\n\ne) Aprovar recomendações a entidades públicas ou privadas ou aos consumidores sobre temas, actuações ou situações de interesse para a tutela dos direitos do consumidor.\n\n3 - O Governo, através do Instituto do Consumidor, presta ao Conselho o apoio administrativo, técnico e logístico necessário.\n\n4 - Incumbe ao Governo, mediante diploma próprio, regulamentar o funcionamento, a composição e o modo de designação dos membros do Conselho Nacional do Consumo, devendo em todo o caso ser assegurada uma representação dos consumidores não inferior a 50% da totalidade dos membros do Conselho."
+  },
+  "43834275": {
+   "fragment_id": "35256275",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "43834375": {
+   "fragment_id": "36424975",
+   "type": 11,
+   "heading": "Artigo 23.º — Profissões liberais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Profissões liberais\n\nO regime de responsabilidade por serviços prestados por profissionais liberais será regulado em leis próprias."
+  },
+  "43834475": {
+   "fragment_id": "36425075",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma revogatória\n\n1 - É revogada a Lei n.º 29/81, de 22 de Agosto.\n\n2 - Consideram-se feitas à presente lei as referências à Lei n.º 29/81, de 22 de Agosto."
+  },
+  "43834575": {
+   "fragment_id": "36425175",
+   "type": 11,
+   "heading": "Artigo 25.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Vigência\n\nOs regulamentos necessários à execução da presente lei serão publicados no prazo de 180 dias após a sua entrada em vigor."
+  },
+  "43861475": {
+   "fragment_id": "35256375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de Maio de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 4 de Julho de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 7 de Julho de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1027595803": {
+   "fragment_id": "36423075",
+   "type": 11,
+   "heading": "Artigo 4.º — Direito à qualidade dos bens e serviços",
+   "in_force_from": "2003-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 67/2003 - Diário da República n.º 83/2003, Série I-A de 2003-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2003-223630), em vigor a partir de 2003-04-09"
+   ],
+   "markdown": "###### Artigo 4.º — Direito à qualidade dos bens e serviços\n\nOs bens e serviços destinados ao consumo devem ser aptos a satisfazer os fins a que se destinam e a produzir os efeitos que se lhes atribuem, segundo as normas legalmente estabelecidas, ou, na falta delas, de modo adequado às legítimas expectativas do consumidor.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 67/2003 - Diário da República n.º 83/2003, Série I-A de 2003-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2003-223630), em vigor a partir de 2003-04-09"
+  },
+  "1027595804": {
+   "fragment_id": "36423875",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito à reparação de danos",
+   "in_force_from": "2003-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 67/2003 - Diário da República n.º 83/2003, Série I-A de 2003-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2003-223630), em vigor a partir de 2003-04-09"
+   ],
+   "markdown": "###### Artigo 12.º — Direito à reparação de danos\n\n1 - O consumidor tem direito à indemnização dos danos patrimoniais e não patrimoniais resultantes do fornecimento de bens ou prestações de serviços defeituosos.\n\n2 - O produtor é responsável, independentemente de culpa, pelos danos causados por defeitos de produtos que coloque no mercado, nos termos da lei.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 67/2003 - Diário da República n.º 83/2003, Série I-A de 2003-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2003-223630), em vigor a partir de 2003-04-09"
+  },
+  "1033275803": {
+   "fragment_id": "36423475",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito à informação em particular",
+   "in_force_from": "2013-04-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), em vigor a partir de 2013-04-28"
+   ],
+   "markdown": "###### Artigo 8.º — Direito à informação em particular\n\n1 - O fornecedor de bens ou prestador de serviços deve, tanto na fase de negociações como na fase de celebração de um contrato, informar de forma clara, objetiva e adequada o consumidor, nomeadamente sobre características, composição e preço do bem ou serviço, bem como sobre o período de vigência do contrato, garantias, prazos de entrega e assistência após o negócio jurídico e consequências do não pagamento do preço do bem ou serviço.\n\n2 - A obrigação de informar impende também sobre o produtor, o fabricante, o importador, o distribuidor, o embalador e o armazenista, por forma que cada elo do ciclo produção-consumo possa encontrar-se habilitado a cumprir a sua obrigação de informar o elo imediato até ao consumidor, destinatário final da informação.\n\n3 - Os riscos para a saúde e segurança dos consumidores que possam resultar da normal utilização de bens ou serviços perigosos devem ser comunicados, de modo claro, completo e adequado, pelo fornecedor ou prestador de serviços ao potencial consumidor.\n\n4 - Quando se verifique falta de informação, informação insuficiente, ilegível ou ambígua que comprometa a utilização adequada do bem ou do serviço, o consumidor goza do direito de retratação do contrato relativo à sua aquisição ou prestação, no prazo de sete dias úteis a contar da data de receção do bem ou da data de celebração do contrato de prestação de serviços.\n\n5 - O fornecedor de bens ou o prestador de serviços que viole o dever de informar responde pelos danos que causar ao consumidor, sendo solidariamente responsáveis os demais intervenientes na cadeia da produção à distribuição que hajam igualmente violado o dever de informação.\n\n6 - O dever de informar não pode ser denegado ou condicionado por invocação de segredo de fabrico não tutelado na lei, nem pode prejudicar o regime jurídico das cláusulas contratuais gerais ou outra legislação mais favorável para o consumidor.\n\n7 - O incumprimento do dever de informação sobre as consequências do não pagamento do preço do bem ou serviço determina a responsabilidade do fornecedor de bens ou prestador de serviços pelo pagamento das custas processuais devidas pela cobrança do crédito.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), em vigor a partir de 2013-04-28"
+  },
+  "1037787184": {
+   "fragment_id": "36422775",
+   "type": 11,
+   "heading": "Artigo 1.º — Dever geral de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Dever geral de proteção\n\n1 - Incumbe ao Estado, às regiões autónomas e às autarquias locais proteger o consumidor, designadamente através do apoio à constituição e funcionamento das associações de consumidores e de cooperativas de consumo, bem como à execução do disposto na presente lei.\n\n2 - A incumbência geral do Estado na proteção dos consumidores pressupõe a intervenção legislativa e regulamentar adequada em todos os domínios envolvidos."
+  },
+  "1037787185": {
+   "fragment_id": "36422875",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição e âmbito\n\n1 - Considera-se consumidor todo aquele a quem sejam fornecidos bens, prestados serviços ou transmitidos quaisquer direitos, destinados a uso não profissional, por pessoa que exerça com carácter profissional uma atividade económica que vise a obtenção de benefícios.\n\n2 - Consideram-se incluídos no âmbito da presente lei os bens, serviços e direitos fornecidos, prestados e transmitidos pelos organismos da Administração Pública, por pessoas coletivas públicas, por empresas de capitais públicos ou detidos maioritariamente pelo Estado, pelas regiões autónomas ou pelas autarquias locais e por empresas concessionárias de serviços públicos."
+  },
+  "1037787186": {
+   "fragment_id": "36422975",
+   "type": 11,
+   "heading": "Artigo 3.º — Direitos do consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direitos do consumidor\n\nO consumidor tem direito:\n\na) À qualidade dos bens e serviços;\n\nb) À proteção da saúde e da segurança física;\n\nc) À formação e à educação para o consumo;\n\nd) À informação para o consumo;\n\ne) À proteção dos interesses económicos;\n\nf) À prevenção e à reparação dos danos patrimoniais ou não patrimoniais que resultem da ofensa de interesses ou direitos individuais homogéneos, coletivos ou difusos;\n\ng) À proteção jurídica e a uma justiça acessível e pronta;\n\nh) À participação, por via representativa, na definição legal ou administrativa dos seus direitos e interesses."
+  },
+  "1037787187": {
+   "fragment_id": "36423175",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito à proteção da saúde e da segurança física",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito à proteção da saúde e da segurança física\n\n1 - É proibido o fornecimento de bens ou a prestação de serviços que, em condições de uso normal ou previsível, incluindo a duração, impliquem riscos incompatíveis com a sua utilização, não aceitáveis de acordo com um nível elevado de proteção da saúde e da segurança física das pessoas.\n\n2 - Os serviços da Administração Pública que, no exercício das suas funções, tenham conhecimento da existência de bens ou serviços proibidos nos termos do número anterior devem notificar tal facto às entidades competentes para a fiscalização do mercado.\n\n3 - Os organismos competentes da Administração Pública devem mandar apreender e retirar do mercado os bens e interditar as prestações de serviços que impliquem perigo para a saúde ou segurança física dos consumidores, quando utilizados em condições normais ou razoavelmente previsíveis."
+  },
+  "1037787188": {
+   "fragment_id": "36423275",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito à formação e à educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito à formação e à educação\n\n1 - Incumbe ao Estado a promoção de uma política educativa para os consumidores, através da inserção nos programas e nas atividades escolares, bem como nas ações de educação permanente, de matérias relacionadas com o consumo e os direitos dos consumidores, usando, designadamente, os meios tecnológicos próprios numa sociedade de informação.\n\n2 - Incumbe ao Estado, às Regiões Autónomas e às autarquias locais desenvolver ações e adotar medidas tendentes à formação e à educação do consumidor, designadamente através de:\n\na) Concretização, no sistema educativo, em particular no ensino básico e secundário, de programas e atividades de educação para o consumo;\n\nb) Apoio às iniciativas que neste domínio sejam promovidas pelas associações de consumidores;\n\nc) Promoção de ações de educação permanente de formação e sensibilização para os consumidores em geral;\n\nd) Promoção de uma política nacional de formação de formadores e de técnicos especializados na área do consumo.\n\n3 - Os programas de carácter educativo difundidos no serviço público de rádio e de televisão devem integrar espaços destinados à educação e à formação do consumidor.\n\n4 - Na formação do consumidor devem igualmente ser utilizados meios telemáticos, designadamente através de redes nacionais e mundiais de informação, estimulando-se o recurso a tais meios pelo sector público e privado."
+  },
+  "1037787189": {
+   "fragment_id": "36423375",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito à informação em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito à informação em geral\n\n1 - Incumbe ao Estado, às regiões autónomas e às autarquias locais desenvolver ações e adotar medidas tendentes à informação em geral do consumidor, designadamente através de:\n\na) Apoio às ações de informação promovidas pelas associações de consumidores;\n\nb) Criação de serviços municipais de informação ao consumidor;\n\nc) Constituição de conselhos municipais de consumo, com a representação, designadamente, de associações de interesses económicos e de interesses dos consumidores;\n\nd) Criação de bases de dados e arquivos digitais acessíveis, de âmbito nacional, no domínio do direito do consumo, destinados a difundir informação geral e específica;\n\ne) Criação de bases de dados e arquivos digitais acessíveis em matéria de direitos do consumidor, de acesso incondicionado.\n\n2 - O serviço público de rádio e de televisão deve reservar espaços, em termos que a lei definirá, para a promoção dos interesses e direitos do consumidor.\n\n3 - A informação ao consumidor é prestada em língua portuguesa.\n\n4 - A publicidade deve ser lícita, inequivocamente identificada e respeitar a verdade e os direitos dos consumidores.\n\n5 - As informações concretas e objetivas contidas nas mensagens publicitárias de determinado bem, serviço ou direito consideram-se integradas no conteúdo dos contratos que se venham a celebrar após a sua emissão, tendo-se por não escritas as cláusulas contratuais em contrário."
+  },
+  "1028144850": {
+   "fragment_id": "36423475",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito à informação em particular",
+   "in_force_from": "2014-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), em vigor a partir de 2013-04-28"
+   ],
+   "markdown": "###### Artigo 8.º — Direito à informação em particular\n\n1 - O fornecedor de bens ou prestador de serviços deve, tanto na fase de negociações como na fase de celebração de um contrato, informar o consumidor de forma clara, objetiva e adequada, a não ser que essa informação resulte de forma clara e evidente do contexto, nomeadamente sobre:\n\na) As características principais dos bens ou serviços, tendo em conta o suporte utilizado para o efeito e considerando os bens ou serviços em causa;\n\nb) A identidade do fornecedor de bens ou prestador de serviços, nomeadamente o seu nome, firma ou denominação social, endereço geográfico no qual está estabelecido e número de telefone;\n\nc) O preço total dos bens ou serviços, incluindo os montantes das taxas e impostos, os encargos suplementares de transporte e as despesas de entrega e postais, quando for o caso;\n\nd) O modo de cálculo do preço, nos casos em que, devido à natureza do bem ou serviço, o preço não puder ser calculado antes da celebração do contrato;\n\ne) A indicação de que podem ser exigíveis encargos suplementares postais, de transporte ou de entrega e quaisquer outros custos, nos casos em que tais encargos não puderem ser razoavelmente calculados antes da celebração do contrato;\n\nf) As modalidades de pagamento, de entrega ou de execução e o prazo de entrega do bem ou da prestação do serviço, quando for o caso;\n\ng) O sistema de tratamento de reclamações dos consumidores pelo profissional, bem como, quando for o caso, sobre os centros de arbitragem de conflitos de consumo de que o profissional seja aderente, e sobre a existência de arbitragem necessária;\n\nh) O período de vigência do contrato, quando for o caso, ou, se o contrato for de duração indeterminada ou de renovação automática, as condições para a sua denúncia ou não renovação, bem como as respetivas consequências, incluindo, se for o caso, o regime de contrapartidas previstas para a cessação antecipada dos contratos que estabeleçam períodos contratuais mínimos;\n\ni) A existência de garantia de conformidade dos bens, com a indicação do respetivo prazo, e, quando for o caso, a existência de serviços pós-venda e de garantias comerciais, com descrição das suas condições;\n\nj) A funcionalidade dos conteúdos digitais, nomeadamente o seu modo de utilização e a existência ou inexistência de restrições técnicas, incluindo as medidas de proteção técnica, quando for o caso;\n\nk) Qualquer interoperabilidade relevante dos conteúdos digitais, quando for o caso, com equipamentos e programas informáticos de que o fornecedor ou prestador tenha ou possa razoavelmente ter conhecimento, nomeadamente quanto ao sistema operativo, a versão necessária e as características do equipamento;\n\nl) As consequências do não pagamento do preço do bem ou serviço.\n\n2 - A obrigação de informar impende também sobre o produtor, o fabricante, o importador, o distribuidor, o embalador e o armazenista, por forma que cada elo do ciclo produção-consumo possa encontrar-se habilitado a cumprir a sua obrigação de informar o elo imediato até ao consumidor, destinatário final da informação.\n\n3 - Os riscos para a saúde e segurança dos consumidores que possam resultar da normal utilização de bens ou serviços perigosos devem ser comunicados, de modo claro, completo e adequado, pelo fornecedor ou prestador de serviços ao potencial consumidor.\n\n4 - Quando se verifique falta de informação, informação insuficiente, ilegível ou ambígua que comprometa a utilização adequada do bem ou do serviço, o consumidor goza do direito de retratação do contrato relativo à sua aquisição ou prestação, no prazo de sete dias úteis a contar da data de receção do bem ou da data de celebração do contrato de prestação de serviços.\n\n5 - O fornecedor de bens ou o prestador de serviços que viole o dever de informar responde pelos danos que causar ao consumidor, sendo solidariamente responsáveis os demais intervenientes na cadeia da produção à distribuição que hajam igualmente violado o dever de informação.\n\n6 - O dever de informar não pode ser denegado ou condicionado por invocação de segredo de fabrico não tutelado na lei, nem pode prejudicar o regime jurídico das cláusulas contratuais gerais ou outra legislação mais favorável para o consumidor.\n\n7 - O incumprimento do dever de informação sobre as consequências do não pagamento do preço do bem ou serviço determina a responsabilidade do fornecedor de bens ou prestador de serviços pelo pagamento das custas processuais devidas pela cobrança do crédito.\n\n8 - O disposto no n.º 1 aplica-se também aos contratos de fornecimento de água, gás ou eletricidade, caso não sejam postos à venda em volume ou quantidade limitados, aos de aquecimento urbano ou aos de conteúdos digitais não fornecidos em suporte material.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), em vigor a partir de 2013-04-28"
+  },
+  "1028144851": {
+   "fragment_id": "36423575",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito à proteção dos interesses económicos",
+   "in_force_from": "2014-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 16/96 - Diário da República n.º 263/1996, Série I-A de 1996-11-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1996-166775), em vigor a partir de 1996-11-13"
+   ],
+   "markdown": "###### Artigo 9.º — Direito à proteção dos interesses económicos\n\n1 - O consumidor tem direito à proteção dos seus interesses económicos, impondo-se nas relações jurídicas de consumo a igualdade material dos intervenientes, a lealdade e a boa fé, nos preliminares, na formação e ainda na vigência dos contratos.\n\n2 - Com vista à prevenção de abusos resultantes de contratos pré-elaborados, o fornecedor de bens e o prestador de serviços estão obrigados:\n\na) À redação clara e precisa, em carateres facilmente legíveis, das cláusulas contratuais gerais, incluindo as inseridas em contratos singulares;\n\nb) À não inclusão de cláusulas em contratos singulares que originem significativo desequilíbrio em detrimento do consumidor.\n\n3 - A inobservância do disposto no número anterior fica sujeita ao regime das cláusulas contratuais gerais.\n\n4 - O consumidor não fica obrigado ao pagamento de bens ou serviços que não tenha prévia e expressamente encomendado ou solicitado, ou que não constitua cumprimento de contrato válido, não lhe cabendo, do mesmo modo, o encargo da sua devolução ou compensação, nem a responsabilidade pelo risco de perecimento ou deterioração da coisa.\n\n5 - O consumidor tem direito à assistência após a venda, com incidência no fornecimento de peças e acessórios, pelo período de duração média normal dos produtos fornecidos.\n\n6 - É vedado ao fornecedor ou prestador de serviços fazer depender o fornecimento de um bem ou a prestação de um serviço da aquisição ou da prestação de um outro ou outros.\n\n7 - Sem prejuízo de regimes mais favoráveis, nos contratos que resultem da iniciativa do fornecedor de bens ou do prestador de serviços fora do estabelecimento comercial, por meio de correspondência ou outros equivalentes, é assegurado ao consumidor o direito de livre resolução no prazo de 14 dias, nos termos do disposto no Decreto-Lei n.º 24/2014, de 14 de fevereiro.\n\n8 - Incumbe ao Governo adotar medidas adequadas a assegurar o equilíbrio das relações jurídicas que tenham por objeto bens e serviços essenciais, designadamente água, energia elétrica, gás, telecomunicações e transportes públicos.\n\n9 - Incumbe ao Governo adotar medidas tendentes a prevenir a lesão dos interesses dos consumidores no domínio dos métodos de venda que prejudiquem a avaliação consciente das cláusulas apostas em contratos singulares e a formação livre, esclarecida e ponderada da decisão de se vincularem.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 16/96 - Diário da República n.º 263/1996, Série I-A de 1996-11-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1996-166775), em vigor a partir de 1996-11-13"
+  },
+  "1028144856": {
+   "fragment_id": "1034997622",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Pagamentos adicionais",
+   "in_force_from": "2014-07-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 9.º-A — Pagamentos adicionais\n\n1 - Antes de o consumidor ficar vinculado pelo contrato ou oferta, o fornecedor de bens ou prestador de serviços tem de obter o acordo expresso do consumidor para qualquer pagamento adicional que acresça à contraprestação acordada relativamente à obrigação contratual principal do fornecedor de bens ou prestador de serviços.\n\n2 - A obrigação de pagamentos adicionais depende da sua comunicação clara e compreensível ao consumidor, sendo inválida a aceitação pelo consumidor quando não lhe tiver sido dada a possibilidade de optar pela inclusão ou não desses pagamentos adicionais.\n\n3 - Quando, em lugar do acordo explícito do consumidor, a obrigação de pagamento adicional resultar de opções estabelecidas por defeito que tivessem de ser recusadas para evitar o pagamento adicional, o consumidor tem direito à restituição do referido pagamento.\n\n4 - Incumbe ao fornecedor de bens ou prestador de serviços provar o cumprimento do dever de comunicação estabelecido no n.º 2.\n\n5 - O disposto no presente artigo aplica-se à compra e venda, à prestação de serviços, aos contratos de fornecimento de serviços públicos essenciais de água, gás, eletricidade, comunicações eletrónicas e aquecimento urbano e aos contratos sobre conteúdos digitais.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1028144863": {
+   "fragment_id": "1034997623",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Entrega dos bens",
+   "in_force_from": "2014-07-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 9.º-B — Entrega dos bens\n\n1 - O fornecedor de bens deve entregar os bens na data ou dentro do período especificado pelo consumidor, salvo convenção em contrário.\n\n2 - Na falta de fixação de data para a entrega do bem, o fornecedor de bens deve entregar o bem sem demora injustificada e até 30 dias após a celebração do contrato.\n\n3 - A entrega dá-se quando o consumidor adquira o controlo ou a posse física do bem.\n\n4 - Não sendo cumprida a obrigação de entrega dos bens na data acordada ou no prazo previsto no n.º 2, o consumidor tem o direito de solicitar ao fornecedor de bens a entrega num prazo adicional adequado às circunstâncias.\n\n5 - Se o fornecedor de bens não entregar os bens dentro do prazo adicional, o consumidor tem o direito de resolver o contrato.\n\n6 - O consumidor tem o direito de resolver imediatamente o contrato sem necessidade de indicação de prazo adicional nos termos do n.º 4, se o fornecedor não entregar os bens na data acordada ou dentro do prazo fixado no n.º 2 e ocorra um dos seguintes casos:\n\na) No âmbito do contrato de compra e venda, o fornecedor de bens se recuse a entregar os bens;\n\nb) O prazo fixado para a entrega seja essencial atendendo a todas as circunstâncias que rodearam a celebração do contrato; ou\n\nc) O consumidor informe o fornecedor de bens, antes da celebração do contrato, de que a entrega dentro de um determinado prazo ou em determinada data é essencial.\n\n7 - Após a resolução do contrato, o fornecedor de bens deve restituir ao consumidor a totalidade do montante pago até 14 dias após a referida resolução.\n\n8 - Em caso de incumprimento do disposto no número anterior, o consumidor tem o direito à devolução em dobro do montante pago, sem prejuízo da indemnização por danos patrimoniais e não patrimoniais a que haja lugar.\n\n9 - Incumbe ao fornecedor de bens a prova do cumprimento das obrigações estabelecidas no presente artigo.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1028144870": {
+   "fragment_id": "1034997624",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Transferência do risco",
+   "in_force_from": "2014-07-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 9.º-C — Transferência do risco\n\n1 - Nos contratos em que o fornecedor envia os bens para o consumidor, o risco de perda ou dano dos bens transfere-se para o consumidor quando este ou um terceiro por ele indicado, que não o transportador, adquira a posse física dos bens.\n\n2 - Se o consumidor confiar o transporte a pessoa diferente da proposta pelo fornecedor de bens, o risco transfere-se para o consumidor com a entrega do bem ao transportador.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1037787177": {
+   "fragment_id": "1034997625",
+   "type": 11,
+   "heading": "Artigo 9.º-D — Serviços de promoção, informação ou contacto com os consumidores",
+   "in_force_from": "2014-07-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 9.º-D — Serviços de promoção, informação ou contacto com os consumidores\n\n1 - A disponibilização de linha telefónica para contacto no âmbito de uma relação jurídica de consumo não implica o pagamento pelo consumidor de quaisquer custos adicionais pela utilização desse meio, além da tarifa base, sem prejuízo do direito de os operadores de telecomunicações faturarem aquelas chamadas.\n\n2 - O disposto no número anterior não prejudica a aplicação do Decreto-Lei n.º 134/2009, de 2 de junho, alterado pelo Decreto-Lei n.º 72-A/2010, de 18 de junho, em tudo o que não contrarie a presente lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1037787190": {
+   "fragment_id": "36423675",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito à prevenção e ação inibitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito à prevenção e ação inibitória\n\n1 - É assegurado o direito de ação inibitória destinada a prevenir, corrigir ou fazer cessar práticas lesivas dos direitos do consumidor consignados na presente lei, que, nomeadamente:\n\na) Atentem contra a sua saúde e segurança física;\n\nb) Se traduzam no uso de cláusulas gerais proibidas;\n\nc) Consistam em práticas comerciais expressamente proibidas por lei.\n\n2 - A sentença proferida em ação inibitória pode ser acompanhada de sanção pecuniária compulsória, prevista no artigo 829.º-A do Código Civil, sem prejuízo da indemnização a que houver lugar."
+  },
+  "1037787179": {
+   "fragment_id": "36423775",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma de processo da ação inibitória",
+   "in_force_from": "2014-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 11.º — Forma de processo da ação inibitória\n\n1 - A ação inibitória tem o valor equivalente ao da alçada da Relação mais 0.01(euro), segue os termos do processo sumário e está isenta de custas.\n\n2 - A decisão especificará o âmbito da abstenção ou correção, designadamente através da referência concreta do seu teor e a indicação do tipo de situações a que se reporta.\n\n3 - Transitada em julgado, a decisão condenatória será publicitada a expensas do infrator, nos termos fixados pelo juiz, e será registada em serviço a designar nos termos da legislação regulamentar da presente lei.\n\n4 - Quando se tratar de cláusulas contratuais gerais, aplica-se ainda o disposto nos artigos 31.º e 32.º do Decreto-Lei n.º 446/85, de 25 de outubro, com as alterações introduzidas pelos Decretos-Leis n.os 220/95, de 31 de agosto, 249/99, de 7 de julho e 323/2001, de 17 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1037787180": {
+   "fragment_id": "36423875",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito à reparação de danos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 67/2003 - Diário da República n.º 83/2003, Série I-A de 2003-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2003-223630), em vigor a partir de 2003-04-09"
+   ],
+   "markdown": "###### Artigo 12.º — Direito à reparação de danos\n\n1 - O consumidor tem direito à indemnização dos danos patrimoniais e não patrimoniais resultantes do fornecimento de bens ou prestações de serviços defeituosos.\n\n2 - O produtor é responsável, independentemente de culpa, pelos danos causados por defeitos de produtos que coloque no mercado, nos termos da lei.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 67/2003 - Diário da República n.º 83/2003, Série I-A de 2003-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2003-223630), em vigor a partir de 2003-04-09"
+  },
+  "1037787181": {
+   "fragment_id": "36423975",
+   "type": 11,
+   "heading": "Artigo 13.º — Legitimidade ativa",
+   "in_force_from": "2014-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 13.º — Legitimidade ativa\n\nTêm legitimidade para intentar as ações previstas nos artigos anteriores:\n\na) Os consumidores diretamente lesados;\n\nb) Os consumidores e as associações de consumidores ainda que não diretamente lesados, nos termos da Lei n.º 83/95, de 31 de Agosto;\n\nc) O Ministério Público e a Direção-Geral do Consumidor quando estejam em causa interesses individuais homogéneos, coletivos ou difusos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1037787191": {
+   "fragment_id": "36424075",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito à proteção jurídica e direito a uma justiça acessível e pronta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direito à proteção jurídica e direito a uma justiça acessível e pronta\n\n1 - Incumbe aos órgãos e departamentos da Administração Pública promover a criação e apoiar centros de arbitragem com o objetivo de dirimir os conflitos de consumo.\n\n2 - É assegurado ao consumidor o direito à isenção de preparos nos processos em que pretenda a proteção dos seus interesses ou direitos, a condenação por incumprimento do fornecedor de bens ou prestador de serviços, ou a reparação de perdas e danos emergentes de factos ilícitos ou da responsabilidade objetiva definida nos termos da lei, desde que o valor da ação não exceda a alçada do tribunal judicial de 1.ª instância.\n\n3 - Os autores nos processos definidos no número anterior ficam isentos do pagamento de custas em caso de procedência parcial da respetiva ação.\n\n4 - Em caso de decaimento total, o autor ou autores intervenientes são condenados em montantes, a fixar pelo julgador, entre um décimo e a totalidade das custas que normalmente seriam devidas, tendo em conta a sua situação económica e a razão formal ou substantiva da improcedência."
+  },
+  "1037787192": {
+   "fragment_id": "36424175",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito de participação por via representativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito de participação por via representativa\n\nO direito de participação consiste, nomeadamente, na audição e consulta prévias, em prazo razoável, das associações de consumidores no tocante às medidas que afetem os direitos ou interesses legalmente protegidos dos consumidores."
+  },
+  "1037787193": {
+   "fragment_id": "36424375",
+   "type": 11,
+   "heading": "Artigo 17.º — Associações de consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Associações de consumidores\n\n1 - As associações de consumidores são associações dotadas de personalidade jurídica, sem fins lucrativos e com o objetivo principal de proteger os direitos e os interesses dos consumidores em geral ou dos consumidores seus associados.\n\n2 - As associações de consumidores podem ser de âmbito nacional, regional ou local, consoante a área a que circunscrevam a sua ação e tenham, pelo menos, 3000, 500 ou 100 associados, respetivamente.\n\n3 - As associações de consumidores podem ser ainda de interesse genérico ou de interesse específico:\n\na) São de interesse genérico as associações de consumidores cujo fim estatutário seja a tutela dos direitos dos consumidores em geral e cujos órgãos sejam livremente eleitos pelo voto universal e secreto de todos os seus associados;\n\nb) São de interesse específico as demais associações de consumidores de bens e serviços determinados, cujos órgãos sejam livremente eleitos pelo voto universal e secreto de todos os seus associados.\n\n4 - As cooperativas de consumo são equiparadas, para os efeitos do disposto na presente lei, às associações de consumidores.\n\n> Nota: [Artigo 21.º, Lei n.º 85/98 - Diário da República n.º 289/1998, Série I-A de 1998-12-16](https://diariodarepublica.pt/dr/detalhe/lei/85-1998-219165) Com a entrada em vigor do Estatuto Fiscal Cooperativo, aprovado pela Lei n.º 85/98, de 16 de dezembro, o disposto no n.º 4 do presente artigo considera-se revogado, no que respeita à matéria regulada pelo referido Estatuto."
+  },
+  "1037787194": {
+   "fragment_id": "36424475",
+   "type": 11,
+   "heading": "Artigo 18.º — Direitos das associações de consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direitos das associações de consumidores\n\n1 - As associações de consumidores gozam dos seguintes direitos:\n\na) Ao estatuto de parceiro social em matérias que digam respeito à política de consumidores, nomeadamente traduzido na indicação de representantes para órgãos de consulta ou concertação que se ocupem da matéria;\n\nb) Direito de antena na rádio e na televisão, nos mesmos termos das associações com estatuto de parceiro social;\n\nc) Direito a representar os consumidores no processo de consulta e audição públicas a realizar no decurso da tomada de decisões suscetíveis de afetar os direitos e interesses daqueles;\n\nd) Direito a solicitar, junto das autoridades administrativas ou judiciais competentes, a apreensão e retirada de bens do mercado ou a interdição de serviços lesivos dos direitos e interesses dos consumidores;\n\ne) Direito a corrigir e a responder ao conteúdo de mensagens publicitárias relativas a bens e serviços postos no mercado, bem como a requerer, junto das autoridades competentes, que seja retirada do mercado publicidade enganosa ou abusiva;\n\nf) Direito a consultar os processos e demais elementos existentes nas repartições e serviços públicos da administração central, regional ou local que contenham dados sobre as características de bens e serviços de consumo e de divulgar as informações necessárias à tutela dos interesses dos consumidores;\n\ng) Direito a serem esclarecidas sobre a formação dos preços de bens e serviços, sempre que o solicitem;\n\nh) Direito de participar nos processos de regulação de preços de fornecimento de bens e de prestações de serviços essenciais, nomeadamente nos domínios da água, energia, gás, transportes e telecomunicações, e a solicitar os esclarecimentos sobre as tarifas praticadas e a qualidade dos serviços, por forma a poderem pronunciar-se sobre elas;\n\ni) Direito a solicitar aos laboratórios oficiais a realização de análises sobre a composição ou sobre o estado de conservação e demais características dos bens destinados ao consumo público e de tornarem públicos os correspondentes resultados, devendo o serviço ser prestado segundo tarifa que não ultrapasse o preço de custo;\n\nj) Direito à presunção de boa fé das informações por elas prestadas;\n\nl) Direito à ação popular;\n\nm) Direito de queixa e denúncia, bem como direito de se constituírem como assistentes em sede de processo penal e a acompanharem o processo contraordenacional, quando o requeiram, apresentando memoriais, pareceres técnicos, sugestão de exames ou outras diligências de prova até que o processo esteja pronto para decisão final;\n\nn) Direito à isenção do pagamento de custas, preparos e de imposto do selo, nos termos da Lei n.º 83/95, de 31 de Agosto;\n\no) Direito a receber apoio do Estado, através da administração central, regional e local, para a prossecução dos seus fins, nomeadamente no exercício da sua atividade no domínio da formação, informação e representação dos consumidores;\n\np) Direito a benefícios fiscais idênticos aos concedidos ou a conceder às instituições particulares de solidariedade social.\n\n2 - Os direitos previstos nas alíneas a) e b) do número anterior são exclusivamente conferidos às associações de consumidores de âmbito nacional e de interesse genérico.\n\n3 - O direito previsto na alínea h) do n.º 1 é conferido às associações de interesse genérico ou de interesse específico quando esse interesse esteja diretamente relacionado com o bem ou serviço que é objeto da regulação de preços e, para os serviços de natureza não regional ou local, exclusivamente conferido a associações de âmbito nacional.\n\n> Nota: [Artigo 21.º, Lei n.º 85/98 - Diário da República n.º 289/1998, Série I-A de 1998-12-16](https://diariodarepublica.pt/dr/detalhe/lei/85-1998-219165) Com a entrada em vigor do Estatuto Fiscal Cooperativo, aprovado pela Lei n.º 85/98, de 16 de dezembro, o disposto na alínea p) do n.º 1 do presente artigo considera-se revogado, no que respeita à matéria regulada pelo referido Estatuto."
+  },
+  "1037787195": {
+   "fragment_id": "36424575",
+   "type": 11,
+   "heading": "Artigo 19.º — Acordos de boa conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acordos de boa conduta\n\n1 - As associações de consumidores podem negociar com os profissionais ou as suas organizações representativas acordos de boa conduta, destinados a reger as relações entre uns e outros.\n\n2 - Os acordos referidos no número anterior não podem contrariar os preceitos imperativos da lei, designadamente os da lei da concorrência, nem conter disposições menos favoráveis aos consumidores do que as legalmente previstas.\n\n3 - Os acordos de boa conduta celebrados com associações de consumidores de interesse genérico obrigam os profissionais ou representados em relação a todos os consumidores, sejam ou não membros das associações intervenientes.\n\n4 - Os acordos atrás referidos devem ser objeto de divulgação, nomeadamente através da afixação nos estabelecimentos comerciais, sem prejuízo da utilização de outros meios informativos mais circunstanciados."
+  },
+  "1037787196": {
+   "fragment_id": "36424675",
+   "type": 11,
+   "heading": "Artigo 20.º — Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Ministério Público\n\nIncumbe também ao Ministério Público a defesa dos consumidores no âmbito da presente lei e no quadro das respetivas competências, intervindo em ações administrativas e cíveis tendentes à tutela dos interesses individuais homogéneos, bem como de interesses coletivos ou difusos dos consumidores."
+  },
+  "1028144854": {
+   "fragment_id": "36424775",
+   "type": 11,
+   "heading": "Artigo 21.º — Direção-Geral do Consumidor",
+   "in_force_from": "2014-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 21.º — Direção-Geral do Consumidor\n\n1 - A Direção-Geral do Consumidor é o serviço público destinado a promover a política de salvaguarda dos direitos dos consumidores, bem como a coordenar e executar as medidas tendentes à sua proteção, informação e educação e de apoio às organizações de consumidores.\n\n2 - Para a prossecução das suas atribuições, a Direção-Geral é considerada autoridade pública e goza dos seguintes poderes:\n\na) Solicitar e obter dos fornecedores de bens e prestadores de serviços, bem como das entidades referidas no n.º 2 do artigo 2.º, mediante pedido fundamentado, as informações, os elementos e as diligências que entender necessários à salvaguarda dos direitos e interesses dos consumidores;\n\nb) Participar na definição do serviço público de rádio e de televisão em matéria de informação e educação dos consumidores;\n\nc) Representar em juízo os direitos e interesses coletivos e difusos dos consumidores;\n\nd) Ordenar medidas cautelares de cessação, suspensão ou interdição de fornecimentos de bens ou prestações de serviços que, independentemente de prova de uma perda ou um prejuízo real, pelo seu objeto, forma ou fim, acarretem ou possam acarretar riscos para a saúde, a segurança e os interesses económicos dos consumidores.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1028144855": {
+   "fragment_id": "36424875",
+   "type": 11,
+   "heading": "Artigo 22.º — Conselho Nacional do Consumo",
+   "in_force_from": "2014-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 22.º — Conselho Nacional do Consumo\n\n1 - O Conselho Nacional do Consumo é um órgão independente de consulta e ação pedagógica e preventiva, exercendo a sua ação em todas as matérias relacionadas com o interesse dos consumidores.\n\n2 - São, nomeadamente, funções do Conselho:\n\na) Pronunciar-se sobre todas as questões relacionadas com o consumo que sejam submetidas à sua apreciação pelo Governo, pela Direção-Geral do Consumidor, pelas associações de consumidores ou por outras entidades nele representadas;\n\nb) Emitir parecer prévio sobre iniciativas legislativas relevantes em matéria de consumo;\n\nc) Estudar e propor ao Governo a definição das grandes linhas políticas e estratégicas gerais e setoriais de ação na área do consumo;\n\nd) [Revogada];\n\ne) [Revogada].\n\n3 - O Governo, através da Direção-Geral do Consumidor, presta ao Conselho o apoio administrativo, técnico e logístico necessário.\n\n4 - Incumbe ao Governo, mediante diploma próprio, regulamentar o funcionamento, a composição e o modo de designação dos membros do Conselho Nacional do Consumo, devendo em todo o caso ser assegurada uma representação dos consumidores não inferior a 50% da totalidade dos membros do Conselho.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1037787197": {
+   "fragment_id": "36424975",
+   "type": 11,
+   "heading": "Artigo 23.º — Profissões liberais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Profissões liberais\n\nO regime de responsabilidade por serviços prestados por profissionais liberais é regulado em leis próprias."
+  },
+  "1037787198": {
+   "fragment_id": "36425175",
+   "type": 11,
+   "heading": "Artigo 25.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Vigência\n\nOs regulamentos necessários à execução da presente lei são publicados no prazo de 180 dias após a sua entrada em vigor."
+  },
+  "1037799031": {
+   "fragment_id": "36424075",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito à proteção jurídica e direito a uma justiça acessível e pronta",
+   "in_force_from": "2019-09-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2019-123962147), em vigor a partir de 2019-09-15"
+   ],
+   "markdown": "###### Artigo 14.º — Direito à proteção jurídica e direito a uma justiça acessível e pronta\n\n1 - Incumbe aos órgãos e departamentos da Administração Pública promover a criação e apoiar centros de arbitragem com o objetivo de dirimir os conflitos de consumo.\n\n2 - Os conflitos de consumo de reduzido valor económico estão sujeitos a arbitragem necessária ou mediação quando, por opção expressa dos consumidores, sejam submetidos à apreciação de tribunal arbitral adstrito aos centros de arbitragem de conflitos de consumo legalmente autorizados.\n\n3 - Consideram-se conflitos de consumo de reduzido valor económico aqueles cujo valor não exceda a alçada dos tribunais de 1.ª instância.\n\n4 - Nos conflitos de consumo a que se referem os n.os 2 e 3 deve o consumidor ser notificado, no início do processo, de que pode fazer-se representar por advogado ou solicitador, sendo que, caso não tenha meios económicos para tal, pode solicitar apoio judiciário, nos termos da lei que regula o acesso ao direito e aos tribunais.\n\n5 - Nos conflitos de consumo a que se referem os n.ºs 2 e 3 o consumidor fica dispensado do pagamento prévio de taxa de justiça, que será apurada a final.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2019-123962147), em vigor a partir de 2019-09-15"
+  },
+  "1043257575": {
+   "fragment_id": "1034997623",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Entrega dos bens",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 9.º-B — Entrega dos bens\n\n1 - O fornecedor de bens deve entregar os bens na data ou dentro do período especificado pelo consumidor, salvo convenção em contrário.\n\n2 - Na falta de fixação de data para a entrega do bem, o fornecedor de bens deve entregar o bem sem demora injustificada e até 30 dias após a celebração do contrato.\n\n3 - A entrega dá-se quando o consumidor adquira o controlo ou a posse física do bem.\n\n4 - Não sendo cumprida a obrigação de entrega dos bens na data acordada ou no prazo previsto no n.º 2, o consumidor tem o direito de solicitar ao fornecedor de bens a entrega num prazo adicional adequado às circunstâncias.\n\n5 - Se o fornecedor de bens não entregar os bens dentro do prazo adicional, o consumidor tem o direito de resolver o contrato.\n\n6 - O consumidor tem o direito de resolver imediatamente o contrato sem necessidade de indicação de prazo adicional nos termos do n.º 4, se o fornecedor não entregar os bens na data acordada ou dentro do prazo fixado no n.º 2 e ocorra um dos seguintes casos:\n\na) No âmbito do contrato de compra e venda, o fornecedor de bens se recuse a entregar os bens;\n\nb) O prazo fixado para a entrega seja essencial atendendo a todas as circunstâncias que rodearam a celebração do contrato; ou\n\nc) O consumidor informe o fornecedor de bens, antes da celebração do contrato, de que a entrega dentro de um determinado prazo ou em determinada data é essencial.\n\n7 - Após a resolução do contrato, o fornecedor de bens deve restituir ao consumidor a totalidade do montante pago até 14 dias após a referida resolução.\n\n8 - Em caso de incumprimento do disposto no número anterior, o consumidor tem o direito à devolução em dobro do montante pago, sem prejuízo da indemnização por danos patrimoniais e não patrimoniais a que haja lugar.\n\n9 - Incumbe ao fornecedor de bens a prova do cumprimento das obrigações estabelecidas no presente artigo.\n\n> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1043257576": {
+   "fragment_id": "1034997624",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Transferência do risco",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 9.º-C — Transferência do risco\n\n1 - Nos contratos em que o fornecedor envia os bens para o consumidor, o risco de perda ou dano dos bens transfere-se para o consumidor quando este ou um terceiro por ele indicado, que não o transportador, adquira a posse física dos bens.\n\n2 - Se o consumidor confiar o transporte a pessoa diferente da proposta pelo fornecedor de bens, o risco transfere-se para o consumidor com a entrega do bem ao transportador.\n\n> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301), em vigor a partir de 2022-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1037796124": {
+   "fragment_id": "1034997625",
+   "type": 11,
+   "heading": "Artigo 9.º-D — Serviços de promoção, informação ou contacto com os consumidores",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 59/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2021-167281002), em vigor a partir de 2021-11-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+   ],
+   "markdown": "###### Artigo 9.º-D — Serviços de promoção, informação ou contacto com os consumidores\n\n1 - A disponibilização de linha telefónica para contacto no âmbito de uma relação jurídica de consumo não implica o pagamento pelo consumidor de quaisquer custos adicionais pela utilização desse meio, além da tarifa base, sem prejuízo do direito de os operadores de telecomunicações faturarem aquelas chamadas.\n\n2 - O disposto no número anterior não prejudica a aplicação do Decreto-Lei n.º 134/2009, de 2 de junho, alterado pelo Decreto-Lei n.º 72-A/2010, de 18 de junho, em tudo o que não contrarie a presente lei.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 59/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2021-167281002), em vigor a partir de 2021-11-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29"
+  },
+  "1045237589": {
+   "fragment_id": "36423475",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito à informação em particular",
+   "in_force_from": "2022-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), em vigor a partir de 2013-04-28"
+   ],
+   "markdown": "###### Artigo 8.º — Direito à informação em particular\n\n1 - O fornecedor de bens ou prestador de serviços deve, tanto na fase de negociações como na fase de celebração de um contrato, informar o consumidor de forma clara, objetiva e adequada, a não ser que essa informação resulte de forma clara e evidente do contexto, nomeadamente sobre:\n\na) As características principais dos bens ou serviços, tendo em conta o suporte utilizado para o efeito e considerando os bens ou serviços em causa;\n\nb) A identidade do fornecedor de bens ou prestador de serviços, nomeadamente o seu nome, firma ou denominação social, endereço geográfico no qual está estabelecido e número de telefone;\n\nc) O preço total dos bens ou serviços, incluindo os montantes das taxas e impostos, os encargos suplementares de transporte e as despesas de entrega e postais, quando for o caso;\n\nd) O modo de cálculo do preço, nos casos em que, devido à natureza do bem ou serviço, o preço não puder ser calculado antes da celebração do contrato;\n\ne) A indicação de que podem ser exigíveis encargos suplementares postais, de transporte ou de entrega e quaisquer outros custos, nos casos em que tais encargos não puderem ser razoavelmente calculados antes da celebração do contrato;\n\nf) As modalidades de pagamento, de entrega ou de execução e o prazo de entrega do bem ou da prestação do serviço, quando for o caso;\n\ng) O sistema de tratamento de reclamações dos consumidores pelo profissional, bem como, quando for o caso, sobre os centros de arbitragem de conflitos de consumo de que o profissional seja aderente, e sobre a existência de arbitragem necessária;\n\nh) O período de vigência do contrato, quando for o caso, ou, se o contrato for de duração indeterminada ou de renovação automática, as condições para a sua denúncia ou não renovação, bem como as respetivas consequências, incluindo, se for o caso, o regime de contrapartidas previstas para a cessação antecipada dos contratos que estabeleçam períodos contratuais mínimos;\n\ni) A existência de garantia de conformidade dos bens, dos conteúdos e serviços digitais, com a indicação do respetivo prazo, e, quando for o caso, a existência de serviços pós-venda e de garantias comerciais, com descrição das suas condições;\n\nj) A funcionalidade dos bens com elementos digitais, conteúdos e serviços digitais, nomeadamente o seu modo de utilização e a existência ou inexistência de restrições técnicas, incluindo as medidas de proteção técnica, quando for o caso;\n\nk) Qualquer compatibilidade e interoperabilidade relevante dos bens com elementos digitais, conteúdos e serviços digitais, quando for o caso, com equipamentos e programas informáticos de que o fornecedor ou prestador tenha ou possa razoavelmente ter conhecimento, nomeadamente quanto ao sistema operativo, a versão necessária e as características do equipamento;\n\nl) As consequências do não pagamento do preço do bem ou serviço.\n\n2 - A obrigação de informar impende também sobre o produtor, o fabricante, o importador, o distribuidor, o embalador e o armazenista, por forma que cada elo do ciclo produção-consumo possa encontrar-se habilitado a cumprir a sua obrigação de informar o elo imediato até ao consumidor, destinatário final da informação.\n\n3 - Os riscos para a saúde e segurança dos consumidores que possam resultar da normal utilização de bens ou serviços perigosos devem ser comunicados, de modo claro, completo e adequado, pelo fornecedor ou prestador de serviços ao potencial consumidor.\n\n4 - Quando se verifique falta de informação, informação insuficiente, ilegível ou ambígua que comprometa a utilização adequada do bem ou do serviço, o consumidor goza do direito de retratação do contrato relativo à sua aquisição ou prestação, no prazo de sete dias úteis a contar da data de receção do bem ou da data de celebração do contrato de prestação de serviços.\n\n5 - O fornecedor de bens ou o prestador de serviços que viole o dever de informar responde pelos danos que causar ao consumidor, sendo solidariamente responsáveis os demais intervenientes na cadeia da produção à distribuição que hajam igualmente violado o dever de informação.\n\n6 - O dever de informar não pode ser denegado ou condicionado por invocação de segredo de fabrico não tutelado na lei, nem pode prejudicar o regime jurídico das cláusulas contratuais gerais ou outra legislação mais favorável para o consumidor.\n\n7 - O incumprimento do dever de informação sobre as consequências do não pagamento do preço do bem ou serviço determina a responsabilidade do fornecedor de bens ou prestador de serviços pelo pagamento das custas processuais devidas pela cobrança do crédito.\n\n8 - O disposto no n.º 1 aplica-se também aos contratos de fornecimento de água, gás ou eletricidade, caso não sejam postos à venda em volume ou quantidade limitados, aos de aquecimento urbano ou aos de conteúdos digitais não fornecidos em suporte material.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 10/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/lei/10-2013-257004), em vigor a partir de 2013-04-28"
+  },
+  "1045237590": {
+   "fragment_id": "36423575",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito à proteção dos interesses económicos",
+   "in_force_from": "2022-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 16/96 - Diário da República n.º 263/1996, Série I-A de 1996-11-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1996-166775), em vigor a partir de 1996-11-13"
+   ],
+   "markdown": "###### Artigo 9.º — Direito à proteção dos interesses económicos\n\n1 - O consumidor tem direito à proteção dos seus interesses económicos, impondo-se nas relações jurídicas de consumo a igualdade material dos intervenientes, a lealdade e a boa fé, nos preliminares, na formação e ainda na vigência dos contratos.\n\n2 - Com vista à prevenção de abusos resultantes de contratos pré-elaborados, o fornecedor de bens e o prestador de serviços estão obrigados:\n\na) À redação clara e precisa, em carateres facilmente legíveis, das cláusulas contratuais gerais, incluindo as inseridas em contratos singulares;\n\nb) À não inclusão de cláusulas em contratos singulares que originem significativo desequilíbrio em detrimento do consumidor.\n\n3 - A inobservância do disposto no número anterior fica sujeita ao regime das cláusulas contratuais gerais.\n\n4 - O consumidor não fica obrigado ao pagamento de bens ou serviços que não tenha prévia e expressamente encomendado ou solicitado, ou que não constitua cumprimento de contrato válido, não lhe cabendo, do mesmo modo, o encargo da sua devolução ou compensação, nem a responsabilidade pelo risco de perecimento ou deterioração da coisa.\n\n5 - O consumidor tem direito à assistência após a venda, com incidência no fornecimento de peças e acessórios, pelo período de duração média normal dos produtos fornecidos.\n\n6 - É vedado ao fornecedor ou prestador de serviços fazer depender o fornecimento de um bem ou a prestação de um serviço da aquisição ou da prestação de um outro ou outros.\n\n7 - É vedado ao profissional a adoção de quaisquer técnicas através das quais o mesmo visa reduzir deliberadamente a duração de vida útil de um bem de consumo a fim de estimular ou aumentar a substituição de bens.\n\n8 - Sem prejuízo de regimes mais favoráveis, nos contratos que resultem da iniciativa do fornecedor de bens ou do prestador de serviços fora do estabelecimento comercial, por meio de correspondência ou outros equivalentes, é assegurado ao consumidor o direito de livre resolução no prazo de 14 dias, nos termos do disposto no Decreto-Lei n.º 24/2014, de 14 de fevereiro.\n\n9 - Incumbe ao Governo adotar medidas adequadas a assegurar o equilíbrio das relações jurídicas que tenham por objeto bens e serviços essenciais, designadamente água, energia elétrica, gás, telecomunicações e transportes públicos.\n\n10 - Incumbe ao Governo adotar medidas tendentes a prevenir a lesão dos interesses dos consumidores no domínio dos métodos de venda que prejudiquem a avaliação consciente das cláusulas apostas em contratos singulares e a formação livre, esclarecida e ponderada da decisão de se vincularem.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 16/96 - Diário da República n.º 263/1996, Série I-A de 1996-11-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1996-166775), em vigor a partir de 1996-11-13"
+  },
+  "1045674275": {
+   "fragment_id": "36423575",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito à proteção dos interesses económicos",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 28/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/28-2023-215097636), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 16/96 - Diário da República n.º 263/1996, Série I-A de 1996-11-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1996-166775), em vigor a partir de 1996-11-13"
+   ],
+   "markdown": "###### Artigo 9.º — Direito à proteção dos interesses económicos\n\n1 - O consumidor tem direito à proteção dos seus interesses económicos, impondo-se nas relações jurídicas de consumo a igualdade material dos intervenientes, a lealdade e a boa fé, nos preliminares, na formação e ainda na vigência dos contratos.\n\n2 - Com vista à prevenção de abusos resultantes de contratos pré-elaborados, o fornecedor de bens e o prestador de serviços estão obrigados:\n\na) À redação clara e precisa, em carateres facilmente legíveis, das cláusulas contratuais gerais, incluindo as inseridas em contratos singulares;\n\nb) À não inclusão de cláusulas em contratos singulares que originem significativo desequilíbrio em detrimento do consumidor.\n\n3 - A inobservância do disposto no número anterior fica sujeita ao regime das cláusulas contratuais gerais.\n\n4 - O consumidor não fica obrigado ao pagamento de bens ou serviços que não tenha prévia e expressamente encomendado ou solicitado, ou que não constitua cumprimento de contrato válido, não lhe cabendo, do mesmo modo, o encargo da sua devolução ou compensação, nem a responsabilidade pelo risco de perecimento ou deterioração da coisa.\n\n5 - O consumidor tem direito à assistência após a venda, com incidência no fornecimento de peças e acessórios, pelo período de duração média normal dos produtos fornecidos.\n\n6 - É vedado ao fornecedor ou prestador de serviços fazer depender o fornecimento de um bem ou a prestação de um serviço da aquisição ou da prestação de um outro ou outros.\n\n7 - É vedada ao fornecedor de bens ou ao prestador de serviços a adoção de quaisquer técnicas que visem reduzir deliberadamente a duração de vida útil de um bem de consumo a fim de estimular ou aumentar a substituição de bens ou a renovação da prestação de serviços que inclua um bem de consumo.\n\n8 - Sem prejuízo de regimes mais favoráveis, nos contratos que resultem da iniciativa do fornecedor de bens ou do prestador de serviços fora do estabelecimento comercial, por meio de correspondência ou outros equivalentes, é assegurado ao consumidor o direito de livre resolução no prazo de 14 dias, nos termos do disposto no Decreto-Lei n.º 24/2014, de 14 de fevereiro.\n\n9 - Incumbe ao Governo adotar medidas adequadas a assegurar o equilíbrio das relações jurídicas que tenham por objeto bens e serviços essenciais, designadamente água, energia elétrica, gás, telecomunicações e transportes públicos.\n\n10 - Incumbe ao Governo adotar medidas tendentes a prevenir a lesão dos interesses dos consumidores no domínio dos métodos de venda que prejudiquem a avaliação consciente das cláusulas apostas em contratos singulares e a formação livre, esclarecida e ponderada da decisão de se vincularem.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 28/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/28-2023-215097636), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2014 - Diário da República n.º 143/2014, Série I de 2014-07-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2014-55021031), em vigor a partir de 2014-07-29\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 16/96 - Diário da República n.º 263/1996, Série I-A de 1996-11-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1996-166775), em vigor a partir de 1996-11-13"
+  }
+ }
+}

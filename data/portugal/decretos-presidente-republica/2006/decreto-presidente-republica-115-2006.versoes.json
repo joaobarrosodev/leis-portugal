@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:545005:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2006-979326609",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/115-2006-545005",
+ "source_lastmod": "2026-06-01",
+ "versions": [
+  {
+   "date": "2006-11-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1127908975",
+    "980264375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1127908975": {
+   "fragment_id": "980264075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:\n\nÉ ratificado o Protocolo Relativo aos Privilégios e Imunidades da Autoridade Internacional dos Fundos Marinhos, aberto à assinatura em Kingston entre 17 e 28 de Agosto de 1998, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 60/2006, em 4 de Outubro de 2006."
+  },
+  "980264375": {
+   "fragment_id": "980264275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinado em 14 de Novembro de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 20 de Novembro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

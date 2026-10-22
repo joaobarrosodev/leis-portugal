@@ -1,0 +1,595 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114766031:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-114946609",
+ "dre_path": "/dr/detalhe/portaria/57-2018-114766031",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-02-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "223394376",
+    "114945167",
+    "114945168",
+    "114945169",
+    "114945170",
+    "114945171",
+    "114945172",
+    "114945173",
+    "114945174",
+    "114946875",
+    "114946876",
+    "114946877",
+    "114946878",
+    "114946879",
+    "114946880",
+    "114946881",
+    "114946882",
+    "114946884",
+    "114946885",
+    "114946886",
+    "114946887",
+    "114946888",
+    "114946889",
+    "114946890",
+    "114946891",
+    "114946892",
+    "114946893",
+    "114946894",
+    "114946895",
+    "114946896",
+    "114946897",
+    "114946898",
+    "114946899",
+    "114946900",
+    "114946901"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:114944612:por",
+     "title": "Declaração de Retificação n.º 14/2018",
+     "published": "2018-03-29",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/14-2018-114944612",
+     "date": "2018-03-03"
+    }
+   ]
+  },
+  {
+   "date": "2020-03-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125874579:por",
+     "title": "Declaração de Retificação n.º 55-A/2019",
+     "published": "2019-10-31",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/55-a-2019-125874579"
+    },
+    {
+     "id": "pt:dre:124346834:por",
+     "title": "Portaria n.º 284/2019",
+     "published": "2019-09-02",
+     "dre_path": "/dr/detalhe/portaria/284-2019-124346834"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 4.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Anexo II",
+    "Altera Anexo IX",
+    "Altera Anexo X",
+    "Altera Anexo XIV",
+    "Altera Anexo XV"
+   ],
+   "fragments": [
+    "114945166",
+    "114945167",
+    "114945168",
+    "114945169",
+    "214103376",
+    "124382029",
+    "114945172",
+    "124382030",
+    "124382031",
+    "124382032",
+    "124382033",
+    "114945213",
+    "124382034",
+    "124382035",
+    "114946880",
+    "114946881",
+    "114946882",
+    "114946883",
+    "114946884",
+    "114945214",
+    "124382037",
+    "114946887",
+    "114946888",
+    "114946889",
+    "114946890",
+    "114946891",
+    "114946892",
+    "124382038",
+    "124382039",
+    "114946895",
+    "114946896",
+    "114946897",
+    "124382040",
+    "124382041",
+    "114945215",
+    "114946901"
+   ]
+  }
+ ],
+ "fragments": {
+  "223394376": {
+   "fragment_id": "114946610",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 57/2018\n\nde 26 de fevereiro\n\nDe acordo com o previsto no artigo 2.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, que alterou e republicou o Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, o portal dos contratos públicos destina-se a divulgar informação pública sobre os contratos sujeitos ao regime do CCP, constituindo ainda o instrumento central de produção de informação estatística sobre a contratação pública nacional, nomeadamente para efeitos de elaboração dos relatórios estatísticos a remeter à Comissão Europeia.\n\nNos termos do n.º 3 do citado artigo 2.º, as regras de funcionamento e de gestão do portal dos contratos públicos são aprovadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e das obras públicas.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e do Planeamento e das Infraestruturas, ao abrigo do disposto no n.º 3 do artigo 2.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, e do artigo 38.º da Lei n.º 96/2015, de 17 de agosto, o seguinte:"
+  },
+  "114945167": {
+   "fragment_id": "114946611",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à regulação do funcionamento e gestão do portal dos contratos públicos, denominado «Portal BASE», previsto no Código dos Contratos Públicos (CCP) e à aprovação dos modelos de dados a transmitir ao Portal BASE, para efeitos do disposto no CCP."
+  },
+  "114945168": {
+   "fragment_id": "114946612",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de funcionamento do Portal BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de funcionamento do Portal BASE\n\n1 - O Portal BASE disponibiliza, publicamente, informação sobre a formação e execução dos contratos públicos sujeitos ao CCP.\n\n2 - O Portal BASE constitui ainda o instrumento central de produção de informação estatística sobre a contratação pública nacional, nomeadamente para efeitos de elaboração dos relatórios anuais da contratação pública e dos relatórios estatísticos a remeter à Comissão Europeia."
+  },
+  "114945169": {
+   "fragment_id": "114946613",
+   "type": 11,
+   "heading": "Artigo 3.º — Gestão do Portal BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Gestão do Portal BASE\n\nA gestão do Portal BASE é da responsabilidade do Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P. (IMPIC, I. P.)."
+  },
+  "114945170": {
+   "fragment_id": "114946614",
+   "type": 11,
+   "heading": "Artigo 4.º — Conteúdos do Portal BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conteúdos do Portal BASE\n\n1 - O Portal BASE disponibiliza informação sobre:\n\na) Os anúncios publicados no Diário da República relativos a procedimentos de formação de contratos públicos;\n\nb) A formação dos contratos públicos sujeitos à parte II do CCP e à execução dos contratos administrativos sujeitos à parte III do CCP, incluindo:\n\ni) A explicitação precisa e completa dos bens, serviços ou obras objeto do contrato;\n\nii) O preço contratual;\n\niii) A identificação do adjudicatário e dos restantes concorrentes;\n\niv) A identificação de impugnações do procedimento;\n\nv) A publicitação dos contratos, incluindo anexos e aditamentos, com exceção das informações que se relacionem com segredos de natureza comercial, industrial ou outra e das informações respeitantes a dados pessoais;\n\nc) As decisões definitivas de aplicação da sanção de proibição de participação previstas nos artigos 460.º e 464.º-A do CCP, durante o período da respetiva proibição;\n\nd) As modificações objetivas de contratos que representem um valor acumulado superior a 10 % do preço contratual, as quais são publicadas até seis meses após a extinção do contrato, nos termos do n.º 1 do artigo 315.º do CCP.\n\n2 - O Portal BASE deve ainda disponibilizar:\n\na) Base de dados de legislação, regulamentação e jurisprudência, nacional e comunitária, relacionada com contratos públicos;\n\nb) Guias de boas práticas e orientações técnicas sobre contratação pública;\n\nc) Informação estatística, incluindo relatórios anuais e sínteses mensais de contratação pública."
+  },
+  "114945171": {
+   "fragment_id": "114946615",
+   "type": 11,
+   "heading": "Artigo 5.º — Recolha de informação estatística de contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recolha de informação estatística de contratos\n\nO Portal BASE deve proceder à recolha de informação sobre todos os contratos públicos, incluindo os previstos nos artigos 5.º, 5.º-A, 6.º-A e 128.º do CCP, enquanto sistema de recolha e tratamento de informação estatística sobre a contratação pública nacional, nomeadamente para efeitos de elaboração de relatórios estatísticos a remeter anualmente à Comissão Europeia."
+  },
+  "114945172": {
+   "fragment_id": "114946616",
+   "type": 11,
+   "heading": "Artigo 6.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acesso à informação\n\n1 - Os dados de natureza pública constantes do Portal BASE são passíveis de extração automática, de forma gratuita e em formatos abertos, através do próprio portal e de outros portais públicos, designadamente do portal dados.gov.pt\n\n2 - O IMPIC, I. P., poderá condicionar a extração agregada de dados do Portal BASE quando tal extração, pelo seu volume, possa pôr em causa o próprio funcionamento e a disponibilidade permanente do Portal BASE.\n\n3 - As entidades públicas com funções de auditoria, fiscalização e regulação podem ter acesso direto às bases de dados que suportam o Portal BASE, para o desempenho da respetiva missão, conforme previsto no artigo 454.º-C do CCP, sendo os termos que regulam o referido acesso estabelecidos na sequência de protocolo a celebrar entre o IMPIC, I. P., e cada entidade."
+  },
+  "114945173": {
+   "fragment_id": "114946617",
+   "type": 11,
+   "heading": "Artigo 7.º — Dados a transmitir ao Portal BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dados a transmitir ao Portal BASE\n\n1 - As entidades adjudicantes transmitem ao Portal BASE os seguintes dados:\n\na) Anúncio de abertura do procedimento e eventuais anúncios subsequentes, publicados no Diário da República;\n\nb) Perfil da entidade adjudicante (Anexo I);\n\nc) Procedimento (Anexo II);\n\nd) Bloco técnico de dados (Anexo III);\n\ne) Ficha de envio dos convites (Anexo IV);\n\nf) Ficha de abertura das candidaturas (Anexo V);\n\ng) Ficha de abertura das soluções (Anexo VI);\n\nh) Ficha de abertura das propostas (Anexo VII);\n\ni) Ficha de habilitação do adjudicatário (Anexo VIII);\n\nj) Ficha de impugnações (Anexo IX);\n\nk) Relatório de formação do contrato (Anexo X);\n\nl) Relatório de comunicação de não celebração do contrato (Anexo XI);\n\nm) Relatório de modificação contratual (Anexo XII);\n\nn) Relatório sumário anual (Anexo XIII);\n\no) Relatório de execução (Anexo XIV);\n\np) Relatório final de obra (Anexo XV);\n\nq) Relatório de ocorrências (Anexo XVI);\n\nr) Relatório de alienação de bens móveis (Anexo XVII).\n\n2 - Os modelos aprovados pela presente portaria correspondem a modelos de introdução interativa de dados para efeitos da alimentação dos sistemas de informação sediados no Portal BASE.\n\n3 - Os blocos de dados referidos no n.º 1 são aplicáveis, consoante o tipo de contrato, de acordo com as seguintes regras:\n\na) No caso de ajustes diretos simplificados e de contratação excluída, os dados incluídos na alínea o);\n\nb) No caso de empreitadas de obras públicas, incluindo as integradas em concessões, todos os dados aí previstos, com exceção dos referidos na alínea t);\n\nc) No caso dos demais tipos de contrato, todos os dados, excetuando os contidos nas alíneas d), n) e p).\n\n4 - O bloco de dados previsto na alínea b) do n.º 1 é aplicável independentemente do tipo de procedimento, de tipo de contrato e do preço contratual.\n\n5 - No caso de não celebração do contrato são aplicáveis os blocos de dados referidos na alínea l) do n.º 1.\n\n6 - O relatório de ocorrências previsto na alínea p) do n.º 1 é aplicável apenas para as comunicações obrigatórias a efetuar ao IMPIC, I. P., nos termos do CCP."
+  },
+  "114945174": {
+   "fragment_id": "114946618",
+   "type": 11,
+   "heading": "Artigo 8.º — Momento de transmissão dos blocos de dados ao Portal BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Momento de transmissão dos blocos de dados ao Portal BASE\n\nOs blocos de dados referidos no artigo dão entrada nos sistemas de informação sediados no Portal BASE em momentos diversos, consoante a fase de desenvolvimento do procedimento de formação do contrato ou da execução, da seguinte forma:\n\na) Anúncio do procedimento, após a respetiva validação pela Imprensa Nacional-Casa da Moeda, S. A. (INCM), e envio para publicação no Diário da República;\n\nb) Procedimento, no momento da sua criação ou, quando for utilizada uma plataforma eletrónica, no momento em que é nela publicitado, excluindo-se os ajustes diretos simplificados e a contratação excluída;\n\nc) Bloco técnico de dados, na sequência do preenchimento do anúncio para publicação ou, no caso do ajuste direto e consulta prévia, no âmbito do relatório de contratação;\n\nd) Ficha de envio dos convites, em simultâneo com o envio dos convites suportado em plataforma eletrónica;\n\ne) Ficha de abertura das candidaturas, até 10 dias úteis após a disponibilização e abertura das candidaturas na plataforma eletrónica, nos termos do n.º 1 do artigo 73.º da Lei n.º 96/2015, de 17 de agosto;\n\nf) Ficha de abertura das soluções, até 10 dias úteis após a disponibilização e abertura das soluções na plataforma eletrónica, nos termos do preceito referido na alínea anterior;\n\ng) Ficha de abertura das propostas, até 10 dias úteis, após a disponibilização e abertura das propostas na plataforma eletrónica, nos termos do n.º 4 do artigo 76.º da Lei n.º 96/2015, de 17 de agosto;\n\nh) Ficha de habilitação do adjudicatário, em simultâneo com a disponibilização dos documentos de habilitação a que se refere o n.º 2 do artigo 85.º do CCP;\n\ni) Ficha de impugnações, imediatamente após a decisão da impugnação;\n\nj) Relatório de formação do contrato, até 20 dias úteis após a celebração do contrato;\n\nk) Relatório de comunicação de não celebração do contrato, após a comunicação da revogação da decisão de contratar;\n\nl) Relatório de modificação objetiva do contrato, nos termos do artigo 315.º do CCP, imediatamente após a sua realização;\n\nm) Relatório sumário anual, em simultâneo com a informação anual a que se refere o n.º 2 do artigo 472.º do CCP;\n\nn) Relatório de execução, até 20 dias úteis após a data do fecho do contrato, entendido como a data do pagamento da última fatura aceite pela entidade adjudicante;\n\no) Relatório final de obra, até 10 dias úteis após a assinatura da conta final da obra ou da respetiva aceitação pelo empreiteiro, nos termos do n.º 1 do artigo 402.º do CCP;\n\np) Relatório de ocorrências, até 5 dias úteis nos termos previstos no n.º 2 do artigo 386.º e do n.º 2 do artigo 405.º do CCP, 10 dias úteis nos termos previstos no n.º 2 do artigo 464.º-A do CCP e nos restantes casos após o conhecimento da ocorrência;\n\nq) Relatório de alienação de bens móveis, até 10 dias após a alienação."
+  },
+  "114946875": {
+   "fragment_id": "114946619",
+   "type": 11,
+   "heading": "Artigo 9.º — Fontes de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fontes de informação\n\nAs fontes de informação para o Portal BASE são:\n\na) No caso do anúncio, o sistema de informação da INCM, usado pelas entidades adjudicantes na introdução de dados para efeitos de publicação no Diário da República e no Jornal Oficial da União Europeia;\n\nb) No caso dos blocos técnicos de dados, as entidades adjudicantes, como segunda fase do processo de introdução de dados para o anúncio, ou, no caso dos ajustes diretos e consultas prévias não tramitados em plataformas, em sede de relatório de contratação;\n\nc) No caso dos blocos de dados previstos nas alíneas c) a s) do n.º 1 do artigo 7.º, as plataformas eletrónicas, no âmbito da sua intervenção como suporte de procedimentos de formação e execução de contratos;\n\nd) As entidades adjudicantes, por acesso direto ao Portal BASE, ou as plataformas eletrónicas, no âmbito da sua intervenção como suporte à formação e execução dos contratos, no caso dos blocos de dados contidos nas alíneas b), c), d) e k) a s) do n.º 1 do artigo 7.º"
+  },
+  "114946876": {
+   "fragment_id": "114946620",
+   "type": 11,
+   "heading": "Artigo 10.º — Exigências de reporte previstas no Código dos Contratos Públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Exigências de reporte previstas no Código dos Contratos Públicos\n\n1 - A ficha relativa a um contrato celebrado na sequência de consulta prévia ou de ajuste direto, prevista no n.º 1 do artigo 127.º do CCP, é construída automaticamente no Portal BASE a partir dos dados incluídos no relatório de formação do contrato, bem como os dados relativos ao valor total pago e ao prazo efetivo de duração do contrato, constantes no relatório de execução do contrato ou no relatório final de obra.\n\n2 - Os relatórios estatísticos previstos no n.º 1 do artigo 472.º do CCP são construídos automaticamente no Portal BASE, a partir dos dados incluídos nos blocos de dados.\n\n3 - A publicitação das modificações objetivas do contrato, prevista no n.º 1 do artigo 315.º do CCP, é realizada automaticamente no Portal BASE a partir dos dados incluídos no relatório de modificação contratual.\n\n4 - A publicitação dos contratos, prevista no n.º 1 do artigo 465.º do CCP, é realizada automaticamente no Portal BASE a partir dos dados incluídos no relatório de formação do contrato e no relatório de execução do contrato ou de final de obra e relatório sumário anual, caso aplicável."
+  },
+  "114946877": {
+   "fragment_id": "114946621",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicabilidade e níveis de pormenorização dos blocos de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicabilidade e níveis de pormenorização dos blocos de dados\n\n1 - O preenchimento do bloco técnico de dados, a que se refere a alínea d) do n.º 1 do artigo 7.º, é exigível para contratos de empreitada de obras públicas cujo preço base do procedimento ou preço contratual, no caso da consulta prévia ou do ajuste direto, seja superior a (euro) 200.000.\n\n2 - Os blocos das alíneas c), e) a m) e p) a s) do n.º 1 do artigo 7.º são exigidos em quaisquer tipos de contrato, com qualquer preço contratual, e de acordo com as regras de preenchimento definidas nos anexos à presente Portaria.\n\n3 - O relatório sumário anual, a que se refere a alínea n) do n.º 1 do artigo 8.º, destina-se a empreitadas de obras públicas cujo preço contratual seja superior a (euro) 500.000 e cuja execução se prolongue por mais de um ano."
+  },
+  "114946878": {
+   "fragment_id": "114946622",
+   "type": 11,
+   "heading": "Artigo 12.º — Responsabilidade pela informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Responsabilidade pela informação\n\n1 - O preenchimento dos blocos de dados é realizado por um utilizador certificado e reconhecido como representante da entidade adjudicante em causa, diretamente no Portal BASE.\n\n2 - Os blocos de dados são introduzidos pelo utilizador através do respetivo interface com o Portal BASE, através de um processo de preenchimento interativo.\n\n3 - A finalização do preenchimento por parte do utilizador, após a introdução dos diversos dados e das eventuais revisões e correções que entenda necessárias, ocorre no momento em que o utilizador procede à submissão do documento no Portal BASE.\n\n4 - Sempre que o IMPIC, I. P., verificar a existência de incorreções, incoerências nos dados fornecidos, informará, através de meios eletrónicos, a entidade adjudicante para que proceda à correção dos mesmos no prazo de 10 dias úteis, findo os quais, procederá à comunicação dos factos às entidades fiscalizadoras.\n\n5 - A informação constante do Portal BASE é da exclusiva responsabilidade das entidades adjudicantes, não podendo a entidade gestora do portal substituir-se às mesmas.\n\n6 - É da inteira responsabilidade das entidades adjudicantes o cumprimento das normas nacionais e comunitárias referentes à proteção de dados pessoais."
+  },
+  "114946879": {
+   "fragment_id": "114946623",
+   "type": 11,
+   "heading": "Artigo 13.º — Correção de bloco de dados anteriormente submetido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Correção de bloco de dados anteriormente submetido\n\n1 - Se, em casos excecionais, ocorrer a necessidade de a entidade adjudicante fazer correções depois de ter submetido um determinado bloco de dados, deve aquela apresentar, ao Portal BASE, a necessidade de correção através das opções tecnológicas disponibilizadas pelo próprio sistema, fundamentando a solicitação para efetuar a respetiva correção.\n\n2 - Caso a correção referida no número anterior seja autorizada, o sistema instalado no Portal BASE deve permitir a um utilizador certificado e reconhecido como representante da mesma a edição e correção do bloco de dados, dando origem a uma nova versão.\n\n3 - São válidas para este preenchimento corretivo as disposições constantes do artigo 12.º\n\n4 - O sistema de informação regista a ocorrência da correção, e publicita as alterações obrigatórias no Portal BASE."
+  },
+  "114946880": {
+   "fragment_id": "114946624",
+   "type": 11,
+   "heading": "Artigo 14.º — Cessão de posição contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cessão de posição contratual\n\n1 - Em caso de cessão de posição contratual da entidade pública contratante, deve ser transferida para a entidade cessionária toda a informação anterior necessária para que esta possa preencher posteriormente, sem lacunas, o bloco ou blocos de dados que lhe venham a competir, consoante o estado de desenvolvimento do projeto.\n\n2 - As regras funcionais para a efetivação da cessão da posição contratual serão fixadas mediante regulamento aprovado pelo conselho diretivo do IMPIC, I. P., publicitado no Diário da República e no Portal BASE."
+  },
+  "114946881": {
+   "fragment_id": "114946625",
+   "type": 11,
+   "heading": "Artigo 15.º — Atualização dos dados constantes dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Atualização dos dados constantes dos anexos\n\nOs campos dos modelos anexos à presente portaria podem ser atualizados nos termos do regulamento aprovado pelo conselho diretivo do IMPIC, I. P., publicitado no Diário da República e no Portal BASE, não podendo das alterações decorrer alteração substancial dos modelos ora aprovados."
+  },
+  "114946882": {
+   "fragment_id": "114946626",
+   "type": 11,
+   "heading": "Artigo 16.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Produção de efeitos\n\nA presente portaria produz efeitos à data da entrada em vigor do Decreto-Lei n.º 111-B/2017, de 31 de agosto."
+  },
+  "114946884": {
+   "fragment_id": "114946628",
+   "type": 14,
+   "heading": "Anexo S",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo S"
+  },
+  "114946885": {
+   "fragment_id": "114946629",
+   "type": 14,
+   "heading": "Anexo I — Perfil da Entidade adjudicante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Perfil da Entidade adjudicante\n\n[a que se refere a alínea b) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946886": {
+   "fragment_id": "114946630",
+   "type": 14,
+   "heading": "Anexo II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Procedimento\n\n[a que se refere a alínea c) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946887": {
+   "fragment_id": "114946631",
+   "type": 14,
+   "heading": "Anexo III — Bloco técnico de dados - Modelo de introdução interativa de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Bloco técnico de dados - Modelo de introdução interativa de dados\n\n[a que se refere a alínea d) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946888": {
+   "fragment_id": "114946632",
+   "type": 14,
+   "heading": "Anexo IV — Elenco de dados da ficha de envio dos convites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Elenco de dados da ficha de envio dos convites\n\n[a que se refere a alínea e) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946889": {
+   "fragment_id": "114946633",
+   "type": 14,
+   "heading": "Anexo V — Elenco de dados da ficha de abertura de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Elenco de dados da ficha de abertura de candidaturas\n\n[a que se refere a alínea f) do n.º 1 do artigo 7.º]\n\nNota. - Nos termos do Código dos Contratos Públicos (artigo 184.º), o júri só propõe a exclusão de candidaturas no âmbito do relatório preliminar de análise das candidaturas assim, a informação relativa à exclusão das candidaturas deve ser atualizada aquando do envio da ficha seguinte no fluxo do procedimento.\n\n(ver documento original)"
+  },
+  "114946890": {
+   "fragment_id": "114946634",
+   "type": 14,
+   "heading": "Anexo VI — Elenco de dados da ficha de abertura de soluções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Elenco de dados da ficha de abertura de soluções\n\n[a que se refere a alínea g) do n.º 1 do artigo 7.º]\n\nNota. - Nos termos do Código dos Contratos Públicos (artigo 212.º), o júri só propõe a exclusão de soluções no âmbito do relatório preliminar respetivo assim, a informação relativa à exclusão das soluções deve ser atualizada aquando do envio da ficha seguinte no fluxo do procedimento\n\n(ver documento original)"
+  },
+  "114946891": {
+   "fragment_id": "114946635",
+   "type": 14,
+   "heading": "Anexo VII — Elenco de dados da ficha de abertura das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — Elenco de dados da ficha de abertura das propostas\n\n[a que se refere a alínea h) do n.º 1 do artigo 7.º]\n\nNota. - Nos termos do Código dos Contratos Públicos (artigo 146.º), o júri só propõe a exclusão de propostas no âmbito do relatório preliminar de análise das propostas, assim, a informação relativa à exclusão das soluções deve ser atualizada aquando do envio da ficha seguinte no fluxo do procedimento.\n\n(ver documento original)"
+  },
+  "114946892": {
+   "fragment_id": "114946636",
+   "type": 14,
+   "heading": "Anexo VIII — Ficha de habilitação do adjudicatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — Ficha de habilitação do adjudicatário\n\n[a que se refere a alínea i) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946893": {
+   "fragment_id": "114946637",
+   "type": 14,
+   "heading": "Anexo IX — Ficha de impugnações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — Ficha de impugnações\n\n[a que se refere a alínea j) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946894": {
+   "fragment_id": "114946638",
+   "type": 14,
+   "heading": "Anexo X — Relatório de formação do contrato - Modelo de introdução interativa de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X — Relatório de formação do contrato - Modelo de introdução interativa de dados\n\n[a que se refere a alínea k) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946895": {
+   "fragment_id": "114946639",
+   "type": 14,
+   "heading": "Anexo XI — Relatório de comunicação de não celebração do contrato - Modelo de introdução interativa de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XI — Relatório de comunicação de não celebração do contrato - Modelo de introdução interativa de dados\n\n[a que se refere a alínea l) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946896": {
+   "fragment_id": "114946640",
+   "type": 14,
+   "heading": "Anexo XII — Relatório de modificação contratual - Modelo de introdução interativa de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XII — Relatório de modificação contratual - Modelo de introdução interativa de dados\n\n[a que se refere a alínea m) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946897": {
+   "fragment_id": "114946641",
+   "type": 14,
+   "heading": "Anexo XIII — Relatório sumário anual - Modelo de introdução interativa de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIII — Relatório sumário anual - Modelo de introdução interativa de dados\n\n[a que se refere a alínea n) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946898": {
+   "fragment_id": "114946642",
+   "type": 14,
+   "heading": "Anexo XIV — Relatório de execução - Modelo de introdução interativa de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIV — Relatório de execução - Modelo de introdução interativa de dados\n\n[a que se refere a alínea o) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946899": {
+   "fragment_id": "114946643",
+   "type": 14,
+   "heading": "Anexo XV — Relatório final de obra - Modelo de introdução interativa de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XV — Relatório final de obra - Modelo de introdução interativa de dados\n\n[a que se refere a alínea p) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946900": {
+   "fragment_id": "114946644",
+   "type": 14,
+   "heading": "Anexo XVI — Relatório de Ocorrências - Modelo de introdução interativa de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XVI — Relatório de Ocorrências - Modelo de introdução interativa de dados\n\n[a que se refere a alínea q) do n.º 1 do artigo 7.º]\n\n(ver documento original)"
+  },
+  "114946901": {
+   "fragment_id": "114946645",
+   "type": 14,
+   "heading": "Anexo XVII — Relatório de Alienação de bens móveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XVII — Relatório de Alienação de bens móveis\n\n[a que se refere a alínea r) do n.º 1 do artigo 7.º]\n\n(ver documento original)\n\n111155647"
+  },
+  "114945166": {
+   "fragment_id": "114946610",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 57/2018\n\nde 26 de fevereiro\n\nDe acordo com o previsto no artigo 2.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, que alterou e republicou o Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, o portal dos contratos públicos destina-se a divulgar informação pública sobre os contratos sujeitos ao regime do CCP, constituindo ainda o instrumento central de produção de informação estatística sobre a contratação pública nacional, nomeadamente para efeitos de elaboração dos relatórios estatísticos a remeter à Comissão Europeia.\n\nNos termos do n.º 3 do citado artigo 2.º, as regras de funcionamento e de gestão do portal dos contratos públicos são aprovadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e das obras públicas.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e do Planeamento e das Infraestruturas, ao abrigo do disposto no n.º 3 do artigo 2.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, e do artigo 38.º da Lei n.º 96/2015, de 17 de agosto, o seguinte:"
+  },
+  "214103376": {
+   "fragment_id": "114946614",
+   "type": 11,
+   "heading": "Artigo 4.º — Conteúdos do Portal BASE",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 55-A/2019 - Diário da República n.º 210/2019, 1º Suplemento, Série I de 2019-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/55-a-2019-125874579), em vigor a partir de 2020-03-03",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+   ],
+   "markdown": "###### Artigo 4.º — Conteúdos do Portal BASE\n\n1 - O Portal BASE disponibiliza informação sobre:\n\na) Os anúncios publicados no Diário da República relativos a procedimentos de formação de contratos públicos;\n\nb) Acesso às peças do procedimento;\n\nc) A formação dos contratos públicos sujeitos à parte II do CCP e à execução dos contratos administrativos sujeitos à parte III do CCP, incluindo:\n\ni) A explicitação precisa e completa dos bens, serviços ou obras objeto do contrato;\n\nii) O preço contratual;\n\niii) o número de convidados nos procedimentos de consulta prévia;\n\niv) A identificação do adjudicatário e dos restantes concorrentes;\n\nv) A identificação de impugnações do procedimento;\n\nvi) A publicitação dos contratos, incluindo anexos e aditamentos, com exceção das informações que se relacionem com segredos de natureza comercial, industrial ou outra e das informações respeitantes a dados pessoais;\n\nd) A disponibilização e alienação de bens móveis;\n\ne) As decisões definitivas de aplicação da sanção de proibição de participação previstas nos artigos 460.º e 464.º-A do CCP, durante o período da respetiva proibição;\n\nf) As modificações objetivas de contratos que representem um valor acumulado superior a 10 % do preço contratual, as quais ficam disponibilizadas até seis meses após a extinção do contrato, nos termos do n.º 1 do artigo 315.º do CCP.\n\n2 - O Portal BASE deve ainda disponibilizar:\n\na) Base de dados de legislação, regulamentação e jurisprudência, nacional e comunitária, relacionada com contratos públicos;\n\nb) Guias de boas práticas e orientações técnicas sobre contratação pública;\n\nc) Informação estatística, incluindo relatórios anuais e sínteses mensais de contratação pública.\n\nd) Comunicados, notícias e eventos sobre contratação pública;\n\n> Retificado pelo/a [Declaração de Retificação n.º 55-A/2019 - Diário da República n.º 210/2019, 1º Suplemento, Série I de 2019-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/55-a-2019-125874579), em vigor a partir de 2020-03-03\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+  },
+  "124382029": {
+   "fragment_id": "114946615",
+   "type": 11,
+   "heading": "Artigo 5.º — Recolha de informação estatística de contratos",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+   ],
+   "markdown": "###### Artigo 5.º — Recolha de informação estatística de contratos\n\n1- O Portal BASE deve proceder à recolha de informação sobre todos os contratos públicos, incluindo os previstos nos artigos 5.º, 5.º-A, 6.º-A e 128.º do CCP, enquanto sistema de recolha e tratamento de informação estatística sobre a contratação pública nacional, nomeadamente para efeitos de elaboração de relatórios estatísticos a remeter anualmente à Comissão Europeia.\n\n2 - A informação relativa aos ajustes diretos simplificados pode ser recolhida de forma agregada, por entidade, com periodicidade trimestral, de acordo com as regras a fixar mediante regulamento aprovado pelo conselho diretivo do IMPIC, I. P., publicitado no Diário da República Eletrónico e no Portal BASE.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+  },
+  "124382030": {
+   "fragment_id": "114946617",
+   "type": 11,
+   "heading": "Artigo 7.º — Dados a transmitir ao Portal BASE",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03",
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Dados a transmitir ao Portal BASE\n\n1 - As entidades adjudicantes transmitem ao Portal BASE os seguintes dados:\n\na) Anúncio de abertura do procedimento e eventuais anúncios subsequentes, publicados no Diário da República;\n\nb) Perfil da entidade adjudicante (Anexo I);\n\nc) Procedimento (Anexo II);\n\nd) Bloco técnico de dados (Anexo III);\n\ne) Ficha de envio dos convites (Anexo IV);\n\nf) Ficha de abertura das candidaturas (Anexo V);\n\ng) Ficha de abertura das soluções (Anexo VI);\n\nh) Ficha de abertura das propostas (Anexo VII);\n\ni) Ficha de habilitação do adjudicatário (Anexo VIII);\n\nj) Ficha de impugnações (Anexo IX);\n\nk) Relatório de formação do contrato (Anexo X);\n\nl) Relatório de comunicação de não celebração do contrato (Anexo XI);\n\nm) Relatório de modificação contratual (Anexo XII);\n\nn) Relatório sumário anual (Anexo XIII);\n\no) Relatório de execução (Anexo XIV);\n\np) Relatório final de obra (Anexo XV);\n\nq) Relatório de disponibilização/alienação de bens móveis (Anexo XVII);\n\n2 - Os modelos aprovados pela presente portaria correspondem a modelos de introdução interativa de dados para efeitos da alimentação dos sistemas de informação sediados no Portal BASE.\n\n3 - Os blocos de dados referidos no n.º 1 são aplicáveis, consoante o tipo de contrato, de acordo com as seguintes regras:\n\na) No caso de ajustes diretos simplificados e de contratação excluída, os dados incluídos na alínea o);\n\nb) No caso de empreitadas de obras públicas, incluindo as integradas em concessões, todos os dados aí previstos, com exceção dos referidos na alínea r);\n\nc) No caso dos demais tipos de contrato, todos os dados, excetuando os contidos nas alíneas d), n), p) e r);\n\n4 - O bloco de dados previsto na alínea b) do n.º 1 é aplicável independentemente do tipo de procedimento, de tipo de contrato e do preço contratual.\n\n5 - No caso de não celebração do contrato são aplicáveis os blocos de dados referidos na alínea l) do n.º 1.\n\n6 - O relatório de ocorrências previsto na alínea q) do n.º 1 é aplicável apenas para as comunicações obrigatórias a efetuar ao IMPIC, I. P., nos termos do CCP.\n\n7 - A Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), e as entidades gestoras da solução de receção de faturação eletrónica deverão transmitir ao Portal BASE, no bloco de dados referente ao relatório de execução, por mecanismos eletrónicos, os dados essenciais das faturas eletrónicas aceites e pagas no respetivo contrato.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+  },
+  "124382031": {
+   "fragment_id": "114946618",
+   "type": 11,
+   "heading": "Artigo 8.º — Momento de transmissão dos blocos de dados ao Portal BASE",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03",
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Momento de transmissão dos blocos de dados ao Portal BASE\n\nOs blocos de dados referidos no artigo dão entrada nos sistemas de informação sediados no Portal BASE em momentos diversos, consoante a fase de desenvolvimento do procedimento de formação do contrato ou da execução, da seguinte forma:\n\na) Anúncio do procedimento, após a respetiva validação pela Imprensa Nacional-Casa da Moeda, S. A. (INCM), e envio para publicação no Diário da República;\n\nb) Procedimento, no momento da sua criação ou, quando for utilizada uma plataforma eletrónica, no momento em que é nela publicitado, excluindo-se os ajustes diretos simplificados e a contratação excluída;\n\nc) Bloco técnico de dados, na sequência do preenchimento do anúncio para publicação ou, no caso do ajuste direto e consulta prévia, no âmbito do relatório de formação de contrato;\n\nd) Ficha de envio dos convites, em simultâneo com o envio dos convites suportado em plataforma eletrónica;\n\ne) Ficha de abertura das candidaturas, até 10 dias úteis após a disponibilização e abertura das candidaturas na plataforma eletrónica, nos termos do n.º 1 do artigo 73.º da Lei n.º 96/2015, de 17 de agosto;\n\nf) Ficha de abertura das soluções, até 10 dias úteis após a disponibilização e abertura das soluções na plataforma eletrónica, nos termos do preceito referido na alínea anterior;\n\ng) Ficha de abertura das propostas, até 10 dias úteis, após a disponibilização e abertura das propostas na plataforma eletrónica, nos termos do artigo 75.º e do n.º 4 do artigo 76.º ambos da Lei n.º 96/2015, de 17 de agosto;\n\nh) Ficha de habilitação do adjudicatário, em simultâneo com a disponibilização dos documentos de habilitação a que se refere o n.º 2 do artigo 85.º do CCP;\n\ni) Ficha de impugnações, até 10 dias úteis após a interposição da impugnação bem como após a decisão da mesma;\n\nj) Relatório de formação do contrato, até 20 dias úteis após a celebração do contrato escrito ou caso o mesmo não tenha sido outorgado por escrito, 20 dias úteis após o início da sua execução;\n\nk) Relatório de comunicação de não celebração do contrato, até 20 dias úteis após a comunicação da revogação da decisão de contratar ou após a decisão de não disponibilização de bens móveis, ou de não alienação de bens móveis;\n\nl) Relatório de modificação objetiva do contrato, nos termos do artigo 315.º do CCP, até cinco dias após a sua concretização;\n\nm) Relatório sumário anual, até 10 dias úteis após a data que perfaz um ano de execução, para efeitos do n.º 2 do artigo 472.º do CCP;\n\nn) Relatório de execução, até 20 dias úteis após a data do fecho do contrato, entendido como a data do pagamento da última fatura aceite pelo contraente público ou a data da execução material do contrato nas situações de adiantamentos integrais de preço e, no caso de ajustes diretos simplificados com a periodicidade definida no n.º 2 do artigo 5.º da presente Portaria.\n\no) Relatório final de obra, até 10 dias úteis após a assinatura da conta final da obra ou da respetiva aceitação pelo empreiteiro, nos termos do n.º 1 do artigo 402.º do CCP;\n\np) Relatório de ocorrências, até 5 dias úteis nos termos previstos no n.º 2 do artigo 386.º e do n.º 2 do artigo 405.º do CCP, 10 dias úteis nos termos previstos no n.º 2 do artigo 464.º-A do CCP e nos restantes casos após o conhecimento da ocorrência;\n\nq) Relatório de disponibilização/alienação de bens móveis, até 10 dias após a disponibilização ou a alienação.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+  },
+  "124382032": {
+   "fragment_id": "114946619",
+   "type": 11,
+   "heading": "Artigo 9.º — Fontes de informação",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03",
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Fontes de informação\n\nAs fontes de informação para o Portal BASE são:\n\na) No caso do anúncio, o sistema de informação da INCM, usado pelas entidades adjudicantes na introdução de dados para efeitos de publicação no Diário da República e no Jornal Oficial da União Europeia;\n\nb) No caso dos blocos técnicos de dados, as entidades adjudicantes, como segunda fase do processo de introdução de dados para o anúncio, ou, no caso dos ajustes diretos e consultas prévias não tramitados em plataformas, em sede de relatório de formação de contrato;\n\nc) Bloco técnico de dados, na sequência do preenchimento do anúncio para publicação ou, no caso do ajuste direto e consulta prévia, no âmbito do relatório de formação de contrato;\n\nd) As entidades adjudicantes, por acesso direto ao Portal BASE, ou as plataformas eletrónicas, no âmbito da sua intervenção como suporte à formação e execução dos contratos, no caso dos blocos de dados contidos nas alíneas b), c), d), j) a r) do n.º 1 do artigo 7.º\n\ne) No caso dos blocos de dados previstos na alínea a) do n.º 3 do artigo 7.º da presente portaria, os softwares de gestão, no âmbito da sua intervenção como suporte à tramitação administrativa e contabilística dos procedimentos.\n\nf) A Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), e as entidades gestoras da solução de receção de faturação eletrónica, no caso dos blocos de dados referentes à faturação eletrónica contidos no relatório de execução previsto na alínea o) do artigo 7.º\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+  },
+  "124382033": {
+   "fragment_id": "114946620",
+   "type": 11,
+   "heading": "Artigo 10.º — Exigências de reporte previstas no Código dos Contratos Públicos",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+   ],
+   "markdown": "###### Artigo 10.º — Exigências de reporte previstas no Código dos Contratos Públicos\n\n1 - A ficha relativa a um contrato celebrado na sequência de consulta prévia ou de ajuste direto, prevista no n.º 1 do artigo 127.º do CCP, é construída automaticamente no Portal BASE a partir dos dados incluídos no relatório de formação do contrato, bem como os dados relativos ao valor total pago e ao prazo efetivo de duração do contrato, constantes no relatório de execução ou no relatório final de obra.\n\n2 - Os relatórios estatísticos previstos no n.º 1 do artigo 472.º do CCP são construídos automaticamente no Portal BASE, a partir dos dados incluídos nos blocos de dados.\n\n3 - A publicitação das modificações objetivas do contrato, prevista no n.º 1 do artigo 315.º do CCP, é realizada automaticamente no Portal BASE a partir dos dados incluídos no relatório de modificação contratual.\n\n4 - A publicitação dos contratos, prevista no n.º 1 do artigo 465.º do CCP, é realizada automaticamente no Portal BASE a partir dos dados incluídos no relatório de formação do contrato e no relatório de execução do contrato ou de final de obra e relatório sumário anual, caso aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+  },
+  "114945213": {
+   "fragment_id": "114946621",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicabilidade e níveis de pormenorização dos blocos de dados",
+   "in_force_from": "2018-03-03",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Aplicabilidade e níveis de pormenorização dos blocos de dados\n\n1 - O preenchimento do bloco técnico de dados, a que se refere a alínea d) do n.º 1 do artigo 7.º, é exigível para contratos de empreitada de obras públicas cujo preço base do procedimento ou preço contratual, no caso da consulta prévia ou do ajuste direto, seja superior a (euro) 200.000.\n\n2 - Os blocos das alíneas c), e) a m) e o) a r) do n.º 1 do artigo 7.º são exigidos em quaisquer tipos de contrato, com qualquer preço contratual, e de acordo com as regras de preenchimento definidas nos anexos à presente Portaria.\n\n3 - O relatório sumário anual, a que se refere a alínea n) do n.º 1 do artigo 7.º, destina-se a empreitadas de obras públicas cujo preço contratual seja superior a (euro) 500.000 e cuja execução se prolongue por mais de um ano.\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+  },
+  "124382034": {
+   "fragment_id": "114946622",
+   "type": 11,
+   "heading": "Artigo 12.º — Responsabilidade pela informação",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+   ],
+   "markdown": "###### Artigo 12.º — Responsabilidade pela informação\n\n1 - O preenchimento dos blocos de dados é realizado por um utilizador certificado e reconhecido como representante da entidade adjudicante em causa, diretamente no Portal BASE.\n\n2 - A condição de utilizador mencionado no número anterior, é pessoal e intransmissível.\n\n3 - Os blocos de dados são introduzidos pelo utilizador através do respetivo interface com o Portal BASE, através de um processo de preenchimento interativo.\n\n4 - A finalização do preenchimento por parte do utilizador, após a introdução dos diversos dados e das eventuais revisões e correções que entenda necessárias, ocorre no momento em que o utilizador procede à submissão do documento no Portal BASE.\n\n5 - Sempre que o IMPIC, I. P., verificar a existência de incorreções, incoerências nos dados fornecidos, informará, através de meios eletrónicos, a entidade adjudicante para que proceda à correção dos mesmos no prazo de 10 dias úteis, findo os quais, procederá à comunicação dos factos às entidades fiscalizadoras.\n\n6 - A informação constante do Portal BASE é da exclusiva responsabilidade das entidades adjudicantes, não podendo a entidade gestora do portal substituir-se às mesmas.\n\n7 - É da inteira responsabilidade das entidades adjudicantes o cumprimento das normas nacionais e comunitárias referentes à proteção de dados pessoais.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+  },
+  "124382035": {
+   "fragment_id": "114946623",
+   "type": 11,
+   "heading": "Artigo 13.º — Correção de bloco de dados anteriormente submetido",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+   ],
+   "markdown": "###### Artigo 13.º — Correção de bloco de dados anteriormente submetido\n\n1 - Se, em casos excecionais, ocorrer a necessidade de a entidade adjudicante fazer correções depois de ter submetido um determinado bloco de dados, deve aquela apresentar, através da fonte de informação utilizada para a comunicação dos dados de origem, ao Portal BASE, a necessidade de correção através das opções tecnológicas disponibilizadas pelo próprio sistema, fundamentando a solicitação para efetuar a respetiva correção.\n\n2 - Caso a correção referida no número anterior seja autorizada, o sistema de validação e correção de dados instalado no Portal BASE deve permitir a um utilizador certificado e reconhecido como representante da mesma, ou à plataforma eletrónica utilizada para a comunicação dos dados de origem, mediante a autenticação reconhecida, a edição e correção do bloco de dados, dando origem a uma nova versão.\n\n3 - No caso de alterações provenientes de anúncio de prorrogação e anúncio retificativo, nos termos do n.º 1 do artigo 9.º, as mesmas não carecem de aprovação do administrador do sistema do Portal BASE.\n\n4 - São válidas para este preenchimento corretivo as disposições constantes do artigo 12.º\n\n5 - O sistema de informação regista a ocorrência da correção, e publicita as alterações obrigatórias no Portal BASE.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+  },
+  "114946883": {
+   "fragment_id": "114946627",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 22 de fevereiro de 2018. - O Ministro do Planeamento e das Infraestruturas, Pedro Manuel Dias de Jesus Marques, em 21 de fevereiro de 2018."
+  },
+  "114945214": {
+   "fragment_id": "114946629",
+   "type": 14,
+   "heading": "Anexo I — Perfil da Entidade adjudicante",
+   "in_force_from": "2018-03-03",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "## Anexo I — Perfil da Entidade adjudicante\n\n[a que se refere a alínea b) do n.º 1 do artigo 7.º]\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+  },
+  "124382037": {
+   "fragment_id": "114946630",
+   "type": 14,
+   "heading": "Anexo II — Procedimento",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+   ],
+   "markdown": "## Anexo II — Procedimento\n\n[...]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+  },
+  "124382038": {
+   "fragment_id": "114946637",
+   "type": 14,
+   "heading": "Anexo IX — Ficha de impugnações",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+   ],
+   "markdown": "## Anexo IX — Ficha de impugnações\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+  },
+  "124382039": {
+   "fragment_id": "114946638",
+   "type": 14,
+   "heading": "Anexo X — Relatório de formação do contrato - Modelo de introdução interativa de dados",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+   ],
+   "markdown": "## Anexo X — Relatório de formação do contrato - Modelo de introdução interativa de dados\n\n[...]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+  },
+  "124382040": {
+   "fragment_id": "114946642",
+   "type": 14,
+   "heading": "Anexo XIV — Relatório de execução - Modelo de introdução interativa de dados",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+   ],
+   "markdown": "## Anexo XIV — Relatório de execução - Modelo de introdução interativa de dados\n\n[...]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+  },
+  "124382041": {
+   "fragment_id": "114946643",
+   "type": 14,
+   "heading": "Anexo XV — Relatório final de obra - Modelo de introdução interativa de dados",
+   "in_force_from": "2020-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+   ],
+   "markdown": "## Anexo XV — Relatório final de obra - Modelo de introdução interativa de dados\n\n[a que se refere a alínea o) do n.º 1 do artigo 7.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03"
+  },
+  "114945215": {
+   "fragment_id": "114946644",
+   "type": 14,
+   "heading": "Anexo XVI — Relatório de Ocorrências - Modelo de introdução interativa de dados",
+   "in_force_from": "2018-03-03",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "## Anexo XVI — Relatório de Ocorrências - Modelo de introdução interativa de dados\n\n[a que se refere a alínea q) do n.º 1 do artigo 7.º]\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01"
+  }
+ }
+}

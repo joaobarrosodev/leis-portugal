@@ -1,0 +1,487 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:65983264:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-178122711",
+ "dre_path": "/dr/detalhe/decreto-lei/187-2014-65983264",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "178123144",
+    "178123145",
+    "178123146",
+    "178123147",
+    "178123148",
+    "178123149",
+    "178123150",
+    "178123151",
+    "178123152",
+    "178123153",
+    "178123154",
+    "178123155",
+    "178123156",
+    "178123157",
+    "178123158",
+    "178123159",
+    "178123160",
+    "178123161",
+    "178123162",
+    "178123163",
+    "178123164",
+    "178123165",
+    "178123166",
+    "178123167",
+    "178123168",
+    "178123169",
+    "178123170",
+    "178123171",
+    "178123172",
+    "178123173",
+    "178123174",
+    "178121075",
+    "178121076",
+    "178121077",
+    "178121078",
+    "178121079",
+    "178121080",
+    "178121081",
+    "178121082",
+    "178121083",
+    "178121084",
+    "178121085",
+    "178121086",
+    "178121087",
+    "178121088",
+    "178121089",
+    "178121090",
+    "178121091",
+    "178121092",
+    "178121093",
+    "178121094",
+    "178121096"
+   ]
+  }
+ ],
+ "fragments": {
+  "178123144": {
+   "fragment_id": "178122712",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 187/2014\n\nde 29 de dezembro\n\nO Programa do XIX Governo Constitucional estabeleceu um conjunto de opções e medidas estruturantes para a defesa nacional que determinou a necessidade de rever o Conceito Estratégico de Defesa Nacional aprovado pela Resolução do Conselho de Ministros n.º 6/2003, de 20 de janeiro, bem como a organização da estrutura superior da defesa nacional e das Forças Armadas.\n\nO novo Conceito Estratégico de Defesa Nacional, aprovado pela Resolução do Conselho de Ministros n.º 19/2013, de 5 de abril, estabeleceu como linhas de ação prioritárias, no âmbito do vetor estratégico relativo ao exercício da soberania nacional, a neutralização de ameaças e riscos à segurança nacional, a adaptação e racionalização de estruturas e a rentabilização de meios e capacidades, reconhecendo que as exigências das respostas ao atual quadro de ameaças e riscos tornam indispensável que se tenha em conta a necessária capacidade de crescimento do sistema de forças, quando necessário, por convocação ou mobilização.\n\nTendo por referência essas linhas de ação, foi concebido o modelo da Reforma «Defesa 2020», aprovada pela Resolução do Conselho de Ministros n.º 26/2013, de 11 de abril, contendo as orientações para o ciclo de planeamento estratégico de defesa e para a reorganização da macroestrutura da defesa nacional e das Forças Armadas, que consubstanciam uma maior integração de estruturas de comando e direção e de órgãos e serviços administrativos e logísticos, como reflexo de uma orientação que privilegie a atuação conjunta.\n\nO novo enquadramento normativo da estrutura superior das Forças Armadas, constante da Lei da Defesa Nacional, aprovada pela Lei Orgânica n.º 1-B/2009, de 7 de julho, alterada pela Lei Orgânica n.º 5/2014, de 29 de agosto, e da Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela Lei Orgânica n.º 1-A/2009, de 7 de julho, alterada pela Lei Orgânica n.º 6/2014, de 1 de setembro, estabelece a nova estrutura da defesa nacional e das Forças Armadas e define a aplicação de novos processos e métodos, bem como de novos conceitos de emprego e funcionamento das Forças Armadas.\n\nÉ neste contexto, de reforma dos diplomas estruturantes da defesa nacional e das Forças Armadas, que importa efetivar a presente reorganização da estrutura orgânica da Força Aérea, designadamente com os objetivos e orientações definidas para a execução da reorganização da estrutura superior da defesa nacional e das Forças Armadas.\n\nAssim, o presente decreto-lei, dando corpo a estas orientações, incorpora alterações como a extinção do Comando de Instrução e Formação da Força Aérea, passando a Academia da Força Aérea para a dependência direta do Chefe do Estado-Maior da Força Aérea (CEMFA). A Direção de Instrução, o Centro de Recrutamento da Força Aérea e o Centro de Formação Militar e Técnica da Força Aérea, com a referida extinção, ficam na dependência direta do Comando de Pessoal da Força Aérea.\n\nIgualmente, resultante da reforma do sistema de saúde das Forças Armadas, por força da criação do Hospital das Forças Armadas, deixaram de fazer parte da estrutura da Força Aérea o Hospital da Força Aérea e a Base do Lumiar.\n\nO presente decreto-lei prevê, ainda, a referência à Autoridade Aeronáutica Nacional (AAN), designadamente no sentido de que o CEMFA é, por inerência, a AAN, conforme previsto na Lei n.º 28/2013, de 12 de abril, que criou aquela entidade.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei Orgânica n.º 1-A/2009, de 7 de julho, alterada pela Lei Orgânica n.º 6/2014, de 1 de setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "178123145": {
+   "fragment_id": "178122713",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "178123146": {
+   "fragment_id": "178122714",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Força Aérea é um ramo das Forças Armadas, dotado de autonomia administrativa, que se integra na administração direta do Estado, através do Ministério da Defesa Nacional."
+  },
+  "178123147": {
+   "fragment_id": "178122715",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\n1 - A Força Aérea tem por missão principal participar, de forma integrada, na defesa militar da República, nos termos da Constituição e da lei, sendo fundamentalmente vocacionada para a geração, preparação e sustentação de forças e meios da componente operacional do sistema de forças.\n\n2 - Incumbe ainda à Força Aérea, nos termos da Constituição e da lei:\n\na) Participar nas missões militares internacionais necessárias para assegurar os compromissos internacionais do Estado no âmbito militar, incluindo missões humanitárias e de paz assumidas pelas organizações internacionais de que Portugal faça parte;\n\nb) Participar nas missões no exterior do território nacional, num quadro autónomo ou multinacional, destinadas a garantir a salvaguarda da vida e dos interesses dos portugueses;\n\nc) Executar as ações de cooperação técnico-militar nos projetos em que seja constituída como entidade primariamente responsável, conforme os respetivos programas quadro;\n\nd) Participar na cooperação das Forças Armadas com as forças e serviços de segurança, nos termos previstos no artigo 26.º da Lei Orgânica n.º 1-A/2009, de 7 de julho, alterada pela Lei Orgânica n.º 6/2014, de 1 de setembro;\n\ne) Colaborar em missões de proteção civil e em tarefas relacionadas com a satisfação das necessidades básicas e a melhoria da qualidade de vida das populações;\n\nf) Cumprir as missões de natureza operacional que lhe sejam atribuídas pelo Chefe do Estado-Maior-General das Forças Armadas (CEMGFA);\n\ng) Disponibilizar recursos humanos e materiais necessários ao desempenho das competências da Autoridade Aeronáutica Nacional (AAN).\n\n3 - Compete ainda à Força Aérea assegurar o cumprimento das missões reguladas por legislação própria, designadamente o funcionamento do Serviço de Busca e Salvamento Aéreo (SBSA).\n\n4 - A Força Aérea executa atividades no domínio da cultura."
+  },
+  "178123148": {
+   "fragment_id": "178122716",
+   "type": 11,
+   "heading": "Artigo 3.º — Integração no sistema de forças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Integração no sistema de forças\n\n1 - A Força Aérea é parte integrante do sistema de forças.\n\n2 - Nas componentes do sistema de forças inserem-se:\n\na) Na componente operacional, os comandos, as forças, os meios e as unidades operacionais;\n\nb) Na componente fixa, o conjunto dos comandos, unidades, estabelecimentos, órgãos e serviços essenciais à organização e apoio geral da Força Aérea."
+  },
+  "178123149": {
+   "fragment_id": "178122717",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais da organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais da organização\n\n1 - A organização da Força Aérea rege-se pelos princípios de eficácia e racionalização, garantindo:\n\na) A otimização da relação entre a componente operacional e a componente fixa do sistema de forças;\n\nb) A complementaridade com o Estado-Maior-General das Forças Armadas (EMGFA) e com os outros ramos;\n\nc) A correta utilização do potencial humano, militar ou civil, promovendo o pleno e adequado aproveitamento dos quadros permanentes e assegurando uma correta proporção e articulação entre as diversas formas de prestação de serviço efetivo.\n\n2 - No respeito pela sua missão principal, a organização da Força Aérea permite que a transição para o estado de guerra se processe com o mínimo de alterações possível.\n\n3 - A Força Aérea organiza-se numa estrutura vertical e hierarquizada e os respetivos órgãos relacionam-se através dos seguintes níveis de autoridade:\n\na) Hierárquica;\n\nb) Funcional;\n\nc) Técnica;\n\nd) De coordenação.\n\n4 - Para efeitos do disposto no número anterior:\n\na) A autoridade hierárquica é a linha de comando que estabelece a dependência de um órgão ou serviço na estrutura da Força Aérea em relação aos órgãos militares de comando;\n\nb) A autoridade funcional é o tipo de autoridade conferida a um órgão para superintender processos, no âmbito das respetivas áreas ou atividades específicas, sem que tal inclua competência disciplinar;\n\nc) A autoridade técnica é o tipo de autoridade que permite a um titular fixar e difundir normas de natureza especializada, sem que tal inclua competência disciplinar;\n\nd) A autoridade de coordenação é o tipo de autoridade conferida aos órgãos subordinados, a qualquer nível, para consultar ou coordenar diretamente uma ação com um comando ou entidades, dentro ou fora da respetiva linha de comando, sem que tal inclua competência disciplinar."
+  },
+  "178123150": {
+   "fragment_id": "178122718",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administração financeira\n\n1 - A administração financeira da Força Aérea rege-se pelos instrumentos legais e regulamentares aplicáveis aos serviços da administração direta do Estado, dotados de autonomia administrativa.\n\n2 - A Força Aérea, através dos seus órgãos, dispõe das receitas provenientes de dotações que lhe sejam atribuídas no Orçamento do Estado.\n\n3 - Constituem ainda receitas próprias da Força Aérea:\n\na) As provenientes de prestações de serviços ou cedência de bens a entidades públicas ou privadas, sem prejuízo dos regimes de afetação de receita legalmente previstos;\n\nb) O produto das atividades desenvolvidas em matéria de gestão florestal ou agrícola das áreas de treino e manobra, em particular, a alienação de madeira, cortiça ou pastagens;\n\nc) Os saldos anuais das receitas consignadas, nos termos do decreto-lei de execução orçamental;\n\nd) As indemnizações devidas nos termos da lei;\n\ne) Outras receitas que lhe estejam ou venham a estar atribuídas por lei, contrato ou outro título.\n\n4 - Constituem despesas da Força Aérea as que resultem de encargos suportados pelos seus órgãos, decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n5 - Compete ao Chefe do Estado-Maior da Força Aérea (CEMFA) a administração financeira e patrimonial da Força Aérea, que compreende os processos de decisão e todas as ações de planeamento, obtenção, organização, afetação e controlo da aplicação dos recursos financeiros públicos e outros ativos do Estado, afetos à execução das missões da Força Aérea.\n\n6 - Ao CEMFA compete ainda autorizar despesas e celebrar contratos em nome do Estado, com a aquisição de bens ou serviços e empreitadas de obras públicas, de acordo com as competências que são conferidas por lei aos órgãos máximos dos serviços com autonomia administrativa."
+  },
+  "178123151": {
+   "fragment_id": "178122719",
+   "type": 1,
+   "heading": "Capítulo II — Organização geral da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização geral da Força Aérea\n\nArtigo 6.º\n\nEstrutura orgânica\n\nA Força Aérea é comandada pelo CEMFA e, para o cumprimento da respetiva missão, compreende:\n\na) O Estado-Maior da Força Aérea (EMFA);\n\nb) Os órgãos centrais de administração e direção;\n\nc) O comando de componente aérea, designado por Comando Aéreo (CA);\n\nd) Os órgãos de conselho;\n\ne) O órgão de inspeção, designado por Inspeção-Geral da Força Aérea (IGFA);\n\nf) Os órgãos de base;\n\ng) Os elementos da componente operacional do sistema de forças;\n\nh) Os órgãos e serviços regulados por legislação própria.\n\nArtigo 7.º\n\nCargos de comando, direção ou chefia\n\nO quantitativo dos cargos de comando, direção ou chefia desempenhados por oficiais generais no ativo, na estrutura da Força Aérea, constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "178123152": {
+   "fragment_id": "178122720",
+   "type": 8,
+   "heading": "Secção I — Chefe do Estado-Maior da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Chefe do Estado-Maior da Força Aérea"
+  },
+  "178123153": {
+   "fragment_id": "178122721",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência do Chefe do Estado-Maior da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência do Chefe do Estado-Maior da Força Aérea\n\n1 - O CEMFA é o comandante da Força Aérea.\n\n2 - O CEMFA é o principal conselheiro do Ministro da Defesa Nacional e do CEMGFA em todos os assuntos específicos da Força Aérea, tem a competência fixada na lei e participa, por inerência do cargo, nos órgãos de conselho nela previstos.\n\n3 - No quadro das missões cometidas às Forças Armadas, em situações não decorrentes do estado de guerra, o CEMFA integra a estrutura de comando operacional das Forças Armadas, como comandante subordinado do CEMGFA, para as questões que envolvam a prontidão, o emprego e a sustentação das forças e meios da componente operacional do sistema de forças.\n\n4 - O CEMFA é ainda responsável pelo cumprimento das missões reguladas por legislação própria e das missões de natureza operacional que sejam atribuídas pelo CEMGFA.\n\n5 - O CEMFA relaciona-se diretamente com o CEMGFA, para além do referido no n.º 3, nos aspetos respeitantes às informações e segurança militares, ensino superior militar, saúde militar e outras áreas de atividade conjunta ou integrada.\n\n6 - O CEMFA relaciona-se diretamente com o Ministro da Defesa Nacional, nos aspetos respeitantes à gestão corrente de recursos do respetivo ramo, bem como ao funcionamento dos órgãos, serviços ou sistemas regulados por legislação própria.\n\n7 - O CEMFA pode delegar nos titulares de órgãos que lhe estão diretamente subordinados a competência para a prática de atos relativos às áreas que lhes são funcionalmente atribuídas, bem como autorizar a subdelegação da mesma.\n\n8 - Dos atos do CEMFA não cabe recurso hierárquico.\n\n9 - Compete ao CEMFA definir a organização interna das unidades, estabelecimentos e órgãos da Força Aérea.\n\n10 - O CEMFA define as orientações relativas à disponibilização de recursos humanos e materiais aos órgãos e serviços da AAN.\n\n11 - O CEMFA é, por inerência, a AAN e, nesta qualidade funcional, depende do Ministro da Defesa Nacional."
+  },
+  "178123154": {
+   "fragment_id": "178122722",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete do Chefe do Estado-Maior da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gabinete do Chefe do Estado-Maior da Força Aérea\n\n1 - O Gabinete do CEMFA é o órgão de apoio direto e pessoal ao CEMFA.\n\n2 - O Chefe do Gabinete do CEMFA é um major-general."
+  },
+  "178123155": {
+   "fragment_id": "178122723",
+   "type": 11,
+   "heading": "Artigo 10.º — Departamento Jurídico da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Departamento Jurídico da Força Aérea\n\nO Departamento Jurídico da Força Aérea tem por missão conduzir os assuntos de natureza jurídica, no âmbito das atribuições e competências da Força Aérea."
+  },
+  "178123156": {
+   "fragment_id": "178122724",
+   "type": 11,
+   "heading": "Artigo 11.º — Vice-Chefe do Estado-Maior da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vice-Chefe do Estado-Maior da Força Aérea\n\n1 - O Vice-Chefe do Estado-Maior da Força Aérea (VCEMFA) é o 2.º comandante da Força Aérea.\n\n2 - O VCEMFA é um tenente-general, hierarquicamente superior a todos os oficiais do seu posto, na Força Aérea.\n\n3 - Compete ao VCEMFA:\n\na) Exercer as competências que lhe sejam delegadas pelo CEMFA, e outras decorrentes do disposto no presente decreto-lei;\n\nb) Substituir o CEMFA nas suas ausências ou impedimentos e exercer as funções de CEMFA interino por vacatura do cargo.\n\n4 - O VCEMFA dispõe de um gabinete para apoio direto.\n\n5 - São órgãos na direta dependência do VCEMFA:\n\na) A Unidade de Apoio de Lisboa (UAL);\n\nb) O Serviço de Documentação da Força Aérea (SDFA);\n\nc) O Sub-Registo."
+  },
+  "178123157": {
+   "fragment_id": "178122725",
+   "type": 8,
+   "heading": "Secção II — Estado-Maior da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estado-Maior da Força Aérea"
+  },
+  "178123158": {
+   "fragment_id": "178122726",
+   "type": 11,
+   "heading": "Artigo 12.º — Caraterização e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Caraterização e composição\n\n1 - O EMFA constitui o órgão de estudo, conceção e planeamento das atividades da Força Aérea, para apoio à decisão do CEMFA.\n\n2 - O EMFA é dirigido pelo VCEMFA que, para o exercício das suas funções, é coadjuvado por um major-general piloto-aviador, designado por Subchefe do Estado-Maior da Força Aérea.\n\n3 - O EMFA compreende:\n\na) As divisões;\n\nb) Os órgãos de apoio."
+  },
+  "178123159": {
+   "fragment_id": "178122727",
+   "type": 8,
+   "heading": "Secção III — Órgãos centrais de administração e direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Órgãos centrais de administração e direção"
+  },
+  "178123160": {
+   "fragment_id": "178122728",
+   "type": 11,
+   "heading": "Artigo 13.º — Caraterização e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Caraterização e composição\n\n1 - Os órgãos centrais de administração e direção têm caráter funcional e visam assegurar a direção e execução de áreas ou atividades específicas essenciais, designadamente, na gestão de recursos humanos, materiais, financeiros, de informação e de infraestruturas.\n\n2 - São órgãos centrais de administração e direção da Força Aérea:\n\na) O Comando de Pessoal da Força Aérea (CPESFA) e as direções técnicas referidas no n.º 5 do artigo seguinte;\n\nb) O Comando da Logística da Força Aérea (CLAFA) e as direções técnicas referidas no n.º 4 do artigo 15.º;\n\nc) A Direção de Finanças da Força Aérea (DFFA)."
+  },
+  "178123161": {
+   "fragment_id": "178122729",
+   "type": 11,
+   "heading": "Artigo 14.º — Comando de Pessoal da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comando de Pessoal da Força Aérea\n\n1 - O CPESFA tem por missão assegurar a administração dos recursos humanos, de acordo com os planos e diretivas aprovados pelo CEMFA.\n\n2 - O Comandante do Pessoal da Força Aérea é um tenente-general, na direta dependência do CEMFA.\n\n3 - O Comandante do Pessoal da Força Aérea dispõe de autoridade funcional e técnica sobre todas as unidades e órgãos da Força Aérea, no domínio da administração dos recursos humanos, da formação e da instrução.\n\n4 - O CPESFA compreende:\n\na) Os órgãos de apoio direto;\n\nb) O Serviço de Justiça e Disciplina;\n\nc) O Serviço de Ação Social;\n\nd) O Centro de Assistência Religiosa.\n\n5 - Dependem do CPESFA:\n\na) A Direção de Pessoal;\n\nb) A Direção de Saúde;\n\nc) A Direção de Instrução;\n\nd) O Centro de Formação Militar e Técnica da Força Aérea;\n\ne) O Centro de Recrutamento da Força Aérea.\n\n6 - No CPESFA funcionam os conselhos de especialidade, cuja composição, competência e funcionamento são regulados por legislação própria.\n\n7 - As unidades nacionais de apoio e os oficiais de ligação militar junto de organizações internacionais da responsabilidade da Força Aérea ficam na dependência do CPESFA e são regulados por legislação própria.\n\n8 - O diretor do órgão referido na alínea a) do n.º 5 é um major-general e os diretores dos órgãos referidos nas alíneas b) e c) do mesmo número são brigadeiros-generais."
+  },
+  "178123162": {
+   "fragment_id": "178122730",
+   "type": 11,
+   "heading": "Artigo 15.º — Comando da Logística da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Comando da Logística da Força Aérea\n\n1 - O CLAFA tem por missão administrar os recursos materiais, de comunicações e sistemas de informação e infraestruturas da Força Aérea, de acordo com os planos e diretivas aprovados pelo CEMFA, e garantir o cumprimento dos requisitos para a certificação da navegabilidade das aeronaves militares.\n\n2 - O Comandante da Logística da Força Aérea é um tenente-general, na direta dependência do CEMFA.\n\n3 - O Comandante da Logística da Força Aérea dispõe de autoridade funcional e técnica sobre todos as unidades e órgãos da Força Aérea no domínio dos recursos materiais, de comunicações e sistemas de informação e infraestruturas.\n\n4 - Dependem do CLAFA:\n\na) A Direção de Abastecimento e Transportes;\n\nb) A Direção de Comunicações e Sistemas de Informação;\n\nc) A Direção de Engenharia e Programas;\n\nd) A Direção de Infraestruturas;\n\ne) A Direção de Manutenção de Sistemas de Armas;\n\nf) O Depósito Geral de Material da Força Aérea.\n\n5 - O CLAFA compreende ainda os órgãos de apoio direto.\n\n6 - Os diretores dos órgãos referidos nas alíneas a) a d) do n.º 4 são brigadeiros-generais e o diretor do órgão referido na alínea e) do mesmo número é major-general."
+  },
+  "178123163": {
+   "fragment_id": "178122731",
+   "type": 11,
+   "heading": "Artigo 16.º — Direção de Finanças da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direção de Finanças da Força Aérea\n\n1 - A DFFA tem por missão assegurar a administração dos recursos financeiros postos à disposição da Força Aérea, de acordo com os planos e diretivas aprovadas pelo CEMFA.\n\n2 - O Diretor de Finanças da Força Aérea é um major-general, na dependência direta do CEMFA.\n\n3 - O Diretor de Finanças da Força Aérea dispõe de autoridade funcional e técnica no âmbito dos recursos financeiros da Força Aérea e tem na sua dependência o Serviço Administrativo e Financeiro."
+  },
+  "178123164": {
+   "fragment_id": "178122732",
+   "type": 8,
+   "heading": "Secção IV — Comando de componente aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Comando de componente aérea"
+  },
+  "178123165": {
+   "fragment_id": "178122733",
+   "type": 11,
+   "heading": "Artigo 17.º — Comando Aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comando Aéreo\n\n1 - O CA tem por missão apoiar o exercício do comando por parte do CEMFA, tendo em vista:\n\na) A preparação, o aprontamento e a sustentação das forças e meios da componente operacional do sistema de forças;\n\nb) O cumprimento das missões reguladas por legislação própria e de outras missões de natureza operacional que sejam atribuídas à Força Aérea, mantendo o CEMGFA permanentemente informado das forças e meios empenhados e do desenvolvimento e resultados das respetivas operações;\n\nc) O planeamento e o comando e controlo da atividade aérea;\n\nd) A administração e direção das unidades e órgãos da componente fixa, colocados na sua direta dependência;\n\ne) O planeamento, a direção e o controlo da segurança militar das unidades e órgãos da Força Aérea.\n\n2 - O Comandante Aéreo é um tenente-general, na direta dependência do CEMFA.\n\n3 - O Comandante Aéreo dispõe de autoridade funcional e técnica sobre todos os órgãos da Força Aérea no domínio das operações aéreas e da segurança militar.\n\n4 - Para efeitos de apoio ao exercício do comando por parte do CEMGFA, o CA é colocado, pelo CEMFA, na dependência direta do CEMGFA, de acordo com as modalidades de comando e controlo aplicáveis a situações específicas de emprego operacional de forças e meios, a definir caso a caso.\n\n5 - O CA compreende:\n\na) O 2.º Comandante Aéreo;\n\nb) Os órgãos de operações aéreas;\n\nc) Os órgãos de apoio às operações;\n\nd) Os órgãos de apoio direto;\n\ne) O Gabinete Coordenador de Segurança Militar da Força Aérea;\n\nf) O Grupo de Apoio.\n\n6 - Dependem do CA:\n\na) Os comandos de zona aérea;\n\nb) As bases aéreas;\n\nc) Os aeródromos de manobra;\n\nd) Os aeródromos de trânsito;\n\ne) O Campo de Tiro (CT);\n\nf) As estações de radar;\n\ng) Os centros de treino.\n\n7 - O 2.º Comandante Aéreo coadjuva o Comandante Aéreo e é um major-general piloto-aviador.\n\n8 - Os órgãos de operações aéreas são dirigidos por um brigadeiro-general, designado Diretor das Operações Aéreas."
+  },
+  "178123166": {
+   "fragment_id": "178122734",
+   "type": 11,
+   "heading": "Artigo 18.º — Comandos de zona aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Comandos de zona aérea\n\n1 - Os comandos de zona aérea têm por missão:\n\na) Planear, dirigir e controlar a prontidão dos sistemas de armas quando atribuídos;\n\nb) Planear, dirigir e controlar a atividade aérea, na área da sua responsabilidade, para execução dos planos e diretivas superiormente aprovadas;\n\nc) Assegurar, nos termos que estiverem estabelecidos nos respetivos acordos internacionais, as relações com as forças estrangeiras estacionadas nas unidades de base na sua dependência hierárquica, sem prejuízo das competências próprias dos comandantes destas;\n\nd) Assegurar o respeito pela soberania nacional nos termos consagrados nos acordos internacionais estabelecidos, durante o estacionamento de forças estrangeiras.\n\n2 - Os comandos de zona aérea são:\n\na) O Comando da Zona Aérea dos Açores (CZAA);\n\nb) O Comando da Zona Aérea da Madeira (CZAM).\n\n3 - As unidades e órgãos de base sediados nos Açores e Madeira dependem hierarquicamente do Comando da Zona Aérea respetivo.\n\n4 - Os comandantes das zonas aéreas asseguram, ao seu nível e nos termos da lei, a ligação com as forças e serviços de segurança e proteção civil, em coordenação com o CA e com os comandos operacionais das áreas em que se inserem.\n\n5 - Os comandantes das zonas aéreas dependem diretamente do CEMFA para os assuntos respeitantes ao disposto na alínea c) do n.º 1.\n\n6 - O Comandante do CZAA é um brigadeiro-general piloto-aviador e o Comandante do CZAM é um coronel piloto-aviador."
+  },
+  "178123167": {
+   "fragment_id": "178122735",
+   "type": 8,
+   "heading": "Secção V — Órgãos de conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Órgãos de conselho"
+  },
+  "178123168": {
+   "fragment_id": "178122736",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições genéricas\n\n1 - Os órgãos de conselho destinam-se a apoiar as decisões do CEMFA em assuntos especiais e importantes na preparação, disciplina e administração da Força Aérea.\n\n2 - São órgãos de conselho do CEMFA:\n\na) O Conselho Superior da Força Aérea (CSFA);\n\nb) O Conselho Superior de Disciplina da Força Aérea (CSDFA);\n\nc) A Comissão Histórico-Cultural da Força Aérea (CHCFA);\n\nd) A Junta Superior de Saúde da Força Aérea (JSSFA)."
+  },
+  "178123169": {
+   "fragment_id": "178122737",
+   "type": 11,
+   "heading": "Artigo 20.º — Conselho Superior da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Conselho Superior da Força Aérea\n\n1 - O CSFA é o órgão máximo de consulta do CEMFA.\n\n2 - O CSFA é composto pelo CEMFA, que preside, e por todos os tenentes-generais da Força Aérea no ativo.\n\n3 - O funcionamento do CSFA é estabelecido por decreto regulamentar."
+  },
+  "178123170": {
+   "fragment_id": "178122738",
+   "type": 11,
+   "heading": "Artigo 21.º — Conselho Superior de Disciplina da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Conselho Superior de Disciplina da Força Aérea\n\n1 - O CSDFA é o órgão consultivo e de apoio ao CEMFA em matéria disciplinar.\n\n2 - A composição, o funcionamento e as atribuições do CSDFA constam do Regulamento de Disciplina Militar."
+  },
+  "178123171": {
+   "fragment_id": "178122739",
+   "type": 11,
+   "heading": "Artigo 22.º — Comissão Histórico-Cultural da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comissão Histórico-Cultural da Força Aérea\n\n1 - A CHCFA é o órgão consultivo e de apoio ao CEMFA em matéria histórico-cultural.\n\n2 - A composição e o funcionamento do CHCFA são definidos por despacho do CEMFA."
+  },
+  "178123172": {
+   "fragment_id": "178122740",
+   "type": 11,
+   "heading": "Artigo 23.º — Junta Superior de Saúde da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Junta Superior de Saúde da Força Aérea\n\n1 - A JSSFA tem por missão estudar e dar parecer sobre os recursos relativos às decisões das entidades competentes, baseadas em pareceres formulados por outras juntas médicas da Força Aérea.\n\n2 - O presidente da JSSFA é um oficial general, em acumulação de funções."
+  },
+  "178123173": {
+   "fragment_id": "178122741",
+   "type": 8,
+   "heading": "Secção VI — Órgão de inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Órgão de inspeção"
+  },
+  "178123174": {
+   "fragment_id": "178122742",
+   "type": 11,
+   "heading": "Artigo 24.º — Inspeção-Geral da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Inspeção-Geral da Força Aérea\n\n1 - A IGFA tem por missão apoiar o CEMFA no exercício da função de controlo e avaliação, e na prevenção e investigação de acidentes.\n\n2 - A IGFA é dirigida por um oficial general, na situação de reserva, designado por Inspetor-Geral da Força Aérea, na dependência direta do CEMFA.\n\n3 - A IGFA compreende:\n\na) O Gabinete de Prevenção de Acidentes;\n\nb) Os Departamentos de Inspeção e de Auditoria;\n\nc) O Secretariado."
+  },
+  "178121075": {
+   "fragment_id": "178122743",
+   "type": 8,
+   "heading": "Secção VII — Órgãos de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Órgãos de base"
+  },
+  "178121076": {
+   "fragment_id": "178122744",
+   "type": 11,
+   "heading": "Artigo 25.º — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Disposições genéricas\n\n1 - Os órgãos de base têm por missão a formação, a sustentação e o apoio geral da Força Aérea.\n\n2 - As unidades de base têm por missão garantir a atividade aérea e o apoio logístico e administrativo de unidades e órgãos nelas sediados.\n\n3 - Os órgãos de base compreendem:\n\na) A Academia da Força Aérea (AFA);\n\nb) As unidades e órgãos na dependência hierárquica do VCEMFA;\n\nc) As unidades e órgãos na dependência hierárquica do CPESFA e do CLAFA;\n\nd) Os órgãos e as unidades de base na dependência hierárquica do comando da componente (CA);\n\ne) Os órgãos e as unidades de base na dependência hierárquica dos comandos de zona aérea;\n\nf) Os órgãos de natureza cultural."
+  },
+  "178121077": {
+   "fragment_id": "178122745",
+   "type": 11,
+   "heading": "Artigo 26.º — Academia da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Academia da Força Aérea\n\n1 - A AFA é um estabelecimento de ensino superior público universitário militar, regulado por legislação própria.\n\n2 - A AFA tem por missão formar os oficiais da Força Aérea, habilitando-os ao exercício das funções que estatutariamente lhes são cometidas, conferir as competências adequadas ao cumprimento das missões da Força Aérea e promover o desenvolvimento individual para o exercício das funções de comando, direção e chefia.\n\n3 - O Comandante da AFA é um major-general, na direta dependência do CEMFA."
+  },
+  "178121078": {
+   "fragment_id": "178122746",
+   "type": 11,
+   "heading": "Artigo 27.º — Órgãos de natureza cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Órgãos de natureza cultural\n\n1 - Os órgãos de natureza cultural destinam-se a assegurar as atividades de apoio geral da Força Aérea no domínio cultural, designadamente recolher, conservar, estudar e facultar a consulta ou expor o património histórico-cultural aeronáutico.\n\n2 - São órgãos de natureza cultural:\n\na) O Museu do Ar (MUSAR);\n\nb) O Arquivo Histórico da Força Aérea (AHFA);\n\nc) A Banda de Música da Força Aérea (BMFA);\n\nd) A Revista Mais Alto.\n\n3 - Os diretores do MUSAR e da Revista Mais Alto, o Chefe do AHFA e o superintendente da BMFA são nomeados por despacho do CEMFA."
+  },
+  "178121079": {
+   "fragment_id": "178122747",
+   "type": 8,
+   "heading": "Secção VIII — Elementos da componente operacional do sistema de forças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Elementos da componente operacional do sistema de forças"
+  },
+  "178121080": {
+   "fragment_id": "178122748",
+   "type": 11,
+   "heading": "Artigo 28.º — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Disposições genéricas\n\n1 - Os elementos da componente operacional do sistema de forças são as forças e os meios da Força Aérea destinados ao cumprimento das missões de natureza operacional.\n\n2 - Constituem elementos da componente operacional do sistema de forças, as seguintes forças e meios da Força Aérea:\n\na) As unidades aéreas operacionais, que se constituem como conjuntos integrados de pessoal, de aeronaves, de material e de equipamentos, organizados sob o comando de um comandante para a execução de missões, tarefas e ações operacionais;\n\nb) As unidades de intervenção antiaérea, que têm por missão garantir a defesa antiaérea das unidades e órgãos da Força Aérea, de forças e meios destacados e de outras áreas e pontos sensíveis."
+  },
+  "178121081": {
+   "fragment_id": "178122749",
+   "type": 8,
+   "heading": "Secção IX — Órgãos e serviços regulados por legislação própria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Órgãos e serviços regulados por legislação própria"
+  },
+  "178121082": {
+   "fragment_id": "178122750",
+   "type": 11,
+   "heading": "Artigo 29.º — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Disposições genéricas\n\nA Força Aérea compreende o SBSA, regulado por legislação própria."
+  },
+  "178121083": {
+   "fragment_id": "178122751",
+   "type": 11,
+   "heading": "Artigo 30.º — Serviço de Busca e Salvamento Aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Serviço de Busca e Salvamento Aéreo\n\n1 - O SBSA é responsável pelas ações de busca e salvamento relativas a acidentes ocorridos com aeronaves nas regiões de busca e salvamento de Lisboa e de Santa Maria.\n\n2 - Os órgãos do SBSA, a sua localização, o seu funcionamento e a respetiva competência constam de legislação própria.\n\n3 - O CEMFA dirige o SBSA."
+  },
+  "178121084": {
+   "fragment_id": "178122752",
+   "type": 8,
+   "heading": "Secção X — Órgãos de apoio a mais de um ramo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção X — Órgãos de apoio a mais de um ramo"
+  },
+  "178121085": {
+   "fragment_id": "178122753",
+   "type": 11,
+   "heading": "Artigo 31.º — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Disposições genéricas\n\n1 - Os órgãos de apoio a mais de um ramo são os que, inseridos na estrutura da Força Aérea, têm como missão primária assegurar um apoio integrado a outros ramos podendo dispor, estruturalmente, de elementos e recursos dos ramos apoiados.\n\n2 - São órgãos de apoio a mais de um ramo, no âmbito da Força Aérea:\n\na) O CT;\n\nb) Outras unidades, estabelecimentos ou órgãos como tal reconhecidos por despacho do Ministro da Defesa Nacional.\n\n3 - A participação dos ramos apoiados, no que se refere a recursos humanos, financeiros e materiais, bem como a caraterização do apoio a prestar a cada ramo, é definida por portaria do Ministro da Defesa Nacional."
+  },
+  "178121086": {
+   "fragment_id": "178122754",
+   "type": 1,
+   "heading": "Capítulo III — Disposições complementares e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições complementares e transitórias"
+  },
+  "178121087": {
+   "fragment_id": "178122755",
+   "type": 11,
+   "heading": "Artigo 32.º — Símbolos e datas festivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Símbolos e datas festivas\n\n1 - A Força Aérea tem brasão de armas, bandeira heráldica, divisa e hino e as suas unidades, estabelecimentos e demais órgãos têm brasão de armas e bandeira heráldica ou guião e divisas.\n\n2 - Os símbolos referidos no número anterior são aprovados por despacho do CEMFA.\n\n3 - A Força Aérea, as suas unidades, estabelecimentos e demais órgãos têm um dia festivo para a consagração da respetiva memória histórica, definido por despacho do CEMFA."
+  },
+  "178121088": {
+   "fragment_id": "178122756",
+   "type": 11,
+   "heading": "Artigo 33.º — Criação, extinção e reestruturação de unidades, estabelecimentos e órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Criação, extinção e reestruturação de unidades, estabelecimentos e órgãos\n\n1 - É criada a Unidade de Apoio de Lisboa.\n\n2 - São extintos:\n\na) O Comando de Instrução e Formação da Força Aérea (CIFFA);\n\nb) A Base do Lumiar;\n\nc) O Gabinete de Avaliação e Qualidade do CIFFA;\n\nd) Os órgãos de apoio direto do CIFFA.\n\n3 - É extinto, por fusão, o Grupo de Apoio do EMFA, sendo as suas atribuições integradas na UAL.\n\n4 - São objeto de reestruturação:\n\na) O CPESFA;\n\nb) O CA;\n\nc) O SDFA;\n\nd) Os órgãos de base;\n\ne) Os órgãos de natureza cultural.\n\n5 - Compete ao CEMFA determinar, por despacho, quais as chefias que procedem às operações e decisões necessárias à reorganização de serviços, podendo essa competência ser delegada."
+  },
+  "178121089": {
+   "fragment_id": "178122757",
+   "type": 11,
+   "heading": "Artigo 34.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Referências legais\n\nAs referências legais feitas às unidades, estabelecimentos e órgãos objeto de extinção, fusão e reestruturação, mencionados no artigo anterior, consideram-se feitas às unidades, estabelecimentos e órgãos que passam a integrar as respetivas atribuições."
+  },
+  "178121090": {
+   "fragment_id": "178122758",
+   "type": 11,
+   "heading": "Artigo 35.º — Infraestruturas da Organização do Tratado do Atlântico Norte na dependência da Força Aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Infraestruturas da Organização do Tratado do Atlântico Norte na dependência da Força Aérea\n\nA manutenção e o funcionamento das infraestruturas da Organização do Tratado do Atlântico Norte existentes em Portugal, na dependência da Força Aérea, são regulados por legislação própria."
+  },
+  "178121091": {
+   "fragment_id": "178122759",
+   "type": 11,
+   "heading": "Artigo 36.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regulamentação\n\nAs atribuições, competências e organização da estrutura interna da Força Aérea são estabelecidas por decreto regulamentar, a aprovar no prazo de 120 dias, a contar da data da entrada em vigor do presente decreto-lei."
+  },
+  "178121092": {
+   "fragment_id": "178122760",
+   "type": 11,
+   "heading": "Artigo 37.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Normas transitórias\n\n1 - Enquanto não forem publicados os diplomas legais previstos no presente decreto-lei, mantêm-se em vigor os diplomas que disciplinam as correspondentes matérias.\n\n2 - Até à criação do posto de brigadeiro-general, nos termos do Estatuto dos Militares das Forças Armadas, os cargos que, nos termos do presente decreto-lei, devam ser exercidos por militares com aquele posto são exercidos por militares com o posto de major-general.\n\n3 - Os cargos que, com a entrada em vigor do presente decreto-lei e do novo Estatuto dos Militares das Forças Armadas, devam ser exercidos por militares com o posto de brigadeiro-general, podem continuar a ser ocupados por majores-generais que transitaram para a situação de supranumerário por força das extinções, fusões e reestruturações previstas no artigo 33.º.\n\n4 - Até à entrada em vigor do diploma que define a estrutura, a organização, o funcionamento e as competências do Instituto Universitário Militar, mantém-se em vigor o modelo de governação comum aprovado pela Portaria n.º 60/2014, de 13 de janeiro, publicada no Diário da República, 2.ª série, n.º 18, de 27 de janeiro, bem como as disposições aplicáveis à AFA."
+  },
+  "178121093": {
+   "fragment_id": "178122761",
+   "type": 11,
+   "heading": "Artigo 38.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 232/2009, de 15 de setembro;\n\nb) Todas as disposições que contrariem o disposto no presente decreto-lei."
+  },
+  "178121094": {
+   "fragment_id": "178122762",
+   "type": 11,
+   "heading": "Artigo 39.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de janeiro de 2015."
+  },
+  "178121096": {
+   "fragment_id": "178122764",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 7.º)\n\nQuantitativo de cargos de comando, direção ou chefia de oficial general\n\n(ver documento original)"
+  }
+ }
+}

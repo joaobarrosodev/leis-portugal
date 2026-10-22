@@ -1,0 +1,1994 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:144263:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1988-163036603",
+ "dre_path": "/dr/detalhe/lei/77-1988-144263",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1988-07-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "163012743",
+    "163012744",
+    "163012745",
+    "163012746",
+    "163012747",
+    "163012748",
+    "163012749",
+    "163012750",
+    "163012751",
+    "163012752",
+    "163012753",
+    "163012754",
+    "163012755",
+    "163012756",
+    "163012757",
+    "163012758",
+    "163012759",
+    "163012760",
+    "163012761",
+    "163012762",
+    "163012763",
+    "163012764",
+    "163012765",
+    "163012766",
+    "163012767",
+    "163012768",
+    "163012769",
+    "163012770",
+    "163012771",
+    "163012772",
+    "163012773",
+    "163012774",
+    "163046075",
+    "163046076",
+    "163046077",
+    "163046078",
+    "163046079",
+    "163046080",
+    "163046082",
+    "163046084",
+    "163046086",
+    "163046088",
+    "163046091",
+    "163046092",
+    "163046093",
+    "163046098",
+    "163046099",
+    "163046101",
+    "163046105",
+    "163046106",
+    "163046107",
+    "163046108",
+    "163046109",
+    "163046110",
+    "163046111",
+    "163046112",
+    "163046113",
+    "163046114",
+    "163046115",
+    "163046116",
+    "163046117",
+    "163046118",
+    "163046119",
+    "163046120",
+    "163046121",
+    "163046122",
+    "163046124",
+    "163046125",
+    "163046126",
+    "163046127",
+    "163046128",
+    "163046130",
+    "163046131",
+    "163046132",
+    "163046133",
+    "163046134",
+    "163046135",
+    "163046136",
+    "163046137",
+    "163046138",
+    "163046139",
+    "163046140",
+    "163046141",
+    "163046142",
+    "163046143",
+    "163046144",
+    "163046145",
+    "163046146",
+    "163046147",
+    "163046148",
+    "163046149",
+    "163046150",
+    "163046153",
+    "163046154",
+    "163046155",
+    "163046157",
+    "163046158",
+    "163046159",
+    "163046160"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:376823:por",
+     "title": "Declaração",
+     "published": "1988-08-16",
+     "dre_path": "/dr/detalhe/declaracao/1988-376823",
+     "date": "1988-07-06"
+    }
+   ]
+  },
+  {
+   "date": "1992-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:283700:por",
+     "title": "Resolução da Assembleia da República n.º 24/92",
+     "published": "1992-08-06",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-republica/24-1992-283700"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "163012743",
+    "163012744",
+    "163012745",
+    "163012746",
+    "163012747",
+    "163012748",
+    "163012749",
+    "163012750",
+    "163012751",
+    "163012752",
+    "163012753",
+    "163012754",
+    "163012755",
+    "163012756",
+    "163012757",
+    "163012758",
+    "163012759",
+    "163012760",
+    "163012761",
+    "163012762",
+    "163012763",
+    "163012764",
+    "163012765",
+    "163012766",
+    "163012767",
+    "163012768",
+    "163012769",
+    "163012770",
+    "163012771",
+    "163012772",
+    "163012773",
+    "163012774",
+    "163046075",
+    "163046076",
+    "163046077",
+    "163046078",
+    "163046079",
+    "163046080",
+    "163046081",
+    "163046082",
+    "163046083",
+    "163046084",
+    "163046085",
+    "163046168",
+    "163046087",
+    "163046088",
+    "163046089",
+    "163046090",
+    "163046091",
+    "163046092",
+    "163046093",
+    "163046094",
+    "163046095",
+    "163046096",
+    "163046097",
+    "163046098",
+    "163046099",
+    "163046100",
+    "163046101",
+    "163046102",
+    "163046103",
+    "163046104",
+    "163046105",
+    "163046106",
+    "163046107",
+    "163046108",
+    "163046109",
+    "163046110",
+    "163046111",
+    "163046112",
+    "163046113",
+    "163046114",
+    "163046115",
+    "163046116",
+    "163046117",
+    "163046118",
+    "163046119",
+    "163046120",
+    "163046121",
+    "163046122",
+    "163046123",
+    "163046124",
+    "163046125",
+    "163046126",
+    "163046127",
+    "163046128",
+    "163046129",
+    "163046130",
+    "163046131",
+    "163046132",
+    "163046133",
+    "163046134",
+    "163046135",
+    "163046136",
+    "163046137",
+    "163046138",
+    "163046139",
+    "163046140",
+    "163046141",
+    "163046142",
+    "163046143",
+    "163046144",
+    "163046145",
+    "163046146",
+    "163046147",
+    "163046148",
+    "163046149",
+    "163046150",
+    "163046151",
+    "163046152",
+    "163046153",
+    "163046154",
+    "163046155",
+    "163046156",
+    "163090675",
+    "163046170",
+    "163046171",
+    "163046172"
+   ]
+  },
+  {
+   "date": "1993-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:329986:por",
+     "title": "Lei n.º 59/93",
+     "published": "1993-08-17",
+     "dre_path": "/dr/detalhe/lei/59-1993-329986"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 11.º-B",
+    "Adita Artigo 42.º-A",
+    "Adita Artigo 54.º-A",
+    "Adita Artigo 63.º-A",
+    "Altera Secção II",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Secção III",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 52.º",
+    "Altera Artigo 53.º",
+    "Altera Artigo 54.º",
+    "Altera Artigo 55.º",
+    "Altera Artigo 57.º",
+    "Altera Artigo 59.º",
+    "Altera Artigo 60.º",
+    "Altera Capítulo VII",
+    "Altera Artigo 62.º",
+    "Altera Artigo 63.º",
+    "Altera Artigo 65.º",
+    "Altera Artigo 66.º",
+    "Altera Artigo 68.º",
+    "Altera Artigo 73.º",
+    "Altera Artigo 74.º",
+    "Altera Artigo 80.º",
+    "Elimina Subsecção V",
+    "Elimina Subsecção IV",
+    "Elimina Subsecção III",
+    "Elimina Subsecção II",
+    "Elimina Subsecção I",
+    "Elimina Artigo 78.º",
+    "Elimina Artigo 77.º",
+    "Elimina Artigo 61.º",
+    "Elimina Artigo 56.º",
+    "Elimina Artigo 36.º",
+    "Elimina Artigo 40.º",
+    "Elimina Artigo 35.º",
+    "Elimina Artigo 34.º",
+    "Elimina Artigo 30.º",
+    "Elimina Artigo 29.º",
+    "Elimina Artigo 26.º",
+    "Elimina Artigo 25.º",
+    "Elimina Artigo 41.º"
+   ],
+   "fragments": [
+    "163012743",
+    "163012744",
+    "163012745",
+    "163012746",
+    "163012747",
+    "163012748",
+    "163012749",
+    "163012750",
+    "163012751",
+    "163012752",
+    "163012753",
+    "163691250",
+    "163012755",
+    "163012756",
+    "163691251",
+    "163012758",
+    "163691252",
+    "163691253",
+    "163691254",
+    "163691255",
+    "163012761",
+    "163012762",
+    "163691256",
+    "163012764",
+    "163012765",
+    "163012766",
+    "163012767",
+    "163012768",
+    "163012769",
+    "163012770",
+    "163012771",
+    "163012772",
+    "163012773",
+    "163012774",
+    "163691257",
+    "163691258",
+    "163691259",
+    "163046078",
+    "163046079",
+    "163698434",
+    "163698453",
+    "163698461",
+    "163698469",
+    "163722777",
+    "163722785",
+    "163722793",
+    "163722801",
+    "163722809",
+    "163722823",
+    "163722824",
+    "163046106",
+    "163698405",
+    "163046108",
+    "163046109",
+    "163046110",
+    "163698406",
+    "163046112",
+    "163046113",
+    "163698407",
+    "163046115",
+    "163046116",
+    "163046117",
+    "163698408",
+    "163698409",
+    "163698410",
+    "163698411",
+    "163046121",
+    "163698412",
+    "163698413",
+    "163046125",
+    "163046126",
+    "163698414",
+    "163698415",
+    "163698416",
+    "163698417",
+    "163698418",
+    "163698419",
+    "163046133",
+    "163046134",
+    "163046135",
+    "163698420",
+    "163698421",
+    "163046138",
+    "163698422",
+    "163046140",
+    "163046141",
+    "163046142",
+    "163046143",
+    "163046144",
+    "163046145",
+    "163698423",
+    "163046147",
+    "163698424",
+    "163046149",
+    "163046150",
+    "163046153",
+    "163698425",
+    "163046155",
+    "163046156",
+    "163090675",
+    "163046170",
+    "163046171",
+    "163046172"
+   ]
+  },
+  {
+   "date": "1993-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:428825:por",
+     "title": "Lei n.º 72/93",
+     "published": "1993-11-30",
+     "dre_path": "/dr/detalhe/lei/72-1993-428825"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 63.º"
+   ],
+   "fragments": [
+    "163012743",
+    "163012744",
+    "163012745",
+    "163012746",
+    "163012747",
+    "163012748",
+    "163012749",
+    "163012750",
+    "163012751",
+    "163012752",
+    "163012753",
+    "163691250",
+    "163012755",
+    "163012756",
+    "163691251",
+    "163012758",
+    "163691252",
+    "163691253",
+    "163691254",
+    "163691255",
+    "163012761",
+    "163012762",
+    "163691256",
+    "163012764",
+    "163012765",
+    "163012766",
+    "163012767",
+    "163012768",
+    "163012769",
+    "163012770",
+    "163012771",
+    "163012772",
+    "163012773",
+    "163012774",
+    "163691257",
+    "163691258",
+    "163691259",
+    "163046078",
+    "163046079",
+    "163698434",
+    "163698453",
+    "163698461",
+    "163698469",
+    "163722777",
+    "163722785",
+    "163722793",
+    "163722801",
+    "163722809",
+    "163722823",
+    "163722824",
+    "163046106",
+    "163698405",
+    "163046108",
+    "163046109",
+    "163046110",
+    "163698406",
+    "163046112",
+    "163046113",
+    "163698407",
+    "163046115",
+    "163046116",
+    "163046117",
+    "163698408",
+    "163698409",
+    "163698410",
+    "163698411",
+    "163046121",
+    "163698412",
+    "163698413",
+    "163046125",
+    "163046126",
+    "163698414",
+    "163698415",
+    "163698416",
+    "163698417",
+    "163781029",
+    "163698419",
+    "163046133",
+    "163046134",
+    "163046135",
+    "163698420",
+    "163698421",
+    "163046138",
+    "163698422",
+    "163046140",
+    "163046141",
+    "163046142",
+    "163046143",
+    "163046144",
+    "163046145",
+    "163698423",
+    "163046147",
+    "163698424",
+    "163046149",
+    "163046150",
+    "163046153",
+    "163698425",
+    "163046155",
+    "163046156",
+    "163090675",
+    "163046170",
+    "163046171",
+    "163046172"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:345153:por",
+     "title": "Lei n.º 53/93",
+     "published": "1993-07-30",
+     "dre_path": "/dr/detalhe/lei/53-1993-345153",
+     "date": "1994-08-04"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "163012743": {
+   "fragment_id": "163036604",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 77/88\n\nde 1 de Julho\n\nLei Orgânica da Assembleia da República\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:"
+  },
+  "163012744": {
+   "fragment_id": "163036605",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito"
+  },
+  "163012745": {
+   "fragment_id": "163036606",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente Lei tem por objecto definir e regular os instrumentos de gestão administrativa, financeira e de apoio técnico que permitem à Assembleia da República o desenvolvimento da sua actividade específica.\n\n2 - Para efeitos do disposto no número anterior, a Assembleia da República, dotada de autonomia administrativa e financeira e com património próprio, dispõe de serviços hierarquizados, denominados serviços da Assembleia da República, conforme o organograma anexo."
+  },
+  "163012746": {
+   "fragment_id": "163036607",
+   "type": 1,
+   "heading": "Capítulo II — Sede e instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sede e instalações"
+  },
+  "163012747": {
+   "fragment_id": "163036608",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A Assembleia da República tem a sede em Lisboa, em instalações privativas, nas quais se inclui o património conhecido por Palácio de São Bento e respectivas dependências e recheio, sem prejuízo do regime geral vigente em matéria de património nacional.\n\n2 - Constituem também património da Assembleia da República as instalações por esta adquiridas e outras previstas na lei.\n\n3 - O Presidente da Assembleia da República pode determinar a mudança da sede da Assembleia, com voto favorável da Conferência dos Presidentes dos Grupos Parlamentares, a ratificar pelo Plenário."
+  },
+  "163012748": {
+   "fragment_id": "163036609",
+   "type": 11,
+   "heading": "Artigo 3.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instalações\n\n1 - A Assembleia da República poderá requisitar ao departamento competente da Administração Pública, tomar de arrendamento ou adquirir as instalações que se revelem indispensáveis ao seu funcionamento.\n\n2 - Quando necessário, poderá proceder-se à expropriação por utilidade pública de bens imóveis e direitos imobiliários de particulares, nos termos da lei."
+  },
+  "163012749": {
+   "fragment_id": "163036610",
+   "type": 1,
+   "heading": "Capítulo III — Plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Plenário"
+  },
+  "163012750": {
+   "fragment_id": "163036611",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\nAo Plenário, como órgão supremo da Assembleia da República, compete apreciar, discutir e votar:\n\na) Os planos de actividades;\n\nb) O orçamento anual das receitas e despesas da Assembleia da República e os orçamentos suplementares;\n\nc) O relatório e a conta."
+  },
+  "163012751": {
+   "fragment_id": "163036612",
+   "type": 1,
+   "heading": "Capítulo IV — Administração da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Administração da Assembleia da República"
+  },
+  "163012752": {
+   "fragment_id": "163036613",
+   "type": 8,
+   "heading": "Secção I — Órgãos de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos de administração"
+  },
+  "163012753": {
+   "fragment_id": "163036614",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos da administração da Assembleia da República:\n\na) O Presidente da Assembleia da República;\n\nb) O Conselho de Administração."
+  },
+  "163012754": {
+   "fragment_id": "163036615",
+   "type": 8,
+   "heading": "Secção II — Presidente da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Presidente da Assembleia da República"
+  },
+  "163012755": {
+   "fragment_id": "163036616",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência\n\n1 - O Presidente da Assembleia da República tem as competências que lhe são atribuídas pela Constituição, pela lei e pelo Regimento.\n\n2 - O Presidente da Assembleia da República superintende na administração da Assembleia da República."
+  },
+  "163012756": {
+   "fragment_id": "163036617",
+   "type": 11,
+   "heading": "Artigo 7.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Delegação de competências\n\nO Presidente da Assembleia da República pode delegar nos vice-presidentes os poderes que lhe são conferidos pela presente Lei."
+  },
+  "163012757": {
+   "fragment_id": "163036618",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete do Presidente\n\n1 - O Presidente da Assembleia da República dispõe de um gabinete constituído por pessoal da sua livre escolha e nomeação.\n\n2 - O Gabinete do Presidente da Assembleia da República é constituído por um chefe de gabinete, que coordena, e por quatro assessores, três adjuntos, quatro secretários, um secretário auxiliar e um motorista.\n\n3 - O apoio administrativo e auxiliar ao Gabinete poderá ainda ser prestado por funcionários dos serviços da Assembleia, destacados para o efeito por despacho do Presidente."
+  },
+  "163012758": {
+   "fragment_id": "163036619",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação de funções dos membros do Gabinete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cessação de funções dos membros do Gabinete\n\nO pessoal do Gabinete cessa funções no termo do mandato do Presidente da Assembleia da República e, a qualquer tempo, por decisão deste."
+  },
+  "163012759": {
+   "fragment_id": "163036620",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime aplicável aos membros do Gabinete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime aplicável aos membros do Gabinete\n\n1 - Aplicam-se aos membros do Gabinete do Presidente da Assembleia da República as disposições em vigor para o Gabinete do Primeiro-Ministro, sem prejuízo do disposto nos artigos 52.º, n.º 5, e 53.º\n\n2 - Ao chefe de gabinete do Presidente da Assembleia da República pode ser atribuído, nos limites em vigor para o Gabinete do Primeiro-Ministro, a título permanente ou eventual, um abono para despesas de representação, a fixar pelo Presidente, ouvido o Conselho de Administração.\n\n3 - O pessoal do Gabinete do Presidente da Assembleia da República não abrangido por qualquer regime de segurança social beneficiará, a partir da data da sua nomeação, do regime de previdência aplicável ao funcionalismo público, podendo optar por este no caso de ser abrangido por qualquer outro."
+  },
+  "163012760": {
+   "fragment_id": "163036621",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio aos vice-presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio aos vice-presidentes\n\n1 - Os vice-presidentes poderão ser apoiados por um secretário e um motorista, da sua livre escolha, a requisitar aos departamentos do Estado ou a empresas públicas.\n\n2 - Ao pessoal referido no n.º 1 é aplicável, com as necessárias adaptações, o disposto no artigo 62.º"
+  },
+  "163012761": {
+   "fragment_id": "163036622",
+   "type": 8,
+   "heading": "Secção III — Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho de Administração"
+  },
+  "163012762": {
+   "fragment_id": "163036623",
+   "type": 11,
+   "heading": "Artigo 12.º — Definição e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Definição e composição\n\n1 - O Conselho de Administração é um órgão de consulta e gestão, constituído por um máximo de sete deputados, ou os seus substitutos, em representação de cada um dos sete maiores grupos parlamentares, pelo secretário-geral da Assembleia da República e por um representante dos funcionários parlamentares, ou um seu substituto.\n\n2 - É da competência dos grupos parlamentares a indicação dos seus representantes e substitutos no Conselho de Administração, os quais são eleitos pelo Plenário.\n\n3 - Quando o número de grupos parlamentares for superior a sete e se verificar igualdade para a designação do sétimo representante, este será eleito pelo Plenário de entre os candidatos apresentados pelos respectivos grupos parlamentares.\n\n4 - Quando o número de grupos parlamentares for inferior a sete, o número de deputados membros do Conselho de Administração será igual ao número de grupos parlamentares existentes.\n\n5 - No caso de cessação ou suspensão das funções de deputado, a vaga que, em consequência, surgir no Conselho de Administração será preenchida nos termos dos números anteriores.\n\n6 - O representante dos funcionários parlamentares e o seu substituto são eleitos em plenário do pessoal do quadro da Assembleia da República, expressamente convocado para o efeito, por voto directo e secreto, pelo período da legislatura."
+  },
+  "163012763": {
+   "fragment_id": "163036624",
+   "type": 11,
+   "heading": "Artigo 13.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Atribuições\n\nSão atribuições do Conselho de Administração:\n\na) Pronunciar-se sobre a política geral de administração e os meios necessários à sua execução;\n\nb) Elaborar os planos de actividades, plurianuais e anuais, da Assembleia da República;\n\nc) Elaborar as propostas de orçamento da Assembleia da República;\n\nd) Elaborar o relatório e a conta da Assembleia da República;\n\ne) Exercer a gestão financeira da Assembleia da República, sem prejuízo do disposto no artigo 68.º;\n\nf) Pronunciar-se sobre os regulamentos internos que respeitem à gestão das diversas áreas funcionais, nomeadamente administrativa, patrimonial e pessoal;\n\ng) Pronunciar-se, sob proposta do secretário-geral da Assembleia da República, relativamente à abertura de concursos de pessoal;\n\nh) Pronunciar-se sobre as propostas relativas ao provimento de pessoal;\n\ni) Pronunciar-se sobre os actos de administração relativos ao património da Assembleia da República, incluindo a aquisição, alienação, expropriação, troca, cedência, aluguer e arrendamento de quaisquer bens ou direitos a ele inerentes, bem como sobre a execução de obras, realização de estudos e aquisição de bens e serviços cujas despesas excedam 400000$00, ou 4000000$00, conforme haja ou não necessidade de proceder à realização de concurso público, nos termos da lei geral."
+  },
+  "163012764": {
+   "fragment_id": "163036625",
+   "type": 11,
+   "heading": "Artigo 14.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Funcionamento\n\n1 - O Conselho de Administração é presidido pelo deputado representante do maior grupo parlamentar, ou pelo seu substituto.\n\n2 - O Conselho de Administração reúne ordinariamente pelo menos uma vez por mês e, extraordinariamente, quando convocado pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros, com a antecedência mínima de 24 horas, devendo, neste caso, fazer-se a indicação da ordem do dia.\n\n3 - O Conselho de Administração poderá constituir de entre os seus membros uma comissão executiva, com os poderes que nela delegar, à qual se aplicarão, com as necessárias adaptações, as regras de funcionamento do Conselho de Administração.\n\n4 - Integrarão necessariamente a comissão executiva os representantes de cada um dos quatro maiores grupos parlamentares e o secretário-geral da Assembleia da República."
+  },
+  "163012765": {
+   "fragment_id": "163036626",
+   "type": 11,
+   "heading": "Artigo 15.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Votação\n\n1 - As deliberações do Conselho de Administração são tomadas por maioria, cabendo a cada deputado um número de votos igual ao do respectivo grupo parlamentar, tendo o seu presidente voto de qualidade em caso de empate.\n\n2 - As deliberações do Conselho de Administração são válidas desde que se verifique a presença de três dos seus membros e esteja garantida a representação da maioria absoluta dos deputados em funções.\n\n3 - Não comparecendo o número de membros exigido no número anterior, será convocada nova reunião, podendo o Conselho de Administração então deliberar, havendo urgência, desde que esteja assegurada a representação da maioria absoluta dos deputados em efectividade de funções."
+  },
+  "163012766": {
+   "fragment_id": "163036627",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regulamento\n\nO Conselho de Administração elabora o seu regulamento interno."
+  },
+  "163012767": {
+   "fragment_id": "163036628",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cessação de funções\n\nNo termo da legislatura ou em caso de dissolução da Assembleia da República, os membros do Conselho de Administração mantêm-se em funções até à primeira reunião da Assembleia da República da nova legislatura."
+  },
+  "163012768": {
+   "fragment_id": "163036629",
+   "type": 1,
+   "heading": "Capítulo V — Serviços da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Serviços da Assembleia da República"
+  },
+  "163012769": {
+   "fragment_id": "163036630",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "163012770": {
+   "fragment_id": "163036631",
+   "type": 11,
+   "heading": "Artigo 18.º — Serviços da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Serviços da Assembleia da República\n\nOs serviços têm por finalidade prestar apoio técnico e administrativo aos órgãos da Assembleia da República e aos deputados, devendo garantir, nomeadamente:\n\na) O suporte técnico e administrativo no domínio das actividades de secretariado e de apoio directo ao Plenário, às comissões e aos órgãos que funcionem junto da Assembleia da República ou na sua dependência;\n\nb) A elaboração de estudos técnicos especializados necessários à actividade da Assembleia da República;\n\nc) A execução das tarefas necessárias à actividade da Assembleia da República."
+  },
+  "163012771": {
+   "fragment_id": "163036632",
+   "type": 11,
+   "heading": "Artigo 19.º — Organização interna dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Organização interna dos serviços\n\nA organização interna dos serviços e as suas condições de funcionamento serão definidas em regulamento próprio, aprovado por despacho do Presidente da Assembleia da República, sob proposta do secretário-geral da Assembleia da República, obtido o parecer favorável do Conselho de Administração."
+  },
+  "163012772": {
+   "fragment_id": "163036633",
+   "type": 8,
+   "heading": "Secção II — Órgãos e serviços na dependência directa do Presidente da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Órgãos e serviços na dependência directa do Presidente da Assembleia da República"
+  },
+  "163012773": {
+   "fragment_id": "163036634",
+   "type": 3,
+   "heading": "Subsecção I — Secretário-geral da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Secretário-geral da Assembleia da República"
+  },
+  "163012774": {
+   "fragment_id": "163036635",
+   "type": 11,
+   "heading": "Artigo 20.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Atribuições e competências\n\nO secretário-geral da Assembleia da República superintende em todos os serviços da Assembleia da República e coordena-os, submetendo a despacho do Presidente da Assembleia da República os assuntos cuja decisão não esteja no âmbito da sua competência."
+  },
+  "163046075": {
+   "fragment_id": "163036636",
+   "type": 11,
+   "heading": "Artigo 21.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estatuto\n\n1 - O secretário-geral da Assembleia da República é nomeado pelo Presidente da Assembleia da República, em comissão de serviço e pelo período da legislatura, obtido o parecer favorável do Conselho de Administração, e permanece em funções até à nomeação do novo secretário-geral.\n\n2 - O secretário-geral da Assembleia da República pode ser exonerado a todo o tempo pelo Presidente da Assembleia da República, obtido o parecer favorável do Conselho de Administração.\n\n3 - O secretário-geral da Assembleia da República não pode exercer actividades profissionais privadas nem desempenhar outras funções públicas, salvo as que resultem de inerência ou de actividades de reconhecido interesse público cujo exercício seja autorizado por despacho do Presidente da Assembleia da República.\n\n4 - O secretário-geral da Assembleia da República é substituído nas suas faltas e impedimentos pelo director-geral que o Presidente da Assembleia da República designar.\n\n5 - A remuneração do secretário-geral da Assembleia da República é igual ao vencimento base fixado para o cargo de director-geral, acrescido da diferença entre o vencimento deste e o de subdirector-geral.\n\n6 - Ao secretário-geral da Assembleia da República poderá ser atribuído, a título permanente ou eventual, um abono para despesas de representação, a fixar pelo Presidente da Assembleia da República, ouvido o Conselho de Administração, o qual não poderá exceder os limites estabelecidos para os secretários-gerais dos outros órgãos de soberania."
+  },
+  "163046076": {
+   "fragment_id": "163036637",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competências específicas\n\n1 - Ao secretário-geral da Assembleia da República compete:\n\na) Propor alterações ao quadro da Assembleia da República, bem como os regulamentos necessários à organização interna e ao funcionamento dos serviços;\n\nb) Propor a abertura de concursos e o provimento do pessoal não dirigente;\n\nc) Coordenar a elaboração das propostas referentes aos planos, anuais e plurianuais, de actividades, ao orçamento, ao relatório e à conta;\n\nd) Autorizar a aquisição de bens e serviços no âmbito da sua competência.\n\n2 - Compete ainda ao secretário-geral da Assembleia da República:\n\na) Propor o regime e montante da remuneração suplementar a atribuir ao pessoal ao serviço da Assembleia da República durante o funcionamento efectivo desta;\n\nb) Propor o regime do subsídio de alimentação e transporte a atribuir ao pessoal ao serviço da Assembleia da República indispensável ao funcionamento desta em condições excepcionais;\n\nc) Determinar o exercício de funções em situação que dê lugar a reversão de vencimento de exercício, nos termos previstos na lei, bem como autorizar o respectivo processamento;\n\nd) Autorizar ou determinar a movimentação e colocação de funcionários dentro da estrutura orgânica da Assembleia da República;\n\ne) Despachar os requerimentos dos funcionários solicitando a aposentação ou apresentação a junta médica, ordinária ou extraordinária, bem como aqueles em que seja solicitada a exoneração.\n\n3 - O secretário-geral da Assembleia da República pode delegar as competências próprias e subdelegar as que lhe tenham sido delegadas com autorização expressa de subdelegação.\n\n4 - Das decisões do secretário-geral da Assembleia da República cabe recurso hierárquico para o Presidente da Assembleia da República."
+  },
+  "163046077": {
+   "fragment_id": "163036638",
+   "type": 11,
+   "heading": "Artigo 23.º — Secretariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Secretariado\n\n1 - O secretário-geral da Assembleia da República poderá dispor de um serviço de apoio próprio, constituído, no máximo, por um adjunto, um secretário e um secretário auxiliar, a requisitar aos departamentos do Estado ou a empresas públicas.\n\n2 - Ao pessoal referido no número anterior é aplicável, com as necessárias adaptações, o disposto no artigo 62.º"
+  },
+  "163046078": {
+   "fragment_id": "163036639",
+   "type": 3,
+   "heading": "Subsecção II — Auditor jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Auditor jurídico"
+  },
+  "163046079": {
+   "fragment_id": "163036640",
+   "type": 11,
+   "heading": "Artigo 24.º — Âmbito funcional e designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Âmbito funcional e designação\n\n1 - O auditor jurídico exerce funções no domínio de consulta jurídica e de contencioso administrativo.\n\n2 - Compete ao auditor jurídico, em matéria consultiva, emitir pareceres jurídicos sobre os assuntos que lhe forem submetidos pelo Presidente da Assembleia da República.\n\n3 - Em matéria de contencioso administrativo compete ao auditor jurídico:\n\na) Preparar os projectos de respostas aos recursos contenciosos em que seja citado o Presidente da Assembleia da República, acompanhar os respectivos processos e neles promover as diligências necessárias;\n\nb) Instruir processos de sindicância, inquérito ou disciplinares, sempre que para tanto se torne conveniente a nomeação de pessoa com formação jurídica;\n\nc) Acompanhar e promover as necessárias diligências em quaisquer outros processos em que a Assembleia seja interessada.\n\n4 - O cargo de auditor jurídico será exercido por um procurador-geral-adjunto, nomeado e exonerado nos termos da Lei Orgânica do Ministério Público, ouvido o Presidente da Assembleia da República."
+  },
+  "163046080": {
+   "fragment_id": "163036641",
+   "type": 3,
+   "heading": "Subsecção III — Assessoria Jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Assessoria Jurídica"
+  },
+  "163046082": {
+   "fragment_id": "163036643",
+   "type": 3,
+   "heading": "Subsecção IV — Gabinete de Estudos Parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Gabinete de Estudos Parlamentares"
+  },
+  "163046084": {
+   "fragment_id": "163036645",
+   "type": 8,
+   "heading": "Secção III — Direcções-gerais e outros serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Direcções-gerais e outros serviços"
+  },
+  "163046086": {
+   "fragment_id": "163036647",
+   "type": 11,
+   "heading": "Artigo 27.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Estrutura\n\nOs serviços da Assembleia da República compreendem ainda as seguintes unidades orgânicas:\n\na) A Direcção-Geral de Apoio Parlamentar;\n\nb) A Direcção-Geral de Administração e Informática;\n\nc) A Direcção dos Serviços de Relações Públicas e Internacionais;\n\nd) O Museu."
+  },
+  "163046088": {
+   "fragment_id": "163036649",
+   "type": 11,
+   "heading": "Artigo 28.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Atribuições\n\nA Direcção-Geral de Apoio Parlamentar é a unidade orgânica especialmente encarregada das actividades de secretariado, redacção, apoio técnico, documentação e informação."
+  },
+  "163046091": {
+   "fragment_id": "163036652",
+   "type": 11,
+   "heading": "Artigo 31.º — Direcção de Serviços de Apoio Técnico e de Secretariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Direcção de Serviços de Apoio Técnico e de Secretariado\n\n1 - À Direcção de Serviços de Apoio Técnico e de Secretariado compete assegurar:\n\na) A prestação de apoio administrativo ao Plenário;\n\nb) A execução dos serviços inerentes ao apoio administrativo e de secretariado às comissões;\n\nc) O apoio técnico especializado ao Plenário e às comissões;\n\nd) O apoio em meios áudio-visuais ao Plenário e às comissões;\n\ne) A elaboração do Diário da Assembleia da República e a preparação de outros textos parlamentares com vista à sua publicação;\n\nf) O apoio relativo ao Estatuto dos Deputados.\n\n2 - A Direcção de Serviços de Apoio Técnico e de Secretariado compreende:\n\na) A Divisão de Apoio ao Plenário;\n\nb) A Divisão de Secretariado às Comissões;\n\nc) A Divisão de Redacção;\n\nd) O Gabinete de Apoio Técnico;\n\ne) A Divisão de Apoio Estatutário aos Deputados.\n\n3 - O Gabinete de Apoio Técnico é dirigido por um técnico superior, que funcionará em articulação com os presidentes das comissões parlamentares, equiparado a chefe de divisão para efeitos de vencimento."
+  },
+  "163046092": {
+   "fragment_id": "163036653",
+   "type": 11,
+   "heading": "Artigo 32.º — Direcção de Serviços de Documentação e Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Direcção de Serviços de Documentação e Informação\n\n1 - À Direcção de Serviços de Documentação e Informação compete:\n\na) Assegurar o apoio documental e bibliográfico aos trabalhos da Assembleia da República, designadamente organizando, para consulta, as colecções de legislação, de obras e de outros documentos existentes, quer em depósito, quer em outras instituições a que possa recorrer;\n\nb) Organizar e manter actualizado um centro de documentação, com a função de recolher bibliografia, documentação, textos, diplomas legais, actos normativos e administrativos e demais elementos de informação científica e técnica relacionada com a actividade desenvolvida pela Assembleia da República;\n\nc) Criar e manter permanentemente actualizados dossiers relativos a grandes temas nacionais e internacionais;\n\nd) Recolher, tratar e difundir a informação resultante dos actos da Assembleia da República, bem como a decorrente da actividade parlamentar estrangeira e de organizações internacionais;\n\ne) Recolher, analisar, tratar, arquivar e promover a difusão da legislação, nacional e estrangeira, e de toda a informação legislativa com interesse para a Assembleia da República;\n\nf) Analisar e tratar os documentos parlamentares estrangeiros, jornais, revistas, boletins e demais informação internacional com vista à organização de dossiers, notas e fichas respeitantes a assuntos de actualidade e interesse para a prossecução dos trabalhos da Assembleia da República;\n\ng) Organizar e divulgar uma folha semanal, sumariando a documentação estrangeira recebida, podendo, quando a actualidade dos temas o aconselhe, classificar, analisar e traduzir em síntese a referida documentação;\n\nh) Assegurar a gestão da Biblioteca;\n\ni) Recolher, analisar, tratar, arquivar e divulgar a informação produzida pelos órgãos de comunicação social;\n\nj) Assegurar a gestão do Arquivo Histórico-Parlamentar e promover a conservação e preservação do seu património;\n\nk) Planificar e promover a edição de publicações com interesse para a Assembleia da República e para o público em geral;\n\nl) Construir e gerir as respectivas bases de dados;\n\nm) Cooperar com instituições nacionais, estrangeiras e internacionais em matéria de documentação e informação.\n\n2 - A Direcção de Serviços de Documentação e Informação compreende:\n\na) A Divisão de Informação Legislativa e Parlamentar;\n\nb) A Divisão de Edições;\n\nc) A Biblioteca;\n\nd) O Arquivo Histórico-Parlamentar."
+  },
+  "163046093": {
+   "fragment_id": "163036654",
+   "type": 11,
+   "heading": "Artigo 33.º — Depósito legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Depósito legal\n\nTodos os serviços e organismos da administração central, local e regional, os institutos públicos, empresas públicas e organizações cooperativas de grau superior ficam obrigados a enviar à Biblioteca da Assembleia da República, sob o regime de depósito legal, um exemplar de todas as publicações oficiais ou oficiosas que não sejam de mera circulação interna dos serviços."
+  },
+  "163046098": {
+   "fragment_id": "163036659",
+   "type": 11,
+   "heading": "Artigo 37.º — Direcção de Serviços Administrativos e Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Direcção de Serviços Administrativos e Financeiros\n\n1 - À Direcção de Serviços Administrativos e Financeiros compete:\n\na) Gerir os recursos humanos;\n\nb) Implementar um sistema de aplicação de normas de higiene e segurança no trabalho e de medicina no trabalho;\n\nc) Elaborar as propostas de orçamento e do relatório e conta;\n\nd) Executar o orçamento;\n\ne) Processar as remunerações e outros abonos;\n\nf) Administrar os esquemas de segurança social e de acção social complementar;\n\ng) Assegurar a gestão e manutenção das instalações dos equipamentos e do parque automóvel;\n\nh) Assegurar o aprovisionamento de bens e a aquisição de serviços;\n\ni) Garantir o suporte administrativo comum;\n\nj) Garantir a produção reprográfica, a microfilmagem e o offset.\n\n2 - A Direcção de Serviços Administrativos e Financeiros compreende:\n\na) A Divisão de Administração de Pessoal;\n\nb) A Divisão de Gestão Financeira;\n\nc) A Divisão de Aprovisionamento e Património;\n\nd) A Divisão de Administração Geral."
+  },
+  "163046099": {
+   "fragment_id": "163036660",
+   "type": 11,
+   "heading": "Artigo 38.º — Centro de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Centro de Informática\n\n1 - Ao Centro de Informática compete:\n\na) Implementar o plano de informatização da Assembleia da República;\n\nb) Gerir o sistema informático.\n\n2 - O Centro de Informática é dirigido por um técnico superior, equiparado a director de serviços para efeitos de vencimento."
+  },
+  "163046101": {
+   "fragment_id": "163036662",
+   "type": 11,
+   "heading": "Artigo 39.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Atribuições\n\nA Direcção de Serviços de Relações Públicas e Internacionais é a unidade orgânica especialmente encarregada de apoiar e dinamizar as relações externas da Assembleia da República."
+  },
+  "163046105": {
+   "fragment_id": "163036666",
+   "type": 11,
+   "heading": "Artigo 42.º — Museu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Museu\n\n1 - O Museu da Assembleia da República é constituído por todos os objectos de arte e espécies documentais e bibliográficas respeitantes à história do parlamentarismo português.\n\n2 - Nenhum objecto de arte ou espécie documental ou bibliográfica poderá sair do Museu sem autorização prévia do Presidente da Assembleia da República, ouvido o Conselho de Administração, após parecer do conservador.\n\n3 - Ao conservador do Palácio e do Museu incumbe velar pela conservação do Palácio de São Bento, seu património artístico, histórico e valor arquitectural, e do Museu da Assembleia da República."
+  },
+  "163046106": {
+   "fragment_id": "163036667",
+   "type": 8,
+   "heading": "Secção IV — Serviço de Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Serviço de Segurança"
+  },
+  "163046107": {
+   "fragment_id": "163036668",
+   "type": 11,
+   "heading": "Artigo 43.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Atribuições\n\nO Serviço de Segurança constitui a estrutura especialmente encarregada da prevenção, controle, vigilância, protecção e defesa das instalações e dos bens da Assembleia da República, dos seus serviços e das pessoas que nela exercem funções e permanecem."
+  },
+  "163046108": {
+   "fragment_id": "163036669",
+   "type": 11,
+   "heading": "Artigo 44.º — Condições de permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Condições de permanência\n\n1 - A segurança é prestada de forma permanente por um destacamento da Guarda Nacional Republicana e outro da Polícia de Segurança Pública.\n\n2 - As condições de permanência e de actuação da Guarda Nacional Republicana e da Polícia de Segurança Pública são definidas em regulamento aprovado pelo Presidente da Assembleia da República, sob proposta do secretário-geral da Assembleia da República, ouvidos os respectivos comandos-gerais."
+  },
+  "163046109": {
+   "fragment_id": "163036670",
+   "type": 1,
+   "heading": "Capítulo VI — Pessoal dos serviços da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Pessoal dos serviços da Assembleia da República"
+  },
+  "163046110": {
+   "fragment_id": "163036671",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "163046111": {
+   "fragment_id": "163036672",
+   "type": 11,
+   "heading": "Artigo 45.º — Estatuto do pessoal parlamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Estatuto do pessoal parlamentar\n\nO pessoal da Assembleia da República, que constitui o quadro dos funcionários parlamentares, rege-se por estatuto próprio, nos termos da presente Lei e da sua regulamentação, constituindo direito subsidiário a legislação aplicável à administração central do Estado, designadamente o Estatuto da Aposentação."
+  },
+  "163046112": {
+   "fragment_id": "163036673",
+   "type": 11,
+   "heading": "Artigo 46.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Quadro de pessoal\n\n1 - A Assembleia da República dispõe do pessoal constante do quadro anexo à presente Lei.\n\n2 - O quadro de pessoal da Assembleia da República pode ser alterado por resolução da Assembleia, mediante proposta do Conselho de Administração."
+  },
+  "163046113": {
+   "fragment_id": "163036674",
+   "type": 11,
+   "heading": "Artigo 47.º — Recrutamento e selecção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Recrutamento e selecção de pessoal\n\nO recrutamento e selecção do pessoal não dirigente da Assembleia da República é feito mediante concurso público."
+  },
+  "163046114": {
+   "fragment_id": "163046175",
+   "type": 11,
+   "heading": "Artigo 48.º — Admissão e provimento de lugares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Admissão e provimento de lugares\n\n1 - O provimento de lugares de pessoal não dirigente é feito por despacho do Presidente da Assembleia da República, sob proposta do secretário-geral da Assembleia da República, obtido prévio parecer favorável do Conselho de Administração.\n\n2 - Os conteúdos funcionais e as normas de admissão e provimento do pessoal são os constantes da presente Lei e seus anexos I, incluindo as respectivas regras, critérios e observações, que dele fazem parte integrante, II, III e IV e ainda dos regulamentos que vierem a ser homologados pelo Presidente da Assembleia da República, após deliberação do Conselho de Administração, sob proposta do secretário-geral da Assembleia da República.\n\n3 - Os regulamentos referidos no número anterior são publicados no Diário da Assembleia da República e no Diário da República."
+  },
+  "163046115": {
+   "fragment_id": "163046176",
+   "type": 11,
+   "heading": "Artigo 49.º — Funções do pessoal em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Funções do pessoal em geral\n\nO pessoal da Assembleia da República cujas funções não estejam especialmente fixadas na Lei Orgânica desempenhará as funções que decorrem do anexo III e ainda as que sejam fixadas pelos responsáveis dos serviços, desde que de complexidade e responsabilidade equiparáveis."
+  },
+  "163046116": {
+   "fragment_id": "163046177",
+   "type": 11,
+   "heading": "Artigo 50.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Dever de sigilo\n\n1 - Os funcionários e agentes da Assembleia da República estão exclusivamente ao serviço do interesse público, tal como é definido nos termos da Constituição, da lei e do Regimento, e têm o dever de sigilo relativamente aos factos e documentos de que tenham conhecimento no exercício das suas funções.\n\n2 - O dever de sigilo cessa quando estiver em causa a defesa do próprio em processo disciplinar ou judicial e em matéria relacionada com o respectivo processo."
+  },
+  "163046117": {
+   "fragment_id": "163046178",
+   "type": 11,
+   "heading": "Artigo 51.º — Acumulação e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Acumulação e incompatibilidades\n\n1 - Não é permitida ao pessoal dirigente abrangido por este diploma a acumulação com outras funções ou cargos públicos, salvo as que resultem de inerências não remuneradas, missões e estudos de carácter transitório e, bem assim, de participação em comissões ou grupos de trabalho que resultem directamente do exercício das funções dirigentes.\n\n2 - O disposto no número anterior não abrange actividades de reconhecido interesse público, nomeadamente docentes, cujo exercício deverá ser autorizado por despacho do Presidente da Assembleia da República.\n\n3 - O exercício de actividades privadas pelos titulares de cargos dirigentes, ainda que por interposta pessoa, carece de autorização do Presidente da Assembleia da República, ouvido o Conselho de Administração, a qual será recusada ou anulada em todos os casos em que a mesma actividade se mostre susceptível de comprometer ou interferir com a isenção exigida para o seu exercício.\n\n4 - Os titulares de cargos dirigentes estão sujeitos aos impedimentos derivados dos princípios de isenção e imparcialidade da acção da Administração Pública.\n\n5 - Não é permitido ao funcionário ou agente o exercício de actividades privadas quando esse exercício se revele incompatível com o cumprimento dos deveres estabelecidos na lei ou seja susceptível de comprometer a isenção exigida ao exercício das respectivas funções.\n\n6 - O funcionário ou agente que, por força do exercício das suas funções, se deva pronunciar sobre assunto ou matéria em que tenha interesse pessoal, que possa comprometer a sua independência, deverá dar disso informação ou requerer escusa."
+  },
+  "163046118": {
+   "fragment_id": "163046179",
+   "type": 11,
+   "heading": "Artigo 52.º — Regime especial de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Regime especial de trabalho\n\n1 - O pessoal permanente da Assembleia da República tem regime especial de trabalho, decorrente da natureza e das condições de funcionamento próprias da Assembleia da República.\n\n2 - Este regime é fixado por deliberação do Conselho de Administração, podendo compreender, nomeadamente, horário especial de trabalho, regime de trabalho extraordinário, prestação de serviços por turnos e remuneração suplementar, ficando sempre ressalvados os direitos fundamentais dos trabalhadores consignados na Constituição da República Portuguesa e na lei geral.\n\n3 - A remuneração suplementar a que se refere o número anterior é calculada com base no vencimento, acrescido de diuturnidades, sendo paga em doze duodécimos, e faz parte integrante do vencimento, contando para todos os efeitos, designadamente os de aposentação, não sendo acumulável com quaisquer outras remunerações acessórias ou abonos, salvo as gratificações previstas nos artigos 25.º, n.º 3, e 26.º, n.º 4.\n\n4 - Em situações excepcionais de funcionamento dos serviços da Assembleia da República pode ser atribuído ao respectivo pessoal um subsídio de alimentação e transporte.\n\n5 - A aplicação do regime de trabalho previsto nos números anteriores ao pessoal dos gabinetes do Presidente da Assembleia da República e dos grupos parlamentares é da competência do Presidente da Assembleia da República e da direcção dos grupos parlamentares, respectivamente."
+  },
+  "163046119": {
+   "fragment_id": "163046180",
+   "type": 11,
+   "heading": "Artigo 53.º — Regime remuneratório do pessoal da Assembleia da República e dos gabinetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Regime remuneratório do pessoal da Assembleia da República e dos gabinetes\n\nO regime remuneratório do pessoal da Assembleia da República e do pessoal dos gabinetes do Presidente da Assembleia da República e dos grupos parlamentares ou equiparado será fixado pelo Presidente da Assembleia da República, obtido o parecer favorável do Conselho de Administração, sem prejuízo do anexo I à presente Lei."
+  },
+  "163046120": {
+   "fragment_id": "163046181",
+   "type": 11,
+   "heading": "Artigo 54.º — Bolsas de estudo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Bolsas de estudo\n\n1 - Para aperfeiçoamento dos funcionários da Assembleia da República poderão ser concedidas bolsas de estudo ou a equiparação a bolseiro para a frequência de cursos e estágios em instituições nacionais ou organismos internacionais.\n\n2 - A concessão de bolsas de estudo ou a equiparação a bolseiro é da competência do Presidente da Assembleia da República, mediante proposta fundamentada do secretário-geral da Assembleia da República, com o parecer favorável do Conselho de Administração.\n\n3 - As condições, direitos e obrigações dos bolseiros constarão de regulamento a aprovar pelo Conselho de Administração, mediante proposta do secretário-geral da Assembleia da República."
+  },
+  "163046121": {
+   "fragment_id": "163046182",
+   "type": 8,
+   "heading": "Secção II — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Pessoal dirigente"
+  },
+  "163046122": {
+   "fragment_id": "163046183",
+   "type": 11,
+   "heading": "Artigo 55.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Nomeação\n\n1 - Os directores-gerais, directores de serviços e chefes de divisão são nomeados por despacho do Presidente da Assembleia da República, obtido prévio parecer favorável do Conselho de Administração, com observância dos requisitos legais adequados ao desempenho das respectivas funções, e escolhidos preferentemente de entre funcionários já pertencentes ao quadro da Assembleia da República, habilitados com licenciatura e de reconhecida competência para o desempenho do lugar.\n\n2 - Os directores-gerais são providos em comissão de serviço pelo período da legislatura.\n\n3 - A comissão de serviço será dada por finda nos termos previstos na lei geral.\n\n4 - Os directores-gerais poderão ser apoiados por funcionários por si designados, dos respectivos serviços, em número não superior a dois, para exercerem funções de secretariado."
+  },
+  "163046124": {
+   "fragment_id": "163046185",
+   "type": 11,
+   "heading": "Artigo 57.º — Directores de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Directores de serviços\n\n1 - Aos directores de serviços compete superintender, orientar e coordenar os serviços das respectivas direcções, bem como velar pela assiduidade e disciplina do pessoal que lhes está afecto.\n\n2 - Compete especialmente aos directores de serviços:\n\na) Coadjuvar o director-geral no desempenho das suas funções, dando-lhe conhecimento imediato de tudo quanto possa influir no funcionamento dos serviços, prestar-lhe toda a cooperação e sugerir-lhe as providências que reputem de convenientes;\n\nb) Superintender nos serviços da direcção e promover o seu regular andamento, a resolução de todas as dúvidas que lhes forem apresentadas pelos seus subordinados e o cumprimento dos despachos do director-geral;\n\nc) Promover a instauração de processos disciplinares e propor louvores aos funcionários seus subordinados;\n\nd) Emitir parecer nos processos que devam submeter à apreciação do director-geral ainda que já estejam informados por funcionários seus subordinados, podendo, no entanto, limitar-se a manifestar por escrito a sua concordância com os pareceres e informações destes;\n\ne) Praticar quaisquer outros actos para que tenham recebido delegação do director-geral;\n\nf) Executar tudo o mais de que forem incumbidos pelo director-geral no âmbito das atribuições da direcção de serviços.\n\n3 - Os directores de serviços serão substituídos nas suas faltas ou impedimentos pelos chefes de divisão que por eles forem designados."
+  },
+  "163046125": {
+   "fragment_id": "163046186",
+   "type": 11,
+   "heading": "Artigo 58.º — Chefes de divisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Chefes de divisão\n\n1 - Aos chefes de divisão compete especialmente:\n\na) Promover a organização interna dos serviços;\n\nb) Coordenar os trabalhos próprios dos seus serviços, garantindo a sua execução e controle;\n\nc) Coadjuvar os directores de serviços na observância das regras de assiduidade e disciplina pelo pessoal das respectivas divisões.\n\n2 - Os chefes de divisão serão substituídos nas suas faltas ou impedimentos pelo funcionário de categoria imediatamente inferior que por eles for designado."
+  },
+  "163046126": {
+   "fragment_id": "163046187",
+   "type": 8,
+   "heading": "Secção III — Requisição, destacamento, prestação de serviços e pessoal além do quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Requisição, destacamento, prestação de serviços e pessoal além do quadro"
+  },
+  "163046127": {
+   "fragment_id": "163046188",
+   "type": 11,
+   "heading": "Artigo 59.º — Requisição de técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Requisição de técnicos\n\n1 - O Presidente da Assembleia da República, obtido o parecer favorável do Conselho de Administração, pode autorizar a requisição ou o destacamento, nos termos da lei geral, de funcionários de outros departamentos do Estado para prestarem serviço na Assembleia da República.\n\n2 - O Presidente da Assembleia da República, obtido o parecer favorável do Conselho de Administração, pode ainda autorizar a requisição de técnicos de empresas públicas ou privadas, assim como de outros organismos, por período julgado necessário, nos termos seguintes:\n\na) Os requisitados mantêm sempre os direitos e regalias sociais adquiridos e designadamente os emergentes de instrumento de regulamentação colectiva de trabalho;\n\nb) Os requisitados auferem, por inteiro, as remunerações inerentes aos cargos que exerciam, acrescidas das compensações de encargos decorrentes da requisição que forem fixadas por despacho do Presidente da Assembleia da República, ouvido o Conselho de Administração;\n\nc) Estas requisições só poderão ser realizadas com a concordância dos requisitados e dos respectivos serviços.\n\n3 - As requisições previstas nos números anteriores visam preferentemente a realização de trabalhos de carácter técnico, nomeadamente para apoio às comissões, a solicitação dos respectivos presidentes.\n\n4 - O pessoal requisitado ou destacado nos termos dos números anteriores tem de possuir as qualificações académicas e profissionais exigidas para os funcionários do quadro da Assembleia da República.\n\n5 - A requisição ou destacamento de pessoal que não satisfaça os requisitos previstos no número anterior cessa automaticamente com a entrada em vigor da presente Lei."
+  },
+  "163046128": {
+   "fragment_id": "163046189",
+   "type": 11,
+   "heading": "Artigo 60.º — Prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Prestação de serviços\n\n1 - O Presidente da Assembleia da República, obtido o parecer favorável do Conselho de Administração, pode:\n\na) Encomendar estudos e serviços;\n\nb) Convidar entidades nacionais e estrangeiras para realizar estudos, inquéritos ou trabalhos de carácter eventual;\n\nc) Contratar pessoal em regime de tarefa.\n\n2 - As modalidades de prestação de serviços e as condições gerais da sua realização são estabelecidas pelo Presidente da Assembleia da República, ouvido o Conselho de Administração, sob proposta do secretário-geral da Assembleia da República.\n\n3 - As despesas a que houver lugar nos termos deste artigo são suportadas por força de verba global a inscrever para tal fim no orçamento da Assembleia da República."
+  },
+  "163046130": {
+   "fragment_id": "163046191",
+   "type": 1,
+   "heading": "Capítulo VII — Apoio aos partidos e grupos parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Apoio aos partidos e grupos parlamentares"
+  },
+  "163046131": {
+   "fragment_id": "163046192",
+   "type": 11,
+   "heading": "Artigo 62.º — Gabinetes dos grupos parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Gabinetes dos grupos parlamentares\n\n1 - Os grupos parlamentares dispõem de gabinetes constituídos por pessoal da sua livre escolha e nomeação nos termos seguintes:\n\na) Até dois deputados, inclusive: um adjunto, um secretário e um secretário auxiliar;\n\nb) Com mais de dois e até dez deputados, inclusive: um chefe de gabinete, um adjunto, um secretário e dois secretários auxiliares;\n\nc) Com mais de dez e até vinte deputados, inclusive: um chefe de gabinete, dois adjuntos, dois secretários e três secretários auxiliares;\n\nd) Com mais de vinte e até trinta deputados, inclusive: um chefe de gabinete, três adjuntos, três secretários e três secretários auxiliares;\n\ne) Com mais de trinta deputados: um chefe de gabinete, três adjuntos, três secretários e três secretários auxiliares, e ainda, por cada conjunto de vinte e cinco deputados ou resto superior a dez, mais um adjunto, um secretário e um secretário auxiliar.\n\n2 - A pedido dos grupos parlamentares, o Presidente da Assembleia da República, ouvido o Conselho de Administração, pode alterar a composição do quadro do pessoal daqueles, desde que não resulte agravamento da respectiva despesa global.\n\n3 - A nomeação e exoneração do pessoal referido nos números anteriores é da responsabilidade da direcção do respectivo grupo parlamentar, sendo-lhe aplicável o regime em vigor para os gabinetes ministeriais, sem prejuízo do disposto nos artigos 52.º, n.º 5, e 53.º\n\n4 - O vencimento dos secretários auxiliares é fixado em 85% do vencimento dos secretários.\n\n5 - Ao pessoal referido neste artigo é aplicável o disposto no n.º 3 do artigo 10.º\n\n6 - Aos agrupamentos parlamentares, quando existirem, são aplicáveis, com as necessárias adaptações, as disposições da presente Lei."
+  },
+  "163046132": {
+   "fragment_id": "163046193",
+   "type": 11,
+   "heading": "Artigo 63.º — Subvenções aos partidos e grupos parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Subvenções aos partidos e grupos parlamentares\n\n1 - A cada um dos partidos que hajam concorrido ao acto eleitoral, ainda que em coligação, representados na Assembleia da República é concedida, nos termos dos números seguintes, uma subvenção anual para a realização dos seus fins próprios, desde que a requeiram ao Presidente da Assembleia da República.\n\n2 - A subvenção consiste numa quantia em dinheiro equivalente à fracção 1/225 do salário mínimo nacional por cada voto obtido na mais recente eleição de deputados à Assembleia da República.\n\n3 - Nos casos de coligação eleitoral, a subvenção devida a cada um dos partidos nela integrados é igual à subvenção que, nos termos do n.º 2, corresponder à respectiva coligação eleitoral, distribuída proporcionalmente em função dos deputados eleitos por cada partido.\n\n4 - Aos grupos parlamentares será atribuída uma subvenção para encargos de assessoria aos deputados não inferior a quatro vezes o salário mínimo nacional anual por grupo parlamentar, mais um terço do mesmo por deputado.\n\n5 - Os grupos parlamentares originários de partidos que tenham concorrido em determinada coligação ao acto eleitoral serão considerados como um só grupo parlamentar para os efeitos do número anterior.\n\n6 - As subvenções referidas no presente artigo são pagas em duodécimos, por conta de dotações especiais inscritas no orçamento da Assembleia da República."
+  },
+  "163046133": {
+   "fragment_id": "163046194",
+   "type": 1,
+   "heading": "Capítulo VIII — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Orçamento"
+  },
+  "163046134": {
+   "fragment_id": "163046195",
+   "type": 8,
+   "heading": "Secção I — Processo orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Processo orçamental"
+  },
+  "163046135": {
+   "fragment_id": "163046196",
+   "type": 11,
+   "heading": "Artigo 64.º — Elaboração do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Elaboração do orçamento\n\n1 - O projecto de orçamento é elaborado até 15 de Outubro de cada ano pelos serviços competentes, sob a coordenação do secretário-geral da Assembleia da República, de acordo com as orientações e objectivos previamente fixados pelo Conselho de Administração, que o submete à apreciação do Plenário.\n\n2 - O orçamento da Assembleia da República é aprovado pelo Plenário nos 30 dias subsequentes à aprovação do Orçamento do Estado."
+  },
+  "163046136": {
+   "fragment_id": "163046197",
+   "type": 11,
+   "heading": "Artigo 65.º — Orçamento suplementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Orçamento suplementar\n\nAs alterações ao orçamento da Assembleia da República são realizadas através de orçamento suplementar, até ao máximo de três, os quais serão elaborados nos termos e com as devidas adaptações do artigo anterior."
+  },
+  "163046137": {
+   "fragment_id": "163046198",
+   "type": 11,
+   "heading": "Artigo 66.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Receitas\n\n1 - Constituem receitas da Assembleia da República:\n\na) As dotações inscritas no Orçamento do Estado;\n\nb) Os saldos de anos findos;\n\nc) O produto das edições e publicações;\n\nd) Os direitos de autor;\n\ne) As demais receitas que lhe forem atribuídas por lei, resolução da Assembleia, contrato, sucessão ou doação.\n\n2 - Os saldos positivos apurados no fim de cada ano económico são transferidos para a gerência do ano seguinte e distribuídos pelo Conselho de Administração pelas rubricas cujo reforço se mostre necessário em função dos programas aprovados."
+  },
+  "163046138": {
+   "fragment_id": "163046199",
+   "type": 11,
+   "heading": "Artigo 67.º — Reserva de propriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Reserva de propriedade\n\n1 - A Assembleia da República é a única proprietária de toda a produção material resultante do seu funcionamento, sem prejuízo dos direitos de autor dos deputados.\n\n2 - É vedado a quaisquer órgãos da Administração Pública, empresas públicas ou nacionalizadas e a entidades privadas a edição ou a comercialização da produção referida no número anterior sem prévio assentimento do Presidente da Assembleia da República, manifestado nos termos da lei ou através de contrato."
+  },
+  "163046139": {
+   "fragment_id": "163046200",
+   "type": 11,
+   "heading": "Artigo 68.º — Autorização de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Autorização de despesas\n\nOs limites de competência para autorização de despesas relativamente aos directores-gerais, ao secretário-geral da Assembleia da República, ao Conselho de Administração e ao Presidente da Assembleia da República são os que vigoram, nos termos da lei geral, respectivamente, para os directores-gerais, para os dirigentes dos órgãos dotados de autonomia administrativa, para o Primeiro-Ministro e para o Conselho de Ministros."
+  },
+  "163046140": {
+   "fragment_id": "163046201",
+   "type": 8,
+   "heading": "Secção II — Execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Execução orçamental"
+  },
+  "163046141": {
+   "fragment_id": "163046202",
+   "type": 11,
+   "heading": "Artigo 69.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Execução\n\nA execução do orçamento da Assembleia da República é feita através dos serviços, nos termos previstos nesta lei."
+  },
+  "163046142": {
+   "fragment_id": "163046203",
+   "type": 11,
+   "heading": "Artigo 70.º — Requisição de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Requisição de fundos\n\n1 - O Conselho de Administração requisitará mensalmente à 1.ª Delegação da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias por conta da dotação global que lhe é consignada no Orçamento do Estado.\n\n2 - As requisições referidas no número anterior, depois de visadas pela mesma Delegação, serão expedidas, com as competentes autorizações de pagamento, para o Banco de Portugal, como caixa geral do Tesouro, sendo as importâncias levantadas pela Assembleia da República e por ela depositadas, à sua ordem, na Caixa Geral de Depósitos."
+  },
+  "163046143": {
+   "fragment_id": "163046204",
+   "type": 11,
+   "heading": "Artigo 71.º — Regime duodecimal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Regime duodecimal\n\nCompete ao Presidente da Assembleia da República, obtido parecer favorável do Conselho de Administração, autorizar a dispensa do regime duodecimal de qualquer das dotações orçamentais da Assembleia da República e, bem assim, solicitar a antecipação, total ou parcial, dos respectivos duodécimos."
+  },
+  "163046144": {
+   "fragment_id": "163046205",
+   "type": 11,
+   "heading": "Artigo 72.º — Fundo permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Fundo permanente\n\nO Conselho de Administração poderá autorizar a constituição de fundos permanentes, a cargo dos responsáveis pelos serviços ou actividades, destinados ao pagamento directo de pequenas despesas, devendo fixar as regras a que obedecerá o seu controle."
+  },
+  "163046145": {
+   "fragment_id": "163046206",
+   "type": 8,
+   "heading": "Secção III — Fiscalização orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Fiscalização orçamental"
+  },
+  "163046146": {
+   "fragment_id": "163046207",
+   "type": 11,
+   "heading": "Artigo 73.º — Conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Conta\n\n1 - O relatório e a conta são organizados pelos serviços competentes, sob a directa coordenação do secretário-geral da Assembleia da República, que os submeterá ao Conselho de Administração até 15 de Abril do ano seguinte àquele a que disserem respeito.\n\n2 - O relatório e a conta da Assembleia da República são aprovados pelo Plenário, após o parecer do Tribunal de Contas, a emitir até 31 de Maio.\n\n3 - A conta é publicada no Diário da República."
+  },
+  "163046147": {
+   "fragment_id": "163046208",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições finais e transitórias"
+  },
+  "163046148": {
+   "fragment_id": "163046209",
+   "type": 11,
+   "heading": "Artigo 74.º — Instalações dos CTT, TLP e serviço bancário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Instalações dos CTT, TLP e serviço bancário\n\n1 - Os serviços das empresas públicas Correios e Telecomunicações de Portugal - CTT e dos Telefones de Lisboa e Porto - TLP dispõem de instalações próprias no Palácio de São Bento.\n\n2 - Idêntica prerrogativa poderá ser concedida à Caixa Geral de Depósitos ou outra instituição bancária, mediante despacho do Presidente da Assembleia da República, obtido prévio parecer favorável do Conselho de Administração."
+  },
+  "163046149": {
+   "fragment_id": "163046210",
+   "type": 11,
+   "heading": "Artigo 75.º — Gratificação ao destacamento da Guarda Nacional Republicana e da Polícia de Segurança Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Gratificação ao destacamento da Guarda Nacional Republicana e da Polícia de Segurança Pública\n\nAo pessoal da Guarda Nacional Republicana e da Polícia de Segurança Pública destacado para a segurança da Assembleia da República é atribuída a gratificação prevista para o dos outros órgãos de soberania, cujos encargos são suportados pelo orçamento da Assembleia da República."
+  },
+  "163046150": {
+   "fragment_id": "163046211",
+   "type": 11,
+   "heading": "Artigo 76.º — Legislação aplicável e direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Legislação aplicável e direito subsidiário\n\n1 - Os serviços da Assembleia da República regem-se pelo disposto na presente Lei e nos seus regulamentos.\n\n2 - Constitui direito subsidiário para a integração de lacunas da presente Lei e seus regulamentos a legislação aplicável à administração central do Estado."
+  },
+  "163046153": {
+   "fragment_id": "163046214",
+   "type": 11,
+   "heading": "Artigo 79.º — Execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Execução orçamental\n\nFica o Conselho de Administração autorizado a promover as alterações orçamentais que se mostrem indispensáveis para a execução da presente Lei."
+  },
+  "163046154": {
+   "fragment_id": "163046215",
+   "type": 11,
+   "heading": "Artigo 80.º — Direito à integração do pessoal dos gabinetes dos grupos e agrupamentos parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Direito à integração do pessoal dos gabinetes dos grupos e agrupamentos parlamentares\n\n1 - Ao pessoal em serviço nos gabinetes dos grupos parlamentares e agrupamentos parlamentares existentes no início da presente legislatura que exceda o número de lugares que lhe são atribuídos na presente Lei é reconhecido o direito à sua integração como supranumerário na Assembleia da República se reunir os seguintes requisitos:\n\na) Pertencer aos respectivos gabinetes antes da data da entrada em vigor da presente Lei;\n\nb) Ter exercido funções durante, pelo menos, dois anos;\n\nc) Não possuir cargo ou emprego público ou privado de carácter permanente;\n\nd) Possuir as habilitações literárias exigidas para a respectiva categoria.\n\n2 - A integração é requerida pelo interessado ao Presidente da Assembleia da República no prazo de 30 dias a contar da data da efectivação dos seus pressupostos.\n\n3 - Salvo no caso de extinção, o requerimento referido no número anterior é acompanhado de uma declaração do respectivo grupo parlamentar ou do correspondente partido a manifestar a sua aquiescência.\n\n4 - A integração será feita para o lugar de início de carreira, de acordo com as funções desempenhadas e as respectivas habilitações, sem prejuízo do direito de acesso na respectiva carreira, nos termos e condições previstos para o pessoal do quadro da Assembleia da República."
+  },
+  "163046155": {
+   "fragment_id": "163046216",
+   "type": 11,
+   "heading": "Artigo 81.º — Norma interpretativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Norma interpretativa\n\n1 - O disposto no n.º 3 do artigo 52.º aplica-se à remuneração suplementar prevista no n.º 2 do artigo 21.º da Lei n.º 32/77, de 25 de Maio.\n\n2 - Os funcionários da Assembleia da República que se tenham aposentado e efectuado descontos sobre a remuneração suplementar referida no número anterior poderão requerer à Caixa Geral de Aposentações, no prazo de 90 dias após a publicação da presente Lei, a revisão das suas pensões, cujo efeito retrotrairá a 31 de Dezembro de 1986."
+  },
+  "163046157": {
+   "fragment_id": "163046218",
+   "type": 14,
+   "heading": "Anexo I — Quadro de pessoal da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Quadro de pessoal da Assembleia da República\n\n(ver documento original)"
+  },
+  "163046158": {
+   "fragment_id": "163046219",
+   "type": 14,
+   "heading": "Anexo II — Conteúdos funcionais das carreiras e categorias não insertas em carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Conteúdos funcionais das carreiras e categorias não insertas em carreiras\n\n(ver documento original)"
+  },
+  "163046159": {
+   "fragment_id": "163046220",
+   "type": 14,
+   "heading": "Anexo III — Formas de ingresso e acesso nas carreiras e métodos de selecção a utilizar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Formas de ingresso e acesso nas carreiras e métodos de selecção a utilizar\n\n(ver documento original)"
+  },
+  "163046160": {
+   "fragment_id": "163046221",
+   "type": 14,
+   "heading": "Anexo IV — Carreiras de informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Carreiras de informática\n\nCursos de formação\n\nExigências mínimas de formação\n\nI - Informação tipo A\n\nRegisto de dados - 40 horas:\n\n1) Noções gerais de informática;\n\n2) Registo de dados (teoria/prática).\n\nII - Formação tipo B\n\nTécnicas de base de operação I - 50 horas:\n\n1) Introdução aos computadores;\n\n2) Organização de ficheiros e métodos de acesso.\n\nIII - Formação tipo C\n\nTécnicas de base de operação II - 100 horas:\n\n1) Introdução ao sistema de exploração;\n\n2) Funções do sistema de exploração;\n\n3) Linguagem de controle de trabalhos;\n\n4) Técnicas de operação.\n\nIV - Formação tipo D\n\nTécnicas avançadas de operação - 100 horas:\n\n1) Gestão das operações;\n\n2) Introdução ao teleprocessamento;\n\n3) Fundamentos da linguagem Assembler.\n\nV - Formação tipo E\n\nDirecção e gestão de centros de TAI - 120 horas:\n\n1) A informática nas organizações;\n\n2) Organização e gestão de centros de TAI;\n\n3) Registo de dados;\n\n4) Acondicionamento físico dos locais para instalação dos centros de TAI;\n\n5) Caderno de encargos e selecção de equipamentos;\n\n6) Segurança dos sistemas informáticos;\n\n7) Segurança dos centros de TAI.\n\nVI - Formação tipo F\n\nTécnicas de programação - 290 horas:\n\n1) Noções gerais de informática;\n\n2) Organização de ficheiros e métodos de acesso;\n\n3) Introdução aos computadores;\n\n4) Introdução à programação;\n\n5) Linguagem de programação;\n\n6) Aplicações;\n\n7) Documentação, testes e depuração.\n\nVII - Formação tipo G\n\nTécnicas avançadas de programação - 80 horas:\n\n1) Teóricas auxiliares de programação;\n\n2) Estruturas de dados (tabelas, listas, pilhas, sua manipulação e representação em memória).\n\nVIII - Formação tipo H\n\nProgramação de sistema - 180 horas:\n\n1) Programação Assembler;\n\n2) Conceitos e técnicas de sistema de exploração;\n\n3) Estudo do sistema de exploração.\n\nIX - Formação tipo I\n\nAnálise de sistemas - 420 horas:\n\n1) Tecnologia dos computadores;\n\n2) Métodos de análise e planeamento;\n\n3) Métodos e técnicas de organização;\n\n4) Introdução à programação;\n\n5) Análise informática;\n\n6) Organização de um serviço de informática;\n\n7) Caderno de encargos e selecção de equipamentos;\n\n8) Trabalhos práticos.\n\nX - Formação tipo J\n\nBase de dados - 200 horas:\n\n1) Conceito de base de dados;\n\n2) Introdução ao SGBD;\n\n3) Programação-utilização de base de dados (lotes);\n\n4) Concepção de base de dados;\n\n5) Estruturas físicas e estruturas lógicas de base de dados;\n\n6) Programação-utilização de base de dados (tempo real);\n\n7) Definição de transacções em tempo real;\n\n8) Programação avançada de base de dados;\n\n9) Definição e concepção de sistema de base de dados.\n\nXI - Formação tipo K\n\nCorrespondentes de informática - 144 horas:\n\n1) Introdução aos computadores;\n\n2) Noções gerais de programação;\n\n3) Registo de dados: equipamento e suportes;\n\n4) Tabelas de decisão;\n\n5) Organização;\n\n6) Introdução à análise;\n\n7) Caso prático.\n\nO Presidente da Assembleia da República, Vitor Pereira Crespo"
+  },
+  "163046081": {
+   "fragment_id": "163036642",
+   "type": 11,
+   "heading": "Artigo 25.º — Âmbito funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Âmbito funcional\n\n1 - São atribuições da Assessoria Jurídica o apoio técnico e a consulta jurídica.\n\n2 - À Assessoria Jurídica compete:\n\na) Verificar, relativamente aos textos dos processos legislativos e normativos que lhe sejam submetidos para apreciação, o seu rigor técnico-jurídico, propondo as alterações que se mostrarem necessárias;\n\nb) Verificar a redacção final dos textos da Assembleia da República, de acordo com as deliberações dos seus órgãos, e promover a preparação dos respectivos autógrafos;\n\nc) Dar pareceres e informações e proceder a estudos jurídicos sobre quaisquer assuntos que lhe sejam submetidos pelo Presidente da Assembleia da República.\n\n3 - A Assessoria Jurídica é coordenada por um dos respectivos assessores jurídicos, a designar pelo Presidente da Assembleia da República, ao qual será atribuída e fixada pelo Presidente da Assembleia da República, ouvido o Conselho de Administração, uma gratificação, a integrar na remuneração suplementar prevista no artigo 52.º, n.º 3."
+  },
+  "163046083": {
+   "fragment_id": "163036644",
+   "type": 11,
+   "heading": "Artigo 26.º — Âmbito funcional e estruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Âmbito funcional e estruturação\n\n1 - O Gabinete de Estudos Parlamentares constitui um serviço de estudo e de consulta especializada.\n\n2 - Compete ao Gabinete de Estudos Parlamentares efectuar os estudos e trabalhos de investigação e informação de que for incumbido pelo Presidente da Assembleia da República, ouvidos os presidentes das comissões parlamentares em conjunto ou competentes em razão da matéria.\n\n3 - O Gabinete de Estudos Parlamentares será estruturado por áreas, por decisão do Presidente da Assembleia da República, ouvido o Conselho de Administração.\n\n4 - As funções atribuídas ao Gabinete de Estudos serão desempenhadas por indivíduos habilitados com licenciatura e de reconhecida competência, cabendo ao Presidente da Assembleia da República designar de entre eles o coordenador, que perceberá uma gratificação, nos termos do n.º 3 do artigo 25.º"
+  },
+  "163046085": {
+   "fragment_id": "163036646",
+   "type": 3,
+   "heading": "Subsecção I — Unidades orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Unidades orgânicas"
+  },
+  "163046168": {
+   "fragment_id": "163036647",
+   "type": 11,
+   "heading": "Artigo 27.º — Estrutura",
+   "in_force_from": "1988-07-06",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+   ],
+   "markdown": "###### Artigo 27.º — Estrutura\n\nOs serviços da Assembleia da República compreendem ainda as seguintes unidades orgânicas:\n\na) A Direcção-Geral de Apoio Parlamentar;\n\nb) A Direcção-Geral de Administração e Informática;\n\nc)A Direcção de Serviços de Relações Públicas e Internacionais;\n\nd) O Museu.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+  },
+  "163046087": {
+   "fragment_id": "163036648",
+   "type": 3,
+   "heading": "Subsecção II — Direcção-Geral de Apoio Parlamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Direcção-Geral de Apoio Parlamentar"
+  },
+  "163046089": {
+   "fragment_id": "163036650",
+   "type": 11,
+   "heading": "Artigo 29.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências\n\nCompete à Direcção-Geral de Apoio Parlamentar, designadamente:\n\na) Apoiar a Mesa da Assembleia da República;\n\nb) Organizar os processos relativos à actividade legislativa e de fiscalização e a outros actos decorrentes do funcionamento da Assembleia da República;\n\nc) Garantir apoio técnico ao Plenário e às comissões parlamentares;\n\nd) Apoiar, em matéria de documentação e informação, os deputados e os órgãos e serviços da Assembleia da República;\n\ne) Assegurar o apoio administrativo e de secretariado ao Plenário e às comissões parlamentares;\n\nf) Garantir a elaboração e edição do Diário da Assembleia da República e de outras actas parlamentares;\n\ng) Planificar, redigir, editar e difundir as publicações da Assembleia da República;\n\nh) Recolher e tratar a informação difundida pelos órgãos de comunicação social com interesse para as actividades decorrentes do funcionamento da Assembleia da República;\n\ni) Constituir, organizar, conservar e inventariar o património documental;\n\nj) Inventariar, tratar e conservar as espécies documentais e bibliográficas respeitantes à história das instituições políticas portuguesas e, designadamente, do constitucionalismo."
+  },
+  "163046090": {
+   "fragment_id": "163036651",
+   "type": 11,
+   "heading": "Artigo 30.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Estrutura\n\nA Direcção-Geral de Apoio Parlamentar compreende:\n\na) A Direcção de Serviços de Apoio Técnico e de Secretariado;\n\nb) A Direcção de Serviços de Documentação e Informação."
+  },
+  "163046094": {
+   "fragment_id": "163036655",
+   "type": 3,
+   "heading": "Subsecção III — Direcção-Geral de Administração e Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Direcção-Geral de Administração e Informática"
+  },
+  "163046095": {
+   "fragment_id": "163036656",
+   "type": 11,
+   "heading": "Artigo 34.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Atribuições\n\nA Direcção-Geral de Administração e Informática é a unidade orgânica especialmente encarregada da gestão dos recursos humanos, financeiros e patrimoniais, bem como das funções administrativa e de informática."
+  },
+  "163046096": {
+   "fragment_id": "163036657",
+   "type": 11,
+   "heading": "Artigo 35.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Competência\n\nÀ Direcção-Geral de Administração e Informática compete assegurar:\n\na) A gestão dos recursos humanos, realizando as acções relacionadas com o recrutamento, selecção, avaliação, promoção e formação do pessoal;\n\nb) A preparação do orçamento e conta e a gestão administrativa e financeira;\n\nc) A gestão dos recursos patrimoniais;\n\nd) A análise organizacional e o tratamento automático da informação."
+  },
+  "163046097": {
+   "fragment_id": "163036658",
+   "type": 11,
+   "heading": "Artigo 36.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Estrutura\n\nA Direcção-Geral de Administração e Informática compreende:\n\na) A Direcção de Serviços Administrativos e Financeiros;\n\nb) O Centro de Informática."
+  },
+  "163046100": {
+   "fragment_id": "163036661",
+   "type": 3,
+   "heading": "Subsecção IV — Direcção de Serviços de Relações Públicas e Internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Direcção de Serviços de Relações Públicas e Internacionais"
+  },
+  "163046102": {
+   "fragment_id": "163036663",
+   "type": 11,
+   "heading": "Artigo 40.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Competências\n\nÀ Direcção de Serviços de Relações Públicas e Internacionais compete:\n\na) Promover a divulgação da actividade da Assembleia da República no País e no estrangeiro;\n\nb) Prestar apoio às delegações parlamentares nas organizações internacionais e nas missões oficiais ao estrangeiro;\n\nc) Apoiar os órgãos de comunicação social na sua actividade de informação parlamentar;\n\nd) Planear e colaborar na realização de solenidades, comemorações e visitas à Assembleia da República e assegurar o respectivo protocolo;\n\ne) Assegurar o serviço de recepção."
+  },
+  "163046103": {
+   "fragment_id": "163036664",
+   "type": 11,
+   "heading": "Artigo 41.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Estrutura\n\nA Direcção de Serviços de Relações Públicas e Internacionais compreende:\n\na) A Divisão de Relações Públicas;\n\nb) A Divisão de Relações Internacionais e Interparlamentares."
+  },
+  "163046104": {
+   "fragment_id": "163036665",
+   "type": 3,
+   "heading": "Subsecção V — Museu da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção V — Museu da Assembleia da República"
+  },
+  "163046123": {
+   "fragment_id": "163046184",
+   "type": 11,
+   "heading": "Artigo 56.º — Directores-gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Directores-gerais\n\n1 - Aos directores-gerais compete a direcção e orientação superior de todos os serviços da respectiva direcção-geral e despachar directamente todos os assuntos que caibam no âmbito das atribuições da direcção-geral e que, pela sua natureza ou disposição da lei, não devam ser sujeitos a resolução superior.\n\n2 - Aos directores-gerais compete ainda:\n\na) Adoptar as medidas necessárias à melhor organização dos serviços e à simplificação e uniformização dos métodos de trabalho;\n\nb) Autorizar despesas, nos termos e limites previstos na lei, e gerir os fundos permanentes que forem afectados à direcção-geral;\n\nc) Propor os louvores merecidos pelos funcionários por motivos de serviços distintos;\n\nd) Promover a acção disciplinar;\n\ne) Colocar e distribuir o pessoal pelos diferentes serviços da respectiva direcção-geral.\n\n3 - Os directores-gerais poderão delegar o exercício de algumas das suas competências nos directores de serviços que lhes estejam directamente subordinados e subdelegar o daquelas que lhes tiverem sido delegadas com autorização expressa para subdelegar.\n\n4 - Os directores-gerais serão substituídos nas suas faltas ou impedimentos pelos directores de serviços que por eles forem designados."
+  },
+  "163046129": {
+   "fragment_id": "163046190",
+   "type": 11,
+   "heading": "Artigo 61.º — Pessoal além do quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Pessoal além do quadro\n\n1 - O Presidente da Assembleia da República, obtido prévio parecer favorável do Conselho de Administração, pode autorizar, a título excepcional, a contratação de pessoal além do quadro para a realização de tarefas que não possam ser asseguradas pelo pessoal permanente.\n\n2 - As comissões parlamentares podem ainda dispor de pessoal técnico contratado além do quadro, mediante deliberação favorável da respectiva comissão e proposta apresentada pelo seu presidente ao Presidente da Assembleia da República.\n\n3 - O número de técnicos contratados ao abrigo do número anterior não pode ser superior a doze, competindo ao Presidente da Assembleia da República, ouvidos os presidentes das comissões, definir as prioridades da sua afectação.\n\n4 - Os técnicos a afectar às comissões são escolhidos mediante concurso aberto a todos os candidatos portadores de habilitação que a comissão considere adequada ao exercício das respectivas funções.\n\n5 - Os contratos a que se refere o n.º 2 têm a duração máxima de dois anos, sem prejuízo da sua renovação por deliberação, por maioria de dois terços, dos deputados em efectividade de funções na respectiva comissão.\n\n6 - Ao pessoal contratado nos termos do número anterior e que tenha vínculo à função pública ou que pertença a qualquer organismo público é garantido o seu lugar de origem e a contagem do tempo de serviço para todos os efeitos profissionais."
+  },
+  "163046151": {
+   "fragment_id": "163046212",
+   "type": 11,
+   "heading": "Artigo 77.º — Regularização das situações de acumulação e incompatibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Regularização das situações de acumulação e incompatibilidade\n\nOs funcionários que não satisfaçam o disposto no artigo 51.º devem regularizar a sua situação no prazo de 60 dias a contar da entrada em vigor desta lei."
+  },
+  "163046152": {
+   "fragment_id": "163046213",
+   "type": 11,
+   "heading": "Artigo 78.º — Exercício transitório de atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Exercício transitório de atribuições\n\n1 - Até à tomada de posse do Conselho de Administração, previsto no artigo 12.º, as respectivas atribuições serão da competência do actual Conselho Administrativo.\n\n2 - Às deliberações tomadas pelo Conselho Administrativo é aplicável, com as necessárias adaptações, o disposto nos artigos 14.º e 15.º"
+  },
+  "163046156": {
+   "fragment_id": "163046217",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 10 de Maio de 1988.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 22 de Junho de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 23 de Junho de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nÓRGÃOS E SERVIÇOS DA ASSEMBLEIA DA REPÚBLICA\n\n(ver documento original)"
+  },
+  "163090675": {
+   "fragment_id": "163046218",
+   "type": 14,
+   "heading": "Anexo I — Quadro de pessoal da Assembleia da República",
+   "in_force_from": "1992-08-11",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 24/92 - Diário da República n.º 180/1992, Série I-A de 1992-08-06](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-1992-283700), em vigor a partir de 1992-08-11",
+    "Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+   ],
+   "markdown": "## Anexo I — Quadro de pessoal da Assembleia da República\n\n(ver documento original)\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 24/92 - Diário da República n.º 180/1992, Série I-A de 1992-08-06](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-1992-283700), em vigor a partir de 1992-08-11\n\n> Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+  },
+  "163046170": {
+   "fragment_id": "163046219",
+   "type": 14,
+   "heading": "Anexo II — Conteúdos funcionais das carreiras e categorias não insertas em carreiras",
+   "in_force_from": "1988-07-06",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+   ],
+   "markdown": "## Anexo II — Conteúdos funcionais das carreiras e categorias não insertas em carreiras\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+  },
+  "163046171": {
+   "fragment_id": "163046220",
+   "type": 14,
+   "heading": "Anexo III — Formas de ingresso e acesso nas carreiras e métodos de selecção a utilizar",
+   "in_force_from": "1988-07-06",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+   ],
+   "markdown": "## Anexo III — Formas de ingresso e acesso nas carreiras e métodos de selecção a utilizar\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+  },
+  "163046172": {
+   "fragment_id": "163046221",
+   "type": 14,
+   "heading": "Anexo IV — Carreiras de informática",
+   "in_force_from": "1988-07-06",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+   ],
+   "markdown": "## Anexo IV — Carreiras de informática\n\nCursos de formação\n\nExigências mínimas de formação\n\nI - Informação tipo A\n\nRegisto de dados - 40 horas:\n\n1) Noções gerais de informática;\n\n2) Registo de dados (teoria/prática).\n\nII - Formação tipo B\n\nTécnicas de base de operação I - 50 horas:\n\n1) Introdução aos computadores;\n\n2) Organização de ficheiros e métodos de acesso.\n\nIII - Formação tipo C\n\nTécnicas de base de operação II - 100 horas:\n\n1) Introdução ao sistema de exploração;\n\n2) Funções do sistema de exploração;\n\n3) Linguagem de controle de trabalhos;\n\n4) Técnicas de operação.\n\nIV - Formação tipo D\n\nTécnicas avançadas de operação - 100 horas:\n\n1) Gestão das operações;\n\n2) Introdução ao teleprocessamento;\n\n3) Fundamentos da linguagem Assembler.\n\nV - Formação tipo E\n\nDirecção e gestão de centros de TAI - 120 horas:\n\n1) A informática nas organizações;\n\n2) Organização e gestão de centros de TAI;\n\n3) Registo de dados;\n\n4) Acondicionamento físico dos locais para instalação dos centros de TAI;\n\n5) Caderno de encargos e selecção de equipamentos;\n\n6) Segurança dos sistemas informáticos;\n\n7) Segurança dos centros de TAI.\n\nVI - Formação tipo F\n\nTécnicas de programação - 290 horas:\n\n1) Noções gerais de informática;\n\n2) Organização de ficheiros e métodos de acesso;\n\n3) Introdução aos computadores;\n\n4) Introdução à programação;\n\n5) Linguagem de programação;\n\n6) Aplicações;\n\n7) Documentação, testes e depuração.\n\nVII - Formação tipo G\n\nTécnicas avançadas de programação - 80 horas:\n\n1) Técnicas auxiliares de programação;\n\n2) Estruturas de dados (tabelas, listas, pilhas, sua manipulação e representação em memória).\n\nVIII - Formação tipo H\n\nProgramação de sistema - 180 horas:\n\n1) Programação Assembler;\n\n2) Conceitos e técnicas de sistema de exploração;\n\n3) Estudo do sistema de exploração.\n\nIX - Formação tipo I\n\nAnálise de sistemas - 420 horas:\n\n1) Tecnologia dos computadores;\n\n2) Métodos de análise e planeamento;\n\n3) Métodos e técnicas de organização;\n\n4) Introdução à programação;\n\n5) Análise informática;\n\n6) Organização de um serviço de informática;\n\n7) Caderno de encargos e selecção de equipamentos;\n\n8) Trabalhos práticos.\n\nX - Formação tipo J\n\nBase de dados - 200 horas:\n\n1) Conceito de base de dados;\n\n2) Introdução ao SGBD;\n\n3) Programação-utilização de base de dados (lotes);\n\n4) Concepção de base de dados;\n\n5) Estruturas físicas e estruturas lógicas de base de dados;\n\n6) Programação-utilização de base de dados (tempo real);\n\n7) Definição de transacções em tempo real;\n\n8) Programação avançada de base de dados;\n\n9) Definição e concepção de sistema de base de dados.\n\nXI - Formação tipo K\n\nCorrespondentes de informática - 144 horas:\n\n1) Introdução aos computadores;\n\n2) Noções gerais de programação;\n\n3) Registo de dados: equipamento e suportes;\n\n4) Tabelas de decisão;\n\n5) Organização;\n\n6) Introdução à análise;\n\n7) Caso prático.\n\nO Presidente da Assembleia da República, Vitor Pereira Crespo\n\n> Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+  },
+  "163691250": {
+   "fragment_id": "163036615",
+   "type": 8,
+   "heading": "Secção II — Presidente e Mesa da Assembleia da República",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "#### Secção II — Presidente e Mesa da Assembleia da República\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163691251": {
+   "fragment_id": "163036618",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete do Presidente",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 8.º — Gabinete do Presidente\n\n1 - O Presidente da Assembleia da República dispõe de um gabinete constituído por pessoal da sua livre escolha e nomeação.\n\n2 - O Gabinete do Presidente da Assembleia da República é constituído por um chefe de gabinete, que coordena, por um assessor principal e por três assessores, três adjuntos, quatro secretários, dois secretários auxiliares e um motorista.\n\n3 - O apoio administrativo e auxiliar ao Gabinete poderá ainda ser prestado por funcionários dos serviços da Assembleia, destacados para o efeito por despacho do Presidente.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163691252": {
+   "fragment_id": "163036620",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime aplicável aos membros do Gabinete",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 10.º — Regime aplicável aos membros do Gabinete\n\n1 - Aplicam-se aos membros do Gabinete do Presidente da Assembleia da República as disposições em vigor para o Gabinete do Primeiro-Ministro, sem prejuízo do disposto nos artigos 52.º, n.º 5, e 53.º\n\n2 - Ao chefe de gabinete do Presidente da Assembleia da República pode ser atribuído, nos limites em vigor para o Gabinete do Primeiro-Ministro, a título permanente ou eventual, um abono para despesas de representação, a fixar pelo Presidente, ouvido o Conselho de Administração.\n\n3 - O pessoal do Gabinete do Presidente da Assembleia da República não abrangido por qualquer regime de segurança social beneficiará, a partir da data da sua nomeação, do aplicável aos funcionários da Assembleia da República, podendo optar por este no caso de ser abrangido por qualquer outro.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163691253": {
+   "fragment_id": "163036621",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio aos vice-presidentes",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 11.º — Apoio aos vice-presidentes\n\n1 - Os vice-presidentes poderão ser apoiados por um secretário e um motorista, da sua livre escolha, a requisitar aos departamentos do Estado ou a empresas públicas.\n\n2 -  Ao pessoal referido no número anterior são aplicáveis o n.º 3 do artigo 10.º e o n.º 6 do artigo 62.º da presente lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163691254": {
+   "fragment_id": "163648474",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Apoio aos Secretários da Mesa",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Apoio aos Secretários da Mesa\n\n1 - O Gabinete dos Secretários da Mesa é constituído por três funcionários do quadro da Assembleia da República.\n\n2 - Os funcionários a que se refere o número anterior são designados pelo Presidente da Assembleia da República, mediante proposta dos secretários da Mesa.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163691255": {
+   "fragment_id": "163692375",
+   "type": 11,
+   "heading": "Artigo 11.º-B — Ex-Presidentes da Assembleia da República",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 11.º-B — Ex-Presidentes da Assembleia da República\n\n1 - Aos ex-Presidentes da Assembleia da República que se mantenham no exercício do mandato de Deputado é atribuído, nas instalações da Assembleia da República, um gabinete próprio;\n\n2 - Os ex-Presidentes da Assembleia da República poderão ser apoiados por um funcionário da sua livre escolha, a destacar do quadro de pessoal por despacho do Presidente da Assembleia da República.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163691256": {
+   "fragment_id": "163036624",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 13.º — Competências\n\nSão atribuições do Conselho de Administração:\n\nCompete ao Conselho de Administração:\n\na) Pronunciar-se sobre a política geral de administração e os meios necessários à sua execução;\n\nb) Elaborar os planos de actividades, plurianuais e anuais, da Assembleia da República;\n\nc) Elaborar as propostas de orçamento da Assembleia da República;\n\nd) Elaborar o relatório e conta da Assembleia da República;\n\ne) Elaborar as propostas de resolução relativas ao quadro de pessoal da Assembleia da República e ao estatuto dos funcionários;\n\nf) Exercer a gestão financeira da Assembleia da República, sem prejuízo do disposto no artigo 68.º;\n\ng) Pronunciar-se sobre os regulamentos internos dos serviços e suas condições de funcionamento que respeitem à gestão das diversas áreas funcionais;\n\nh) Pronunciar-se, sob proposta do Secretário-Geral da Assembleia da República, relativamente à abertura de concursos de pessoal;\n\ni) Pronunciar-se sobre as propostas relativas ao provimento de pessoal;\n\nj) Pronunciar-se sobre os actos de administração relativos ao património da Assembleia da República, incluindo a aquisição, alienação, expropriação, troca, cedência, aluguer e arrendamento de quaisquer bens ou direitos a eles inerentes, bem como sobre a execução de obras, realização de estudos e aquisição de bens e serviços cujas despesas excedam 4000000$00 ou 400000$00, conforme haja ou não necessidade de concurso público, nos termos da lei;\n\nl) Definir os critérios para a concessão de licenças pelo Secretário-Geral aos funcionários da Assembleia da República.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163691257": {
+   "fragment_id": "163036636",
+   "type": 11,
+   "heading": "Artigo 21.º — Estatuto",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 21.º — Estatuto\n\n1 - O secretário-geral da Assembleia da República é nomeado pelo Presidente da Assembleia da República, em comissão de serviço e pelo período da legislatura, obtido o parecer favorável do Conselho de Administração, e permanece em funções até à nomeação do novo secretário-geral.\n\n2 - O secretário-geral da Assembleia da República pode ser exonerado a todo o tempo pelo Presidente da Assembleia da República, obtido o parecer favorável do Conselho de Administração.\n\n3 - O secretário-geral da Assembleia da República não pode exercer actividades profissionais privadas nem desempenhar outras funções públicas, salvo as que resultem de inerência ou de actividades de reconhecido interesse público cujo exercício seja autorizado por despacho do Presidente da Assembleia da República.\n\n4-O Secretário-Geral é substituído nas suas faltas e impedimentos pelo director de serviços que o Presidente da Assembleia da República designar.\n\n5 - A remuneração do secretário-geral da Assembleia da República é igual ao vencimento base fixado para o cargo de director-geral, acrescido da diferença entre o vencimento deste e o de subdirector-geral.\n\n6 - Ao secretário-geral da Assembleia da República poderá ser atribuído, a título permanente ou eventual, um abono para despesas de representação, a fixar pelo Presidente da Assembleia da República, ouvido o Conselho de Administração, o qual não poderá exceder os limites estabelecidos para os secretários-gerais dos outros órgãos de soberania.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163691258": {
+   "fragment_id": "163036637",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências específicas",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 22.º — Competências específicas\n\n1 - Ao secretário-geral da Assembleia da República compete:\n\na) Propor alterações ao quadro da Assembleia da República, bem como os regulamentos necessários à organização interna e ao funcionamento dos serviços;\n\nb)  Propor a celebração de contratos de pessoal, a abertura de concursos e nomear o pessoal não dirigente\n\nc) Coordenar a elaboração das propostas referentes aos planos, anuais e plurianuais, de actividades, ao orçamento, ao relatório e à conta;\n\nd) Autorizar a aquisição de bens e serviços no âmbito da sua competência.\n\n2 - Compete ainda ao secretário-geral da Assembleia da República:\n\na) Propor o regime e montante da remuneração suplementar a atribuir ao pessoal ao serviço da Assembleia da República durante o funcionamento efectivo desta;\n\nb) Propor o regime do subsídio de alimentação e transporte a atribuir ao pessoal ao serviço da Assembleia da República indispensável ao funcionamento desta em condições excepcionais;\n\nc) Determinar o exercício de funções em situação que dê lugar a reversão de vencimento de exercício, nos termos previstos na lei, bem como autorizar o respectivo processamento;\n\nd) Autorizar ou determinar a movimentação e colocação de funcionários dentro da estrutura orgânica da Assembleia da República;\n\ne) Despachar os requerimentos dos funcionários solicitando a aposentação ou apresentação a junta médica, ordinária ou extraordinária, bem como aqueles em que seja solicitada a exoneração.\n\nf)Conceder licenças aos funcionários segundo os critérios definidos pelo Conselho de Administração.\n\n3 - O secretário-geral da Assembleia da República pode delegar as competências próprias e subdelegar as que lhe tenham sido delegadas com autorização expressa de subdelegação.\n\n4 - Das decisões do secretário-geral da Assembleia da República cabe recurso hierárquico para o Presidente da Assembleia da República.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163691259": {
+   "fragment_id": "163036638",
+   "type": 11,
+   "heading": "Artigo 23.º — Secretariado",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 23.º — Secretariado\n\n1 - O Secretário-Geral da Assembleia da República poderá dispor de um serviço de apoio próprio, constituído, no máximo, por dois adjuntos, dois secretários e um secretário auxiliar, a requisitar aos departamentos do Estado ou a empresas públicas.\n\n2 - Ao pessoal referido no número anterior são aplicáveis o n.º 3 do artigo 10.º e o n.º 6 do artigo 62.º\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698434": {
+   "fragment_id": "163036645",
+   "type": 8,
+   "heading": "Secção III — Outros serviços",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "#### Secção III — Outros serviços\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698453": {
+   "fragment_id": "163036647",
+   "type": 11,
+   "heading": "Artigo 27.º — Unidades orgânicas",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01",
+    "Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+   ],
+   "markdown": "###### Artigo 27.º — Unidades orgânicas\n\nOs serviços da Assembleia da República compreendem ainda as seguintes unidades orgânicas:\n\na) O Centro de Estudos Parlamentares;\n\nb) A Direcção de Serviços de Apoio e Secretariado;\n\nc) A Direcção de Serviços de Documentação e Informação;\n\nd) A Direcção de Serviços Administrativos e Financeiros;\n\ne) O Centro de Informática;\n\nf) O Gabinete de Relações Públicas e Internacionais;\n\ng) O Museu;\n\nh) O Gabinete Médico e de Enfermagem.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01\n\n> Retificado pelo/a [Declaração - Diário da República n.º 188/1988, Série I de 1988-08-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-376823), em vigor a partir de 1988-07-06"
+  },
+  "163698461": {
+   "fragment_id": "163036649",
+   "type": 11,
+   "heading": "Artigo 28.º — Centro de Estudos Parlamentares",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 28.º — Centro de Estudos Parlamentares\n\n1 - O Centro de Estudos Parlamentares constitui um serviço de estudo e de consulta especializada.\n\n2 - Compete ao Centro de Estudos Parlamentares efectuar os trabalhos de estudo, de investigação e de informação de que for incumbido pelo Presidente da Assembleia da República, ou a pedido dos presidentes das comissões parlamentares.\n\n3 - O Centro de Estudos Parlamentares terá, designadamente, as seguintes competências:\n\na) Verificar, relativamente aos textos dos processos legislativos e normativos que lhe sejam submetidos para apreciação, o seu rigor técnico-jurídico, propondo as alterações que se mostrem necessárias;\n\nb) Verificar a redacção final dos textos da Assembleia da República, de acordo com as deliberações dos seus órgãos, e promover a preparação dos respectivos autógrafos;\n\nc) Dar pareceres e informações e proceder a estudos sobre quaisquer assuntos que lhe sejam submetidos;\n\nd) Prestar apoio às comissões nos termos do artigo 61.º\n\n4 - O Centro de Estudos Parlamentares será estruturado por áreas, por decisão do Presidente da Assembleia da República, ouvidos os presidentes das comissões.\n\n5 - As funções atribuídas ao Centro de Estudos Parlamentares serão desempenhadas por indivíduos habilitados com licenciatura e de reconhecida competência, cabendo ao Presidente da Assembleia da República designar de entre eles o coordenador, que receberá uma gratificação, a integrar na remuneração suplementar prevista no artigo 52.º, n.º 3.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698469": {
+   "fragment_id": "163036652",
+   "type": 11,
+   "heading": "Artigo 31.º — Direcção de Serviços de Apoio Técnico e de Secretariado",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 31.º — Direcção de Serviços de Apoio Técnico e de Secretariado\n\n1 - À Direcção de Serviços de Apoio e de Secretariado compete assegurar:\n\na) A prestação de apoio administrativo e de secretariado ao Plenário;\n\nb) A execução dos serviços inerentes ao apoio administrativo e de secretariado às comissões;\n\nc) O apoio técnico ao Plenário e à Mesa;\n\nd) O apoio em meios áudio-visuais ao Plenário e às comissões;\n\ne) A elaboração do Diário da Assembleia da República e a preparação de outros textos parlamentares com vista à sua publicação;\n\nf) O apoio relativo ao Estatuto dos Deputados.\n\n2 - A Direcção de Serviços de Apoio e de Secretariado compreende:\n\na) A Divisão de Apoio ao Plenário;\n\nb) A Divisão de Secretariado às Comissões;\n\nc) A Divisão de Redacção e Apoio Audiovisual.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163722777": {
+   "fragment_id": "163036653",
+   "type": 11,
+   "heading": "Artigo 32.º — Direcção de Serviços de Documentação e Informação",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 32.º — Direcção de Serviços de Documentação e Informação\n\n1 - À Direcção de Serviços de Documentação e Informação compete:\n\na) Assegurar o apoio documental e bibliográfico aos trabalhos da Assembleia da República, designadamente organizando, para consulta, as colecções de legislação, de obras e de outros documentos existentes, quer em depósito, quer em outras instituições a que possa recorrer;\n\nb) Organizar e manter actualizado um centro de documentação, com a função de recolher bibliografia, documentação, textos, diplomas legais, actos normativos e administrativos e demais elementos de informação científica e técnica relacionada com a actividade desenvolvida pela Assembleia da República;\n\nc) Criar e manter permanentemente actualizados dossiers relativos a grandes temas nacionais e internacionais;\n\nd) Recolher, tratar e difundir a informação resultante dos actos da Assembleia da República, bem como a decorrente da actividade parlamentar estrangeira e de organizações internacionais;\n\ne) Recolher, analisar, tratar, arquivar e promover a difusão da legislação, nacional e estrangeira, e de toda a informação legislativa com interesse para a Assembleia da República;\n\nf) Analisar e tratar os documentos parlamentares estrangeiros, jornais, revistas, boletins e demais informação internacional com vista à organização de dossiers, notas e fichas respeitantes a assuntos de actualidade e interesse para a prossecução dos trabalhos da Assembleia da República;\n\ng) Organizar e divulgar uma folha semanal, sumariando a documentação estrangeira recebida, podendo, quando a actualidade dos temas o aconselhe, classificar, analisar e traduzir em síntese a referida documentação;\n\nh) Assegurar a gestão da Biblioteca;\n\ni) Recolher, analisar, tratar, arquivar e divulgar a informação produzida pelos órgãos de comunicação social;\n\nj) Assegurar a gestão do Arquivo Histórico-Parlamentar e promover a conservação e preservação do seu património;\n\nk) Planificar e promover a edição de publicações com interesse para a Assembleia da República e para o público em geral;\n\nl) Construir e gerir as respectivas bases de dados;\n\nm) Cooperar com instituições nacionais, estrangeiras e internacionais em matéria de documentação e informação.\n\n2 - A Direcção de Serviços de Documentação e Informação compreende:\n\na) A Divisão de Informação Legislativa e Parlamentar;\n\nb) A Divisão de Edições;\n\nc) A Biblioteca;\n\nd) O Arquivo Histórico-Parlamentar.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163722785": {
+   "fragment_id": "163036654",
+   "type": 11,
+   "heading": "Artigo 33.º — Depósito legal",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 33.º — Depósito legal\n\nTodos os serviços e organismos da administração central, local e regional, os institutos públicos, empresas públicas e organizações cooperativas de grau superior ficam obrigados a enviar à Biblioteca da Assembleia da República, sob o regime de depósito legal, um exemplar de todas as publicações oficiais ou oficiosas que não sejam de mera circulação interna dos serviços.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163722793": {
+   "fragment_id": "163036659",
+   "type": 11,
+   "heading": "Artigo 37.º — Direcção de Serviços Administrativos e Financeiros",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 37.º — Direcção de Serviços Administrativos e Financeiros\n\n1 - À Direcção de Serviços Administrativos e Financeiros compete:\n\na) Gerir os recursos humanos;\n\nb)Implementar um sistema de aplicação de normas de higiene, saúde e segurança no trabalho;\n\nc) Elaborar as propostas de orçamento e do relatório e conta;\n\nd) Executar o orçamento;\n\ne) Processar as remunerações e outros abonos;\n\nf) Administrar os esquemas de segurança social e de acção social complementar;\n\ng) Assegurar a gestão e manutenção das instalações dos equipamentos e do parque automóvel;\n\nh) Assegurar o aprovisionamento de bens e a aquisição de serviços;\n\ni) Garantir o suporte administrativo comum;\n\nj) Garantir a produção reprográfica.\n\n2 - A Direcção de Serviços Administrativos e Financeiros compreende:\n\na) A Divisão de Recursos Humanos e Administração;\n\nb) A Divisão de Gestão Financeira;\n\nc) A Divisão de Aprovisionamento e Património.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163722801": {
+   "fragment_id": "163036660",
+   "type": 11,
+   "heading": "Artigo 38.º — Centro de Informática",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 38.º — Centro de Informática\n\n1 - Ao Centro de Informática compete:\n\na) Implementar o plano de informatização da Assembleia da República;\n\nb) Gerir o sistema informático.\n\n2 - O Centro de Informática é dirigido por um técnico superior, equiparado a director de serviços para efeitos de vencimento.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163722809": {
+   "fragment_id": "163036662",
+   "type": 11,
+   "heading": "Artigo 39.º — Gabinete de Relações Públicas e Internacionais",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 39.º — Gabinete de Relações Públicas e Internacionais\n\n1 - O Gabinete de Relações Públicas e Internacionais é a unidade orgânica especialmente encarregada de apoiar e dinamizar as relações externas da Assembleia da República.\n\n2 - Ao Gabinete de Relações Públicas e Internacionais compete:\n\na) Promover a divulgação da actividade da Assembleia da República no País e no estrangeiro;\n\nb) Prestar apoio às delegações parlamentares nas organizações internacionais e nas missões oficiais ao estrangeiro;\n\nc) Apoiar os órgãos de comunicação social na sua actividade de informação parlamentar;\n\nd) Planear e colaborar na realização de solenidades, comemorações e visitas à Assembleia da República e assegurar o respectivo protocolo;\n\ne) Assegurar o serviço de recepção.\n\n3 - O Gabinete de Relações Públicas e Internacionais é dirigido por um director de serviços.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163722823": {
+   "fragment_id": "163036666",
+   "type": 11,
+   "heading": "Artigo 42.º — Museu",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 42.º — Museu\n\n1 - O Museu da Assembleia da República é constituído por todos os objectos de arte e espécies documentais e bibliográficas respeitantes à história do parlamentarismo português.\n\n2 - Nenhum objecto de arte ou espécie documental ou bibliográfica poderá sair do Museu sem autorização prévia do Presidente da Assembleia da República, ouvido o Conselho de Administração, após parecer do conservador.\n\n3 - Ao conservador do Palácio e do Museu incumbe velar pela conservação do Palácio de São Bento, seu património artístico, histórico e valor arquitectural, e do Museu da Assembleia da República.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163722824": {
+   "fragment_id": "163692400",
+   "type": 11,
+   "heading": "Artigo 42.º-A — Gabinete Médico e de Enfermagem",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 42.º-A — Gabinete Médico e de Enfermagem\n\nAo Gabinete Médido e de Enfermagem compete:\n\na) A prestação de consultas e de cuidados médicos e de enfermagem;\n\nb) A realização de exames médicos periódicos destinados ao pessoal ao serviço da Assembleia da República;\n\nc) O acompanhamento em casos de doença e acidentes de serviço;\n\nd) A participação na supervisão do ambiente e das condições de higiene e segurança no trabalho;\n\ne) As vacinações.\n\n> Aditado pelo/a Artigo 6.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698405": {
+   "fragment_id": "163036668",
+   "type": 11,
+   "heading": "Artigo 43.º — Atribuições",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 43.º — Atribuições\n\n1 - O Serviço de Segurança constitui a estrutura especialmente encarregada da prevenção, controlo, vigilância, protecção e defesa das instalações e dos bens da Assembleia da República, dos seus serviços e das pessoas que nela exercem funções e permanecem.\n\n2 - O pessoal auxiliar, no exercício das suas funções de vigilância, colabora com o Serviço de Segurança, sem prejuízo do seu enquadramento orgânico nos serviços.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698406": {
+   "fragment_id": "163036672",
+   "type": 11,
+   "heading": "Artigo 45.º — Estatuto de pessoal da Assembleia da República",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 45.º — Estatuto de pessoal da Assembleia da República\n\n1 - O pessoal da Assembleia da República rege-se por estatuto próprio, nos termos da presente lei e das resoluções e regulamentos da Assembleia da República, tomados sob proposta do Conselho de Administração.\n\n2 - A legislação referente aos funcionários da administração central do Estado é aplicável subsidiariamente aos funcionários da Assembleia da República.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698407": {
+   "fragment_id": "163046175",
+   "type": 11,
+   "heading": "Artigo 48.º — Admissão e provimento de lugares",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 48.º — Admissão e provimento de lugares\n\n1 - O provimento de lugares de pessoal não dirigente é feito por despacho do Secretário-Geral da Assembleia da República.\n\n2 - Os conteúdos funcionais e as normas de admissão e provimento de pessoal são os constantes da presente lei e seus anexos, incluindo as respectivas regras, critérios e observações que deles fazem parte integrante.\n\n3 - As normas de admissão e provimento do pessoal e os conteúdos funcionais constantes dos anexos à presente lei podem ser alterados por resolução da Assembleia da República, mediante proposta do Conselho de Administração.\n\n4 - Os conteúdos funcionais e as normas de admissão e provimento de pessoal, constantes da presente lei e seus anexos e das resoluções previstas no número anterior, podem ser objecto de regulamentos a homologar pelo Presidente da Assembleia da República, após deliberação do Conselho de Administração, sob proposta do Secretário-Geral.\n\n5 - Os regulamentos referidos no número anterior são publicados no Diário da Assembleia da República e no Diário da República.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698408": {
+   "fragment_id": "163046179",
+   "type": 11,
+   "heading": "Artigo 52.º — Regime especial de trabalho",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 52.º — Regime especial de trabalho\n\n1 - O pessoal permanente da Assembleia da República tem regime especial de trabalho, decorrente da natureza e das condições de funcionamento próprias da Assembleia da República.\n\n2 - Este regime é fixado pelo Presidente da Assembleia da República, mediante proposta do Conselho de Administração, podendo compreender, nomeadamente, horário especial de trabalho, regime de trabalho extraordinário, prestação de serviços por turnos e remuneração suplementar, ficando sempre ressalvados os direitos fundamentais dos trabalhadores consignados na Constituição e na lei geral.\n\n3 - A remuneração suplementar a que se refere o número anterior é calculada com base no vencimento, sendo paga em 12 duodécimos, e faz parte integrante do vencimento, contando para todos os efeitos, designadamente os de aposentação, não sendo acumulável com quaisquer outras remunerações acessórias ou abonos, salvo a gratificação prevista no artigo 28.º, n.º 5.\n\n4 - Em situações excepcionais de funcionamento dos serviços da Assembleia da República pode ser atribuído ao respectivo pessoal um subsídio de alimentação e transporte.\n\n5 - A aplicação do regime de trabalho previsto nos números anteriores ao pessoal dos Gabinetes do Presidente da Assembleia da República, dos Vice-Presidentes e do Secretário-Geral é da competência do Presidente da Assembleia da República;\n\n6 - Salvo motivo justificado, as férias dos funcionários deverão ser gozadas fora do período de funcionamento efectivo da Assembleia da República.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698409": {
+   "fragment_id": "163046180",
+   "type": 11,
+   "heading": "Artigo 53.º — Regime remuneratório do pessoal da Assembleia da República e dos Gabinetes",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 53.º — Regime remuneratório do pessoal da Assembleia da República e dos Gabinetes\n\nO regime remuneratório do pessoal da Assembleia da República e do pessoal dos Gabinetes do Presidente da Assembleia da República, dos Vice-Presidentes e do Secretário-Geral será fixado pelo Presidente da Assembleia da República, sob proposta do Conselho de Administração.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698410": {
+   "fragment_id": "163046181",
+   "type": 11,
+   "heading": "Artigo 54.º — Bolsas de estudo",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 54.º — Bolsas de estudo\n\n1 - Para aperfeiçoamento dos funcionários da Assembleia da República poderão ser concedidas bolsas de estudo ou a equiparação a bolseiro para a frequência de cursos e estágios em instituições nacionais ou organismos internacionais.\n\n2 - A concessão de bolsas de estudo ou a equiparação a bolseiro é da competência do Presidente da Assembleia da República, mediante proposta fundamentada do secretário-geral da Assembleia da República, com o parecer favorável do Conselho de Administração.\n\nAs condições, direitos e obrigações dos bolseiros constarão do regulamento a fixar pelo Presidente da Assembleia da República, obtido parecer favorável do Conselho de Administração, mediante proposta do Secretário-Geral.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698411": {
+   "fragment_id": "163692402",
+   "type": 11,
+   "heading": "Artigo 54.º-A — Estágios",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 8.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 54.º-A — Estágios\n\n1 - O Presidente da Assembleia da República poderá autorizar a celebração de contratos, de duração não superior a seis meses, não renováveis, com recém-licenciados que pretendam efectuar estágios na Assembleia da República.\n\n2 - O regulamento de estágio e o montante da bolsa que os estagiários receberão serão aprovados pelo Presidente da Assembleia da República, após parecer favorável do Conselho de Administração.\n\n3 - A frequência de estágio não confere qualquer vínculo jurídico à Assembleia da República.\n\n4 - Os grupos parlamentares poderão admitir estagiários nas condições por si fixadas.\n\n> Aditado pelo/a Artigo 8.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698412": {
+   "fragment_id": "163046183",
+   "type": 11,
+   "heading": "Artigo 55.º — Nomeação",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 55.º — Nomeação\n\n1 - Os directores de serviços e chefes de divisão são nomeados por despacho do Presidente da Assembleia da República, obtido parecer favorável do Conselho de Administração, com observância dos requisitos legais adequados ao desempenho das respectivas funções, escolhidos preferentemente de entre funcionários já pertencentes ao quadro da Assembleia da República, habilitados com licenciatura e de reconhecida competência para o desempenho do lugar.\n\n2 - O recrutamento para os cargos de director de serviço e chefe de divisão poderá também ser feito, excepcionalmente, de entre funcionários, não detentores de licenciatura, de reconhecida competência profissional, integrados no quadro do pessoal da Assembleia da República.\n\n3 - O pessoal dirigente e equiparado é provido em comissão de serviço pelo período de três anos.\n\n4 - A comissão de serviço será dada por finda ou renovada nos termos da lei geral.\n\n5 - O pessoal dirigente e equiparado não oriundo dos quadros da Assembleia da República não poderá ser provido no mesmo ou noutro cargo dirigente nos 12 meses subsequentes ao termo da segunda comissão de serviço, se aquela tiver lugar.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698413": {
+   "fragment_id": "163046185",
+   "type": 11,
+   "heading": "Artigo 57.º — Directores de serviços",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 57.º — Directores de serviços\n\n1 - Aos directores de serviços compete superintender, orientar e coordenar os serviços das respectivas direcções, bem como velar pela assiduidade e disciplina do pessoal que lhes está afecto.\n\n2 - Compete especialmente aos directores de serviços:\n\na) Coadjuvar o Secretário-Geral no desempenho das suas funções, dando-lhe conhecimento imediato de tudo quanto possa influir no funcionamento dos serviços, prestar-lhe toda a cooperação e sugerir-lhe as providências que reputem de convenientes;\n\nb) Superintender nos serviços da direcção e promover o seu regular funcionamento, a resolução de todas as dúvidas que lhe forem apresentadas pelos seus subordinados e a execução dos despachos do Secretário-Geral;\n\nc) Adoptar as medidas necessárias à melhor organização dos serviços e à simplificação e uniformização dos métodos de trabalho;\n\nd) Promover a instauração de processos disciplinares e propor louvores aos funcionários seus subordinados;\n\ne) Emitir parecer nos processos que devam submeter à apreciação do Secretário-Geral, ainda que já estejam informados por funcionários seus subordinados;\n\nf) Praticar quaisquer outros actos para que tenham recebido delegação do Secretário-Geral;\n\ng) Executar tudo o mais de que forem incumbidos pelo Secretário-Geral no âmbito das atribuições da direcção de serviços.\n\n3 - Os directores de serviços serão substituídos nas suas faltas ou impedimentos pelos chefes de divisão que por eles forem designados.\n\n4 - Os directores de serviços podem ser apoiados por um funcionário dos respectivos serviços, por si designado para exercer funções de secretariado.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698414": {
+   "fragment_id": "163046188",
+   "type": 11,
+   "heading": "Artigo 59.º — Requisição e destacamento",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 59.º — Requisição e destacamento\n\n1 - O Presidente da Assembleia da República, obtido parecer favorável do Conselho de Administração, pode autorizar a requisição ou destacamento de funcionários e agentes da administração central, regional ou local para prestarem serviço na Assembleia da República.\n\n2 - O Presidente da Assembleia da República, obtido o parecer favorável do Conselho de Administração, pode ainda autorizar a requisição de técnicos de empresas públicas ou privadas, assim como de outros organismos, por período julgado necessário, nos termos seguintes:\n\na) Os requisitados mantêm sempre os direitos e regalias sociais adquiridos e designadamente os emergentes de instrumento de regulamentação colectiva de trabalho;\n\nb) Os requisitados auferem, por inteiro, as remunerações inerentes aos cargos que exerciam, acrescidas das compensações de encargos decorrentes da requisição que forem fixadas por despacho do Presidente da Assembleia da República, ouvido o Conselho de Administração;\n\nc) Estas requisições só poderão ser realizadas com a concordância dos requisitados e dos respectivos serviços.\n\n3 - As requisições ou destacamentos serão feitos por períodos até um ano, prorrogáveis até ao termo da legislatura, o qual determina a sua caducidade.\n\n4 - Decorrido o prazo ou a sua caducidade previstos no número anterior, o funcionário ou agente não pode ser requisitado ou destacado durante os 12 meses subsequentes.\n\n5 - O pessoal requisitado ou destacado nos termos dos números anteriores tem de possuir as qualificações académicas e profissionais exigidas para os funcionários do quadro da Assembleia da República.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698415": {
+   "fragment_id": "163046189",
+   "type": 11,
+   "heading": "Artigo 60.º — Contratos de trabalho e de prestação de serviços",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 60.º — Contratos de trabalho e de prestação de serviços\n\n1 - O Presidente da Assembleia da República, obtido o parecer favorável do Conselho de Administração, pode:\n\na) Encomendar estudos e serviços;\n\nb) Convidar entidades nacionais e estrangeiras para realizar estudos, inquéritos ou trabalhos de carácter eventual;\n\nc) Celebrar contratos de trabalho a termo certo, de duração não superior a um ano.\n\n2 - As modalidades de prestação de serviços e as condições gerais da sua realização são estabelecidas pelo Presidente da Assembleia da República, ouvido o Conselho de Administração, sob proposta do secretário-geral da Assembleia da República.\n\n3 - A contratação de pessoal a termo certo será feita a título excepcional, para a realização de tarefas que não possam ser asseguradas pelo pessoal permanente, não podendo ser celebrado novo contrato da mesma natureza e objecto com o mesmo trabalhador antes de decorrido o prazo de um ano após o termo do último contrato.\n\n4 - As despesas a que houver lugar nos termos deste artigo são suportadas por força de verba global a inscrever para tal fim no orçamento da Assembleia da República.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698416": {
+   "fragment_id": "163046191",
+   "type": 1,
+   "heading": "Capítulo VII — Apoio aos partidos, grupos parlamentares e comissões parlamentares.",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "### Capítulo VII — Apoio aos partidos, grupos parlamentares e comissões parlamentares.\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698417": {
+   "fragment_id": "163046192",
+   "type": 11,
+   "heading": "Artigo 62.º — Gabinetes dos grupos parlamentares",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 62.º — Gabinetes dos grupos parlamentares\n\n1 - Os grupos parlamentares dispõem de gabinetes constituídos por pessoal de sua livre escolha e nomeação nos seguintes termos:\n\na) Com 2 Deputados, inclusive: pelo menos um adjunto, um secretário, um secretário auxiliar e ainda outros funcionários nos termos do disposto nos n.os 2 e 4;\n\nb) Com mais de 2 e até 8 Deputados, inclusive: um chefe de gabinete e pelo menos um adjunto, um secretário, dois secretários auxiliares e ainda outros funcionários nos termos do disposto nos n.os 2 e 4;\n\nc) Com mais de 8 e até 20 Deputados, inclusive: um chefe de gabinete e pelo menos 2 adjuntos, 2 secretários, 3 secretários auxiliares e ainda outros funcionários nos termos do disposto nos n.os 2 e 4;\n\nd) Com mais de 20 e até 30 Deputados, inclusive: um chefe de gabinete e pelo menos 3 adjuntos, 3 secretários, 3 secretários auxiliares e ainda outros funcionários nos termos do disposto nos n.os 2 e 4;\n\ne) Com mais de 30 Deputados: um chefe de gabinete e pelo menos 3 adjuntos, 3 secretários, 3 secretários auxiliares e ainda, por cada conjunto de 25 Deputados ou resto superior a 10, pelo menos mais um adjunto, um secretário, um secretário auxiliar e ainda outros funcionários nos termos do disposto nos n.os 2 e 4.\n\n2 - No início de cada legislatura os grupos parlamentares indicarão aos serviços da Assembleia da República o quadro de pessoal de apoio, com a indicação das categorias e vencimentos, o qual poderá ser corrigido no início de cada sessão legislativa.\n\n3 - No início de cada mês os gabinetes dos grupos parlamentares comunicarão aos serviços da Assembleia da República as horas extraordinárias a processar aos funcionários dos grupos parlamentares.\n\n4 - As despesas com as remunerações previstas no presente artigo não podem ultrapassar, anualmente, as verbas que resultam do quadro seguinte:\n\na) Grupo Parlamentar de 2 Deputados - 24 x 14 SMN (salário mínimo nacional) + 6 x 14 SMN por Deputado;\n\nb) Grupo parlamentar de 3 a 15 Deputados - 45 x 14 SMN mais 6 x 14 SMN por cada Deputado;\n\nc) Grupo Parlamentar com mais de 15 Deputados - 60 x 14 SMN mais:\n\n6 x 14 SMN por Deputado, para 15 Deputados;\n\n3 x 14 SMN por Deputado, para o número de Deputados que exceda 15, até ao máximo de 40;\n\n2,25 x 14 SMN por Deputado, acima de 40 e até 80 Deputados;\n\n1,8 x 14 SMN por Deputado, acima de 80 Deputados.\n\n5 - Os grupos parlamentares podem alterar a composição do quadro de pessoal, desde que não resulte agravamento da respectiva despesa global.\n\n6 - A nomeação e exoneração do pessoal referido nos números anteriores é da responsabilidade da direcção do respectivo grupo parlamentar, sendo-lhe aplicável o regime em vigor para os gabinetes ministeriais.\n\n7 - Ao pessoal referido neste artigo é aplicável o disposto no n.º 3 do artigo 10.º\n\n8 - A Assembleia da República, enquanto entidade patronal, é responsável pelos encargos sociais que eventualmente existam.\n\n9 - Ao Deputado único representante de um Partido e aos Deputados independentes que não integrem nenhum grupo parlamentar aplica-se, com as devidas alterações, o disposto neste artigo de forma a não ultrapassar, anualmente, as seguintes verbas:\n\na) Deputado único representante de um partido - 14 x 14 SMN;\n\nb) Deputado independente - 5 x 14 SMN.\n\n10 - Ao pessoal em serviço nos grupos parlamentares à data da entrada em vigor da presente lei, poderá ser pago um suplemento no montante igual à diferença entre a remuneração global auferida naquela data e a remuneração fixada nos termos do n.º 2, se esta for inferior, o qual faz parte integrante do vencimento, contando para todos os efeitos, designadamente os de aposentação.\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698418": {
+   "fragment_id": "163046193",
+   "type": 11,
+   "heading": "Artigo 63.º — Subvenções aos partidos e grupos parlamentares",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 63.º — Subvenções aos partidos e grupos parlamentares\n\n1 - A cada um dos partidos que hajam concorrido ao acto eleitoral, ainda que em coligação, representados na Assembleia da República é concedida, nos termos dos números seguintes, uma subvenção anual para a realização dos seus fins próprios, desde que a requeiram ao Presidente da Assembleia da República.\n\n2 - A subvenção consiste numa quantia em dinheiro equivalente à fracção 1/225 do salário mínimo nacional por cada voto obtido na mais recente eleição de deputados à Assembleia da República.\n\n3 - Nos casos de coligação eleitoral, a subvenção devida a cada um dos partidos nela integrados é igual à subvenção que, nos termos do n.º 2, corresponder à respectiva coligação eleitoral, distribuída proporcionalmente em função dos deputados eleitos por cada partido.\n\n4 - A cada grupo parlamentar é atribuída, anualmente, uma subvenção para encargos de assessoria aos Deputados não inferior a quatro vezes o salário mínimo nacional anual, mais metade do valor do mesmo por Deputado, a ser paga mensalmente, nos termos do n.º 6.\n\n5 - Os grupos parlamentares originários de partidos que tenham concorrido em determinada coligação ao acto eleitoral serão considerados como um só grupo parlamentar para os efeitos do número anterior.\n\n6 - As subvenções referidas no presente artigo são pagas em duodécimos, por conta de dotações especiais inscritas no orçamento da Assembleia da República.\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698419": {
+   "fragment_id": "163692404",
+   "type": 11,
+   "heading": "Artigo 63.º-A — Apoio às comissões parlamentares",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 12.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 63.º-A — Apoio às comissões parlamentares\n\n1 - As comissões especializadas permanentes são apoiadas por pessoal técnico e administrativo, nos termos do artigo 18.º, a propor pelo presidente da comissão ao Presidente da Assembleia da República.\n\n2 - A solicitação dos respectivos presidentes, o Presidente da Assembleia da República, obtido o parecer favorável do Conselho de Administração, pode autorizar a requisição de técnicos de departamentos do Estado ou de empresas públicas ou privadas, assim como de outros organismos, nos termos do artigo 59.º, visando preferentemente a realização de trabalhos de assessoria técnica.\n\n3 - Sob proposta dos respectivos presidentes, o Presidente da Assembleia da República, obtido parecer favorável do Conselho de Administração, pode ainda autorizar a realização de estudos e pareceres a elaborar por especialistas de reconhecido mérito, em razão da matéria, nos termos do artigo 60.º\n\n4 - O pessoal referido nos números anteriores exerce as suas funções na dependência directa do presidente da comissão a que estiver afecto, sem prejuízo dos deveres gerais a que estão sujeitos todos os funcionários da Assembleia da República e, no que respeita ao pessoal do quadro, do seu enquadramento orgânico nos serviços.\n\n5 - As requisições efectuadas nos termos do n.º 2 podem ser dadas por findas, a qualquer momento, pelo Presidente da Assembleia da República, sob proposta fundamentada do presidente da respectiva comissão, com conhecimento do Conselho de Administração.\n\n6 - O Presidente da Assembleia da República convocará uma reunião dos presidentes das comissões especializadas permanentes, no mínimo de dois em dois meses, com vista à apreciação do desenvolvimento dos trabalhos de cada comissão, suas dificuldades e necessidades, o qual será assessorado pelo coordenador do Centro de Estudos Parlamentares.\n\n7 - Os estudos e pareceres previstos no n.º 3 serão realizados por especialistas de reconhecido mérito a escolher de entre os constantes de lista a elaborar pelo Centro de Estudos Parlamentares, a qual deverá ser mantida actualizada e apresentada nas reuniões a que se refere o número anterior, para apreciação e aprovação.\n\n8 - Às comissões eventuais é aplicado, com as necessárias adaptações, o disposto nos números anteriores.\n\n> Aditado pelo/a Artigo 12.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698420": {
+   "fragment_id": "163046197",
+   "type": 11,
+   "heading": "Artigo 65.º — Orçamento suplementar",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 65.º — Orçamento suplementar\n\n1 - As alterações ao orçamento da Assembleia da República são realizadas através de orçamento suplementar, até ao máximo de três, os quais serão elaborados nos termos e com as devidas adaptações do artigo anterior.\n\n2 - As transferências de verbas são operadas, nos termos da legislação em vigor para os organismos autónomos, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698421": {
+   "fragment_id": "163046198",
+   "type": 11,
+   "heading": "Artigo 66.º — Receitas",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 66.º — Receitas\n\n1 - Constituem receitas da Assembleia da República:\n\na) As dotações inscritas no Orçamento do Estado;\n\nb) Os saldos de anos findos;\n\nc) O produto das edições e publicações;\n\nd) Os direitos de autor;\n\ne) Os resultados da aplicação de fundos;\n\nf) As demais receitas que lhe forem atribuídas por lei, resolução da Assembleia, contrato, sucessão ou doação.\n\n2 - Os saldos positivos apurados no fim de cada ano económico são transferidos para a gerência do ano seguinte e distribuídos pelo Conselho de Administração pelas rubricas cujo reforço se mostre necessário em função dos programas aprovados.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698422": {
+   "fragment_id": "163046200",
+   "type": 11,
+   "heading": "Artigo 68.º — Autorização de despesas",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 68.º — Autorização de despesas\n\n1 - A autorização de despesas superiores ao limite previsto no número seguinte e até ao limite fixado na lei para o Conselho de Ministros é da competência do Presidente da Assembleia da República, após parecer favorável do Conselho de Administração.\n\n2 - O Presidente da Assembleia da República, ouvido o Conselho de Administração, pode autorizar despesas até ao limite fixado na lei para o Primeiro-Ministro.\n\n3 - O Secretário-Geral pode autorizar despesas até ao limite fixado na lei para os dirigentes dos órgãos dotados de autonomia administrativa e financeira.\n\n4 - O Secretário-Geral pode, mediante parecer favorável do Conselho de Administração, delegar nos directores de serviço poderes para autorizar despesas, até ao limite fixado pelo Conselho de Administração.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698423": {
+   "fragment_id": "163046207",
+   "type": 11,
+   "heading": "Artigo 73.º — Conta",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 53/93 - Diário da República n.º 177/1993, Série I-A de 1993-07-30](https://diariodarepublica.pt/dr/detalhe/lei/53-1993-345153), em vigor a partir de 1994-08-04"
+   ],
+   "markdown": "###### Artigo 73.º — Conta\n\n1 - O relatório e a conta são organizados pelos serviços competentes, sob a directa coordenação do Secretário-Geral da Assembleia da República, que os submeterá ao Conselho de Administração até 15 de Março do ano seguinte àquele a que disserem respeito.\n\n2 - O relatório e a conta da Assembleia da República são aprovados pelo Plenário.\n\n3 - A conta é publicada no Diário da República.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 53/93 - Diário da República n.º 177/1993, Série I-A de 1993-07-30](https://diariodarepublica.pt/dr/detalhe/lei/53-1993-345153), em vigor a partir de 1994-08-04"
+  },
+  "163698424": {
+   "fragment_id": "163046209",
+   "type": 11,
+   "heading": "Artigo 74.º — Instalações de serviços",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 74.º — Instalações de serviços\n\n1 - Os serviços das empresas públicas Correios e Telecomunicações de Portugal - CTT e dos Telefones de Lisboa e Porto - TLP dispõem de instalações próprias no Palácio de São Bento.\n\n2 - Idêntica prorrogativa pode ser concedida à Caixa Geral de Depósitos e a outras instituições, mediante despacho do Presidente da Assembleia da República, obtido prévio parecer favorável do Conselho de Administração.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163698425": {
+   "fragment_id": "163046215",
+   "type": 11,
+   "heading": "Artigo 80.º — Direito à integração do pessoal dos gabinetes dos grupos parlamentares",
+   "in_force_from": "1993-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 80.º — Direito à integração do pessoal dos gabinetes dos grupos parlamentares\n\n1 - Ao pessoal em serviço nos gabinetes dos grupos parlamentares que tenha de ser dispensado por força da diminuição do número de Deputados e a correspondente diminuição do serviço de apoio ao respectivo grupo parlamentar é reconhecido o direito à sua integração como supranumerário da Assembleia da República, se reunir os seguintes requisitos:\n\na) Pertencer de forma continuada aos respectivos gabinetes pelo menos desde a 1.ª sessão legislativa da VI Legislatura;\n\nb) Não possuir cargo ou emprego público ou privado de carácter permanente;\n\nc) Possuir as habilitações literárias exigidas para a referida categoria.\n\n2 - A integração é requerida pelo interessado ao Presidente da Assembleia da República no prazo de 30 dias a contar da data da efectivação dos seus pressupostos.\n\n3 - O requerimento referido no número anterior é acompanhado de uma declaração do respectivo grupo parlamentar ou do correspondente partido a manifestar a sua aquiescência.\n\n4 - A integração será feita para o lugar de início de carreira, de acordo com as funções desempenhadas e as respectivas habilitações, sem prejuízo do direito de acesso na respectiva carreira, nos termos e condições previstos para o pessoal do quadro da Assembleia da República.\n\n5 - Não sendo preenchidas as condições referidas na alínea c) do n.º 1, pode o ingresso fazer-se na categoria de entrada na carreira para a qual tenha habilitações literárias.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  },
+  "163781029": {
+   "fragment_id": "163046193",
+   "type": 11,
+   "heading": "Artigo 63.º — Subvenções aos partidos e grupos parlamentares",
+   "in_force_from": "1993-11-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, 1º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-11-30",
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+   ],
+   "markdown": "###### Artigo 63.º — Subvenções aos partidos e grupos parlamentares\n\n1 - Revogado\n\n2 - Revogado\n\n3 - Revogado\n\n4 - A cada grupo parlamentar é atribuída, anualmente, uma subvenção para encargos de assessoria aos Deputados não inferior a quatro vezes o salário mínimo nacional anual, mais metade do valor do mesmo por Deputado, a ser paga mensalmente, nos termos do n.º 6.\n\n5 - Os grupos parlamentares originários de partidos que tenham concorrido em determinada coligação ao acto eleitoral serão considerados como um só grupo parlamentar para os efeitos do número anterior.\n\n6 - As subvenções referidas no presente artigo são pagas em duodécimos, por conta de dotações especiais inscritas no orçamento da Assembleia da República.\n\n> Alterado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, 1º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-11-30\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 59/93 - Diário da República n.º 192/1993, Série I-A de 1993-08-17](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), em vigor a partir de 1993-09-01"
+  }
+ }
+}

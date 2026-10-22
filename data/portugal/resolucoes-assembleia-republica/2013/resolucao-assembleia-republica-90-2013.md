@@ -1,0 +1,348 @@
+---
+schema_version: '1.0'
+id: pt:dre:497464:por
+title: Resolução da Assembleia da República n.º 90/2013
+short_title: null
+summary: Aprova o Protocolo de Cooperação da Comunidade dos Países de Língua Portuguesa no Domínio da Defesa, assinado na
+  Cidade da Praia, a 15 de setembro de 2006
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 90/2013
+official_date: null
+publication_date: '2013-07-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/2013, Série I de 2013-07-01
+  number: '124'
+  series: I
+  supplement: null
+  pages: 3848 - 3852
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/90/2013/07/01/p/dre/pt/html
+  oj: null
+  dre: '497464'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/90-2013-497464
+  internal: pt:dre:497464:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/90-2013-497464
+  metadata_url: https://data.dre.pt/eli/resolassrep/90/2013/07/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/90-2013-497464
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-07-01T00:00:00Z'
+integrity:
+  source_sha256: b0e8290aeaa285235cf69b7286bad3cd9df15c69d14d9e8bdc641c2f416fab2a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-90-497464.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cidade da Praia
+- Convenção
+- Cooperação Técnica
+- Portugal
+- Política de Defesa
+- CPLP
+relationships: []
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 90/2013
+
+Aprova o Protocolo de Cooperação da Comunidade dos Países de Língua Portuguesa no Domínio da Defesa, assinado na Cidade da Praia em 15 de setembro de 2006.
+
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar o Protocolo de Cooperação da Comunidade dos Países de Língua Portuguesa no Domínio da Defesa, assinado na Cidade da Praia em 15 de setembro de 2006, cujo texto, na versão autenticada em língua portuguesa, se publica em anexo.
+
+Aprovada em 3 de maio de 2013.
+
+**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+
+PROTOCOLO DE COOPERAÇÃO DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA NO DOMÍNIO DA DEFESA
+
+Os Governos da República de Angola, República Federativa do Brasil, República de Cabo Verde, República da Guiné-Bissau, República de Moçambique, República Portuguesa, República Democrática de São Tomé e Príncipe e República Democrática de Timor-Leste, no prosseguimento das deliberações tomadas em sede da VII Reunião de Ministros da Defesa da Comunidade dos Países de Língua Portuguesa (CPLP), realizada em Bissau em 31 de Maio e 1 de Junho de 2004:
+
+Reconhecendo a necessidade de estreitar a cooperação no domínio da Defesa entre os Estados membros;
+
+Tendo em conta o artigo 3.º dos Estatutos da CPLP, que incorpora a cooperação no domínio da Defesa;
+
+Reafirmando os princípios do respeito estrito pela soberania nacional, igualdade soberana, integridade territorial, independência política e não ingerência nos assuntos internos de cada Estado;
+
+Convictos de que a paz, segurança, defesa e boas relações políticas são factores primordiais para uma cooperação frutuosa;
+
+Determinados a garantir a paz, a segurança e a defesa e, ainda, estreitar os laços de solidariedade entre os Estados membros;
+
+Observando estritamente o Acordo sobre a Globalização da Cooperação Técnico-Militar assinado pelos Ministros da Defesa Nacional em 25 de Maio de 1999 na Cidade da Praia, em Cabo Verde; e
+
+Considerando os compromissos assumidos na VI Reunião de Ministros, realizada em São Tomé em 27 e 28 de Maio de 2003, nomeadamente a sistematização e clarificação das deliberações politicamente tomadas ao nível das questões da Defesa, de interesse para o conjunto dos países que constituem a CPLP:
+
+acordam em estabelecer o presente:
+
+PROTOCOLO DE COOPERAÇÃO DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA NO DOMÍNIO DA DEFESA
+
+###### Artigo 1.º — Objecto
+
+O presente Protocolo estabelece os princípios gerais de cooperação entre os Estados membros da Comunidade dos Países de Língua Portuguesa (CPLP) no domínio da Defesa.
+
+###### Artigo 2.º — Objectivos
+
+1 - O objectivo global do presente Protocolo é promover e facilitar a cooperação entre os Estados membros no domínio da Defesa, através da sistematização e clarificação das acções a empreender.
+
+2 - Objectivos específicos:
+
+a) Criar uma plataforma comum de partilha de conhecimentos em matéria de Defesa Militar;
+
+b) Promover uma política comum de cooperação nas esferas da Defesa e Militar;
+
+c) Contribuir para o desenvolvimento das capacidades internas com vista ao fortalecimento das Forças Armadas dos países da CPLP.
+
+###### Artigo 3.º — Definições e abreviaturas
+
+No presente Protocolo serão usadas as seguintes definições e abreviaturas:
+
+a) Signatário - Estado membro que assina o Protocolo;
+
+b) CPLP - Comunidade dos Países de Língua Portuguesa;
+
+c) MDN/CPLP - Ministros da Defesa Nacional ou equiparados dos Estados membros da CPLP;
+
+d) CEMGFA/CPLP - Chefes de Estado-Maior-General das Forças Armadas ou equiparados dos Estados membros da CPLP;
+
+e) DPDN/CPLP - Directores de Política de Defesa Nacional ou equiparados dos Estados membros da CPLP;
+
+f) DSIM/CPLP - Directores dos Serviços de Informações Militares ou equiparados dos Estados membros da CPLP;
+
+g) CAE/CPLP - Centro de Análise Estratégica da CPLP;
+
+h) SPAD/CPLP - Secretariado Permanente para os Assuntos de Defesa da CPLP.
+
+###### Artigo 4.º — Âmbito
+
+1 - No presente Protocolo são identificados vectores fundamentais, que se constituem como mecanismos para a afirmação da componente de Defesa da CPLP como instrumento para a manutenção da paz e segurança, designadamente:
+
+a) A solidariedade entre os Estados membros da CPLP em situações de desastre ou agressão que ocorram num dos países da Comunidade, respeitadas as legislações de cada Estado membro, e nos termos das normas estabelecidas na Carta das Nações Unidas;
+
+b) A sensibilização das comunidades nacionais quanto à importância do papel das Forças Armadas na defesa da Nação, em outras missões de interesse público e no apoio às populações em situações de calamidade ou desastres naturais, bem como, de modo subsidiário, no combate a outras ameaças, respeitadas as legislações nacionais;
+
+c) A troca de informação, devidamente regulamentada, o intercâmbio de experiências e metodologias e a adopção de medidas de fortalecimento da confiança entre as Forças Armadas dos Estados membros da CPLP, em conformidade com o ordenamento constitucional de cada Estado, visando contribuir para o fortalecimento da estabilidade nas regiões em que se inserem os países da CPLP;
+
+d) A implementação do Programa Integrado de Intercâmbio no domínio da Formação Militar, o qual promoverá o aproveitamento, pela Comunidade, das capacidades de cada país no domínio da formação militar e potenciará a uniformização de doutrina e procedimentos operacionais entre as Forças Armadas dos Estados membros da CPLP;
+
+e) O prosseguimento dos exercícios militares conjuntos e combinados da série FELINO, que permitam a interoperabilidade das Forças Armadas dos Estados membros da CPLP, o treino para o emprego das mesmas em operações de paz e de assistência humanitária, sob a égide da Organização das Nações Unidas, respeitadas as legislações nacionais;
+
+f) A procura de sinergias para o reforço do controlo e fiscalização das águas territoriais e da zona económica exclusiva dos países da CPLP, com o emprego conjunto de meios aéreos e navais;
+
+g) A realização de encontros de medicina militar da CPLP e outros eventos de natureza técnico-militar e científico-militar que venham a ser aprovados;
+
+h) A realização de jogos desportivos militares da CPLP;
+
+i) Outras acções para a afirmação da componente de Defesa da CPLP que venham a ser consideradas e aprovadas em sede de reunião ministerial.
+
+2 - A fim de fortalecer as capacidades da CPLP proceder-se-á, com carácter voluntário e por intermédio do SPAD/CPLP, à indicação dos recursos disponíveis em cada um dos países, passíveis de emprego em operações de paz e assistência humanitária, sob a égide da Organização das Nações Unidas, respeitadas as legislações nacionais.
+
+3 - O emprego dos recursos referidos no n.º 2 do presente artigo, em caso de decisão sobre actuação conjunta ou combinada, será regulado por memorandos de entendimento entre os países intervenientes no quadro da CPLP, cabendo ao SPAD/CPLP a elaboração do respectivo modelo a aprovar pelos Ministros da Defesa da Comunidade.
+
+###### Artigo 5.º — Estrutura
+
+São órgãos da componente de Defesa da CPLP:
+
+a) Reunião de Ministros da Defesa Nacional ou equiparados dos Estados membros;
+
+b) Reunião de Chefes de Estado-Maior-General das Forças Armadas ou equiparados dos Estados membros;
+
+c) Reunião de directores de Política de Defesa Nacional ou equiparados dos Estados membros;
+
+d) Reunião de directores dos Serviços de Informações Militares/DSIM ou equiparados dos Estados membros;
+
+e) Centro de Análise Estratégica;
+
+f) Secretariado Permanente para os Assuntos de Defesa.
+
+###### Artigo 6.º — Funcionamento
+
+1 - As reuniões dos órgãos descritos no artigo 5.º são presididas pelo Estado membro anfitrião, numa base rotativa e por um mandato de um ano, excepto para os órgãos com normativo e estatutos próprios.
+
+2 - A reunião referida na alínea c) do artigo 5.º será realizada no Estado membro que acolher a reunião de MDN/CPLP.
+
+3 - A reunião referida na alínea d) do artigo 5.º será realizada no Estado membro que acolher a reunião de CEMGFA/CPLP.
+
+4 - O quórum para a realização das reuniões dos órgãos referidos no artigo 5.º, com excepção do CAE, é de pelo menos seis Estados membros.
+
+5 - Nas reuniões dos órgãos referidos no artigo 5.º, com excepção do CAE, as deliberações são tomadas por consenso de todos os representantes dos Estados membros.
+
+6 - Os órgãos da componente de Defesa da CPLP poderão ser objecto de normativos próprios que regulem a sua organização e funcionamento.
+
+###### Artigo 7.º — Reunião de Ministros da Defesa Nacional ou equiparados
+
+A reunião de Ministros da Defesa Nacional ou equiparados é constituída pelos MDN/CPLP, tendo como competências:
+
+a) Apreciar a evolução do sector da Defesa nos Estados membros da CPLP;
+
+b) Analisar as questões internacionais e as implicações político-militares no contexto regional para os Estados membros da CPLP;
+
+c) Discutir e aprovar documentos relativos à componente de Defesa da CPLP;
+
+d) Determinar a realização e acompanhar o desenvolvimento dos exercícios da série FELINO;
+
+e) Apreciar e aprovar as propostas constantes das Declarações Finais das reuniões de CEMGFA;
+
+f) Aprovar, anualmente, o relatório de actividades e o relatório de contas, bem como o plano de actividades e o orçamento, do CAE;
+
+g) Pronunciar-se sobre qualquer outro assunto de interesse para a CPLP e respectivos Estados membros, na área da Defesa e Militar.
+
+###### Artigo 8.º — Reunião de Chefes do Estado-Maior-General das Forças Armadas ou equiparados
+
+1 - A reunião de Chefes do Estado-Maior-General das Forças Armadas ou equiparados é constituída pelos CEMGFA/CPLP, tendo como competências:
+
+a) Apreciar a evolução do sector da Defesa nos Estados membros da CPLP, na vertente militar;
+
+b) Analisar as questões internacionais e as implicações político-militares, no contexto regional, para os Estados membros da CPLP;
+
+c) Submeter, à reunião de Ministros da Defesa, propostas relativas à componente de Defesa da CPLP, no domínio militar;
+
+d) Planear e determinar a execução dos exercícios da série FELINO;
+
+e) Apreciar, anualmente, o relatório de actividades e o relatório de contas, bem como o plano de actividades e o orçamento, do CAE;
+
+f) Pronunciar-se sobre qualquer outro assunto de interesse para a CPLP e respectivos Estados membros, na área Militar.
+
+2 - A reunião de CEMGFA/CPLP precede, necessariamente, a reunião de MDN/CPLP.
+
+###### Artigo 9.º — Reunião de directores de Política de Defesa Nacional ou equiparados
+
+1 - Os directores de Política de Defesa Nacional ou equiparados reunirão, sempre que necessário, para discutirem assuntos da sua área de actividade, com interesse para a componente de Defesa da CPLP, designadamente:
+
+a) Apreciar a evolução do sector da Defesa nos Estados membros da CPLP, as questões internacionais e as implicações político-militares no contexto regional desses países, e produzir subsídios para as reuniões dos MDN/CPLP;
+
+b) Apresentar propostas relativas à componente de Defesa da CPLP, no âmbito da Política de Defesa, a submeter à reunião dos MDN/CPLP;
+
+c) Contribuir para que os estudos multidisciplinares produzidos a nível do CAE/CPLP tenham aplicabilidade nos Estados membros, tendo em conta as realidades nacionais e regionais;
+
+d) Proceder à troca de experiências entre os órgãos de Política de Defesa Nacional ou equiparados, a nível dos Estados membros da CPLP;
+
+e) Pronunciar-se sobre qualquer outro assunto de interesse para a CPLP e respectivos Estados membros, na área da Política de Defesa.
+
+2 - As reuniões dos DPDN/CPLP deverão, preferencialmente, anteceder as reuniões dos MDN/CPLP, sendo convocadas por proposta da maioria dos DPDN/CPLP.
+
+###### Artigo 10.º — Reunião de directores dos Serviços de Informações Militares ou equiparados
+
+1 - Os directores dos Serviços de Informações Militares ou equiparados reunirão, sempre que necessário, para discutirem assuntos da sua área de actividade, com interesse para a componente de Defesa da CPLP, apenas na vertente militar, designadamente:
+
+a) Produzir sínteses sobre a situação prevalecente nos Estados membros da CPLP, e sobre a situação internacional e regional com implicações nos países da Comunidade;
+
+b) Efectuar a troca de informações de interesse para a Comunidade, em conformidade com as normas acordadas pelos MDN/CPLP;
+
+c) Proceder à troca de experiências entre os dos Serviços de Informações Militares ou equiparados dos Estados membros da CPLP.
+
+2 - As reuniões dos DSIM/CPLP deverão, preferencialmente, anteceder as reuniões dos CEMGFA/CPLP, sendo convocadas por proposta da maioria dos DSIM/CPLP.
+
+###### Artigo 11.º — Centro de Análise Estratégica
+
+1 - O CAE/CPLP, com sede em Maputo, é um órgão de cooperação no domínio da Defesa da CPLP que visa a pesquisa, o estudo e a difusão de conhecimentos no domínio da Estratégia, com interesse para os objectivos da Comunidade.
+
+2 - A organização e funcionamento do CAE/CPLP estão contidos nos Estatutos e Regulamento próprios aprovados pelos Ministros da Defesa da CPLP, em 27 de Maio de 2002 e 28 de Maio de 2003, respectivamente.
+
+###### Artigo 12.º — Secretariado Permanente para os Assuntos de Defesa
+
+1 - O SPAD/CPLP, com sede em Lisboa, é um órgão com a missão de estudar e propor medidas concretas para a implementação das acções de cooperação multilateral, identificadas no quadro da multilateralização da Cooperação Técnico-Militar.
+
+2 - A organização e funcionamento do SPAD/CPLP estão contidos no respectivo Normativo, aprovado pelos Ministros da Defesa da CPLP, em Luanda, em 22 de Maio de 2000.
+
+3 - O SPAD/CPLP tem a responsabilidade de secretariar as reuniões dos MDN/CPLP, dos CEMGFA/CPLP e dos DPDN/CPLP, e produzir as respectivas actas.
+
+4 - A responsabilidade referida no número anterior é assumida pelos representantes das áreas da Defesa e Militar do Estado Membro onde se realizar a reunião, com a colaboração dos representantes dos restantes Estados membros.
+
+###### Artigo 13.º — Confidencialidade
+
+1 - Os Estados membros comprometem-se a não utilizar, em detrimento de qualquer um deles, toda a informação classificada que obtenham no âmbito do presente Protocolo. As informações classificadas obtidas no âmbito do presente Protocolo não poderão ser transmitidas a países que não integram a CPLP.
+
+2 - Os Estados membros poderão estabelecer mecanismos adicionais de comunicação, com vista a facilitar a tramitação da informação.
+
+###### Artigo 14.º — Emendas
+
+1 - Qualquer Estado membro poderá propor alterações e ou emendas ao presente Protocolo.
+
+2 - As propostas de alterações e ou emendas ao presente Protocolo deverão ser enviadas ao SPAD/CPLP, que notificará todos os Estados membros sobre as alterações e ou emendas propostas.
+
+3 - A reunião dos MDN/CPLP dará conhecimento das matérias sujeitas a alterações e ou emendas ao Secretariado Executivo da CPLP.
+
+###### Artigo 15.º — Entrada em vigor
+
+Depois da assinatura por todos os Estados membros, o presente Protocolo entrará em vigor após a conclusão das formalidades legais, por parte de cada um dos Estados membros.
+
+###### Artigo 16.º — Depositário
+
+Os instrumentos de ratificação deste Protocolo serão depositados junto do Secretariado Executivo da CPLP que, após o devido registo, enviará cópias autenticadas a todos os Estados membros.
+
+Feito na cidade da Praia, aos 15 de Setembro de 2006, em oito exemplares em língua portuguesa, fazendo todos igualmente fé.
+
+Pela República de Angola:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+
+Pela República Federativa do Brasil:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+
+Pela República de Cabo Verde:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+
+Pela República da Guiné-Bissau:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+
+Pela República de Moçambique:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+
+Pela República Portuguesa:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+
+Pela República Democrática de São Tomé e Príncipe:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)
+
+Pela República Democrática de Timor-Leste:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12400/0384803852.pdf)

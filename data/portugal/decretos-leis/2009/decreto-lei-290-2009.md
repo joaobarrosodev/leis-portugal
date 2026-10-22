@@ -1,0 +1,1397 @@
+---
+schema_version: '1.0'
+id: pt:dre:491685:por
+title: Decreto-Lei n.º 290/2009
+short_title: null
+summary: Aprova o regime jurídico de concessão de apoio técnico e financeiro para o desenvolvimento das políticas de emprego
+  e de apoio à qualificação das pessoas com deficiência e incapacidades e o regime de concessão de apoio técnico e financeiro
+  aos centros de reabilitação profissional de gestão participada, às entidades de reabilitação, bem como a credenciação de
+  centros de recursos do Instituto do Emprego e Formação Profissional, I. P., e a criação do Fórum para a Integração Profissional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 290/2009
+official_date: null
+publication_date: '2009-10-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 197/2009, Série I de 2009-10-12
+  number: '197'
+  series: I
+  supplement: null
+  pages: 7482 - 7497
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19700/0748207497.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-06-22'
+version_history:
+  file: decreto-lei-290-2009.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-10-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-12-31'
+    amending: pt:dre:669997:por
+    amending_title: Lei n.º 24/2011
+    changes:
+    - Altera Artigo 45.º
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 71.º
+    - Altera Artigo 74.º
+    - Altera Artigo 77.º
+  - date: '2013-09-12'
+    amending: pt:dre:500020:por
+    amending_title: Decreto-Lei n.º 131/2013
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 29.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 41.º
+    - Altera Artigo 44.º
+    - Altera Artigo 52.º
+    - Altera Artigo 69.º
+    - Altera Artigo 72.º
+    - Altera Artigo 74.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+  - date: '2015-06-22'
+    amending: pt:dre:67507927:por
+    amending_title: Decreto-Lei n.º 108/2015
+    changes:
+    - Adita Artigo 91.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 36.º
+    - Altera Artigo 39.º
+    - Altera Artigo 44.º
+    - Altera Secção IV
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Secção V
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Secção VI
+    - Altera Artigo 59.º
+    - Altera Secção VII
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+    - Altera Artigo 71.º
+    - Altera Artigo 77.º
+    - Altera Capítulo V
+    - Altera Artigo 78.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/290/2009/p/cons/20150617/pt/html
+  oj: null
+  dre: '491685'
+  dre_path: /dr/detalhe/decreto-lei/290-2009-491685
+  internal: pt:dre:491685:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-2009-491685
+  metadata_url: https://data.dre.pt/eli/dec-lei/290/2009/p/cons/20150617/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-65884851
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-65884851
+  retrieved_at: '2026-10-22T11:57:20Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 248e51a37fd51d15270b3286d6ddac41e49bfe97ce28117902890193638224c0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:57:20Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-290-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Deficiente
+- Financiamento
+- Instituto do Emprego e Formação Profissional
+- Centro de Emprego Protegido
+- Formação Profissional
+- Barreira Arquitectónica
+- Emprego Protegido
+- Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades
+- Fórum para a Integração Profissional
+- Política de Emprego
+- Reconversão Profissional
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:669997:por
+  label: Altera Artigo 45.º; Altera Artigo 51.º; Altera Artigo 52.º; Altera Artigo 53.º; Altera Artigo 71.º; Altera Artigo
+    74.º; Altera Artigo 77.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/24-2011-669997
+  date: '2011-06-16'
+- type: amended_by
+  target: pt:dre:500020:por
+  label: Altera Artigo 5.º; Altera Artigo 29.º; Altera Artigo 33.º; Altera Artigo 34.º; Altera Artigo 41.º; Altera Artigo
+    44.º; Altera Artigo 52.º; Altera Artigo 69.º; Altera Artigo 72.º; Altera Artigo 74.º; Altera Artigo 75.º; Altera Artigo
+    76.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020
+  date: '2013-09-11'
+- type: amended_by
+  target: pt:dre:67507927:por
+  label: Adita Artigo 91.º-A; Altera Artigo 1.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 23.º; Altera Artigo 25.º; Altera Artigo 26.º;
+    Altera Artigo 27.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 33.º;
+    Altera Artigo 34.º; Altera Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927
+  date: '2015-06-17'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/8/1998/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/8/1998/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+article_structure:
+  article_count: 97
+  section_count: 24
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:57:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 290/2009
+
+Decreto-Lei n.º 290/2009
+
+de 12 de Outubro
+
+A formação e a inserção profissional de públicos desfavorecidos, em geral, e de pessoas com deficiências e incapacidades, em particular, é uma questão crucial na medida em que o trabalho e o emprego produtivo revestem de uma importância estruturante para as pessoas, para a família e para a sociedade no seu conjunto.
+
+Apesar de todos os esforços que têm sido desenvolvidos desde a década de 80, no que diz respeito à criação de medidas que favoreçam, potenciem e dignifiquem o acesso e a frequência das pessoas com deficiências e incapacidades no mercado de trabalho, nomeadamente, a criação de um sistema de formação profissional especializado, medidas de apoio e de compensação aos empregadores, ou modelo de emprego protegido, torna-se necessário sistematizar e inovar, de forma coerente e articulada, face à moldura legal que enquadra este anterior sistema.
+
+À luz das mais recentes normas e orientações internacionais, entre elas a Convenção dos Direitos das Pessoas com Deficiência, constituem princípios fundamentais da política da deficiência presentes na prática governativa do XVII Governo Constitucional, a afirmação dos direitos das pessoas com deficiências e incapacidades e o respeito pela dignidade que lhes é inerente, a não discriminação e a igualdade de oportunidades, através da criação de medidas como as que estão, antes de mais, plasmadas no I Plano de Acção para a Integração das Pessoas com Deficiência ou Incapacidades 2006-2009 (PAIPDI), nomeadamente no eixo n.º 2, «Educação, qualificação e promoção da inclusão laboral».
+
+Em termos nacionais, importa circunscrever o domínio de actuação do presente decreto-lei a vários normativos, desde logo, o regime jurídico da prevenção, habilitação, reabilitação e participação das pessoas com deficiências - Lei n.º 38/2004, de 18 de Agosto - que refere que a pessoa com deficiência tem direito ao acesso a todos os bens e serviços da sociedade e o direito e o dever de desempenhar um papel activo no desenvolvimento da sociedade e que não pode ser discriminada, directa ou indirectamente, por acção ou omissão, com base na deficiência, e que deve beneficiar de medidas de acção positiva com o objectivo de garantir o exercício dos seus direitos e deveres.
+
+Ainda no âmbito da referida Lei n.º 38/2004, de 18 de Agosto, e no domínio do direito ao emprego, trabalho e formação, compete ao Estado adoptar medidas específicas necessárias para assegurar o direito de acesso ao emprego, ao trabalho, à orientação, formação, habilitação e reabilitação profissionais e a adequação das condições de trabalho das pessoas com deficiência.
+
+Num plano programático e garantindo o princípio da transversalidade na Administração Pública, o Plano Nacional de Emprego aprovado pelo XVII Governo Constitucional definiu como uma prioridade a promoção da inserção no mercado de trabalho de pessoas desfavorecidas e o combate à discriminação de que são alvo. Esta prioridade concretiza-se, designadamente, através da implementação de uma nova geração de programas específicos de emprego para apoiar a integração socioprofissional dos grupos em risco de exclusão do mercado de trabalho e da mobilização dos recursos e factores locais e com competências especializadas, reforçando a articulação dos centros de emprego e dos centros de formação profissional com a rede de centros de recursos criada para apoiar a inserção das pessoas com deficiências e incapacidades.
+
+A legislação que enquadra em concreto os programas de reabilitação profissional - Decreto-Lei n.º 247/89, de 5 de Agosto, bem como o Decreto-Lei n.º 40/83, de 25 de Janeiro - conta já duas décadas de existência, carecendo de ser ajustada à evolução operada nesta área, bem como ao quadro da política de emprego e qualificação, implementada em anos mais recentes.
+
+Assim, o Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades que agrega matérias anteriormente previstas nos dois actos legislativos acima referidos, consagra medidas destinadas especificamente às pessoas com deficiências e incapacidades que apresentam dificuldades no acesso, manutenção e progressão no emprego, sem prejuízo do recurso às medidas gerais de emprego e formação profissional, que, aliás, prevêem em alguns casos especificidades para este público.
+
+O novo programa consagra ainda diversas modalidades de apoio, nomeadamente apoio à qualificação, que integra a formação profissional, e apoios à integração, manutenção e reintegração no mercado de trabalho, que se desenvolvem em acções de informação, avaliação e orientação para a qualificação e emprego, apoio à colocação, acompanhamento pós-colocação, adaptação de postos de trabalho, eliminação de barreiras arquitectónicas e isenção e redução de contribuições para a segurança social.
+
+No âmbito do emprego apoiado, com uma abrangência maior do que as anteriores modalidades de emprego protegido, integram-se a realização de estágios de inserção e de contratos emprego-inserção para pessoas com deficiências e incapacidades, centros de emprego protegido e contratos de emprego apoiado em entidades empregadoras, reconfigurando-se ainda o prémio de mérito.
+
+O processo de atribuição dos apoios deve, sempre que possível, ser acompanhado pelos serviços de saúde ocupacional da respectiva entidade empregadora.
+
+Por outro lado, este programa define o regime de concessão de apoio técnico e financeiro aos centros de reabilitação profissional de gestão participada, às entidades de reabilitação, bem como a criação de uma rede de centros de recursos de apoio à intervenção dos Centros de emprego a credenciar pelo Instituto do Emprego e Formação Profissional, I. P., e de um Fórum para a Integração Profissional.
+
+Com a aprovação do Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades, o Governo cumpre, igualmente, o compromisso que assumiu com os parceiros sociais no Acordo Tripartido para um Novo Sistema de Regulação das Relações Laborais, das Políticas de Emprego e da Protecção Social em Portugal, no sentido de lhes apresentar um conjunto de medidas para reforçar as políticas activas de emprego para pessoas com deficiências.
+
+Foram ouvidos, a título facultativo, os parceiros sociais com assento na Comissão Permanente de Concertação Social.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 7.º do Decreto-Lei n.º 132/99, de 21 de Abril, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei cria o Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades e define o regime de concessão de apoio técnico e financeiro para o desenvolvimento das políticas de emprego e apoio à qualificação das pessoas com deficiências e incapacidades, que compreende as seguintes medidas:
+
+a) Apoio à qualificação;
+
+b) Apoios à integração, manutenção e reintegração no mercado de trabalho;
+
+c) Emprego apoiado;
+
+d) [Revogada.]
+
+2 - São ainda definidos, no âmbito do programa agora criado, os apoios técnicos e financeiros aos centros de reabilitação profissional de gestão participada, às entidades de reabilitação que desenvolvem as acções previstas nas alíneas a) e b) do número anterior, bem como a credenciação de entidades da rede de centros de recursos do Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), e a criação do Fórum para a Integração Profissional.
+
+3 - O presente decreto-lei cria a Marca Entidade Empregadora Inclusiva.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 2.º — Programas de âmbito geral
+
+Para além das medidas que integram o presente programa, as pessoas com deficiências e incapacidades têm acesso aos programas e medidas gerais de emprego e formação profissional, e aos apoios neles previstos, nomeadamente os que incluem majorações e condições mais favoráveis.
+
+###### Artigo 3.º — Âmbito
+
+O presente decreto-lei é aplicável às pessoas com deficiências e incapacidades em idade activa, nas condições previstas nas respectivas medidas.
+
+###### Artigo 4.º — Conceitos
+
+Para os efeitos do presente decreto-lei, considera-se:
+
+a) «Pessoa com deficiência e incapacidade» aquela que apresenta limitações significativas ao nível da actividade e da participação, num ou vários domínios da vida, decorrentes de alterações funcionais e estruturais, de carácter permanente, e de cuja interacção com o meio envolvente resultem dificuldades continuadas, designadamente ao nível da obtenção, da manutenção e da progressão no emprego;
+
+b) «Pessoa com deficiência e incapacidade e capacidade de trabalho reduzida» aquela que possua capacidade produtiva inferior a 90 % da capacidade normal exigida a um trabalhador nas mesmas funções profissionais ou no mesmo posto de trabalho, em razão das alterações estruturais e funcionais e das limitações de actividade delas decorrentes.
+
+###### Artigo 5.º — Requisitos gerais de acesso
+
+1 - A concessão dos apoios financeiros às entidades promotoras das medidas previstas no presente decreto-lei, nos termos definidos nos capítulos seguintes e na respetiva regulamentação, depende do preenchimento, desde a data da candidatura e durante o respetivo período de concessão, dos seguintes requisitos:
+
+a) Encontrarem-se regularmente constituídas e devidamente registadas;
+
+b) Terem a situação regularizada perante a administração fiscal e a segurança social;
+
+c) Não se encontrarem em situação de incumprimento no que respeita a apoios comunitários ou nacionais, independentemente da sua natureza e objectivos, designadamente os concedidos pelo IEFP, I. P.;
+
+d) [Revogada].
+
+e) Preencherem os requisitos legais exigidos para o exercício da atividade ou apresentarem comprovativo de ter iniciado o processo aplicável;
+
+f) Não terem situações respeitantes a salários em atraso;
+
+g) Disporem de contabilidade organizada de acordo com o previsto na lei, quando aplicável;
+
+h) Não terem sido condenadas em processo-crime ou contraordenacional por violação, praticada com dolo ou negligência grosseira, de legislação de trabalho sobre discriminação no trabalho e emprego, nos últimos dois anos, salvo se, de sanção aplicada no âmbito desse processo resultar o prazo superior, caso em que se aplica este último.
+
+2 - A tramitação dos procedimentos administrativos previstos no presente decreto-lei é efetuada através de meios desmaterializados, assegurando:
+
+a) O recurso a meios seguros de autenticação segura, designadamente através do cartão de cidadão ou da chave móvel digital, nos termos do artigo 4.º da Lei n.º 37/2014, de 26 de junho;
+
+b) A disponibilização de informação e dados em formatos abertos, que permitam a leitura por máquina, nos termos da Lei n.º 36/2011, de 21 de junho;
+
+c) A interligação com a plataforma de interoperabilidade da Administração Pública e com o sistema de pesquisa online de informação pública a que se refere o Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.
+
+3 - No âmbito dos procedimentos administrativos previstos no presente decreto-lei, os requerentes podem solicitar a dispensa da apresentação dos documentos em posse de qualquer serviço ou organismo da Administração Pública, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+### Capítulo II — Apoio à qualificação
+
+###### Artigo 6.º — Objectivos, modalidades e destinatários
+
+1 - O apoio à qualificação das pessoas com deficiências e incapacidades é realizado através de acções de formação, inicial e contínua.
+
+2 - A formação profissional visa dotar as pessoas com deficiências e incapacidades dos conhecimentos e competências necessárias à obtenção de uma qualificação que lhes permita exercer uma actividade no mercado de trabalho, manter o emprego e progredir profissionalmente de forma sustentada.
+
+3 - A formação inicial destina-se às pessoas com deficiência e incapacidade que pretendem ingressar, reingressar ou manter-se no mercado de trabalho e que não dispõem de uma certificação escolar e ou profissional compatível com o exercício de uma profissão ou com a ocupação de um posto de trabalho.
+
+4 - Podem ainda ser destinatários da formação inicial pessoas com deficiência adquirida que necessitem de uma nova qualificação ou de reforço das suas competências profissionais, incluindo nas situações decorrentes de agravamento do seu estado, salvo se a respetiva responsabilidade estiver cometida a outra entidade por força de legislação especial, nomeadamente no âmbito do regime dos acidentes de trabalho e doenças profissionais.
+
+5 - A formação contínua destina-se às pessoas com deficiências e incapacidades empregadas ou desempregadas que pretendem melhorar as respectivas competências e qualificações visando a manutenção do emprego, progressão na carreira, reingresso no mercado de trabalho ou reconversão profissional, ajustando as suas qualificações às necessidades das empresas e do mercado de trabalho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 7.º — Organização da formação
+
+1 - A formação profissional desenvolve-se de forma integrada no contexto das acções destinadas à população em geral, com recurso aos referenciais constantes do Catálogo Nacional de Qualificações (CNQ), com o apoio especializado do IEFP, I. P., bem como através de acções especificamente destinadas às pessoas com deficiências e incapacidades, que embora com adaptações do meio não reúnam condições para aceder às primeiras.
+
+2 - O CNQ, sempre que se mostrar mais adequado, pode incluir referenciais específicos ajustados às características das pessoas com deficiências e incapacidades que por razões decorrentes da sua incapacidade não reúnam condições para cumprir os referenciais completos do CNQ.
+
+3 - As acções de formação especificamente destinadas às pessoas com deficiências e incapacidades são organizadas e desenvolvidas em estreita articulação com o mercado de trabalho, tendo em consideração as exigências do mesmo e as características e necessidades destas pessoas.
+
+4 - A formação profissional de pessoas com deficiências e incapacidades deve, sempre que necessário, integrar uma componente de reabilitação funcional e actualização de competências, visando o desenvolvimento da autonomia pessoal, de atitudes profissionais, de comunicação, de reforço da auto-imagem e da auto-estima, da motivação e de condições de empregabilidade, bem como a aprendizagem ou reaprendizagem das condições necessárias à plena participação das pessoas com deficiências e incapacidades.
+
+5 - Para a concretização dos objectivos de formação contínua, e quando não seja possível a constituição de um grupo de formandos, podem ser desenvolvidos planos individualizados de formação contínua, utilizando os meios e recursos da formação inicial, com a correspondente imputação de custos às modalidades de formação.
+
+###### Artigo 8.º — Fases da formação
+
+1 - A formação é desenvolvida nos termos que venham a ser objecto de regulamentação específica, podendo integrar diferentes fases que possibilitem a construção de respostas formativas ajustadas aos destinatários das acções e que podem integrar, entre outras, as seguintes fases:
+
+a) Recuperação e actualização de competências pessoais e sociais, que pode incluir o desenvolvimento de actividades no âmbito da orientação profissional, preferencialmente distribuídas ao longo da formação;
+
+b) A aquisição das competências necessárias à qualificação profissional certificada ou à ocupação de um posto de trabalho no âmbito de acções destinadas à população em geral ou de acções específicas de formação para pessoas com deficiências e incapacidades;
+
+c) Formação em contexto de trabalho, que visa promover o treino de competências pessoais e técnicas em ambiente real de trabalho, bem como facilitar o processo de aproximação dos formandos ao mercado de trabalho.
+
+2 - A duração máxima das acções de qualificação das pessoas com deficiências e incapacidades deve ter como referência as 2900 horas, sem prejuízo do disposto no número seguinte.
+
+3 - As acções de qualificação das pessoas com deficiências e incapacidades podem ainda ter a duração das acções de qualificação prevista nos referenciais que integram o CNQ, com ou sem adaptações, ou a duração que venha a ser fixada em regulamentação específica.
+
+4 - A frequência de ações, pelos destinatários previstos no n.º 4 do artigo 6.º, pode ser precedida de uma fase prévia destinada à recuperação e atualização de competências pessoais e sociais, com uma duração máxima de 800 horas, a acrescer às horas previstas para as ações de qualificação, nos termos dos n.os 2 e 3 do presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 9.º — Certificação da formação
+
+1 - A formação ministrada nos termos do artigo 7.º deve ser, progressivamente, integrada no CNQ, com as adaptações que venham a ser consideradas necessárias, para viabilizar o acesso à dupla certificação, de acordo com o estabelecido no n.º 2 do artigo 9.º Decreto-Lei n.º 396/2007, de 31 de Dezembro.
+
+2 - As pessoas com deficiências e incapacidades podem, ainda, ter acesso à caderneta individual de competências, nas condições previstas no artigo 8.º do decreto-lei referido no número anterior.
+
+###### Artigo 10.º — Promotores
+
+1 - Podem candidatar-se aos apoios financeiros à formação profissional as pessoas colectivas de direito privado e de direito público que não façam parte da administração directa do Estado que realizem acções de formação profissional para pessoas com deficiências e incapacidades.
+
+2 - Podem ainda candidatar-se aos apoios financeiros à formação profissional as entidades empregadoras relativamente às acções de formação profissional desenvolvidas para os seus trabalhadores com deficiências e incapacidade.
+
+###### Artigo 11.º — Requisitos específicos
+
+Para além dos requisitos previstos no artigo 5.º, os promotores de acções de formação destinadas às pessoas com deficiências e incapacidades previstos no n.º 1 do artigo anterior devem ainda:
+
+a) Possuir certificação adequada, nos termos da legislação aplicável;
+
+b) Reunir condições técnicas, meios e recursos para desenvolverem a actividade a que se candidatam;
+
+c) Dispor de uma equipa técnica ajustada ao desenvolvimento das acções e dos públicos a que se destinam;
+
+d) Dispor de capacidade organizativa e pedagógica, quando exigível em função das acções, bem como dos meios humanos e materiais necessários à implementação das acções;
+
+e) Possuir reconhecida capacidade técnica e experiência no âmbito da habilitação e reabilitação profissional das pessoas com deficiências e incapacidades.
+
+###### Artigo 12.º — Apoios financeiros à formação profissional
+
+1 - Para efeitos de atribuição dos apoios financeiros às acções de formação profissional, podem ser elegíveis as despesas relativas:
+
+a) Ao acompanhamento psicopedagógico;
+
+b) À adopção de medidas ergonómicas destinadas ao ajustamento dos locais de formação, instrumentos e utensílios às limitações funcionais dos formandos com deficiência, de forma a alcançar-se maior rendimento e segurança na actividade desenvolvida;
+
+c) À eliminação de barreiras arquitectónicas, incluindo as que dizem respeito à acessibilidade aos locais de formação;
+
+d) Recrutamento, avaliação e orientação dos formandos;
+
+e) Bolsa, alimentação, alojamento, transporte, despesas de acolhimento e encargos com seguros dos formandos;
+
+f) Remunerações dos formadores, pessoal técnico não docente, administrativo e auxiliar, bem como outros encargos com alojamento, alimentação e transportes quando aplicáveis;
+
+g) Rendas, alugueres e amortizações;
+
+h) Encargos directos com a preparação, desenvolvimento, acompanhamento e avaliação dos projectos;
+
+i) Encargos gerais do projecto;
+
+j) Encargos com a promoção de encontros e seminários temáticos;
+
+l) Formação de pessoal docente e técnico não docente;
+
+m) Divulgação, avaliação e controlo das acções.
+
+2 - Para efeitos de atribuição dos apoios financeiros às acções de formação profissional contínua desenvolvidas pelas entidades empregadoras para os seus trabalhadores com deficiências e incapacidades, podem ser elegíveis as despesas relativas:
+
+a) À adaptação do posto de formação;
+
+b) À aquisição de recursos pedagógicos e didácticos adaptados às pessoas com deficiências e incapacidades;
+
+c) À aquisição de serviços especializados de forma a possibilitar o acesso e a frequência da formação.
+
+3 - Os termos em que se processa o acesso aos apoios financeiros no âmbito da qualificação das pessoas com deficiências e incapacidades são definidos em regulamentação específica.
+
+###### Artigo 13.º — Fundos comunitários
+
+Sempre que os apoios concedidos pelo IEFP, I. P., sejam passíveis de co-financiamento por fundos comunitários, designadamente pelo Fundo Social Europeu, a concessão dos apoios deve respeitar as respectivas elegibilidades e normas de acesso.
+
+###### Artigo 14.º — Legislação aplicável
+
+Para além do disposto na presente secção, é aplicável a regulamentação dos apoios gerais à formação profissional, com as devidas adaptações.
+
+### Capítulo III — Apoios à integração, manutenção e reintegração no mercado de trabalho
+
+#### Secção I — Disposições gerais
+
+###### Artigo 15.º — Objectivos e modalidades
+
+1 - A medida prevista no presente capítulo visa promover a integração, manutenção e reintegração no mercado de trabalho das pessoas com deficiências e incapacidades e integra as seguintes modalidades:
+
+a) Informação, avaliação e orientação para a qualificação e emprego;
+
+b) Apoio à colocação;
+
+c) Acompanhamento pós-colocação;
+
+d) Adaptação de postos de trabalho e eliminação de barreiras arquitectónicas;
+
+e) Isenção e redução de contribuições para a segurança social.
+
+2 - As isenções e reduções das contribuições para a segurança social a cargo de entidades empregadoras que contratem pessoas com deficiências e incapacidades são reguladas em legislação especial.
+
+###### Artigo 16.º — Competências dos centros de emprego
+
+1 - A integração em acções de informação, avaliação e orientação para a qualificação e o emprego, a colocação e o acompanhamento pós-colocação constituem competência dos centros de emprego, relativamente às pessoas com deficiências e incapacidades neles inscritas, identificadas e desenvolvidas no âmbito dos respectivos planos pessoais de emprego (PPE).
+
+2 - Os centros de emprego podem solicitar que as acções previstas no número anterior sejam realizadas por entidades credenciadas como centros de recurso, nos termos do capítulo vii, sempre que se justifique a necessidade de intervenção especializada no contexto do PPE definido para cada destinatário.
+
+3 - Os centros de emprego ou centros de emprego e formação profissional podem também solicitar às entidades formadoras que desenvolvem ações de qualificação previstas no capítulo II que realizem ações de acompanhamento pós-colocação, pelo período máximo de 12 meses, relativamente aos seus formandos que fiquem empregados no final da formação, em termos equiparados às ações desenvolvidas pelos centros de recursos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 17.º — Articulação
+
+1 - As ações de informação, avaliação e orientação para a qualificação e o emprego, a colocação e o acompanhamento pós-colocação realizadas nos termos previstos nos n.os 2 e 3 do artigo anterior são desenvolvidas pelos centros de recursos ou pelas entidades formadoras em estreita articulação com o respetivo centro de emprego ou centro de emprego e formação profissional.
+
+2 - As acções previstas no número anterior, enquanto intervenções complementares e de apoio à actuação dos centros de emprego, são desenvolvidas pelos centros de recursos no estrito cumprimento do PPE definido para cada um dos destinatários, com vista a encontrar as respostas mais adequadas à sua inserção socioprofissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+#### Secção II — Informação, avaliação e orientação para a qualificação e o emprego
+
+###### Artigo 18.º — Objectivos específicos
+
+1 - A informação, a avaliação e a orientação para a qualificação e o emprego têm como objectivo apoiar as pessoas com deficiências e incapacidades, inscritas nos centros de emprego, na tomada de decisões vocacionais adequadas, disponibilizando a informação necessária para o efeito, promovendo a avaliação da sua funcionalidade e incapacidade e a determinação dos meios e apoios considerados indispensáveis à definição e desenvolvimento do seu PPE.
+
+2 - As prestações técnicas de informação para a qualificação e o emprego visam proporcionar à pessoa com deficiências e incapacidades os elementos úteis para a definição de possíveis percursos profissionais, nomeadamente no que se refere a informação sobre o mercado de trabalho, as actividades profissionais, os apoios ao emprego, à formação profissional, à igualdade de oportunidades no mercado de trabalho e informação sobre os produtos e dispositivos destinados a compensar e atenuar as limitações de actividade.
+
+3 - As prestações técnicas de avaliação para a qualificação e o emprego visam aferir o desempenho, a capacidade, as limitações de actividade e as restrições na participação da pessoa com deficiências e incapacidades, com especial incidência ao nível do emprego e trabalho, determinar a sua capacidade de trabalho e identificar as adaptações do meio e os produtos e dispositivos mais adequados, com vista a superar as limitações de actividade e restrições de participação no âmbito do trabalho e emprego.
+
+4 - As prestações técnicas de orientação para a qualificação e o emprego visam apoiar a pessoa com deficiências e incapacidades na escolha informada do seu percurso profissional em concordância com as suas características pessoais e expectativas, na elevação do seu nível de empregabilidade e na inserção no mercado de trabalho, nomeadamente através da identificação das etapas e dos meios mais adequados para o efeito.
+
+###### Artigo 19.º — Destinatários
+
+São destinatários da medida prevista na presente secção as pessoas com deficiência e incapacidade, inscritas nos centros de emprego ou centros de emprego e formação profissional, incluindo as que solicitem apoio financeiro ao IEFP, I. P., para aquisição de produtos de apoio e os trabalhadores em regime de emprego apoiado, para efeitos de avaliação da capacidade de trabalho, prevista nos artigos 72.º e seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 20.º — Duração
+
+As ações de informação, avaliação e orientação para a qualificação e o emprego têm um período máximo de duração de quatro meses.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+#### Secção III — Apoio à colocação
+
+###### Artigo 21.º — Objectivos específicos
+
+O apoio à colocação visa promover a inserção no mercado de trabalho das pessoas com deficiências e incapacidades, inscritas nos centros de emprego, através de um processo de mediação entre as mesmas e as entidades empregadoras, equacionando simultaneamente os aspectos relativos à acessibilidade, à adaptação do posto de trabalho, ao desenvolvimento de competências gerais de empregabilidade, bem como sensibilizando as entidades empregadoras para as vantagens da contratação deste público, e apoiando o destinatário na procura activa de emprego e na criação do próprio emprego.
+
+###### Artigo 22.º — Destinatários
+
+São destinatários do apoio à colocação as pessoas com deficiências e incapacidades desempregadas ou empregadas que pretendam mudar de emprego, desde que inscritas nos centros de emprego, bem como as entidades empregadoras que pretendam contratar trabalhadores com deficiências e incapacidades.
+
+###### Artigo 23.º — Duração
+
+1 - As ações de apoio à colocação têm um período máximo de duração de 12 meses.
+
+2 - A contagem do prazo referido no número anterior suspende-se caso o destinatário seja integrado num estágio ou num contrato emprego-inserção que constitua uma etapa prévia do processo de inserção profissional, podendo ser retomada logo que este termine.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+#### Secção IV — Acompanhamento pós-colocação
+
+###### Artigo 24.º — Objectivos específicos
+
+O acompanhamento pós-colocação visa a manutenção no emprego e a progressão na carreira da pessoa com deficiências e incapacidades, através do apoio técnico aos trabalhadores com deficiências e incapacidades e respectivas entidades empregadoras, nos seguintes aspectos:
+
+a) Adaptação às funções a desenvolver e ao posto de trabalho;
+
+b) Integração no ambiente sócio-laboral da empresa;
+
+c) Desenvolvimento de comportamentos pessoais e sociais adequados ao estatuto de trabalhador;
+
+d) Acessibilidade e deslocações para as instalações da empresa por parte dos trabalhadores com deficiência.
+
+###### Artigo 25.º — Destinatários
+
+São destinatários do acompanhamento pós-colocação trabalhadores com deficiência e incapacidade, por conta própria ou de outrem, que necessitem de apoio para a manutenção ou progressão no emprego, bem como empregadores que admitam trabalhadores com estas características ou que mantenham ao seu serviço trabalhadores que tenham adquirido deficiência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 26.º — Duração
+
+1 - O período máximo de duração das ações de acompanhamento pós-colocação é de 12 meses, podendo ser prorrogado até ao limite de 24 meses, em situações excecionais, designadamente, no caso de pessoas com deficiências ao nível das funções mentais, desde que devidamente justificado.
+
+2 - Para efeitos do número anterior, as acções podem ser realizadas de forma contínua ou interpolada, consoante as necessidades de intervenção adequadas a cada trabalhador.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 27.º — Alargamento do âmbito de aplicação
+
+1 - O acompanhamento pós-colocação é ainda aplicável, com as necessárias adaptações, aos destinatários inseridos em estágios financiados pelo IEFP,I. P., em qualquer das modalidades de contrato emprego-inserção ou no emprego apoiado em mercado aberto.
+
+2 - As acções previstas no número anterior têm a seguinte duração máxima:
+
+a) Estágios ou qualquer das modalidades de contrato emprego-inserção, período de realização das mesmas;
+
+b) Emprego apoiado em mercado aberto, 36 meses, podendo ser prorrogado, anualmente, quando existam razões fundamentadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+#### Secção V — Concessão de apoios financeiros
+
+###### Artigo 28.º — Apoios aos destinatários
+
+1 - As pessoas com deficiências e incapacidades integradas nas acções de informação, avaliação e orientação para a qualificação e emprego e de apoio à colocação podem beneficiar de apoios financeiros à frequência das mesmas, com vista, nomeadamente, ao pagamento de despesas de deslocação, alimentação, alojamento, acolhimento de dependentes e seguros, em termos a regulamentar.
+
+2 - O IEFP, I. P., comparticipa na íntegra as despesas efectuadas pelos centros de recursos com os apoios concedidos nos termos do número anterior.
+
+###### Artigo 29.º — Apoios financeiros aos centros de recursos
+
+1 - O IEFP, I. P., concede apoios financeiros destinados à comparticipação nas despesas com as acções de informação, avaliação e orientação para a qualificação e o emprego, apoio à colocação e acompanhamento pós-colocação, desenvolvidas pelos centros de recursos, nos termos do disposto no artigo 16.º, ao abrigo dos acordos de cooperação previstos no capítulo vii.
+
+2 - Para efeitos do número anterior, os montantes máximos a pagar, por cada destinatário, são estabelecidos com base no valor do indexante dos apoios sociais (IAS), nos seguintes termos:
+
+a) Informação, avaliação e orientação para a qualificação e o emprego, 75 % do valor do IAS;
+
+b) Apoio à colocação, 1,5 vezes o valor do IAS;
+
+c) Acompanhamento pós-colocação, 1,25 vezes o valor do IAS.
+
+3 - O valor previsto na alínea c) do número anterior é reduzido ou aumentado de forma proporcional, tendo como referência o período máximo de 12 meses previsto no artigo 26.º e a efectiva duração da acção.
+
+4 - Sempre que o centro de recursos proceda à colocação da pessoa com deficiência e incapacidade, no âmbito da ação de apoio à colocação, pode beneficiar ainda do seguinte apoio, concedido de uma só vez, sob a forma de subsídio não reembolsável:
+
+a) O valor do IAS, por cada destinatário colocado com contrato de trabalho a termo com duração mínima de 12 meses;
+
+b) Uma vez e meia o valor do IAS, por cada destinatário que crie o próprio emprego ou que seja colocado com contrato de trabalho sem termo.
+
+5 - [Revogado.]
+
+6 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+#### Secção VI — Adaptação de postos de trabalho e eliminação de barreiras arquitectónicas
+
+###### Artigo 30.º — Objectivos específicos
+
+Os apoios à adaptação de postos de trabalho e eliminação de barreiras arquitetónicas visam promover a integração socioprofissional da pessoa com deficiência e incapacidade no mercado normal de trabalho ou a manutenção do emprego nos casos de deficiência e incapacidade adquirida, nomeadamente através de apoios que compensem os empregadores dos encargos decorrentes da sua contratação ou manutenção no emprego.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 31.º — Destinatários
+
+Constituem destinatários dos apoios à adaptação de postos de trabalho e à eliminação de barreiras arquitetónicas as pessoas com deficiência e incapacidade desempregadas ou à procura do primeiro emprego, inscritas nos centros de emprego ou nos centros de emprego e formação profissional, bem como os trabalhadores que adquiram deficiência e incapacidade no decurso da sua vida profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 32.º — Critérios gerais de concessão dos apoios
+
+1 - A adaptação de postos de trabalho e a eliminação de barreiras arquitectónicas são da responsabilidade das entidades empregadoras.
+
+2 - O IEFP, I. P., pode, excepcionalmente, conceder os apoios previstos na presente secção às entidades empregadoras quando se verifiquem as seguintes condições:
+
+a) A imprescindibilidade dos mesmos para o acesso ao emprego da pessoa com deficiência e incapacidade ou para a manutenção do emprego do trabalhador que tenha adquirido deficiência e incapacidade, confirmada pelo centro de emprego ou centro de emprego e formação profissional;
+
+b) A necessidade e adequação da adaptação ou da eliminação de barreiras arquitectónicas, resultante da avaliação de um determinado posto de trabalho e do desempenho do trabalhador para o mesmo;
+
+c) A rentabilidade social dos valores aplicados nos vários esquemas de apoio financeiro face às alternativas de colocação e às aptidões profissionais da pessoa com deficiências e incapacidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 33.º — Apoio para adaptação de postos de trabalho
+
+1 - O IEFP, I. P., concede apoio financeiro para adaptação de postos de trabalho aos empregadores de direito privado ou de direito público que não façam parte da administração direta do Estado que necessitem de adaptar o equipamento ou o posto de trabalho às dificuldades funcionais do trabalhador, nos seguintes casos:
+
+a) Admissão de pessoa com deficiência e incapacidade desempregada ou à procura do primeiro emprego, inscrita nos centros de emprego ou nos centros de emprego e formação profissional, através de contrato de trabalho sem termo ou a termo com duração mínima inicial de um ano;
+
+b) Manutenção do emprego do trabalhador que tenha adquirido deficiência e incapacidade no decurso do contrato de trabalho.
+
+2 - O apoio previsto no presente artigo não é aplicável às adaptações de posto de trabalho de trabalhadores vítimas de acidentes de trabalho ou de doença profissional, sempre que essa responsabilidade pertença à entidade empregadora ao serviço da qual ocorreu o acidente ou doença, ou ao respectivo grupo empresarial, nos termos da legislação em vigor.
+
+3 - As soluções técnicas e ergonómicas para as quais é requerido o apoio referido no número anterior são apreciadas caso a caso.
+
+4 - O apoio não pode exceder 16 vezes o valor do IAS por cada pessoa com deficiência e incapacidade e, no caso de apoio para manutenção do emprego, não pode ainda exceder 50 % do custo da adaptação.
+
+5 - O apoio previsto no presente artigo é aplicável nos estágios financiados pelo IEFP, I. P., e em qualquer das modalidades de contrato emprego-inserção, não podendo exceder 50 % do valor previsto na primeira parte do número anterior.
+
+6 - Quando ocorra a contratação da pessoa com deficiência e incapacidade pela entidade promotora, nos termos previstos na alínea a) no n.º 1, no final da execução do estágio ou do contrato emprego-inserção, pode ser comparticipado o valor remanescente da solução técnica apoiada nos termos no número anterior, até ao valor previsto na primeira parte do n.º 4.
+
+7 - O apoio para adaptação do posto de trabalho sob a forma de subsídio não reembolsável, é pago de uma só vez.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+###### Artigo 34.º — Apoio para eliminação de barreiras arquitectónicas
+
+1 - O IEFP, I. P., concede apoio financeiro para eliminação de barreiras arquitetónicas aos empregadores de direito privado ou de direito público que não façam parte da administração direta do Estado que admitam pessoas com deficiência e incapacidade nas condições referidas no n.º 1 do artigo anterior e cuja funcionalidade dependa das alterações a introduzir no posto de trabalho.
+
+2 - As soluções técnicas para as quais é requerido o apoio, bem como o tipo de deficiência ou incapacidade que fundamenta o seu pedido, são apreciadas caso a caso.
+
+3 - O apoio financeiro é apenas concedido aos empregadores de direito privado ou de direito público que não façam parte da administração direta do Estado cujas instalações tenham sido licenciadas ou construídas antes de 8 de fevereiro de 2007, nos termos da legislação em vigor.
+
+4 - O apoio financeiro não pode exceder 50 % do valor da obra ou meio técnico adquirido, até ao limite de 16 vezes o valor do IAS.
+
+5 - Para efeitos do presente artigo é aplicável o disposto nos n.os 2 e 7 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+###### Artigo 35.º — Trabalho a tempo parcial
+
+Os apoios previstos na presente secção podem ser concedidos no caso de contratação a tempo parcial, desde que o período normal de trabalho seja igual ou superior a 50 % do respectivo limite máximo legal.
+
+###### Artigo 36.º — Cessação do contrato
+
+1 - A cessação do contrato de trabalho, antes do fim do respetivo prazo, inicial ou subsequente, ou nos três anos subsequentes à admissão do trabalhador, no caso de contratos sem termo, ou da atribuição do apoio, no caso da manutenção do emprego, determina a devolução do apoio concedido, nas seguintes situações:
+
+a) Revogação do contrato de trabalho;
+
+b) Cessação do contrato de trabalho por iniciativa da entidade empregadora, com excepção do despedimento por facto imputável ao trabalhador;
+
+c) Cessação do contrato de trabalho por iniciativa do trabalhador, por facto imputável à entidade empregadora.
+
+2 - Quando ocorra a cessação antecipada do contrato no âmbito do estágio ou de qualquer das modalidades de contrato emprego-inserção é aplicável o previsto no número anterior, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 37.º — Acumulação de apoios
+
+Os apoios para adaptação de postos de trabalho e eliminação de barreiras arquitectónicas são cumuláveis entre si e não podem ser concedidos por mais de uma vez à mesma entidade empregadora em relação às mesmas adaptações.
+
+### Capítulo IV — Emprego apoiado
+
+#### Secção I — Conceito e modalidades de emprego apoiado
+
+###### Artigo 38.º — Conceito e objectivos
+
+1 - Considera-se emprego apoiado o exercício de uma actividade profissional ou socialmente útil com enquadramento adequado e com possibilidade de atribuição de apoios especiais por parte do Estado, que visa permitir às pessoas com deficiências e incapacidades o desenvolvimento de competências pessoais e profissionais que facilitem a sua transição, quando possível, para o regime normal de trabalho.
+
+2 - Considera-se ainda emprego apoiado o desenvolvimento de actividades em contexto laboral, sob a forma de estágios de inserção, que visem aferir as condições para o exercício de uma actividade profissional, desenvolver competências pessoais e profissionais e promover a inserção profissional das pessoas com deficiências e incapacidades.
+
+###### Artigo 39.º — Modalidades
+
+O emprego apoiado pode ser desenvolvido nas seguintes modalidades:
+
+a) Estágio de inserção para pessoas com deficiências e incapacidades;
+
+b) Contrato emprego-inserção para pessoas com deficiências e incapacidades;
+
+c) Emprego protegido;
+
+d) Emprego apoiado em mercado aberto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+#### Secção II — Estágios de inserção para pessoas com deficiências e incapacidades
+
+###### Artigo 40.º — Objectivos
+
+Os estágios de inserção visam apoiar a integração ou reintegração no mercado de trabalho de pessoas com deficiências e incapacidades desempregadas ou à procura de primeiro emprego, através de formação prática em contexto laboral, que complemente e aperfeiçoe as suas competências, de forma a facilitar o seu recrutamento e integração e potenciar o desempenho profissional.
+
+###### Artigo 41.º — Regime
+
+1 - Os estágios de inserção para pessoas com deficiência e incapacidade previstos no presente capítulo regem-se, com as necessárias adaptações, pelas disposições aplicáveis à medida estágios emprego prevista em legislação própria, sem prejuízo do disposto nos números seguintes.
+
+2 - Podem beneficiar de estágios de inserção as pessoas com deficiência e incapacidade, desempregadas ou à procura do primeiro emprego, inscritas nos centros de emprego ou centros de emprego e formação profissional.
+
+3 - Os destinatários que não possuam qualquer dos níveis de qualificação previstos na medida estágios emprego beneficiam de uma bolsa mensal de estágio de montante igual ao valor do IAS.
+
+4 - Têm prioridade as candidaturas em que o estágio constitua a primeira etapa de um processo de inserção profissional sob a forma de emprego em regime normal ou contrato de emprego apoiado em entidade empregadora.
+
+5 - Os estágios de inserção para pessoas com deficiências e incapacidades têm um regime de candidatura aberta.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+#### Secção III — Contrato emprego-inserção para pessoas com deficiências e incapacidades
+
+###### Artigo 42.º — Objectivos
+
+O contrato emprego-inserção para pessoas com deficiências e incapacidades possibilita o desenvolvimento de actividades socialmente úteis por parte da pessoa com deficiências e incapacidades, com vista a reforçar as suas competências relacionais e pessoais, valorizar a auto-estima, bem como estimular hábitos de trabalho, enquanto não tiver oportunidade de trabalho por conta própria ou de outrem ou de formação profissional, de forma a promover e apoiar a sua transição para o mercado de trabalho.
+
+###### Artigo 43.º — Regime
+
+1 - As pessoas com deficiências e incapacidades, desempregadas ou à procura do primeiro emprego, inscritas nos centros de emprego, podem desenvolver actividades socialmente úteis através do contrato emprego-inserção para pessoas com deficiências e incapacidades, que se rege, com as necessárias adaptações, pelas disposições aplicáveis ao «Contrato emprego-inserção +», previsto em legislação própria, salvo o disposto no número seguinte.
+
+2 - O desenvolvimento de actividades socialmente úteis por parte das pessoas com deficiências e incapacidades, beneficiárias do subsídio de desemprego, subsídio social de desemprego ou do rendimento social de inserção, que reúnam os requisitos de acesso às medidas «Contrato emprego-inserção» e «Contrato emprego-inserção +» é realizado ao abrigo do respectivo regime jurídico, com as especificidades previstas no artigo seguinte.
+
+###### Artigo 44.º — Apoios financeiros
+
+1 - Sem prejuízo da concessão dos apoios previstos no regime jurídico do «Contrato emprego-inserção» e do «Contrato emprego-inserção +», caso a entidade promotora não assegure ao destinatário o transporte entre a residência habitual e o local da atividade, deve pagar as despesas de transporte em montante equivalente ao custo das viagens realizadas em transporte coletivo ou, se não for possível a sua utilização, subsídio de transporte mensal no montante máximo de 12,5% do IAS, salvo situações excecionais e devidamente fundamentadas, a apreciar pelo IEFP, I. P.
+
+2 - Para além dos apoios financeiros previstos no regime jurídico do «Contrato emprego-inserção» e do «Contrato emprego-inserção +», o IEFP, I. P., concede ainda às entidades promotoras das medidas previstas no artigo anterior os seguintes apoios:
+
+a) Comparticipação nas despesas de transporte e subsídio de alimentação com os destinatários com deficiências e incapacidades, realizadas nos termos previstos na respectiva legislação, em qualquer das modalidades de contrato emprego-inserção previstas no artigo anterior;
+
+b) Comparticipação integral na bolsa mensal complementar, no «Contrato emprego-inserção».
+
+3 - A comparticipação financeira prevista no presente artigo pode ser efetuada com base na modalidade de custos unitários, por mês e por beneficiário, nos termos previstos no regime jurídico do «Contrato emprego-inserção» e do «Contrato emprego-inserção +
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+#### Secção IV — Emprego protegido
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 45.º — Conceito
+
+1 - Considera-se emprego protegido a atividade profissional desenvolvida por pessoas com deficiência e incapacidade e com capacidade de trabalho reduzida em estruturas produtivas dos setores primário, secundário ou terciário, com personalidade jurídica própria ou as estruturas de pessoas coletivas de direito público ou privado, dotadas de autonomia administrativa e financeira e denominados centros de emprego protegido.
+
+2 - Os centros de emprego protegido são criados especificamente para proporcionar às pessoas com deficiência e incapacidade e com capacidade de trabalho reduzida o exercício de uma atividade profissional e o desenvolvimento de competências pessoais, sociais e profissionais necessárias à sua integração, sempre que possível, em regime normal de trabalho ou em emprego apoiado em mercado aberto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/24-2011-669997), em vigor a partir de 2011-12-31
+
+###### Artigo 46.º — Destinatários
+
+O emprego protegido destina-se a pessoas com deficiência e incapacidade, inscritas em centros de emprego ou centros de emprego e formação profissional, com capacidade de trabalho não inferior a 30 % nem superior a 75 % da capacidade normal de trabalho de um trabalhador nas mesmas funções profissionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 47.º — Criação de centros de emprego protegido
+
+1 - Os centros de emprego protegido podem ser criados por iniciativa de pessoas colectivas de direito público que não façam parte da administração directa do Estado e por pessoas colectivas de direito privado sem fins lucrativos.
+
+2 - As pessoas colectivas referidas no número anterior que pretendam criar um centro de emprego protegido devem obter autorização prévia do IEFP, I. P., devendo apresentar para o efeito um estudo com indicação, nomeadamente, de:
+
+a) Pessoas com deficiências e incapacidades, nas condições previstas no artigo anterior, que reúnam as condições indicadas para emprego protegido e que residam na área geográfica em que se pretenda implantar o centro de emprego protegido;
+
+b) Localização e dimensionamento;
+
+c) Natureza ou tipo de actividade a exercer e suas características;
+
+d) Interesse social e viabilidade do empreendimento;
+
+e) Número de postos de trabalho a ocupar por trabalhador em regime de emprego protegido e por outros trabalhadores;
+
+f) Composição da equipa de enquadramento e de acompanhamento e apoio aos trabalhadores em regime de emprego protegido, no âmbito da reabilitação e inserção profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 48.º — Tutela
+
+1 - Os centros de emprego protegido estão sujeitos à tutela do IEFP, I. P., cujos poderes incidem, nomeadamente, sobre:
+
+a) Avaliação da pessoa com deficiências e incapacidades e capacidade de trabalho reduzida;
+
+b) Apoio médico, social e psicológico do trabalhador;
+
+c) Valorização pessoal e profissional do trabalhador;
+
+d) Fiscalização e controlo do centro de emprego protegido e dos apoios que lhe são concedidos;
+
+e) Cumprimento, por parte do centro de emprego protegido, das normas estabelecidas no presente decreto-lei e demais regulamentação aplicável.
+
+2 - O IEFP, I. P., pode cancelar a autorização de funcionamento do centro de emprego protegido quando para tal haja motivo justificado, sem prejuízo das responsabilidades que a respectiva gestão tenha assumido para com terceiros.
+
+###### Artigo 49.º — Organização
+
+1 - Os centros de emprego protegido organizam-se e funcionam em moldes empresariais comuns, com as adaptações exigidas quer pela natureza dos trabalhadores que ocupam, quer pela necessidade de apoios complementares e pelos fins que prosseguem.
+
+2 - O número de postos de trabalho ocupados por trabalhadores não abrangidos pelo regime de emprego protegido não pode ultrapassar 30 % do número global de postos de trabalho.
+
+###### Artigo 50.º — Regulamento
+
+Os centros de emprego protegido têm um regulamento próprio, elaborado pela entidade empregadora de acordo com as normas estabelecidas no presente decreto-lei e demais regulamentação aplicável, aprovado pelo IEFP, I. P.
+
+###### Artigo 51.º — Apoio técnico
+
+O IEFP, I. P., concede apoio técnico à instalação, funcionamento e, quando solicitado, à gestão dos centros de emprego protegido.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/24-2011-669997), em vigor a partir de 2011-12-31
+
+###### Artigo 52.º — Apoios financeiros
+
+1 - O IEFP, I. P., pode conceder apoios financeiros aos centros de emprego protegido criados por pessoas colectivas de direito privado sem fins lucrativos, mediante a celebração de acordos.
+
+2 - Os apoios financeiros destinam-se a comparticipar despesas com a construção, instalação e equipamentos dos centros de emprego protegido, com a sua manutenção e conservação, quando solicitado, bem como com a retribuição e contribuições para a segurança social dos trabalhadores em regime de emprego protegido, nos termos da secção VII.
+
+3 - Os apoios concedidos podem ainda assumir a forma de prémio de incentivo à transição para o mercado normal de trabalho, bem como a comparticipação nas despesas do técnico de acompanhamento laboral, no âmbito de programa de apoio à mediação e acompanhamento, nos termos a regulamentar pelo membro do Governo responsável pelas áreas do emprego e da formação profissional.
+
+4 - As instalações e os equipamentos adquiridos com os referidos apoios revertem para o IEFP, I. P., quando as entidades beneficiárias forem extintas, dissolvidas ou deixarem de prosseguir os fins a que se destinavam aqueles bens, sendo insusceptíveis de entrarem em processo de liquidação do seu património.
+
+5 - O IEFP, I. P., pode ainda conceder apoios financeiros aos centros de emprego protegido criados por pessoas coletivas de direito público, destinados à comparticipação na retribuição e contribuições para a segurança social dos trabalhadores em regime de emprego protegido, nos termos da secção VII, bem como os apoios previstos no n.º 3.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/24-2011-669997), em vigor a partir de 2011-12-31
+
+###### Artigo 53.º — Apoio financeiro à construção, equipamento e instalação
+
+1 - A concessão de apoio financeiro para a construção, equipamento e instalação do centro de emprego protegido às entidades previstas no n.º 1 do artigo anterior depende da avaliação da sua necessidade e adequação no âmbito da rede de centros de emprego protegido, de acordo com as linhas de orientação e as prioridades definidas pelo IEFP, I. P., para a criação de respostas que promovam a integração profissional das pessoas com deficiências e incapacidades que não reúnem condições para o acesso imediato ao regime normal de trabalho.
+
+2 - As pessoas colectivas de direito privado sem fins lucrativos que pretendam apoios financeiros para a construção, instalação e equipamento do centro de emprego protegido, devem apresentar ao IEFP, I. P., um requerimento, acompanhado da documentação necessária para o efeito, designadamente estimativa dos custos e documentos legalmente exigidos para a realização da obra.
+
+3 - Os apoios à construção, equipamento e instalação do centro de emprego protegido podem ser concedidos até ao limite de 100 % das despesas de investimento elegíveis, nas modalidades cumuláveis de subsídio não reembolsável e empréstimo sem juros.
+
+4 - Os apoios previstos no número anterior não podem ultrapassar o valor de 30 vezes o IAS por posto de trabalho em regime de emprego protegido.
+
+5 - O subsídio não reembolsável previsto no n.º 3 não pode ultrapassar o valor máximo de 70 % do apoio.
+
+6 - O empréstimo sem juros previsto no n.º 3 é reembolsável no prazo máximo de 15 anos, podendo beneficiar de um período máximo de carência de 5 anos.
+
+7 - São consideradas elegíveis as seguintes despesas de construção e equipamento, desde que esteja fundamentada a respectiva relevância para a realização do projecto:
+
+a) Obras de construção, remodelação e ampliação;
+
+b) Equipamento básico;
+
+c) Equipamento administrativo e social;
+
+d) Equipamento informático;
+
+e) Ferramentas e utensílios;
+
+f) Equipamento destinado à protecção do ambiente e à promoção da segurança, higiene e saúde no trabalho;
+
+g) Material de carga e transporte;
+
+h) Veículos automóveis, imprescindíveis ao exercício da actividade.
+
+8 - São consideradas elegíveis as seguintes despesas de instalação, desde que esteja fundamentada a respectiva relevância para a realização do projecto:
+
+a) Estudos e projectos, desde que directamente ligados à realização do investimento;
+
+b) Fundo de maneio para início de actividade.
+
+9 - São ainda elegíveis as despesas de manutenção e conservação de instalações e equipamentos, desde que devidamente fundamentadas e justificadas.
+
+10 - Em caso de cessação da actividade, cancelamento da autorização de funcionamento ou utilização dos apoios para outros fins:
+
+a) As prestações vincendas do empréstimo vencem-se, tornando-se de imediato exigíveis;
+
+b) Há lugar à restituição do subsídio não reembolsável, sem prejuízo do disposto nos números seguintes.
+
+11 - Se a cessação da actividade, o cancelamento da autorização de funcionamento ou a utilização dos apoios para outros fins situações forem justificadas, há lugar à restituição proporcional do subsídio não reembolsável, considerando o prazo estabelecido até ao final do reembolso do empréstimo e o período que ainda falta decorrer até esse momento.
+
+12 - A restituição deve ser feita no prazo de 60 dias a contar da notificação do promotor.
+
+13 - Pelos montantes a restituir, são devidos juros legais, a contar do final do prazo referido no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/24-2011-669997), em vigor a partir de 2011-12-31
+
+#### Secção V — Emprego apoiado em mercado aberto
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 54.º — Conceito
+
+1 - Considera-se emprego apoiado em mercado aberto a atividade profissional desenvolvida por pessoas com deficiência e incapacidade e capacidade de trabalho reduzida, em postos de trabalho em regime de contrato de emprego apoiado, integrados na organização produtiva ou de prestação de serviços dos empregadores, sob condições especiais, designadamente sob a forma de enclaves.
+
+2 - Entende-se por enclave um grupo de pessoas com deficiências e incapacidades que exercem a sua actividade em conjunto, sob condições especiais, num meio normal de trabalho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 55.º — Destinatários
+
+O emprego apoiado em mercado aberto destina-se a pessoas com deficiência e incapacidade, inscritas nos centros de emprego ou centros de emprego e formação profissional, com capacidade de trabalho não inferior a 30 % nem superior a 90 % da capacidade normal de trabalho de um trabalhador nas mesmas funções profissionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 56.º — Criação de postos de trabalho
+
+1 - Os postos de trabalho em regime de contrato de emprego apoiado em entidades empregadoras podem ser criados por iniciativa de entidades empregadoras de direito público e privado que admitam pessoas com deficiências e incapacidades nas condições previstas no artigo anterior.
+
+2 - A criação de postos de trabalho em regime de emprego apoiado em mercado aberto depende de autorização prévia do IEFP, I. P., mediante apresentação de formulário próprio com indicação, nomeadamente, de:
+
+a) Número de postos de trabalho;
+
+b) Natureza ou tipo de actividade a exercer e suas características;
+
+c) Equipa ou trabalhador da empresa responsável pelo apoio e acompanhamento do trabalhador em regime de emprego apoiado.
+
+3 - No caso de criação de postos de trabalho em regime de emprego apoiado em mercado aberto, organizados em enclaves, o empregador deve ainda apresentar:
+
+a) Objectivos do enclave;
+
+b) Localização e dimensionamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 57.º — Apoios
+
+1 - Os empregadores de direito privado ou de direito público que não façam parte da administração direta do Estado que criem postos de trabalho em regime de contrato de emprego apoiado em entidades empregadoras podem beneficiar de apoios financeiros para comparticipação nas despesas com a retribuição e contribuições para a segurança social dos trabalhadores em regime de contrato de emprego apoiado, nos termos da secção VII.
+
+2 - Os promotores previstos no número anterior podem ainda beneficiar dos apoios à adaptação de postos de trabalho e à eliminação de barreiras arquitectónicas.
+
+> Nota: [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927) A alteração ao n.º 1 do presente artigo foi operada nos termos da republicação do Diploma, constante do anexo ao Decreto-Lei n.º108/2015, de 17 de junho.
+
+> Alterado pelo/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 58.º — Normas subsidiárias
+
+É aplicável ao contrato de emprego apoiado em entidades empregadoras, com as necessárias adaptações, o disposto nos artigos 48.º, 50.º e 51.º
+
+#### Secção VI — Prestação da atividade nas modalidades de emprego protegido ou de emprego apoiado em mercado aberto
+
+Prestação da actividade nos centros de emprego protegido ou em postos de trabalho em regime de contrato de emprego apoiado em entidades empregadoras
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 59.º — Objecto
+
+1 - A presente secção regula as relações estabelecidas entre as pessoas com deficiências e incapacidades inseridas nos centros de emprego protegido e nos contratos de emprego apoiado em entidades empregadoras.
+
+2 - Revogado.
+
+> Nota: [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927) A alteração ao n.º 2 do presente artigo (revogação), foi operada nos termos da republicação do Diploma, constante do anexo ao Decreto-Lei n.º108/2015, de 17 de junho.
+
+> Alterado pelo/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 60.º — Regime
+
+Sem prejuízo do disposto no presente decreto-lei, às relações de trabalho entre o trabalhador com deficiências e incapacidades e a entidade empregadora estabelecidas no âmbito das modalidades de emprego apoiado referidas no artigo anterior aplicam-se as normas legais e convencionais de regulamentação do trabalho.
+
+###### Artigo 61.º — Deveres da entidade empregadora
+
+Constituem deveres da entidade empregadora, para além dos enunciados na lei geral:
+
+a) Assegurar os apoios médicos, psicológicos, sociais e educativos de que o trabalhador em regime de emprego apoiado careça;
+
+b) Não praticar nem consentir que se pratiquem quaisquer actos que revelem obstrução ou discriminação em relação ao trabalhador em regime de emprego apoiado;
+
+c) Colaborar activamente na valorização pessoal e profissional do trabalhador em regime de emprego apoiado, facilitando a sua passagem para o regime normal de trabalho.
+
+###### Artigo 62.º — Período de estágio
+
+1 - Sempre que para o desempenho da actividade em determinado posto de trabalho o destinatário a inserir no centro de emprego protegido não tenha a preparação profissional mínima exigida, pode haver lugar a um período de estágio com duração não superior a nove meses, ao qual se aplica o regime do período experimental.
+
+2 - Caso o contrato cesse durante o período de estágio, o destinatário e o serviço que o encaminhou são notificados da decisão e da respectiva fundamentação até 15 dias antes do termo daquele.
+
+3 - O disposto no n.º 1 não é aplicável aos destinatários que tenham frequentado previamente estágio de inserção.
+
+###### Artigo 63.º — Da duração do trabalho
+
+Os limites máximos dos períodos normais de trabalho previstos, quer na lei geral, quer nos instrumentos de regulamentação colectiva aplicáveis, podem ser reduzidos pelo regulamento previsto no artigo 50.º, tendo em conta, nomeadamente, as características específicas do trabalhador em regime de emprego apoiado.
+
+###### Artigo 64.º — Trabalho por turnos
+
+A prestação de trabalho em regime de turnos depende sempre da aceitação prévia do trabalhador e de parecer favorável da equipa técnica de reabilitação.
+
+###### Artigo 65.º — Intervalos de descanso
+
+Precedendo acordo do trabalhador em regime de emprego apoiado e parecer favorável da equipa técnica de avaliação, a entidade empregadora pode aumentar o número de intervalos de descanso previstos na lei geral ou especial ou torná-los mais extensos, consoante as necessidades do trabalhador.
+
+###### Artigo 66.º — Cessação do contrato
+
+1 - O contrato do trabalhador em regime de emprego apoiado pode cessar por qualquer dos meios previstos na legislação geral reguladora do contrato de trabalho e por:
+
+a) Colocação do trabalhador em regime de emprego apoiado num posto de trabalho em regime normal de trabalho ou efectiva admissão em centros criados no âmbito da segurança social, após decisão da entidade empregadora e com parecer favorável da equipa técnica de avaliação prevista no n.º 1 do artigo 74.º;
+
+b) Recusa injustificada em ocupar um posto de trabalho em regime normal de trabalho.
+
+2 - Da decisão prevista na alínea a) do número anterior cabe sempre recurso, com efeito suspensivo, para o IEFP, I. P.
+
+###### Artigo 67.º — Segurança social
+
+Os trabalhadores em regime de emprego apoiado nas modalidades previstas nas alíneas c) e d) do artigo 39.º são abrangidos pelo regime geral de segurança social.
+
+#### Secção VII — Retribuição do trabalhador integrado em emprego protegido ou em emprego apoiado em mercado aberto
+
+Retribuição do trabalhador em regime de emprego protegido ou de contrato de emprego apoiado em entidades empregadoras
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 68.º — Retribuição
+
+1 - O trabalhador integrado num centro de emprego protegido ou num posto de trabalho em regime de contrato de emprego apoiado em entidade empregadora tem direito a uma retribuição aferida proporcionalmente à de um trabalhador com capacidade normal para o mesmo posto de trabalho, de acordo com a graduação da sua capacidade.
+
+2 - A retribuição prevista no número anterior não pode ser inferior à retribuição mínima mensal garantida (RMMG), salvo o disposto no número seguinte.
+
+3 - O trabalhador em regime de emprego apoiado tem direito, durante o período de estágio, a uma retribuição igual a 70 % da RMMG.
+
+###### Artigo 69.º — Apoio à retribuição
+
+1 - Os empregadores de direito público ou privado do trabalhador integrado num centro de emprego protegido ou num contrato de emprego apoiado em entidades empregadoras podem ser compensados pelo IEFP, I. P., pelas despesas com a respetiva retribuição.
+
+2 - A comparticipação prevista no número anterior, cujo valor é determinado de acordo com a capacidade de trabalho do trabalhador em regime de emprego apoiado, fixada nos termos dos artigos 72.º e seguintes, corresponde a uma percentagem da retribuição do trabalhador, até um limite fixado com base no IAS, salvo durante o período de estágio.
+
+3 - Os empregadores de direito público ou privado podem ser ainda compensados pelo IEFP, I. P., pelas despesas com as contribuições obrigatórias para a segurança social a seu cargo.
+
+4 - Os empregadores de direito público ou privado que pretendam beneficiar dos apoios previstos no presente artigo devem solicitá-lo ao IEFP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+###### Artigo 70.º — Comparticipação na retribuição
+
+1 - A comparticipação prevista nos n.os 1 e 2 do artigo anterior é atribuída de acordo com os seguintes escalões, sem prejuízo do disposto no número seguinte:
+
+a) Escalão 1, capacidade de trabalho entre 75 % e 90 %, 10 % da retribuição até um máximo de 25 % do IAS;
+
+b) Escalão 2, capacidade de trabalho entre 60 % e 74 %, 30 % da retribuição até um máximo de 75 % do IAS;
+
+c) Escalão 3, capacidade de trabalho entre 45 % e 59 %, 50 % da retribuição até um máximo de 120 % do IAS;
+
+d) Escalão 4, capacidade de trabalho entre 30 % e 44 %, 70 % da retribuição até um máximo de 170 % do IAS.
+
+2 - Durante o período de estágio a comparticipação na retribuição tem o valor de 70 % do IAS.
+
+3 - Ao empregador e ao IEFP, I. P., cabe a responsabilidade com os custos das contribuições devidas à segurança social pelo valor correspondente à retribuição paga nos termos do presente artigo, cabendo aos trabalhadores os custos com as mesmas pela totalidade da retribuição recebida.
+
+4 - A comparticipação prevista no presente artigo é paga através de adiantamentos semestrais, com acerto de contas no semestre seguinte, salvo durante o período de estágio em que é paga através de reembolsos mensais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 71.º — Duração do apoio financeiro
+
+1 - O apoio financeiro previsto no artigo anterior é atribuído até que o trabalhador transite para o regime normal de trabalho ou atinja uma capacidade de trabalho superior a 75 % ou 90 % da capacidade normal exigida a outro trabalhador nas mesmas funções profissionais, consoante se trate de emprego protegido ou emprego apoiado em mercado aberto, respetivamente, salvo o previsto nos números seguintes.
+
+2 - Sem prejuízo do disposto nos artigos 46.º e 55.º, os apoios previstos no artigo anterior são renovados anualmente, mediante autorização do IEFP, I. P., quando o trabalhador integrado em emprego protegido atinja uma capacidade de trabalho superior a 75 % da capacidade normal exigida a outro trabalhador nas mesmas funções, e não seja possível a sua transição para o emprego apoiado em mercado aberto ou para o regime normal de trabalho.
+
+3 - A comparticipação prevista para o 1.º escalão na alínea a) do n.º 1 do artigo anterior é atribuída por três anos, salvo se da revisão da avaliação da capacidade de trabalho efetuada nos termos do artigo 77.º, resultar uma capacidade inferior à fixada anteriormente, caso em que se passa a aplicar a comparticipação prevista para o respetivo escalão.
+
+4 - Quando na sequência da revisão da avaliação prevista na alínea b) do n.º 1 do artigo 77.º, se passe a aplicar a comparticipação prevista para o 1.º escalão na alínea a) do n.º 1 do artigo anterior, deve ser promovida nova revisão no final do respetivo período de concessão, previsto no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/24-2011-669997), em vigor a partir de 2011-12-31
+
+#### Secção VIII — Avaliação da capacidade de trabalho
+
+###### Artigo 72.º — Avaliação
+
+O procedimento de avaliação da pessoa com deficiência e incapacidade, para efeitos de integração em postos de trabalho em regime de emprego protegido ou de contrato de emprego apoiado em entidades empregadoras, é realizado pelos centros de emprego ou centros de emprego e formação profissional, em articulação com a rede de centros de recursos do IEFP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+###### Artigo 73.º — Procedimento de avaliação
+
+1 - O procedimento de avaliação desenvolve-se numa fase obrigatória, podendo existir ainda uma fase complementar.
+
+2 - A avaliação complementar depende de decisão da equipa técnica responsável pela fase obrigatória.
+
+3 - O procedimento de determinação da capacidade para o trabalho previsto nos números anteriores não deve ultrapassar os dois meses de duração.
+
+> Nota: [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927) A Revogação foi operada nos termos da republicação do Diploma, constante do anexo ao Decreto-Lei n.º108/2015, de 17 de junho.
+
+> Revogado pelo/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 74.º — Procedimento de avaliação
+
+1 - A avaliação inicial é realizada por uma equipa técnica, constituída no âmbito do centro de emprego ou centro de emprego e formação profissional, composta por três técnicos da área do emprego e formação profissional, um dos quais pertence obrigatoriamente à equipa técnica do centro de emprego protegido ou da entidade que promove o programa de emprego apoiado.
+
+2 - Em casos especiais e devidamente justificados podem ser integrados na equipa referida no número anterior até dois técnicos com competências complementares.
+
+3 - A avaliação efectuada pela equipa técnica referida no n.º 1 compreende, designadamente:
+
+a) A avaliação da pessoa com deficiência e incapacidade, através de entrevista e recolha de elementos considerados relevantes;
+
+b) A caracterização da atividade profissional e das respetivas componentes materiais do trabalho;
+
+c) [Revogada];
+
+d) A análise dos processos de reabilitação médica, psicossocial, funcional e profissional da pessoa com deficiência e incapacidade.
+
+4 - Para efeitos da alínea b) do número anterior, são componentes materiais de trabalho o local de trabalho, o ambiente de trabalho, as ferramentas, as máquinas e os materiais, as substâncias e os agentes químicos, físicos e biológicos, os processos de trabalho e a organização do trabalho.
+
+5 - O resultado da avaliação prevista no n.º 3 deve constar de relatório a remeter ao centro de recursos competente, que dá continuidade ao procedimento.
+
+6 - Com base no relatório referido no número anterior, compete ao centro de recursos, designadamente:
+
+a) Complementar a caracterização da atividade profissional, procedendo à análise das competências e requisitos para o exercício da função;
+
+b) Construir o perfil de competências profissionais da pessoa com deficiência e incapacidade e o seu ajustamento ao perfil de exigências da atividade a realizar;
+
+c) Analisar a existência de risco específico para a saúde da pessoa com deficiência e incapacidade ou agravamento da sua incapacidade que possa resultar da atividade a realizar, efetuada por médico;
+
+d) Validar o processo em conjunto com a equipa técnica constituída no âmbito do centro de emprego ou centro de emprego e formação profissional e a elaboração de relatório fundamentado.
+
+7 - Com base nos relatórios previstos no n.º 5 e na alínea d) do número anterior, a equipa técnica constituída no âmbito do centro de emprego ou centro de emprego e formação profissional emite parecer sobre a capacidade de trabalho a atribuir à pessoa com deficiência e incapacidade.
+
+8 - O procedimento de determinação da capacidade para o trabalho não deve ultrapassar os dois meses de duração.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/24-2011-669997), em vigor a partir de 2011-12-31
+
+###### Artigo 75.º — Avaliação complementar
+
+1 - A avaliação complementar é desenvolvida através dos centros de recursos previstos no capítulo vii.
+
+2 - A avaliação efectuada pelos centros de recursos referidos no número anterior, realizada com base no relatório elaborado na fase obrigatória, compreende, designadamente:
+
+a) A construção do perfil de competências profissionais da pessoa com deficiências e incapacidades e o seu ajustamento ao perfil de exigências da actividade a realizar;
+
+b) A validação do processo em conjunto com a equipa técnica responsável pela fase obrigatória, elaborando novo relatório fundamentado.
+
+3 - (Revogado).
+
+> Nota: [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927) A Revogação foi operada nos termos da republicação do Diploma, constante do anexo ao Decreto-Lei n.º108/2015, de 17 de junho.
+
+> Revogado pelo/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+###### Artigo 76.º — Decisão
+
+A capacidade para o trabalho para efeitos de integração no regime de emprego apoiado é fixada pelo IEFP, I. P., nos termos do parecer previsto no n.º 7 do artigo 74.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2013 - Diário da República n.º 175/2013, Série I de 2013-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2013-500020), em vigor a partir de 2013-09-12
+
+###### Artigo 77.º — Revisão da avaliação
+
+1 - O trabalhador com deficiência e incapacidade integrado em regime de emprego apoiado é avaliado periodicamente, por forma a alterar ou cessar o apoio referido nos artigos 69.º e 70.º, nos seguintes termos:
+
+a) Após os primeiros três anos de integração;
+
+b) Após a primeira revisão da avaliação, periodicamente a cada cinco anos, num máximo de três reavaliações;
+
+c) No caso previsto no n.º 4 do artigo 71.º
+
+2 - A revisão da avaliação para os efeitos previstos no número anterior é ainda efectuada com fundamento em alterações relevantes.
+
+3 - Ao procedimento de revisão aplicam-se os artigos 74.º a 76.º, sem prejuízo do disposto no número seguinte.
+
+4 - A revisão da avaliação de trabalhador integrado num centro de emprego protegido ou em emprego apoiado em mercado aberto deve ser promovida em articulação com as equipas das respetivas entidades.
+
+5 - A articulação prevista no número anterior pressupõe, nomeadamente, a partilha de processos, procedimentos e decisões.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/24-2011-669997), em vigor a partir de 2011-12-31
+
+### Capítulo V — Marca Entidade Empregadora Inclusiva
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 78.º — Natureza e objetivos
+
+1 - A Marca Entidade Empregadora Inclusiva destina-se a promover o reconhecimento e distinção pública de práticas de gestão abertas e inclusivas, desenvolvidas por entidades empregadoras relativamente às pessoas com deficiência e incapacidade.
+
+2 - A Marca Entidade Empregadora Inclusiva é atribuída de dois em dois anos aos empregadores, que cumpram o disposto no artigo 5.º e que contribuam para a implementação de um mercado de trabalho inclusivo e se distingam, por práticas de referência, nos seguintes domínios:
+
+a) Recrutamento, desenvolvimento e progressão;
+
+b) Manutenção e retoma;
+
+c) Acessibilidades;
+
+d) Serviço e relação com a comunidade.
+
+3 - A Marca é atribuída por decisão de um júri.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 79.º — Níveis de distinção
+
+1 - A Marca é atribuída às entidades que, nos dois anos anteriores ao da candidatura, evidenciem práticas de gestão aberta e inclusiva, relativamente às pessoas com deficiência e incapacidade, em, pelo menos, um dos domínios previstos no n.º 2 do artigo anterior relativamente ao período a que se reporta a candidatura.
+
+2 - Às entidades a quem seja atribuída a Marca e que se destaquem por práticas exemplares em todos os domínios identificados no n.º 2 do artigo anterior é atribuída a Marca Entidade Empregadora Inclusiva - Excelência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 80.º — Destinatários
+
+Podem candidatar-se à atribuição da Marca os empregadores dos setores público, privado, cooperativo e da economia social, bem como pessoas com deficiência e incapacidade envolvidas na criação de empresas, como empreendedores, ou do próprio emprego.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 81.º — Regulamentação
+
+O regulamento da atribuição da Marca, respetivas condições de acesso e o júri são estabelecidos por despacho do membro do Governo responsável pelas áreas do emprego e da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+### Capítulo VI — Centros de reabilitação profissional de gestão participada
+
+###### Artigo 82.º — Centros de gestão participada
+
+1 - Para efeitos de execução do presente programa o IEFP, I. P., pode celebrar protocolos com pessoas colectivas de direito público, bem como com pessoas colectivas de direito privado sem fins lucrativos com experiência na área da reabilitação profissional de pessoas com deficiências e incapacidades, com o objectivo de assegurar a instalação e o funcionamento de estruturas que respondam às necessidades específicas de qualificação e de apoio ao emprego das pessoas com deficiências e incapacidades.
+
+2 - A cooperação emergente da celebração dos protocolos previstos no número anterior é prosseguida através de centros de reabilitação profissional de gestão participada, que desenvolvem um conjunto integrado de programas, medidas e estratégias em conformidade com as orientações do IEFP, I. P., tendo em consideração as orientações gerais definidas pelo Governo para a política de emprego e reabilitação profissional.
+
+3 - Para efeitos do número anterior, os centros de reabilitação profissional de gestão participada desenvolvem acções, nomeadamente, no âmbito de:
+
+a) Apoio à intervenção dos centros de emprego e da rede de centros de formação profissional do IEFP, I. P., designadamente no domínio da integração, manutenção e reintegração no mercado de trabalho das pessoas com deficiências e incapacidades;
+
+b) Formação profissional em áreas e actividades não passíveis de serem desenvolvidas nos sistemas regulares de formação ou de reconhecimento, validação e certificação de competências;
+
+c) Apoio à formação nas estruturas e centros regulares de formação;
+
+d) Apoio técnico especializado aos centros e núcleos de reabilitação profissional;
+
+e) Promoção e desenvolvimento de medidas de apoio às empresas e outras entidades empregadoras no domínio da empregabilidade das pessoas com deficiências e incapacidades;
+
+f) Implementação e experimentação de novas metodologias de formação e emprego;
+
+g) Desenvolvimento de emprego apoiado no âmbito das estruturas existentes à data da publicação do presente decreto-lei.
+
+###### Artigo 83.º — Regime aplicável
+
+Os centros de reabilitação profissional de gestão participada regem-se pelas disposições do Decreto-Lei n.º 165/85, de 16 de Maio, relativas aos centros protocolares, salvo quanto às seguintes matérias, a regular especificamente nos protocolos que os criarem:
+
+a) Definição, composição, constituição e competências dos órgãos;
+
+b) Estrutura e funcionamento;
+
+c) Comparticipação dos outorgantes nas despesas inscritas no orçamento.
+
+### Capítulo VII — Centros de recursos
+
+###### Artigo 84.º — Âmbito
+
+Para efeitos de execução da política de reabilitação profissional prevista no presente diploma, o IEFP, I. P., procede à credenciação de pessoas colectivas de direito público que não façam parte da administração directa do Estado e de pessoas colectivas de direito privado sem fins lucrativos, com preferência pelas que tenham experiência na área da reabilitação profissional de pessoas com deficiências e incapacidades, como centros de recursos.
+
+###### Artigo 85.º — Conceito
+
+Consideram-se centros de recursos as entidades credenciadas pelo IEFP, I. P., enquanto estruturas de suporte e apoio aos centros de emprego e de intervenção especializada no domínio da reabilitação profissional.
+
+###### Artigo 86.º — Intervenções técnicas
+
+Os centros de recursos desenvolvem intervenções técnicas de apoio aos centros de emprego, designadamente no que respeita a:
+
+a) Informação, avaliação e orientação profissional;
+
+b) Apoio à colocação;
+
+c) Acompanhamento pós-colocação;
+
+d) Adaptação de postos de trabalho e eliminação de barreiras arquitectónicas;
+
+e) Emprego apoiado e apoio às empresas e outras entidades empregadoras no domínio da empregabilidade das pessoas com deficiências e incapacidades;
+
+f) Avaliação da capacidade de trabalho de pessoas com deficiências e incapacidades.
+
+###### Artigo 87.º — Acordos
+
+1 - As intervenções dos centros de recursos previstas no artigo anterior são desenvolvidas ao abrigo de acordos celebrados com o IEFP, I. P.
+
+2 - Os acordos devem definir, designadamente, os seguintes aspectos:
+
+a) Descrição das acções a desenvolver;
+
+b) Responsabilidade dos outorgantes;
+
+c) Financiamento a disponibilizar;
+
+d) Duração do acordo;
+
+e) Área geográfica de intervenção;
+
+f) Forma de cessação.
+
+###### Artigo 88.º — Credenciação
+
+1 - O IEFP, I. P., promove a criação de uma rede de centros de recursos, mediante a apresentação de candidaturas por parte das entidades previstas no artigo 84.º
+
+2 - O acesso à credenciação realiza-se em regime de candidatura fechada, nos termos e condições a regulamentar.
+
+3 - A credenciação está sujeita a um período de validade, nos termos e condições a regulamentar.
+
+###### Artigo 89.º — Regulamentação
+
+O disposto no presente capítulo é regulamentado por despacho do membro do Governo responsável pelas áreas do emprego e da formação profissional.
+
+### Capítulo VIII — Apoios ao investimento a entidades de reabilitação profissional
+
+###### Artigo 90.º — Âmbito
+
+1 - O IEFP, I. P., pode conceder apoios financeiros ao investimento destinados às entidades sem fins lucrativos que desenvolvem acções de reabilitação profissional.
+
+2 - Os apoios financeiros previstos no número anterior destinam-se a comparticipar despesas com a realização de obras de construção, adaptação, remodelação ou reconversão de instalações existentes e com a aquisição de equipamentos que se revelem imprescindíveis para o desenvolvimento das acções de reabilitação profissional.
+
+3 - Os apoios podem assumir a forma de subsídio reembolsável e não reembolsável.
+
+4 - As instalações e os equipamentos adquiridos com os apoios previstos no número anterior devem ser afectos aos fins para que foram concedidos.
+
+5 - O disposto no presente artigo não é aplicável ao financiamento de projectos de emprego apoiado, bem como aos centros de gestão participada que se regem pelo respectivo regime.
+
+6 - O disposto no presente artigo, nomeadamente, as condições de acesso e os limites máximos dos apoios são objecto de regulamentação.
+
+### Capítulo IX — Fórum para a Integração Profissional
+
+###### Artigo 91.º — Âmbito
+
+1 - Para garantir o acompanhamento regular da execução das políticas de emprego e formação profissional dirigidas às pessoas com deficiências e incapacidades, é criado um Fórum para a Integração Profissional, adiante designado Fórum.
+
+2 - O Fórum é constituído por representantes do IEFP, I. P., e das organizações representativas das entidades que desenvolvem actividade na área da reabilitação profissional de pessoas com deficiências e incapacidades.
+
+3 - Os membros do Fórum são designados por despacho do membro do Governo responsável pela área da reabilitação profissional, ouvidas as estruturas representativas das entidades de reabilitação profissional.
+
+4 - O Fórum tem o apoio logístico e funciona junto do IEFP, I. P.
+
+### Capítulo X — Disposições finais e transitórias
+
+###### Artigo 91.º-A — Incumprimento
+
+Sem prejuízo do disposto no presente decreto-lei, ao incumprimento das obrigações decorrentes dos apoios previstos no presente Programa aplica-se o disposto no artigo 22.º do Decreto-Lei n.º 13/2015, de 26 de janeiro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 92.º — Avaliação da capacidade produtiva
+
+Os procedimentos previstos nos artigos 73.º a 76.º são aplicáveis, com as necessárias adaptações, à avaliação da capacidade de trabalho da pessoa com deficiências e incapacidades, nos casos em que essa competência seja cometida ao IEFP, I. P., pela legislação em vigor.
+
+###### Artigo 93.º — Disposição transitória
+
+1 - Os centros de emprego protegido e enclaves em funcionamento à data da entrada em vigor do presente decreto-lei regem-se pelo disposto no Decreto-Lei n.º 40/83, de 25 de Janeiro, alterado pelo Decreto-Lei n.º 194/85, de 24 de Junho, e respectiva regulamentação no decurso dos 90 dias seguintes àquela data.
+
+2 - O IEFP, I. P., deve implementar os procedimentos necessários à transição para o regime constante do presente decreto-lei dos centros de emprego protegido e enclaves previstos no número anterior, através da adaptação dos instrumentos de cooperação em vigor.
+
+3 - A aplicação do disposto nos n.os 2 e 3 do artigo 5.º obedece ao seguinte:
+
+a) Depende da reunião das condições técnicas necessárias à tramitação desmaterializada aí prevista;
+
+b) Compete ao IEFP, I. P., promover a reunião das condições técnicas referida nesses números.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 94.º — Regulamentação complementar
+
+1 - O disposto nos n.os 1 e 3 do artigo 8.º, no n.º 3 do artigo 12.º, no n.º 2 do artigo 28.º, no artigo 29.º, nos artigos 81.º e 89.º e no n.º 6 do artigo 90.º, é objeto de regulamentação através de despacho do membro do Governo responsável pelas áreas do emprego e da formação profissional.
+
+2 - Sem prejuízo do disposto no número anterior, o IEFP, I. P., regulamenta os aspetos técnicos necessários à implementação do Programa, incluindo o regime de candidatura aos apoios, que está sujeito às respetivas disponibilidades orçamentais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2015 - Diário da República n.º 116/2015, Série I de 2015-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927), em vigor a partir de 2015-06-22
+
+###### Artigo 95.º — Norma revogatória
+
+São revogados o Decreto-Lei n.º 247/89, de 5 de Agosto, alterado pelo Decreto-Lei n.º 8/98, de 15 de Janeiro, o Decreto-Lei n.º 40/83, de 25 de Janeiro, alterado pelo Decreto-Lei n.º 194/85, de 24 de Junho, e o Decreto Regulamentar n.º 37/85, de 24 de Junho.
+
+###### Artigo 96.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado pelo Conselho de Ministros de 13 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa. - Fernando Medina Maciel Almeida Correia.
+
+Promulgado em 2 de Outubro de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 6 de Outubro de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

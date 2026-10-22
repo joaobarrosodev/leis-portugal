@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:674583:por
+title: Portaria n.º 360/72
+short_title: null
+summary: Aprova o Regulamento para a Concessão de Prémios por Sugestões ou Estudos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: 360/72
+official_date: null
+publication_date: '1972-06-29'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 150/1972, Série I de 1972-06-29
+  number: '150'
+  series: I
+  supplement: null
+  pages: 849 - 850
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/06/15000/08490850.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '674583'
+  dre_path: /dr/detalhe/portaria/360-1972-674583
+  internal: pt:dre:674583:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-1972-674583
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-1972-674583
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1972-06-29T00:00:00Z'
+integrity:
+  source_sha256: 1001978d567c22fb30f5a101d0b4e2d8003a66cc299cbfa04d38faf0fd6bf44a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1972/DRE-1972-360-674583.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 360/72
+
+de 29 de Junho
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do disposto no artigo 19.º do [Decreto n.º 268/70](https://diariodarepublica.pt/dr/detalhe/decreto/268-1970-142690), de 15 de Junho, aprovar o Regulamento para a Concessão de Prémios por Sugestões ou Estudos, que faz parte integrante desta portaria e baixa assinado pelo Ministro do Ultramar.
+
+**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+
+Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
+
+Regulamento para a Concessão de Prémios por Sugestões ou Estudos
+
+I
+
+Das espécies de prémios
+
+###### Artigo 1.º Para os efeitos do presente Regulamento, considera-se sugestão ou estudo a ideia inovadora, exposta de forma concreta por servidores do Estado, que se julgue susceptível de assegurar aumento de eficiência e economia para a Administração.
+
+###### Art. 2.º - 1. As sugestões ou estudos aprovados classificam-se em meritórios, relevantes e excepcionalmente relevantes, podendo originar, ainda que não venham a ter aplicação prática, a atribuição dos seguintes prémios:
+
+a) Louvores públicos;
+
+b) Prémios pecuniários;
+
+c) Licenças, com ou sem bolsa de estudo, para a frequência, no Pais ou no estrangeiro, de cursos de especialização ou aperfeiçoamento.
+
+2. O montante dos prémios pecuniários será fixado por despacho do Governador-Geral e a sua concessão, bem como dos restantes, constará sempre de certificado, emitido em favor do autor da sugestão ou proposta.
+
+###### Art. 3.º Os louvores públicos serão concedidos pela comissão referida no artigo 7.º ou, sob proposta desta, pelo Governador da província, consoante o mérito da sugestão ou estudo, competindo exclusivamente ao Governador atribuir os prémios pecuniários.
+
+###### Art. 4.º - 1. As licenças sem bolsa de estudo que não importem deslocação para fora da província serão concedidas pelo Governador respectivo.
+
+2. Serão da competência do Ministro do Ultramar as licenças sem bolsa de estudo que importem deslocação da província, bem como as licenças com bolsa de estudo.
+
+###### Art. 5.º - 1. Durante o período de licença, os funcionários distinguidos receberão os seus vencimentos certos.
+
+2. Os bolseiros terão ainda direito:
+
+a) A passagem de ida e regresso entre a província e a localidade de destino, na classe correspondente à sua categoria;
+
+b) A pagamento das matriculas e propinas;
+
+c) A subsídio diário, a estabelecer de harmonia com as tabelas em vigor, ou a importância global, a fixar por despacho do Ministro do Ultramar;
+
+d) A ajuda de custo de embarque e aos adiantamentos atribuídos por lei aos funcionários em comissão eventual de serviço.
+
+II
+
+Da comissão para apreciação das sugestões ou estudos
+
+###### Art. 6.º - 1. Em cada província haverá uma comissão destinada a apreciar o mérito das sugestões ou estudos formulados, a conceder ou a propor os prémios devidos e a recomendar as medidas indispensáveis para aplicação prática das sugestões ou estudos.
+
+2. Incumbe também à comissão promover campanhas com o objectivo de estimular a entrega de sugestões ou estudos, designadamente através da divulgação dos que forem premiados.
+
+###### Art. 7.º - 1. A comissão para apreciação das sugestões ou estudos será presidida pelo secretário-geral da província ou, não existindo o cargo, pelo chefe dos serviços de administração civil e terá como vogais cinco indivíduos, designados pelo respectivo Governador, de forma que nela intervenham, na medida do possível, juristas e técnicos de planeamento, de gestão do pessoal e de organização e métodos.
+
+2. Quando o julgue conveniente, a comissão poderá agregar peritos ou representantes dos serviços a que a sugestão ou estudo especialmente respeite, os quais intervirão também nas deliberações da comissão.
+
+3. As deliberações serão tomadas por maioria de votos e, em caso de empate, o presidente tem voto de qualidade.
+
+###### Art. 8.º - 1. A comissão terá como secretário o vogal que for designado pelo respectivo presidente.
+
+2. Ao secretário incumbirá especialmente a preparação das reuniões, a gerência, sob orientação do presidente, das verbas atribuídas à comissão e o estabelecimento dos necessários contactos com os órgãos de informação, podendo facultar a consulta das sugestões ou estudos aprovados aos funcionários que nisso tenham interesse.
+
+###### Art. 9.º - 1. Aos membros da comissão poderão ser abonadas as gratificações que para cada província vierem a ser fixadas por despacho do Ministro do Ultramar, sob proposta do respectivo Governador.
+
+2. Se a presidência da comissão couber ao secretário-geral, ele não será remunerado.
+
+3. Pela forma indicada no n.º 1 serão igualmente fixados os limites máximo e mínimo das gratificações a abonar, caso por caso, aos peritos e representantes dos serviços que tenham sido agregados à comissão.
+
+III
+
+Da tramitação das sugestões ou estudos
+
+###### Art. 10.º - 1. As sugestões ou estudos podem ser apresentados por três formas:
+
+a) Por entrega ao dirigente do serviço a que respeite a sugestão ou estudo;
+
+b) Por remessa directa ao secretário da comissão;
+
+c) Por depósito na caixa de sugestões ou estudos que deverá existir em cada serviço central ou regional.
+
+2. As sugestões e estudos remetidos directamente ao secretário da comissão e os depositados em caixas regionais ou de sectores a que as sugestões ou estudos não respeitem serão imediatamente enviados ao dirigente superior do serviço próprio.
+
+###### Art. 11.º - 1. Dentro de oito dias, a contar do recebimento de uma sugestão ou estudo, o dirigente superior do serviço a que respeitem decidirá, em despacho fundamentado, pela sua aceitação, em princípio, se reunirem as características fundamentais previstas no artigo 1.º deste Regulamento, caso em que as fará seguir imediatamente para a comissão, ou pela sua rejeição liminar, quando não preencham aquelas características.
+
+2. Dos despachos de rejeição liminar de uma sugestão ou estudo haverá recurso para a comissão, a interpor dentro dos oito dias subsequentes ao do termo do prazo referido no número anterior.
+
+###### Art. 12.º - 1. Cada sugestão ou estudo será formulado num só documento, a redigir, se possível, em impresso de modelo oficial, do qual constará o condicionalismo a que tem de obedecer, devendo existir sempre, junto das caixas, exemplares dos referidos impressos.
+
+2. As sugestões ou estudos podem ser apresentados sob anonimato, devendo, para o efeito, ser acompanhados de sobrescrito fechado donde conste a identificação do seu autor.
+
+###### Art. 13.º - 1. Registada a sugestão ou estudo em livro próprio, o presidente convocará imediatamente uma reunião, para ser designado relator e, se for caso disso, agregar peritos ou representantes dos serviços.
+
+2. Sendo agregado um perito, este servirá de relator.
+
+###### Art. 14.º - 1. Prestado o parecer pelo relator, o processo irá a visto dos restantes membros.
+
+2. Seguidamente, o presidente convocará uma reunião para deliberar sobre o mérito da sugestão ou estudo e sobre o prémio a conferir ou a propor.
+
+###### Art. 15.º - 1. Os nomes dos autores das sugestões ou estudos rejeitados conservar-se-ão secretos.
+
+2. Sendo as sugestões ou estudos apresentados nos termos do n.º 2 do artigo 12.º, o sobrescrito a que se refere aquele número apenas poderá ser aberto para identificação do autor depois de lhe ter sido concedido algum prémio.
+
+IV
+
+Disposição final
+
+###### Art. 16.º Os encargos resultantes da execução do presente Regulamento serão suportados por verbas próprias, a inscrever no capítulo 10.º da tabela de despesas dos orçamentos gerais das províncias ultramarinas, sob a rubrica «Diversas despesas: encargos com sugestões ou estudos para aumento da eficiência da Administração».
+
+**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**

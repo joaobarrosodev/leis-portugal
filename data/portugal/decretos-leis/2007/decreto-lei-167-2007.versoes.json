@@ -1,0 +1,467 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:521254:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-938605868",
+ "dre_path": "/dr/detalhe/decreto-lei/167-2007-521254",
+ "source_lastmod": "2025-10-07",
+ "versions": [
+  {
+   "date": "2007-05-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "938645681",
+    "938573097",
+    "938573098",
+    "938573099",
+    "938573100",
+    "938573101",
+    "938573102",
+    "938573103",
+    "938573104",
+    "938573105",
+    "938573106",
+    "938573107",
+    "938573108",
+    "938573109",
+    "938573110",
+    "938573111",
+    "938573112",
+    "938573113",
+    "938573114",
+    "938573115",
+    "938573116"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:639153:por",
+     "title": "Declaração de Rectificação n.º 56/2007",
+     "published": "2007-06-15",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/56-2007-639153",
+     "date": "2007-06-01"
+    }
+   ]
+  },
+  {
+   "date": "2014-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572382:por",
+     "title": "Decreto-Lei n.º 31/2014",
+     "published": "2014-02-27",
+     "dre_path": "/dr/detalhe/decreto-lei/31-2014-572382"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "938645681",
+    "938645682",
+    "938645683",
+    "938645684",
+    "938645685",
+    "938645686",
+    "938645687",
+    "938645688",
+    "938645689",
+    "938645690",
+    "938645691",
+    "938645692",
+    "938645693",
+    "938645694",
+    "938645695",
+    "938645696",
+    "938645697",
+    "938645698",
+    "938645699",
+    "938645700",
+    "938645701",
+    "938645702"
+   ]
+  }
+ ],
+ "fragments": {
+  "938645681": {
+   "fragment_id": "938605869",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2014-03-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 167/2007\n\nde 3 de Maio\n\nNo quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do XVII Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no Decreto-Lei n.º 202/2006, de 27 de Outubro, que aprova a Lei Orgânica da Presidência do Conselho de Ministros, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.\n\nNo que toca especificamente ao Alto Comissariado para a Imigração e Diálogo Intercultural, o mesmo resultou da fusão do Alto Comissariado para a Imigração e Minorias Étnicas, da estrutura de apoio técnico à coordenação do Programa Escolhas, da Estrutura de Missão para o Diálogo com as Religiões e do Secretariado Entreculturas.\n\nCom esta reestruturação, o Governo centraliza, num instituto público, as atribuições dispersas por vários organismos, permitindo unir meios humanos necessários e especializados numa resposta conjunta aos desafios que se colocam, demonstrando o seu empenho no reforço da institucionalização dos serviços vocacionados para o acolhimento e a integração dos imigrantes, bem como numa maior eficácia na promoção do diálogo intercultural e inter-religioso.\n\nCulmina-se, assim, um processo iniciado em 1996, com a criação do Alto-Comissário para a Imigração e Minorias Étnicas, através do Decreto-Lei n.º 3-A/96, de 26 de Janeiro, com o objectivo de promover a consulta e o diálogo com entidades representativas de imigrantes em Portugal ou de minorias étnicas, bem como o estudo da temática da inserção dos imigrantes e das minorias étnicas, em colaboração com os parceiros sociais, as instituições de solidariedade social e outras entidades públicas ou privadas com intervenção neste domínio.\n\nPor seu turno, o Programa Escolhas, criado em 2001, para vigorar no prazo de três anos, tem vindo a ser sucessivamente renovado e reforçados nos seus meios, afirmando-se, actualmente, como um programa fundamental nas políticas de inclusão social das crianças e jovens provenientes de contextos sócio-económicos mais vulneráveis.\n\nDo mesmo modo, a actuação do Secretariado Entreculturas tem-se vindo a revelar um instrumento indispensável no desenvolvimento de políticas pedagógicas para a promoção dos valores do diálogo intercultural e do respeito e promoção da diversidade no processo educativo.\n\nPor último, a fusão da Estrutura de Missão para o Diálogo com as Religiões com o ACIDI, I. P., reconhece a importância da actuação que tem sido levada a cabo na promoção do diálogo inter-religioso e a tolerância na diversidade na sociedade portuguesa.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 9.º da Lei n.º 3/2004, de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "938573097": {
+   "fragment_id": "938605870",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Alto Comissariado para a Imigração e Diálogo Intercultural, I. P., abreviadamente designado por ACIDI, I. P., é um instituto público integrado na administração indirecta do Estado, dotado de autonomia administrativa.\n\n2 - O ACIDI, I. P., prossegue atribuições da Presidência do Conselho de Ministros, sob superintendência e tutela do Primeiro-Ministro ou de outro membro do Governo integrado na Presidência do Conselho de Ministros."
+  },
+  "938573098": {
+   "fragment_id": "938605871",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\nO ACIDI, I. P., é um organismo central com jurisdição sobre todo o território nacional e tem a sua sede no concelho de Lisboa."
+  },
+  "938573099": {
+   "fragment_id": "938605872",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O ACIDI, I. P., tem por missão colaborar na concepção, execução e avaliação das políticas públicas, transversais e sectoriais, relevantes para a integração dos imigrantes e das minorias étnicas, bem como promover o diálogo entre as diversas culturas, etnias e religiões.\n\n2 - São atribuições do ACIDI, I. P.:\n\na) Promover o acolhimento e a integração dos imigrantes e das minorias étnicas através da participação na concepção, desenvolvimento e coordenação de políticas públicas transversais, integradas e coerentes;\n\nb) Incentivar a participação cívica e cultural dos imigrantes e das minorias étnicas nas instituições portuguesas, bem como através das suas associações representativas para um exercício pleno da sua cidadania;\n\nc) Garantir o acesso dos cidadãos imigrantes e minorias étnicas a informação relevante, designadamente, direitos e deveres de cidadania;\n\nd) Combater todas as formas de discriminação em função da raça, cor, nacionalidade, origem étnica ou religião, através de acções positivas de sensibilização, educação e formação, bem como através do processamento das contra-ordenações previstas na lei;\n\ne) Promover a interculturalidade, através do diálogo intercultural e inter-religioso, com base no respeito pela Constituição, pelas leis e valorizando a diversidade cultural num quadro de respeito mútuo;\n\nf) Dinamizar centros de apoio ao imigrante, de âmbito nacional, regional e local, que proporcionem uma resposta integrada dos vários serviços públicos às suas necessidades de acolhimento e integração, designadamente, através de parcerias com departamentos governamentais com intervenção no sector, serviços da administração pública, autarquias locais, organizações não governamentais, associações de imigrantes ou outras entidades com interesse relevante na matéria;\n\ng) Contribuir para a melhoria das condições de vida e de trabalho dos imigrantes em Portugal, de modo que seja proporcionada a sua integração com dignidade, em igualdade de oportunidades com todos os cidadãos nacionais;\n\nh) Favorecer a aprendizagem da língua portuguesa e o conhecimento da cultura portuguesa por parte dos imigrantes, tendo em vista a sua melhor integração na sociedade portuguesa;\n\ni) Incentivar iniciativas da sociedade civil que visem o acolhimento e integração dos imigrantes e minorias étnicas em Portugal;\n\nj) Promover acções de sensibilização da opinião pública e a realização de estudos sobre as temáticas da imigração, minorias étnicas, diálogo intercultural e diálogo inter-religioso;\n\nl) Promover a inclusão social de crianças e jovens provenientes de contextos socio-económicos mais vulneráveis, em particular os descendentes de imigrantes e de minorias étnicas, tendo em vista a igualdade de oportunidades e o reforço da coesão social, assegurando a gestão do Programa Escolhas;\n\nm) Promover o diálogo com as religiões através do conhecimento das diferentes culturas e religiões e da construção de uma atitude de respeito mútuo e de afecto pela diversidade, quer dentro das fronteiras nacionais, quer na relação de Portugal com o mundo.\n\n3 - Os serviços, organismos e outras entidades da Administração Pública estão sujeitos ao dever de cooperação com o ACIDI, I. P., na prossecução das suas atribuições."
+  },
+  "938573100": {
+   "fragment_id": "938605873",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1 - O ACIDI, I. P., é dirigido pelo alto-comissário para a Imigração e Diálogo Intercultural, abreviadamente designado por alto-comissário, o qual é equiparado a subsecretário de Estado para efeitos de estatuto, remuneração e constituição de gabinete.\n\n2 - O alto-comissário é coadjuvado por um director, cargo de direcção superior de 2.º grau."
+  },
+  "938573101": {
+   "fragment_id": "938605874",
+   "type": 11,
+   "heading": "Artigo 5.º — Alto-comissário para a Imigração e Diálogo Intercultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alto-comissário para a Imigração e Diálogo Intercultural\n\n1 - Sem prejuízo das competências que lhe sejam conferidas por lei ou nele delegadas ou subdelegadas, compete ao alto-comissário:\n\na) Exercer as competências dos titulares de cargos de direcção superior de 1.º grau previstas no artigo 7.º da Lei n.º 2/2004, de 15 de Janeiro;\n\nb) Representar o ACIDI, I. P., nacional e internacionalmente;\n\nc) Coordenar e presidir ao Conselho Consultivo para os Assuntos da Imigração;\n\nd) Coordenar e presidir à Comissão para a Igualdade e contra a Discriminação Racial.\n\n2 - O alto-comissário é nomeado e exonerado pelo Primeiro-Ministro, com um mandato de três anos.\n\n3 - É aplicável ao Gabinete do Alto-Comissário o disposto no Decreto-Lei n.º 262/88, de 23 de Julho, e demais legislação aplicável aos gabinetes dos membros do Governo.\n\n4 - Compete ao director desempenhar as competências que lhe sejam delegadas ou subdelegadas pelo alto-comissário, bem como substituí-lo nas suas faltas e impedimentos."
+  },
+  "938573102": {
+   "fragment_id": "938630775",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho Consultivo para os Assuntos da Imigração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho Consultivo para os Assuntos da Imigração\n\n1 - O Conselho Consultivo para os Assuntos da Imigração, abreviadamente designado por Conselho Consultivo, funciona junto do ACIDI, I. P., e visa assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais e das instituições de solidariedade social na definição das políticas de integração social e de combate à exclusão.\n\n2 - O Conselho Consultivo é composto por:\n\na) O alto-comissário, que preside;\n\nb) Um representante de cada uma das comunidades imigrantes dos países de língua portuguesa, que são designados pelas respectivas associações, desde que a representatividade destas seja reconhecida pelo Alto Comissariado;\n\nc) Um representante de cada uma das três comunidades de imigrantes mais numerosas não incluídas na alínea anterior, designados pelas respectivas associações, desde que a representatividade destas seja reconhecida pelo Alto Comissariado;\n\nd) Um representante das associações não filiadas nas comunidades previstas nas alíneas b) e c), designados pelas respectivas associações, desde que a representatividade destas seja reconhecida pelo Alto Comissariado;\n\ne) Um representante das instituições particulares de solidariedade social;\n\nf) Dois representantes das instituições que trabalhem com imigrantes, designados pelo alto-comissário;\n\ng) Dois representantes das associações patronais e dois representantes das centrais sindicais com assento no Conselho Económico e Social;\n\nh) Dois cidadãos de reconhecido mérito, designados pelo alto-comissário;\n\ni) Um representante do membro do Governo que tutela os assuntos relativos à emigração e comunidades portuguesas;\n\nj) Um representante do membro do Governo responsável pela área da administração interna;\n\nl) Um representante do membro do Governo responsável pela área da economia;\n\nm) Um representante do membro do Governo responsável pela área do trabalho e da solidariedade social;\n\nn) Um representante do membro do Governo responsável pela área da educação;\n\no) Um representante do Governo Regional dos Açores;\n\np) Um representante do Governo Regional da Madeira;\n\nq) Um representante da Associação Nacional de Municípios Portugueses.\n\n3 - As instituições, associações e comunidades representadas no Conselho Consultivo designam um membro efectivo e um suplente.\n\n4 - Compete ao Conselho Consultivo, por iniciativa própria ou sempre que para tal solicitado pelo alto-comissário:\n\na) Pronunciar-se sobre os projectos de diploma relativos aos direitos dos imigrantes;\n\nb) Participar na definição das políticas de integração social que visem a eliminação das discriminações e promovam a igualdade;\n\nc) Participar na definição de medidas e acções que visem a melhoria das condições de vida dos imigrantes e acompanhar a sua execução;\n\nd) Participar na defesa dos direitos dos imigrantes com respeito pela sua identidade e cultura, formulando propostas com vista à sua promoção;\n\ne) Exercer outras competências que lhe sejam atribuídas por lei.\n\n5 - O Conselho Consultivo reúne ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente.\n\n6 - O mandato dos membros do Conselho Consultivo tem a duração de três anos, renovável por iguais períodos, e cessa sempre que se verifique a perda de qualidade de representante da entidade que os designou.\n\n7 - Podem participar nas reuniões do Conselho Consultivo, a pedido do seu presidente, representantes e técnicos de departamentos governamentais ou de outras entidades públicas ou privadas, bem como cidadãos cuja audição ou contributo sejam relevantes para a actividade do Conselho Consultivo.\n\n8 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à percepção de senhas de presença."
+  },
+  "938573103": {
+   "fragment_id": "938630776",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão para a Igualdade e contra a Discriminação Racial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão para a Igualdade e contra a Discriminação Racial\n\n1 - A Comissão para a Igualdade e contra a Discriminação Racial funciona junto do ACIDI, I. P., e tem as competências que lhe são conferidas na Lei n.º 134/99, de 28 de Agosto, e na Lei n.º 18/2004, de 11 de Maio.\n\n2 - O mandato dos membros da Comissão para a Igualdade e contra a Discriminação Racial tem a duração de três anos, renovável por iguais períodos, e cessa sempre que se verifique a perda de qualidade de representante da entidade que os designou ou elegeu.\n\n3 - Os representantes das comissões referidas nos artigos 6.º e 7.º da Lei n.º 134/99, de 28 de Agosto, exercem as suas funções a título gratuito."
+  },
+  "938573104": {
+   "fragment_id": "938630777",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna do ACIDI, I. P., é a prevista nos respectivos estatutos."
+  },
+  "938573105": {
+   "fragment_id": "938630778",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto do pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatuto do pessoal dirigente\n\n1 - Aos titulares de cargos de direcção superior é aplicável o disposto na lei quadro dos institutos públicos e, subsidiariamente, o estatuto do pessoal dirigente da Administração Pública.\n\n2 - Ao pessoal de direcção intermédia é aplicável o regime específico do contrato individual de trabalho."
+  },
+  "938573106": {
+   "fragment_id": "938630779",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime de pessoal\n\nAo pessoal do ACIDI, I. P., é aplicável o regime jurídico do contrato individual de trabalho."
+  },
+  "938573107": {
+   "fragment_id": "938630780",
+   "type": 11,
+   "heading": "Artigo 11.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Receitas\n\n1 - O ACIDI, I. P., dispõe das receitas provenientes de dotações que lhe sejam atribuídas no Orçamento do Estado\n\n2 - O ACIDI, I. P., dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas por trabalhos ou serviços prestados pelo ACIDI, I. P., no âmbito das suas atribuições;\n\nb) As quantias cobradas por venda ou assinatura de publicações editadas ou distribuídas pelo ACIDI, I. P.;\n\nc) Os montantes resultantes de transferências provenientes de organismos nacionais, regionais ou internacionais a favor do ACIDI, I. P.;\n\nd) Os valores previstos em contratos-programa anuais e plurianuais celebrados com entidades, públicas ou privadas, para a execução de funções afectas às actividades do ACIDI, I. P.;\n\ne) As receitas resultantes de doações, heranças ou legados;\n\nf) O produto de subsídios e comparticipações concedidos por quaisquer pessoas, públicas ou privadas, a favor do ACIDI, I. P.;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a qualquer outro título."
+  },
+  "938573108": {
+   "fragment_id": "938630781",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas\n\nConstituem despesas do ACIDI, I. P., as que resultem dos encargos decorrentes da prossecução das suas atribuições, designadamente:\n\na) Os apoios de carácter técnico e financeiro às associações de imigrantes que desenvolvam programas, projectos e acções nos termos da Lei n.º 115/99, de 3 de Agosto;\n\nb) As inerentes ao financiamento dos protocolos, para o exercício das funções de mediador sócio-cultural, nos termos previstos na Lei n.º 105/2001, de 31 de Agosto;\n\nc) O apoio financeiro a entidades nacionais ou estrangeiras cujo objecto, projecto ou estudos se enquadrem no âmbito das atribuições do ACIDI, I. P.;\n\nd) As decorrentes do funcionamento do Programa Escolhas."
+  },
+  "938573109": {
+   "fragment_id": "938630782",
+   "type": 11,
+   "heading": "Artigo 13.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Património\n\nO património do ACIDI, I. P., é constituído pela universalidade dos seus bens, direitos e obrigações."
+  },
+  "938573110": {
+   "fragment_id": "938630783",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamentos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regulamentos internos\n\nOs regulamentos internos do ACIDI, I. P., são remetidos ao ministro da tutela e ao ministro responsável pela área das finanças, para aprovação nos termos da alínea a) do n.º 4 do artigo 41.º da Lei n.º 3/2004, de 15 de Janeiro, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei."
+  },
+  "938573111": {
+   "fragment_id": "938630784",
+   "type": 11,
+   "heading": "Artigo 15.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sucessão\n\n1 - O ACIDI, I. P., sucede nas atribuições do Alto Comissariado para a Imigração e Minorias Étnicas.\n\n2 - O ACIDI, I. P., sucede nos objectivos da estrutura de apoio técnico à coordenação do Programa Escolhas, da Estrutura de Missão para o Diálogo com as Religiões e do Secretariado Entreculturas, que se extinguem."
+  },
+  "938573112": {
+   "fragment_id": "938630785",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de selecção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Critérios de selecção do pessoal\n\nPara efeitos do n.º 2 do artigo 13.º da Lei n.º 53/2006, de 7 de Dezembro, são definidos os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições do ACIDI, I. P., referidas no artigo 3.º:\n\na) O exercício de funções na estrutura de apoio técnico à coordenação do Programa Escolhas;\n\nb) O exercício de funções no Secretariado Entreculturas;\n\nc) O exercício de funções na Estrutura de Missão para o Diálogo com as Religiões."
+  },
+  "938573113": {
+   "fragment_id": "938630786",
+   "type": 11,
+   "heading": "Artigo 17.º — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transição\n\n1 - É mantido o mandato do alto-comissário para a Imigração e Minorias Étnicas, que passa a exercer as funções previstas para o alto-comissário para a Imigração e o Diálogo Intercultural.\n\n2 - As nomeações e destacamentos para o Gabinete do Alto-Comissário para a Imigração e Minorias Étnicas existentes à data de entrada em vigor do presente decreto-lei mantêm-se igualmente até ao termo do mandato do alto-comissário, sem prejuízo da aplicação do regime previsto no Decreto-Lei n.º 262/88, de 23 de Julho."
+  },
+  "938573114": {
+   "fragment_id": "938630787",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime financeiro do Programa Escolhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime financeiro do Programa Escolhas\n\nÉ reconhecida autonomia administrativa e financeira ao ACIDI, I. P., restrita à gestão do Programa Escolhas e de programas financiados por recursos financeiros comunitários ou internacionais de idêntica natureza."
+  },
+  "938573115": {
+   "fragment_id": "938630788",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 251/2002, de 22 de Novembro;\n\nb) O Despacho Normativo n.º 5/2001, de 1 de Fevereiro;\n\nc) A Resolução do Conselho de Ministros n.º 4/2005, de 6 de Janeiro;\n\nd) O n.º 16 da Resolução do Conselho de Ministros n.º 80/2006, de 26 de Junho."
+  },
+  "938573116": {
+   "fragment_id": "938630789",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "938645682": {
+   "fragment_id": "938605870",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Alto Comissariado para a Imigração e Diálogo Intercultural, I. P., abreviadamente designado por ACIDI, I. P., é um instituto público integrado na administração indirecta do Estado, dotado de autonomia administrativa.\n\n2 - O ACIDI, I. P., prossegue atribuições da Presidência do Conselho de Ministros, sob superintendência e tutela do Primeiro-Ministro ou de outro membro do Governo integrado na Presidência do Conselho de Ministros.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645683": {
+   "fragment_id": "938605871",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\nO ACIDI, I. P., é um organismo central com jurisdição sobre todo o território nacional e tem a sua sede no concelho de Lisboa.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645684": {
+   "fragment_id": "938605872",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O ACIDI, I. P., tem por missão colaborar na concepção, execução e avaliação das políticas públicas, transversais e sectoriais, relevantes para a integração dos imigrantes e das minorias étnicas, bem como promover o diálogo entre as diversas culturas, etnias e religiões.\n\n2 - São atribuições do ACIDI, I. P.:\n\na) Promover o acolhimento e a integração dos imigrantes e das minorias étnicas através da participação na concepção, desenvolvimento e coordenação de políticas públicas transversais, integradas e coerentes;\n\nb) Incentivar a participação cívica e cultural dos imigrantes e das minorias étnicas nas instituições portuguesas, bem como através das suas associações representativas para um exercício pleno da sua cidadania;\n\nc) Garantir o acesso dos cidadãos imigrantes e minorias étnicas a informação relevante, designadamente, direitos e deveres de cidadania;\n\nd) Combater todas as formas de discriminação em função da raça, cor, nacionalidade, origem étnica ou religião, através de acções positivas de sensibilização, educação e formação, bem como através do processamento das contra-ordenações previstas na lei;\n\ne) Promover a interculturalidade, através do diálogo intercultural e inter-religioso, com base no respeito pela Constituição, pelas leis e valorizando a diversidade cultural num quadro de respeito mútuo;\n\nf) Dinamizar centros de apoio ao imigrante, de âmbito nacional, regional e local, que proporcionem uma resposta integrada dos vários serviços públicos às suas necessidades de acolhimento e integração, designadamente, através de parcerias com departamentos governamentais com intervenção no sector, serviços da administração pública, autarquias locais, organizações não governamentais, associações de imigrantes ou outras entidades com interesse relevante na matéria;\n\ng) Contribuir para a melhoria das condições de vida e de trabalho dos imigrantes em Portugal, de modo que seja proporcionada a sua integração com dignidade, em igualdade de oportunidades com todos os cidadãos nacionais;\n\nh) Favorecer a aprendizagem da língua portuguesa e o conhecimento da cultura portuguesa por parte dos imigrantes, tendo em vista a sua melhor integração na sociedade portuguesa;\n\ni) Incentivar iniciativas da sociedade civil que visem o acolhimento e integração dos imigrantes e minorias étnicas em Portugal;\n\nj) Promover acções de sensibilização da opinião pública e a realização de estudos sobre as temáticas da imigração, minorias étnicas, diálogo intercultural e diálogo inter-religioso;\n\nl) Promover a inclusão social de crianças e jovens provenientes de contextos socio-económicos mais vulneráveis, em particular os descendentes de imigrantes e de minorias étnicas, tendo em vista a igualdade de oportunidades e o reforço da coesão social, assegurando a gestão do Programa Escolhas;\n\nm) Promover o diálogo com as religiões através do conhecimento das diferentes culturas e religiões e da construção de uma atitude de respeito mútuo e de afecto pela diversidade, quer dentro das fronteiras nacionais, quer na relação de Portugal com o mundo.\n\n3 - Os serviços, organismos e outras entidades da Administração Pública estão sujeitos ao dever de cooperação com o ACIDI, I. P., na prossecução das suas atribuições.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645685": {
+   "fragment_id": "938605873",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1 - O ACIDI, I. P., é dirigido pelo alto-comissário para a Imigração e Diálogo Intercultural, abreviadamente designado por alto-comissário, o qual é equiparado a subsecretário de Estado para efeitos de estatuto, remuneração e constituição de gabinete.\n\n2 - O alto-comissário é coadjuvado por um director, cargo de direcção superior de 2.º grau.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645686": {
+   "fragment_id": "938605874",
+   "type": 11,
+   "heading": "Artigo 5.º — Alto-comissário para a Imigração e Diálogo Intercultural",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Alto-comissário para a Imigração e Diálogo Intercultural\n\n1 - Sem prejuízo das competências que lhe sejam conferidas por lei ou nele delegadas ou subdelegadas, compete ao alto-comissário:\n\na) Exercer as competências dos titulares de cargos de direcção superior de 1.º grau previstas no artigo 7.º da Lei n.º 2/2004, de 15 de Janeiro;\n\nb) Representar o ACIDI, I. P., nacional e internacionalmente;\n\nc) Coordenar e presidir ao Conselho Consultivo para os Assuntos da Imigração;\n\nd) Coordenar e presidir à Comissão para a Igualdade e contra a Discriminação Racial.\n\n2 - O alto-comissário é nomeado e exonerado pelo Primeiro-Ministro, com um mandato de três anos.\n\n3 - É aplicável ao Gabinete do Alto-Comissário o disposto no Decreto-Lei n.º 262/88, de 23 de Julho, e demais legislação aplicável aos gabinetes dos membros do Governo.\n\n4 - Compete ao director desempenhar as competências que lhe sejam delegadas ou subdelegadas pelo alto-comissário, bem como substituí-lo nas suas faltas e impedimentos.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645687": {
+   "fragment_id": "938630775",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho Consultivo para os Assuntos da Imigração",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho Consultivo para os Assuntos da Imigração\n\n1 - O Conselho Consultivo para os Assuntos da Imigração, abreviadamente designado por Conselho Consultivo, funciona junto do ACIDI, I. P., e visa assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais e das instituições de solidariedade social na definição das políticas de integração social e de combate à exclusão.\n\n2 - O Conselho Consultivo é composto por:\n\na) O alto-comissário, que preside;\n\nb) Um representante de cada uma das comunidades imigrantes dos países de língua portuguesa, que são designados pelas respectivas associações, desde que a representatividade destas seja reconhecida pelo Alto Comissariado;\n\nc) Um representante de cada uma das três comunidades de imigrantes mais numerosas não incluídas na alínea anterior, designados pelas respectivas associações, desde que a representatividade destas seja reconhecida pelo Alto Comissariado;\n\nd) Um representante das associações não filiadas nas comunidades previstas nas alíneas b) e c), designados pelas respectivas associações, desde que a representatividade destas seja reconhecida pelo Alto Comissariado;\n\ne) Um representante das instituições particulares de solidariedade social;\n\nf) Dois representantes das instituições que trabalhem com imigrantes, designados pelo alto-comissário;\n\ng) Dois representantes das associações patronais e dois representantes das centrais sindicais com assento no Conselho Económico e Social;\n\nh) Dois cidadãos de reconhecido mérito, designados pelo alto-comissário;\n\ni) Um representante do membro do Governo que tutela os assuntos relativos à emigração e comunidades portuguesas;\n\nj) Um representante do membro do Governo responsável pela área da administração interna;\n\nl) Um representante do membro do Governo responsável pela área da economia;\n\nm) Um representante do membro do Governo responsável pela área do trabalho e da solidariedade social;\n\nn) Um representante do membro do Governo responsável pela área da educação;\n\no) Um representante do Governo Regional dos Açores;\n\np) Um representante do Governo Regional da Madeira;\n\nq) Um representante da Associação Nacional de Municípios Portugueses.\n\n3 - As instituições, associações e comunidades representadas no Conselho Consultivo designam um membro efectivo e um suplente.\n\n4 - Compete ao Conselho Consultivo, por iniciativa própria ou sempre que para tal solicitado pelo alto-comissário:\n\na) Pronunciar-se sobre os projectos de diploma relativos aos direitos dos imigrantes;\n\nb) Participar na definição das políticas de integração social que visem a eliminação das discriminações e promovam a igualdade;\n\nc) Participar na definição de medidas e acções que visem a melhoria das condições de vida dos imigrantes e acompanhar a sua execução;\n\nd) Participar na defesa dos direitos dos imigrantes com respeito pela sua identidade e cultura, formulando propostas com vista à sua promoção;\n\ne) Exercer outras competências que lhe sejam atribuídas por lei.\n\n5 - O Conselho Consultivo reúne ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente.\n\n6 - O mandato dos membros do Conselho Consultivo tem a duração de três anos, renovável por iguais períodos, e cessa sempre que se verifique a perda de qualidade de representante da entidade que os designou.\n\n7 - Podem participar nas reuniões do Conselho Consultivo, a pedido do seu presidente, representantes e técnicos de departamentos governamentais ou de outras entidades públicas ou privadas, bem como cidadãos cuja audição ou contributo sejam relevantes para a actividade do Conselho Consultivo.\n\n8 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à percepção de senhas de presença.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645688": {
+   "fragment_id": "938630776",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão para a Igualdade e contra a Discriminação Racial",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Comissão para a Igualdade e contra a Discriminação Racial\n\n1 - A Comissão para a Igualdade e contra a Discriminação Racial funciona junto do ACIDI, I. P., e tem as competências que lhe são conferidas na Lei n.º 134/99, de 28 de Agosto, e na Lei n.º 18/2004, de 11 de Maio.\n\n2 - O mandato dos membros da Comissão para a Igualdade e contra a Discriminação Racial tem a duração de três anos, renovável por iguais períodos, e cessa sempre que se verifique a perda de qualidade de representante da entidade que os designou ou elegeu.\n\n3 - Os representantes das comissões referidas nos artigos 6.º e 7.º da Lei n.º 134/99, de 28 de Agosto, exercem as suas funções a título gratuito.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645689": {
+   "fragment_id": "938630777",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna do ACIDI, I. P., é a prevista nos respectivos estatutos.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645690": {
+   "fragment_id": "938630778",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto do pessoal dirigente",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 9.º — Estatuto do pessoal dirigente\n\n1 - Aos titulares de cargos de direcção superior é aplicável o disposto na lei quadro dos institutos públicos e, subsidiariamente, o estatuto do pessoal dirigente da Administração Pública.\n\n2 - Ao pessoal de direcção intermédia é aplicável o regime específico do contrato individual de trabalho.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645691": {
+   "fragment_id": "938630779",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime de pessoal",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Regime de pessoal\n\nAo pessoal do ACIDI, I. P., é aplicável o regime jurídico do contrato individual de trabalho.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645692": {
+   "fragment_id": "938630780",
+   "type": 11,
+   "heading": "Artigo 11.º — Receitas",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 11.º — Receitas\n\n1 - O ACIDI, I. P., dispõe das receitas provenientes de dotações que lhe sejam atribuídas no Orçamento do Estado\n\n2 - O ACIDI, I. P., dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas por trabalhos ou serviços prestados pelo ACIDI, I. P., no âmbito das suas atribuições;\n\nb) As quantias cobradas por venda ou assinatura de publicações editadas ou distribuídas pelo ACIDI, I. P.;\n\nc) Os montantes resultantes de transferências provenientes de organismos nacionais, regionais ou internacionais a favor do ACIDI, I. P.;\n\nd) Os valores previstos em contratos-programa anuais e plurianuais celebrados com entidades, públicas ou privadas, para a execução de funções afectas às actividades do ACIDI, I. P.;\n\ne) As receitas resultantes de doações, heranças ou legados;\n\nf) O produto de subsídios e comparticipações concedidos por quaisquer pessoas, públicas ou privadas, a favor do ACIDI, I. P.;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a qualquer outro título.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645693": {
+   "fragment_id": "938630781",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 12.º — Despesas\n\nConstituem despesas do ACIDI, I. P., as que resultem dos encargos decorrentes da prossecução das suas atribuições, designadamente:\n\na) Os apoios de carácter técnico e financeiro às associações de imigrantes que desenvolvam programas, projectos e acções nos termos da Lei n.º 115/99, de 3 de Agosto;\n\nb) As inerentes ao financiamento dos protocolos, para o exercício das funções de mediador sócio-cultural, nos termos previstos na Lei n.º 105/2001, de 31 de Agosto;\n\nc) O apoio financeiro a entidades nacionais ou estrangeiras cujo objecto, projecto ou estudos se enquadrem no âmbito das atribuições do ACIDI, I. P.;\n\nd) As decorrentes do funcionamento do Programa Escolhas.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645694": {
+   "fragment_id": "938630782",
+   "type": 11,
+   "heading": "Artigo 13.º — Património",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 13.º — Património\n\nO património do ACIDI, I. P., é constituído pela universalidade dos seus bens, direitos e obrigações.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645695": {
+   "fragment_id": "938630783",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamentos internos",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 14.º — Regulamentos internos\n\nOs regulamentos internos do ACIDI, I. P., são remetidos ao ministro da tutela e ao ministro responsável pela área das finanças, para aprovação nos termos da alínea a) do n.º 4 do artigo 41.º da Lei n.º 3/2004, de 15 de Janeiro, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645696": {
+   "fragment_id": "938630784",
+   "type": 11,
+   "heading": "Artigo 15.º — Sucessão",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 15.º — Sucessão\n\n1 - O ACIDI, I. P., sucede nas atribuições do Alto Comissariado para a Imigração e Minorias Étnicas.\n\n2 - O ACIDI, I. P., sucede nos objectivos da estrutura de apoio técnico à coordenação do Programa Escolhas, da Estrutura de Missão para o Diálogo com as Religiões e do Secretariado Entreculturas, que se extinguem.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645697": {
+   "fragment_id": "938630785",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de selecção do pessoal",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 16.º — Critérios de selecção do pessoal\n\nPara efeitos do n.º 2 do artigo 13.º da Lei n.º 53/2006, de 7 de Dezembro, são definidos os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições do ACIDI, I. P., referidas no artigo 3.º:\n\na) O exercício de funções na estrutura de apoio técnico à coordenação do Programa Escolhas;\n\nb) O exercício de funções no Secretariado Entreculturas;\n\nc) O exercício de funções na Estrutura de Missão para o Diálogo com as Religiões.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645698": {
+   "fragment_id": "938630786",
+   "type": 11,
+   "heading": "Artigo 17.º — Transição",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 17.º — Transição\n\n1 - É mantido o mandato do alto-comissário para a Imigração e Minorias Étnicas, que passa a exercer as funções previstas para o alto-comissário para a Imigração e o Diálogo Intercultural.\n\n2 - As nomeações e destacamentos para o Gabinete do Alto-Comissário para a Imigração e Minorias Étnicas existentes à data de entrada em vigor do presente decreto-lei mantêm-se igualmente até ao termo do mandato do alto-comissário, sem prejuízo da aplicação do regime previsto no Decreto-Lei n.º 262/88, de 23 de Julho.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645699": {
+   "fragment_id": "938630787",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime financeiro específico",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 56/2007 - Diário da República n.º 114/2007, Série I de 2007-06-15](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2007-639153), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 18.º — Regime financeiro específico\n\nÉ reconhecida autonomia administrativa e financeira ao ACIDI, I. P., restrita à gestão do Programa Escolhas e de programas financiados por recursos financeiros comunitários ou internacionais de idêntica natureza.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 56/2007 - Diário da República n.º 114/2007, Série I de 2007-06-15](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/56-2007-639153), em vigor a partir de 2007-06-01"
+  },
+  "938645700": {
+   "fragment_id": "938630788",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 251/2002, de 22 de Novembro;\n\nb) O Despacho Normativo n.º 5/2001, de 1 de Fevereiro;\n\nc) A Resolução do Conselho de Ministros n.º 4/2005, de 6 de Janeiro;\n\nd) O n.º 16 da Resolução do Conselho de Ministros n.º 80/2006, de 26 de Junho.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645701": {
+   "fragment_id": "938630789",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  },
+  "938645702": {
+   "fragment_id": "938630790",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2014-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Manuel António Gomes de Almeida de Pinho - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues.\n\nPromulgado em 12 de Abril de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 16 de Abril de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-01"
+  }
+ }
+}

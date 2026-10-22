@@ -1,0 +1,269 @@
+---
+schema_version: '1.0'
+id: pt:dre:621303:por
+title: Decreto-Lei n.º 64-B/89
+short_title: null
+summary: Altera as regras processuais do regime de suspensão e redução da prestação de trabalho (lay-off)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 64-B/89
+official_date: null
+publication_date: '1989-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 48/1989, 2º Suplemento, Série I de 1989-02-27
+  number: '48'
+  series: I
+  supplement: 2º Suplemento
+  pages: 862-(14) a 862-(16)
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04802/00140016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-05-23'
+version_history:
+  file: decreto-lei-64-b-89.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1989-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-09-02'
+    amending: pt:dre:532448:por
+    amending_title: Lei n.º 137/99
+    changes:
+    - Altera Artigo 1.º
+  - date: '2021-05-23'
+    amending: pt:dre:163561196:por
+    amending_title: Lei n.º 28/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/64-b/1989/p/cons/20210518/pt/html
+  oj: null
+  dre: '621303'
+  dre_path: /dr/detalhe/decreto-lei/64-b-1989-621303
+  internal: pt:dre:621303:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-b-1989-621303
+  metadata_url: https://data.dre.pt/eli/dec-lei/64-b/1989/p/cons/20210518/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-163633697
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-163633697
+  retrieved_at: '2026-10-22T12:41:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6b3cdaa26885fa58b4c91c878a0ae872fb2280335550917256a7afc32f98f399
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:41:54Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-64-b-89.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Contrato de Trabalho
+- Empresa
+- LAY OFF
+- Madeira.região Autónoma
+- Redução do Período Normal de Trabalho
+- Regime Jurídico
+- Situação Económica Dificil
+- Suspensão do Contrato de Trabalho
+- Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:423061:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:532448:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/137-1999-532448
+  date: '1999-08-28'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196
+  date: '2021-05-18'
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:41:54Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 64-B/89
+
+Decreto-Lei n.º 64-B/89
+
+de 27 de Fevereiro
+
+Através do n.º 2 do artigo 1.º da Lei n.º 107/88, de 17 de Setembro, foi o Governo autorizado a proceder à revisão do regime processual constante dos artigos 14.º a 16.º do Decreto-Lei n.º 398/83, de 2 de Novembro, definindo a alínea h) do artigo 2.º da mesma lei o alcance da revisão a introduzir.
+
+Em relação ao novo regime processual destacam-se os seguintes aspectos essenciais:
+
+Reforço da intervenção dos representantes dos trabalhadores, com a consagração de eficácia substantiva aos acordos com estes celebrados;
+
+Responsabilização da entidade empregadora pelas decisões de suspensão ou redução, condicionando-se a prorrogação da medida a prévio acordo da estrutura representativa dos trabalhadores ou do próprio trabalhador;
+
+Redução dos actuais limites temporais de duração das medidas;
+
+Substituição do controlo prévio traduzido em autorização administrativa por controlo a exercer no decurso da aplicação das medidas decididas, através dos serviços regionais competentes da Inspecção-Geral do Trabalho, com atribuição de eficácia substantiva às decisões desses mesmos serviços;
+
+Garantia de os trabalhadores poderem participar no processo por representantes eleitos, nos casos em que não haja representação institucional.
+
+O projecto de decreto-lei foi submetido a discussão pública com a publicação na separata n.º 3 do Boletim do Trabalho e Emprego, de 9 de Dezembro de 1988, tendo sido recebidos alguns contributos de organizações de trabalhadores e também de associações patronais. No primeiro caso insistiu-se na sujeição da aplicação das medidas à autorização ministerial, enquanto as associações patronais contestaram a curta duração das medidas e, bem assim, a exigência do acordo da estrutura representativa dos trabalhadores ou dos próprios trabalhadores abrangidos à sua prorrogação.
+
+Considera-se que o regime constante do presente diploma previne as preocupações subjacentes a estas críticas. Com efeito, quer pela promoção da negociação entre trabalhadores e empregadores, quer pela redução da duração de aplicação das medidas, quer, ainda, pela intervenção da Inspecção-Geral do Trabalho com poderes para suspender a aplicação das mesmas, caso não se verifiquem os requisitos que as ligitimem, encontra-se salvaguardado o equilíbrio necessário entre, por um lado, os objectivos de gestão e, por outro, os interesses sociais a proteger.
+
+Assim:
+
+No uso da autorização concedida pela Lei n.º 107/88, de 17 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição da República Portuguesa, o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 14.º, 15.º, 16.º, 17.º e 21.º do Decreto-Lei n.º 398/83, de 2 de Novembro, passam a ter a seguinte redacção:
+
+Artigo 14.º
+
+Comunicações
+
+1 - A entidade empregadora deve comunicar, por escrito, à comissão de trabalhadores ou, na sua falta, à comissão intersindical ou comissões sindicais da empresa representativas dos trabalhadores a abranger, caso a sua existência seja conhecida, a intenção de reduzir ou suspender a prestação de trabalho, fazendo acompanhar a comunicação dos seguintes elementos:
+
+a) Descrição dos respectivos fundamentos económicos, financeiros ou técnicos;
+
+b) Quadro de pessoal, discriminado por secções;
+
+c) Indicação dos critérios que servirão de base à selecção dos trabalhadores a abranger;
+
+d) Indicação do número de trabalhadores a abranger pelas medidas de redução e de suspensão, bem como das categorias profissionais abrangidas;
+
+e) Indicação do prazo de aplicação das medidas.
+
+f) Áreas da formação a frequentar pelos trabalhadores durante o período de redução ou suspensão do trabalho, sendo caso disso.
+
+2 - Na falta das entidades referidas no n.º 1, a entidade empregadora comunicará, por escrito, a cada um dos trabalhadores que possam vir a ser abrangidos, a intenção de reduzir ou suspender a prestação de trabalho, podendo estes designar, de entre eles, no prazo de sete dias úteis contados da data da expedição daquela comunicação, uma comissão representativa com o máximo de três ou cinco elementos, consoante as medidas abranjam até vinte ou mais trabalhadores.
+
+3 - No caso previsto no número anterior, a entidade empregadora enviará à comissão nele designada os documentos referidos no n.º 1.
+
+Artigo 15.º
+
+Processo de consultas e decisão
+
+1 - Nos dez dias contados da data da comunicação prevista nos n.os 1 e 3 do artigo anterior, tem lugar uma fase de informação e negociação entre a entidade empregadora e a estrutura representativa dos trabalhadores, com vista à obtenção de um acordo sobre a dimensão e duração das medidas a adoptar.
+
+2 - Das reuniões de negociação será lavrada acta contendo a matéria acordada e, bem assim, as posições divergentes das partes, com as opiniões, sugestões e propostas de cada uma.
+
+3 - Celebrado o acordo ou, na falta deste, decorridos quinze dias sobre a data da comunicação referida nos n.os 1 e 3 do artigo anterior, a entidade empregadora comunicará, por escrito, a cada trabalhador a medida que decidiu aplicar, com menção expressa do motivo e da data de início e termo da sua aplicação.
+
+4 - Na data em que forem expedidas as comunicações referidas no número anterior a entidade empregadora deve remeter à estrutura representativa dos trabalhadores e aos serviços do Ministério do Emprego e da Segurança Social com competência na área das relações colectivas do trabalho a acta a que se refere o n.º 2 do presente artigo, bem como relação de que conste o nome dos trabalhadores, morada, data de nascimento e de admissão na empresa, situação perante a Segurança Social, profissão, categoria e retribuição e, ainda, a medida individualmente adoptada com indicação da data de início e termo de aplicação.
+
+5 - Na falta da acta a que se refere o n.º 2 do presente artigo, a entidade empregadora, para os efeitos do referido no número anterior, enviará documento em que justifique aquela falta, descrevendo as razões que obstaram ao acordo, bem como as posições finais das partes.
+
+Artigo 16.º
+
+Vigência
+
+1 - A redução ou suspensão determinada por razões conjunturais de mercado, por motivos económicos ou tecnológicos terá uma duração previamente definida, não podendo, porém, ser superior a seis meses.
+
+2 - Em caso de catástrofe ou outra ocorrência que tenha afectado gravemente a actividade normal da empresa, o prazo referido no número anterior poderá ter a duração máxima de um ano.
+
+3 - Os prazos referidos nos números anteriores poderão ser prorrogados até ao máximo de seis meses, desde que, comunicada a intenção de prorrogação por escrito e de forma fundamentada à estrutura representativa dos trabalhadores, esta se não oponha, igualmente por escrito, dentro dos sete dias úteis seguintes, ou, quando o trabalhador abrangido pela prorrogação manifeste, por escrito, o seu acordo.
+
+4 - A data de início da aplicação da redução ou suspensão não poderá verificar-se antes de decorridos quinze dias sobre a data da comunicação a que se refere o n.º 3 do artigo anterior, salvo se se verificar impedimento imediato à prestação normal de trabalho, que seja conhecido pelo trabalhador, caso em que o início da medida poderá ser imediato.
+
+5 - Terminado o período de redução ou suspensão, são restabelecidos todos os direitos e deveres das partes decorrentes do contrato de trabalho.
+
+Artigo 17.º
+
+Fiscalização
+
+1 - Durante a redução ou suspensão, os serviços da Inspecção-Geral do Trabalho, por iniciativa própria ou a requerimento de qualquer dos interessados, deverão pôr termo à aplicação do regime, relativamente a todos ou a alguns dos trabalhadores, nos seguintes casos:
+
+a) Não verificação dos motivos invocados, quando não tenha havido o acordo mencionado nos n.os 1 e 3 do artigo 15.º;
+
+b) Falta das comunicações ou recusa de participação no processo negocial por parte da entidade empregadora;
+
+c) Falta de pagamento pontual da compensação salarial devida aos trabalhadores;
+
+d) Admissão de trabalhadores para funções susceptíveis de serem desempenhadas por trabalhadores em regime de redução ou suspensão da prestação de trabalho.
+
+2 - A decisão que ponha termo à aplicação das medidas deverá indicar os trabalhadores a que se aplica.
+
+3 - São restabelecidos todos os direitos e deveres das partes decorrentes do contrato de trabalho a partir do momento em que a entidade empregadora seja notificada da decisão que põe termo à aplicação do regime de redução ou suspensão.
+
+Artigo 21.º
+
+Contra-ordenações
+
+Constitui contra-ordenação grave a violação do artigo 9.º, quando a falta de pagamento do subsídio de Natal se prolongue por mais de 30 dias, das alíneas a), c) e d) do n.º 1 e do n.º 2 do artigo 10.º, bem como a redução dos períodos normais de trabalho ou a suspensão dos contratos de trabalho com violação de regras de procedimento referidas nos artigos 14.º e 15.º.
+
+> Revogado pelo/a Artigo 13.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 137/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/137-1999-532448), em vigor a partir de 1999-09-02
+
+> Alterado pelo/a Artigo 20.º do/a [Lei n.º 118/99 - Diário da República n.º 186/1999, Série I-A de 1999-08-11](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), em vigor a partir de 2000-01-01
+
+###### Artigo 2.º
+
+Regiões autónomas
+
+O presente diploma aplica-se a todo o território nacional, sem prejuízo de os órgãos competentes das regiões autónomas lhe poderem introduzir as adaptações exigidas pelas competências orgânicas dos respectivos serviços regionais.
+
+> Revogado pelo/a Artigo 13.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+###### Artigo 3.º
+
+Entrada em vigor
+
+Este diploma entra em vigor decorridos 60 dias sobre a data da sua publicação.
+
+> Revogado pelo/a Artigo 13.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23
+
+Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Albino da Silva Peneda.
+
+Promulgado em 18 de Fevereiro de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 18 de Fevereiro de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 13.º do/a [Lei n.º 28/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/lei/28-2021-163561196), em vigor a partir de 2021-05-23

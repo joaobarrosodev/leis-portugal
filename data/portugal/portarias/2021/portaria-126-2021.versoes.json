@@ -1,0 +1,102 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:165723202:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-166888312",
+ "dre_path": "/dr/detalhe/portaria/126-2021-165723202",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-06-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:166658249:por",
+     "title": "Declaração de Retificação n.º 23/2021",
+     "published": "2021-07-09",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/23-2021-166658249"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma",
+    "Retifica Artigo 7.º"
+   ],
+   "fragments": [
+    "166911076",
+    "166888411",
+    "166888412",
+    "166888413",
+    "166888414",
+    "166888415",
+    "166888416",
+    "166888417"
+   ],
+   "acts_without_text_change": []
+  }
+ ],
+ "fragments": {
+  "166911076": {
+   "fragment_id": "166888313",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-06-16",
+   "changed_by": [],
+   "markdown": "Portaria n.º 126/2021\n\nde 24 de junho\n\nSumário: Regulamenta a consulta direta, pelos administradores judiciais, às bases de dados da Autoridade Tributária e Aduaneira (AT), da segurança social, da Caixa Geral de Aposentações, do Fundo de Garantia Salarial, do registo predial, do registo comercial, do registo automóvel, do registo civil e de outros registos ou arquivos semelhantes.\n\nCom a publicação da Lei n.º 17/2017, de 16 de maio, que procedeu à primeira alteração ao estatuto do administrador judicial, aprovado pela Lei n.º 22/2013, de 26 de fevereiro, os administradores judiciais, quer atuem na qualidade de administrador judicial provisório, de administrador da insolvência ou de fiduciário, foram equiparados aos agentes de execução para efeitos de consulta das bases de dados.\n\nEm face desta alteração legislativa torna-se necessário regulamentar a consulta direta, pelos administradores judiciais, às bases de dados da administração tributária, da segurança social, da Caixa Geral de Aposentações, do Fundo de Garantia Salarial, do registo predial, do registo comercial, do registo automóvel, do registo civil e de outros registos ou arquivos semelhantes, para obtenção de informações sobre a identificação do devedor e sobre os seus bens.\n\nFacultada no âmbito dos processos regulados no Código da Insolvência e da Recuperação de Empresas, esta consulta, efetuada através do sistema de informação de suporte à atividade dos tribunais, limitar-se-á ao estritamente necessário para que estes profissionais exerçam as competências que a lei lhes confia.\n\nPromove-se, deste modo, a celeridade e eficiência dos processos de insolvência, ao mesmo tempo que se agiliza e simplifica a atuação das entidades responsáveis pelas bases de dados visadas e se fomenta uma utilização mais sustentável de recursos através da redução do consumo de papel.\n\nIdentificada a especial complexidade da interconexão com as bases de dados da administração tributária, o acesso aos dados da administração tributária realiza-se através do Portal das Finanças, até à data que venha a ser fixada por protocolo a subscrever entre o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., e a Autoridade Tributária e Aduaneira.\n\nForam ouvidos a Agência de Gestão da Tesouraria e da Dívida Pública, o Conselho Superior da Magistratura, a Ordem dos Solicitadores e dos Agentes de Execução, a Procuradoria-Geral da República.\n\nFoi promovida a audição dos órgãos de governo próprio das Regiões Autónomas da Madeira e dos Açores, da Comissão Nacional de Proteção de Dados e da Ordem dos Advogados.\n\nAssim:\n\nAo abrigo do disposto na subalínea iii) da alínea a) do artigo 11.º da Lei n.º 22/2013, de 26 de fevereiro, manda o Governo, pelo Ministro de Estado e das Finanças, pela Ministra da Justiça e pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "166888411": {
+   "fragment_id": "166888314",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria regulamenta a consulta direta, pelos administradores judiciais, às bases de dados da administração tributária, da segurança social, da Caixa Geral de Aposentações, do Fundo de Garantia Salarial, do registo predial, do registo comercial, do registo automóvel, do registo civil e de outros registos ou arquivos semelhantes, para obtenção de informações referentes à identificação do devedor e à identificação e localização dos seus bens, necessárias ao exercício das competências que lhes são legalmente atribuídas.\n\n2 - O disposto na presente portaria aplica-se aos processos regulados no Código da Insolvência e da Recuperação de Empresas nos quais os administradores judiciais intervenham nas funções de administrador judicial provisório, administrador da insolvência ou fiduciário."
+  },
+  "166888412": {
+   "fragment_id": "166888315",
+   "type": 11,
+   "heading": "Artigo 2.º — Finalidades e modo da consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Finalidades e modo da consulta\n\n1 - A consulta direta, pelo administrador judicial, às bases de dados da administração tributária, da segurança social, da Caixa Geral de Aposentações, do Fundo de Garantia Salarial, do registo predial, do registo comercial, do registo automóvel, do registo civil e de outros registos ou arquivos semelhantes, para obtenção de informações, sobre a identificação do devedor e sobre a identificação e a localização dos seus bens, limita-se ao estritamente necessário ao exercício das competências que são legalmente atribuídas ao administrador judicial, nomeadamente:\n\na) O inventário ou arresto dos bens do devedor, decretados a título de medidas cautelares;\n\nb) A apreensão dos bens do devedor nos termos da alínea g) do n.º 1 do artigo 36.º e dos artigos 149.º e 150.º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março, na sua redação atual;\n\nc) A resolução, em benefício da massa insolvente, dos atos prejudiciais à massa praticados dentro dos dois anos anteriores à data do início do processo de insolvência, nos termos dos artigos 120.º e 121.º do Código da Insolvência e da Recuperação de Empresas;\n\nd) A fiscalização do cumprimento pelo devedor das obrigações que sobre este impendem, nos termos do n.º 3 do artigo 241.º do Código da Insolvência e da Recuperação de Empresas.\n\n2 - A consulta a que se refere o número anterior só pode ter lugar até:\n\na) Ao encerramento do processo, quando a consulta seja efetuada no âmbito de um processo especial de revitalização ou de um processo especial para acordo de pagamento;\n\nb) Ao trânsito em julgado da decisão que ponha termo ao processo principal ou, caso existam incidentes ou apensos que ainda não se encontrem encerrados a essa data, até ao trânsito em julgado da decisão que ponha termo aos mesmos, quando a consulta seja efetuada no âmbito de um processo de insolvência.\n\n3 - A consulta a que se refere o n.º 1 é efetuada através do sistema de informação de suporte à atividade dos tribunais, no endereço eletrónico https://citius.tribunaisnet.mj.pt, tendo por referência os dados do devedor constantes do processo e, no que concerne à consulta das bases de dados do registo automóvel, as matrículas dos veículos.\n\n4 - A eventual correção de dados do devedor incumbe à secretaria de processos.\n\n5 - O administrador judicial tem acesso à área reservada do sistema de informação de suporte à atividade dos tribunais por via do registo a que se refere o n.º 2 do artigo 3.º da Portaria n.º 246/2016, de 7 de setembro.\n\n6 - Quando, por indisponibilidade do sistema de informação, não seja possível o acesso direto às informações constantes das bases de dados referidas no n.º 1, as consultas em causa podem ser efetuadas por qualquer meio legalmente admissível.\n\n7 - A entidade titular da base de dados fornece os elementos solicitados pelo meio mais célere, preferencialmente por via eletrónica, no prazo máximo de 10 dias."
+  },
+  "166888413": {
+   "fragment_id": "166888316",
+   "type": 11,
+   "heading": "Artigo 3.º — Consulta direta às bases de dados da administração tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Consulta direta às bases de dados da administração tributária\n\n1 - A consulta direta, pelo administrador judicial, às bases de dados da administração tributária é efetuada pelo número de identificação fiscal do devedor.\n\n2 - A base de dados da administração tributária disponibiliza ao administrador judicial o nome, o número de identificação fiscal e o domicílio fiscal do devedor e a seguinte informação sobre a identificação e localização dos seus bens:\n\na) Identificação das matrizes dos prédios de que o devedor seja titular de um qualquer direito real, a sua descrição predial, a sua localização e o respetivo valor patrimonial tributário;\n\nb) Identificação dos veículos relativamente aos quais o devedor é sujeito passivo de imposto único de circulação e o ano do último pagamento;\n\nc) Datas de início, reinício e cessação da última atividade do devedor e respetivo código de atividade económica;\n\nd) Identificação do ano a que se reporta a última declaração de rendimentos entregues e a natureza dos mesmos;\n\ne) Montantes dos créditos do devedor resultantes de reembolso, revisão oficiosa, reclamação graciosa ou impugnação judicial de qualquer ato tributário;\n\nf) Número fiscal da sociedade em que o devedor conste como sócio ou membro de órgão social, como comunicado à administração tributária pelo serviço de registo competente;\n\ng) Número fiscal da herança indivisa em que o devedor conste como herdeiro.\n\n3 - A concretização da interoperabilidade entre o sistema de suporte à atividade dos tribunais e as bases de dados da administração tributária é efetuada mediante protocolo a celebrar entre o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., e a Autoridade Tributária e Aduaneira."
+  },
+  "166888414": {
+   "fragment_id": "166888317",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nConsulta direta às bases de dados da segurança social, da Caixa Geral de Aposentações e do Fundo de Garantia Salarial\n\n1 - A consulta direta, pelo administrador judicial, às bases de dados da segurança social, do Fundo de Garantia Salarial e da Caixa Geral de Aposentações é efetuada pelo número de identificação fiscal do devedor.\n\n2 - A segurança social disponibiliza ao administrador judicial o nome e o número de identificação da segurança social do devedor e a seguinte informação necessária à identificação e localização dos seus bens:\n\na) Identificação da entidade empregadora responsável pelas contribuições associadas ao devedor, ou das respetivas identidades, quando exista mais do que uma;\n\nb) Datas de início e término das contribuições associadas ao devedor, ou datas de início e da última contribuição, reportada a cada entidade empregadora;\n\nc) Montante auferido pelo devedor, à data da última contribuição, a título de vencimento, salário ou outros rendimentos que constituam base de incidência contributiva para a segurança social;\n\nd) Indicação das qualificações ativas e últimas qualificações encerradas do devedor perante o sistema de segurança social;\n\ne) Último montante declarado à segurança social para cada uma das qualificações nos termos da alínea anterior;\n\nf) Indicação sobre se o devedor é beneficiário de algum regime contributivo especial e qual esse regime;\n\ng) Indicação sobre se o devedor aufere pensão de velhice, pensão de invalidez ou qualquer outra prestação social, e, caso aufira, indicação dos respetivos montantes, bem como das penhoras que recaiam sobre as prestações, respetivos montantes globais e mensais e quantias já penhoradas;\n\nh) Identificação dos processos de execução fiscal em que o devedor seja executado ou responsável.\n\n3 - A Caixa Geral de Aposentações disponibiliza ao administrador judicial o nome e o número de subscritor e a seguinte informação necessária à identificação e localização dos seus bens:\n\na) A identificação da entidade pública empregadora responsável pelas contribuições associadas ao devedor, ou respetivas entidades, quando exista mais do que uma;\n\nb) O montante auferido pelo devedor, à data da última contribuição, a título de vencimento, salário ou outros rendimentos que constituam base de incidência contributiva para a Caixa Geral de Aposentações;\n\nc) Se o devedor aufere alguma pensão de aposentação, reforma, sobrevivência e outras de natureza especial, e, caso aufira, indicação do seu montante, bem como das penhoras que sobre elas recaiam, respetivos montantes globais e mensais e quantias já penhoradas.\n\n4 - O Fundo de Garantia Salarial disponibiliza ao administrador judicial o nome e o número de identificação da segurança social do devedor, bem como a identificação da natureza e do montante dos créditos a este devidos.\n\n5 - A concretização da interoperabilidade entre o sistema de suporte à atividade dos tribunais e as bases de dados referidas no n.º 1 é efetuada mediante protocolo a celebrar entre o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., o Instituto da Segurança Social, I. P., o Instituto de Gestão Financeira da Segurança Social, I. P., o Instituto de Segurança Social da Madeira, IP-RAM, o Instituto da Segurança Social dos Açores, IPRA, a Caixa Geral de Aposentações, I. P., e o Instituto de Informática, I. P."
+  },
+  "166888415": {
+   "fragment_id": "166888318",
+   "type": 11,
+   "heading": "Artigo 5.º — Consulta direta às bases de dados dos registos e arquivos semelhantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Consulta direta às bases de dados dos registos e arquivos semelhantes\n\n1 - A consulta direta, pelo administrador judicial, às bases de dados do registo civil, do registo predial, do registo comercial, do registo automóvel, do registo nacional de pessoas coletivas é feita pelo nome, número de identificação civil, número de identificação fiscal ou matrícula.\n\n2 - A base de dados do registo civil disponibiliza o nome e o número de identificação civil do devedor.\n\n3 - A base de dados do registo predial disponibiliza a descrição e as inscrições em vigor dos imóveis nos quais o devedor figure como titular de um direito real registado sobre os mesmos.\n\n4 - A base de dados do registo comercial disponibiliza a informação relativa à situação jurídica do devedor que esteja sujeito a esse registo.\n\n5 - O Registo Nacional de Pessoas Coletivas disponibiliza a informação constante do Ficheiro Central de Pessoas Coletivas, designadamente, a identificação das pessoas coletivas e entidades equiparadas associadas ao devedor, bem como a inscrição da constituição, modificação e dissolução das mesmas.\n\n6 - A base de dados do registo automóvel disponibiliza informação relativa aos veículos de que o devedor seja proprietário ou titular de outro direito real, bem como os ónus e encargos que incidam sobre cada um dos mesmos.\n\n7 - Quando efetuada no âmbito de um processo de insolvência, a consulta às bases de dados do registo predial, do registo comercial e do registo automóvel permite ter acesso a informação relativa ao período iniciado 2 anos antes da data de início do processo de insolvência e com termo na data em que a consulta é efetuada.\n\n8 - A Agência de Gestão da Tesouraria e da Dívida Pública disponibiliza informação sobre os Certificados de Aforro, Certificados do Tesouro e outros instrumentos de que o devedor seja titular, nos termos definidos por protocolo a celebrar entre o Instituto de Gestão Financeira e Equipamentos da Justiça I. P., e a Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E.\n\n9 - A concretização da interoperabilidade entre o sistema de suporte à atividade dos tribunais e as bases de dados referidas no n.º 1 é efetuada mediante protocolo a celebrar entre o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., e o Instituto dos Registos e do Notariado, I. P."
+  },
+  "166888416": {
+   "fragment_id": "166888319",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo e conservação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo e conservação de dados\n\n1 - Cada consulta efetuada pelo administrador judicial às bases de dados referidas no n.º 1 do artigo 2.º é objeto, automaticamente, de um registo eletrónico autónomo no sistema de informação de suporte à atividade dos tribunais, para fins de auditoria às consultas realizadas e de fiscalização e disciplina da atividade dos administradores judiciais.\n\n2 - Do registo a que se refere o número anterior constam a data da consulta, a identificação do administrador judicial, o número do processo no âmbito do qual se realizou a consulta, bem como os resultados da mesma.\n\n3 - A consulta às bases de dados referidas no n.º 1 do artigo 2.º fica igualmente a constar do processo no âmbito do qual é realizada, sendo que até à apreensão dos bens apurados ou da efetivação do registo da apreensão no caso dos bens sujeitos a registo apenas podem aceder aos resultados das consultas o administrador judicial e o juiz do processo, sem prejuízo do disposto no número seguinte.\n\n4 - No exercício das suas atribuições em matéria de fiscalização e de disciplina dos administradores judiciais, a Comissão para o Acompanhamento dos Auxiliares da Justiça pode aceder, nos termos previstos no artigo 8.º da Portaria n.º 246/2016, de 7 de setembro, aos registos das consultas e respetivos resultados previstos no presente artigo."
+  },
+  "166888417": {
+   "fragment_id": "166888320",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor no dia 16 de junho de 2021, com exceção:\n\na) Da consulta direta às bases de dados do registo civil, do registo predial, do registo comercial, do registo automóvel, do registo nacional de pessoas coletivas, a que se refere o artigo 5.º, que entra em vigor no dia 2 de dezembro de 2021;\n\nb) Da consulta direta às bases de dados da administração tributária e da Agência de Gestão da Tesouraria e da Dívida Pública, a que se referem o artigo 3.º e o n.º 8 do artigo 5.º, que entra em vigor no dia 24 de fevereiro de 2022.\n\n2 - Sem prejuízo do número anterior, a consulta às bases de dados da administração tributária realiza-se através de perfil específico para acesso ao Portal das Finanças, no endereço www.portaldasfinancas.gov.pt, até à data definida no protocolo que concretiza a interoperabilidade entre sistemas de informação e possibilita a consulta direta às bases de dados da administração tributária, a divulgar junto dos interessados."
+  }
+ }
+}

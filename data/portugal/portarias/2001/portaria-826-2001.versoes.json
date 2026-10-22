@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:371826:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-960673298",
+ "dre_path": "/dr/detalhe/portaria/826-2001-371826",
+ "source_lastmod": "2025-12-04",
+ "versions": [
+  {
+   "date": "2001-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "960673188"
+   ]
+  }
+ ],
+ "fragments": {
+  "960673188": {
+   "fragment_id": "960673299",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 826/2001\n\nde 25 de Julho\n\nCom fundamento no disposto no artigo 25.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro;\n\nOuvido o Conselho Cinegético Municipal de Elvas:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  }
+ }
+}

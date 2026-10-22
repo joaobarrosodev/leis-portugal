@@ -1,0 +1,139 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:213918212:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-214009121",
+ "dre_path": "/dr/detalhe/portaria/150-2023-213918212",
+ "source_lastmod": "2026-09-01",
+ "versions": [
+  {
+   "date": "2026-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1095309154:por",
+     "title": "Portaria n.º 204/2026/1",
+     "published": "2026-04-29",
+     "dre_path": "/dr/detalhe/portaria/204-2026-1095309154"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "214009222",
+    "214009223",
+    "1101042775",
+    "214009225",
+    "214009226",
+    "214009227",
+    "214009228"
+   ]
+  },
+  {
+   "date": "2026-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1154789330:por",
+     "title": "Portaria n.º 331/2026/1",
+     "published": "2026-08-07",
+     "dre_path": "/dr/detalhe/portaria/331-2026-1154789330"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "214009222",
+    "214009223",
+    "1156028575",
+    "1156028775",
+    "214009226",
+    "214009227",
+    "214009228"
+   ]
+  }
+ ],
+ "fragments": {
+  "214009222": {
+   "fragment_id": "214009122",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que a Portaria n.º 382/2009, de 8 de abril, fixou as condições de prestação de apoio financeiro aos alunos que frequentam escolas particulares de ensino especial, tendo procedido à atualização dos valores dos contratos regulados pela Portaria n.º 1103/97, de 3 de novembro, e os termos em que os mesmos são aplicados, os quais não foram, entretanto, objeto de atualização.\n\nNestes termos, pela presente portaria procede-se à atualização dos valores e condições de funcionamento dos contratos de cooperação previstos no Estatuto do Ensino Particular e Cooperativo, que teve em consideração um processo de diálogo com as estruturas representativas dos estabelecimentos de ensino particular e cooperativo.\n\nAssim, nos termos do artigo 24.º do Decreto-Lei n.º 152/2013, de 4 de novembro, na sua redação atual, e da Portaria n.º 1103/97, de 3 de novembro, manda o Governo, pelo Ministro das Finanças e pelo Secretário de Estado da Educação, no uso da competência que lhe foi delegada pelo Despacho n.º 8462/2022, de 1 de julho, do Ministro da Educação, publicado no Diário da República, 2.ª série, n.º 132, de 11 de julho de 2022, o seguinte:"
+  },
+  "214009223": {
+   "fragment_id": "214009123",
+   "type": 11,
+   "heading": "Artigo 1.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Apoio financeiro\n\nO apoio financeiro a conceder a alunos das escolas particulares de educação especial visa proporcionar o ensino gratuito aos alunos que, em 15 de setembro, tenham idades compreendidas entre os 6 e os 18 anos."
+  },
+  "1101042775": {
+   "fragment_id": "214009124",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime de apoio financeiro",
+   "in_force_from": "2026-04-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2026/1 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/portaria/204-2026-1095309154), em vigor a partir de 2026-04-30, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 2.º — Regime de apoio financeiro\n\nO valor do apoio financeiro a conceder a alunos com idades compreendidas entre os 6 e os 18 anos é fixado em 716,39 € por mês e por aluno.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2026/1 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/portaria/204-2026-1095309154), em vigor a partir de 2026-04-30, com efeitos a partir de 2026-01-01."
+  },
+  "214009225": {
+   "fragment_id": "214009125",
+   "type": 11,
+   "heading": "Artigo 3.º — Ação social escolar para alunos abrangidos pela gratuitidade do ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ação social escolar para alunos abrangidos pela gratuitidade do ensino\n\n1 - Os subsídios a atribuir são os seguintes:\n\na) Subsídio de alimentação - (euro) 100,30 por mês e por aluno;\n\nb) Subsídio de transporte:\n\n(ver documento original)\n\n2 - Para efeitos do disposto na alínea b) do número anterior, entende-se por:\n\na) Zona periférica - até 3 km do estabelecimento de ensino;\n\nb) 1.º escalão - até 5 km para além da zona periférica;\n\nc) 2.º escalão - entre 5 km e 10 km para além da zona periférica;\n\nd) 3.º escalão - entre 10 km e 15 km para além da zona periférica;\n\ne) 4.º escalão - mais de 15 km para além da zona periférica.\n\n3 - O valor do transporte dos alunos que dele necessitam é integralmente pago exceto se o encarregado de educação do aluno avisar o estabelecimento de ensino com a antecedência de 24 horas, salvo em situações de doença súbita, nos seguintes termos:\n\na) Comunicar a suspensão temporária do uso do transporte, desde que tal possibilite a alteração da rota, sendo deduzido o valor correspondente aos dias em que o transporte não é utilizado;\n\nb) Comunicar a suspensão definitiva do uso do transporte, independentemente de se verificar ou não alteração da rota, caso em que o transporte deixa de ser pago.\n\n4 - O valor da alimentação é integralmente pago salvo se o encarregado de educação do aluno avisar o estabelecimento de ensino até às 10 horas do dia em que o aluno não vai almoçar."
+  },
+  "214009226": {
+   "fragment_id": "214009126",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a Portaria n.º 382/2009, de 8 de abril."
+  },
+  "214009227": {
+   "fragment_id": "214009127",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\nO disposto na presente portaria produz efeitos a partir de 1 de janeiro de 2023."
+  },
+  "214009228": {
+   "fragment_id": "214009128",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 26 de maio de 2023. - O Secretário de Estado da Educação, António de Oliveira Leite, em 29 de maio de 2023.\n\n116522707"
+  },
+  "1156028575": {
+   "fragment_id": "214009124",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime de apoio financeiro",
+   "in_force_from": "2026-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 331/2026/1 - Diário da República n.º 152/2026, Série I de 2026-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/331-2026-1154789330), em vigor a partir de 2026-08-08.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2026/1 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/portaria/204-2026-1095309154), em vigor a partir de 2026-04-30, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 2.º — Regime de apoio financeiro\n\nO valor do apoio financeiro a conceder a alunos com idades compreendidas entre os 6 e os 18 anos é fixado em 836,60 €, por mês e por aluno.\n\n> Nota: [Artigo 3.º, Portaria n.º 331/2026/1 - Diário da República n.º 152/2026, Série I de 2026-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/331-2026-1154789330) As alterações feitas pela Portaria n.º 331/2026/1, de 7 de agosto ao presente artigo produzem efeitos a partir do início do ano letivo de 2026-2027.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 331/2026/1 - Diário da República n.º 152/2026, Série I de 2026-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/331-2026-1154789330), em vigor a partir de 2026-08-08.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2026/1 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/portaria/204-2026-1095309154), em vigor a partir de 2026-04-30, com efeitos a partir de 2026-01-01."
+  },
+  "1156028775": {
+   "fragment_id": "214009125",
+   "type": 11,
+   "heading": "Artigo 3.º — Ação social escolar para alunos abrangidos pela gratuitidade do ensino",
+   "in_force_from": "2026-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 331/2026/1 - Diário da República n.º 152/2026, Série I de 2026-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/331-2026-1154789330), em vigor a partir de 2026-08-08."
+   ],
+   "markdown": "###### Artigo 3.º — Ação social escolar para alunos abrangidos pela gratuitidade do ensino\n\n1 - Os subsídios a atribuir são os seguintes:\n\na) Subsídio de alimentação - 108,02 €, por mês e por aluno;\n\nb) Subsídio de transporte, por mês e por aluno:\n\n| Zona periférica | Escalões |  |  |  |\n| --- | --- | --- | --- | --- |\n| 1.º | 2.º | 3.º | 4.º |  |\n| 78,83 € | 50,03 € | 61,60 € | 79,81 € | 98,28 € |\n\n2 - Para efeitos do disposto na alínea b) do número anterior, entende-se por:\n\na) Zona periférica - até 3 km do estabelecimento de ensino;\n\nb) 1.º escalão - até 5 km para além da zona periférica;\n\nc) 2.º escalão - entre 5 km e 10 km para além da zona periférica;\n\nd) 3.º escalão - entre 10 km e 15 km para além da zona periférica;\n\ne) 4.º escalão - mais de 15 km para além da zona periférica.\n\n3 - O financiamento relativo ao transporte dos alunos que dele necessitem é calculado por referência à totalidade do ano letivo.\n\n4 - O financiamento relativo à alimentação é calculado por referência à totalidade do ano letivo.\n\n5 - Sem prejuízo do disposto nos números anteriores, os pais ou encarregados de educação devem comunicar ao estabelecimento de ensino, com a maior antecedência possível, as situações de ausência do aluno, tendo em vista a adequada gestão dos recursos afetos aos serviços de transporte e de alimentação.\n\n> Nota: [Artigo 3.º, Portaria n.º 331/2026/1 - Diário da República n.º 152/2026, Série I de 2026-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/331-2026-1154789330) As alterações feitas pela Portaria n.º 331/2026/1, de 7 de agosto ao presente artigo produzem efeitos a partir do início do ano letivo de 2026-2027.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 331/2026/1 - Diário da República n.º 152/2026, Série I de 2026-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/331-2026-1154789330), em vigor a partir de 2026-08-08."
+  }
+ }
+}

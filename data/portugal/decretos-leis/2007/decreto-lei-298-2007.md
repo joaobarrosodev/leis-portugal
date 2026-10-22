@@ -1,0 +1,1075 @@
+---
+schema_version: '1.0'
+id: pt:dre:640665:por
+title: Decreto-Lei n.º 298/2007
+short_title: null
+summary: Estabelece o regime jurídico da organização e do funcionamento das unidades de saúde familiar (USF) e o regime de
+  incentivos a atribuir a todos os elementos que as constituem, bem como a remuneração a atribuir aos elementos que integrem
+  as USF de modelo B
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 298/2007
+official_date: null
+publication_date: '2007-08-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/2007, Série I de 2007-08-22
+  number: '161'
+  series: I
+  supplement: null
+  pages: 5587 - 5596
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16100/0558705596.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-11-08'
+version_history:
+  file: decreto-lei-298-2007.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-06-22'
+    amending: pt:dre:107541409:por
+    amending_title: Decreto-Lei n.º 73/2017
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 29.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+  - date: '2022-11-19'
+    amending: pt:dre:203628886:por
+    amending_title: Lei n.º 20/2022
+    changes:
+    - Altera Artigo 29.º
+    - Altera Artigo 38.º
+  - date: '2023-11-08'
+    amending: pt:dre:223906279:por
+    amending_title: Decreto-Lei n.º 103/2023
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/298/2007/p/cons/20231107/pt/html
+  oj: null
+  dre: '640665'
+  dre_path: /dr/detalhe/decreto-lei/298-2007-640665
+  internal: pt:dre:640665:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665
+  metadata_url: https://data.dre.pt/eli/dec-lei/298/2007/p/cons/20231107/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-107546128
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-107546128
+  retrieved_at: '2026-10-22T12:11:48Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 08b8abed9e8e93e7912ee7c7db1b816597d47ed9acae9141a0a28f8ffbbcbb8e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:11:48Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-298-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assistência Médica
+- Médico
+- Direção Geral da Saúde
+- Conselho Geral
+- Conselho Técnico
+- Contrato Individual de Trabalho
+- Unidade de Saúde Familiar
+- Administração Regional de Saúde
+- Equipa de Missão
+- Serviço Nacional de Saúde
+- Remuneração Acessória
+- Centro de Saúde
+- Administração Central do Sistema de Saúde
+- Orgânica
+- Pessoal Administrativo
+- Pessoal de Enfermagem
+- Cuidados Médicos
+- Contrato de Trabalho
+- Regime Jurídico
+- Remuneração
+- Gestão de Recursos Humanos
+relationships:
+- type: amended_by
+  target: pt:dre:640279:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/81-2007-640279
+  date: '2007-09-12'
+- type: amended_by
+  target: pt:dre:107541409:por
+  label: Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 13.º;
+    Altera Artigo 14.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 23.º; Altera Artigo 24.º;
+    Altera Artigo 29.º; Altera Artigo 37.º; Altera Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409
+  date: '2017-06-21'
+- type: amended_by
+  target: pt:dre:203628886:por
+  label: Altera Artigo 29.º; Altera Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/20-2022-203628886
+  date: '2022-11-18'
+- type: amended_by
+  target: pt:dre:223906279:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279
+  date: '2023-11-07'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/117/1998/05/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/117/1998/05/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/157/1999/05/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/157/1999/05/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/88/2005/06/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/88/2005/06/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/9/2006/02/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/9/2006/02/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/993-a/1998/11/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/993-a/1998/11/24/p/dre
+article_structure:
+  article_count: 45
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:11:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 298/2007
+
+Decreto-Lei n.º 298/2007
+
+de 22 de Agosto
+
+Nos termos da base xiii da Lei de Bases da Saúde, os cuidados de saúde primários (CSP) são o núcleo do sistema de saúde e devem situar-se junto das comunidades.
+
+Tendo presente o exposto, o Programa do XVII Governo Constitucional assume a reforma dos CSP como factor chave de modernização e, dando cumprimento ao preceito legal acima enunciado, prevê a criação de instrumentos legais e operacionais que permitam recentrar o sistema português de saúde nos CSP e no desenvolvimento de uma matriz organizativa que conduza à reconfiguração dos centros de saúde orientada para a obtenção de ganhos em saúde e melhoria da acessibilidade.
+
+Foi neste contexto que o Decreto-Lei n.º 88/2005, de 3 de Junho, repristinou o Decreto-Lei n.º 157/99, de 10 de Maio, que estabelece o regime de criação, organização e funcionamento dos centros de saúde, reestruturando-os em unidades funcionais, com especial ênfase para as unidades de saúde familiar (USF).
+
+No mesmo sentido, o Despacho Normativo n.º 9/2006, de 16 de Fevereiro, com a redacção introduzida pelo Despacho Normativo n.º 10/2007, de 26 de Janeiro, regulamentou o lançamento e a implementação das USF enquanto estruturas constituídas por uma equipa multiprofissional, prestadoras de cuidados de saúde personalizados a uma população determinada, garantindo a acessibilidade, a continuidade e a globalidade dos cuidados prestados.
+
+A autonomia organizativa e funcional para as USF, adoptada pelo supracitado despacho, inspirou-se nas experiências inovadoras anteriormente desenvolvidas nos centros de saúde, e que deram corpo a novas formas de organização dos cuidados de saúde, entre as quais se salienta o regime remuneratório experimental (RRE) estabelecido para os médicos.
+
+Este modelo, em vigor desde 1998, permitiu, após várias avaliações, identificar ganhos em saúde e aumentar a qualidade dos cuidados prestados, com satisfação para os utilizadores e para os profissionais.
+
+Acresce salientar que, em estudo recente sobre o impacte orçamental do lançamento e implementação das USF, conduzido por especialistas em economia da saúde, concluiu-se que o modelo organizativo agora proposto, construído à semelhança do RRE, vai permitir consideráveis reduções de custos na prestação de cuidados de saúde, contabilizando já incentivos para os elementos das equipas multiprofissionais.
+
+Com efeito, equipas multiprofissionais motivadas, portadoras de uma cultura de responsabilização partilhada e com práticas cimentadas na reflexão crítica e na confiança recíproca, constituem o principal activo e a mais-valia estratégica das USF e, consequentemente, são os intérpretes mais qualificados para conduzir a reforma dos CSP.
+
+Perante os resultados obtidos, e dado o objectivo estratégico fundamental da melhoria contínua da qualidade dos cuidados de saúde, torna-se imperativo transpor, consolidar e alargar o modelo de incentivos dos médicos a todos os profissionais das USF, potenciando, deste modo, as aptidões e competências de cada profissional e premiando o desempenho individual e colectivo, tendo em vista o reforço da eficácia, da eficiência e da acessibilidade dos cidadãos aos CSP.
+
+Este modelo, semelhante ao implementado pelo Decreto-Lei n.º 117/98, de 5 de Maio, aplica aos profissionais da equipa nuclear um regime de suplementos associados à dimensão mínima da lista de utentes ponderada, quanto às suas características, com a contratualização anual de actividades específicas de vigilância a utentes considerados mais vulneráveis e de risco, e, quando necessário, com o alargamento do período de cobertura assistencial e com a carteira adicional de serviços.
+
+Paralelamente, o modelo expresso no presente decreto-lei obriga ao acompanhamento e controlo de procedimentos e avaliação de resultados, distinguindo as diferenças de desempenho por referência a painéis de indicadores, a economias nos custos, a níveis de satisfação dos utilizadores e dos profissionais, bem como à implementação de programas de qualidade e de processos de acreditação.
+
+Importa salientar que o presente diploma acolhe os princípios orientadores em matéria de vinculação, carreiras e remunerações da Administração Pública, sem prejuízo da sua oportuna revisão aquando da publicação do competente diploma.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pelas bases xxxvi e xliii da Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de Agosto, com a redacção conferida pela Lei n.º 27/2002, de 8 de Novembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 23.º, Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279) A revogação do presente Decreto-Lei não prejudica a aplicação do seu capítulo VII, nos termos dos números 5 e 6 do artigo 36.º do Regime jurídico da organização e do funcionamento das unidades de saúde familiar.
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime jurídico da organização e do funcionamento das unidades de saúde familiar (USF) e o regime de incentivos a atribuir a todos elementos que as constituem, bem como a remuneração a atribuir aos elementos que integrem as USF de modelo B.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 2.º — Âmbito
+
+1 - O presente decreto-lei aplica-se a todos os modelos de USF, com excepção do disposto no capítulo vii, que apenas se aplica às USF de modelo B.
+
+2 - O presente decreto-lei é aplicável aos profissionais que integram as USF, independentemente do vínculo laboral estabelecido com as entidades sob direcção, tutela ou superintendência do Ministro da Saúde.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 3.º — Definição
+
+1 - As USF são as unidades elementares de prestação de cuidados de saúde, individuais e familiares, que assentam em equipas multiprofissionais, constituídas por médicos, por enfermeiros e por pessoal administrativo e que podem ser organizadas em três modelos de desenvolvimento: A, B e C.
+
+2 - A equipa multiprofissional deve potenciar as aptidões e competências de cada grupo profissional e contribuir para o estabelecimento de uma relação interpessoal e profissional estável.
+
+3 - A lista de critérios e a metodologia que permitam classificar as USF em três modelos de desenvolvimento são aprovadas por despacho do membro do Governo responsável pela área da saúde, mediante prévia participação das organizações profissionais.
+
+4 - A actividade das USF desenvolve-se com autonomia organizativa, funcional e técnica, integrada numa lógica de rede com outras unidades funcionais do centro de saúde ou da unidade local de saúde.
+
+5 - Sem prejuízo do disposto no número anterior, as USF são parte integrante do centro de saúde.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 4.º — Missão
+
+As USF têm por missão a prestação de cuidados de saúde personalizados à população inscrita de uma determinada área geográfica, garantindo a acessibilidade, a globalidade, a qualidade e a continuidade dos mesmos.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 5.º — Princípios
+
+As USF devem orientar a sua actividade pelos seguintes princípios:
+
+a) Conciliação, que assegura a prestação de cuidados de saúde personalizados, sem descurar os objectivos de eficiência e qualidade;
+
+b) Cooperação, que se exige de todos os elementos da equipa para a concretização dos objectivos da acessibilidade, da globalidade e da continuidade dos cuidados de saúde;
+
+c) Solidariedade, que assume cada elemento da equipa ao garantir o cumprimento das obrigações dos demais elementos de cada grupo profissional;
+
+d) Autonomia, que assenta na auto-organização funcional e técnica, visando o cumprimento do plano de acção;
+
+e) Articulação, que estabelece a necessária ligação entre a actividade desenvolvida pelas USF e as outras unidades funcionais do centro de saúde;
+
+f) Avaliação, que, sendo objectiva e permanente, visa a adopção de medidas correctivas dos desvios susceptíveis de pôr em causa os objectivos do plano de acção;
+
+g) Gestão participativa, a adoptar por todos os profissionais da equipa como forma de melhorar o seu desempenho e aumentar a sua satisfação profissional, com salvaguarda dos conteúdos funcionais de cada grupo profissional e das competências específicas atribuídas ao conselho técnico.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 6.º — Plano de acção e compromisso assistencial das USF
+
+1 - O plano de ação da USF traduz o seu programa de atuação na prestação de cuidados de saúde de forma personalizada e contém o compromisso assistencial, os seus objetivos, indicadores e resultados a atingir nas áreas de desempenho, serviços e qualidade e inclui o plano de formação e o plano de aplicação dos incentivos institucionais.
+
+2 - O compromisso assistencial das USF é constituído pela prestação de cuidados incluídos na carteira de serviços, de acordo com o Despacho Normativo n.º 9/2006, de 16 de Fevereiro.
+
+3 - O compromisso assistencial é formalizado anualmente, mediante carta de compromisso acordada entre o coordenador da USF e o diretor executivo do Agrupamento de Centros de Saúde (ACES) e objeto de publicação na página eletrónica da ARS, da qual deve ainda constar:
+
+a) A afectação dos recursos necessários ao cumprimento do plano de acção;
+
+b) O manual de articulação centro de saúde/USF;
+
+c) As atividades específicas previstas nos artigos 29.º e 38.º
+
+4 - O compromisso assistencial deve indicar:
+
+a) A definição da oferta e a carteira básica de serviços;
+
+b) Os horários de funcionamento da USF;
+
+c) A definição do sistema de marcação, atendimento e orientação dos utentes;
+
+d) A definição do sistema de renovação de prescrição;
+
+e) A definição do sistema de intersubstituição dos profissionais;
+
+f) A articulação com as outras unidades funcionais do centro de saúde;
+
+g) A carteira de serviços adicionais, caso exista;
+
+h) A aceitação expressa das condições, dimensão e modos de colheita de informação que permita às entidades autorizadas por despacho do Ministro da Saúde avaliar os resultados da equipa e dos seus membros, em termos de efectividade, eficiência, qualidade e equidade.
+
+5 - O compromisso assistencial varia em função:
+
+a) Das características da população abrangida;
+
+b) Dos períodos de funcionamento e cobertura assistencial;
+
+c) Das actividades da carteira adicional de serviços.
+
+6 - Desde que não seja posto em causa o compromisso assistencial da carteira básica, as USF, através da contratualização de uma carteira adicional de serviços, cujo montante global é fixado por via orçamental, podem colaborar com outras unidades funcionais do centro de saúde responsáveis pela intervenção:
+
+a) Em grupos da comunidade, no âmbito da saúde escolar, da saúde oral e da saúde ocupacional;
+
+b) Em projectos dirigidos a cidadãos em risco de exclusão social;
+
+c) Nos cuidados continuados integrados;
+
+d) No atendimento a adolescentes e jovens;
+
+e) Na prestação de outros cuidados que se mostrem pertinentes e previstos no Plano Nacional de Saúde.
+
+7 - A carteira adicional de serviços, a consequente compensação financeira global da equipa e a respectiva distribuição pelos profissionais devem estar discriminadas na carta de compromisso.
+
+8 - O plano de acção e o relatório de actividades devem ser disponibilizados junto da população abrangida pelas USF.
+
+9 - A carteira básica de serviços e os princípios da carteira adicional de serviços são fixados por portaria do membro do Governo responsável pela área da saúde, mediante prévia participação das organizações profissionais.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+### Capítulo II — Constituição, dimensão e organização
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 7.º — Constituição das USF
+
+1 - O processo de candidatura para a constituição das USF rege-se pelo disposto no Despacho Normativo n.º 9/2006, de 16 de Fevereiro.
+
+2 - O número de USF a constituir é estabelecido, anualmente, por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde e actualizado até 31 de Janeiro de cada ano.
+
+3 - Os médicos que constituem a USF têm de deter, pelo menos, o grau de especialista e a categoria de assistente da área de medicina geral e familiar da carreira especial médica.
+
+4 - Os enfermeiros que constituem a USF têm de deter o título de especialista em enfermagem de saúde familiar.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 8.º — População abrangida pelas USF
+
+1 - A população abrangida por cada USF corresponde aos utentes inscritos nas listas dos médicos que integram a equipa multiprofissional.
+
+2 - A população inscrita em cada USF não deve ser inferior a 4000 nem superior a 18 000 utentes, tendo em conta as características geodemográficas da população abrangida e considerando o disposto nos n.os 2 e 3 do artigo seguinte quanto ao número de utentes e famílias por médico e enfermeiro.
+
+3 - Podem ser constituídas USF com população inscrita fora do intervalo de variação definido no número anterior, em casos devidamente justificados e quando as características geodemográficas da área abrangida pelo centro de saúde o aconselhem, não devendo a redução ou o aumento de população inscrita exceder um quarto do valor referido no número anterior.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 9.º — Listas de utentes e famílias
+
+1 - Os utentes inscritos em cada médico e enfermeiro de família são designados em lista, privilegiando-se a estrutura familiar.
+
+2 - [Revogado.]
+
+3 - A lista de utentes inscritos por cada médico e enfermeiro de família tem uma dimensão mínima de 1917 unidades ponderadas.
+
+4 - As unidades ponderadas referidas no número anterior obtêm-se pela aplicação dos seguintes factores:
+
+a) O número de crianças dos 0 aos 6 anos de idade é multiplicado pelo factor 1,5;
+
+b) O número de adultos entre os 65 e os 74 anos de idade é multiplicado pelo factor 2;
+
+c) O número de adultos com idade igual ou superior a 75 anos é multiplicado pelo factor 2,5.
+
+5 - A dimensão ponderada dos utentes inscritos na USF e da lista de utentes com inscrição ativa por médico e por enfermeiro é atualizada trimestralmente no primeiro ano de atividade da USF, e a 1 de janeiro de cada ano nos anos seguintes.
+
+6 - Sem prejuízo do disposto no número anterior procede-se à atualização nele referida sempre que haja alteração do número de profissionais da USF.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 10.º — Organização e funcionamento da USF
+
+1 - A organização e funcionamento da USF constam do seu regulamento interno e regem-se pelo disposto no presente decreto-lei.
+
+2 - O regulamento interno da USF consagra, nomeadamente:
+
+a) A missão, valores e visão;
+
+b) A estrutura orgânica e respectivo funcionamento;
+
+c) As intervenções e áreas de actuação dos diferentes grupos profissionais que integram a equipa;
+
+d) O horário de funcionamento e de cobertura assistencial;
+
+e) O sistema de marcação de consultas e de renovação das prescrições;
+
+f) O acolhimento, orientação e comunicação com os utentes;
+
+g) O sistema de intersubstituição dos profissionais da equipa;
+
+h) A forma de prestação de trabalho dos elementos da equipa;
+
+i) A formação contínua dos profissionais da equipa;
+
+j) As inibições decorrentes da necessidade de cumprir o compromisso assistencial da USF;
+
+l) A carta da qualidade.
+
+3 - Cada USF elabora o seu regulamento interno e submete-o ao centro de saúde, que aprecia da conformidade do mesmo com o plano de acção previsto no artigo 6.º do presente decreto-lei.
+
+4 - O período de funcionamento das USF é das 8 às 20 horas, nos dias úteis.
+
+5 - O período de funcionamento referido no número anterior pode ser objecto de redução ou de alargamento, de acordo com as características geodemográficas da área de cada USF, a dimensão das listas de utentes e o número de elementos que integram a equipa multiprofissional, nos termos seguintes:
+
+a) A redução deve ser adequada a cada situação concreta e estabelecida em função do número de elementos que constituem a equipa multiprofissional;
+
+b) O alargamento pode ser estabelecido até às 24 horas, nos dias úteis, e entre as 8 e as 20 horas aos sábados, domingos e feriados;
+
+c) Pode ainda ser aprovado outro tipo de alargamento, de acordo com as necessidades da população devidamente fundamentadas e em caso de comprovada ausência de respostas alternativas.
+
+6 - O alargamento e a redução do período de funcionamento referidos no número anterior devem ser avaliados pelas ARS, anualmente, de molde a averiguar da pertinência da sua manutenção.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+### Capítulo III — Estrutura orgânica das USF
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 11.º — Estrutura orgânica
+
+A estrutura orgânica das USF é constituída pelo coordenador da equipa, o conselho técnico e o conselho geral.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 12.º — Coordenador da equipa
+
+1 - O coordenador da equipa é o médico identificado na candidatura e designado pelo despacho que aprova a constituição da USF.
+
+2 - Não é permitida a acumulação das funções de coordenador da USF e de presidente ou membro do conselho clínico e de saúde, diretor executivo ou de diretor de internato do ACES.
+
+3 - O coordenador da equipa exerce as suas competências nos termos previstos no regulamento interno da USF.
+
+4 - Compete, em especial, ao coordenador da equipa:
+
+a) Coordenar as actividades da equipa multiprofissional, de modo a garantir o cumprimento do plano de acção e os princípios orientadores da actividade da USF;
+
+b) Gerir os processos e determinar os actos necessários ao seu desenvolvimento;
+
+c) Presidir ao conselho geral da USF;
+
+d) Assegurar a representação externa da USF;
+
+e) Assegurar a realização de reuniões com a população abrangida pela USF ou com os seus representantes, no sentido de dar previamente a conhecer o plano de acção e o relatório de actividades;
+
+f) Autorizar comissões gratuitas de serviço no País.
+
+5 - O coordenador da equipa detém as competências para, no âmbito da USF, confirmar e validar os documentos que sejam exigidos por força de lei ou regulamento.
+
+6 - O coordenador da equipa exerce, também, as competências legalmente atribuídas aos titulares do cargo de direcção intermédia do 1.º grau e outras que lhe forem delegadas ou subdelegadas, com faculdade de subdelegação.
+
+7 - Com excepção das previstas nas alíneas a) e c) do n.º 4 do presente artigo, o coordenador da equipa pode delegar, com faculdade de subdelegação, as suas competências noutro ou noutros elementos da equipa.
+
+8 - Em caso de impossibilidade permanente ou por um período igual ou superior a 120 dias seguidos do coordenador da USF o conselho geral reunirá sob presidência do médico do conselho técnico tendo em vista desencadear o processo de escolha de novo coordenador.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 13.º — Conselho geral
+
+1 - O conselho geral é constituído por todos os elementos da equipa multiprofissional, constando o seu funcionamento do regulamento interno da USF.
+
+2 - São competências do conselho geral:
+
+a) Aprovar o regulamento interno, a carta da qualidade, o plano de acção, o relatório de actividades e o regulamento de distribuição dos incentivos institucionais;
+
+b) Aprovar a proposta da carta de compromisso;
+
+c) Zelar pelo cumprimento do regulamento interno, da carta de qualidade e do plano de acção;
+
+d) Propor a designação de novo coordenador a qual está dependente de homologação do diretor executivo do ACES;
+
+e) Aprovar a substituição de qualquer elemento da equipa multiprofissional;
+
+f) Aprovar a substituição temporária de qualquer elemento da equipa em caso de ausência por motivo de exercício de funções em outro serviço ou organismo devidamente autorizado;
+
+g) Pronunciar-se sobre os instrumentos de articulação, gestão e controlo dos recursos afectos e disponibilizados à USF.
+
+h) Deliberar sobre a extinção da USF.
+
+3 - As deliberações relativas às competências referidas no número anterior são tomadas por maioria de dois terços.
+
+4 - O conselho geral pronuncia-se ainda nas seguintes situações:
+
+a) Sempre que é necessário substituir algum elemento da equipa devido a ausência superior a duas semanas;
+
+b) Quando está em causa o alargamento da cobertura assistencial;
+
+c) Quando está em causa outra questão relevante para o normal funcionamento da USF.
+
+5 - O conselho geral reúne, pelo menos, de quatro em quatro meses, ou mediante convocatória do coordenador da equipa ou a pedido de metade dos seus elementos.
+
+6 - Nas decisões tomadas por votação todos os elementos do conselho geral têm paridade de voto.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 14.º — Conselho técnico
+
+1 - O conselho técnico é constituído por um médico, um enfermeiro e um assistente técnico, preferencialmente detentores de qualificação profissional mais elevada e de maior experiência profissional nos cuidados de saúde primários, escolhidos pelos elementos de cada grupo profissional.
+
+2 - Compete ao conselho técnico em articulação com o conselho clínico e de saúde do ACES a orientação necessária à observância das normas técnicas emitidas pelas entidades competentes e a promoção de procedimentos que garantam a melhoria contínua da qualidade dos cuidados de saúde, tendo por referência a carta da qualidade.
+
+3 - Compete também ao conselho técnico em cooperação e complementaridade com o conselho clínico e de saúde:
+
+a) Avaliar o grau de satisfação dos utentes da USF e dos profissionais da equipa;
+
+b) Elaborar e manter actualizado o manual de boas práticas;
+
+c) Organizar e supervisionar as actividades de formação contínua e de investigação.
+
+d) Contribuir para o desenvolvimento de uma cultura organizacional de formação, qualidade, humanização, espírito crítico e rigor científico.
+
+4 - O conselho técnico reúne, pelo menos, uma vez por mês ou a pedido de um dos seus elementos.
+
+5 - O funcionamento do conselho técnico consta do regulamento interno da USF.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+### Capítulo IV — Recursos físicos, técnicos, humanos e financeiros
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 15.º — Disposição geral
+
+1 - O centro de saúde afecta à USF os recursos necessários ao cumprimento do plano de acção e procede à partilha de recursos que, segundo o princípio da economia de meios, devem ser comuns e estar afectos às diversas unidades funcionais do centro de saúde.
+
+2 - Tendo em vista a utilização eficiente dos recursos comuns entre o centro de saúde e a USF, devem ser criados instrumentos que favoreçam e assegurem a articulação das actividades das diversas unidades funcionais do centro de saúde.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 16.º — Recursos físicos, técnicos e humanos
+
+1 - As instalações e equipamentos a disponibilizar às USF devem reunir as condições necessárias ao tipo de cuidados de saúde a prestar, com vista a garantir a respectiva qualidade.
+
+2 - O centro de saúde organiza serviços de apoio técnico comuns que respondam às solicitações das USF, no âmbito da partilha de recursos e com vista ao cumprimento do plano de acção daquelas unidades.
+
+3 - Aos serviços de apoio técnico comuns compete, designadamente:
+
+a) Emitir pareceres e elaborar estudos, relatórios e outros actos preparatórios, solicitados pelas USF;
+
+b) Executar procedimentos e registos nas áreas de gestão de pessoal, contabilidade, aprovisionamento e outras que se mostrem necessárias ao normal funcionamento das USF.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 17.º — Recursos financeiros
+
+1 - Os recursos financeiros são negociados anualmente entre a USF e o centro de saúde e constam da carta de compromisso.
+
+2 - O centro de saúde coloca à disposição da USF os recursos financeiros constantes da carta de compromisso.
+
+3 - Podem ser afectos à USF um fundo de maneio, de montante a contratualizar, bem como as receitas previstas no artigo 46.º do Decreto-Lei n.º 157/99, de 10 de Maio, destinadas a projectos específicos contratualizados anualmente ou de acordo com o estabelecido na carta de compromisso.
+
+4 - Quando não houver disponibilização atempada dos recursos financeiros previstos na carta de compromisso, a USF não pode ser responsabilizada pelo incumprimento do plano de acção.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 18.º — Instrumentos de articulação
+
+1 - O apoio do centro de saúde à USF, através da disponibilização de recursos para o seu funcionamento, bem como a colaboração nas actividades comuns, é regulado pelo manual de articulação centro de saúde/USF.
+
+2 - O centro de saúde e a USF devem respeitar e fazer cumprir o manual de articulação centro de saúde/USF, que faz parte integrante da carta de compromisso.
+
+3 - Nos casos omissos no manual de articulação centro de saúde/USF, deve o centro de saúde acordar com a USF os termos dessa articulação.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+### Capítulo V — Extinção das USF, substituição e integração de elementos da equipa multiprofissional
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 19.º — Extinção da USF
+
+1 - A extinção da USF verifica-se nos seguintes casos:
+
+a) Por deliberação do conselho geral, por maioria de dois terços da equipa multiprofissional;
+
+b) Quando o coordenador da USF se demite e nenhum outro elemento da equipa médica está disposto a assumir o cargo;
+
+c) Por abandono superior a 50 % dos membros da equipa em qualquer um dos subgrupos profissionais ou, no total da equipa, em número superior a um terço do total dos profissionais da USF, se a sua substituição não for efetuada no período de 12 meses;
+
+d) Por falsificação de registos no sistema de informação no âmbito da equipa;
+
+e) Por incumprimento sucessivo e reiterado da carta de compromisso, salvaguardando o respeito pelo princípio do contraditório.
+
+2 - Considera-se incumprimento sucessivo e reiterado da carta de compromisso, a verificação de alguma das seguintes condições:
+
+a) Apresentação, em dois anos consecutivos, de um desempenho inferior ao valor percentual do Índice de Desempenho Global fixado na portaria a que se refere o artigo 39.º, após ter sido objeto de processo de acompanhamento pelo diretor executivo e pelo conselho clínico e de saúde do respetivo ACES;
+
+b) Não cumprimento, em dois anos consecutivos, dos tempos máximos de resposta legalmente definidos.
+
+3 - No caso previsto na alínea c) do n.º 1, e sem prejuízo de uma análise casuística, a extinção da USF não ocorre, caso se mostre possível proceder à substituição dos elementos em falta, em tempo que não comprometam a dinâmica assistencial e o desempenho global da unidade.
+
+4 - Para efeitos do disposto no n.º 2, a proposta de extinção da USF é apresentada pelo diretor executivo do ACES, ao conselho diretivo da respetiva Administração Regional de Saúde, ao qual cabe emitir a decisão final.
+
+5 - A proposta de extinção da USF referida no número anterior é acompanhada de parecer elaborado em conjunto pelo conselho clínico e de saúde e pela Equipa Regional de Apoio (ERA), após apuramento dos resultados da avaliação de desempenho, do processo de acompanhamento realizado e do contraditório apresentado pela equipa.
+
+6 - A decisão sobre a extinção da USF é comunicada à USF e ao ACES.
+
+7 - No caso de ocorrer extinção a comunicação é feita com a antecedência mínima de 60 dias.
+
+8 - Caso ocorra a extinção da USF, os profissionais ali integrados mantêm-se em funções na Unidade de Cuidados de Saúde Personalizados que sucede a USF, sem prejuízo de poder haver lugar à constituição de uma nova equipa e candidatura a USF, nos termos da legislação em vigor.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 20.º — Substituição e integração de elementos da equipa multiprofissional
+
+1 - Qualquer elemento da equipa multiprofissional da USF pode deixar de a integrar se, 60 dias antes da data prevista de saída:
+
+a) Apresentar um pedido de cessação ao conselho geral e comunicar tal intenção ao centro de saúde e ao serviço de origem;
+
+b) For aprovada proposta do coordenador da USF por maioria de dois terços, no conselho geral, e comunicada ao próprio, ao centro de saúde e ao serviço de origem.
+
+2 - A substituição e a integração de um novo elemento na equipa multiprofissional são comunicadas ao centro de saúde, para efeitos de actualização do anexo da carta de compromisso.
+
+3 - Os profissionais que deixam de integrar a equipa multiprofissional da USF retomam as suas funções nas respectivas carreiras e categorias do serviço de origem.
+
+4 - Verificando-se o aumento do número de utentes inscritos, a USF pode propor ao centro de saúde a integração de novos elementos na equipa multiprofissional, em aditamento ao processo de candidatura.
+
+5 - Nos casos previstos nos n.os 2 e 4, a competência para autorizar a mobilidade de profissionais do mesmo ACES é da competência do respetivo diretor executivo mediante prévia comunicação à respetiva ARS.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+### Capítulo VI — Regime de prestação de trabalho da equipa multiprofissional
+
+> Nota: [Artigo 23.º, Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279) O presente capítulo mantém-se aplicável, até 31 de dezembro de 2024, nos termos dos números 5 e 6 do artigo 36.º do Regime jurídico da organização e do funcionamento das unidades de saúde familiar.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 21.º — Disposição geral
+
+1 - O regime de prestação de trabalho é o previsto no regime jurídico das respectivas carreiras profissionais, no regime jurídico do contrato individual de trabalho e no presente decreto-lei, sem prejuízo das regras adoptadas por acordo expresso dos elementos da equipa multiprofissional nos casos legalmente possíveis.
+
+2 - Aos profissionais que integram as equipas das USF é aplicável o regime de incompatibilidades e impedimentos constante dos artigos 19.º e seguintes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, na Lei de Bases da Saúde e, sendo o caso, na carreira especial médica.
+
+3 - Os profissionais das USF modelo B, devem apresentar junto do conselho geral uma declaração de inexistência de incompatibilidades, que integra a carta de compromisso anual da USF.
+
+4 - O incumprimento do disposto nos números anteriores é objeto de comunicação à Inspeção-Geral das Atividades em Saúde para os devidos efeitos.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 22.º — Prestação do trabalho
+
+1 - A forma de prestação de trabalho dos elementos da equipa multiprofissional consta do regulamento interno da USF e é estabelecida para toda a equipa, tendo em conta o plano de acção, o período de funcionamento, a cobertura assistencial e as modalidades de regime de trabalho previstas na lei.
+
+2 - Excepcionalmente, quando as situações e circunstâncias não justifiquem a contratação em regime de tempo completo, e até ao limite máximo de um terço dos elementos que constituem a USF, é admissível a integração na equipa de profissionais em regime de tempo parcial.
+
+3 - A remuneração do trabalho prestado em regime de tempo parcial tem por base a do trabalho prestado no regime de tempo completo, respeitando-se a proporcionalidade.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 23.º — Horário de trabalho
+
+1 - O horário de trabalho a praticar por cada elemento da equipa multiprofissional assim como o início e o termo do período normal de trabalho deve ser definido em articulação e por acordo entre todos os profissionais, de acordo com o previsto no n.º 1 do artigo anterior.
+
+2 - Nas USF modelo B, o horário de trabalho deve ter como base as 35 horas com incrementos ajustados às UC do suplemento associado às unidades ponderadas da lista de utentes, previstas no artigo 30.º, 32.º e 34.º
+
+3 - Os horários dos profissionais são aprovados em conselho geral e submetidos pelo coordenador a validação pelo diretor executivo do ACES.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 24.º — Responsabilidade dos elementos da equipa
+
+1 - Os profissionais que integram a equipa multiprofissional da USF são responsáveis, solidariamente e dentro de cada grupo profissional, por garantir o cumprimento das obrigações dos demais elementos da equipa durante os períodos de férias e durante qualquer ausência, desde que esta seja igual ou inferior a duas semanas.
+
+2 - Em caso de ausência superior a duas semanas, as obrigações do elemento da equipa ausente são garantidas pelos restantes elementos da equipa, através do recurso a trabalho extraordinário.
+
+3 - A situação prevista no número anterior não pode exceder o período de 120 dias, a partir do qual, sob proposta da USF, o ACES deve proceder à substituição do elemento ausente, exceto em situações devidamente fundamentadas, nomeadamente no âmbito da proteção na parentalidade, caso em que aquele limite pode ser ultrapassado.
+
+4 - Os elementos da equipa ausentes mantêm o direito à forma de remuneração prevista neste diploma, desde que a ausência não exceda as duas semanas.
+
+5 - Fora das situações previstas no n.º 2 do artigo 23.º, a prestação de trabalho extraordinário por parte de elementos que integram a USF só pode ser autorizada pelo ACES nos seguintes casos:
+
+a) Substituição de membro da equipa por motivo justificado de ausência, por período superior a duas semanas;
+
+b) Necessidade de prestação de serviço fora do compromisso assistencial da USF.
+
+6 - A compensação devida pela prestação de trabalho extraordinário referida no número anterior é calculada nos seguintes termos:
+
+a) Para os profissionais que integrem USF de modelo A, a compensação devida pela prestação de trabalho extraordinário é calculada nos termos da legislação das respectivas carreiras;
+
+b) Para os médicos que integrem USF de modelo B, e nas situações referidas na alínea a) do número anterior, a compensação devida pela prestação de trabalho extraordinário é calculada por referência à remuneração da respetiva categoria e escalão, em regime de trabalho de dedicação exclusiva e horário de 35 horas semanais;
+
+c) Para os médicos que integrem USF de modelo B, e na situação referida na alínea b) do número anterior, a compensação devida pela prestação de trabalho extraordinário é calculada por referência à remuneração da respectiva categoria e escalão, no regime de trabalho que detiver na origem;
+
+d) Para os restantes profissionais que integrem USF de modelo B, a compensação devida pela prestação de trabalho extraordinário é calculada nos termos da legislação das respectivas carreiras.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 25.º — Mobilidade profissional
+
+1 - Quando um elemento da equipa multiprofissional da USF não pertencer ao quadro ou mapa de afectação do centro de saúde onde a USF está integrada, cabe à administração regional de saúde territorialmente competente desencadear o procedimento conducente à necessária mobilidade.
+
+2 - Nos casos em que a constituição de uma USF determine ganhos globais acrescidos de cobertura assistencial, a mobilidade é prioritária, devendo a administração regional de saúde desencadear os mecanismos que permitam evitar rupturas, nos termos legais.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 26.º — Relações hierárquicas e interprofissionais dos elementos da equipa multiprofissional
+
+1 - Sem prejuízo da autonomia técnica garantida aos médicos e enfermeiros, os profissionais da equipa multiprofissional desenvolvem a sua actividade sob a coordenação e a orientação do coordenador da equipa.
+
+2 - A avaliação de desempenho dos profissionais que integram a USF observa o regime jurídico fixado sobre a matéria no estatuto legal da respectiva carreira.
+
+3 - Para efeitos do disposto no número anterior, e no que concerne aos enfermeiros, é atendido, na decisão final, o parecer fundamentado que, para o efeito, deve ser emitido pelo enfermeiro que integra o conselho técnico da USF.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+### Capítulo VII — Regime de carreiras, suplementos e incentivos
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 27.º — Regime jurídico da relação de trabalho
+
+1 - Aos profissionais que integram a equipa multiprofissional da USF são garantidos os direitos decorrentes dos regimes jurídicos das respectivas carreiras, não podendo ser prejudicados em relação aos restantes profissionais detentores da mesma categoria e grau profissional.
+
+2 - Os direitos referidos no número anterior são aplicáveis, com as devidas adaptações, aos profissionais abrangidos pelo regime jurídico do contrato individual de trabalho.
+
+3 - Para efeitos do disposto no número anterior, os níveis retributivos dos trabalhadores em regime de contrato individual de trabalho são determinados em função das habilitações e qualificações detidas.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 28.º — Remuneração dos médicos
+
+1 - A remuneração mensal dos médicos das USF integra uma remuneração base, suplementos e compensações pelo desempenho.
+
+2 - A remuneração base corresponde à remuneração da respectiva categoria e escalão, em regime de trabalho de dedicação exclusiva e horário de trinta e cinco horas semanais, relativa à responsabilidade pela prestação de cuidados de saúde aos utentes da respectiva lista, com a dimensão mínima prevista no n.º 3 do artigo 9.º do presente decreto-lei.
+
+3 - São considerados os seguintes suplementos:
+
+a) O suplemento associado ao aumento das unidades ponderadas, nos termos do disposto nos n.os 3 e 4 do artigo 9.º;
+
+b) O suplemento da realização de cuidados domiciliários;
+
+c) O suplemento associado às unidades contratualizadas do alargamento do período de funcionamento ou cobertura assistencial, nos termos do disposto nas alíneas b) e c) do n.º 5 do artigo 10.º, quando contratualizado.
+
+4 - A compensação pelo desempenho integra:
+
+a) A compensação associada ao desenvolvimento das actividades específicas, previsto no artigo 29.º;
+
+b) A compensação associada à carteira adicional de serviços, nos termos do disposto no n.º 6 do artigo 6.º, quando contratualizada.
+
+5 - As componentes previstas nas alíneas a) e b) do n.º 3 do presente artigo são devidas e pagas integral e mensalmente ao médico.
+
+6 - As componentes previstas na alínea c) do n.º 3 e na alínea a) do n.º 4, ambas do presente artigo, são devidas ao grupo de médicos, divididas igualmente por todos, sendo paga, mensalmente, a cada médico, a respectiva quota-parte.
+
+As componentes previstas na alínea a) do n.º 3 e na alínea a) do n.º 4 são consideradas para efeitos de aposentação ou reforma e para efeitos de abono de vencimento de exercício perdido em virtude de faltas por doença ou de protecção social na eventualidade doença.
+
+8 - A remuneração referida neste artigo implica o pagamento de subsídios de férias e de Natal nos termos da lei.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 81/2007 - Diário da República n.º 176/2007, Série I de 2007-09-12](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/81-2007-640279), em vigor a partir de 2007-08-27
+
+###### Artigo 29.º — Compensação associada às actividades específicas dos médicos
+
+1 - A compensação prevista na alínea a) do n.º 4 do artigo anterior e no n.º 3 do artigo 38.º está associada ao aumento das unidades ponderadas da lista mínima de utentes dos médicos e dos enfermeiros por força das atividades específicas de acompanhamento a utentes vulneráveis e de risco, segundo orientações técnicas da Direção-Geral da Saúde, nos termos seguintes:
+
+a) O acompanhamento em saúde sexual e reprodutiva, de uma pessoa em idade fértil ou sexualmente ativa, por ano - uma unidade;
+
+b) O acompanhamento de uma gravidez - oito unidades;
+
+c) O acompanhamento de uma criança no primeiro ano de vida, por ano - sete unidades;
+
+d) O acompanhamento de uma criança no segundo ano de vida, por ano - três unidades;
+
+e) O acompanhamento de uma pessoa diabética, por ano - quatro unidades;
+
+f) O acompanhamento de uma pessoa hipertensa, por ano - duas unidades.
+
+2 - As actividades específicas previstas no número anterior são contratualizadas anualmente e constam da carta de compromisso.
+
+3 - Os critérios para atribuição de unidades ponderadas às actividades específicas previstas no n.º 1 são definidos pela Direcção-Geral da Saúde.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 20/2022 - Diário da República n.º 223/2022, Série I de 2022-11-18](https://diariodarepublica.pt/dr/detalhe/lei/20-2022-203628886), em vigor a partir de 2022-11-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 30.º — Cálculo dos suplementos e compensações pelo desempenho dos médicos
+
+1 - A unidade contratualizada (UC) está associada a cada aumento de 55 unidades ponderadas da dimensão mínima da lista de utentes do médico.
+
+2 - São associadas tantas UC quantos os acréscimos múltiplos de 55 unidades ponderadas.
+
+3 - O número máximo mensal de UC por médico é de 20, com um limite de 9 para o suplemento previsto na alínea a) do n.º 3 do artigo 28.º
+
+4 - Para efeitos da determinação dos valores das componentes previstas na alínea a) do n.º 3 e na alínea a) do n.º 4 do artigo 28.º, o valor de cada UC é de (euro) 130.
+
+5 - O valor da UC obtida nos termos do número anterior é corrigido com o factor 1,8 para as primeiras seis unidades contratualizadas associadas à alínea a) do n.º 3 do artigo 28.º
+
+6 - A realização de cuidados domiciliários confere o direito, por cada consulta e até ao limite máximo de 20 domicílios/mês, a um abono de (euro) 30.
+
+7 - Quando for contratualizado o alargamento do período de funcionamento, o valor do suplemento de cada UC previsto na alínea c) do n.º 3 do artigo 28.º é de:
+
+a) (euro) 180 para o alargamento nos dias úteis;
+
+b) (euro) 235 para o alargamento aos sábados, domingos e feriados.
+
+8 - O valor obtido nos termos do previsto no número anterior é multiplicado pelo número de horas de alargamento semanal contratualizado.
+
+9 - Os médicos cuja lista de utentes não atinja a dimensão mínima de unidades ponderadas prevista no n.º 3 do artigo 9.º têm direito à remuneração da respectiva categoria e escalão do seu regime de trabalho durante os primeiros seis meses de actividade nas USF, em substituição do previsto no n.º 2 e na alínea a) do n.º 3 do artigo 28.º do presente decreto-lei.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 31.º — Remuneração dos enfermeiros
+
+1 - A remuneração mensal devida aos enfermeiros das USF integra uma remuneração base, suplementos e compensações pelo desempenho.
+
+2 - A remuneração base corresponde à remuneração da respectiva categoria e escalão, em regime de tempo completo.
+
+3 - São considerados os seguintes suplementos:
+
+a) O suplemento associado ao aumento das unidades ponderadas, nos termos do disposto nos n.os 3 e 4 do artigo 9.º;
+
+b) O suplemento associado às UC do alargamento do período de funcionamento ou cobertura assistencial, nos termos do disposto nas alíneas b) e c) do n.º 5 do artigo 10.º, quando contratualizado.
+
+4 - A compensação pelo desempenho integra:
+
+a) A compensação associada à carteira adicional de serviços nos termos do previsto no n.º 6 do artigo 6.º, quando contratualizada;
+
+b) A atribuição de incentivos financeiros previstos no artigo 38.º
+
+5 - As componentes previstas nas alíneas a) e b) do n.º 3 são devidas ao grupo de enfermeiros, divididas igualmente por todos, sendo paga, mensalmente, a cada enfermeiro a respectiva quota-parte.
+
+6 - A remuneração referida neste artigo implica o pagamento de subsídios de férias e de Natal nos termos da lei.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 32.º — Cálculo dos suplementos e compensações pelo desempenho dos enfermeiros
+
+1 - O número de utentes inscritos nas USF, por enfermeiro, tem uma dimensão mínima de 1917 unidades ponderadas, a que correspondem em média 1550 utentes de uma lista padrão nacional.
+
+2 - A cada aumento de 55 unidades ponderadas da dimensão mínima de utentes por enfermeiro das USF está associada uma UC.
+
+3 - São associadas tantas UC quantos os acréscimos múltiplos de 55 unidades ponderadas.
+
+4 - O número máximo mensal de UC, previstas no n.º 2, por enfermeiro é de 9 UC.
+
+5 - Para efeitos da determinação do valor do suplemento previsto na alínea a) do n.º 3 do artigo 31.º, o valor de cada UC é de (euro) 100.
+
+6 - Quando for contratualizado o alargamento do funcionamento e cobertura assistencial, o valor do suplemento de cada UC previsto na alínea b) do n.º 3 do artigo 31.º é de:
+
+a) (euro) 89 para o alargamento nos dias úteis;
+
+b) (euro) 115 para o alargamento aos sábados, domingos e feriados.
+
+7 - O valor obtido nos termos previstos no número anterior é multiplicado pelo número de horas de alargamento semanal contratualizado.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 33.º — Remuneração do pessoal administrativo
+
+1 - A remuneração mensal devida ao pessoal administrativo das USF integra uma remuneração base, suplementos e compensações pelo desempenho.
+
+2 - A remuneração base integra a remuneração da respectiva categoria e escalão, em regime de tempo completo.
+
+3 - São considerados os seguintes suplementos:
+
+a) O suplemento associado ao aumento das unidades ponderadas, nos termos do disposto nos n.os 3 e 4 do artigo 9.º;
+
+b) O suplemento associado às UC do alargamento do período de funcionamento ou cobertura assistencial, nos termos do disposto nas alíneas b) e c) do n.º 5 do artigo 10.º, quando contratualizado.
+
+4 - A compensação pelo desempenho integra:
+
+a) A compensação associada à carteira adicional de serviços nos termos do previsto no n.º 6 do artigo 6.º, quando contratualizada;
+
+b) A atribuição de incentivos financeiros previstos no artigo 38.º
+
+5 - As componentes previstas nas alíneas a) e b) do n.º 3 são devidas ao pessoal administrativo, divididas igualmente por todos, sendo paga, mensalmente, a cada um, a respectiva quota-parte.
+
+6 - A remuneração referida neste artigo implica o pagamento de subsídios de férias e de Natal nos termos da lei.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 34.º — Cálculo dos suplementos e compensações pelo desempenho do pessoal administrativo
+
+1 - O número de utentes inscritos nas USF, por cada elemento do pessoal administrativo, tem uma dimensão mínima de 2474 unidades ponderadas, a que correspondem em média 2000 utentes de uma lista padrão nacional.
+
+2 - A cada aumento de 71 unidades ponderadas da dimensão mínima do número de utentes por administrativo das USF está associada uma UC.
+
+3 - São associadas tantas UC quantos os acréscimos múltiplos de 71 unidades ponderadas.
+
+4 - O número máximo mensal de UC, previstas no n.º 2, por cada elemento do pessoal administrativo, é de 9 UC.
+
+5 - Para efeitos da determinação do valor do suplemento previsto na alínea a) do n.º 3 do artigo anterior, o valor de cada UC é de (euro) 60.
+
+6 - Quando for contratualizado o alargamento do funcionamento e cobertura assistencial, o valor do suplemento de cada UC previsto na alínea b) do n.º 3 do artigo anterior é de:
+
+a) (euro) 50 para o alargamento nos dias úteis;
+
+b) (euro) 65 para o alargamento aos sábados, domingos e feriados.
+
+7 - O valor obtido nos termos do número anterior é multiplicado pelo número de horas de alargamento semanal contratualizado.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 35.º — Ponderação das funções de orientador de formação
+
+1 - Sem prejuízo de os médicos integrados nas USF serem designados orientadores de formação do internato da especialidade de medicina geral e familiar, tal facto não pode pôr em causa o compromisso assistencial a que a equipa está vinculada, pelo que lhes é atribuída, durante o período em que se verifique aquela actividade, uma ponderação mensal de 220 unidades, para efeitos da componente prevista na alínea a) do n.º 3 do artigo 28.º
+
+2 - As unidades ponderadas referidas no número anterior não contam para o limite de UC referidos no n.º 3 do artigo 30.º
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 36.º — Acréscimos remuneratórios
+
+1 - À função de coordenador da equipa é atribuído um acréscimo remuneratório de 7 UC, calculadas nos termos do n.º 4 do artigo 30.º do presente decreto-lei.
+
+2 - Consideram-se incluídas na respectiva remuneração as despesas desembolsadas pelo médico para prestação de cuidados domiciliários aos seus utentes ou aos utentes de outro médico da equipa.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+### Capítulo VIII — Outros incentivos
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 37.º — Princípios
+
+1 - Podem ser atribuídos outros incentivos institucionais e financeiros à equipa multiprofissional e que visam estimular e apoiar o desempenho coletivo tendo em conta os ganhos de eficiência conseguidos.
+
+2 - Os incentivos previstos no presente capítulo são repartidos por todos os profissionais da equipa multiprofissional da USF.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 38.º — Modalidades de incentivos
+
+1 - Constituem modalidades de incentivos, designadamente:
+
+a) Os incentivos institucionais;
+
+b) Os incentivos financeiros.
+
+2 - Os incentivos institucionais traduzem-se, nomeadamente, no acesso a informação técnica, na participação em conferências, simpósios, colóquios, cursos de formação e seminários sobre matérias de diferentes atividades da carteira de serviços da unidade funcional, desde que inseridos no plano de formação dos seus profissionais, no apoio à investigação, na atualização, manutenção e aquisição de equipamentos para o funcionamento da unidade funcional, na melhoria das amenidades de exercício de funções da equipa multiprofissional e acolhimento dos utentes ou no desenvolvimento de processos de melhoria da qualidade e de acreditação.
+
+3 - A atribuição de incentivos financeiros mensais depende da concretização dos critérios para atribuição das UC referentes às atividades específicas decorrentes do acompanhamento de pessoas em idade fértil ou sexualmente ativas, de gravidezes, de crianças desde o nascimento até ao segundo ano de vida, de utentes diabéticos e de utentes hipertensos, segundo métrica de avaliação e critérios referidos no artigo 29.º
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 20/2022 - Diário da República n.º 223/2022, Série I de 2022-11-18](https://diariodarepublica.pt/dr/detalhe/lei/20-2022-203628886), em vigor a partir de 2022-11-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2017-107541409), em vigor a partir de 2017-06-22
+
+###### Artigo 39.º — Condições de atribuição de incentivos
+
+As condições e critérios para a atribuição de incentivos são regulados por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde, tendo por referência a melhoria de produtividade, da eficiência, da efectividade e da qualidade dos cuidados prestados, sendo objecto de negociação, de acordo com a Lei n.º 23/98, de 26 de Maio.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+### Capítulo IX — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 40.º — Monitorização, avaliação e acreditação
+
+1 - A monitorização e avaliação das USF incumbem às ARS.
+
+2 - A monitorização e avaliação das USF devem incidir sobre as áreas da disponibilidade, acessibilidade, produtividade, qualidade técnico-científica, efectividade, eficiência e satisfação e podem contemplar especificidades e características de carácter regional, quando estas se apresentem como factores correctivos e niveladores da matriz nacional.
+
+3 - A monitorização e avaliação das USF têm por base um modelo de matriz nacional que aplica a metodologia de auto-avaliação, avaliações interpares e avaliações cruzadas entre USF.
+
+4 - As USF podem submeter-se a um sistema de acreditação, a cargo da entidade competente do Ministério da Saúde.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 41.º — Regulamentação
+
+A regulamentação prevista no presente decreto-lei é aprovada no prazo de 90 dias.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 42.º — Norma transitória
+
+1 - Até à entrada em vigor da legislação que aprove a reconfiguração dos centros de saúde, todas as competências atribuídas pelo presente decreto-lei ao centro de saúde são exercidas pelas ARS e por outras entidades previstas no Despacho Normativo n.º 9/2006, de 16 de Fevereiro.
+
+2 - Os médicos actualmente abrangidos pelo disposto no presente decreto-lei mantêm o direito ao subsídio previsto no artigo 39.º do Decreto-Lei n.º 310/82, de 3 de Agosto.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 43.º — Actualização do valor das UC
+
+O valor das UC é actualizado por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 44.º — Regime remuneratório experimental
+
+1 - Os profissionais que integram as equipas de regime remuneratório experimental (RRE), previsto no Decreto-Lei n.º 117/98, de 5 de Maio, dispõem de 30 dias após a entrada em vigor do presente decreto-lei para apresentarem candidatura à constituição de USF.
+
+2 - Os profissionais que integram as equipas do RRE continuam sujeitos ao disposto no Decreto-Lei n.º 117/98, de 5 de Maio, e na Portaria n.º 993-A/98, de 24 de Novembro, até ao início da actividade da USF ou até à recusa da candidatura.
+
+3 - Caso os profissionais que integram as equipas do RRE não se candidatem à constituição de uma USF ou esta seja recusada, o regime do RRE deixa de ser aplicável 30 dias após a entrada em vigor deste decreto-lei ou na data da notificação da recusa da candidatura.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+###### Artigo 45.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 117/98, de 5 de Maio, sem prejuízo do disposto nos n.os 2 e 3 do artigo anterior;
+
+b) A Portaria n.º 993-A/98, de 24 de Novembro, sem prejuízo do disposto nos n.os 2 e 3 do artigo anterior;
+
+c) O artigo 12.º do Decreto-Lei n.º 157/99, de 10 de Maio;
+
+d) As normas iv, v, vi e viii do Despacho Normativo n.º 9/2006, de 16 de Fevereiro.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01
+
+Visto e aprovado em Conselho de Ministros de 24 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Ventura Ramos.
+
+Promulgado em 27 de Julho de 2007.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 2 de Agosto de 2007.
+
+Pelo Primeiro-Ministro, Luís Filipe Marques Amado, Ministro de Estado e dos Negócios Estrangeiros.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01

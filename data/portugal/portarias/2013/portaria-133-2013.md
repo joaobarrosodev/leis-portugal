@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:260123:por
+title: Portaria n.º 133/2013
+short_title: null
+summary: Determina a extensão das alterações dos contratos coletivos entre a APIAM - Associação Portuguesa dos Industriais
+  de Águas Minerais Naturais e de Nascente e outra e a FESAHT - Federação dos Sindicatos de Agricultura, Alimentação, Bebidas,
+  Hotelaria e Turismo de Portugal e outros, entre as mesmas associações de empregadores e o SETAA - Sindicato da Agricultura,
+  Alimentação e Florestas e, ainda, entre as mesmas associações de empregadores e o SINTICABA - Sindicato Nacional dos Trabalhadores
+  da Indústria e Comércio de Alimentação, Bebidas e Afins
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 133/2013
+official_date: null
+publication_date: '2013-03-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2013, Série I de 2013-03-28
+  number: '62'
+  series: I
+  supplement: null
+  pages: 1902 - 1903
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/03/06200/0190201903.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/133/2013/03/28/p/dre/pt/html
+  oj: null
+  dre: '260123'
+  dre_path: /dr/detalhe/portaria/133-2013-260123
+  internal: pt:dre:260123:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/133-2013-260123
+  metadata_url: https://data.dre.pt/eli/port/133/2013/03/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/133-2013-260123
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-03-28T00:00:00Z'
+integrity:
+  source_sha256: 16b456fde311e63f68e67f1a553c185abb19b4e49f22cccf7d98668fa22ce08f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-133-260123.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produto Alimentar
+- Água
+- Bebida
+- Contrato Coletivo de Trabalho
+- Indústria
+- Regulamento de Extensão
+- Remuneração
+- Comércio
+- Trabalhador por Conta de Outrem
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/90/2012/10/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/90/2012/10/31/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 133/2013
+
+de 28 de março
+
+Portaria de extensão das alterações dos contratos coletivos entre a APIAM - Associação Portuguesa dos Industriais de Águas Minerais Naturais e de Nascente e outra e a FESAHT - Federação dos Sindicatos de Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal e outros, entre as mesmas associações de empregadores e o SETAA - Sindicato da Agricultura, Alimentação e Florestas e, ainda, entre as mesmas associações de empregadores e o SINTICABA - Sindicato Nacional dos Trabalhadores da Indústria e Comércio de Alimentação, Bebidas e Afins.
+
+As alterações dos contratos coletivos entre a APIAM - Associação Portuguesa dos Industriais de Águas Minerais Naturais e de Nascente e outra e a FESAHT - Federação dos Sindicatos de Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal e outros, entre as mesmas associações de empregadores e o SETAA - Sindicato da Agricultura, Alimentação e Florestas e, ainda, entre as mesmas associações de empregadores e o SINTICABA - Sindicato Nacional dos Trabalhadores da Indústria e Comércio de Alimentação, Bebidas e Afins, publicadas, respetivamente, no Boletim do Trabalho e Emprego, n.º 20, de 29 de maio de 2011, e n.º 25, de 8 de julho de 2011, abrangem as relações de trabalho entre empregadores e trabalhadores representados pelas associações que as outorgaram.
+
+As partes requereram a extensão das alterações das convenções a todas as empresas que, na área de aplicação das convenções se dediquem à mesma atividade, não filiadas na associação de empregadores outorgante e aos trabalhadores ao seu serviço, das profissões e categorias nelas previstas, não representados pelas associações sindicais outorgantes, de acordo com as alíneas a) e b) do n.º 1 da [Resolução do Conselho de Ministros n.º 90/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-2012-191563), de 31 de outubro.
+
+No setor de atividade, no âmbito geográfico, pessoal e profissional de aplicação pretendido na extensão, os elementos disponíveis nos Quadros de Pessoal de 2010 indicam que a parte empregadora subscritora da convenção tem ao seu serviço 65% dos trabalhadores.
+
+Considerando que as convenções atualizam as tabelas salariais e que importa ter em conta os seus efeitos no emprego e na competitividade das empresas do setor, procedeu-se ao estudo de avaliação do impacto da extensão da tabela salarial. Segundo os Quadros de Pessoal de 2010, a atualização das retribuições efetivas dos trabalhadores por conta de outrem abrangidos pela presente extensão, inferiores às retribuições convencionadas, representa um acréscimo nominal na ordem dos 0,5% na massa salarial do total dos trabalhadores por conta de outrem abrangidos.
+
+As convenções atualizam, ainda, outras prestações de conteúdo pecuniário, concretamente o subsídio de horário especial de trabalho e o subsídio de turno, em 1 %, o abono mensal para falhas, em 1,1 %, os subsídios de deslocação e serviço externo, entre 1 % e 1,3 %, e o subsídio de refeição, em 1,3 %. Não se dispõe de dados estatísticos que permitam avaliar o impacto destas prestações. Considerando a finalidade da extensão e que as mesmas prestações foram objeto de extensões anteriores, justifica-se incluí-las na extensão.
+
+Tendo em consideração que os regimes das referidas convenções são substancialmente idênticos procede-se, conjuntamente, à extensão.
+
+Embora as convenções tenham área nacional, a extensão de convenções coletivas nas Regiões Autónomas compete aos respetivos Governos Regionais, pelo que a extensão apenas é aplicável no território do continente.
+
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, n.º 2, de 15 de janeiro de 2013, ao qual não foi deduzida oposição por parte dos interessados.
+
+Na linha do compromisso assumido no Memorando de Entendimento sobre as Condicionalidades de Política Económica e ponderadas as circunstâncias sociais e económicas justificativas da extensão, previstas no n.º 2 do artigo 514.º do Código do Trabalho, observados os critérios necessários para o alargamento das condições de trabalho previstas nas convenções, nomeadamente o critério da representatividade previsto da alínea c) do n.º 1 da [Resolução do Conselho de Ministros n.º 90/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-2012-191563), de 31 de outubro, importa promover a extensão das alterações das convenções em causa.
+
+Assim,
+
+Manda o Governo, pelo Secretário de Estado do Emprego, ao abrigo do artigo 514.º e do n.º 1 do artigo 516.º do Código do Trabalho, e da [Resolução do Conselho de Ministros n.º 90/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-2012-191563), de 31 de outubro, o seguinte:
+
+###### Artigo 1.º
+
+1- As condições de trabalho constantes das alterações dos contratos coletivos entre a APIAM - Associação Portuguesa dos Industriais de Águas Minerais Naturais e de Nascente e outra e a FESAHT - Federação dos Sindicatos de Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal e outros, entre as mesmas associações de empregadores e o SETAA - Sindicato da Agricultura, Alimentação e Florestas e, ainda, entre as mesmas associações de empregadores e o SINTICABA - Sindicato Nacional dos Trabalhadores da Indústria e Comércio de Alimentação, Bebidas e Afins, publicadas, respetivamente, no Boletim do Trabalho e Emprego n.º 20, de 29 de maio de 2011, e n.º 25, de 8 de julho de 2011, são estendidas, no território do continente:
+
+a) Às relações de trabalho entre empregadores não filiados nas associações de empregadores outorgantes que se dediquem à indústria das águas minerais naturais e de nascente, refrigerantes e sumos de frutos, bem como à produção de concentrados e extratos para refrigerantes e sumos, desde que produtores destes últimos, e trabalhadores ao seu serviço, das profissões e categorias profissionais nelas previstas;
+
+b) Às relações de trabalho entre empregadores filiados nas associações de empregadores outorgantes que prossigam a atividade mencionada na alínea anterior e trabalhadores ao seu serviço das profissões e categorias profissionais previstas nas convenções, não representados pelas associações sindicais outorgantes.
+
+###### Artigo 2.º
+
+1 - A presente portaria entra em vigor cinco dias após a sua publicação no Diário da República.
+
+2 - As tabelas salariais e as cláusulas de natureza pecuniária previstas nas convenções produzem efeitos a partir do 1.º dia do mês da publicação da presente portaria.
+
+**O Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira, em 26 de março de 2013.**

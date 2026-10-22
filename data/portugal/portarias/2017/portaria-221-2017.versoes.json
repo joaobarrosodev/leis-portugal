@@ -1,0 +1,201 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107725089:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-115475705",
+ "dre_path": "/dr/detalhe/portaria/221-2017-107725089",
+ "source_lastmod": "2026-07-16",
+ "versions": [
+  {
+   "date": "2017-07-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115466199",
+    "115466200",
+    "115466201",
+    "115466202"
+   ]
+  },
+  {
+   "date": "2018-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115475702:por",
+     "title": "Portaria n.º 166/2018",
+     "published": "2018-06-08",
+     "dre_path": "/dr/detalhe/portaria/166-2018-115475702"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "115466199",
+    "115466200",
+    "115466201",
+    "115466202",
+    "115466210",
+    "115466209"
+   ]
+  },
+  {
+   "date": "2021-07-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:168043799:por",
+     "title": "Portaria n.º 159/2021",
+     "published": "2021-07-22",
+     "dre_path": "/dr/detalhe/portaria/159-2021-168043799"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "115466199",
+    "115466200",
+    "115466201",
+    "115466202",
+    "115466210",
+    "168154803"
+   ]
+  },
+  {
+   "date": "2023-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223906283:por",
+     "title": "Portaria n.º 339/2023",
+     "published": "2023-11-07",
+     "dre_path": "/dr/detalhe/portaria/339-2023-223906283"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "115466199",
+    "115466200",
+    "115466201",
+    "115466202",
+    "115466210",
+    "223763765"
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1148213729:por",
+     "title": "Portaria n.º 298/2026/1",
+     "published": "2026-07-16",
+     "dre_path": "/dr/detalhe/portaria/298-2026-1148213729"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "115466199",
+    "115466200",
+    "115466201",
+    "115466202",
+    "115466210",
+    "1148781975"
+   ]
+  }
+ ],
+ "fragments": {
+  "115466199": {
+   "fragment_id": "115475706",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 221/2017\n\nde 21 de julho\n\nO artigo 200.º da Lei n.º 42/2016, de 28 de dezembro (Lei do Orçamento do Estado para 2017) aditou ao artigo 27.º do Código do IVA os n.os 8 e 9, que preveem a possibilidade de os sujeitos passivos optarem pelo pagamento do imposto devido pelas importações de bens mediante a sua inclusão na declaração periódica a que se refere a alínea a) do n.º 1 do artigo 41.º do mesmo Código, desde que reunidas as condições elencadas nas alíneas a) a d) do n.º 8 do referido artigo 27.º\n\nCom esta medida, libertam-se as empresas importadoras dos encargos financeiros representados pelo pagamento imediato ou prestação de garantia, e remove-se o desincentivo fiscal à importação diretamente através dos portos nacionais, que permanecia ainda na legislação portuguesa depois de já ter sido eliminado há longos anos em grande parte dos países da UE.\n\nO novo regime é aplicável a partir de 1 de março de 2018, e a partir de 1 de setembro de 2017 para as importações de bens constantes do anexo C do Código do IVA, com exceção dos óleos minerais, tornando necessária a reformulação do modelo da declaração periódica.\n\nPara esse efeito são criados, na declaração periódica do IVA e no anexo R que dela é parte integrante, dois campos, relativos à base tributável das importações de bens e ao correspondente imposto.\n\nAproveita-se a oportunidade para atualizar os modelos da declaração e do respetivo anexo R, bem como dos modelos de anexos relativos aos campos 40 e 41 da declaração, aprovados pela Portaria n.º 255/2013, de 12 de agosto.\n\nSão revistas integralmente as respetivas instruções de preenchimento.\n\nForam ouvidas a Ordem dos Revisores Oficiais de Contas e a Ordem dos Contabilistas Certificados.\n\nAssim, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do Decreto-Lei n.º 394-B/84, de 26 de dezembro, o seguinte:"
+  },
+  "115466200": {
+   "fragment_id": "115475707",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - São aprovados os novos modelos da declaração periódica de IVA e do anexo R, a que se refere a alínea c) do n.º 1 do artigo 29.º do Código do IVA, bem como as respetivas instruções de preenchimento, que se publicam em anexo.\n\n2 - São, ainda, aprovados os novos modelos de anexos das regularizações do campo 40 e do campo 41, que fazem parte integrante da declaração periódica de IVA, bem como as respetivas instruções de preenchimento, que se publicam em anexo."
+  },
+  "115466201": {
+   "fragment_id": "115475708",
+   "type": 11,
+   "heading": "Artigo 2.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aplicação no tempo\n\nOs modelos aprovados pela presente portaria são utilizados com referência aos períodos de imposto a partir do dia 1 de setembro de 2017."
+  },
+  "115466202": {
+   "fragment_id": "115475709",
+   "type": 11,
+   "heading": "Artigo 3.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Revogação\n\nSão revogadas as Portarias n.os 988/2009, de 7 de setembro, e 255/2013, de 12 de agosto, a partir de 1 de setembro de 2017."
+  },
+  "115466210": {
+   "fragment_id": "115475710",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, Fernando António Portela Rocha de Andrade, em 12 de julho de 2017."
+  },
+  "115466209": {
+   "fragment_id": "115475718",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2018-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 166/2018 - Diário da República n.º 110/2018, Série I de 2018-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/166-2018-115475702), em vigor a partir de 2018-06-09"
+   ],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 166/2018 - Diário da República n.º 110/2018, Série I de 2018-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/166-2018-115475702), em vigor a partir de 2018-06-09"
+  },
+  "168154803": {
+   "fragment_id": "115475718",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2021-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/159-2021-168043799), em vigor a partir de 2021-07-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 166/2018 - Diário da República n.º 110/2018, Série I de 2018-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/166-2018-115475702), em vigor a partir de 2018-06-09"
+   ],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/159-2021-168043799), em vigor a partir de 2021-07-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 166/2018 - Diário da República n.º 110/2018, Série I de 2018-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/166-2018-115475702), em vigor a partir de 2018-06-09"
+  },
+  "223763765": {
+   "fragment_id": "115475718",
+   "type": 14,
+   "heading": "Anexo — Modelos da declaração periódica, do anexo R e respetivas instruções de preenchimento",
+   "in_force_from": "2023-11-08",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 339/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/portaria/339-2023-223906283), em vigor a partir de 2023-11-08.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/159-2021-168043799), em vigor a partir de 2021-07-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 166/2018 - Diário da República n.º 110/2018, Série I de 2018-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/166-2018-115475702), em vigor a partir de 2018-06-09"
+   ],
+   "markdown": "## Anexo — Modelos da declaração periódica, do anexo R e respetivas instruções de preenchimento\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906376)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906377)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906378)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906379)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906380)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906381)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906382)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906383)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906384)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906385)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906386)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906387)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906388)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906389)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906390)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906391)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906392)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906393)\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/223906394)\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 339/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/portaria/339-2023-223906283), em vigor a partir de 2023-11-08.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/159-2021-168043799), em vigor a partir de 2021-07-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 166/2018 - Diário da República n.º 110/2018, Série I de 2018-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/166-2018-115475702), em vigor a partir de 2018-06-09"
+  },
+  "1148781975": {
+   "fragment_id": "115475718",
+   "type": 14,
+   "heading": "Anexo — Modelos da declaração periódica do IVA, do anexo R, dos anexos das regularizações do campo 40 e do campo 41, bem como as respetivas instruções de preenchimento",
+   "in_force_from": "2026-07-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 298/2026/1 - Diário da República n.º 136/2026, Série I de 2026-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/298-2026-1148213729), em vigor a partir de 2026-07-17.",
+    "Alterado pelo/a Anexo do/a [Portaria n.º 339/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/portaria/339-2023-223906283), em vigor a partir de 2023-11-08.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/159-2021-168043799), em vigor a partir de 2021-07-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 166/2018 - Diário da República n.º 110/2018, Série I de 2018-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/166-2018-115475702), em vigor a partir de 2018-06-09"
+   ],
+   "markdown": "## Anexo — Modelos da declaração periódica do IVA, do anexo R, dos anexos das regularizações do campo 40 e do campo 41, bem como as respetivas instruções de preenchimento\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339232) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339233) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339234) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339235) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339236) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339237) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339238) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339239) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339240) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339241) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339242) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339243) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339244) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339245) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339246) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339247) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339248) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339249) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339250) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339251) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339252) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339253) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339254) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339255) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339256) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339257) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339258) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339259) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339260) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339261) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339262) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/1148339263) |\n| --- |\n\n> Nota: [Artigo 4.º, Portaria n.º 298/2026/1 - Diário da República n.º 136/2026, Série I de 2026-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/298-2026-1148213729) 1. As alterações introduzidas no presente anexo só se aplicam às declarações relativas a períodos de imposto com início a partir do dia 1 de julho de 2027. 2. Sem prejuízo do disposto no n.º 1, as seguintes alterações a este anexo aplicam-se às declarações relativas a períodos de imposto com início a partir do dia 1 de julho de 2026: a) No quadro 01 do modelo referente à declaração periódica do IVA : O novo campo selecionável «Regime Grupos IVA - Lei n.º 62/2025, de 27 de outubro»; b) No quadro 03 do anexo referente às regularizações do campo 40: O novo campo «Regularizações abrangidas pela verba 2.42 da lista I»; c) No quadro 02 do anexo referente às regularizações do campo 41: O novo campo «Regularizações abrangidas pela verba 2.42 da lista I».\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 298/2026/1 - Diário da República n.º 136/2026, Série I de 2026-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/298-2026-1148213729), em vigor a partir de 2026-07-17.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 339/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/portaria/339-2023-223906283), em vigor a partir de 2023-11-08.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/159-2021-168043799), em vigor a partir de 2021-07-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 166/2018 - Diário da República n.º 110/2018, Série I de 2018-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/166-2018-115475702), em vigor a partir de 2018-06-09"
+  }
+ }
+}

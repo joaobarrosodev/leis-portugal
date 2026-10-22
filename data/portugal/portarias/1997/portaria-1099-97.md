@@ -1,0 +1,340 @@
+---
+schema_version: '1.0'
+id: pt:dre:675031:por
+title: Portaria n.º 1099/97
+short_title: null
+summary: Autoriza o funcionamento do curso de estudos superiores especializados em Tecnologias de Informação no Instituto
+  Superior de Tecnologias Avançadas - ISTEC (Porto)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 1099/97
+official_date: null
+publication_date: '1997-11-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 254/1997, Série I-B de 1997-11-03
+  number: '254'
+  series: I
+  supplement: null
+  pages: 6034 - 6036
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/11/254b00/60346036.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1099/1997/11/03/p/dre/pt/html
+  oj: null
+  dre: '675031'
+  dre_path: /dr/detalhe/portaria/1099-1997-675031
+  internal: pt:dre:675031:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1099-1997-675031
+  metadata_url: https://data.dre.pt/eli/port/1099/1997/11/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1099-1997-675031
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-01-25T00:00:00Z'
+integrity:
+  source_sha256: 3b958ff7d58eed450176e19eb00509cdeb90c4ce9219de35625f75b540c854f0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-1099-675031.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Plano de Estudos
+- Ensino Particular
+- Instituto Superior de Tecnologias Avançadas
+- Licenciatura
+- Ensino Superior
+- Porto
+relationships:
+- type: amended_by
+  target: pt:dre:623596:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1099/97
+
+de 3 de Novembro
+
+A requerimento do ITA, Instituto de Tecnologias Avançadas para a Formação, Lda., entidade instituidora do Instituto Superior de Tecnologias Avançadas - ISTEC (Porto), reconhecido oficialmente, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo ([Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto), pela [Portaria n.º 873/90](https://diariodarepublica.pt/dr/detalhe/portaria/873-1990-557579), de 20 de Setembro;
+
+Instruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro;
+
+Ao abrigo do disposto no artigo 64.º do referido Estatuto:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+Autorização de funcionamento
+
+É autorizado o funcionamento do curso de estudos superiores especializados em Tecnologias de Informação no Instituto Superior de Tecnologias Avançadas - ISTEC nas instalações sitas no Porto que estejam autorizadas nos termos da lei.
+
+2.º
+
+Diploma
+
+A conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso confere o direito à atribuição do diploma de estudos superiores especializados em Tecnologias de Informação.
+
+3.º
+
+Duração
+
+A duração do curso é de quatro semestres.
+
+4.º
+
+Plano de estudos
+
+É aprovado o plano de estudos do curso, nos termos do anexo à presente portaria.
+
+5.º
+
+Número máximo de alunos
+
+1 - A frequência global do curso não pode exceder 100 alunos.
+
+2 - O número de novos alunos a admitir anualmente não pode exceder 50.
+
+6.º
+
+Habilitações de acesso
+
+Podem candidatar-se à matrícula e inscrição no curso os estudantes que satisfaçam uma das seguintes condições:
+
+a) Ser titular de grau de bacharel em Informática pelo Instituto Superior de Tecnologias Avançadas - ISTEC (Porto);
+
+b) Ser titular do grau de bacharel na área de Informática;
+
+c) Ser titular do grau de bacharel ou de licenciado noutras áreas do conhecimento, desde que o respectivo curso demonstre uma adequada preparação de base para a frequência do curso de estudos superiores especializados.
+
+7.º
+
+Limitações quantitativas
+
+A matrícula e inscrição no curso está sujeita a limitações quantitativas, a fixar anualmente por portaria do Ministro da Educação.
+
+8.º
+
+Contingentes
+
+1 - As vagas fixadas nos termos do n.º 7.º podem distribuir-se por contingentes.
+
+2 - O órgão estatutariamente competente do Instituto fixa, se for caso disso:
+
+a) Os contingentes em que as vagas se distribuem;
+
+b) A percentagem a afectar a cada contingente;
+
+c) As regras de reversão entre contingentes das vagas não ocupadas.
+
+9.º
+
+Concurso
+
+1 - A selecção dos candidatos a admitir à matrícula e inscrição no curso é feita através de um concurso.
+
+2 - O concurso é válido apenas para o ano a que diz respeito.
+
+10.º
+
+Regras e critérios de selecção e seriação
+
+1 - As regras e os critérios de selecção e seriação dos candidatos são fixados pelo órgão estatutariamente competente do Instituto.
+
+2 - A selecção e seriação dos candidatos pode incluir provas de avaliação em domínios considerados necessários ao ingresso no curso, bem como a realização de entrevistas.
+
+11.º
+
+Júri
+
+1 - A aplicação das regras e critérios de selecção e seriação é da competência de um júri, constituído por professores do Instituto, nomeado pelo seu órgão estatutariamente competente.
+
+2 - A deliberação final do júri está sujeita a homologação pelo órgão estatutariamente competente do Instituto.
+
+12.º
+
+Candidatura
+
+A candidatura à matrícula e inscrição é formulada em pedido dirigido ao órgão estatutariamente competente do Instituto.
+
+13.º
+
+Instrução da candidatura
+
+Os termos em que deve ser formulada a candidatura e os documentos a juntar são fixados pelo órgão estatutariamente competente do Instituto.
+
+14.º
+
+Aviso
+
+Todos os elementos relevantes para a candidatura, nomeadamente as regras e critérios de selecção e seriação, os termos em que esta deve ser formulada, os documentos a juntar, bem como os prazos a que se refere o n.º 23.º, são divulgados através de aviso subscrito pelo órgão estatutariamente competente do Instituto e afixado nas respectivas instalações, antes do início dos prazos a que diz respeito.
+
+15.º
+
+Rejeição liminar
+
+1 - As candidaturas que não satisfaçam ao disposto na presente portaria e nas regras aprovadas ao seu abrigo são liminarmente rejeitadas.
+
+2 - A rejeição liminar é da competência do órgão estatutariamente competente do Instituto.
+
+3 - Dos candidatos rejeitados liminarmente é organizada lista donde constem os fundamentos da rejeição, a qual é tornada pública através de aviso a afixar no Instituto.
+
+16.º
+
+Resultados da selecção e seriação
+
+Os resultados do processo de selecção e seriação são tornados públicos através de aviso subscrito pelo órgão estatutariamente competente do Instituto, donde constem:
+
+a) A lista dos candidatos não seleccionados;
+
+b) A lista ordenada dos candidatos seleccionados, indicando:
+
+Os candidatos admitidos à matrícula e inscrição;
+
+Os candidatos não admitidos à matrícula e inscrição.
+
+17.º
+
+Reclamações
+
+1 - Do resultado final da candidatura, divulgado nos termos do n.º 16.º, os candidatos podem apresentar reclamação, devidamente fundamentada, no prazo fixado nos termos do n.º 23.º, dirigida ao órgão estatutariamente competente do Instituto.
+
+2 - As decisões sobre as reclamações são da competência do órgão referido no número anterior.
+
+3 - São liminarmente indeferidas as reclamações não fundamentadas, bem como as entregues fora de prazo.
+
+4 - Quando, na sequência do provimento de uma reclamação, um candidato não admitido venha a ficar situado na lista ordenada na posição de colocado terá direito à colocação, mesmo que para tal seja necessário criar vaga adicional.
+
+5 - A rectificação da colocação abrange apenas o candidato cuja reclamação foi atendida, não tendo qualquer efeito sobre os restantes, colocados ou não.
+
+18.º
+
+Matrículas e inscrições
+
+1 - Os candidatos admitidos devem proceder à matrícula e inscrição no prazo fixado nos termos do n.º 23.º
+
+2 - Caso algum candidato admitido desista expressamente da matrícula e inscrição, ou não compareça a realizar a mesma, os serviços competentes do Instituto, no dia imediato ao fim do prazo de matrícula e inscrição, através de carta registada, com aviso de recepção, convocam para a matrícula e inscrição o candidato seguinte na lista ordenada, até esgotar as vagas ou os candidatos.
+
+3 - Os candidatos a que se refere a parte final do n.º 2 têm um prazo improrrogável de três dias úteis após a recepção da notificação para procederem à sua matrícula e inscrição.
+
+4 - A decisão de admissão apenas tem efeito para o ano lectivo a que se refere.
+
+19.º
+
+Regimes escolares
+
+Os regimes de inscrição, incluindo os de precedência e de prescrição do direito de inscrição, de frequência, de avaliação de conhecimentos e de transição de ano, bem como as condições de reingresso, mudança de curso e transferência, são fixados pelo órgão estatutariamente competente do Instituto.
+
+20.º
+
+Classificação final do curso
+
+1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas pelo aluno nas unidades curriculares que integram o respectivo plano de estudos.
+
+2 - Os coeficientes de ponderação são aprovados pelo órgão estatutariamente competente do Instituto.
+
+21.º
+
+Grau de licenciado
+
+1 - Aos titulares do diploma de estudos superiores especializados que nele hajam ingressado com a titularidade de um dos bacharelatos a que se referem as alíneas a) e b) do n.º 6.º da presente portaria é conferido o grau de licenciado em Tecnologias de Informação, desde que se verifique a efectiva formação de um conjunto coerente entre o curso de bacharelato e o curso de estudos superiores especializados, nos termos do n.º 7 do artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro.
+
+2 - Compete ao órgão estatutariamente competente do Instituto verificar, em cada caso concreto, a existência da referida coerência.
+
+22.º
+
+Classificação do grau obtido
+
+A classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):
+
+(3B + 2D)/5
+
+em que:
+
+B é a classificação final do curso com que ingressou no curso de estudos superiores especializados;
+
+D é a classificação final do curso de estudos superiores especializados.
+
+23.º
+
+Prazos
+
+Os prazos para a candidatura, selecção, reclamação e matrícula e inscrição são fixados anualmente por deliberação do órgão estatutariamente competente do Instituto.
+
+24.º
+
+Início de funcionamento do curso
+
+O curso pode começar a funcionar a partir do ano lectivo de 1997-1998, inclusive, um ano curricular em cada ano lectivo.
+
+25.º
+
+Condicionamento
+
+A autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino do cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer por não cumprimento dos pressupostos de autorização e reconhecimento, quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.
+
+26.º
+
+Vagas para 1997-1998
+
+O número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1997-1998 é fixado em 50.
+
+Ministério da Educação.
+
+**Assinada em 12 de Setembro de 1997.**
+
+Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
+
+## ANEXO — Instituto Superior de Tecnologias Avançadas - ISTEC (Porto)
+
+Curso de estudos superiores especializados em Tecnologias de Informação
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/254b00/60346036.pdf))](https://files.diariodarepublica.pt/1s/1997/11/254b00/60346036.pdf)

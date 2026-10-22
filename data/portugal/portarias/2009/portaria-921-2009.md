@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:493756:por
+title: Portaria n.º 921/2009
+short_title: null
+summary: Aprova o regulamento de extensão das alterações dos CCT entre a AES - Associação das Empresas de Segurança e outra
+  e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outros e entre as mesmas associações de empregadores
+  e o STAD - Sindicato dos Trabalhadores de Serviços e Portaria, Vigilância, Limpeza, Domésticas e Actividades Diversas e
+  outros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 921/2009
+official_date: null
+publication_date: '2009-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 159/2009, Série I de 2009-08-18
+  number: '159'
+  series: I
+  supplement: null
+  pages: 5383 - 5384
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15900/0538305384.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/921/2009/08/18/p/dre/pt/html
+  oj: null
+  dre: '493756'
+  dre_path: /dr/detalhe/portaria/921-2009-493756
+  internal: pt:dre:493756:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/921-2009-493756
+  metadata_url: https://data.dre.pt/eli/port/921/2009/08/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/921-2009-493756
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-08-18T00:00:00Z'
+integrity:
+  source_sha256: 59c92de2d5b0040ec0db9f1fc91e97e666aad9127f4832c12375f60f5106d9f5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-921-493756.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato Coletivo de Trabalho
+- Regime Laboral
+- Condições de Higiene e Segurança no Trabalho
+- Relações de Trabalho
+- Serviço Doméstico
+- Tabela Salarial
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 921/2009
+
+de 18 de Agosto
+
+As alterações dos contratos colectivos de trabalho entre a AES - Associação das Empresas de Segurança e outra e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outros e entre as mesmas associações de empregadores e o STAD - Sindicato dos Trabalhadores de Serviços de Portaria, Vigilância, Limpeza, Domésticas e Actividades Diversas e outros, publicadas no Boletim do Trabalho e Emprego, n.os 3 e 10, de 22 de Janeiro e de 15 de Março de 2009, respectivamente, abrangem as relações de trabalho entre empregadores que se dediquem à prestação serviços de segurança privada e prevenção e trabalhadores ao seu serviço, uns e outros representados pelas associações que as outorgaram.
+
+As associações subscritoras da segunda das referidas convenções requereram a extensão das alterações a todas as empresas da mesma área e âmbito não representadas pelas associações de empregadores signatárias, bem como aos trabalhadores ao seu serviço.
+
+As convenções actualizam as tabelas salariais. O estudo de avaliação do impacte da extensão das tabelas salariais teve por base as retribuições efectivas praticadas no sector abrangido pelas convenções, apuradas pelos quadros de pessoal de 2006 e actualizadas de acordo com o aumento percentual médio das tabelas salariais das convenções publicadas em 2007 e 2008.
+
+O número de trabalhadores a tempo completo do sector abrangido pelas convenções, com exclusão dos aprendizes, praticantes e um número residual, é de 24 431, dos quais 715 (2,9 %) auferem retribuições inferiores às convencionais, sendo que 450 (1,8 %) auferem retribuições inferiores às das convenções em mais de 6,8 %. São as empresas do escalão até 200 trabalhadores que empregam o maior número de trabalhadores com retribuições inferiores às convencionais.
+
+As convenções actualizam, ainda, outras prestações de conteúdo pecuniário, nomeadamente o abono para falhas, em 5,7 %, o subsídio de alimentação, entre 2,73 % e 2,76 %, os subsídios de deslocação, entre 5,76 % e 5,8 %, o seguro de acidentes pessoais, em 2,8 %, e o subsídio de função mensal entre 2,60 % e 2,80 %. Não se dispõe de dados estatísticos que permitam avaliar o impacte destas prestações. Considerando a finalidade da extensão e que as mesmas prestações foram objecto de extensões anteriores, justifica-se incluí-las na extensão.
+
+As retribuições dos níveis xxiii a xxv das tabelas salariais são inferiores à retribuição mínima mensal garantida em vigor. No entanto, a retribuição mínima mensal garantida pode ser objecto de reduções relacionadas com o trabalhador, de acordo com o artigo 275.º do Código do Trabalho. Deste modo, as referidas retribuições apenas são objecto de extensão para abranger situações em que a retribuição mínima mensal garantida resultante da redução seja inferior àquelas.
+
+Com vista a aproximar os estatutos laborais dos trabalhadores e as condições de concorrência entre as empresas do sector de actividade abrangido pelas convenções, a extensão assegura para as tabelas salariais e para as cláusulas de conteúdo pecuniário retroactividade idêntica à das convenções. No entanto, os subsídios de deslocação previstos na alínea c) do anexo ii não são objecto de retroactividade, uma vez que se destinam a compensar despesas já feitas para assegurar a prestação do trabalho.
+
+Tendo em consideração que não é viável proceder à verificação objectiva da representatividade das associações outorgantes e, ainda, que os regimes das referidas convenções são substancialmente idênticos, procede-se à respectiva extensão conjunta.
+
+A extensão das alterações das convenções tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre empresas do mesmo sector.
+
+Embora as convenções tenham área nacional, a extensão de convenções colectivas nas Regiões Autónomas compete aos respectivos Governos Regionais, pelo que a extensão apenas é aplicável no território do continente.
+
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, n.º 24, de 29 de Junho de 2009, ao qual não foi deduzida oposição por parte dos interessados.
+
+Assim:
+
+Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, ao abrigo do artigo 514.º e do n.º 1 do artigo 516.º do Código do Trabalho, o seguinte:
+
+###### Artigo 1.º
+
+1 - As condições de trabalho constantes das alterações dos contratos colectivos de trabalho entre a AES - Associação das Empresas de Segurança e outra e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outros e entre as mesmas associações de empregadores e o STAD - Sindicato dos Trabalhadores de Serviços de Portaria, Vigilância, Limpeza, Domésticas e Actividades Diversas e outros, publicadas no Boletim do Trabalho e Emprego, n.os 3 e 10, de 22 de Janeiro e de 15 de Março de 2009, respectivamente, são estendidas, no território do continente:
+
+a) Às relações de trabalho entre empregadores não filiados nas associações de empregadores outorgantes que se dediquem à prestação de serviços de segurança privada e prevenção e trabalhadores ao seu serviço das profissões e categorias profissionais nelas previstas;
+
+b) Às relações de trabalho entre empregadores filiados nas associações de empregadores outorgantes que prossigam a actividade referida na alínea anterior e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas nas convenções, não representados pelas associações sindicais outorgantes.
+
+2 - As retribuições previstas nas tabelas salariais para os níveis xxiii a xxv apenas são objecto de extensão em situações em que sejam superiores à retribuição mínima mensal garantida resultante da redução relacionada com o trabalhador, de acordo com o artigo 275.º do Código do Trabalho.
+
+###### Artigo 2.º
+
+1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+
+2 - As tabelas salariais e os valores das cláusulas de conteúdo pecuniário, à excepção dos subsídios de deslocação previstos na alínea c) do anexo ii, produzem efeitos desde 1 de Janeiro de 2009.
+
+3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de quatro.
+
+**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 31 de Julho de 2009.**

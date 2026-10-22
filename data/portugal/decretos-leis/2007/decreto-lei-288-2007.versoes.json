@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:636966:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-977098750",
+ "dre_path": "/dr/detalhe/decreto-lei/288-2007-636966",
+ "source_lastmod": "2026-10-21",
+ "versions": [
+  {
+   "date": "2008-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:453550:por",
+     "title": "Decreto-Lei n.º 173/2008",
+     "published": "2008-08-26",
+     "dre_path": "/dr/detalhe/decreto-lei/173-2008-453550"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "977267875",
+    "977268075",
+    "977268275",
+    "1182896675",
+    "1182906175",
+    "977268875",
+    "977269075",
+    "977269275"
+   ]
+  }
+ ],
+ "fragments": {
+  "977267875": {
+   "fragment_id": "977267775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Programa do XVII Governo Constitucional realça a necessidade de ser criado um ambiente favorável e atractivo para as empresas como um dos elementos fundamentais para o desenvolvimento da economia portuguesa. Em vista deste objectivo, o referido Programa afirma a necessidade de se promover a simplificação dos procedimentos, em particular os que se prendem com os licenciamentos e as autorizações administrativas.\n\nCom efeito, a celeridade dos procedimentos ligados aos licenciamentos e às autorizações administrativas e a melhoria na articulação entre o respectivo regime e outros com ele conexos, designadamente os previstos na legislação ambiental, podem dar um contributo importante para abreviar os processos de decisão e, assim, acelerar o acesso ao desenvolvimento de actividades económicas.\n\nNeste quadro, o presente decreto-lei dá concretização a uma das medidas previstas no SIMPLEX'07, concedendo aos requerentes dos pedidos de licenciamento e autorizações nele previstos a possibilidade de instruírem, desde logo, os respectivos pedidos com os pareceres legalmente obrigatórios, evitando, deste modo, a necessidade da sua ulterior obtenção pelas entidades licenciadoras ou coordenadoras do licenciamento.\n\nPor outro lado, define, também, algumas medidas que visam melhorar a articulação entre o licenciamento ou autorização e alguns procedimentos a montante em matéria ambiental, como sejam os relativos à avaliação de impacte ambiental, à atribuição de licença ambiental e do título de emissão de gases com efeito de estufa.\n\nNeste âmbito, o presente decreto-lei abre a possibilidade dos procedimentos de atribuição de licença ambiental poderem ser iniciados em estágio inicial do procedimento de avaliação de impacte ambiental (AIA) e decorrerem com algum paralelismo.\n\nPelo presente decreto-lei é, ainda, introduzida a possibilidade de atribuição da licença de instalação - no caso de instalações industriais - ou de produção ou estabelecimento - no caso de instalações do Sistema Eléctrico Nacional (SEN), do Sistema Nacional de Gás Natural (SNGN) e do Sistema Petrolífero Nacional (SPN) - a projectos sujeitos a licença ambiental, ainda que esta não esteja já concedida, estabelecendo-se, porém, um conjunto de requisitos prévios a observar pelo promotor interessado no sentido de assegurar a sua obtenção.\n\nFinalmente, o presente decreto-lei vem ainda permitir a atribuição de licença de produção prévia ao relatório de conformidade ambiental do projecto de execução (RECAPE) no caso das energias renováveis. Este procedimento viabiliza a antecipação de encomenda de equipamentos e a celebração de contratos de financiamento, agilizando o consequente desenvolvimento das energias renováveis em Portugal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "977268075": {
+   "fragment_id": "977267975",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se aos procedimentos de autorização ou licenciamento de instalações industriais, de instalações do Sistema Eléctrico Nacional (SEN), do Sistema Nacional de Gás Natural (SNGN) e do Sistema Petrolífero Nacional (SPN), previstos no Decreto-Lei n.º 69/2003, de 10 de Abril, com as alterações introduzidas pelo Decreto-Lei n.º 183/2007, de 9 de Maio, e nos Decretos-Leis n.os 29/2006, 30/2006 e 31/2006, todos de 15 de Fevereiro, e respectivas legislações regulamentares."
+  },
+  "977268275": {
+   "fragment_id": "977268175",
+   "type": 11,
+   "heading": "Artigo 2.º — Pareceres de entidades administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pareceres de entidades administrativas\n\na prestar à entidade licenciadora\n\n1 - Sempre que, no âmbito da legislação reguladora de procedimentos de autorização ou licenciamento das instalações referidas no artigo anterior, esteja prevista a obtenção pela entidade licenciadora ou coordenadora do licenciamento de pareceres a emitir por outras entidades administrativas, para a instrução daqueles procedimentos, pode o requerente substituir-se àquela e solicitá-los directamente à entidade competente para a sua emissão, apresentando-os no âmbito do respectivo procedimento, considerando-se, desta forma, preenchida a respectiva formalidade legal ou regulamentar.\n\n2 - Os pedidos de emissão de parecer formulados pelo requerente nos termos do número anterior devem obrigatoriamente mencionar a disposição legal que os prevê, ou o fim a que se destinam, bem como incluir uma descrição sumária do projecto objecto do parecer."
+  },
+  "1182896675": {
+   "fragment_id": "977268375",
+   "type": 11,
+   "heading": "Artigo 3.º — Apresentação do pedido de licença ambiental",
+   "in_force_from": "2008-08-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 173/2008 - Diário da República n.º 164/2008, Série I de 2008-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2008-453550), em vigor a partir de 2008-08-31."
+   ],
+   "markdown": "###### Artigo 3.º — Apresentação do pedido de licença ambiental\n\n1 - (Revogado);\n\n2 - Tratando-se de projectos submetidos a procedimento de avaliação de impacte ambiental (AIA), baseada em estudo prévio ou anteprojecto, o pedido a que se refere o número anterior pode ser apresentado logo que o promotor seja notificado da declaração de impacte ambiental (DIA) favorável ou condicionalmente favorável.\n\n3 - O disposto no presente artigo não se aplica aos processos de licenciamento industrial regulados pelo Decreto-Lei n.º 69/2003, de 10 de Abril.\n\n> Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 173/2008 - Diário da República n.º 164/2008, Série I de 2008-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2008-453550), em vigor a partir de 2008-08-31."
+  },
+  "1182906175": {
+   "fragment_id": "977268575",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento excepcional para atribuição de licença de instalação ou de produção",
+   "in_force_from": "2008-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 173/2008 - Diário da República n.º 164/2008, Série I de 2008-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2008-453550), em vigor a partir de 2008-08-31."
+   ],
+   "markdown": "###### Artigo 4.º — Procedimento excepcional para atribuição de licença de instalação ou de produção\n\n1 - Em situações excepcionais, reconhecidas por despacho do ministro responsável pela área de actividade e desde que o requerente seja titular de DIA favorável ou favorável condicionada emitida com base num projecto de execução ou de parecer favorável de conformidade do projecto de execução com a DIA, quando esta tenha sida emitida com base num estudo prévio ou anteprojecto, expressos pela autoridade de AIA, e preencha os demais requisitos para a concessão do licenciamento do exercício da actividade, pode a entidade licenciadora, a requerimento do promotor, conceder a licença de instalação, no caso de instalações industriais, ou a licença de produção ou de estabelecimento, no caso de instalações do SEN, SNGN e SPN, previamente à atribuição da respectiva licença ambiental ou do título de emissão de gases com efeito de estufa, quando aplicáveis.\n\n2 - Sem prejuízo do disposto no número anterior, as licenças ou autorizações de construção e de exploração da respectiva instalação carecem da atribuição prévia da respectiva licença ambiental e de título de emissão de gases com efeito de estufa, sempre que aplicáveis.\n\n3 - A recusa de atribuição da licença ambiental ou do título de emissão de gases com efeito de estufa determina a automática caducidade da licença atribuída nos termos do n.º 1 do presente artigo.\n\n4 - O disposto neste artigo não prejudica o cumprimento de eventuais prazos para a entrada em laboração da instalação, decorrentes da lei ou das condições fixadas no licenciamento, sem prejuízo do seu eventual ajustamento pela entidade licenciadora em virtude das circunstâncias decorrentes da aplicação deste artigo.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 173/2008 - Diário da República n.º 164/2008, Série I de 2008-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2008-453550), em vigor a partir de 2008-08-31."
+  },
+  "977268875": {
+   "fragment_id": "977268775",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de electricidade a partir de fontes de energia renovável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de electricidade a partir de fontes de energia renovável\n\n1 - A emissão de uma DIA favorável ou condicionalmente favorável relativa a projectos, em fase de estudo prévio ou anteprojecto, de produção de electricidade a partir de fontes de energia renovável determina a emissão imediata, por parte da Direcção-Geral de Energia e Geologia, da licença de estabelecimento, condicionada à verificação da conformidade ambiental do relatório de conformidade ambiental do projecto de execução (RECAPE).\n\n2 - Sem prejuízo do disposto no número anterior, as licenças ou autorizações de construção e de exploração dos projectos previstos nesse número carecem da respectiva verificação da conformidade ambiental do RECAPE."
+  },
+  "977269075": {
+   "fragment_id": "977268975",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor e aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor e aplicação no tempo\n\n1 - O presente decreto-lei entra vigor no dia seguinte ao da sua publicação.\n\n2 - O regime previsto no presente decreto-lei aplica-se a procedimentos administrativos que se encontrem pendentes à data da sua entrada em vigor."
+  },
+  "977269275": {
+   "fragment_id": "977269175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Julho de 2007.  - José Sócrates Carvalho Pinto de Sousa - Humberto Delgado Ubach Chaves Rosa - Fernando Pereira Serrasqueiro.\n\nPromulgado em 4 de Agosto de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 9 de Agosto de 2007.\n\nPelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças."
+  }
+ }
+}

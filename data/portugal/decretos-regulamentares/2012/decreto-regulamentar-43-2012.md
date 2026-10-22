@@ -1,0 +1,282 @@
+---
+schema_version: '1.0'
+id: pt:dre:177831:por
+title: Decreto Regulamentar n.º 43/2012
+short_title: null
+summary: Aprova a orgânica da Inspeção-Geral das Atividades Culturais
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 43/2012
+official_date: null
+publication_date: '2012-05-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 102/2012, Série I de 2012-05-25
+  number: '102'
+  series: I
+  supplement: null
+  pages: 2777 - 2779
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/05/10200/0277702779.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/43/2012/05/25/p/dre/pt/html
+  oj: null
+  dre: '177831'
+  dre_path: /dr/detalhe/decreto-regulamentar/43-2012-177831
+  internal: pt:dre:177831:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-2012-177831
+  metadata_url: https://data.dre.pt/eli/decregul/43/2012/05/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-2012-177831
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-07-25T00:00:00Z'
+integrity:
+  source_sha256: 1cf43c8e4f4c9fc851d61a845cce9649d27986368dd79738d729d5ec00778de1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-43-177831.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Inspecção Geral das Actividades Culturais
+- Definição de Competências
+- Inspetor Geral
+- Orgânica
+- Quadro de Pessoal
+- Subinspector Geral
+relationships:
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/126-a/2011/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126-a/2011/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/3/2010/06/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/3/2010/06/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/81/2007/07/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/81/2007/07/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 43/2012
+
+de 25 de maio
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos, e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e da melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Neste contexto, e em consonância com o disposto na orgânica da Presidência do Conselho de Ministros, instituída pelo [Decreto-Lei n.º 126-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2011-642010), de 29 de dezembro, o presente decreto regulamentar aprova a estrutura orgânica da Inspeção-Geral das Atividades Culturais (IGAC), mantendo no seu âmbito de atuação a responsabilidade pela atividade de inspeção dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura, e pela fiscalização e superintendência na proteção da propriedade intelectual e dos recintos e espetáculos de natureza artística.
+
+Embora mantendo uma estrutura mista, que se justifica pela necessidade de assegurar a flexibilidade orgânica, diminui-se significativamente o número de membros da comissão de classificação de conteúdos culturais, de entretenimento e de espetáculos de natureza artística, sendo o cargo de presidente exercido, por inerência, pelo inspetor-geral.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 24.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Inspeção-Geral das Atividades Culturais, abreviadamente designada por IGAC, é um serviço da administração direta do Estado, dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A IGAC tem por missão controlar e auditar os serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura e fiscalizar e superintender na proteção do direito de autor, dos direitos conexos e dos recintos e espetáculos de natureza artística.
+
+2 - A IGAC prossegue as seguintes atribuições:
+
+a) Realizar auditoria técnica, financeira e de gestão aos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;
+
+b) Exercer a atividade de supervisão, fiscalização e monitorização na área do direito de autor, dos direitos conexos, dos espetáculos de natureza artística e dos recintos fixos destinados à sua realização;
+
+c) Promover e assegurar, nos termos da lei, o registo, a classificação e a autenticação de obras e de conteúdos culturais;
+
+d) Assegurar a certificação das atividades na área dos recintos fixos e espetáculos de natureza artística, bem como das entidades de gestão coletiva do direito de autor e dos direitos conexos, sem prejuízo das competências legalmente atribuídas a outras entidades;
+
+e) Efetuar inquéritos, sindicâncias, averiguações e peritagens, bem como assegurar a instrução dos processos de contraordenação cuja competência lhe esteja legalmente atribuída;
+
+f) Colaborar com as autoridades judiciárias e os órgãos de polícia criminal nas áreas de atividade integradas na missão da IGAC;
+
+g) Promover a proteção da propriedade intelectual, através de ações de informação junto das autoridades judiciárias e de outras autoridades administrativas ou policiais, bem como da comunidade escolar, académica, científica e empresarial;
+
+h) Promover a criação de uma rede de intercâmbio de informação entre entidades que atuem no âmbito de matérias integradas na missão da IGAC;
+
+i) Recolher, tratar e divulgar informação relevante na área do direito de autor e dos direitos conexos, bem como dos recintos fixos e espetáculos de natureza artística;
+
+j) Propor ou prestar apoio técnico na formulação de medidas legislativas em matérias integradas na missão da IGAC;
+
+k) Avaliar e controlar a qualidade dos serviços prestados ao cidadão por entidades dependentes ou sob a tutela do membro do Governo responsável pela área da cultura, através de inquéritos de satisfação;
+
+l) Programar e coordenar a aplicação de medidas tendentes a promover de forma permanente e sistemática políticas de qualidade e de inovação, através da criação e divulgação de instrumentos de planeamento, de avaliação e de controlo;
+
+m) Promover a publicitação de atos, decisões e outros instrumentos relevantes relativos ao registo, classificação e autenticação de obras e conteúdos, bem como à certificação de atividades na área do direito de autor e dos direitos conexos e dos recintos fixos e espetáculos de natureza artística.
+
+###### Artigo 3.º — Órgãos
+
+1 - A IGAC é dirigida por um inspetor-geral, coadjuvado por um subinspetor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.
+
+2 - É ainda órgão da IGAC a comissão de classificação.
+
+###### Artigo 4.º — Inspetor-geral
+
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao inspetor-geral:
+
+a) Dirigir e coordenar a atividade da IGAC e emitir as diretivas, ordens e instruções a que deve obedecer a atuação dos inspetores;
+
+b) Determinar a realização de ações de fiscalização e a instauração e instrução de processos de contraordenação cuja competência esteja no âmbito das atribuições da IGAC;
+
+c) Solicitar informações e propor a realização de inquéritos e sindicâncias, designadamente em resultado das ações inspetivas;
+
+d) Propor os critérios de reconhecimento de pessoas singulares ou coletivas que possuam experiência e conhecimentos técnicos especializados para a realização de perícias determinadas por autoridades judiciárias no âmbito das atribuições da IGAC.
+
+2 - Os critérios a que se refere a alínea d) do número anterior, bem como a tabela de custos de exames periciais, são aprovados por portaria dos membros do Governo responsáveis pelas áreas da cultura, das finanças e da justiça.
+
+3 - O subinspetor-geral exerce as competências que lhe sejam delegadas ou subdelegadas pelo inspetor-geral, competindo-lhe substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Comissão de classificação
+
+1 - A comissão de classificação é o órgão deliberativo em matéria de classificação de conteúdos culturais, de entretenimento e de espetáculos de natureza artística, em especial, no que respeita à classificação etária e às classificações especiais legalmente previstas.
+
+2 - A comissão de classificação é composta pelo inspetor-geral, que preside, e por 15 membros designados, preferencialmente, de entre licenciados com conhecimentos nas áreas da educação, psicologia, sociologia, direito, comunicação e artes do espetáculo.
+
+3 - Os membros da comissão de classificação são designados por despacho do membro do Governo responsável pela área da cultura, por um período de três anos, renovável por iguais períodos.
+
+4 - Compete à comissão de classificação:
+
+a) Aprovar os critérios de classificação;
+
+b) Pronunciar-se sobre projetos de diplomas em matérias da sua competência, quando lhe seja solicitado;
+
+c) Elaborar e aprovar o regulamento interno de funcionamento.
+
+5 - Compete ao presidente da comissão de classificação:
+
+a) Convocar e presidir à sessão plenária sempre que esta não seja convocada pelo membro do Governo responsável pela área da cultura;
+
+b) Designar o vice-presidente da comissão de entre os seus membros, que o substitui nas suas faltas e impedimentos;
+
+c) Designar de entre os membros da comissão de classificação os membros que integram as áreas especializadas.
+
+6 - Os membros da comissão de classificação que não detenham uma relação jurídica de emprego público têm direito a senhas de presença nos termos a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura.
+
+7 - A comissão de classificação funciona por áreas especializadas, sendo a sua composição e demais regras de funcionamento definidas em regulamento interno.
+
+###### Artigo 6.º — Representantes locais
+
+1 - São representantes locais da IGAC:
+
+a) Os delegados municipais;
+
+b) Os delegados técnicos tauromáquicos.
+
+2 - O exercício de funções dos representantes locais e as respetivas competências são definidos em legislação específica.
+
+###### Artigo 7.º — Tipo de organização interna
+
+A organização interna dos serviços da IGAC obedece ao seguinte modelo estrutural misto:
+
+a) Na área de inspeção externa, o modelo de estrutura matricial;
+
+b) Nas restantes áreas, o modelo de estrutura hierarquizada.
+
+###### Artigo 8.º — Receitas
+
+1 - A IGAC dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A IGAC dispõe, ainda, das seguintes receitas próprias:
+
+a) O produto da venda de publicações e outros trabalhos editados pela IGAC, e respetivos direitos de autor;
+
+b) As taxas e outras receitas resultantes do exercício da sua atividade;
+
+c) O produto das coimas legalmente previstas;
+
+d) Outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+3 - As receitas previstas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da IGAC durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.
+
+###### Artigo 9.º — Despesas
+
+Constituem despesas da IGAC as resultantes de encargos decorrentes da prossecução das respetivas atribuições.
+
+###### Artigo 10.º — Mapa de cargos de direção
+
+Os lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa do anexo ao presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 11.º — Estatuto remuneratório dos chefes de equipa multidisciplinar
+
+Aos chefes de equipas multidisciplinares é atribuído, em função da natureza e complexidade das funções, um estatuto remuneratório equiparado a diretor de serviços ou um acréscimo remuneratório correspondente a (euro) 188,80, até ao limite do estatuto remuneratório fixado para os chefes de divisão, não podendo o estatuto remuneratório equiparado a diretor de serviços ser atribuído a mais de uma chefia de equipa.
+
+###### Artigo 12.º — Norma revogatória
+
+É revogado o [Decreto Regulamentar n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/81-2007-636413), de 30 de julho, republicado em anexo ao [Decreto Regulamentar n.º 3/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2010-335220), de 23 de junho.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 29 de março de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz.
+
+**Promulgado em 15 de maio de 2012.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 17 de maio de 2012.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**
+
+## ANEXO — (a que se refere o artigo 10.º)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/10200/0277702779.pdf))](https://files.diariodarepublica.pt/1s/2012/05/10200/0277702779.pdf)

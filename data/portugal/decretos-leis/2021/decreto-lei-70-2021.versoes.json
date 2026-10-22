@@ -1,0 +1,469 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:168903099:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-168903130",
+ "dre_path": "/dr/detalhe/decreto-lei/70-2021-168903099",
+ "source_lastmod": "2025-02-11",
+ "versions": [
+  {
+   "date": "2021-08-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "168989491",
+    "168989492",
+    "168989493",
+    "168989494",
+    "168989495",
+    "168989496",
+    "168989497",
+    "168989498",
+    "168989499",
+    "168989500",
+    "168989501",
+    "168989502",
+    "168989503",
+    "168989504",
+    "168989505",
+    "168989506",
+    "168989507",
+    "168989508",
+    "168989509",
+    "168989510",
+    "168989511",
+    "168989512",
+    "168989513",
+    "168989514",
+    "168989515",
+    "168989516",
+    "168989517",
+    "168989518",
+    "168989519",
+    "168989520",
+    "168989521",
+    "168989522",
+    "168989523",
+    "168989524",
+    "168989525",
+    "168989526",
+    "168989528"
+   ]
+  },
+  {
+   "date": "2025-02-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:906913019:por",
+     "title": "Decreto-Lei n.º 8/2025",
+     "published": "2025-02-11",
+     "dre_path": "/dr/detalhe/decreto-lei/8-2025-906913019"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "168989491",
+    "168989492",
+    "168989493",
+    "168989494",
+    "168989495",
+    "168989496",
+    "907099682",
+    "168989498",
+    "168989499",
+    "168989500",
+    "168989501",
+    "168989502",
+    "168989503",
+    "168989504",
+    "168989505",
+    "168989506",
+    "907099683",
+    "168989508",
+    "168989509",
+    "168989510",
+    "907099684",
+    "168989512",
+    "168989513",
+    "168989514",
+    "168989515",
+    "907099685",
+    "168989517",
+    "907099686",
+    "168989519",
+    "168989520",
+    "168989521",
+    "168989522",
+    "168989523",
+    "168989524",
+    "168989525",
+    "168989526",
+    "168989527",
+    "168989528"
+   ]
+  }
+ ],
+ "fragments": {
+  "168989491": {
+   "fragment_id": "168903131",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 70/2021\n\nde 3 de agosto\n\nSumário: Aprova o regime jurídico do ensino individual e do ensino doméstico.\n\nA liberdade de aprender e ensinar e o direito à educação são reconhecidos e garantidos enquanto direitos fundamentais, respetivamente, no n.º 1 do artigo 43.º e no artigo 73.º da Constituição da República Portuguesa (CRP). Para a prossecução do direito à educação a CRP atribui ao Estado um conjunto de tarefas, tais como «cooperar com os pais na educação dos filhos», conforme previsto na alínea c) do n.º 2 do artigo 67.º e no n.º 1 do artigo 68.º, a par dos direitos e deveres dos pais na educação dos filhos, previstos no n.º 5 do artigo 36.º, todos da CRP.\n\nPor outro lado, a Declaração Universal dos Direitos Humanos, à qual o n.º 2 do artigo 16.º da CRP atribui valor constitucional, para além de consagrar os direitos já referidos em matéria educativa, abre o leque das entidades a quem esses direitos são atribuídos, nomeadamente aos pais, cabendo a estes a prioridade do direito de escolher o género de educação a dar aos seus filhos, atento o disposto no n.º 3 do artigo 26.º da mesma Declaração. A educação, enquanto direito de todos e dever do Estado e da família, é promovida e incentivada com a colaboração da sociedade, visando o pleno desenvolvimento da pessoa, a preparação para o exercício da cidadania e a qualificação profissional, conforme decorre da CRP, do Direito Internacional, da Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, na sua redação atual e demais legislação complementar.\n\nCom efeito, o direito à participação dos pais na educação dos filhos e os demais princípios constitucionalmente consagrados de suporte ao direito fundamental à educação encontraram acolhimento na Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, na sua redação atual.\n\nAssim, não esquecendo a tarefa de garantir o direito fundamental à educação e ao ensino, o Estado Português, à semelhança da maior parte dos Estados europeus, tem vindo a permitir que o processo de ensino-aprendizagem ocorra fora do contexto escolar, ao abrigo do regime de ensino individual e de ensino doméstico e, por esse facto, torna-se necessário implementar uma medida legislativa que salvaguarde as legítimas expectativas criadas e que garanta a todos os intervenientes e destinatários a segurança e a certeza jurídica, no quadro do ordenamento jurídico-legal que postula a ideia de proteção da confiança dos cidadãos e da comunidade na ordem jurídica e na atuação do Estado.\n\nNa assunção plena do cumprimento da relação de complementaridade entre a família e o Estado, importa regular estas possibilidades de ensino/aprendizagem, mas, simultaneamente, garantir que as crianças e jovens não veem o seu direito à educação com qualidade prejudicado, competindo ao Estado prever o cumprimento pleno do currículo nacional, a participação efetiva dos mesmos nas atividades de ensino desenvolvidas na escola e a monitorização do progresso dos alunos e proteger alunos em risco de abandono ou de insucesso continuado e acompanhar o respetivo desenvolvimento curricular, assegurando que todos, independentemente da oferta e do regime de ensino frequentado, alcançam os objetivos dos ensinos básico e secundário estabelecidos, respetivamente, nos artigos 7.º e 9.º da Lei n.º 46/86, de 14 de outubro, na sua redação atual, bem como os princípios, visão, valores e áreas de competência previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.\n\nO presente decreto-lei visa dar resposta às famílias que, por razões de natureza estritamente pessoal ou de mobilidade profissional, pretendem assumir uma maior responsabilidade na educação dos seus filhos ou educandos, optando por desenvolver o processo educativo fora do contexto escolar, garantindo-se, assim, a liberdade dos pais que optam por estes regimes de ensino, bem como a flexibilidade e adequação ao ritmo de desenvolvimento e aprendizagens de cada criança e jovem.\n\nNa concretização dessa opção garante-se que a organização do currículo prossegue os princípios, visão, valores e áreas de competência do Perfil dos Alunos à Saída da Escolaridade Obrigatória, tendo como referência os documentos curriculares em vigor para cada disciplina, nomeadamente as aprendizagens essenciais para cada ciclo de escolaridade do ensino básico, bem como as aprendizagens essenciais dos cursos científico-humanísticos.\n\nO presente decreto-lei procede à aprovação do regime jurídico do ensino individual e do ensino doméstico, definindo as regras e os procedimentos relativos à matrícula e frequência, bem como ao acompanhamento e monitorização e à certificação das aprendizagens.\n\nCom vista a criar condições que permitam o sucesso escolar do aluno, garantindo o cumprimento dos referenciais curriculares em vigor, institui-se o protocolo de colaboração como instrumento privilegiado para estabelecer a organização do percurso educativo do aluno, os procedimentos de acompanhamento e monitorização do seu processo educativo, bem como as responsabilidades do encarregado de educação e da escola de matrícula.\n\nPor último, garante-se aos alunos que se encontram matriculados nas escolas da rede pública do Ministério da Educação, nos regimes de ensino regulados pelo presente decreto-lei, nos termos gerais, o acesso à ação social escolar, às atividades de enriquecimento curricular e à disponibilização gratuita dos manuais escolares.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação dos Estabelecimentos de Ensino Particular e Cooperativo, a Associação Nacional de Pais em Ensino Doméstico, a CONFAP - Confederação Nacional das Associações de Pais, as Associações Sindicais dos Professores dos Ensinos Básico e Secundário, o Conselho das Escolas e o Conselho Nacional de Educação.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 22/2021, de 3 de maio, e no desenvolvimento do regime jurídico estabelecido pela Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, na sua redação atual, e nos termos das alíneas b) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "168989492": {
+   "fragment_id": "168903132",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "168989493": {
+   "fragment_id": "168903133",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei procede à primeira alteração ao Decreto-Lei n.º 55/2018, de 6 de julho, que estabelece o currículo dos ensinos básico e secundário e os princípios orientadores da avaliação das aprendizagens.\n\n2 - O presente decreto-lei aprova o regime jurídico aplicável ao ensino individual e ao ensino doméstico, definindo as regras e os procedimentos relativos à matrícula e frequência, bem como de acompanhamento e monitorização e de certificação das aprendizagens, tendo em vista o Perfil dos Alunos à Saída da Escolaridade Obrigatória."
+  },
+  "168989494": {
+   "fragment_id": "168903134",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 55/2018, de 6 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 55/2018, de 6 de julho\n\nO artigo 8.º do Decreto-Lei n.º 55/2018, de 6 de julho, passa a ter a seguinte redação:\n\n«Artigo 8.º\n\n[...]\n\n1 - O ensino a distância consubstancia-se numa modalidade especial de educação escolar dos ensinos básico e secundário.\n\n2 - As ofertas educativas e formativas previstas no artigo anterior e a modalidade especial de educação escolar de ensino a distância são objeto de regulamentação por portaria dos membros do Governo responsáveis pela área da educação e, sempre que aplicável, da formação profissional.»"
+  },
+  "168989495": {
+   "fragment_id": "168903135",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\nO disposto no presente decreto-lei aplica-se:\n\na) Aos alunos abrangidos pela escolaridade obrigatória que pretendem frequentar o ensino básico geral e os cursos científico-humanísticos nos regimes de ensino individual e de ensino doméstico;\n\nb) Aos agrupamentos de escolas e às escolas não agrupadas da rede pública, bem como aos estabelecimentos de ensino particular e cooperativo."
+  },
+  "168989496": {
+   "fragment_id": "168903136",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Ensino doméstico» aquele que é lecionado no domicílio do aluno, por um familiar ou por pessoa que com ele habite;\n\nb) «Ensino individual» aquele que é ministrado por um professor habilitado a um único aluno fora de um estabelecimento de ensino;\n\nc) «Escola de matrícula» aquela em que o aluno se encontra matriculado;\n\nd) «Portefólio do aluno» o registo do percurso curricular e pedagógico-didático do aluno, organizado com a documentação e a informação das evidências do trabalho e das aprendizagens por ele realizadas, apresentadas em suportes variados, tendo por referência o estabelecido no protocolo de colaboração;\n\ne) «Professor-tutor» o docente designado como responsável pelo acompanhamento do aluno por parte da escola de matrícula;\n\nf) «Protocolo de colaboração» o acordo estabelecido, mediante negociação prévia, entre o encarregado de educação e a direção da escola onde o aluno se encontra matriculado, no qual se consagram as responsabilidades das partes, designadamente no que diz respeito à organização do percurso educativo do aluno e à operacionalização do currículo no quadro do referencial educativo estabelecido no Perfil dos Alunos à Saída da Escolaridade Obrigatória;\n\ng) «Responsável educativo»:\n\ni) No ensino doméstico, o familiar do aluno ou a pessoa que com ele habita e que junto do aluno desenvolve o currículo;\n\nii) No ensino individual, o professor indicado pelo encarregado de educação, de entre os que, junto do aluno, desenvolvem o currículo."
+  },
+  "168989497": {
+   "fragment_id": "168903137",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo individual do aluno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo individual do aluno\n\n1 - O percurso curricular do aluno é documentado de forma sistemática no processo individual a que se refere o artigo 11.º do Estatuto do Aluno e Ética Escolar, aprovado pela Lei n.º 51/2012, de 5 de setembro.\n\n2 - O processo individual é atualizado ao longo da escolaridade obrigatória, de modo a proporcionar uma visão global do percurso educativo do aluno, facilitando o seu acompanhamento e permitindo, sempre que necessário, uma intervenção adequada.\n\n3 - A atualização do processo individual é da responsabilidade da escola de matrícula, em colaboração com o encarregado de educação do aluno.\n\n4 - O processo individual acompanha o aluno sempre que este mude de escola de matrícula, sendo a escola de origem a responsável pela sua disponibilização à escola de destino.\n\n5 - Do processo individual do aluno devem constar, para além dos seus dados de identificação, todos os elementos relativos ao seu percurso e à sua evolução, designadamente:\n\na) O protocolo de colaboração;\n\nb) Relatórios individuais das provas de aferição, quando aplicável;\n\nc) Relatórios médicos e ou de avaliação psicológica, sempre que úteis ao percurso educativo e formativo do aluno;\n\nd) Registo da participação em projetos no âmbito do voluntariado ou de natureza artística, cultural, desportiva, entre outros, de relevante interesse social e educativo, desenvolvidos pelo aluno, devidamente certificados pelas respetivas entidades promotoras e previstos no protocolo de colaboração;\n\ne) Outros considerados relevantes.\n\n6 - O disposto nos números anteriores está sujeito aos limites constitucionais e legais, designadamente ao previsto na legislação sobre proteção de dados, no que diz respeito ao acesso e tratamento de dados e ao sigilo profissional."
+  },
+  "168989498": {
+   "fragment_id": "168903138",
+   "type": 1,
+   "heading": "Capítulo II — Ensino individual e ensino doméstico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Ensino individual e ensino doméstico"
+  },
+  "168989499": {
+   "fragment_id": "168903139",
+   "type": 11,
+   "heading": "Artigo 6.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objetivos\n\n1 - Os regimes do ensino individual e do ensino doméstico previstos no presente decreto-lei visam dar resposta às famílias que, por razões de natureza estritamente pessoal ou de mobilidade profissional, pretendem assumir uma maior responsabilidade na educação dos seus filhos ou educandos.\n\n2 - No respeito pelos princípios, visão, valores e áreas de competências previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória, as ofertas de ensino básico geral e de cursos científico-humanísticos nos regimes a que se refere o número anterior visam assegurar aos alunos:\n\na) Uma formação geral comum, proporcionando-lhes o desenvolvimento das aprendizagens previstas nos documentos curriculares, tendo em vista o prosseguimento de estudos de nível secundário;\n\nb) Uma formação geral e uma formação específica alinhadas com os seus interesses em termos de prosseguimento de estudos, procurando, através da organização do respetivo percurso formativo, desenvolver as aprendizagens definidas nos documentos curriculares para os cursos de Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades e Artes Visuais."
+  },
+  "168989500": {
+   "fragment_id": "168903140",
+   "type": 11,
+   "heading": "Artigo 7.º — Organização do currículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organização do currículo\n\n1 - A organização do currículo nos regimes do ensino individual e do ensino doméstico prossegue os princípios, visão, valores e áreas de competências do Perfil dos Alunos à Saída da Escolaridade Obrigatória, tendo como referência os documentos curriculares em vigor para cada disciplina, nomeadamente:\n\na) As aprendizagens essenciais para cada ciclo de escolaridade do ensino básico;\n\nb) As aprendizagens essenciais das disciplinas dos cursos científico-humanísticos.\n\n2 - Sem prejuízo do disposto no número anterior, devem ainda ser considerados os temas obrigatórios de Cidadania e Desenvolvimento definidos na Estratégia Nacional de Educação para a Cidadania, constantes do anexo ao presente decreto-lei e do qual faz parte integrante."
+  },
+  "168989501": {
+   "fragment_id": "168903141",
+   "type": 1,
+   "heading": "Capítulo III — Frequência, matrícula, protocolo de colaboração e intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Frequência, matrícula, protocolo de colaboração e intervenientes"
+  },
+  "168989502": {
+   "fragment_id": "168903142",
+   "type": 8,
+   "heading": "Secção I — Frequência, matrícula e renovação, protocolo de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Frequência, matrícula e renovação, protocolo de colaboração"
+  },
+  "168989503": {
+   "fragment_id": "168903143",
+   "type": 11,
+   "heading": "Artigo 8.º — Frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Frequência\n\nA frequência do ensino básico geral e dos cursos científico-humanísticos, nos regimes do ensino individual e do ensino doméstico, está sujeita a:\n\na) Matrícula;\n\nb) Renovação da matrícula;\n\nc) Celebração de um protocolo de colaboração entre a escola de matrícula e o encarregado de educação."
+  },
+  "168989504": {
+   "fragment_id": "168903144",
+   "type": 11,
+   "heading": "Artigo 9.º — Matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Matrícula\n\n1 - O pedido de matrícula é apresentado nos termos dos normativos em vigor, sem prejuízo do disposto nos números seguintes.\n\n2 - O pedido de matrícula é efetuado pelo encarregado de educação mediante a apresentação de um requerimento dirigido ao diretor da escola da área de residência do aluno que disponha da oferta educativa pretendida, contendo:\n\na) A identificação do encarregado de educação, pela indicação do nome, do domicílio e dos números de identificação civil e fiscal, conforme constam do cartão do cidadão ou de outro documento legalmente equivalente;\n\nb) A identificação do responsável educativo, pela indicação do nome, do domicílio e dos números de identificação civil e fiscal, conforme constam do cartão do cidadão ou de outro documento legalmente equivalente;\n\nc) A identificação do educando e ano de escolaridade que pretende frequentar;\n\nd) O regime de ensino que pretende frequentar;\n\ne) A exposição dos fundamentos de facto e de direito em que se baseia o pedido.\n\n3 - O requerimento deve ser acompanhado do certificado de registo criminal, no caso do ensino individual, e do certificado de habilitações académicas do responsável educativo, de acordo com as habilitações exigidas nos termos do disposto nos n.os 1 e 2 do artigo 16.º\n\n4 - Podem ainda acompanhar o requerimento outros documentos que o encarregado de educação considere relevantes para a apreciação do pedido.\n\n5 - A matrícula é complementada pela realização de uma entrevista ao aluno e ao encarregado de educação, mediante convocatória da escola de matrícula, com vista a conhecer o aluno e o seu projeto educativo.\n\n6 - No caso de opção por um estabelecimento de ensino particular e cooperativo, o pedido de matrícula é apresentado na escola selecionada pelo encarregado de educação.\n\n7 - A apresentação de requerimentos e o envio de documentação, designadamente para efeitos de matrícula nos ensinos individual e doméstico, bem como as notificações realizadas ao abrigo do presente decreto-lei são efetuados preferencialmente através de correio eletrónico ou plataforma eletrónica, ficando, neste último caso, disponíveis para consulta na área reservada do utilizador.\n\n8 - Nos casos em que não seja possível ou adequada a apresentação de requerimentos, o envio de documentação ou a notificação através de correio eletrónico ou de plataforma eletrónica, é admissível o recurso às restantes formas de notificação previstas no n.º 1 do artigo 112.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual."
+  },
+  "168989505": {
+   "fragment_id": "168903145",
+   "type": 11,
+   "heading": "Artigo 10.º — Renovação de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Renovação de matrícula\n\nA renovação de matrícula nos regimes de ensino estabelecidos no presente decreto-lei depende:\n\na) Do cumprimento do protocolo de colaboração por parte do encarregado de educação;\n\nb) Da renovação ou celebração de novo protocolo de colaboração."
+  },
+  "168989506": {
+   "fragment_id": "168903146",
+   "type": 11,
+   "heading": "Artigo 11.º — Decisão do pedido de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Decisão do pedido de matrícula\n\n1 - Apresentado o pedido de matrícula nos termos do artigo 9.º, cabe ao diretor da escola:\n\na) No ensino doméstico, decidir sobre o mesmo, no prazo de 15 dias úteis a contar da data de registo da entrada do pedido na escola;\n\nb) No ensino individual, emitir parecer, no prazo de 10 dias úteis a contar da data de registo da entrada do pedido na escola.\n\n2 - Para efeitos do disposto no número anterior, o diretor da escola pode solicitar parecer prévio às estruturas de coordenação e supervisão pedagógica da escola, que o emitem no prazo de cinco dias úteis.\n\n3 - Para efeitos do disposto na alínea b) do n.º 1, o diretor da escola remete o parecer e demais documentação relativa ao aluno, ao diretor-geral dos Estabelecimentos Escolares, que decide sobre o pedido no prazo de 15 dias úteis a contar da data de registo da entrada do parecer no respetivo serviço.\n\n4 - A decisão de deferimento é notificada, no prazo de 10 dias úteis:\n\na) Ao encarregado de educação, no caso do ensino doméstico;\n\nb) Ao encarregado de educação e à escola na qual foi apresentado o pedido de matrícula, no caso do ensino individual.\n\n5 - A matrícula deve considerar-se condicional e só se torna efetiva após a celebração do protocolo de colaboração a que se refere o artigo seguinte, devendo tal condição constar da notificação a que se refere o número anterior.\n\n6 - A notificação prevista no n.º 4 é acompanhada de uma minuta de protocolo de colaboração, remetida pelo diretor da escola ao encarregado de educação.\n\n7 - No prazo de 10 dias úteis a contar do dia útil seguinte ao da notificação prevista no n.º 4, o encarregado de educação remete ao diretor da escola uma proposta de protocolo de colaboração com base na minuta referida no número anterior, a qual é objeto de apreciação por parte do diretor, dando-se início a um processo de negociação do protocolo pelas partes, por um prazo não superior a 10 dias úteis.\n\n8 - Há lugar ao indeferimento do pedido de matrícula quando designadamente:\n\na) O responsável educativo indicado no requerimento de matrícula:\n\ni) Não possa assegurar presencialmente o desenvolvimento do currículo;\n\nii) Não seja detentor dos requisitos habilitacionais previstos nos n.os 1 e 2 do artigo 16.º;\n\niii) Não seja familiar do aluno ou pessoa que com ele habita, no caso do ensino doméstico;\n\nb) O requerimento não contenha os elementos a que se refere o n.º 2 do artigo 9.º;\n\nc) O requerimento não seja acompanhado da documentação a que se refere o n.º 3 do artigo 9.º\n\n9 - A decisão de indeferimento do pedido é notificada, no prazo de 10 dias úteis, ao encarregado de educação, com indicação dos respetivos fundamentos de facto e de direito, após audição daquele pelo órgão competente para a decisão, por prazo não inferior a 10 dias úteis.\n\n10 - No caso do ensino individual, sem prejuízo do disposto no número anterior, a decisão é ainda notificada à escola onde o encarregado de educação apresentou o pedido de matrícula.\n\n11 - Da decisão de indeferimento do pedido de matrícula cabe recurso hierárquico a interpor no prazo máximo de 10 dias úteis a contar do dia útil seguinte para:\n\na) O membro do Governo responsável pela área da educação, no caso do ensino individual;\n\nb) O diretor-geral dos Estabelecimentos Escolares, no caso do ensino doméstico."
+  },
+  "168989507": {
+   "fragment_id": "168903147",
+   "type": 11,
+   "heading": "Artigo 12.º — Protocolo de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Protocolo de colaboração\n\n1 - O protocolo de colaboração tem, em regra, a duração de um ano letivo, podendo ser objeto de renovação ou alteração, por acordo das partes.\n\n2 - Do protocolo de colaboração deve constar, designadamente:\n\na) O objeto do acordo;\n\nb) Os intervenientes no processo educativo do aluno e respetivas responsabilidades;\n\nc) A explicitação da gestão do currículo que vai ser adotada, no sentido de permitir à escola de matrícula aferir:\n\ni) O desenvolvimento das aprendizagens essenciais, em consonância com as áreas de competências definidas no Perfil dos Alunos à Saída da Escolaridade Obrigatória;\n\nii) O trabalho sobre os temas da Estratégia Nacional de Educação para a Cidadania, de acordo com o previsto no n.º 2 do artigo 7.º;\n\nd) As formas de acompanhamento e monitorização das aprendizagens realizadas pelo aluno, incluindo a calendarização de, pelo menos, uma sessão presencial, a realizar na escola de matrícula e coincidente com o final do ano letivo, contando com a presença do aluno e do responsável educativo, e ainda, caso manifeste essa vontade, do encarregado de educação;\n\ne) A assunção do português como língua de escolarização, sem prejuízo de partes do currículo poderem ser ministradas numa das línguas estrangeiras que integram o currículo nacional através da abordagem bilingue, desde que se verifiquem os seguintes requisitos cumulativos:\n\ni) O responsável educativo apresente prova de proficiência linguística na respetiva língua estrangeira;\n\nii) A escola de matrícula disponha dessa oferta educativa;\n\nf) A possibilidade de a equipa multidisciplinar de apoio à educação inclusiva da escola de matrícula aconselhar o responsável educativo e o encarregado de educação acerca da adoção de práticas pedagógicas inclusivas;\n\ng) A realização das provas de equivalência à frequência, das provas finais do ensino básico e dos exames finais nacionais, nos termos da legislação em vigor;\n\nh) A realização das provas de aferição, nos termos dos normativos em vigor;\n\ni) A obrigação de se manterem atualizados os dados relativos à identificação das partes, bem como outros elementos relevantes;\n\nj) O período de vigência.\n\n3 - Do protocolo de colaboração pode ainda constar a possibilidade de utilização de espaços da escola pelo aluno, designadamente o centro de recursos educativos e a biblioteca.\n\n4 - Na concretização do previsto nas alíneas c) e d) do n.º 2 assume particular importância o registo organizado, com recurso ao portefólio, da informação relativa ao trabalho e às aprendizagens realizados pelo aluno.\n\n5 - Nas situações previstas no n.º 3, os alunos que se encontram matriculados em escolas da rede pública ficam abrangidos pelo seguro escolar, aplicando-se-lhes o disposto na Portaria n.º 413/99, de 8 de junho, na sua redação atual.\n\n6 - Em casos excecionais, devidamente justificados e comprovados, a sessão presencial a que se refere a alínea d) do n.º 2 pode, a requerimento do encarregado de educação, ser substituída por meio adequado de comunicação, designadamente através de videoconferência.\n\n7 - O requerimento a que se refere o número anterior deve:\n\na) Explicitar as razões que impedem a comparência física na escola, por parte do encarregado de educação ou do aluno;\n\nb) Ser acompanhado do portefólio e demais documentação necessária para o efeito;\n\nc) Demonstrar a existência de meios técnicos adequados para o efeito;\n\nd) Ser dirigido ao diretor da escola, a quem compete a decisão.\n\n8 - O protocolo de colaboração, bem como as respetivas alterações são remetidos, para depósito, à Direção-Geral dos Estabelecimentos Escolares (DGEstE), nos 10 dias úteis subsequentes à data da sua assinatura."
+  },
+  "168989508": {
+   "fragment_id": "168903148",
+   "type": 8,
+   "heading": "Secção II — Intervenientes e suas responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Intervenientes e suas responsabilidades"
+  },
+  "168989509": {
+   "fragment_id": "168903149",
+   "type": 11,
+   "heading": "Artigo 13.º — Intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Intervenientes\n\n1 - São intervenientes no processo educativo do aluno:\n\na) A escola de matrícula;\n\nb) O encarregado de educação;\n\nc) O professor-tutor;\n\nd) O responsável educativo.\n\n2 - São, ainda, intervenientes, no caso do ensino individual:\n\na) Outros docentes do aluno, sempre que existam;\n\nb) A DGEstE."
+  },
+  "168989510": {
+   "fragment_id": "168903150",
+   "type": 11,
+   "heading": "Artigo 14.º — Escola de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Escola de matrícula\n\n1 - A escola de matrícula assegura o acompanhamento, a monitorização e a certificação das aprendizagens.\n\n2 - A escola de matrícula assegura ainda:\n\na) O registo do aluno na aplicação informática destinada a esse efeito, após deferimento do pedido de matrícula;\n\nb) O apoio ao encarregado de educação, nos termos definidos no protocolo de colaboração.\n\n3 - Cabe ao diretor da escola de matrícula:\n\na) Conduzir o processo de matrícula do aluno;\n\nb) Designar o professor-tutor;\n\nc) Celebrar com o encarregado de educação um protocolo de colaboração, de acordo com o previsto no artigo 12.º;\n\nd) Remeter um exemplar do protocolo de cooperação, bem como das respetivas alterações à DGEstE;\n\ne) Garantir que o encarregado de educação é informado acerca dos documentos curriculares em vigor, bem como de outros documentos relevantes para o processo educativo do aluno;\n\nf) Informar as autoridades competentes das situações que penalizem os direitos do aluno ou o seu normal desenvolvimento psicossocial;\n\ng) Proceder ao cancelamento da autorização de matrícula, no caso do ensino doméstico, ouvido o encarregado de educação, por prazo não inferior a 10 dias úteis, caso se verifique:\n\ni) O incumprimento do estabelecido no protocolo de colaboração, salvo se o encarregado de educação demonstrar que tal não lhe é imputável;\n\nii) A não aprovação, por dois anos consecutivos, no final de cada ciclo do ensino básico;\n\niii) A não aprovação, por dois anos consecutivos, nas disciplinas terminais do 11.º ano ou no final do ensino secundário;\n\nh) Notificar o encarregado de educação da decisão relativa ao cancelamento da autorização de matrícula no ensino doméstico;\n\ni) Propor ao diretor-geral dos Estabelecimentos Escolares o cancelamento da autorização de matrícula, no caso do ensino individual, observando-se, com as necessárias adaptações, o disposto na alínea g).\n\n4 - A decisão sobre o cancelamento de matrícula no ensino doméstico é notificada ao encarregado de educação, sendo acompanhada da informação relativa à obrigatoriedade de o aluno transitar para o ensino básico geral ou para os cursos científico-humanísticos, a frequentar num estabelecimento de ensino, nos termos do n.º 2 do artigo 20.º, com efeitos a partir do décimo dia útil seguinte ao da respetiva notificação.\n\n5 - Da decisão relativa ao cancelamento de matrícula cabe recurso hierárquico para o membro do Governo responsável pela área da educação, a interpor no prazo de 10 dias úteis a contar do dia útil seguinte ao da notificação.\n\n6 - A impugnação a que se refere o número anterior não tem efeito suspensivo, salvo quando o órgão competente para conhecer do recurso, oficiosamente ou a pedido do interessado, considere que a execução imediata causa prejuízos irreparáveis ou de difícil reparação ao aluno e a suspensão não cause prejuízo de maior gravidade para o interesse público.\n\n7 - O professor-tutor a que se refere a alínea b) do n.º 3 deve ter o perfil de competências adequado ao desempenho das funções previstas nos n.os 1, 3 e 4 do artigo 18.º"
+  },
+  "168989511": {
+   "fragment_id": "168903151",
+   "type": 11,
+   "heading": "Artigo 15.º — Encarregado de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Encarregado de educação\n\nO encarregado de educação assume especiais responsabilidades, no desenvolvimento do processo educativo do aluno, cabendo-lhe, designadamente:\n\na) Apresentar na escola de matrícula o portefólio do seu educando, com a regularidade definida no protocolo de colaboração, de modo a permitir o acompanhamento e a aferição da evolução do seu processo de aprendizagem;\n\nb) Inscrever o aluno, nos termos e prazos estabelecidos na legislação em vigor, para a realização de:\n\ni) Provas de aferição;\n\nii) Provas finais do ensino básico;\n\niii) Provas de equivalência à frequência;\n\niv) Exames finais nacionais;\n\nc) Garantir a presença do aluno nas provas e exames a que se refere a alínea anterior;\n\nd) Comparecer na escola de matrícula sempre que notificado para o efeito;\n\ne) Celebrar o protocolo de colaboração e cumprir as obrigações dele decorrentes."
+  },
+  "168989512": {
+   "fragment_id": "168903152",
+   "type": 11,
+   "heading": "Artigo 16.º — Responsável educativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Responsável educativo\n\n1 - No ensino doméstico, o responsável educativo deve ser detentor, pelo menos, do grau de licenciatura.\n\n2 - No ensino individual, o responsável educativo e, sempre que existam, os demais docentes responsáveis pelo desenvolvimento do currículo devem estar habilitados para a docência, nos termos da legislação em vigor.\n\n3 - Cabe, em especial, ao responsável educativo, assegurar o desenvolvimento do currículo em consonância com o previsto no artigo 7.º e no protocolo de colaboração, adotando a língua portuguesa como língua de escolarização, ou no caso de um projeto bilingue, fazer prova de proficiência linguística na língua estrangeira do currículo nacional em que pretende desenvolver parte do currículo.\n\n4 - No regime de ensino individual cabe ainda ao responsável educativo:\n\na) Acompanhar o processo de avaliação das aprendizagens do aluno, nas suas modalidades formativa e sumativa, desenvolvendo os procedimentos necessários à recolha, análise e registo da informação sobre as aprendizagens, de acordo com o estabelecido no protocolo de colaboração;\n\nb) Fornecer informação ao aluno, ao encarregado de educação e ao professor-tutor sobre o desenvolvimento das aprendizagens realizadas.\n\n5 - O responsável educativo tem a seu a cargo um único aluno ou educando, exceto quando os alunos ou educandos pertencem ao mesmo agregado familiar."
+  },
+  "168989513": {
+   "fragment_id": "168903153",
+   "type": 11,
+   "heading": "Artigo 17.º — Direção-Geral dos Estabelecimentos Escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direção-Geral dos Estabelecimentos Escolares\n\n1 - Sem prejuízo das atribuições que lhe estão legalmente atribuídas, cabe à DGEstE prestar colaboração às escolas abrangidas pelo presente decreto-lei no âmbito do ensino individual e do ensino doméstico, designadamente na elaboração da minuta do protocolo de colaboração.\n\n2 - No ensino individual, cabe ao diretor-geral dos Estabelecimentos Escolares decidir sobre:\n\na) O pedido de matrícula;\n\nb) O cancelamento da autorização de matrícula, sob proposta do diretor da escola.\n\n3 - A decisão relativa ao cancelamento de matrícula no ensino individual é notificada ao encarregado de educação e à escola, aplicando-se o disposto nos n.os 4 a 6 do artigo 14.º"
+  },
+  "168989514": {
+   "fragment_id": "168903154",
+   "type": 1,
+   "heading": "Capítulo IV — Acompanhamento, avaliação e certificação das aprendizagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Acompanhamento, avaliação e certificação das aprendizagens"
+  },
+  "168989515": {
+   "fragment_id": "168903155",
+   "type": 11,
+   "heading": "Artigo 18.º — Acompanhamento e monitorização do processo educativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Acompanhamento e monitorização do processo educativo\n\n1 - O acompanhamento e monitorização do processo educativo a realizar pela escola de matrícula, através do professor-tutor, concretiza-se mediante a discussão do portefólio, que congrega as evidências das aprendizagens realizadas e a sua evolução.\n\n2 - Para além da autoavaliação do aluno, o portefólio é acompanhado:\n\na) Da apreciação do trabalho desenvolvido, elaborada pelo responsável educativo;\n\nb) De outros elementos tidos como relevantes.\n\n3 - O portefólio e a documentação referida no número anterior são remetidos à escola de matrícula, com a regularidade definida no protocolo de colaboração, para apreciação pelo professor-tutor em reunião conjunta com o aluno e o encarregado de educação.\n\n4 - Após a reunião referida no número anterior, o professor-tutor elabora uma apreciação síntese, com eventuais recomendações, a remeter ao encarregado de educação, pelo diretor, no prazo de 10 dias úteis a contar do dia útil seguinte à data da discussão do portefólio."
+  },
+  "168989516": {
+   "fragment_id": "168903156",
+   "type": 11,
+   "heading": "Artigo 19.º — Conclusão de ciclo e de nível de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conclusão de ciclo e de nível de ensino\n\n1 - Para efeitos de conclusão de ciclo ou de nível de ensino, os alunos realizam na escola de matrícula, nos termos e períodos definidos na legislação em vigor:\n\na) No ensino básico, as provas de equivalência à frequência nos anos terminais de cada ciclo;\n\nb) No ensino secundário, as provas de equivalência à frequência nos anos terminais de cada disciplina.\n\n2 - Nas situações previstas no número anterior, sempre que exista oferta de prova final do ensino básico ou, no ensino secundário, de exame final nacional, estas substituem as provas de equivalência à frequência."
+  },
+  "168989517": {
+   "fragment_id": "168903157",
+   "type": 11,
+   "heading": "Artigo 20.º — Transição entre regimes de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transição entre regimes de ensino\n\n1 - A transição, no decurso do ano letivo, para os regimes do ensino individual ou do ensino doméstico obedece às regras estabelecidas no artigo 9.º\n\n2 - A transição do ensino individual ou do ensino doméstico para a frequência do ensino básico geral ou dos cursos científico-humanísticos, num estabelecimento de ensino, obedece às regras de matrícula nessas ofertas."
+  },
+  "168989518": {
+   "fragment_id": "168903158",
+   "type": 11,
+   "heading": "Artigo 21.º — Conclusão e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Conclusão e certificação\n\nAos alunos que concluam o ensino básico geral e os cursos científico-humanísticos, ao abrigo dos regimes previstos no presente decreto-lei, é conferido o direito à emissão de certificado e diploma, em regra em suporte digital, pela escola de matrícula."
+  },
+  "168989519": {
+   "fragment_id": "168903159",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "168989520": {
+   "fragment_id": "168903160",
+   "type": 11,
+   "heading": "Artigo 22.º — Direitos e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Direitos e garantias\n\n1 - Aos alunos que se encontram matriculados no ensino individual e no ensino doméstico, em escolas da rede pública do Ministério da Educação, é aplicável o disposto:\n\na) Na Lei n.º 47/2006, de 28 de agosto, na sua redação atual, e respetiva regulamentação, quanto à gratuitidade e reutilização dos manuais escolares;\n\nb) No Decreto-Lei n.º 55/2009, de 2 de março, na sua redação atual, quanto à ação social escolar;\n\nc) Na Portaria n.º 644-A/2015, de 24 de agosto, e demais legislação em vigor, quanto às atividades de enriquecimento curricular.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, os manuais escolares a disponibilizar gratuitamente são os que se encontram formalmente adotados pela respetiva escola de matrícula."
+  },
+  "168989521": {
+   "fragment_id": "168903161",
+   "type": 11,
+   "heading": "Artigo 23.º — Acompanhamento e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Acompanhamento e monitorização\n\n1 - O acompanhamento da implementação do ensino individual e do ensino doméstico é assegurado por uma equipa que integra elementos da Direção-Geral da Educação, da DGEstE e da Direção-Geral de Estatísticas da Educação e Ciência.\n\n2 - As escolas de matrícula incluem, nos seus relatórios de autoavaliação, as conclusões do acompanhamento da implementação dos protocolos de colaboração, celebrados ao abrigo do presente decreto-lei.\n\n3 - Os serviços a que se refere o n.º 1 elaboram e enviam ao membro do Governo responsável pela área da educação um relatório anual relativo à implementação e ao desenvolvimento do ensino individual e do ensino doméstico.\n\n4 - Para efeitos do disposto no número anterior, a equipa a que se refere o n.º 1 pode ouvir outras instituições, designadamente as confederações e associações de pais e encarregados de educação."
+  },
+  "168989522": {
+   "fragment_id": "168903162",
+   "type": 11,
+   "heading": "Artigo 24.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Referências legais\n\nAs referências constantes no presente decreto-lei aos órgãos de direção, administração e gestão dos estabelecimentos do ensino público, bem como às estruturas de coordenação e supervisão pedagógica, consideram-se feitas para os órgãos e estruturas com competência equivalente em cada estabelecimento de ensino particular e cooperativo."
+  },
+  "168989523": {
+   "fragment_id": "168903163",
+   "type": 11,
+   "heading": "Artigo 25.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regime subsidiário\n\nEm tudo o que não estiver especialmente regulado no presente decreto-lei aplica-se subsidiariamente e com as necessárias adaptações o disposto no Decreto-Lei n.º 54/2018, de 6 de julho, na sua redação atual, no Decreto-Lei n.º 55/2018, de 6 de julho, e nas Portarias n.os 223-A/2018, de 3 de agosto, e 226-A/2018, de 7 de agosto."
+  },
+  "168989524": {
+   "fragment_id": "168903164",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Norma transitória\n\n1 - No ensino doméstico, até à conclusão do ciclo ou nível de ensino em que os alunos se encontrem matriculados à data de entrada em vigor do presente decreto-lei, não se aplica o disposto no n.º 1 do artigo 16.º\n\n2 - No ensino individual ou no ensino doméstico, até à conclusão do ciclo ou nível de ensino em que os alunos se encontrem matriculados à data de entrada em vigor do presente decreto-lei, não se aplica o disposto no n.º 5 do artigo 16.º"
+  },
+  "168989525": {
+   "fragment_id": "168903165",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nÉ revogada a Portaria n.º 69/2019, de 26 de fevereiro."
+  },
+  "168989526": {
+   "fragment_id": "168903166",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "168989528": {
+   "fragment_id": "168903168",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 7.º)\n\nConstituem domínios da estratégia de educação para a cidadania:\n\na) Domínios obrigatórios a desenvolver em todos os ciclos e níveis de ensino:\n\ni) Direitos humanos (civis e políticos, económicos, sociais e culturais, e de solidariedade);\n\nii) Igualdade de género;\n\niii) Interculturalidade (diversidade cultural e religiosa);\n\niv) Desenvolvimento sustentável;\n\nv) Educação ambiental;\n\nvi) Saúde (promoção da saúde, saúde pública, alimentação e exercício físico);\n\nb) Domínios a desenvolver pelo menos em dois ciclos do ensino básico:\n\ni) Sexualidade (diversidade, direitos, saúde sexual e reprodutiva);\n\nii) Media;\n\niii) Instituições e participação democrática;\n\niv) Literacia financeira e educação para o consumo;\n\nv) Segurança rodoviária;\n\nvi) Risco;\n\nc) Domínios opcionais:\n\ni) Empreendedorismo (nas vertentes económica e social);\n\nii) Mundo do trabalho;\n\niii) Segurança, defesa e paz;\n\niv) Bem-estar animal;\n\nv) Voluntariado;\n\nvi) Outros a definir de acordo com as necessidades de educação para a cidadania.\n\n114462683"
+  },
+  "907099682": {
+   "fragment_id": "168903137",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo individual do aluno",
+   "in_force_from": "2025-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2025 - Diário da República n.º 29/2025, Série I de 2025-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019), em vigor a partir de 2025-02-12"
+   ],
+   "markdown": "###### Artigo 5.º — Processo individual do aluno\n\n1 - O percurso curricular do aluno é documentado de forma sistemática no processo individual a que se refere o artigo 11.º do Estatuto do Aluno e Ética Escolar, aprovado pela Lei n.º 51/2012, de 5 de setembro.\n\n2 - O processo individual é atualizado ao longo da escolaridade obrigatória, de modo a proporcionar uma visão global do percurso educativo do aluno, facilitando o seu acompanhamento e permitindo, sempre que necessário, uma intervenção adequada.\n\n3 - A atualização do processo individual é da responsabilidade da escola de matrícula, em colaboração com o encarregado de educação do aluno.\n\n4 - O processo individual acompanha o aluno sempre que este mude de escola de matrícula, sendo a escola de origem a responsável pela sua disponibilização à escola de destino.\n\n5 - Do processo individual do aluno devem constar, para além dos seus dados de identificação, todos os elementos relativos ao seu percurso e à sua evolução, designadamente:\n\na) O protocolo de colaboração;\n\nb) Relatórios individuais das provas de Monitorização da Aprendizagem (ModA), quando aplicável;\n\nc) Relatórios médicos e ou de avaliação psicológica, sempre que úteis ao percurso educativo e formativo do aluno;\n\nd) Registo da participação em projetos no âmbito do voluntariado ou de natureza artística, cultural, desportiva, entre outros, de relevante interesse social e educativo, desenvolvidos pelo aluno, devidamente certificados pelas respetivas entidades promotoras e previstos no protocolo de colaboração;\n\ne) Outros considerados relevantes.\n\n6 - O disposto nos números anteriores está sujeito aos limites constitucionais e legais, designadamente ao previsto na legislação sobre proteção de dados, no que diz respeito ao acesso e tratamento de dados e ao sigilo profissional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2025 - Diário da República n.º 29/2025, Série I de 2025-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019), em vigor a partir de 2025-02-12"
+  },
+  "907099683": {
+   "fragment_id": "168903147",
+   "type": 11,
+   "heading": "Artigo 12.º — Protocolo de colaboração",
+   "in_force_from": "2025-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2025 - Diário da República n.º 29/2025, Série I de 2025-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019), em vigor a partir de 2025-02-12"
+   ],
+   "markdown": "###### Artigo 12.º — Protocolo de colaboração\n\n1 - O protocolo de colaboração tem, em regra, a duração de um ano letivo, podendo ser objeto de renovação ou alteração, por acordo das partes.\n\n2 - Do protocolo de colaboração deve constar, designadamente:\n\na) O objeto do acordo;\n\nb) Os intervenientes no processo educativo do aluno e respetivas responsabilidades;\n\nc) A explicitação da gestão do currículo que vai ser adotada, no sentido de permitir à escola de matrícula aferir:\n\ni) O desenvolvimento das aprendizagens essenciais, em consonância com as áreas de competências definidas no Perfil dos Alunos à Saída da Escolaridade Obrigatória;\n\nii) O trabalho sobre os temas da Estratégia Nacional de Educação para a Cidadania, de acordo com o previsto no n.º 2 do artigo 7.º;\n\nd) As formas de acompanhamento e monitorização das aprendizagens realizadas pelo aluno, incluindo a calendarização de, pelo menos, uma sessão presencial, a realizar na escola de matrícula e coincidente com o final do ano letivo, contando com a presença do aluno e do responsável educativo, e ainda, caso manifeste essa vontade, do encarregado de educação;\n\ne) A assunção do português como língua de escolarização, sem prejuízo de partes do currículo poderem ser ministradas numa das línguas estrangeiras que integram o currículo nacional através da abordagem bilingue, desde que se verifiquem os seguintes requisitos cumulativos:\n\ni) O responsável educativo apresente prova de proficiência linguística na respetiva língua estrangeira;\n\nii) A escola de matrícula disponha dessa oferta educativa;\n\nf) A possibilidade de a equipa multidisciplinar de apoio à educação inclusiva da escola de matrícula aconselhar o responsável educativo e o encarregado de educação acerca da adoção de práticas pedagógicas inclusivas;\n\ng) A realização das provas de equivalência à frequência, das provas finais do ensino básico e dos exames finais nacionais, nos termos da legislação em vigor;\n\nh) A realização das provas de Monitorização da Aprendizagem (ModA), nos termos dos normativos em vigor;\n\ni) A obrigação de se manterem atualizados os dados relativos à identificação das partes, bem como outros elementos relevantes;\n\nj) O período de vigência.\n\n3 - Do protocolo de colaboração pode ainda constar a possibilidade de utilização de espaços da escola pelo aluno, designadamente o centro de recursos educativos e a biblioteca.\n\n4 - Na concretização do previsto nas alíneas c) e d) do n.º 2 assume particular importância o registo organizado, com recurso ao portefólio, da informação relativa ao trabalho e às aprendizagens realizados pelo aluno.\n\n5 - Nas situações previstas no n.º 3, os alunos que se encontram matriculados em escolas da rede pública ficam abrangidos pelo seguro escolar, aplicando-se-lhes o disposto na Portaria n.º 413/99, de 8 de junho, na sua redação atual.\n\n6 - Em casos excecionais, devidamente justificados e comprovados, a sessão presencial a que se refere a alínea d) do n.º 2 pode, a requerimento do encarregado de educação, ser substituída por meio adequado de comunicação, designadamente através de videoconferência.\n\n7 - O requerimento a que se refere o número anterior deve:\n\na) Explicitar as razões que impedem a comparência física na escola, por parte do encarregado de educação ou do aluno;\n\nb) Ser acompanhado do portefólio e demais documentação necessária para o efeito;\n\nc) Demonstrar a existência de meios técnicos adequados para o efeito;\n\nd) Ser dirigido ao diretor da escola, a quem compete a decisão.\n\n8 - O protocolo de colaboração, bem como as respetivas alterações são remetidos, para depósito, à Direção-Geral dos Estabelecimentos Escolares (DGEstE), nos 10 dias úteis subsequentes à data da sua assinatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2025 - Diário da República n.º 29/2025, Série I de 2025-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019), em vigor a partir de 2025-02-12"
+  },
+  "907099684": {
+   "fragment_id": "168903151",
+   "type": 11,
+   "heading": "Artigo 15.º — Encarregado de educação",
+   "in_force_from": "2025-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2025 - Diário da República n.º 29/2025, Série I de 2025-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019), em vigor a partir de 2025-02-12"
+   ],
+   "markdown": "###### Artigo 15.º — Encarregado de educação\n\nO encarregado de educação assume especiais responsabilidades, no desenvolvimento do processo educativo do aluno, cabendo-lhe, designadamente:\n\na) Apresentar na escola de matrícula o portefólio do seu educando, com a regularidade definida no protocolo de colaboração, de modo a permitir o acompanhamento e a aferição da evolução do seu processo de aprendizagem;\n\nb) Inscrever o aluno, nos termos e prazos estabelecidos na legislação em vigor, para a realização de:\n\ni) Provas de Monitorização da Aprendizagem (ModA);\n\nii) Provas finais do ensino básico;\n\niii) Provas de equivalência à frequência;\n\niv) Exames finais nacionais;\n\nc) Garantir a presença do aluno nas provas e exames a que se refere a alínea anterior;\n\nd) Comparecer na escola de matrícula sempre que notificado para o efeito;\n\ne) Celebrar o protocolo de colaboração e cumprir as obrigações dele decorrentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2025 - Diário da República n.º 29/2025, Série I de 2025-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019), em vigor a partir de 2025-02-12"
+  },
+  "907099685": {
+   "fragment_id": "168903156",
+   "type": 11,
+   "heading": "Artigo 19.º — Conclusão de ciclo e de nível de ensino",
+   "in_force_from": "2025-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2025 - Diário da República n.º 29/2025, Série I de 2025-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019), em vigor a partir de 2025-02-12"
+   ],
+   "markdown": "###### Artigo 19.º — Conclusão de ciclo e de nível de ensino\n\n1 - Para efeitos de conclusão de ciclo ou de nível de ensino, os alunos realizam na escola de matrícula, nos termos e períodos definidos na legislação em vigor:\n\na) No ensino básico, as provas de equivalência à frequência nos anos terminais de cada ciclo;\n\nb) No ensino secundário, as provas de equivalência à frequência nos anos terminais de cada disciplina.\n\n2 - Nas situações previstas no número anterior, sempre que exista oferta de prova final do ensino básico ou, no ensino secundário, de exame final nacional, estas substituem as provas de equivalência à frequência.\n\n3 - Os alunos abrangidos por medidas adicionais de suporte à aprendizagem e à inclusão, com adaptações curriculares significativas, nos termos do Decreto-Lei n.º 54/2018, de 6 de julho, na sua redação atual, não realizam provas de equivalência à frequência, provas finais do ensino básico, nem exames finais nacionais, para os efeitos da aprovação, da aprovação em disciplinas e da conclusão de ciclo ou de nível de ensino.\n\n4 - Nos casos a que se refere o número anterior, é aplicável o regime de avaliação das aprendizagens e de progressão estabelecido no Decreto-Lei n.º 54/2018, de 6 de julho, na sua redação atual, designadamente o disposto nos respetivos artigos 28.º, n.os 1 e 2, e 29.º, n.º 2, sendo as correspondentes competências exercidas pela escola de matrícula nos termos previstos no presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2025 - Diário da República n.º 29/2025, Série I de 2025-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019), em vigor a partir de 2025-02-12"
+  },
+  "907099686": {
+   "fragment_id": "168903158",
+   "type": 11,
+   "heading": "Artigo 21.º — Conclusão e certificação",
+   "in_force_from": "2025-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2025 - Diário da República n.º 29/2025, Série I de 2025-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019), em vigor a partir de 2025-02-12"
+   ],
+   "markdown": "###### Artigo 21.º — Conclusão e certificação\n\n1 - Aos alunos que concluam o ensino básico geral e os cursos científico-humanísticos, ao abrigo dos regimes previstos no presente decreto-lei, é conferido o direito à emissão de certificado e diploma, em regra em suporte digital, pela escola de matrícula.\n\n2 - Aos alunos abrangidos por medidas de suporte à aprendizagem e à inclusão, nos termos do Decreto-Lei n.º 54/2018, de 6 de julho, na sua redação atual, que concluam o ensino básico geral e os cursos científico-humanísticos, ao abrigo dos regimes previstos no presente decreto-lei, é conferido o direito à emissão de certificado e diploma, em regra em suporte digital, pela escola de matrícula, sendo aplicável o disposto no artigo 30.º do Decreto-Lei n.º 54/2018, de 6 de julho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2025 - Diário da República n.º 29/2025, Série I de 2025-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2025-906913019), em vigor a partir de 2025-02-12"
+  },
+  "168989527": {
+   "fragment_id": "168903167",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de julho de 2021. - António Luís Santos da Costa - Tiago Brandão Rodrigues.\n\nPromulgado em 26 de julho de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 29 de julho de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:685425:por
+title: Portaria n.º 1141/93
+short_title: null
+summary: Fixa o prazo para apresentação de candidaturas ao Sistema de Incentivos à Modernização do Comércio (SIMC)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, do Planeamento e da Administração do Território, da Indústria e Energia, das Obras Públicas, Transportes
+  e Comunicações e do Comércio e Turismo
+proposing_entity: null
+official_number: 1141/93
+official_date: null
+publication_date: '1993-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 260/1993, Série I-B de 1993-11-06
+  number: '260'
+  series: I
+  supplement: null
+  pages: 6221 - 6221
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/11/260b00/62216221.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1141/1993/11/06/p/dre/pt/html
+  oj: null
+  dre: '685425'
+  dre_path: /dr/detalhe/portaria/1141-1993-685425
+  internal: pt:dre:685425:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1141-1993-685425
+  metadata_url: https://data.dre.pt/eli/port/1141/1993/11/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1141-1993-685425
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-11-06T00:00:00Z'
+integrity:
+  source_sha256: fe801443ab8a60371673a77dc44bbf42b7ec640e332792effd34db9c2e83d2da
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-1141-685425.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Programa Nacional de Interesse Comunitário de Incentivo a Actividade Produtiva
+- Madeira.região Autónoma
+- Açores
+- Sistema de Incentivos a Modernização do Comércio
+- Comércio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/75-a/1991/02/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/75-a/1991/02/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1141/93
+
+de 6 de Novembro
+
+O Sistema de Incentivos à Modernização do Comércio (SIMC), aprovado pelo [Decreto-Lei n.º 75-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1991-537851), de 15 de Fevereiro, teve como objectivo contribuir para a modernização do aparelho comercial, incentivando a inovação e a transformação das empresas comerciais.
+
+Considerando que um novo sistema de incentivos ao comércio está já em preparação, que o SIMC tem um período de vigência que termina a 31 de Dezembro de 1993, conforme o artigo 1.º da decisão da comissão que o adoptou, e considerando os procedimentos de gestão a observar no âmbito do referido Sistema;
+
+Ao abrigo do disposto no artigo 19.º do [Decreto-Lei n.º 75-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1991-537851), de 15 de Fevereiro:
+
+Manda o Governo, pelos Ministros das Finanças, do Planeamento e da Administração do Território, da Indústria e Energia, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, o seguinte:
+
+1.º O prazo para apresentação de candidaturas ao Sistema de Incentivos à Modernização do Comércio (SIMC), criado pelo [Decreto-Lei n.º 75-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1991-537851), de 15 de Fevereiro, termina no dia 15 de Novembro de 1993.
+
+2.º O presente diploma aplica-se directamente às Regiões Autónomas dos Açores e da Madeira, sem necessidade de regulamentação específica.
+
+Ministérios das Finanças, do Planeamento e da Administração do Território, da Indústria e Energia, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
+
+**Assinada em 22 de Outubro de 1993.**
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Planeamento e da Administração do Território, Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota, Secretária de Estado do Planeamento e do Desenvolvimento Regional. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.

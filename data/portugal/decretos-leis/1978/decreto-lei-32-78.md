@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:448521:por
+title: Decreto-Lei n.º 32/78
+short_title: null
+summary: Determina que a Academia Nacional de Belas-Artes seja uma instituição de utilidade pública, dotada de personalidade
+  jurídica, sob tutela da Secretaria de Estado da Cultura
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças
+proposing_entity: null
+official_number: 32/78
+official_date: null
+publication_date: '1978-02-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 34/1978, Série I de 1978-02-10
+  number: '34'
+  series: I
+  supplement: null
+  pages: 327 - 329
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/02/03400/03270329.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '448521'
+  dre_path: /dr/detalhe/decreto-lei/32-1978-448521
+  internal: pt:dre:448521:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1978-448521
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1978-448521
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-04-28T00:00:00Z'
+integrity:
+  source_sha256: ed6848d8716840bebbb0867f5b086b59747e477be085c9c9bf8bb343fb5bca55
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-32-448521.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:531462:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 32/78
+
+de 10 de Fevereiro
+
+Quando, em 1836, Manuel da Silva Passos instituiu em Lisboa e no Porto duas Academias de Belas-Artes, no quadro da política democrática e cultural do Setembrismo, o Governo visava não somente criar uma instrução artística que o vintismo em vão procurava organizar, mas também promover uma educação artística generalizada e defender o património artístico nacional.
+
+Foi notável o papel das Academias de Belas-Artes de Lisboa e do Porto, sobretudo na função docente que lhes cabia. Em 1911, a I República separou esta função, que passou a ser atribuída às Escolas de Belas-Artes das duas cidades, de outras funções referentes à museologia e aos monumentos nacionais, objecto da atenção dos Conselhos de Arte e Arqueologia de Lisboa, Porto e Coimbra, coordenadas no Conselho Superior de Belas-Artes.
+
+Faltava, porém, como faltara na Academia Setembrista para além de intervenções eventuais, uma função específica de investigação no domínio da história da arte portuguesa e, assim, a Academia Nacional de Belas-Artes, criada em 1932, embora limitada por opções ideológicas e conceitos passadistas expressos no diploma legal da sua fundação, procurou promover tais estudos, vindo a registar contribuições valiosas de alguns dos seus membros mais ilustres.
+
+A profunda transformação da cultura portuguesa que a instituição de um Estado democrático deve significar não pode deixar, porém, de se reflectir na missão sócio-cultural que compete às academias dos nossos dias.
+
+Essa missão, no caso da Academia Nacional de Belas-Artes, deve definir-se na promoção e desenvolvimento de trabalhos de investigação e estudos que permitam fazer sair a historiografia da arte portuguesa da situação em que se encontra, bem como na defesa do património artístico nacional, na sua inventariação e classificação e, de um modo geral, no incremento da vida artística do País.
+
+Nestes termos, de acordo com o que foi proposto pela Academia Nacional de Belas-Artes:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º A Academia Nacional de Belas-Artes, sucessora das extintas Academia Real de Belas-Artes e Academia Portuguesa de Belas-Artes, é uma instituição de utilidade pública, dotada de personalidade jurídica, sob tutela da Secretaria de Estado da Cultura.
+
+###### Art. 2.º A Academia Nacional de Belas-Artes tem as seguintes atribuições e competências:
+
+a) Promover a investigação, reflexão e divulgação dos problemas postos pelas artes visuais, especialmente em Portugal, através, designadamente, da realização ou da participação em reuniões científicas, seminários, conferências, exposições e publicações e da utilização de meios áudio-visuais;
+
+b) Emitir pareceres, quando consultada oficialmente, sobre assuntos abrangidos pelos seus fins estatutários;
+
+c) Colaborar com os organismos competentes na elaboração do inventário descritivo e crítico dos monumentos e obras de arte nacionais ou estrangeiras existentes em Portugal ou no estrangeiro, quando, neste caso, interessem à actividade artística nacional, ao seu estudo, história ou tradições;
+
+d) Colaborar com os organismos competentes na classificação, conservação e recuperação do património arqueológico, monumental e artístico do País e seus valores ecológicos e paisagísticos;
+
+e) Colaborar com os organismos competentes na definição de um programa de enriquecimento do património arqueológico e artístico do País, pronunciando-se, em especial, acerca de aquisições de bens culturais destinados a museus ou outros organismos;
+
+f) Colaborar com os organismos competentes em trabalhos de índole museológica, especialmente os respeitantes à instalação de doações feitas ao Estado ou a instituições públicas;
+
+g) Organizar um centro de informação sobre arte portuguesa e arte estrangeira existente ou relacionada com Portugal, compreendendo arquivos documentais e formas de comunicação adequadas:
+
+h) Manter e ampliar um arquivo fotográfico sistemático, especialmente de obras de arte portuguesas e estrangeiras, relativas a Portugal ou existentes no País, apoiado num laboratório apropriado;
+
+i) Organizar e manter actualizada uma bibliografia de história de arte portuguesa e ciências afins;
+
+j) Manter e actualizar a sua biblioteca de forma a completar os núcleos bibliográficos existentes e a criar novos núcleos;
+
+l) Colaborar com os organismos competentes no que se refere ao ensino das artes visuais e da história de arte portuguesa;
+
+m) Atribuir prémios a obras de arte e estudos históricos e críticos sobre arte portuguesa ou participar na sua atribuição, bem como em trabalhos de classificação em concursos;
+
+n) Aceitar doações, legados e heranças que tenham por fim o desenvolvimento das artes visuais e a defesa do património artístico;
+
+o) Conservar e expor ao público as suas colecções de arte, incluindo os objectos que venham a ser incorporados no seu património, nos termos da alínea anterior;
+
+p) Estabelecer relações com organismos congéneres, nacionais ou estrangeiros, podendo neles assumir as posições convenientes para a prossecução dos seus fins estatutários;
+
+q) Colaborar e participar em reuniões científicas nacionais e internacionais relacionadas com os seus fins estatutários, nomeadamente naquelas que tenham por objecto assuntos ligados a Portugal;
+
+r) Publicar o Boletim da Academia Nacional de Belas-Artes e demais trabalhos que resultem da actividade académica.
+
+###### Art. 3.º Os estatutos da Academia Nacional de Belas-Artes serão aprovados através de portaria do Secretário de Estado da Cultura.
+
+###### Art. 4.º No património da Academia Nacional de Belas-Artes são incorporados, a título definitivo, a biblioteca, os arquivos, as colecções de arte e o mobiliário da extinta Academia Real de Belas-Artes.
+
+###### Art. 5.º O tempo correspondente à participação, nas sessões da Academia, dos académicos que também sejam servidores do Estado ou dos corpos administrativos será contado, para todos os efeitos legais, como tempo de serviço no desempenho das respectivas funções.
+
+###### Art. 6.º O secretário da Academia terá direito à gratificação mensal de 600$00, a inscrever no Orçamento Geral do Estado.
+
+§ único. A igual gratificação terá direito o vice-secretário da Academia, durante o período em que exercer as funções de secretário, na falta ou impedimento deste.
+
+###### Art. 7.º A Academia Nacional de Belas-Artes dispõe do quadro de pessoal anexo ao presente diploma, o qual poderá ser alterado por portaria dos Secretários de Estado da Administração Pública e da Cultura.
+
+###### Art. 8.º Os lugares do quadro a que se refere o artigo anterior serão providos mediante despacho do Secretário de Estado da Cultura, sob proposta da Academia, de acordo com as seguintes regras:
+
+a) Terceiro-bibliotecário - de entre indivíduos habilitados com curso superior adequado e a especialização a que se refere o [Decreto-Lei n.º 46758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46758-1965-508223), de 18 de Dezembro de 1965;
+
+b) Primeiro- bibliotecário e segundo-bibliotecário - de entre, respectivamente, segundo-bibliotecário e terceiro-bibliotecário com três anos de bom e efectivo serviço;
+
+c) Terceiro-oficial - mediante concurso de provas práticas e de entre os indivíduos habilitados com o curso geral dos liceus ou equiparado, ou escriturários-dactilógrafos com mais de três anos de bom e efectivo serviço;
+
+d) Segundo-oficial - mediante concurso de provas práticas e de entre terceiros-oficiais com três anos de bom e efectivo serviço;
+
+e) Primeiro-oficial - mediante concurso de provas práticas e de entre segundos-oficiais habilitados com o curso geral dos liceus ou equiparado e com mais de três anos de bom e efectivo serviço;
+
+f) Catalogador de 2.ª classe - mediante concurso de provas práticas e de entre indivíduos habilitados com o curso geral dos liceus ou equiparado;
+
+g) Catalogador de 1.ª classe - de entre catalogadores de 2.ª classe com três anos de bom e efectivo serviço;
+
+h) Escriturário-dactilógrafo e contínuo - nos termos da lei geral.
+
+###### Art. 9.º O primeiro provimento dos lugares do quadro de pessoal anexo ao presente diploma será feito de entre o pessoal que actualmente presta serviço na Academia Nacional de Belas-Artes, mediante lista nominativa aprovada pelo Secretário de Estado da Cultura e publicada no Diário da República, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas, e sem prejuízo das habilitações exigidas.
+
+###### Art. 10.º Os encargos resultantes da publicação deste diploma serão suportados no corrente ano económico em conta das disponibilidades das dotações orçamentais afectas à Academia Nacional de Belas-Artes, as quais poderão, se necessário, ser reforçadas.
+
+###### Art. 11.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
+
+**Promulgado em 30 de Janeiro de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+Quadro de pessoal a que se refere o artigo 7.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03400/03270329.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03400/03270329.pdf)
+
+**O Primeiro-Ministro, Mário Soares.**

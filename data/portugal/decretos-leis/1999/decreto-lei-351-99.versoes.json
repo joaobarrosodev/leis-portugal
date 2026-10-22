@@ -1,0 +1,673 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:582196:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-1011845360",
+ "dre_path": "/dr/detalhe/decreto-lei/351-1999-582196",
+ "source_lastmod": "2026-10-01",
+ "versions": [
+  {
+   "date": "2003-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:240648:por",
+     "title": "Decreto-Lei n.º 89/2003",
+     "published": "2003-04-26",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2003-240648"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "1011907575",
+    "1011907775",
+    "1011907975",
+    "1011908175",
+    "1011908375",
+    "1171724275",
+    "1011908775",
+    "1011908975",
+    "1011909175",
+    "1011909375",
+    "1011909575",
+    "1011909775",
+    "1011909975",
+    "1011910175",
+    "1011910375",
+    "1011910575",
+    "1011910775",
+    "1172510075",
+    "1011911175",
+    "1011911375",
+    "1011911575",
+    "1011911775",
+    "1011911975",
+    "1011912175",
+    "1011912375"
+   ]
+  },
+  {
+   "date": "2007-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520978:por",
+     "title": "Decreto-Lei n.º 125/2007",
+     "published": "2007-04-27",
+     "dre_path": "/dr/detalhe/decreto-lei/125-2007-520978"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "1011907575",
+    "1011907775",
+    "1011907975",
+    "1011908175",
+    "1011908375",
+    "1171724275",
+    "1011908775",
+    "1011908975",
+    "1011909175",
+    "1011909375",
+    "1011909575",
+    "1011909775",
+    "1011909975",
+    "1011910175",
+    "1011910375",
+    "1011910575",
+    "1173113175",
+    "1172510075",
+    "1011911175",
+    "1011911375",
+    "1011911575",
+    "1011911775",
+    "1011911975",
+    "1011912175",
+    "1011912375"
+   ]
+  },
+  {
+   "date": "2012-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175545:por",
+     "title": "Decreto-Lei n.º 215/2012",
+     "published": "2012-09-28",
+     "dre_path": "/dr/detalhe/decreto-lei/215-2012-175545"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Anexo I",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "1011907575",
+    "1011907775",
+    "1011907975",
+    "1011908175",
+    "1011908375",
+    "1171724275",
+    "1011908775",
+    "1011908975",
+    "1011909175",
+    "1174098275",
+    "1174100475",
+    "1174098475",
+    "1174098675",
+    "1174098875",
+    "1174099075",
+    "1174101275",
+    "1174101475",
+    "1174101675",
+    "1174101875",
+    "1174102075",
+    "1174102275",
+    "1174102475",
+    "1011911975",
+    "1174102675",
+    "1174102875"
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1171382773:por",
+     "title": "Decreto-Lei n.º 186/2026",
+     "published": "2026-09-16",
+     "dre_path": "/dr/detalhe/decreto-lei/186-2026-1171382773"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1176358375",
+    "1176358575",
+    "1176360675",
+    "1176360775",
+    "1176360875",
+    "1176360975",
+    "1176361075",
+    "1176361175",
+    "1176361275",
+    "1174098275",
+    "1176361375",
+    "1174098475",
+    "1174098675",
+    "1174098875",
+    "1174099075",
+    "1174101275",
+    "1174101475",
+    "1174101675",
+    "1174101875",
+    "1174102075",
+    "1174102275",
+    "1174102475",
+    "1176361475",
+    "1174102675",
+    "1174102875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1011907575": {
+   "fragment_id": "1011907475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A gestão e administração do sistema prisional exigem conhecimentos e experiência profissionais específicos que aliem o domínio das técnicas gerais da gestão pública às que directamente se relacionam com a execução das medidas penais privativas de liberdade.\n\nÀ medida que a complexidade do sistema prisional e as exigências da sua modernização aumentam, prosseguindo simultaneamente valores de eficiência na gestão, rigorosa observância das questões de segurança e humanismo e dignificação das condições de execução das penas, torna-se mais clara a necessidade da existência de um corpo de funcionários que dominem os conhecimentos e tenham a experiência e treino necessários à prossecução destes valores.\n\nCom o presente diploma dá-se um passo fundamental nesse sentido, através da criação da carreira de administração prisional, cujo conteúdo funcional é revelador dos objectivos que se prosseguem.\n\nAs normas, agora consagradas, relativas ao recrutamento, à formação inicial, ao período probatório e à avaliação de desempenho são um sinal da exigência que se pretende conferir ao ingresso na carreira e ao exercício de funções.\n\nDe entre os administradores prisionais são escolhidos os funcionários para exercer funções de direcção ou de coadjuvação à direcção de estabelecimentos prisionais. Igualmente podem ser afectos ao exercício de funções de inspecção ou de consulta técnico-científica.\n\nCom a criação desta carreira pretende-se pois criar um grupo de funcionários especificamente treinados para o exercício de funções de gestão e administração correntes de estabelecimentos prisionais capaz de conduzir, na observância da lei, o sistema prisional para uma nova fase da sua existência.\n\nAproveitou-se também o diploma para incluir algumas alterações à Lei Orgânica dos Serviços Prisionais, que não tem relação directa com a criação da carreira de administração prisional, mas que foram igualmente sujeitas a negociação colectiva.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "1011907775": {
+   "fragment_id": "1011907675",
+   "type": 11,
+   "heading": "Artigo 1.º — Carreira de administração prisional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Carreira de administração prisional\n\n1 - É criada a carreira de administração prisional, que se rege pelo disposto no presente diploma.\n\n2 - A carreira de administração prisional é de regime especial e integra-se no grupo de pessoal técnico superior."
+  },
+  "1011907975": {
+   "fragment_id": "1011907875",
+   "type": 11,
+   "heading": "Artigo 2.º — Conteúdo funcional e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conteúdo funcional e formação\n\n1 - Aos funcionários integrados na carreira de administração prisional compete exercer funções de direcção de estabelecimentos prisionais ou de outras unidades orgânicas do sistema prisional, de inspecção e de consulta técnico-científica.\n\n2 - A integração na carreira de administração prisional pressupõe um elevado grau de responsabilidade, iniciativa, autonomia e de qualificação em direito penal e do processo penal, direito e ciência penitenciários, criminologia, planificação, programação e gestão de recursos do sistema prisional, exigindo domínio e visão global deste sistema, das suas relações com outros sistemas conexos e das instituições e mecanismos gerais de gestão e administração públicas.\n\n3 - O Centro de Formação Penitenciária organiza periodicamente acções de formação para actualização dos conhecimentos dos administradores prisionais."
+  },
+  "1011908175": {
+   "fragment_id": "1011908075",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura\n\nA estrutura da carreira de administração prisional consta do anexo I ao presente diploma, que dele faz parte integrante."
+  },
+  "1011908375": {
+   "fragment_id": "1011908275",
+   "type": 11,
+   "heading": "Artigo 4.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recrutamento\n\n1 - O recrutamento para a carreira de administração prisional é feito, por concurso, de entre funcionários com licenciatura adequada, integrados em carreira do grupo de pessoal técnico superior ou equiparada há pelo menos três anos e com a última classificação de serviço de Muito bom.\n\n2 - O recrutamento para a carreira de administração prisional é também feito, por concurso, de entre:\n\na) Oficiais das Forças Armadas com grau de licenciatura adequada e pelo menos oito anos de prestação de serviço efectivo;\n\nb) Chefes principais, chefes e subchefes do pessoal do corpo da guarda prisional que sejam detentores de licenciatura adequada, com pelo menos sete anos na carreira e última classificação de serviço de Muito bom;\n\nc) Chefes de repartição que sejam detentores de licenciatura adequada, com pelo menos seis anos na categoria e de exercício de funções no sistema;\n\nd) Técnicos de orientação escolar e social que sejam detentores de licenciatura adequada e possuidores de adequada experiência profissional não inferior a 12 anos e última classificação de serviço de Muito bom.\n\n3 - Para efeitos do n.º 1, consideram-se equiparadas às carreiras do grupo de pessoal técnico superior as carreiras para cujo provimento é legalmente exigida uma licenciatura.\n\n4 - No concurso para recrutamento para a carreira são utilizados os seguintes métodos de selecção:\n\na) Prestação de provas de conhecimentos;\n\nb) Avaliação curricular;\n\nc) Exame psicológico de selecção.\n\n5 - Por despacho fundamentado do director-geral dos Serviços Prisionais, podem ser dispensados da prestação de provas de conhecimentos, sendo-lhes neste caso atribuída nota máxima no respectivo método de selecção, funcionários detentores de grau de doutoramento em domínios relacionados com o conteúdo funcional da carreira, bem como os que tenham exercido funções de director-geral ou de subdirector-geral, pelo período de três anos, sem prejuízo de licenciatura adequada.\n\n6 - O Ministro da Justiça determina, por despacho, e a título exemplificativo, quais as áreas cujas licenciaturas são adequadas ao ingresso na carreira."
+  },
+  "1171724275": {
+   "fragment_id": "1011908475",
+   "type": 11,
+   "heading": "Artigo 5.º — Curso de Administração Prisional",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-L/99 - Diário da República n.º 279/1999, 2º Suplemento, Série I-A de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-1999-484587), com efeitos a partir de 1999-09-04."
+   ],
+   "markdown": "###### Artigo 5.º — Curso de Administração Prisional\n\n1 - Os candidatos à carreira de administração prisional aprovados no concurso previsto no artigo anterior frequentam o curso de Administração Prisional ministrado pelo Centro de Formação Penitenciária, da Direcção-Geral dos Serviços Prisionais.\n\n2 - O curso de Administração Prisional, que compreende períodos lectivos e períodos de exercício de funções, é objecto de regulamentação por portaria do Ministro da Justiça e do membro do Governo que tem a seu cargo a Administração Pública.\n\n3 - Na portaria referida no número anterior pode ser prevista a isenção parcial de frequência do curso para os candidatos à carreira referida no n.º 5 do artigo anterior e para os que tenham exercido cargos dirigentes nos serviços prisionais, sendo-lhes neste caso atribuída nota máxima na respectiva área ou disciplina.\n\n4 - Os funcionários frequentam o curso em regime de comissão de serviço.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-L/99 - Diário da República n.º 279/1999, 2º Suplemento, Série I-A de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-1999-484587), com efeitos a partir de 1999-09-04."
+  },
+  "1011908775": {
+   "fragment_id": "1011908675",
+   "type": 11,
+   "heading": "Artigo 6.º — Ingresso na carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ingresso na carreira\n\n1 - Os funcionários que obtenham classificação igual ou superior a Bom no curso referido no artigo anterior ingressam na carreira de acordo com o disposto nos números seguintes.\n\n2 - O ingresso efectua-se, em regra, na categoria de administrador prisional do 4.º grau, escalão 1, ou na categoria cuja estrutura indiciária seja correspondente à de origem e em escalão a determinar nos termos do artigo 18.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n3 - Os funcionários oriundos de corpos especiais ingressam na categoria menos elevada que integre escalão a que corresponda índice com remuneração base igual ou, na falta de coincidência, índice com remuneração base superior mais aproximada.\n\n4 - Os funcionários que tenham obtido no curso classificação positiva inferior a Bom podem submeter-se a novo processo de recrutamento, com dispensa de frequência do curso, se o requererem, sem prejuízo da submissão às provas finais de avaliação."
+  },
+  "1011908975": {
+   "fragment_id": "1011908875",
+   "type": 11,
+   "heading": "Artigo 7.º — Período probatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Período probatório\n\n1 - Os funcionários aprovados no curso exercem funções, em comissão de serviço, durante um período probatório de 18 meses.\n\n2 - No período probatório referido no número anterior, os administradores prisionais exercem funções de coadjuvação à direcção de estabelecimentos prisionais pelo período mínimo de um ano.\n\n3 - Findo o período probatório e caso haja revelado aptidão para as funções, o administrador prisional é nomeado definitivamente na carreira."
+  },
+  "1011909175": {
+   "fragment_id": "1011909075",
+   "type": 11,
+   "heading": "Artigo 8.º — Progressão e acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Progressão e acesso\n\nA progressão e o acesso na carreira seguem, com as devidas adaptações, o regime fixado para a carreira técnica superior."
+  },
+  "1011909375": {
+   "fragment_id": "1011909275",
+   "type": 11,
+   "heading": "Artigo 9.º — Direcção de estabelecimento prisional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de estabelecimento prisional\n\n1 - Compete ao Ministro da Justiça designar, pelo período de três anos, renovável, sob proposta do director-geral dos Serviços Prisionais, os administradores prisionais para o exercício de funções de direcção de estabelecimento prisional.\n\n2 - Os administradores prisionais quando exercem funções de direcção de estabelecimento prisional central ou especial e de direcção de estabelecimento prisional regional são remunerados, respectivamente, pelos índices 880 e 770 da tabela salarial do regime geral, podendo optar, a todo o tempo, pela remuneração devida pelo lugar de origem.\n\n3 - Os administradores prisionais a que se refere o número anterior têm direito a abono de representação nos termos definidos no estatuto do pessoal dirigente, respectivamente para director de serviços e chefe de divisão.\n\n4 - Os administradores prisionais só podem, em regra, exercer as funções referidas no n.º 1, no mesmo estabelecimento prisional, em dois períodos sucessivos de três anos.\n\n5 - Por despacho fundamentado do Ministro da Justiça, sob proposta do director-geral dos Serviços Prisionais, os administradores prisionais designados nos termos do n.º 1 podem ser, a todo o tempo, afectados ao exercício de outras funções, nomeadamente por incapacidade de cumprir objectivos de serviço previamente fixados, de garantir a normalidade de vida no estabelecimento prisional, de cumprir ou fazer cumprir decisões ou instruções superiores ou pela necessidade de reorientar a gestão do serviço."
+  },
+  "1011909575": {
+   "fragment_id": "1011909475",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação de desempenho\n\n1 - A avaliação de desempenho dos administradores obedece ao regime geral.\n\n2 - Os administradores prisionais quando designados para exercer as funções referidas no artigo anterior são objecto de avaliação anual de desempenho, segundo regime aprovado em decreto regulamentar."
+  },
+  "1011909775": {
+   "fragment_id": "1011909675",
+   "type": 11,
+   "heading": "Artigo 11.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Quadro de pessoal\n\nO quadro de pessoal comum dos serviços centrais e dos serviços externos da Direcção-Geral dos Serviços Prisionais é acrescentado com o número de lugares de administradores prisionais aprovado por portaria dos Ministros das Finanças e da Justiça e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "1011909975": {
+   "fragment_id": "1011909875",
+   "type": 11,
+   "heading": "Artigo 12.º — Alterações na estrutura indiciária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alterações na estrutura indiciária\n\nAs alterações introduzidas na estrutura indiciária da carreira técnica superior repercutem-se, com as devidas adaptações, na estrutura indiciária das correspondentes categorias da carreira criada pelo presente diploma."
+  },
+  "1011910175": {
+   "fragment_id": "1011910075",
+   "type": 11,
+   "heading": "Artigo 13.º — Transição para a carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transição para a carreira\n\n1 - Podem optar pela transição para a carreira de administração prisional:\n\na) Os funcionários em exercício efectivo de funções de director de estabelecimento prisional central, especial ou regional;\n\nb) Os funcionários em exercício efectivo de funções de adjunto de director de estabelecimento prisional central e especial e que estejam integrados em carreira do grupo de pessoal técnico superior, nas categorias de assessor principal, assessor, técnico superior principal ou técnico superior de 1.ª classe ou na de técnico superior de 2.ª classe há mais de três anos.\n\n2 - A transição prevista no número anterior é feita para a categoria cujo índice do escalão 1 seja igual ou superior mais aproximado ao do escalão 1 da categoria de origem e em escalão a que corresponda, na estrutura da nova categoria, índice remuneratório igual ou, se não houver coincidência, índice superior mais aproximado.\n\n3 - Os técnicos superiores de 2.ª classe abrangidos pelo n.º 1 transitam para a categoria e escalão de ingresso.\n\n4 - A transição depende de requerimento do funcionário, dirigido ao director-geral dos Serviços Prisionais, a apresentar no prazo de 30 dias a contar da entrada em vigor do presente diploma.\n\n5 - A transição é feita, independentemente de quaisquer outras formalidades, mediante lista nominativa publicada no Diário da República, produzindo efeitos a partir da data desta publicação.\n\n6 - O tempo de serviço prestado nas categorias de origem pelos funcionários a que se aplique o n.º 2 conta para efeitos de promoção na carreira.\n\n7 - O tempo de serviço prestado na carreira de origem conta para efeitos de antiguidade na nova carreira.\n\n8 - A transição dos funcionários referidos na alínea a) do n.º 1 é feita sem prejuízo da salvaguarda do direito à carreira consagrado no artigo 32.º da Lei n.º 49/99, de 22 de Junho."
+  },
+  "1011910375": {
+   "fragment_id": "1011910275",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs artigos 2.º, 8.º, 12.º, 46.º, 47.º, 62.º, 71.º e 72.º do Decreto-Lei n.º 268/81, de 16 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - A Direcção-Geral dos Serviços Prisionais goza de autonomia administrativa limitada às verbas suportadas por receitas próprias, destinadas à realização das seguintes despesas:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n2 - ...\n\nArtigo 8.º\n\nConselho técnico\n\n1 - O conselho técnico, presidido pelo director-geral, é constituído pelos seguintes membros:\n\na) Os subdirectores-gerais;\n\nb) Os directores dos serviços operativos;\n\nc) O director dos Serviços de Planeamento, Documentação, Estudos e Relações Internacionais;\n\nd) O director do Centro de Formação Penitenciária;\n\ne) Um inspector-coordenador do Serviço de Auditoria e Inspecção;\n\nf) Três funcionários que exerçam funções de direcção de estabelecimentos prisionais centrais e especiais;\n\ng) Dois funcionários que exerçam funções de direcção de estabelecimentos prisionais regionais.\n\n2 - Os membros referidos nas alíneas e) a g) do número anterior são designados bienalmente pelo Ministro da Justiça, sob proposta do director-geral.\n\n3 - ...\n\n4 - ...\n\n5 - O director-geral pode chamar a participar, em reunião do conselho técnico, e com direito a voto, qualquer director de serviços, sempre que se trate de matéria da respectiva competência.\n\n6 - O director-geral pode chamar a participar nas reuniões, sem direito a voto, qualquer funcionário que, dada a natureza dos assuntos a debater, possa prestar colaboração útil.\n\nArtigo 12.º\n\nConselho consultivo\n\n1 - O conselho consultivo é constituído pelo director-geral, subdirectores-gerais, directores de serviços, inspectores-coordenadores, funcionários que exerçam funções de direcção de estabelecimentos prisionais e três chefes do pessoal do corpo da guarda prisional designados bienalmente por despacho do director-geral.\n\nArtigo 46.º\n\nDirecção\n\n1 - Os estabelecimentos prisionais centrais e especiais são dirigidos por um administrador prisional, directamente dependente do director-geral.\n\n2 - O administrador prisional referido no número anterior pode ser coadjuvado por adjuntos, no máximo de cinco, designados por despacho do director-geral.\n\nArtigo 47.º\n\nCompetência\n\n1 - Aos administradores prisionais designados para o exercício de funções de direcção em estabelecimentos centrais e especiais compete orientar e coordenar os serviços dos estabelecimentos, designadamente os de vigilância, educação, ensino, assistência social, trabalho, formação e aperfeiçoamento profissional dos reclusos.\n\n2 - Compete especialmente aos administradores prisionais referidos no número anterior:\n\ng) ...\n\nh) Exercer as competências constante do anexo II ao presente diploma, que dele faz parte integrante.\n\n3 - O administrador prisional a que se refere o n.º 1 é substituído, nas suas faltas e impedimentos, por um dos adjuntos que, por proposta sua, for designado pelo director-geral.\n\n4 - Sempre que a substituição referida no número anterior persista, ininterruptamente, por mais de 60 dias, o adjunto tem direito à totalidade das remunerações e demais abonos e regalias atribuídos pelo exercício das funções do substituído.\n\n5 - Os adjuntos exercem as competências que, nos termos da lei, lhes forem delegadas pelo administrador prisional a que se refere o n.º 1.\n\nArtigo 62.º\n\n1 - Os estabelecimentos prisionais regionais são dirigidos por um administrador prisional, directamente dependente do director-geral.\n\nf) Exercer as competências constantes do anexo II ao presente diploma, que dele faz parte integrante.\n\n3 - O administrador prisional pode ser coadjuvado por um adjunto, que exerce as competências que, nos termos da lei, por aquele lhe forem delegadas.\n\n4 - O administrador prisional é substituído, nas suas ausências e impedimentos, pelo adjunto ou, caso não exista, pelo funcionário que, por proposta daquele, for designado pelo director-geral.\n\n5 - É aplicável, com as devidas adaptações, o disposto no n.º 4 do artigo 47.º\n\nArtigo 71.º\n\nPessoal técnico superior e pessoal técnico\n\n1 - ...\n\n2 - A carreira de administração prisional é objecto de diploma próprio.\n\n3 - É aplicável aos educadores de infância da DGSP o regime do pessoal docente da educação pré-escolar do Ministério da Educação.\n\nArtigo 72.º\n\nInspectores\n\n1 - O Serviço de Auditoria e Inspecção é integrado por inspectores, nomeados em regime de comissão de serviço, por três anos, renovável, de entre administradores prisionais com pelo menos seis anos de experiência profissional e técnicos superiores de categoria igual ou superior à 1.ª classe, com pelo menos seis anos de serviço na carreira.\n\n2 - As delegações do Serviço de Auditoria e Inspecção são dirigidas por um inspector-coordenador.»"
+  },
+  "1011910575": {
+   "fragment_id": "1011910475",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nSão aditados ao Decreto-Lei n.º 268/81, de 16 de Setembro, os artigos 70.º-A e 70.º-B, com a seguinte redacção:\n\n«Artigo 70.º-A\n\nAdjuntos\n\nOs adjuntos de direcção em estabelecimento prisional são designados de entre:\n\na) Administradores prisionais;\n\nb) Funcionários integrados em outras carreiras do grupo de pessoal técnico superior;\n\nc) Chefes de repartição habilitados com curso superior que não confira o grau de licenciatura e, pelo menos, quatro anos na categoria;\n\nd) Funcionários providos em outras carreiras técnicas, habilitados com licenciatura ou curso superior que não confira o grau de licenciatura.\n\nArtigo 70.º-B\n\nInspectores-coordenadores\n\n1 - Os lugares de inspector-coordenador serão preenchidos de entre:\n\na) Administradores prisionais possuidores de adequada experiência profissional não inferior a seis anos;\n\nb) Funcionários integrados em carreira do grupo de pessoal técnico superior, de categoria igual ou superior a 1.ª classe, possuidores de adequada experiência profissional não inferior a seis anos;\n\nc) Magistrados judiciais e magistrados do Ministério Público, com pelo menos seis anos de exercício de magistratura.\n\n2 - Os lugares de inspector-coordenador são preenchidos por despacho do Ministro da Justiça, em comissão de serviço, por um período de três anos.»"
+  },
+  "1011910775": {
+   "fragment_id": "1011910675",
+   "type": 11,
+   "heading": "Artigo 16.º — Substituição transitória por chefes de repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Substituição transitória por chefes de repartição\n\nNas ausências e impedimentos dos administradores prisionais que asseguram a direcção dos estabelecimentos prisionais centrais e especiais, os chefes de repartição actualmente designados como substitutos podem manter-se nesta situação, por despacho do director-geral, sob proposta fundamentada daqueles."
+  },
+  "1172510075": {
+   "fragment_id": "1011910875",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime transitório",
+   "in_force_from": "2003-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 89/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2003-240648), em vigor a partir de 2003-05-01, com efeitos a partir de 1999-09-04.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-L/99 - Diário da República n.º 279/1999, 2º Suplemento, Série I-A de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-1999-484587), com efeitos a partir de 1999-09-04."
+   ],
+   "markdown": "###### Artigo 17.º — Regime transitório\n\n1 - Até à primeira nomeação de administradores prisionais, nos termos do artigo 9.º, e na sequência da realização do primeiro curso de administração prisional, em conformidade com o disposto nos artigos 4.º a 7.º, podem ser designados para o exercício de funções de direcção de estabelecimento prisional funcionários que reúnam os requisitos referidos nos números seguintes.\n\n2 - Para a direcção de estabelecimentos prisionais centrais e especiais:\n\na) Funcionários habilitados com o grau de licenciatura integrados em carreiras do grupo de pessoal técnico superior possuidores de adequada experiência profissional não inferior a seis anos;\n\nb) Oficiais superiores das Forças Armadas ou das forças militarizadas ou da Polícia de Segurança Pública com grau de licenciatura, com pelo menos três anos de exercício de funções que pressuponham tal nível académico;\n\nc) Chefes principais, chefes e subchefes do pessoal do corpo da guarda prisional com pelo menos 10 anos na carreira e habilitados com o grau de licenciatura:\n\nd) Chefes de repartição com pelo menos nove anos na categoria e habilitados com o grau de licenciatura;\n\ne) Funcionários integrados na carreira de técnico de orientação escolar e social, detentores de curso superior que não confira grau de licenciatura e possuidores de adequada experiência profissional não inferior a 12 anos.\n\n3 - Para a direcção de estabelecimentos prisionais regionais:\n\na) Funcionários habilitados com grau de licenciatura integrados em carreira do grupo de pessoal técnico superior, possuidores de adequada experiência profissional não inferior a quatro anos;\n\nb) Chefes principais, chefes e subchefes do pessoal do corpo da guarda prisional com pelo menos nove anos na carreira e habilitados com o grau de licenciatura;\n\nc) Chefes de repartição com pelo menos oito anos na categoria e habilitados com o grau de licenciatura;\n\nd) Funcionários integrados na carreira de técnico de orientação escolar e social detentores de adequada experiência profissional não inferior a 12 anos.\n\n4 - Os funcionários que exercem funções de direcção ao abrigo do disposto no presente artigo são remunerados nos termos dos n.ºs 2 e 3 do artigo 9.º\n\n5 - A designação é feita por despacho do Ministro da Justiça, sob proposta do director-geral dos Serviços Prisionais.\n\n6 - Os funcionários designados nos termos dos n.ºs 2 e 3 frequentam, obrigatoriamente e com carácter eliminatório, o primeiro curso a que alude o artigo 5.º\n\n7 - A primeira nomeação referida no n.º 1 deve ocorrer até três anos após a entrada em vigor do presente diploma.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 89/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2003-240648) O prazo previsto no n.º 7 do presente artigo, é prorrogado por três anos a contar da data do respectivo termo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 89/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2003-240648), em vigor a partir de 2003-05-01, com efeitos a partir de 1999-09-04.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-L/99 - Diário da República n.º 279/1999, 2º Suplemento, Série I-A de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-1999-484587), com efeitos a partir de 1999-09-04."
+  },
+  "1011911175": {
+   "fragment_id": "1011911075",
+   "type": 11,
+   "heading": "Artigo 18.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Disposições finais\n\n1 - Os lugares dos quadros de pessoal da Direcção-Geral dos Serviços Prisionais de director de estabelecimento prisional central, especial ou regional e os ocupados pelos funcionários que transitam para a carreira de administração prisional, nos termos do presente diploma, são extintos na data de publicação da lista referida no n.º 5 do artigo 13.º\n\n2 - Os directores de estabelecimento prisional em funções à data da entrada em vigor do presente diploma mantêm o respectivo estatuto remuneratório e funcional até à designação de funcionário para essas funções nos termos deste diploma.\n\n3 - O Governo publicará a portaria prevista no n.º 2 do artigo 5.º no prazo de quatro meses."
+  },
+  "1011911375": {
+   "fragment_id": "1011911275",
+   "type": 11,
+   "heading": "Artigo 19.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Referências legais\n\nAs referências feitas na lei a director de estabelecimento prisional entendem-se feitas a administrador prisional designado para exercer funções de direcção de estabelecimento prisional."
+  },
+  "1011911575": {
+   "fragment_id": "1011911475",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 255/91, de 18 de Julho."
+  },
+  "1011911775": {
+   "fragment_id": "1011911675",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "1011911975": {
+   "fragment_id": "1011911875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Julho de 1999. - Jaime José Matos da Gama - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 20 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Agosto de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1011912175": {
+   "fragment_id": "1011912075",
+   "type": 14,
+   "heading": "Anexo I — (previsto no artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (previsto no artigo 3.º)\n\n(ver quadro no documento original)"
+  },
+  "1011912375": {
+   "fragment_id": "1011912275",
+   "type": 14,
+   "heading": "Anexo II — [a que se referem as alíneas h) do n.º 2 do artigo 47.º e f) do n.º 2 do artigo 62.º do Decreto-Lei n.º 268/81, de 16 de Setembro]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — [a que se referem as alíneas h) do n.º 2 do artigo 47.º e f) do n.º 2 do artigo 62.º do Decreto-Lei n.º 268/81, de 16 de Setembro]\n\nGestão de recursos humanos:\n\nConceder licenças por período até 30 dias;\n\nAprovar o mapa de férias do pessoal afecto ao estabelecimento prisional;\n\nAutorizar o início das férias e o seu gozo interpolado, bem como a sua acumulação parcial por interesse do serviço, de acordo com o mapa de férias;\n\nJustificar e injustificar faltas;\n\nHomologar as classificações de serviço dos funcionários e agentes em serviço no respectivo estabelecimento prisional;\n\nAutorizar a recuperação de vencimento de exercício perdido;\n\nConferir posse e colher a aceitação de nomeação de funcionários afectos ao estabelecimento prisional;\n\nAfectar o pessoal aos serviços do estabelecimento prisional;\n\nAutorizar os funcionários e agentes a comparecer em juízo, quando requisitados nos termos da lei de processo;\n\nAutorizar a passagem de certidões de documentos arquivados no estabelecimento prisional, excepto quando contenham matéria não acessível, bem como a restituição de documentos aos interessados."
+  },
+  "1173113175": {
+   "fragment_id": "1011910675",
+   "type": 11,
+   "heading": "Artigo 16.º — Substituição transitória por chefes de repartição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 125/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2007-520978), em vigor a partir de 2007-05-01."
+   ],
+   "markdown": "###### Artigo 16.º — Substituição transitória por chefes de repartição\n\nNas ausências e impedimentos dos administradores prisionais que asseguram a direcção dos estabelecimentos prisionais centrais e especiais, os chefes de repartição actualmente designados como substitutos podem manter-se nesta situação, por despacho do director-geral, sob proposta fundamentada daqueles.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 125/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2007-520978), em vigor a partir de 2007-05-01."
+  },
+  "1174098275": {
+   "fragment_id": "1011909275",
+   "type": 11,
+   "heading": "Artigo 9.º — Direcção de estabelecimento prisional",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 9.º — Direcção de estabelecimento prisional\n\n1 - Compete ao Ministro da Justiça designar, pelo período de três anos, renovável, sob proposta do director-geral dos Serviços Prisionais, os administradores prisionais para o exercício de funções de direcção de estabelecimento prisional.\n\n2 - Os administradores prisionais quando exercem funções de direcção de estabelecimento prisional central ou especial e de direcção de estabelecimento prisional regional são remunerados, respectivamente, pelos índices 880 e 770 da tabela salarial do regime geral, podendo optar, a todo o tempo, pela remuneração devida pelo lugar de origem.\n\n3 - Os administradores prisionais a que se refere o número anterior têm direito a abono de representação nos termos definidos no estatuto do pessoal dirigente, respectivamente para director de serviços e chefe de divisão.\n\n4 - Os administradores prisionais só podem, em regra, exercer as funções referidas no n.º 1, no mesmo estabelecimento prisional, em dois períodos sucessivos de três anos.\n\n5 - Por despacho fundamentado do Ministro da Justiça, sob proposta do director-geral dos Serviços Prisionais, os administradores prisionais designados nos termos do n.º 1 podem ser, a todo o tempo, afectados ao exercício de outras funções, nomeadamente por incapacidade de cumprir objectivos de serviço previamente fixados, de garantir a normalidade de vida no estabelecimento prisional, de cumprir ou fazer cumprir decisões ou instruções superiores ou pela necessidade de reorientar a gestão do serviço.\n\n> Nota: [Artigo 36.º, Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545) Mantém-se em vigor o disposto nos n.os 2 e 3 do presente artigo 9.º até à entrada em vigor da portaria a que se refere o n.º 1 do artigo 10.º da Lei n.º 115/2009, de 12 de outubro e subsequente designação em comissão de serviço dos diretores de estabelecimento prisional.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174100475": {
+   "fragment_id": "1011909475",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação de desempenho",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 10.º — Avaliação de desempenho\n\n1 - A avaliação de desempenho dos administradores obedece ao regime geral.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174098475": {
+   "fragment_id": "1011909675",
+   "type": 11,
+   "heading": "Artigo 11.º — Quadro de pessoal",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 11.º — Quadro de pessoal\n\nO quadro de pessoal comum dos serviços centrais e dos serviços externos da Direcção-Geral dos Serviços Prisionais é acrescentado com o número de lugares de administradores prisionais aprovado por portaria dos Ministros das Finanças e da Justiça e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174098675": {
+   "fragment_id": "1011909875",
+   "type": 11,
+   "heading": "Artigo 12.º — Alterações na estrutura indiciária",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 12.º — Alterações na estrutura indiciária\n\nAs alterações introduzidas na estrutura indiciária da carreira técnica superior repercutem-se, com as devidas adaptações, na estrutura indiciária das correspondentes categorias da carreira criada pelo presente diploma.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174098875": {
+   "fragment_id": "1011910075",
+   "type": 11,
+   "heading": "Artigo 13.º — Transição para a carreira",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 13.º — Transição para a carreira\n\n1 - Podem optar pela transição para a carreira de administração prisional:\n\na) Os funcionários em exercício efectivo de funções de director de estabelecimento prisional central, especial ou regional;\n\nb) Os funcionários em exercício efectivo de funções de adjunto de director de estabelecimento prisional central e especial e que estejam integrados em carreira do grupo de pessoal técnico superior, nas categorias de assessor principal, assessor, técnico superior principal ou técnico superior de 1.ª classe ou na de técnico superior de 2.ª classe há mais de três anos.\n\n2 - A transição prevista no número anterior é feita para a categoria cujo índice do escalão 1 seja igual ou superior mais aproximado ao do escalão 1 da categoria de origem e em escalão a que corresponda, na estrutura da nova categoria, índice remuneratório igual ou, se não houver coincidência, índice superior mais aproximado.\n\n3 - Os técnicos superiores de 2.ª classe abrangidos pelo n.º 1 transitam para a categoria e escalão de ingresso.\n\n4 - A transição depende de requerimento do funcionário, dirigido ao director-geral dos Serviços Prisionais, a apresentar no prazo de 30 dias a contar da entrada em vigor do presente diploma.\n\n5 - A transição é feita, independentemente de quaisquer outras formalidades, mediante lista nominativa publicada no Diário da República, produzindo efeitos a partir da data desta publicação.\n\n6 - O tempo de serviço prestado nas categorias de origem pelos funcionários a que se aplique o n.º 2 conta para efeitos de promoção na carreira.\n\n7 - O tempo de serviço prestado na carreira de origem conta para efeitos de antiguidade na nova carreira.\n\n8 - A transição dos funcionários referidos na alínea a) do n.º 1 é feita sem prejuízo da salvaguarda do direito à carreira consagrado no artigo 32.º da Lei n.º 49/99, de 22 de Junho.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174099075": {
+   "fragment_id": "1011910275",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 14.º\n\nOs artigos 2.º, 8.º, 12.º, 46.º, 47.º, 62.º, 71.º e 72.º do Decreto-Lei n.º 268/81, de 16 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - A Direcção-Geral dos Serviços Prisionais goza de autonomia administrativa limitada às verbas suportadas por receitas próprias, destinadas à realização das seguintes despesas:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n2 - ...\n\nArtigo 8.º\n\nConselho técnico\n\n1 - O conselho técnico, presidido pelo director-geral, é constituído pelos seguintes membros:\n\na) Os subdirectores-gerais;\n\nb) Os directores dos serviços operativos;\n\nc) O director dos Serviços de Planeamento, Documentação, Estudos e Relações Internacionais;\n\nd) O director do Centro de Formação Penitenciária;\n\ne) Um inspector-coordenador do Serviço de Auditoria e Inspecção;\n\nf) Três funcionários que exerçam funções de direcção de estabelecimentos prisionais centrais e especiais;\n\ng) Dois funcionários que exerçam funções de direcção de estabelecimentos prisionais regionais.\n\n2 - Os membros referidos nas alíneas e) a g) do número anterior são designados bienalmente pelo Ministro da Justiça, sob proposta do director-geral.\n\n3 - ...\n\n4 - ...\n\n5 - O director-geral pode chamar a participar, em reunião do conselho técnico, e com direito a voto, qualquer director de serviços, sempre que se trate de matéria da respectiva competência.\n\n6 - O director-geral pode chamar a participar nas reuniões, sem direito a voto, qualquer funcionário que, dada a natureza dos assuntos a debater, possa prestar colaboração útil.\n\nArtigo 12.º\n\nConselho consultivo\n\n1 - O conselho consultivo é constituído pelo director-geral, subdirectores-gerais, directores de serviços, inspectores-coordenadores, funcionários que exerçam funções de direcção de estabelecimentos prisionais e três chefes do pessoal do corpo da guarda prisional designados bienalmente por despacho do director-geral.\n\nArtigo 46.º\n\nDirecção\n\n1 - Os estabelecimentos prisionais centrais e especiais são dirigidos por um administrador prisional, directamente dependente do director-geral.\n\n2 - O administrador prisional referido no número anterior pode ser coadjuvado por adjuntos, no máximo de cinco, designados por despacho do director-geral.\n\nArtigo 47.º\n\nCompetência\n\n1 - Aos administradores prisionais designados para o exercício de funções de direcção em estabelecimentos centrais e especiais compete orientar e coordenar os serviços dos estabelecimentos, designadamente os de vigilância, educação, ensino, assistência social, trabalho, formação e aperfeiçoamento profissional dos reclusos.\n\n2 - Compete especialmente aos administradores prisionais referidos no número anterior:\n\ng) ...\n\nh) Exercer as competências constante do anexo II ao presente diploma, que dele faz parte integrante.\n\n3 - O administrador prisional a que se refere o n.º 1 é substituído, nas suas faltas e impedimentos, por um dos adjuntos que, por proposta sua, for designado pelo director-geral.\n\n4 - Sempre que a substituição referida no número anterior persista, ininterruptamente, por mais de 60 dias, o adjunto tem direito à totalidade das remunerações e demais abonos e regalias atribuídos pelo exercício das funções do substituído.\n\n5 - Os adjuntos exercem as competências que, nos termos da lei, lhes forem delegadas pelo administrador prisional a que se refere o n.º 1.\n\nArtigo 62.º\n\n1 - Os estabelecimentos prisionais regionais são dirigidos por um administrador prisional, directamente dependente do director-geral.\n\nf) Exercer as competências constantes do anexo II ao presente diploma, que dele faz parte integrante.\n\n3 - O administrador prisional pode ser coadjuvado por um adjunto, que exerce as competências que, nos termos da lei, por aquele lhe forem delegadas.\n\n4 - O administrador prisional é substituído, nas suas ausências e impedimentos, pelo adjunto ou, caso não exista, pelo funcionário que, por proposta daquele, for designado pelo director-geral.\n\n5 - É aplicável, com as devidas adaptações, o disposto no n.º 4 do artigo 47.º\n\nArtigo 71.º\n\nPessoal técnico superior e pessoal técnico\n\n1 - ...\n\n2 - A carreira de administração prisional é objecto de diploma próprio.\n\n3 - É aplicável aos educadores de infância da DGSP o regime do pessoal docente da educação pré-escolar do Ministério da Educação.\n\nArtigo 72.º\n\nInspectores\n\n1 - O Serviço de Auditoria e Inspecção é integrado por inspectores, nomeados em regime de comissão de serviço, por três anos, renovável, de entre administradores prisionais com pelo menos seis anos de experiência profissional e técnicos superiores de categoria igual ou superior à 1.ª classe, com pelo menos seis anos de serviço na carreira.\n\n2 - As delegações do Serviço de Auditoria e Inspecção são dirigidas por um inspector-coordenador.»\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174101275": {
+   "fragment_id": "1011910475",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 15.º\n\nSão aditados ao Decreto-Lei n.º 268/81, de 16 de Setembro, os artigos 70.º-A e 70.º-B, com a seguinte redacção:\n\n«Artigo 70.º-A\n\nAdjuntos\n\nOs adjuntos de direcção em estabelecimento prisional são designados de entre:\n\na) Administradores prisionais;\n\nb) Funcionários integrados em outras carreiras do grupo de pessoal técnico superior;\n\nc) Chefes de repartição habilitados com curso superior que não confira o grau de licenciatura e, pelo menos, quatro anos na categoria;\n\nd) Funcionários providos em outras carreiras técnicas, habilitados com licenciatura ou curso superior que não confira o grau de licenciatura.\n\nArtigo 70.º-B\n\nInspectores-coordenadores\n\n1 - Os lugares de inspector-coordenador serão preenchidos de entre:\n\na) Administradores prisionais possuidores de adequada experiência profissional não inferior a seis anos;\n\nb) Funcionários integrados em carreira do grupo de pessoal técnico superior, de categoria igual ou superior a 1.ª classe, possuidores de adequada experiência profissional não inferior a seis anos;\n\nc) Magistrados judiciais e magistrados do Ministério Público, com pelo menos seis anos de exercício de magistratura.\n\n2 - Os lugares de inspector-coordenador são preenchidos por despacho do Ministro da Justiça, em comissão de serviço, por um período de três anos.»\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174101475": {
+   "fragment_id": "1011910675",
+   "type": 11,
+   "heading": "Artigo 16.º — Substituição transitória por chefes de repartição",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01.",
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 125/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2007-520978), em vigor a partir de 2007-05-01."
+   ],
+   "markdown": "###### Artigo 16.º — Substituição transitória por chefes de repartição\n\nNas ausências e impedimentos dos administradores prisionais que asseguram a direcção dos estabelecimentos prisionais centrais e especiais, os chefes de repartição actualmente designados como substitutos podem manter-se nesta situação, por despacho do director-geral, sob proposta fundamentada daqueles.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 125/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2007-520978), em vigor a partir de 2007-05-01."
+  },
+  "1174101675": {
+   "fragment_id": "1011910875",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime transitório",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 89/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2003-240648), em vigor a partir de 2003-05-01, com efeitos a partir de 1999-09-04.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-L/99 - Diário da República n.º 279/1999, 2º Suplemento, Série I-A de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-1999-484587), com efeitos a partir de 1999-09-04."
+   ],
+   "markdown": "###### Artigo 17.º — Regime transitório\n\n1 - Até à primeira nomeação de administradores prisionais, nos termos do artigo 9.º, e na sequência da realização do primeiro curso de administração prisional, em conformidade com o disposto nos artigos 4.º a 7.º, podem ser designados para o exercício de funções de direcção de estabelecimento prisional funcionários que reúnam os requisitos referidos nos números seguintes.\n\n2 - Para a direcção de estabelecimentos prisionais centrais e especiais:\n\na) Funcionários habilitados com o grau de licenciatura integrados em carreiras do grupo de pessoal técnico superior possuidores de adequada experiência profissional não inferior a seis anos;\n\nb) Oficiais superiores das Forças Armadas ou das forças militarizadas ou da Polícia de Segurança Pública com grau de licenciatura, com pelo menos três anos de exercício de funções que pressuponham tal nível académico;\n\nc) Chefes principais, chefes e subchefes do pessoal do corpo da guarda prisional com pelo menos 10 anos na carreira e habilitados com o grau de licenciatura:\n\nd) Chefes de repartição com pelo menos nove anos na categoria e habilitados com o grau de licenciatura;\n\ne) Funcionários integrados na carreira de técnico de orientação escolar e social, detentores de curso superior que não confira grau de licenciatura e possuidores de adequada experiência profissional não inferior a 12 anos.\n\n3 - Para a direcção de estabelecimentos prisionais regionais:\n\na) Funcionários habilitados com grau de licenciatura integrados em carreira do grupo de pessoal técnico superior, possuidores de adequada experiência profissional não inferior a quatro anos;\n\nb) Chefes principais, chefes e subchefes do pessoal do corpo da guarda prisional com pelo menos nove anos na carreira e habilitados com o grau de licenciatura;\n\nc) Chefes de repartição com pelo menos oito anos na categoria e habilitados com o grau de licenciatura;\n\nd) Funcionários integrados na carreira de técnico de orientação escolar e social detentores de adequada experiência profissional não inferior a 12 anos.\n\n4 - Os funcionários que exercem funções de direcção ao abrigo do disposto no presente artigo são remunerados nos termos dos n.ºs 2 e 3 do artigo 9.º\n\n5 - A designação é feita por despacho do Ministro da Justiça, sob proposta do director-geral dos Serviços Prisionais.\n\n6 - Os funcionários designados nos termos dos n.ºs 2 e 3 frequentam, obrigatoriamente e com carácter eliminatório, o primeiro curso a que alude o artigo 5.º\n\n7 - A primeira nomeação referida no n.º 1 deve ocorrer até três anos após a entrada em vigor do presente diploma.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 89/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2003-240648) O prazo previsto no n.º 7 do presente artigo, é prorrogado por três anos a contar da data do respectivo termo.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 89/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2003-240648), em vigor a partir de 2003-05-01, com efeitos a partir de 1999-09-04.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-L/99 - Diário da República n.º 279/1999, 2º Suplemento, Série I-A de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-1999-484587), com efeitos a partir de 1999-09-04."
+  },
+  "1174101875": {
+   "fragment_id": "1011911075",
+   "type": 11,
+   "heading": "Artigo 18.º — Disposições finais",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 18.º — Disposições finais\n\n1 - Os lugares dos quadros de pessoal da Direcção-Geral dos Serviços Prisionais de director de estabelecimento prisional central, especial ou regional e os ocupados pelos funcionários que transitam para a carreira de administração prisional, nos termos do presente diploma, são extintos na data de publicação da lista referida no n.º 5 do artigo 13.º\n\n2 - Os directores de estabelecimento prisional em funções à data da entrada em vigor do presente diploma mantêm o respectivo estatuto remuneratório e funcional até à designação de funcionário para essas funções nos termos deste diploma.\n\n3 - O Governo publicará a portaria prevista no n.º 2 do artigo 5.º no prazo de quatro meses.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174102075": {
+   "fragment_id": "1011911275",
+   "type": 11,
+   "heading": "Artigo 19.º — Referências legais",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 19.º — Referências legais\n\nAs referências feitas na lei a director de estabelecimento prisional entendem-se feitas a administrador prisional designado para exercer funções de direcção de estabelecimento prisional.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174102275": {
+   "fragment_id": "1011911475",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 255/91, de 18 de Julho.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174102475": {
+   "fragment_id": "1011911675",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174102675": {
+   "fragment_id": "1011912075",
+   "type": 14,
+   "heading": "Anexo I — (previsto no artigo 3.º)",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "## Anexo I — (previsto no artigo 3.º)\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1174102875": {
+   "fragment_id": "1011912275",
+   "type": 14,
+   "heading": "Anexo II — [a que se referem as alíneas h) do n.º 2 do artigo 47.º e f) do n.º 2 do artigo 62.º do Decreto-Lei n.º 268/81, de 16 de Setembro]",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "## Anexo II — [a que se referem as alíneas h) do n.º 2 do artigo 47.º e f) do n.º 2 do artigo 62.º do Decreto-Lei n.º 268/81, de 16 de Setembro]\n\nGestão de recursos humanos:\n\nConceder licenças por período até 30 dias;\n\nAprovar o mapa de férias do pessoal afecto ao estabelecimento prisional;\n\nAutorizar o início das férias e o seu gozo interpolado, bem como a sua acumulação parcial por interesse do serviço, de acordo com o mapa de férias;\n\nJustificar e injustificar faltas;\n\nHomologar as classificações de serviço dos funcionários e agentes em serviço no respectivo estabelecimento prisional;\n\nAutorizar a recuperação de vencimento de exercício perdido;\n\nConferir posse e colher a aceitação de nomeação de funcionários afectos ao estabelecimento prisional;\n\nAfectar o pessoal aos serviços do estabelecimento prisional;\n\nAutorizar os funcionários e agentes a comparecer em juízo, quando requisitados nos termos da lei de processo;\n\nAutorizar a passagem de certidões de documentos arquivados no estabelecimento prisional, excepto quando contenham matéria não acessível, bem como a restituição de documentos aos interessados.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1176358375": {
+   "fragment_id": "1011907475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "A gestão e administração do sistema prisional exigem conhecimentos e experiência profissionais específicos que aliem o domínio das técnicas gerais da gestão pública às que directamente se relacionam com a execução das medidas penais privativas de liberdade.\n\nÀ medida que a complexidade do sistema prisional e as exigências da sua modernização aumentam, prosseguindo simultaneamente valores de eficiência na gestão, rigorosa observância das questões de segurança e humanismo e dignificação das condições de execução das penas, torna-se mais clara a necessidade da existência de um corpo de funcionários que dominem os conhecimentos e tenham a experiência e treino necessários à prossecução destes valores.\n\nCom o presente diploma dá-se um passo fundamental nesse sentido, através da criação da carreira de administração prisional, cujo conteúdo funcional é revelador dos objectivos que se prosseguem.\n\nAs normas, agora consagradas, relativas ao recrutamento, à formação inicial, ao período probatório e à avaliação de desempenho são um sinal da exigência que se pretende conferir ao ingresso na carreira e ao exercício de funções.\n\nDe entre os administradores prisionais são escolhidos os funcionários para exercer funções de direcção ou de coadjuvação à direcção de estabelecimentos prisionais. Igualmente podem ser afectos ao exercício de funções de inspecção ou de consulta técnico-científica.\n\nCom a criação desta carreira pretende-se pois criar um grupo de funcionários especificamente treinados para o exercício de funções de gestão e administração correntes de estabelecimentos prisionais capaz de conduzir, na observância da lei, o sistema prisional para uma nova fase da sua existência.\n\nAproveitou-se também o diploma para incluir algumas alterações à Lei Orgânica dos Serviços Prisionais, que não tem relação directa com a criação da carreira de administração prisional, mas que foram igualmente sujeitas a negociação colectiva.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1176358575": {
+   "fragment_id": "1011907675",
+   "type": 11,
+   "heading": "Artigo 1.º — Carreira de administração prisional",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 1.º — Carreira de administração prisional\n\n1 - É criada a carreira de administração prisional, que se rege pelo disposto no presente diploma.\n\n2 - A carreira de administração prisional é de regime especial e integra-se no grupo de pessoal técnico superior.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1176360675": {
+   "fragment_id": "1011907875",
+   "type": 11,
+   "heading": "Artigo 2.º — Conteúdo funcional e formação",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 2.º — Conteúdo funcional e formação\n\n1 - Aos funcionários integrados na carreira de administração prisional compete exercer funções de direcção de estabelecimentos prisionais ou de outras unidades orgânicas do sistema prisional, de inspecção e de consulta técnico-científica.\n\n2 - A integração na carreira de administração prisional pressupõe um elevado grau de responsabilidade, iniciativa, autonomia e de qualificação em direito penal e do processo penal, direito e ciência penitenciários, criminologia, planificação, programação e gestão de recursos do sistema prisional, exigindo domínio e visão global deste sistema, das suas relações com outros sistemas conexos e das instituições e mecanismos gerais de gestão e administração públicas.\n\n3 - O Centro de Formação Penitenciária organiza periodicamente acções de formação para actualização dos conhecimentos dos administradores prisionais.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1176360775": {
+   "fragment_id": "1011908075",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura\n\nA estrutura da carreira de administração prisional consta do anexo I ao presente diploma, que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1176360875": {
+   "fragment_id": "1011908275",
+   "type": 11,
+   "heading": "Artigo 4.º — Recrutamento",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 4.º — Recrutamento\n\n1 - O recrutamento para a carreira de administração prisional é feito, por concurso, de entre funcionários com licenciatura adequada, integrados em carreira do grupo de pessoal técnico superior ou equiparada há pelo menos três anos e com a última classificação de serviço de Muito bom.\n\n2 - O recrutamento para a carreira de administração prisional é também feito, por concurso, de entre:\n\na) Oficiais das Forças Armadas com grau de licenciatura adequada e pelo menos oito anos de prestação de serviço efectivo;\n\nb) Chefes principais, chefes e subchefes do pessoal do corpo da guarda prisional que sejam detentores de licenciatura adequada, com pelo menos sete anos na carreira e última classificação de serviço de Muito bom;\n\nc) Chefes de repartição que sejam detentores de licenciatura adequada, com pelo menos seis anos na categoria e de exercício de funções no sistema;\n\nd) Técnicos de orientação escolar e social que sejam detentores de licenciatura adequada e possuidores de adequada experiência profissional não inferior a 12 anos e última classificação de serviço de Muito bom.\n\n3 - Para efeitos do n.º 1, consideram-se equiparadas às carreiras do grupo de pessoal técnico superior as carreiras para cujo provimento é legalmente exigida uma licenciatura.\n\n4 - No concurso para recrutamento para a carreira são utilizados os seguintes métodos de selecção:\n\na) Prestação de provas de conhecimentos;\n\nb) Avaliação curricular;\n\nc) Exame psicológico de selecção.\n\n5 - Por despacho fundamentado do director-geral dos Serviços Prisionais, podem ser dispensados da prestação de provas de conhecimentos, sendo-lhes neste caso atribuída nota máxima no respectivo método de selecção, funcionários detentores de grau de doutoramento em domínios relacionados com o conteúdo funcional da carreira, bem como os que tenham exercido funções de director-geral ou de subdirector-geral, pelo período de três anos, sem prejuízo de licenciatura adequada.\n\n6 - O Ministro da Justiça determina, por despacho, e a título exemplificativo, quais as áreas cujas licenciaturas são adequadas ao ingresso na carreira.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1176360975": {
+   "fragment_id": "1011908475",
+   "type": 11,
+   "heading": "Artigo 5.º — Curso de Administração Prisional",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-L/99 - Diário da República n.º 279/1999, 2º Suplemento, Série I-A de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-1999-484587), com efeitos a partir de 1999-09-04."
+   ],
+   "markdown": "###### Artigo 5.º — Curso de Administração Prisional\n\n1 - Os candidatos à carreira de administração prisional aprovados no concurso previsto no artigo anterior frequentam o curso de Administração Prisional ministrado pelo Centro de Formação Penitenciária, da Direcção-Geral dos Serviços Prisionais.\n\n2 - O curso de Administração Prisional, que compreende períodos lectivos e períodos de exercício de funções, é objecto de regulamentação por portaria do Ministro da Justiça e do membro do Governo que tem a seu cargo a Administração Pública.\n\n3 - Na portaria referida no número anterior pode ser prevista a isenção parcial de frequência do curso para os candidatos à carreira referida no n.º 5 do artigo anterior e para os que tenham exercido cargos dirigentes nos serviços prisionais, sendo-lhes neste caso atribuída nota máxima na respectiva área ou disciplina.\n\n4 - Os funcionários frequentam o curso em regime de comissão de serviço.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-L/99 - Diário da República n.º 279/1999, 2º Suplemento, Série I-A de 1999-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-1999-484587), com efeitos a partir de 1999-09-04."
+  },
+  "1176361075": {
+   "fragment_id": "1011908675",
+   "type": 11,
+   "heading": "Artigo 6.º — Ingresso na carreira",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 6.º — Ingresso na carreira\n\n1 - Os funcionários que obtenham classificação igual ou superior a Bom no curso referido no artigo anterior ingressam na carreira de acordo com o disposto nos números seguintes.\n\n2 - O ingresso efectua-se, em regra, na categoria de administrador prisional do 4.º grau, escalão 1, ou na categoria cuja estrutura indiciária seja correspondente à de origem e em escalão a determinar nos termos do artigo 18.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n3 - Os funcionários oriundos de corpos especiais ingressam na categoria menos elevada que integre escalão a que corresponda índice com remuneração base igual ou, na falta de coincidência, índice com remuneração base superior mais aproximada.\n\n4 - Os funcionários que tenham obtido no curso classificação positiva inferior a Bom podem submeter-se a novo processo de recrutamento, com dispensa de frequência do curso, se o requererem, sem prejuízo da submissão às provas finais de avaliação.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1176361175": {
+   "fragment_id": "1011908875",
+   "type": 11,
+   "heading": "Artigo 7.º — Período probatório",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 7.º — Período probatório\n\n1 - Os funcionários aprovados no curso exercem funções, em comissão de serviço, durante um período probatório de 18 meses.\n\n2 - No período probatório referido no número anterior, os administradores prisionais exercem funções de coadjuvação à direcção de estabelecimentos prisionais pelo período mínimo de um ano.\n\n3 - Findo o período probatório e caso haja revelado aptidão para as funções, o administrador prisional é nomeado definitivamente na carreira.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1176361275": {
+   "fragment_id": "1011909075",
+   "type": 11,
+   "heading": "Artigo 8.º — Progressão e acesso",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 8.º — Progressão e acesso\n\nA progressão e o acesso na carreira seguem, com as devidas adaptações, o regime fixado para a carreira técnica superior.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1176361375": {
+   "fragment_id": "1011909475",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação de desempenho",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01.",
+    "Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+   ],
+   "markdown": "###### Artigo 10.º — Avaliação de desempenho\n\n1 - A avaliação de desempenho dos administradores obedece ao regime geral.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01.\n\n> Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 215/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2012-175545), em vigor a partir de 2012-10-01."
+  },
+  "1176361475": {
+   "fragment_id": "1011911875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Julho de 1999. - Jaime José Matos da Gama - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 20 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Agosto de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 186/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2026-1171382773), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  }
+ }
+}

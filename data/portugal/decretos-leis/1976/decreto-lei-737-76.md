@@ -1,0 +1,196 @@
+---
+schema_version: '1.0'
+id: pt:dre:409569:por
+title: Decreto-Lei n.º 737/76
+short_title: null
+summary: Determina que as receitas e despesas públicas passem a reger-se por códigos de classificação orgânica, funcional
+  e económica
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios do Plano e Coordenação Económica e das Finanças
+proposing_entity: null
+official_number: 737/76
+official_date: null
+publication_date: '1976-10-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 243/1976, Série I de 1976-10-16
+  number: '243'
+  series: I
+  supplement: null
+  pages: 2361 - 2362
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24300/23612362.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '409569'
+  dre_path: /dr/detalhe/decreto-lei/737-1976-409569
+  internal: pt:dre:409569:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/737-1976-409569
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/737-1976-409569
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-03-01T00:00:00Z'
+integrity:
+  source_sha256: 45c2ba868e790b723cd3e46ba65cbe43f03bc89fc20134d738d8ce4abd1fb293
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-737-409569.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:144217:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 737/76
+
+de 16 de Outubro
+
+Cumpre ao Governo elaborar o Orçamento Geral do Estado e apresentar à Assembleia da República a respectiva proposta de lei.
+
+Os elementos de natureza financeira que essa proposta conterá dificilmente poderiam ser obtidos através do actual esquema classificador, que, por isso, se altera de modo a adaptá-lo às exigências actuais.
+
+Por outro lado, os prazos a observar agora na preparação e apreciação do referido documento aconselham a que a classificação das receitas e despesas públicas se traduza em códigos que permitam o tratamento automático da informação.
+
+Nestes termos:
+
+O Governo decreta, nos termos do artigo 201.º, n.º 1, alínea a), da Constituição, o seguinte:
+
+###### Artigo 1.º - 1. A especialização orçamental das receitas e despesas públicas passa a reger-se por códigos de classificação orgânica, funcional e económica.
+
+2. A estrutura dos referidos códigos será aprovada por despacho conjunto dos Ministros do Plano e da Coordenação Económica e das Finanças.
+
+###### Art. 2.º - 1. Os Ministérios e Secretarias de Estado, bom como os capítulos, divisões e subdivisões orçamentais, distinguem-se de acordo com o código de classificação orgânica.
+
+2. A cada Ministério corresponderá um orçamento próprio, abrangendo as suas Secretarias de Estado, com os serviços e despesas que, nos termos das respectivas leis orgânicas, digam respeito.
+
+3. No orçamento destinado aos Encargos Gerais da Nação serão incluídos todos os demais organismos e encargos que por sua natureza lhe devam pertencer ou que o Ministro das Finanças venha a determinar.
+
+4. A enumeração nos diferentes Ministérios dos organismos ou grupos de despesas afins (capítulos) será feita seguidamente, descrevendo-se em subordinação a cada um deles os serviços dependentes (divisões) e, dentro destes, as subdivisões que se mostrem indispensáveis.
+
+5. Constituirão capítulos especiais do orçamento do Ministério das Finanças os «Encargos da dívida pública» e as «Pensões e reformas».
+
+6. Constituirão também capítulos especiais a descrever nos diferentes orçamentos as «Despesas comuns» e «Contas de ordem», bem como as despesas contempladas em planos de investimentos e aquelas que, por condicionalismos de ordem financeira, superiormente se entenda deverem destacar-se.
+
+###### Art. 3.º A sistematização das despesas por funções ou objectivos finais será feita de conformidade com o código de classificação funcional.
+
+###### Art. 4.º - 1. As receitas e despesas públicas podem ser correntes ou de capital desenvolvendo-se nestes dois grandes agrupamentos pela forma referida no código de classificação económica.
+
+2. As receitas correntes ou de capital dispõem-se por capítulos e grupos, discriminando-se dentro destes, segundo a sua natureza económica, por artigos, com numeração seguida.
+
+3. Em relação às despesas classificadas em juros e transferências correntes ou de capital serão utilizadas alíneas para designar as entidades recebedoras, do mesmo modo se procedendo no que respeita aos activos e passivos financeiros face à necessidade de se indicarem os sectores devedores e credores.
+
+4. As diferentes rubricas de classificação económica poderão ainda subdividir-se em alíneas, mas tão-somente nos casos em que se mostre conveniente ou indispensável uma maior explicitação com fins administrativos.
+
+5. Serão também utilizadas alíneas quando haja que desagregar em termos funcionais quaisquer dotações atribuídas a rubricas de classificação económica.
+
+6. As alíneas situam-se fora das colunas destinadas aos códigos de classificação funcional e económica, antecedendo as respectivas descrições orçamentais.
+
+###### Art. 5.º As «remunerações certas e permanentes» do pessoal serão desenvolvidas, em relação a cada serviço, fora da parte substancial do Orçamento Geral do Estado, em documento que dele se considera como fazendo parte integrante.
+
+###### Art. 6.º - 1. Não podem, em princípio, abranger-se numa mesma rubrica quaisquer receitas ou despesas de diferente natureza económica.
+
+2. No orçamento do Ministério das Finanças poderá, todavia, incluir-se uma dotação sem aplicação definida, que servirá para contrapartida de reforços e inscrições de verbas determinados pela necessidade de ocorrer a despesas imprevistas e inadiáveis.
+
+3. Nos casos de comprovada impossibilidade de inicialmente se proceder no orçamento à discriminação dos encargos pelas rubricas próprias, serão os mesmos, a título excepcional, descritos em epígrafes residuais «Outras despesas correntes» e «Outras despesas de capital».
+
+4. Quando no decurso do ano se verifique a necessidade da urgente inscrição orçamental de quaisquer verbas, sem que logo se mostre possível conhecer da sua distribuição, as dotações globais que nessas circunstâncias podem ser inscritas não devem manter-se no orçamento depois do ano seguinte àquele em que pela primeira vez nele foram incluídas.
+
+5. Cumpre aos respectivos serviços proceder ao registo, em termos de classificação económica, das importâncias efectivamente levantadas dos cofres do Tesouro nas condições referidas nos dois números anteriores.
+
+###### Art. 7.º - 1. Até 15 de Março de cada ano, os serviços processadores das despesas enviarão às correspondentes delegações da Direcção-Geral da Contabilidade Pública os elementos relativos ao ano anterior que a seguir se descrevem:
+
+1.º Valores liquidados em conta das seguintes dotações orçamentais:
+
+a) «Reconstituição de bens», distribuídos por bens duradouros e investimentos;
+
+b) «Indemnizações» e «Condenações judiciais», distribuídas por sectores e subsectores institucionais recebedores;
+
+c) «Restituições», distribuídas segundo a classificação económica das receitas devolvidas e sectores e subsectores recebedores;
+
+d) «Investimentos», na parte relativa à aquisição de bens de capital usados, nos quais se compreendem sempre os terrenos;
+
+e) «Reposições não abatidas nos pagamentos», distribuídas pelas correspondentes dotações de despesa nos diversos anos;
+
+f) Dotações globais, a que se referem os n.os 3 e 4 do artigo 6.º do presente diploma;
+
+2.º Valores efectivos ou estimados dos terrenos adquiridos em conta da rubrica «Bens duradouros» ou pela de «investimentos, quando não tiver sido possível distinguir as despesas no aditamento revelador do tipo de bens de capital;
+
+3.º Valores efectivos ou estimados dos bens e serviços que receberam ou forneceram a título gratuito;
+
+4.º Valor das aquisições de bons de consumo duradouros e de investimento na parte relativa às importações directamente efectuadas.
+
+2. Até ao último dia de Março de cada ano, as delegações da Direcção-Geral da Contabilidade Pública organizarão, relativamente à gerência anterior e no que respeita ao respectivo Ministério, um mapa-resumo com os valores dos pagamentos efectivos respeitantes a anos anteriores, com indicação destes e das dotações que os suportam.
+
+###### Art. 8.º O Orçamento Geral do Estado incluirá os mapas-resumo das receitas e despesas que os Ministros das Finanças e do Plano e da Coordenação Económica entendam necessários para uma apreciação global dos valores previstos e desenvolvidos segundo os diferentes critérios de classificação.
+
+###### Art. 9.º As regras de classificação das receitas e despesas estabelecidas no presente diploma são aplicáveis, com as adaptações porventura necessárias, aos orçamentos privativos dos fundos e serviços autónomos da Administração Central.
+
+###### Art. 10.º Aos serviços processadores das despesas cumpre observar que as verbas atribuídas com uma finalidade especial ou excepcionalmente concedidos em determinado ano económico não podem, sem autorização do Ministro das Finanças, ter aplicação diferente daquela para que expressamente foram propostas.
+
+###### Art. 11.º - 1. As infracções pela utilização indevida das dotações e pela classificação errada das despesas, quando não possam ser relevadas em virtude das circunstâncias especiais em que ocorreram, determinam o pagamento, pelas entidades responsáveis dos serviços processadores, de uma multa até 10000$00, segundo a gravidade da falta.
+
+2. Nos casos em que se revele o propósito de fraude, além da referida multa, serão os responsáveis punidos com a restituição das importâncias despendidas.
+
+3. A efectivação destas responsabilidades compete ao tribunal de Contas, a cuja Direcção-Geral serão comunicadas, para o efeito de se instaurarem os correspondentes processos de punição, as faltas que pela Direcção-Geral da Contabilidade Pública forem apuradas em resultado da sua acção fiscalizadora.
+
+4. Para os efeitos deste artigo, são consideradas como boas as classificações que pelas direcções e delegações da Direcção-Geral da Contabilidade Pública forem dadas às receitas e despesas em face de consultas apresentadas pelos serviços.
+
+###### Art. 12.º - 1. As dificuldades ou dúvidas que surjam na descrição ou classificação das receitas e despesas ou, de um modo geral, na aplicação das regras prescritas nos artigos antecedentes serão resolvidas pela Direcção-Geral da Contabilidade Pública, através da sua Direcção da Contabilidade Geral, quanto às receitas, e por intermédio das suas delegações junto de cada Ministério quanto às despesas.
+
+2. As referidas direcção e delegações poderão, quando o julgarem necessário, consultar a Direcção do Orçamento e das Inspecções, da mesma Direcção-Geral, à qual também compete prenunciar-se quanto a idênticas dificuldades e dúvidas que se apresentem em relação aos orçamentos privativos.
+
+###### Art. 13.º Até à publicação do diploma que estabeleça o esquema geral de classificação das receitas e despesas aplicável a todos os organismos do sector público os casos omissos serão resolvidos por despacho do Ministro das Finanças.
+
+###### Art. 14.º Ficam revogados o [Decreto-Lei n.º 305/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1971-642729), de 15 de Julho, e as disposições gerais e especiais que contrariem os preceitos contidos no presente decreto-lei.
+
+Mário Soares - Henrique Medina Carreira.
+
+**Promulgado em 30 de Setembro de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

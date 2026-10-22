@@ -1,0 +1,212 @@
+---
+schema_version: '1.0'
+id: pt:dre:323700:por
+title: Decreto-Lei n.º 173/99
+short_title: null
+summary: Designa a entidade nacional competente para a elaboração do relatório previsto nos termos do artigo 8.º do Regulamento
+  (CE) n.º 2064/97, de 15 de Outubro, bem como fixa as regras e os procedimentos a observar internamente para a emissão do
+  referido relatório e da declaração que garante o cumprimento dos requisitos mínimos que o sistema de gestão e controlo do
+  QCA deve respeitar, enunciados no citado regulamento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 173/99
+official_date: null
+publication_date: '1999-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/1999, Série I-A de 1999-05-20
+  number: '117'
+  series: I
+  supplement: null
+  pages: 2714 - 2716
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/05/117a00/27142716.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/173/1999/05/20/p/dre/pt/html
+  oj: null
+  dre: '323700'
+  dre_path: /dr/detalhe/decreto-lei/173-1999-323700
+  internal: pt:dre:323700:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1999-323700
+  metadata_url: https://data.dre.pt/eli/dec-lei/173/1999/05/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1999-323700
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-03-16T00:00:00Z'
+integrity:
+  source_sha256: 8a527793e6ae8f0a8ecb4d1be48174602f3f1c4cf5eaf901d13aba204abb1deb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-173-323700.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Inspeção Geral de Finanças
+- Gestão Financeira
+- Conservação de Documentos
+- Controlo Financeiro
+- Definição de Competências
+- Fundos CE
+- QCA
+- Regulamento
+- Relatório
+- Segredo Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:2224855:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31988R4253
+  label: null
+  source: http://data.europa.eu/eli/reg/1988/4253/oj
+- type: cites
+  target: celex:31993R2082
+  label: null
+  source: http://data.europa.eu/eli/reg/1993/2082/oj
+- type: cites
+  target: celex:31994R3193
+  label: null
+  source: http://data.europa.eu/eli/reg/1994/3193/oj
+- type: cites
+  target: celex:31997R2064
+  label: null
+  source: http://data.europa.eu/eli/reg/1997/2064/oj
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 173/99
+
+de 20 de Maio
+
+O Regulamento (CE) n.º [2064/97](https://data.europa.eu/eli/reg/1997/2064/oj?locale=pt), da Comissão, de 15 de Outubro, estabelece normas de execução do Regulamento (CEE) n.º [4253/88](https://data.europa.eu/eli/reg/1988/4253/oj?locale=pt), do Conselho, de 19 de Dezembro, na última redacção que lhe foi dada pelo Regulamento (CE) n.º [3193/94](https://data.europa.eu/eli/reg/1994/3193/oj?locale=pt), no que respeita ao controlo financeiro, pelos Estados membros, das operações co-financiadas pelos fundos estruturais.
+
+A aprovação do referido regulamento insere-se num quadro de desenvolvimento dos princípios que presidem ao controlo financeiro a que os Estados membros devem submeter as operações co-financiadas pelos fundos e instrumentos financeiros estruturais e que se encontram postulados no n.º 1 do artigo 23.º do citado Regulamento (CEE) n.º [4253/88](https://data.europa.eu/eli/reg/1988/4253/oj?locale=pt), do Conselho, de 19 de Dezembro.
+
+Foram, assim, definidas e consagradas determinadas exigências mínimas que os sistemas nacionais de gestão e controlo financeiro dos Estados membros devem satisfazer para atingir um nível aceitável em toda a União Europeia.
+
+De entre estas exigências, avulta a obrigação para todos os Estados membros de apresentar à Comissão, no contexto do encerramento das diferentes formas de intervenção, um relatório com carácter independente que forneça uma conclusão global relativamente à validade do pedido de pagamento final e que permita a identificação e um tratamento satisfatório de quaisquer deficiências ou irregularidades.
+
+Tal relatório deve ser elaborado por uma pessoa ou organismo funcionalmente independente do serviço responsável pela execução das formas de intervenção dos fundos e instrumentos financeiros estruturais.
+
+Perante a entrada em vigor do citado regulamento e das novas exigências nele enunciadas, há que proceder às necessárias adaptações no ordenamento jurídico interno por forma a, no âmbito da actual estrutura orgânica relativa à gestão, acompanhamento, avaliação e controlo da execução do Quadro Comunitário de Apoio (QCA) definida no Decreto-Lei n.º 99/94, de 19 de Abril, com as alterações introduzidas pelo Decreto-Lei n.º 208/98, de 4 de Julho, criar um quadro normativo que permita dar cumprimento e execução às novas obrigações regulamentares.
+
+Para tanto, estabelecem-se as regras e os procedimentos indispensáveis à elaboração do relatório supramencionado, estipulando, nomeadamente, qual o organismo responsável pela sua emissão e os meios que terá ao seu dispor para a sua execução, dotando-o para tal das necessárias atribuições.
+
+Considerando ser fundamental a articulação entre as entidades que, directa ou indirectamente, intervêm no processo de gestão, acompanhamento, avaliação e controlo das diferentes formas de intervenção, consagra-se um dever de colaboração para com a Inspecção Geral de Finanças;
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+O presente diploma estabelece as regras e os procedimentos a adoptar para a elaboração do relatório a emitir no encerramento das diferentes formas de intervenção co-financiadas pelos fundos e instrumentos financeiros estruturais no âmbito do Quadro Comunitário de Apoio (QCA), nos termos e para os efeitos previstos no artigo 8.º do Regulamento (CE) n.º [2064/97](https://data.europa.eu/eli/reg/1997/2064/oj?locale=pt), da Comissão, de 15 de Outubro.
+
+###### Artigo 2.º — Atribuições
+
+A Inspecção-Geral de Finanças (IGF) é o organismo nacional competente para a elaboração do relatório previsto no artigo anterior.
+
+###### Artigo 3.º — Natureza
+
+O relatório a que se referem os artigos anteriores, que resume as conclusões dos controlos efectuados nos anos anteriores, deverá mencionar se os controlos efectuados às acções co-financiadas pelos fundos e instrumentos financeiros estruturais foram planeados e realizados de acordo com o disposto no Regulamento (CE) n.º [2064/97](https://data.europa.eu/eli/reg/1997/2064/oj?locale=pt), da Comissão, de 15 de Outubro, e oferecem uma garantia razoável quanto à inexistência de erros materiais na declaração final de despesa e no pedido de saldo final da ajuda comunitária, estabelecendo, assim, a validade do pedido de pagamento do saldo final e a legalidade e regularidade das operações em que se baseia a declaração final de despesa.
+
+###### Artigo 4.º — Princípios orientadores
+
+Para a emissão do relatório referido nos artigos anteriores, a IGF:
+
+a) Assegura a coordenação de todos os aspectos atinentes à sua realização, promovendo, designadamente, sempre que tal se mostre necessário, a elaboração de programas de trabalho adequados às especificidades dos sistemas de gestão e controlo das intervenções operacionais;
+
+b) Promove a intervenção de peritos ou de recursos qualificados de outras entidades, nomeadamente dos organismos de controlo de segundo nível que se mostrem adequados ao cabal cumprimento das exigências estabelecidas pelo presente diploma.
+
+###### Artigo 5.º — Articulação
+
+Para os efeitos consagrados pelo presente diploma, a intervenção de recursos qualificados dos organismos que integram os diferentes níveis de controlo, nomeadamente dos organismos de controlo de segundo nível, processa-se em conformidade com metodologias previamente acordadas com estes, no quadro do funcionamento do sistema nacional de controlo do QCA, tal como previsto no Decreto-Lei n.º 99/94, de 19 de Abril, com as alterações introduzidas pelo Decreto-Lei n.º 208/98, de 14 de Julho, e respectivos diplomas regulamentares e, em especial, de acordo com as modalidades de articulação neles previstas.
+
+###### Artigo 6.º — Da emissão do relatório
+
+1 - Após a verificação das contas e relatórios de execução das acções, enviados pelos gestores, os interlocutores financeiros da Comissão Europeia transmitem à IGF, o mais tardar até três meses após o início do prazo a que se refere o primeiro travessão do n.º 4 do artigo 21.º do Regulamento (CEE) n.º [4253/88](https://data.europa.eu/eli/reg/1988/4253/oj?locale=pt), do Conselho, de 19 de Dezembro, na redacção dada pelo Regulamento (CEE) n.º [2082/93](https://data.europa.eu/eli/reg/1993/2082/oj?locale=pt), do Conselho, de 20 de Julho, os documentos identificados naquele n.º 4, bem como outros elementos de informação que considerem necessários à elaboração do relatório previsto no presente diploma.
+
+2 - Previamente à emissão do relatório, a IGF dará conhecimento do respectivo projecto aos interlocutores financeiros da Comissão Europeia e nos 10 dias úteis seguintes apreciará os comentários que estes lhe transmitam. Do mesmo modo, dará conhecimento aos respectivos responsáveis governamentais.
+
+3 - Cumprido o preceituado no número anterior, a IGF remeterá o relatório aos interlocutores financeiros da Comissão Europeia para o fundo ou instrumento financeiro correspondente à forma de intervenção analisada, devendo estes, nos termos e para os efeitos conjugados do n.º 4 do artigo 21.º do Regulamento (CEE) n.º [4253/88](https://data.europa.eu/eli/reg/1988/4253/oj?locale=pt), do Conselho, de 19 de Dezembro, e do artigo 8.º do Regulamento (CE) n.º [2064/97](https://data.europa.eu/eli/reg/1997/2064/oj?locale=pt), da Comissão, de 15 de Outubro, proceder ao seu envio à Comissão Europeia.
+
+4 - Do relatório e respectiva declaração previstos no artigo 8.º do Regulamento (CE) n.º [2064/97](https://data.europa.eu/eli/reg/1997/2064/oj?locale=pt), da Comissão, de 15 de Outubro, será igualmente dado conhecimento, pela IGF, ao Tribunal de Contas.
+
+5 - Sempre que os interlocutores financeiros da Comissão Europeia, por motivo fundamentado, não observem o prazo estabelecido no n.º 1 da presente disposição, deve ser considerada uma dilação equivalente, para efeitos do disposto no n.º 3.
+
+###### Artigo 7.º — Dever de colaboração
+
+No âmbito e para os fins visados no presente diploma, as entidades que, directa ou indirectamente, intervêm no processo de gestão, acompanhamento, avaliação e controlo das diferentes formas de intervenção co-financiadas pelos fundos e instrumentos financeiros estruturais têm o dever de colaborar com a IGF.
+
+###### Artigo 8.º — Contactos com a Comissão Europeia
+
+A IGF, como interlocutor nacional da Comissão Europeia no domínio do controlo financeiro, assegurará, nos termos e para os efeitos do artigo 10.º do Regulamento (CE) n.º [2064/97](https://data.europa.eu/eli/reg/1997/2064/oj?locale=pt), da Comissão, de 15 de Outubro, o estabelecimento dos contactos com a Direcção-Geral da Comissão Europeia responsável pelo controlo financeiro, considerados relevantes para o cabal cumprimento das atribuições consagradas pelo presente diploma.
+
+###### Artigo 9.º — Relatórios intercalares
+
+A IGF informará a Comissão Europeia todos os anos, antes de 30 de Junho, sobre a forma como foi aplicado em Portugal o Regulamento (CE) n.º [2064/97](https://data.europa.eu/eli/reg/1997/2064/oj?locale=pt), da Comissão, de 15 de Outubro, durante o ano civil anterior, nos termos do respectivo artigo 9.º, fazendo referência especial às obrigações contidas no seu artigo 2.º e actualizando, se for caso disso, a descrição do sistema de gestão e controlo referida no n.º 1 do artigo 23.º do Regulamento (CEE) n.º [4253/88](https://data.europa.eu/eli/reg/1988/4253/oj?locale=pt), do Conselho, de 19 de Dezembro.
+
+###### Artigo 10.º — Conservação de documentos
+
+A documentação recebida ou produzida pela IGF no quadro das funções que lhe são cometidas por este diploma, incluindo a armazenada em suporte magnético, será conservada durante o prazo estipulado no n.º 3 do artigo 23.º do Regulamento (CEE) n.º [4253/88](https://data.europa.eu/eli/reg/1988/4253/oj?locale=pt), do Conselho, de 19 de Dezembro.
+
+###### Artigo 11.º — Sigilo
+
+As informações obtidas durante os controlos são abrangidas pelo segredo profissional, em conformidade com as disposições legais nacionais ou comunitárias aplicáveis. Não podem ser divulgadas a não ser às pessoas que devam delas ter conhecimento para poderem exercer as funções que lhes estão cometidas nos Estados membros ou nas instituições da União Europeia.
+
+###### Artigo 12.º — Disposições finais
+
+1 - Para o desempenho das tarefas decorrentes da elaboração do relatório previsto no presente diploma, serão preferencialmente utilizadas as linhas de financiamento previstas para a assistência técnica ao QCA, desde que as disponibilidades financeiras sejam efectivamente identificadas e confirmadas pelos respectivos responsáveis pela gestão, tendo-se por objectivo suprir a necessidade de reforçar externamente os meios humanos e materiais afectos.
+
+2 - O recurso a estas linhas de financiamento deverá ser equacionado, preferencialmente, no quadro da formação dos recursos humanos e do respectivo suporte técnico que venham a ser afectos ao desempenho das tarefas previstas neste diploma.
+
+Visto e aprovado em Conselho de Ministros de 6 de Abril de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Apolinário Nunes Portada - Eduardo Luís Barreto Ferro Rodrigues.
+
+**Promulgado em 29 de Abril de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 4 de Maio de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

@@ -1,0 +1,195 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:228462:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-915235736",
+ "dre_path": "/dr/detalhe/decreto-lei/165-1986-228462",
+ "source_lastmod": "2025-04-16",
+ "versions": [
+  {
+   "date": "1986-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "915235634",
+    "915235635",
+    "915235636",
+    "915235637",
+    "915235638",
+    "915235639",
+    "915235640",
+    "915235641",
+    "915235642",
+    "915235643",
+    "915235644",
+    "915235645",
+    "915235646",
+    "915235647"
+   ]
+  },
+  {
+   "date": "2013-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499180:por",
+     "title": "Lei n.º 55/2013",
+     "published": "2013-08-08",
+     "dre_path": "/dr/detalhe/lei/55-2013-499180"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "915235634",
+    "915235635",
+    "915235636",
+    "915235637",
+    "915235638",
+    "915235669",
+    "915235640",
+    "915235641",
+    "915235642",
+    "915235643",
+    "915235644",
+    "915235645",
+    "915235646",
+    "915235647",
+    "915235648"
+   ]
+  }
+ ],
+ "fragments": {
+  "915235634": {
+   "fragment_id": "915235737",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 165/86\n\nde 26 de Junho\n\nA especial situação geográfica da Madeira e as características bem específicas da sua economia levaram o Governo a autorizar, nos termos do Decreto-Lei n.º 500/80, de 20 de Outubro, a criação de uma zona franca na Região Autónoma da Madeira.\n\nO objectivo fulcral que se teve em vista foi o de promover e captar novos investimentos, voltados para o desenvolvimento económico e social da Região, tendo por isso o Governo deliberado, nos termos do Decreto Regulamentar n.º 53/82, de 23 de Agosto, que na referida zona franca poderão ser autorizadas todas as actividades de natureza industrial, comercial ou financeira.\n\nDentro desta linha de orientação, o Governo propôs e obteve da Assembleia da República autorização legislativa para rever os benefícios fiscais a conceder às empresas que se instalem nas zonas francas já criadas, o que ora se faz, em conjugação com outros benefícios cuja atribuição visa iguais propósitos.\n\nNa concepção do esquema de incentivos agora consagrado teve-se já em consideração o arraso económico de ajuda à instalação de empresas definido em termos compatíveis com o disposto no n.º 3 do artigo 92.º do Tratado de Roma e vocacionado para o desenvolvimento regional e para a melhoria das condições de concorrência por parte das empresas que se instalem na zona franca da Madeira.\n\nAssim:\n\nNo uso da autorização conferida pelo artigo 77.º da Lei n.º 9/86, de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "915235635": {
+   "fragment_id": "915235738",
+   "type": 11,
+   "heading": "Artigo 1.º — (Objectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Objectivos)\n\nPara promoção e captação de investimentos na zona franca da Madeira poderão ser concedidos benefícios fiscais e financeiros de âmbito regional, com os seguintes objectivos:\n\na) Promover a instalação de novos projectos de investimento;\n\nb) Atrair e fixar factores de produção;\n\nc) Apoiar o arranque e a estabilização das empresas instaladas."
+  },
+  "915235636": {
+   "fragment_id": "915235739",
+   "type": 11,
+   "heading": "Artigo 2.º — (Incentivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Incentivos)\n\nOs incentivos a conceder para promover e captar investimentos na zona franca da Madeira serão definidos pelo Governo Regional, tendo em conta, designadamente, o seu contributo para o desenvolvimento económico e social da Região e os recursos de que o Governo Regional possa dispor para o efeito."
+  },
+  "915235637": {
+   "fragment_id": "915235740",
+   "type": 11,
+   "heading": "Artigo 3.º — (Convenções sobre dupla tributação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Convenções sobre dupla tributação)\n\nNa concessão de isenções ou de redução de taxa dos impostos sobre o rendimento deverão ter-se presentes os efeitos decorrentes das medidas que forem aplicáveis para eliminar as duplas tributações internacionais."
+  },
+  "915235638": {
+   "fragment_id": "915235741",
+   "type": 11,
+   "heading": "Artigo 4.º — (Requisitos contabilísticos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Requisitos contabilísticos)\n\nAs empresas cuja instalação vier a ser autorizada na zona franca da Madeira deverão dispor de uma contabilidade adequada, de modo que possa distinguir-se, clara e inequivocamente, o lucro das actividades exercidas na zona franca, com observância do disposto no § único do artigo 22.º do Código da Contribuição Industrial, se for caso disso."
+  },
+  "915235639": {
+   "fragment_id": "915235742",
+   "type": 11,
+   "heading": "Artigo 5.º — (Incentivos financeiros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Incentivos financeiros)\n\n1 - Às empresas instaladas na zona franca da Madeira poderão ser concedidos pelo Governo Regional os seguintes incentivos financeiros:\n\na) Comparticipação até 50% nos custos de formação de pessoal, estabelecida em função do seu conteúdo tecnológico e do seu impacte sócio-económico regional;\n\nb) Comparticipação até 50% nos custos derivados de adopção de processos de fabrico de que resultem economias de energia.\n\n2 - Os encargos decorrentes do número anterior devem ter cobertura no orçamento regional."
+  },
+  "915235640": {
+   "fragment_id": "915235743",
+   "type": 11,
+   "heading": "Artigo 6.º — (Incentivos fiscais aos sócios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Incentivos fiscais aos sócios)\n\nAs entidades que participem na constituição do capital social de empresas a instalar na zona franca da Madeira aproveitam, com dispensa de qualquer formalidade, dos seguintes incentivos fiscais:\n\na) Será considerada custos do exercício para efeitos da contribuição industrial do exercício a que respeita a totalidade da sua participação no capital social da sociedade constituída;\n\nb) Serão isentas de imposto de capitais e de imposto complementar relativamente aos rendimentos provenientes de lucros de empréstimos, suprimentos, bem como os de outros abonos feitos àquelas sociedades, bem como os rendimentos resultantes dos lucros não levantados até ao fim do ano em que foram colocados à sua disposição;\n\nc) Serão isentas de imposto de mais-valias devido pelos aumentos de capital das mesmas sociedades;\n\nd) Serão isentas de sisa e do imposto sobre as sucessões e doações as transmissões, a título oneroso ou gratuito, consoante o caso, de partes sociais, quotas, acções e de outros bens que integrem o património das empresas instaladas na zona franca da Madeira, desde que a respectiva actividade seja exercida exclusivamente naquela zona franca."
+  },
+  "915235641": {
+   "fragment_id": "915235744",
+   "type": 11,
+   "heading": "Artigo 7.º — (Incentivos fiscais às empresas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Incentivos fiscais às empresas)\n\nAs empresas instaladas na zona franca da Madeira gozam dos seguintes benefícios fiscais:\n\na) Isenção de sisa e de imposto sobre as sucessões e doações devidos pelas aquisições de bens imóveis destinados à sua instalação;\n\nb) Isenção de imposto de mais-valias relativamente a transmissões onerosas de terrenos para construção e de bens ou valores do activo imobilizado por elas mantidos como reserva ou para fruição;\n\nc) Isenção até 31 de Dezembro de 2011 de contribuição predial, contribuição industrial e de imposto complementar respeitantes aos rendimentos derivados do exercício da sua actividade na zona franca da Madeira;\n\nd) Isenção de taxas e impostos locais;\n\ne) Isenção de impostos extraordinários sobre lucros e despesas."
+  },
+  "915235642": {
+   "fragment_id": "915235745",
+   "type": 11,
+   "heading": "Artigo 8.º — (Incentivos fiscais às operações de capitais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Incentivos fiscais às operações de capitais)\n\nSão isentos de imposto de capitais e de imposto complementar os juros de empréstimos contraídos por empresas instaladas na zona franca da Madeira junto de instituições de crédito estrangeiras, bem como os juros de obrigações emitidas pelas mesmas empresas, desde que o produto desses empréstimos se destine à realização de investimentos e ao seu normal funcionamento naquela zona franca."
+  },
+  "915235643": {
+   "fragment_id": "915235746",
+   "type": 11,
+   "heading": "Artigo 9.º — (Incentivos no âmbito da Segurança Social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Incentivos no âmbito da Segurança Social)\n\nSobre as remunerações dos trabalhadores admitidos nas empresas instaladas na mencionada zona franca com menos de 22 anos, em regime de estágio ou de aprendizagem, não incidirão deduções para a Segurança Social por parte da entidade patronal até que atinjam aquela idade."
+  },
+  "915235644": {
+   "fragment_id": "915235747",
+   "type": 11,
+   "heading": "Artigo 10.º — (Incentivos fiscais à transferência de tecnologia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Incentivos fiscais à transferência de tecnologia)\n\nSão isentos de qualquer contribuição ou imposto os rendimentos resultantes da concessão ou cedência temporária de patentes de invenção, licenças de exploração, modelos de utilidade, desenhos e modelos industriais, marcas, nomes e insígnias de estabelecimentos, processos de fabrico ou conservação de produtos e direitos análogos, bem como os recebidos pela prestação de informações respeitantes a uma experiência adquirida no sector industrial, comercial ou científico."
+  },
+  "915235645": {
+   "fragment_id": "915235748",
+   "type": 11,
+   "heading": "Artigo 11.º — (Investimento estrangeiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Investimento estrangeiro)\n\n1 - Aos investimentos directos estrangeiros que se destinem à instalação de novas empresas na zona franca da Madeira será aplicado o regime de benefícios fiscais constante dos artigos anteriores.\n\n2 - Às empresas estrangeiras registadas na zona franca da Madeira, bem como aos respectivos sócios e titulares, ser-lhes-á, designadamente, garantido:\n\na) Liberdade de repatriação de capitais investidos e lucros;\n\nb) Liberdade de transferência de fundos referentes a operações comerciais;\n\nc) Não imposição de restrições à importação de capitais e simplificação dos respectivos procedimentos administrativos."
+  },
+  "915235646": {
+   "fragment_id": "915235749",
+   "type": 11,
+   "heading": "Artigo 12.º — (Empresas de prestação de serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Empresas de prestação de serviços)\n\n1 - À empresa concessionária da zona franca da Madeira e às empresas de prestação de serviços comerciais ou financeiros a que se faz referência no n.º 1 do artigo 4.º do Decreto Regulamentar n.º 53/82, de 23 de Agosto, poderá o Governo Regional da Madeira, no exercício dos poderes conferidos pelo artigo 2.º do presente diploma, autorizar a aquisição ou uso de instalações permanentes na Região Autónoma da Madeira se tal se revelar indispensável ou conveniente para o mais eficiente exercício das respectivas actividades.\n\n2 - As instalações a que se refere o número anterior deverão identificar que se trata de empresas registadas na zona franca da Madeira, nelas não podendo ser efectuadas quaisquer operações de transformação, manuseamento ou armazenagem de mercadorias."
+  },
+  "915235647": {
+   "fragment_id": "915235750",
+   "type": 11,
+   "heading": "Artigo 13.º — (Regime fiscal de concessionária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Regime fiscal de concessionária)\n\nO regime fiscal previsto nos artigos 6.º, 7.º, 8.º, 9.º e 10.º será aplicado à empresa concessionária da exploração da zona franca, aos respectivos sócios ou titulares e aos actos o operações por elas praticados e conexos com o seu objecto, salvo a data indicada na alínea c) do artigo 7.º, que será 31 de Dezembro de 2017."
+  },
+  "915235669": {
+   "fragment_id": "915235742",
+   "type": 11,
+   "heading": "Artigo 5.º — (Incentivos financeiros)",
+   "in_force_from": "2013-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 55/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/lei/55-2013-499180), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 5.º — (Incentivos financeiros)\n\n1 - Às empresas instaladas na zona franca da Madeira poderão ser concedidos pelo Governo Regional os seguintes incentivos financeiros:\n\na) Comparticipação até 50% nos custos de formação de pessoal, estabelecida em função do seu conteúdo tecnológico e do seu impacte sócio-económico regional;\n\nb) Comparticipação até 50% nos custos derivados de adopção de processos de fabrico de que resultem economias de energia.\n\n2 - Os encargos decorrentes do número anterior devem ter cobertura no orçamento regional.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 55/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/lei/55-2013-499180), em vigor a partir de 2013-08-09"
+  },
+  "915235648": {
+   "fragment_id": "915235751",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 9 de Junho de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Junho de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

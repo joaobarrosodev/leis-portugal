@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:476769:por
+title: Decreto-Lei n.º 263/2003
+short_title: null
+summary: Declara a utilidade pública e a urgência das expropriações dos imóveis e direitos a eles relativos necessários à
+  realização do empreendimento designado «Museu de Arte e Arqueologia do Vale do Côa»
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 263/2003
+official_date: null
+publication_date: '2003-10-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 247/2003, Série I-A de 2003-10-24
+  number: '247'
+  series: I
+  supplement: null
+  pages: 7084 - 7085
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/10/247a00/70847085.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/263/2003/10/24/p/dre/pt/html
+  oj: null
+  dre: '476769'
+  dre_path: /dr/detalhe/decreto-lei/263-2003-476769
+  internal: pt:dre:476769:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2003-476769
+  metadata_url: https://data.dre.pt/eli/dec-lei/263/2003/10/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2003-476769
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-10-24T00:00:00Z'
+integrity:
+  source_sha256: 30313042713670cd70dcfb1f1ee857df39f9b8c07ad22a6e55ef3548af394631
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-263-476769.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reserva Ecológica Nacional
+- Reserva Agrícola Nacional
+- Expropriação
+- Ministro da Cultura
+- Indemnização
+- Instituto Português de Arqueologia
+- Museu de Arte e Arqueologia do Vale do Côa
+- Prédio Rústico
+- Utilidade Pública
+relationships: []
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 263/2003
+
+de 24 de Outubro
+
+O Programa do XV Governo Constitucional estabelece como medida prioritária a desenvolver, no âmbito do Ministério da Cultura, a reformulação e redimensionamento do projecto do Museu do Côa.
+
+Deste modo, importa desencadear, com a maior brevidade possível, os mecanismos indispensáveis para cumprir aquele objectivo, possibilitando, nomeadamente, a adopção de medidas que viabilizem a nova localização escolhida pelo Governo e a construção do referido Museu.
+
+Na verdade, o empreendimento do Museu de Arte e Arqueologia do Vale do Côa reveste-se de interesse nacional, assumindo a sua execução especial complexidade.
+
+Para garantir a eficácia na realização deste projecto, importa, com sujeição absoluta ao preceituado no Código das Expropriações, adoptar medidas de carácter geral que possibilitem a rápida disponibilização dos terrenos indispensáveis à implantação do Museu e à respectiva acessibilidade e que se consubstanciam quer no reconhecimento da utilidade pública, quer no reconhecimento do carácter urgente das expropriações.
+
+As obras necessárias à implantação do Museu de Arte e Arqueologia do Vale do Côa, bem como das respectivas acessibilidades, não poderão iniciar-se antes de aprovados e concluídos o projecto de arquitectura e os estudos complementares, nomeadamente os de natureza geotécnica, estando ainda dependentes da abertura de concurso público para adjudicação da obra. Consequentemente, é ainda prematura a estipulação de uma calendarização exacta para o início das obras, sendo, no entanto, previsível que tal venha a ocorrer no primeiro semestre de 2005.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Utilidade pública e urgência das expropriações
+
+1 - É declarada a utilidade pública, com carácter urgente, das expropriações dos bens imóveis e direitos a eles relativos necessários à realização do empreendimento designado «Museu de Arte e Arqueologia do Vale do Côa» e que se encontrem integrados no perímetro definido na planta anexa ao presente diploma e que dele faz parte integrante.
+
+2 - É declarada a utilidade pública das expropriações dos bens imóveis e direitos a eles relativos que sejam necessários à construção das infra-estruturas viárias exigidas, para substituição ou melhoramento das redes viárias afectadas ou necessárias à realização do empreendimento.
+
+3 - Compete ao Instituto Português de Arqueologia (IPA), sem prejuízo das competências próprias do Governo, promover e desenvolver as diligências inerentes ao procedimento das expropriações em conformidade com o presente diploma e com o disposto no Código das Expropriações.
+
+###### Artigo 2.º — Procedimento
+
+1 - Compete ao Ministro da Cultura determinar por despacho, sob proposta do IPA, os bens imóveis abrangidos pela declaração de utilidade pública a que se refere o artigo anterior, fazendo-o sem dependência do requerimento inicial, previsto no artigo 12.º do Código das Expropriações, e das formalidades a ele relativas.
+
+2 - A concretização da declaração de utilidade pública dos bens a que se refere o número anterior pode consistir na aprovação de planta do local da situação desses bens a expropriar que contenha a delimitação precisa dos respectivos limites e mencione graficamente a escala utilizada, ou na aprovação de mapa que mencione as áreas, os proprietários e demais interessados e, sempre que possível, a descrição predial e a inscrição matricial.
+
+3 - O despacho a que se refere o n.º 1 é publicado na 2.ª série do Diário da República, acompanhado da planta aprovada ou do mapa de áreas e de proprietários e demais interessados, devendo a publicação mencionar os locais onde aquela pode ser consultada.
+
+4 - O despacho a que se refere o n.º 1 é ainda notificado, por carta ou ofício sob registo com aviso de recepção, aos expropriados e demais interessados conhecidos, procedendo-se a notificação por editais, caso haja expropriados ou interessados desconhecidos.
+
+###### Artigo 3.º — Posse administrativa
+
+1 - É conferida ao IPA a posse administrativa dos bens a expropriar, nos termos dispostos nos números seguintes.
+
+2 - A posse administrativa dos bens a expropriar fundamenta-se na necessidade de garantir a rápida disponibilização dos terrenos indispensáveis à realização do projecto do empreendimento do Museu de Arte e Arqueologia do Vale do Côa.
+
+3 - O prazo previsto para o início das obras é de 15 dias após a adjudicação da obra, na sequência de concurso público realizado para o efeito.
+
+4 - A investidura administrativa na posse dos bens depende da notificação da declaração de utilidade pública e da autorização da posse administrativa, do depósito e da vistoria ad perpetuam rei memoriam, nos termos do disposto no artigo anterior e no artigo 20.º do Código das Expropriações.
+
+###### Artigo 4.º — Garantia e conteúdo das indemnizações
+
+1 - O Estado garante aos expropriados e demais interessados o pagamento das indemnizações que vierem a ser determinadas.
+
+2 - As expropriações previstas no presente diploma conferem aos expropriados o direito de receber o pagamento contemporâneo de uma justa indemnização, de acordo com os critérios previstos no Código das Expropriações.
+
+3 - O valor das indemnizações é determinado por acordo ou, na falta deste, por arbitragem nos termos do presente diploma.
+
+4 - Na determinação do valor das indemnizações não pode ser tomada em consideração a mais-valia que resultar da própria declaração de utilidade pública da correspondente expropriação, bem como da efectiva realização do empreendimento e dos projectos e instrumentos de planeamento que lhe respeitam.
+
+5 - Na determinação do valor das indemnizações não são também considerados quaisquer factores, circunstâncias ou situações criados dolosamente com o propósito de aumentar o valor do bem expropriado.
+
+###### Artigo 5.º — Comissão arbitral
+
+1 - A arbitragem a que se refere o n.º 3 do artigo anterior é realizada por uma comissão arbitral constituída por três peritos da lista oficial, designados pelo presidente do Tribunal da Relação de Coimbra, que deverá, igualmente, indicar logo o que presidirá.
+
+2 - Para o efeito do disposto no número precedente, a entidade expropriante solicita a designação dos árbitros directamente ao presidente do Tribunal da Relação de Coimbra, a quem cabe proferir o competente despacho de designação no prazo de cinco dias.
+
+3 - No prazo de 10 dias a contar da sua recepção, a entidade expropriante notifica na íntegra a comunicação da designação dos árbitros às pessoas e nos termos referidos nas alíneas do n.º 1 do artigo 47.º do Código das Expropriações.
+
+4 - As decisões da comissão arbitral são tomadas por maioria ou, não sendo possível obtê-la quanto a um concreto valor, será este apurado pela média aritmética dos dois montantes que mais se aproximarem.
+
+5 - Da decisão arbitral cabe recurso, com efeito meramente devolutivo, para o tribunal da comarca do lugar da situação do bem ou da sua maior extensão, nos termos previstos no Código das Expropriações.
+
+###### Artigo 6.º — Regularização da situação de bens e direitos
+
+Todos os actos necessários à regularização da situação dos bens ou direitos a expropriar ou expropriados, nomeadamente em termos registrais ou matriciais, são praticados oficiosamente pelas autoridades e serviços competentes mediante simples comunicação efectuada pelo IPA, donde constem os elementos legalmente necessários para o efeito, ficando os mesmos isentos de quaisquer taxas ou emolumentos.
+
+###### Artigo 7.º — Afectação dos bens expropriados
+
+Os bens imóveis a expropriar nos termos do presente diploma, após a sua adjudicação à entidade expropriante, considerar-se-ão imediatamente integrados no domínio público do Estado, ficando estes bens afectos ao empreendimento e cabendo ao IPA o exercício dos direitos da sua utilização e administração.
+
+###### Artigo 8.º — Atravessamento e ocupação de prédios particulares
+
+1 - É garantido ao IPA o direito de atravessar ou ocupar prédios particulares, de acordo com os pertinentes estudos, projectos e instrumentos de planeamento relativos ao empreendimento, com canais ou condutas subterrâneas ou caminhos de circulação necessários ou impostos pela realização daquele empreendimento.
+
+2 - Aos proprietários afectados pelas medidas previstas no número anterior são devidas indemnizações pelos ónus constituídos, quando deles resulte diminuição do valor ou do rendimento da propriedade, ou redução da sua área, indemnizando-se os interessados nos termos gerais de direito, de acordo com as regras estabelecidas no Código de Processo Civil.
+
+###### Artigo 9.º — Reserva Agrícola Nacional e Reserva Ecológica Nacional
+
+São autorizadas todas as acções relacionadas com a execução do empreendimento, respeitantes a vias de comunicação e acessos, construção de edifícios, canais, aterros e escavações, que impliquem a utilização de solos integrados na Reserva Agrícola Nacional ou se desenvolvam em áreas incluídas na Reserva Ecológica Nacional ou em áreas abrangidas por restrições análogas, sem prejuízo dos procedimentos inerentes aos estudos de impacto ambiental.
+
+Visto e aprovado em Conselho de Ministros de 24 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - João Luís Mota de Campos - José Manuel Amaral Lopes - Amílcar Augusto Contel Martins Theias.
+
+**Promulgado em 10 de Outubro de 2003.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 15 de Outubro de 2003.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/10/247a00/70847085.pdf)

@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:581264:por
+title: Portaria n.º 53/97
+short_title: null
+summary: Altera o quadro de pessoal da Secretaria-Geral do Ministério da Administração Interna
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e da Administração Interna
+proposing_entity: null
+official_number: 53/97
+official_date: null
+publication_date: '1997-01-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 18/1997, Série I-B de 1997-01-22
+  number: '18'
+  series: I
+  supplement: null
+  pages: 396 - 396
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/01/018b00/03960396.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/53/1997/01/22/p/dre/pt/html
+  oj: null
+  dre: '581264'
+  dre_path: /dr/detalhe/portaria/53-1997-581264
+  internal: pt:dre:581264:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-1997-581264
+  metadata_url: https://data.dre.pt/eli/port/53/1997/01/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-1997-581264
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-01-22T00:00:00Z'
+integrity:
+  source_sha256: 7aaa47c3812cf9a4fe8f90c7437b793677cbc292501a6a4b946942db6abb82b2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-53-581264.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Administração Interna
+- Secretaria Geral
+- Integração de Trabalhadores
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Serviço de Informações de Segurança
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/245/1995/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/245/1995/09/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1076/1991/10/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1076/1991/10/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/449/1992/06/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/449/1992/06/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/914/1995/07/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/914/1995/07/19/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 53/97
+
+de 22 de Janeiro
+
+Considerando a possibilidade que é conferida aos agentes do Serviço de Informações de Segurança (SIS), providos por contrato administrativo, de adquirirem vínculo definitivo ao Estado, desde que ali prestem serviço há, pelo menos, seis anos, se o director-geral do SIS atestar que aqueles revelam aptidão e idoneidade para o exercício de funções públicas, carecendo tal decisão de homologação pelo Ministro da Administração Interna;
+
+Considerando que o pessoal naquelas condições será integrado, consoante as carreiras, no quadro de pessoal da Secretaria-Geral do Ministério da Administração Interna ou no quadro único do mesmo Ministério em categoria equivalente à que já possuía no SIS e no escalão em que se encontrar posicionado;
+
+Considerando que esses lugares serão criados por portaria conjunta dos Ministros da Administração Interna, das Finanças e Adjunto, com efeitos à data de cessação de funções no SIS, por parte daqueles agentes;
+
+Considerando que existe um agente daquele Serviço que preenche todos os requisitos para integração no quadro de pessoal da Secretaria-Geral do Ministério da Administração Interna;
+
+Ao abrigo do disposto no artigo 30.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 245/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1995-563987), de 14 de Setembro, e conjugado com o artigo 5.º deste último diploma legal, e ainda com o n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:
+
+Manda o Governo, pelos Ministros das Finanças, da Administração Interna e Adjunto, o seguinte:
+
+1.º É criado no quadro de pessoal da Secretaria-Geral do Ministério da Administração Interna, aprovado pelo [Decreto-Lei n.º 264/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1988-378281), de 26 de Julho, e constante do quadro anexo ao mesmo diploma, com as alterações introduzidas pelas Portarias n.os [853/89](https://diariodarepublica.pt/dr/detalhe/portaria/853-1989-548454), de 29 de Setembro, [1076/91](https://diariodarepublica.pt/dr/detalhe/portaria/1076-1991-344884), de 24 de Outubro, [449/92](https://diariodarepublica.pt/dr/detalhe/portaria/449-1992-516890), de 1 de Junho, e [914/95](https://diariodarepublica.pt/dr/detalhe/portaria/914-1995-490229), de 19 de Julho, um lugar de técnico superior de 1.ª classe da carreira técnica superior do grupo de pessoal técnico superior, a extinguir quando vagar.
+
+2.º A produção dos efeitos correspondentes à criação daquele lugar reporta a 29 de Junho de 1996.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e da Administração Interna.
+
+**Assinada em 9 de Dezembro de 1996.**
+
+Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Administração Interna, Alberto Bernardes Costa. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.

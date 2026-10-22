@@ -1,0 +1,521 @@
+---
+schema_version: '1.0'
+id: pt:dre:357518:por
+title: Decreto-Lei n.º 265/99
+short_title: null
+summary: Procede à criação de uma nova prestação destinada a complementar a protecção concedida aos pensionistas de invalidez,
+  velhice e sobrevivência dos regimes de segurança social em situação de dependência
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 265/99
+official_date: null
+publication_date: '1999-07-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1999, Série I-A de 1999-07-14
+  number: '162'
+  series: I
+  supplement: null
+  pages: 4397 - 4401
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/07/162a00/43974401.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-08-14'
+version_history:
+  file: decreto-lei-265-99.versoes.json
+  count: 8
+  source_lastmod: '2026-08-18'
+  versions:
+  - date: '1999-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-01'
+    amending: pt:dre:296406:por
+    amending_title: Decreto-Lei n.º 309-A/2000
+    changes:
+    - Altera Artigo 7.º
+    - Entrada Vigor Diploma
+  - date: '2013-02-01'
+    amending: pt:dre:256986:por
+    amending_title: Decreto-Lei n.º 13/2013
+    changes:
+    - Altera Artigo 6.º
+  - date: '2016-01-01'
+    amending: pt:dre:70748601:por
+    amending_title: Decreto-Lei n.º 246/2015
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+  - date: '2016-03-18'
+    amending: pt:dre:73897624:por
+    amending_title: Lei n.º 6/2016
+    changes:
+    - Altera Artigo 2.º
+  - date: '2017-10-07'
+    amending: pt:dre:108269605:por
+    amending_title: Decreto-Lei n.º 126-A/2017
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 17.º
+  - date: '2019-01-01'
+    amending: pt:dre:117537583:por
+    amending_title: Lei n.º 71/2018
+    changes:
+    - Altera Artigo 6.º
+  - date: '2026-08-14'
+    amending: pt:dre:1156670556:por
+    amending_title: Decreto-Lei n.º 166/2026
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/265/1999/p/cons/20260813/pt/html
+  oj: null
+  dre: '357518'
+  dre_path: /dr/detalhe/decreto-lei/265-1999-357518
+  internal: pt:dre:357518:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518
+  metadata_url: https://data.dre.pt/eli/dec-lei/265/1999/p/cons/20260813/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34482875
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34482875
+  retrieved_at: '2026-10-22T13:48:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-08-18T00:00:00Z'
+integrity:
+  source_sha256: 0addeffe6a27840d381d2c901412a1c2770cdd46df08db6be8268108453ec1a3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:48:54Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-265-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Complemento por Dependência
+- Sistema de Verificação de Incapacidades
+- Invalidez
+- Pensão de Invalidez
+- Pensão de Velhice
+- Pensionista
+- Prestações da Segurança Social
+- Prestações Pecuniárias
+- Apoio Domiciliário
+- Regime Geral da Segurança Social
+- Regime não Contributivo da Segurança Social
+- Segurança Social
+- Subsídio por Assistência de Terceira Pessoa
+- Deficiente Mental
+relationships:
+- type: amended_by
+  target: pt:dre:296406:por
+  label: Altera Artigo 7.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2000-296406
+  date: '2000-11-30'
+- type: amended_by
+  target: pt:dre:256986:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2013-256986
+  date: '2013-01-25'
+- type: amended_by
+  target: pt:dre:70748601:por
+  label: Altera Artigo 2.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601
+  date: '2015-10-20'
+- type: amended_by
+  target: pt:dre:73897624:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/6-2016-73897624
+  date: '2016-03-17'
+- type: amended_by
+  target: pt:dre:108269605:por
+  label: Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 10.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605
+  date: '2017-10-06'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:1156670556:por
+  label: Altera Artigo 2.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556
+  date: '2026-08-13'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/133/1997/05/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133/1997/05/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
+article_structure:
+  article_count: 36
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:48:54Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 265/99
+
+O presente diploma tem por objectivo definir e regular a protecção social a conceder a pensionistas em situação de dependência, medida que se integra nas prioridades do Governo a favor das pessoas com mais graves carências sociais, porquanto se consubstancia na criação de uma prestação pecuniária cujo montante varia de acordo com os graus de dependência verificados.
+
+O seu âmbito pessoal é extensivo a pensionistas de invalidez, velhice e sobrevivência do regime geral de segurança social, do regime não contributivo e regimes equiparados, que satisfaçam as condições de dependência fixadas na lei, mesmo que se encontrem a beneficiar de assistência em estabelecimento de apoio social, oficial ou particular sem fins lucrativos cujo funcionamento seja financiado pelo Estado ou por outras pessoas colectivas de direito público ou de direito privado e utilidade pública, o que antes não acontecia relativamente ao subsídio por assistência de terceira pessoa.
+
+A dificuldade de prever com absoluta precisão o universo a abranger e o facto de se tratar de uma medida inovadora na nossa ordem jurídica aconselham que se fixem, para já, apenas dois graus de dependência, sem prejuízo de se prever que, após o 1.º ano de aplicação e com base na experiência obtida e em aprofundada análise do Conselho Médico Nacional do Sistema de Verificação de Incapacidade, se venha a proceder à revisão dos graus de dependência, por forma a configurá-los com as situações de facto verificadas e com o seu impacte na população alvo da medida.
+
+Em correlação com a graduação da dependência, são fixados os montantes da prestação, com indexação ao valor legalmente fixado para a pensão social de invalidez e velhice do regime não contributivo de segurança social, montantes esses que, nesta fase, mantêm a diferenciação entre o regime geral, por um lado, e o regime especial das actividades agrícolas, regime não contributivo e regimes equiparados, por outro.
+
+A atribuição da prestação depende de requerimento e da certificação da situação de dependência e respectivos graus, realizada no âmbito do Sistema de Verificação de Incapacidade.
+
+A apresentação do requerimento pode ser efectuada pelo interessado, pelos respectivos familiares ou outras pessoas ou instituições que lhes prestem ou se disponham a prestar-lhes assistência.
+
+Aos pensionistas que sejam, à data da entrada em vigor deste diploma, titulares do subsídio por assistência de terceira pessoa, atribuído ao abrigo da legislação substituída pelo presente diploma, é garantido, oficiosamente, o direito ao 1.º escalão da prestação agora criada, de acordo com o regime aplicável, sem prejuízo de poderem requerer a alteração daquele escalão.
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 28/84, de 14 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Objectivo, âmbito pessoal, natureza e caracterização da prestação
+
+###### Artigo 1.º — Objectivo
+
+1 - O presente diploma tem por objectivo definir e regular a protecção social das situações de dependência.
+
+2 - A protecção referida no número anterior realiza-se pela atribuição de uma prestação pecuniária, de concessão continuada, designada por complemento por dependência.
+
+###### Artigo 2.º — Âmbito pessoal
+
+1 - São abrangidos pelo presente diploma, desde que se encontrem em situação de dependência:
+
+a) Os pensionistas de invalidez, velhice e sobrevivência do regime geral de segurança social e do regime do seguro social voluntário;
+
+b) Os titulares da prestação social única com idade igual ou superior à idade normal da pensão de velhice do regime geral de segurança social;
+
+c) Os titulares da prestação social para a inclusão;
+
+d) Os titulares da prestação social única (PSU) que se encontrem em situação de incapacidade permanente para o trabalho nos termos previstos no regime especial de proteção na invalidez, certificada pelo sistema de verificação de incapacidades;
+
+e) Os aposentados por invalidez do regime de proteção social convergente no âmbito do regime especial de proteção na invalidez.
+
+2 - São ainda abrangidos pelo presente diploma os beneficiários dos regimes referidos no número anterior, portadores de doença suscetível de originar invalidez, no âmbito do regime especial de proteção na invalidez, desde que se encontrem em situação de dependência.
+
+> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 6/2016 - Diário da República n.º 54/2016, Série I de 2016-03-17](https://diariodarepublica.pt/dr/detalhe/lei/6-2016-73897624), em vigor a partir de 2016-03-18, produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01
+
+###### Artigo 3.º — Caracterização da dependência
+
+1 - Para efeitos do presente diploma, consideram-se em situação de dependência os indivíduos que não possam praticar com autonomia os actos indispensáveis à satisfação das necessidades básicas da vida quotidiana, carecendo da assistência de outrem.
+
+2 - Consideram-se actos indispensáveis à satisfação das necessidades básicas da vida quotidiana, nomeadamente, os relativos à realização dos serviços domésticos, à locomoção e cuidados de higiene.
+
+###### Artigo 4.º — Graus de dependência
+
+Para efeitos da atribuição da prestação e da determinação do respectivo montante, consideram-se os seguintes graus de dependência:
+
+1.º grau - indivíduos que não possam praticar, com autonomia, os actos indispensáveis à satisfação de necessidades básicas da vida quotidiana, designadamente actos relativos à alimentação ou locomoção ou cuidados de higiene pessoal;
+
+2.º grau - indivíduos que acumulem as situações de dependência que caracterizam o 1.º grau e se encontrem acamados ou apresentem quadros de demência grave.
+
+2 - No final do 1.º ano de vigência do presente diploma será avaliada a graduação das situações de dependência prevista no número anterior, podendo vir a ser introduzidos graus intermédios, se tal se justificar.
+
+###### Artigo 5.º — Modalidades de assistência
+
+1 - A assistência às pessoas que integram o âmbito pessoal do presente diploma pode ser assegurada através da participação, sucessiva e conjugada, de várias pessoas, incluindo a prestada no âmbito de apoio domiciliário ou de outros serviços de ajuda a pessoas em situação de dependência, tais como os serviços de telealarme.
+
+2 - Para efeito da atribuição do complemento por dependência é relevante a assistência prestada por qualquer pessoa que se não encontre carecida de autonomia para a realização dos actos básicos da vida diária, incluindo os familiares do titular da prestação.
+
+3 - É, igualmente, relevante para a atribuição da prestação a assistência prestada em estabelecimento de apoio social, oficial ou particular com ou sem fins lucrativos.
+
+> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+### Capítulo II — Condições de atribuição e determinação de montantes
+
+###### Artigo 6.º — Condições de atribuição
+
+1 - Constituem condições de atribuição do complemento por dependência:
+
+a) A manifestação de vontade do interessado;
+
+b) A qualidade de pensionista ou de beneficiário, nos termos definidos no artigo 2.º;
+
+c) A certificação da situação de dependência e respetivo grau.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 115.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2013 - Diário da República n.º 18/2013, Série I de 2013-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2013-256986), em vigor a partir de 2013-02-01
+
+###### Artigo 7.º — Montantes
+
+1 - O montante do complemento por dependência é indexado ao valor do indexante dos apoios sociais (IAS), nos seguintes termos:
+
+a) Pensionistas do regime geral de segurança social:
+
+i) 24,426 % do valor do IAS na situação de dependência do 1.º grau;
+
+ii) 43,967 % do valor do IAS na situação de dependência do 2.º grau;
+
+b) Pensionistas do regime especial das atividades agrícolas, dos regimes equiparados ao regime não contributivo e titulares da prestação com majoração por invalidez ou com idade igual ou superior à idade normal da pensão de velhice do regime geral de segurança social:
+
+i) 21,983 % do valor do IAS na situação de dependência do 1.º grau;
+
+ii) 41,524 % do valor do IAS na situação de dependência do 2.º grau.
+
+2 - Nos casos em que o titular da prestação beneficie de assistência prestada em estabelecimento de apoio social, oficial ou particular sem fins lucrativos, cujo funcionamento seja financiado pelo Estado ou por outras pessoas colectivas de direito público ou de direito privado e utilidade pública, o montante do complemento por dependência é o do 1.º escalão do regime que lhe corresponda.
+
+> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 309-A/2000 - Diário da República n.º 277/2000, Suplemento n.º 1, Série I-A de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2000-296406), em vigor a partir de 2000-12-01
+
+###### Artigo 8.º — Montantes adicionais
+
+Nos meses de Julho e Dezembro de cada ano é concedida uma prestação adicional de montante igual ao do complemento por dependência a que o pensionista tenha direito.
+
+### Capítulo III — Duração da prestação
+
+###### Artigo 9.º — Início da prestação
+
+O início do complemento por dependência verifica-se a partir do mês seguinte ao da apresentação do respectivo requerimento desde que se comprove que o interessado reúne já todas as condições de atribuição da prestação ou, caso contrário, desde o mês seguinte àquele em que as mesmas se verifiquem.
+
+###### Artigo 10.º — Suspensão da prestação
+
+A concessão do complemento por dependência é suspensa quando:
+
+a) Ocorra uma das causas determinantes da suspensão da concessão das prestações previstas no artigo 2.º, nos termos dos respetivos regimes jurídicos;
+
+b) Se verifique que não está a ser prestada ao titular da prestação a assistência nos termos declarados;
+
+c) O titular adopte procedimentos que impeçam ou retardem a avaliação da subsistência da situação de dependência, nomeadamente a ausência injustificada a exame médico e a não actuação para obtenção de elementos clínicos.
+
+> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+###### Artigo 11.º — Cessação da prestação
+
+1 - O direito à prestação cessa no último dia do mês em que deixar de se verificar algum dos condicionalismos determinantes da sua atribuição que não dê lugar à suspensão do direito.
+
+2 - A cessação do direito à prestação decorrente da revisão da situação de dependência produz efeitos a partir do mês seguinte ao da comunicação do facto ao seu titular pela instituição de segurança social.
+
+### Capítulo IV — Acumulação do complemento por dependência
+
+###### Artigo 12.º — Acumulação com rendimentos de trabalho
+
+O complemento por dependência não é cumulável com rendimentos de trabalho.
+
+###### Artigo 13.º — Acumulação de prestações
+
+1 - Não é permitida a acumulação de complementos por dependência em relação ao mesmo titular.
+
+2 - Os pensionistas que reúnam as condições de atribuição do complemento por dependência no âmbito de mais de um regime podem optar pela atribuição da prestação que lhes seja mais favorável.
+
+3 - Sem prejuízo do disposto no n.º 5, não é permitida a acumulação em relação ao mesmo titular entre o complemento por dependência e prestação análoga, atribuída no âmbito de regimes diferentes, salvo se o valor desta for inferior, caso em que o montante da prestação a atribuir será igual à respectiva diferença.
+
+4 - Considera-se prestação análoga a que tenha por objectivo a protecção na situação de dependência.
+
+5 - Os pensionistas que reúnam as condições de atribuição do complemento por dependência e do subsídio por assistência de terceira pessoa que integra a protecção por encargos familiares podem optar por uma daquelas prestações.
+
+### Capítulo V — Processamento e administração
+
+#### Secção I — Gestão das prestações
+
+###### Artigo 14.º — Instituições competentes
+
+A gestão do complemento por dependência e a aplicação da respectiva legislação competem às instituições gestoras da pensão de que o interessado seja titular.
+
+###### Artigo 15.º — Requerimento
+
+A manifestação de vontade a que se refere o artigo 6.º consubstancia-se na apresentação de requerimento.
+
+###### Artigo 16.º — Legitimidade para requerer
+
+Têm legitimidade para requerer a prestação, para além dos interessados na sua atribuição, os respectivos familiares ou outras pessoas ou instituições que lhes prestem ou se disponham a prestar-lhes assistência.
+
+###### Artigo 17.º — Apresentação do requerimento
+
+1 - O complemento por dependência é requerido na instituição de segurança social da área da residência do interessado.
+
+2 - O requerimento pode ser apresentado conjuntamente com o das prestações previstas no artigo 2.º a que o interessado tenha direito ou, a todo o tempo, se posteriormente.
+
+3 - No caso de o interessado residir no estrangeiro, o requerimento é entregue nas instituições previstas para o efeito nos instrumentos internacionais aplicáveis e, na sua falta, na instituição gestora da pensão a que o mesmo tenha direito.
+
+> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+###### Artigo 18.º — Elementos probatórios
+
+1 - O requerimento deve ser acompanhado dos seguintes elementos probatórios:
+
+a) Declaração referente à modalidade de assistência que é ou irá ser prestada ao interessado, da qual conste a identificação das pessoas ou entidades que por ela se responsabilizam e as condições específicas da prestação daquela assistência;
+
+b) Informação médica, devidamente fundamentada e instruída, relativa à situação de dependência do interessado;
+
+c) Declaração de inacumulabilidade, da qual conste se foi requerida ou atribuída prestação idêntica ou análoga em relação ao mesmo titular e, em caso afirmativo, por que regime;
+
+d) Declaração de inexistência de rendimentos de trabalho.
+
+2 - Nos casos em que a situação de dependência decorra de acto de terceiro os interessados devem, ainda, declarar:
+
+a) Quais os eventuais responsáveis;
+
+b) Se houve lugar a indemnização e, em caso afirmativo, o respectivo montante.
+
+###### Artigo 19.º — Certificação da situação de dependência
+
+A certificação da situação de dependência para a atribuição da prestação regulada no presente diploma é realizada no âmbito do Sistema de Verificação de Incapacidade.
+
+###### Artigo 20.º — Avaliação da situação de dependência
+
+A avaliação da situação de dependência e a respectiva graduação devem ser efectuadas atendendo à idade dos interessados e às suas capacidades físicas, orgânicas, anátomo-funcionais, psíquicas e psicológicas, para a realização autónoma dos actos indispensáveis à satisfação das necessidades básicas da vida quotidiana, definidos nos termos dos artigos 3.º e 4.º
+
+###### Artigo 21.º — Revisão da situação de dependência
+
+Os titulares do complemento por dependência podem ser sujeitos a exames de revisão, a seu pedido ou por decisão das instituições competentes, ressalvadas, neste caso, as situações de atribuição oficiosa.
+
+###### Artigo 22.º — Declaração de exercício de actividade profissional
+
+Os titulares de complemento por dependência devem comunicar à instituição que lhe concede a prestação o início de actividade profissional.
+
+###### Artigo 23.º — Declaração de titularidade de prestação idêntica ou análoga
+
+Os titulares de complemento por dependência devem comunicar se requereram ou lhes foi atribuída prestação idêntica ou análoga no âmbito dos mesmos ou de diferentes regimes.
+
+###### Artigo 24.º — Declaração das situações determinantes da suspensão ou cessação
+
+Os titulares do complemento por dependência devem declarar qualquer situação determinante da suspensão ou da cessação da prestação no prazo de 30 dias após a ocorrência do respectivo evento, se outro prazo lhes não for fixado pela instituição competente.
+
+###### Artigo 25.º — Contra-ordenações
+
+As falsas declarações ou omissões relativas às obrigações dos requerentes e titulares da prestação prevista no presente diploma de que resulte a concessão indevida da mesma são puníveis com coima de 20000$00 a 50000$00.
+
+#### Secção II — Atribuição e pagamento da prestação
+
+###### Artigo 26.º — Decisão expressa
+
+A atribuição do complemento por dependência é objecto de decisão expressa da instituição competente.
+
+###### Artigo 27.º — Comunicação da atribuição da prestação
+
+As instituições competentes devem notificar os interessados da atribuição e do montante da prestação, bem como da data de início a que a mesma se reporta.
+
+###### Artigo 28.º — Comunicação da não atribuição
+
+1 - Se na apreciação do processo se verificar que não se encontram reunidas as condições para a atribuição da prestação, devem as instituições competentes informar o requerente:
+
+a) Da falta das mesmas condições;
+
+b) De que deve fazer prova da existência das referidas condições legais no prazo que lhe for estabelecido para o efeito;
+
+c) De que o pedido se considera indeferido no dia seguinte ao termo do prazo estabelecido, desde que durante o mesmo não tenha procedido à comprovação respectiva.
+
+2 - Sempre que os elementos remetidos pelo requerente não permitam a verificação das condições de atribuição da prestação, há lugar à emissão de decisão, devidamente fundamentada.
+
+###### Artigo 29.º — Pagamento das prestações
+
+1 - As prestações são pagas aos respectivos titulares, salvo o disposto no número seguinte.
+
+2 - As prestações são pagas às pessoas ou entidades que prestem assistência aos titulares do complemento por dependência, desde que consideradas idóneas pela instituição competente para atribuição da prestação, nos seguintes casos:
+
+a) Quando os titulares da prestação sejam incapazes e se encontrem a aguardar a nomeação do respectivo representante legal;
+
+b) Quando os titulares da prestação se encontrem impossibilitados, de modo permanente e duradouro, de receber as mesmas ou se encontrem internados em estabelecimentos de apoio social ou equiparados.
+
+###### Artigo 30.º — Prazo de prescrição
+
+1 - Para efeito da prescrição do direito às prestações, considera-se que a contagem do respectivo prazo se inicia no dia seguinte àquele em que as mesmas foram postas a pagamento.
+
+2 - São equiparadas a prestações postas a pagamento as que se encontrem legalmente suspensas por incumprimento de obrigações imputável ao seu titular.
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 31.º — Regulamentação
+
+1 - A regulamentação das normas constantes do presente diploma constará de decreto regulamentar.
+
+2 - As normas relativas aos procedimentos a seguir, no âmbito do presente diploma e dos seus regulamentos, serão aprovadas por portaria do Ministro do Trabalho e da Solidariedade.
+
+###### Artigo 32.º — Conversão do subsídio por assistência de terceira pessoa
+
+1 - Consideram-se convertidos em complemento por dependência, a partir da data do início da vigência do presente diploma, os subsídios por assistência de terceira pessoa atribuídos a pensionistas, ao abrigo da anterior legislação.
+
+2 - A conversão a que se refere o número anterior é feita para o 1.º escalão do regime correspondente à situação em causa, sem prejuízo de o interessado poder requerer a sua inclusão em diferente escalão.
+
+3 - Nos casos previstos no número anterior, em que seja apresentado requerimento para alteração do escalão, os requerentes estão dispensados de apresentar a informação referida na alínea b) do n.º 1 do artigo 18.º se a sua situação de dependência não tiver sofrido alteração, podendo nesses casos a certificação ser efectuada com base nos elementos constantes do anterior processo de verificação.
+
+###### Artigo 33.º — Remissão
+
+As referências feitas na legislação em vigor às prestações convertidas nos termos do número anterior devem entender-se como feitas para as correspondentes disposições do presente diploma.
+
+###### Artigo 34.º — Legislação revogada
+
+1 - O presente diploma revoga os artigos 5.º, n.º 2, 52.º, 84.º e 88.º do Decreto-Lei n.º 329/93, de 25 de Setembro, bem como a secção IV do capítulo II, a secção II do capítulo III e a secção III do capítulo V do mesmo diploma, e respectiva legislação complementar.
+
+2 - São também revogados os artigos 4.º, n.º 3, e 52.º do Decreto-Lei n.º 322/90, de 18 de Outubro, bem como a subsecção III da secção II do capítulo II, a secção II do capítulo III e a secção II do capítulo IV do mesmo diploma, e respectiva legislação complementar.
+
+3 - É revogado ainda o artigo 11.º do Decreto-Lei n.º 160/80, de 27 de Maio, com a redacção dada pelo Decreto-Lei n.º 133/97, de 30 de Maio, apenas na parte referente a pensionistas.
+
+###### Artigo 35.º — Produção de efeitos
+
+O regime estabelecido no presente diploma aplica-se:
+
+a) Às prestações requeridas após a sua entrada em vigor;
+
+b) Às relações jurídicas prestacionais constituídas com o mesmo objectivo ao abrigo de legislação anterior e que se mantenham na vigência da lei nova.
+
+###### Artigo 36.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de Agosto de 1999.
+
+Visto e aprovado em Conselho de Ministros de 2 de Junho de 1999. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues.
+
+Promulgado em 29 de Junho de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 1 de Julho de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

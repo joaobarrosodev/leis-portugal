@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:378968:por
+title: Decreto-Lei n.º 305/79
+short_title: null
+summary: Altera a legislação em vigor sobre o ensino de condução automóvel
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 305/79
+official_date: null
+publication_date: '1979-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/1979, Série I de 1979-08-18
+  number: '190'
+  series: I
+  supplement: null
+  pages: 1997 - 1998
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19000/19971998.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '378968'
+  dre_path: /dr/detalhe/decreto-lei/305-1979-378968
+  internal: pt:dre:378968:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1979-378968
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1979-378968
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-09-13T00:00:00Z'
+integrity:
+  source_sha256: 66c1e9cfc77302ce51defb5b83e395b33680590aa46dcc0a85cd5f14af9b6bf3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-305-378968.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:375664:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 305/79
+
+de 18 de Agosto
+
+O [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, que reestruturou o sistema do ensino de condução, revela-se insuficiente e desajustado às realidades do sector, quer porque não previu determinadas situações consideradas como ilícitas, quer porque, apesar da previsão do ilícito, não incluiu a disposição punitiva correspondente.
+
+O presente diploma introduz disposições cuja publicação foi considerada imperiosa por vir suprir algumas das lacunas mais salientes na actual legislação, como é o caso da definição e determinação dos agentes e punição do ensino clandestino de condução automóvel, a que urge pôr termo.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os artigos 1.º, 2.º, 6.º, 7.º, 8.º e 11.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, passam a ter a seguinte redacção:
+
+###### ARTIGO 1.º — (Do regime de ensino de condução automóvel)
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - A ministração do ensino de condução em infracção ao disposto no n.º 1 constitui contravenção e é punida com multa de 50000$00 a 250000$00.
+
+6 - A prática da infracção a que se refere o n.º 5 por um instrutor ou director implica ainda o cancelamento das respectivas licenças pela Direcção-Geral de Viação.
+
+###### ARTIGO 2.º — (Dos requisitos de licenciamento de veículos)
+
+1 - A aprendizagem de condução de veículos automóveis nas vias públicas ou locais equiparados carece de licença da Direcção-Geral de Viação, nos termos que vierem a ser fixados por portaria do Ministro dos Transportes e Comunicações.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+###### ARTIGO 6.º — (Dos instrutores)
+
+1 - ...
+
+2 - ...
+
+3 - A ministração do ensino por indivíduo não habilitado constitui contravenção punível nos termos seguintes:
+
+a) Com multa de 10000$00 a 50000$00, aplicável, individualmente, conforme o caso, ao proprietário da escola, ao respectivo director e ao agente que actue como instrutor;
+
+b) Suspensão da actividade de instrutor e de director por período de três meses a um ano.
+
+###### ARTIGO 7.º — (Dos directores das escolas de condução)
+
+1 - ...
+
+2 - ...
+
+3 - O proprietário que permitir o exercício da actividade de director em infracção ao disposto no presente diploma e seus regulamentos, será punido com multa de 10000$00 a 50000$00.
+
+4 - Aquele que exercer as funções de director nos termos previstos no número anterior, será punido com igual multa e suspensão da actividade de instrutor e de director, nos termos da alínea b) do n.º 3 do artigo 6.º
+
+5 - Em caso de reincidência, serão cancelados o alvará e as licenças de instrutor e de director.
+
+###### ARTIGO 8.º — (Do regime dos instrutores e directores)
+
+1 - É vedado aos directores dirigir ou dar instruções em mais de uma escola.
+
+2 - ...
+
+3 - ...
+
+4 - A infracção ao disposto no n.º 1 é punida com multa de 10000$00 a 50000$00 e suspensão da actividade de instrutor, de director ou de ambas, conforme a titularidade do agente contravalor e nos termos da alínea b) do n.º 3 do artigo 6.º
+
+###### ARTIGO 11.º — (Das penalidades por falta de licenciamento e por instalações inadequadas)
+
+1 - O ensino da condução a aluno que não se encontre habilitado com a respectiva licença será punido com multa de 500$00 a 2500$00, aplicável ao instruendo, e de 3000$00 a 15000$00, aplicável, individualmente, ao instrutor que ministrar o ensino, ao director e ao proprietário da escola.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Art. 2.º - 1 - A existência de duas ou mais condenações, dentro de cinco anos, por infracções aos Decretos-Leis n.os [364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031) e [366/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1977-286512) e ao presente diploma e respectivos regulamentos de que sejam autores os proprietários, directores ou instrutores, poderá determinar o cancelamento definitivo dos alvarás e licenças concedidos, ou a sua negação quando requeridos.
+
+2 - Será igualmente cancelado o alvará à escola de condução cujo proprietário, sócio ou gerente, pelo seu comportamento, comprometa, por forma relevante, a idoneidade moral e profissional, pressuposto da concessão da licença a que se referem os n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031).
+
+3 - Às infracções previstas no presente diploma é aplicável o disposto no Código da Estrada e seu Regulamento, relativamente à cobrança voluntária de multas.
+
+4 - O pagamento voluntário das multas equivale a condenação para os fins do n.º 1 deste artigo.
+
+5 - Os tribunais enviarão à Direcção-Geral de Viação certidão de todas as decisões proferidas relativamente às infracções previstas no presente
+
+diploma, nos Decretos-Leis n.os [364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), [366/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1977-286512) e seus regulamentos, que serão anotadas no cadastro a que se refere o artigo 16.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031).
+
+###### Art. 3.º Por portaria do Ministro dos Transportes e Comunicações, serão aprovados os regulamentos necessários à boa execução do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, e do presente diploma.
+
+###### Art. 4.º Este diploma entra em vigor trinta dias após a sua publicação.
+
+Carlos Alberto da Mota Pinto - Eduardo Henriques da Silva Correia - José Ricardo Marques da Costa.
+
+**Promulgado em 30 de Julho de 1979.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

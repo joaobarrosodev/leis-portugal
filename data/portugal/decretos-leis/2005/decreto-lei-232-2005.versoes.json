@@ -1,0 +1,1014 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:469064:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-108265159",
+ "dre_path": "/dr/detalhe/decreto-lei/232-2005-469064",
+ "source_lastmod": "2026-08-19",
+ "versions": [
+  {
+   "date": "2005-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "108224205",
+    "108224206",
+    "108224207",
+    "108224208",
+    "108224209",
+    "108224210",
+    "108224211",
+    "108224212",
+    "108224213",
+    "108224214",
+    "108224215",
+    "108224216",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224220",
+    "108224221",
+    "108224222",
+    "108224223",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224227",
+    "108224228"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:545580:por",
+     "title": "Decreto-Lei n.º 236/2006",
+     "published": "2006-12-11",
+     "dre_path": "/dr/detalhe/decreto-lei/236-2006-545580"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "108224205",
+    "108224206",
+    "108224207",
+    "108224208",
+    "108224209",
+    "108224244",
+    "108224211",
+    "108224245",
+    "108224213",
+    "108224246",
+    "108224247",
+    "108224251",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224248",
+    "108224221",
+    "108224222",
+    "108224249",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224250",
+    "108224228",
+    "108224229"
+   ]
+  },
+  {
+   "date": "2009-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491929:por",
+     "title": "Decreto-Lei n.º 151/2009",
+     "published": "2009-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/151-2009-491929"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "108224205",
+    "108224206",
+    "108224207",
+    "108224208",
+    "108224209",
+    "108224252",
+    "108224211",
+    "108224245",
+    "108224213",
+    "108224253",
+    "108224247",
+    "108224251",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224254",
+    "108224221",
+    "108224222",
+    "108224255",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224250",
+    "108224228",
+    "108224229"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164427:por",
+     "title": "Decreto-Lei n.º 167-E/2013",
+     "published": "2013-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/167-e-2013-164427"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "108224205",
+    "108224206",
+    "108224256",
+    "108224208",
+    "108224209",
+    "108224252",
+    "108224211",
+    "108224245",
+    "108224213",
+    "108224253",
+    "108224247",
+    "108224251",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224254",
+    "108224221",
+    "108224222",
+    "108224255",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224250",
+    "108224228",
+    "108224229"
+   ]
+  },
+  {
+   "date": "2016-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73958532:por",
+     "title": "Lei n.º 7-A/2016",
+     "published": "2016-03-30",
+     "dre_path": "/dr/detalhe/lei/7-a-2016-73958532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "108224205",
+    "108224206",
+    "108224256",
+    "108224208",
+    "108224209",
+    "108224252",
+    "108224211",
+    "108224257",
+    "108224213",
+    "108224253",
+    "108224247",
+    "108224251",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224254",
+    "108224221",
+    "108224222",
+    "108224255",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224250",
+    "108224228",
+    "108224229"
+   ]
+  },
+  {
+   "date": "2017-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108269605:por",
+     "title": "Decreto-Lei n.º 126-A/2017",
+     "published": "2017-10-06",
+     "dre_path": "/dr/detalhe/decreto-lei/126-a-2017-108269605"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "108224258",
+    "108224206",
+    "108224259",
+    "108224208",
+    "108224209",
+    "108224252",
+    "108224211",
+    "108224257",
+    "108224213",
+    "108224260",
+    "108224247",
+    "108224251",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224254",
+    "108224221",
+    "108224222",
+    "108224255",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224250",
+    "108224228",
+    "108224229"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537583:por",
+     "title": "Lei n.º 71/2018",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/lei/71-2018-117537583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "108224258",
+    "108224206",
+    "108224259",
+    "108224208",
+    "108224209",
+    "117556954",
+    "108224211",
+    "108224257",
+    "108224213",
+    "108224260",
+    "108224247",
+    "108224251",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224254",
+    "108224221",
+    "108224222",
+    "108224255",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224250",
+    "108224228",
+    "108224229"
+   ]
+  },
+  {
+   "date": "2019-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124500726:por",
+     "title": "Decreto-Lei n.º 136/2019",
+     "published": "2019-09-06",
+     "dre_path": "/dr/detalhe/decreto-lei/136-2019-124500726"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "108224258",
+    "108224206",
+    "108224259",
+    "108224208",
+    "108224209",
+    "117556954",
+    "108224211",
+    "108224257",
+    "108224213",
+    "108224260",
+    "124533016",
+    "108224251",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224254",
+    "108224221",
+    "108224222",
+    "108224255",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224250",
+    "108224228",
+    "108224229"
+   ]
+  },
+  {
+   "date": "2020-11-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:147432951:por",
+     "title": "Decreto-Lei n.º 94/2020",
+     "published": "2020-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/94-2020-147432951"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "108224258",
+    "108224206",
+    "108224259",
+    "108224208",
+    "108224209",
+    "117556954",
+    "108224211",
+    "147431858",
+    "108224213",
+    "108224260",
+    "124533016",
+    "108224251",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224254",
+    "108224221",
+    "108224222",
+    "108224255",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224250",
+    "108224228",
+    "108224229"
+   ]
+  },
+  {
+   "date": "2024-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:865433933:por",
+     "title": "Decreto-Lei n.º 35/2024",
+     "published": "2024-05-21",
+     "dre_path": "/dr/detalhe/decreto-lei/35-2024-865433933"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "108224258",
+    "108224206",
+    "108224259",
+    "108224208",
+    "865550088",
+    "865550089",
+    "108224211",
+    "865550090",
+    "108224213",
+    "108224260",
+    "124533016",
+    "865550091",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224254",
+    "108224221",
+    "108224222",
+    "108224255",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224250",
+    "108224228",
+    "108224229"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1156670556:por",
+     "title": "Decreto-Lei n.º 166/2026",
+     "published": "2026-08-13",
+     "dre_path": "/dr/detalhe/decreto-lei/166-2026-1156670556"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "108224203",
+    "108224204",
+    "1157976475",
+    "108224206",
+    "1157976675",
+    "108224208",
+    "865550088",
+    "865550089",
+    "108224211",
+    "865550090",
+    "108224213",
+    "1157976875",
+    "124533016",
+    "865550091",
+    "108224217",
+    "108224218",
+    "108224219",
+    "108224254",
+    "108224221",
+    "108224222",
+    "108224255",
+    "108224224",
+    "108224225",
+    "108224226",
+    "108224250",
+    "108224228",
+    "108224229"
+   ]
+  }
+ ],
+ "fragments": {
+  "108224203": {
+   "fragment_id": "108265160",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 232/2005\n\nde 29 de Dezembro\n\nOs indicadores de pobreza relativos a Portugal evidenciam a necessidade de correcção das intoleráveis assimetrias de rendimento existentes entre os Portugueses, que penalizam particularmente os mais idosos, pese embora a evolução positiva ocorrida nos últimos 10 anos.\n\nA informação disponível demonstra ainda que, entre a população portuguesa que se encontra em situação de pobreza, é precisamente no grupo dos mais idosos (65 anos ou mais) que se continuam a verificar as situações de maior severidade e em que os níveis de privação decorrentes da escassez de recursos monetários são ainda mais elevados, pelo que se impõe uma intervenção dirigida a esta faixa etária no sentido de melhorar a situação de fragilidade social em que se encontra.\n\nA este quadro não será alheio o facto de no grupo em causa se concentrarem essencialmente pensionistas, cujo rendimento da pensão assume ainda valores baixos, apesar dos esforços desenvolvidos no sentido de elevar o valor das pensões mínimas.\n\nPor outro lado, sendo verdade que o peso do rendimento das pensões no total do rendimento destas pessoas assume um valor significativo, constituindo assim um elemento determinante da sua situação de pobreza, é igualmente verdade que existe um conjunto importante de outras fontes de rendimento que pesam de forma diferenciada nos recursos monetários globais de cada idoso.\n\nUrge, portanto, proceder a uma reconfiguração da política de mínimos sociais para idosos, diferenciando as situações descritas, o que, para além de reforçar o princípio de justiça social em que assenta aquela política, virá igualmente aumentar a sua eficácia no combate à pobreza dos idosos.\n\nDe facto, uma avaliação rigorosa permite perceber que a estratégia prosseguida até aqui, assente no aumento generalizado do valor das pensões mínimas, tratando de igual forma o que é diferente, se revela uma estratégia financeiramente insustentável, se se continuar a assumir como objectivo um aumento substancial de todas as pensões, ou ineficaz na capacidade de produzir mudanças com significado na situação daqueles que delas realmente precisam e se encontram em situação de pobreza, a manterem-se os ritmos de crescimento das pensões dos últimos anos.\n\nPor estas razões, reitera-se a imperatividade de proceder a uma reformulação profunda das políticas de mínimos sociais para idosos, procurando atingir maiores níveis de eficácia na redução de desigualdades, mas também maiores níveis de responsabilização de todos os que podem e devem contribuir para melhorar a qualidade de vida dos idosos, designadamente as suas famílias.\n\nA criação do complemento solidário para idosos, sendo uma medida inscrita no Programa do XVII Governo Constitucional, prossegue os objectivos anteriormente enunciados e afigura-se um passo importante na redefinição da estratégia de mínimos sociais em Portugal.\n\nO complemento solidário para idosos traduz uma verdadeira ruptura com a anterior política de mínimos sociais para idosos, através de uma aposta na concentração dos recursos disponíveis nos estratos da população idosa com menores rendimentos, na atenuação das situações de maior carência de uma forma mais célere - por efeito da atribuição de um valor de prestação com impacte significativo no aumento do rendimento global dos idosos - e na solidariedade familiar, enquanto forma de expressão de uma responsabilidade colectiva e instrumento de materialização da coesão social.\n\nA diferenciação do complemento solidário para idosos através da consideração dos efeitos da solidariedade familiar nos recursos globais dos idosos é, simultaneamente, justa e necessária porque trata de forma diferente o que é diferente, permitindo canalizar mais recursos para os idosos mais necessitados, designadamente os idosos isolados e sem apoio familiar.\n\nO complemento solidário para idosos constitui uma prestação do subsistema de solidariedade destinada a pensionistas com mais de 65 anos, assumindo um perfil de complemento aos rendimentos preexistentes, sendo o seu valor definido por referência a um limiar fixado anualmente e a sua atribuição diferenciada em função da situação concreta do pensionista que o requer, ou seja, sujeita a rigorosa condição de recursos.\n\nOs objectivos de justiça social prosseguidos por esta prestação, associados aos impactes visados com a sua criação, impõem que a atribuição do complemento solidário para idosos dependa de uma actuação pró-activa dos serviços da segurança social, bem como de uma rigorosa e alargada avaliação dos recursos dos seus requerentes, de forma a garantir que o esforço nacional a empreender neste domínio tenha como destinatários aqueles que realmente mais precisam.\n\nAssim:\n\nNos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108224204": {
+   "fragment_id": "108265161",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e natureza\n\n1 - O presente decreto-lei institui uma prestação extraordinária de combate à pobreza dos idosos, adiante designada por complemento solidário para idosos, integrada no subsistema de solidariedade, que visa a melhoria do nível de rendimento dos seus destinatários.\n\n2 - O complemento solidário para idosos é uma prestação pecuniária de montante diferencial."
+  },
+  "108224205": {
+   "fragment_id": "108265162",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\n1 - Têm direito ao complemento solidário para idosos os titulares de pensões de velhice e sobrevivência ou equiparadas de qualquer sistema de protecção social nacional ou estrangeiro, que residam legalmente em território nacional e satisfaçam as condições previstas no presente decreto-lei.\n\n2 - Têm igualmente direito ao complemento solidário para idosos os cidadãos nacionais que não reúnam as condições de atribuição da pensão social por não preencherem a condição de recursos e os titulares de subsídio mensal vitalício que satisfaçam as condições de atribuição constantes do presente decreto-lei."
+  },
+  "108224206": {
+   "fragment_id": "108265163",
+   "type": 11,
+   "heading": "Artigo 3.º — Residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Residência\n\n1 - Para efeitos do presente decreto-lei, consideram-se «residentes legais» os cidadãos nacionais, os estrangeiros com título válido de autorização de residência, os refugiados e os apátridas com títulos válidos de protecção temporária que permaneçam em território nacional pelo menos 270 dias em cada ano civil, sem prejuízo do disposto no número seguinte.\n\n2 - São equiparados a residentes legais os estrangeiros detentores de qualquer título válido nos termos do disposto no diploma que define o regime jurídico da entrada, permanência, saída e afastamento de estrangeiros do território português.\n\n3 - O disposto nos números anteriores não prejudica o estabelecido em instrumento internacional a que Portugal se encontre vinculado."
+  },
+  "108224207": {
+   "fragment_id": "108265164",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de atribuição\n\n1 - O reconhecimento do direito ao complemento solidário para idosos depende de o requerente satisfazer, cumulativamente, as seguintes condições:\n\na) Ter idade igual ou superior a 65 anos, sem prejuízo da aplicação do disposto no artigo 24.º;\n\nb) Residir em território nacional, pelo menos, nos últimos seis anos imediatamente anteriores à data da apresentação do requerimento da prestação;\n\nc) Possuir recursos de montante inferior ao valor de referência do complemento fixado no artigo 9.º\n\n2 - A condição prevista na alínea b) do número anterior não é aplicável aos cidadãos nacionais que tenham exercido a sua última actividade profissional no estrangeiro, desde que preencham, cumulativamente, as seguintes condições:\n\na) À data da entrega do requerimento da prestação residam em território nacional;\n\nb) Residam em território nacional pelo período igual ao que intermediou entre o momento em que lhe foi atribuída pensão de velhice, de sobrevivência ou equiparada e o momento da apresentação do requerimento;\n\nc) A atribuição de pensão de velhice, de sobrevivência ou equiparada não tenha ocorrido há mais de seis anos.\n\n3 - O cômputo do tempo determinado pela aplicação do disposto na alínea b) do número anterior é feito nos termos a regulamentar.\n\n4 - O reconhecimento do direito ao complemento solidário para idosos depende ainda de o requerente:\n\na) Autorizar a entidade gestora da prestação a aceder à informação fiscal e bancária relevante para atribuição do complemento solidário para idosos;\n\nb) Declarar a disponibilidade para exercer o direito a outras prestações de segurança social a que tenha ou venha a ter direito;\n\nc) Declarar a disponibilidade para exercer o direito de crédito que tenha ou venha a ter sobre terceiros.\n\n5 - As condições previstas no número anterior são extensíveis ao cônjuge ou pessoa que com o requerente viva em união de facto, nos termos previstos no artigo seguinte."
+  },
+  "108224208": {
+   "fragment_id": "108265165",
+   "type": 11,
+   "heading": "Artigo 5.º — Conceito de agregado familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conceito de agregado familiar\n\nPara efeitos do presente decreto-lei, considera-se que o agregado familiar do requerente integra, para além do próprio, o seu cônjuge ou a pessoa que com ele viva em união de facto há mais de dois anos."
+  },
+  "108224209": {
+   "fragment_id": "108265166",
+   "type": 11,
+   "heading": "Artigo 6.º — Determinação dos recursos do requerente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Determinação dos recursos do requerente\n\n1 - Na determinação dos recursos do requerente são tidos em consideração, em termos a regulamentar, os rendimentos:\n\na) Do requerente e do seu cônjuge ou de pessoa que com ele viva em união de facto;\n\nb) Dos filhos do requerente na qualidade de legalmente obrigados à prestação de alimentos nos termos do artigo 2009.º do Código Civil.\n\n2 - Na determinação dos rendimentos referidos no número anterior deve atender-se à dimensão e características dos agregados."
+  },
+  "108224210": {
+   "fragment_id": "108265167",
+   "type": 11,
+   "heading": "Artigo 7.º — Rendimentos a considerar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Rendimentos a considerar\n\n1 - Para efeitos da determinação dos recursos do requerente, consideram-se, nomeadamente, os seguintes rendimentos do seu agregado familiar:\n\na) Rendimentos de trabalho dependente;\n\nb) Rendimentos empresariais e profissionais;\n\nc) Rendimentos de capitais;\n\nd) Rendimentos prediais;\n\ne) Incrementos patrimoniais;\n\nf) Valor de realização de bens móveis e imóveis;\n\ng) Pensões;\n\nh) Prestações sociais que não sejam de atribuição única;\n\ni) Valor da comparticipação da segurança social, sempre que os elementos do agregado familiar do requerente se encontrem institucionalizados ou utilizem equipamentos sociais, geridos por entidades públicas, privadas ou do sector da economia social;\n\nj) Uma percentagem do valor do património mobiliário e imobiliário;\n\nl) Transferências monetárias ou bancárias de pessoas singulares ou colectivas, públicas ou privadas, a favor dos elementos do agregado familiar do requerente.\n\n2 - Consideram-se, ainda, para efeitos do disposto no número anterior, os rendimentos dos agregados fiscais dos filhos do requerente mencionados nas alíneas a) a g) do número anterior.\n\n3 - Os rendimentos a que se referem os números anteriores reportam-se ao ano civil anterior ao da data da apresentação do requerimento, desde que os meios de prova se encontrem disponíveis, e, quando tal se não verifique, reportam-se ao ano imediatamente anterior àquele, sem prejuízo, designadamente, do disposto no número seguinte.\n\n4 - Sempre que existam os rendimentos referidos nas alíneas h) e i) do n.º 1, os mesmos reportar-se-ão a um dos anos civis determinados de acordo com o critério estabelecido no número anterior, nos termos a regulamentar.\n\n5 - Os rendimentos previstos no n.º 3 são objecto de actualização, nos termos a regulamentar.\n\n6 - Para efeitos do disposto nos n.os 1 e 2, consideram-se os rendimentos anuais."
+  },
+  "108224211": {
+   "fragment_id": "108265168",
+   "type": 11,
+   "heading": "Artigo 8.º — Montante do complemento solidário para idosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Montante do complemento solidário para idosos\n\nO montante do complemento solidário para idosos corresponde à diferença entre o montante de recursos do requerente, determinado nos termos dos artigos anteriores, e o valor de referência do complemento, tendo como limite máximo este último valor."
+  },
+  "108224212": {
+   "fragment_id": "108265169",
+   "type": 11,
+   "heading": "Artigo 9.º — Valor de referência do complemento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Valor de referência do complemento\n\n1 - O valor de referência do complemento é de (euro) 4200/ano, sendo objecto de actualização periódica, por portaria conjunta dos Ministros das Finanças e do Trabalho e da Solidariedade Social, tendo em conta a evolução dos preços, o crescimento económico e a distribuição da riqueza.\n\n2 - Sempre que o agregado familiar do requerente seja composto por dois elementos, o valor de referência do complemento poderá ser determinado pela aplicação de uma escala de equivalência ao valor referido no número anterior, nos termos a regulamentar."
+  },
+  "108224213": {
+   "fragment_id": "108265170",
+   "type": 11,
+   "heading": "Artigo 10.º — Aquisição do direito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aquisição do direito\n\nO direito ao complemento solidário para idosos adquire-se a partir do mês seguinte ao da recepção do requerimento, desde que devidamente instruído."
+  },
+  "108224214": {
+   "fragment_id": "108265171",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão e retoma do direito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Suspensão e retoma do direito\n\n1 - O direito ao complemento solidário para idosos é suspenso nas seguintes situações:\n\na) Não verificação das condições estabelecidas na alínea c) do n.º 1 e nas alíneas a), b) e c) do n.º 2 do artigo 4.º;\n\nb) Incumprimento do disposto no artigo 3.º e no n.º 1 do artigo 13.º;\n\nc) Incumprimento das obrigações constantes dos n.os 1 e 2 do artigo 14.º e do artigo 20.º;\n\nd) Após o trânsito em julgado de decisão judicial condenatória do titular que determine a privação da sua liberdade.\n\n2 - A suspensão do direito ao complemento solidário para idosos inicia-se a partir do mês seguinte àquele em que ocorreram os factos que a determinaram, sem prejuízo da sua retoma.\n\n3 - Consideram-se «prestações indevidamente pagas» as que o forem em momento posterior ao que determina a suspensão da prestação nos termos previstos no número anterior.\n\n4 - A decisão de suspensão do complemento não está sujeita a audiência prévia dos interessados.\n\n5 - A entidade gestora deve notificar a suspensão do direito no prazo máximo de 30 dias úteis após o conhecimento dos factos que a determinaram, devendo, em igual prazo, solicitar a devolução de prestações indevidamente pagas.\n\n6 - A retoma do direito ao complemento solidário para idosos tem lugar no mês seguinte àquele em que deixem de se verificar os condicionalismos que hajam determinado a suspensão, sem prejuízo do disposto no artigo seguinte."
+  },
+  "108224215": {
+   "fragment_id": "108265172",
+   "type": 11,
+   "heading": "Artigo 12.º — Perda do direito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Perda do direito\n\nO direito ao complemento solidário para idosos cessa, designadamente, nos seguintes casos:\n\na) Decorridos dois anos após o início da suspensão nos termos dos n.os 1 e 2 do artigo anterior;\n\nb) Por morte do titular."
+  },
+  "108224216": {
+   "fragment_id": "108265173",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deveres dos beneficiários\n\n1 - Os titulares do complemento solidário para idosos são obrigados a:\n\na) Comunicar qualquer alteração de residência e de composição do seu agregado familiar;\n\nb) Apresentar todos os meios probatórios que sejam solicitados pela instituição gestora, nomeadamente para avaliação da situação patrimonial, financeira e económica dos membros do seu agregado familiar e dos agregados fiscais dos seus filhos;\n\nc) Comunicar a atribuição de qualquer novo apoio público, designadamente prestações sociais, a qualquer dos membros do seu agregado familiar.\n\n2 - As obrigações previstas no número anterior têm de ser cumpridas no prazo de 15 dias úteis a contar da data da ocorrência dos factos ou da notificação pela instituição gestora\n\n3 - As falsas declarações, omissões ou outros factos relativos aos deveres dos beneficiários dos quais resultem a atribuição indevida do complemento solidário para idosos não impedem a produção dos efeitos previstos no presente decreto-lei, sem prejuízo:\n\na) Da aplicação do regime da responsabilidade emergente do recebimento de prestações indevidas;\n\nb) Do apuramento de responsabilidade penal ou contra-ordenacional regulada em legislação especial."
+  },
+  "108224217": {
+   "fragment_id": "108265174",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigação de exercício de direitos e sub-rogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigação de exercício de direitos e sub-rogação\n\n1 - Sempre que o requerente do complemento solidário para idosos tenha direito a outras prestações de segurança social, fica obrigado a exercê-lo, no prazo de 60 dias úteis a contar da data da notificação do direito, ou no prazo que se encontre estabelecido no regime jurídico da prestação, se este for superior.\n\n2 - Nas situações em que o requerente do complemento solidário para idosos tenha direitos de crédito relativamente a terceiros, fica obrigado a exercer esses direitos no prazo de 60 dias úteis a contar da data da notificação para o efeito.\n\n3 - A entidade gestora fica sub-rogada no exercício do direito previsto nos números anteriores nos casos em que o titular do complemento solidário para idosos não o exerça."
+  },
+  "108224218": {
+   "fragment_id": "108278975",
+   "type": 11,
+   "heading": "Artigo 15.º — Sanção acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sanção acessória\n\nA autoridade competente para a aplicação da coima devida por falsas declarações pode determinar, sempre que a gravidade da infracção e a culpa do agente o justifique, a aplicação da sanção acessória da privação do direito à prestação por um período até dois anos."
+  },
+  "108224219": {
+   "fragment_id": "108278976",
+   "type": 11,
+   "heading": "Artigo 16.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entidade gestora\n\n1 - A gestão do complemento solidário para idosos compete ao Instituto da Segurança Social, I. P., no território continental, e às entidades competentes das administrações regionais autónomas, nas respectivas Regiões.\n\n2 - No exercício das suas competências, cabe à entidade gestora, designadamente, proceder à averiguação oficiosa dos recursos do requerente relevantes para a atribuição da prestação e exercer o direito de sub-rogação, previsto no n.º 3 do artigo 14.º"
+  },
+  "108224220": {
+   "fragment_id": "108278977",
+   "type": 11,
+   "heading": "Artigo 17.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Requerimento\n\n1 - A atribuição do complemento solidário para idosos depende da apresentação de requerimento dirigido à entidade gestora.\n\n2 - O requerimento deve ser instruído com os necessários meios de prova, nos termos a regulamentar.\n\n3 - O modelo de requerimento do complemento solidário para idosos é aprovado por portaria do Ministro do Trabalho e da Solidariedade Social."
+  },
+  "108224221": {
+   "fragment_id": "108278978",
+   "type": 11,
+   "heading": "Artigo 18.º — Legitimidade para requerer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Legitimidade para requerer\n\nTêm legitimidade para requerer o complemento solidário para idosos, para além dos interessados, os respectivos familiares ou outras pessoas ou instituições que lhes prestem ou se disponham a prestar assistência, sempre que os mesmo não possam proceder à apresentação do respectivo requerimento."
+  },
+  "108224222": {
+   "fragment_id": "108278979",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamento da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamento da prestação\n\n1 - O complemento solidário para idosos é pago, mensalmente, por referência a 12 meses.\n\n2 - O complemento solidário para idosos é pago aos respectivos titulares ou aos seus representantes legais, salvo o disposto no número seguinte.\n\n3 - O complemento solidário para idosos poderá ainda ser pago às pessoas ou entidades que prestem assistência aos titulares do direito, desde que consideradas idóneas pela instituição gestora, nas seguintes situações:\n\na) Quando os titulares do complemento solidário para idosos sejam incapazes e se encontrem a aguardar a nomeação do respectivo representante legal;\n\nb) Quando os titulares se encontrem impossibilitados de modo temporário ou permanente de receber a prestação, por motivo de doença, ou se encontrem internados em estabelecimentos de apoio social ou equiparados."
+  },
+  "108224223": {
+   "fragment_id": "108278980",
+   "type": 11,
+   "heading": "Artigo 20.º — Renovação da prova de rendimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Renovação da prova de rendimentos\n\n1 - Os titulares do complemento solidário para idosos estão obrigados à renovação da prova de rendimentos de dois em dois anos contados a partir da data do reconhecimento do direito ao complemento, sem prejuízo do disposto no número seguinte.\n\n2 - Sempre que seja apresentado um segundo requerimento para efeitos de atribuição da prestação num mesmo agregado familiar, o período para renovação da prova de rendimentos poderá ser inferior a dois anos."
+  },
+  "108224224": {
+   "fragment_id": "108278981",
+   "type": 11,
+   "heading": "Artigo 21.º — Articulação com outros serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Articulação com outros serviços\n\nA entidade gestora deve promover a articulação com as entidades e serviços competentes para comprovar os requisitos de que depende a atribuição e manutenção do complemento solidário para idosos com vista a assegurar o correcto enquadramento das situações a proteger."
+  },
+  "108224225": {
+   "fragment_id": "108278982",
+   "type": 11,
+   "heading": "Artigo 22.º — Comunicação da atribuição da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comunicação da atribuição da prestação\n\nNo âmbito do presente decreto-lei, as decisões da entidade gestora são comunicadas de acordo com o disposto no Código do Procedimento Administrativo."
+  },
+  "108224226": {
+   "fragment_id": "108278983",
+   "type": 11,
+   "heading": "Artigo 23.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regulamentação\n\nO presente decreto-lei é regulamentado por decreto regulamentar no prazo de 30 dias após a sua publicação."
+  },
+  "108224227": {
+   "fragment_id": "108278984",
+   "type": 11,
+   "heading": "Artigo 24.º — Aplicação progressiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Aplicação progressiva\n\nA idade para o reconhecimento do direito ao complemento solidário para idosos é fixada nos termos seguintes:\n\na) Igual ou superior a 80 anos, no ano de 2006;\n\nb) Igual ou superior a 75 anos, no ano de 2007;\n\nc) Igual ou superior a 70 anos, no ano de 2008;\n\nd) Igual ou superior a 65 anos, no ano de 2009."
+  },
+  "108224228": {
+   "fragment_id": "108278985",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de Janeiro de 2006, com excepção do artigo 23.º, o qual entra em vigor no dia seguinte ao da respectiva publicação."
+  },
+  "108224244": {
+   "fragment_id": "108265167",
+   "type": 11,
+   "heading": "Artigo 7.º — Rendimentos a considerar",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Rendimentos a considerar\n\n1 - Para efeitos da determinação dos recursos do requerente, consideram-se, nomeadamente, os seguintes rendimentos do seu agregado familiar:\n\na) Rendimentos de trabalho dependente;\n\nb) Rendimentos empresariais e profissionais;\n\nc) Rendimentos de capitais;\n\nd) Rendimentos prediais;\n\ne) Incrementos patrimoniais;\n\nf) Valor de realização de bens móveis e imóveis;\n\ng) Pensões;\n\nh) Prestações sociais que não sejam de atribuição única;\n\ni) Valor da comparticipação da segurança social, sempre que os elementos do agregado familiar do requerente se encontrem institucionalizados ou utilizem equipamentos sociais, geridos por entidades públicas, privadas ou do sector da economia social;\n\nj) Uma percentagem do valor do património mobiliário e imobiliário;\n\nl) Transferências monetárias ou bancárias de pessoas singulares ou colectivas, públicas ou privadas, a favor dos elementos do agregado familiar do requerente.\n\n2 - Consideram-se, ainda, para efeitos do disposto no número anterior, os rendimentos dos agregados fiscais dos filhos do requerente mencionados nas alíneas a) a g) do número anterior, ou outros, desde que considerados rendimento para efeitos de base de incidência de IRS.\n\n3 - Os rendimentos a que se referem os números anteriores reportam-se ao ano civil anterior ao da data da apresentação do requerimento, desde que os meios de prova se encontrem disponíveis, e, quando tal se não verifique, reportam-se ao ano imediatamente anterior àquele, sem prejuízo, designadamente, do disposto no número seguinte.\n\n4 - Sempre que existam os rendimentos referidos nas alíneas g), h) e i) do n.º 1, os mesmos podem reportar-se aos anos civis determinados no número anterior e ao ano da apresentação do requerimento, nos termos a regulamentar.\n\n5 - Os rendimentos previstos nos n.os 1 e 2 são objecto de actualização nos termos a regulamentar.\n\n6 - Para efeitos do disposto nos n.os 1 e 2, consideram-se os rendimentos anuais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224245": {
+   "fragment_id": "108265169",
+   "type": 11,
+   "heading": "Artigo 9.º — Valor de referência do complemento",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Valor de referência do complemento\n\n1 - O valor de referência do complemento é de (euro) 4200/ano, sendo objecto de actualização periódica, por portaria conjunta dos Ministros das Finanças e do Trabalho e da Solidariedade Social, tendo em conta a evolução dos preços, o crescimento económico e a distribuição da riqueza.\n\n2 - Sempre que o agregado familiar do requerente seja composto por dois elementos, o valor de referência do complemento poderá ser determinado pela aplicação de uma escala de equivalência ao valor referido no número anterior, nos termos a regulamentar.\n\n3 - Pela portaria mencionada no n.º 1 é também actualizado o montante do complemento solidário para idosos atribuído.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224246": {
+   "fragment_id": "108265171",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão e retoma do direito",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Suspensão e retoma do direito\n\n1 - O direito ao complemento solidário para idosos é suspenso nas seguintes situações:\n\na) Não verificação da condição estabelecida na alínea c) do n.º 1 do artigo 4.º;\n\nb) Incumprimento do disposto no artigo 3.º e no n.º 1 do artigo 13.º;\n\nc) Incumprimento das obrigações constantes do artigo 20.º;\n\nd) Após o trânsito em julgado de decisão judicial condenatória do titular que determine a privação da sua liberdade.\n\n2 - A suspensão do direito ao complemento solidário para idosos inicia-se a partir do mês seguinte àquele em que ocorreram os factos que a determinaram, sem prejuízo da sua retoma.\n\n3 - Consideram-se «prestações indevidamente pagas» as que o forem em momento posterior ao que determina a suspensão da prestação nos termos previstos no número anterior.\n\n4 - A decisão de suspensão do complemento não está sujeita a audiência prévia dos interessados.\n\n5 - A entidade gestora deve notificar a suspensão do direito no prazo máximo de 30 dias úteis após o conhecimento dos factos que a determinaram, devendo, em igual prazo, solicitar a devolução de prestações indevidamente pagas.\n\n6 - A retoma do direito ao complemento solidário para idosos tem lugar no mês seguinte àquele em que deixem de se verificar os condicionalismos que hajam determinado a suspensão, sem prejuízo do disposto no artigo seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224247": {
+   "fragment_id": "108265172",
+   "type": 11,
+   "heading": "Artigo 12.º — Perda do direito",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Perda do direito\n\nO direito ao complemento solidário para idosos cessa, designadamente, nos seguintes casos:\n\na) Decorridos dois anos após o início da suspensão nos termos dos n.os 1 e 2 do artigo anterior;\n\nb) Por morte do titular.\n\nc) Por desistência do titular;\n\nd) Por aplicação de sanção acessória que determine a privação do direito à prestação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224251": {
+   "fragment_id": "108265173",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres dos beneficiários",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Deveres dos beneficiários\n\n1 - Os titulares do complemento solidário para idosos são obrigados a:\n\na) Comunicar qualquer alteração de residência e de composição do seu agregado familiar;\n\nb) Apresentar todos os meios probatórios que sejam solicitados pela instituição gestora, nomeadamente para avaliação da situação patrimonial, financeira e económica dos membros do seu agregado familiar e dos agregados fiscais dos seus filhos;\n\nc)  (Revogada.)\n\n2 - As obrigações previstas no número anterior têm de ser cumpridas no prazo de 15 dias úteis a contar da data da ocorrência dos factos ou da notificação pela instituição gestora\n\n3 - As falsas declarações, omissões ou outros factos relativos aos deveres dos beneficiários dos quais resultem a atribuição indevida do complemento solidário para idosos não impedem a produção dos efeitos previstos no presente decreto-lei, sem prejuízo:\n\na) Da aplicação do regime da responsabilidade emergente do recebimento de prestações indevidas;\n\nb) Do apuramento de responsabilidade penal ou contra-ordenacional regulada em legislação especial.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224248": {
+   "fragment_id": "108278977",
+   "type": 11,
+   "heading": "Artigo 17.º — Requerimento",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Requerimento\n\n1 - A atribuição do complemento solidário para idosos, bem como a renovação da prova de recursos, depende da apresentação de requerimento dirigido à entidade gestora.\n\n2 - A não verificação da condição estabelecida na alínea b) do n.º 2 do artigo 4.º determina a suspensão do procedimento administrativo até que, nos termos do disposto no n.º 3 do mesmo artigo, a mesma se verifique.\n\n3 - O requerimento deve ser instruído com os necessários meios de prova, nos termos a regulamentar.\n\n4 - O modelo de requerimento do complemento solidário para idosos é aprovado por portaria do Ministro do Trabalho e da Solidariedade Social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224249": {
+   "fragment_id": "108278980",
+   "type": 11,
+   "heading": "Artigo 20.º — Renovação da prova de recursos",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Renovação da prova de recursos\n\n1 - Os titulares do complemento solidário para idosos estão obrigados à renovação da prova de recursos de dois em dois anos, contados a partir da data do reconhecimento do direito ao complemento, sem prejuízo do disposto no número seguinte.\n\n2 - O período para renovação da prova de recursos pode ser inferior a dois anos:\n\na) Sempre que seja apresentado um segundo requerimento para efeitos de atribuição da prestação num mesmo agregado familiar;\n\nb) Sempre que exista uma alteração do agregado familiar do titular da prestação, designadamente por efeito de casamento ou de união de facto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224250": {
+   "fragment_id": "108278984",
+   "type": 11,
+   "heading": "Artigo 24.º — Aplicação progressiva",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Aplicação progressiva\n\nA idade para o reconhecimento do direito ao complemento solidário para idosos é fixada nos termos seguintes:\n\na) Igual ou superior a 80 anos, no ano de 2006;\n\nb) Igual ou superior a 70 anos, no ano de 2007;\n\nc) Igual ou superior a 65 anos, no ano de 2008;\n\nd) (Revogada.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224229": {
+   "fragment_id": "108278986",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Pedro Manuel Dias de Jesus Marques.\n\nPromulgado em 19 de Dezembro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Dezembro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "108224252": {
+   "fragment_id": "108265167",
+   "type": 11,
+   "heading": "Artigo 7.º — Rendimentos a considerar",
+   "in_force_from": "2009-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Rendimentos a considerar\n\n1 - Para efeitos da determinação dos recursos do requerente, consideram-se, nomeadamente, os seguintes rendimentos do seu agregado familiar:\n\na) Rendimentos de trabalho dependente;\n\nb) Rendimentos empresariais e profissionais;\n\nc) Rendimentos de capitais;\n\nd) Rendimentos prediais;\n\ne) Incrementos patrimoniais;\n\nf) Valor de realização de bens móveis e imóveis;\n\ng) Pensões;\n\nh) Prestações sociais que não sejam de atribuição única;\n\ni) Valor da comparticipação da segurança social, sempre que os elementos do agregado familiar do requerente se encontrem institucionalizados ou utilizem equipamentos sociais, geridos por entidades públicas, privadas ou do sector da economia social;\n\nj) Uma percentagem do valor do património mobiliário e imobiliário;\n\nl) Transferências monetárias ou bancárias de pessoas singulares ou colectivas, públicas ou privadas, a favor dos elementos do agregado familiar do requerente.\n\n2 - Consideram-se, ainda, para efeitos do disposto no número anterior, os rendimentos dos agregados fiscais dos filhos do requerente mencionados nas alíneas a) a g) do número anterior, ou outros, desde que considerados rendimento para efeitos de base de incidência de IRS.\n\n3 - Os rendimentos a que se referem os números anteriores reportam-se ao ano civil anterior ao da data da apresentação do requerimento, desde que os meios de prova se encontrem disponíveis, e, quando tal se não verifique, reportam-se ao ano imediatamente anterior àquele, sem prejuízo, designadamente, do disposto no número seguinte.\n\n4 - Sempre que existam os rendimentos referidos nas alíneas g), h) e i) do n.º 1, os mesmos podem reportar-se aos anos civis determinados no número anterior, ao ano da apresentação do requerimento e ao ano em que os mesmos sejam atribuídos, nos termos a regulamentar.\n\n5 - Os rendimentos previstos nos n.os 1 e 2 são objecto de actualização nos termos a regulamentar.\n\n6 - Para efeitos do disposto nos n.os 1 e 2, consideram-se os rendimentos anuais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224253": {
+   "fragment_id": "108265171",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão e retoma do direito",
+   "in_force_from": "2009-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Suspensão e retoma do direito\n\n1 - O direito ao complemento solidário para idosos é suspenso nas seguintes situações:\n\na) Não verificação da condição estabelecida na alínea c) do n.º 1 do artigo 4.º nos termos do disposto no artigo 20.º;\n\nb) Incumprimento do disposto no artigo 3.º e no n.º 1 do artigo 13.º;\n\nc) (Revogada.)\n\nd) Após o trânsito em julgado de decisão judicial condenatória do titular que determine a privação da sua liberdade.\n\n2 - A suspensão do direito ao complemento solidário para idosos inicia-se a partir do mês seguinte àquele em que ocorreram os factos que a determinaram, sem prejuízo da sua retoma.\n\n3 - Consideram-se «prestações indevidamente pagas» as que o forem em momento posterior ao que determina a suspensão da prestação nos termos previstos no número anterior.\n\n4 - A decisão de suspensão do complemento não está sujeita a audiência prévia dos interessados.\n\n5 - A entidade gestora deve notificar a suspensão do direito no prazo máximo de 30 dias úteis após o conhecimento dos factos que a determinaram, devendo, em igual prazo, solicitar a devolução de prestações indevidamente pagas.\n\n6 - A retoma do direito ao complemento solidário para idosos tem lugar no mês seguinte àquele em que deixem de se verificar os condicionalismos que hajam determinado a suspensão, sem prejuízo do disposto no artigo seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224254": {
+   "fragment_id": "108278977",
+   "type": 11,
+   "heading": "Artigo 17.º — Requerimento",
+   "in_force_from": "2009-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Requerimento\n\n1 - A atribuição do complemento solidário para idosos depende da apresentação de requerimento dirigido à entidade gestora.\n\n2 - A não verificação da condição estabelecida na alínea b) do n.º 2 do artigo 4.º determina a suspensão do procedimento administrativo até que, nos termos do disposto no n.º 3 do mesmo artigo, a mesma se verifique.\n\n3 - O requerimento deve ser instruído com os necessários meios de prova, nos termos a regulamentar.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224255": {
+   "fragment_id": "108278980",
+   "type": 11,
+   "heading": "Artigo 20.º — Renovação da prova de recursos",
+   "in_force_from": "2009-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Renovação da prova de recursos\n\n1 - Há lugar a renovação da prova de recursos:\n\na) Pela entidade gestora da prestação:\n\ni) Sempre que ao titular do complemento, ao respectivo cônjuge ou a pessoa que com ele viva em união de facto seja atribuída ou cessada pelo sistema de segurança social pensão ou complemento de pensão, bem como sempre que o sistema de segurança social apure novo rendimento do seu agregado familiar;\n\nii) Sempre que ao sistema de segurança social seja oficialmente comunicada por outro sistema de protecção social ou por organismo que atribuiu ou fez cessar o complemento ao titular, ao respectivo cônjuge ou a pessoa que com ele viva em união de facto pensão ou complemento de pensão;\n\nb) A requerimento do titular do complemento solidário para idosos.\n\n2 - Há ainda lugar à renovação da prova de recursos sempre que:\n\na) Seja apresentado um segundo requerimento para efeitos de atribuição da prestação no agregado familiar;\n\nb) Exista uma alteração do agregado familiar do titular da prestação, designadamente por efeito de casamento ou de união de facto.\n\n3 - A renovação da prova prevista na alínea a) do n.º 1 determina a alteração do montante anual do complemento solidário para idosos, através da subtracção ou da adição do rendimento anual em causa ao montante anual do complemento, com efeitos a partir do mês seguinte ao da atribuição, da cessação ou do apuramento do rendimento em causa por parte da entidade gestora.\n\n4 - A renovação da prova prevista na alínea b) do n.º 1 e no n.º 2 determina um novo cálculo dos recursos do titular e a correspondente alteração do montante do complemento com efeitos a partir do mês seguinte ao da recepção do requerimento desde que devidamente instruído.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224256": {
+   "fragment_id": "108265164",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de atribuição",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de atribuição\n\n1 - O reconhecimento do direito ao complemento solidário para idosos depende de o requerente satisfazer, cumulativamente, as seguintes condições:\n\na) Ter idade igual ou superior à idade normal de acesso à pensão de velhice do regime geral de segurança social;\n\nb) Residir em território nacional, pelo menos, nos últimos seis anos imediatamente anteriores à data da apresentação do requerimento da prestação;\n\nc) Possuir recursos de montante inferior ao valor de referência do complemento fixado no artigo 9.º\n\n2 - A condição prevista na alínea b) do número anterior não é aplicável aos cidadãos nacionais que tenham exercido a sua última actividade profissional no estrangeiro, desde que preencham, cumulativamente, as seguintes condições:\n\na) À data da entrega do requerimento da prestação residam em território nacional;\n\nb) Residam em território nacional pelo período igual ao que intermediou entre o momento em que lhe foi atribuída pensão de velhice, de sobrevivência ou equiparada e o momento da apresentação do requerimento;\n\nc) A atribuição de pensão de velhice, de sobrevivência ou equiparada não tenha ocorrido há mais de seis anos.\n\n3 - O cômputo do tempo determinado pela aplicação do disposto na alínea b) do número anterior é feito nos termos a regulamentar.\n\n4 - O reconhecimento do direito ao complemento solidário para idosos depende ainda de o requerente:\n\na) Autorizar a entidade gestora da prestação a aceder à informação fiscal e bancária relevante para atribuição do complemento solidário para idosos;\n\nb) Declarar a disponibilidade para exercer o direito a outras prestações de segurança social a que tenha ou venha a ter direito;\n\nc) Declarar a disponibilidade para exercer o direito de crédito que tenha ou venha a ter sobre terceiros.\n\n5 - As condições previstas no número anterior são extensíveis ao cônjuge ou pessoa que com o requerente viva em união de facto, nos termos previstos no artigo seguinte.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01"
+  },
+  "108224257": {
+   "fragment_id": "108265169",
+   "type": 11,
+   "heading": "Artigo 9.º — Valor de referência do complemento",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 79.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Valor de referência do complemento\n\n1 - O valor de referência do complemento é de (euro) 5059/ano, sendo objeto de atualização periódica, por portaria conjunta dos Ministros das Finanças e do Trabalho e da Solidariedade Social, tendo em conta a evolução dos preços, o crescimento económico e a distribuição de riqueza.\n\n2 - Sempre que o agregado familiar do requerente seja composto por dois elementos, o valor de referência do complemento poderá ser determinado pela aplicação de uma escala de equivalência ao valor referido no número anterior, nos termos a regulamentar.\n\n3 - Pela portaria mencionada no n.º 1 é também actualizado o montante do complemento solidário para idosos atribuído.\n\n> Alterado pelo/a Artigo 79.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "108224258": {
+   "fragment_id": "108265162",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\n1 - Têm direito ao complemento solidário para idosos os titulares de pensões de invalidez, velhice e sobrevivência ou equiparadas de qualquer sistema de proteção social nacional ou estrangeiro, que residam legalmente em território nacional e satisfaçam as condições previstas no presente decreto-lei.\n\n2 - Têm igualmente direito ao complemento solidário para idosos os cidadãos nacionais que não reúnam as condições de atribuição da pensão social por não preencherem a condição de recursos e os titulares de subsídio mensal vitalício que satisfaçam as condições de atribuição constantes do presente decreto-lei.\n\n> Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "108224259": {
+   "fragment_id": "108265164",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de atribuição",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de atribuição\n\n1 - O reconhecimento do direito ao complemento solidário para idosos depende de o requerente satisfazer, cumulativamente, as seguintes condições:\n\na) Ser pensionista de velhice ou de sobrevivência e ter idade igual ou superior à idade normal de acesso à pensão do regime geral de segurança social, sem prejuízo do disposto na alínea seguinte;\n\nb) Ser pensionista de invalidez e não ser titular da prestação social para a inclusão;\n\nc) Residir em território nacional, pelo menos, nos últimos seis anos imediatamente anteriores à data da apresentação do requerimento da prestação;\n\nd) Possuir recursos de montante inferior ao valor de referência do complemento fixado no artigo 9.º\n\n2 - A condição prevista na alínea c) do número anterior não é aplicável aos cidadãos nacionais que tenham exercido a sua última atividade profissional no estrangeiro, desde que preencham, cumulativamente, as seguintes condições:\n\na) À data da entrega do requerimento da prestação residam em território nacional;\n\nb) Residam em território nacional pelo período igual ao que intermediou entre o momento em que lhe foi atribuída pensão de velhice, de sobrevivência ou equiparada e o momento da apresentação do requerimento;\n\nc) A atribuição de pensão de velhice, de sobrevivência ou equiparada não tenha ocorrido há mais de seis anos.\n\n3 - O cômputo do tempo determinado pela aplicação do disposto na alínea b) do número anterior é feito nos termos a regulamentar.\n\n4 - O reconhecimento do direito ao complemento solidário para idosos depende ainda de o requerente:\n\na) Autorizar a entidade gestora da prestação a aceder à informação fiscal e bancária relevante para atribuição do complemento solidário para idosos;\n\nb) Declarar a disponibilidade para exercer o direito a outras prestações de segurança social a que tenha ou venha a ter direito;\n\nc) Declarar a disponibilidade para exercer o direito de crédito que tenha ou venha a ter sobre terceiros.\n\n5 - As condições previstas no número anterior são extensíveis ao cônjuge ou pessoa que com o requerente viva em união de facto, nos termos previstos no artigo seguinte.\n\n> Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01"
+  },
+  "108224260": {
+   "fragment_id": "108265171",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão e retoma do direito",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Suspensão e retoma do direito\n\n1 - O direito ao complemento solidário para idosos é suspenso nas seguintes situações:\n\na) Não verificação da condição estabelecida na alínea d) do n.º 1 do artigo 4.º, nos termos do disposto no artigo 20.º;\n\nb) Incumprimento do disposto no artigo 3.º e no n.º 1 do artigo 13.º;\n\nc) (Revogada.)\n\nd) Após o trânsito em julgado de decisão judicial condenatória do titular que determine a privação da sua liberdade.\n\n2 - A suspensão do direito ao complemento solidário para idosos inicia-se a partir do mês seguinte àquele em que ocorreram os factos que a determinaram, sem prejuízo da sua retoma.\n\n3 - Consideram-se «prestações indevidamente pagas» as que o forem em momento posterior ao que determina a suspensão da prestação nos termos previstos no número anterior.\n\n4 - A decisão de suspensão do complemento não está sujeita a audiência prévia dos interessados.\n\n5 - A entidade gestora deve notificar a suspensão do direito no prazo máximo de 30 dias úteis após o conhecimento dos factos que a determinaram, devendo, em igual prazo, solicitar a devolução de prestações indevidamente pagas.\n\n6 - A retoma do direito ao complemento solidário para idosos tem lugar no mês seguinte àquele em que deixem de se verificar os condicionalismos que hajam determinado a suspensão, sem prejuízo do disposto no artigo seguinte.\n\n> Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "117556954": {
+   "fragment_id": "108265167",
+   "type": 11,
+   "heading": "Artigo 7.º — Rendimentos a considerar",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 318.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Rendimentos a considerar\n\n1 - Para efeitos da determinação dos recursos do requerente, consideram-se, nomeadamente, os seguintes rendimentos do seu agregado familiar:\n\na) Rendimentos de trabalho dependente;\n\nb) Rendimentos empresariais e profissionais;\n\nc) Rendimentos de capitais;\n\nd) Rendimentos prediais;\n\ne) Incrementos patrimoniais;\n\nf) Valor de realização de bens móveis e imóveis;\n\ng) Pensões;\n\nh) Prestações sociais que não sejam de atribuição única;\n\ni) Valor da comparticipação da segurança social, sempre que os elementos do agregado familiar do requerente se encontrem institucionalizados ou utilizem equipamentos sociais, geridos por entidades públicas, privadas ou do sector da economia social;\n\nj) Uma percentagem do valor do património mobiliário e imobiliário;\n\nl) Transferências monetárias ou bancárias de pessoas singulares ou colectivas, públicas ou privadas, a favor dos elementos do agregado familiar do requerente.\n\n2 - Consideram-se, ainda, para efeitos do disposto no número anterior, os rendimentos dos agregados fiscais dos filhos do requerente mencionados nas alíneas a) a g) do número anterior, ou outros, desde que considerados rendimento para efeitos de base de incidência de IRS.\n\n3 - Os rendimentos a que se referem os números anteriores reportam-se ao ano civil anterior ao da data da apresentação do requerimento, desde que os meios de prova se encontrem disponíveis, e, quando tal se não verifique, reportam-se ao ano imediatamente anterior àquele, sem prejuízo, designadamente, do disposto no número seguinte.\n\n4 - Sempre que existam os rendimentos referidos nas alíneas g), h) e i) do n.º 1, os mesmos podem reportar-se aos anos civis determinados no número anterior, ao ano da apresentação do requerimento e ao ano em que os mesmos sejam atribuídos, nos termos a regulamentar.\n\n5 - Os rendimentos previstos nos n.os 1 e 2 são objecto de actualização nos termos a regulamentar.\n\n6 - Para efeitos do disposto nos n.os 1 e 2, consideram-se os rendimentos anuais.\n\n7 - O disposto na alínea g) do n.º 1 não se aplica aos rendimentos auferidos pelos pensionistas das Regiões Autónomas, a título de complemento regional de pensão ou outros, desde que atribuídos pelas Regiões Autónomas.\n\n> Alterado pelo/a Artigo 318.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "124533016": {
+   "fragment_id": "108265172",
+   "type": 11,
+   "heading": "Artigo 12.º — Perda do direito",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Perda do direito\n\nO direito ao complemento solidário para idosos cessa, designadamente, nos seguintes casos:\n\na) Decorridos dois anos após o início da suspensão nos termos dos n.os 1 e 2 do artigo anterior;\n\nb) Por morte do titular.\n\nc) Por desistência do titular;\n\nd) Por atribuição da prestação social para a inclusão;\n\ne) Por aplicação de sanção acessória que determine a privação do direito à prestação.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "147431858": {
+   "fragment_id": "108265169",
+   "type": 11,
+   "heading": "Artigo 9.º — Valor de referência do complemento",
+   "in_force_from": "2020-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04",
+    "Alterado pelo/a Artigo 79.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Valor de referência do complemento\n\n1 - O valor de referência do complemento é fixado, e objeto de atualização periódica, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social, tendo em conta a evolução dos preços, o crescimento económico e a distribuição da riqueza.\n\n2 - Sempre que o agregado familiar do requerente seja composto por dois elementos, o valor de referência do complemento poderá ser determinado pela aplicação de uma escala de equivalência ao valor referido no número anterior, nos termos a regulamentar.\n\n3 - Pela portaria mencionada no n.º 1 é também actualizado o montante do complemento solidário para idosos atribuído.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04\n\n> Alterado pelo/a Artigo 79.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "865550088": {
+   "fragment_id": "108265166",
+   "type": 11,
+   "heading": "Artigo 6.º — Determinação dos recursos do requerente",
+   "in_force_from": "2024-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01"
+   ],
+   "markdown": "###### Artigo 6.º — Determinação dos recursos do requerente\n\n1 - Na determinação dos recursos do requerente são tidos em consideração, em termos a regulamentar, os rendimentos:\n\na) Do requerente e do seu cônjuge ou de pessoa que com ele viva em união de facto;\n\nb) (Revogada.)\n\n2 - Na determinação dos rendimentos referidos no número anterior deve atender-se à dimensão e características do agregado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01"
+  },
+  "865550089": {
+   "fragment_id": "108265167",
+   "type": 11,
+   "heading": "Artigo 7.º — Rendimentos a considerar",
+   "in_force_from": "2024-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01",
+    "Alterado pelo/a Artigo 318.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Rendimentos a considerar\n\n1 - Para efeitos da determinação dos recursos do requerente, consideram-se, nomeadamente, os seguintes rendimentos do seu agregado familiar:\n\na) Rendimentos de trabalho dependente;\n\nb) Rendimentos empresariais e profissionais;\n\nc) Rendimentos de capitais;\n\nd) Rendimentos prediais;\n\ne) Incrementos patrimoniais;\n\nf) Valor de realização de bens móveis e imóveis;\n\ng) Pensões;\n\nh) Prestações sociais que não sejam de atribuição única;\n\ni) Valor da comparticipação da segurança social, sempre que os elementos do agregado familiar do requerente se encontrem institucionalizados ou utilizem equipamentos sociais, geridos por entidades públicas, privadas ou do sector da economia social;\n\nj) Uma percentagem do valor do património mobiliário e imobiliário;\n\nl) Transferências monetárias ou bancárias de pessoas singulares ou colectivas, públicas ou privadas, a favor dos elementos do agregado familiar do requerente.\n\n2 - (Revogado.)\n\n3 - Os rendimentos a que se refere o n.º 1 reportam-se ao ano civil anterior ao da data da apresentação do requerimento, desde que os meios de prova se encontrem disponíveis, e, quando tal se não verifique, reportam-se ao ano imediatamente anterior àquele, sem prejuízo, designadamente, do disposto no número seguinte.\n\n4 - Sempre que existam os rendimentos referidos nas alíneas g), h) e i) do n.º 1, os mesmos podem reportar-se aos anos civis determinados no número anterior, ao ano da apresentação do requerimento e ao ano em que os mesmos sejam atribuídos, nos termos a regulamentar.\n\n5 - Os rendimentos previstos no n.º 1 são objeto de atualização nos termos a regulamentar.\n\n6 - Para efeitos do disposto no n.º 1, consideram-se os rendimentos anuais.\n\n7 - O disposto na alínea g) do n.º 1 não se aplica aos rendimentos auferidos pelos pensionistas das Regiões Autónomas, a título de complemento regional de pensão ou outros, desde que atribuídos pelas Regiões Autónomas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01\n\n> Alterado pelo/a Artigo 318.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "865550090": {
+   "fragment_id": "108265169",
+   "type": 11,
+   "heading": "Artigo 9.º — Valor de referência do complemento",
+   "in_force_from": "2024-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04",
+    "Alterado pelo/a Artigo 79.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Valor de referência do complemento\n\n1 - O valor de referência do complemento é fixado, e objeto de atualização periódica, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social, tendo em conta a retribuição mínima mensal garantida, a evolução dos preços, o crescimento económico e a distribuição da riqueza.\n\n2 - Sempre que o agregado familiar do requerente seja composto por dois elementos, o valor de referência do complemento poderá ser determinado pela aplicação de uma escala de equivalência ao valor referido no número anterior, nos termos a regulamentar.\n\n3 - Pela portaria mencionada no n.º 1 é também actualizado o montante do complemento solidário para idosos atribuído.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04\n\n> Alterado pelo/a Artigo 79.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "865550091": {
+   "fragment_id": "108265173",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres dos beneficiários",
+   "in_force_from": "2024-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Deveres dos beneficiários\n\n1 - Os titulares do complemento solidário para idosos são obrigados a:\n\na) Comunicar qualquer alteração de residência e de composição do seu agregado familiar;\n\nb) Apresentar todos os meios probatórios que sejam solicitados pela instituição gestora, nomeadamente para avaliação da situação patrimonial, financeira e económica dos membros do seu agregado familiar;\n\nc)  (Revogada.)\n\n2 - As obrigações previstas no número anterior têm de ser cumpridas no prazo de 15 dias úteis a contar da data da ocorrência dos factos ou da notificação pela instituição gestora\n\n3 - As falsas declarações, omissões ou outros factos relativos aos deveres dos beneficiários dos quais resultem a atribuição indevida do complemento solidário para idosos não impedem a produção dos efeitos previstos no presente decreto-lei, sem prejuízo:\n\na) Da aplicação do regime da responsabilidade emergente do recebimento de prestações indevidas;\n\nb) Do apuramento de responsabilidade penal ou contra-ordenacional regulada em legislação especial.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  },
+  "1157976475": {
+   "fragment_id": "108265162",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.",
+    "Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\n1 - Têm direito ao complemento solidário para idosos os titulares de pensões de invalidez, velhice e sobrevivência ou equiparadas de qualquer sistema de proteção social nacional ou estrangeiro, que residam legalmente em território nacional e satisfaçam as condições previstas no presente decreto-lei.\n\n2 - Têm igualmente direito ao complemento solidário para idosos os titulares da prestação social única com idade igual ou superior à idade normal de pensão de velhice do regime geral de segurança social, que residam legalmente em território nacional e satisfaçam as condições previstas no presente decreto-lei.\n\n3 - Têm ainda direito ao complemento solidário para idosos os titulares da prestação social única que se encontrem em situação de incapacidade permanente para o trabalho nos termos previstos no regime especial de proteção na invalidez do regime geral de segurança social, certificada pelo sistema de verificação de incapacidades, e que residam legalmente em território nacional e satisfaçam as condições previstas no presente decreto-lei.\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.\n\n> Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "1157976675": {
+   "fragment_id": "108265164",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de atribuição",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.",
+    "Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de atribuição\n\n1 - O reconhecimento do direito ao complemento solidário para idosos depende de o requerente se encontrar numa das situações previstas nas alíneas a), b) ou c) e, cumulativamente, satisfazer as condições previstas nas alíneas d) e e).\n\na) Ser pensionista de velhice ou de sobrevivência ou titular da prestação social única e ter idade igual ou superior à idade normal de pensão de velhice do regime geral de segurança social;\n\nb) Ser pensionista de invalidez e não ser titular da prestação social para a inclusão;\n\nc) Ser titular da prestação social única e encontrar-se em situação de incapacidade permanente para o trabalho nos termos previstos no regime especial de proteção na invalidez do regime geral de segurança social, certificada pelo sistema de verificação de incapacidades;\n\nd) Residir em território nacional, pelo menos, nos últimos seis anos imediatamente anteriores à data da apresentação do requerimento da prestação;\n\ne) Possuir recursos de montante inferior ao valor de referência do complemento fixado no artigo 9.º\n\n2 - A condição prevista na alínea d) do número anterior não é aplicável aos cidadãos nacionais que tenham exercido a sua última atividade profissional no estrangeiro, desde que preencham, cumulativamente, as seguintes condições.\n\na) À data da entrega do requerimento da prestação residam em território nacional;\n\nb) Residam em território nacional pelo período igual ao que intermediou entre o momento em que lhe foi atribuída pensão de velhice, de sobrevivência ou equiparada e o momento da apresentação do requerimento;\n\nc) A atribuição de pensão de velhice, de sobrevivência ou equiparada não tenha ocorrido há mais de seis anos.\n\n3 - O cômputo do tempo determinado pela aplicação do disposto na alínea b) do número anterior é feito nos termos a regulamentar.\n\n4 - O reconhecimento do direito ao complemento solidário para idosos depende ainda de o requerente:\n\na) Autorizar a entidade gestora da prestação a aceder à informação fiscal e bancária relevante para atribuição do complemento solidário para idosos;\n\nb) Declarar a disponibilidade para exercer o direito a outras prestações de segurança social a que tenha ou venha a ter direito;\n\nc) Declarar a disponibilidade para exercer o direito de crédito que tenha ou venha a ter sobre terceiros.\n\n5 - As condições previstas no número anterior são extensíveis ao cônjuge ou pessoa que com o requerente viva em união de facto, nos termos previstos no artigo seguinte.\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.\n\n> Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01"
+  },
+  "1157976875": {
+   "fragment_id": "108265171",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão e retoma do direito",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.",
+    "Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Suspensão e retoma do direito\n\n1 - O direito ao complemento solidário para idosos é suspenso nas seguintes situações:\n\na) Não verificação da condição estabelecida na alínea e) do n.º 1 do artigo 4.º, nos termos do disposto no artigo 20.º;\n\nb) Incumprimento do disposto no artigo 3.º e no n.º 1 do artigo 13.º;\n\nc) [Revogada.]\n\nd) Após o trânsito em julgado de decisão judicial condenatória do titular que determine a privação da sua liberdade.\n\n2 - A suspensão do direito ao complemento solidário para idosos inicia-se a partir do mês seguinte àquele em que ocorreram os factos que a determinaram, sem prejuízo da sua retoma.\n\n3 - Consideram-se «prestações indevidamente pagas» as que o forem em momento posterior ao que determina a suspensão da prestação nos termos previstos no número anterior.\n\n4 - A decisão de suspensão do complemento não está sujeita a audiência prévia dos interessados.\n\n5 - A entidade gestora deve notificar a suspensão do direito no prazo máximo de 30 dias úteis após o conhecimento dos factos que a determinaram, devendo, em igual prazo, solicitar a devolução de prestações indevidamente pagas.\n\n6 - A retoma do direito ao complemento solidário para idosos tem lugar no mês seguinte àquele em que deixem de se verificar os condicionalismos que hajam determinado a suspensão, sem prejuízo do disposto no artigo seguinte.\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.\n\n> Alterado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2006 - Diário da República n.º 236/2006, Série I de 2006-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2006-545580), em vigor a partir de 2007-01-01"
+  }
+ }
+}

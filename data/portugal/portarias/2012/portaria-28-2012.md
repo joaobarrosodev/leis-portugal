@@ -1,0 +1,266 @@
+---
+schema_version: '1.0'
+id: pt:dre:543906:por
+title: Portaria n.º 28/2012
+short_title: null
+summary: Fixa a estrutura orgânica da Direção-Geral das Autarquias Locais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças
+proposing_entity: null
+official_number: 28/2012
+official_date: null
+publication_date: '2012-01-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/2012, Série I de 2012-01-31
+  number: '22'
+  series: I
+  supplement: null
+  pages: 527 - 529
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/01/02200/0052700529.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/28/2012/01/31/p/dre/pt/html
+  oj: null
+  dre: '543906'
+  dre_path: /dr/detalhe/portaria/28-2012-543906
+  internal: pt:dre:543906:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-2012-543906
+  metadata_url: https://data.dre.pt/eli/port/28/2012/01/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-2012-543906
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-01-31T00:00:00Z'
+integrity:
+  source_sha256: 2fd3baaba5357f9443da2c946ce80514001ff3299ab976db1a4131a5602c2a5a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-28-543906.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direção Geral das Autarquias Locais
+- Orgânica
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/2/2012/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/2/2012/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/573-a/2007/04/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/573-a/2007/04/30/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 28/2012
+
+de 31 de janeiro
+
+O [Decreto Regulamentar n.º 2/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2012-544471), de 16 de janeiro, definiu a missão, atribuições e tipo de organização interna da Direção-Geral das Autarquias Locais. Importa agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear e estabelecer o número máximo de unidades matriciais e flexíveis do serviço e as competências das respetivas unidades orgânicas nucleares.
+
+Assim,
+
+Ao abrigo do disposto nos n.os 4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e Adjunto e dos Assuntos Parlamentares, o seguinte:
+
+###### Artigo 1.º — Estrutura nuclear da Direção-Geral das Autarquias Locais
+
+1 - A DGAL estrutura-se nas seguintes unidades orgânicas:
+
+a) Departamento para a Modernização e Assuntos Jurídicos;
+
+b) Departamento para a Cooperação e Assuntos Financeiros;
+
+c) Departamento de Organização e Gestão de Sistemas de Informação e Comunicação;
+
+2 - As unidades referidas no número anterior são dirigidas por Diretores de Serviços, cargos de direção intermédia de 1.º grau.
+
+###### Artigo 2.º — Departamento para a Modernização e Assuntos Jurídicos
+
+Ao Departamento para a Modernização e Assuntos Jurídicos, abreviadamente designado por DMAJ, compete:
+
+a) Acompanhar o processo de concretização dos programas operacionais do Quadro de Referência Estratégica Nacional (QREN) relativos às regiões do continente, de acordo com as atribuições da DGAL;
+
+b) Conceber e propor as medidas legislativas relativas à administração local e acompanhar e apreciar os efeitos da respetiva aplicação;
+
+c) Estudar, propor e executar, em colaboração com os restantes serviços competentes, as medidas adequadas à sensibilização dos eleitos locais e dos trabalhadores em funções públicas para a necessidade da implantação e do progressivo aperfeiçoamento dos sistemas de controlo interno nas entidades da administração local;
+
+d) Apoiar na articulação entre os serviços da DGAL e os restantes serviços e organismos da administração central no relacionamento com as entidades da administração local;
+
+e) Acompanhar, em articulação com os organismos competentes, o processo de modernização da administração local e a qualidade dos serviços por ela prestados aos cidadãos, designadamente procedendo ao levantamento e redefinição dos sistemas de informação com vista à adoção de metodologias adequadas à maximização do aproveitamento dos recursos disponíveis;
+
+f) Conceber, em articulação com os serviços competentes da DGAL, critérios de inventariação e avaliação de património das entidades da administração local e propor as medidas necessárias à sua aplicação;
+
+g) Identificar as carências e adequação da formação e do aperfeiçoamento profissionais dos recursos humanos da administração local, concorrendo para a definição de programas e métodos;
+
+h) Promover e organizar conferências, colóquios, seminários e reuniões de informação para eleitos locais;
+
+i) Elaborar estudos, análises, pareceres e sistematizar as informações e pareceres jurídicos sobre matérias relacionadas com a administração local, promovendo a respetiva uniformidade interpretativa;
+
+j) Prestar a informação e o apoio necessários à instrução dos processos de criação, extinção ou modificação territorial das autarquias locais;
+
+k) Prestar a informação e o apoio necessário à instrução de processos de declaração de utilidade pública das expropriações e pedidos de reversão;
+
+l) Assegurar o acompanhamento das matérias, incluindo o cumprimentos dos acordos relacionados com a administração local aos níveis comunitário e internacional;
+
+m) Proceder ao registo das associações de municípios e da ordenação heráldica das autarquias locais e pessoas coletivas de utilidade pública administrativa;
+
+n) Proceder, em colaboração com os organismos competentes, à recolha e tratamento da informação estatística, jurídica e cartográfica de interesse para análise e apoio à gestão da administração local, tendo em vista, designadamente, a criação de bases de dados;
+
+o) Manter atualizado, em suporte informático, toda a informação com relevância para a administração local e para a DGAL.
+
+p) Fornecer a informação estatística necessária à formulação de políticas globais e sectoriais a definir superiormente.
+
+q) Proceder à pesquisa e tratamento de legislação, doutrina e jurisprudência com interesse para a DGAL e para a administração local;
+
+r) Participar nos processos de adjudicação da aquisição de bens e serviços, com interesse para a unidade orgânica;
+
+s) Emitir pareceres de natureza jurídica sobre matérias da competência da DGAL;
+
+t) Prestar o demais apoio que lhe for superiormente solicitado.
+
+###### Artigo 3.º — Departamento para a Cooperação e Assuntos Financeiros
+
+Ao Departamento para a Cooperação e Assuntos Financeiros, abreviadamente designado por DCAF, compete:
+
+a) Estudar e propor, em colaboração com as entidades competentes, as normas e princípios integrantes do sistema financeiro da administração local;
+
+b) Elaborar e divulgar análises sobre a situação económico-financeira das referidas entidades;
+
+c) Apreciar, em colaboração com as entidades competentes, os critérios de repartição das participações financeiras da administração local e o resultado da respetiva aplicação;
+
+d) Propor, nos termos da lei, os planos de distribuição das participações financeiras que cabem à administração local, acompanhando o respetivo processamento;
+
+e) Conceber e propor as adaptações necessárias a uma gestão económico-financeira equilibrada da administração local, tendo em conta os condicionalismos nacionais e comunitários impostos nesta matéria;
+
+f) Acompanhar a gestão económico-financeira da administração local e a aplicação do sistema contabilístico vigente, visando criar condições para a uniformização das soluções e para a transparência na sua prática;
+
+g) Sistematizar as formas de apoio da administração local, em matéria de gestão financeira e contabilística, com vista ao seu aperfeiçoamento;
+
+h) Analisar os indicadores que permitam o controlo e a avaliação periódica dos resultados obtidos no domínio da gestão financeira e patrimonial das entidades da administração local;
+
+i) Apoiar as entidades da administração local no que respeita à utilização de linhas de crédito criadas para o efeito;
+
+j) Responder às solicitações das entidades competentes relativas às questões financeiras da administração local.
+
+k) Preparar, coordenar e gerir programas de cooperação técnica e financeira com a administração local, relativamente aos quais sejam competentes em razão da matéria;
+
+l) Promover a articulação com os demais serviços do setor público administrativo com atribuições no domínio da cooperação técnica e financeira com a administração local;
+
+m) Promover o apoio à administração local na identificação dos programas cofinanciados a que podem aceder;
+
+n) Preparar os instrumentos contratuais entre a DGAL e a administração local envolvidas nos programas de financiamento e apoio técnico da DGAL;
+
+o) Acompanhar e avaliar a execução financeira e física dos projetos da administração local objeto de cofinanciamento pela DGAL;
+
+p) Promover a recolha e a sistematização da informação relevante sobre os programas, projetos e ações da administração local cofinanciados pela administração central;
+
+q) Acompanhar e avaliar a execução dos programas anuais e plurianuais no âmbito da cooperação técnica e financeira;
+
+r) Prestar o demais apoio que lhe for superiormente solicitado.
+
+###### Artigo 4.º — Departamento de Organização e Gestão de Sistemas de Informação e Comunicação
+
+Ao Departamento de Organização e Gestão de Sistemas de Informação e Comunicação, abreviadamente designado por DOGSIC, compete:
+
+a) Recolher, manter atualizada, tratar e difundir a documentação nacional e estrangeira relativa à administração local com interesse para a DGAL ou para o público em geral;
+
+b) Manter atualizada a biblioteca e gerir a base de dados bibliográfica, por forma a mantê-la adequada às necessidades dos utilizadores e aos objetivos da DGAL;
+
+c) Proceder à difusão interna e externa da base de dados bibliográfica, bem como de outras bases de dados produzidas pela DGAL;
+
+d) Organizar exposições sobre matérias relacionadas com a administração local;
+
+e) Promover a composição, impressão e reprodução, bem como a edição e distribuição de documentação e publicações;
+
+f) Promover a aquisição ou a permuta de livros e documentação com interesse para a administração local;
+
+g) Gerir o parque gráfico que lhe está afeto;
+
+h) Coordenar e assegurar as relações da DGAL com entidades e organismos internacionais e relatar e avaliar as ações realizadas no domínio daquelas relações;
+
+i) Assegurar a definição e manutenção dos modelos de sistemas de informação, sua conceção, desenvolvimento e exploração, incluindo a conceção de sistemas de informação relativos à administração local no âmbito da gestão financeira, patrimonial, administrativa e do pessoal;
+
+j) Gerir o processamento de dados, garantindo a operacionalização de todo o equipamento informático, de comunicações e suportes lógicos que lhes estão associados;
+
+k) Assegurar a administração, gestão e desenvolvimento dos sistemas informáticos, de bases de dados, da internet e da intranet;
+
+l) Gerir a rede de comunicações da DGAL;
+
+m) Conceber e propor a evolução da infraestrutura tecnológica e arquitetura informática da DGAL;
+
+n) Definir e aplicar as normas e procedimentos necessários à segurança e confidencialidade da informação residente;
+
+o) Gerir e manter operacional toda a infraestrutura de comunicação, equipamento informático e suportes lógicos da DGAL, incluindo o apoio aos utilizadores e serviços na utilização do equipamento e suporte lógico de uso individual;
+
+p) Definir e implementar normas e configurações a que devem obedecer os meios individuais de computação, bem como propor e participar nos processos de aquisição, contratação e instalação de equipamentos e serviços de informática;
+
+q) Apoiar na formação dos utilizadores das aplicações informáticas;
+
+r) Prestar o demais apoio que lhe for superiormente solicitado.
+
+###### Artigo 5.º — Unidades orgânicas flexíveis
+
+O número máximo das unidades orgânicas flexíveis da DGAL é fixado em quatro.
+
+###### Artigo 6.º — Chefes de equipas multidisciplinares
+
+É fixada em um a dotação máxima de chefes de equipas multidisciplinares.
+
+###### Artigo 7.º — Norma revogatória
+
+São revogadas:
+
+a) A Portaria n.º 497/2007, de 30 de abril.
+
+b) A [Portaria n.º 573-A/2007](https://diariodarepublica.pt/dr/detalhe/portaria/573-a-2007-321694), de 30 de abril;
+
+c) A Portaria n.º 351/2008, de 7 de maio.
+
+###### Artigo 8.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia 1 de fevereiro de 2012.
+
+**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 29 de janeiro de 2012. - O Ministro Adjunto e dos Assuntos Parlamentares, Miguel Fernando Cassola de Miranda Relvas, em 25 de janeiro de 2012.**

@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:548069:por
+title: Decreto n.º 42/89
+short_title: null
+summary: Aprova o Protocolo Relativo à Cooperação no Domínio das Telecomunicações entre a República Portuguesa e a República
+  Democrática de São Tomé e Príncipe
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 42/89
+official_date: null
+publication_date: '1989-09-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 223/1989, Série I de 1989-09-27
+  number: '223'
+  series: I
+  supplement: null
+  pages: 4294 - 4295
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22300/42944295.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '548069'
+  dre_path: /dr/detalhe/decreto/42-1989-548069
+  internal: pt:dre:548069:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1989-548069
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1989-548069
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-09-27T00:00:00Z'
+integrity:
+  source_sha256: b577cb0439b38f7ace2f37d93e5e96c02e0792c22a075b8e3172a869668efa5f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-42-548069.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 42/89
+
+de 27 de Setembro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado o Protocolo Relativo à Cooperação no Domínio das Telecomunicações entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, feito em Lisboa, a 27 de Julho de 1988, cujo texto original em português vai anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
+
+**Assinado em 13 de Setembro de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 15 de Setembro de 1989.O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+PROTOCOLO RELATIVO À COOPERAÇÃO NO DOMÍNIO DAS TELECOMUNICAÇÕES ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE.
+
+O Governo da República Democrática de São Tomé e Príncipe e o Governo da República Portuguesa, daqui em diante, e em conjunto, designados por Partes, considerando:
+
+Que é desejo de ambas as Partes promover a cooperação no campo das telecomunicações entre São Tomé e Príncipe e Portugal;
+
+Que existem dificuldades no escoamento de tráfego internacional entre São Tomé e Príncipe e além-Portugal, em parte devidas a congestionamento nos meios de telecomunicações;
+
+Que, por razões estruturais, existe um grande desequilíbrio nas relações de tráfego de entrada e de saída nos serviços telefónico e de telex, que origina um saldo nas contas entre a Empresa Nacional de Telecomunicações de São Tomé e Príncipe (ENATEL) e a Companhia Portuguesa de Rádio Marconi (CPRM) sistematicamente favorável à CPRM;
+
+Que é desejo, em particular de São Tomé e Príncipe, de melhorar o funcionamento e ampliar as instalações da estação terrena de São Marçal, com vista a um fácil escoamento do tráfego internacional;
+
+Que a decisão de investimento na área das telecomunicações internacionais tem de pautar-se por critérios económicos;
+
+Que, recentemente, foi celebrado um acordo da assistência técnica e cooperação entre a ENATEL e a CPRM;
+
+acordam no seguinte:
+
+1 - É objectivo de ambas as Partes desenvolver a cooperação no domínio das telecomunicações nacionais e internacionais de São Tomé e Príncipe, estudando e promovendo projectos para a realização desse fim.
+
+É, em particular, desejo de ambas as Partes que se estudem e procurem encontrar e aplicar as soluções técnicas e administrativas apropriadas para estimular o tráfego de telecomunicações originado em Portugal ou em correspondentes de São Tomé e Príncipe, com o objectivo de, conseguindo um desenvolvimento de tráfego global que conduza a um saldo nas contas das duas empresas favorável a São Tomé e Príncipe, gerar para este país fundos em divisas que permitam a realização de investimentos necessários para a melhoria da qualidade das telecomunicações entre os dois países.
+
+2 - A concretização dos objectivos deste Protocolo competirá à Empresa Nacional de Telecomunicações de São Tomé e Príncipe (ENATEL) e à Companhia Portuguesa de Rádio Marconi (CPRM).
+
+3 - A CPRM e a ENATEL desenvolverão um projecto de modernização das telecomunicações internacionais de São Tomé e Príncipe, com o objectivo de ultrapassar as dificuldades existentes ao nível de sistemas de transmissão e comutação no âmbito do qual se prevê que:
+
+3.1 - Será instalado na República Democrática de São Tomé e Príncipe equipamento adicional na área de transmissão, por forma a repor a normalidade de funcionamento da estação terrena de São Marçal;
+
+3.2 - Será instalado equipamento adicional na área de comutação;
+
+3.3 - A CPRM assegurará uma assistência regular às áreas de comutação e transmissão (nomeadmente à estação terrena de São Marçal), incluindo a manutenção dos equipamentos e sistemas abrangidos pelo acordo celebrado entre a ENATEL e a CPRM;
+
+3.4 - A CPRM financiará a ENATEL, sem juros, por forma a normalizar a sua situação no que respeita aos pagamentos à INTELSAT;
+
+3.5 - A amortização da dívida decorrente dos números anteriores será feita com base nos resultados das contas entre a CPRM e a ENATEL e, caso não se atinjam os objectivos fixados, a dívida será paga pela ENATEL, segundo escalonamento acordado.
+
+4 - Os pormenores técnicos, operacionais, administrativos e. outros do projecto conjunto de desenvolvimento das telecomunicações internacionais de São Tomé e Príncipe são os acordados entre a ENATEL e a CPRM.
+
+5 - O Governo de São Tomé e Príncipe assegurará as facilidades legais no que respeita à concretização dos projectos, nomeadamente autorização para importação de materiais, para instalação de materiais, infra-estruturas e equipamentos, para entrada de pessoal da CPRM ou dos fornecedores em São Tomé e Príncipe, bem como outros actos administrativos porventura necessários.
+
+6 - O Governo Português assegurará as facilidades necessárias em Portugal para o bom cumprimento dos projectos.
+
+7 - O presente Protocolo entrará em vigor na data em que vier a ser comunicado que se encontram cumpridas as formalidades exigidas pela ordem jurídica interna de cada uma das Partes e será válido por um período anual, automaticamente prorrogável, podendo ser denunciado por qualquer das Partes, mediante comunicação escrita à outra, com uma antecedência mínima de 90 dias sobre a data do termo do período então em curso.
+
+Feito em Lisboa, aos 27 de Julho de 1988, em dois textos originais em língua portuguesa, fazendo ambos igualmente fé.
+
+Pela República Portuguesa:
+
+João de Deus Rogado Salvador Pinheiro, Ministro dos Negócios Estrangeiros.
+
+Pela República Democrática de São Tomé e Príncipe:
+
+(Assinatura ilegível), Ministro Delegado do Primeiro-Ministro.

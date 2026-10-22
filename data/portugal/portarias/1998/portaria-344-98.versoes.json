@@ -1,0 +1,102 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:476075:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1998-1034550884",
+ "dre_path": "/dr/detalhe/portaria/344-1998-476075",
+ "source_lastmod": "2026-05-25",
+ "versions": [
+  {
+   "date": "1998-06-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1033275841"
+   ]
+  },
+  {
+   "date": "1998-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:273977:por",
+     "title": "Declaração de Rectificação n.º 13-J/98",
+     "published": "1998-08-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/13-j-1998-273977"
+    }
+   ],
+   "changes": [
+    "Retifica 4.º"
+   ],
+   "fragments": [
+    "1033275841",
+    "1033275842",
+    "1033275843",
+    "1033275844",
+    "1121023875",
+    "1033275846",
+    "1033275847"
+   ]
+  }
+ ],
+ "fragments": {
+  "1033275841": {
+   "fragment_id": "1034550885",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 344/98\n\nde 5 de Junho\n\nA Portaria n.º 85/98, de 19 de Fevereiro, aprovou o Regulamento de Aplicação do Regime de Ajudas às Medidas Agro-Ambientais.\n\nAtendendo à necessidade de se proceder à alteração de algumas das suas disposições de acordo com o disposto no Regulamento (CEE) n.º 2078/92, de 30 de Junho, e com as orientações emitidas pela Comissão;\n\nAssim:\n\nAo abrigo do n.º 2 do artigo 10.º do Decreto-Lei n.º 31/94, de 5 de Fevereiro, com a redacção dada pelo Decreto-Lei n.º 351/97, de 5 de Dezembro:\n\nManda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, o seguinte:"
+  },
+  "1033275842": {
+   "fragment_id": "1034550886",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nOs anexos I e IV do Regulamento, aprovado pela Portaria n.º 85/98, de 19 de Fevereiro, passam a ter a seguinte redacção:\n\n«ANEXO I\n\n(ver quadro no documento original)\n\nANEXO IV\n\nApoio à manutenção de raças autóctones ameaçadas de extinção\n\n(ver quadro no documento original)"
+  },
+  "1033275843": {
+   "fragment_id": "1034550887",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nNo anexo III do Regulamento, aprovado pela Portaria n.º 85/98, de 19 de Fevereiro, na coluna relativa aos compromissos dos beneficiários, no que se refere à medida 1.2.1 - Sistemas cerealíferos de sequeiro, é aditado o seguinte compromisso:\n\n«Declarar anualmente a área semeada de cereais Outono/Inverno.»"
+  },
+  "1033275844": {
+   "fragment_id": "1034550888",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nAo Regulamento, aprovado pela Portaria n.º 85/98, de 19 de Fevereiro, é aditado um artigo 45.º, com a seguinte redacção:\n\n«Artigo 45.º\n\nOs limites estabelecidos no n.º 4 do artigo 41.º e no artigo 42.º não se aplicam no caso da medida 1.2.1 - Sistemas cerealíferos de sequeiro, no que se refere à alteração da área semeada objecto de ajuda, aplicando-se, contudo, à superfície agrícola útil afecta a este sistema de produção.»"
+  },
+  "1121023875": {
+   "fragment_id": "1034550889",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "1998-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 13-J/98 - Diário da República n.º 200/1998, 3º Suplemento, Série I-B de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-j-1998-273977), em vigor a partir de 1998-08-31."
+   ],
+   "markdown": "###### 4.º\n\nAo Regulamento, aprovado pela Portaria n.º 85/98, de 19 de Fevereiro, são aditados os anexos X e XI, com a seguinte redacção:\n\n«ANEXO X\n\n(ver quadro no documento original)\n\nANEXO XI\n\n(ver quadro no documento original)\n\n> Retificado pelo/a [Declaração de Rectificação n.º 13-J/98 - Diário da República n.º 200/1998, 3º Suplemento, Série I-B de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-j-1998-273977), em vigor a partir de 1998-08-31."
+  },
+  "1033275846": {
+   "fragment_id": "1034550890",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nO presente diploma produz efeitos desde a data de entrada em vigor da Portaria n.º 85/98, de 19 de Fevereiro."
+  },
+  "1033275847": {
+   "fragment_id": "1034550891",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.\n\nAssinada em 7 de Abril de 1998.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira."
+  }
+ }
+}

@@ -1,0 +1,292 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:179775:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-108043691",
+ "dre_path": "/dr/detalhe/decreto-lei/148-2012-179775",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-07-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108042217",
+    "108042218",
+    "108042219",
+    "108042220",
+    "108042221",
+    "108042222",
+    "108042223",
+    "108042224",
+    "108042225",
+    "108042226",
+    "108042227",
+    "108042228",
+    "108042229"
+   ]
+  },
+  {
+   "date": "2017-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108028571:por",
+     "title": "Lei n.º 89/2017",
+     "published": "2017-08-21",
+     "dre_path": "/dr/detalhe/lei/89-2017-108028571"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "108042217",
+    "108042218",
+    "108042219",
+    "108042231",
+    "108042221",
+    "108042222",
+    "108042223",
+    "108042224",
+    "108042225",
+    "108042226",
+    "108042227",
+    "108042228",
+    "108042229",
+    "108042230"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213881448:por",
+     "title": "Decreto-Lei n.º 41/2023",
+     "published": "2023-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2023-213881448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "108042217",
+    "108042218",
+    "108042219",
+    "213918800",
+    "108042221",
+    "213918801",
+    "213918802",
+    "108042224",
+    "108042225",
+    "108042226",
+    "108042227",
+    "108042228",
+    "108042229",
+    "108042230"
+   ]
+  },
+  {
+   "date": "2025-12-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:962603402:por",
+     "title": "Decreto-Lei n.º 126/2025",
+     "published": "2025-12-04",
+     "dre_path": "/dr/detalhe/decreto-lei/126-2025-962603402"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "108042217",
+    "108042218",
+    "108042219",
+    "962969388",
+    "108042221",
+    "213918801",
+    "213918802",
+    "108042224",
+    "108042225",
+    "108042226",
+    "108042227",
+    "108042228",
+    "108042229",
+    "108042230"
+   ]
+  }
+ ],
+ "fragments": {
+  "108042217": {
+   "fragment_id": "108043692",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 148/2012\n\nde 12 de julho\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nO presente decreto-lei altera a estrutura orgânica do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), que vê reduzido o número de cargos dirigentes e, em simultâneo, reajusta as suas atribuições e competências, por forma a conformar a atividade desenvolvida pelo Instituto à evolução crescente que se tem feito sentir no domínio dos registos e do notariado.\n\nO IRN, I. P., exerce, hoje, um leque muito mais vasto de competências, desempenhando um papel preponderante ao nível da desjudicialização dos processos e da elaboração e divulgação de dados estatísticos.\n\nDe ressaltar é, ainda, o incremento de competências que exerce para outros serviços da Administração Pública, bem como o seu posicionamento ao nível internacional, nomeadamente no âmbito da interconexão de registos, onde assegura a representação de Portugal em organizações internacionais, desempenhando, também, importantes funções de fiscalização da atividade notarial e de atos notariais.\n\nOrientadas por critérios de racionalização funcional, as mudanças organizativas ora introduzidas vêm, pois, permitir alcançar maior eficiência no funcionamento e melhor capacidade de resposta por parte do INR, I. P.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108042218": {
+   "fragment_id": "108043693",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto dos Registos e do Notariado, I. P., abreviadamente designado por IRN, I. P., é um instituto público integrado na administração indireta do Estado, dotado de autonomia administrativa.\n\n2 - O IRN, I. P., prossegue atribuições do Ministério da Justiça (MJ), sob superintendência e tutela do membro do Governo responsável pela área da justiça."
+  },
+  "108042219": {
+   "fragment_id": "108043694",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O IRN, I. P., é um organismo central com jurisdição sobre todo o território nacional, sem prejuízo do disposto no Decreto-Lei n.º 247/2003, de 8 de outubro, quanto à Região Autónoma da Madeira.\n\n2 - O IRN, I. P., tem sede em Lisboa."
+  },
+  "108042220": {
+   "fragment_id": "108043695",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IRN, I. P., tem por missão executar e acompanhar as políticas relativas aos serviços de registo, tendo em vista assegurar a prestação de serviços aos cidadãos e às empresas no âmbito da identificação civil e do registo civil, de nacionalidade, predial, comercial, de bens móveis e de pessoas coletivas, bem como assegurar a regulação, controlo e fiscalização da atividade notarial.\n\n2 - São atribuições do IRN, I. P.:\n\na) Apoiar a formulação e concretização das políticas relativas à nacionalidade, à identificação civil e aos registos civil, predial, comercial, de bens móveis e de pessoas coletivas, a execução e acompanhamento das medidas decorrentes e operacionalizar e executar projetos de modernização no sector dos registos, nas suas várias dimensões;\n\nb) Dirigir, coordenar, apoiar, avaliar e fiscalizar a atividade das conservatórias e proceder à uniformização de normas e técnicas relativas à atividade dos registos assegurando o respetivo cumprimento;\n\nc) Garantir a emissão, a substituição e o cancelamento do cartão de cidadão, bem como a emissão dos respetivos certificados;\n\nd) Assegurar a receção e confirmação dos elementos necessários para a concessão do passaporte comum e proceder à entrega do mesmo;\n\ne) Participar na execução de estudos tendentes à reorganização e modernização dos serviços de registo e articular com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), o desenvolvimento, funcionamento e evolução dos respetivos sistemas de informação;\n\nf) Programar, em colaboração com a Direção-Geral da Política de Justiça (DGPJ) e o IGFEJ, I. P., as necessidades de instalações dos serviços dos registos e colaborar no planeamento e na execução de obras de construção, remodelação ou conservação;\n\ng) Colaborar com a DGPJ na recolha, tratamento e divulgação dos dados estatísticos relativos aos registos e ao notariado, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da justiça;\n\nh) Tratar e disponibilizar os dados estatísticos e informativos constantes das várias bases de dados de que é titular;\n\ni) Coordenar a elaboração e a execução e proceder à avaliação da gestão orçamental, financeira e contabilística dos serviços dos registos e processar as remunerações e outros abonos dos funcionários em exercício de funções nos serviços de registo;\n\nj) Liquidar, cobrar e registar as receitas próprias;\n\nk) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em instrumentos contratuais que determinem, entre outros aspetos, os níveis de prestação e respetivas contrapartidas;\n\nl) Cooperar com entidades congéneres ou outras, nacionais ou estrangeiras, designadamente através da celebração de protocolos, acordos ou outros instrumentos jurídicos de colaboração na sua área de atuação, bem como assegurar a representação em organizações internacionais cuja atividade se desenvolva no âmbito da sua missão;\n\nm) Regulamentar, controlar e fiscalizar a atividade notarial e os atos notariais e exercer a ação disciplinar sobre os notários, nos termos previstos na lei."
+  },
+  "108042221": {
+   "fragment_id": "108043696",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do IRN, I. P.:\n\na) O conselho diretivo;\n\nb) O conselho consultivo."
+  },
+  "108042222": {
+   "fragment_id": "108043697",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é composto por um presidente, por um vice-presidente e por um vogal.\n\n2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do IRN, I. P.:\n\na) Dirigir os serviços centrais e desconcentrados do IRN, I. P.;\n\nb) Autorizar o plano anual de formação;\n\nc) Propor alterações ao Regulamento Emolumentar dos Registos e do Notariado;\n\nd) Autorizar o regresso dos notários e oficiais do notariado, bem como decidir da sua afetação aos serviços de registo;\n\ne) Regular, controlar e fiscalizar a atividade notarial e exercer a ação disciplinar sobre os notários nos termos previstos na lei;\n\nf) Atuar em nome do IRN, I. P., junto de instituições nacionais ou internacionais, designadamente assegurando contactos institucionais, a respetiva representação em comissões, grupos de trabalho ou outras atividades de organismos internacionais em áreas relacionadas com as atribuições do Instituto;\n\ng) Decidir os processos de composição de nome, de recurso hierárquico de atos e processos especiais de registo e de admissibilidade de firma ou denominação, nos termos da lei;\n\nh) Distribuir ou redistribuir os pedidos efetuados num determinado serviço de registo a outros;\n\ni) Praticar atos de delegação de competências relativos à prática de atos e processos de registo;\n\nj) Emitir instruções gerais com carácter vinculativo para os serviços desconcentrados;\n\nk) Presidir ao Conselho do Notariado, quando para o efeito designado pelo membro do Governo responsável pela área da justiça.\n\n3 - Consideram-se delegadas no presidente do conselho diretivo do IRN, I. P., as competências previstas nas alíneas a), d), f) e j) do número anterior.\n\n4 - O conselho diretivo pode delegar, com a faculdade de subdelegação, em um ou mais dos seus membros e nos dirigentes dos serviços as competências que lhe estejam atribuídas."
+  },
+  "108042223": {
+   "fragment_id": "108043698",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do IRN, I. P., e nas tomadas de decisão do conselho diretivo.\n\n2 - O conselho consultivo compreende as seguintes secções:\n\na) Identificação civil, registo civil e nacionalidade;\n\nb) Registo predial;\n\nc) Registo comercial e de bens móveis.\n\n3 - O conselho consultivo é composto por:\n\na) Presidente do conselho diretivo do IRN, I. P., que preside;\n\nb) Conservadores dos registos, em número não inferior a três por secção.\n\n4 - Os membros do conselho consultivo são designados por despacho do membro do Governo que tutela o IRN, I. P.\n\n5 - Podem, ainda, ser convidados a participar nas reuniões do conselho consultivo, sem direito a voto, inspetores, conservadores ou especialistas de reconhecido mérito.\n\n6 - Compete ao conselho consultivo pronunciar-se sobre todos os assuntos que lhe forem submetidos pelo membro do Governo responsável pela área da justiça ou pelo conselho diretivo do IRN, I. P."
+  },
+  "108042224": {
+   "fragment_id": "108043699",
+   "type": 11,
+   "heading": "Artigo 7.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organização interna\n\nA organização interna do IRN, I. P., é a prevista nos respetivos estatutos."
+  },
+  "108042225": {
+   "fragment_id": "108043700",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviços centrais e serviços de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviços centrais e serviços de registo\n\n1 - Para desenvolvimento das atividades inerentes aos seus objetivos e atribuições o IRN, I. P., está estruturado em serviços centrais, constituídos por unidades orgânicas nucleares e flexíveis, e em serviços de registo, regulados em diploma próprio.\n\n2 - Os serviços de registo compreendem serviços desconcentrados do IRN, I. P., e serviços centrais de registo.\n\n3 - São serviços centrais de registo do IRN, I. P.:\n\na) A Conservatória dos Registos Centrais;\n\nb) O Registo Nacional de Pessoas Coletivas.\n\n4 - São serviços desconcentrados do IRN, I. P.:\n\na) As conservatórias do registo civil;\n\nb) As conservatórias do registo predial;\n\nc) As conservatórias do registo comercial;\n\nd) As conservatórias do registo de veículos;\n\ne) Os serviços de gestão de arquivos e documentos;\n\nf) Os balcões SIR - Soluções Integradas de Registo e outros serviços de registo previstos em legislação especial.\n\n5 - O presidente do IRN, I. P., pode incumbir os serviços referidos no n.º 2 da realização e execução de projetos específicos no sector dos registos."
+  },
+  "108042226": {
+   "fragment_id": "108043701",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O IRN, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O IRN, I. P., dispõe das receitas provenientes das transferências do IGFEJ, I. P.\n\n3 - O IRN, I. P., dispõe ainda das seguintes receitas próprias:\n\na) O produto das prestações de serviços cuja receita seja atribuída, nos termos da lei, ao IRN, I. P.;\n\nb) O produto das coimas cobradas em procedimento contraordenacional, nos termos e percentagens previstos na lei;\n\nc) O produto da venda dos impressos próprios, de publicações, de material informativo e de outros bens diretamente relacionados com os serviços que presta;\n\nd) Os subsídios, subvenções, comparticipações, doações e legados, concedidos por entidades públicas e privadas, nacionais, estrangeiras ou internacionais;\n\ne) O rendimento dos bens que possua a qualquer título;\n\nf) A receita resultante da não devolução aos utentes de preparos não reclamados;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n4 - As receitas próprias referidas nos n.os 2 e 3 são consignadas à realização de despesas do IRN, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.\n\n5 - Os serviços de registo entregam diretamente ao IRN, I. P., as receitas próprias por eles cobradas."
+  },
+  "108042227": {
+   "fragment_id": "108043702",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas do IRN, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "108042228": {
+   "fragment_id": "108043703",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 129/2007, de 27 de abril."
+  },
+  "108042229": {
+   "fragment_id": "108043704",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "108042231": {
+   "fragment_id": "108043695",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2017-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IRN, I. P., tem por missão executar e acompanhar as políticas relativas aos serviços de registo, tendo em vista assegurar a prestação de serviços aos cidadãos e às empresas no âmbito da identificação civil e do registo civil, de nacionalidade, predial, comercial, de bens móveis e de pessoas coletivas, bem como assegurar a regulação, controlo e fiscalização da atividade notarial.\n\n2 - São atribuições do IRN, I. P.:\n\na) Apoiar a formulação e concretização das políticas relativas à nacionalidade, à identificação civil e aos registos civil, predial, comercial, de bens móveis e de pessoas coletivas, a execução e acompanhamento das medidas decorrentes e operacionalizar e executar projetos de modernização no sector dos registos, nas suas várias dimensões;\n\nb) Dirigir, coordenar, apoiar, avaliar e fiscalizar a atividade das conservatórias e proceder à uniformização de normas e técnicas relativas à atividade dos registos assegurando o respetivo cumprimento;\n\nc) Garantir a emissão, a substituição e o cancelamento do cartão de cidadão, bem como a emissão dos respetivos certificados;\n\nd) Assegurar a receção e confirmação dos elementos necessários para a concessão do passaporte comum e proceder à entrega do mesmo;\n\ne) Participar na execução de estudos tendentes à reorganização e modernização dos serviços de registo e articular com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), o desenvolvimento, funcionamento e evolução dos respetivos sistemas de informação;\n\nf) Programar, em colaboração com a Direção-Geral da Política de Justiça (DGPJ) e o IGFEJ, I. P., as necessidades de instalações dos serviços dos registos e colaborar no planeamento e na execução de obras de construção, remodelação ou conservação;\n\ng) Colaborar com a DGPJ na recolha, tratamento e divulgação dos dados estatísticos relativos aos registos e ao notariado, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da justiça;\n\nh) Tratar e disponibilizar os dados estatísticos e informativos constantes das várias bases de dados de que é titular;\n\ni) Coordenar a elaboração e a execução e proceder à avaliação da gestão orçamental, financeira e contabilística dos serviços dos registos e processar as remunerações e outros abonos dos funcionários em exercício de funções nos serviços de registo;\n\nj) Liquidar, cobrar e registar as receitas próprias;\n\nk) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em instrumentos contratuais que determinem, entre outros aspetos, os níveis de prestação e respetivas contrapartidas;\n\nl) Cooperar com entidades congéneres ou outras, nacionais ou estrangeiras, designadamente através da celebração de protocolos, acordos ou outros instrumentos jurídicos de colaboração na sua área de atuação, bem como assegurar a representação em organizações internacionais cuja atividade se desenvolva no âmbito da sua missão;\n\nm) Regulamentar, controlar e fiscalizar a atividade notarial e os atos notariais e exercer a ação disciplinar sobre os notários, nos termos previstos na lei.\n\nn) Colaborar com as autoridades competentes na definição e na execução das políticas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, bem como assegurar a disponibilização de informação sobre a identificação das pessoas singulares que detêm a propriedade e o controlo de pessoas coletivas e de centros de interesses coletivos sem personalidade jurídica, nos termos previstos na lei.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+  },
+  "108042230": {
+   "fragment_id": "108043705",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de junho de 2012. - Vítor Louçã Rabaça Gaspar - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz.\n\nPromulgado em 3 de julho de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 5 de julho de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "213918800": {
+   "fragment_id": "108043695",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29",
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IRN, I. P., tem por missão executar e acompanhar as políticas relativas aos serviços de identificação e registo, tendo em vista assegurar a prestação de serviços aos cidadãos e às empresas no âmbito da identificação civil, da concessão e emissão de passaportes, da nacionalidade, dos registos civil, predial, comercial, de bens móveis, de pessoas coletivas e do beneficiário efetivo e da emissão de certificado sucessório europeu:\n\n2 - São atribuições do IRN, I. P.:\n\na) Apoiar a formulação e concretização das políticas relativas à nacionalidade, à identificação civil e aos registos civil, predial, comercial, de bens móveis e de pessoas coletivas, a execução e acompanhamento das medidas decorrentes e operacionalizar e executar projetos de modernização no sector dos registos, nas suas várias dimensões;\n\nb) Dirigir, coordenar, apoiar, avaliar e fiscalizar a atividade das conservatórias e proceder à uniformização de normas e técnicas relativas à atividade dos registos assegurando o respetivo cumprimento;\n\nc) Garantir a emissão, a substituição e o cancelamento do cartão de cidadão, bem como a emissão dos respetivos certificados;\n\nd) Garantir a concessão, a emissão, a substituição e o cancelamento do passaporte comum, especial, de estrangeiros e temporário, bem como gerir e manter as respetivas bases de dados;\n\ne) Participar na execução de estudos tendentes à reorganização e modernização dos serviços de registo e articular com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), o desenvolvimento, funcionamento e evolução dos respetivos sistemas de informação;\n\nf) Programar, em colaboração com a Direção-Geral da Política de Justiça (DGPJ) e o IGFEJ, I. P., as necessidades de instalações dos serviços dos registos e colaborar no planeamento e na execução de obras de construção, remodelação ou conservação;\n\ng) Colaborar com a DGPJ na recolha, tratamento e divulgação dos dados estatísticos relativos aos registos e ao notariado, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da justiça;\n\nh) Tratar e disponibilizar os dados estatísticos e informativos constantes das várias bases de dados de que é titular;\n\ni) Coordenar a elaboração e a execução e proceder à avaliação da gestão orçamental, financeira e contabilística dos serviços dos registos e processar as remunerações e outros abonos dos funcionários em exercício de funções nos serviços de registo;\n\nj) Liquidar, cobrar e registar as receitas próprias;\n\nk) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em instrumentos contratuais que determinem, entre outros aspetos, os níveis de prestação e respetivas contrapartidas;\n\nl) Cooperar com entidades congéneres ou outras, nacionais ou estrangeiras, designadamente através da celebração de protocolos, acordos ou outros instrumentos jurídicos de colaboração na sua área de atuação, bem como assegurar a representação em organizações internacionais cuja atividade se desenvolva no âmbito da sua missão;\n\nm) Regulamentar, controlar e fiscalizar a atividade notarial e os atos notariais e exercer a ação disciplinar sobre os notários, nos termos previstos na lei.\n\nn) Colaborar com as autoridades competentes na definição e na execução das políticas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, bem como assegurar a disponibilização de informação sobre a identificação das pessoas singulares que detêm a propriedade e o controlo de pessoas coletivas e de centros de interesses coletivos sem personalidade jurídica, nos termos previstos na lei.\n\no) Assegurar a receção e confirmação dos elementos necessários para a renovação das autorizações de residências e proceder à entrega das mesmas, com exceção dos pedidos formulados na Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+  },
+  "213918801": {
+   "fragment_id": "108043697",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é composto por um presidente, por um vice-presidente e por um vogal.\n\n2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do IRN, I. P.:\n\na) Dirigir os serviços centrais e desconcentrados do IRN, I. P.;\n\nb) Autorizar o plano anual de formação;\n\nc) Propor alterações ao Regulamento Emolumentar dos Registos e do Notariado;\n\nd) Autorizar o regresso dos notários e oficiais do notariado, bem como decidir da sua afetação aos serviços de registo;\n\ne) Regular, controlar e fiscalizar a atividade notarial e exercer a ação disciplinar sobre os notários nos termos previstos na lei;\n\nf) Atuar em nome do IRN, I. P., junto de instituições nacionais ou internacionais, designadamente assegurando contactos institucionais, a respetiva representação em comissões, grupos de trabalho ou outras atividades de organismos internacionais em áreas relacionadas com as atribuições do Instituto;\n\ng) Decidir os processos de composição de nome, de recurso hierárquico de atos e processos especiais de registo e de admissibilidade de firma ou denominação, nos termos da lei;\n\nh) Distribuir ou redistribuir os pedidos efetuados num determinado serviço de registo a outros;\n\ni) Praticar atos de delegação de competências relativos à prática de atos e processos de identificação e de registo, bem como de concessão, emissão e cancelamento de passaportes;\n\nj) Emitir instruções gerais com carácter vinculativo para os serviços desconcentrados;\n\nk) Presidir ao Conselho do Notariado, quando para o efeito designado pelo membro do Governo responsável pela área da justiça.\n\n3 - Consideram-se delegadas no presidente do conselho diretivo do IRN, I. P., as competências previstas nas alíneas a), d), f) e j) do número anterior.\n\n4 - O conselho diretivo pode delegar, com a faculdade de subdelegação, em um ou mais dos seus membros e nos dirigentes dos serviços as competências que lhe estejam atribuídas.\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213918802": {
+   "fragment_id": "108043698",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho consultivo",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do IRN, I. P., e nas tomadas de decisão do conselho diretivo.\n\n2 - O conselho consultivo compreende as seguintes secções:\n\na) Identificação, documentação, registo civil e nacionalidade;\n\nb) Registo predial, comercial, de pessoas coletivas, de bens móveis e do beneficiário efetivo;\n\nc) (Revogada.)\n\n3 - O conselho consultivo é composto por:\n\na) Presidente do conselho diretivo do IRN, I. P., que preside;\n\nb) Conservadores dos registos, em número não inferior a três por secção.\n\n4 - Os membros do conselho consultivo são designados por despacho do membro do Governo que tutela o IRN, I. P.\n\n5 - Podem, ainda, ser convidados a participar nas reuniões do conselho consultivo, sem direito a voto, inspetores, conservadores ou especialistas de reconhecido mérito.\n\n6 - Compete ao conselho consultivo pronunciar-se sobre todos os assuntos que lhe forem submetidos pelo membro do Governo responsável pela área da justiça ou pelo conselho diretivo do IRN, I. P.\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "962969388": {
+   "fragment_id": "108043695",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2025-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 126/2025 - Diário da República n.º 234/2025, Série I de 2025-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2025-962603402), em vigor a partir de 2025-12-05",
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29",
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IRN, I. P., tem por missão executar e acompanhar as políticas relativas aos serviços de identificação e registo, tendo em vista assegurar a prestação de serviços aos cidadãos e às empresas no âmbito da identificação civil, da concessão e emissão de passaportes, da nacionalidade, dos registos civil, predial, comercial, de bens móveis, de pessoas coletivas e do beneficiário efetivo e da emissão de certificado sucessório europeu:\n\n2 - São atribuições do IRN, I. P.:\n\na) Apoiar a formulação e concretização das políticas relativas à nacionalidade, à identificação civil e aos registos civil, predial, comercial, de bens móveis e de pessoas coletivas, a execução e acompanhamento das medidas decorrentes e operacionalizar e executar projetos de modernização no sector dos registos, nas suas várias dimensões;\n\nb) Dirigir, coordenar, apoiar, avaliar e fiscalizar a atividade das conservatórias e proceder à uniformização de normas e técnicas relativas à atividade dos registos assegurando o respetivo cumprimento;\n\nc) Garantir a emissão, a substituição e o cancelamento do cartão de cidadão, bem como a emissão dos respetivos certificados;\n\nd) Garantir a concessão, a emissão, a substituição e o cancelamento do passaporte comum, especial, de estrangeiros e temporário, bem como gerir e manter as respetivas bases de dados;\n\ne) Participar na execução de estudos tendentes à reorganização e modernização dos serviços de registo e articular com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), o desenvolvimento, funcionamento e evolução dos respetivos sistemas de informação;\n\nf) Programar, em colaboração com a Direção-Geral da Política de Justiça (DGPJ) e o IGFEJ, I. P., as necessidades de instalações dos serviços dos registos e colaborar no planeamento e na execução de obras de construção, remodelação ou conservação;\n\ng) Colaborar com a DGPJ na recolha, tratamento e divulgação dos dados estatísticos relativos aos registos e ao notariado, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da justiça;\n\nh) Tratar e disponibilizar os dados estatísticos e informativos constantes das várias bases de dados de que é titular;\n\ni) Coordenar a elaboração e a execução e proceder à avaliação da gestão orçamental, financeira e contabilística dos serviços dos registos e processar as remunerações e outros abonos dos funcionários em exercício de funções nos serviços de registo;\n\nj) Liquidar, cobrar e registar as receitas próprias;\n\nk) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em instrumentos contratuais que determinem, entre outros aspetos, os níveis de prestação e respetivas contrapartidas;\n\nl) Cooperar com entidades congéneres ou outras, nacionais ou estrangeiras, designadamente através da celebração de protocolos, acordos ou outros instrumentos jurídicos de colaboração na sua área de atuação, bem como assegurar a representação em organizações internacionais cuja atividade se desenvolva no âmbito da sua missão;\n\nm) Regulamentar, controlar e fiscalizar a atividade notarial e os atos notariais e exercer a ação disciplinar sobre os notários, nos termos previstos na lei.\n\nn) Colaborar com as autoridades competentes na definição e na execução das políticas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, bem como assegurar a disponibilização de informação sobre a identificação das pessoas singulares que detêm a propriedade e o controlo de pessoas coletivas e de centros de interesses coletivos sem personalidade jurídica, nos termos previstos na lei.\n\no) (Revogada.)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 126/2025 - Diário da República n.º 234/2025, Série I de 2025-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2025-962603402), em vigor a partir de 2025-12-05\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+  }
+ }
+}

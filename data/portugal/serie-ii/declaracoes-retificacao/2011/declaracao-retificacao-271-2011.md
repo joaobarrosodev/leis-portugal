@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:3588713:por
+title: Declaração de Rectificação n.º 271/2011
+short_title: null
+summary: Rectifica o aviso n.º 1592/2011, publicado no Diário da República, 2.ª série, n.º 10, de 14 de Janeiro de 2011
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Viseu
+proposing_entity: null
+official_number: 271/2011
+official_date: null
+publication_date: '2011-02-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/2011, Série II de 2011-02-03
+  number: '24'
+  series: II
+  supplement: null
+  pages: 6625 - 6625
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/02/024000000/0662506625.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3588713'
+  dre_path: /dr/detalhe/declaracao-rectificacao/271-2011-3588713
+  internal: pt:dre:3588713:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/271-2011-3588713
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/271-2011-3588713
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-02-03T00:00:00Z'
+integrity:
+  source_sha256: ff0724017989b100b80c5f13ea05c160fa5f1508b45b64ad4a5e500bfeccfcd8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-271-3588713.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 271/2011
+
+Tendo-se verificado a existência de um lapso no aviso n.º 1592/2011, publicado no Diário da República, 2.ª série, n.º 10, de 14 de Janeiro de 2011, torna-se público que:
+
+No n.º 1, «Legislação aplicável», para além da legislação indicada, o presente procedimento rege-se também pela [Lei n.º 12-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), de 30 de Junho;
+
+No n.º 12.1, acerca da prova de conhecimentos, onde se lê:
+
+«Programa e Legislação:
+
+Quadro de Competências e Regime Jurídico de Funcionamento dos Órgãos dos Municípios e Freguesias - [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18/09, alterada e republicada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11/01;
+
+Regime de Contrato de Trabalho em Funções Públicas (RCTFP) - [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11/09;
+
+Estatuto Disciplinar dos Trabalhadores que exercem funções públicas - [Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 09/11;
+
+Regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas (LVCR) - [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27/02;
+
+Código do Procedimento Administrativo (CPA) - [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro;»
+
+deve ler-se:
+
+«Programa e legislação:
+
+Quadro de Competências e Regime Jurídico de Funcionamento dos Órgãos dos Municípios e Freguesias - [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada e republicada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro;
+
+Regime do Contrato de Trabalho em Funções Públicas (RCTFP) - [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro;
+
+Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas - [Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro;
+
+Regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas (LVCR) - [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro;
+
+Código do Procedimento Administrativo (CPA) - [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro;
+
+[Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de Setembro - aprova o Regime Geral da Gestão de Resíduos;
+
+Diário da República, 2.ª série, n.º 37, de 13 de Fevereiro de 2003 - Regulamento Municipal de Resíduos Sólidos, Higiene e Limpeza Pública;
+
+[Lei n.º 11/87](https://diariodarepublica.pt/dr/detalhe/lei/11-1987-666148), de 11 de Abril - Lei de Bases do Ambiente;
+
+[Decreto-Lei n.º 271/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2009-490956), de 1 de Outubro - regime jurídico da responsabilidade técnica pela direcção das actividades físicas e desportivas, desenvolvidas nas instalações desportivas;
+
+[Decreto-Lei n.º 100/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2003-540838), de 23 de Maio, alterado pelo [Decreto-Lei n.º 82/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2004-220753), de 14 de Abril, e [Portaria n.º 1049/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2004-480535), de 19 de Agosto - Regulamento das Condições Técnicas e de Segurança em Equipamentos Desportivos;
+
+[Decreto-Lei n.º 141/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2009-494551), de 16 de Junho - Regime Jurídico das Instalações Desportivas de Uso Público.»
+
+18 de Janeiro de 2011. - Por delegação do Presidente da Câmara, o Vereador, Hermínio Loureiro de Magalhães.

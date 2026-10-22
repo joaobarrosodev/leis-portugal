@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:230522:por
+title: Decreto-Lei n.º 63/95
+short_title: null
+summary: Altera o Decreto-Lei n.º 164/93, de 7 de Maio (estabelece o Programa de Construção de Habitações Económicas)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 63/95
+official_date: null
+publication_date: '1995-04-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/1995, Série I-A de 1995-04-07
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2037 - 2037
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/04/083a00/20372037.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/63/1995/04/07/p/dre/pt/html
+  oj: null
+  dre: '230522'
+  dre_path: /dr/detalhe/decreto-lei/63-1995-230522
+  internal: pt:dre:230522:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1995-230522
+  metadata_url: https://data.dre.pt/eli/dec-lei/63/1995/04/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1995-230522
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-04-07T00:00:00Z'
+integrity:
+  source_sha256: d23eb61b570d5651801afa100c7355485b625cf583de0dcbc9ee913d44817328
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-63-230522.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ÁREA Metropolitana
+- Construção Civil
+- Definição de Competências
+- Lisboa
+- Habitação Social
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Laboratório Nacional de Engenharia Civil
+- Certificado de Qualidade
+- Programa
+- Habitação
+- Autarquia Local
+- Porto
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/164/1993/05/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/164/1993/05/07/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 63/95
+
+de 7 de Abril
+
+No âmbito do Programa de Construção de Habitações Económicas, os empreendimentos construídos têm de ser certificados com a marca de qualidade LNEC, por forma a garantir que foram respeitadas todas as normas de boa construção e acautelar que o preço não seja formado pela degradação da qualidade.
+
+Nesta conformidade, a respectiva certificação tem como pressuposto assegurar o fiel cumprimento das exigências contratuais, legais e regulamentares que derivam do concurso e do programa e respectivas especificações técnicas definidas pela competente entidade licenciadora e adjudicante.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. O artigo 3.º do [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, passa a ter a seguinte redacção:
+
+###### Art. 3.º - 1 - Os empreendimentos desenvolvidos no âmbito do Programa devem ser certificados pelos respectivos promotores com a marca de qualidade LNEC, nos termos do [Decreto-Lei n.º 310/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1990-554609), de 1 de Outubro.
+
+2 - Para efeitos do disposto no número anterior, compete ao LNEC atestar:
+
+a) O cumprimento das disposições contratuais, legais e regulamentares aplicáveis à construção de edifícios, bem como a prática das boas regras de arte na execução dos trabalhos;
+
+b) A qualidade dos materiais e componentes aplicados na construção;
+
+c) A funcionalidade, durabilidade e segurança dos edifícios.
+
+3 - A certificação de qualidade dos edifícios também pode ser atestada por entidades de reconhecida idoneidade e competência técnica, a designar por despacho do membro do Governo responsável pela área da habitação, de entre as classificadas nos termos do artigo 8.º do [Decreto-Lei n.º 310/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1990-554609), de 1 de Outubro.
+
+Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1995. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
+
+**Promulgado em 9 de Março de 1995.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 13 de Março de 1995.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

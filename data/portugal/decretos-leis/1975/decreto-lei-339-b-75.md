@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:640363:por
+title: Decreto-Lei n.º 339-B/75
+short_title: null
+summary: Autoriza o governador do Banco de Portugal, em representação do Estado Português no Fundo Monetário Internacional,
+  a depositar neste o instrumento pelo qual se declare que o Estado Português assume todas as obrigações de participante na
+  Conta de Saque Especial
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretarias de Estado do Tesouro e das Finanças
+proposing_entity: null
+official_number: 339-B/75
+official_date: null
+publication_date: '1975-07-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 150/1975, 3º Suplemento, Série I de 1975-07-02
+  number: '150'
+  series: I
+  supplement: 3º Suplemento
+  pages: 920-(20) a 920-(22)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/07/15003/00200022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '640363'
+  dre_path: /dr/detalhe/decreto-lei/339-b-1975-640363
+  internal: pt:dre:640363:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-b-1975-640363
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-b-1975-640363
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-07-02T00:00:00Z'
+integrity:
+  source_sha256: 0f67f79a1dee3fe9f30b284f35eb1f20af6f55e3c6398f84114e46d74e34e704
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-339-B-640363.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 339-B/75
+
+de 2 de Julho
+
+Atentas as circunstâncias da conjuntura nacional e internacional, considera-se oportuna neste momento a participação de Portugal na Conta de Saque Especial criada no âmbito do Fundo Monetário Internacional, em conformidade com uma modificação do Acordo relativo ao Fundo vigente a partir de 5 de Maio de 1969.
+
+Nos termos dessas disposições, a participação na Conta de Saque Especial depende do depósito, por cada um dos membros que a pretender, de um instrumento em que declare assumir todas as obrigações inerentes à participação, em harmonia com a sua lei nacional, e bem assim haver tomado as providências necessárias para se habilitar a satisfazer todas essas obrigações. Só a partir da data do depósito é adquirida a qualidade de participante na Conta de Saque Especial, com os direitos e as obrigações correspondentes.
+
+Em conformidade com o previsto no [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, e ao abrigo do preceituado na secção 1 do artigo V do Acordo Relativo ao Fundo Monetário Internacional, foi já o Banco de Portugal incumbido de assegurar, por parte de Portugal, as respectivas relações com o Fundo e de prestar ao Estado outros serviços conexos com o desempenho daquela atribuição. Lógico é, pois, que se lhe cometa também a satisfação dos direitos e obrigações inerentes à participação na Conta de Saque Especial e a realização das actividades à mesma concernentes. Para tanto se lhe reconhece a faculdade de adquirir, deter e utilizar, em nome próprio, os direitos de saque especiais que ao Estado possam caber em virtude da sua participação na Conta.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo n.º 1 do artigo 3.º da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º É autorizado o governador do Banco de Portugal, em representação do Estado Português no Fundo Monetário Internacional, a depositar neste o instrumento previsto pela secção 1 do artigo XXIII do Acordo relativo àquele Fundo, pelo qual se declare que o Estado Português assume todas as obrigações de participante na Conta de Saque Especial, em harmonia com a sua lei, e tomou todas as providências necessárias para poder cumprir essas obrigações.
+
+###### Art. 2.º O Banco de Portugal assegurará, para além das especificadas no [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, as relações com o Fundo Monetário Internacional respeitantes à participação autorizada pelo artigo 1.º, adquirindo, detendo e utilizando os direitos de saque especiais atribuídos ao Estado Português ou que a este caiba ou seja facultado adquirir e realizando todas as operações e transacções que a dita participação importar, em harmonia com o regime estabelecido nos artigos XXI e seguintes do Acordo relativo àquele Fundo e nos respectivos anexos, complementos e regulamentos.
+
+###### Art. 3.º Aos direitos de saque especiais e às operações e transacções de que forem objecto é conferida a isenção prevista na alínea b) do artigo XXVII do Acordo Relativo ao Fundo Monetário Internacional, no respeitante a quaisquer contribuições, impostos ou imposições de natureza análoga que sobre eles pudessem, de outro modo, incidir, em consequência de disposições legais portuguesas.
+
+###### Art. 4.º É autorizado o Ministro das Finanças a celebrar um contrato com o Banco de Portugal nos termos das bases anexas ao presente diploma e que dele são parte integrante.
+
+###### Art. 5.º O presente decreto-lei entra imediatamente em vigor.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Mário Luís da Silva Murteira - José Joaquim Fragoso.
+
+**Promulgado em 1 de Julho de 1975.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+
+BASES DO CONTRATO ENTRE O ESTADO E O BANCO DE PORTUGAL
+
+BASE I
+
+O Banco de Portugal obriga-se, como banco central da República Portuguesa, a assegurar, para além das especificadas no [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, as relações com o Fundo Monetário Internacional decorrentes da participação do Estado Português na Conta de Saque Especial.
+
+BASE II
+
+No desempenho da atribuição conferida pela base anterior, fica competindo especialmente ao Banco de Portugal, nos termos estabelecidos no Acordo Relativo ao Fundo Monetário Internacional (seguidamente designado por «Acordo») e respectivos anexos, regulamentos e complementos:
+
+1.º Adquirir e deter os direitos de saque especiais atribuídos ao Estado Português ou que a este caiba ou seja facultado adquirir e utilizá-los em todos os tipos permitidos de operações e transacções;
+
+2.º Dar cumprimento às obrigações do Estado Português de fornecer moeda a troco de direitos de saque especiais e de reconstituir disponibilidade em tais direitos;
+
+3.º Receber os juros a cujo pagamento o Fundo Monetário Internacional esteja vinculado;
+
+4.º Pagar ao Fundo Monetário Internacional as comissões e contribuições a que este tenha direito;
+
+5.º Prestar ao Fundo Monetário Internacional todas as informações a que tenha direito e fazer-lhe as notificações exigidas pelo Acordo.
+
+BASE III
+
+1. No exercício da competência definida na base anterior, o Banco de Portugal actua em nome próprio, mas por conta e ordem do Estado.
+
+2. São de conta do Banco de Portugal as comissões que tiverem de ser pagas ao Fundo Monetário Internacional sobre o montante das atribuições cumulativas líquidas de direitos de saque especiais e pelos restantes motivos previstos no artigo XXVI, secção 2, do Acordo, bem como as contribuições destinadas a cobrir os encargos administrativos da Conta de Saque Especial, nos termos do artigo XXVI, secção 4, do Acordo.
+
+3. O Banco de Portugal beneficia dos juros pagos pelo Fundo Monetário Internacional em virtude da detenção de direitos de saque especiais, nos termos do artigo XXVI, secção 1, do Acordo.
+
+BASE IV
+
+1. O Banco de Portugal creditará o Estado, em conta especialmente criada para esse fim, pelo valor dos direitos de saque especiais que vier a receber em consequência de atribuições ao abrigo do artigo XXIV do Acordo e debitá-lo-á, na mesma conta, pelo valor dos cancelamentos de tais direitos, também previstos naquele artigo.
+
+2. A conta mencionada no número anterior só poderá ser movimentada em virtude das atribuições e cancelamentos nele referidos e dos lançamentos a efectuar por força da cessação da participação na Conta de Saque Especial ou da sua liquidação.
+
+BASE V
+
+A votação do governador em representação do Estado Português relativamente à atribuição de direitos de saque especiais e a notificação ao Fundo de que não se deseja tal atribuição, nos termos do artigo XXIV, secção 2, do Acordo, dependem de prévia autorização do Ministro das Finanças, sob proposta do conselho de administração do Banco de Portugal.
+
+BASE VI
+
+1. Para efeito da cobertura e eventualmente da reserva de emissão do Banco de Portugal, apenas serão considerados os haveres em direitos de saque especiais em excesso da atribuição cumulativa líquida desses direitos.
+
+2. À soma dos valores considerados para efeito da cobertura e eventualmente da reserva de emissão será deduzida a parte em que a atribuição cumulativa líquida de direitos de saque especiais exceda os haveres nesses direitos.
+
+BASE VII
+
+1. Em caso de cessação da participação do Estado Português na Conta de Saque Especial ou de liquidação desta, o Banco de Portugal deverá comunicar, no prazo de trinta dias, ao Ministro das Finanças, qual o saldo existente entre haveres e atribuições de direitos de saque especiais.
+
+2. Têm como efeito a imputação ao Estado do crédito ou do débito em relação ao Fundo Monetário Internacional, traduzidos pelos saldos mencionados no número anterior, a recepção da comunicação ali referida, quando se trate da liquidação da Conta de Saque Especial, e, em caso de cessação da participação, a assinatura, entre o Fundo e o Banco, de acordo relativo ao apuramento de contas, ou o decurso do prazo de seis meses sobre a cessação sem que tal acordo se realize.
+
+3. Nas hipóteses do número anterior, o Banco de Portugal terá, sobre ou a favor do Estado, um crédito ou um débito de montante igual ao deste perante o Fundo Monetário Internacional, os quais serão liquidados com a periodicidade prevista para a regularização das obrigações do ou para com o Fundo, no Acordo e seus anexos H e I, ou no acordo relativo ao apuramento de contas, não dependendo, porém, a obrigação do pagamento pelo Estado ao Banco de boa cobrança por aquele dos seus créditos sobre o Fundo.
+
+4. Pertencem ao Estado os juros pela detenção de direitos de saque especiais contados depois da imputação prevista no n.º 2, incidindo também sobre ele as comissões e contribuições respeitantes a factos posteriores àquele momento.
+
+**O Ministro das Finanças, José Joaquim Fragoso.**

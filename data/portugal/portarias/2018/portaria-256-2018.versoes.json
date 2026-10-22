@@ -1,0 +1,397 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:116357694:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-116357749",
+ "dre_path": "/dr/detalhe/portaria/256-2018-116357694",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "901966249",
+    "116355959",
+    "116355960",
+    "116355961",
+    "116355962",
+    "116355964",
+    "116355965",
+    "116355966",
+    "116355967",
+    "116355968",
+    "116355969",
+    "116355970",
+    "116355971",
+    "116355972",
+    "116355973"
+   ]
+  },
+  {
+   "date": "2023-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224139048:por",
+     "title": "Portaria n.º 348/2023",
+     "published": "2023-11-13",
+     "dre_path": "/dr/detalhe/portaria/348-2023-224139048"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "116355958",
+    "116355959",
+    "116355960",
+    "116355961",
+    "116355962",
+    "116355963",
+    "116355964",
+    "224201735",
+    "116355966",
+    "116355967",
+    "116355968",
+    "116355969",
+    "116355970",
+    "116355971",
+    "116355972",
+    "116355973"
+   ]
+  },
+  {
+   "date": "2025-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901867011:por",
+     "title": "Portaria n.º 3-A/2025/1",
+     "published": "2025-01-02",
+     "dre_path": "/dr/detalhe/portaria/3-a-2025-901867011"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "901966249",
+    "901966250",
+    "901966251",
+    "901966252",
+    "901966253",
+    "901966254",
+    "901966255",
+    "901966256",
+    "901966257",
+    "901966258",
+    "901966259",
+    "901966260",
+    "901966261",
+    "901966262",
+    "901966263",
+    "901966264"
+   ]
+  }
+ ],
+ "fragments": {
+  "901966249": {
+   "fragment_id": "116357750",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-01-03",
+   "changed_by": [],
+   "markdown": "Portaria n.º 256/2018\n\nde 10 de setembro\n\nA Entidade de Serviços Partilhados da Administração Pública, I. P., é um instituto público de regime especial, criado pelo Decreto-Lei n.º 117-A/2012, de 14 de junho, equiparado a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços partilhados, compras públicas, gestão do parque de veículos do Estado (PVE) e às respetivas atividades de suporte e, em geral, à promoção da utilização de recursos comuns na Administração Pública.\n\nImporta assim, no desenvolvimento daquele decreto-lei, e na sequência do Despacho n.º 3245/2018, de 29 de março, retificado pela declaração de retificação n.º 251/2018, de 5 de abril, redefinir a sua organização interna, bem como preconizar alguns princípios relativos à sua atuação, atenta as especiais condições relativas à sua natureza.\n\nA presente proposta de alteração do modelo de governação da ESPAP, I. P., visa a simplificação da estrutura procurando torná-la mais integrada, ágil e concentrada nos objetivos estratégicos definidos, na prossecução da sua missão, para poder contribuir para a modernização da administração pública e para a racionalização da despesa pública.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação vigente, manda o Governo, pelo Ministro das Finanças, o seguinte:"
+  },
+  "116355959": {
+   "fragment_id": "116357751",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - São aprovados, em anexo à presente portaria e da qual fazem parte integrante, os Estatutos da Entidade de Serviços Partilhados da Administração Pública, I. P., abreviadamente designada por ESPAP, I. P.\n\n2 - Atendendo à especial condição de equiparação da ESPAP, I. P., a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços partilhados, compras públicas, gestão do parque de veículos do Estado (PVE) e às respetivas atividades de suporte e, em geral, à promoção da utilização de recursos comuns na Administração Pública, nos termos da alínea d) do n.º 3 do artigo 48.º da Lei Quadro dos Institutos Públicos, pela presente portaria delineiam-se, ainda, princípios de atuação."
+  },
+  "116355960": {
+   "fragment_id": "116357752",
+   "type": 11,
+   "heading": "Artigo 2.º — Remuneração dos cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Remuneração dos cargos dirigentes\n\n1 - A definição da remuneração dos cargos dirigentes da ESPAP, I. P., está sujeita aos seguintes limites máximos:\n\na) Para o cargo de diretor, até 75 % da remuneração total do vogal do conselho diretivo da ESPAP, I. P.;\n\nb) Para o cargo de coordenador, até 65 % da remuneração total do vogal do conselho diretivo da ESPAP, I. P.\n\n2 - Os limites definidos no número anterior englobam todas as componentes remuneratórias."
+  },
+  "116355961": {
+   "fragment_id": "116357753",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 275/2012, de 10 de setembro."
+  },
+  "116355962": {
+   "fragment_id": "116357754",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "116355964": {
+   "fragment_id": "116357756",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DA ENTIDADE DE SERVIÇOS PARTILHADOS DA ADMINISTRAÇÃO PÚBLICA, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTOS DA ENTIDADE DE SERVIÇOS PARTILHADOS DA ADMINISTRAÇÃO PÚBLICA, I. P."
+  },
+  "116355965": {
+   "fragment_id": "116357757",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna dos serviços da ESPAP, I. P., é estruturada de acordo com as seguintes funções:\n\na) Funções corporativas;\n\nb) Funções de negócio.\n\n2 - No âmbito de cada função são criadas as seguintes unidades orgânicas, que se subordinam hierárquica e funcionalmente ao conselho diretivo:\n\na) Funções corporativas:\n\ni) Direção de Planeamento Estratégico e Controlo de Gestão;\n\nii) Direção Jurídica e de Administração Geral;\n\nb) Funções de negócio:\n\ni) A Direção de Serviços Partilhados de Compras Públicas;\n\nii) A Direção de Serviços Partilhados de Finanças;\n\niii) A Direção de Serviços Partilhados de Recursos Humanos;\n\niv) A Direção de Sistemas de Informação;\n\nv) A Direção de Infraestruturas de Tecnologias de Informação e Comunicação.\n\n3 - Por deliberação do conselho diretivo, a publicar no Diário da República, podem ainda ser criados núcleos, sendo as suas competências definidas naquela deliberação.\n\n4 - O número total de núcleos não pode, em cada momento, exceder o limite máximo de 18."
+  },
+  "116355966": {
+   "fragment_id": "116357758",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes\n\n1 - As direções são dirigidas por diretores.\n\n2 - Os núcleos são dirigidos por coordenadores."
+  },
+  "116355967": {
+   "fragment_id": "116357759",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Planeamento Estratégico e Controlo de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direção de Planeamento Estratégico e Controlo de Gestão\n\n1 - Compete à Direção de Planeamento Estratégico e Controlo de Gestão, abreviadamente designada por DPG, apoiar o conselho diretivo no planeamento estratégico e controlo da sua execução, assegurar o alinhamento da organização aos objetivos definidos e monitorizar o desempenho organizacional, bem como coordenar a implementação de programas estratégicos e ou transversais, nos termos a definir no regulamento interno.\n\n2 - Compete ainda à DPG, assegurar em articulação com as unidades de negócio, o desenvolvimento e implementação de programas de inovação, qualidade e melhoria contínua, bem como a coordenação e suporte metodológico à gestão de projetos, nos termos a definir no regulamento interno."
+  },
+  "116355968": {
+   "fragment_id": "116357760",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção Jurídica e de Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direção Jurídica e de Administração Geral\n\n1 - Compete à Direção Jurídica e de Administração Geral, abreviadamente designada por DJA, assegurar apoio administrativo ao conselho diretivo, bem como assegurar as atividades transversais de apoio administrativo geral, a gestão financeira, patrimonial, de recursos humanos, recursos logísticos e de aprovisionamento necessários ao funcionamento da organização, nos termos a definir no regulamento interno.\n\n2 - Compete ainda à DJA, prestar apoio jurídico ao conselho diretivo e a todas as unidades orgânicas, instruir e acompanhar os procedimentos de contratação pública e intervir nos processos judiciais em que a ESPAP, I. P., seja parte, nos termos a definir no regulamento interno."
+  },
+  "116355969": {
+   "fragment_id": "116357761",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços Partilhados de Compras Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direção de Serviços Partilhados de Compras Públicas\n\n1 - Compete à Direção de Serviços Partilhados de Compras Públicas, abreviadamente designada por DCP, desenvolver, gerir e operar o ciclo de vida dos serviços de compras públicas, mediante disponibilização de instrumentos de suporte e execução de atividades de apoio técnico ou administrativo, nos termos a definir no regulamento interno.\n\n2 - Compete ainda à DCP, desenvolver, gerir e operar o ciclo de vida dos serviços de logística e de gestão do parque de veículos do Estado, mediante disponibilização de instrumentos de suporte e execução de atividades de apoio técnico ou administrativo, nos termos a definir no regulamento interno."
+  },
+  "116355970": {
+   "fragment_id": "116357762",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços Partilhados de Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção de Serviços Partilhados de Finanças\n\nCompete à Direção de Serviços Partilhados de Finanças, abreviadamente designada por DSPF, desenvolver, gerir e operar o ciclo de vida dos serviços partilhados no âmbito da gestão orçamental, financeira e contabilística, mediante disponibilização de instrumentos de suporte e execução de atividades de apoio técnico ou administrativo, nos termos a definir no regulamento interno."
+  },
+  "116355971": {
+   "fragment_id": "116357763",
+   "type": 11,
+   "heading": "Artigo 7.º — Direção de Serviços Partilhados de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direção de Serviços Partilhados de Recursos Humanos\n\nCompete à Direção de Serviços Partilhados de Recursos Humanos, abreviadamente designada por DSPRH, desenvolver, gerir e operar o ciclo de vida dos serviços partilhados no âmbito da gestão de recursos humanos, mediante disponibilização de instrumentos de suporte e execução de atividades de apoio técnico ou administrativo, nos termos a definir no regulamento interno."
+  },
+  "116355972": {
+   "fragment_id": "116357764",
+   "type": 11,
+   "heading": "Artigo 8.º — Direção de Sistemas de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direção de Sistemas de Informação\n\nCompete à Direção de Sistemas de Informação, abreviadamente designada por DSI, a prestação de serviços partilhados de desenvolvimento e manutenção de sistemas de informação para o Ministério das Finanças, bem como os de utilização comum pela Administração Pública que lhe sejam cometidos, nos termos a definir no regulamento interno."
+  },
+  "116355973": {
+   "fragment_id": "116357765",
+   "type": 11,
+   "heading": "Artigo 9.º — Direção de Infraestruturas de Tecnologias de Informação e Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direção de Infraestruturas de Tecnologias de Informação e Comunicação\n\nCompete à Direção de Infraestruturas de Tecnologias de Informação e Comunicação, abreviadamente designada por DITIC, a prestação de serviços partilhados de infraestruturas das tecnologias de informação e comunicação para o Ministério das Finanças, bem como os de utilização comum pela Administração Pública que lhe sejam cometidos, nos termos a definir no regulamento interno."
+  },
+  "116355958": {
+   "fragment_id": "116357750",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 256/2018\n\nde 10 de setembro\n\nA Entidade de Serviços Partilhados da Administração Pública, I. P., é um instituto público de regime especial, criado pelo Decreto-Lei n.º 117-A/2012, de 14 de junho, equiparado a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços partilhados, compras públicas, gestão do parque de veículos do Estado (PVE) e às respetivas atividades de suporte e, em geral, à promoção da utilização de recursos comuns na Administração Pública.\n\nImporta assim, no desenvolvimento daquele decreto-lei, e na sequência do Despacho n.º 3245/2018, de 29 de março, retificado pela declaração de retificação n.º 251/2018, de 5 de abril, redefinir a sua organização interna, bem como preconizar alguns princípios relativos à sua atuação, atenta as especiais condições relativas à sua natureza.\n\nA presente proposta de alteração do modelo de governação da ESPAP, I. P., visa a simplificação da estrutura procurando torná-la mais integrada, ágil e concentrada nos objetivos estratégicos definidos, na prossecução da sua missão, para poder contribuir para a modernização da administração pública e para a racionalização da despesa pública.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação vigente, manda o Governo, pelo Ministro das Finanças, o seguinte:"
+  },
+  "116355963": {
+   "fragment_id": "116357755",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 24 de agosto de 2018.\n\n111613491"
+  },
+  "224201735": {
+   "fragment_id": "116357757",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/348-2023-224139048), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna dos serviços da ESPAP, I. P., é estruturada de acordo com as seguintes funções:\n\na) Funções corporativas;\n\nb) Funções de negócio.\n\n2 - No âmbito de cada função são criadas as seguintes unidades orgânicas, que se subordinam hierárquica e funcionalmente ao conselho diretivo:\n\na) Funções corporativas:\n\ni) Direção de Planeamento Estratégico e Controlo de Gestão;\n\nii) Direção Jurídica e de Administração Geral;\n\nb) Funções de negócio:\n\ni) A Direção de Serviços Partilhados de Compras Públicas;\n\nii) A Direção de Serviços Partilhados de Finanças;\n\niii) A Direção de Serviços Partilhados de Recursos Humanos;\n\niv) A Direção de Sistemas de Informação;\n\nv) A Direção de Infraestruturas de Tecnologias de Informação e Comunicação.\n\n3 - Por deliberação do conselho diretivo, a publicar no Diário da República, podem ainda ser criados núcleos, sendo as suas competências definidas naquela deliberação.\n\n4 - O número total de núcleos não pode, em cada momento, exceder o limite máximo de 18.\n\n5 - O limite máximo previsto no número anterior ascende a 19, para efeitos do disposto na Resolução do Conselho de Ministros n.º 13/2023, de 10 de fevereiro, e durante a respetiva vigência.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/348-2023-224139048), em vigor a partir de 2023-11-14"
+  },
+  "901966250": {
+   "fragment_id": "116357751",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - São aprovados, em anexo à presente portaria e da qual fazem parte integrante, os Estatutos da Entidade de Serviços Partilhados da Administração Pública, I. P., abreviadamente designada por ESPAP, I. P.\n\n2 - Atendendo à especial condição de equiparação da ESPAP, I. P., a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços partilhados, compras públicas, gestão do parque de veículos do Estado (PVE) e às respetivas atividades de suporte e, em geral, à promoção da utilização de recursos comuns na Administração Pública, nos termos da alínea d) do n.º 3 do artigo 48.º da Lei Quadro dos Institutos Públicos, pela presente portaria delineiam-se, ainda, princípios de atuação.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966251": {
+   "fragment_id": "116357752",
+   "type": 11,
+   "heading": "Artigo 2.º — Remuneração dos cargos dirigentes",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Remuneração dos cargos dirigentes\n\n1 - A definição da remuneração dos cargos dirigentes da ESPAP, I. P., está sujeita aos seguintes limites máximos:\n\na) Para o cargo de diretor, até 75 % da remuneração total do vogal do conselho diretivo da ESPAP, I. P.;\n\nb) Para o cargo de coordenador, até 65 % da remuneração total do vogal do conselho diretivo da ESPAP, I. P.\n\n2 - Os limites definidos no número anterior englobam todas as componentes remuneratórias.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966252": {
+   "fragment_id": "116357753",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 275/2012, de 10 de setembro.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966253": {
+   "fragment_id": "116357754",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966254": {
+   "fragment_id": "116357755",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 24 de agosto de 2018.\n\n111613491\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966255": {
+   "fragment_id": "116357756",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DA ENTIDADE DE SERVIÇOS PARTILHADOS DA ADMINISTRAÇÃO PÚBLICA, I. P.",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo — ESTATUTOS DA ENTIDADE DE SERVIÇOS PARTILHADOS DA ADMINISTRAÇÃO PÚBLICA, I. P.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966256": {
+   "fragment_id": "116357757",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/348-2023-224139048), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna dos serviços da ESPAP, I. P., é estruturada de acordo com as seguintes funções:\n\na) Funções corporativas;\n\nb) Funções de negócio.\n\n2 - No âmbito de cada função são criadas as seguintes unidades orgânicas, que se subordinam hierárquica e funcionalmente ao conselho diretivo:\n\na) Funções corporativas:\n\ni) Direção de Planeamento Estratégico e Controlo de Gestão;\n\nii) Direção Jurídica e de Administração Geral;\n\nb) Funções de negócio:\n\ni) A Direção de Serviços Partilhados de Compras Públicas;\n\nii) A Direção de Serviços Partilhados de Finanças;\n\niii) A Direção de Serviços Partilhados de Recursos Humanos;\n\niv) A Direção de Sistemas de Informação;\n\nv) A Direção de Infraestruturas de Tecnologias de Informação e Comunicação.\n\n3 - Por deliberação do conselho diretivo, a publicar no Diário da República, podem ainda ser criados núcleos, sendo as suas competências definidas naquela deliberação.\n\n4 - O número total de núcleos não pode, em cada momento, exceder o limite máximo de 18.\n\n5 - O limite máximo previsto no número anterior ascende a 19, para efeitos do disposto na Resolução do Conselho de Ministros n.º 13/2023, de 10 de fevereiro, e durante a respetiva vigência.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/348-2023-224139048), em vigor a partir de 2023-11-14"
+  },
+  "901966257": {
+   "fragment_id": "116357758",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes\n\n1 - As direções são dirigidas por diretores.\n\n2 - Os núcleos são dirigidos por coordenadores.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966258": {
+   "fragment_id": "116357759",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Planeamento Estratégico e Controlo de Gestão",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Direção de Planeamento Estratégico e Controlo de Gestão\n\n1 - Compete à Direção de Planeamento Estratégico e Controlo de Gestão, abreviadamente designada por DPG, apoiar o conselho diretivo no planeamento estratégico e controlo da sua execução, assegurar o alinhamento da organização aos objetivos definidos e monitorizar o desempenho organizacional, bem como coordenar a implementação de programas estratégicos e ou transversais, nos termos a definir no regulamento interno.\n\n2 - Compete ainda à DPG, assegurar em articulação com as unidades de negócio, o desenvolvimento e implementação de programas de inovação, qualidade e melhoria contínua, bem como a coordenação e suporte metodológico à gestão de projetos, nos termos a definir no regulamento interno.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966259": {
+   "fragment_id": "116357760",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção Jurídica e de Administração Geral",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Direção Jurídica e de Administração Geral\n\n1 - Compete à Direção Jurídica e de Administração Geral, abreviadamente designada por DJA, assegurar apoio administrativo ao conselho diretivo, bem como assegurar as atividades transversais de apoio administrativo geral, a gestão financeira, patrimonial, de recursos humanos, recursos logísticos e de aprovisionamento necessários ao funcionamento da organização, nos termos a definir no regulamento interno.\n\n2 - Compete ainda à DJA, prestar apoio jurídico ao conselho diretivo e a todas as unidades orgânicas, instruir e acompanhar os procedimentos de contratação pública e intervir nos processos judiciais em que a ESPAP, I. P., seja parte, nos termos a definir no regulamento interno.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966260": {
+   "fragment_id": "116357761",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços Partilhados de Compras Públicas",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Direção de Serviços Partilhados de Compras Públicas\n\n1 - Compete à Direção de Serviços Partilhados de Compras Públicas, abreviadamente designada por DCP, desenvolver, gerir e operar o ciclo de vida dos serviços de compras públicas, mediante disponibilização de instrumentos de suporte e execução de atividades de apoio técnico ou administrativo, nos termos a definir no regulamento interno.\n\n2 - Compete ainda à DCP, desenvolver, gerir e operar o ciclo de vida dos serviços de logística e de gestão do parque de veículos do Estado, mediante disponibilização de instrumentos de suporte e execução de atividades de apoio técnico ou administrativo, nos termos a definir no regulamento interno.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966261": {
+   "fragment_id": "116357762",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços Partilhados de Finanças",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Direção de Serviços Partilhados de Finanças\n\nCompete à Direção de Serviços Partilhados de Finanças, abreviadamente designada por DSPF, desenvolver, gerir e operar o ciclo de vida dos serviços partilhados no âmbito da gestão orçamental, financeira e contabilística, mediante disponibilização de instrumentos de suporte e execução de atividades de apoio técnico ou administrativo, nos termos a definir no regulamento interno.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966262": {
+   "fragment_id": "116357763",
+   "type": 11,
+   "heading": "Artigo 7.º — Direção de Serviços Partilhados de Recursos Humanos",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Direção de Serviços Partilhados de Recursos Humanos\n\nCompete à Direção de Serviços Partilhados de Recursos Humanos, abreviadamente designada por DSPRH, desenvolver, gerir e operar o ciclo de vida dos serviços partilhados no âmbito da gestão de recursos humanos, mediante disponibilização de instrumentos de suporte e execução de atividades de apoio técnico ou administrativo, nos termos a definir no regulamento interno.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966263": {
+   "fragment_id": "116357764",
+   "type": 11,
+   "heading": "Artigo 8.º — Direção de Sistemas de Informação",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Direção de Sistemas de Informação\n\nCompete à Direção de Sistemas de Informação, abreviadamente designada por DSI, a prestação de serviços partilhados de desenvolvimento e manutenção de sistemas de informação para o Ministério das Finanças, bem como os de utilização comum pela Administração Pública que lhe sejam cometidos, nos termos a definir no regulamento interno.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  },
+  "901966264": {
+   "fragment_id": "116357765",
+   "type": 11,
+   "heading": "Artigo 9.º — Direção de Infraestruturas de Tecnologias de Informação e Comunicação",
+   "in_force_from": "2025-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Direção de Infraestruturas de Tecnologias de Informação e Comunicação\n\nCompete à Direção de Infraestruturas de Tecnologias de Informação e Comunicação, abreviadamente designada por DITIC, a prestação de serviços partilhados de infraestruturas das tecnologias de informação e comunicação para o Ministério das Finanças, bem como os de utilização comum pela Administração Pública que lhe sejam cometidos, nos termos a definir no regulamento interno.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 3-A/2025/1 - Diário da República n.º 1/2025, Suplemento, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2025-901867011), em vigor a partir de 2025-01-03, produz efeitos a partir de 2025-01-01"
+  }
+ }
+}

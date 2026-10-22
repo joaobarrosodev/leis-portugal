@@ -1,0 +1,383 @@
+---
+schema_version: '1.0'
+id: pt:dre:66463206:por
+title: Decreto-Lei n.º 29/2015
+short_title: null
+summary: Institui o Conselho Florestal Nacional e regula a sua natureza, as suas competências, a sua composição e o seu funcionamento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura e do Mar
+proposing_entity: null
+official_number: 29/2015
+official_date: null
+publication_date: '2015-02-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/2015, Série I de 2015-02-10
+  number: '28'
+  series: I
+  supplement: null
+  pages: 796 - 799
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02800/0079600799.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/29/2015/02/10/p/dre/pt/html
+  oj: null
+  dre: '66463206'
+  dre_path: /dr/detalhe/decreto-lei/29-2015-66463206
+  internal: pt:dre:66463206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2015-66463206
+  metadata_url: https://data.dre.pt/eli/dec-lei/29/2015/02/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2015-66463206
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-01-21T00:00:00Z'
+integrity:
+  source_sha256: c531192829959a2beb839cfc3a5fceec919fe01951d2e55f4d91e3103bf28614
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2015/DRE-2015-29-66463206.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reestruturação de Serviços
+- Conselho das Organizações Interprofissionais Florestais
+- Conselho Florestal Nacional
+- Criação de Serviços
+- Definição de Competências
+- Extinção de Serviços
+- Instituto da Conservação da Natureza e das Florestas
+- Conselho Consultivo para a Fitossanidade Florestal
+- Ordenamento Florestal
+- Proteção do Ambiente
+- Piscicultura
+- Exploração Florestal
+- Proteção Fitossanitária
+- Política Florestal
+relationships:
+- type: amended_by
+  target: pt:dre:118051705:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/124/2006/06/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/124/2006/06/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/135/2012/06/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/135/2012/06/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/15/20
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/20
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/159/2008/08/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2008/08/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/95/2011/08/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/95/2011/08/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/158/1999/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/158/1999/09/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/118-a/2009/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/118-a/2009/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/230-b/2009/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/230-b/2009/02/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/553-b/2008/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/553-b/2008/06/27/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 29/2015
+
+de 10 de fevereiro
+
+O Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), é o instituto público integrado na administração indireta do Estado que se encontra investido nas funções de autoridade nacional da conservação da natureza e da biodiversidade e de autoridade florestal nacional, tendo por missão acompanhar e assegurar a execução das políticas de conservação da natureza e das florestas, visando a conservação, a utilização sustentável, a valorização, a fruição e o reconhecimento público do património natural, promovendo o desenvolvimento sustentável dos espaços florestais e dos recursos associados, bem como fomentar a competitividade das fileiras florestais e assegurar a prevenção estrutural no quadro do planeamento e da atuação concertados no domínio da defesa da floresta e dos recursos cinegéticos e aquícolas e outros diretamente associados às atividades silvícolas.
+
+Nos termos da orgânica do ICNF, I. P., aprovada pelo [Decreto-Lei n.º 135/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2012-178537), de 29 de junho, o Conselho Florestal Nacional (CFN) funciona junto do referido organismo e rege-se por legislação própria.
+
+A experiência colhida ao longo dos anos, inicialmente com o Conselho Consultivo Florestal, criado pela [Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/lei/33-1996-406293), de 17 de agosto (Lei de Bases da Política Florestal), e posteriormente com o Conselho das Organizações Interprofissionais Florestais, criado pela [Lei n.º 158/99](https://diariodarepublica.pt/dr/detalhe/lei/158-1999-570565), de 14 de setembro (que estabelece as bases do interprofissionalismo florestal), com o Conselho Consultivo para a Fitossanidade Florestal, criado pela [Portaria n.º 553-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/553-b-2008-456870), de 27 de junho, e com o homólogo Conselho Florestal Nacional, criado pelo [Decreto-Lei n.º 159/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127), de 8 de agosto, no âmbito da então Autoridade Florestal Nacional, revelou a importância do seu funcionamento como sede de envolvimento dos diferentes agentes, serviços e organismos da administração pública, das estruturas de produtores da indústria e de outros agentes do sector, nomeadamente em matéria de defesa da floresta, de prevenção de incêndios, bem como da caça e da pesca nas águas interiores, pelo que importa continuar a assegurar a sua dinâmica enquanto instrumento auxiliar na definição das políticas e estratégias nacionais para a floresta e dos recursos associados da caça e da pesca nas águas interiores e da legislação estruturante do sector.
+
+O presente decreto-lei vem, assim, instituir o CFN como órgão de consulta na área das florestas, que passa a congregar todas as entidades públicas e privadas que interagem no setor florestal nas diferentes áreas de atribuição ou de representação desses interesses, incluindo as representativas das atividades, dos recursos e dos produtos associados à floresta e aos espaços florestais, mais alocando as competências que antes estiveram cometidas aos diferentes órgãos congéneres ora enunciados.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei institui o Conselho Florestal Nacional (CFN), previsto no n.º 3 do artigo 3.º do [Decreto-Lei n.º 135/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2012-178537), de 29 de junho, e regula a sua natureza, as suas competências, a sua composição e o seu funcionamento.
+
+###### Artigo 2.º — Natureza
+
+O CFN é um órgão de consulta na área das florestas, que funciona junto do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), e ao qual compete pronunciar-se sobre a definição da política florestal nacional nos termos do artigo seguinte.
+
+###### Artigo 3.º — Competência
+
+1 - Compete ao CFN pronunciar-se sobre:
+
+a) A definição da política florestal nacional, das suas medidas e dos principais instrumentos de execução;
+
+b) A estruturação e o funcionamento do Sistema de Defesa da Floresta contra Incêndios (SDFCI);
+
+c) A definição de estratégias de prevenção e de controlo fitossanitário florestal, bem como sobre a execução de programas de controlo de agentes bióticos nocivos às espécies florestais;
+
+d) As medidas de desenvolvimento dos princípios gerais de ordenamento e gestão dos recursos cinegéticos e piscícolas das águas interiores;
+
+e) A dinamização dos mercados e a valorização dos produtos florestais;
+
+f) O reconhecimento das organizações interprofissionais florestais e a sua revogação;
+
+g) Quaisquer outras matérias previstas em lei especial ou para as quais o membro do Governo responsável pela área das florestas entenda ouvi-lo.
+
+2 - Compete ainda ao CFN aprovar o seu regulamento interno.
+
+###### Artigo 4.º — Composição
+
+1 - O CFN é composto:
+
+a) Pelo membro do Governo responsável pela área das florestas, que preside;
+
+b) Pelo presidente do conselho diretivo do ICNF, I. P.;
+
+c) Pelo comandante-geral da Guarda Nacional Republicana;
+
+d) Pelo diretor nacional da Polícia de Segurança Pública;
+
+e) Pelo presidente da Autoridade Nacional de Proteção Civil;
+
+f) Pelo diretor nacional da Polícia Judiciária;
+
+g) Pelo diretor-geral das Atividades Económicas (DGAE);
+
+h) Pelo presidente da Agência Portuguesa do Ambiente, I. P.;
+
+i) Por um representante do Chefe do Estado-Maior-General das Forças Armadas;
+
+j) Por um representante da Associação Nacional de Municípios Portugueses;
+
+k) Por um representante da Confederação do Comércio e Serviços de Portugal (CCP);
+
+l) Por um representante da Confederação do Turismo Português (CTP);
+
+m) Por um representante da Confederação dos Agricultores de Portugal (CAP);
+
+n) Por um representante da Confederação Empresarial de Portugal (CIP);
+
+o) Por um representante da Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional (CGTP-IN);
+
+p) Por um representante da Confederação Nacional da Agricultura (CNA);
+
+q) Por um representante da Confederação Nacional das Cooperativas Agrícolas e Crédito Agrícola (CONFAGRI);
+
+r) Por um representante da União Geral de Trabalhadores (UGT);
+
+s) Por um representante da Federação Nacional das Associações dos Proprietários Florestais (FNAPF);
+
+t) Por um representante da Fórum Florestal;
+
+u) Por um representante da União da Floresta Mediterrânica (UNAC);
+
+v) Por um representante da Federação Nacional de Baldios (BALADI);
+
+w) Por um representante da Associação Florestal de Portugal (FORESTIS);
+
+x) Por um representante da Federação Nacional das Cooperativas de Produtos Florestais, FCRL (FENAFLORESTA);
+
+y) Por um representante da Associação da Indústria Papeleira (CELPA);
+
+z) Por um representante da Associação das Indústrias de Madeira e Mobiliário de Portugal (AIMMP);
+
+aa) Por um representante da APCOR - Associação Portuguesa de Cortiça;
+
+ab) Por um representante da APECATE - Associação Portuguesa de Empresas de Congressos, Animação Turística e Eventos;
+
+ac) Por um representante da Associação para a Competitividade da Indústria da Fileira Florestal (AIFF);
+
+ad) Por um representante de Resipinus - Associação de Destiladores e Exploradores de Resina;
+
+ae) Por um representante da ANPEB - Associação Nacional de Pellets Energéticas de Biomassa;
+
+af) Por um representante da APEB - Associação dos Produtores de Energia e Biomassa;
+
+ag) Por um representante de cada organização interprofissional florestal reconhecida;
+
+ah) Por um representante do BCSD Portugal - Conselho Empresarial para o Desenvolvimento Sustentável;
+
+ai) Por um representante da Associação Nacional de Empresas Florestais, Agrícolas e de Ambiente (ANEFA);
+
+aj) Por um representante do Centro Pinus;
+
+ak) Por um representante das organizações não governamentais de ambiente, a indicar pela Confederação Portuguesa das Associações de Defesa do Ambiente;
+
+al) Por um representante da Fencaça - Federação Portuguesa de Caça;
+
+am) Por um representante da Confederação Nacional dos Caçadores Portugueses;
+
+an) Por um representante da Associação Nacional de Proprietários e Produtores de Caça;
+
+ao) Por um representante do Clube Português de Monteiros;
+
+ap) Por um representante da Federação Portuguesa de Pesca Desportiva - FPPD;
+
+aq) Por um representante da Associação Portuguesa de Aquacultores (APA);
+
+ar) Por um representante das organizações representativas da pesca lúdica, a designar pelo membro do Governo responsável pela área das florestas, rotativamente e por períodos sucessivos de um ano cada, entre representantes indicados, respetivamente, pela APPPSE - Associação de Pesca à Pluma da Serra da Estrela, pela APPA - Associação Portuguesa de Pesca do Achigã e Defesa da Natureza e pela APCF - Associação Portuguesa de CarpFishing.
+
+2 - As entidades a que se referem as alíneas i) a ar) do número anterior devem indicar os seus representantes ao membro do Governo responsável pela área das florestas.
+
+3 - O presidente do CFN pode fazer-se substituir em todas as reuniões por secretário de Estado que o coadjuve no exercício das suas funções ou pelo presidente do conselho diretivo do ICNF, I. P.
+
+4 - Nas suas faltas ou nos seus impedimentos, os restantes membros do CFN podem fazer-se substituir por suplentes indicados para o efeito.
+
+5 - Sem prejuízo do disposto no n.º 1, o presidente do CNF pode convidar a participar nas reuniões, sem direito a voto, personalidades de reconhecido mérito ou representantes de entidades nacionais com relevância para a articulação das suas atividades, nomeadamente da investigação e do desenvolvimento.
+
+###### Artigo 5.º — Funcionamento
+
+1 - O CFN funciona em plenário ou em secções especializadas, nos termos do respetivo regulamento interno.
+
+2 - O regulamento interno do CFN é aprovado, sob proposta do presidente, por maioria dos membros presentes em reunião plenária expressamente convocada para o efeito.
+
+3 - A participação nas reuniões, em plenário ou em secções especializadas, ou em quaisquer outras atividades do CFN não confere aos seus membros, ainda que na qualidade de suplentes, nem aos seus convidados, o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, de compensação, de subsídio, de senhas de presença ou de ajudas de custo, nem ao reembolso de despesas efetuadas.
+
+###### Artigo 6.º — Plenário
+
+1 - O plenário do CFN reúne ordinariamente uma vez por ano e extraordinariamente quando para tal convocado pelo membro do Governo responsável pela área das florestas.
+
+2 - O plenário congrega o universo dos membros que compõem o CFN.
+
+3 - O plenário do CFN reúne com qualquer número de membros, à exceção do presidente ou do seu substituto, cuja presença é sempre obrigatória.
+
+###### Artigo 7.º — Secções especializadas
+
+1 - O CFN funciona em secções especializadas, nomeadamente nas áreas seguintes:
+
+a) Do ordenamento e da gestão florestais;
+
+b) Da estruturação e do funcionamento do SDFCI;
+
+c) Da fitossanidade florestal;
+
+d) Dos recursos cinegéticos;
+
+e) Dos recursos piscícolas das águas interiores.
+
+2 - Compete ao membro do Governo responsável pela área das florestas, por sua iniciativa ou a pedido de um terço dos membros com assento no CFN, a criação de secções especializadas em áreas não abrangidas pelo número anterior.
+
+3 - As secções especializadas do CNF funcionam por tempo certo, quando forem criadas para o cumprimento de tarefa ou de objetivo específico de duração limitada, ou por período indeterminado, nas restantes situações.
+
+4 - A composição das secções especializadas é definida no regulamento interno do CFN.
+
+5 - Às reuniões das secções especializadas podem ser convidadas a participar outras organizações ou entidades cujas áreas de interesse ou de atividade sejam relevantes para os trabalhos a desenvolver.
+
+###### Artigo 8.º — Apoio
+
+O ICNF, I. P., assegura o apoio administrativo e de secretariado necessário ao funcionamento do CFN.
+
+###### Artigo 9.º — Extinção
+
+São extintos:
+
+a) O Conselho das Organizações Interprofissionais Florestais, criado pela [Lei n.º 158/99](https://diariodarepublica.pt/dr/detalhe/lei/158-1999-570565), de 14 de setembro, que estabelece as bases do interprofissionalismo florestal;
+
+b) O Conselho Consultivo para a Fitossanidade Florestal, criado pela [Portaria n.º 553-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/553-b-2008-456870), de 27 de junho, alterada pela [Portaria n.º 230-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-b-2009-260664), de 27 de fevereiro, e pelo [Decreto-Lei n.º 95/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2011-669979), de 8 de agosto.
+
+###### Artigo 10.º — Sucessão
+
+O CFN sucede nas competências:
+
+a) Do Conselho das Organizações Interprofissionais Florestais;
+
+b) Do Conselho Consultivo para a Fitossanidade Florestal.
+
+###### Artigo 11.º — Referências legais e regulamentares
+
+1 - Quaisquer referências legais ou regulamentares ao Conselho Consultivo Florestal, criado pela [Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/lei/33-1996-406293), de 17 de agosto, consideram-se efetuadas ao CFN instituído pelo presente decreto-lei.
+
+2 - Consideram-se ainda efetuadas ao CFN instituído pelo presente decreto-lei todas as referências legais e regulamentares:
+
+a) Ao Conselho das Organizações Interprofissionais Florestais;
+
+b) Ao Conselho Consultivo para a Fitossanidade Florestal, ao qual se refere, designadamente, a [Portaria n.º 118-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/118-a-2009-287977), de 29 de janeiro;
+
+c) Ao Conselho Florestal Nacional, criado pelo [Decreto-Lei n.º 159/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127), de 8 de agosto, revogado pelo [Decreto-Lei n.º 135/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2012-178537), de 29 de junho, e ao qual se referem, designadamente, o [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de junho, alterado pelos [Decretos-Leis n.os 15/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), de 14 de janeiro, [17/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), de 14 de janeiro, [114/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), de 30 de novembro, e [83/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2014-25345886), de 23 de maio, bem como a [Portaria n.º 118-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/118-a-2009-287977), de 29 de janeiro.
+
+###### Artigo 12.º — Disposição transitória
+
+As entidades a que se referem as alíneas i) a ar) do n.º 1 do artigo 4.º indicam os seus representantes ao membro do Governo responsável pela área das florestas no prazo de 15 dias a contar da data da entrada em vigor do presente decreto-lei.
+
+###### Artigo 13.º — Norma revogatória
+
+São revogados:
+
+a) O n.º 2 do artigo 6.º do [Decreto-Lei n.º 169/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2001-332749), de 25 de maio, alterado pelo [Decreto-Lei n.º 155/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2004-517471), de 30 de junho;
+
+b) O artigo 6.º da [Portaria n.º 553-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/553-b-2008-456870), de 27 de junho, alterada pela [Portaria n.º 230-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-b-2009-260664), de 27 de fevereiro, e revogada pelo [Decreto-Lei n.º 95/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2011-669979), de 8 de agosto, com exceção do artigo que ora se revoga.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+**Promulgado em 4 de fevereiro de 2015.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 5 de fevereiro de 2015.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**

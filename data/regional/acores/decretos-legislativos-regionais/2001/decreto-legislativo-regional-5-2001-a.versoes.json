@@ -1,0 +1,337 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:353087:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-129113848",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/5-2001-353087",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-03-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "129112393",
+    "129112394",
+    "129112395",
+    "129112396",
+    "129112397",
+    "129112398",
+    "129112399",
+    "129112400",
+    "129112401",
+    "129112402",
+    "129112403",
+    "129112404",
+    "129112405",
+    "129112406",
+    "129112407"
+   ]
+  },
+  {
+   "date": "2020-02-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129113819:por",
+     "title": "Decreto Legislativo Regional n.º 6/2020/A",
+     "published": "2020-02-11",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2020-129113819"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "129112393",
+    "129112446",
+    "129112395",
+    "129112432",
+    "129112447",
+    "129112448",
+    "129112454",
+    "129112449",
+    "129112437",
+    "129112453",
+    "129112450",
+    "129112440",
+    "129112451",
+    "129112442",
+    "129112452",
+    "129112444",
+    "129112445"
+   ]
+  }
+ ],
+ "fragments": {
+  "129112393": {
+   "fragment_id": "129113849",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 5/2001/A\n\nCriação do Fundo Regional da Ciência e Tecnologia\n\nA estrutura orgânica do VIII Governo Regional, fixada pelo Decreto Regulamentar Regional n.º 33/2000/A, de 11 de Novembro, procede à criação, na dependência da Presidência do Governo Regional, de uma Direcção Regional da Ciência e Tecnologia, em cujo âmbito se prevê a existência de um serviço de coordenação e de gestão no âmbito dos recursos financeiros disponibilizados para a investigação científica e desenvolvimento tecnológico.\n\nTorna-se, por isso, necessário dotar tal entidade de um enquadramento legal que possibilite de forma eficaz a realização dos programas a implementar naquelas áreas.\n\nDotando-se o Fundo Regional da Ciência e Tecnologia de autonomia administrativa e financeira e patrimonial, para além de se permitir a concretização daquele objectivo, possibilita-se que algumas das suas actividades sejam financiadas por receitas próprias, abrangendo financiamentos provenientes de instituições nacionais e estrangeiras que prossigam objectivos idênticos ou complementares, através da concessão de subsídios.\n\nAssim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º da Lei n.º 61/98, de 27 de Agosto (Estatuto Político-Administrativo da Região Autónoma dos Açores), decreta o seguinte:"
+  },
+  "129112394": {
+   "fragment_id": "129113850",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado, na dependência da Direcção Regional da Ciência e Tecnologia, o Fundo Regional da Ciência e Tecnologia, abreviadamente designado por FRCT."
+  },
+  "129112395": {
+   "fragment_id": "129113851",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO FRCT é um organismo de coordenação e de gestão no âmbito dos recursos financeiros disponibilizados para a investigação científica e desenvolvimento tecnológico, com personalidade jurídica e dotado de autonomia administrativa e financeira."
+  },
+  "129112396": {
+   "fragment_id": "129113852",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\nSão competências do FRCT:\n\na) Promover e participar na realização, acompanhamento, fiscalização e ou avaliação e na gestão de estudos, programas, projectos, acções de formação e meios de informação e divulgação de âmbito científico, melhoramento ou inovação tecnológicos, bem como da sociedade da informação e do conhecimento;\n\nb) Fomentar e promover o apoio a unidades de desenvolvimento científico e ou de inovação ou melhoramento tecnológicos regionais e da sociedade da informação e do conhecimento e ou em cooperação com unidades homólogas nacionais e estrangeiras;\n\nc) Celebrar acordos, protocolos e contratos com pessoas, singulares ou colectivas, de natureza pública ou privada, de nacionalidade portuguesa ou estrangeira para a realização de tarefas ou prestação de serviços que se enquadrem na natureza e objectivos do FRCT;\n\nd) Promover e realizar seminários, conferências, colóquios e outras actividades similares do âmbito da ciência e tecnologia e da sociedade da informação e do conhecimento;\n\ne) Promover e realizar a edição de obras, revistas, monografias, estudos e outros trabalhos de natureza científica e tecnológica;\n\nf) Conceder subsídios especialmente previstos no plano de actividades ou que, para prover necessidades urgentes, se mostrem oportunos, de harmonia com os objectivos próprios do FRCT."
+  },
+  "129112397": {
+   "fragment_id": "129113853",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos e serviços\n\nO FRCT compreende os seguintes órgãos e serviços:\n\na) O presidente;\n\nb) O conselho administrativo;\n\nc) A comissão de fiscalização."
+  },
+  "129112398": {
+   "fragment_id": "129113854",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento\n\nO FRCT funcionará com o apoio técnico e administrativo dos serviços integrados na Direcção Regional da Ciência e Tecnologia."
+  },
+  "129112399": {
+   "fragment_id": "129113855",
+   "type": 11,
+   "heading": "Artigo 6.º — Da gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Da gestão financeira e patrimonial\n\nNo âmbito da gestão financeira e patrimonial, o FRCT rege-se pelo disposto no presente diploma e pelas regras gerais estabelecidas na legislação regional e nacional aplicável aos organismos dotados de autonomia administrativa, financeira e patrimonial."
+  },
+  "129112400": {
+   "fragment_id": "129113856",
+   "type": 11,
+   "heading": "Artigo 7.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instrumentos de gestão\n\nSão instrumentos de gestão do FRCT:\n\na) Os planos de actividades e financeiros, anuais e plurianuais;\n\nb) O orçamento anual;\n\nc) O relatório anual de actividades."
+  },
+  "129112401": {
+   "fragment_id": "129113857",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Receitas do Fundo\n\nConstituem receitas do FRCT:\n\na) As verbas inscritas no Orçamento da Região;\n\nb) As verbas dos fundos comunitários consignadas aos programas, projectos e acções da competência do FRCT;\n\nc) As receitas do Jornal Oficial;\n\nd) As receitas de prestações de serviços, de avaliação, de acompanhamento e fiscalização de programas, projectos e estudos;\n\ne) As receitas de patentes, venda ou aluguer de instalações, equipamentos ou materiais;\n\nf) Os juros e rendimentos de capitais e bens que lhe sejam afectos;\n\ng) Os subsídios ou quaisquer outras receitas que lhe sejam entregues;\n\nh) Outros valores que por lei, contrato ou outro título lhe sejam atribuídos."
+  },
+  "129112402": {
+   "fragment_id": "129113858",
+   "type": 11,
+   "heading": "Artigo 9.º — Cobrança de receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cobrança de receitas\n\n1 - As receitas a que se refere o artigo anterior serão cobradas pelo FRCT e depositadas à sua ordem.\n\n2 - Serão sempre emitidos documentos comprovativos das receitas.\n\n3 - A cobrança coerciva de dívidas ao FRCT, seja qual for a sua origem, natureza ou título, far-se-á pelo processo das execuções fiscais, constituindo título executivo a certidão de dívida passada pelo conselho administrativo e autenticada com o selo branco da Presidência do Governo Regional."
+  },
+  "129112403": {
+   "fragment_id": "129113859",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas do FRCT:\n\na) As despesas com o seu funcionamento e cumprimento das respectivas obrigações;\n\nb) Os custos de aquisição, manutenção e conservação de bens, equipamentos ou obtenção de serviços que tenha de utilizar;\n\nc) Quaisquer outras derivadas do exercício da sua actividade."
+  },
+  "129112404": {
+   "fragment_id": "129113860",
+   "type": 11,
+   "heading": "Artigo 11.º — Movimentação de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Movimentação de valores\n\nOs valores depositados à ordem do FRCT são movimentados mediante assinatura do presidente e de um dos vogais do conselho de administração."
+  },
+  "129112405": {
+   "fragment_id": "129113861",
+   "type": 11,
+   "heading": "Artigo 12.º — Saldos de anos findos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Saldos de anos findos\n\nOs saldos apurados no final de cada ano económico transitam para o ano seguinte, através do mecanismo de contas de ordem, a fim de serem utilizados no ano seguinte, com excepção dos relativos às verbas recebidas do Orçamento da Região que serão repostos nos respectivos cofres."
+  },
+  "129112406": {
+   "fragment_id": "129113862",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições finais\n\nAs competências e modo de funcionamento interno dos órgãos e serviços que integram o FRCT constará de decreto regulamentar regional."
+  },
+  "129112407": {
+   "fragment_id": "129113863",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "129112446": {
+   "fragment_id": "129113850",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ criado, na dependência do departamento do Governo Regional com competência em matéria de ciência e tecnologia, o Fundo Regional da Ciência e Tecnologia, abreviadamente designado por FRCT.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+  },
+  "129112432": {
+   "fragment_id": "129121389",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Sede e jurisdição territorial",
+   "in_force_from": "2020-02-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+   ],
+   "markdown": "###### Artigo 2.º-A — Sede e jurisdição territorial\n\n1 - O FRCT tem sede em Ponta Delgada e exerce a sua atividade em todo o território da Região Autónoma dos Açores.\n\n2 - O FRCT pode ter delegações ou outras formas de representação em outros locais, de modo a melhor desenvolver as suas atribuições.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+  },
+  "129112447": {
+   "fragment_id": "129113852",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2020-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - São atribuições do FRCT:\n\na) Promover e participar na realização, acompanhamento, fiscalização e ou avaliação e na gestão de estudos, programas, projectos, acções de formação e meios de informação e divulgação de âmbito científico, melhoramento ou inovação tecnológicos, bem como da sociedade da informação e do conhecimento;\n\nb) Fomentar e promover o apoio a unidades de desenvolvimento científico e ou de inovação ou melhoramento tecnológicos regionais e da sociedade da informação e do conhecimento e ou em cooperação com unidades homólogas nacionais e estrangeiras;\n\nc) Celebrar acordos, protocolos e contratos com pessoas, singulares ou colectivas, de natureza pública ou privada, de nacionalidade portuguesa ou estrangeira para a realização de tarefas ou prestação de serviços que se enquadrem na natureza e objectivos do FRCT;\n\nd) Promover e realizar seminários, conferências, colóquios e outras actividades similares do âmbito da ciência e tecnologia e da sociedade da informação e do conhecimento;\n\ne) Promover e realizar a edição de obras, revistas, monografias, estudos e outros trabalhos de natureza científica e tecnológica;\n\nf) Conceder subsídios especialmente previstos no plano de actividades ou que, para prover necessidades urgentes, se mostrem oportunos, de harmonia com os objectivos próprios do FRCT.\n\n2 - As atribuições do FRCT são prosseguidas em articulação e colaboração com os demais departamentos do Governo Regional nas respetivas áreas de atuação, bem como com outras entidades nacionais e internacionais, públicas ou privadas, Organizações Não Governamentais, com interesses comuns ou complementares aos do FRCT.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+  },
+  "129112448": {
+   "fragment_id": "129113853",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2020-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nPara a prossecução dos seus objetivos o FRCT dispõe dos seguintes órgãos:\n\na) Conselho diretivo;\n\nb) Fiscal único.\n\nc) (Revogada.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+  },
+  "129112454": {
+   "fragment_id": "129113854",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento",
+   "in_force_from": "2020-02-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+   ],
+   "markdown": "###### Artigo 5.º — Funcionamento\n\nO FRCT funcionará com o apoio técnico e administrativo dos serviços integrados na Direcção Regional da Ciência e Tecnologia.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+  },
+  "129112449": {
+   "fragment_id": "129113855",
+   "type": 11,
+   "heading": "Artigo 6.º — Da gestão financeira e patrimonial",
+   "in_force_from": "2020-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+   ],
+   "markdown": "###### Artigo 6.º — Da gestão financeira e patrimonial\n\nNo âmbito da gestão financeira e patrimonial, o FRCT rege-se pelo disposto no presente diploma e pelas regras gerais estabelecidas na legislação regional e nacional aplicável aos organismos dotados de autonomia administrativa e financeira, designadamente o Decreto Legislativo Regional n.º 13/2007/A, de 5 de junho, alterado e republicado pelo Decreto Legislativo Regional n.º 13/2011/A, de 11 de maio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+  },
+  "129112437": {
+   "fragment_id": "129113856",
+   "type": 11,
+   "heading": "Artigo 7.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instrumentos de gestão\n\nSão instrumentos de gestão do FRCT:\n\na) Os planos de actividades e financeiros, anuais e plurianuais;\n\nb) O orçamento anual;\n\nc) O relatório anual de actividades."
+  },
+  "129112453": {
+   "fragment_id": "129113857",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas do Fundo",
+   "in_force_from": "2020-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+   ],
+   "markdown": "###### Artigo 8.º — Receitas do Fundo\n\nConstituem receitas do FRCT:\n\na) As verbas inscritas no Orçamento da Região;\n\nb) As verbas dos fundos comunitários consignadas aos programas, projectos e acções da competência do FRCT;\n\nc) Revogada;\n\nd) As receitas de prestações de serviços, de avaliação, de acompanhamento e fiscalização de programas, projectos e estudos;\n\ne) As receitas de patentes, venda ou aluguer de instalações, equipamentos ou materiais;\n\nf) Os juros e rendimentos de capitais e bens que lhe sejam afectos;\n\ng) Os subsídios ou quaisquer outras receitas que lhe sejam entregues;\n\nh) Outros valores que por lei, contrato ou outro título lhe sejam atribuídos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+  },
+  "129112450": {
+   "fragment_id": "129113858",
+   "type": 11,
+   "heading": "Artigo 9.º — Cobrança de receitas",
+   "in_force_from": "2020-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+   ],
+   "markdown": "###### Artigo 9.º — Cobrança de receitas\n\n1 - As receitas a que se refere o artigo anterior serão cobradas pelo FRCT e depositadas à sua ordem.\n\n2 - Serão sempre emitidos documentos comprovativos das receitas.\n\n3 - A cobrança coerciva de dívidas ao FRCT, seja qual for a sua origem, natureza ou título, far-se-á pelo processo das execuções fiscais, constituindo título executivo a certidão de dívida passada pelo conselho diretivo e autenticada com o selo branco em uso nesses serviços.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+  },
+  "129112440": {
+   "fragment_id": "129113859",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas do FRCT:\n\na) As despesas com o seu funcionamento e cumprimento das respectivas obrigações;\n\nb) Os custos de aquisição, manutenção e conservação de bens, equipamentos ou obtenção de serviços que tenha de utilizar;\n\nc) Quaisquer outras derivadas do exercício da sua actividade."
+  },
+  "129112451": {
+   "fragment_id": "129113860",
+   "type": 11,
+   "heading": "Artigo 11.º — Movimentação de valores",
+   "in_force_from": "2020-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+   ],
+   "markdown": "###### Artigo 11.º — Movimentação de valores\n\nOs valores depositados à ordem do FRCT são movimentados mediante a assinatura do presidente e de um dos vogais do conselho diretivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+  },
+  "129112442": {
+   "fragment_id": "129113861",
+   "type": 11,
+   "heading": "Artigo 12.º — Saldos de anos findos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Saldos de anos findos\n\nOs saldos apurados no final de cada ano económico transitam para o ano seguinte, através do mecanismo de contas de ordem, a fim de serem utilizados no ano seguinte, com excepção dos relativos às verbas recebidas do Orçamento da Região que serão repostos nos respectivos cofres."
+  },
+  "129112452": {
+   "fragment_id": "129113862",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições finais",
+   "in_force_from": "2020-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+   ],
+   "markdown": "###### Artigo 13.º — Disposições finais\n\nAs competências e modo de funcionamento interno dos órgãos que compõem o FRCT, bem como os serviços e o quadro de pessoal de direção e dirigente que o integram, constam de decreto regulamentar regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2020/A - Diário da República n.º 29/2020, Série I de 2020-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), em vigor a partir de 2020-02-12"
+  },
+  "129112444": {
+   "fragment_id": "129113863",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "129112445": {
+   "fragment_id": "129113864",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 15 de Fevereiro de 2001.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 2 de Março de 2001.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  }
+ }
+}

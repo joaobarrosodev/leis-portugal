@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:213498830:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2023-213498858",
+ "dre_path": "/dr/detalhe/lei/21-2023-213498830",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-05-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213560775",
+    "213560776",
+    "213560777",
+    "213560778",
+    "213560779",
+    "213560780",
+    "213560781",
+    "213560782",
+    "213560783",
+    "213560784",
+    "213560785",
+    "213560786",
+    "213560787",
+    "213560788",
+    "213560789",
+    "213560790",
+    "213560791",
+    "213560792",
+    "213560793"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "213560775",
+    "213560776",
+    "213560777",
+    "213560778",
+    "213560779",
+    "213560780",
+    "213560781",
+    "213560782",
+    "213560783",
+    "213560784",
+    "213560785",
+    "213560786",
+    "213560787",
+    "213560788",
+    "213560789",
+    "213560790",
+    "213560791",
+    "836904071",
+    "213560793",
+    "213560794"
+   ]
+  }
+ ],
+ "fragments": {
+  "213560775": {
+   "fragment_id": "213498859",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 21/2023\n\nde 25 de maio\n\nSumário: Estabelece o regime aplicável às startups e scaleups e altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Estatuto dos Benefícios Fiscais e o Código Fiscal do Investimento.\n\nEstabelece o regime aplicável às startups e scaleups e altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Estatuto dos Benefícios Fiscais e o Código Fiscal do Investimento\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "213560776": {
+   "fragment_id": "213498860",
+   "type": 1,
+   "heading": "Capítulo I — Disposição inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição inicial"
+  },
+  "213560777": {
+   "fragment_id": "213498861",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à:\n\na) Definição dos conceitos legais de startup e de scaleup;\n\nb) Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), aprovado em anexo ao Decreto-Lei n.º 442-A/88, de 30 de novembro;\n\nc) Alteração ao Estatuto dos Benefícios Fiscais (EBF), aprovado em anexo ao Decreto-Lei n.º 215/89, de 1 de julho; e\n\nd) Alteração ao Código Fiscal do Investimento (CFI), aprovado em anexo ao Decreto-Lei n.º 162/2014, de 31 de outubro."
+  },
+  "213560778": {
+   "fragment_id": "213498862",
+   "type": 1,
+   "heading": "Capítulo II — Startups e scaleups",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Startups e scaleups"
+  },
+  "213560779": {
+   "fragment_id": "213498863",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção de startup",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Noção de startup\n\n1 - Considera-se startup a pessoa coletiva que, cumulativamente:\n\na) Exerça atividade por um período inferior a 10 anos;\n\nb) Empregue menos de 250 trabalhadores;\n\nc) Tenha um volume de negócios anual que não exceda os 50 milhões de euros;\n\nd) Não resulte de uma transformação ou cisão de uma grande empresa e não tenha no seu capital qualquer participação maioritária direta ou indireta de uma grande empresa;\n\ne) Tenha sede ou representação permanente em Portugal ou pelo menos 25 trabalhadores em Portugal; e\n\nf) Cumpra uma das seguintes condições:\n\ni) Seja uma empresa inovadora com um elevado potencial de crescimento, com um modelo de negócio, produtos ou serviços inovadores, enquadrando-se nos termos definidos pela Portaria n.º 195/2018, de 5 de julho, ou à qual tenha sido reconhecida idoneidade pela ANI - Agência Nacional de Inovação, S. A., na prática de atividades de investigação e desenvolvimento ou certificação do processo de reconhecimento de empresas do setor da tecnologia;\n\nii) Tenha concluído, pelo menos, uma ronda de financiamento de capital de risco por entidade legalmente habilitada para o investimento em capital de risco sujeita à supervisão da Comissão do Mercado de Valores Mobiliários (CMVM) ou de autoridade internacional congénere da CMVM, ou mediante a aportação de instrumentos de capital ou quase capital por parte de investidores que não sejam acionistas fundadores da empresa, nomeadamente por business angels, certificados pelo IAPMEI - Agência para a Competitividade e Inovação, IP (IAPMEI, IP);\n\niii) Tenha recebido investimento do Banco Português de Fomento, S. A., ou de fundos geridos por este, ou por empresas suas participadas, ou de um dos seus instrumentos de capital ou quase capital.\n\n2 - Não estão abrangidas pela subalínea ii) da alínea f) do número anterior as empresas de promoção, intermediação, investimento ou desenvolvimento imobiliário.\n\n3 - A falta de verificação dos requisitos previstos na alínea f) do n.º 1 pode ser suprida por declaração prévia emitida pela Startup Portugal - Associação Portuguesa para a Promoção do Empreendedorismo - SPAPPE (Startup Portugal) com fundamento e evidência de a requerente ser detentora de um modelo de negócio, produtos ou serviços inovadores ou de um negócio rapidamente escalável e com elevado potencial de crescimento."
+  },
+  "213560780": {
+   "fragment_id": "213498864",
+   "type": 11,
+   "heading": "Artigo 3.º — Business angels",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Business angels\n\n1 - Para efeitos do disposto na presente lei, consideram-se business angels as pessoas singulares que realizam investimentos em startups, contribuindo para o reforço da sua capacidade financeira e da sua experiência e conhecimento do mercado.\n\n2 - São ainda consideradas business angels as pessoas coletivas que reúnam, cumulativamente, os seguintes requisitos:\n\na) Sejam detidas, maioritariamente e com controlo de gestão, por pessoa individual qualificada como business angel;\n\nb) Tenham por política de investimentos a aquisição de instrumentos de capital próprio e de instrumentos de capital alheio em sociedades com elevado potencial de crescimento como forma de beneficiar da respetiva valorização;\n\nc) Sejam micro, pequenas ou médias empresas (PME) e que apenas invistam em PME;\n\nd) Cuja capitalização seja, pelo menos, em 15 % aportada pelo business angel;\n\ne) Estejam legalmente constituídas e habilitadas a operar em Portugal."
+  },
+  "213560781": {
+   "fragment_id": "213498865",
+   "type": 11,
+   "heading": "Artigo 4.º — Noção de scaleup",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Noção de scaleup\n\nConsidera-se scaleup a pessoa coletiva que, não cumprindo os requisitos previstos nas alíneas a), b) e c) do n.º 1 do artigo 2.º, mas observando os demais requisitos estabelecidos no mesmo número, reúne as condições necessárias para a obtenção da certificação Tech Visa, nos termos da Portaria n.º 328/2018, de 19 de dezembro."
+  },
+  "213560782": {
+   "fragment_id": "213498866",
+   "type": 11,
+   "heading": "Artigo 5.º — Reconhecimento do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reconhecimento do estatuto\n\n1 - O reconhecimento do estatuto de startup ou scaleup é realizado mediante procedimento de comunicação prévia dirigida à Startup Portugal.\n\n2 - A comunicação prévia referida no número anterior é realizada exclusivamente através da Internet, no portal único de serviços públicos.\n\n3 - O documento digital certificativo é disponibilizado no portal único de serviços públicos e constitui título válido de reconhecimento para todos os efeitos legais.\n\n4 - A Startup Portugal mantém no seu sítio eletrónico uma lista atualizada das startups e scaleups reconhecidas.\n\n5 - A Startup Portugal assegura a monitorização, acompanhamento e controlo das startups e scaleups reconhecidas, para efeitos, nomeadamente, da cessação do estatuto pela não verificação inicial ou superveniente dos requisitos para o reconhecimento, nos termos do artigo seguinte.\n\n6 - Os interessados estão dispensados da apresentação de documentos que já se encontram na posse de qualquer serviço ou organismo da Administração Pública, devendo estas entidades, para esse efeito, partilhá-los com a Startup Portugal, através da plataforma de interoperabilidade da Administração Pública, mediante prévio consentimento do interessado."
+  },
+  "213560783": {
+   "fragment_id": "213498867",
+   "type": 11,
+   "heading": "Artigo 6.º — Cessação do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cessação do estatuto\n\n1 - O fim da verificação dos requisitos previstos no n.º 1 do artigo 2.º ou no artigo 4.º determina a cessação do estatuto de startup ou de scaleup.\n\n2 - A manutenção do estatuto de startup ou de scaleup depende da confirmação, por parte da Startup Portugal, de três em três anos, da continuidade da verificação dos requisitos previstos no n.º 1 do artigo 2.º ou no artigo 4.º\n\n3 - As pessoas coletivas que deixem de reunir os requisitos de atribuição do estatuto de startup ou de scaleup devem comunicá-lo à Startup Portugal através do portal único de serviços públicos, num prazo de 30 dias a contar da data do evento que dê causa à falta de verificação dos requisitos previstos no n.º 1 do artigo 2.º ou no artigo 4.º\n\n4 - Sem prejuízo do disposto no número anterior, sempre que a Startup Portugal verifique, oficiosamente, que deixou de se observar o cumprimento de qualquer um dos requisitos previstos no n.º 1 do artigo 2.º ou no artigo 4.º, há lugar à cessação do estatuto de startup ou de scaleup."
+  },
+  "213560784": {
+   "fragment_id": "213498868",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimento de reconhecimento e de cessação do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Procedimento de reconhecimento e de cessação do estatuto\n\n1 - O procedimento de reconhecimento e de cessação do estatuto de startup e de scaleup previsto na presente lei é definido por portaria dos membros do Governo responsáveis pelas áreas da digitalização e da modernização administrativa e da economia.\n\n2 - As funções administrativas atribuídas pela presente lei à Startup Portugal constituem competências próprias do IAPMEI, IP, sendo prosseguidas por aquela agência, no âmbito do contrato-programa celebrado com esta entidade, nos termos do Decreto-Lei n.º 33/2019, de 4 de março.\n\n3 - Compete à Startup Portugal assegurar o desenvolvimento e gestão da plataforma de reconhecimento de startups e scaleups acessível através do portal único de serviços públicos, utilizando para o efeito a plataforma de interoperabilidade da Administração Pública.\n\n4 - A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos legalmente previstos, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no portal de dados abertos da Administração Pública, em www.dados.gov.pt."
+  },
+  "213560785": {
+   "fragment_id": "213498869",
+   "type": 1,
+   "heading": "Capítulo III — Medidas fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Medidas fiscais"
+  },
+  "213560786": {
+   "fragment_id": "213498870",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares\n\nO artigo 72.º do CIRS passa a ter a seguinte redação:\n\n«Artigo 72.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) Os ganhos previstos no n.º 7) da alínea b) do n.º 3 do artigo 2.º, quando beneficiem do regime previsto no artigo 43.º-C do Estatuto dos Benefícios Fiscais.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]\n\n13 - Os rendimentos previstos nas alíneas c) a f) do n.º 1, com exceção do disposto no número seguinte, nos n.os 2 a 5 e nos n.os 9, 10 e 12 podem ser englobados por opção dos respetivos titulares residentes em território português.\n\n14 - [...]\n\n15 - [...]\n\n16 - [...]\n\n17 - [...]\n\n18 - [...]\n\n19 - [...]\n\n20 - [...]\n\n21 - [...]\n\n22 - [...]»"
+  },
+  "213560787": {
+   "fragment_id": "213498871",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração ao Estatuto dos Benefícios Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Estatuto dos Benefícios Fiscais\n\nO artigo 43.º-C do EBF passa a ter a seguinte redação:\n\n«Artigo 43.º-C\n\nIncentivo fiscal à aquisição de participações sociais de startups\n\n1 - Os ganhos previstos no n.º 7) da alínea b) do n.º 3 do artigo 2.º do Código do IRS são apenas tributados ao abrigo do presente regime e considerados em 50 % do seu valor quando o plano seja atribuído por entidade que, no ano anterior à aprovação do plano, seja reconhecida como startup, nos termos do regime legal em vigor, e preencha pelo menos um dos requisitos previstos no número seguinte.\n\n2 - São ainda abrangidos pelo disposto no número anterior os ganhos nele referido que sejam atribuídos por entidade relativamente à qual, no ano anterior à aprovação do plano, se verifique uma das seguintes condições:\n\na) Seja qualificada como micro, pequena ou média empresa ou como empresa de pequena-média capitalização, de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro; ou\n\nb) Desenvolva a sua atividade no âmbito da inovação, considerando-se como tal as entidades que tenham incorrido em despesas com investimento em investigação e desenvolvimento (I&D), patentes, desenhos ou modelos industriais ou programas de computador equivalentes a pelo menos 10 % dos seus gastos ou volume de negócios.\n\n3 - Para efeitos da alínea b) do número anterior, consideram-se despesas com I&D as previstas nas alíneas a) e b) do artigo 36.º do Código Fiscal do Investimento.\n\n4 - A tributação nos termos do presente artigo depende da manutenção dos direitos subjacentes aos títulos geradores dos ganhos ou dos direitos equivalentes, ainda que de natureza ideal, por um período mínimo de um ano, sendo os ganhos tributados no primeiro dos seguintes momentos:\n\na) Alienação dos valores mobiliários ou direitos equiparados adquiridos por via do exercício da opção, sendo apurados pela diferença positiva entre o valor de realização e o preço de exercício da opção ou direito, acrescido do que haja sido pago para aquisição dessa opção ou direito;\n\nb) Perda da qualidade de residente em território português, sendo apurados pela diferença positiva entre o valor de mercado e o preço de exercício da opção ou direito, acrescido do que haja sido pago para aquisição dessa opção ou direito;\n\nc) Transmissão gratuita dos valores mobiliários ou direitos equiparados adquiridos por via do exercício ou subscrição da opção, ou do direito de efeito equivalente, sendo apurados pela diferença positiva entre o valor determinado nos termos do artigo 45.º do Código do IRS e o preço do exercício ou subscrição, acrescido do que eventualmente haja sido pago para a aquisição dessa opção ou direito.\n\n5 - Os trabalhadores ou membros de órgãos sociais das startups, nos termos do regime legal em vigor, e das restantes entidades abrangidas pelo presente regime podem solicitar por escrito à entidade que atribuiu as opções ou direitos referidos nos números anteriores a confirmação de que a mesma reunia as condições previstas nos n.os 1 ou 2.\n\n6 - Quando, na sequência de pedido efetuado nos termos do número anterior, a entidade que atribuiu as opções ou direitos referidos no n.º 1 confirme, por escrito, que reunia as condições referidas, ou não responda por escrito a esse pedido no prazo de 90 dias, a mesma é subsidiariamente responsável pelo pagamento do imposto em falta resultante do não cumprimento daquelas condições.\n\n7 - Estão excluídos do presente benefício:\n\na) Os sujeitos passivos que detenham direta ou indiretamente uma participação não inferior a 20 % do capital social ou dos direitos de voto da entidade atribuidora do plano;\n\nb) Os membros de órgãos sociais da entidade atribuidora do plano.\n\n8 - O disposto no número anterior não é aplicável a entidades que, no ano anterior à aprovação do plano, sejam qualificadas como startup, nos termos da legislação em vigor, ou como micro ou pequena empresa, de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro.»"
+  },
+  "213560788": {
+   "fragment_id": "213498872",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Código Fiscal do Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração ao Código Fiscal do Investimento\n\nOs artigos 37.º, 37.º-A e 38.º do CFI passam a ter a seguinte redação:\n\n«Artigo 37.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - As despesas que digam respeito a atividades de investigação e desenvolvimento associadas a projetos de conceção ecológica de produtos são consideradas em 120 %.\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - O disposto na alínea f) do n.º 1 não é aplicável às operações realizadas entre entidades com relações especiais nos termos do artigo 63.º do Código do IRC.\n\n11 - Para efeitos do número anterior considera-se existirem relações especiais entre o fundo de investimento e a respetiva sociedade gestora.\n\nArtigo 37.º-A\n\n[...]\n\n1 - [...]\n\n2 - O reconhecimento da idoneidade da entidade nos termos previstos no número anterior é válido até ao décimo segundo exercício seguinte àquele em que foi pedido.\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\nArtigo 38.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - As despesas que, por insuficiência de coleta, não possam ser deduzidas no período em que foram realizadas podem ser deduzidas até ao décimo segundo período seguinte.\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\na) Caso as unidades de participação nos fundos de investimento referidos na alínea f) do n.º 1 do artigo 37.º sejam alienadas antes de decorrido o prazo de 10 anos contados da data da aquisição, ao IRC do período da alienação é adicionado o montante que tenha sido deduzido à coleta, na proporção correspondente ao período em falta, acrescido dos correspondentes juros compensatórios;\n\nb) Independentemente do período de investimento previsto no respetivo regulamento de gestão, caso o fundo de investimento não venha a realizar, pelo menos, 85 % do investimento nas empresas dedicadas sobretudo a investigação e desenvolvimento a que se refere a parte final da alínea f) do n.º 1 do artigo 37.º, no prazo de três anos contados da data da aquisição das unidades de participação, ao IRC do período de tributação em que se verifique o incumprimento daquele prazo é adicionado o montante proporcional à parte não concretizada dos investimentos que tenha sido deduzido à coleta;\n\nc) Caso as empresas dedicadas sobretudo a investigação e desenvolvimento a que se refere a parte final da alínea f) do n.º 1 do artigo 37.º não concretizem o investimento em atividades de investigação e desenvolvimento, tendo em conta as aplicações relevantes previstas no n.º 1 do artigo 37.º, no prazo de três anos contados da data de aquisição dos investimentos de capital próprio e de quase-capital, ao IRC do período de tributação em que se verifique o incumprimento daquele prazo é adicionado o montante proporcional à parte não concretizada dos investimentos que tenha sido deduzido à coleta.\n\n8 - [...]\n\n9 - O disposto na alínea b) do n.º 1 não é aplicável às despesas previstas na alínea f) do n.º 1 do artigo 37.º\n\n10 - As empresas dedicadas sobretudo a investigação e desenvolvimento não podem beneficiar da dedução a que se refere o n.º 1 quando estejam em causa aplicações relevantes no âmbito de atividades de investigação e desenvolvimento financiadas, direta ou indiretamente, por fundos de investimento no âmbito do SIFIDE II.\n\n11 - Para efeitos do disposto no número anterior, as entidades participantes devem, até ao final do mês seguinte ao da entrega da declaração a que se refere o artigo 120.º do Código do IRC, informar:\n\na) No caso de participação no capital de instituições de investigação e desenvolvimento, as empresas participadas, de que beneficiam do SIFIDE II relativamente ao montante aplicado nos termos da alínea f) do n.º 1 do artigo 37.º;\n\nb) No caso de contribuições para fundos de investimento, a sociedade gestora, de que beneficiam do SIFIDE II relativamente ao montante aplicado nos termos da alínea f) do n.º 1 do artigo 37.º, devendo esta, subsequentemente, no prazo de 30 dias, comunicar esse facto às empresas em que realizou investimentos de capital próprio e de quase-capital.\n\n12 - A ausência das comunicações referidas no número anterior determina a impossibilidade de dedução dos montantes aplicados nos termos da alínea f) do n.º 1 do artigo 37.º»"
+  },
+  "213560789": {
+   "fragment_id": "213498873",
+   "type": 1,
+   "heading": "Capítulo IV — Regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime contraordenacional"
+  },
+  "213560790": {
+   "fragment_id": "213498874",
+   "type": 11,
+   "heading": "Artigo 11.º — Contraordenação e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contraordenação e coimas\n\n1 - Constitui contraordenação grave a violação do disposto no n.º 3 do artigo 6.º\n\n2 - À contraordenação prevista no número anterior é aplicável uma coima entre 1700 (euro) e 24 000 (euro).\n\n3 - À contraordenação prevista no n.º 1 é aplicável o Regime Jurídico das Contraordenações Económicas, aprovado em anexo ao Decreto-Lei n.º 9/2021, de 29 de janeiro."
+  },
+  "213560791": {
+   "fragment_id": "213560875",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "213560792": {
+   "fragment_id": "213560876",
+   "type": 11,
+   "heading": "Artigo 12.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Produção de efeitos\n\n1 - A presente lei produz efeitos desde 1 de janeiro de 2023.\n\n2 - Sem prejuízo do disposto no número anterior:\n\na) O capítulo ii da presente lei produz efeitos 180 dias após a data da sua publicação;\n\nb) As alterações ao artigo 43.º-C do Estatuto dos Benefícios Fiscais aplicam-se igualmente a planos aprovados até 31 de dezembro de 2022, desde que atribuídos por entidades que, no prazo de 12 meses após a entrada em vigor da presente lei, sejam reconhecidas como startup, nos termos do regime legal em vigor, ou, possam demonstrar que na data da aprovação do plano eram qualificadas como startup;\n\nc) As alterações ao Código Fiscal do Investimento produzem efeitos a 1 de janeiro de 2024.\n\n3 - Sem prejuízo do disposto na alínea c) do número anterior, aos investimentos elegíveis ao abrigo da alínea f) do n.º 1 do artigo 37.º do Código Fiscal do Investimento anteriores à data de entrada em vigor da Lei n.º 75-B/2020, de 31 de dezembro, são aplicáveis os prazos previstos na alínea c) do n.º 7 do artigo 38.º, na redação da presente lei, devendo estes ser contados desde a data de produção de efeitos da presente lei."
+  },
+  "213560793": {
+   "fragment_id": "213560877",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "836904071": {
+   "fragment_id": "213560876",
+   "type": 11,
+   "heading": "Artigo 12.º — Produção de efeitos",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 265.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Produção de efeitos\n\n1 - A presente lei produz efeitos desde 1 de janeiro de 2023.\n\n2 - Sem prejuízo do disposto no número anterior:\n\na) O capítulo ii da presente lei produz efeitos 180 dias após a data da sua publicação;\n\nb) As alterações ao artigo 43.º-C do Estatuto dos Benefícios Fiscais aplicam-se igualmente a planos aprovados até 31 de dezembro de 2022, desde que atribuídos por entidades que, no prazo de 12 meses após a entrada em vigor da presente lei, sejam reconhecidas como startup, nos termos do regime legal em vigor, ou, possam demonstrar que na data da aprovação do plano eram qualificadas como startup;\n\nc) As alterações ao Código Fiscal do Investimento produzem efeitos a 1 de janeiro de 2024.\n\n3 - Sem prejuízo do disposto na alínea c) do número anterior, aos investimentos elegíveis ao abrigo da alínea f) do n.º 1 do artigo 37.º do Código Fiscal do Investimento anteriores à data de entrada em vigor da Lei n.º 75-B/2020, de 31 de dezembro, são aplicáveis os prazos previstos na alínea c) do n.º 7 do artigo 38.º, na redação da presente lei, devendo estes ser contados desde a data de produção de efeitos da presente lei.\n\n4 - Os trabalhadores que, na data da entrada em vigor da presente lei, mantenham na sua esfera pessoal os títulos gerados dos ganhos, previstos no n.º 7) da alínea b) do n.º 3 do artigo 2.º do Código do IRS, e tenham beneficiado da isenção de IRS prevista no artigo 43.º-C do Estatuto dos Benefícios Fiscais, na redação dada pela Lei n.º 114/2017, de 29 de dezembro, mantêm o benefício de isenção de tributação em IRS, desde que os títulos permaneçam na sua esfera por um período mínimo de dois anos desde o exercício da sua opção ou subscrição.\n\n5 - Os ganhos resultantes da alienação onerosa dos valores mobiliários ou direitos equiparados, derivados dos planos previstos no n.º 7) da alínea b) do n.º 3 do artigo 2.º do Código do IRS, adquiridos antes da entrada em vigor da presente lei, e cujos titulares tenham beneficiado do regime previsto no artigo 43.º-C do Estatuto dos Benefícios Fiscais, na redação dada pela Lei n.º 114/2017, de 29 de dezembro, são tributados no âmbito da categoria G, sendo apurados pela diferença positiva entre o valor de realização e o valor de mercado à data da aquisição da opção ou do direito.\n\n> Alterado pelo/a Artigo 265.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "213560794": {
+   "fragment_id": "213560878",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 31 de março de 2023.\n\nO Presidente da Assembleia da República, Augusto Santos Silva.\n\nPromulgada em 15 de maio de 2023.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 18 de maio de 2023.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n116492957"
+  }
+ }
+}

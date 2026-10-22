@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:422266:por
+title: Portaria n.º 383/73
+short_title: null
+summary: Aprova como normas definitivas as normas provisórias P-694 a P-704
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Indústria - Inspecção-Geral dos Produtos Agrícolas e Industriais
+proposing_entity: null
+official_number: 383/73
+official_date: null
+publication_date: '1973-05-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 127/1973, Série I de 1973-05-30
+  number: '127'
+  series: I
+  supplement: null
+  pages: 918 - 918
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/05/12700/09180918.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '422266'
+  dre_path: /dr/detalhe/portaria/383-1973-422266
+  internal: pt:dre:422266:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/383-1973-422266
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/383-1973-422266
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1973-05-30T00:00:00Z'
+integrity:
+  source_sha256: 7449fc3352eef4195ff9c445620ebeb286a976cf135f19b5fe60bd811ed31a6d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-383-422266.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 383/73
+
+de 30 de Maio
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, nos termos do artigo 8.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952, aprovar as normas provisória P-694 a P-704 como normas definitivas, com as alterações propostas nos respectivos pareceres do Conselho de Normalização e com o número e título seguintes:
+
+NP-694 - Iogurte. Definição e classificação.
+
+NP-695 - Iogurte. Características.
+
+NP-696 - Iogurte. Exame organoléptico.
+
+NP-697 - Iogurte. Colheita das amostras para análise.
+
+NP-698 - Iogurte. Análise bacteriológica. Exame da vitalidade da flora específica.
+
+NP-699 - Iogurte. Análise microbiológica. Determinação do índice de coliformes (Escherichia e Aerobacter).
+
+NP-700 - Iogurte. Análise microbiológica. Determinação do número de bolores e leveduras por centímetro cúbico.
+
+NP-701 - Iogurte. Determinação da acidez.
+
+NP-702 - Iogurte. Determinação da matéria gorda.
+
+NP-703 - Iogurte. Determinação do resíduo seco e do resíduo seco isento de matéria gorda. Processo de referência.
+
+NP-704 - Iogurte composto. Determinação dos açúcares totais.
+
+Secretaria de Estado da Indústria, 28 de Abril de 1973. - O Secretário de Estado da Indústria, Hermes Augusto dos Santos.

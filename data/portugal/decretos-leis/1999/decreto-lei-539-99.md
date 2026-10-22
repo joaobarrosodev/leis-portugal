@@ -1,0 +1,303 @@
+---
+schema_version: '1.0'
+id: pt:dre:632934:por
+title: Decreto-Lei n.º 539/99
+short_title: null
+summary: Altera o Decreto-Lei n.º 200/98, de 10 de Julho, que aprovou o Regulamento do Sistema Tarifário dos Portos Nacionais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 539/99
+official_date: null
+publication_date: '1999-12-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 288/1999, Série I-A de 1999-12-13
+  number: '288'
+  series: I
+  supplement: null
+  pages: 8809 - 8810
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/12/288a00/88098810.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/539/1999/12/13/p/dre/pt/html
+  oj: null
+  dre: '632934'
+  dre_path: /dr/detalhe/decreto-lei/539-1999-632934
+  internal: pt:dre:632934:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1999-632934
+  metadata_url: https://data.dre.pt/eli/dec-lei/539/1999/12/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1999-632934
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-11-09T00:00:00Z'
+integrity:
+  source_sha256: 1433441b1956d142606339d9da9a037d6082723990fd0ec227e5a3e1127c422a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-539-632934.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Armazenagem
+- Embarcação
+- Tráfego Marítimo
+- Pilotagem
+- Controlo Aduaneiro
+- Embarcação de Recreio
+- Equipamento
+- Estacionamento
+- TAXA de Pilotagem
+- Regulamento
+- Embarcação de Pesca
+- Regulamento do Sistema Tarifário dos Portos Nacionais
+- Portos
+- Tarifa Portuária
+- Taxa
+- Transporte de Passageiros
+relationships:
+- type: amended_by
+  target: pt:dre:621964:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/12/1997/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/12/1997/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/200/1998/07/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/1998/07/10/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 539/99
+
+de 13 de Dezembro
+
+O [Decreto-Lei n.º 200/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), de 10 de Julho, aprovou o Regulamento do Sistema Tarifário dos Portos Nacionais, no âmbito da reforma global da regulamentação das actividades portuárias.
+
+Este novo regime tarifário consagrou, expressamente, a revogação do [Decreto-Lei n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1997-533047), de 16 de Janeiro, que criou a taxa de farolagem e balizagem num contexto amplo de ajudas à navegação, no pressuposto que o serviço prestado fosse da responsabilidade das autoridades portuárias.
+
+Da análise e desenvolvimento do sistema criado verificou-se que a taxa de balizagem e de farolagem para os navios que demandem os portos nacionais deveria continuar a ser a contraprestação dos serviços prestados pelo Sistema de Autoridade Marítima (SAM) naquele âmbito.
+
+Por forma que os beneficiários das prestações suportem os custos do assinalamento marítimo da responsabilidade do SAM, torna-se, assim, necessário ajustar o diploma em apreço e promover a sua correcta articulação à manutenção em vigor do [Decreto-Lei n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1997-533047), de 16 de Janeiro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+O artigo 3.º do [Decreto-Lei n.º 200/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), de 10 de Julho, passa a ter a seguinte redacção:
+
+«Artigo 3.º
+
+Com a entrada em vigor dos regulamentos a que se refere o n.º 2 do artigo anterior, são revogados os seguintes diplomas:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) [Anterior alínea f).]
+
+f) [Anterior alínea g).]
+
+g) [Anterior alínea h).]
+
+h) [Anterior alínea i).]
+
+i) [Anterior alínea j).]
+
+j) [Anterior alínea l).]
+
+k) [Anterior alínea m).]
+
+l) [Anterior alínea n).]
+
+m) [Anterior alínea o).]
+
+n) [Anterior alínea p).]
+
+o) [Anterior alínea q).]
+
+p) [Anterior alínea r).]
+
+q) [Anterior alínea s).]
+
+r) [Anterior alínea t).]
+
+s) [Anterior alínea u).]
+
+t) [Anterior alínea v).]
+
+u) [Anterior alínea x).]
+
+v) e x) [Anterior alínea z).]
+
+w) e z) [Anterior alínea aa).]
+
+aa) [Anterior alínea bb).]
+
+bb) [Anterior alínea cc).]»
+
+###### Artigo 2.º
+
+Os artigos 13.º, 22.º e 51.º do anexo ao [Decreto-Lei n.º 200/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), de 10 de Julho, passam a ter a seguinte redacção:
+
+«Artigo 13.º
+
+Definição
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Ajudas à navegação, com excepção do serviço de assinalamento marítimo que o Estado, através do Sistema da Autoridade Marítima (SAM), presta a embarcações nacionais e estrangeiras nas áreas sob jurisdição marítima nacional;
+
+f) ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+4 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+###### Artigo 22.º — Definição
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Ajudas à navegação, com excepção do serviço de assinalamento marítimo que o Estado, através do Sistema da Autoridade Marítima (SAM), presta a embarcações nacionais e estrangeiras, nas áreas sob jurisdição marítima nacional;
+
+f) ...
+
+5 - ...
+
+6 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+###### Artigo 51.º — Definição
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) Outros serviços administrativos e técnicos prestados ao navio de acordo com a legislação em vigor, nomeadamente o serviço de assinalamento marítimo afecto ao SAM (Sistema de Autoridade Marítima).
+
+3 - ...
+
+a) ...
+
+b) ...»
+
+###### Artigo 3.º
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina.
+
+**Promulgado em 23 de Novembro de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 25 de Novembro de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

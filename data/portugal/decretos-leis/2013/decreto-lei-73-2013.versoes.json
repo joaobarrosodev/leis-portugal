@@ -1,0 +1,1036 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:513609:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-67657063",
+ "dre_path": "/dr/detalhe/decreto-lei/73-2013-513609",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-05-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "121876414",
+    "67647353",
+    "67647354",
+    "67647355",
+    "67647356",
+    "67647357",
+    "67647358",
+    "67647359",
+    "67647360",
+    "67647361",
+    "67647362",
+    "67647363",
+    "67647364",
+    "67647365",
+    "67647366",
+    "67647367",
+    "67647368",
+    "67647369",
+    "67647370",
+    "67647371",
+    "67647372",
+    "67647373",
+    "67647374",
+    "67661075",
+    "67661076",
+    "67661077",
+    "67661078",
+    "67661079",
+    "67661080",
+    "67661081",
+    "67661082",
+    "67661083",
+    "67661084",
+    "67661085",
+    "67661086",
+    "67661087"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58683383:por",
+     "title": "Decreto-Lei n.º 163/2014",
+     "published": "2014-10-31",
+     "dre_path": "/dr/detalhe/decreto-lei/163-2014-58683383"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 31.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Anexo",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "67647352",
+    "67647353",
+    "67661151",
+    "67647355",
+    "67647356",
+    "67647357",
+    "67647358",
+    "67661152",
+    "67661153",
+    "67647361",
+    "67647362",
+    "67661156",
+    "67661154",
+    "67647365",
+    "67661155",
+    "67661157",
+    "67647368",
+    "67647369",
+    "67647370",
+    "67647371",
+    "67647372",
+    "67647373",
+    "67647374",
+    "67661075",
+    "67661076",
+    "67661077",
+    "67661078",
+    "67661079",
+    "67661080",
+    "67661081",
+    "67661082",
+    "67661083",
+    "67661144",
+    "67661145",
+    "67661146",
+    "67661147",
+    "67661148",
+    "67661150"
+   ]
+  },
+  {
+   "date": "2016-05-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74526740:por",
+     "title": "Decreto-Lei n.º 21/2016",
+     "published": "2016-05-24",
+     "dre_path": "/dr/detalhe/decreto-lei/21-2016-74526740"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "67647352",
+    "67647353",
+    "67661151",
+    "67647355",
+    "67647356",
+    "67647357",
+    "67647358",
+    "67661152",
+    "67661153",
+    "67647361",
+    "67647362",
+    "67661156",
+    "67661154",
+    "67647365",
+    "67661155",
+    "67661157",
+    "67647368",
+    "67647369",
+    "67647370",
+    "67647371",
+    "67647372",
+    "67647373",
+    "67647374",
+    "67661075",
+    "67661076",
+    "67661077",
+    "67661078",
+    "67661079",
+    "67661080",
+    "67661081",
+    "74450373",
+    "67661083",
+    "67661144",
+    "67661145",
+    "67661146",
+    "67661147",
+    "67661148",
+    "67661150"
+   ]
+  },
+  {
+   "date": "2019-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:121748967:por",
+     "title": "Decreto-Lei n.º 45/2019",
+     "published": "2019-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/45-2019-121748967"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "121876414",
+    "121876415",
+    "121876416",
+    "121876417",
+    "121876418",
+    "121876419",
+    "121876420",
+    "121876421",
+    "121876422",
+    "121876423",
+    "121876424",
+    "121876425",
+    "121876426",
+    "121876427",
+    "121876428",
+    "121876429",
+    "121876430",
+    "121876431",
+    "121876432",
+    "121876433",
+    "121876434",
+    "121876435",
+    "121876436",
+    "121876437",
+    "121876438",
+    "121876439",
+    "121876440",
+    "121876441",
+    "121876442",
+    "121876443",
+    "121876444",
+    "121876445",
+    "121876446",
+    "121876447",
+    "121876448",
+    "121876449",
+    "121876450",
+    "121876451"
+   ]
+  }
+ ],
+ "fragments": {
+  "121876414": {
+   "fragment_id": "67657064",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-04-02",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 73/2013\n\nde 31 de maio\n\nO modelo de organização da Autoridade Nacional de Proteção Civil (ANPC), definido pelo Decreto-Lei n.º 75/2007, de 29 de março, alterado pelo Decreto-Lei n.º 73/2012, de 26 de março, tem-se demonstrado, na sua generalidade, adequado para assegurar as suas missões e atribuições.\n\nNão obstante, importa introduzir alguns ajustamentos orgânicos por forma a garantir uma maior eficiência e eficácia dos diferentes serviços que compõem esta organização, adequando a sua estrutura às necessidades atuais.\n\nImporta, assim, dotar a ANPC de uma estrutura orgânica mais flexível, menos burocrática e com processos de decisão mais expeditos, libertando recursos que podem ser alocados às diversas áreas de atuação da ANPC, permitindo uma resposta aos desafios diários e assegurando uma gestão mais eficiente de acidentes graves e catástrofes, tendo em vista a prevenção dos mesmos.\n\nCom a entrada em vigor do presente decreto-lei, a estrutura base do modelo de organização é, desde logo, alterada com a introdução de uma nova direção nacional dedicada à gestão dos meios aéreos, integrando competências da EMA - Empresa de Meios Aéreos, S.A., no que concerne à gestão do dispositivo de meios aéreos permanente e sazonal para a prossecução das missões públicas atribuídas ao Ministério da Administração Interna, em resultado do processo de extinção daquela empresa.\n\nAo nível da estrutura operacional, evolui-se de um modelo de lógica distrital para uma organização apoiada numa lógica supra distrital, concebendo 5 novos agrupamentos de distritos, que refletem a criação de um modelo mais ajustado à realidade territorial e facilitador de uma operacionalidade mais eficiente, progredindo desta forma, para uma conceção que ultrapassa a divisão administrativa assente em 18 comandos distritais.\n\nPor último, por forma a garantir um controlo mais rigoroso das atividades da ANPC reforçam-se igualmente as competências de fiscalização e de auditoria interna.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967) Até à entrada em funcionamento das estruturas operacionais referidas no artigo 38.º do Decreto-Lei n.º 45/2019, de 1 de abril mantêm-se as previstas nos artigos 18.º e 20.º do Decreto-Lei n.º 73/2013, de 31 de maio, na sua redação atual, aplicando-se-lhe o regime aí previsto, com as necessárias adaptações. Até à aprovação da portaria a que se refere o artigo 21.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, mantém-se a estrutura nuclear estabelecida no âmbito do Decreto-Lei n.º 73/2013, de 31 de maio, na sua redação atual."
+  },
+  "67647353": {
+   "fragment_id": "67657065",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Autoridade Nacional de Proteção Civil, abreviadamente designada por ANPC, é um serviço central, da administração direta do Estado, dotado de autonomia administrativa e financeira e património próprio."
+  },
+  "67647354": {
+   "fragment_id": "67657066",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A ANPC tem por missão planear, coordenar e executar a política de proteção civil, designadamente na prevenção e reação a acidentes graves e catástrofes, de proteção e socorro de populações e de superintendência da atividade dos bombeiros, bem como assegurar o planeamento e coordenação das necessidades nacionais na área do planeamento civil de emergência com vista a fazer face a situações de crise ou de guerra.\n\n2 - A ANPC prossegue as seguintes atribuições no âmbito da previsão e gestão de risco e planeamento de emergência:\n\na) Assegurar a atividade de planeamento civil de emergência para fazer face, em particular, a situações de acidente grave, catástrofe, crise ou guerra;\n\nb) Contribuir para a definição da política nacional de planeamento civil de emergência, designadamente através da elaboração de diretrizes gerais, promoção da elaboração de estudos e planos de emergência, e prestação de apoio técnico e emissão de parecer sobre a sua elaboração por entidades setoriais;\n\nc) Promover o levantamento, previsão, análise e avaliação dos riscos coletivos de origem natural ou tecnológica e o estudo, normalização e aplicação de técnicas adequadas de prevenção e socorro;\n\nd) Organizar um sistema nacional de alerta e aviso;\n\ne) Proceder à regulamentação, licenciamento e fiscalização no âmbito da segurança contra incêndios;\n\nf) Assegurar a articulação dos serviços públicos ou privados que devam desempenhar missões relacionadas com o planeamento civil de emergência, a fim de que, em situação de acidente grave, catástrofe, crise ou guerra, se garanta a continuidade da ação governativa, a proteção das populações e a salvaguarda do património nacional.\n\n3 - A ANPC prossegue as seguintes atribuições no âmbito da atividade de proteção e socorro:\n\na) Garantir a continuidade orgânica e territorial do sistema de comando de operações de socorro;\n\nb) Acompanhar todas as operações de proteção e socorro, nos âmbitos local e regional autónomo, prevendo a necessidade de intervenção de meios complementares;\n\nc) Planear e garantir a utilização, nos termos da lei, dos meios públicos e privados disponíveis para fazer face a situações de acidente grave e catástrofe;\n\nd) Garantir a disponibilidade dos meios aéreos necessários ao desempenho das atribuições cometidas ao Ministério da Administração Interna;\n\ne) Assegurar a coordenação horizontal de todos os agentes de proteção civil e as demais estruturas e serviços públicos com intervenção ou responsabilidades de proteção e socorro.\n\n4 - A ANPC prossegue as seguintes atribuições no âmbito das atividades dos bombeiros:\n\na) Orientar, coordenar e fiscalizar a atividade dos corpos de bombeiros;\n\nb) Promover e incentivar a participação das populações no voluntariado e todas as formas de auxílio na missão das associações humanitárias de bombeiros e dos corpos de bombeiros;\n\nc) Assegurar a realização de formação dos bombeiros portugueses e promover o aperfeiçoamento operacional do pessoal dos corpos de bombeiros;\n\nd) Assegurar a prevenção sanitária, a higiene e a segurança do pessoal dos corpos de bombeiros bem como a investigação de acidentes em ações de socorro.\n\n5 - A ANPC prossegue as seguintes atribuições no âmbito dos recursos de proteção civil:\n\na) Contribuir para a requalificação, reequipamento e reabilitação dos equipamentos e infraestruturas dos corpos de bombeiros;\n\nb) Apoiar as atividades das Associações Humanitárias de Bombeiros, da Escola Nacional de Bombeiros e de outras entidades que desenvolvem a sua atividade no âmbito da proteção e socorro, nomeadamente através de transferências, no limite de dotações inscritas no seu orçamento;\n\nc) Garantir a administração e a manutenção da infraestrutura das redes de telecomunicações de emergência em exploração pela ANPC e pelos corpos de bombeiros, sem prejuízo das atribuições da Direção-Geral de Infraestruturas e Equipamentos (DGIE) do Ministério da Administração Interna;\n\nd) Assegurar os meios necessários às operações de proteção e socorro;\n\ne) Garantir a operacionalidade das forças especiais de bombeiros.\n\n6 - A ANPC tem ainda por missão promover a aplicação e fiscalizar o cumprimento das leis, regulamentos, normas e requisitos técnicos aplicáveis no âmbito das suas atribuições."
+  },
+  "67647355": {
+   "fragment_id": "67657067",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito territorial\n\nAs atribuições da ANPC são prosseguidas em todo o território nacional, sem prejuízo das competências próprias dos órgãos relevantes das regiões autónomas e das autarquias locais."
+  },
+  "67647356": {
+   "fragment_id": "67657068",
+   "type": 11,
+   "heading": "Artigo 4.º — Colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Colaboração com outras entidades\n\n1 - Para a prossecução das suas atribuições, a ANPC pode estabelecer parcerias com outras entidades do sector público ou privado, com ou sem fins lucrativos, designadamente universidades e instituições ou serviços integrados no sistema de proteção civil, incluindo a concessão de subsídios, nos termos da lei.\n\n2 - A ANPC participa na execução da política de cooperação internacional do Estado Português, no domínio da proteção civil, e de acordo com as orientações estabelecidas.\n\n3 - A ANPC pode, ainda, precedendo autorização do membro do Governo responsável pela área da administração interna, participar em missões de auxílio externo."
+  },
+  "67647357": {
+   "fragment_id": "67657069",
+   "type": 11,
+   "heading": "Artigo 5.º — Dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dever de cooperação\n\n1 - Os cidadãos e demais entidades privadas, nas pessoas dos respetivos representantes, devem prestar à ANPC a cooperação que justificadamente lhes for solicitada.\n\n2 - Têm o dever especial de colaborar com a ANPC:\n\na) Os trabalhadores em funções públicas e das pessoas coletivas de direito público, bem como os membros dos órgãos de gestão das empresas públicas;\n\nb) Os responsáveis pela administração, direção ou chefia de empresas privadas cuja laboração, pela natureza da sua atividade, esteja sujeita a qualquer forma específica de licenciamento da ANPC;\n\nc) Os agentes de proteção civil;\n\nd) Os serviços regionais e municipais de proteção civil;\n\ne) A Cruz Vermelha Portuguesa;\n\nf) As associações humanitárias de bombeiros;\n\ng) Os serviços de segurança;\n\nh) As instituições de segurança social;\n\ni) As instituições com fins de socorro e de solidariedade;\n\nj) Os organismos responsáveis pelas florestas, conservação da natureza, indústria, energia, transportes, comunicações, recursos hídricos, meteorologia, geofísica, agricultura, mar, alimentação, ambiente e ciberespaço;\n\nk) Os serviços de segurança e socorro privativos das empresas públicas e privadas, dos portos e aeroportos.\n\n3 - A violação do dever especial previsto no número anterior implica responsabilidade civil, criminal e disciplinar, nos termos da lei.\n\n4 - A desobediência e a resistência às ordens legítimas da ANPC, quando praticadas em situação de alerta, contingência ou calamidade, são sancionadas de acordo com o regime previsto no artigo 6.º da Lei n.º 27/2006, de 3 de julho, alterada pela Lei Orgânica n.º 1/2011, de 30 de novembro."
+  },
+  "67647358": {
+   "fragment_id": "67657070",
+   "type": 11,
+   "heading": "Artigo 6.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Poderes de autoridade\n\n1 - Os trabalhadores da ANPC que desempenhem funções de fiscalização são detentores dos decorrentes poderes de autoridade e, no exercício dessas funções, gozam das seguintes prerrogativas:\n\na) Aceder e fiscalizar, a qualquer hora e sem necessidade de aviso prévio, as instalações, equipamentos e serviços das entidades sujeitas a inspeção, controlo ou fiscalização da ANPC;\n\nb) Requisitar para análise equipamentos e documentos;\n\nc) Determinar, a título preventivo, e com efeitos imediatos, mediante ordem escrita e fundamentada, a suspensão ou cessação de atividades e encerramento de instalações, quando da não aplicação dessas medidas possa resultar risco iminente para a segurança das pessoas e bens;\n\nd) Identificar as pessoas que se encontrem em violação flagrante das normas cuja observância lhes compete fiscalizar, no caso de não ser possível o recurso a autoridade policial em tempo útil;\n\ne) Solicitar a colaboração das autoridades administrativas e policiais para impor o cumprimento de normas e determinações que por razões de segurança devem ter execução imediata no âmbito de atos de gestão pública;\n\nf) Determinar, a título preventivo e com efeitos imediatos, até ser proferida decisão sobre a aplicação das medidas previstas nos n.os 5 e 9 do artigo 4.º do Decreto-Lei n.º 247/2007, de 27 de junho, alterado pelo Decreto-Lei n.º 248/2012, de 21 de novembro, o encerramento de instalações de um corpo de bombeiros e a proibição da circulação dos respetivos veículos, bem como a cessação ou suspensão, geral ou parcial, da sua atividade.\n\n2 - O disposto nas alíneas a), b) e e) do número anterior é aplicável às entidades credenciadas pela ANPC para o exercício de funções de fiscalização.\n\n3 - Da suspensão, cessação ou encerramento a que se refere a alínea c) do n.º 1 é lavrado auto de notícia, o qual é objeto de confirmação pelo presidente da ANPC no prazo máximo de 15 dias, sob pena de caducidade da medida preventiva determinada.\n\n4 - Os trabalhadores e entidades credenciados da ANPC, titulares das prerrogativas previstas no presente artigo, usam um documento de identificação próprio, de modelo a fixar por portaria do membro do Governo responsável pela área da administração interna, e devem exibi-lo quando no exercício das suas funções."
+  },
+  "67647359": {
+   "fragment_id": "67657071",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\n1 - A ANPC é dirigida por um presidente, coadjuvado por cinco diretores nacionais, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n2 - É ainda órgão da ANPC o Conselho Nacional de Bombeiros."
+  },
+  "67647360": {
+   "fragment_id": "67657072",
+   "type": 11,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presidente\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao presidente:\n\na) Promover e coordenar as atividades em matéria de planeamento civil de emergência, em estreita ligação com os serviços públicos competentes em cada sector;\n\nb) Superintender o sistema integrado de operações de proteção e socorro;\n\nc) Aconselhar o Governo em matéria de proteção civil e planeamento civil de emergência;\n\nd) Representar a ANPC judicial e extrajudicialmente, bem como nos organismos internacionais de proteção civil e planeamento civil de emergência de que o Estado Português faça parte;\n\ne) Proceder, sempre que necessário, à articulação com o Ministério da Defesa Nacional, em matéria de planeamento civil de emergência a nível OTAN;\n\nf) Aprovar e homologar normas gerais vinculativas relativamente a uniformes, equipamento, material e procedimentos dos corpos de bombeiros, com vista à normalização técnica da respetiva atividade;\n\ng) Propor legislação de normalização de sistemas, equipamentos e procedimentos de proteção e socorro;\n\nh) Desempenhar, no que respeita aos meios aéreos, as funções de administrador responsável, nos termos do Regulamento n.º 2042/2003, da Comissão, de 20 de novembro de 2003.\n\n2 - Em caso de incumprimento das determinações da ANPC ou de infração das normas e requisitos técnicos aplicáveis às atividades sujeitas a licenciamento, autorização, certificação ou fiscalização da ANPC, pode o presidente da ANPC:\n\na) Suspender ou cancelar as licenças, autorizações e certificações concedidas, nos termos estabelecidos na respetiva regulamentação;\n\nb) Ordenar a cessação de atividades, a imobilização de equipamentos ou o encerramento de instalações até que deixe de se verificar a situação de incumprimento ou infração;\n\nc) Solicitar a colaboração das autoridades policiais para impor o cumprimento das normas e determinações que por razões de segurança devam ter execução imediata, no âmbito de atos de gestão pública;\n\nd) Aplicar as demais sanções previstas na lei.\n\n3 - A designação do presidente da ANPC é precedida de audição da Comissão Nacional de Proteção Civil.\n\n4 - O presidente aufere, como remuneração, o equivalente à remuneração mais elevada dos dirigentes dos organismos da administração central do Estado qualificados na lei como agentes de proteção civil.\n\n5 - O presidente é substituído, nas suas faltas e impedimentos, pelo diretor nacional que indique para o efeito."
+  },
+  "67647361": {
+   "fragment_id": "67657073",
+   "type": 11,
+   "heading": "Artigo 9.º — Diretores nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Diretores nacionais\n\n1 - Os diretores nacionais dirigem as direções nacionais e exercem as competências que lhe sejam delegadas ou subdelegadas pelo presidente.\n\n2 - Considera-se delegada nos diretores nacionais, a competência prevista para os cargos de direção superior de 1.º grau no âmbito da gestão dos recursos humanos e das instalações e equipamentos afetos a cada direção nacional."
+  },
+  "67647362": {
+   "fragment_id": "67657074",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho Nacional de Bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conselho Nacional de Bombeiros\n\n1 - O Conselho Nacional de Bombeiros, abreviadamente designado por Conselho, é um órgão consultivo do Governo e da ANPC em matéria de bombeiros.\n\n2 - O Conselho é presidido pelo membro do Governo responsável pela área da administração interna e tem a seguinte composição:\n\na) O presidente da ANPC, que substitui o presidente nas suas faltas e impedimentos;\n\nb) O diretor nacional de bombeiros da ANPC;\n\nc) O presidente do Instituto Nacional de Emergência Médica;\n\nd) O diretor-geral da Administração Local;\n\ne) O presidente da Escola Nacional de Bombeiros;\n\nf) O diretor do Instituto de Socorros a Náufragos;\n\ng) Um representante da Associação Nacional de Municípios Portugueses;\n\nh) Um representante da Associação Nacional de Freguesias;\n\ni) O presidente da Liga dos Bombeiros Portugueses;\n\nj) O presidente da Associação Nacional dos Bombeiros Profissionais.\n\n3 - O presidente, quando o considerar conveniente, pode convidar a participar nas reuniões do Conselho outras entidades com relevante interesse para as matérias em consulta.\n\n4 - Compete ao Conselho emitir parecer sobre:\n\na) Programas de apoio a atribuir a associações humanitárias de bombeiros e a corpos de bombeiros;\n\nb) Definição dos critérios gerais a observar nas ações de formação do pessoal dos corpos de bombeiros;\n\nc) Definição dos critérios gerais a observar na criação de novos corpos de bombeiros e respetivas secções, bem como da sua verificação em concreto;\n\nd) Definição das normas gerais a que deve obedecer a regulamentação interna dos corpos de bombeiros;\n\ne) Definição das normas a que deve obedecer o equipamento e material dos corpos de bombeiros, com vista à normalização técnica da respetiva atividade;\n\nf) Os projetos de diplomas relativos à definição e desenvolvimento dos princípios orientadores do sector;\n\ng) Outros assuntos, relacionados com a atividade dos bombeiros, quando solicitado pelo presidente.\n\n5 - O Conselho elabora o seu regulamento de funcionamento, que é sujeito à homologação do membro do Governo responsável pela área da administração interna."
+  },
+  "67647363": {
+   "fragment_id": "67660975",
+   "type": 11,
+   "heading": "Artigo 11.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tipo de organização interna\n\n1 - A organização interna da ANPC obedece ao modelo de estrutura hierarquizada e compreende:\n\na) A Direção nacional de planeamento de emergência;\n\nb) A Direção nacional de bombeiros;\n\nc) A Direção nacional de recursos de proteção civil;\n\nd) A Direção nacional de meios aéreos;\n\ne) A Direção nacional de auditoria e fiscalização.\n\n2 - Com vista a assegurar o comando operacional das operações de socorro e ainda o comando operacional integrado de todos os agentes de proteção civil no respeito pela sua autonomia própria, a organização interna da ANPC compreende ainda:\n\na) O comando nacional de operações de socorro;\n\nb) Os agrupamentos distritais de operações de socorro;\n\nc) Os comandos distritais de operações de socorro."
+  },
+  "67647364": {
+   "fragment_id": "67660976",
+   "type": 11,
+   "heading": "Artigo 12.º — Direção Nacional de Planeamento de Emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direção Nacional de Planeamento de Emergência\n\n1 - À Direção Nacional de Planeamento de Emergência, abreviadamente designada por DNPE, compete:\n\na) Contribuir para a definição da política nacional de planeamento civil de emergência e assegurar as atividades de planeamento civil de emergência;\n\nb) Promover a previsão e assegurar a monitorização e a avaliação dos riscos coletivos;\n\nc) Avaliar as vulnerabilidades perante situações de risco;\n\nd) Desenvolver e manter o sistema nacional de alerta e aviso;\n\ne) Assegurar o desenvolvimento e coordenação do planeamento civil de emergência;\n\nf) Elaborar as orientações técnicas adequadas de prevenção e socorro;\n\ng) Regular, licenciar e fiscalizar no âmbito da segurança contra incêndios.\n\n2 - Em matéria de planeamento civil de emergência, compete em especial à direção nacional de planeamento de emergência:\n\na) Elaborar diretrizes gerais para o planeamento civil de emergência com vista à satisfação das necessidades civis e militares;\n\nb) Contribuir para a elaboração das diretrizes para a adaptação dos serviços públicos às situações de crise ou às de tempo de guerra;\n\nc) Apreciar os planos que, no âmbito do planeamento civil de emergência, lhe sejam submetidos pelos serviços públicos competentes para o efeito, bem como por outras entidades;\n\nd) Aprovar previamente as informações e propostas a apresentar pelos representantes nacionais aos correspondentes comités do Comité do Planeamento Civil de Emergência da OTAN - Civil Emergency Planning Committee (CEPC);\n\ne) Identificar os serviços públicos ou privados que devam desempenhar missões relacionadas com o planeamento civil de emergência;\n\nf) Assegurar a execução das diretrizes e dos planos aprovados pelo Governo, requerendo as informações que julgue necessárias;\n\ng) Obter a colaboração dos serviços competentes, públicos ou privados, ou de especialistas, na elaboração de estudos e informações;\n\nh) Promover o esclarecimento das populações acerca dos problemas relacionados com o planeamento civil de emergência;\n\ni) Dar parecer ou informações sobre todos os assuntos que lhe forem submetidos pelo membro do Governo responsável pela área da administração interna;\n\nj) Fazer propostas para adequar a legislação por forma a responder a necessidades nacionais e aos compromissos assumidos no âmbito da OTAN;\n\nk) Cumprir as atribuições e competências fixadas na legislação relativa a normas de segurança.\n\n3 - Em matéria de planeamento civil de emergência, a nível OTAN, compete, em especial, à direção nacional de planeamento de emergência:\n\na) Apreciar os documentos e informações mais relevantes apresentados no CEPC;\n\nb) Cometer a realização de estudos aos serviços públicos competentes para o efeito;\n\nc) Fixar as normas de identificação e de preparação dos representantes e técnicos nacionais designados para as agências civis de tempo de guerra da OTAN;\n\nd) Garantir o cumprimento das normas de segurança emanadas da OTAN e da Autoridade Nacional de Segurança, nomeadamente o registo, controlo e distribuição da correspondência OTAN, a inspeção periódica dos Postos de Controlo OTAN, seus dependentes, bem como promover e verificar a credenciação dos cidadãos de nacionalidade portuguesa que, na área do planeamento civil de emergência, devam ter acesso a informação classificada;\n\ne) Coordenar a aplicação em Portugal da doutrina OTAN promulgada no âmbito do Comité de Proteção Civil - Civil Protection Group (CPC) - e respetivos grupos de trabalho;\n\nf) Definir a delegação nacional e assegurar a presença nas reuniões plenárias do CEPC."
+  },
+  "67647365": {
+   "fragment_id": "67660977",
+   "type": 11,
+   "heading": "Artigo 13.º — Direção Nacional de Bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direção Nacional de Bombeiros\n\nÀ Direção Nacional de Bombeiros, abreviadamente designada por DNB, compete:\n\na) Regular a atividade dos corpos de bombeiros;\n\nb) Assegurar o recenseamento dos bombeiros;\n\nc) Supervisionar a rede de infraestruturas e equipamentos dos corpos de bombeiros;\n\nd) Desenvolver, implementar e manter os programas de:\n\ni) Formação, instrução e treino operacional dos bombeiros;\n\nii) Prevenção e vigilância médico-sanitária dos bombeiros;\n\niii) Incentivo e participação das populações no voluntariado dos bombeiros."
+  },
+  "67647366": {
+   "fragment_id": "67660978",
+   "type": 11,
+   "heading": "Artigo 14.º — Direção Nacional de Recursos de Proteção Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direção Nacional de Recursos de Proteção Civil\n\nÀ Direção Nacional de Recursos de Proteção Civil, abreviadamente designada por DNRPC, compete:\n\na) Planear, organizar e gerir os recursos humanos da ANPC;\n\nb) Propor, desenvolver e coordenar a política de formação e de aperfeiçoamento dos trabalhadores da ANPC, em articulação com a Secretaria-Geral do Ministério da Administração Interna;\n\nc) Planear e gerir os recursos financeiros da ANPC;\n\nd) Garantir a implementação e o aperfeiçoamento do sistema de controlo interno;\n\ne) Administrar e assegurar a manutenção da rede informática e as bases de dados da ANPC, em articulação com a DGIE do Ministério da Administração Interna;\n\nf) Planear e gerir as redes e os equipamentos de telecomunicações, e outros recursos tecnológicos da ANPC, em articulação com a DGIE do Ministério da Administração Interna;\n\ng) Efetuar a aquisição de bens e a contratação de serviços, sem prejuízo das competências próprias da Secretaria-Geral do Ministério da Administração Interna;\n\nh) Assegurar a gestão:\n\ni) Documental e do arquivo da ANPC;\n\nii) Das instalações e equipamentos da ANPC, sem prejuízo das competências próprias da DGIE do Ministério da Administração Interna;\n\niii) Da frota automóvel da ANPC."
+  },
+  "67647367": {
+   "fragment_id": "67660979",
+   "type": 11,
+   "heading": "Artigo 15.º — Direção Nacional de Meios Aéreos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direção Nacional de Meios Aéreos\n\nÀ Direção Nacional de Meios Aéreos, abreviadamente designada por DNMA, compete:\n\na) Gerir de forma integrada o dispositivo permanente dos meios aéreos, por forma a garantir a disponibilidade dos meios aéreos necessários às entidades competentes para a prossecução das atribuições cometidas ao Ministério da Administração Interna;\n\nb) Assegurar a gestão da aeronavegabilidade e da qualidade;\n\nc) Assegurar o controlo e o acompanhamento da execução dos contratos de locação de meios aéreos, em coordenação com a DNRPC;\n\nd) Determinar, em colaboração com a DNRPC, os requisitos técnicos no âmbito da locação de meios aéreos necessários ao desempenho das suas competências."
+  },
+  "67647368": {
+   "fragment_id": "67660980",
+   "type": 11,
+   "heading": "Artigo 16.º — Direção Nacional de Auditoria e Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direção Nacional de Auditoria e Fiscalização\n\n1 - À Direção Nacional de Auditoria e Fiscalização, abreviadamente designada DNAF, compete:\n\na) Auditar os restantes serviços da ANPC;\n\nb) Fiscalizar os corpos de bombeiros;\n\nc) Realizar inquéritos e averiguações no âmbito dos acidentes e incidentes de proteção e socorro, sem prejuízo das competências do Gabinete de Prevenção e Investigação de Acidentes com Aeronaves;\n\nd) Instruir os processos de inquérito, disciplinares e de sindicância, determinados pelo presidente da ANPC;\n\ne) Auditar o sistema de controlo interno;\n\nf) Fiscalizar a utilização dos apoios financeiros concedidos pela ANPC;\n\ng) Realizar as ações de fiscalização do cumprimento das leis, regulamentos, normas e requisitos técnicos previstas na lei, determinadas pelo Presidente da ANPC.\n\n2 - Para os efeitos previstos no número anterior a DNAF tem competência para, diretamente ou através de pessoas ou entidades qualificadas, por si credenciadas, proceder aos necessários exames e verificações."
+  },
+  "67647369": {
+   "fragment_id": "67660981",
+   "type": 11,
+   "heading": "Artigo 17.º — Comando Nacional de Operações de Socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comando Nacional de Operações de Socorro\n\n1 - O Comando Nacional de Operações de Socorro, abreviadamente designado por CNOS, é dirigido pelo comandante operacional nacional, coadjuvado pelo 2.º comandante operacional nacional e por três adjuntos de operações nacionais.\n\n2 - O CNOS compreende a célula operacional de planeamento, operações, monitorização e avaliação do risco e informações, a célula operacional de logística e de comunicações e a célula operacional de gestão de meios aéreos, dirigidas por chefes de célula operacional.\n\n3 - As competências do CNOS e das respetivas células operacionais são as previstas no âmbito do sistema integrado de operações de proteção e socorro (SIOPS), aprovado pelo Decreto-Lei n.º 134/2006, de 25 de julho, alterado pelo Decreto-Lei n.º 114/2011, de 30 de novembro, e pelo Decreto-Lei n.º 72/2013, de 31 de maio, sem prejuízo de outras competências que lhe forem conferidas por lei.\n\n4 - O 2.º comandante operacional nacional, os adjuntos de operações nacionais e os chefes de células operacionais dependem hierarquicamente do comandante operacional nacional.\n\n5 - O comandante operacional nacional é equiparado, para efeitos remuneratórios, a cargo de direção superior de 2.º grau.\n\n6 - O 2.º comandante operacional nacional aufere, como remuneração, 95% da remuneração do comandante operacional nacional e os adjuntos de operações nacionais são equiparados, para efeitos remuneratórios, a cargo de direção intermédia de 1.º grau."
+  },
+  "67647370": {
+   "fragment_id": "67660982",
+   "type": 11,
+   "heading": "Artigo 18.º — Agrupamentos Distritais de Operações de Socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Agrupamentos Distritais de Operações de Socorro\n\n1 - Os Agrupamentos Distritais de Operações de Socorro são os seguintes:\n\na) Agrupamento distrital do norte, composto pelos distritos de Braga, Bragança, Porto, Viana do Castelo e Vila Real;\n\nb) Agrupamento distrital do centro norte, composto pelos distritos de Aveiro, Coimbra, Guarda e Viseu;\n\nc) Agrupamento distrital do centro sul, composto pelos distritos de Castelo Branco, Leiria, Portalegre e Santarém;\n\nd) Agrupamento distrital do sul, composto pelos distritos de Beja, Évora, Lisboa e Setúbal;\n\ne) Agrupamento distrital do Algarve composto pelo distrito de Faro.\n\n2 - Os agrupamentos distritais são dirigidos pelo comandante operacional de agrupamento distrital, abreviadamente designado por CADIS, cujas competências são as previstas no SIOPS, sem prejuízo de outras que lhes forem conferidas por lei.\n\n3 - Compete ainda ao CADIS assegurar a articulação operacional permanente com os comandantes operacionais distritais e com os 2ºs comandantes operacionais distritais no seu âmbito territorial.\n\n4 - O comandante operacional de agrupamento distrital depende hierarquicamente do comandante operacional nacional, sem prejuízo das dependências funcionais das Direções Nacionais da ANPC.\n\n5 - O comandante operacional de agrupamento distrital aufere, como remuneração, 95% da remuneração do comandante operacional nacional."
+  },
+  "67647371": {
+   "fragment_id": "67660983",
+   "type": 11,
+   "heading": "Artigo 19.º — Racionalização dos meios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Racionalização dos meios\n\nSem prejuízo do disposto no artigo anterior, a racionalização dos meios de proteção e socorro é efetuada ao nível das Áreas Metropolitanas e das Comunidades Intermunicipais."
+  },
+  "67647372": {
+   "fragment_id": "67660984",
+   "type": 11,
+   "heading": "Artigo 20.º — Comandos distritais de operações de socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comandos distritais de operações de socorro\n\n1 - Em cada distrito existe um comando distrital de operações de socorro, abreviadamente designado por CDOS, dirigido pelo comandante operacional distrital, coadjuvado pelo 2.º comandante operacional distrital.\n\n2 - As competências do CDOS são as previstas no SIOPS, sem prejuízo das competências que lhe forem conferidas por lei.\n\n3 - Compete ainda ao CDOS assegurar a articulação operacional permanente com os comandantes operacionais municipais.\n\n4 - O comandante operacional distrital depende hierarquicamente do comandante operacional de agrupamento distrital, sem prejuízo das dependências funcionais das Direções Nacionais da ANPC.\n\n5 - O 2.º comandante operacional distrital depende hierarquicamente do comandante operacional distrital.\n\n6 - O comandante operacional distrital é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 1.º grau.\n\n7 - O 2.º comandante operacional distrital é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau."
+  },
+  "67647373": {
+   "fragment_id": "67660985",
+   "type": 11,
+   "heading": "Artigo 21.º — Salas de Operações e Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Salas de Operações e Comunicações\n\nNo comando nacional de operações de socorro e nos comandos distritais de operações de socorro funcionam salas de operações e comunicações dotadas de operadores de telecomunicações."
+  },
+  "67647374": {
+   "fragment_id": "67660986",
+   "type": 11,
+   "heading": "Artigo 22.º — Recrutamento no âmbito do SIOPS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Recrutamento no âmbito do SIOPS\n\n1 - O recrutamento do comandante operacional nacional e do 2.º comandante operacional nacional, dos adjuntos operacionais nacionais, dos comandantes operacionais de agrupamento distrital, dos comandantes operacionais distritais, dos 2.os comandantes operacionais distritais é feito de entre indivíduos, com ou sem relação jurídica de emprego público, que possuam licenciatura e experiência funcional adequadas ao exercício daquelas funções.\n\n2 - O comandante operacional nacional, o 2.º comandante operacional nacional e os comandantes operacionais de agrupamento distrital são designados, em comissão de serviço, por despacho do membro do Governo responsável pela área da administração interna, sob proposta do presidente da ANPC.\n\n3 - Os adjuntos operacionais nacionais, os comandantes operacionais distritais e os 2.os comandantes operacionais distritais são designados, em comissão de serviço, pelo presidente da ANPC, sob proposta do comandante operacional nacional.\n\n4 - O despacho de designação é publicado no Diário da República acompanhado de nota relativa ao currículo académico e profissional do designado."
+  },
+  "67661075": {
+   "fragment_id": "67660987",
+   "type": 11,
+   "heading": "Artigo 23.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Receitas\n\n1 - A ANPC dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A ANPC dispõe ainda das seguintes receitas próprias:\n\na) As importâncias das coimas aplicadas, dentro dos limites legalmente admissíveis;\n\nb) Os subsídios e comparticipações atribuídos por entidades públicas e privadas, nacionais ou estrangeiras;\n\nc) Subvenções, quotizações, doações, heranças ou legados de entidades e respetivos rendimentos;\n\nd) O produto da venda de publicações;\n\ne) Os rendimentos de bens patrimoniais;\n\nf) A remuneração dos serviços prestados, nomeadamente estudos, pareceres, palestras, preleções e conferências sobre temas de proteção civil e socorro;\n\ng) As percentagens legalmente atribuídas sobre os prémios de seguro;\n\nh) As taxas cobradas no âmbito do regime jurídico da segurança contra incêndio em edifícios;\n\ni) O produto das coimas nas percentagens legalmente atribuídas e custas dos processos de contraordenação por si instaurados e instruídos ou concluídos, nos termos da legislação aplicável;\n\nj) Quaisquer outras receitas que lhe sejam atribuídas por lei, regulamento, contrato ou outro título.\n\n3 - A cobrança, o depósito e o controlo das receitas são feitos nos termos da legislação aplicável aos serviços e fundos autónomos."
+  },
+  "67661076": {
+   "fragment_id": "67660988",
+   "type": 11,
+   "heading": "Artigo 24.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Despesas\n\nConstituem despesas da ANPC as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "67661077": {
+   "fragment_id": "67660989",
+   "type": 11,
+   "heading": "Artigo 25.º — Isenção de portagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Isenção de portagem\n\nAs viaturas da ANPC, devidamente identificadas e cuja utilização se destine a ações de emergência, estão isentas do pagamento de qualquer taxa em pontes e autoestradas."
+  },
+  "67661078": {
+   "fragment_id": "67660990",
+   "type": 11,
+   "heading": "Artigo 26.º — Mapa de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Mapa de cargos de direção\n\nOs lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "67661079": {
+   "fragment_id": "67660991",
+   "type": 11,
+   "heading": "Artigo 27.º — Meios aéreos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Meios aéreos\n\n1 - Para a prossecução das competências em matéria de gestão de meios aéreos, podem ser designados pelo membro do Governo responsável pela área da administração interna, em regime de comissão de serviço, mediante proposta do presidente da ANPC, e obtido parecer prévio favorável do Instituto Nacional de Aviação Civil, I.P., um responsável pelo sistema de gestão da continuidade da aeronavegabilidade e um gestor do sistema de qualidade, respetivamente, para o exercício das funções previstas no Regulamento n.º 2042/2003, da Comissão, de 20 de novembro de 2003, a recrutar nos termos do Regulamento do INAC n.º 831/2010, publicado no Diário da República, 2.ª série, de 8 de novembro.\n\n2 - A comissão de serviço referida no número anterior tem a duração de três anos, podendo ser renovada por igual período de tempo até ao limite máximo de duas renovações.\n\n3 - Os trabalhadores referidos no n.º 1 são remunerados de acordo com os níveis da tabela remuneratória única, correspondendo ao:\n\na) Nível 70, o exercício das funções de responsável pelo sistema de gestão da continuidade da aeronavegabilidade;\n\nb) Nível 30, o exercício das funções de gestor do sistema de qualidade.\n\n4 - Os trabalhadores exercem funções em regime de isenção de horário de trabalho, não lhes sendo devida qualquer remuneração adicional."
+  },
+  "67661080": {
+   "fragment_id": "67660992",
+   "type": 11,
+   "heading": "Artigo 28.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Fiscalização\n\n1 - Para a prossecução das competências referidas nas alíneas b) a d), f) e g) do n.º 1 do artigo 16.º, podem ser designados pelo membro do Governo responsável pela área da administração interna, em regime de comissão de serviço, mediante proposta do presidente da ANPC, e até ao limite máximo de seis, trabalhadores para exercer funções de fiscalização, a recrutar de entre licenciados, com experiência profissional relevante de pelo menos cinco anos nas áreas de segurança contra incêndios em edifícios, gestão de recursos de proteção civil ou gestão de acidentes e incidentes de proteção e socorro.\n\n2 - A comissão de serviço prevista no número anterior tem a duração de três anos, podendo ser renovada por igual período de tempo até ao limite máximo de duas renovações.\n\n3 - Os trabalhadores são remunerados pelo nível 42 da tabela remuneratória única.\n\n4 - Os trabalhadores exercem funções em regime de isenção de horário de trabalho, não lhes sendo devida qualquer remuneração adicional."
+  },
+  "67661081": {
+   "fragment_id": "67660993",
+   "type": 11,
+   "heading": "Artigo 29.º — Dever de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Dever de disponibilidade\n\n1 - O exercício de funções na ANPC é de total disponibilidade, não podendo os trabalhadores, salvo motivo excecional devidamente justificado, deixar de comparecer ou permanecer no serviço em caso de iminência ou ocorrência de acidente grave e catástrofe.\n\n2 - A inobservância do dever previsto no número anterior implica responsabilidade disciplinar nos termos da lei."
+  },
+  "67661082": {
+   "fragment_id": "67660994",
+   "type": 11,
+   "heading": "Artigo 30.º — Recrutamento excecional transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Recrutamento excecional transitório\n\nTransitoriamente, pelo período de 3 anos após a entrada em vigor do presente decreto-lei, podem ser nomeados a título excecional, para as funções a que se reporta o artigo 22.º, aqueles que possuam uma das seguintes condições:\n\na) Serem ou terem sido comandantes, 2.os comandantes ou adjuntos de comando de corpos de bombeiros com, pelo menos, cinco anos de serviço efetivo nas respetivas funções e habilitados com o 12.º ano de escolaridade;\n\nb) Serem ou terem sido chefes de corpos de bombeiros municipais ou de bombeiros-sapadores com, pelo menos, cinco anos de serviço nas respetivas funções e habilitados com o 12.º ano de escolaridade;\n\nc) Exercerem ou terem exercido cargos dirigentes, funções de inspeção, de coordenação do centro nacional de operações de socorro, de coordenação dos centros distritais de operações de socorro, de comandante ou 2.º comandante operacional nacional, de comandante ou 2.º comandante operacional distrital, de adjunto de operações nacional, de adjunto de operações distrital ou de chefe de operações em centros operacionais de âmbito nacional, durante mais de cinco anos, podendo estes ser cumulativos."
+  },
+  "67661083": {
+   "fragment_id": "67660995",
+   "type": 11,
+   "heading": "Artigo 31.º — Forças especiais de bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Forças especiais de bombeiros\n\nPodem ser criadas forças especiais de bombeiros por diploma próprio, o qual define o seu regime jurídico."
+  },
+  "67661084": {
+   "fragment_id": "67660996",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\nSão revogados:\n\na) Os n.os 2 e 3 do artigo 9.º, os n.os 5 e 6 do artigo 29.º e os artigos 42.º, 43.º e 49.º-A do Decreto-Lei n.º 49/2003, de 25 de março, alterado pelos Decretos-Leis n.os 97/2005, de 16 de junho, 21/2006, de 2 de fevereiro, e 123/2008, de 15 de junho;\n\nb) O Decreto-Lei n.º 97/2005, de 16 de junho;\n\nc) O Decreto-Lei n.º 21/2006, de 2 de fevereiro;\n\nd) O Decreto-Lei n.º 75/2007, de 29 de março, alterado pelo Decreto-Lei n.º 73/2012, de 26 de março, com exceção do artigo 22.º;\n\ne) O Decreto-Lei n.º 123/2008, de 15 de junho."
+  },
+  "67661085": {
+   "fragment_id": "67660997",
+   "type": 11,
+   "heading": "Artigo 33.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Produção de efeitos\n\nO disposto na alínea d) do n.º 3 do artigo 2.º no que respeita à gestão de meios aéreos próprios do Estado necessários à prossecução das missões do Ministério da Administração Interna, na alínea d) do n.º 1 do artigo 11.º e no artigo 15.º, produz efeitos à data da extinção da EMA - Empresa de Meios Aéreos, S.A."
+  },
+  "67661086": {
+   "fragment_id": "67660998",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "67661087": {
+   "fragment_id": "67660999",
+   "type": 14,
+   "heading": "Anexo — Mapa de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa de cargos de direção\n\n(a que se refere o artigo 26.º)\n\n(ver documento original)"
+  },
+  "67647352": {
+   "fragment_id": "67657064",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 73/2013\n\nde 31 de maio\n\nO modelo de organização da Autoridade Nacional de Proteção Civil (ANPC), definido pelo Decreto-Lei n.º 75/2007, de 29 de março, alterado pelo Decreto-Lei n.º 73/2012, de 26 de março, tem-se demonstrado, na sua generalidade, adequado para assegurar as suas missões e atribuições.\n\nNão obstante, importa introduzir alguns ajustamentos orgânicos por forma a garantir uma maior eficiência e eficácia dos diferentes serviços que compõem esta organização, adequando a sua estrutura às necessidades atuais.\n\nImporta, assim, dotar a ANPC de uma estrutura orgânica mais flexível, menos burocrática e com processos de decisão mais expeditos, libertando recursos que podem ser alocados às diversas áreas de atuação da ANPC, permitindo uma resposta aos desafios diários e assegurando uma gestão mais eficiente de acidentes graves e catástrofes, tendo em vista a prevenção dos mesmos.\n\nCom a entrada em vigor do presente decreto-lei, a estrutura base do modelo de organização é, desde logo, alterada com a introdução de uma nova direção nacional dedicada à gestão dos meios aéreos, integrando competências da EMA - Empresa de Meios Aéreos, S.A., no que concerne à gestão do dispositivo de meios aéreos permanente e sazonal para a prossecução das missões públicas atribuídas ao Ministério da Administração Interna, em resultado do processo de extinção daquela empresa.\n\nAo nível da estrutura operacional, evolui-se de um modelo de lógica distrital para uma organização apoiada numa lógica supra distrital, concebendo 5 novos agrupamentos de distritos, que refletem a criação de um modelo mais ajustado à realidade territorial e facilitador de uma operacionalidade mais eficiente, progredindo desta forma, para uma conceção que ultrapassa a divisão administrativa assente em 18 comandos distritais.\n\nPor último, por forma a garantir um controlo mais rigoroso das atividades da ANPC reforçam-se igualmente as competências de fiscalização e de auditoria interna.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "67661151": {
+   "fragment_id": "67657066",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A ANPC tem por missão planear, coordenar e executar a política de proteção civil, designadamente na prevenção e reação a acidentes graves e catástrofes, de proteção e socorro de populações e de superintendência da atividade dos bombeiros, bem como assegurar o planeamento e coordenação das necessidades nacionais na área do planeamento civil de emergência com vista a fazer face a situações de crise ou de guerra.\n\n2 - A ANPC prossegue as seguintes atribuições no âmbito da previsão e gestão de risco e planeamento de emergência:\n\na) Assegurar e apoiar a atividade de planeamento de emergência de proteção civil para fazer face, em particular, a situações de acidente grave ou catástrofe;\n\nb) Assegurar a atividade de planeamento civil de emergência para fazer face, em particular, a situações de crise ou guerra;\n\nc) Contribuir para a definição da política nacional de planeamento civil de emergência, em articulação com serviços públicos ou privados que desempenham missões relacionadas com esta atividade;\n\nd) Promover o levantamento, previsão, análise e avaliação dos riscos coletivos de origem natural ou tecnológica e o estudo, normalização e aplicação de técnicas adequadas de prevenção e socorro;\n\ne) Organizar um sistema nacional de alerta e aviso;\n\nf) Proceder à regulamentação e assegurar a implementação do regime jurídico da segurança contra incêndios em edifícios.\n\n3 - A ANPC prossegue as seguintes atribuições no âmbito da atividade de proteção e socorro:\n\na) Garantir a continuidade orgânica e territorial do sistema de comando de operações de socorro;\n\nb) Acompanhar todas as operações de proteção e socorro, nos âmbitos local e regional autónomo, prevendo a necessidade de intervenção de meios complementares;\n\nc) Planear e garantir a utilização, nos termos da lei, dos meios públicos e privados disponíveis para fazer face a situações de acidente grave e catástrofe;\n\nd) Garantir a disponibilidade dos meios aéreos necessários ao desempenho das atribuições cometidas ao Ministério da Administração Interna;\n\ne) Assegurar a coordenação horizontal de todos os agentes de proteção civil e as demais estruturas e serviços públicos com intervenção ou responsabilidades de proteção e socorro.\n\n4 - A ANPC prossegue as seguintes atribuições no âmbito das atividades dos bombeiros:\n\na) Orientar, coordenar e fiscalizar a atividade dos corpos de bombeiros;\n\nb) Promover e incentivar a participação das populações no voluntariado e todas as formas de auxílio na missão das associações humanitárias de bombeiros e dos corpos de bombeiros;\n\nc) Assegurar a realização de formação dos bombeiros portugueses e promover o aperfeiçoamento operacional do pessoal dos corpos de bombeiros;\n\nd) Assegurar a prevenção sanitária, a higiene e a segurança do pessoal dos corpos de bombeiros bem como a investigação de acidentes em ações de socorro.\n\n5 - A ANPC prossegue as seguintes atribuições no âmbito dos recursos de proteção civil:\n\na) Contribuir para a requalificação, reequipamento e reabilitação dos equipamentos e infraestruturas dos corpos de bombeiros;\n\nb) Apoiar as atividades das Associações Humanitárias de Bombeiros, da Escola Nacional de Bombeiros e de outras entidades que desenvolvem a sua atividade no âmbito da proteção e socorro, nomeadamente através de transferências, no limite de dotações inscritas no seu orçamento;\n\nc) Garantir a administração e a manutenção da infraestrutura das redes de telecomunicações de emergência em exploração pela ANPC e pelos corpos de bombeiros, sem prejuízo das atribuições da Secretaria-Geral do Ministério da Administração Interna;\n\nd) Assegurar os meios necessários às operações de proteção e socorro;\n\ne) Dotar as forças especiais de bombeiros dos meios e recursos necessários à sua operacionalidade.\n\n6 - A ANPC tem ainda por missão promover a aplicação e fiscalizar o cumprimento das leis, regulamentos, normas e requisitos técnicos aplicáveis no âmbito das suas atribuições.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "67661152": {
+   "fragment_id": "67657071",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Órgãos\n\n1 - A ANPC é dirigida por um presidente, coadjuvado por quatro diretores nacionais, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n2 - É ainda órgão da ANPC o Conselho Nacional de Bombeiros.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "67661153": {
+   "fragment_id": "67657072",
+   "type": 11,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 8.º — Presidente\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao presidente:\n\na) Promover e coordenar as atividades em matéria de planeamento civil de emergência, em estreita ligação com os serviços públicos competentes em cada sector, sem prejuízo da necessária coordenação com o Ministério da Defesa Nacional;\n\nb) Superintender o sistema integrado de operações de proteção e socorro;\n\nc) Aconselhar o Governo em matéria de proteção civil e planeamento civil de emergência;\n\nd) Representar a ANPC judicial e extrajudicialmente, bem como nos organismos internacionais de proteção civil e planeamento civil de emergência de que o Estado Português faça parte;\n\ne) Proceder, sempre que necessário, à articulação com o Ministério da Defesa Nacional, em matéria de planeamento civil de emergência a nível OTAN;\n\nf) Aprovar e homologar normas gerais vinculativas relativamente a uniformes, equipamento, material e procedimentos dos corpos de bombeiros, com vista à normalização técnica da respetiva atividade;\n\ng) Propor legislação de normalização de sistemas, equipamentos e procedimentos de proteção e socorro;\n\nh) Desempenhar, no que respeita aos meios aéreos, as funções de administrador responsável, nos termos do Regulamento n.º 2042/2003, da Comissão, de 20 de novembro de 2003.\n\ni) Gerir de forma integrada o dispositivo permanente dos meios aéreos, por forma a garantir a disponibilidade dos meios aéreos necessários às entidades competentes para a prossecução das atribuições cometidas ao Ministério da Administração Interna;\n\nj) Assegurar o funcionamento do sistema de gestão da continuidade da aeronavegabilidade e do sistema de qualidade;\n\nk) Assegurar o controlo e o acompanhamento da execução dos contratos de locação de meios aéreos;\n\nl) Determinar os requisitos técnicos no âmbito da locação de meios aéreos necessários ao desempenho das suas competências.\n\n2 - Em caso de incumprimento das determinações da ANPC ou de infração das normas e requisitos técnicos aplicáveis às atividades sujeitas a licenciamento, autorização, certificação ou fiscalização da ANPC, pode o presidente da ANPC:\n\na) Suspender ou cancelar as licenças, autorizações e certificações concedidas, nos termos estabelecidos na respetiva regulamentação;\n\nb) Ordenar a cessação de atividades, a imobilização de equipamentos ou o encerramento de instalações até que deixe de se verificar a situação de incumprimento ou infração;\n\nc) Solicitar a colaboração das autoridades policiais para impor o cumprimento das normas e determinações que por razões de segurança devam ter execução imediata, no âmbito de atos de gestão pública;\n\nd) Aplicar as demais sanções previstas na lei.\n\n3 - A designação do presidente da ANPC é precedida de audição da Comissão Nacional de Proteção Civil.\n\n4 - O presidente aufere, como remuneração, o equivalente à remuneração mais elevada dos dirigentes dos organismos da administração central do Estado qualificados na lei como agentes de proteção civil.\n\n5 - O presidente é substituído, nas suas faltas e impedimentos, pelo diretor nacional que indique para o efeito.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "67661156": {
+   "fragment_id": "67660975",
+   "type": 11,
+   "heading": "Artigo 11.º — Tipo de organização interna",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 11.º — Tipo de organização interna\n\n1 - A organização interna da ANPC obedece ao modelo de estrutura hierarquizada e compreende:\n\na) A Direção nacional de planeamento de emergência;\n\nb) A Direção nacional de bombeiros;\n\nc) A Direção nacional de recursos de proteção civil;\n\nd) (Revogada);\n\ne) A Direção nacional de auditoria e fiscalização.\n\n2 - Com vista a assegurar o comando operacional das operações de socorro e ainda o comando operacional integrado de todos os agentes de proteção civil no respeito pela sua autonomia própria, a organização interna da ANPC compreende ainda:\n\na) O comando nacional de operações de socorro;\n\nb) Os agrupamentos distritais de operações de socorro;\n\nc) Os comandos distritais de operações de socorro.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "67661154": {
+   "fragment_id": "67660976",
+   "type": 11,
+   "heading": "Artigo 12.º — Direção Nacional de Planeamento de Emergência",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 12.º — Direção Nacional de Planeamento de Emergência\n\n1 - À Direção Nacional de Planeamento de Emergência, abreviadamente designada por DNPE, compete:\n\na) Elaborar diretrizes gerais para o planeamento de emergência de proteção civil para situações de acidente grave ou catástrofe;\n\nb) Promover a previsão e assegurar a monitorização e a avaliação dos riscos coletivos;\n\nc) Avaliar as vulnerabilidades perante situações de risco;\n\nd) Desenvolver e manter o sistema nacional de alerta e aviso;\n\ne) Contribuir para a definição da política nacional de planeamento civil de emergência e assegurar o desenvolvimento e a coordenação das atividades de planeamento civil de emergência;\n\nf) Organizar o sistema nacional de alerta e aviso;\n\ng) Assegurar a regulamentação e a fiscalização no âmbito da segurança contra incêndios em edifícios.\n\n2 - Em matéria de planeamento civil de emergência, compete em especial à direção nacional de planeamento de emergência:\n\na) Elaborar diretrizes gerais para o planeamento civil de emergência com vista à satisfação das necessidades civis e militares;\n\nb) Contribuir para a elaboração das diretrizes para a adaptação dos serviços públicos às situações de crise ou às de tempo de guerra;\n\nc) Apreciar os planos que, no âmbito do planeamento civil de emergência, lhe sejam submetidos pelos serviços públicos competentes para o efeito, bem como por outras entidades;\n\nd) Aprovar previamente as informações e propostas a apresentar pelos representantes nacionais aos correspondentes comités do Comité do Planeamento Civil de Emergência da OTAN - Civil Emergency Planning Committee (CEPC);\n\ne) Identificar os serviços públicos ou privados que devam desempenhar missões relacionadas com o planeamento civil de emergência;\n\nf) Assegurar a execução das diretrizes e dos planos aprovados pelo Governo, requerendo as informações que julgue necessárias;\n\ng) Obter a colaboração dos serviços competentes, públicos ou privados, ou de especialistas, na elaboração de estudos e informações;\n\nh) Promover o esclarecimento das populações acerca dos problemas relacionados com o planeamento civil de emergência;\n\ni) Dar parecer ou informações sobre todos os assuntos que lhe forem submetidos pelo membro do Governo responsável pela área da administração interna;\n\nj) Fazer propostas para adequar a legislação por forma a responder a necessidades nacionais e aos compromissos assumidos no âmbito da OTAN;\n\nk) Cumprir as atribuições e competências fixadas na legislação relativa a normas de segurança.\n\n3 - Em matéria de planeamento civil de emergência, a nível OTAN, compete, em especial, à direção nacional de planeamento de emergência:\n\na) Apreciar os documentos e informações mais relevantes apresentados no CEPC;\n\nb) Cometer a realização de estudos aos serviços públicos competentes para o efeito;\n\nc) Fixar as normas de identificação e de preparação dos representantes e técnicos nacionais designados para as agências civis de tempo de guerra da OTAN;\n\nd) [Revogada];\n\ne) Coordenar a aplicação em Portugal da doutrina OTAN promulgada no âmbito do Comité de Proteção Civil - Civil Protection Group (CPC) - e respetivos grupos de trabalho;\n\nf) Definir a delegação nacional e assegurar a presença nas reuniões plenárias do CEPC.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "67661155": {
+   "fragment_id": "67660978",
+   "type": 11,
+   "heading": "Artigo 14.º — Direção Nacional de Recursos de Proteção Civil",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 14.º — Direção Nacional de Recursos de Proteção Civil\n\nÀ Direção Nacional de Recursos de Proteção Civil, abreviadamente designada por DNRPC, compete:\n\na) Planear, organizar e gerir os recursos humanos da ANPC;\n\nb) Propor, desenvolver e coordenar a política de formação e de aperfeiçoamento dos trabalhadores da ANPC, em articulação com a Secretaria-Geral do Ministério da Administração Interna;\n\nc) Planear e gerir os recursos financeiros da ANPC;\n\nd) Garantir a implementação e o aperfeiçoamento do sistema de controlo interno;\n\ne) Administrar e assegurar a manutenção da rede informática e as bases de dados da ANPC, em articulação com a Secretaria-Geral do Ministério da Administração Interna;\n\nf) Planear e gerir as redes e os equipamentos de telecomunicações, e outros recursos tecnológicos da ANPC, em articulação com a Secretaria-Geral do Ministério da Administração Interna;\n\ng) Efetuar a aquisição de bens e a contratação de serviços, sem prejuízo das competências próprias da Secretaria-Geral do Ministério da Administração Interna;\n\nh) Assegurar a gestão:\n\ni) Documental e do arquivo da ANPC;\n\nii) Das instalações e equipamentos da ANPC, sem prejuízo das competências próprias da Secretaria-Geral do Ministério da Administração Interna;\n\niii) Da frota automóvel da ANPC.\n\niv) Do funcionamento do Sub-registo da ANPC, através do cumprimento das normas de segurança emanadas da OTAN e da Autoridade Nacional de Segurança, nomeadamente o registo, o controlo e a distribuição da correspondência OTAN, a inspeção periódica dos postos de controlo OTAN, seus dependentes, bem como promover e verificar a credenciação dos cidadãos de nacionalidade portuguesa que, na área do planeamento civil de emergência, devam ter acesso a informação classificada.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "67661157": {
+   "fragment_id": "67660979",
+   "type": 11,
+   "heading": "Artigo 15.º — Direção Nacional de Meios Aéreos",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 15.º — Direção Nacional de Meios Aéreos\n\nÀ Direção Nacional de Meios Aéreos, abreviadamente designada por DNMA, compete:\n\na) Gerir de forma integrada o dispositivo permanente dos meios aéreos, por forma a garantir a disponibilidade dos meios aéreos necessários às entidades competentes para a prossecução das atribuições cometidas ao Ministério da Administração Interna;\n\nb) Assegurar a gestão da aeronavegabilidade e da qualidade;\n\nc) Assegurar o controlo e o acompanhamento da execução dos contratos de locação de meios aéreos, em coordenação com a DNRPC;\n\nd) Determinar, em colaboração com a DNRPC, os requisitos técnicos no âmbito da locação de meios aéreos necessários ao desempenho das suas competências.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "67661144": {
+   "fragment_id": "67661063",
+   "type": 11,
+   "heading": "Artigo 31.º-A — Continuidade da aeronavegabilidade",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 31.º-A — Continuidade da aeronavegabilidade\n\n1 - Durante os períodos em que a ANPC seja diretamente responsável pela inspeção da continuidade da aeronavegabilidade, podem ser designados, pelo membro do Governo responsável pela área da administração interna, em regime de comissão de serviço, mediante proposta do presidente da ANPC, e obtido parecer prévio favorável do Instituto Nacional de Aviação Civil, I. P., três inspetores da continuidade da aeronavegabilidade para o exercício das funções previstas no Regulamento n.º 2042/2003, da Comissão, de 20 de novembro de 2003, a recrutar nos termos do Regulamento do INAC n.º 831/2010, publicado no Diário da República, 2.ª série, de 8 de novembro.\n\n2 - Os trabalhadores referidos no número anterior são remunerados de acordo com o nível 40 da tabela remuneratória única.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "67661145": {
+   "fragment_id": "67660996",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\nSão revogados:\n\na) Os n.os 2 e 3 do artigo 9.º, os n.os 5 e 6 do artigo 29.º e os artigos 42.º, 43.º e 49.º-A do Decreto-Lei n.º 49/2003, de 25 de março, alterado pelos Decretos-Leis n.os 97/2005, de 16 de junho, 21/2006, de 2 de fevereiro, e 123/2008, de 15 de junho;\n\nb) O Decreto-Lei n.º 97/2005, de 16 de junho;\n\nc) O Decreto-Lei n.º 21/2006, de 2 de fevereiro;\n\nd) O Decreto-Lei n.º 75/2007, de 29 de março, alterado pelo Decreto-Lei n.º 73/2012, de 26 de março, com exceção do artigo 22.º;\n\ne) O Decreto-Lei n.º 123/2008, de 15 de junho."
+  },
+  "67661146": {
+   "fragment_id": "67660997",
+   "type": 11,
+   "heading": "Artigo 33.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Produção de efeitos\n\nO disposto na alínea d) do n.º 3 do artigo 2.º no que respeita à gestão de meios aéreos próprios do Estado necessários à prossecução das missões do Ministério da Administração Interna, na alínea d) do n.º 1 do artigo 11.º e no artigo 15.º, produz efeitos à data da extinção da EMA - Empresa de Meios Aéreos, S.A."
+  },
+  "67661147": {
+   "fragment_id": "67660998",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "67661148": {
+   "fragment_id": "67661011",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de abril de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva.\n\nPromulgado em 29 de maio de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 30 de maio de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "67661150": {
+   "fragment_id": "67660999",
+   "type": 14,
+   "heading": "Anexo — Mapa de cargos de direção",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "## Anexo — Mapa de cargos de direção\n\n(a que se refere o artigo 26.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "74450373": {
+   "fragment_id": "67660994",
+   "type": 11,
+   "heading": "Artigo 30.º — Recrutamento excecional transitório",
+   "in_force_from": "2016-05-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21/2016 - Diário da República n.º 100/2016, Série I de 2016-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2016-74526740), em vigor a partir de 2016-05-29"
+   ],
+   "markdown": "###### Artigo 30.º — Recrutamento excecional transitório\n\nAté 31 de dezembro de 2016, podem ser nomeados a título excecional, para as funções a que se reporta o artigo 22.º, aqueles que possuam uma das seguintes condições:\n\na) Serem ou terem sido comandantes, 2.os comandantes ou adjuntos de comando de corpos de bombeiros com, pelo menos, cinco anos de serviço efetivo nas respetivas funções e habilitados com o 12.º ano de escolaridade;\n\nb) Serem ou terem sido chefes de corpos de bombeiros municipais ou de bombeiros-sapadores com, pelo menos, cinco anos de serviço nas respetivas funções e habilitados com o 12.º ano de escolaridade;\n\nc) Exercerem ou terem exercido cargos dirigentes, funções de inspeção, de coordenação do centro nacional de operações de socorro, de coordenação dos centros distritais de operações de socorro, de comandante ou 2.º comandante operacional nacional, de comandante ou 2.º comandante operacional distrital, de adjunto de operações nacional, de adjunto de operações distrital ou de chefe de operações em centros operacionais de âmbito nacional, durante mais de cinco anos, podendo estes ser cumulativos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21/2016 - Diário da República n.º 100/2016, Série I de 2016-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2016-74526740), em vigor a partir de 2016-05-29"
+  },
+  "121876415": {
+   "fragment_id": "67657065",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Autoridade Nacional de Proteção Civil, abreviadamente designada por ANPC, é um serviço central, da administração direta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876416": {
+   "fragment_id": "67657066",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A ANPC tem por missão planear, coordenar e executar a política de proteção civil, designadamente na prevenção e reação a acidentes graves e catástrofes, de proteção e socorro de populações e de superintendência da atividade dos bombeiros, bem como assegurar o planeamento e coordenação das necessidades nacionais na área do planeamento civil de emergência com vista a fazer face a situações de crise ou de guerra.\n\n2 - A ANPC prossegue as seguintes atribuições no âmbito da previsão e gestão de risco e planeamento de emergência:\n\na) Assegurar e apoiar a atividade de planeamento de emergência de proteção civil para fazer face, em particular, a situações de acidente grave ou catástrofe;\n\nb) Assegurar a atividade de planeamento civil de emergência para fazer face, em particular, a situações de crise ou guerra;\n\nc) Contribuir para a definição da política nacional de planeamento civil de emergência, em articulação com serviços públicos ou privados que desempenham missões relacionadas com esta atividade;\n\nd) Promover o levantamento, previsão, análise e avaliação dos riscos coletivos de origem natural ou tecnológica e o estudo, normalização e aplicação de técnicas adequadas de prevenção e socorro;\n\ne) Organizar um sistema nacional de alerta e aviso;\n\nf) Proceder à regulamentação e assegurar a implementação do regime jurídico da segurança contra incêndios em edifícios.\n\n3 - A ANPC prossegue as seguintes atribuições no âmbito da atividade de proteção e socorro:\n\na) Garantir a continuidade orgânica e territorial do sistema de comando de operações de socorro;\n\nb) Acompanhar todas as operações de proteção e socorro, nos âmbitos local e regional autónomo, prevendo a necessidade de intervenção de meios complementares;\n\nc) Planear e garantir a utilização, nos termos da lei, dos meios públicos e privados disponíveis para fazer face a situações de acidente grave e catástrofe;\n\nd) Garantir a disponibilidade dos meios aéreos necessários ao desempenho das atribuições cometidas ao Ministério da Administração Interna;\n\ne) Assegurar a coordenação horizontal de todos os agentes de proteção civil e as demais estruturas e serviços públicos com intervenção ou responsabilidades de proteção e socorro.\n\n4 - A ANPC prossegue as seguintes atribuições no âmbito das atividades dos bombeiros:\n\na) Orientar, coordenar e fiscalizar a atividade dos corpos de bombeiros;\n\nb) Promover e incentivar a participação das populações no voluntariado e todas as formas de auxílio na missão das associações humanitárias de bombeiros e dos corpos de bombeiros;\n\nc) Assegurar a realização de formação dos bombeiros portugueses e promover o aperfeiçoamento operacional do pessoal dos corpos de bombeiros;\n\nd) Assegurar a prevenção sanitária, a higiene e a segurança do pessoal dos corpos de bombeiros bem como a investigação de acidentes em ações de socorro.\n\n5 - A ANPC prossegue as seguintes atribuições no âmbito dos recursos de proteção civil:\n\na) Contribuir para a requalificação, reequipamento e reabilitação dos equipamentos e infraestruturas dos corpos de bombeiros;\n\nb) Apoiar as atividades das Associações Humanitárias de Bombeiros, da Escola Nacional de Bombeiros e de outras entidades que desenvolvem a sua atividade no âmbito da proteção e socorro, nomeadamente através de transferências, no limite de dotações inscritas no seu orçamento;\n\nc) Garantir a administração e a manutenção da infraestrutura das redes de telecomunicações de emergência em exploração pela ANPC e pelos corpos de bombeiros, sem prejuízo das atribuições da Secretaria-Geral do Ministério da Administração Interna;\n\nd) Assegurar os meios necessários às operações de proteção e socorro;\n\ne) Dotar as forças especiais de bombeiros dos meios e recursos necessários à sua operacionalidade.\n\n6 - A ANPC tem ainda por missão promover a aplicação e fiscalizar o cumprimento das leis, regulamentos, normas e requisitos técnicos aplicáveis no âmbito das suas atribuições.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "121876417": {
+   "fragment_id": "67657067",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito territorial",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito territorial\n\nAs atribuições da ANPC são prosseguidas em todo o território nacional, sem prejuízo das competências próprias dos órgãos relevantes das regiões autónomas e das autarquias locais.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876418": {
+   "fragment_id": "67657068",
+   "type": 11,
+   "heading": "Artigo 4.º — Colaboração com outras entidades",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 4.º — Colaboração com outras entidades\n\n1 - Para a prossecução das suas atribuições, a ANPC pode estabelecer parcerias com outras entidades do sector público ou privado, com ou sem fins lucrativos, designadamente universidades e instituições ou serviços integrados no sistema de proteção civil, incluindo a concessão de subsídios, nos termos da lei.\n\n2 - A ANPC participa na execução da política de cooperação internacional do Estado Português, no domínio da proteção civil, e de acordo com as orientações estabelecidas.\n\n3 - A ANPC pode, ainda, precedendo autorização do membro do Governo responsável pela área da administração interna, participar em missões de auxílio externo.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876419": {
+   "fragment_id": "67657069",
+   "type": 11,
+   "heading": "Artigo 5.º — Dever de cooperação",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 5.º — Dever de cooperação\n\n1 - Os cidadãos e demais entidades privadas, nas pessoas dos respetivos representantes, devem prestar à ANPC a cooperação que justificadamente lhes for solicitada.\n\n2 - Têm o dever especial de colaborar com a ANPC:\n\na) Os trabalhadores em funções públicas e das pessoas coletivas de direito público, bem como os membros dos órgãos de gestão das empresas públicas;\n\nb) Os responsáveis pela administração, direção ou chefia de empresas privadas cuja laboração, pela natureza da sua atividade, esteja sujeita a qualquer forma específica de licenciamento da ANPC;\n\nc) Os agentes de proteção civil;\n\nd) Os serviços regionais e municipais de proteção civil;\n\ne) A Cruz Vermelha Portuguesa;\n\nf) As associações humanitárias de bombeiros;\n\ng) Os serviços de segurança;\n\nh) As instituições de segurança social;\n\ni) As instituições com fins de socorro e de solidariedade;\n\nj) Os organismos responsáveis pelas florestas, conservação da natureza, indústria, energia, transportes, comunicações, recursos hídricos, meteorologia, geofísica, agricultura, mar, alimentação, ambiente e ciberespaço;\n\nk) Os serviços de segurança e socorro privativos das empresas públicas e privadas, dos portos e aeroportos.\n\n3 - A violação do dever especial previsto no número anterior implica responsabilidade civil, criminal e disciplinar, nos termos da lei.\n\n4 - A desobediência e a resistência às ordens legítimas da ANPC, quando praticadas em situação de alerta, contingência ou calamidade, são sancionadas de acordo com o regime previsto no artigo 6.º da Lei n.º 27/2006, de 3 de julho, alterada pela Lei Orgânica n.º 1/2011, de 30 de novembro.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876420": {
+   "fragment_id": "67657070",
+   "type": 11,
+   "heading": "Artigo 6.º — Poderes de autoridade",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 6.º — Poderes de autoridade\n\n1 - Os trabalhadores da ANPC que desempenhem funções de fiscalização são detentores dos decorrentes poderes de autoridade e, no exercício dessas funções, gozam das seguintes prerrogativas:\n\na) Aceder e fiscalizar, a qualquer hora e sem necessidade de aviso prévio, as instalações, equipamentos e serviços das entidades sujeitas a inspeção, controlo ou fiscalização da ANPC;\n\nb) Requisitar para análise equipamentos e documentos;\n\nc) Determinar, a título preventivo, e com efeitos imediatos, mediante ordem escrita e fundamentada, a suspensão ou cessação de atividades e encerramento de instalações, quando da não aplicação dessas medidas possa resultar risco iminente para a segurança das pessoas e bens;\n\nd) Identificar as pessoas que se encontrem em violação flagrante das normas cuja observância lhes compete fiscalizar, no caso de não ser possível o recurso a autoridade policial em tempo útil;\n\ne) Solicitar a colaboração das autoridades administrativas e policiais para impor o cumprimento de normas e determinações que por razões de segurança devem ter execução imediata no âmbito de atos de gestão pública;\n\nf) Determinar, a título preventivo e com efeitos imediatos, até ser proferida decisão sobre a aplicação das medidas previstas nos n.os 5 e 9 do artigo 4.º do Decreto-Lei n.º 247/2007, de 27 de junho, alterado pelo Decreto-Lei n.º 248/2012, de 21 de novembro, o encerramento de instalações de um corpo de bombeiros e a proibição da circulação dos respetivos veículos, bem como a cessação ou suspensão, geral ou parcial, da sua atividade.\n\n2 - O disposto nas alíneas a), b) e e) do número anterior é aplicável às entidades credenciadas pela ANPC para o exercício de funções de fiscalização.\n\n3 - Da suspensão, cessação ou encerramento a que se refere a alínea c) do n.º 1 é lavrado auto de notícia, o qual é objeto de confirmação pelo presidente da ANPC no prazo máximo de 15 dias, sob pena de caducidade da medida preventiva determinada.\n\n4 - Os trabalhadores e entidades credenciados da ANPC, titulares das prerrogativas previstas no presente artigo, usam um documento de identificação próprio, de modelo a fixar por portaria do membro do Governo responsável pela área da administração interna, e devem exibi-lo quando no exercício das suas funções.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876421": {
+   "fragment_id": "67657071",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Órgãos\n\n1 - A ANPC é dirigida por um presidente, coadjuvado por quatro diretores nacionais, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n2 - É ainda órgão da ANPC o Conselho Nacional de Bombeiros.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "121876422": {
+   "fragment_id": "67657072",
+   "type": 11,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 8.º — Presidente\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao presidente:\n\na) Promover e coordenar as atividades em matéria de planeamento civil de emergência, em estreita ligação com os serviços públicos competentes em cada sector, sem prejuízo da necessária coordenação com o Ministério da Defesa Nacional;\n\nb) Superintender o sistema integrado de operações de proteção e socorro;\n\nc) Aconselhar o Governo em matéria de proteção civil e planeamento civil de emergência;\n\nd) Representar a ANPC judicial e extrajudicialmente, bem como nos organismos internacionais de proteção civil e planeamento civil de emergência de que o Estado Português faça parte;\n\ne) Proceder, sempre que necessário, à articulação com o Ministério da Defesa Nacional, em matéria de planeamento civil de emergência a nível OTAN;\n\nf) Aprovar e homologar normas gerais vinculativas relativamente a uniformes, equipamento, material e procedimentos dos corpos de bombeiros, com vista à normalização técnica da respetiva atividade;\n\ng) Propor legislação de normalização de sistemas, equipamentos e procedimentos de proteção e socorro;\n\nh) Desempenhar, no que respeita aos meios aéreos, as funções de administrador responsável, nos termos do Regulamento n.º 2042/2003, da Comissão, de 20 de novembro de 2003.\n\ni) Gerir de forma integrada o dispositivo permanente dos meios aéreos, por forma a garantir a disponibilidade dos meios aéreos necessários às entidades competentes para a prossecução das atribuições cometidas ao Ministério da Administração Interna;\n\nj) Assegurar o funcionamento do sistema de gestão da continuidade da aeronavegabilidade e do sistema de qualidade;\n\nk) Assegurar o controlo e o acompanhamento da execução dos contratos de locação de meios aéreos;\n\nl) Determinar os requisitos técnicos no âmbito da locação de meios aéreos necessários ao desempenho das suas competências.\n\n2 - Em caso de incumprimento das determinações da ANPC ou de infração das normas e requisitos técnicos aplicáveis às atividades sujeitas a licenciamento, autorização, certificação ou fiscalização da ANPC, pode o presidente da ANPC:\n\na) Suspender ou cancelar as licenças, autorizações e certificações concedidas, nos termos estabelecidos na respetiva regulamentação;\n\nb) Ordenar a cessação de atividades, a imobilização de equipamentos ou o encerramento de instalações até que deixe de se verificar a situação de incumprimento ou infração;\n\nc) Solicitar a colaboração das autoridades policiais para impor o cumprimento das normas e determinações que por razões de segurança devam ter execução imediata, no âmbito de atos de gestão pública;\n\nd) Aplicar as demais sanções previstas na lei.\n\n3 - A designação do presidente da ANPC é precedida de audição da Comissão Nacional de Proteção Civil.\n\n4 - O presidente aufere, como remuneração, o equivalente à remuneração mais elevada dos dirigentes dos organismos da administração central do Estado qualificados na lei como agentes de proteção civil.\n\n5 - O presidente é substituído, nas suas faltas e impedimentos, pelo diretor nacional que indique para o efeito.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "121876423": {
+   "fragment_id": "67657073",
+   "type": 11,
+   "heading": "Artigo 9.º — Diretores nacionais",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 9.º — Diretores nacionais\n\n1 - Os diretores nacionais dirigem as direções nacionais e exercem as competências que lhe sejam delegadas ou subdelegadas pelo presidente.\n\n2 - Considera-se delegada nos diretores nacionais, a competência prevista para os cargos de direção superior de 1.º grau no âmbito da gestão dos recursos humanos e das instalações e equipamentos afetos a cada direção nacional.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876424": {
+   "fragment_id": "67657074",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho Nacional de Bombeiros",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 10.º — Conselho Nacional de Bombeiros\n\n1 - O Conselho Nacional de Bombeiros, abreviadamente designado por Conselho, é um órgão consultivo do Governo e da ANPC em matéria de bombeiros.\n\n2 - O Conselho é presidido pelo membro do Governo responsável pela área da administração interna e tem a seguinte composição:\n\na) O presidente da ANPC, que substitui o presidente nas suas faltas e impedimentos;\n\nb) O diretor nacional de bombeiros da ANPC;\n\nc) O presidente do Instituto Nacional de Emergência Médica;\n\nd) O diretor-geral da Administração Local;\n\ne) O presidente da Escola Nacional de Bombeiros;\n\nf) O diretor do Instituto de Socorros a Náufragos;\n\ng) Um representante da Associação Nacional de Municípios Portugueses;\n\nh) Um representante da Associação Nacional de Freguesias;\n\ni) O presidente da Liga dos Bombeiros Portugueses;\n\nj) O presidente da Associação Nacional dos Bombeiros Profissionais.\n\n3 - O presidente, quando o considerar conveniente, pode convidar a participar nas reuniões do Conselho outras entidades com relevante interesse para as matérias em consulta.\n\n4 - Compete ao Conselho emitir parecer sobre:\n\na) Programas de apoio a atribuir a associações humanitárias de bombeiros e a corpos de bombeiros;\n\nb) Definição dos critérios gerais a observar nas ações de formação do pessoal dos corpos de bombeiros;\n\nc) Definição dos critérios gerais a observar na criação de novos corpos de bombeiros e respetivas secções, bem como da sua verificação em concreto;\n\nd) Definição das normas gerais a que deve obedecer a regulamentação interna dos corpos de bombeiros;\n\ne) Definição das normas a que deve obedecer o equipamento e material dos corpos de bombeiros, com vista à normalização técnica da respetiva atividade;\n\nf) Os projetos de diplomas relativos à definição e desenvolvimento dos princípios orientadores do sector;\n\ng) Outros assuntos, relacionados com a atividade dos bombeiros, quando solicitado pelo presidente.\n\n5 - O Conselho elabora o seu regulamento de funcionamento, que é sujeito à homologação do membro do Governo responsável pela área da administração interna.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876425": {
+   "fragment_id": "67660975",
+   "type": 11,
+   "heading": "Artigo 11.º — Tipo de organização interna",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 11.º — Tipo de organização interna\n\n1 - A organização interna da ANPC obedece ao modelo de estrutura hierarquizada e compreende:\n\na) A Direção nacional de planeamento de emergência;\n\nb) A Direção nacional de bombeiros;\n\nc) A Direção nacional de recursos de proteção civil;\n\nd) (Revogada);\n\ne) A Direção nacional de auditoria e fiscalização.\n\n2 - Com vista a assegurar o comando operacional das operações de socorro e ainda o comando operacional integrado de todos os agentes de proteção civil no respeito pela sua autonomia própria, a organização interna da ANPC compreende ainda:\n\na) O comando nacional de operações de socorro;\n\nb) Os agrupamentos distritais de operações de socorro;\n\nc) Os comandos distritais de operações de socorro.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "121876426": {
+   "fragment_id": "67660976",
+   "type": 11,
+   "heading": "Artigo 12.º — Direção Nacional de Planeamento de Emergência",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 12.º — Direção Nacional de Planeamento de Emergência\n\n1 - À Direção Nacional de Planeamento de Emergência, abreviadamente designada por DNPE, compete:\n\na) Elaborar diretrizes gerais para o planeamento de emergência de proteção civil para situações de acidente grave ou catástrofe;\n\nb) Promover a previsão e assegurar a monitorização e a avaliação dos riscos coletivos;\n\nc) Avaliar as vulnerabilidades perante situações de risco;\n\nd) Desenvolver e manter o sistema nacional de alerta e aviso;\n\ne) Contribuir para a definição da política nacional de planeamento civil de emergência e assegurar o desenvolvimento e a coordenação das atividades de planeamento civil de emergência;\n\nf) Organizar o sistema nacional de alerta e aviso;\n\ng) Assegurar a regulamentação e a fiscalização no âmbito da segurança contra incêndios em edifícios.\n\n2 - Em matéria de planeamento civil de emergência, compete em especial à direção nacional de planeamento de emergência:\n\na) Elaborar diretrizes gerais para o planeamento civil de emergência com vista à satisfação das necessidades civis e militares;\n\nb) Contribuir para a elaboração das diretrizes para a adaptação dos serviços públicos às situações de crise ou às de tempo de guerra;\n\nc) Apreciar os planos que, no âmbito do planeamento civil de emergência, lhe sejam submetidos pelos serviços públicos competentes para o efeito, bem como por outras entidades;\n\nd) Aprovar previamente as informações e propostas a apresentar pelos representantes nacionais aos correspondentes comités do Comité do Planeamento Civil de Emergência da OTAN - Civil Emergency Planning Committee (CEPC);\n\ne) Identificar os serviços públicos ou privados que devam desempenhar missões relacionadas com o planeamento civil de emergência;\n\nf) Assegurar a execução das diretrizes e dos planos aprovados pelo Governo, requerendo as informações que julgue necessárias;\n\ng) Obter a colaboração dos serviços competentes, públicos ou privados, ou de especialistas, na elaboração de estudos e informações;\n\nh) Promover o esclarecimento das populações acerca dos problemas relacionados com o planeamento civil de emergência;\n\ni) Dar parecer ou informações sobre todos os assuntos que lhe forem submetidos pelo membro do Governo responsável pela área da administração interna;\n\nj) Fazer propostas para adequar a legislação por forma a responder a necessidades nacionais e aos compromissos assumidos no âmbito da OTAN;\n\nk) Cumprir as atribuições e competências fixadas na legislação relativa a normas de segurança.\n\n3 - Em matéria de planeamento civil de emergência, a nível OTAN, compete, em especial, à direção nacional de planeamento de emergência:\n\na) Apreciar os documentos e informações mais relevantes apresentados no CEPC;\n\nb) Cometer a realização de estudos aos serviços públicos competentes para o efeito;\n\nc) Fixar as normas de identificação e de preparação dos representantes e técnicos nacionais designados para as agências civis de tempo de guerra da OTAN;\n\nd) [Revogada];\n\ne) Coordenar a aplicação em Portugal da doutrina OTAN promulgada no âmbito do Comité de Proteção Civil - Civil Protection Group (CPC) - e respetivos grupos de trabalho;\n\nf) Definir a delegação nacional e assegurar a presença nas reuniões plenárias do CEPC.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "121876427": {
+   "fragment_id": "67660977",
+   "type": 11,
+   "heading": "Artigo 13.º — Direção Nacional de Bombeiros",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 13.º — Direção Nacional de Bombeiros\n\nÀ Direção Nacional de Bombeiros, abreviadamente designada por DNB, compete:\n\na) Regular a atividade dos corpos de bombeiros;\n\nb) Assegurar o recenseamento dos bombeiros;\n\nc) Supervisionar a rede de infraestruturas e equipamentos dos corpos de bombeiros;\n\nd) Desenvolver, implementar e manter os programas de:\n\ni) Formação, instrução e treino operacional dos bombeiros;\n\nii) Prevenção e vigilância médico-sanitária dos bombeiros;\n\niii) Incentivo e participação das populações no voluntariado dos bombeiros.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876428": {
+   "fragment_id": "67660978",
+   "type": 11,
+   "heading": "Artigo 14.º — Direção Nacional de Recursos de Proteção Civil",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 14.º — Direção Nacional de Recursos de Proteção Civil\n\nÀ Direção Nacional de Recursos de Proteção Civil, abreviadamente designada por DNRPC, compete:\n\na) Planear, organizar e gerir os recursos humanos da ANPC;\n\nb) Propor, desenvolver e coordenar a política de formação e de aperfeiçoamento dos trabalhadores da ANPC, em articulação com a Secretaria-Geral do Ministério da Administração Interna;\n\nc) Planear e gerir os recursos financeiros da ANPC;\n\nd) Garantir a implementação e o aperfeiçoamento do sistema de controlo interno;\n\ne) Administrar e assegurar a manutenção da rede informática e as bases de dados da ANPC, em articulação com a Secretaria-Geral do Ministério da Administração Interna;\n\nf) Planear e gerir as redes e os equipamentos de telecomunicações, e outros recursos tecnológicos da ANPC, em articulação com a Secretaria-Geral do Ministério da Administração Interna;\n\ng) Efetuar a aquisição de bens e a contratação de serviços, sem prejuízo das competências próprias da Secretaria-Geral do Ministério da Administração Interna;\n\nh) Assegurar a gestão:\n\ni) Documental e do arquivo da ANPC;\n\nii) Das instalações e equipamentos da ANPC, sem prejuízo das competências próprias da Secretaria-Geral do Ministério da Administração Interna;\n\niii) Da frota automóvel da ANPC.\n\niv) Do funcionamento do Sub-registo da ANPC, através do cumprimento das normas de segurança emanadas da OTAN e da Autoridade Nacional de Segurança, nomeadamente o registo, o controlo e a distribuição da correspondência OTAN, a inspeção periódica dos postos de controlo OTAN, seus dependentes, bem como promover e verificar a credenciação dos cidadãos de nacionalidade portuguesa que, na área do planeamento civil de emergência, devam ter acesso a informação classificada.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "121876429": {
+   "fragment_id": "67660979",
+   "type": 11,
+   "heading": "Artigo 15.º — Direção Nacional de Meios Aéreos",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 15.º — Direção Nacional de Meios Aéreos\n\nÀ Direção Nacional de Meios Aéreos, abreviadamente designada por DNMA, compete:\n\na) Gerir de forma integrada o dispositivo permanente dos meios aéreos, por forma a garantir a disponibilidade dos meios aéreos necessários às entidades competentes para a prossecução das atribuições cometidas ao Ministério da Administração Interna;\n\nb) Assegurar a gestão da aeronavegabilidade e da qualidade;\n\nc) Assegurar o controlo e o acompanhamento da execução dos contratos de locação de meios aéreos, em coordenação com a DNRPC;\n\nd) Determinar, em colaboração com a DNRPC, os requisitos técnicos no âmbito da locação de meios aéreos necessários ao desempenho das suas competências.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "121876430": {
+   "fragment_id": "67660980",
+   "type": 11,
+   "heading": "Artigo 16.º — Direção Nacional de Auditoria e Fiscalização",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 16.º — Direção Nacional de Auditoria e Fiscalização\n\n1 - À Direção Nacional de Auditoria e Fiscalização, abreviadamente designada DNAF, compete:\n\na) Auditar os restantes serviços da ANPC;\n\nb) Fiscalizar os corpos de bombeiros;\n\nc) Realizar inquéritos e averiguações no âmbito dos acidentes e incidentes de proteção e socorro, sem prejuízo das competências do Gabinete de Prevenção e Investigação de Acidentes com Aeronaves;\n\nd) Instruir os processos de inquérito, disciplinares e de sindicância, determinados pelo presidente da ANPC;\n\ne) Auditar o sistema de controlo interno;\n\nf) Fiscalizar a utilização dos apoios financeiros concedidos pela ANPC;\n\ng) Realizar as ações de fiscalização do cumprimento das leis, regulamentos, normas e requisitos técnicos previstas na lei, determinadas pelo Presidente da ANPC.\n\n2 - Para os efeitos previstos no número anterior a DNAF tem competência para, diretamente ou através de pessoas ou entidades qualificadas, por si credenciadas, proceder aos necessários exames e verificações.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876431": {
+   "fragment_id": "67660981",
+   "type": 11,
+   "heading": "Artigo 17.º — Comando Nacional de Operações de Socorro",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 17.º — Comando Nacional de Operações de Socorro\n\n1 - O Comando Nacional de Operações de Socorro, abreviadamente designado por CNOS, é dirigido pelo comandante operacional nacional, coadjuvado pelo 2.º comandante operacional nacional e por três adjuntos de operações nacionais.\n\n2 - O CNOS compreende a célula operacional de planeamento, operações, monitorização e avaliação do risco e informações, a célula operacional de logística e de comunicações e a célula operacional de gestão de meios aéreos, dirigidas por chefes de célula operacional.\n\n3 - As competências do CNOS e das respetivas células operacionais são as previstas no âmbito do sistema integrado de operações de proteção e socorro (SIOPS), aprovado pelo Decreto-Lei n.º 134/2006, de 25 de julho, alterado pelo Decreto-Lei n.º 114/2011, de 30 de novembro, e pelo Decreto-Lei n.º 72/2013, de 31 de maio, sem prejuízo de outras competências que lhe forem conferidas por lei.\n\n4 - O 2.º comandante operacional nacional, os adjuntos de operações nacionais e os chefes de células operacionais dependem hierarquicamente do comandante operacional nacional.\n\n5 - O comandante operacional nacional é equiparado, para efeitos remuneratórios, a cargo de direção superior de 2.º grau.\n\n6 - O 2.º comandante operacional nacional aufere, como remuneração, 95% da remuneração do comandante operacional nacional e os adjuntos de operações nacionais são equiparados, para efeitos remuneratórios, a cargo de direção intermédia de 1.º grau.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876432": {
+   "fragment_id": "67660982",
+   "type": 11,
+   "heading": "Artigo 18.º — Agrupamentos Distritais de Operações de Socorro",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 18.º — Agrupamentos Distritais de Operações de Socorro\n\n1 - Os Agrupamentos Distritais de Operações de Socorro são os seguintes:\n\na) Agrupamento distrital do norte, composto pelos distritos de Braga, Bragança, Porto, Viana do Castelo e Vila Real;\n\nb) Agrupamento distrital do centro norte, composto pelos distritos de Aveiro, Coimbra, Guarda e Viseu;\n\nc) Agrupamento distrital do centro sul, composto pelos distritos de Castelo Branco, Leiria, Portalegre e Santarém;\n\nd) Agrupamento distrital do sul, composto pelos distritos de Beja, Évora, Lisboa e Setúbal;\n\ne) Agrupamento distrital do Algarve composto pelo distrito de Faro.\n\n2 - Os agrupamentos distritais são dirigidos pelo comandante operacional de agrupamento distrital, abreviadamente designado por CADIS, cujas competências são as previstas no SIOPS, sem prejuízo de outras que lhes forem conferidas por lei.\n\n3 - Compete ainda ao CADIS assegurar a articulação operacional permanente com os comandantes operacionais distritais e com os 2ºs comandantes operacionais distritais no seu âmbito territorial.\n\n4 - O comandante operacional de agrupamento distrital depende hierarquicamente do comandante operacional nacional, sem prejuízo das dependências funcionais das Direções Nacionais da ANPC.\n\n5 - O comandante operacional de agrupamento distrital aufere, como remuneração, 95% da remuneração do comandante operacional nacional.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876433": {
+   "fragment_id": "67660983",
+   "type": 11,
+   "heading": "Artigo 19.º — Racionalização dos meios",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 19.º — Racionalização dos meios\n\nSem prejuízo do disposto no artigo anterior, a racionalização dos meios de proteção e socorro é efetuada ao nível das Áreas Metropolitanas e das Comunidades Intermunicipais.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876434": {
+   "fragment_id": "67660984",
+   "type": 11,
+   "heading": "Artigo 20.º — Comandos distritais de operações de socorro",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 20.º — Comandos distritais de operações de socorro\n\n1 - Em cada distrito existe um comando distrital de operações de socorro, abreviadamente designado por CDOS, dirigido pelo comandante operacional distrital, coadjuvado pelo 2.º comandante operacional distrital.\n\n2 - As competências do CDOS são as previstas no SIOPS, sem prejuízo das competências que lhe forem conferidas por lei.\n\n3 - Compete ainda ao CDOS assegurar a articulação operacional permanente com os comandantes operacionais municipais.\n\n4 - O comandante operacional distrital depende hierarquicamente do comandante operacional de agrupamento distrital, sem prejuízo das dependências funcionais das Direções Nacionais da ANPC.\n\n5 - O 2.º comandante operacional distrital depende hierarquicamente do comandante operacional distrital.\n\n6 - O comandante operacional distrital é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 1.º grau.\n\n7 - O 2.º comandante operacional distrital é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876435": {
+   "fragment_id": "67660985",
+   "type": 11,
+   "heading": "Artigo 21.º — Salas de Operações e Comunicações",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 21.º — Salas de Operações e Comunicações\n\nNo comando nacional de operações de socorro e nos comandos distritais de operações de socorro funcionam salas de operações e comunicações dotadas de operadores de telecomunicações.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876436": {
+   "fragment_id": "67660986",
+   "type": 11,
+   "heading": "Artigo 22.º — Recrutamento no âmbito do SIOPS",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 22.º — Recrutamento no âmbito do SIOPS\n\n1 - O recrutamento do comandante operacional nacional e do 2.º comandante operacional nacional, dos adjuntos operacionais nacionais, dos comandantes operacionais de agrupamento distrital, dos comandantes operacionais distritais, dos 2.os comandantes operacionais distritais é feito de entre indivíduos, com ou sem relação jurídica de emprego público, que possuam licenciatura e experiência funcional adequadas ao exercício daquelas funções.\n\n2 - O comandante operacional nacional, o 2.º comandante operacional nacional e os comandantes operacionais de agrupamento distrital são designados, em comissão de serviço, por despacho do membro do Governo responsável pela área da administração interna, sob proposta do presidente da ANPC.\n\n3 - Os adjuntos operacionais nacionais, os comandantes operacionais distritais e os 2.os comandantes operacionais distritais são designados, em comissão de serviço, pelo presidente da ANPC, sob proposta do comandante operacional nacional.\n\n4 - O despacho de designação é publicado no Diário da República acompanhado de nota relativa ao currículo académico e profissional do designado.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876437": {
+   "fragment_id": "67660987",
+   "type": 11,
+   "heading": "Artigo 23.º — Receitas",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 23.º — Receitas\n\n1 - A ANPC dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A ANPC dispõe ainda das seguintes receitas próprias:\n\na) As importâncias das coimas aplicadas, dentro dos limites legalmente admissíveis;\n\nb) Os subsídios e comparticipações atribuídos por entidades públicas e privadas, nacionais ou estrangeiras;\n\nc) Subvenções, quotizações, doações, heranças ou legados de entidades e respetivos rendimentos;\n\nd) O produto da venda de publicações;\n\ne) Os rendimentos de bens patrimoniais;\n\nf) A remuneração dos serviços prestados, nomeadamente estudos, pareceres, palestras, preleções e conferências sobre temas de proteção civil e socorro;\n\ng) As percentagens legalmente atribuídas sobre os prémios de seguro;\n\nh) As taxas cobradas no âmbito do regime jurídico da segurança contra incêndio em edifícios;\n\ni) O produto das coimas nas percentagens legalmente atribuídas e custas dos processos de contraordenação por si instaurados e instruídos ou concluídos, nos termos da legislação aplicável;\n\nj) Quaisquer outras receitas que lhe sejam atribuídas por lei, regulamento, contrato ou outro título.\n\n3 - A cobrança, o depósito e o controlo das receitas são feitos nos termos da legislação aplicável aos serviços e fundos autónomos.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876438": {
+   "fragment_id": "67660988",
+   "type": 11,
+   "heading": "Artigo 24.º — Despesas",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 24.º — Despesas\n\nConstituem despesas da ANPC as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876439": {
+   "fragment_id": "67660989",
+   "type": 11,
+   "heading": "Artigo 25.º — Isenção de portagem",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 25.º — Isenção de portagem\n\nAs viaturas da ANPC, devidamente identificadas e cuja utilização se destine a ações de emergência, estão isentas do pagamento de qualquer taxa em pontes e autoestradas.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876440": {
+   "fragment_id": "67660990",
+   "type": 11,
+   "heading": "Artigo 26.º — Mapa de cargos de direção",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 26.º — Mapa de cargos de direção\n\nOs lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876441": {
+   "fragment_id": "67660991",
+   "type": 11,
+   "heading": "Artigo 27.º — Meios aéreos",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 27.º — Meios aéreos\n\n1 - Para a prossecução das competências em matéria de gestão de meios aéreos, podem ser designados pelo membro do Governo responsável pela área da administração interna, em regime de comissão de serviço, mediante proposta do presidente da ANPC, e obtido parecer prévio favorável do Instituto Nacional de Aviação Civil, I.P., um responsável pelo sistema de gestão da continuidade da aeronavegabilidade e um gestor do sistema de qualidade, respetivamente, para o exercício das funções previstas no Regulamento n.º 2042/2003, da Comissão, de 20 de novembro de 2003, a recrutar nos termos do Regulamento do INAC n.º 831/2010, publicado no Diário da República, 2.ª série, de 8 de novembro.\n\n2 - A comissão de serviço referida no número anterior tem a duração de três anos, podendo ser renovada por igual período de tempo até ao limite máximo de duas renovações.\n\n3 - Os trabalhadores referidos no n.º 1 são remunerados de acordo com os níveis da tabela remuneratória única, correspondendo ao:\n\na) Nível 70, o exercício das funções de responsável pelo sistema de gestão da continuidade da aeronavegabilidade;\n\nb) Nível 30, o exercício das funções de gestor do sistema de qualidade.\n\n4 - Os trabalhadores exercem funções em regime de isenção de horário de trabalho, não lhes sendo devida qualquer remuneração adicional.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876442": {
+   "fragment_id": "67660992",
+   "type": 11,
+   "heading": "Artigo 28.º — Fiscalização",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 28.º — Fiscalização\n\n1 - Para a prossecução das competências referidas nas alíneas b) a d), f) e g) do n.º 1 do artigo 16.º, podem ser designados pelo membro do Governo responsável pela área da administração interna, em regime de comissão de serviço, mediante proposta do presidente da ANPC, e até ao limite máximo de seis, trabalhadores para exercer funções de fiscalização, a recrutar de entre licenciados, com experiência profissional relevante de pelo menos cinco anos nas áreas de segurança contra incêndios em edifícios, gestão de recursos de proteção civil ou gestão de acidentes e incidentes de proteção e socorro.\n\n2 - A comissão de serviço prevista no número anterior tem a duração de três anos, podendo ser renovada por igual período de tempo até ao limite máximo de duas renovações.\n\n3 - Os trabalhadores são remunerados pelo nível 42 da tabela remuneratória única.\n\n4 - Os trabalhadores exercem funções em regime de isenção de horário de trabalho, não lhes sendo devida qualquer remuneração adicional.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876443": {
+   "fragment_id": "67660993",
+   "type": 11,
+   "heading": "Artigo 29.º — Dever de disponibilidade",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 29.º — Dever de disponibilidade\n\n1 - O exercício de funções na ANPC é de total disponibilidade, não podendo os trabalhadores, salvo motivo excecional devidamente justificado, deixar de comparecer ou permanecer no serviço em caso de iminência ou ocorrência de acidente grave e catástrofe.\n\n2 - A inobservância do dever previsto no número anterior implica responsabilidade disciplinar nos termos da lei.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876444": {
+   "fragment_id": "67660994",
+   "type": 11,
+   "heading": "Artigo 30.º — Recrutamento excecional transitório",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21/2016 - Diário da República n.º 100/2016, Série I de 2016-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2016-74526740), em vigor a partir de 2016-05-29"
+   ],
+   "markdown": "###### Artigo 30.º — Recrutamento excecional transitório\n\nAté 31 de dezembro de 2016, podem ser nomeados a título excecional, para as funções a que se reporta o artigo 22.º, aqueles que possuam uma das seguintes condições:\n\na) Serem ou terem sido comandantes, 2.os comandantes ou adjuntos de comando de corpos de bombeiros com, pelo menos, cinco anos de serviço efetivo nas respetivas funções e habilitados com o 12.º ano de escolaridade;\n\nb) Serem ou terem sido chefes de corpos de bombeiros municipais ou de bombeiros-sapadores com, pelo menos, cinco anos de serviço nas respetivas funções e habilitados com o 12.º ano de escolaridade;\n\nc) Exercerem ou terem exercido cargos dirigentes, funções de inspeção, de coordenação do centro nacional de operações de socorro, de coordenação dos centros distritais de operações de socorro, de comandante ou 2.º comandante operacional nacional, de comandante ou 2.º comandante operacional distrital, de adjunto de operações nacional, de adjunto de operações distrital ou de chefe de operações em centros operacionais de âmbito nacional, durante mais de cinco anos, podendo estes ser cumulativos.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21/2016 - Diário da República n.º 100/2016, Série I de 2016-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2016-74526740), em vigor a partir de 2016-05-29"
+  },
+  "121876445": {
+   "fragment_id": "67660995",
+   "type": 11,
+   "heading": "Artigo 31.º — Forças especiais de bombeiros",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 31.º — Forças especiais de bombeiros\n\nPodem ser criadas forças especiais de bombeiros por diploma próprio, o qual define o seu regime jurídico.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876446": {
+   "fragment_id": "67661063",
+   "type": 11,
+   "heading": "Artigo 31.º-A — Continuidade da aeronavegabilidade",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 31.º-A — Continuidade da aeronavegabilidade\n\n1 - Durante os períodos em que a ANPC seja diretamente responsável pela inspeção da continuidade da aeronavegabilidade, podem ser designados, pelo membro do Governo responsável pela área da administração interna, em regime de comissão de serviço, mediante proposta do presidente da ANPC, e obtido parecer prévio favorável do Instituto Nacional de Aviação Civil, I. P., três inspetores da continuidade da aeronavegabilidade para o exercício das funções previstas no Regulamento n.º 2042/2003, da Comissão, de 20 de novembro de 2003, a recrutar nos termos do Regulamento do INAC n.º 831/2010, publicado no Diário da República, 2.ª série, de 8 de novembro.\n\n2 - Os trabalhadores referidos no número anterior são remunerados de acordo com o nível 40 da tabela remuneratória única.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  },
+  "121876447": {
+   "fragment_id": "67660996",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\nSão revogados:\n\na) Os n.os 2 e 3 do artigo 9.º, os n.os 5 e 6 do artigo 29.º e os artigos 42.º, 43.º e 49.º-A do Decreto-Lei n.º 49/2003, de 25 de março, alterado pelos Decretos-Leis n.os 97/2005, de 16 de junho, 21/2006, de 2 de fevereiro, e 123/2008, de 15 de junho;\n\nb) O Decreto-Lei n.º 97/2005, de 16 de junho;\n\nc) O Decreto-Lei n.º 21/2006, de 2 de fevereiro;\n\nd) O Decreto-Lei n.º 75/2007, de 29 de março, alterado pelo Decreto-Lei n.º 73/2012, de 26 de março, com exceção do artigo 22.º;\n\ne) O Decreto-Lei n.º 123/2008, de 15 de junho.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876448": {
+   "fragment_id": "67660997",
+   "type": 11,
+   "heading": "Artigo 33.º — Produção de efeitos",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 33.º — Produção de efeitos\n\nO disposto na alínea d) do n.º 3 do artigo 2.º no que respeita à gestão de meios aéreos próprios do Estado necessários à prossecução das missões do Ministério da Administração Interna, na alínea d) do n.º 1 do artigo 11.º e no artigo 15.º, produz efeitos à data da extinção da EMA - Empresa de Meios Aéreos, S.A.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876449": {
+   "fragment_id": "67660998",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876450": {
+   "fragment_id": "67661011",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de abril de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva.\n\nPromulgado em 29 de maio de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 30 de maio de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02"
+  },
+  "121876451": {
+   "fragment_id": "67660999",
+   "type": 14,
+   "heading": "Anexo — Mapa de cargos de direção",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "## Anexo — Mapa de cargos de direção\n\n(a que se refere o artigo 26.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2014-58683383), em vigor a partir de 2014-11-01"
+  }
+ }
+}

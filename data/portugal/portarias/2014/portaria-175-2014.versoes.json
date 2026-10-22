@@ -1,0 +1,147 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:56720780:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-107968021",
+ "dre_path": "/dr/detalhe/portaria/175-2014-56720780",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107956452",
+    "107956453",
+    "107956454",
+    "107956455",
+    "107956456",
+    "107956458",
+    "107956459"
+   ]
+  },
+  {
+   "date": "2017-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107963500:por",
+     "title": "Portaria n.º 251/2017",
+     "published": "2017-08-07",
+     "dre_path": "/dr/detalhe/portaria/251-2017-107963500"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "107956452",
+    "107970287",
+    "107956454",
+    "107956455",
+    "107956456",
+    "107956457",
+    "107970285",
+    "107970286"
+   ]
+  }
+ ],
+ "fragments": {
+  "107956452": {
+   "fragment_id": "107968022",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 175/2014\n\nde 10 de setembro\n\nO Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente, por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, bem como no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e alterada pela Lei n.º 78/2013, de 21 de novembro, e na Portaria n.º 702/2009, de 6 de julho.\n\nNa sequência de um estudo apresentado pela Câmara Municipal de Castanheira de Pêra, a Agência Portuguesa do Ambiente, I. P., elaborou, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção para as captações nos polos de captação «1», «2», e «3», no concelho de Castanheira de Pêra.\n\nCompete, agora, ao Governo aprovar as referidas zonas de proteção.\n\nAssim:\n\nNos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação dada pelo artigo 88.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas nos termos da subalínea ii) da alínea a) e da subalínea iv) da alínea b) do n.º 1 do Despacho n.º 13322/2013, publicado no Diário da República, 2.ª série, n.º 202, de 18 de outubro de 2013, com a redação dada pela alínea c) do n.º 1 do Despacho n.º 1941-A/2014, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro de 2014, e alterado pelo Despacho n.º 9478/2014, publicado no Diário da República, 2.ª série, n.º 139, de 22 de julho de 2014, o seguinte:"
+  },
+  "107956453": {
+   "fragment_id": "107968023",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a delimitação dos perímetros de proteção das captações localizadas no concelho de Castanheira de Pêra, designadas por:\n\na) Mina de Selada das Casas (Quelhas), Poço de Fonte das Bicas, Mina de Coentral das Barreiras e Mina de Sarnadas do polo de captação 1;\n\nb) Mina da Carvalheira (Carvalhinha - Camelo), Mina de Pardieiros, Furo de Botelhas, Mina de Terreiro da Serra, Furo de São João da Mata, Mina do Carriçal, Mina de Porto Videira, Mina da Sapateira, Furo da Sapateira e Mina do Torgal do polo de captação 2;\n\nc) Mina do Fontão, Mina de Fontão/Várzea II, Mina de Souto Escuro e Mina da Ortiga do polo de captação 3.\n\n2 - As coordenadas das captações referidas no número anterior constam do Anexo I à presente portaria, que dela faz parte integrante."
+  },
+  "107956454": {
+   "fragment_id": "107968024",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - A zona de proteção imediata respeitante aos perímetros de proteção mencionados no artigo anterior corresponde à área delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do Anexo II à presente portaria, que dela faz parte integrante.\n\n2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007."
+  },
+  "107956455": {
+   "fragment_id": "107968025",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de proteção intermédia e zona de proteção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zona de proteção intermédia e zona de proteção alargada\n\nOs perímetros de proteção das captações identificadas no artigo 1.º não incluem a zona de proteção intermédia e a zona de proteção alargada, nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007."
+  },
+  "107956456": {
+   "fragment_id": "107968026",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107956458": {
+   "fragment_id": "107968028",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 1.º)\n\nCoordenadas das captações\n\n(ver documento original)"
+  },
+  "107956459": {
+   "fragment_id": "107968029",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 2.º)\n\nZona de proteção imediata\n\nPolo de captação 1\n\nMina de Selada das Casas (Quelhas)\n\n(ver documento original)\n\nPoço de Fonte das Bicas\n\n(ver documento original)\n\nMina de Coentral das Barreiras\n\n(ver documento original)\n\nMina de Sarnadas\n\n(ver documento original)\n\nPolo de captação 2\n\nMina da Carvalheira (Carvalhinha - Camelo)\n\n(ver documento original)\n\nMina de Pardieiros\n\n(ver documento original)\n\nFuro de Botelhas\n\n(ver documento original)\n\nMina de Terreiro da Serra\n\n(ver documento original)\n\nFuro de São João da Mata\n\n(ver documento original)\n\nMina do Carriçal\n\n(ver documento original)\n\nMina de Porto Videira\n\n(ver documento original)\n\nMina da Sapateira\n\n(ver documento original)\n\nFuro da Sapateira\n\n(ver documento original)\n\nMina do Torgal\n\n(ver documento original)\n\nPolo de captação 3\n\nMina do Fontão\n\n(ver documento original)\n\nMina de Fontão/Várzea II\n\n(ver documento original)\n\nMina de Souto Escuro\n\n(ver documento original)\n\nMina da Ortiga\n\n(ver documento original)\n\nNota: As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central)."
+  },
+  "107970287": {
+   "fragment_id": "107968023",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 251/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/251-2017-107963500), em vigor a partir de 2017-08-08"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a delimitação dos perímetros de proteção das captações localizadas no concelho de Castanheira de Pêra, designadas por:\n\na) Mina de Selada das Casas (Quelhas), Poço de Fonte das Bicas, Mina de Coentral das Barreiras e Mina de Sarnadas do polo de captação 1;\n\nb) Mina da Carvalheira (Carvalhinha - Camelo), Mina de Pardieiros, Furo de Botelhas, Mina de Terreiro da Serra, Mina do Carriçal, Mina de Porto Videira, Mina da Sapateira, Furo da Sapateira e Mina do Torgal do polo de captação 2;\n\nc) Mina do Fontão, Mina de Fontão/Várzea II, Mina de Souto Escuro e Mina da Ortiga do polo de captação 3.\n\n2 - As coordenadas das captações referidas no número anterior constam do Anexo I à presente portaria, que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 251/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/251-2017-107963500), em vigor a partir de 2017-08-08"
+  },
+  "107956457": {
+   "fragment_id": "107968027",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 1 de setembro de 2014."
+  },
+  "107970285": {
+   "fragment_id": "107968028",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 251/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/251-2017-107963500), em vigor a partir de 2017-08-08"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 1.º)\n\nCoordenadas das captações\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 251/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/251-2017-107963500), em vigor a partir de 2017-08-08"
+  },
+  "107970286": {
+   "fragment_id": "107968029",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 251/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/251-2017-107963500), em vigor a partir de 2017-08-08"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 2.º)\n\nZona de proteção imediata\n\nPolo de captação 1\n\nMina de Selada das Casas (Quelhas)\n\n(ver documento original)\n\nPoço de Fonte das Bicas\n\n(ver documento original)\n\nMina de Coentral das Barreiras\n\n(ver documento original)\n\nMina de Sarnadas\n\n(ver documento original)\n\nPolo de captação 2\n\nMina da Carvalheira (Carvalhinha - Camelo)\n\n(ver documento original)\n\nMina de Pardieiros\n\n(ver documento original)\n\nFuro de Botelhas\n\n(ver documento original)\n\nMina de Terreiro da Serra\n\n(ver documento original)\n\nPolo de captação 2\n\nFuro de São João da Mata\n\n[Revogado.]\n\nMina do Carriçal\n\n(ver documento original)\n\nMina de Porto Videira\n\n(ver documento original)\n\nMina da Sapateira\n\n(ver documento original)\n\nFuro da Sapateira\n\n(ver documento original)\n\nMina do Torgal\n\n(ver documento original)\n\nPolo de captação 3\n\nMina do Fontão\n\n(ver documento original)\n\nMina de Fontão/Várzea II\n\n(ver documento original)\n\nMina de Souto Escuro\n\n(ver documento original)\n\nMina da Ortiga\n\n(ver documento original)\n\nNota: As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 251/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/251-2017-107963500), em vigor a partir de 2017-08-08"
+  }
+ }
+}

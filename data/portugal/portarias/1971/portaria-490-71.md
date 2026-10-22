@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:630424:por
+title: Portaria n.º 490/71
+short_title: null
+summary: Dá nova redacção aos n.os 1.º e 3.º da Portaria n.º 23439, que estabelece as condições de admissão e de preferência
+  aos concursos para a frequência do curso de engenheiro hidrógrafo e regula a constituição e funcionamento do júri para a
+  selecção dos candidatos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Superintendência dos Serviços do Pessoal
+proposing_entity: null
+official_number: 490/71
+official_date: null
+publication_date: '1971-09-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 211/1971, Série I de 1971-09-07
+  number: '211'
+  series: I
+  supplement: null
+  pages: 1272 - 1272
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/09/21100/12721272.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '630424'
+  dre_path: /dr/detalhe/portaria/490-1971-630424
+  internal: pt:dre:630424:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-1971-630424
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-1971-630424
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1971-09-07T00:00:00Z'
+integrity:
+  source_sha256: b2947158680f0d30b80613a7065468088d69c8405e8e3c2734be6148fcab8699
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-490-630424.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 490/71
+
+de 7 de Setembro
+
+Sendo necessário actualizar as condições de admissão e outras disposições referentes aos concursos para a frequência do curso de engenheiro hidrógrafo;
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que os n.os 1.º e 3.º da [Portaria n.º 23439](https://diariodarepublica.pt/dr/detalhe/portaria/23439-1968-272266), de 19 de Junho de 1968, passem a ter a seguinte redacção:
+
+1.º Aos concursos documentais, abertos na Direcção do Serviço do Pessoal, da Superintendência dos Serviços do Pessoal, para a frequência dos cursos de engenheiros hidrógrafos poderão concorrer os primeiros-tenentes da classe de marinha com idade não superior a 30 anos, feitos no ano civil do concurso.
+
+...
+
+3.º A classificação a que se refere o número anterior será efectuada por um júri constituído pelo director do Serviço do Pessoal, pelo subdirector, pelo adjunto técnico do director e pelo chefe do serviço de hidrografia do Instituto Hidrográfico, pelo chefe da 1.ª Repartição da Direcção do Serviço de Instrução e pelo professor de Geodesia e Hidrografia da Escola Naval.
+
+**O Ministro da Marinha, Manuel Pereira Crespo.**

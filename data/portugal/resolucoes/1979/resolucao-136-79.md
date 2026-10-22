@@ -1,0 +1,170 @@
+---
+schema_version: '1.0'
+id: pt:dre:383035:por
+title: Resolução n.º 136/79
+short_title: null
+summary: Prorroga por mais cento e vinte dias, com efeitos a partir de 31 de Março, o período de intervenção do Estado nas
+  vinte e sete empresas do ex-grupo Borges
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 136/79
+official_date: null
+publication_date: '1979-05-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 105/1979, Série I de 1979-05-08
+  number: '105'
+  series: I
+  supplement: null
+  pages: 840 - 841
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10500/08400841.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '383035'
+  dre_path: /dr/detalhe/resolucao/136-1979-383035
+  internal: pt:dre:383035:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/136-1979-383035
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/136-1979-383035
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-08-02T00:00:00Z'
+integrity:
+  source_sha256: ec247fe41a34d4988fc9d60dd96c1fd4eb7b627fc0678af1da83bda4c652a5df
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-136-383035.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:381355:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 136/79
+
+Por despacho do Ministro das Finanças, de 9 de Julho de 1976, publicado no Diário da República, de 22 do mesmo mês, foi decidido, ao abrigo do n.º 1 do artigo 4.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), suspender provisoriamente as gerências das vinte e sete empresas do «ex-grupo Borges» e nomear gestores por parte do Estado para as mesmas.
+
+Na sequência do inquérito feito por técnicos da Inspecção-Geral de Finanças, de acordo com despacho do Ministro das Finanças, foi decidida a intervenção do Estado nas referidas empresas, conforme Resolução do Conselho de Ministros n.º 84/77, de 31 de Março, publicada no Diário da República, de 20 de Abril de 1977.
+
+Pela Resolução do Conselho de Ministros n.º 214/77, de 10 de Agosto, publicada no Diário da República, de 8 de Setembro, foi explicitada a manutenção da suspensão dos administradores e gerentes das sociedades, bem como a nomeação dos gestores feita pelo referido despacho do Ministro das Finanças.
+
+Por despacho do Ministro das Finanças e do Plano, de 1 de Junho de 1978, publicado no Diário da República, de 9 do mesmo mês, foi nomeada a comissão interministerial a que se refere o [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), de 31 de Dezembro.
+
+Pela Resolução do Conselho de Ministros n.º 15/79, de 3 de Janeiro, publicada no Diário da República, de 17 de Janeiro, foi decidido prorrogar, até 31 de Março de 1979, o prazo da intervenção do Estado nas vinte e sete empresas.
+
+Considerando que a comissão interministerial referida já concluiu o relatório a que se refere o n.º 7 do artigo 3.º do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058);
+
+Considerando que do referido relatório se conclui que as referidas empresas se encontram praticamente todas em situação de falência, com passivos largamente excedentários relativamente aos activos, impossibilitando-as, deste modo, de satisfazer os seus compromissos;
+
+Considerando que, dado o estado a que chegaram, não se admite sequer a possibilidade de proceder à sua viabilização e saneamento económico-financeiro, mediante a aplicação de algumas das medidas consideradas no artigo 20.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio;
+
+Considerando que já a Resolução do Conselho de Ministros n.º 51-H/77, de 28 de Fevereiro, publicada no suplemento do Diário da República deste mesmo dia, 1.ª série, previa a transmissão para uma instituição parabancária a criar dos créditos de que o Banco Borges & Irmão é titular sobre o conjunto das vinte e sete empresas;
+
+Considerando que o [Decreto-Lei n.º 10/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1978-447958), de 19 de Janeiro, criou a Finangeste - Empresa Financeira de Gestão e Desenvolvimento, E. P., em cujas atribuições se incluem, entre outras, a prática de operações de aquisição e cobrança de créditos e de gestão e valorização de patrimónios, cuja titularidade lhe advenha por virtude daquela actividade ou da transmissão de activos e passivos de instituições de crédito;
+
+Considerando que foi recentemente nomeada a comissão instaladora para aquela parabancária, prevista no artigo 8.º do [Decreto-Lei n.º 10/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1978-447958), de 19 de Janeiro, pelo que se prevê que a referida instituição venha a entrar em funcionamento num prazo relativamente curto, podendo-se assim dar execução à mencionada [Resolução n.º 51-H/77](https://diariodarepublica.pt/dr/detalhe/resolucao/51-h-1977-509042), de 28 de Fevereiro:
+
+O Conselho de Ministros, reunido em 11 de Abril, resolveu:
+
+Prorrogar por cento e vinte dias, com efeitos a partir de 31 de Março de 1979, o período de intervenção do Estado nas seguintes empresas:
+
+Alcácer - Companhia de Investimentos Financeiros, Industriais e Agrícolas, S. A. R. L.
+
+Casa Agrícola da Quinta da Matta, Lda.
+
+Empresa Imobiliária da Fonte Nova, Lda.
+
+Inversora - Investimentos, Organização e Administração de Empresas, Lda.
+
+Lisfina - Companhia de Investimentos Industriais de Lisboa, Lda.
+
+Lisinur - Companhia de Investimentos Urbanos de Lisboa, Lda.
+
+Cepor - Centro Exportador do Norte de Portugal, Lda.
+
+Difina - Companhia de Investimentos Financeiros, Industriais e Agrícolas, Lda.
+
+Fabrinor - Sociedade de Estudos e Projectos Fabris, Lda.
+
+Gesfina - Gabinete de Estudos e de Administração, Lda.
+
+Manufa - Manufacturas Têxteis, Lda.
+
+Privatur - Empresa de Estudos Industriais, Lda.
+
+Proexpor - Sociedade Promotora de Comércio Externo, Lda.
+
+Rior - Sociedade de Investimentos do Rio Douro, Lda.
+
+Sogenor - Sociedade Gestora de Empreendimentos Fabris do Norte, Lda.
+
+Ciparque - Companhia Imobiliária do Parque, S. A. R. L.
+
+Cimobin - Companhia Imobiliária e de Investimentos, S. A. R. L.
+
+Cegeste - Centro de Estudos e Gestão Económica, Lda.
+
+Multifil - Companhia de Plásticos e Filamentos, Lda.
+
+Pró - Sociedade de Estudos e Prospecção de Mercado, Lda.
+
+Icesa - Promotora de Edificações Urbanas, S. A. R. L.
+
+Cisa - Companhia de Investimentos, Lda.
+
+Defiório - Companhia Europeia de Investimentos, Lda.
+
+Surto - Empreendimentos Urbanísticos do Sul, Lda.
+
+Primal, Lda. - Sociedade Promotora de Investimentos Alcácer.
+
+Contrial - Companhia Industrial e Agrícola, Lda.
+
+Inca - Investimentos Urbanos de Santo António dos Cavaleiros, Lda.
+
+Presidência do Conselho de Ministros, 11 de Abril de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

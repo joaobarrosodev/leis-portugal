@@ -1,0 +1,739 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:170221042:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-170221049",
+ "dre_path": "/dr/detalhe/lei/68-2021-170221042",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "170221382",
+    "170221383",
+    "170221384",
+    "170221385",
+    "170221386",
+    "170221387",
+    "170221388",
+    "170221389",
+    "170221390",
+    "170221391",
+    "170221392",
+    "170221393",
+    "170221394",
+    "170221395",
+    "170221396",
+    "170221397",
+    "170221398",
+    "170221399",
+    "170221400",
+    "170221401",
+    "170221402",
+    "170221403",
+    "170221404",
+    "170221405",
+    "170221406",
+    "170221407",
+    "170221408",
+    "170221409",
+    "170221410",
+    "170221411",
+    "170221412",
+    "170221413",
+    "170221414",
+    "170221415",
+    "170221416",
+    "170221417",
+    "170221418",
+    "170221419",
+    "170221420",
+    "170221421",
+    "170221422",
+    "170221423",
+    "170221424",
+    "170221425",
+    "170221426",
+    "170221427",
+    "170221428",
+    "170221429",
+    "170221430",
+    "170221431",
+    "170221432",
+    "170221433",
+    "170221434",
+    "170221435",
+    "170221436",
+    "170221437",
+    "170221438",
+    "170221439",
+    "170221440",
+    "170221441",
+    "170221442",
+    "170221443",
+    "170221444",
+    "170221445",
+    "170221446",
+    "170221447",
+    "170221448",
+    "170221449",
+    "170221450",
+    "170221451",
+    "170221452",
+    "170221453",
+    "170221454",
+    "170221455",
+    "170221456",
+    "170221457",
+    "170221458",
+    "170221459",
+    "170221460"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:171522718:por",
+     "title": "Declaração de Retificação n.º 31/2021",
+     "published": "2021-09-20",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/31-2021-171522718",
+     "date": "2021-08-27"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "170221382": {
+   "fragment_id": "170221050",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 68/2021\n\nde 26 de agosto\n\nSumário: Aprova os princípios gerais em matéria de dados abertos e transpõe para a ordem jurídica interna a Diretiva (UE) 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativa aos dados abertos e à reutilização de informação do setor público, alterando a Lei n.º 26/2016, de 22 de agosto.\n\nAprova os princípios gerais em matéria de dados abertos e transpõe para a ordem jurídica interna a Diretiva (UE) 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativa aos dados abertos e à reutilização de informação do setor público, alterando a Lei n.º 26/2016, de 22 de agosto\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "170221383": {
+   "fragment_id": "170221051",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "170221384": {
+   "fragment_id": "170221052",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova os princípios gerais em matéria de dados abertos e transpõe para a ordem jurídica interna a Diretiva (UE) 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativa aos dados abertos e à reutilização de informação do setor público, procedendo à terceira alteração à Lei n.º 26/2016, de 22 de agosto, que aprova o regime de acesso à informação administrativa e ambiental e de reutilização dos documentos administrativos, alterada pela Lei n.º 58/2019, de 8 de agosto, e pela Lei n.º 33/2020, de 12 de agosto."
+  },
+  "170221385": {
+   "fragment_id": "170221053",
+   "type": 1,
+   "heading": "Capítulo II — Dados abertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dados abertos"
+  },
+  "170221386": {
+   "fragment_id": "170221054",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípio geral de dados abertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípio geral de dados abertos\n\n1 - As entidades sujeitas às regras e princípios da administração aberta devem assegurar que os documentos e dados que produzam ou disponibilizem sejam, sempre que possível, abertos desde a sua conceção, tendo em vista a sua disponibilização futura aos cidadãos e organizações sociais.\n\n2 - No quadro da Estratégia Nacional de Dados Abertos são elaborados e aplicados planos que fixem as metas a atingir periodicamente em matéria de disponibilização de dados abertos, bem como programas de financiamento e métricas de avaliação de resultados.\n\n3 - As regras aplicáveis à definição e execução da Estratégia Nacional de Dados Abertos são fixadas em diploma próprio."
+  },
+  "170221387": {
+   "fragment_id": "170221055",
+   "type": 11,
+   "heading": "Artigo 3.º — Características dos documentos e dados abertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Características dos documentos e dados abertos\n\nOs documentos e dados abertos devem ser localizáveis, acessíveis, interoperáveis e reutilizáveis."
+  },
+  "170221388": {
+   "fragment_id": "170221056",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigações das entidades abrangidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações das entidades abrangidas\n\n1 - As entidades abrangidas pela presente lei devem assegurar a publicitação dos documentos e dados disponíveis, dos inventários de documentos e metadados conexos acessíveis, bem como das possibilidades de pesquisa, nos termos do regime de acesso à informação administrativa e ambiental e da reutilização de documentos administrativos.\n\n2 - As informações referidas no número anterior devem ser indexadas no portal dados.gov, com vista a facilitar a pesquisa de documentos ou dados disponíveis para reutilização.\n\n3 - As entidades abrangidas devem designar um responsável pelo cumprimento das disposições da presente lei em matéria de dados abertos, a quem compete nomeadamente:\n\na) Organizar e promover as obrigações de divulgação ativa de informação a que está vinculado o órgão ou a entidade em causa;\n\nb) Acompanhar a tramitação dos pedidos de reutilização;\n\nc) Estabelecer a articulação necessária ao exercício das competências da Comissão de Acesso aos Documentos Administrativos (CADA).\n\n4 - A aplicação do disposto no presente artigo é facultativa para as freguesias com menos de 10 000 eleitores."
+  },
+  "170221389": {
+   "fragment_id": "170221057",
+   "type": 11,
+   "heading": "Artigo 5.º — Catálogo nacional de dados abertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Catálogo nacional de dados abertos\n\n1 - O portal dados.gov constitui-se como o catálogo central de dados abertos em Portugal, tendo como função agregar, referenciar, publicar e alojar dados abertos de diferentes organismos e setores da Administração Pública central, regional e local, funcionando também como um portal indexador de conteúdos alojados noutros portais ou catálogos de dados abertos, setoriais ou descentralizados.\n\n2 - Os dados abertos disponibilizados no portal dados.gov devem manter níveis de atualização e qualidade permanente, para que possam ser reutilizados com fiabilidade por outras aplicações informáticas.\n\n3 - Se a entidade produtora dos dados abertos não os tornar acessíveis a partir de sistemas próprios, deve disponibilizá-los ao portal dados.gov, devendo ainda garantir que estão aí sempre atualizados."
+  },
+  "170221390": {
+   "fragment_id": "170221058",
+   "type": 11,
+   "heading": "Artigo 6.º — Disponibilização de metadados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disponibilização de metadados\n\nOs metadados conexos dos documentos e dados abertos devem ser sempre disponibilizados de forma atualizada ao portal dados.gov, com vista a facilitar a sua pesquisa e localização como dados abertos, incluindo nos casos em que a entidade produtora dos dados abertos os torna acessíveis a partir de sistemas próprios."
+  },
+  "170221391": {
+   "fragment_id": "170221059",
+   "type": 1,
+   "heading": "Capítulo III — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alterações legislativas"
+  },
+  "170221392": {
+   "fragment_id": "170221060",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração à Lei n.º 26/2016, de 22 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração à Lei n.º 26/2016, de 22 de agosto\n\nOs artigos 1.º, 3.º, 6.º, 19.º, 20.º, 22.º, 23.º, 25.º, 27.º e 46.º da Lei n.º 26/2016, de 22 de agosto, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - A presente lei regula ainda a reutilização de documentos relativos a atividades desenvolvidas pelos órgãos e entidades referidas no artigo 4.º, transpondo para a ordem jurídica interna a Diretiva (UE) 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativa aos dados abertos e à reutilização de informações do setor público.\n\n3 - ...\n\n4 - ...\n\nArtigo 3.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) 'Documento nominativo', o documento que contenha dados pessoais, na aceção do regime jurídico de proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados;\n\nc) 'Formato aberto', um formato de dados disponibilizado ao público sem qualquer restrição e reutilizável, independentemente da plataforma utilizada, nos termos do regime jurídico que estabelece a adoção de normas abertas nos sistemas informáticos do Estado;\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) 'Reutilização', a utilização, por pessoas singulares ou coletivas, de documentos administrativos ou dados na posse dos órgãos e entidades referidos no artigo seguinte, ou detidos em nome destes, para fins comerciais ou não comerciais diferentes do fim inicial para o qual os documentos foram produzidos;\n\nh) 'Anonimização', o processo de transformar informações, dados ou documentos, qualquer que seja a sua forma ou formato, de modo a que não possam revelar pessoa singular identificada ou identificável neles referida, ou o processo de tornar anónimos os dados pessoais, por forma a que a pessoa em causa não seja ou deixe de ser identificável;\n\ni) 'Conjuntos de dados de elevado valor', documentos ou dados identificados por atos de execução da Comissão Europeia cuja reutilização está associada a importantes benefícios socioeconómicos;\n\nj) 'Dados abertos', dados em formato aberto que podem ser utilizados, reutilizados e partilhados por qualquer pessoa e para qualquer finalidade, nos termos da presente lei e demais legislação sobre acesso à informação e documentos administrativos;\n\nk) 'Dados dinâmicos', documentos ou dados em formato digital, sujeitos a atualizações frequentes ou em tempo real, em particular devido à sua volatilidade ou rápida obsolescência, como os dados gerados por sensores;\n\nl) 'Dados de investigação', documentos ou dados em formato digital, com exceção das publicações científicas, que são recolhidos ou produzidos no decurso de atividades de investigação científica e utilizados como elementos de prova no processo de investigação, ou que são geralmente considerados na comunidade de investigação como necessários para validar os resultados da investigação.\n\n2 - ...\n\nArtigo 6.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\na) ...\n\nb) Colocar em causa a capacidade operacional ou a segurança das instalações ou do pessoal das Forças Armadas, dos serviços de informações da República Portuguesa, das forças e serviços de segurança e dos órgãos de polícia criminal, dos estabelecimentos de reinserção e serviços prisionais e dos centros educativos previstos na Lei n.º 166/99, de 14 de setembro, que aprova a Lei Tutelar Educativa, bem como a segurança das representações diplomáticas e consulares e das infraestruturas críticas; ou\n\nc) ...\n\n8 - ...\n\n9 - ...\n\nArtigo 19.º\n\nÂmbito de reutilização\n\n1 - Os documentos administrativos cujo acesso seja autorizado, nos termos da presente lei, podem ser reutilizados para fins comerciais ou não comerciais, salvo o disposto em contrário na presente lei ou em legislação específica.\n\n2 - ...\n\n3 - As disposições da presente secção não são aplicáveis aos documentos detidos ou elaborados por empresas de radiodifusão de serviço público, suas filiais e outras entidades que cumpram funções de radiodifusão de serviço público.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - Não é exigível aos órgãos e entidades da administração pública que mantenham a produção, disponibilização e o armazenamento de determinado tipo de documento com vista à sua reutilização.\n\n9 - As entidades sujeitas à presente lei devem procurar que os documentos e dados que produzam ou disponibilizem sejam, sempre que possível, abertos desde a sua conceção, tendo em vista a sua disponibilização futura.\n\n10 - Os órgãos e entidades da administração pública não podem invocar o direito do fabricante de uma base de dados de proibir a reutilização da totalidade ou de uma parte substancial do conteúdo da mesma, conforme previsto no n.º 1 do artigo 12.º do Decreto-Lei n.º 122/2000, de 4 de julho, com o intuito de impedir a reutilização de documentos ou de a restringir para além dos limites estabelecidos na presente lei.\n\n11 - A reutilização de documentos nominativos tem regime próprio, sendo o seu tratamento e anonimização para efeitos de reutilização e divulgação em ambiente digital realizados de acordo com o disposto no regime jurídico de proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e demais legislação aplicável.\n\nArtigo 20.º\n\n[...]\n\nNão podem ser objeto de reutilização os documentos:\n\na) Decorrentes do exercício de uma atividade de gestão privada da entidade em causa;\n\nb) Cujos direitos de propriedade intelectual sejam detidos por terceiros ou cuja reprodução, difusão ou utilização possam configurar práticas de concorrência desleal;\n\nc) Nominativos, salvo autorização do titular, disposição legal que a preveja expressamente, fundamento legal ao abrigo da legislação aplicável em matéria de dados pessoais para o seu tratamento ou quando os dados pessoais possam ser anonimizados sem possibilidade de reversão, devendo nesse caso prever-se, no âmbito da autorização concedida e nos termos do n.º 1 do artigo 23.º, medidas especiais de segurança destinadas a proteger as categorias especiais de dados, e em geral aqueles cujo acesso ou reutilização seja excluído ou restrito por força do regime legal de proteção de dados pessoais;\n\nd) Que contenham apenas logótipos, brasões e insígnias;\n\ne) Na posse de empresas públicas quando relacionados com atividades diretamente expostas à concorrência;\n\nf) Que contenham categorias especiais de dados em razão de:\n\ni) Proteção da segurança interna ou defesa nacional;\n\nii) Confidencialidade de dados estatísticos;\n\niii) Confidencialidade de dados comerciais, nomeadamente, segredos comerciais, profissionais ou empresariais;\n\ng) Na posse de instituições culturais, exceto bibliotecas, incluindo bibliotecas de estabelecimentos de ensino superior, museus e arquivos;\n\nh) Na posse de estabelecimentos de educação de ensino básico e secundário, de estabelecimentos de ensino superior e de estabelecimentos de investigação, incluindo organizações criadas com vista à transferência de resultados de investigação, salvo documentos de investigação, nos termos do artigo 27.º-B.\n\nArtigo 22.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) Responder ao requerente da reutilização, indicando as razões da recusa, total ou parcial, do pedido, bem como quais as garantias de recurso administrativo e contencioso de que dispõe o requerente contra essa decisão, nomeadamente a apresentação de queixa junto da CADA e a intimação judicial da entidade requerida.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - O disposto nos números anteriores não é aplicável aos estabelecimentos de ensino, organismos que realizam investigação e organismos financiadores de investigação.\n\n7 - O cumprimento do dever de disponibilização de documentos ou dados para reutilização, nos termos da presente lei, deve, sempre que possível, ser realizado através da publicação, catalogação ou carregamento dos dados solicitados no portal dados.gov e do envio ao requerente do endereço de acesso aos mesmos nesse portal.\n\nArtigo 23.º\n\n[...]\n\n1 - A autorização concedida nos termos do artigo anterior pode ser subordinada à observância de distintas condições de reutilização, a definir pelas entidades, caso em que deve ser titulada por licença disponibilizada em formato digital, suscetível de processamento eletrónico, designadamente:\n\na) Licença predefinida de acesso aberto, disponível em linha, que concede direitos de reutilização mais amplos, sem limitações jurídicas, tecnológicas, financeiras ou geográficas;\n\nb) Licença predefinida, disponível em linha, de acesso com limitações jurídicas, tecnológicas, financeiras, geográficas ou outras;\n\nc) Licença não predefinida.\n\n2 - A reutilização de documentos ou dados é tendencialmente gratuita, podendo estar sujeita ao pagamento de taxas por parte do requerente, quando necessário, fixadas pelas entidades de acordo com o disposto nos números seguintes.\n\n3 - Sem prejuízo do disposto no artigo 15.º do Código do Procedimento Administrativo, é gratuita a reutilização de:\n\na) Documentos disponibilizados através da Internet, nos termos dos artigos 10.º e 11.º;\n\nb) Documentos disponibilizados para fins educativos ou de investigação e desenvolvimento;\n\nc) Conjuntos de dados de elevado valor, nos termos do artigo 27.º-A;\n\nd) Dados de investigação, nos termos do artigo 27.º-B.\n\nArtigo 25.º\n\nAcordos de exclusividade\n\n1 - A reutilização de documentos é permitida a todos os potenciais intervenientes no mercado.\n\n2 - Os acordos celebrados entre órgãos e entidades da Administração Pública ou empresas públicas que possuam esses documentos e terceiros não criam direitos de exclusividade.\n\n3 - Nos casos em que seja necessário atribuir um direito de exclusividade para a prestação de um serviço de interesse público, a respetiva fundamentação deve ser reavaliada, pelo menos de três em três anos.\n\n4 - Os acordos de exclusividade devem ser transparentes e publicados no portal dados.gov, pelo menos dois meses antes da respetiva data de entrada em vigor e sempre que sejam objeto de alteração.\n\n5 - O disposto nos números anteriores não se aplica à digitalização de recursos culturais.\n\n6 - Os direitos de exclusividade acordados para a digitalização de recursos culturais não devem exceder o prazo de 10 anos, sem prejuízo do regime relativo a direitos de autor e direitos conexos.\n\n7 - Caso seja excedido o prazo previsto no número anterior, a respetiva fundamentação deve ser reavaliada nesse ano, e posteriormente, se aplicável, a reavaliação deve ocorrer de sete em sete anos.\n\n8 - Nos acordos de exclusividade a que se refere o n.º 6 é prevista a entrega a título gratuito, ao organismo do setor público, de uma cópia dos recursos culturais digitalizados, que deve estar disponível para reutilização, se possível em formatos abertos, no termo do período de exclusividade.\n\n9 - As disposições legais ou regulamentares ou práticas que, embora não concedendo expressamente um direito de exclusividade, visem ou sejam previsivelmente conducentes a uma limitação da disponibilidade para reutilização de documentos por terceiros devem ser transparentes e publicadas em linha no portal dados.gov, pelo menos dois meses antes da sua entrada em vigor e sempre que sejam objeto de alteração.\n\n10 - Os efeitos das disposições e práticas previstas no número anterior devem ser objeto de reavaliação periódica e, em qualquer caso, revistos de três em três anos.\n\nArtigo 27.º\n\n[...]\n\n1 - As entidades abrangidas pelas disposições da presente secção devem disponibilizar, no seu sítio na Internet, listas atualizadas dos documentos e dados disponíveis para reutilização.\n\n2 - ...\n\n3 - As informações previstas nos números anteriores devem ser indexadas no portal dados.gov, com vista a facilitar a pesquisa de documentos ou dados disponíveis para reutilização.\n\n4 - Os documentos e dados abertos devem ser localizáveis, acessíveis, interoperáveis e reutilizáveis.\n\n5 - O portal dados.gov constitui-se como o catálogo central de dados abertos em Portugal, tendo como função agregar, referenciar, publicar e alojar dados abertos de diferentes organismos e setores da Administração Pública central, regional e local, funcionando também como um portal indexador de conteúdos alojados noutros portais ou catálogos de dados abertos, setoriais ou descentralizados, pelo que:\n\na) Os dados abertos nele disponibilizados devem manter níveis de atualização e qualidade permanente, para que possam ser reutilizados com fiabilidade por outras aplicações informáticas;\n\nb) Os metadados conexos dos dados abertos devem ser sempre disponibilizados de forma atualizada ao portal dados.gov, com vista a facilitar a sua procura e localização como dados abertos, incluindo aqui os casos em que a entidade produtora dos dados abertos os torna acessíveis a partir de sistemas próprios;\n\nc) Se a entidade produtora dos dados abertos não os tornar acessíveis a partir de sistemas próprios, deve disponibilizar esses dados ao portal dados.gov para que sejam acessíveis a partir desse sistema, devendo ainda garantir que estão aí sempre atualizados.\n\n6 - (Anterior n.º 4.)\n\nArtigo 46.º\n\n[...]\n\n1 - Os acordos de exclusividade existentes que não respeitem o disposto no artigo 25.º caducam no termo do respetivo contrato.\n\n2 - ...\n\n3 - ...\n\n4 - ...»"
+  },
+  "170221393": {
+   "fragment_id": "170221061",
+   "type": 11,
+   "heading": "Artigo 8.º — Aditamento à Lei n.º 26/2016, de 22 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aditamento à Lei n.º 26/2016, de 22 de agosto\n\nSão aditados à Lei n.º 26/2016, de 22 de agosto, os artigos 19.º-A, 23.º-A, 27.º-A e 27.º-B, com a seguinte redação:\n\n«Artigo 19.º-A\n\nDados dinâmicos\n\n1 - Os órgãos e entidades da Administração Pública disponibilizam dados dinâmicos para reutilização imediatamente após a respetiva recolha, através de Interface de Programação de Aplicações (IPA) adequado e sempre que se justifique, sob a forma de descarregamento em bloco.\n\n2 - Caso a disponibilização imediata dos dados dinâmicos, nos termos do número anterior, seja suscetível de exceder as capacidades financeiras e técnicas do organismo do setor público, impondo-lhe um esforço desproporcionado, pode a mesma ocorrer num prazo razoável ou com restrições técnicas temporárias que não prejudiquem injustificadamente a exploração do seu potencial económico e social.\n\n3 - Os dados abertos que sejam disponibilizados através do recurso a IPA devem ser registados nos catálogos de dados disponibilizados no portal dados.gov.\n\nArtigo 23.º-A\n\nTaxas devidas pela reutilização\n\n1 - As taxas cobradas pela reutilização não podem exceder os custos marginais suportados com a recolha, produção, reprodução, disponibilização e divulgação dos documentos ou dados, bem como com a anonimização dos dados pessoais, com as medidas destinadas a proteger informações comerciais de caráter confidencial, e com os encargos de remessa, quando esta seja feita por via postal.\n\n2 - Quando o documento disponibilizado constituir o resultado material de uma atividade administrativa para a qual sejam devidas taxas ou emolumentos, os custos referidos no número anterior podem ser acrescidos de um valor razoável, tendo em vista os custos diretos e indiretos dos investimentos e a boa qualidade do serviço, nos termos da legislação aplicável.\n\n3 - Quando o documento ou dados requeridos integrarem uma biblioteca, incluindo uma biblioteca das instituições de ensino superior, um museu ou um arquivo, as taxas incluem também os custos da sua recolha, produção, preservação bem como do armazenamento e da aquisição de direitos, e podem ser acrescidas de um retorno razoável do investimento tendo em vista os custos diretos e indiretos dos investimentos e a boa qualidade do serviço, nos termos do n.º 8 e demais legislação aplicável.\n\n4 - Na fixação das taxas a cobrar nos termos dos números anteriores, a entidade requerida deve basear-se nos custos durante o exercício contabilístico normal, calculados de acordo com os princípios contabilísticos aplicáveis.\n\n5 - As condições de reutilização e as taxas cobradas não devem restringir desnecessariamente as possibilidades de reutilização, não podendo a entidade requerida, por essa via, discriminar categorias de reutilização equivalentes, incluindo a reutilização transfronteiriça, ou limitar a concorrência.\n\n6 - As entidades podem reduzir ou isentar de taxa a reutilização requerida por entidades com ou sem fins lucrativos, desde que em prossecução de fins e atividades de reconhecido interesse social.\n\n7 - Os organismos do setor público que são obrigados a gerar receitas para cobrir uma parte substancial dos seus custos relacionados com o desempenho das suas missões de serviço público e as empresas públicas podem cobrar taxas de valor superior ao previsto no n.º 1.\n\n8 - As fórmulas de cálculo das taxas previstas no número anterior são fixadas por decreto regulamentar, de acordo com os seguintes critérios:\n\na) Comutatividade, devendo a taxa assegurar a recuperação dos custos marginais, nos termos do n.º 1;\n\nb) Harmonização, devendo a taxa ser calculada de acordo com os princípios contabilísticos aplicáveis à entidade;\n\nc) Sustentabilidade, devendo a taxa permitir um retorno razoável do investimento, mediante a aplicação de uma percentagem que acresça ao valor dos custos marginais, mas que não exceda em mais de cinco pontos percentuais a taxa de juro fixa do Banco Central Europeu.\n\n9 - Os organismos do setor público referidos no n.º 7 constam de lista publicada no portal dados.gov.\n\n10 - Sem prejuízo do disposto no artigo seguinte, as fórmulas de cálculo das taxas aplicáveis, fixadas nos termos do decreto regulamentar referido no n.º 8, são divulgadas no portal dados.gov, o qual disponibiliza um simulador de cálculo das mesmas.\n\n11 - Os órgãos e entidades públicas que reutilizem documentos só ficam sujeitos às taxas e demais condições legais no âmbito da sua atividade de gestão privada.\n\nArtigo 27.º-A\n\nConjuntos de dados de elevado valor\n\n1 - Os conjuntos de dados de elevado valor têm as seguintes categorias temáticas:\n\na) Geoespaciais;\n\nb) Observação da Terra e do ambiente;\n\nc) Meteorológicas;\n\nd) Estatísticas;\n\ne) Empresas e propriedade de empresas;\n\nf) Mobilidade.\n\n2 - Consideram-se incluídas no número anterior as categorias temáticas de dados de elevado valor que venham a ser acrescentadas pela Comissão Europeia ao abrigo do capítulo v da Diretiva 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, para refletir a evolução tecnológica e do mercado.\n\n3 - Os conjuntos específicos de dados de elevado valor, identificados pela Comissão Europeia por ato delegado ao abrigo do capítulo v da Diretiva 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, nas categorias temáticas previstas no n.º 1 ou que sejam acrescentadas nos termos do número anterior devem ser:\n\na) Disponibilizados gratuitamente, sem prejuízo do disposto no número seguinte;\n\nb) Legíveis por máquina;\n\nc) Acessíveis através de IPA; e\n\nd) Fornecidos sob a forma de descarregamento em bloco, sempre que se justifique.\n\n4 - A disponibilização sem encargos prevista no número anterior não se aplica aos conjuntos específicos de dados de elevado valor na posse de:\n\na) Empresas públicas, quando conduza a uma distorção da concorrência nos mercados relevantes;\n\nb) Bibliotecas, incluindo bibliotecas universitárias, museus ou arquivos;\n\nc) Organismos do setor público que são obrigados a gerar receitas para cobrir uma parte substancial dos seus custos relacionados com o desempenho das suas missões de serviço público, quando tenha um impacto substancial no respetivo orçamento, até ao termo do prazo de dois anos após a entrada em vigor do ato delegado da Comissão Europeia referido no número anterior.\n\nArtigo 27.º-B\n\nDados de investigação\n\n1 - Os dados de investigação podem ser reutilizados para fins comerciais ou não comerciais, quando:\n\na) Sejam financiados por fundos públicos; e\n\nb) Os investigadores, os organismos que realizam investigação ou os organismos financiadores de investigação já os tenham disponibilizado ao público através:\n\ni) De um repositório institucional ou temático;\n\nii) De outras infraestruturas de dados, ou publicações de acesso aberto; ou\n\niii) Do portal dados.gov.\n\n2 - Os organismos que realizam investigação e os organismos financiadores de investigação devem assegurar, na divulgação de dados de investigação, os direitos de propriedade intelectual preexistentes, a proteção dos dados pessoais, a confidencialidade, a segurança e os interesses comerciais legítimos e as atividades de transferência de conhecimentos, procurando que os dados sejam tão abertos quanto possível, mas tão fechados quanto necessário.\n\n3 - O acesso a dados da investigação deve ser promovido mediante políticas de acesso aberto por defeito e que assegurem que os dados são localizáveis, acessíveis, interoperáveis e reutilizáveis.\n\n4 - A reutilização de dados de investigação ao abrigo do presente artigo é gratuita.»"
+  },
+  "170221394": {
+   "fragment_id": "170221062",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração sistemática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração sistemática\n\nOs artigos 36.º e 37.º da Lei n.º 26/2016, de 22 de agosto, passam a integrar o seu capítulo iv sendo renumerados, respetivamente, como artigo 41.º e artigo"
+  },
+  "170221395": {
+   "fragment_id": "170221063",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "170221396": {
+   "fragment_id": "170221064",
+   "type": 11,
+   "heading": "Artigo 10.º — Monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Monitorização\n\n1 - A aplicação do regime de reutilização é objeto de monitorização, até dezembro de 2024, pela CADA.\n\n2 - A monitorização deve abranger, em especial, o âmbito e o impacto social e económico da presente lei, incluindo:\n\na) O nível do aumento da reutilização de documentos do setor público a que se aplica a presente lei, especialmente pelas pequenas e médias empresas;\n\nb) O impacto dos conjuntos de dados de elevado valor;\n\nc) Os efeitos dos princípios aplicáveis aos emolumentos e à reutilização de textos oficiais de caráter legislativo e administrativo;\n\nd) A reutilização de documentos na posse de entidades que não sejam organismos do setor público;\n\ne) A disponibilidade e utilização dos interfaces de programação de aplicações;\n\nf) A interação entre as regras de proteção de dados e as possibilidades de reutilização;\n\ng) Outras possibilidades de melhorar o funcionamento do mercado interno e de apoiar o desenvolvimento da economia e do mercado de trab"
+  },
+  "170221397": {
+   "fragment_id": "170221065",
+   "type": 11,
+   "heading": "Artigo 11.º — Remissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Remissões\n\nAs remissões para a Diretiva 2003/98/CE do Parlamento Europeu e do Conselho, de 17 de novembro, constantes na Lei n.º 26/2016, de 22 de agosto, e em outros diplomas vigentes devem entender-se como feitas para a Diretiva (UE) 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, de acordo com a tabela de correspondência constante do seu anexo"
+  },
+  "170221398": {
+   "fragment_id": "170221066",
+   "type": 11,
+   "heading": "Artigo 12.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Republicação\n\nÉ republicada, em anexo à presente lei, a Lei n.º 26/2016, de 22 de ag"
+  },
+  "170221399": {
+   "fragment_id": "170221067",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\nAprovada em 20 de julho de 2021.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 12 de agosto de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 13 de agosto de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "170221400": {
+   "fragment_id": "170221068",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "170221401": {
+   "fragment_id": "170221069",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei regula o acesso aos documentos administrativos e à informação administrativa, incluindo em matéria ambiental, transpondo para a ordem jurídica interna a Diretiva 2003/4/CE, do Parlamento Europeu e do Conselho, de 28 de janeiro de 2003, relativa ao acesso do público às informações sobre ambiente e que revoga a Diretiva 90/313/CEE do Conselho.\n\n2 - A presente lei regula ainda a reutilização de documentos relativos a atividades desenvolvidas pelos órgãos e entidades referidas no artigo 4.º, transpondo para a ordem jurídica interna a Diretiva (UE) 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativa aos dados abertos e à reutilização de informações do setor público.\n\n3 - O acesso a informação e a documentos nominativos, nomeadamente quando incluam dados de saúde, produzidos ou detidos pelos órgãos ou entidades referidos no artigo 4.º, quando efetuado pelo titular dos dados, por terceiro autorizado pelo titular ou por quem demonstre ser titular de um interesse direto, pessoal, legítimo e constitucionalmente protegido na informação, rege-se pela presente lei, sem prejuízo do regime legal de proteção de dados pessoais.\n\n4 - A presente lei não prejudica a aplicação do disposto em legislação específica, designadamente quanto:\n\na) Ao regime de exercício do direito dos cidadãos a serem informados pela Administração Pública sobre o andamento dos processos em que sejam diretamente interessados e a conhecer as resoluções definitivas que sobre eles forem tomadas, que se rege pelo Código do Procedimento Administrativo;\n\nb) Ao acesso a informação e a documentos relativos à segurança interna e externa e à investigação criminal, ou à instrução tendente a aferir a responsabilidade contraordenacional, financeira, disciplinar ou meramente administrativa, que se rege por legislação própria;\n\nc) Ao acesso a documentos notariais e registrais, a documentos de identificação civil e criminal, a informação e documentação constantes do recenseamento eleitoral, bem como ao acesso a documentos objeto de outros sistemas de informação regulados por legislação especial;\n\nd) Ao acesso a informação e documentos abrangidos pelo segredo de justiça, segredo fiscal, segredo estatístico, segredo bancário, segredo médico e demais segredos profissionais, bem como a documentos na posse de inspeções-gerais e de outras entidades, quando digam respeito a matérias de que resulte responsabilidade financeira, disciplinar ou meramente administrativa, desde que o procedimento esteja sujeito a regime de segredo, nos termos da lei aplicável."
+  },
+  "170221402": {
+   "fragment_id": "170221070",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípio da administração aberta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípio da administração aberta\n\n1 - O acesso e a reutilização da informação administrativa são assegurados de acordo com os demais princípios da atividade administrativa, designadamente os princípios da igualdade, da proporcionalidade, da justiça, da imparcialidade e da colaboração com os particulares.\n\n2 - A informação pública relevante para garantir a transparência da atividade administrativa, designadamente a relacionada com o funcionamento e controlo da atividade pública, é divulgada ativamente, de forma periódica e atualizada, pelos respetivos órgãos e entidades.\n\n3 - Na divulgação de informação e na disponibilização de informação para reutilização através da Internet deve assegurar-se a sua compreensibilidade, o acesso livre e universal, bem como a acessibilidade, a interoperabilidade, a qualidade, a integridade e a autenticidade dos dados publicados e ainda a sua identificação e localização."
+  },
+  "170221403": {
+   "fragment_id": "170221071",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos da presente lei, considera-se:\n\na) «Anonimização», o processo de transformar documentos em documentos anónimos que não digam respeito a uma pessoa singular identificada ou identificável, ou o processo de tornar anónimos os dados pessoais, por forma a que a pessoa em causa não seja ou deixe de ser identificável;\n\nb) «Documento nominativo», o documento que contenha dados pessoais, na aceção do regime jurídico de proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados;\n\nc) «Formato aberto», um formato de dados disponibilizado ao público sem qualquer restrição e reutilizável, independentemente da plataforma utilizada, nos termos do regime jurídico que estabelece a adoção de normas abertas nos sistemas informáticos do Estado;\n\nd) «Formato legível por máquina» um formato de ficheiro estruturado de modo a ser possível, por meio de aplicações de software, nele identificar, reconhecer e extrair dados específicos, incluindo declarações de facto, bem como a sua estrutura interna;\n\ne) «Dados de investigação» documentos ou dados em formato digital, com exceção das publicações científicas, que são recolhidos ou produzidos no decurso de atividades de investigação científica e utilizados como elementos de prova no processo de investigação, ou que são geralmente considerados na comunidade de investigação como necessários para validar os resultados da investigação;\n\nf) «Dados Pessoais», os dados pessoais na aceção do artigo 4.º, n.º 1, do Regulamento (U.E.) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados;\n\ng) «Reutilização», a utilização, por pessoas singulares ou coletivas, de documentos administrativos ou dados na posse dos órgãos e entidades referidos no artigo seguinte ou detidos em nome destes, para fins comerciais ou não comerciais diferentes do fim inicial para o qual os documentos foram produzidos;\n\nh) «Anonimização», o processo de transformar informações, dados ou documentos, qualquer que seja a sua forma ou formato, de modo a que não possam revelar pessoa singular identificada ou identificável neles referida, ou o processo de tornar anónimos os dados pessoais, por forma a que a pessoa em causa não seja ou deixe de ser identificável;\n\ni) «Conjuntos de dados de elevado valor», documentos ou dados identificados por atos de execução da Comissão Europeia cuja reutilização está associada a importantes benefícios socioeconómicos;\n\nj) «Dados abertos», dados em formato aberto que podem ser utilizados, reutilizados e partilhados por qualquer pessoa e para qualquer finalidade, nos termos da presente lei e demais legislação sobre acesso à informação e documentos administrativos;\n\nk) «Dados dinâmicos», documentos ou dados em formato digital, sujeitos a atualizações frequentes ou em tempo real, em particular devido à sua volatilidade ou rápida obsolescência, como os dados gerados por sensores;\n\nl) «Dados de investigação», documentos ou dados em formato digital, com exceção das publicações científicas, que são recolhidos ou produzidos no decurso de atividades de investigação científica e utilizados como elementos de prova no processo de investigação, ou que são geralmente considerados na comunidade de investigação como necessários para validar os resultados da investigação.\n\n2 - Não se consideram documentos administrativos, para efeitos da presente lei:\n\na) As notas pessoais, esboços, apontamentos, comunicações eletrónicas pessoais e outros registos de natureza semelhante, qualquer que seja o seu suporte;\n\nb) Os documentos cuja elaboração não releve da atividade administrativa, designadamente aqueles referentes à reunião do Conselho de Ministros e ou à reunião de Secretários de Estado, bem como à sua preparação;\n\nc) Os documentos produzidos no âmbito das relações diplomáticas do Estado português."
+  },
+  "170221404": {
+   "fragment_id": "170221072",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito de aplicação subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito de aplicação subjetivo\n\n1 - A presente lei aplica-se aos seguintes órgãos e entidades:\n\na) Órgãos de soberania e os órgãos do Estado e das regiões autónomas que integrem a Administração Pública;\n\nb) Demais órgãos do Estado e das regiões autónomas, na medida em que exerçam funções materialmente administrativas;\n\nc) Órgãos dos institutos públicos, das entidades administrativas independentes e das associações e fundações públicas;\n\nd) Órgãos das empresas públicas;\n\ne) Órgãos das autarquias locais, das entidades intermunicipais e de quaisquer outras associações e federações públicas locais;\n\nf) Órgãos das empresas regionais, municipais, intermunicipais ou metropolitanas, bem como de quaisquer outras empresas locais ou serviços municipalizados públicos;\n\ng) Associações ou fundações de direito privado nas quais os órgãos e entidades previstas no presente número exerçam poderes de controlo de gestão ou designem, direta ou indiretamente, a maioria dos titulares do órgão de administração, de direção ou de fiscalização;\n\nh) Outras entidades responsáveis pela gestão de arquivos com caráter público;\n\ni) Outras entidades no exercício de funções materialmente administrativas ou de poderes públicos, nomeadamente as que são titulares de concessões ou de delegações de serviços públicos.\n\n2 - As disposições da presente lei são ainda aplicáveis aos documentos detidos ou elaborados por quaisquer entidades dotadas de personalidade jurídica que tenham sido criadas para satisfazer de um modo específico necessidades de interesse geral, sem caráter industrial ou comercial, e em relação às quais se verifique uma das seguintes circunstâncias:\n\na) A respetiva atividade seja maioritariamente financiada por alguma das entidades referidas no número anterior ou no presente número;\n\nb) A respetiva gestão esteja sujeita a um controlo por parte de alguma das entidades referidas no número anterior ou no presente número;\n\nc) Os respetivos órgãos de administração, de direção ou de fiscalização sejam compostos, em mais de metade, por membros designados por alguma das entidades referidas no número anterior ou no presente número.\n\n3 - Ainda que já não integrem o seu âmbito de aplicação subjetivo, a presente lei aplica-se ainda às entidades que preencheram os requisitos referidos nos números anteriores em momento anterior, relativamente aos documentos correspondentes a esse período.\n\n4 - As disposições relativas ao acesso a informação ambiental aplicam-se ainda a:\n\na) Qualquer pessoa singular ou coletiva, de natureza pública ou privada, que pertença à administração indireta dos órgãos ou entidades referidas nos números anteriores e que tenha atribuições ou competências, exerça funções administrativas públicas ou preste serviços públicos relacionados com o ambiente, nomeadamente entidades públicas empresariais, empresas participadas e empresas concessionárias;\n\nb) Qualquer pessoa singular ou coletiva que detenha ou materialmente mantenha informação ambiental em nome ou por conta de qualquer dos órgãos ou entidades referidas nos números anteriores."
+  },
+  "170221405": {
+   "fragment_id": "170221073",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito de acesso\n\n1 - Todos, sem necessidade de enunciar qualquer interesse, têm direito de acesso aos documentos administrativos, o qual compreende os direitos de consulta, de reprodução e de informação sobre a sua existência e conteúdo.\n\n2 - O direito de acesso realiza-se independentemente da integração dos documentos administrativos em arquivo corrente, intermédio ou definitivo."
+  },
+  "170221406": {
+   "fragment_id": "170221074",
+   "type": 11,
+   "heading": "Artigo 6.º — Restrições ao direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Restrições ao direito de acesso\n\n1 - Os documentos que contenham informações cujo conhecimento seja avaliado como podendo pôr em risco interesses fundamentais do Estado ficam sujeitos a interdição de acesso ou a acesso sob autorização, durante o tempo estritamente necessário, através de classificação operada através do regime do segredo de Estado ou por outros regimes legais relativos à informação classificada.\n\n2 - Os documentos protegidos por direitos de autor ou direitos conexos, designadamente os que se encontrem na posse de museus, bibliotecas e arquivos, bem como os documentos que revelem segredo relativo à propriedade literária, artística, industrial ou científica, são acessíveis, sem prejuízo da aplicabilidade das restrições resultantes do Código do Direito de Autor e dos Direitos Conexos e do Código da Propriedade Industrial e demais legislação aplicável à proteção da propriedade intelectual.\n\n3 - O acesso aos documentos administrativos preparatórios de uma decisão ou constantes de processos não concluídos pode ser diferido até à tomada de decisão, ao arquivamento do processo ou ao decurso de um ano após a sua elaboração, consoante o evento que ocorra em primeiro lugar.\n\n4 - O acesso ao conteúdo de auditorias, inspeções, inquéritos, sindicâncias ou averiguações pode ser diferido até ao decurso do prazo para instauração de procedimento disciplinar.\n\n5 - Um terceiro só tem direito de acesso a documentos nominativos:\n\na) Se estiver munido de autorização escrita do titular dos dados que seja explícita e específica quanto à sua finalidade e quanto ao tipo de dados a que quer aceder;\n\nb) Se demonstrar fundamentadamente ser titular de um interesse direto, pessoal, legítimo e constitucionalmente protegido suficientemente relevante, após ponderação, no quadro do princípio da proporcionalidade, de todos os direitos fundamentais em presença e do princípio da administração aberta, que justifique o acesso à informação.\n\n6 - Um terceiro só tem direito de acesso a documentos administrativos que contenham segredos comerciais, industriais ou sobre a vida interna de uma empresa se estiver munido de autorização escrita desta ou demonstrar fundamentadamente ser titular de um interesse direto, pessoal, legítimo e constitucionalmente protegido suficientemente relevante após ponderação, no quadro do princípio da proporcionalidade, de todos os direitos fundamentais em presença e do princípio da administração aberta, que justifique o acesso à informação.\n\n7 - Sem prejuízo das demais restrições legalmente previstas, os documentos administrativos ficam sujeitos a interdição de acesso ou a acesso sob autorização, durante o tempo estritamente necessário à salvaguarda de outros interesses juridicamente relevantes, mediante decisão do órgão ou entidade competente, sempre que contenham informações cujo conhecimento seja suscetível de:\n\na) Afetar a eficácia da fiscalização ou supervisão, incluindo os planos, metodologias e estratégias de supervisão ou de fiscalização;\n\nb) Colocar em causa a capacidade operacional ou a segurança das instalações ou do pessoal das Forças Armadas, dos serviços de informações da República Portuguesa, das forças e serviços de segurança e dos órgãos de polícia criminal, dos estabelecimentos de reinserção e serviços prisionais e dos centros educativos previstos na Lei n.º 166/99, de 14 de setembro, que aprova a Lei Tutelar Educativa, bem como a segurança das representações diplomáticas e consulares e das infraestruturas críticas; ou\n\nc) Causar danos graves e dificilmente reversíveis a bens ou interesses patrimoniais de terceiros que sejam superiores aos bens e interesses protegidos pelo direito de acesso à informação administrativa.\n\n8 - Os documentos administrativos sujeitos a restrições de acesso são objeto de comunicação parcial sempre que seja possível expurgar a informação relativa à matéria reservada.\n\n9 - Sem prejuízo das ponderações previstas nos números anteriores, nos pedidos de acesso a documentos nominativos que não contenham dados pessoais que revelem a origem étnica, as opiniões políticas, as convicções religiosas ou filosóficas, a filiação sindical, dados genéticos, biométricos ou relativos à saúde, ou dados relativos à intimidade da vida privada, à vida sexual ou à orientação sexual de uma pessoa, presume-se, na falta de outro indicado pelo requerente, que o pedido se fundamenta no direito de acesso a documentos administrativos."
+  },
+  "170221407": {
+   "fragment_id": "170251675",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso e comunicação de dados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acesso e comunicação de dados de saúde\n\n1 - O acesso à informação de saúde por parte do seu titular, ou de terceiros com o seu consentimento ou nos termos da lei, é exercido por intermédio de médico se o titular da informação o solicitar, com respeito pelo disposto na Lei n.º 12/2005, de 26 de janeiro.\n\n2 - Na impossibilidade de apuramento da vontade do titular quanto ao acesso, o mesmo é sempre realizado com intermediação de médico.\n\n3 - No caso de acesso por terceiros mediante consentimento do titular dos dados, deve ser comunicada apenas a informação expressamente abrangida pelo instrumento de consentimento.\n\n4 - Nos demais casos de acesso por terceiros, só pode ser transmitida a informação estritamente necessária à realização do interesse direto, pessoal, legítimo e constitucionalmente protegido que fundamenta o acesso."
+  },
+  "170221408": {
+   "fragment_id": "170251676",
+   "type": 11,
+   "heading": "Artigo 8.º — Uso ilegítimo de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Uso ilegítimo de informações\n\n1 - Não é permitida a utilização ou reprodução de informações em violação de direitos de autor e direitos conexos ou de direitos de propriedade industrial.\n\n2 - Os documentos nominativos comunicados a terceiros não podem ser utilizados ou reproduzidos de forma incompatível com a autorização concedida, com o fundamento do acesso, com a finalidade determinante da recolha ou com o instrumento de legalização, sob pena de responsabilidade por perdas e danos e responsabilidade criminal, nos termos legais."
+  },
+  "170221409": {
+   "fragment_id": "170251677",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsável pelo acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsável pelo acesso\n\nCada órgão ou entidade referida no n.º 1 do artigo 4.º deve designar um responsável pelo cumprimento das disposições da presente lei, a quem compete nomeadamente organizar e promover as obrigações de divulgação ativa de informação a que está vinculado o órgão ou a entidade, acompanhar a tramitação dos pedidos de acesso e reutilização e estabelecer a articulação necessária ao exercício das competências da Comissão de Acesso aos Documentos Administrativos, doravante designada por CADA."
+  },
+  "170221410": {
+   "fragment_id": "170251678",
+   "type": 11,
+   "heading": "Artigo 10.º — Divulgação ativa de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Divulgação ativa de informação\n\n1 - Os órgãos e entidades a quem se aplica a presente lei publicitam nos seus sítios na Internet, de forma periódica e atualizada, no mínimo semestralmente:\n\na) Os documentos administrativos, dados ou listas que os inventariem que entendam disponibilizar livremente para acesso e reutilização nos termos da presente lei, sem prejuízo do regime legal de proteção de dados pessoais;\n\nb) O endereço eletrónico, local e horário para consulta presencial, modelo de requerimento ou outro meio adequado através do qual podem ser remetidos os pedidos de acesso e reutilização da informação e documentos abrangidos pela presente lei;\n\nc) A informação cujo conhecimento seja relevante para garantir a transparência da atividade relacionada com o seu funcionamento, pelo menos, a seguinte:\n\ni) Planos de atividades, orçamentos, relatórios de atividades e contas, balanço social e outros instrumentos de gestão similares;\n\nii) Composição dos seus órgãos de direção e fiscalização, organograma ou outro modelo de orgânica interna;\n\niii) Todos os documentos, designadamente despachos normativos internos, circulares e orientações, que comportem enquadramento estratégico da atividade administrativa;\n\niv) A enunciação de todos os documentos que comportem interpretação generalizadora de direito positivo ou descrição genérica de procedimento administrativo, mencionando designadamente o seu título, matéria, data, origem e local onde podem ser consultados;\n\nd) As regras e as condições de reutilização da informação aplicáveis em cada caso.\n\n2 - A informação administrativa disponível nos sítios na Internet a que se refere o número anterior é indexada no sistema de pesquisa online de informação pública, nos termos do artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.\n\n3 - A informação referida no presente artigo deve ser disponibilizada em formato aberto e em termos que permitam o acesso aos conteúdos de forma não condicionada, privilegiando-se a disponibilização em formatos legíveis por máquina, que permitam o seu ulterior tratamento automatizado.\n\n4 - A informação administrativa referida na alínea c) do n.º 1 deve permanecer disponível durante dois anos ou, no caso das autarquias locais, pelo período correspondente à duração de cada mandato, excluindo o período de vigência, quando seja o caso, ou durante o tempo adequado à divulgação satisfatória dos seus conteúdos, se superior.\n\n5 - A divulgação ativa da informação deve acautelar o respeito pelas restrições de acesso previstas na presente lei, devendo ter lugar a divulgação parcial sempre que seja possível expurgar a informação relativa à matéria reservada.\n\n6 - A aplicação do disposto no presente artigo é facultativa para as freguesias com menos de 10 000 eleitores, com exceção do previsto na alínea c) do n.º 1."
+  },
+  "170221411": {
+   "fragment_id": "170251679",
+   "type": 11,
+   "heading": "Artigo 11.º — Divulgação ativa de informação relativa ao ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Divulgação ativa de informação relativa ao ambiente\n\n1 - Os órgãos e entidades a quem se aplica a presente lei recolhem e organizam a informação ambiental no âmbito das suas atribuições e asseguram a sua divulgação ao público de forma sistemática e periódica, nomeadamente de forma eletrónica, devendo assegurar a sua disponibilização progressiva em bases de dados facilmente acessíveis através da Internet.\n\n2 - A informação a que se refere o presente artigo deve ser atualizada no mínimo semestralmente, e incluir, pelo menos:\n\na) Textos de tratados, convenções ou acordos internacionais e da legislação nacional e europeia sobre ambiente ou com ele relacionada;\n\nb) Políticas, planos e programas relativos ao ambiente;\n\nc) Relatórios sobre a execução dos instrumentos referidos nas alíneas anteriores;\n\nd) Um relatório nacional sobre o estado do ambiente, nos termos do número seguinte;\n\ne) Dados ou resumos dos dados resultantes do controlo das atividades que afetam ou podem afetar o ambiente;\n\nf) Licenças e autorizações com impacto significativo sobre o ambiente, acordos sobre ambiente ou referência ao local onde tais informações podem ser solicitadas ou obtidas;\n\ng) Estudos de impacte ambiental e avaliações de risco relativas a elementos ambientais mencionados na subalínea i) da alínea e) do n.º 1 do artigo 3.º, ou referência ao local onde tais informações podem ser solicitadas ou obtidas.\n\n3 - O relatório nacional sobre o estado do ambiente, cuja elaboração e publicação anual compete ao membro do Governo responsável pela área do ambiente, inclui informação sobre a qualidade do ambiente e as pressões sobre ele exercidas.\n\n4 - Os órgãos e entidades públicas competentes devem garantir que, em caso de ameaça iminente para a saúde humana ou o ambiente, causada por ação humana ou por fenómenos naturais, sejam divulgadas imediatamente todas as informações ambientais que permitam às populações em risco tomar medidas para evitar ou reduzir os danos decorrentes dessa ameaça."
+  },
+  "170221412": {
+   "fragment_id": "170251680",
+   "type": 1,
+   "heading": "Capítulo II — Exercício do direito de acesso e de reutilização dos documentos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício do direito de acesso e de reutilização dos documentos administrativos"
+  },
+  "170221413": {
+   "fragment_id": "170251681",
+   "type": 8,
+   "heading": "Secção I — Direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direito de acesso"
+  },
+  "170221414": {
+   "fragment_id": "170251682",
+   "type": 11,
+   "heading": "Artigo 12.º — Pedido de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pedido de acesso\n\n1 - O acesso aos documentos administrativos deve ser solicitado por escrito, através de requerimento que contenha os elementos essenciais à identificação do requerente, designadamente o nome, dados de identificação pessoal ou coletiva, dados de contacto e assinatura.\n\n2 - O modelo de requerimento de pedido de acesso deve ser disponibilizado pelas entidades no seu sítio na Internet.\n\n3 - A entidade requerida pode também aceitar pedidos verbais, devendo fazê-lo nos casos em que a lei o determine expressamente.\n\n4 - A apresentação de queixa à CADA, nos termos da presente lei, pressupõe pedido escrito de acesso ou, pelo menos, a formalização por escrito do indeferimento de pedido verbal.\n\n5 - Aos órgãos e entidades a quem se aplica a presente lei incumbe prestar assistência ao público na identificação dos documentos e dados pretendidos, nomeadamente informando sobre a forma de organização e utilização dos seus arquivos e registos, e publicando no seu sítio na Internet a forma, meio, local e horário, se aplicável, para efetuar o pedido de acesso.\n\n6 - Se o pedido não for suficientemente preciso, a entidade requerida deve, no prazo de cinco dias a partir da data da sua receção, indicar ao requerente a deficiência e convidá-lo a supri-la em prazo fixado para o efeito, devendo procurar assisti-lo na sua formulação, ao fornecer designadamente informações sobre a utilização dos seus arquivos e registos."
+  },
+  "170221415": {
+   "fragment_id": "170251683",
+   "type": 11,
+   "heading": "Artigo 13.º — Forma do acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Forma do acesso\n\n1 - O acesso aos documentos administrativos exerce-se através dos seguintes meios, conforme opção do requerente:\n\na) Consulta gratuita, eletrónica ou efetuada presencialmente nos serviços que os detêm;\n\nb) Reprodução por fotocópia ou por qualquer meio técnico, designadamente visual, sonoro ou eletrónico;\n\nc) Certidão.\n\n2 - Os documentos são transmitidos em forma inteligível e em termos rigorosamente correspondentes aos do conteúdo do registo.\n\n3 - Quando houver risco de a reprodução causar dano ao documento, pode o requerente, a expensas suas e sob a direção do serviço detentor, promover a cópia manual ou a reprodução por outro meio que não prejudique a sua conservação.\n\n4 - Os documentos informatizados são enviados por qualquer meio de transmissão eletrónica de dados, sempre que tal for possível e desde que se trate de meio adequado à inteligibilidade e fiabilidade do seu conteúdo, e em termos rigorosamente correspondentes ao do conteúdo do registo.\n\n5 - A entidade requerida pode limitar-se a indicar a exata localização, na Internet, do documento requerido, salvo se o requerente demonstrar a impossibilidade de utilização dessa forma de acesso.\n\n6 - A entidade requerida não tem o dever de criar ou adaptar documentos para satisfazer o pedido, nem a obrigação de fornecer extratos de documentos, caso isso envolva um esforço desproporcionado que ultrapasse a simples manipulação dos mesmos."
+  },
+  "170221416": {
+   "fragment_id": "170251684",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos de reprodução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Encargos de reprodução\n\n1 - O acesso através dos meios previstos nas alíneas b) e c) do n.º 1 do artigo anterior faz-se através de um único exemplar, sujeito a pagamento, pelo requerente, da taxa fixada, que deve obedecer aos seguintes princípios:\n\na) Corresponder à soma dos encargos proporcionais com a utilização de máquinas e ferramentas de recolha, produção e reprodução do documento, com os custos dos materiais usados e com o serviço prestado, não podendo ultrapassar o valor médio praticado no mercado por serviço correspondente;\n\nb) No caso de emissão de certidão, quando o documento disponibilizado constituir o resultado material de uma atividade administrativa para a qual sejam devidas taxas ou emolumentos, os encargos referidos na alínea anterior podem ser acrescidos de um valor razoável, tendo em vista os custos diretos e indiretos dos investimentos e a boa qualidade do serviço, nos termos da legislação aplicável;\n\nc) Às taxas cobradas pode acrescer, quando aplicável e exigido por lei, o custo da anonimização dos documentos e os encargos de remessa, quando esta seja feita por via postal;\n\nd) No caso de reprodução realizada por meio eletrónico, designadamente envio por correio eletrónico, não é devida qualquer taxa.\n\n2 - Tendo em conta o disposto no número anterior, o Governo e os Governos Regionais, ouvida a CADA e as associações nacionais representativas das autarquias locais, devem fixar as taxas a cobrar pelas reproduções e certidões dos documentos administrativos.\n\n3 - As entidades com poder tributário autónomo não podem fixar taxas que ultrapassem em mais de 100 % os valores fixados nos termos do número anterior, os quais se aplicam enquanto não publicarem tabelas próprias.\n\n4 - Os órgãos e entidades a quem se aplica a presente lei devem publicar no seu sítio na Internet e afixar em lugar acessível ao público uma lista das taxas que cobram pelas reproduções e certidões de documentos administrativos, bem como informação sobre as isenções, reduções ou dispensas de pagamento aplicáveis.\n\n5 - As organizações não-governamentais de ambiente e equiparadas, definidas nos termos da legislação aplicável, gozam de uma redução de 50 % no pagamento de quaisquer taxas devidas pelo acesso à informação ambiental.\n\n6 - Os beneficiários de apoio judiciário, como tal reconhecido nos termos da lei, gozam de isenção de quaisquer taxas devidas pelo acesso a informação administrativa necessária à instrução do processo relativamente ao qual lhes tenha sido concedido o respetivo apoio.\n\n7 - As vítimas de violência doméstica e as respetivas associações representativas, como tal qualificadas nos termos da lei, gozam de isenção de quaisquer taxas devidas pelo acesso a informação administrativa necessária à instrução de pedidos de proteção administrativa ou de atuação judicial destinada a evitar ou perseguir atos de violência doméstica praticados contra si ou contra os seus associados."
+  },
+  "170221417": {
+   "fragment_id": "170251685",
+   "type": 11,
+   "heading": "Artigo 15.º — Resposta ao pedido de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Resposta ao pedido de acesso\n\n1 - A entidade a quem foi dirigido o requerimento de acesso a um documento administrativo deve, no prazo de 10 dias:\n\na) Comunicar a data, local e modo para se efetivar a consulta, se requerida;\n\nb) Emitir a reprodução ou certidão requeridas;\n\nc) Comunicar por escrito as razões da recusa, total ou parcial, do acesso ao documento, bem como quais as garantias de recurso administrativo e contencioso de que dispõe o requerente contra essa decisão, nomeadamente a apresentação de queixa junto da CADA e a intimação judicial da entidade requerida;\n\nd) Informar que não possui o documento e, se souber qual a entidade que o detém, remeter-lhe o requerimento, com conhecimento ao requerente;\n\ne) Expor à CADA quaisquer dúvidas que tenha sobre a decisão a proferir, a fim de esta entidade emitir parecer.\n\n2 - No caso da alínea e) do número anterior, a entidade requerida deve informar o requerente e enviar à CADA cópia do requerimento e de todas as informações e documentos que contribuam para convenientemente o instruir.\n\n3 - As entidades não estão obrigadas a satisfazer pedidos que, face ao seu caráter repetitivo e sistemático ou ao número de documentos requeridos, sejam manifestamente abusivos, sem prejuízo do direito de queixa do requerente.\n\n4 - Em casos excecionais, se o volume ou a complexidade da informação o justificarem, o prazo referido no n.º 1 pode ser prorrogado até ao máximo de 2 meses, devendo o requerente ser informado desse facto, com indicação dos respetivos fundamentos, no prazo de 10 dias."
+  },
+  "170221418": {
+   "fragment_id": "170251686",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito de queixa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direito de queixa\n\n1 - O requerente pode queixar-se à CADA em caso de falta de resposta decorrido o prazo previsto no artigo anterior, indeferimento, satisfação parcial do pedido ou outra decisão limitadora do acesso a documentos administrativos, no prazo de 20 dias.\n\n2 - A apresentação de queixa interrompe o prazo para introdução em juízo de petição de intimação para a prestação de informações, consulta de processos ou passagem de certidões.\n\n3 - Salvo em casos de indeferimento liminar, a CADA deve convidar a entidade requerida a responder à queixa no prazo de 10 dias.\n\n4 - Tanto no caso de queixa como no da consulta prevista na alínea e) do n.º 1 do artigo 15.º, a CADA tem o prazo de 40 dias para elaborar o correspondente relatório de apreciação da situação, enviando-o, com as devidas conclusões, a todos os interessados.\n\n5 - Recebido o relatório referido no número anterior, a entidade requerida comunica ao requerente a sua decisão final fundamentada, no prazo de 10 dias.\n\n6 - Tanto a decisão como a falta de decisão no termo do prazo a que se refere o número anterior podem ser impugnadas pelo interessado junto dos tribunais administrativos, aplicando-se, com as devidas adaptações, ao processo de intimação referido no n.º 2, as regras do Código de Processo nos Tribunais Administrativos."
+  },
+  "170221419": {
+   "fragment_id": "170251687",
+   "type": 8,
+   "heading": "Secção II — Direito de acesso à informação ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direito de acesso à informação ambiental"
+  },
+  "170221420": {
+   "fragment_id": "170251688",
+   "type": 11,
+   "heading": "Artigo 17.º — Direito de acesso à informação ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direito de acesso à informação ambiental\n\nOs órgãos e entidades a quem se aplica a presente lei asseguram o direito de acesso à informação ambiental nos termos previstos na secção anterior, devendo ainda:\n\na) Disponibilizar ao público, gratuitamente, listas com a designação de todos os órgãos e entidades que detêm informação ambiental, preferencialmente em sítio único, na Internet, que centralize os respetivos sítios onde a informação está acessível, e a identidade do responsável pelo acesso, nos termos do artigo 9.º;\n\nb) Criar e manter instalações adequadas à consulta da informação, prestando apoio ao público no exercício do direito de acesso;\n\nc) Adotar procedimentos que garantam a uniformização da informação ambiental, de forma a assegurar uma informação exata, atualizada e comparável;\n\nd) Indicar, quando fornecerem a informação ambiental referida nas subalíneas i) e ii) da alínea e) do n.º 1 do artigo 3.º, onde pode ser encontrada e obtida, quando disponível, a informação sobre os procedimentos de medição utilizados para recolha daquela, incluindo os métodos de análise, de amostragem e de tratamento prévio das amostras, ou referência ao procedimento normalizado utilizado na recolha de informação."
+  },
+  "170221421": {
+   "fragment_id": "170251689",
+   "type": 11,
+   "heading": "Artigo 18.º — Indeferimento do pedido de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Indeferimento do pedido de acesso\n\n1 - Os pedidos de acesso à informação ambiental podem ser indeferidos quando o documento administrativo solicitado não esteja nem deva estar na posse do órgão ou entidade a quem o pedido for dirigido, sendo que este, se tiver conhecimento que a informação é detida por outra entidade, deve remeter-lhe diretamente e de imediato o pedido, disso informando o requerente.\n\n2 - Quando o pedido se refira a um procedimento em curso, a entidade remete-o à entidade coordenadora do processo, a qual informa o requerente do prazo previsível para a sua conclusão, bem como das disposições legais previstas no respetivo procedimento, relativas ao acesso à informação.\n\n3 - Quando o pedido se referir a informação constante de comunicações internas entre entidades ou contemplar o acesso a documentos nominativos, o deferimento apenas deve ter lugar caso o interesse público subjacente à divulgação da informação prevaleça e, em qualquer caso, quando o pedido incidir sobre informação relativa a emissões para o ambiente.\n\n4 - Para além do disposto nos números anteriores, um pedido de acesso a documentos administrativos que contenham informação ambiental apenas pode ser indeferido nos seguintes casos:\n\na) Quando o pedido for manifestamente abusivo ou tiver por referência documentos ou dados errados ou incompletos;\n\nb) Quando não seja possível sanar a deficiência a que se refere o n.º 6 do artigo 12.º;\n\nc) Quando a divulgação dessa informação prejudicar:\n\ni) A confidencialidade do processo ou da informação, quando essa confidencialidade esteja prevista na lei, designadamente em caso de segredo bancário, segredo estatístico e sigilo fiscal;\n\nii) As relações internacionais, a segurança pública ou a defesa nacional;\n\niii) O segredo de justiça, o segredo em sede de procedimentos contraordenacionais, disciplinares, financeiros ou meramente administrativos, desde que previstos na lei, o acesso à justiça ou o seu bom funcionamento;\n\niv) A confidencialidade das informações comerciais ou industriais, sempre que essa confidencialidade esteja legalmente prevista para proteger um interesse económico legítimo, bem como o interesse público no segredo estatístico, fiscal e bancário;\n\nv) Direitos de autor ou direitos conexos e direitos de propriedade industrial;\n\nvi) Os interesses ou a proteção de quem tenha fornecido voluntariamente a informação, sem que esteja ou venha a estar legalmente obrigado a fazê-lo, exceto se essa pessoa tiver autorizado a divulgação dessa informação;\n\nvii) A proteção do ambiente a que a informação se refere, designadamente a localização de espécies protegidas.\n\n5 - Os fundamentos de indeferimento e respetivos interesses protegidos devem ser interpretados de forma restritiva face ao interesse público subjacente à divulgação da informação, sendo que os referidos nas subalíneas i), iv), vi) e vii) do número anterior não podem ser invocados quando o pedido incidir sobre informação relativa a emissões para o ambiente.\n\n6 - A informação ambiental solicitada deve ser parcialmente disponibilizada sempre que seja possível expurgar a informação que fundamentou o indeferimento."
+  },
+  "170221422": {
+   "fragment_id": "170251690",
+   "type": 8,
+   "heading": "Secção III — Da reutilização de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da reutilização de documentos"
+  },
+  "170221423": {
+   "fragment_id": "170251691",
+   "type": 11,
+   "heading": "Artigo 19.º — Âmbito de reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Âmbito de reutilização\n\n1 - Os documentos administrativos cujo acesso seja autorizado, nos termos da presente lei, podem ser reutilizados para fins comerciais ou não comerciais, salvo o disposto em contrário na presente lei ou em legislação específica.\n\n2 - As disposições da presente secção não prejudicam a utilização de textos de convenções, leis, regulamentos, relatórios ou decisões administrativas, judiciais ou de quaisquer órgãos ou entidades do Estado ou da Administração Pública, bem como a utilização de traduções oficiais destes textos.\n\n3 - As disposições da presente secção não são aplicáveis aos documentos detidos ou elaborados por empresas de radiodifusão de serviço público, suas filiais e outras entidades que cumpram funções de radiodifusão de serviço público.\n\n4 - A troca de documentos administrativos entre os órgãos e entidades referidos no artigo 4.º, exclusivamente no âmbito do desempenho das suas funções e dos fins de interesse público que lhes compete prosseguir, não constitui reutilização.\n\n5 - Salvo acordo da entidade que os detenha, quem reutilizar documentos administrativos não pode alterar a informação neles vertida, nem deve permitir que o seu sentido seja desvirtuado, devendo mencionar sempre as fontes, bem como a data da última atualização da informação.\n\n6 - Os documentos são disponibilizados no formato ou linguagem em que já existam e, se adequado, em formatos abertos e legíveis por máquina, com os respetivos metadados, devendo ambos respeitar normas formais abertas.\n\n7 - O disposto no número anterior deve ser cumprido na medida do possível, não implicando, para a entidade detentora, o dever de criar ou adaptar documentos ou de fornecer extratos, caso isso envolva um esforço desproporcionado que ultrapasse a simples manipulação dos mesmos\n\n8 - Não é exigível aos órgãos e entidades da administração pública que mantenham a produção, disponibilização e o armazenamento de determinado tipo de documento com vista à sua reutilização.\n\n9 - As entidades sujeitas à presente lei devem procurar que os documentos e dados que produzam ou disponibilizem sejam, sempre que possível, abertos desde a sua conceção, tendo em vista a sua disponibilização futura.\n\n10 - Os órgãos e entidades da administração pública não podem invocar o direito do fabricante de uma base de dados de proibir a reutilização da totalidade ou de uma parte substancial do conteúdo da mesma, conforme previsto no n.º 1 do artigo 12.º do Decreto-Lei n.º 122/2000, de 4 de julho, com o intuito de impedir a reutilização de documentos ou de a restringir para além dos limites estabelecidos na presente lei.\n\n11 - A reutilização de documentos nominativos tem regime próprio, sendo o seu tratamento e anonimização para efeitos de reutilização e divulgação em ambiente digital realizados de acordo com o disposto no regime jurídico de proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e demais legislação aplicável."
+  },
+  "170221424": {
+   "fragment_id": "170251692",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Dados dinâmicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-A — Dados dinâmicos\n\n1 - Os órgãos e entidades da Administração Pública disponibilizam dados dinâmicos para reutilização imediatamente após a respetiva recolha, através de Interface de Programação de Aplicações (IPA) adequado e sempre que se justifique, sob a forma de descarregamento em bloco.\n\n2 - Caso a disponibilização imediata dos dados dinâmicos, nos termos do número anterior, seja suscetível de exceder as capacidades financeiras e técnicas do organismo do setor público, impondo-lhe um esforço desproporcionado, pode a mesma ocorrer num prazo razoável ou com restrições técnicas temporárias que não prejudiquem injustificadamente a exploração do seu potencial económico e social.\n\n3 - Os dados abertos que sejam disponibilizados através do recurso a IPA devem ser registados nos catálogos de dados disponibilizados no portal dados.gov."
+  },
+  "170221425": {
+   "fragment_id": "170251693",
+   "type": 11,
+   "heading": "Artigo 20.º — Documentos excluídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Documentos excluídos\n\nNão podem ser objeto de reutilização os documentos:\n\na) Decorrentes do exercício de uma atividade de gestão privada da entidade em causa;\n\nb) Cujos direitos de propriedade intelectual sejam detidos por terceiros ou cuja reprodução, difusão ou utilização possam configurar práticas de concorrência desleal;\n\nc) Nominativos, salvo autorização do titular, disposição legal que a preveja expressamente, fundamento legal ao abrigo da legislação aplicável em matéria de dados pessoais para o seu tratamento ou quando os dados pessoais possam ser anonimizados sem possibilidade de reversão, devendo nesse caso prever-se, no âmbito da autorização concedida e nos termos do n.º 1 do artigo 23.º, medidas especiais de segurança destinadas a proteger as categorias especiais de dados, e em geral aqueles cujo acesso ou reutilização seja excluído ou restrito por força do regime legal de proteção de dados pessoais;\n\nd) Que contenham apenas logótipos, brasões e insígnias;\n\ne) Na posse de empresas públicas quando relacionados com atividades diretamente expostas à concorrência;\n\nf) Que contenham categorias especiais de dados em razão de:\n\ni) Proteção da segurança interna ou defesa nacional;\n\nii) Confidencialidade de dados estatísticos;\n\niii) Confidencialidade de dados comerciais, nomeadamente, segredos comerciais, profissionais ou empresariais;\n\ng) Na posse de instituições culturais, exceto bibliotecas, incluindo bibliotecas de estabelecimentos de ensino superior, museus e arquivos;\n\nh) Na posse de estabelecimentos de educação de ensino básico e secundário, de estabelecimentos de ensino superior e de estabelecimentos de investigação, incluindo organizações criadas com vista à transferência de resultados de investigação, salvo documentos de investigação, nos termos do artigo 27.º-B."
+  },
+  "170221426": {
+   "fragment_id": "170251694",
+   "type": 11,
+   "heading": "Artigo 21.º — Pedido de reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Pedido de reutilização\n\n1 - A reutilização de documentos disponibilizados através da Internet não depende de autorização da entidade que os detenha, exceto quando exista indicação contrária ou se for claro para qualquer destinatário que o documento se encontra protegido por direitos de autor ou direitos conexos.\n\n2 - Nos restantes casos, a reutilização de documentos depende de autorização da entidade que os detenha, mediante pedido formulado pelo requerente, aplicando-se o disposto no artigo 12.º\n\n3 - Quando a reutilização de documentos se destine a fins educativos ou de investigação e desenvolvimento, o requerente deve indicá-lo expressamente."
+  },
+  "170221427": {
+   "fragment_id": "170251695",
+   "type": 11,
+   "heading": "Artigo 22.º — Resposta ao pedido de reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Resposta ao pedido de reutilização\n\n1 - A entidade a quem foi dirigido o requerimento de reutilização do documento deve, no prazo de 10 dias:\n\na) Autorizar a reutilização do documento, indicando, se existirem, quais as condições ou licenças aplicáveis, nos termos do artigo seguinte; ou\n\nb) Responder ao requerente da reutilização, indicando as razões da recusa, total ou parcial, do pedido, bem como quais as garantias de recurso administrativo e contencioso de que dispõe o requerente contra essa decisão, nomeadamente a apresentação de queixa junto da CADA e a intimação judicial da entidade requerida.\n\n2 - O pedido de reutilização do documento só pode ser indeferido com fundamento na violação de disposições legais, nomeadamente de alguma das disposições da presente lei relativa ao direito de acesso e reutilização, ou quando o órgão ou entidade já não tenha uma obrigação de elaborar, deter ou armazenar a informação.\n\n3 - O dever de indicar as razões de recusa compreende a indicação da pessoa singular ou coletiva titular do direito de autor ou de direitos conexos sobre o documento ou, em alternativa, a indicação da entidade licenciadora que cedeu o documento, quando essa titularidade constitua o fundamento da recusa da reutilização pretendida.\n\n4 - As indicações referidas no número anterior não são obrigatórias se a entidade requerida for uma biblioteca, incluindo as bibliotecas das instituições de ensino superior, um museu ou um arquivo.\n\n5 - O prazo previsto no n.º 1 pode ser prorrogado uma vez, por igual período, nos casos de pedidos extensos ou complexos, devendo o requerente ser informado desse facto, com indicação dos respetivos fundamentos, no prazo máximo de cinco dias.\n\n6 - O disposto nos números anteriores não é aplicável aos estabelecimentos de ensino, organismos que realizam investigação e organismos financiadores de investigação.\n\n7 - O cumprimento do dever de disponibilização de documentos ou dados para reutilização, nos termos da presente lei, deve, sempre que possível, ser realizado através da publicação, catalogação ou carregamento dos dados solicitados no portal dados.gov e do envio ao requerente do endereço de acesso aos mesmos nesse portal."
+  },
+  "170221428": {
+   "fragment_id": "170251696",
+   "type": 11,
+   "heading": "Artigo 23.º — Condições de reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Condições de reutilização\n\n1 - A autorização concedida nos termos do artigo anterior pode ser subordinada à observância de distintas condições de reutilização, a definir pelas entidades, caso em que deve ser titulada por licença disponibilizada em formato digital, suscetível de processamento eletrónico, designadamente:\n\na) Licença predefinida de acesso aberto, disponível em linha, que concede direitos de reutilização mais amplos, sem limitações jurídicas, tecnológicas, financeiras ou geográficas;\n\nb) Licença predefinida, disponível em linha, de acesso com limitações jurídicas, tecnológicas, financeiras, geográficas ou outras;\n\nc) Licença não predefinida.\n\n2 - A reutilização de documentos ou dados é tendencialmente gratuita, podendo estar sujeita ao pagamento de taxas por parte do requerente, quando necessário, fixadas pelas entidades de acordo com o disposto nos números seguintes.\n\n3 - Sem prejuízo do disposto no artigo 15.º do Código do Procedimento Administrativo, é gratuita a reutilização de:\n\na) Documentos disponibilizados através da Internet, nos termos dos artigos 10.º e 11.º;\n\nb) Documentos disponibilizados para fins educativos ou de investigação e desenvolvimento;\n\nc) Conjuntos de dados de elevado valor, nos termos do artigo 27.º-A;\n\nd) Dados de investigação, nos termos do artigo 27.º-B."
+  },
+  "170221429": {
+   "fragment_id": "170251697",
+   "type": 11,
+   "heading": "Artigo 23.º-A — Taxas devidas pela reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º-A — Taxas devidas pela reutilização\n\n1 - As taxas cobradas pela reutilização não podem exceder os custos marginais suportados com a recolha, produção, reprodução, disponibilização e divulgação dos documentos ou dados, bem como com a anonimização dos dados pessoais, com as medidas destinadas a proteger informações comerciais de caráter confidencial, e com os encargos de remessa, quando esta seja feita por via postal.\n\n2 - Quando o documento disponibilizado constituir o resultado material de uma atividade administrativa para a qual sejam devidas taxas ou emolumentos, os custos referidos no número anterior podem ser acrescidos de um valor razoável, tendo em vista os custos diretos e indiretos dos investimentos e a boa qualidade do serviço, nos termos da legislação aplicável.\n\n3 - Quando o documento ou dados requeridos integrarem uma biblioteca, incluindo uma biblioteca das instituições de ensino superior, um museu ou um arquivo, as taxas incluem também os custos da sua recolha, produção, preservação bem como do armazenamento e da aquisição de direitos, e podem ser acrescidas de um retorno razoável do investimento tendo em vista os custos diretos e indiretos dos investimentos e a boa qualidade do serviço, nos termos do n.º 8 e demais legislação aplicável.\n\n4 - Na fixação das taxas a cobrar nos termos dos números anteriores, a entidade requerida deve basear-se nos custos durante o exercício contabilístico normal, calculados de acordo com os princípios contabilísticos aplicáveis.\n\n5 - As condições de reutilização e as taxas cobradas não devem restringir desnecessariamente as possibilidades de reutilização, não podendo a entidade requerida, por essa via, discriminar categorias de reutilização equivalentes, incluindo a reutilização transfronteiriça, ou limitar a concorrência.\n\n6 - As entidades podem reduzir ou isentar de taxa a reutilização requerida por entidades com ou sem fins lucrativos, desde que em prossecução de fins e atividades de reconhecido interesse social.\n\n7 - Os organismos do setor público que são obrigados a gerar receitas para cobrir uma parte substancial dos seus custos relacionados com o desempenho das suas missões de serviço público e as empresas públicas podem cobrar taxas de valor superior ao previsto no n.º 1.\n\n8 - As fórmulas de cálculo das taxas previstas no número anterior são fixadas por decreto regulamentar, de acordo com os seguintes critérios:\n\na) Comutatividade, devendo a taxa assegurar a recuperação dos custos marginais, nos termos do n.º 1;\n\nb) Harmonização, devendo a taxa ser calculada de acordo com os princípios contabilísticos aplicáveis à entidade;\n\nc) Sustentabilidade, devendo a taxa permitir um retorno razoável do investimento, mediante a aplicação de uma percentagem que acresça ao valor dos custos marginais, mas que não exceda em mais de cinco pontos percentuais a taxa de juro fixa do Banco Central Europeu.\n\n9 - Os organismos do setor público referidos no n.º 7 constam de lista publicada no portal dados.gov.\n\n10 - Sem prejuízo do disposto no artigo seguinte, as fórmulas de cálculo das taxas aplicáveis, fixadas nos termos do decreto regulamentar referido no n.º 8, são divulgadas no portal dados.gov, o qual disponibiliza um simulador de cálculo das mesmas.\n\n11 - Os órgãos e entidades públicas que reutilizem documentos só ficam sujeitos às taxas e demais condições legais no âmbito da sua atividade de gestão privada."
+  },
+  "170221430": {
+   "fragment_id": "170251698",
+   "type": 11,
+   "heading": "Artigo 24.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Publicidade\n\n1 - As condições de reutilização e as taxas aplicáveis, incluindo o prazo, montante e forma de pagamento e eventuais reduções ou isenções previstas, são preestabelecidas e publicitadas, sempre que possível por via eletrónica, devendo ser indicada a base de cálculo dos valores a cobrar, bem como os meios de tutela ao dispor do requerente no caso de recusa da reutilização do documento.\n\n2 - Os órgãos e entidades a quem se aplica a presente lei devem publicar no seu sítio na Internet e afixar em lugar acessível ao público uma lista das taxas que cobram pelas reproduções e certidões de documentos administrativos, bem como informação sobre as isenções, reduções ou dispensas de pagamento aplicáveis.\n\n3 - Nos casos em que a informação cuja reutilização seja requerida determinar, pela sua relativa indisponibilidade, natureza ou complexidade, a aplicação de taxas que não estejam predeterminadas, a entidade requerida informa previamente o requerente dos fatores que são tidos em conta no cálculo dos valores a cobrar.\n\n4 - Quando não tenham sido fixadas, predeterminadas ou publicitadas as taxas a aplicar, e enquanto não o forem, a reutilização considera-se gratuita."
+  },
+  "170221431": {
+   "fragment_id": "170251699",
+   "type": 11,
+   "heading": "Artigo 25.º — Acordos de exclusividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Acordos de exclusividade\n\n1 - A reutilização de documentos é permitida a todos os potenciais intervenientes no mercado.\n\n2 - Os acordos celebrados entre órgãos e entidades da Administração Pública ou empresas públicas que possuam esses documentos e terceiros não criam direitos de exclusividade.\n\n3 - Nos casos em que seja necessário atribuir um direito de exclusividade para a prestação de um serviço de interesse público, a respetiva fundamentação deve ser reavaliada, pelo menos de três em três anos.\n\n4 - Os acordos de exclusividade devem ser transparentes e publicados no portal dados.gov, pelo menos dois meses antes da respetiva data de entrada em vigor e sempre que sejam objeto de alteração.\n\n5 - O disposto nos números anteriores não se aplica à digitalização de recursos culturais.\n\n6 - Os direitos de exclusividade acordados para a digitalização de recursos culturais não devem exceder o prazo de 10 anos, sem prejuízo do regime relativo a direitos de autor e direitos conexos.\n\n7 - Caso seja excedido o prazo previsto no número anterior, a respetiva fundamentação deve ser reavaliada nesse ano, e posteriormente, se aplicável, a reavaliação deve ocorrer de sete em sete anos.\n\n8 - Nos acordos de exclusividade a que se refere o n.º 6 é prevista a entrega a título gratuito, ao organismo do setor público, de uma cópia dos recursos culturais digitalizados, que deve estar disponível para reutilização, se possível em formatos abertos, no termo do período de exclusividade.\n\n9 - As disposições legais ou regulamentares ou práticas que, embora não concedendo expressamente um direito de exclusividade, visem ou sejam previsivelmente conducentes a uma limitação da disponibilidade para reutilização de documentos por terceiros devem ser transparentes e publicadas em linha no portal dados.gov, pelo menos dois meses antes da sua entrada em vigor e sempre que sejam objeto de alteração.\n\n10 - Os efeitos das disposições e práticas previstas no número anterior devem ser objeto de reavaliação periódica e, em qualquer caso, revistos de três em três anos."
+  },
+  "170221432": {
+   "fragment_id": "170251700",
+   "type": 11,
+   "heading": "Artigo 26.º — Intimação para a reutilização de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Intimação para a reutilização de documentos\n\nQuando o pedido de reutilização formulado nos termos da presente secção seja total ou parcialmente indeferido, o interessado pode apresentar queixa à CADA nos termos do artigo 16.º, aplicando-se as suas correspondentes disposições quanto à petição de intimação da entidade requerida para autorização da reutilização, que pode ser apresentada junto do tribunal administrativo competente, nos termos previstos no Código de Processo nos Tribunais Administrativos."
+  },
+  "170221433": {
+   "fragment_id": "170251701",
+   "type": 11,
+   "heading": "Artigo 27.º — Divulgação de documentos disponíveis para reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Divulgação de documentos disponíveis para reutilização\n\n1 - As entidades abrangidas pelas disposições da presente secção devem disponibilizar, no seu sítio na Internet, listas atualizadas dos documentos e dados disponíveis para reutilização.\n\n2 - Sempre que possível, devem prever-se inventários dos documentos mais importantes, juntamente com os metadados conexos acessíveis, e deve poder ser realizada uma pesquisa multilingue de documentos e dados.\n\n3 - As informações previstas nos números anteriores devem ser indexadas no portal dados.gov, com vista a facilitar a pesquisa de documentos ou dados disponíveis para reutilização.\n\n4 - Os documentos e dados abertos devem ser localizáveis, acessíveis, interoperáveis e reutilizáveis.\n\n5 - O portal dados.gov constitui-se como o catálogo central de dados abertos em Portugal, tendo como função agregar, referenciar, publicar e alojar dados abertos de diferentes organismos e setores da Administração Pública central, regional e local, funcionando também como um portal indexador de conteúdos alojados noutros portais ou catálogos de dados abertos, setoriais ou descentralizados, pelo que:\n\na) Os dados abertos nele disponibilizados devem manter níveis de atualização e qualidade permanente, para que possam ser reutilizados com fiabilidade por outras aplicações informáticas;\n\nb) Os metadados conexos dos dados abertos devem ser sempre disponibilizados de forma atualizada ao portal dados.gov, com vista a facilitar a sua procura e localização como dados abertos, incluindo aqui os casos em que a entidade produtora dos dados abertos os torna acessíveis a partir de sistemas próprios;\n\nc) Se a entidade produtora dos dados abertos não os tornar acessíveis a partir de sistemas próprios, deve disponibilizar esses dados ao portal dados.gov para que sejam acessíveis a partir desse sistema, devendo ainda garantir que estão aí sempre atualizados.\n\n6 - A aplicação do disposto no presente artigo é facultativa para as freguesias com menos de 10 000 eleitores."
+  },
+  "170221434": {
+   "fragment_id": "170251702",
+   "type": 11,
+   "heading": "Artigo 27.º-A — Conjuntos de dados de elevado valor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º-A — Conjuntos de dados de elevado valor\n\n1 - Os conjuntos de dados de elevado valor têm as seguintes categorias temáticas:\n\na) Geoespaciais;\n\nb) Observação da Terra e do ambiente;\n\nc) Meteorológicas;\n\nd) Estatísticas;\n\ne) Empresas e propriedade de empresas;\n\nf) Mobilidade.\n\n2 - Consideram-se incluídas no número anterior as categorias temáticas de dados de elevado valor que venham a ser acrescentadas pela Comissão Europeia ao abrigo do capítulo v da Diretiva 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, para refletir a evolução tecnológica e do mercado.\n\n3 - Os conjuntos específicos de dados de elevado valor, identificados pela Comissão Europeia por ato delegado ao abrigo do capítulo v da Diretiva 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, nas categorias temáticas previstas no n.º 1 ou que sejam acrescentadas nos termos do número anterior devem ser:\n\na) Disponibilizados gratuitamente, sem prejuízo do disposto no número seguinte;\n\nb) Legíveis por máquina;\n\nc) Acessíveis através de IPA; e\n\nd) Fornecidos sob a forma de descarregamento em bloco, sempre que se justifique.\n\n4 - A disponibilização sem encargos prevista no número anterior não se aplica aos conjuntos específicos de dados de elevado valor na posse de:\n\na) Empresas públicas, quando conduza a uma distorção da concorrência nos mercados relevantes;\n\nb) Bibliotecas, incluindo bibliotecas universitárias, museus ou arquivos;\n\nc) Organismos do setor público que são obrigados a gerar receitas para cobrir uma parte substancial dos seus custos relacionados com o desempenho das suas missões de serviço público, quando tenha um impacto substancial no respetivo orçamento, até ao termo do prazo de dois anos após a entrada em vigor do ato delegado da Comissão Europeia referido no número anterior."
+  },
+  "170221435": {
+   "fragment_id": "170251703",
+   "type": 11,
+   "heading": "Artigo 27.º-B — Dados de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º-B — Dados de investigação\n\n1 - Os dados de investigação podem ser reutilizados para fins comerciais ou não comerciais, quando:\n\na) Sejam financiados por fundos públicos; e\n\nb) Os investigadores, os organismos que realizam investigação ou os organismos financiadores de investigação já os tenham disponibilizado ao público através:\n\ni) De um repositório institucional ou temático;\n\nii) De outras infraestruturas de dados, ou publicações de acesso aberto; ou\n\niii) Do portal dados.gov.\n\n2 - Os organismos que realizam investigação e os organismos financiadores de investigação devem assegurar, na divulgação de dados de investigação, os direitos de propriedade intelectual preexistentes, a proteção dos dados pessoais, a confidencialidade, a segurança e os interesses comerciais legítimos e as atividades de transferência de conhecimentos, procurando que os dados sejam tão abertos quanto possível, mas tão fechados quanto necessário.\n\n3 - O acesso a dados da investigação deve ser promovido mediante políticas de acesso aberto por defeito e que assegurem que os dados são localizáveis, acessíveis, interoperáveis e reutilizáveis.\n\n4 - A reutilização de dados de investigação ao abrigo do presente artigo é gratuita."
+  },
+  "170221436": {
+   "fragment_id": "170251704",
+   "type": 1,
+   "heading": "Capítulo III — Comissão de Acesso aos Documentos Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Comissão de Acesso aos Documentos Administrativos"
+  },
+  "170221437": {
+   "fragment_id": "170251705",
+   "type": 11,
+   "heading": "Artigo 28.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Natureza\n\n1 - A CADA é uma entidade administrativa independente, que funciona junto da Assembleia da República, e a quem cabe zelar pelo cumprimento das disposições da presente lei.\n\n2 - A CADA dispõe de orçamento anual, cuja dotação é inscrita no orçamento da Assembleia da República."
+  },
+  "170221438": {
+   "fragment_id": "170251706",
+   "type": 11,
+   "heading": "Artigo 29.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Composição\n\n1 - A CADA é composta pelos seguintes membros:\n\na) Um juiz conselheiro do Supremo Tribunal Administrativo, designado pelo Conselho Superior dos Tribunais Administrativos e Fiscais, que preside;\n\nb) Duas personalidades de integridade e mérito reconhecidos, eleitas pela Assembleia da República segundo o método da média mais alta de Hondt;\n\nc) Um professor de Direito designado pelo Presidente da Assembleia da República;\n\nd) Duas personalidades designadas pelo Governo;\n\ne) Uma personalidade designada por cada um dos Governos Regionais;\n\nf) Uma personalidade designada pela Associação Nacional de Municípios Portugueses;\n\ng) Um advogado designado pela Ordem dos Advogados;\n\nh) Um membro designado, de entre os seus vogais, pela Comissão Nacional de Proteção de Dados.\n\n2 - Os titulares são substituídos por um suplente, designado pelas mesmas entidades.\n\n3 - Os membros da CADA tomam posse perante o Presidente da Assembleia da República nos 10 dias seguintes à publicação da sua designação na 1.ª série do Diário da República.\n\n4 - Os mandatos dos titulares são de três anos, sem prejuízo do disposto no número seguinte, cessando apenas com a posse dos novos titulares.\n\n5 - A Assembleia da República elege no início de cada legislatura e pela duração desta os membros referidos na alínea b).\n\n6 - Os mandatos são renováveis duas vezes."
+  },
+  "170221439": {
+   "fragment_id": "170251707",
+   "type": 11,
+   "heading": "Artigo 30.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competência\n\n1 - Compete à CADA:\n\na) Elaborar a sua regulamentação interna, a publicar na 2.ª série do Diário da República;\n\nb) Apreciar as queixas que lhe sejam apresentadas nos termos dos artigos 16.º e 26.º;\n\nc) Emitir parecer sobre o acesso aos documentos administrativos, nos termos da alínea e) do n.º 1 do artigo 15.º;\n\nd) Emitir parecer sobre a comunicação de documentos entre serviços e organismos da Administração Pública, a pedido da entidade requerida ou da interessada, a não ser que se anteveja risco de interconexão de dados, caso em que a questão é submetida à apreciação da Comissão Nacional de Proteção de Dados;\n\ne) Pronunciar-se sobre o sistema de registo e de classificação de documentos;\n\nf) Emitir parecer sobre a aplicação da presente lei, bem como sobre a elaboração e aplicação de diplomas complementares, por sua iniciativa ou a solicitação da Assembleia da República, do Governo e dos órgãos e entidades a que se refere o artigo 4.º;\n\ng) Elaborar um relatório anual sobre a aplicação da presente lei e a sua atividade, a enviar à Assembleia da República para publicação e apreciação e ao Primeiro-Ministro;\n\nh) Elaborar um relatório, de três em três anos, sobre a disponibilidade de informações do setor público para reutilização e sobre as condições da sua disponibilização, em particular no que respeita às taxas devidas pela reutilização de documentos que sejam superiores aos custos marginais, bem como sobre as práticas no que diz respeito a vias de recurso, o qual deve ser enviado à Assembleia da República, para publicação e apreciação, e ao Primeiro-Ministro, com vista ao seu envio à Comissão Europeia;\n\ni) Contribuir para o esclarecimento e divulgação das diferentes vias de acesso aos documentos administrativos no âmbito do princípio da administração aberta;\n\nj) Emitir deliberações sobre aplicação de coimas nos processos de contraordenação previstos na presente lei.\n\n2 - Os projetos de pareceres e deliberações são elaborados pelos membros da CADA, com o apoio dos serviços técnicos.\n\n3 - Os pareceres são publicados nos termos do regulamento interno."
+  },
+  "170221440": {
+   "fragment_id": "170251708",
+   "type": 11,
+   "heading": "Artigo 31.º — Cooperação da administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Cooperação da administração\n\n1 - Todos os dirigentes, funcionários e agentes dos órgãos e entidades a quem se aplique a presente lei têm o dever de cooperação com a CADA, sob pena de responsabilidade disciplinar ou de outra natureza, nos termos da lei.\n\n2 - Para efeitos do número anterior devem ser comunicadas todas as informações relevantes para o conhecimento das questões apresentadas à CADA no âmbito das suas competências."
+  },
+  "170221441": {
+   "fragment_id": "170251709",
+   "type": 11,
+   "heading": "Artigo 32.º — Estatuto dos membros da CADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estatuto dos membros da CADA\n\n1 - Não podem ser membros da CADA os cidadãos que não se encontrem no pleno gozo dos seus direitos civis e políticos.\n\n2 - São deveres dos membros da CADA:\n\na) Exercer o cargo com isenção, rigor e independência;\n\nb) Participar ativa e assiduamente nos trabalhos da CADA.\n\n3 - Os membros da CADA não podem ser prejudicados na estabilidade do seu emprego, na sua carreira profissional, nomeadamente nas promoções a que, entretanto, tenham adquirido direito, nem nos concursos públicos a que se submetam e no regime de segurança social de que beneficiem à data do início do mandato.\n\n4 - Os membros da CADA são inamovíveis, não podendo as suas funções cessar antes do termo do mandato, salvo nos seguintes casos:\n\na) Morte;\n\nb) Impossibilidade física permanente ou com uma duração que se preveja ultrapassar a data do termo do mandato;\n\nc) Renúncia ao mandato;\n\nd) Perda do mandato.\n\n5 - A renúncia ao mandato torna-se eficaz com a apresentação da respetiva declaração escrita ao presidente da CADA e é publicada na 2.ª série do Diário da República.\n\n6 - Perdem o mandato os membros da CADA que venham a ser abrangidos por incapacidade ou incompatibilidade prevista na lei ou que faltem, no mesmo ano civil, a três reuniões consecutivas ou a seis interpoladas, salvo motivo justificado.\n\n7 - A perda do mandato é objeto de deliberação a publicar na 2.ª série do Diário da República."
+  },
+  "170221442": {
+   "fragment_id": "170251710",
+   "type": 11,
+   "heading": "Artigo 33.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Estatuto remuneratório\n\n1 - O presidente aufere a remuneração e outras regalias a que tem direito como juiz conselheiro do Supremo Tribunal Administrativo, bem como um abono mensal para despesas de representação no valor de 20 % do respetivo vencimento base.\n\n2 - À exceção do presidente, todos os membros podem exercer o seu mandato em acumulação com outras funções e auferem um abono correspondente a 25 % do valor do índice 100 da escala salarial do pessoal dirigente da função pública.\n\n3 - À exceção do presidente, todos os membros auferem um abono correspondente a 5 % do valor do índice 100 da escala salarial do pessoal dirigente da função pública por cada sessão da CADA em que participem.\n\n4 - Todos os membros têm direito a ajudas de custo e ao reembolso de despesas com transportes e com telecomunicações nos termos previstos para o cargo de diretor-geral.\n\n5 - Nas deslocações das personalidades designadas pelos Governos Regionais o abono das ajudas de custo é processado segundo o regime vigente nas respetivas administrações regionais."
+  },
+  "170221443": {
+   "fragment_id": "170251711",
+   "type": 11,
+   "heading": "Artigo 34.º — Competência do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Competência do presidente\n\n1 - No quadro das orientações dadas pela CADA, o presidente exerce, com possibilidade de delegação no secretário, as competências fixadas na lei para o cargo de dirigente máximo de organismo autónomo em matéria de gestão de pessoal, financeira, patrimonial e administrativa.\n\n2 - A CADA pode delegar no presidente poderes para apreciar e decidir:\n\na) Queixas manifestamente infundadas ou extemporâneas;\n\nb) Desistências;\n\nc) Casos de inutilidade superveniente;\n\nd) Queixas sobre questões que já tenham sido apreciadas pela CADA de modo uniforme e reiterado."
+  },
+  "170221444": {
+   "fragment_id": "170251712",
+   "type": 11,
+   "heading": "Artigo 35.º — Serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Serviços de apoio\n\nA CADA dispõe de serviços próprios de apoio técnico e administrativo, previstos em regulamento orgânico aprovado em diploma próprio."
+  },
+  "170221445": {
+   "fragment_id": "170251713",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime sancionatório"
+  },
+  "170221446": {
+   "fragment_id": "170251714",
+   "type": 11,
+   "heading": "Artigo 36.º — Acesso indevido a dados nominativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Acesso indevido a dados nominativos\n\n1 - Quem, com intenção de aceder indevidamente a dados nominativos, declarar ou atestar falsamente perante órgão ou entidade referida no n.º 1 do artigo 4.º ser titular de um interesse direto, pessoal, legítimo e constitucionalmente protegido que justifique o acesso à informação ou documentos pretendidos, é punido com pena de prisão até um ano ou com pena de multa.\n\n2 - A tentativa é punível."
+  },
+  "170221447": {
+   "fragment_id": "170251715",
+   "type": 11,
+   "heading": "Artigo 37.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Contraordenações\n\n1 - Praticam contraordenação punível com coima as pessoas singulares ou coletivas que:\n\na) Reutilizem documentos do setor público sem autorização da entidade competente;\n\nb) Reutilizem documentos do setor público sem observar as condições de reutilização estabelecidas no n.º 1 do artigo 23.º;\n\nc) Reutilizem documentos do setor público sem que tenham procedido ao pagamento do valor previsto no n.º 2 do artigo 23.º\n\n2 - As infrações previstas nas alíneas a) e c) do número anterior são puníveis com as seguintes coimas:\n\na) Tratando-se de pessoa singular, no mínimo de 300 (euro) e no máximo de 3500 (euro);\n\nb) Tratando-se de pessoa coletiva, no mínimo de 2500 (euro) e no máximo de 25 000 (euro).\n\n3 - A infração prevista na alínea b) do n.º 1 é punível com as seguintes coimas:\n\na) Tratando-se de pessoa singular, no mínimo de 150 (euro) e no máximo de 1750 (euro);\n\nb) Tratando-se de pessoa coletiva, no mínimo de 1250 (euro) e no máximo de 12 500 (euro).\n\n4 - A tentativa é punível."
+  },
+  "170221448": {
+   "fragment_id": "170251716",
+   "type": 11,
+   "heading": "Artigo 38.º — Aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Aplicação das coimas\n\n1 - A instrução do processo de contraordenação compete aos serviços da Administração Pública que tenham detetado a infração, podendo ser completada pelos serviços de apoio da CADA.\n\n2 - A aplicação de coimas é competência exclusiva da CADA e a respetiva deliberação constitui título executivo bastante, caso não seja impugnada no prazo legal."
+  },
+  "170221449": {
+   "fragment_id": "170251717",
+   "type": 11,
+   "heading": "Artigo 39.º — Destino das receitas cobradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Destino das receitas cobradas\n\nO montante das importâncias cobradas, em resultado da aplicação das coimas, reverte:\n\na) Em 40 % para a CADA;\n\nb) Em 40 % para o Estado;\n\nc) Em 20 % para a entidade lesada com a prática da infração."
+  },
+  "170221450": {
+   "fragment_id": "170251718",
+   "type": 11,
+   "heading": "Artigo 40.º — Omissão de dever",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Omissão de dever\n\nSempre que a contraordenação resulte da omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensam o infrator do seu cumprimento, se este ainda for possível."
+  },
+  "170221451": {
+   "fragment_id": "170251719",
+   "type": 11,
+   "heading": "Artigo 41.º — Impugnação judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Impugnação judicial\n\n1 - A impugnação de deliberações da CADA reveste a forma de reclamação, a apresentar no prazo de 10 dias a contar da respetiva notificação.\n\n2 - Em face dessa impugnação, a CADA pode modificar ou revogar a sua decisão, notificando os arguidos da nova deliberação final.\n\n3 - Caso mantenha a anterior deliberação, a CADA remete a reclamação, no prazo de 10 dias, ao Ministério Público junto do Tribunal Administrativo de Círculo de Lisboa."
+  },
+  "170221452": {
+   "fragment_id": "170251720",
+   "type": 11,
+   "heading": "Artigo 42.º — Decurso do processo judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Decurso do processo judicial\n\n1 - Compete à CADA remeter toda a informação necessária e relevante para o processo ao Ministério Público, para que este conclua os autos e os apresente ao juiz.\n\n2 - O juiz pode decidir a questão nos termos da presente lei por simples despacho, se a tal não se opuserem a defesa, o Ministério Público ou a CADA.\n\n3 - Se houver audiência, as respetivas formalidades são reduzidas ao mínimo indispensável, não havendo lugar à gravação de prova, nem à audição de mais de três testemunhas por cada contraordenação imputada.\n\n4 - O juiz tem sempre competência para arbitrar uma indemnização a quem entenda ter a ela direito.\n\n5 - Da decisão final do juiz cabe recurso per saltum para o Supremo Tribunal Administrativo, que decide de direito."
+  },
+  "170221453": {
+   "fragment_id": "170251721",
+   "type": 1,
+   "heading": "Capítulo V — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Alterações legislativas"
+  },
+  "170221454": {
+   "fragment_id": "170251722",
+   "type": 11,
+   "heading": "Artigo 43.º — Alteração ao Regulamento Orgânico da CADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Alteração ao Regulamento Orgânico da CADA\n\nO artigo 3.º do Regulamento Orgânico da CADA, aprovado em anexo à Lei n.º 10/2012, de 29 de fevereiro, passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\n2 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\n3 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\n4 — Aos técnicos superiores juristas a que se refere o n.º 1 é aplicável, enquanto desempenharem funções na CADA, o disposto no artigo 26.º do Decreto -Lei n.º 545/99, de 14 de dezembro,\n\nalterado pelo Decreto -Lei n.º 197/2015, de 16 de setembro.\n\n5 — Os demais trabalhadores a que se refere o n.º 1, enquanto desempenharem funções\n\nna CADA, auferem a remuneração correspondente à posição remuneratória imediatamente seguinte\n\nda respetiva categoria ou carreira.»"
+  },
+  "170221455": {
+   "fragment_id": "170251723",
+   "type": 11,
+   "heading": "Artigo 44.º — Alteração ao Decreto -Lei n.º 16/93, de 23 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Alteração ao Decreto -Lei n.º 16/93, de 23 de janeiro\n\nO artigo 17.º do Decreto-Lei n.º 16/93, de 23 de janeiro (Estabelece o regime geral dos arquivos e do património arquivístico), alterado pelas Leis n.os 14/94, de 11 de maio, e 107/2001, de 8 de setembro, passa a ter a seguinte redação:\n\n«Artigo 17.º\n\n[...]\n\n1 — É garantido o acesso à documentação conservada em arquivos públicos, salvas as limitações decorrentes dos imperativos de conservação das espécies, aplicando -se as restrições\n\ndecorrentes da legislação geral e especial de acesso aos documentos administrativos.\n\n2 — São acessíveis os documentos que integrem dados nominativos:\n\na) Desde que decorridos 30 anos sobre a data da morte das pessoas a que respeitam os\n\ndocumentos; ou\n\nb) Não sendo conhecida a data da morte, decorridos 40 anos sobre a data dos documentos,\n\nmas não antes de terem decorrido 10 anos sobre o momento do conhecimento da morte.\n\n3 — Os dados sensíveis respeitantes a pessoas coletivas, como tal definidos por lei, são\n\ncomunicáveis decorridos 30 anos sobre a data da extinção da pessoa coletiva, caso a lei não determine prazo mais curto.\n\n4 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . »"
+  },
+  "170221456": {
+   "fragment_id": "170251724",
+   "type": 11,
+   "heading": "Artigo 45.º — Alteração à Lei n.º 12/2005, de 26 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Alteração à Lei n.º 12/2005, de 26 de janeiro\n\nO artigo 3.º da Lei n.º 12/2005, de 26 de janeiro (Informação genética pessoal e informação de saúde), passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\n2 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\n3 — O acesso à informação de saúde por parte do seu titular, ou de terceiros com o seu consentimento ou nos termos da lei, é exercido por intermédio de médico, com habilitação própria, se\n\no titular da informação o solicitar.\n\n4 — Na impossibilidade de apuramento da vontade do titular quanto ao acesso, o mesmo é\n\nsempre realizado com intermediação de médico.»"
+  },
+  "170221457": {
+   "fragment_id": "170251725",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "170221458": {
+   "fragment_id": "170251726",
+   "type": 11,
+   "heading": "Artigo 46.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Disposições transitórias\n\n1 - Os acordos de exclusividade existentes que não respeitem o disposto no artigo 25.º caducam no termo do respetivo contrato.\n\n2 - O disposto no artigo 25.º da presente lei não prejudica a caducidade dos acordos exclusivos que já se tenha operado.\n\n3 - As freguesias com menos de 10 000 eleitores dispõem de um período transitório de adaptação até 1 de maio de 2017 para assegurarem a publicitação da informação prevista na alínea c) do n.º 1 do artigo 10.º\n\n4 - Os mandatos dos membros da CADA anteriores à entrada em vigor da presente lei, bem como os mandatos em curso no momento da sua entrada em vigor, não relevam para a aplicação da limitação de mandatos prevista no n.º 6 do artigo 29.º"
+  },
+  "170221459": {
+   "fragment_id": "170251727",
+   "type": 11,
+   "heading": "Artigo 47.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Norma revogatória\n\nSão revogadas:\n\na) A Lei n.º 19/2006, de 12 de junho, alterada pelo Decreto-Lei n.º 214-G/2015, de 2 de outubro;\n\nb) A Lei n.º 46/2007, de 24 de agosto, alterada pelo Decreto-Lei n.º 214-G/2015, de 2 de outubro."
+  },
+  "170221460": {
+   "fragment_id": "170251728",
+   "type": 11,
+   "heading": "Artigo 48.º — Entrada em vigor e aplicação da lei no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entrada em vigor e aplicação da lei no tempo\n\n1 - A presente lei entra em vigor no primeiro dia do segundo mês posterior à sua publicação, sem prejuízo do disposto nos números seguintes.\n\n2 - O artigo 43.º da presente lei entra em vigor a 1 de janeiro de 2017.\n\n3 - O disposto no artigo 29.º aplica-se à designação dos membros da CADA que tenha lugar em 2016.\n\n114500841"
+  }
+ }
+}

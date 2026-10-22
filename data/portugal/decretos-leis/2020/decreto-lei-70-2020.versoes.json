@@ -1,0 +1,115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:142961481:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-838972830",
+ "dre_path": "/dr/detalhe/decreto-lei/70-2020-142961481",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-09-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "838758725",
+    "838758726",
+    "838758727",
+    "838758728",
+    "838758729",
+    "838758730"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "838758725",
+    "838758726",
+    "838758732",
+    "838758728",
+    "838758729",
+    "838758730",
+    "838758731"
+   ]
+  }
+ ],
+ "fragments": {
+  "838758725": {
+   "fragment_id": "838972831",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 70/2020\n\nde 16 de setembro\n\nSumário: Atualiza a idade de acesso às pensões e elimina o fator de sustentabilidade nos regimes de antecipação da idade de pensão de velhice do regime geral de segurança social.\n\nO processo de devolução de confiança aos pensionistas, iniciado pelo Decreto-Lei n.º 126-B/2017, de 6 de outubro, foi continuado pelo Decreto-Lei n.º 73/2018, de 17 de setembro, e, mais recentemente, pelo Decreto-Lei n.º 119/2018, de 27 de dezembro, que criou o novo regime de flexibilização da idade de acesso à pensão de velhice.\n\nNo entanto, verificada a necessidade de adequação do sistema aos regimes específicos de acesso às pensões, como foi reconhecido no n.º 6 do artigo 110.º da Lei n.º 71/2018, de 31 de dezembro, que aprova o Orçamento do Estado para 2019, importa, designadamente, proceder à eliminação do fator de sustentabilidade. De igual modo, salvo exceções, a idade de acesso antecipado à pensão de velhice passa a refletir, de ora em diante, a variação anual prevista no Decreto-Lei n.º 187/2007, de 10 de maio, mantendo assim a distância relativa face à idade normal de acesso à pensão de velhice.\n\nDeste modo, através do presente decreto-lei, passam a beneficiar do fim da utilização do fator de sustentabilidade no cálculo das suas pensões os trabalhadores que exercem profissões de desgaste rápido.\n\nForam ouvidos os parceiros sociais com assento na Comissão Permanente de Concertação Social.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 4/2007, de 16 de janeiro, na sua redação atual, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "838758726": {
+   "fragment_id": "838972832",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à adequação dos regimes de antecipação da idade de pensão de velhice do regime geral de segurança social, no que respeita à idade de acesso à pensão de velhice e à aplicação do fator de sustentabilidade, tendo em conta as alterações introduzidas ao regime de flexibilização da idade de pensão de velhice pelo Decreto-Lei n.º 119/2018, de 27 de dezembro."
+  },
+  "838758727": {
+   "fragment_id": "838972833",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se aos seguintes regimes de antecipação da idade de pensão de velhice:\n\na) Quanto aos trabalhadores abrangidos por acordos internacionais na Região Autónoma dos Açores, o previsto na Lei n.º 32/96, de 16 de agosto;\n\nb) Quanto aos trabalhadores do interior das minas, das lavarias de minério e dos trabalhadores da extração ou transformação primária da pedra, incluindo a serragem e corte da pedra em bruto, o previsto no Decreto-Lei n.º 195/95, de 28 de julho, na sua redação atual;\n\nc) Quanto às bordadeiras de casa na Madeira, o previsto na Lei n.º 14/98, de 20 de março, e no Decreto-Lei n.º 55/99, de 26 de fevereiro,\n\nd) Quanto aos profissionais de bailado clássico ou contemporâneo, o previsto na alínea a) do artigo 3.º do Decreto-Lei n.º 482/99, de 9 de novembro;\n\ne) Quanto aos trabalhadores portuários integrados no efetivo portuário nacional, o previsto no Decreto-Lei n.º 483/99, de 9 de novembro;\n\nf) Quanto aos trabalhadores da Empresa Nacional de Urânio, S. A., o previsto no Decreto-Lei n.º 28/2005, de 10 de fevereiro, na sua redação atual;\n\ng) Quanto aos controladores de tráfego aéreo, o previsto no Decreto-Lei n.º 155/2009, de 9 de julho, na sua redação atual;\n\nh) Quanto aos pilotos comandantes e copilotos de aeronaves de transporte público comercial de passageiros, carga ou correio, o previsto no Decreto-Lei n.º 156/2009, de 9 de julho;\n\ni) Quanto aos trabalhadores inscritos marítimos da marinha do comércio de longo curso, de cabotagem e costeira e das pescas, o previsto na Portaria de 18 de dezembro de 1975, do Ministério dos Assuntos Sociais, publicada no Diário do Governo, 2.ª série, n.º 1, de 2 de janeiro de 1976, na sua redação atual;\n\nj) Quanto aos trabalhadores inscritos marítimos que exercem atividade na pesca, o previsto no Decreto Regulamentar n.º 40/86, de 12 de setembro, na sua redação atual."
+  },
+  "838758728": {
+   "fragment_id": "838972834",
+   "type": 11,
+   "heading": "Artigo 3.º — Idade de acesso antecipado à pensão de velhice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Idade de acesso antecipado à pensão de velhice\n\n1 - A idade de acesso à pensão de velhice dos trabalhadores abrangidos pelos regimes de antecipação previstos nas alíneas a), b), c), e), f), i) e j) do artigo anterior, corresponde à idade de acesso para cada um daqueles regimes à data de produção de efeitos do presente decreto-lei, atualizada de acordo com a evolução da esperança média de vida aos 65 anos de idade, nos termos do n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, refletindo anualmente a variação verificada na idade normal de acesso à pensão de velhice.\n\n2 - O disposto no número anterior não prejudica o disposto no artigo 2.º do Decreto Regulamentar n.º 40/86, de 12 de setembro, na sua redação atual."
+  },
+  "838758729": {
+   "fragment_id": "838972835",
+   "type": 11,
+   "heading": "Artigo 4.º — Fator de sustentabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fator de sustentabilidade\n\nO fator de sustentabilidade previsto no artigo 35.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, não é aplicável no cálculo das pensões de velhice no âmbito dos regimes de antecipação da idade de acesso à pensão de velhice previstos no artigo 2.º"
+  },
+  "838758730": {
+   "fragment_id": "838972836",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\nO disposto no presente decreto-lei aplica-se aos requerimentos de pensão ao abrigo dos regimes de antecipação da idade de acesso à pensão de velhice previstos no artigo 2.º apresentados desde 1 de janeiro de 2020."
+  },
+  "838758732": {
+   "fragment_id": "838972833",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 317.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se aos seguintes regimes de antecipação da idade de pensão de velhice:\n\na) (Revogada.)\n\nb) Quanto aos trabalhadores do interior das minas, das lavarias de minério e dos trabalhadores da extração ou transformação primária da pedra, incluindo a serragem e corte da pedra em bruto, o previsto no Decreto-Lei n.º 195/95, de 28 de julho, na sua redação atual;\n\nc) Quanto às bordadeiras de casa na Madeira, o previsto na Lei n.º 14/98, de 20 de março, e no Decreto-Lei n.º 55/99, de 26 de fevereiro,\n\nd) Quanto aos profissionais de bailado clássico ou contemporâneo, o previsto na alínea a) do artigo 3.º do Decreto-Lei n.º 482/99, de 9 de novembro;\n\ne) Quanto aos trabalhadores portuários integrados no efetivo portuário nacional, o previsto no Decreto-Lei n.º 483/99, de 9 de novembro;\n\nf) Quanto aos trabalhadores da Empresa Nacional de Urânio, S. A., o previsto no Decreto-Lei n.º 28/2005, de 10 de fevereiro, na sua redação atual;\n\ng) Quanto aos controladores de tráfego aéreo, o previsto no Decreto-Lei n.º 155/2009, de 9 de julho, na sua redação atual;\n\nh) Quanto aos pilotos comandantes e copilotos de aeronaves de transporte público comercial de passageiros, carga ou correio, o previsto no Decreto-Lei n.º 156/2009, de 9 de julho;\n\ni) Quanto aos trabalhadores inscritos marítimos da marinha do comércio de longo curso, de cabotagem e costeira e das pescas, o previsto na Portaria de 18 de dezembro de 1975, do Ministério dos Assuntos Sociais, publicada no Diário do Governo, 2.ª série, n.º 1, de 2 de janeiro de 1976, na sua redação atual;\n\nj) Quanto aos trabalhadores inscritos marítimos que exercem atividade na pesca, o previsto no Decreto Regulamentar n.º 40/86, de 12 de setembro, na sua redação atual.\n\n> Alterado pelo/a Artigo 317.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "838758731": {
+   "fragment_id": "838972837",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de agosto de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nPromulgado em 3 de setembro de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 9 de setembro de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113559703"
+  }
+ }
+}

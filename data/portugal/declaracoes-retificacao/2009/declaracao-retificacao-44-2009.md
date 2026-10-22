@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:491953:por
+title: Declaração de Rectificação n.º 44/2009
+short_title: null
+summary: Rectifica o Decreto-Lei n.º 99-A/2009, de 29 de Abril, do Ministério do Ambiente, do Ordenamento do Território e
+  do Desenvolvimento Regional, que procede à primeira alteração ao Decreto-Lei n.º 373/87, de 9 de Dezembro, que cria o Parque
+  Natural da Ria Formosa, publicado no Diário da República, 1.ª série, n.º 83, de 29 de Abril de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros - Centro Jurídico
+proposing_entity: null
+official_number: 44/2009
+official_date: null
+publication_date: '2009-06-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/2009, Série I de 2009-06-26
+  number: '122'
+  series: I
+  supplement: null
+  pages: 4188 - 4188
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/12200/0418804188.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/44/2009/06/26/p/dre/pt/html
+  oj: null
+  dre: '491953'
+  dre_path: /dr/detalhe/declaracao-rectificacao/44-2009-491953
+  internal: pt:dre:491953:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-2009-491953
+  metadata_url: https://data.dre.pt/eli/declrectif/44/2009/06/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-2009-491953
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-06-26T00:00:00Z'
+integrity:
+  source_sha256: 704f63b1ea5e1680173488956bc4cb94abf7b436692b6b4f24a0140b6813f29c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-44-491953.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Gestão Financeira
+- Orgânica
+- Parque Natural da Ria Formosa
+- Proteção do Ambiente
+- Instituto da Conservação da Natureza e da Biodiversidade
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/99-a/2009/04/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/99-a/2009/04/29/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 44/2009
+
+Ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do [Decreto-Lei n.º 162/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2007-521257), de 3 de Maio, declara-se que o [Decreto-Lei n.º 99-A/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-a-2009-409884), de 29 de Abril, publicado no Diário da República, 1.ª série, n.º 83, de 29 de Abril de 2009, saiu com a seguinte inexactidão que, mediante declaração da entidade emitente, assim se rectifica:
+
+No 3.º parágrafo do anexo i, que define os limites do Parque Natural da Ria Formosa, onde se lê:
+
+«Daqui, prossegue pelo terminal nascente do Aeroporto de Faro, no sentido sul-norte e inflecte pelo caminho carreteiro, para norte, que circunda o Parchal dos Azeites, até ao cruzamento com a estrada municipal n.º 527. Daqui segue pela estrada municipal n.º 527, até à passagem de nível do caminho-de-ferro, continuando pela linha do caminho-de-ferro até à intersecção com o caminho da Horta do Refúgio, seguindo para norte até à estrada nacional n.º 125.»
+
+deve ler-se:
+
+«Daqui, prossegue pelo terminal nascente do Aeroporto de Faro, no sentido sul-norte e inflecte pelo caminho carreteiro, para norte, que circunda o Parchal dos Azeites, até ao cruzamento com a estrada municipal n.º 527. Daqui segue pela estrada municipal n.º 527, até à passagem de nível do caminho-de-ferro, passando por Faro até Olhão até à intersecção com o caminho da Horta do Refúgio, seguindo para norte até à estrada nacional n.º 125.»
+
+Centro Jurídico, 25 de Junho de 2009. - O Director-Adjunto, Pedro Delgado Alves.

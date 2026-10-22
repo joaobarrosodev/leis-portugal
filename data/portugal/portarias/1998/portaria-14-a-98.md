@@ -1,0 +1,220 @@
+---
+schema_version: '1.0'
+id: pt:dre:574171:por
+title: Portaria n.º 14-A/98
+short_title: null
+summary: Introduz alterações ao Regulamento de Aplicação da Medida de Infra-Estruturas, ao Regulamento de Aplicação do Regime
+  de Ajudas à Melhoria da Eficácia das Estruturas Agrícolas, ao Regulamento de Aplicação da Medida de Apoio às Explorações
+  Agrícolas e ao Regulamento do Programa de Desenvolvimento Florestal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 14-A/98
+official_date: null
+publication_date: '1998-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07
+  number: '5'
+  series: I
+  supplement: 1º Suplemento
+  pages: 108-(2) a 108-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/01/005b01/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/14-a/1998/01/07/p/dre/pt/html
+  oj: null
+  dre: '574171'
+  dre_path: /dr/detalhe/portaria/14-a-1998-574171
+  internal: pt:dre:574171:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171
+  metadata_url: https://data.dre.pt/eli/port/14-a/1998/01/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-02-19T00:00:00Z'
+integrity:
+  source_sha256: 95e907c9ee47d48e6dbcf95f38c13310722037e3aabb3387a5ffd53ea63a2996
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-14-A-574171.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Desenvolvimento Rural
+- Emparcelamento
+- Apoio ao Investimento
+- Projeto de Investimento
+- Aproveitamento Hidroagrícola
+- QCA
+- Olivicultura
+- Exploração Agrícola
+- Exploração Florestal
+- Programa de Apoio à Modernização Agrícola e Florestal
+- Regulamento de Aplicação da Medida de Apoio às Explorações Agrícolas
+- Regulamento de Aplicação da Medida de Infra-estruturas
+- Pecuária
+- Agricultura
+- Ifadap
+- Regulamento do Programa de Desenvolvimento Florestal
+- Vinha
+relationships:
+- type: amended_by
+  target: pt:dre:209846:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/150/1994/05/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/150/1994/05/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/606/1996/10/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/606/1996/10/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/809-a/1994/09/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/809-a/1994/09/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/809-c/1994/09/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/809-c/1994/09/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/809-d/1994/09/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/809-d/1994/09/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/980/1995/08/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/980/1995/08/16/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 14-A/98
+
+de 7 de Janeiro
+
+As Portarias n.os [809-A/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-a-1994-617285) e [809-C/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-c-1994-617287), de 12 de Setembro, [980/95](https://diariodarepublica.pt/dr/detalhe/portaria/980-1995-477870), de 16 de Agosto, e [809-D/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-d-1994-617288), de 12 de Setembro, na redacção dada pela [Portaria n.º 606/96](https://diariodarepublica.pt/dr/detalhe/portaria/606-1996-226427), de 25 de Outubro, estabeleceram regras respeitantes à aplicação das medidas de infra-estruturas, ao apoio às explorações agrícolas, à melhoria da eficácia das estruturas agrícolas e ao Programa de Desenvolvimento Florestal do Programa de Apoio à Modernização Agrícola e Florestal (PAMAF).
+
+A experiência de aplicação deste Programa revelou, contudo, a necessidade de proceder a alguns ajustamentos no que respeita, nomeadamente, a matérias de natureza processual.
+
+Assim, ao abrigo no n.º 4 do artigo 2.º do [Decreto-Lei n.º 150/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1994-269400), de 25 de Maio:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º Que sejam alterados os artigos 16.º, 17.º e 20.º do Regulamento de Aplicação da Medida de Infra-Estruturas, anexo à [Portaria n.º 809-A/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-a-1994-617285), de 12 de Setembro, o artigo 48.º e o anexo V do Regulamento de Aplicação do Regime de Ajudas à Melhoria da Eficácia das Estruturas Agrícolas, anexo à [Portaria n.º 980/95](https://diariodarepublica.pt/dr/detalhe/portaria/980-1995-477870), de 16 de Agosto, os artigos 71.º, 72.º e 73.º do Regulamento de Aplicação da Medida de Apoio às Explorações Agrícolas, anexo à [Portaria n.º 809-C/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-c-1994-617287), de 12 de Setembro, e os artigos 15.º e 17.º do Regulamento do Programa de Desenvolvimento Florestal, anexo à [Portaria n.º 809-D/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-d-1994-617288), de 12 de Setembro, na redacção dada pela [Portaria n.º 606/96](https://diariodarepublica.pt/dr/detalhe/portaria/606-1996-226427), de 25 de Outubro, nos termos que constam do anexo ao presente diploma.
+
+2.º Os contratos previstos no anexo ao presente diploma poderão ser rescindidos pelo IFADAP no caso de não execução do projecto de investimento no prazo previsto, por causa imputável ao beneficiário, e, em casos excepcionais devidamente justificados, prorrogado o seu prazo até seis meses, ou por período adequado, nos projectos que envolvam sazonalidade.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+**Assinada em 7 de Janeiro de 1998.**
+
+**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+
+## ANEXO — Regulamento de Aplicação da Medida de Infra-Estruturas, anexo à [Portaria n.º 809-A/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-a-1994-617285), de 12 de Setembro
+
+###### Artigo 16.º
+
+1 - O processo de candidaturas às ajudas previstas neste capítulo inicia-se com a apresentação junto do IFADAP, de Janeiro a Dezembro, para as da secção III, e durante os meses de Setembro e Outubro, para as restantes, de um formulário de candidatura, de acordo com o modelo a distribuir por esses mesmos serviços, excepto no caso de obras do grupo II já aprovadas por resolução do Conselho de Ministros.
+
+2 - ...
+
+###### Artigo 17.º
+
+1 - As candidaturas apresentadas, quando se trate de obras da secção III, são objecto de análise e deliberação até três meses a contar da data da recepção das candidaturas e nos restantes casos até 28 de Fevereiro:
+
+a) ...
+
+b) ...
+
+###### Artigo 20.º
+
+1 - Salvo no caso referido no número seguinte, a atribuição das ajudas prestadas na secção III deste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), donde conste o prazo para a realização do investimento, no prazo máximo de um mês a contar da decisão de aprovação e até 31 de Março nos restantes casos.
+
+Regulamento de Aplicação do Regime de Ajudas à Melhoria da Eficácia das Estruturas Agrícolas, anexo à [Portaria n.º 980/95](https://diariodarepublica.pt/dr/detalhe/portaria/980-1995-477870), de 16 de Agosto Artigo 48.º
+
+Contratos
+
+A atribuição das ajudas é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, donde conste o prazo para a realização do investimento, no prazo máximo de um mês a contar da decisão de aprovação.
+
+## ANEXO V — (a que se refere o artigo 50.º)
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/01/005b01/00020003.pdf)
+
+Regulamento de Aplicação da Medida de Apoio às Explorações Agrícolas, anexo à [Portaria n.º 809-C/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-c-1994-617287), de 12 de Setembro
+
+###### Artigo 71.º
+
+1 - O processo de candidatura às ajudas previstas neste Regulamento inicia-se com a apresentação, junto das direcções regionais de agricultura ou do IFADAP, de um projecto, de acordo com modelo a distribuir por esses organismos, entre Janeiro e Dezembro.
+
+2 - ...
+
+###### Artigo 72.º
+
+As candidaturas apresentadas nos termos do artigo anterior são objecto de análise e deliberação pela unidade de gestão até três meses a contar da data da recepção da candidatura, tendo em conta os seguintes critérios de prioridade:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+###### Artigo 73.º
+
+A atribuição das ajudas é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, donde conste o prazo para a realização do investimento, no prazo máximo de um mês a contar da decisão de aprovação, prorrogável por igual período em casos devidamente justificados.
+
+Regulamento do Programa de Desenvolvimento Florestal, anexo à [Portaria n.º 809-D/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-d-1994-617288), de 12 de Setembro, na redacção dada pela [Portaria n.º 606/96](https://diariodarepublica.pt/dr/detalhe/portaria/606-1996-226427), de 25 de Outubro
+
+###### Artigo 15.º
+
+1 - ...
+
+2 - A análise e deliberação das candidaturas apresentadas é da competência do IFADAP, até três meses a contar da data da recepção das candidaturas.
+
+3 - ...
+
+###### Artigo 17.º
+
+1 - As ajudas previstas no presente diploma são concedidas ao abrigo de contratos celebrados entre o IFADAP, donde conste o prazo para a realização do investimento, no prazo máximo de um mês a contar da decisão de aprovação.

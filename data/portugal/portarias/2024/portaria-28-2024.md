@@ -1,0 +1,511 @@
+---
+schema_version: '1.0'
+id: pt:dre:839655449:por
+title: Portaria n.º 28/2024
+short_title: null
+summary: Portaria que regula o índice de desempenho da equipa e a atribuição dos incentivos institucionais aos centros de
+  responsabilidade integrados com equipas dedicadas ao serviço de urgência
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros, Finanças e Saúde
+proposing_entity: null
+official_number: 28/2024
+official_date: null
+publication_date: '2024-01-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 21/2024, Série I de 2024-01-30
+  number: '21'
+  series: I
+  supplement: null
+  pages: 27 - 37
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/01/02100/0002700037.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-12-04'
+version_history:
+  file: portaria-28-2024.versoes.json
+  count: 2
+  source_lastmod: '2024-12-05'
+  versions:
+  - date: '2024-01-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-12-04'
+    amending: pt:dre:898705897:por
+    amending_title: Portaria n.º 310/2024/1
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/28/2024/p/cons/20241203/pt/html
+  oj: null
+  dre: '839655449'
+  dre_path: /dr/detalhe/portaria/28-2024-839655449
+  internal: pt:dre:839655449:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-2024-839655449
+  metadata_url: https://data.dre.pt/eli/port/28/2024/p/cons/20241203/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-898997242
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-898997242
+  retrieved_at: '2026-10-22T13:19:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-12-05T00:00:00Z'
+integrity:
+  source_sha256: 1eb0a945de4a694098c3d077b7ef09f578294ad57697f51d0d130a4ab10750b4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:19:56Z'
+  notes: 2 versão(ões); histórico completo em portaria-28-2024.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Médico
+- Centro de Responsabilidade Integrada
+- Unidade de Saúde Familiar
+- Regulamentação de Atos Legislativos
+- Serviço Nacional de Saúde
+- Pessoal de Enfermagem
+- Serviços de Urgência
+relationships:
+- type: amended_by
+  target: pt:dre:898705897:por
+  label: Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/310-2024-898705897
+  date: '2024-12-03'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/103/2023/11/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103/2023/11/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/118/2023/12/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/118/2023/12/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+article_structure:
+  article_count: 25
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:19:56Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 28/2024
+
+Portaria n.º 28/2024
+
+de 30 de janeiro
+
+Sumário: Portaria que regula o índice de desempenho da equipa e a atribuição dos incentivos institucionais aos centros de responsabilidade integrados com equipas dedicadas ao serviço de urgência.
+
+De acordo com o n.º 1 da Base 4 da Lei de Bases da Saúde, aprovada em anexo à Lei n.º 95/2019, de 4 de setembro, a política de saúde tem âmbito nacional e é transversal, dinâmica e evolutiva, adaptando-se ao progresso do conhecimento científico e às necessidades, contextos e recursos da realidade nacional, regional e local, visando a obtenção de ganhos em saúde.
+
+Neste sentido, os centros de responsabilidade integrados (CRI) constituem-se como alteração de paradigma, face à organização tradicional das unidades hospitalares, potenciando a melhoria do acesso ao Serviço Nacional de Saúde (SNS), mediante a adoção de lógicas assistenciais colaborativas e participadas, e fomentando o aproveitamento de sinergias e a complementaridade de funções e especialidades.
+
+O XXIII Governo Constitucional, considerando a experiência adquirida com as cerca de quatro dezenas de CRI já criados no SNS, e reconhecendo a mais-valia deste modelo de organização enquanto fator fundamental para potenciar os ganhos em saúde e a fixação de profissionais no serviço público de saúde, aprovou o novo regime jurídico da organização e funcionamento dos CRI, conforme o anexo ii do Decreto-Lei n.º 103/2023, de 7 de novembro, na sua redação atual.
+
+De acordo com o disposto no n.º 1 do artigo 26.º do anexo atrás referido, a remuneração mensal dos profissionais que integram a equipa multiprofissional do CRI integra uma remuneração base e compensações pelo desempenho, podendo ainda, quando previstos por lei, integrar suplementos.
+
+Nesta sequência, face à multiplicidade de áreas de intervenção dos CRI, e de acordo com o previsto no n.º 3 do artigo 27.º do mesmo instrumento legal, o modo de apuramento do índice de desempenho da equipa (IDE), de que depende a compensação pelo desempenho, designadamente os indicadores a considerar, bem como intervalos de valor esperado e variação aceitável, são definidos por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública, das finanças e da saúde, por área ou áreas de intervenção assistencial do CRI.
+
+Tendo sido definidas áreas prioritárias para a criação de novos CRI, identificadas no preâmbulo do Decreto-Lei n.º 118/2023, de 20 de dezembro, importa desde já regulamentar o IDE referente aos CRI constituído por equipas dedicadas ao serviço de urgência (CRI-SU).
+
+Reconhecendo, porém, que se trata de uma área nova, em que ainda não existe histórico que permita a definição da matriz definitiva de indicadores para os serviços de urgência e emergência do SNS e, em especial, os intervalos de valor esperado e variação aceitável, é constituída uma comissão de acompanhamento e avaliação, no âmbito de projetos-piloto a desenvolver em cinco estabelecimentos e serviços de saúde integrados no SNS, para os serviços de urgência de adultos, tendo em vista permitir adequar o modelo criado pela presente portaria, numa perspetiva técnico-científica, sempre com o objetivo de melhorar o desempenho e a capacidade de resposta dos serviços de urgência e emergência.
+
+Assim, nos termos e ao abrigo do disposto no n.º 3 do artigo 27.º do anexo ii do Decreto-Lei n.º 103/2023, de 7 de novembro, na sua redação atual, manda o Governo, pelo Ministro das Finanças, pela Secretária de Estado da Administração Pública, no uso de competência delegada pela Ministra da Presidência através do Despacho n.º 8949/2022, de 8 de julho, publicado no Diário da República, 2.ª série, n.º 141, de 22 de julho de 2022, alterado pelo Despacho n.º 12320/2022, de 10 de outubro, publicado no Diário da República, 2.ª série, n.º 204, de 21 de outubro de 2022, e pelo Secretário de Estado da Saúde, no uso de competência delegada pelo Ministro da Saúde através do Despacho n.º 12167/2022, publicado no Diário da República, 2.ª série, n.º 201, de 18 de outubro de 2022, aditado pelo Despacho n.º 2617/2023, publicado no Diário da República, 2.ª série, n.º 40, de 24 de fevereiro de 2023, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria:
+
+a) Regula o índice de desempenho da equipa (IDE) que integra o centro de responsabilidade integrado com equipas dedicadas ao serviço de urgência (CRI-SU), nos termos previstos no n.º 3 do artigo 27.º do regime jurídico da organização e do funcionamento dos centros de responsabilidade integrados (CRI), aprovado no anexo ii do Decreto-Lei n.º 103/2023, de 7 de novembro, na sua redação atual, doravante designado por Regime;
+
+b) Determina o montante do suplemento remuneratório relativo à integração de cuidados, previsto na alínea c) do n.º 1 do artigo 27.º do Regime, a atribuir aos trabalhadores médicos que integram o CRI-SU;
+
+c) Regula os termos de atribuição dos incentivos institucionais, previstos no artigo 28.º do Regime.
+
+2 - A presente portaria procede ainda à criação de projetos-piloto de CRI-SU, bem como à definição dos procedimentos necessários à sua implementação, acompanhamento e avaliação.
+
+###### Artigo 2.º — Âmbito
+
+A presente portaria aplica-se aos CRI-SU e aos profissionais que os integram.
+
+###### Artigo 3.º — Equipa multiprofissional
+
+1 - A equipa multiprofissional do CRI-SU é constituída por trabalhadores médicos, enfermeiros, assistentes técnicos e técnicos auxiliares de saúde, cujo exercício de funções seja assegurado, exclusivamente, no serviço de urgência.
+
+2 - Sem prejuízo do disposto no número anterior, em função da tipologia e dimensão do respetivo estabelecimento ou serviço de saúde e do nível de resposta do serviço de urgência, pode o CRI-SU incluir outros profissionais, designadamente de grupos de pessoal distintos dos ali previstos.
+
+3 - Nas situações referidas no número anterior, o plano de ação do CRI-SU deve igualmente, e relativamente a cada um dos profissionais incluídos, identificar a carga horária semanal a afetar.
+
+###### Artigo 4.º — Matriz de indicadores para os serviços de urgência e emergência
+
+1 - É definida uma matriz de indicadores para os serviços de urgência e emergência do Serviço Nacional de Saúde (SNS), composta por todos os indicadores que respeitem os pressupostos gerais, as características e os atributos definidos no anexo i da presente portaria e da qual faz parte integrante.
+
+2 - Com exceção dos indicadores que compõem o IDE dos CRI-SU, as regras de cálculo e os intervalos de valor esperado e variação aceitável de cada indicador são atualizados anualmente, pela Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), em articulação com a Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), considerando a evolução das boas práticas clínicas e do histórico de resultados alcançado pelas equipas.
+
+### Capítulo II — Índice de desempenho da equipa do CRI-SU
+
+###### Artigo 5.º — Definição do IDE
+
+O IDE assenta no trabalho desenvolvido pela equipa multiprofissional do CRI-SU, considerando as dimensões de acesso, qualidade, eficiência e integração de cuidados.
+
+###### Artigo 6.º — Regras para cálculo do IDE
+
+1 - O cálculo do IDE de cada CRI-SU é efetuado em função dos indicadores, das ponderações e dos intervalos de valor esperado e variação aceitável que constam do anexo ii da presente portaria e da qual faz parte integrante, válidos para um período de três anos.
+
+2 - Para os efeitos previstos no número anterior, o intervalo de valor esperado corresponde ao conjunto de resultados de um indicador, tendo por base as boas práticas num contexto de trabalho organizado e eficiente, e o intervalo de variação aceitável corresponde aos desvios tecnicamente admissíveis em relação a essa mesma boa prática.
+
+3 - Sempre que, por razões não imputáveis ao CRI-SU, se verifique a impossibilidade de recolha de informação que permita o cálculo de um dos indicadores, a ponderação deste é dividida pelos restantes indicadores da mesma dimensão, na direta proporção das respetivas ponderações.
+
+4 - O resultado de cada indicador é expresso sem arredondamentos e o resultado do IDE expresso numa escala de 0 a 100, arredondado às décimas.
+
+###### Artigo 7.º — Apuramento dos resultados do IDE
+
+1 - A avaliação do grau de cumprimento de cada indicador que compõe o IDE é obtida de acordo com os critérios definidos no anexo iii da presente portaria e da qual faz parte integrante.
+
+2 - A ACSS, I. P., apura os resultados obtidos pela equipa multiprofissional do CRI-SU, em cada um dos indicadores que compõem o IDE e comunica-os à unidade local de saúde (ULS) respetiva.
+
+3 - O apuramento do resultado anual do IDE de cada CRI-SU, efetuado nos termos dos números anteriores, ocorre até 31 de março de cada ano e respeita ao ano civil anterior.
+
+###### Artigo 8.º — Procedimento para atribuição da compensação pelo desempenho
+
+1 - Sem prejuízo do disposto no artigo anterior, o montante da compensação pelo desempenho dos profissionais do CRI-SU é pago nos termos previstos no capítulo vii do Regime.
+
+2 - Até ao apuramento do resultado anual do IDE do CRI-SU, nos termos previstos no n.º 3 do artigo anterior, o montante da compensação pelo desempenho é igual ao auferido no mês anterior.
+
+3 - Após o apuramento do resultado do IDE do CRI-SU, cada ULS procede, com efeitos a 1 de janeiro e para cada profissional, à regularização dos montantes correspondentes.
+
+###### Artigo 9.º — Compensação pelo desempenho no primeiro ano de atividade
+
+1 - Sem prejuízo do disposto no artigo anterior, no ano de constituição do CRI-SU, o montante da compensação pelo desempenho corresponde a 50 % do valor máximo mensal previsto no n.º 4 do artigo 27.º do Regime.
+
+2 - Após o apuramento do resultado do IDE do CRI-SU, cada ULS procede à regularização dos montantes correspondentes a cada profissional, com efeitos a 1 de janeiro do ano anterior.
+
+### Capítulo III — Integração de cuidados
+
+###### Artigo 10.º — Suplemento de integração de cuidados
+
+1 - Os trabalhadores médicos que integrem o CRI-SU têm direito a um suplemento remuneratório no montante de 500 (euro), associado à integração de cuidados.
+
+2 - O suplemento previsto no número anterior é pago 12 meses por ano.
+
+3 - Nas situações em que, nos termos previstos no n.º 2 do artigo 3.º da presente portaria, seja incluído num CRI-SU um trabalhador médico, incluindo médico interno da formação especializada, o montante do suplemento previsto no presente artigo é proporcional ao número de horas de trabalho semanal normal asseguradas no CRI-SU.
+
+4 - Para efeitos do número anterior, se o período normal de trabalho não for igual em cada semana, é considerada a respetiva média no período de referência de um mês.
+
+### Capítulo IV — Atribuição de incentivos institucionais
+
+###### Artigo 11.º — Definição dos incentivos institucionais
+
+Os incentivos institucionais estão relacionados com a avaliação do impacto do desempenho da equipa multiprofissional do CRI-SU, aferido em função das dimensões de satisfação dos utentes, satisfação dos profissionais e melhoria contínua do desempenho.
+
+###### Artigo 12.º — Regras de cálculo e valor dos incentivos institucionais
+
+1 - O cálculo dos incentivos institucionais a atribuir a cada CRI-SU é efetuado através dos indicadores, e respetiva ponderação, que constam do anexo iv da presente portaria e da qual faz parte integrante, válidos para o período de um ano.
+
+2 - A definição dos seis indicadores de melhoria contínua é negociada entre a ULS e a equipa multiprofissional dos CRI-SU, de entre os indicadores que integram a matriz de indicadores para os serviços de urgência e emergência prevista no artigo 4.º da presente portaria.
+
+3 - O valor máximo dos incentivos institucionais a atribuir a cada CRI-SU depende dos seus níveis de desempenho, aferidos nos termos do anexo v da presente portaria e da qual faz parte integrante.
+
+4 - Os valores máximos dos incentivos institucionais são os fixados na tabela constante do anexo vi da presente portaria e da qual faz parte integrante.
+
+5 - O valor referido no número anterior é proporcional ao número de meses completos de atividade desenvolvida pelo CRI-SU no ano em causa, condicionado a um mínimo de seis meses de atividade.
+
+###### Artigo 13.º — Apuramento dos resultados dos incentivos institucionais
+
+O valor dos incentivos institucionais a atribuir a cada CRI-SU é apurado pela ULS respetiva, até 31 de março de cada ano, e respeita ao ano civil anterior.
+
+###### Artigo 14.º — Procedimentos para atribuição e aplicação de incentivos institucionais
+
+1 - O CRI-SU elabora o seu relatório de atividades e submete-o ao conselho de administração da ULS respetiva, até 31 de março do ano seguinte àquele a que respeita.
+
+2 - A ULS, observando o princípio do exercício do contraditório, pode determinar a realização de uma auditoria clínica ou administrativa para verificar o cumprimento dos resultados apurados, devendo esta estar concluída até 15 de abril de cada ano.
+
+3 - A ULS comunica ao CRI-SU, até 30 de abril de cada ano, a decisão fundamentada sobre a atribuição de incentivos institucionais.
+
+4 - A aplicação dos incentivos institucionais ocorre nos termos previstos no Plano de Aplicação dos Incentivos Institucionais (PAII) elaborado pelo CRI-SU, devendo observar os procedimentos constantes do anexo vii da presente portaria e que dela faz parte integrante.
+
+5 - A ULS publica, até 31 de julho de cada ano, um relatório de monitorização da distribuição dos incentivos institucionais.
+
+6 - A DE-SNS, I. P., publica, até 15 de outubro de cada ano, um relatório de monitorização da execução dos PAII relativos ao ano anterior.
+
+### Capítulo V — Contratualização e acompanhamento
+
+###### Artigo 15.º — Processo de contratualização
+
+1 - A contratualização anual do compromisso assistencial do CRI-SU decorre nos termos previstos no processo de contratualização interna das ULS, devendo estar enquadrado pelo Plano de Desenvolvimento Organizacional (PDO) da própria ULS.
+
+2 - O contrato-programa do CRI-SU é assinado pelas partes até 31 de dezembro do ano anterior ao período a que respeita, conforme disposto no artigo 7.º do Regime, e deve integrar, caso exista, a carteira adicional de serviços que tenha sido acordada.
+
+###### Artigo 16.º — Monitorização e acompanhamento
+
+1 - Os indicadores que integram a matriz de indicadores para os serviços de urgência e emergência referida no artigo 4.º da presente portaria são monitorizados mensalmente na plataforma eletrónica disponibilizada para o efeito.
+
+2 - Compete à ULS o acompanhamento do desempenho do CRI-SU, com periodicidade trimestral.
+
+3 - Registando-se desvios negativos ao desempenho, há lugar à definição de um plano de melhoria, subscrito pela ULS e pelo CRI-SU.
+
+4 - A ULS deve integrar no seu plano de auditoria interna ações direcionadas à verificação dos resultados obtidos pelo CRI-SU.
+
+### Capítulo VI — Projetos-piloto de CRI-SU
+
+###### Artigo 17.º — Projetos-piloto
+
+1 - Os projetos-piloto, a desenvolver em cinco estabelecimentos e serviços de saúde integrados no SNS, para os serviços de urgência de adultos, visam permitir adequar o modelo criado pela presente portaria, numa perspetiva técnico-científica, tendo em vista melhorar o desempenho e a capacidade de resposta dos serviços de urgência e emergência.
+
+2 - Os projetos-piloto pressupõem o desenvolvimento de um programa de acompanhamento a assegurar pelas ULS abrangidas, pela DE-SNS, I. P., pela ACSS, I. P., e pela Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.), que contemple os termos da operacionalização dos projetos-piloto, designadamente os recursos disponíveis, a forma de articulação com outras unidades orgânicas da entidade, a definição da matriz de indicadores dos serviços de urgência e emergência, as suas regras de cálculo e os intervalos de valor esperado e variação aceitável, assim como as adaptações a introduzir nos sistemas de informação de suporte.
+
+3 - Para os efeitos previstos no n.º 1, são identificados como projetos-piloto de CRI-SU as seguintes ULS:
+
+a) Unidade Local de Saúde de Coimbra, E. P. E.;
+
+b) Unidade Local de Saúde de Santa Maria, E. P. E.;
+
+c) Unidade Local de Saúde de Santo António, E. P. E.;
+
+d) Unidade Local de Saúde de São João, E. P. E.;
+
+e) Unidade Local de Saúde de São José, E. P. E.
+
+4 - Nos casos em que não seja possível criar um ou mais dos projetos-piloto de CRI-SU referidos no número anterior, pode o membro do Governo responsável pela área da saúde, mediante despacho, autorizar que a sua criação recaia sobre outro estabelecimento ou serviço, desde que não ultrapasse o número máximo de cinco CRI.
+
+> Alterado pelo/a Artigo 16.º do/a [Portaria n.º 310/2024/1 - Diário da República n.º 234/2024, Série I de 2024-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/310-2024-898705897), em vigor a partir de 2024-12-04
+
+###### Artigo 18.º — Duração
+
+1 - Independentemente da data da sua criação, os projetos-piloto referidos no artigo anterior consideram-se concluídos a 31 de dezembro de 2025.
+
+2 - As áreas governativas das finanças e da saúde promovem a elaboração de um relatório de monitorização e avaliação dos projetos-piloto, com o objetivo de avaliar os ganhos e os impactos alcançados, assim como ponderar medidas que contribuam para aperfeiçoamento do modelo, em especial, potenciadoras de maior acesso, eficiência e qualidade.
+
+> Alterado pelo/a Artigo 16.º do/a [Portaria n.º 310/2024/1 - Diário da República n.º 234/2024, Série I de 2024-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/310-2024-898705897), em vigor a partir de 2024-12-04
+
+###### Artigo 19.º — Comissão de acompanhamento e avaliação
+
+1 - É criada, no âmbito de execução dos projetos-piloto, a Comissão de Acompanhamento e Avaliação, doravante designada por Comissão.
+
+2 - A Comissão tem a seguinte composição:
+
+a) Dois representantes de cada uma das ULS abrangidas, de entre trabalhadores médicos e enfermeiros, que integrem o projeto-piloto CRI-SU;
+
+b) Um representante da DE-SNS, I. P.;
+
+c) Um representante da ACSS, I. P.;
+
+d) Um representante da SPMS, E. P. E.
+
+3 - Integram ainda a Comissão quatro peritos, com experiência no âmbito dos serviços de urgência e emergência, indicados pelo membro do Governo responsável pela área da saúde.
+
+4 - No exercício das suas atribuições, e em função das matérias a tratar, a Comissão pode convidar para participar nos trabalhos representantes de outras entidades, nomeadamente de associações públicas profissionais, assim como proceder à audição de representantes de serviços ou personalidades de reconhecido mérito e experiência em avaliação de desempenho, gestão de risco clínico, ou outras, por iniciativa de qualquer dos membros.
+
+5 - A Comissão é designada por despacho do membro do Governo responsável pela área da saúde, que deve identificar quem preside.
+
+6 - Os mandatos dos representantes que integram a Comissão vigoram até à apresentação do relatório final de avaliação, referido na alínea c) do n.º 1 do artigo 21.º
+
+###### Artigo 20.º — Funcionamento da Comissão
+
+1 - A Comissão deve reunir regularmente, pelo menos, uma vez por mês, sendo lavradas atas das reuniões.
+
+2 - O apoio logístico e administrativo necessário ao desenvolvimento das competências da Comissão é assegurado pela DE-SNS, I. P.
+
+3 - A atividade dos elementos que integram a Comissão, bem como das entidades ou quaisquer personalidades convidadas a participar nos seus trabalhos, nos termos previstos no n.º 4 do artigo anterior, não é remunerada.
+
+###### Artigo 21.º — Competência da Comissão
+
+1 - Compete à Comissão referida nos artigos anteriores:
+
+a) Acompanhar a implementação e a execução dos projetos-piloto, avaliando os resultados alcançados;
+
+b) Elaborar relatórios trimestrais intercalares que devem ser remetidos aos membros do Governo responsáveis pelas áreas das finanças e da saúde;
+
+c) Elaborar um relatório final de avaliação e conclusões, incluindo recomendações e propostas concretas para a alteração e alargamento do regime previsto na presente portaria;
+
+d) Propor, nos termos do disposto no n.º 1 do artigo 4.º, a matriz de indicadores para os serviços de urgência e emergência do SNS, bem como os intervalos de valor esperado e variação aceitável a utilizar pelos projetos-piloto de CRI-SU.
+
+2 - Sem prejuízo do disposto no número anterior, compete, em particular, à DE-SNS, I. P., à ACSS, I. P., e à SPMS, E. P. E., face às respetivas atribuições, em articulação com a Comissão, assegurar a implementação e adequação contínua das condições dos projetos-piloto.
+
+###### Artigo 22.º — Compensação pelo desempenho
+
+1 - O montante da compensação pelo desempenho a pagar aos elementos que integrem os CRI-SU previstos nos projetos-piloto referidos no n.º 3 ou, sendo o caso, no n.º 4 do artigo 17.º corresponde a 75 % do valor máximo mensal estabelecido no n.º 4 do artigo 27.º do Regime.
+
+2 - Sem prejuízo do disposto no número anterior, nas situações em que, após apuramento do IDE, se conclua que o montante da compensação a auferir por cada profissional é superior ao que foi pago, nos termos do número anterior, deve a ULS proceder à regularização dos montantes correspondentes, com efeitos à data da entrada em funcionamento do projeto-piloto.
+
+> Alterado pelo/a Artigo 16.º do/a [Portaria n.º 310/2024/1 - Diário da República n.º 234/2024, Série I de 2024-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/310-2024-898705897), em vigor a partir de 2024-12-04
+
+### Capítulo VII — Disposição complementares, transitórias e finais
+
+###### Artigo 23.º — Adequação dos sistemas de informação
+
+A ACSS, I. P., e a SPMS, E. P. E., adequam os sistemas de informação, designadamente os subjacentes ao cálculo dos indicadores e ao processamento de vencimentos, às regras previstas na presente portaria.
+
+###### Artigo 24.º — Disposição final
+
+Sem prejuízo do disposto no n.º 1 do artigo 4.º, e na sequência da proposta apresentada pela Comissão, nos termos da alínea d) do n.º 1 do artigo 21.º, serão definidos os intervalos de valor esperado e variação aceitável para os indicadores previstos no anexo i, mediante alteração à presente portaria.
+
+###### Artigo 25.º — Entrada em vigor
+
+A presente portaria entra em vigor no primeiro dia seguinte ao da sua publicação.
+
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 23 de janeiro de 2024. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira, em 25 de janeiro de 2024. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 25 de janeiro de 2024.
+
+## Anexo I — Matriz de indicadores para os serviços de urgência e emergência
+
+(a que se refere o n.º 1 do artigo 4.º)
+
+1 - Os indicadores que integram a matriz de indicadores para os serviços de urgência e emergência obedecem aos seguintes pressupostos gerais:
+
+a) São independentes da origem, da fonte e da sua utilização, destacando-se aqueles que são produzidos pela ACSS, I. P., pela Direção-Geral da Saúde, entre outros;
+
+b) Têm um bilhete de identidade com uma descrição clara, inequívoca e simples do que medem, do numerador e denominador, do que se regista (quando, onde e como), do seu modo de leitura (nas diferentes aplicações informáticas).
+
+2 - Os indicadores que integram a matriz de indicadores para os serviços de urgência e emergência devem ter as seguintes características:
+
+a) Estar tipificados de acordo com a seguinte classificação - estrutura, processo, resultado, ganhos em saúde;
+
+b) Estar associados à complexidade, prioridade, gravidade e gestão de risco clínico;
+
+c) Ter intervalos de valor esperado e variação aceitável - baseados nas boas práticas clínicas, na evidência disponível (nacional e ou internacional) e no histórico da atividade realizada pelas várias equipas;
+
+d) Abranger as dimensões de adequação técnico-científica, acesso, qualidade, eficiência e integração de cuidados.
+
+3 - Os indicadores que integram a matriz de indicadores para os serviços de urgência e emergência devem ter os seguintes atributos quanto a aspetos técnicos e metodológicos:
+
+a) Relevância - importância, prioridade, impacto do resultado;
+
+b) Robustez técnica científica - baseados na melhor evidência disponível;
+
+c) Validade - mede aquilo que se propõe medir;
+
+d) Fiabilidade - é capaz de ser reproduzido perante diferentes grupos;
+
+e) Sensibilidade - é capaz de detetar as mudanças;
+
+f) Exequibilidade - é possível operacionalizá-lo com eficácia.
+
+## Anexo II — Índice de desempenho da equipa
+
+(a que se refere o n.º 1 do artigo 6.º)
+
+| Dimensão | Designação | Ponderação | Valores esperados | Variações<br>aceitáveis |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| Acesso... | Percentagem de doentes fora da área de influência direta. | 9 % | Em definição... | Em definição. |
+| Acesso... | Percentagem de doentes atendidos dentro do tempo previsto na triagem (até 1.ª observação médica). | 10 % | Em definição... | Em definição. |
+| Acesso... | Tempo no SU desde a 1.ª observação médica até à alta clínica. | 9 % | Em definição... | Em definição. |
+| Acesso... | Taxa de abandono do SU... | 9 % | Em definição... | Em definição. |
+| Qualidade... | Taxa de resolutividade da equipa dedicada... | 9 % | Em definição... | Em definição. |
+| Qualidade... | Percentagem de episódios de urgência que originam internamento. | 9 % | Em definição... | Em definição. |
+| Qualidade... | Taxa de readmissões ao SU... | 9 % | Em definição... | Em definição. |
+| Eficiência... | Gasto médio com MCDT por doente sem internamento. | 9 % | Em definição... | Em definição. |
+| Integração cuidados | Percentagem de doentes orientados diretamente para ambulatório programado (HH/CSP). | 9 % | Em definição... | Em definição. |
+| Integração cuidados | Taxa de utilizadores frequentes ((maior que)4) do SU... | 9 % | Em definição... | Em definição. |
+| Integração cuidados | Taxa de internamentos evitáveis... | 9 % | Em definição... | Em definição. |
+
+Nota. - SU - serviço de urgência e emergência; MCDT - meios complementares de diagnóstico e terapêutica; HH/CSP - hospitais/cuidados de saúde primários.
+
+## Anexo III — Avaliação do grau de cumprimento de cada indicador do IDE
+
+(a que se refere o n.º 1 do artigo 7.º)
+
+| Critério | Valorização |
+| --- | --- |
+|  |  |
+| A condição [A e B] é verdadeira:<br>A. [resultado do indicador] (igual ou maior que) [valor mínimo do intervalo esperado]<br>B. [resultado do indicador] (igual ou menor que) [valor máximo do intervalo esperado] | 100 % da ponderação do indicador. |
+| A condição [(A e B) ou (C e D)] é verdadeira:<br>A. [resultado do indicador] (maior que) [valor mínimo da variação aceitável]<br>B. [resultado do indicador] (menor que) [valor mínimo do intervalo esperado]<br>C. [resultado do indicador] (maior que) [valor máximo do intervalo esperado]<br>D. [resultado do indicador] (menor que) [valor máximo da variação aceitável] | Entre 0 % e 100 % da ponderação do indicador, obtida através de uma função linear, na proporção direta ou indireta dos resultados, consoante o tipo de indicador e os resultados estarem acima ou abaixo do intervalo esperado. |
+| A condição [A ou B] é verdadeira:<br>A. [resultado do indicador] (igual ou menor que) [valor mínimo da variação aceitável]<br>B. [resultado do indicador] (igual ou maior que) [valor máximo da variação aceitável] | 0 % da ponderação do indicador. |
+
+## Anexo IV — Tabela de indicadores dos incentivos institucionais
+
+(a que se refere o n.º 1 do artigo 12.º)
+
+| Dimensão | indicador | Ponderação | Valores esperados | Variações aceitáveis |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| Satisfação dos utentes... | A negociar entre a ULS e equipa | 20 % | Definidos na matriz de indicadores. |  |
+| Satisfação dos profissionais... | A negociar entre a ULS e equipa | 20 % | Definidos na matriz de indicadores. |  |
+| Melhoria contínua (acesso, qualidade, eficiência ou integração de cuidados). | A negociar entre a ULS e equipa | 10 % | Definidos na matriz de indicadores. |  |
+| A negociar entre a ULS e equipa | 10 % | Definidos na matriz de indicadores. |  |  |
+| A negociar entre a ULS e equipa | 10 % | Definidos na matriz de indicadores. |  |  |
+| A negociar entre a ULS e equipa | 10 % | Definidos na matriz de indicadores. |  |  |
+| A negociar entre a ULS e equipa | 10 % | Definidos na matriz de indicadores. |  |  |
+| A negociar entre a ULS e equipa | 10 % | Definidos na matriz de indicadores. |  |  |
+
+## Anexo V — Critérios e níveis para atribuição de incentivos institucionais e valores de ponderação
+
+(a que se refere o n.º 3 do artigo 12.º)
+
+| Escalão | Resultado | Consequência | Percentagem do valor máximo<br>por unidade funcional |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| 1.º | (menor que) 50 | Sem direito a incentivos institucionais - intervenção da ULS... | - |
+| 2.º | (igual ou maior que) 50 e (menor que) 75 | Sem direito a incentivos institucionais... | - |
+| 3.º | (igual ou maior que) 75 e (menor que) 95 | Direito a incentivos institucionais ... | Função linear |
+| 4.º | (igual ou maior que) 95 | Direito a incentivos institucionais ... | 100 % |
+
+## Anexo VI — Valor dos incentivos (euros)
+
+(a que se refere o n.º 4 do artigo 12.º)
+
+| Número de ETC por CRI | Valor dos incentivos |
+| --- | --- |
+|  |  |
+| (menor que) 50 ETC ... | 30 000 (euro) |
+| (igual ou maior que) 50 ETC e (menor que) 100 ETC... | 40 000 (euro) |
+| (igual ou maior que) 100... | 50 000 (euro) |
+
+ETC - equivalente a tempo completo - 35 horas semanais.
+
+## Anexo VII — Procedimentos para aplicação dos incentivos institucionais
+
+(a que se refere o n.º 4 do artigo 14.º)
+
+1 - Caso haja lugar à atribuição de incentivos institucionais, o CRI-SU prepara o Plano de Aplicação de Incentivos Institucionais (PAII) a inserir no plano de ação do ano seguinte.
+
+2 - O PAII deve ser elaborado em formulário próprio criado pela ULS para o efeito.
+
+3 - Entre outra informação, o formulário referido no número anterior deve prever detalhadamente os bens e serviços a adquirir.
+
+4 - O documento técnico de apoio deve elencar as categorias e a tipologia de bens ou serviços aceites no PAII de forma a evitar que bens distribuídos de forma regular pela ULS sejam solicitados por esta via.
+
+5 - O documento técnico deve ainda contemplar o processo, os fluxos e as responsabilidades cometidas a cada interveniente no circuito.
+
+6 - Sem prejuízo do previsto nos números anteriores, o documento técnico de apoio deve ainda prever para cada uma das partes (ULS e CRI-SU) as responsabilidades e os prazos para apresentação, aprovação de documentos, atividades e consequências em caso de incumprimento.
+
+7 - No âmbito da ULS, deve ser designado o responsável pelo acompanhamento da execução do PAII do CRI-SU.
+
+117293341

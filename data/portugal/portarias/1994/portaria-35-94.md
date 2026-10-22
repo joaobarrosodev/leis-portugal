@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:531401:por
+title: Portaria n.º 35/94
+short_title: null
+summary: Exclui do regime de preços declarados vários bens e serviços enquadrados nas posições da classificação das actividades
+  económicas (CAE, revisão de 1973)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 35/94
+official_date: null
+publication_date: '1994-01-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/1994, Série I-B de 1994-01-12
+  number: '9'
+  series: I
+  supplement: null
+  pages: 123 - 123
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/01/009b00/01230123.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/35/1994/01/12/p/dre/pt/html
+  oj: null
+  dre: '531401'
+  dre_path: /dr/detalhe/portaria/35-1994-531401
+  internal: pt:dre:531401:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/35-1994-531401
+  metadata_url: https://data.dre.pt/eli/port/35/1994/01/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/35-1994-531401
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-01-12T00:00:00Z'
+integrity:
+  source_sha256: e336f7675fe16b3da00afa7306f4bec38bbc19f260e6b7b386b47679d0a249c0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-35-531401.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Prestação de Serviços
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 35/94
+
+de 12 de Janeiro
+
+Ao abrigo do disposto no n.º 6 do artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026) de 28 de Fevereiro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1980-678824), de 29 de Fevereiro:
+
+Manda o Governo, pelo Secretário de Estado da Distribuição e Concorrência, o seguinte:
+
+1.º São excluídos do regime de preços declarados os bens e serviços enquadrados nas posições da classificação das actividades económicas (CAE) constantes do quadro anexo.
+
+2.º O disposto neste diploma entra em vigor no dia imediato ao da sua publicação.
+
+Ministério do Comércio e Turismo.
+
+**Assinada em 28 de Outubro de 1993.**
+
+**O Secretário de Estado da Distribuição e Concorrência, Luís Maria Viana Palha da Silva.**
+
+Quadro dos bens e serviços a que se refere o n.º 1.º, ordenado de acordo com a classificação das actividades económicas (CAE, revisão de 1973).
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/009b00/01230123.pdf))](https://files.diariodarepublica.pt/1s/1994/01/009b00/01230123.pdf)

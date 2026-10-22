@@ -1,0 +1,197 @@
+---
+schema_version: '1.0'
+id: pt:dre:535794:por
+title: Decreto-Lei n.º 278/94
+short_title: null
+summary: Aprova a alienação, por fases, das acções da Siderurgia Nacional - Empresa de Produtos Planos, S. A., da Siderurgia
+  Nacional - Empresa de Serviços, S. A., e da Siderurgia Nacional - Empresa de Produtos Longos, S. A.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 278/94
+official_date: null
+publication_date: '1994-11-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 255/1994, Série I-A de 1994-11-04
+  number: '255'
+  series: I
+  supplement: null
+  pages: 6652 - 6653
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/11/255a00/66526653.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/278/1994/11/04/p/dre/pt/html
+  oj: null
+  dre: '535794'
+  dre_path: /dr/detalhe/decreto-lei/278-1994-535794
+  internal: pt:dre:535794:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1994-535794
+  metadata_url: https://data.dre.pt/eli/dec-lei/278/1994/11/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1994-535794
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-11-04T00:00:00Z'
+integrity:
+  source_sha256: 8771b42fe7df5e3ab3ec58879df541b5d7d96a564acbbf4487678f5f0aaebfde
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-278-535794.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de Acções
+- Sociedade Anónima
+- Concurso Público
+- Privatização
+- Siderurgia Nacional
+- Sn-longos
+- Sn-planos
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/424/1993/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/424/1993/12/31/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 278/94
+
+de 4 de Novembro
+
+Nos termos do [Decreto-Lei n.º 424/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1993-430851), de 31 de Dezembro, foi determinado à Siderurgia Nacional, S. A., que procedesse à constituição de novas sociedades, ficando a pertencer-lhe as acções representativas do capital social das mesmas.
+
+Encontrando-se concluída a constituição de três novas sociedades a partir de património da Siderurgia Nacional, S. A., estão agora reunidas as necessárias condições para que se inicie o processo conducente à alienação das respectivas acções.
+
+Nestas circunstâncias, estabelece-se neste diploma a possibilidade de alienar acções representativas do capital social daquelas sociedades mediante a realização de um ou de vários concursos públicos.
+
+O presente decreto-lei, na observância da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do diploma supra-referido, visa autorizar o Governo a iniciar o processo de alienação das acções das novas sociedades, operação que se realiza no respeito pelas características de cada uma delas e em obediência aos princípios definidos.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é autorizada a alienação, por fases, de até 100% das acções da Siderurgia Nacional - Empresa de Produtos Planos, S. A. (SN-Planos), e da Siderurgia Nacional - Empresa de Serviços, S. A. (SN-Serviços), e de até 90% das acções da Siderurgia Nacional - Empresa de Produtos Longos, S. A. (SN-Longos), a realizar isolada ou conjuntamente, podendo neste caso efectuar-se por grupos de duas ou três sociedades, sendo regulada pelo presente diploma e pelas resoluções do Conselho de Ministros a que se refere o artigo 5.º
+
+2 - As operações previstas no número anterior poderão realizar-se simultânea ou sequencialmente.
+
+3 - Os processos de alienação a que se refere o n.º 1 serão realizados em duas fases, consistindo a primeira na alienação de lotes indivisíveis de acções representativos de até 90% do capital social da SN-Planos e da SN-Serviços e de até 80% da SN-Longos e a segunda na alienação das acções correspondentes a 10% do capital social das mesmas sociedades, reservada a trabalhadores, pequenos subscritores e emigrantes, conforme o previsto no artigo 10.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+
+###### Art. 2.º - 1 - Para a concretização do disposto no artigo anterior, é autorizada a alienação, numa primeira fase de cada uma das operações aí previstas, por concursos públicos, de lotes indivisíveis de acções representativas de até 90% do capital social da SN-Planos e da SN-Serviços e de até 80% da SN-Longos.
+
+2 - Os concursos públicos são abertos a entidades nacionais e estrangeiras, que poderão apresentar-se individualmente ou em agrupamento.
+
+3 - Os vencedores dos concursos a que se referem os números anteriores obrigam-se a adquirir as correspondentes acções sobrantes da operação reservada a trabalhadores, pequenos subscritores e emigrantes de que trata o artigo seguinte, ao preço unitário por que tenham sido adquiridas as acções do respectivo lote.
+
+###### Art. 3.º - 1 - É autorizada a alienação, numa segunda fase de cada uma das operações previstas no artigo 1.º, das acções correspondentes a 10% do capital social de cada uma das sociedades, que serão reservadas para trabalhadores, pequenos subscritores e emigrantes.
+
+2 - Para os efeitos do número anterior, entende-se por trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, incluindo os de qualquer das sociedades que resultaram do destaque de património efectuado nos termos do [Decreto-Lei n.º 424/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1993-430851), de 31 de Dezembro.
+
+###### Art. 4.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases para execução do presente diploma.
+
+2 - No caso de as assembleias gerais de cada uma das sociedades, após a conclusão do respectivo concurso público, deliberarem qualquer aumento de capital social, a Siderurgia Nacional, SGPS, S. A., enquanto accionista, é autorizada a não exercer os correspondentes direitos de subscrição.
+
+3 - No caso previsto no número anterior, os vencedores dos respectivos concursos obrigam-se a adquirir os correspondentes direitos de subscrição da Siderurgia Nacional, SGPS, S. A., que esta deva alienar, nos termos das disposições dos cadernos de encargos referidos no n.º 1 do artigo seguinte.
+
+###### Art. 5.º - 1 - Os termos e condições dos concursos públicos previstos no artigo 2.º constarão de cadernos de encargos, a aprovar pelas resoluções do Conselho de Ministros relativas à primeira fase de cada operação de alienação.
+
+2 - As resoluções do Conselho de Ministros relativas à segunda fase das operações de alienação fixarão os preços especiais e demais condições para aquisição de acções por trabalhadores, pequenos subscritores e emigrantes, podendo ainda prever que o pagamento das acções adquiridas por trabalhadores seja fraccionado ao longo do período de indisponibilidade estabelecido no n.º 1 do artigo 8.º
+
+###### Art. 6.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar nas resoluções do Conselho de Ministros referidas no n.º 2 do artigo anterior.
+
+2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar nas resoluções do Conselho de Ministros previstas no n.º 2 do artigo anterior, que fixarão igualmente as condições de rateio.
+
+3 - As propostas de aquisição em condições de serem satisfeitas serão reduzidas às quantidades máximas referidas nos n.os 1 e 2, se as excederem.
+
+###### Art. 7.º - 1 - Durante três anos, contados da data de publicação da resolução do Conselho de Ministros que determina os vencedores do concurso a que respeita, as acções adquiridas nos termos do n.º 1 do artigo 2.º, representativas de 51% do capital social de cada uma das sociedades, só serão disponíveis, exceptuadas as transmissões entre entidades que componham cada um dos eventuais agrupamentos vencedores, desde que o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorize as respectivas operações.
+
+2 - Sem prejuízo do disposto no n.º 1, as entidades adquirentes de cada um dos lotes indivisíveis das acções a que se refere o n.º 1 do artigo 2.º deverão, em qualquer circunstância e durante o periodo fixado no número anterior, deter 51% do capital social, com direito a voto, de cada uma das sociedades, sob pena de nulidade dos respectivos actos, excepto se o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorizar a detenção de uma percentagem inferior.
+
+3 - Para efeito da concessão das autorizações a que se referem os números anteriores, deverá ser ponderada a capacidade técnica e financeira dos potenciais novos accionistas, bem como assegurada a observância por estes das obrigações a que os adquirentes originários estão sujeitos.
+
+4 - São nulos os contratos-promessa, contratos de opção ou outros pelos quais seja convencionada uma futura alienação das acções abrangidas pelos n.os 1 e 2 quando celebrados antes de iniciado ou de terminado o período de três anos, exceptuando-se os contratos entre entidades que componham cada um dos eventuais agrupamentos vencedores.
+
+5 - O direito de voto inerente às acções indisponíveis a que se reportam os n.os 1 e 2 não poderá ser exercido por mandatário durante o período em que durar a indisponibilidade aí estabelecida.
+
+6 - São nulos os acordos pelos quais os titulares das acções a que se referem os n.os 1 e 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias das sociedades realizadas durante o período de indisponibilidade a que as primeiras estão sujeitas.
+
+###### Art. 8.º - 1 - As acções adquiridas ao abrigo do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do negócio.
+
+2 - O disposto no número anterior é também aplicável, durante o período nele previsto, às acções que venham a ser atribuídas em condições especiais, por força da titularidade daquelas a que o mesmo se refere.
+
+3 - São nulos os contratos-promessa, contratos de opção ou outros pelos quais seja convencionada a alienação futura das acções referidas nos números anteriores, quando celebrados antes de iniciado ou de terminado o período aí fixado.
+
+4 - As acções adquiridas por trabalhadores ao abrigo do n.º 2 do artigo 3.º não conferem aos respectivos titulares o direito de votar na assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no n.º 1.
+
+5 - São nulos os acordos pelos quais os trabalhadores que tenham adquirido as acções referidas nos n.os 1 e 2 se obriguem a votar em determinado sentido nas assembleias gerais das sociedades a realizar durante o período de indisponibilidade previsto no n.º 1.
+
+6 - As acções adquiridas por pequenos subscritores e emigrantes ao abrigo do n.º 2 e do artigo 3.º não conferem aos respectivos titulares direito de voto nas assembleias gerais das sociedades durante o período de indisponibilidade previsto no n.º 1.
+
+###### Art. 9.º - 1 - A resolução que aprovar cada caderno de encargos a que se refere o n.º 1 do artigo 5.º poderá prever que o cumprimento das obrigações impostas aos concorrentes vencedores seja caucionado com as acções adquiridas por concurso público ou garantido por outra forma adequada.
+
+2 - As obrigações mencionadas no número anterior transmitem-se para os cessionários sucessivos, os quais ficarão vinculados, nos mesmos termos, ao seu cumprimento.
+
+###### Art. 10.º - 1 - Enquanto a Siderurgia Nacional, SGPS, S. A., for accionista da SN-Longos, independentemente do número de acções de que seja titular, o seu representante na assembleia geral terá direito a designar um dos membros do respectivo conselho de administração.
+
+2 - O disposto no número anterior mantém-se enquanto o Estado detiver o domínio da Siderurgia Nacional, SGPS, S. A., nos termos definidos no artigo 486.º do Código das Sociedades Comerciais.
+
+3 - O administrador nomeado nos termos do n.º 1 tem a competência, os direitos e os deveres definidos na lei para os administradores por parte do Estado.
+
+###### Art. 11.º - 1 - Compete ao conselho de administração da Siderurgia Nacional, SGPS, S. A., propor ao Ministro das Finanças o valor das sociedades a alienar, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+
+2 - Nos 15 dias seguintes ao termo de cada fase de um processo de alienação, cada sociedade envolvida publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos accionistas com participação igual ou superior a 5% do respectivo capital social, indicando a quantidade de acções de que cada um é titular.
+
+###### Art. 12.º Nos 30 dias seguintes à alienação prevista no artigo 2.º, são convocadas as assembleias gerais de accionistas das sociedades a que respeitam para se reunirem no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+
+Art 13.º Para realização das operações de alienação previstas e reguladas no presente diploma, são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado das Finanças, os poderes bastantes para contratar, por ajuste directo, a respectiva montagem e determinar as demais condições que se afigurem convenientes.
+
+###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Filipe da Conceição Pereira.
+
+**Promulgado em 7 de Outubro de 1994.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 10 de Outubro de 1994.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

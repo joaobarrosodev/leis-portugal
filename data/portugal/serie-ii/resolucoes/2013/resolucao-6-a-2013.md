@@ -1,0 +1,245 @@
+---
+schema_version: '1.0'
+id: pt:dre:3075696:por
+title: Resolução n.º 6-A/2013
+short_title: null
+summary: Nomeia o presidente, o vice-presidente e dois vogais do conselho de administração da CP - Comboios de Portugal, E.P.E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 6-A/2013
+official_date: null
+publication_date: '2013-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/2013, 1º Suplemento, Série II de 2013-02-28
+  number: '42'
+  series: II
+  supplement: 1º Suplemento
+  pages: 7918-(2) a 7918-(3)
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/02/042000001/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3075696'
+  dre_path: /dr/detalhe/resolucao/6-a-2013-3075696
+  internal: pt:dre:3075696:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-a-2013-3075696
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-a-2013-3075696
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-05-06T00:00:00Z'
+integrity:
+  source_sha256: 48b98bb49b0394e8a54c1a0169107543db06dfadee38fbf7cb9296a651946870
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-6-A-3075696.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:67145396:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 6-A/2013
+
+Nos termos do n.º 1 do artigo 6.º, do n.º 1 do artigo 7.º e do n.º1 do artigo 8.º dos estatutos da CP - Comboios de Portugal, E.P.E. (CP, E.P.E.), aprovados pelo [Decreto-Lei n.º 137-A/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-a-2009-140549), de 12 de junho, alterado pelo [Decreto-Lei n.º 59/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), de 14 de março, conjugados com o artigo 15.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de dezembro, alterado pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de agosto, e pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e com o n.º 2 do artigo 13.º e o artigo 15.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e retificado pela Declaração de Retificação n.º 2/2012, de 25 de janeiro, os membros do conselho de administração da referida entidade pública empresarial são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, para um mandato de três anos, renovável até ao máximo de três renovações.
+
+Atendendo a que os atuais membros do conselho de administração da CP, E.P.E., cessaram os respetivos mandatos em 31 de dezembro de 2012, torna-se necessário proceder à nomeação de membros de um novo conselho de administração, assegurando-se a continuidade de funções de um dos cinco membros deste órgão.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto na Resolução do Conselho de Ministros n.º16/2012, de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pela [Resolução do Conselho de Ministros n.º 97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, retificado pela Declaração de Retificação n.º 2/2012, de 25 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 6.º dos Estatutos da CP - Comboios de Portugal, E.P.E., aprovados pelo [Decreto-Lei n.º 137-A/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-a-2009-140549), de 12 de junho, alterado pelo [Decreto-Lei n.º 59/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), de 14 de março, dos n.os 2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e retificado pela Declaração de Retificação n.º 2/2012, de 25 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 -Nomear, sob proposta dos Ministros de Estado e das Finanças e da Economia e do Emprego, para o triénio 2013-2015, Manuel Tomás Cortez Rodrigues Queiró, Cristina Maria dos Santos Pinto Dias, Maria Isabel de Jesus da Silva Marques Vicente e Maria João Semedo Carmelo Rosa Calado Lopes, respetivamente, para os cargos de presidente, vice-presidente e vogais do conselho de administração do CP - Comboios de Portugal, E.P.E., cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciados nas respetivas sinopses curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 -Determinar que a presente resolução produz efeitos no dia seguinte ao da sua publicação.
+
+21 de fevereiro de 2013. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — Notas curriculares (síntese)
+
+I - Presidente
+
+1 -Dados Pessoais:
+
+Nome: Manuel Tomás Cortez Rodrigues Queiró
+
+Ano Nascimento: 1954
+
+2-Formação académica:
+
+1983-1985: Mestrado de Investigação Operacional e Engenharia de Sistemas (parte escolar), pelo Instituto Superior Técnico;
+
+1978: Licenciatura em Engenharia Civil, Faculdade de Ciências e Tecnologia da Universidade de Coimbra.
+
+3-Atividade profissional:
+
+1980- 2013: Assistente, Professor Auxiliar, Universidade de Coimbra, Faculdade de Ciências e Tecnologia, Laboratório de Urbanismo, Ordenamento do Território e Transportes:
+
+2006 - 2013: Sócio-Gerente, da Conprojur, Consultadoria e Projetos Urbanos, Lda, Coimbra, empresa de Coordenação de projetos;
+
+2002 - 2005: Administrador na Empresa Soturis -Sociedade Imobiliária e Turística, SA;
+
+1983 - 1985; 1985 a 1987; 1991 a 1995; 1999 a 2002: Deputado à Assembleia da República (CDS), tendo exercido funções junto da Comissão Parlamentar de Obras Públicas, Ambiente e Poder Local, da Comissão Parlamentar de Educação e da Comissão Parlamentar de Integração Europeia, bem como contribuído no âmbito da Definição de opções a respeito de Plano Rodoviário Nacional; Rede Ferroviária; Infraestruturas Portuárias e Aeroportuárias; Metro do Porto; TGV; Solução final na questão da Coincineração e Política de Resíduos Perigosos; Rede regional e local de Gás natural; Política nacional de produção de Energia;
+
+1989 - 1993: Consultor; Projetista;
+
+1978 - 1980: Subtenente da Armada.
+
+II - Vice-Presidente
+
+1-Dados Pessoais:
+
+Nome: Cristina Maria dos Santos Pinto Dias
+
+Ano Nascimento: 1966
+
+2-Formação académica:
+
+Doutoranda em Gestão, Instituto Superior de Economia e Gestão (ISEG);
+
+1995: Mestrado em Economia e Política da Energia e do Ambiente, ISEG. Dissertação do Mestrado -"O Custo Social dos Acidentes e da Poluição Atmosférica nos Transportes Rodoviários e Ferroviários";
+
+1999: Pós-Graduação em "Competitiveness of the European Railways", no European Training Centre for Railways (ETCR) - Brugge;
+
+1999-2000: Pós-Graduação em -Altos Estudos de Transportes promovido pelo Instituto Superior de Transportes, ISTP;
+
+Estágio em Contas Económicas da Agricultura Regionais no INSEE e no SCEES (França);
+
+1985-1990: Licenciada em Economia pela Universidade Técnica de Lisboa, (ISEG).
+
+3-Atividade profissional:
+
+Desde junho 2010: Administradora da Comboios de Portugal E.P.E.;
+
+Desde julho 2010: Administradora nos Transportes Intermodais do Porto, TIP, ACE;
+
+Desde julho de 2010: Administradora na OTLIS, ACE;
+
+2005-2010: Diretora de Direção da área de Desenvolvimento Organizacional e Gestão da Mudança na CP;
+
+2004-2005: Membro do Conselho de Administração da Comissão Instaladora da Autoridade Metropolitana de Transportes de Lisboa (2004/2005);
+
+2003-2004: Assessora para as áreas dos Transportes, Economia e Finanças do Ministro das Obras Públicas, Transportes e Habitação do XV Governo Constitucional;
+
+Até 2004: exercício de vários cargos de direção em institutos e empresas públicas de relevo no contexto nacional;
+
+2009-2011: Docente no ISEG, Instituto Superior Economia e Gestão na pós-graduação Leadership&Management.
+
+III- Vogal
+
+1-Dados Pessoais:
+
+Nome: Maria Isabel de Jesus da Silva Marques Vicente
+
+Ano Nascimento: 1953
+
+2-Formação académica:
+
+2008: Curso Avançado em Gestão Pública - CAGEP, no Instituto Nacional de Administração (INA);
+
+2007 - 2008: Curso de Alta Direção Administrativa Pública - CADAP, INA;
+
+1981 - 1985: Licenciatura em Organização e Gestão de Empresas (OGE), Instituto de Ciências do Trabalho e da Empresa (ISCTE).
+
+3-Atividade profissional:
+
+Desde fevereiro 2011: Vice-presidente do Conselho Diretivo do Instituto da Mobilidade e dos Transportes Terrestres, IP, - IMTT, I.P.;
+
+2007-2011: Vogal do Conselho Diretivo do IMTT, I.P.;
+
+Desde junho de 2009: Vogal do Conselho Executivo, não executiva, por inerência, da Autoridade Metropolitana de Transportes de Lisboa, I.P. - AMTL, I.P.;
+
+2005-2007: Vice-presidente do Conselho de Administração da Portugal Vela 2007, S.A.;
+
+De março de 2005 a julho de 2005: Chefe do Gabinete da Secretaria de Estado do Tesouro e das Finanças;
+
+2001- 2005: Subdiretora Geral na Direção Geral do Tesouro;
+
+2000-2001: Adjunta na Secretaria de Estado do Tesouro e Finanças;
+
+1991-2000: Inspetora de Finanças Superior na Inspeção Geral de Finanças;
+
+1988-1991: Inspetora Administrativa na Inspeção Geral da Administração do Território;
+
+1986-2000: Docente no Instituto de Novas Profissões, nas Licenciaturas de Turismo e de Tecnologias de Gestão;
+
+1985 - 1988: Técnica Superior no Ministério das Finanças e do Plano, no Departamento Central de Planeamento;
+
+1974-1985: Funcionária administrativa na Direção Geral de Viação.
+
+IV - Vogal
+
+1-Dados Pessoais:
+
+Nome: Maria João Semedo Carmelo Rosa Calado Lopes
+
+Ano Nascimento: 1946
+
+2-Formação académica:
+
+1974: Licenciada pelo ISCEF - Instituto Superior de Ciências Económicas e Financeiras.
+
+3-Atividade profissional:
+
+2002 -2013: Diretora do Departamento de Planeamento e Controlo de Atividade da CP - Comboios de Portugal, E.P.E;
+
+1999 - 2002:Chefe de Divisão do Gabinete de Gestão Financeira;
+
+1998 - 1999:Diretora Financeira do Projeto "Intourisme" / Comissão Europeia (DGXVI) e o Governo das Baleares;
+
+1994 -1997:Perita Nacional Destacada na Comissão Europeia na DG XVI;
+
+1981 - 1986:Chefe de Divisão de Informação de Gestão da CP - Comboios de Portugal;
+
+1977 - 1979:Técnica do Grupo de Estudos Para o Lançamento da Contabilidade Analítica na CP - Comboios de Portugal.
+
+1971-1973:Técnica do serviço de Orçamento - CP - Comboios de Portugal.

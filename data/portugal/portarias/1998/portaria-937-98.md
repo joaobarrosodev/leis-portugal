@@ -1,0 +1,322 @@
+---
+schema_version: '1.0'
+id: pt:dre:228789:por
+title: Portaria n.º 937/98
+short_title: null
+summary: Aprova o Regulamento do Concurso de Ingresso no Internado Complementar de Medicina Legal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 937/98
+official_date: null
+publication_date: '1998-10-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/1998, Série I-B de 1998-10-29
+  number: '250'
+  series: I
+  supplement: null
+  pages: 5635 - 5637
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/10/250b00/56355637.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/937/1998/10/29/p/dre/pt/html
+  oj: null
+  dre: '228789'
+  dre_path: /dr/detalhe/portaria/937-1998-228789
+  internal: pt:dre:228789:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/937-1998-228789
+  metadata_url: https://data.dre.pt/eli/port/937/1998/10/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/937-1998-228789
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-01-03T00:00:00Z'
+integrity:
+  source_sha256: abda60da7b5c1a80f5a035e8a38c563c6bdfa600d57e61e70a1478e8f8ddca7f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-937-228789.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Médica de Medicina Legal
+- Concurso de Ingresso
+- Internato Complementar
+- Medicina Legal
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:203010:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/247/1998/04/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/247/1998/04/21/p/dre
+article_structure:
+  article_count: 18
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 937/98
+
+de 29 de Outubro
+
+O [Decreto-Lei n.º 11/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1998-222631), de 24 de Janeiro, veio reconhecer na carreira médica de medicina legal dois graus profissionais, o grau de especialista e o grau de consultor.
+
+O grau de especialista é atribuído mediante aprovação em exame, após a realização do internato complementar de medicina legal, que se encontra regulamentado na [Portaria n.º 247/98](https://diariodarepublica.pt/dr/detalhe/portaria/247-1998-175796), de 21 de Abril.
+
+Continuando um esforço de se alcançar a plena equiparação da carreira médica de medicina legal às outras carreiras médicas, importa estabelecer as regras por que se pauta o concurso de ingresso no internato complementar de medicina legal.
+
+Foram ouvidos o Conselho Superior de Medicina Legal e a Ordem dos Médicos.
+
+Assim, atendendo ao disposto no artigo 74.º, n.º 2, do [Decreto-Lei n.º 11/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1998-222631), de 24 de Janeiro, e em desenvolvimento do disposto na [Portaria n.º 247/98](https://diariodarepublica.pt/dr/detalhe/portaria/247-1998-175796), de 21 de Abril:
+
+Manda o Governo, pelo Ministro da Justiça, o seguinte:
+
+1.º É aprovado o Regulamento do Concurso de Ingresso no Internato Complementar de Medicina Legal, anexo à presente portaria e da qual faz parte integrante.
+
+2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério da Justiça.
+
+**Assinada em 8 de Outubro de 1998.**
+
+Pelo Ministro da Justiça, José Luís Lopes da Mota, Secretário de Estado da Justiça.
+
+## ANEXO — REGULAMENTO DO CONCURSO DE INGRESSO NO INTERNATO COMPLEMENTAR DE MEDICINA LEGAL
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Programação das vagas
+
+A programação das vagas a pôr a concurso é efectuada com base na idoneidade e capacidade formativas dos institutos de medicina legal, considerando as necessidades previsionais de médicos especialistas em medicina legal.
+
+###### Artigo 2.º — Estabelecimentos de colocação
+
+A indicação dos serviços dos institutos de medicina legal com reconhecida idoneidade para assegurarem a realização do internato complementar de medicina legal é publicada em anexo ao aviso de abertura do concurso, tendo como limite a capacidade formativa máxima prevista e o número de vagas de internos por instituto de medicina legal.
+
+###### Artigo 3.º — Requisitos gerais de admissão
+
+Podem ser admitidos a concurso os médicos de nacionalidade portuguesa, nacionais de Estados membros da União Europeia ou de outros países, desde que possuam o estatuto de igualdade de direitos ao abrigo de lei especial ou convenção internacional, tenham concluído o internato geral ou sejam titulares de diploma, certificado ou outro título reconhecido como equivalente.
+
+###### Artigo 4.º — Requisitos especiais de admissão
+
+Os médicos que tenham já frequentado mais de um internato, mas tenham desistido, podem concorrer, desde que as mudanças de especialidade por repetição do concurso de admissão se tenham verificado anteriormente à data de entrada em vigor do [Decreto-Lei n.º 128/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1992-288258), de 4 de Julho.
+
+###### Artigo 5.º — Início do internato
+
+Os internatos complementares iniciam-se no 1.º dia útil do mês seguinte à conclusão do concurso de ingresso no internato complementar de medicina legal.
+
+### CAPÍTULO II — Concurso
+
+###### Artigo 6.º — Abertura do concurso
+
+1 - O ingresso no internato complementar de medicina legal faz-se por concurso de âmbito nacional.
+
+2 - A abertura é feita por despacho do Ministro da Justiça.
+
+3 - O concurso é válido por um ano a contar da data de publicação do aviso da respectiva lista de classificação final.
+
+4 - O aviso de abertura é publicado no Diário da República e dele deve constar:
+
+a) Número de lugares a concurso, distribuídos pelos três institutos de medicina legal;
+
+b) Locais de realização da prova;
+
+c) Indicação de que os candidatos podem escolher o local de realização da prova de entre os indicados nos termos da alínea anterior;
+
+d) Forma, prazo e local de apresentação de candidaturas;
+
+e) Requisitos gerais e especiais de admissão;
+
+f) Documentos que devem acompanhar o requerimento;
+
+g) Data da realização da prova;
+
+h) Forma e local de divulgação das listas de admissão e de classificação provisória e definitiva dos candidatos;
+
+i) Elementos que integram o júri do concurso;
+
+j) Datas e locais de afixação das chaves provisórias e definitivas da prova;
+
+k) Bibliografia aconselhada;
+
+l) Outros elementos julgados necessários ou úteis para melhor esclarecimento dos interessados.
+
+###### Artigo 7.º — Processo de candidatura
+
+1 - Os requerimentos devem ser entregues nos locais previstos no aviso de abertura de concurso e deles devem constar:
+
+a) Identificação completa do candidato e nacionalidade;
+
+b) Data e local de nascimento;
+
+c) Residência;
+
+d) Outros elementos julgados necessários ou úteis, previstos no aviso de abertura do concurso.
+
+2 - Os requerimentos devem ser acompanhados dos seguintes documentos, que poderão ser substituídos por certificado comprovativo da sua existência em qualquer serviço público:
+
+a) Cópia do bilhete de identidade;
+
+b) Certificado de licenciatura ou equiparação, com informação final da nota obtida, convertida à escala de 20 valores;
+
+c) Diploma ou certidão comprovativos da frequência com aproveitamento do internato geral ou reconhecimento de equivalência de outro diploma, certificado ou título;
+
+d) Documento comprovativo da inscrição na Ordem dos Médicos para o livre exercício da medicina emitido há, no máximo, três meses antes da data da inscrição;
+
+e) Documento comprovativo da situação militar ou cívica, quando for caso disso, o qual pode ser substituído por declaração, sob compromisso de honra, de que cumpriu as obrigações decorrentes da Lei do Serviço Militar, ou de que o substitua, quando obrigatório;
+
+f) Certidão de registo criminal, o qual pode ser substituído por declaração, sob compromisso de honra, de que nada consta do seu registo criminal;
+
+g) Outros elementos que o candidato entenda úteis ou previstos no aviso de abertura do concurso.
+
+###### Artigo 8.º — Inscrições condicionais
+
+1 - Nos casos em que os candidatos não reúnam, durante o processo de recepção das candidaturas, todos os requisitos de admissão ou não possuam toda a documentação exigida no aviso de abertura, são admitidos condicionalmente.
+
+2 - As deficiências de inscrição têm de ser supridas até à data fixada para afixação da lista definitiva dos candidatos admitidos e excluídos.
+
+###### Artigo 9.º — Lista de candidatos admitidos
+
+1 - O Conselho Nacional do Internato de Medicina Legal, 10 dias após o termo do prazo para apresentação das candidaturas, remete-as ao júri, o qual, no prazo de 5 dias, elabora a lista provisória dos candidatos admitidos e excluídos, com indicação dos motivos de exclusão, e promove a sua afixação nos institutos de medicina legal onde os candidatos pretendam realizar a prova.
+
+2 - Os candidatos excluídos podem recorrer, no prazo de cinco dias, para o presidente do Conselho Nacional do Internato de Medicina Legal.
+
+3 - Os recursos interpostos são decididos no prazo de cinco dias e, sempre que lhes seja dado provimento, são efectuadas de imediato as correspondentes alterações à lista de candidatos.
+
+4 - As listas definitivas dos candidatos admitidos e excluídos são afixadas nas datas e nos locais previstos no aviso de abertura.
+
+### CAPÍTULO III — Júri de concurso
+
+###### Artigo 10.º — Constituição e competência
+
+1 - O júri de concurso é composto por um presidente e por, pelo menos, dois vogais efectivos e dois vogais suplentes, designados de entre médicos da carreira médica de medicina legal.
+
+2 - Para a constituição do júri, o director de cada instituto de medicina legal propõe ao Conselho Nacional do Internato de Medicina Legal o nome de três médicos.
+
+3 - O júri é nomeado por despacho do Ministro da Justiça, sob proposta do Conselho Nacional do Internato de Medicina Legal.
+
+4 - A presidência do júri cabe ao médico mais graduado de entre os nomes escolhidos; no caso de a graduação ser igual, a presidência do júri cabe ao médico que tiver maior antiguidade na categoria.
+
+5 - O júri é responsável por todas as operações do concurso, competindo-lhe, nomeadamente:
+
+a) Elaborar a prova;
+
+b) Presidir e coordenar a prestação da prova;
+
+c) Decidir reclamações relativas às classificações;
+
+d) Emitir parecer sobre assuntos relativos ao concurso.
+
+6 - Pelo menos um membro do júri deve estar sempre presente em cada local de prestação da prova de conhecimentos.
+
+### CAPÍTULO IV — Provas
+
+###### Artigo 11.º — Prova de conhecimentos
+
+1 - No concurso é utilizada, como método de selecção, a prova de conhecimentos, a efectuar em duas horas e trinta minutos.
+
+2 - A prova realiza-se até ao final do mês de Outubro de cada ano e consta de 100 perguntas, cada uma delas com escolha única de entre 5 propostas.
+
+3 - Em casos devidamente fundamentados, por despacho do Ministro da Justiça, o calendário das provas poderá ser alterado.
+
+4 - As matérias sobre que recai a prova constam do anexo II à [Portaria n.º 247/98](https://diariodarepublica.pt/dr/detalhe/portaria/247-1998-175796), de 21 de Abril.
+
+###### Artigo 12.º — Realização da prova
+
+1 - Os testes devem ser entregues por um dos membros do júri, em invólucros lacrados, que só são abertos no início da prova e na presença dos candidatos.
+
+2 - A prova inicia-se com a distribuição aos candidatos dos testes e das instruções para a sua realização, começando a contar o tempo após a leitura das referidas instruções.
+
+3 - Esgotado o tempo, os testes são recolhidos pelo membro do júri presente e encerrados na presença de, pelo menos, um candidato.
+
+###### Artigo 13.º — Classificação da prova
+
+A prova é classificada na escala de 0 a 100, valendo 1 ponto cada resposta certa.
+
+### CAPÍTULO V — Publicação das listas classificativas
+
+###### Artigo 14.º — Afixação das listas
+
+1 - As chaves provisória e definitiva da prova de conhecimentos, bem como as listas das classificações provisórias e definitivas, são afixadas nas datas e locais indicados no aviso de abertura.
+
+2 - Os candidatos podem reclamar, no prazo de 5 dias, para o presidente do júri de qualquer inexactidão constatada nas classificações, tendo o júri 10 dias para decidir.
+
+3 - Desta decisão cabe recurso para o presidente do Conselho Nacional do Internato de Medicina Legal.
+
+4 - Findo este prazo, o júri elabora a chave definitiva da prova de conhecimentos, tendo em consideração as eventuais reclamações.
+
+### CAPÍTULO VI — Ordenação e distribuição dos candidatos
+
+###### Artigo 15.º — Ordenação final dos candidatos
+
+1 - A ordenação final dos candidatos é realizada de acordo com a classificação obtida na prova de conhecimentos.
+
+2 - Em caso de igualdade atende-se à classificação mais elevada na licenciatura em Medicina e, caso subsista o empate, ao acordo entre os candidatos ou, se tal não for possível, e em último recurso, a sorteio.
+
+###### Artigo 16.º — Distribuição dos candidatos
+
+1 - Na data e locais em que se afixe a lista com a classificação final dos candidatos é indicada a data e forma pela qual os candidatos devem manifestar as suas opções.
+
+2 - A escolha do instituto de medicina legal onde os candidatos pretendem realizar o seu internato complementar é feita de acordo com as seguintes regras:
+
+a) No aviso de abertura é indicado o número de vagas por instituto de medicina legal;
+
+b) Os candidatos escolhem, pública e pessoalmente, o instituto pretendido, seguindo a ordem decrescente da classificação que obtiveram.
+
+###### Artigo 17.º — Colocação dos candidatos
+
+A lista definitiva de colocação dos candidatos nos institutos de medicina legal é organizada pelo Conselho Nacional do Internato de Medicina Legal e homologada por despacho do Ministro da Justiça.
+
+###### Artigo 18.º — Disposição final
+
+Ao concurso de ingresso no internato complementar de medicina legal aplicam-se, supletivamente, as disposições da [Portaria n.º 247/98](https://diariodarepublica.pt/dr/detalhe/portaria/247-1998-175796), de 21 de Abril, e do [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de Julho.

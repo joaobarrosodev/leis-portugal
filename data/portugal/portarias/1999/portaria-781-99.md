@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:581600:por
+title: Portaria n.º 781/99
+short_title: null
+summary: Renova, por um período de 12 anos, a concessão da zona de caça associativa da Quinta de Santo António, abrangendo
+  o prédio rústico denominado «Quinta de Santo António», sito na freguesia de Castelo, município de Sesimbra
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente
+proposing_entity: null
+official_number: 781/99
+official_date: null
+publication_date: '1999-09-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 204/1999, Série I-B de 1999-09-01
+  number: '204'
+  series: I
+  supplement: null
+  pages: 6158 - 6159
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/09/204b00/61586159.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/781/1999/09/01/p/dre/pt/html
+  oj: null
+  dre: '581600'
+  dre_path: /dr/detalhe/portaria/781-1999-581600
+  internal: pt:dre:581600:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/781-1999-581600
+  metadata_url: https://data.dre.pt/eli/port/781/1999/09/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/781-1999-581600
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-09-01T00:00:00Z'
+integrity:
+  source_sha256: f1c789e40d75b9da1d73fa0e6aba1f5c047e5bf5b268047d1bf1f66201f847ae
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-781-581600.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Sesimbra
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/667-u3/1993/07/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/667-u3/1993/07/14/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 781/99
+
+de 1 de Setembro
+
+Pela [Portaria n.º 667-U3/93](https://diariodarepublica.pt/dr/detalhe/portaria/667-u3-1993-402289), de 14 de Julho, foi concessionada à Associação de Caçadores da Quinta de Santo António uma zona de caça associativa situada na freguesia de Castelo, município de Sesimbra, com uma área de 601 ha, válida até 14 de Julho de 1999.
+
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+
+Cumpridos os preceitos legais, com fundamento no disposto no artigo 83.º e n.º 1 do artigo 104.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto;
+
+Ouvidos o Conselho Cinegético Municipal e o Conselho Nacional da Caça e da Conservação da Fauna:
+
+Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, o seguinte:
+
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa da Quinta de Santo António (processo n.º 1410-DGF), abrangendo o prédio rústico denominado «Quinta de Santo António», sito na freguesia de Castelo, município de Sesimbra, com uma área de 601 ha.
+
+2.º A renovação da concessão em terrenos incluídos na área do Parque Natural da Arrábida terminará, sem direito a indemnização, no caso de constituição de zona de interdição à caça [ao abrigo do disposto na alínea b) do n.º 2 do artigo 101.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto] ou por alteração de condicionantes introduzidas por modificação do plano de ordenamento desta área protegida.
+
+3.º Mantêm-se integralmente os direitos e obrigações decorrentes da lei e constantes da [Portaria n.º 667-U3/93](https://diariodarepublica.pt/dr/detalhe/portaria/667-u3-1993-402289), de 14 de Julho.
+
+4.º A presente portaria produz efeitos a partir do dia 15 de Julho de 1999.
+
+Em 12 de Agosto de 1999.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.

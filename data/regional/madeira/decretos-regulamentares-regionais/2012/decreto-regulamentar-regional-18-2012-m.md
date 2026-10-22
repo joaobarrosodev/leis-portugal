@@ -1,0 +1,238 @@
+---
+schema_version: '1.0'
+id: pt:dre:179276:por
+title: Decreto Regulamentar Regional n.º 18/2012/M
+short_title: null
+summary: Aprova a estrutura orgânica da Direção Regional do Património
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 18/2012/M
+official_date: null
+publication_date: '2012-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/2012, Série I de 2012-08-01
+  number: '148'
+  series: I
+  supplement: null
+  pages: 4049 - 4050
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/08/14800/0404904050.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/18/2012/08/01/m/dre/pt/html
+  oj: null
+  dre: '179276'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/18-2012-179276
+  internal: pt:dre:179276:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2012-179276
+  metadata_url: https://data.dre.pt/eli/decregulreg/18/2012/08/01/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2012-179276
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-03-20T00:00:00Z'
+integrity:
+  source_sha256: 7ed50f412a49442628306603f4c2ca20eedfb8f89cc80c756f8274edd683f734
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2012/DRE-2012-18-179276.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direcção Regional do Património
+- Diretor Regional
+- Orgânica
+- Madeira.região Autónoma
+relationships:
+- type: amended_by
+  target: pt:dre:106630891:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/11/2008/06/18/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/11/2008/06/18/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/4/2012/04/09/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/4/2012/04/09/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 18/2012/M
+
+O [Decreto Regulamentar Regional n.º 4/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2012-552531), de 9 de abril, que aprovou a Lei Orgânica da Secretaria Regional do Plano e Finanças, determinou que a orgânica da Direção Regional do Património deveria ser aprovada no prazo de 60 dias a contar da entrada em vigor daquele diploma, de acordo com os n.os 1 e 2 do artigo 27.º do mencionado diploma legal.
+
+Seguindo a linha de reestruturação verificada na Secretaria Regional do Plano e Finanças, procurou adaptar-se a estrutura da Direção Regional do Património aos novos desafios propostos.
+
+Tendo em conta este objetivo, procedeu-se à redução de uma unidade nuclear. Assim as áreas de aprovisionamento e de gestão dos imóveis são concentradas na estrutura nuclear existente e a área das expropriações de imóveis e respetiva regularização é integrada numa nova unidade nuclear, que se designa Direção de Serviços de Imóveis.
+
+Com esta nova dinâmica, reduziu-se também o peso existente em unidades flexíveis, passando a existir somente duas, sendo responsáveis pela área financeira e pela área da fiscalização.
+
+Assim, ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º
+
+É aprovada a estrutura orgânica da Direção Regional do Património, publicada em anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 2.º
+
+1 - É revogado o [Decreto Regulamentar Regional n.º 11/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-449452), de 18 de junho.
+
+2 - Até a aprovação da organização interna da Direção Regional do Património, mantém-se em vigor a anterior estrutura desta Direção Regional, com as comissões de serviço dos titulares de cargos de direção intermédia.
+
+###### Artigo 3.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 5 de julho de 2012.
+
+**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+
+**Assinado em 19 de julho de 2012.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+## ANEXO — Orgânica da Direção Regional do Património
+
+###### Artigo 1.º — Natureza
+
+A Direção Regional do Património, abreviadamente designada no presente diploma por DRPA, é um serviço da administração direta da Região Autónoma da Madeira (RAM) que prossegue a política da Secretaria Regional do Plano e Finanças na área do património.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DRPA, com funções dominantes de execução, tem por missão efetuar e controlar as ações necessárias na área da gestão e administração do património da Região Autónoma da Madeira, com exceção do transmitido ou concessionado à PATRIRAM, Titularização e Gestão do Património Público Regional, S. A., assim como realizar os estudos e procedimentos adequados à concretização das aquisições de imóveis necessários a obras públicas ou outros fins de interesse público e proceder ao aprovisionamento de bens aos serviços da administração direta do Governo Regional.
+
+2 - A DRPA prossegue as seguintes atribuições:
+
+a) Promover a execução da política e a prossecução dos objetivos definidos pelo Governo Regional para o setor do património;
+
+b) Assegurar a execução e o controlo das ações necessárias à gestão do património da Região, à exceção do artístico e cultural, e ao aprovisionamento dos serviços que funcionem na dependência direta do Governo Regional;
+
+c) Estudar e propor as medidas necessárias à gestão dos bens da Região Autónoma da Madeira;
+
+d) Promover a racionalização do aprovisionamento dos bens e serviços necessários ao funcionamento dos serviços da administração direta do Governo Regional;
+
+e) Organizar, gerir e racionalizar a frota de veículos pertencentes à Região Autónoma da Madeira;
+
+f) Gerir os bens perdidos a favor da Região Autónoma da Madeira;
+
+g) Cooperar e assegurar a ligação com outras entidades nas áreas das aquisições públicas e de gestão patrimonial;
+
+h) Promover as negociações necessárias à concretização das aquisições de imóveis;
+
+i) Promover os procedimentos necessários aos processos de expropriação por utilidade pública;
+
+j) Exercer todas as demais atribuições que lhe forem expressamente cometidas por diploma regional ou que decorram do normal exercício das suas funções.
+
+###### Artigo 3.º — Diretor regional
+
+1 - A DRPA é dirigida pelo diretor regional do património, adiante designado abreviadamente por diretor regional, cargo de direção superior de 1.º grau.
+
+2 - Compete ao diretor regional:
+
+a) Coordenar e orientar a ação dos diversos serviços da Direção Regional, segundo as diretrizes do secretário regional;
+
+b) Apoiar o secretário regional na definição, execução e controlo de todas as medidas respeitantes ao património da Região;
+
+c) Propor a aprovação e dar parecer sobre as normas relativas à uniformização e racionalização dos procedimentos de gestão dos bens patrimoniais da Região;
+
+d) Administrar os bens patrimoniais da Região Autónoma da Madeira, com exceção dos transmitidos ou concessionados à PATRIRAM;
+
+e) Propor e coordenar as negociações necessárias à aquisição e alienação de imóveis;
+
+f) Propor, sempre que se torne necessário, o arrendamento de imóveis destinados à instalação de serviços públicos;
+
+g) Emitir pareceres que, nos termos da lei, sejam da competência da DRPA;
+
+h) Transmitir instruções de caráter geral e obrigatório sobre matérias da sua competência a todos os serviços regionais, obtida a concordância do secretário regional;
+
+i) Promover as ações necessárias com vista à organização e atualização do cadastro e inventário dos bens da Região Autónoma da Madeira;
+
+j) Executar tudo o mais que lhe for expressamente cometido por diploma legal ou que decorra do normal desempenho das suas funções.
+
+3 - É delegada no diretor regional, que a poderá subdelegar, a competência para, em representação da Região Autónoma da Madeira, requerer, assinar e praticar todos os atos necessários à regularização e registo das aquisições de imóveis e arrendamentos efetuados pelo Governo Regional, em nome da Região Autónoma da Madeira, designadamente, em conservatórias, serviços de finanças e câmaras municipais.
+
+4 - Para efeitos do disposto nos números anteriores, poderão ser solicitados, quer a colaboração quer informações e elementos, aos serviços da administração direta e indireta da Região Autónoma da Madeira e demais entidades tuteladas pela Região Autónoma da Madeira.
+
+5 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências nos dirigentes de direção intermédia de 1.º grau e no pessoal de chefia.
+
+6 - O diretor regional é substituído, nas suas faltas ou impedimentos, por um titular de cargo de direção intermédia de 1.º grau a designar.
+
+###### Artigo 4.º — Tipo de organização interna
+
+A organização interna da DRPA obedece ao modelo de estrutura hierarquizada.
+
+###### Artigo 5.º — Quadro de cargos de direção
+
+Os lugares de direção superior de 1.º grau e de direção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 6.º — Receitas
+
+A DRPA dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento da Região Autónoma da Madeira.
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da DRPA as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+MAPA ANEXO
+
+Quadro de cargos dirigentes a que se refere o artigo 5.º da Orgânica aprovada pelo presente diploma
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/14800/0404904050.pdf))](https://files.diariodarepublica.pt/1s/2012/08/14800/0404904050.pdf)

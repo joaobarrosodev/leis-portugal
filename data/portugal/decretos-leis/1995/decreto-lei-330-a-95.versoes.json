@@ -1,0 +1,248 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:226646:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-168384148",
+ "dre_path": "/dr/detalhe/decreto-lei/330-a-1995-226646",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-12-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "168384255",
+    "168384256",
+    "168384257",
+    "168384258",
+    "168384259",
+    "168384260",
+    "168384261",
+    "168384262",
+    "168384263",
+    "168384265"
+   ]
+  },
+  {
+   "date": "1997-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:671934:por",
+     "title": "Decreto-Lei n.º 294/97",
+     "published": "1997-10-24",
+     "dre_path": "/dr/detalhe/decreto-lei/294-1997-671934"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "168384255",
+    "168384266",
+    "168384267",
+    "168384258",
+    "168384259",
+    "168384268",
+    "168384269",
+    "168384262",
+    "168384270",
+    "168384264",
+    "168384271"
+   ]
+  },
+  {
+   "date": "2003-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584819:por",
+     "title": "Decreto-Lei n.º 314-A/2002",
+     "published": "2002-12-26",
+     "dre_path": "/dr/detalhe/decreto-lei/314-a-2002-584819"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "168384255",
+    "168384266",
+    "168384267",
+    "168384258",
+    "168384272",
+    "168384268",
+    "168384269",
+    "168384262",
+    "168384270",
+    "168384264",
+    "168384271"
+   ]
+  }
+ ],
+ "fragments": {
+  "168384255": {
+   "fragment_id": "168384149",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 330-A/95\n\nde 16 de Dezembro\n\nÉ conhecido o objectivo do Governo de proceder à revisão do actual sistema de pagamento das taxas de portagem cobradas por utilização de auto-estradas concessionadas à BRISA. Tem este objectivo a dupla finalidade de, por um lado, obter uma maior justiça relativa na oneração dos percursos sujeitos a taxa e de, por outro, criar uma uniformidade de tratamento em situações julgadas razoavelmente semelhantes. Deste modo, depois de obtido o acordo da empresa concessionária, altera-se o conteúdo de algumas das bases do contrato de concessão anexas ao Decreto-Lei n.º 315/91, de 20 de Agosto, sendo claro que não está em causa o princípio de que as auto-estradas construídas para exploração em regime de concessão fazem jus ao pagamento de taxas pela sua utilização, como contrapartida necessária ao enquadramento empresarial da concessionária. Foi, aliás, para não perturbar o equilíbrio económico e financeiro da BRISA que houve que proceder ao estudo das consequências das medidas agora tomadas e atribuir à empresa um conjunto de compensações, que constituem as adequadas contrapartidas das receitas que vai deixar de cobrar a partir da entrada em vigor do presente diploma.\n\nCom o novo texto do contrato de concessão eliminam-se as taxas de portagem nos sublanços Porto-Ermesinde da A4 - Auto-Estrada Porto-Amarante e Porto-Maia da A3 - Auto-Estrada Porto-Valença, bem como em todo o traçado da A9 - CREL (Estádio Nacional-Alverca).\n\nCom a supressão das taxas de portagem nos dois primeiros casos, Porto-Ermesinde e Porto-Maia, uniformiza-se a prática de não haver cobrança de portagens nos primeiros troços de auto-estrada contíguos aos dois grandes centros urbanos do País: Lisboa e Porto. Com efeito, não existe pagamento nos troços Lisboa-Estádio Nacional, da Auto-Estrada da Costa do Estoril, Lisboa-Loures, da Auto-Estrada Lisboa-Torres Vedras, Almada-Fogueteiro, da Auto-Estrada do Sul, e Lisboa-Alverca, da Auto-Estrada do Norte, bem como o troço Porto-Carvalhos, também da Auto-Estrada do Norte. Com as supressões agora decididas, ficam, pois, as duas cidades com igualdade de tratamento nesta matéria.\n\nPor outro lado, a CREL (Estádio Nacional-Alverca) é, actualmente, a única via de grande capacidade que permite aliviar a pressão no centro urbano de Lisboa do tráfego que se desloca no eixo oeste-norte, sem necessidade de penetrar na cidade. Julga-se necessário, para maximizar os seus efeitos, anular as taxas de portagem relativas aos percursos efectuados na CREL. Também neste caso se dá igualdade de tratamento ao caso da circular exterior da zona do Porto, em que a utilização da via rápida IC 24 não implica pagamento de portagem. Contudo, no caso da CREL, o cumprimento deste objectivo imediato só é possível mantendo-se as actuais condições de operação de portagens, que passam, nomeadamente, pela obrigação de os utentes retirarem sempre o título de trânsito na portagem de entrada e de o apresentarem na portagem de saída, sem qualquer pagamento no percurso da CREL. Para os aderentes da via verde, que utilizem nas portagens as vias próprias, especificamente assinaladas, a situação será idêntica. Isto é: para todos os utilizadores da CREL, os percursos efectuados naquela circular serão objecto de uma taxa nula.\n\nUma vez que o mencionado sistema de controlo é o único meio eficaz para garantir o pagamento das taxas devidas, o não cumprimento das regras de controlo deverá ficar sujeito às sanções legalmente previstas para a falta de pagamento ou para a não apresentação de título de trânsito válido.\n\nConsiderando, por fim, dever ser mantido, de modo semelhante ao existente nos restantes lanços de concessão, um elevado nível de qualidade de serviço, a concessionária continuará a garantir, nos sublanços Porto-Ermesinde, Porto-Maia e na CREL, a sua conservação e exploração, nos termos do contrato de concessão.\n\nAssim:\n\nObtido o acordo referido no n.º 2 da base II anexa ao Decreto-Lei n.º 315/91, de 20 de Agosto, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "168384256": {
+   "fragment_id": "168384150",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs bases da concessão outorgada à BRISA - Auto-Estradas de Portugal, S. A., contidas no Decreto-Lei n.º 315/91, de 20 de Agosto, são alteradas, nos termos definidos no presente decreto-lei, tendo em vista a supressão das taxas de portagem nos sublanços Porto-Ermesinde da A4 - Auto-Estrada Porto-Amarante e Porto-Maia da A3 - Auto-Estrada Porto-Valença, bem como em todo o traçado da A9 - CREL (Estádio Nacional-Alverca)."
+  },
+  "168384257": {
+   "fragment_id": "168384151",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ suprimida a alínea h) do n.º 1 da base I anexa ao Decreto-Lei n.º 315/91, de 20 de Agosto, e são alteradas as redacções dos n.os 1, alíneas c) e d), e 2 também daquela base I, nos seguintes termos:\n\n1 - A concessão tem por objecto a construção, conservação e exploração, em regime de portagem, das seguintes auto-estradas:\n\nc) Auto-Estrada Porto-Valença, desde o nó da Maia até Valença, com a extensão de 98,2 km;\n\nd) Auto-Estrada Porto-Amarante, desde o nó de Ermesinde até Amarante, com a extensão de 48,3 km;\n\n2 - Integram também o objecto da concessão, para efeitos de conservação e exploração, as seguintes auto-estradas:\n\na) Construídas pelo Estado e ficando sujeitas ao regime de portagem, que reverterá para a concessionária:\n\nAuto-Estrada do Norte: lanço Alverca-Vila-Franca de Xira, com a extensão de 10,9 km;\n\nAuto-Estrada Lisboa-Malveira: lanço Loures-Malveira, com a extensão de 12 km, nos termos do disposto no anexo II ao Decreto-Lei n.º 315/91, de 20 de Agosto.\n\nb) Construídas pelo Estado e sem ficarem sujeitas a portagens:\n\nAuto-Estrada do Norte: lanço Carvalhos-Santo Ovídio, com a extensão de 3,6 km, e lanço Lisboa-Alverca, com a extensão de 13 km;\n\nAuto-Estrada do Sul: lanço entre o extremo sul do nó da via rápida para a Costa da Caparica e o nó do Fogueteiro, com 9 km de extensão;\n\nAuto-Estrada da Costa do Estoril: lanço Lisboa-Estádio Nacional, excluindo o Viaduto de Duarte Pacheco, com 8 km de extensão;\n\nc) Construídas pela concessionária e sem ficarem sujeitas ao pagamento de taxas de portagens:\n\nAuto-Estrada Porto-Valença: sublanço Porto-Maia, na extensão de 8,3 km;\n\nAuto-Estrada Porto-Amarante: entre o Porto e o nó de Ermesinde, com a extensão de 6,1 km;\n\nA9 - Auto-Estrada CREL, desde o Estádio Nacional (A5) até Alverca, com a extensão de 34,4 km."
+  },
+  "168384258": {
+   "fragment_id": "168384152",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ aditado à base I o n.º 8, com a seguinte redacção:\n\n8 - O valor das taxas de portagem aplicado na A7 - Auto-Estrada Famalicão-Guimarães, que respeitem a percursos que incluam a utilização do sublanço Porto-Maia, será deduzido do valor correspondente a este."
+  },
+  "168384259": {
+   "fragment_id": "168384153",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÉ aditado à base I o n.º 9, com a seguinte redacção:\n\n9 - Relativamente à supressão de portagem na A9 - Auto-Estrada CREL (Estádio Nacional-Alverca), desde o Estádio Nacional (A5) até Alverca, aplicar-se-ão os seguintes princípios:\n\na) Os utentes das auto-estradas (A1 e A8) que utilizem parcial ou totalmente a A9 - Auto-Estrada CREL (Estádio Nacional-Alverca) pagarão, tão-só, as taxas correspondentes aos percursos que efectuarem naquelas auto-estradas (A1 e A8).\n\nb) Sem prejuízo do disposto na alínea c) do n.º 2 da base I, os utentes da A-9 - Auto-Estrada CREL (Estádio Nacional-Alverca) deverão cumprir todas as regras de controlo de portagens, retirando sempre o título de trânsito na portagem de entrada e apresentando-o na portagem de saída;\n\nc) Os aderentes ao sistema via verde deverão utilizar as vias especificamente sinalizadas para esse efeito;\n\nd) O não cumprimento das regras de controlo de portagem, nomeadamente a não apresentação do título de trânsito na portagem de saída, será punida nos termos dos n.os 7 e seguintes da base XVIII anexa ao Decreto-Lei n.º 315/91, de 20 de Agosto."
+  },
+  "168384260": {
+   "fragment_id": "168384154",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO aumento de número de vias a que, nos termos das regras definidas nas alíneas a) e b) do n.º 1 da base XXIX anexa ao Decreto-Lei n.º 315/91, de 20 de Agosto, houver lugar, na A9 - Auto-Estrada CREL (Estádio Nacional-Alverca) e nos sublanços Águas Santas-Maia, da A3, Águas Santas-Ermesinde, da A4, e Lisboa-Alverca, da A1, será comparticipado pelo Estado a 100% e, se ocorrer alguma situação semelhante à prevista no n.º 3 da mesma base XXIX, o Estado comparticipará em igual percentagem na construção da nova auto-estrada."
+  },
+  "168384261": {
+   "fragment_id": "168384155",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA base XLIII passa a ter a seguinte redacção:\n\nO prazo de concessão termina em 31 de Dezembro do ano 2025."
+  },
+  "168384262": {
+   "fragment_id": "168384156",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCom vista à preservação do valor económico da concessão, fixam-se as seguintes medidas de carácter económico e financeiro:\n\na) A BRISA fica exonerada da obrigação de reembolso ao Estado do empréstimo, e respectivos juros, a que se refere o n.º 2 do artigo 3.º do Decreto-Lei n.º 315/91, de 20 de Agosto;\n\nb) O Estado perdoa à concessionária o pagamento das comissões, em dívida e já vencidas, relativas aos avales por ele prestados aos empréstimos do Banco Europeu de Investimento (BEI) à BRISA, identificados no anexo I ao presente diploma, que dele faz parte integrante, e fixa em 0% a taxa das comissões vincendas referentes aos mesmos empréstimos;\n\nc) Cessam para a BRISA todas as obrigações decorrentes dos contratos de empréstimos celebrados com o Estado, subsidiários de «contrato Estado-BEI», identificados no anexo I;\n\nd) Passa a ser encargo do Estado o serviço da dívida correspondente ao empréstimo do BEI «BRISA VI-B», identificado no anexo I, devendo as formalidades necessárias daí decorrentes ser fixadas pelos Ministérios das Finanças e do Equipamento Social."
+  },
+  "168384263": {
+   "fragment_id": "168384157",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presente decreto-lei produz efeitos à data da sua publicação."
+  },
+  "168384265": {
+   "fragment_id": "168384159",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n1 - São os seguintes os empréstimos a que se refere a alínea b) do artigo 7.º do presente decreto-lei:\n\nEmpréstimos com aval do Estado\n\n(ver documento original)\n\n2 - São os seguintes os empréstimos a que se refere a alínea c) do artigo 7.º do presente decreto-lei:\n\nEmpréstimos subsidiários\n\n(ver documento original)\n\n3 - O empréstimo do Banco Europeu de Investimento a que se refere a alínea d) do artigo 7.º do presente decreto-lei é o identificado no n.º 1 supra, sob a designação de BRISA VI-B, celebrado em 15 de Março de 1993, pelo montante de PTE 7000000000."
+  },
+  "168384266": {
+   "fragment_id": "168384150",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1997-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado).\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+  },
+  "168384267": {
+   "fragment_id": "168384151",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1997-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado).\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+  },
+  "168384268": {
+   "fragment_id": "168384154",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1997-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado).\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+  },
+  "168384269": {
+   "fragment_id": "168384155",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1997-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+   ],
+   "markdown": "###### Artigo 6.º\n\nA base XLIII passa a ter a seguinte redacção:\n\nO prazo de concessão termina em 31 de Dezembro do ano 2025.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+  },
+  "168384270": {
+   "fragment_id": "168384157",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1997-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+  },
+  "168384264": {
+   "fragment_id": "168384158",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 1995. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - Henrique de Oliveira Constantino.\n\nPromulgado em 16 de Dezembro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Dezembro de 1995.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "168384271": {
+   "fragment_id": "168384159",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "1997-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+   ],
+   "markdown": "## Anexo I\n\n(Revogado).\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 294/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), em vigor a partir de 1997-10-25"
+  },
+  "168384272": {
+   "fragment_id": "168384153",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2003-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 314-A/2002 - Diário da República n.º 298/2002, 1º Suplemento, Série I-A de 2002-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-a-2002-584819), em vigor a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\nÉ aditado à base I o n.º 9, com a seguinte redacção:\n\n9 - Relativamente à supressão de portagem na A9 - Auto-Estrada CREL (Estádio Nacional-Alverca), desde o Estádio Nacional (A5) até Alverca, aplicar-se-ão os seguintes princípios:\n\na) Os utentes das auto-estradas (A1 e A8) que utilizem parcial ou totalmente a A9 - Auto-Estrada CREL (Estádio Nacional-Alverca) pagarão, tão-só, as taxas correspondentes aos percursos que efectuarem naquelas auto-estradas (A1 e A8).\n\nb) Sem prejuízo do disposto na alínea c) do n.º 2 da base I, os utentes da A-9 - Auto-Estrada CREL (Estádio Nacional-Alverca) deverão cumprir todas as regras de controlo de portagens, retirando sempre o título de trânsito na portagem de entrada e apresentando-o na portagem de saída;\n\nc) Os aderentes ao sistema via verde deverão utilizar as vias especificamente sinalizadas para esse efeito;\n\nd) O não cumprimento das regras de controlo de portagem, nomeadamente a não apresentação do título de trânsito na portagem de saída, será punida nos termos dos n.os 7 e seguintes da base XVIII anexa ao Decreto-Lei n.º 315/91, de 20 de Agosto.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 314-A/2002 - Diário da República n.º 298/2002, 1º Suplemento, Série I-A de 2002-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-a-2002-584819), em vigor a partir de 2003-01-01"
+  }
+ }
+}

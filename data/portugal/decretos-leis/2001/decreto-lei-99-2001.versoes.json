@@ -1,0 +1,154 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:344966:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34481575",
+ "dre_path": "/dr/detalhe/decreto-lei/99-2001-344966",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-03-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52826475",
+    "52823175",
+    "52823275",
+    "52823375",
+    "52823475",
+    "52823575",
+    "52823675",
+    "52823775",
+    "52823875",
+    "52823975",
+    "52824075",
+    "52824175",
+    "52824275",
+    "52824375"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:505637:por",
+     "title": "Decreto-Lei n.º 175/2004",
+     "published": "2004-07-21",
+     "dre_path": "/dr/detalhe/decreto-lei/175-2004-505637",
+     "date": "2001-07-26"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "52826475": {
+   "fragment_id": "35101375",
+   "type": 15,
+   "heading": "Diploma — Decreto-Lei n.º 99/2001 de 28 de Março",
+   "in_force_from": "2001-07-26",
+   "changed_by": [],
+   "markdown": "As escolas superiores de enfermagem e de tecnologia da saúde são estabelecimentos de ensino politécnico dotados de personalidade jurídica e de autonomia administrativa, financeira, científica e pedagógica, detendo o estatuto jurídico de escolas politécnicas não integradas.\n\nNa sequência da Resolução do Conselho de Ministros n.º 140/98, de 4 de Dezembro, que preconiza a necessidade de um acentuado desenvolvimento dos recursos humanos no domínio da saúde, e já no quadro da recente aprovação pela Assembleia da República da Lei n.º 26/2000, de 23 de Agosto (organização e ordenamento do ensino superior), procede-se à transição daquelas escolas para a tutela do Ministério da Educação e à reorganização da rede, através da sua integração em estabelecimentos de ensino superior já existentes ou, no caso de Coimbra, de Lisboa e do Porto, em novos institutos politécnicos vocacionados para a área da saúde; nalgumas circunstâncias as escolas conservam o estatuto de escola não integrada, promovendo-se, nesses casos, o desenvolvimento de formas de cooperação ou associação com outros estabelecimentos de ensino superior, tendo em vista, designadamente, a qualificação do pessoal docente, a utilização de recursos em comum e a acção social escolar.\n\nNum contexto em que o sector da saúde foi definido como área de intervenção prioritária no Plano Nacional de Desenvolvimento Económico e Social de 2000-2006, procede-se igualmente à criação de condições para o desenvolvimento de uma parceria efectiva entre os Ministérios da Educação e da Saúde, de molde a regular e articular o contributo e a responsabilidade de cada um dos ministérios para a formação no domínio da enfermagem e das tecnologias da saúde.\n\nA parceria que agora vem consignada nos domínios do planeamento estratégico do ensino, da definição das estruturas curriculares e dos grandes princípios orientadores da cooperação e co-responsabilização, e ainda a definição do papel específico do Ministério da Saúde neste domínio, é garante da dignificação do ensino ministrado nas escolas e do exercício das correspondentes profissões.\n\nO presente diploma reveste-se, assim, de importância fundamental no desenvolvimento e qualificação dos recursos humanos da saúde, contribuindo decisivamente para a melhoria dos padrões de qualidade do ensino e do correspondente exercício profissional.\n\nFoi ouvido o Conselho Coordenador dos Institutos Superiores Politécnicos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nConsiderando o disposto na Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro, alterada pela Lei n.º 115/97, de 19 de Setembro), na Lei n.º 26/2000, de 23 de Agosto (organização e ordenamento do ensino superior), e na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico (Lei n.º 54/90, de 5 de Setembro):\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "52823175": {
+   "fragment_id": "36235775",
+   "type": 11,
+   "heading": "Artigo 1.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Tutela\n\nAs escolas superiores politécnicas seguidamente enunciadas passam para a tutela exclusiva do Ministério da Educação:\n\na) Escola Superior de Enfermagem de Beja;\n\nb) Escola Superior de Enfermagem de Calouste Gulbenkian;\n\nc) Escola Superior de Enfermagem de Bragança;\n\nd) Escola Superior de Enfermagem do Dr. Lopes Dias;\n\ne) Escola Superior de Enfermagem do Dr. Ângelo da Fonseca;\n\nf) Escola Superior de Enfermagem de Bissaya Barreto;\n\ng) Escola Superior de Tecnologia da Saúde de Coimbra;\n\nh) Escola Superior de Enfermagem de São João de Deus;\n\ni) Escola Superior de Enfermagem de Faro;\n\nj) Escola Superior de Enfermagem da Guarda;\n\nl) Escola Superior de Enfermagem de Leiria;\n\nm) Escola Superior de Enfermagem de Artur Ravara;\n\nn) Escola Superior de Enfermagem de Francisco Gentil;\n\no) Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa;\n\np) Escola Superior de Enfermagem de Maria Fernanda Resende;\n\nq) Escola Superior de Tecnologia da Saúde de Lisboa;\n\nr) Escola Superior de Enfermagem de Portalegre;\n\ns) Escola Superior de Enfermagem Cidade do Porto;\n\nt) Escola Superior de Enfermagem de D. Ana Guedes;\n\nu) Escola Superior de Enfermagem de São João;\n\nv) Escola Superior de Tecnologia da Saúde do Porto;\n\nx) Escola Superior de Enfermagem de Santarém;\n\nz) Escola Superior de Enfermagem de Viana do Castelo;\n\naa) Escola Superior de Enfermagem de Vila Real;\n\nab) Escola Superior de Enfermagem de Viseu;\n\nac) Escola Superior de Enfermagem de Angra do Heroísmo;\n\nad) Escola Superior de Enfermagem de Ponta Delgada;\n\nae) Escola Superior de Enfermagem da Madeira."
+  },
+  "52823275": {
+   "fragment_id": "36235875",
+   "type": 11,
+   "heading": "Artigo 2.º — Institutos politécnicos da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Institutos politécnicos da saúde\n\n1 - São criados, sob a tutela exclusiva do Ministério da Educação:\n\na) O Instituto Politécnico da Saúde de Coimbra;\n\nb) O Instituto Politécnico da Saúde de Lisboa;\n\nc) O Instituto Politécnico da Saúde do Porto.\n\n2 - São integradas:\n\na) No Instituto Politécnico da Saúde de Coimbra:\n\nA Escola Superior de Enfermagem do Dr. Ângelo da Fonseca;\n\nA Escola Superior de Enfermagem de Bissaya Barreto;\n\nA Escola Superior de Tecnologia da Saúde de Coimbra;\n\nb) No Instituto Politécnico da Saúde de Lisboa:\n\nA Escola Superior de Enfermagem de Artur Ravara;\n\nA Escola Superior de Enfermagem de Francisco Gentil;\n\nA Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa;\n\nA Escola Superior de Enfermagem de Maria Fernanda Resende;\n\nA Escola Superior de Tecnologia da Saúde de Lisboa;\n\nc) No Instituto Politécnico da Saúde do Porto:\n\nA Escola Superior de Enfermagem Cidade do Porto;\n\nA Escola Superior de Enfermagem de D. Ana Guedes;\n\nA Escola Superior de Enfermagem de São João;\n\nA Escola Superior de Tecnologia da Saúde do Porto."
+  },
+  "52823375": {
+   "fragment_id": "36235975",
+   "type": 11,
+   "heading": "Artigo 3.º — Integração das escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Integração das escolas\n\nSão integradas:\n\na) No Instituto Politécnico de Beja a Escola Superior de Enfermagem de Beja;\n\nb) No Instituto Politécnico de Bragança a Escola Superior de Enfermagem de Bragança;\n\nc) No Instituto Politécnico de Castelo Branco a Escola Superior de Enfermagem do Dr. Lopes Dias;\n\nd) Na Universidade do Algarve a Escola Superior de Enfermagem de Faro;\n\ne) No Instituto Politécnico da Guarda a Escola Superior de Enfermagem da Guarda;\n\nf) No Instituto Politécnico de Leiria a Escola Superior de Enfermagem de Leiria;\n\ng) No Instituto Politécnico de Portalegre a Escola Superior de Enfermagem de Portalegre;\n\nh) No Instituto Politécnico de Santarém a Escola Superior de Enfermagem de Santarém;\n\ni) No Instituto Politécnico de Viana do Castelo a Escola Superior de Enfermagem de Viana do Castelo;\n\nj) No Instituto Politécnico de Viseu a Escola Superior de Enfermagem de Viseu."
+  },
+  "52823475": {
+   "fragment_id": "36236075",
+   "type": 11,
+   "heading": "Artigo 4.º — Escolas não integradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Escolas não integradas\n\nMantêm o estatuto de escola politécnica não integrada as seguintes escolas:\n\na) Escola Superior de Enfermagem de Calouste Gulbenkian;\n\nb) Escola Superior de Enfermagem de São João de Deus;\n\nc) Escola Superior de Enfermagem de Vila Real;\n\nd) Escola Superior de Enfermagem de Angra do Heroísmo;\n\ne) Escola Superior de Enfermagem de Ponta Delgada;\n\nf) Escola Superior de Enfermagem da Madeira."
+  },
+  "52823575": {
+   "fragment_id": "36236175",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime de instalação\n\n1 - Os institutos politécnicos a que se refere o artigo 2.º entram em funcionamento em regime de instalação, sem prejuízo da competência dos órgãos próprios das escolas neles integradas.\n\n2 - Até à conclusão do regime de integração previsto no artigo 6.º, as escolas integradas nos institutos politécnicos a que se refere o artigo 2.º conservam o regime de gestão em que se encontrem em 31 de Dezembro de 2000.\n\n3 - O período de instalação dos institutos politécnicos a que se refere o artigo 2.º tem a duração máxima de dois anos contados a partir da data de tomada de posse do primeiro presidente."
+  },
+  "52823675": {
+   "fragment_id": "36236275",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime de integração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime de integração\n\n1 - Após a entrada em vigor dos estatutos dos institutos politécnicos a que se refere o n.º 1 do artigo 2.º, as escolas a que se refere o n.º 2 do mesmo artigo que se encontrem em regime estatutário procedem à consequente adequação dos seus estatutos.\n\n2 - Os institutos politécnicos a que se refere o artigo 3.º procedem à adequação dos seus estatutos, tendo, nomeadamente, em vista a inclusão dos representantes das escolas integradas nos órgãos próprios dos institutos.\n\n3 - A Universidade do Algarve procede à adequação dos seus estatutos, tendo, nomeadamente, em vista a inclusão dos representantes da Escola Superior de Enfermagem de Faro nos seus órgãos próprios.\n\n4 - As escolas a que se refere o artigo 3.º que se encontrem em regime estatutário procedem à adequação dos seus estatutos aos estatutos do estabelecimento em que se integraram."
+  },
+  "52823775": {
+   "fragment_id": "36236375",
+   "type": 11,
+   "heading": "Artigo 7.º — Regimes de cooperação ou associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regimes de cooperação ou associação\n\nNo quadro da sua inserção territorial, as escolas não integradas a que se refere o artigo 4.º podem estabelecer regimes de cooperação ou associação com universidades ou institutos politécnicos, tendo em vista, designadamente, a qualificação do seu pessoal docente, a utilização de recursos em comum e a acção social escolar."
+  },
+  "52823875": {
+   "fragment_id": "36236475",
+   "type": 11,
+   "heading": "Artigo 8.º — Conversão de escolas superiores de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conversão de escolas superiores de enfermagem\n\nSempre que no quadro do desenvolvimento da rede de formação na área da saúde se mostre conveniente o alargamento das valências a ministrar pelas escolas superiores de enfermagem a que se refere o artigo 1.º, as mesmas podem ser convertidas em escolas superiores de saúde por portaria do Ministro da Educação, sob proposta da escola e do instituto em que se integrem, se for caso disso, e ouvido o Ministério da Saúde."
+  },
+  "52823975": {
+   "fragment_id": "36236575",
+   "type": 11,
+   "heading": "Artigo 9.º — Parceria entre os Ministérios da Educação e da Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Parceria entre os Ministérios da Educação e da Saúde\n\nNo âmbito do ensino da enfermagem e das tecnologias da saúde, os Ministérios da Educação e da Saúde articulam-se, tendo em vista, designadamente, os seguintes aspectos:\n\na) O planeamento estratégico da formação;\n\nb) A definição da rede de estabelecimentos de ensino, nomeadamente nos aspectos da inserção geográfica e do número de escolas e das formações a assegurar em termos de área e de número de alunos;\n\nc) A fixação do número de vagas a abrir anualmente em cada estabelecimento;\n\nd) A definição e alteração das estruturas curriculares dos cursos, quer de formação inicial, quer de formação especializada;\n\ne) A criação, suspensão e extinção de cursos;\n\nf) A definição dos princípios orientadores da cooperação e co-responsabilização entre os estabelecimentos de ensino e os serviços prestadores de cuidados de saúde, incluindo um sistema de acreditação periódica destes e dos seus recursos humanos, tendo em vista uma formação de qualidade;\n\ng) O acompanhamento das avaliações e auditorias dos estabelecimentos e cursos."
+  },
+  "52824075": {
+   "fragment_id": "36236675",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência do Ministério da Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência do Ministério da Saúde\n\nNo quadro do ensino da enfermagem e das tecnologias da saúde, compete ao Ministério da Saúde:\n\na) Determinar as necessidades de formação;\n\nb) Definir as profissões do domínio da saúde e os respectivos perfis profissionais;\n\nc) Assegurar, através dos serviços prestadores de cuidados de saúde integrantes do Serviço Nacional de Saúde, as condições de aprendizagem clínica para os cursos e garantir os respectivos padrões de qualidade."
+  },
+  "52824175": {
+   "fragment_id": "36236775",
+   "type": 11,
+   "heading": "Artigo 11.º — Recursos humanos e materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Recursos humanos e materiais\n\n1 - As escolas conservam todos os direitos e obrigações de sua titularidade, bem como os recursos humanos e materiais que lhes estão afectos, sem prejuízo do disposto nos números seguintes.\n\n2 - O património do Estado que se encontre afecto ao desempenho das atribuições e competências das escolas passa, no caso daquelas a que se referem os artigos 2.º e 3.º, a estar afecto aos institutos politécnicos e à universidade respectivos e, no caso daquelas a que se refere o artigo 4.º, às mesmas.\n\n3 - O património dos estabelecimentos e serviços dependentes do Ministério da Saúde que se encontre afecto ao desempenho das atribuições e competências das escolas é afectado nos termos do número anterior enquanto for utilizado para o desempenho dessas mesmas atribuições e competências e para os usos actuais, suportando as instituições a que fique afecto os encargos com a respectiva utilização, conservação e reparação.\n\n4 - O património das escolas a que se referem os artigos 2.º e 3.º passa a integrar o património dos institutos politécnicos e da universidade em que são integradas.\n\n5 - A identificação do património a que se referem os n.os 2 e 3 é feita através de despacho conjunto dos Ministros das Finanças, da Educação e da Saúde, a publicar na 2.ª série do Diário da República até 31 de Dezembro de 2000."
+  },
+  "52824275": {
+   "fragment_id": "36236875",
+   "type": 11,
+   "heading": "Artigo 12.º — Outros diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Outros diplomas\n\nAs matérias a que se referem os artigos 8.º e 9.º são objecto de diplomas legais próprios."
+  },
+  "52824375": {
+   "fragment_id": "36236975",
+   "type": 11,
+   "heading": "Artigo 13.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir de 1 de Janeiro de 2001."
+  }
+ }
+}

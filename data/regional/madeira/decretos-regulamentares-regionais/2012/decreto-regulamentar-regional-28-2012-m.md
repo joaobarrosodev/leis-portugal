@@ -1,0 +1,209 @@
+---
+schema_version: '1.0'
+id: pt:dre:191540:por
+title: Decreto Regulamentar Regional n.º 28/2012/M
+short_title: null
+summary: Define a entidade gestora da mobilidade especial na administração regional autónoma da Madeira, as atribuições e
+  competências nessa área de atividade e os deveres de colaboração dos demais serviços
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 28/2012/M
+official_date: null
+publication_date: '2012-10-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/2012, Série I de 2012-10-30
+  number: '210'
+  series: I
+  supplement: null
+  pages: 6261 - 6262
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/10/21000/0626106262.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/28/2012/10/30/m/dre/pt/html
+  oj: null
+  dre: '191540'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/28-2012-191540
+  internal: pt:dre:191540:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2012-191540
+  metadata_url: https://data.dre.pt/eli/decregulreg/28/2012/10/30/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2012-191540
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-08-03T00:00:00Z'
+integrity:
+  source_sha256: 5e278a8573a04531b759aeb10973de5249e3c90b30ebef6aa5658b2ac55fe50f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2012/DRE-2012-28-191540.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direcção Regional da Administração Pública e Local
+- Madeira.região Autónoma
+- Mobilidade de Pessoal
+- Funcionário Público
+- Administração Regional
+- Gestão de Recursos Humanos
+relationships:
+- type: amended_by
+  target: pt:dre:115886134:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/27/2012/09/03/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/27/2012/09/03/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/3/2010/11/10/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/3/2010/11/10/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/11/2008/02/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/11/2008/02/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 28/2012/M
+
+Define a entidade gestora da mobilidade especial na administração regional autónoma da Madeira, as atribuições e competências nessa área de atividade e os deveres de colaboração dos demais serviços.
+
+Em consequência da publicação do [Decreto Legislativo Regional n.º 27/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-174828), de 3 de setembro, foi aplicado à administração regional autónoma da Madeira o regime de mobilidade especial entre serviços dos trabalhadores da Administração Pública, constante da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de dezembro, alterada pelas Leis n.os [11/2008](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), de 20 de fevereiro, [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro. No referido diploma determina-se que seja definida, mediante decreto regulamentar regional, a entidade regional gestora da mobilidade especial e que tal se faça de entre os organismos já existentes, procurando, pois, o aproveitamento mais racional possível de recursos e estruturas de forma a abarcar esta área de atividade.
+
+Assim, tendo em conta a missão e atribuições dos vários serviços que compõem a administração regional autónoma da Madeira, é definido como entidade regional gestora da mobilidade especial aquele serviço que, organicamente, tem a seu cargo, de forma transversal, o setor da Administração Pública, e definem-se também os deveres de colaboração de outras entidades.
+
+Nestes termos:
+
+O Governo Regional da Madeira, nos termos da alínea d) do n.º 1 do artigo 227.º e n.º 6 do artigo 231.º, ambos da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e n.º 1 do artigo 70.º, ambos do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e pela [Lei n.º 12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 27/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-174828), de 3 de setembro, decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma define a entidade regional gestora da mobilidade especial na administração regional autónoma da Madeira, as respetivas atribuições e competências nesta área de atividade, bem como os deveres de colaboração que incumbem aos demais serviços.
+
+###### Artigo 2.º — Entidade regional gestora da mobilidade
+
+A Direção Regional da Administração Pública e Local, serviço a que se refere o [Decreto Regulamentar Regional n.º 3/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2010-309036), de 10 de novembro, é a entidade regional gestora da mobilidade especial.
+
+###### Artigo 3.º — Atribuições e competências
+
+1 - A entidade regional gestora da mobilidade especial tem como atribuições, neste âmbito, acompanhar e dinamizar o processo relativo aos trabalhadores colocados em mobilidade especial, promovendo o reinício de funções nas fases mais precoces desse processo, bem como o racional aproveitamento dos recursos humanos da administração regional.
+
+2 - Para o exercício das suas atribuições, compete à entidade regional gestora da mobilidade especial, designadamente:
+
+a) Promover ou acompanhar estudos de avaliação das necessidades de recursos humanos da administração regional autónoma da Madeira;
+
+b) Informar os trabalhadores colocados em mobilidade especial quanto aos procedimentos concursais abertos e promover oficiosamente a sua candidatura quando se verifiquem as condições previstas no n.º 5 do artigo 29.º da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de dezembro, alterada pelas Leis n.os [11/2008](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), de 20 de fevereiro, [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, independentemente do dever que sobre o próprio recai;
+
+c) Promover a requalificação do pessoal em situação de mobilidade especial, nos termos previstos no artigo 24.º da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de dezembro, alterada pelas Leis n.os [11/2008](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), de 20 de fevereiro, [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro;
+
+d) Praticar, quando necessário, nos termos previstos na lei mencionada nas alíneas anteriores, os atos relativos ao reinício de funções e à cessação de funções exercidas a título transitório, bem como os de autorização de passagem antecipada à fase posterior do processo;
+
+e) Informar os departamentos governamentais de origem dos trabalhadores colocados em mobilidade especial da prática dos atos referidos na alínea anterior.
+
+###### Artigo 4.º — Sistema de informação
+
+1 - Nos termos do n.º 3 do artigo 5.º do [Decreto Legislativo Regional n.º 27/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-174828), de 3 de setembro, cabe à Direção Regional de Informática, abreviadamente designada por DRI, assegurar, no âmbito regional, o sistema de informação necessário à gestão do pessoal em situação de mobilidade especial.
+
+2 - Em cumprimento do disposto no número anterior, compete à DRI, designadamente:
+
+a) Assegurar os meios tecnológicos que, em condições de segurança, permitam, informaticamente, a inserção dos dados relativos ao pessoal colocado em situação de mobilidade especial, com referência a elementos de identificação pessoal e profissional, nomeadamente carreira, categoria, remuneração, local de trabalho e serviço de origem, contactos, a respetiva fase do processo de mobilidade em que o trabalhador se encontra, vicissitudes relevantes na pendência do processo e situação de reinício de funções;
+
+b) Providenciar os meios informáticos respeitantes ao processamento das remunerações inerentes a cada uma das fases do processo de mobilidade especial;
+
+c) Garantir a acessibilidade direta à informação sobre as situações do pessoal em mobilidade especial, à entidade gestora da mesma e, relativamente aos dados respeitantes aos respetivos trabalhadores, aos seus serviços de origem;
+
+d) Assegurar o suporte tecnológico necessário à gestão do pessoal em situação de mobilidade especial, bem como as comunicações entre os serviços, os departamentos governamentais e a entidade gestora da mobilidade.
+
+3 - A informação individual mencionada na alínea a) do número anterior é restrita à entidade gestora da mobilidade especial e aos serviços de origem, neste caso, relativamente aos seus trabalhadores, sem prejuízo do disposto no número seguinte.
+
+4 - À Secretaria Regional do Plano e Finanças, na qualidade de Departamento Regional responsável pela gestão racional de recursos públicos e de entidade gestora do sistema de informação e base de dados dos trabalhadores das entidades públicas regionais (SIPEPR), é garantido o acesso direto a toda a informação contida no sistema de informação a que se refere o n.º 1 deste artigo.
+
+5 - Constam de protocolo a celebrar entre os membros do Governo Regional responsáveis pelas finanças e pela Administração Pública as condições que se mostrem necessárias ao funcionamento do sistema de informação a que se refere o presente artigo e à sua articulação com a entidade regional gestora da mobilidade especial.
+
+###### Artigo 5.º — Deveres de colaboração
+
+1 - Além dos deveres previstos nos n.os 1 e 2 do artigo 5.º do [Decreto Legislativo Regional n.º 27/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-174828), de 3 de setembro, cabe ainda aos departamentos do Governo Regional de origem dos trabalhadores colocados em mobilidade especial:
+
+a) Proceder ao pagamento das remunerações;
+
+b) Praticar os demais atos de administração relativos àquele pessoal.
+
+2 - O referido no número anterior não prejudica a afetação do pessoal em situação de mobilidade especial ao quadro interdepartamental regional, nos termos estabelecidos pelo artigo 3.º do [Decreto Legislativo Regional n.º 27/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-174828), de 3 de setembro.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 11 de outubro de 2012.
+
+**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+
+**Assinado em 18 de outubro de 2012.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

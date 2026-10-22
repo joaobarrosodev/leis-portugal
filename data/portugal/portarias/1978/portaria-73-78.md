@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:448545:por
+title: Portaria n.º 73/78
+short_title: null
+summary: Estabelece normas sobre a regulamentação de microfilmagem na Setenave
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Indústria e Tecnologia
+proposing_entity: null
+official_number: 73/78
+official_date: null
+publication_date: '1978-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1978, Série I de 1978-02-04
+  number: '30'
+  series: I
+  supplement: null
+  pages: 299 - 300
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/02/03000/02990300.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '448545'
+  dre_path: /dr/detalhe/portaria/73-1978-448545
+  internal: pt:dre:448545:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-1978-448545
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-1978-448545
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-02-04T00:00:00Z'
+integrity:
+  source_sha256: 79858b6b1c19fef4b02bba4036912fecd086c95c66ff59b0ee5cca44467570c8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-73-448545.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 73/78
+
+de 4 de Fevereiro
+
+Considerando que o [Decreto-Lei n.º 29/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1972-400002), de 24 de Janeiro, veio permitir a microfilmagem dos documentos em arquivo nas empresas públicas e subsequente inutilização de originais;
+
+Considerando a proposta do conselho de administração da empresa pública Setenave - Estaleiros Navais de Setúbal, elaborada nos termos do n.º 1 do artigo 2.º daquele decreto-lei:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Tecnologia, o seguinte:
+
+###### Artigo 1.º — (Prazos de conservação de documentos)
+
+1 - A empresa pública Setenave conservará os seus documentos em arquivo durante os prazos mínimos estabelecidos na legislação comercial.
+
+2 - O conselho de administração da Setenave determinará, em regulamentação interna, a duração mínima de conservação dos documentos não contemplados no número anterior.
+
+###### Artigo 2.º — (Microfilmagem de documentos)
+
+1 - A empresa pública Setenave é autorizada a proceder à microfilmagem dos documentos que devem manter-se em arquivo e à consequente inutilização dos originais.
+
+2 - As diversas espécies documentais serão microfilmadas em duas bobinas, que deverão ficar guardadas em locais diferentes.
+
+###### Artigo 3.º — (Documentos que não podem inutilizar-se)
+
+Os documentos cuja conservação se imponha pelo seu interesse histórico, ou outro motivo atendível, não serão inutilizados, devendo proceder-se à transferência dos mesmos para arquivos adequados.
+
+###### Artigo 4.º — (Microfilmes)
+
+1 - A microfilmagem deverá ser efectuada por sucessão ininterrupta de imagem.
+
+2 - Os filmes não poderão sofrer cortes ou emendas e deverão reproduzir termos de abertura e de encerramento, mencionando o primeiro o início do filme e o segundo a declaração de que as imagens nele contidas são reproduções totais e exactas dos originais.
+
+3 - Nos casos em que, por razões justificadas, houve necesidade de qualquer ligação intermédia de filmes, deverá proceder-se a autenticações com selo branco ou de perfuração especial e a assinatura do responsável.
+
+###### Artigo 5.º — (Pessoal responsável pela microfilmagem)
+
+Será responsável pela regularidade das operações de microfilmagem, bem como pela segurança da inutilização dos documentos de modo a impedir a sua leitura ou utilização, o gestor do serviço onde funcionar o respectivo centro.
+
+###### Artigo 6.º — (Registo de filmes conservados)
+
+Será elaborado um livro de registo de filmes conservados, o qual possuirá termos de abertura e de encerramento, sendo todas as folhas rubricadas pelo gestor imediatamente superior ao mencionado no artigo 5.º
+
+###### Artigo 7.º — (Força probatória das fotocópias)
+
+As fotocópias obtidas a partir da microfilmagem têm a força probatória dos originais desde que as respectivas ampliações sejam autenticadas com a assinatura do responsável pelo serviço, ou seu substituto, e com o selo branco.
+
+###### Artigo 8.º — (Inutilização de documentos)
+
+A inutilização dos documentos será feita por modo a impossibilitar a sua reconstituição, lavrando-se um auto de destruição de documentos a anexar à declaração referida no n.º 2 do artigo 4.º
+
+###### Artigo 9.º — (Resolução de dúvidas)
+
+As dúvidas surgidas na aplicação da presente portaria, inclusive as que respeitem à manutenção em arquivo de documentos com interesse técnico ou histórico, bem como à definição da natureza deste interesse, serão submetidas a despacho do Ministro da Tutela.
+
+Ministério da Indústria e Tecnologia, 24 de Janeiro de 1978. - Pelo Ministro da Indústria e Tecnologia, Fernando Santos Martins, Secretário de Estado da Indústria Ligeira.

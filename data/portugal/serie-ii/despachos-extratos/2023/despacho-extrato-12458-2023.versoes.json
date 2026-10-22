@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:225262885:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2023-1180263375",
+ "dre_path": "/dr/detalhe/despacho-extrato/12458-2023-225262885",
+ "source_lastmod": "2026-10-19",
+ "versions": [
+  {
+   "date": "2023-12-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1180265775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1180265775": {
+   "fragment_id": "1180263475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do disposto no n.º 2 do artigo 61.º da Lei n.º 5/2011, de 2 de março, com a redação dada pelo Decreto-Lei n.º 55/2021, de 29 de junho - Lei das Ordens Honoríficas Portuguesas, autorizo a entidade abaixo indicada a aceitar a seguinte condecoração.\n\nColar da Ordem de Timor-Leste, da República Democrática de Timor-Leste\n\nDr. Celso Manuel Gomes Ferreira."
+  }
+ }
+}

@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:286512:por
+title: Decreto-Lei n.º 366/77
+short_title: null
+summary: Estabelece o regime de concessão e exploração das escolas de condução e integra os industriais regressados das ex-colónias
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Secretaria de Estado dos Transportes e Comunicações
+proposing_entity: null
+official_number: 366/77
+official_date: null
+publication_date: '1977-09-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 203/1977, Série I de 1977-09-02
+  number: '203'
+  series: I
+  supplement: null
+  pages: 2132 - 2134
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20300/21322134.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '286512'
+  dre_path: /dr/detalhe/decreto-lei/366-1977-286512
+  internal: pt:dre:286512:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1977-286512
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1977-286512
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-09-13T00:00:00Z'
+integrity:
+  source_sha256: bc51d01878f2e88a1c0939a973b26627a0410c94fa2ab15f2d650ded69f72cf8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-366-286512.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:375664:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 366/77
+
+de 2 de Setembro
+
+A publicação do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, veio definir em novos moldes o regime jurídico do ensino de condução automóvel no sentido da sua dignificação e aperfeiçoamento. Ali se consagrou o princípio da concessão de alvarás para novas escolas de condução, mediante concurso público, em que serão admitidos, em princípio, apenas os profissionais instrutores de condução, estando prevista a admissão de outros indivíduos apenas para o caso de um primeiro concurso ficar deserto.
+
+De harmonia com o disposto no artigo 4.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, a Direcção-Geral de Viação procedeu já a um levantamento nacional das necessidades públicas, a nível de concelho, no sector do ensino de condução automóvel, por forma a satisfazer os interesses legítimos da população e a estabelecer com o possível rigor o equilíbrio entre a oferta e a procura.
+
+Há portugueses regressados das ex-colónias que aí eram titulares de alvarás de escolas de condução ou titulares de licenças de instrutor habilitados a ministrar o ensino por conta própria que pretendem continuar a sua actividade no sector do ensino da condução automóvel. O presente diploma visa a criação de dispositivo legal que permita a integração social desses cidadãos através da distribuição, mediante concurso, de alvarás para montagem de escolas de condução.
+
+Paralelamente, introduzem-se outras disposições cuja publicação se considera urgente, quer porque regulam situações omissas na legislação em vigor, quer porque introduzem correcções julgadas oportunas face à experiência já colhida.
+
+Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1. O Ministro dos Transportes e Comunicações fica autorizado a fixar por despacho um contingente de escolas de condução, a atribuir mediante concurso público, a que serão apenas admitidos os cidadãos portugueses regressados das ex-colónias e que à data da sua independência aí eram titulares de alvarás de escolas de condução, sócios de entidades titulares de alvarás de escolas de condução ou instrutores legalmente habilitados a ministrar o ensino por conta própria.
+
+2. Para efeitos do número anterior, serão apenas considerados os indivíduos regressados das ex-colónias depois de 25 de Abril de 1974.
+
+3. Não poderão concorrer os indivíduos que à data da abertura do concurso sejam proprietários, comproprietários ou sócios de entidades proprietárias de escolas de condução em Portugal.
+
+###### Art. 2.º Os indivíduos referidos no n.º 1 do artigo anterior apenas poderão beneficiar, singular ou colectivamente, de um alvará, independentemente do número de alvarás de que eram titulares.
+
+###### Art. 3.º - 1. A prova dos requisitos a que se refere o n.º 1 do artigo 1.º será feita pela apresentação do respectivo alvará ou licença e, no caso de entidades colectivas, do pacto social e alterações subsequentes.
+
+2. A falta de documentação referida no número anterior poderá ser suprida mediante requerimento fundamentado, acompanhado de declaração abonada por dois industriais que se encontrem nas condições a que se refere o artigo 1.º do presente diploma e que tenham exercido a sua actividade na ex-colónia em que vivia o requerente.
+
+###### Art. 4.º Às vagas do contingente que não forem preenchidas após o respectivo concurso aberto nos termos do n.º 1 do artigo 1.º será aplicado o disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio.
+
+###### Art. 5.º - 1. Fica a Direcção-Geral de Viação autorizada a abrir os concursos para a concessão de alvarás de escolas de condução a que se referem o n.º 2 do artigo 1.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, e o presente diploma, mediante avisos a publicar no Diário da República.
+
+2. Os concorrentes deverão satisfazer as exigências mínimas fixadas pela Direcção-Geral de Viação e constantes dos referidos avisos e dos respectivos programas de concurso.
+
+###### Art. 6.º - 1 As entidades singulares ou colectivas que venham a obter a concessão de alvará nos termos do artigo 1.º do presente diploma ou do n.º 2 do artigo 1.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, apenas poderão requerer a admissão a novo concurso cinco anos após a data da concessão do respectivo alvará.
+
+2. O disposto no número anterior é aplicável a qualquer dos sócios da entidade colectiva que pretenda obter novo alvará, quer a título individual, quer integrado em outra sociedade.
+
+###### Art. 7.º - 1. Serão cancelados quaisquer alvarás concedidos com fundamento em falsas declarações ou em pressupostos afectados por erro.
+
+2. Os infractores serão punidos com multa de 10000$00 a 50000$00.
+
+3. Serão igualmente punidos nos termos dos números anteriores os industriais a que se refere o n.º 2 do artigo 3.º que tenham prestado falsas declarações em qualquer processo de concurso.
+
+###### Art. 8.º As entidades proprietárias de escolas de condução montadas ao abrigo do disposto no presente diploma ficam obrigadas ao cumprimento das exigências que vierem a ser fixadas na regulamentação do disposto no [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio.
+
+###### Art. 9.º Às infracções previstas no presente diploma e no [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, e respectivos regulamentos é aplicável o disposto no Código da Estrada, relativamente à cobrança de multas e respectivos efeitos, bem como o disposto no artigo 5.º do [Decreto Regulamentar n.º 40/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1977-253395), de 16 de Junho.
+
+###### Art. 10.º - 1. A Direcção-Geral de Viação fiscalizará o ensino de condução automóvel, bem como a organização e o funcionamento das escolas de condução.
+
+2. O pessoal dirigente da Direcção-Geral de Viação e ainda o que desempenhe funções de chefia, de inspecção ou de fiscalização, quando se encontrar no exercício das suas funções, é equiparado aos agentes da autoridade ou força pública.
+
+###### Art. 11.º - 1. Salvo o disposto nos números seguintes, as escolas de condução só poderão ministrar o ensino na área do respectivo concelho.
+
+2. Por despacho do director-geral de Viação serão definidas as condições em que as escolas de condução poderão ministrar o ensino aos candidatos a exame quando o local de exame se situe fora da área a que se refere o número anterior.
+
+3. Por despacho do Ministro dos Transportes e Comunicações e sob proposta da Direcção-Geral de Viação, ouvidas a Associação Nacional dos Industriais do Ensino de Condução Automóvel e o Sindicato respectivo, poderá ser definida uma área de actuação para as escolas existentes ou a montar superior à do concelho, sempre que este não reúna condições mínimas para a instalação, funcionamento e exploração de uma escola de condução.
+
+4. Cessando os pressupostos de autorização prevista no número anterior, deverá a Direcção-Geral de Viação promover a aplicação do disposto no n.º 1 do presente artigo.
+
+5. A infracção ao disposto nos n.os 1 e 2 é punida com multa de 5000$00 a 20000$00, aplicável ao instrutor que ministrar o ensino e ao director e proprietário da escola.
+
+###### Art. 12.º - 1. A transmissão entre vivos das escolas de condução efectuar-se-á por escritura pública depois de obtida a autorização da Direcção-Geral de Viação, lavrando-se o correspondente averbamento ao alvará com base na certidão da escritura que para o efeito será remetida àquela Direcção-Geral.
+
+2. Os profissionais instrutores que prestem serviço na escola têm direito de preferência na transmissão referida no número anterior, pela ordem seguinte:
+
+a) A totalidade ou maioria, desde que visem a formação de uma sociedade, designadamente do tipo cooperativo;
+
+b) Individualmente, preferem os profissionais que tiverem maior tempo de serviço à data da transmissão.
+
+3. Gozam subsidiariamente do direito de preferência na transmissão os instrutores profissionais de outras escolas da área do respectivo município.
+
+4. O alvará é considerado um bem fora do comércio, não podendo ser incluído como elemento a considerar no preço.
+
+5. Para o exercício dos direitos de preferência previstos nos n.os 2 e 3 dispõem os interessados do prazo de trinta dias, a contar do aviso que para o efeito o proprietário fará publicar no Diário da República, e do qual constem os elementos necessários ao seu exercício.
+
+6. O aviso a que se refere o número anterior deverá ser igualmente publicado, na semana seguinte à da publicação a que se refere o n.º 5, em dois jornais diários lidos no município respectivo e na imprensa local, quando existir.
+
+###### Art. 13.º Sem prejuízo do disposto no presente diploma, o alvará pode ser retirado sempre que a escola deixe de reunir as condições legais e regulamentares estabelecidas para o seu funcionamento, se mantenha em situação irregular por período superior a sessenta dias ou se verifique a prática continuada de infracções ao disposto neste decreto-lei e no [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, e respectivos regulamentos.
+
+###### Art. 14.º O n.º 3 do artigo 1.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, passa a ter a seguinte redacção:
+
+3. Nos concursos a que se refere o número anterior apenas serão admitidos os profissionais instrutores de condução que não sejam proprietários ou comproprietários de escolas de condução ou sócios de entidades colectivas proprietárias de escolas de condução.
+
+###### Art. 15.º - 1. Por portaria do Ministro dos Transportes e Comunicações poderão ser aprovados os regulamentos necessários à boa execução do presente diploma.
+
+2. As dúvidas resultantes da execução do presente diploma e seus regulamentos serão resolvidas por despacho do Ministro dos Transportes e Comunicações.
+
+Mário Soares - Emílio Rui da Veiga Peixoto Vilar.
+
+**Promulgado em 23 de Agosto de 1977.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

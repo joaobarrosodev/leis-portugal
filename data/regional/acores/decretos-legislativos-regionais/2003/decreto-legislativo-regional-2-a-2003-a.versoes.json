@@ -1,0 +1,578 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:231768:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2003-117466737",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-a-2003-231768",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-02-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117466651",
+    "117466652",
+    "117466653",
+    "117466654",
+    "117466655",
+    "117466656",
+    "117466657",
+    "117466658",
+    "117466660",
+    "117466661",
+    "117466662",
+    "117466663",
+    "117466664",
+    "117466665",
+    "117466666",
+    "117466667",
+    "117466668",
+    "117466669",
+    "117466670",
+    "117466671",
+    "117466672",
+    "117466673",
+    "117466674",
+    "117465275",
+    "117465276",
+    "117465277",
+    "117465278",
+    "117465279",
+    "117465280",
+    "117465281",
+    "117465282",
+    "117465283",
+    "117465284",
+    "117465285",
+    "117465286",
+    "117465287",
+    "117465288",
+    "117465289",
+    "117465290"
+   ]
+  },
+  {
+   "date": "2004-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:577133:por",
+     "title": "Decreto Legislativo Regional n.º 38/2004/A",
+     "published": "2004-10-20",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/38-2004-577133"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "117466651",
+    "117466652",
+    "117466653",
+    "117466654",
+    "117466655",
+    "117466656",
+    "117466657",
+    "117466658",
+    "117466659",
+    "117466660",
+    "117466661",
+    "117466662",
+    "117466663",
+    "117466664",
+    "117465291",
+    "117466666",
+    "117466667",
+    "117466668",
+    "117466669",
+    "117466670",
+    "117466671",
+    "117466672",
+    "117466673",
+    "117466674",
+    "117465275",
+    "117465276",
+    "117465277",
+    "117465278",
+    "117465279",
+    "117465280",
+    "117465281",
+    "117465282",
+    "117465283",
+    "117465284",
+    "117465285",
+    "117465286",
+    "117465287",
+    "117465288",
+    "117465289",
+    "117465290"
+   ]
+  },
+  {
+   "date": "2018-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117447719:por",
+     "title": "Decreto Legislativo Regional n.º 15/2018/A",
+     "published": "2018-12-20",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2018-117447719"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "117466651",
+    "117465292",
+    "117465293",
+    "117465294",
+    "117465295",
+    "117465296",
+    "117465297",
+    "117465298",
+    "117466659",
+    "117466660",
+    "117466661",
+    "117466662",
+    "117466663",
+    "117466664",
+    "117465291",
+    "117466666",
+    "117466667",
+    "117466668",
+    "117466669",
+    "117466670",
+    "117466671",
+    "117466672",
+    "117466673",
+    "117466674",
+    "117465275",
+    "117465276",
+    "117465277",
+    "117465278",
+    "117465279",
+    "117465280",
+    "117465281",
+    "117465282",
+    "117465283",
+    "117465284",
+    "117465285",
+    "117465286",
+    "117465287",
+    "117465288",
+    "117465289",
+    "117465290"
+   ]
+  }
+ ],
+ "fragments": {
+  "117466651": {
+   "fragment_id": "117466738",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 2-A/2003/A\n\nCria a Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.\n\nO presente diploma visa constituir uma sociedade anónima que tem por objecto social a promoção, o planeamento, a construção, a fiscalização e a gestão de parques habitacionais e de outro património, assim como a realização de obras de recuperação, de construção e de reconstrução de habitações, de requalificação urbanística e de outras infra-estruturas.\n\nA constituição de uma sociedade com tal objecto apresenta inegáveis vantagens. Por um lado, permite, sem quebra de transparência, uma agilização dos procedimentos de contratação e, no plano financeiro, a obtenção de condições mais favoráveis, nomeadamente a possibilidade de recurso a soluções de financiamento mais diversificadas do que aquelas que se encontram ao dispor do sector público administrativo. Por outro, pode constituir um instrumento capaz de responder com celeridade à promoção de investimentos no âmbito de situações de emergência, como as ocasionadas por catástrofes naturais.\n\nAssim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:\n\n> Nota: [Artigo 12.º, Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719) É revogado o Decreto Legislativo Regional n.º 2-A/2003/A, de 5 de fevereiro, com exceção dos Estatutos aprovados em anexo àquele diploma, que se mantém em vigor até à data de conclusão do respetivo processo de extinção."
+  },
+  "117466652": {
+   "fragment_id": "117466739",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É constituída a Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A., abreviadamente designada por SPRHI, S. A.\n\n2 - A SPRHI, S. A., rege-se pelas normas que regulam as sociedades anónimas, com excepção do que diferentemente se dispõe no Decreto-Lei n.º 558/99, de 17 de Dezembro, no presente decreto legislativo regional, incluindo os estatutos em anexo, e na demais legislação cuja aplicação decorra do seu objecto."
+  },
+  "117466653": {
+   "fragment_id": "117466740",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.\n\n1 - A SPRHI, S. A., tem por objecto social a promoção, o planeamento, a construção, a fiscalização e a gestão de parques habitacionais e de outro património, assim como a realização de obras de recuperação, de construção e de reconstrução de habitações, de requalificação urbanística e de outras infra-estruturas, nomeadamente em áreas abrangidas por catástrofes naturais e em áreas consideradas zonas de risco.\n\n2 - Para a prossecução das suas atribuições, são conferidos à SPRHI, S. A.:\n\na) Os poderes para requerer a expropriação por utilidade pública de imóveis e dos direitos a eles inerentes e requerer a constituição de servidões administrativas;\n\nb) O direito de utilizar e administrar bens, do domínio público ou privado da Região Autónoma dos Açores, que estejam ou venham a estar afectos ao exercício da sua actividade;\n\nc) Os poderes e prerrogativas da Região Autónoma dos Açores quanto à protecção, desocupação, demolição e defesa administrativa da posse de terrenos e ou instalações que lhe estejam afectos e das obras por si contratadas, podendo ainda, nos termos da lei, ocupar temporariamente os terrenos de particulares de que necessite para estaleiros, depósitos de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito à indemnização a que houver lugar."
+  },
+  "117466654": {
+   "fragment_id": "117466741",
+   "type": 11,
+   "heading": "Artigo 3.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Património\n\n1 - O património da SPRHI, S. A., é constituído pelos bens e direitos que lhe forem atribuídos ou por ela adquiridos.\n\n2 - É transferido para a SPRHI, S. A., o património habitacional social actualmente integrado no património da Região Autónoma dos Açores, compreendendo, designadamente, todas as habitações sociais e direitos a elas relativos.\n\n3 - A Região Autónoma dos Açores poderá transmitir à SPRHI, S. A., outros bens imóveis ou direitos a eles relativos, nomeadamente prédios com capacidade ou potencialidade construtiva.\n\n4 - Caberá à SPRHI, S. A., promover junto das conservatórias competentes o registo dos bens e direitos que lhe pertençam e que estejam legalmente sujeitos a registo.\n\n5 - O presente diploma constitui título de aquisição bastante, para todos os efeitos legais, incluindo os de registo, dos bens referidos no n.º 2."
+  },
+  "117466655": {
+   "fragment_id": "117466742",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital social\n\n1 - O capital social, inteiramente subscrito e realizado em dinheiro pela Região Autónoma dos Açores, é de (euro) 1000000, representado por 200000 acções com o valor nominal de (euro) 5 cada uma.\n\n2 - O valor do capital social poderá ser alterado, sem outra formalidade para além do registo de alteração, em função do resultado da avaliação do património imobiliário que lhe for transmitido pela Região Autónoma dos Açores com aquela finalidade.\n\n3 - Para efeitos do número anterior, o conselho de administração da Sociedade promoverá a avaliação do património antes referido, ficando autorizado, por simples deliberação, a aumentar o capital social até ao limite do valor resultante da avaliação.\n\n4 - A avaliação será realizada por um revisor oficial de contas, sem interesse na Sociedade, nos termos do artigo 28.º do Código das Sociedades Comerciais.\n\n5 - Sem prejuízo do disposto nos números anteriores, a assembleia geral, após parecer favorável do fiscal único, pode deliberar o aumento do capital social em dinheiro, por uma ou mais vezes.\n\n6 - As acções representativas do capital subscrito pela Região Autónoma dos Açores serão detidas pela Direcção Regional do Orçamento e Tesouro.\n\n7 - Sem prejuízo do disposto no número anterior, o exercício da função accionista da Região Autónoma dos Açores é assegurado, conjuntamente, pelos secretários regionais com tutela nas áreas das finanças e da habitação."
+  },
+  "117466656": {
+   "fragment_id": "117466743",
+   "type": 11,
+   "heading": "Artigo 5.º — Pessoal da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pessoal da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.\n\n1 - O pessoal da SPRHI, S. A., rege-se pelas normas aplicáveis ao contrato individual de trabalho.\n\n2 - Os funcionários e agentes da administração central, regional e local, de institutos públicos e de empresas públicas ou privadas podem ser autorizados a exercer funções na SPRHI, S. A., em regime de requisição ou de acordo com outra modalidade legalmente prevista e tida por adequada, conservando todos os direitos e regalias inerentes ao seu quadro de origem."
+  },
+  "117466657": {
+   "fragment_id": "117466744",
+   "type": 11,
+   "heading": "Artigo 6.º — Estatutos e registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estatutos e registos\n\n1 - São aprovados os estatutos da SPRHI, S. A., publicados em anexo ao presente diploma e do qual fazem parte integrante.\n\n2 - Os estatutos da SPRHI, S. A., não carecem de redução a escritura pública.\n\n3 - O presente diploma constitui título bastante para a comprovação, para todos os efeitos legais, incluindo os de registo, de todos os factos nele previstos, devendo quaisquer actos necessários à regularização da sociedade anónima por ele criada ser realizados pelas entidades competentes mediante simples comunicação subscrita por dois membros do conselho de administração da SPRHI, S. A."
+  },
+  "117466658": {
+   "fragment_id": "117466745",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "117466660": {
+   "fragment_id": "117466747",
+   "type": 14,
+   "heading": "Anexo — Estatutos da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatutos da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A."
+  },
+  "117466661": {
+   "fragment_id": "117466748",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, duração, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, duração, sede e objecto"
+  },
+  "117466662": {
+   "fragment_id": "117466749",
+   "type": 11,
+   "heading": "Artigo 1.º — Tipo, denominação e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Tipo, denominação e regime\n\n1 - A sociedade adopta a forma de sociedade anónima e a denominação social de Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A. (doravante SPRHI, S. A.).\n\n2 - A sociedade rege-se pelas normas que regulam as sociedades anónimas, com excepção do que diferentemente se dispõe no Decreto-Lei n.º 558/99, de 17 de Dezembro, no decreto legislativo regional que a constitui, incluindo os presentes estatutos, e na demais legislação cuja aplicação decorra do seu objecto."
+  },
+  "117466663": {
+   "fragment_id": "117466750",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\nA SPRHI, S. A., tem a sua sede social no edifício da delegação da Secretaria Regional da Habitação e Equipamentos, sito à Rua de Filipe de Carvalho, freguesia de Angústias, concelho da Horta."
+  },
+  "117466664": {
+   "fragment_id": "117466751",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nA Sociedade durará por tempo indeterminado."
+  },
+  "117466665": {
+   "fragment_id": "117466752",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto\n\n1 - A SPRHI, S. A., tem por objecto social a promoção, o planeamento, a construção, a fiscalização e a gestão de parques habitacionais e de outro património, assim como a realização de obras de recuperação, de construção e de reconstrução de habitações, de requalificação urbanística e de outras infra-estruturas, nomeadamente em áreas abrangidas por catástrofes naturais e em áreas consideradas zonas de risco.\n\n2 - O objecto da SPRHI, S. A., inclui, nomeadamente, as seguintes actividades:\n\na) Promoção de habitação social, destinada a realojamento de pessoas residentes em barracas ou edificações abarracadas, e de outros programas de habitação;\n\nb) Gestão patrimonial ou imobiliária de parques habitacionais e de outros bens da Região que lhe sejam afectos;\n\nc) Execução de obras a cargo de outras entidades públicas ou privadas cuja realização seja conveniente para o interesse geral."
+  },
+  "117466666": {
+   "fragment_id": "117466753",
+   "type": 1,
+   "heading": "Capítulo II — Capital social, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital social, acções e obrigações"
+  },
+  "117466667": {
+   "fragment_id": "117466754",
+   "type": 11,
+   "heading": "Artigo 5.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capital social\n\n1 - O capital social, inteiramente subscrito e realizado em dinheiro pela Região Autónoma dos Açores, é de (euro) 1000000, representado por 200000 acções com o valor nominal de (euro) 5 cada uma.\n\n2 - O valor do capital social poderá ser alterado, sem outra formalidade para além do registo de alteração, em função do resultado da avaliação do património imobiliário que lhe for transmitido pela Região Autónoma dos Açores com aquela finalidade.\n\n3 - Para efeitos do número anterior, o conselho de administração da sociedade promoverá a avaliação do património antes referido, ficando autorizado, por simples deliberação, a aumentar o capital social até ao limite do valor resultante da avaliação.\n\n4 - A avaliação será realizada por um revisor oficial de contas, sem interesse na Sociedade, nos termos do artigo 28.º do Código das Sociedades Comerciais.\n\n5 - Sem prejuízo do disposto nos números anteriores, a assembleia geral, após parecer favorável do fiscal único, pode deliberar o aumento do capital social em dinheiro, por uma ou mais vezes.\n\n6 - Na deliberação referida no número anterior, a assembleia geral fixará os termos e as condições de cada aumento de capital."
+  },
+  "117466668": {
+   "fragment_id": "117466755",
+   "type": 11,
+   "heading": "Artigo 6.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acções\n\n1 - As acções são nominativas, podendo revestir a forma escritural se assim for deliberado em assembleia geral.\n\n2 - As acções são representadas por títulos de 1, 10, 20, 50, 100 ou 1000 acções.\n\n3 - Os títulos representativos das acções são assinados por dois administradores, podendo a assinatura ser de chancela.\n\n4 - As acções representativas do capital subscrito pela Região Autónoma dos Açores serão detidas pela Direcção Regional do Orçamento e do Tesouro."
+  },
+  "117466669": {
+   "fragment_id": "117466756",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações\n\nMediante deliberação da assembleia geral, a sociedade pode emitir obrigações e outros títulos de dívida para os quais esteja legalmente habilitada."
+  },
+  "117466670": {
+   "fragment_id": "117466757",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos sociais"
+  },
+  "117466671": {
+   "fragment_id": "117466758",
+   "type": 8,
+   "heading": "Secção I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição geral"
+  },
+  "117466672": {
+   "fragment_id": "117466759",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos sociais\n\n1 - A Sociedade tem como órgãos sociais a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos presentes estatutos.\n\n2 - Os membros dos órgãos sociais consideram-se investidos logo que tenham sido eleitos e permanecem no exercício das suas funções até à designação de quem os deva substituir, estando dispensados de prestar caução relativamente ao desempenho dos seus cargos.\n\n3 - Os membros dos órgãos sociais auferem ou não remuneração, consoante o que for deliberado em assembleia geral."
+  },
+  "117466673": {
+   "fragment_id": "117466760",
+   "type": 8,
+   "heading": "Secção II — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assembleia geral"
+  },
+  "117466674": {
+   "fragment_id": "117466761",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição da assembleia geral\n\n1 - A assembleia geral é composta pelos accionistas com direito a voto, cabendo um voto a cada acção.\n\n2 - Para efeitos de poder participar em assembleia geral, cada accionista deverá ter as acções com base nas quais se apresenta a participar, desde o 5.º dia útil anterior ao designado para a respectiva reunião, registadas ou averbadas em seu nome ou depositadas em seu nome em qualquer intermediário financeiro autorizado, devendo, neste último caso, o respectivo comprovativo ser apresentado na Sociedade até à referida data.\n\n3 - A Região Autónoma dos Açores será representada na assembleia geral pela pessoa que for designada por despacho conjunto dos secretários regionais com tutela nas áreas das finanças e da habitação.\n\n4 - Os membros do conselho de administração e o fiscal único deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto."
+  },
+  "117465275": {
+   "fragment_id": "117466762",
+   "type": 11,
+   "heading": "Artigo 10.º — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mesa da assembleia geral\n\nA mesa da assembleia geral é constituída por um presidente e um secretário, eleitos em assembleia geral, dentre os accionistas ou não, pelo período de três anos."
+  },
+  "117465276": {
+   "fragment_id": "117466763",
+   "type": 11,
+   "heading": "Artigo 11.º — Reuniões e deliberações da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reuniões e deliberações da assembleia geral\n\n1 - A assembleia geral reúne duas vezes por ano ou quando a sua convocação for requerida por accionistas que possuam acções correspondentes a, pelo menos, 10% do capital social, sendo uma dessas reuniões nos três meses posteriores à data do encerramento do exercício, podendo o presidente da assembleia geral convocá-la quando tal for solicitado pelo conselho de administração ou pelo fiscal único.\n\n2 - O requerimento referido no número anterior deve ser feito por escrito e dirigido ao presidente da mesa da assembleia geral, indicando com precisão os assuntos a incluir na ordem do dia e justificando a necessidade da reunião.\n\n3 - A convocação da assembleia geral faz-se com uma antecedência mínima de 30 dias, por carta registada, com a indicação expressa dos assuntos a tratar.\n\n4 - A assembleia geral para a eleição dos membros dos órgãos sociais não pode deliberar sem que estejam presentes ou representados accionistas cujas acções representem, pelo menos, 51% do capital social.\n\n5 - As deliberações são tomadas por maioria dos votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maioria qualificada.\n\n6 - Enquanto a totalidade das acções da SPRHI, S. A., pertencer à Região Autónoma dos Açores, sempre que a lei ou os estatutos exijam a deliberação da assembleia geral ou seja conveniente reuni-la, bastará que o representante da Região exare a deliberação no livro de actas da Sociedade."
+  },
+  "117465277": {
+   "fragment_id": "117466764",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência da assembleia geral\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei ou os presentes estatutos lhe atribuam competência.\n\n2 - Compete, em especial, à assembleia geral:\n\na) Aprovar o plano de actividades, anual e plurianual;\n\nb) Aprovar o orçamento e acompanhar a sua execução;\n\nc) Apreciar o relatório de gestão do conselho de administração, discutir e votar as contas do exercício e o relatório e parecer do fiscal único e deliberar sobre a proposta de aplicação dos resultados do exercício;\n\nd) Eleger e exonerar os membros da mesa da assembleia geral, do conselho de administração e o fiscal único;\n\ne) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital social;\n\nf) Deliberar sobre as remunerações dos membros dos órgãos sociais;\n\ng) Autorizar a aquisição, a oneração e a alienação de imóveis e a realização de investimentos, quando o respectivo valor exceda o limite a fixar anualmente em assembleia geral e não estejam contemplados nas alíneas b) e c);\n\nh) Deliberar sobre a emissão de obrigações ou outros títulos de dívida;\n\ni) Deliberar sobre a emissão ou conversão de acções ou outros títulos em forma meramente escritural."
+  },
+  "117465278": {
+   "fragment_id": "117466765",
+   "type": 8,
+   "heading": "Secção III — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho de administração"
+  },
+  "117465279": {
+   "fragment_id": "117466766",
+   "type": 11,
+   "heading": "Artigo 13.º — Composição do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição do conselho de administração\n\n1 - O conselho de administração é composto por um presidente e dois vogais, eleitos em assembleia geral, pelo período de três anos, sendo permitida a sua reeleição.\n\n2 - O presidente do conselho de administração é designado na assembleia geral que proceder à eleição do órgão.\n\n3 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado."
+  },
+  "117465280": {
+   "fragment_id": "117466767",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência do conselho de administração\n\n1 - O conselho de administração gere os negócios sociais e pratica todos os actos e operações relativos ao objecto social, competindo-lhe, nomeadamente:\n\na) Elaborar e submeter à aprovação da assembleia geral o plano de actividades, anual e plurianual e suas alterações;\n\nb) Elaborar e submeter à aprovação da assembleia geral o orçamento e suas alterações, bem como outros documentos previsionais;\n\nc) Elaborar e submeter à aprovação da assembleia geral o relatório de gestão e as contas do exercício, bem como a proposta de aplicação de resultados;\n\nd) Definir a estrutura e a organização geral da SPRHI, S. A.;\n\ne) Nomear e exonerar os responsáveis pelos serviços, bem como admitir, contratar e exonerar o pessoal necessário ao desempenho das tarefas a cargo da SPRHI, S. A., e exercer sobre eles o respectivo poder disciplinar, nos termos legais e regulamentares aplicáveis;\n\nf) Autorizar a concessão de subsídios a organismos oficiais ou privados cujas actividades interessem directa ou indirectamente à acção da SPRHI, S. A., bem como a obras de carácter social e cultural;\n\ng) Efectuar os seguros pessoais, patrimoniais ou outros que se mostrem necessários;\n\nh) Adquirir bens e direitos necessários à prossecução das atribuições da SPRHI, S. A., sem prejuízo do disposto na alínea b) do n.º 2;\n\ni) Alienar e onerar bens que não se integrem no domínio público, sem prejuízo do disposto na alínea b) do n.º 2;\n\nj) Cobrar e arrecadar as receitas provenientes da exploração dos parques habitacionais ou de outros bens que lhe sejam afectos e autorizar a restituição de verbas indevidamente cobradas;\n\nk) Requerer a expropriação por utilidade pública de imóveis e dos direitos a eles inerentes e requerer a constituição de servidões administrativas;\n\nl) Aprovar os regulamentos internos destinados à execução dos presentes estatutos e necessários ao bom funcionamento dos serviços e velar pelo seu cumprimento;\n\nm) Representar a sociedade em juízo e fora dele, activa e passivamente, propor e acompanhar acções, confessar, desistir, transigir e celebrar convenções de arbitragem;\n\nn) Constituir mandatários da Sociedade com os poderes que julgue convenientes;\n\no) Estabelecer, quando necessário, acordos com outras entidades legalmente competentes relativamente à gestão do domínio, constituição de usos e coordenação de actividades para fins de natureza não habitacional;\n\np) Pedir a convocação extraordinária da assembleia geral;\n\nq) Exercer as demais competências que lhe caibam por lei, independentemente e sem prejuízo das que lhe sejam confiadas pela assembleia geral.\n\n2 - Compete, ainda, ao conselho de administração, mediante prévia autorização da assembleia geral:\n\na) Deliberar sobre a realização de empréstimos ou outras operações financeiras;\n\nb) Adquirir, onerar e alienar imóveis que não se integrem no domínio público e realizar investimentos, quando o respectivo valor exceda o limite a fixar anualmente em assembleia geral e não estejam contemplados no plano de actividades, anual e plurianual, e no orçamento da Sociedade."
+  },
+  "117465281": {
+   "fragment_id": "117466768",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência do presidente do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência do presidente do conselho de administração\n\nCompete ao presidente do conselho de administração a coordenação e orientação geral das actividades do conselho e, em especial:\n\na) Representar o conselho em juízo e fora dele, sem prejuízo de outros representantes ou mandatários poderem ser designados para o efeito;\n\nb) Convocar o conselho de administração, fixar a agenda de trabalhos e dirigir as respectivas reuniões;\n\nc) Zelar pela correcta execução das deliberações do conselho de administração."
+  },
+  "117465282": {
+   "fragment_id": "117466769",
+   "type": 11,
+   "heading": "Artigo 16.º — Reuniões do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reuniões do conselho de administração\n\n1 - O conselho de administração deve reunir, pelo menos, uma vez em cada mês e ainda sempre que convocado pelo seu presidente ou por dois administradores.\n\n2 - O conselho de administração só pode validamente deliberar quando esteja presente a maioria dos seus membros.\n\n3 - As deliberações são tomadas pela maioria de votos dos membros presentes ou representados, dispondo o presidente, em caso de empate na votação, de voto de qualidade.\n\n4 - Os membros do conselho de administração podem fazer-se representar nas reuniões por outro administrador."
+  },
+  "117465283": {
+   "fragment_id": "117466770",
+   "type": 11,
+   "heading": "Artigo 17.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Representação\n\n1 - A Sociedade obriga-se:\n\na) Pela assinatura de dois administradores;\n\nb) Pela assinatura de um só administrador como tal mandatado em acta do conselho de administração para a prática de determinados actos ou categorias de actos;\n\nc) Pela assinatura conjunta de um administrador e de um procurador mandatado para a prática de determinados actos ou categorias de actos;\n\nd) Pela assinatura de um procurador, nos termos do respectivo instrumento de procuração.\n\n2 - Em assuntos de mero expediente, bastará a assinatura de um dos membros do conselho de administração."
+  },
+  "117465284": {
+   "fragment_id": "117466771",
+   "type": 8,
+   "heading": "Secção IV — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Fiscal único"
+  },
+  "117465285": {
+   "fragment_id": "117466772",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização\n\n1 - A fiscalização da actividade social e o exame das contas da Sociedade competem a um fiscal único, que deve ser revisor oficial de contas ou sociedade de revisores oficiais de contas, eleito em assembleia geral por um período de três anos, podendo ser reeleito.\n\n2 - O fiscal único tem um suplente, eleito pela assembleia geral por um período de três anos, podendo ser reeleito, que será igualmente um revisor oficial de contas ou sociedade de revisores oficiais de contas."
+  },
+  "117465286": {
+   "fragment_id": "117466773",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências do fiscal único\n\nAlém das competências constantes da lei, cabe, especialmente, ao fiscal único:\n\na) Examinar, sempre que o julgue conveniente e, pelo menos, trimestralmente, a escrituração da Sociedade;\n\nb) Acompanhar o funcionamento da Sociedade e o cumprimento das leis, dos estatutos e dos regulamentos que lhe forem aplicáveis;\n\nc) Pedir a convocação extraordinária da assembleia geral, quando o entenda necessário;\n\nd) Elaborar anualmente o relatório sobre a sua acção fiscalizadora;\n\ne) Emitir parecer sobre o orçamento, o balanço, o inventário e as contas anuais;\n\nf) Solicitar ao conselho de administração que aprecie qualquer assunto que entenda dever ser ponderado;\n\ng) Pronunciar-se sobre qualquer matéria que lhe seja submetida pelo conselho de administração."
+  },
+  "117465287": {
+   "fragment_id": "117466774",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "117465288": {
+   "fragment_id": "117465375",
+   "type": 11,
+   "heading": "Artigo 20.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Receitas\n\nConstituem receitas da SPRHI, S. A, nomeadamente:\n\na) O rendimento do seu património, bem como o produto da sua alienação e da constituição de direitos sobre o mesmo;\n\nb) As comparticipações, as dotações e os subsídios do Estado e seus institutos, da Região Autónoma dos Açores e seus institutos, de autarquias locais, pessoas colectivas de utilidade pública administrativa ou de outras pessoas singulares ou colectivas;\n\nc) Outras dotações, comparticipações ou verbas provenientes de actos ou contratos de que seja beneficiária;\n\nd) Doações, heranças e legados;\n\ne) Quaisquer outros rendimentos ou valores que resultem da sua actividade ou que, por lei ou contrato, lhe devam pertencer."
+  },
+  "117465289": {
+   "fragment_id": "117465376",
+   "type": 11,
+   "heading": "Artigo 21.º — Contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contratos-programa\n\nPara a prossecução das suas atribuições, a SPRHI, S. A., pode celebrar contratos-programa com a Região Autónoma dos Açores, através do Governo Regional, ou com outras entidades públicas, com carácter plurianual, nos quais se estabelecerão objectivos e metas qualitativas e quantitativas, a sua calendarização, os meios e os instrumentos para os prosseguir, designadamente de investimento, e os demais direitos e obrigações assumidos pelas partes."
+  },
+  "117465290": {
+   "fragment_id": "117465377",
+   "type": 11,
+   "heading": "Artigo 22.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pessoal\n\n1 - O pessoal da SPRHI, S. A., rege-se pelas normas aplicáveis ao contrato individual de trabalho.\n\n2 - Os funcionários e agentes da administração central, regional e local, de institutos públicos e de empresas públicas ou privadas podem ser autorizados a exercer funções na SPRHI, S. A., em regime de requisição ou de acordo com outra modalidade legalmente prevista e tida por adequada, conservando todos os direitos e regalias inerentes ao seu quadro de origem."
+  },
+  "117466659": {
+   "fragment_id": "117466746",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Janeiro de 2003.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 31 de Janeiro de 2003.\n\nPublique-se.\n\nO Ministro da Repúbica para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "117465291": {
+   "fragment_id": "117466752",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": "2004-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 38/2004/A - Diário da República n.º 247/2004, Série I-A de 2004-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2004-577133), em vigor a partir de 2004-10-21"
+   ],
+   "markdown": "###### Artigo 4.º — Objecto\n\n1 - A SPRHI, S. A., tem por objecto social a promoção, o planeamento, a construção, a fiscalização e a gestão de parques habitacionais e de outro património, assim como a realização de obras de recuperação, de construção e de reconstrução de habitações, de requalificação urbanística e de outras infra-estruturas, nomeadamente em áreas abrangidas por catástrofes naturais e em áreas consideradas zonas de risco.\n\n2 - O objecto da SPRHI, S. A., inclui, nomeadamente, as seguintes actividades:\n\na) Promoção de habitação social, destinada a realojamento de pessoas residentes em barracas ou edificações abarracadas, e de outros programas de habitação;\n\nb) Gestão patrimonial ou imobiliária de parques habitacionais e de outros bens da Região que lhe sejam afectos;\n\nc) Execução de obras a cargo de outras entidades públicas cuja realização seja conveniente para o interesse geral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 38/2004/A - Diário da República n.º 247/2004, Série I-A de 2004-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2004-577133), em vigor a partir de 2004-10-21"
+  },
+  "117465292": {
+   "fragment_id": "117466739",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2018-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É constituída a Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A., abreviadamente designada por SPRHI, S. A.\n\n2 - A SPRHI, S. A., rege-se pelas normas que regulam as sociedades anónimas, com excepção do que diferentemente se dispõe no Decreto-Lei n.º 558/99, de 17 de Dezembro, no presente decreto legislativo regional, incluindo os estatutos em anexo, e na demais legislação cuja aplicação decorra do seu objecto.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+  },
+  "117465293": {
+   "fragment_id": "117466740",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.",
+   "in_force_from": "2018-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.\n\n1 - A SPRHI, S. A., tem por objecto social a promoção, o planeamento, a construção, a fiscalização e a gestão de parques habitacionais e de outro património, assim como a realização de obras de recuperação, de construção e de reconstrução de habitações, de requalificação urbanística e de outras infra-estruturas, nomeadamente em áreas abrangidas por catástrofes naturais e em áreas consideradas zonas de risco.\n\n2 - Para a prossecução das suas atribuições, são conferidos à SPRHI, S. A.:\n\na) Os poderes para requerer a expropriação por utilidade pública de imóveis e dos direitos a eles inerentes e requerer a constituição de servidões administrativas;\n\nb) O direito de utilizar e administrar bens, do domínio público ou privado da Região Autónoma dos Açores, que estejam ou venham a estar afectos ao exercício da sua actividade;\n\nc) Os poderes e prerrogativas da Região Autónoma dos Açores quanto à protecção, desocupação, demolição e defesa administrativa da posse de terrenos e ou instalações que lhe estejam afectos e das obras por si contratadas, podendo ainda, nos termos da lei, ocupar temporariamente os terrenos de particulares de que necessite para estaleiros, depósitos de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito à indemnização a que houver lugar.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+  },
+  "117465294": {
+   "fragment_id": "117466741",
+   "type": 11,
+   "heading": "Artigo 3.º — Património",
+   "in_force_from": "2018-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+   ],
+   "markdown": "###### Artigo 3.º — Património\n\n1 - O património da SPRHI, S. A., é constituído pelos bens e direitos que lhe forem atribuídos ou por ela adquiridos.\n\n2 - É transferido para a SPRHI, S. A., o património habitacional social actualmente integrado no património da Região Autónoma dos Açores, compreendendo, designadamente, todas as habitações sociais e direitos a elas relativos.\n\n3 - A Região Autónoma dos Açores poderá transmitir à SPRHI, S. A., outros bens imóveis ou direitos a eles relativos, nomeadamente prédios com capacidade ou potencialidade construtiva.\n\n4 - Caberá à SPRHI, S. A., promover junto das conservatórias competentes o registo dos bens e direitos que lhe pertençam e que estejam legalmente sujeitos a registo.\n\n5 - O presente diploma constitui título de aquisição bastante, para todos os efeitos legais, incluindo os de registo, dos bens referidos no n.º 2.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+  },
+  "117465295": {
+   "fragment_id": "117466742",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital social",
+   "in_force_from": "2018-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+   ],
+   "markdown": "###### Artigo 4.º — Capital social\n\n1 - O capital social, inteiramente subscrito e realizado em dinheiro pela Região Autónoma dos Açores, é de (euro) 1000000, representado por 200000 acções com o valor nominal de (euro) 5 cada uma.\n\n2 - O valor do capital social poderá ser alterado, sem outra formalidade para além do registo de alteração, em função do resultado da avaliação do património imobiliário que lhe for transmitido pela Região Autónoma dos Açores com aquela finalidade.\n\n3 - Para efeitos do número anterior, o conselho de administração da Sociedade promoverá a avaliação do património antes referido, ficando autorizado, por simples deliberação, a aumentar o capital social até ao limite do valor resultante da avaliação.\n\n4 - A avaliação será realizada por um revisor oficial de contas, sem interesse na Sociedade, nos termos do artigo 28.º do Código das Sociedades Comerciais.\n\n5 - Sem prejuízo do disposto nos números anteriores, a assembleia geral, após parecer favorável do fiscal único, pode deliberar o aumento do capital social em dinheiro, por uma ou mais vezes.\n\n6 - As acções representativas do capital subscrito pela Região Autónoma dos Açores serão detidas pela Direcção Regional do Orçamento e Tesouro.\n\n7 - Sem prejuízo do disposto no número anterior, o exercício da função accionista da Região Autónoma dos Açores é assegurado, conjuntamente, pelos secretários regionais com tutela nas áreas das finanças e da habitação.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+  },
+  "117465296": {
+   "fragment_id": "117466743",
+   "type": 11,
+   "heading": "Artigo 5.º — Pessoal da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.",
+   "in_force_from": "2018-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+   ],
+   "markdown": "###### Artigo 5.º — Pessoal da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.\n\n1 - O pessoal da SPRHI, S. A., rege-se pelas normas aplicáveis ao contrato individual de trabalho.\n\n2 - Os funcionários e agentes da administração central, regional e local, de institutos públicos e de empresas públicas ou privadas podem ser autorizados a exercer funções na SPRHI, S. A., em regime de requisição ou de acordo com outra modalidade legalmente prevista e tida por adequada, conservando todos os direitos e regalias inerentes ao seu quadro de origem.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+  },
+  "117465297": {
+   "fragment_id": "117466744",
+   "type": 11,
+   "heading": "Artigo 6.º — Estatutos e registos",
+   "in_force_from": "2018-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+   ],
+   "markdown": "###### Artigo 6.º — Estatutos e registos\n\n1 - São aprovados os estatutos da SPRHI, S. A., publicados em anexo ao presente diploma e do qual fazem parte integrante.\n\n2 - Os estatutos da SPRHI, S. A., não carecem de redução a escritura pública.\n\n3 - O presente diploma constitui título bastante para a comprovação, para todos os efeitos legais, incluindo os de registo, de todos os factos nele previstos, devendo quaisquer actos necessários à regularização da sociedade anónima por ele criada ser realizados pelas entidades competentes mediante simples comunicação subscrita por dois membros do conselho de administração da SPRHI, S. A.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+  },
+  "117465298": {
+   "fragment_id": "117466745",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": "2018-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+   ],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 15/2018/A - Diário da República n.º 245/2018, Série I de 2018-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2018-117447719), em vigor a partir de 2018-12-21"
+  }
+ }
+}

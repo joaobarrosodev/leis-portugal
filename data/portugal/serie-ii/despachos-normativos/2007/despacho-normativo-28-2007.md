@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:2870912:por
+title: Despacho Normativo n.º 28/2007
+short_title: null
+summary: Determina o modo de cálculo da classificação final nas disciplinas em que os alunos do ensino básico recorrente realizem
+  exame nacional
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Educação - Gabinete do Secretário de Estado da Educação
+proposing_entity: null
+official_number: 28/2007
+official_date: null
+publication_date: '2007-08-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 149/2007, Série II de 2007-08-03
+  number: '149'
+  series: II
+  supplement: null
+  pages: 22178 - 22179
+  pdf_url: https://files.diariodarepublica.pt/2s/2007/08/149000000/2217822179.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2870912'
+  dre_path: /dr/detalhe/despacho-normativo/28-2007-2870912
+  internal: pt:dre:2870912:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2007-2870912
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2007-2870912
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-08-03T00:00:00Z'
+integrity:
+  source_sha256: 4742bf86bd16eeabff1828e833de499343b5f7cad0a5ab3363c4038a55c0cb92
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-28-2870912.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 28/2007
+
+O [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), de 18 de Janeiro, rectificado pela [Declaração de Rectificação n.º 4-A/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-a-2001-303126), de 28 de Fevereiro, e alterado pelo [Decreto-Lei n.º 209/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450), de 17 de Outubro, estabelece os princípios orientadores da organização e da gestão curricular do ensino básico, prevendo na alínea b) do n.º 4 do artigo 13.º a realização de exames nacionais no 9.º ano, nas disciplinas de Língua Portuguesa e de Matemática.
+
+O Regulamento de Exames do Ensino Básico, aprovado pelo despacho normativo n.º 14/2007, de 8 de Março, prevê, no respectivo n.º 1.5.1, a obrigatoriedade da realização de exames nacionais de Língua Portuguesa e de Matemática do 3.º ciclo, no 9.º ano de escolaridade, por parte dos alunos que, estando dispensados da realização dos referidos exames, pretendam prosseguir estudos de nível secundário em cursos científico-humanísticos, na modalidade de ensino regular.
+
+Neste contexto, considerando a existência de regimes de avaliação e de escalas de classificação diferentes nos diversos percursos de educação e formação de adultos, importa regular as condições de realização dos exames nacionais no 9.º ano, nas disciplinas de Língua Portuguesa e de Matemática, por parte dos alunos do ensino básico recorrente e dos adultos que frequentam cursos de educação e formação de adultos ou desenvolvem processos de reconhecimento, validação e certificação de competências e que pretendem prosseguir estudos de nível secundário em cursos científico-humanísticos, na modalidade de ensino regular.
+
+Assim, ao abrigo do disposto no n.º 2 do artigo 1.º e no n.º 6 do artigo 12.º, ambos do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), de 18 de Janeiro, na sua redacção actual, dos despachos normativos n.os [269/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/269-1991-316875), de 13 de Novembro, [189/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/189-1993-358301), de 7 de Agosto, e [36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho, e dos despachos n.os 20 421/99, de 27 de Outubro, 21 711/2000, de 27 de Outubro, e 16 903/2003, de 2 de Setembro, do despacho conjunto n.º 1083/2000, de 20 de Novembro, na redacção conferida pelo despacho conjunto n.º 650/2001, de 20 de Julho, e pelo despacho n.º 26 401/2006, de 29 de Dezembro, e da [Portaria n.º 1082-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1082-a-2001-307436), de 5 de Setembro, na redacção dada pelas Portarias n.os [286-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/286-a-2002-625437), de 15 de Março, e 86/2007, de 12 de Janeiro, determino o seguinte:
+
+1 - Os alunos do ensino básico recorrente, incluindo os que beneficiam de planos de estudos próprios, e os que frequentam um curso de educação e formação de adultos ou desenvolvem um processo de reconhecimento, validação e certificação de competências ao nível do 3.º ciclo do ensino básico e que pretendam prosseguir estudos de nível secundário em cursos científico-humanísticos, na modalidade de ensino regular, realizam obrigatoriamente os exames nacionais de 9.º ano às disciplinas de Língua Portuguesa e de Matemática.
+
+2 - No acto de inscrição para a realização de exames nacionais às disciplinas de Língua Portuguesa e de Matemática do 3.º ciclo do ensino básico, os alunos referidos no número anterior devem apresentar, nos serviços administrativos do estabelecimento de ensino onde realizam as provas, declaração comprovativa de que reúnem condições para concluir o respectivo percurso de 3.º ciclo do ensino básico até 31 de Julho do ano lectivo em curso.
+
+3 - Para os alunos do 3.º ciclo do ensino básico recorrente que realizam as provas de exame nacional de Língua Portuguesa e de Matemática, a classificação final a atribuir a essas disciplinas, para efeitos unicamente de matrícula nos cursos científico-humanísticos de nível secundário de educação, na modalidade de ensino regular, resulta, respectivamente, da média ponderada, com arredondamento às unidades, da classificação final de frequência da disciplina no 3.º ciclo do ensino básico recorrente e da classificação obtida em exame nacional, de acordo com a seguinte fórmula:
+
+CFD=(7Cf+3Ce)/10
+
+em que:
+
+CFD = classificação final da disciplina;
+
+Cf = classificação final de frequência da disciplina no 3.º ciclo do ensino básico recorrente;
+
+Ce = classificação de exame.
+
+4 - Para efeitos da aplicação do disposto no número anterior, a classificação final de frequência das disciplinas de Língua Portuguesa e de Matemática do 3.º ciclo do ensino básico recorrente é expressa na escala de níveis de 1 a 5, de acordo com a seguinte tabela de correspondência:
+
+Valores ... Níveis
+
+0 - 5 ... 1
+
+6 - 9 ... 2
+
+10 - 14 ... 3
+
+15 - 17 ... 4
+
+18 - 20 ... 5
+
+5 - Para os alunos referidos no presente despacho, a classificação obtida nos exames nacionais de 3.º ciclo às disciplinas de Língua Portuguesa e de Matemática não produz efeitos na certificação da conclusão do 3.º ciclo do ensino básico, devendo o seu registo, no caso de matrícula em cursos científico-humanísticos de nível secundário de educação, na modalidade de ensino regular, verificar-se unicamente na ficha de Exames Nacionais Ensino Básico (ENEB).
+
+6 - Para os alunos do 3.º ciclo do ensino básico recorrente a matrícula em cursos científico-humanísticos de nível secundário de educação, na modalidade de ensino regular, depende da verificação dos seguintes requisitos:
+
+a) O aluno ser detentor de um certificado de 3.º ciclo do ensino básico recorrente;
+
+b) O aluno ter obtido classificação final igual ou superior a 3, na escala de níveis de 1 a 5, numa das disciplinas sujeitas a exame nacional do 3.º ciclo do ensino básico, após a aplicação da fórmula constante do n.º 3 do presente despacho.
+
+7 - Para os adultos que frequentam um curso de educação e formação de adultos ou desenvolvem um processo de reconhecimento, validação e certificação de competências ao nível do 3.º ciclo do ensino básico, a matrícula em cursos científico-humanísticos de nível secundário de educação, na modalidade de ensino regular, depende da verificação dos seguintes requisitos:
+
+a) O aluno ser detentor de um certificado de 3.º ciclo do ensino básico;
+
+b) O aluno ter obtido classificação igual ou superior a 3, na escala de níveis de 1 a 5, num dos exames das disciplinas sujeitas a exame nacional do 3.º ciclo do ensino básico.
+
+8 - O presente despacho aplica-se igualmente aos alunos do 3.º ciclo do ensino básico recorrente que, no ano lectivo de 2005-2006, realizaram os exames de Língua Portuguesa e de Matemática para efeitos de prosseguimento de estudos de nível secundário em cursos científico-humanísticos, na modalidade de ensino regular.
+
+9 de Julho de 2007. - O Secretário de Estado da Educação, Valter Victorino Lemos.

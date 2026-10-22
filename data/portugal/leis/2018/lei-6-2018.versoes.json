@@ -1,0 +1,405 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114749189:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2018-174876557",
+ "dre_path": "/dr/detalhe/lei/6-2018-114749189",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-02-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174876606",
+    "174876607",
+    "174876608",
+    "174876609",
+    "174876610",
+    "174876611",
+    "174876612",
+    "174876613",
+    "174876614",
+    "174876615",
+    "174876616",
+    "174876617",
+    "174876618",
+    "174876619",
+    "174876620",
+    "174876621",
+    "174876622",
+    "174876623",
+    "174876624",
+    "174876625",
+    "174876626",
+    "174876627",
+    "174876628",
+    "174876629",
+    "174876630",
+    "174876631",
+    "174876632",
+    "174876633",
+    "174876634",
+    "174876635",
+    "174876636",
+    "174876637",
+    "174876638",
+    "174876639",
+    "174876640"
+   ]
+  },
+  {
+   "date": "2021-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174824631:por",
+     "title": "Lei n.º 79/2021",
+     "published": "2021-11-24",
+     "dre_path": "/dr/detalhe/lei/79-2021-174824631"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "174876606",
+    "174876607",
+    "174876608",
+    "174876609",
+    "174876610",
+    "174876611",
+    "174876612",
+    "174876644",
+    "174876614",
+    "174876615",
+    "174876616",
+    "174876617",
+    "174876618",
+    "174876619",
+    "174876620",
+    "174876621",
+    "174876622",
+    "174876623",
+    "174876624",
+    "174876625",
+    "174876626",
+    "174876627",
+    "174876628",
+    "174876629",
+    "174876630",
+    "174876631",
+    "174876632",
+    "174876633",
+    "174876634",
+    "174876635",
+    "174876636",
+    "174876637",
+    "174876638",
+    "174876639",
+    "174876640",
+    "174876641"
+   ]
+  }
+ ],
+ "fragments": {
+  "174876606": {
+   "fragment_id": "174876558",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 6/2018\n\nde 22 de fevereiro\n\nEstatuto do mediador de recuperação de empresas\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "174876607": {
+   "fragment_id": "174876559",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "174876608": {
+   "fragment_id": "174876560",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o estatuto do mediador de recuperação de empresas."
+  },
+  "174876609": {
+   "fragment_id": "174876561",
+   "type": 11,
+   "heading": "Artigo 2.º — Mediador de recuperação de empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Mediador de recuperação de empresas\n\nO mediador de recuperação de empresas, adiante designado como mediador, é a pessoa incumbida de prestar assistência a uma empresa devedora que, de acordo com o previsto no Código da Insolvência e da Recuperação de Empresas (CIRE), aprovado em anexo ao Decreto-Lei n.º 53/2004, de 18 de março, se encontre em situação económica difícil ou em situação de insolvência, nomeadamente em negociações com os seus credores com vista a alcançar um acordo extrajudicial de reestruturação para a sua recuperação."
+  },
+  "174876610": {
+   "fragment_id": "174876562",
+   "type": 1,
+   "heading": "Capítulo II — Acesso à atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acesso à atividade"
+  },
+  "174876611": {
+   "fragment_id": "174876563",
+   "type": 11,
+   "heading": "Artigo 3.º — Habilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Habilitação\n\n1 - Podem ser mediadores as pessoas que, cumulativamente:\n\na) Tenham uma licenciatura e experiência profissional adequada ao exercício da atividade;\n\nb) Frequentem com aproveitamento ação de formação em mediação de recuperação de empresas, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da justiça e da economia, ministrada por entidade certificada pela Direção-Geral da Política de Justiça (DGPJ);\n\nc) Não se encontrem em nenhuma situação de incompatibilidade para o exercício da atividade;\n\nd) Sejam pessoas idóneas para o exercício da atividade de mediador.\n\n2 - Para os efeitos da alínea a) do número anterior, considera-se adequada a experiência profissional com um mínimo de 10 anos em funções de administração ou direção ou gestão de empresas, auditoria económico-financeira ou reestruturação de créditos.\n\n3 - Podem ainda ser mediadores os administradores judiciais e os revisores oficiais de contas que para o efeito se inscrevam no IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), e que frequentem com aproveitamento ação de formação em mediação de recuperação de empresas ministrada por entidade certificada pela DGPJ.\n\n4 - A DGPJ informa o serviço central competente do ministério responsável pela área de formação profissional do ato de certificação, para efeitos de divulgação de uma lista geral de entidades formadoras certificadas, nos termos da Portaria n.º 208/2013, de 26 de junho."
+  },
+  "174876612": {
+   "fragment_id": "174876564",
+   "type": 11,
+   "heading": "Artigo 4.º — Incompatibilidades, impedimentos e suspeições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Incompatibilidades, impedimentos e suspeições\n\n1 - Os mediadores estão sujeitos às regras gerais sobre incompatibilidades aplicáveis aos titulares de órgãos sociais da empresa devedora.\n\n2 - O mediador não pode ser nomeado para mediar negociações em que esteja envolvida empresa relativamente à qual haja desempenhado funções nos respetivos órgãos sociais nos três anos anteriores à nomeação ou tenha sido nomeado e exercido efetivamente as funções de administrador de insolvência ou de administrador judicial provisório.\n\n3 - O mediador não pode ser nomeado para mediar negociações em que esteja envolvida empresa de que seja titular, ou o seu cônjuge, parentes ou afins até ao 2.º grau da linha reta ou colateral, ou de que seja titular pessoa coletiva em que estes detenham, direta ou indiretamente, participações sociais qualificadas.\n\n4 - O mediador não pode, sem que hajam decorrido três anos após a cessação do exercício das funções de mediação, por si ou por interposta pessoa:\n\na) Ser membro de órgãos sociais ou dirigente de empresas que hajam estado envolvidas em processos de recuperação ou reestruturação em que aquele tenha exercido as suas funções;\n\nb) Desempenhar nessas empresas alguma outra função, quer ao abrigo de um contrato de trabalho, quer a título de prestação de serviços;\n\nc) Ser nomeado administrador judicial provisório em processo especial de revitalização ou administrador de insolvência em processo de insolvência, nos quais seja devedora a empresa que o mediador tenha assistido no exercício das funções previstas na presente lei.\n\n5 - Pode ser nomeado um mesmo mediador para o exercício das respetivas funções em sociedades que se encontrem em relação de domínio ou de grupo, exceto quando o IAPMEI, I. P., considere que tal nomeação não é adequada à salvaguarda dos interesses das sociedades ou quando daí resulte ou se configure situação de incompatibilidade, impedimento ou suspeição."
+  },
+  "174876613": {
+   "fragment_id": "174876565",
+   "type": 11,
+   "heading": "Artigo 5.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Idoneidade\n\n1 - Cada candidato a mediador deve emitir, aquando da sua candidatura ao exercício da atividade, declaração escrita, dirigida ao IAPMEI, I. P., atestando que dispõe da aptidão necessária para o exercício da mesma, e que conduz a sua vida pessoal e profissional de forma idónea.\n\n2 - Na avaliação da idoneidade, o IAPMEI, I. P., deve ter em conta o modo como a pessoa gere habitualmente os negócios, profissionais ou pessoais, ou exerce a profissão, em especial nos aspetos que revelem a sua capacidade para decidir de forma ponderada e criteriosa, ou a sua tendência para cumprir pontualmente as suas obrigações ou para ter comportamentos compatíveis com a preservação da confiança de terceiros, tomando em consideração todas as circunstâncias que permitam avaliar o comportamento profissional para as funções em causa.\n\n3 - A apreciação da idoneidade é efetuada pelo IAPMEI, I. P., com base em critérios de natureza objetiva, tomando por base informação tanto quanto possível completa sobre as funções passadas do interessado como profissional, as características mais salientes do seu comportamento e o contexto em que as suas decisões foram tomadas.\n\n4 - Na apreciação a que se referem os números anteriores, o IAPMEI, I. P., deve ter em consideração, à luz das finalidades preventivas do presente artigo, pelo menos, as seguintes circunstâncias, consoante a sua gravidade:\n\na) Indícios de que o candidato não agiu de forma transparente ou cooperante nas suas relações com quaisquer autoridades judiciais, de supervisão ou regulação, ordens profissionais ou organismos com funções análogas;\n\nb) Recusa, revogação, cancelamento ou cessação de registo, autorização, admissão ou licença para o exercício de uma atividade comercial, empresarial ou profissional, por autoridade de supervisão, ordem profissional ou organismo com funções análogas, ou destituição do exercício de um cargo por entidade pública;\n\nc) As razões que motivaram um despedimento, a cessação de um vínculo ou a destituição de um cargo que exija uma especial relação de confiança;\n\nd) Proibição, por autoridade judicial, autoridade de supervisão, ou organismo com funções análogas, de agir na qualidade de administrador ou gerente de uma sociedade civil ou comercial ou de nela desempenhar funções;\n\ne) Infrações de regras disciplinares, deontológicas ou de conduta profissional, no âmbito de atividades profissionais reguladas;\n\nf) Os resultados obtidos, do ponto de vista financeiro ou empresarial, por entidades geridas pela pessoa em causa ou em que esta tenha sido ou seja titular de uma participação que lhe confira poderes de controlo dessa entidade, tendo especialmente em conta quaisquer processos de recuperação, insolvência ou liquidação, e a forma como contribuiu para a situação que conduziu a tais processos;\n\ng) A insolvência, declarada por sentença nacional ou estrangeira, transitada em julgado, nos últimos 15 anos, da pessoa interessada ou de empresa por si dominada ou de que tenha sido administrador, diretor ou gerente, de direito ou de facto, ou membro do órgão de fiscalização;\n\nh) Condenação, com trânsito em julgado, no país ou no estrangeiro, por crime de furto, roubo, burla, burla informática e nas comunicações, extorsão, abuso de confiança, recetação, infidelidade, falsificação, falsas declarações, insolvência dolosa, frustração de créditos, insolvência negligente, favorecimento de credores, emissão de cheques sem provisão, abuso de cartão de garantia ou de crédito, apropriação ilegítima de bens do sector público ou cooperativo, administração danosa em unidade económica do sector público ou cooperativo, usura, suborno, corrupção, tráfico de influência, peculato, receção não autorizada de depósitos ou outros fundos reembolsáveis, prática ilícita de atos ou operações inerentes à atividade seguradora ou dos fundos de pensões, fraude fiscal ou outro crime tributário, branqueamento de capitais ou crime previsto no Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro, ou no Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro;\n\ni) Factos praticados na qualidade de administrador, diretor ou gerente de qualquer sociedade comercial que tenham determinado a condenação por danos causados à sociedade, a sócios, a credores sociais ou a terceiros;\n\nj) Ações cíveis, processos administrativos ou processos criminais, bem como quaisquer outras circunstâncias que, atento o caso concreto, possam ter um impacto significativo sobre a idoneidade da pessoa em causa.\n\n5 - No seu juízo valorativo, o IAPMEI, I. P., deve ter em consideração, à luz das finalidades preventivas do presente artigo, toda e qualquer circunstância cujo conhecimento lhe seja legalmente acessível e que, pela gravidade, frequência ou quaisquer outras características atendíveis, permitam fundar um juízo de prognose sobre as garantias que a pessoa em causa oferece em relação a uma atividade de mediação idónea.\n\n6 - A condenação, ainda que definitiva, por factos ilícitos de natureza criminal, contraordenacional ou outra não tem como efeito necessário a perda de idoneidade para o exercício de funções de mediador de recuperação de empresas, devendo a sua relevância ser ponderada, entre outros fatores, em função da natureza do ilícito cometido e da sua conexão com a atividade de mediação, do seu caráter ocasional ou reiterado e do nível de envolvimento pessoal da pessoa interessada, do benefício obtido por esta ou por pessoas com ela diretamente relacionadas, do prejuízo causado a instituições, aos seus clientes, aos seus credores ou a terceiros."
+  },
+  "174876614": {
+   "fragment_id": "174876566",
+   "type": 11,
+   "heading": "Artigo 6.º — Listas oficiais de mediadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Listas oficiais de mediadores\n\n1 - As listas oficiais de mediadores, uma por cada Centro de Apoio Empresarial, são públicas e disponibilizadas de forma permanente no sítio eletrónico do IAPMEI, I. P., e contêm o nome, o domicílio profissional, o endereço de correio eletrónico e o telefone profissional das pessoas habilitadas a exercer tal atividade na respetiva área de jurisdição.\n\n2 - Se o mediador for sócio de sociedade de auditoria, consultoria ou outra pessoa coletiva, a lista deve conter, para além dos elementos referidos no número anterior, a referência àquela qualidade e a identificação da respetiva sociedade.\n\n3 - A manutenção e atualização das listas oficiais de mediadores cabe ao IAPMEI, I. P.\n\n4 - A inscrição nas listas oficiais não investe os inscritos na qualidade de agente, nem garante o pagamento de qualquer remuneração por parte do IAPMEI, I. P., ou de qualquer outra entidade pública, com exceção do previsto no n.º 5 do artigo 22.º"
+  },
+  "174876615": {
+   "fragment_id": "174876567",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedido de inscrição na lista de mediadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedido de inscrição na lista de mediadores\n\n1 - A inscrição na lista de mediadores é solicitada ao IAPMEI, I. P., preferencialmente por meios eletrónicos, mediante requerimento acompanhado dos seguintes elementos:\n\na) Curriculum vitae;\n\nb) Certificado de habilitações académicas;\n\nc) Certificado do registo criminal;\n\nd) Declaração sobre o exercício de qualquer outra atividade remunerada e sobre a inexistência de qualquer das situações de incompatibilidade previstas na presente lei;\n\ne) Declaração de idoneidade;\n\nf) Certificado de aproveitamento em ação de formação em mediação de recuperação de empresas ministrada por entidade certificada para o efeito;\n\ng) Documento em que o interessado identifica as listas de mediadores que pretende integrar;\n\nh) Qualquer outro documento que o candidato considere relevante para instruir a sua candidatura.\n\n2 - Sem prejuízo do disposto no número anterior, o IAPMEI, I. P., pode, excecionalmente, solicitar ao interessado qualquer outro documento que repute como necessário para prova dos factos declarados.\n\n3 - No caso dos administradores judiciais e dos revisores oficiais de contas, a sua inscrição como mediador depende de requerimento dirigido ao IAPMEI, I. P., acompanhado de comprovativo da sua qualidade de administrador judicial ou de revisor oficial de contas apto ao exercício dessas funções e dos elementos referidos nas alíneas d), f) e g) do n.º 1.\n\n4 - Os interessados são dispensados da apresentação dos elementos instrutórios previstos no números anteriores, quando estes estejam em posse de qualquer autoridade administrativa pública nacional, devendo para o efeito indicar os dados necessários para a obtenção dos elementos instrutórios em questão e dar o seu consentimento para que o IAPMEI, I. P., proceda à respetiva obtenção, nos termos da alínea d) do artigo 5.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, alterado e republicado pelo Decreto-Lei n.º 73/2014, de 13 de maio.\n\n5 - Os mediadores devem manter atualizada a informação que, no momento da sua candidatura, seja prestada ao IAPMEI, I. P.\n\n6 - A DGPJ é a autoridade competente para o reconhecimento das qualificações profissionais adquiridas fora do território nacional, por cidadãos da União Europeia ou do Espaço Económico Europeu, nos termos da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, 25/2014, de 2 de maio, e 26/2017, de 30 de maio.\n\n7 - Verificadas as condições para o exercício da atividade de mediador de recuperação de empresas previstas na presente lei, os prestadores de serviços legalmente estabelecidos noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu podem exercer a atividade em Portugal, tendo em conta o disposto no Decreto-Lei n.º 92/2010, de 26 de julho."
+  },
+  "174876616": {
+   "fragment_id": "174876568",
+   "type": 11,
+   "heading": "Artigo 8.º — Formação em mediação de recuperação de empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formação em mediação de recuperação de empresas\n\n1 - Os mediadores devem fazer prova de aproveitamento em ação de formação em mediação de recuperação de empresas ministrada por entidade certificada para o efeito pela DGPJ.\n\n2 - A duração da ação de formação prevista no número anterior é estabelecida em portaria dos membros do Governo responsáveis pelas áreas da justiça e da economia.\n\n3 - Os membros do Governo responsáveis pelas áreas da justiça e da economia fixam, por portaria, os requisitos a preencher pelas entidades que pretendam certificar-se para ministrar as ações de formação referidas no número anterior, incluindo, entre outras, as competências dos formadores, os módulos de formação, que devem incluir necessariamente elementos de mediação e de direito da insolvência e das sociedades comerciais, e o método de avaliação."
+  },
+  "174876617": {
+   "fragment_id": "174876569",
+   "type": 11,
+   "heading": "Artigo 9.º — Processo de inscrição na lista de mediadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Processo de inscrição na lista de mediadores\n\n1 - O IAPMEI, I. P., delibera sobre o requerimento de inscrição nas listas oficiais de mediadores no prazo de 30 dias a contar da respetiva apresentação.\n\n2 - O prazo referido no número anterior suspende-se em caso de solicitação de informações ao candidato ou de regularização do requerimento.\n\n3 - Cada candidato pode requerer, livremente e sem qualquer limitação, a sua inscrição em mais do que uma lista oficial, havendo uma lista por cada Centro de Apoio Empresarial.\n\n4 - A inscrição deve ser renovada no termo do prazo de cinco anos a contar da respetiva inscrição, sob pena de caducidade.\n\n5 - O pedido de renovação da inscrição deve ser acompanhado dos elementos referidos no n.º 1 do artigo 7.º e, na decisão sobre a renovação, o IAPMEI, I. P., pondera, além das circunstâncias referidas nesse artigo, os elementos de informação de que disponha sobre o desempenho como mediador nos períodos anteriores, podendo recusar a renovação com fundamento, designadamente, no número de recusas de nomeação, salvo nos casos de recusas com os fundamentos previstos no n.º 3 do artigo 13.º, no número de processos de recuperação concluídos pelo mediador e no tempo médio da sua intervenção, bem como outros elementos que considere relevantes."
+  },
+  "174876618": {
+   "fragment_id": "174876570",
+   "type": 11,
+   "heading": "Artigo 10.º — Suspensão do exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Suspensão do exercício de funções\n\n1 - O mediador pode suspender o exercício da sua atividade pelo período máximo de dois anos, mediante requerimento dirigido ao IAPMEI, I. P., onde identifique, se for caso disso, os processos em que esteja envolvido e os respetivos intervenientes.\n\n2 - Sendo deferido o pedido de suspensão, o mediador deve comunicar tal deferimento às entidades envolvidas nos processos em que se encontra a exercer funções, para que se proceda à sua substituição.\n\n3 - O mediador substituído deve prestar toda a colaboração necessária que seja solicitada pelos mediadores que o substituam."
+  },
+  "174876619": {
+   "fragment_id": "174876571",
+   "type": 11,
+   "heading": "Artigo 11.º — Escusa e substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Escusa e substituição\n\n1 - O mediador pode, a todo o tempo, pedir escusa de um processo para o qual tenha sido nomeado, em caso de grave e temporária impossibilidade de exercício de funções ou da verificação subsequente de qualquer situação de impedimento ou incompatibilidade previstas na presente lei.\n\n2 - O pedido de escusa é apreciado pelo IAPMEI, I. P.\n\n3 - O mediador substituído deve prestar toda a colaboração necessária que seja solicitada pelos mediadores que o substituam."
+  },
+  "174876620": {
+   "fragment_id": "174876572",
+   "type": 11,
+   "heading": "Artigo 12.º — Acompanhamento, fiscalização e disciplina da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acompanhamento, fiscalização e disciplina da atividade\n\nCompete ao IAPMEI, I. P., proceder ao acompanhamento, fiscalização e disciplina da atividade dos mediadores, incluindo proceder à respetiva nomeação e destituição."
+  },
+  "174876621": {
+   "fragment_id": "174876573",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deveres\n\n1 - Os mediadores, no exercício das suas funções, devem atuar com independência e isenção, estando-lhes vedada a prática de quaisquer atos que, para seu benefício ou de terceiros, possam pôr em crise a recuperação da empresa e a satisfação dos interesses dos respetivos credores em cada um dos processos que lhes sejam confiados.\n\n2 - Os mediadores só devem aceitar as nomeações efetuadas pelo IAPMEI, I. P., caso disponham do tempo e dos meios necessários para o efetivo acompanhamento dos processos em que são nomeados.\n\n3 - Os mediadores têm o dever de comunicar ao IAPMEI, I. P., no prazo de cinco dias, a recusa de aceitação de qualquer nomeação sempre que considerem não dispor do tempo adequado em razão de outros processos de mediação em que estejam envolvidos, ou com fundamento na inexistência de meios, tendo em conta as caraterísticas da empresa, ou no facto de se encontrarem em alguma das situações de impedimento ou de incompatibilidade previstos na presente lei.\n\n4 - Os mediadores devem contratar seguro de responsabilidade civil que cubra o risco inerente ao exercício das suas funções, salvo se o risco estiver coberto por seguro, garantia ou instrumento equivalente subscrito ou prestado no Estado-Membro onde se encontrem estabelecidos, sendo o montante do risco coberto definido em portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia, e devem remeter ao IAPMEI, I. P., cópias das respetivas apólices, bem como comprovativos da sua renovação.\n\n5 - Os mediadores estão sujeitos ao pagamento das taxas devidas ao IAPMEI, I. P., a fixar por decreto-lei.\n\n6 - Os mediadores devem frequentar as ações de formação contínua definidas pelo IAPMEI, I. P., competindo a este estabelecer os protocolos que julgue necessários para esse efeito, designadamente com universidades e centros de formação profissional legalmente reconhecidos pelo IAPMEI, I. P., e pela DGPJ.\n\n7 - Os mediadores devem fornecer a informação necessária que possibilite a avaliação do seu desempenho, nos termos definidos pelo IAPMEI, I. P."
+  },
+  "174876622": {
+   "fragment_id": "174876574",
+   "type": 1,
+   "heading": "Capítulo III — Atividade dos mediadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Atividade dos mediadores"
+  },
+  "174876623": {
+   "fragment_id": "174876875",
+   "type": 11,
+   "heading": "Artigo 14.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Nomeação\n\n1 - Apenas podem ser nomeados mediadores para prestar assistência a um determinado devedor aqueles que constem das listas oficiais de mediadores.\n\n2 - O devedor interessado na intervenção de mediador deve apresentar requerimento nesse sentido ao IAPMEI, I. P., segundo formulário constante do sítio eletrónico do IAPMEI, I. P., acompanhado da informação empresarial simplificada dos últimos três anos.\n\n3 - O IAPMEI, I. P., deve proceder à nomeação do mediador no prazo de cinco dias a contar da receção do pedido.\n\n4 - A nomeação recai em mediador inscrito na lista oficial do Centro de Apoio Empresarial da área da sede da empresa que requeira a nomeação, por ordem sequencial da lista, voltando a nomear-se o primeiro da lista quando todos os anteriores hajam sido nomeados.\n\n5 - O mediador que recuse a nomeação não pode voltar a ser nomeado até que a ordem de nomeação volte à sua posição na lista, salvo quando a recusa se haja fundamentado na justificação referida no n.º 3 do artigo anterior.\n\n6 - Quando, em função dos elementos do requerimento, se constate que a empresa é de grande dimensão, que se encontra em relação de domínio ou de grupo com outras empresas que igualmente solicitaram a nomeação de um mediador, que o processo compreende um número elevado de credores ou que a respetiva atividade ou estrutura do passivo é de especial complexidade, o IAPMEI, I. P., pode, com observância do disposto no n.º 5 do artigo 4.º, designar um mediador que considere deter a experiência e meios adequados, de entre aqueles que se seguem na ordem da lista, mas não necessariamente aquele que imediatamente se segue.\n\n7 - Nos casos referidos no número anterior, as nomeações subsequentes voltam a seguir a ordem anterior, sendo o mediador que foi nomeado nos termos desse número preterido na respetiva ordem sequencial de nomeação."
+  },
+  "174876624": {
+   "fragment_id": "174876876",
+   "type": 11,
+   "heading": "Artigo 15.º — Exercício de funções no contexto do Processo Especial de Revitalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Exercício de funções no contexto do Processo Especial de Revitalização\n\nPor indicação do devedor, o mediador que haja participado na elaboração de uma proposta de plano de reestruturação pode assistir o devedor nas negociações previstas no n.º 9 do artigo 17.º-D do CIRE a realizar no processo especial de revitalização que seja iniciado por requerimento desse devedor."
+  },
+  "174876625": {
+   "fragment_id": "174876877",
+   "type": 11,
+   "heading": "Artigo 16.º — Princípio da voluntariedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Princípio da voluntariedade\n\n1 - A intervenção do mediador é facultativa.\n\n2 - Até ao início da negociação com os credores, o devedor pode fazer cessar em qualquer momento a intervenção do mediador, mediante comunicação ao mediador, da qual faz chegar cópia ao IAPMEI, I. P., preferencialmente por meios eletrónicos.\n\n3 - Após a assinatura do protocolo de negociação previsto no Regime Extrajudicial de Recuperação de Empresas (RERE), a cessação da intervenção do mediador depende do consentimento de credores que sejam parte no protocolo de negociação e que representem a maioria dos créditos aí representados."
+  },
+  "174876626": {
+   "fragment_id": "174876878",
+   "type": 11,
+   "heading": "Artigo 17.º — Deveres de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Deveres de comunicação\n\nO mediador tem o dever de comunicar ao IAPMEI, I. P., preferencialmente por meios eletrónicos, o encerramento do processo para o qual tenha sido nomeado, indicando o respetivo motivo."
+  },
+  "174876627": {
+   "fragment_id": "174876879",
+   "type": 11,
+   "heading": "Artigo 18.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competências\n\nCabe ao mediador analisar a situação económico-financeira do devedor, aferir conjuntamente com o devedor as suas perspetivas de recuperação, auxiliar o devedor na elaboração de uma proposta de acordo de reestruturação e nas negociações a estabelecer com os seus credores relativas à mesma."
+  },
+  "174876628": {
+   "fragment_id": "174876880",
+   "type": 11,
+   "heading": "Artigo 19.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dever de sigilo\n\n1 - O mediador deve manter sob sigilo todas as informações que lhe sejam facultadas pelo devedor, delas não podendo fazer uso em proveito próprio ou de outrem.\n\n2 - Sem prejuízo do disposto no número anterior, após a assinatura do protocolo de negociação previsto no RERE, o mediador tem o dever de assegurar que todos os credores que participam na negociação têm acesso equitativo a todas as informações relevantes para o bom andamento do processo de negociação, nomeadamente as que permitam realizar o diagnóstico da situação económico-financeira do devedor e aferir as suas perspetivas de recuperação."
+  },
+  "174876629": {
+   "fragment_id": "174876881",
+   "type": 11,
+   "heading": "Artigo 20.º — Princípio da igualdade e da imparcialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Princípio da igualdade e da imparcialidade\n\n1 - Os credores devem ser tratados de forma equitativa durante todo o procedimento de negociação, cabendo ao mediador gerir o procedimento de forma a garantir o equilíbrio e a transparência do mesmo.\n\n2 - O mediador deve agir com o devedor e os credores de forma imparcial durante toda a negociação."
+  },
+  "174876630": {
+   "fragment_id": "174876882",
+   "type": 11,
+   "heading": "Artigo 21.º — Atos vedados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Atos vedados\n\nNo decurso do exercício das funções de mediador e nos três anos seguintes à cessação dessas funções, o mediador não pode praticar os atos e as atividades seguintes:\n\na) Intermediação em negócios realizados entre o devedor e credores ou entre os credores do devedor, ou entre entidades em relação de domínio ou de grupo ou de simples participação com o devedor ou com algum dos seus credores;\n\nb) Assessoria ao devedor, a qualquer dos credores do devedor e a entidades em relação de domínio ou de grupo ou de simples participação com o devedor ou com algum dos seus credores."
+  },
+  "174876631": {
+   "fragment_id": "174876883",
+   "type": 1,
+   "heading": "Capítulo IV — Remuneração e pagamento do mediador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Remuneração e pagamento do mediador"
+  },
+  "174876632": {
+   "fragment_id": "174876884",
+   "type": 11,
+   "heading": "Artigo 22.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Remuneração\n\n1 - O mediador tem direito a ser remunerado pelo exercício das funções que lhe são cometidas, bem como ao reembolso das despesas necessárias ao cumprimento das mesmas, nos termos a ser fixados em decreto-lei.\n\n2 - A remuneração do mediador deve compreender uma componente base e uma componente a pagar em caso de conclusão de um acordo de reestruturação.\n\n3 - O pagamento da componente base da remuneração deve efetuar-se em três prestações, sendo a primeira após a nomeação, a segunda após a elaboração do plano de recuperação e a terceira após o encerramento do processo de negociação com os credores.\n\n4 - O pagamento da segunda componente deve ocorrer apenas em caso de celebração de um acordo com os credores.\n\n5 - São encargo da empresa a remuneração do mediador e o reembolso das despesas necessárias ao exercício da sua função, exceto se o acordo de reestruturação alcançado entre o devedor e os seus credores dispuser diversamente, caso em que prevalece o estabelecido no acordo, constituindo a primeira prestação da componente base encargo do IAPMEI, I. P."
+  },
+  "174876633": {
+   "fragment_id": "174876885",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares e finais"
+  },
+  "174876634": {
+   "fragment_id": "174876886",
+   "type": 11,
+   "heading": "Artigo 23.º — Competências sancionatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competências sancionatórias\n\n1 - Compete ao IAPMEI, I. P., instruir os processos de contraordenação relativos ao exercício de funções dos mediadores e aplicar as respetivas sanções.\n\n2 - Aos processos de contraordenação instaurados contra mediador aplica-se, subsidiariamente, o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "174876635": {
+   "fragment_id": "174876887",
+   "type": 11,
+   "heading": "Artigo 24.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sanções\n\n1 - O IAPMEI, I. P., pode, por deliberação fundamentada:\n\na) Suspender preventivamente o mediador contra o qual tenha sido instaurado processo contraordenacional, até à decisão dos referidos processos, a fim de prevenir a ocorrência de factos ilícitos;\n\nb) Remover provisoriamente o mediador da lista de mediadores ou destituí-lo de intervir em qualquer processo para o qual esteja nomeado;\n\nc) Admoestar, por escrito, o mediador que tenha violado de forma leve os deveres profissionais a que está adstrito nos termos da presente lei.\n\n2 - A aplicação de qualquer das sanções previstas no número anterior é sempre precedida de audiência do interessado, estando os prazos do procedimento sujeitos ao estabelecido no capítulo v do Código de Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.\n\n3 - A aplicação de sanções ao abrigo da presente lei não obsta à adoção de medidas provisórias, nos termos dos artigos 89.º e 90.º do CPA.\n\n4 - A empresa e os seus credores podem comunicar ao IAPMEI, I. P., a violação por parte destes de quaisquer deveres a que os mesmos estejam sujeitos, para eventual aplicação de sanção ou instauração de processo de contraordenação."
+  },
+  "174876636": {
+   "fragment_id": "174876888",
+   "type": 11,
+   "heading": "Artigo 25.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contraordenações\n\n1 - O exercício de funções de mediador em violação do preceituado nos artigos 4.º ou 5.º, bem como o exercício de funções durante o período de suspensão ou após o cancelamento da inscrição, constitui contraordenação punível com coima de (euro) 2500 a (euro) 100 000.\n\n2 - A violação pelo mediador dos deveres previstos nos n.os 1 ou 6 do artigo 13.º, por ação ou omissão por ele praticada, constitui contraordenação punível com coima de (euro) 5000 a (euro) 200 000.\n\n3 - A violação de qualquer dever de informação previsto no presente estatuto ou na lei a cujo cumprimento esteja adstrito o mediador constitui contraordenação punível com coima de (euro) 1000 a (euro) 25 000.\n\n4 - A violação de qualquer outro dever previsto no presente estatuto ou na lei a cujo cumprimento esteja obrigado o mediador constitui contraordenação punível com coima de (euro) 1000 a (euro) 10 000."
+  },
+  "174876637": {
+   "fragment_id": "174876889",
+   "type": 11,
+   "heading": "Artigo 26.º — Regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regime contraordenacional\n\n1 - Os ilícitos de mera ordenação social previstos na presente lei são imputados a título de dolo ou de negligência.\n\n2 - A negligência é punível, sendo os limites mínimo e máximo das coimas previstas no artigo anterior reduzidos para metade.\n\n3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.\n\n4 - A determinação da coima concreta e das sanções acessórias faz-se em função da ilicitude concreta do facto, da culpa do agente, dos benefícios obtidos e das exigências de prevenção.\n\n5 - Na determinação da ilicitude concreta do facto e da culpa das pessoas atende-se, entre outras, às seguintes circunstâncias:\n\na) O perigo ou o dano causados ao devedor e aos credores do processo em que o facto foi praticado;\n\nb) O caráter ocasional ou reiterado da infração;\n\nc) A existência de atos de ocultação tendentes a dificultar a descoberta da infração;\n\nd) A existência de atos do agente destinados a, por sua iniciativa, reparar os danos ou obviar aos perigos causados pela infração;\n\ne) A intenção de obter, para si ou para outrem, um benefício ilegítimo ou de causar danos.\n\n6 - Na determinação da sanção aplicável são ainda tomadas em consideração a situação económica e a conduta anterior do agente.\n\n7 - Sempre que o ilícito de mera ordenação social resulte da omissão de um dever, o pagamento da coima ou o cumprimento da sanção acessória não dispensam o infrator do cumprimento daquele, se tal ainda for possível."
+  },
+  "174876638": {
+   "fragment_id": "174876890",
+   "type": 11,
+   "heading": "Artigo 27.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Sanções acessórias\n\n1 - Cumulativamente com as coimas previstas no artigo anterior, podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no regime geral do ilícito de mera ordenação social, as seguintes sanções acessórias:\n\na) Apreensão e perda do objeto da infração, incluindo o produto do benefício obtido pelo infrator através da prática da contraordenação;\n\nb) Interdição temporária do exercício pelo infrator da atividade de mediador;\n\nc) Cancelamento da inscrição para o exercício da atividade de mediador.\n\n2 - As sanções referidas nas alíneas b) e c) do número anterior não podem ter duração superior a cinco anos, contados da decisão condenatória definitiva."
+  },
+  "174876639": {
+   "fragment_id": "174876891",
+   "type": 11,
+   "heading": "Artigo 28.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Distribuição do produto das coimas\n\nO produto das coimas previstas na presente lei é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 40 % para o IAPMEI, I. P."
+  },
+  "174876640": {
+   "fragment_id": "174876892",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "174876644": {
+   "fragment_id": "174876565",
+   "type": 11,
+   "heading": "Artigo 5.º — Idoneidade",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 5.º — Idoneidade\n\n1 - Cada candidato a mediador deve emitir, aquando da sua candidatura ao exercício da atividade, declaração escrita, dirigida ao IAPMEI, I. P., atestando que dispõe da aptidão necessária para o exercício da mesma, e que conduz a sua vida pessoal e profissional de forma idónea.\n\n2 - Na avaliação da idoneidade, o IAPMEI, I. P., deve ter em conta o modo como a pessoa gere habitualmente os negócios, profissionais ou pessoais, ou exerce a profissão, em especial nos aspetos que revelem a sua capacidade para decidir de forma ponderada e criteriosa, ou a sua tendência para cumprir pontualmente as suas obrigações ou para ter comportamentos compatíveis com a preservação da confiança de terceiros, tomando em consideração todas as circunstâncias que permitam avaliar o comportamento profissional para as funções em causa.\n\n3 - A apreciação da idoneidade é efetuada pelo IAPMEI, I. P., com base em critérios de natureza objetiva, tomando por base informação tanto quanto possível completa sobre as funções passadas do interessado como profissional, as características mais salientes do seu comportamento e o contexto em que as suas decisões foram tomadas.\n\n4 - Na apreciação a que se referem os números anteriores, o IAPMEI, I. P., deve ter em consideração, à luz das finalidades preventivas do presente artigo, pelo menos, as seguintes circunstâncias, consoante a sua gravidade:\n\na) Indícios de que o candidato não agiu de forma transparente ou cooperante nas suas relações com quaisquer autoridades judiciais, de supervisão ou regulação, ordens profissionais ou organismos com funções análogas;\n\nb) Recusa, revogação, cancelamento ou cessação de registo, autorização, admissão ou licença para o exercício de uma atividade comercial, empresarial ou profissional, por autoridade de supervisão, ordem profissional ou organismo com funções análogas, ou destituição do exercício de um cargo por entidade pública;\n\nc) As razões que motivaram um despedimento, a cessação de um vínculo ou a destituição de um cargo que exija uma especial relação de confiança;\n\nd) Proibição, por autoridade judicial, autoridade de supervisão, ou organismo com funções análogas, de agir na qualidade de administrador ou gerente de uma sociedade civil ou comercial ou de nela desempenhar funções;\n\ne) Infrações de regras disciplinares, deontológicas ou de conduta profissional, no âmbito de atividades profissionais reguladas;\n\nf) Os resultados obtidos, do ponto de vista financeiro ou empresarial, por entidades geridas pela pessoa em causa ou em que esta tenha sido ou seja titular de uma participação que lhe confira poderes de controlo dessa entidade, tendo especialmente em conta quaisquer processos de recuperação, insolvência ou liquidação, e a forma como contribuiu para a situação que conduziu a tais processos;\n\ng) A insolvência, declarada por sentença nacional ou estrangeira, transitada em julgado, nos últimos 15 anos, da pessoa interessada ou de empresa por si dominada ou de que tenha sido administrador, diretor ou gerente, de direito ou de facto, ou membro do órgão de fiscalização;\n\nh) Condenação, com trânsito em julgado, no país ou no estrangeiro, por crime de furto, roubo, burla, burla informática e nas comunicações, extorsão, abuso de confiança, recetação, infidelidade, falsificação, falsas declarações, insolvência dolosa, frustração de créditos, insolvência negligente, favorecimento de credores, emissão de cheques sem provisão, abuso de cartão de garantia ou de cartão, dispositivo ou dados de pagamento, apropriação ilegítima de bens do sector público ou cooperativo, administração danosa em unidade económica do sector público ou cooperativo, usura, suborno, corrupção, tráfico de influência, peculato, receção não autorizada de depósitos ou outros fundos reembolsáveis, prática ilícita de atos ou operações inerentes à atividade seguradora ou dos fundos de pensões, fraude fiscal ou outro crime tributário, branqueamento de capitais, contrafação de cartões ou outros dispositivos de pagamento, uso de cartões ou outros dispositivos de pagamento contrafeitos, aquisição de cartões ou outros dispositivos de pagamento contrafeitos, atos preparatórios da contrafação, aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático, ou crime previsto no Código das Sociedades Comerciais ou no Código dos Valores Mobiliários.\n\ni) Factos praticados na qualidade de administrador, diretor ou gerente de qualquer sociedade comercial que tenham determinado a condenação por danos causados à sociedade, a sócios, a credores sociais ou a terceiros;\n\nj) Ações cíveis, processos administrativos ou processos criminais, bem como quaisquer outras circunstâncias que, atento o caso concreto, possam ter um impacto significativo sobre a idoneidade da pessoa em causa.\n\n5 - No seu juízo valorativo, o IAPMEI, I. P., deve ter em consideração, à luz das finalidades preventivas do presente artigo, toda e qualquer circunstância cujo conhecimento lhe seja legalmente acessível e que, pela gravidade, frequência ou quaisquer outras características atendíveis, permitam fundar um juízo de prognose sobre as garantias que a pessoa em causa oferece em relação a uma atividade de mediação idónea.\n\n6 - A condenação, ainda que definitiva, por factos ilícitos de natureza criminal, contraordenacional ou outra não tem como efeito necessário a perda de idoneidade para o exercício de funções de mediador de recuperação de empresas, devendo a sua relevância ser ponderada, entre outros fatores, em função da natureza do ilícito cometido e da sua conexão com a atividade de mediação, do seu caráter ocasional ou reiterado e do nível de envolvimento pessoal da pessoa interessada, do benefício obtido por esta ou por pessoas com ela diretamente relacionadas, do prejuízo causado a instituições, aos seus clientes, aos seus credores ou a terceiros.\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "174876641": {
+   "fragment_id": "174876893",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 15 de dezembro de 2017.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 6 de fevereiro de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 14 de fevereiro de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111142379"
+  }
+ }
+}

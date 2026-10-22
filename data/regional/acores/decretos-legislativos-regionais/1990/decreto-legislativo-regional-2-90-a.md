@@ -1,0 +1,312 @@
+---
+schema_version: '1.0'
+id: pt:dre:333541:por
+title: Decreto Legislativo Regional n.º 2/90/A
+short_title: null
+summary: Estabelece o regime de celebração de contratos-programa de desenvolvimento de natureza sectorial ou plurissectorial
+  entre a administração regional autónoma dos Açores e os municípios da Região
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 2/90/A
+official_date: null
+publication_date: '1990-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 15/1990, Série I de 1990-01-18
+  number: '15'
+  series: I
+  supplement: null
+  pages: 269 - 272
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/01/01500/02690272.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '333541'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/2-1990-333541
+  internal: pt:dre:333541:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1990-333541
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1990-333541
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-04-28T00:00:00Z'
+integrity:
+  source_sha256: 5efd3f093d75b8cd55c37ee8d119c9ee75098284912cbb6f5ab7e920c6e0386c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1990/DRE-1990-2-333541.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:223179:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 19
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 2/90/A
+
+Regime de celebração de contratos-programa no âmbito de cooperação técnica e financeira entre a administração regional autónoma e a administração local.
+
+A cooperação técnica e financeira entre a administração regional autónoma dos Açores e as autarquias locais da Região vem-se realizando desde 1981 através do [Decreto Regional n.º 3/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1981-389440), de 4 de Abril, alterado pelo [Decreto Legislativo Regional n.º 4/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1983-309928), de 9 de Março, e posteriormente pelo [Decreto Legislativo Regional n.º 1/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1985-324962), de 25 de Março, que revogou aqueles e se mantém actualmente em vigor.
+
+O presente decreto legislativo regional visa actualizar e melhorar os esquemas de cooperação e colaboração entre as duas administrações, aplicando simultaneamente à Região o [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro (conforme se prevê no seu artigo 18.º), publicado de acordo com a [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), de 6 de Janeiro (Lei das Finanças Locais).
+
+Assim:
+
+A Assembleia Legislativa Regional dos Açores decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição e na alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente diploma estabelece o regime de celebração de contratos-programa de desenvolvimento de natureza sectorial ou plurissectorial entre a administração regional autónoma dos Açores e os municípios da Região, nos domínios definidos nos n.os 2 e 3 do artigo 2.º
+
+2 - Os contratos de desenvolvimento entre a administração regional autónoma e a administração local, adiante abreviadamente designados por contratos ARAAL, constituem instrumentos orientadores de investimentos públicos no quadro dos objectivos da política de desenvolvimento regional, podendo revestir as seguintes modalidades:
+
+a) Contratos de cooperação técnica e financeira da administração regional na realização de investimentos do âmbito das competências das autarquias locais;
+
+b) Contratos de colaboração das autarquias locais na realização de investimentos do âmbito das competências da administração regional;
+
+c) Contratos de coordenação das actuações da administração regional e das autarquias locais na realização de investimentos integrados que respeitem conjuntamente às competências da administração regional e das autarquias locais.
+
+3 - No caso de o objecto do contrato ARAAL incluir a execução de projectos que possam beneficiar entidades públicas e privadas ou empresas públicas, podem estas ser admitidas como partes contratantes.
+
+4 - O regime estabelecido neste diploma é também aplicável às associações e federações de municípios ou empresas concessionárias destes.
+
+###### Artigo 2.º — Objecto
+
+1 - Constitui objecto dos contratos ARAAL a execução de um projecto ou conjunto de projectos de investimento que envolvam, técnica e financeiramente, um ou mais municípios e departamentos da administração regional.
+
+2 - No âmbito da cooperação a que se refere a alínea a) do n.º 2 artigo 1.º, os contratos ARAAL têm por objecto a execução de investimentos nos seguintes domínios:
+
+a) Ordenamento municipal do território, incluindo a elaboração dos planos respectivos;
+
+b) Saneamento básico, compreendendo sistemas de captação, adução, armazenagem e distribuição de água a sistemas de águas residuais e pluviais, excluindo a rede domiciliária, bem como sistemas de recolha, transporte e tratamento de resíduos sólidos;
+
+c) Infra-estruturas municipais de transportes, designadamente no que toca à construção e reparação da rede viária municipal e respectivo equipamento;
+
+d) Construção, reconstrução ou grandes reparações de edifícios sede de municípios e de juntas de freguesia cujo investimento revista carácter urgente, tendo em vista assegurar a funcionalidade dos órgãos municipais.
+
+3 - Os contratos ARAAL a celebrar no âmbito da colaboração prevista na alínea b) do n.º 2 do artigo 1.º podem ter por objecto a realização de investimentos nas seguintes áreas:
+
+a) Ambiente e recursos naturais, visando, nomeadamente, a manutenção e recuperação da orla marítima e das margens de lagoas e recursos de água, a instalação de sistemas de despoluição ou redução de cargas poluentes do ambiente e a protecção e conservação da Natureza;
+
+b) Abastecimento de água das explorações agrícolas;
+
+c) Educação e ensino;
+
+d) Cultura e desporto;
+
+e) Juventude, através da criação de infra-estruturas de apoio necessárias;
+
+f) Habitação;
+
+g) Outros domínios respeitantes à promoção do desenvolvimento regional, incluindo infra-estruturas de apoio ao investimento produtivo e formação profissional.
+
+4 - A coordenação prevista na alínea c) do n.º 2 do artigo 1.º concretiza-se através da celebração de contratos ARAAL cujo objecto respeite à execução de projectos integrados de investimento que, envolvendo competências conjuntas da administração regional e dos municípios, tenham a ver com alguma das áreas definidas nos n.os 2 e 3 deste artigo.
+
+###### Artigo 3.º — Acordos de cooperação, colaboração ou coordenação
+
+1 - Sem prejuízo do disposto na alínea d) do n.º 2 do artigo 2.º, a realização de projectos em cooperação, colaboração ou coordenação com as juntas de freguesia, desde que não respeitantes a investimentos que tenham sido nelas delegados pelo município, pode concretizar-se através da celebração de simples acordos entre os departamentos regionais competentes e as entidades autárquicas referidas, não se lhes aplicando o regime estabelecido para os contratos ARAAL.
+
+2 - O disposto no número anterior aplica-se, igualmente, à realização de projectos de cooperação, colaboração ou coordenação meramente técnica com os municípios, excepto no domínio definido na alínea a) do n.º 2 do artigo 2.º
+
+###### Artigo 4.º — Responsabilidade de execução
+
+A responsabilidade de execução dos empreendimentos compete à entidade designada como dono da obra pelos subscritores do contrato ARAAL.
+
+### CAPÍTULO II — Formação do contrato
+
+###### Artigo 5.º — Propostas da iniciativa dos municípios
+
+1 - As propostas respeitantes à cooperação técnico-financeira nos domínios referidos no n.º 2 do artigo 2.º são da iniciativa dos municípios, em termos a definir através de decreto regulamentar regional, nomeadamente no que toca aos critérios de selecção das propostas, às modalidades e percentagens de comparticipação e demais condições tidas por convenientes, devendo privilegiar-se as soluções intermunicipais.
+
+2 - O diploma a que se refere o número anterior poderá ainda prever e regulamentar a apresentação de propostas de coordenação de investimentos por parte dos municípios em domínios que, embora não sejam da sua competência exclusiva, estejam relacionados com as áreas definidas no n.º 2 do artigo 2.º
+
+3 - As propostas de contratos ARAAL referidas nos números anteriores são apresentadas à Secretaria Regional da Administração Interna (SRAI), cabendo a esta apreciá-las, promover as diligências necessárias à celebração dos contratos e elaborar as minutas respectivas.
+
+###### Artigo 6.º — Propostas da iniciativa da administração regional
+
+1 - A administração regional pode tomar a iniciativa da propositura de contratos ARAAL com vista à realização de investimentos em colaboração ou coordenação com os municípios, nos termos a definir de acordo com o disposto no n.º 3 deste artigo.
+
+2 - As propostas referidas no número anterior, bem como as minutas dos contratos respectivos, são elaboradas e apresentadas aos municípios pela SRAI, em articulação com os departamentos regionais competentes nos sectores abrangidos.
+
+3 - Mediante resolução do Governo Regional serão definidos os investimentos que poderão ser realizados em colaboração ou coordenação com os municípios, os departamentos regionais intervenientes em função dos sectores abrangidos, os critérios de repartição das responsabilidades de financiamento e demais condições tidas por convenientes, nomeadamente os critérios de selecção a utilizar, quando se trate de investimentos que possam interessar a vários municípios.
+
+###### Artigo 7.º — Apoio técnico
+
+No caso de propostas da iniciativa dos municípios, podem estes solicitar apoio técnico à administração regional em qualquer fase da elaboração dos projectos, através da SRAI, a qual canalizará os pedidos para os departamentos regionais competentes em função da matéria.
+
+###### Artigo 8.º — Limites de admissibilidade e financiamento
+
+1 - As propostas de contratos ARAAL da iniciativa dos municípios só serão consideradas desde que o custo global do projecto ou conjunto de projectos de investimento seja igual ou superior a 15% das verbas atribuídas, a título de transferência de capital do Fundo de Equilíbrio Financeiro constante do último Orçamento do Estado, ao município ou conjunto de municípios a que respeite o projecto.
+
+2 - Constitui critério de preferência absoluta na selecção de propostas da iniciativa dos municípios, desde que cumpridos os demais requisitos exigidos, localizarem-se os projectos em áreas abrangidas por plano municipal de ordenamento do território plenamente eficaz.
+
+3 - A comparticipação financeira da administração regional no custo total dos investimentos objecto de contratos ARAAL, quando a mesma não for designada dono da obra, não abrange os encargos resultantes de erros ou omissões do projecto e de trabalhos a mais, excepto em casos devidamente fundamentados, a apreciar pelo departamento regional ou entidade a que se refere o n.º 1 do artigo 15.º até ao limite de 20% do orçamento inicial da obra.
+
+4 - A cooperação financeira da administração regional em investimentos objecto de contratos ARAAL poderá revestir as modalidades de participação por empréstimos contraídos pelos municípios para financiamento desses investimentos.
+
+5 - Nos investimentos da competência exclusiva dos municípios a participação financeira directa da administração regional não poderá exceder 90% dos respectivos custos totais.
+
+###### Artigo 9.º — Conteúdo das propostas
+
+Sem prejuízo das adaptações devidas em função da natureza dos investimentos, as propostas devem integrar os seguintes elementos:
+
+a) Relatório de apresentação do empreendimento que contemple os seguintes aspectos:
+
+1) Memória descritiva e justificativa das soluções preconizadas;
+
+2) Objectivos dos projectos e quantificação dos resultados, em termos de população servida e dos efeitos produzidos, nomeadamente no âmbito sócio-económico;
+
+3) Cálculos, medições e descrição técnica necessária à sua apreciação;
+
+4) Planta de localização;
+
+5) Programação física e financeira;
+
+6) Importância do projecto no contexto regional ou local;
+
+7) Análise de carácter complementar dos empreendimentos, em articulação com outros de iniciativa pública ou privada;
+
+b) Estudos e projectos técnicos já elaborados e, sendo caso disso, pareceres sobre os mesmos emitidos por entidades com atribuições nos domínios em causa;
+
+c) Identificação das potenciais entidades contratantes;
+
+d) Titularidade dos bens patrimoniais e dos equipamentos públicos a construir;
+
+e) Identificação das entidades gestoras dos sistemas a construir, respectivo estatuto jurídico, ou propostas para a sua criação, caracterizando a solução preconizada;
+
+f) Estimativa dos volumes anuais do investimento, face ao calendário previsto para a execução dos projectos;
+
+g) Estimativa, quando aplicável, dos fluxos financeiros de receita e despesa anualmente gerados, a partir do início da exploração das infra-estruturas ou equipamentos;
+
+h) Proposta de modelo de financiamento, abrangendo as fases de primeiro investimento e exploração.
+
+###### Artigo 10.º — Celebração de contratos
+
+1 - Os contratos ARAAL são celebrados entre a SRAI e os outros departamentos regionais competentes em função dos sectores abrangidos, da parte da administração regional, e as autarquias locais interessadas, sem prejuízo do disposto no n.º 4 do artigo 1.º deste diploma.
+
+2 - Os contratos ARAAL só podem ser celebrados depois de os investimentos respectivos serem aprovados e incluídos no plano de actividades e orçamento dos municípios e desde que, tendo dotação no orçamento da Região, lhes sejam afectas as verbas correspondentes.
+
+3 - Os contratos ARAAL celebrados ao abrigo do presente diploma, bem como as suas revisões e alterações, são publicados na 2.ª série do Jornal Oficial, não carecendo de visto do Tribunal de Contas.
+
+###### Artigo 11.º — Conteúdo dos contratos
+
+1 - Os contratos ARAAL devem ter o seguinte conteúdo:
+
+a) Objecto do contrato;
+
+b) Período de vigência do contrato, com as datas dos respectivos início e termo;
+
+c) Direitos e obrigações das partes contratantes;
+
+d) Definição dos instrumentos financeiros utilizáveis;
+
+e) Quantificação da responsabilidade de financiamento de cada uma das partes;
+
+f) Estrutura de acompanhamento e controlo da execução do contrato;
+
+g) Penalização face a situações de incumprimento por qualquer das partes contratantes.
+
+2 - As alterações dos contratos ARAAL requerem o acordo de todos os contraentes, excepto se o próprio contrato o dispensar.
+
+### CAPÍTULO III — Revisão e resolução do contrato
+
+###### Artigo 12.º — Revisão dos contraentes
+
+Ocorrendo desactualização dos calendários de realização originada pela alteração anormal e imprevisível das circunstâncias que determinaram os termos do contrato ARAAL, ou face a quaisquer outras consequências provenientes daquela alteração, deverá ser proposta a sua revisão pela parte que, nos termos do contrato, seja responsável pela execução dos investimentos ou das acções que constituem o objecto do contrato.
+
+###### Artigo 13.º — Resolução dos contratos
+
+1 - Qualquer dos contraentes pode resolver o contrato ARAAL quando ocorra alguma das cláusulas de resolução nele contidas.
+
+2 - Resolvido um contrato ARAAL, as eventuais propostas de celebração de novo contrato para realização, total ou parcial, de projectos de investimento abrangidos pelo primeiro devem ser instruídas com relatório detalhado das causas que motivaram a sua resolução e responsabilidades de cada uma das partes pelo seu não cumprimento.
+
+### CAPÍTULO IV — Execução do contrato
+
+###### Artigo 14.º — Coordenação
+
+A coordenação da realização dos empreendimentos plurissectoriais será exercida em termos a definir no contrato ARAAL.
+
+###### Artigo 15.º — Norma financeira
+
+1 - Serão anualmente inscritas no orçamento da Região as verbas necessárias para assegurar a participação financeira da administração regional na execução dos projectos de investimento objecto de contratos ARAAL.
+
+2 - As verbas destinadas à celebração de contratos ARAAL serão discriminadas nos programas correspondentes e a sua afectação a cada empreendimento será determinada por portaria ou resolução do Governo Regional, consoante envolva um ou mais de um departamento regional.
+
+3 - O processamento da participação financeira da administração regional será efectuado a favor do dono da obra após publicação do contrato e mediante a apresentação dos necessários documentos comprovativos da despesa ou de pedidos de adiantamento, devidamente verificados.
+
+4 - Relativamente aos contratos ARAAL celebrados no âmbito da cooperação técnica e financeira a que se refere a alínea a) do n.º 2 do artigo 1.º, as dotações serão sempre inscritas no orçamento da SRAI.
+
+###### Artigo 16.º — Acompanhamento e relatórios de execução
+
+1 - Serão elaborados pelo departamento regional ou outra entidade responsável pelo acompanhamento e controlo de execução da obra, nos termos do contrato celebrado, relatórios anuais e finais de síntese, ficando as partes envolvidas obrigadas a fornecer a informação necessária.
+
+2 - Os relatórios referidos no número anterior serão remetidos à SRAI, quando a respectiva elaboração não seja da sua competência, para efeitos de preparação por parte deste departamento regional de documento contendo a apresentação e avaliação dos resultados globais anualmente conseguidos através da celebração de contratos ARAAL.
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+###### Artigo 17.º — Norma transitória
+
+O disposto no presente diploma não prejudica a validade de situações de cooperação, colaboração ou coordenação anteriormente estabelecidas, as quais continuam a reger-se pela legislação ao abrigo da qual foram constituídas.
+
+###### Artigo 18.º — Regulamentação
+
+O presente diploma será regulamentado no prazo de 90 dias após a data da sua publicação.
+
+###### Artigo 19.º — Legislação anterior
+
+Mantêm-se transitoriamente em vigor os diplomas que estabeleçam modalidades ou regimes de cooperação ou colaboração entre a administração regional e as autarquias locais, nomeadamente o [Decreto Legislativo Regional n.º 1/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1985-324962), de 25 de Março, e os Decretos Regulamentares Regionais n.os [11/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1985-151885), de 3 de Junho, e [2/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1988-583788), de 9 de Janeiro, bem como o n.º 2 do artigo 2.º do [Decreto Legislativo Regional n.º 33/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-1984-400423), de 6 de Novembro, enquanto não for publicada a regulamentação necessária à execução do presente diploma nos domínios a que aqueles se referem.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 29 de Novembro de 1989.
+
+**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+
+**Assinado em Angra do Heroísmo em 26 de Dezembro de 1989.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**

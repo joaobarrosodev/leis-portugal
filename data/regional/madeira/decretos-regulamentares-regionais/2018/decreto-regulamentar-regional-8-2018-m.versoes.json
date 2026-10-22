@@ -1,0 +1,436 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:115578265:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2018-176075769",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/8-2018-115578265",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176126220",
+    "176126221",
+    "176126222",
+    "176126223",
+    "176126224",
+    "176126225",
+    "176126226",
+    "176126227",
+    "176126228",
+    "176126229",
+    "176126230",
+    "176126231",
+    "176126232",
+    "176126233",
+    "176126234",
+    "176126235",
+    "176126236",
+    "176126237",
+    "176126238",
+    "176126239",
+    "176126240",
+    "176126241",
+    "176126242",
+    "176126243",
+    "176126244",
+    "176126245"
+   ]
+  },
+  {
+   "date": "2021-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176075698:por",
+     "title": "Decreto Regulamentar Regional n.º 14/2021/M",
+     "published": "2021-12-17",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "176126220",
+    "176126221",
+    "176126247",
+    "176126223",
+    "176126248",
+    "176126225",
+    "176126249",
+    "176126250",
+    "176126228",
+    "176126251",
+    "176126252",
+    "176126253",
+    "176126254",
+    "176126233",
+    "176126255",
+    "176126235",
+    "176126236",
+    "176126256",
+    "176126238",
+    "176126239",
+    "176126240",
+    "176126241",
+    "176126257",
+    "176126258",
+    "176126244",
+    "176126245",
+    "176126246"
+   ]
+  }
+ ],
+ "fragments": {
+  "176126220": {
+   "fragment_id": "176075770",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 8/2018/M\n\nRegulamenta o regime de celebração de Acordos de Faturação no Serviço Regional de Saúde\n\nO Estatuto do Sistema Regional de Saúde, aprovado pelo Decreto Legislativo Regional n.º 4/2003/M, de 7 de abril, alterado e republicado pelo Decreto Legislativo Regional n.º 23/2008/M, de 23 de junho, na redação atual, prevê, grosso modo, a possibilidade de celebração de contratos com profissionais ou grupos de profissionais de saúde para assegurarem, no âmbito do Serviço Regional de Saúde, a prestação de cuidados de saúde.\n\nCom efeito, o Instituto de Administração da Saúde, IP-RAM (IASAÚDE, IP-RAM), tem vindo, ao longo dos anos, a celebrar acordos de faturação com algumas entidades privadas, nas diversas áreas, para a prestação de cuidados de saúde, máxime, no tocante à realização de Exames Complementares de Diagnóstico e Terapêutica, vulgo MCDT. A implementação desse instrumento jurídico contratual permite ao utente, de harmonia com o seu sistema de saúde e em conformidade com o tipo de requisição, beneficiar da comparticipação imediata do IASAÚDE, IP-RAM, em consonância com as tabelas em vigor.\n\nPor seu turno, pese embora os acordos atualmente existentes, importa instituir no Serviço Regional de Saúde um quadro legal que presida à consagração normativa dos acordos de faturação, dotando-os das estruturas e elementos técnicos e dos instrumentos jurídicos indispensáveis à sua plena materialização na Região Autónoma da Madeira, adequando-o à hodierna envolvente do sistema prestador de cuidados a nível regional.\n\nNesta decorrência, impõe-se regulamentar um regime de acordos de faturação para o Serviço Regional de Saúde que, entre outros aspetos, determine as condições de adesão, os direitos e deveres das entidades contratualizadas e o respetivo acompanhamento e controlo, de modo a potenciar e conferir maior equidade e melhor qualidade no acesso dos utentes aos cuidados de saúde.\n\nAssim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e do artigo 22.º do Estatuto do Sistema Regional de Saúde, aprovado pelo Decreto Legislativo Regional n.º 4/2003/M, de 7 de abril, alterado e republicado pelo Decreto Legislativo Regional n.º 23/2008/M, de 23 de junho, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "176126221": {
+   "fragment_id": "176075771",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "176126222": {
+   "fragment_id": "176075772",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nO presente diploma regulamenta o regime de celebração de acordos de faturação que tenham por objeto a prestação de cuidados de saúde aos beneficiários do Serviço Regional de Saúde da Região Autónoma da Madeira, adiante abreviadamente designado por SRS-Madeira."
+  },
+  "176126223": {
+   "fragment_id": "176075773",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários do SRS-Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários do SRS-Madeira\n\n1 - Para efeitos do presente diploma, são beneficiários do SRS-Madeira todos os cidadãos portugueses residentes na Região Autónoma da Madeira, que não sejam portadores de subsistemas públicos de saúde.\n\n2 - São, ainda, beneficiários do SRS-Madeira, para efeitos do presente diploma, os cidadãos estrangeiros residentes na Região Autónoma da Madeira, cuja entidade financeira responsável seja o SRS-Madeira."
+  },
+  "176126224": {
+   "fragment_id": "176075774",
+   "type": 11,
+   "heading": "Artigo 3.º — Prestação de cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prestação de cuidados de saúde\n\nA prestação de cuidados de saúde efetiva-se mediante prescrição médica, com origem no setor privado de saúde e escolha pelo beneficiário do SRS-Madeira de entre os prestadores aderentes."
+  },
+  "176126225": {
+   "fragment_id": "176128675",
+   "type": 1,
+   "heading": "Capítulo II — Princípios, finalidades e partes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Princípios, finalidades e partes"
+  },
+  "176126226": {
+   "fragment_id": "176128676",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios e objetivos\n\n1 - A contratação através da celebração de acordos de faturação deve obedecer aos seguintes princípios:\n\na) Liberdade de escolha dos prestadores pelos beneficiários, de acordo com as regras de organização estabelecidas, sem encaminhamento prévio pelo serviço público de saúde;\n\nb) Equidade no acesso dos beneficiários aos cuidados de saúde;\n\nc) Complementaridade na garantia das prestações de cuidados de saúde entre os prestadores com acordo de faturação e o serviço público;\n\nd) Garantia de adequados padrões de qualidade na prestação de cuidados de saúde.\n\n2 - A contratação através de acordos de faturação deve prosseguir os seguintes objetivos:\n\na) Prontidão, continuidade e qualidade na prestação de cuidados de saúde;\n\nb) Obtenção de ganhos de eficiência na distribuição e afetação de recursos do Sistema Regional de Saúde;\n\nc) Promoção da qualidade dos serviços prestados, através da exigência do licenciamento, quando aplicável e, complementarmente, através da indexação de padrões de qualidade ao financiamento.\n\n3 - O recurso à prestação de cuidados de saúde ao abrigo de acordos de faturação, nos termos do presente diploma, não pode pôr em causa o racional aproveitamento da capacidade instalada no setor público, nem prejudicar a garantia da acessibilidade àqueles cuidados por parte dos utentes do SRS-Madeira."
+  },
+  "176126227": {
+   "fragment_id": "176128677",
+   "type": 11,
+   "heading": "Artigo 5.º — Partes contratantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Partes contratantes\n\n1 - Podem ser partes em acordos de faturação quaisquer pessoas singulares ou coletivas, com ou sem fins lucrativos, com idoneidade para a prestação de cuidados de saúde, sob orientação e responsabilidade de profissionais de saúde devidamente habilitados.\n\n2 - Para efeitos do número anterior, os acordos de faturação são contratados pelo Instituto de Administração da Saúde, IP-RAM (IASAÚDE, IP-RAM), e produzem efeitos após homologação pelos membros do Governo responsáveis pelas áreas da saúde e das finanças."
+  },
+  "176126228": {
+   "fragment_id": "176128678",
+   "type": 1,
+   "heading": "Capítulo III — Procedimentos, requisitos e preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimentos, requisitos e preços"
+  },
+  "176126229": {
+   "fragment_id": "176128679",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimentos para a contratação de acordos de faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimentos para a contratação de acordos de faturação\n\n1 - A contratação dos cuidados de saúde em regime de acordo de faturação inicia-se com a adesão do interessado aos requisitos constantes do clausulado-tipo de cada acordo de faturação.\n\n2 - O clausulado-tipo de cada acordo de faturação é definido por Portaria do membro do Governo Regional responsável pela área da saúde."
+  },
+  "176126230": {
+   "fragment_id": "176128680",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos para a celebração de acordos de faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos para a celebração de acordos de faturação\n\n1 - São requisitos de idoneidade para a celebração de acordos de faturação:\n\na) A responsabilidade técnica e habilitação dos profissionais para a realização dos exames contratados;\n\nb) A titularidade de licenciamento e vistoria, sempre que exigido nos termos da lei;\n\nc) O registo no IASAÚDE, IP-RAM;\n\nd) Não estar abrangido pelos impedimentos previstos no artigo 55.º do Código dos Contratos Públicos (CCP).\n\n2 - Os profissionais vinculados ao Serviço de Saúde da Região Autónoma da Madeira, E. P. E. (SESARAM, E. P. E.), ficam sujeitos ao regime de incompatibilidades, impedimentos e inibições, nos termos da lei."
+  },
+  "176126231": {
+   "fragment_id": "176128681",
+   "type": 11,
+   "heading": "Artigo 8.º — Conteúdo dos acordos de faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conteúdo dos acordos de faturação\n\nOs acordos de faturação devem estabelecer, nomeadamente:\n\na) A área de cuidados de saúde a contratar;\n\nb) Os direitos e obrigações dos contratantes;\n\nc) A identificação da nomenclatura a utilizar;\n\nd) Os requisitos relativos à idoneidade técnica dos colaboradores;\n\ne) As normas relativas às incompatibilidades;\n\nf) A necessidade de licença de funcionamento, se exigível, ou de requerimento para a sua emissão;\n\ng) Os critérios de fornecimento do serviço, incluindo a possibilidade de realização de prestações acessórias;\n\nh) As regras de fiscalização, controlo e acompanhamento do contrato;\n\ni) Os níveis, o volume e o montante máximo dos serviços a adquirir, quando aplicável."
+  },
+  "176126232": {
+   "fragment_id": "176128682",
+   "type": 11,
+   "heading": "Artigo 9.º — Preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Preços\n\nOs preços máximos a pagar no âmbito dos acordos de faturação são os constantes do Regulamento da tabela de preços das Instituições e Serviços integrados no Serviço Nacional de Saúde em vigor na Região Autónoma da Madeira."
+  },
+  "176126233": {
+   "fragment_id": "176128683",
+   "type": 1,
+   "heading": "Capítulo IV — Obrigações das entidades e prazo contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Obrigações das entidades e prazo contratual"
+  },
+  "176126234": {
+   "fragment_id": "176128684",
+   "type": 11,
+   "heading": "Artigo 10.º — Deveres das entidades com acordo de faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Deveres das entidades com acordo de faturação\n\nConstituem deveres das entidades com acordo de faturação:\n\na) Prestar cuidados de saúde de qualidade e com segurança aos beneficiários do SRS-Madeira, em tempo útil, nas melhores condições de atendimento, não estabelecendo qualquer tipo de discriminação;\n\nb) Executar, exata e pontualmente, as prestações contratuais em cumprimento do contratado, não podendo transmitir a terceiros as responsabilidades assumidas perante a entidade pública contratante, salvo nos casos legal ou contratualmente admissíveis;\n\nc) Prestar às entidades fiscalizadoras as informações e esclarecimentos necessários ao desempenho das suas funções, incluindo o acesso a todos os registos e documentação comprovativa da prestação de cuidados, nas vertentes física, financeira e níveis de serviço observados;\n\nd) Facultar informações estatísticas, relativamente à utilização dos serviços, para efeitos de auditoria e fiscalização e controlo de qualidade, no respeito pelas regras deontológicas e de segredo profissional;\n\ne) Respeitar os protocolos, requisitos e especificações técnicas para recolha, tratamento e transmissão de informação definidas contratualmente."
+  },
+  "176126235": {
+   "fragment_id": "176128685",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo dos acordos de faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazo dos acordos de faturação\n\nNa falta de disposição em contrário, os acordos de faturação são válidos por períodos de cinco anos, podendo ser automaticamente renovados, salvo se, com a antecedência mínima de 180 dias em relação ao termo de cada período de vigência, qualquer das partes o denunciar."
+  },
+  "176126236": {
+   "fragment_id": "176128686",
+   "type": 1,
+   "heading": "Capítulo V — Encargos, monitorização, controlo e publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Encargos, monitorização, controlo e publicitação"
+  },
+  "176126237": {
+   "fragment_id": "176128687",
+   "type": 11,
+   "heading": "Artigo 12.º — Encargos com os acordos de faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Encargos com os acordos de faturação\n\n1 - Os encargos com as prestações de cuidados de saúde realizadas ao abrigo dos acordos de faturação efetivam-se mediante prescrição médica com origem no setor privado de saúde e escolha pelo beneficiário do SRS-Madeira de entre os prestadores aderentes, nos termos do princípio da livre escolha do utente.\n\n2 - O pagamento dos encargos com os acordos de faturação é da responsabilidade do IASAÚDE, IP-RAM."
+  },
+  "176126238": {
+   "fragment_id": "176128688",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento e controlo\n\n1 - O IASAÚDE, IP-RAM, deve avaliar, de forma sistemática, a qualidade e acessibilidade dos cuidados prestados pelas entidades contratadas e zelar pelo integral cumprimento dos acordos de faturação.\n\n2 - O IASAÚDE, IP-RAM, deve confirmar a prestação dos cuidados faturados e correspondentes efeitos financeiros.\n\n3 - Para efeitos dos números anteriores, o IASAÚDE, IP-RAM, efetua as auditorias necessárias, sem prejuízo das competências legalmente atribuídas a outras entidades.\n\n4 - O IASAÚDE, IP-RAM, deve apresentar ao membro do Governo Regional responsável pela área da saúde um relatório anual sobre os resultados do acompanhamento e controlo dos acordos de faturação."
+  },
+  "176126239": {
+   "fragment_id": "176128689",
+   "type": 11,
+   "heading": "Artigo 14.º — Publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Publicitação\n\n1 - O IASAÚDE, IP-RAM, deve divulgar e manter atualizada a informação relativa às entidades com acordos de faturação em vigor no respetivo sítio eletrónico.\n\n2 - A divulgação da informação referida no número anterior deverá também ser feita por afixação nas entidades aderentes."
+  },
+  "176126240": {
+   "fragment_id": "176128690",
+   "type": 11,
+   "heading": "Artigo 15.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Incumprimento\n\n1 - Sem prejuízo das regras gerais em matéria de incumprimento contratual, constituem incumprimento grave dos acordos de faturação os seguintes factos:\n\na) A existência de práticas que discriminem beneficiários do SRS-Madeira;\n\nb) A violação do clausulado-tipo aprovado nos termos do disposto no n.º 2 do artigo 6.º;\n\nc) O abandono da prestação de serviços ou a sua suspensão injustificada.\n\n2 - Os factos referidos no número anterior são fundamento de resolução do acordo de faturação."
+  },
+  "176126241": {
+   "fragment_id": "176128691",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "176126242": {
+   "fragment_id": "176128692",
+   "type": 11,
+   "heading": "Artigo 16.º — Acordos de faturação integrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acordos de faturação integrados\n\nEm situações devidamente fundamentadas com base no interesse público e/ou no desenvolvimento do conceito de gestão integrada da doença, podem ser celebrados acordos de faturação que abranjam um conjunto integrado e/ou alargado de serviços, mediante autorização prévia do membro do Governo Regional responsável pela área da saúde."
+  },
+  "176126243": {
+   "fragment_id": "176128693",
+   "type": 11,
+   "heading": "Artigo 17.º — Taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Taxas moderadoras\n\nOs utentes que recorrem aos serviços prestados através das entidades com acordo de faturação não estão sujeitos ao pagamento de taxas moderadoras ou quaisquer outras semelhantes que não se encontrem expressamente previstas no acordo de faturação."
+  },
+  "176126244": {
+   "fragment_id": "176128694",
+   "type": 11,
+   "heading": "Artigo 18.º — Manutenção dos acordos de faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Manutenção dos acordos de faturação\n\nMantêm-se em vigor os acordos de faturação já celebrados com o IASAÚDE, IP-RAM, nos termos dos respetivos clausulados, até que sejam celebrados novos acordos de faturação ao abrigo do presente diploma, no prazo máximo de 1 ano a partir da entrada em vigor do presente diploma."
+  },
+  "176126245": {
+   "fragment_id": "176128695",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "176126247": {
+   "fragment_id": "176075772",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nO presente diploma regulamenta o regime de celebração de acordos de faturação que tenham por objeto a prestação de cuidados ou a prestação de cuidados técnicos de saúde aos beneficiários do Serviço Regional de Saúde da Região Autónoma da Madeira, adiante abreviadamente designado por SRS-Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126248": {
+   "fragment_id": "176075774",
+   "type": 11,
+   "heading": "Artigo 3.º — Prestação de cuidados ou prestação de cuidados técnicos de saúde",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 3.º — Prestação de cuidados ou prestação de cuidados técnicos de saúde\n\nA prestação de cuidados ou a prestação de cuidados técnicos de saúde efetiva-se mediante prescrição médica, com origem no setor privado de saúde e escolha pelo beneficiário do SRS-Madeira de entre os prestadores aderentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126249": {
+   "fragment_id": "176128676",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios e objetivos",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 4.º — Princípios e objetivos\n\n1 - A contratação através da celebração de acordos de faturação deve obedecer aos seguintes princípios:\n\na) Liberdade de escolha dos prestadores pelos beneficiários, de acordo com as regras de organização estabelecidas, sem encaminhamento prévio pelo serviço público de saúde;\n\nb) Equidade no acesso dos beneficiários aos cuidados ou aos cuidados técnicos de saúde;\n\nc) Complementaridade na garantia das prestações de cuidados ou cuidados técnicos de saúde entre os prestadores com acordo de faturação e o serviço público;\n\nd) Garantia de adequados padrões de qualidade na prestação de cuidados ou cuidados técnicos de saúde.\n\n2 - A contratação através de acordos de faturação deve prosseguir os seguintes objetivos:\n\na) Prontidão, continuidade e qualidade na prestação de cuidados ou cuidados técnicos de saúde;\n\nb) Obtenção de ganhos de eficiência na distribuição e afetação de recursos do Sistema Regional de Saúde;\n\nc) Promoção da qualidade dos serviços prestados, através da exigência do licenciamento, quando aplicável e, complementarmente, através da indexação de padrões de qualidade ao financiamento.\n\n3 - O recurso à prestação de cuidados ou cuidados técnicos de saúde, ao abrigo de acordos de faturação, nos termos do presente diploma, não pode pôr em causa o racional aproveitamento da capacidade instalada no setor público, nem prejudicar a garantia da acessibilidade àqueles cuidados por parte dos beneficiários do SRS-Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126250": {
+   "fragment_id": "176128677",
+   "type": 11,
+   "heading": "Artigo 5.º — Partes contratantes",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 5.º — Partes contratantes\n\n1 - Podem ser partes em acordos de faturação quaisquer pessoas singulares ou coletivas, com ou sem fins lucrativos, com idoneidade para a prestação de cuidados ou cuidados técnicos de saúde, sob orientação e responsabilidade de profissionais de saúde devidamente habilitados ou prestadores de cuidados técnicos de saúde.\n\n2 - Para efeitos do número anterior, os acordos de faturação são contratados pelo Instituto de Administração da Saúde, IP-RAM e produzem efeitos após deliberação do Conselho Diretivo do mesmo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126251": {
+   "fragment_id": "176128679",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimentos para a contratação de acordos de faturação",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimentos para a contratação de acordos de faturação\n\n1 - A contratação dos cuidados ou cuidados técnicos de saúde em regime de acordo de faturação inicia-se com a adesão do interessado aos requisitos constantes do clausulado-tipo de cada acordo de faturação.\n\n2 - O clausulado-tipo de cada acordo de faturação é definido por Portaria Conjunta dos membros do Governo Regional responsáveis pelas áreas da saúde e das finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126252": {
+   "fragment_id": "176128680",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos para a celebração de acordos de faturação",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 7.º — Requisitos para a celebração de acordos de faturação\n\n1 - São requisitos de idoneidade para a celebração de acordos de faturação:\n\na) A responsabilidade técnica e habilitação dos profissionais para a realização dos exames contratados ou para a prestação dos cuidados técnicos contratados;\n\nb) A titularidade de licenciamento e vistoria, sempre que exigido nos termos da lei;\n\nc) O registo no IASAÚDE, IP-RAM, quando legalmente exigível;\n\nd) Não estar abrangido pelos impedimentos previstos no artigo 55.º do Código dos Contratos Públicos (CCP).\n\n2 - Os profissionais vinculados ao Serviço de Saúde da Região Autónoma da Madeira, EPERAM (SESARAM, EPERAM), ficam sujeitos ao regime de incompatibilidades, impedimentos e inibições, nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126253": {
+   "fragment_id": "176128681",
+   "type": 11,
+   "heading": "Artigo 8.º — Conteúdo dos acordos de faturação",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 8.º — Conteúdo dos acordos de faturação\n\nOs acordos de faturação devem estabelecer, nomeadamente:\n\na) A área de cuidados ou cuidados técnicos de saúde a contratar;\n\nb) Os direitos e obrigações dos contratantes;\n\nc) A identificação dos códigos de nomenclatura a utilizar;\n\nd) Os requisitos relativos à idoneidade técnica dos colaboradores, se aplicável;\n\ne) As normas relativas às incompatibilidades;\n\nf) A necessidade de licença de funcionamento, se exigível, ou de requerimento para a sua emissão;\n\ng) Os critérios de fornecimento do serviço, incluindo a possibilidade de realização de prestações acessórias;\n\nh) As regras de fiscalização, controlo e acompanhamento do contrato;\n\ni) Os níveis, o volume e o montante máximo dos serviços a adquirir, quando aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126254": {
+   "fragment_id": "176128682",
+   "type": 11,
+   "heading": "Artigo 9.º — Preços",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 9.º — Preços\n\n1 - Os preços a pagar no âmbito dos acordos de faturação têm por base os constantes do Regulamento das Tabelas de Preços das Instituições e Serviços Integrados no Serviço Nacional de Saúde, cabendo ao beneficiário um copagamento a definir nos termos do n.º 2 do artigo 6.º\n\n2 - Excecionam-se do número anterior as requisições provindas das Casas de Saúde, com acordos de cooperação celebrados no âmbito da Saúde, prescritas por estas aos seus utentes internados, onde são faturadas a 100 % ao IASAÚDE, IP-RAM, pelo prestador com acordo de faturação, não assumindo o utente qualquer encargo com a sua realização.\n\n3 - Os preços a pagar no âmbito da prestação dos acordos de faturação para a prestação de cuidados técnicos de saúde, são os estabelecidos em Portaria Conjunta dos membros do Governo Regional responsáveis pelas áreas da saúde e das finanças.\n\n4 - Os preços podem ser revistos anualmente por iniciativa dos membros do Governo Regional responsáveis pelas áreas da saúde e das finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126255": {
+   "fragment_id": "176128684",
+   "type": 11,
+   "heading": "Artigo 10.º — Deveres das entidades com acordo de faturação",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 10.º — Deveres das entidades com acordo de faturação\n\nConstituem deveres das entidades com acordo de faturação:\n\na) Prestar cuidados ou cuidados técnicos de saúde de qualidade e com segurança aos beneficiários do SRS-Madeira, em tempo útil, nas melhores condições de atendimento, não estabelecendo qualquer tipo de discriminação;\n\nb) Executar, exata e pontualmente, as prestações contratuais em cumprimento do contratado, não podendo transmitir a terceiros as responsabilidades assumidas perante a entidade pública contratante, salvo nos casos legal ou contratualmente admissíveis;\n\nc) Prestar às entidades fiscalizadoras as informações e esclarecimentos necessários ao desempenho das suas funções, incluindo o acesso a todos os registos e documentação comprovativa da prestação de cuidados, nas vertentes física, financeira e níveis de serviço observados;\n\nd) Facultar informações estatísticas, relativamente à utilização dos serviços, para efeitos de auditoria e fiscalização e controlo de qualidade, no respeito pelas regras deontológicas e de segredo profissional;\n\ne) Respeitar os protocolos, requisitos e especificações técnicas para recolha, tratamento e transmissão de informação definidas contratualmente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126256": {
+   "fragment_id": "176128687",
+   "type": 11,
+   "heading": "Artigo 12.º — Encargos com os acordos de faturação",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 12.º — Encargos com os acordos de faturação\n\n1 - Os encargos com as prestações de cuidados ou cuidados técnicos de saúde, realizados ao abrigo dos acordos de faturação efetivam-se mediante prescrição médica com origem no setor privado de saúde e escolha pelo beneficiário do SRS-Madeira de entre os prestadores aderentes, nos termos do princípio da livre escolha do utente.\n\n2 - O pagamento dos encargos com os acordos de faturação é da responsabilidade do IASAÚDE, IP-RAM.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126257": {
+   "fragment_id": "176128692",
+   "type": 11,
+   "heading": "Artigo 16.º — Acordos de faturação integrados",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 16.º — Acordos de faturação integrados\n\nEm situações devidamente fundamentadas com base no interesse público e/ou no desenvolvimento do conceito de gestão integrada da doença, podem ser celebrados acordos de faturação que abranjam um conjunto integrado e/ou alargado de serviços, mediante autorização prévia dos membros do Governo Regional responsáveis pelas áreas da saúde e das finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126258": {
+   "fragment_id": "176128693",
+   "type": 11,
+   "heading": "Artigo 17.º — Taxas moderadoras",
+   "in_force_from": "2021-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+   ],
+   "markdown": "###### Artigo 17.º — Taxas moderadoras\n\nOs beneficiários que recorrem aos serviços prestados através das entidades com acordo de faturação não estão sujeitos ao pagamento de taxas moderadoras ou quaisquer outras semelhantes que não se encontrem expressamente previstas no acordo de faturação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2021/M - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-176075698), em vigor a partir de 2021-12-18"
+  },
+  "176126246": {
+   "fragment_id": "176128696",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 1 de junho de 2018.\n\nO Presidente do Governo Regional, em exercício, Pedro Miguel Amaro de Bettencourt Calado.\n\nAssinado em 11 de junho de 2018.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n111439925"
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:225452:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-992216973",
+ "dre_path": "/dr/detalhe/portaria/733-1994-225452",
+ "source_lastmod": "2025-12-23",
+ "versions": [
+  {
+   "date": "1994-08-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "989773864"
+   ]
+  },
+  {
+   "date": "1994-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:354325:por",
+     "title": "Declaração de Rectificação n.º 168/94",
+     "published": "1994-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/168-1994-354325"
+    }
+   ],
+   "changes": [
+    "Retifica 2.º"
+   ],
+   "fragments": [
+    "989773864",
+    "989773866",
+    "989773870",
+    "989773865"
+   ]
+  }
+ ],
+ "fragments": {
+  "989773864": {
+   "fragment_id": "992216974",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 733/94\n\nde 12 de Agosto\n\nNuma área situada entre as povoações de Pelariga e Redinha, abrangendo parte dos concelhos de Pombal e de Soure, nos distritos de Leiria e Coimbra, ocorrem argilas cinzentas especiais, usadas como matéria-prima para a indústria de cerâmica branca.\n\nConsiderando que estes recursos, de elevado interesse nacional e regional, têm sido objecto de estudos geológicos e de caracterização por parte do Instituto Geológico e Mineiro e que os respectivos recursos têm sido explorados a um ritmo que faz admitir a sua exaustão num prazo de tempo não superior a oito anos;\n\nConsiderando necessário definir regras que assegurem maior racionalidade das explorações, à semelhança das que foram estabelecidas para as áreas vizinhas de Águeda, Pombal e Barracão, pela Portaria n.º 448/90, de 16 de Junho;\n\nAo abrigo do disposto no artigo 3.º do Decreto-Lei n.º 89/90, de 16 de Março:\n\nManda o Governo, pelo Ministro da Indústria e Energia, o seguinte:"
+  },
+  "989773866": {
+   "fragment_id": "992475276",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ declarada cativa, ressalvados os direitos adquiridos, para efeitos de exploração de argilas, a área constante do mapa publicado em anexo, delimitada pela poligonal cujos vértices se indicam:\n\n(ver documento original)\n\nAs coordenadas dos vértices n.os 2 e 4 são indicadas no sistema Hayford-Gauss, referidas ao ponto central."
+  },
+  "989773870": {
+   "fragment_id": "992475277",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "1994-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 168/94 - Diário da República n.º 227/1994, 3º Suplemento, Série I-B de 1994-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/168-1994-354325), em vigor a partir de 1994-09-30"
+   ],
+   "markdown": "###### 2.º\n\nNo interior da citada área, as licenças de estabelecimento, a atribuir pela Delegação Regional da Indústria e Energia do Centro, para a exploração de argilas, deverão obedecer aos seguintes condicionalismos:\n\na) Os interessados, ao requererem a licença de estabelecimento, deverão apresentar um estudo técnico-económico do empreendimento e fazer prova de capacidade técnica e financeira adequada;\n\nb) A área da pedreira não será inferior a 4 ha, devendo o explorador dispor de áreas adequadas para a deposição e conservação dos terrenos de cobertura a repor futuramente, bem como para o armazenamento dos produtos da exploração e para a implantação dos anexos da pedreira;\n\nc) Para além dos encargos tributários legais, os exploradores pagarão ao Instituto Geológico e Mineiro, como compensação pelos trabalhos de prospecção e pesquisa efectuados pelo mesmo Instituto e que conduziram à valorização da área, a importância de 3$00 por cada metro quadrado de área licenciada e por cada ano de vigência da licença;\n\nd) As explorações deverão fazer-se com respeito pelas regras da arte, de acordo com o plano de lavra aprovado pela Delegação Regional da Indústria e Energia do Centro, respeitando a demais legislação aplicável, tendo em vista o máximo aproveitamento do recurso no equilíbrio com o meio ambiente;\n\ne) Os trabalhos de exploração deverão ser dirigidos por técnico diplomado em especialidade adequada por escola superior, tendo sempre em vista a maior valorização dos produtos obtidos.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 168/94 - Diário da República n.º 227/1994, 3º Suplemento, Série I-B de 1994-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/168-1994-354325), em vigor a partir de 1994-09-30"
+  },
+  "989773865": {
+   "fragment_id": "992475275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Indústria e Energia.\n\nAssinada em 8 de Julho de 1994.\n\nPelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria.\n\n(ver documento original)"
+  }
+ }
+}

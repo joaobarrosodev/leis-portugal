@@ -1,0 +1,143 @@
+---
+schema_version: '1.0'
+id: pt:dre:329863:por
+title: Decreto-Lei n.º 278/78
+short_title: null
+summary: Actualiza os valores do limite de isenção e das classes de alvarás
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Habitação e Obras Públicas - Gabinete do Ministro
+proposing_entity: null
+official_number: 278/78
+official_date: null
+publication_date: '1978-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 205/1978, Série I de 1978-09-06
+  number: '205'
+  series: I
+  supplement: null
+  pages: 1846 - 1847
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/09/20500/18461847.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '329863'
+  dre_path: /dr/detalhe/decreto-lei/278-1978-329863
+  internal: pt:dre:329863:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1978-329863
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1978-329863
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-03-23T00:00:00Z'
+integrity:
+  source_sha256: 629778856cfcf78464f93b5e091f8e3b65eb2c1a9aaf3a473a0679af0a3cf54f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-278-329863.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:285742:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 278/78
+
+de 6 de Setembro
+
+Tendo-se verificado que em certas áreas do País há falta de empresas de construção classificadas nos termos da lei como empreiteiros de obras públicas ou industriais de construção civil, de modo a ocorrer às necessidades ou a manter os mecanismos da concorrência;
+
+Reconhecendo-se, por outro lado, que se encontram desactualizados os valores do limite de isenção e das classes de alvarás;
+
+Estando em curso uma profunda revisão de toda a legislação e regulamentação em vigor nesta matéria e mantendo-se o critério já afirmado no preâmbulo do [Decreto-Lei n.º 10/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1975-158906), de 14 de Janeiro, no sentido de progressivamente disciplinar a totalidade das obras públicas ou particulares em ordem a garantir a idoneidade dos seus executantes:
+
+Adoptam-se, com carácter temporário, enquanto não é publicada a referida legislação, medidas de actualização parcial e de simplificação de processos, com vista a ocorrer às necessidades atrás mencionadas.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Sem prejuízo das excepções já consentidas pela legislação em vigor, as obras novas ou de reconstrução, ampliação, alteração, reparação ou demolição correspondentes às categorias constantes do mapa I anexo à [Portaria n.º 351/71](https://diariodarepublica.pt/dr/detalhe/portaria/351-1971-217374), de 30 de Junho, bem como às subcategorias abrangidas pelo alvará de categoria, que sejam postas a concurso ou ajustadas após a entrada em vigor do presente decreto-lei poderão ser executadas por pessoas singulares ou colectivas não titulares do respectivo alvará, sempre que o valor da obra não exceda 1500 contos.
+
+###### Art. 2.º - 1 - O Instituto de Construção, criado no âmbito do Ministério da Habitação e Obras Públicas pelo [Decreto-Lei n.º 75/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1978-425173), de 18 de Abril, organizará, no prazo de cento e vinte dias, a contar da data da entrada em vigor deste diploma, um registo das pessoas singulares ou colectivas referidas no artigo 1.º, com a respectiva identificação.
+
+2 - O referido registo será divulgado mediante publicação trimestral na 3.ª série do Diário da República, com as actualizações necessárias, sempre que ocorram factos relevantes relativos aos inscritos.
+
+3 - Para efeitos dos n.os 1 e 2, os adjudicatários que não disponham de alvará remeterão ao Instituto de Construção até dez dias após a notificação de adjudicação ou da concessão do licenciamento, no caso de obras particulares, declaração conforme impresso a aprovar por portaria do Ministério da Habitação e Obras Públicas.
+
+4 - O incumprimento repetido do disposto no número anterior determinará, para o empreiteiro faltoso, a impossibilidade de concessão de alvará pelo prazo de dez anos.
+
+###### Art. 3.º - 1 - O n.º 1 do artigo 2.º do [Decreto-Lei n.º 10/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1975-158906), de 14 de Janeiro, passa a ter a seguinte redacção:
+
+A correspondência entre as classes dos alvarás de empreiteiros de obras públicas e dos industriais de construção civil, conforme estabelece o mapa III anexa à [Portaria n.º 351/71](https://diariodarepublica.pt/dr/detalhe/portaria/351-1971-217374), de 30 de Junho, passa a ser a seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/20500/18461847.pdf))](https://files.diariodarepublica.pt/1s/1978/09/20500/18461847.pdf)
+
+2 - A Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais de Construção Civil, instituída pelo [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734), de 24 de Novembro, poderá, a requerimento dos empreiteiros ou industriais, e sempre que ocorram razões suficientes, dispensar os requerentes de parte dos requisitos estabelecidos na mapa IV anexo à [Portaria n.º 351/71](https://diariodarepublica.pt/dr/detalhe/portaria/351-1971-217374), de 30 de Junho, para a mudança para classe superior, mediante a prestação de outras garantias de idoneidade técnica que a Comissão considere suficientes.
+
+3 - Às obras postas a concurso adjudicadas mediante ajuste directo, ou cuja licença de construção já tenha sido concedida anteriormente à entrada em vigor do presente decreto-lei, aplicam-se os limites constantes do [Decreto-Lei n.º 10/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1975-158906), de 14 de Janeiro.
+
+###### Art. 4.º - 1 - Os industriais da construção civil que pretendam concorrer a empreitadas de obras públicas deverão apresentar declaração passada pela Comissão de Inscrição e Classificação de Empreiteiros de Obras Públicas e dos Industriais de Construção Civil, comprovativa de que a empresa satisfaz os requisitos necessários para ser admitida a concurso.
+
+2 - São as seguintes as condições a satisfazer pelos industriais de construção civil para poderem ser adjudicatários de obras públicas:
+
+a) Comprovação da nacionalidade portuguesa, nos termos do artigo 4.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956;
+
+b) Correspondência às subcategorias, conforme estabelecido no mapa III anexo à [Portaria n.º 351/71](https://diariodarepublica.pt/dr/detalhe/portaria/351-1971-217374), de 30 de Junho;
+
+c) Comprovação de que os quadros técnicos correspondem às condições regulamentares exigidas para os empreiteiros de obras públicas.
+
+###### Art. 5.º As dúvidas de interpretação e aplicação do presente decreto-lei serão resolvidas por despacho do Ministro da Habitação e Obras Públicas.
+
+###### Art. 6.º O presente decreto-lei entra em vigor quinze dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes.
+
+**Promulgado em 10 de Agosto de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

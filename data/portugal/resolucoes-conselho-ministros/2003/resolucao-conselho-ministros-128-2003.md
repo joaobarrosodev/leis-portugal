@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:633276:por
+title: Resolução do Conselho de Ministros n.º 128/2003
+short_title: null
+summary: Estabelece o Programa de Promoção do Emprego no Distrito do Porto
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 128/2003
+official_date: null
+publication_date: '2003-08-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 198/2003, Série I-B de 2003-08-28
+  number: '198'
+  series: I
+  supplement: null
+  pages: 5683 - 5685
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/08/198b00/56835685.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/128/2003/08/28/p/dre/pt/html
+  oj: null
+  dre: '633276'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/128-2003-633276
+  internal: pt:dre:633276:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/128-2003-633276
+  metadata_url: https://data.dre.pt/eli/resolconsmin/128/2003/08/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/128-2003-633276
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-11-24T00:00:00Z'
+integrity:
+  source_sha256: d376579b8ea98ebc6fe4be4d6dbc5600f8d41fe544dd87c8b7d07b99eed71239
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-128-633276.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Formação Profissional
+- Ministro da Segurança Social e do Trabalho
+- Consultoria
+- Definição de Competências
+- Desenvolvimento Regional
+- Jovem Trabalhador
+- Criação de Emprego
+- Mercado de Emprego
+- Qualificação Profissional
+- Emprego
+- Promoção de Emprego
+- Propep
+- Política de Emprego
+- Pequenas e Médias Empresas
+- PME
+- Porto
+relationships:
+- type: amended_by
+  target: pt:dre:481508:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/47/1999/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/47/1999/05/26/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 128/2003
+
+O distrito do Porto vem-se defrontando, de há muitos anos a esta parte, com problemas de desemprego que assentam em razões muito mais de ordem estrutural, relacionadas com um padrão de especialização com grande vulnerabilidade e com a alteração do contexto competitivo, do que em razões de índole conjuntural.
+
+Com efeito, resulta da análise dos dados relativos ao distrito do Porto nos últimos 10 anos que a evolução do emprego apresenta características desfavoráveis, expressas em níveis de desemprego superiores à média nacional, mesmo em períodos de retoma económica, sendo particularmente visível o aumento continuado do número de desempregados desde o final do ano 2000.
+
+Já em 1999 e com vista a inverter essa tendência através de medidas de apoio à criação de novos empregos e à melhoria da empregabilidade dos activos, foi aprovado, pela [Resolução do Conselho de Ministros n.º 47/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/47-1999-316940), de 26 de Maio, o Plano Regional de Emprego para a Área Metropolitana do Porto (PREAMP), o qual, tendo por referência os quatro pilares da estratégia europeia para o emprego, se propunha, até ao final de 2003: i) promover a criação de emprego; ii) combater o desemprego e promover a inserção sócio-profissional; iii) melhorar os níveis de qualificação da população activa, e iv) promover a coesão social.
+
+Não obstante os esforços desenvolvidos no decurso dos últimos 12 meses no âmbito das medidas e intervenções preconizadas no PREAMP, foi notória a complexidade e o desajustamento que algumas apresentavam, criando dificuldades na sua execução.
+
+Com efeito, quer na área metropolitana do Porto (AMP) quer no distrito do Porto no seu conjunto, não só não se verificou qualquer inversão da tendência, como veio a agravar-se, de forma significativa, o impacte do desemprego, conforme resulta dos números adiante indicados:
+
+Em Dezembro de 2000, encontravam-se inscritos nos centros de emprego do distrito do Porto 63822 desempregados;
+
+Em Dezembro de 2001, encontravam-se inscritos nos centros de emprego do distrito do Porto 67721 desempregados;
+
+Em Junho de 2003, encontravam-se inscritos nos centros de emprego do distrito do Porto 95277 desempregados.
+
+A tendência de aumento continuado do número de desempregados registados verificou-se igualmente nos concelhos abrangidos pelo PREAMP, não obstante as medidas específicas adoptadas.
+
+Torna-se, deste modo, necessário e urgente proceder à redefinição dos objectivos e dos instrumentos de combate ao desemprego no distrito do Porto, com vista a criar condições para um aumento sustentado do emprego, em articulação com os trabalhos realizados no âmbito do Programa de Recuperação de Áreas e Sectores Deprimidos (PRASD).
+
+O Programa de Emprego e Protecção Social (PEPS), instituído pelo Governo e aplicável a todo o País, como tal, também ao distrito do Porto, visa, genericamente, reforçar os incentivos à criação de novos postos de trabalho para jovens e desempregados, reforçar os mecanismos de incentivo à formação profissional e aumentar a empregabilidade através do apoio às empresas que contratem e formem desempregados, constituindo, por isso, mais um instrumento importante nesse combate. Para além destas medidas, impõe-se definir e implementar uma série de outras específicas para o distrito do Porto, atentas as particularidades, em termos de emprego, desta região no âmbito do contexto nacional, tendo, por esse motivo, o Governo decidido criar o presente Programa de Promoção do Emprego no Distrito do Porto (PROPEP).
+
+Constituem eixos fundamentais das medidas a adoptar: i) a prevenção do desemprego de longa duração; ii) o fomento da qualificação dos desempregados; iii) a promoção da criação de emprego; iv) o estímulo da oferta de emprego e à colocação, e v) a melhoria da qualidade do emprego.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Instituir o Programa de Promoção do Emprego no Distrito do Porto (PROPEP), em complemento do PEPS e do PREAMP.
+
+2 - O PROPEP inclui as seguintes medidas específicas:
+
+a) Apoio ao investimento e criação de emprego. - Esta medida visa desenvolver o espírito empresarial e incentivar a criação de empregos, no distrito do Porto, através da discriminação positiva do investimento criador de emprego, apresentando, como objectivos globais, o estímulo a investimentos efectuados por pequenas empresas geradores de novas oportunidades locais de emprego, o reforço do tecido económico regional e o desenvolvimento sócio-local.
+
+A medida consiste na disponibilização de apoios financeiros às pequenas empresas que desenvolvam processos de investimento em domínios de actividade emergentes, com fortes potencialidades de criação de postos de trabalho e relevantes para a valorização da base produtiva regional e para o aumento da eficácia das políticas activas de emprego.
+
+Os projectos de investimento a apoiar deverão demonstrar viabilidade económico-financeira, assegurar a criação líquida de postos de trabalho, garantir a manutenção da respectiva localização por período não inferior a quatro anos e corresponder a um investimento em capital fixo até ao montante de (euro) 150000.
+
+Aos projectos de investimento que reúnam as condições descritas será atribuído um apoio financeiro, sob a forma de empréstimo sem juros, até 70% do investimento elegível, podendo ser majorado sempre que:
+
+1) Haja lugar à diversificação da actividade desenvolvida em termos de bens e serviços transaccionáveis ou formas de comercialização;
+
+2) Os postos de trabalho criados sejam preenchidos numa proporção superior a 25% por beneficiários do rendimento social de inserção, desempregados de longa duração ou pessoas com deficiência; ou
+
+3) Sejam introduzidas adaptações que favoreçam a protecção do ambiente.
+
+Poderá, ainda, ser atribuído um prémio, sob a forma de isenção, total ou parcial, do último pagamento do reembolso do empréstimo, desde que o número de postos de trabalho, efectivamente criados, exceda o inicialmente previsto;
+
+b) Criação de pequenos negócios através do microcrédito bancário. - Esta medida visa favorecer a inclusão social dos desempregados de longa duração, dos beneficiários do rendimento social de inserção e de outros desempregados com situações particulares de desfavorecimento social, profissional ou económico, através da motivação e da confiança nas suas capacidades.
+
+Através desta medida o Instituto do Emprego e Formação Profissional (IEFP) deve criar mecanismos de garantia para microcrédito bancário concedido para o desenvolvimento de iniciativas económicas apresentadas pelos beneficiários, até ao valor de 15 vezes a remuneração mínima mensal garantida por lei, não podendo, em qualquer caso, ultrapassar 75% do investimento.
+
+Para efeitos de financiamento, o IEFP deve estabelecer, directamente ou através de outras entidades, acordos com instituições bancárias;
+
+c) Apoio de consultoria às pequenas empresas. - Esta medida visa potenciar o reforço da competitividade das empresas que empreguem no máximo 20 trabalhadores e o desenvolvimento da qualificação dos activos tendo em vista a elevação dos níveis e da qualidade do emprego e sustenta-se num modelo integrado de intervenção, adaptado ao contexto específico de cada empresa.
+
+As intervenções a desenvolver junto das empresas incluem apoios a acções de consultoria no âmbito da gestão e da inovação organizacional, com recurso a entidades externas, designadamente com o apoio da rede de consultores do Subprograma REDE;
+
+d) Promoção da qualificação e do emprego. - A presente medida visa proporcionar aos activos desempregados, inscritos nos centros de emprego, as condições necessárias para a sua integração sócio-profissional, através do desenvolvimento de actuações no âmbito da orientação e formação profissional, que favoreçam o aumento da sua empregabilidade, por conta de outrem ou através da criação do próprio emprego, com vista a: i) aumentar os níveis de qualificação; ii) melhorar os níveis de empregabilidade, e iii) potenciar o espírito empreendedor.
+
+O desenvolvimento desta medida abrange as seguintes etapas:
+
+1) Sinalização precoce dos desempregados inscritos nos centros de emprego, essencialmente dos que se enquadrem nas directrizes INSERJOVEM e REAGE;
+
+2) Intervenções no âmbito da informação e da orientação profissional, designadamente as que promovam o desenvolvimento das suas competências sociais e a melhoria das condições de empregabilidade;
+
+3) Desenvolvimento de acções de formação de curta duração que permitam a aquisição ou reposição das competências de base para a empregabilidade;
+
+4) Promoção de acções de formação em gestão, organização e empreendorismo destinadas aos empregadores;
+
+5) Desenvolvimento de acções de formação qualificante, complementadas com estágios em contexto real de trabalho em áreas profissionais de maior empregabilidade e sinalizadas pelas entidades empregadoras como prioritárias para o preenchimento de postos de trabalho;
+
+6) Apoio à criação do próprio emprego ou à participação na criação de microempresas, com recurso prioritário aos apoios definidos no Programa de Estímulo à Oferta de Emprego;
+
+7) Para o desenvolvimento dos apoios à criação do próprio emprego, serão promovidas acções de formação para a gestão do negócio e acções de apoio à consolidação dos projectos.
+
+3 - Incumbir o Ministro da Segurança Social e do Trabalho da regulamentação e coordenação da execução do PROPEP.
+
+4 - O acompanhamento do PROPEP será da responsabilidade do Observatório do Emprego e Formação Profissional (OEFP).
+
+5 - No prazo de 90 dias a contar da adopção da presente resolução, o OEFP, em articulação com o encarregado de missão responsável pela elaboração do PRASD, elaborará e apresentará aos Ministros da Economia e da Segurança Social e do Trabalho propostas de eventuais medidas adicionais a adoptar no âmbito do presente Programa.
+
+6 - O OEFP apresentará, igualmente, aos Ministros da Segurança Social e do Trabalho e da Economia propostas de articulação do PROPEP com o PREAMP.
+
+7 - O PROPEP terá a duração 18 meses, devendo a sua execução ser, obrigatoriamente, objecto de avaliação até 31 de Dezembro de 2004.
+
+8 - Em função do resultado da avaliação a que se refere o número anterior, a duração do Programa poderá ser prorrogada por período não superior a 12 meses.
+
+9 - A dotação do PROPEP é de (euro) 20000000, a suportar pelo orçamento do IEFP.
+
+Presidência do Conselho de Ministros, 31 de Julho de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.

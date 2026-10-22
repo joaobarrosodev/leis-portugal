@@ -1,0 +1,268 @@
+---
+schema_version: '1.0'
+id: pt:dre:287977:por
+title: Portaria n.º 118-A/2009
+short_title: null
+summary: Aprova o Regulamento de Enquadramento e Apoio às Organizações de Produtores Florestais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 118-A/2009
+official_date: null
+publication_date: '2009-01-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/2009, 1º Suplemento, Série I de 2009-01-29
+  number: '20'
+  series: I
+  supplement: 1º Suplemento
+  pages: 634-(2) a 634-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/01/02001/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/118-a/2009/01/29/p/dre/pt/html
+  oj: null
+  dre: '287977'
+  dre_path: /dr/detalhe/portaria/118-a-2009-287977
+  internal: pt:dre:287977:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-a-2009-287977
+  metadata_url: https://data.dre.pt/eli/port/118-a/2009/01/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-a-2009-287977
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-01-29T00:00:00Z'
+integrity:
+  source_sha256: a80293bee4378064266e303436591d92fd38fc9ac8e90ed48752fd7959aeee88
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-118-A-287977.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Financiamento
+- Contrato de Concessão
+- Contrato Programa
+- Definição de Competências
+- Fiscalização
+- Fundo Florestal Permanente
+- IFAP
+- Publicitação
+- Organização de Produtores
+- Exploração Florestal
+- Autoridade Florestal Nacional
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/159/2008/08/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2008/08/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 118-A/2009
+
+de 29 de Janeiro
+
+As organizações de produtores florestais (OPF) têm sido, nas últimas duas décadas, um elemento essencial para a prossecução de uma política florestal que permita aos proprietários, principalmente nas zonas de minifúndio, exercer a gestão florestal de forma sustentável e economicamente viável.
+
+As OPF foram e continuam a ser um elemento central no apoio à gestão florestal, no controlo e erradicação dos agentes bióticos, na defesa da floresta contra incêndios, desempenhando ainda um vasto leque de tarefas de aconselhamento e apoio aos proprietários e produtores florestais.
+
+Ora, deve o Estado, através das estruturas a quem cumpre a valorização dos espaços florestais e das economias relacionadas, olhar as OPF como estruturas fundamentais às políticas públicas.
+
+A Estratégia Nacional para as Florestas, o Plano Nacional de Defesa da Floresta contra Incêndios e o Programa Nacional de Prevenção Estrutural apontam para a necessidade de se definir uma tipificação que possa determinar as formas de relacionamento e definir as formas de apoio.
+
+Assim:
+
+Nos termos do artigo 17.º da [Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/lei/33-1996-406293), de 17 de Agosto, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1 - É aprovado o Regulamento de Enquadramento e Apoio às Organizações de Produtores Florestais, que consta do anexo à presente portaria e que dela faz parte integrante.
+
+2 - A presente portaria entra em vigor no dia seguinte à sua publicação.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Janeiro de 2009.
+
+## ANEXO — REGULAMENTO DE ENQUADRAMENTO E APOIO ÀS ORGANIZAÇÕES DE PRODUTORES FLORESTAIS
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento define o enquadramento e as formas de apoios às organizações de produtores florestais (OPF) para efeitos de representação e de financiamento de actividades que sejam objecto de protocolo de gestão com a Autoridade Florestal Nacional e com o Instituto de Financiamento da Agricultura e das Pescas, entidade gestora do Fundo Florestal Permanente.
+
+###### Artigo 2.º — Tipificação das OPF
+
+As OPF dividem-se em quatro tipos:
+
+a) OPF de âmbito nacional;
+
+b) OPF de âmbito regional;
+
+c) OPF de âmbito supramunicipal, municipal ou local;
+
+d) OPF de natureza complementar.
+
+###### Artigo 3.º — Características das OPF de âmbito nacional
+
+1 - São OPF de âmbito nacional as que reúnam as seguintes características:
+
+a) Sejam confederações ou federações de associações de produtores florestais de âmbito nacional;
+
+b) Sejam confederações ou federações de conselhos directivos ou entidades gestoras de baldios.
+
+c) Sejam confederações ou federações de cooperativas de produtores florestais de âmbito nacional.
+
+2 - São consideradas confederações ou federações de associações de produtores florestais de âmbito nacional as que reúnam cumulativamente as seguintes características:
+
+a) Podendo integrar também cooperativas de produtores florestais ou entidades gestoras de baldios, comportem, maioritariamente, no seu seio estruturas associativas florestais em, pelo menos, 50 % dos distritos do território continental português;
+
+b) Incluam, pelo menos, 30 OPF;
+
+c) Tenham sido constituídas e desenvolvam trabalho continuado há mais de cinco anos ou, em alternativa, 50 % das suas associadas cumpram estas características.
+
+3 - São consideradas confederações ou federações de conselhos directivos ou entidades gestoras de baldios e suas associações, de âmbito nacional, as que reúnam, cumulativamente, as seguintes características:
+
+a) Podendo integrar também associações de produtores florestais ou cooperativas de produtores florestais comportem, maioritariamente, no seu seio estruturas de representação de baldios em, pelos menos, 50 % dos distritos do continentes português onde estes existam;
+
+b) Incluam, pelo menos, 30 % dos conselhos directivos ou entidades gestoras de baldios existentes;
+
+c) Tenham sido constituídas e desenvolvam trabalho continuado há mais de cinco anos.
+
+4 - São consideradas confederações ou federações de cooperativas de produtores florestais de âmbito nacional as que reúnam cumulativamente as seguintes características:
+
+a) Comportem no seu seio cooperativas de produtores florestais ou OPF de natureza complementar em, pelo menos, 50 % dos distritos do território continental português;
+
+b) Incluam, pelo menos, 30 OPF;
+
+c) Tenham sido constituídas e desenvolvam trabalho continuado há mais de cinco anos ou, em alternativa, 50 % das suas cooperativas associadas cumpram estas características.
+
+5 - Para efeitos da representatividade e cumprimento das características previstas nos números anteriores, cada estrutura de âmbito supramunicipal, municipal ou local apenas pode integrar uma OPF de âmbito nacional.
+
+6 - O cumprimento do previsto no número anterior não impede o desenvolvimento de parcerias e a apresentação de projectos e candidaturas conjuntas aos apoios nacionais e comunitários de OPF integradas em OPF de âmbito nacional diferentes.
+
+###### Artigo 4.º — Características das OPF de âmbito regional
+
+1 - São OPF de âmbito regional as associações ou federações de produtores florestais que reúnam, cumulativamente, as seguintes características:
+
+a) Comportem no seu seio estruturas associativas e cooperativas florestais e agro-florestais em, pelo menos, três distritos do território continental português ou agreguem mais de 50 % das organizações de produtores florestais de uma NUTS de nível ii;
+
+b) Incluam no mínimo cinco OPF;
+
+c) Tenham sido constituídas e desenvolvam trabalho continuado há mais de três anos ou, em alternativa, todas as suas associadas cumpram estas características.
+
+2 - São consideradas OPF de âmbito regional as estruturas de representação de baldios que reúnam, cumulativamente, as seguintes características:
+
+a) Comportem no seu seio estruturas de baldios em, pelos menos, três distritos do território continental português;
+
+b) Incluam, pelo menos, 10 % dos conselhos directivos ou entidades gestoras de baldios existentes;
+
+c) Tenham sido constituídas e desenvolvam trabalho continuado há mais de três anos ou, em alternativa, todas as suas associadas cumpram estas características.
+
+3 - São ainda consideradas OPF de âmbito regional as federações de cooperativas de produtores florestais que reúnam, cumulativamente, as seguintes características:
+
+a) Comportem no seu seio cooperativas de produtores florestais em, pelo menos, três distritos do território continental português ou agreguem mais de 50 % das cooperativas de produtores florestais de uma NUTS de nível ii;
+
+b) Incluam mais de cinco OPF;
+
+c) Tenham sido constituídas e desenvolvam trabalho continuado há mais de três anos ou, em alternativa, todas as suas associadas cumpram estas características.
+
+###### Artigo 5.º — Características das OPF de âmbito supramunicipal, municipal ou local
+
+As OPF de âmbito supramunicipal, municipal ou local são todas as organizações de natureza associativa florestal, organizações que reúnam conselhos directivos ou entidades gestoras de baldios, ou organizações de natureza cooperativa florestal que desenvolvam a sua actividade no espaço territorial que não corresponda ao previsto no artigo anterior.
+
+###### Artigo 6.º — OPF de natureza complementar
+
+São OPF de natureza complementar todas as organizações de natureza associativa, cooperativa ou organizações do universo agrícola que disponham de secções ou departamentos destinados à valorização da gestão, produção ou economia florestais.
+
+###### Artigo 7.º — Registo
+
+1 - No âmbito da aplicação da presente portaria e para efeitos de reconhecimento das OPF é criado um registo das organizações de produtores florestais junto da Autoridade Florestal Nacional (AFN).
+
+2 - O registo das OPF é válido por um período de cinco anos, podendo ser renovado por iguais períodos, caso se mantenham as condições que levaram ao seu reconhecimento inicial.
+
+3 - O processo de inscrição e de renovação é estabelecido por despacho do presidente da AFN, publicitado no sítio da Internet daquela Autoridade.
+
+###### Artigo 8.º — Participação em órgãos nacionais
+
+1 - As OPF de âmbito nacional integram os seguintes órgãos:
+
+a) Conselho Florestal Nacional;
+
+b) Conselho Consultivo para a Fitossanidade Florestal;
+
+c) Comissão de Acompanhamento para as Operações Florestais;
+
+2 - As OPF de âmbito regional podem, em razão das matérias a tratar, integrar o Conselho Consultivo para a Fitossanidade Florestal.
+
+3 - As OPF de âmbito regional emitem parecer sobre os trabalhos desenvolvidos pela Comissão de Acompanhamento para as Operações Florestais.
+
+###### Artigo 9.º — Credenciação, protocolos de gestão e apoios financeiros
+
+1 - A AFN, nos termos do n.º 7 do artigo 3.º do [Decreto-Lei n.º 159/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127), de 8 de Agosto, pode para a prossecução das atribuições previstas na alíneas i) do n.º 3 do mesmo artigo credenciar as OPF de âmbito nacional ou as OPF de âmbito regional cujas associadas representem maioritariamente uma fileira florestal estratégica, definindo os critérios do exercício e as formas de controlo.
+
+2 - Os requisitos a que devem obedecer as OPF de âmbito nacional para ser credenciadas são objecto de publicação de despacho do presidente da AFN.
+
+3 - Para a prossecução das atribuições previstas na alínea a) do n.º 3 do artigo 3.º do [Decreto-Lei n.º 159/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127), de 8 de Agosto, a AFN pode celebrar contratos de concessão com as OPF de âmbito nacional ou com OPF de âmbito regional cujas associadas representem maioritariamente uma fileira florestal estratégica.
+
+4 - A AFN pode, nos termos da alínea b) do n.º 6 do artigo 3.º do [Decreto-Lei n.º 159/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127), de 8 de Agosto, para a prossecução das atribuições previstas na alínea a) do n.º 3 do artigo 3.º do referido diploma, concretizar protocolos de gestão com OPF de âmbito nacional e regional, definindo, no mesmo protocolo, as respectivas comparticipações financeiras.
+
+5 - A AFN pode, no âmbito de execução dos seus planos de actividades, celebrar protocolos com as OPF para o desenvolvimento de programas, projectos e acções de gestão florestal e de defesa da floresta.
+
+6 - O Instituto de Financiamento da Agricultura e Pescas, I. P., enquanto entidade gestora do Fundo Florestal Permanente, pode participar nos instrumentos de financiamento previstos nos números anteriores ou desenvolver protocolos no âmbito das políticas definidas na Estratégia Nacional para as Florestas, no Plano Nacional de Defesa da Florestas contra Incêndios ou no Programa Nacional de Prevenção Estrutural.
+
+7 - As áreas de intervenção específicas, as condições de execução e a respectiva comparticipação financeira são, entre outros, estabelecidos em cada protocolo.
+
+8 - É atribuída prioridade na aprovação dos programas, projectos e acções com escala nacional, regional, supramunicipal ou municipal.
+
+###### Artigo 10.º — Controlo financeiro
+
+1 - As OPF que se credenciem ou estabeleçam protocolos ao abrigo do artigo 9.º ficam obrigadas à certificação oficial de contas, por TOC, e à apresentação do respectivo relatório de actividades e contas até ao final do mês de Junho de cada ano.
+
+2 - Exceptuam-se do disposto no número anterior as OPF de âmbito local e as OPF de âmbito nacional e regional cujo conjunto de transferências anuais não ultrapasse os (euro) 50 000, mantendo contudo a obrigação de apresentar o seu relatório de contas até ao final do mês de Junho de cada ano.
+
+3 - A credenciação, protocolos de gestão e apoios financeiros a OPF são objecto de divulgação pública anual no site da Internet da AFN.
+
+4 - No caso de incumprimento dos programas, projectos e acções desenvolvidos ao abrigo do artigo 9.º, ficam as OPF obrigadas à restituição da totalidade dos montantes financeiros envolvidos, acrescidos dos juros de lei.
+
+###### Artigo 11.º — Acompanhamento e controlo
+
+Compete à AFN, para além das orientações e do aconselhamento de carácter técnico que se justificarem, proceder ao acompanhamento e controlo das actividades desenvolvidas pelas OPF credenciadas e do cumprimento dos termos dos protocolos estabelecidos no âmbito desta portaria.

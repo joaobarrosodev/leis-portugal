@@ -1,0 +1,376 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:483132:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-907912522",
+ "dre_path": "/dr/detalhe/portaria/1371-2009-483132",
+ "source_lastmod": "2025-02-18",
+ "versions": [
+  {
+   "date": "2009-10-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907912603",
+    "907912604",
+    "907912605",
+    "907912606",
+    "907912607",
+    "907912608",
+    "907912609",
+    "907912610",
+    "907912611",
+    "907912612",
+    "907912613",
+    "907912614",
+    "907912615",
+    "907912616",
+    "907912617",
+    "907912618",
+    "907912619",
+    "907912620",
+    "907912621",
+    "907912622",
+    "907912623",
+    "907912624",
+    "907912625",
+    "907912626",
+    "907912627",
+    "907912628",
+    "907912629"
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:907763812:por",
+     "title": "Portaria n.º 43/2025/1",
+     "published": "2025-02-18",
+     "dre_path": "/dr/detalhe/portaria/43-2025-907763812"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "907912603",
+    "907912604",
+    "908035487",
+    "907912606",
+    "907912607",
+    "907912608",
+    "907912609",
+    "908035485",
+    "908035486",
+    "907912610",
+    "908035488",
+    "908035489",
+    "907912613",
+    "907912614",
+    "908035490",
+    "907912616",
+    "907912617",
+    "907912618",
+    "907912619",
+    "907912620",
+    "907912621",
+    "907912622",
+    "907912623",
+    "907912624",
+    "907912625",
+    "907912626",
+    "907912627",
+    "907912628",
+    "907912629",
+    "907912630"
+   ]
+  }
+ ],
+ "fragments": {
+  "907912603": {
+   "fragment_id": "907912523",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1371/2009\n\nde 27 de Outubro\n\nA presente portaria cria o Centro Académico de Medicina de Lisboa (CAML), um consórcio constituído pelo Centro Hospitalar de Lisboa Norte, E. P. E., pela Faculdade de Medicina da Universidade de Lisboa e pelo Instituto de Medicina Molecular. A sua criação corresponde à necessidade de se constituir uma estrutura que, em complemento às competências específicas dos seus membros, promova o desenvolvimento da dimensão académica e da qualificação da prática clínica, a modernização e o desenvolvimento da investigação, da educação médica e inovação das ciências da saúde na pré e pós-graduação, bem como a racionalização dos meios humanos e materiais dos seus membros, maximizando as sinergias decorrentes da sua integração geográfica e da elevada diferenciação dos seus recursos humanos. O CAML corresponde a um novo patamar no desenvolvimento e modernização do modelo histórico de escola médica, e pretende assegurar a compatibilização indispensável das necessidades prioritárias da educação médica e da investigação com o desenvolvimento da missão assistencial, no âmbito das responsabilidades do Serviço Nacional de Saúde, renovando afinal o conceito de hospital universitário, consignado na reforma de 1911.\n\nForam ouvidas as instituições envolvidas.\n\nAssim:\n\nManda o Governo, pelos Ministros da Saúde e da Ciência, Tecnologia e Ensino Superior, ao abrigo do n.º 2 do artigo 17.º da Lei n.º 62/2007, de 10 de Setembro, o seguinte:"
+  },
+  "907912604": {
+   "fragment_id": "907912524",
+   "type": 1,
+   "heading": "Capítulo I — Enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Enquadramento"
+  },
+  "907912605": {
+   "fragment_id": "907912525",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria cria o Centro Académico de Medicina de Lisboa, doravante CAML, um consórcio constituído pelo Centro Hospitalar de Lisboa Norte, E. P. E., pela Faculdade de Medicina da Universidade de Lisboa e pelo Instituto de Medicina Molecular."
+  },
+  "907912606": {
+   "fragment_id": "907912526",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO CAML é um consórcio externo vocacionado para a prossecução de objectivos comuns dos seus membros, não estabelecendo qualquer limitação à identidade e à autonomia de cada um deles."
+  },
+  "907912607": {
+   "fragment_id": "907912527",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede\n\nO CAML tem sede no Campus Universitário de Santa Maria, em Lisboa."
+  },
+  "907912608": {
+   "fragment_id": "907912528",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto do consórcio\n\nO consórcio tem por objecto a prossecução das seguintes finalidades:\n\na) Desenvolvimento da dimensão académica e da qualificação na medicina clínica;\n\nb) Modernização e qualificação da educação médica e nas ciências da saúde, em toda a dimensão pós-graduada e de educação médica continuada;\n\nc) Desenvolvimento de programas de formação académica em medicina, ciências biomédicas e da saúde;\n\nd) Racionalização dos meios financeiros e dos recursos humanos e materiais dos membros;\n\ne) Aproveitamento das sinergias decorrentes da proximidade no mesmo Campus Universitário e da elevada diferenciação dos seus recursos humanos;\n\nf) Reforço da cooperação internacional para a investigação e a formação avançada em biomedicina e medicina clínica."
+  },
+  "907912609": {
+   "fragment_id": "907912529",
+   "type": 1,
+   "heading": "Capítulo II — Organização interna do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização interna do consórcio"
+  },
+  "907912610": {
+   "fragment_id": "907912530",
+   "type": 8,
+   "heading": "Secção I — Conselho de curadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conselho de curadores"
+  },
+  "907912611": {
+   "fragment_id": "907912531",
+   "type": 11,
+   "heading": "Artigo 7.º — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Composição e funcionamento\n\n1 - O conselho de curadores é constituído por cinco personalidades de elevado mérito e reconhecida experiência profissional.\n\n2 - Os membros do conselho de curadores elegem o respectivo presidente.\n\n3 - O mandato dos membros do conselho de curadores tem uma duração de cinco anos, sendo renovável apenas para três membros por mais um mandato de igual período.\n\n4 - O conselho de curadores reúne ordinariamente quatro vezes por ano."
+  },
+  "907912612": {
+   "fragment_id": "907912532",
+   "type": 11,
+   "heading": "Artigo 8.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Designação\n\nOs membros do conselho de curadores são designados:\n\na) Um pelo Ministro da Saúde;\n\nb) Um pelo Ministro da Ciência, Tecnologia e Ensino Superior;\n\nc) Um pelo reitor da Universidade de Lisboa;\n\nd) Dois por deliberação conjunta dos órgãos directivos dos membros do CAML."
+  },
+  "907912613": {
+   "fragment_id": "907912533",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências\n\nCompete ao conselho de curadores:\n\na) Designar o fiscal único;\n\nb) Aprovar a proposta de orçamento;\n\nc) Aprovar o plano de orientação do CAML nos planos científico, pedagógico e financeiro;\n\nd) Aprovar os planos anuais de actividades e apreciar o relatório anual das actividades da instituição;\n\ne) Aprovar as contas anuais consolidadas, acompanhadas do parecer do fiscal único;\n\nf) Dar parecer sobre os aspectos da actividade do CAML que entenda convenientes."
+  },
+  "907912614": {
+   "fragment_id": "907912534",
+   "type": 8,
+   "heading": "Secção II — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho directivo"
+  },
+  "907912615": {
+   "fragment_id": "907912535",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição e funcionamento\n\n1 - O conselho directivo é constituído por três membros, respectivamente os directores das instituições signatárias.\n\n2 - O mandato dos membros do conselho directivo tem uma duração de três anos.\n\n3 - O conselho directivo reúne ordinariamente uma vez por mês.\n\n4 - As decisões do conselho directivo são tomadas por unanimidade."
+  },
+  "907912616": {
+   "fragment_id": "907912536",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\n1 - Compete ao conselho directivo, quanto à organização interna do consórcio:\n\na) Dirigir a respectiva actividade;\n\nb) Elaborar os planos anuais e plurianuais de actividades e demais instrumentos de gestão;\n\nc) Acompanhar e avaliar sistematicamente a actividade desenvolvida;\n\nd) Aprovar os regulamentos internos;\n\ne) Nomear os representantes do instituto em organismos exteriores;\n\nf) Constituir representantes do consórcio;\n\ng) Arrecadar e gerir as receitas e autorizar as despesas;\n\nh) Aceitar doações, heranças ou legados.\n\n2 - Compete ao conselho directivo, quanto aos membros do consórcio:\n\na) Promover o ensino pré-graduado, privilegiando a cooperação entre as ciências fundamentais e a medicina clínica;\n\nb) Fomentar a formação pós-graduada, através de maior diferenciação dos programas de internato;\n\nc) Desenvolver novos esquemas de governação dos serviços e unidades clínicas;\n\nd) Intensificar os programas de investigação biomédica, potenciando sinergias entre os membros;\n\ne) Dar parecer sobre a selecção das chefias clínicas e académicas;\n\nf) Reforçar a cooperação internacional e a participação do CAML em programas com outras instituições;\n\ng) Exercer as demais competências necessárias à prossecução das suas finalidades."
+  },
+  "907912617": {
+   "fragment_id": "907912537",
+   "type": 8,
+   "heading": "Secção III — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Fiscal único"
+  },
+  "907912618": {
+   "fragment_id": "907912538",
+   "type": 11,
+   "heading": "Artigo 12.º — Designação e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Designação e mandato\n\n1 - O fiscal único é o órgão responsável pelo controlo da legalidade e da boa gestão financeira do consórcio.\n\n2 - O fiscal único é designado pelo conselho de curadores, sob proposta conjunta dos órgãos directivos dos membros do consórcio.\n\n3 - O mandato do fiscal único tem a duração de três anos, renovável uma vez."
+  },
+  "907912619": {
+   "fragment_id": "907912539",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências\n\nCompete ao fiscal único:\n\na) Acompanhar e controlar com regularidade o cumprimento das leis e regulamentos aplicáveis, bem como a execução dos instrumentos de gestão do consórcio;\n\nb) Dar parecer sobre os instrumentos de gestão do consórcio, bem como sobre os planos anual e quadrienal de actividades nos aspectos financeiros;\n\nc) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;\n\nd) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo conselho directivo."
+  },
+  "907912620": {
+   "fragment_id": "907912540",
+   "type": 8,
+   "heading": "Secção IV — Organização administrativa interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Organização administrativa interna"
+  },
+  "907912621": {
+   "fragment_id": "907912541",
+   "type": 11,
+   "heading": "Artigo 14.º — Apoio logístico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apoio logístico e administrativo\n\nOs membros do consórcio vinculam-se a dar todo o apoio logístico e administrativo às actividades do CAML, facultando os meios dessa natureza necessários à prossecução das suas finalidades."
+  },
+  "907912622": {
+   "fragment_id": "907912542",
+   "type": 11,
+   "heading": "Artigo 15.º — Áreas de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Áreas de actividade\n\nO CAML pode aprovar formas de organização interna, mediante regulamento interno aprovado pelo conselho directivo."
+  },
+  "907912623": {
+   "fragment_id": "907912543",
+   "type": 8,
+   "heading": "Secção V — Formas complementares de articulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Formas complementares de articulação"
+  },
+  "907912624": {
+   "fragment_id": "907912544",
+   "type": 11,
+   "heading": "Artigo 16.º — Articulação entre membros do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Articulação entre membros do consórcio\n\n1 - Os órgãos directivos dos membros do consórcio podem convidar um representante de cada um dos demais membros para assistir, sem direito de voto, às reuniões dos seus órgãos directivos.\n\n2 - Os órgãos directivos dos membros do consórcio podem pedir pareceres aos órgãos dos demais membros do consórcio relativamente ao exercício das suas competências.\n\n3 - Um dos representantes do conselho directivo do CAML pode assistir, sem direito de voto, às reuniões dos órgãos directivos dos membros do consórcio."
+  },
+  "907912625": {
+   "fragment_id": "907912545",
+   "type": 1,
+   "heading": "Capítulo III — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime financeiro"
+  },
+  "907912626": {
+   "fragment_id": "907912546",
+   "type": 11,
+   "heading": "Artigo 17.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Receitas\n\nSão receitas do CAML:\n\na) As transferências anuais dos membros do consórcio, a deliberar pelos respectivos órgãos directivos;\n\nb) As heranças, doações ou legados de que for destinatário;\n\nc) Quaisquer outras previstas por lei ou regulamento."
+  },
+  "907912627": {
+   "fragment_id": "907912547",
+   "type": 11,
+   "heading": "Artigo 18.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Despesas\n\nAs despesas do consórcio devem ser autorizadas pelo conselho directivo, vinculando-se o mesmo com a assinatura de dois membros."
+  },
+  "907912628": {
+   "fragment_id": "907912548",
+   "type": 1,
+   "heading": "Capítulo IV — Normas finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Normas finais"
+  },
+  "907912629": {
+   "fragment_id": "907912549",
+   "type": 11,
+   "heading": "Artigo 19.º — Início de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Início de vigência\n\nA presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "908035487": {
+   "fragment_id": "907912525",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-02-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 43/2025/1 - Diário da República n.º 34/2025, Série I de 2025-02-18](https://diariodarepublica.pt/dr/detalhe/portaria/43-2025-907763812), em vigor a partir de 2025-02-19"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria cria o Centro Académico de Medicina de Lisboa, doravante CAML, um consórcio constituído por:\n\na) Unidade Local de Saúde Santa Maria, E. P. E.,\n\nb) Faculdade de Medicina da Universidade de Lisboa;\n\nc) Escola Superior de Enfermagem de Lisboa, da Universidade de Lisboa;\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 43/2025/1 - Diário da República n.º 34/2025, Série I de 2025-02-18](https://diariodarepublica.pt/dr/detalhe/portaria/43-2025-907763812), em vigor a partir de 2025-02-19"
+  },
+  "908035485": {
+   "fragment_id": "907932972",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nO consórcio compreende um conselho de curadores, um conselho directivo e um fiscal único."
+  },
+  "908035486": {
+   "fragment_id": "907932973",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionamento dos órgãos\n\nEm tudo o que não estiver previsto na presente portaria, o funcionamento dos órgãos do CAML é regulado pelas normas aplicáveis do Código do Procedimento Administrativo."
+  },
+  "908035488": {
+   "fragment_id": "907912531",
+   "type": 11,
+   "heading": "Artigo 7.º — ‘Composição e funcionamento",
+   "in_force_from": "2025-02-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 43/2025/1 - Diário da República n.º 34/2025, Série I de 2025-02-18](https://diariodarepublica.pt/dr/detalhe/portaria/43-2025-907763812), em vigor a partir de 2025-02-19"
+   ],
+   "markdown": "###### Artigo 7.º — ‘Composição e funcionamento\n\n1 - O conselho de curadores é constituído por seis personalidades de elevado mérito e reconhecida experiência profissional.\n\n2 - Os membros do conselho de curadores elegem o respectivo presidente.\n\n3 - O mandato dos membros do conselho de curadores tem uma duração de cinco anos, sendo renovável apenas para três membros por mais um mandato de igual período.\n\n4 - O conselho de curadores reúne ordinariamente quatro vezes por ano.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 43/2025/1 - Diário da República n.º 34/2025, Série I de 2025-02-18](https://diariodarepublica.pt/dr/detalhe/portaria/43-2025-907763812), em vigor a partir de 2025-02-19"
+  },
+  "908035489": {
+   "fragment_id": "907912532",
+   "type": 11,
+   "heading": "Artigo 8.º — Designação",
+   "in_force_from": "2025-02-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 43/2025/1 - Diário da República n.º 34/2025, Série I de 2025-02-18](https://diariodarepublica.pt/dr/detalhe/portaria/43-2025-907763812), em vigor a partir de 2025-02-19"
+   ],
+   "markdown": "###### Artigo 8.º — Designação\n\nOs membros do conselho de curadores são designados:\n\na) Um pelo Ministro da Saúde;\n\nb) Um pelo Ministro da Ciência, Tecnologia e Ensino Superior;\n\nc) Um pelo reitor da Universidade de Lisboa;\n\nd) Três por deliberação conjunta dos órgãos diretivos dos membros do CAML.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 43/2025/1 - Diário da República n.º 34/2025, Série I de 2025-02-18](https://diariodarepublica.pt/dr/detalhe/portaria/43-2025-907763812), em vigor a partir de 2025-02-19"
+  },
+  "908035490": {
+   "fragment_id": "907912535",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição e funcionamento",
+   "in_force_from": "2025-02-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 43/2025/1 - Diário da República n.º 34/2025, Série I de 2025-02-18](https://diariodarepublica.pt/dr/detalhe/portaria/43-2025-907763812), em vigor a partir de 2025-02-19"
+   ],
+   "markdown": "###### Artigo 10.º — Composição e funcionamento\n\n1 - O conselho diretivo é constituído por quatro membros, respetivamente os dirigentes máximos das instituições signatárias.\n\n2 - O mandato dos membros do conselho directivo tem uma duração de três anos.\n\n3 - O conselho directivo reúne ordinariamente uma vez por mês.\n\n4 - As decisões do conselho directivo são tomadas por unanimidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 43/2025/1 - Diário da República n.º 34/2025, Série I de 2025-02-18](https://diariodarepublica.pt/dr/detalhe/portaria/43-2025-907763812), em vigor a partir de 2025-02-19"
+  },
+  "907912630": {
+   "fragment_id": "907912550",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Saúde, Ana Maria Teodoro Jorge, em 21 de Setembro de 2009. - O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 24 de Setembro de 2009."
+  }
+ }
+}

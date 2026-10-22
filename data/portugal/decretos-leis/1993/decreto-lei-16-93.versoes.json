@@ -1,0 +1,1128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:584777:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-72851445",
+ "dre_path": "/dr/detalhe/decreto-lei/16-1993-584777",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-01-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "72836340",
+    "72836341",
+    "72836342",
+    "72836343",
+    "72836344",
+    "72836345",
+    "72836346",
+    "72836347",
+    "72836348",
+    "72836349",
+    "72836350",
+    "72836351",
+    "72836352",
+    "72836353",
+    "72836354",
+    "72836355",
+    "72836356",
+    "72836357",
+    "72836358",
+    "72836359",
+    "72836360",
+    "72836361",
+    "72836362",
+    "72836363",
+    "72836364",
+    "72836365",
+    "72836366",
+    "72836367",
+    "72836368",
+    "72836369",
+    "72836370",
+    "72836371",
+    "72836372",
+    "72836373",
+    "72836374",
+    "72871575",
+    "72871576",
+    "72871577",
+    "72871578",
+    "72871579",
+    "72871580",
+    "72871581",
+    "72871582",
+    "72871583",
+    "72871584",
+    "72871585",
+    "72871586",
+    "72871587",
+    "72871588",
+    "72871589",
+    "72871590",
+    "72871591",
+    "72871592",
+    "72871593",
+    "72871594",
+    "72871595",
+    "72871596",
+    "72871597",
+    "72871598",
+    "72871599",
+    "72871600"
+   ]
+  },
+  {
+   "date": "1994-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:255815:por",
+     "title": "Lei n.º 14/94",
+     "published": "1994-05-11",
+     "dre_path": "/dr/detalhe/lei/14-1994-255815"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "72836340",
+    "72836341",
+    "72869761",
+    "72836343",
+    "72836344",
+    "72836345",
+    "72836346",
+    "72836347",
+    "72869762",
+    "72836349",
+    "72836350",
+    "72836351",
+    "72836352",
+    "72836353",
+    "72836354",
+    "72836355",
+    "72836356",
+    "72836357",
+    "72836358",
+    "72836359",
+    "72836360",
+    "72836361",
+    "72836362",
+    "72836363",
+    "72836364",
+    "72836365",
+    "72836366",
+    "72836367",
+    "72836368",
+    "72836369",
+    "72836370",
+    "72836371",
+    "72836372",
+    "72836373",
+    "72836374",
+    "72871575",
+    "72871576",
+    "72871577",
+    "72871578",
+    "72871579",
+    "72871580",
+    "72871581",
+    "72871582",
+    "72871583",
+    "72871584",
+    "72871585",
+    "72871586",
+    "72871587",
+    "72871588",
+    "72871589",
+    "72871590",
+    "72871591",
+    "72871592",
+    "72871593",
+    "72871594",
+    "72871595",
+    "72871596",
+    "72871597",
+    "72871598",
+    "72869758",
+    "72869759",
+    "72869760",
+    "72871601"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:255815:por",
+     "title": "Lei n.º 14/94",
+     "published": "1994-05-11",
+     "dre_path": "/dr/detalhe/lei/14-1994-255815",
+     "date": "1995-06-16"
+    }
+   ]
+  },
+  {
+   "date": "2001-11-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629790:por",
+     "title": "Lei n.º 107/2001",
+     "published": "2001-09-08",
+     "dre_path": "/dr/detalhe/lei/107-2001-629790"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Revoga Artigo 6.º",
+    "Revoga Capítulo I",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 46.º-A"
+   ],
+   "fragments": [
+    "72836340",
+    "72836341",
+    "72869761",
+    "72836343",
+    "72836344",
+    "72836345",
+    "72836346",
+    "72836347",
+    "72869763",
+    "72836349",
+    "72836350",
+    "72836351",
+    "72836352",
+    "72869766",
+    "72836354",
+    "72836355",
+    "72836356",
+    "72836357",
+    "72836358",
+    "72836359",
+    "72836360",
+    "72836361",
+    "72836362",
+    "72836363",
+    "72836364",
+    "72836365",
+    "72836366",
+    "72836367",
+    "72869767",
+    "72872278",
+    "72872279",
+    "72872280",
+    "72872281",
+    "72872282",
+    "72872283",
+    "72872284",
+    "72872285",
+    "72872286",
+    "72872287",
+    "72871579",
+    "72871580",
+    "72871581",
+    "72871582",
+    "72871583",
+    "72871584",
+    "72871585",
+    "72871586",
+    "72871587",
+    "72871588",
+    "72871589",
+    "72871590",
+    "72871591",
+    "72871592",
+    "72871593",
+    "72871594",
+    "72871595",
+    "72871596",
+    "72871597",
+    "72871598",
+    "72872288",
+    "72869759",
+    "72869760",
+    "72871601"
+   ]
+  },
+  {
+   "date": "2016-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75177807:por",
+     "title": "Lei n.º 26/2016",
+     "published": "2016-08-22",
+     "dre_path": "/dr/detalhe/lei/26-2016-75177807"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "72836340",
+    "72836341",
+    "72869761",
+    "72836343",
+    "72836344",
+    "72836345",
+    "72836346",
+    "72836347",
+    "72869763",
+    "72836349",
+    "72836350",
+    "72836351",
+    "72836352",
+    "72869766",
+    "72836354",
+    "72836355",
+    "72836356",
+    "72836357",
+    "72836358",
+    "72836359",
+    "72836360",
+    "72836361",
+    "72836362",
+    "115352947",
+    "72836364",
+    "72836365",
+    "72836366",
+    "72836367",
+    "72869767",
+    "72872278",
+    "72872279",
+    "72872280",
+    "72872281",
+    "72872282",
+    "72872283",
+    "72872284",
+    "72872285",
+    "72872286",
+    "72872287",
+    "72871579",
+    "72871580",
+    "72871581",
+    "72871582",
+    "72871583",
+    "72871584",
+    "72871585",
+    "72871586",
+    "72871587",
+    "72871588",
+    "72871589",
+    "72871590",
+    "72871591",
+    "72871592",
+    "72871593",
+    "72871594",
+    "72871595",
+    "72871596",
+    "72871597",
+    "72871598",
+    "72872288",
+    "72869759",
+    "72869760",
+    "72871601"
+   ]
+  },
+  {
+   "date": "2021-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:170221042:por",
+     "title": "Lei n.º 68/2021",
+     "published": "2021-08-26",
+     "dre_path": "/dr/detalhe/lei/68-2021-170221042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "72836340",
+    "72836341",
+    "72869761",
+    "72836343",
+    "72836344",
+    "72836345",
+    "72836346",
+    "72836347",
+    "72869763",
+    "72836349",
+    "72836350",
+    "72836351",
+    "72836352",
+    "72869766",
+    "72836354",
+    "72836355",
+    "72836356",
+    "72836357",
+    "72836358",
+    "72836359",
+    "72836360",
+    "72836361",
+    "72836362",
+    "171442772",
+    "72836364",
+    "72836365",
+    "72836366",
+    "72836367",
+    "72869767",
+    "72872278",
+    "72872279",
+    "72872280",
+    "72872281",
+    "72872282",
+    "72872283",
+    "72872284",
+    "72872285",
+    "72872286",
+    "72872287",
+    "72871579",
+    "72871580",
+    "72871581",
+    "72871582",
+    "72871583",
+    "72871584",
+    "72871585",
+    "72871586",
+    "72871587",
+    "72871588",
+    "72871589",
+    "72871590",
+    "72871591",
+    "72871592",
+    "72871593",
+    "72871594",
+    "72871595",
+    "72871596",
+    "72871597",
+    "72871598",
+    "72872288",
+    "72869759",
+    "72869760",
+    "72871601"
+   ]
+  }
+ ],
+ "fragments": {
+  "72836340": {
+   "fragment_id": "72851446",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 16/93\n\nde 23 de Janeiro\n\nA definição da política arquivística nacional passa pela aprovação de um diploma que constitua a sua base legal.\n\nO objectivo do regime geral dos arquivos e do património arquivístico é o de disciplinar normativamente a garantia da sua valorização, inventariação e preservação, como bens fundamentais que corporizam a cultura portuguesa. Visa-se, com a sua aprovação, definir os princípios que devem presidir à sua organização, inventariação, classificação e conservação, ou seja, às operações que permitem a guarda, o acesso e o uso desse património, sem as quais permaneceria inútil, bem como a punição de actos de destruição, alienação, exportação ou ocultação, tendo em vista a sua defesa.\n\nO presente diploma constituirá, por isso, a pedra basilar de uma política arquivística nacional coordenada.\n\nA sua aprovação, neste momento, em que a supressão de fronteiras no espaço comunitário vai tornar livre a circulação de bens, mais se justifica, pelos mecanismos que cria para a defesa do património arquivístico português.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 18/92, de 6 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "72836341": {
+   "fragment_id": "72851447",
+   "type": 13,
+   "heading": "Título I — Âmbito de aplicação e princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Âmbito de aplicação e princípios"
+  },
+  "72836342": {
+   "fragment_id": "72851448",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente diploma define o regime geral dos arquivos e do património arquivístico.\n\n2 - São excluídos do âmbito de aplicação do presente diploma os arquivos áudio-visuais."
+  },
+  "72836343": {
+   "fragment_id": "72851449",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípio geral\n\n1 - É direito e dever de todos os cidadãos, do Estado e das demais entidades públicas e privadas preservar, defender e valorizar o património arquivístico.\n\n2 - Compete ao Estado promover a inventariação do património arquivístico e apoiar a organização dos arquivos, qualquer que seja a sua natureza, bem como garantir, facilitar e promover o acesso à documentação detida por entidades públicas."
+  },
+  "72836344": {
+   "fragment_id": "72851450",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições do Estado\n\nNos termos do princípio geral enunciado no artigo anterior, cabe especialmente ao Estado:\n\na) Garantir a qualidade das instalações destinadas aos arquivos;\n\nb) Garantir a conservação, o restauro e a valorização da documentação;\n\nc) Programar e regulamentar a avaliação, a selecção e a eliminação da documentação;\n\nd) Promover uma correcta aplicação das normas de organização documental, nomeadamente quanto à classificação e à ordenação;\n\ne) Garantir, facilitar e promover o acesso à documentação, nomeadamente através de instrumentos de descrição normalizados;\n\nf) Definir as condições gerais e especiais da comunicação dos documentos;\n\ng) Promover a coordenação entre os arquivos;\n\nh) Promover a cooperação internacional no domínio arquivístico;\n\ni) Promover a formação profissional de técnicos de arquivo;\n\nj) Fomentar a investigação em arquivística."
+  },
+  "72836345": {
+   "fragment_id": "72851451",
+   "type": 13,
+   "heading": "Título II — Arquivos e património arquivístico protegido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Arquivos e património arquivístico protegido"
+  },
+  "72836346": {
+   "fragment_id": "72851452",
+   "type": 11,
+   "heading": "Artigo 4.º — Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Arquivo\n\n1 - Arquivo é um conjunto de documentos, qualquer que seja a sua data ou suporte material, reunidos no exercício da sua actividade por uma entidade, pública ou privada, e conservados, respeitando a organização original, tendo em vista objectivos de gestão administrativa, de prova ou de informação, ao serviço das entidades que os detêm, dos investigadores e dos cidadãos em geral.\n\n2 - Arquivo é, também, uma instituição cultural ou unidade administrativa onde se recolhe, conserva, trata e difunde a documentação arquivística.\n\n3 - Os conjuntos documentais passam por três fases:\n\na) A de arquivo corrente, em que os documentos são necessários, prioritariamente, à actividade do organismo que os produziu ou recebeu;\n\nb) A de arquivo intermédio, em que os documentos, tendo deixado de ser de utilização corrente, são, todavia, utilizados, ocasionalmente, em virtude do seu interesse administrativo;\n\nc) A de arquivo definitivo ou histórico, em que os documentos, tendo, em geral, perdido utilidade administrativa, são considerados de conservação permanente, para fins probatórios, informativos ou de investigação."
+  },
+  "72836347": {
+   "fragment_id": "72851453",
+   "type": 11,
+   "heading": "Artigo 5.º — Fundo ou núcleo, colecção e documento de arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fundo ou núcleo, colecção e documento de arquivo\n\nEntende-se por fundo ou núcleo, colecção e documento de arquivo, respectivamente:\n\na) Fundo ou núcleo - o conjunto de documentos de uma única proveniência;\n\nb) Colecção - o conjunto de documentos, constituído por um coleccionador responsável pelo critério que os une e relaciona;\n\nc) Documento de arquivo - o testemunho, qualquer que seja a sua data, forma ou suporte material que, integrando um fundo ou colecção, contém uma informação e é produzido ou recebido por uma entidade pública ou privada no exercício da sua actividade."
+  },
+  "72836348": {
+   "fragment_id": "72851454",
+   "type": 11,
+   "heading": "Artigo 6.º — Património arquivístico protegido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Património arquivístico protegido\n\nOs documentos dos arquivos públicos e os restantes arquivos e documentos classificados ou em vias de classificação constituem o património arquivístico protegido."
+  },
+  "72836349": {
+   "fragment_id": "72851455",
+   "type": 13,
+   "heading": "Título III — Gestão nacional dos arquivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Gestão nacional dos arquivos"
+  },
+  "72836350": {
+   "fragment_id": "72851456",
+   "type": 1,
+   "heading": "Capítulo I — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Gestão"
+  },
+  "72836351": {
+   "fragment_id": "72851457",
+   "type": 11,
+   "heading": "Artigo 7.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objectivo\n\nA gestão nacional dos arquivos consiste na definição dos princípios e regras a que devem obedecer a recolha, o tratamento, a classificação, a conservação e a valorização do património arquivístico."
+  },
+  "72836352": {
+   "fragment_id": "72851458",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgão de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgão de gestão\n\nOs Arquivos Nacionais/Torre do Tombo são o órgão de gestão nacional dos arquivos, doravante designado por órgão de gestão, cabendo-lhes a execução da política arquivística nacional, nos termos definidos pela lei."
+  },
+  "72836353": {
+   "fragment_id": "72851459",
+   "type": 11,
+   "heading": "Artigo 9.º — Categorias de arquivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Categorias de arquivos\n\n1 - Os arquivos classificam-se sempre:\n\na) Quanto ao seu âmbito territorial, em:\n\nArquivo nacional, quando reúne predominantemente a documentação proveniente de órgãos da administração central ou de instituições de âmbito nacional;\n\nArquivo regional, quando reúne predominantemente a documentação relativa a uma área superior ao âmbito municipal e inferior ao âmbito nacional;\n\nArquivo municipal, quando reúne predominantemente a documentação relativa a um município ou proveniente de organismos administrativos do mesmo âmbito;\n\nb) Quanto à sua titularidade, em:\n\nArquivo público, quando reunido por uma entidade pública;\n\nArquivo privado, quando reunido por uma entidade privada.\n\n2 - Os arquivos referidos no número anterior podem ainda ser classificados em função da origem, tema ou suporte da documentação que reúnem."
+  },
+  "72836354": {
+   "fragment_id": "72851460",
+   "type": 11,
+   "heading": "Artigo 10.º — Arquivo definitivo público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Arquivo definitivo público\n\n1 - A competência para a criação de um arquivo definitivo público, nacional ou regional, cabe ao Governo, ouvido o órgão de gestão.\n\n2 - A criação de um arquivo definitivo público de âmbito municipal cabe às autarquias locais, ouvido o órgão de gestão."
+  },
+  "72836355": {
+   "fragment_id": "72851461",
+   "type": 11,
+   "heading": "Artigo 11.º — Arquivo intermédio público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Arquivo intermédio público\n\nO órgão de gestão ou qualquer entidade pública, ouvido aquele, podem criar arquivos intermédios, destinados à solução de problemas de arrumação ou preparação de espólios."
+  },
+  "72836356": {
+   "fragment_id": "72851462",
+   "type": 11,
+   "heading": "Artigo 12.º — Relação dos arquivos privados com o órgão de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Relação dos arquivos privados com o órgão de gestão\n\nOs arquivos privados classificados estão sujeitos à disciplina técnica e às regras arquivísticas nacionais."
+  },
+  "72836357": {
+   "fragment_id": "72851463",
+   "type": 1,
+   "heading": "Capítulo II — Gestão de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Gestão de documentos"
+  },
+  "72836358": {
+   "fragment_id": "72851464",
+   "type": 11,
+   "heading": "Artigo 13.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Noção\n\nEntende-se por gestão de documentos o conjunto de operações e procedimentos técnicos que visam a racionalização e a eficácia na criação, organização, utilização, conservação, avaliação, selecção e eliminação de documentos, nas fases de arquivo corrente e intermédio, e na remessa para arquivo definitivo."
+  },
+  "72836359": {
+   "fragment_id": "72851465",
+   "type": 11,
+   "heading": "Artigo 14.º — Sistemas de gestão de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sistemas de gestão de documentos\n\nCompete aos serviços de origem, de acordo com a política adoptada, a implantação de sistemas de gestão de documentos, garantindo-lhes e provendo-os de instrumentos, recursos e infra-estruturas de apoio ao funcionamento dos referidos sistemas."
+  },
+  "72836360": {
+   "fragment_id": "72851466",
+   "type": 11,
+   "heading": "Artigo 15.º — Promoção de sistemas de gestão de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Promoção de sistemas de gestão de documentos\n\n1 - O órgão de gestão incentiva e apoia, do ponto de vista técnico, a implantação de sistemas de gestão de documentos, promovendo normas relativas à sua avaliação, selecção e eliminação.\n\n2 - Os critérios de avaliação e de selecção, bem como os prazos de conservação e a forma de eliminação de documentos, são definidos por decreto regulamentar."
+  },
+  "72836361": {
+   "fragment_id": "72851467",
+   "type": 11,
+   "heading": "Artigo 16.º — Incorporações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Incorporações\n\nAs incorporações a efectuar nos arquivos definitivos públicos e nos particulares classificados são definidas por decreto regulamentar."
+  },
+  "72836362": {
+   "fragment_id": "72851468",
+   "type": 1,
+   "heading": "Capítulo III — Comunicação e conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Comunicação e conservação"
+  },
+  "72836363": {
+   "fragment_id": "72851469",
+   "type": 11,
+   "heading": "Artigo 17.º — Comunicação do património arquivístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comunicação do património arquivístico\n\n1 - É garantida a comunicação da documentação conservada em arquivos públicos, salvas as limitações decorrentes dos imperativos da conservação das espécies e sem prejuízo das restrições impostas pela lei.\n\n2 - Não são comunicáveis os documentos que contenham dados pessoais de carácter judicial, policial ou clínico, bem como os que contenham dados pessoais que não sejam públicos, ou de qualquer índole que possa afectar a segurança das pessoas, a sua honra ou a intimidade da sua vida privada e familiar e a sua própria imagem, salvo se os dados pessoais puderem ser expurgados do documento que os contém, sem perigo de fácil identificação, se houver consentimento unânime dos titulares dos interesses legítimos a salvaguardar ou desde que decorridos 50 anos sobre a data da morte da pessoa a que respeitam os documentos ou, não sendo esta data conhecida, decorridos 75 anos sobre a data dos documentos.\n\n3 - Os dados sensíveis respeitantes a pessoas colectivas, como tal definidos por lei, gozam de protecção prevista no número anterior, sendo comunicáveis decorridos 50 anos sobre a data da extinção da pessoa colectiva, caso a lei não determine prazo mais curto.\n\n4 - Compete aos proprietários dos arquivos particulares proporem as regras e modalidades de comunicação da documentação, as quais serão objecto de apreciação e de proposta de homologação ao membro do Governo que superintende na política arquivística por parte do órgão de gestão."
+  },
+  "72836364": {
+   "fragment_id": "72851470",
+   "type": 11,
+   "heading": "Artigo 18.º — Compensação pelo acesso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Compensação pelo acesso público\n\n1 - O encargo decorrente da comunicação e do acesso público da documentação detida por particulares, quando feita de forma regular, pode ser suportado pelo Estado, sob proposta do órgão de gestão.\n\n2 - O encargo decorrente da comunicação ocasional pode ser compensado por uma prestação económica proporcional, quer aos incómodos causados, quer às vantagens económicas auferidas pelo utilizador.\n\n3 - Na falta de acordo entre o proprietário e o interessado na utilização dos documentos, o montante da compensação é arbitrado pelo órgão de gestão."
+  },
+  "72836365": {
+   "fragment_id": "72851471",
+   "type": 11,
+   "heading": "Artigo 19.º — Dever de manifesto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dever de manifesto\n\nAos proprietários ou possuidores de fundos, colecções ou documentos susceptíveis de integrar o património arquivístico protegido incumbe o dever de os manifestar junto do órgão de gestão."
+  },
+  "72836366": {
+   "fragment_id": "72851472",
+   "type": 11,
+   "heading": "Artigo 20.º — Dever de conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Dever de conservação\n\n1 - Os detentores de fundos, de colecções ou de documentos classificados estão obrigados a conservá-los, de acordo com as regras arquivísticas nacionais.\n\n2 - Os mesmos detentores estão obrigados a comunicar ao órgão de gestão as acções de conservação, de restauro ou reprodução, podendo este órgão realizar exames técnicos de inspecção e ordenar a suspensão das acções que não decorram de acordo com as normas estabelecidas.\n\n3 - Ao dever de conservação estabelecido neste artigo corresponde o direito ao apoio técnico e, em termos a definir por portaria do membro do Governo que superintende na política arquivística, ao apoio financeiro."
+  },
+  "72836367": {
+   "fragment_id": "72851473",
+   "type": 13,
+   "heading": "Título IV — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Regime jurídico"
+  },
+  "72836368": {
+   "fragment_id": "72851474",
+   "type": 1,
+   "heading": "Capítulo I — Classificação dos bens do património arquivístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Classificação dos bens do património arquivístico"
+  },
+  "72836369": {
+   "fragment_id": "72871475",
+   "type": 11,
+   "heading": "Artigo 21.º — Bens susceptíveis de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Bens susceptíveis de classificação\n\n1 - Os arquivos e os documentos que, pelo seu relevante valor informativo ou probatório, devam merecer especial protecção constituem objecto de classificação pelo Governo, sob proposta do órgão de gestão.\n\n2 - Os bens a que se refere o número anterior podem ser classificados individual ou conjuntamente.\n\n3 - A classificação não afecta o direito de propriedade, mas impede a alteração, divisão ou destruição de arquivos ou de documentos sem aprovação prévia do órgão de gestão."
+  },
+  "72836370": {
+   "fragment_id": "72871476",
+   "type": 11,
+   "heading": "Artigo 22.º — Processo de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Processo de classificação\n\n1 - Compete ao órgão de gestão iniciar o processo tendente à classificação de arquivos ou de documentos, por sua iniciativa ou a solicitação de qualquer entidade pública ou privada.\n\n2 - Os pedidos de classificação devem ser acompanhados dos elementos justificativos considerados necessários.\n\n3 - A decisão da abertura do processo de classificação vale como declaração externa de um bem arquivístico em vias de classificação, a partir da data da sua notificação aos respectivos proprietários ou possuidores.\n\n4 - A abertura do processo de classificação implica o averbamento na relação geral dos bens arquivísticos classificados, competindo ao órgão de gestão definir o regime a que fica sujeito."
+  },
+  "72836371": {
+   "fragment_id": "72871477",
+   "type": 11,
+   "heading": "Artigo 23.º — Caducidade do processo de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Caducidade do processo de classificação\n\nOs efeitos do despacho que declare o bem em vias de classificação caducam com a homologação pelo membro do Governo que superintende na política arquivística do parecer dos serviços desfavoráveis à classificação, ou decorridos 12 meses sobre a data do próprio despacho."
+  },
+  "72836372": {
+   "fragment_id": "72871478",
+   "type": 11,
+   "heading": "Artigo 24.º — Audição dos proprietários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Audição dos proprietários\n\nNo prazo máximo de 30 dias a contar da data da notificação deve proceder-se à audição dos proprietários ou possuidores do bem em vias de classificação."
+  },
+  "72836373": {
+   "fragment_id": "72871479",
+   "type": 11,
+   "heading": "Artigo 25.º — Homologação e notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Homologação e notificação\n\n1 - Após a homologação do parecer favorável à classificação, deverão ser notificados os proprietários ou possuidores do bem em causa para, no prazo máximo de um mês, contestarem, se o entenderem, a proposta de classificação.\n\n2 - A notificação a que se refere o número anterior pode conter propostas sobre condições de comunicação do bem, assim como de directrizes sobre a sua organização e acesso."
+  },
+  "72836374": {
+   "fragment_id": "72871480",
+   "type": 11,
+   "heading": "Artigo 26.º — Impugnação contenciosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Impugnação contenciosa\n\nDos despachos que recaiam sobre o processo de classificação cabe recurso contencioso, nos termos da lei geral."
+  },
+  "72871575": {
+   "fragment_id": "72871481",
+   "type": 11,
+   "heading": "Artigo 27.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Classificação\n\n1 - A classificação dos bens a que se referem os artigos anteriores far-se-á por portaria conjunta do membro do Governo que superintende na área a que os bens se referem e do membro do Governo que superintende na política arquivística.\n\n2 - A portaria de classificação deve descrever claramente os bens afectados e referir as restrições a que ficam sujeitos."
+  },
+  "72871576": {
+   "fragment_id": "72871482",
+   "type": 11,
+   "heading": "Artigo 28.º — Certificado de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Certificado de registo\n\n1 - Os bens classificados, quer individual quer conjuntamente, são objecto de registo pelo órgão de gestão.\n\n2 - O registo será actualizado, desde que haja ocorrências que o justifiquem."
+  },
+  "72871577": {
+   "fragment_id": "72871483",
+   "type": 11,
+   "heading": "Artigo 29.º — Desclassificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Desclassificação\n\nAo processo de desclassificação aplica-se, com as necessárias adaptações, o disposto no presente capítulo."
+  },
+  "72871578": {
+   "fragment_id": "72871484",
+   "type": 11,
+   "heading": "Artigo 30.º — Pré-classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Pré-classificação\n\n1 - A título excepcional, o processo de classificação pode ser precedido de uma fase de pré-classificação, destinada ao estudo da genuinidade e da relevância económica, social, política, cultural e científica do documento, tendo em vista preparar aquele processo.\n\n2 - A declaração de pré-classificação pertence ao órgão de gestão, a quem compete definir o regime a que fica sujeito o documento objecto da pré-classificação.\n\n3 - Os efeitos decorrentes da declaração referida no número anterior caducam decorridos seis meses, podendo, por motivos excepcionais, ser prorrogados, por dois prazos sucessivos de igual período de tempo, por despacho devidamente fundamentado do membro do Governo que superintende na política arquivística."
+  },
+  "72871579": {
+   "fragment_id": "72871485",
+   "type": 1,
+   "heading": "Capítulo II — Alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Alienação"
+  },
+  "72871580": {
+   "fragment_id": "72871486",
+   "type": 11,
+   "heading": "Artigo 31.º — Alienação e mudança de detenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Alienação e mudança de detenção\n\n1 - A intenção de alienar um bem arquivístico classificado ou em vias de classificação deve ser comunicada ao órgão de gestão, declarando-se o preço e as restantes condições de alienação.\n\n2 - A obrigatoriedade da comunicação a que alude o número anterior é extensiva à alienação em hasta pública e em leilão.\n\n3 - Pode ser arguida, no prazo de um ano sobre o respectivo conhecimento, a anulabilidade da alienação efectuada com inobservância do disposto no presente artigo.\n\n4 - Não releva para efeitos de início da contagem do prazo referido no número anterior a publicidade da hasta pública ou leilão.\n\n5 - A efectiva alienação ou a mudança de detenção deverão também ser comunicadas ao órgão de gestão no prazo dos 30 dias subsequentes."
+  },
+  "72871581": {
+   "fragment_id": "72871487",
+   "type": 11,
+   "heading": "Artigo 32.º — Direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Direito de preferência\n\n1 - O Estado pode exercer, no prazo de 30 dias a contar da comunicação a que se refere o n.º 1 do artigo anterior ou da realização do leilão ou venda em hasta pública, e através do órgão de gestão, o direito de preferência na venda de um bem arquivístico classificado ou em vias de classificação, obrigando-se a satisfazer o preço e demais condições exigidas até dois meses após o exercício daquele direito, salvo acordo com o interessado em sentido diferente.\n\n2 - A intenção de fazer uso do direito de preferência no caso de alienação em hasta pública e em leilão deve ser manifestada no momento em que seja fixado o preço da arrematação do bem, desde que a comunicação haja ocorrido com a antecedência de 10 dias.\n\n3 - Além do Estado, e depois deste, são também titulares do direito de preferência as autarquias locais em relação aos bens susceptíveis de serem integrados nos arquivos municipais.\n\n4 - Para efeitos do referido no número anterior, em caso de comunicação da intenção de alienação ao órgão de gestão, este notifica o município que possa ter interesse no documento da referida comunicação, no prazo de 10 dias sobre a sua ocorrência, começando a contar o prazo para o exercício da preferência desde essa notificação.\n\n5 - Em caso de a notificação referida no número anterior se verificar em prazo que não permita ao município assegurar o exercício do direito de preferência nos termos do n.º 2, deve o órgão de gestão assegurar o exercício desse direito.\n\n6 - A partir da notificação do exercício do direito de preferência, o bem objecto de alienação pode ser colocado pelo alienante à guarda dos arquivos públicos."
+  },
+  "72871582": {
+   "fragment_id": "72871488",
+   "type": 11,
+   "heading": "Artigo 33.º — Permuta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Permuta\n\nA permuta de bens arquivísticos classificados por outros existentes noutros países que se revistam de excepcional interesse para o património cultural português depende de autorização, por portaria conjunta dos membros do Governo responsáveis pelo sector onde o bem se integra e pela política arquivística, ouvido o órgão de gestão."
+  },
+  "72871583": {
+   "fragment_id": "72871489",
+   "type": 1,
+   "heading": "Capítulo III — Exportação e importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Exportação e importação"
+  },
+  "72871584": {
+   "fragment_id": "72871490",
+   "type": 11,
+   "heading": "Artigo 34.º — Exportação definitiva e temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Exportação definitiva e temporária\n\n1 - A exportação de bens arquivísticos classificados ou em vias de classificação carece de autorização do membro do Governo que superintende no património arquivístico, quando for temporária, e deste e do membro do Governo responsável pelo sector onde o bem se integra, quando for definitiva.\n\n2 - A concessão da autorização a que se refere o número anterior é precedida de audição do órgão de gestão e não exime os interessados do cumprimento das restantes formalidades exigidas na lei para o exercício do comércio com o exterior.\n\n3 - O Estado reserva-se o direito à reprodução da documentação e à sua inventariação."
+  },
+  "72871585": {
+   "fragment_id": "72871491",
+   "type": 11,
+   "heading": "Artigo 35.º — Despacho ministerial de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Despacho ministerial de autorização\n\n1 - O despacho ministerial de autorização referido no artigo anterior deve ser proferido no prazo máximo de 60 dias a contar da data da apresentação do requerimento no órgão de gestão.\n\n2 - Findo o prazo referido no número anterior sem ter havido despacho sobre o requerimento, considera-se deferida a autorização."
+  },
+  "72871586": {
+   "fragment_id": "72871492",
+   "type": 11,
+   "heading": "Artigo 36.º — Declaração do valor do bem a exportar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Declaração do valor do bem a exportar\n\n1 - A declaração de valor do bem objecto do pedido de exportação definitiva é considerada proposta de venda irrevogável a favor do Estado, sendo o preço da mesma o valor declarado.\n\n2 - Quando a autorização de exportação definitiva não seja concedida, o Estado dispõe do prazo de três meses a contar da data da notificação do despacho de indeferimento para efectuar o pagamento do preço, podendo ser ordenado que o bem sejam imediatamente depositado num arquivo público."
+  },
+  "72871587": {
+   "fragment_id": "72871493",
+   "type": 11,
+   "heading": "Artigo 37.º — Permanência de um bem no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Permanência de um bem no estrangeiro\n\nO prazo máximo para um bem classificado ou em via de classificação permanecer, ininterruptamente, no estrangeiro é de um ano, renovável por período de idêntica duração."
+  },
+  "72871588": {
+   "fragment_id": "72871494",
+   "type": 11,
+   "heading": "Artigo 38.º — Importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Importação\n\n1 - A importação de documentos classificados ou que venham a ser integrados no património arquivístico classificado, por estarem ligados à história pátria ou reproduzirem a cultura nacional, está isenta de pagamento de quaisquer direitos ou encargos.\n\n2 - Incidindo direitos ou encargos no acto de importação, são os mesmos restituídos após a homologação do parecer que se pronuncie no sentido da classificação.\n\n3 - Tendo o bem gozado da isenção referida no n.º 1, deve ser efectuado, pelo proprietário, manifesto à Direcção-Geral das Alfândegas para efeitos de pagamento dos respectivos direitos ou encargos.\n\n4 - O órgão de gestão deve comunicar à Direcção-Geral das Alfândegas os despachos que recaíram sobre os processos de classificação de bens arquivísticos para efeito do disposto nos números anteriores."
+  },
+  "72871589": {
+   "fragment_id": "72871495",
+   "type": 13,
+   "heading": "Título V — Penalizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Penalizações"
+  },
+  "72871590": {
+   "fragment_id": "72871496",
+   "type": 11,
+   "heading": "Artigo 39.º — Previsão penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Previsão penal\n\n1 - Constituem crimes, agravados, de furto, roubo ou dano a violação das disposições reguladoras do património arquivístico que preencham o respectivo tipo legal.\n\n2 - A exportação definitiva de bens arquivísticos classificados ou em vias de classificação sem a autorização prevista no presente diploma é punida com a pena prevista para o crime de dano agravado."
+  },
+  "72871591": {
+   "fragment_id": "72871497",
+   "type": 11,
+   "heading": "Artigo 40.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de 5000$00 a 500000$00, no caso de pessoas singulares, ou até 6000000$00, no caso de pessoas colectivas:\n\na) A alienação, divisão ou permuta de bens arquivísticos classificados ou em vias de classificação, em contravenção às regras estipuladas neste diploma;\n\nb) A falta de comunicação, no prazo legalmente determinado, da mudança da titularidade ou detenção;\n\nc) A utilização, manipulação ou difusão de informações sujeitas a regime especial de comunicação;\n\nd) A oposição não justificada ao exame decorrente da função técnico-inspectiva do órgão de gestão;\n\ne) A exportação temporária de arquivos ou documentos classificados ou em via de classificação sem autorização das entidades competentes;\n\nf) O não cumprimento das regras relativas às acções de conservação, de restauro ou de reprodução.\n\n2 - Constitui, também, contra-ordenação punível com coima nos montantes referidos no número anterior a deterioração negligente de documentos de arquivo classificado ou em vias de classificação.\n\n3 - A negligência e a tentativa são puníveis."
+  },
+  "72871592": {
+   "fragment_id": "72871498",
+   "type": 11,
+   "heading": "Artigo 41.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Sanções acessórias\n\nEm função da gravidade da contra-ordenação e da culpa do agente pode ser ordenada a interdição, por um período máximo de dois anos, do exercício de uma profissão ou actividade relacionada com a contra-ordenação, ou a suspensão, pelo mesmo período, de licenças ou autorizações relacionadas com a mesma."
+  },
+  "72871593": {
+   "fragment_id": "72871499",
+   "type": 11,
+   "heading": "Artigo 42.º — Competência para o procedimento contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Competência para o procedimento contra-ordenacional\n\nO processamento das contra-ordenações compete ao órgão de gestão, cabendo ao seu director a aplicação das respectivas coimas e sanções acessórias."
+  },
+  "72871594": {
+   "fragment_id": "72871500",
+   "type": 11,
+   "heading": "Artigo 43.º — Bem em perigo de destruição ou deterioração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Bem em perigo de destruição ou deterioração\n\n1 - Quando um bem arquivístico classificado, em vias de classificação ou susceptível de o ser se encontre em perigo de perda, destruição ou deterioração, podem ser determinadas pelo membro do Governo que superintende na política arquivística as providências cautelares ou as medidas técnicas de conservação indispensáveis e adequadas ao caso.\n\n2 - Se as medidas de conservação importarem para o respectivo proprietário a obrigação de praticar determinados actos, deverão ser fixados os prazos e as condições da sua execução, nomeadamente o apoio a prestar pelo órgão de gestão.\n\n3 - Sempre que quaisquer providências cautelares forem julgadas insuficientes ou as medidas de conservação não forem acatadas ou executadas no prazo e nas condições impostas, pode o membro do Governo que superintende na política arquivística ordenar que os bens arquivísticos sejam transferidos, a título de depósito, para a guarda de arquivos públicos, por período não superior a cinco anos.\n\n4 - O exercício do direito referido no número anterior em relação a bens susceptíveis de classificação obriga à abertura do processo de classificação ou ao início da pré-classificação no prazo de 10 dias sobre a data do depósito."
+  },
+  "72871595": {
+   "fragment_id": "72871501",
+   "type": 13,
+   "heading": "Título VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título VI — Disposições finais"
+  },
+  "72871596": {
+   "fragment_id": "72871502",
+   "type": 11,
+   "heading": "Artigo 44.º — Protocolos de depósito de documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Protocolos de depósito de documentação\n\n1 - O proprietário de arquivos ou colecções de documentos integrados no património protegido pode depositá-los, sem perda dos seus direitos de propriedade, em arquivos públicos.\n\n2 - O depósito a que se refere o número anterior far-se-á mediante protocolo de que constem as condições do depósito, estabelecidas pelo depositante, e a aceitação destas pelo depositário.\n\n3 - O depósito poderá dar lugar a uma contrapartida económica a estipular no protocolo de cedência.\n\n4 - Beneficia do referido no número anterior o particular que, sendo proprietário de documentação integrada no património arquivístico protegido, se disponha a pô-la à disposição do público em termos semelhantes àqueles em que ela estaria disponível se depositada em arquivos públicos."
+  },
+  "72871597": {
+   "fragment_id": "72871503",
+   "type": 11,
+   "heading": "Artigo 45.º — Reprodução de documentos classificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Reprodução de documentos classificados\n\nCompete ao órgão de gestão promover as normas e procedimentos a que devem ficar sujeitas as autorizações de qualquer tipo de reprodução das espécies que integram o património arquivístico protegido."
+  },
+  "72871598": {
+   "fragment_id": "72871504",
+   "type": 11,
+   "heading": "Artigo 46.º — Classificações anteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Classificações anteriores\n\nMantêm-se em vigor todos os efeitos decorrentes de anteriores declarações de classificação, independentemente da revisão a que se proceda nos termos do presente diploma."
+  },
+  "72871599": {
+   "fragment_id": "72871505",
+   "type": 11,
+   "heading": "Artigo 47.º — Arquivos Salazar e Marcello Caetano e PIDE/DGS e LP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Arquivos Salazar e Marcello Caetano e PIDE/DGS e LP\n\nO disposto no presente diploma sobre a comunicação de bens arquivísticos não prejudica o estabelecido no artigo 3.º do Decreto-Lei n.º 279/91, de 9 de Agosto, e no artigo 3.º da Lei n.º 4/91, de 17 de Janeiro, sobre a consulta pública dos Arquivos Salazar e Marcello Caetano e do Arquivo da PIDE/DGS e LP, respectivamente."
+  },
+  "72871600": {
+   "fragment_id": "72871506",
+   "type": 11,
+   "heading": "Artigo 48.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entrada em vigor\n\nO presente diploma entra em vigor no prazo de 30 dias sobre a data da sua publicação."
+  },
+  "72869761": {
+   "fragment_id": "72851448",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "1994-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 14/94 - Diário da República n.º 109/1994, Série I-A de 1994-05-11](https://diariodarepublica.pt/dr/detalhe/lei/14-1994-255815), em vigor a partir de 1994-05-16"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente diploma define o regime geral dos arquivos e do património arquivístico.\n\n2 - (Eliminado).\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 14/94 - Diário da República n.º 109/1994, Série I-A de 1994-05-11](https://diariodarepublica.pt/dr/detalhe/lei/14-1994-255815), em vigor a partir de 1994-05-16"
+  },
+  "72869762": {
+   "fragment_id": "72851454",
+   "type": 11,
+   "heading": "Artigo 6.º — Património arquivístico protegido",
+   "in_force_from": "1994-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/94 - Diário da República n.º 109/1994, Série I-A de 1994-05-11](https://diariodarepublica.pt/dr/detalhe/lei/14-1994-255815), em vigor a partir de 1994-05-16"
+   ],
+   "markdown": "###### Artigo 6.º — Património arquivístico protegido\n\nOs documentos dos arquivos públicos e os restantes arquivos e documentos classificados ou em vias de classificação, qualquer que seja a sua natureza, proveniência e titularidade, constituem o património arquivístico protegido.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/94 - Diário da República n.º 109/1994, Série I-A de 1994-05-11](https://diariodarepublica.pt/dr/detalhe/lei/14-1994-255815), em vigor a partir de 1994-05-16"
+  },
+  "72869758": {
+   "fragment_id": "72869669",
+   "type": 11,
+   "heading": "Artigo 46.º-A — Arquivos de suporte especial e outros",
+   "in_force_from": "1995-06-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 14/94 - Diário da República n.º 109/1994, Série I-A de 1994-05-11](https://diariodarepublica.pt/dr/detalhe/lei/14-1994-255815), em vigor a partir de 1995-06-16"
+   ],
+   "markdown": "###### Artigo 46.º-A — Arquivos de suporte especial e outros\n\nConstarão de diplomas próprios os regimes de protecção de património arquivístico, fotográfico, fílmico e videográfico, fonográfico, informático e outros.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 14/94 - Diário da República n.º 109/1994, Série I-A de 1994-05-11](https://diariodarepublica.pt/dr/detalhe/lei/14-1994-255815), em vigor a partir de 1995-06-16"
+  },
+  "72869759": {
+   "fragment_id": "72871505",
+   "type": 11,
+   "heading": "Artigo 47.º — Arquivos Salazar e Marcello Caetano e PIDE/DGS e LP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Arquivos Salazar e Marcello Caetano e PIDE/DGS e LP\n\nO disposto no presente diploma sobre a comunicação de bens arquivísticos não prejudica o estabelecido no artigo 3.º do Decreto-Lei n.º 279/91, de 9 de Agosto, e no artigo 3.º da Lei n.º 4/91, de 17 de Janeiro, sobre a consulta pública dos Arquivos Salazar e Marcello Caetano e do Arquivo da PIDE/DGS e LP, respectivamente."
+  },
+  "72869760": {
+   "fragment_id": "72871506",
+   "type": 11,
+   "heading": "Artigo 48.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entrada em vigor\n\nO presente diploma entra em vigor no prazo de 30 dias sobre a data da sua publicação."
+  },
+  "72871601": {
+   "fragment_id": "72871507",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Luís Manuel Gonçalves Marques Mendes.\n\nPromulgado em 22 de Dezembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Dezembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "72869763": {
+   "fragment_id": "72851454",
+   "type": 11,
+   "heading": "Artigo 6.º — Património arquivístico protegido",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/94 - Diário da República n.º 109/1994, Série I-A de 1994-05-11](https://diariodarepublica.pt/dr/detalhe/lei/14-1994-255815), em vigor a partir de 1994-05-16"
+   ],
+   "markdown": "###### Artigo 6.º — Património arquivístico protegido\n\nOs documentos dos arquivos públicos e os restantes arquivos e documentos classificados ou em vias de classificação, qualquer que seja a sua natureza, proveniência e titularidade, constituem o património arquivístico protegido.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/94 - Diário da República n.º 109/1994, Série I-A de 1994-05-11](https://diariodarepublica.pt/dr/detalhe/lei/14-1994-255815), em vigor a partir de 1994-05-16"
+  },
+  "72869766": {
+   "fragment_id": "72851459",
+   "type": 11,
+   "heading": "Artigo 9.º — Categorias de arquivos",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 9.º — Categorias de arquivos\n\n1 - Os arquivos classificam-se sempre:\n\na) Quanto ao seu âmbito territorial, em:\n\nArquivo nacional, quando reúne predominantemente a documentação proveniente de órgãos da administração central ou de instituições de âmbito nacional;\n\nArquivo regional, quando reúne predominantemente a documentação relativa a uma área superior ao âmbito municipal e inferior ao âmbito nacional;\n\nArquivo municipal, quando reúne predominantemente a documentação relativa a um município ou proveniente de organismos administrativos do mesmo âmbito;\n\nb) (Revogada).\n\n2 - Os arquivos referidos no número anterior podem ainda ser classificados em função da origem, tema ou suporte da documentação que reúnem.\n\n> Alterado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72869767": {
+   "fragment_id": "72851474",
+   "type": 1,
+   "heading": "Capítulo I — Classificação dos bens do património arquivístico",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "### Capítulo I — Classificação dos bens do património arquivístico\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872278": {
+   "fragment_id": "72871475",
+   "type": 11,
+   "heading": "Artigo 21.º — Bens susceptíveis de classificação",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 21.º — Bens susceptíveis de classificação\n\n1 - Os arquivos e os documentos que, pelo seu relevante valor informativo ou probatório, devam merecer especial protecção constituem objecto de classificação pelo Governo, sob proposta do órgão de gestão.\n\n2 - Os bens a que se refere o número anterior podem ser classificados individual ou conjuntamente.\n\n3 - A classificação não afecta o direito de propriedade, mas impede a alteração, divisão ou destruição de arquivos ou de documentos sem aprovação prévia do órgão de gestão.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872279": {
+   "fragment_id": "72871476",
+   "type": 11,
+   "heading": "Artigo 22.º — Processo de classificação",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 22.º — Processo de classificação\n\n1 - Compete ao órgão de gestão iniciar o processo tendente à classificação de arquivos ou de documentos, por sua iniciativa ou a solicitação de qualquer entidade pública ou privada.\n\n2 - Os pedidos de classificação devem ser acompanhados dos elementos justificativos considerados necessários.\n\n3 - A decisão da abertura do processo de classificação vale como declaração externa de um bem arquivístico em vias de classificação, a partir da data da sua notificação aos respectivos proprietários ou possuidores.\n\n4 - A abertura do processo de classificação implica o averbamento na relação geral dos bens arquivísticos classificados, competindo ao órgão de gestão definir o regime a que fica sujeito.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872280": {
+   "fragment_id": "72871477",
+   "type": 11,
+   "heading": "Artigo 23.º — Caducidade do processo de classificação",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 23.º — Caducidade do processo de classificação\n\nOs efeitos do despacho que declare o bem em vias de classificação caducam com a homologação pelo membro do Governo que superintende na política arquivística do parecer dos serviços desfavoráveis à classificação, ou decorridos 12 meses sobre a data do próprio despacho.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872281": {
+   "fragment_id": "72871478",
+   "type": 11,
+   "heading": "Artigo 24.º — Audição dos proprietários",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 24.º — Audição dos proprietários\n\nNo prazo máximo de 30 dias a contar da data da notificação deve proceder-se à audição dos proprietários ou possuidores do bem em vias de classificação.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872282": {
+   "fragment_id": "72871479",
+   "type": 11,
+   "heading": "Artigo 25.º — Homologação e notificação",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 25.º — Homologação e notificação\n\n1 - Após a homologação do parecer favorável à classificação, deverão ser notificados os proprietários ou possuidores do bem em causa para, no prazo máximo de um mês, contestarem, se o entenderem, a proposta de classificação.\n\n2 - A notificação a que se refere o número anterior pode conter propostas sobre condições de comunicação do bem, assim como de directrizes sobre a sua organização e acesso.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872283": {
+   "fragment_id": "72871480",
+   "type": 11,
+   "heading": "Artigo 26.º — Impugnação contenciosa",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 26.º — Impugnação contenciosa\n\nDos despachos que recaiam sobre o processo de classificação cabe recurso contencioso, nos termos da lei geral.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872284": {
+   "fragment_id": "72871481",
+   "type": 11,
+   "heading": "Artigo 27.º — Classificação",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 27.º — Classificação\n\n1 - A classificação dos bens a que se referem os artigos anteriores far-se-á por portaria conjunta do membro do Governo que superintende na área a que os bens se referem e do membro do Governo que superintende na política arquivística.\n\n2 - A portaria de classificação deve descrever claramente os bens afectados e referir as restrições a que ficam sujeitos.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872285": {
+   "fragment_id": "72871482",
+   "type": 11,
+   "heading": "Artigo 28.º — Certificado de registo",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 28.º — Certificado de registo\n\n1 - Os bens classificados, quer individual quer conjuntamente, são objecto de registo pelo órgão de gestão.\n\n2 - O registo será actualizado, desde que haja ocorrências que o justifiquem.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872286": {
+   "fragment_id": "72871483",
+   "type": 11,
+   "heading": "Artigo 29.º — Desclassificação",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 29.º — Desclassificação\n\nAo processo de desclassificação aplica-se, com as necessárias adaptações, o disposto no presente capítulo.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872287": {
+   "fragment_id": "72871484",
+   "type": 11,
+   "heading": "Artigo 30.º — Pré-classificação",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+   ],
+   "markdown": "###### Artigo 30.º — Pré-classificação\n\n1 - A título excepcional, o processo de classificação pode ser precedido de uma fase de pré-classificação, destinada ao estudo da genuinidade e da relevância económica, social, política, cultural e científica do documento, tendo em vista preparar aquele processo.\n\n2 - A declaração de pré-classificação pertence ao órgão de gestão, a quem compete definir o regime a que fica sujeito o documento objecto da pré-classificação.\n\n3 - Os efeitos decorrentes da declaração referida no número anterior caducam decorridos seis meses, podendo, por motivos excepcionais, ser prorrogados, por dois prazos sucessivos de igual período de tempo, por despacho devidamente fundamentado do membro do Governo que superintende na política arquivística.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07"
+  },
+  "72872288": {
+   "fragment_id": "72869669",
+   "type": 11,
+   "heading": "Artigo 46.º-A — Arquivos de suporte especial e outros",
+   "in_force_from": "2001-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 14/94 - Diário da República n.º 109/1994, Série I-A de 1994-05-11](https://diariodarepublica.pt/dr/detalhe/lei/14-1994-255815), em vigor a partir de 1995-06-16"
+   ],
+   "markdown": "###### Artigo 46.º-A — Arquivos de suporte especial e outros\n\nConstarão de diplomas próprios os regimes de protecção de património arquivístico, fotográfico, fílmico e videográfico, fonográfico, informático e outros.\n\n> Revogado pelo/a Artigo 114.º do/a [Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), em vigor a partir de 2001-11-07\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 14/94 - Diário da República n.º 109/1994, Série I-A de 1994-05-11](https://diariodarepublica.pt/dr/detalhe/lei/14-1994-255815), em vigor a partir de 1995-06-16"
+  },
+  "115352947": {
+   "fragment_id": "72851469",
+   "type": 11,
+   "heading": "Artigo 17.º — Comunicação do património arquivístico",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Comunicação do património arquivístico\n\n1 - É garantido o acesso à documentação conservada em arquivos públicos, salvas as limitações decorrentes dos imperativos de conservação das espécies, aplicando-se as restrições decorrentes da legislação geral e especial de acesso aos documentos administrativo.\n\n2 - São acessíveis os documentos que integrem dados nominativos:\n\na) Desde que decorridos 30 anos sobre a data da morte das pessoas a que respeitam os documentos; ou\n\nb) Não sendo conhecida a data da morte, decorridos 40 anos sobre a data dos documentos, mas não antes de terem decorrido 10 anos sobre o momento do conhecimento da morte.\n\n3 - Os dados sensíveis respeitantes a pessoas coletivas, como tal definidos por lei, são comunicáveis decorridos 30 anos sobre a data da extinção da pessoa coletiva, caso a lei não determine prazo mais curto.\n\n4 - Compete aos proprietários dos arquivos particulares proporem as regras e modalidades de comunicação da documentação, as quais serão objecto de apreciação e de proposta de homologação ao membro do Governo que superintende na política arquivística por parte do órgão de gestão.\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "171442772": {
+   "fragment_id": "72851469",
+   "type": 11,
+   "heading": "Artigo 17.º — Comunicação do património arquivístico",
+   "in_force_from": "2021-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 68/2021 - Diário da República n.º 166/2021, Série I de 2021-08-26](https://diariodarepublica.pt/dr/detalhe/lei/68-2021-170221042), em vigor a partir de 2021-08-27",
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Comunicação do património arquivístico\n\n1 - É garantido o acesso à documentação conservada em arquivos públicos, salvas as limitações decorrentes dos imperativos de conservação das espécies, aplicando-se as restrições decorrentes da legislação geral e especial de acesso aos documentos administrativos.\n\n2 - São acessíveis os documentos que integrem dados nominativos:\n\na) Desde que decorridos 30 anos sobre a data da morte das pessoas a que respeitam os documentos; ou\n\nb) Não sendo conhecida a data da morte, decorridos 40 anos sobre a data dos documentos, mas não antes de terem decorrido 10 anos sobre o momento do conhecimento da morte.\n\n3 - Os dados sensíveis respeitantes a pessoas coletivas, como tal definidos por lei, são comunicáveis decorridos 30 anos sobre a data da extinção da pessoa coletiva, caso a lei não determine prazo mais curto.\n\n4 - Compete aos proprietários dos arquivos particulares proporem as regras e modalidades de comunicação da documentação, as quais serão objecto de apreciação e de proposta de homologação ao membro do Governo que superintende na política arquivística por parte do órgão de gestão.\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 68/2021 - Diário da República n.º 166/2021, Série I de 2021-08-26](https://diariodarepublica.pt/dr/detalhe/lei/68-2021-170221042), em vigor a partir de 2021-08-27\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  }
+ }
+}

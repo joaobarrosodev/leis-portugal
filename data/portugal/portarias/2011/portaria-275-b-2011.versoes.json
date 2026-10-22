@@ -1,0 +1,167 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:149199:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-888958694",
+ "dre_path": "/dr/detalhe/portaria/275-b-2011-149199",
+ "source_lastmod": "2024-09-25",
+ "versions": [
+  {
+   "date": "2011-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888952596",
+    "888952597",
+    "888952598",
+    "888952599",
+    "888952600",
+    "888952601",
+    "888952602",
+    "888952603",
+    "888952604"
+   ]
+  },
+  {
+   "date": "2014-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66006093:por",
+     "title": "Portaria n.º 278-B/2014",
+     "published": "2014-12-29",
+     "dre_path": "/dr/detalhe/portaria/278-b-2014-66006093"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "888952596",
+    "888952597",
+    "888952606",
+    "888952607",
+    "888952608",
+    "888952601",
+    "888952602",
+    "888952603",
+    "888952604",
+    "888952605"
+   ]
+  }
+ ],
+ "fragments": {
+  "888952596": {
+   "fragment_id": "888958695",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 275-B/2011\n\nde 30 de Setembro\n\nEm execução do Programa do XIX Governo Constitucional e na linha de actuação prevista no Programa de Emergência Social, o Decreto-Lei n.º 102/2011, de 30 de Setembro, veio criar o apoio social extraordinário ao consumidor de energia (ASECE), destinado às pessoas singulares que se encontrem em situação de beneficiar do regime da tarifa social de electricidade ou de gás natural estabelecendo o regime aplicável à sua atribuição.\n\nO n.º 3 do artigo 5.º do citado diploma, visando regular a aplicação concreta da medida aprovada, prevê que os procedimentos, os modelos e as demais condições necessários à atribuição, aplicação e manutenção do ASECE, bem como à sua fiscalização, sejam estabelecidos em portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, da energia e da segurança social.\n\nPara esse efeito, a presente portaria define um conjunto de normas disciplinadoras dos procedimentos de atribuição, manutenção e fiscalização do ASECE.\n\nAssim:\n\nManda o Governo, pelos Ministros de Estado e das Finanças, da Economia e do Emprego e da Solidariedade e da Segurança Social, ao abrigo do disposto no n.º 3 do artigo 5.º do Decreto-Lei n.º 102/2011, de 30 de Setembro, o seguinte:"
+  },
+  "888952597": {
+   "fragment_id": "888958696",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - A presente portaria estabelece os procedimentos e as demais condições necessários à atribuição, aplicação, manutenção e fiscalização do ASECE, estabelecido no Decreto-Lei n.º 102/2011, de 30 de Setembro.\n\n2 - O disposto na presente portaria não é aplicável nas Regiões Autónomas dos Açores e da Madeira, sendo os actos e procedimentos necessários à execução do Decreto-Lei n.º 102/2011, de 30 de Setembro, definidos pelas entidades das respectivas administrações regionais com atribuições e competências nas matérias em causa."
+  },
+  "888952598": {
+   "fragment_id": "888958697",
+   "type": 11,
+   "heading": "Artigo 2.º — Procedimento de atribuição e confirmação do ASECE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Procedimento de atribuição e confirmação do ASECE\n\n1 - O pedido de atribuição do ASECE é realizado pelos meios disponibilizados para o efeito pelos comercializadores de energia eléctrica, ou de gás natural, devendo ser assegurada a possibilidade de solicitação por via electrónica.\n\n2 - No momento da formulação do pedido previsto no número anterior, o cliente concede a sua autorização ao comercializador de energia eléctrica e ao operador da rede de distribuição de energia eléctrica em baixa tensão (BT), e ao comercializador de gás natural e aos operadores de rede de distribuição de gás natural em baixa pressão, para efectuar o tratamento dos dados relativos ao ASECE.\n\n3 - A autorização prevista no número anterior é dispensada no caso de o cliente ter consentido o tratamento pelo comercializador dos dados relativos à tarifa social nos termos do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, ou do Decreto-Lei n.º 102/2011, de 30 de Setembro.\n\n4 - O processo de confirmação pelos comercializadores de energia eléctrica e de gás natural da situação dos clientes enquanto beneficiários de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, e no n.º 2 do artigo 2.º do Decreto-Lei n.º 102/2011, de 30 de Setembro, para atribuição da tarifa social de energia eléctrica e tarifa social de gás natural, respectivamente, é efectuado preferencialmente através de meios electrónicos, a disponibilizar pelas instituições de segurança social competentes e formalizados em protocolo a estabelecer com o Instituto de Segurança Social, o Instituto de Informática, I. P., o Ministério da Solidariedade e da Segurança Social e a Direcção-Geral de Energia e Geologia (DGEG).\n\n5 - As instituições de segurança social prestam a informação solicitada pelos comercializadores de energia eléctrica e comercializadores de gás natural através de meios electrónicos, nos termos do número anterior.\n\n6 - Após confirmação junto das instituições de segurança social competentes de que o cliente é beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, e no n.º 2 do artigo 2.º do Decreto-Lei n.º 102/2011, de 30 de Setembro, o comercializador de energia eléctrica e o comercializador de gás natural procedem à aplicação do desconto previsto no artigo 3.º do Decreto-Lei n.º 102/2011, de 30 de Setembro.\n\n7 - É dispensada a confirmação prevista nos números anteriores em relação a todos os clientes que sejam beneficiários da tarifa social nos termos do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, ou do Decreto-Lei n.º 102/2011, de 30 de Setembro, sendo, nessa circunstância, automaticamente aplicável o ASECE, pelo comercializador, sem necessidade de solicitação pelo cliente."
+  },
+  "888952599": {
+   "fragment_id": "888958698",
+   "type": 11,
+   "heading": "Artigo 3.º — Certificação das entidades autorizadas a confirmar a situação dos clientes junto das instituições de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Certificação das entidades autorizadas a confirmar a situação dos clientes junto das instituições de segurança social\n\n1 - A DGEG garante o fornecimento às instituições de segurança social competentes da informação, permanentemente actualizada, por meios electrónicos, relativa aos comercializadores de energia eléctrica e de gás natural, enquanto entidades autorizadas a consultar a situação dos clientes beneficiários de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010 e no n.º 2 do artigo 2.º do Decreto-Lei n.º 102/2011, de 30 de Setembro.\n\n2 - O processo referido no número anterior é formalizado no protocolo referido no artigo 2.º da presente portaria."
+  },
+  "888952600": {
+   "fragment_id": "888958699",
+   "type": 11,
+   "heading": "Artigo 4.º — Manutenção do ASECE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Manutenção do ASECE\n\n1 - Os clientes que acumulem o ASECE com o regime da tarifa social nos termos do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, ou do Decreto-Lei n.º 102/2011, de 30 de Setembro, e enquanto beneficiem desta tarifa, mantêm a elegibilidade para a atribuição daquele apoio.\n\n2 - Para os clientes que não acumulem o ASECE com o regime da tarifa social, os comercializadores de energia eléctrica e os comercializadores de gás natural solicitam, através de meios electrónicos, às instituições de segurança social competentes, entre Abril e Junho de cada ano, a actualização para cada um dos respectivos clientes da informação que lhe tenha sido prestada para efeitos de atribuição do ASECE.\n\n3 - As instituições de segurança social competentes comunicam, através de meios electrónicos, ao comercializador de energia eléctrica e ao comercializador de gás natural a informação solicitada nos termos do número anterior.\n\n4 - A qualidade de beneficiário do primeiro escalão de abono de família cujas prestações sejam processadas fora do sistema de informação da segurança social, designadamente as que são geridas pelos serviços processadores de remunerações da Administração Pública e pelas caixas de actividade ou de empresas subsistentes, é comprovada por apresentação de declaração das respectivas entidades gestoras, emitida a pedido dos beneficiários em prazo não superior a cinco dias úteis.\n\n5 - O comercializador de energia eléctrica e o comercializador de gás natural comunicam, por via electrónica, ao operador da rede de distribuição de energia eléctrica em BT e aos operadores de rede de distribuição de gás natural em baixa pressão, respectivamente, em prazo não superior a 10 dias úteis após a recepção da informação prevista no número anterior, os clientes que não observam os critérios de elegibilidade para manutenção do ASECE.\n\n6 - O comercializador de energia eléctrica e o comercializador de gás natural cessam a aplicação do desconto em causa, no prazo de 10 dias úteis após a recepção da comunicação prevista no número anterior."
+  },
+  "888952601": {
+   "fragment_id": "888958700",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimentos entre entidades do sector eléctrico e do sector gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimentos entre entidades do sector eléctrico e do sector gás\n\n1 - A comunicação entre operadores, bem como os termos e condições das auditorias a realizar, são definidos nos regulamentos da Entidade Reguladora dos Serviços Energéticos (ERSE), nomeadamente nos regulamentos de relações comerciais e nos regulamentos tarifários do sector eléctrico, e do sector do gás natural, tendo em consideração o estabelecido nos artigos 7.º e 8.º do Decreto-Lei n.º 102/2011, de 30 de Setembro.\n\n2 - A informação a auditar incide sobre os fluxos financeiros a transferir ao longo da cadeia de valor, sendo que a certificação a emitir pelos auditores deverá atestar a conformidade desta informação com a das contas estatutárias das empresas de acordo com as normas de relato financeiro estabelecidas nos regulamentos da ERSE."
+  },
+  "888952602": {
+   "fragment_id": "888958701",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime transitório\n\nO desconto a aplicar aos pedidos de atribuição do ASECE que se efectuem até 31 de Dezembro de 2011 produz efeitos a partir de 1 de Outubro de 2011, ou na data em que o cliente se tornou elegível para aplicação do ASECE, caso esta seja posterior a 1 de Outubro de 2011."
+  },
+  "888952603": {
+   "fragment_id": "888958702",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições finais\n\n1 - Até 30 de Novembro de 2011, os comercializadores de energia eléctrica e de gás natural comunicam aos clientes de energia eléctrica fornecidos em BT normal com potência de consumo igual ou inferior a 4,6 kVA e aos clientes de gás natural fornecidos em baixa pressão com consumo anual igual ou inferior a 500 m3 a informação prevista no artigo 9.º do Decreto-Lei n.º 102/2011, de 30 de Setembro, através dos respectivos sítios na Internet e em documentação que integre ou acompanhe as facturas enviadas aos clientes.\n\n2 - A obrigação de comunicação referida no número anterior aplica-se aos novos contratos de energia eléctrica em BT normal com consumo igual ou inferior a 4,6 kVA e de gás natural em baixa pressão com consumo anual igual ou inferior a 500 m3.\n\n3 - Os meios electrónicos previstos nos artigos 2.º, 3.º e 4.º são disponibilizados pelas instituições de segurança social competentes, permitindo o acesso às mesmas e aos comercializadores de energia eléctrica e de gás natural e respectivos agentes, representantes e comissários.\n\n4 - Para efeitos de atribuição ou manutenção da aplicação do ASECE, presume-se que a morada indicada pelas instituições de segurança social competentes corresponde à residência permanente do beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010 e no n.º 2 do artigo 2.º do Decreto-Lei n.º 102/2011, de 30 de Setembro.\n\n5 - A fiscalização do cumprimento da aplicação do ASECE é da competência da ERSE, ao abrigo da legislação aplicável."
+  },
+  "888952604": {
+   "fragment_id": "888958703",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "888952606": {
+   "fragment_id": "888958697",
+   "type": 11,
+   "heading": "Artigo 2.º — Procedimento de atribuição e confirmação do ASECE",
+   "in_force_from": "2014-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 278-B/2014 - Diário da República n.º 250/2014, 1º Suplemento, Série I de 2014-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/278-b-2014-66006093), em vigor a partir de 2014-12-30"
+   ],
+   "markdown": "###### Artigo 2.º — Procedimento de atribuição e confirmação do ASECE\n\n1 - O pedido de atribuição do ASECE é realizado pelos meios disponibilizados para o efeito pelos comercializadores de energia eléctrica, ou de gás natural, devendo ser assegurada a possibilidade de solicitação por via electrónica.\n\n2 - No momento da formulação do pedido previsto no número anterior, o cliente concede a sua autorização ao comercializador de energia eléctrica e ao operador da rede de distribuição de energia eléctrica em baixa tensão (BT), e ao comercializador de gás natural e aos operadores de rede de distribuição de gás natural em baixa pressão, para efectuar o tratamento dos dados relativos ao ASECE.\n\n3 - A autorização prevista no número anterior é dispensada no caso de o cliente ter consentido o tratamento pelo comercializador dos dados relativos à tarifa social nos termos do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, ou do Decreto-Lei n.º 102/2011, de 30 de Setembro.\n\n4 - O processo de confirmação pelos comercializadores de energia elétrica e de gás natural da situação dos clientes enquanto beneficiários de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, ou se o seu rendimento é inferior ao limite referido no n.º 3 do mesmo artigo e no n.º 2 do artigo 2.º do Decreto-Lei n.º 101/2011, de 30 de setembro, para atribuição da tarifa social de energia elétrica e tarifa social de gás natural, respetivamente, é efetuado, preferencialmente, através de meios eletrónicos, a disponibilizar pelas instituições de segurança social competentes e pela Autoridade Tributária e Aduaneira e formalizados em protocolo a estabelecer entre o Instituto de Segurança Social, I. P., o Instituto de Informática, I. P., o Ministério da Solidariedade, Emprego e Segurança Social, a Autoridade Tributária e Aduaneira e a Direção-Geral de Energia e Geologia (DGEG).\n\n5 - As instituições de segurança social e a Autoridade Tributária e Aduaneira prestam a informação solicitada pelos comercializadores de energia elétrica e comercializadores de gás natural através de meios eletrónicos, nos termos previstos do número anterior.\n\n6 - Após confirmação junto das instituições de segurança social competentes e da Autoridade Tributária e Aduaneira de que o cliente é beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, ou se o seu rendimento é inferior ao limite referido no n.º 3 do mesmo artigo e no n.º 2 do artigo 2.º do Decreto-Lei n.º 101/2011, de 30 de setembro, o comercializador de energia elétrica e o comercializador de gás natural procedem à aplicação do desconto previsto no artigo 3.º do Decreto-Lei n.º 102/2011, de 30 de setembro, na sua atual redação.\n\n7 - É dispensada a confirmação prevista nos números anteriores em relação a todos os clientes que sejam beneficiários da tarifa social nos termos do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, ou do Decreto-Lei n.º 102/2011, de 30 de Setembro, sendo, nessa circunstância, automaticamente aplicável o ASECE, pelo comercializador, sem necessidade de solicitação pelo cliente.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 278-B/2014 - Diário da República n.º 250/2014, 1º Suplemento, Série I de 2014-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/278-b-2014-66006093), em vigor a partir de 2014-12-30"
+  },
+  "888952607": {
+   "fragment_id": "888958698",
+   "type": 11,
+   "heading": "Artigo 3.º — Certificação das entidades autorizadas a confirmar a situação dos clientes junto das instituições de segurança social",
+   "in_force_from": "2014-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 278-B/2014 - Diário da República n.º 250/2014, 1º Suplemento, Série I de 2014-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/278-b-2014-66006093), em vigor a partir de 2014-12-30"
+   ],
+   "markdown": "###### Artigo 3.º — Certificação das entidades autorizadas a confirmar a situação dos clientes junto das instituições de segurança social\n\n1 - A DGEG garante o fornecimento às instituições de segurança social competentes e à Autoridade Tributária e Aduaneira da informação, permanentemente atualizada, por meios eletrónicos, relativa aos comercializadores de energia elétrica e de gás natural, enquanto entidades autorizadas a consultar a situação dos clientes beneficiários de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, ou se o seu rendimento é inferior ao limite referido no n.º 3 do mesmo artigo e no n.º 2 do artigo 2.º do Decreto-Lei n.º 101/2011, de 30 de setembro.\n\n2 - O processo referido no número anterior é formalizado no protocolo referido no artigo 2.º da presente portaria.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 278-B/2014 - Diário da República n.º 250/2014, 1º Suplemento, Série I de 2014-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/278-b-2014-66006093), em vigor a partir de 2014-12-30"
+  },
+  "888952608": {
+   "fragment_id": "888958699",
+   "type": 11,
+   "heading": "Artigo 4.º — Manutenção do ASECE",
+   "in_force_from": "2014-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 278-B/2014 - Diário da República n.º 250/2014, 1º Suplemento, Série I de 2014-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/278-b-2014-66006093), em vigor a partir de 2014-12-30"
+   ],
+   "markdown": "###### Artigo 4.º — Manutenção do ASECE\n\n1 - Os clientes que acumulem o ASECE com o regime da tarifa social nos termos do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, ou do Decreto-Lei n.º 101/2011, de 30 de setembro, e enquanto beneficiem desta tarifa, mantêm a elegibilidade para a atribuição daquele apoio.\n\n2 - Para os clientes que não acumulem o ASECE com o regime da tarifa social, os comercializadores de energia elétrica e os comercializadores de gás natural solicitam, através de meios eletrónicos, às instituições de segurança social competentes e à Autoridade Tributária e Aduaneira, em setembro de cada ano, a atualização para cada um dos respetivos clientes da informação que lhe tenha sido prestada para efeitos de atribuição do ASECE.\n\n3 - As instituições de segurança social competentes e a Autoridade Tributária e Aduaneira comunicam, através de meios eletrónicos, ao comercializador de energia elétrica e ao comercializador de gás natural a informação solicitada nos termos do número anterior.\n\n4 - A qualidade de beneficiário do abono de família cujas prestações sejam processadas fora do sistema de informação da segurança social, designadamente as que são geridas pelos serviços processadores de remunerações da Administração Pública e pelas caixas de atividade ou de empresas subsistentes, é comprovada por apresentação de declaração das respetivas entidades gestoras, emitida a pedido dos beneficiários em prazo não superior a cinco dias úteis.\n\n5 - O comercializador de energia eléctrica e o comercializador de gás natural comunicam, por via electrónica, ao operador da rede de distribuição de energia eléctrica em BT e aos operadores de rede de distribuição de gás natural em baixa pressão, respectivamente, em prazo não superior a 10 dias úteis após a recepção da informação prevista no número anterior, os clientes que não observam os critérios de elegibilidade para manutenção do ASECE.\n\n6 - O comercializador de energia eléctrica e o comercializador de gás natural cessam a aplicação do desconto em causa, no prazo de 10 dias úteis após a recepção da comunicação prevista no número anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 278-B/2014 - Diário da República n.º 250/2014, 1º Suplemento, Série I de 2014-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/278-b-2014-66006093), em vigor a partir de 2014-12-30"
+  },
+  "888952605": {
+   "fragment_id": "888958704",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 29 de Setembro de 2011. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 27 de Setembro de 2011. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 20 de Setembro de 2011."
+  }
+ }
+}

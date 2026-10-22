@@ -1,0 +1,973 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:491439:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-69921312",
+ "dre_path": "/dr/detalhe/decreto-lei/296-2009-491439",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-10-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69916365",
+    "69916366",
+    "69916367",
+    "69916368",
+    "69916369",
+    "69916370",
+    "69916371",
+    "69916372",
+    "69916373",
+    "69916374",
+    "69925275",
+    "69925276",
+    "69925277",
+    "69925278",
+    "69925279",
+    "69925280",
+    "69925281",
+    "69925282",
+    "69925283",
+    "69925284",
+    "69925285",
+    "69925286",
+    "69925287",
+    "69925288",
+    "69925289",
+    "69925290",
+    "69925291",
+    "69925292",
+    "69925293",
+    "69925294",
+    "69925295",
+    "69925296",
+    "69925297",
+    "69925298",
+    "69925299",
+    "69925300",
+    "69925301",
+    "69925302",
+    "69925303",
+    "69925304",
+    "69925305",
+    "69925306",
+    "69925307",
+    "69925308",
+    "69925309",
+    "69925310",
+    "69925311",
+    "69925312",
+    "69925313"
+   ]
+  },
+  {
+   "date": "2015-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69920317:por",
+     "title": "Decreto-Lei n.º 142/2015",
+     "published": "2015-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/142-2015-69920317"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "69916365",
+    "69916366",
+    "69916367",
+    "69916368",
+    "69916369",
+    "69916370",
+    "69916371",
+    "69916372",
+    "69916373",
+    "69916374",
+    "69925275",
+    "69925276",
+    "69925277",
+    "69925278",
+    "69925279",
+    "69925280",
+    "69925281",
+    "69925282",
+    "69925283",
+    "69925284",
+    "69925285",
+    "69925286",
+    "69925287",
+    "69925288",
+    "69925289",
+    "69925290",
+    "69925291",
+    "69925292",
+    "69925293",
+    "69925294",
+    "69925295",
+    "69925296",
+    "69925297",
+    "69925298",
+    "69925299",
+    "69925300",
+    "69925301",
+    "69925302",
+    "69925303",
+    "69925304",
+    "69925305",
+    "69925306",
+    "69925307",
+    "69925308",
+    "69925309",
+    "69925310",
+    "868583381",
+    "69925312",
+    "868583382"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "69916365",
+    "69916366",
+    "69916367",
+    "69916368",
+    "69916369",
+    "69916370",
+    "69916371",
+    "69916372",
+    "69916373",
+    "69916374",
+    "69925275",
+    "69925276",
+    "69925277",
+    "69925278",
+    "69925279",
+    "69925280",
+    "69925281",
+    "69925282",
+    "69925283",
+    "69925284",
+    "69925285",
+    "69925286",
+    "69925287",
+    "69925288",
+    "69925289",
+    "69925290",
+    "69925291",
+    "69925292",
+    "69925293",
+    "69925294",
+    "69925295",
+    "69925296",
+    "69925297",
+    "69925298",
+    "69925299",
+    "69925300",
+    "69925301",
+    "69925302",
+    "69925303",
+    "69925304",
+    "69925305",
+    "69925306",
+    "69925307",
+    "69925308",
+    "69925309",
+    "69925310",
+    "868583381",
+    "884861899",
+    "868583382"
+   ]
+  },
+  {
+   "date": "2020-04-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:131193419:por",
+     "title": "Decreto-Lei n.º 14/2020",
+     "published": "2020-04-07",
+     "dre_path": "/dr/detalhe/decreto-lei/14-2020-131193419"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º-A"
+   ],
+   "fragments": [
+    "69916365",
+    "69916366",
+    "69916367",
+    "69916368",
+    "69916369",
+    "69916370",
+    "69916371",
+    "69916372",
+    "69916373",
+    "69916374",
+    "69925275",
+    "69925276",
+    "69925277",
+    "69925278",
+    "69925279",
+    "69925280",
+    "69925281",
+    "69925282",
+    "69925283",
+    "69925284",
+    "69925285",
+    "69925286",
+    "884861904",
+    "884861905",
+    "884861906",
+    "69925289",
+    "69925290",
+    "69925291",
+    "69925292",
+    "69925293",
+    "69925294",
+    "69925295",
+    "69925296",
+    "69925297",
+    "69925298",
+    "69925299",
+    "69925300",
+    "69925301",
+    "69925302",
+    "69925303",
+    "69925304",
+    "69925305",
+    "69925306",
+    "69925307",
+    "69925308",
+    "69925309",
+    "69925310",
+    "868583381",
+    "884861899",
+    "868583382"
+   ]
+  },
+  {
+   "date": "2023-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:229857716:por",
+     "title": "Decreto-Lei n.º 114-E/2023",
+     "published": "2023-12-07",
+     "dre_path": "/dr/detalhe/decreto-lei/114-e-2023-229857716"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 34.º"
+   ],
+   "fragments": [
+    "69916365",
+    "69916366",
+    "69916367",
+    "69916368",
+    "69916369",
+    "69916370",
+    "69916371",
+    "69916372",
+    "69916373",
+    "69916374",
+    "69925275",
+    "69925276",
+    "69925277",
+    "69925278",
+    "884861915",
+    "69925280",
+    "69925281",
+    "69925282",
+    "69925283",
+    "69925284",
+    "69925285",
+    "69925286",
+    "884861904",
+    "884861905",
+    "884861906",
+    "69925289",
+    "69925290",
+    "69925291",
+    "69925292",
+    "69925293",
+    "69925294",
+    "69925295",
+    "69925296",
+    "69925297",
+    "69925298",
+    "69925299",
+    "69925300",
+    "69925301",
+    "69925302",
+    "69925303",
+    "69925304",
+    "69925305",
+    "69925306",
+    "69925307",
+    "69925308",
+    "884861916",
+    "69925310",
+    "884861907",
+    "884861908",
+    "868583382"
+   ]
+  },
+  {
+   "date": "2024-10-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:889313167:por",
+     "title": "Decreto-Lei n.º 62/2024",
+     "published": "2024-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/62-2024-889313167"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "69916365",
+    "69916366",
+    "69916367",
+    "69916368",
+    "69916369",
+    "69916370",
+    "69916371",
+    "69916372",
+    "69916373",
+    "69916374",
+    "69925275",
+    "69925276",
+    "69925277",
+    "69925278",
+    "889282146",
+    "889282147",
+    "889282149",
+    "889282150",
+    "69925281",
+    "69925282",
+    "69925283",
+    "69925284",
+    "69925285",
+    "69925286",
+    "884861904",
+    "884861905",
+    "884861906",
+    "69925289",
+    "69925290",
+    "69925291",
+    "69925292",
+    "69925293",
+    "69925294",
+    "69925295",
+    "69925296",
+    "69925297",
+    "69925298",
+    "69925299",
+    "69925300",
+    "69925301",
+    "69925302",
+    "69925303",
+    "69925304",
+    "69925305",
+    "69925306",
+    "69925307",
+    "69925308",
+    "884861917",
+    "69925310",
+    "889282145",
+    "884861908",
+    "868583382"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:889313167:por",
+     "title": "Decreto-Lei n.º 62/2024",
+     "published": "2024-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/62-2024-889313167",
+     "date": "2025-01-01"
+    },
+    {
+     "id": "pt:dre:889313169:por",
+     "title": "Decreto-Lei n.º 64/2024",
+     "published": "2024-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/64-2024-889313169",
+     "date": "2025-01-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "69916365": {
+   "fragment_id": "69921313",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 296/2009\n\nde 14 de Outubro\n\nA Lei n.º 12-A/2008, de 27 de Fevereiro, alterada pela Lei n.º 64-A/2008, de 31 de Dezembro, embora não defina nem regule os regimes de vinculação, de carreiras e de remunerações dos militares das Forças Armadas, determina que os respectivos regimes obedeçam aos princípios a que se refere o n.º 4 do seu artigo 2.º\n\nEm matéria de remunerações dos militares das Forças Armadas relevam os princípios subjacentes aos n.os 1 e 3 do artigo 66.º, artigo 67.º, n.os 1 e 2 do artigo 68.º, n.º 1 do artigo 69.º, e artigos 70.º, 72.º, 73.º e 76.º a 79.º da Lei n.º 12-A/2008, de 27 de Fevereiro, que se traduzem, designadamente, na definição das componentes da remuneração e respectivos conceitos, na existência de uma tabela remuneratória única que contém todos os níveis remuneratórios a ser utilizados para a fixação da remuneração base dos trabalhadores que exerçam funções ao abrigo de relações jurídicas de emprego público, na fixação das condições de atribuição de suplementos remuneratórios e na enumeração e definição dos respectivos descontos.\n\nEm obediência aos princípios anteriormente enunciados, e tendo igualmente presente a Lei n.º 11/89, de 1 de Junho, que estabelece as bases gerais do estatuto da condição militar, procurou-se assegurar a indispensável harmonização com os regimes de remunerações dos trabalhadores que exercem funções públicas, tendo em consideração as especificidades decorrentes da organização, competências e funcionamento das Forças Armadas.\n\nPretende-se, ainda, com o presente decreto-lei solucionar algumas distorções que se verificam no actual regime remuneratório, designadamente as que respeitam à existência de sobreposições indiciárias dentro de cada categoria e posto.\n\nÉ também propósito contemplar no presente decreto-lei normas que respeitam à atribuição dos subsídios de Natal e de férias, 14.º mês e férias nos casos de cessação definitiva de funções.\n\nNo que concerne ao suplemento de condição militar, cuja atribuição assenta no regime especial de prestação de trabalho, na permanente disponibilidade e nos ónus e restrições específicas da condição militar, prosseguem-se os objectivos de actualização iniciados com as alterações introduzidas no Decreto-Lei n.º 328/99, de 18 de Agosto, alterado pelo Decreto-Lei n.º 50/2009, de 27 de Fevereiro.\n\nPor último, procede-se também à actualização do regime de abono mensal de despesas de representação dos militares titulares de determinados cargos ou funções, por se encontrar desajustado.\n\nO presente decreto-lei obedece aos princípios consagrados nos artigos 66.º e seguintes da Lei n.º 12-A/2008, de 27 de Fevereiro, alterada pela Lei n.º 64-A/2008, de 31 de Dezembro, que define os regimes de vinculação de carreiras e de remunerações dos trabalhadores que exercem funções públicas.\n\nForam ouvidas as associações profissionais de militares.\n\nAssim:\n\nNos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "69916366": {
+   "fragment_id": "69921314",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "69916367": {
+   "fragment_id": "69921315",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei altera a estrutura do regime remuneratório aplicável aos militares dos quadros permanentes (QP), em regime de contrato (RC) e de voluntariado (RV) dos três ramos das Forças Armadas.\n\n2 - O disposto no presente decreto-lei aplica-se ainda aos aspirantes a oficial, aspirantes a oficial tirocinantes, cadetes dos estabelecimentos de ensino superior público militar, alunos dos cursos de formação destinados aos QP e militares em instrução básica."
+  },
+  "69916368": {
+   "fragment_id": "69921316",
+   "type": 11,
+   "heading": "Artigo 2.º — Direito à remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direito à remuneração\n\n1 - O direito à remuneração reporta-se:\n\na) À data de ingresso no primeiro posto do respectivo quadro, para os militares dos QP;\n\nb) À data do início da prestação de serviço em RC ou RV, em conformidade com as normas especificamente aplicáveis;\n\nc) À data da incorporação.\n\n2 - O direito à remuneração suspende-se nas situações de ausência ilegítima, deserção e noutras situações previstas na lei.\n\n3 - O direito à remuneração cessa com a verificação de qualquer das causas que legalmente determinam a cessação do vínculo às Forças Armadas."
+  },
+  "69916369": {
+   "fragment_id": "69921317",
+   "type": 11,
+   "heading": "Artigo 3.º — Componentes da remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Componentes da remuneração\n\nA remuneração dos militares é composta por:\n\na) Remuneração base;\n\nb) Suplementos remuneratórios."
+  },
+  "69916370": {
+   "fragment_id": "69921318",
+   "type": 11,
+   "heading": "Artigo 4.º — Remuneração base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Remuneração base\n\n1 - A remuneração base mensal é o montante pecuniário correspondente ao nível remuneratório da posição remuneratória em que o militar se encontra no posto.\n\n2 - A remuneração base está referenciada à titularidade do posto e ao posicionamento remuneratório do militar.\n\n3 - A remuneração base anual é paga em 14 mensalidades, correspondendo uma delas ao subsídio de Natal e outra ao subsídio de férias."
+  },
+  "69916371": {
+   "fragment_id": "69921319",
+   "type": 11,
+   "heading": "Artigo 5.º — Opção de remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Opção de remuneração\n\nSempre que o militar, nos termos estatutariamente aplicáveis, passe a desempenhar cargos ou a exercer funções em comissão especial ou a desempenhar cargos militares fora do âmbito das Forças Armadas, pode optar, a todo o tempo, pela remuneração devida na situação jurídico-funcional de origem."
+  },
+  "69916372": {
+   "fragment_id": "69921320",
+   "type": 11,
+   "heading": "Artigo 6.º — Suplementos remuneratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Suplementos remuneratórios\n\n1 - Os militares das Forças Armadas beneficiam dos suplementos remuneratórios previstos no presente decreto-lei e de suplementos remuneratórios específicos, conferidos em função das particulares condições de exigência relacionadas com o concreto desempenho e exercício de cargos e funções que impliquem, designadamente, penosidade, insalubridade, risco e desgaste, cujos regimes constam de legislação específica.\n\n2 - Os militares beneficiam ainda de outros suplementos, designadamente para compensação de despesas feitas, cujos regimes constam de legislação específica."
+  },
+  "69916373": {
+   "fragment_id": "69921321",
+   "type": 1,
+   "heading": "Capítulo II — Remuneração dos militares na situação de activo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Remuneração dos militares na situação de activo"
+  },
+  "69916374": {
+   "fragment_id": "69921322",
+   "type": 8,
+   "heading": "Secção I — Remuneração base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Remuneração base"
+  },
+  "69925275": {
+   "fragment_id": "69921323",
+   "type": 11,
+   "heading": "Artigo 7.º — Posições remuneratórias e níveis remuneratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Posições remuneratórias e níveis remuneratórios\n\n1 - As posições remuneratórias dos postos militares constam do anexo I ao presente decreto-lei, do qual faz parte integrante, que fixa também os níveis da tabela remuneratória única que lhe correspondem.\n\n2 - A remuneração base dos militares a que se refere o n.º 2 do artigo 1.º consta do anexo II ao presente decreto-lei, do qual faz parte integrante.\n\n3 - A remuneração base do Chefe do Estado-Maior-General das Forças Armadas é fixada por referência ao nível remuneratório 92 da tabela remuneratória única.\n\n4 - A remuneração base dos Chefes e dos Vice-Chefes dos Estados-Maiores dos três ramos das Forças Armadas são fixadas, respectivamente, por referência aos níveis remuneratórios 89 e 75 da tabela remuneratória única.\n\n5 - A remuneração base dos almirantes da Armada e marechais é fixada por referência ao nível remuneratório 89 da tabela remuneratória única."
+  },
+  "69925276": {
+   "fragment_id": "69921324",
+   "type": 11,
+   "heading": "Artigo 8.º — Promoção e graduação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Promoção e graduação\n\n1 - A promoção é regulada de harmonia com as disposições estatutárias e regulamentares aplicáveis, designadamente a avaliação de mérito, e processa-se para a primeira posição remuneratória do posto a que o militar é promovido.\n\n2 - O militar graduado em posto superior tem direito à remuneração correspondente à primeira posição remuneratória do posto em que foi graduado.\n\n3 - O militar graduado nos termos do disposto no número anterior retoma a remuneração do posto em que se encontra promovido quando cessar a graduação, sendo-lhe contado o tempo em que esteve graduado, para efeitos de mudança de posição remuneratória.\n\n4 - O militar dos QP, que no quadro de origem tenha posto superior ao do ingresso em novo quadro especial, é graduado no posto que detém e percebe a remuneração correspondente à posição remuneratória em que se encontrava naquele posto.\n\n5 - O militar em RC que ingresse nos QP, quando detenha o posto de ingresso ou seja graduado no posto que detém na data de ingresso, percebe a remuneração correspondente à posição remuneratória em que se encontrava naquele posto."
+  },
+  "69925277": {
+   "fragment_id": "69921325",
+   "type": 11,
+   "heading": "Artigo 9.º — Cargo de posto superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cargo de posto superior\n\n1 - O militar nomeado, nos termos das disposições estatutárias e regulamentares, para o exercício de cargos ou funções a que corresponda posto superior tem direito à remuneração correspondente à primeira posição remuneratória desse posto.\n\n2 - A portaria ou o despacho de nomeação do militar nas condições referidas no número anterior, bem como a cessação do exercício efectivo de funções, são publicados, conforme o caso, no Diário da República, em Ordem do ramo ou em Ordem de Serviço.\n\n3 - O direito à remuneração previsto no n.º 1 adquire-se à data de início do exercício efectivo de funções.\n\n4 - Para efeitos de mudança de posição remuneratória, o tempo em que o militar desempenhou cargo de posto superior é considerado apenas no seu próprio posto."
+  },
+  "69925278": {
+   "fragment_id": "69921326",
+   "type": 8,
+   "heading": "Secção II — Suplementos remuneratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Suplementos remuneratórios"
+  },
+  "69925279": {
+   "fragment_id": "69921327",
+   "type": 11,
+   "heading": "Artigo 10.º — Suplemento de condição militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Suplemento de condição militar\n\n1 - Com fundamento no regime especial de prestação de trabalho, na permanente disponibilidade e nos ónus e restrições específicos da condição militar, é atribuído aos militares um suplemento, designado por suplemento de condição militar.\n\n2 - O suplemento de condição militar é remunerado por inteiro e em prestação mensal única a todos os militares nos termos do disposto no Decreto-Lei n.º 50/2009, de 27 de Fevereiro.\n\n3 - O suplemento de condição militar é considerado para efeitos do cálculo dos subsídios de férias e de Natal.\n\n4 - O suplemento de condição militar é igualmente considerado para efeitos do cálculo da remuneração de reserva e pensão de reforma, nos termos da alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação.\n\n5 - Os valores do suplemento de condição militar são anualmente actualizados na percentagem em que o sejam os níveis da tabela remuneratória única."
+  },
+  "69925280": {
+   "fragment_id": "69921328",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas de representação\n\n1 - O Chefe do Estado-Maior-General das Forças Armadas e os Chefes dos Estados-Maiores dos três ramos das Forças Armadas têm direito à atribuição de um abono mensal por despesas de representação de montante de (euro) 1808,23 e de (euro) 1754,16, respectivamente.\n\n2 - Os almirantes da Armada e marechais e os almirantes e generais na efectividade de serviço têm direito à atribuição de um abono mensal por despesas de representação de montante de (euro) 501,19.\n\n3 - Os oficiais titulares dos cargos previstos no anexo III ao presente decreto-lei, do qual faz parte integrante, têm direito à atribuição de um abono mensal por despesas de representação nos termos previstos para o pessoal dirigente dos serviços e organismos da administração central do Estado, por equiparação aos cargos de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau.\n\n4 - Os valores do abono por despesas de representação são anualmente actualizados na mesma percentagem em que o sejam para os correspondentes cargos de direcção da administração pública."
+  },
+  "69925281": {
+   "fragment_id": "69921329",
+   "type": 8,
+   "heading": "Secção III — Descontos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Descontos"
+  },
+  "69925282": {
+   "fragment_id": "69921330",
+   "type": 11,
+   "heading": "Artigo 12.º — Descontos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Descontos\n\nSobre as remunerações dos militares incidem:\n\na) Descontos obrigatórios;\n\nb) Descontos facultativos."
+  },
+  "69925283": {
+   "fragment_id": "69921331",
+   "type": 11,
+   "heading": "Artigo 13.º — Descontos obrigatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Descontos obrigatórios\n\n1 - São descontos obrigatórios os que resultam de imposição legal.\n\n2 - São descontos obrigatórios, entre outros previstos na lei, os seguintes:\n\na) Imposto sobre o rendimento das pessoas singulares (IRS);\n\nb) Quotizações para o regime de protecção social aplicável;\n\nc) Descontos para a assistência na doença aos militares;\n\nd) Penhoras e pensões resultantes de decisão judicial.\n\n3 - Os regimes dos descontos obrigatórios constam de legislação própria."
+  },
+  "69925284": {
+   "fragment_id": "69921332",
+   "type": 11,
+   "heading": "Artigo 14.º — Descontos facultativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Descontos facultativos\n\n1 - São descontos facultativos os que, sendo permitidos por lei, carecem de autorização expressa do titular do direito à remuneração.\n\n2 - São, designadamente, descontos facultativos:\n\na) Quotizações para cofres de previdência ou outras instituições afins;\n\nb) Prémios de seguros de vida, de doença, de acidentes pessoais, complementos de reforma e planos de poupança-reforma;\n\nc) Desconto para o fundo de pensões dos militares das Forças Armadas."
+  },
+  "69925285": {
+   "fragment_id": "69921333",
+   "type": 1,
+   "heading": "Capítulo III — Remuneração dos militares na situação de reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Remuneração dos militares na situação de reserva"
+  },
+  "69925286": {
+   "fragment_id": "69921334",
+   "type": 11,
+   "heading": "Artigo 15.º — Forma de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Forma de cálculo\n\n1 - A remuneração dos militares na situação de reserva é igual à 36.ª parte da remuneração base mensal multiplicada pela expressão em anos do número de meses de serviço contados para a reserva, a qual não pode ser superior a 36.\n\n2 - À remuneração referida no número anterior acresce uma parcela de valor igual à 36.ª parte do suplemento de condição militar e dos suplementos devidos pelo exercício de funções em particulares condições de perigosidade, insalubridade, risco e desgaste percebidos no último posto do activo, multiplicada pela expressão em anos do número de meses em que foi exercida a actividade que conferiu direito aos suplementos, a qual não pode ser superior a 36.\n\n3 - A remuneração dos militares na reserva na efectividade de serviço é igual à dos militares do activo do mesmo posto e posição remuneratória."
+  },
+  "69925287": {
+   "fragment_id": "69921335",
+   "type": 11,
+   "heading": "Artigo 16.º — Contagem de tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contagem de tempo de serviço\n\n1 - O tempo de serviço prestado na situação de reserva, na efectividade de serviço, é, no fim de cada ano, levado em conta para efeitos de melhoria da remuneração, até ao limite de 36 anos.\n\n2 - Não é contado, para efeitos de remuneração de reserva, o tempo em que o militar tiver permanecido nas situações de licença pelas quais não tenha direito, de acordo com as disposições estatutárias e regulamentares em vigor, ao abono de remuneração base.\n\n3 - Nas situações em que, nos termos estatutários e regulamentares, não haja lugar à contagem do tempo de serviço, este não é igualmente levado em conta para efeitos de cálculo de remuneração de reserva.\n\n4 - O tempo de permanência do militar na situação de reserva fora da efectividade de serviço releva para efeitos do cálculo da pensão de reforma, passando as quotizações ou contribuições para a Caixa Geral de Aposentações (CGA) ou para o regime geral de segurança social a incidir sobre a remuneração relevante para o cálculo da remuneração de reserva."
+  },
+  "69925288": {
+   "fragment_id": "69921336",
+   "type": 11,
+   "heading": "Artigo 17.º — Actualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Actualização\n\nA remuneração dos militares na situação de reserva é actualizada sempre que se verifiquem alterações das remunerações dos militares do mesmo posto e posição remuneratória do activo, em igual percentagem, com efeitos reportados à data da entrada em vigor das referidas actualizações."
+  },
+  "69925289": {
+   "fragment_id": "69921337",
+   "type": 1,
+   "heading": "Capítulo IV — Subsídios de Natal e de férias, 14.º mês e férias em caso de interrupção ou cessação definitiva de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Subsídios de Natal e de férias, 14.º mês e férias em caso de interrupção ou cessação definitiva de funções"
+  },
+  "69925290": {
+   "fragment_id": "69921338",
+   "type": 8,
+   "heading": "Secção I — Subsídio de Natal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Subsídio de Natal"
+  },
+  "69925291": {
+   "fragment_id": "69921339",
+   "type": 11,
+   "heading": "Artigo 18.º — Efectividade de serviço ou com direito a remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Efectividade de serviço ou com direito a remuneração\n\nOs militares na efectividade serviço ou em qualquer situação que confira direito a remuneração têm direito a receber, em cada ano civil, um subsídio de Natal, abonado em Novembro, de montante igual ao da remuneração base que lhe seja devida no dia 1 do referido mês, acrescido dos suplementos que a lei preveja como integrantes do respectivo cálculo."
+  },
+  "69925292": {
+   "fragment_id": "69921340",
+   "type": 11,
+   "heading": "Artigo 19.º — Primeiro ano de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Primeiro ano de serviço\n\nOs militares, no primeiro ano civil em que prestem serviço efectivo, têm direito a receber um subsídio de Natal de montante correspondente a tantos duodécimos quantos os meses completos de serviço que vierem a perfazer até 31 de Dezembro, contando-se, para o efeito, os meses de calendário, sem prejuízo do disposto no artigo 25.º"
+  },
+  "69925293": {
+   "fragment_id": "69921341",
+   "type": 11,
+   "heading": "Artigo 20.º — Situação que não confira direito a remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Situação que não confira direito a remuneração\n\n1 - Os militares, no ano em que incorram em qualquer situação que não confira direito à remuneração, têm direito a um subsídio de Natal de montante correspondente a tantos duodécimos quantos os meses de serviço efectivo prestado nesse ano.\n\n2 - No caso previsto no número anterior, o subsídio é abonado com a última remuneração devida ou, em caso de impossibilidade, nos 60 dias subsequentes, sendo o respectivo montante determinado com base na remuneração auferida à data da mudança de situação se o militar não estiver na efectividade de serviço em 1 de Novembro.\n\n3 - No ano em que cessam as situações referidas no n.º 1 aplica-se o disposto no artigo anterior."
+  },
+  "69925294": {
+   "fragment_id": "69921342",
+   "type": 11,
+   "heading": "Artigo 21.º — Cessação definitiva de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cessação definitiva de funções\n\nOs militares abatidos aos QP, nos termos do Estatuto dos Militares das Forças Armadas (EMFAR), bem como os militares em RC e RV que passem à reserva de disponibilidade, têm direito a receber, com a última remuneração devida, um subsídio de Natal de montante correspondente a tantos duodécimos quantos os meses completos de serviço efectivo prestado nesse ano, determinado com base na última remuneração auferida."
+  },
+  "69925295": {
+   "fragment_id": "69921343",
+   "type": 11,
+   "heading": "Artigo 22.º — Fora da efectividade de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Fora da efectividade de serviço\n\n1 - O subsídio de Natal dos militares na situação de reserva, fora de efectividade de serviço, na reforma ou desligados do serviço a aguardar conclusão do processo de reforma corresponde ao montante da remuneração ou pensão a que tenham direito no dia 1 de Novembro.\n\n2 - No ano em que deixem a efectividade de serviço por transitarem para qualquer das situações previstas no número anterior, os militares têm direito, independentemente da entidade processadora, a um subsídio de Natal de montante igual ao que lhes seria atribuído se, à data de 1 de Novembro, estivessem na efectividade de serviço, excepto se da aplicação do número anterior resultar um montante mais elevado."
+  },
+  "69925296": {
+   "fragment_id": "69921344",
+   "type": 8,
+   "heading": "Secção II — Subsídio de férias, 14.º mês e férias em caso de interrupção ou cessação definitiva de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Subsídio de férias, 14.º mês e férias em caso de interrupção ou cessação definitiva de funções"
+  },
+  "69925297": {
+   "fragment_id": "69921345",
+   "type": 11,
+   "heading": "Artigo 23.º — Efectividade de serviço ou com direito a remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Efectividade de serviço ou com direito a remuneração\n\n1 - Aos militares na efectividade de serviço ou em qualquer outra situação que confira direito a remuneração é atribuído, em cada ano civil, um subsídio de férias, abonado por inteiro no mês de Junho, desde que até ao dia 1 daquele mês tenham completado um ano de serviço efectivo.\n\n2 - Os militares referidos no número anterior que completem o primeiro ano de serviço efectivo entre 1 de Junho e 31 de Dezembro, são abonados do subsídio de férias no mês seguinte àquele em que perfaçam esse tempo de serviço.\n\n3 - O subsídio de férias é de montante igual à remuneração base a que os militares tenham direito no dia 1 de Junho ou, nos casos previstos no número anterior, no dia 1 do mês em que completem um ano de serviço efectivo, acrescido dos suplementos que a lei preveja como integrantes do respectivo cálculo."
+  },
+  "69925298": {
+   "fragment_id": "69921346",
+   "type": 11,
+   "heading": "Artigo 24.º — Fora da efectividade de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Fora da efectividade de serviço\n\n1 - Os militares na situação de reserva, fora de efectividade de serviço, na reforma ou desligados do serviço a aguardar conclusão do processo de reforma, com excepção dos que no ano da passagem a qualquer das situações referidas tenham recebido subsídio de férias, têm direito a receber, em cada ano civil, um 14.º mês, abonado em Julho, de montante igual à remuneração ou pensão correspondente a esse mês.\n\n2 - O abono do 14.º mês compete à CGA ou à segurança social se o militar se encontrar na situação de reforma ou à entidade de que dependa o militar se este se encontrar na situação de reserva, fora da efectividade de serviço ou desligado do serviço aguardando conclusão do processo de reforma."
+  },
+  "69925299": {
+   "fragment_id": "69921347",
+   "type": 11,
+   "heading": "Artigo 25.º — Interrupção de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Interrupção de funções\n\n1 - No ano em que ocorra a interrupção de funções com perda de remuneração, os militares têm direito a receber, nos 60 dias subsequentes, o subsídio de férias, se ainda o não tiverem percebido, bem como a remuneração correspondente ao período de férias vencidas em 1 de Janeiro desse ano, que não tenha sido e não possa ser gozado, por motivo de serviço, antes da mudança de situação.\n\n2 - Quando o início e o termo da interrupção ocorram no mesmo ano civil, os militares têm direito, no ano seguinte, a um período de férias e aos correspondentes abonos proporcionais ao tempo de serviço prestado no ano da interrupção.\n\n3 - Quando a interrupção abranja dois anos civis, os militares têm direito, no ano de regresso e no seguinte, a um período de férias e aos correspondentes abonos, proporcionais ao tempo de serviço prestado, respectivamente, no ano da interrupção de funções e no ano do regresso à efectividade de serviço."
+  },
+  "69925300": {
+   "fragment_id": "69921348",
+   "type": 11,
+   "heading": "Artigo 26.º — Cessação definitiva de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cessação definitiva de funções\n\n1 - Os militares abatidos aos QP nos termos do EMFAR, bem como os militares em RC ou RV que passem à reserva de disponibilidade, têm direito a receber, cumulativamente com a última remuneração devida, a remuneração correspondente a dois dias e meio por cada mês completo de serviço efectivo prestado nesse ano e o subsídio de férias proporcional.\n\n2 - Para além do disposto no número anterior, os militares ainda têm direito ao subsídio correspondente ao período de férias vencido em 1 de Janeiro do ano do abate ou da passagem à reserva de disponibilidade, se ainda o não tiverem percebido, bem como à remuneração relativa a esse período, se ainda o não tiverem gozado.\n\n3 - Os abonos previstos nos números anteriores são calculados com base na última remuneração auferida."
+  },
+  "69925301": {
+   "fragment_id": "69921349",
+   "type": 11,
+   "heading": "Artigo 27.º — Princípio da unicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Princípio da unicidade\n\nO regime previsto no artigo anterior é aplicável, por uma única vez, aos militares que deixem a efectividade de serviço por transitarem para as situações de reserva ou reforma."
+  },
+  "69925302": {
+   "fragment_id": "69921350",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares, transitórias e finais"
+  },
+  "69925303": {
+   "fragment_id": "69921351",
+   "type": 11,
+   "heading": "Artigo 28.º — Prestações familiares e outras prestações sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Prestações familiares e outras prestações sociais\n\nOs militares têm direito a protecção social, a outros benefícios sociais e ao subsídio por morte nos termos da lei geral."
+  },
+  "69925304": {
+   "fragment_id": "69921352",
+   "type": 11,
+   "heading": "Artigo 29.º — Alimentação e fardamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Alimentação e fardamento\n\nOs militares das Forças Armadas, na efectividade de serviço, têm direito a abono de alimentação, atribuída, em regra, em espécie e a comparticipação na aquisição de fardamento, cujos regimes constam de legislação específica."
+  },
+  "69925305": {
+   "fragment_id": "69921353",
+   "type": 11,
+   "heading": "Artigo 30.º — Contagem do tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Contagem do tempo de serviço\n\nPara efeitos do presente decreto-lei, considera-se como mês completo o período de duração superior a 15 dias que restar do cômputo, em meses, do tempo de serviço prestado."
+  },
+  "69925306": {
+   "fragment_id": "69921354",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime de transição para as posições remuneratórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regime de transição para as posições remuneratórias\n\n1 - A transição para a nova tabela remuneratória única é efectuada nos seguintes termos:\n\na) O militar é reposicionado na posição a que, no respectivo posto, corresponda nível remuneratório cujo montante pecuniário seja igual ao montante pecuniário correspondente à remuneração base a que tem direito, incluindo adicionais e diferenciais de integração eventualmente devidos;\n\nb) Na falta de identidade, o militar é reposicionado na posição remuneratória, automaticamente criada, cujo montante pecuniário seja igual ao montante pecuniário correspondente à remuneração base a que actualmente tem direito, incluindo adicionais e diferenciais de integração eventualmente devidos.\n\n2 - Quando, na transição efectuada nos termos do número anterior, a remuneração base, incluindo adicionais e diferenciais de integração eventualmente devidos, seja inferior à primeira posição remuneratória prevista no anexo I ao presente decreto-lei, do qual faz parte integrante, para o respectivo posto, o militar é transitoriamente posicionado no nível remuneratório, automaticamente criado, de montante pecuniário igual à remuneração a que tem direito à data de entrada em vigor do presente decreto-lei.\n\n3 - Quando da aplicação conjugada das regras de reposicionamento, mencionadas nos números anteriores, com as regras de promoção e progressão estatutariamente previstas, resulte, pela primeira vez, uma situação em que um militar transite para posição remuneratória igual ou superior a militares do mesmo posto e maior antiguidade, estes, por despacho do respectivo Chefe de Estado-Maior, transitam para a mesma posição.\n\n4 - Para efeitos de mudança de posição remuneratória releva todo o tempo de serviço contado no escalão remuneratório em que o militar se encontra na data de entrada em vigor do presente decreto-lei, bem como para efeitos de aplicação do previsto no número anterior.\n\n5 - O regime de transição previsto nos números anteriores aplica-se também aos militares na situação de reserva e aos deficientes das Forças Armadas.\n\n6 - A execução orçamental do disposto nos n.os 2 e 3 é assegurada por despacho dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional."
+  },
+  "69925307": {
+   "fragment_id": "69921355",
+   "type": 11,
+   "heading": "Artigo 32.º — Formalidades da transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Formalidades da transição\n\n1 - Pelos competentes serviços dos respectivos ramos são publicadas listas de transição para as novas posições remuneratórias para conhecimento de todos os interessados.\n\n2 - Da integração cabe reclamação e recurso hierárquico nos termos estatutários, sem prejuízo do recurso contencioso nos termos gerais."
+  },
+  "69925308": {
+   "fragment_id": "69921356",
+   "type": 11,
+   "heading": "Artigo 33.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Salvaguarda de direitos\n\nDa aplicação do presente decreto-lei não pode resultar para os militares redução da remuneração actualmente auferida."
+  },
+  "69925309": {
+   "fragment_id": "69921357",
+   "type": 11,
+   "heading": "Artigo 34.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Norma revogatória\n\n1 - São revogadas todas as disposições que contrariem o disposto no presente decreto-lei, designadamente:\n\na) Decreto-Lei n.º 498-E/74, de 30 de Setembro;\n\nb) Decreto-Lei n.º 329-E/75, de 30 de Junho;\n\nc) Decreto-Lei n.º 543-A/80, de 10 de Novembro;\n\nd) Decreto-Lei n.º 57/81, de 31 de Março;\n\ne) Decreto-Lei n.º 330/83, de 12 de Julho;\n\nf) Decreto-Lei n.º 299/97, de 31 de Outubro;\n\ng) Portaria n.º 149/2003, de 13 de Fevereiro.\n\n2 - Mantém-se em vigor, em tudo o que não contrarie o previsto no presente decreto-lei, o disposto no Decreto-Lei n.º 328/99, de 18 de Agosto, alterado pelos Decretos-Leis n.os 207/2002, de 17 de Outubro, e 50/2009, de 27 de Fevereiro."
+  },
+  "69925310": {
+   "fragment_id": "69921358",
+   "type": 11,
+   "heading": "Artigo 35.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor em 1 de Janeiro de 2010.\n\nVisto e aprovado em Conselho de Ministros de 20 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - João António da Costa Mira Gomes.\n\nPromulgado em 2 de Outubro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 6 de Outubro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "69925311": {
+   "fragment_id": "69921359",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 7.º e o n.º 2 do artigo 32.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 7.º e o n.º 2 do artigo 32.º)\n\nTabela remuneratória dos militares dos QP, em RC e RV\n\n(ver documento original)\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 64/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2024-889313169) O reposicionamento remuneratório no posto de Cabo/Cabo-de-Secção está previsto no artigo 3.º do Decreto-Lei n.º 64/2024, de 30 de setembro. O reposicionamento remuneratório no posto de Primeiro-Marinheiro/Cabo-Adjunto está previsto no artigo 4.º do Decreto-Lei n.º 64/2024, de 30 de setembro. O reposicionamento remuneratório no posto de Subsargento/Furriel está previsto no artigo 5.º do Decreto-Lei n.º 64/2024, de 30 de setembro."
+  },
+  "69925312": {
+   "fragment_id": "69921360",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo n.º 2 do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo n.º 2 do artigo 7.º)\n\nTabela remuneratória dos aspirantes a oficial, aspirantes a oficial tirocinantes, cadetes dos estabelecimentos militares de ensino superior e alunos dos cursos de formação destinados aos QP e militares em instrução básica para ingresso em RV/RC.\n\n(ver documento original)"
+  },
+  "69925313": {
+   "fragment_id": "69921361",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 3 do artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 3 do artigo 11.º)\n\nEquiparações para efeitos de atribuição do abono por despesas de representação\n\n(ver documento original)\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 142/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317) Quanto à reorganização de serviços, deve consultar o artigo 3.º do Decreto-Lei n.º 142/2015, de 31 de julho"
+  },
+  "868583381": {
+   "fragment_id": "69921359",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 7.º e o n.º 2 do artigo 32.º)",
+   "in_force_from": "2015-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317), em vigor a partir de 2015-08-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 7.º e o n.º 2 do artigo 32.º)\n\nTabela remuneratória dos militares dos QP, em RC e RV\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317), em vigor a partir de 2015-08-01"
+  },
+  "868583382": {
+   "fragment_id": "69921361",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 3 do artigo 11.º)",
+   "in_force_from": "2015-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317), em vigor a partir de 2015-08-01"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 3 do artigo 11.º)\n\nEquiparações para efeitos de atribuição do abono por despesas de representação\n\n(ver documento original)\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 142/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317) Quanto à reorganização de serviços, deve consultar o artigo 3.º do Decreto-Lei n.º 142/2015, de 31 de julho\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317), em vigor a partir de 2015-08-01"
+  },
+  "884861899": {
+   "fragment_id": "69921360",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo n.º 2 do artigo 7.º)",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 189.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo n.º 2 do artigo 7.º)\n\nTabela remuneratória dos aspirantes a oficial, aspirantes a oficial tirocinantes, cadetes dos estabelecimentos militares de ensino superior e alunos dos cursos de formação destinados aos QP e militares em instrução básica para ingresso em RV/RC\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 189.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "884861904": {
+   "fragment_id": "884806638",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Norma interpretativa",
+   "in_force_from": "2020-04-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2020-131193419), em vigor a partir de 2020-04-08"
+   ],
+   "markdown": "###### Artigo 15.º-A — Norma interpretativa\n\n1 - Do cálculo referido no artigo anterior não pode resultar para os militares em situação de reserva perceção de remuneração inferior à que resultaria da aplicação do n.º 1 do artigo 27.º do Decreto-Lei n.º 298/2009, de 14 de outubro.\n\n2 - O número anterior não prejudica o disposto no n.º 4 do artigo 10.º do presente decreto-lei.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2020 - Diário da República n.º 69/2020, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2020-131193419), em vigor a partir de 2020-04-08"
+  },
+  "884861905": {
+   "fragment_id": "69921335",
+   "type": 11,
+   "heading": "Artigo 16.º — Contagem de tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contagem de tempo de serviço\n\n1 - O tempo de serviço prestado na situação de reserva, na efectividade de serviço, é, no fim de cada ano, levado em conta para efeitos de melhoria da remuneração, até ao limite de 36 anos.\n\n2 - Não é contado, para efeitos de remuneração de reserva, o tempo em que o militar tiver permanecido nas situações de licença pelas quais não tenha direito, de acordo com as disposições estatutárias e regulamentares em vigor, ao abono de remuneração base.\n\n3 - Nas situações em que, nos termos estatutários e regulamentares, não haja lugar à contagem do tempo de serviço, este não é igualmente levado em conta para efeitos de cálculo de remuneração de reserva.\n\n4 - O tempo de permanência do militar na situação de reserva fora da efectividade de serviço releva para efeitos do cálculo da pensão de reforma, passando as quotizações ou contribuições para a Caixa Geral de Aposentações (CGA) ou para o regime geral de segurança social a incidir sobre a remuneração relevante para o cálculo da remuneração de reserva."
+  },
+  "884861906": {
+   "fragment_id": "69921336",
+   "type": 11,
+   "heading": "Artigo 17.º — Actualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Actualização\n\nA remuneração dos militares na situação de reserva é actualizada sempre que se verifiquem alterações das remunerações dos militares do mesmo posto e posição remuneratória do activo, em igual percentagem, com efeitos reportados à data da entrada em vigor das referidas actualizações."
+  },
+  "884861915": {
+   "fragment_id": "69921327",
+   "type": 11,
+   "heading": "Artigo 10.º — Suplemento de condição militar",
+   "in_force_from": "2023-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114-E/2023 - Diário da República n.º 236/2023, 1º Suplemento, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-e-2023-229857716), em vigor a partir de 2023-12-08, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Suplemento de condição militar\n\n1 - Com fundamento no regime especial de prestação de trabalho, na permanente disponibilidade e nos ónus e restrições específicos da condição militar, é atribuído aos militares um suplemento, designado por suplemento de condição militar.\n\n2 - O suplemento de condição militar é remunerado por inteiro e em prestação mensal única a todos os militares e é composto da seguinte forma:\n\na) Uma componente variável, fixada em 20 % sobre a remuneração base;\n\nb) Uma componente fixa, no valor de (euro) 100.\n\n3 - O suplemento de condição militar é considerado para efeitos do cálculo dos subsídios de férias e de Natal.\n\n4 - O suplemento de condição militar é igualmente considerado para efeitos do cálculo da remuneração de reserva e pensão de reforma, nos termos da alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114-E/2023 - Diário da República n.º 236/2023, 1º Suplemento, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-e-2023-229857716), em vigor a partir de 2023-12-08, produz efeitos a partir de 2023-01-01"
+  },
+  "884861916": {
+   "fragment_id": "69921357",
+   "type": 11,
+   "heading": "Artigo 34.º — Norma revogatória",
+   "in_force_from": "2023-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-E/2023 - Diário da República n.º 236/2023, 1º Suplemento, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-e-2023-229857716), em vigor a partir de 2023-12-08"
+   ],
+   "markdown": "###### Artigo 34.º — Norma revogatória\n\n1 - São revogadas todas as disposições que contrariem o disposto no presente decreto-lei, designadamente:\n\na) Decreto-Lei n.º 498-E/74, de 30 de Setembro;\n\nb) Decreto-Lei n.º 329-E/75, de 30 de Junho;\n\nc) Decreto-Lei n.º 543-A/80, de 10 de Novembro;\n\nd) Decreto-Lei n.º 57/81, de 31 de Março;\n\ne) Decreto-Lei n.º 330/83, de 12 de Julho;\n\nf) Decreto-Lei n.º 299/97, de 31 de Outubro;\n\ng) Portaria n.º 149/2003, de 13 de Fevereiro.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-E/2023 - Diário da República n.º 236/2023, 1º Suplemento, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-e-2023-229857716), em vigor a partir de 2023-12-08"
+  },
+  "884861907": {
+   "fragment_id": "69921359",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 7.º e o n.º 2 do artigo 32.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 84-F/2022 - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317), em vigor a partir de 2015-08-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 7.º e o n.º 2 do artigo 32.º)\n\nTabela remuneratória dos militares dos QP, em RC e RV\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 84-F/2022 - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317), em vigor a partir de 2015-08-01"
+  },
+  "884861908": {
+   "fragment_id": "69921360",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo n.º 2 do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 84-F/2022 - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 189.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo n.º 2 do artigo 7.º)\n\nTabela remuneratória dos aspirantes a oficial, aspirantes a oficial tirocinantes, cadetes dos estabelecimentos militares de ensino superior e alunos dos cursos de formação destinados aos QP e militares em instrução básica para ingresso em RV/RC\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 84-F/2022 - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 189.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "889282146": {
+   "fragment_id": "69921327",
+   "type": 11,
+   "heading": "Artigo 10.º — Suplemento de condição militar",
+   "in_force_from": "2024-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114-E/2023 - Diário da República n.º 236/2023, 1º Suplemento, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-e-2023-229857716), em vigor a partir de 2023-12-08, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Suplemento de condição militar\n\n1 - Com fundamento no regime especial de prestação de trabalho, na permanente disponibilidade e nos ónus e restrições específicos da condição militar, é atribuído aos militares um suplemento, designado por suplemento de condição militar.\n\n2 - O suplemento de condição militar é remunerado por inteiro e em prestação mensal única a todos os militares e é composto da seguinte forma:\n\na) Uma componente variável, fixada em 20 % sobre a remuneração base;\n\nb) Uma componente fixa, no valor de 400 EUR.\n\n3 - O suplemento de condição militar é considerado para efeitos do cálculo dos subsídios de férias e de Natal.\n\n4 - O suplemento de condição militar é igualmente considerado para efeitos do cálculo da remuneração de reserva e pensão de reforma, nos termos da alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114-E/2023 - Diário da República n.º 236/2023, 1º Suplemento, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-e-2023-229857716), em vigor a partir de 2023-12-08, produz efeitos a partir de 2023-01-01"
+  },
+  "889282147": {
+   "fragment_id": "889312168",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Suplemento de deteção e inativação de engenhos explosivos",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 10.º-A — Suplemento de deteção e inativação de engenhos explosivos\n\n1 - O suplemento de deteção e inativação de engenhos explosivos é um acréscimo remuneratório mensal atribuído aos militares habilitados com o curso de especialização adequado ao exercício das funções de deteção e inativação e engenhos explosivos.\n\n2 - O direito ao suplemento está dependente do exercício efetivo de tais funções em cargos previstos na estrutura orgânica dos ramos das Forças Armadas.\n\n3 - O valor mensal do suplemento é de 303,02 EUR.\n\n4 - O suplemento não é cumulável com outra prestação de idêntica natureza ou finalidade, independentemente da sua denominação.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2025-01-01"
+  },
+  "889282149": {
+   "fragment_id": "889312169",
+   "type": 11,
+   "heading": "Artigo 10.º-B — Suplemento para operador de câmara hiperbárica",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 10.º-B — Suplemento para operador de câmara hiperbárica\n\n1 - O suplemento para operador de câmara hiperbárica é um acréscimo remuneratório mensal atribuído aos militares habilitados com formação específica em fisiopatologia hiperbárica, que exercem funções na área da saúde e desenvolvem a sua atividade profissional em câmara de pressão hiperbárica.\n\n2 - O valor do suplemento é fixado no quantitativo mensal correspondente à percentagem de 21 % do vencimento base de Capitão arredondada para a centena de euros imediatamente superior e remunerado por inteiro, em prestação mensal única.\n\n3 - O tempo de serviço prestado como operador de câmaras de pressão pelos militares habilitados com formação específica é aumentado em 25 % para efeitos de cálculo da remuneração de reserva e de reforma.\n\n4 - A habilitação a que se refere o n.º 1 é conferida por entidade nacional ou estrangeira, desde que reconhecida pelo Centro de Medicina Subaquática e Hiperbárica da Marinha (CMSH).\n\n5 - Ao diretor do CMSH compete assegurar a manutenção e controlo da capacidade técnica dos operadores de câmara hiperbárica, a qual é avaliada pela verificação semestral das qualificações seguintes:\n\na) Experiência:\n\ni) 30 sessões terapêuticas a 2,5 Atmosferas;\n\nii) 2 testes de tolerância ao azoto a 6 Atmosferas;\n\niii) 2 testes de sensibilidade ao oxigénio a 1,8 Atmosferas;\n\nb) Conhecimentos nas seguintes áreas:\n\ni) Fisiopatologia hiperbárica;\n\nii) Operação de câmara;\n\niii) Situações de urgência na câmara;\n\niv) Conhecimento do funcionamento e manuseamento dos equipamentos médicos utilizados no interior da câmara hiperbárica;\n\nv) Manutenção da câmara e dos equipamentos médicos utilizados no interior da câmara hiperbárica;\n\nvi) Regras de segurança a observar em ambiente hiperbárico.\n\n6 - O abono da gratificação de operador de câmara hiperbárica processa-se com base na lista de militares a quem foi reconhecida a capacidade técnica e o desempenho de funções, elaborada pelo CMSH e aprovada pelo diretor de Saúde e publicada em Ordem de Serviço, e nos termos dos n.os 2 e 5 do presente artigo.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2025-01-01"
+  },
+  "889282150": {
+   "fragment_id": "69921328",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas de representação\n\n1 - O Chefe do Estado-Maior-General das Forças Armadas e os Chefes dos Estados-Maiores dos três ramos das Forças Armadas têm direito à atribuição de um abono mensal por despesas de representação de montante de (euro) 1808,23 e de (euro) 1754,16, respectivamente.\n\n2 - Os almirantes da Armada e marechais e os almirantes e generais na efectividade de serviço têm direito à atribuição de um abono mensal por despesas de representação de montante de (euro) 501,19.\n\n3 - Os oficiais titulares dos cargos previstos no anexo III ao presente decreto-lei, do qual faz parte integrante, têm direito à atribuição de um abono mensal por despesas de representação nos termos previstos para o pessoal dirigente dos serviços e organismos da administração central do Estado, por equiparação aos cargos de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau.\n\n4 - Os valores do abono por despesas de representação são anualmente actualizados na mesma percentagem em que o sejam para os correspondentes cargos de direcção da administração pública."
+  },
+  "884861917": {
+   "fragment_id": "69921357",
+   "type": 11,
+   "heading": "Artigo 34.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 31/2023 - Diário da República n.º 244/2023, Série I de 2023-12-20](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/31-2023-808125340), produz efeitos a partir de 2023-12-08",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-E/2023 - Diário da República n.º 236/2023, 1º Suplemento, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-e-2023-229857716), em vigor a partir de 2023-12-08"
+   ],
+   "markdown": "###### Artigo 34.º — Norma revogatória\n\n1 - São revogadas todas as disposições que contrariem o disposto no presente decreto-lei, designadamente:\n\na) Decreto-Lei n.º 498-E/74, de 30 de Setembro;\n\nb) Decreto-Lei n.º 329-E/75, de 30 de Junho;\n\nc) Decreto-Lei n.º 543-A/80, de 10 de Novembro;\n\nd) Decreto-Lei n.º 57/81, de 31 de Março;\n\ne) Decreto-Lei n.º 330/83, de 12 de Julho;\n\nf) Decreto-Lei n.º 299/97, de 31 de Outubro;\n\ng) Portaria n.º 149/2003, de 13 de Fevereiro.\n\n2 - Mantém-se em vigor, em tudo o que não contrarie o previsto no presente decreto-lei, o disposto no Decreto-Lei n.º 328/99, de 18 de Agosto, alterado pelos Decretos-Leis n.os 207/2002, de 17 de Outubro, e 50/2009, de 27 de Fevereiro.\n\n> Retificado pelo/a [Declaração de Retificação n.º 31/2023 - Diário da República n.º 244/2023, Série I de 2023-12-20](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/31-2023-808125340), produz efeitos a partir de 2023-12-08\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-E/2023 - Diário da República n.º 236/2023, 1º Suplemento, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-e-2023-229857716), em vigor a partir de 2023-12-08"
+  },
+  "889282145": {
+   "fragment_id": "69921359",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 7.º e o n.º 2 do artigo 32.º)",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2024-889313169), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 84-F/2022 - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317), em vigor a partir de 2015-08-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 7.º e o n.º 2 do artigo 32.º)\n\nTabela remuneratória dos militares dos QP, em RC e RV\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 64/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2024-889313169) O reposicionamento remuneratório no posto de Cabo/Cabo-de-Secção está previsto no artigo 3.º do Decreto-Lei n.º 64/2024, de 30 de setembro. O reposicionamento remuneratório no posto de Primeiro-Marinheiro/Cabo-Adjunto está previsto no artigo 4.º do Decreto-Lei n.º 64/2024, de 30 de setembro. O reposicionamento remuneratório no posto de Subsargento/Furriel está previsto no artigo 5.º do Decreto-Lei n.º 64/2024, de 30 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2024-889313169), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 84-F/2022 - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2015-69920317), em vigor a partir de 2015-08-01"
+  }
+ }
+}

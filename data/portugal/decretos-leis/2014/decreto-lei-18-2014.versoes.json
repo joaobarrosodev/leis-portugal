@@ -1,0 +1,534 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:570704:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-211928353",
+ "dre_path": "/dr/detalhe/decreto-lei/18-2014-570704",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-02-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "211974306",
+    "211974307",
+    "211974308",
+    "211974309",
+    "211974310",
+    "211974311",
+    "211974312",
+    "211974313",
+    "211974314",
+    "211974315",
+    "211974316",
+    "211974317",
+    "211974318",
+    "211974319",
+    "211974320",
+    "211974321",
+    "211974322",
+    "211974323",
+    "211974324",
+    "211974325",
+    "211974326",
+    "211974327",
+    "211974328",
+    "211974329",
+    "211974330",
+    "211974331",
+    "211974332",
+    "211974333",
+    "211974334",
+    "211974335",
+    "211974336",
+    "211974337",
+    "211974338",
+    "211974339",
+    "211974340",
+    "211974341",
+    "211974342",
+    "211974343",
+    "211974345",
+    "211974346"
+   ]
+  },
+  {
+   "date": "2015-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70686130:por",
+     "title": "Decreto-Lei n.º 236/2015",
+     "published": "2015-10-14",
+     "dre_path": "/dr/detalhe/decreto-lei/236-2015-70686130"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "211974306",
+    "211974307",
+    "211974308",
+    "211974309",
+    "211974310",
+    "211974311",
+    "211974312",
+    "211974313",
+    "211974314",
+    "211974315",
+    "211974316",
+    "211974317",
+    "211974318",
+    "211974319",
+    "211974320",
+    "211974321",
+    "211974322",
+    "211974323",
+    "211974324",
+    "211974325",
+    "211974326",
+    "211974327",
+    "211974328",
+    "211974329",
+    "211974330",
+    "211974331",
+    "211974332",
+    "211974333",
+    "211974373",
+    "211974335",
+    "211974336",
+    "211974337",
+    "211974338",
+    "211974339",
+    "211974340",
+    "211974341",
+    "211974342",
+    "211974343",
+    "211974344",
+    "211974345",
+    "211974346"
+   ]
+  },
+  {
+   "date": "2023-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213558633:por",
+     "title": "Decreto-Lei n.º 36/2023",
+     "published": "2023-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2023-213558633"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "211974306",
+    "211974307",
+    "211974308",
+    "211974309",
+    "211974310",
+    "211974311",
+    "213622563",
+    "211974313",
+    "211974314",
+    "211974315",
+    "211974316",
+    "211974317",
+    "211974318",
+    "211974319",
+    "211974320",
+    "211974321",
+    "211974322",
+    "211974323",
+    "213622564",
+    "211974325",
+    "211974326",
+    "211974327",
+    "211974328",
+    "211974329",
+    "211974330",
+    "211974331",
+    "211974332",
+    "211974333",
+    "211974373",
+    "211974335",
+    "211974336",
+    "211974337",
+    "211974338",
+    "211974339",
+    "211974340",
+    "211974341",
+    "211974342",
+    "211974343",
+    "211974344",
+    "211974345",
+    "211974346"
+   ]
+  }
+ ],
+ "fragments": {
+  "211974306": {
+   "fragment_id": "211928354",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 18/2014\n\nde 4 de fevereiro\n\nO Decreto-Lei n.º 86-A/2011, de 12 de julho, estabeleceu, designadamente, a estrutura e a orgânica do XIX Governo Constitucional e as competências dos respetivos membros, matérias que sofreram substanciais alterações com a entrada em vigor dos Decretos-Leis n.os 60/2013, de 9 de maio, e 119/2013, de 21 de agosto.\n\nDe entre as alterações que tiveram maior impacto na estrutura do Governo salienta-se, desde logo, a integração na Presidência do Conselho de Ministros do Instituto Financeiro para o Desenvolvimento Regional, I. P., e do Instituto de Gestão do Fundo Social Europeu, I. P., do Ministério da Economia e Emprego, do Observatório do Quadro de Referência Estratégico Nacional do Ministério das Finanças, organismos e estrutura que, através do Decreto-Lei n.º 140/2013, de 18 de outubro, foram fundidos na Agência para o Desenvolvimento e Coesão, I. P., e das Comissões de Coordenação e Desenvolvimento Regional do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.\n\nOutro aspeto relevante prende-se com a transição das áreas do emprego e da energia do Ministério da Economia e do Emprego, respetivamente, para o Ministério da Solidariedade, Emprego e Segurança Social e para o Ministério do Ambiente, Ordenamento do Território e Energia.\n\nFinalmente, o Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território foi cindido em dois departamentos governamentais distintos, o Ministério do Ambiente, Ordenamento do Território e Energia e o Ministério da Agricultura e do Mar.\n\nO presente decreto-lei procede à definição dos serviços, organismos, entidades e estruturas compreendidas no Ministério da Agricultura e do Mar, colocando um renovado enfoque no incremento dos sectores agrícola e agroalimentar, florestal e marítimo, na perspetiva de potenciar a sua valorização e desenvolvimento científico e económico sustentáveis.\n\nAssim:\n\nNos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 27.º, Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-a-2015-72909765) determina que a definição das orientações estratégicas para a Estrutura de Missão para a Extensão da Plataforma Continental compete à Ministra do Mar em coordenação com o Ministro da Defesa Nacional."
+  },
+  "211974307": {
+   "fragment_id": "211928355",
+   "type": 1,
+   "heading": "Capítulo I — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Missão e atribuições"
+  },
+  "211974308": {
+   "fragment_id": "211928356",
+   "type": 11,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\nO Ministério da Agricultura e do Mar, abreviadamente designado por MAM, é o departamento governamental que tem por missão a definição, coordenação e execução das políticas agrícola, agroalimentar, florestal, de desenvolvimento rural e de exploração e potenciação dos recursos do mar, bem como assegurar o planeamento e a coordenação da aplicação de fundos nacionais e comunitários nessas áreas."
+  },
+  "211974309": {
+   "fragment_id": "211928357",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNa prossecução da sua missão, são atribuições do MAM:\n\na) Conceber, desenvolver, coordenar e executar políticas nas áreas tuteladas, centradas na sustentabilidade ambiental, económica e social;\n\nb) Promover a competitividade e sustentabilidade dos sectores da agricultura e do mar, bem como a dinamização do meio rural, apoiando a modernização e reforço estrutural dos sectores, o empreendedorismo, a renovação das gerações e a internacionalização dos agentes económicos;\n\nc) Proteger, valorizar e a potenciar a utilização dos recursos terrestres e marinhos e o desenvolvimento do património natural, considerando as vertentes económica, ambiental, social e cultural;\n\nd) Desenvolver, dinamizar e apoiar a investigação científica e o desenvolvimento tecnológico numa perspetiva de inovação, de eficiência dos modos de produção e de qualidade e valorização dos produtos e incentivar a melhoria das infraestruturas, e da formação profissional e técnica dos agentes económicos e sociais;\n\ne) Assegurar o planeamento, a coordenação, a gestão e o controlo da aplicação dos instrumentos financeiros nacionais, comunitários e outros mecanismos de apoio internacional, garantindo a existência de sistemas de monitorização e avaliação, e promovendo a divulgação pública da informação sobre os indicadores do desenvolvimento das políticas nas áreas tuteladas;\n\nf) Desenvolver, implementar, manter atualizadas e avaliar as estratégias nacionais em todas as áreas tuteladas, designadamente a Estratégia Nacional para o Mar, a Estratégia Nacional para as Florestas e a Estratégia Nacional para a Investigação Agrária, Agroalimentar e Florestal;\n\ng) Coordenar e desenvolver, assegurando a sua articulação com outros sistemas de informação e comunicação nacionais e internacionais, os sistemas nacionais de informação de base geográfica necessários à prossecução das políticas da agricultura, florestas, desenvolvimento rural, produção agroalimentar e do mar;\n\nh) Impulsionar o desenvolvimento de um quadro legal simplificado para a prossecução das políticas tuteladas e garantir a adequada aplicação das leis e dos instrumentos administrativos, nomeadamente por via de auditorias de controlo e de ações de inspeção e fiscalização;\n\ni) Promover a representação e participação ativa do Estado português no âmbito de convenções e acordos internacionais e das políticas da União Europeia nas áreas tuteladas, sem prejuízo das atribuições do Ministério dos Negócios Estrangeiros (MNE);\n\nj) Acompanhar e desenvolver os instrumentos da política agrícola comum, da política comum de pescas e da política marítima integrada, com vista a garantir a sua adaptação às especificidades do território nacional;\n\nk) Assegurar a valorização, a proteção, a qualidade e a segurança da produção primária agroalimentar;\n\nl) Incentivar e facilitar a criação e a dinamização de mercados de proximidade e a transparência nas relações entre a produção, a transformação e a distribuição da cadeia alimentar;\n\nm) Desenvolver as políticas de ordenamento e gestão dos espaços marítimos sob soberania ou jurisdição portuguesa e garantir a sua execução e avaliação, promovendo a articulação com as políticas de ordenamento da orla costeira;\n\nn) Assegurar a recolha e difusão de informação e previsão do estado do tempo e do mar, em articulação com os organismos com atribuições nestas áreas, designadamente o Instituto Hidrográfico;\n\no) Desenvolver o quadro legal e regulamentar das atividades do sector marítimo-portuário nacional, em articulação com o departamento governamental responsável pelas áreas da economia e dos transportes, e a gestão dos portos de pesca e das marinas de recreio quando estas não estejam inseridas em portos comerciais;\n\np) Prosseguir os trabalhos de suporte à submissão de Portugal junto da Organização das Nações Unidas para a determinação do limite exterior da plataforma continental, até à conclusão do referido processo, no âmbito da Estrutura de Missão para a Extensão da Plataforma Continental, em articulação com o MNE;\n\nq) Planear e gerir, de forma integrada os recursos hídricos de regadio, incentivando o uso racional da água no reforço da produção nacional e da economia do espaço rural, contribuindo para o desenvolvimento sustentável e o combate à desertificação."
+  },
+  "211974310": {
+   "fragment_id": "211928358",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "211974311": {
+   "fragment_id": "211928359",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\nO MAM prossegue as suas atribuições através de serviços integrados na administração direta do Estado, de organismos integrados na administração indireta do Estado, de órgãos consultivos, e ainda através de outras estruturas e de entidades integradas no sector empresarial do Estado."
+  },
+  "211974312": {
+   "fragment_id": "211928360",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração direta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Administração direta do Estado\n\n1 - Integram a administração direta do Estado, no âmbito do MAM, os seguintes serviços centrais:\n\na) O Gabinete de Planeamento, Políticas e Administração Geral;\n\nb) A Direção-Geral de Alimentação e Veterinária;\n\nc) A Direção-Geral de Agricultura e Desenvolvimento Rural;\n\nd) A Direção-Geral de Política do Mar;\n\ne) A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos.\n\n2 - Integram também a administração direta do Estado, no âmbito do MAM, os seguintes serviços periféricos com atribuições nas áreas da agricultura, do mar e das florestas:\n\na) A Direção Regional de Agricultura e Pescas do Norte;\n\nb) A Direção Regional de Agricultura e Pescas do Centro;\n\nc) A Direção Regional de Agricultura e Pescas de Lisboa e Vale do Tejo;\n\nd) A Direção Regional de Agricultura e Pescas do Alentejo;\n\ne) A Direção Regional de Agricultura e Pescas do Algarve."
+  },
+  "211974313": {
+   "fragment_id": "211928361",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indireta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administração indireta do Estado\n\n1 - Prosseguem atribuições do MAM, sob superintendência e tutela do respetivo membro do Governo, os seguintes organismos:\n\na) O Instituto de Financiamento da Agricultura e Pescas, I. P.;\n\nb) O Instituto da Conservação da Natureza e das Florestas, I. P.;\n\nc) O Instituto da Vinha e do Vinho, I. P.;\n\nd) O Instituto dos Vinhos do Douro e do Porto, I. P.;\n\ne) O Instituto Nacional de Investigação Agrária e Veterinária, I. P.;\n\nf) O Instituto Português do Mar e da Atmosfera, I. P.\n\n2 - A superintendência e tutela relativas ao Instituto de Financiamento da Agricultura e Pescas, I. P., quanto à sua gestão financeira, são exercidas em conjunto pelos membros do Governo responsáveis pelas áreas da agricultura e pescas e das finanças.\n\n3 - A superintendência e tutela relativas ao Instituto da Conservação da Natureza e das Florestas, I. P., são exercidas em conjunto com o membro do Governo responsável pela área da conservação da natureza, nos termos dos n.os 3 a 5 do artigo 15.º"
+  },
+  "211974314": {
+   "fragment_id": "211928362",
+   "type": 11,
+   "heading": "Artigo 6.º — Sector empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sector empresarial do Estado\n\nSem prejuízo dos poderes conferidos por lei ao Conselho de Ministros ou ao membro do Governo responsável pela área das finanças, compete ao membro do Governo responsável pelas áreas da agricultura e mar participar no exercício da função acionista do Estado e exercer as competências legalmente atribuídas ao ministério sectorial, a respeito das empresas do sector empresarial do Estado nas áreas da agricultura, das florestas e do mar."
+  },
+  "211974315": {
+   "fragment_id": "211928363",
+   "type": 11,
+   "heading": "Artigo 7.º — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outras estruturas\n\nFuncionam no âmbito do MAM:\n\na) Comissão Técnica do Registo Internacional de Navios da Madeira;\n\nb) Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica."
+  },
+  "211974316": {
+   "fragment_id": "211928364",
+   "type": 1,
+   "heading": "Capítulo III — Serviços e organismos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Serviços e organismos"
+  },
+  "211974317": {
+   "fragment_id": "211928365",
+   "type": 8,
+   "heading": "Secção I — Serviços centrais da administração direta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços centrais da administração direta do Estado"
+  },
+  "211974318": {
+   "fragment_id": "211928366",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete de Planeamento, Políticas e Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete de Planeamento, Políticas e Administração Geral\n\n1 - O Gabinete de Planeamento, Políticas e Administração Geral, abreviadamente designado por GPP, tem por missão apoiar a definição das linhas estratégicas, das prioridades e dos objetivos das políticas do MAM e coordenar, acompanhar e avaliar a sua aplicação, bem como assegurar a sua representação no âmbito comunitário e internacional e prestar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MAM e aos demais órgãos e serviços nele integrados.\n\n2 - O GPP prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar a ação do MAM nas áreas tuteladas, promovendo a integração das propostas dos organismos com competências nestes domínios para a definição dos objetivos e da estratégia para a formulação das políticas e das medidas que as sustentam e, na área da agricultura, propor a definição desses objetivos e estratégia;\n\nb) Coordenar a atividade do MAM de âmbito comunitário e internacional, promovendo a concertação das intervenções e a sua articulação com o MNE, bem como assegurar a respetiva representação junto das instâncias nacionais, comunitárias e internacionais nos domínios relativos às suas atribuições e propor e coordenar ações de cooperação;\n\nc) Assegurar a coordenação e a preparação, em colaboração com outros serviços do MAM e com organismos de outros ministérios, dos contributos para as Grandes Opções do Plano e a coordenação da programação no âmbito das intervenções estruturais comunitárias e nacionais;\n\nd) Coordenar o sistema de planeamento do MAM, no âmbito do subsistema de avaliação do desempenho dos serviços da Administração Pública (SIADAP 1), através da articulação entre todos os serviços do ministério;\n\ne) Acompanhar o desenvolvimento das políticas e dos programas e avaliar os seus efeitos, nomeadamente na área da agricultura, mediante a utilização dos objetivos e indicadores definidos e elaborar estudos de âmbito nacional, sectorial e regional, bem como divulgar os programas e medidas de política, a informação estatística e os resultados dos estudos e da avaliação das medidas, zelando pela coerência dos indicadores fornecidos por todos os organismos e serviços do MAM;\n\nf) Assegurar a coordenação da produção de informação estatística no âmbito do MAM, no quadro do sistema estatístico nacional, bem como assegurar nestes domínios, quando não seja competência própria de outra entidade, as relações do MAM com as estruturas nacionais e comunitárias;\n\ng) Exercer as funções de entidade coordenadora do programa orçamental do MAM e acompanhar e avaliar a sua execução em articulação com os serviços e outras entidades com competência neste domínio;\n\nh) Contribuir para a definição das regras da Política Agrícola Comum, nomeadamente no âmbito das ajudas diretas e da organização comum dos mercados agrícolas e na conceção dos programas de desenvolvimento rural;\n\ni) Apoiar a coordenação da produção legislativa nas áreas tuteladas pelo MAM, participar, em articulação com os serviços competentes, na regulamentação das políticas comunitárias e propor as condições da sua aplicação;\n\nj) Apoiar a gestão dos processos de pré-contencioso e contencioso comunitário e a transposição e aplicação de legislação comunitária na área das suas atribuições;\n\nk) Apoiar a definição das regras da política de valorização da qualidade dos produtos agrícolas, acompanhar as medidas nacionais e comunitárias no âmbito da regulação económica no sector agrícola e alimentar e assegurar a coordenação de medidas de internacionalização dos sectores agroalimentar e florestal, e de incentivo e promoção da agricultura nacional, em articulação com os serviços competentes em razão da matéria;\n\nl) Apoiar administrativa, técnica, jurídica e contenciosamente os gabinetes dos membros do Governo integrados no MAM, bem como os órgãos, os serviços, as comissões e os grupos de trabalho do ministério que não disponham de meios apropriados e assegurar o normal funcionamento do MAM nas áreas que não sejam da competência específica de outros órgãos ou serviços;\n\nm) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MAM na respetiva implementação;\n\nn) Emitir pareceres e dar orientações aos serviços em matérias de interesse comum, em especial em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal dos órgãos e serviços do MAM;\n\no) Acompanhar a aplicação dos subsistemas de avaliação do desempenho dos dirigentes e dos trabalhadores da Administração Pública, no âmbito dos órgãos ou serviços do MAM;\n\np) Programar e coordenar, de forma permanente e sistemática, a formação profissional, a inovação, as tecnologias de informação e comunicação, bem como a modernização administrativa e a política de qualidade, no âmbito do MAM, sem prejuízo das atribuições cometidas por lei a outros serviços, e assegurar a articulação com os organismos com competências interministeriais nestas áreas;\n\nq) Coordenar as ações referentes à organização, comunicação e preservação do património arquivístico do MAM, procedendo à recolha e tratamento dos suportes documentais, bem como à conservação do arquivo histórico, promovendo boas práticas de gestão documental nos órgãos e serviços do MAM;\n\nr) Assegurar as atividades do MAM no âmbito da comunicação e das relações públicas;\n\ns) Assegurar as funções de unidade ministerial de compras, as funções de unidade de gestão patrimonial, bem como a gestão do edifício sede do MAM e outras instalações que lhe estejam afetas.\n\n3 - O GPP é dirigido por um diretor-geral, coadjuvado por três subdiretores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "211974319": {
+   "fragment_id": "211928367",
+   "type": 11,
+   "heading": "Artigo 9.º — Direção-Geral de Alimentação e Veterinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direção-Geral de Alimentação e Veterinária\n\n1 - A Direção-Geral de Alimentação e Veterinária, abreviadamente designada por DGAV, tem por missão a definição, execução e avaliação das políticas de segurança alimentar, de proteção animal e de sanidade animal, proteção vegetal e fitossanidade, sendo investida nas funções de autoridade sanitária veterinária e fitossanitária nacional, de autoridade nacional para os medicamentos veterinários e de autoridade responsável pela gestão do sistema de segurança alimentar.\n\n2 - A DGAV prossegue, designadamente, as seguintes atribuições:\n\na) Participar na definição e aplicação das políticas públicas referidas no número anterior e na elaboração e execução de políticas de saúde pública veterinária e de produção animal;\n\nb) Assegurar a representação junto das instâncias nacionais, comunitárias e internacionais nos domínios relativos às suas atribuições, bem como a coordenação do Sistema de Alerta Rápido, das missões do serviço alimentar e veterinário da Comissão Europeia, e dos grupos do Codex Alimentarius;\n\nc) Proceder à validação e ao pagamento decorrente do financiamento da aplicação das medidas definidas a nível nacional e comunitário no âmbito do sistema de segurança alimentar, proteção e sanidade animal, proteção vegetal e fitossanidade, no âmbito das competências próprias;\n\nd) Coordenar a elaboração do plano nacional de controlo plurianual integrado, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem-estar dos animais;\n\ne) Definir e coordenar as estratégias de promoção da segurança dos géneros alimentícios, de alimentos para animais e materiais em contacto com géneros alimentícios, em articulação com a Autoridade de Segurança Alimentar e Económica, bem como da fitossanidade e proteção e sanidade dos animais;\n\nf) Elaborar, coordenar e avaliar a execução dos planos de controlo oficial relativos à produção e transformação dos géneros alimentícios, das respetivas matérias-primas, ingredientes e aditivos, dos materiais em contacto com géneros alimentícios e dos subprodutos de origem animal e dos alimentos para animais;\n\ng) Elaborar, coordenar e avaliar a execução dos planos de controlo oficial no âmbito da fitossanidade e dos resíduos de pesticidas, bem como os planos de controlo oficial relativos à proteção e sanidade animal, incluindo as ações de inspeção hígio-sanitária dos produtos de origem animal e a implementação de programas de prevenção e luta relativamente a epizootias ou doenças de carácter zoonótico;\n\nh) Coordenar e auditar a execução dos diversos planos de controlo oficial pelas direções regionais de agricultura e pescas no âmbito das suas competências;\n\ni) Coordenar e regulamentar as atividades técnicas relativas ao controlo e certificação de materiais de multiplicação de plantas, incluindo o cultivo de variedades vegetais geneticamente modificadas;\n\nj) Assegurar a elaboração dos Catálogos Nacionais de Variedades (CNV) de espécies hortícolas, agrícolas, de videira e de fruteiras, e a articulação com os Catálogos Comuns da União Europeia e com a Lista de Variedades Admitidas à Certificação da Organização para a Cooperação e Desenvolvimento Económico (OCDE);\n\nk) Proceder à autorização, controlo e inspeção do fabrico, da comercialização e da utilização dos medicamentos veterinários, biocidas de uso veterinário, alimentos medicamentosos para animais e produtos fitofarmacêuticos;\n\nl) Definir, coordenar e avaliar as ações relativas à certificação para exportação e controlos à importação no âmbito das suas atribuições;\n\nm) Assegurar a coordenação da informação relativa aos registos de operadores do sector alimentar, no âmbito do Sistema da Indústria Responsável, enquanto autoridade responsável pela gestão do sistema de segurança alimentar;\n\nn) Coordenar o funcionamento do sistema nacional de informação e registo animal;\n\no) Assegurar a proteção e a valorização dos recursos genéticos animais terrestres e vegetais, designadamente através da coordenação da execução e de ações que visem a defesa, a gestão, o melhoramento e a conservação do património genético nacional, em articulação com o Instituto Nacional de Investigação Agrária e Veterinária, I. P.;\n\np) Assegurar a regulamentação nacional das normas de comercialização dos produtos agroalimentares, articulando a representação a nível comunitário com outras entidades;\n\nq) Definir e colaborar na formação nas suas áreas de competências.\n\n3 - A DGAV é dirigida por um diretor-geral, coadjuvado por dois subdiretores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "211974320": {
+   "fragment_id": "211928368",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção-Geral de Agricultura e Desenvolvimento Rural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direção-Geral de Agricultura e Desenvolvimento Rural\n\n1 - A Direção-Geral de Agricultura e Desenvolvimento Rural, abreviadamente designada por DGADR, tem por missão contribuir para a execução das políticas nos domínios da regulação da atividade das explorações agrícolas, dos recursos genéticos agrícolas, da qualificação dos agentes rurais e diversificação económica das zonas rurais, da gestão sustentável do território e do regadio, sendo o serviço investido nas funções de autoridade nacional do regadio.\n\n2 - A DGADR prossegue, designadamente, as seguintes atribuições:\n\na) Contribuir para a formulação da estratégia, das prioridades e objetivos e participar na elaboração de planos, programas e projetos, nas áreas da sua missão;\n\nb) Promover o desenvolvimento económico e social das zonas rurais, designadamente através da associação e qualificação dos agentes rurais, valorização e diversificação económica dos territórios, bem como da viabilização das explorações agrícolas e da dinamização de uma política de sustentabilidade dos recursos naturais, de estruturação fundiária, de proteção e valorização do solo de uso agrícola e do desenvolvimento dos aproveitamentos hidroagrícolas;\n\nc) Representar o MAM em matérias relacionadas com a utilização da água na agricultura, participando na elaboração da política nacional da água e elaborando, coordenando, acompanhando e avaliando a execução do Plano Nacional dos Regadios;\n\nd) Criar e manter atualizado um sistema de informação sobre o regadio e sobre as infraestruturas que o sustentam;\n\ne) Promover a valorização e utilização dos recursos genéticos vegetais nacionais de espécies agrícolas, nomeadamente das variedades tradicionais inscritas no CNV como variedades de conservação, através da utilização nos modos de produção sustentáveis ou em regimes de qualidade e de diferenciação de produtos agrícolas e géneros alimentícios, com vista à obtenção de dimensão económica e à valorização dos territórios rurais;\n\nf) Coordenar as atividades técnicas inerentes à implementação de práticas e modos de produção sustentáveis;\n\ng) Definir as regras para o licenciamento das explorações pecuárias, considerando, designadamente, a vertente ambiental, e promover os respetivos sistemas de informação, em articulação com outras entidades.\n\n3 - Junto da DGADR funcionam a Entidade Nacional da Reserva Agrícola Nacional e a Comissão de Acompanhamento do Licenciamento das Explorações Pecuárias (CALEP).\n\n4 - A DGADR é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "211974321": {
+   "fragment_id": "211928369",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção-Geral de Política do Mar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direção-Geral de Política do Mar\n\n1 - A Direção-Geral de Política do Mar, abreviadamente designada por DGPM, tem por missão desenvolver, avaliar e atualizar a Estratégia Nacional para o Mar, elaborar e propor a política nacional do mar nas suas diversas vertentes, planear e ordenar o espaço marítimo nos seus diferentes usos e atividades, acompanhar e participar no desenvolvimento da Política Marítima Integrada da União Europeia e promover a cooperação nacional e internacional no âmbito do mar.\n\n2 - A DGPM prossegue, designadamente, as seguintes atribuições:\n\na) Desempenhar as funções executivas de apoio à Comissão Interministerial para os Assuntos do Mar necessárias à coordenação, ao acompanhamento, à atualização e à avaliação da implementação da Estratégia Nacional para o Mar e das medidas e políticas transversais relacionadas com os assuntos do mar aprovadas pelo Governo;\n\nb) Participar no desenvolvimento da política nacional para os portos, transportes marítimos, navegabilidade e para a segurança marítima e portuária;\n\nc) Dar apoio no desenvolvimento e coordenar a execução da política de ensino e formação no âmbito do sector das pescas, da náutica, dos portos e do transporte marítimo e do conhecimento, investigação e desenvolvimento do mar;\n\nd) Coordenar a conceção, o desenvolvimento, a implementação e integração dos serviços de informação e comunicação do MAM na área do mar, nomeadamente, controlo de tráfego marítimo e de monitorização do ambiente marinho e da atmosfera, e a integração destes com outros sistemas de informação e comunicação nacionais e internacionais;\n\ne) Desenvolver e coordenar as ações necessárias a um adequado planeamento e ordenamento do espaço marítimo;\n\nf) Participar no desenvolvimento das políticas para a exploração e utilização dos recursos naturais marinhos;\n\ng) Acompanhar a execução da Política Marítima Integrada da União Europeia e de outras ações de cooperação bilateral e multilateral, relacionadas com o mar e coordenar a representação nacional nos fora internacionais relacionados com o mar, que não constitua competência própria de outros órgãos, em articulação com o MNE;\n\nh) Acompanhar os trabalhos e promover a execução das obrigações decorrentes do Acordo de Cooperação para a Proteção das Costas e das Águas do Atlântico Nordeste.\n\n3 - A DGPM é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "211974322": {
+   "fragment_id": "211928370",
+   "type": 11,
+   "heading": "Artigo 12.º — Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos\n\n1 - A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, abreviadamente designada por DGRM, tem por missão a execução das políticas de preservação e conhecimento dos recursos naturais marinhos, a execução das políticas de pesca, da aquicultura, da indústria transformadora e atividades conexas, do desenvolvimento da segurança e dos serviços marítimos, incluindo o sector marítimo-portuário, bem como garantir a regulamentação, a inspeção, a fiscalização, a coordenação e o controlo das atividades desenvolvidas no âmbito daquelas políticas.\n\n2 - A DGRM prossegue, designadamente, as seguintes atribuições:\n\na) Assegurar, através de métodos de gestão e ordenamento, o quadro de conhecimento dos recursos naturais marinhos disponíveis nas áreas sob soberania ou jurisdição nacional, relativamente à sua inventariação, utilização e ordenamento do espaço;\n\nb) Acompanhar a atribuição e execução dos fundos nacionais e comunitários a favor dos recursos naturais marinhos, da segurança e dos serviços marítimos;\n\nc) Contribuir para a definição da política comum de pescas e participar na definição e aplicação da política nacional das pescas, nas vertentes interna, comunitária e de cooperação internacional, e garantir a sua execução, controlo e fiscalização;\n\nd) Gerir o sistema de informação das pescas, nas suas diversas componentes de cobertura, nacional e regional, e na ligação aos órgãos nacionais e internacionais competentes no domínio da pesca, assim como o sistema estatístico pesqueiro, no quadro do sistema estatístico nacional;\n\ne) Assegurar a certificação da formação profissional no sector das pescas e do transporte marítimo;\n\nf) Propor, em articulação com a Autoridade Nacional para a Conservação da Natureza e Biodiversidade, a criação de áreas marinhas protegidas, assegurar a gestão das de interesse nacional e colaborar na gestão das que são de âmbito regional ou local, nomeadamente através da elaboração, avaliação e revisão de planos de ordenamento respetivos;\n\ng) Licenciar e fiscalizar a utilização das áreas marinhas protegidas, em articulação com a Autoridade Nacional para a Conservação da Natureza e Biodiversidade, participar na definição e promoção das estratégias de proteção destas áreas, coordenando a participação nacional no âmbito da Convenção para a Proteção do Meio Marinho do Atlântico Nordeste (OSPAR);\n\nh) Operar os serviços de controlo de tráfego marítimo, coordenando o desenvolvimento dos respetivos sistemas de apoio;\n\ni) Regulamentar a atividade das entidades que atuam no sector marítimo-portuário, no âmbito das suas atribuições, designadamente aprovando normas administrativas de regulamentação do sector, em articulação com o departamento governamental responsável pelas áreas da economia e dos transportes;\n\nj) Assegurar, no âmbito das suas competências, a representação do Estado Português nos organismos internacionais do sector marítimo-portuário;\n\nk) Participar no processo de planeamento, ordenamento e gestão do espaço marítimo nacional e das zonas costeiras, atribuir os títulos de utilização do espaço marítimo nacional e licenciar as atividades a levar a efeito neste espaço no âmbito das suas competências respeitantes ao planeamento, ordenamento e gestão do espaço marítimo nacional e sem prejuízo das competências de outras entidades;\n\nl) Assegurar a certificação dos navios e dos marítimos nacionais;\n\nm) Exercer as funções que lhe estão cometidas no âmbito da segurança marítima e portuária e da prevenção da poluição dos navios;\n\nn) Instruir procedimentos contraordenacionais no âmbito das suas atribuições e competências e exercer os poderes sancionatórios que lhe são atribuídos pela lei;\n\no) Exercer funções de Autoridade Nacional da Pesca, de Autoridade Nacional de Imersão de Resíduos, de Autoridade Nacional de Controlo de Tráfego Marítimo e de Autoridade Competente para a Proteção do Transporte Marítimo e dos Portos.\n\n3 - O Fundo de Compensação Salarial dos Profissionais da Pesca funciona junto da DGRM, regendo-se por legislação própria.\n\n4 - A DGRM é dirigida por um diretor-geral, coadjuvado por dois subdiretores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "211974323": {
+   "fragment_id": "211928371",
+   "type": 8,
+   "heading": "Secção II — Serviços periféricos da administração direta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços periféricos da administração direta do Estado"
+  },
+  "211974324": {
+   "fragment_id": "211928372",
+   "type": 11,
+   "heading": "Artigo 13.º — Direções regionais de agricultura e pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direções regionais de agricultura e pescas\n\n1 - As direções regionais de agricultura e pescas, abreviadamente designadas por DRAP, têm por missão participar na formulação e execução das políticas nas áreas da agricultura, do desenvolvimento rural e das pescas, bem como colaborar na execução das políticas nas áreas das florestas, da segurança alimentar e da sanidade vegetal, em articulação com os organismos e serviços centrais competentes no quadro da eficiência da gestão local de recursos.\n\n2 - As DRAP prosseguem, no âmbito das circunscrições territoriais respetivas, as seguintes atribuições:\n\na) Executar, na respetiva região, as medidas de política agrícola, de desenvolvimento rural e de pescas, de acordo com as normas e orientações estabelecidas pelos serviços centrais do MAM, contribuindo para o acompanhamento e avaliação das mesmas;\n\nb) Realizar o levantamento das características e das necessidades dos subsectores agrícola, agroindustrial e pescas e dos territórios rurais na respetiva região, no quadro do sistema estatístico nacional;\n\nc) Executar, de acordo com as normas funcionais definidas pelos serviços e organismos centrais, as ações necessárias à receção, análise, aprovação, acompanhamento e validação dos projetos de investimento apoiados por fundos públicos, bem como promover a tramitação relativa à receção, análise e validação conducente ao pagamento dos respetivos apoios;\n\nd) Incentivar ações e projetos de intervenção no espaço rural e de programas ou planos integrados de desenvolvimento rural e apoiar os agricultores e as suas associações, bem como as populações rurais, no âmbito das atribuições que prosseguem;\n\ne) Colaborar na execução as ações enquadradas nos planos oficiais de controlo no âmbito da segurança alimentar e da sanidade vegetal, de acordo com as orientações funcionais emitidas pelos serviços e organismos centrais competentes em razão da matéria;\n\nf) Executar as ações enquadradas nos planos oficiais de controlo relativos aos regimes de apoio no âmbito da política agrícola comum, de acordo com as orientações funcionais emitidas pelos serviços e organismos centrais competentes em razão da matéria;\n\ng) Coordenar o processo de licenciamento no âmbito do regime económico da atividade pecuária, de acordo com as orientações funcionais emitidas pelos serviços e organismos centrais competentes em razão da matéria;\n\nh) Coordenar os procedimentos aplicáveis aos estabelecimentos industriais que lhes estejam cometidos ao abrigo do Sistema da Indústria Responsável, de acordo com as orientações funcionais emitidas pela autoridade responsável pela gestão do sistema de segurança alimentar;\n\ni) Colaborar na execução das ações enquadradas nas políticas de ordenamento florestal, do regime florestal, das fileiras florestais, políticas cinegéticas, aquícolas das águas interiores e as relativas a outros produtos ou recursos da floresta, bem como acompanhar e controlar os programas ou planos de gestão e proteção da floresta, de acordo com as orientações funcionais emitidas pelos serviços e organismos centrais competentes em razão da matéria.\n\n3 - Junto de cada direção regional funciona a respetiva entidade regional da Reserva Agrícola Nacional.\n\n4 - Cada uma das DRAP é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n5 - Os diretores regionais são coadjuvados por diretores regionais-adjuntos, cargos de direção superior de 2.º grau, num total de sete, distribuídos pelas DRAP nos termos da orgânica de cada serviço."
+  },
+  "211974325": {
+   "fragment_id": "211928373",
+   "type": 8,
+   "heading": "Secção III — Organismos da administração indireta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Organismos da administração indireta do Estado"
+  },
+  "211974326": {
+   "fragment_id": "211928374",
+   "type": 11,
+   "heading": "Artigo 14.º — Instituto de Financiamento da Agricultura e Pescas, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instituto de Financiamento da Agricultura e Pescas, I. P.\n\n1 - O Instituto de Financiamento da Agricultura e Pescas, I. P., abreviadamente designado por IFAP, I. P., tem por missão proceder à validação e ao pagamento decorrente do financiamento da aplicação das medidas definidas a nível nacional e comunitário, no âmbito da agricultura, desenvolvimento rural, pescas e sectores conexos, bem como propor as políticas e estratégias de tecnologias de informação e comunicação no âmbito da agricultura e pescas.\n\n2 - O IFAP, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Garantir o funcionamento dos sistemas de apoio e de ajudas diretas nacionais e comunitárias e a aplicação, a nível nacional, das regras comuns para os regimes de apoio direto no âmbito da política agrícola comum;\n\nb) Executar a política estratégica na área das tecnologias de informação e comunicação, assegurando a construção, gestão e operação das infraestruturas na respetiva área de atuação, articulando e partilhando informação com outras entidades e organismos;\n\nc) Apoiar o desenvolvimento da agricultura e das pescas, bem como do sector agroalimentar, através de sistemas de financiamento direto e indireto.\n\n3 - O IFAP, I. P., é dirigido por um conselho diretivo, constituído por um presidente, um vice -presidente e dois vogais."
+  },
+  "211974327": {
+   "fragment_id": "211978575",
+   "type": 11,
+   "heading": "Artigo 15.º — Instituto da Conservação da Natureza e das Florestas, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instituto da Conservação da Natureza e das Florestas, I. P.\n\n1 - O Instituto da Conservação da Natureza e das Florestas, I. P., abreviadamente designado por ICNF, I. P., tem por missão propor, acompanhar e assegurar a execução das políticas de conservação da natureza e das florestas, visando a conservação, a utilização sustentável, a valorização, a fruição e o reconhecimento público do património natural, promovendo o desenvolvimento sustentável dos espaços florestais e dos recursos associados, fomentar a competitividade das fileiras florestais, assegurar a prevenção estrutural no quadro do planeamento e atuação concertadas no domínio da defesa da floresta e dos recursos cinegéticos e aquícolas das águas interiores e outros diretamente associados à floresta e às atividades silvícolas.\n\n2 - O ICNF, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Desempenhar funções de autoridade florestal nacional;\n\nb) Desempenhar funções de autoridade nacional para a conservação da natureza e a biodiversidade;\n\nc) Assegurar a conservação da natureza e a gestão sustentável de espécies, habitats naturais da flora e da fauna selvagens e de goesitos, promovendo a elaboração e implementação de planos, programas e ações, nomeadamente nos domínios da inventariação, da gestão, da monitorização, da fiscalização e dos sistemas de informação;\n\nd) Apoiar a formulação e promover a aplicação de políticas para as florestas e fileiras florestais, de políticas cinegéticas, apícolas, aquícolas das águas interiores e as relativas a outros produtos e recursos da floresta, coordenar as respetivas ações de desenvolvimento, nomeadamente nos domínios da inventariação, da gestão, da monitorização, da fiscalização e dos sistemas de informação, bem como promover a execução de estudos de carácter técnico-científico relacionados com a gestão de habitats e da fauna cinegética e aquícola, e o desenvolvimento sustentável e integrado do sector e das suas indústrias, sem prejuízo das competências de outras entidades;\n\ne) Coordenar a gestão do património florestal do Estado, formular e promover a aplicação das políticas para a gestão das áreas comunitárias, regular a gestão dos espaços florestais privados, promover a constituição e o acompanhamento das zonas de intervenção florestal, apoiar o associativismo e os modelos de gestão sustentável em áreas privadas e gerir o património edificado;\n\nf) Promover a elaboração, avaliação e revisão de planos de ordenamento e de gestão da rede nacional de áreas protegidas, em articulação com a DGRM nos casos de áreas marinhas protegidas, e assegurar, em articulação com a Agência Portuguesa do Ambiente, I. P., o desenvolvimento dos instrumentos de gestão das restantes áreas classificadas, designadamente da Rede Natura 2000;\n\ng) Assegurar a gestão da Rede Nacional de Áreas Protegidas e a implementação da Rede Natura 2000, em articulação com a DGRM, nos casos de áreas marinhas protegidas;\n\nh) Propor a criação de áreas classificadas, terrestres e marinhas, estas últimas em articulação com a DGRM, e assegurar a gestão das que são de interesse nacional e, quando relevante, colaborar na gestão das que são de âmbito regional ou local;\n\ni) Promover a articulação e a integração dos objetivos de conservação e de utilização sustentável dos recursos naturais na política de ordenamento do território e nas diferentes políticas sectoriais, visando a valorização económica e social do património natural como fator estruturante de diferentes sectores da atividade económica, nomeadamente no que se refere ao turismo da natureza;\n\nj) Promover a implementação da Estratégia Nacional da Conservação da Natureza e da Biodiversidade;\n\nk) Promover a implementação da Estratégia Nacional para as Florestas;\n\nl) Promover e coordenar os planos de intervenção que visem a redução de impactes e a eliminação de efeitos promovidos por agentes bióticos e concretizar as políticas de defesa da floresta contra incêndios, implementando um dispositivo de prevenção estrutural;\n\nm) Propor a regulamentação do acesso aos recursos genéticos selvagens e da partilha dos benefícios decorrentes da sua utilização e promover a aplicação do regime jurídico-administrativo daí decorrente, em articulação com outras entidades competentes nesta matéria;\n\nn) Promover e desenvolver a informação, visitação e sensibilização das populações, dos agentes e das organizações na área da conservação da natureza e da biodiversidade, com vista a criar uma consciência coletiva da importância dos valores naturais;\n\no) Assegurar, em cooperação com as entidades competentes, o acompanhamento das questões, a transposição e o cumprimento do direito internacional e comunitário nas matérias da sua competência.\n\n3 - Compete ao membro do Governo responsável pela área da conservação da natureza o exercício dos poderes de superintendência e tutela do ICNF, I. P., relativos às matérias da conservação da natureza e da biodiversidade, designadamente, no âmbito das matérias a que se referem as alíneas b), c), f), g), h), j), m) e n) do número anterior, bem como das matérias constantes das alíneas i) e o), do mesmo número, na parte relativa à conservação da natureza e biodiversidade e, ainda, dirigir e acompanhar a execução do Fundo de Conservação da Natureza e Biodiversidade.\n\n4 - São decididas em conjunto pelo membro do Governo responsável pela área das florestas e pelo membro do Governo responsável pela área da conservação da natureza:\n\na) A seleção e designação dos titulares dos cargos de direção superior;\n\nb) A aprovação do plano de atividades;\n\nc) O estabelecimento da carta de missão e do quadro de avaliação e responsabilização (QUAR), bem como a avaliação da sua execução.\n\n5 - Compete ao membro do Governo responsável pela área das florestas o exercício de todos os poderes de tutela e superintendência não previstos nos n.os 3 e 4, sem prejuízo da articulação com o membro do Governo responsável pela área da conservação da natureza no que respeita à aprovação do orçamento.\n\n6 - O Fundo de Conservação da Natureza e Biodiversidade e o Fundo Florestal Permanente funcionam junto do ICNF, I. P., regendo-se por legislação própria.\n\n7 - Funciona ainda junto do ICNF, I. P., o Conselho Florestal Nacional.\n\n8 - O ICNF, I. P., é dirigido por um conselho diretivo, constituído por um presidente, um vice-presidente e dois vogais."
+  },
+  "211974328": {
+   "fragment_id": "211978576",
+   "type": 11,
+   "heading": "Artigo 16.º — Instituto da Vinha e do Vinho, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Instituto da Vinha e do Vinho, I. P.\n\n1 - O Instituto da Vinha e do Vinho, I. P., abreviadamente designado por IVV, I. P., tem por missão apoiar a definição das linhas estratégicas, das prioridades e dos objetivos das políticas para o sector vitivinícola, coordenar e controlar a organização institucional do sector vitivinícola, coordenar e avaliar o sistema de controlo e certificação de qualidade dos produtos vitivinícolas, acompanhar a política comunitária e preparar as regras para a sua aplicação, bem como participar na coordenação e supervisão da promoção dos produtos vitivinícolas.\n\n2 - O IVV, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Acompanhar a atividade vitivinícola nacional e coordenar a respetiva regulamentação técnica, em conformidade com as medidas da política nacional e comunitária;\n\nb) Participar e colaborar na definição e aplicação das políticas que abranjam o sector vitivinícola;\n\nc) Participar e acompanhar, junto das instâncias comunitárias, os processos relativos ao sector vitivinícola, sem prejuízo das competências de outras entidades;\n\nd) Promover e regular as medidas de organização institucional do sector vitivinícola;\n\ne) Participar e colaborar na coordenação e na execução dos programas de apoio comunitários e nacionais específicos do sector vitivinícola.\n\n3 - O IVV, I. P., é dirigido por um conselho diretivo, constituído por um presidente e um vice-presidente."
+  },
+  "211974329": {
+   "fragment_id": "211978577",
+   "type": 11,
+   "heading": "Artigo 17.º — Instituto dos Vinhos do Douro e do Porto, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Instituto dos Vinhos do Douro e do Porto, I. P.\n\n1 - O Instituto dos Vinhos do Douro e Porto, I. P., abreviadamente designado por IVDP, I. P., tem por missão promover o controlo da qualidade e quantidade dos vinhos do Porto, regulamentando o processo produtivo, bem como a proteção e defesa das denominações de origem «Douro» e «Porto» e indicação geográfica «Duriense».\n\n2 - O IVDP, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Propor a orientação estratégica e executar a política vitivinícola para a Região Demarcada do Douro (RDD), designadamente assegurando o conhecimento de toda a fileira e da estrutura de produção e comércio, incluindo a exportação, e as ações que lhe venham a ser delegadas pelo IVV, I. P.;\n\nb) Promover a convergência dos interesses da produção e do comércio na defesa do interesse geral da RDD, disciplinando, controlando e fiscalizando a produção e a comercialização dos vinhos produzidos na RDD, assegurando o ficheiro das parcelas de vinha desta região, controlando o recenseamento dos viticultores, efetuando as verificações adequadas para este efeito e determinando as correções necessárias;\n\nc) Controlar, promover e defender as denominações de origem e indicação geográfica da RDD, bem como os restantes vinhos e produtos vínicos produzidos, elaborados ou que transitem na RDD, sem prejuízo das atribuições do IVV, I. P.;\n\nd) Instruir os processos de contraordenação e aplicar às infrações detetadas, pelos seus serviços ou por outras entidades, as sanções relativamente às quais disponha de competência;\n\ne) Estimular a adoção das melhores práticas no domínio da vitivinicultura e do desenvolvimento tecnológico;\n\nf) Propor e implementar a política de promoção e internacionalização dos vinhos do Douro e do Porto;\n\ng) Promover e implementar uma política de tratamento dos subprodutos resultantes da produção vitivinícola da RDD, salvaguardando os princípios da sustentabilidade económica e ambiental, sem prejuízo das atribuições do IVV, I. P.\n\n3 - O IVDP, I. P., é dirigido por um conselho diretivo, constituído por um presidente e um vice-presidente."
+  },
+  "211974330": {
+   "fragment_id": "211978578",
+   "type": 11,
+   "heading": "Artigo 18.º — Instituto Nacional de Investigação Agrária e Veterinária, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instituto Nacional de Investigação Agrária e Veterinária, I. P.\n\n1 - O Instituto Nacional de Investigação Agrária e Veterinária, I. P., abreviadamente designado por INIAV, I. P., é o laboratório de Estado que tem por missão a prossecução da política científica e a realização de investigação de suporte a políticas públicas orientadas para a valorização dos recursos biológicos nacionais, na defesa dos interesses nacionais e na prossecução e aprofundamento de políticas comuns da União Europeia.\n\n2 - O INIAV, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Desenvolver as bases científicas e tecnológicas de apoio à definição de políticas públicas sectoriais;\n\nb) Promover atividades de investigação, experimentação e demonstração, na linha das políticas públicas definidas para os respetivos sectores, que assegurem o apoio técnico e científico conducente ao desenvolvimento e inovação e melhoria da competitividade, nas áreas agroflorestal, da proteção das culturas, da produção alimentar, da sanidade animal, da segurança alimentar, bem como na área das tecnologias alimentares e da biotecnologia com aplicação nas referidas áreas;\n\nc) Assegurar as funções de Laboratório Nacional de Referência, nomeadamente, nas áreas da segurança alimentar e da sanidade animal e vegetal;\n\nd) Cooperar com instituições científicas e tecnológicas afins, nacionais ou estrangeiras, e participar em atividades de ciência e tecnologia, designadamente em consórcios, redes e outras formas de trabalho conjunto, e promover o intercâmbio e a transmissão de conhecimentos com entidades públicas e privadas, nacionais ou internacionais, nomeadamente através da celebração de acordos e protocolos de cooperação;\n\ne) Definir e colaborar na formação nas suas áreas de competência;\n\nf) Promover a conservação e valorização dos recursos genéticos nacionais, animais e vegetais, em articulação com a DGAV, nas respetivas áreas de competência.\n\n3 - O INIAV, I. P., é dirigido por um conselho diretivo, constituído por um presidente e dois vogais."
+  },
+  "211974331": {
+   "fragment_id": "211978579",
+   "type": 11,
+   "heading": "Artigo 19.º — Instituto Português do Mar e da Atmosfera, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Instituto Português do Mar e da Atmosfera, I. P.\n\n1 - O Instituto Português do Mar e da Atmosfera, I. P., abreviadamente designado por IPMA, I. P., é o laboratório de Estado que tem por missão promover e coordenar a investigação, o desenvolvimento, a inovação e a prestação de serviços com ênfase nas áreas do mar e da atmosfera, assegurando a implementação das estratégias e políticas nacionais nas suas áreas de atuação, contribuindo para o desenvolvimento económico e social, sendo investido nas funções de autoridade nacional nos domínios da meteorologia, da climatologia, da sismologia, da aeronomia e do geomagnetismo.\n\n2 - O IPMA, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Promover atividades de investigação, experimentação e demonstração no domínio das ciências e tecnologias nas áreas dos recursos marinhos, da aquicultura, da meteorologia, do clima, da biologia marinha, da geofísica, da geologia marinha, dos serviços marítimos e da segurança marítima e contribuir para o desenvolvimento de novas áreas de atividade e usos do oceano;\n\nb) Promover a exploração sustentável dos recursos marinhos e a sua valorização, assegurando a avaliação sistemática do estado ambiental e a preservação da biodiversidade do meio marinho, com especial ênfase nas áreas marinhas protegidas, contribuindo para a definição e implementação das políticas de preservação e qualidade do ambiente marinho;\n\nc) Assegurar a vigilância meteorológica, climática, sísmica e geofísica, e difundir regularmente informação e previsões do estado do tempo e do mar para todos os fins necessários;\n\nd) Assegurar o funcionamento das redes de medição de variáveis de estado relativas às suas áreas de competência e garantir a aquisição, o processamento, a difusão e a gestão da informação relevante;\n\ne) Apoiar, nas suas áreas de competência, a definição e exploração dos resultados das redes de monitorização da atmosfera e qualidade do ar e do ambiente marinho;\n\nf) Contribuir para a avaliação e gestão dos riscos de desastres de origem natural e antropogénica nas áreas da sua competência e fornecer avisos especiais antecipados às entidades nacionais com responsabilidade em matéria de proteção civil relativos a sismos, maremotos, eventos meteorológicos extremos e alterações bruscas das condições do ambiente marinho;\n\ng) Prestar serviços à navegação aérea e marítima no domínio da informação e previsão meteorológica necessária à segurança e condução de operações;\n\nh) Disponibilizar a informação meteorológica necessária para fins de defesa nacional;\n\ni) Certificar as condições de ocorrência de fenómenos meteorológicos, geofísicos e da composição atmosférica, bem como dos fenómenos oceanográficos com este relacionados;\n\nj) Contribuir para o desenvolvimento das tecnologias, serviços e sistemas associados à implementação, gestão e controlo dos serviços, da segurança e das atividades marítimas;\n\nk) Assegurar a representação nacional e internacional nas áreas da sua competência;\n\nl) Promover a difusão de conhecimentos e de resultados obtidos em atividades de investigação e de desenvolvimento tecnológico, assegurando a salvaguarda dos direitos de propriedade intelectual, bem como recolher, classificar, publicar e difundir bibliografia e outros elementos de informação científica e técnica;\n\nm) Emitir parecer relativamente a pedidos para realização de atividades de investigação científica marinha, de levantamento, instalação, reparação e retirada de cabos submarinos de telecomunicações e de pesquisa de petróleo no mar territorial, plataforma continental, águas interiores e zona económica exclusiva, a realizar por Estados estrangeiros, organizações internacionais e outras entidades não nacionais.\n\n3 - A definição das orientações estratégicas e a fixação de objetivos para o IPMA, I. P., bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas do mar e da ciência.\n\n4 - O IPMA, I. P., é dirigido por um conselho diretivo, constituído por um presidente e dois vogais."
+  },
+  "211974332": {
+   "fragment_id": "211978580",
+   "type": 8,
+   "heading": "Secção IV — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Outras estruturas"
+  },
+  "211974333": {
+   "fragment_id": "211978581",
+   "type": 11,
+   "heading": "Artigo 20.º — Comissão Técnica do Registo Internacional de Navios da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comissão Técnica do Registo Internacional de Navios da Madeira\n\nA Comissão Técnica do Registo Internacional de Navios da Madeira funciona no âmbito do Registo Internacional de Navios da Madeira, incumbindo-lhe o registo de todos os atos e contratos referentes aos navios a ele sujeitos e o controlo dos requisitos de segurança exigidos pelas convenções internacionais aplicáveis."
+  },
+  "211974334": {
+   "fragment_id": "211978582",
+   "type": 11,
+   "heading": "Artigo 21.º — Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica\n\n1 - O Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica, abreviadamente designado por GAMA, tem por missão assegurar o cumprimento das obrigações decorrentes da regulamentação do Céu Único Europeu, garantir o cumprimento das normas e recomendações que decorrem da ratificação da Convenção sobre Aviação Civil Internacional, das normas e procedimentos emanados da Organização Meteorológica Mundial, no âmbito da meteorologia aeronáutica, bem como investigar os acidentes e incidentes marítimos, e emitir recomendações em matéria de segurança marítima que visem reduzir a sinistralidade marítima.\n\n2 - O GAMA é dirigido por um diretor, cargo de direção intermédia de 1.º grau."
+  },
+  "211974335": {
+   "fragment_id": "211978583",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "211974336": {
+   "fragment_id": "211978584",
+   "type": 11,
+   "heading": "Artigo 22.º — Articulação, superintendência e tutela conjuntas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Articulação, superintendência e tutela conjuntas\n\n1 - A definição das orientações estratégicas e a fixação de objetivos para a Escola Superior Náutica Infante D. Henrique, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas do mar, dos transportes e da ciência.\n\n2 - A Inspeção-Geral dos Ministérios do Ambiente, Ordenamento do Território e Energia e da Agricultura e do Mar (IGAMAOT) depende hierárquica e funcionalmente dos membros do Governo responsáveis pelas áreas do ambiente, ordenamento do território, energia e da agricultura e mar, nos termos previstos nos números seguintes.\n\n3 - Compete ao membro do Governo responsável pelas áreas da agricultura e mar o exercício das competências relativas aos assuntos direta e exclusivamente relacionados com os serviços e organismos do Ministério da Agricultura e do Mar, designadamente, no âmbito das atribuições previstas nas alíneas h) e i) do n.º 2 do artigo 10.º do Decreto-Lei n.º 17/2014, de 4 de fevereriro, e, no que respeita aos assuntos direta e exclusivamente relacionados com os serviços e organismos do MAM, no âmbito das alíneas a), b), c), j), k) e l), do mesmo número.\n\n4 - São decididas em conjunto pelos membros do Governo responsáveis pelas áreas do ambiente, ordenamento do território e energia e da agricultura e mar:\n\na) A seleção e designação dos titulares dos cargos de direção superior;\n\nb) A aprovação do plano de atividades;\n\nc) O estabelecimento da carta de missão e do QUAR, bem como a avaliação da sua execução.\n\n5 - Compete ao membro do Governo responsável pelas áreas do ambiente, ordenamento do território e energia a decisão no âmbito de todas as matérias não previstas nos n.os 3 a 5, sem prejuízo da articulação com o membro do Governo responsável pelas áreas da agricultura e mar no que respeita à elaboração do orçamento."
+  },
+  "211974337": {
+   "fragment_id": "211978585",
+   "type": 11,
+   "heading": "Artigo 23.º — Mapas de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Mapas de pessoal dirigente\n\nSão aprovados os mapas de dirigentes superiores da administração direta e indireta do Estado do MAM, constantes dos anexos I e II ao presente decreto-lei, respetivamente, do qual fazem parte integrante."
+  },
+  "211974338": {
+   "fragment_id": "211978586",
+   "type": 11,
+   "heading": "Artigo 24.º — Extinção, fusão e reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Extinção, fusão e reestruturação\n\n1 - É extinta, sendo objeto de fusão, a Secretaria-Geral do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, sendo as suas atribuições nos domínios da agricultura e do mar integradas no Gabinete de Planeamento, Políticas e Administração Geral e as suas atribuições nos domínios do orçamento e do apoio jurídico e contencioso da área do ambiente e do ordenamento do território integradas na Secretaria-Geral do Ministério do Ambiente, do Ordenamento do Território e da Energia;\n\n2 - São objeto de reestruturação os seguintes serviços, organismos e estruturas:\n\na) O Gabinete de Planeamento e Políticas do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, que passa a designar-se Gabinete de Planeamento, Políticas e Administração Geral, sendo as suas atribuições, nos domínios do orçamento, da coordenação das atividades e representação no âmbito comunitário e internacional, bem como da aplicação do direito comunitário e de apoio aos processos de pré-contencioso europeu, nas áreas do ambiente e do ordenamento do território integradas na Secretaria-Geral do Ministério do Ambiente, do Ordenamento do Território e da Energia;\n\nb) O Instituto Português do Mar e da Atmosfera, sendo as suas atribuições no âmbito das funções de autoridade nacional no domínio da meteorologia aeronáutica, integradas no Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica;\n\nc) O Gabinete de Prevenção e Investigação de Acidentes Marítimos, que passa a designar-se Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica."
+  },
+  "211974339": {
+   "fragment_id": "211978587",
+   "type": 11,
+   "heading": "Artigo 25.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Referências legais\n\nAs referências legais feitas aos serviços, organismos e estruturas objeto de extinção, fusão e reestruturação no âmbito do presente decreto-lei consideram-se efetuadas aos serviços, organismos e estruturas que passam a integrar as respetivas atribuições."
+  },
+  "211974340": {
+   "fragment_id": "211978588",
+   "type": 11,
+   "heading": "Artigo 26.º — Legislação orgânica complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Legislação orgânica complementar\n\n1 - Os diplomas orgânicos pelos quais se procede à extinção, fusão e reestruturação dos serviços, organismos e estruturas do MAM devem ser aprovados no prazo de 60 dias após a entrada em vigor do presente decreto-lei.\n\n2 - Até à entrada em vigor dos diplomas orgânicos a que se refere o número anterior, os serviços, organismos e estruturas do MAM continuam a reger-se pelas disposições normativas que lhes são aplicáveis."
+  },
+  "211974341": {
+   "fragment_id": "211978589",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 7/2012, de 17 de janeiro."
+  },
+  "211974342": {
+   "fragment_id": "211978590",
+   "type": 11,
+   "heading": "Artigo 28.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Produção de efeitos\n\n1 - As extinções, fusões e reestruturações previstas no presente decreto-lei produzem efeitos com a entrada em vigor dos respetivos diplomas orgânicos.\n\n2 - Excetua-se do disposto no número anterior, a designação dos titulares dos cargos de direção superior e dos órgãos de direção dos serviços e organismos previstos nos mapas anexos ao presente decreto-lei, a qual pode ter lugar após a sua entrada em vigor.\n\n3 - Nos casos de fusão, a designação prevista no número anterior depende da prévia cessação de funções, designadamente nos termos do número seguinte, de um número pelo menos igual de dirigentes, assegurando os dirigentes designados a direção dos serviços objeto de fusão até à entrada em vigor dos novos diplomas orgânicos.\n\n4 - As comissões de serviço dos titulares de cargos de direção superior dos serviços e organismos cuja fusão e reestruturação tenha sido determinada pelo presente decreto-lei, podem cessar, independentemente do disposto no n.º 1, por despacho fundamentado, quando, por efeito da fusão e reestruturação, exista necessidade de imprimir nova orientação à gestão dos serviços."
+  },
+  "211974343": {
+   "fragment_id": "211978591",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da publicação."
+  },
+  "211974345": {
+   "fragment_id": "211978593",
+   "type": 14,
+   "heading": "Anexo I — Cargos de direção superior da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Cargos de direção superior da administração direta\n\n(a que se refere o artigo 23.º)\n\n(ver documento original)"
+  },
+  "211974346": {
+   "fragment_id": "211978594",
+   "type": 14,
+   "heading": "Anexo II — Dirigentes de organismos da administração indireta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Dirigentes de organismos da administração indireta\n\n(a que se refere o artigo 23.º)\n\n(ver documento original)"
+  },
+  "211974373": {
+   "fragment_id": "211978582",
+   "type": 11,
+   "heading": "Artigo 21.º — Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica",
+   "in_force_from": "2015-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), em vigor a partir de 2015-10-15"
+   ],
+   "markdown": "###### Artigo 21.º — Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica\n\n1 - O Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica, abreviadamente designado por GAMA, tem por missão assegurar o cumprimento das obrigações decorrentes da regulamentação do Céu Único Europeu, garantir o cumprimento das normas e recomendações que decorrem da ratificação da Convenção sobre Aviação Civil Internacional, das normas e procedimentos emanados da Organização Meteorológica Mundial, no âmbito da meteorologia aeronáutica, bem como investigar os acidentes e incidentes marítimos, e emitir recomendações em matéria de segurança marítima que visem reduzir a sinistralidade marítima.\n\n2 - O GAMA é dirigido por um diretor, equiparado a cargo de direção superior de 1.º grau.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), em vigor a partir de 2015-10-15"
+  },
+  "211974344": {
+   "fragment_id": "211978592",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Leonardo Bandeira de Melo Mathias - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 27 de janeiro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 30 de janeiro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "213622563": {
+   "fragment_id": "211928360",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração direta do Estado",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Administração direta do Estado\n\n1 - Integram a administração direta do Estado, no âmbito do MAM, os seguintes serviços centrais:\n\na) O Gabinete de Planeamento, Políticas e Administração Geral;\n\nb) A Direção-Geral de Alimentação e Veterinária;\n\nc) A Direção-Geral de Agricultura e Desenvolvimento Rural;\n\nd) A Direção-Geral de Política do Mar;\n\ne) A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+  },
+  "213622564": {
+   "fragment_id": "211928372",
+   "type": 11,
+   "heading": "Artigo 13.º — Direções regionais de agricultura e pescas",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 13.º — Direções regionais de agricultura e pescas\n\n1 - As direções regionais de agricultura e pescas, abreviadamente designadas por DRAP, têm por missão participar na formulação e execução das políticas nas áreas da agricultura, do desenvolvimento rural e das pescas, bem como colaborar na execução das políticas nas áreas das florestas, da segurança alimentar e da sanidade vegetal, em articulação com os organismos e serviços centrais competentes no quadro da eficiência da gestão local de recursos.\n\n2 - As DRAP prosseguem, no âmbito das circunscrições territoriais respetivas, as seguintes atribuições:\n\na) Executar, na respetiva região, as medidas de política agrícola, de desenvolvimento rural e de pescas, de acordo com as normas e orientações estabelecidas pelos serviços centrais do MAM, contribuindo para o acompanhamento e avaliação das mesmas;\n\nb) Realizar o levantamento das características e das necessidades dos subsectores agrícola, agroindustrial e pescas e dos territórios rurais na respetiva região, no quadro do sistema estatístico nacional;\n\nc) Executar, de acordo com as normas funcionais definidas pelos serviços e organismos centrais, as ações necessárias à receção, análise, aprovação, acompanhamento e validação dos projetos de investimento apoiados por fundos públicos, bem como promover a tramitação relativa à receção, análise e validação conducente ao pagamento dos respetivos apoios;\n\nd) Incentivar ações e projetos de intervenção no espaço rural e de programas ou planos integrados de desenvolvimento rural e apoiar os agricultores e as suas associações, bem como as populações rurais, no âmbito das atribuições que prosseguem;\n\ne) Colaborar na execução as ações enquadradas nos planos oficiais de controlo no âmbito da segurança alimentar e da sanidade vegetal, de acordo com as orientações funcionais emitidas pelos serviços e organismos centrais competentes em razão da matéria;\n\nf) Executar as ações enquadradas nos planos oficiais de controlo relativos aos regimes de apoio no âmbito da política agrícola comum, de acordo com as orientações funcionais emitidas pelos serviços e organismos centrais competentes em razão da matéria;\n\ng) Coordenar o processo de licenciamento no âmbito do regime económico da atividade pecuária, de acordo com as orientações funcionais emitidas pelos serviços e organismos centrais competentes em razão da matéria;\n\nh) Coordenar os procedimentos aplicáveis aos estabelecimentos industriais que lhes estejam cometidos ao abrigo do Sistema da Indústria Responsável, de acordo com as orientações funcionais emitidas pela autoridade responsável pela gestão do sistema de segurança alimentar;\n\ni) Colaborar na execução das ações enquadradas nas políticas de ordenamento florestal, do regime florestal, das fileiras florestais, políticas cinegéticas, aquícolas das águas interiores e as relativas a outros produtos ou recursos da floresta, bem como acompanhar e controlar os programas ou planos de gestão e proteção da floresta, de acordo com as orientações funcionais emitidas pelos serviços e organismos centrais competentes em razão da matéria.\n\n3 - Junto de cada direção regional funciona a respetiva entidade regional da Reserva Agrícola Nacional.\n\n4 - Cada uma das DRAP é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n5 - Os diretores regionais são coadjuvados por diretores regionais-adjuntos, cargos de direção superior de 2.º grau, num total de sete, distribuídos pelas DRAP nos termos da orgânica de cada serviço.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+  }
+ }
+}

@@ -1,0 +1,287 @@
+---
+schema_version: '1.0'
+id: pt:dre:158620:por
+title: Decreto-Lei n.º 147/2002
+short_title: null
+summary: Altera o Decreto-Lei n.º 418-B/98, de 31 de Dezembro, que constitui a sociedade Porto 2001, S. A., alterado pelo
+  Decreto-Lei n.º 38/2001, de 8 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 147/2002
+official_date: null
+publication_date: '2002-05-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/2002, Série I-A de 2002-05-21
+  number: '117'
+  series: I
+  supplement: null
+  pages: 4630 - 4632
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/05/117a00/46304632.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/147/2002/05/21/p/dre/pt/html
+  oj: null
+  dre: '158620'
+  dre_path: /dr/detalhe/decreto-lei/147-2002-158620
+  internal: pt:dre:158620:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620
+  metadata_url: https://data.dre.pt/eli/dec-lei/147/2002/05/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-05-21T00:00:00Z'
+integrity:
+  source_sha256: 90b2d83fd58c740f9f704f5e0324bf01a132ca58d87e4f6acf0a1bc52dabb797
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-147-158620.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Geral
+- Sociedade Anónima
+- CASA da Música-porto 2001
+- Manifestação Cultural
+- Construção Civil
+- Conselho de Administração
+- Definição de Competências
+- Empreitada de Obras Públicas
+- Estatuto
+- Mandato
+- Música
+- Porto 2001
+- Porto
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/38/2001/02/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/38/2001/02/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/418-b/1998/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/418-b/1998/12/31/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 147/2002
+
+de 21 de Maio
+
+O [Decreto-Lei n.º 418-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-b-1998-570507), de 31 de Dezembro, alterado pelo [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), de 8 de Fevereiro, instituiu a sociedade Porto 2001, S. A., com o objecto social de conceber, planear, promover, executar e explorar todas as acções que integraram o evento Porto - Capital Europeia da Cultura 2001 e as que com ela se relacionaram no âmbito da requalificação urbana.
+
+No âmbito daquelas acções, e com o objectivo de dotar a cidade do Porto de instalações para a apresentação pública de diferentes tipos de música, foi decidido lançar o concurso para a concepção do projecto e para a construção da Casa da Música, que não estará concluída em 30 de Junho de 2002, data prevista para a extinção da sociedade Porto 2001, S. A.
+
+Importa, assim, assegurar a gestão da empreitada de construção do edifício Casa da Música para além daquela data, de modo a permitir a conclusão da obra e a desencadear os meios necessários ao arranque da sua actividade e à sua subsequente gestão e exploração.
+
+Assim, o presente diploma, aproveitando a estrutura societária da Porto 2001, S. A., embora aligeirando-a, procede à alteração do nome daquela sociedade para Casa da Música/Porto 2001, S. A., que durará até à constituição da entidade que irá gerir a Casa da Música.
+
+Torna-se, deste modo, imperiosa e imprescindível a aprovação do presente diploma, de forma a acautelar a continuidade da gestão do contrato de empreitada e dos contratos que lhe estão associados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao [Decreto-Lei n.º 418-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-b-1998-570507), de 31 de Dezembro
+
+Os artigos 1.º, 3.º e 12.º do [Decreto-Lei n.º 418-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-b-1998-570507), de 31 de Dezembro, com a redacção dada pelo artigo 1.º do [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), de 8 de Fevereiro, passam a ter a redacção seguinte:
+
+«Artigo 1.º
+
+1 - A sociedade Porto 2001, S. A., sociedade anónima de capitais exclusivamente públicos, passa a denominar-se Casa da Música/Porto 2001, S. A.
+
+2 - ...
+
+3 - A partir da data de entrada em vigor do presente diploma, a sociedade Casa da Música/Porto 2001, S. A., sucede em todos os direitos e obrigações da sociedade Porto 2001, S. A.
+
+4 - A partir da data de entrada em vigor do presente diploma, todas as menções legais, contratuais ou outras referentes à sociedade Porto 2001, S. A., devem considerar-se, para todos os efeitos legais, como sendo feitas à sociedade Casa da Música/Porto 2001, S. A.
+
+###### Artigo 3.º
+
+1 - A sociedade tem por objecto social a gestão e a execução das empreitadas para a construção do edifício denominado de Casa da Música, sito na Avenida da Boavista, 604-610, 4100-111 Porto, e o exercício dos actos necessários à utilização, manutenção e gestão daquele edifício, bem como a promoção e a realização de actividades culturais no domínio da música.
+
+2 - A sociedade tem também por objecto a gestão e a execução das obras iniciadas pela sociedade Porto 2001, S. A., que não estejam concluídas até 30 de Junho de 2002.
+
+###### Artigo 12.º
+
+1 - O mandato dos membros eleitos dos órgãos sociais durará até à tomada de posse dos cargos dirigentes da entidade que irá gerir a Casa da Música.
+
+2 - ...»
+
+###### Artigo 2.º — Alteração aos Estatutos
+
+Os artigos 1.º, 3.º, 10.º, 13.º, 14.º, 15.º, 16.º, 23.º e 24.º dos Estatutos anexos ao [Decreto-Lei n.º 418-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-b-1998-570507), de 31 de Dezembro, alterado pelo [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), de 8 de Fevereiro, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+Tipo, denominação e duração
+
+1 - A sociedade adopta o tipo de sociedade anónima e a denominação de Casa da Música/Porto 2001, S. A.
+
+2 - A sociedade dura até à tomada de posse dos cargos dirigentes da entidade que irá gerir a Casa da Música.
+
+###### Artigo 3.º — Objecto
+
+1 - A sociedade tem por objecto social a gestão e a execução das empreitadas para a construção do edifício denominado de Casa da Música, sito na Avenida da Boavista, 604-610, 4100-111 Porto, e o exercício dos actos necessários à utilização, manutenção e gestão daquele edifício, bem como a promoção e a realização de actividades culturais no domínio da música.
+
+2 - A sociedade tem também por objecto a gestão e a execução das obras iniciadas pela sociedade Porto 2001, S. A., que não estejam concluídas até 30 de Junho de 2002.
+
+3 - ...
+
+###### Artigo 10.º — Competência da assembleia geral
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+2 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número.
+
+###### Artigo 13.º — Composição do conselho de administração
+
+1 - O conselho de administração é composto por três membros, sendo um deles o seu presidente, que deverá ser designado pela assembleia geral.
+
+2 - ...
+
+###### Artigo 14.º — Competência do conselho de administração
+
+1 - ...
+
+a) Gerir e acompanhar a execução das empreitadas para a construção do edifício denominado de Casa da Música;
+
+b) Aprovar o programa cultural da Casa da Música;
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+2 - O conselho de administração poderá delegar em algum ou alguns dos seus membros os poderes de gestão, nos termos da lei.
+
+3 - (Anterior n.º 4.)
+
+###### Artigo 15.º — Reuniões do conselho de administração
+
+1 - O conselho de administração reúne mensalmente e ainda sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de um dos vogais.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 16.º — Representação
+
+1 - A sociedade obriga-se:
+
+a) Pela assinatura do presidente do conselho de administração;
+
+b) Pela assinatura de um ou dos dois vogais do conselho de administração, no âmbito da delegação de poderes;
+
+c) Pela assinatura de um mandatário ou procurador da sociedade.
+
+2 - Em assuntos de mero expediente bastará a assinatura de um dos vogais.
+
+###### Artigo 23.º — Dissolução e liquidação
+
+1 - A sociedade dissolve-se nos termos da lei, aquando da criação da entidade que irá gerir a Casa da Música.
+
+2 - ...
+
+###### Artigo 24.º — Mandato dos órgãos sociais
+
+1 - O mandato dos membros eleitos dos órgãos sociais durará até à tomada de posse dos cargos dirigentes da entidade que irá gerir a Casa da Música.
+
+2 - ...»
+
+###### Artigo 3.º — Revogação
+
+1 - É revogado o artigo 5.º do [Decreto-Lei n.º 418-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-b-1998-570507), de 31 de Dezembro.
+
+2 - São revogados os artigos 19.º, 20.º e 21.º dos Estatutos anexos ao [Decreto-Lei n.º 418-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-b-1998-570507), de 31 de Dezembro.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 30 de Junho de 2002, data em que cessam os mandatos dos membros dos órgãos sociais eleitos ao abrigo do diploma legal que criou a sociedade Porto 2001, S. A.
+
+Visto e aprovado em Conselho de Ministros de 21 Março de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Ricardo Rocha de Magalhães - José Sócrates Carvalho Pinto de Sousa - Augusto Ernesto Santos Silva.
+
+**Promulgado em 7 de Maio de 2002.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 9 de Maio de 2002.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**

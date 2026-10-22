@@ -1,0 +1,156 @@
+---
+schema_version: '1.0'
+id: pt:dre:199844:por
+title: Decreto-Lei n.º 223/96
+short_title: null
+summary: Altera os artigos 169.º, 170.º e 172.º do Regulamento de Transportes em Automóveis
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente
+proposing_entity: null
+official_number: 223/96
+official_date: null
+publication_date: '1996-11-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 273/1996, Série I-A de 1996-11-25
+  number: '273'
+  series: I
+  supplement: null
+  pages: 4258 - 4259
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/11/273a00/42584259.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/223/1996/11/25/p/dre/pt/html
+  oj: null
+  dre: '199844'
+  dre_path: /dr/detalhe/decreto-lei/223-1996-199844
+  internal: pt:dre:199844:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1996-199844
+  metadata_url: https://data.dre.pt/eli/dec-lei/223/1996/11/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1996-199844
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-11-25T00:00:00Z'
+integrity:
+  source_sha256: 8ecc4486e3aa6e0e0cde7c3c341e8f5f5370fefcc93c257e5d2ac0c9f98d396e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-223-199844.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bagagem
+- Indemnização
+- Veículo
+- Transporte de Mercadorias
+- Regulamentação dos Transportes
+- Regulamento
+- Regulamento de Transportes em Automóveis
+- Mercadoria
+- Transporte
+- Transporte de Carga
+- Transporte de Passageiros
+- Transporte Público
+- Transporte Urbano
+relationships: []
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 223/96
+
+de 25 de Novembro
+
+As indemnizações por incumprimento dos normativos relativos ao transporte de mercadorias e bagagens em carreiras de transporte colectivo de passageiros contidas nos artigos 169.º, 170.º e 172.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, são hoje meramente simbólicas, por nunca terem sido actualizados os valores de base então fixados para a sua determinação.
+
+Com este diploma tem-se em vista colmatar essa insuficiência, tendo-se para o efeito considerado o valor acumulado dos índices de inflação que ocorreram durante tão largo período de tempo.
+
+Por outro lado, torna-se ainda necessário estabelecer um mecanismo capaz de garantir que os montantes agora fixados não sofram futura depreciação por motivo idêntico.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único
+
+Os artigos 169.º, 170.º e 172.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passam a ter a seguinte redacção:
+
+«Artigo 169.º
+
+...
+
+§ 1.º No caso de atraso, o concessionário fica obrigado a pagar uma indemnização fixada em 10$00 por quilograma de peso bruto das bagagens ou mercadorias demoradas e por período indivisível de vinte e quatro horas, até ao máximo de sete dias.
+
+...
+
+§ 5.º O montante de 10$00 previsto no § 1.º será automaticamente actualizado na percentagem de aumento médio fixada para os preços dos transportes colectivos rodoviários interurbanos de passageiros, nos termos da legislação aplicável.
+
+###### Artigo 170.º
+
+...
+
+§ 1.º Se este prazo for excedido, o destinatário pagará uma taxa de armazenagem fixada em 10$00 por cada quilograma de peso bruto e por período indivisível de vinte e quatro horas.
+
+...
+
+§ 4.º O valor de 10$00 previsto no § 1.º ficará automaticamente actualizado pela aplicação do regime previsto no § 5.º do artigo 169.º
+
+###### Artigo 172.º
+
+...
+
+a) Se o quantitativo da perda for provado, um valor igual a esse quantitativo, não podendo em caso algum exceder 150000$00;
+
+b) Se o quantitativo da perda não for provado, uma importância calculada por estimativa, à razão de 750$00 por quilograma de peso bruto que faltar.
+
+§ 1.º Sem prejuízo da indemnização acima prevista, haverá ainda lugar ao reembolso do preço do transporte e outras quantias despendidas com o transporte das bagagens ou mercadorias perdidas.
+
+§ 2.º Os valores de 150000$00 e 750$00 previstos nas alíneas a) e b) do corpo deste artigo ficarão automaticamente actualizados pela aplicação do regime previsto no § 5.º do artigo 169.º»
+
+Visto e aprovado em Conselho de Ministros de 10 de Outubro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
+
+**Promulgado em 31 de Outubro de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 11 de Novembro de 1996.**
+
+**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**

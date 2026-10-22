@@ -1,0 +1,95 @@
+---
+schema_version: '1.0'
+id: pt:dre:863194090:por
+title: Declaração de Retificação n.º 300/2024/2
+short_title: null
+summary: Retifica o Aviso n.º 7374/2024/2, publicado no Diário da República, 2.ª série, n.º 69, de 8 de abril de 2024.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Universidade do Porto - Faculdade de Psicologia e de Ciências da Educação
+proposing_entity: null
+official_number: 300/2024/2
+official_date: null
+publication_date: '2024-04-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2024, Série II de 2024-04-29
+  number: '83'
+  series: II
+  supplement: null
+  pages: 279 - 279
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/04/083000000/0027900279.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '863194090'
+  dre_path: /dr/detalhe/declaracao-retificacao/300-2024-863194090
+  internal: pt:dre:863194090:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/300-2024-863194090
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/300-2024-863194090
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-04-29T00:00:00Z'
+integrity:
+  source_sha256: 15a4c2cadb55f02183ba7973552bf413b716522d07571348ef2f434b3e3bc39d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-300-863194090.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 300/2024/2
+
+Por ter saído com inexatidão o [Aviso (extrato) n.º 7374/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/7374-2024-859646793), de 8 de abril, impõe-se a sua retificação, o que se promove através da presente declaração de retificação:
+
+Onde se lê:
+
+"[...] O projeto de Regulamento pode ser consultado no site da Faculdade de Psicologia e Ciências da Educação da Universidade do Porto em [colocar a hiperligação da notícia publicada no SIGARRA, a informar da consulta pública]. [...]"
+
+deve ler-se:
+
+"[...] O projeto de Regulamento pode ser consultado no site da Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto em https://noticias.up.pt/fpceup/consulta-publica-do-regulamento-geral-para-a-avaliacao-de-discentes-da-fpceup/ [...]"
+
+9 de abril de 2024. - O Diretor, Prof. Doutor Pedro Jorge da Silva Coelho Nobre.

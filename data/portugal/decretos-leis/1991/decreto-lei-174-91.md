@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:611320:por
+title: Decreto-Lei n.º 174/91
+short_title: null
+summary: Regula a passagem à situação de reserva dos aposentados das polícias fiscais do ex-ultramar - alarga o âmbito de
+  aplicação do artigo 22.º do Decreto-Lei n.º 374/85, de 20 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 174/91
+official_date: null
+publication_date: '1991-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/1991, Série I-A de 1991-05-11
+  number: '108'
+  series: I
+  supplement: null
+  pages: 2548 - 2549
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/05/108a00/25482549.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/174/1991/05/11/p/dre/pt/html
+  oj: null
+  dre: '611320'
+  dre_path: /dr/detalhe/decreto-lei/174-1991-611320
+  internal: pt:dre:611320:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1991-611320
+  metadata_url: https://data.dre.pt/eli/dec-lei/174/1991/05/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1991-611320
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: e2815c7f30ffe72d2cb841b4e5ad202c9fce67a61d456153697b7be6c070014e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-174-611320.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aposentado
+- Guarda Fiscal
+- Funcionário Ultramarino
+- Reserva
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 174/91
+
+de 11 de Maio
+
+Suscitaram-se algumas dúvidas sobre a aplicação do artigo 22.º do Estatuto da Praça da Guarda Fiscal, aprovado pelo [Decreto-Lei n.º 374/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1985-177446), de 20 de Setembro, aos elementos do pessoal da Guarda Fiscal de Moçambique e das polícias fiscais pertencentes às polícias de segurança pública dos demais territórios do ex-ultramar, abrangidos pelo n.º 8 do artigo 3.º do [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio, aditado pelo [Decreto-Lei n.º 70/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1983-310981), de 7 de Fevereiro.
+
+Para obter a paridade desejada entre os diversos estatutos de pessoal existentes na Guarda Fiscal é necessário alargar o âmbito de aplicação do citado artigo 22.º, esclarecendo-se, assim, as dúvidas acima referidas.
+
+Ao mesmo tempo, e para evitar quaisquer desigualdades, estende-se o regime jurídico deste diploma aos sargentos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - O disposto no artigo 22.º do Estatuto Militar da Praça da Guarda Fiscal, aprovado pelo [Decreto-Lei n.º 374/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1985-177446), de 20 de Setembro, é aplicável a todos os elementos da Guarda Fiscal de Moçambique e, bem assim, das outras polícias fiscais pertencentes às polícias de segurança pública dos demais territórios do ex-ultramar que se encontrem abrangidos pelas alíneas c) e d) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio, aditado pelo [Decreto-Lei n.º 70/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1983-310981), de 7 de Fevereiro.
+
+2 - O disposto no número anterior só é aplicável aos elementos aí referidos que à data do requerimento de aposentação ou do limite de idade tivessem as habilitações previstas no n.º 3 do artigo 3.º do [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio.
+
+3 - Estão também abrangidos pelo disposto no presente diploma os elementos que, tendo já apresentado o requerimento referido no número anterior, não tivessem ainda completado 70 anos de idade na data da respectiva apresentação.
+
+###### Artigo 2.º — Data de colocação na reserva
+
+Sem prejuízo do estipulado no n.º 3 do artigo anterior, a colocação dos interessados na situação de reserva deve ser considerada como efectuada na data de apresentação do requerimento de passagem à reserva.
+
+###### Artigo 3.º — Prazo para requerer
+
+1 - Os interessados devem apresentar, no prazo de 30 dias a contar da data da publicação do presente diploma, o requerimento referido no artigo anterior, acompanhado de uma declaração autenticada, passada pelos serviços de que dependem, onde seja indicado o nome, categoria, data de nascimento, território do ex-ultramar onde exerceu funções e pensão que aufere.
+
+2 - Se, por causa que lhe seja imputável, o interessado não dispuser em tempo da declaração a que se refere o número anterior, protestará, no requerimento de passagem à reserva, apresentá-la posteriormente.
+
+###### Artigo 4.º — Encargos financeiros
+
+Os encargos financeiros decorrentes da aplicação do presente diploma são suportados pelo Orçamento do Estado.
+
+Visto e aprovado em Conselho de Ministros de 7 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
+
+**Promulgado em 24 de Abril de 1991.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 29 de Abril de 1991.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

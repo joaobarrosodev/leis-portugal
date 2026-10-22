@@ -1,0 +1,2465 @@
+---
+schema_version: '1.0'
+id: pt:dre:683858:por
+title: Decreto-Lei n.º 30/2006
+short_title: null
+summary: Estabelece os princípios gerais relativos à organização e ao funcionamento do Sistema Nacional de Gás Natural (SNGN),
+  bem como ao exercício das actividades de recepção, armazenamento, transporte, distribuição e comercialização de gás natural,
+  e à organização dos mercados de gás natural, transpondo, parcialmente, para a ordem jurídica nacional a Directiva n.º 2003/55/CE,
+  do Parlamento Europeu e do Conselho, de 26 de Junho, que estabelece regras comuns para o mercado interno de gás natural
+  e que revoga a Directiva n.º 98/30/CE, do Parlamento Europeu e do Conselho, de 22 de Junho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 30/2006
+official_date: null
+publication_date: '2006-02-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/2006, Série I-A de 2006-02-15
+  number: '33'
+  series: I
+  supplement: null
+  pages: 1204 - 1217
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/02/033a00/12041217.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-08-29'
+version_history:
+  file: decreto-lei-30-2006.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-12'
+    amending: pt:dre:670022:por
+    amending_title: Decreto-Lei n.º 77/2011; Decreto-Lei n.º 66/2010
+    changes:
+    - Altera Artigo 40.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Entrada Vigor Diploma
+  - date: '2011-06-21'
+    amending: pt:dre:192436:por
+    amending_title: Decreto-Lei n.º 230/2012; Decreto-Lei n.º 77/2011
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 24.º-A
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Adita Artigo 36.º-A
+    - Adita Artigo 39.º-B
+    - Entrada Vigor Diploma
+  - date: '2012-03-27'
+    amending: pt:dre:553917:por
+    amending_title: Decreto-Lei n.º 74/2012
+    changes:
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+  - date: '2012-05-24'
+    amending: pt:dre:177864:por
+    amending_title: Decreto-Lei n.º 112/2012
+    changes:
+    - Altera Artigo 20.º-A
+    - Altera Artigo 21.º
+  - date: '2012-10-27'
+    amending: pt:dre:192436:por
+    amending_title: Decreto-Lei n.º 230/2012
+    changes:
+    - Adita Artigo 21.º-D
+    - Adita Artigo 21.º-E
+    - Adita Artigo 21.º-F
+    - Adita Artigo 21.º-G
+    - Adita Artigo 22.º-A
+    - Adita Artigo 22.º-B
+    - Adita Artigo 22.º-C
+    - Adita Artigo 22.º-D
+    - Adita Artigo 22.º-E
+    - Adita Artigo 22.º-F
+    - Adita Artigo 22.º-G
+    - Adita Artigo 22.º-H
+    - Adita Artigo 22.º-I
+    - Adita Artigo 22.º-J
+    - Adita Artigo 22.º-K
+    - Adita Artigo 24.º-B
+    - Adita Artigo 53.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 20.º-B
+    - Altera Artigo 21.º
+    - Altera Artigo 21.º-A
+    - Altera Artigo 21.º-B
+    - Altera Artigo 24.º
+    - Altera Artigo 24.º-A
+    - Altera Subsecção IV
+    - Altera Artigo 25.º
+  - date: '2017-01-01'
+    amending: pt:dre:105637672:por
+    amending_title: Lei n.º 42/2016
+    changes:
+    - Altera Artigo 26.º
+    - Altera Artigo 36.º
+  - date: '2020-08-29'
+    amending: pt:dre:141377978:por
+    amending_title: Decreto-Lei n.º 62/2020
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/30/2006/p/cons/20200828/pt/html
+  oj: null
+  dre: '683858'
+  dre_path: /dr/detalhe/decreto-lei/30-2006-683858
+  internal: pt:dre:683858:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2006-683858
+  metadata_url: https://data.dre.pt/eli/dec-lei/30/2006/p/cons/20200828/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34575975
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34575975
+  retrieved_at: '2026-10-22T11:54:00Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4b9284d3cae12339f70e13aae186628d7b39b3f7b811d8fdfa9b167b79c4dd1b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:54:00Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-30-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Garantia
+- Contrato de Concessão
+- Definição de Competências
+- Distribuição de Gás
+- Reservas de Combustível
+- Importação
+- Licenciamento
+- Mercado Interno
+- Direcção Geral de Geologia e Energia
+- Informação do Consumidor
+- Preço
+- Serviço Público
+- Madeira.região Autónoma
+- Proteção do Consumidor
+- Rede Nacional de Distribuição de Gás Natural
+- Rede Nacional de Transporte Instalações de Armazenamento e Terminais
+- Governo
+- Açores
+- Sistema Nacional de Gás Natural
+- Comércio
+- Utilidade Pública
+relationships:
+- type: amended_by
+  target: pt:dre:335465:por
+  label: Altera Artigo 40.º; Altera Artigo 42.º; Altera Artigo 43.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465
+  date: '2010-06-11'
+- type: amended_by
+  target: pt:dre:670022:por
+  label: Altera Artigo 40.º; Altera Artigo 42.º; Altera Artigo 43.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:553917:por
+  label: Altera Artigo 40.º; Altera Artigo 43.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917
+  date: '2012-03-26'
+- type: amended_by
+  target: pt:dre:177864:por
+  label: Altera Artigo 20.º-A; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2012-177864
+  date: '2012-05-23'
+- type: amended_by
+  target: pt:dre:192436:por
+  label: Altera Artigo 40.º; Altera Artigo 42.º; Altera Artigo 43.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436
+  date: '2012-10-26'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Altera Artigo 26.º; Altera Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:141377978:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978
+  date: '2020-08-28'
+- type: cites
+  target: celex:31983L0349
+  label: null
+  source: http://data.europa.eu/eli/dir/1983/349/oj
+- type: cites
+  target: celex:31989R4064
+  label: null
+  source: http://data.europa.eu/eli/reg/1989/4064/oj
+- type: cites
+  target: celex:31998L0030
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/30/oj
+- type: cites
+  target: celex:32003L0055
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/55/oj
+- type: cites
+  target: celex:32004L0039
+  label: null
+  source: null
+- type: cites
+  target: celex:32004L0067
+  label: null
+  source: null
+- type: cites
+  target: celex:32004R0139
+  label: null
+  source: null
+- type: cites
+  target: celex:32005R1775
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R0715
+  label: null
+  source: null
+- type: cites
+  target: celex:32010R0994
+  label: null
+  source: null
+- type: transposes
+  target: celex:32003L0055
+  label: null
+  source: null
+- type: transposes
+  target: celex:32009L0073
+  label: null
+  source: null
+article_structure:
+  article_count: 106
+  section_count: 29
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:54:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 30/2006
+
+O enquadramento e a introdução do gás natural em Portugal tiveram lugar na última década do século passado. Numa bem sucedida operação de implantação das infra-estruturas do gasoduto de transporte e das redes de distribuição, realizada com fortes apoios comunitários, tornou-se possível que o primeiro contrato comercial de fornecimento de gás natural ocorresse em Abril de 1997. Nos últimos 10 anos assistiu-se, ao nível nacional, ao desenvolvimento das infra-estruturas de recepção em terminal de gás natural liquefeito (GNL), de armazenamento subterrâneo, de transporte e de distribuição, bem como à utilização do gás natural como uma nova forma de energia. Criaram-se, assim, as condições necessárias ao aprovisionamento, à recepção, ao armazenamento, ao transporte, à distribuição e ao consumo de gás natural.
+
+O quadro legislativo vigente, baseado no Decreto-Lei n.º 374/89, de 25 de Outubro, com as alterações que lhe foram sucessivamente introduzidas, e no Decreto-Lei n.º 14/2001, de 27 de Janeiro, organiza o funcionamento do sector do gás natural numa concessão de importação, aprovisionamento, recepção, armazenamento, transporte e fornecimento através da rede de alta pressão, em concessões de distribuição regional e em licenças de distribuição em redes locais autónomas de serviço público ou privativas. Salvo as licenças privativas, que têm uma expressão prática muito diminuta, cuja atribuição está sujeita a condições específicas, as concessões e as demais licenças são exercidas em regime de serviço público e em exclusivo. Neste quadro, está condicionado o acesso às actividades de comercialização de gás natural e, consequentemente, da escolha do comercializador, condicionamento que foi possível manter porque o mercado português de gás natural, nos termos da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0030" title="Link para Directiva da Comunidade Europeia">98/30/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, foi considerado mercado emergente, beneficiando de derrogação quanto à liberalização do mercado.
+
+Na linha da Cimeira de Lisboa, a Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0055" title="Link para Directiva da Comunidade Europeia">2003/55/CE</a>, do Parlamento Europeu e do Conselho, de 26 de Junho, estabeleceu as regras comuns para o mercado interno do gás natural, com vista à constituição de um mercado livre e concorrencial.
+
+A Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro, que aprovou a estratégia nacional para a energia, estabelece como uma das linhas de orientação a liberalização e a promoção da concorrência nos mercados energéticos, através da alteração dos respectivos enquadramentos estruturais.
+
+O presente decreto-lei, concretizando no plano normativo a linha estratégica da Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro, define para o sector do gás natural um quadro legislativo coerente e articulado com a legislação comunitária e os principais objectivos estratégicos aprovados na referida resolução. Neste quadro, são estabelecidos os princípios de organização e funcionamento do Sistema Nacional de Gás Natural, bem como as regras gerais aplicáveis ao exercício das actividades de recepção, armazenamento e regaseificação de GNL, armazenamento subterrâneo, transporte, distribuição e comercialização, transpondo-se, desta forma, os princípios da Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0055" title="Link para Directiva da Comunidade Europeia">2003/55/CE</a>, do Parlamento Europeu e do Conselho, de 26 de Junho, tendo por finalidade o incremento de um mercado livre e concorrencial.
+
+A organização do Sistema Nacional de Gás Natural assenta fundamentalmente na exploração da rede pública de gás natural, constituída pela Rede Nacional de Transporte, Instalações de Armazenamento e Terminais e pela Rede Nacional de Distribuição de Gás Natural. A exploração destas infra-estruturas processa-se através de concessões de serviço público, ou de licenças de serviço público no caso de redes locais autónomas de distribuição. Simultaneamente, nas condições a estabelecer em legislação complementar, permite-se a distribuição privativa de gás natural através de licença para o efeito.
+
+A exploração das infra-estruturas referidas relaciona-se com o exercício das actividades que integram o Sistema Nacional de Gás Natural, nos termos expressos no decreto-lei.
+
+A actividade de transporte de gás natural é exercida mediante a exploração da Rede Nacional de Transporte de Gás Natural, que corresponde a uma única concessão do Estado, exercida em regime de serviço público. A actividade de transporte é separada jurídica e patrimonialmente das demais actividades desenvolvidas no âmbito do Sistema Nacional de Gás Natural, assegurando-se a independência e a transparência do exercício da actividade e do seu relacionamento com as demais.
+
+Considerando que a Rede Nacional de Transporte de Gás Natural assume um papel crucial no Sistema Nacional de Gás Natural, a sua exploração integra a gestão global do sector, assegurando a coordenação sistémica das infra-estruturas de armazenamento, dos terminais e das redes de distribuição de gás natural, tendo em vista a continuidade e a segurança do abastecimento e o funcionamento integrado e eficiente do sistema de gás natural.
+
+A distribuição de gás natural processa-se através da exploração da Rede Nacional de Distribuição de Gás Natural, mediante atribuição pelo Estado de concessões de serviço público, exercidas em exclusivo e em regime de serviço público, bem como por licenças de distribuição em redes locais autónomas, não ligadas ao sistema interligado de gasodutos e redes, igualmente exercidas em exclusivo e em regime de serviço público. Fora desta rede, prevê-se a atribuição de licenças de distribuição para utilização privativa de gás natural.
+
+A actividade de distribuição é juridicamente separada da actividade de transporte e das demais actividades não relacionadas com a distribuição, não sendo obrigatória esta separação quando os distribuidores abasteçam um número de clientes inferior a 100000. As actuais concessionárias e licenciadas continuam a explorar as respectivas concessões e redes licenciadas pelo prazo de duração das mesmas.
+
+A actividade de comercialização de gás natural é livre, ficando, contudo, sujeita a atribuição de licença pela entidade administrativa competente, definindo-se claramente o elenco dos direitos e dos deveres na perspectiva de um exercício transparente da actividade. No exercício da sua actividade, os comercializadores podem livremente comprar e vender gás natural. Para o efeito, têm o direito de acesso às instalações de armazenamento e terminais de GNL, às redes de transporte e às redes de distribuição, mediante o pagamento de uma tarifa regulada. O livre exercício de comercialização de gás natural fica sujeito ao regime transitório estabelecido para a abertura gradual do mercado, tendo em consideração o estatuto de mercado emergente e da derrogação que lhe está associada.
+
+Os consumidores, destinatários dos serviços de gás natural, vão poder, nas condições do mercado e segundo um calendário de elegibilidade a estabelecer para a liberalização do sector, escolher livremente o seu comercializador, não sendo esta mudança onerada do ponto de vista contratual. Para o efeito, os consumidores são titulares do direito de acesso às instalações e às redes abrangidas pelo âmbito de aplicação deste decreto-lei. Com vista a simplificar e tornar efectiva a mudança do comercializador, é criada a figura do «operador logístico de mudança de comercializador», sendo o seu regime de exercício objecto de legislação complementar.
+
+No âmbito da protecção dos consumidores, definem-se obrigações de serviço público, caracterizadas pela garantia de fornecimento, em condições de regularidade e de continuidade, de qualidade de serviço, de protecção quanto a preços e tarifas e de acesso a informação em termos simples e compreensíveis.
+
+As associações de defesa do consumidor têm o direito de participação e de ser consultadas quanto ao enquadramento das actividades que directamente se relacionem com os direitos dos consumidores.
+
+Relacionada com a protecção dos consumidores, consagra-se a figura do comercializador de último recurso, sujeito a regulação, assumindo o papel de garante do fornecimento de gás natural aos consumidores que não optem pela mudança de comercializador, nomeadamente dos consumidores mais frágeis, em condições de regularidade e continuidade e de qualidade de serviço. Trata-se de uma figura que actuará enquanto o mercado liberalizado não estiver a funcionar com plena eficácia e eficiência, em condições de assegurar a todos os consumidores o fornecimento de gás natural segundo as suas necessidades. Neste sentido, as funções de comercializador são atribuídas provisoriamente às actuais concessionárias, tendo em conta a natureza e o prazo de duração da sua concessão.
+
+Nos termos referidos no decreto-lei, as actividades que se integram na rede pública de gás natural, a comercialização de gás natural de último recurso e a operação logística de mudança de fornecedor estão sujeitas a regulação. Sem prejuízo das competências de outras entidades administrativas, a regulação sectorial é da competência da Entidade Reguladora dos Serviços Energéticos (ERSE), cabendo-lhe, na esfera das suas atribuições, elaborar periodicamente um relatório sobre o funcionamento do sector, que será entregue ao Ministro da Economia e da Inovação, à Assembleia da República e à Comissão Europeia.
+
+A segurança do abastecimento do Sistema Nacional de Gás Natural cabe ao Governo, sendo atribuída à Direcção-Geral de Geologia e Energia (DGGE) a competência para a monitorização da segurança do abastecimento, com a colaboração da entidade concessionária da Rede Nacional de Transporte de Gás Natural. A DGGE elaborará periodicamente um relatório que deve apresentar ao Ministro da Economia e da Inovação para posterior envio à Assembleia da República e à Comissão.
+
+No quadro da convergência do Sistema Nacional de Gás Natural, o decreto-lei é aplicável às Regiões Autónomas dos Açores e da Madeira através de acto legislativo regional pelos seus órgãos competentes, no respeito dos princípios dos seus Estatutos.
+
+Os regimes de exercício das actividades previstas neste decreto-lei, incluindo os procedimentos para atribuição das concessões e das licenças, são objecto de desenvolvimento em legislação complementar. Finalmente, prevê-se um regime transitório que tem em consideração as actuais concessões e licenças e a abertura de mercado.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece as bases gerais da organização e do funcionamento do Sistema Nacional de Gás Natural (SNGN), bem como as bases gerais aplicáveis ao exercício das atividades de receção, armazenamento e regaseificação de gás natural liquefeito (GNL), de armazenamento subterrâneo de gás natural, de transporte, de distribuição e de comercialização de gás natural e de organização dos respetivos mercados.
+
+2 - O presente decreto-lei estabelece também as bases da gestão técnica global do SNGN, do planeamento da rede nacional de transporte, infraestruturas de armazenamento e terminais de GNL (RNTIAT), do planeamento da rede nacional de distribuição de gás natural (RNDGN), da garantia da segurança do abastecimento e da constituição e manutenção de reservas de segurança.
+
+3 - O presente decreto-lei transpõe para a ordem jurídica nacional a Diretiva n.º 2009/73/CE, do Parlamento Europeu e do Conselho, de 13 de junho, que estabelece regras comuns para o mercado interno de gás natural e que revoga a Diretiva n.º 2003/55/CE.
+
+4 - Nas matérias que constituem o seu objeto, o presente decreto-lei dá ainda execução, juntamente com a legislação complementar a emitir, ao Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, relativo às condições de acesso às redes de transporte de gás natural e que revoga o Regulamento (CE) n.º 1775/2005, e ao Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro, relativo a medidas destinadas a garantir a segurança do aprovisionamento de gás e que revoga a Diretiva n.º 2004/67/CE, do Conselho.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 2.º — Âmbito
+
+1 - O presente decreto-lei aplica-se a todo o território nacional, sem prejuízo do disposto no capítulo VII.
+
+2 - Salvo menção expressa no presente decreto-lei, as referências à organização, ao funcionamento e ao regime das actividades que integram o SNGN reportam-se ao continente.
+
+3 - O disposto no número anterior não prejudica, ao nível nacional, a unidade e a integração do SNGN.
+
+4 - As disposições do presente decreto-lei relativas ao acesso às redes de transporte e de distribuição e demais infraestruturas do SNGN, bem como à comercialização de gás natural, são aplicáveis ao biogás e ao gás proveniente da biomassa, ou a outros tipos de gás, na medida em que esses gases possam ser, do ponto de vista técnico, de qualidade e da segurança, injetados e transportados nas redes de gás natural, nos termos a definir em legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Alta pressão (AP)» a pressão superior a 20 bar;
+
+b) «Armazenamento» a atividade de constituição de reservas de gás natural em cavidades subterrâneas ou reservatórios especialmente construídos para o efeito;
+
+c) «Baixa pressão (BP)» a pressão inferior a 4 bar;
+
+d) «Cliente» o cliente grossista ou retalhista e o cliente final;
+
+e) «Cliente doméstico» o consumidor final que compra gás natural para uso doméstico, excluindo atividades comerciais ou profissionais;
+
+f) «Cliente final» o cliente que compra gás natural para consumo próprio;
+
+g) «Cliente final economicamente vulnerável» a pessoa que se encontre na condição de beneficiar da tarifa social de fornecimento de gás natural, nos termos do Decreto-Lei n.º 101/2011, de 30 de setembro;
+
+h) «Cliente grossista» a pessoa singular ou coletiva distinta dos operadores das redes de transporte e dos operadores das redes de distribuição que compra gás natural para efeitos de revenda;
+
+i) «Cliente retalhista» a pessoa singular ou coletiva que compra gás natural não destinado a utilização própria, que comercializa gás natural em infraestruturas de venda a retalho, designadamente de venda automática, com ou sem entrega ao domicílio dos clientes;
+
+j) «Comercialização» a compra e a venda de gás natural a clientes, incluindo a revenda;
+
+k) «Comercializador» a entidade registada para a comercialização de gás natural cuja atividade consiste na compra a grosso e na venda a grosso e a retalho de gás natural;
+
+l) «Comercializadores de último recurso» as entidades titulares de licença de comercialização de gás natural sujeitas a obrigações de serviço público, nos termos do presente decreto-lei;
+
+m) «Conduta direta» um gasoduto de gás natural não integrado na rede interligada;
+
+n) «Consumidor» o cliente final de gás natural;
+
+o) «Controlo» a relação entre empresas, na aceção do Regulamento (CE) n.º 139/2004, de 20 de janeiro, relativo ao controlo das concentrações de empresas, decorrente de direitos, contratos ou outros meios que conferem a uma empresa, isoladamente ou em conjunto, e tendo em conta as circunstâncias de facto e de direito, a possibilidade de exercer uma influência determinante sobre outra, nomeadamente através de direitos de propriedade, de uso ou de fruição sobre a totalidade ou parte dos ativos de uma empresa ou de direitos ou contratos que conferem uma influência determinante na composição, nas deliberações ou nas decisões dos órgãos de uma empresa;
+
+p) «Derivado de gás» um dos instrumentos financeiros especificados nos n.os 5, 6 ou 7 da secção C do anexo i da Diretiva n.º 2004/39/CE, do Parlamento Europeu e do Conselho, de 21 de abril, relativa aos mercados de instrumentos financeiros, sempre que esteja relacionado com o gás natural;
+
+q) «Distribuição» a veiculação de gás natural em redes de distribuição de alta, média e baixa pressão, para entrega ao cliente, excluindo a comercialização;
+
+r) «Empresa coligada» uma empresa filial, na aceção do artigo 41.º da Sétima Diretiva n.º 83/349/CEE, do Conselho, de 13 de junho, baseada na alínea g) do n.º 2 do artigo 44.º do Tratado da Comunidade Europeia e relativa às contas consolidadas, ou uma empresa associada, na aceção do n.º 1 do artigo 33.º da mesma diretiva, ou ainda empresas que pertençam aos mesmos acionistas;
+
+s) «Empresa horizontalmente integrada» uma empresa que exerce pelo menos uma das atividades de receção, armazenamento e regaseificação de GNL, armazenamento subterrâneo, transporte, distribuição ou comercialização de gás natural e ainda uma atividade não ligada ao setor do gás natural;
+
+t) «Empresa verticalmente integrada» uma empresa ou um grupo de empresas em que a mesma pessoa ou as mesmas pessoas têm direito, direta ou indiretamente, a exercer controlo e em que a empresa ou grupo de empresas exerce, pelo menos, uma das atividades de receção, armazenamento e regaseificação de GNL, armazenamento subterrâneo, transporte ou distribuição de gás natural e, pelo menos, uma das atividades de produção ou comercialização de gás natural;
+
+u) «GNL» o gás natural na forma liquefeita;
+
+v) «Interligação» uma conduta de transporte que atravessa ou transpõe uma fronteira entre Estados membros vizinhos com a única finalidade de interligar as respetivas redes de transporte;
+
+w) «Média pressão (MP)» a pressão entre 4 bar e 20 bar;
+
+x) «Mercados organizados» os sistemas com diferentes modalidades de contratação que possibilitam o encontro entre a oferta e a procura de gás natural e de instrumentos cujo ativo subjacente seja gás natural ou ativo equivalente;
+
+y) «Operador de armazenamento subterrâneo» a entidade que exerce a atividade de armazenamento subterrâneo de gás natural e é responsável, num conjunto específico de instalações, pela exploração e manutenção das capacidades de armazenamento e respetivas infraestruturas;
+
+z) «Operador de rede de distribuição» a entidade responsável, numa área específica, pelo desenvolvimento, exploração e manutenção da rede de distribuição e, quando aplicável, das suas interligações com outras redes, bem como por assegurar a garantia de capacidade da rede a longo prazo para atender pedidos razoáveis de distribuição de gás natural;
+
+aa) «Operador da rede de transporte» a entidade responsável, numa área específica, pelo desenvolvimento, exploração e manutenção da rede de transporte e, quando aplicável, das suas interligações com outras redes, bem como por assegurar a garantia de capacidade da rede a longo prazo para atender pedidos razoáveis de transporte de gás natural;
+
+bb) «Operador de terminal de GNL» a entidade que exerce a atividade de receção, armazenamento e regaseificação de GNL e é responsável, num terminal de GNL, pela exploração e manutenção das capacidades de receção, armazenamento e regaseificação e respetivas infraestruturas;
+
+cc) «Operador de transporte independente (OTI)» a entidade que adote as regras da subsecção ii da secção ii do capítulo ii do presente decreto-lei e que, nessa qualidade, seja certificada, aprovada e designada como operador da RNTGN;
+
+dd) «Rede interligada» um conjunto de redes ligadas entre si;
+
+ee) «Rede Nacional de Distribuição de Gás Natural (RNDGN)» o conjunto das infraestruturas de serviço público destinadas à distribuição de gás natural;
+
+ff) «Rede Nacional de Transporte de Gás Natural (RNTGN)» o conjunto das infraestruturas de serviço público destinadas ao transporte de gás natural;
+
+gg) «Rede Nacional de Transporte, Infraestruturas de Armazenamento e Terminais de GNL (RNTIAT)» o conjunto das infraestruturas de serviço público destinadas à receção e ao transporte em gasoduto, ao armazenamento subterrâneo e à receção, ao armazenamento e à regaseificação de GNL;
+
+hh) «Rede pública de gás natural (RPGN)» o conjunto que abrange as infraestruturas que constituem a RNTIAT e as que constituem a RNDGN;
+
+ii) «Serviços auxiliares de sistema» todos os serviços necessários para o acesso e a exploração de uma rede de transporte e de distribuição de uma instalação de GNL e de uma instalação de armazenamento, mas excluindo os meios exclusivamente reservados aos operadores da rede de transporte, no exercício das suas funções;
+
+jj) «Sistema» o conjunto de redes e de infraestruturas de receção e de entrega de gás natural, ligadas entre si e localizadas em Portugal, e das interligações a sistemas de gás natural vizinhos;
+
+kk) «Sistema Nacional de Gás Natural (SNGN)» o conjunto de princípios, organizações, agentes e infraestruturas relacionados com as atividades abrangidas pelo presente decreto-lei no território nacional;
+
+ll) «Transporte» a veiculação de gás natural numa rede interligada de alta pressão para efeitos de receção e entrega a distribuidores, a comercializadores ou a grandes clientes finais;
+
+mm) «Utilizador da rede» a pessoa singular ou coletiva que entrega gás natural na rede ou que é abastecida através dela.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 4.º — Objectivo e princípios gerais
+
+1 - O presente decreto-lei e respetiva legislação complementar têm como objetivo fundamental contribuir para a progressiva melhoria da competitividade e eficiência do SNGN e para a realização do mercado interno da energia, visando assegurar uma oferta de gás natural em termos adequados às necessidades dos consumidores.
+
+2 - O exercício das atividades abrangidas pelo presente decreto-lei obedece a princípios de racionalidade e eficácia dos meios a utilizar, num quadro de utilização racional dos recursos, de proteção dos consumidores e de minimização dos impactes ambientais, no respeito pelas disposições legais aplicáveis.
+
+3 - O exercício das atividades previstas no presente decreto-lei processa-se com observância dos princípios da concorrência, sem prejuízo do cumprimento das obrigações de serviço público.
+
+4 - O exercício das atividades de comercialização de gás natural e de gestão de mercados organizados processa-se em regime de livre concorrência, sujeito a registo e autorização, respetivamente, nos termos definidos no presente decreto-lei e em legislação complementar.
+
+5 - O exercício das atividades de receção, armazenamento e regaseificação de GNL, de armazenamento subterrâneo, de transporte e de distribuição de gás natural processa-se nos regimes de concessão ou de licença, nos termos definidos no presente decreto-lei e em legislação complementar.
+
+6 - (Revogado.)
+
+7 - Nos termos do presente decreto-lei, são assegurados a todos os interessados os seguintes direitos:
+
+a) Liberdade de acesso ou de candidatura ao exercício das atividades;
+
+b) Não discriminação;
+
+c) Igualdade de tratamento e de oportunidades;
+
+d) Imparcialidade nas decisões;
+
+e) Transparência e objetividade das regras e decisões;
+
+f) Direito à informação e salvaguarda da confidencialidade da informação comercial considerada sensível;
+
+g) Liberdade de escolha do comercializador de gás natural;
+
+h) Direito de reclamação e ao seu tratamento eficiente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 5.º — Obrigações de serviço público
+
+1 - (Revogado).
+
+2 - As obrigações de serviço público são da responsabilidade dos intervenientes no SNGN, nos termos previstos no presente decreto-lei e em legislação complementar.
+
+3 - São obrigações de serviço público, nomeadamente:
+
+a) A segurança, a regularidade e a qualidade do abastecimento;
+
+b) A garantia de ligação dos clientes às redes nos termos previstos nos contratos de concessão ou nos títulos das licenças;
+
+c) A protecção dos consumidores, designadamente quanto a tarifas e preços;
+
+d) A promoção da eficiência energética e da utilização racional dos recursos e a protecção do ambiente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 6.º — Protecção dos consumidores
+
+1 - (Revogado).
+
+2 - No exercício das atividades objeto do presente decreto-lei, é assegurada a proteção dos consumidores, nomeadamente quanto à prestação do serviço, ao exercício do direito de informação, à qualidade da prestação do serviço, às tarifas e preços, à repressão de cláusulas abusivas e à resolução de litígios, de acordo com o previsto na Lei n.º 23/96, de 26 de julho, alterada pelas Leis n.os 12/2008, de 26 de fevereiro, 24/2008, de 2 de junho, 6/2011, de 10 de março, e 44/2011, de 22 de junho.
+
+3 - Para os efeitos do disposto no número anterior, são adoptados os seguintes mecanismos:
+
+a) Disponibilização de uma plataforma centralizada que preste aos consumidores de energia toda a informação necessária ao exercício dos seus direitos, a indicação da legislação em vigor e os meios de resolução de litígios disponíveis;
+
+b) O tratamento eficiente das reclamações através da Entidade Reguladora dos Serviços Energéticos (ERSE) e a resolução extrajudicial de litígios, nos termos previstos na lei, nomeadamente na Lei n.º 23/96, de 26 de julho, e nos Estatutos da ERSE.
+
+4 - É assegurada proteção aos clientes finais economicamente vulneráveis através da adoção de medidas de salvaguarda destinadas a satisfazer as suas necessidades de consumo.
+
+5 - As associações de consumidores têm o direito de ser consultadas quanto aos actos de definição do enquadramento jurídico das actividades previstas no presente decreto-lei.
+
+6 - (Revogado).
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 7.º — Protecção do ambiente
+
+1 - No exercício das actividades abrangidas pelo presente decreto-lei, os intervenientes devem adoptar as providências adequadas à minimização dos impactes ambientais, observando as disposições legais aplicáveis.
+
+2 - O Governo deve promover políticas de utilização racional de energia tendo em vista a eficiência energética e a promoção da qualidade do ambiente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 8.º — Medidas de salvaguarda
+
+1 - Em caso de crise repentina no mercado da energia e de ameaça à segurança, física ou outra, das pessoas, dos equipamentos ou instalações ou à integridade da rede, o Governo pode adotar temporariamente as medidas de salvaguarda necessárias, em conformidade com os termos previstos na lei aplicável às crises energéticas e às infraestruturas críticas e no Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro.
+
+2 - As medidas de salvaguarda devem provocar o mínimo de perturbações no funcionamento do mercado interno e não podem exceder o estritamente indispensável para sanar as dificuldades que se tenham manifestado.
+
+3 - O Governo comunica de imediato as medidas de salvaguarda adotadas aos outros Estados membros e à Comissão Europeia.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 9.º — Competências do Governo
+
+1 - O Governo define a política do SNGN e a sua organização e funcionamento com vista à realização de um mercado competitivo, eficiente, seguro e ambientalmente sustentável, de acordo com o presente decreto-lei, competindo-lhe, neste âmbito:
+
+a) Emitir a legislação complementar relativa ao exercício das atividades abrangidas pelo presente decreto-lei;
+
+b) Emitir a legislação complementar relativa ao projeto, ao licenciamento, à construção e à exploração das infraestruturas de gás natural;
+
+c) Promover a cooperação dos mercados regionais;
+
+d) Promover a adoção de medidas e políticas sociais necessárias à proteção dos clientes finais economicamente vulneráveis;
+
+e) Colaborar no desenvolvimento de infraestruturas fundamentais para a construção do mercado interno da energia.
+
+2 - Compete, ainda, ao Governo garantir a segurança do abastecimento do SNGN, designadamente através da:
+
+a) Promoção da adequada diversificação das fontes de aprovisionamento;
+
+b) Promoção da adequada cobertura do território nacional com infraestruturas de gás natural, a par do desenvolvimento de capacidades transfronteiriças de abastecimento e transporte;
+
+c) Promoção da eficiência energética e da utilização racional de gás natural;
+
+d) Definição das obrigações de constituição e manutenção de reservas e da sua mobilização em situações de crise energética;
+
+e) Monitorização da segurança do abastecimento;
+
+f) Declaração de crise energética nos termos da legislação aplicável e adoção das correspondentes medidas de salvaguarda de forma a minorar os seus efeitos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+### Capítulo II — Organização, regime de actividades e funcionamento
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+#### Secção I — Composição do Sistema Nacional de Gás Natural
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 10.º — Sistema Nacional de Gás Natural
+
+Para efeitos do presente decreto-lei, entende-se por SNGN o conjunto de princípios, organizações, agentes e infra-estruturas relacionados com as actividades abrangidas pelo presente decreto-lei no território nacional.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 11.º — Rede pública de gás natural
+
+1 - No continente, a RPGN abrange o conjunto das infraestruturas de serviço público destinadas à receção, armazenamento e regaseificação de GNL, ao armazenamento subterrâneo, ao transporte e à distribuição de gás natural, que integram a RNTIAT e a RNDGN.
+
+2 - Nas Regiões Autónomas dos Açores e da Madeira, a estrutura das respectivas RPGN é estabelecida pelos órgãos competentes regionais, nos termos definidos no artigo 2.º
+
+3 - Os bens que integram a RPGN só podem ser onerados ou transmitidos nos termos previstos em legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 12.º — Utilidade pública das infra-estruturas da RPGN
+
+1 - As infra-estruturas da RPGN são consideradas, para todos os efeitos, de utilidade pública.
+
+2 - O estabelecimento e a exploração das infra-estruturas da RPGN ficam sujeitos à aprovação dos respectivos projectos nos termos da legislação aplicável.
+
+3 - A aprovação dos projectos confere ao seu titular os seguintes direitos:
+
+a) Utilizar, nas condições definidas pela legislação aplicável, os bens do domínio público ou privado do Estado e dos municípios para o estabelecimento ou passagem das partes integrantes da RPGN;
+
+b) Solicitar a expropriação, por utilidade pública urgente, nos termos do Código das Expropriações, dos imóveis necessários ao estabelecimento das partes integrantes da RPGN;
+
+c) Solicitar a constituição de servidões sobre os imóveis necessários ao estabelecimento das partes integrantes da RPGN, nos termos da legislação aplicável.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 13.º — Actividades do SNGN
+
+O SNGN integra o exercício das seguintes actividades:
+
+a) Recepção, armazenamento e regaseificação de GNL;
+
+b) Armazenamento subterrâneo de gás natural;
+
+c) Transporte de gás natural;
+
+d) Distribuição de gás natural;
+
+e) Comercialização de gás natural;
+
+f) Operação de mercados organizados de gás natural;
+
+g) Operação logística de mudança de comercializador de gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 14.º — Intervenientes no SNGN
+
+São intervenientes no SNGN:
+
+a) Os operadores das redes de transporte de gás natural;
+
+b) Os operadores de terminal de recepção, armazenamento e regaseificação de GNL;
+
+c) Os operadores de armazenamento subterrâneo de gás natural;
+
+d) Os operadores das redes de distribuição de gás natural;
+
+e) Os comercializadores de gás natural;
+
+f) Os operadores de mercados organizados de gás natural;
+
+g) O operador logístico da mudança de comercializador de gás natural;
+
+h) Os consumidores de gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+#### Secção II — Exploração de redes de transporte, de infra-estruturas de armazenamento subterrâneo e de terminais de GNL
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+##### Subsecção I — Regime de exercício, composição e operação
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 15.º — Regime de exercício
+
+1 - As actividades de recepção, armazenamento e regaseificação de GNL, de armazenamento subterrâneo e de transporte, que integram a gestão técnica global do sistema, são exercidas em regime de concessão de serviço público, integrando, no seu conjunto, a exploração da RNTIAT.
+
+2 - As concessões da RNTIAT são atribuídas na sequência de realização de concurso público ou de concurso limitado por prévia qualificação, salvo se, de acordo com os princípios e regras gerais da contratação pública, estiverem reunidas condições para o recurso a outro procedimento adjudicatório, mediante contratos outorgados pelo membro do Governo responsável pela área da energia, em representação do Estado.
+
+3 - (Revogado).
+
+4 - As bases das concessões da RNTIAT, bem como os procedimentos para a sua atribuição, são estabelecidos em legislação complementar.
+
+5 - A entidade concessionária da RNTGN está obrigada a respeitar as disposições legais em matéria de certificação e a praticar os necessários atos e diligências com vista a garantir a obtenção e manutenção da referida certificação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 16.º — Composição da rede de transporte, infra-estruturas de armazenamento subterrâneo e terminais de GNL
+
+1 - A RNTIAT compreende:
+
+a) A rede de alta pressão e as interligações;
+
+b) Os terminais de GNL;
+
+c) As infra-estruturas de armazenamento subterrâneo de gás natural;
+
+d) As infra-estruturas auxiliares associadas à sua operação.
+
+2 - Os bens que integram a RNTIAT são identificados nas bases das respectivas concessões.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 17.º — Gestão técnica global do SNGN
+
+1 - A gestão técnica global do SNGN é exercida com independência, de forma transparente e não discriminatória, e consiste na coordenação sistémica das infraestruturas que constituem o SNGN, de forma a assegurar o seu funcionamento integrado e harmonizado e a segurança e continuidade do abastecimento de gás natural, nos termos previstos em legislação complementar.
+
+2 - A gestão técnica global do SNGN é da responsabilidade do operador da RNTGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 18.º — Operador de terminal de GNL
+
+1 - O operador de terminal de GNL é a entidade concessionária do respectivo terminal.
+
+2 - Os deveres do operador de terminal de GNL são estabelecidos em legislação complementar.
+
+3 - Não é permitido ao operador de terminal a aquisição de gás natural para comercialização.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 19.º — Operador de armazenamento subterrâneo
+
+1 - O operador de armazenamento subterrâneo é uma entidade concessionária do respectivo armazenamento.
+
+2 - Os deveres do operador de armazenamento subterrâneo são estabelecidos em legislação complementar.
+
+3 - (Revogado).
+
+4- Não é permitido ao operador do armazenamento subterrâneo adquirir gás natural para comercialização.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 20.º — Operador da RNTGN
+
+1 - O operador da RNTGN é a entidade concessionária da rede de transporte, sem prejuízo do disposto nos artigos 21.º-A a 21.º-F.
+
+2 - Os deveres do operador da RNTGN são estabelecidos em legislação complementar.
+
+3 - (Revogado).
+
+4 - Não é permitido ao operador de rede de transporte adquirir gás natural para comercialização.
+
+5 - O operador da RNTGN não pode utilizar abusivamente informações comercialmente sensíveis obtidas de terceiros no âmbito do fornecimento ou da negociação do acesso à rede.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 20.º-A — Separação jurídica do operador de terminal de GNL e do operador de armazenamento subterrâneo
+
+1 - O operador de terminal de GNL é independente, no plano jurídico, das entidades que exerçam, diretamente ou através de empresas coligadas, qualquer das restantes atividades previstas no presente decreto-lei.
+
+2 - O operador de armazenamento subterrâneo é independente, no plano jurídico, das entidades que exerçam, diretamente ou através de empresas coligadas, qualquer das restantes atividades previstas no presente decreto-lei.
+
+3 - Para assegurar a independência dos operadores prevista nos números anteriores são estabelecidos os seguintes impedimentos:
+
+a) Os gestores de cada um dos operadores ali referidos não podem integrar os órgãos sociais ou participarem nas estruturas de empresas que exerçam uma atividade de produção ou comercialização de gás natural;
+
+b) Nenhuma entidade, incluindo as que exerçam atividades no setor do gás natural, nacional ou estrangeiro, pode deter, diretamente ou sob qualquer forma indireta, mais de 25 % do capital social do operador de terminal de GNL;
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) Os operadores de terminal de GNL e de armazenamento subterrâneo não podem, diretamente ou por intermédio de empresas por eles controladas, deter participações no capital social de empresas que exerçam uma atividade de produção ou comercialização de gás natural.
+
+4 - O disposto na alínea b) do número anterior não se aplica ao Estado ou a empresas por ele controladas nem prejudica a existência de relações de domínio no seio do grupo societário em que o operador de terminal de GNL se integra à data da entrada em vigor do Decreto-Lei n.º 112/2012, de 23 de maio.
+
+5 - (Revogado.)
+
+6 - As restrições previstas na alínea b) do n.º 3 não são igualmente aplicáveis às novas infraestruturas de terminal de GNL a concessionar após a entrada em vigor do presente decreto-lei.
+
+7 - Os interesses profissionais dos gestores dos operadores de terminal de GNL e de armazenamento subterrâneo devem ficar devidamente salvaguardados de forma a assegurar a sua independência.
+
+8 - Para efeitos do disposto no número anterior, os gestores dos operadores de terminal de GNL e de armazenamento subterrâneo:
+
+a) Estão impedidos de manter qualquer relação contratual ou profissional com empresas que tenham por atividade a produção ou comercialização de gás natural ou de deter quaisquer interesses de natureza económica ou financeira nas mesmas empresas;
+
+b) Estão impedidos de receber, direta ou indiretamente, das empresas que tenham por atividade a produção ou comercialização de gás natural qualquer remuneração ou benefício financeiro;
+
+c) Têm o direito de reclamar junto da ERSE quando entendam que a cessação antecipada dos respetivos contratos ou mandatos não foi justificada, tendo a decisão proferida pela ERSE sobre esta questão caráter vinculativo.
+
+9 - Os operadores de terminal de GNL e de armazenamento subterrâneo que pertençam a uma empresa verticalmente integrada devem dispor de poder de decisão, exercido em termos efetivos e independentes da empresa verticalmente integrada, no que respeita aos ativos necessários para manter, explorar ou desenvolver as instalações de terminal de GNL ou de armazenamento.
+
+10 - O número anterior não obsta a que:
+
+a) Existam mecanismos de coordenação adequados para assegurar a proteção dos direitos de supervisão económica e de gestão da empresa verticalmente integrada no que respeita à rentabilidade dos ativos do operador de terminal de GNL e de armazenamento subterrâneo, nos termos regulamentados pela ERSE;
+
+b) A empresa verticalmente integrada aprove o plano financeiro anual, ou instrumento equivalente, do operador de terminal de GNL ou de armazenamento subterrâneo e estabeleça limites globais para os níveis de endividamento desse operador.
+
+11 - Sem prejuízo do disposto na alínea b) do número anterior, a empresa verticalmente integrada não pode dar instruções relativamente à exploração diária ou às decisões específicas sobre a construção ou o melhoramento das instalações que não excedam os termos do plano financeiro aprovado, ou instrumento equivalente.
+
+12 - A remuneração dos gestores dos operadores referidos no n.º 9 não pode depender, direta ou indiretamente, das atividades ou resultados das empresas que integram a empresa verticalmente integrada e que tenham por atividade a produção ou comercialização de gás natural.
+
+13 - Os operadores referidos nos n.os 1 e 2 devem dispor de um código ético de conduta relativo à independência funcional da respetiva operação e proceder à sua publicitação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2010-10-27
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2012-177864), em vigor a partir de 2012-05-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 20.º-B — Programa de conformidade dos operadores de armazenamento e terminal de GNL
+
+1 - Os operadores de armazenamento e de terminal de GNL que pertençam a empresas verticalmente integradas devem elaborar um programa de conformidade que contemple as medidas adotadas para excluir comportamentos discriminatórios.
+
+2 - O programa de conformidade referido no número anterior deve incluir medidas de verificação do seu cumprimento e o código ético de conduta previsto no n.º 13 do artigo 20.º-A.
+
+3 - A elaboração do programa de conformidade, bem como o acompanhamento da sua execução, é da responsabilidade da entidade designada pelos operadores referidos no n.º 1.
+
+4 - A entidade responsável pela elaboração e acompanhamento da execução do programa de conformidade deve ser totalmente independente e ter acesso a todas as informações necessárias do operador e de quaisquer empresas coligadas para o cumprimento das suas funções.
+
+5 - O programa de conformidade é previamente submetido à aprovação da ERSE.
+
+6 - A entidade responsável pela elaboração e acompanhamento da execução do programa de conformidade apresenta à ERSE um relatório anual que deve ser publicitado nos sítios na Internet da ERSE e do respetivo operador da rede de distribuição.
+
+7 - Os termos e a forma a que devem obedecer o programa de conformidade e os relatórios de acompanhamento da sua execução, bem como a sua publicitação, constam do Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 21.º — Separação jurídica e patrimonial da atividade de transporte
+
+1 - O operador da RNTGN é independente, nos planos jurídico e patrimonial, das entidades que exerçam, directamente ou através de empresas coligadas, as actividades de produção ou comercialização de gás natural ou de electricidade.
+
+2 - O operador da RNTGN deve dispor de um poder decisório efectivo, independente de outros intervenientes no SNGN ou SEN, designadamente no que respeita aos activos necessários para manter ou desenvolver a rede.
+
+3 - Para assegurar o disposto no n.º 1, são estabelecidos os seguintes impedimentos:
+
+a) O operador da RNTGN ou as empresas que o controlem não podem, direta ou indiretamente, exercer controlo ou direitos sobre uma empresa que exerça qualquer das atividades de produção ou de comercialização de gás natural ou de eletricidade;
+
+b) As pessoas que exerçam qualquer das atividades de produção ou de comercialização de gás natural ou de eletricidade ou as empresas que as controlem não podem, direta ou indiretamente, exercer controlo ou direitos sobre o operador da RNTGN ou a RNTGN;
+
+c) O operador da RNTGN ou qualquer dos seus acionistas não podem, direta ou indiretamente, designar membros dos órgãos de administração ou de fiscalização de empresas que exerçam atividades de produção ou comercialização de gás natural ou de eletricidade ou de órgãos que legalmente as representam;
+
+d) As pessoas que exerçam controlo ou direitos sobre empresas que exerçam qualquer das atividades de produção ou comercialização de gás natural ou de eletricidade não podem, direta ou indiretamente, designar membros dos órgãos de administração ou de fiscalização do operador da RNTGN ou de órgãos que legalmente o representam;
+
+e) As pessoas que integram os órgãos de administração ou de fiscalização do operador da RNTGN ou os órgãos que legalmente o representam estão impedidas de integrar órgãos sociais ou participar nas estruturas de empresas que exerçam uma atividade de produção ou comercialização de gás natural ou de eletricidade, não podendo os referidos gestores do operador da RNTGN prestar serviços, direta ou indiretamente, a estas empresas;
+
+f) Os interesses profissionais das pessoas referidas na alínea anterior devem ficar devidamente salvaguardados de forma a assegurar a sua independência;
+
+g) O operador da RNTGN deve dispor de um código ético de conduta relativo à independência funcional da respetiva operação e proceder à sua publicitação;
+
+h) Nenhuma entidade, incluindo as que exerçam atividades no setor do gás natural, nacional ou estrangeiro, pode deter, diretamente ou sob qualquer forma indireta, mais de 25 % do capital social do operador da RNTGN ou de empresas que o controlem.
+
+i) (Revogada).
+
+4 - O exercício de direitos, nos termos e para os efeitos referidos nas alíneas a), b) e d) do número anterior, integra, em particular:
+
+a) O poder de exercer direitos de voto;
+
+b) O poder de designar membros dos órgãos de administração ou de fiscalização ou dos órgãos que legalmente representam a empresa;
+
+c) A detenção da maioria do capital social.
+
+5 - O disposto na alínea h) do n.º 3 e no número anterior não se aplica ao Estado ou a empresas por ele controladas nem prejudica a existência de relações de domínio no seio do grupo societário em que o operador da RNTGN se integra à data da entrada em vigor do Decreto-Lei n.º 112/2012, de 23 de maio.
+
+6 - (Revogado).
+
+7 - (Revogado) .
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2012-177864), em vigor a partir de 2012-05-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 21.º-A — Aprovação, designação e certificação do operador da RNTGN
+
+1 - A entidade concessionária da rede de transporte deve ser aprovada e designada como operador da RNTGN pelo membro do Governo responsável pela área da energia, o qual deve comunicar essa designação à Comissão Europeia e promover a sua publicação no Jornal Oficial da União Europeia.
+
+2 - Para que possa ser aprovada e designada como operador da RNTGN, a entidade concessionária da rede de transporte deve requerer a sua certificação nos termos do presente artigo, sem prejuízo de a ERSE poder promover a referida certificação no caso de a entidade concessionária não o fazer atempadamente.
+
+3 - A certificação do operador da RNTGN tem como objectivo avaliar o cumprimento das condições relativas à separação jurídica e patrimonial estabelecidas no artigo anterior.
+
+4 - O operador da RNTGN é certificado pela ERSE, a quem também cabe o permanente acompanhamento e fiscalização do cumprimento das condições da certificação concedida.
+
+5 - A entidade concessionária deve notificar a ERSE de quaisquer alterações ou transações previstas ou ocorridas na pendência do respetivo procedimento de certificação que possam relevar para a apreciação do cumprimento das condições referidas no n.º 3.
+
+6 - A ERSE elabora um projeto de decisão sobre o pedido de certificação do operador da RNTGN no prazo de quatro meses a contar da data da sua apresentação, findo o qual se considera tacitamente emitido um projeto de decisão que concede a certificação.
+
+7 - O projeto de decisão sobre o pedido de certificação do operador da RNTGN é imediatamente notificado pela ERSE à Comissão Europeia para efeitos de emissão de parecer nos termos previstos no artigo 3.º do Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, devendo ser acompanhado de toda a informação relevante associada à decisão.
+
+8 - No prazo de dois meses após a receção do parecer da Comissão Europeia ou do decurso do prazo para a sua emissão, a ERSE deve aprovar uma decisão definitiva sobre o pedido de certificação do operador da RNTGN, tendo em consideração o referido parecer, nos termos previstos no artigo 3.º do Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho.
+
+9 - A decisão referida no número anterior é publicada, juntamente com o parecer da Comissão Europeia, nos sítios na Internet da ERSE e da Direção-Geral de Energia e Geologia (DGEG).
+
+10 - A ERSE e a Comissão Europeia podem pedir ao operador da RNTGN e às empresas que exercem actividades de produção ou de comercialização qualquer informação com relevância para o cumprimento das suas funções ao abrigo do presente artigo.
+
+11 - A ERSE deve preservar a confidencialidade das informações comercialmente sensíveis que obtenha durante o processo de certificação.
+
+12 - Os procedimentos a observar para a certificação do cumprimento das condições previstas no n.º 3 são estabelecidos por regulamentação emitida pela ERSE.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 21.º-B — Reapreciação das condições de certificação do operador da RNTGN
+
+1 - O operador da RNTGN deve notificar a ERSE de quaisquer alterações ou transações previstas ou ocorridas que possam exigir a reapreciação das condições que foram objeto de certificação para avaliar do cumprimento do disposto no n.º 3 do artigo anterior.
+
+2 - A ERSE inicia um procedimento de reapreciação da certificação:
+
+a) Após a receção de uma notificação do operador da RNTGN nos termos previstos no número anterior;
+
+b) Sempre que tenha conhecimento, por outra via, da realização ou da previsão de alterações ou transações que levem ao incumprimento das condições da certificação do operador da RNTGN;
+
+c) Na sequência de pedido fundamentado da Comissão Europeia.
+
+3 - A reapreciação da certificação observa, com as devidas adaptações, o disposto nos n.os 4 a 12 do artigo anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 21.º-C — Certificação relativamente a países terceiros à União Europeia
+
+1 - Caso a entidade concessionária da rede de transporte seja controlada por uma pessoa ou pessoas de país ou países terceiros à União Europeia, a respetiva certificação como operador da RNTGN observa o disposto no presente artigo e no artigo seguinte.
+
+2 - A entidade reguladora deve notificar a Comissão Europeia do pedido de certificação apresentado pela entidade referida no número anterior.
+
+3 - A entidade concessionária deve notificar a ERSE de quaisquer alterações ou transações previstas ou ocorridas na pendência do respetivo procedimento de certificação que possam relevar para a decisão a proferir, cabendo à ERSE notificar, de imediato, a Comissão Europeia caso tais alterações ou transações sejam suscetíveis de conduzir à aquisição do controlo da entidade concessionária ou da RNTGN por parte de pessoa ou pessoas de país ou países terceiros à União Europeia.
+
+4 - A ERSE elabora um projeto de decisão, no prazo máximo de quatro meses a contar da data de apresentação do pedido de certificação.
+
+5 - A ERSE remete o projeto de decisão à Comissão Europeia para emissão de parecer sobre:
+
+a) Se a entidade concessionária cumpre integralmente os requisitos de independência e de separação jurídica e patrimonial previstos no artigo 21.º ou, no caso previsto nos n.os 5 e seguintes do artigo 21.º-F, o disposto na subsecção ii da presente secção; e
+
+b) Se a atribuição da certificação põe, ou não, em risco a segurança do abastecimento energético da União Europeia.
+
+6 - A Comissão Europeia emite o seu parecer sobre o projeto de decisão remetido nos termos do número anterior e notifica-o à ERSE no prazo de dois meses após a receção do pedido, prorrogável por mais dois meses se a Comissão Europeia consultar a Agência de Cooperação dos Reguladores da Energia, o membro do Governo responsável pela área da energia ou os interessados sobre o referido projeto de decisão.
+
+7 - Na falta de emissão de parecer no prazo indicado no número anterior, considera-se que a Comissão Europeia não tem objeções ao projeto de decisão da ERSE.
+
+8 - O parecer da Comissão Europeia é tomado em consideração na decisão final sobre o pedido de certificação.
+
+9 - A ERSE emite a sua decisão final no prazo de dois meses a contar da receção do parecer da Comissão Europeia ou do termo do prazo para a respetiva emissão.
+
+10 - A decisão final é imediatamente notificada pela ERSE à Comissão Europeia, acompanhada de todas as informações relevantes a ela associadas e, se for o caso, dos fundamentos da divergência com o parecer da Comissão Europeia.
+
+11 - A decisão final e respetiva fundamentação são publicadas, juntamente com o parecer da Comissão Europeia, nos sítios na Internet da ERSE e da DGEG.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2013-10-27
+
+###### Artigo 21.º-D — Recusa de certificação relativamente a países terceiros
+
+1 - A ERSE deve recusar a certificação da entidade concessionária referida no n.º 1 do artigo anterior sempre que não tiver sido demonstrado que:
+
+a) A entidade concessionária cumpre integralmente com os requisitos de independência e de separação jurídica e patrimoniais previstos no artigo 21.º ou, no caso previsto nos n.os 5 e seguintes do artigo 21.º-F, o disposto na subsecção ii da presente secção;
+
+b) A certificação não põe em risco a segurança do abastecimento energético, a nível nacional ou da União Europeia, tendo em conta o disposto no número seguinte.
+
+2 - Na avaliação realizada ao abrigo da alínea b) do número anterior, deve ter-se em consideração:
+
+a) Os direitos e obrigações assumidos pela União Europeia em relação ao país ou países terceiros em causa à luz do direito internacional, designadamente os acordos celebrados com um ou mais países terceiros em que a União Europeia seja parte e que tenham por objeto questões de segurança do abastecimento;
+
+b) Os direitos e obrigações assumidos pelo Estado Português em relação a esse país ou países terceiros em virtude de acordos celebrados com este ou estes, na medida em que estejam em conformidade com o direito da União Europeia;
+
+c) Outros factos e circunstâncias específicos do caso e do país ou países terceiros em causa.
+
+3 - A avaliação prevista na alínea b) do n.º 1 é realizada pelo membro do Governo responsável pela área da energia ou por entidade por si designada, mediante despacho que reveste caráter vinculativo para a decisão da ERSE.
+
+4 - Para efeitos de realização da avaliação prevista na alínea b) do n.º 1, a ERSE deve notificar de imediato o membro do Governo responsável pela área da energia ou a entidade por este designada do pedido de certificação apresentado, do parecer emitido pela Comissão ou da respetiva omissão de pronúncia, bem como de todas as demais informações e elementos relevantes.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 21.º-E — Reapreciação da certificação relativamente a países terceiros
+
+1 - O operador da RNTGN deve notificar a ERSE sempre que ocorram quaisquer circunstâncias suscetíveis de conduzir à aquisição do seu controlo ou do controlo da RNTGN por parte de pessoa ou pessoas de país ou países terceiros à União Europeia.
+
+2 - A ERSE inicia um procedimento de reapreciação da certificação do operador da RNTGN, notificando, de imediato, a Comissão Europeia:
+
+a) Após a receção da notificação referida no número anterior;
+
+b) Sempre que tenha conhecimento, por outra via, de quaisquer circunstâncias suscetíveis de conduzir à aquisição do controlo do operador da RNTGN ou do controlo dessa rede por parte de pessoa ou pessoas de país ou países terceiros à União Europeia.
+
+3 - O procedimento de reapreciação iniciado nos termos do número anterior observa, com as devidas adaptações, o disposto nos artigos 21.º-C e 21.º-D.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 21.º-F — Modelos alternativos de separação
+
+1 - Caso, no âmbito do processo de certificação do operador da RNTGN, surjam objeções à certificação da entidade concessionária da RNTGN nos termos do artigo 21.º-A por se considerar que a mesma integra uma empresa verticalmente integrada em violação do disposto no artigo 21.º, a ERSE notifica a referida entidade concessionária para praticar os atos e adotar as medidas necessárias a assegurar o cumprimento integral das condições relativas à separação jurídica e patrimonial previstas no artigo 21.º
+
+2 - Os atos e as medidas cuja prática a ERSE pode impor à entidade concessionária da RNTGN para efeitos do disposto no número anterior têm em vista assegurar que:
+
+a) A atividade prevista no artigo 70.º do Decreto-Lei n.º 172/2006, de 23 de agosto, e quaisquer atividades de produção ou comercialização de eletricidade ou de gás natural são exercidas por uma entidade independente da entidade concessionária da RNTGN, no plano jurídico, organizativo e na tomada de decisões;
+
+b) Os titulares de cargos de administração da entidade concessionária da RNTGN ficam impedidos de integrar os órgãos sociais, colaborar ou participar, de qualquer forma, nas estruturas da entidade independente prevista na alínea anterior;
+
+c) Os titulares de cargos de administração na entidade independente prevista na alínea a) e os respetivos trabalhadores ou colaboradores ficam impedidos de integrar os órgãos sociais, colaborar ou participar, de qualquer forma, na entidade concessionária da RNTGN;
+
+d) Os interesses profissionais das pessoas sujeitas aos impedimentos previstos nas alíneas b) e c) ficam devidamente salvaguardados de forma a assegurar a sua capacidade de agir de forma independente;
+
+e) A entidade concessionária da RNTGN e a entidade independente prevista na alínea a) ficam impedidas de partilhar quaisquer serviços, internos ou externos, nomeadamente jurídicos;
+
+f) A entidade concessionária da RNTGN e a entidade independente referida na alínea a) preservam a confidencialidade das informações comercialmente sensíveis obtidas no exercício das respetivas atividades, não devendo partilhar entre elas e devendo impedir a divulgação a terceiros de informações comercialmente sensíveis, para além do que for estritamente necessário para a realização de transações comerciais ou para o cumprimento das suas obrigações legais e contratuais, em particular perante a DGEG, a ERSE e a Comissão Europeia;
+
+g) A contabilidade da entidade independente referida na alínea a) se encontra separada da contabilidade da entidade concessionária da RNTGN e submetida a revisão e a auditoria por revisor oficial de contas e auditor distintos dos que realizam a revisão oficial de contas e a auditoria desta entidade concessionária.
+
+3 - Para efeitos das alíneas c) e d) do número anterior, as pessoas sujeitas aos impedimentos referidos nas mesmas alíneas:
+
+a) Estão impedidas de manter qualquer relação contratual ou profissional com a entidade relativamente à qual se verifica o impedimento ou deter quaisquer interesses de natureza económica ou financeira na mesma empresa;
+
+b) Estão impedidos de receber da entidade relativamente à qual se verifica o impedimento, direta ou indiretamente, qualquer remuneração ou benefício financeiro, sendo que a sua remuneração não pode depender das atividades ou resultados da referida empresa;
+
+c) Têm o direito de reclamar junto da ERSE quando entendam que a cessação antecipada dos respetivos contratos ou mandatos não foi justificada, tendo a decisão proferida pela ERSE sobre esta questão caráter vinculativo.
+
+4 - Os custos incorridos pela entidade concessionária da RNTGN em resultado da prática dos atos ou adoção das medidas previstas no n.º 2 apenas podem ser repercutidos na tarifa de uso global do sistema, nos termos da legislação e regulamentos em vigor, mediante autorização prévia da DGEG e desde que tenham sido incorridos de forma justificada e eficiente.
+
+5 - A entidade concessionária da RNTGN pode, em alternativa à prática dos atos ou adoção das medidas previstas no n.º 2, requerer ao membro do Governo responsável pela área da energia que autorize a adoção das regras previstas na subsecção ii da presente secção.
+
+6 - A decisão, por parte do membro do Governo responsável pela área da energia, de autorizar a adoção das regras previstas na subsecção ii da presente secção depende da prévia certificação da entidade concessionária da RNTGN enquanto OTI, bem como da respetiva aprovação pela Comissão Europeia.
+
+7 - A certificação da entidade concessionária enquanto OTI depende do cumprimento dos requisitos previstos na subsecção ii da presente secção.
+
+8 - Aplica-se ao procedimento de certificação previsto no número anterior o disposto nos artigos 21.º-A e 21.º-B e, se for o caso, nos artigos 21.º-C a 21.º-E, bem como no artigo 3.º do Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho.
+
+9 - A certificação da entidade concessionária da RNTGN como OTI nos termos dos n.os 5 a 7 não afeta a qualidade de concessionária da RNTGN por parte da referida entidade.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 21.º-G — Funções do operador da RNTGN no âmbito da política energética
+
+1 - A DGEG define e concretiza, mediante regulamento, a forma de execução das obrigações do operador da RNTGN previstas na lei e no contrato de concessão no apoio ao concedente em matéria de política energética e que não estejam exclusivamente ligadas à exploração da RNTGN e à gestão técnica do sistema, as quais devem ser cumpridas de forma independente.
+
+2 - O cumprimento das obrigações previstas no número anterior é acompanhado e fiscalizado por uma comissão de auditoria, composta por representantes, em número igual, do Estado, enquanto concedente, e da ERSE.
+
+3 - Compete à DGEG promover a constituição da comissão de auditoria prevista no número anterior e aprovar o respetivo regulamento de funcionamento, após parecer vinculativo da ERSE.
+
+4 - A comissão de auditoria prevista no n.º 2 deve reunir pelo menos uma vez por trimestre e elaborar relatórios, com a periodicidade indicada no regulamento previsto no número anterior, indicando as situações de incumprimento ou cumprimento defeituoso detetadas e as medidas propostas com vista à respetiva sanação e formulando recomendações quanto à atuação do operador da RNTGN no exercício das funções decorrentes das obrigações referidas no n.º 1.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º — Qualidade de serviço
+
+A prestação de serviços pelos operadores previstos na presente secção deve obedecer aos padrões de qualidade de serviço estabelecidos no Regulamento da Qualidade de Serviço.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+##### Subsecção II — Operador de transporte independente
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436)
+
+###### Artigo 22.º-A — Ativos, equipamento, pessoal e identidade
+
+1 - Para ser certificado enquanto operador de transporte independente (OTI), a entidade concessionária da RNTGN deve dispor de todos os recursos humanos, técnicos, materiais e financeiros necessários ao cumprimento das suas obrigações nos termos da presente subsecção e ao exercício da atividade de transporte de gás natural, devendo, designadamente, ser o proprietário de todos os ativos, incluindo a RNTGN, e contratar o pessoal necessário ao exercício da atividade de transporte de gás natural, incluindo para o desempenho das funções societárias.
+
+2 - O previsto no número anterior não prejudica a possibilidade de concentração da operação da RNTGN e da Rede Nacional de Transporte de Eletricidade (RNT) no OTI ou da exploração, por empresa coligada, da RNT.
+
+3 - São proibidas a subcontratação de pessoal e a prestação de serviços entre empresas que integram a empresa verticalmente integrada, sem prejuízo do disposto no número seguinte.
+
+4 - O OTI pode prestar serviços a empresas que integram a empresa verticalmente integrada desde que se verifiquem os seguintes requisitos cumulativos:
+
+a) A prestação desses serviços não implique um tratamento discriminatório dos utilizadores de rede, seja acessível a todos os utilizadores de rede nos mesmos termos e condições e não restrinja, distorça ou coloque entraves à concorrência ao nível da produção ou da comercialização;
+
+b) Os termos e condições da prestação desses serviços sejam aprovados pela ERSE.
+
+5 - Sem prejuízo das decisões do órgão de supervisão previsto no artigo 22.º-E, a empresa verticalmente integrada deve disponibilizar atempadamente ao OTI, na sequência de um pedido deste para esse efeito, os recursos financeiros necessários para a realização de futuros projetos de investimento e substituição dos ativos existentes.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º-B — Deveres do OTI
+
+1 - A atividade de transporte de gás natural exercida pelo OTI compreende, para além do disposto no n.º 2 do artigo 20.º, pelo menos, os deveres seguidamente indicados:
+
+a) Assegurar o relacionamento com terceiros, a ERSE ou outras entidades;
+
+b) Assegurar a representação do operador da rede de transporte na Rede Europeia dos Operadores das Redes de Transporte de Gás (REORT para o Gás);
+
+c) Gerir a atribuição do acesso a terceiros à RNTGN, a qual deve ser exercida sem discriminação entre os utilizadores ou categorias de utilizadores da rede;
+
+d) Cobrar todas as taxas relativas à RNTGN, incluindo as taxas de acesso, as taxas de compensação para todos os serviços auxiliares, designadamente o tratamento do gás e a compra de serviços, tais como custos de compensação e energia de perdas;
+
+e) Assegurar a exploração, a manutenção e o desenvolvimento de uma rede de transporte segura, eficiente e económica;
+
+f) Planificar o investimento de forma a desenvolver a capacidade da rede para satisfazer uma procura razoável a longo prazo e a garantir a segurança do abastecimento;
+
+g) Participar na criação de mercados organizados e associações entre empresas, que incluam, designadamente, um ou mais operadores de rede de transporte e outros interessados, com o objetivo de desenvolver a criação de mercados regionais ou de facilitar o processo de liberalização; e
+
+h) Assegurar a prestação de todos os serviços da empresa, incluindo serviços jurídicos, contabilísticos e informáticos necessários.
+
+2 - O OTI deve adotar uma das formas de sociedade comercial de responsabilidade limitada previstas na lei.
+
+3 - O OTI deve garantir a diferenciação entre a sua imagem, comunicação, marca e instalações e as da empresa verticalmente integrada ou de empresas que a integrem.
+
+4 - O OTI está impedido de partilhar sistemas ou equipamentos informáticos, instalações materiais e sistemas de segurança e controlo de acesso com a empresa verticalmente integrada ou qualquer empresa que a integre, não podendo igualmente recorrer aos mesmos consultores ou empresas para a prestação de serviços respeitantes aos sistemas e equipamento informáticos e aos sistemas de segurança e controlo de acesso.
+
+5 - A contabilidade do OTI é submetida a revisão e a auditoria por revisor oficial de contas e auditor distintos dos que realizam a revisão oficial de contas e a auditoria da empresa verticalmente integrada ou de qualquer empresa que a integre.
+
+6 - O OTI deve preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício da suas atividades, devendo impedir a divulgação discriminatória de informações sobre as suas próprias atividades que possam ser comercialmente vantajosas, bem como, se for o caso, a divulgação de informações comercialmente sensíveis às demais empresas que integram a empresa verticalmente integrada, para além do que for estritamente necessário para a realização de transações comerciais ou para o cumprimento das suas obrigações legais e contratuais, em particular perante a DGEG, a ERSE e a Comissão Europeia.
+
+7 - O OTI não pode, no âmbito da compra ou venda de eletricidade por empresas coligadas, utilizar abusivamente informações comercialmente sensíveis obtidas de terceiros no âmbito do fornecimento ou da negociação do acesso à rede.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º-C — Independência do OTI
+
+1 - Sem prejuízo das competências de decisão do órgão de supervisão previsto no artigo 22.º-E, o OTI dispõe dos seguintes poderes:
+
+a) O poder de decisão no que respeita aos ativos necessários para explorar, manter ou desenvolver a rede, o qual é exercido de forma efetiva e independente da empresa verticalmente integrada; e
+
+b) O poder de angariar e mobilizar meios financeiros no mercado de capitais, em especial através da contração de empréstimos e de aumentos de capital.
+
+2 - O OTI deve assegurar que dispõe dos recursos necessários para exercer a atividade de transporte de forma adequada e eficiente e para assegurar o desenvolvimento e a manutenção de uma rede de transporte eficiente, segura e económica.
+
+3 - As empresas filiais que integram a empresa verticalmente integrada e que exercem atividades de produção ou de comercialização estão impedidas de deter qualquer participação, direta ou indireta, no capital social do OTI.
+
+4 - O OTI está impedido de deter qualquer participação, direta ou indireta, no capital social de qualquer das empresas referidas no número anterior, estando-lhe ainda vedado receber dividendos ou quaisquer outros benefícios financeiros dessas empresas.
+
+5 - Os estatutos e a estrutura global de gestão do OTI devem assegurar a efetiva independência deste em conformidade com o disposto na presente subsecção.
+
+6 - A empresa verticalmente integrada não pode determinar, direta ou indiretamente, o comportamento concorrencial do OTI, no que respeita às suas atividades quotidianas e de gestão da RNTGN, bem como quanto às atividades necessárias para a preparação do plano decenal de desenvolvimento da rede ao abrigo do artigo 26.º
+
+7 - No cumprimento dos deveres e funções enumerados no n.º 2 do artigo 20.º e no n.º 1 do artigo anterior ou do disposto no n.º 1 do artigo 13.º, na alínea a) do n.º 1 do artigo 14.º, nos n.os 2, 3 e 5 do artigo 16.º, no n.º 6 do artigo 18.º e no n.º 1 do artigo 21.º do Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, o OTI não pode tratar de forma discriminatória quaisquer pessoas ou entidades nem restringir, distorcer ou colocar entraves à concorrência na atividade de produção ou de comercialização.
+
+8 - Quaisquer relações comerciais e financeiras entre a empresa verticalmente integrada e o OTI, incluindo empréstimos deste à empresa verticalmente integrada, devem obedecer a condições de mercado.
+
+9 - O OTI está obrigado a manter registos pormenorizados das relações comerciais e financeiras previstas no número anterior e a disponibilizá-los à ERSE, a pedido desta.
+
+10 - O OTI submete à aprovação da ERSE todos os acordos e contratos comerciais e financeiros celebrados com a empresa verticalmente integrada.
+
+11 - O OTI informa a ERSE dos recursos financeiros, a que se refere o n.º 5 do artigo 22.º-A, que estejam disponíveis para futuros investimentos e para a substituição dos ativos existentes.
+
+12 - A empresa verticalmente integrada deve abster-se de qualquer comportamento que impeça ou prejudique o cumprimento, por parte do OTI, das obrigações que lhe incumbem nos termos da presente subsecção, não podendo, designadamente, exigir que o OTI obtenha autorização da empresa verticalmente integrada para cumprir essas obrigações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º-D — Independência do pessoal e da gestão do OTI
+
+1 - As decisões relativas à nomeação e recondução dos titulares dos órgãos de administração ou de gerência e dos responsáveis pela gestão do OTI, às respetivas condições de trabalho, incluindo a remuneração, bem como à cessação dos respetivos mandatos ou contratos são tomadas pelo órgão de supervisão do OTI previsto no artigo seguinte.
+
+2 - A ERSE deve ser informada previamente quanto à identidade dos titulares dos órgãos de administração ou de gerência e dos responsáveis pela gestão do OTI e às condições dos respetivos mandatos ou contratos, incluindo as relativas à duração e cessação, bem como sobre as razões subjacentes a qualquer decisão de cessação dos referidos mandatos ou contratos.
+
+3 - As decisões previstas no n.º 1 e as condições dos mandatos ou dos contratos referidos no número anterior só produzem os seus efeitos se, no prazo de três semanas a contar da notificação da ERSE, esta não levantar objeções nos termos do número seguinte.
+
+4 - A ERSE pode levantar objeções às decisões referidas n.º 1 nos seguintes casos:
+
+a) Se surgirem dúvidas quanto à independência profissional da pessoa designada responsável pela gestão ou para membro de um órgão de administração ou de gerência; ou
+
+b) Se existirem dúvidas quanto à justificação da cessação antecipada de um mandato.
+
+5 - Sem prejuízo do disposto no número seguinte, a maioria dos responsáveis pela gestão e dos membros dos órgãos de administração ou de gerência do OTI não pode, nos últimos três anos, direta ou indiretamente, ter assumido quaisquer posições, responsabilidades profissionais ou relações de negócios ou detido quaisquer interesses na empresa verticalmente integrada, em quaisquer empresas que a integrem ou nos seus acionistas maioritários, com exceção do próprio OTI.
+
+6 - Aos restantes responsáveis pela gestão e membros dos órgãos de administração ou de gerência do OTI é aplicável a incompatibilidade prevista no número anterior relativamente a funções exercidas nos últimos seis meses.
+
+7 - Os responsáveis pela gestão, os membros dos órgãos de administração e de gerência e os trabalhadores do OTI estão impedidos de exercer quaisquer funções na empresa verticalmente integrada, em quaisquer empresas que a integrem ou nos seus acionistas maioritários, ou de manter com as referidas entidades qualquer espécie de vínculo ou estabelecer com elas qualquer relação, direta ou indireta, de natureza laboral, de negócios ou outra.
+
+8 - Os responsáveis pela gestão, os membros dos órgãos de administração e de gerência e os trabalhadores do OTI não podem deter quaisquer interesses ou participação no capital social na empresa verticalmente integrada, em quaisquer empresas que a integrem ou nos seus acionistas maioritários, com exceção do próprio OTI, ou receber das referidas entidades, direta ou indiretamente, qualquer remuneração ou benefício financeiro, sendo que a sua remuneração não pode depender das atividades ou resultados da empresa verticalmente integrada, para além do próprio OTI.
+
+9 - Os responsáveis pela gestão e os membros dos órgãos de administração e de gerência têm o direito de reclamar junto da ERSE quanto à cessação antecipada dos respetivos contratos ou mandatos, tendo a decisão proferida pela ERSE sobre esta questão caráter vinculativo.
+
+10 - Os responsáveis pela gestão e os membros dos órgãos de administração e de gerência do OTI ficam impedidos, durante um período de quatro anos após o termo dos respetivos contratos ou mandatos, de estabelecer qualquer vínculo ou entrar em qualquer relação, direta ou indireta, de natureza laboral, de negócios ou outra, com a empresa verticalmente integrada, com quaisquer empresas que a integrem ou com os seus acionistas maioritários, com exceção do próprio OTI.
+
+11 - O disposto nos n.os 6 a 10 é igualmente aplicável a todos os responsáveis pela gestão executiva do OTI, bem como a todos aqueles que respondam diretamente perante estes sobre questões relacionadas com o funcionamento, a manutenção ou o desenvolvimento da rede.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º-E — Órgão de supervisão
+
+1 - O OTI tem um órgão de supervisão composto pelo número de membros indicado nos seus estatutos, os quais representam o acionista ou acionistas que, direta ou indiretamente, controlam o OTI e os demais titulares, direta ou indiretamente, de ações do OTI, cabendo a cada um destes grupos de acionistas indicar metade dos referidos membros, nos termos indicados nos estatutos.
+
+2 - Compete ao órgão de supervisão deliberar sobre quaisquer questões suscetíveis de ter um impacte significativo no valor dos ativos dos acionistas ou sócios do OTI, em especial as decisões relacionadas com a aprovação dos planos financeiros anuais e de longo prazo, com o nível de endividamento do OTI e o montante dos dividendos distribuídos aos respetivos acionistas ou sócios.
+
+3 - O órgão de supervisão não tem competência para deliberar sobre as atividades diárias do OTI, a gestão da rede e, bem assim, sobre atividades necessárias para a preparação do plano decenal de desenvolvimento da rede previsto no artigo 26.º
+
+4 - O disposto nos n.os 2, 3, 5 e 7 a 10 do artigo 22.º-D é aplicável a metade menos um dos membros do órgão de supervisão.
+
+5 - O disposto na alínea b) do n.º 4 do artigo 22.º-D é aplicável a todos os membros do órgão de supervisão.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º-F — Programa de conformidade
+
+1 - O OTI deve elaborar e executar um programa de conformidade que contemple as medidas adotadas e obrigações específicas para excluir comportamentos discriminatórios, devendo ainda estabelecer o plano de monitorização do cumprimento do referido programa.
+
+2 - O programa de conformidade é submetido à aprovação da ERSE, sem prejuízo das competências do responsável pela conformidade previsto no artigo seguinte.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º-G — Responsável pela conformidade
+
+1 - O órgão de supervisão designa um responsável pela conformidade, que pode ser uma pessoa singular ou coletiva, ficando tal designação sujeita a aprovação prévia pela ERSE.
+
+2 - A ERSE apenas pode recusar a designação do responsável pela conformidade com fundamento na falta de independência ou de capacidade profissional do candidato proposto pelo órgão de supervisão ao abrigo do número anterior.
+
+3 - Os termos do contrato que regule a atividade e as condições de trabalho do responsável pela conformidade, incluindo a sua duração, estão sujeitos à aprovação da ERSE.
+
+4 - Os termos contratuais referidos no número anterior devem assegurar a independência do responsável pela conformidade e facultar-lhe todos os recursos necessários ao bom cumprimento das suas funções.
+
+5 - Durante a vigência do contrato previsto no n.º 3, o responsável pela conformidade está impedido de deter quaisquer interesses ou participação no capital social ou exercer quaisquer funções ou cargos na empresa verticalmente integrada, em quaisquer empresas que a integrem ou nos seus acionistas detentores de uma participação de controlo, estando igualmente impedido de manter com as referidas entidades qualquer espécie de vínculo ou estabelecer com elas qualquer relação, direta ou indireta, de natureza laboral, de negócios ou outra.
+
+6 - É aplicável ao responsável pela conformidade o disposto nos n.os 2 a 5 e 7 a 11 do artigo 22.º-D.
+
+7 - O órgão de supervisão pode destituir o responsável pela conformidade, com fundamento na sua falta de independência ou de capacidade profissional, mediante aprovação prévia pela ERSE ou a pedido desta.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º-H — Funções do responsável pela conformidade
+
+1 - Sem prejuízo dos poderes de fiscalização da ERSE, compete ao responsável pela conformidade:
+
+a) Monitorizar a implementação do programa de conformidade;
+
+b) Elaborar um relatório anual que descreva as medidas tomadas para a implementação do programa de conformidade e submetê-lo à ERSE;
+
+c) Informar regularmente o órgão de supervisão e emitir recomendações sobre o programa de conformidade e a sua implementação;
+
+d) Participar à ERSE quaisquer violações das regras relativas à implementação do programa de conformidade;
+
+e) Comunicar à ERSE a existência de quaisquer relações comerciais ou financeiras entre a empresa verticalmente integrada e o OTI;
+
+f) Informar regularmente a ERSE e o órgão de supervisão do operador da RNT, oralmente ou por escrito, sobre a atividade por si desenvolvida;
+
+g) Submeter à ERSE as propostas de decisão sobre o plano de investimentos ou as propostas relativas a determinados investimentos na rede, elaboradas pelo órgão de administração ou de gerência do OTI, devendo enviar as referidas propostas até ao momento em que estas forem apresentadas pelo referido órgão de administração ou de gerência ao órgão de supervisão do OTI.
+
+2 - O responsável pela conformidade deve ainda participar à ERSE, que deve atuar em conformidade com o disposto no artigo 22.º-J, sempre que a empresa verticalmente integrada, em assembleia geral de acionistas ou através do voto dos membros do órgão de supervisão por si indicados, inviabilize a aprovação de uma deliberação tendo como efeito impedir ou atrasar a realização de investimentos na rede que, de acordo com o respetivo plano decenal de desenvolvimento, deveriam ser realizados nos três anos seguintes.
+
+3 - Compete ainda ao responsável pela conformidade fiscalizar o cumprimento pelo OTI dos deveres de confidencialidade previstos na alínea j) do n.º 2 do artigo 20.º e nos n.os 6 e 7 do artigo 22.º-B.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º-I — Poderes do responsável pela conformidade
+
+1 - O responsável pela conformidade tem acesso a todos os dados relevantes do OTI, bem como aos serviços pelo mesmo prestados e demais informações necessárias para o cumprimento das suas funções.
+
+2 - Sempre que esteja no exercício das funções que lhe são atribuídas pelo presente decreto-lei, o responsável pela conformidade tem acesso, sem aviso prévio, aos escritórios e às instalações do OTI.
+
+3 - O responsável pela conformidade pode participar em todas as reuniões do órgão de administração ou de gerência, da assembleia geral e do órgão de supervisão do OTI, devendo, em especial, participar em todas as reuniões que incidam sobre as matérias seguidamente indicadas:
+
+a) Condições de acesso à rede, tal como definidas no Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, em especial no que diz respeito a tarifas, serviços de acesso prestados a terceiros, atribuição de capacidade e gestão de congestionamentos, transparência, compensação e mercados secundários;
+
+b) Projetos empreendidos com vista a explorar, manter e desenvolver a RNTGN, incluindo os investimentos em ligações à rede e interligações;
+
+c) Compra ou venda da energia necessária para a exploração da RNTGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º-J — Poderes para tomar decisões de investimento
+
+1 - O OTI deve comunicar à ERSE qualquer decisão envolvendo a não realização dos investimentos previstos no plano decenal de desenvolvimento da RNTGN (PDIRGN) para os três anos seguintes, apresentando os respetivos fundamentos.
+
+2 - Se, no entendimento da ERSE, os fundamentos apresentados pelo OTI ao abrigo do número anterior não constituírem motivos imperiosos e independentes da vontade do OTI, a ERSE é obrigada, se o investimento em causa ainda se justificar, a adotar uma das medidas seguidamente indicadas, destinadas a garantir a realização do investimento em causa com base no PDIRGN:
+
+a) Ordenar ao OTI a realização do referido investimento;
+
+b) Promover a realização de um procedimento concursal para a realização do referido investimento pelos investidores interessados; ou
+
+c) Obrigar o OTI a realizar um aumento de capital aberto a terceiros com vista ao financiamento dos investimentos necessários por parte de investidores independentes.
+
+3 - Sempre que a ERSE optar pela alternativa prevista na alínea b) do número anterior, poderá impor ao OTI uma ou mais condições de entre as seguidamente indicadas:
+
+a) O financiamento do investimento por terceiros;
+
+b) A construção da obra por qualquer terceiro ou pelo OTI;
+
+c) A exploração dos novos ativos pelo OTI.
+
+4 - Nos casos previstos nas alíneas b) e c) do n.º 2, o OTI deve fornecer aos investidores a informação necessária para a realização do investimento, estando obrigado a ligar os troços construídos à RNTGN e, de um modo geral, a envidar todos os esforços para facilitar a execução do referido investimento.
+
+5 - A ERSE aprova os termos e condições de natureza financeira da realização do novo investimento.
+
+6 - Quando a ERSE fizer uso dos poderes previstos no n.º 2, os custos dos investimentos realizados no desenvolvimento da RNTGN são repercutidos na tarifa de uso global do sistema ou noutra tarifa aplicável à globalidade dos consumidores de gás natural nos termos a definir no Regulamento Tarifário.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 22.º-K — Ligação à RNTGN
+
+1 - O OTI elabora e publica procedimentos transparentes e eficientes para a ligação não discriminatória de instalações de armazenamento, instalações de regaseificação de GNL e de clientes industriais à RNTGN, os quais estão sujeitos a aprovação prévia pela ERSE, ouvida a DGEG.
+
+2 - O OTI não pode recusar a ligação de novas instalações de armazenamento, de instalações de regaseificação de GNL e de clientes industriais à RNTGN com fundamento numa eventual limitação futura da capacidade disponível da rede ou custos adicionais relacionados com o necessário aumento da capacidade da rede.
+
+3 - O OTI deve garantir uma capacidade suficiente de entrada e de saída para a de novas instalações de armazenamento, de instalações de regaseificação de GNL e de clientes industriais à RNTGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+##### Subsecção III — Ligação e acesso às infraestruturas da RNTIAT
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436)
+
+###### Artigo 24.º — Acesso regulado às infra-estruturas da RNTIAT
+
+1 - Os operadores da RNTIAT devem proporcionar aos interessados, de forma não discriminatória e transparente, o acesso às suas infraestruturas, baseado em tarifas aplicáveis a todos os clientes, nos termos do Regulamento do Acesso às Redes, às Infraestruturas e às Interligações e do Regulamento Tarifário, sem prejuízo do disposto no artigo seguinte.
+
+2 - O disposto no número anterior não impede a celebração de contratos a longo prazo, desde que respeitem as regras da concorrência.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 24.º-A — Infraestruturas de armazenamento subterrâneo em regime de acesso negociado
+
+1 - Sem prejuízo do regime de acesso regulado previsto no artigo anterior, a atividade de armazenamento subterrâneo pode também ser exercida em regime de acesso negociado de terceiros, nos termos dos números seguintes.
+
+2 - O acesso ao armazenamento subterrâneo em regime negociado é baseado em preços negociados livremente, de boa fé, entre o operador de armazenamento subterrâneo e os utilizadores da respetiva infraestrutura, de dentro ou fora do território abrangido pela rede interligada, devendo funcionar segundo critérios objetivos, transparentes e não discriminatórios, em conformidade com o estabelecido, a este respeito, na regulamentação da ERSE.
+
+3 - (Revogado.)
+
+4 - A atividade de armazenamento subterrâneo ou serviços auxiliares em regime de acesso negociado está sujeita a concessão, a atribuir nos termos previstos em legislação complementar, e depende de pedido prévio do interessado.
+
+5 - A suscetibilidade de atribuição de concessão de armazenamento subterrâneo em regime de acesso negociado de terceiros depende do preenchimento cumulativo dos seguintes requisitos:
+
+a) Não incida sobre serviços auxiliares e unidades de armazenamento temporário relacionados com instalações de GNL necessários para o processo de regaseificação e subsequente entrega à rede de transporte;
+
+b) Não prejudique o funcionamento eficiente do sistema regulado;
+
+c) Esteja técnica e economicamente justificada por estudos que demonstrem a probabilidade de existência de mercado para aquisição de serviços de armazenamento subterrâneo em regime negociado;
+
+d) A atividade de armazenamento subterrâneo a exercer em regime de acesso negociado seja juridicamente separada de outras atividades do gás natural, incluindo o armazenamento em regime regulado, nos termos previstos no artigo 24.º-B.
+
+6 - Mediante autorização do membro do Governo responsável pela área da energia, ouvido o gestor técnico global do sistema, a capacidade de armazenamento subterrâneo em regime de acesso negociado pode ser destinada à constituição e manutenção de reservas de segurança desde que se mostre esgotada a capacidade de armazenamento subterrâneo em regime de acesso regulado.
+
+7 - Verificando-se as condições previstas no número anterior, o preço a pagar pelo armazenamento de reservas de segurança em regime de acesso negociado deve corresponder à remuneração do ativo líquido de subsídios e comparticipações, nos termos aplicáveis ao regime de acesso regulado, tal como previsto na regulamentação da ERSE.
+
+8 - O operador de armazenamento subterrâneo em regime de acesso negociado procede à consulta dos utilizadores da rede e publicita, até 1 de janeiro de cada ano, as principais condições comerciais aplicáveis aos contratos de acesso negociado de terceiros a essas instalações ou serviços auxiliares.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 24.º-B — Separação jurídica das atividades de armazenamento subterrâneo em regime de acesso regulado e negociado
+
+1 - Para assegurar a separação das atividades de armazenamento subterrâneo em regime de acesso regulado e negociado prevista na alínea e) do n.º 5 do artigo 24.º-A, os operadores de armazenamento subterrâneo em determinado regime de acesso não podem deter diretamente ou por intermédio de empresa por eles controlada participações no capital social de empresas que exerçam atividades de armazenamento noutro regime de acesso, assim como os respetivos gestores:
+
+a) Não podem integrar os órgãos sociais ou participar nas estruturas de empresas que exerçam atividades de armazenamento noutro regime de acesso;
+
+b) Estão impedidos de manter qualquer relação contratual ou profissional com empresas que tenham por atividade o armazenamento noutro regime de acesso ou de deter quaisquer interesses de natureza económica ou financeira nas mesmas empresas;
+
+c) Estão impedidos de receber, direta ou indiretamente, das empresas que tenham por atividade o armazenamento noutro regime de acesso qualquer remuneração ou benefício financeiro.
+
+2 - Os operadores de armazenamento subterrâneo em regime de acesso regulado que pertençam a um grupo de empresas onde se incluam também operadores que exerçam a atividade de armazenamento subterrâneo em regime de acesso negociado devem dispor de poder de decisão efetivo e independente do respetivo grupo empresarial no que respeita aos ativos necessários para manter, explorar ou desenvolver as instalações de armazenamento, sem prejuízo de:
+
+a) Existência de mecanismos de coordenação adequados para assegurar a proteção dos direitos de supervisão económica e de gestão do grupo de empresas no que respeita à rentabilidade dos ativos do operador de armazenamento subterrâneo, nos termos regulamentados pela ERSE;
+
+b) Aprovação pelo grupo de empresas do plano financeiro anual, ou instrumento equivalente, do operador de armazenamento subterrâneo e estabelecimento de limites globais para os níveis de endividamento desse operador, sendo, contudo, excluídas as instruções relativamente à exploração diária ou às decisões específicas sobre a construção ou o melhoramento das instalações que não excedam os termos do plano financeiro aprovado, ou instrumento equivalente.
+
+3 - A remuneração dos gestores dos operadores de armazenamento subterrâneo em regime de acesso regulado referidos no número anterior não pode depender das atividades ou resultados das referidas empresas do grupo que exerçam a atividade de armazenamento subterrâneo em regime de acesso negociado.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+##### Subsecção IV — Relacionamento comercial
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 25.º — Relacionamento dos operadores da RNTIAT
+
+1 - Os operadores da RNTIAT relacionam-se comercialmente com os utilizadores das respetivas infraestruturas, tendo direito a receber, pela utilização destas e pela prestação dos serviços inerentes, uma retribuição por aplicação de tarifas e preços, nos termos do número seguinte.
+
+2 - As tarifas e preços devidos pela utilização de infraestruturas e prestação de serviços são regulados e definidos no Regulamento Tarifário, com exceção do armazenamento subterrâneo no regime de acesso negociado de terceiros, em que as tarifas de acesso e preços são negociados livremente.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+##### Subsecção V — Planeamento
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2010-10-27
+
+###### Artigo 26.º — Planeamento da RNTIAT
+
+1 - O planeamento da RNTIAT deve prever medidas destinadas a assegurar a existência de capacidade das infraestruturas, o desenvolvimento adequado e eficiente da rede e a segurança do abastecimento e deve ter em conta as disposições e os objetivos previstos no Regulamento (CE) n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, no âmbito do mercado interno do gás natural.
+
+2 - Para efeitos do disposto no número anterior, o operador da RNTGN deve elaborar, de dois em dois anos, ou anualmente, caso esteja sujeito às regras previstas na subsecção ii da presente secção, com base no relatório anual de monitorização da segurança do abastecimento e tendo em conta as propostas de plano de desenvolvimento e investimento (PDIR) elaboradas pelos operadores da RNTIAT e RNDGN, um plano decenal indicativo de desenvolvimento e investimento da RNTIAT (PDIRGN), que inclua:
+
+a) Informação sobre as infraestruturas a construir ou modernizar no decénio seguinte;
+
+b) Indicação dos investimentos que o operador da RNTGN tenha já decidido efetuar e, de entre destes, aqueles a realizar nos três anos seguintes;
+
+c) O calendário dos projetos de investimento.
+
+3 - (Revogado.)
+
+4 - O membro do Governo responsável pela área da energia aprova o PDIRGN, após parecer da ERSE e submissão a consulta pública e discussão na Assembleia da República, nos termos definidos em legislação complementar.
+
+5 - O procedimento de elaboração do PDIRGN é definido em legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+#### Secção III — Exploração das redes de distribuição de gás natural
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+##### Subsecção I — Regime de exercício, composição e operação
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 27.º — Regime de exercício
+
+1 - A actividade de distribuição de gás natural é exercida em regime de concessão ou de licença de serviço público, mediante a exploração das respectivas infra-estruturas que, no seu conjunto, integram a exploração da RNDGN.
+
+2 - As concessões da RNDGN são atribuídas mediante contratos outorgados pelo membro do Governo responsável pela área da energia, em representação do Estado.
+
+3 - As bases das concessões da RNDGN, bem como os procedimentos para a sua atribuição, são estabelecidas em legislação complementar.
+
+4 - As licenças de distribuição de serviço público, bem como os procedimentos para a sua atribuição, são estabelecidas em legislação complementar.
+
+5 - O disposto nos números anteriores não prejudica o exercício da atividade de distribuição de gás natural para utilização privativa ou em redes de distribuição fechada, nos termos a definir em legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 28.º — Composição das redes de distribuição
+
+1 - As redes de distribuição compreendem, nomeadamente, as condutas, as válvulas de seccionamento, os postos de redução de pressão, os aparelhos e os acessórios.
+
+2 - Os bens referidos no número anterior são identificados nas bases da respectiva concessão ou nos termos da atribuição da licença.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 29.º — Operação da rede de distribuição
+
+1 - A atividade de distribuição integra a operação da respetiva rede de distribuição.
+
+2 - A operação da rede de distribuição é realizada pelo operador da rede de distribuição e está sujeita às disposições do Regulamento de Operação das Infra-Estruturas.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 30.º — Operador de rede de distribuição
+
+1 - O operador de rede de distribuição é uma entidade concessionária da RNDGN ou titular de uma licença de distribuição.
+
+2 - Os deveres do operador de rede de distribuição são estabelecidos em legislação complementar.
+
+3 - As concessionárias ou titulares de licenças de distribuição podem assumir, nos termos a prever na regulamentação da ERSE, obrigações de compensação das respetivas redes de distribuição.
+
+4 - Salvo nos casos previstos no presente decreto-lei, o operador de rede de distribuição não pode adquirir gás natural para comercialização.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 31.º — Separação jurídica da actividade de distribuição
+
+1 - O operador de rede de distribuição é independente, no plano jurídico, da organização e da tomada de decisões de outras atividades não relacionadas com a distribuição.
+
+2 - De forma a assegurar a independência prevista no número anterior, devem ser garantidos os seguintes critérios mínimos:
+
+a) Os gestores do operador de rede de distribuição não podem integrar os órgãos sociais nem participar nas estruturas de empresas que exerçam uma outra atividade de gás natural;
+
+b) Os interesses profissionais dos gestores referidos na alínea anterior devem ficar devidamente salvaguardados de forma a assegurar a sua independência;
+
+c) (Revogada).
+
+d) O operador de rede de distribuição deve dispor de um código ético de conduta relativo à independência funcional da respetiva operação da rede e proceder à sua publicitação;
+
+e) O operador da rede de distribuição deve diferenciar a sua imagem e comunicação das restantes entidades que atuam no âmbito do SNGN, nos termos estabelecidos no Regulamento de Relações Comerciais;
+
+f) O operador de rede de distribuição não pode, diretamente ou por intermédio de empresa por si controlada, deter uma participação no capital social de empresas que exerçam outra atividade de gás natural.
+
+3 - Para efeitos do disposto na alínea b) do número anterior, os gestores do operador de rede de distribuição:
+
+a) Estão impedidos de manter qualquer relação contratual ou profissional com empresas que exerçam outra atividade no setor do gás natural ou de deter quaisquer interesses de natureza económica ou financeira nas mesmas empresas;
+
+b) Estão impedidos de receber, direta ou indiretamente, das empresas que exerçam outra atividade no setor do gás natural qualquer remuneração ou benefício financeiro;
+
+c) Têm o direito de reclamar junto da ERSE quando entendam que a cessação antecipada dos respetivos contratos ou mandatos não foi justificada, tendo a decisão proferida pela ERSE sobre esta questão caráter vinculativo.
+
+4 - O operador de rede de distribuição que pertença a uma empresa verticalmente integrada deve dispor dos recursos necessários, designadamente humanos, técnicos, financeiros e materiais, para explorar, manter e desenvolver a rede, assim como deve dispor de poder de decisão, exercido em termos efetivos e independentes da empresa verticalmente integrada, no que respeita aos ativos necessários para manter, explorar ou desenvolver a rede.
+
+5 - O disposto no número anterior não obsta a que:
+
+a) Existam mecanismos de coordenação adequados para assegurar a proteção dos direitos de supervisão económica e de gestão da empresa verticalmente integrada no que respeita à rentabilidade dos ativos do operador, nos termos regulamentados pela ERSE;
+
+b) A empresa verticalmente integrada aprove o plano financeiro anual, ou instrumento equivalente, do operador e estabeleça limites globais para os níveis de endividamento desse operador.
+
+6 - Sem prejuízo do disposto na alínea b) do número anterior, a empresa verticalmente integrada não pode dar instruções relativamente à exploração diária ou às decisões específicas sobre a construção ou o melhoramento das instalações que não excedam os termos do plano financeiro aprovado, ou instrumento equivalente.
+
+7 - A remuneração dos gestores do operador referido no n.º 4 não pode depender, direta ou indiretamente, das atividades ou resultados das empresas que integram a empresa verticalmente integrada e que tenham por atividade a produção ou comercialização de gás natural.
+
+8 - Sem prejuízo da separação contabilística das atividades, a separação jurídica prevista no presente artigo e a forma de comunicação prevista na alínea e) do n.º 2 não são exigidas aos distribuidores que sirvam um número de clientes inferior a 100 000.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 31.º-A — Programa de conformidade dos operadores das redes de distribuição
+
+1 - Os operadores das redes de distribuição que pertençam a empresas verticalmente integradas e que sirvam um número de clientes igual ou superior a 100 000 devem elaborar um programa de conformidade que contemple as medidas adoptadas para excluir comportamentos discriminatórios.
+
+2 - O programa de conformidade referido no número anterior deve incluir medidas para verificação do seu cumprimento e o código ético de conduta previsto na alínea d) do n.º 2 do artigo anterior.
+
+3 - A elaboração do programa de conformidade, bem como o acompanhamento da sua execução, é da responsabilidade da entidade designada pelo operador de rede de distribuição.
+
+4 - A entidade responsável pela elaboração e acompanhamento da execução do programa de conformidade deve ser totalmente independente e ter acesso a todas as informações necessárias do operador de rede de distribuição e de quaisquer empresas coligadas para o cumprimento das suas funções.
+
+5 - O programa de conformidade é previamente submetido à aprovação da ERSE.
+
+6 - A entidade responsável pela elaboração e acompanhamento da execução do programa de conformidade apresenta à ERSE um relatório anual que deve ser publicitado nos sítios na Internet da ERSE e do respetivo operador da rede de distribuição.
+
+7 - Os termos e a forma a que deve obedecer o programa de conformidade e os relatórios de acompanhamento da sua execução, bem como a sua publicitação, constam do Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 32.º — Qualidade de serviço
+
+A prestação do serviço de distribuição aos clientes ligados às redes de distribuição deve obedecer a padrões de qualidade de serviço estabelecidos no Regulamento da Qualidade de Serviço.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+##### Subsecção II — Ligação e acesso às redes de distribuição
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 33.º — Ligação às redes de distribuição
+
+1 - A ligação da rede de transporte e das infra-estruturas de consumo às redes de distribuição, bem como entre estas, deve ser efectuada em condições técnica e economicamente adequadas, nos termos estabelecidos no Regulamento da Qualidade de Serviço, no Regulamento de Relações Comerciais, no Regulamento da Rede de Distribuição e no Regulamento de Operação das Infra-Estruturas.
+
+2 - A responsabilidade pelos encargos com a ligação às redes de distribuição é estabelecida nos termos previstos no Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 34.º — Acesso às redes de distribuição
+
+Os operadores das redes de distribuição devem proporcionar aos interessados, de forma não discriminatória e transparente, o acesso às suas redes, baseado em tarifas aplicáveis a todos os clientes, nos termos do Regulamento de Acesso às Redes, às Infra-Estruturas e às Interligações.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+##### Subsecção III — Relacionamento comercial
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 35.º — Relacionamento das concessionárias e licenciadas das redes de distribuição
+
+As concessionárias e licenciadas das redes de distribuição relacionam-se comercialmente com os utilizadores das respectivas infra-estruturas, tendo direito a receber, pela utilização destas e pela prestação dos serviços inerentes, uma retribuição por aplicação de tarifas reguladas, definidas no Regulamento Tarifário.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+##### Subsecção IV — Planeamento das redes de distribuição
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 36.º — Planeamento da RNDGN
+
+1 - O planeamento da RNDGN deve assegurar a existência de capacidade nas redes para a receção e entrega de gás natural, com níveis adequados de qualidade de serviço e de segurança, e o seu desenvolvimento adequado e eficiente, no âmbito do mercado interno de gás natural.
+
+2 - Para efeitos do disposto no número anterior, os operadores da RNDGN devem elaborar, de dois em dois anos, e em articulação com o operador da RNTGN e com a DGEG, um plano quinquenal de desenvolvimento e investimento das redes de distribuição (PDIRD), com base na caracterização técnica das redes e na oferta e procura, atuais e previstas, aferidas com base na análise do mercado.
+
+3 - Os PDIRD devem ter em conta na sua elaboração o objetivo de facilitar o desenvolvimento de medidas de gestão da procura e estar coordenados com o PDIRGN, nos termos definidos em legislação complementar.
+
+4 - (Revogado).
+
+5 - O membro do Governo responsável pela área da energia aprova o PDIRD, após parecer da ERSE e do operador da RNTGN, submissão a consulta pública e discussão na Assembleia da República, nos termos definidos em legislação complementar.
+
+6 - (Revogado).
+
+7 - O procedimento de elaboração dos PDIRD é definido em legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+##### Subsecção V — Redes de distribuição fechadas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 36.º-A — Redes de distribuição fechadas
+
+1 - Considera-se 'rede de distribuição fechada' uma rede que se integre em domínios ou infra-estruturas excluídas do âmbito das concessões de distribuição de gás natural, nomeadamente uma rede que distribua gás natural no interior de um sítio industrial, comercial ou de serviços partilhados, geograficamente circunscritos, caminhos de ferro, portos, aeroportos e parques de campismo, e preencha um dos seguintes requisitos:
+
+a) Por razões técnicas ou de segurança específicas, as operações ou o processo de produção dos utilizadores desta rede estejam integrados;
+
+b) A rede distribuir gás natural essencialmente ao proprietário ou ao operador da rede ou a empresas ligadas a estes.
+
+2 - Os termos da classificação e estabelecimento de uma rede de distribuição fechada e a disciplina da sua exploração são estabelecidos em portaria dos membros dos Governo responsáveis pela área da energia e pela área sectorial respectiva, ouvida a ERSE.
+
+3 - Sem prejuízo do estabelecido no número seguinte, as tarifas de acesso de terceiros às redes fechadas são estabelecidas pelos seus proprietários ou operadores, não estando sujeitas aos requisitos estabelecidos para a aprovação das tarifas reguladas pela ERSE.
+
+4 - Caso um utilizador de uma rede fechada não concorde, por falta de transparência e razoabilidade, com as tarifas de acesso ou as suas metodologias, pode solicitar a intervenção da ERSE para analisar e, caso necessário, fixar as tarifas segundo as metodologias a estabelecer por esta entidade nos seus regulamentos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), em vigor a partir de 2011-06-21
+
+#### Secção IV — Comercialização de gás natural
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+##### Subsecção I — Regime do exercício
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 37.º — Regime do exercício
+
+1 - O exercício da actividade de comercialização de gás natural é livre, ficando sujeito a registo prévio, nos termos estabelecidos na lei.
+
+2 - O exercício da actividade de comercialização de último recurso está sujeito a licença.
+
+3 - O exercício da actividade de comercialização de gás natural consiste na compra e venda de gás natural, para comercialização a clientes finais ou outros agentes, através da celebração de contratos bilaterais ou da participação em mercados organizados.
+
+Artigo 38.º
+
+4 - A comercialização de gás natural deve obedecer às condições estabelecidas no presente decreto-lei, em legislação complementar, no Regulamento de Relações Comerciais e no Regulamento da Qualidade de Serviço.
+
+5 - O fornecimento de gás natural, salvo casos fortuitos ou de força maior, só pode ser interrompido por razões de interesse público, de serviço ou de segurança, ou por facto imputável ao cliente ou a terceiros, nos termos previstos no Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 37.º-A — Reconhecimento de comercializadores
+
+1 - No âmbito do funcionamento de mercados constituídos ao abrigo de acordos internacionais de que o Estado Português seja parte, o reconhecimento da qualidade de comercializador por uma das partes significa o reconhecimento pela outra, nos termos previstos nos respectivos acordos.
+
+2 - Compete à DGEG efectuar o registo dos comercializadores reconhecidos nos termos do número anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 38.º — Separação jurídica da actividade
+
+A actividade de comercialização de gás natural é separada juridicamente das restantes actividades.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 38.º-A — Direitos e deveres dos comercializadores em regime de mercado
+
+1 - Constituem direitos do comercializador registado, nomeadamente, os seguintes:
+
+a) Transacionar gás natural através de contratos bilaterais com outros agentes do mercado de gás natural ou através dos mercados organizados desde que cumpra os requisitos para acesso a estes mercados;
+
+b) Ter acesso às redes, e às interligações, nos termos legalmente estabelecidos, para entrega de gás natural aos respetivos clientes;
+
+c) Contratar livremente a venda de gás natural com os seus clientes.
+
+2 - Constituem deveres do comercializador, nomeadamente, os seguintes:
+
+a) Apresentar propostas de fornecimento de gás natural para as quais disponha de oferta a todos os clientes que o solicitem, nos termos previstos no Regulamento de Relações Comerciais, com respeito pelos princípios estabelecidos na legislação da concorrência;
+
+b) Entregar eletricidade às redes para o fornecimento aos seus clientes de acordo com a planificação prevista e cumprindo a regulamentação aplicável;
+
+c) Colaborar na promoção das políticas de eficiência energética e de gestão da procura nos termos legalmente estabelecidos;
+
+d) Assegurar a constituição e manutenção de reservas de segurança de gás natural, nos termos previstos em legislação complementar;
+
+e) Prestar a informação devida aos clientes, nomeadamente sobre as ofertas mais apropriadas ao seu perfil de consumo;
+
+f) Emitir faturação discriminada de acordo com as normas aplicáveis;
+
+g) Proporcionar aos seus clientes meios de pagamento diversificados, não discriminando entre clientes;
+
+h) Não discriminar entre clientes e praticar nas suas operações transparência comercial;
+
+i) Manter o registo de todas as operações comerciais, cumprindo os requisitos legais de manutenção de bases de dados, durante um prazo mínimo de cinco anos, com sujeição a auditoria, nos termos estabelecidos no Regulamento de Relações Comerciais;
+
+j) Prestar informações à DGEG e à ERSE sobre consumos, número de clientes, preços e condições de venda para os diversos segmentos ou bandas de consumo, nas diversas categorias de clientes, com salvaguarda das regras de confidencialidade;
+
+k) Manter a capacidade técnica, legal e financeira necessárias para o exercício da função.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+##### Subsecção II — Relacionamento comercial
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 39.º — Relacionamento dos comercializadores de gás natural
+
+1 - Os comercializadores de gás natural podem contratar o gás natural necessário ao abastecimento dos seus clientes, através da celebração de contratos bilaterais ou através da participação em mercados organizados.
+
+2 - Os comercializadores de gás natural relacionam-se comercialmente com os operadores das redes e demais infra-estruturas da RNTIAT, às quais estão ligadas as infra-estruturas dos seus clientes, assumindo a responsabilidade pelo pagamento das tarifas de uso das redes e outros serviços, bem como pela prestação das garantias contratuais legalmente estabelecidas.
+
+3 - O relacionamento comercial com os clientes decorre da celebração de um contrato de compra e venda de gás natural, que deve observar as disposições estabelecidas no Regulamento de Relações Comerciais.
+
+4 - Os comercializadores de gás natural podem exigir aos seus clientes, nos termos da lei, a prestação de caução a seu favor, para garantir o cumprimento das obrigações decorrentes do contrato de compra e venda de gás natural.
+
+5 - Compete aos comercializadores de gás natural exercer as funções associadas ao relacionamento comercial, nomeadamente a facturação da energia fornecida e a respectiva cobrança, bem como o cumprimento dos deveres de informação relativos às condições de prestação de serviço, na observância do Regulamento de Relações Comerciais e do Regulamento da Qualidade de Serviço.
+
+6 - Constitui obrigação dos comercializadores de gás natural a manutenção de um registo actualizado dos seus clientes e das reclamações por eles apresentadas.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 39.º-A — Relações com os clientes
+
+1 - O contrato de fornecimento de gás natural está sujeito à forma escrita, devendo especificar os elementos e conter as garantias estabelecidas em legislação complementar.
+
+2 - (Revogado).
+
+3 - As informações sobre as condições contratuais devem ser sempre prestadas antes da celebração do contrato.
+
+4 - As condições gerais devem ser equitativas e transparentes e ser redigidas em linguagem clara e compreensível, assegurando aos clientes escolha quanto aos métodos de pagamento, em conformidade com a legislação vigente que regula o regime aplicável às práticas comerciais desleais das empresas nas relações com os consumidores.
+
+5 - Qualquer diferença nos termos e condições de pagamento dos contratos com os clientes deve reflectir os custos dos diferentes sistemas de pagamento para o comercializador.
+
+6 - Os clientes não podem ser obrigados a efectuar qualquer pagamento por mudarem de comercializador.
+
+7 - Os clientes devem ser notificados, nos termos previsto no Regulamento de Relações Comerciais, de qualquer intenção de alterar as condições contratuais e informados do seu direito de denúncia quando da notificação.
+
+8 - Os comercializadores devem notificar os seus clientes de qualquer aumento dos encargos resultante de alteração de condições contratuais, previamente à entrada em vigor do aumento, podendo os clientes denunciar de imediato os contratos se não aceitarem as novas condições que lhes sejam notificadas pelos respetivos comercializadores.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 39.º-B — Informação sobre preços
+
+1 - Os comercializadores ficam obrigados a enviar à ERSE, anualmente e sempre que ocorram alterações, a tabela de preços de referência que se propõem praticar no âmbito da comercialização de gás natural, bem como as suas alterações, nos termos a regulamentar por esta entidade.
+
+2 - Os comercializadores ficam ainda obrigados a:
+
+a) Publicitar os preços de referência que praticam designadamente nos seus sítios na Internet e em conteúdos promocionais;
+
+b) Enviar à ERSE semestralmente os preços praticados nos meses anteriores.
+
+3 - A publicitação referida no número anterior deve permitir aos clientes conhecer as diversas opções de preço existentes, permitindo-lhes optar, em cada momento, pelas melhores condições oferecidas no mercado.
+
+4 - A informação prevista no presente artigo fica sujeita a supervisão da ERSE, ficando os comercializadores obrigados a facultar-lhe toda a documentação necessária e o acesso directo aos registos que suportam esta informação.
+
+5 - Os comercializadores ficam ainda obrigados a enviar à DGEG, com a periodicidade prevista na lei, informação relativa aos preços médios praticados, consumos e número de clientes, bem como às componentes dos referidos preços e respetivos encargos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), em vigor a partir de 2011-06-21
+
+##### Subsecção III — Comercializador de último recurso
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 40.º — Exercício da atividade de comercialização de último recurso
+
+1 - Considera-se 'comercializador de último recurso' aquele que estiver sujeito a obrigações de serviço público, nos termos previstos na presente subsecção, em legislação complementar e na respetiva licença.
+
+2 - (Revogado.)
+
+3 - Os comercializadores de último recurso retalhistas são os titulares de licenças de comercialização de último recurso responsáveis pelo fornecimento de gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3, nos termos do artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, enquanto vigorarem as tarifas reguladas ou as tarifas transitórias legalmente estabelecidas, e, após a extinção destas, aos clientes finais economicamente vulneráveis, nos termos do artigo 5.º do mesmo diploma.
+
+4 - (Revogado.)
+
+5 - Considera-se 'comercializador de último recurso grossista' aquele que exerce a atividade de compra e venda de gás natural ao comercializador do SNGN, previsto em legislação complementar, para fornecimento aos comercializadores de último recurso retalhistas.
+
+6 - Os comercializadores de último recurso retalhistas são ainda responsáveis por fornecer gás natural aos clientes cujo comercializador em regime de mercado tenha ficado impedido de exercer a sua atividade, bem como por assegurar o fornecimento de gás natural em locais onde não exista oferta dos comercializadores de gás natural em regime de mercado, nos termos a definir em legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 74/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), em vigor a partir de 2012-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), em vigor a partir de 2010-06-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2010 - Diário da República n.º 112/2010, Série I de 2010-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465)
+
+###### Artigo 41.º — Separação jurídica da actividade de comercializador de último recurso
+
+1 - As atividades de comercialização de gás natural de último recurso em regime grossista e retalhista são separadas juridicamente das restantes atividades do SNGN, incluindo outras formas de comercialização, sendo exercidas segundo critérios de independência definidos na lei e no Regulamento de Relações Comerciais.
+
+2 - A separação referida no número anterior não se aplica enquanto a qualidade de comercializador de último recurso for atribuída ao distribuidor que se encontre nas condições do n.º 6 do artigo 31.º
+
+3 - Os comercializadores de último recurso devem diferenciar a sua imagem e comunicação das restantes entidades que atuam no SNGN.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 42.º — Obrigação de fornecimento de gás natural
+
+1 - (Revogado).
+
+2 - A comercialização de gás natural deve obedecer às condições estabelecidas no presente decreto-lei, no Regulamento Tarifário, no Regulamento de Relações Comerciais e no Regulamento da Qualidade de Serviço.
+
+3 - O fornecimento, salvo casos fortuitos ou de força maior, só pode ser interrompido por razões de interesse público, de serviço ou de segurança, ou por facto imputável ao cliente ou a terceiros, nos termos previstos no Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), em vigor a partir de 2010-06-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2010 - Diário da República n.º 112/2010, Série I de 2010-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465)
+
+###### Artigo 43.º — Relacionamento comercial do comercializador de último recurso grossista e dos comercializadores de último recurso retalhistas
+
+1 - Com vista a garantir o abastecimento necessário à satisfação dos contratos com clientes finais, o comercializador de último recurso grossista deve adquirir as quantidades de gás natural que lhe sejam solicitadas pelos comercializadores de último recurso retalhistas, nos termos previstos em legislação complementar, assegurando que o respetivo preço seja o mais baixo de entre os praticados na data da aquisição.
+
+2 - O comercializador de último recurso grossista deve prestar à ERSE as informações necessárias à aferição do disposto no n.º 1, nos termos a estabelecer no Regulamento Tarifário.
+
+3 - (Revogado.)
+
+4 - Os comercializadores de último recurso retalhistas aplicam a clientes finais com consumos anuais iguais ou inferiores a 10 000 m3, a título transitório, as tarifas transitórias de venda previstas no artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, e, de forma contínua, aos clientes economicamente vulneráveis, a tarifa social de fornecimento de gás natural prevista no artigo 3.º do Decreto-Lei n.º 101/2011, de 30 de setembro, conforme publicadas pela ERSE, de acordo com o estabelecido no Regulamento Tarifário.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 74/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), em vigor a partir de 2012-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), em vigor a partir de 2010-06-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2010 - Diário da República n.º 112/2010, Série I de 2010-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465)
+
+#### Secção V — Gestão de mercados organizados
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 44.º — Regime de exercício
+
+1 - O exercício da atividade de gestão de mercado organizado de gás natural é livre, ficando sujeita a autorização, em termos a definir em legislação complementar.
+
+2 - O exercício da atividade de gestão de mercado organizado é da responsabilidade do operador de mercado, de acordo com o estabelecido em legislação complementar, sem prejuízo das disposições legais em matéria de instituições financeiras que sejam aplicáveis aos mercados em que se realizem operações a prazo.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 45.º — Deveres dos operadores de mercados
+
+Os deveres do operador de mercado organizado são estabelecidos em legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 46.º — Integração da gestão de mercados organizados
+
+A gestão de mercados organizados integra-se no âmbito do funcionamento dos mercados constituídos ao abrigo de acordos internacionais celebrados entre o Estado Português e outros Estados membros da União Europeia.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo III — Consumidores
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 47.º — Direitos dos consumidores
+
+3 - Os contratos de fornecimento de gás natural devem integrar informações sobre os direitos dos consumidores, incluindo sobre o tratamento de reclamações, as quais devem ser comunicadas de forma clara e de fácil compreensão, nomeadamente através das páginas na Internet dos comercializadores, bem como especificar se a sua denúncia importa ou não o pagamento de encargos.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - A especificação dos direitos dos consumidores e dos respetivos mecanismos e procedimentos de apoio é estabelecida em legislação e regulamentação complementares.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 48.º — Direitos de informação
+
+1 - Sem prejuízo do disposto nas Leis n.os 24/96, de 31 de Julho, alterada pelo Decreto-Lei n.º 67/2003, de 8 de Abril, e 23/96, de 26 de Julho, alterada pelas Leis n.os 12/2008, de 26 de Fevereiro, e 6/2011, de 10 de Março, os consumidores, ou os seus representantes, têm direito a:
+
+a) Informação não discriminatória e adequada às suas condições específicas, em particular no que respeita aos clientes finais economicamente vulneráveis;
+
+b) Informação completa e adequada de forma a permitir a sua participação nos mercados de gás natural;
+
+c) Informação, de forma transparente e não discriminatória, sobre preços e tarifas aplicáveis e condições normais de acesso e utilização dos serviços energéticos;
+
+d) Informação completa e adequada de forma a promover a eficiência energética;
+
+e) Acesso atempado a toda a informação de carácter público, de uma forma clara e objectiva, capaz de permitir a liberdade de escolha sobre as melhores opções de fornecimento;
+
+f) Consulta prévia sobre todos os atos que possam vir a modificar o conteúdo dos seus direitos;
+
+g) Acesso aos seus dados de consumo.
+
+2 - Os comercializadores e operadores das redes de distribuição de gás natural devem fornecer aos seus clientes, nos termos e na forma estabelecidos no Regulamento de Relações Comerciais, o catálogo ou a lista dos direitos dos consumidores de energia nos termos aprovados pela Comissão Europeia.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 49.º — Deveres dos consumidores
+
+Os deveres dos consumidores de gás natural são estabelecidos em legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+### Capítulo IV — Regulação
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+#### Secção I — Disposições e atribuições gerais
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 50.º — Finalidade da regulação do SNGN
+
+A regulação do SNGN tem por finalidade contribuir para assegurar a eficiência e a racionalidade das actividades em termos objectivos, transparentes, não discriminatórios e concorrenciais, através da sua contínua supervisão e acompanhamento, integrada nos objectivos da realização do mercado interno do gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 51.º — Actividades sujeitas a regulação
+
+1 - As actividades de recepção, armazenamento e regaseificação de GNL e de armazenamento subterrâneo, transporte, distribuição e comercialização de gás natural, bem como as de operação logística de mudança de comercializador e de gestão de mercados organizados, estão sujeitas a regulação, sem prejuízo do disposto nos números seguintes.
+
+2 - A regulação a que se refere o número anterior é atribuída à Entidade Reguladora dos Serviços Energéticos (ERSE), sem prejuízo das competências atribuídas à Direcção-Geral de Geologia e Energia (DGGE), à Autoridade da Concorrência, à Comissão do Mercado de Valores Mobiliários e a outras entidades administrativas, no domínio específico das suas atribuições.
+
+3 - A regulação exerce-se nos termos e com os limites previstos no presente decreto-lei e na legislação que define as competências das entidades referidas no número anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 51.º-A — Objectivos gerais da regulação da ERSE
+
+A regulação do sector do gás natural pela ERSE visa a prossecução dos seguintes objectivos:
+
+a) Promoção, em colaboração com a Agência de Cooperação dos Reguladores da Energia, com as entidades reguladoras de outros Estados membros e com a Comissão Europeia, de um mercado interno do gás natural concorrencial, seguro e ecologicamente sustentável, incluindo a abertura efectiva do mercado a todos os consumidores, e zelar pela existência de condições que permitam que as redes de gás natural do SNGN funcionem de forma eficaz e fiável;
+
+b) Desenvolvimento de mercados regionais concorrenciais e com elevado nível de funcionamento na União Europeia;
+
+c) Supressão das restrições ao comércio de gás natural, incluindo o desenvolvimento das capacidades adequadas de transporte transfronteiriço para satisfazer a procura e reforçar a integração dos mercados nacionais que possa facilitar o fluxo de gás natural através da União Europeia;
+
+d) Garantia, de forma adequada e racional, do desenvolvimento de redes seguras, fiáveis, eficientes e não discriminatórias, orientadas para o consumidor, tendo presente os objectivos gerais da política energética;
+
+e) Garantia que os operadores das redes do SNGN recebem incentivos adequados para aumentar a eficiência das redes e promover a integração do mercado;
+
+f) Garantia de que os clientes beneficiam do funcionamento eficiente do mercado, através da promoção de uma concorrência efectiva e da garantia de protecção dos consumidores;
+
+g) Contribuição para alcançar padrões elevados de serviço público de abastecimento de gás natural, para a proteção dos clientes finais economicamente vulneráveis ou em zonas afastadas e para a mudança de comercializador;
+
+h) Contribuição para a emergência de mercados retalhistas transparentes e eficientes, designadamente através da adopção de regulamentação respeitante a disposições contratuais, compromissos com clientes, intercâmbio de dados, posse de dados, responsabilidade de medição de energia e liquidação das transacções;
+
+i) Garantia do acesso dos clientes e comercializadores às redes, bem como o direito dos grandes clientes de celebrar contratos simultaneamente com diversos comercializadores.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 52.º — Competências de regulação da ERSE no âmbito do SNGN
+
+1 - Sem prejuízo das atribuições e competências previstas nos seus Estatutos, em regulamentos europeus e na lei, a ERSE exerce as seguintes competências de regulação do SNGN:
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) Exercer as funções que lhe são atribuídas pela legislação comunitária no âmbito do mercado interno da energia, designadamente no mercado ibérico e nos mercados regionais de que Portugal faça parte;
+
+g) Cumprir e aplicar as decisões vinculativas da Comissão Europeia e da Agência de Cooperação dos Reguladores de Energia;
+
+h) Supervisionar o nível de transparência do mercado, incluindo os preços, a existência de subvenções cruzadas entre atividades, a qualidade de serviço, a ocorrência de práticas contratuais restritivas, o tempo em que os operadores das redes demoram a executar as ligações e reparações, assim como a aplicação de regras relativas às atribuições dos operadores das redes;
+
+i) Relatar anualmente a sua atividade e o cumprimento das suas obrigações à Assembleia da República, ao Governo, à Comissão Europeia e à Agência de Cooperação dos Reguladores de Energia, devendo o relatório abranger as medidas adotadas e os resultados obtidos;
+
+j) Emitir decisões vinculativas sobre todas as empresas que atuam no âmbito do SNGN;
+
+k) Impor sanções efetivas nos termos do regime sancionatório previsto no artigo 70.º;
+
+l) Conduzir inquéritos, realizar auditorias, efetuar inspeções nas instalações das empresas e exigir-lhes toda a documentação de que necessite para o cumprimento da sua atividade;
+
+m) Atuar como autoridade para o tratamento das reclamações no âmbito do incumprimento dos seus regulamentos.
+
+2 - Quando, no âmbito do processo de certificação do operador da RNTGN, este for sujeito às obrigações previstas na subsecção ii da secção ii do capítulo ii, a regulação da ERSE tem ainda como objetivo, para além do disposto no n.º 1, monitorizar o cumprimento das obrigações do operador da RNTGN e da empresa verticalmente integrada e a relação entre ambos, no âmbito das competências que lhe são atribuídas por lei.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 53.º — Direito de acesso à informação
+
+1 - As entidades referidas no artigo 51.º têm o direito de obter dos intervenientes no SNGN a informação necessária ao exercício das suas competências específicas e ao conhecimento do mercado.
+
+2 - O disposto no número anterior inclui também o direito de acesso aos documentos de prestação de contas dos intervenientes no SNGN, com exceção dos consumidores de gás natural.
+
+3 - As entidades referidas no artigo 51.º preservam a confidencialidade das informações comercialmente sensíveis, podendo, no entanto, trocar entre si ou divulgar as informações que sejam necessárias ao exercício das suas funções.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 53.º-A — Separação contabilística
+
+1 - As empresas que exerçam atividades de receção, armazenamento e regaseificação de GNL e de armazenamento subterrâneo, transporte, distribuição e comercialização de gás natural, incluindo de último recurso, bem como as de operação logística de mudança de comercializador e de gestão de mercados organizados, devem, sem prejuízo das exigências constantes do presente decreto-lei em matéria de separação jurídica e independentemente da sua forma jurídica e regime de propriedade, elaborar, submeter a aprovação dos órgãos competentes e publicar as suas contas anuais, nos termos da legislação e regulamentação aplicável.
+
+2 - As empresas que não sejam legalmente obrigadas a publicar as suas contas anuais devem manter um exemplar dessas contas à disposição do público na sua sede social ou estabelecimento principal.
+
+3 - As empresas que não sejam legalmente obrigadas a ter um órgão de fiscalização devem submeter as respetivas contas anuais a um revisor oficial de contas para proceder à sua revisão legal, que deverá ser publicitada nos termos da legislação e regulamentação aplicável.
+
+4 - Na elaboração das suas contas anuais e na sua contabilidade interna, as empresas de gás natural devem, com o fim de evitar discriminações, subvenções cruzadas e distorções de concorrência, respeitar as seguintes regras de separação e organização contabilística:
+
+a) As contas devem estar separadas para cada uma das atividades de receção, armazenamento e regaseificação de GNL, de armazenamento subterrâneo, de transporte e de distribuição de gás natural nos mesmos termos em que a contabilidade seria organizada se estas atividades fossem exercidas por empresas distintas;
+
+b) As atividades do setor do gás não ligadas à receção, armazenamento e regaseificação de GNL, ao armazenamento subterrâneo, ao transporte e à distribuição de gás natural devem estar refletidas em contas próprias, que podem ser consolidadas;
+
+c) Os rendimentos provenientes da propriedade da RNTGN devem ser especificados nas contas;
+
+d) Outras atividades não ligadas ao setor do gás devem estar refletidas em contas próprias, que podem ser consolidadas se tal se mostrar adequado;
+
+e) A contabilidade interna deve incluir um balanço e uma conta de ganhos e perdas para cada atividade;
+
+f) Na sua contabilidade interna, as empresas devem especificar as regras de imputação dos elementos do ativo e do passivo, dos encargos e rendimentos, bem como da depreciação, sem prejuízo das normas contabilísticas aplicadas na elaboração das contas separadas;
+
+g) As regras referidas na alínea anterior só podem ser alteradas em casos excecionais, devendo tais alterações ser expressamente indicadas e fundamentadas;
+
+h) As contas anuais devem referir em notas quaisquer transações de importância não residual efetuadas com empresas coligadas.
+
+5 - A revisão legal das contas nos termos previstos nos n.os 1 e 3 deve verificar, em particular, a observância da obrigação de prevenir a discriminação e as subvenções cruzadas a que se refere o número anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 54.º — Dever de informação
+
+1 - A ERSE apresenta ao membro do Governo responsável pela área da energia, com a periodicidade estabelecida em legislação complementar, relatórios sobre o funcionamento do mercado de gás natural e sobre o grau de concorrência efetiva, indicando as medidas adotadas e a adotar tendo em vista o reforço da eficácia e eficiência deste mercado.
+
+2 - A ERSE faz publicar o relatório referido no número anterior e dele dá conhecimento à Assembleia da República e à Comissão Europeia.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+#### Secção II — Sistema tarifário
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 55.º — Princípios aplicáveis ao cálculo e à fixação das tarifas
+
+1 - O cálculo e a fixação das tarifas reguladas aplicáveis às diversas actividades, considerando como tal as tarifas de uso das redes, armazenamento e terminal de GNL, de uso global do sistema e de comercialização de último recurso, obedecem aos seguintes princípios:
+
+a) Igualdade de tratamento e de oportunidades;
+
+b) Uniformidade tarifária, de modo que o sistema tarifário se aplique universalmente a todos os clientes;
+
+c) Transparência na formulação e fixação das tarifas;
+
+d) Inexistência de subsidiações cruzadas entre actividades e entre clientes, através da adequação das tarifas aos custos e da adopção do princípio da aditividade tarifária;
+
+e) Transmissão dos sinais económicos adequados a uma utilização eficiente das redes e demais infra-estruturas do SNGN;
+
+f) Protecção dos clientes face à evolução das tarifas, assegurando, simultaneamente, o equilíbrio económico e financeiro às actividades reguladas em condições de gestão eficiente;
+
+g) Criação de incentivos ao desempenho eficiente das actividades reguladas das empresas;
+
+h) Contribuição para a promoção da eficiência energética e da qualidade ambiental.
+
+2 - O cálculo e a fixação das tarifas e preços regulados são da competência da ERSE, entrando em vigor após a sua publicação nos termos previstos no Regulamento Tarifário.
+
+3 - A fixação das tarifas e preços no âmbito do acesso negociado de terceiros ao armazenamento subterrâneo e serviços auxiliares e da comercialização de gás natural em regime de mercado a clientes finais são da responsabilidade dos operadores de armazenamento e dos comercializadores de mercado.
+
+4 - Na fixação referida no número anterior deve ter-se em conta os princípios estabelecidos no n.º 1 naquilo que não for incompatível com o regime de acesso negociado ou da comercialização de mercado, conforme o caso.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 56.º — Regulamento Tarifário
+
+1 - As regras e as metodologias para o cálculo e fixação das tarifas reguladas previstas no n.º 1 do artigo anterior, bem como a estrutura tarifária, são estabelecidas no Regulamento Tarifário
+
+2 - As disposições do Regulamento Tarifário devem adequar-se à organização e ao funcionamento do mercado interno de gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+### Capítulo V — Segurança do abastecimento
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 57.º — Monitorização da segurança do abastecimento
+
+1 - A monitorização da segurança do abastecimento é assegurada pelo Governo, através da DGEG, com a colaboração do operador da RNTGN, nos termos dos números seguintes e da legislação complementar.
+
+2 - A monitorização da segurança do abastecimento deve abranger, nomeadamente, o equilíbrio entre a oferta e a procura no mercado nacional, o nível de procura prevista e dos fornecimentos e das reservas disponíveis e a capacidade suplementar prevista ou em construção, bem como a qualidade e o nível de manutenção das infraestruturas e as medidas destinadas a fazer face a níveis extremos de procura e às falhas de um ou mais comercializadores.
+
+3 - A DGEG apresenta ao membro do Governo responsável pela área da energia, em data estabelecida em legislação complementar, uma proposta de relatório anual de monitorização, indicando, também, as medidas adotadas e a adotar tendo em vista reforçar a segurança de abastecimento do SNGN.
+
+4 - O Governo publicita o relatório anual previsto no número anterior até 31 de julho de cada ano, dando conhecimento do mesmo à Comissão Europeia e à ERSE.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 58.º — Reservas de segurança de gás natural
+
+1 - Os comercializadores em regime de mercado e os comercializadores de último recurso retalhistas estão sujeitos à obrigação de assegurar a constituição e manutenção de reservas de segurança para garantia de abastecimento dos seus clientes, nos termos do Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro, e da legislação complementar.
+
+2 - O regime da constituição de reservas de segurança e das condições da sua utilização é objecto de legislação complementar.
+
+3 - A utilização das reservas de segurança deve ter em consideração a legislação aplicável às crises energéticas e o Regulamento (UE) n.º 994/2010, do Parlamento Europeu e do Conselho, de 20 de outubro.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+### Capítulo VI — Prestação de informação
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 59.º — Deveres
+
+1 - Os intervenientes no SNGN devem prestar às entidades administrativas competentes e aos consumidores a informação prevista nos termos da regulamentação aplicável, designadamente no Regulamento do Acesso às Redes, às Infra-Estruturas e às Interligações, no Regulamento de Operação das Infra-Estruturas, no Regulamento da Qualidade de Serviço, no Regulamento da Rede de Transporte, no Regulamento da Rede de Distribuição, no Regulamento de Relações Comerciais e no Regulamento Tarifário, bem como nos respectivos contratos de concessão e títulos de licença.
+
+2 - Sem prejuízo do estabelecido no número anterior, a ERSE e a DGEG, no âmbito das atribuições desta de articulação com o Instituto Nacional de Estatística e nos termos previstos na Lei n.º 22/2008, de 13 de maio, podem solicitar aos intervenientes do SNGN as informações necessárias à caracterização do SNGN e ao exato conhecimento do mercado.
+
+3 - Os operadores e os comercializadores do SNGN devem comunicar às entidades administrativas competentes o início, a alteração ou a cessação da sua actividade, no prazo e nos termos dos respectivos contratos de concessão ou licenças.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 59.º-A — Manutenção de dados e informações relevantes
+
+1 - As empresas de gás natural estão obrigadas a manter à disposição da DGEG, da ERSE, da Autoridade da Concorrência e da Comissão Europeia, para cumprimento das respectivas obrigações e competências, todos os suportes contratuais e dados e informações relativos a todas as transacções relevantes de gás natural, nos termos estabelecidos no Regulamento de Relações Comerciais.
+
+2 - Para efeitos do número anterior, as empresas de gás natural estão obrigadas a manter os elementos aí previstos durante um período de, pelo menos, cinco anos, a fim de poderem ser facultados ou ser facilitado o acesso directo, para consulta ou auditoria.
+
+3 - A informação referida no n.º 1 deve especificar as características das transacções relevantes, tais como as relativas à duração, à entrega e à regularização, à quantidade e hora de execução, os preços de transacção e os meios para identificar o cliente grossista em causa, assim como elementos específicos de todos os contratos abertos de comercialização de gás natural.
+
+4 - A ERSE aprova regulamentos para definir os métodos e as disposições para a manutenção dos registos, assim como o formato e teor dos dados a manter, de acordo com as orientações adoptadas pela Comissão Europeia ao abrigo da Directiva n.º 2009/73/CE, do Parlamento Europeu e do Conselho, de 13 de Julho.
+
+5 - O disposto nos números anteriores é aplicável aos elementos específicos de todos os contratos de derivados de gás natural celebrados por comercializadores com clientes grossistas e com o operador da RNTGN, após aprovação pela Comissão Europeia das orientações referidas no número anterior.
+
+6 - A ERSE pode tornar pública a informação prevista no presente artigo, salvaguardando a informação considerada comercialmente sensível sobre intervenientes ou transacções em concreto, nos termos do Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+### Capítulo VII — Regiões Autónomas
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 60.º — Âmbito de aplicação do decreto-lei às Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das suas competências estatutárias em matéria de funcionamento, organização e regime das actividades nele previstas e de monitorização da segurança do abastecimento de gás natural.
+
+2 - Excetuam-se do âmbito de aplicação estabelecido no número anterior as disposições relativas a mercado organizado, bem como as disposições relativas à separação jurídica das atividades de transporte, distribuição e comercialização de gás natural.
+
+3 - Nas Regiões Autónomas dos Açores e da Madeira, as competências cometidas ao Governo da República, à DGGE e a outros organismos da administração central são exercidas pelos correspondentes membros do Governo Regional e pelos serviços e organismos das administrações regionais com idênticas atribuições e competências, sem prejuízo das competências da ERSE, da Autoridade da Concorrência e de outras entidades de actuação com âmbito nacional.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 61.º — Extensão da regulação às Regiões Autónomas
+
+1 - A regulação da ERSE exercida no âmbito do SNGN é extensiva às Regiões Autónomas.
+
+2 - A extensão das competências de regulação da ERSE às Regiões Autónomas assenta no princípio da partilha dos benefícios decorrentes da convergência do funcionamento do SNGN, nomeadamente em matéria de convergência tarifária e de relacionamento comercial.
+
+3 - A convergência do funcionamento do SNGN por via da regulação tem por finalidade, ao abrigo dos princípios da cooperação e da solidariedade do Estado, contribuir para a correcção das desigualdades das Regiões Autónomas resultantes da insularidade e do seu carácter ultraperiférico.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 62.º — Aplicação da regulamentação
+
+O Regulamento Tarifário, o Regulamento de Relações Comerciais, o Regulamento do Acesso às Redes, às Infra-Estruturas e às Interligações e o Regulamento da Qualidade de Serviço são aplicáveis às Regiões Autónomas dos Açores e da Madeira.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 63.º — Adaptação específica às Regiões Autónomas
+
+Nas Regiões Autónomas dos Açores e da Madeira, as bases das concessões e as condições de atribuição das licenças são aprovadas mediante acto legislativo regional dos seus órgãos competentes, tendo em conta os princípios estabelecidos no presente decreto-lei e legislação complementar sobre concessões e licenças.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+### Capítulo VIII — Regime transitório
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 64.º — Abertura do mercado
+
+A liberdade de escolha do comercializador de gás natural por parte dos clientes, referida na alínea g) do artigo 4.º do presente decreto-lei, é introduzida gradualmente, nos termos estabelecidos em legislação complementar e considerando a derrogação de que beneficia o mercado nacional de gás natural.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 65.º — Modificação do actual contrato de concessão da rede de alta pressão
+
+O actual contrato do serviço público de importação de gás natural e do seu transporte e fornecimento através da rede de alta pressão, celebrado entre o Estado e a Transgás, S. A., deve ser modificado por força das alterações decorrentes do presente decreto-lei e da legislação complementar, salvaguardando-se o princípio do equilíbrio contratual nos termos nele previstos.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 66.º — Concessões e licenças de distribuição de gás natural
+
+1 - As actuais concessões e licenças de distribuição de gás natural mantêm-se na titularidade das respectivas concessionárias e licenciadas, sem prejuízo do estabelecido nos números seguintes.
+
+2 - A exploração das concessões e das licenças de gás natural passa a processar-se nos termos do presente decreto-lei e da legislação complementar.
+
+3 - A modificação dos contratos decorrentes do presente decreto-lei deve ocorrer em prazo a definir em legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 67.º — Atribuição transitória da qualidade de comercializador de último recurso
+
+Sem prejuízo do disposto no artigo 41.º, é atribuída às entidades concessionárias ou detentoras de licenças de distribuição a qualidade de comercializador de último recurso dentro das respectivas áreas de concessão ou licença, nos termos da legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+### Capítulo IX — Disposições finais
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 68.º — Arbitragem
+
+1 - Os conflitos entre o Estado e as respectivas entidades concessionárias emergentes dos respectivos contratos podem ser resolvidos por recurso a arbitragem.
+
+2 - Os conflitos entre as entidades concessionárias e os demais intervenientes no SNGN, no âmbito das respectivas actividades, podem ser igualmente resolvidos por recurso a arbitragem.
+
+3 - Das decisões dos tribunais arbitrais cabe recurso para os tribunais judiciais, nos termos da lei geral.
+
+4 - Compete à ERSE promover a arbitragem destinada à resolução de conflitos entre os agentes e os clientes.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 69.º — Garantias
+
+Para garantir o cumprimento das suas obrigações, os operadores da RNTIAT e da rede de distribuição devem constituir e manter em vigor um seguro de responsabilidade civil, proporcional ao potencial risco inerente às atividades, de montante a definir nos termos da legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 70.º — Regime sancionatório
+
+O regime sancionatório aplicável às disposições do presente decreto-lei e da legislação complementar é estabelecido em decreto-lei específico.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 71.º — Regulamentação
+
+1 - Os regimes jurídicos das actividades previstas no presente decreto-lei, incluindo as respectivas bases de concessão e procedimentos para atribuição das concessões e licenças, são estabelecidos por decreto-lei.
+
+2 - Para efeitos da aplicação do presente decreto-lei, são previstos os seguintes regulamentos:
+
+a) Regulamento do Acesso às Redes, às Infraestruturas e às Interligações;
+
+b) Regulamento de Operação das Infraestruturas;
+
+c) Regulamento da RNTGN;
+
+d) Regulamento Tarifário;
+
+e) Regulamento de Qualidade de Serviço;
+
+f) Regulamento de Relações Comerciais;
+
+g) Regulamento da RNDGN;
+
+h) Regulamento da Forma de Execução das Obrigações do Operador da RNTGN no Apoio ao Concedente em Matéria de Política Energética, com vista a assegurar o cumprimento das referidas obrigações de forma independente;
+
+i) O regulamento de funcionamento da comissão de auditoria ao cumprimento do Regulamento referido na alínea anterior.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+###### Artigo 72.º — Operação logística de mudança de comercializador de gás natural
+
+O regime de exercício da actividade de operação logística de mudança de comercializador de gás natural é estabelecido em legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 72.º-A — Biogás e outros tipos de gás
+
+1 - As disposições do presente decreto-lei relativas ao acesso às redes de transporte e distribuição e demais infra-estruturas do SNGN, assim como à comercialização, são genericamente aplicáveis ao biogás e ao gás proveniente da biomassa, ou outros tipos de gás, na medida em que esses gases possam ser, do ponto de vista técnico e de segurança, injectados nas redes de gás natural.
+
+2 - As instalações onde se processe o tratamento dos gases referidos no n.º 1 no estado bruto são licenciadas ao abrigo do Regime de Exercício da Actividade Industrial, pela direcção regional de economia territorialmente competente, de forma a garantir que têm as características adequadas à sua injecção nas redes.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 72.º-B — Sistemas inteligentes
+
+1 - Designam-se por sistemas inteligentes os sistemas destinados à medição e gestão da informação relativa ao gás natural que favoreçam a participação activa do consumidor no mercado de fornecimento de gás natural.
+
+2 - A implementação de sistemas inteligentes mencionados no número anterior depende de:
+
+a) Avaliação económica de longo prazo de todos os custos e benefícios para o mercado, designadamente para operadores de rede, para comercializadores e para o consumidor individual; e
+
+b) Estudo que determine qual o modelo de sistema inteligente economicamente mais racional e o prazo para a sua instalação.
+
+3 - A avaliação económica e o estudo referidos no número anterior são efectuados pela ERSE até 30 de Junho de 2012.
+
+4 - Após a avaliação favorável prevista no número anterior, o Governo aprova, por lei, um sistema inteligente, tendo em conta o cumprimento das obrigações comunitárias e respectivos prazos de cumprimento.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 230/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), em vigor a partir de 2012-10-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022)
+
+###### Artigo 73.º — Norma revogatória
+
+São revogados os Decretos-Leis n.os 14/2001, de 27 de Janeiro, e 374/89, na redacção que lhe foi dada pelo Decreto-Lei n.º 8/2000, de 8 de Fevereiro, que manterão a sua vigência nas matérias que não forem incompatíveis com o presente decreto-lei até à entrada em vigor da legislação complementar.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+###### Artigo 74.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29
+
+Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Manuel António Gomes de Almeida de Pinho.
+
+Promulgado em 2 de Fevereiro de 2006.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 3 de Fevereiro de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 62/2020 - Diário da República n.º 168/2020, Série I de 2020-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2020-141377978), em vigor a partir de 2020-08-29

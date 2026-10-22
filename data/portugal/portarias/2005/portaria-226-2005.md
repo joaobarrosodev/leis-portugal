@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:608033:por
+title: Portaria n.º 226/2005
+short_title: null
+summary: Aprova o regulamento arquivístico para o Instituto Nacional da Farmácia e do Medicamento, no que se refere à avaliação,
+  selecção, transferência para arquivo definitivo, substituição de suporte e eliminação da documentação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Saúde e da Cultura
+proposing_entity: null
+official_number: 226/2005
+official_date: null
+publication_date: '2005-02-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 39/2005, Série I-B de 2005-02-24
+  number: '39'
+  series: I
+  supplement: null
+  pages: 1752 - 1762
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/02/039b00/17521762.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/226/2005/02/24/p/dre/pt/html
+  oj: null
+  dre: '608033'
+  dre_path: /dr/detalhe/portaria/226-2005-608033
+  internal: pt:dre:608033:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-2005-608033
+  metadata_url: https://data.dre.pt/eli/port/226/2005/02/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-2005-608033
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-03-30T00:00:00Z'
+integrity:
+  source_sha256: 28231bc817342aea19b0a00e4bb1e9b40c97c4e30f3ba9bf891ca3a9016c8e53
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-226-608033.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquivo
+- Infarmed
+- Conservação de Documentos
+- Documentação
+- Prazo de Conservação
+relationships:
+- type: amended_by
+  target: pt:dre:603488:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 226/2005
+
+de 24 de Fevereiro
+
+Ao longo dos seus 11 anos de actividade, o Instituto Nacional da Farmácia e do Medicamento tem assistido a um crescimento exponencial da documentação de arquivo que justifica a avaliação, selecção, preservação e valorização do património arquivístico através de um sistema de gestão desse património que permita a determinação de prazos de conservação arquivística e a eliminação de documentos sem valor arquivístico, com inerentes vantagens funcionais e económicas para os vários serviços do Instituto, e assegurar a conservação de documentos com interesse administrativo, histórico, cultural e científico.
+
+Para o efeito, pretende-se proporcionar um quadro satisfatório de soluções, quer regulando o ciclo de vida da documentação, controlando o seu crescimento através da avaliação e selecção, quer autorizando a transferência da informação para um suporte que veicule critérios de segurança, autenticidade e legalidade.
+
+O presente diploma visa, assim, fixar algumas regras mínimas de funcionamento e coordenação entre os vários serviços do Instituto, de forma a uniformizar critérios e metodologias de tratamento técnico no que respeita à avaliação, selecção e conservação de documentos.
+
+Nestes termos, e ao abrigo da alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro:
+
+Manda o Governo, pelos Ministros da Saúde e da Cultura, o seguinte:
+
+###### Artigo único
+
+É aprovado o regulamento arquivístico para o Instituto Nacional da Farmácia e do Medicamento, no que se refere à avaliação, selecção, transferência para arquivo definitivo, substituição de suporte e eliminação da documentação, que consta em anexo à presente portaria e que dela faz parte integrante.
+
+Em 27 de Janeiro de 2005.
+
+**O Ministro da Saúde, Luís Filipe da Conceição Pereira. - A Ministra da Cultura, Maria João Espírito Santo Bustorff Silva.**
+
+## ANEXO I — Regulamento de conservação arquivística do Instituto Nacional da Farmácia e do Medicamento
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente regulamento é aplicável à documentação produzida e recebida, no âmbito das suas atribuições e competências, pelo Instituto Nacional da Farmácia e do Medicamento, adiante designado por INFARMED.
+
+###### Artigo 2.º — Avaliação
+
+1 - O processo de avaliação dos documentos de arquivo do INFARMED tem por objectivo a determinação do seu valor para efeitos da respectiva conservação permanente ou eliminação, findos os respectivos prazos de conservação em fase activa e semi-activa.
+
+2 - A atribuição dos prazos de conservação dos documentos em fase activa e semi-activa é competência do INFARMED.
+
+3 - Os prazos de conservação são os que constam da tabela de selecção constante do anexo II.
+
+4 - Os prazos de conservação contam-se a partir da data final dos processos, dos documentos integrados em colecção, dos registos ou da constituição dos dossiers.
+
+5 - Incumbe ao Instituto dos Arquivos Nacionais/Torre do Tombo (IAN/TT) determinar o destino final dos documentos, sob proposta do INFARMED.
+
+###### Artigo 3.º — Selecção
+
+1 - A selecção dos documentos a conservar permanentemente em arquivo definitivo é efectuada pelo INFARMED em conformidade com o estabelecido na tabela de selecção.
+
+2 - Os documentos de reconhecido valor arquivístico devem ser conservados em arquivo no suporte original, excepto nos casos cuja substituição seja previamente autorizada nos termos do n.º 5 do artigo 10.º
+
+###### Artigo 4.º — Tabela de selecção
+
+1 - A tabela de selecção consigna e sintetiza as disposições relativas à avaliação documental.
+
+2 - A tabela de selecção deve ser revista sempre que se justifique, visando a sua adequação às alterações da produção documental.
+
+3 - A revisão prevista no número anterior carece do parecer favorável do IAN/TT, enquanto organismo coordenador da política arquivística nacional, mediante pedido devidamente fundamentado.
+
+###### Artigo 5.º — Remessas para arquivo intermédio
+
+1 - Findos os prazos de conservação em fase activa, a documentação com reduzida taxa de utilização deverá ser remetida do arquivo corrente para o arquivo intermédio de acordo com o estipulado na tabela de selecção.
+
+2 - As remessas dos documentos para arquivo intermédio são efectuadas com periodicidade a determinar pelo INFARMED.
+
+###### Artigo 6.º — Remessas para arquivo definitivo
+
+1 - Os documentos cujo valor arquivístico justifique a sua conservação permanente, de acordo com a tabela de selecção, são remetidos para arquivo definitivo após o decurso dos prazos de conservação.
+
+2 - As remessas não podem pôr em causa a integridade dos conjuntos documentais.
+
+###### Artigo 7.º — Formalidades das remessas
+
+1 - Cada remessa de documentos mencionados nos artigos 5.º e 6.º é acompanhada de um auto de entrega, que inclui em anexo uma guia de remessa em triplicado.
+
+2 - A guia de remessa destina-se à identificação e controlo da documentação remetida e é obrigatoriamente rubricada e autenticada pelas partes envolvidas no processo.
+
+3 - O original da guia de remessa fica no serviço destinatário, sendo o duplicado devolvido ao serviço de origem.
+
+4 - O triplicado é transitoriamente utilizado no arquivo intermédio ou definitivo como instrumento de descrição documental, após ter sido conferido e completado com as referências topográficas e demais informação pertinente, só podendo ser eliminado após a elaboração do respectivo inventário.
+
+5 - Os modelos referidos nos números anteriores são os que constam do anexo III da presente portaria.
+
+###### Artigo 8.º — Eliminação
+
+1 - A eliminação dos documentos cuja conservação permanente não se justifique, por não lhes ser reconhecido valor arquivístico, deve ser efectuada imediatamente após o decurso dos prazos de conservação fixados na tabela de selecção.
+
+2 - A eliminação dos documentos não mencionados na tabela de selecção carece de autorização expressa do IAN/TT.
+
+3 - A decisão sobre o processo de eliminação atenderá a critérios de confidencialidade e racionalidade de meios e custos.
+
+###### Artigo 9.º — Formalidades da eliminação
+
+1 - Cada eliminação de documentos mencionados no artigo 8.º é acompanhada de um auto de eliminação, que fará prova do seu abate patrimonial, cujo modelo consta do anexo IV do presente regulamento.
+
+2 - O auto de eliminação é assinado pelo dirigente do serviço de origem, bem como pelo responsável pelo arquivo.
+
+3 - O referido auto é elaborado em duplicado, ficando o original no serviço que procede à eliminação e sendo o duplicado remetido para o IAN/TT.
+
+###### Artigo 10.º — Substituição do suporte
+
+1 - A substituição do suporte dos documentos será feita por microfilme, desde que fique expressamente garantida a sua preservação, segurança, autenticidade, durabilidade e consulta, de acordo com as normas técnicas da International Standard Organization, abreviadamente designada por ISO.
+
+2 - O suporte fílmico a que alude o número anterior não deve apresentar cortes, emendas ou quaisquer outras alterações que ponham em causa a sua integridade e reproduzirá os respectivos termos de abertura e encerramento.
+
+3 - Dos termos de abertura e encerramento constam obrigatoriamente os seguinte elementos:
+
+a) Identificação dos responsáveis pela transferência da informação;
+
+b) Local e data de execução da transferência;
+
+c) Assinaturas e carimbo.
+
+4 - O INFARMED deverá elaborar e manter um registo e fichas de controlo de qualidade do suporte fílmico produzido.
+
+5 - A substituição do suporte dos documentos a que alude o n.º 2 do artigo 3.º só poderá ser efectuada mediante parecer favorável do IAN/TT, nos termos do n.º 2 do artigo 5.º do [Decreto-Lei n.º 121/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1992-291844), de 2 de Julho.
+
+6 - As cópias obtidas a partir de microcópia autenticada têm força probatória de original, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro.
+
+###### Artigo 11.º — Acessibilidade e comunicabilidade
+
+O acesso e comunicabilidade do arquivo do INFARMED atende a critérios de confidencialidade da informação, definidos internamente, em conformidade com a lei geral.
+
+###### Artigo 12.º — Fiscalização
+
+Compete ao IAN/TT fiscalizar a execução do disposto no presente regulamento.
+
+## ANEXO II — Tabela de selecção
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17521762.pdf)
+
+## ANEXO III — Instituto Nacional da Farmácia e do Medicamento
+
+Auto de entrega
+
+[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17521762.pdf)
+
+Guia de remessa
+
+[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17521762.pdf)
+
+## ANEXO IV — Instituto Nacional da Farmácia e do Medicamento
+
+Auto de eliminação
+
+[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17521762.pdf)

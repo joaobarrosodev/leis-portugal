@@ -1,0 +1,205 @@
+---
+schema_version: '1.0'
+id: pt:dre:514274:por
+title: Despacho Normativo n.º 3/2000
+short_title: null
+summary: Aprova o Regimento do Conselho Superior da Guarda (CSG)
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 3/2000
+official_date: null
+publication_date: '2000-01-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 8/2000, Série I-B de 2000-01-11
+  number: '8'
+  series: I
+  supplement: null
+  pages: 80 - 81
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/01/008b00/00800081.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/3/2000/01/11/p/dre/pt/html
+  oj: null
+  dre: '514274'
+  dre_path: /dr/detalhe/despacho-normativo/3-2000-514274
+  internal: pt:dre:514274:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2000-514274
+  metadata_url: https://data.dre.pt/eli/despnorm/3/2000/01/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2000-514274
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-01-11T00:00:00Z'
+integrity:
+  source_sha256: a481f6ea6575f6ac71a80a22a1a2f239686afc86c11c1da8b9669fb7550c9501
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-3-514274.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Conselho Superior da Guarda
+- GNR
+- Regimento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/231/1993/06/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/231/1993/06/26/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 3/2000
+
+Nos termos do n.º 9 do artigo 39.º da Lei Orgânica da Guarda Nacional Republicana, aprovada pelo [Decreto-Lei n.º 231/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1993-267033), de 26 de Junho, é aprovado o Regimento do Conselho Superior da Guarda (CSG), que faz parte integrante deste despacho.
+
+Ministério da Administração Interna, 20 de Outubro de 1999. - Pelo Ministro da Administração Interna, Luís Manuel Ferreira Parreirão Gonçalves, Secretário de Estado da Administração Interna.
+
+REGIMENTO DO CONSELHO SUPERIOR DA GUARDA
+
+###### Artigo 1.º — Definição
+
+O Conselho Superior da Guarda (CSG) é um órgão de carácter consultivo do comandante-geral da Guarda Nacional Republicana.
+
+###### Artigo 2.º — Composição
+
+1 - São membros do CSG:
+
+a) O comandante-geral, que preside;
+
+b) O 2.º comandante-geral;
+
+c) O chefe do estado-maior da Guarda;
+
+d) Os comandantes das unidades;
+
+e) Representantes dos oficiais, sargentos e praças.
+
+2 - Por determinação do comandante-geral e atentas as matérias em apreciação, podem participar nas reuniões do CSG, sem direito a voto, outras entidades cujos pareceres seja conveniente obter, devido às suas funções, especialidades ou aptidões próprias.
+
+###### Artigo 3.º — Competências
+
+Ao CSG compete estudar e dar parecer sobre todos os assuntos que o comandante-geral entenda submeter à sua apreciação e, obrigatoriamente, sobre as seguintes matérias:
+
+a) Processos disciplinares passíveis de aplicação das penas de reforma compulsiva ou separação do serviço;
+
+b) Processos passíveis de aplicação da medida estatutária de dispensa do serviço;
+
+c) Recursos disciplinares de revisão;
+
+d) Listas e outros assuntos relativos a promoções, avaliações e nomeações para cursos, nos termos do Estatuto do Militar da Guarda Nacional Republicana e demais diplomas legais;
+
+e) Aspectos relevantes do âmbito da organização da Guarda, planos e programas.
+
+###### Artigo 4.º — Local das reuniões
+
+As reuniões do CSG têm lugar no Comando-Geral da Guarda Nacional Republicana, podendo o presidente convocá-las para outro local do dispositivo da Guarda.
+
+###### Artigo 5.º — Secretariado
+
+O secretariado do CSG é assegurado por um oficial da 1.ª Repartição do Comando-Geral, nomeado pelo chefe do estado-maior da Guarda.
+
+###### Artigo 6.º — Presidente e secretário
+
+1 - Cabe ao presidente, para além de outras, as funções de abrir e encerrar as reuniões, dirigir os trabalhos e assegurar o cumprimento das leis e a regularidade das deliberações.
+
+2 - O presidente pode ainda suspender ou encerrar antecipadamente as reuniões, quando circunstâncias excepcionais o justifiquem, mediante decisão fundamentada, a incluir na acta da reunião.
+
+3 - Cabe ao secretário, além de outras, as funções de redactor das actas.
+
+4 - O secretário pode ser substituído, no seu impedimento, pelo vogal mais moderno.
+
+###### Artigo 7.º — Convocatória
+
+1 - O CSG reúne por convocação do comandante-geral, que fixará os dias e hora das reuniões, bem como a respectiva ordem de trabalhos.
+
+2 - A convocatória mencionará, de forma expressa e especificada, todos os assuntos a tratar na reunião, a fim de garantir o seu conhecimento atempado aos membros do CSG.
+
+###### Artigo 8.º — Objecto das deliberações
+
+Só podem ser objecto de deliberações os assuntos incluídos na ordem do dia da reunião, salvo se, tratando-se de reunião ordinária, pelo menos dois terços dos membros reconhecerem a urgência de deliberação imediata sobre outros assuntos.
+
+###### Artigo 9.º — Quórum
+
+O CSG só pode deliberar quando esteja presente a maioria do número legal dos seus membros com direito a voto.
+
+###### Artigo 10.º — Formas de votação
+
+1 - Salvo disposição legal em contrário, as deliberações são tomadas por votação nominal, devendo votar primeiramente os vogais e, por fim, o presidente.
+
+2 - As deliberações que envolvam a apreciação de comportamentos ou das qualidades de qualquer pessoa são tomadas por escrutínio secreto. Em caso de dúvida, o CSG deliberará sobre a forma de votação.
+
+3 - As deliberações tomadas por escrutínio secreto serão fundamentadas pelo presidente do CSG após a votação, tendo presente a discussão que a tiver precedido.
+
+4 - Não podem estar presentes no momento da discussão nem da votação os membros do CSG que se encontrem ou se considerem impedidos.
+
+###### Artigo 11.º — Maioria exigível nas deliberações
+
+1 - As deliberações são tomadas por maioria absoluta de votos dos membros presentes à reunião, salvo nos casos em que, por disposição legal, se exija maioria qualificada ou seja suficiente maioria relativa.
+
+2 - Se for exigível maioria absoluta e esta se não formar, nem se verificar empate, proceder-se-á a nova votação e, se aquela situação se mantiver, adiar-se-á a deliberação para a reunião seguinte, na qual será suficiente a maioria relativa.
+
+###### Artigo 12.º — Empate na votação
+
+1 - Em caso de empate na votação, o presidente tem voto de qualidade, salvo se a votação se tiver efectuado por escrutínio secreto.
+
+2 - Havendo empate em votação por escrutínio secreto, proceder-se-á imediatamente a nova votação e, se o empate se mantiver, adiar-se-á a deliberação para a reunião seguinte; se na primeira votação dessa reunião se mantiver o empate, proceder-se-á a votação nominal.
+
+###### Artigo 13.º — Acta da reunião
+
+1 - De cada reunião será lavrada acta, que conterá um resumo de tudo o que nela tiver ocorrido, indicando, designadamente, a data e o local da reunião, os membros presentes, os assuntos apreciados, as deliberações tomadas e a forma e o resultado das respectivas votações.
+
+2 - As actas são lavradas pelo secretário e postas à aprovação de todos os membros no final da respectiva reunião ou na reunião seguinte, sendo assinadas, após a aprovação, pelo presidente e pelo secretário.
+
+###### Artigo 14.º — Registo na acta do voto de vencido
+
+1 - Os membros do CSG podem fazer constar da acta o seu voto de vencido e as razões que o justifiquem.
+
+2 - Aqueles que ficarem vencidos na deliberação tomada e fizerem registo da respectiva declaração de voto na acta ficam isentos da responsabilidade que daquela eventualmente resulte.
+
+###### Artigo 15.º — Expediente
+
+O expediente do CSG é assegurado pela 1.ª Repartição do Comando-Geral.
+
+###### Artigo 16.º — Direito subsidiário
+
+Em tudo o que não estiver previsto no presente Regimento aplica-se o disposto nos artigos 13.º a 34.º do Código do Procedimento Administrativo.

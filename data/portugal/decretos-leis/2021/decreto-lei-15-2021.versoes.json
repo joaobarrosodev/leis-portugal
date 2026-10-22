@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:158146138:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-160987929",
+ "dre_path": "/dr/detalhe/decreto-lei/15-2021-158146138",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-02-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160993895",
+    "160993896",
+    "160993897",
+    "160993898",
+    "160993899",
+    "160993900",
+    "160993901",
+    "160993902",
+    "160993903",
+    "160993904",
+    "160993905"
+   ]
+  },
+  {
+   "date": "2023-01-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:206350928:por",
+     "title": "Lei n.º 5/2023",
+     "published": "2023-01-20",
+     "dre_path": "/dr/detalhe/lei/5-2023-206350928"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "160993895",
+    "206401485",
+    "160993897",
+    "160993898",
+    "160993899",
+    "160993900",
+    "160993901",
+    "160993902",
+    "160993903",
+    "160993904",
+    "206401486",
+    "160993906"
+   ]
+  }
+ ],
+ "fragments": {
+  "160993895": {
+   "fragment_id": "160987930",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 15/2021\n\nde 23 de fevereiro\n\nSumário: Cria um regime especial de expropriação e constituição de servidões administrativas para a execução de projetos integrados no Programa de Estabilização Económica e Social.\n\nSendo evidentes os impactos ocorridos em todos os domínios pelo período de confinamento ditado pela necessidade de prevenção e combate à pandemia da doença COVID-19, com especial incidência no plano económico, financeiro e social, afigura-se imperativa a promoção da retoma progressiva da vida social e económica, através da adoção de medidas que visem a dinamização da economia portuguesa e de ações que promovam a realização de investimentos duradouros e necessários, com benefícios tangíveis para as populações e que constituam uma via de manutenção ou criação de empregos de forma transversal no território nacional.\n\nNesse contexto foi aprovado o Programa de Estabilização Económica e Social, em anexo à Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho (PEES), no qual se prevê um conjunto de intervenções prioritárias e que se pretende alavanquem a retoma económica.\n\nTendo em conta, por um lado, a relevância e a urgência na concretização dos investimentos considerados e, bem assim, o impacto esperado dos mesmos no robustecimento da economia e das finanças portuguesas, e considerando, por outro lado, os constrangimentos identificados nos procedimentos de expropriação e de constituição de servidões administrativas, a Assembleia da República autorizou o Governo a criar um regime especial para a concretização desses procedimentos no quadro da realização dos investimentos programados no PEES, nas diversas áreas de intervenção.\n\nAssim, pelo presente decreto-lei é criado um regime especial que pretende potenciar a mais ágil e rápida execução do PEES, introduzindo simplicidade e celeridade na tramitação dos procedimentos expropriativos e de constituição de servidões administrativas que, para a sua concretização, seja necessário realizar.\n\nForam ouvidos os órgãos de governo próprio da Região Autónoma da Madeira e a Associação Nacional de Municípios Portugueses.\n\nFoi promovida a audição dos órgãos de governo próprio da Região Autónoma dos Açores.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 59/2020, de 12 de outubro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "160993896": {
+   "fragment_id": "160987931",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime especial aplicável à expropriação e à constituição de servidões administrativas com vista à concretização das intervenções que sejam consideradas, por despacho do membro do Governo responsável pelo setor de atividade sobre que recaia a intervenção em causa, integradas no âmbito do Programa de Estabilização Económica e Social, aprovado em anexo à Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho (PEES)."
+  },
+  "160993897": {
+   "fragment_id": "160987932",
+   "type": 11,
+   "heading": "Artigo 2.º — Utilidade pública e urgência das expropriações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Utilidade pública e urgência das expropriações\n\n1 - São consideradas de utilidade pública e com carácter de urgência, nos termos do artigo 15.º do Código das Expropriações, aprovado em anexo à Lei n.º 168/99, de 18 de setembro, na sua redação atual (Código das Expropriações), as expropriações dos imóveis e dos direitos inerentes necessários à construção, ampliação, reabilitação ou beneficiação de equipamentos, redes e infraestruturas no âmbito da execução dos investimentos a realizar no quadro das intervenções referidas no artigo anterior.\n\n2 - Compete à entidade expropriante, sem prejuízo das competências próprias do Estado ou das autarquias locais, promover e desenvolver as diligências inerentes ao procedimento de expropriação em conformidade com o presente decreto-lei e com o Código das Expropriações, na parte aplicável, sendo aquela entidade expropriante responsável pelo depósito da quantia ou da caução a que se refere o artigo 20.º do Código das Expropriações, bem como pelo pagamento da justa indemnização."
+  },
+  "160993898": {
+   "fragment_id": "160987933",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1 - Sob requerimento da entidade expropriante formulado nos termos do artigo 12.º do Código das Expropriações, a emissão da declaração de utilidade pública da expropriação dos bens imóveis e dos direitos inerentes previstos no n.º 1 do artigo anterior é adotada, de acordo com o disposto no n.º 2 do artigo 13.º do Código das Expropriações:\n\na) Por despacho do membro do Governo responsável pelo setor de atividade, quando a entidade expropriante for o Estado, entidade integrada na administração indireta do Estado, empresa pública, nos termos previstos no Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual, ou entidade concessionária do Estado;\n\nb) Por deliberação da assembleia municipal do município onde se situa o bem imóvel, quando a entidade expropriante for um município, uma entidade intermunicipal, um serviço municipalizado ou intermunicipalizado, uma empresa do setor empresarial local ou uma entidade concessionária do município.\n\n2 - A competência da assembleia municipal prevista na alínea b) do número anterior não é prejudicada pela circunstância de as intervenções referidas no artigo 1.º se destinarem, ou não, à concretização de plano de urbanização ou plano de pormenor eficaz.\n\n3 - A concretização da declaração de utilidade pública pode, perante um determinado projeto, e independentemente do enquadramento respetivamente aplicável nos termos do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, consistir na aprovação de planta do local da situação dos bens a expropriar, contendo a delimitação precisa dos respetivos limites e que mencione graficamente a escala utilizada, ou na aprovação do mapa que mencione as áreas, os proprietários e os demais interessados e, sempre que possível, a descrição predial e a inscrição matricial.\n\n4 - A declaração de utilidade pública emitida, aprovada e ou concretizada ao abrigo do presente regime especial é devidamente fundamentada, sendo publicada e notificada ao expropriado e aos demais interessados nos termos do artigo 13.º e do n.º 1 do artigo 17.º do Código das Expropriações, devendo a publicação ser feita juntamente com a planta aprovada ou o mapa de áreas e a lista de proprietários e demais interessados e mencionar os locais onde estes elementos podem ser consultados, aplicando-se à notificação, se o expropriado ou os demais interessados forem desconhecidos ou, caso a notificação se frustre, o disposto no n.º 4 do artigo 11.º do mesmo Código."
+  },
+  "160993899": {
+   "fragment_id": "160987934",
+   "type": 11,
+   "heading": "Artigo 4.º — Posse administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Posse administrativa\n\nCom a publicação da declaração de utilidade pública, nos termos especificados no artigo anterior, é conferida à entidade expropriante a posse administrativa imediata dos bens a expropriar, nos termos previstos nos artigos 20.º e seguintes do Código das Expropriações."
+  },
+  "160993900": {
+   "fragment_id": "160987935",
+   "type": 11,
+   "heading": "Artigo 5.º — Garantia e conteúdo das indemnizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Garantia e conteúdo das indemnizações\n\nAs expropriações previstas no presente decreto-lei conferem aos expropriados o direito de receber o pagamento de uma justa indemnização, de acordo com os critérios e os procedimentos previstos no Código das Expropriações, designadamente quanto às formas de pagamento, às garantias de pagamento, ao pagamento dos respetivos juros e à atribuição desse valor aos interessados."
+  },
+  "160993901": {
+   "fragment_id": "160987936",
+   "type": 11,
+   "heading": "Artigo 6.º — Atravessamento e ocupação de prédios particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atravessamento e ocupação de prédios particulares\n\n1 - É garantido às entidades expropriantes o direito de atravessar ou ocupar prédios particulares, de acordo com os estudos e projetos, com condutas subterrâneas ou caminhos de circulação necessários ou impostos pela realização das intervenções referidas no artigo 1.º\n\n2 - É ainda garantido às entidades expropriantes o direito a realizar prospeções geológicas, sondagens e outros estudos convenientes em prédios particulares necessários à conceção e à execução de infraestruturas, condutas, emissários, redes ou sistemas intercetores, existindo o dever de reposição das condições iniciais do prédio.\n\n3 - Aos proprietários afetados pelas medidas previstas nos números anteriores são devidas indemnizações pelos ónus constituídos, nos termos do Código das Expropriações."
+  },
+  "160993902": {
+   "fragment_id": "160987937",
+   "type": 11,
+   "heading": "Artigo 7.º — Constituição de servidões administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Constituição de servidões administrativas\n\n1 - A declaração de utilidade pública relativa à constituição das servidões administrativas necessárias à construção, ampliação, reabilitação ou beneficiação de sistemas, redes e infraestruturas no âmbito da execução dos investimentos a realizar no quadro das intervenções referidas no artigo 1.º deve observar o procedimento previsto no artigo 3.º\n\n2 - A proposta de concretização dos bens a sujeitar a servidão administrativa deve identificar a largura e o comprimento da faixa da servidão, bem como os ónus ou os encargos que a sua constituição implica."
+  },
+  "160993903": {
+   "fragment_id": "160987938",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito de reversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direito de reversão\n\nÀs expropriações e às servidões administrativas constituídas ao abrigo do presente decreto-lei aplica-se, com as necessárias adaptações, o direito de reversão consagrado no artigo 5.º do Código das Expropriações, bem como o respetivo regime."
+  },
+  "160993904": {
+   "fragment_id": "160987939",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime subsidiário\n\nAs expropriações e a constituição de servidões administrativas previstas no presente decreto-lei realizam-se de acordo com o Código das Expropriações em tudo o que não se encontrar previsto no presente decreto-lei."
+  },
+  "160993905": {
+   "fragment_id": "160987940",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2022."
+  },
+  "206401485": {
+   "fragment_id": "160987931",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 5/2023 - Diário da República n.º 15/2023, Série I de 2023-01-20](https://diariodarepublica.pt/dr/detalhe/lei/5-2023-206350928), em vigor a partir de 2023-01-21"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime especial aplicável à expropriação e à constituição de servidões administrativas com vista à concretização das intervenções no âmbito do Plano de Recuperação e Resiliência (PRR), aprovado pela Decisão de Execução do Conselho da União Europeia, de 13 de julho de 2021, bem como das intervenções que sejam consideradas, por despacho do membro do Governo responsável pelo setor de atividade sobre que recaia a intervenção em causa, integradas no âmbito do Programa de Estabilização Económica e Social, aprovado em anexo à Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho (PEES).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 5/2023 - Diário da República n.º 15/2023, Série I de 2023-01-20](https://diariodarepublica.pt/dr/detalhe/lei/5-2023-206350928), em vigor a partir de 2023-01-21"
+  },
+  "206401486": {
+   "fragment_id": "160987940",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor e vigência",
+   "in_force_from": "2023-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 5/2023 - Diário da República n.º 15/2023, Série I de 2023-01-20](https://diariodarepublica.pt/dr/detalhe/lei/5-2023-206350928), em vigor a partir de 2023-01-21"
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e vigência\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2026.\n\n2 - A partir de 1 de janeiro de 2023 o presente decreto-lei aplica-se apenas às intervenções no âmbito do PRR.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 5/2023 - Diário da República n.º 15/2023, Série I de 2023-01-20](https://diariodarepublica.pt/dr/detalhe/lei/5-2023-206350928), em vigor a partir de 2023-01-21"
+  },
+  "160993906": {
+   "fragment_id": "160987941",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de janeiro de 2021. - António Luís Santos da Costa - Alexandra Ludomila Ribeiro Fernandes Leitão - João Pedro Soeiro de Matos Fernandes.\n\nPromulgado em 17 de fevereiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 19 de fevereiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113998027"
+  }
+ }
+}

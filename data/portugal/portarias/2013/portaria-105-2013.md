@@ -1,0 +1,334 @@
+---
+schema_version: '1.0'
+id: pt:dre:259759:por
+title: Portaria n.º 105/2013
+short_title: null
+summary: Fixa a Estrutura nuclear da Direção-Geral da Segurança Social
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Solidariedade e da Segurança Social
+proposing_entity: null
+official_number: 105/2013
+official_date: null
+publication_date: '2013-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/2013, Série I de 2013-03-13
+  number: '51'
+  series: I
+  supplement: null
+  pages: 1606 - 1608
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/03/05100/0160601608.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-08-01'
+version_history:
+  file: portaria-105-2013.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-05-01'
+    amending: pt:dre:211844896:por
+    amending_title: Portaria n.º 105/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+  - date: '2026-08-01'
+    amending: pt:dre:1143461619:por
+    amending_title: Portaria n.º 286/2026/1
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/105/2013/p/cons/20260703/pt/html
+  oj: null
+  dre: '259759'
+  dre_path: /dr/detalhe/portaria/105-2013-259759
+  internal: pt:dre:259759:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/105-2013-259759
+  metadata_url: https://data.dre.pt/eli/port/105/2013/p/cons/20260703/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-211844946
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-211844946
+  retrieved_at: '2026-10-22T12:56:12Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 5b8d4a1bf9e4f6099fcd7b82eac17f0578c3d8fafd4e819316af17bd26376ef7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:56:12Z'
+  notes: 3 versão(ões); histórico completo em portaria-105-2013.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral da Segurança Social
+- Definição de Competências
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:211844896:por
+  label: Altera Artigo 1.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/105-2023-211844896
+  date: '2023-04-17'
+- type: amended_by
+  target: pt:dre:1143461619:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619
+  date: '2026-07-03'
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/36/2012/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/36/2012/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:56:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 105/2013
+
+Portaria n.º 105/2013
+
+de 13 de março
+
+O Decreto Regulamentar n.º 36/2012, de 27 de março, definiu a missão, as atribuições e o tipo de organização interna da Direção-Geral da Segurança Social do Ministério da Solidariedade e Segurança Social (MSSS). Importa agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear dos serviços e estabelecer o número máximo de unidade flexíveis do serviço e as competências das respetivas unidades orgânicas.
+
+Assim:
+
+Ao abrigo do disposto no n.os 4 e 5 do artigo 21.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Solidariedade e da Segurança Social, o seguinte:
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.
+
+###### Artigo 1.º — Estrutura nuclear da Direção-Geral da Segurança Social
+
+1. A Direção-Geral da Segurança Social, abreviadamente designada por DGSS, estrutura-se nas seguintes unidades orgânicas nucleares:
+
+a) Direção de Serviços da Definição de Regimes;
+
+b) Direção de Serviços das Prestações;
+
+c) Direção de Serviços de Negociação e Coordenação da Aplicação dos Instrumentos Internacionais;
+
+d) Direção de Serviços da Ação Social e Assuntos Institucionais;
+
+e) Direção de Serviços de Apoio ao Cidadão e ao Contribuinte;
+
+f) Direção de Serviços de Apoio à Gestão.
+
+2. As unidades orgânicas referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1º. grau.
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 105/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/105-2023-211844896), em vigor a partir de 2023-05-01
+
+###### Artigo 2.º — Direção de Serviços da Definição de Regimes
+
+À Direção de Serviços da Definição de Regimes, abreviadamente designada por DSEDR, em matéria de conceção, coordenação e apoio técnico e normativo no domínio dos regimes de segurança social e das associações mutualistas, compete:
+
+a) Proceder ao estudo e elaboração de propostas normativas relativas ao enquadramento nos regimes de segurança social, obrigatórios e facultativos, e à vinculação ao sistema;
+
+b) Proceder ao estudo e à elaboração de propostas normativas relativas à relação jurídica contributiva;
+
+c) Desenvolver estudos e apresentar propostas normativas relativas ao quadro jurídico comum aos regimes de segurança social;
+
+d) Apresentar propostas de definição do quadro sancionatório dos regimes de segurança social;
+
+e) Proceder ao estudo e elaboração de propostas normativas relativas ao enquadramento jurídico dos regimes complementares;
+
+f) Proceder à análise jurídica dos instrumentos necessários à constituição dos regimes complementares e realizar os atos necessários à respetiva homologação;
+
+g) Proceder à análise da legalidade dos estatutos das associações mutualistas e demais atos destas instituições sujeitas a registo e efetuar às ações necessárias à realização dos respetivos registos;
+
+h) Participar nos estudos relativos ao financiamento dos regimes de segurança social e do sistema complementar e elaborar as necessárias propostas normativas;
+
+i) Apresentar propostas normativas que visem simplificar o relacionamento dos beneficiários e contribuintes com o sistema de segurança social, nos domínios da vinculação e obrigação contributiva;
+
+j) Elaborar orientações técnico-normativas nos domínios do enquadramento nos regimes de segurança social, vinculação, relação jurídica contributiva, regime comum e regimes complementares.
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.
+
+###### Artigo 3.º — Direção de Serviços das Prestações
+
+À Direção de Serviços das Prestações, abreviadamente designada por DSEP, em matéria de conceção, coordenação e apoio técnico e normativo nos domínios da definição e regulamentação das prestações que integram o âmbito material dos regimes de segurança social, compete:
+
+a) Proceder ao estudo e elaboração de propostas normativas relativas à definição das prestações garantidas pelos regimes de segurança social nas eventualidades que integram o respetivo âmbito material, designadamente no que se reporta à sua titularidade, condições de atribuição, determinação de montantes, duração e acumulação;
+
+b) Proceder ao estudo e elaboração de projetos normativos relativos à revisão periódica dos montantes das prestações;
+
+c) Apresentar propostas normativas nos domínios da proteção nas situações de carência económica, de prevenção e de combate à exclusão social e da compensação nos encargos familiares e nos domínios da deficiência e da dependência;
+
+d) Apresentar propostas normativas nos domínios da proteção nas situações de desemprego, de indisponibilidade ou de incapacidade temporária ou permanente para o trabalho, de velhice ou de morte;
+
+e) Apresentar propostas normativas no domínio da proteção nos riscos profissionais;
+
+f) Apresentar propostas normativas que visem assegurar proteção em situações decorrentes de novas eventualidades;
+
+g) Apresentar propostas normativas que visem a modernização e simplificação do processo de concretização do direito à proteção assegurada pelos regimes de segurança social;
+
+h) Participar na elaboração de propostas normativas que integrem matérias conexas com as prestações dos regimes de segurança social;
+
+i) Elaborar orientações técnico-normativas no domínio dos quadros jurídicos reguladores das prestações garantidas pelos regimes de segurança social.
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.
+
+###### Artigo 4.º — Direção de Serviços de Negociação e Coordenação da Aplicação dos Instrumentos Internacionais
+
+À Direção de Serviços de Negociação e Coordenação da Aplicação dos Instrumentos Internacionais, abreviadamente designada por DSNEC, em matéria de estudo, negociação técnica e coordenação normativa da aplicação de instrumentos internacionais de segurança social, compete:
+
+a) Efetuar estudos no domínio da coordenação de legislações de segurança social tendo em vista a celebração de instrumentos internacionais de segurança social e participar na respetiva negociação;
+
+b) Participar nos trabalhos dos organismos internacionais responsáveis pela interpretação e aplicação uniformes dos instrumentos de coordenação de segurança social, designadamente no quadro da União Europeia, bem como no respetivo processo decisório;
+
+c) Emitir parecer sobre as questões suscitadas pela interpretação e aplicação dos instrumentos internacionais de coordenação de segurança social;
+
+d) Colaborar com os serviços competentes do Ministério dos Negócios Estrangeiros, tendo em vista a participação nos processos do Tribunal de Justiça da União Europeia relativos aos assuntos de coordenação de segurança social;
+
+e) Assegurar a coordenação normativa da aplicação dos instrumentos internacionais de coordenação de segurança social através da elaboração e difusão de orientações destinadas aos serviços e instituições incumbidos da aplicação de instrumentos internacionais de segurança social;
+
+f) Cooperar com outros serviços e organismos nacionais e internacionais no âmbito do princípio do mútuo auxílio administrativo constante de instrumentos internacionais de coordenação de segurança social;
+
+g) Exercer as competências próprias como organismo de ligação entre os serviços e instituições dos sistemas coordenados sempre que para tal a Direção-Geral da Segurança Social esteja designada.
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.
+
+###### Artigo 5.º — Direção de Serviços da Ação Social e Assuntos Institucionais
+
+À Direção de Serviços da Ação Social e Assuntos Institucionais, abreviadamente designada por DSASI, em matéria de conceção, coordenação e apoio técnico e normativo nos domínios do desenvolvimento da ação social e da regulação jurídica das instituições particulares de solidariedade social e de outras instituições do setor social, compete:
+
+a) Contribuir para a definição de medidas no âmbito da ação social;
+
+b) Elaborar projetos técnicos e normativos das modalidades da ação social, regulando a intervenção e o apoio à família, infância e juventude, envelhecimento, dependência e deficiência, bem como as condições de organização e funcionamento dos serviços e equipamentos sociais;
+
+c) Estudar e propor normas e critérios técnicos que promovam o acesso à rede de serviços e equipamentos sociais das pessoas e famílias mais carenciadas;
+
+d) Prestar apoio técnico e jurídico em matérias relacionadas com as formas do exercício da ação social;
+
+e) Propor medidas para a especial proteção dos grupos mais vulneráveis, contribuindo para a prevenção e combate às situações de risco ou exclusão social;
+
+f) Elaborar projetos normativos no âmbito da relação da Segurança Social com as Instituições Particulares de Solidariedade Social e equiparadas no desenvolvimento da ação social e nas formas de financiamento;
+
+g) Elaborar projetos normativos respeitantes ao estatuto jurídico das instituições particulares de solidariedade social, e de outras de reconhecido interesse público equiparadas às mesmas instituições;
+
+h) Elaborar projetos normativos no âmbito do regime jurídico das instituições particulares de solidariedade social e de outras entidades equiparadas que prossigam modalidades de ação social;
+
+i) Elaborar orientações técnicas e normativas no âmbito da interpretação e aplicação da legislação nos domínios da ação social e dos regimes jurídicos das instituições particulares de solidariedade social e entidades equiparadas;
+
+j) Elaborar projetos normativos aplicáveis ao exercício da ação social por entidades privadas;
+
+k) Propor o reconhecimento das fundações de solidariedade social, pronunciar-se sobre a legalidade dos estatutos e dos atos jurídico-institucionais sujeitos a registo respeitantes às instituições particulares de solidariedade social e às instituições equiparadas;
+
+l) Efetuar a análise formal dos processos de registo e proceder à efetivação dos respetivos registos nos termos da legislação aplicável;
+
+m) Proceder à organização e atualização de ficheiros das instituições particulares de solidariedade social e das instituições legalmente equiparadas;
+
+n) Estudar e conceber em conjunto com outros setores da administração central medidas específicas cujo desenvolvimento exige uma intervenção articulada propondo o respetivo enquadramento normativo.
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.
+
+###### Artigo 6.º — Direção de Serviços de Apoio ao Cidadão e ao Contribuinte
+
+1 - À Direção de Serviços de Apoio ao Cidadão e ao Contribuinte, abreviadamente designada DSACC, em matéria de modernização do sistema de segurança social para garantia de maior proximidade ao cidadão e, bem assim, em matéria de definição e desenvolvimento de circuitos, procedimentos e meios para a correta e célere aplicação das normas do sistema de segurança social, compete:
+
+a) Assegurar a prestação de informação adequada ao exercício dos direitos de defesa dos cidadãos, entidades e instituições relevantes para a segurança social, com a colaboração dos organismos visados;
+
+b) Receber exposições e reclamações referentes a injustiças ou irregularidades em procedimentos administrativos do sistema de segurança social, bem como de processos executivos e de contraordenações de segurança social, e promover a respetiva informação e resposta pelos serviços competentes, procedendo ao respetivo encaminhamento e acompanhamento e, quando apropriado, colaborando na resolução das situações relatadas;
+
+c) Dirigir às entidades competentes as recomendações necessárias para a adoção de medidas destinadas a ultrapassar constrangimentos que sejam identificados nas exposições e reclamações individualmente consideradas;
+
+d) Identificar lacunas ou incongruências no quadro legal vigente e identificar as necessidades de alterações legislativas que se mostrem adequadas a garantir a defesa dos direitos dos cidadãos, entidades e instituições relevantes para a segurança social;
+
+e) Promover, junto das entidades competentes, orientações sobre os conteúdos da informação disponibilizada ao público, nos diversos suportes de informação.
+
+2 - Compete ainda à DSACC elaborar anualmente um relatório de atividades, com a identificação das exposições e reclamações recebidas, das diligências realizadas, iniciativas tomadas, bem como os resultados obtidos e propostas de alteração de procedimentos, o qual é enviado ao membro do Governo responsável pela área da segurança social.
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 105/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/105-2023-211844896), em vigor a partir de 2023-05-01
+
+###### Artigo 7.º — Direção de Serviços de Apoio à Gestão
+
+À Direção de Serviços de Apoio à Gestão, abreviadamente designada por DSAG, em matéria de apoio à gestão da DGSS nos domínios do planeamento interno e da avaliação, da gestão de pessoal, da gestão dos recursos e do sistema de informação, compete:
+
+a) Preparar os instrumentos necessários à gestão da DGSS segundo critérios de planeamento e gestão estratégica;
+
+b) Elaborar o plano e relatório das atividades da DGSS e proceder ao acompanhamento e avaliação da sua execução;
+
+c) Elaborar estudos técnicos e indicadores, no âmbito da gestão dos meios, tendo em vista o controlo da gestão dos recursos da DGSS;
+
+d) Colaborar na definição e execução da política de pessoal, bem como proceder à adoção de instrumentos de gestão de recursos humanos e à coordenação da aplicação do sistema de avaliação de desempenho, assegurando as atividades de administração corrente dos trabalhadores e mantendo atualizados os respetivos ficheiros;
+
+e) Executar e coordenar todas as ações necessárias à constituição, modificação e extinção da relação jurídica de emprego do pessoal da DGSS;
+
+f) Coordenar o plano de formação e desenvolvimento de competências do pessoal da DGSS, com base em prévio diagnóstico das necessidades e proceder à avaliação dos resultados;
+
+g) Elaborar o balanço social da DGSS;
+
+h) Assegurar e coordenar o tratamento administrativo dos assuntos relacionados com o funcionamento da DGSS, incluindo o expediente geral e a divulgação de normas internas e diretivas gerais;
+
+i) Apoiar os serviços da DGSS na utilização do equipamento e suporte tecnológico de uso individual, bem como dos sistemas de comunicação;
+
+j) Assegurar e desenvolver a gestão dos recursos financeiros, elaborar a proposta de orçamento e o plano de investimentos e despesas de desenvolvimento da DGSS e acompanhar e avaliar a sua execução;
+
+k) Efetuar o processamento dos vencimentos e outros abonos e realizar as operações necessárias à efetivação de despesas;
+
+l) Assegurar a aquisição ou locação de bens e serviços e a respetiva contratação, administrar e inventariar o património e garantir a boa gestão dos bens patrimoniais e de consumo corrente;
+
+m) Zelar pela conservação, manutenção e segurança das instalações da DGSS.
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.
+
+###### Artigo 8.º — Unidades orgânicas flexíveis
+
+O número máximo de unidades orgânicas flexíveis da DGSS é fixado em oito.
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.
+
+###### Artigo 9.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.
+
+Em 18 de fevereiro de 2013.
+
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.
+
+> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 286/2026/1 - Diário da República n.º 127/2026, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-2026-1143461619), em vigor a partir de 2026-08-01.

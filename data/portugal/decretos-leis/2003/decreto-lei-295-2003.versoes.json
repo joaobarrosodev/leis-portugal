@@ -1,0 +1,698 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:438040:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-853133368",
+ "dre_path": "/dr/detalhe/decreto-lei/295-2003-438040",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-11-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "853132994",
+    "853132995",
+    "853132996",
+    "853132997",
+    "853132998",
+    "853132999",
+    "853133000",
+    "853133001",
+    "853133002",
+    "853133003",
+    "853133004",
+    "853133005",
+    "853133006",
+    "853133007",
+    "853133008",
+    "853133009",
+    "853133010",
+    "853133011",
+    "853133012",
+    "853133013",
+    "853133014",
+    "853133015",
+    "853133016",
+    "853133017",
+    "853133018",
+    "853133019",
+    "853133020",
+    "853133021",
+    "853133022",
+    "853133023",
+    "853133024",
+    "853133025",
+    "853133026",
+    "853133027",
+    "853133028",
+    "853133029",
+    "853133030",
+    "853133031",
+    "853133032",
+    "853133033",
+    "853133034",
+    "853133035",
+    "853133036",
+    "853133037",
+    "853133038",
+    "853133039",
+    "853133040",
+    "853133041",
+    "853133042",
+    "853133043",
+    "853133044",
+    "853133045",
+    "853133046",
+    "853133047",
+    "853133048",
+    "853133049",
+    "853133050",
+    "853133051",
+    "853133052",
+    "853133053"
+   ]
+  },
+  {
+   "date": "2007-06-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:518430:por",
+     "title": "Decreto-Lei n.º 61/2007",
+     "published": "2007-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/61-2007-518430"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "853132994",
+    "853132995",
+    "853385493",
+    "853132997",
+    "853132998",
+    "853132999",
+    "853133057",
+    "853133001",
+    "853133002",
+    "853133003",
+    "853133004",
+    "853133005",
+    "853133006",
+    "853133007",
+    "853133008",
+    "853133009",
+    "853133010",
+    "853133011",
+    "853133012",
+    "853133013",
+    "853133014",
+    "853133015",
+    "853133016",
+    "853133017",
+    "853385494",
+    "853133019",
+    "853385495",
+    "853133021",
+    "853133022",
+    "853133023",
+    "853133024",
+    "853133025",
+    "853133026",
+    "853133027",
+    "853133028",
+    "853133029",
+    "853133030",
+    "853133031",
+    "853133032",
+    "853133033",
+    "853133034",
+    "853133035",
+    "853133036",
+    "853133037",
+    "853133038",
+    "853133039",
+    "853133040",
+    "853133059",
+    "853133042",
+    "853133043",
+    "853133044",
+    "853133045",
+    "853133046",
+    "853133047",
+    "853133048",
+    "853133049",
+    "853133050",
+    "853133051",
+    "853133052",
+    "853133053",
+    "853133054"
+   ]
+  }
+ ],
+ "fragments": {
+  "853132994": {
+   "fragment_id": "853133369",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 295/2003\n\nde 21 de Novembro\n\nA liberalização dos movimentos de capitais operada na Comunidade Económica Europeia pela aprovação da Directiva n.º 88/361/CEE, do Conselho, de 24 de Junho, cuja doutrina foi posteriormente integrada no Tratado da Comunidade Europeia (Tratado CE) pelo Tratado da União Europeia, consolidou-se plenamente no ordenamento jurídico da Comunidade Europeia com o advento da 3.ª fase da União Económica e Monetária (UEM) e a adopção do euro como moeda única.\n\nA legislação cambial portuguesa, compreendendo a regulamentação da realização de operações cambiais em sentido próprio, o exercício do comércio de câmbios, a contratação e liquidação de operações económicas e financeiras com o exterior e as operações sobre ouro, repartia-se pelo Decreto-Lei n.º 13/90, de 8 de Janeiro, alterado pelo Decreto-Lei n.º 64/91, de 8 de Fevereiro, e pelo Decreto-Lei n.º 176/91, de 14 de Maio, posteriormente alterados pelo Decreto-Lei n.º 170/93, de 11 de Maio.\n\nEste regime foi tangencialmente ajustado pelo Decreto-Lei n.º 138/98, de 16 de Maio, na fase de transição para o euro, com vista à necessária compatibilização.\n\nMostra-se, portanto, conveniente a reformulação e sistematização da legislação cambial portuguesa, de modo a harmonizá-la com os quadros legislativos comunitários de referência, bem como a adequá-la à tipologia das operações adoptadas pelo Fundo Monetário Internacional (FMI) e pela OCDE.\n\nPor outro lado, no tocante ao regime dos ilícitos cambiais, têm-se evidenciado significativas dificuldades na execução dos dispositivos sancionatórios, designadamente pela inadequação dos montantes das coimas previstas e dos critérios da sua determinação, bem como de vários procedimentos nele fixados.\n\nA proximidade temática das matérias anteriormente enunciadas, conjugada com a desactualização e o esvaziamento de várias disposições do regime legal vigente, nomeadamente por força da liberalização total dos movimentos de capitais, recomenda a fusão num único diploma das matérias em causa.\n\nO presente diploma segue, no essencial, a estrutura do Decreto-Lei n.º 13/90, de 8 de Janeiro, com as adaptações necessárias a acomodar a matéria que se encontrava vertida no Decreto-Lei n.º 176/91, de 14 de Maio. Optou-se, ainda, por adoptar conceitos gerais e por remeter para a via regulamentar - avisos e instruções do Banco de Portugal - a explicitação de procedimentos deles decorrentes ou necessários à sua correcta execução.\n\nA disciplina normativa do diploma desenvolve-se em torno das noções de operações económicas e financeiras com o exterior e de operações cambiais.\n\nConstituem operações cambiais a compra e venda de moeda estrangeira e as transferências de ou para o exterior expressas em moeda estrangeira para liquidação de operações económicas e financeiras com o exterior. Como se vê, o elemento caracterizador da noção de operações cambiais reside no tipo de moeda utilizada - estrangeira, na acepção do artigo 5.º -, excluindo-se toda e qualquer operação realizada em euros.\n\nTodas as restantes operações passam a ser inseridas no conceito de operações económicas e financeiras com o exterior.\n\nNestes termos, é operação cambial a liquidação em moeda estrangeira de operações económicas e financeiras com o exterior, ao passo que são operações económicas e financeiras com o exterior todos os actos e negócios que envolvam um residente e um não residente, quer este último seja ou não residente de um país da zona do euro.\n\nAjustaram-se - nomeadamente para efeitos de notação estatística - as noções de residente e não residente aos conceitos e tipologia usados pelo FMI, importando destacar a adopção da regra de que o estatuto dos bens e direitos passa a seguir o estatuto do respectivo titular.\n\nRelativamente à definição, de importância operacional, de moeda estrangeira, optou-se por uma formulação simples que teve em conta a nossa integração no euro, bem como o conceito de moeda electrónica, na acepção do artigo 1.º da Directiva n.º 2000/46/CE, do Parlamento Europeu e do Conselho, de 18 de Setembro.\n\nO câmbio manual, que havia sido abolido no início da década de 90, como exercício legal do comércio de certo tipo de operações cambiais por empresas não financeiras, quando associadas à sua actividade principal, constitui outro aspecto inovador do presente diploma. Tais operações passam a ser obrigatoriamente enquadradas por um contrato a celebrar com entidades autorizadas a exercer o comércio de câmbios, o qual fica sujeito a registo especial no Banco de Portugal.\n\nPor fim, no que diz respeito às contra-ordenações cambiais, aproximaram-se, nos aspectos em que tal se afigurou possível e útil, as soluções normativas deste diploma das constantes do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, e alterado pelos Decretos-Leis n.os 246/95, de 14 de Setembro, 232/96, de 5 de Dezembro, 222/99, de 22 de Junho, 250/2000, de 13 de Outubro, 285/2001, de 3 de Novembro, e 201/2002, de 26 de Setembro, o qual passa a constituir direito subsidiário nesta matéria.\n\nDeste modo, autonomizaram-se os ilícitos cambiais resultantes do exercício de actividades não autorizadas dos ilícitos que consistem no não cumprimento de outras obrigações estabelecidas no presente diploma, em virtude da diferente gravidade dos mesmos.\n\nNo que se refere à aplicação da sanção, substituiu-se o critério de mera proporcionalidade aritmética em função do valor dos bens e direitos a que respeita a infracção por um quadro de critérios gerais de graduação da sanção, mais adequado à realidade e aos princípios constitucionais aplicáveis.\n\nÀ semelhança da solução preconizada no Regime Geral das Instituições de Crédito e Sociedades Financeiras, transfere-se a competência para a aplicação das correspondentes sanções do Ministro das Finanças para o conselho de administração do Banco de Portugal.\n\nForam ouvidos o Banco Central Europeu, o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários, as associações representativas das empresas do sector e as associações representativas dos consumidores.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 25/2003, de 17 de Julho, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "853132995": {
+   "fragment_id": "853133370",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "853132996": {
+   "fragment_id": "853133371",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente diploma regula a realização de operações económicas e financeiras com o exterior, bem como a realização de operações cambiais no território nacional, incluindo o exercício do comércio de câmbios e a realização de operações sobre ouro.\n\n2 - Estão também sujeitas às disposições do presente diploma a importação, exportação e reexportação de:\n\na) Ouro amoedado, em barra ou noutras formas não trabalhadas;\n\nb) Notas ou moedas metálicas em circulação, com curso legal nos respectivos países de emissão, e outros meios de pagamento;\n\nc) Valores mobiliários titulados, na acepção do Código dos Valores Mobiliários, bem como outros títulos de natureza análoga, emitidos por entidades nacionais ou estrangeiras;\n\nd) Notas e moedas portuguesas fora de circulação, enquanto não estiver extinta a responsabilidade do Banco de Portugal pelo seu pagamento."
+  },
+  "853132997": {
+   "fragment_id": "853133372",
+   "type": 11,
+   "heading": "Artigo 2.º — Operações económicas e financeiras com o exterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Operações económicas e financeiras com o exterior\n\n1 - Consideram-se operações económicas e financeiras com o exterior os actos e negócios de qualquer natureza de cuja execução resultem ou possam resultar recebimentos ou pagamentos entre residentes e não residentes ou transferências de ou para o exterior.\n\n2 - A lista das operações compreendidas no número anterior é publicada em instrução do Banco de Portugal."
+  },
+  "853132998": {
+   "fragment_id": "853133373",
+   "type": 11,
+   "heading": "Artigo 3.º — Operações cambiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Operações cambiais\n\n1 - São consideradas operações cambiais:\n\na) A compra e venda de moeda estrangeira;\n\nb) As transferências de ou para o exterior expressas em moeda estrangeira, para liquidação de operações económicas e financeiras com o exterior.\n\n2 - São equiparadas a operações cambiais:\n\na) A abertura e a movimentação de contas em território nacional, nos livros das instituições autorizadas, em nome de não residentes;\n\nb) A abertura e a movimentação de contas em território nacional, nos livros das instituições autorizadas, em nome de residentes, expressas em moeda estrangeira, bem como em unidades de conta utilizadas em pagamentos ou compensações internacionais;\n\nc) A abertura e a movimentação no estrangeiro de contas de residentes."
+  },
+  "853132999": {
+   "fragment_id": "853133374",
+   "type": 11,
+   "heading": "Artigo 4.º — Residentes e não residentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Residentes e não residentes\n\n1 - Para efeitos de aplicação do presente diploma, são considerados residentes em território nacional:\n\na) As pessoas singulares com residência habitual em Portugal, incluindo as que se desloquem ao estrangeiro por motivos de estudo ou de saúde, independentemente da duração da estada;\n\nb) As pessoas singulares com residência habitual em Portugal relativamente à actividade desenvolvida em território estrangeiro de modo não ocasional, nomeadamente trabalhadores de fronteira ou sazonais e tripulantes de navios, aviões ou outros equipamentos móveis a operar total ou parcialmente no estrangeiro;\n\nc) As pessoas singulares com residência habitual em Portugal contratadas por embaixadas, consulados e estabelecimentos militares estrangeiros situados em território nacional, assim como por organizações internacionais com representação em Portugal;\n\nd) O pessoal diplomático e militar nacional a trabalhar nas representações diplomáticas e consulares do Estado Português e nos estabelecimentos militares portugueses situados no estrangeiro, assim como as pessoas singulares nacionais que prestem funções ou comissões de carácter público ao serviço do Estado Português no estrangeiro;\n\ne) As pessoas colectivas de direito privado com sede em Portugal e as pessoas colectivas de direito privado com sede no estrangeiro que aqui possuam edifícios ou terrenos por um período de tempo não inferior a um ano, relativamente às transacções sobre os mesmos;\n\nf) As sucursais, agências ou quaisquer outras formas de representação estável em território nacional de pessoas colectivas de direito privado ou de outras entidades com sede no estrangeiro;\n\ng) As pessoas colectivas de direito público portuguesas, os fundos públicos dotados de autonomia administrativa e financeira, bem como as representações diplomáticas e consulares do Estado Português, os estabelecimentos militares e outras infra-estruturas portuguesas situadas no estrangeiro.\n\n2 - Para efeitos da aplicação do presente diploma, são havidos como não residentes no território nacional:\n\na) As pessoas singulares com residência habitual em Portugal que se desloquem ao estrangeiro para desenvolver actividades de modo não ocasional e aí permaneçam por um período de tempo superior a 12 meses consecutivos;\n\nb) O pessoal diplomático e militar estrangeiro a trabalhar nas representações diplomáticas e consulares estrangeiras e nos estabelecimentos militares estrangeiros situados em território nacional, assim como as pessoas singulares estrangeiras que prestem funções ou comissões de carácter público ao serviço do Estado estrangeiro em território nacional;\n\nc) As pessoas colectivas de direito privado com sede em Portugal, mas que desenvolvam a sua principal actividade no estrangeiro, relativamente à actividade exercida fora do território nacional;\n\nd) As sucursais, agências ou quaisquer outras formas de representação estável em território estrangeiro de pessoas colectivas de direito privado com sede em Portugal ou de outras entidades residentes;\n\ne) As organizações internacionais com sede ou representações em Portugal;\n\nf) Outras pessoas singulares ou colectivas que se encontrem em situações não abrangidas no número anterior.\n\n3 - A residência presume-se habitual decorrido que seja um ano sobre o seu início, sem prejuízo da possibilidade de prova dessa habitualidade em momento anterior ao decurso daquele período de tempo.\n\n4 - Em caso de alteração das qualidades de residente ou de não residente, os bens e direitos anteriormente adquiridos pela pessoa singular ou colectiva ou pela entidade em causa acompanham o seu novo estatuto."
+  },
+  "853133000": {
+   "fragment_id": "853383275",
+   "type": 11,
+   "heading": "Artigo 5.º — Moeda estrangeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Moeda estrangeira\n\n1 - Consideram-se moeda estrangeira as notas ou moedas metálicas com curso legal em países não participantes na zona do euro, bem como a moeda electrónica, na acepção do artigo 1.º da Directiva n.º 2000/46/CE, do Parlamento Europeu e do Conselho, de 18 de Setembro, denominada na unidade monetária desses países.\n\n2 - Consideram-se também moeda estrangeira os créditos líquidos e exigíveis derivados de contas abertas em instituições autorizadas a receber os depósitos e os títulos de crédito que sirvam para efectuar pagamentos expressos em moedas de países não participantes na zona do euro ou em unidades de conta utilizadas em pagamentos ou compensações internacionais."
+  },
+  "853133001": {
+   "fragment_id": "853383276",
+   "type": 11,
+   "heading": "Artigo 6.º — Operações sobre ouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Operações sobre ouro\n\nPara os efeitos do presente diploma, entende-se por operações sobre ouro aquelas que tenham por objecto ouro amoedado, em barra ou em qualquer outra forma não trabalhada."
+  },
+  "853133002": {
+   "fragment_id": "853383277",
+   "type": 11,
+   "heading": "Artigo 7.º — Banco de Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Banco de Portugal\n\nA realização de operações cambiais e o exercício do comércio de câmbios pelo Banco de Portugal, bem como a realização de operações sobre ouro pelo mesmo Banco, regem-se pelo estatuído na respectiva lei orgânica, não lhes sendo aplicáveis as disposições do presente diploma."
+  },
+  "853133003": {
+   "fragment_id": "853383278",
+   "type": 1,
+   "heading": "Capítulo II — Operações económicas e financeiras com o exterior e operações cambiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Operações económicas e financeiras com o exterior e operações cambiais"
+  },
+  "853133004": {
+   "fragment_id": "853383279",
+   "type": 8,
+   "heading": "Secção I — Operações económicas e financeiras com o exterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Operações económicas e financeiras com o exterior"
+  },
+  "853133005": {
+   "fragment_id": "853383280",
+   "type": 11,
+   "heading": "Artigo 8.º — Liberdade de contratação e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Liberdade de contratação e liquidação\n\n1 - A contratação e liquidação de operações económicas e financeiras com o exterior pode efectuar-se livremente, sem prejuízo do disposto no artigo 21.º\n\n2 - Entende-se por liquidação de operações económicas e financeiras com o exterior o pagamento ou outras formas de extinção dos vínculos contratuais ou de outras obrigações.\n\n3 - O disposto no n.º 1 não prejudica a aplicação de legislação de outra natureza, nomeadamente no domínio aduaneiro e do investimento directo estrangeiro."
+  },
+  "853133006": {
+   "fragment_id": "853383281",
+   "type": 8,
+   "heading": "Secção II — Operações cambiais e comércio de câmbios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Operações cambiais e comércio de câmbios"
+  },
+  "853133007": {
+   "fragment_id": "853383282",
+   "type": 11,
+   "heading": "Artigo 9.º — Exercício do comércio de câmbios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exercício do comércio de câmbios\n\nEntende-se por exercício do comércio de câmbios a realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações cambiais."
+  },
+  "853133008": {
+   "fragment_id": "853383283",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidades autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entidades autorizadas\n\n1 - Só estão autorizadas a exercer o comércio de câmbios em território nacional as instituições de crédito e as sociedades financeiras para tanto habilitadas, de acordo com as normas legais e regulamentares que regem a respectiva constituição e actividade, sem prejuízo do disposto nos artigos 11.º e 12.º\n\n2 - O exercício do comércio de câmbios pelas entidades autorizadas limita-se às operações expressamente previstas nas normas referidas no número anterior."
+  },
+  "853133009": {
+   "fragment_id": "853383284",
+   "type": 11,
+   "heading": "Artigo 11.º — Vales postais internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vales postais internacionais\n\nÉ livre a emissão e o pagamento de vales postais internacionais, nos termos e condições fixados pela concessionária do serviço postal universal, tendo em consideração a regulamentação do serviço de vales postais, os acordos celebrados e as práticas internacionais."
+  },
+  "853133010": {
+   "fragment_id": "853383285",
+   "type": 11,
+   "heading": "Artigo 12.º — Câmbio manual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Câmbio manual\n\n1 - Entende-se por câmbio manual a compra e venda de notas e moedas metálicas estrangeiras e a compra de cheques de viagem.\n\n2 - As instituições de crédito ou sociedades financeiras autorizadas a exercer o comércio de câmbios podem celebrar contratos com empresas não financeiras que operem nos sectores turístico e de viagens com vista à realização por estas de operações de câmbio manual, desde que sejam acessórias da sua actividade principal e restritas às pessoas singulares suas clientes.\n\n3 - Os contratos referidos no n.º 2 são celebrados por escrito e estão sujeitos a inscrição em registo especial no Banco de Portugal, da qual depende a realização de operações de câmbio manual pelas instituições não financeiras contraentes.\n\n4 - Compete ao Banco de Portugal fixar por aviso:\n\na) Os tipos de empresas não financeiras que podem celebrar os contratos referidos no número anterior;\n\nb) Os limites e condições a observar na realização de operações de câmbio manual, nomeadamente quanto à identificação dos intervenientes e aos limites quantitativos máximos de cada operação;\n\nc) Os principais direitos e obrigações contratuais das partes;\n\nd) As condições em que se processa o registo do contrato no Banco de Portugal."
+  },
+  "853133011": {
+   "fragment_id": "853383286",
+   "type": 11,
+   "heading": "Artigo 13.º — Princípio de intermediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Princípio de intermediação\n\nSalvo nos casos previstos nos artigos seguintes, as operações cambiais devem ser realizadas por intermédio de uma entidade autorizada a exercer o comércio de câmbios, para o efeito legalmente habilitada, ou ainda, no caso de operações compreendidas na alínea b) do n.º 1 do artigo 3.º, pela concessionária do serviço postal universal, dentro dos limites fixados."
+  },
+  "853133012": {
+   "fragment_id": "853383287",
+   "type": 11,
+   "heading": "Artigo 14.º — Pagamentos entre residentes e não residentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pagamentos entre residentes e não residentes\n\nOs pagamentos entre residentes e não residentes relativos a operações económicas e financeiras com o exterior em que intervenham podem ser realizados directamente através de qualquer meio de pagamento expresso em moeda estrangeira."
+  },
+  "853133013": {
+   "fragment_id": "853383288",
+   "type": 11,
+   "heading": "Artigo 15.º — Compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Compensação\n\nOs residentes podem extinguir por compensação, total ou parcial, as suas obrigações para com não residentes."
+  },
+  "853133014": {
+   "fragment_id": "853383289",
+   "type": 11,
+   "heading": "Artigo 16.º — Assunção de dívidas e cessão de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Assunção de dívidas e cessão de créditos\n\nOs residentes podem, entre si, assumir dívidas ou ceder créditos expressos em moeda estrangeira ou em unidades de conta utilizadas nos pagamentos e compensações internacionais."
+  },
+  "853133015": {
+   "fragment_id": "853383290",
+   "type": 11,
+   "heading": "Artigo 17.º — Contas em território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contas em território nacional\n\nÉ livre a abertura e movimentação de contas em território nacional, nos livros das instituições autorizadas:\n\na) Em nome de residentes, expressas em moeda estrangeira ou em ouro, bem como em unidades de conta utilizadas em pagamentos ou compensações internacionais;\n\nb) Em nome de não residentes, expressas em euros, em moeda estrangeira ou em ouro, bem como em unidades de conta utilizadas em pagamentos ou compensações internacionais."
+  },
+  "853133016": {
+   "fragment_id": "853383291",
+   "type": 11,
+   "heading": "Artigo 18.º — Disponibilidades no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Disponibilidades no estrangeiro\n\nÉ livre a abertura e movimentação por residentes de contas junto de instituições não residentes."
+  },
+  "853133017": {
+   "fragment_id": "853383292",
+   "type": 8,
+   "heading": "Secção III — Importação, exportação e reexportação de meios de pagamento e de valores mobiliários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Importação, exportação e reexportação de meios de pagamento e de valores mobiliários"
+  },
+  "853133018": {
+   "fragment_id": "853383293",
+   "type": 11,
+   "heading": "Artigo 19.º — Importação, exportação e reexportação de meios de pagamento e de valores mobiliários titulados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Importação, exportação e reexportação de meios de pagamento e de valores mobiliários titulados\n\n1 - São livres a importação, a exportação e a reexportação de notas e moedas metálicas em circulação, com curso legal nos respectivos países de emissão, ou de outros meios de pagamento, expressos nestas moedas ou em unidades de conta utilizadas em pagamentos internacionais.\n\n2 - São igualmente livres a importação, a exportação e a reexportação de valores mobiliários titulados, na acepção do Código de Valores Mobiliários, e de títulos de natureza análoga, sem prejuízo da legislação reguladora dos mercados de valores mobiliários.\n\n3 - Os residentes ou não residentes que, nomeadamente à saída ou à entrada do território nacional, transportem consigo notas e moedas metálicas em circulação, com curso legal nos respectivos países de emissão, e cheques de viagem ou títulos ao portador expressos nestas moedas ou em unidades de conta utilizadas em pagamentos internacionais cujo valor global atinja ou ultrapasse o equivalente a (euro) 12500 devem, quando solicitado, declarar esse facto às autoridades competentes.\n\n4 - A obrigação de declaração referida no número anterior aplica-se ainda aos residentes e não residentes que transportem consigo notas ou moedas metálicas portuguesas fora de circulação enquanto não estiver extinta a responsabilidade pelo seu pagamento."
+  },
+  "853133019": {
+   "fragment_id": "853383294",
+   "type": 8,
+   "heading": "Secção IV — Operações sobre ouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Operações sobre ouro"
+  },
+  "853133020": {
+   "fragment_id": "853383295",
+   "type": 11,
+   "heading": "Artigo 20.º — Operações sobre ouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Operações sobre ouro\n\n1 - É livre a importação, exportação ou reexportação de ouro amoedado, em barra ou noutras formas não trabalhadas, sem prejuízo da observância de disposições de natureza não cambial aplicáveis.\n\n2 - Os residentes ou não residentes que, nomeadamente à saída ou entrada em território nacional, transportem consigo ouro amoedado, em barra ou noutras formas não trabalhadas, cujo valor global atinja ou ultrapasse o equivalente a (euro) 12500 devem, quando solicitado, declarar esse facto às autoridades competentes.\n\n3 - É livre a realização, em território nacional, de operações sobre ouro, sem prejuízo da observância de disposições de natureza não cambial aplicáveis."
+  },
+  "853133021": {
+   "fragment_id": "853383296",
+   "type": 8,
+   "heading": "Secção V — Medidas de excepção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Medidas de excepção"
+  },
+  "853133022": {
+   "fragment_id": "853383297",
+   "type": 11,
+   "heading": "Artigo 21.º — Restrições temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Restrições temporárias\n\nPor razões políticas graves e em situações de urgência, de acordo com as normas internacionais vinculativas do Estado Português, podem ser impostas restrições temporárias à realização por residentes de operações económicas e financeiras e cambiais com pessoas singulares ou colectivas nacionais ou residentes em Estados que não sejam membros da Comunidade Europeia."
+  },
+  "853133023": {
+   "fragment_id": "853383298",
+   "type": 8,
+   "heading": "Secção VI — Atribuições e competências do Banco de Portugal e deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Atribuições e competências do Banco de Portugal e deveres de informação"
+  },
+  "853133024": {
+   "fragment_id": "853383299",
+   "type": 11,
+   "heading": "Artigo 22.º — Atribuições e competências do Banco de Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Atribuições e competências do Banco de Portugal\n\n1 - Para além das atribuições e competências expressamente previstas no presente diploma, cabe ao Banco de Portugal, no âmbito da sua participação no Sistema Europeu de Bancos Centrais, regular o funcionamento do mercado cambial e fiscalizar o exercício do comércio de câmbios e a realização de operações cambiais.\n\n2 - Cabe ao Banco de Portugal regulamentar o presente diploma através de avisos ou de instruções."
+  },
+  "853133025": {
+   "fragment_id": "853383300",
+   "type": 11,
+   "heading": "Artigo 23.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Deveres de informação\n\n1 - As entidades autorizadas a exercer o comércio de câmbios e outras entidades designadas pelo Banco de Portugal devem enviar-lhe, em conformidade com os avisos e instruções que por este forem emitidos e nos prazos neles fixados, os elementos de informação, designadamente de natureza estatística, relativos às operações abrangidas pelo presente diploma em que intervenham, por conta própria ou por conta de clientes.\n\n2 - As entidades a que se refere o número anterior devem conservar os elementos relativos às operações em que intervenham pelo prazo de cinco anos a contar da sua realização, sem prejuízo de prazos superiores fixados na lei."
+  },
+  "853133026": {
+   "fragment_id": "853383301",
+   "type": 1,
+   "heading": "Capítulo III — Contra-ordenações cambiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Contra-ordenações cambiais"
+  },
+  "853133027": {
+   "fragment_id": "853383302",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "853133028": {
+   "fragment_id": "853383303",
+   "type": 11,
+   "heading": "Artigo 24.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Legislação subsidiária\n\nÀs contra-ordenações previstas no presente diploma é subsidiariamente aplicável o Regime Geral das Instituições de Crédito e das Sociedades Financeiras, em tudo o que não seja incompatível com o disposto neste capítulo."
+  },
+  "853133029": {
+   "fragment_id": "853383304",
+   "type": 11,
+   "heading": "Artigo 25.º — Da responsabilidade pelas contra-ordenações e pelo pagamento das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Da responsabilidade pelas contra-ordenações e pelo pagamento das coimas\n\n1 - Pela prática das infracções previstas no presente diploma podem ser responsabilizadas, conjuntamente ou não, pessoas singulares ou colectivas, ainda que irregularmente constituídas, associações sem personalidade jurídica e comissões especiais.\n\n2 - As pessoas colectivas, ainda que irregularmente constituídas, e as associações sem personalidade jurídica e comissões especiais são responsáveis pelas contra-ordenações previstas no presente diploma quando cometidas pelos titulares dos respectivos órgãos ou pelos seus representantes em nome e no interesse do ente colectivo.\n\n3 - A responsabilidade das entidades referidas no número anterior não exclui a responsabilidade individual dos respectivos agentes, que são puníveis mesmo quando o tipo legal de contra-ordenação exija determinados elementos pessoais e estes só se verifiquem na pessoa do representado ou que o agente pratique o acto no seu próprio interesse e o representante actue no interesse do representado.\n\n4 - O disposto no número anterior para os casos de representação é aplicável ainda que seja inválido ou ineficaz o acto jurídico em que se funda a relação entre o agente individual e o ente colectivo.\n\n5 - As entidades referidas no n.º 2 deste artigo respondem solidariamente, nos termos da lei civil, pelo pagamento das coimas e das custas em que forem condenados os agentes das contra-ordenações puníveis nos termos do presente diploma.\n\n6 - Os representantes das entidades referidas no n.º 2 são responsáveis, individual e solidariamente, pelo pagamento das coimas e das custas em que aquelas sejam condenadas ainda que as mesmas, à data da condenação, tenham sido dissolvidas ou entrado em liquidação."
+  },
+  "853133030": {
+   "fragment_id": "853383305",
+   "type": 11,
+   "heading": "Artigo 26.º — Cumprimento do dever omitido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cumprimento do dever omitido\n\nSempre que a contra-ordenação resulte da omissão de um dever, o pagamento da coima não dispensa o infractor do seu cumprimento, se este ainda for possível."
+  },
+  "853133031": {
+   "fragment_id": "853383306",
+   "type": 11,
+   "heading": "Artigo 27.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Destino das coimas\n\nO produto das coimas reverte integralmente para o Estado."
+  },
+  "853133032": {
+   "fragment_id": "853383307",
+   "type": 11,
+   "heading": "Artigo 28.º — Tentativa, negligência e favorecimento pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Tentativa, negligência e favorecimento pessoal\n\n1 - A tentativa, a negligência e o favorecimento pessoal são puníveis.\n\n2 - Nos casos de tentativa, de negligência e de favorecimento pessoal, os limites mínimo e máximo das coimas previstas no correspondente tipo legal, bem como as quantias a depositar nos termos do artigo 41.º, são reduzidos a metade."
+  },
+  "853133033": {
+   "fragment_id": "853383308",
+   "type": 11,
+   "heading": "Artigo 29.º — Graduação da sanção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Graduação da sanção\n\n1 - A determinação da medida da coima e das sanções acessórias faz-se em função da gravidade objectiva e subjectiva da infracção, tendo em conta a natureza individual ou colectiva do agente considerado.\n\n2 - A gravidade da infracção cometida pelas pessoas colectivas ou equiparadas é avaliada, designadamente, pelas seguintes circunstâncias:\n\na) Carácter ocasional ou reiterado da infracção;\n\nb) Prática de actos de ocultação, na medida em que dificultem a descoberta da infracção ou a eficácia da sanção aplicável;\n\nc) Actos do arguido destinados a, por sua iniciativa, reparar os danos ou obviar aos perigos causados pela infracção.\n\n3 - Na determinação da ilicitude concreta do facto e da culpa das pessoas singulares, além das circunstâncias referidas no número anterior, deve atender-se ainda, designadamente, às seguintes:\n\na) Nível de responsabilidade, âmbito das funções e esfera de acção da pessoa colectiva em causa;\n\nb) Intenção de obter, para si ou para outrem, um benefício ilegítimo ou de causar danos;\n\nc) Especial dever de não cometer a infracção.\n\n4 - Na determinação da sanção aplicável são ainda tomadas em conta a situação económica e a conduta anterior do arguido.\n\n5 - A coima deve, sempre que possível, exceder o benefício económico que o arguido ou a pessoa que este pretendesse beneficiar tenha retirado da prática da infracção."
+  },
+  "853133034": {
+   "fragment_id": "853383309",
+   "type": 11,
+   "heading": "Artigo 30.º — Concurso de infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Concurso de infracções\n\nSe o mesmo facto constituir simultaneamente crime e contra-ordenação, o arguido é responsabilizado por ambas as infracções, instaurando-se, para o efeito, processos distintos perante o tribunal competente e o Banco de Portugal, para o efeito da aplicação por este, se for caso disso, das sanções acessórias previstas no presente diploma."
+  },
+  "853133035": {
+   "fragment_id": "853383310",
+   "type": 11,
+   "heading": "Artigo 31.º — Prescrição do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Prescrição do procedimento\n\nO procedimento por contra-ordenação cambial extingue-se por efeito de prescrição, logo que sobre a prática da contra-ordenação hajam decorridos cinco anos."
+  },
+  "853133036": {
+   "fragment_id": "853383311",
+   "type": 11,
+   "heading": "Artigo 32.º — Prescrição das coimas e das sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Prescrição das coimas e das sanções acessórias\n\nAs coimas e as sanções acessórias previstas neste diploma prescrevem no prazo de cinco anos, contados a partir da decisão condenatória definitiva."
+  },
+  "853133037": {
+   "fragment_id": "853383312",
+   "type": 8,
+   "heading": "Secção II — Das contra-ordenações cambiais em especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das contra-ordenações cambiais em especial"
+  },
+  "853133038": {
+   "fragment_id": "853383313",
+   "type": 11,
+   "heading": "Artigo 33.º — Exercício de actividade não autorizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Exercício de actividade não autorizada\n\nQuem, sem estar devidamente autorizado, realizar de forma habitual e com intuito lucrativo, por conta própria ou alheia, operações cambiais é punido com coima de (euro) 5000 a (euro) 1250000 ou de (euro) 2500 a (euro) 625000, consoante seja aplicada a pessoa colectiva ou equiparada ou a pessoa singular."
+  },
+  "853133039": {
+   "fragment_id": "853383314",
+   "type": 11,
+   "heading": "Artigo 34.º — Outros ilícitos cambiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Outros ilícitos cambiais\n\nQuem, com infracção ao disposto nos artigos 12.º, 13.º e 21.º, realizar operações cambiais ou efectuar operações económicas e financeiras com o exterior é punido com coima de (euro) 2500 a (euro) 625000 ou de (euro) 1000 a (euro) 312500, consoante seja aplicada a pessoa colectiva ou equiparada ou a pessoa singular."
+  },
+  "853133040": {
+   "fragment_id": "853383315",
+   "type": 11,
+   "heading": "Artigo 35.º — Violação do dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Violação do dever de informação\n\nQuem violar as disposições relativas à prestação de informações ou à remessa, apresentação ou exibição de quaisquer declarações ou outros documentos contidos no presente decreto-lei, diplomas regulamentares, avisos ou instruções do Banco de Portugal é punido com coima de (euro) 5000 a (euro) 25000, sendo pessoa colectiva ou equiparada, ou de (euro) 2000 a (euro) 10000, sendo pessoa singular, sem prejuízo de sanção mais grave penal ou contra-ordenacional que lhe seja aplicável."
+  },
+  "853133041": {
+   "fragment_id": "853383316",
+   "type": 11,
+   "heading": "Artigo 36.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sanções acessórias\n\n1 - Em função da gravidade da contra-ordenação, da culpa e da situação económica do agente, podem ainda ser aplicadas as seguintes sanções acessórias:\n\na) Perda de bens;\n\nb) Publicação pelo Banco de Portugal da punição definitiva num dos jornais mais lidos na localidade da sede ou do estabelecimento permanente do arguido ou, se este for uma pessoa singular, na do seu domicílio profissional ou, na ausência deste, na da sua residência;\n\nc) Inibição do exercício de cargos sociais e funções de administração, fiscalização, direcção ou chefia em entidades autorizadas a exercer o comércio de câmbios;\n\nd) Interdição da realização de quaisquer operações cambiais, com ou sem suspensão da actividade económica exercida por período que não exceda o da interdição.\n\n2 - A sanção acessória de perda a favor do Estado dos bens utilizados ou obtidos com actividade ilícita é aplicada no caso de contra-ordenação prevista no artigo 34.º\n\n3 - As sanções referidas nas alíneas c) e d) do n.º 1 são aplicadas por um período de seis meses a três anos, contados a partir da decisão condenatória definitiva.\n\n4 - A sanção acessória de inibição do exercício de cargos e funções pode ser aplicada aos membros dos órgãos de gestão e fiscalização, àqueles que exerçam funções equivalentes e aos empregados com funções de direcção ou chefia das entidades autorizadas a exercer o comércio de câmbios que ordenem, pratiquem ou colaborem na prática dos actos constitutivos das contra-ordenações que a estas sejam imputáveis.\n\n5 - A sanção acessória de interdição da realização de operações cambiais pode ser aplicada a entidades não autorizadas a exercer o comércio de câmbios."
+  },
+  "853133042": {
+   "fragment_id": "853383317",
+   "type": 8,
+   "heading": "Secção III — Do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do processo"
+  },
+  "853133043": {
+   "fragment_id": "853383318",
+   "type": 11,
+   "heading": "Artigo 37.º — Averiguação e instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Averiguação e instrução\n\n1 - Sem prejuízo do disposto nos artigos 48.º e 49.º e no n.º 3 do artigo 54.º do Decreto-Lei n.º 433/82, de 27 de Outubro, com a redacção do Decreto-Lei n.º 244/95, de 14 de Setembro, a averiguação das contra-ordenações a que se refere o presente diploma e a instrução dos respectivos processos são da competência do Banco de Portugal.\n\n2 - A averiguação das contra-ordenações e a instrução dos respectivos processos são efectuadas pelos técnicos e pelos responsáveis superiores do Banco de Portugal, devidamente credenciados, aos quais é prestado pelas autoridades policiais, bem como por outras autoridades ou serviços públicos, o auxílio de que necessitem.\n\n3 - Sem prejuízo do recurso às autoridades policiais e a outras autoridades ou serviços públicos, o Banco de Portugal pode, nomeadamente, efectuar inspecções a quaisquer entidades relativamente às quais haja razões para crer que detêm documentação relevante."
+  },
+  "853133044": {
+   "fragment_id": "853383319",
+   "type": 11,
+   "heading": "Artigo 38.º — Apreensão de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Apreensão de valores\n\n1 - Pode proceder-se à apreensão de notas, moedas, cheques ou outros títulos ou valores que constituam objecto da contra-ordenação quando tal apreensão seja necessária à averiguação ou à instrução ou no caso de se indiciar contra-ordenação susceptível de impor a sua perda a favor do Estado, a título de sanção acessória.\n\n2 - Os valores apreendidos devem ser depositados em instituição de crédito devidamente autorizada à ordem do Banco de Portugal, e garantem o pagamento da coima e das custas em que vier a ser condenado o agente.\n\n3 - Quando não for possível a aplicação da coima, por não ser conhecido o agente da contra-ordenação, os valores apreendidos são declarados perdidos a favor do Estado decorridos que sejam quatro anos sobre a data de apreensão, salvo se se provar que tais valores pertenciam a terceiros, alheios à prática do ilícito."
+  },
+  "853133045": {
+   "fragment_id": "853383320",
+   "type": 11,
+   "heading": "Artigo 39.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Notificações\n\n1 - As notificações devem ser efectuadas por carta registada com aviso de recepção ou pessoalmente, se necessário através das autoridades policiais.\n\n2 - Quando o arguido não seja encontrado ou se recuse a receber a notificação, as notificações devem ser efectuadas por anúncio publicado num dos jornais da localidade da última residência conhecida no País ou, caso seja pessoa colectiva, da sua sede ou, no caso de aí não haver jornal ou de não ter residência no País, num dos jornais diários de Lisboa."
+  },
+  "853133046": {
+   "fragment_id": "853383321",
+   "type": 11,
+   "heading": "Artigo 40.º — Acusação e defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Acusação e defesa\n\n1 - Concluída a instrução, é deduzida pelos técnicos ou pelos responsáveis referidos no n.º 2 do artigo 37.º acusação em que se indiquem o infractor, os factos que lhe são imputados e as respectivas circunstâncias de tempo e lugar, bem como a lei que os proíbe e pune.\n\n2 - A referida acusação é notificada ao agente para, no prazo de um mês:\n\na) Apresentar defesa por escrito, podendo juntar documentos probatórios e arrolar testemunhas, no máximo de cinco por cada infracção; ou\n\nb) Comparecer, para ser ouvido, em dia e hora a determinar; ou, se for o caso\n\nc) Fazer prova de que efectuou o depósito da quantia prevista no n.º 2 do artigo seguinte e declarar que se compromete a cumprir as obrigações acessórias a que haja lugar, previstas no mesmo artigo."
+  },
+  "853133047": {
+   "fragment_id": "853383322",
+   "type": 11,
+   "heading": "Artigo 41.º — Solução conciliatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Solução conciliatória\n\n1 - Relativamente às contra-ordenações previstas nos artigos 34.º e 35.º, as coimas e sanções acessórias não são aplicadas e o procedimento por contra-ordenação é extinto, sem prejuízo das custas que forem devidas, se o agente, no prazo previsto no n.º 2 do artigo anterior, depositar em instituição de crédito devidamente autorizada, à ordem do Banco de Portugal, a quantia prevista no número seguinte e, no prazo de três meses a contar da notificação da acusação, cumprir, relativamente aos bens objecto da infracção, as seguintes obrigações acessórias que forem aplicáveis:\n\na) Vender ao Banco de Portugal a moeda estrangeira ou o ouro amoedado, em barra ou noutras formas não trabalhadas, ao menor câmbio ou ao menor preço que se tiver verificado entre a data da acusação e da venda;\n\nb) Cumprir quaisquer outros deveres cuja omissão se tenha verificado.\n\n2 - A quantia a depositar nos termos do número anterior é fixada entre 50% e 75% do limite mínimo da moldura legal das coimas prevista nos artigos 34.º e 35.º\n\n3 - A falta de cumprimento das obrigações indicadas nos números anteriores determina o prosseguimento do processo com vista à respectiva decisão.\n\n4 - As quantias depositadas nos termos dos números anteriores revertem a favor do Estado uma vez extinto o procedimento contra-ordenacional ou, no caso de não serem cumpridas as obrigações acessórias previstas no n.º 1, respondem pelo pagamento das coimas que eventualmente vierem a ser aplicadas."
+  },
+  "853133048": {
+   "fragment_id": "853383323",
+   "type": 11,
+   "heading": "Artigo 42.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Competência\n\n1 - Cabe ao conselho de administração do Banco de Portugal a decisão do processo.\n\n2 - A decisão proferida é notificada ao agente nos termos do artigo 39.º"
+  },
+  "853133049": {
+   "fragment_id": "853383324",
+   "type": 11,
+   "heading": "Artigo 43.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Recurso\n\nA decisão que aplicar uma coima é susceptível de impugnação judicial, mediante recurso a interpor para o Tribunal de Pequena Instância Criminal de Lisboa."
+  },
+  "853133050": {
+   "fragment_id": "853383325",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "853133051": {
+   "fragment_id": "853383326",
+   "type": 11,
+   "heading": "Artigo 44.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Revogação\n\nSão revogados os Decretos-Leis n.os 481/80, de 16 de Outubro, 13/90, de 8 de Janeiro, 64/91, de 8 de Fevereiro, 176/91, de 14 de Maio, e 170/93, de 11 de Maio, e o artigo 7.º do Decreto-Lei n.º 138/98, de 16 de Maio."
+  },
+  "853133052": {
+   "fragment_id": "853383327",
+   "type": 11,
+   "heading": "Artigo 45.º — Autorização para o exercício do comércio de câmbios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Autorização para o exercício do comércio de câmbios\n\nAs entidades não financeiras que, ao abrigo de anterior legislação, se encontrem habilitadas a realizar operações de câmbio manual devem dar cumprimento ao disposto no artigo 12.º do presente diploma e respectivos diplomas de regulamentação no prazo de 90 dias a contar da publicação do aviso referido no n.º 4 da mencionada disposição."
+  },
+  "853133053": {
+   "fragment_id": "853383328",
+   "type": 11,
+   "heading": "Artigo 46.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 60 dias após a sua publicação."
+  },
+  "853385493": {
+   "fragment_id": "853133371",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2007-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 61/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2007-518430), em vigor a partir de 2007-06-15"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente diploma regula a realização de operações económicas e financeiras com o exterior, bem como a realização de operações cambiais no território nacional, incluindo o exercício do comércio de câmbios e a realização de operações sobre ouro.\n\n2 - Estão também sujeitas às disposições do presente diploma a importação, exportação e reexportação de:\n\na) Ouro amoedado, em barra ou noutras formas não trabalhadas;\n\nb) Notas ou moedas metálicas em circulação, com curso legal nos respectivos países de emissão, e outros meios de pagamento;\n\nc) Valores mobiliários titulados, na acepção do Código dos Valores Mobiliários, bem como outros títulos de natureza análoga, emitidos por entidades nacionais ou estrangeiras;\n\nd) Notas e moedas fora de circulação, enquanto não esteja extinta a responsabilidade dos respectivos bancos centrais nacionais pelo seu pagamento.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 61/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2007-518430), em vigor a partir de 2007-06-15"
+  },
+  "853133057": {
+   "fragment_id": "853383275",
+   "type": 11,
+   "heading": "Artigo 5.º — Moeda estrangeira",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 9/2004 - Diário da República n.º 11/2004, Série I-A de 2004-01-14](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2004-603047)"
+   ],
+   "markdown": "###### Artigo 5.º — Moeda estrangeira\n\n1 - Consideram-se moeda estrangeira as notas ou moedas metálicas com curso legal em países não participantes na zona do euro, bem como a moeda electrónica, na acepção do artigo 1.º da Directiva n.º 2000/46/CE, do Parlamento Europeu e do Conselho, de 18 de Setembro, denominada na unidade monetária desses países.\n\n2 - Consideram-se também moeda estrangeira os créditos líquidos e exigíveis derivados de contas abertas em instituições autorizadas a receber os depósitos e os títulos de crédito que sirvam para efectuar pagamentos, expressos em moedas de países não participantes na zona do euro ou em unidades de conta utilizadas em pagamentos ou compensações internacionais.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 9/2004 - Diário da República n.º 11/2004, Série I-A de 2004-01-14](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2004-603047)"
+  },
+  "853385494": {
+   "fragment_id": "853383293",
+   "type": 11,
+   "heading": "Artigo 19.º — Importação, exportação e reexportação de meios de pagamento e de valores mobiliários titulados",
+   "in_force_from": "2007-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 61/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2007-518430), em vigor a partir de 2007-06-15",
+    "Retificado pelo/a [Declaração de Rectificação n.º 9/2004 - Diário da República n.º 11/2004, Série I-A de 2004-01-14](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2004-603047)"
+   ],
+   "markdown": "###### Artigo 19.º — Importação, exportação e reexportação de meios de pagamento e de valores mobiliários titulados\n\n1 - São livres a importação, a exportação e a reexportação de notas e moedas metálicas em circulação, com curso legal nos respectivos países de emissão, ou de outros meios de pagamento, expressos nestas moedas ou em unidades de conta utilizadas em pagamentos internacionais, bem como de notas e moedas fora de circulação enquanto não esteja extinta a responsabilidade dos respectivos bancos centrais nacionais pelo seu pagamento.\n\n2 - São igualmente livres a importação, a exportação e a reexportação de valores mobiliários titulados, na acepção do Código de Valores Mobiliários, e de títulos de natureza análoga, sem prejuízo da legislação reguladora dos mercados de valores mobiliários.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 61/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2007-518430), em vigor a partir de 2007-06-15\n\n> Retificado pelo/a [Declaração de Rectificação n.º 9/2004 - Diário da República n.º 11/2004, Série I-A de 2004-01-14](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2004-603047)"
+  },
+  "853385495": {
+   "fragment_id": "853383295",
+   "type": 11,
+   "heading": "Artigo 20.º — Operações sobre ouro",
+   "in_force_from": "2007-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 61/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2007-518430), em vigor a partir de 2007-06-15"
+   ],
+   "markdown": "###### Artigo 20.º — Operações sobre ouro\n\n1 - É livre a importação, exportação ou reexportação de ouro amoedado, em barra ou noutras formas não trabalhadas, sem prejuízo da observância de disposições de natureza não cambial aplicáveis.\n\n2 - (Revogado.)\n\n3 - É livre a realização, em território nacional, de operações sobre ouro, sem prejuízo da observância de disposições de natureza não cambial aplicáveis.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 61/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2007-518430), em vigor a partir de 2007-06-15"
+  },
+  "853133059": {
+   "fragment_id": "853383316",
+   "type": 11,
+   "heading": "Artigo 36.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 9/2004 - Diário da República n.º 11/2004, Série I-A de 2004-01-14](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2004-603047), produz efeitos a partir de 2004-01-20"
+   ],
+   "markdown": "###### Artigo 36.º — Sanções acessórias\n\n1 - Em função da gravidade da contra-ordenação, da culpa e da situação económica do agente, podem ainda ser aplicadas as seguintes sanções acessórias:\n\na) Perda de bens;\n\nb) Publicação pelo Banco de Portugal da punição definitiva num dos jornais mais lidos na localidade da sede ou do estabelecimento permanente do arguido ou, se este for uma pessoa singular, na do seu domicílio profissional ou, na ausência deste, na da sua residência;\n\nc) Inibição do exercício de cargos sociais e funções de administração, fiscalização, direcção ou chefia em entidades autorizadas a exercer o comércio de câmbios;\n\nd) Interdição da realização de quaisquer operações cambiais, com ou sem suspensão da actividade económica exercida por período que não exceda o da interdição.\n\n2 - A sanção acessória de perda a favor do Estado dos bens utilizados ou obtidos «com actividade ilícita é sempre aplicada no caso de contra-ordenação prevista no artigo 33.º\n\n3 - As sanções referidas nas alíneas c) e d) do n.º 1 são aplicadas por um período de seis meses a três anos, contados a partir da decisão condenatória definitiva.\n\n4 - A sanção acessória de inibição do exercício de cargos e funções pode ser aplicada aos membros dos órgãos de gestão e fiscalização, àqueles que exerçam funções equivalentes e aos empregados com funções de direcção ou chefia das entidades autorizadas a exercer o comércio de câmbios que ordenem, pratiquem ou colaborem na prática dos actos constitutivos das contra-ordenações que a estas sejam imputáveis.\n\n5 - A sanção acessória de interdição da realização de operações cambiais pode ser aplicada a entidades não autorizadas a exercer o comércio de câmbios.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 9/2004 - Diário da República n.º 11/2004, Série I-A de 2004-01-14](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2004-603047), produz efeitos a partir de 2004-01-20"
+  },
+  "853133054": {
+   "fragment_id": "853383329",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.\n\nPromulgado em 10 de Novembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Novembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

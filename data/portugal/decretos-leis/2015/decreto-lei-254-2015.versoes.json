@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:72991304:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-903114127",
+ "dre_path": "/dr/detalhe/decreto-lei/254-2015-72991304",
+ "source_lastmod": "2025-01-10",
+ "versions": [
+  {
+   "date": "2015-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "903110724",
+    "903110725",
+    "903110726",
+    "903110727",
+    "903110728"
+   ]
+  }
+ ],
+ "fragments": {
+  "903110724": {
+   "fragment_id": "903114128",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 254/2015\n\nde 30 de dezembro\n\nA Lei n.º 26/2013, de 11 de abril, que regula a atividade de distribuição, venda e aplicação de produtos fitofarmacêuticos para uso profissional, define, na alínea e) do seu artigo 3.º, o conceito de «aplicador» e instituiu a obrigação de criação de uma formação específica que o habilite ao uso profissional de fitofármacos.\n\nO n.º 2 do artigo 18.º da referida Lei, determinou, por sua vez, o cancelamento, das habilitações concedidas para efeitos de aplicação de produtos fitofarmacêuticos, com efeitos contados da data de 26 de novembro de 2015, no âmbito da legislação revogada pelo artigo 70.º da mesma Lei. As anteriores habilitações, ainda em vigor por efeito do disposto no n.º 1 do artigo 68.º da Lei n.º 26/2013, de 11 de abril, estão a chegar ao termo do seu prazo de validade, pelo que o esgotamento de tais prazos apresenta um impacto gravoso no seio dos agricultores, onde a extensão e dispersão do respetivo universo, associado à exiguidade das estruturas formativas, não se mostrou capaz de assegurar a exigida habilitação do aplicador, nos termos da referida Lei.\n\nTorna-se pois imperioso dar um enquadramento responsável a esta situação, assegurando que a necessária formação possa ser ainda obtida antes do início do período sazonal agronomicamente recomendado para a utilização de produtos fitofarmacêuticos, designadamente nas explorações agrícolas e florestais, não descurando, todavia, a necessidade de dotar o aplicador de conhecimentos necessários ao exercício da sua atividade, de acordo com as boas práticas fitossanitárias.\n\nInstitui-se, para o efeito, uma ação de formação repartida por dois módulos, sendo que o primeiro módulo, correspondente à formação inicial, é ministrado ao universo dos aplicadores que façam um uso profissional dos produtos fitofarmacêuticos, num período curto mas eficiente.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "903110725": {
+   "fragment_id": "903114129",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime especial e transitório relativo à formação dos aplicadores de produtos fitofarmacêuticos para uso profissional e define as suas consequências para efeitos de aquisição e aplicação destes produtos em explorações agrícolas e florestais, zonas urbanas, zonas de lazer e vias de comunicação."
+  },
+  "903110726": {
+   "fragment_id": "903114130",
+   "type": 11,
+   "heading": "Artigo 2.º — Ação de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ação de formação\n\n1 - É criada uma ação de formação em aplicação de produtos fitofarmacêuticos que deve ser composta por dois módulos, com a duração e conteúdos a definir por despacho do Diretor-Geral de Alimentação e Veterinária e do Diretor-Geral de Agricultura e Desenvolvimento Rural.\n\n2 - A formação inicial correspondente ao primeiro módulo deve ser assegurada ao formando até 31 de maio de 2016.\n\n3 - A inscrição do aplicador de produtos fitofarmacêuticos na ação de formação referida no número anterior, até à data de 31 de maio de 2016, autoriza a aplicação de tais produtos, em explorações agrícolas ou florestais, zonas urbanas, zonas de lazer e vias de comunicação, determinando a não aplicação ao formando das coimas previstas nas alíneas d) e j) do n.º 2 do artigo 55.º da Lei n.º 26/2013, de 11 de abril constituindo título bastante para a identificação do aplicador para os termos e efeitos do disposto no n.º 4 do artigo 15.º da referida Lei."
+  },
+  "903110727": {
+   "fragment_id": "903114131",
+   "type": 11,
+   "heading": "Artigo 3.º — Cartão de aplicador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cartão de aplicador\n\nA frequência, com aproveitamento, do primeiro módulo, até à data de 31 de maio de 2016, confere ao formando a titularidade de cartão de aplicador habilitado, para todos os efeitos legais, pelo período de dois anos, devendo nesse prazo assegurar a frequência do segundo módulo para adquirir a qualidade de aplicador para efeitos da Lei n.º 26/2013, de 11 de abril."
+  },
+  "903110728": {
+   "fragment_id": "903114132",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

@@ -1,0 +1,954 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:173707579:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2021-899756346",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/27-2021-173707579",
+ "source_lastmod": "2024-12-11",
+ "versions": [
+  {
+   "date": "2021-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "899756478",
+    "899756479",
+    "899756480",
+    "899756481",
+    "899756482",
+    "899756483",
+    "899756484",
+    "899756486",
+    "899756487",
+    "899756488",
+    "899756489",
+    "899756490",
+    "899756491",
+    "899756492",
+    "899756493",
+    "899756494",
+    "899756495",
+    "899756496",
+    "899756497",
+    "899756498",
+    "899756499",
+    "899756500",
+    "899756501",
+    "899756502",
+    "899756503",
+    "899756504",
+    "899756505",
+    "899756506",
+    "899756507",
+    "899756508",
+    "899756509",
+    "899756510",
+    "899756511",
+    "899756512",
+    "899756513",
+    "899756514",
+    "899756515",
+    "899756516",
+    "899756517",
+    "899756518",
+    "899756519",
+    "899756520",
+    "899756521",
+    "899756522",
+    "899756523",
+    "899756524",
+    "899756525",
+    "899756526",
+    "899756527",
+    "899756528",
+    "899756529",
+    "899756530",
+    "899756531",
+    "899756532",
+    "899756533",
+    "899756534",
+    "899756535",
+    "899756536",
+    "899756537",
+    "899756538"
+   ]
+  },
+  {
+   "date": "2024-12-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:899721505:por",
+     "title": "Decreto Regulamentar Regional n.º 23/2024/A",
+     "published": "2024-12-11",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 22.º-A",
+    "Adita Artigo 26.º-A",
+    "Adita Artigo 29.º-A",
+    "Adita Artigo 30.º-A",
+    "Adita Artigo 32.º-A",
+    "Altera Artigo 12.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Anexo II",
+    "Revoga Artigo 34.º"
+   ],
+   "fragments": [
+    "899756478",
+    "899756479",
+    "899756480",
+    "899756481",
+    "899756482",
+    "899756483",
+    "899756484",
+    "899756485",
+    "899756486",
+    "899756487",
+    "899756488",
+    "899756489",
+    "899756490",
+    "899756491",
+    "899756492",
+    "899756493",
+    "899756494",
+    "899756495",
+    "899756496",
+    "899756497",
+    "899756498",
+    "899756499",
+    "899756500",
+    "899756501",
+    "899827507",
+    "899827506",
+    "899756502",
+    "899756503",
+    "899756504",
+    "899756505",
+    "899756506",
+    "899756507",
+    "899827508",
+    "899756509",
+    "899756510",
+    "899756511",
+    "899827514",
+    "899827515",
+    "899827516",
+    "899827517",
+    "899827518",
+    "899827519",
+    "899756516",
+    "899827509",
+    "899756518",
+    "899827510",
+    "899827520",
+    "899827521",
+    "899827539",
+    "899827540",
+    "899827541",
+    "899827557",
+    "899827558",
+    "899827573",
+    "899827560",
+    "899827561",
+    "899827562",
+    "899827563",
+    "899827564",
+    "899827565",
+    "899827566",
+    "899827567",
+    "899827568",
+    "899827569",
+    "899827570",
+    "899827571",
+    "899827572",
+    "899827513"
+   ]
+  }
+ ],
+ "fragments": {
+  "899756478": {
+   "fragment_id": "899756347",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 27/2021/A\n\nSumário: Aprova os estatutos e quadro do pessoal dirigente e de chefia do Instituto de Alimentação e Mercados Agrícolas, IPRA.\n\nAprova os estatutos e quadro do pessoal dirigente e de chefia do Instituto de Alimentação e Mercados Agrícolas, IPRA\n\nO Decreto Legislativo Regional n.º 3/2020/A, de 22 de janeiro, aprovou a organização e funcionamento do Instituto de Alimentação e Mercados Agrícolas, IPRA, abreviadamente designado por IAMA, IPRA, deferindo a produção dos seus efeitos para a data da publicação dos respetivos estatutos, a aprovar por decreto regulamentar regional.\n\nNeste enquadramento, em cumprimento do disposto no artigo 5.º do Decreto Legislativo Regional n.º 3/2020/A, de 22 de janeiro, o presente diploma vem proceder à aprovação dos estatutos do IAMA, IPRA, incluindo o respetivo quadro de pessoal dirigente e de chefia.\n\nAssim, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa, conjugado com as alíneas a) e b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, e com o disposto no artigo 5.º do Decreto Legislativo Regional n.º 3/2020/A, de 22 de janeiro, o Governo Regional decreta o seguinte:"
+  },
+  "899756479": {
+   "fragment_id": "899756348",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados os estatutos do Instituto de Alimentação e Mercados Agrícolas, IPRA, doravante designado por IAMA, IPRA, e o respetivo quadro de pessoal dirigente e de chefia, constantes dos anexos i e ii ao presente diploma, do qual fazem parte integrante."
+  },
+  "899756480": {
+   "fragment_id": "899756349",
+   "type": 11,
+   "heading": "Artigo 2.º — Movimentações de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Movimentações de pessoal\n\n1 - As alterações na estrutura orgânica do IAMA, IPRA, são acompanhadas pela consequente transição de pessoal, independentemente de quaisquer formalidades, sem prejuízo do disposto no número seguinte e dos direitos consagrados na lei.\n\n2 - A transição do pessoal consta de lista nominativa, a publicar na Bolsa de Emprego Público dos Açores - BEP-Açores.\n\n3 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares do respetivo quadro regional de ilha providos nas correspondentes unidades orgânicas do IAMA, IPRA."
+  },
+  "899756481": {
+   "fragment_id": "899756350",
+   "type": 11,
+   "heading": "Artigo 3.º — Cobrança coerciva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cobrança coerciva\n\nA cobrança coerciva de dívidas provenientes de receitas do IAMA, IPRA, cuja obrigação de pagamento seja estabelecida por lei ou ato administrativo, efetua-se através do correspondente processo de execução fiscal, nos termos previstos no Código de Procedimento e de Processo Tributário."
+  },
+  "899756482": {
+   "fragment_id": "899756351",
+   "type": 11,
+   "heading": "Artigo 4.º — Encarregados de matadouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Encarregados de matadouros\n\nÀ carreira subsistente de encarregado de matadouro aplica-se o disposto no Decreto Legislativo Regional n.º 29/2000/A, de 11 de agosto."
+  },
+  "899756483": {
+   "fragment_id": "899756352",
+   "type": 11,
+   "heading": "Artigo 5.º — Suplemento remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Suplemento remuneratório\n\nOs trabalhadores que, exercendo funções nos matadouros da Região Autónoma dos Açores que constituem a rede regional de abate, e se encontrem nos termos e condições previstos no Decreto Legislativo Regional n.º 24/2020/A, de 2 de outubro, mantêm o direito ao suplemento remuneratório ali previsto."
+  },
+  "899756484": {
+   "fragment_id": "899756353",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "899756486": {
+   "fragment_id": "899756355",
+   "type": 14,
+   "heading": "Anexo I — ESTATUTOS E QUADRO DO PESSOAL DIRIGENTE E DE CHEFIA DO INSTITUTO DE ALIMENTAÇÃO E MERCADOS AGRÍCOLAS, IPRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — ESTATUTOS E QUADRO DO PESSOAL DIRIGENTE E DE CHEFIA DO INSTITUTO DE ALIMENTAÇÃO E MERCADOS AGRÍCOLAS, IPRA\n\n(a que se refere o artigo 1.º)"
+  },
+  "899756487": {
+   "fragment_id": "899756356",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "899756488": {
+   "fragment_id": "899756357",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Instituto de Alimentação e Mercados Agrícolas, IPRA, doravante designado por IAMA, IPRA, é um instituto público regional, dotado de autonomia administrativa e financeira e de património próprio."
+  },
+  "899756489": {
+   "fragment_id": "899756358",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do IAMA, IPRA, as constantes do artigo 3.º do Decreto Legislativo Regional n.º 3/2020/A, de 22 de janeiro."
+  },
+  "899756490": {
+   "fragment_id": "899756359",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos, serviços e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos, serviços e competências"
+  },
+  "899756491": {
+   "fragment_id": "899756360",
+   "type": 8,
+   "heading": "Secção I — Órgãos e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos e competências"
+  },
+  "899756492": {
+   "fragment_id": "899756361",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nO IAMA, IPRA, dispõe dos órgãos seguintes:\n\na) O Conselho Diretivo;\n\nb) O Fiscal Único."
+  },
+  "899756493": {
+   "fragment_id": "899756362",
+   "type": 11,
+   "heading": "Artigo 4.º — Conselho Diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conselho Diretivo\n\n1 - O IAMA, IPRA, é dirigido por um Conselho Diretivo composto por um presidente e dois vogais.\n\n2 - Os membros do Conselho Diretivo são nomeados por despacho conjunto do presidente do Governo Regional e do membro do Governo Regional da tutela, sob proposta deste.\n\n3 - Sem prejuízo do disposto nos artigos 19.º e 20.º do Decreto Legislativo Regional n.º 13/2007/A, de 5 de junho, que aprova o Regime Jurídico dos Institutos Públicos e Fundações Regionais, na sua redação em vigor, o presidente do Conselho Diretivo é equiparado a diretor regional, cargo de direção superior de 1.º grau, aplicando-se-lhe, subsidiariamente, o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.\n\n4 - Sem prejuízo do disposto nos artigos 19.º e 20.º do Decreto Legislativo Regional n.º 13/2007/A, de 5 de junho, na redação em vigor, os vogais do Conselho Diretivo são equiparados a subdiretor regional, cargo de direção superior de 2.º grau, aplicando-se-lhes, subsidiariamente, o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756494": {
+   "fragment_id": "899756363",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência do Conselho Diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do Conselho Diretivo\n\n1 - Ao Conselho Diretivo compete:\n\na) Dirigir a atuação do IAMA, IPRA, orientando-o na sua atividade, de acordo com as orientações definidas pela tutela;\n\nb) Elaborar os planos de atividades, orçamentos, relatórios de atividades e contas, anuais e plurianuais, a aprovar pela tutela, bem como assegurar a respetiva execução;\n\nc) Exercer, na Região Autónoma dos Açores, as competências previstas nos Regulamentos (UE) n.os 1151/2012, de 21 de novembro, 1308/2013, de 17 de dezembro, 2017/625, de 15 de março e 2018/848, de 30 de maio, do Parlamento Europeu e do Conselho, no que se refere aos produtos regionais qualificados, Denominação de Origem Protegida (DOP), Indicação Geográfica Protegida (IGP), Especialidade Tradicional Garantida (ETG), Modo de Produção Biológico (MPB) e reconhecimento de organização de produtores;\n\nd) Representar a Região Autónoma dos Açores em organizações nacionais e internacionais, relacionadas com as áreas das suas atribuições, quando para tal seja indigitado;\n\ne) Reforçar as relações institucionais com os organismos públicos que detêm atribuições e competências nas áreas de atuação do IAMA, IPRA;\n\nf) Assegurar a conceção, gestão, acompanhamento e avaliação de programas, projetos, medidas ou ações de apoio à agricultura e desenvolvimento rural, em articulação com os organismos regionais, nacionais e comunitários competentes;\n\ng) Exercer as demais competências previstas na lei, nomeadamente no regime jurídico dos institutos públicos regionais.\n\n2 - O Conselho Diretivo pode distribuir, entre os seus membros, sob proposta do presidente, a gestão das áreas de atuação do IAMA, IPRA, bem como a supervisão dos serviços que o integram."
+  },
+  "899756495": {
+   "fragment_id": "899756364",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência do presidente do Conselho Diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência do presidente do Conselho Diretivo\n\n1 - Ao presidente do Conselho Diretivo compete:\n\na) Representar o IAMA, IPRA, e assegurar as relações com o departamento governamental da tutela, bem como com os demais organismos públicos;\n\nb) Convocar e dirigir os trabalhos das reuniões do Conselho Diretivo e assegurar o cumprimento das deliberações tomadas;\n\nc) Acompanhar os procedimentos de contratação pública e a execução dos respetivos contratos;\n\nd) Outorgar contratos de empreitadas de obras públicas e de aquisição de bens e serviços, bem como representar o IAMA, IPRA, em atos notariais;\n\ne) Exercer as competências que lhe sejam delegadas pelo Conselho Diretivo;\n\nf) Exercer as demais competências previstas na lei, designadamente no regime jurídico dos institutos públicos regionais.\n\n2 - O presidente do Conselho Diretivo é substituído nas suas ausências, faltas e impedimentos pelo vogal que, para o efeito, indicar e, na falta de indicação, pelo vogal nomeado no cargo há mais tempo."
+  },
+  "899756496": {
+   "fragment_id": "899756365",
+   "type": 11,
+   "heading": "Artigo 7.º — Funcionamento do Conselho Diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento do Conselho Diretivo\n\n1 - O Conselho Diretivo reúne, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o presidente o convoque, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n2 - Nas votações não há abstenções, mas podem ser proferidas declarações de voto.\n\n3 - A ata das reuniões deve ser aprovada e assinada por todos os membros presentes, sem prejuízo da possibilidade de os membros discordantes do teor da mesma nela exararem as respetivas declarações de voto."
+  },
+  "899756497": {
+   "fragment_id": "899756366",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidade dos membros do Conselho Diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Responsabilidade dos membros do Conselho Diretivo\n\n1 - Os membros do Conselho Diretivo são solidariamente responsáveis pelos atos praticados no exercício das suas funções.\n\n2 - São isentos de responsabilidade os membros do Conselho Diretivo que, tendo estado presentes na reunião em que foi tomada a deliberação, tiverem manifestado o seu desacordo, em declaração registada na respetiva ata, bem como os membros ausentes que tenham declarado, por escrito, o seu desacordo, igualmente registado na referida ata."
+  },
+  "899756498": {
+   "fragment_id": "899756367",
+   "type": 11,
+   "heading": "Artigo 9.º — Fiscal Único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fiscal Único\n\nO Fiscal Único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do IAMA, IPRA."
+  },
+  "899756499": {
+   "fragment_id": "899756368",
+   "type": 11,
+   "heading": "Artigo 10.º — Designação e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Designação e remuneração\n\n1 - O Fiscal Único é nomeado, de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas, por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças e da tutela.\n\n2 - A remuneração do Fiscal Único é fixada no despacho a que se refere o número anterior."
+  },
+  "899756500": {
+   "fragment_id": "899756369",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\nO Fiscal Único do IAMA, IPRA, tem as competências previstas no regime jurídico dos institutos públicos e fundações regionais."
+  },
+  "899756501": {
+   "fragment_id": "899756370",
+   "type": 8,
+   "heading": "Secção II — Serviços e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços e competências"
+  },
+  "899756502": {
+   "fragment_id": "899756371",
+   "type": 3,
+   "heading": "Subsecção I — Serviços Centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Serviços Centrais"
+  },
+  "899756503": {
+   "fragment_id": "899756372",
+   "type": 11,
+   "heading": "Artigo 14.º — Direção de Serviços de Assuntos Jurídicos e Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direção de Serviços de Assuntos Jurídicos e Recursos Humanos\n\n1 - A Direção de Serviços de Assuntos Jurídicos e Recursos Humanos, doravante designada por DSAJRH, é um serviço central, executivo, de conceção, controlo e apoio técnico e jurídico, de assessoria técnica aos órgãos e serviços do IAMA, IPRA, promovendo e verificando a conformidade legal da atividade deste instituto com os diversos instrumentos e normas de gestão.\n\n2 - Para efeitos do disposto no número anterior, a DSAJRH integra:\n\na) Divisão de Apoio Técnico e Jurídico;\n\nb) Divisão Administrativa e de Recursos Humanos;\n\nc) Coordenação do Arquivo e Documentação.\n\n3 - A DSAJRH é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n4 - O diretor da DSAJRH pode delegar ou subdelegar nos chefes de divisão as respetivas competências, próprias ou delegadas, com faculdade de subdelegação."
+  },
+  "899756504": {
+   "fragment_id": "899756373",
+   "type": 11,
+   "heading": "Artigo 15.º — Divisão de Apoio Técnico e Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Divisão de Apoio Técnico e Jurídico\n\n1 - À Divisão de Apoio Técnico e Jurídico, doravante designada por DATJ, compete:\n\na) Assegurar a prestação de consultadoria jurídica, apoio legislativo e contencioso;\n\nb) Promover, executar e acompanhar os processos de contratação pública;\n\nc) Apoiar jurídica e administrativamente os processos de recrutamento de trabalhadores que exercem funções públicas;\n\nd) Promover, executar e acompanhar candidaturas a programas de apoio comunitário;\n\ne) Promover os processos administrativos de recuperação de créditos;\n\nf) Promover e acompanhar os processos de execução fiscal junto da Autoridade Tributária;\n\ng) Compilar e divulgar as normas jurídicas aplicáveis, em função das atribuições do IAMA, IPRA;\n\nh) Acompanhar os processos em juízo e fora deste, em que o IAMA, IPRA, seja parte;\n\ni) Realizar ações de natureza pedagógica, nomeadamente através de formação interna, da emissão de notas informativas e da elaboração de propostas de orientações, no âmbito da atividade do IAMA, IPRA;\n\nj) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DATJ é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "899756505": {
+   "fragment_id": "899756374",
+   "type": 11,
+   "heading": "Artigo 16.º — Divisão Administrativa e de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Divisão Administrativa e de Recursos Humanos\n\n1 - À Divisão Administrativa e de Recursos Humanos, doravante designada por DARH, compete:\n\na) Executar as ações necessárias à organização e instrução dos processos referentes às várias fases e aspetos da vida profissional dos trabalhadores afetos ao IAMA, IPRA;\n\nb) Organizar e manter atualizado o cadastro e registo biográfico dos trabalhadores afetos ao IAMA, IPRA;\n\nc) Assegurar os procedimentos necessários para garantir a assiduidade, efetividade, segurança e benefícios sociais dos trabalhadores afetos ao IAMA, IPRA;\n\nd) Elaborar e monitorizar o plano anual de recrutamento;\n\ne) Realizar estudos e propor medidas conducentes a uma eficaz gestão dos recursos humanos;\n\nf) Promover e coordenar os planos de formação, sob orientação superior, bem como as ações correspondentes, quer internas, quer em cooperação com entidades vocacionadas para o efeito;\n\ng) Coordenar, na respetiva área de competência, a atividade das Delegações da Terceira e do Faial;\n\nh) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DARH integra a Secção Administrativa e de Recursos Humanos.\n\n3 - A DARH é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "899756506": {
+   "fragment_id": "899811475",
+   "type": 11,
+   "heading": "Artigo 17.º — Secção Administrativa e de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Secção Administrativa e de Recursos Humanos\n\n1 - À Secção Administrativa e de Recursos Humanos, doravante designada por SARH, compete a supervisão e coordenação técnica da gestão administrativa dos recursos humanos afetos ao IAMA, IPRA, nomeadamente:\n\na) Assegurar todas as ações administrativas e expediente relativos à gestão dos recursos humanos, com exceção dos processos de recrutamento de trabalhadores;\n\nb) Emitir certidões e outros documentos;\n\nc) Coordenar as atividades gerais de apoio;\n\nd) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A SARH é dirigida por um coordenador técnico, da carreira de assistente técnico."
+  },
+  "899756507": {
+   "fragment_id": "899811476",
+   "type": 11,
+   "heading": "Artigo 18.º — Coordenação do Arquivo e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Coordenação do Arquivo e Documentação\n\n1 - À Coordenação do Arquivo e Documentação, doravante designada por CAD, compete a gestão e organização arquivística de toda a documentação do IAMA, IPRA, nomeadamente:\n\na) Organizar e manter atualizado o acervo arquivístico;\n\nb) Coordenar o sistema de gestão documental;\n\nc) Orientar e apoiar tecnicamente os diversos serviços do IAMA, IPRA, em razão da matéria;\n\nd) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A CAD é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756508": {
+   "fragment_id": "899811477",
+   "type": 11,
+   "heading": "Artigo 19.º — Direção de Serviços Administrativa e Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direção de Serviços Administrativa e Financeira\n\n1 - A Direção de Serviços Administrativa e Financeira, doravante designada por DSAF, é um serviço central, executivo, com competência nas áreas de organização, gestão orçamental, elaboração de documentos de prestação de contas, processamento da contabilidade, gestão do património, tecnologia e informática.\n\n2 - Para efeitos do disposto no número anterior, a DSAF integra:\n\na) Divisão de Gestão Financeira;\n\nb) Divisão de Informática e Tecnologia.\n\n3 - A DSAF é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n4 - O diretor da DSAF pode delegar ou subdelegar nos chefes de divisão as respetivas competências, próprias ou delegadas, com faculdade de subdelegação."
+  },
+  "899756509": {
+   "fragment_id": "899811478",
+   "type": 11,
+   "heading": "Artigo 20.º — Divisão de Gestão Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Divisão de Gestão Financeira\n\n1 - À Divisão de Gestão Financeira, doravante designada por DGF, compete:\n\na) Elaborar informações, análises e outros documentos de caráter técnico-financeiro, por forma a habilitar os órgãos de direção a definir, coordenar e executar as atividades do IAMA, IPRA;\n\nb) Preparar, em estreita colaboração com os órgãos e demais serviços, as ações necessárias à preparação e elaboração do orçamento;\n\nc) Recolher os elementos referentes a receitas e despesas para elaboração dos orçamentos ordinários e suplementares;\n\nd) Acompanhar a execução material e financeira dos programas e projetos em execução;\n\ne) Controlar a execução orçamental;\n\nf) Conferir, classificar e arquivar os documentos contabilísticos;\n\ng) Preparar os elementos referentes ao controlo orçamental a enviar ao serviço do departamento do Governo Regional com competência em matéria financeira, bem como os elementos necessários à organização da conta de gerência;\n\nh) Assegurar o processamento das receitas e despesas, bem como o respetivo controlo orçamental;\n\ni) Elaborar as propostas de alteração orçamental;\n\nj) Coordenar, na respetiva área de competência, a atividade das Delegações da Terceira e do Faial;\n\nk) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DGF integra a Secção de Tesouraria.\n\n3 - A DGF é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "899756510": {
+   "fragment_id": "899811479",
+   "type": 11,
+   "heading": "Artigo 21.º — Secção de Tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Secção de Tesouraria\n\n1 - À Secção de Tesouraria, doravante designada por ST, compete:\n\na) Assegurar o expediente necessário à arrecadação das receitas, às requisições dos fundos consignados ao IAMA, IPRA, no orçamento da Região Autónoma dos Açores, bem como às transferências de verbas orçamentais;\n\nb) Arrecadar receitas e efetuar o pagamento das despesas autorizadas e processadas;\n\nc) Apoiar os diversos serviços do IAMA, IPRA, em razão da matéria;\n\nd) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A ST é dirigida por um coordenador técnico, da carreira de assistente técnico."
+  },
+  "899756511": {
+   "fragment_id": "899811480",
+   "type": 11,
+   "heading": "Artigo 22.º — Divisão de Informática e Tecnologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Divisão de Informática e Tecnologia\n\n1 - A Divisão de Informática e Tecnologia, doravante designada por DIT, é um serviço de apoio, no âmbito da informática e tecnologia, ao qual compete:\n\na) Estudar o desenvolvimento dos meios informáticos, propondo e mantendo atualizado o plano de informatização;\n\nb) Assegurar o correto funcionamento de todo o sistema informático;\n\nc) Estudar sistemas, realizar projetos de informática e garantir a manutenção das aplicações em execução;\n\nd) Propor a aquisição de equipamentos e zelar pelo material existente;\n\ne) Organizar e executar ações de formação de utilizadores de informática;\n\nf) Assegurar o controlo de qualidade da informação e dos resultados;\n\ng) Coordenar, na respetiva área de competência, a atividade das Delegações da Terceira e do Faial;\n\nh) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DIT é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "899756512": {
+   "fragment_id": "899811481",
+   "type": 11,
+   "heading": "Artigo 23.º — Direção de Serviços de Qualidade, Mercados e Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direção de Serviços de Qualidade, Mercados e Controlos\n\n1 - A Direção de Serviços de Qualidade, Mercados e Controlos, doravante designada por DSQMC, é um serviço central, executivo, com competência nas áreas da qualidade dos produtos agrícolas e dos géneros alimentícios, na execução das políticas de inovação e transformação, nas ações enquadradas nos planos oficiais de controlos e na produção de informações sobre os mercados agrícolas.\n\n2 - Para efeitos do disposto no número anterior, a DSQMC integra:\n\na) Divisão de Produtos Qualificados e Mercados Agrícolas;\n\nb) Divisão de Controlos.\n\n3 - A DSQMC é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n4 - O diretor da DSQMC pode delegar ou subdelegar nos chefes de divisão as respetivas competências, próprias ou delegadas, com faculdade de subdelegação."
+  },
+  "899756513": {
+   "fragment_id": "899811482",
+   "type": 11,
+   "heading": "Artigo 24.º — Divisão de Produtos Qualificados e Mercados Agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Divisão de Produtos Qualificados e Mercados Agrícolas\n\n1 - À Divisão de Produtos Qualificados e Mercados Agrícolas, doravante designada por DPQMA, compete:\n\na) Promover e operacionalizar as disposições específicas regulamentares, comunitárias, nacionais e regionais, relativas aos regimes de qualidade, nas áreas dos produtos agrícolas e géneros alimentícios;\n\nb) Assegurar a gestão dos regimes comunitários de certificação, proteção e qualificação dos produtos agroalimentares regionais, no âmbito das denominações de origem e indicações geográficas, especialidades tradicionais garantidas, modo de produção biológico, menções de qualidade facultativa e outros modos particulares de produção;\n\nc) Analisar e aprovar os processos de reconhecimento e proteção dos nomes geográficos;\n\nd) Selecionar a amostra para as ações de controlo dos produtos agrícolas ou géneros alimentícios registados como DOP, IGP, ETG, MPB, menções de qualidade facultativa e outros;\n\ne) Delegar tarefas de controlo oficial em organismos privados de controlo, bem como suspender ou anular essa delegação das ações, no âmbito dos regimes de qualidade, incluindo o modo de produção biológico;\n\nf) Promover a aplicação de sistemas para a garantia da qualidade dos produtos agroalimentares, através de ações que visem a certificação da sua qualidade e genuinidade;\n\ng) Cooperar em ações de divulgação e promoção dos produtos qualificados e certificados;\n\nh) Promover e coordenar a realização de estudos de mercado, relativamente aos produtos agroalimentares;\n\ni) Assegurar a recolha, análise e tratamento da informação estatística relativa aos produtos agrícolas de interesse regional;\n\nj) Editar publicações, periódicas ou ocasionais, sobre as matérias da sua área de competências e assegurar a respetiva distribuição;\n\nk) Gerir as medidas de inovação, qualidade e de transformação, em articulação com os organismos nacionais e regionais competentes, assegurando a tramitação relativa à receção, análise e validação dos pedidos de pagamentos dos respetivos apoios;\n\nl) Analisar e decidir sobre os pedidos de reconhecimento de organizações de produtores, bem como a sua manutenção, em articulação com as autoridades nacionais competentes;\n\nm) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DPQMA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "899756514": {
+   "fragment_id": "899811483",
+   "type": 11,
+   "heading": "Artigo 25.º — Divisão de Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Divisão de Controlos\n\n1 - À Divisão de Controlos, doravante designada por DC, compete:\n\na) Coordenar e executar as ações enquadradas nos planos oficiais de controlos relativos aos regimes de apoio, no âmbito da política agrícola comum, de acordo com as orientações funcionais dos serviços e organismos centrais e regionais competentes em razão de matéria;\n\nb) Proceder aos controlos de conformidade dos produtos reconhecidos e, quando for o caso, emitir os respetivos certificados de conformidade;\n\nc) Delegar tarefas de controlos oficiais em organismos privados que se encontrem reconhecidos no território nacional continental;\n\nd) Executar os controlos oficiais das amostras selecionadas pela autoridade nacional, relativas à ajuda do «Regime Escolar» ou outras que sejam devidamente protocoladas;\n\ne) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "899756515": {
+   "fragment_id": "899811484",
+   "type": 11,
+   "heading": "Artigo 26.º — Coordenação Regional de Classificação de Carcaças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Coordenação Regional de Classificação de Carcaças\n\n1 - A Coordenação Regional de Classificação de Carcaças, doravante designada por CRCC, é um serviço central, executivo, que, na Região Autónoma dos Açores, coordena a equipa de classificação de carcaças, ao qual compete:\n\na) Assegurar a atividade da classificação de carcaças;\n\nb) Coordenar, com as entidades nacionais e comunitárias competentes, a realização de formação na respetiva área de atuação;\n\nc) Exercer as demais competências previstas na lei, designadamente o Regulamento (CE) n.º 1249/2008, da Comissão, de 10 de dezembro.\n\n2 - A área de atuação da CRCC corresponde a toda a Região Autónoma dos Açores.\n\n3 - A CRCC é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756516": {
+   "fragment_id": "899811485",
+   "type": 3,
+   "heading": "Subsecção II — Serviços periféricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Serviços periféricos"
+  },
+  "899756517": {
+   "fragment_id": "899811486",
+   "type": 11,
+   "heading": "Artigo 27.º — Matadouro de São Miguel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Matadouro de São Miguel\n\n1 - O Matadouro de São Miguel, doravante designado por MSM, é um serviço executivo, periférico, responsável pela direção e coordenação das infraestruturas regionais de abate existentes nas ilhas de São Miguel e Santa Maria.\n\n2 - Para efeitos do disposto no número anterior, o MSM integra:\n\na) Matadouro da Ilha de São Miguel;\n\nb) Coordenação de Ambiente, Qualidade e Segurança;\n\nc) Coordenação de Manutenção;\n\nd) Matadouro de Santa Maria.\n\n3 - Ao MSM compete:\n\na) Definir os objetivos e linhas gerais de atuação para o MSM, com observância dos planos superiormente aprovados;\n\nb) Coordenar a gestão integrada dos respetivos recursos financeiros, com respeito pelas indicações superiores;\n\nc) Elaborar e propor ao Conselho Diretivo os planos e respetivos orçamentos, os relatórios de atividades, bem como o plano de gestão provisional de pessoal para o MSM e o correspondente plano de formação;\n\nd) Elaborar e propor ao Conselho Diretivo medidas sobre a coordenação e articulação entre serviços;\n\ne) Coordenar a gestão dos respetivos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nf) Desenvolver as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\ng) Supervisionar a execução das ações necessárias a garantir o cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento das unidades de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\nh) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n4 - O MSM é dirigido por um diretor, equiparado, para todos os efeitos legais, a subdiretor regional, cargo de direção superior de 2.º grau."
+  },
+  "899756518": {
+   "fragment_id": "899811487",
+   "type": 11,
+   "heading": "Artigo 28.º — Matadouro da Ilha de São Miguel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Matadouro da Ilha de São Miguel\n\n1 - Ao Matadouro da Ilha de São Miguel, doravante designado por MISM, compete:\n\na) Cumprir os planos de atuação aprovados pelo MSM;\n\nb) Assegurar a gestão dos respetivos recursos humanos, financeiros e materiais, com respeito pelas indicações superiores;\n\nc) Executar as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\nd) Executar as ações necessárias ao cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento da unidade de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O MISM é dirigido pelo diretor do MSM."
+  },
+  "899756519": {
+   "fragment_id": "899811488",
+   "type": 11,
+   "heading": "Artigo 29.º — Coordenação de Ambiente, Qualidade e Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Coordenação de Ambiente, Qualidade e Segurança\n\n1 - À Coordenação de Ambiente, Qualidade e Segurança de São Miguel, doravante designada por CAQSSM compete:\n\na) Supervisionar o sistema de qualidade e segurança alimentar de forma a garantir a divulgação, implementação, manutenção, desenvolvimento, revisão e melhoria do mesmo;\n\nb) Propor e elaborar estudos, bem como emitir pareceres sobre os procedimentos a nível da segurança e qualidade alimentar;\n\nc) Planear, gerir e supervisionar os recursos disponíveis;\n\nd) Implementar as normas de segurança dos trabalhadores afetos ao MSM e assegurar o seu cumprimento;\n\ne) Promover a formação interna e externa dos trabalhadores afetos ao MSM;\n\nf) Assegurar e promover o licenciamento ambiental e demais ações, com vista a cumprir as obrigações ambientais;\n\ng) Supervisionar o cumprimento de todas as ações, no âmbito de processos de certificação;\n\nh) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da CAQSSM corresponde à área de competências do MSM.\n\n3 - A CAQSSM é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756520": {
+   "fragment_id": "899811489",
+   "type": 11,
+   "heading": "Artigo 30.º — Coordenação de Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Coordenação de Manutenção\n\n1 - À Coordenação de Manutenção de São Miguel, doravante designada por CMSM, compete:\n\na) Assegurar a manutenção preventiva, corretiva e de melhoria/otimização dos equipamentos;\n\nb) Inovar, adotar e adaptar os equipamentos às exigências legais e técnicas;\n\nc) Gerir o armazém e stock de consumíveis e peças de reserva, bem como os respetivos custos de aquisição;\n\nd) Coordenar a equipa de manutenção e promover a formação interna e externa dos trabalhadores afetos ao MSM;\n\ne) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da CMSM corresponde à área de competências do MSM.\n\n3 - A CMSM é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756521": {
+   "fragment_id": "899811490",
+   "type": 11,
+   "heading": "Artigo 31.º — Matadouro de Santa Maria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Matadouro de Santa Maria\n\n1 - Ao Matadouro de Santa Maria, doravante designado por MSTM, compete:\n\na) Cumprir os planos de atuação aprovados pelo MSM;\n\nb) Assegurar a gestão dos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nc) Executar as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\nd) Executar as ações necessárias ao cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento da unidade de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O MSTM é coordenado por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, sob direção do diretor do MSM."
+  },
+  "899756522": {
+   "fragment_id": "899811491",
+   "type": 11,
+   "heading": "Artigo 32.º — Serviço de Classificação de Leite de São Miguel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Serviço de Classificação de Leite de São Miguel\n\n1 - O Serviço de Classificação de Leite de São Miguel, doravante designado por SERCLASM, é o serviço executivo, periférico, ao qual, nas ilhas de São Miguel e de Santa Maria, compete exercer todas as atividades relacionadas com a classificação de leite ao produtor, com base na sua qualidade higiénica e composição, designadamente:\n\na) Colher amostras individuais nos locais e nas condições superiormente definidas;\n\nb) Executar as provas laboratoriais, de acordo com a legislação em vigor, e elaborar periodicamente as listas de classificação;\n\nc) Divulgar os resultados às partes interessadas;\n\nd) Propor, ao Conselho Diretivo, as ações e medidas consideradas pertinentes ao bom funcionamento e desempenho do SERCLASM;\n\ne) Elaborar relatórios de atividades;\n\nf) Elaborar e divulgar documentos de informação aos produtores;\n\ng) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O SERCLASM é dirigido por um diretor equiparado a chefe de divisão, cargo de direção intermédia de 2.º grau.\n\n3 - Para cumprimento das suas atribuições, o SERCLASM integra a Coordenação de Laboratório, que supervisiona todas as suas ações técnicas."
+  },
+  "899756523": {
+   "fragment_id": "899811492",
+   "type": 11,
+   "heading": "Artigo 33.º — Coordenação de Laboratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Coordenação de Laboratório\n\n1 - À Coordenação de Laboratório, doravante designada por CL, compete a orientação técnica dos laboratórios do SERCLASM, nomeadamente:\n\na) Assegurar a gestão do funcionamento geral das operações técnicas;\n\nb) Estabelecer regras para a elaboração de ensaios, recolha de dados e tratamento de resultados;\n\nc) Acompanhar e supervisionar os ensaios em execução;\n\nd) Gerir os equipamentos afetos aos laboratórios.\n\n2 - A área de atuação da CL corresponde às áreas de competência do SERCLASM.\n\n3 - A CL é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756524": {
+   "fragment_id": "899811493",
+   "type": 11,
+   "heading": "Artigo 34.º — Serviço de Classificação de Leite da Terceira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Serviço de Classificação de Leite da Terceira\n\n1 - O Serviço de Classificação de Leite da Terceira, doravante designado por SERCLAT, é um serviço executivo, periférico, que, nas ilhas Terceira, Graciosa, São Jorge, Faial, Pico, Flores e Corvo, exerce as competências elencadas no n.º 1 do artigo 32.º\n\n2 - O SERCLAT é dirigido por um diretor equiparado a chefe de divisão, cargo de direção intermédia de 2.º grau.\n\n3 - O SERCLAT integra a Coordenação de Laboratório, abreviadamente designada por CL, com as competências previstas no n.º 1 do artigo 33.º\n\n4 - A área de atuação da CL corresponde às áreas de competência do SERCLAT.\n\n5 - A CL é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756525": {
+   "fragment_id": "899811494",
+   "type": 11,
+   "heading": "Artigo 35.º — Delegações da Terceira e do Faial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Delegações da Terceira e do Faial\n\n1 - As Delegações da Terceira e do Faial, doravante designadas por Delegações, são serviços executivos periféricos que asseguram, nas ilhas onde se estender a sua ação, a execução das atividades necessárias à prossecução das atribuições e competências do IAMA, IPRA.\n\n2 - Às Delegações compete;\n\na) Definir os objetivos e linhas gerais de atuação para as Delegações, com observância dos planos superiormente aprovados;\n\nb) Coordenar a gestão integrada dos respetivos recursos financeiros, com respeito pelas indicações superiores;\n\nc) Elaborar e propor ao Conselho Diretivo os planos e respetivos orçamentos, os relatórios de atividades, bem como o plano de gestão provisional de trabalhadores para as Delegações, e o correspondente plano de formação;\n\nd) Elaborar e propor ao Conselho Diretivo medidas sobre a coordenação e articulação entre serviços;\n\ne) Coordenar a gestão dos respetivos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nf) Desenvolver as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\ng) Supervisionar a execução das ações necessárias a garantir o cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento das unidades de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos."
+  },
+  "899756526": {
+   "fragment_id": "899811495",
+   "type": 11,
+   "heading": "Artigo 36.º — Delegação da Terceira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Delegação da Terceira\n\n1 - A Delegação da Terceira, doravante designada por DT, tem como âmbito de atuação as ilhas Terceira, Graciosa e São Jorge.\n\n2 - Para cumprimento das suas atribuições, a DT integra:\n\na) Matadouro da Terceira;\n\nb) Coordenação de Ambiente, Qualidade e Segurança;\n\nc) Coordenação de Manutenção;\n\nd) Secção Administrativa e Financeira;\n\ne) Matadouro da Graciosa;\n\nf) Matadouro de São Jorge.\n\n3 - A DT é dirigida por um delegado, equiparado a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n4 - O delegado da Terceira pode delegar ou subdelegar as respetivas competências, próprias ou delegadas, com faculdade de subdelegação."
+  },
+  "899756527": {
+   "fragment_id": "899811496",
+   "type": 11,
+   "heading": "Artigo 37.º — Matadouro da Terceira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Matadouro da Terceira\n\n1 - Ao Matadouro da Terceira, designado abreviadamente por MT, compete:\n\na) Cumprir os planos de atuação aprovados pela DT;\n\nb) Assegurar a gestão dos respetivos recursos humanos, financeiros e materiais, com respeito pelas indicações superiores;\n\nc) Executar as ações necessárias ao cumprimento das normas em vigor em matéria de condições ambientais, qualidade e segurança, certificação e higiene e segurança no trabalho;\n\nd) Executar as ações necessárias ao cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento da unidade de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O MT é dirigido por um diretor, equiparado a chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "899756528": {
+   "fragment_id": "899811497",
+   "type": 11,
+   "heading": "Artigo 38.º — Coordenação de Ambiente, Qualidade e Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Coordenação de Ambiente, Qualidade e Segurança\n\n1 - À Coordenação de Ambiente, Qualidade e Segurança da DT, doravante designada por CAQSDT, compete:\n\na) Supervisionar o sistema de qualidade e segurança alimentar, por forma a garantir a divulgação, implementação, manutenção, desenvolvimento, revisão e melhoria do mesmo;\n\nb) Propor e elaborar estudos e dar pareceres sobre os procedimentos, ao nível da segurança e qualidade alimentar;\n\nc) Acompanhar os serviços de segurança e saúde no trabalho;\n\nd) Implementar as normas de higiene e segurança dos trabalhadores afetos à DT e assegurar o cumprimento das mesmas;\n\ne) Supervisionar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar e promover todas as ações com vista a cumprir as obrigações ambientais;\n\ng) Promover o processo de certificação ambiental das unidades de abate situadas na área de atuação da DT;\n\nh) Promover a formação interna e externa dos trabalhadores afetos à DT, em razão da matéria;\n\ni) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da CAQSDT corresponde à área de competência da DT.\n\n3 - A CAQSDT é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756529": {
+   "fragment_id": "899811498",
+   "type": 11,
+   "heading": "Artigo 39.º — Coordenação de Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Coordenação de Manutenção\n\n1 - À Coordenação de Manutenção da Terceira, doravante designada por CMT, compete:\n\na) Assegurar a manutenção preventiva, corretiva e de melhoria/otimização dos equipamentos;\n\nb) Inovar, adotar e adaptar os equipamentos às exigências legais e técnicas;\n\nc) Gerir o armazém e stock de consumíveis e peças de reserva, bem como os respetivos custos de aquisição;\n\nd) Coordenar a equipa de manutenção e promover a formação interna e externa dos trabalhadores afetos à DT;\n\ne) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da CMT corresponde à área de competências da DT.\n\n3 - A CMT é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756530": {
+   "fragment_id": "899811499",
+   "type": 11,
+   "heading": "Artigo 40.º — Secção Administrativa e Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Secção Administrativa e Financeira\n\n1 - À Secção Administrativa e Financeira da DT, doravante designada por SAFDT, compete:\n\na) Arrecadar receitas e efetuar o pagamento das despesas autorizadas e processadas;\n\nb) Colaborar na elaboração dos planos e respetivos orçamentos e dos relatórios de atividades;\n\nc) Conferir, classificar e arquivar os documentos contabilísticos;\n\nd) Assegurar uma eficaz gestão do economato;\n\ne) Organizar e manter atualizado o cadastro do património afeto à DT, assegurando também a sua gestão, conservação e manutenção;\n\nf) Organizar e manter atualizado o cadastro e registo biográfico dos trabalhadores afetos à DT, assegurando os procedimentos necessários a garantir a assiduidade, efetividade, segurança e benefícios sociais dos mesmos;\n\ng) Executar as ações necessárias à organização e instrução dos processos referentes às várias fases e aspetos da vida profissional dos respetivos trabalhadores;\n\nh) Emitir certidões e outros documentos;\n\ni) Assegurar o registo, classificação, expediente, arquivo e controlo de toda a documentação da DT;\n\nj) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da SAFDT corresponde à área de competência da DT.\n\n3 - A SAFDT é dirigida por um coordenador técnico, da carreira de assistente técnico."
+  },
+  "899756531": {
+   "fragment_id": "899811500",
+   "type": 11,
+   "heading": "Artigo 41.º — Matadouros da Graciosa e de São Jorge",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Matadouros da Graciosa e de São Jorge\n\n1 - Aos Matadouros da Graciosa e de São Jorge, doravante designados por MG e MSJ, respetivamente, compete:\n\na) Cumprir os planos de atuação aprovados pela DT;\n\nb) Assegurar a gestão dos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nc) Desenvolver as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\nd) Assegurar o cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento da unidade de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - Os MG e MSJ são coordenados por trabalhadores designados para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, sob direção do delegado da Terceira."
+  },
+  "899756532": {
+   "fragment_id": "899811501",
+   "type": 11,
+   "heading": "Artigo 42.º — Delegação do Faial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Delegação do Faial\n\n1 - A Delegação do Faial, abreviadamente designada por DF, tem como âmbito de atuação as ilhas do Faial, Pico, Flores e Corvo.\n\n2 - Para o exercício das suas atribuições, a DF integra:\n\na) Matadouro do Faial;\n\nb) Coordenação de Ambiente, Qualidade e Segurança;\n\nc) Coordenação de Manutenção;\n\nd) Secção Administrativa e Financeira;\n\ne) Matadouro do Pico;\n\nf) Matadouro das Flores;\n\ng) Matadouro do Corvo.\n\n3 - A DF é dirigida por um delegado, equiparado a diretor de serviços, cargo de direção intermédia de 1.º grau."
+  },
+  "899756533": {
+   "fragment_id": "899811502",
+   "type": 11,
+   "heading": "Artigo 43.º — Matadouro do Faial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Matadouro do Faial\n\n1 - Ao Matadouro do Faial, designado abreviadamente por MF, compete:\n\na) Cumprir os planos de atuação aprovados pela DF;\n\nb) Assegurar a gestão dos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nc) Desenvolver as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\nd) Assegurar o cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento da unidade de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O MF é dirigido pelo delegado do Faial."
+  },
+  "899756534": {
+   "fragment_id": "899811503",
+   "type": 11,
+   "heading": "Artigo 44.º — Coordenação de Ambiente, Qualidade e Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Coordenação de Ambiente, Qualidade e Segurança\n\n1 - As competências da Coordenação de Ambiente, Qualidade e Segurança da DF, doravante designada por CAQSDF, são as constantes do n.º 1 do artigo 38.º\n\n2 - A área de atuação da CAQSDF corresponde à área de competências da DF.\n\n3 - A CAQSDF é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756535": {
+   "fragment_id": "899811504",
+   "type": 11,
+   "heading": "Artigo 45.º — Coordenação de Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Coordenação de Manutenção\n\n1 - As competências da Coordenação de Manutenção do Faial, doravante designada por CMF, são as constantes do n.º 1 do artigo 39.º\n\n2 - A área de atuação da CMF corresponde à área de competências da DF.\n\n3 - A CMF é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899756536": {
+   "fragment_id": "899811505",
+   "type": 11,
+   "heading": "Artigo 46.º — Secção Administrativa e Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Secção Administrativa e Financeira\n\n1 - As competências da Secção Administrativa e Financeira do Faial, doravante designada por SAFF, são as constantes do n.º 1 do artigo 40.º\n\n2 - A área de atuação da SAFF corresponde à área de competências da DF.\n\n3 - A SAFF é dirigida por um coordenador técnico, da carreira de assistente técnico."
+  },
+  "899756537": {
+   "fragment_id": "899811506",
+   "type": 11,
+   "heading": "Artigo 47.º — Matadouros do Pico, das Flores e do Corvo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Matadouros do Pico, das Flores e do Corvo\n\n1 - Aos Matadouros do Pico, das Flores e do Corvo, doravante designados por MP, MFL e MC, respetivamente, compete:\n\na) Cumprir os planos de atuação aprovados pela DF;\n\nb) Assegurar a gestão dos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nc) Desenvolver as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\nd) Assegurar o cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento das unidades de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - Os MP e MFL são coordenados por trabalhadores designados para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, sob direção do delegado do Faial.\n\n3 - O MC é dirigido pelo delegado do Faial."
+  },
+  "899756538": {
+   "fragment_id": "899811507",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 1.º)\n\nQuadro de pessoal dirigente, de direção específica e de chefia de unidades orgânicas do Instituto de Alimentação e Mercados Agrícolas, IPRA\n\n(ver documento original)\n\n114672821"
+  },
+  "899756485": {
+   "fragment_id": "899756354",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo, em Ponta Delgada, em 11 de outubro de 2021.\n\nO Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.\n\nAssinado em Angra do Heroísmo em 22 de outubro de 2021.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  },
+  "899827507": {
+   "fragment_id": "899870675",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 12.º — Serviços\n\n1 - Para prossecução das suas atribuições, o IAMA, IPRA, dispõe de serviços centrais e serviços periféricos.\n\n2 - O IAMA, IPRA, integra os serviços centrais seguintes:\n\na) Direção de Serviços de Assuntos Jurídicos e Recursos Humanos;\n\nb) Direção de Serviços Administrativa e Financeira;\n\nc) Direção de Serviços de Qualidade, Mercados e Controlos;\n\nd) Direção de Serviços de Classificação de Leite;\n\ne) Coordenação Regional de Classificação de Carcaças.\n\nf) Coordenação de Higiene e Segurança no Trabalho.\n\n3 - O IAMA, IPRA, integra os serviços periféricos seguintes:\n\na) Matadouro de São Miguel;\n\nb) Serviço de Classificação de Leite de São Miguel;\n\nc) Serviço de Classificação de Leite da Terceira;\n\nd) Delegação da Terceira;\n\ne) Delegação do Faial.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827506": {
+   "fragment_id": "899870676",
+   "type": 11,
+   "heading": "Artigo 13.º — Cooperação funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cooperação funcional\n\nOs serviços do IAMA, IPRA, funcionam em estreita cooperação e interligação funcional com os respetivos órgãos e entre si, visando a prossecução da missão que lhe é conferida."
+  },
+  "899827508": {
+   "fragment_id": "899811477",
+   "type": 11,
+   "heading": "Artigo 19.º — Direção de Serviços Administrativa e Financeira",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 19.º — Direção de Serviços Administrativa e Financeira\n\n1 - A Direção de Serviços Administrativa e Financeira, doravante designada por DSAF, é um serviço central, executivo, com competência nas áreas de organização, gestão orçamental, elaboração de documentos de prestação de contas, processamento da contabilidade, gestão do património, tecnologia e informática.\n\n2 - Para efeitos do disposto no número anterior, a DSAF integra:\n\na) Divisão de Gestão Financeira;\n\nb) Divisão de Informática e Tecnologia.\n\nc) Coordenação de Stocks e Património.\n\n3 - A DSAF é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n4 - O diretor da DSAF pode delegar ou subdelegar nos chefes de divisão as respetivas competências, próprias ou delegadas, com faculdade de subdelegação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827514": {
+   "fragment_id": "899870677",
+   "type": 11,
+   "heading": "Artigo 22.º-A — Coordenação de Stocks e Património",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 22.º-A — Coordenação de Stocks e Património\n\n1 - À Coordenação de Stocks e Património, doravante designada por CSP, compete, em geral, zelar pela administração e conservação do património do IAMA, IPRA, tendo em vista a sua rentabilização e operacionalidade das infraestruturas, designadamente:\n\na) Gerir o património mobiliário e imobiliário;\n\nb) Proceder à realização de ações de vistoria dos imóveis de que o IAMA, IPRA, é titular;\n\nc) Controlar a aquisição, conservação, doação e alienação de bens móveis e imóveis;\n\nd) Organizar e manter atualizado o inventário e o cadastro dos bens imóveis de que o IAMA, IPRA, é titular;\n\ne) Proceder à regularização registral;\n\nf) Planear e gerir a ocupação dos edifícios de acordo com as necessidades dos serviços e zelar pelas suas condições estéticas e funcionais;\n\ng) Assegurar a manutenção dos equipamentos afetos às atividades do IAMA, IPRA, incluindo estruturas;\n\nh) Efetuar regularmente, junto dos diversos serviços, o levantamento, análise e avaliação das necessidades de aquisição de mobiliário;\n\ni) Elaborar e submeter para aprovação do conselho diretivo a proposta de aquisição de mobiliário;\n\nj) Assegurar a gestão das garagens e viaturas do IAMA, IPRA, em articulação com os restantes serviços, registando e controlando os gastos com a sua manutenção, alocando os trabalhos desenvolvidos aos serviços que o solicitem e promovendo a sua renovação sempre que tal se justifique;\n\nk) Promover a inventariação regular dos bens móveis existentes no IAMA, IPRA, em articulação com os restantes serviços;\n\nl) Assegurar a gestão e renovação do mobiliário e promover as respetivas ações de alienação e abate, sempre que tal se justifique;\n\nm) Assegurar o planeamento de inventário, por forma a minimizar custos de imobilização e efetuar a sua imputação aos respetivos centros de custo;\n\nn) Assegurar o controlo efetivo em termos contabilísticos e financeiros dos armazéns dos matadouros da rede regional de abate e dos Serviços de Classificação de Leite das ilhas de São Miguel e da Terceira, bem como coordenar os responsáveis dos diversos armazéns;\n\no) Elaborar e analisar os relatórios mensais onde consta a informação das existências e saídas de material para os diversos serviços;\n\np) Efetuar a inventariação física sempre que necessário, elaborando um relatório a apresentar ao Conselho Diretivo do IAMA, IPRA;\n\nq) Manter atualizado o stock de armazéns ao mês, efetuando as saídas no programa GERFIP de acordo com a informação extraída do programa Gestão Comercial Integrada (GCI), em uso nos matadouros para controlo de inventários;\n\nr) Emitir um relatório anual com a informação das contagens físicas e valorizadas a submeter no portal da Autoridade Tributária e Aduaneira;\n\ns) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A CSP é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827515": {
+   "fragment_id": "899811481",
+   "type": 11,
+   "heading": "Artigo 23.º — Direção de Serviços de Qualidade, Mercados e Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direção de Serviços de Qualidade, Mercados e Controlos\n\n1 - A Direção de Serviços de Qualidade, Mercados e Controlos, doravante designada por DSQMC, é um serviço central, executivo, com competência nas áreas da qualidade dos produtos agrícolas e dos géneros alimentícios, na execução das políticas de inovação e transformação, nas ações enquadradas nos planos oficiais de controlos e na produção de informações sobre os mercados agrícolas.\n\n2 - Para efeitos do disposto no número anterior, a DSQMC integra:\n\na) Divisão de Produtos Qualificados e Mercados Agrícolas;\n\nb) Divisão de Controlos.\n\n3 - A DSQMC é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n4 - O diretor da DSQMC pode delegar ou subdelegar nos chefes de divisão as respetivas competências, próprias ou delegadas, com faculdade de subdelegação."
+  },
+  "899827516": {
+   "fragment_id": "899811482",
+   "type": 11,
+   "heading": "Artigo 24.º — Divisão de Produtos Qualificados e Mercados Agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Divisão de Produtos Qualificados e Mercados Agrícolas\n\n1 - À Divisão de Produtos Qualificados e Mercados Agrícolas, doravante designada por DPQMA, compete:\n\na) Promover e operacionalizar as disposições específicas regulamentares, comunitárias, nacionais e regionais, relativas aos regimes de qualidade, nas áreas dos produtos agrícolas e géneros alimentícios;\n\nb) Assegurar a gestão dos regimes comunitários de certificação, proteção e qualificação dos produtos agroalimentares regionais, no âmbito das denominações de origem e indicações geográficas, especialidades tradicionais garantidas, modo de produção biológico, menções de qualidade facultativa e outros modos particulares de produção;\n\nc) Analisar e aprovar os processos de reconhecimento e proteção dos nomes geográficos;\n\nd) Selecionar a amostra para as ações de controlo dos produtos agrícolas ou géneros alimentícios registados como DOP, IGP, ETG, MPB, menções de qualidade facultativa e outros;\n\ne) Delegar tarefas de controlo oficial em organismos privados de controlo, bem como suspender ou anular essa delegação das ações, no âmbito dos regimes de qualidade, incluindo o modo de produção biológico;\n\nf) Promover a aplicação de sistemas para a garantia da qualidade dos produtos agroalimentares, através de ações que visem a certificação da sua qualidade e genuinidade;\n\ng) Cooperar em ações de divulgação e promoção dos produtos qualificados e certificados;\n\nh) Promover e coordenar a realização de estudos de mercado, relativamente aos produtos agroalimentares;\n\ni) Assegurar a recolha, análise e tratamento da informação estatística relativa aos produtos agrícolas de interesse regional;\n\nj) Editar publicações, periódicas ou ocasionais, sobre as matérias da sua área de competências e assegurar a respetiva distribuição;\n\nk) Gerir as medidas de inovação, qualidade e de transformação, em articulação com os organismos nacionais e regionais competentes, assegurando a tramitação relativa à receção, análise e validação dos pedidos de pagamentos dos respetivos apoios;\n\nl) Analisar e decidir sobre os pedidos de reconhecimento de organizações de produtores, bem como a sua manutenção, em articulação com as autoridades nacionais competentes;\n\nm) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DPQMA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "899827517": {
+   "fragment_id": "899811483",
+   "type": 11,
+   "heading": "Artigo 25.º — Divisão de Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Divisão de Controlos\n\n1 - À Divisão de Controlos, doravante designada por DC, compete:\n\na) Coordenar e executar as ações enquadradas nos planos oficiais de controlos relativos aos regimes de apoio, no âmbito da política agrícola comum, de acordo com as orientações funcionais dos serviços e organismos centrais e regionais competentes em razão de matéria;\n\nb) Proceder aos controlos de conformidade dos produtos reconhecidos e, quando for o caso, emitir os respetivos certificados de conformidade;\n\nc) Delegar tarefas de controlos oficiais em organismos privados que se encontrem reconhecidos no território nacional continental;\n\nd) Executar os controlos oficiais das amostras selecionadas pela autoridade nacional, relativas à ajuda do «Regime Escolar» ou outras que sejam devidamente protocoladas;\n\ne) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "899827518": {
+   "fragment_id": "899811484",
+   "type": 11,
+   "heading": "Artigo 26.º — Coordenação Regional de Classificação de Carcaças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Coordenação Regional de Classificação de Carcaças\n\n1 - A Coordenação Regional de Classificação de Carcaças, doravante designada por CRCC, é um serviço central, executivo, que, na Região Autónoma dos Açores, coordena a equipa de classificação de carcaças, ao qual compete:\n\na) Assegurar a atividade da classificação de carcaças;\n\nb) Coordenar, com as entidades nacionais e comunitárias competentes, a realização de formação na respetiva área de atuação;\n\nc) Exercer as demais competências previstas na lei, designadamente o Regulamento (CE) n.º 1249/2008, da Comissão, de 10 de dezembro.\n\n2 - A área de atuação da CRCC corresponde a toda a Região Autónoma dos Açores.\n\n3 - A CRCC é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899827519": {
+   "fragment_id": "899870678",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Coordenação de Higiene e Segurança no Trabalho",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 26.º-A — Coordenação de Higiene e Segurança no Trabalho\n\n1 - A Coordenação de Higiene e Segurança no Trabalho, doravante designada por CHST, é um serviço central, executivo, que, no IAMA, IPRA, coordena toda a gestão no âmbito da proteção da segurança e saúde dos trabalhadores, ao qual compete:\n\na) Supervisionar o sistema de segurança e saúde no trabalho, por forma a garantir a divulgação, implementação, manutenção, desenvolvimento, revisão e melhoria do mesmo;\n\nb) Orientar e coordenar o sistema de segurança e saúde no trabalho, controlando as atividades de prevenção e de proteção contra riscos profissionais;\n\nc) Implementar atividades de prevenção e proteção contra riscos profissionais;\n\nd) Assegurar e desenvolver planos de segurança e saúde, de modo a complementar as medidas previstas, tendo em conta as especificações do processo construtivo e os recursos técnicos e humanos;\n\ne) Propor e elaborar estudos e emitir parecer sobre os procedimentos ao nível da segurança e saúde no trabalho;\n\nf) Efetuar inspeções periódicas nos locais de trabalho, verificando o cumprimento das normas de segurança e propondo medidas com vista à eliminação das anomalias verificadas;\n\ng) Especificar o equipamento de proteção individual e coletivo, destinado a melhorar as condições de segurança nos locais de trabalho e proceder ao seu controlo;\n\nh) Examinar as causas e circunstâncias de acidentes de trabalho ocorridos, mencionando expressamente as suas causas reais ou prováveis, e propor as providências necessárias que se revelem adequadas a evitar a ocorrência de novos acidentes de trabalho;\n\ni) Recolher os dados referentes aos acidentes de trabalho e proceder ao seu tratamento estatístico;\n\nj) Implementar as normas de segurança e saúde dos trabalhadores afetos ao IAMA, IPRA, e assegurar o cumprimento das mesmas;\n\nk) Supervisionar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nl) Promover o processo de certificação cujo conteúdo funcional deverá dar cumprimento às exigências normativas e regulamentares em vigor;\n\nm) Promover a formação interna e externa dos trabalhadores afetos ao IAMA, IPRA, em razão da matéria;\n\nn) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da CHST corresponde a todos os serviços centrais e periféricos do IAMA, IPRA.\n\n3 - A CHST é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827509": {
+   "fragment_id": "899811486",
+   "type": 11,
+   "heading": "Artigo 27.º — Matadouro de São Miguel",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 27.º — Matadouro de São Miguel\n\n1 - O Matadouro de São Miguel, doravante designado por MSM, é um serviço executivo, periférico, responsável pela direção e coordenação das infraestruturas regionais de abate existentes nas ilhas de São Miguel e Santa Maria.\n\n2 - Para efeitos do disposto no número anterior, o MSM integra:\n\na) Matadouro da Ilha de São Miguel;\n\nb) Coordenação de Ambiente;\n\nc) Coordenação de Qualidade e Segurança;\n\nd) Coordenação de Manutenção;\n\ne) Secção Administrativa e Financeira;\n\nf) Matadouro de Santa Maria.\n\n3 - Ao MSM compete:\n\na) Definir os objetivos e linhas gerais de atuação para o MSM, com observância dos planos superiormente aprovados;\n\nb) Coordenar a gestão integrada dos respetivos recursos financeiros, com respeito pelas indicações superiores;\n\nc) Elaborar e propor ao Conselho Diretivo os planos e respetivos orçamentos, os relatórios de atividades, bem como o plano de gestão provisional de pessoal para o MSM e o correspondente plano de formação;\n\nd) Elaborar e propor ao Conselho Diretivo medidas sobre a coordenação e articulação entre serviços;\n\ne) Coordenar a gestão dos respetivos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nf) Desenvolver as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\ng) Supervisionar a execução das ações necessárias a garantir o cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento das unidades de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\nh) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n4 - O MSM é dirigido por um diretor, equiparado, para todos os efeitos legais, a subdiretor regional, cargo de direção superior de 2.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827510": {
+   "fragment_id": "899811488",
+   "type": 11,
+   "heading": "Artigo 29.º — Coordenação de Ambiente",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 29.º — Coordenação de Ambiente\n\n1 - À Coordenação de Ambiente de São Miguel, doravante designada por CASM, compete:\n\na) Assegurar e promover o licenciamento ambiental e demais ações, com vista a cumprir as obrigações ambientais;\n\nb) Supervisionar o cumprimento de todas as ações, no âmbito de processos de certificação;\n\nc) Promover a formação interna e externa dos trabalhadores afetos ao MSM;\n\nd) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da CASM corresponde à área de competências do MSM.\n\n3 - A CASM é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827520": {
+   "fragment_id": "899870679",
+   "type": 11,
+   "heading": "Artigo 29.º-A — Coordenação de Qualidade e Segurança",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 29.º-A — Coordenação de Qualidade e Segurança\n\n1 - À Coordenação de Qualidade e Segurança de São Miguel, doravante designada por CQSSM, compete:\n\na) Supervisionar o sistema de qualidade e segurança alimentar de forma a garantir a divulgação, implementação, manutenção, desenvolvimento, revisão e melhoria do mesmo;\n\nb) Propor e elaborar estudos bem como emitir pareceres sobre os procedimentos a nível da segurança e qualidade alimentar;\n\nc) Planear, gerir e supervisionar os recursos disponíveis;\n\nd) Implementar as normas de segurança dos trabalhadores afetos ao MSM e assegurar o seu cumprimento;\n\ne) Promover a formação interna e externa dos trabalhadores afetos ao MSM;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da CQSSM corresponde à área de competências do MSM.\n\n3 - A CQSSM é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827521": {
+   "fragment_id": "899811489",
+   "type": 11,
+   "heading": "Artigo 30.º — Coordenação de Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Coordenação de Manutenção\n\n1 - À Coordenação de Manutenção de São Miguel, doravante designada por CMSM, compete:\n\na) Assegurar a manutenção preventiva, corretiva e de melhoria/otimização dos equipamentos;\n\nb) Inovar, adotar e adaptar os equipamentos às exigências legais e técnicas;\n\nc) Gerir o armazém e stock de consumíveis e peças de reserva, bem como os respetivos custos de aquisição;\n\nd) Coordenar a equipa de manutenção e promover a formação interna e externa dos trabalhadores afetos ao MSM;\n\ne) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da CMSM corresponde à área de competências do MSM.\n\n3 - A CMSM é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899827539": {
+   "fragment_id": "899870680",
+   "type": 11,
+   "heading": "Artigo 30.º-A — Secção Administrativa e Financeira",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 30.º-A — Secção Administrativa e Financeira\n\n1 - À Secção Administrativa e Financeira do MSM, doravante designada por SAFMSM, compete:\n\na) Arrecadar receitas e efetuar o pagamento das despesas autorizadas e processadas;\n\nb) Colaborar na elaboração dos planos e respetivos orçamentos e dos relatórios de atividades;\n\nc) Conferir, classificar e arquivar os documentos contabilísticos;\n\nd) Assegurar uma eficaz gestão do economato;\n\ne) Organizar e manter atualizado o cadastro do património afetos aos MSM e MSTM, assegurando também a sua gestão, conservação e manutenção;\n\nf) Organizar e manter atualizado o cadastro e registo biográfico dos trabalhadores afetos aos MSM e MSTM, assegurando os procedimentos necessários a garantir o controlo da assiduidade, efetividade, segurança e benefícios sociais dos mesmos;\n\ng) Executar as ações necessárias à organização e instrução dos processos referentes às várias fases e aspetos da vida profissional dos respetivos trabalhadores;\n\nh) Emitir certidões e outros documentos;\n\ni) Assegurar o registo, classificação, expediente, arquivo e controlo de toda a documentação do MSM;\n\nj) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da SAFMSM corresponde à área de competência do MSM.\n\n3 - A SAFMSM é dirigida por um coordenador técnico, da carreira de assistente técnico.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827540": {
+   "fragment_id": "899811490",
+   "type": 11,
+   "heading": "Artigo 31.º — Matadouro de Santa Maria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Matadouro de Santa Maria\n\n1 - Ao Matadouro de Santa Maria, doravante designado por MSTM, compete:\n\na) Cumprir os planos de atuação aprovados pelo MSM;\n\nb) Assegurar a gestão dos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nc) Executar as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\nd) Executar as ações necessárias ao cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento da unidade de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O MSTM é coordenado por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, sob direção do diretor do MSM."
+  },
+  "899827541": {
+   "fragment_id": "899811491",
+   "type": 11,
+   "heading": "Artigo 32.º — Direção de Serviços de Classificação de Leite",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 32.º — Direção de Serviços de Classificação de Leite\n\n1 - A Direção de Serviços de Classificação de Leite, doravante designada por DSCL, é um serviço central, executivo, com competência nas áreas da classificação de leite.\n\n2 - Para efeitos do disposto no número anterior, a DSCL integra:\n\na) Serviço de Classificação de Leite de São Miguel;\n\nb) Serviço de Classificação de Leite da Terceira.\n\n3 - A DSCL é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827557": {
+   "fragment_id": "899870681",
+   "type": 11,
+   "heading": "Artigo 32.º-A — Serviços de Classificação de Leite de São Miguel e da Terceira",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 32.º-A — Serviços de Classificação de Leite de São Miguel e da Terceira\n\n1 - Os Serviços de Classificação de Leite de São Miguel e da Terceira são serviços executivos e periféricos aos quais compete exercer todas as atividades relacionadas com a classificação de leite ao produtor, com base na sua qualidade higiénica e composição, designadamente:\n\na) Colher amostras individuais nos locais e nas condições superiormente definidas;\n\nb) Executar as provas laboratoriais, de acordo com a legislação em vigor, e elaborar periodicamente as listas de classificação;\n\nc) Divulgar os resultados às partes interessadas;\n\nd) Propor, ao Conselho Diretivo, as ações e medidas consideradas pertinentes ao bom funcionamento e desempenho dos Serviços de Classificação de Leite;\n\ne) Elaborar relatórios de atividades;\n\nf) Elaborar e divulgar documentos de informação aos produtores;\n\ng) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O Serviço de Classificação de Leite de São Miguel, doravante designado por SERCLASM, exerce as competências elencadas no número anterior, nas ilhas de São Miguel e de Santa Maria.\n\n3 - O Serviço de Classificação de Leite da Terceira, doravante designado por SERCLAT, exerce as competências elencadas no n.º 1, nas ilhas Terceira, Graciosa, São Jorge, Faial, Pico, Flores e Corvo.\n\n4 - O SERCLASM e o SERCLAT integram as Coordenações de Laboratório, abreviadamente designadas por CL, com as competências previstas no n.º 1 do artigo seguinte.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827558": {
+   "fragment_id": "899811492",
+   "type": 11,
+   "heading": "Artigo 33.º — Coordenações de Laboratório",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 33.º — Coordenações de Laboratório\n\n1 - Às Coordenações de Laboratório, doravante designadas por CL, compete a orientação técnica dos laboratórios do SERCLASM e do SERCLAT, nomeadamente:\n\na) Assegurar a gestão do funcionamento geral das operações técnicas;\n\nb) Estabelecer regras para a elaboração de ensaios, recolha de dados e tratamento de resultados;\n\nc) Acompanhar e supervisionar os ensaios em execução;\n\nd) Gerir os equipamentos afetos aos laboratórios.\n\n2 - A área de atuação das CL corresponde às áreas de competência do SERCLASM e do SERCLAT.\n\n3 - As CL são coordenadas por trabalhadores designados para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827573": {
+   "fragment_id": "899811493",
+   "type": 11,
+   "heading": "Artigo 34.º — Serviço de Classificação de Leite da Terceira",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "###### Artigo 34.º — Serviço de Classificação de Leite da Terceira\n\n1 - O Serviço de Classificação de Leite da Terceira, doravante designado por SERCLAT, é um serviço executivo, periférico, que, nas ilhas Terceira, Graciosa, São Jorge, Faial, Pico, Flores e Corvo, exerce as competências elencadas no n.º 1 do artigo 32.º\n\n2 - O SERCLAT é dirigido por um diretor equiparado a chefe de divisão, cargo de direção intermédia de 2.º grau.\n\n3 - O SERCLAT integra a Coordenação de Laboratório, abreviadamente designada por CL, com as competências previstas no n.º 1 do artigo 33.º\n\n4 - A área de atuação da CL corresponde às áreas de competência do SERCLAT.\n\n5 - A CL é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  },
+  "899827560": {
+   "fragment_id": "899811494",
+   "type": 11,
+   "heading": "Artigo 35.º — Delegações da Terceira e do Faial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Delegações da Terceira e do Faial\n\n1 - As Delegações da Terceira e do Faial, doravante designadas por Delegações, são serviços executivos periféricos que asseguram, nas ilhas onde se estender a sua ação, a execução das atividades necessárias à prossecução das atribuições e competências do IAMA, IPRA.\n\n2 - Às Delegações compete;\n\na) Definir os objetivos e linhas gerais de atuação para as Delegações, com observância dos planos superiormente aprovados;\n\nb) Coordenar a gestão integrada dos respetivos recursos financeiros, com respeito pelas indicações superiores;\n\nc) Elaborar e propor ao Conselho Diretivo os planos e respetivos orçamentos, os relatórios de atividades, bem como o plano de gestão provisional de trabalhadores para as Delegações, e o correspondente plano de formação;\n\nd) Elaborar e propor ao Conselho Diretivo medidas sobre a coordenação e articulação entre serviços;\n\ne) Coordenar a gestão dos respetivos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nf) Desenvolver as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\ng) Supervisionar a execução das ações necessárias a garantir o cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento das unidades de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos."
+  },
+  "899827561": {
+   "fragment_id": "899811495",
+   "type": 11,
+   "heading": "Artigo 36.º — Delegação da Terceira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Delegação da Terceira\n\n1 - A Delegação da Terceira, doravante designada por DT, tem como âmbito de atuação as ilhas Terceira, Graciosa e São Jorge.\n\n2 - Para cumprimento das suas atribuições, a DT integra:\n\na) Matadouro da Terceira;\n\nb) Coordenação de Ambiente, Qualidade e Segurança;\n\nc) Coordenação de Manutenção;\n\nd) Secção Administrativa e Financeira;\n\ne) Matadouro da Graciosa;\n\nf) Matadouro de São Jorge.\n\n3 - A DT é dirigida por um delegado, equiparado a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n4 - O delegado da Terceira pode delegar ou subdelegar as respetivas competências, próprias ou delegadas, com faculdade de subdelegação."
+  },
+  "899827562": {
+   "fragment_id": "899811496",
+   "type": 11,
+   "heading": "Artigo 37.º — Matadouro da Terceira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Matadouro da Terceira\n\n1 - Ao Matadouro da Terceira, designado abreviadamente por MT, compete:\n\na) Cumprir os planos de atuação aprovados pela DT;\n\nb) Assegurar a gestão dos respetivos recursos humanos, financeiros e materiais, com respeito pelas indicações superiores;\n\nc) Executar as ações necessárias ao cumprimento das normas em vigor em matéria de condições ambientais, qualidade e segurança, certificação e higiene e segurança no trabalho;\n\nd) Executar as ações necessárias ao cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento da unidade de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O MT é dirigido por um diretor, equiparado a chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "899827563": {
+   "fragment_id": "899811497",
+   "type": 11,
+   "heading": "Artigo 38.º — Coordenação de Ambiente, Qualidade e Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Coordenação de Ambiente, Qualidade e Segurança\n\n1 - À Coordenação de Ambiente, Qualidade e Segurança da DT, doravante designada por CAQSDT, compete:\n\na) Supervisionar o sistema de qualidade e segurança alimentar, por forma a garantir a divulgação, implementação, manutenção, desenvolvimento, revisão e melhoria do mesmo;\n\nb) Propor e elaborar estudos e dar pareceres sobre os procedimentos, ao nível da segurança e qualidade alimentar;\n\nc) Acompanhar os serviços de segurança e saúde no trabalho;\n\nd) Implementar as normas de higiene e segurança dos trabalhadores afetos à DT e assegurar o cumprimento das mesmas;\n\ne) Supervisionar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar e promover todas as ações com vista a cumprir as obrigações ambientais;\n\ng) Promover o processo de certificação ambiental das unidades de abate situadas na área de atuação da DT;\n\nh) Promover a formação interna e externa dos trabalhadores afetos à DT, em razão da matéria;\n\ni) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da CAQSDT corresponde à área de competência da DT.\n\n3 - A CAQSDT é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899827564": {
+   "fragment_id": "899811498",
+   "type": 11,
+   "heading": "Artigo 39.º — Coordenação de Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Coordenação de Manutenção\n\n1 - À Coordenação de Manutenção da Terceira, doravante designada por CMT, compete:\n\na) Assegurar a manutenção preventiva, corretiva e de melhoria/otimização dos equipamentos;\n\nb) Inovar, adotar e adaptar os equipamentos às exigências legais e técnicas;\n\nc) Gerir o armazém e stock de consumíveis e peças de reserva, bem como os respetivos custos de aquisição;\n\nd) Coordenar a equipa de manutenção e promover a formação interna e externa dos trabalhadores afetos à DT;\n\ne) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da CMT corresponde à área de competências da DT.\n\n3 - A CMT é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899827565": {
+   "fragment_id": "899811499",
+   "type": 11,
+   "heading": "Artigo 40.º — Secção Administrativa e Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Secção Administrativa e Financeira\n\n1 - À Secção Administrativa e Financeira da DT, doravante designada por SAFDT, compete:\n\na) Arrecadar receitas e efetuar o pagamento das despesas autorizadas e processadas;\n\nb) Colaborar na elaboração dos planos e respetivos orçamentos e dos relatórios de atividades;\n\nc) Conferir, classificar e arquivar os documentos contabilísticos;\n\nd) Assegurar uma eficaz gestão do economato;\n\ne) Organizar e manter atualizado o cadastro do património afeto à DT, assegurando também a sua gestão, conservação e manutenção;\n\nf) Organizar e manter atualizado o cadastro e registo biográfico dos trabalhadores afetos à DT, assegurando os procedimentos necessários a garantir a assiduidade, efetividade, segurança e benefícios sociais dos mesmos;\n\ng) Executar as ações necessárias à organização e instrução dos processos referentes às várias fases e aspetos da vida profissional dos respetivos trabalhadores;\n\nh) Emitir certidões e outros documentos;\n\ni) Assegurar o registo, classificação, expediente, arquivo e controlo de toda a documentação da DT;\n\nj) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A área de atuação da SAFDT corresponde à área de competência da DT.\n\n3 - A SAFDT é dirigida por um coordenador técnico, da carreira de assistente técnico."
+  },
+  "899827566": {
+   "fragment_id": "899811500",
+   "type": 11,
+   "heading": "Artigo 41.º — Matadouros da Graciosa e de São Jorge",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Matadouros da Graciosa e de São Jorge\n\n1 - Aos Matadouros da Graciosa e de São Jorge, doravante designados por MG e MSJ, respetivamente, compete:\n\na) Cumprir os planos de atuação aprovados pela DT;\n\nb) Assegurar a gestão dos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nc) Desenvolver as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\nd) Assegurar o cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento da unidade de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - Os MG e MSJ são coordenados por trabalhadores designados para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, sob direção do delegado da Terceira."
+  },
+  "899827567": {
+   "fragment_id": "899811501",
+   "type": 11,
+   "heading": "Artigo 42.º — Delegação do Faial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Delegação do Faial\n\n1 - A Delegação do Faial, abreviadamente designada por DF, tem como âmbito de atuação as ilhas do Faial, Pico, Flores e Corvo.\n\n2 - Para o exercício das suas atribuições, a DF integra:\n\na) Matadouro do Faial;\n\nb) Coordenação de Ambiente, Qualidade e Segurança;\n\nc) Coordenação de Manutenção;\n\nd) Secção Administrativa e Financeira;\n\ne) Matadouro do Pico;\n\nf) Matadouro das Flores;\n\ng) Matadouro do Corvo.\n\n3 - A DF é dirigida por um delegado, equiparado a diretor de serviços, cargo de direção intermédia de 1.º grau."
+  },
+  "899827568": {
+   "fragment_id": "899811502",
+   "type": 11,
+   "heading": "Artigo 43.º — Matadouro do Faial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Matadouro do Faial\n\n1 - Ao Matadouro do Faial, designado abreviadamente por MF, compete:\n\na) Cumprir os planos de atuação aprovados pela DF;\n\nb) Assegurar a gestão dos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nc) Desenvolver as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\nd) Assegurar o cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento da unidade de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O MF é dirigido pelo delegado do Faial."
+  },
+  "899827569": {
+   "fragment_id": "899811503",
+   "type": 11,
+   "heading": "Artigo 44.º — Coordenação de Ambiente, Qualidade e Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Coordenação de Ambiente, Qualidade e Segurança\n\n1 - As competências da Coordenação de Ambiente, Qualidade e Segurança da DF, doravante designada por CAQSDF, são as constantes do n.º 1 do artigo 38.º\n\n2 - A área de atuação da CAQSDF corresponde à área de competências da DF.\n\n3 - A CAQSDF é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899827570": {
+   "fragment_id": "899811504",
+   "type": 11,
+   "heading": "Artigo 45.º — Coordenação de Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Coordenação de Manutenção\n\n1 - As competências da Coordenação de Manutenção do Faial, doravante designada por CMF, são as constantes do n.º 1 do artigo 39.º\n\n2 - A área de atuação da CMF corresponde à área de competências da DF.\n\n3 - A CMF é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "899827571": {
+   "fragment_id": "899811505",
+   "type": 11,
+   "heading": "Artigo 46.º — Secção Administrativa e Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Secção Administrativa e Financeira\n\n1 - As competências da Secção Administrativa e Financeira do Faial, doravante designada por SAFF, são as constantes do n.º 1 do artigo 40.º\n\n2 - A área de atuação da SAFF corresponde à área de competências da DF.\n\n3 - A SAFF é dirigida por um coordenador técnico, da carreira de assistente técnico."
+  },
+  "899827572": {
+   "fragment_id": "899811506",
+   "type": 11,
+   "heading": "Artigo 47.º — Matadouros do Pico, das Flores e do Corvo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Matadouros do Pico, das Flores e do Corvo\n\n1 - Aos Matadouros do Pico, das Flores e do Corvo, doravante designados por MP, MFL e MC, respetivamente, compete:\n\na) Cumprir os planos de atuação aprovados pela DF;\n\nb) Assegurar a gestão dos recursos humanos e materiais, com respeito pelas indicações superiores;\n\nc) Desenvolver as ações necessárias ao cumprimento das normas em vigor sobre condições ambientais, qualidade e segurança alimentar, certificação e higiene e segurança no trabalho;\n\nd) Assegurar o cumprimento das normas em vigor relativas ao bem-estar animal, condições higio-sanitárias de funcionamento das unidades de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respetivos subprodutos;\n\ne) Assegurar o cumprimento de todas as ações no âmbito de processos de certificação;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - Os MP e MFL são coordenados por trabalhadores designados para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, sob direção do delegado do Faial.\n\n3 - O MC é dirigido pelo delegado do Faial."
+  },
+  "899827513": {
+   "fragment_id": "899811507",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 1.º)",
+   "in_force_from": "2024-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 1.º)\n\nQuadro de pessoal dirigente, de direção específica e de chefia de unidades orgânicas do Instituto de Alimentação e Mercados Agrícolas, IPRA\n\n| Número de lugares | Designação dos serviços e dos cargos | Remuneração |\n| --- | --- | --- |\n|  | Conselho Diretivo |  |\n|  | [...] |  |\n|  | Direção de Serviços de Assuntos Jurídicos e Recursos Humanos |  |\n|  | [...] |  |\n|  | Direção de Serviços Administrativa e Financeira |  |\n|  | [...] |  |\n|  | [...] |  |\n| 1 | [...] |  |\n|  | [...] |  |\n| 1 | Coordenação de Stocks e Património, coordenador | (b) |\n|  | Direção de Serviços de Qualidade, Mercados e Controlos |  |\n|  | [...] |  |\n|  | Coordenação Regional de Classificação de Carcaças |  |\n|  | [...] |  |\n|  | Coordenação de Higiene e Segurança no Trabalho |  |\n| 1 | Coordenador de Higiene e Segurança no Trabalho, coordenador | (b) |\n|  | Matadouro de São Miguel |  |\n|  | [...] |  |\n| 1 | Coordenação de Ambiente, coordenador | (b) |\n| 1 | Coordenação Qualidade e Segurança, coordenador | (b) |\n|  | [...] |  |\n| 1 | Secção Administrativa e Financeira, coordenador técnico | (c) |\n|  | Direção de Serviços de Classificação de Leite |  |\n| 1 | Diretor de Serviços de Classificação de Leite, cargo de direção intermédia de 1.º grau | (a) |\n| 2 | Coordenação de Laboratório, coordenador | (b) |\n|  | Delegação da Terceira |  |\n|  | [...] |  |\n|  | Delegação do Faial |  |\n|  | [...] |  |\n\n114672821\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/A - Diário da República n.º 240/2024, Série I de 2024-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505), em vigor a partir de 2024-12-12"
+  }
+ }
+}

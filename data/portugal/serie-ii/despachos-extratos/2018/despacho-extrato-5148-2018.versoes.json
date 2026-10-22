@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:115366870:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2018-1178540875",
+ "dre_path": "/dr/detalhe/despacho-extrato/5148-2018-115366870",
+ "source_lastmod": "2026-10-08",
+ "versions": [
+  {
+   "date": "2018-05-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1178542275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1178542275": {
+   "fragment_id": "1178540975",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, por despacho do Presidente do Grupo Parlamentar do Partido Social Democrata, de 26 de abril de 2018:\n\nIsabel Diana Bettencourt Melo de Castro, - exonerada, a seu pedido, do cargo de assessora do Grupo Parlamentar do Partido Social Democrata, com efeitos a partir do dia 1 de maio de 2018.\n\nLicenciado Luciano Manuel Calheiros Gomes - Professor do Agrupamento de Escolas de Paço de Sousa - nomeado para exercer as funções de assessor do Grupo Parlamentar do Partido Social Democrata, com efeitos a partir do dia 1 de julho de 2018."
+  }
+ }
+}

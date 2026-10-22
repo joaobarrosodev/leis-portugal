@@ -1,0 +1,590 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:538623:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-885585750",
+ "dre_path": "/dr/detalhe/decreto-lei/158-2006-538623",
+ "source_lastmod": "2024-08-23",
+ "versions": [
+  {
+   "date": "2006-08-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885586191",
+    "885586192",
+    "885586193",
+    "885586194",
+    "885586195",
+    "885586196",
+    "885586197",
+    "885586198",
+    "885586199",
+    "885586200",
+    "885586201",
+    "885586202",
+    "885586203",
+    "885586204",
+    "885586205",
+    "885586206",
+    "885586207",
+    "885586208",
+    "885586209",
+    "885586210",
+    "885586211",
+    "885586212",
+    "885586213",
+    "885586214",
+    "885586215"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632429:por",
+     "title": "Decreto-Lei n.º 266-C/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/266-c-2012-632429"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 16.º",
+    "Altera Capítulo IV",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "885586191",
+    "885586192",
+    "885596105",
+    "885586220",
+    "885596106",
+    "885586196",
+    "885596107",
+    "885596108",
+    "885586199",
+    "885596109",
+    "885596110",
+    "885596116",
+    "885596117",
+    "885596118",
+    "885596119",
+    "885596120",
+    "885596121",
+    "885596122",
+    "885596123",
+    "885596124",
+    "885596125",
+    "885596126",
+    "885596127",
+    "885596114",
+    "885596113",
+    "885596128",
+    "885596129",
+    "885586216"
+   ]
+  },
+  {
+   "date": "2015-01-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:65949851:por",
+     "title": "Lei n.º 79/2014",
+     "published": "2014-12-19",
+     "dre_path": "/dr/detalhe/lei/79-2014-65949851"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "885586191",
+    "885586192",
+    "885596131",
+    "885586220",
+    "885596106",
+    "885586196",
+    "885596107",
+    "885596108",
+    "885586199",
+    "885596109",
+    "885596110",
+    "885596116",
+    "885596117",
+    "885596118",
+    "885596119",
+    "885596120",
+    "885596121",
+    "885596122",
+    "885596123",
+    "885596124",
+    "885596132",
+    "885596126",
+    "885596127",
+    "885596114",
+    "885596113",
+    "885596128",
+    "885596129",
+    "885586216"
+   ]
+  }
+ ],
+ "fragments": {
+  "885586191": {
+   "fragment_id": "885585751",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 158/2006\n\nde 8 de Agosto\n\nA revisão do regime jurídico do arrendamento urbano, uma das medidas prioritárias do XVII Governo Constitucional, culminou na aprovação do Novo Regime do Arrendamento Urbano (NRAU), pela Lei n.º 6/2006, de 27 de Fevereiro, a qual constitui um marco essencial no ordenamento jurídico português no sentido da dinamização do mercado de arrendamento, actualmente estagnado. Este desiderato é concretizado não só através da consagração de um regime de direito substantivo e processual civil moderno mas também através da promoção da actualização das rendas antigas - as rendas relativas a contratos de arrendamento habitacionais celebrados antes da vigência do Decreto-Lei n.º 321-B/90, de 15 de Outubro (RAU), e contratos não habitacionais celebrados antes da vigência do Decreto-Lei n.º 257/95, de 30 de Setembro.\n\nOra, a actualização das rendas antigas, que visa assegurar ao proprietário a valorização do seu património e ao inquilino viver numa habitação condigna, encontra-se consagrada nos artigos 30.º a 56.º do NRAU. Do disposto neste regime legal resulta que a renda actualizada terá como limite máximo o valor anual correspondente a 4% do valor do locado, sendo que este corresponde ao produto do valor da avaliação realizada nos termos dos artigos 38.º e seguintes do Código do Imposto Municipal sobre Imóveis (CIMI), realizada há menos de três anos, multiplicado pelo coeficiente de conservação previsto no artigo 33.º do NRAU, o qual adequa os critérios actualmente vigentes a algumas particularidades dos prédios antigos e traduz as condições de habitabilidade do locado. Tendo em vista evitar rupturas sociais, o NRAU prevê que a actualização da renda seja, em regra, faseada ao longo de 5 anos (período padrão), salvo se existirem circunstâncias que impliquem a actualização ao longo de 2 ou 10 anos, ou mesmo a actualização imediata.\n\nNos arrendamentos habitacionais, o NRAU estabelece que a actualização da renda é faseada ao longo de 10 anos se o arrendatário invocar que o rendimento anual bruto corrigido (RABC) do seu agregado familiar é inferior a cinco RMNA, ou que tem idade igual ou superior a 65 anos, ou deficiência com grau comprovado de incapacidade superior a 60%. E prevê ainda o NRAU que a actualização será faseada ao longo de dois anos nos casos previstos no seu artigo 45.º ou se o senhorio invocar que o agregado familiar do arrendatário dispõe de um RABC superior a 15 RMNA, sem que o arrendatário invoque uma das circunstâncias acima mencionadas.\n\nAo supra-exposto acresce que o conceito de RABC do agregado familiar do arrendatário foi ainda utilizado pelo legislador para efeitos de atribuição de subsídio de renda ao arrendatário cujo agregado familiar receba um RABC inferior a três RMNA ou que tenha idade igual ou superior a 65 anos e cujo agregado familiar receba um RABC inferior a cinco RMNA, nos termos do n.º 1 do artigo 46.º do NRAU.\n\nEm síntese, no âmbito do NRAU, o conceito de RABC do agregado familiar do arrendatário é fundamental, por um lado, para efeitos de determinação do período de faseamento da actualização da rendas antigas e, por outro, para efeitos de atribuição do subsídio de renda ao arrendatário.\n\nTendo em vista facilitar a compreensão e a aplicação de dois aspectos essenciais do NRAU - período de faseamento da actualização de rendas antigas e subsídio de renda -, optou-se por regular no presente decreto-lei quer o regime de determinação do RABC do agregado familiar do arrendatário quer o regime de atribuição do subsídio de renda, cumulando-se numa única iniciativa legislativa os compromissos assumidos pelo Governo nas alíneas a) e c) do n.º 1 do artigo 64.º do NRAU e o enunciado no n.º 9 do artigo 37.º do NRAU.\n\nAssim, o presente decreto-lei inicia pela definição de agregado familiar do arrendatário e seus dependentes, tendo por referência os mesmos conceitos jurídicos utilizados para efeitos fiscais no Código do Imposto sobre o Rendimento das Pessoas Singulares. Trata-se de assegurar a coerência do sistema jurídico como um todo, a uniformização de critérios e a igualdade de tratamento de situações, sem prejuízo das adaptações efectuadas, tendo em conta as especificidades da posição jurídica do arrendatário, que tem o gozo do locado. Portanto, considera-se que faz parte do agregado familiar do arrendatário, desde que com ele vivam em comunhão de habitação: o cônjuge não separado judicialmente de pessoas e bens e os seus dependentes; o cônjuge ou ex-cônjuge, respectivamente nos casos de separação judicial de pessoas e bens ou de declaração de nulidade, anulação ou dissolução do casamento, e os dependentes a seu cargo; pessoa que com o arrendatário viva em união de facto há mais de dois anos, com residência no locado, e os seus dependentes, e, bem assim, os ascendentes do arrendatário, do seu cônjuge ou de pessoa que com ele viva em união de facto há mais de dois anos. E são considerados dependentes: os filhos, adoptados e enteados menores não emancipados, bem como os menores sob tutela; os filhos, adoptados e enteados maiores, bem como aqueles que até à maioridade estiveram sujeitos à tutela de qualquer dos sujeitos a quem incumbe a direcção do agregado familiar, que, não tendo idade superior a 25 anos e não auferindo anualmente rendimentos superiores à retribuição mínima mensal garantida mais elevada, frequentem o 11.º ou 12.º ano de escolaridade ou estabelecimento de ensino médio ou superior; os filhos, adoptados, enteados e os sujeitos a tutela, maiores, inaptos para o trabalho e para angariar meios de subsistência, quando não aufiram rendimentos superiores à retribuição mínima mensal garantida mais elevada, e ainda os ascendentes cujo rendimento mensal seja inferior à retribuição mínima mensal garantida.\n\nApós a definição dos elementos do agregado familiar do arrendatário, o presente decreto-lei dedica-se ao conceito de rendimento anual bruto (RAB) do agregado familiar do arrendatário, fazendo-o equivaler à soma dos rendimentos anuais ilíquidos auferidos por todos os elementos do agregado familiar do arrendatário, também aqui, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares, pelas razões acima referidas. Mas, atendendo a que o RAB do agregado familiar do arrendatário é utilizado para determinar o período de faseamento da actualização da renda antiga e atribuir o subsídio de renda, importava aqui corrigi-lo, tornando-o materialmente mais justo e adequado à realidade sócio-económica do arrendatário. Assim sendo, prevê-se que o RAB do agregado familiar do arrendatário seja corrigido através de vários factores, como seja pela soma do total dos rendimentos anuais ilíquidos auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano. Ao montante assim obtido deve ainda deduzir-se o valor correspondente a 0,5 da RMNA por cada dependente ou pessoa portadora de deficiência com grau comprovado de incapacidade igual ou superior a 60%. Só depois de efectuadas estas correcções ao RAB do agregado familiar do arrendatário é que se obtém o conceito de RABC do agregado familiar do arrendatário a que se refere o NRAU.\n\nE sendo o RABC do agregado familiar do arrendatário um conceito instrumental da atribuição de um subsídio de renda, pois este só será atribuído ao arrendatário cujo agregado familiar receba um RABC inferior a três RMNA ou que tenha idade igual ou superior a 65 anos e cujo agregado familiar receba um RABC inferior a cinco RMNA, por motivos de clarificação e simplificação legislativa, acima expostos, o presente decreto-lei consagra ainda o regime de atribuição deste subsídio.\n\nO subsídio de renda visa assegurar a protecção social do arrendatário economicamente desfavorecido, sobretudo os idosos, mas importa uma determinada taxa de esforço por parte do arrendatário, que se situa entre 15% e 30%, sendo que, em qualquer dos casos, o montante do subsídio de renda mensal não pode ultrapassar o valor correspondente a uma retribuição mínima mensal garantida.\n\nEm termos procedimentais, os pedidos de atribuição dos subsídios de renda devem ser entregues pelo arrendatário junto dos serviços de segurança social da área da sua residência e são decididos pelo Instituto Nacional de Habitação (INH) no prazo de 45 dias. O INH assegura a análise e a gestão destes subsídios específicos do mercado de arrendamento habitacional, assumindo-se ainda como repositório da informação necessária para a constituição do observatório da habitação e da reabilitação urbana e da base de dados da habitação, enunciada na alínea c) do n.º 2 do artigo 64.º do NRAU.\n\nO processo de atribuição do subsídio assenta numa relação de confiança, de cooperação e de veracidade entre o requerente e o Estado. Com efeito, o subsídio é devido a partir do mês seguinte ao da apresentação do requerimento inicial de atribuição do subsídio, devidamente instruído, sendo atribuído por 12 meses, e é renovável automaticamente por iguais períodos, tendo em conta o aumento de renda e aditando-se ao RABC o valor da inflação. Se ocorrer uma alteração de circunstâncias, o arrendatário deve comunicá-la aos serviços de segurança social da área da sua residência no prazo de 15 dias, tendo em vista a reavaliação dos pressupostos de atribuição do subsídio - trata-se de assegurar a igualdade de tratamento dos beneficiários e a justiça material na atribuição do subsídio. Este pressuposto de confiança no arrendatário implica, em contrapartida, a obrigação do titular do direito a subsídio de renda em colaborar com o INH, ao qual incumbe a fiscalização das regras relativas à atribuição, renovação e manutenção do subsídio de renda, apresentando todos os meios probatórios que lhe forem solicitados, para efeitos da verificação dos pressupostos de manutenção do subsídio atribuído. Por outro lado, as falsas declarações, as omissões ou outros factos relativos aos deveres do beneficiário conducentes à obtenção ilícita do subsídio de renda determinam a cessação imediata do pagamento do subsídio, dando lugar à restituição de subsídios indevidamente pagos, sem prejuízo do apuramento de responsabilidade penal a que possa haver lugar.\n\nPretende-se ainda que os requerimentos de atribuição do subsídio e de alteração de circunstâncias constem de um modelo uniforme, simplificado e de fácil compreensão pelo requerente, o qual possa ser enviado electronicamente, nos termos a aprovar por portaria regulamentadora do presente decreto-lei.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional dos Municípios Portugueses, a Ordem dos Advogados, a Ordem dos Engenheiros e a Ordem dos Arquitectos.\n\nForam, ainda, ouvidas as várias associações com interesses no sector, designadamente a Associação Lisbonense de Proprietários, a Associação dos Inquilinos Lisbonense, a Associação dos Inquilinos do Norte, a Confederação do Comércio e Serviços de Portugal, a Confederação do Turismo Português, a Federação da Restauração, Cafés, Pastelarias e Similares de Portugal, a Federação Portuguesa da Indústria de Construção e Obras Públicas, a Federação Nacional de Comércio, a Associação Portuguesa para a Defesa do Consumidor, e ainda várias entidades representativas das empresas de consultoria e avaliação imobiliária, de mediação mobiliária, de fundos de investimento e de fundos de pensões.\n\nForam promovidas as diligências necessárias à audição da Comissão Nacional de Protecção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 32.º, Decreto-Lei n.º 156/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2015-69977686) O presente decreto-lei encontra-se revogado. No entanto, os subsídios de renda já atribuídos ao abrigo deste diploma, mantêm-se e podem ser renovados nos termos do mesmo decreto-lei, até ao termo do período de atualização faseada de renda, exceto se os arrendatários optarem por requerer o subsídio de renda nos termos do Decreto-Lei n.º 156/2015, de 10 de agosto."
+  },
+  "885586192": {
+   "fragment_id": "885585752",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "885586193": {
+   "fragment_id": "885585753",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece os regimes de determinação do rendimento anual bruto corrigido, adiante designado por RABC, e de atribuição do subsídio de renda nos arrendamentos para habitação, ao abrigo do n.º 9 do artigo 37.º e do artigo 46.º da Lei n.º 6/2006, de 27 de Fevereiro, que aprova o Novo Regime do Arrendamento Urbano, adiante designado por NRAU.\n\n2 - O RABC apurado nos termos do presente decreto-lei releva para efeitos de determinação do período de faseamento da actualização das rendas referidas no número anterior e, bem assim, de atribuição do subsídio de renda ao arrendatário habitacional."
+  },
+  "885586194": {
+   "fragment_id": "885585754",
+   "type": 11,
+   "heading": "Artigo 2.º — Agregado familiar do arrendatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Agregado familiar do arrendatário\n\n1 - Para efeitos do presente decreto-lei, considera-se agregado familiar, em cada ano, o conjunto de pessoas constituído pelo arrendatário e pelas seguintes pessoas que com ele vivam em comunhão de habitação:\n\na) Cônjuge não separado judicialmente de pessoas e bens e os seus dependentes;\n\nb) Cônjuge ou ex-cônjuge, respectivamente nos casos de separação judicial de pessoas e bens ou de declaração de nulidade, anulação ou dissolução do casamento, e os dependentes a seu cargo;\n\nc) Pessoa que com o arrendatário viva em união de facto há mais de dois anos, com residência no locado, e os seus dependentes;\n\nd) Ascendentes do arrendatário, do seu cônjuge ou de pessoa que com ele viva em união de facto há mais de dois anos.\n\n2 - Para efeitos do disposto no número anterior, consideram-se dependentes:\n\na) Os filhos, adoptados e enteados menores não emancipados, bem como os menores sob tutela;\n\nb) Os filhos, adoptados e enteados maiores, bem como aqueles que até à maioridade estiveram sujeitos à tutela de qualquer dos sujeitos a quem incumbe a direcção do agregado familiar, que, não tendo mais de 25 anos e não auferindo anualmente rendimentos superiores à retribuição mínima mensal garantida, frequentem o 11.º ou 12.º ano de escolaridade ou estabelecimento de ensino médio ou superior;\n\nc) Os filhos, adoptados, enteados e os sujeitos a tutela, maiores, inaptos para o trabalho e para angariar meios de subsistência, quando não aufiram rendimentos superiores à retribuição mínima mensal garantida;\n\nd) Os ascendentes cujo rendimento mensal seja inferior à retribuição mínima mensal garantida.\n\n3 - No caso de o arrendatário não residir no locado, temporária ou permanentemente, por motivos de doença ou internamento em estabelecimentos de apoio social ou equiparados, considera-se agregado familiar do arrendatário o conjunto de pessoas referidas nos números anteriores que habitem no local arrendado."
+  },
+  "885586195": {
+   "fragment_id": "885585755",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, considera-se:\n\na) «Retribuição mínima nacional anual (RMNA)» o valor da retribuição mínima mensal garantida (RMMG), a que se refere o n.º 1 do artigo 266.º do Código do Trabalho, multiplicado por 14 meses;\n\nb) «Renda» o quantitativo devido mensalmente ao senhorio pela utilização do fogo para fins habitacionais;\n\nc) «Renda cessante» a última renda que foi fixada, nos termos legais;\n\nd) «Renda nova» a renda actualizada, nos termos do NRAU;\n\ne) «Taxa de esforço (Tx)» o valor em percentagem resultante da relação entre o RABC e a RMNA;\n\nf) «Renda base» o quantitativo resultante da divisão por 12 do resultado da aplicação da taxa de esforço ao RABC."
+  },
+  "885586196": {
+   "fragment_id": "885585756",
+   "type": 1,
+   "heading": "Capítulo II — Rendimento anual bruto corrigido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Rendimento anual bruto corrigido"
+  },
+  "885586197": {
+   "fragment_id": "885585757",
+   "type": 11,
+   "heading": "Artigo 4.º — Rendimento anual bruto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Rendimento anual bruto\n\n1 - Considera-se rendimento anual bruto (RAB) o quantitativo que resulta da soma dos rendimentos anuais ilíquidos, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), auferidos por todos os elementos do agregado familiar do arrendatário.\n\n2 - Tratando-se de rendimentos da categoria B do CIRS enquadrados no regime simplificado, considera-se rendimento bruto o resultante da aplicação do coeficiente de 0,2 ao valor das vendas de mercadorias e de produtos, bem como aos serviços prestados no âmbito de actividades hoteleiras e similares, restauração e bebidas e ao montante dos subsídios destinados à exploração que tenha por efeito compensar reduções nos preços de venda de mercadorias e produtos e do coeficiente de 0,65 aos restantes rendimentos provenientes desta categoria, excluindo a variação de produção.\n\n3 - O disposto no número anterior não prejudica a aplicação das restantes regras de determinação do rendimento da categoria B previstas no CIRS, no âmbito do regime simplificado.\n\n4 - Tratando-se de rendimentos de categoria B, nos termos do CIRS, enquadrados no regime de contabilidade organizada, considera-se rendimento bruto o resultante do lucro apurado."
+  },
+  "885586198": {
+   "fragment_id": "885585758",
+   "type": 11,
+   "heading": "Artigo 5.º — Rendimento anual bruto corrigido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Rendimento anual bruto corrigido\n\n1 - O RABC é o quantitativo que resulta da soma dos rendimentos anuais ilíquidos auferidos por todos os elementos do agregado familiar do arrendatário, corrigido pelos seguintes factores:\n\na) Total dos rendimentos anuais ilíquidos, nos termos do artigo anterior, auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nb) Número de dependentes do agregado familiar do arrendatário e das pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nc) Número de pessoas do agregado familiar portadoras de deficiência com grau comprovado de incapacidade igual ou superior a 60%.\n\n2 - O RAB do agregado familiar do arrendatário é corrigido através da soma dos rendimentos anuais ilíquidos, nos termos previstos no artigo anterior, auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano.\n\n3 - A correcção do RAB do agregado familiar do arrendatário em função do número de dependentes é feita através da dedução ao RAB do agregado familiar do arrendatário corrigido nos termos do número anterior do valor correspondente a 0,5 da RMNA, por cada dependente.\n\n4 - Se no agregado familiar existir pessoa portadora de deficiência com grau comprovado de incapacidade igual ou superior a 60%, é deduzido ao RAB corrigido nos termos do n.º 2 o valor correspondente a 0,5 da RMNA, cumulável com a correcção prevista no número anterior, por cada indivíduo nestas condições.\n\n5 - A declaração de que o RABC do agregado familiar do arrendatário é ou não superior a 3, 5 ou 15 RMNA é emitida pelo serviço de finanças competente, a pedido do senhorio ou arrendatário, no âmbito da actualização de rendas prevista nos artigos 37.º e seguintes do NRAU, nos termos de modelo a aprovar através de portaria conjunta dos membros do Governo responsáveis pelas áreas das autarquias locais, das finanças e da habitação.\n\n6 - A declaração a que se refere o número anterior não pode, em caso algum, revelar dados relativos à situação tributária protegidos pelo dever de confidencialidade estabelecido na lei geral tributária, designadamente através da discriminação dos rendimentos pelos respectivos titulares."
+  },
+  "885586199": {
+   "fragment_id": "885585759",
+   "type": 1,
+   "heading": "Capítulo III — Atribuição do subsídio de renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Atribuição do subsídio de renda"
+  },
+  "885586200": {
+   "fragment_id": "885585760",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de atribuição do subsídio de renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de atribuição do subsídio de renda\n\nAo abrigo do disposto no n.º 1 do artigo 46.º do NRAU, tem direito a subsídio de renda, em alternativa, o arrendatário:\n\na) Cujo agregado familiar receba um RABC inferior a três RMNA;\n\nb) Com idade igual ou superior a 65 anos e cujo agregado familiar receba um RABC inferior a cinco RMNA."
+  },
+  "885586201": {
+   "fragment_id": "885585761",
+   "type": 11,
+   "heading": "Artigo 7.º — Requerimento de atribuição do subsídio de renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requerimento de atribuição do subsídio de renda\n\n1 - O arrendatário solicita a atribuição do subsídio de renda junto dos serviços de segurança social da área da sua residência.\n\n2 - O modelo de requerimento de atribuição do subsídio de renda, a sua forma de entrega, os elementos obrigatórios e os procedimentos relativos à recepção, análise e avaliação dos pedidos são aprovados por portaria conjunta dos membros do Governo responsáveis pelas áreas das autarquias locais, da habitação e da segurança social.\n\n3 - O Instituto Nacional de Habitação (INH) comunica ao requerente a decisão sobre a atribuição do subsídio de renda no prazo de 45 dias a contar da data de apresentação do requerimento, devidamente instruído.\n\n4 - A atribuição, renovação e manutenção do subsídio de renda depende da autorização pelo requerente, pelos membros do agregado familiar e pelas pessoas a que se refere a alínea a) do n.º 1 do artigo 5.º ao INH ao acesso à informação fiscal e das entidades processadoras de pensões, relevante para efeitos de atribuição do subsídio.\n\n5 - A falta de autorização pelo requerente ao acesso à informação fiscal e das entidades processadoras de pensões, nos termos do número anterior, bem como a não apresentação de um dos elementos obrigatórios previstos na portaria a que se refere o n.º 2 determinam a rejeição liminar do pedido."
+  },
+  "885586202": {
+   "fragment_id": "885585762",
+   "type": 11,
+   "heading": "Artigo 8.º — Indeferimento da atribuição do subsídio de renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Indeferimento da atribuição do subsídio de renda\n\n1 - O requerimento de atribuição do subsídio de renda é indeferido quando se verifique qualquer uma das seguintes situações:\n\na) A renda base calculada seja de valor igual ou superior ao da renda actualizada;\n\nb) O arrendatário, o cônjuge ou a pessoa que com ele viva em união de facto há mais de dois anos, residindo na área dos concelhos de Lisboa ou do Porto e limítrofes, seja proprietário de imóvel para habitação nesses concelhos ou limítrofes ou, residindo no respectivo concelho, quanto ao resto do País, seja proprietário de imóvel para habitação nesse concelho, que se encontre desocupado, adquirido após o início do contrato de arrendamento, com excepção dos casos de sucessão mortis causa;\n\nc) O arrendatário forneça na habitação arrendada serviços de hospedagem ou subarrende parte ou a totalidade da mesma.\n\n2 - Não há lugar à atribuição de subsídio de renda sempre que:\n\na) A renda seja actualizada nos termos do artigo 45.º do NRAU;\n\nb) O montante do subsídio de renda mensal seja inferior a 5% da RMMG."
+  },
+  "885586203": {
+   "fragment_id": "885585763",
+   "type": 11,
+   "heading": "Artigo 9.º — Cumulação de subsídios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cumulação de subsídios\n\n1 - O subsídio de renda atribuído no âmbito do presente decreto-lei não é cumulável com qualquer outro de idêntica natureza ou finalidade.\n\n2 - A concessão do subsídio de renda previsto no presente decreto-lei determina a cessação imediata do direito atribuído nos termos do disposto no artigo 23.º do Decreto-Lei n.º 283/2003, de 8 de Novembro, alterado pelo Decreto-Lei n.º 42/2006, de 23 de Fevereiro."
+  },
+  "885586204": {
+   "fragment_id": "885585764",
+   "type": 11,
+   "heading": "Artigo 10.º — Taxa de esforço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Taxa de esforço\n\n1 - A Tx é o valor em percentagem, arredondado às décimas, que resulta da seguinte fórmula:\n\nTx = [10 x (RABC do agregado familiar/RMNA)]/100\n\n2 - Quando a taxa de esforço, referida no número anterior, seja inferior a 15% ou superior a 30%, é corrigida através do seu aumento ou redução para os limites referidos anteriormente."
+  },
+  "885586205": {
+   "fragment_id": "885585765",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Montante do subsídio\n\n1 - O montante do subsídio é igual à diferença entre o valor da renda nova e o valor da renda base calculada.\n\n2 - Quando o valor da renda cessante seja igual ou superior ao da renda base calculada, o montante do subsídio é igual à diferença entre o valor da renda nova e o valor da renda cessante.\n\n3 - O montante do subsídio de renda mensal não pode ultrapassar o valor correspondente a uma RMMG."
+  },
+  "885586206": {
+   "fragment_id": "885585766",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento\n\n1 - O subsídio de renda é pago mensalmente aos respectivos titulares ou aos seus representantes legais.\n\n2 - O subsídio de renda pode ainda ser pago às pessoas ou entidades que prestem assistência aos titulares do direito, desde que sejam consideradas idóneas pelo INH, quando os titulares do subsídio de renda:\n\na) Sejam incapazes e se encontrem a aguardar a nomeação do respectivo representante legal;\n\nb) Se encontrem impossibilitados de modo temporário ou permanente de receber a prestação, por motivos de doença, ou se encontrem internados em estabelecimentos de apoio social ou equiparados.\n\n3 - O pagamento é efectuado através de transferência bancária, salvo se for indicada outra forma de pagamento."
+  },
+  "885586207": {
+   "fragment_id": "885585767",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Duração\n\n1 - O subsídio de renda é devido a partir do mês seguinte ao da apresentação do requerimento inicial de atribuição do subsídio, é atribuído por 12 meses e é renovável por iguais períodos, caso se mantenham os pressupostos da sua atribuição.\n\n2 - A renovação do subsídio é feita automaticamente, tendo em conta o aumento de renda e aditando-se ao RABC o valor da inflação, salvo se ocorrer uma alteração de circunstâncias, nos termos previstos no artigo seguinte."
+  },
+  "885586208": {
+   "fragment_id": "885585768",
+   "type": 11,
+   "heading": "Artigo 14.º — Alteração de circunstâncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração de circunstâncias\n\n1 - O titular do direito ao subsídio comunica aos serviços de segurança social da área da sua residência qualquer alteração dos pressupostos de atribuição do subsídio, designadamente a alteração do nível de rendimentos igual ou superior a 5%, da composição do agregado familiar ou dos factores de correcção do RABC, nos termos do modelo de requerimento referido no n.º 2 do artigo 7.º\n\n2 - A obrigação de comunicação prevista no número anterior é cumprida no prazo de 15 dias a contar da data da ocorrência dos factos.\n\n3 - No prazo de 45 dias a contar da data da apresentação do requerimento de alteração de circunstâncias previsto no n.º 1, devidamente instruído, o INH comunica ao titular do direito ao subsídio a decisão, a qual produz efeitos a partir do mês seguinte ao da apresentação do requerimento.\n\n4 - Em caso de morte do titular do subsídio, se a sua posição contratual se transmitir para quem reúna os pressupostos para a manutenção do subsídio de renda, o transmissário comunica este facto aos serviços de segurança social, nos mesmos termos e prazos referidos nos números anteriores, sob pena de caducidade do subsídio.\n\n5 - Para efeitos do disposto neste artigo, segue-se o procedimento de atribuição do subsídio de renda, com as devidas adaptações."
+  },
+  "885586209": {
+   "fragment_id": "885585769",
+   "type": 11,
+   "heading": "Artigo 15.º — Fiscalização e reavaliação oficiosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalização e reavaliação oficiosa\n\n1 - Cabe ao INH a fiscalização do cumprimento das normas previstas no presente decreto-lei.\n\n2 - O titular do direito a subsídio de renda é obrigado a apresentar todos os meios probatórios solicitados pelos serviços de segurança social e pelo INH no prazo de 15 dias úteis a contar da data da recepção da notificação para o efeito.\n\n3 - Sem prejuízo da fiscalização da situação dos beneficiários, sempre que se justifique, o INH procede à reavaliação dos pressupostos de manutenção do subsídio de renda, de dois em dois anos.\n\n4 - As falsas declarações, as omissões ou outros factos relativos aos deveres do beneficiário, conducentes à obtenção ilícita do subsídio de renda, determinam a cessação imediata do pagamento do subsídio, dando lugar à restituição de subsídios indevidamente pagos, sem prejuízo do apuramento de responsabilidade penal a que possa haver lugar."
+  },
+  "885586210": {
+   "fragment_id": "885585770",
+   "type": 11,
+   "heading": "Artigo 16.º — Caducidade do subsídio de renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Caducidade do subsídio de renda\n\nO direito ao subsídio de renda caduca por morte do titular, salvo no caso de transmissão do arrendamento para quem reúna os pressupostos de manutenção do subsídio de renda, nos termos do n.º 4 do artigo 14.º\n\n> Nota: [Artigo 6.º, Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851) A nova redação da alínea b) do presente artigo tem natureza interpretativa e produz efeitos desde 1 de janeiro de 2013."
+  },
+  "885586211": {
+   "fragment_id": "885585771",
+   "type": 11,
+   "heading": "Artigo 17.º — Gestão e cooperação entre as entidades participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gestão e cooperação entre as entidades participantes\n\n1 - A análise e decisão acerca da atribuição do subsídio de renda ou da sua manutenção e a gestão do subsídio de renda compete ao INH.\n\n2 - Os serviços de segurança social procedem à instrução dos pedidos de atribuição do subsídio de renda e das comunicações de alteração de circunstâncias e enviam ao INH o conjunto de informações relevantes de modo a habilitá-lo para a tomada de decisão final, preferencialmente através de comunicação electrónica, no prazo de 15 dias a contar da data da apresentação do requerimento devidamente instruído.\n\n3 - O INH promove a articulação com as entidades e serviços competentes para comprovar as condições de que depende a atribuição e manutenção do subsídio de renda, podendo aceder à informação fiscal e das entidades processadoras de pensões, relevante para efeitos de atribuição do subsídio de renda, designadamente para verificar se o RABC do agregado familiar do arrendatário é ou não superior a 3, 5 ou 15 RMNA.\n\n4 - O acesso e a troca de informações, nomeadamente a confirmação e a informação dos dados referidos nos números anteriores, são efectuados através do recurso aos meios informáticos, assegurando-se sempre a protecção dos dados em causa."
+  },
+  "885586212": {
+   "fragment_id": "885585772",
+   "type": 11,
+   "heading": "Artigo 18.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Encargos\n\n1 - As verbas necessárias ao pagamento dos subsídios de renda, nos termos previstos no presente decreto-lei, são inscritas no Orçamento do Estado e transferidas da Direcção-Geral do Tesouro para a Caixa Geral de Depósitos no 1.º mês do trimestre a que respeitam, mediante comunicação pelo INH dos elementos relativos à sua atribuição.\n\n2 - Até 31 de Janeiro de cada ano, a Caixa Geral de Depósitos deve apresentar a conta referente ao pagamento dos subsídios durante o ano anterior, procedendo-se às compensações a que haja lugar.\n\n3 - As verbas referentes a despesas de administração realizadas pelos serviços da segurança social, designadamente as referentes ao pessoal afecto à execução do presente decreto-lei, são inscritas no orçamento do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e são transferidas para o Instituto de Gestão Financeira da Segurança Social (IGFSS) no 1.º mês do trimestre a que respeitam.\n\n4 - Até ao dia 31 de Janeiro de cada ano, o IGFSS apresenta a conta referente às respectivas despesas de administração do ano anterior, procedendo-se às compensações a que haja lugar."
+  },
+  "885586213": {
+   "fragment_id": "885585773",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "885586214": {
+   "fragment_id": "885585774",
+   "type": 11,
+   "heading": "Artigo 19.º — Ano civil relevante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Ano civil relevante\n\nO agregado familiar, a retribuição mínima nacional anual e os factores de correcção do rendimento anual bruto relevantes para efeitos de aplicação do presente decreto-lei são aqueles que existem no ano civil anterior:\n\na) À comunicação, pelo senhorio, da renda nova e, sendo caso disso, da invocação de que o arrendatário dispõe de RABC superior a 15 RMNA;\n\nb) À invocação, pelo arrendatário junto do senhorio, de que dispõe de RABC inferior a cinco ou três RMNA, e a cada posterior comunicação anual pelo arrendatário;\n\nc) À data da apresentação do modelo de requerimento de atribuição do subsídio de renda ou de alteração de circunstâncias."
+  },
+  "885586215": {
+   "fragment_id": "885586275",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 30.º dia seguinte ao da sua publicação."
+  },
+  "885596105": {
+   "fragment_id": "885585753",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente decreto-lei estabelece o regime de determinação do rendimento anual bruto corrigido (RABC), para os efeitos previstos nos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto.\n\n2 - O presente decreto-lei estabelece, ainda, os regimes de determinação do RABC e de atribuição do subsídio de renda aplicáveis aos contratos de arrendamento para fim habitacional celebrados antes da vigência do Regime do Arrendamento Urbano (RAU), aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de outubro, quando, cumulativamente, se verifiquem as seguintes circunstâncias:\n\na) Até à data da entrada em vigor da Lei n.º 31/2012, de 14 de agosto, o senhorio tiver iniciado a atualização da renda ao abrigo do regime constante dos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, e da respetiva legislação complementar;\n\nb) Na data da entrada em vigor da Lei n.º 31/2012, de 14 de agosto:\n\ni) Se encontrar a decorrer o período de atualização faseada do valor da renda, em 2, 5 ou 10 anos; ou\n\nii) Estiverem verificados os pressupostos previstos no artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária; e\n\nc) O senhorio:\n\ni) Tiver comunicado ao Instituto da Habitação e da Reabilitação Urbana, I.P. (IHRU, I.P.), nos termos previstos no n.º 2 do artigo 11.º da Lei n.º 31/2012, de 14 de agosto, que opta pela aplicação do regime constante dos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, e da respetiva legislação complementar; ou\n\nii) Não tendo efetuado a comunicação referida na subalínea anterior, a renda continuar a ser atualizada ou passar a ser atualizada, consoante se trate das situações previstas nas subalíneas i) ou ii) da alínea anterior, ao abrigo do regime constante dos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, e da respetiva legislação complementar.\n\n3 - Para efeitos do disposto na alínea a) do número anterior, considera-se que o senhorio iniciou a atualização da renda na data da comunicação prevista no n.º 2 do artigo 34.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária.\n\n4 - São definidos em diploma próprio os termos e as condições da resposta social, relativamente aos contratos de arrendamento para fim habitacional celebrados antes da vigência do RAU cuja renda seja atualizada ao abrigo do regime constante dos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, aplicáveis após o decurso do período de cinco anos referido na alínea b) do n.º 7 e no n.º 9 do artigo 36.º e nos n.os 1, 2, 4 e 6 do artigo 35.º da referida Lei:\n\na) Aos arrendatários com idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade superior a 60% e cujo RABC do seu agregado familiar seja inferior a cinco retribuições mínimas nacionais anuais, sendo aquela resposta social efetivada preferencialmente através da atribuição de subsídio de renda que garanta a diferença eventualmente apurada entre o valor da renda que for devido em função do RABC do agregado familiar e o valor da renda nova que, após o decurso do referido período de cinco anos, for apurado nos termos das alíneas a) e b) do n.º 2 do artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto; e\n\nb) Aos demais arrendatários.\n\n5 - O disposto no número anterior não prejudica o regime estabelecido nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, quanto:\n\na) À manutenção em vigor, sem alteração do regime que lhes é aplicável, de todos os contratos celebrados com arrendatário com idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade superior a 60%, salvo acordo em contrário entre o senhorio e o arrendatário; e\n\nb) À garantia de que, na falta de acordo entre o senhorio e o arrendatário com idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade superior a 60%, o valor da renda é apurado:\n\ni) Durante o período de cinco anos referido na alínea b) do n.º 7 e no n.º 9 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, nos termos das alíneas a), b) e c) do n.º 2 do artigo 35.º, ou das alíneas a) e b) do n.º 2 do artigo 35.º, da referida Lei, consoante o RABC do agregado familiar do arrendatário seja, ou não, inferior a cinco retribuições mínimas nacionais anuais;\n\nii) Após o decurso do período de cinco anos referido na alínea b) do n.º 7 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, nos termos das alíneas a) e b) do n.º 2 do artigo 35.º da referida Lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885586220": {
+   "fragment_id": "885585754",
+   "type": 11,
+   "heading": "Artigo 2.º — Agregado familiar do arrendatário",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 67/2006 - Diário da República n.º 191/2006, Série I de 2006-10-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/67-2006-541791), produz efeitos a partir de 2006-09-07"
+   ],
+   "markdown": "###### Artigo 2.º — Agregado familiar do arrendatário\n\n1 - Para efeitos do presente decreto-lei, considera-se agregado familiar, em cada ano, o conjunto de pessoas constituído pelo arrendatário e os dependentes a seu cargo, bem como pelas seguintes pessoas que com ele vivam em comunhão de habitação:\n\na) Cônjuge não separado judicialmente de pessoas e bens e os seus dependentes;\n\nb) Cônjuge ou ex-cônjuge, respectivamente nos casos de separação judicial de pessoas e bens ou de declaração de nulidade, anulação ou dissolução do casamento, e os dependentes a seu cargo;\n\nc) Pessoa que com o arrendatário viva em união de facto há mais de dois anos, com residência no locado, e os seus dependentes;\n\nd) Ascendentes do arrendatário, do seu cônjuge ou de pessoa que com ele viva em união de facto há mais de dois anos.\n\n2 - Para efeitos do disposto no número anterior, consideram-se dependentes:\n\na) Os filhos, adoptados e enteados menores não emancipados, bem como os menores sob tutela;\n\nb) Os filhos, adoptados e enteados maiores, bem como aqueles que até à maioridade estiveram sujeitos à tutela de qualquer dos sujeitos a quem incumbe a direcção do agregado familiar, que, não tendo mais de 25 anos e não auferindo anualmente rendimentos superiores à retribuição mínima mensal garantida, frequentem o 11.º ou 12.º ano de escolaridade ou estabelecimento de ensino médio ou superior;\n\nc) Os filhos, adoptados, enteados e os sujeitos a tutela, maiores, inaptos para o trabalho e para angariar meios de subsistência, quando não aufiram rendimentos superiores à retribuição mínima mensal garantida;\n\nd) Os ascendentes cujo rendimento mensal seja inferior à retribuição mínima mensal garantida.\n\n3 - No caso de o arrendatário não residir no locado, temporária ou permanentemente, por motivos de doença ou internamento em estabelecimentos de apoio social ou equiparados, considera-se agregado familiar do arrendatário o conjunto de pessoas referidas nos números anteriores que habitem no local arrendado.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 67/2006 - Diário da República n.º 191/2006, Série I de 2006-10-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/67-2006-541791), produz efeitos a partir de 2006-09-07"
+  },
+  "885596106": {
+   "fragment_id": "885585755",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 67/2006 - Diário da República n.º 191/2006, Série I de 2006-10-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/67-2006-541791), produz efeitos a partir de 2006-09-07"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, considera-se:\n\na) «Retribuição mínima nacional anual» (RMNA) o valor da retribuição mínima mensal garantida (RMMG), a que se refere o n.º 1 do artigo 273.º do Código do Trabalho, multiplicado por 14 meses;\n\nb) «Renda» o quantitativo devido mensalmente ao senhorio pela utilização do fogo para fins habitacionais;\n\nc) «Renda cessante» a última renda que foi fixada, nos termos legais;\n\nd) «Renda nova» a renda atualizada, nos termos dos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, ou dos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, consoante os casos;\n\ne) 'Taxa de esforço (Tx)' o valor resultante da relação entre o RABC e a RMNA, de acordo com a fórmula constante do n.º 1 do artigo 10.º;\n\nf) «Renda base» o quantitativo resultante da divisão por 12 do resultado da aplicação da taxa de esforço ao RABC.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 67/2006 - Diário da República n.º 191/2006, Série I de 2006-10-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/67-2006-541791), produz efeitos a partir de 2006-09-07"
+  },
+  "885596107": {
+   "fragment_id": "885585757",
+   "type": 11,
+   "heading": "Artigo 4.º — Rendimento anual bruto",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Rendimento anual bruto\n\n1 - Considera-se rendimento anual bruto (RAB) o quantitativo que resulta da soma dos rendimentos anuais ilíquidos, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), auferidos por todos os elementos do agregado familiar do arrendatário.\n\n2 - Tratando-se de rendimentos da categoria B do CIRS enquadrados no regime simplificado, considera-se rendimento bruto o resultante da aplicação dos coeficientes previstos no n.º 2 do artigo 31.º do CIRS.\n\n3 - O disposto no número anterior não prejudica a aplicação das restantes regras de determinação do rendimento da categoria B previstas no CIRS, no âmbito do regime simplificado.\n\n4 - Tratando-se de rendimentos de categoria B, nos termos do CIRS, enquadrados no regime de contabilidade organizada, considera-se rendimento bruto o resultante do lucro apurado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596108": {
+   "fragment_id": "885585758",
+   "type": 11,
+   "heading": "Artigo 5.º — Rendimento anual bruto corrigido",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Rendimento anual bruto corrigido\n\n1 - O RABC é o quantitativo que resulta da soma dos rendimentos anuais ilíquidos auferidos por todos os elementos do agregado familiar do arrendatário, corrigido pelos seguintes factores:\n\na) Total dos rendimentos anuais ilíquidos, nos termos do artigo anterior, auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nb) Número de dependentes do agregado familiar do arrendatário e das pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nc) Número de pessoas do agregado familiar portadoras de deficiência com grau comprovado de incapacidade igual ou superior a 60%.\n\n2 - O RAB do agregado familiar do arrendatário é corrigido através da soma dos rendimentos anuais ilíquidos, nos termos previstos no artigo anterior, auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano.\n\n3 - A correcção do RAB do agregado familiar do arrendatário em função do número de dependentes é feita através da dedução ao RAB do agregado familiar do arrendatário corrigido nos termos do número anterior do valor correspondente a 0,5 da RMNA, por cada dependente.\n\n4 - Se no agregado familiar existir pessoa portadora de deficiência com grau comprovado de incapacidade igual ou superior a 60%, é deduzido ao RAB corrigido nos termos do n.º 2 o valor correspondente a 0,5 da RMNA, cumulável com a correcção prevista no número anterior, por cada indivíduo nestas condições.\n\n5 - Sem prejuízo do disposto no n.º 7, a declaração da qual conste o valor do RABC do agregado familiar do arrendatário é emitida pelo serviço de finanças competente, a pedido do arrendatário, para os efeitos previstos nos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto.\n\n6 - A emissão da declaração prevista no número anterior depende da apresentação, pelo requerente, de autorização dos membros do agregado familiar e das pessoas a que se refere a alínea a) do n.º 1.\n\n7 - Tratando-se de contrato de arrendamento a que se refere o n.º 2 do artigo 1.º, o serviço de finanças competente emite, a pedido do senhorio ou do arrendatário, declaração de que o RABC do agregado familiar do arrendatário é ou não superior a 3, 5 ou 15 RMNA, para os efeitos previstos nos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária.\n\n8 - Sem prejuízo do disposto nos n.os 5 e 7, as declarações aí previstas não podem, em caso algum, revelar dados relativos à situação tributária protegidos pelo dever de confidencialidade estabelecido na Lei Geral Tributária, designadamente através da discriminação dos rendimentos pelos respectivos titulares.\n\n9 - Os modelos dos pedidos e das declarações previstos nos n.ºs 5 e 7 são aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da habitação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596109": {
+   "fragment_id": "885585760",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de atribuição do subsídio de renda",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Condições de atribuição do subsídio de renda\n\nTem direito a subsídio de renda, em alternativa, o arrendatário de contrato a que se refere o n.º 2 do artigo 1.º:\n\na) Cujo agregado familiar receba um RABC inferior a três RMNA;\n\nb) Com idade igual ou superior a 65 anos e cujo agregado familiar receba um RABC inferior a cinco RMNA.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596110": {
+   "fragment_id": "885585761",
+   "type": 11,
+   "heading": "Artigo 7.º — Requerimento de atribuição do subsídio de renda",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Requerimento de atribuição do subsídio de renda\n\n1 - O arrendatário solicita a atribuição do subsídio de renda junto dos serviços de segurança social da área da sua residência.\n\n2 - O modelo de requerimento de atribuição do subsídio de renda, a sua forma de entrega, os elementos obrigatórios e os procedimentos relativos à receção, análise e avaliação dos pedidos são estabelecidos por portaria dos membros do Governo responsáveis pelas áreas das autarquias locais, da habitação e da segurança social.\n\n3 - O Instituto Nacional de Habitação (INH) comunica ao requerente a decisão sobre a atribuição do subsídio de renda no prazo de 45 dias a contar da data de apresentação do requerimento, devidamente instruído.\n\n4 - A atribuição, renovação e manutenção do subsídio de renda depende da autorização, pelo requerente, pelos membros do agregado familiar e pelas pessoas a que se refere a alínea a) do n.º 1 do artigo 5.º, ao IHRU, I.P., para o acesso à informação fiscal e das entidades processadoras de pensões, relevante para efeitos de atribuição do subsídio.\n\n5 - A falta de autorização para o acesso à informação fiscal e das entidades processadoras de pensões, a que se refere o número anterior, bem como a não apresentação de um dos elementos obrigatórios previstos na portaria a que se refere o n.º 2, determinam a rejeição liminar do pedido.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596116": {
+   "fragment_id": "885586360",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Repercussão do pedido de atribuição do subsídio de renda no aumento da renda",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Repercussão do pedido de atribuição do subsídio de renda no aumento da renda\n\n1 - O pedido de atribuição do subsídio, quando comunicado ao senhorio, determina que o aumento seguinte do valor da renda só vigora a partir do mês subsequente ao da comunicação ao senhorio, pelo arrendatário, da concessão do subsídio de renda, havendo lugar a recuperação, pelo senhorio, dos montantes em atraso.\n\n2 - Sob pena de ser obrigado a indemnizar pelos danos causados pela sua omissão, o arrendatário comunica ao senhorio a decisão sobre a concessão do subsídio de renda, no prazo de 15 dias após dela ter conhecimento.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596117": {
+   "fragment_id": "885585762",
+   "type": 11,
+   "heading": "Artigo 8.º — Indeferimento da atribuição do subsídio de renda",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Indeferimento da atribuição do subsídio de renda\n\n1 - O requerimento de atribuição do subsídio de renda é indeferido quando se verifique qualquer uma das seguintes situações:\n\na) A renda base calculada seja de valor igual ou superior ao da renda actualizada;\n\nb) O arrendatário, o cônjuge ou a pessoa que com ele viva em união de facto há mais de dois anos, residindo na área dos concelhos de Lisboa ou do Porto e limítrofes, seja proprietário de imóvel para habitação nesses concelhos ou limítrofes ou, residindo no respectivo concelho, quanto ao resto do País, seja proprietário de imóvel para habitação nesse concelho, que se encontre desocupado, adquirido após o início do contrato de arrendamento, com excepção dos casos de sucessão mortis causa;\n\nc) O arrendatário forneça na habitação arrendada serviços de hospedagem ou subarrende parte ou a totalidade da mesma.\n\n2 - Não há lugar à atribuição de subsídio de renda sempre que:\n\na) A renda seja atualizada nos termos do artigo 45.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária;\n\nb) O montante do subsídio de renda mensal seja inferior a 5% da RMMG.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596118": {
+   "fragment_id": "885585763",
+   "type": 11,
+   "heading": "Artigo 9.º — Cumulação de subsídios",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Cumulação de subsídios\n\n1 - O subsídio de renda atribuído no âmbito do presente decreto-lei não é cumulável com qualquer outro de idêntica natureza ou finalidade.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596119": {
+   "fragment_id": "885585764",
+   "type": 11,
+   "heading": "Artigo 10.º — Taxa de esforço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Taxa de esforço\n\n1 - A Tx é o valor em percentagem, arredondado às décimas, que resulta da seguinte fórmula:\n\nTx = [10 x (RABC do agregado familiar/RMNA)]/100\n\n2 - Quando a taxa de esforço, referida no número anterior, seja inferior a 15% ou superior a 30%, é corrigida através do seu aumento ou redução para os limites referidos anteriormente."
+  },
+  "885596120": {
+   "fragment_id": "885585765",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Montante do subsídio\n\n1 - O montante do subsídio é igual à diferença entre o valor da renda nova e o valor da renda base calculada.\n\n2 - Quando o valor da renda cessante seja igual ou superior ao da renda base calculada, o montante do subsídio é igual à diferença entre o valor da renda nova e o valor da renda cessante.\n\n3 - O montante do subsídio de renda mensal não pode ultrapassar o valor correspondente a uma RMMG."
+  },
+  "885596121": {
+   "fragment_id": "885585766",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento\n\n1 - O subsídio de renda é pago mensalmente aos respectivos titulares ou aos seus representantes legais.\n\n2 - O subsídio de renda pode ainda ser pago às pessoas ou entidades que prestem assistência aos titulares do direito, desde que sejam consideradas idóneas pelo INH, quando os titulares do subsídio de renda:\n\na) Sejam incapazes e se encontrem a aguardar a nomeação do respectivo representante legal;\n\nb) Se encontrem impossibilitados de modo temporário ou permanente de receber a prestação, por motivos de doença, ou se encontrem internados em estabelecimentos de apoio social ou equiparados.\n\n3 - O pagamento é efectuado através de transferência bancária, salvo se for indicada outra forma de pagamento."
+  },
+  "885596122": {
+   "fragment_id": "885585767",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Duração\n\n1 - O subsídio de renda é devido a partir do mês seguinte ao da apresentação do requerimento inicial de atribuição do subsídio, é atribuído por 12 meses e é renovável por iguais períodos, caso se mantenham os pressupostos da sua atribuição.\n\n2 - A renovação do subsídio é feita automaticamente, tendo em conta o aumento de renda e aditando-se ao RABC o valor da inflação, salvo se ocorrer uma alteração de circunstâncias, nos termos previstos no artigo seguinte."
+  },
+  "885596123": {
+   "fragment_id": "885585768",
+   "type": 11,
+   "heading": "Artigo 14.º — Alteração de circunstâncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração de circunstâncias\n\n1 - O titular do direito ao subsídio comunica aos serviços de segurança social da área da sua residência qualquer alteração dos pressupostos de atribuição do subsídio, designadamente a alteração do nível de rendimentos igual ou superior a 5%, da composição do agregado familiar ou dos factores de correcção do RABC, nos termos do modelo de requerimento referido no n.º 2 do artigo 7.º\n\n2 - A obrigação de comunicação prevista no número anterior é cumprida no prazo de 15 dias a contar da data da ocorrência dos factos.\n\n3 - No prazo de 45 dias a contar da data da apresentação do requerimento de alteração de circunstâncias previsto no n.º 1, devidamente instruído, o INH comunica ao titular do direito ao subsídio a decisão, a qual produz efeitos a partir do mês seguinte ao da apresentação do requerimento.\n\n4 - Em caso de morte do titular do subsídio, se a sua posição contratual se transmitir para quem reúna os pressupostos para a manutenção do subsídio de renda, o transmissário comunica este facto aos serviços de segurança social, nos mesmos termos e prazos referidos nos números anteriores, sob pena de caducidade do subsídio.\n\n5 - Para efeitos do disposto neste artigo, segue-se o procedimento de atribuição do subsídio de renda, com as devidas adaptações."
+  },
+  "885596124": {
+   "fragment_id": "885585769",
+   "type": 11,
+   "heading": "Artigo 15.º — Fiscalização e reavaliação oficiosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalização e reavaliação oficiosa\n\n1 - Cabe ao INH a fiscalização do cumprimento das normas previstas no presente decreto-lei.\n\n2 - O titular do direito a subsídio de renda é obrigado a apresentar todos os meios probatórios solicitados pelos serviços de segurança social e pelo INH no prazo de 15 dias úteis a contar da data da recepção da notificação para o efeito.\n\n3 - Sem prejuízo da fiscalização da situação dos beneficiários, sempre que se justifique, o INH procede à reavaliação dos pressupostos de manutenção do subsídio de renda, de dois em dois anos.\n\n4 - As falsas declarações, as omissões ou outros factos relativos aos deveres do beneficiário, conducentes à obtenção ilícita do subsídio de renda, determinam a cessação imediata do pagamento do subsídio, dando lugar à restituição de subsídios indevidamente pagos, sem prejuízo do apuramento de responsabilidade penal a que possa haver lugar."
+  },
+  "885596125": {
+   "fragment_id": "885585770",
+   "type": 11,
+   "heading": "Artigo 16.º — Caducidade do subsídio de renda",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Caducidade do subsídio de renda\n\nO direito ao subsídio de renda caduca:\n\na) Por morte do titular, salvo no caso de transmissão do arrendamento para quem reúna os pressupostos de manutenção do subsídio de renda, nos termos do n.º 4 do artigo 14.º;\n\nb) Com o vencimento da primeira renda atualizada ao abrigo dos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596126": {
+   "fragment_id": "885585771",
+   "type": 11,
+   "heading": "Artigo 17.º — Gestão e cooperação entre as entidades participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gestão e cooperação entre as entidades participantes\n\n1 - A análise e decisão acerca da atribuição do subsídio de renda ou da sua manutenção e a gestão do subsídio de renda compete ao INH.\n\n2 - Os serviços de segurança social procedem à instrução dos pedidos de atribuição do subsídio de renda e das comunicações de alteração de circunstâncias e enviam ao INH o conjunto de informações relevantes de modo a habilitá-lo para a tomada de decisão final, preferencialmente através de comunicação electrónica, no prazo de 15 dias a contar da data da apresentação do requerimento devidamente instruído.\n\n3 - O INH promove a articulação com as entidades e serviços competentes para comprovar as condições de que depende a atribuição e manutenção do subsídio de renda, podendo aceder à informação fiscal e das entidades processadoras de pensões, relevante para efeitos de atribuição do subsídio de renda, designadamente para verificar se o RABC do agregado familiar do arrendatário é ou não superior a 3, 5 ou 15 RMNA.\n\n4 - O acesso e a troca de informações, nomeadamente a confirmação e a informação dos dados referidos nos números anteriores, são efectuados através do recurso aos meios informáticos, assegurando-se sempre a protecção dos dados em causa."
+  },
+  "885596127": {
+   "fragment_id": "885585772",
+   "type": 11,
+   "heading": "Artigo 18.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Encargos\n\n1 - As verbas necessárias ao pagamento dos subsídios de renda, nos termos previstos no presente decreto-lei, são inscritas no Orçamento do Estado e transferidas da Direcção-Geral do Tesouro para a Caixa Geral de Depósitos no 1.º mês do trimestre a que respeitam, mediante comunicação pelo INH dos elementos relativos à sua atribuição.\n\n2 - Até 31 de Janeiro de cada ano, a Caixa Geral de Depósitos deve apresentar a conta referente ao pagamento dos subsídios durante o ano anterior, procedendo-se às compensações a que haja lugar.\n\n3 - As verbas referentes a despesas de administração realizadas pelos serviços da segurança social, designadamente as referentes ao pessoal afecto à execução do presente decreto-lei, são inscritas no orçamento do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e são transferidas para o Instituto de Gestão Financeira da Segurança Social (IGFSS) no 1.º mês do trimestre a que respeitam.\n\n4 - Até ao dia 31 de Janeiro de cada ano, o IGFSS apresenta a conta referente às respectivas despesas de administração do ano anterior, procedendo-se às compensações a que haja lugar."
+  },
+  "885596114": {
+   "fragment_id": "885585773",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596113": {
+   "fragment_id": "885585774",
+   "type": 11,
+   "heading": "Artigo 19.º — Ano civil relevante",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Ano civil relevante\n\n1 - Sem prejuízo do disposto no número seguinte, o agregado familiar, a RMNA e os fatores de correção do RAB para efeitos de aplicação do presente decreto-lei são os existentes no ano civil anterior:\n\na) À invocação, pelo arrendatário junto do senhorio, de que o RABC do seu agregado familiar é inferior a cinco RMNA;\n\nb) A cada posterior comunicação anual do RABC do respetivo agregado familiar, pelo arrendatário junto do senhorio.\n\n2 - Tratando-se de contrato de arrendamento a que se refere o n.º 2 do artigo 1.º, o agregado familiar, a RMNA e os fatores de correção do RAB relevantes para efeitos de aplicação do presente decreto-lei são os existentes no ano civil anterior:\n\na) À invocação, pelo arrendatário junto do senhorio, de que o RABC do seu agregado familiar é inferior a cinco ou a três RMNA;\n\nb) A cada posterior comunicação anual do RABC do respetivo agregado familiar, pelo arrendatário junto do senhorio;\n\nc) À data da apresentação do modelo de requerimento de atribuição do subsídio de renda ou de alteração de circunstâncias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596128": {
+   "fragment_id": "885586361",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Disposições transitórias",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 19.º-A — Disposições transitórias\n\n1 - Durante o ano de 2012, o arrendatário pode, na resposta a que se refere o artigo 31.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, comunicar ao senhorio, para efeitos de invocação de que o RABC do seu agregado familiar é inferior a cinco RMNA, que o agregado familiar, a RMNA e os fatores de correção do RAB relevantes para o apuramento do RABC são os existentes no ano de 2012.\n\n2 - No caso previsto no número anterior, o arrendatário remete obrigatoriamente ao senhorio o documento comprovativo emitido pelo serviço de finanças competente, do qual conste o valor do RABC do seu agregado familiar, no prazo de 60 dias a contar da notificação da liquidação do imposto sobre o rendimento das pessoas singulares relativo ao ano de 2012, emitida pela Autoridade Tributária e Aduaneira, sob pena de não poder prevalecer-se do regime previsto para o arrendatário que invoque e comprove que o RABC do seu agregado familiar é inferior a cinco RMNA.\n\n3 - Quando for atualizada, a renda é devida no 1.º dia do 2.º mês seguinte ao da receção, pelo arrendatário, da comunicação do senhorio com o respetivo valor, havendo lugar à recuperação do aumento do valor da renda que seria devido desde o 1.º dia do 2.º mês seguinte ao da receção, pelo senhorio, da comunicação feita nos termos do n.º 1, sendo tal valor calculado:\n\na) De acordo com os critérios previstos nas alíneas a), b) e c) do n.º 2 do artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, quando o RABC do agregado familiar do arrendatário for inferior a cinco RMNA;\n\nb) De acordo com os critérios previstos nas alíneas a) e b) do n.º 2 do artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, nos demais casos.\n\n4 - O montante a pagar a título de recuperação do aumento do valor da renda calculado nos termos do número anterior não pode ultrapassar, em cada mês, um valor superior a metade do valor mensal da renda atualizada, salvo acordo entre as partes ou quando se verifique a cessação do contrato, importando esta última situação o vencimento imediato de todo o valor em dívida.\n\n5 - Sem prejuízo do disposto nos n.os 3 e 4, o arrendatário responde pelos danos que culposamente causar ao senhorio nos seguintes casos:\n\na) Se não remeter, ao senhorio, o documento comprovativo do qual conste o valor do RABC do seu agregado familiar relativo a 2012 no prazo previsto no n.º 2;\n\nb) Se o RABC do seu agregado familiar relativo a 2012 for superior em mais de 20% a cinco RMNA.\n\n6 - Nos casos previstos no número anterior, o valor da indemnização não pode ser inferior a seis meses de renda, calculada de acordo com os critérios previstos nas alíneas a) e b) do n.º 2 do artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto.\n\n7 - As sanções previstas na parte final do n.º 2 e na alínea a) do n.º 5 não se aplicam nos casos em que a falta de remessa, ao senhorio, do documento comprovativo do qual conste o valor do RABC, no prazo aí previsto, não seja imputável ao arrendatário.\n\n8 - Quando o ano civil relevante for o de 2012, o RABC é apurado tendo em consideração a suspensão do pagamento dos subsídios de férias e de Natal ou de quaisquer prestações correspondentes aos 13.º e, ou, 14.º meses, estabelecida pelo artigo 21.º da Lei n.º 64-B/2011, de 30 de dezembro.\n\n9 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, ao arrendatário que, durante o ano de 2013, invocar que o RABC do seu agregado familiar é inferior a cinco RMNA, enquanto o serviço de finanças competente não puder emitir o documento comprovativo do qual conste o valor do RABC relativo ao ano de 2012.\n\n10 - Quando o ano civil relevante for o de 2013 ou outro ano posterior em que vigore a suspensão do pagamento do subsídio de férias ou de quaisquer prestações correspondentes ao 13.º mês, como medida excecional de estabilidade orçamental no âmbito do Programa de Assistência Económica e Financeira, o RABC relativo ao ano civil relevante nos termos do artigo anterior é apurado tendo em consideração a referida suspensão.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596129": {
+   "fragment_id": "885586275",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 30.º dia seguinte ao da sua publicação."
+  },
+  "885586216": {
+   "fragment_id": "885586276",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - José António Fonseca Vieira da Silva.\n\nPromulgado em 26 de Julho de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 27 de Julho de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "885596131": {
+   "fragment_id": "885585753",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente decreto-lei estabelece o regime de determinação do rendimento anual bruto corrigido (RABC), para os efeitos previstos nos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto.\n\n2 - O presente decreto-lei estabelece, ainda, os regimes de determinação do RABC e de atribuição do subsídio de renda aplicáveis aos contratos de arrendamento para fim habitacional celebrados antes da vigência do Regime do Arrendamento Urbano (RAU), aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de outubro, quando, cumulativamente, se verifiquem as seguintes circunstâncias:\n\na) Até à data da entrada em vigor da Lei n.º 31/2012, de 14 de agosto, o senhorio tiver iniciado a atualização da renda ao abrigo do regime constante dos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, e da respetiva legislação complementar;\n\nb) Na data da entrada em vigor da Lei n.º 31/2012, de 14 de agosto:\n\ni) Se encontrar a decorrer o período de atualização faseada do valor da renda, em 2, 5 ou 10 anos; ou\n\nii) Estiverem verificados os pressupostos previstos no artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária; e\n\nc) O senhorio:\n\ni) Tiver comunicado ao Instituto da Habitação e da Reabilitação Urbana, I.P. (IHRU, I.P.), nos termos previstos no n.º 2 do artigo 11.º da Lei n.º 31/2012, de 14 de agosto, que opta pela aplicação do regime constante dos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, e da respetiva legislação complementar; ou\n\nii) Não tendo efetuado a comunicação referida na subalínea anterior, a renda continuar a ser atualizada ou passar a ser atualizada, consoante se trate das situações previstas nas subalíneas i) ou ii) da alínea anterior, ao abrigo do regime constante dos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, e da respetiva legislação complementar.\n\n3 - Para efeitos do disposto na alínea a) do número anterior, considera-se que o senhorio iniciou a atualização da renda na data da comunicação prevista no n.º 2 do artigo 34.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária.\n\n4 - São definidos em diploma próprio os termos e as condições da resposta social, relativamente aos contratos de arrendamento para fim habitacional celebrados antes da vigência do RAU cuja renda seja atualizada ao abrigo do regime constante dos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, aplicáveis após o decurso do período de cinco anos referido na alínea b) do n.º 7 e no n.º 9 do artigo 36.º e nos n.os 1, 2, 4 e 6 do artigo 35.º da referida Lei:\n\na) Aos arrendatários com idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 % e cujo RABC do seu agregado familiar seja inferior a cinco retribuições mínimas nacionais anuais, sendo aquela resposta social efetivada preferencialmente através da atribuição de subsídio de renda que garanta a diferença eventualmente apurada entre o valor da renda que for devido em função do RABC do agregado familiar e o valor da renda nova que, após o decurso do referido período de cinco anos, for apurado nos termos das alíneas a) e b) do n.º 2 do artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto; e\n\nb) Aos demais arrendatários.\n\n5 - O disposto no número anterior não prejudica o regime estabelecido nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, quanto:\n\na) À manutenção em vigor, sem alteração do regime que lhes é aplicável, de todos os contratos celebrados com arrendatário com idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %, salvo acordo em contrário entre o senhorio e o arrendatário; e\n\nb) À garantia de que, na falta de acordo entre o senhorio e o arrendatário com idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %, o valor da renda é apurado:\n\ni) Durante o período de cinco anos referido na alínea b) do n.º 7 e no n.º 9 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, nos termos das alíneas a), b) e c) do n.º 2 do artigo 35.º, ou das alíneas a) e b) do n.º 2 do artigo 35.º, da referida Lei, consoante o RABC do agregado familiar do arrendatário seja, ou não, inferior a cinco retribuições mínimas nacionais anuais;\n\nii) Após o decurso do período de cinco anos referido na alínea b) do n.º 7 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, nos termos das alíneas a) e b) do n.º 2 do artigo 35.º da referida Lei.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "885596132": {
+   "fragment_id": "885585770",
+   "type": 11,
+   "heading": "Artigo 16.º — Caducidade do subsídio de renda",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Caducidade do subsídio de renda\n\nO direito ao subsídio de renda caduca:\n\na) Por morte do titular, salvo no caso de transmissão do arrendamento para quem reúna os pressupostos de manutenção do subsídio de renda, nos termos do n.º 4 do artigo 14.º;\n\nb) Com o vencimento da primeira renda atualizada ao abrigo dos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação atual, salvo quando o valor atualizado da renda for superior ao que seria devido pelo arrendatário por aplicação dos critérios previstos no n.º 2 do artigo 35.º, diretamente ou ao abrigo do n.º 7 do artigo 36.º e artigo 37.º da mesma lei.\n\n> Nota: [Artigo 6.º, Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851) A nova redação da alínea b) do presente artigo tem natureza interpretativa e produz efeitos desde 1 de janeiro de 2013.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19](https://diariodarepublica.pt/dr/detalhe/lei/79-2014-65949851), em vigor a partir de 2015-01-18\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  }
+ }
+}

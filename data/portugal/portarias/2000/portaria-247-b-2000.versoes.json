@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:386020:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-942957799",
+ "dre_path": "/dr/detalhe/portaria/247-b-2000-386020",
+ "source_lastmod": "2025-10-29",
+ "versions": [
+  {
+   "date": "2000-05-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "942957892"
+   ]
+  }
+ ],
+ "fragments": {
+  "942957892": {
+   "fragment_id": "942957800",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 247-B/2000\n\nde 8 de Maio\n\nA Lei n.º 140/99, de 28 de Agosto, estabeleceu o regime e a forma de criação das polícias municipais, cometendo ao Governo a fixação do conjunto das normas necessárias à sua efectiva criação.\n\nPor seu turno, o Decreto-Lei n.º 39/2000, de 17 de Março, estabelece que nos concursos de admissão às diversas carreiras dos serviços de polícia municipal, bem como nos casos em que se verifique a transição de carreira, serão utilizados como métodos de selecção o exame médico e o exame psicológico.\n\nConsiderando que no âmbito das suas funções os agentes destes serviços poderão ter de fazer face a circunstâncias que exijam enorme presença de espírito, ponderação e equilíbrio;\n\nAtendendo-se também ao facto de estes funcionários serem portadores, durante o serviço, de armas de defesa:\n\nEntendeu-se determinar a centralização da aplicação dos exames psicológicos e a exigência de alguns requisitos a observar no exame médico.\n\nA entrevista profissional e a prova de conhecimentos são da competência da autarquia, como decorre da lei. No caso da prova de conhecimentos, a autarquia poderá recorrer ao apoio do Centro de Estudos e Formação Autárquica para realização da mesma ou definição do respectivo conteúdo.\n\nPor outro lado, na entrevista profissional a autarquia considerará como parâmetros a postura física e comportamental, a expressão verbal, a sociabilidade, a experiência, o espírito crítico e a maturidade do candidato.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio, bem como foi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim, em cumprimento do artigo 15.º, n.º 2, do Decreto-Lei n.º 39/2000, de 17 de Março:\n\nManda o Governo, pelo Ministro Adjunto e pelo Ministro da Administração Interna, o seguinte:"
+  }
+ }
+}

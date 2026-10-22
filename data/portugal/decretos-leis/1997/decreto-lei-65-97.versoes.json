@@ -1,0 +1,722 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:527808:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-169472775",
+ "dre_path": "/dr/detalhe/decreto-lei/65-1997-527808",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169472875",
+    "169472876",
+    "169472877",
+    "169472878",
+    "169472879",
+    "169472880",
+    "169472881",
+    "169472882",
+    "169472883",
+    "169472884",
+    "169472885",
+    "169472886",
+    "169472887",
+    "169472888",
+    "169472889",
+    "169472890",
+    "169472891",
+    "169472892",
+    "169472893",
+    "169472894",
+    "169472895",
+    "169472896",
+    "169472897",
+    "169472898",
+    "169472899",
+    "169472900",
+    "169472901",
+    "169472902",
+    "169472903",
+    "169472904",
+    "169472905",
+    "169472906",
+    "169472907",
+    "169472908",
+    "169472909",
+    "169472910",
+    "169472911",
+    "169472912",
+    "169472913",
+    "169472914",
+    "169472915",
+    "169472916"
+   ]
+  },
+  {
+   "date": "2009-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:603239:por",
+     "title": "Decreto-Lei n.º 79/2009",
+     "published": "2009-04-02",
+     "dre_path": "/dr/detalhe/decreto-lei/79-2009-603239"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "169472875",
+    "169472876",
+    "169472877",
+    "169472878",
+    "169472879",
+    "169472880",
+    "169472881",
+    "169472882",
+    "169472883",
+    "169472884",
+    "169354342",
+    "169472886",
+    "169472887",
+    "169472888",
+    "169472889",
+    "169472890",
+    "169472891",
+    "169472892",
+    "169472893",
+    "169472894",
+    "169472895",
+    "169472896",
+    "169472897",
+    "169472898",
+    "169472899",
+    "169472900",
+    "169472901",
+    "169472902",
+    "169472903",
+    "169472904",
+    "169472905",
+    "169472906",
+    "169472907",
+    "169472908",
+    "169472909",
+    "169472910",
+    "169472911",
+    "169472912",
+    "169472913",
+    "169472914",
+    "169472915",
+    "169472916",
+    "169472917"
+   ]
+  },
+  {
+   "date": "2012-04-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:552538:por",
+     "title": "Decreto-Lei n.º 86/2012",
+     "published": "2012-04-10",
+     "dre_path": "/dr/detalhe/decreto-lei/86-2012-552538"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 28.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "169472875",
+    "169472876",
+    "169472877",
+    "169472878",
+    "169472879",
+    "169472880",
+    "169472881",
+    "169354343",
+    "169472883",
+    "169472884",
+    "169354342",
+    "169354344",
+    "169472887",
+    "169354345",
+    "169472889",
+    "169354346",
+    "169354357",
+    "169472892",
+    "169472893",
+    "169354347",
+    "169354356",
+    "169354348",
+    "169354349",
+    "169354350",
+    "169354358",
+    "169354351",
+    "169472901",
+    "169472973",
+    "169472902",
+    "169354352",
+    "169472904",
+    "169472905",
+    "169354353",
+    "169472907",
+    "169472908",
+    "169354354",
+    "169472910",
+    "169354355",
+    "169472912",
+    "169472913",
+    "169472914",
+    "169472915",
+    "169472916",
+    "169472917"
+   ]
+  }
+ ],
+ "fragments": {
+  "169472875": {
+   "fragment_id": "169472776",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 65/97\n\nde 31 de Março\n\nOs parques de diversão aquática começaram a ser implantados a partir de 1983, tendo sido considerados como equipamentos para diversão pública\n\nTal qualificação viria a justificar o seu enquadramento na classificação expressa no Decreto-Lei n.º 42660, de 20 de Novembro de 1959, pelo que foram abrangidos pelo regulamento das condições técnicas e de segurança dos recintos de espectáculos e de divertimentos públicos, aprovado pelo Decreto n.º 42662 e publicado na data indicada.\n\nPorém, a constante evolução tecnológica dos equipamentos entretanto instalados. revela a inadequação daquela regulamentação, sendo tal constatação dramaticamente evidenciada no Verão de 1993, por via dos graves acontecimentos ocorridos num parque em Lisboa.\n\nCom o intuito de regular a actividade em questão procedeu-se ao seu enquadramento no Decreto-Lei n.º 315/95, de 28 de Novembro, e com o Decreto Regulamentar n.º 34/95, de 16 de Dezembro, registou-se a consagração de alguns preceitos incidindo sobre os recintos deste tipo.\n\nTodavia, tal legislação revelou-se insuficiente e desactualizada ao nível da regulamentação do processo de licenciamento e de funcionamento dos recintos, pelo que importa emitir legislação defensora dos utentes privilegiando as condições de segurança dos parques.\n\nNesta ordem de ideias procede-se à publicação de um decreto-lei contendo a disciplina da instalação e funcionamento dos recintos e, simultaneamente, procura-se, desde já, propiciar a salvaguarda das condições técnicas e de segurança a que os mesmos devem obedecer.\n\nA estrutura geral do regime constante do presente diploma tem por parâmetro o Decreto-Lei n.º 445/91, de 20 de Novembro, que regula o licenciamento municipal das obras particulares, nomeadamente quanto ao disposto na secção V do capítulo II.\n\nProcurou-se definir claramente as competências das entidades intervenientes nos diversos momentos da localização, do licenciamento, do funcionamento e da fiscalização dos recintos com diversões aquáticas.\n\nDe notar que se prevê a realização de vistorias a todos os recintos já licenciados ou em vias de licenciamento, no prazo de 60 dias a contar da data de entrada em vigor do regulamento a aprovar, indo ao encontro de uma recomendação do Provedor de Justiça.\n\nCom o presente diploma e com o regulamento que o complementa fica este tipo de recintos de diversão pública dotado de um enquadramento legal dos mais avançados em termos de defesa do consumidor, quando confrontado com o existente noutros países membros da União Europeia e nos Estados Unidos da América.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "169472876": {
+   "fragment_id": "169472777",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito"
+  },
+  "169472877": {
+   "fragment_id": "169472778",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula a instalação e o funcionamento dos recintos com diversões aquáticas."
+  },
+  "169472878": {
+   "fragment_id": "169472779",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Noção\n\n1 - São recintos com diversões aquáticas os locais vedados, com acesso ao público, destinados ao uso de equipamentos recreativos, cuja utilização implique o contacto dos utentes com a água, independentemente de se tratar de entidade pública ou privada e da sua exploração visar ou não fins lucrativos.\n\n2 - Não são considerados recintos com diversões aquáticas aqueles que unicamente disponham de piscinas de uso comum, nomeadamente as destinadas à prática de natação, de competição, de lazer ou recreação.\n\n3 - Os equipamentos recreativos referidos no n.º l, quando sejam instalados em piscinas de uso colectivo, em praias, rios ou lagos, deverão obedecer às normas previstas no regulamento a aprovar, nos termos do artigo 3.º"
+  },
+  "169472879": {
+   "fragment_id": "169472780",
+   "type": 1,
+   "heading": "Capítulo II — Instalação e funcionamento dos recintos com diversões aquáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Instalação e funcionamento dos recintos com diversões aquáticas"
+  },
+  "169472880": {
+   "fragment_id": "169472781",
+   "type": 8,
+   "heading": "Secção I — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regime aplicável"
+  },
+  "169472881": {
+   "fragment_id": "169472782",
+   "type": 11,
+   "heading": "Artigo 3.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regulamentação\n\nAs normas necessárias à regulamentação das condições técnicas e de segurança dos recintos com diversões aquáticas constarão de regulamento a aprovar."
+  },
+  "169472882": {
+   "fragment_id": "169472783",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime aplicável à instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime aplicável à instalação\n\n1 - A instalação de recintos com diversões aquáticas obedece ao regime jurídico do licenciamento municipal de obras particulares, com as especificidades estabelecidas no presente diploma.\n\n2 - Os pedidos de licenciamento relativos à instalação dos recintos com diversões aquáticas devem ser instruídos nos termos da legislação referida no número anterior e ainda com os elementos que vierem a ser exigidos pelo regulamento previsto no artigo 3.º"
+  },
+  "169472883": {
+   "fragment_id": "169472784",
+   "type": 8,
+   "heading": "Secção II — Processo de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Processo de licenciamento"
+  },
+  "169472884": {
+   "fragment_id": "169472785",
+   "type": 3,
+   "heading": "Subsecção I — Localização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Localização"
+  },
+  "169472885": {
+   "fragment_id": "169472786",
+   "type": 11,
+   "heading": "Artigo 5.º — Autorização prévia de localização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autorização prévia de localização\n\n1 - Quando os interessados pretendam instalar um recinto com diversões aquáticas, a situar em área não abrangida por plano de urbanização, plano de pormenor ou alvará de loteamento válido nos termos da lei, devem solicitar autorização prévia de localização à comissão de coordenação regional (CCR) respectiva, mediante requerimento instruído, em triplicado, com os elementos que vierem a ser exigidos no regulamento a aprovar, nos termos do artigo 3.º\n\n2 - Quando se trate de localização em área com impacte em estradas nacionais, a CCR solicitará parecer à Junta Autónoma de Estradas (JAE), que deverá pronunciar-se no prazo de 10 dias úteis a contar da data de entrada do processo naquela entidade, sob pena de se entender que nada há a opor ao requerido.\n\n3 - A consulta referida no número anterior será acompanhada de um exemplar dos elementos entregues, devendo ser efectuada por ofício registado, com aviso de recepção, ou por protocolo, no prazo de 10 dias úteis a contar da data de entrada do processo na CCR.\n\n4 - A CCR e a JAE podem solicitar ao requerente, sempre que necessário, e apenas uma vez, novos elementos, mediante carta registada, com aviso de recepção, fundamentando o pedido e fixando-lhe prazo não superior a 10 dias para o seu cumprimento.\n\n5 - Sempre que a JAE use a faculdade prevista no número anterior, comunicá-lo-á em simultâneo à CCR, para efeito de suspensão dos prazos aplicáveis.\n\n6 - A CCR deverá pronunciar-se no prazo de 20 dias, a contar da data de recepção do requerimento ou do prazo para emissão do parecer pela JAE.\n\n7 - As entidades a que se refere o presente artigo devem pronunciar-se no exclusivo âmbito das suas competências.\n\n8 - O deferimento da autorização a que se refere o n.º 1 preenche o requisito previsto no n.º 2 do artigo 48.º do Decreto-Lei n.º 445/91, de 20 de Novembro."
+  },
+  "169472886": {
+   "fragment_id": "169472787",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido de informação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pedido de informação prévia\n\nQualquer interessado pode requerer à câmara municipal informação prévia sobre a possibilidade de instalação de um recinto com diversões aquáticas, aplicando-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 445/91, de 20 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 250/94, de 15 de Outubro."
+  },
+  "169472887": {
+   "fragment_id": "169472788",
+   "type": 3,
+   "heading": "Subsecção II — Licenciamento da construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Licenciamento da construção"
+  },
+  "169472888": {
+   "fragment_id": "169472789",
+   "type": 11,
+   "heading": "Artigo 7.º — Aprovação dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aprovação dos projectos\n\n1 - A apreciação, pela câmara municipal, dos projectos de arquitectura e das especialidades dos recintos com diversões aquáticas carece de parecer do Instituto Nacional do Desporto (IND), da delegação regional do Ministério da Economia, do delegado regional de saúde e do Serviço Nacional de Bombeiros (SNB), sem prejuízo de outros pareceres das entidades competentes da administração central.\n\n2 - Quando o recinto se situe em áreas abrangidas por plano de pormenor ou alvará de loteamento, aplica-se, com as necessárias adaptações, o disposto no artigo 35.º do Decreto-Lei n.º 445/91, de 20 de Novembro."
+  },
+  "169472889": {
+   "fragment_id": "169472790",
+   "type": 11,
+   "heading": "Artigo 8.º — Parecer do IND e SNB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Parecer do IND e SNB\n\n1 - Os pareceres do IND e do SNB destinam-se a verificar a adequação do recinto projectado ao uso pretendido, bem como a observância das normas estabelecidas no presente diploma e demais legislação complementar.\n\n2 - Quando desfavoráveis ou sujeitos a condição, os pareceres do IND e do SNB são vinculativos."
+  },
+  "169472890": {
+   "fragment_id": "169472791",
+   "type": 11,
+   "heading": "Artigo 9.º — Obras não sujeitas a licenciamento municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obras não sujeitas a licenciamento municipal\n\n1 - As obras no interior dos recintos com diversões aquáticas, quando não estejam sujeitas a licenciamento municipal, carecem de autorização do IND.\n\n2 - Para os efeitos previstos no número anterior, o interessado deve dirigir ao IND um requerimento instruído com a documentação a que alude o n.º 6 do artigo 3.º do Decreto-Lei n.º 445/91, de 20 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 250/94, de 15 de Outubro, podendo o IND, e apenas uma vez, no prazo de 20 dias, solicitar esclarecimentos complementares.\n\n3 - A autorização a que se refere o n.º 1 deve ser emitida no prazo de 30 dias a contar da recepção do requerimento, sob pena de este se entender como indeferido."
+  },
+  "169472891": {
+   "fragment_id": "169472792",
+   "type": 11,
+   "heading": "Artigo 10.º — Projectos de obras dispensadas de licenciamento municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Projectos de obras dispensadas de licenciamento municipal\n\n1 - Os projectos de arquitectura de recintos cujas obras estejam dispensadas de licenciamento municipal, nos termos das alíneas b) a f) do n.º 1 do artigo 3.º do Decreto-Lei n.º 445/91, de 20 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 250/94, de 15 de Outubro, devem ser submetidos à aprovação do IND.\n\n2 - Os projectos devem ser acompanhados dos elementos constantes dos diplomas referidos no n.º 2 do artigo 4.º do presente diploma.\n\n3 - No prazo de 20 dias a contar da recepção do projecto, o IND pode solicitar, por uma única vez, a apresentação de outros elementos que considere indispensáveis à sua apreciação.\n\n4 - O IND deve pronunciar-se no prazo de 30 dias a contar da data da recepção do processo ou dos elementos pedidos nos termos do número anterior.\n\n5 - O IND deve dar conhecimento à câmara municipal dos projectos de alterações aos recintos com diversões aquáticas que aprove nos termos do presente artigo e do artigo anterior, mediante envio de cópia dos mesmos."
+  },
+  "169472892": {
+   "fragment_id": "169472793",
+   "type": 3,
+   "heading": "Subsecção III — Licenciamento do funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Licenciamento do funcionamento"
+  },
+  "169472893": {
+   "fragment_id": "169472794",
+   "type": 11,
+   "heading": "Artigo 11.º — Início das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Início das actividades\n\n1 - O início das actividades dos recintos com diversões aquáticas depende de licença de funcionamento a emitir pelo IND.\n\n2 - O início da actividade do recinto pode ser autorizado por fases, aplicando-se a cada uma o disposto na presente subsecção."
+  },
+  "169472894": {
+   "fragment_id": "169472795",
+   "type": 11,
+   "heading": "Artigo 12.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requerimento\n\n1 - Concluída a obra, o interessado deve requerer a emissão de licença de funcionamento ao presidente do IND.\n\n2 - A emissão da licença de funcionamento é sempre precedida de vistoria a efectuar por uma comissão composta por representantes do IND, câmara municipal, SNB, delegação regional do Ministério da Economia e delegado regional de saúde, nos termos do artigo seguinte."
+  },
+  "169472895": {
+   "fragment_id": "169472796",
+   "type": 11,
+   "heading": "Artigo 13.º — Vistoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vistoria\n\n1 - A vistoria destina-se a verificar a adequação do recinto, do ponto de vista funcional, às diversões aquáticas, bem como a observância das normas estabelecidas no presente diploma e legislação complementar.\n\n2 - A vistoria deve realizar-se no prazo de 45 dias a contar da data da apresentação do requerimento referido no n.º 1 do artigo anterior e, sempre que possível, em data a acordar com o interessado.\n\n3 - O IND pode solicitar a participação na vistoria de outras entidades cuja intervenção se revele necessária.\n\n4 - Da vistoria será elaborado o respectivo auto, do qual se fará menção no livro de obra, devendo ser entregue uma cópia daquele ao requerente.\n\n5 - Quando o auto de vistoria conclua em sentido desfavorável não pode ser emitida a licença de funcionamento."
+  },
+  "169472896": {
+   "fragment_id": "169472797",
+   "type": 11,
+   "heading": "Artigo 14.º — Licença de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Licença de funcionamento\n\nA licença de funcionamento é emitida pelo IND no prazo de 15 dias a contar da data da realização da vistoria referida no artigo anterior, mediante a exibição do alvará da licença de utilização emitido pela câmara municipal."
+  },
+  "169472897": {
+   "fragment_id": "169472798",
+   "type": 11,
+   "heading": "Artigo 15.º — Indeferimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Indeferimento\n\nA não realização da vistoria no prazo fixado no n.º 2 do artigo 13.º ou a falta da decisão final no prazo referido no artigo anterior valem como indeferimento do pedido de licença de funcionamento."
+  },
+  "169472898": {
+   "fragment_id": "169472799",
+   "type": 11,
+   "heading": "Artigo 16.º — Alvará",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alvará\n\n1 - Deferido o pedido de licença de funcionamento, o respectivo alvará é emitido pelo IND no prazo de 15 dias a contar da data da apresentação do requerimento pelo interessado, desde que se mostrem pagas as taxas devidas, de montante a fixar por portaria do membro do Governo competente.\n\n2 - Na falta ou recusa injustificada da emissão do alvará no prazo previsto no número anterior, o interessado, desde que munido do alvará de licença de utilização, pode proceder ao início das actividades mediante comunicação, por carta registada, ao IND.\n\n3 - Do alvará da licença de funcionamento devem constar as seguintes indicações:\n\na) A identificação do recinto;\n\nb) O nome da entidade exploradora do recinto;\n\nc) As actividades a que o recinto se destina;\n\nd) A lotação do recinto para cada uma das actividades referidas na alínea anterior;\n\ne) A data da sua emissão e o prazo de validade da licença."
+  },
+  "169472899": {
+   "fragment_id": "169472800",
+   "type": 11,
+   "heading": "Artigo 17.º — Intimação judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Intimação judicial\n\nNos casos de deferimento do pedido da licença de funcionamento e perante recusa injustificada ou falta de emissão do alvará respectivo no prazo previsto no n.º 1 do artigo anterior, pode o interessado pedir ao tribunal administrativo do círculo a intimação do presidente do IND para proceder à referida emissão, nos termos do artigo 62.º do Decreto-Lei n.º 445/91, de 20 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 250/94, de 15 de Outubro."
+  },
+  "169472900": {
+   "fragment_id": "169472801",
+   "type": 11,
+   "heading": "Artigo 18.º — Prazo de validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Prazo de validade\n\n1 - A licença de funcionamento é válida por um prazo de três anos.\n\n2 - A renovação da licença de funcionamento deve ser requerida com, pelo menos, 60 dias de antecedência em relação ao termo do seu prazo de validade.\n\n3 - A concessão de nova licença de funcionamento ou a sua renovação implicam a realização de nova vistoria, devendo o IND promover simultaneamente, no prazo de 15 dias a contar da data da apresentação do requerimento, a consulta das entidades com responsabilidade nas áreas dos serviços, equipamentos e infra-estruturas instaladas no recinto."
+  },
+  "169472901": {
+   "fragment_id": "169472802",
+   "type": 11,
+   "heading": "Artigo 19.º — Caducidade da licença de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Caducidade da licença de funcionamento\n\n1 - A licença de funcionamento caduca se o recinto com diversões aquáticas não iniciar a sua actividade no prazo de um ano a contar da data de emissão do respectivo alvará.\n\n2 - Caducada a licença de funcionamento, o alvará é apreendido pelo IND na sequência de notificação ao respectivo titular.\n\n3 - O titular da licença caducada pode requerer a concessão de nova licença de funcionamento a conceder nos termos do n.º 3 do artigo anterior."
+  },
+  "169472902": {
+   "fragment_id": "169472803",
+   "type": 1,
+   "heading": "Capítulo III — Fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fiscalização e sanções"
+  },
+  "169472903": {
+   "fragment_id": "169472804",
+   "type": 11,
+   "heading": "Artigo 20.º — Entidades com competência de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entidades com competência de fiscalização\n\n1 - A fiscalização do disposto no presente diploma e respectiva legislação complementar é da competência das câmaras municipais, do IND, do SNB, dos delegados regionais de saúde, das delegações regionais do Ministério da Economia e de outras entidades administrativas e policiais no âmbito das respectivas competências.\n\n2 - Ao IND compete fiscalizar o cumprimento das normas relativas ao funcionamento e condições de segurança dos recintos com diversões aquáticas.\n\n3 - Às câmaras municipais compete fiscalizar o estado e condições de segurança das edificações e construções que integram o conjunto do recinto.\n\n4 - Aos delegados regionais de saúde compete a fiscalização das condições hígio-sanitárias das instalações e equipamentos, cabendo-lhes, em especial, assegurar os níveis de qualidade da água previstos no regulamento previsto no artigo 3.º e respectivos anexos.\n\n5 - Às delegações regionais do Ministério da Economia compete fiscalizar a conformidade das instalações de distribuição e utilização de gás e energia eléctrica com as regras de segurança aplicáveis.\n\n6 - Ao SNB compete a fiscalização das instalações em matérias relacionadas com as actividades dos bombeiros."
+  },
+  "169472904": {
+   "fragment_id": "169472805",
+   "type": 11,
+   "heading": "Artigo 21.º — Vistorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Vistorias\n\n1 - O IND promove a realização de vistorias anuais e de todas as vistorias extraordinárias que entender convenientes.\n\n2 - As vistorias serão realizadas por uma comissão composta por representantes das seguintes entidades:\n\na) Um representante do IND, que preside;\n\nb) Um representante da câmara municipal;\n\nc) Um representante do SNB;\n\nd) O delegado regional de saúde;\n\ne) Um representante da delegação regional do Ministério da Economia.\n\n3 - Quando da vistoria resultar que se encontram desrespeitadas as condições técnicas e de segurança, sem prejuízo da coima que for aplicável, a entidade responsável pela exploração será notificada para proceder às necessárias alterações em prazo a fixar pela comissão referida no número anterior.\n\n4 - O recinto será imediatamente encerrado pelo IND, ouvida a câmara municipal e o SNB, quando seja desrespeitado o prazo fixado nos termos do número anterior e, em qualquer caso, quando não esteja em condições de se manter aberto ao público, em virtude de oferecer perigo para a segurança ou saúde dos utentes."
+  },
+  "169472905": {
+   "fragment_id": "169472806",
+   "type": 11,
+   "heading": "Artigo 22.º — Suspensão de actividades do recinto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Suspensão de actividades do recinto\n\n1 - Quando ocorram situações excepcionais, que pela sua gravidade possam pôr em risco a segurança ou a vida dos utentes, bem como em caso de acidente ou de desrespeito pelas normas do presente diploma, deve desse facto dar-se de imediato conhecimento ao IND.\n\n2 - Nos casos previstos no número anterior o IND, oficiosamente ou a solicitação de qualquer interessado, pode determinar a suspensão imediata do funcionamento do recinto, até que uma vistoria extraordinária tenha lugar.\n\n3 - A vistoria extraordinária prevista no número anterior deverá ocorrer no prazo máximo de cinco dias."
+  },
+  "169472906": {
+   "fragment_id": "169472807",
+   "type": 11,
+   "heading": "Artigo 23.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Contra-ordenações\n\nSem prejuízo das contra-ordenações previstas no regulamento a aprovar, constituem contra-ordenações, puníveis com coimas de 50000$00 a 9000000$00, os seguintes comportamentos:\n\na) O exercício de actividades próprias dos recintos com diversões aquáticas sem o necessário licenciamento;\n\nb) A oposição à realização de inspecções e vistorias pelas entidades competentes e a recusa de prestação a estas entidades dos elementos por elas solicitados."
+  },
+  "169472907": {
+   "fragment_id": "169472808",
+   "type": 11,
+   "heading": "Artigo 24.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sanções acessórias\n\n1 - Quando a gravidade da infracção ao disposto no presente diploma e legislação complementar o justifique, podem ser aplicadas as seguintes sanções acessórias:\n\na) Interdição por um período até dois anos do exercício de actividade directamente relacionada com a infracção praticada;\n\nb) Encerramento do recinto e cassação do alvará de licença de funcionamento.\n\n2 - Pode ser determinada a publicidade da aplicação de qualquer sanção mediante:\n\na) Afixação da cópia da decisão pelo período de 30 dias, no próprio recinto em lugar e forma bem visível;\n\nb) Publicação, pelo IND ou pela câmara municipal em jornal de difusão nacional, regional ou local, de acordo com o lugar, a importância e os efeitos da infracção."
+  },
+  "169472908": {
+   "fragment_id": "169472809",
+   "type": 11,
+   "heading": "Artigo 25.º — Instrução dos processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Instrução dos processos de contra-ordenação\n\nA instrução do procedimento de contra-ordenação incumbe ao IND ou às câmaras municipais, relativamente à violação das normas do presente diploma e do regulamento a aprovar, cujo cumprimento lhes caiba assegurar no âmbito das respectivas competências."
+  },
+  "169472909": {
+   "fragment_id": "169472810",
+   "type": 11,
+   "heading": "Artigo 26.º — Competência sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competência sancionatória\n\n1 - É da competência do presidente do IND a aplicação das coimas de valor inferior a 4500000$00.\n\n2 - É da competência do membro do Governo da tutela a aplicação das coimas de valor igual ou superior a 4500000$00 e das sanções acessórias.\n\n3 - É da competência das câmaras municipais a aplicação das coimas devidas pela violação das normas cujo cumprimento lhes caiba assegurar, independentemente do valor em causa."
+  },
+  "169472910": {
+   "fragment_id": "169472811",
+   "type": 11,
+   "heading": "Artigo 27.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Produto das coimas\n\n1 - Sem prejuízo do disposto no número seguinte, o produto das coimas por infracção ao presente diploma e ao regulamento a aprovar reverte em 50% para o Estado, 40% para o IND e 10% para a entidade fiscalizadora.\n\n2 - O produto das coimas aplicadas pelas câmaras municipais no âmbito da competência sancionatória a que se refere o n.º 3 do artigo anterior constitui receita dos municípios."
+  },
+  "169472911": {
+   "fragment_id": "169472812",
+   "type": 11,
+   "heading": "Artigo 28.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Taxas\n\n1 - Pelas vistorias e inspecções realizadas ao abrigo do disposto no presente diploma são devidas taxas, cujo montante será fixado por portaria conjunta dos Ministros das Finanças, do Equipamento, do Planeamento e da Administração do Território, da Economia e Adjunto.\n\n2 - O disposto no número anterior não se aplica aos processos de contra-ordenação."
+  },
+  "169472912": {
+   "fragment_id": "169472813",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "169472913": {
+   "fragment_id": "169472814",
+   "type": 11,
+   "heading": "Artigo 29.º — Autorização de actividades diversas das constantes da licença de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Autorização de actividades diversas das constantes da licença de funcionamento\n\nExcepcionalmente, o IND pode autorizar num recinto com diversões aquáticas a realização de actividades diversas daquelas a que o recinto se destina."
+  },
+  "169472914": {
+   "fragment_id": "169472815",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regime transitório\n\n1 - No prazo de 60 dias a contar da data de entrada em vigor do regulamento previsto no artigo 3.º, serão realizadas vistorias a todos os recintos com diversões aquáticas, já licenciados ou em vias de licenciamento, nos termos da lei.\n\n2 - As vistorias serão realizadas por uma comissão composta nos termos do n.º 2 do artigo 21.º\n\n3 - A vistoria a que se refere o n.º 1 destina-se a verificar a adequação das instalações ao uso previsto, as condições de segurança e higiene dos referidos recintos e o cumprimento dos requisitos do ponto de vista de saúde pública, nos termos do regulamento a aprovar.\n\n4 - A comissão referida no n.º 2 elaborará um auto de vistoria, que conclua por uma das seguintes situações:\n\na) Pelo encerramento imediato do recinto e cassação do respectivo alvará;\n\nb) Pela necessidade de realização de obras de ajustamento com vista à adequação do recinto às regras estabelecidas no regulamento a aprovar, e prazo para a respectiva realização, o qual não poderá exceder três meses;\n\nc) Pela conformidade do recinto com os requisitos exigidos no regulamento previsto no artigo 3.º\n\n5 - Findo o prazo estabelecido para a realização das obras previstas nos termos da alínea b) do número anterior, haverá lugar a nova vistoria, a realizar no prazo de 30 dias, com vista ao encerramento do recinto ou à sua abertura para funcionamento.\n\n6 - Nos casos previstos na alínea c) do n.º 4 do presente artigo caberá ao IND a emissão do respectivo alvará."
+  },
+  "169472915": {
+   "fragment_id": "169472816",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nSão revogados os artigos 57.º e 260.º do Regulamento das Condições Técnicas e de Segurança dos Recintos de Espectáculos e Divertimentos Públicos anexo ao Decreto Regulamentar n.º 34/95, de 16 de Dezembro."
+  },
+  "169472916": {
+   "fragment_id": "169472817",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "169354342": {
+   "fragment_id": "169472786",
+   "type": 11,
+   "heading": "Artigo 5.º — Localização",
+   "in_force_from": "2009-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 79/2009 - Diário da República n.º 65/2009, Série I de 2009-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2009-603239), em vigor a partir de 2009-04-03"
+   ],
+   "markdown": "###### Artigo 5.º — Localização\n\nSempre que a instalação de um recinto com diversões aquáticas envolva a realização de operação urbanística sujeita a controlo prévio, a apreciação em razão da localização é efectuada exclusivamente nos termos do RJUE, no âmbito do pedido de informação prévia ou do procedimento aplicável à operação urbanística.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 79/2009 - Diário da República n.º 65/2009, Série I de 2009-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2009-603239), em vigor a partir de 2009-04-03"
+  },
+  "169472917": {
+   "fragment_id": "169472818",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 6 de Março de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 10 de Março de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "169354343": {
+   "fragment_id": "169472783",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime aplicável à instalação",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 4.º — Regime aplicável à instalação\n\n1 - A instalação de recintos com diversões aquáticas obedece ao Regime Jurídico da Urbanização e Edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, republicado pelo Decreto-Lei n.º 26/2010, de 30 de março, e posteriormente alterado pela Lei n.º 28/2010, de 2 de setembro, com as especificidades estabelecidas no presente diploma.\n\n2 - Os pedidos de licenciamento relativos à instalação dos recintos com diversões aquáticas devem ser instruídos nos termos da legislação referida no número anterior e ainda com os elementos que vierem a ser exigidos pelo regulamento previsto no artigo 3.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354344": {
+   "fragment_id": "169472787",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido de informação prévia",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 6.º — Pedido de informação prévia\n\nQualquer interessado pode requerer à câmara municipal informação prévia sobre a possibilidade de instalação de um recinto com diversões aquáticas, aplicando-se, com as necessárias adaptações, o disposto no RJUE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354345": {
+   "fragment_id": "169472789",
+   "type": 11,
+   "heading": "Artigo 7.º — Obras sujeitas a controlo prévio municipal",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 7.º — Obras sujeitas a controlo prévio municipal\n\nA instalação ou modificação de recintos de diversões aquáticas sujeitas a licenciamento municipal ou a comunicação prévia à câmara municipal seguem os termos do RJUE, com parecer do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), da direção regional da economia, do delegado de saúde regional e da Autoridade Nacional de Proteção Civil (ANPC), sem prejuízo de outros pareceres das entidades competentes da administração central.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354346": {
+   "fragment_id": "169472791",
+   "type": 11,
+   "heading": "Artigo 9.º — Obras não sujeitas a controlo prévio municipal",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 9.º — Obras não sujeitas a controlo prévio municipal\n\n1 - As obras nos recintos com diversões aquáticas, quando não estejam sujeitas a licenciamento municipal ou a comunicação prévia à câmara municipal, nos termos do RJUE, carecem de autorização do IPDJ, I. P.\n\n2 - Para os efeitos previstos no número anterior, o interessado deve dirigir ao IPDJ, I. P., um requerimento instruído com as peças escritas ou desenhadas necessárias à caracterização da obra, assinadas por técnico legalmente habilitado, acompanhadas de termo de responsabilidade em como se observaram na sua elaboração as normas técnicas de construção, bem como as normas legais e regulamentares aplicáveis, podendo o IPDJ, I. P., solicitar esclarecimentos ou documentos complementares, a prestar, caso o requerente assim o entenda, no prazo de 20 dias.\n\n3 - A autorização deve ser emitida no prazo de 20 dias a contar da receção do requerimento, dos elementos complementares referidos no número anterior ou do termo do prazo nele referido, sob pena de se entender como tacitamente deferido.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354357": {
+   "fragment_id": "169472792",
+   "type": 11,
+   "heading": "Artigo 10.º — Projectos de obras dispensadas de licenciamento municipal",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 10.º — Projectos de obras dispensadas de licenciamento municipal\n\n1 - Os projectos de arquitectura de recintos cujas obras estejam dispensadas de licenciamento municipal, nos termos das alíneas b) a f) do n.º 1 do artigo 3.º do Decreto-Lei n.º 445/91, de 20 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 250/94, de 15 de Outubro, devem ser submetidos à aprovação do IND.\n\n2 - Os projectos devem ser acompanhados dos elementos constantes dos diplomas referidos no n.º 2 do artigo 4.º do presente diploma.\n\n3 - No prazo de 20 dias a contar da recepção do projecto, o IND pode solicitar, por uma única vez, a apresentação de outros elementos que considere indispensáveis à sua apreciação.\n\n4 - O IND deve pronunciar-se no prazo de 30 dias a contar da data da recepção do processo ou dos elementos pedidos nos termos do número anterior.\n\n5 - O IND deve dar conhecimento à câmara municipal dos projectos de alterações aos recintos com diversões aquáticas que aprove nos termos do presente artigo e do artigo anterior, mediante envio de cópia dos mesmos.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354347": {
+   "fragment_id": "169472795",
+   "type": 11,
+   "heading": "Artigo 12.º — Requerimento",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 12.º — Requerimento\n\n1 - Concluída a obra, o interessado deve requerer a emissão de licença de funcionamento ao presidente do IND.\n\n2 - A emissão da licença de funcionamento é sempre precedida de vistoria a efetuar por uma comissão composta por representantes do IPDJ, I. P., câmara municipal, ANPC, direção regional da economia e delegado de saúde regional, nos termos do artigo seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354356": {
+   "fragment_id": "169472796",
+   "type": 11,
+   "heading": "Artigo 13.º — Vistoria",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 13.º — Vistoria\n\n1 - A vistoria destina-se a verificar a adequação do recinto, do ponto de vista funcional, às diversões aquáticas, bem como a observância das normas estabelecidas no presente diploma e legislação complementar.\n\n2 - A vistoria deve realizar-se no prazo de 30 dias a contar da data da apresentação do requerimento referido no n.º 1 do artigo anterior e, sempre que possível, em data a acordar com o interessado.esentação do requerimento referido no n.º 1 do artigo anterior e, sempre que possível, em data a acordar com o interessado.\n\n3 - O IND pode solicitar a participação na vistoria de outras entidades cuja intervenção se revele necessária.\n\n4 - Da vistoria será elaborado o respectivo auto, do qual se fará menção no livro de obra, devendo ser entregue uma cópia daquele ao requerente.\n\n5 - Quando o auto de vistoria conclua em sentido desfavorável não pode ser emitida a licença de funcionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354348": {
+   "fragment_id": "169472797",
+   "type": 11,
+   "heading": "Artigo 14.º — Licença de funcionamento",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 14.º — Licença de funcionamento\n\n1 - A licença de funcionamento é emitida pelo IPDJ, I. P., no prazo de 15 dias a contar da data da realização da vistoria referida no artigo anterior, mediante a exibição do alvará de autorização de utilização emitido pela câmara municipal.\n\n2 - O decurso do prazo referido no número anterior sem que a licença de funcionamento seja emitida confere o direito a presumir que o pedido de licença se encontra deferido.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354349": {
+   "fragment_id": "169472798",
+   "type": 11,
+   "heading": "Artigo 15.º — Deferimento",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 15.º — Deferimento\n\nA não realização da vistoria no prazo fixado no n.º 2 do artigo 13.º ou a falta de decisão final no prazo referido no artigo anterior valem como deferimento do pedido de licença de funcionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354350": {
+   "fragment_id": "169472799",
+   "type": 11,
+   "heading": "Artigo 16.º — Alvará",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 16.º — Alvará\n\n1 - Deferido o pedido de licença de funcionamento, o respetivo alvará é emitido pelo IPDJ, I. P., no prazo de 15 dias a contar da data da apresentação do requerimento pelo interessado, desde que se mostrem pagas as taxas devidas, de montante a fixar por portaria do membro do Governo competente.\n\n2 - A falta de emissão do alvará previsto no número anterior confere ao interessado, desde que munido do alvará de autorização de utilização, o direito de presumir que o seu pedido de alvará se encontra deferido e, consequentemente, proceder ao início das atividades mediante comunicação ao IPDJ, I. P.\n\n3 - Do alvará da licença de funcionamento devem constar as seguintes indicações:\n\na) A identificação do recinto;\n\nb) O nome da entidade exploradora do recinto;\n\nc) As actividades a que o recinto se destina;\n\nd) A lotação do recinto para cada uma das actividades referidas na alínea anterior;\n\ne) A data da sua emissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354358": {
+   "fragment_id": "169472800",
+   "type": 11,
+   "heading": "Artigo 17.º — Intimação judicial",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 17.º — Intimação judicial\n\nNos casos de deferimento do pedido da licença de funcionamento e perante recusa injustificada ou falta de emissão do alvará respectivo no prazo previsto no n.º 1 do artigo anterior, pode o interessado pedir ao tribunal administrativo do círculo a intimação do presidente do IND para proceder à referida emissão, nos termos do artigo 62.º do Decreto-Lei n.º 445/91, de 20 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 250/94, de 15 de Outubro.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354351": {
+   "fragment_id": "169472801",
+   "type": 11,
+   "heading": "Artigo 18.º — Validade da licença",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 18.º — Validade da licença\n\n1 - A licença de funcionamento deve ser renovada, oficiosamente, pelo IPDJ, I. P., a cada três anos, no seguimento de nova vistoria a realizar nos termos dos n.os 1, 3 e 4 do artigo 13.º\n\n2 - Caso o IPDJ, I. P., não realize a vistoria referida no número anterior ou, no seu seguimento, não emita decisão expressa de manutenção ou revogação da licença de recinto, esta mantém-se válida, sem prejuízo da realização de vistorias extraordinárias por parte do IPDJ, I. P.\n\n3 - A concessão de nova licença de recinto por alteração das condições que fundaram a atribuição da licença original implica a realização de nova vistoria nos termos do artigo 13.º, devendo o IPDJ, I. P., promover simultaneamente, no prazo de 15 dias a contar da data da apresentação do requerimento, a consulta das entidades com responsabilidades nas áreas dos serviços, equipamentos e infraestruturas instaladas no recinto, sem prejuízo do disposto no artigo 29.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169472973": {
+   "fragment_id": "169473376",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Tramitação desmaterializada",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 19.º-A — Tramitação desmaterializada\n\nOs procedimentos administrativos previstos nos artigos anteriores que não devam ser tramitados nos termos do artigo 8.º-A do RJUE são-no no balcão único eletrónico dos serviços, referido nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do Portal da Empresa, sem prejuízo da utilização de outros meios legalmente admissíveis.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354352": {
+   "fragment_id": "169472804",
+   "type": 11,
+   "heading": "Artigo 20.º — Entidades com competência de fiscalização",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 20.º — Entidades com competência de fiscalização\n\n1 - A fiscalização do disposto no presente diploma e respectiva legislação complementar é da competência das câmaras municipais, do IND, do SNB, dos delegados regionais de saúde, das delegações regionais do Ministério da Economia e de outras entidades administrativas e policiais no âmbito das respectivas competências.\n\n2 - Ao IND compete fiscalizar o cumprimento das normas relativas ao funcionamento e condições de segurança dos recintos com diversões aquáticas.\n\n3 - Às câmaras municipais compete fiscalizar o estado e condições de segurança das edificações e construções que integram o conjunto do recinto.\n\n4 - Aos delegados regionais de saúde compete a fiscalização das condições hígio-sanitárias das instalações e equipamentos, cabendo-lhes, em especial, assegurar os níveis de qualidade da água previstos no regulamento previsto no artigo 3.º e respectivos anexos.\n\n5 - Às delegações regionais do Ministério da Economia compete fiscalizar a conformidade das instalações de distribuição e utilização de gás e energia eléctrica com as regras de segurança aplicáveis.\n\n6 - Compete à ANPC a fiscalização das instalações em matérias relacionadas com a segurança contra incêndios em edifícios.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354353": {
+   "fragment_id": "169472807",
+   "type": 11,
+   "heading": "Artigo 23.º — Contra-ordenações",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 23.º — Contra-ordenações\n\nSem prejuízo das contraordenações previstas no regulamento a aprovar, constituem contraordenações, puníveis com coimas de (euro) 250 a (euro) 44 000, os seguintes comportamentos:\n\na) O exercício de actividades próprias dos recintos com diversões aquáticas sem o necessário licenciamento;\n\nb) A oposição à realização de inspecções e vistorias pelas entidades competentes e a recusa de prestação a estas entidades dos elementos por elas solicitados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354354": {
+   "fragment_id": "169472810",
+   "type": 11,
+   "heading": "Artigo 26.º — Competência sancionatória",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 26.º — Competência sancionatória\n\n1 - É da competência do presidente do IPDJ, I. P., a aplicação das coimas de valor inferior a (euro) 22 000.\n\n2 - É da competência do membro do Governo da tutela a aplicação das coimas de valor igual ou superior a (euro) 22 000 e das sanções acessórias.\n\n3 - É da competência das câmaras municipais a aplicação das coimas devidas pela violação das normas cujo cumprimento lhes caiba assegurar, independentemente do valor em causa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  },
+  "169354355": {
+   "fragment_id": "169472812",
+   "type": 11,
+   "heading": "Artigo 28.º — Taxas",
+   "in_force_from": "2012-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+   ],
+   "markdown": "###### Artigo 28.º — Taxas\n\n1 - Pelas vistorias e inspeções realizadas ao abrigo do disposto no presente diploma são devidas taxas, cujo montante será fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças, do desporto, da economia, do mar, do ambiente, do ordenamento do território e da saúde.\n\n2 - O disposto no número anterior não se aplica aos processos de contra-ordenação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2012 - Diário da República n.º 71/2012, Série I de 2012-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538), em vigor a partir de 2012-04-11"
+  }
+ }
+}

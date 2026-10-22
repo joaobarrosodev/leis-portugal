@@ -1,0 +1,1677 @@
+---
+schema_version: '1.0'
+id: pt:dre:263679:por
+title: Decreto-Lei n.º 60/2002
+short_title: null
+summary: Aprova o novo regime jurídico dos fundos de investimento imobiliário, revogando o Decreto-Lei n.º 294/95, de 17 de
+  Novembro, alterado pelo Decreto-Lei n.º 323/97, de 26 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 60/2002
+official_date: null
+publication_date: '2002-03-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 67/2002, Série I-A de 2002-03-20
+  number: '67'
+  series: I
+  supplement: null
+  pages: 2604 - 2618
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/03/067a00/26042618.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-03-26'
+version_history:
+  file: decreto-lei-60-2002.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2002-03-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-01'
+    amending: pt:dre:476110:por
+    amending_title: Decreto-Lei n.º 252/2003
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+  - date: '2005-01-12'
+    amending: pt:dre:456834:por
+    amending_title: Decreto-Lei n.º 13/2005
+    changes:
+    - Adita Artigo 25.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 35.º
+    - Altera Artigo 38.º
+    - Altera Artigo 42.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera Capítulo V
+    - Altera Artigo 55.º
+    - Altera Artigo 57.º
+    - Altera Artigo 60.º
+  - date: '2007-11-01'
+    amending: pt:dre:241222:por
+    amending_title: Decreto-Lei n.º 357-A/2007
+    changes:
+    - Adita Artigo 21.º-A
+    - Altera Artigo 12.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 29.º
+    - Altera Artigo 39.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 48.º
+  - date: '2010-06-23'
+    amending: pt:dre:335466:por
+    amending_title: Decreto-Lei n.º 71/2010
+    changes:
+    - Adita Secção I
+    - Adita Artigo 58.º-A
+    - Adita Artigo 58.º-B
+    - Adita Artigo 58.º-C
+    - Adita Artigo 58.º-D
+    - Adita Artigo 58.º-E
+    - Adita Artigo 58.º-F
+    - Adita Secção II
+    - Adita Artigo 58.º-G
+    - Adita Artigo 58.º-H
+    - Adita Artigo 58.º-I
+    - Adita Artigo 58.º-J
+    - Adita Artigo 58.º-L
+    - Adita Artigo 58.º-M
+    - Adita Artigo 58.º-N
+    - Adita Artigo 58.º-O
+    - Adita Artigo 58.º-P
+    - Adita Capítulo VIII
+    - Altera Artigo 1.º
+    - Altera Capítulo VII
+    - Altera Artigo 60.º
+  - date: '2015-03-26'
+    amending: pt:dre:66581992:por
+    amending_title: Lei n.º 16/2015
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/60/2002/p/cons/20150224/pt/html
+  oj: null
+  dre: '263679'
+  dre_path: /dr/detalhe/decreto-lei/60-2002-263679
+  internal: pt:dre:263679:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2002-263679
+  metadata_url: https://data.dre.pt/eli/dec-lei/60/2002/p/cons/20150224/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-119674831
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-119674831
+  retrieved_at: '2026-10-22T12:24:43Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6979c32a9a573ebc899f9536703b617260121c0560fdb623b17f962ab676c25c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:24:43Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-60-2002.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fundo de Investimento Imobiliário
+- Mercado de Valores
+- Mercado Imobiliário
+- Regime Jurídico
+- Sociedade Gestora de Fundos de Investimento
+relationships:
+- type: amended_by
+  target: pt:dre:476110:por
+  label: Altera Artigo 6.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2003-476110
+  date: '2003-10-17'
+- type: amended_by
+  target: pt:dre:456834:por
+  label: Adita Artigo 25.º-A; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 20.º; Altera Artigo 25.º; Altera Artigo 26.º;
+    Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 33.º; Altera Artigo 35.º; Altera Artigo 38.º; Altera Artigo 42.º;
+    Altera Artigo 45.º; Altera Artigo 46.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834
+  date: '2005-01-07'
+- type: amended_by
+  target: pt:dre:241222:por
+  label: Adita Artigo 21.º-A; Altera Artigo 12.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo
+    22.º; Altera Artigo 23.º; Altera Artigo 29.º; Altera Artigo 39.º; Altera Artigo 42.º; Altera Artigo 43.º; Altera Artigo
+    48.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:626446:por
+  label: Adita Artigo 21.º-A; Altera Artigo 12.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo
+    22.º; Altera Artigo 23.º; Altera Artigo 29.º; Altera Artigo 39.º; Altera Artigo 42.º; Altera Artigo 43.º; Altera Artigo
+    48.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446
+  date: '2008-11-03'
+- type: amended_by
+  target: pt:dre:335466:por
+  label: Adita Secção I; Adita Artigo 58.º-A; Adita Artigo 58.º-B; Adita Artigo 58.º-C; Adita Artigo 58.º-D; Adita Artigo
+    58.º-E; Adita Artigo 58.º-F; Adita Secção II; Adita Artigo 58.º-G; Adita Artigo 58.º-H; Adita Artigo 58.º-I; Adita Artigo
+    58.º-J; Adita Artigo 58.º-L; Adita Artigo 58.º-M; Adita Artigo 58.º-N; Adita Artigo 58.º-O; Adita Artigo 58.º-P; Adita
+    Capítulo VIII; Altera Artigo 1.º; Altera Capítulo VII
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992
+  date: '2015-02-24'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/294/1995/11/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/294/1995/11/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/323/1997/11/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/323/1997/11/26/p/dre
+article_structure:
+  article_count: 83
+  section_count: 21
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:24:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 60/2002
+
+Decreto-Lei n.º 60/2002
+
+de 20 de Março
+
+A presente revisão do regime jurídico dos fundos de investimento imobiliário (FII) pretende situar-se numa linha de continuidade com a reforma de 1995, desenvolvendo, com base na experiência adquirida, a evolução então iniciada, bem como, na sequência dos objectivos subjacentes à aprovação do Código dos Valores Mobiliários, em 1999, dotar o regime jurídico de acrescida simplicidade e flexibilidade, sem prejuízo de medidas de rigor e inovação.
+
+Neste sentido, restringe-se o âmbito do diploma às questões essenciais de regime, deixando para a Comissão do Mercado de Valores Mobiliários (CMVM) o respectivo desenvolvimento por via regulamentar, cujo objecto e conteúdo são agora ampliados, de modo a permitir uma mais rápida adaptação e actualização, em função da evolução do próprio mercado.
+
+Por outro lado, sem prejuízo dos aspectos comuns de regime, diferenciam-se as exigências a aplicar aos fundos abertos e fechados e, dentro destes, aos fundos objecto de subscrição pública e particular, e cria-se um novo tipo de fundos, designado «fundos mistos». Através de uma regulamentação específica ligeira e flexível - que pressupõe a aplicação tendencial do regime dos fundos abertos e dos fundos fechados, respectivamente, à parte variável e à parte fixa do respectivo capital - pretendeu-se colocar à disposição da indústria um instrumento que, apresentando possibilidades de investimento intermédias entre os fundos abertos e os fundos fechados, permita associar aos capitais de um núcleo estável de investidores predominantemente institucionais, recursos captados junto do público e reembolsáveis a todo o tempo de acordo com um regime próximo do das obrigações emitidas por sociedades anónimas.
+
+Adicionalmente, são também formuladas regras destinadas a fornecer um quadro de referência em matéria de subcontratação, incluindo o recurso aos serviços de colocação de unidades de participação, de modo a permitir enquadrar em termos mais adequados a prática da indústria de fundos nesta matéria.
+
+Outra nota merecedora de relevo prende-se com o reforço do papel dos peritos avaliadores, dada a importância de tal actividade, não apenas enquanto serviço prestado às sociedades gestoras de fundos, mas fundamentalmente enquanto garantia adicional, perante o mercado e os investidores em geral, do rigor e objectividade essenciais à actividade de avaliação de imóveis. Daí que, tendo em vista tais objectivos, bem como contribuir para assegurar a isenção e independência dos avaliadores, se preveja a possibilidade de virem os mesmos a ser objecto de registo junto da CMVM.
+
+Mais detalhadamente, salientam-se ainda o prosseguimento da separação do regime dos FII relativamente ao dos fundos de investimento mobiliário (FIM), encetada pelo Decreto-Lei n.º 294/95, de 17 de Novembro, quer no plano formal (através da aprovação de um diploma distinto) quer em alguns aspectos de substância. Apesar desse esforço, que tem de reconhecer-se, a tarefa ficou inacabada no objectivo, que agora se cumpre, de retirar todas as ilações da diversidade dos activos em que investem predominantemente as duas grandes categorias de fundos de investimento e dos mercados em que se realizam as respectivas transacções.
+
+Por outro lado, justifica-se igualmente uma diferenciação mais marcada entre o regime dos fundos abertos e o dos fundos fechados, relativamente aos quais a identidade de designação esconde diferenças profundas de natureza e de pressupostos de regulamentação. Assim, admite-se explicitamente o desenvolvimento de projectos de construção de imóveis estabelecendo, no entanto, limites precisos para os investimentos dos FII nesta área, os quais são consideravelmente mais baixos no caso dos fundos abertos.
+
+Ainda no âmbito da «promoção imobiliária», refira-se que a sucessão de regimes jurídicos levanta complicados problemas, designadamente quanto aos fundos que excedem os limites agora impostos. Optou-se, por isso, por consagrar a possibilidade de prorrogação, mediante autorização da CMVM, do prazo previsto para o cumprimento dos restantes limites de composição do património. Desta forma, as entidades gestoras poderão evitar a realização de alienações precipitadas, com inevitáveis prejuízos para os participantes.
+
+No que respeita à possibilidade de detenção de participações em sociedades imobiliárias, o regime projectado afasta completamente essa possibilidade por razões de transparência.
+
+Em contrapartida, o presente diploma vem admitir expressamente sem qualquer limite o investimento em imóveis localizados nos Estados-Membros da União Europeia e, em parte por isso, confere uma maior abertura no tocante às situações jurídicas no âmbito das quais os imóveis podem ser integrados no património dos fundos, bem como às modalidades contratuais que, para além do arrendamento, podem ser utilizadas na sua administração.
+
+De uma certa liberalização pode também falar-se relativamente às transacções do fundo com entidades ligadas à entidade gestora na medida em que, em vez da proibição absoluta, a aquisição de imóveis pelo fundo passa a estar sujeita ao mesmo regime - autorização da CMVM - até aqui aplicável à alienação e ao arrendamento. A solução geral adoptada para estas situações de conflito de interesses consiste numa análise caso a caso pela CMVM, com base nos pareceres dos peritos avaliadores e nas informações complementares apresentadas pela sociedade gestora. Em nenhum caso poderá ser autorizada uma transacção por preço menos favorável do que o resultante da avaliação dos peritos, podendo a Comissão solicitar o parecer de um terceiro perito.
+
+Uma importante alteração relativamente ao regime anterior diz ainda respeito ao modo de aferição dos limites de composição do património, passando a média dos últimos seis meses a ser a referência a considerar, em substituição do valor que pontualmente ultrapasse os limites previstos na lei.
+
+Na regulamentação específica aplicável regista-se também uma clara diferenciação de limites e rácios de composição de carteiras, apresentando naturalmente os fundos fechados um menor nível de exigência. Neste domínio o projecto vai ainda mais longe ao individualizar a categoria dos «fundos fechados de subscrição particular». Estes fundos, reservados a investidores institucionais e, na grande maioria dos casos, tendo na realidade um número limitado de investidores ligados entre si e ou à entidade gestora, ficarão sujeitos a um conjunto mais limitado de regras que se destinam a criar um enquadramento normativo mais adequado às suas características.
+
+No que respeita à valorização dos imóveis que integram o património do fundo, o projecto não resolve directamente o problema, remetendo essa resolução para regulamento da CMVM e procurando, por essa via, uma maior aproximação dos métodos de avaliação seguidos pelas entidades gestoras, acompanhada de um nível de disclosure mais exigente neste domínio.
+
+Refira-se, por fim, que num importante conjunto de matérias em que não relevam as mencionadas particularidades dos FII, o presente diploma teve em conta e incorporou as modificações introduzidas pela recente revisão do regime dos FIM. Neste âmbito, destacam-se as regras sobre informação em geral, agora aperfeiçoadas com base num regime de publicitação mais flexível, bem como as regras sobre informação a prestar ao investidor através da adopção de um documento semelhante ao prospecto simplificado.
+
+A importância das alterações que o presente diploma consagra para o reforço da eficiência, integridade, competitividade e transparência do mercado dos fundos de investimento imobiliário, particularmente importantes num momento de recessão económica, em que os fundos assumem um papel primordial na canalização da poupança, por um lado, a larga vacatio legis e o período de adaptação consagrados, por outro, as grandes expectativas criadas no mercado em torno das mesmas, por fim, justificam a estrita necessidade e urgência na aprovação do presente diploma.
+
+Foram ouvidos o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários, as associações representativas das instituições do sector e as associações representativas do consumidor.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Regime jurídico dos fundos de investimento imobiliário
+
+É aprovado o regime jurídico dos fundos de investimento imobiliário, que faz parte integrante do presente decreto-lei.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 2.º — Entrada em vigor
+
+O regime jurídico dos fundos de investimento imobiliário entra em vigor 90 dias após a publicação do presente diploma, sem prejuízo do disposto nos artigos seguintes.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 3.º — Regulamentação
+
+O disposto no artigo anterior não prejudica a aprovação e publicação pela Comissão do Mercado de Valores Mobiliários, adiante designada por CMVM, em data anterior, da regulamentação necessária à aplicação do presente diploma.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 4.º — Fundos de investimento imobiliário em actividade
+
+1 - Os fundos de investimento imobiliário em actividade à data da entrada em vigor do presente diploma devem adaptar-se ao novo regime no prazo de um ano a contar dessa data.
+
+2 - Os fundos de investimento imobiliário devem adequar progressivamente a composição do seu património às regras estabelecidas no presente diploma, não podendo, desde a data da sua entrada em vigor, adquirir qualquer activo ou realizar qualquer operação que lhes esteja vedada pelo presente diploma ou que agrave as situações de ultrapassagem dos limites estabelecidos no mesmo.
+
+3 - Os fundos de investimento imobiliário que, à data da entrada em vigor do presente diploma, tenham um número de participantes inferior a 200 ficam sujeitos ao disposto no artigo 48.º do regime jurídico dos fundos de investimento imobiliário, se tal for requerido pela entidade gestora, com o acordo da totalidade dos participantes, no prazo de três meses a contar da referida data.
+
+4 - Nas situações em que, à data da entrada em vigor do presente diploma, se verifique a ultrapassagem do rácio de concentração por arrendatário, deve a entidade gestora, considerado o interesse dos participantes, ter por objectivo prioritário a respectiva regularização.
+
+5 - As entidades gestoras de fundos de investimento imobiliário devem enviar à CMVM, nos termos e prazo por esta definidos em regulamento, informação completa sobre todas as situações de desconformidade das regras do presente diploma, relativamente às matérias de composição do património e das actividades ou operações levadas a cabo pelos fundos de investimento imobiliário sob a sua administração.
+
+6 - As entidades gestoras devem ainda enviar à CMVM, no 9.º mês subsequente à data de entrada em vigor do presente diploma, relatório descritivo das medidas adoptadas em cumprimento do disposto no presente artigo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 5.º — Pedidos de constituição
+
+Os pedidos de constituição de fundos de investimento imobiliário sobre os quais ainda não tenha recaído decisão na data de entrada em vigor do presente diploma devem adequar-se ao disposto no presente diploma.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 6.º — Disposição revogatória
+
+Com a entrada em vigor do regime jurídico dos fundos de investimento imobiliário é revogado o Decreto-Lei n.º 294/95, de 17 de Novembro, alterado pelo Decreto-Lei n.º 323/97, de 26 de Novembro.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António José Martins Seguro.
+
+Promulgado em 1 de Março de 2002.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 7 de Março de 2002.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+REGIME JURÍDICO DOS FUNDOS DE INVESTIMENTO IMOBILIÁRIO
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+## Anexo
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+#### Secção I — Dos fundos de investimento imobiliário
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 1.º — Âmbito
+
+A constituição e o funcionamento dos fundos de investimento imobiliário e das sociedades de investimento imobiliário, bem como a comercialização das respectivas unidades de participação e acções, obedecem ao disposto no presente decreto-lei e, subsidiariamente, ao disposto no Código dos Valores Mobiliários.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 2.º — Noção
+
+1 - Os fundos de investimento imobiliário, adiante designados apenas por fundos de investimento, são instituições de investimento colectivo, cujo único objectivo consiste no investimento, nos termos previstos no presente diploma e na respectiva regulamentação, dos capitais obtidos junto dos investidores e cujo funcionamento se encontra sujeito a um princípio de repartição de riscos.
+
+2 - Os fundos de investimento constituem patrimónios autónomos, pertencentes, no regime especial de comunhão regulado pelo presente diploma, a uma pluralidade de pessoas singulares ou colectivas designadas «participantes», sem prejuízo do disposto no artigo 48.º, que não respondem, em caso algum, pelas dívidas destes ou das entidades que, nos termos da lei, asseguram a sua gestão.
+
+3 - A designação «fundo de investimento imobiliário» só pode ser utilizada relativamente aos fundos de investimento que se regem pelo presente diploma.
+
+4 - As sociedades de investimento imobiliário regem-se por legislação especial.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 3.º — Tipos
+
+1 - Os fundos de investimento podem ser abertos, fechados ou mistos.
+
+2 - São abertos os fundos de investimento cujas unidades de participação são em número variável.
+
+3 - São fechados os fundos de investimento cujas unidades de participação são em número fixo.
+
+4 - São mistos os fundos de investimento em que existem duas categorias de unidades de participação, sendo uma em número fixo e outra em número variável.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 4.º — Unidades de participação
+
+1 - Os fundos de investimento são divididos em partes de conteúdo idêntico, sem prejuízo do disposto no n.º 1 do artigo 50.º, denominadas «unidades de participação».
+
+2 - As unidades de participação com o mesmo conteúdo constituem uma categoria.
+
+3 - Sem prejuízo do disposto no artigo 51.º, podem ser previstas em regulamento da Comissão do Mercado de Valores Mobiliários (CMVM) unidades de participação com direitos ou características especiais, designadamente quanto ao grau de preferência no pagamento dos rendimentos periódicos, no reembolso do seu valor, ou no pagamento do saldo de liquidação do respectivo fundo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 5.º — Domicílio
+
+Consideram-se domiciliados em Portugal os fundos de investimento administrados por sociedade gestora cuja sede esteja situada em território português.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+#### Secção II — Da sociedade gestora
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 6.º — Administração dos fundos
+
+1 - Sem prejuízo do disposto no número seguinte, a administração dos fundos de investimento imobiliário é exercida por uma sociedade gestora de fundos de investimento imobiliário, adiante designada por sociedade gestora, com sede principal e efectiva da administração em Portugal.
+
+2 - A administração dos fundos de investimento imobiliário pode também ser exercida por uma sociedade gestora de fundos de investimento mobiliário, sendo-lhe aplicáveis as regras definidas no presente diploma para as sociedades gestoras e para os fundos de investimento imobiliário que administrem.
+
+3 - As sociedades gestoras de fundos de investimento imobiliário têm por objecto principal a administração, em representação dos participantes, de um ou mais fundos de investimento imobiliário, podendo ainda:
+
+a) Prestar serviços de consultoria para investimento imobiliário, incluindo a realização de estudos e análises relativos ao mercado imobiliário;
+
+b) Proceder à gestão individual de patrimónios imobiliários em conformidade com as disposições legais e regulamentares aplicáveis à gestão de carteiras por conta de outrem.
+
+4 - As sociedades gestoras não podem transferir totalmente para terceiros os poderes de administração e gestão das carteiras, colectivas ou individuais, que lhe são conferidos por lei.
+
+5 - As sociedades gestoras não podem transferir total ou parcialmente para terceiros os poderes de administração dos fundos de investimento que lhe são conferidos por lei.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 252/2003 - Diário da República n.º 241/2003, Série I-A de 2003-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2003-476110), em vigor a partir de 2004-01-01
+
+###### Artigo 7.º — Tipo de sociedade e capital
+
+As sociedades gestoras adoptam a forma de sociedade anónima, sendo o respectivo capital social representado por acções nominativas.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 8.º — Administração e trabalhadores
+
+É vedado aos trabalhadores e aos membros dos órgãos de administração da entidade gestora que exerçam funções de decisão e execução de investimentos exercer quaisquer funções noutra sociedade gestora de fundos de investimento.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 9.º — Funções
+
+1 - As sociedades gestoras, no exercício das suas funções, devem actuar no interesse exclusivo dos participantes.
+
+2 - Compete às sociedades gestoras, em geral, a prática de todos os actos e operações necessários ou convenientes à boa administração do fundo de investimento, de acordo com critérios de elevada diligência e competência profissional, e, em especial:
+
+a) Seleccionar os valores que devem constituir o fundo de investimento, de acordo com a política de investimentos prevista no respectivo regulamento de gestão;
+
+b) Celebrar os negócios jurídicos e realizar todas as operações necessárias à execução da política de investimentos prevista no regulamento de gestão e exercer os direitos directa ou indirectamente relacionados com os valores do fundo de investimento;
+
+c) Efectuar as operações adequadas à execução da política de distribuição dos resultados prevista no regulamento de gestão do fundo de investimento;
+
+d) Emitir, em ligação com o depositário, as unidades de participação e autorizar o seu reembolso;
+
+e) Determinar o valor patrimonial das unidades de participação;
+
+f) Manter em ordem a escrita do fundo de investimento;
+
+g) Dar cumprimento aos deveres de informação estabelecidos por lei ou pelo regulamento de gestão.
+
+h) Controlar e supervisionar as actividades inerentes à gestão dos activos do fundo de investimento, nomeadamente o desenvolvimento dos projectos objecto de promoção imobiliária nas suas respectivas fases.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 10.º — Fundos próprios
+
+1 - Sem prejuízo do disposto no número seguinte, os fundos próprios das sociedades gestoras não podem ser inferiores às seguintes percentagens do valor líquido global dos fundos de investimento que administrem:
+
+a) Até 75 milhões de euros - 0,5%;
+
+b) No excedente - 0,1%.
+
+2 - As sociedades gestoras que exerçam a actividade referida na alínea b) do n.º 3 do artigo 6.º ficam ainda sujeitas, no que se refere à sua actividade, às normas prudenciais específicas aplicáveis às sociedades gestoras de patrimónios.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 252/2003 - Diário da República n.º 241/2003, Série I-A de 2003-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2003-476110), em vigor a partir de 2004-01-01
+
+###### Artigo 11.º — Operações vedadas
+
+Às sociedades gestoras é especialmente vedado:
+
+a) Contrair empréstimos por conta própria;
+
+b) Adquirir, por conta própria, unidades de participação de fundos de investimento imobiliário ou mobiliário, com excepção dos fundos de tesouraria;
+
+c) Adquirir por conta própria outros valores mobiliários de qualquer natureza, com excepção dos de dívida pública, de títulos de participação e de obrigações admitidas à negociação em mercado regulamentado que tenham sido objecto de notação, correspondente pelo menos à notação A ou equivalente, por uma empresa de rating registada na CMVM ou internacionalmente reconhecida;
+
+d) Conceder crédito, incluindo prestação de garantias, por conta própria;
+
+e) Adquirir, por conta própria, imóveis que não sejam indispensáveis à sua instalação e funcionamento ou à prossecução do seu objecto social;
+
+f) Efectuar, por conta própria, vendas a descoberto sobre valores mobiliários.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+#### Secção III — Do depositário
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 12.º — Requisitos
+
+1 - Os valores mobiliários que constituam património do fundo de investimento devem ser confiados a um único depositário.
+
+2 - Podem ser depositárias as instituições de crédito referidas nas alíneas a) a f) do artigo 3.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, que disponham de fundos próprios não inferiores a 7,5 milhões de euros.
+
+3 - O depositário deve ter a sua sede em Portugal ou, se tiver sede noutro Estado-Membro da Comunidade Europeia, deve estar estabelecido em Portugal através de sucursal.
+
+4 - A substituição do depositário é comunicada à CMVM e torna-se eficaz 15 dias após a sua efectiva recepção, podendo a CMVM, neste período, deduzir oposição.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+###### Artigo 13.º — Funções
+
+1 - Compete, designadamente, ao depositário:
+
+a) Assumir uma função de vigilância e garantir perante os participantes o cumprimento da lei e do regulamento de gestão do fundo de investimento, especialmente no que se refere à política de investimentos e ao cálculo do valor patrimonial das unidades de participação;
+
+b) Pagar aos participantes a sua quota-parte dos resultados do fundo de investimento;
+
+c) Executar as instruções da sociedade gestora, salvo se forem contrárias à lei ou ao regulamento de gestão;
+
+d) Receber em depósito ou inscrever em registo os valores mobiliários do fundo de investimento;
+
+e) Assegurar o reembolso aos participantes, dos pedidos de resgate das unidades de participação.
+
+2 - Compete ainda ao depositário o registo das unidades de participação representativas do fundo de investimento não integradas em sistema centralizado.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+#### Secção IV — Relações entre a sociedade gestora e o depositário
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 14.º — Separação e independência
+
+1 - As funções de administração e de depositário são, relativamente ao mesmo fundo de investimento, exercidas por entidades diferentes.
+
+2 - A sociedade gestora e o depositário, no exercício das suas funções, devem agir de modo independente e no exclusivo interesse dos participantes.
+
+3 - As relações entre a sociedade gestora e o depositário são regidas por contrato escrito, sendo enviada à CMVM uma cópia do mesmo e das suas alterações.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 15.º — Responsabilidade
+
+1 - A sociedade gestora e o depositário respondem solidariamente perante os participantes pelo cumprimento das obrigações contraídas nos termos da lei e do regulamento de gestão.
+
+2 - A sociedade gestora e o depositário respondem, designadamente, pelos prejuízos causados aos participantes em consequência de erros e irregularidades na valorização do património do fundo de investimento e na distribuição dos resultados, definindo a CMVM, por regulamento, os termos de prestação das informações à CMVM e as condições em que os participantes devem ser compensados.
+
+3 - O recurso por parte da sociedade gestora ou do depositário a serviços de terceiras entidades não afecta a responsabilidade prevista no n.º 1.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 16.º — Remuneração
+
+1 - As remunerações dos serviços prestados pela sociedade gestora e pelo depositário constam expressamente do regulamento de gestão do fundo de investimento, podendo a comissão de gestão incluir uma parcela calculada em função do desempenho do fundo de investimento.
+
+2 - O regulamento de gestão pode ainda prever a existência de comissões de subscrição e de resgate.
+
+3 - A CMVM pode regulamentar o disposto no presente artigo, designadamente quanto às condições em que são admitidas as comissões de desempenho e ao destino das receitas ou proveitos pagos à entidade gestora ou a entidades que com ela se encontrem em relação de domínio ou de grupo em consequência directa ou indirecta do exercício da sua actividade.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+#### Secção V — Das entidades colocadoras e da subcontratação
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 17.º — Entidades comercializadoras
+
+1 - As unidades de participação de fundos de investimento são colocadas pelas entidades comercializadoras.
+
+2 - Podem ser entidades comercializadoras de unidades de participação:
+
+a) As entidades gestoras;
+
+b) Os depositários;
+
+c) Os intermediários financeiros registados ou autorizados junto da CMVM para o exercício das actividades de colocação em ofertas públicas de distribuição ou de recepção e transmissão de ordens por conta de outrem;
+
+d) Outras entidades como tal previstas em regulamento da CMVM.
+
+3 - As relações entre a entidade gestora e as entidades comercializadoras regem-se por contrato escrito.
+
+4 - As entidades comercializadoras respondem, solidariamente com a entidade gestora, perante os participantes, pelos danos causados no exercício da sua actividade.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 18.º — Subcontratação
+
+As entidades gestoras podem recorrer a serviços de terceiras entidades idóneas e habilitadas para o efeito que se revelem convenientes para o exercício da sua actividade, designadamente os de prestação de conselhos especializados sobre as aplicações no âmbito da política de investimentos previamente definida e de execução das operações, sujeita às instruções e responsabilidade das sociedades gestoras, devendo as relações entre a sociedade gestora e estas entidades ser regidas por contrato escrito.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+#### Secção VI — Da divulgação de informações
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 19.º — Meios de divulgação
+
+1 - Salvo disposição em contrário, os deveres de informação consagrados no presente diploma são cumpridos, em alternativa, através de publicação num jornal de grande circulação em Portugal, através de publicação no boletim editado pela entidade gestora de mercado regulamentado que, em regulamento da CMVM, seja considerado mais representativo, ou através de divulgação no sistema de difusão de informações da CMVM.
+
+2 - Nos casos em que se efectue a publicação através de jornal ou do boletim referidos no número anterior, devem as sociedades gestoras enviar à CMVM uma cópia da publicação realizada, no prazo de três dias a contar da data da mesma.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+### Capítulo II — Acesso e exercício da actividade
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+#### Secção I — Acesso à actividade
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 20.º — Autorização dos fundos
+
+1 - A constituição de fundos de investimento imobiliário está sujeita a autorização simplificada da CMVM.
+
+2 - A autorização prevista no número anterior não implica, por parte da CMVM, qualquer garantia quanto ao conteúdo e à informação constante do regulamento de gestão e do prospecto do fundo de investimento.
+
+3 - O pedido de autorização, subscrito pela sociedade gestora, é instruído com os seguintes documentos:
+
+a) Projecto do regulamento de gestão e do prospecto;
+
+b) Projecto dos contratos a celebrar com o depositário, com as entidades comercializadoras e, sendo o caso, com as entidades referidas no artigo 18.º;
+
+c) Documentos comprovativos de aceitação de funções de todas as entidades envolvidas na actividade do fundo de investimento imobiliário.
+
+4 - A CMVM pode solicitar à sociedade gestora informações complementares ou sugerir as alterações aos documentos que considere necessárias.
+
+5 - A decisão de autorização é notificada aos requerentes no prazo de 15 dias a contar da data da recepção do pedido ou, se for caso disso, das informações complementares, ou das alterações aos documentos referidas número anterior.
+
+6 - A ausência de notificação no prazo referido no número anterior implica o indeferimento tácito do pedido.
+
+7 - A autorização caduca se a sociedade gestora a ela expressamente renunciar ou se o fundo de investimento não se constituir no prazo de 180 dias após a data de recepção da notificação da autorização.
+
+8 - A CMVM pode revogar a autorização do fundo de investimento:
+
+a) Em virtude da violação de normas legais, regulamentares ou constantes do regulamento de gestão ou do prospecto, pela entidade gestora, se o interesse dos participantes e a defesa do mercado o justificarem;
+
+b) Se nos 12 meses subsequentes à data da constituição do fundo de investimento este não atingir um património de (euro) 5 000 000 ou não obedecer aos critérios de dispersão definidos em regulamento da CMVM.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 21.º — Constituição dos fundos
+
+O fundo de investimento considera-se constituído no momento em que a importância correspondente à primeira subscrição de unidades de participação for integrada no respectivo activo, devendo esta data ser comunicada à CMVM.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 21.º-A — Eficácia das alterações aos contratos
+
+As alterações aos contratos celebrados pela entidade gestora com o depositário, as entidades comercializadoras e, sendo o caso, com as entidades referidas no artigo 18.º, tornam-se eficazes 15 dias úteis após a sua comunicação à CMVM.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+#### Secção II — Do exercício da actividade em geral
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 22.º — Regulamento de gestão
+
+1 - A sociedade gestora elabora e mantém actualizado, relativamente a cada fundo de investimento, um regulamento de gestão que contém os elementos identificadores do fundo de investimento, da sociedade gestora e do depositário, e ainda os direitos e obrigações dos participantes, da sociedade gestora e do depositário, a política de investimentos do fundo de investimento e as condições da sua liquidação, devendo indicar, nomeadamente:
+
+a) A denominação do fundo de investimento, que contém a expressão «Fundo de Investimento Imobiliário», ou a abreviatura «F. I. Imobiliário», e a identificação do tipo não podendo aquela estar em desacordo com as políticas de investimentos e de distribuição dos resultados do fundo de investimento;
+
+b) A duração do fundo de investimento;
+
+c) O valor inicial das unidades de participação para efeitos de constituição do fundo de investimento;
+
+d) Os direitos inerentes às unidades de participação;
+
+e) A denominação e a sede da sociedade gestora;
+
+f) A denominação e a sede do depositário;
+
+g) As entidades colocadoras e os meios de comercialização das unidades de participação;
+
+h) A política de investimentos, de forma a identificar o seu objectivo, as actividades a desenvolver, designadamente no que respeita à aquisição de imóveis para revenda ou para arrendamento e o desenvolvimento de projectos de construção de imóveis, e o nível de especialização sectorial ou geográfica dos valores que integram o fundo de investimento;
+
+i) A política de distribuição dos resultados do fundo de investimento, definida objectivamente por forma, em especial, a permitir verificar se se trata de um fundo de investimento de capitalização ou de um fundo de investimento com distribuição, total ou parcial, dos resultados, e, neste caso, quais os critérios e periodicidade dessa distribuição;
+
+j) A possibilidade de endividamento e, caso prevista, a finalidade e limites do mesmo;
+
+l) O valor, modo de cálculo e as condições de cobrança das comissões referidas no artigo 16.º;
+
+m) Todos os encargos que, para além da comissão de gestão e de depósito, são suportados pelo fundo de investimento, nas condições a definir por regulamento da CMVM;
+
+n) O auditor do fundo de investimento;
+
+o) Outros elementos exigidos pela CMVM que, tendo em conta as especificidades apresentadas pelo fundo de investimento, sejam considerados relevantes.
+
+2 - O regulamento de gestão deve ser colocado à disposição dos interessados nas instalações da sociedade gestora e do depositário e em todos os locais e através dos meios previstos para a comercialização das unidades de participação do fundo de investimento.
+
+3 - As alterações ao regulamento de gestão são comunicadas previamente à CMVM, podendo esta deduzir oposição no prazo de 15 dias a contar desta comunicação e, salvo as referidas no n.º 2 do artigo 39.º, tornam-se eficazes após o decurso daquele prazo.
+
+4 - Excluem-se do disposto no número anterior, efectuando-se por mera comunicação à CMVM, e tornando-se eficazes no momento da comunicação, as alterações relativas às seguintes matérias:
+
+a) Denominação e sede da entidade gestora, do depositário ou das entidades comercializadoras;
+
+b) Órgãos sociais da entidade gestora;
+
+c) Inclusão de novas entidades comercializadoras;
+
+d) Redução dos montantes globais cobrados a título de comissões de gestão, depósito, subscrição, resgate e transferência;
+
+e) Actualizações de elementos sujeitos a comunicação prévia à CMVM;
+
+f) Actualização de dados quantitativos;
+
+g) Meras adaptações a alterações legislativas ou regulamentares.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+###### Artigo 23.º — Prospecto
+
+1 - A sociedade gestora elabora e mantém actualizado, relativamente a cada fundo de investimento, um prospecto, cujo conteúdo, definido por regulamento da CMVM, permita ao investidor tomar uma decisão esclarecida sobre o investimento que lhe é proposto.
+
+2 - O prospecto deve conter menção esclarecendo que o mesmo inclui apenas a informação essencial sobre cada fundo de investimento e que informação mais detalhada, incluindo o regulamento de gestão e os documentos de prestação de contas do fundo de investimento, pode ser consultada pelos interessados nas instalações da sociedade gestora e do depositário e em todos os locais e através dos meios previstos para a comercialização das unidades de participação do fundo de investimento.
+
+3 - Às alterações ao prospecto que não digam respeito ao conteúdo do regulamento de gestão é aplicável o disposto no n.º 4 do artigo anterior.
+
+4 - Todas as acções publicitárias relativas ao fundo de investimento informam da existência do prospecto a que se refere este artigo, dos locais onde este pode ser obtido e dos meios da sua obtenção.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+###### Artigo 24.º — Subscrição de unidades de participação
+
+1 - Previamente à subscrição das unidades de participação, junto da sociedade gestora ou através das entidades colocadoras, deverá ser entregue aos subscritores um exemplar actualizado do prospecto.
+
+2 - A subscrição de unidades de participação implica a aceitação do regulamento de gestão e confere à sociedade gestora os poderes necessários para realizar os actos de administração do fundo de investimento.
+
+3 - As unidades de participação de um fundo de investimento não podem ser emitidas sem que a importância correspondente ao preço de subscrição seja efectivamente integrada no activo do fundo de investimento, salvo se se tratar de desdobramento de unidades já existentes.
+
+4 - A CMVM pode definir, por regulamento, regras adicionais sobre a comercialização de unidades de participação dos fundos de investimento, em especial no que respeita às medidas destinadas a assegurar a prestação de informação adequada aos investidores nas diferentes modalidades de subscrição, quer presencial, quer à distância, e quanto à comercialização das unidades de participação fora do território português.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 25.º — Activo do fundo
+
+1 - O activo de um fundo de investimento apenas pode ser constituído por imóveis e, a título acessório, por liquidez, sem prejuízo do disposto no n.º 7.
+
+2 - Os imóveis podem integrar o activo de um fundo de investimento em direito de propriedade, de superfície, ou através de outros direitos com conteúdo equivalente, devendo encontrar-se livres de ónus ou encargos que dificultem excessivamente a sua alienação.
+
+3 - Os imóveis detidos pelos fundos de investimento imobiliário correspondem a prédios urbanos ou fracções autónomas, podendo a CMVM definir em regulamento outros valores, designadamente prédios rústicos ou mistos, unidades de participação em fundos de investimento imobiliário e outros activos equiparáveis que possam integrar o activo de um fundo de investimento.
+
+4 - Só podem ser constituídos os fundos de investimento imobiliário previstos no presente diploma ou em regulamento da CMVM desde que, neste caso, sejam asseguradas adequadas condições de transparência e prestação de informação, em função das suas características.
+
+5 - Não podem ser adquiridos para os fundos de investimento imóveis em regime de compropriedade, excepto no que respeita à compropriedade de imóveis funcionalmente ligados à exploração de fracções autónomas do fundo de investimento e do disposto no número seguinte.
+
+6 - Os fundos de investimento imobiliário podem adquirir imóveis em regime de compropriedade com outros fundos de investimento ou fundos de pensões, devendo existir, consoante seja aplicável, um acordo sobre a constituição da propriedade horizontal ou sobre a repartição dos rendimentos gerados pelo imóvel.
+
+7 - Considera-se liquidez, para efeitos do disposto no n.º 1, numerário, depósitos bancários, certificados de depósito, unidades de participação de fundos de tesouraria e valores mobiliários emitidos ou garantidos por um Estado-Membro da Comunidade Europeia com prazo de vencimento residual inferior a 12 meses.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 25.º-A — Participações em sociedades imobiliárias
+
+1 - O activo de um fundo de investimento pode ainda ser constituído por participações em sociedades imobiliárias desde que:
+
+a) O objecto social da sociedade imobiliária se enquadre exclusivamente numa das actividades que podem ser directamente desenvolvidas pelos fundos de investimento;
+
+b) O activo da sociedade imobiliária seja composto por um mínimo de 75% de imóveis passíveis de integrar directamente a carteira do fundo de investimento;
+
+c) A sociedade imobiliária não possua participações em quaisquer outras sociedades;
+
+d) A sociedade imobiliária tenha sede estatutária e efectiva num dos Estados membros da União Europeia ou da OCDE no qual o respectivo fundo de investimento pode investir;
+
+e) As contas da sociedade imobiliária sejam sujeitas a regime equivalente ao dos fundos de investimento em matéria de revisão independente, transparência e divulgação;
+
+f) A sociedade imobiliária se comprometa contratualmente com a entidade gestora do fundo de investimento a prestar toda a informação que esta deva remeter à CMVM;
+
+g) Aos imóveis e outros activos que integrem o património da sociedade imobiliária ou por esta adquiridos, explorados ou alienados, sejam aplicados princípios equiparáveis ao regime aplicável aos fundos de investimento, nomeadamente no que respeita a regras de avaliação, conflitos de interesse e prestação de informação.
+
+2 - Sem prejuízo do disposto no número anterior, a CMVM pode, através de regulamento:
+
+a) Definir os termos em que são valorizadas as participações das sociedades imobiliárias a adquirir e detidas pelos fundos de investimento;
+
+b) Definir os termos em que o património das sociedades imobiliárias é considerado para efeitos do cumprimento dos limites de composição do património dos fundos de investimento imobiliário;
+
+c) Impor condições adicionais de transparência para que as sociedades imobiliárias possam, em qualquer momento, integrar o activo dos fundos de investimento imobiliário.
+
+3 - A sociedade gestora do fundo deve prevenir, bem como fazer cessar no prazo determinado pela CMVM, os incumprimentos das regras previstas nos números anteriores.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 26.º — Actividades e operações permitidas
+
+1 - Os fundos de investimento podem desenvolver as seguintes actividades:
+
+a) Aquisição de imóveis para arrendamento ou destinados a outras formas de exploração onerosa;
+
+b) Aquisição de imóveis para revenda.
+
+c) Aquisição de outros direitos sobre imóveis, nos termos previstos em regulamento da CMVM, tendo em vista a respectiva exploração económica.
+
+2 - Os fundos de investimento podem ainda desenvolver projectos de construção e de reabilitação de imóveis com uma das finalidades previstas nas alíneas a) e b) do número anterior e dentro dos limites definidos para cada tipo de fundo de investimento, podendo a CMVM definir, por regulamento, os termos e condições em que esta actividade pode ser desenvolvida.
+
+3 - Os fundos de investimento podem adquirir imóveis cuja contraprestação seja diferida no tempo, considerando-se este tipo de operações para efeitos da determinação dos limites de endividamento definidos no presente diploma.
+
+4 - A CMVM, pode definir, por regulamento, as condições e limites em que os fundos de investimento podem utilizar instrumentos financeiros derivados para fins de cobertura de riscos.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 27.º — Operações vedadas
+
+1 - Aos fundos de investimento é especialmente vedado:
+
+a) Onerar por qualquer forma os seus valores, excepto para a obtenção de financiamento, dentro dos limites estabelecidos no presente diploma;
+
+b) Conceder crédito, incluindo a prestação de garantias;
+
+c) Efectuar promessas de venda de imóveis que ainda não estejam na titularidade do fundo de investimento, exceptuando-se as promessas de venda de imóveis efectuadas no âmbito da actividade referida no n.º 2 do artigo anterior.
+
+2 - As sociedades gestoras não podem efectuar quaisquer transacções entre diferentes fundos de investimento que administrem.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 28.º — Conflito de interesses
+
+1 - As sociedades gestoras devem actuar no exclusivo interesse dos participantes, relativamente à própria sociedade gestora e a entidades que com ela se encontrem em relação de domínio ou de grupo.
+
+2 - Sempre que uma sociedade gestora administre mais de um fundo de investimento, deve considerar cada um deles como um cliente, tendo em vista a prevenção de conflitos de interesses e, quando inevitáveis, a sua resolução de acordo com princípios de equidade e não discriminação.
+
+3 - Depende de autorização da CMVM, a requerimento da sociedade gestora, a aquisição e a alienação de imóveis às seguintes entidades:
+
+a) Sociedade gestora e depositário;
+
+b) Entidades que, directa ou indirectamente, detenham 10% ou mais dos direitos de voto da sociedade gestora;
+
+c) Entidades cujos direitos de voto sejam pertencentes, em percentagem igual ou superior a 20%, à sociedade gestora ou a uma entidade que, directa ou indirectamente, domine a sociedade gestora, ou por entidades dominadas, directa ou indirectamente, pela sociedade gestora;
+
+d) Membros do órgão de administração ou de direcção ou do conselho geral da sociedade gestora ou de entidade que, directa ou indirectamente, a domine;
+
+e) Entidades cujos direitos de voto sejam pertencentes, em percentagem igual ou superior a 20%, a um ou mais membros do órgão de administração ou de direcção ou do conselho geral da sociedade gestora ou de entidade que, directa ou indirectamente, a domine;
+
+f) Entidades de cujos órgãos de administração ou de direcção ou de cujo conselho geral façam parte um ou mais administradores ou directores ou membros do conselho geral da sociedade gestora.
+
+4 - O requerimento apresentado pela sociedade gestora, mencionado no número anterior, deve ser devidamente justificado e acompanhado dos pareceres elaborados por dois peritos avaliadores independentes, em cumprimento do disposto na alínea a) do n.º 1 do artigo seguinte, podendo a CMVM, em caso de dúvida, ou caso considere o valor da aquisição ou alienação excessivo ou insuficiente, solicitar nova avaliação do imóvel por um terceiro perito avaliador, por ela designado.
+
+5 - Os valores determinados pelos peritos avaliadores referidos no número anterior servem de referência ao preço da transacção proposta, não podendo este preço ser superior, no caso de aquisição do imóvel pelo fundo de investimento, ao menor dos valores determinados pelos peritos, nem inferior, no caso da alienação do imóvel pelo fundo de investimento, ao maior dos valores determinados pelos peritos.
+
+6 - O arrendamento ou outras formas de exploração onerosa de imóveis do fundo de investimento que tenham como contraparte as entidades referidas no n.º 3 apenas se pode verificar dentro das condições e limites estabelecidos em regulamento da CMVM.
+
+7 - A sociedade gestora deve conhecer as relações previstas no n.º 3.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 29.º — Avaliação de imóveis e peritos avaliadores
+
+1 - Os imóveis de fundos de investimento devem ser avaliados por, pelo menos, dois peritos avaliadores independentes, nas seguintes situações:
+
+a) Previamente à sua aquisição e alienação, não podendo a data de referência da avaliação do imóvel ser superior a seis meses relativamente à data do contrato em que é fixado o preço da transacção;
+
+b) Previamente ao desenvolvimento de projectos de construção, por forma, designadamente, a determinar o valor do imóvel a construir;
+
+c) Sempre que ocorram circunstâncias susceptíveis de induzir alterações significativas no valor do imóvel;
+
+d) Com uma periodicidade mínima de dois anos.
+
+2 - São definidos por regulamento da CMVM os requisitos de competência e independência dos peritos avaliadores no âmbito da actividade desenvolvida para efeitos do presente diploma, os critérios e normas técnicas de avaliação dos imóveis, o conteúdo dos relatórios de avaliação e as condições de divulgação destes relatórios ou das informações neles contidas, bem como do seu envio à CMVM.
+
+3 - A CMVM pode definir, por regulamento, outros requisitos a cumprir pelos peritos avaliadores independentes.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+###### Artigo 30.º — Cálculo e divulgação do valor patrimonial das unidades de participação
+
+1 - O valor patrimonial das unidades de participação é calculado de acordo com a periodicidade estabelecida no respectivo regulamento de gestão, dentro dos limites e condições definidos por regulamento da CMVM, sendo este, no mínimo, calculado mensalmente, com referência ao último dia do mês respectivo.
+
+2 - As regras de valorização do património dos fundos de investimento são definidas por regulamento da CMVM.
+
+3 - O valor patrimonial das unidades de participação é divulgado no dia seguinte ao do seu apuramento através de publicação nos termos previstos no presente diploma, bem como nos locais e através dos meios previstos para a comercialização das unidades de participação do fundo de investimento.
+
+4 - A CMVM pode definir, por regulamento, os termos e condições em que as sociedades gestoras podem publicitar, sob qualquer forma, medidas ou índices de rendibilidade e risco dos fundos de investimento e as regras a que obedecerá o cálculo dessas medidas ou índices.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+#### Secção III — Regime financeiro
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 31.º — Contas dos fundos
+
+1 - A contabilidade dos fundos de investimento é organizada de harmonia com as normas emitidas pela CMVM.
+
+2 - A entidade gestora elabora para cada fundo de investimento um relatório e contas anual relativo ao exercício findo em 31 de Dezembro anterior e um relatório e contas semestral referente ao 1.º semestre do exercício, que integram os seguintes documentos:
+
+a) Relatório de gestão, incluindo, nomeadamente, a descrição da actividade e dos principais acontecimentos relativos ao fundo de investimento no período;
+
+b) Balanço;
+
+c) Demonstração dos resultados;
+
+d) Demonstração dos fluxos de caixa; e
+
+e) Anexos aos documentos referidos nas alíneas b) a d).
+
+3 - Os relatórios e contas dos fundos de investimento são objecto de relatório elaborado por auditor registado na CMVM.
+
+4 - As sociedades gestoras devem igualmente elaborar relatório de gestão e contas semestrais dos fundos de investimento, com referência a 30 de Junho, que são objecto de parecer pelo auditor do fundo de investimento.
+
+5 - O auditor do fundo de investimento deve comunicar à CMVM, com a maior brevidade, os factos de que tenha tido conhecimento no exercício das suas funções e que sejam susceptíveis de constituir infracção às normas legais ou regulamentares que regulam o exercício da actividade dos fundos de investimento ou que possam determinar a escusa de opinião ou a emissão de opinião adversa ou com reservas, designadamente no que respeita aos aspectos sobre os quais o auditor está obrigado a pronunciar-se no âmbito do disposto no número anterior.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 32.º — Prestação de informações
+
+1 - Os relatórios e contas dos fundos de investimento e os respectivos relatórios do auditor são publicados e enviados à CMVM no prazo de:
+
+a) Três meses contados do termo do exercício anterior, para os relatórios anuais;
+
+b) Dois meses contados do termo do semestre do exercício, para os relatórios semestrais.
+
+2 - A publicação referida no número anterior pode ser substituída pela divulgação de um aviso com a menção de que os documentos se encontram à disposição do público nos locais indicados no prospecto e regulamento de gestão e que os mesmos podem ser enviados sem encargos aos participantes que o requeiram.
+
+3 - Os relatórios e contas são facultados, sem qualquer encargo, aos investidores e aos participantes que os solicitem, estando disponíveis ao público nos termos indicados no prospecto e regulamento de gestão.
+
+4 - As sociedades gestoras publicam a composição discriminada das aplicações de cada fundo de investimento que administrem e outros elementos de informação, nos termos definidos por regulamento da CMVM.
+
+5 - As sociedades gestoras publicam, nos locais previstos para a comercialização de unidades de participação e através dos meios de divulgação previstos no artigo 19.º, um aviso da distribuição de resultados dos fundos de investimento.
+
+6 - Os elementos indicados nos números anteriores, bem como outros previstos em regulamento, são enviados à CMVM nos prazos e condições que esta venha a definir.
+
+7 - As sociedades gestoras são obrigadas a prestar à CMVM quaisquer elementos de informação relativos à sua situação, à dos fundos de investimento que administrem e às operações realizadas, que lhes sejam solicitados.
+
+8 - Sem prejuízo de exigências legais ou regulamentares mais rigorosas, as sociedades gestoras conservarão em arquivo, pelo prazo mínimo de cinco anos, todos os documentos e registos relativos aos fundos de investimento que administrem.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+#### Secção IV — Das vicissitudes dos fundos
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 33.º — Fusão, cisão e transformação
+
+A CMVM define, por regulamento, as condições e o processo de fusão e cisão de fundos de investimento, bem como de transformação do respectivo tipo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 34.º — Liquidação
+
+1 - A liquidação de um fundo de investimento realiza-se nos termos previstos no respectivo regulamento de gestão e de acordo com as condições definidas no presente diploma para cada tipo de fundo de investimento.
+
+2 - Tomada a decisão de liquidação, fundada no interesse dos participantes, com salvaguarda da defesa do mercado, deve a mesma ser imediatamente comunicada à CMVM e publicada, contendo a indicação do prazo previsto para a conclusão do processo de liquidação.
+
+3 - O reembolso das unidades de participação deve ocorrer no prazo máximo de um ano a contar da data de início da liquidação do fundo, podendo a CMVM, em casos excepcionais e a pedido da sociedade gestora, devidamente fundamentado, prorrogar este prazo.
+
+4 - Durante o período de liquidação, mantêm-se as obrigações de prestação de informações referidas no artigo 32.º, devendo ser enviada mensalmente à CMVM uma memória explicativa da evolução do processo de liquidação do fundo.
+
+5 - O valor final de liquidação do fundo de investimento é divulgado pela sociedade gestora, nos locais e através dos meios previstos para a comercialização das unidades de participação do fundo de investimento, no decurso dos cinco dias subsequentes ao seu apuramento definitivo, devendo as contas de liquidação do fundo de investimento ser enviadas à CMVM dentro do mesmo prazo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 35.º — Liquidação compulsiva
+
+1 - Quando, em virtude da violação do regulamento de gestão ou das disposições legais e regulamentares que regem os fundos de investimento, os interesses dos participantes e da defesa do mercado o justifiquem, a CMVM pode determinar a liquidação de um fundo de investimento.
+
+2 - O processo de liquidação inicia-se com a notificação da decisão à sociedade gestora, ao depositário e, quando for o caso, às entidades colocadoras, aplicando-se o disposto nos n.os 2 a 5 do artigo anterior, com as necessárias adaptações.
+
+3 - A liquidação a que se refere o presente artigo pode ser entregue a liquidatário ou liquidatários designados pela CMVM, que fixará a respectiva remuneração, a qual constitui encargo da sociedade gestora, cabendo neste caso aos liquidatários os poderes que a lei atribui à sociedade gestora, mantendo-se, todavia, os deveres impostos ao depositário.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+### Capítulo III — Dos fundos de investimento imobiliário abertos
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 36.º — Subscrições e resgates
+
+1 - Sem prejuízo do disposto no artigo 24.º, a subscrição e o resgate das unidades de participação de um fundo de investimento aberto são realizados de acordo com as condições definidas no respectivo regulamento de gestão, dentro dos limites e condições definidos por regulamento da CMVM, devendo ser indicado, nomeadamente:
+
+a) A periodicidade das subscrições e dos resgates das unidades de participação do fundo de investimento;
+
+b) O número mínimo de unidades de participação exigidos em cada subscrição;
+
+c) O valor das unidades de participação para efeitos de subscrição e de resgate;
+
+d) O prazo máximo de reembolso dos pedidos de resgate;
+
+e) A forma de determinação do preço de emissão e de resgate das unidades de participação;
+
+f) O valor, modo de cálculo e condições de cobrança das comissões referidas no n.º 2 do artigo 16.º
+
+2 - Em casos excepcionais, devidamente fundamentados pela sociedade gestora, pode a CMVM permitir a prorrogação do prazo referido na alínea d) do número anterior.
+
+3 - Os participantes podem exigir o resgate das unidades de participação de um fundo de investimento aberto mediante solicitação dirigida ao depositário.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 37.º — Suspensão das subscrições ou dos resgates
+
+1 - Quando os pedidos de resgate de unidades de participação excederem os de subscrição, num só dia, em 5% do activo total do fundo de investimento ou, num período não superior a cinco dias seguidos, em 10% do mesmo activo, a sociedade gestora poderá suspender as operações de resgate.
+
+2 - A sociedade gestora deve suspender as operações de resgate ou de emissão quando, apesar de não se verificarem as circunstâncias previstas no número anterior, o interesse dos participantes o aconselhe.
+
+3 - Decidida a suspensão, a sociedade gestora deve promover a afixação, bem visível, em todos os locais e através dos meios previstos para a comercialização das unidades de participação do fundo de investimento, de um aviso destinado a informar o público sobre a situação de suspensão e, logo que possível, a sua duração.
+
+4 - As suspensões previstas nos n.os 1 e 2 e as razões que as determinarem devem ser imediatamente comunicadas pela sociedade gestora à CMVM.
+
+5 - A suspensão do resgate não abrange os pedidos que tenham sido apresentados até ao fim do dia anterior ao do envio da comunicação à CMVM.
+
+6 - A CMVM, por sua iniciativa ou a solicitação da sociedade gestora, pode, quando ocorram circunstâncias excepcionais susceptíveis de perturbarem a normal actividade do fundo de investimento ou de porem em risco os legítimos interesses dos investidores, determinar a suspensão da subscrição ou do resgate das unidades de participação do fundo de investimento, a qual produz efeitos imediatos relativamente a todos os pedidos de resgate que, no momento da notificação da suspensão, não tenham sido satisfeitos.
+
+7 - A suspensão do resgate, nos termos do presente artigo, não determina a suspensão simultânea da subscrição, mas a subscrição de unidades de participação só pode efectuar-se mediante declaração escrita do participante de que tomou prévio conhecimento da suspensão do resgate.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 38.º — Composição do património
+
+1 - Aos fundos de investimento abertos são aplicáveis as seguintes regras:
+
+a) O valor dos imóveis e de outros activos equiparáveis, definidos em regulamento da CMVM nos termos do disposto no n.º 3 do artigo 25.º, não pode representar menos de 75% do activo total do fundo de investimento;
+
+b) O desenvolvimento de projectos de construção não pode representar, no seu conjunto, mais de 25% do activo total do fundo de investimento;
+
+c) O valor de um imóvel ou de outro activo equiparável, definido em regulamento da CMVM nos termos do disposto no n.º 3 do artigo 25.º, não pode representar mais de 20% do activo total do fundo de investimento;
+
+d) O valor dos imóveis arrendados, ou objecto de outras formas de exploração onerosa, a uma única entidade ou a um conjunto de entidades que, nos termos da lei, se encontrem em relação de domínio ou de grupo, ou que sejam dominadas, directa ou indirectamente, por uma mesma pessoa, singular ou colectiva, não pode superar 20% do activo total do fundo de investimento;
+
+e) As participações em sociedades imobiliárias não podem representar mais de 25% do activo total do fundo de investimento;
+
+f) Só podem investir em imóveis localizados em Estados membros da União Europeia ou da OCDE, não podendo os investimentos fora da União Europeia representar mais de 25% do activo total do fundo de investimento;
+
+g) O endividamento não pode representar mais de 25% do activo total do fundo de investimento.
+
+2 - Para efeitos de apuramento do limite definido na alínea b) do número anterior, são considerados os imóveis destinados ao desenvolvimento de projectos de construção, ainda que os referidos projectos não tenham sido iniciados.
+
+3 - Para efeitos do disposto na alínea c) do n.º 1, constitui um imóvel, o conjunto das fracções autónomas de um mesmo edifício submetido ao regime da propriedade horizontal, e o conjunto de edifícios contíguos funcionalmente ligados entre si pela existência de partes comuns afectas ao uso de todas ou algumas unidades ou fracções que os compõem.
+
+4 - A sociedade gestora deve conhecer as relações previstas na alínea d) do n.º 1.
+
+5 - Os limites percentuais definidos nas alíneas a) a f) do n.º 1 são aferidos em relação à média dos valores verificados no final de cada um dos últimos seis meses, sendo respeitados no prazo de dois anos a contar da data de constituição do fundo de investimento.
+
+6 - Em casos devidamente fundamentados pela sociedade gestora, poderá a CMVM autorizar que os fundos de investimento detenham transitoriamente uma estrutura patrimonial que não respeite algumas das alíneas do n.º 1.
+
+7 - A CMVM pode fixar regras técnicas sobre a estrutura patrimonial dos fundos de investimento, designadamente quanto ao cálculo do valor de cada projecto para efeitos de determinação do limite referido na alínea b) do n.º 1.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 39.º — Alterações ao regulamento de gestão
+
+1 - Devem ser comunicadas individualmente a cada participante, no prazo máximo de 10 dias após o termo do prazo para a CMVM deduzir oposição ou da comunicação a esta, consoante aplicável, as alterações ao regulamento de gestão das quais resulte:
+
+a) A substituição da sociedade gestora ou a alteração dos titulares da maioria do respectivo capital social;
+
+b) A substituição do depositário;
+
+c) Um aumento das comissões a suportar pelo fundo de investimento;
+
+d) A modificação substancial da política de investimentos como tal considerada pela CMVM;
+
+e) A modificação da política de distribuição dos resultados do fundo de investimento.
+
+2 - As alterações referidas no número anterior tornam-se eficazes 45 dias após o termo do prazo para a CMVM deduzir oposição às mesmas.
+
+3 - Nos casos em que se verifique um aumento global das comissões de gestão e de depósito a suportar pelo fundo de investimento ou uma modificação substancial da política de investimentos, os participantes podem proceder ao resgate das unidades de participação sem pagar a respectiva comissão, a partir da data da comunicação e até um mês após o início da sua produção de efeitos.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+###### Artigo 40.º — Liquidação
+
+1 - Os participantes em fundos de investimento abertos não podem exigir a liquidação ou partilha do respectivo fundo de investimento.
+
+2 - A decisão de liquidação deve ser comunicada individualmente a cada participante.
+
+3 - A decisão de liquidação determina a imediata suspensão das operações de subscrição e de resgate das unidades de participação do fundo de investimento.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+### Capítulo IV — Dos fundos de investimento imobiliário fechados
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 41.º — Administração
+
+1 - Sem prejuízo do disposto no artigo 6.º, a administração dos fundos de investimento fechados pode ainda ser exercida por alguma das instituições de crédito referidas nas alíneas a) a f) do artigo 3.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, que disponham de fundos próprios não inferiores a (euro) 7500000.
+
+2 - Às entidades gestoras referidas no número anterior não é aplicável o disposto nos artigos 7.º, 10.º, 11.º e 14.º
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 42.º — Oferta pública ou particular
+
+1 - A oferta de distribuição de unidades de participação de fundos de investimento fechados pode ser pública ou particular.
+
+2 - A natureza pública ou particular da oferta determina-se em conformidade com o disposto, respectivamente, nos artigos 109.º e 110.º do Código dos Valores Mobiliários.
+
+3 - A aprovação do prospecto de oferta pública implica a autorização do fundo de investimento.
+
+4 - Ao prazo da oferta aplica-se o disposto no artigo 125.º do Código dos Valores Mobiliários, ocorrendo a respectiva liquidação financeira no final do prazo fixado.
+
+5 - Quando o interesse dos investidores o justifique, pode ser recusada a autorização para a constituição de novos fundos de investimento fechados enquanto não estiver integralmente realizado o capital de outros fundos de investimento fechados administrados pela mesma sociedade gestora.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 43.º — Duração do fundo
+
+1 - Os fundos de investimento fechados podem ter duração determinada ou indeterminada.
+
+2 - Nos fundos de investimento fechados de duração determinada esta não pode exceder 10 anos, sendo permitida a sua prorrogação uma ou mais vezes, por períodos não superiores ao inicial, desde que obtida a autorização da CMVM e a deliberação favorável da assembleia de participantes, e o regulamento de gestão permita o resgate das unidades de participação pelos participantes que, por escrito, tenham manifestado estar contra a prorrogação.
+
+2 - Nos fundos de investimento fechados de duração determinada esta não pode exceder 10 anos, sendo permitida a sua prorrogação uma ou mais vezes, por períodos não superiores ao inicial, desde que obtida deliberação favorável da assembleia de participantes e o regulamento de gestão permita o resgate das unidades de participação pelos participantes que, por escrito, tenham manifestado estar contra a prorrogação.
+
+3 - Os participantes que votaram a favor da prorrogação não podem solicitar o resgate das respectivas unidades de participação.
+
+4 - A entidade gestora comunica à CMVM a prorrogação da duração do fundo.
+
+5 - Os fundos de investimento fechados com duração indeterminada só são autorizados se no regulamento de gestão estiver prevista a admissão à negociação das respectivas unidades de participação em mercado regulamentado.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+###### Artigo 44.º — Aumentos e reduções de capital
+
+1 - Mediante autorização da CMVM, podem ser realizados aumentos e reduções de capital, desde que essa possibilidade se encontre prevista no regulamento de gestão.
+
+2 - O aumento do capital deve respeitar as seguintes condições:
+
+a) Terem decorrido pelo menos seis meses desde a data de constituição do fundo de investimento ou desde a data de realização do último aumento de capital;
+
+b) Ser objecto de deliberação favorável em assembleia de participantes, nas condições definidas no regulamento de gestão, devendo a deliberação definir igualmente as condições do aumento, designadamente se a subscrição é reservada aos actuais participantes do fundo de investimento;
+
+c) Ser precedido da elaboração de relatórios de avaliação dos imóveis do fundo de investimento, por dois peritos independentes, com uma antecedência não superior a seis meses, relativamente à data de realização do aumento;
+
+d) O preço de subscrição deve ser definido pela sociedade gestora, com base em critérios objectivos e devidamente fundamentados no prospecto da oferta, tomando como referência o valor patrimonial das unidades de participação, e, para os fundos de investimento admitidos à negociação em mercado regulamentado, considerando ainda o valor de mercado das unidades de participação, devendo, em qualquer dos casos, o auditor do fundo de investimento emitir parecer sobre o preço assim fixado.
+
+3 - A redução do capital apenas se pode verificar em caso de reembolso das unidades de participação dos participantes que se tenham manifestado contra a prorrogação da duração do fundo de investimento e em casos excepcionais, devidamente justificados pela sociedade gestora, devendo ser respeitadas, com as devidas adaptações, as condições previstas nas alíneas b), c) e d) do número anterior.
+
+4 - A CMVM pode definir, por regulamento, os termos de divulgação da informação contida no parecer do auditor, nos relatórios de avaliação considerados para efeitos dos aumentos e reduções do capital do fundo de investimento e noutros elementos de informação.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 45.º — Assembleia de participantes
+
+1 - Dependem de deliberação favorável da assembleia de participantes:
+
+a) O aumento das comissões que constituem encargo do fundo de investimento;
+
+b) A modificação substancial da política de investimentos do fundo de investimento;
+
+c) A modificação da política de distribuição dos resultados do fundo de investimento;
+
+d) O aumento e redução do capital do fundo de investimento;
+
+e) A prorrogação da duração do fundo de investimento;
+
+f) A substituição da entidade gestora, excepto quando se verifique, ao abrigo do disposto na alínea b) do n.º 6 do artigo 31.º do regime jurídico dos organismos de investimento colectivo, aprovado pelo Decreto-Lei n.º 252/2003, de 17 de Outubro, a transferência dos poderes de administração dos fundos de investimento imobiliário e da estrutura humana, material e técnica da sociedade gestora de fundos de investimento imobiliário para uma sociedade gestora de fundos de investimento mobiliário integrada no mesmo grupo financeiro;
+
+g) A liquidação do fundo de investimento nos termos previstos no artigo 47.º
+
+2 - Em caso algum, a assembleia pode pronunciar-se sobre decisões concretas de investimento ou aprovar orientações ou recomendações sobre esta matéria que não se limitem ao exercício da competência referida na alínea b) do número anterior.
+
+3 - O regulamento de gestão deve definir as regras de convocação e funcionamento e as competências da assembleia, aplicando-se, na sua falta ou insuficiência, o disposto na lei para as sociedades anónimas.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 46.º — Composição do património
+
+1 - Aos fundos de investimento fechados objecto de oferta pública de subscrição é aplicável o disposto no artigo 38.º, com as seguintes adaptações:
+
+a) O desenvolvimento de projectos de construção não pode representar, no seu conjunto, mais de 50% do activo total do fundo de investimento, salvo se tais projectos se destinarem à reabilitação de imóveis, caso em que tal limite é de 60%;
+
+b) O valor de um imóvel não pode representar mais de 25% do activo total do fundo de investimento;
+
+c) O valor dos imóveis arrendados, ou objecto de outras formas de exploração onerosa, a uma única entidade ou a um conjunto de entidades que, nos termos da lei, se encontrem em relação de domínio ou de grupo, ou que sejam dominadas, directa ou indirectamente, por uma mesma pessoa, singular ou colectiva, não pode superar 25% do activo total do fundo de investimento;
+
+d) O endividamento não pode representar mais de 33% do activo total do fundo de investimento.
+
+2 - Em caso de aumento de capital do fundo de investimento, os limites definidos na alínea a) do n.º 1 do artigo 38.º devem ser respeitados no prazo de um ano a contar da data do aumento de capital relativamente ao montante do aumento.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 47.º — Liquidação
+
+Os participantes dos fundos de investimento fechados podem exigir a respectiva liquidação, desde que tal possibilidade esteja prevista no regulamento de gestão ou quando, prevendo este a admissão à negociação em mercado regulamentado das unidades de participação, esta se não verifique no prazo de 12 meses a contar da data de constituição do fundo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 48.º — Fundos de investimento fechados de subscrição particular
+
+1 - Aos fundos de investimento fechados objecto de oferta particular cujo número de participantes seja superior a cinco, não sendo estes exclusivamente investidores institucionais, são aplicáveis:
+
+a) As alíneas a) e f) do n.º 1 do artigo 38.º, sendo autorizado o investimento em imóveis localizados em Estados que não integram a União Europeia ou a OCDE até ao limite de 10% do activo total do fundo de investimento;
+
+b) A alínea d) do n.º 1 do artigo 46.º
+
+2 - Aos fundos de investimento fechados objecto de oferta particular cujos participantes não reúnam as características referidas no proémio do número anterior não são aplicáveis:
+
+a) Os limites de composição do património nele referidos, com excepção da alínea a) do n.º 1 do artigo 38.º;
+
+b) O n.º 4 do artigo 42.º quando o regulamento de gestão fixe o prazo máximo da oferta até 90 dias e calendarize as respectivas liquidações financeiras.
+
+3 - Aos fundos de investimento fechados objecto de oferta particular não é ainda aplicável:
+
+a) O artigo 23.º;
+
+b) O n.º 2 do artigo 31.º, na parte respeitante ao relatório semestral;
+
+c) O n.º 2 do artigo 27.º e os n.os 3 e 6 do artigo 28.º, desde que obtido o acordo de, no mínimo, 75% dos participantes relativamente a cada operação.
+
+d) A sujeição a autorização da CMVM prevista no n.º 1 do artigo 44.º, sendo o aumento ou a redução do capital do fundo de investimento comunicado à CMVM.
+
+4 - A CMVM pode estabelecer, por regulamento, as condições e procedimentos mediante os quais um fundo de investimento objecto de oferta pública de distribuição pode ficar sujeito ao disposto no presente artigo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+### Capítulo V — Das entidades comercializadoras e da subcontratação
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 49.º — Regime aplicável
+
+Os fundos de investimento mistos regem-se, para além do disposto nos capítulos I e II, pelo disposto no presente capítulo e, subsidiariamente, no capítulo anterior, em tudo o que não for incompatível com a sua natureza.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 50.º — Capital fixo e variável
+
+1 - O capital dos fundos de investimento mistos é composto por uma parte fixa e por uma parte variável, representadas por duas categorias distintas de unidades de participação.
+
+2 - A parte fixa do capital do fundo de investimento misto não pode ser inferior à parte variável do mesmo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 51.º — Categorias de unidades de participação
+
+1 - As unidades de participação representativas da parte fixa do capital do fundo de investimento misto conferem o direito à participação em assembleia de participantes e à partilha do respectivo património líquido em caso de liquidação.
+
+2 - As unidades de participação representativas da parte variável do capital do fundo de investimento misto apenas conferem direito:
+
+a) À distribuição prioritária de uma quota-parte dos resultados do fundo de investimento;
+
+b) Ao resgate das unidades de participação, nos termos definidos no presente diploma e no regulamento de gestão do fundo de investimento;
+
+c) Ao reembolso prioritário do seu valor em caso de liquidação do fundo de investimento.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 52.º — Distribuição dos resultados
+
+O regulamento de gestão define, de forma clara e objectiva, quanto à distribuição dos resultados referentes às unidades de participação representativas da parte variável do capital do fundo de investimento misto:
+
+a) O modo de cálculo da percentagem dos resultados do fundo de investimento a distribuir;
+
+b) A periodicidade e datas de distribuição.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 53.º — Subscrições e resgates
+
+1 - A comercialização de unidades de participação representativas da parte variável do capital do fundo de investimento misto só pode ter início após a integral subscrição das unidades de participação representativas da parte fixa do capital do mesmo fundo de investimento e nas condições definidas no respectivo regulamento de gestão.
+
+2 - O preço de subscrição e de resgate das unidades de participação representativas da parte variável do capital do fundo de investimento corresponde ao valor fixado no respectivo regulamento de gestão, acrescido ou diminuído, respectivamente, de eventuais comissões de subscrição ou resgate, a suportar pelos participantes.
+
+3 - Às subscrições e resgates das unidades de participação representativas da parte variável do capital do fundo de investimento misto é aplicável, com as devidas adaptações, o disposto no artigo 36.º
+
+4 - A CMVM pode determinar a transformação de um fundo de investimento misto em fechado, caso a subscrição das unidades de participação representativas da parte variável do capital do fundo não se verifique no prazo de dois anos a contar da respectiva data de constituição.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 54.º — Suspensão das subscrições e resgates
+
+1 - À suspensão das subscrições e resgates das unidades de participação representativas da parte variável do capital do fundo de investimento misto é aplicável, com as devidas adaptações, o disposto no artigo 37.º
+
+2 - Logo que a parte variável do capital do fundo de investimento misto iguale a parte fixa do mesmo, suspendem-se automaticamente as subscrições das unidades de participação representativas daquela, devendo o regulamento de gestão do fundo de investimento estabelecer os critérios de rateio para os pedidos de subscrição que ainda não tenham sido satisfeitos.
+
+3 - A suspensão referida no número anterior só pode ser levantada em caso de aumento da parte fixa do capital do fundo de investimento ou da ocorrência de resgates representativos de, pelo menos, 10% da mesma.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 55.º — Composição do património dos fundos de investimento mistos
+
+Aos fundos de investimento mistos é aplicável o disposto no artigo 38.º, não lhes sendo porém autorizado, sem prejuízo do disposto no artigo 50.º, o recurso ao endividamento.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 56.º — Outras disposições
+
+É aplicável aos fundos de investimento mistos o disposto nos artigos 39.º e 40.º, quanto aos titulares de unidades de participação representativas da parte variável do capital do fundo de investimento.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+### Capítulo VI
+
+Da comercialização em Portugal de participações em instituições de investimento colectivo em valores imobiliários, com sede ou que sejam administradas por entidades com sede no estrangeiro.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+###### Artigo 57.º — Autorização
+
+1 - A comercialização em Portugal de participações em instituições de investimento colectivo em valores imobiliários com sede no estrangeiro, ou administradas por entidade gestora aí sediada, está sujeita a autorização da CMVM, nos termos definidos em regulamento.
+
+2 - A autorização referida no número anterior é concedida, nomeadamente, se as instituições de investimento colectivo e o modo previsto para a comercialização das respectivas participações conferirem aos participantes condições de segurança e protecção análogas às das instituições domiciliadas em Portugal, desde que verificada a existência de reciprocidade para a comercialização destas últimas no estrangeiro e de memorando de entendimento entre as autoridades de supervisão competentes.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12
+
+###### Artigo 58.º — Publicidade e informações
+
+1 - As instituições de investimento colectivo podem fazer publicidade da comercialização das respectivas participações em território português, com observância das disposições nacionais sobre publicidade.
+
+2 - As instituições de investimento colectivo abrangidas por este capítulo devem difundir, em língua portuguesa, nas modalidades aplicáveis aos fundos de investimento domiciliados em Portugal, os documentos e as informações que devam ser publicitados no Estado de origem.
+
+3 - Caso os elementos referidos no número anterior não sejam suficientes para assegurar o cumprimento do disposto no n.º 3 do artigo anterior, a CMVM pode determinar a difusão de documentos e informações complementares.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+### Capítulo VII — Sociedades de investimento imobiliário
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+#### Secção I — Sociedades de investimento imobiliário
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-A — Sociedades de investimento imobiliário
+
+1 - A constituição e o funcionamento das sociedades de investimento imobiliário, ou abreviadamente SIIMO, regem-se pelo presente decreto-lei, com as especificidades constantes do presente título.
+
+2 - As SIIMO regem-se ainda pelo disposto no Código das Sociedades Comerciais, salvo quando as respectivas normas se mostrem incompatíveis com a natureza e objecto específicos destas sociedades ou com o disposto no presente decreto-lei, designadamente no que respeita aos seguintes aspectos de regime:
+
+a) Composição, aumento, redução e intangibilidade do capital social e amortização de acções;
+
+b) Constituição de reservas;
+
+c) Limitação de distribuição de resultados aos accionistas;
+
+d) Regras relativas à celebração e prestação de contas;
+
+e) Regime de fusão e cisão de sociedades; e
+
+f) Regime de aquisição tendente ao domínio total.
+
+3 - As SIIMO são intermediários financeiros, não lhes sendo todavia aplicável o regime consagrado no Código dos Valores Mobiliários para sociedades abertas.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-B — Noção de SIIMO
+
+As SIIMO são instituições de investimento colectivo dotadas de personalidade jurídica, que assumem a forma de sociedade anónima de capital variável ou fixo, e cujos activos são por elas detidos em regime de propriedade e geridos a título fiduciário, pelas próprias ou por terceira entidade contratada, de modo independente e no exclusivo interesse dos accionistas.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-C — Denominação e espécie
+
+1 - As SIIMO adoptam na sua denominação a designação de SICAFI ou SICAVI, consoante se constituam como SIIMO de capital fixo ou de capital variável.
+
+2 - Salvo disposição em contrário, as SICAFI observam o regime dos fundos de investimento fechados e as SICAVI o dos fundos de investimento abertos.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-D — Acções
+
+1 - As SIIMO são divididas em acções nominativas de conteúdo idêntico, representativas do seu capital social, sem valor nominal.
+
+2 - Às acções das SIIMO é aplicável, salvo disposição em contrário, o regime jurídico das unidades de participação, nomeadamente no que respeita à sua emissão, avaliação e comercialização.
+
+3 - Às acções das SIIMO é ainda aplicável, em tudo o que não se mostre incompatível com o regime das unidades de participação, o regime aplicável às acções previsto no Código das Sociedades Comerciais e demais legislação societária.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-E — Capital social e património
+
+1 - O capital inicial mínimo das SIIMO é de (euro) 375 000.
+
+2 - O capital social das SICAVI corresponde, em cada momento, ao valor líquido global do seu património, variando em função das subscrições e dos resgates, os quais, salvo as situações de suspensão, são livres e ocorrem a todo o tempo.
+
+3 - O capital social das SICAFI é definido no momento da constituição da sociedade, nos termos do Código das Sociedades Comerciais, com as eventuais alterações decorrentes de aumento e de redução do capital.
+
+4 - As SIIMO adoptam as medidas necessárias para que o valor líquido global do seu património não desça a valores inferiores a (euro) 5 000 000.
+
+5 - Sob pena de responsabilidade dos membros dos órgãos de administração, sempre que o património social apresente valores inferiores aos estabelecidos no número anterior, é o facto comunicado imediatamente à CMVM, devendo a sociedade adoptar as medidas necessárias à rápida regularização da situação, nomeadamente procedendo à redução do capital para o valor do património, e sujeitar-se às directrizes emitidas pela CMVM durante esse período.
+
+6 - Se no prazo de seis meses a sociedade não regularizar a situação, deve proceder-se, caso isso viole o limite mínimo previsto nos n.os 1 e 2, à liquidação da sociedade.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-F — Fundos próprios
+
+Às SIIMO autogeridas aplica-se, com as devidas adaptações, o disposto no artigo 10.º
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+#### Secção II — Acesso e exercício da actividade
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-G — Autorização
+
+1 - A constituição de SIIMO depende de autorização da CMVM nos termos previstos nos artigos 20.º a 21.º-A.
+
+2 - As SIIMO consideram-se constituídas na data do registo do respectivo contrato de sociedade.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-H — Caducidade da autorização
+
+Sem prejuízo do disposto no n.º 7 do artigo 20.º, a autorização das SIIMO caduca se não for utilizada no prazo de 12 meses a contar da data da sua concessão.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-I — Gestão
+
+1 - As SIIMO podem ser heterogeridas ou autogeridas consoante designem ou não uma terceira entidade para o exercício da respectiva gestão.
+
+2 - Às SIIMO autogeridas é aplicável o disposto nos artigos 6.º a 11.º, ficando sujeitas, com as necessárias adaptações, aos requisitos de organização e aos deveres da sociedade gestora em relação aos fundos de investimento imobiliários, aos activos por eles geridos e aos respectivos investidores, designadamente decorrentes das regras de conduta, dos deveres de informação e de delegação de funções.
+
+3 - As SIIMO heterogeridas só podem designar para o exercício da respectiva gestão uma sociedade gestora de fundos de investimento imobiliário devidamente autorizada.
+
+4 - A designação prevista no número anterior deve ser previamente comunicada ao Banco de Portugal.
+
+5 - As relações entre a SIIMO heterogerida e a entidade designada para o exercício da gestão regem-se por contrato escrito aprovado pela assembleia de accionistas, que deve conter, designadamente, os seguintes elementos:
+
+a) A denominação e sede da sociedade;
+
+b) As condições de substituição da entidade gestora;
+
+c) A política de investimentos da sociedade e a política de distribuição de rendimentos;
+
+d) A política de exercício dos direitos de voto inerentes às acções detidas;
+
+e) A remuneração dos serviços prestados pelo depositário e pela entidade gestora designada;
+
+f) O valor, modo de cálculo e condições de cobrança das comissões de subscrição e de resgate de acções, bem como, se for o caso, de gestão para remuneração do serviço prestado pela entidade gestora designada;
+
+h) O momento do dia utilizado como referência para a determinação do valor das acções;
+
+i) O critério de subscrição e resgate das acções pelo último valor conhecido e divulgado;
+
+j) O número mínimo de acções que pode ser exigido em cada subscrição;
+
+l) O prazo máximo em que se verifica o resgate; e
+
+m) As condições para a suspensão das operações de subscrição e resgate de acções.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-J — Deveres e responsabilidades dos membros dos órgãos de administração e de fiscalização das SIIMO e das respectivas entidades gestoras
+
+1 - A gestão de uma SIIMO autogerida ou, no caso de uma SIIMO heterogerida, da entidade a quem a gestão haja sido confiada, é exercida no exclusivo interesse dos accionistas.
+
+2 - Os membros dos órgãos de administração e fiscalização das SIIMO respondem solidariamente entre si, perante os accionistas e perante a sociedade pela violação ou cumprimento defeituoso dos deveres legais e regulamentares aplicáveis e das obrigações decorrentes dos documentos constitutivos da SIIMO.
+
+3 - No caso de uma SIIMO total ou parcialmente heterogerida, a entidade a quem tenha sido confiada a gestão, bem como os membros dos respectivos órgãos de administração e fiscalização, respondem solidariamente com os membros dos órgãos de administração e fiscalização da sociedade de investimento pelos actos mencionados no número anterior.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-L — Depositário
+
+1 - A guarda dos activos de uma SIIMO deve ser confiada a um depositário, nos termos dos artigos 12.º e 13.º
+
+2 - Compete ao depositário:
+
+a) Assegurar que a venda, a emissão, a reaquisição, o reembolso e a anulação das acções efectuadas pela sociedade ou por sua conta se efectuam de acordo com a lei ou com os documentos constitutivos da sociedade;
+
+b) Assegurar que os rendimentos da sociedade são aplicados em conformidade com a lei e com os documentos constitutivos.
+
+3 - Sem prejuízo do disposto no n.º 4 do artigo 12.º, os documentos constitutivos das SIIMO definem as regras aplicáveis à substituição do depositário, que devem assegurar a protecção dos accionistas.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-M — Aquisições proibidas por conta das SIIMO
+
+As entidades gestoras que exerçam a gestão de uma SIIMO não podem, por conta das SIIMO que gerem, efectuar as seguintes aquisições:
+
+a) De activos que integrem a carteira de SIIMO ou de um fundo de investimento imobiliário, consoante os casos, geridos pela mesma entidade gestora ou que a esta estejam ligados, nomeadamente, por uma relação de domínio ou de grupo;
+
+b) De quaisquer bens objecto de garantias reais, penhoras ou procedimentos cautelares;
+
+c) De acções da própria SIIMO.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-N — Regulamento de gestão
+
+As SIIMO elaboram um regulamento de gestão, ao qual é aplicável, com as devidas adaptações, o disposto no artigo 22.º
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-O — Assembleia de accionistas
+
+O disposto no artigo 45.º relativamente às assembleias de participantes de fundos fechados é aplicável às SICAFI, com as necessárias adaptações, sendo-lhes ainda aplicável o disposto no Código das Sociedades Comerciais no que respeita às competências da assembleia geral das sociedades anónimas, salvo quando tais regras se mostrem incompatíveis com a natureza das SIIMO ou com o disposto naqueles regimes jurídicos.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 58.º-P — Liquidação e partilha
+
+À liquidação e partilha do património das SIIMO aplica-se o disposto nos artigos 33.º a 35.º e subsidiariamente as regras de liquidação previstas no Código das Sociedades Comerciais.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+### Capítulo VIII — Supervisão e regulamentação
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+###### Artigo 59.º — Supervisão
+
+1 - Compete à CMVM a fiscalização do disposto no presente diploma, sem prejuízo da competência do Banco de Portugal em matéria de supervisão das instituições de crédito e das sociedades financeiras e do Instituto do Consumidor em matéria de publicidade.
+
+2 - O disposto no número anterior não prejudica a competência da CMVM para, em circunstâncias excepcionais, susceptíveis de perturbar o normal funcionamento dos fundos de investimento, determinar aos mesmos, respectivas entidades gestoras, depositários ou entidades comercializadoras, o cumprimento de deveres adicionais aos previstos no presente decreto-lei, tendo em vista acautelar os legítimos interesses dos participantes.
+
+3 - Sem prejuízo do disposto no número anterior, a CMVM pode igualmente, nos termos e com os fundamentos nele previstos, mediante requerimento fundamentado dos interessados, permitir a dispensa temporária do cumprimento dos deveres previstos no presente decreto-lei relativos às seguintes matérias:
+
+a) Regime de composição das carteiras, seus limites, técnicas e instrumentos de gestão dos fundos de investimento;
+
+b) Termos e condições de financiamento dos fundos de investimento;
+
+c) Realização de operações com fundos e entidades relacionadas;
+
+d) Vicissitudes a que estão sujeitos os fundos de investimento, em particular no que respeita à fusão, cisão, transformação, liquidação e partilha de fundos.
+
+4 - A dispensa a que se refere o número anterior deve ser devidamente fundamentada, designadamente no que respeita ao seu carácter instrumental e necessário para a protecção dos interesses dos participantes, e prever a sua duração, até ao limite máximo de três meses, renovável por igual período, podendo ser acompanhada de deveres de informação acessórios à CMVM e aos participantes e ser revogada a todo o tempo.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-10-12
+
+###### Artigo 60.º — Regulamentação
+
+Compete igualmente à CMVM a elaboração dos regulamentos necessários à concretização e ao desenvolvimento do disposto no presente decreto-lei, nomeadamente no que respeita às seguintes matérias:
+
+a) Critérios de dispersão das unidades de participação de cada fundo de investimento;
+
+b) Condições de admissão de comissões de desempenho e encargos que, para além da comissão de gestão e de depósito, são susceptíveis de serem suportados pelo fundo de investimento;
+
+c) Conteúdo do prospecto dos fundos de investimento abertos;
+
+d) Condições de comercialização de unidades de participação, em especial no que respeita às subscrições e resgates, bem como as condições a observar pelas entidades colocadoras;
+
+e) Valores susceptíveis de integrar o activo dos fundos de investimento, para além dos previstos no presente diploma;
+
+f) Termos e condições de desenvolvimento pelos fundos de investimento de projectos de construção de imóveis;
+
+g) Condições e limites de utilização de instrumentos financeiros derivados para fins de cobertura de riscos;
+
+h) Condições e limites de arrendamento ou de outras formas de exploração onerosa de imóveis do fundo de investimento no âmbito de contratos celebrados com as entidades previstas no n.º 3 do artigo 28.º;
+
+i) Condições de competência e independência dos peritos avaliadores e critérios e normas técnicas de avaliação dos imóveis;
+
+j) Regras de valorização do património de cada fundo de investimento e periodicidade e condições de cálculo do valor patrimonial das unidades de participação;
+
+l) Termos e condições em que as sociedades gestoras podem tornar público, sob qualquer forma, medidas ou índices de rendibilidade e risco dos fundos de investimento e as regras a que obedecerá o cálculo dessas medidas ou índices;
+
+m) Regras menos exigentes em matéria de composição do património dos fundos de investimento, de deveres de informação e de prevenção de conflitos de interesse, nos casos em que o presente diploma o permita, nomeadamente quando estejam em causa imóveis para reabilitação;
+
+n) Contabilidade dos fundos de investimento e conteúdo do relatório de gestão;
+
+o) Informações, em geral, a prestar ao público e à CMVM, bem como os respectivos prazos e condições de divulgação;
+
+p) Condições e processos de fusão, cisão e aumento de capital de fundos de investimento e de transformação do respectivo tipo;
+
+q) Comercialização em Portugal de instituições de investimento colectivo em valores imobiliários domiciliadas no estrangeiro;
+
+r) Dispensa do cumprimento de deveres por determinados tipos de fundos de investimento, em função das suas características, e imposição do cumprimento de outros, designadamente em matéria de diversificação de risco e prestação de informação;
+
+s) Unidades de participação com direitos ou características especiais;
+
+t) Subcontratação de funções compreendidas na actividade de administração e gestão das sociedades gestoras;
+
+u) Afectação de receitas e proveitos pagos à entidade gestora ou a outras entidades em consequência do exercício da actividade daquela;
+
+v) Aquisição e detenção pelos fundos de investimento de participações em sociedades imobiliárias para além das condições previstas neste diploma;
+
+x) Termos e condições em que os FII e as SIIMO podem tornar público, sob qualquer forma, medidas ou índices de rendibilidade e risco dos fundos ou sociedades de investimento e as regras a que obedece o cálculo dessas medidas ou índices;
+
+z) Critérios de dispersão das acções de cada SIIMO;
+
+aa) Conteúdo do contrato de sociedade das SIIMO.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), em vigor a partir de 2015-03-26
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 71/2010 - Diário da República n.º 117/2010, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466), em vigor a partir de 2010-06-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/2005 - Diário da República n.º 5/2005, Série I-A de 2005-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834), em vigor a partir de 2005-01-12

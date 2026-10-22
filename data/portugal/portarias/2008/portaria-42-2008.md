@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:386611:por
+title: Portaria n.º 42/2008
+short_title: null
+summary: Fixa as disciplinas e as áreas curriculares em que não há lugar à adopção de manuais escolares ou em que esta é meramente
+  facultativa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 42/2008
+official_date: null
+publication_date: '2008-01-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 8/2008, Série I de 2008-01-11
+  number: '8'
+  series: I
+  supplement: null
+  pages: 384 - 384
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00800/0038400384.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/42/2008/01/11/p/dre/pt/html
+  oj: null
+  dre: '386611'
+  dre_path: /dr/detalhe/portaria/42-2008-386611
+  internal: pt:dre:386611:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/42-2008-386611
+  metadata_url: https://data.dre.pt/eli/port/42/2008/01/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/42-2008-386611
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-01-11T00:00:00Z'
+integrity:
+  source_sha256: 0143fb850ab2c33517a9be1dbd5f7dd7b2588f31ea0d14b75e57485f1306c5a6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-42-386611.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Manual Escolar
+- Estabelecimento de Ensino
+- Ensino Básico
+- Sistema de Ensino
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/261/2007/07/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/261/2007/07/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/47/2006/08/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/47/2006/08/28/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 42/2008
+
+de 11 de Janeiro
+
+A [Lei n.º 47/2006](https://diariodarepublica.pt/dr/detalhe/lei/47-2006-540784), de 28 de Agosto, que define o regime de avaliação, certificação e adopção dos manuais escolares dos ensinos básico e secundário, bem como os princípios e objectivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e empréstimo de manuais escolares, definiu como linhas de actuação do Estado, entre outras, a promoção da estabilidade dos programas de estudos e dos instrumentos didácticos correspondentes, tendo em vista desenvolver os padrões de qualidade e assegurar a estabilidade no sistema educativo.
+
+Para o efeito, a lei não apenas alargou os períodos de vigência da adopção dos manuais escolares, como permitiu, ainda, nos termos do disposto no artigo 17.º do [Decreto-Lei n.º 261/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-2007-636177), de 17 de Julho, que a regulamenta, fixar as disciplinas ou áreas curriculares em que não há lugar à adopção de manuais ou em que esta é meramente facultativa, sempre que o ensino e a aprendizagem tenham uma forte componente prática ou técnica ou a disciplina ou área curricular tenha carácter opcional.
+
+Assim:
+
+Ao abrigo do artigo 17.º do [Decreto-Lei n.º 261/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-2007-636177), de 17 de Julho, manda o Governo, pela Ministra da Educação, o seguinte:
+
+1.º Não há lugar à adopção de manuais escolares nas seguintes áreas curriculares e disciplinas:
+
+a) Expressões Artísticas e Físico-Motoras (designadamente Expressão e Educação Plástica, Expressão e Educação Musical e Expressão e Educação Físico-Motora) do 1.º ciclo do ensino básico;
+
+b) Áreas curriculares não disciplinares dos 1.º, 2.º e 3.º ciclos do ensino básico e do ensino secundário;
+
+c) Educação Física, Educação Musical e Educação Visual e Tecnológica do 2.º ciclo do ensino básico;
+
+d) Educação Física e Educação Artística (disciplina de oferta de escola, designadamente Educação Musical) do 3.º ciclo do ensino básico;
+
+e) Educação Física do ensino secundário.
+
+2.º A obrigatoriedade de aquisição dos manuais escolares das disciplinas e áreas curriculares referidas no número anterior cessa em 2010-2011 para os manuais de ciclo e do 5.º, 7.º e 10.º anos de escolaridade, cessando nos anos seguintes para os manuais dos anos de escolaridade subsequentes.
+
+3.º Nas disciplinas de Educação Visual e de Educação Tecnológica do 3.º ciclo do ensino básico, a adopção tem carácter facultativo, por decisão dos órgãos competentes dos agrupamentos de escolas e das escolas não agrupadas.
+
+4.º Nas disciplinas referidas no número anterior, tendo a adopção carácter facultativo, a aquisição é também facultativa.
+
+5.º Os agrupamentos de escolas e as escolas não agrupadas, através dos respectivos órgãos de gestão e administração e das estruturas de coordenação e orientação educativa, asseguram que nenhum aluno seja prejudicado na sua avaliação pelo facto de não ter adquirido o manual escolar quando este seja de aquisição facultativa.
+
+Pela Ministra da Educação, Jorge Miguel de Melo Viana Pedreira, Secretário de Estado Adjunto e da Educação, em 30 de Novembro de 2007.

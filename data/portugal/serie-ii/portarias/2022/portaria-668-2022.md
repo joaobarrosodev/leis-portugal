@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:200690505:por
+title: Portaria n.º 668/2022
+short_title: null
+summary: Autoriza o Metropolitano de Lisboa, E. P. E., Entidade Pública Reclassificada, a proceder à repartição dos encargos
+  relativos ao contrato de «Empreitada de modernização das escadas mecânicas 2, 4 e 6 e substituição das escadas mecânicas
+  9 a 12 da estação Baixa-Chiado das linhas Azul e Verde do Metropolitano de Lisboa, E. P. E.»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Ambiente e Ação Climática - Gabinetes do Ministro do Ambiente e da Ação Climática e da Secretária de Estado do
+  Orçamento
+proposing_entity: null
+official_number: 668/2022
+official_date: null
+publication_date: '2022-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/2022, Série II de 2022-09-06
+  number: '172'
+  series: II
+  supplement: null
+  pages: 47 - 48
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/09/172000000/0004700048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '200690505'
+  dre_path: /dr/detalhe/portaria/668-2022-200690505
+  internal: pt:dre:200690505:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-2022-200690505
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-2022-200690505
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-09-06T00:00:00Z'
+integrity:
+  source_sha256: 9791e81512bedab25a292b2b1a5676a059ec50cb326d94a0a402e69a57cce214
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-668-200690505.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 668/2022
+
+Considerando que o Metropolitano de Lisboa, E. P. E. (ML) necessita de contratar a «Empreitada de Modernização das Escadas Mecânicas 2, 4 e 6 e Substituição das Escadas Mecânicas 9 a 12 da Estação Baixa-Chiado das Linhas Azul e Verde do Metropolitano de Lisboa, E. P. E.», prevendo-se um prazo de execução de 15 (quinze) meses, contados da data da assinatura do contrato;
+
+Considerando que, nos termos dos n.os 4 e 5 do artigo 2.º da [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, na sua redação atual, o ML assumiu a natureza de Entidade Pública Reclassificada e foi integrado no setor público administrativo, equiparado a serviço e fundo autónomo;
+
+Considerando que, por força do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, se torna necessária a publicação no Diário da República de portaria conjunta de extensão de encargos, quando as despesas deem lugar a encargo orçamental em mais de um ano económico e não se encontrem excecionadas nos casos previstos nas alíneas a) e b) do n.º 1 do referido artigo 22.º;
+
+Considerando que nos termos do contrato a celebrar, o ML deverá pagar para o período de vigência do contrato o montante de (euro) 2 100 000,00 (dois milhões e cem mil euros), ao qual acresce IVA à taxa legal em vigor;
+
+Considerando que o contrato a celebrar terá um prazo de vigência de 15 (quinze) meses, contados da data da assinatura do contrato;
+
+Torna-se, assim, necessário proceder à repartição plurianual do encargo financeiro resultante do contrato a celebrar, nos anos económicos de 2022 e 2023.
+
+Assim:
+
+Nos termos do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, mantido expressamente em vigor por força do estatuído na alínea f) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, todos na sua redação atual, manda o Governo, pelo Ministro do Ambiente e da Ação Climática e pela Secretária de Estado do Orçamento, ao abrigo da competência delegada, o seguinte:
+
+###### Artigo 1.º
+
+Fica o Metropolitano de Lisboa, E. P. E. (ML), Entidade Pública Reclassificada, autorizado a proceder à repartição dos encargos relativos ao contrato de «Empreitada de Modernização das Escadas Mecânicas 2, 4 e 6 e Substituição das Escadas Mecânicas 9 a 12 da Estação Baixa-Chiado das Linhas Azul e Verde do Metropolitano de Lisboa, E. P. E.», até ao montante global de (euro) 2 100 000,00 (dois milhões e cem mil euros), ao qual acresce IVA à taxa legal em vigor, ratificando-se, concomitantemente, os atos respeitantes ao procedimento de contratação praticados para o efeito, desde 1 de junho de 2022.
+
+###### Artigo 2.º
+
+Os encargos orçamentais decorrentes da execução do contrato acima referido são repartidos, previsivelmente, da seguinte forma:
+
+a) Em 2022 - (euro) 750 000,00 (setecentos e cinquenta mil euros), valor ao qual acresce o IVA à taxa legal em vigor;
+
+b) Em 2023 - (euro) 1 350 000,00 (um milhão e trezentos e cinquenta mil euros), valor ao qual acresce o IVA à taxa legal em vigor.
+
+###### Artigo 3.º
+
+O montante fixado para o ano económico de 2023 poderá ser acrescido do saldo apurado no ano anterior.
+
+###### Artigo 4.º
+
+Os encargos emergentes da presente portaria serão satisfeitos por verbas adequadas, inscritas ou a inscrever no orçamento do Metropolitano de Lisboa, E. P. E.
+
+###### Artigo 5.º
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+26 de agosto de 2022. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro. - 18 de agosto de 2022. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha.

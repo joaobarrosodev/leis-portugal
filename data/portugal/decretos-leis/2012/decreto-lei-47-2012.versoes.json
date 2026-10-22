@@ -1,0 +1,303 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:542421:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-898318640",
+ "dre_path": "/dr/detalhe/decreto-lei/47-2012-542421",
+ "source_lastmod": "2024-11-28",
+ "versions": [
+  {
+   "date": "2012-02-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "898319287",
+    "898319288",
+    "898319289",
+    "898319290",
+    "898319291",
+    "898319292",
+    "898319293",
+    "898319294",
+    "898319295",
+    "898319296",
+    "898319297",
+    "898319298",
+    "898319299",
+    "898319300",
+    "898319302"
+   ]
+  },
+  {
+   "date": "2017-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106579661:por",
+     "title": "Decreto-Lei n.º 27/2017",
+     "published": "2017-03-10",
+     "dre_path": "/dr/detalhe/decreto-lei/27-2017-106579661"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "898319287",
+    "898319288",
+    "898319303",
+    "898319290",
+    "898319291",
+    "898319292",
+    "898319293",
+    "898319294",
+    "898319295",
+    "898319296",
+    "898319297",
+    "898319298",
+    "898319299",
+    "898319300",
+    "898319301",
+    "898319302"
+   ]
+  },
+  {
+   "date": "2018-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115344078:por",
+     "title": "Decreto-Lei n.º 35/2018",
+     "published": "2018-05-18",
+     "dre_path": "/dr/detalhe/decreto-lei/35-2018-115344078"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "898319287",
+    "898319288",
+    "898319303",
+    "898319304",
+    "898319291",
+    "898319292",
+    "898319293",
+    "898319294",
+    "898319295",
+    "898319296",
+    "898319305",
+    "898319298",
+    "898319299",
+    "898319300",
+    "898319301",
+    "898319302"
+   ]
+  },
+  {
+   "date": "2024-11-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:898201693:por",
+     "title": "Decreto-Lei n.º 96/2024",
+     "published": "2024-11-28",
+     "dre_path": "/dr/detalhe/decreto-lei/96-2024-898201693"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "898319287",
+    "898319288",
+    "898319306",
+    "898319304",
+    "898319291",
+    "898319292",
+    "898319293",
+    "898319294",
+    "898319295",
+    "898319296",
+    "898319305",
+    "898319298",
+    "898319299",
+    "898319300",
+    "898319301",
+    "898319302"
+   ]
+  }
+ ],
+ "fragments": {
+  "898319287": {
+   "fragment_id": "898318641",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 47/2012\n\nde 28 de fevereiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e da melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNeste contexto, o presente decreto-lei representa um contributo para a concretização da política enunciada, em consonância com o disposto na orgânica da Presidência do Conselho de Ministros, no que respeita aos serviços e organismos para a área da cultura, através da criação da estrutura orgânica do Gabinete de Estratégia, Planeamento e Avaliação Culturais. Este Gabinete sucede nas atribuições do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério da Cultura e nas atribuições da Secretaria-Geral nos domínios do apoio jurídico e de contencioso, da gestão administrativa e financeira do Fundo de Fomento Cultural, do apoio técnico, administrativo e logístico à Comissão Diretiva do Fundo de Salvaguarda do Património Cultural, bem como do apoio administrativo e logístico ao Plenário ou a qualquer secção especializada do Conselho Nacional de Cultura.\n\nO Gabinete de Estratégia, Planeamento e Avaliação Culturais sucede, ainda, nas atribuições da Secretaria-Geral nos domínios da dinamização do mecenato cultural e da tramitação dos procedimentos necessários ao reconhecimento do respetivo estatuto, da emissão de pareceres sobre o interesse cultural de atividades e sobre a utilidade pública de entidades com intervenção no setor cultural, da comunicação e das relações públicas relativamente às atividades da área de intervenção dos serviços e organismos da cultura, bem como da elaboração da agenda cultural e da gestão do Centro de Documentação da área da cultura.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "898319288": {
+   "fragment_id": "898318642",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Gabinete de Estratégia, Planeamento e Avaliação Culturais, abreviadamente designado por GEPAC, é um serviço integrado na administração direta do Estado, dotado de autonomia administrativa."
+  },
+  "898319289": {
+   "fragment_id": "898318643",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - O GEPAC tem por missão garantir o apoio técnico à formulação de políticas culturais, ao planeamento estratégico e operacional e às relações internacionais, em articulação com a programação financeira, proceder ao acompanhamento e avaliação global de resultados obtidos, bem como assegurar o apoio jurídico e o contencioso, dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura.\n\n2 - O GEPAC prossegue as seguintes atribuições:\n\na) Prestar apoio técnico em matéria de definição e estruturação das políticas, prioridades e objetivos da área da cultura e contribuir para a conceção e a execução da respetiva política legislativa;\n\nb) Apoiar a definição das principais opções em matéria orçamental e assegurar a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas;\n\nc) Acompanhar e avaliar a execução das políticas e programas da área da cultura, bem como elaborar, difundir e apoiar a criação dos instrumentos adequados a esse fim;\n\nd) Assegurar a gestão administrativa e financeira do Fundo de Fomento Cultural;\n\ne) Propor a celebração de contratos-programa ou outros mecanismos de gestão de fundos comunitários, participar na definição das condições de acesso, elegibilidade, critérios de seleção e monitorização dos resultados das medidas ou ações de programas operacionais, de programas de iniciativa comunitária e outros programas, assegurar a gestão conjunta das referidas medidas ou ações e colaborar na divulgação e dinamização destes mecanismos de financiamento;\n\nf) Apoiar e assegurar as relações internacionais na área da cultura, coordenando as ações desenvolvidas no âmbito das relações externas no respetivo setor e os projetos dos serviços e organismos relativos à internacionalização da cultura portuguesa, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\ng) Propor a adoção ou prestar apoio técnico à adoção de medidas legislativas no domínio do direito de autor, assegurando a representação do membro do Governo responsável pela área da cultura nas organizações e nos fóruns internacionais.\n\n3 - O GEPAC prossegue, ainda, as seguintes atribuições:\n\na) Elaborar estudos de prospetiva de âmbito sectorial e regional na área da cultura;\n\nb) Promover, organizar e acompanhar o processo da avaliação do desempenho dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nc) Definir no plano técnico objetivos e indicadores estratégicos que indexem e objetivem os resultados pretendidos com as políticas definidas;\n\nd) Acompanhar o desenvolvimento da concretização dos objetivos pelos diversos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura, de modo a permitir uma permanente monitorização da sua atividade e desempenho, ponderando os recursos consumidos e os resultados alcançados;\n\ne) Estimular e apoiar a definição de indicadores e de métricas de desempenho por parte dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura, bem como promover a padronização de conceitos;\n\nf) Assegurar o desenvolvimento dos sistemas de avaliação dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\ng) Prestar apoio jurídico e de contencioso, aos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nh) Apoiar os órgãos, serviços e organismos da área da cultura na elaboração dos regulamentos internos e demais instrumentos legais, bem como emitir e realizar pareceres e estudos jurídicos por aqueles solicitados;\n\ni) Instruir ou apoiar tecnicamente a instrução de processos disciplinares, sem prejuízo das competências próprias dos titulares dos cargos de direção superior de 1.º grau dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nj) Promover e desenvolver ações e programas de cooperação internacional na área da cultura, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros;\n\nk) Assegurar a implementação do plano estratégico do sistema de informação dos serviços e organismos da área da cultura em articulação com a Secretaria-Geral;\n\nl) Gerir o acervo do centro de documentação da área da cultura, procedendo à sua recolha, tratamento e divulgação;\n\nm) Promover a divulgação interna das atividades desenvolvidas pelos serviços e organismos da área da cultura, e assegurar, na área de intervenção daqueles serviços e organismos, as atividades de comunicação e relações públicas e de elaboração da agenda cultural;\n\nn) Dinamizar, em articulação com os serviços e organismos da área da cultura, a política de mecenato cultural e assegurar a tramitação dos procedimentos necessários ao reconhecimento do respetivo estatuto, quando exigível;\n\no) Emitir parecer, quando solicitado pela Secretaria-Geral, e após recolha dos contributos dos serviços e organismos da área da cultura, sobre o interesse cultural de atividades e sobre a utilidade pública de entidades com intervenção no setor cultural.\n\n4 - O GEPAC possui capacidade editorial própria, podendo proceder à venda das publicações e outros trabalhos por si editados ou quaisquer outros cujos direitos lhe pertençam ou, por qualquer outro modo, dispor do respetivo produto, assegurando os correspondentes direitos editoriais."
+  },
+  "898319290": {
+   "fragment_id": "898318644",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - O GEPAC é dirigido por um diretor-geral, cargo de direção superior de 1.º grau.\n\n2 - Junto do GEPAC funcionam:\n\na) A Comissão de Mediação e Arbitragem de Direitos de Autor, criada pela Lei n.º 83/2001, de 3 de agosto;\n\nb) A Comissão Diretiva do Fundo de Salvaguarda do Património Cultural, criado pelo Decreto-Lei n.º 138/2009, de 15 de junho."
+  },
+  "898319291": {
+   "fragment_id": "898318645",
+   "type": 11,
+   "heading": "Artigo 4.º — Diretor-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Diretor-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor-geral:\n\na) Representar o membro do Governo responsável pela área da cultura nas organizações internacionais com competência na área da cultura, em particular na UNESCO, ressalvadas as competências da administração cultural cometente relativas ao Património da Humanidade, e no Conselho da Europa, através da participação em reuniões ou missões internacionais;\n\nb) Assegurar a representação do membro do Governo responsável pela área da cultura nos grupos de trabalho ou comités sectoriais que funcionam junto dos órgãos comunitários.\n\n2 - O diretor-geral identifica o titular do cargo de direção intermédia de 1.º grau que o substitui nas suas faltas e impedimentos."
+  },
+  "898319292": {
+   "fragment_id": "898318646",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna do GEPAC obedece ao modelo de estrutura hierarquizado."
+  },
+  "898319293": {
+   "fragment_id": "898318647",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Receitas\n\n1 - O GEPAC dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O GEPAC dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços, no âmbito das suas atribuições e competências;\n\nb) O produto da venda de publicações e de outros trabalhos editados pelo GEPAC ou por outros serviços do Estado já extintos cujo espólio tenha sido afeto ao GEPAC;\n\nc) Os subsídios e comparticipações atribuídos por quaisquer entidades, públicas ou privadas, nacionais ou estrangeiras;\n\nd) O produto da venda de bens e equipamentos dispensáveis, obsoletos ou descontinuados;\n\ne) O produto da cedência de espaços que estejam a seu cargo;\n\nf) O produto de apoios concedidos ao abrigo do Estatuto do Mecenato para projetos de manifesto interesse cultural;\n\ng) Quaisquer outras receitas que, por lei, contrato ou qualquer outro título, lhe sejam atribuídas.\n\n3 - Os valores dos produtos vendidos e dos serviços prestados pelo GEPAC são fixados e periodicamente atualizados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.\n\n4 - As receitas previstas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas do GEPAC durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual."
+  },
+  "898319294": {
+   "fragment_id": "898318648",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas\n\nConstituem despesas do GEPAC as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "898319295": {
+   "fragment_id": "898318649",
+   "type": 11,
+   "heading": "Artigo 8.º — Mapa de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mapa de cargos de direção\n\nOs lugares de direção superior de 1.º grau e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "898319296": {
+   "fragment_id": "898318650",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação com o GEPAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cooperação com o GEPAC\n\nOs serviços e organismos na dependência ou sob tutela e superintendência do membro do Governo responsável pela área da cultura devem cooperar estreitamente com o GEPAC para a prossecução das suas atribuições."
+  },
+  "898319297": {
+   "fragment_id": "898318651",
+   "type": 11,
+   "heading": "Artigo 10.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sucessão\n\nO GEPAC sucede nas atribuições da Secretaria-Geral do Ministério da Cultura, nos domínios:\n\na) Do apoio jurídico e de contencioso;\n\nb) Da gestão administrativa e financeira do Fundo de Fomento Cultural;\n\nc) Do apoio técnico, administrativo, e logístico à Comissão Diretiva do Fundo de Salvaguarda do Património Cultural, nos termos do Decreto-Lei n.º 138/2009, de 15 de junho, e da Portaria n.º 1387/2009, de 11 de novembro;\n\nd) Do apoio administrativo e logístico ao Plenário ou a qualquer secção especializada do Conselho Nacional de Cultura, nos termos do n.º 1 do artigo 13.º do Decreto Regulamentar n.º 35/2007, de 29 de março;\n\ne) Da dinamização do mecenato cultural e da tramitação dos procedimentos necessários ao reconhecimento do respetivo estatuto;\n\nf) Da emissão de pareceres sobre o interesse cultural de atividades e sobre a utilidade pública de entidades com intervenção no setor cultural;\n\ng) Da comunicação e das relações públicas relativamente às atividades da área de intervenção dos serviços e organismos da cultura, bem como da elaboração da agenda cultural;\n\nh) Da gestão do Centro de Documentação da área da cultura."
+  },
+  "898319298": {
+   "fragment_id": "898318652",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de seleção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de seleção de pessoal\n\n1 - São fixados como critérios gerais e abstratos de seleção do pessoal, o desempenho de funções na Secretaria-Geral do Ministério da Cultura diretamente relacionadas com as seguintes áreas:\n\na) Do apoio jurídico e de contencioso;\n\nb) Da gestão administrativa e financeira do Fundo de Fomento Cultural;\n\nc) Da dinamização do mecenato cultural e da tramitação dos procedimentos necessários ao reconhecimento do respetivo estatuto;\n\nd) Da emissão de pareceres sobre o interesse cultural de atividades e sobre a utilidade pública de entidades com intervenção no setor cultural;\n\ne) Da comunicação e relações públicas relativamente às atividades da área de intervenção dos serviços e organismos da cultura, bem como da elaboração da agenda cultural;\n\nf) Da gestão do Centro de Documentação da área da cultura.\n\n2 - O disposto no número anterior abrange as respetivas áreas de apoio."
+  },
+  "898319299": {
+   "fragment_id": "898318653",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar n.º 33/2007, de 29 de março."
+  },
+  "898319300": {
+   "fragment_id": "898318654",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "898319302": {
+   "fragment_id": "898318656",
+   "type": 14,
+   "heading": "Anexo — Mapa a que se refere o artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa a que se refere o artigo 8.º\n\n(ver documento original)"
+  },
+  "898319303": {
+   "fragment_id": "898318643",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2017-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 27/2017 - Diário da República n.º 50/2017, Série I de 2017-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661), em vigor a partir de 2017-03-11"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - O GEPAC tem por missão garantir o apoio técnico à formulação de políticas culturais, ao planeamento estratégico e operacional e às relações internacionais, em articulação com a programação financeira, proceder ao acompanhamento e avaliação global de resultados obtidos, bem como assegurar o apoio jurídico e o contencioso, dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura.\n\n2 - O GEPAC prossegue as seguintes atribuições:\n\na) Prestar apoio técnico em matéria de definição e estruturação das políticas, prioridades e objetivos da área da cultura e contribuir para a conceção e a execução da respetiva política legislativa;\n\nb) Apoiar a definição das principais opções em matéria orçamental e assegurar a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas;\n\nc) Acompanhar e avaliar a execução das políticas e programas da área da cultura, bem como elaborar, difundir e apoiar a criação dos instrumentos adequados a esse fim;\n\nd) Assegurar a gestão administrativa e financeira do Fundo de Fomento Cultural;\n\ne) Propor a celebração de contratos-programa ou outros mecanismos de gestão de fundos comunitários, participar na definição das condições de acesso, elegibilidade, critérios de seleção e monitorização dos resultados das medidas ou ações de programas operacionais, de programas de iniciativa comunitária e outros programas, assegurar a gestão conjunta das referidas medidas ou ações e colaborar na divulgação e dinamização destes mecanismos de financiamento;\n\nf) Apoiar e assegurar as relações internacionais na área da cultura, coordenando as ações desenvolvidas no âmbito das relações externas no respetivo setor e os projetos dos serviços e organismos relativos à internacionalização da cultura portuguesa, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\ng) Propor a adoção ou prestar apoio técnico à adoção de medidas legislativas no domínio do direito de autor, assegurando a representação do membro do Governo responsável pela área da cultura nas organizações e nos fóruns internacionais.\n\n3 - O GEPAC prossegue, ainda, as seguintes atribuições:\n\na) Elaborar estudos de prospetiva de âmbito sectorial e regional na área da cultura;\n\nb) Promover, organizar e acompanhar o processo da avaliação do desempenho dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nc) Definir no plano técnico objetivos e indicadores estratégicos que indexem e objetivem os resultados pretendidos com as políticas definidas;\n\nd) Acompanhar o desenvolvimento da concretização dos objetivos pelos diversos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura, de modo a permitir uma permanente monitorização da sua atividade e desempenho, ponderando os recursos consumidos e os resultados alcançados;\n\ne) Estimular e apoiar a definição de indicadores e de métricas de desempenho por parte dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura, bem como promover a padronização de conceitos;\n\nf) Assegurar o desenvolvimento dos sistemas de avaliação dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\ng) Prestar apoio jurídico e de contencioso, aos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nh) Apoiar os órgãos, serviços e organismos da área da cultura na elaboração dos regulamentos internos e demais instrumentos legais, bem como emitir e realizar pareceres e estudos jurídicos por aqueles solicitados;\n\ni) Instruir ou apoiar tecnicamente a instrução de processos disciplinares, sem prejuízo das competências próprias dos titulares dos cargos de direção superior de 1.º grau dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nj) Promover e desenvolver ações e programas de cooperação internacional na área da cultura, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros;\n\nk) Assegurar a implementação do plano estratégico do sistema de informação dos serviços e organismos da área da cultura em articulação com a Secretaria-Geral;\n\nl) Gerir o acervo do centro de documentação da área da cultura, procedendo à sua recolha, tratamento e divulgação;\n\nm) Promover a divulgação interna das atividades desenvolvidas pelos serviços e organismos da área da cultura, e assegurar, na área de intervenção daqueles serviços e organismos, as atividades de comunicação e relações públicas e de elaboração da agenda cultural;\n\nn) Dinamizar, em articulação com os serviços e organismos da área da cultura, a política de mecenato cultural e assegurar a tramitação dos procedimentos necessários ao reconhecimento do respetivo estatuto, quando exigível;\n\no) Emitir parecer, quando solicitado pela Secretaria-Geral, e após recolha dos contributos dos serviços e organismos da área da cultura, sobre o interesse cultural de atividades e sobre a utilidade pública de entidades com intervenção no setor cultural.\n\n4 - O GEPAC possui capacidade editorial própria, podendo proceder à venda das publicações e outros trabalhos por si editados ou quaisquer outros cujos direitos lhe pertençam ou, por qualquer outro modo, dispor do respetivo produto, assegurando os correspondentes direitos editoriais.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 27/2017 - Diário da República n.º 50/2017, Série I de 2017-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661), em vigor a partir de 2017-03-11"
+  },
+  "898319301": {
+   "fragment_id": "898318655",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.\n\nPromulgado em 22 de fevereiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de fevereiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "898319304": {
+   "fragment_id": "898318644",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2018-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - O GEPAC é dirigido por um diretor-geral, cargo de direção superior de 1.º grau.\n\n2 - Junto do GEPAC funcionam:\n\na) A Comissão de Mediação e Arbitragem de Direitos de Autor, criada pela Lei n.º 83/2001, de 3 de agosto;\n\nb) [Revogada].\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+  },
+  "898319305": {
+   "fragment_id": "898318651",
+   "type": 11,
+   "heading": "Artigo 10.º — Sucessão",
+   "in_force_from": "2018-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+   ],
+   "markdown": "###### Artigo 10.º — Sucessão\n\nO GEPAC sucede nas atribuições da Secretaria-Geral do Ministério da Cultura, nos domínios:\n\na) Do apoio jurídico e de contencioso;\n\nb) Da gestão administrativa e financeira do Fundo de Fomento Cultural;\n\nc) [Revogada];\n\nd) Do apoio administrativo e logístico ao Plenário ou a qualquer secção especializada do Conselho Nacional de Cultura, nos termos do n.º 1 do artigo 13.º do Decreto Regulamentar n.º 35/2007, de 29 de março;\n\ne) Da dinamização do mecenato cultural e da tramitação dos procedimentos necessários ao reconhecimento do respetivo estatuto;\n\nf) Da emissão de pareceres sobre o interesse cultural de atividades e sobre a utilidade pública de entidades com intervenção no setor cultural;\n\ng) Da comunicação e das relações públicas relativamente às atividades da área de intervenção dos serviços e organismos da cultura, bem como da elaboração da agenda cultural;\n\nh) Da gestão do Centro de Documentação da área da cultura.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+  },
+  "898319306": {
+   "fragment_id": "898318643",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2024-11-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 96/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 27/2017 - Diário da República n.º 50/2017, Série I de 2017-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661), em vigor a partir de 2017-03-11"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - O GEPAC tem por missão garantir o apoio técnico à formulação de políticas culturais, ao planeamento estratégico e operacional e às relações internacionais, em articulação com a programação financeira, proceder ao acompanhamento e avaliação global de resultados obtidos, bem como assegurar o apoio jurídico e o contencioso, dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura.\n\n2 - O GEPAC prossegue as seguintes atribuições:\n\na) Prestar apoio técnico em matéria de definição e estruturação das políticas, prioridades e objetivos da área da cultura e contribuir para a conceção e a execução da respetiva política legislativa;\n\nb) Apoiar a definição das principais opções em matéria orçamental e assegurar a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas;\n\nc) Acompanhar e avaliar a execução das políticas e programas da área da cultura, bem como elaborar, difundir e apoiar a criação dos instrumentos adequados a esse fim;\n\nd) Assegurar a gestão administrativa e financeira do Fundo de Fomento Cultural;\n\ne) Propor a celebração de contratos-programa ou outros mecanismos de gestão de fundos comunitários, participar na definição das condições de acesso, elegibilidade, critérios de seleção e monitorização dos resultados das medidas ou ações de programas operacionais, de programas de iniciativa comunitária e outros programas, assegurar a gestão conjunta das referidas medidas ou ações e colaborar na divulgação e dinamização destes mecanismos de financiamento;\n\nf) Apoiar e assegurar as relações internacionais na área da cultura, coordenando as ações desenvolvidas no âmbito das relações externas no respetivo setor e os projetos dos serviços e organismos relativos à internacionalização da cultura portuguesa, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\ng) Propor a adoção ou prestar apoio técnico à adoção de medidas legislativas no domínio do direito de autor, assegurando a representação do membro do Governo responsável pela área da cultura nas organizações e nos fóruns internacionais.\n\n3 - O GEPAC prossegue, ainda, as seguintes atribuições:\n\na) Elaborar estudos de prospetiva de âmbito sectorial e regional na área da cultura;\n\nb) Promover, organizar e acompanhar o processo da avaliação do desempenho dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nc) Definir no plano técnico objetivos e indicadores estratégicos que indexem e objetivem os resultados pretendidos com as políticas definidas;\n\nd) Acompanhar o desenvolvimento da concretização dos objetivos pelos diversos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura, de modo a permitir uma permanente monitorização da sua atividade e desempenho, ponderando os recursos consumidos e os resultados alcançados;\n\ne) Estimular e apoiar a definição de indicadores e de métricas de desempenho por parte dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura, bem como promover a padronização de conceitos;\n\nf) Assegurar o desenvolvimento dos sistemas de avaliação dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\ng) Prestar apoio jurídico e de contencioso, aos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nh) Apoiar os órgãos, serviços e organismos da área da cultura na elaboração dos regulamentos internos e demais instrumentos legais, bem como emitir e realizar pareceres e estudos jurídicos por aqueles solicitados;\n\ni) Instruir ou apoiar tecnicamente a instrução de processos disciplinares, sem prejuízo das competências próprias dos titulares dos cargos de direção superior de 1.º grau dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nj) Promover e desenvolver ações e programas de cooperação internacional na área da cultura, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros;\n\nk) Assegurar a implementação do plano estratégico do sistema de informação dos serviços e organismos da área da cultura em articulação com a Secretaria-Geral;\n\nl) Gerir o acervo do centro de documentação da área da cultura, procedendo à sua recolha, tratamento e divulgação;\n\nm) Promover a divulgação interna das atividades desenvolvidas pelos serviços e organismos da área da cultura, e assegurar, na área de intervenção daqueles serviços e organismos, as atividades de comunicação e relações públicas e de elaboração da agenda cultural;\n\nn) Dinamizar, em articulação com os serviços e organismos da área da cultura, a política de mecenato cultural e assegurar a tramitação dos procedimentos necessários ao reconhecimento do respetivo estatuto, quando exigível;\n\no) Emitir parecer, quando solicitado pela Secretaria-Geral, e após recolha dos contributos dos serviços e organismos da área da cultura, sobre o interesse cultural de atividades e sobre a utilidade pública de entidades com intervenção no setor cultural.\n\np) Exercer as funções de entidade coordenadora orçamental, em articulação com os instrumentos de gestão, financeiros e não financeiros, dos serviços e entidades dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nq) Emitir pareceres e orientações em matérias de interesse comum, designadamente em matéria de organização e funcionamento, reorganização e racionalização de efetivos, e criação e alteração de mapas de pessoal, aos serviços e entidades dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura.\n\n4 - O GEPAC possui capacidade editorial própria, podendo proceder à venda das publicações e outros trabalhos por si editados ou quaisquer outros cujos direitos lhe pertençam ou, por qualquer outro modo, dispor do respetivo produto, assegurando os correspondentes direitos editoriais.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 96/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 27/2017 - Diário da República n.º 50/2017, Série I de 2017-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661), em vigor a partir de 2017-03-11"
+  }
+ }
+}

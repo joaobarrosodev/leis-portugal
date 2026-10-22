@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:396343:por
+title: Portaria n.º 943/84
+short_title: null
+summary: Alarga a área de recrutamento para os lugares de director dos Palácios Nacionais da Ajuda, Mafra, Pena, Queluz e
+  Sintra e do Arquivo Histórico do Ministério das Finanças e do Plano
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Cultura
+proposing_entity: null
+official_number: 943/84
+official_date: null
+publication_date: '1984-12-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 293/1984, Série I de 1984-12-20
+  number: '293'
+  series: I
+  supplement: null
+  pages: 3840 - 3840
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/12/29300/38403840.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '396343'
+  dre_path: /dr/detalhe/portaria/943-1984-396343
+  internal: pt:dre:396343:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/943-1984-396343
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/943-1984-396343
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-12-20T00:00:00Z'
+integrity:
+  source_sha256: a0e2826271071ad8bf54ce6340f34449920d66b2a1979577ff0e15d1176c6a2f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-943-396343.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 943/84
+
+de 20 de Dezembro
+
+Considerando que o disposto no n.º 1.º da [Portaria n.º 320/83](https://diariodarepublica.pt/dr/detalhe/portaria/320-1983-312604), de 28 de Março, apenas permite o recrutamento de funcionários inseridos nas carreiras de conservador e técnico superior;
+
+Considerando que existem indivíduos inseridos noutras carreiras que, apesar de especialmente habilitados com licenciatura adequada e experiência profissional curricularmente comprovada, não podem ser nomeados directores dos palácios ou do Arquivo a que o n.º 1.º do diploma acima aludido se reporta;
+
+Considerando, finalmente, que urge criar as condições indispensáveis ao funcionamento mínimo daqueles serviços:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Cultura e pelo Secretário de Estado da Administração Pública, o seguinte:
+
+O n.º 1.º da [Portaria n.º 320/83](https://diariodarepublica.pt/dr/detalhe/portaria/320-1983-312604), de 28 de Março, passa a ter a seguinte redacção:
+
+1.º Alargar, a título excepcional, a área de recrutamento para os lugares de director dos Palácios Nacionais da Ajuda, Mafra, Pena, Queluz e Sintra e do Arquivo Histórico do Ministério das Finanças de entre qualquer das categorias de conservador ou de entre indivíduos vinculados à função pública, desde que habilitados com licenciatura adequada e curriculum vitae que demonstre possuírem a qualificação técnica e a experiência necessárias ao desempenho daquelas funções.
+
+Presidência do Conselho de Ministros e Ministério da Cultura.
+
+**Assinada em 18 de Dezembro de 1984.**
+
+**O Ministro da Cultura, António Antero Coimbra Martins. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**

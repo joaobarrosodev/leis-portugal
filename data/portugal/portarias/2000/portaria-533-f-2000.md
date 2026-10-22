@@ -1,0 +1,437 @@
+---
+schema_version: '1.0'
+id: pt:dre:636251:por
+title: Portaria n.º 533-F/2000
+short_title: null
+summary: 'Aprova o Regulamento da Acção 3.3: Apoio à Produção de Plantas e Sementes, da medida n.º 3 do Programa Operacional
+  Agricultura e Desenvolvimento Rural'
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 533-F/2000
+official_date: null
+publication_date: '2000-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/2000, 2º Suplemento, Série I-B de 2000-08-01
+  number: '176'
+  series: I
+  supplement: 2º Suplemento
+  pages: 3696-(32) a 3696-(36)
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/08/176b02/00320036.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2001-05-08'
+version_history:
+  file: portaria-533-f-2000.versoes.json
+  count: 2
+  source_lastmod: '2026-02-05'
+  versions:
+  - date: '2000-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-08'
+    amending: pt:dre:531187:por
+    amending_title: Portaria n.º 448-B/2001
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Anexo I
+    - Altera Anexo II
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/533-f/2000/p/cons/20010503/pt/html
+  oj: null
+  dre: '636251'
+  dre_path: /dr/detalhe/portaria/533-f-2000-636251
+  internal: pt:dre:636251:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-f-2000-636251
+  metadata_url: https://data.dre.pt/eli/port/533-f/2000/p/cons/20010503/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-1007264698
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-1007264698
+  retrieved_at: '2026-10-22T13:40:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-02-05T00:00:00Z'
+integrity:
+  source_sha256: 12fd2a2f8daa7d384962add004f052e95f511db8e38bc417aed516b99e534701
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:40:54Z'
+  notes: 2 versão(ões); histórico completo em portaria-533-f-2000.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- QCA III
+- Plantula
+- Produção Vegetal
+- Regulamento
+- Equipamento Agrícola
+- Regulamento de Aplicação da Acção 3.3-apoio à Produção de Plantas e Sementes
+- Programa AGRO
+- Semente
+relationships:
+- type: amended_by
+  target: pt:dre:531187:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 9.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Anexo I;
+    Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/448-b-2001-531187
+  date: '2001-05-03'
+- type: cites
+  target: celex:31999R1257
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1257/oj
+article_structure:
+  article_count: 18
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:40:54Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 533-F/2000
+
+O desenvolvimento sustentado do sector florestal deve assentar na criação de todo um conjunto de condições que permitam assegurar o reforço da sua competitividade ao longo de toda a fileira.
+
+Nesse contexto, assume particular importância, a montante da referida fileira, a produção de materiais florestais de reprodução e a beneficiação de materiais de base que garantam uma maior eficiência e assegurem o cumprimento de normas e padrões de segurança e qualidade.
+
+É esse o objectivo da acção Apoio à Produção de Plantas e Sementes, integrada da medida n.º 3 do Programa Agro - Apoio à Silvicultura, e que se enquadra no 1.º travessão do n.º 1 do artigo 30.º do Regulamento (CE) n.º 1257/99, do Conselho, de 17 de Maio.
+
+Assim, ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento da Acção 3.3: Apoio à Produção de Plantas e Sementes, da medida n.º 3 do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado «Programa Agro», em anexo ao presente diploma e do qual faz parte integrante.
+
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Agosto de 2000.
+
+## Anexo — REGULAMENTO DE APLICAÇÃO DA ACÇÃO 3.3: APOIO À PRODUÇÃO DE PLANTAS E SEMENTES
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento estabelece o regime de aplicação da Acção 3.3: Apoio à Produção de Plantas e Sementes, da medida n.º 3 do Programa Agro.
+
+###### Artigo 2.º — Objectivos
+
+O regime de ajudas previsto neste Regulamento tem por objectivos, nomeadamente, os seguintes:
+
+a) Apoiar a modernização de viveiros florestais;
+
+b) Incentivar a produção de materiais florestais de reprodução de qualidade;
+
+c) Incentivar a recolha, o processamento e a conservação de sementes florestais.
+
+###### Artigo 3.º — Investimentos elegíveis
+
+1 - Podem ser concedidas ajudas aos seguintes investimentos:
+
+a) Beneficiação de material de base inscrito, ou a inscrever, no Catálogo Nacional de Materiais de Base;
+
+b) Instalação e modernização de viveiros florestais;
+
+c) Aquisição de equipamentos para colheita, processamento e conservação de sementes para uso florestal;
+
+d) Instalação de pomares de sementes, progenitores familiares, clones e mistura clonal, bem como outros investimentos associados à sua consolidação;
+
+e) Infra-estruturas adequadas às especificidades florestais e que se enquadrem nos objectivos da presente acção.
+
+2 - Os investimentos devem respeitar, maioritariamente, a espécies de certificação obrigatória nos termos da lei.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 448-B/2001 - Diário da República n.º 102/2001, 1º Suplemento, Série I-B de 2001-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/448-b-2001-531187), em vigor a partir de 2001-05-08
+
+###### Artigo 4.º — Investimentos excluídos
+
+Não são concedidas ajudas aos seguintes investimentos:
+
+a) Relativos ao comércio a retalho;
+
+b) A realizar em áreas florestais pertencentes ao património do Estado, de outras pessoas colectivas públicas ou de empresas públicas participadas pelo Estado em 50% ou mais.
+
+###### Artigo 5.º — Beneficiários
+
+Podem beneficiar das ajudas previstas neste Regulamento:
+
+a) Associações de produtores florestais;
+
+b) Cooperativas que tenham por objecto a produção florestal;
+
+c) Órgãos de administração dos baldios;
+
+d) Organismos da administração central, nos termos da Lei dos Baldios;
+
+e) Organismos da administração local;
+
+f) Entidades gestoras de fundos imobiliários florestais;
+
+g) Empresas participadas pelo Estado em menos de 50%;
+
+h) Outras pessoas singulares ou colectivas de direito privado.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 448-B/2001 - Diário da República n.º 102/2001, 1º Suplemento, Série I-B de 2001-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/448-b-2001-531187), em vigor a partir de 2001-05-08
+
+###### Artigo 6.º — Condições de acesso
+
+1 - Para acesso às ajudas os beneficiários devem, nomeadamente:
+
+a) Beneficiação de materiais de base: ser titulares de áreas florestais inscritas, ou a inscrever, no Catálogo Nacional de Materiais de Base;
+
+b) Instalação de viveiros florestais: ter requerido o respectivo registo como viveiristas;
+
+c) Modernização de viveiros florestais: estar registados como viveiristas e ter uma produção de espécies florestais superior a 75% da produção total, da qual, pelo menos, 50% sejam de espécies de certificação obrigatória e que completem, no mínimo, um ciclo no viveiro a apoiar;
+
+d) Colheita, processamento e conservação de sementes: demonstrar a existência de recursos humanos habilitados para a colheita e ou instalações adequadas para o processamento e conservação de sementes.
+
+2 - Para acesso às presentes ajudas, os projectos devem reunir, nomeadamente, as seguintes condições:
+
+a) Ter início após a celebração do contrato de atribuição de ajudas;
+
+b) Nos casos das ajudas à beneficiação de material de base e à instalação de pomares, integrar um plano de gestão para a área de incidência do investimento com uma duração mínima de 15 anos;
+
+c) Ser viável economicamente, quando se trate de instalação e modernização de viveiros florestais;
+
+d) Prever, no caso de instalação de viveiros, uma produção de espécies florestais superior a 75% da produção total, da qual, pelo menos, 50% sejam de espécies de certificação obrigatória e que completem, no mínimo, um ciclo no viveiro a apoiar.
+
+###### Artigo 7.º — Despesas elegíveis
+
+1 - As despesas elegíveis são as constantes do anexo I a este Regulamento.
+
+2 - Os custos máximos das despesas elegíveis são estabelecidos por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+3 - Não são elegíveis as despesas com a aquisição de bens de equipamento em estado de uso.
+
+###### Artigo 8.º — Forma e valores das ajudas
+
+1 - As ajudas previstas neste Regulamento são atribuídas sob a forma de incentivo não reembolsável, de acordo com os valores constantes do anexo II a este Regulamento.
+
+2 - As ajudas previstas neste Regulamento incidem sobre um montante máximo de 225000 euros de investimento elegível por beneficiário.
+
+3 - Os beneficiários podem optar entre a concessão da ajuda nos termos dos números anteriores ou pela sua atribuição unicamente sob a forma de bonificação de juros, sendo o limite de investimento elegível, neste último caso, de 450000 euros.
+
+4 - A bonificação de juros a que se refere o número anterior é concedida nos termos de linha de crédito a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+###### Artigo 9.º — Limites à apresentação de projectos
+
+1 - Os beneficiários podem apresentar mais de um projecto de investimento para um mesmo espaço florestal, não podendo o segundo, ou projectos subsequentes, ser aprovados sem que o anterior esteja concluído.
+
+2 - O disposto no número anterior não se aplica às situações previstas no n.º 4 do artigo anterior em que a ajuda é concedida apenas para o primeiro e único projecto.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 448-B/2001 - Diário da República n.º 102/2001, 1º Suplemento, Série I-B de 2001-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/448-b-2001-531187), em vigor a partir de 2001-05-08
+
+###### Artigo 10.º — Apresentação das candidaturas
+
+As candidaturas são formalizadas através da apresentação de formulário próprio junto do IFADAP, acompanhado de todos os documentos indicados nas respectivas instruções.
+
+###### Artigo 11.º — Análise das candidaturas
+
+A análise das candidaturas e a formulação das respectivas propostas de decisão competem ao gestor do Programa Agro, sem prejuízo da faculdade de delegação de competências nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+
+###### Artigo 12.º — Parecer da unidade de gestão
+
+As propostas de decisão sobre as candidaturas são submetidas a parecer da unidade de gestão.
+
+###### Artigo 13.º — Decisão das candidaturas
+
+1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+
+2 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento e as que não tenham cobertura orçamental assegurada.
+
+3 - Para efeitos de decisão os projectos são hierarquizados por ordem decrescente de acordo com os seguintes tipos:
+
+a) Projectos que agrupem áreas cuja dimensão individual seja inferior à dimensão necessária para inscrição no Catálogo Nacional de Materiais de Base;
+
+b) Projectos apresentados por associações e cooperativas de produtores florestais e por órgãos de administração de baldios, visando a instalação de pomares e a beneficiação das superfícies com material de base instalado;
+
+c) Projectos de colheita, processamento e conservação de sementes florestais;
+
+d) Projectos que visem a modernização de viveiros que nunca tenham sido objecto de ajuda pública;
+
+e) Projectos relativos à introdução de medidas de higiene e segurança no trabalho e de controlo ambiental;
+
+f) Projectos apresentados por associações e cooperativas de produtores florestais e por órgãos de administração de baldios, não enquadráveis nas prioridades atrás estabelecidas.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 448-B/2001 - Diário da República n.º 102/2001, 1º Suplemento, Série I-B de 2001-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/448-b-2001-531187), em vigor a partir de 2001-05-08
+
+###### Artigo 14.º — Contrato de atribuição das ajudas
+
+1 - A atribuição das ajudas faz-se ao abrigo de contratos celebrados entre os beneficiários e o IFADAP.
+
+2 - Pode ser exigida a constituição de garantias a favor do IFADAP para segurança do reembolso das ajudas atribuídas.
+
+3 - No caso de beneficiação de viveiros, os contratos só são celebrados quando o beneficiário esteja registado como viveirista.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 11-G/2000 - Diário da República n.º 227/2000, 2º Suplemento, Série I-B de 2000-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-g-2000-569894), produz efeitos a partir de 2000-08-06
+
+###### Artigo 15.º — Obrigações dos beneficiários
+
+Constituem, nomeadamente, obrigações dos beneficiários:
+
+a) Respeitar os objectivos específicos do projecto;
+
+b) No caso de instalação e modernização de viveiros, manter em actividade os viveiros florestais por um período mínimo de cinco anos;
+
+c) Cumprir o plano de gestão, quando exigido;
+
+d) Cumprir as boas práticas florestais previstas no anexo III, sem prejuízo do cumprimento de outras obrigações de natureza ambiental impostas por lei.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 448-B/2001 - Diário da República n.º 102/2001, 1º Suplemento, Série I-B de 2001-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/448-b-2001-531187), em vigor a partir de 2001-05-08
+
+###### Artigo 16.º — Execução do projecto
+
+1 - A execução material do projecto deve iniciar-se no prazo máximo de seis meses a contar da data de celebração do contrato de atribuição da ajuda e estar concluído no prazo estabelecido naquele.
+
+2 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos referidos no número anterior.
+
+###### Artigo 17.º — Pagamento das ajudas
+
+O pagamento das ajudas faz-se nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos.
+
+###### Artigo 18.º — Normas transitórias
+
+1 - As candidaturas apresentadas no âmbito do anterior Quadro Comunitário de Apoio que não tenham sido objecto de decisão podem beneficiar das presentes ajudas, desde que reúnam as condições estabelecidas neste Regulamento e sejam reformuladas até 31 de Outubro do corrente ano.
+
+2 - Nos casos referidos no número anterior, são elegíveis as despesas efectuadas após a data de apresentação da candidatura.
+
+3 - No que se refere a projectos ainda não apresentados, podem ser consideradas as despesas realizadas após 19 de Novembro de 1999, desde que as respectivas candidaturas sejam apresentadas até 31 de Outubro do corrente ano.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 11-G/2000 - Diário da República n.º 227/2000, 2º Suplemento, Série I-B de 2000-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-g-2000-569894), produz efeitos a partir de 2000-08-06
+
+## Anexo I — Despesas elegíveis
+
+1 - As despesas elegíveis para os investimentos em beneficiação de material de base são, nomeadamente, as seguintes:
+
+a) Podas de formação e de frutificação;
+
+b) Selecção das árvores 'de futuro' (as que apresentam boas características para frutificação, permanecendo no povoamento até ao corte final);
+
+c) Correcção de densidades excessivas sempre que as árvores não tenham valor comercial, através de limpezas que eliminem as árvores sem valor para a produção de semente;
+
+d) Outras despesas associadas às operações anteriormente referidas necessárias à melhoria da qualidade do povoamento.
+
+2 - As despesas elegíveis para os investimentos em instalação e modernização de viveiros florestais são as seguintes:
+
+a) Aquisição de máquinas e equipamentos, nomeadamente sistemas de rega, bancadas de enraizamentos, equipamento de controlo ambiental em estufas, linhas de enchimento e sementeira automáticas, motocultivadoras, tractores, pulverizadores, equipamento informático e equipamento de protecção individual;
+
+b) Construção de infra-estruturas que beneficiem o processo de produção e a qualidade das plantas, nomeadamente estufas e áreas de atempamento, caminhos, sistemas de drenagem e armazéns;
+
+c) Estruturas para assentamento de contentores e reservatórios de água;
+
+d) Infra-estruturas e equipamentos para tratamento de resíduos e efluentes.
+
+3 - As despesas elegíveis para os investimentos na aquisição de equipamentos para colheita, processamento e conservação de sementes são as seguintes:
+
+Aquisição de equipamentos de protecção e segurança individual, câmaras frigoríficas, de germinação, de limpeza de sementes e outros ligados à prossecução dos objectivos do projecto.
+
+4 - As despesas elegíveis para os investimentos em instalação de pomares de sementes, progenitores familiares, clones e mistura clonal são as seguintes:
+
+a) Aquisição de materiais de reprodução certificados;
+
+b) Instalação dos povoamentos;
+
+c) Protecção dos povoamentos contra o gado ou a fauna selvagem, quando se torne necessário conciliar as duas actividades, através da instalação de protecções individuais ou vedações.
+
+d) Outras despesas de investimento associadas à consolidação da instalação do povoamento.
+
+5 - As despesas com infra-estruturas são as seguintes:
+
+a) Construção e beneficiação de rede viária e divisional, própria ou integrando redes existentes dentro e fora da superfície florestal intervencionada;
+
+b) Construção e beneficiação de pontos de água.
+
+6 - Para todos os tipos de investimento são elegíveis as seguintes despesas:
+
+a) Aquisição ou elaboração de cartografia digital da área intervencionada;
+
+b) Elaboração e acompanhamento da execução do projecto até ao limite de 12% do montante total das despesas elegíveis;
+
+c) Despesas com a constituição de garantias exigidas no quadro da análise de risco, até ao limite de 2% do montante total das despesas elegíveis.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 448-B/2001 - Diário da República n.º 102/2001, 1º Suplemento, Série I-B de 2001-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/448-b-2001-531187), em vigor a partir de 2001-05-08
+
+## Anexo II — Valores das ajudas
+
+(a que se refere o artigo 8.º)
+
+(ver quadro no documento original)
+
+No caso da aquisição da cartografia digital, as ajudas são de 100%.
+
+> Nota: [Declaração de Rectificação n.º 11-G/2000 - Diário da República n.º 227/2000, 2º Suplemento, Série I-B de 2000-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-g-2000-569894) Retifica o presente anexo, nos seguintes termos: Na coluna respeitante ao investimento, onde se lê «Modernização de viveiros florestais» deve ler-se «Instalação e modernização de viveiros florestais».
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 448-B/2001 - Diário da República n.º 102/2001, 1º Suplemento, Série I-B de 2001-05-03](https://diariodarepublica.pt/dr/detalhe/portaria/448-b-2001-531187), em vigor a partir de 2001-05-08
+
+## Anexo III — Boas práticas florestais (ver nota 1)
+
+[a que se refere a alínea e) do artigo 15.º]
+
+Durante, pelo menos, a vigência do plano de gestão, devem ser cumpridas as seguintes exigências mínimas ambientais:
+
+1 - Utilização de espécies e proveniências adaptadas à estação.
+
+2 - Utilização de plantas e ou sementes certificadas na instalação dos povoamentos para as espécies constantes do Decreto-Lei n.º 239/92, de 27 de Julho, e respectiva regulamentação.
+
+3 - Aproveitamento da regeneração natural existente na exploração a florestar, enquadrando-a nos objectivos do projecto sempre que se apresente em bom estado vegetativo.
+
+4 - Criação de faixas ou manchas de descontinuidade, preferencialmente ao longo das redes viária e divisional, das linhas de água e de cumeada e dos vales, utilizando, nomeadamente, espécies arbóreas ou arbustivas com baixa inflamabilidade e combustibilidade, comunidades herbáceas ou, ainda, mantendo a vegetação natural.
+
+Em arborizações monoespecíficas de resinosas ou folhosas de elevada combustibilidade, de superfície superior a 20 ha, as zonas de descontinuidade deverão representar pelo menos 15% da superfície total. Esta exigência não se aplica aos povoamentos constituídos por quercíneas autóctones.
+
+5 - Nas faixas de protecção às linhas de água, que deverão ter uma largura mínima de 5 m, efectuar, quando necessário, unicamente mobilizações de solo localizadas.
+
+6 - Conservação de maciços arbóreos, arbustivos e ou de exemplares notáveis de espécies autóctones, principalmente os constantes na alínea c) do artigo 10.º do Decreto Regulamentar n.º 55/81, de 18 de Dezembro, e os classificados ao abrigo do Decreto-Lei n.º 28468, de 15 de Fevereiro de 1938, e legislação complementar.
+
+7 - Conservação dos habitats classificados segundo a directiva habitats, florestais ou não.
+
+8 - As mobilizações do solo não localizadas devem ser executadas segundo as curvas de nível; no entanto, poderá a operação de ripagem não obedecer a essa regra, se seguida de uma operação final de vala e cômoro executada segundo as curvas de nível.
+
+9 - Em silvicultura de menores espaçamentos - entrelinhas =< 4 m - e declives superiores a 20%, instalar uma cultura de cobertura ou manter a vegetação espontânea por um período mínimo de dois anos, através de faixas, dispostas em curva de nível, de acordo com uma das seguintes opções:
+
+Manter em todas as entrelinhas uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com a largura mínima de 0,5 m;
+
+Manter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com a largura mínima de 4 m.
+
+10 - Em silvicultura de maiores espaçamentos - entrelinhas > 4 m -, manter todas as entrelinhas por um período mínimo de dois anos, sem mobilização do solo ou, quando mobilizado, sem reviramento do solo, dispostas em curva de nível, com a largura mínima de 1 m, que preservem a vegetação espontânea ou em que se instale uma cultura de cobertura.
+
+11 - Nas zonas de elevada susceptibilidade à desertificação aplicam-se as exigências 9 ou 10. Nestas zonas, para qualquer declive, deve existir especial cuidado na protecção do solo contra a erosão, nomeadamente evitando o reviramento do solo e a sua permanência sem cobertura.
+
+12 - Utilizar apenas produtos fitofarmacêuticos (PFF) homologados pelo MADRP. É sempre obrigatória a conservação dos comprovativos de aquisição de PFF e de fertilizantes.
+
+13 - Os PFF não se devem aplicar junto das linhas ou captações de água, devendo o seu manuseamento e armazenamento efectuar-se em local seco e impermeabilizado, a uma distância mínima de 10 m de linhas ou captações de água.
+
+14 - Recolher os resíduos - embalagens (incluindo contentores de plantas, sacos plásticos, caixas diversas, etc.), restos de produtos, águas de lavagem de máquinas e óleos - dos locais de estação, de preparação dos produtos e das áreas de arborização, para locais devidamente apropriados. Não queimar plásticos e borracha na exploração.
+
+15 - Não destruir locais de valor arqueológico, patrimonial ou cultural, bem como infra-estruturas tradicionais (muretes, poços, levadas, etc.) que contenham esses valores.
+
+16 - Em parceria com as autoridades competentes - autarquias, direcções regionais do ambiente, Instituto dos Resíduos -, proceder à remoção dos depósitos de entulhos e outros resíduos.
+
+(nota 1) Baseiam-se em objectivos ambientais que decorrem dos critérios de gestão florestal sustentável (GFS) aprovados no âmbito da Resolução L2 da III Conferência Ministerial para a Protecção das Florestas (Lisboa, 1998).

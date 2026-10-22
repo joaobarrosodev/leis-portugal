@@ -1,0 +1,354 @@
+---
+schema_version: '1.0'
+id: pt:dre:451794:por
+title: Decreto-Lei n.º 223/83
+short_title: null
+summary: Altera diversos artigos do Código das Custas Judiciais e modifica, com efeitos a partir de 1 de Janeiro de 1984,
+  a forma de cobrança de custas nos tribunais administrativos e nas auditorias administrativas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Justiça
+proposing_entity: null
+official_number: 223/83
+official_date: null
+publication_date: '1983-05-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/1983, Série I de 1983-05-27
+  number: '122'
+  series: I
+  supplement: null
+  pages: 1930 - 1933
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12200/19301933.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '451794'
+  dre_path: /dr/detalhe/decreto-lei/223-1983-451794
+  internal: pt:dre:451794:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1983-451794
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1983-451794
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: f5a4dc959076f6827e19c200841b1592ecade7a4e4943c46b8e9b11c59af7cb7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-223-451794.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 223/83
+
+de 27 de Maio
+
+1. A reforma dos Códigos de Processo Civil e de Processo Penal em curso há-de certamente impor uma profunda revisão do Código das Custas Judiciais, que, prudentemente, só deve fazer-se concluída que seja aquela reforma.
+
+Entretanto, há que pontualmente ir actualizando os montantes de alguns impostos de justiça fixos, que se mantêm desde 1962 - data da entrada em vigor do actual Código -, bem como a taxa de reembolso do papel, artigos de expediente e portes do correio, cujos custos têm subido desmesuradamente.
+
+Como é sabido, o imposto de justiça tem a natureza jurídica de taxa e o diploma apenas altera alguns dos seus montantes.
+
+2. Também a Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas, que data de há mais de 24 anos, pois foi aprovada, na sua versão inicial, pelo [Decreto-Lei n.º 42150](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42150-1959-590726), de 12 de Fevereiro de 1959, se revela muito desactualizada, podendo considerar-se insignificantes, designadamente quanto aos limites mínimos, os montantes dos impostos de justiça, preparos e multas cobradas nestes tribunais, enquanto é cada vez maior o desequilíbrio entre a receita e a despesa dos cofres do Ministério da Justiça.
+
+3. O artigo 3.º do [Decreto-Lei n.º 224/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1982-395722), de 8 de Junho, uniformiza os prazos previstos no Código de Processo Civil e no Código das Custas Judiciais. Contudo, a [Lei n.º 3/83](https://diariodarepublica.pt/dr/detalhe/lei/3-1983-311375), de 26 de Fevereiro, não ratificou tal preceito nem fez qualquer referência aos prazos deste último Código, do que resulta uma disparidade entre os prazos dos 2 diplomas.
+
+Torna-se, assim, necessário suprir a lacuna, aproveitando-se o ensejo para, do mesmo passo, corrigir a mesma deficiência na Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do Código das Custas Judiciais:
+
+###### Artigo 26.º — (...)
+
+1 - Os processos, incidentes ou actos que correm perante os tribunais de menores pagam o imposto que for fixado pelo tribunal, entre o mínimo de um oitavo e o máximo de um quarto do correspondente a uma acção ou processo orfanológico do mesmo valor; quando a simplicidade do processo, incidente ou acto o justifique, o tribunal pode reduzir o imposto até 500$00, fundamentando a decisão.
+
+2 - ...
+
+...
+
+###### Artigo 43.º — (...)
+
+1 - Os incidentes e os actos não abrangidos no artigo anterior que, devendo ser tributados, não estejam especialmente previstos neste Código pagam o imposto que for fixado pelo tribunal, entre o mínimo de um oitavo e o máximo de um quarto do correspondente a uma acção ou processo orfanológico do mesmo valor; excepcionalmente, pode o tribunal, no entanto, baixar o imposto até 500$00 ou elevá-lo até metade do correspondente a uma acção ou processo orfanológico do mesmo valor, quando a simplicidade ou a complexidade do incidente ou do acto o justifique.
+
+2 - ...
+
+...
+
+###### Artigo 52.º — (...)
+
+1 - Salvo no caso do n.º 2 do artigo 24.º, o imposto que não esteja sujeito a redução não será inferior às seguintes importâncias:
+
+a) Nos tribunais inferiores - 1000$00;
+
+b) Nos tribunais de comarca - 1500$00;
+
+c) Nas relações - 2000$00;
+
+d) No Supremo Tribunal de Justiça - 2500$00.
+
+2 - Nos processos sujeitos a redução, ainda que motivada pela fase em que terminaram, e nos incidentes é de 500$00 o mínimo do imposto, sem prejuízo do que fica disposto na parte final do n.º 2 do artigo 25.º e no artigo 34.º
+
+3 - ...
+
+...
+
+###### Artigo 98.º — (...)
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Os preparos são sempre arredondados para a dezena de escudos imediatamente superior e não são inferiores a 150$00.
+
+...
+
+###### Artigo 111.º — (...)
+
+A falta de preparo subsequente importa a obrigação de pagar imposto de justiça correspondente a 20% da sua importância e nunca inferior a 250$00, e a parte que nela tenha incorrido não poderá preparar para julgamento sem depositar o preparo a que faltou e pagar o imposto a que ficou obrigada.
+
+...
+
+###### Artigo 171.º — (...)
+
+1 - ...
+
+2 - O réu pagará também o imposto de justiça fixado pelo tribunal quando for criminalmente absolvido mas condenado em indemnização cível e ainda quando for isento de pena em virtude de perdão, de explicações aceites e dos demais casos em que a lei penal prevê isenção de pena.
+
+3 - (O actual n.º 2.)
+
+4 - (O actual n.º 3.)
+
+5 - (O actual n.º 4.)
+
+...
+
+###### Artigo 177.º — (...)
+
+1 - A constituição de assistente em acção penal dá lugar ao pagamento de imposto de justiça que, sendo igual ao mínimo correspondente à forma de processo, é levado em conta no caso de o requerente vir a ser condenado a final em novo imposto; se o processo ainda não estiver classificado quando for requerida a constituição de assistente, o requerente pagará o imposto correspondente ao processo correccional e, logo após classificação, o complemento que for devido.
+
+...
+
+###### Artigo 184.º — (...)
+
+O imposto de justiça a aplicar na decisão pode variar, em razão da situação económica do infractor e da complexidade do processo, entre os seguintes limites:
+
+a) Em processo de querela ou de classificação de falência - 10000$00 a 250000$00;
+
+b) Em processo correccional ou por abuso de liberdade de imprensa - 4000$00 a 50000$00;
+
+c) Em quaisquer outros processos, incluindo os que corram termos pelos tribunais de menores e pelos tribunais de execução das penas - 500$00 a 15000$00;
+
+d) Em casos de desistência, perdão, injustificada abstenção de acusar do assistente e não recebimento da sua acusação e ainda nos casos de denúncia feita de má fé ou com negligência grave - 1000$00 a 15000$00;
+
+e) Em casos de falta de comparência, sendo esta obrigatória - 500$00 a 10000$00.
+
+...
+
+###### Artigo 185.º — (...)
+
+Nos incidentes é devido imposto de justiça nos termos seguintes:
+
+a) Pela instrução contraditória, quando não seja oficiosamente admitida - 2000$00 a 20000$00;
+
+b) Por quaisquer outros incidentes estranhos ao andamento normal do processo - 1000$00 a 2500$00.
+
+...
+
+###### Artigo 187.º — (...)
+
+1 - Cada recorrente ou requerente pagará, dentro do prazo fixado no artigo 192.º, mas contado da distribuição do recurso ou da apresentação do requerimento, o seguinte imposto:
+
+a) Nos recursos de decisões finais - 1000$00;
+
+b) Em quaisquer outros recursos e nos pedidos de revisão - 750$00;
+
+c) Em qualquer incidente estranho aos termos regulares do processo - 500$00.
+
+2 - ...
+
+3 - ...
+
+###### Artigo 188.º — (...)
+
+1 - O imposto a aplicar na decisão do recurso ou incidente é fixado, em razão da situação económica do responsável e da complexidade do processo, entre os seguintes limites:
+
+Em processos de transgressão:
+
+Nos recursos das decisões finais - 2000$00 a 50000$00;
+
+Nos outros casos - 1000$00 a 25000$00;
+
+Em quaisquer outros processos:
+
+Nos recursos de decisões finais - 4000$00 a 100000$00;
+
+Nos processos de habeas corpus - 2500$00 a 100000$00;
+
+Nos outros casos - 2000$00 a 50000$00.
+
+2 - Nos processos que correm perante os tribunais de menores e nos que correm perante os tribunais de execução das penas os limites são os seguintes:
+
+Nos recursos de decisões finais - 500$00 a 5000$00;
+
+Nos outros casos - 250$00 a 2500$00.
+
+3 - ...
+
+...
+
+###### Artigo 190.º — (...)
+
+Em qualquer tribunal pagar-se-á imposto nos casos e termos seguintes:
+
+a) Nos processos de caução, conforme o seu valor:
+
+Até 5000$00 - 1000$00;
+
+De mais de 5000$00 até 20000$00 - 1500$00;
+
+De mais de 20000$00 até 100000$00 - 2500$00;
+
+De mais de 100000$00 - acresce à taxa anterior a importância de 250$00 por cada 50000$00 ou fracção além daquela importância;
+
+b) Pela interposição de qualquer recurso 1000$00.
+
+###### Artigo 208.º — (...)
+
+As multas aplicáveis nos processos cíveis e criminais variam entre os seguintes limites:
+
+a) Para os litigantes de má fé - 2500$00 a 300000$00;
+
+b) Para quaisquer outros casos não especialmente regulados na lei - 500$00 a 10000$00.
+
+###### Art. 2.º O artigo 6.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, passa a ter a seguinte redacção:
+
+###### Artigo 6.º — (...)
+
+1 - ...
+
+2 - Os reembolsos por gastos com papel, franquias postais e expediente são contados à taxa de 250$00, por cada 30 folhas ou fracção do processado.
+
+###### Art. 3.º O artigo 49.º da Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas passa a ter a seguinte redacção:
+
+###### Artigo 49.º — (...)
+
+Constituem receita do cofre:
+
+a) ...
+
+b) A quantia de 600$00, paga por cada parte nos recursos ou pelo exequente nas execuções de acórdãos;
+
+c) A quantia de 120$00, paga pelo requerente de cada incidente;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+###### Art. 4.º Os limites mínimos do imposto de justiça e das multas fixadas na Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas são elevados para o sêxtuplo.
+
+###### Art. 5.º As custas cobradas nos tribunais administrativos são divididas nos mesmos termos que as cobradas nos tribunais comuns.
+
+###### Art. 6.º - 1 - São extintos o Cofre do Supremo Tribunal Administrativo e os cofres das auditorias administrativas, transitando para o Cofre Geral dos Tribunais os saldos de conta apurados e os encargos assumidos legalmente.
+
+2 - A execução do disposto no número anterior terá lugar no dia 1 de Janeiro de 1984.
+
+###### Art. 7.º É aplicável aos tribunais administrativos o disposto no artigo 254.º do Código das Custas Judiciais e legislação complementar.
+
+###### Art. 8.º - 1 - Os prazos estabelecidos no Código das Custas Judiciais são alterados pela seguinte forma:
+
+a) Passam a ser de 1 dia os prazos de 24 horas referidos nos artigos 107.º, n.º 1, 122.º, n.º 3, e 144.º, n.º 1;
+
+b) Passam a ser de 2 dias os prazos de 48 horas referidos nos artigos 98.º n.º 1, 132.º, n.º 1, 165.º, n.º 1, 199.º, n.os 1 e 2, e 211.º;
+
+c) Passam a ser de 5 dias os prazos de 3 dias referidos nos artigos 106.º, n.º 2, 138.º, n.º 2, e 139.º, n.º 1;
+
+d) Passam a ser de 7 dias os prazos de 5 dias referidos nos artigos 104.º, n.º 1, 105.º, n.º 1, 106.º, n.º 1, 107.º, n.º 1, 110.º, n.º 1, 145.º, n.º 3, e 192.º, n.º 1.
+
+2 - Os prazos estabelecidos na Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas são alterados pela seguinte forma:
+
+a) Passa a ser de 1 dia o prazo de 24 horas referido no artigo 44.º;
+
+b) Passam a ser de 5 dias os prazos de 3 dias referidos na primeira parte do artigo 42.º, no
+
+c) Passam a ser de 7 dias os prazos de 3 dias referidos na primeira parte do artigo 42.º, no § único do artigo 43.º, no artigo 55.º e no artigo 56.º, e os prazos de 5 dias referidos nas primeira e segunda partes do artigo 41.º, na segunda parte do artigo 42.º, no artigo 46.º e no § único do artigo 54.º
+
+###### Art. 9.º É revogado o artigo 17.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, e a alínea a) do artigo 49.º da Tabela das Custas no Supremo Tribunal Administrativo e nas Auditorias Administrativas.
+
+Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
+
+**Promulgado em 13 de Maio de 1983.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 16 de Maio de 1983.**
+
+Pelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.

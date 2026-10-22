@@ -1,0 +1,94 @@
+---
+schema_version: '1.0'
+id: pt:dre:1040344:por
+title: Declaração de Rectificação n.º 572/2009
+short_title: null
+summary: Rectifica o despacho n.º 937/2009 (2.ª série), publicado no Diário da República, 2.ª Série, n.º 8, de 13 de Janeiro
+  de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Economia e da Inovação - Direcção Regional da Economia do Norte
+proposing_entity: null
+official_number: 572/2009
+official_date: null
+publication_date: '2009-02-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 39/2009, Série II de 2009-02-25
+  number: '39'
+  series: II
+  supplement: null
+  pages: 7539 - 7539
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/02/039000000/0753907539.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1040344'
+  dre_path: /dr/detalhe/declaracao-rectificacao/572-2009-1040344
+  internal: pt:dre:1040344:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/572-2009-1040344
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/572-2009-1040344
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-02-25T00:00:00Z'
+integrity:
+  source_sha256: 399ecee580d1ed6e198e9ff8846fe5610be7fbb7f73bf6bce58a3ba2ab4586bf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-572-1040344.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 572/2009
+
+Por ter saído com inexactidão o despacho (extracto) n.º 937/2009 (2.ª Série), publicado no Diário da República, 2.ª Série, n.º 8, de 13 de Janeiro de 2009, página 1205, rectifica-se que onde se lê:
+
+"Tendo em conta que o funcionário preenche os requisitos de tempo e avaliação necessários para a promoção na respectiva carreira, nomeio, ao abrigo da alínea b), n.º 3 do artigo 15.º da [Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/lei/10-2004-541273), de 22 de Março, assessor principal da carreira técnica superior, em reconhecimento da excelência, e independentemente de concurso em lugar de dotação global do quadro de pessoal da Direcção Regional da Economia do Norte, constante do mapa I, anexo à [Portaria n.º 443/99](https://diariodarepublica.pt/dr/detalhe/portaria/443-1999-388024), de 18 de Junho, alterado pela [Portaria n.º 103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/103-2000-413237), de 24 de Fevereiro"
+
+Deve ler-se:
+
+"Tendo em conta que o funcionário preenche os requisitos de tempo e avaliação necessários para a promoção na respectiva carreira, nomeio, ao abrigo da alínea b), n.º 3 do artigo 15.º da [Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/lei/10-2004-541273), de 22 de Março, assessor principal da carreira técnica superior, com efeitos a 31-12-2008, em reconhecimento da excelência, e independentemente de concurso em lugar de dotação global do mapa de pessoal da Direcção Regional da Economia do Norte, constante do mapa I, anexo à [Portaria n.º 443/99](https://diariodarepublica.pt/dr/detalhe/portaria/443-1999-388024), de 18 de Junho, alterado pela [Portaria n.º 103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/103-2000-413237), de 24 de Fevereiro".
+
+6 de Fevereiro de 2009. - O Director Regional, Manuel Humberto Gonçalves Moura.

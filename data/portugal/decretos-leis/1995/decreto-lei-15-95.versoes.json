@@ -1,0 +1,1038 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139269:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-75593455",
+ "dre_path": "/dr/detalhe/decreto-lei/15-1995-139269",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-01-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75590680",
+    "75590681",
+    "1123330475",
+    "75590682",
+    "1123320575",
+    "1123322675",
+    "1123330775",
+    "75590683",
+    "75590684",
+    "1123331075",
+    "1123324775",
+    "1123326675",
+    "1123331375",
+    "1123328575",
+    "75590685",
+    "75590686",
+    "75590687",
+    "75590688",
+    "75590689",
+    "75590690",
+    "75590691",
+    "75590692",
+    "75590693",
+    "75590694",
+    "75590695",
+    "75590696",
+    "75590697",
+    "75590698",
+    "75590699",
+    "75590700",
+    "75590701",
+    "75590702",
+    "75590703",
+    "75590704",
+    "75590705",
+    "75590706",
+    "75590707",
+    "75590708",
+    "75590709",
+    "75590710",
+    "75590711",
+    "75590712",
+    "75590713"
+   ]
+  },
+  {
+   "date": "2001-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:321287:por",
+     "title": "Decreto-Lei n.º 54/2001",
+     "published": "2001-02-15",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2001-321287"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "75590680",
+    "75590681",
+    "75590682",
+    "1099416975",
+    "75590684",
+    "75590685",
+    "75590686",
+    "75590687",
+    "75590688",
+    "75590689",
+    "75590690",
+    "75590691",
+    "75590692",
+    "75590693",
+    "75590694",
+    "75590695",
+    "75590696",
+    "75590697",
+    "75590698",
+    "75590699",
+    "75590700",
+    "75590701",
+    "75590702",
+    "75590703",
+    "75590704",
+    "75590705",
+    "75590706",
+    "75590707",
+    "75590708",
+    "75590709",
+    "75590710",
+    "75590711",
+    "75590712",
+    "75590713",
+    "75590714"
+   ]
+  },
+  {
+   "date": "2002-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:655748:por",
+     "title": "Decreto-Lei n.º 206/2002",
+     "published": "2002-10-16",
+     "dre_path": "/dr/detalhe/decreto-lei/206-2002-655748"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "75590680",
+    "75590681",
+    "75590682",
+    "1112970475",
+    "75590684",
+    "75590685",
+    "75590686",
+    "75590687",
+    "75590688",
+    "75590689",
+    "75590690",
+    "75590691",
+    "75590692",
+    "75590693",
+    "75590694",
+    "75590695",
+    "75590696",
+    "75590697",
+    "75590698",
+    "75590699",
+    "75590700",
+    "75590701",
+    "75590702",
+    "75590703",
+    "75590704",
+    "75590705",
+    "75590706",
+    "75590707",
+    "75590708",
+    "75590709",
+    "75590710",
+    "75590711",
+    "75590712",
+    "75590713",
+    "75590714"
+   ]
+  },
+  {
+   "date": "2010-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:333519:por",
+     "title": "Lei n.º 17/2010",
+     "published": "2010-08-04",
+     "dre_path": "/dr/detalhe/lei/17-2010-333519"
+    }
+   ],
+   "changes": [
+    "Adita Secção I",
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 1.º-B",
+    "Adita Secção II",
+    "Adita Secção III",
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 3.º-B",
+    "Adita Secção IV",
+    "Adita Artigo 3.º-C",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "75590680",
+    "75590681",
+    "1123347975",
+    "1123341575",
+    "1123341675",
+    "1123341375",
+    "1123348075",
+    "1123344775",
+    "1123344575",
+    "1123348175",
+    "1123347675",
+    "1123347475",
+    "1123347775",
+    "1123365375",
+    "1123365475",
+    "1123365575",
+    "1123365675",
+    "1123365775",
+    "1123365875",
+    "1123365975",
+    "1123366075",
+    "1123366175",
+    "1123366275",
+    "1123366375",
+    "1123366475",
+    "1123366575",
+    "1123366675",
+    "1123366775",
+    "1123366875",
+    "1123365175",
+    "75590701",
+    "1123335775",
+    "1123335975",
+    "1123336175",
+    "1123336375",
+    "1123336575",
+    "1123317575",
+    "1123336775",
+    "1123336975",
+    "1123337175",
+    "1123337375",
+    "1123337575",
+    "1123337775",
+    "75590714"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:333519:por",
+     "title": "Lei n.º 17/2010",
+     "published": "2010-08-04",
+     "dre_path": "/dr/detalhe/lei/17-2010-333519",
+     "date": "2010-11-30"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "75590680": {
+   "fragment_id": "75593456",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 15/95\n\nde 24 de Janeiro\n\nA entrada em vigor de um novo Código da Propriedade Industrial aconselha a um reforço das instituições a que cabe a sua aplicação. Paralelamente, e para permitir uma melhor adequação da oferta de serviços especializados nesta área ao previsível incremento da procura, que uma regulamentação nova e mais abrangente não deixará de trazer, altera-se agora o enquadramento legal da actuação dos agentes oficiais da propriedade industrial e dos procuradores autorizados.\n\nDo mesmo modo pareceu oportuna a inclusão de algumas regras que, tornando visíveis certos procedimentos internos do Instituto Nacional da Propriedade Industrial, não deixarão de contribuir para uma acrescida transparência do seu funcionamento com o correspondente benefício do público utilizador.\n\nAssim:\n\nAo abrigo do disposto na alínea f) do n.º 3 do artigo 1.º da Lei n.º 11/94, de 11 de Maio, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "75590681": {
+   "fragment_id": "75593457",
+   "type": 1,
+   "heading": "Capítulo I — Dos agentes da propriedade industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Dos agentes da propriedade industrial"
+  },
+  "1123330475": {
+   "fragment_id": "1123330375",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2010-08-09",
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "75590682": {
+   "fragment_id": "75593458",
+   "type": 11,
+   "heading": "Artigo 1.º — Agentes oficiais da propriedade industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Agentes oficiais da propriedade industrial\n\nSão agentes oficiais da propriedade industrial aqueles que como tal sejam reconhecidos pelo Instituto Nacional da Propriedade Industrial à data da entrada em vigor do Código da Propriedade Industrial e os que vierem a adquirir essa qualidade nos termos do presente diploma."
+  },
+  "1123320575": {
+   "fragment_id": "1123320475",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Forma e tramitação dos pedidos",
+   "in_force_from": "2010-08-09",
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-A — Forma e tramitação dos pedidos\n\n1 - A prática dos actos necessários à aquisição ou ao reconhecimento da qualidade de agente oficial da propriedade industrial deve ser feita, preferencialmente, por transmissão electrónica de dados.\n\n2 - Na instrução dos pedidos de aquisição e reconhecimento da qualidade de agente oficial da propriedade industrial podem ser aceites cópias simples e traduções não certificadas.\n\n3 - Sempre que necessário, o Instituto Nacional da Propriedade Industrial, I. P., pode exigir uma tradução para a língua portuguesa dos requerimentos, das declarações e da documentação que os acompanha.\n\n4 - Sempre que o requerente ou declarante tenha origem noutro Estado membro da União Europeia e subsistam dúvidas sobre qualquer um dos aspectos referidos no presente capítulo, o Instituto Nacional da Propriedade Industrial, I. P., deve cumprir o disposto no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de Março, contactando para o efeito as autoridades competentes do país de origem.\n\n5 - O Instituto Nacional da Propriedade Industrial, I. P., disponibiliza no seu portal e no balcão único informações sobre os requisitos, em especial os referentes a procedimentos e formalidades a cumprir para aceder e exercer a actividade de agente oficial de propriedade industrial, bem como outras informações úteis sobre os agentes oficiais da propriedade industrial.\n\n6 - São fixados por portaria do membro do Governo responsável pela área da propriedade industrial e divulgados no portal do Instituto Nacional de Propriedade Industrial, I. P., no Portal do Cidadão, no Portal da Empresa e no balcão único os seguintes elementos:\n\na) Todas as normas regulamentares referentes à documentação que deva instruir os pedidos;\n\nb) As taxas a que os mesmos estão sujeitos;\n\nc) Os prazos de decisão e da tramitação processual subsequente;\n\nd) O regulamento de realização das provas de aptidão;\n\ne) Os termos de investidura."
+  },
+  "1123322675": {
+   "fragment_id": "1123322575",
+   "type": 11,
+   "heading": "Artigo 1.º-B — Princípio da cooperação",
+   "in_force_from": "2010-08-09",
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-B — Princípio da cooperação\n\nO Instituto Nacional da Propriedade Industrial, I. P., colabora com as entidades homólogas dos demais Estados membros da União Europeia, nos termos do n.º 2 do artigo 51.º e do n.º 4 do artigo 52.º da Lei n.º 9/2009, de 4 de Março."
+  },
+  "1123330775": {
+   "fragment_id": "1123330675",
+   "type": 8,
+   "heading": "Secção II — Aquisição da qualidade de agente oficial da propriedade industrial",
+   "in_force_from": "2010-08-09",
+   "changed_by": [],
+   "markdown": "#### Secção II — Aquisição da qualidade de agente oficial da propriedade industrial"
+  },
+  "75590683": {
+   "fragment_id": "75593459",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1 - Para desempenhar as funções de agente oficial são requisitos indispensáveis os seguintes:\n\na) Ser cidadão português, maior e não estar inibido dos seus direitos civis e políticos;\n\nb) Não estar inibido do exercício da profissão por decisão transitada em julgado;\n\nc) Ter cumprido os preceitos da lei militar, quando aplicáveis;\n\nd) Ter escritório em Portugal;\n\ne) Ser licenciado nas áreas de engenharia, de direito ou de economia.\n\n2 - Os nacionais de Estados membros da Comunidade Europeia serão, para efeitos do presente diploma, equiparados a cidadãos portugueses."
+  },
+  "75590684": {
+   "fragment_id": "75593460",
+   "type": 11,
+   "heading": "Artigo 3.º — Exame de prestação de provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exame de prestação de provas\n\n1 - A qualidade de agente oficial da propriedade industrial adquire-se mediante a aprovação em exame da prestação de provas ao qual serão admitidos os indivíduos habilitados com uma das licenciaturas mencionadas na alínea e) do n.º 1 do artigo anterior.\n\n2 - As provas do exame serão prestadas em língua portuguesa, constando de uma prova escrita e de uma discussão oral.\n\n3 - A classificação final será a da média aritmética das provas escrita e oral.\n\n4 - A lista dos candidatos aprovados será submetida a homologação do Ministro da tutela e depois publicada no Diário da República."
+  },
+  "1123331075": {
+   "fragment_id": "1123330975",
+   "type": 8,
+   "heading": "Secção III — Reconhecimento das qualificações profissionais",
+   "in_force_from": "2010-08-09",
+   "changed_by": [],
+   "markdown": "#### Secção III — Reconhecimento das qualificações profissionais"
+  },
+  "1123324775": {
+   "fragment_id": "1123324675",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Liberdade de estabelecimento em Portugal",
+   "in_force_from": "2010-08-09",
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A — Liberdade de estabelecimento em Portugal\n\n1 - Pode estabelecer-se em Portugal para o exercício da actividade de agente oficial da propriedade industrial o profissional que possua um título de formação exigido noutro Estado membro da União Europeia para nele exercer essa actividade.\n\n2 - O título de formação mencionado no número anterior deve:\n\na) Ter sido emitido por uma autoridade competente para o efeito;\n\nb) Comprovar um nível de qualificação equivalente a uma formação de ensino pós-secundário com duração igual ou superior a três anos.\n\n3 - Pode ainda estabelecer-se em Portugal o profissional que tenha exercido, a tempo inteiro, a actividade de agente oficial da propriedade industrial durante dois anos no decurso dos 10 anos anteriores num Estado membro da União Europeia que não regulamente esta actividade, desde que possua um título de formação equivalente ao previsto na alínea e) do n.º 1 do artigo 2.º\n\n4 - Os profissionais mencionados nos números anteriores ficam sujeitos à realização de prova de aptidão tendente ao exercício permanente da actividade de agente oficial da propriedade industrial em Portugal, nos termos do artigo anterior, a regulamentar pela portaria prevista na alínea f) do n.º 1 do artigo 2.º"
+  },
+  "1123326675": {
+   "fragment_id": "1123326575",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Liberdade de prestação de serviços",
+   "in_force_from": "2010-08-09",
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-B — Liberdade de prestação de serviços\n\nÀ actuação em Portugal, ao abrigo do princípio da livre prestação de serviços, de agente oficial da propriedade industrial que para tal efeito se encontre estabelecido noutro Estado membro da União Europeia são aplicáveis as disposições dos artigos 3.º a 5.º da Lei n.º 9/2009, de 4 de Março."
+  },
+  "1123331375": {
+   "fragment_id": "1123331275",
+   "type": 8,
+   "heading": "Secção IV — Exercício da actividade dos agentes oficiais da propriedade industrial",
+   "in_force_from": "2010-08-09",
+   "changed_by": [],
+   "markdown": "#### Secção IV — Exercício da actividade dos agentes oficiais da propriedade industrial"
+  },
+  "1123328575": {
+   "fragment_id": "1123328475",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Uso de título profissional e exercício de actividade",
+   "in_force_from": "2010-08-09",
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-C — Uso de título profissional e exercício de actividade\n\n1 - O profissional cujas qualificações sejam reconhecidas nos termos do artigo 3.º-A pode usar o título profissional «agente oficial da propriedade industrial».\n\n2 - O profissional cujas qualificações sejam reconhecidas nos termos do artigo anterior usa unicamente o título profissional do país em que se encontre estabelecido, na língua oficial desse país.\n\n3 - Nos casos previstos no número anterior e sempre que o título profissional de agente oficial da propriedade industrial não exista no país de estabelecimento, o prestador pode usar o seu título de formação numa das línguas oficiais desse país.\n\n4 - Os profissionais cujas qualificações sejam reconhecidas nos termos do artigo 3.º-A e do artigo anterior ficam sujeitos às regras relativas ao exercício de actividade a que se submetem os agentes oficiais da propriedade industrial que tenham adquirido essa qualidade nos termos da secção ii do presente capítulo."
+  },
+  "75590685": {
+   "fragment_id": "75593461",
+   "type": 11,
+   "heading": "Artigo 4.º — Júri do exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Júri do exame\n\nO júri será constituído pelo presidente do Instituto Nacional da Propriedade Industrial, pelos directores dos Serviços de Marcas e de Patentes e por um agente oficial designado pelo conjunto dos que já detêm esta qualidade."
+  },
+  "75590686": {
+   "fragment_id": "75593462",
+   "type": 11,
+   "heading": "Artigo 5.º — Realização de exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Realização de exames\n\n1 - Os exames serão marcados com um mínimo de seis meses de antecedência, através de avisos publicados no Diário da República e em dois jornais diários.\n\n2 - O concurso será aberto por prazo não inferior a 30 dias.\n\n3 - Os candidatos deverão apresentar, juntamente com o requerimento a pedir o exame, os seguintes documentos:\n\na) Fotocópia do bilhete de identidade, a autenticar no acto da apresentação;\n\nb) Documento comprovativo das habilitações literárias;\n\nc) Certificado do registo criminal."
+  },
+  "75590687": {
+   "fragment_id": "75593463",
+   "type": 11,
+   "heading": "Artigo 6.º — Formalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formalidades\n\n1 - Decorrido o prazo para que se abriu o concurso, publicar-se-ão no Diário da República os nomes dos concorrentes.\n\n2 - No mesmo aviso será indicado o dia e hora do exame escrito.\n\n3 - O exame oral será marcado pelo presidente do Instituto Nacional da Propriedade Industrial."
+  },
+  "75590688": {
+   "fragment_id": "75593464",
+   "type": 11,
+   "heading": "Artigo 7.º — Investidura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Investidura\n\nA investidura dos concorrentes aprovados no concurso ocorrerá perante o presidente do Instituto Nacional da Propriedade Industrial nos três meses subsequentes à data da aprovação no respectivo exame."
+  },
+  "75590689": {
+   "fragment_id": "75593465",
+   "type": 11,
+   "heading": "Artigo 8.º — Caução e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Caução e garantias\n\nPode o presidente do Instituto Nacional da Propriedade Industrial condicionar a investidura à prestação de caução ou de outras garantias, cujo montante e conteúdo serão estabelecidos em portaria do Ministro da Indústria e Energia."
+  },
+  "75590690": {
+   "fragment_id": "75593466",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo de assinaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo de assinaturas\n\n1 - As assinaturas e as rubricas dos agentes oficiais e dos respectivos adjuntos constarão de um registo especial existente no Instituto Nacional da Propriedade Industrial.\n\n2 - Nenhum documento assinado por agente oficial ou adjunto será recebido sem a indicação legível, junto da assinatura, do nome e do escritório respectivos."
+  },
+  "75590691": {
+   "fragment_id": "75593467",
+   "type": 11,
+   "heading": "Artigo 10.º — Adjunto de agente da propriedade industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Adjunto de agente da propriedade industrial\n\n1 - O agente oficial pode ter um adjunto, para o exercício das suas funções, por cujos actos será responsável.\n\n2 - O adjunto deverá ser cidadão português ou de Estado membro da Comunidade Europeia, gozar de boa reputação e oferecer ao Instituto Nacional da Propriedade Industrial garantias para o bom exercício das suas funções.\n\n3 - Os documentos assinados pelo adjunto serão considerados, para todos os efeitos legais, como assinados pelo agente oficial.\n\n4 - Os adjuntos que satisfaçam às condições exigidas pelas alíneas a), b), c) e e) do n.º 1 do artigo 2.º, por morte ou impedimento definitivo do respectivo agente oficial, poderão continuar a assinar toda a documentação oficial até à abertura do primeiro concurso que entretanto ocorra.\n\n5 - O presidente do Instituto Nacional da Propriedade Industrial poderá autorizar que o adjunto continue a assinar essa documentação até ser conhecido o resultado do concurso, se aquele se tiver candidatado ao cargo de agente oficial."
+  },
+  "75590692": {
+   "fragment_id": "75593468",
+   "type": 11,
+   "heading": "Artigo 11.º — Passagem de adjuntos e procuradores a agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Passagem de adjuntos e procuradores a agentes\n\nOs adjuntos de agente oficial da propriedade industrial e os procuradores autorizados poderão ser investidos como agentes oficiais, se assim o requererem no prazo máximo de três anos a contar da data da entrada em vigor do presente diploma, desde que satisfaçam às seguintes condições:\n\na) À data de entrada em vigor do presente diploma, estar no exercício das suas funções de adjunto de agente oficial ou estar autorizado a promover actos e termos de processo junto do Instituto Nacional da Propriedade Industrial;\n\nb) Ser licenciado em qualquer dos cursos indicados na alínea e) do n.º 1 do artigo 2.º ou completar uma dessas licenciaturas no prazo máximo de três anos a contar da entrada em vigor do presente diploma;\n\nc) Não tendo uma dessas licenciaturas, ter pelo menos a admissão à universidade e, durante um prazo mínimo de três anos, ter exercido as funções de adjunto de agente oficial ou promovido, mediante autorização, actos e termos de processo junto do Instituto Nacional da Propriedade Industrial;\n\nd) Não estar inibido do exercício da profissão."
+  },
+  "75590693": {
+   "fragment_id": "75593469",
+   "type": 11,
+   "heading": "Artigo 12.º — Lei supletiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Lei supletiva\n\nEm tudo o que não estiver expressamente regulado no presente diploma, a actividade dos agentes oficiais rege-se pelo disposto na lei civil para o mandato."
+  },
+  "75590694": {
+   "fragment_id": "75593470",
+   "type": 11,
+   "heading": "Artigo 13.º — Dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dispensa\n\n1 - Os agentes oficiais solicitarão em nome e no interesse das partes que forem seus clientes e constituintes, com dispensa da exibição do mandato, excepto tratando-se de acto que envolva desistência de pedidos de patente, depósito ou registo, ou renúncia de direitos de propriedade industrial.\n\n2 - O director de serviços competente poderá, todavia, exigir em qualquer altura que comprovem a sua qualidade de mandatários com a apresentação das instruções dos clientes ou de procuração notarial."
+  },
+  "75590695": {
+   "fragment_id": "75593471",
+   "type": 11,
+   "heading": "Artigo 14.º — Exclusão de referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exclusão de referências\n\nOs agentes oficiais só poderão usar nos seus requerimentos e correspondência com o Instituto Nacional da Propriedade Industrial, o seu nome e a designação do cargo."
+  },
+  "75590696": {
+   "fragment_id": "75593472",
+   "type": 11,
+   "heading": "Artigo 15.º — Suspensão da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Suspensão da actividade\n\n1 - Os agentes oficiais da propriedade industrial podem suspender o exercício da respectiva actividade desde que disso notifiquem o Instituto Nacional da Propriedade Industrial.\n\n2 - A suspensão da actividade do agente implica a cessação das funções do adjunto nas suas relações com o Instituto Nacional da Propriedade Industrial.\n\n3 - O agente em situação de suspensão de actividade poderá requerer a todo o tempo o regresso ao exercício de funções."
+  },
+  "75590697": {
+   "fragment_id": "75593473",
+   "type": 11,
+   "heading": "Artigo 16.º — Invocação indevida da qualidade de agente da propriedade industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Invocação indevida da qualidade de agente da propriedade industrial\n\nIncorre na sanção do crime de usurpação de funções previsto no Código Penal aquele que se intitular falsamente agente oficial ou fizer, por qualquer meio, publicidade tendente a fazer crer que possui essa qualidade."
+  },
+  "75590698": {
+   "fragment_id": "75593474",
+   "type": 11,
+   "heading": "Artigo 17.º — Actos proibidos aos funcionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Actos proibidos aos funcionários\n\n1 - Aos funcionários em serviço no Instituto Nacional da Propriedade Industrial é proibido substituir-se aos agentes oficiais ou outros mandatários, ou com eles ilegitimamente se relacionar, directa ou indirectamente, em matéria da competência do Instituto.\n\n2 - A prestação de quaisquer informações ou esclarecimentos, verbais ou escritos, estabelece a presunção do exercício da procuradoria, salvo quanto aos funcionários competentes para o efeito."
+  },
+  "75590699": {
+   "fragment_id": "75597675",
+   "type": 11,
+   "heading": "Artigo 18.º — Procuradores autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Procuradores autorizados\n\n1 - As pessoas singulares que, não sendo agentes oficiais da propriedade industrial, tenham nos três anos anteriores à entrada em vigor do presente diploma, mediante autorização especial, promovido actos e termos de processo junto do Instituto Nacional da Propriedade Industrial poderão requerer a sua qualificação como procuradores autorizados.\n\n2 - Os procuradores autorizados poderão, nessa qualidade, praticar os actos e termos do processo, juntando, para o efeito, procuração simples e com poderes especiais para cada processo."
+  },
+  "75590700": {
+   "fragment_id": "75597676",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime sancionatório\n\nO regime sancionatório da violação dos deveres profissionais dos agentes oficiais da propriedade industrial constará de diploma próprio."
+  },
+  "75590701": {
+   "fragment_id": "75597677",
+   "type": 1,
+   "heading": "Capítulo II — Do Instituto Nacional da Propriedade Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do Instituto Nacional da Propriedade Industrial"
+  },
+  "75590702": {
+   "fragment_id": "75597678",
+   "type": 11,
+   "heading": "Artigo 20.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acesso à informação\n\nO Instituto Nacional da Propriedade Industrial fornece a informação relativa a todas as modalidades de propriedade industrial."
+  },
+  "75590703": {
+   "fragment_id": "75597679",
+   "type": 11,
+   "heading": "Artigo 21.º — Organização da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Organização da informação\n\n1 - O Instituto Nacional da Propriedade Industrial disporá, obrigatoriamente, de informação organizada de modo a tornar possível a identificação e recuperação dos seguintes actos:\n\na) A apresentação de quaisquer documentos relativos às diversas modalidades de propriedade industrial, em particular a data da apresentação dos pedidos;\n\nb) Os despachos exarados pelos serviços nos requerimentos relativos aos actos e termos dos processos e os averbamentos nos títulos;\n\nc) As decisões judiciais que afectam os títulos das diferentes modalidades de propriedade industrial;\n\nd) A recepção e expedição de correspondência;\n\ne) A cobrança e eventual devolução de taxas e as receitas provenientes de serviços prestados.\n\n2 - Além da informação organizada da forma indicada no presente artigo, poderá haver outros elementos informativos ou forma de organização destes elementos que se mostrem de reconhecida utilidade."
+  },
+  "75590704": {
+   "fragment_id": "75597680",
+   "type": 11,
+   "heading": "Artigo 22.º — Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Arquivo\n\n1 - No arquivo do Instituto Nacional da Propriedade Industrial serão guardados todos os documentos, por forma que seja fácil a respectiva consulta.\n\n2 - Decorridos os prazos legalmente estabelecidos, os documentos referidos no número anterior poderão ser destruídos ou arquivados no Instituto Nacional da Propriedade Industrial em suporte adequado, que permita a sua reprodução integral sem perda de conteúdo informativo."
+  },
+  "75590705": {
+   "fragment_id": "75597681",
+   "type": 11,
+   "heading": "Artigo 23.º — Garantia de reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Garantia de reserva\n\n1 - Os documentos arquivados ou pendentes não sairão do Instituto Nacional da Propriedade Industrial por motivo ou pretexto algum, salvo os casos de remoção por motivo de força maior, devendo as diligências judiciais ou extrajudiciais que exijam a sua apresentação efectuar-se no próprio Instituto.\n\n2 - Exceptua-se também do disposto no número anterior a remessa do processo ao juízo competente para resolver o recurso interposto da decisão proferida.\n\n3 - A remessa do processo a juízo e depois o seu recebimento serão anotados no respectivo serviço na altura correspondente à apresentação."
+  },
+  "75590706": {
+   "fragment_id": "75597682",
+   "type": 11,
+   "heading": "Artigo 24.º — Registo de entrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Registo de entrada\n\nOs pedidos de patente, modelo, desenho ou registo serão, no momento da sua apresentação, anotados segundo os processos legais, nos quais se indicará o número, o dia e a hora da recepção, o nome e a residência do requerente e do seu mandatário, se o houver e a categoria jurídica de propriedade industrial de que se tratar."
+  },
+  "75590707": {
+   "fragment_id": "75597683",
+   "type": 11,
+   "heading": "Artigo 25.º — Obrigações tributárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Obrigações tributárias\n\nNenhum acto submetido a registo e sujeito a direitos ou impostos devidos à Fazenda Nacional pode ser definitivamente considerado registado sem que se mostrem pagos os direitos ou impostos já liquidados, ou assegurado o pagamento dos que estiverem por liquidar, na forma que os respectivos regulamentos determinarem."
+  },
+  "75590708": {
+   "fragment_id": "75597684",
+   "type": 11,
+   "heading": "Artigo 26.º — Restituição de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Restituição de documentos\n\n1 - Os documentos cujo original ou cópia autêntica estejam de um modo permanente em qualquer arquivo ou cartório público, nacionais, serão restituídos aos interessados depois de feito o registo; os outros documentos ficarão arquivados no Instituto Nacional da Propriedade Industrial, salvo os casos previstos neste diploma.\n\n2 - Se os documentos e exemplares apresentados estiverem escritos ou desenhados por forma que ofereça grande dificuldade na sua leitura ou exame, pode exigir-se que o interessado apresente cópias que possam facilmente ler-se ou examinar-se.\n\n3 - Os documentos expedidos por autoridade ou repartições estrangeiras só serão admitidos, para quaisquer efeitos, depois da sua legalização, nos termos da lei do processo.\n\n4 - Da regra enunciada no número anterior exceptuam-se os casos em que as convenções internacionais em vigor expressamente dispensarem a legalização de certos documentos oriundos dos países a que as mesmas convenções sejam aplicáveis."
+  },
+  "75590709": {
+   "fragment_id": "75597685",
+   "type": 11,
+   "heading": "Artigo 27.º — Verificação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Verificação dos pedidos\n\n1 - No momento da apresentação dos pedidos os funcionários encarregados da recepção de documentos limitar-se-ão a verificar se os mesmos estão correctamente dirigidos, devidamente assinados, a importância das taxas a satisfazer e se estão juntos aos requerimentos todos os documentos neles referidos.\n\n2 - Quaisquer faltas notadas posteriormente serão objecto de notificação."
+  },
+  "75590710": {
+   "fragment_id": "75597686",
+   "type": 11,
+   "heading": "Artigo 28.º — Certidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Certidões\n\nAs certidões deverão ser passadas a tempo de poderem entregar-se aos que as solicitem no dia seguinte ao da apresentação do requerimento."
+  },
+  "75590711": {
+   "fragment_id": "75597687",
+   "type": 11,
+   "heading": "Artigo 29.º — Formulários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Formulários\n\nOs requerimentos deverão ser apresentados em formulário próprio, sempre que sejam estabelecidos pelo Instituto Nacional da Propriedade Industrial."
+  },
+  "75590712": {
+   "fragment_id": "75597688",
+   "type": 11,
+   "heading": "Artigo 30.º — Boletim",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Boletim\n\nNo Instituto Nacional da Propriedade Industrial será facultada ao público, para consulta, uma colecção completa do Boletim."
+  },
+  "75590713": {
+   "fragment_id": "75597689",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nO presente diploma entra em vigor em 1 de Junho de 1995."
+  },
+  "1099416975": {
+   "fragment_id": "75593459",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": "2001-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 54/2001 - Diário da República n.º 39/2001, Série I-A de 2001-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2001-321287), em vigor a partir de 2001-02-20."
+   ],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1 - Para o desempenho das funções de agente oficial são requisitos indispensáveis os seguintes:\n\na) Ser cidadão português, maior e não estar inibido dos seus direitos civis e políticos;\n\nb) Não estar inibido do exercício da profissão por decisão transitada em julgado;\n\nc) Ter cumprido os preceitos da lei militar, quando aplicáveis;\n\nd) Ter escritório em Portugal ou no território de um Estado membro da União Europeia.\n\n2 - Os nacionais de Estados membros da Comunidade Europeia serão, para efeitos do presente diploma, equiparados a cidadãos portugueses.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 54/2001 - Diário da República n.º 39/2001, Série I-A de 2001-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2001-321287), em vigor a partir de 2001-02-20."
+  },
+  "75590714": {
+   "fragment_id": "75597690",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Novembro de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral.\n\nPromulgado em 28 de Dezembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Janeiro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1112970475": {
+   "fragment_id": "75593459",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": "2002-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 206/2002 - Diário da República n.º 239/2002, Série I-A de 2002-10-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2002-655748), em vigor a partir de 2002-10-21.",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 54/2001 - Diário da República n.º 39/2001, Série I-A de 2001-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2001-321287), em vigor a partir de 2001-02-20."
+   ],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1 - Para o desempenho das funções de agente oficial são requisitos indispensáveis os seguintes:\n\na) Ser cidadão português, maior e não estar inibido dos seus direitos civis e políticos;\n\nb) Não estar inibido do exercício da profissão por decisão transitada em julgado;\n\nc) Ter cumprido os preceitos da lei militar, quando aplicáveis;\n\nd) Ter escritório em Portugal ou no território de um Estado membro da União Europeia;\n\ne) Ser licenciado nas áreas de engenharia, de direito ou de economia.\n\n2 - Os nacionais de Estados membros da Comunidade Europeia serão, para efeitos do presente diploma, equiparados a cidadãos portugueses.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 206/2002 - Diário da República n.º 239/2002, Série I-A de 2002-10-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2002-655748), em vigor a partir de 2002-10-21.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 54/2001 - Diário da República n.º 39/2001, Série I-A de 2001-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2001-321287), em vigor a partir de 2001-02-20."
+  },
+  "1123347975": {
+   "fragment_id": "1123330375",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123341575": {
+   "fragment_id": "75593458",
+   "type": 11,
+   "heading": "Artigo 1.º — Agentes oficiais da propriedade industrial",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 1.º — Agentes oficiais da propriedade industrial\n\n1 - São agentes oficiais da propriedade industrial:\n\na) Os profissionais que tenham adquirido ou vierem a adquirir essa qualidade nos termos do presente decreto-lei;\n\nb) Os profissionais que como tal tenham sido reconhecidos;\n\nc) Os nacionais de Estados membros da União Europeia legalmente habilitados a exercer a actividade de agente oficial da propriedade industrial e que reúnam as condições previstas no presente decreto-lei.\n\n2 - O Instituto Nacional da Propriedade Industrial, I. P., é a autoridade competente para atribuir e reconhecer a qualidade de agentes oficiais da propriedade industrial em Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123341675": {
+   "fragment_id": "1123320475",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Forma e tramitação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 1.º-A — Forma e tramitação dos pedidos\n\n1 - A prática dos actos necessários à aquisição ou ao reconhecimento da qualidade de agente oficial da propriedade industrial deve ser feita, preferencialmente, por transmissão electrónica de dados.\n\n2 - Na instrução dos pedidos de aquisição e reconhecimento da qualidade de agente oficial da propriedade industrial podem ser aceites cópias simples e traduções não certificadas.\n\n3 - Sempre que necessário, o Instituto Nacional da Propriedade Industrial, I. P., pode exigir uma tradução para a língua portuguesa dos requerimentos, das declarações e da documentação que os acompanha.\n\n4 - Sempre que o requerente ou declarante tenha origem noutro Estado membro da União Europeia e subsistam dúvidas sobre qualquer um dos aspectos referidos no presente capítulo, o Instituto Nacional da Propriedade Industrial, I. P., deve cumprir o disposto no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de Março, contactando para o efeito as autoridades competentes do país de origem.\n\n5 - O Instituto Nacional da Propriedade Industrial, I. P., disponibiliza no seu portal e no balcão único informações sobre os requisitos, em especial os referentes a procedimentos e formalidades a cumprir para aceder e exercer a actividade de agente oficial de propriedade industrial, bem como outras informações úteis sobre os agentes oficiais da propriedade industrial.\n\n6 - São fixados por portaria do membro do Governo responsável pela área da propriedade industrial e divulgados no portal do Instituto Nacional de Propriedade Industrial, I. P., no Portal do Cidadão, no Portal da Empresa e no balcão único os seguintes elementos:\n\na) Todas as normas regulamentares referentes à documentação que deva instruir os pedidos;\n\nb) As taxas a que os mesmos estão sujeitos;\n\nc) Os prazos de decisão e da tramitação processual subsequente;\n\nd) O regulamento de realização das provas de aptidão;\n\ne) Os termos de investidura.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123341375": {
+   "fragment_id": "1123322575",
+   "type": 11,
+   "heading": "Artigo 1.º-B — Princípio da cooperação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 1.º-B — Princípio da cooperação\n\nO Instituto Nacional da Propriedade Industrial, I. P., colabora com as entidades homólogas dos demais Estados membros da União Europeia, nos termos do n.º 2 do artigo 51.º e do n.º 4 do artigo 52.º da Lei n.º 9/2009, de 4 de Março.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123348075": {
+   "fragment_id": "1123330675",
+   "type": 8,
+   "heading": "Secção II — Aquisição da qualidade de agente oficial da propriedade industrial",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "#### Secção II — Aquisição da qualidade de agente oficial da propriedade industrial\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123344775": {
+   "fragment_id": "75593459",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09.",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 206/2002 - Diário da República n.º 239/2002, Série I-A de 2002-10-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2002-655748), em vigor a partir de 2002-10-21.",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 54/2001 - Diário da República n.º 39/2001, Série I-A de 2001-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2001-321287), em vigor a partir de 2001-02-20."
+   ],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1 - Para adquirir a qualidade de agente oficial são requisitos indispensáveis os seguintes:\n\na) Ser cidadão de um Estado membro da União Europeia, maior e não estar inibido dos seus direitos civis e políticos;\n\nb) Não estar inibido do exercício da profissão por decisão transitada em julgado;\n\nc) (Revogada.)\n\nd) Ter estabelecimento em Portugal ou no território de um Estado membro da União Europeia;\n\ne) Ser detentor de um nível de qualificação equivalente a uma formação de ensino pós-secundário com duração igual ou superior a três anos;\n\nf) Ter aproveitamento em prova de aptidão com vista à aquisição da qualidade de agente oficial da propriedade industrial, nos termos do artigo seguinte, a regulamentar por portaria do membro do Governo responsável pela área da propriedade industrial, destinada a atestar o conhecimento prévio do direito da propriedade industrial vigente em Portugal.\n\n2 - Os nacionais de Estados membros da Comunidade Europeia serão, para efeitos do presente decreto-lei, equiparados a cidadãos portugueses.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 206/2002 - Diário da República n.º 239/2002, Série I-A de 2002-10-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2002-655748), em vigor a partir de 2002-10-21.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 54/2001 - Diário da República n.º 39/2001, Série I-A de 2001-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2001-321287), em vigor a partir de 2001-02-20."
+  },
+  "1123344575": {
+   "fragment_id": "75593460",
+   "type": 11,
+   "heading": "Artigo 3.º — Exame de prestação de provas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 3.º — Exame de prestação de provas\n\n1 - A qualidade de agente oficial da propriedade industrial adquire-se mediante a aprovação em prestação de provas às quais são admitidos os indivíduos habilitados com um nível de qualificação equivalente a uma formação de ensino pós-secundário com duração igual ou superior a três anos.\n\n2 - As provas do exame são prestadas em língua portuguesa, constando de uma prova escrita e de uma discussão oral.\n\n3 - A classificação final é a da média aritmética das provas escrita e oral.\n\n4 - A lista dos candidatos aprovados é submetida a homologação pelo membro do Governo responsável pela área da propriedade industrial e publicada no portal do Instituto Nacional da Propriedade Industrial, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123348175": {
+   "fragment_id": "1123330975",
+   "type": 8,
+   "heading": "Secção III — Reconhecimento das qualificações profissionais",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "#### Secção III — Reconhecimento das qualificações profissionais\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123347675": {
+   "fragment_id": "1123324675",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Liberdade de estabelecimento em Portugal",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 3.º-A — Liberdade de estabelecimento em Portugal\n\n1 - Pode estabelecer-se em Portugal para o exercício da actividade de agente oficial da propriedade industrial o profissional que possua um título de formação exigido noutro Estado membro da União Europeia para nele exercer essa actividade.\n\n2 - O título de formação mencionado no número anterior deve:\n\na) Ter sido emitido por uma autoridade competente para o efeito;\n\nb) Comprovar um nível de qualificação equivalente a uma formação de ensino pós-secundário com duração igual ou superior a três anos.\n\n3 - Pode ainda estabelecer-se em Portugal o profissional que tenha exercido, a tempo inteiro, a actividade de agente oficial da propriedade industrial durante dois anos no decurso dos 10 anos anteriores num Estado membro da União Europeia que não regulamente esta actividade, desde que possua um título de formação equivalente ao previsto na alínea e) do n.º 1 do artigo 2.º\n\n4 - Os profissionais mencionados nos números anteriores ficam sujeitos à realização de prova de aptidão tendente ao exercício permanente da actividade de agente oficial da propriedade industrial em Portugal, nos termos do artigo anterior, a regulamentar pela portaria prevista na alínea f) do n.º 1 do artigo 2.º\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123347475": {
+   "fragment_id": "1123326575",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Liberdade de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 3.º-B — Liberdade de prestação de serviços\n\nÀ actuação em Portugal, ao abrigo do princípio da livre prestação de serviços, de agente oficial da propriedade industrial que para tal efeito se encontre estabelecido noutro Estado membro da União Europeia são aplicáveis as disposições dos artigos 3.º a 5.º da Lei n.º 9/2009, de 4 de Março.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123347775": {
+   "fragment_id": "1123331275",
+   "type": 8,
+   "heading": "Secção IV — Exercício da actividade dos agentes oficiais da propriedade industrial",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "#### Secção IV — Exercício da actividade dos agentes oficiais da propriedade industrial\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123365375": {
+   "fragment_id": "1123328475",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Uso de título profissional e exercício de actividade",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 3.º-C — Uso de título profissional e exercício de actividade\n\n1 - O profissional cujas qualificações sejam reconhecidas nos termos do artigo 3.º-A pode usar o título profissional «agente oficial da propriedade industrial».\n\n2 - O profissional cujas qualificações sejam reconhecidas nos termos do artigo anterior usa unicamente o título profissional do país em que se encontre estabelecido, na língua oficial desse país.\n\n3 - Nos casos previstos no número anterior e sempre que o título profissional de agente oficial da propriedade industrial não exista no país de estabelecimento, o prestador pode usar o seu título de formação numa das línguas oficiais desse país.\n\n4 - Os profissionais cujas qualificações sejam reconhecidas nos termos do artigo 3.º-A e do artigo anterior ficam sujeitos às regras relativas ao exercício de actividade a que se submetem os agentes oficiais da propriedade industrial que tenham adquirido essa qualidade nos termos da secção ii do presente capítulo.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123365475": {
+   "fragment_id": "75593461",
+   "type": 11,
+   "heading": "Artigo 4.º — Júri do exame",
+   "in_force_from": "2010-11-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+   ],
+   "markdown": "###### Artigo 4.º — Júri do exame\n\nO júri será constituído pelo presidente do Instituto Nacional da Propriedade Industrial, pelos directores dos Serviços de Marcas e de Patentes e por um agente oficial designado pelo conjunto dos que já detêm esta qualidade.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+  },
+  "1123365575": {
+   "fragment_id": "75593462",
+   "type": 11,
+   "heading": "Artigo 5.º — Realização de exames",
+   "in_force_from": "2010-11-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+   ],
+   "markdown": "###### Artigo 5.º — Realização de exames\n\n1 - Os exames serão marcados com um mínimo de seis meses de antecedência, através de avisos publicados no Diário da República e em dois jornais diários.\n\n2 - O concurso será aberto por prazo não inferior a 30 dias.\n\n3 - Os candidatos deverão apresentar, juntamente com o requerimento a pedir o exame, os seguintes documentos:\n\na) Fotocópia do bilhete de identidade, a autenticar no acto da apresentação;\n\nb) Documento comprovativo das habilitações literárias;\n\nc) Certificado do registo criminal.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+  },
+  "1123365675": {
+   "fragment_id": "75593463",
+   "type": 11,
+   "heading": "Artigo 6.º — Formalidades",
+   "in_force_from": "2010-11-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+   ],
+   "markdown": "###### Artigo 6.º — Formalidades\n\n1 - Decorrido o prazo para que se abriu o concurso, publicar-se-ão no Diário da República os nomes dos concorrentes.\n\n2 - No mesmo aviso será indicado o dia e hora do exame escrito.\n\n3 - O exame oral será marcado pelo presidente do Instituto Nacional da Propriedade Industrial.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+  },
+  "1123365775": {
+   "fragment_id": "75593464",
+   "type": 11,
+   "heading": "Artigo 7.º — Investidura",
+   "in_force_from": "2010-11-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+   ],
+   "markdown": "###### Artigo 7.º — Investidura\n\nA investidura dos concorrentes aprovados no concurso ocorrerá perante o presidente do Instituto Nacional da Propriedade Industrial nos três meses subsequentes à data da aprovação no respectivo exame.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+  },
+  "1123365875": {
+   "fragment_id": "75593465",
+   "type": 11,
+   "heading": "Artigo 8.º — Caução e garantias",
+   "in_force_from": "2010-11-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+   ],
+   "markdown": "###### Artigo 8.º — Caução e garantias\n\nPode o presidente do Instituto Nacional da Propriedade Industrial condicionar a investidura à prestação de caução ou de outras garantias, cujo montante e conteúdo serão estabelecidos em portaria do Ministro da Indústria e Energia.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+  },
+  "1123365975": {
+   "fragment_id": "75593466",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo de assinaturas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 9.º — Registo de assinaturas\n\n1 - As assinaturas e as rubricas dos agentes oficiais e dos respectivos adjuntos constam de um registo especial existente no Instituto Nacional da Propriedade Industrial, I. P.\n\n2 - Nenhum documento assinado por agente oficial ou adjunto é recebido sem a indicação legível, junto da assinatura, do nome e do escritório respectivos.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123366075": {
+   "fragment_id": "75593467",
+   "type": 11,
+   "heading": "Artigo 10.º — Adjunto de agente da propriedade industrial",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 10.º — Adjunto de agente da propriedade industrial\n\n1 - O agente oficial pode ter um adjunto, para o exercício das suas funções, por cujos actos é responsável.\n\n2 - O adjunto deve ser cidadão português ou de Estado membro da União Europeia.\n\n3 - Os documentos assinados pelo adjunto são considerados, para todos os efeitos legais, como assinados pelo agente oficial.\n\n4 - Por morte ou impedimento definitivo do respectivo agente oficial, os adjuntos podem continuar a assinar toda a documentação oficial, desde que satisfaçam as condições exigidas pelas alíneas a), b) e e) do n.º 1 do artigo 2.º e no prazo de dois anos realizem, com aproveitamento, a prova de aptidão para a aquisição da qualidade de agente oficial da propriedade industrial.\n\n5 - O presidente do conselho directivo do Instituto Nacional da Propriedade Industrial, I. P., promove, anualmente, a realização da prova de aptidão, salvo nos casos em que não tenha sido apresentado qualquer pedido para prestação de provas, e pode autorizar que o adjunto continue a assinar essa documentação até ser conhecido o aproveitamento na prova de aptidão a que se tenha submetido.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123366175": {
+   "fragment_id": "75593468",
+   "type": 11,
+   "heading": "Artigo 11.º — Passagem de adjuntos e procuradores a agentes",
+   "in_force_from": "2010-11-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+   ],
+   "markdown": "###### Artigo 11.º — Passagem de adjuntos e procuradores a agentes\n\nOs adjuntos de agente oficial da propriedade industrial e os procuradores autorizados poderão ser investidos como agentes oficiais, se assim o requererem no prazo máximo de três anos a contar da data da entrada em vigor do presente diploma, desde que satisfaçam às seguintes condições:\n\na) À data de entrada em vigor do presente diploma, estar no exercício das suas funções de adjunto de agente oficial ou estar autorizado a promover actos e termos de processo junto do Instituto Nacional da Propriedade Industrial;\n\nb) Ser licenciado em qualquer dos cursos indicados na alínea e) do n.º 1 do artigo 2.º ou completar uma dessas licenciaturas no prazo máximo de três anos a contar da entrada em vigor do presente diploma;\n\nc) Não tendo uma dessas licenciaturas, ter pelo menos a admissão à universidade e, durante um prazo mínimo de três anos, ter exercido as funções de adjunto de agente oficial ou promovido, mediante autorização, actos e termos de processo junto do Instituto Nacional da Propriedade Industrial;\n\nd) Não estar inibido do exercício da profissão.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-11-30."
+  },
+  "1123366275": {
+   "fragment_id": "75593469",
+   "type": 11,
+   "heading": "Artigo 12.º — Lei supletiva",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 12.º — Lei supletiva\n\nEm tudo o que não estiver expressamente regulado no presente decreto-lei, a actividade dos agentes oficiais rege-se pelo disposto na lei civil para o mandato.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123366375": {
+   "fragment_id": "75593470",
+   "type": 11,
+   "heading": "Artigo 13.º — Dispensa",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 13.º — Dispensa\n\n1 - Os agentes oficiais solicitam em nome e no interesse das partes que forem seus clientes e constituintes, com dispensa da exibição do mandato, excepto tratando-se de acto que envolva desistência de pedidos de patente, depósito ou registo, ou renúncia de direitos de propriedade industrial.\n\n2 - O director de serviços competente pode, todavia, exigir em qualquer altura que comprovem a sua qualidade de mandatários com a apresentação das instruções dos clientes ou de procuração notarial.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123366475": {
+   "fragment_id": "75593471",
+   "type": 11,
+   "heading": "Artigo 14.º — Exclusão de referências",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 14.º — Exclusão de referências\n\nOs agentes oficiais só podem usar nos seus requerimentos e correspondência com o Instituto Nacional da Propriedade Industrial, I. P., o seu nome e a designação do cargo.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123366575": {
+   "fragment_id": "75593472",
+   "type": 11,
+   "heading": "Artigo 15.º — Suspensão da actividade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 15.º — Suspensão da actividade\n\n1 - Os agentes oficiais da propriedade industrial podem suspender o exercício da respectiva actividade desde que disso notifiquem o Instituto Nacional da Propriedade Industrial, I. P.\n\n2 - A suspensão da actividade do agente implica a cessação das funções do adjunto nas suas relações com o Instituto Nacional da Propriedade Industrial, I. P.\n\n3 - O agente em situação de suspensão de actividade pode requerer a todo o tempo o regresso ao exercício de funções.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123366675": {
+   "fragment_id": "75593473",
+   "type": 11,
+   "heading": "Artigo 16.º — Invocação indevida da qualidade de agente da propriedade industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Invocação indevida da qualidade de agente da propriedade industrial\n\nIncorre na sanção do crime de usurpação de funções previsto no Código Penal aquele que se intitular falsamente agente oficial ou fizer, por qualquer meio, publicidade tendente a fazer crer que possui essa qualidade."
+  },
+  "1123366775": {
+   "fragment_id": "75593474",
+   "type": 11,
+   "heading": "Artigo 17.º — Actos proibidos aos funcionários",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 17.º — Actos proibidos aos funcionários\n\n1 - Aos funcionários em serviço no Instituto Nacional da Propriedade Industrial, I. P., é proibido substituir-se aos agentes oficiais ou outros mandatários, ou com eles ilegitimamente se relacionar, directa ou indirectamente, em matéria da competência do Instituto.\n\n2 - A prestação de quaisquer informações ou esclarecimentos, verbais ou escritos, estabelece a presunção do exercício da procuradoria, salvo quanto aos funcionários competentes para o efeito.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123366875": {
+   "fragment_id": "75597675",
+   "type": 11,
+   "heading": "Artigo 18.º — Procuradores autorizados",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 18.º — Procuradores autorizados\n\n1 - São procuradores autorizados as pessoas singulares que, não sendo agentes oficiais da propriedade industrial, tenham promovido actos e termos de processo junto do Instituto Nacional da Propriedade Industrial, I. P., entre 1 de Junho de 1992 e 1 de Junho de 1995, mediante autorização especial.\n\n2 - Os procuradores autorizados podem, nessa qualidade, praticar os actos e os termos do processo, juntando para o efeito procuração simples e com poderes especiais para cada processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123365175": {
+   "fragment_id": "75597676",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime sancionatório\n\nO regime sancionatório da violação dos deveres profissionais dos agentes oficiais da propriedade industrial constará de diploma próprio."
+  },
+  "1123335775": {
+   "fragment_id": "75597678",
+   "type": 11,
+   "heading": "Artigo 20.º — Acesso à informação",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 20.º — Acesso à informação\n\nO Instituto Nacional da Propriedade Industrial, I. P., fornece a informação relativa a todas as modalidades de propriedade industrial.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123335975": {
+   "fragment_id": "75597679",
+   "type": 11,
+   "heading": "Artigo 21.º — Organização da informação",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 21.º — Organização da informação\n\n1 - O Instituto Nacional da Propriedade Industrial, I. P., dispõe, obrigatoriamente, de informação organizada de modo a tornar possível a identificação e recuperação dos seguintes actos:\n\na) A apresentação de quaisquer documentos relativos às diversas modalidades de propriedade industrial, em particular a data da apresentação dos pedidos;\n\nb) Os despachos exarados pelos serviços nos requerimentos relativos aos actos e termos dos processos e os averbamentos nos títulos;\n\nc) As decisões judiciais que afectam os títulos das diferentes modalidades de propriedade industrial;\n\nd) A recepção e expedição de correspondência;\n\ne) A cobrança e eventual devolução de taxas e as receitas provenientes de serviços prestados.\n\n2 - Além da informação organizada da forma indicada no presente artigo, pode haver outros elementos informativos ou forma de organização destes elementos que se mostrem de reconhecida utilidade.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123336175": {
+   "fragment_id": "75597680",
+   "type": 11,
+   "heading": "Artigo 22.º — Arquivo",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 22.º — Arquivo\n\n1 - No arquivo do Instituto Nacional da Propriedade Industrial, I. P., são guardados todos os documentos, por forma que seja fácil a respectiva consulta.\n\n2 - Decorridos os prazos legalmente estabelecidos, os documentos referidos no número anterior podem ser destruídos ou arquivados no Instituto Nacional da Propriedade Industrial, I. P., em suporte adequado, que permita a sua reprodução integral sem perda de conteúdo informativo.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123336375": {
+   "fragment_id": "75597681",
+   "type": 11,
+   "heading": "Artigo 23.º — Garantia de reserva",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 23.º — Garantia de reserva\n\n1 - Os documentos arquivados ou pendentes não saem do Instituto Nacional da Propriedade Industrial, I. P., por motivo ou pretexto algum, salvo os casos de remoção por motivo de força maior, devendo as diligências judiciais ou extrajudiciais que exijam a sua apresentação efectuar-se no próprio Instituto.\n\n2 - Exceptua-se também do disposto no número anterior a remessa do processo ao juízo competente para resolver o recurso interposto da decisão proferida.\n\n3 - A remessa do processo a juízo e depois o seu recebimento são anotados no respectivo serviço na altura correspondente à apresentação.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123336575": {
+   "fragment_id": "75597682",
+   "type": 11,
+   "heading": "Artigo 24.º — Registo de entrada",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 24.º — Registo de entrada\n\nOs pedidos de patente, modelo, desenho ou registo são, no momento da sua apresentação, anotados segundo os processos legais, nos quais se indica o número, o dia e a hora da recepção, o nome e a residência do requerente e do seu mandatário, se o houver, e a categoria jurídica de propriedade industrial de que se tratar.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123317575": {
+   "fragment_id": "75597683",
+   "type": 11,
+   "heading": "Artigo 25.º — Obrigações tributárias",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 25.º — Obrigações tributárias\n\nNenhum acto submetido a registo e sujeito a direitos ou impostos devidos ao Estado Português pode ser definitivamente considerado registado sem que se mostrem pagos os direitos ou impostos já liquidados, ou assegurado o pagamento dos que estiverem por liquidar, na forma que os respectivos regulamentos determinarem.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123336775": {
+   "fragment_id": "75597684",
+   "type": 11,
+   "heading": "Artigo 26.º — Restituição de documentos",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 26.º — Restituição de documentos\n\n1 - Os documentos cujo original ou cópia autêntica estejam de um modo permanente em qualquer arquivo ou cartório público, nacionais, são restituídos aos interessados depois de feito o registo; os outros documentos ficam arquivados no Instituto Nacional da Propriedade Industrial, I. P., salvo os casos previstos neste decreto-lei.\n\n2 - Se os documentos e exemplares apresentados estiverem escritos ou desenhados por forma que ofereça grande dificuldade na sua leitura ou exame, pode exigir-se que o interessado apresente cópias que possam facilmente ler-se ou examinar-se.\n\n3 - Os documentos expedidos por autoridade ou repartições estrangeiras só são admitidos, para quaisquer efeitos, depois da sua legalização, nos termos da lei do processo.\n\n4 - Da regra enunciada no número anterior exceptuam-se os casos em que as convenções internacionais em vigor expressamente dispensarem a legalização de certos documentos oriundos dos países a que as mesmas convenções sejam aplicáveis.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123336975": {
+   "fragment_id": "75597685",
+   "type": 11,
+   "heading": "Artigo 27.º — Verificação dos pedidos",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 27.º — Verificação dos pedidos\n\n1 - No momento da apresentação dos pedidos os funcionários encarregados da recepção de documentos limitam-se a verificar se os mesmos estão correctamente dirigidos, devidamente assinados, a importância das taxas a satisfazer e se estão juntos aos requerimentos todos os documentos neles referidos.\n\n2 - Quaisquer faltas notadas posteriormente são objecto de notificação.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123337175": {
+   "fragment_id": "75597686",
+   "type": 11,
+   "heading": "Artigo 28.º — Certidões",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 28.º — Certidões\n\nAs certidões devem ser passadas a tempo de poderem entregar-se aos que as solicitem no dia seguinte ao da apresentação do requerimento.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123337375": {
+   "fragment_id": "75597687",
+   "type": 11,
+   "heading": "Artigo 29.º — Formulários",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 29.º — Formulários\n\nOs requerimentos devem ser apresentados em formulário próprio, sempre que sejam estabelecidos pelo Instituto Nacional da Propriedade Industrial, I. P.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123337575": {
+   "fragment_id": "75597688",
+   "type": 11,
+   "heading": "Artigo 30.º — Boletim",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 30.º — Boletim\n\nNo Instituto Nacional da Propriedade Industrial, I. P., é facultada ao público, para consulta, uma colecção completa do Boletim.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  },
+  "1123337775": {
+   "fragment_id": "75597689",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": "2010-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+   ],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor em 1 de Junho de 1995.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 17/2010 - Diário da República n.º 150/2010, Série I de 2010-08-04](https://diariodarepublica.pt/dr/detalhe/lei/17-2010-333519), em vigor a partir de 2010-08-09."
+  }
+ }
+}

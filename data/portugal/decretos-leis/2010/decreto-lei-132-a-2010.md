@@ -1,0 +1,265 @@
+---
+schema_version: '1.0'
+id: pt:dre:397747:por
+title: Decreto-Lei n.º 132-A/2010
+short_title: null
+summary: Aprova, no âmbito da Estratégia Nacional da Energia 2020, o regime de atribuição de capacidade de recepção na Rede
+  Eléctrica de Serviço Público da energia produzida em centrais solares fotovoltaicas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia, da Inovação e do Desenvolvimento
+proposing_entity: null
+official_number: 132-A/2010
+official_date: null
+publication_date: '2010-12-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 245/2010, 1º Suplemento, Série I de 2010-12-21
+  number: '245'
+  series: I
+  supplement: 1º Suplemento
+  pages: 5832-(2) a 5832-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/12/24501/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/132-a/2010/12/21/p/dre/pt/html
+  oj: null
+  dre: '397747'
+  dre_path: /dr/detalhe/decreto-lei/132-a-2010-397747
+  internal: pt:dre:397747:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-2010-397747
+  metadata_url: https://data.dre.pt/eli/dec-lei/132-a/2010/12/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-2010-397747
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-12-21T00:00:00Z'
+integrity:
+  source_sha256: c48fc425e1306605cfdaa7d5cc12ecb995643f7c15d3ede7236c0d1c4cb0d2e3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-132-A-397747.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adjudicação
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Concurso
+- Contrapartida
+- Contrato
+- Definição de Competências
+- Diretor Geral
+- Estratégia Nacional para a Energia
+- Direção Geral de Energia e Geologia
+- Produção de Energia Elétrica
+- Rede Elétrica de Serviço Público
+- Remuneração
+- Sistema Eléctrico de Serviço Público
+- Eficiência Energética
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/225/2007/05/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/225/2007/05/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/312/2001/12/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/312/2001/12/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/33-a/2005/02/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/33-a/2005/02/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declrectif/71/2007/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/declrectif/71/2007/07/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 132-A/2010
+
+de 21 de Dezembro
+
+A [Resolução do Conselho de Ministros n.º 29/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-2010-613675), de 15 de Abril, que aprovou a estratégia para a energia com o horizonte de 2020 (ENE 2020), definiu a aposta nas energias renováveis e a utilização da política energética para a promoção do crescimento e da independência energética nacionais como dois dos seus eixos fundamentais.
+
+Um dos eixos prioritários da ENE 2020 consiste na aposta na intensificação e na diversificação das energias renováveis no conjunto das fontes de energias que abastecem o País (mix energético).
+
+O Programa do XVIII Governo assumiu como objectivo liderar a revolução energética, assegurarando que Portugal se mantém na fronteira tecnológica na área das renováveis, nomeadamente na produção de energia fotovoltaica, bem como na criação de fileiras e clusters industriais nesta matéria.
+
+Mais concretamente, o Governo assumiu o objectivo ambicioso de multiplicar por 10, em 10 anos, a meta actual de energia solar (de 150 MW para 1500 MW), através de uma política integrada para as diferentes tecnologias do solar, com base num modelo de desenvolvimento da respectiva fileira industrial.
+
+Após as iniciativas da microprodução e miniprodução há ainda espaço para o aproveitamento de oportunidades ao nível da produção descentralizada, associadas a potências superiores às previstas na miniprodução. Estes aproveitamentos têm como vantagem associar a produção ao consumo no mesmo local, reduzindo os investimentos necessários para o alargamento e reforço das redes de distribuição que enfrentam dificuldades de realização, contribuindo ainda para a redução dos níveis de perdas de electricidade nas redes.
+
+Impõe-se, assim, o lançamento de iniciativas destinadas a prover a prossecução daqueles objectivos ainda no decurso de 2010, com vista à atribuição de capacidades de injecção de energia eléctrica na rede nos pontos de recepção associados de modo a garantir o acesso às redes e a viabilizar a instalação e a exploração de novas centrais solares fotovoltaicas.
+
+O actual regime legal constante do [Decreto-Lei n.º 312/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2001-576278), de 10 de Dezembro, prevê que a atribuição de capacidade de injecção e pontos de recepção associados possa ser realizada através de procedimento concursal, quando, como é o caso presente, estejam em causa prioridades na realização de projectos inseridos no âmbito das opções da política energética nacional, com carácter de orientação para os mercados, designadamente em cumprimento de objectivos estabelecidos pela União Europeia.
+
+Isto porque o regime regra para a atribuição de pontos de recepção, através do sistema de pedidos de informação prévia, não dá garantias de serem alcançados os objectivos e metas específicos consagrados naqueles instrumentos de política pública e comunitária, tendo em consideração as boas práticas de gestão pública, bem como os objectivos pretendidos em matéria de implementação dos projectos.
+
+Torna-se pois necessário organizar o lançamento de procedimentos concursais para a atribuição de capacidades de injecção na rede e pontos de recepção associados para a energia eléctrica de centrais solares fotovoltaicas, incluindo a tecnologia solar fotovoltaica de concentração.
+
+Assim, em primeiro lugar, e nesta fase, a potência de ligação a disponibilizar, mediante procedimento concursal de iniciativa pública, terá o limite total de 150 MVA, a atribuir prioritariamente para zonas de elevado consumo onde esteja assegurada a necessária disponibilidade de capacidade de recepção de potência na rede de distribuição, e em moldes que assegurem uma adequada remuneração dos promotores através da definição de uma solução tarifária específica para a energia a injectar na rede, a vigorar pelo prazo de 20 anos.
+
+Em segundo lugar, é fixado como critério de adjudicação o da mais elevada contrapartida financeira, a qual é determinada pelo somatório do preço base constante dos documentos do procedimento e a quantia oferecida pelo adjudicatário, para além do preço base.
+
+Em terceiro lugar, define-se a competência do ministério da economia para promover e organizar o lançamento dos concursos e aprovar os respectivos documentos.
+
+Por último, estipula-se que o regime previsto no presente decreto-lei é aplicável aos procedimentos concursais que já se encontrem lançados à data da sua publicação.
+
+Foi ouvida a Entidade Reguladora dos Serviços Energéticos.
+
+Foi promovida a audição do Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente decreto-lei estabelece o regime para a atribuição de 150 MVA de capacidade de recepção de potência na Rede Eléctrica de Serviço Público (RESP) para energia eléctrica produzida a partir de centrais solares fotovoltaicas, incluindo a tecnologia solar fotovoltaica de concentração e pontos de recepção associados, mediante iniciativa pública.
+
+###### Artigo 2.º — Promoção dos procedimentos
+
+A iniciativa pública de promoção de procedimentos para atribuição de capacidade de injecção de potência na RESP para energia eléctrica produzida a partir de centrais solares fotovoltaicas e pontos de recepção associados mencionada no artigo anterior é da competência do membro do Governo responsável pela área da energia ao abrigo do regime aplicável à gestão de capacidade de recepção de energia na RESP, aprovado pelo [Decreto-Lei n.º 312/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2001-576278), de 10 de Dezembro, alterado pelo [Decreto-Lei n.º 33-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2005-517381), de 16 de Fevereiro.
+
+###### Artigo 3.º — Selecção de entidades privadas
+
+1 - A atribuição de capacidade de injecção de potência na RESP para energia eléctrica produzida a partir de centrais solares fotovoltaicas é feita através de procedimentos concursais com a possibilidade de recurso a leilão electrónico, os quais se regem:
+
+a) Pelo presente decreto-lei;
+
+b) Pelas respectivas peças concursais, incluindo os programas dos procedimentos e os cadernos de encargos;
+
+c) Pelo regime relativo à gestão de capacidade de recepção de energia na RESP, aprovado pelo [Decreto-Lei n.º 312/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2001-576278), de 10 de Dezembro, alterado pelo [Decreto-Lei n.º 33-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2005-517381), de 16 de Fevereiro;
+
+d) Pelos princípios gerais de contratação pública previstos no n.º 4 do artigo 1.º do Código dos Contratos Públicos.
+
+2 - Os prazos de apresentação de propostas são definidos nos documentos do procedimento.
+
+3 - O membro do Governo responsável pela área da energia aprova, mediante despacho, o procedimento concursal e as peças concursais.
+
+###### Artigo 4.º — Critério de adjudicação
+
+A adjudicação deve realizar-se tendo por base o critério da mais elevada contrapartida financeira para o Estado pela atribuição da capacidade de injecção de potência na RESP e exploração da central solar fotovoltaica («Contrapartida»), nos termos estabelecidos nos documentos do concurso.
+
+###### Artigo 5.º — Contrato
+
+1 - Entre o Estado e o adjudicatário seleccionado nos termos do artigo 3.º é celebrado um contrato para a atribuição da capacidade de injecção de potência na RESP para energia eléctrica produzida a partir de centrais solares fotovoltaicas, incluindo a tecnologia solar fotovoltaica de concentração e pontos de recepção associados.
+
+2 - O contrato é assinado após a adjudicação, ficando a sua celebração condicionada à prova, pelo adjudicatário, do pagamento integral da Contrapartida.
+
+3 - O pagamento da Contrapartida deve ser feito quando da assinatura do respectivo contrato, nos termos e nas condições para o efeito definidos nos documentos do procedimento.
+
+4 - Quando o adjudicatário não faça prova do pagamento da Contrapartida, a respectiva adjudicação fica sem efeito, caso em que pode ser feita nova adjudicação ao segundo classificado e assim sucessivamente.
+
+5 - O contrato é outorgado, em nome do Estado, pelo director-geral da Direcção-Geral de Energia e Geologia.
+
+###### Artigo 6.º — Direitos
+
+Ao adjudicatário são atribuídos pelo contrato os seguintes direitos:
+
+a) Reserva de capacidade de injecção de potência nas redes do sistema eléctrico de serviço público, nos termos previstos no programa e no caderno de encargos do concurso;
+
+b) Remuneração pelo fornecimento de electricidade entregue à rede nos termos constantes do artigo seguinte.
+
+###### Artigo 7.º — Remuneração da electricidade produzida
+
+1 - A energia eléctrica entregue à RESP pelas centrais solares sujeitas ao regime definido no presente decreto-lei é remunerada através da fórmula definida no n.º 1 do anexo ii do [Decreto-Lei n.º 189/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1988-374244), de 27 de Maio, alterado pelo [Decreto-Lei n.º 225/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2007-638769), de 31 de Maio, e rectificada pela [Declaração de Rectificação n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2007-636750), de 24 de Julho, com as seguintes alterações:
+
+a) O coeficiente Z assume o valor de 27,2;
+
+b) O montante de remuneração definido por VRD é aplicável durante os primeiros 34 GWh entregues à rede por cada megawatt de potência de injecção na rede atribuído, determinado com base num factor de potência de 0,98, até ao limite máximo de 20 anos a contar do início do fornecimento à rede.
+
+2 - No caso de serem atingidos os limites previstos na alínea b) do número anterior ou em caso de perda do regime de remuneração específico previsto no presente decreto-lei, a energia eléctrica passa a ser remunerada nos termos aplicáveis ao regime ordinário, sem qualquer bonificação tarifária.
+
+###### Artigo 8.º — Deveres
+
+1 - A cada adjudicatário incumbem os seguintes deveres:
+
+a) Pagar a Contrapartida nos termos da proposta adjudicada em conformidade com o disposto no programa do procedimento;
+
+b) Apresentar junto da entidade competente o requerimento para a atribuição do ponto de recepção respectivo, no prazo e cumprindo todos os requisitos definidos nos documentos do procedimento e no contrato;
+
+c) Requerer, custear e obter todas as licenças e autorizações necessárias à construção e exploração da central solar, nos termos da lei, dos documentos do procedimento e do contrato;
+
+d) Promover, instalar e construir, bem como assegurar a entrada em exploração da central solar destinada à produção de energia eléctrica até à potência que lhe tenha sido adjudicada no prazo legal previsto para o efeito ou, se diferente, no prazo estabelecido nos documentos do procedimento e no contrato;
+
+e) Promover e obter a emissão dos actos ou a celebração dos contratos necessários à instalação da central solar, nomeadamente os relativos à aquisição da disponibilidade dos terrenos necessários à instalação e exploração da central, nos termos da lei e do contrato;
+
+f) Cumprir quaisquer outros deveres ou obrigações que resultem dos documentos do concurso, do contrato e da legislação em vigor.
+
+2 - Nos documentos do procedimento podem ser definidas as penalidades para o incumprimento dos deveres do adjudicatário, os quais devem constar igualmente do contrato.
+
+###### Artigo 9.º — Determinação da contrapartida
+
+1 - A título de contrapartida, o adjudicatário paga ao Estado o valor indicado na sua proposta, em conformidade com os documentos do procedimento.
+
+2 - A contrapartida corresponde ao somatório das seguintes componentes:
+
+a) Preço base constante dos documentos do procedimento;
+
+b) Quantia oferecida pelo adjudicatário pela atribuição da capacidade de injecção de potência na RESP e exploração da central solar fotovoltaica, para além do preço base referido na alínea anterior.
+
+###### Artigo 10.º — Extinção do concurso
+
+Nos procedimentos a que se aplique o presente decreto-lei, incluindo os referidos no artigo seguinte, pode, a qualquer momento, por força de interesse público, ser revogada a decisão de contratar, sendo extinto o respectivo procedimento, por despacho fundamentado do membro do Governo responsável pela área da energia.
+
+###### Artigo 11.º — Norma transitória
+
+O disposto no presente decreto-lei é aplicável aos procedimentos concursais que já tenham sido lançados e que encontrem em curso para a atribuição de capacidade de injecção de potência na RESP para energia eléctrica produzida a partir de centrais solares fotovoltaicas, incluindo a tecnologia solar fotovoltaica de concentração, e pontos de recepção associados.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 14 de Outubro de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Rui Carlos Pereira - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
+
+**Promulgado em 18 de Dezembro de 2010.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 20 de Dezembro de 2010.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

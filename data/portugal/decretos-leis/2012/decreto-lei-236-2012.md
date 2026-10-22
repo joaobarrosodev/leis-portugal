@@ -1,0 +1,732 @@
+---
+schema_version: '1.0'
+id: pt:dre:191561:por
+title: Decreto-Lei n.º 236/2012
+short_title: null
+summary: Aprova a orgânica do Instituto da Mobilidade e dos Transportes, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 236/2012
+official_date: null
+publication_date: '2012-10-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/2012, Série I de 2012-10-31
+  number: '211'
+  series: I
+  supplement: null
+  pages: 6275 - 6282
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/10/21100/0627506282.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-10-01'
+version_history:
+  file: decreto-lei-236-2012.versoes.json
+  count: 6
+  source_lastmod: '2026-09-11'
+  versions:
+  - date: '2012-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-03-21'
+    amending: pt:dre:571959:por
+    amending_title: Decreto-Lei n.º 44/2014
+    changes:
+    - Altera Artigo 18.º
+  - date: '2014-05-15'
+    amending: pt:dre:25344767:por
+    amending_title: Decreto-Lei n.º 77/2014
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+  - date: '2015-06-01'
+    amending: pt:dre:67250267:por
+    amending_title: Decreto-Lei n.º 83/2015
+    changes:
+    - Revoga Artigo 18.º
+  - date: '2016-12-01'
+    amending: pt:dre:75784268:por
+    amending_title: Decreto-Lei n.º 79/2016
+    changes:
+    - Altera Artigo 3.º
+  - date: '2026-10-01'
+    amending: pt:dre:1167595460:por
+    amending_title: Decreto-Lei n.º 179/2026
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/236/2012/p/cons/20161123/pt/html
+  oj: null
+  dre: '191561'
+  dre_path: /dr/detalhe/decreto-lei/236-2012-191561
+  internal: pt:dre:191561:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2012-191561
+  metadata_url: https://data.dre.pt/eli/dec-lei/236/2012/p/cons/20161123/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-836793883
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-836793883
+  retrieved_at: '2026-10-22T13:53:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-11T00:00:00Z'
+integrity:
+  source_sha256: 259b5b31c38b7d017245b78983800585cbb245a92c3b4c849d41f3dc324455e1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:53:45Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-236-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fiscal Único
+- Comissão de Planeamento de Emergência dos Transportes Terrestres
+- Instituto Portuário e dos Transportes Marítimos
+- Definição de Competências
+- Conselho Diretivo
+- Instituto da Mobilidade e dos Transportes
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:571959:por
+  label: Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959
+  date: '2014-03-20'
+- type: amended_by
+  target: pt:dre:25344767:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 11.º;
+    Altera Artigo 14.º; Revoga Artigo 8.º; Revoga Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2014-25344767
+  date: '2014-05-14'
+- type: amended_by
+  target: pt:dre:67250267:por
+  label: Revoga Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267
+  date: '2015-05-21'
+- type: amended_by
+  target: pt:dre:75784268:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2016-75784268
+  date: '2016-11-23'
+- type: amended_by
+  target: pt:dre:1167595460:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460
+  date: '2026-09-07'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/146/2007/04/27/p/
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/146/2007/04/27/p/
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/7/2012/01/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/7/2012/01/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/45/2011/11/10/p/dre
+article_structure:
+  article_count: 20
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:53:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 236/2012
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava, decididamente, repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Neste contexto, foi aprovada a Lei Orgânica do Ministério da Economia e do Emprego (MEE), pelo Decreto-Lei n.º 126-C/2011, de 29 de dezembro, que procede à reestruturação do Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), que passa a designar-se Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), sucedendo nas atribuições do Instituto de Infraestruturas Rodoviárias, I. P. (InIR, I. P.), nas atribuições do Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), no domínio da supervisão e regulação da atividade económica dos portos comerciais e dos transportes marítimos, bem como da navegação da via navegável do Douro, conforme previsto na Lei Orgânica do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, aprovada pelo Decreto-Lei n.º 7/2012, de 17 de janeiro, e nas atribuições da Comissão de Planeamento de Emergência dos Transportes Terrestres.
+
+Este organismo da administração indireta do Estado tem por missão regular, fiscalizar e exercer funções de coordenação e planeamento, bem como supervisionar e regulamentar as atividades desenvolvidas no setor das infraestruturas rodoviárias, no setor dos transportes terrestres e supervisionar e regular a atividade económica do setor dos portos comerciais e transportes marítimos, de modo a satisfazer as necessidades de mobilidade de pessoas e bens, visando, ainda, a promoção da segurança, da qualidade e dos direitos dos utilizadores dos referidos transportes.
+
+Com este desígnio, foi igualmente prevista, no capítulo 9 do Plano Estratégico dos Transportes para o horizonte 2011-2015, aprovado pela Resolução do Conselho de Ministros n.º 45/2011, de 10 de novembro, referente à governança e regulação, a fusão do extinto InIR, I. P., no IMT, I. P. Põe-se, desta forma, termo à existência de uma pluralidade de organismos com funções cometidas no âmbito da regulação e da administração do setor dos transportes terrestres. A unificação destas entidades apresenta diversas vantagens organizacionais com ganhos de eficácia no serviço público prestado, resultantes da integração e uniformização da atividade, evitando a duplicação no exercício de determinadas funções e assegurando a melhor coordenação de políticas públicas no setor da mobilidade e transportes.
+
+No que respeita ao setor ferroviário, são tidas em conta as especificidades e características próprias deste mercado, enquanto indústria de rede, sendo essencial prever mecanismos que garantam, com efetividade, o acesso e o exercício da atividade dos operadores do transporte ferroviário, de acordo com a capacidade da infraestrutura disponível, adotando regras de tratamento equitativo e não discriminatório daqueles operadores. Neste sentido, e tendo em conta as disposições comunitárias em matéria de regulação ferroviária, opta-se pela manutenção de uma unidade orgânica dotada de autonomia técnica e de independência funcional - a Unidade de Regulação Ferroviária - destinada ao tratamento das questões regulatórias do setor ferroviário e promove-se o reforço das suas atribuições e competências.
+
+Salienta-se ainda a opção de, pela sua especificidade, cometer as atribuições no domínio marítimo-portuário provenientes do extinto IPTM, I. P., a uma unidade orgânica específica do IMT, I. P., a Unidade de Regulação Marítimo-Portuária, igualmente dotada de autonomia técnica e de independência funcional.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+###### Artigo 1.º — Natureza
+
+1 - O Instituto da Mobilidade e dos Transportes, I. P., abreviadamente designado por IMT, I. P., é um instituto público integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.
+
+2 - O IMT, I.P., prossegue atribuições do Ministério da Economia, sob superintendência e tutela do respetivo ministro.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2014-25344767), em vigor a partir de 2014-05-15
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - O IMT, I. P., é um organismo central com jurisdição sobre todo o território nacional.
+
+2 - O IMT, I. P., tem sede em Lisboa.
+
+3 - O IMT, I. P., dispõe, como serviços desconcentrados, das Direções Regionais de Mobilidade e Transportes do Norte, do Centro, de Lisboa e Vale do Tejo, do Alentejo e do Algarve.
+
+4 - (Revogado.)
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2014-25344767), em vigor a partir de 2014-05-15
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - O IMT, I.P., tem por missão o exercício das funções de regulamentação técnica, de licenciamento, coordenação, fiscalização e planeamento no setor dos transportes terrestres, fluviais e respetivas infraestruturas e na vertente económica do setor dos portos comerciais e transportes marítimos, bem como a gestão de contratos de concessão em que o Estado seja concedente nos referidos setores ou em outros setores, nomeadamente relativos a transporte aéreo e infraestruturas aeroportuárias, de modo a satisfazer as necessidades de mobilidade de pessoas e bens.
+
+2 - São atribuições genéricas do IMT, I. P.:
+
+a) Apoiar o Governo na implementação e avaliação de políticas para os setores da mobilidade, dos transportes terrestres, fluviais e dos portos comerciais e transportes marítimos, na sua vertente económica, e das infraestruturas rodoviárias, assegurando a sua coordenação interna com os subsistemas de circulação e segurança e delineando estratégias de articulação intermodal;
+
+b) Acompanhar a gestão de contratos de concessão nos quais o Estado seja concedente em setores não incluídos na alínea anterior, nomeadamente relativos a transporte aéreo e infraestruturas aeroportuárias, na sequência de determinação específica de poderes por parte da tutela;
+
+c) Apoiar o Governo na elaboração de diplomas legais e regulamentares e na preparação e condução de procedimentos pré-contratuais nos setores dos transportes terrestres, fluviais e dos portos comerciais e transportes marítimos, na sua vertente económica, e das infraestruturas rodoviárias, no âmbito das suas atribuições;
+
+d) Representar o Estado Português, em articulação com o Ministério dos Negócios Estrangeiros, em organismos internacionais dos setores da mobilidade, dos transportes terrestres e das infraestruturas rodoviárias, acompanhando ou assegurando a representação e participação internacionais no setor dos portos comerciais e transportes marítimos, sem prejuízo da representação da Autoridade da Mobilidade e dos Transportes (AMT) em matéria de regulação;
+
+e) Coordenar, no quadro dos assuntos europeus, a participação nas áreas das infraestruturas, dos transportes e das comunicações, designadamente, através do acompanhamento dos processos de transposição das diretivas e de execução dos regulamentos, bem como dos processos de pré-contencioso e do contencioso da União Europeia;
+
+f) Assegurar o relacionamento com as instituições europeias e demais instituições internacionais, bem como a representação no quadro da celebração de instrumentos de direito internacional convencional de natureza bilateral ou multilateral nas áreas das infraestruturas, transportes e comunicações, sem prejuízo da representação das entidades administrativas independentes de supervisão e regulação;
+
+g) Assegurar a divulgação e difusão da informação referente a temas relacionados com a Política Europeia dos Transportes e da Política Europeia das Telecomunicações e proceder à sua divulgação.
+
+3 - São atribuições do IMT, I. P., em matéria de mobilidade e transportes terrestres:
+
+a) Assessorar o Governo no exercício dos seus poderes de concedente de serviços de transporte público, nomeadamente acompanhando os contratos de fornecimento de serviço público nessa matéria, incluindo contratos de concessão e contratos de prestação de serviços;
+
+b) Autorizar, nos termos da lei, os serviços de transporte público de passageiros;
+
+c) [Revogada];
+
+d) Colaborar na implementação da política tarifária dos transportes públicos;
+
+e) Assegurar, no âmbito das suas atribuições, em ligação com a Autoridade Nacional de Segurança Rodoviária (ANSR), o cumprimento das melhores práticas em matéria de segurança rodoviária;
+
+f) Promover a definição e atualização do quadro normativo e regulamentar do setor dos transportes terrestres, designadamente o acesso e permanência das atividades transportadoras e das respetivas profissões, bem como as condições de emissão de títulos habilitantes e de certificados profissionais;
+
+g) Autorizar, licenciar e fiscalizar o exercício das atividades de transporte terrestre e complementares, incluindo a coordenação do processo de licenciamento e gestão de plataformas e outras instalações logísticas, nos termos da legislação aplicável;
+
+h) Certificar profissionais dos transportes terrestres e promover a habilitação dos condutores, reconhecer, licenciar e supervisionar as entidades formadoras e examinadoras sujeitas à sua supervisão, definir as políticas de formação e garantir e fiscalizar a sua aplicação;
+
+i) Definir as condições da emissão, revalidação, troca e apreensão de títulos de condução e certificados profissionais;
+
+j) Acompanhar a aplicação da regulamentação social no domínio dos transportes rodoviários, enquanto autoridade nacional responsável pela implementação dos respetivos instrumentos de controlo (tacógrafos);
+
+k) Aprovar, homologar e certificar veículos e equipamentos afetos aos sistemas de transporte terrestre, garantindo os padrões técnicos e de segurança exigidos, licenciando as entidades intervenientes nos processos de certificação e inspeção;
+
+l) Promover os aperfeiçoamentos técnicos em veículos rodoviários e ferroviários, incluindo componentes, equipamentos, materiais, bem como infraestruturas, oficinas de manutenção e outros meios de exploração do transporte ferroviário, em conformidade com as normas legais aplicáveis e a evolução tecnológica, com o objetivo de melhorar a segurança e a eficiência da exploração dos transportes rodoviários e ferroviários, a interoperabilidade e a redução de impactos ambientais negativos;
+
+m) Assegurar as funções de autoridade nacional de segurança ferroviária, nos termos da legislação em vigor;
+
+n) Assegurar a gestão dos registos nacionais do setor dos transportes, designadamente de veículos, infraestruturas ferroviárias, centros de inspeção, condutores, escolas de condução, empresas transportadoras e atividades complementares, serviços de transporte público de passageiros e profissionais de transporte;
+
+o) [Revogada];
+
+p) Acompanhar a elaboração de instrumentos de gestão territorial, bem como de instrumentos setoriais de escala nacional;
+
+q) Assegurar, em articulação com a Autoridade Nacional de Proteção Civil (ANPC), o planeamento da utilização dos transportes terrestres em situação de crise e de guerra e apoiar o Governo na tomada de decisões no âmbito do Sistema Nacional de Planeamento Civil de Emergência;
+
+r) Propor, em articulação com a ANPC, a representação nacional nos comités correspondentes do Alto Comité de Planeamento Civil de Emergência/Organização do Tratado Atlântico Norte (OTAN).
+
+4 - São atribuições do IMT, I. P., em matéria de infraestruturas rodoviárias, incluindo matérias específicas relativas à rede rodoviária nacional:
+
+a) Propor o planeamento da rede rodoviária nacional, no âmbito das políticas de planeamento dos transportes e de ordenamento do território;
+
+b) Promover a qualidade e a segurança das infraestruturas rodoviárias;
+
+c) [Revogada];
+
+d) Promover a definição de normas regulamentares aplicáveis ao setor das infraestruturas rodoviárias em matéria de qualidade e de segurança, após a avaliação do seu impacto por referência aos padrões contratuais em vigor, e fiscalizar o cumprimento das obrigações delas decorrentes pelos operadores do setor;
+
+e) [Revogada];
+
+f) [Revogada];
+
+g) [Revogada];
+
+h) [Revogada];
+
+i) [Revogada];
+
+j) Colaborar com a ANSR na elaboração de Planos Nacionais de Segurança Rodoviária;
+
+k) Participar na definição do regime e estatuto da infraestrutura rodoviária;
+
+l) [Revogada];
+
+m) [Revogada];
+
+n) Participar na gestão da rede rodoviária e fazer cumprir as regras e obrigações que lhe são aplicáveis, nos termos da lei e dos contratos de concessão e subconcessão, sem prejuízo das atribuições da AMT enquanto autoridade reguladora ou das atribuições cometidas a outras entidades;
+
+o) Exercer as funções previstas em instrumentos legais ou contratuais, designadamente no Estatuto das Estradas Nacionais, no Plano Rodoviário Nacional e nos contratos de concessão e subconcessão da infraestrutura rodoviária, sem prejuízo das atribuições da AMT enquanto autoridade reguladora ou das atribuições cometidas a outras entidades;
+
+p) Promover estudos e a divulgação técnica e científica, nos planos nacional e internacional, das atividades e funções públicas do universo das infraestruturas rodoviárias;
+
+q) [Revogada];
+
+r) Exercer, no âmbito da gestão e exploração da rede rodoviária, os poderes e as competências atribuídas ao concedente Estado, por lei ou por contrato, exceto se estes previrem expressamente a intervenção dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, ou de outras entidades públicas, sem prejuízo da faculdade de subdelegação, realizando uma gestão criteriosa e eficaz que garanta a salvaguarda dos interesses públicos em presença;
+
+s) [Revogada];
+
+t) Exercer os serviços de gestão de normas e processos do sistema de identificação eletrónica de veículos, de autorização de utilizadores do sistema de identificação eletrónica de veículos, de gestão dos dispositivos eletrónicos e certificação de tecnologia, de gestão de eventos de tráfego públicos, para efeitos de cobrança de portagens e outras taxas rodoviárias, de gestão de sistemas de informação relativas à atividade que desenvolve, de aprovação e fiscalização de sistemas de identificação automática de dispositivos eletrónicos (road side equipment ou RSE), e de exploração de RSE próprios;
+
+u) Gerir os processos de atribuição e manutenção das isenções de taxas de portagem, ao abrigo dos contratos de concessão e subconcessão de infraestruturas rodoviárias.
+
+5 - São atribuições do IMT, I. P., em matéria relativa ao setor dos portos comerciais, da navegabilidade do rio Douro e transportes marítimos:
+
+a) Promover, em articulação com os serviços competentes da área do mar, a elaboração, avaliação, acompanhamento e revisão dos instrumentos de planeamento e ordenamento para o setor portuário comercial, componente económica dos transportes marítimos e via navegável do Douro, assegurando a sua articulação com os demais instrumentos de gestão territorial;
+
+b) [Revogada];
+
+c) Acompanhar as atividades de serviços de transporte marítimo e de exploração portuária, autorizando, licenciando e fiscalizando as entidades do setor em cumprimento das normas nacionais e internacionais aplicáveis ao setor, sem prejuízo das atribuições da AMT enquanto autoridade reguladora;
+
+d) Assegurar o cumprimento das normas nacionais e internacionais aplicáveis ao setor, no âmbito das suas atribuições e competências;
+
+e) Contribuir para a definição e atualização das políticas de planeamento civil de emergência, na área do transporte marítimo;
+
+f) Regulamentar a atividade das entidades que atuam no setor marítimo-portuário, no âmbito das suas atribuições, designadamente aprovando normas administrativas de regulamentação, em articulação com os serviços competentes da área do mar.
+
+6 - O IMT, I. P., pode convencionar e articular com as entidades competentes a gestão de outros registos relacionados com as atividades de transporte, nomeadamente em matéria de circulação e segurança rodoviárias.
+
+7 - O IMT, I. P., deve proporcionar às entidades públicas os acessos necessários que permitam utilizar, inserir ou atualizar dados relevantes para o exercício das suas atribuições, de forma segura e registável, e convencionar com outras entidades interações suscetíveis de contribuir para a qualidade, integralidade e atualidade dos registos, desde que compatíveis com a privacidade da informação registada.
+
+8 - O IMT, I. P., pode estabelecer relações de cooperação ou associação, no âmbito das suas atribuições, com outras entidades, públicas ou privadas, nacionais ou estrangeiras, nomeadamente no quadro da União Europeia, desde que isso não implique delegação ou partilha das suas atribuições e competências.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79/2016 - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2016-75784268), em vigor a partir de 2016-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2014-25344767), em vigor a partir de 2014-05-15
+
+###### Artigo 4.º — Sistema de identificação eletrónica de veículos
+
+1 - Para efeitos do disposto na alínea t) do n.º 4 do artigo anterior, o sistema de identificação eletrónica de veículos, doravante designado por sistema, é constituído pelos sistemas, normas e procedimentos técnicos que sustentam o processamento da informação sobre os eventos de tráfego e sobre a deteção do dispositivo eletrónico instalado nos veículos, recolhida a partir de equipamentos de identificação ou deteção eletrónica.
+
+2 - São entidades do sistema, o IMT, I.P., e os utilizadores do sistema referidos nos números seguintes.
+
+3 - São utilizadores obrigatórios do sistema, a EP - Estradas de Portugal, S.A., as concessionárias ou subconcessionárias de vias cuja utilização por veículos esteja dependente do pagamento de portagens, os distribuidores e importadores dos dispositivos eletrónicos de veículos, bem como as entidades de cobrança de portagens.
+
+4 - Tendo em conta a natureza de exclusivo da atividade das concessionárias ou subconcessionárias, face ao objeto do seu contrato de concessão, e das entidades de cobrança de portagens, face aos utentes seus clientes, cada uma delas, na qualidade de utilizador obrigatório do sistema, tem um dever de não discriminação mútuo, devendo estabelecer entre si as relações funcionais e contratuais necessárias ao cabal desempenho das suas respetivas funções.
+
+5 - São ainda utilizadores do sistema quaisquer entidades que venham a solicitar e obter autorização ao IMT, I.P., tendo em vista a respetiva utilização, desde que esta não extravase as finalidades do sistema e o regime previsto no Decreto-Lei n.º 112/2009, de 18 de maio, alterado pela Lei n.º 46/2010, de 7 de setembro.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2014-25344767), em vigor a partir de 2014-05-15
+
+###### Artigo 5.º — Órgãos
+
+São órgãos do IMT, I. P.:
+
+a) O conselho diretivo;
+
+b) O fiscal único.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+###### Artigo 6.º — Conselho diretivo
+
+1 - O conselho diretivo é composto por um presidente e por dois vogais.
+
+2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do IMT, I. P.:
+
+a) Aprovar os estudos, pareceres e propostas a apresentar ao Governo;
+
+b) Celebrar acordos de cooperação com outras entidades, públicas ou privadas, nos termos da lei;
+
+c) Exercer os poderes normativos e regulamentares previstos na lei;
+
+d) Exercer os poderes públicos legalmente cometidos ao IMT, I.P.;
+
+e) Emitir os títulos representativos de licenciamento de autorização e certificação e os demais documentos oficiais, nos termos legais e no âmbito das suas atribuições e competências;
+
+f) Processar e punir as infrações às normas cuja implementação, supervisão, inspeção e fiscalização lhe compete, bem como as resultantes do incumprimento das suas próprias determinações, nos termos da lei;
+
+g) Decidir os processos de contraordenações legalmente cometidos ao IMT, I. P., e aplicar as respetivas coimas e sanções acessórias;
+
+h) Comunicar às autoridades competentes as irregularidades e as infrações de que tenha conhecimento no exercício da sua atividade, em particular, nas áreas da fiscalidade, segurança social e defesa da concorrência.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2014-25344767), em vigor a partir de 2014-05-15
+
+###### Artigo 7.º — Fiscal único
+
+O fiscal único é designado e tem as competências previstas na lei quadro dos institutos públicos.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+###### Artigo 8.º — Unidade de Regulação Ferroviária
+
+1 - A Unidade de Regulação Ferroviária tem funções de regulação jurídica, económica e técnica da atividade ferroviária, incidindo sobre o sistema ferroviário, designadamente na relação entre os gestores da infraestrutura e os operadores de transporte.
+
+2 - O diretor da Unidade de Regulação Ferroviária, cargo de direção intermédia de 1.º grau, é designado pelo membro do Governo responsável pela área dos transportes, nos termos dos artigos 18.º e 19.º da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro.
+
+3 - Compete à Unidade de Regulação Ferroviária:
+
+a) Atuar como instância de recurso para as matérias do diretório de rede;
+
+b) Regular o acesso à infraestrutura, de modo a que seja livre e não discriminatório, impondo condições de acesso, bem como o inerente processo de aceitação de operadores;
+
+c) Promover a atualização, modernização e harmonização da regulamentação técnica do sistema ferroviário;
+
+d) Definir regras e atribuir prioridades para repartição da capacidade da infraestrutura ferroviária, arbitrando e decidindo em caso de conflito;
+
+e) Definir as regras e critérios de taxação da utilização da infraestrutura ferroviária e homologar as tabelas de taxas propostas pelas respetivas entidades gestoras;
+
+f) Fiscalizar o cumprimento, por parte das empresas e entidades sujeitas às suas atribuições de regulação, das disposições legais e regulamentares aplicáveis, bem como das disposições com relevância em matéria de regulação constantes dos respetivos estatutos, licenças, contratos de concessão ou outros instrumentos jurídicos que regulem a respetiva atividade;
+
+g) Definir ou aprovar, na prossecução das suas atribuições de regulação, regimes de desempenho da infraestrutura e operadores, de observância obrigatória para as empresas e entidades sujeitas às suas atribuições de regulação, particularmente em matéria de fiabilidade e de pontualidade e dos correspondentes sistemas de monitorização, aplicando penalidades por insuficiências de desempenho;
+
+h) Apreciar e decidir sobre reclamações dos operadores em relação ao gestor da infraestrutura;
+
+i) Colaborar com os órgãos de defesa da concorrência, e, em particular, proceder à identificação de comportamentos de empresas e entidades sujeitas aos seus poderes de regulação que sejam suscetíveis de infringir o disposto na lei de defesa da concorrência em matéria de práticas proibidas, promovendo a organização e instrução dos respetivos processos e verificando o cumprimento das decisões neles proferidas;
+
+j) Exercer, na qualidade de entidade reguladora ferroviária, os poderes de representação que, como tal, lhe estão consagrados nos termos da legislação comunitária aplicável.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2014-25344767), em vigor a partir de 2014-05-15
+
+###### Artigo 9.º — Unidade de Regulação Marítimo-Portuária
+
+1 - A Unidade de Regulação Marítima-Portuária tem funções de regulação jurídica e económica dos portos comerciais e do transporte marítimo.
+
+2 - O dirigente da Unidade de Regulação Marítima-Portuária, cargo de direção intermédia de 1.º grau, é designado pelo membro do Governo responsável pela área dos transportes, nos termos dos artigos 18.º e 19.º da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro.
+
+3 - Compete à Unidade de Regulação Marítimo-Portuária:
+
+a) Assessorar o Governo na definição da política nacional para os transportes marítimos, na vertente comercial estratégica e na vertente de regulação económica;
+
+b) Assessorar o Governo na definição da política para os portos comerciais;
+
+c) Propor e assessorar a tutela na elaboração de diplomas legais e regulamentares do setor, designadamente na preparação e elaboração das medidas necessárias à introdução na ordem jurídica interna das políticas comunitárias e internacionais na vertente económica do setor marítimo-portuário;
+
+d) Definir, através de regulamentos, as regras necessárias à aplicação de normas e resoluções emanadas da Organização Marítima Internacional e de outros organismos internacionais de normalização técnica, na vertente económica do setor marítimo-portuário;
+
+e) Definir os requisitos gerais base relativos ao acesso e manutenção na atividade de armador, de operador de transporte marítimo, de agentes de navegação e de pilotagem e reboque e ao apoio ao desenvolvimento sustentado da atividade setorial;
+
+f) Analisar, apreciar e aprovar anualmente as propostas de regulamentos de tarifas de cada uma das administrações portuárias;
+
+g) Emitir instruções vinculativas no âmbito da simplificação, transparência e harmonização de tarifários praticados pelas administrações portuárias, tendo em vista a existência de uma sã concorrência entre os portos nacionais, e determinar a correção das irregularidades na atividade tarifária das administrações portuárias;
+
+h) Promover a avaliação dos níveis de serviço das administrações portuárias, designadamente em matéria tarifária;
+
+i) Propor medidas que conduzam à harmonização de procedimentos, indicadores e instrumentos de gestão das administrações portuárias;
+
+j) Analisar e emitir parecer sobre orçamentos, investimentos, instrumentos previsionais de gestão e outros atos das administrações portuárias que requeiram a aprovação da tutela;
+
+k) Promover, em articulação com o membro do Governo responsável pela área do mar, e em colaboração com os serviços e organismos com atribuições e competências das áreas das finanças, da defesa nacional, da administração interna e da administração local, a elaboração, avaliação e revisão do Plano Nacional Marítimo-Portuário e acompanhar a elaboração e dar parecer sobre os demais instrumentos de planeamento e ordenamento dos portos comerciais, da componente económica dos transportes marítimos e da via navegável do Douro, assegurando a sua articulação com os demais instrumentos de gestão territorial;
+
+l) Emitir parecer sobre os programas de concursos e cadernos de encargos das concessões dos serviços e de operações portuárias, bem como sobre a respetiva renovação, propostos pelas administrações portuárias, sempre que a lei preveja a intervenção da tutela;
+
+m) Emitir parecer vinculativo sobre os regulamentos de exploração e de utilização dos portos, a serem submetidos pelas administrações portuárias, podendo estas aprovar os regulamentos sem este parecer, quando o mesmo não for emitido no prazo de 45 dias;
+
+n) Definir os requisitos gerais base para acesso e manutenção nas atividades de prestação de serviços portuários;
+
+o) Emitir parecer sobre a criação de zonas francas ou de armazéns gerais francos na área de cada porto;
+
+p) Aprofundar as questões de acesso ao mercado, de concorrência entre portos, das relações financeiras entre os Estados membros da União Europeia e os portos;
+
+q) Enquadrar a matéria de auxílios de Estado, através de orientações e regulamentos, no âmbito das suas atribuições específicas;
+
+r) Promover a verificação das condições básicas para a existência e desenvolvimento do transporte marítimo nacional, em particular no que respeita à sua competitividade e à atratividade do investimento no setor;
+
+s) Promover as atividades afins do transporte marítimo e dos portos, tendo em vista o fortalecimento e a sustentabilidade do cluster marítimo-portuário nacional;
+
+t) Regular a atividade da cabotagem insular, no quadro dos requisitos e obrigações de serviço público a que se encontra sujeito, e adotar as medidas que se revelem necessárias para a sua conformidade com a legislação nacional e comunitária aplicável;
+
+u) Definir os requisitos gerais base relativos ao transporte marítimo, nomeadamente para o acesso e manutenção na atividade de armador, de operador de transporte marítimo e de agente de navegação;
+
+v) Exercer os demais poderes legalmente previstos de licenciamento, de autorização e de certificação como entidade reguladora no setor marítimo-portuário, na sua vertente económica.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2014-25344767), em vigor a partir de 2014-05-15
+
+###### Artigo 10.º — Organização interna
+
+A organização interna do IMT, I. P., é a prevista nos respetivos estatutos.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+###### Artigo 11.º — Receitas
+
+1 - O IMT, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - O IMT, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) O produto das taxas pela prestação de serviços compreendidos nas suas atribuições, designadamente pela emissão de licenças, certificações, registos e títulos;
+
+b) [Revogada];
+
+c) [Revogada];
+
+d) [Revogada];
+
+e) Um montante correspondente a 40 % do produto das coimas aplicadas na punição das contraordenações que lhe caiba aplicar, sendo 60 % destinado ao Estado, salvo os casos em que outra distribuição do produto das coimas seja determinada em legislação especial;
+
+f) [Revogada];
+
+g) O produto de coimas que lhe esteja consignado, bem como o resultante da venda de objetos apreendidos e declarados perdidos a favor do Estado, por decisão transitada em julgado no âmbito de processos de contraordenação;
+
+h) O produto resultante da venda ou prestação de bens ou serviços, incluindo publicações e outros suportes de informação, ações de formação e emissão de pareceres;
+
+i) [Revogada];
+
+j) [Revogada];
+
+k) Os rendimentos provenientes da gestão do seu património mobiliário e imobiliário, assim como os dos bens do domínio público ou privado do Estado confiados à sua administração;
+
+l) O produto da aplicação, às empresas e entidades sujeitas à sua jurisdição, de sanções pecuniárias previstas em regulamento, por insuficiência de desempenho em matéria de segurança e de qualidade;
+
+m) O produto da remuneração da prestação de serviços ao Estado;
+
+n) O produto das seguintes tarifas, a cobrar no âmbito do sistema de identificação eletrónica de veículos:
+
+i) Tarifa de acesso à atividade de entidade de cobrança de portagens autorizada, a ser suportada pelas entidades de cobrança de portagens, para aceder à atividade no âmbito do sistema de identificação eletrónica de veículos para pagamento de portagens;
+
+ii) Tarifa de exercício da atividade de entidade de cobrança de portagens autorizada, a ser suportada pelas entidades de cobrança de portagens, por exercerem a atividade no âmbito do sistema de identificação eletrónica de veículos para pagamento de portagens;
+
+iii) Tarifas de acesso à atividade de outras entidades autorizadas, para aceder à atividade no âmbito do sistema de identificação eletrónica de veículos para pagamento de portagens, recorrendo ao dispositivo eletrónico;
+
+iv) Tarifas de exercício da atividade de outras entidades autorizadas, por exercerem a sua atividade no âmbito do sistema de identificação eletrónica de veículos para pagamento de portagens, recorrendo ao dispositivo eletrónico;
+
+v) Tarifa de aprovação de dispositivos eletrónicos, a ser suportada pelos fabricantes ou pelos distribuidores que submetam ao IMT, I.P., um modelo de dispositivo para aprovação como dispositivo eletrónico;
+
+vi) Tarifa de aprovação de dispositivos de deteção e identificação eletrónica, a ser suportada pelos fabricantes ou pelos utilizadores do sistema que submetam ao IMT, I.P., um modelo de dispositivo ou sistema para aprovação como dispositivos de deteção e identificação eletrónica;
+
+vii) Tarifa de transação eletrónica, a ser suportada pelas concessionárias, pelas subconcessionárias ou por outras entidades que, para pagamento dos seus serviços por parte dos utentes ou clientes, aceitem o dispositivo eletrónico como meio de cobrança, por cada transação eletrónica agregada ou não, consoante o caso, desde que não associada a uma isenção do pagamento de portagens;
+
+o) As importâncias resultantes de taxas devidas pela prestação de serviços previstos nos regulamentos de tarifas de portos integrados;
+
+p) As taxas e outras receitas resultantes da exploração da via navegável, das zonas portuárias e das áreas patrimoniais que lhes estão afetas;
+
+q) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - As quantias cobradas pelo IMT, I. P., são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
+
+4 - Os saldos das receitas referidas no n.º 2, verificados no final de cada ano, transitam para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.
+
+5 - O montante das tarifas referidas na alínea n) do n.º 2 está sujeito a atualização anual pelo índice de preços no consumidor, sem habitação, para Portugal, publicado pelo Instituto Nacional de Estatística, I.P.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2014-25344767), em vigor a partir de 2014-05-15
+
+###### Artigo 12.º — Despesas
+
+Constituem despesas do IMT, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+###### Artigo 13.º — Património
+
+O património do IMT, I. P., é constituído pela universalidade de bens, direitos e obrigações de que é titular.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+###### Artigo 14.º — Poderes de autoridade e sancionatórios
+
+1 - Para prossecução das suas atribuições, o IMT, I. P., exerce os poderes de autoridade e sancionatórios do Estado, quanto:
+
+a) À liquidação e cobrança, voluntária ou coerciva, de taxas e tarifas que lhe sejam devidas nos termos da lei, bem como de receitas provenientes do exercício da sua atividade, sendo os créditos correspondentes equiparados a créditos do Estado e constituindo título executivo as faturas, certidões de dívida ou títulos equivalentes;
+
+b) Ao desencadear dos procedimentos sancionatórios em caso de infrações administrativas cuja apreciação seja da sua competência, adotando as necessárias medidas provisórias e aplicando as devidas sanções;
+
+c) [Revogada]
+
+d) À execução coerciva das demais decisões de autoridade;
+
+e) Ao uso público dos serviços e à sua fiscalização;
+
+f) À proteção das suas instalações e do seu pessoal;
+
+g) Ao denunciar às entidades competentes as infrações cuja punição não caiba na sua competência e ao propor a estas, no âmbito das suas atribuições, a suspensão ou revogação da licença ou autorização de atividades, bem como a cessação dos contratos ou convenções em vigor, nos termos da lei;
+
+h) À responsabilidade civil extracontratual, no domínio dos atos de gestão pública ou privada.
+
+2 - O pessoal do IMT, I. P., que desempenhe funções de inspeção e de fiscalização, é detentor dos necessários poderes de autoridade no exercício das suas funções e goza das seguintes prerrogativas:
+
+a) Aceder e inspecionar, a qualquer hora e sem necessidade de aviso prévio, as instalações, os equipamentos, os serviços e os documentos das entidades sujeitas a inspeção e fiscalização do IMT, I. P., sem prejuízo do regime de proteção de dados pessoais e do dever de sigilo quanto a informações comerciais protegidas;
+
+b) Requisitar, para análise, equipamentos e documentos;
+
+c) Identificar as pessoas que se encontrem em flagrante violação das normas cuja observância lhe compete fiscalizar, no caso de não ser possível o recurso à autoridade policial em tempo útil;
+
+d) Solicitar a intervenção das autoridades administrativas e policiais, quando o julgue necessário para o desempenho das suas funções;
+
+e) Efetuar os registos legalmente exigidos, conceder autorizações e aprovações nos casos legalmente previstos, emitir ordens e instruções, bem como recomendações ou advertências individuais, sempre que tal seja necessário;
+
+f) Fiscalizar a aplicação das leis e regulamentos e demais normas aplicáveis às atividades sujeitas à sua jurisdição, nos termos legalmente previstos.
+
+3 - O disposto nas alíneas a), b) e d) do número anterior é igualmente aplicável às entidades e agentes credenciados pelo IMT, I. P., para o exercício de funções de fiscalização, nos termos previstos no presente decreto-lei.
+
+4 - O pessoal do IMT, I. P., e os agentes por este credenciados, titulares das prerrogativas previstas no n.º 2, devem exibir, no exercício das suas funções, um documento de identificação próprio, emitido de acordo com modelo aprovado pelo membro do Governo responsável pela área dos transportes.
+
+5 - A livre entrada a bordo de navios fundeados ou atracados nos portos nacionais é facultada ao pessoal do IMT, I. P., encarregado, nos termos da lei, da realização de inspeções e vistorias aos navios e da superintendência ou fiscalização de serviços portuários, mediante documento de identificação acreditando-o para esta missão.
+
+6 - Constitui contraordenação, punida com coima com o mínimo de (euro) 1000 e com o máximo previsto na lei geral, a resistência a ações de fiscalização referidas no n.º 2.
+
+7 - O IMT, I. P., procede à publicação, na sua página eletrónica, das sanções aplicadas no âmbito dos procedimentos a que se refere o número anterior.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2014-25344767), em vigor a partir de 2014-05-15
+
+###### Artigo 15.º — Bens do domínio público
+
+1 - Encontram-se afetos ao IMT, I. P., os bens do domínio público situados dentro da sua área de jurisdição portuária, designadamente os terrenos afetos a atividades ligadas à navegação, cais, docas, obras de acostagem e outras obras marítimas, rampas e varadouros, bem como os terraplenos anexos e respetivos acessos às vias nacionais ou municipais.
+
+2 - Podem ser afetos à administração do IMT, I. P., por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, os bens do domínio público consignados a fins de interesse público que se enquadrem nas respetivas atribuições e ainda os bens do património do Estado que devam ser sujeitos ao seu uso e fruição, podendo essa afetação cessar a qualquer momento por despacho dos referidos membros do Governo.
+
+3 - O regime jurídico dos bens do domínio público ferroviário é regulado em diploma próprio.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+###### Artigo 16.º — Sucessão
+
+O IMT, I. P., sucede nas atribuições:
+
+a) Do Instituto de Infraestruturas Rodoviárias, I. P.;
+
+b) Do Instituto Portuário e dos Transportes Marítimos, I. P., no domínio da supervisão e regulação da atividade económica dos portos comerciais e dos transportes marítimos, bem como da navegação da via navegável do Douro;
+
+c) Da Comissão de Planeamento de Emergência dos Transportes Terrestres.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+###### Artigo 17.º — Critérios de seleção de pessoal
+
+São fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições do IMT, I. P.:
+
+a) O desempenho de funções no Instituto de Infraestruturas Rodoviárias, I. P.;
+
+b) O desempenho de funções no Instituto Portuário e dos Transportes Marítimos, I. P., no domínio da supervisão e regulação da atividade económica dos portos comerciais e dos transportes marítimos, bem como da navegação da via navegável do Douro.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+###### Artigo 18.º — Regime transitório
+
+1 - Até à aprovação do diploma que determine o novo modelo de gestão dos portos comerciais, o IMT, I.P., exerce a jurisdição portuária direta nas zonas marítimas, flúvio-marítimas e terrestres necessárias à exploração da via navegável do Douro, mantendo-se em vigor os respetivos limites definidos nos artigos 2.º e 22.º do Decreto-Lei n.º 146/2007, de 27 de abril.
+
+2 - [Revogado].
+
+3 - No âmbito da gestão transitória da navegabilidade do rio Douro, incumbe ao IMP, I. P.:
+
+a) Promover e incentivar a navegação na via navegável do Douro;
+
+b) Promover e incentivar as atividades relacionadas com a navegação, divulgando a sua imagem junto dos agentes económicos, gerindo os recursos e contribuindo para o desenvolvimento do Douro;
+
+c) Desenvolver e conservar as infraestruturas e os equipamentos destinados a assegurar a circulação na via navegável e a utilização das instalações portuárias;
+
+d) Administrar os bens do domínio público integrados na sua área de jurisdição;
+
+e) Coordenar as intervenções de outras entidades públicas ou privadas com impacto na via navegável.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-06-01, produz efeitos a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 44/2014 - Diário da República n.º 56/2014, Série I de 2014-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), em vigor a partir de 2014-03-21
+
+###### Artigo 19.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 146/2007, de 27 de abril, alterado pelo Decreto-Lei n.º 210/2008, de 3 de novembro, e pelo Decreto-Lei n.º 211/2008, de 3 de Novembro, na parte relativa às atribuições que transitaram para o IMT, I. P., referidas na alínea b) do artigo 16.º, com exceção dos seus artigos 2.º e 22.º;
+
+b) O Decreto-Lei n.º 147/2007, de 27 de abril;
+
+c) O Decreto-Lei n.º 148/2007, de 27 de abril, alterado pelos Decretos-Leis n.os 43/2008, de 10 de março, 132/2008, de 21 de julho, e 72-A/2010, de 18 de junho.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+###### Artigo 20.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.
+
+Visto e aprovado em Conselho de Ministros de 26 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 24 de outubro de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 25 de outubro de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 179/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2026-1167595460), em vigor a partir de 2026-10-01.

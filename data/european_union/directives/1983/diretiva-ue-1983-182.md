@@ -1,0 +1,462 @@
+---
+schema_version: '1.0'
+id: eu:celex:31983L0182:por
+title: Directiva 83/182/CEE do Conselho, de 28 de Março de 1983
+short_title: null
+summary: Directiva 83/182/CEE do Conselho, de 28 de Março de 1983, relativa às isenções fiscais aplicáveis na Comunidade,
+  em matéria de importação temporária de certos meios de transporte
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1983/182
+official_date: null
+publication_date: '1983-04-23'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 105 de 23.4.1983
+  number: '105'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/ae67d16a-2869-47ab-b554-5141884f5bf7.0011.02/DOC_1
+entry_into_force_dates:
+- '1983-03-31'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2013-07-01'
+identifiers:
+  celex: 31983L0182
+  eli: http://data.europa.eu/eli/dir/1983/182/oj
+  oj: oj:JOL_1983_105_R_0059_008
+  dre: null
+  dre_path: null
+  internal: eu:celex:31983L0182:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31983L0182
+  metadata_url: http://publications.europa.eu/resource/cellar/ae67d16a-2869-47ab-b554-5141884f5bf7.0011
+  content_url: http://publications.europa.eu/resource/cellar/fc618d66-0782-4184-a2f7-fc355ac0c0de.0018.03/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983L0182-20130701
+  retrieved_at: '2026-10-22T03:04:21Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-25T08:32:52.658+01:00'
+integrity:
+  source_sha256: e44987f0314391f9813476569dce1e06171ebb91e5c8617717aeb195ad653d0a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T03:04:21Z'
+  notes: Texto consolidado 01983L0182-20130701.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- IVA
+- franquia fiscal
+- imposto sobre consumos específicos
+- restrição de concorrência
+- veículo motorizado
+relationships:
+- type: amended_by
+  target: celex:31991L0680
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6f6055a7-9b87-4cad-96c0-b66b6e6d1a57
+  date: '1991-12-31'
+- type: amended_by
+  target: celex:11994NN01/13/B
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e1dc337f-4ae8-413c-8319-a0e94ae17d80
+  date: '1994-08-29'
+- type: amended_by
+  target: celex:12003TN02/09
+  label: null
+  source: http://publications.europa.eu/resource/cellar/617f8d9d-a1c0-43c2-adb6-2098a63b3911
+  date: '2003-10-16'
+- type: amended_by
+  target: celex:32006L0098
+  label: null
+  source: http://publications.europa.eu/resource/cellar/92a7c9dd-e93e-4570-bbee-916fa494f8dd
+  date: '2006-12-27'
+- type: amended_by
+  target: celex:32013L0013
+  label: null
+  source: http://publications.europa.eu/resource/cellar/35721da6-c76d-11e2-ac91-01aa75ed71a1
+  date: '2013-05-13'
+- type: based_on
+  target: celex:11957E099
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0b35ab4b-ea09-47e8-b302-b321e5587ffe
+  date: '1957-03-25'
+- type: cited_by
+  target: pt:dre:570523:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31964L0224
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e3f5e2d8-a252-4e57-9a40-939666c13402
+- type: cites
+  target: celex:31977L0388
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dd3ab2e8-a943-4256-a490-7952ca228bfe
+- type: corrected_by
+  target: celex:31983L0182R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/66475de4-95a4-4e4f-b004-d6ad6058f6b4
+  date: '1985-06-28'
+- type: interpreted_by
+  target: celex:61989CJ0297
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6ad740d6-d28e-4367-854c-1d4b03104070
+  date: '1991-04-23'
+- type: interpreted_by
+  target: celex:61995CJ0389
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c665120c-04bb-4f31-9024-31d737b3c0a4
+  date: '1997-06-04'
+- type: interpreted_by
+  target: celex:61999CJ0262
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ec004781-5d1b-4f0b-9096-7b27bd2284fa
+  date: '2001-07-18'
+article_structure:
+  article_count: 11
+  section_count: 27
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T03:04:21Z'
+  warnings: []
+  errors: []
+---
+
+# Directiva 83/182/CEE do Conselho, de 28 de Março de 1983
+
+> 1983L0182 — PT — 01.07.2013 — 005.001
+
+> Este documento constitui um instrumento de documentação e não vincula as instituições
+
+**Alterado por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32006L0098) — [DIRECTIVA 2006/98/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0098) — L 363 — 129 — 20.12.2006
+- [►M2](http://publications.europa.eu/resource/celex/32013L0013) — [DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0013) — L 141 — 30 — 28.5.2013
+
+**Alterado por:**
+
+- [A1](http://publications.europa.eu/resource/celex/11985I) — L 302 — 23 — 15.11.1985
+- [A2](http://publications.europa.eu/resource/celex/11994N) — C 241 — 21 — 29.8.1994
+- L 001 — 1 — ..
+- [►A3](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
+
+## DIRECTIVA DO CONSELHO
+
+de 28 de Março de 1983
+
+relativa às isenções fiscais aplicáveis na Comunidade, em matéria de importação temmporária de certos meios de transporte
+
+(83/182/CEE)
+
+O CONSELHO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99.º,
+
+Tendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/fc618d66-0782-4184-a2f7-fc355ac0c0de.0018.03/DOC_1#E0001)),
+
+Tendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/fc618d66-0782-4184-a2f7-fc355ac0c0de.0018.03/DOC_1#E0002)),
+
+Tendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/fc618d66-0782-4184-a2f7-fc355ac0c0de.0018.03/DOC_1#E0003)),
+
+Considerando que a livre circulação dos residentes comunitários na Comunidade é entravada pelos regimes fiscais aplicáveis à importação temporária de certos meios de transporte para uso particular ou profissional;
+
+Considerando que a eliminação dos entraves resultantes dos referidos regimes fiscais é particularmente necessária para a constituição de um mercado económico com características análogas às de um mercado interno;
+
+Considerando que a qualidade de residente de um Estado-membro deve, em certos casos, poder ser determinada com segurança;
+
+Considerando que se afigura oportuno, numa primeira fase, limitar o âmbito de aplicação da presente directiva, no respeitante a certos meios de transporte, aos que tenham sido adquiridos ou importados nas condições gerais de tributação do mercado interno de um Estado-membro,
+
+ADOPTOU A PRESENTE DIRECTIVA:
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1. Os Estados-membros concederão, nas condições a seguir fixadas, aquando da importação temporária, proveniente de um Estado-membro, de veículos rodoviários a motor — incluindo os respectivos reboques —, caravanas, barcos de recreio, aviões de turismo, velocípedes e cavalos de sela, uma isenção:
+
+— dos impostos sobre o volume de negócios, dos impostos sobré consumos específicos, bem como de qualquer outro imposto de consumo;
+
+— dos impostos referidos no anexo.
+
+2. A isenção prevista no n.º 1 aplica-se igualmente às peças sobressalentes, acessórios e equipamentos normais importados juntamente com os meios de transporte.
+
+3. Ficam excluídos da isenção prevista no n.º 1 os veículos utilitários.
+
+a) O âmbito de aplicação da presente directiva não abrange a importação temporária de veículos de turismo, caravanas, barcos de recreio, aviões de turismo e velocípedes destinados a uso particular, que não tenham sido adquiridos ou importados nas condições gerais de tributação do mercado interno de um Estado-membro e/ou que beneficiem, a título de exportação, de isenção ou de reembolso de imposto sobre o volume de negócios, de impostos sobre consumos específicos ou de qualquer outro imposto sobre o consumo.
+
+b) O Conselho, deliberando por unanimidade, sob proposta da Comissão, adoptará, antes de 31 de Dezembro de 1985, as normas comunitá rias relativas à concessão da isenção aos meios de transporte referidos no primeiro parágrafo da alínea a), tendo em conta a necessidade, por um lado, de evitar casos de dupla tributação e, por outro lado, de garantir a tributação normal e completa dos meios de transporte destinados a uso particular.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do disposto na presente directiva, entende-se por:
+
+a) «Veículo utilitário» todo e qualquer veículo rodoviário que, de acordo com o tipo de construção e respectivo equipamento, esteja apto e se destine a transportar, com ou sem remuneração:
+
+— mais de nove pessoas, incluindo o condutor,
+
+— mercadorias, bem como qualquer outro veículo rodoviário destinado a utilização especial com excepção do transporte propriamente dito;
+
+b) «Veículo de turismo» todo e qualquer veículo rodoviário, incluindo eventualmente o respectivo reboque, com excepção dos referidos na alínea a);
+
+c) «Uso profissional» de um meio de transporte a utilização do referido meio de transporte tendo em vista o exercício directo de uma actividade remunerada ou com fim lucrativo;
+
+d) «Uso particular» qualquer utilização que não seja de natureza profissional.
+
+###### Artigo 3.º — Importação temporária de certos meios de transporte para uso particular
+
+É concedida uma isenção dos impostos referidos no artigo I.º, por uma duração, contínua ou não, que não exceda seis meses em cada período de doze meses, na importação temporária de veículos de turismo, caravanas, barcos de recreio, aviões de turismo e velocípedes, nas seguintes condições
+
+a) O particular importador dos bens referidos deve:
+
+aa) Ter a sua residência normal num Estado-membro que não seja o da importação temporária;
+
+bb) Utilizar os meios de transportes em causa para seu uso particular;
+
+b) Os meios de transporte não podem ser objecto de cessão ou locação no Estado-membro de importação temporária, nem objecto de empréstimo a um residente neste Estado. Todavia, os veículos de turismo pertencentes a uma empresa de locação com sede social na Comunidade podem ser sublocados a um não-residente tendo em vista a sua reexportação, desde que se encontrem no país na sequência da execução de um contrato de locação que terminou neste país. Podem igualmente ser reconduzidos para o Estado-membro do local de origem da locação por um empregado da empresa de locação ainda que esse empregado seja residente do Estado-membro de importação temporária.
+
+###### Artigo 4.º — Importação temporária de veículos de turismo para uso profissional
+
+1. É concedida uma isenção dos impostos referidos no artigo 1.º, aquando da importação temporária de um veículo de turismo para uso profissional, nas seguintes condições:
+
+a) O particular importador do veículo de turismo:
+
+aa) Deve ter a sua residência normal num Estado-membro que não seja o de importação temporária;
+
+bb) Não pode utilizar o veículo para efectuar, no Estado-membro de importação temporária, transporte de pessoas, mediante remuneração ou outros benefícios materiais, nem transportes industriais ou comerciais de mercadorias, com ou sem remuneração;
+
+b) O veículo de turismo não pode ser objecto de cessão, locação ou empréstimo no Estado-membro de importação temporária;
+
+c) O veículo de turismo deve ter sido adquirido ou importado nas condições gerais de tributação do mercado interno do Estado-membro de residência normal do utilizador e não deve beneficiar, na exportação, de nenhuma isenção ou reembolso de impostos sobre o volume de negócios, de impostos sobre consumos específicos ou de qualquer outro imposto sobre o consumo. Presume-se que esta condição está preenchida quando o veículo se encontra munido de uma placa de matrícula de série normal do Estado-membro de matrícula, com exclusão de toda e qualquer placa temporária.
+
+2. A isenção prevista no n.º 1 terá a duração, contínua ou não, de:
+
+— sete meses, em cada período de doze meses, no caso de importação de um veículo de turismo pelos intermediários comerciais referidos no artigo 3.º da Directiva 64/224/CEE ([^5^](http://publications.europa.eu/resource/cellar/fc618d66-0782-4184-a2f7-fc355ac0c0de.0018.03/DOC_1#E0005));
+
+— seis meses, em cada período de doze meses, em todos os outros casos.
+
+###### Artigo 5.º — Casos especiais de importação temporária de veículos de turismo
+
+1. É concedida uma isenção dos impostos referidos no artigo 1.º, na importação temporária de veículos de turismo, nos seguintes casos:
+
+a) Quando um veículo de turismo, matriculado no país de residência normal do utilizador, seja utilizado regularmente por este no trajecto da sua residência para o local de trabalho da empresa no território de outro Estado-membro, e vice-versa. Esta isenção não está sujeita a qualquer limitação de tempo;
+
+b) Quando um estudante utilizar um veículo de turismo, matriculado no Estado-membro dá sua residência normal, no território de outro Estado-membro em que o estudante permanece com o fim exclusivo de aí prosseguir os seus estudos.
+
+2. A concessão das isenções previstas no n.º 1 depende unicamente de se encontrarem preenchidas as condições fixadas no n.º l, alíneas a), b) e c), do artigo 4.º
+
+###### Artigo 6.º — Isenção na importação temporária de cavalos de sela no âmbito do turismo hípico
+
+É concedida uma isenção dos impostos referidos no artigo 1.º, por um período de três meses, em todos os Estados-membros, aquando da importação temporária de cavalos de sela, nas seguintes condições:
+
+a) Os cavalos de sela devem entrar no território do Estado-membro de importação temporária para efeitos, e/ou no decurso, de circuitos efectuados pelos cavaleiros. Os Estados-membros podem excluir da isenção as importações de cavalos colocados a bordo de meios de transporte, efectuadas pelos respectivos residentes;
+
+b) A isenção deve ser requerida, o mais tardar no momento da entrada no território do Estado-membro de importação temporária. Quando for reque rida antes da importação temporária, o cavaleiro pode ser dispensado de entrar no território do Estado-membro de importação por um posto de fronteira;
+
+c) Os cavalos de sela não podem ser objecto de locação, empréstimo ou cessão a terceiros no Estado-membro de importação temporária, nem utilizados para outros fins que não sejam os do circuito.
+
+###### Artigo 7.º — Regras gerais relativas à fixação da residência
+
+1. Para aplicação da presente directiva, entende-se por *residência normal* o lugar onde uma pessoa vive habitualmente, isto é, durante pelo menos 185 dias por ano civil, em consequência de vínculos pessoais e profissionais ou, no caso de uma pessoa sem vínculos profissionais, em consequência de vínculos pessoais indicativos de relações estreitas entre ela própria e o local onde vive.
+
+Todavia, a residência normal de uma pessoa cujos vínculos profissionais se situem num lugar diferente do lugar onde possui os seus vínculos pessoais, e que, por esse facto, viva alternadamente em lugares distintos situados em dois ou mais Estados-membros, considera-se como estando situada no lugar dos seus vínculos pessoais, desde que aí se desloque regularmente. Esta última condição não é exigida quando uma pessoa permaneça num Estado-membro, para efeitos de execução de uma missão de duração determinada. A frequência de uma universidade ou de uma escola não implica a mudança da residência normal.
+
+2. Os particulares comprovam o lugar da sua residência normal por qualquer meio, designadamente mediante bilhete de identidade, ou qualquer outro documento válido.
+
+3. No caso de as autoridades competentes do Estado-membro de importação terem dúvidas quanto à validade da declaração da residência normal, efectuada nos termos do n.º 2, ou para efeitos de certos controlos específicos, podem exigir outros elementos de informação ou provas suplementares.
+
+###### Artigo 8.º — Regras complementares relativas à fixação da residência no caso de utilização profissional de um veículo de turismo
+
+Nos casos exepcionais em que, apesar das informações suplementares referidas no n.º 3 do artigo 7.º, prestadas às autoridades competentes do Estado-membro de importação, subsistam sérias dúvidas, a importação temporária de um veículo de turismo para uso profissional pode ficar sujeita ao pagamento de uma caução.
+
+Todavia, se o utilizador do veículo fizer prova de que tem a sua residência normal num outro Estado-membro, as autoridades do Estado-membro de importação temporária devem reembolsar a caução no prazo de dois meses a contar da apresentação da referida prova.
+
+###### Artigo 9.º — Regimes especiais
+
+1. Os Estados-membros têm a faculdade de manter e/ou estabelecer regimes mais liberais do que os previstos na presente directiva. Têm, designadamente, a faculdade de autorizar, a pedido do importador, a importação temporária por um período mais longo do que os referidos no artigo 3.º e no n.º 2 do artigo 4.º Neste último caso, os Estados-membros têm a faculdade de cobrar os impostos referidos no Anexo relativamente aos períodos que excedam os previstos na presente directiva. Os Estados-membros podem autorizar igualmente um residente do Estado-membro de importação a sublocar os veículos de turismo referidos na alínea b), segunda frase, do artigo 3.º, tendo em vista a sua reexportação.
+
+2. Os Estado-membros não podem aplicar em caso algum, por força da presente directiva, isenções fiscais, na Comunidade, menos favoráveis do que as que concederiam a meios de transporte procedentes de um país terceiro.
+
+3. O Reino da Dinamarca fica autorizado a manter as normas em vigor no seu país respeitantes à residência normal, segundo as quais se considera que uma pessoa, incluindo um estudante, no caso referido no n.º l, alínea b), do artigo 5.º, tem a sua residência normal na Dinamarca se aí viver durante um ano ou 365 dias num período de vinte e quatro meses.
+
+Todavia, a fim de evitar a dupla tributação:
+
+— quando a aplicação destas normas leve a que se considere que uma pessoa tem duas residências, a residência normal dessa pessoa situa-se no lugar onde vivem o cônjuge e os filhos;
+
+— em casos semelhantes, o Reino da Dinamarca e o outro Estado-membro interessado deliberarão entre si a fim de se determinar qual das duas residências deve ser tida em consideração para efeitos de tributação.
+
+Antes do termo do prazo de três anos, o Conselho procederá, com base num relatório da Comissão, a um reexame da derrogação prevista no presente n.º e adoptará, se for caso disso, sob proposta da Comissão fundamentada no artigo 99.º do Tratado, as medidas necessárias no sentido de assegurar a sua supressão.
+
+4. Os Estados-membros notificarão a Comissão dos regimes referidos no n.º 1, no momento em que cumprirem as obrigações previstas no artigo 10.º A Comissão comunicará seguidamente esses regimes aos outros Estados-membros.
+
+###### Artigo 10.º — Disposições finais
+
+1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar até 1 de Janeiro de 1984. Desse facto informarão imediatamente a Comissão.
+
+2. Quando a aplicação prática da presente directiva suscitar dificuldades, as autoridades competentes dos Estados-membros interessados tomarão de comum acordo as decisões necessárias, tendo em conta, designadamente, as convenções e directivas comunitárias em matéria de assistência mútua.
+
+3. Os Estados-membros comunicarão à Comissão as disposições essenciais de direito interno que venham a adoptar no domínio regulado pela presente directiva.
+
+4. A Comissão, após consulta dos Estados-membros, apresentará ao Conselho e à Assembleia, bienalmente, um relatório sobre a aplicação da presente directiva nos Estados-membros, nomeadamente no que diz respeito à noção de «residência normal», e proporá as disposições comunitárias necessárias ao estabelecimento de um regime uniforme em todos os Estados-membros.
+
+###### Artigo 11.º
+
+Os Estados-membros são destinatários da presente directiva.
+
+## ANEXO
+
+### Lista dos impostos a que se refere o n.º 1, segundo travessão, do artigo 1.º
+
+### BÉLGICA
+
+— Taxe de circulation sur les véhicules automobiles (Arrêté royal du 23 novembre 1965 portant codificationdes dispositions légales relatives aux taxes assimilées aux impôts sur les revenus — Moniteur belge du 18 janvier 1966)
+
+— Verkeersbelasting op de autovoertuigen (Koninklijk Besluit van 23 november 1965 houdende codificatievan de wettelijke bepalingen betreffende de met de inkomstenbelastingen gelijkgestelde belastingen — Belgisch Staatsblad van 18 januari 1966)
+
+### DINAMARCA
+
+— Vægtafgift af motorkøretøjer (Lovbekendtgørelse nr. 163 af 31. marts 1993)
+
+### ALEMANHA
+
+— Kraftfahrzeugsteuer (Kraftfahrzeugsteuergesetz — 1979)
+
+— Kraftfahrzeugsteuer (Durchführungsverordnung — 1979)
+
+### GRÉCIA
+
+— Τέλη κυκλοφορίας (Ν 2367/53 όπως ισχύει σήμερα)
+
+### ESPANHA
+
+— Tributos Locales sobre circulación de vehículos automóviles (establecido en base a la Ley 41/1979,de 19 de noviembre, de Bases de Régimen Local y al Real Decreto 3250/1976, de 30 de diciembre)
+
+### FRANÇA
+
+— Taxe différentielle sur les véhicules à moteur (Loi n.º 77 — 1467 du 30 décembre 1977)
+
+— Taxe sur les véhicules d'une puissance fiscale supérieure à 16 CV immatriculés dans la catégoriedes voitures particulières (Loi de finances 1979 - Article 1007 du code général des impôts)
+
+### IRLANDA
+
+— Motor vehicle excise duties (Finance (Excise duties) (Vehicles) Act 1952 as amended, and Section 94, Finance Act 1973 as amended)
+
+### ITÁLIA
+
+— Tassa sulla circolazione degli autoveicoli (TU delle leggi sulle tasse automobilistiche approvato con DPR N. 39 del 5 febbraio 1993 e successive modificazioni)
+
+### LUXEMBURGO
+
+— Taxe sur les véhicules automoteurs (Loi allemande du 23 mars 1935 (Kraftfahrzeugsteuergesetz) maintenue en vigueur par l'arrêté grand-ducal du 26 octobre 1944, modifiée par la loi du 4 août 1975 et les règlements grand-ducaux du 15 septembre 1975 et du 31 octobre 1975 et du 31 octobre 1975)
+
+### PAÍSES BAIXOS
+
+— Motorrijtuigenbelasting (wet op de motorrijtuigenbelasting 21 juli 1966, Stb 332 — wet van 18 december 1969/Stb 548)
+
+### ÁUSTRIA
+
+— Kraftfahrzeugsteuer (BGBl. Nr. 449/1992)
+
+### PORTUGAL
+
+— Imposto sobre veículos (Decreto-Lei n.º 143/78, de 12 de Junho)
+
+— Imposto de compensação (Decreto-Lei n.º 354-A/82, de 9 de Setembro)
+
+### FINLÂNDIA
+
+— Moottoriajoneuvoveromotorfordonsskatt(Laki moottoriajoneuvoverostaLag om skatt på motorfordon 722/66)
+
+### SUÉCIA
+
+— Fordonsskatt (Fordonsskattelagen 1988:327)
+
+### REINO UNIDO
+
+— Vehicle excise duty (Vehicles (Excise) Act 1971)
+
+### REPÚBLICA CHECA
+
+— Silniční daň
+
+### CHIPRE
+
+— Ο περί Τελωνειακών Δασμών και Φόρων Καταναλώσεως Νόμος
+
+— Ο περί Μηχανοκινήτων Οχημάτων και Τροχαίας Κινήσεως Νόμος του 1972, όπως τροποποιήθηκε
+
+— Οι περί Μηχανοκινήτων Οχημάτων και Τροχαίας Κινήσεως Κανονισμοί του 1984, όπως τροποποιήθηκαν
+
+### LETÓNIA
+
+— akcīzes nodoklis (likums «Par akcīzes nodokli», pieņemts 1999. gada 25. novembrī)
+
+— transportlīdzekļu ikgadējā nodeva (likums «Par transportlīdzekļu ikgadējo nodevu», pieņemts 2001. gada 22. novembrī)
+
+### LITUÂNIA
+
+— Prekių apyvartos mokestis (Žin., 2002, Nr. 56-2229)
+
+### MALTA
+
+— Dazju tas-Sisa fuq Vetturi bil-Mutur (Att dwar Taxxa tar-Reġistrazzjoni tal-Vetturi bil-Mutur, Kap. 368)
+
+### ESLOVÉNIA
+
+— Davki od prometa motornih vozil (Zakon o davkih na motorna vozila, Ur.l. RS, št. 52/99)
+
+### ESLOVÁQUIA
+
+— Zákon o cestnej dani
+
+### BULGÁRIA
+
+— данък върху превозните средства
+
+### ROMÉNIA
+
+— taxa asupra mijloacelor de transport (Codul Fiscal — art. 261- 265)
+
+— accize pentru autoturisme și autoturisme de teren inclusive rulate (Codul Fiscal — art. 208, alin. 5 și art. 210, alin. 1(b))
+
+### CROÁCIA
+
+— poseban porez na motorna vozila [Zakon o posebnom porezu na motorna vozila (Narodne novine broj 15/13)]
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/fc618d66-0782-4184-a2f7-fc355ac0c0de.0018.03/DOC_1#src.E0001)) JO n.º C 267 de 21. 11. 1975, p. 8.
+
+> ([^2^](http://publications.europa.eu/resource/cellar/fc618d66-0782-4184-a2f7-fc355ac0c0de.0018.03/DOC_1#src.E0002)) JO n.º C 53 de 8. 3. 1976, p. 37.
+
+> ([^3^](http://publications.europa.eu/resource/cellar/fc618d66-0782-4184-a2f7-fc355ac0c0de.0018.03/DOC_1#src.E0003)) JO n.º C 131 de 12. 6. 1976, p. 50.
+
+> ([^4^](http://publications.europa.eu/resource/cellar/fc618d66-0782-4184-a2f7-fc355ac0c0de.0018.03/DOC_1#src.E0004)) JO n.º L 145 de 13. 6. 1977, p. 1.
+
+> ([^5^](http://publications.europa.eu/resource/cellar/fc618d66-0782-4184-a2f7-fc355ac0c0de.0018.03/DOC_1#src.E0005)) JO n.º 56 de 4. 4. 1964, p. 869/64.

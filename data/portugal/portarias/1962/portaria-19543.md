@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:155610:por
+title: Portaria n.º 19543
+short_title: null
+summary: Manda publicar no Boletim Oficial de todas as províncias ultramarinas, para nas mesmas vigorar, observadas as alterações
+  constantes da presente portaria, o Decreto n.º 41486, que promulga, o Regulamento das Instalações Receptoras de Radiodifusão
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Obras Públicas e Comunicações - Comissão Consultiva e Revisora da Legislação
+  dos Correios, Telégrafos e Telefones do Ultramar
+proposing_entity: null
+official_number: '19543'
+official_date: null
+publication_date: '1962-12-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 278/1962, Série I de 1962-12-04
+  number: '278'
+  series: I
+  supplement: null
+  pages: 1633 - 1634
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/12/27800/16331634.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '155610'
+  dre_path: /dr/detalhe/portaria/19543-1962-155610
+  internal: pt:dre:155610:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19543-1962-155610
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19543-1962-155610
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-12-04T00:00:00Z'
+integrity:
+  source_sha256: 326e5b31b390b7596da1b1dd370e6d59cccc380a88ebcdaa77966d3e50769af9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-19543-155610.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19543
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXVIII da Lei Orgânica do Ultramar, que seja publicado no Boletim Oficial de todas as províncias ultramarinas, para nelas vigorar, o [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957, com as seguintes alterações:
+
+1.º As funções atribuídas pelo decreto à Emissora Nacional competem, em cada província ultramarina, ao organismo que nelas superintenda em idênticas funções.
+
+2.º A expressão «despacho ministerial» é substituída por «despacho do governador da província», salvo no caso previsto pelo artigo 60.º
+
+3.º A referência ao Diário do Governo deve considerar-se como sendo feita ao Boletim Oficial.
+
+4.º A expressão «continente e ilhas adjacentes» considera-se substituída por «províncias ultramarinas».
+
+5.º Os valores das taxas e multas previstas no decreto serão aqueles que, nos termos legais, vigorarem em cada província ultramarina.
+
+6.º Os limites de volume de som a que se refere a alínea b) do artigo 3.º serão fixados por despacho do governador da província, a publicar no Boletim Oficial.
+
+7.º No artigo 4.º é substituída a expressão «para o serviço de televisão nacional» por «para o serviço de televisão na província».
+
+8.º A concessão de licenças a que se refere o § único do artigo 8.º é da competência dos serviços dos CTT da província.
+
+9.º O artigo 20.º e seu § 5.º passam a ter a seguinte redacção:
+
+###### Art. 20.º No caso de transferência de propriedade, inutilização total, destruição ou roubo do receptor, e ainda de transporte do receptor para a metrópole, outra província ultramarina, ou para o estrangeiro, o subscritor pode solicitar, por escrito, o cancelamento da licença.
+
+...
+
+§ 5.º Se o subscritor sair para a metrópole, outra província ultramarina, ou para o estrangeiro, pode pedir o cancelamento da licença, com a devolução do livrete, contendo uma declaração aduaneira de saída do receptor
+
+10.º Quando não puderem utilizar-se meios da natureza dos preconizados nas alíneas a) e b) do artigo 25.º a fim de chamar a atenção dos subscritores para o pagamento das taxas, utilizar-se-ão aqueles que o serviço considerar viáveis e eficazes.
+
+11.º No § 1.º do artigo 26.º e no § único do artigo 28.º deverá substituir-se «pagável em Lisboa» por «pagável na capital da província».
+
+12.º Às entidades isentas de licença de radiodifusão mencionadas no n.º 2.º do artigo 31.º são acrescidos os governadores da província, os secretários-gerais e os secretários provinciais.
+
+Os administradores e o director dos Serviços Radioeléctricos dos CTT são substituídos pelos inspectores, directores dos serviços ou chefes das Repartições Centrais dos CTT de cada província e respectivos adjuntos.
+
+13.º Além das entidades indicadas no artigo 32.º, está também isento do pagamento de taxas o pessoal das forças armadas e das corporações militarizadas destacadas nas províncias ultramarinas, em conformidade com os regulamentos a publicar pelos respectivos governos.
+
+Aos beneficiários desta isenção aplica-se o disposto no § 1.º do artigo.
+
+14.º O n.º 3.º do artigo 32.º passa a ter a seguinte redacção:
+
+3.º Os proprietários de receptores legalizados na metrópole ou numa província ultramarina pelo período a que disser respeito a taxa paga na metrópole ou nessa província.
+
+15.º Os prazos mencionados no artigo 40.º são substituídos pelo prazo único de vinte dias.
+
+16.º É ao chefe da 3.ª Repartição da Direcção dos Serviços dos CTT ou ao chefe da 3.ª Secção da Repartição Central dos Serviços dos CTT, conforme os casos, que compete a aplicação de sanções a que se refere o artigo 52.º, quando na província o serviço de radiodifusão estiver a cargo dos CTT.
+
+É ao director dos serviços ou chefe da Repartição Central, também conforme o caso, que compete o despacho a que se refere o § único do mesmo artigo.
+
+17.º A entidade competente para conhecer do recurso previsto pelo § 1.º do artigo 56.º é o governador da província.
+
+18.º O artigo 62.º passa a ter a seguinte redacção:
+
+###### Art. 62.º Os subscritores que não paguem semestral ou anualmente a taxa de radiodifusão deverão optar, no prazo a fixar para cada província pelo organismo que nela presidir ao serviço de radiodifusão, por uma dessas modalidades de pagamento.
+
+§ único. Os subscritores que não vierem a usar desta faculdade passam a pagar as taxas semestralmente, a partir do termo do prazo fixado.
+
+19.º Em cada província, se o condicionalismo local o aconselhar, poderá o respectivo governador incumbir outra entidade de executar o serviço de cobrança de taxas, por este diploma atribuído aos correios, telégrafos e telefones.
+
+Ministério do Ultramar, 4 de Dezembro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira.

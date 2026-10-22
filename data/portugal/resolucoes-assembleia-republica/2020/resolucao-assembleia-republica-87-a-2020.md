@@ -1,0 +1,157 @@
+---
+schema_version: '1.0'
+id: pt:dre:149106930:por
+title: Resolução da Assembleia da República n.º 87-A/2020
+short_title: null
+summary: Autorização da renovação do estado de emergência
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 87-A/2020
+official_date: null
+publication_date: '2020-11-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 227/2020, 1º Suplemento, Série I de 2020-11-20
+  number: '227'
+  series: I
+  supplement: 1º Suplemento
+  pages: 15-(5) a 15-(7)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22701/0000500007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/87-a/2020/11/20/p/dre/pt/html
+  oj: null
+  dre: '149106930'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/87-a-2020-149106930
+  internal: pt:dre:149106930:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/87-a-2020-149106930
+  metadata_url: https://data.dre.pt/eli/resolassrep/87-a/2020/11/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/87-a-2020-149106930
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2020-11-20T00:00:00Z'
+integrity:
+  source_sha256: 36c1e95855e28ad87fb9d9da97f555f4593e4583d3b6c529cdc5518a54e78f02
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2020/DRE-2020-87-A-149106930.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estado de Emergência
+- Catástrofe
+- Presidente da República
+- Assembleia da República
+- Doença Infecciosa
+- Epidemia
+- Diploma Legal
+- Situação de Calamidade
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/1/2012/05/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/1/2012/05/11/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 87-A/2020
+
+Autorização da renovação do estado de emergência
+
+A Assembleia da República resolve, nos termos da alínea l) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição e do n.º 1 do artigo 15.º, do n.º 1 do artigo 23.º e do n.º 1 do artigo 26.º da [Lei n.º 44/86](https://diariodarepublica.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1), de 30 de setembro, alterada e republicada pela [Lei Orgânica n.º 1/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1), de 11 de maio, conceder autorização para a renovação do estado de emergência, solicitada pelo Presidente da República na mensagem que endereçou à Assembleia da República em 19 de novembro de 2020, nos exatos termos e com a fundamentação e conteúdo constantes do projeto de Decreto do Presidente da República:
+
+1.º
+
+A declaração do estado de emergência é renovada por igual período de 15 dias, com fundamento na verificação de uma situação de calamidade pública.
+
+2.º
+
+A declaração do estado de emergência abrange todo o território nacional, sem prejuízo do disposto na alínea a) do n.º 1 do artigo 4.º
+
+3.º
+
+A renovação do estado de emergência inicia-se às 00h00 do dia 24 de novembro de 2020 e cessa às 23h59 do dia 8 de dezembro de 2020, sem prejuízo de eventuais renovações, nos termos da lei.
+
+4.º
+
+Durante todo o período referido no artigo anterior, fica parcialmente suspenso o exercício dos seguintes direitos, nos estritos termos seguidamente previstos:
+
+1 - Direitos à liberdade e de deslocação:
+
+a) Nos municípios com níveis mais elevados de risco, podem ser impostas restrições necessárias para reduzir o risco de contágio e executar as medidas de prevenção e combate à epidemia, devendo as medidas a adotar ser calibradas em função do grau de risco de cada município, podendo, para este efeito, os mesmos ser agrupados de acordo com os dados e avaliação das autoridades competentes, incluindo a proibição de circulação na via pública durante determinados períodos do dia ou determinados dias da semana, bem como a interdição das deslocações que não sejam justificadas nos termos da alínea c);
+
+b) Na medida do estritamente necessário e de forma proporcional, o confinamento compulsivo em estabelecimento de saúde, no domicílio ou, não sendo aí possível, noutro local definido pelas autoridades competentes, de pessoas portadoras do vírus SARS-CoV-2, ou em vigilância ativa;
+
+c) As restrições referidas supra na alínea a) devem prever as regras indispensáveis para a obtenção de cuidados de saúde, para apoio a terceiros, nomeadamente idosos, incluindo acolhidos em estruturas residenciais, para a frequência de estabelecimentos de ensino, para a produção e abastecimento de bens e serviços e para a deslocação por outras razões ponderosas, cabendo ao Governo, nesta eventualidade, especificar as situações e finalidades em que a liberdade de circulação individual, preferencialmente desacompanhada, se mantém.
+
+2 - Iniciativa privada, social e cooperativa:
+
+a) Podem ser utilizados pelas autoridades públicas competentes, preferencialmente por acordo, os recursos, meios e estabelecimentos de prestação de cuidados de saúde integrados nos setores privado, social e cooperativo, mediante justa compensação, em função do necessário para assegurar o tratamento de doentes com COVID-19 ou a manutenção da atividade assistencial relativamente a outras patologias;
+
+b) Podem ser adotadas as medidas adequadas e indispensáveis para garantir as condições de normalidade na produção, transporte, distribuição e abastecimento de bens e serviços essenciais à atividade do setor da saúde, designadamente com vista a assegurar o acesso e a regularidade no circuito dos medicamentos e vacinas, dos dispositivos médicos e de outros produtos de saúde, como biocidas, soluções desinfetantes, álcool e equipamentos de proteção individual;
+
+c) Pode ser determinado pelas autoridades públicas competentes o encerramento total ou parcial de estabelecimentos, serviços, empresas ou meios de produção e impostas alterações ao respetivo regime ou horário de funcionamento.
+
+3 - Direitos dos trabalhadores:
+
+a) Podem ser mobilizados, pelas autoridades públicas competentes e no respeito dos seus restantes direitos, trabalhadores de entidades públicas, privadas, do setor social ou cooperativo, independentemente do respetivo tipo de vínculo ou conteúdo funcional e mesmo não sendo profissionais de saúde, designadamente servidores públicos em isolamento profilático ou abrangidos pelo regime excecional de proteção de imunodeprimidos e doentes crónicos, para apoiar as autoridades e serviços de saúde, nomeadamente na realização de inquéritos epidemiológicos, no rastreio de contactos e no seguimento de pessoas em vigilância ativa;
+
+b) Pode ser limitada a possibilidade de cessação dos vínculos laborais dos trabalhadores dos serviços e estabelecimentos integrados no SNS.
+
+4 - Direito ao livre desenvolvimento da personalidade e vertente negativa do direito à saúde: pode ser imposta a utilização de máscara e a realização de controlos de temperatura corporal, por meios não invasivos, assim como a realização de testes de diagnóstico de SARS-CoV-2, designadamente para efeitos de acesso e permanência no local de trabalho ou como condição de acesso a serviços ou instituições públicas, estabelecimentos de ensino ou de formação profissional e espaços comerciais, culturais ou desportivos, na utilização de meios de transporte ou relativamente a pessoas institucionalizadas ou acolhidas em estruturas residenciais, estabelecimentos de saúde, estabelecimentos prisionais ou centros educativos e respetivos trabalhadores.
+
+5 - Direito à proteção de dados pessoais: pode haver lugar ao tratamento de dados pessoais na medida do estritamente indispensável para a concretização das medidas previstas no n.º 3 do presente artigo e no artigo 5.º da presente resolução, bem como para efeitos do disposto no n.º 4 do presente artigo sem que, neste caso, seja possível guardar memória ou registo das medições de temperatura corporal efetuadas nem dos resultados dos testes de diagnóstico de SARS-CoV-2.
+
+5.º
+
+Compete às Forças Armadas e de Segurança apoiar as autoridades e serviços de saúde, designadamente na realização de inquéritos epidemiológicos, no rastreio de contactos e no seguimento de pessoas em vigilância ativa. Podem igualmente ser mobilizados os recursos, meios e estabelecimentos de prestação de cuidados de saúde das Forças Armadas e de Segurança no apoio e reforço do Serviço Nacional de Saúde.
+
+6.º
+
+A execução da declaração do estado de emergência compete ao Governo, que dos respetivos atos manterá informados o Presidente da República e a Assembleia da República.
+
+7.º
+
+A presente resolução entra em vigor com o decreto do Presidente da República, produzindo efeitos nos mesmos termos.
+
+Aprovada em 20 de novembro de 2020.
+
+**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**

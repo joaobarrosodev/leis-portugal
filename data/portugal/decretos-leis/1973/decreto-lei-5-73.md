@@ -1,0 +1,252 @@
+---
+schema_version: '1.0'
+id: pt:dre:288622:por
+title: Decreto-Lei n.º 5/73
+short_title: null
+summary: Altera algumas disposições do anexo I ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969, que constituiu a empresa
+  pública Correios e Telecomunicações de Portugal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Comunicações - Correios e Telecomunicações de Portugal
+proposing_entity: null
+official_number: 5/73
+official_date: null
+publication_date: '1973-01-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 4/1973, Série I de 1973-01-05
+  number: '4'
+  series: I
+  supplement: null
+  pages: 13 - 14
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/01/00400/00130014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '288622'
+  dre_path: /dr/detalhe/decreto-lei/5-1973-288622
+  internal: pt:dre:288622:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1973-288622
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1973-288622
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-04-21T00:00:00Z'
+integrity:
+  source_sha256: 3ce78f6edbeaa3d77197bf45c52749aa0d591c3ee6e5cbd52875a2395f0f799a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-5-288622.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:665898:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 5/73
+
+de 5 de Janeiro
+
+Decorridos três anos desde que a empresa pública Correios e Telecomunicações de Portugal se substituiu à Administração-Geral dos Correios, Telégrafos e Telefones, possui-se já a experiência bastante para detectar algumas dificuldades surgidas na aplicação prática dos preceitos contidos no respectivo estatuto (anexo I ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969).
+
+Durante aquele período a empresa teve de fazer face a uma vultosa e imprevista expansão dos serviços públicos a seu cargo, e, por isso, houve necessidade de considerar como objectivo prioritário da sua gestão a produção dos mesmos serviços, com certo prejuízo da reestruturação da orgânica e dos métodos de administração interna inicialmente planeados.
+
+Desta situação resultou ter o conselho de administração da empresa CTT - que acumula, também, a gestão dos TLP - suportado um volume de trabalho excepcional, cabendo-lhe administrar um montante orçamental que ultrapassa os 5 milhões de contos anuais e um efectivo de pessoal integrado nos quadros permanentes das duas empresas que atinge cerca de 32000 empregados. Por outro lado, a expansão da procura nas telecomunicações tem excedido, sempre, a taxa de 10 por cento ao ano, subindo mesmo, no serviço telefónico interurbano, a valores da ordem dos 25 por cento.
+
+A despeito destas circunstâncias, foi possível prosseguir o trabalho de reestruturação administrativa, no qual se devem incluir os estudos conducentes a eventuais correcções do estatuto privativo da empresa.
+
+O presente diploma tem como objectivo imediato levar a efeito um número reduzido de alterações de maior urgência ou que, pela sua simplicidade, não carecem de mais demorada consideração. Posteriormente se introduzirão outras alterações, ainda dependentes de estudo, nomeadamente quanto à gestão financeira e patrimonial da empresa.
+
+Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo único. As disposições do anexo I ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, abaixo indicadas, passam a vigorar com a seguinte redacção:
+
+###### Art. 6.º - 1. ...
+
+2. ...
+
+3. ...
+
+4. ...
+
+5. Sempre que, para efeitos do disposto no n.º 1 deste artigo, haja necessidade de estabelecer novas normas regulamentares ou alterar as já existentes, o diploma respectivo revestirá a forma de portaria, a qual será firmada pelo Ministro das Comunicações ou, quando a matéria envolva atribuições de outros Ministros, também por estes últimos.
+
+6. Além das portarias referidas no número anterior, a empresa, para melhor conhecimento dos utentes, deverá divulgar, através de meios de informação adequados, as prescrições de execução de novos serviços ou de alteração dos existentes, incluindo as taxas respectivas.
+
+Tais matérias serão também publicadas no Boletim Oficial dos Correios e Telecomunicações de Portugal.
+
+...
+
+###### Art. 9.º - 1. O conselho de administração é composto por um presidente, com a designação de correio-mor, e por oito administradores, incluindo os administradores-delegados, todos isentos de caução e nomeados pelo período de cinco anos, renovável por iguais períodos.
+
+2. ...
+
+3. O número de administradores-delegados será fixado por despacho do Ministro das Comunicações, sob proposta do conselho de administração.
+
+4. Os administradores e os administradores-delegados serão nomeados por portaria do Ministro das Comunicações.
+
+5. O conselho de administração reunirá ordinàriamente uma vez por semana e extraordinàriamente sempre que o seu presidente o convocar.
+
+###### Art. 10.º No conselho de administração haverá uma comissão executiva composta pelo correio-mor, que a ela presidirá, e pelos administradores-delegados.
+
+###### Art. 11.º - 1. Competem ao conselho de administração todos os poderes necessários para assegurar o funcionamento da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste estatuto atribuídos a outras entidades ou a outros órgãos da empresa.
+
+2. Compete também ao conselho de administração celebrar acordos com as administrações ou empresas congéneres sobre a execução dos serviços comuns, desde que se coadunem com a política de actuação dos CTT definida pelo Governo.
+
+3. O conselho de administração poderá delegar, no todo ou em parte, em qualquer dos seus membros ou na comissão executiva os poderes que lhe são conferidos no número anterior.
+
+4. Nos regulamentos internos poderão ser desconcentrados poderes, sob reserva da superintendência da comissão executiva, para a qual será assegurado recurso hierárquico.
+
+5. O exercício da competência do conselho de administração depende, nos casos previstos no presente estatuto, da anuência do conselho fiscal ou da aprovação do Governo.
+
+...
+
+###### Art. 17.º - 1. ...
+
+2. ...
+
+3. Compõem o conselho geral:
+
+a) ...
+
+b) Um representante de cada uma das Corporações da Lavoura, do Comércio, da Indústria, do Crédito e Seguros, dos Transportes e Turismo, da Imprensa e Artes Gráficas e da Pesca e Conservas designados pelas respectivas Corporações;
+
+c) ...
+
+d) Um representante de cada um dos Ministérios das Finanças, dos Negócios Estrangeiros, do Ultramar, da Economia e das Corporações e Previdência Social designados pelos respectivos Ministros;
+
+e) ...
+
+f) ...
+
+4. ...
+
+...
+
+###### Art. 20.º - 1. ...
+
+2. ...
+
+3. ...
+
+4. ...
+
+a) ...
+
+b) ...
+
+c) Ao montante das remunerações que devem ser atribuídas aos inspectores-gerais de correios e telecomunicações.
+
+5. ...
+
+6. ...
+
+...
+
+###### Art. 23.º - 1. ...
+
+2. ...
+
+3. ...
+
+4. As actas serão lavradas pelo servidor dos CTT designado para esse efeito e assinadas por quem houver presidido às reuniões, podendo ser aprovadas no final destas, em minuta, ou na reunião que se seguir. Estas actas podem ser dactilografadas e serão arquivadas por ordem cronológica e encadernadas periòdicamente.
+
+...
+
+###### Art. 25.º - 1. ...
+
+a) ...
+
+b) Fixar o número de administradores-delegados;
+
+c) Nomear os administradores e os administradores-delegados e exonerá-los a seu pedido ou por conveniência d.e serviço;
+
+...
+
+2. ...
+
+3. ...
+
+4. ...
+
+5. ...
+
+...
+
+###### Art. 39.º - 1. Os programas, os orçamentos anuais e a contabilidade dos CTT serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
+
+As modificações que, nestas matérias, se tornem necessárias serão introduzidas gradualmente, à medida que as reestruturações administrativas e a adopção de novos métodos de trabalho o permitam e aconselhem.
+
+2. ...
+
+...
+
+###### Art. 53.º - 1. A exploração e o uso público dos serviços a cargo dos CTT continuam a reger-se pelas leis e regulamentos correspondentes em tudo que não estiver previsto no presente estatuto ou que, ao abrigo dele, não haja sido alterado.
+
+2. ...
+
+3. ...
+
+4. ...
+
+5. ...
+
+...
+
+###### Art. 59.º - 1. Os servidores dos CTT que forem investidos nos lugares de presidente do conselho de administração e de administradores-delegados desempenharão essas funções em comissão de serviço; decorridos dois anos, e se for mantida a comissão, consideram-se investidos na categoria de inspectores-gerais de correios e telecomunicações, correspondente à posição hierárquica mais elevada dos quadros da empresa. As remunerações dos inspectores-gerais ficam sujeitas ao condicionalismo e regime fiscal aplicáveis ao pessoal da empresa, mas serão fixadas nos termos do n.º 4 do artigo 20.º
+
+2. ...
+
+3. ...
+
+4. ...
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
+
+**Promulgado em 29 de Dezembro de 1972.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES TROMAZ.**

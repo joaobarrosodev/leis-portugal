@@ -1,0 +1,212 @@
+---
+schema_version: '1.0'
+id: pt:dre:203283190:por
+title: Portaria n.º 272/2022
+short_title: null
+summary: Define os preços dos cuidados de saúde e de apoio social prestados nas respostas de ambulatório e internamento da
+  Rede Nacional de Cuidados Continuados Integrados
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças, Trabalho, Solidariedade e Segurança Social e Saúde
+proposing_entity: null
+official_number: 272/2022
+official_date: null
+publication_date: '2022-11-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/2022, Série I de 2022-11-10
+  number: '217'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/272/2022/11/10/p/dre/pt/html
+  oj: null
+  dre: '203283190'
+  dre_path: /dr/detalhe/portaria/272-2022-203283190
+  internal: pt:dre:203283190:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/272-2022-203283190
+  metadata_url: https://data.dre.pt/eli/port/272/2022/11/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/272-2022-203283190
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-11-10T00:00:00Z'
+integrity:
+  source_sha256: 57c909696a7a869789fe8a9fc3a3b6433f1b33a0aea402c3ef1bf13b7b2e4a3a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-272-203283190.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Rede
+- Assistência Médica
+- Assistência Medicamentosa
+- Unidade de Cuidados Continuados Integrados de Saúde Mental
+- Unidade de Saúde Familiar
+- Serviço Nacional de Saúde
+- Fixação de Preços
+- Medicamento
+- Meios Complementares de Diagnóstico
+- Preço
+- Prestação de Serviços
+- Prestações da Segurança Social
+- Cuidados Médicos
+- Setor Privado
+- Setor Público
+- Segurança Social
+- Sistema Nacional de Cuidados Continuados Integrados
+- Subsistemas de Saúde
+- Tabela de Cuidados de Saúde
+- Unidade de Internamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/116/2021/12/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/136/2015/07/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/136/2015/07/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/140/2021/07/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/140/2021/07/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/311/2021/12/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/311/2021/12/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/45/2021/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/45/2021/02/24/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 272/2022
+
+de 10 de novembro
+
+O artigo 46.º do [Decreto-Lei n.º 101/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2006-353934), de 6 de junho, na sua redação atual, determina que o financiamento dos serviços a prestar pelas unidades da Rede Nacional de Cuidados Continuados Integrados (RNCCI) é estabelecido mediante modelo de financiamento próprio, a aprovar por portaria dos Ministros das Finanças, do Trabalho, Solidariedade e Segurança Social e da Saúde.
+
+Nos termos do disposto na alínea c) do n.º 1 do artigo 47.º do [Decreto-Lei n.º 101/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2006-353934), de 6 de junho, na sua redação atual, o financiamento de cada tipo de serviços é específico, com preços adequados e revistos periodicamente, nos termos a regulamentar, para assegurar a sustentabilidade e a prestação de cuidados de qualidade.
+
+Através da [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro, alterada pela [Portaria n.º 140/2021](https://diariodarepublica.pt/dr/detalhe/portaria/140-2021-166658186), de 8 de julho, é estabelecido o regime de definição de preços e a responsabilidade na repartição e assunção dos encargos relativos aos cuidados de saúde e de apoio social, prestados nas respostas da RNCCI.
+
+No ano 2021, o índice de preços no consumidor (IPC) registou uma variação média anual de 1,3 %. Considera-se este coeficiente na determinação dos novos preços, a vigorar desde 1 de janeiro 2022, para atualização da tabela de preços definida nos anexos i e ii da [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro, na sua redação atual, e procede-se à atualização da tabela de preços a praticar nas unidades da RNCCI e nas unidades e equipas dos cuidados continuados integrados de saúde mental.
+
+Para além desta atualização e em termos complementares, procede-se através da presente portaria a um aumento extraordinário dos preços aplicáveis às unidades de média duração e reabilitação (UMDR) e às unidades de longa duração e manutenção (ULDM), tendo em vista o reforço da sustentabilidade destas unidades, através do necessário ajustamento dos preços aos custos de funcionamento destas respostas. Em termos globais, a atualização do preço corresponde a um aumento de 5,5 % e 15,3 %, respetivamente.
+
+Por outro lado, na secção i do capítulo iv - Unidades e equipas de cuidados continuados integrados, da [Portaria n.º 311/2021](https://diariodarepublica.pt/dr/detalhe/portaria/311-2021-176147941) de 20 de dezembro, que caracteriza e define os serviços e critérios de admissão em cada uma das unidades residenciais para adultos, no âmbito dos Cuidados Continuados Integrados de Saúde Mental (CCISM), deixam de constar as tipologias Residência de Treino de Autonomia com complemento de Unidade Sócio-ocupacional e Residência de Apoio Moderado com complemento de Unidade Sócio-ocupacional, bem como as respetivas tabelas de preços.
+
+Por sua vez, o n.º 2 do artigo 10.º da [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro, define que o valor global a pagar, por dia de internamento e por utente, em unidades de longa duração e manutenção, é acrescido do montante de (euro) 25, nas situações de transferência de utentes que apresentem úlceras de pressão desenvolvidas antes da transferência dos hospitais para aquela tipologia e aplica-se durante um período máximo de seis meses após a transferência, ficando o pagamento dependente de avaliação mensal.
+
+Neste sentido, o presente diploma visa, igualmente, alargar o pagamento do valor às unidades de longa duração por utente, portador de úlcera de pressão na admissão, referenciado pelos cuidados de saúde primários.
+
+Note-se que o aumento extraordinário de preços e o alargamento do pagamento dos encargos com o tratamento das úlceras de pressão aos utentes referenciados pelos cuidados de saúde primários constituem compromissos assumidos no âmbito do Compromisso de Cooperação para o Biénio 2022-2023 e permite dar continuidade à aposta no reforço da RNCCI inscrita no Programa do XXIII Governo Constitucional, no Orçamento do Estado para 2022 e no Plano de Recuperação e Resiliência (PRR).
+
+Assim:
+
+Ao abrigo dos artigos 46.º e 47.º do [Decreto-Lei n.º 101/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2006-353934), de 6 de junho, alterado pelo [Decreto-Lei n.º 136/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2015-69879425), de 28 de julho, pela [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, e pelo [Decreto-Lei n.º 116/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2021-175923961), de 15 de dezembro, e dos artigos 23.º e 24.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, manda o Governo, pelo Ministro das Finanças, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à segunda alteração à [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro, alterada pela [Portaria n.º 140/2021](https://diariodarepublica.pt/dr/detalhe/portaria/140-2021-166658186), de 8 de julho.
+
+###### Artigo 2.º — Alteração à [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro
+
+O n.º 2 do artigo 10.º da [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro, na sua atual redação, passa a ter a seguinte redação:
+
+«Artigo 10.º
+
+[...]
+
+1 - [...]
+
+2 - O valor global a pagar, por dia de internamento e por utente, em unidades de longa duração e manutenção, constante do anexo i, é acrescido do montante de (euro) 25, nas situações de referenciação de doentes que apresentem úlceras de pressão dos hospitais e dos cuidados de saúde primários para aquela tipologia de unidades.
+
+3 - [...]»
+
+###### Artigo 3.º — Norma transitória
+
+Durante o ano de 2023 não é aplicável o disposto no artigo 9.º da [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro, na sua redação atual.
+
+###### Artigo 4.º — Alteração aos anexos i e ii da [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro
+
+Os anexos i e ii à [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro, passam a ter a redação constante dos anexos i e ii à presente portaria, da qual fazem parte integrante.
+
+###### Artigo 5.º — Entrada em vigor e produção de efeitos
+
+1 - Sem prejuízo do disposto no número seguinte, a presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+2 - A presente portaria produz efeitos a 1 de janeiro de 2022.
+
+**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia, em 4 de novembro de 2022. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de novembro de 2022. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 4 de novembro de 2022.**
+
+ANEXOS
+
+(anexo I da [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro, alterada pela [Portaria n.º 140/2021](https://diariodarepublica.pt/dr/detalhe/portaria/140-2021-166658186), de 8 de julho, a que se refere o artigo 4.º)
+
+Tabela de preços aplicáveis às unidades de internamento da RNCCI UCP-RNCCI
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf)
+
+(anexo II da [Portaria n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387), de 24 de fevereiro, alterada pela [Portaria n.º 140/2021](https://diariodarepublica.pt/dr/detalhe/portaria/140-2021-166658186), de 8 de julho, a que se refere o artigo 4.º)
+
+Tabela de preços aplicáveis às unidades e equipas de cuidados continuados integrados de saúde mental da RNCCI
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf)
+
+Equipas de apoio domiciliário
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21700/0000200004.pdf)

@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:3054339:por
+title: Portaria n.º 175/2010
+short_title: null
+summary: Participação militar de Portugal no âmbito da ISAF - International Security Assistance Force, sob o comando da NATO
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 175/2010
+official_date: null
+publication_date: '2010-03-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 48/2010, Série II de 2010-03-10
+  number: '48'
+  series: II
+  supplement: null
+  pages: 10831 - 10831
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/03/048000000/1083110831.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3054339'
+  dre_path: /dr/detalhe/portaria/175-2010-3054339
+  internal: pt:dre:3054339:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/175-2010-3054339
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/175-2010-3054339
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-03-10T00:00:00Z'
+integrity:
+  source_sha256: 88d4925a69263e347328c3f17538308792699ac940341ae9eb666809f7fc8e50
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-175-3054339.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 175/2010
+
+A Portaria n.º 640/2008, de 1 de Abril, publicada no Diário da República, 2.ª série, n.º 134, de 14 de Julho de 2008, na redacção dada pela Portaria n.º 191/2009, de 22 de Janeiro, publicada no Diário da República, 2.ª série, n.º 28, de 10 de Fevereiro de 2009, alterada pela Portaria n.º 621/2009, de 27 de Abril, publicada no Diário da República, 2.ª série, n.º 119, de 23 de Junho de 2009, definiu a participação militar de Portugal no âmbito da ISAF - International Security Assistance Force, sob o comando da NATO.
+
+Revela-se necessário reforçar a equipa de apoio à formação do exército afegão, constituída por 16 elementos do Exército, com mais 4 elementos do Exército.
+
+Assim, ao abrigo do disposto no n.º 1 do artigo 12.º e da alínea n) do n.º 3 do artigo 14.º, ambos da Lei Orgânica n.º 1-B/2009, de 7 de Julho, e nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro, determina o Governo, pelo Ministro da Defesa Nacional, que o artigo 3.º da Portaria n.º 621/2009, de 27 de Abril, publicada no Diário da República, 2.ª série, n.º 119, de 23 de Junho de 2009, passe a ter a seguinte redacção:
+
+«3.º A equipa de apoio à formação do exército afegão referida no n.º 1.º, alínea b), é constituída por 20 elementos do Exército.»
+
+15 de Fevereiro de 2010. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.

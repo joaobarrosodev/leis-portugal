@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:314636:por
+title: Portaria n.º 502/75
+short_title: null
+summary: Permite que os titulares de cartas de condução emitidas nas antigas colónias portuguesas até ao seu acesso à independência
+  possam trocá-las, nos termos do n.º 5 do artigo 47.º do Código da Estrada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 502/75
+official_date: null
+publication_date: '1975-08-18'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 189/1975, Série I de 1975-08-18
+  number: '189'
+  series: I
+  supplement: null
+  pages: 1194 - 1194
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18900/11941194.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '314636'
+  dre_path: /dr/detalhe/portaria/502-1975-314636
+  internal: pt:dre:314636:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/502-1975-314636
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/502-1975-314636
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-08-18T00:00:00Z'
+integrity:
+  source_sha256: 8f61ea6a035b57f2589d40627e05379677aa454e1ac96a301bb48d70cb91cc38
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-502-314636.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 502/75
+
+de 18 de Agosto
+
+O processo de descolonização tem colocado problemas aos que, residentes até agora nas colónias, em grande número em cumprimento de serviço militar, regressam a Portugal, quanto à autenticidade das suas cartas de condução, obtidas antes do acesso à independência daquelas colónias.
+
+Por outro lado, não parece justa a aplicação das taxas previstas na [Portaria n.º 399/73](https://diariodarepublica.pt/dr/detalhe/portaria/399-1973-422789), de 7 de Junho, as quais são necessárias para promover a troca de cartas de condução.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações, ao abrigo do artigo 2.º do [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, o seguinte:
+
+1.º Os titulares de cartas de condução emitidas nas antigas colónias portuguesas até ao seu acesso à independência poderão trocá-las, nos termos do n.º 5 do artigo 47.º do Código da Estrada, estando, para o efeito, isentos do pagamento da taxa referida na tabela anexa à [Portaria n.º 399/73](https://diariodarepublica.pt/dr/detalhe/portaria/399-1973-422789), de 7 de Junho.
+
+2.º Esta portaria entra imediatamente em vigor, operando os seus efeitos durante o prazo de um ano.
+
+Ministério dos Transportes e Comunicações, 4 de Agosto de 1975. - O Ministro dos Transportes e Comunicações, Álvaro Augusto Veiga de Oliveira.

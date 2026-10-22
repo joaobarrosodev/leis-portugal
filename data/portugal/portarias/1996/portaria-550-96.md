@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:232876:por
+title: Portaria n.º 550/96
+short_title: null
+summary: Fixa o capital social mínimo da sociedade à qual seja concessionada a exploração do aeroporto municipal de Cascais
+  (Tires)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 550/96
+official_date: null
+publication_date: '1996-10-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/1996, Série I-B de 1996-10-07
+  number: '232'
+  series: I
+  supplement: null
+  pages: 3508 - 3508
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/10/232b00/35083508.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/550/1996/10/07/p/dre/pt/html
+  oj: null
+  dre: '232876'
+  dre_path: /dr/detalhe/portaria/550-1996-232876
+  internal: pt:dre:232876:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/550-1996-232876
+  metadata_url: https://data.dre.pt/eli/port/550/1996/10/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/550-1996-232876
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-10-07T00:00:00Z'
+integrity:
+  source_sha256: 8a40ababc6bd703c5dd6c778fe447583f28b08df3ac67f1e391687d0421bb368
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-550-232876.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeroporto
+- Sociedade Anónima
+- Capital Social
+- Concurso Público
+- Contrato de Concessão
+- Iniciativa Privada
+- Setor Privado
+- Cascais
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/240/1995/09/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/240/1995/09/13/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 550/96
+
+de 7 de Outubro
+
+O [Decreto-Lei n.º 240/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1995-563045), de 13 de Setembro, regula a actividade de exploração de aeroportos por entidades privadas, prevendo-se, no seu artigo 3.º, que ao Ministro do Equipamento, do Planeamento e da Administração do Território compete definir, através de portaria, o capital social mínimo das empresas concorrentes à concessão da exploração de infra-estruturas aeroportuárias municipais.
+
+Na sequência de estudos desenvolvidos por iniciativa da Câmara Municipal de Cascais, concluiu-se que, relativamente ao aeroporto municipal de Cascais (Tires), o capital social mínimo da sociedade à qual seja concedida a respectiva exploração, por concurso público, deverá ser de 100000000$00.
+
+Assim, ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 240/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1995-563045), de 13 de Setembro:
+
+Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, que o capital social mínimo da sociedade à qual seja concessionada a exploração do aeroporto municipal de Cascais seja fixado em 100000000$00.
+
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+
+**Assinada em 3 de Setembro de 1996.**
+
+**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**

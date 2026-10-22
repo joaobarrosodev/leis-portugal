@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:198116:por
+title: Decreto-Lei n.º 75/98
+short_title: null
+summary: Permite aos cônsules honorários a prática de determinados actos de protecção consular
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 75/98
+official_date: null
+publication_date: '1998-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 73/1998, Série I-A de 1998-03-27
+  number: '73'
+  series: I
+  supplement: null
+  pages: 1380 - 1380
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/03/073a00/13801380.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/75/1998/03/27/p/dre/pt/html
+  oj: null
+  dre: '198116'
+  dre_path: /dr/detalhe/decreto-lei/75-1998-198116
+  internal: pt:dre:198116:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1998-198116
+  metadata_url: https://data.dre.pt/eli/dec-lei/75/1998/03/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1998-198116
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-03-31T00:00:00Z'
+integrity:
+  source_sha256: ad21684192abc19041ab7e43befa49f669aaf5288ba8f4e6a563a02f7a342992
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-75-198116.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Regulamento Consular
+relationships:
+- type: amended_by
+  target: pt:dre:603208:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/381/1997/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/381/1997/12/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/754/1996/12/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/754/1996/12/23/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 75/98
+
+de 27 de Março
+
+Enquanto não estiver concluída a reestruturação, em curso, da rede consular, nem sempre alguns postos de carreira poderão assegurar uma cobertura eficaz de determinadas zonas incluídas nas respectivas áreas de jurisdição onde residem comunidades portuguesas.
+
+Por outro lado, a frequência de determinados actos de protecção consular aconselha, para evitar maiores incómodos às nossas comunidades, que os mesmos se realizem nos postos consulares mais próximos.
+
+Ora, uma vez que o actual estado de cooperação consular europeia não permite ainda retirar aos cônsules honorários certas competências que lhes têm sido reconhecidas, julga-se conveniente a possibilidade de permitir aos referidos cônsules a prática dos actos acima mencionados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Competências
+
+1 - É exceptuada do disposto no n.º 2 do artigo 35.º do regulamento aprovado pelo [Decreto-Lei n.º 381/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1997-319925), de 30 de Dezembro, a competência dos cônsules honorários para a prática de actos a que respeitam os artigos 18.º, 24.º, n.os 2 e 3, 46.º, 47.º, 48.º, 49.º, 52.º, 53.º, 56.º, 59.º, 79.º e 80.º da Tabela de Emolumentos Consulares, aprovada pela [Portaria n.º 754/96](https://diariodarepublica.pt/dr/detalhe/portaria/754-1996-146245), de 23 de Dezembro.
+
+2 - O Ministro dos Negócios Estrangeiros poderá, a título excepcional e em casos devidamente fundamentados, autorizar que cônsules honorários exerçam as competências próprias dos vice-cônsules dos consulados de carreira relativamente a:
+
+a) Actos de registo civil e de notariado;
+
+b) Operações de recenseamento eleitoral;
+
+c) Emissão de documentos de viagem.
+
+3 - A autorização prevista no número anterior será dada por portaria, da qual constará, igualmente, a enumeração dos actos que podem ser praticados.
+
+###### Artigo 2.º — Produção de efeitos
+
+O presente diploma produz efeitos a partir de 30 de Janeiro de 1998.
+
+Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - José Eduardo Vera Cruz Jardim.
+
+**Promulgado em 13 de Março de 1998.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 17 de Março de 1998.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

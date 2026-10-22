@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:328444:por
+title: Resolução n.º 155/78
+short_title: null
+summary: Altera a redacção do n.º 2 da Resolução do Conselho de Ministros n.º 173/77, de 16 de Julho (comissão de qualidade
+  de serviços nos aeroportos)
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 155/78
+official_date: null
+publication_date: '1978-10-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 239/1978, Série I de 1978-10-17
+  number: '239'
+  series: I
+  supplement: null
+  pages: 2177 - 2177
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/10/23900/21772177.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '328444'
+  dre_path: /dr/detalhe/resolucao/155-1978-328444
+  internal: pt:dre:328444:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/155-1978-328444
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/155-1978-328444
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-10-17T00:00:00Z'
+integrity:
+  source_sha256: 56fce8f3026e81238bb21b0edc851f76bcbf319c199dfca33e96c8ca1ec95ec5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-155-328444.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 155/78
+
+Considerando a necessidade de introduzir alterações na [Resolução n.º 173/77](https://diariodarepublica.pt/dr/detalhe/resolucao/173-1977-250818) do Conselho de Ministros, de 16 de Julho, de modo que o disposto no seu n.º 2 se disponha em conformidade com o artigo 307.º da Reforma Aduaneira, o Conselho de Ministros, reunido em 27 de Setembro de 1978, resolveu alterar a redacção do citado número da forma seguinte:
+
+1 - ...
+
+2 - Dar competência à única entidade responsável pelo regular funcionamento de todo o aeroporto - o seu director - para fazer cumprir as normas regulamentares aplicáveis às entidades que exerçam a sua actividade na área do respectivo aeroporto e suspender imediatamente das suas funções qualquer agente de qualquer serviço público ou empresa que, pela sua falta de compostura, comportamento ou atitude, prejudique de algum modo o prestígio e a eficiência dos serviços aeroportuários.
+
+Com o objectivo de eventual confirmação das suspensões referidas e aplicação de sanções, fica a direcção do aeroporto obrigada a comunicar imediatamente a ocorrência ao serviço ou empresa a que o agente pertence, para posterior procedimento.
+
+Exceptuam-se as forças de segurança e as de fiscalização aduaneira, relativamente às quais o director do aeroporto no exercício da sua competência solicitará, pela via mais rápida, directamente ao respectivo comando distrital ou ao director da alfândega da área da circunscrição, qualquer diligência que se lhe afigure necessária, relativa a pessoal dessas forças prestando serviço no aeroporto, devendo ser-lhe prestada colaboração imediata.
+
+Presidência do Conselho de Ministros, 27 de Setembro de 1978. - O Primeiro-Ministro, Alfredo Jorge Nobre da Costa.

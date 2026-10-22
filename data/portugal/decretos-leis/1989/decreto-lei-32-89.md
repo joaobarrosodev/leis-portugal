@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:610910:por
+title: Decreto-Lei n.º 32/89
+short_title: null
+summary: Estabelece regras para a definição da taxa de referência para operações de crédito
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 32/89
+official_date: null
+publication_date: '1989-01-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 21/1989, Série I de 1989-01-25
+  number: '21'
+  series: I
+  supplement: null
+  pages: 332 - 333
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/01/02100/03320333.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '610910'
+  dre_path: /dr/detalhe/decreto-lei/32-1989-610910
+  internal: pt:dre:610910:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1989-610910
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1989-610910
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-01-25T00:00:00Z'
+integrity:
+  source_sha256: 31831cd5d0a23db8a8eb2c2b20532e2aea68aef635bfa1c9456e0c6aa9629e2a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-32-610910.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 32/89
+
+de 25 de Janeiro
+
+A progressiva liberalização dos mercados financeiros conduziu recentemente à suspensão da taxa de juros estabelecida como limite máximo nas operações activas.
+
+Impõe-se, no entanto, disciplinar o regime das operações efectuadas com taxas variáveis, referenciadas ou indexadas ao limite máximo, periodicamente revisto pela via administrativa, como ocorre com algumas emissões obrigacionistas não abrangidas pelo [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho, e também com muitos financiamentos, designadamente de médio e longo prazo, onde foi sentida a necessidade desse ajustamento. O presente diploma estabelece, portanto, as regras supletivas adequadas, consonantes não só com a vontade normal das partes mas também com a regulação pelo mercado das relações económico-jurídicas entre particulares.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Operações de crédito
+
+1 - As taxas de juro estipuladas em operações de crédito activas, com referência ou indexação à taxa máxima de tais operações, passam a determinar-se, salvo se as partes acordarem diversamente, com referência ou indexação às taxas básicas afixadas e divulgadas, para o prazo da operação em causa, pelas instituições financiadoras.
+
+2 - Exceptuam-se do disposto no número anterior as operações de crédito em relação às quais continue a ser aplicável uma taxa máxima fixada por aviso do Banco de Portugal.
+
+3 - O disposto neste artigo é aplicável a partir do primeiro período de contagem de juros subsequente à entrada em vigor do presente diploma.
+
+###### Artigo 2.º — Obrigações em circulação
+
+1 - As taxas de juro estabelecidas para as obrigações em circulação, referidas ou indexadas à taxa máxima das operações de crédito activas, passam a determinar-se com referência ou indexação à taxa de referência fixada pelo Banco de Portugal, nos termos do [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho, acrescida de dois pontos percentuais.
+
+2 - O disposto neste artigo é aplicável a partir do primeiro vencimento de juros subsequente à entrada em vigor do presente diploma.
+
+###### Artigo 3.º — Outros casos
+
+Salvo convenção das partes em contrário, o disposto no artigo anterior é aplicável, com as necessárias adaptações, aos demais casos em que, por negócio jurídico ou disposição normativa, tenham sido estabelecidos juros com referência ou indexação à taxa máxima das operações de crédito activas.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+**Promulgado em 9 de Janeiro de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 9 de Janeiro de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

@@ -1,0 +1,348 @@
+---
+schema_version: '1.0'
+id: pt:dre:351702:por
+title: Despacho Normativo n.º 26/97
+short_title: null
+summary: Altera o Despacho Normativo n.º 551/94, de 29 de Julho (regulamenta o Regime de Apoio à Utilização da Propriedade
+  Industrial)
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 26/97
+official_date: null
+publication_date: '1997-06-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 126/1997, Série I-B de 1997-06-02
+  number: '126'
+  series: I
+  supplement: null
+  pages: 2665 - 2667
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/06/126b00/26652667.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1997-08-30'
+version_history:
+  file: despacho-normativo-26-97.versoes.json
+  count: 2
+  source_lastmod: '2025-06-17'
+  versions:
+  - date: '1997-06-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-08-30'
+    amending: pt:dre:402104:por
+    amending_title: Declaração de Rectificação n.º 14-S/97
+    changes:
+    - Retifica Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/26/1997/p/cons/19970830/pt/html
+  oj: null
+  dre: '351702'
+  dre_path: /dr/detalhe/despacho-normativo/26-1997-351702
+  internal: pt:dre:351702:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1997-351702
+  metadata_url: https://data.dre.pt/eli/despnorm/26/1997/p/cons/19970830/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1997-169775423
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1997-169775423
+  retrieved_at: '2026-10-22T13:29:28Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-17T00:00:00Z'
+integrity:
+  source_sha256: e5154bbf9cad6c5f3a0617e9de96ca11b762ff4987b0f0141b6ccf9cfd882e97
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:29:28Z'
+  notes: 2 versão(ões); histórico completo em despacho-normativo-26-97.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Indústria Farmacêutica
+- Infarmed
+- Desenvolvimento Industrial
+- Apoio ao Investimento
+- Propriedade Industrial
+- Modernização Industrial
+- Regime de Apoio à Utilização do Sistema de Propriedade Industrial
+- Pedip II
+- Sindepedip
+relationships:
+- type: amended_by
+  target: pt:dre:402104:por
+  label: Retifica Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-s-1997-402104
+  date: '1997-08-30'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/182/1993/05/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/182/1993/05/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/354-b/1993/11/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/354-b/1993/11/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/48/1995/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/48/1995/09/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/551/1994/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/551/1994/07/29/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:29:28Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 26/97
+
+Despacho Normativo n.º 26/97
+
+O Despacho Normativo n.º 551/94, de 29 de Julho, alterado pelo Despacho Normativo n.º 48/95, de 4 de Setembro, regulamenta o Regime de Apoio à Utilização da Propriedade Industrial, que se insere no âmbito do Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP) do Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa (PEDIP II).
+
+Tendo-se constatado a necessidade de dinamizar a progressiva internacionalização da indústria farmacêutica, através do apoio à obtenção de uma autorização de introdução no mercado (AIM) no quadro da regulamentação existente a nível internacional, é adequado promover tal dinamização no âmbito do Regime de Apoio atrás referido, havendo, assim, que a contemplar no respectivo diploma regulamentador.
+
+Nestes termos, determino:
+
+Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º e 13.º do Despacho Normativo n.º 551/94, de 29 de Julho, alterado pelo Despacho Normativo n.º 48/95, de 4 de Setembro, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+Objecto
+
+1 - ...
+
+2 - O presente Regime de Apoio tem por objectivo estimular a criatividade, a actividade inventiva e a inovação a nível empresarial, institucional e individual, apoiando a utilização da propriedade industrial como elemento fundamental para a concepção das invenções e para a sua protecção através da obtenção dos correspondentes direitos, bem como dinamizar a progressiva internacionalização da indústria farmacêutica, através do apoio à obtenção de uma autorização de introdução no mercado (AIM) no quadro da regulamentação existente a nível internacional.
+
+Artigo 2.º
+
+Âmbito
+
+...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) No âmbito do apoio ao registo de medicamentos:
+
+Formulação de pedidos de AIM no estrangeiro junto das respectivas autoridades nacionais;
+
+Formulação de pedidos de AIM via procedimento comunitário centralizado;
+
+Formulação de pedidos de AIM via procedimento comunitário descentralizado.
+
+Artigo 3.º
+
+Beneficiários
+
+Sem prejuízo do disposto no n.º 3, são beneficiários do presente Regime de Apoio:
+
+1 - No âmbito das alíneas a) a f) do artigo 2.º:
+
+a) As empresas industriais incluídas nas CAE 10 a 37 do Decreto-Lei n.º 182/93, de 14 de Maio, que desenvolvam tarefas de I&DT, bem como os inventores independentes, associados ou não a empresas industriais;
+
+b) As instituições que desenvolvam tarefas de I&DT no âmbito das CAE referidas na alínea anterior.
+
+2 - No âmbito da alínea h) do artigo 2.º, as empresas industriais incluídas na classe 2442 - Fabricação de preparações farmacêuticas do CAE constante do Decreto-Lei n.º 182/93, de 14 de Maio, que desenvolvam tarefas de I&DT em Portugal.
+
+3 - O disposto na alínea g) do artigo 2.º apenas é aplicável aos inventores independentes, associados ou não a empresas industriais.
+
+Artigo 5.º
+
+Condições de acesso do promotor
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+2 - Os promotores de projectos no âmbito das alíneas a) a g) do artigo 2.º deverão ainda ter direito legal à patente, ao modelo de utilidade, ao modelo ou desenho industrial ou à marca e pretender a protecção do Sistema da Propriedade Industrial.
+
+3 - Os promotores de projectos no âmbito da alínea h) do artigo 2.º deverão ainda demonstrar que têm capacidade financeira para o desenvolvimento da sua actividade, cumprindo, nomeadamente, a condição de cobertura do activo líquido pelos capitais próprios superior a 25%.
+
+4 - As empresas cujo acto de constituição se tenha verificado nos 60 dias úteis anteriores à data da apresentação da candidatura apenas estão obrigadas ao cumprimento da condição prevista na alínea a) do n.º 1, devendo, contudo, comprovar que já requereram a sua inscrição na conservatória do registo comercial competente, sem prejuízo da oportuna comprovação do preenchimento das restantes condições.
+
+Artigo 6.º
+
+Condições de acesso do projecto
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+2 - Os projectos no âmbito das alíneas a) a g) do artigo 2.º deverão ainda obedecer aos requisitos legais de protecção.
+
+3 - Os projectos a que se refere a alínea h) do artigo 2.º deverão ainda inserir-se na estratégia de médio prazo do promotor, fundamentando as opções efectuadas em termos dos produtos/mercados seleccionados para efeitos de registo.
+
+4 - Exceptuam-se do disposto na alínea a) do n.º 1 os projectos que, tendo sido propostos a incentivos ao abrigo do Despacho Normativo n.º 354-B/93, de 9 de Novembro:
+
+a) Não tenham recebido apoios por razões não imputáveis ao promotor;
+
+b) Apresentem declaração de desistência à candidatura apresentada ao abrigo daquele despacho normativo.
+
+Artigo 7.º
+
+Critérios de selecção
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - No que se refere à alínea h) do artigo 2.º, deverá ser considerada a forma como os projectos se fundamentam numa perspectiva de mercado.
+
+Artigo 8.º
+
+Aplicações relevantes
+
+...
+
+1 - ...
+
+a) ...
+
+b) ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+4 - No que se refere à alínea h) do artigo 2.º:
+
+a) Taxas relativas à fase de pedido;
+
+b) Assistência técnica externa na organização dos dossiers, incluindo, nomeadamente:
+
+Honorários de consultadoria;
+
+Traduções;
+
+c) Análises laboratoriais e ensaios realizados no exterior da empresa, a efectuar por exigência das autoridades competentes em matéria de AIM.
+
+Artigo 9.º
+
+Incentivo
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) 60% das aplicações relevantes referidas na alínea a) do n.º 4 do artigo 8.º, até ao limite de 2500 contos, quando se trate de pedidos no estrangeiro via nacional, de 20000 contos, quando se trate de pedidos via procedimento comunitário centralizado, e de 10000 contos, nos casos de pedidos via procedimento comunitário descentralizado;
+
+e) 60% das aplicações relevantes referidas na alínea b) do n.º 4 do artigo 8.º, até ao limite de 4500 contos;
+
+f) 60% das aplicações relevantes referidas na alínea c) do n.º 4 do artigo 8.º, até ao limite de 12000 contos.
+
+2 - As taxas de incentivo a que se referem as alíneas d), e) e f) do número anterior poderão ser majoradas em 5% sempre que as empresas provem possuir sistema de garantia de qualidade certificado pelo IPQ e ou recorram aos Serviços de Infra-Estruturas Tecnológicas apoiáveis no âmbito do SINFRAPEDIP para a realização das análises laboratoriais e ensaios.
+
+3 - O limite máximo de incentivo por promotor durante o período de vigência do Programa, no que se refere às alíneas d), e) e f) do n.º 1, é de 70000 contos.
+
+4 - O montante total do incentivo a conceder não poderá exceder dois terços do custo total do investimento.
+
+Artigo 11.º
+
+Competência e prazos de apreciação
+
+1 - A análise dos processos de candidatura a que se referem as alíneas a) a g) do artigo 2.º compete ao INPI, devendo estar concluída no prazo de 60 dias úteis, contados a partir da data da sua apresentação.
+
+2 - A recepção dos processos de candidatura a que se refere a alínea h) do artigo 2.º é feita pelo INPI, que os enviará à DGI no prazo máximo de cinco dias úteis, contados a partir da data da sua apresentação.
+
+3 - A DGI, na sua qualidade de organismo do Ministério da Economia que desenvolve actividades correlacionadas com esta matéria, deverá analisar os processos de candidatura referidos no número anterior no prazo de 60 dias úteis, após o que os enviará ao INPI, a fim de este os propor para apreciação em sede de Comissão de Selecção.
+
+Artigo 12.º
+
+Pareceres
+
+1 - Os projectos a que se refere a alínea g) do artigo 2.º deverão ser submetidos a parecer prévio do INETI.
+
+2 - Poderão ainda ser consultadas outras entidades do Ministério da Economia que desenvolvam actividades correlacionadas com estas matérias, podendo ainda, nos projectos a que se refere a alínea h) do artigo 2.º, ser consultado o Instituto Nacional da Farmácia e do Medicamento (INFARMED), na sua qualidade de autoridade nacional competente em matéria de autorização de introdução de medicamentos no mercado.
+
+Artigo 13.º
+
+Condicionantes
+
+O pagamento do incentivo nos casos a que se refere o n.º 4 do artigo 5.º fica condicionado, quando aplicável, à apresentação da declaração de início de actividade».
+
+Ministério da Economia, 24 de Abril de 1997. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus.

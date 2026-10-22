@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:303195:por
+title: Decreto-Lei n.º 96/2002
+short_title: null
+summary: Altera o Decreto-Lei n.º 343/99, de 26 de Agosto, que aprova o Estatuto dos Funcionários de Justiça
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 96/2002
+official_date: null
+publication_date: '2002-04-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 86/2002, Série I-A de 2002-04-12
+  number: '86'
+  series: I
+  supplement: null
+  pages: 3569 - 3570
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/04/086a00/35693570.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/96/2002/04/12/p/dre/pt/html
+  oj: null
+  dre: '303195'
+  dre_path: /dr/detalhe/decreto-lei/96-2002-303195
+  internal: pt:dre:303195:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2002-303195
+  metadata_url: https://data.dre.pt/eli/dec-lei/96/2002/04/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2002-303195
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-04-12T00:00:00Z'
+integrity:
+  source_sha256: 7ce3bee2135b12d100525e09a95a5eff5266922492ece501280eefea4703c5af
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-96-303195.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Recurso
+- Sanção Disciplinar
+- Defensor Oficioso
+- Definição de Competências
+- Processo Disciplinar
+- Estatuto dos Funcionários de Justiça
+- Pessoal de Justiça
+- Oficial de Justiça
+- Legitimidade
+- Conselho dos Oficiais de Justiça
+- Notificação
+- Avaliação do Pessoal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 96/2002
+
+de 12 de Abril
+
+O Tribunal Constitucional declarou, com força obrigatória geral, a inconstitucionalidade do artigo 95.º e da alínea a) do artigo 107.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro (Lei Orgânica das Secretarias Judiciais e Estatuto dos Funcionários de Justiça), e do artigo 98.º e da alínea a) do artigo 111.º do Estatuto dos Funcionários de Justiça, aprovado pelo [Decreto-Lei n.º 343/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1999-428653), de 26 de Agosto, na sequência do julgamento de inconstitucionalidade destas normas proferido em três casos concretos, por violarem o n.º 3 do artigo 218.º da Constituição.
+
+Independentemente de solução definitiva que venha a ser consagrada em sede constitucional, a necessidade de evitar, neste contexto, uma situação de profunda instabilidade e insegurança, impõe a imediata redefinição de competências quanto à apreciação do mérito profissional e ao exercício do poder disciplinar sobre os oficiais de Justiça, que vem sendo exercida pelo Conselho dos Oficiais de justiça, por forma que estas percam a actual natureza de competências exclusivas e admitam, em qualquer caso, uma decisão final do conselho superior competente de acordo com o quadro de pessoal que integram.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao [Decreto-Lei n.º 343/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1999-428653), de 26 de Agosto
+
+Os artigos 6.º, 70.º, 72.º, 94.º, 97.º a 99.º, 111.º e 118.º do Estatuto dos Funcionários de Justiça, aprovado pelo [Decreto-Lei n.º 343/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1999-428653), de 26 de Agosto, passam a ter a seguinte redacção:
+
+«Artigo 6.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - Os oficiais de justiça, no exercício das funções através das quais asseguram o expediente, autuação e regular tramitação dos processos, dependem funcionalmente do magistrado competente.
+
+###### Artigo 70.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - Nas classificações são sempre ponderadas as circunstâncias em que decorreu o exercício de funções, designadamente as condições de trabalho e o volume de serviço, informações, resultados de inspecções ou processos disciplinares, bem como outros elementos complementares, desde que, em qualquer caso, se reportem ao período abrangido pela inspecção.
+
+###### Artigo 72.º — [...]
+
+1 - A classificação dos oficiais de justiça, com excepção dos secretários de tribunal superior, é precedida de inspecção pelo Conselho dos Oficiais de Justiça e de parecer do juiz-presidente.
+
+2 - Nos casos do Departamento Central de Investigação e Acção Penal e dos departamentos de investigação e acção penal o parecer é emitido pelo magistrado coordenador.
+
+###### Artigo 94.º — Instauração e instrução do processo
+
+1 - São competentes para instaurar processo disciplinar contra oficiais de justiça, além do Conselho dos Oficiais de Justiça:
+
+a) O director-geral da Administração da Justiça;
+
+b) O juiz-presidente do tribunal em que o funcionário exerça funções à data da infracção;
+
+c) O magistrado coordenador, quando a infracção seja cometida no Departamento Central de Investigação e Acção Penal ou num departamento de investigação e acção penal;
+
+d) O Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais e o Conselho Superior do Ministério Público, consoante os casos;
+
+e) Os inspectores dos conselhos referidos na alínea anterior.
+
+2 - A nomeação do instrutor compete ao Conselho dos Oficiais de Justiça.
+
+###### Artigo 97.º — [...]
+
+1 - Se o arguido estiver impossibilitado de elaborar a defesa, por motivo de ausência, doença, anomalia mental ou incapacidade física, a entidade que tiver instaurado o processo disciplinar requer à Ordem dos Advogados a nomeação de um defensor.
+
+2 - ...
+
+###### Artigo 98.º — [...]
+
+O Conselho dos Oficiais de Justiça é o órgão que aprecia o mérito profissional e exerce o poder disciplinar sobre os oficiais de justiça, sem prejuízo da competência disciplinar atribuída a magistrados e do disposto no n.º 2 do artigo 68.º
+
+###### Artigo 99.º — [...]
+
+O Conselho dos Oficiais de Justiça é composto pelo director-geral da Administração da Justiça, que preside, e pelos seguintes vogais:
+
+a) Dois designados pelo director-geral da Administração da Justiça, um dos quais magistrado judicial, que exercerá as funções de vice-presidente;
+
+b) ...
+
+c) Um designado pelo Conselho Superior dos Tribunais Administrativos e Fiscais;
+
+d) [Anterior alínea c)];
+
+e) [Anterior alínea d)].
+
+###### Artigo 111.º — [...]
+
+1 - Compete ao Conselho dos Oficiais de Justiça:
+
+a) Apreciar o mérito profissional e exercer o poder disciplinar sobre os oficiais de justiça, sem prejuízo da competência disciplinar atribuída a magistrados e do disposto no n.º 2 do artigo 68.º;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+2 - O Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais e o Conselho Superior do Ministério Público, consoante os casos, têm o poder de avocar bem como o poder de revogar as deliberações do Conselho dos Oficiais de Justiça proferidas no âmbito do disposto na alínea a) do número anterior.
+
+###### Artigo 118.º — Recursos
+
+1 - Das decisões do presidente, do vice-presidente ou dos vogais cabe recurso para o plenário do Conselho dos Oficiais de Justiça, a interpor no prazo de 20 dias úteis.
+
+2 - Das deliberações do Conselho dos Oficiais de Justiça proferidas no âmbito do disposto nas alíneas a) e b) do n.º 1 do artigo 111.º, bem como das decisões dos presidentes dos tribunais proferidas ao abrigo do n.º 2 do artigo 68.º, cabe recurso, consoante os casos, para o Conselho Superior da Magistratura, para o Conselho Superior dos Tribunais Administrativos e Fiscais ou para o Conselho Superior do Ministério Público, a interpor no prazo de 20 dias úteis.
+
+3 - Têm legitimidade para interpor recurso o arguido e a entidade que tenha instaurado o processo disciplinar.
+
+4 - Os recursos referidos nos números anteriores devem ser decididos no prazo de dois meses.»
+
+###### Artigo 2.º — Aditamento [Decreto-Lei n.º 343/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1999-428653), de 26 de Agosto
+
+É aditado ao Estatuto dos Funcionários de Justiça, aprovado pelo [Decreto-Lei n.º 343/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1999-428653), de 26 de Agosto, o artigo 97.º-A, com a seguinte redacção:
+
+«Artigo 97.º-A
+
+Notificação da decisão
+
+Na data em que se fizer a notificação da decisão ao arguido será dado conhecimento da mesma à entidade que tiver instaurado o processo.»
+
+###### Artigo 3.º — Revogação
+
+É revogado o artigo 119.º do Estatuto dos Funcionários de Justiça, aprovado pelo [Decreto-Lei n.º 343/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1999-428653), de 26 de Agosto.
+
+Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Diogo Campos Barradas de Lacerda Machado - Alberto de Sousa Martins.
+
+**Promulgado em 27 de Março de 2002.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 28 de Março de 2002.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

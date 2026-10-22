@@ -1,0 +1,143 @@
+---
+schema_version: '1.0'
+id: pt:dre:279815:por
+title: Decreto-Lei n.º 504/77
+short_title: null
+summary: Fixa os efectivos dos quadros permanentes de sargentos e praças do activo da classe de fuzileiros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 504/77
+official_date: null
+publication_date: '1977-12-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 282/1977, Série I de 1977-12-07
+  number: '282'
+  series: I
+  supplement: null
+  pages: 2879 - 2880
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '279815'
+  dre_path: /dr/detalhe/decreto-lei/504-1977-279815
+  internal: pt:dre:279815:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1977-279815
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1977-279815
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: 244642025600dbd54f1c083a3e9b66451f84c898408f6e1df9205449878eed12
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-504-279815.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 504/77
+
+de 7 de Dezembro
+
+1. Os quadros do activo de sargentos e praças da Armada da classe de fuzileiros, que totalizam actualmente 2946 homens, excluídos os segundos-grumetes, encontram-se desajustados face às condições actuais, que apontam para uma estruturação das unidades de fuzileiros marcadamente diferente da definida na altura em que foram inicialmente criadas.
+
+2. O facto de se tratar de uma classe de criação relativamente recente e a circunstância ainda de se tratar da que maior empenhamento teve durante o período de guerra, em que existiu a preocupação de proceder ao rápido completamento de efectivos, conduziram a profundos desequilíbrios nos quadros, dificilmente sanáveis, dado que, na esmagadora maioria, a classe é constituída por pessoal permanente. A realidade é que se dispõe de efectivos desajustados às necessidades previsíveis e que, em muitos casos, mercê do desgaste sofrido ao longo de vários anos de guerra, não satisfazem inteiramente aos elevados requisitos de preparação exigidos pelas missões que lhes são atribuídas. Por outro lado, e em consequência de circunstâncias já referidas, os quadros não são passíveis de qualquer movimentação, conduzindo, a menos que sejam tomadas as medidas adequadas, a gradual envelhecimento e inoperância. Encontram-se, além disso, estruturados em condições que, mesmo em situação do seu equilíbrio, oferecem muito reduzidas possibilidades de renovação adequada, o que, de resto, sucede nos quadros das restantes classes.
+
+3. Torna-se, assim, imperativa a adopção de soluções que, sem comprometerem o futuro nem implicarem encargos financeiros muito elevados em relação aos presentemente suportados, permitem uma aproximação gradual da situação de equilíbrio, que se prevê possa ser atingida em poucos anos.
+
+Foi assim entendido constituir solução mais adequada criar, com carácter transitório, por um período estimado em seis anos, uma subclasse com quadro próprio, a preencher de forma escalonada, para onde será transferido, em cada posto e de acordo com normas a estabelecer, o pessoal desta classe que revele menor aptidão para funções operacionais, o que, se acompanhado de uma política criteriosa de admissões e tidas em conta as baixas previsíveis, se espera conduza a um equilíbrio dinâmico dos quadros em período relativamente curto.
+
+4. A criação recente, nos três ramos das forças armadas, dos novos postos de sargento-mor e sargento-chefe obrigava também a um reajustamento dos quadros, nos quais, contrariamente à norma que vinha sendo seguida de há longos anos e em conformidade com a estrutura de carreira estabelecida pelo [Decreto-Lei n.º 732/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/732-1976-409559), de 15 de Outubro, se achou mais pertinente figurar apenas o pessoal permanente, dado que os quantitativos do restante estão dependentes das necessidades de completamento e de alimentação daqueles, sendo, consequentemente, variáveis.
+
+Nestes termos:
+
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os quadros permanentes de sargentos e praças do activo da classe de fuzileiros são os constantes no mapa n.º 1 anexo ao presente diploma.
+
+###### Art. 2.º Os efectivos de pessoal em prestação de serviço militar obrigatório da classe referida no artigo anterior não figuram no mapa a que aí se alude, mas o seu número não deverá exceder o que constar anualmente do orçamento de despesa da Marinha, sem deixar de ser, todavia, o indispensável para apropriada alimentação dos quadros e satisfação das necessidades do seu completamento.
+
+###### Art. 3.º - 1 - Na classe de fuzileiros, e durante um período transitório necessário para se atingir um desejável equilíbrio dos quadros, existirá uma subclasse designada por subclasse de equipagem, alimentada lateralmente, em cada posto, pelo pessoal da classe e com os efectivos máximos indicados no mapa n.º 2, a deduzir dos agora para esta fixados, indicados para a classe, no seu conjunto, no mapa referido no artigo 1.º
+
+2 - As condições de transferência para o quadro da subclasse de equipagem e o escalonamento dessa transferência serão regulados por portaria do Chefe do Estado-Maior da Armada.
+
+3 - A carreira dos militares transferidos para a subclasse de equipagem processar-se-á em condições paralelas às do restante pessoal e de acordo com a movimentação do respectivo quadro, não podendo, no entanto, ser promovido qualquer militar no quadro da subclasse sem que no quadro de origem hajam logrado promoção todos os militares com condições de promoção que nesse quadro se encontravam à sua direita.
+
+###### Art. 4.º O primeiro provimento nos postos de sargento-chefe e de sargento-mor só poderá ter lugar, respectivamente, em 1978 e 1979.
+
+###### Art. 5.º Os quadros fixados no mapa n.º 1 entram em vigor em 1 de Julho de 1977, sendo referida a 1 de Outubro de 1977 a transferência para a subclasse de equipagem do pessoal que nesta deva ingressar, de acordo com o escalonamento previsto no n.º 2 do artigo 3.º, e a 1 de Outubro de cada ano as transferências subsequentes.
+
+Visto e aprovado em Conselho da Revolução em 26 de Outubro de 1977.
+
+**Promulgado em 23 de Novembro de 1977.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+
+MAPA N.º 1
+
+(A que se refere o artigo 1.º)
+
+Efectivos dos quadros permanentes do activo de sargentos e praças da classe de fuzileiros
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf))](https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf)
+
+MAPA N.º 2
+
+(A que se refere o artigo 3.º)
+
+Efectivos dos quadros permanentes do activo de sargentos e praças da classe de fuzileiros, subclasse de equipagem
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf))](https://files.diariodarepublica.pt/1s/1977/12/28200/28792880.pdf)
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**

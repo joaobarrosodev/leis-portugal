@@ -1,0 +1,747 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544171:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-114561771",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/10-2012-544171",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-01-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114559182",
+    "114559183",
+    "114559184",
+    "114559185",
+    "114559186",
+    "114559187",
+    "114559188",
+    "114559189",
+    "114559190",
+    "114559191",
+    "114559192",
+    "114559193",
+    "114559194",
+    "114559195",
+    "114559196",
+    "114559197",
+    "114559198",
+    "114559199",
+    "114559200",
+    "114559201",
+    "114559202",
+    "114559203",
+    "114559204",
+    "114559206"
+   ]
+  },
+  {
+   "date": "2018-01-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114561767:por",
+     "title": "Decreto Regulamentar n.º 3/2018",
+     "published": "2018-01-25",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/3-2018-114561767"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "114559182",
+    "114559183",
+    "114559216",
+    "114559217",
+    "114559236",
+    "114559187",
+    "114559188",
+    "114559189",
+    "114559218",
+    "114559219",
+    "114559220",
+    "114559221",
+    "114559222",
+    "114559223",
+    "114559224",
+    "114559225",
+    "114559226",
+    "114559227",
+    "114559228",
+    "114559229",
+    "114559230",
+    "114559231",
+    "114559232",
+    "114559233",
+    "114559234",
+    "114559235"
+   ]
+  },
+  {
+   "date": "2021-05-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:162940683:por",
+     "title": "Decreto-Lei n.º 31/2021",
+     "published": "2021-05-07",
+     "dre_path": "/dr/detalhe/decreto-lei/31-2021-162940683"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º-A",
+    "Adita Artigo 15.º-B",
+    "Adita Artigo 15.º-C",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "114559182",
+    "114559183",
+    "162998585",
+    "114559217",
+    "114559236",
+    "162998586",
+    "114559188",
+    "114559189",
+    "114559218",
+    "114559219",
+    "114559220",
+    "114559221",
+    "114559222",
+    "114559223",
+    "114559224",
+    "114559225",
+    "114559226",
+    "162993355",
+    "162993365",
+    "162998575",
+    "162998587",
+    "162998577",
+    "162998578",
+    "162998579",
+    "162998580",
+    "162998581",
+    "162998582",
+    "162998583",
+    "162998584"
+   ]
+  },
+  {
+   "date": "2025-04-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:914713263:por",
+     "title": "Decreto-Lei n.º 67/2025",
+     "published": "2025-04-11",
+     "dre_path": "/dr/detalhe/decreto-lei/67-2025-914713263"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 20.º",
+    "Altera Anexo",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "114559182",
+    "114559183",
+    "914882315",
+    "114559217",
+    "114559236",
+    "914882317",
+    "114559188",
+    "114559189",
+    "114559218",
+    "114559219",
+    "114559220",
+    "114559221",
+    "114559222",
+    "914882319",
+    "914882320",
+    "114559225",
+    "114559226",
+    "162993355",
+    "162993365",
+    "162998575",
+    "162998587",
+    "162998577",
+    "162998578",
+    "162998579",
+    "914882318",
+    "162998581",
+    "162998582",
+    "162998583",
+    "914882316"
+   ]
+  }
+ ],
+ "fragments": {
+  "114559182": {
+   "fragment_id": "114561772",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 10/2012\n\nde 19 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nA nova Lei Orgânica do Ministério dos Negócios Estrangeiros, aprovada através do Decreto-Lei n.º 121/2011, de 29 de Dezembro, prevê que a Secretaria-Geral assegure não só as anteriores competências no domínio da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, de apoio técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no Ministério, do acompanhamento, da avaliação da execução de políticas e instrumentos de planeamento e dos resultados dos sistemas de organização, em articulação com os demais serviços do Ministério, como ainda pode preparar e executar actividades administrativas dos demais serviços da administração directa do Ministério.\n\nNo sentido de concretizar o esforço de racionalização estrutural, já consagrado na nova Lei Orgânica do Ministério, o secretário-geral do Ministério dos Negócios Estrangeiros passa a assegurar, por inerência, a presidência da Comissão Nacional da UNESCO.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114559183": {
+   "fragment_id": "114561773",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria-Geral do Ministério dos Negócios Estrangeiros (MNE), abreviadamente designada por SG, é um serviço central da administração directa do Estado dotado de autonomia administrativa."
+  },
+  "114559184": {
+   "fragment_id": "114561774",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar as funções de apoio técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no MNE, nos domínios da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, do apoio jurídico e contencioso, das tecnologias de informação e comunicação, da formação do pessoal, da diplomacia pública e da informação e ainda acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério, podendo preparar e executar actividades administrativas dos demais serviços do MNE.\n\n2 - A preparação e execução pela Secretaria-Geral das actividades administrativas dos serviços da administração indirecta do MNE, são regulamentados em diploma próprio.\n\n3 - A SG prossegue as seguintes atribuições:\n\na) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MNE na respectiva execução, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nb) Assegurar a elaboração dos orçamentos de funcionamento e de investimento do MNE, bem como acompanhar a respectiva execução;\n\nc) Gerir e zelar pela conservação dos recursos patrimoniais dos serviços internos e serviços periféricos externos do MNE e promover a necessária renovação desses meios, em articulação com os organismos competentes;\n\nd) Assegurar o exercício das funções desempenhadas pelo Protocolo do Estado, legalmente cometidas ao MNE;\n\ne) Assegurar o apoio técnico-jurídico e contencioso aos serviços internos e aos serviços periféricos externos do MNE, bem como acompanhar a negociação de tratados e de acordos internacionais;\n\nf) Coligir e publicar os documentos relativos à política externa portuguesa, de acordo com as orientações do ministro, bem como coordenar a organização e preservação do património e do arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do MNE e procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;\n\ng) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização, o reforço da utilização das tecnologias de informação e comunicação e a política de qualidade, no âmbito do MNE, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;\n\nh) Programar e coordenar as medidas que promovam a formação ao longo da vida dos funcionários diplomáticos e do restante pessoal do MNE;\n\ni) Promover uma política de informação e diplomacia pública, garantindo a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MNE;\n\nj) Gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados;\n\nl) Assegurar as funções de unidade ministerial de compras;\n\nm) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial em articulação com a entidade gestora da mobilidade, nos termos legais;\n\nn) Assegurar o desenvolvimento dos sistemas de avaliação de serviços no âmbito do MNE, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas na lei sobre esta matéria;\n\no) Assegurar a gestão da mala diplomática e do expediente de correspondência do MNE;\n\np) Assegurar a expedição, recepção e processamento dos telegramas, telecópias e aerogramas, enviados e recebidos através do MNE, bem como garantir a segurança, confidencialidade e integridade da informação;\n\nq) Assegurar, directamente ou através dos seus serviços integrados, as actividades comuns de administração e gestão de recursos humanos, financeiros, patrimoniais e orçamentais, dos serviços da administração directa do MNE;\n\nr) Coordenar a actividade do MNE em áreas que não relevam directamente da actividade político-diplomática;\n\ns) Assegurar o normal funcionamento do MNE nas áreas que não sejam da competência específica de outros serviços."
+  },
+  "114559185": {
+   "fragment_id": "114582375",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - A SG é dirigida por um secretário-geral, que é o mais alto funcionário da hierarquia do MNE, coadjuvado por um secretário-geral-adjunto, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n2 - Junto do secretário-geral, que a eles preside, funcionam o Conselho Diplomático e o Conselho de Directores-Gerais.\n\n3 - Para apoio ao secretário-geral no exercício das suas funções, pode ser designado o seguinte pessoal do quadro diplomático:\n\na) Um funcionário diplomático com categoria não inferior a conselheiro de embaixada, equiparado, para efeitos remuneratórios a cargo de direcção intermédia de 1.º grau;\n\nb) Dois funcionários diplomáticos com a categoria de secretário ou de adido de embaixada."
+  },
+  "114559186": {
+   "fragment_id": "114582376",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Secretário-geral\n\n1 - Sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao secretário-geral:\n\na) Prestar o apoio necessário ao ministro e demais membros do Governo;\n\nb) Representar o MNE, no caso de ausência ou impedimento dos membros do Governo;\n\nc) Coordenar a actividade dos serviços do MNE, de modo a garantir o seu normal funcionamento, nas áreas que não sejam da competência específica de outros serviços;\n\nd) Promover as acções indispensáveis à adequada gestão dos funcionários diplomáticos e da respectiva carreira, exercendo as competências que lhe são cometidas pelo estatuto daqueles funcionários;\n\ne) Articular a acção do Fundo para as Relações Internacionais, I. P.;\n\nf) Receber e conferenciar com os membros do corpo diplomático em Lisboa e comunicar-lhe as respostas que obriguem o Governo;\n\ng) Participar nas cerimónias de entrega de cartas credenciais pelos chefes de missões diplomáticas acreditados em Portugal;\n\nh) Convocar e presidir às reuniões do Conselho Diplomático e do Conselho dos Directores-Gerais;\n\ni) Afectar, por despacho, os trabalhadores do mapa do MNE colocados nos serviços internos, excepto os que ocupem cargos dirigentes, ouvido, quando se tratar de outros serviços, o respectivo responsável máximo;\n\nj) Dar posse aos funcionários diplomáticos colocados nos serviços internos, à excepção dos embaixadores e dos titulares dos cargos de direcção superior de 1.º grau;\n\nl) Transmitir, no âmbito da sua competência, instruções gerais aos funcionários diplomáticos colocados nos serviços internos ou nos serviços periféricos externos;\n\nm) Presidir, por inerência, à Comissão Nacional da Unesco.\n\n2 - O secretário-geral-adjunto exerce as competências que lhe sejam delegadas ou subdelegadas pelo secretário-geral, competindo substituí-lo nas suas faltas e impedimentos."
+  },
+  "114559187": {
+   "fragment_id": "114582377",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços integrados na SG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços integrados na SG\n\nA SG integra:\n\na) As unidades orgânicas nucleares que funcionam directamente junto do secretário-geral;\n\nb) O Protocolo de Estado;\n\nc) O Departamento Geral de Administração;\n\nd) O Departamento de Assuntos Jurídicos;\n\ne) O Instituto Diplomático."
+  },
+  "114559188": {
+   "fragment_id": "114582378",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho Diplomático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho Diplomático\n\nO Conselho Diplomático tem a competência e a composição prevista no Estatuto da Carreira Diplomática e funciona nos termos previstos no seu regulamento interno."
+  },
+  "114559189": {
+   "fragment_id": "114582379",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho de Directores-Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho de Directores-Gerais\n\n1 - O Conselho de Directores-Gerais é constituído por todos os titulares de cargos de direcção superior de 1.º grau, pelos presidentes e directores de organismos da administração indirecta do MNE, bem como pelo presidente da Agência para o Investimento e o Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.).\n\n2 - Ao Conselho de Directores-Gerais compete dar apoio ao secretário-geral, contribuindo para a permanente articulação na administração do MNE.\n\n3 - Em razão da matéria, o secretário-geral pode convocar para participarem, no todo ou em parte, em reunião do Conselho de Directores-Gerais, qualquer outro dirigente ou trabalhador."
+  },
+  "114559190": {
+   "fragment_id": "114582380",
+   "type": 11,
+   "heading": "Artigo 8.º — Protocolo do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Protocolo do Estado\n\n1 - O Protocolo do Estado prossegue as seguintes atribuições:\n\na) Definir o conjunto das regras que devem regular o cerimonial, a etiqueta e pragmática de acordo com as práticas internacionais vigentes e as tradições e costumes do Estado Português;\n\nb) Verificar o cumprimento e determinar a plena execução das normas e regulamentos que se referem às dispensas e privilégios que caracterizam o estatuto diplomático;\n\nc) Ocupar-se da matéria das condecorações cuja concessão decorre da vida internacional e das relações diplomáticas;\n\nd) Assegurar o tratamento das deslocações oficiais que se organizam no âmbito das relações diplomáticas entre Estados soberanos e entre estes e as organizações internacionais.\n\n2 - O Protocolo do Estado é dirigido pelo chefe do Protocolo do Estado, coadjuvado por um subchefe do Protocolo do Estado, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "114559191": {
+   "fragment_id": "114582381",
+   "type": 11,
+   "heading": "Artigo 9.º — Chefe do Protocolo do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Chefe do Protocolo do Estado\n\n1 - Sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao chefe do Protocolo do Estado:\n\na) Uniformizar a actuação protocolar dos órgãos de soberania em todas as actividades que tenham incidência na vida internacional;\n\nb) Preparar e acompanhar as deslocações oficiais ao estrangeiro do Chefe do Estado;\n\nc) Acompanhar as cerimónias de apresentação e entrega de cartas credenciais dos chefes das missões diplomáticas acreditados em Portugal;\n\nd) Formular parecer sobre os programas de recepção em visitas oficiais de primeiros-ministros, ministros dos negócios estrangeiros e de altos funcionários de organizações internacionais;\n\ne) Integrar comissões organizadoras de grandes celebrações nacionais, nomeadamente o «Dia de Portugal, de Camões e das Comunidades Portuguesas» e de cerimónias que se revistam de especial significado.\n\n2 - O subchefe do Protocolo do Estado exerce as competências que lhe sejam delegadas ou subdelegadas pelo chefe do Protocolo do Estado, competindo substituí-lo nas suas faltas e impedimentos."
+  },
+  "114559192": {
+   "fragment_id": "114582382",
+   "type": 11,
+   "heading": "Artigo 10.º — Departamento Geral de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Departamento Geral de Administração\n\n1 - O Departamento Geral da Administração, abreviadamente designado por DGA, é o serviço da SG ao qual compete a gestão dos recursos humanos e a administração financeira e patrimonial dos serviços do MNE.\n\n2 - O DGA prossegue as seguintes atribuições:\n\na) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública;\n\nb) Apoiar os serviços e organismos do MNE na respectiva implementação;\n\nc) Assegurar a gestão dos recursos humanos do MNE;\n\nd) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\ne) Gerir e zelar pela conservação dos recursos patrimoniais dos serviços internos e dos serviços periféricos externos do MNE;\n\nf) Promover a necessária renovação desses recursos patrimoniais dos serviços internos e dos serviços periféricos externos, em articulação com os organismos competentes;\n\ng) Assegurar a gestão financeira e orçamental do MNE;\n\nh) Assegurar a elaboração dos orçamentos de funcionamento e de investimento da sua esfera de competência e a coordenação dos relativos aos restantes serviços do MNE, bem como acompanhar a respectiva execução;\n\ni) Coordenar e prestar apoio técnico e administrativo, no âmbito da gestão financeira e orçamental e dos recursos humanos, aos serviços periféricos externos ou a outros serviços da administração directa do MNE, que partilhem serviços comuns com a Secretaria-Geral;\n\nj) Articular os serviços periféricos externos do MNE com os serviços competentes do Ministério das Finanças, na área da administração financeira;\n\nl) Gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados;\n\nm) Assegurar a gestão da mala diplomática e do expediente de correspondência do MNE;\n\nn) Assegurar as funções da unidade ministerial de compras;\n\no) Solicitar aos restantes serviços todos os elementos de informação considerados pertinentes ao exercício das suas competências, no âmbito dos serviços partilhados;\n\np) Propor, no quadro das competências decorrentes da partilha de serviços, a adopção dos instrumentos de gestão, avaliação e controlo.\n\n3 - O DGA é dirigido por um director, coadjuvado por um director-adjunto, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "114559193": {
+   "fragment_id": "114582383",
+   "type": 11,
+   "heading": "Artigo 11.º — Director do Departamento Geral de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Director do Departamento Geral de Administração\n\n1 - Sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director do DGA:\n\na) Prestar o apoio necessário ao ministro e demais membros do Governo, designadamente nas áreas financeiras e orçamentais;\n\nb) Coordenar os serviços do DGA;\n\nc) Promover e coordenar, em articulação com os restantes serviços do MNE, a elaboração dos projectos de orçamento de funcionamento e de investimento, bem como o acompanhamento e avaliação da execução orçamental do MNE;\n\nd) Autorizar a realização de despesas de acordo com os limites legais;\n\ne) Participar em comissões e organismos nacionais ou internacionais e em reuniões ou conferências nacionais ou internacionais, que versem matéria de competência do DGA;\n\nf) Assegurar a elaboração de planos e relatórios de actividades e outros instrumentos de gestão e coordenar a actividade do DGA, de modo a garantir o seu normal e eficiente funcionamento.\n\n2 - O director-adjunto exerce as competências que lhe sejam delegadas ou subdelegadas pelo director do DGA, competindo substituí-lo nas suas faltas e impedimentos."
+  },
+  "114559194": {
+   "fragment_id": "114582384",
+   "type": 11,
+   "heading": "Artigo 12.º — Departamento de Assuntos Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Departamento de Assuntos Jurídicos\n\n1 - O Departamento de Assuntos Jurídicos, abreviadamente designado por DAJ, é o serviço da SG ao qual compete:\n\na) Elaborar pareceres, responder a consultas e elaborar estudos sobre matérias de natureza jurídica, tanto interna como internacional;\n\nb) Assegurar a representação do MNE nos processos de contencioso administrativo, preparando peças processuais e acompanhando os processos nas suas diferentes fases processuais;\n\nc) Apoiar as entidades competentes na preparação e acompanhamento de quaisquer processos ou procedimentos em que estejam envolvidos serviços do MNE;\n\nd) Proceder à transmissão e recebimento dos processos de extradição;\n\ne) Proceder à transmissão e recebimento de cartas rogatórias e precatórias, assim como de outros actos judiciários interessando países estrangeiros;\n\nf) Preparar e assegurar a participação portuguesa na negociação de tratados e de acordos internacionais que versem a protecção da pessoa e a cooperação jurídica, em colaboração com os serviços do MNE e de outros departamentos governamentais;\n\ng) Acompanhar a negociação de outros tratados e acordos internacionais;\n\nh) Acompanhar o processo destinado a ultimar a vinculação internacional do Estado Português;\n\ni) Exercer as funções de depositário dos tratados e dos acordos internacionais, quando o Estado Português tenha sido designado para esse efeito;\n\nj) Acompanhar questões contenciosas internacionais em que o Estado Português seja parte;\n\nl) Assegurar a tradução dos documentos que se revele necessária à prossecução das atribuições do serviço, designadamente tratados e acordos internacionais.\n\n2 - O DAJ é dirigido por um director, cargo de direcção superior de 1.º grau."
+  },
+  "114559195": {
+   "fragment_id": "114582385",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência do director do Departamento de Assuntos Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência do director do Departamento de Assuntos Jurídicos\n\nSem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director do DAJ:\n\na) A coordenação e representação externa do DAJ;\n\nb) A participação em comissões nacionais ou internacionais e em reuniões ou conferências internacionais que versem matéria de competência do DAJ ou que visem a negociação de instrumentos de direito internacional;\n\nc) A prestação de assistência nas questões contenciosas internacionais de que o Estado Português seja parte, nomeadamente exercer a função de agente do Estado junto do Tribunal Internacional de Justiça ou de outras instâncias judiciais internacionais quando superiormente determinado;\n\nd) A coordenação da colaboração com outros serviços, nomeadamente com o Instituto Diplomático, para a organização de cursos e de acções de formação, especialmente na área do direito internacional público."
+  },
+  "114559196": {
+   "fragment_id": "114582386",
+   "type": 11,
+   "heading": "Artigo 14.º — Instituto Diplomático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instituto Diplomático\n\n1 - O Instituto Diplomático, abreviadamente designado por IDI, é o serviço da SG ao qual compete:\n\na) Elaborar e promover a realização de trabalhos de investigação, estudos e pareceres na área das relações internacionais;\n\nb) Organizar, participar na organização e efectuar cursos, ciclos de estudos, seminários, encontros e estágios sobre temas incluídos na mesma área;\n\nc) Organizar e realizar cursos de formação inicial, complementar ou de actualização dos funcionários do quadro diplomático requeridos pelo seu estatuto profissional, nos termos que forem definidos pelo secretário-geral, bem como dos restantes grupos de pessoal do mapa do MNE;\n\nd) Fomentar a investigação e o estudo nos domínios da diplomacia e da recíproca interacção da política interna e internacional, por forma a contribuir para a definição e actualização da estratégia da política externa nacional;\n\ne) Assegurar a gestão, manutenção e actualização do sistema de documentação e biblioteca do MNE;\n\nf) Adoptar as medidas requeridas pela criação e disponibilização do espólio documental e museológico do MNE;\n\ng) Elaborar a sinopse e fazer a compilação dos actos solenes de carácter internacional de que Portugal seja parte, ou em que tenha interesse, bem como das decisões dos tribunais superiores portugueses em matéria de direito internacional e das decisões dos tribunais internacionais cuja jurisdição Portugal tenha aceite ou perante os quais tenha sido parte em estreita cooperação com o DAJ;\n\nh) Coordenar e orientar a produção e difusão das publicações e outro material de apoio às actividades do IDI e colaborar na edição de monografias, livros, revistas e outros meios de divulgação da problemática da política externa;\n\ni) Manter devidamente catalogadas as colecções bibliográficas e documentais à sua guarda, incluindo a legislação e as disposições de execução permanente relativas aos serviços do MNE, informatizando-as de harmonia com os princípios da biblioteconomia e assegurar o atendimento do público investigador;\n\nj) Proceder ao controlo e elaborar a calendarização das transferências e incorporações documentais;\n\nl) Avaliar a documentação que possui valor permanente e que, como tal, deve integrar o arquivo definitivo, bem como recomendar a eliminação da restante documentação, estabelecendo, nesse caso, os respectivos prazos de conservação;\n\nm) Manter a gestão do arquivo intermédio e gerir o arquivo definitivo;\n\nn) Avaliar e dar parecer sobre quais os documentos que devem permanecer classificados nos termos da lei.\n\n2 - O IDI é dirigido por um director, cargo de direcção superior de 2.º grau."
+  },
+  "114559197": {
+   "fragment_id": "114582387",
+   "type": 11,
+   "heading": "Artigo 15.º — Director do Instituto Diplomático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Director do Instituto Diplomático\n\nSem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director do IDI:\n\na) Superintender na preparação dos programas de formação levados a cabo pelo IDI;\n\nb) Acompanhar o desenvolvimento das acções empreendidas pelo IDI ou com o apoio deste;\n\nc) Zelar pela apresentação dos estudos que sejam solicitados aos serviços competentes do IDI;\n\nd) Garantir a existência dos meios documentais indispensáveis à prossecução dos objectivos do IDI;\n\ne) Manter permanentemente informado o secretário-geral do MNE, sobre as actividades do IDI."
+  },
+  "114559198": {
+   "fragment_id": "114582388",
+   "type": 11,
+   "heading": "Artigo 16.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Tipo de organização interna\n\nA organização interna dos serviços da SG obedece ao modelo de estrutura hierarquizada."
+  },
+  "114559199": {
+   "fragment_id": "114582389",
+   "type": 11,
+   "heading": "Artigo 17.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Receitas\n\n1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A SG dispõe ainda das seguintes receitas próprias, que ficam consignadas a fins específicos:\n\na) As receitas provenientes de patrocínios para publicações, conferências e seminários e da venda de publicações promovidas pelo MNE ficam consignadas a despesas de idêntica natureza;\n\nb) As receitas cobradas pela SG no âmbito do Despacho n.º 8617/2002, publicado no Diário da República, 2.ª série, n.º 99, de 29 de Abril de 2002, ficam consignadas às despesas de funcionamento.\n\n3 - As seguintes receitas cobradas pelos serviços periféricos externos do MNE, cuja gestão e acompanhamento na execução compete à SG, ficam consignados a fins específicos:\n\na) As receitas provenientes da devolução de taxas e impostos indirectos pagos na aquisição de bens e serviços nos mercados locais ficam consignados às suas despesas de funcionamento;\n\nb) As receitas resultantes das reposições relativas a socorros e a repatriações e da venda de impressos destinados a actos sujeitos a emolumentos consulares ficam consignadas às despesas de idêntica natureza;\n\nc) As receitas cobradas no âmbito das despesas de correio, telefone, telecópia, comunicação de dados e telex, previstas na tabela de emolumentos consulares, ficam consignadas às despesas de idêntica natureza;\n\nd) As receitas resultantes da disponibilização de serviços de interesse para os utentes por parte dos serviços periféricos externos do MNE ficam consignadas às suas despesas de funcionamento.\n\n4 - As receitas referidas nos n.os 2 e 3 obedecem ao regime de tesouraria do Estado e são consignadas à realização das respectivas despesas durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos da lei."
+  },
+  "114559200": {
+   "fragment_id": "114582390",
+   "type": 11,
+   "heading": "Artigo 18.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Despesas\n\nConstituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "114559201": {
+   "fragment_id": "114582391",
+   "type": 11,
+   "heading": "Artigo 19.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual fazem parte integrante."
+  },
+  "114559202": {
+   "fragment_id": "114582392",
+   "type": 11,
+   "heading": "Artigo 20.º — Designação dos titulares dos cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Designação dos titulares dos cargos dirigentes\n\nNos termos do n.º 6 do artigo 20.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, podem ser designados, nos termos da lei geral, os seguintes cargos dirigentes:\n\na) Todos os cargos de direcção superior e de direcção intermédia do DGA;\n\nb) Todos os cargos de direcção superior e de direcção intermédia do DAJ;\n\nc) Todos os cargos de direcção superior e de direcção intermédia do IDI;\n\nd) O cargo de direcção intermédia de 1.º grau da unidade orgânica que integre a Cifra e Informática;\n\ne) Todos os cargos de direcção intermédia de 2.º grau, excepto o que se ocupe de matéria da Cifra."
+  },
+  "114559203": {
+   "fragment_id": "114582393",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nNos termos do artigo 28.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, considera-se revogado, na data da entrada em vigor do presente decreto regulamentar, o Decreto-Lei n.º 117/2007, de 27 de Abril, alterado pelo Decreto-Lei n.º 164/2009, de 22 de Julho."
+  },
+  "114559204": {
+   "fragment_id": "114582394",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "114559206": {
+   "fragment_id": "114582396",
+   "type": 14,
+   "heading": "Anexo — Mapa de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa de pessoal dirigente\n\n(a que se refere o artigo 19.º)\n\n(ver documento original)"
+  },
+  "114559216": {
+   "fragment_id": "114561774",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2018-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar as funções de apoio político-diplomático, técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no MNE, nos domínios do desenvolvimento das linhas estratégicas da política externa portuguesa, da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, do apoio jurídico e contencioso, das tecnologias de informação e comunicação, da formação do pessoal, da diplomacia pública e da informação e ainda acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério, podendo preparar e executar atividades administrativas dos demais serviços do MNE.\n\n2 - A preparação e execução pela Secretaria-Geral das actividades administrativas dos serviços da administração indirecta do MNE, são regulamentados em diploma próprio.\n\n3 - A SG prossegue as seguintes atribuições:\n\na) Promover o desenvolvimento das linhas estratégicas da política externa portuguesa nas suas distintas dimensões;\n\nb) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MNE na respectiva execução, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nc) Assegurar a elaboração dos orçamentos de funcionamento e de investimento do MNE, bem como acompanhar a respectiva execução;\n\nd) Gerir e zelar pela conservação dos recursos patrimoniais dos serviços internos e serviços periféricos externos do MNE e promover a necessária renovação desses meios, em articulação com os organismos competentes;\n\ne) Assegurar o exercício das funções desempenhadas pelo Protocolo do Estado, legalmente cometidas ao MNE;\n\nf) Assegurar o apoio técnico-jurídico e contencioso aos serviços internos e aos serviços periféricos externos do MNE, bem como acompanhar a negociação de tratados e de acordos internacionais;\n\ng) Coligir e publicar os documentos relativos à política externa portuguesa, de acordo com as orientações do ministro, bem como coordenar a organização e preservação do património e do arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do MNE e procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;\n\nh) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização, o reforço da utilização das tecnologias de informação e comunicação e a política de qualidade, no âmbito do MNE, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;\n\ni) Programar e coordenar as medidas que promovam a formação ao longo da vida dos funcionários diplomáticos e do restante pessoal do MNE;\n\nj)  Promover uma política de informação e diplomacia pública, garantindo a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MNE;\n\nk) Gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados;\n\nl) Assegurar as funções de unidade ministerial de compras;\n\nm) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial em articulação com a entidade gestora da mobilidade, nos termos legais;\n\nn) Assegurar o desenvolvimento dos sistemas de avaliação de serviços no âmbito do MNE, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas na lei sobre esta matéria;\n\no) Assegurar a gestão da mala diplomática e do expediente de correspondência do MNE;\n\np) Assegurar a expedição, recepção e processamento dos telegramas, telecópias e aerogramas, enviados e recebidos através do MNE, bem como garantir a segurança, confidencialidade e integridade da informação;\n\nq) Assegurar, directamente ou através dos seus serviços integrados, as actividades comuns de administração e gestão de recursos humanos, financeiros, patrimoniais e orçamentais, dos serviços da administração directa do MNE;\n\nr) Coordenar a actividade do MNE em áreas que não relevam directamente da actividade político-diplomática;\n\ns) Assegurar o normal funcionamento do MNE nas áreas que não sejam da competência específica de outros serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+  },
+  "114559217": {
+   "fragment_id": "114582375",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2018-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - A SG é dirigida por um secretário-geral, que é o mais alto funcionário da hierarquia do MNE, coadjuvado por um secretário-geral-adjunto, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n2 - Junto do secretário-geral, que a eles preside, funcionam o Conselho Diplomático, o Conselho de Diretores-Gerais e o Conselho Coordenador Político-Diplomático.\n\n3 - Para apoio ao secretário-geral no exercício das suas funções, pode ser designado o seguinte pessoal do quadro diplomático:\n\na) Um funcionário diplomático com categoria não inferior a conselheiro de embaixada, equiparado, para efeitos remuneratórios a cargo de direcção intermédia de 1.º grau;\n\nb) Dois funcionários diplomáticos com a categoria de secretário ou de adido de embaixada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+  },
+  "114559236": {
+   "fragment_id": "114582376",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretário-geral",
+   "in_force_from": "2018-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+   ],
+   "markdown": "###### Artigo 4.º — Secretário-geral\n\n1 - Sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao secretário-geral:\n\na) Prestar o apoio necessário ao ministro e demais membros do Governo;\n\nb) Representar o MNE, no caso de ausência ou impedimento dos membros do Governo;\n\nc) Promover o desenvolvimento das linhas estratégicas da política externa portuguesa;\n\nd) Coordenar a actividade dos serviços do MNE, de modo a garantir o seu normal funcionamento, nas áreas que não sejam da competência específica de outros serviços;\n\ne) Promover as acções indispensáveis à adequada gestão dos funcionários diplomáticos e da respectiva carreira, exercendo as competências que lhe são cometidas pelo estatuto daqueles funcionários;\n\nf) Articular a acção do Fundo para as Relações Internacionais, I. P.;\n\ng) Receber e conferenciar com os membros do corpo diplomático em Lisboa e comunicar-lhe as respostas que obriguem o Governo;\n\nh) Participar nas cerimónias de entrega de cartas credenciais pelos chefes de missões diplomáticas acreditados em Portugal;\n\ni) Convocar e presidir às reuniões do Conselho Diplomático, do Conselho dos Diretores-Gerais e do Conselho Coordenador Político-Diplomático.\n\nj) Afectar, por despacho, os trabalhadores do mapa do MNE colocados nos serviços internos, excepto os que ocupem cargos dirigentes, ouvido, quando se tratar de outros serviços, o respectivo responsável máximo;\n\nk) Dar posse aos funcionários diplomáticos colocados nos serviços internos, à excepção dos embaixadores e dos titulares dos cargos de direcção superior de 1.º grau;\n\nl) Transmitir, no âmbito da sua competência, instruções gerais aos funcionários diplomáticos colocados nos serviços internos ou nos serviços periféricos externos;\n\nm) Presidir, por inerência, à Comissão Nacional da Unesco.\n\n2 - O secretário-geral-adjunto exerce as competências que lhe sejam delegadas ou subdelegadas pelo secretário-geral, competindo substituí-lo nas suas faltas e impedimentos.\n\n3 - A competência para presidir à Comissão Nacional da UNESCO pode ser delegada noutro funcionário diplomático com a categoria de embaixador ou de ministro-plenipotenciário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+  },
+  "114559218": {
+   "fragment_id": "114582406",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Conselho Coordenador Político-Diplomático",
+   "in_force_from": "2018-01-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+   ],
+   "markdown": "###### Artigo 7.º-A — Conselho Coordenador Político-Diplomático\n\n1 - O Conselho Coordenador Político-Diplomático tem por missão assistir, no exercício das respetivas funções de coordenação da atividade dos serviços do MNE, o secretário-geral, nos assuntos de natureza estratégica, e o diretor-geral de política externa, nos assuntos de natureza político-diplomática.\n\n2 - Participam nas reuniões do Conselho Coordenador Político-Diplomático, além do secretário-geral:\n\na) O diretor-geral de política externa;\n\nb) O diretor-geral dos assuntos europeus;\n\nc) O diretor-geral dos assuntos consulares e comunidades portuguesas;\n\nd) O presidente da AICEP, E. P. E.;\n\ne) O presidente do Camões - Instituto da Cooperação e da Língua, I. P.;\n\nf) Outros diretores-gerais do MNE, quando a sua presença seja necessária face à natureza das questões a analisar;\n\ng) Quaisquer outros funcionários, sempre que, em razão dos assuntos a discutir, sejam convocados pelo secretário-geral ou pelo diretor-geral de política externa.\n\n3 - Na ausência ou impedimento do secretário-geral, ou em urgentes matérias político-diplomáticas, compete ao diretor-geral da DGPE convocar e assegurar a presidência do Conselho Coordenador Político-Diplomático.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+  },
+  "114559219": {
+   "fragment_id": "114582380",
+   "type": 11,
+   "heading": "Artigo 8.º — Protocolo do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Protocolo do Estado\n\n1 - O Protocolo do Estado prossegue as seguintes atribuições:\n\na) Definir o conjunto das regras que devem regular o cerimonial, a etiqueta e pragmática de acordo com as práticas internacionais vigentes e as tradições e costumes do Estado Português;\n\nb) Verificar o cumprimento e determinar a plena execução das normas e regulamentos que se referem às dispensas e privilégios que caracterizam o estatuto diplomático;\n\nc) Ocupar-se da matéria das condecorações cuja concessão decorre da vida internacional e das relações diplomáticas;\n\nd) Assegurar o tratamento das deslocações oficiais que se organizam no âmbito das relações diplomáticas entre Estados soberanos e entre estes e as organizações internacionais.\n\n2 - O Protocolo do Estado é dirigido pelo chefe do Protocolo do Estado, coadjuvado por um subchefe do Protocolo do Estado, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "114559220": {
+   "fragment_id": "114582381",
+   "type": 11,
+   "heading": "Artigo 9.º — Chefe do Protocolo do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Chefe do Protocolo do Estado\n\n1 - Sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao chefe do Protocolo do Estado:\n\na) Uniformizar a actuação protocolar dos órgãos de soberania em todas as actividades que tenham incidência na vida internacional;\n\nb) Preparar e acompanhar as deslocações oficiais ao estrangeiro do Chefe do Estado;\n\nc) Acompanhar as cerimónias de apresentação e entrega de cartas credenciais dos chefes das missões diplomáticas acreditados em Portugal;\n\nd) Formular parecer sobre os programas de recepção em visitas oficiais de primeiros-ministros, ministros dos negócios estrangeiros e de altos funcionários de organizações internacionais;\n\ne) Integrar comissões organizadoras de grandes celebrações nacionais, nomeadamente o «Dia de Portugal, de Camões e das Comunidades Portuguesas» e de cerimónias que se revistam de especial significado.\n\n2 - O subchefe do Protocolo do Estado exerce as competências que lhe sejam delegadas ou subdelegadas pelo chefe do Protocolo do Estado, competindo substituí-lo nas suas faltas e impedimentos."
+  },
+  "114559221": {
+   "fragment_id": "114582382",
+   "type": 11,
+   "heading": "Artigo 10.º — Departamento Geral de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Departamento Geral de Administração\n\n1 - O Departamento Geral da Administração, abreviadamente designado por DGA, é o serviço da SG ao qual compete a gestão dos recursos humanos e a administração financeira e patrimonial dos serviços do MNE.\n\n2 - O DGA prossegue as seguintes atribuições:\n\na) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública;\n\nb) Apoiar os serviços e organismos do MNE na respectiva implementação;\n\nc) Assegurar a gestão dos recursos humanos do MNE;\n\nd) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\ne) Gerir e zelar pela conservação dos recursos patrimoniais dos serviços internos e dos serviços periféricos externos do MNE;\n\nf) Promover a necessária renovação desses recursos patrimoniais dos serviços internos e dos serviços periféricos externos, em articulação com os organismos competentes;\n\ng) Assegurar a gestão financeira e orçamental do MNE;\n\nh) Assegurar a elaboração dos orçamentos de funcionamento e de investimento da sua esfera de competência e a coordenação dos relativos aos restantes serviços do MNE, bem como acompanhar a respectiva execução;\n\ni) Coordenar e prestar apoio técnico e administrativo, no âmbito da gestão financeira e orçamental e dos recursos humanos, aos serviços periféricos externos ou a outros serviços da administração directa do MNE, que partilhem serviços comuns com a Secretaria-Geral;\n\nj) Articular os serviços periféricos externos do MNE com os serviços competentes do Ministério das Finanças, na área da administração financeira;\n\nl) Gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados;\n\nm) Assegurar a gestão da mala diplomática e do expediente de correspondência do MNE;\n\nn) Assegurar as funções da unidade ministerial de compras;\n\no) Solicitar aos restantes serviços todos os elementos de informação considerados pertinentes ao exercício das suas competências, no âmbito dos serviços partilhados;\n\np) Propor, no quadro das competências decorrentes da partilha de serviços, a adopção dos instrumentos de gestão, avaliação e controlo.\n\n3 - O DGA é dirigido por um director, coadjuvado por um director-adjunto, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "114559222": {
+   "fragment_id": "114582383",
+   "type": 11,
+   "heading": "Artigo 11.º — Director do Departamento Geral de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Director do Departamento Geral de Administração\n\n1 - Sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director do DGA:\n\na) Prestar o apoio necessário ao ministro e demais membros do Governo, designadamente nas áreas financeiras e orçamentais;\n\nb) Coordenar os serviços do DGA;\n\nc) Promover e coordenar, em articulação com os restantes serviços do MNE, a elaboração dos projectos de orçamento de funcionamento e de investimento, bem como o acompanhamento e avaliação da execução orçamental do MNE;\n\nd) Autorizar a realização de despesas de acordo com os limites legais;\n\ne) Participar em comissões e organismos nacionais ou internacionais e em reuniões ou conferências nacionais ou internacionais, que versem matéria de competência do DGA;\n\nf) Assegurar a elaboração de planos e relatórios de actividades e outros instrumentos de gestão e coordenar a actividade do DGA, de modo a garantir o seu normal e eficiente funcionamento.\n\n2 - O director-adjunto exerce as competências que lhe sejam delegadas ou subdelegadas pelo director do DGA, competindo substituí-lo nas suas faltas e impedimentos."
+  },
+  "114559223": {
+   "fragment_id": "114582384",
+   "type": 11,
+   "heading": "Artigo 12.º — Departamento de Assuntos Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Departamento de Assuntos Jurídicos\n\n1 - O Departamento de Assuntos Jurídicos, abreviadamente designado por DAJ, é o serviço da SG ao qual compete:\n\na) Elaborar pareceres, responder a consultas e elaborar estudos sobre matérias de natureza jurídica, tanto interna como internacional;\n\nb) Assegurar a representação do MNE nos processos de contencioso administrativo, preparando peças processuais e acompanhando os processos nas suas diferentes fases processuais;\n\nc) Apoiar as entidades competentes na preparação e acompanhamento de quaisquer processos ou procedimentos em que estejam envolvidos serviços do MNE;\n\nd) Proceder à transmissão e recebimento dos processos de extradição;\n\ne) Proceder à transmissão e recebimento de cartas rogatórias e precatórias, assim como de outros actos judiciários interessando países estrangeiros;\n\nf) Preparar e assegurar a participação portuguesa na negociação de tratados e de acordos internacionais que versem a protecção da pessoa e a cooperação jurídica, em colaboração com os serviços do MNE e de outros departamentos governamentais;\n\ng) Acompanhar a negociação de outros tratados e acordos internacionais;\n\nh) Acompanhar o processo destinado a ultimar a vinculação internacional do Estado Português;\n\ni) Exercer as funções de depositário dos tratados e dos acordos internacionais, quando o Estado Português tenha sido designado para esse efeito;\n\nj) Acompanhar questões contenciosas internacionais em que o Estado Português seja parte;\n\nl) Assegurar a tradução dos documentos que se revele necessária à prossecução das atribuições do serviço, designadamente tratados e acordos internacionais.\n\n2 - O DAJ é dirigido por um director, cargo de direcção superior de 1.º grau."
+  },
+  "114559224": {
+   "fragment_id": "114582385",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência do director do Departamento de Assuntos Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência do director do Departamento de Assuntos Jurídicos\n\nSem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director do DAJ:\n\na) A coordenação e representação externa do DAJ;\n\nb) A participação em comissões nacionais ou internacionais e em reuniões ou conferências internacionais que versem matéria de competência do DAJ ou que visem a negociação de instrumentos de direito internacional;\n\nc) A prestação de assistência nas questões contenciosas internacionais de que o Estado Português seja parte, nomeadamente exercer a função de agente do Estado junto do Tribunal Internacional de Justiça ou de outras instâncias judiciais internacionais quando superiormente determinado;\n\nd) A coordenação da colaboração com outros serviços, nomeadamente com o Instituto Diplomático, para a organização de cursos e de acções de formação, especialmente na área do direito internacional público."
+  },
+  "114559225": {
+   "fragment_id": "114582386",
+   "type": 11,
+   "heading": "Artigo 14.º — Instituto Diplomático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instituto Diplomático\n\n1 - O Instituto Diplomático, abreviadamente designado por IDI, é o serviço da SG ao qual compete:\n\na) Elaborar e promover a realização de trabalhos de investigação, estudos e pareceres na área das relações internacionais;\n\nb) Organizar, participar na organização e efectuar cursos, ciclos de estudos, seminários, encontros e estágios sobre temas incluídos na mesma área;\n\nc) Organizar e realizar cursos de formação inicial, complementar ou de actualização dos funcionários do quadro diplomático requeridos pelo seu estatuto profissional, nos termos que forem definidos pelo secretário-geral, bem como dos restantes grupos de pessoal do mapa do MNE;\n\nd) Fomentar a investigação e o estudo nos domínios da diplomacia e da recíproca interacção da política interna e internacional, por forma a contribuir para a definição e actualização da estratégia da política externa nacional;\n\ne) Assegurar a gestão, manutenção e actualização do sistema de documentação e biblioteca do MNE;\n\nf) Adoptar as medidas requeridas pela criação e disponibilização do espólio documental e museológico do MNE;\n\ng) Elaborar a sinopse e fazer a compilação dos actos solenes de carácter internacional de que Portugal seja parte, ou em que tenha interesse, bem como das decisões dos tribunais superiores portugueses em matéria de direito internacional e das decisões dos tribunais internacionais cuja jurisdição Portugal tenha aceite ou perante os quais tenha sido parte em estreita cooperação com o DAJ;\n\nh) Coordenar e orientar a produção e difusão das publicações e outro material de apoio às actividades do IDI e colaborar na edição de monografias, livros, revistas e outros meios de divulgação da problemática da política externa;\n\ni) Manter devidamente catalogadas as colecções bibliográficas e documentais à sua guarda, incluindo a legislação e as disposições de execução permanente relativas aos serviços do MNE, informatizando-as de harmonia com os princípios da biblioteconomia e assegurar o atendimento do público investigador;\n\nj) Proceder ao controlo e elaborar a calendarização das transferências e incorporações documentais;\n\nl) Avaliar a documentação que possui valor permanente e que, como tal, deve integrar o arquivo definitivo, bem como recomendar a eliminação da restante documentação, estabelecendo, nesse caso, os respectivos prazos de conservação;\n\nm) Manter a gestão do arquivo intermédio e gerir o arquivo definitivo;\n\nn) Avaliar e dar parecer sobre quais os documentos que devem permanecer classificados nos termos da lei.\n\n2 - O IDI é dirigido por um director, cargo de direcção superior de 2.º grau."
+  },
+  "114559226": {
+   "fragment_id": "114582387",
+   "type": 11,
+   "heading": "Artigo 15.º — Director do Instituto Diplomático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Director do Instituto Diplomático\n\nSem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director do IDI:\n\na) Superintender na preparação dos programas de formação levados a cabo pelo IDI;\n\nb) Acompanhar o desenvolvimento das acções empreendidas pelo IDI ou com o apoio deste;\n\nc) Zelar pela apresentação dos estudos que sejam solicitados aos serviços competentes do IDI;\n\nd) Garantir a existência dos meios documentais indispensáveis à prossecução dos objectivos do IDI;\n\ne) Manter permanentemente informado o secretário-geral do MNE, sobre as actividades do IDI."
+  },
+  "114559227": {
+   "fragment_id": "114582388",
+   "type": 11,
+   "heading": "Artigo 16.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Tipo de organização interna\n\nA organização interna dos serviços da SG obedece ao modelo de estrutura hierarquizada."
+  },
+  "114559228": {
+   "fragment_id": "114582389",
+   "type": 11,
+   "heading": "Artigo 17.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Receitas\n\n1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A SG dispõe ainda das seguintes receitas próprias, que ficam consignadas a fins específicos:\n\na) As receitas provenientes de patrocínios para publicações, conferências e seminários e da venda de publicações promovidas pelo MNE ficam consignadas a despesas de idêntica natureza;\n\nb) As receitas cobradas pela SG no âmbito do Despacho n.º 8617/2002, publicado no Diário da República, 2.ª série, n.º 99, de 29 de Abril de 2002, ficam consignadas às despesas de funcionamento.\n\n3 - As seguintes receitas cobradas pelos serviços periféricos externos do MNE, cuja gestão e acompanhamento na execução compete à SG, ficam consignados a fins específicos:\n\na) As receitas provenientes da devolução de taxas e impostos indirectos pagos na aquisição de bens e serviços nos mercados locais ficam consignados às suas despesas de funcionamento;\n\nb) As receitas resultantes das reposições relativas a socorros e a repatriações e da venda de impressos destinados a actos sujeitos a emolumentos consulares ficam consignadas às despesas de idêntica natureza;\n\nc) As receitas cobradas no âmbito das despesas de correio, telefone, telecópia, comunicação de dados e telex, previstas na tabela de emolumentos consulares, ficam consignadas às despesas de idêntica natureza;\n\nd) As receitas resultantes da disponibilização de serviços de interesse para os utentes por parte dos serviços periféricos externos do MNE ficam consignadas às suas despesas de funcionamento.\n\n4 - As receitas referidas nos n.os 2 e 3 obedecem ao regime de tesouraria do Estado e são consignadas à realização das respectivas despesas durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos da lei."
+  },
+  "114559229": {
+   "fragment_id": "114582390",
+   "type": 11,
+   "heading": "Artigo 18.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Despesas\n\nConstituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "114559230": {
+   "fragment_id": "114582391",
+   "type": 11,
+   "heading": "Artigo 19.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual fazem parte integrante."
+  },
+  "114559231": {
+   "fragment_id": "114582392",
+   "type": 11,
+   "heading": "Artigo 20.º — Designação dos titulares dos cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Designação dos titulares dos cargos dirigentes\n\nNos termos do n.º 6 do artigo 20.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, podem ser designados, nos termos da lei geral, os seguintes cargos dirigentes:\n\na) Todos os cargos de direcção superior e de direcção intermédia do DGA;\n\nb) Todos os cargos de direcção superior e de direcção intermédia do DAJ;\n\nc) Todos os cargos de direcção superior e de direcção intermédia do IDI;\n\nd) O cargo de direcção intermédia de 1.º grau da unidade orgânica que integre a Cifra e Informática;\n\ne) Todos os cargos de direcção intermédia de 2.º grau, excepto o que se ocupe de matéria da Cifra."
+  },
+  "114559232": {
+   "fragment_id": "114582393",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nNos termos do artigo 28.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, considera-se revogado, na data da entrada em vigor do presente decreto regulamentar, o Decreto-Lei n.º 117/2007, de 27 de Abril, alterado pelo Decreto-Lei n.º 164/2009, de 22 de Julho."
+  },
+  "114559233": {
+   "fragment_id": "114582394",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "114559234": {
+   "fragment_id": "114582395",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas.\n\nPromulgado em 10 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 12 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "114559235": {
+   "fragment_id": "114582396",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 19.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 19.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "162998585": {
+   "fragment_id": "114561774",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2021-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar as funções de apoio político diplomático, técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no MNE, nos domínios do desenvolvimento das linhas estratégicas da política externa portuguesa, da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, do apoio jurídico e contencioso, das tecnologias de informação e comunicação, da formação do pessoal, da diplomacia pública e da informação, acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério, podendo preparar e executar atividades administrativas dos demais serviços do MNE, e ainda, assegurar a prestação de apoio técnico especializado à intervenção em matéria de política externa das diferentes áreas governativas, de forma a garantir, através dos serviços e organismos tutelados pela área governativa dos negócios estrangeiros, a unidade da ação externa do Estado.\n\n2 - A preparação e execução pela Secretaria-Geral das actividades administrativas dos serviços da administração indirecta do MNE, são regulamentados em diploma próprio.\n\n3 - A SG prossegue as seguintes atribuições:\n\na) Promover o desenvolvimento das linhas estratégicas da política externa portuguesa nas suas distintas dimensões;\n\nb) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MNE na respectiva execução, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nc) Assegurar a elaboração dos orçamentos de funcionamento e de investimento do MNE, bem como acompanhar a respectiva execução;\n\nd) Gerir e zelar pela conservação dos recursos patrimoniais dos serviços internos e serviços periféricos externos do MNE e promover a necessária renovação desses meios, em articulação com os organismos competentes;\n\ne) Assegurar o exercício das funções desempenhadas pelo Protocolo do Estado, legalmente cometidas ao MNE;\n\nf) Assegurar o apoio técnico-jurídico e contencioso aos serviços internos e aos serviços periféricos externos do MNE, bem como acompanhar a negociação de tratados e de acordos internacionais;\n\ng) Coligir e publicar os documentos relativos à política externa portuguesa, de acordo com as orientações do ministro, bem como coordenar a organização e preservação do património e do arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do MNE e procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;\n\nh) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização, o reforço da utilização das tecnologias de informação e comunicação e a política de qualidade, no âmbito do MNE, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;\n\ni) Programar e coordenar as medidas que promovam a formação ao longo da vida dos funcionários diplomáticos e do restante pessoal do MNE;\n\nj)  Promover uma política de informação e diplomacia pública, garantindo a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MNE;\n\nk) Gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados;\n\nl) Assegurar as funções de unidade ministerial de compras;\n\nm) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial em articulação com a entidade gestora da mobilidade, nos termos legais;\n\nn) Assegurar o desenvolvimento dos sistemas de avaliação de serviços no âmbito do MNE, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas na lei sobre esta matéria;\n\no) Assegurar a gestão da mala diplomática e do expediente de correspondência do MNE;\n\np) Assegurar a expedição, recepção e processamento dos telegramas, telecópias e aerogramas, enviados e recebidos através do MNE, bem como garantir a segurança, confidencialidade e integridade da informação;\n\nq) Assegurar, directamente ou através dos seus serviços integrados, as actividades comuns de administração e gestão de recursos humanos, financeiros, patrimoniais e orçamentais, dos serviços da administração directa do MNE;\n\nr) Coordenar a actividade do MNE em áreas que não relevam directamente da actividade político-diplomática;\n\ns) Assegurar o normal funcionamento do MNE nas áreas que não sejam da competência específica de outros serviços;\n\nt) Promover o apoio técnico especializado, em estreita colaboração com as áreas governativas relevantes em cada matéria, designadamente, nas seguintes áreas:\n\ni) Grandes questões globais internacionais, tais como as relativas ao clima, ambiente, oceanos, água e energia, assim como à evolução da situação geopolítica e do multilateralismo, à ação das organizações internacionais e às novas diplomacias, como a diplomacia cultural e a diplomacia digital;\n\nii) Segurança marítima e Direito do mar;\n\niii) Mercado interno europeu e comércio;\n\niv) Avaliação e monitorização de situações de segurança com impacto sobre portugueses no estrangeiro;\n\nv) Investigação e análise estratégica;\n\nvi) Formação em assuntos europeus e relações internacionais;\n\nvii) Direito internacional e negociação;\n\nviii) Contencioso do Estado no estrangeiro e cooperação judiciária internacional;\n\nix) Organização, comunicação e diplomacia pública.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+  },
+  "162998586": {
+   "fragment_id": "114582377",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços integrados na SG",
+   "in_force_from": "2021-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+   ],
+   "markdown": "###### Artigo 5.º — Serviços integrados na SG\n\nA SG integra:\n\na) As unidades orgânicas nucleares que funcionam directamente junto do secretário-geral;\n\nb) O Protocolo de Estado;\n\nc) O Departamento Geral de Administração;\n\nd) O Departamento de Assuntos Jurídicos;\n\ne) O Instituto Diplomático;\n\nf) O Centro de Competências de Apoio à Política Externa.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+  },
+  "162993355": {
+   "fragment_id": "162940771",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Centro de Competências de Apoio à Política Externa",
+   "in_force_from": "2021-05-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+   ],
+   "markdown": "###### Artigo 15.º-A — Centro de Competências de Apoio à Política Externa\n\nO Centro de Competências de Apoio à Política Externa é o serviço ao qual compete, em estreita coordenação com os outros serviços do MNE, o apoio técnico especializado às áreas governativas relevantes em cada matéria, designadamente, nas seguintes vertentes:\n\na) Grandes questões globais internacionais, tais como as relativas ao clima, ambiente, oceanos, água e energia, assim como à evolução da situação geopolítica e do multilateralismo, à ação das organizações internacionais e às novas diplomacias, como a diplomacia cultural e a diplomacia digital;\n\nb) Segurança marítima e Direito do mar;\n\nc) Mercado interno europeu e comércio;\n\nd) Avaliação e monitorização de situações de segurança com impacto sobre portugueses no estrangeiro;\n\ne) Investigação e análise estratégica;\n\nf) Formação em assuntos europeus e relações internacionais;\n\ng) Direito internacional e negociação;\n\nh) Contencioso do Estado no estrangeiro e cooperação judiciária internacional;\n\ni) Organização, comunicação e diplomacia pública.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+  },
+  "162993365": {
+   "fragment_id": "162940772",
+   "type": 11,
+   "heading": "Artigo 15.º-B — Direção do Centro de Competências de Apoio à Política Externa",
+   "in_force_from": "2021-05-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+   ],
+   "markdown": "###### Artigo 15.º-B — Direção do Centro de Competências de Apoio à Política Externa\n\nSem prejuízo das competências que lhe sejam conferidas por lei, regulamento ou que nele sejam delegadas ou subdelegadas, compete ao Secretário-Geral do MNE, com faculdade de delegação:\n\na) Dirigir o CAPE;\n\nb) Proceder à distribuição das tarefas pelos técnicos superiores, no contexto das atribuições dos diferentes serviços internos e organismos tutelados pelo MNE;\n\nc) Designar os chefes de equipas multidisciplinares;\n\nd) Avaliar o desempenho profissional dos técnicos superiores, em colaboração com os responsáveis dos órgãos ou serviços do MNE a que aqueles tenham prestado apoio relevante;\n\ne) Representar o CAPE junto de outros serviços e de entidades nacionais, internacionais e estrangeiras.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+  },
+  "162998575": {
+   "fragment_id": "162940773",
+   "type": 11,
+   "heading": "Artigo 15.º-C — Dotação e estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": "2021-05-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+   ],
+   "markdown": "###### Artigo 15.º-C — Dotação e estatuto remuneratório dos chefes de equipas multidisciplinares\n\n1 - O número máximo de chefes de equipas multidisciplinares não pode exceder quatro.\n\n2 - Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a dirigente intermédio de 1.º ou 2.º grau, nos seguintes termos:\n\na) Dois com estatuto remuneratório equiparado a cargo de direção intermédia de 1.º grau;\n\nb) Dois com estatuto remuneratório equiparado a cargo de direção intermédia de 2.º grau.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+  },
+  "162998587": {
+   "fragment_id": "114582388",
+   "type": 11,
+   "heading": "Artigo 16.º — Tipo de organização interna",
+   "in_force_from": "2021-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+   ],
+   "markdown": "###### Artigo 16.º — Tipo de organização interna\n\nA organização interna dos serviços da SG obedece ao modelo de estrutura hierarquizada, com exceção do Centro de Competências de Apoio à Política Externa que obedece ao modelo de estrutura matricial.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+  },
+  "162998577": {
+   "fragment_id": "114582389",
+   "type": 11,
+   "heading": "Artigo 17.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Receitas\n\n1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A SG dispõe ainda das seguintes receitas próprias, que ficam consignadas a fins específicos:\n\na) As receitas provenientes de patrocínios para publicações, conferências e seminários e da venda de publicações promovidas pelo MNE ficam consignadas a despesas de idêntica natureza;\n\nb) As receitas cobradas pela SG no âmbito do Despacho n.º 8617/2002, publicado no Diário da República, 2.ª série, n.º 99, de 29 de Abril de 2002, ficam consignadas às despesas de funcionamento.\n\n3 - As seguintes receitas cobradas pelos serviços periféricos externos do MNE, cuja gestão e acompanhamento na execução compete à SG, ficam consignados a fins específicos:\n\na) As receitas provenientes da devolução de taxas e impostos indirectos pagos na aquisição de bens e serviços nos mercados locais ficam consignados às suas despesas de funcionamento;\n\nb) As receitas resultantes das reposições relativas a socorros e a repatriações e da venda de impressos destinados a actos sujeitos a emolumentos consulares ficam consignadas às despesas de idêntica natureza;\n\nc) As receitas cobradas no âmbito das despesas de correio, telefone, telecópia, comunicação de dados e telex, previstas na tabela de emolumentos consulares, ficam consignadas às despesas de idêntica natureza;\n\nd) As receitas resultantes da disponibilização de serviços de interesse para os utentes por parte dos serviços periféricos externos do MNE ficam consignadas às suas despesas de funcionamento.\n\n4 - As receitas referidas nos n.os 2 e 3 obedecem ao regime de tesouraria do Estado e são consignadas à realização das respectivas despesas durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos da lei."
+  },
+  "162998578": {
+   "fragment_id": "114582390",
+   "type": 11,
+   "heading": "Artigo 18.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Despesas\n\nConstituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "162998579": {
+   "fragment_id": "114582391",
+   "type": 11,
+   "heading": "Artigo 19.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual fazem parte integrante."
+  },
+  "162998580": {
+   "fragment_id": "114582392",
+   "type": 11,
+   "heading": "Artigo 20.º — Designação dos titulares dos cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Designação dos titulares dos cargos dirigentes\n\nNos termos do n.º 6 do artigo 20.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, podem ser designados, nos termos da lei geral, os seguintes cargos dirigentes:\n\na) Todos os cargos de direcção superior e de direcção intermédia do DGA;\n\nb) Todos os cargos de direcção superior e de direcção intermédia do DAJ;\n\nc) Todos os cargos de direcção superior e de direcção intermédia do IDI;\n\nd) O cargo de direcção intermédia de 1.º grau da unidade orgânica que integre a Cifra e Informática;\n\ne) Todos os cargos de direcção intermédia de 2.º grau, excepto o que se ocupe de matéria da Cifra."
+  },
+  "162998581": {
+   "fragment_id": "114582393",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nNos termos do artigo 28.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, considera-se revogado, na data da entrada em vigor do presente decreto regulamentar, o Decreto-Lei n.º 117/2007, de 27 de Abril, alterado pelo Decreto-Lei n.º 164/2009, de 22 de Julho."
+  },
+  "162998582": {
+   "fragment_id": "114582394",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "162998583": {
+   "fragment_id": "114582395",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas.\n\nPromulgado em 10 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 12 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "162998584": {
+   "fragment_id": "114582396",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 19.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 19.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "914882315": {
+   "fragment_id": "114561774",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2025-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar as funções de apoio político diplomático, técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no MNE, nos domínios do desenvolvimento das linhas estratégicas da política externa portuguesa, da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, das tecnologias de informação e comunicação, da formação do pessoal, da diplomacia pública e da informação, acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério, podendo preparar e executar atividades administrativas dos demais serviços do MNE, e ainda assegurar a prestação de apoio técnico especializado à intervenção em matéria de política externa das diferentes áreas governativas, de forma a garantir, através dos serviços e organismos tutelados pela área governativa dos negócios estrangeiros, a unidade da ação externa do Estado.\n\n2 - A preparação e execução pela Secretaria-Geral das actividades administrativas dos serviços da administração indirecta do MNE, são regulamentados em diploma próprio.\n\n3 - A SG prossegue as seguintes atribuições:\n\na) Promover o desenvolvimento das linhas estratégicas da política externa portuguesa nas suas distintas dimensões;\n\nb) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MNE na respectiva execução, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nc) Assegurar a elaboração dos orçamentos de funcionamento e de investimento do MNE, bem como acompanhar a respectiva execução;\n\nd) Gerir e zelar pela conservação dos recursos patrimoniais dos serviços internos e serviços periféricos externos do MNE e promover a necessária renovação desses meios, em articulação com os organismos competentes;\n\ne) Assegurar o exercício das funções desempenhadas pelo Protocolo do Estado, legalmente cometidas ao MNE;\n\nf) [Revogada;]\n\ng) Coligir e publicar os documentos relativos à política externa portuguesa, de acordo com as orientações do ministro, bem como coordenar a organização e preservação do património e do arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do MNE e procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;\n\nh) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização, o reforço da utilização das tecnologias de informação e comunicação e a política de qualidade, no âmbito do MNE, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;\n\ni) Programar e coordenar as medidas que promovam a formação ao longo da vida dos funcionários diplomáticos e do restante pessoal do MNE;\n\nj)  Promover uma política de informação e diplomacia pública, garantindo a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MNE;\n\nk) Gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados;\n\nl) Assegurar as funções de unidade ministerial de compras;\n\nm) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial em articulação com a entidade gestora da mobilidade, nos termos legais;\n\nn) Assegurar o desenvolvimento dos sistemas de avaliação de serviços no âmbito do MNE, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas na lei sobre esta matéria;\n\no) Assegurar a gestão da mala diplomática e do expediente de correspondência do MNE;\n\np) Assegurar a expedição, recepção e processamento dos telegramas, telecópias e aerogramas, enviados e recebidos através do MNE, bem como garantir a segurança, confidencialidade e integridade da informação;\n\nq) Assegurar, directamente ou através dos seus serviços integrados, as actividades comuns de administração e gestão de recursos humanos, financeiros, patrimoniais e orçamentais, dos serviços da administração directa do MNE;\n\nr) Coordenar a actividade do MNE em áreas que não relevam directamente da actividade político-diplomática;\n\ns) Assegurar o normal funcionamento do MNE nas áreas que não sejam da competência específica de outros serviços;\n\nt) Promover o apoio técnico especializado, em estreita colaboração com as áreas governativas relevantes em cada matéria, designadamente, nas seguintes áreas:\n\ni) Grandes questões globais internacionais, tais como as relativas ao clima, ambiente, oceanos, água e energia, assim como à evolução da situação geopolítica e do multilateralismo, à ação das organizações internacionais e às novas diplomacias, como a diplomacia cultural e a diplomacia digital;\n\nii) Segurança marítima e Direito do mar;\n\niii) Mercado interno europeu e comércio;\n\niv) Avaliação e monitorização de situações de segurança com impacto sobre portugueses no estrangeiro;\n\nv) Investigação e análise estratégica;\n\nvi) Formação em assuntos europeus e relações internacionais;\n\nvii) [Revogada;]\n\nviii) [Revogada;]\n\nix) Organização, comunicação e diplomacia pública.\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2018 - Diário da República n.º 18/2018, Série I de 2018-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2018-114561767), em vigor a partir de 2018-01-26"
+  },
+  "914882317": {
+   "fragment_id": "114582377",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços integrados na SG",
+   "in_force_from": "2025-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+   ],
+   "markdown": "###### Artigo 5.º — Serviços integrados na SG\n\nA SG integra:\n\na) As unidades orgânicas nucleares que funcionam directamente junto do secretário-geral;\n\nb) O Protocolo de Estado;\n\nc) O Departamento Geral de Administração;\n\nd) [Revogada;]\n\ne) O Instituto Diplomático;\n\nf) O Centro de Competências de Apoio à Política Externa.\n\n> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2021 - Diário da República n.º 89/2021, Série I de 2021-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2021-162940683), em vigor a partir de 2021-05-12"
+  },
+  "914882319": {
+   "fragment_id": "114582384",
+   "type": 11,
+   "heading": "Artigo 12.º — Departamento de Assuntos Jurídicos",
+   "in_force_from": "2025-04-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12"
+   ],
+   "markdown": "###### Artigo 12.º — Departamento de Assuntos Jurídicos\n\n1 - O Departamento de Assuntos Jurídicos, abreviadamente designado por DAJ, é o serviço da SG ao qual compete:\n\na) Elaborar pareceres, responder a consultas e elaborar estudos sobre matérias de natureza jurídica, tanto interna como internacional;\n\nb) Assegurar a representação do MNE nos processos de contencioso administrativo, preparando peças processuais e acompanhando os processos nas suas diferentes fases processuais;\n\nc) Apoiar as entidades competentes na preparação e acompanhamento de quaisquer processos ou procedimentos em que estejam envolvidos serviços do MNE;\n\nd) Proceder à transmissão e recebimento dos processos de extradição;\n\ne) Proceder à transmissão e recebimento de cartas rogatórias e precatórias, assim como de outros actos judiciários interessando países estrangeiros;\n\nf) Preparar e assegurar a participação portuguesa na negociação de tratados e de acordos internacionais que versem a protecção da pessoa e a cooperação jurídica, em colaboração com os serviços do MNE e de outros departamentos governamentais;\n\ng) Acompanhar a negociação de outros tratados e acordos internacionais;\n\nh) Acompanhar o processo destinado a ultimar a vinculação internacional do Estado Português;\n\ni) Exercer as funções de depositário dos tratados e dos acordos internacionais, quando o Estado Português tenha sido designado para esse efeito;\n\nj) Acompanhar questões contenciosas internacionais em que o Estado Português seja parte;\n\nl) Assegurar a tradução dos documentos que se revele necessária à prossecução das atribuições do serviço, designadamente tratados e acordos internacionais.\n\n2 - O DAJ é dirigido por um director, cargo de direcção superior de 1.º grau.\n\n> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12"
+  },
+  "914882320": {
+   "fragment_id": "114582385",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência do director do Departamento de Assuntos Jurídicos",
+   "in_force_from": "2025-04-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12"
+   ],
+   "markdown": "###### Artigo 13.º — Competência do director do Departamento de Assuntos Jurídicos\n\nSem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director do DAJ:\n\na) A coordenação e representação externa do DAJ;\n\nb) A participação em comissões nacionais ou internacionais e em reuniões ou conferências internacionais que versem matéria de competência do DAJ ou que visem a negociação de instrumentos de direito internacional;\n\nc) A prestação de assistência nas questões contenciosas internacionais de que o Estado Português seja parte, nomeadamente exercer a função de agente do Estado junto do Tribunal Internacional de Justiça ou de outras instâncias judiciais internacionais quando superiormente determinado;\n\nd) A coordenação da colaboração com outros serviços, nomeadamente com o Instituto Diplomático, para a organização de cursos e de acções de formação, especialmente na área do direito internacional público.\n\n> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12"
+  },
+  "914882318": {
+   "fragment_id": "114582392",
+   "type": 11,
+   "heading": "Artigo 20.º — Designação dos titulares dos cargos dirigentes",
+   "in_force_from": "2025-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12"
+   ],
+   "markdown": "###### Artigo 20.º — Designação dos titulares dos cargos dirigentes\n\nNos termos do n.º 6 do artigo 20.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, podem ser designados, nos termos da lei geral, os seguintes cargos dirigentes:\n\na) Todos os cargos de direcção superior e de direcção intermédia do DGA;\n\nb) [Revogada;]\n\nc) Todos os cargos de direcção superior e de direcção intermédia do IDI;\n\nd) O cargo de direcção intermédia de 1.º grau da unidade orgânica que integre a Cifra e Informática;\n\ne) Todos os cargos de direcção intermédia de 2.º grau, excepto o que se ocupe de matéria da Cifra.\n\n> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12"
+  },
+  "914882316": {
+   "fragment_id": "114582396",
+   "type": 14,
+   "heading": "Anexo — Mapa de pessoal dirigente",
+   "in_force_from": "2025-04-12",
+   "changed_by": [
+    "Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12"
+   ],
+   "markdown": "## Anexo — Mapa de pessoal dirigente\n\n(a que se refere o artigo 19.º)\n\n| Designação dos cargos dirigentes | Qualificação dos cargos dirigentes | Grau | Número de lugares |  |\n| --- | --- | --- | --- | --- |\n| Diretor-geral | Direção superior | 1.º | 3 |  |\n| Subdiretor-geral | Direção superior | 2.º | 4 |  |\n| Diretor de serviços | Direção intermédia | 1.º | 7 |  |\n\n> Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 67/2025 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263), em vigor a partir de 2025-04-12"
+  }
+ }
+}

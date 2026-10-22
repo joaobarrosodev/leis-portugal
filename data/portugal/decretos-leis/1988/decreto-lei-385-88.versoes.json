@@ -1,0 +1,1028 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:354121:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-34482175",
+ "dre_path": "/dr/detalhe/decreto-lei/385-1988-354121",
+ "source_lastmod": "2024-08-29",
+ "versions": [
+  {
+   "date": "1988-10-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886330493",
+    "46817075",
+    "46817175",
+    "46817275",
+    "46817375",
+    "46817475",
+    "46817575",
+    "46817675",
+    "46817775",
+    "46817875",
+    "46817975",
+    "46818075",
+    "46818175",
+    "46818275",
+    "46818375",
+    "46818475",
+    "46818575",
+    "46818675",
+    "46818775",
+    "46818875",
+    "46818975",
+    "46819075",
+    "46819175",
+    "46819275",
+    "46819375",
+    "46819475",
+    "46819575",
+    "46819675",
+    "46819775",
+    "46819875",
+    "46819975",
+    "46820075",
+    "46820175",
+    "46820275",
+    "46820375",
+    "46820475",
+    "46820575",
+    "46820675",
+    "46820775",
+    "46820875",
+    "46820975"
+   ]
+  },
+  {
+   "date": "1988-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:519064:por",
+     "title": "Declaração",
+     "published": "1988-11-30",
+     "dre_path": "/dr/detalhe/declaracao/1988-519064"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma",
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "886301300",
+    "46817075",
+    "886301301",
+    "46817275",
+    "46817375",
+    "46817475",
+    "46817575",
+    "46817675",
+    "46817775",
+    "46817875",
+    "46817975",
+    "46818075",
+    "46818175",
+    "46818275",
+    "46818375",
+    "46818475",
+    "46818575",
+    "46818675",
+    "46818775",
+    "46818875",
+    "46818975",
+    "46819075",
+    "46819175",
+    "46819275",
+    "46819375",
+    "46819475",
+    "46819575",
+    "46819675",
+    "46819775",
+    "46819875",
+    "46819975",
+    "46820075",
+    "46820175",
+    "46820275",
+    "46820375",
+    "46820475",
+    "46820575",
+    "46820675",
+    "46820775",
+    "46820875",
+    "46820975",
+    "46821075"
+   ]
+  },
+  {
+   "date": "1999-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632396:por",
+     "title": "Decreto-Lei n.º 524/99",
+     "published": "1999-12-10",
+     "dre_path": "/dr/detalhe/decreto-lei/524-1999-632396"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "886301300",
+    "46817075",
+    "886301301",
+    "46817275",
+    "46817375",
+    "886301305",
+    "46817575",
+    "886301306",
+    "46817775",
+    "46817875",
+    "46817975",
+    "46818075",
+    "46818175",
+    "46818275",
+    "46818375",
+    "46818475",
+    "46818575",
+    "46818675",
+    "46818775",
+    "46818875",
+    "46818975",
+    "46819075",
+    "46819175",
+    "46819275",
+    "46819375",
+    "46819475",
+    "46819575",
+    "46819675",
+    "46819775",
+    "46819875",
+    "46819975",
+    "46820075",
+    "46820175",
+    "46820275",
+    "46820375",
+    "46820475",
+    "46820575",
+    "46820675",
+    "46820775",
+    "46820875",
+    "46820975",
+    "46821075"
+   ]
+  },
+  {
+   "date": "2010-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491733:por",
+     "title": "Decreto-Lei n.º 294/2009",
+     "published": "2009-10-13",
+     "dre_path": "/dr/detalhe/decreto-lei/294-2009-491733"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "886330493",
+    "886330494",
+    "886330495",
+    "886330496",
+    "886330497",
+    "886330498",
+    "886330499",
+    "886330500",
+    "886330501",
+    "886330502",
+    "886330503",
+    "886330504",
+    "886330505",
+    "886330506",
+    "886330507",
+    "886330508",
+    "886330509",
+    "886330510",
+    "886330511",
+    "886330512",
+    "886330513",
+    "886330514",
+    "886330515",
+    "886330516",
+    "886330517",
+    "886330518",
+    "886330519",
+    "886330520",
+    "886330521",
+    "886330522",
+    "886330523",
+    "886330524",
+    "886330525",
+    "886330526",
+    "886330527",
+    "886330528",
+    "886330529",
+    "886330530",
+    "886330531",
+    "886330532",
+    "886330533",
+    "886330534"
+   ]
+  }
+ ],
+ "fragments": {
+  "886330493": {
+   "fragment_id": "35101975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2010-01-11",
+   "changed_by": [],
+   "markdown": "O presente diploma legal, disciplinando o regime geral do arrendamento rural, visa harmonizar os objectivos de política agrícola do Governo com as realidades fundiárias do País e, bem assim, conciliar os legítimos direitos e interesses dos proprietários das terras com os dos cultivadores e rendeiros, de acordo com a dimensão e a natureza, muito variada, das explorações agrícolas.\n\nConcretiza-se, assim, mais uma reforma estrutural anunciada pelo Governo e, com ela, é dado mais um passo importante para a necessária modernização da agricultura portuguesa.\n\nNo limiar da integração plena de Portugal nas Comunidades Europeias, impõe-se definir um quadro legal que potencie melhores condições de exploração da terra e competitividade externa.\n\nA introdução de novas tecnologias, o exercício da actividade agrícola em moldes empresariais, a reconversão de culturas e a fixação à terra das novas gerações nem sempre encontram nos proprietários da terra as pessoas mais indicadas.\n\nImpõe-se, assim, no respeito pelo direito de propriedade, estimular o arrendamento, garantindo ao proprietário a rentabilidade do investimento fundiário e assegurando ao rendeiro a estabilidade necessária ao exercício da sua actividade produtiva.\n\nNa sua essência, o presente diploma teve em conta a proposta de lei n.º 25/IV, que teve merecimento na Assembleia da República, com ampla aprovação maioritária.\n\nDo novo regime de arrendamento rural ressalta, desde logo, o alargamento do prazo para dez anos, renovável por períodos sucessivos de três anos. Por outro lado, mantendo-se o sistema de renda máxima tabelada por imperativos de ordem económica e social, admite-se a actualização da renda durante a vigência do contrato.\n\nA redução a escrito de todos os contratos de arrendamento, a regra geral de fixação da renda em dinheiro e a melhoria das garantias contenciosas das partes são outros tantos aspectos de salientar no novo regime de arrendamento.\n\nFinalmente, destaca-se a possibilidade de alargamento do prazo até 25 anos para protecção dos investimentos, a proibição do subarrendamento e o novo regime de denúncia em que se privilegia a exploração directa.\n\nAssim, no uso da autorização legislativa concedida pela Lei n.º 76/88, de 24 de Junho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "46817075": {
+   "fragment_id": "35521975",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Noção\n\n1 - A locação de prédios rústicos para fins de exploração agrícola ou pecuária, nas condições de uma regular utilização, denomina-se arrendamento rural.\n\n2 - Presume-se rural o arrendamento que recaia sobre prédios rústicos quando do contrato e respectivas circunstâncias não resulte destino diferente.\n\n3 - Para efeitos do n.º 1 deste artigo, são consideradas explorações pecuárias aquelas em que o empresário faça exploração do gado com base predominante forrageira própria.\n\n4 - São excluídas do âmbito da presente lei as explorações pecuárias sem terra."
+  },
+  "46817175": {
+   "fragment_id": "35522075",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O arrendamento rural, além do terreno e vegetação permanente de natureza não florestal, abrange ainda as construções destinadas habitualmente aos fins próprios da exploração normal dos prédios locados e também à habitação do arrendatário.\n\n2 - Salvo cláusula expressa em caso contrário, não se considera compreendido no arrendamento:\n\na) O arvoredo existente em terrenos destinados a corte de matos;\n\nb) As árvores florestais dispersas;\n\nc) A cortiça produzida por sobreiros existentes nos prédios locados;\n\nd) Quaisquer outros produtos e coisas que, existindo nos prédios locados, não satisfaçam os fins referidos no número anterior.\n\n3 - A presente lei não se aplica a arrendamentos para fins florestais, os quais são objecto de legislação especial."
+  },
+  "46817275": {
+   "fragment_id": "35522175",
+   "type": 11,
+   "heading": "Artigo 3.º — Forma de contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Forma de contrato\n\n1 - Os arrendamentos rurais, incluindo os arrendamentos ao agricultor autónomo, são obrigatoriamente reduzidos a escrito.\n\n2 - No prazo de 30 dias, contados da celebração do contrato, o senhorio entregará o original do contrato na repartição de finanças da sua residência habitual e uma cópia nos respectivos serviços regionais do Ministério da Agricultura, Pescas e Alimentação.\n\n3 - Qualquer das partes tem a faculdade de exigir, mediante notificação à outra parte, a redução a escrito do contrato.\n\n4 - A nulidade do contrato não pode ser invocada pela parte que, após notificação, tenha recusado a sua redução a escrito.\n\n5 - Os contratos de arrendamento rural não estão sujeitos a registo e são isentos de selo e de qualquer outro imposto, taxa ou emolumento."
+  },
+  "46817375": {
+   "fragment_id": "35522275",
+   "type": 11,
+   "heading": "Artigo 4.º — Cláusulas nulas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cláusulas nulas\n\nSão nulas as cláusulas contratuais em que:\n\na) O arrendatário se obrigue a vender as colheitas, no todo ou em parte, a entidades certas e determinadas;\n\nb) O arrendatário se obrigue ao pagamento de prémio de seguro contra incêndios de edifícios, bem como de contribuições, impostos ou taxas que incidam sobre prédios compreendidos no arrendamento e que sejam devidas pelo senhorio;\n\nc) Qualquer dos contraentes renuncie ao direito de pedir denúncia ou resolução do contrato e às indemnizações que forem devidas nos casos de violação de obrigações legais ou contratuais;\n\nd) O arrendatário renuncie ao direito de renovação do contrato ou se obrigue antecipadamente à sua denúncia;\n\ne) O arrendatário se obrigue por qualquer título a serviços que não revertam em benefício directo do prédio ou se sujeite a encargos extraordinários;\n\nf) As partes subordinem a eficácia ou validade do contrato a condição resolutiva ou suspensiva."
+  },
+  "46817475": {
+   "fragment_id": "35522375",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazos de arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prazos de arrendamento\n\n1 - Os arrendamentos rurais não podem ser celebrados por prazo inferior a dez anos, a contar da data em que tiverem início, valendo aquele se houver sido estipulado prazo mais curto.\n\n2 - Nos arrendamentos ao agricultor autónomo o prazo referido no número anterior e de sete anos.\n\n3 - Findos os prazos estabelecidos nos números anteriores, ou o convencionado, se for superior, entende-se renovado o contrato por períodos sucessivos de três anos ou de um ano, no caso de agricultor autónomo, enquanto o mesmo não for denunciado nos termos da presente lei.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396) A alteração introduzida ao n.º 3 do presente artigo pelo Decreto-Lei n.º 524/99, é aplicável aos contratos em vigor à data de 15 de dezembro de 1999, não se aplicando, porém, aos períodos de renovação em curso."
+  },
+  "46817575": {
+   "fragment_id": "35522475",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração dos prazos\n\n1 - Sempre que uma exploração agrícola objecto de arrendamento venha a ser reconvertida pelo arrendatário, o contrato tem a duração mínima fixada na decisão que aprove, em termos a definir, mediante portaria do Ministro da Agricultura, Pescas e Alimentação, o respectivo plano de reconversão.\n\n2 - Sobre o plano proposto será obrigatoriamente ouvido o senhorio, e se este apresentar objecções ou sugestões, devem as mesmas ser tomadas em conta na aprovação ou rejeição.\n\n3 - O prazo referido no n.º 1 não pode exceder 25 anos, devendo na sua fixação ser considerados o tempo já decorrido desde o início ou renovação do contrato, o valor económico da reconversão, o volume do investimento a fazer e o benefício resultante para o proprietário findo o contrato.\n\n4 - Findo o prazo fixado nos termos deste artigo, só por acordo expresso das partes pode haver continuação do arrendamento, a qual vale então como novo arrendamento.\n\n5 - A decisão aprobatória do plano será obrigatoriamente comunicada ao senhorio e ao arrendatário."
+  },
+  "46817675": {
+   "fragment_id": "35522575",
+   "type": 11,
+   "heading": "Artigo 7.º — Renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Renda\n\n1 - A renda será sempre estipulada em dinheiro, a menos que as partes a fixem expressamente em géneros e em dinheiro simultaneamente.\n\n2 - Caso a renda seja fixada parcialmente em géneros, estes não podem ir além de três espécies produzidas no prédio ou prédios arrendados.\n\n3 - Uma vez fixado o sistema de estipulação de renda, este não poderá ser alterado na vigência do contrato ou da sua renovação.\n\n4 - A renda é anual, só pode ser alterada nos termos do presente diploma e em caso algum pode ser convencionada a antecipação do seu pagamento.\n\n5 - A renda em dinheiro será paga em casa do senhorio, a menos que o contrato estipule outro local.\n\n6 - Caso a renda seja fixada, parcialmente, em géneros, estes serão entregues ao senhorio na sede da exploração agrícola do prédio arrendado.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396) A antecipação do pagamento de rendas prevista no n.º 4 do presente artigo, não obsta à actualização da renda nos termos dos artigos 8.º e 9.º do presente diploma."
+  },
+  "46817775": {
+   "fragment_id": "35522675",
+   "type": 11,
+   "heading": "Artigo 8.º — Actualização de rendas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Actualização de rendas\n\n1 - As rendas convencionadas em dinheiro ou a sua parte em dinheiro serão actualizáveis anualmente por iniciativa de qualquer das partes, não podendo, contudo, ultrapassar os limites fixados nas tabelas referidas no artigo 9.º\n\n2 - Na falta de acordo entre as partes, até decisão final com trânsito em julgado, vigorará a renda fixada pelo senhorio, desde que respeite os limites das tabelas em vigor."
+  },
+  "46817875": {
+   "fragment_id": "35522775",
+   "type": 11,
+   "heading": "Artigo 9.º — Tabelas de rendas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Tabelas de rendas\n\n1 - Os Ministros das Finanças e da Agricultura, Pescas e Alimentação estabelecerão por portaria as tabelas de rendas máximas nacionais, com base nos géneros agrícolas predominantes em cada região, na evolução dos seus preços correntes, na diferente natureza dos solos, nas formas do seu aproveitamento e quaisquer outros factores atendíveis, ouvidas as associações de agricultores.\n\n2 - As tabelas previstas no número anterior serão estabelecidas por regiões agrícolas e eventuais zonas agrárias, se estas existirem, e serão revistas com intervalos máximos de dois anos.\n\n3 - Se o contrato abranger edifícios, dependências, instalações ou outros equipamentos fixos, o valor da renda dos mesmos será referido expressamente no contrato, com destaque das restantes parcelas.\n\n4 - A portaria a que se refere o n.º 1 deste artigo pode referir o valor máximo da renda das partes a que se refere o número anterior, reportando tais valores a unidade de área."
+  },
+  "46817975": {
+   "fragment_id": "35522875",
+   "type": 11,
+   "heading": "Artigo 10.º — Redução de renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Redução de renda\n\n1 - Quando no prédio arrendado, por causas imprevisíveis e anormais, resultar, com carácter duradouro plurianual, diminuição significativa da capacidade produtiva do prédio, ao arrendatário assiste o direito de obter a resolução do contrato ou a fixação de nova renda, salvo se essa diminuição tiver sido resultante de práticas inadequadas de exploração.\n\n2 - Consideram-se causas imprevisíveis e anormais, além de outras, inundações, acidentes geológicos e ecológicos e pragas de natureza excepcional.\n\n3 - O disposto nos números anteriores não é aplicável aos acidentes susceptíveis de serem cobertos pelo seguro, nos termos da legislação portuguesa."
+  },
+  "46818075": {
+   "fragment_id": "35522975",
+   "type": 11,
+   "heading": "Artigo 11.º — Procedimento a adoptar para a redução ou fixação de nova renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento a adoptar para a redução ou fixação de nova renda\n\n1 - Os pedidos de redução de renda devem ser dirigidos ao senhorio, neles mencionando o arrendatário a renda que considera dever ser paga.\n\n2 - Os pedidos são formulados por escrito, no prazo máximo de 30 dias após o termo dos eventos causais do resultado invocado ou, se continuados, no decurso deles.\n\n3 - Presume-se que os referidos eventos não são fundamento para a redução da renda se o arrendatário não proporcionar ao senhorio a verificação dos sinais da sua ocorrência e os seus resultados.\n\n4 - No caso de os contratantes, nos 30 dias seguintes à formulação do respectivo pedido, não chegarem a acordo sobre a redução de renda, poderão recorrer ao tribunal, o qual fixará, no despacho saneador, a renda a vigorar transitoriamente até decisão final do pleito.\n\n5 - Enquanto a decisão judicial não transitar em julgado, o senhorio não pode requerer a resolução do contrato com base em falta de pagamento de renda, salvo aquela que o arrendatário propôs no pedido de redução até ao saneador, sendo-lhe, porém, devida a importância correspondente ao complemento da renda que lhe vier a ser fixada por decisão judicial, acrescida dos respectivos juros."
+  },
+  "46818175": {
+   "fragment_id": "35523075",
+   "type": 11,
+   "heading": "Artigo 12.º — Mora do arrendatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Mora do arrendatário\n\n1 - Se o arrendatário não pagar a renda no tempo e lugar próprios, o senhorio, decorridos 90 dias após a data de vencimento, tem direito a obter a resolução do contrato, sem perda da renda em falta, acrescida de juros de mora à taxa prevista no artigo 559.º do Código Civil.\n\n2 - Os juros de mora a que se refere o número anterior são calculadas para a totalidade do valor da renda anual, contabilizando-se os géneros aos preços oficiais ou, na falta destes, aos preços correntes na região, nos casos em que aqueles produtos figurem na renda estipulada.\n\n3 - O arrendatário poderá obstar à resolução do contrato desde que até ao encerramento da discussão em 1.ª instância proceda ao pagamento da renda ou rendas em falta acrescidas de juros de mora à taxa oficial das operações passivas respeitantes ao período de um ano e um dia."
+  },
+  "46818275": {
+   "fragment_id": "35523175",
+   "type": 11,
+   "heading": "Artigo 13.º — Subarrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Subarrendamento\n\n1 - Salvo acordo escrito do senhorio, ao arrendatário é proibido subarrendar ou ceder por comodato, total ou parcialmente, os prédios arrendados ou ainda ceder a terceiros a sua posição contratual.\n\n2 - A proibição expressa no número anterior abrange os «arrendamentos de campanha» e o «contrato de compra e venda de pastagens»."
+  },
+  "46818375": {
+   "fragment_id": "35523275",
+   "type": 11,
+   "heading": "Artigo 14.º — Benfeitorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Benfeitorias\n\n1 - O arrendatário pode fazer no prédio ou prédios arrendados benfeitorias úteis com o consentimento escrito do senhorio ou, na falta deste, mediante um plano de exploração a aprovar pelos serviços regionais do Ministério da Agricultura, Pescas e Alimentação no prazo de 90 dias a contar da recepção do pedido, depois de ouvidas as partes ou seus representantes.\n\n2 - O senhorio só pode fazer as benfeitorias úteis que sejam consentidas pelo arrendatário ou, na falta de consentimento escrito deste, aprovadas pelos serviços regionais do Ministério da Agricultura, Pescas e Alimentação no prazo de 90 dias a contar da recepção do pedido, depois de ouvidas as partes ou seus representantes.\n\n3 - As benfeitorias referidas no n.º 1 poderão implicar alteração do prazo do contrato e as constantes do n.º 2 poderão fazer alterar o prazo do contrato e o montante da renda, alterações que serão acordadas entre as partes e, em caso de discordância, estabelecidas na decisão aprobatória do plano.\n\n4 - Quando as benfeitorias referidas no n.º 2, pedidas pelo senhorio, importem alteração sensível do regime de exploração do prédio ou o arrendatário se não conformar com o eventual acréscimo de renda, tem este a faculdade de proceder, no prazo de 30 dias, à denúncia do contrato, a qual só produz efeitos no fim do respectivo ano agrícola.\n\n5 - A decisão dos serviços regionais do Ministério da Agricultura, Pescas e Alimentação será obrigatoriamente comunicada ao senhorio e ao arrendatário."
+  },
+  "46818475": {
+   "fragment_id": "35523375",
+   "type": 11,
+   "heading": "Artigo 15.º — Indemnização por benfeitorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Indemnização por benfeitorias\n\n1 - Quando houver cessação contratual antecipada por acordo mútuo das partes, haverá lugar a indemnização das benfeitorias realizadas pelo arrendatário e consentidas pelo senhorio.\n\n2 - A indemnização, quando a ela houver lugar, será calculada tendo em conta o valor remanescente e os resultados das benfeitorias ou demais melhoramentos no momento de cessação do contrato.\n\n3 - Se houver resolução do contrato invocada pelo senhorio, ou quando o arrendatário ficar impossibilitado de prosseguir a exploração por razões de força maior, tem o arrendatário direito a exigir do senhorio indemnização pelas benfeitorias necessárias e pelas úteis consentidas pelo senhorio, calculadas estas segundo as regras do enriquecimento sem causa."
+  },
+  "46818575": {
+   "fragment_id": "35523475",
+   "type": 11,
+   "heading": "Artigo 16.º — Indemnização por deterioração ou dano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Indemnização por deterioração ou dano\n\nO senhorio tem direito a exigir do arrendatário, quando ocorrer a cessação da relação contratual, indemnização relativa a deterioração ou danos causados nos prédios arrendados, ou coisas neles integradas por facto imputável ao mesmo arrendatário, ou como consequência de este não haver cumprido com as obrigações normais de cultivador."
+  },
+  "46818675": {
+   "fragment_id": "35523575",
+   "type": 11,
+   "heading": "Artigo 17.º — Senhorio emigrante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Senhorio emigrante\n\n1 - Os contratos de arrendamento ao agricultor autónomo podem ser denunciados pelo senhorio no decurso do prazo se este for emigrante e satisfizer cumulativamente as seguintes condições:\n\na) Ter sido ele quem arrendou o prédio ou o tenha adquirido por sucessão;\n\nb) Necessitar de regressar ou ter regressado há menos de um ano a Portugal;\n\nc) Querer explorar directamente o prédio arrendado.\n\n2 - No caso de o senhorio exercer o direito previsto no número anterior, o arrendatário tem direito a uma indemnização equivalente às rendas correspondentes ao período que falta decorrer até ao termo do prazo contratual, calculadas com base no valor da última renda vencida.\n\n3 - À situação prevista no presente artigo é aplicável, com as necessárias adaptações, o disposto nos n.os 2, 3 e 4 do artigo 20.º\n\n4 - A denúncia prevista no presente artigo só produz efeitos decorrido que seja o prazo mínimo de três anos após a celebração do contrato de arrendamento."
+  },
+  "46818775": {
+   "fragment_id": "35523675",
+   "type": 11,
+   "heading": "Artigo 18.º — Denúncia do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Denúncia do contrato\n\n1 - Os contratos de arrendamento a que se refere este diploma consideram-se sucessiva e automaticamente renovados se não forem denunciados nos termos seguintes:\n\na) O arrendatário deve avisar o senhorio, mediante comunicação escrita, com a antecedência mínima de um ano, relativamente ao termo do prazo ou da sua renovação, ou de seis meses, se se tratar de arrendamento a agricultor autónomo;\n\nb) O senhorio deve avisar também o arrendatário pela forma referida na alínea anterior, com a antecedência mínima de dezoito meses, relativamente ao termo do prazo ou da sua renovação, ou de um ano, se se tratar de arrendamento a agricultor autónomo.\n\n2 - A denúncia do contrato de arrendamento inclui obrigatoriamente todo o seu objecto."
+  },
+  "46818875": {
+   "fragment_id": "35523775",
+   "type": 11,
+   "heading": "Artigo 19.º — Oposição à denúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Oposição à denúncia\n\n1 - O arrendatário pode obstar à efectivação da denúncia desde que, em acção intentada no prazo de 60 dias após a comunicação prevista no artigo anterior, prove que o despejo põe em risco sério a sua subsistência económica e do seu agregado familiar.\n\n2 - O despejo do prédio arrendado não pode ter lugar antes do termo do ano agrícola posterior à sentença e se o arrendatário não entregar o prédio arrendado no prazo referido no número anterior, pode o senhorio requerer que se passe mandado para a execução do despejo."
+  },
+  "46818975": {
+   "fragment_id": "35523875",
+   "type": 11,
+   "heading": "Artigo 20.º — Denúncia para exploração directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Denúncia para exploração directa\n\n1 - Quando o senhorio pretenda denunciar o contrato para, no termo do prazo ou da renovação, passar ele próprio ou filhos que satisfaçam as condições de jovem agricultor estipuladas na lei a explorar directamente o prédio ou prédios arrendados, o arrendatário não pode opor-se à denúncia.\n\n2 - O senhorio que pretenda denunciar o contrato nos termos do número anterior deve expressamente indicar aquela finalidade na comunicação de denúncia prevista no artigo 18.º\n\n3 - O senhorio que invocar o disposto no número anterior fica obrigado, salvo caso de força maior, à exploração directa por si ou pelos sujeitos referidos no n.º 1, durante o prazo mínimo de cinco anos.\n\n4 - Em caso de inobservância do disposto no número anterior, o arrendatário cujo contrato foi denunciado tem direito a uma indemnização e à reocupação do prédio, se assim o desejar, iniciando-se outro contrato, sem prejuízo do disposto no artigo 27.º\n\n5 - A indemnização prevista no número anterior, a pagar pelo senhorio, será igual ao quíntuplo das rendas relativas ao período de tempo em que o arrendatário esteve ausente."
+  },
+  "46819075": {
+   "fragment_id": "35523975",
+   "type": 11,
+   "heading": "Artigo 21.º — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Resolução do contrato\n\nO senhorio só pode pedir a resolução do contrato no decurso do prazo do mesmo se o arrendatário:\n\na) Não pagar a renda no tempo e lugar próprios;\n\nb) Faltar ao cumprimento de uma obrigação legal, com prejuízo directo para a produtividade, substância ou função económica e social do prédio;\n\nc) Utilizar processos de cultura ou culturas comprovadamente depauperantes da potencialidade produtiva dos solos;\n\nd) Não velar pela boa conservação dos bens ou causar prejuízos graves nos que, não sendo objecto do contrato, existam no prédio arrendado;\n\ne) Subarrendar ou ceder por comodato, total ou parcialmente, os prédios arrendados ou ainda ceder a sua posição contratual nos casos não permitidos ou sem o cumprimento das obrigações legais;\n\nf) Não atingir os níveis mínimos de utilização do solo estabelecidos na legislação em vigor ou não observar injustificadamente o que for determinado nos planos a que se referem os artigos 6.º e 14.º"
+  },
+  "46819175": {
+   "fragment_id": "35524075",
+   "type": 11,
+   "heading": "Artigo 22.º — Caducidade do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Caducidade do contrato\n\n1 - O arrendamento não caduca por morte do senhorio nem pela transmissão do prédio.\n\n2 - Quando cesse o direito ou findem os poderes de administração com base nos quais o contrato for celebrado, observar-se-á o disposto no n.º 2 do artigo 1051.º do Código Civil."
+  },
+  "46819275": {
+   "fragment_id": "35524175",
+   "type": 11,
+   "heading": "Artigo 23.º — Transmissão por morte do arrendatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transmissão por morte do arrendatário\n\n1 - O arrendamento rural não caduca por morte do arrendatário, transmitindo-se ao cônjuge sobrevivo, desde que não divorciado ou separado judicialmente ou de facto, àquele que no momento da sua morte vivia com ele há mais de cinco anos em condições análogas às dos cônjuges e a parentes ou afins, na linha recta, que com o mesmo viviam habitualmente em comunhão de mesa e habitação ou em economia comum há mais de um ano consecutivo.\n\n2 - A transmissão a que se refere o número anterior defere-se pela ordem seguinte:\n\na) Ao cônjuge sobrevivo;\n\nb) Aos parentes ou afins da linha recta, preferindo os primeiros aos segundos, os descendentes aos ascendentes e os de grau mais próximo aos de grau mais remoto;\n\nc) À pessoa que vivia com o arrendatário há mais de cinco anos em condições análogas às dos cônjuges.\n\n3 - A transmissão a favor dos parentes ou afins do primitivo arrendatário, segundo a ordem constante do número anterior, também se verifica por morte do cônjuge sobrevivo quando, nos termos deste artigo, lhe tenha sido transmitido o direito ao arrendamento.\n\n4 - Pode haver duas transmissões mortis causa nos termos do número anterior ou apenas uma quando a primeira transmissão se operar a favor das pessoas referidas nas alíneas b) e c) do n.º 2."
+  },
+  "46819375": {
+   "fragment_id": "35524275",
+   "type": 11,
+   "heading": "Artigo 24.º — Desistência do direito à transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Desistência do direito à transmissão\n\n1 - Os titulares do direito à transmissão conferida nos termos do artigo anterior que não queiram exercer esse direito comunicarão a sua vontade, por escrito, ao senhorio, no prazo de 90 dias após a morte do arrendatário, ficando responsáveis pelos prejuízos que causarem se não o fizerem.\n\n2 - Sob pena de caducidade, os titulares que queiram exercer aquele direito comunicarão a sua vontade, por escrito, ao senhorio, no prazo de 180 dias após a morte do arrendatário."
+  },
+  "46819475": {
+   "fragment_id": "35524375",
+   "type": 11,
+   "heading": "Artigo 25.º — Caducidade por expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Caducidade por expropriação\n\n1 - A expropriação do prédio ou prédios arrendados por utilidade pública importa a caducidade do arrendamento.\n\n2 - Se a expropriação for total, o arrendamento é considerado encargo autónomo para o efeito de o arrendatário ser indemnizado pelo expropriante.\n\n3 - Na indemnização, além dos valores dos frutos pendentes ou das colheitas inutilizadas, atende-se ainda ao valor das benfeitorias a que o arrendatário tenha direito e aos demais prejuízos emergentes da cessação do arrendamento, calculados nos termos gerais de direito.\n\n4 - Se a expropriação for parcial, o arrendatário, independentemente dos direitos facultados no número anterior em relação à parte expropriada, pode optar pela resolução do contrato ou pela redução proporcional da renda.\n\n5 - Não se aplica, porém, o disposto no número anterior se a parte expropriada corresponder a mais do dobro da parte não expropriada, caso em que ocorre igualmente caducidade com a aplicação dos n.os 2 e 3 deste artigo."
+  },
+  "46819575": {
+   "fragment_id": "35524475",
+   "type": 11,
+   "heading": "Artigo 26.º — Trabalhos preparatórios e colheitas de frutos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Trabalhos preparatórios e colheitas de frutos pendentes\n\n1 - No decurso do último ano do arrendamento, o arrendatário não se pode opor à realização dos trabalhos indispensáveis ao normal aproveitamento da terra, a efectuar pelo novo cultivador.\n\n2 - Reciprocamente, o novo cultivador não pode impedir a realização de todas as práticas necessárias à colheita, utilização e transformação dos frutos pendentes, ainda que fora do prazo do arrendamento cessante."
+  },
+  "46819675": {
+   "fragment_id": "35524575",
+   "type": 11,
+   "heading": "Artigo 27.º — Novos arrendamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Novos arrendamentos\n\nQuando a cessação do contrato de arrendamento ocorrer por causa não imputável ao arrendatário, este goza do direito de preferência nos contratos de arrendamento celebrados nos cinco anos seguintes."
+  },
+  "46819775": {
+   "fragment_id": "35524675",
+   "type": 11,
+   "heading": "Artigo 28.º — Preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Preferência\n\n1 - No caso de venda ou dação em cumprimento do prédio arrendado, aos respectivos arrendatários com, pelo menos, três anos de vigência do contrato assiste o direito de preferirem na transmissão.\n\n2 - O direito de preferência do arrendatário cede perante o exercício desse direito por co-herdeiro ou comproprietário.\n\n3 - Sempre que o arrendatário exerça o direito de preferência referido no presente artigo, tem de cultivar o prédio directamente, como seu proprietário, durante, pelo menos, cinco anos, salvo caso de força maior, devidamente comprovado.\n\n4 - Em caso de inobservância do disposto no número anterior, o adquirente fica obrigado a pagar ao anterior proprietário o valor equivalente ao quíntuplo da última renda vencida e a transmitir a propriedade ao preterido com o exercício da preferência, se este o desejar, pelo preço por que adquiriu o prédio.\n\n5 - No caso de exercício judicial desse direito, o preço será pago ou depositado dentro de 30 dias após o trânsito em julgado da respectiva sentença, sob pena de caducidade do direito e do arrendamento.\n\n6 - No caso de procedência do direito de preferência há isenção de sisa.\n\n7 - Ficam também isentas de sisa todas as transmissões onerosas de prédios a favor dos respectivos arrendatários rurais desde que exista contrato escrito há, pelo menos, três anos, com assinaturas reconhecidas notarialmente ou autenticadas pelo serviços oficiais competentes."
+  },
+  "46819875": {
+   "fragment_id": "35524775",
+   "type": 11,
+   "heading": "Artigo 29.º — Arrendamento de campanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Arrendamento de campanha\n\nO Ministro da Agricultura, Pescas e Alimentação pode autorizar, mediante portaria, por tempo limitado e em condições expressamente definidas, arrendamentos de campanha ou outras formas transitórias de exploração de terras alheias por períodos inferiores a um ano, sempre que condicionalismos de ordem económica e social o justifiquem."
+  },
+  "46819975": {
+   "fragment_id": "35524875",
+   "type": 11,
+   "heading": "Artigo 30.º — Arrendamento para fins de emparcelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Arrendamento para fins de emparcelamento\n\nOs prédios adquiridos para fins de emparcelamento podem ser arrendados por prazos inferiores aos estabelecidos no artigo 5.º deste diploma."
+  },
+  "46820075": {
+   "fragment_id": "35524975",
+   "type": 11,
+   "heading": "Artigo 31.º — Parceria agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Parceria agrícola\n\n1 - Nos contratos de parceria agrícola só podem ser objecto de divisão entre o parceiro proprietário e o parceiro cultivador, no máximo, os três principais produtos habitualmente produzidos nos prédios objecto de contrato.\n\n2 - A divisão nunca pode fazer-se atribuindo ao parceiro proprietário quota superior a metade da produção de acordo com o número anterior."
+  },
+  "46820175": {
+   "fragment_id": "35525075",
+   "type": 11,
+   "heading": "Artigo 32.º — Contratos mistos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Contratos mistos\n\nNos contratos mistos de arrendamento e parceria só um dos produtos poderá ser objecto de divisão e dois de renda."
+  },
+  "46820275": {
+   "fragment_id": "35525175",
+   "type": 11,
+   "heading": "Artigo 33.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Legislação aplicável\n\nAos contratos de parceria agrícola e mistos aplica-se, com as adaptações necessárias, tudo quanto respeita aos arrendamentos rurais."
+  },
+  "46820375": {
+   "fragment_id": "35525275",
+   "type": 11,
+   "heading": "Artigo 34.º — Extinção da parceria agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Extinção da parceria agrícola\n\nA parceria agrícola manter-se-á até que o Governo, por decreto-lei, estabeleça as normas transitórias adequadas à sua efectiva extinção."
+  },
+  "46820475": {
+   "fragment_id": "35525375",
+   "type": 11,
+   "heading": "Artigo 35.º — Formas de processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Formas de processo\n\n1 - Os processos judiciais referidos no artigo 28.º têm carácter de urgência, seguem os termos de processo ordinário ou sumário, consoante o valor, e, enquanto estiverem pendentes, não pode efectivar-se a entrega do prédio ao senhorio com base em denúncia do contrato.\n\n2 - Os restantes processos judiciais referentes a arrendamentos rurais têm carácter de urgência e seguem a forma de processo sumário, salvo se outras forem expressamente previstas.\n\n3 - É sempre admissível recurso para o tribunal da relação quanto à matéria de direito, sem prejuízo dos recursos ordinários, consoante o valor da acção, tendo sempre efeito suspensivo o recurso interposto da sentença que decrete a restituição do prédio.\n\n4 - Nos casos previstos no n.º 4 do artigo 11.º aplica-se o processo previsto no artigo 1429.º do Código de Processo Civil, que reveste também carácter de urgência, não havendo recurso da decisão.\n\n5 - Nenhuma acção judicial pode ser recebida ou prosseguir, sob pena de extinção da instância, se não for acompanhada de um exemplar do contrato, quando exigível, a menos que logo se alegue que a falta é imputável à parte contrária."
+  },
+  "46820575": {
+   "fragment_id": "35525475",
+   "type": 11,
+   "heading": "Artigo 36.º — Âmbito de aplicação da presente lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Âmbito de aplicação da presente lei\n\n1 - Aos contratos existentes à data da entrada em vigor da presente lei aplica-se o regime nela prescrito.\n\n2 - Ficam totalmente isentas de custas as acções instauradas ao abrigo de normas anteriores quando as partes desistam das mesmas ou se verifique a inutilidade superveniente da lide.\n\n3 - O novo regime previsto no artigo 3.º da presente lei apenas se aplicará aos contratos existentes à data da sua entrada em vigor a partir de 1 de Julho de 1989.\n\n4 - O presente diploma não se aplica aos processos pendentes em juízo que à data da sua entrada em vigor já tenham sido objecto de decisão em 1.ª instância, ainda que não transitada em julgado, salvo quanto a normas de natureza interpretativa.\n\n5 - Os contratos de arrendamento já renovados à data da entrada em vigor da presente lei não podem ser objecto de denúncia por parte do senhorio, para efeitos de exploração directa, nos primeiros quatro anos a contar do início da última renovação.\n\n6 - Até ao termo do prazo, em curso, dos contratos validamente celebrados ao abrigo do artigo 36.º da Lei n.º 76/77, de 29 de Setembro, não se aplica o disposto no artigo 13.º do presente diploma."
+  },
+  "46820675": {
+   "fragment_id": "35525575",
+   "type": 11,
+   "heading": "Artigo 37.º — Tribunais arbitrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Tribunais arbitrais\n\nPoderão ser criados em cada comarca tribunais arbitrais, com a constituição e as competências que legalmente lhes venham a ser conferidas, para o julgamento de questões emergentes do contrato de arrendamento rural."
+  },
+  "46820775": {
+   "fragment_id": "35525675",
+   "type": 11,
+   "heading": "Artigo 38.º — Aplicação da presente lei nas regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Aplicação da presente lei nas regiões autónomas\n\n1 - A legislação sobre arrendamento rural aprovada pela Assembleia Regional dos Açores mantém-se em vigor nesta Região Autónoma.\n\n2 - As competências cometidas pela presente lei ao Ministério da Agricultura, Pescas e Alimentação e ao Ministro da Agricultura, Pescas e Alimentação, com excepção das respeitantes a tabelas de rendas, são exercidas na Região Autónoma da Madeira pelo respectivo Governo Regional."
+  },
+  "46820875": {
+   "fragment_id": "35525775",
+   "type": 11,
+   "heading": "Artigo 39.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Definições\n\nPara os efeitos da presente lei, consideram-se adoptadas as definições constantes da Lei de Bases da Reforma Agrária."
+  },
+  "46820975": {
+   "fragment_id": "35525875",
+   "type": 11,
+   "heading": "Artigo 40.º — Disposições revogatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Disposições revogatórias\n\n1 - São revogadas as Leis n.os 76/77, de 29 de Setembro, e 76/79, de 3 de Dezembro.\n\n2 - São igualmente revogados os Decretos-Leis n.os 32/79, de 28 de Fevereiro, com as alterações constantes da Lei n.º 24/79, de 26 de Julho, e 130/81, de 28 de Maio."
+  },
+  "886301300": {
+   "fragment_id": "35101975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1988-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 277/1988, 4º Suplemento, Série I de 1988-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-519064), em vigor a partir de 1988-11-30"
+   ],
+   "markdown": "O presente diploma legal, disciplinando o regime geral do arrendamento rural, visa harmonizar os objectivos de política agrícola do Governo com as realidades fundiárias do País e, bem assim, conciliar os legítimos direitos e interesses dos proprietários das terras com os dos cultivadores e rendeiros, de acordo com a dimensão e a natureza, muito variada, das explorações agrícolas.\n\nConcretiza-se, assim, mais uma reforma estrutural anunciada pelo Governo e, com ela, é dado mais um passo importante para a necessária modernização da agricultura portuguesa.\n\nNo limiar da integração plena de Portugal nas Comunidades Europeias, impõe-se definir um quadro legal que potencie melhores condições de exploração da terra e competitividade externa.\n\nA introdução de novas tecnologias, o exercício da actividade agrícola em moldes empresariais, a reconversão de culturas e a fixação à terra das novas gerações nem sempre encontram nos proprietários da terra as pessoas mais indicadas.\n\nImpõe-se, assim, no respeito pelo direito de propriedade, estimular o arrendamento, garantindo ao proprietário a rentabilidade do investimento fundiário e assegurando ao rendeiro a estabilidade necessária ao exercício da sua actividade produtiva.\n\nNa sua essência, o presente diploma teve em conta a proposta de lei n.º 25/IV, que teve merecimento na Assembleia da República, com ampla aprovação maioritária.\n\nDo novo regime de arrendamento rural ressalta, desde logo, o alargamento do prazo para dez anos, renovável por períodos sucessivos de três anos. Por outro lado, mantendo-se o sistema de renda máxima tabelada por imperativos de ordem económica e social, admite-se a actualização da renda durante a vigência do contrato.\n\nA redução a escrito de todos os contratos de arrendamento, a regra geral de fixação da renda em dinheiro e a melhoria das garantias contenciosas das partes são outros tantos aspectos de salientar no novo regime de arrendamento.\n\nFinalmente, destaca-se a possibilidade de alargamento do prazo até 25 anos para protecção dos investimentos, a proibição do subarrendamento e o novo regime de denúncia em que se privilegia a exploração directa.\n\nAssim, no uso da autorização legislativa concedida pela Lei n.º 76/88, de 24 de Junho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Retificado pelo/a [Declaração - Diário da República n.º 277/1988, 4º Suplemento, Série I de 1988-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-519064), em vigor a partir de 1988-11-30"
+  },
+  "886301301": {
+   "fragment_id": "35522075",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "1988-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 277/1988, 4º Suplemento, Série I de 1988-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-519064), em vigor a partir de 1988-11-30"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O arrendamento rural, além do terreno e vegetação permanente de natureza não florestal, abrange ainda as construções destinadas habitualmente aos fins próprios da exploração normal dos prédios locados e também à habitação do arrendatário.\n\n2 - Salvo cláusula expressa em contrário, não se considera compreendido no arrendamento:\n\na) O arvoredo existente em terrenos destinados a corte de matos;\n\nb) As árvores florestais dispersas;\n\nc) A cortiça produzida por sobreiros existentes nos prédios locados;\n\nd) Quaisquer outros produtos e coisas que, existindo nos prédios locados, não satisfaçam os fins referidos no número anterior.\n\n3 - A presente lei não se aplica a arrendamentos para fins florestais, os quais são objecto de legislação especial.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 277/1988, 4º Suplemento, Série I de 1988-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-519064), em vigor a partir de 1988-11-30"
+  },
+  "46821075": {
+   "fragment_id": "35525975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 10 de Outubro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Outubro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "886301305": {
+   "fragment_id": "35522375",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazos de arrendamento",
+   "in_force_from": "1999-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396), em vigor a partir de 1999-12-15"
+   ],
+   "markdown": "###### Artigo 5.º — Prazos de arrendamento\n\n1 - Os arrendamentos rurais não podem ser celebrados por prazo inferior a dez anos, a contar da data em que tiverem início, valendo aquele se houver sido estipulado prazo mais curto.\n\n2 - Nos arrendamentos ao agricultor autónomo o prazo referido no número anterior e de sete anos.\n\n3 - Findos os prazos estabelecidos nos números anteriores, ou convencionado, se for superior, entende-se renovado o contrato por períodos sucessivos de cinco anos, enquanto o mesmo não for denunciado nos termos do presente diploma.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396) A alteração introduzida ao n.º 3 do presente artigo pelo Decreto-Lei n.º 524/99, é aplicável aos contratos em vigor à data de 15 de dezembro de 1999, não se aplicando, porém, aos períodos de renovação em curso.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396), em vigor a partir de 1999-12-15"
+  },
+  "886301306": {
+   "fragment_id": "35522575",
+   "type": 11,
+   "heading": "Artigo 7.º — Renda",
+   "in_force_from": "1999-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396), em vigor a partir de 1999-12-15"
+   ],
+   "markdown": "###### Artigo 7.º — Renda\n\n1 - A renda será sempre estipulada em dinheiro, a menos que as partes a fixem expressamente em géneros e em dinheiro simultaneamente.\n\n2 - Caso a renda seja fixada parcialmente em géneros, estes não podem ir além de três espécies produzidas no prédio ou prédios arrendados.\n\n3 - Uma vez fixado o sistema de estipulação de renda, este não poderá ser alterado na vigência do contrato ou da sua renovação.\n\n4 -   A renda é anual, só pode ser alterada nos termos do presente diploma e não pode ser convencionada a antecipação do seu pagamento, excepto quando o arrendatário for um jovem agricultor titular de um projecto de exploração aprovado pelos serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, caso em que pode ser convencionado o pagamento, no início do contrato, das rendas respeitantes a todos os anos do prazo contratual.\n\n5 - A renda em dinheiro será paga em casa do senhorio, a menos que o contrato estipule outro local.\n\n6 - Caso a renda seja fixada, parcialmente, em géneros, estes serão entregues ao senhorio na sede da exploração agrícola do prédio arrendado.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396) A antecipação do pagamento de rendas prevista no n.º 4 do presente artigo, não obsta à actualização da renda nos termos dos artigos 8.º e 9.º do presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396), em vigor a partir de 1999-12-15"
+  },
+  "886330494": {
+   "fragment_id": "35521975",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 1.º — Noção\n\n1 - A locação de prédios rústicos para fins de exploração agrícola ou pecuária, nas condições de uma regular utilização, denomina-se arrendamento rural.\n\n2 - Presume-se rural o arrendamento que recaia sobre prédios rústicos quando do contrato e respectivas circunstâncias não resulte destino diferente.\n\n3 - Para efeitos do n.º 1 deste artigo, são consideradas explorações pecuárias aquelas em que o empresário faça exploração do gado com base predominante forrageira própria.\n\n4 - São excluídas do âmbito da presente lei as explorações pecuárias sem terra.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330495": {
+   "fragment_id": "35522075",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11",
+    "Retificado pelo/a [Declaração - Diário da República n.º 277/1988, 4º Suplemento, Série I de 1988-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-519064), em vigor a partir de 1988-11-30"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O arrendamento rural, além do terreno e vegetação permanente de natureza não florestal, abrange ainda as construções destinadas habitualmente aos fins próprios da exploração normal dos prédios locados e também à habitação do arrendatário.\n\n2 - Salvo cláusula expressa em contrário, não se considera compreendido no arrendamento:\n\na) O arvoredo existente em terrenos destinados a corte de matos;\n\nb) As árvores florestais dispersas;\n\nc) A cortiça produzida por sobreiros existentes nos prédios locados;\n\nd) Quaisquer outros produtos e coisas que, existindo nos prédios locados, não satisfaçam os fins referidos no número anterior.\n\n3 - A presente lei não se aplica a arrendamentos para fins florestais, os quais são objecto de legislação especial.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11\n\n> Retificado pelo/a [Declaração - Diário da República n.º 277/1988, 4º Suplemento, Série I de 1988-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-519064), em vigor a partir de 1988-11-30"
+  },
+  "886330496": {
+   "fragment_id": "35522175",
+   "type": 11,
+   "heading": "Artigo 3.º — Forma de contrato",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 3.º — Forma de contrato\n\n1 - Os arrendamentos rurais, incluindo os arrendamentos ao agricultor autónomo, são obrigatoriamente reduzidos a escrito.\n\n2 - No prazo de 30 dias, contados da celebração do contrato, o senhorio entregará o original do contrato na repartição de finanças da sua residência habitual e uma cópia nos respectivos serviços regionais do Ministério da Agricultura, Pescas e Alimentação.\n\n3 - Qualquer das partes tem a faculdade de exigir, mediante notificação à outra parte, a redução a escrito do contrato.\n\n4 - A nulidade do contrato não pode ser invocada pela parte que, após notificação, tenha recusado a sua redução a escrito.\n\n5 - Os contratos de arrendamento rural não estão sujeitos a registo e são isentos de selo e de qualquer outro imposto, taxa ou emolumento.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330497": {
+   "fragment_id": "35522275",
+   "type": 11,
+   "heading": "Artigo 4.º — Cláusulas nulas",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 4.º — Cláusulas nulas\n\nSão nulas as cláusulas contratuais em que:\n\na) O arrendatário se obrigue a vender as colheitas, no todo ou em parte, a entidades certas e determinadas;\n\nb) O arrendatário se obrigue ao pagamento de prémio de seguro contra incêndios de edifícios, bem como de contribuições, impostos ou taxas que incidam sobre prédios compreendidos no arrendamento e que sejam devidas pelo senhorio;\n\nc) Qualquer dos contraentes renuncie ao direito de pedir denúncia ou resolução do contrato e às indemnizações que forem devidas nos casos de violação de obrigações legais ou contratuais;\n\nd) O arrendatário renuncie ao direito de renovação do contrato ou se obrigue antecipadamente à sua denúncia;\n\ne) O arrendatário se obrigue por qualquer título a serviços que não revertam em benefício directo do prédio ou se sujeite a encargos extraordinários;\n\nf) As partes subordinem a eficácia ou validade do contrato a condição resolutiva ou suspensiva.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330498": {
+   "fragment_id": "35522375",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazos de arrendamento",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396), em vigor a partir de 1999-12-15"
+   ],
+   "markdown": "###### Artigo 5.º — Prazos de arrendamento\n\n1 - Os arrendamentos rurais não podem ser celebrados por prazo inferior a dez anos, a contar da data em que tiverem início, valendo aquele se houver sido estipulado prazo mais curto.\n\n2 - Nos arrendamentos ao agricultor autónomo o prazo referido no número anterior e de sete anos.\n\n3 - Findos os prazos estabelecidos nos números anteriores, ou convencionado, se for superior, entende-se renovado o contrato por períodos sucessivos de cinco anos, enquanto o mesmo não for denunciado nos termos do presente diploma.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396) A alteração introduzida ao n.º 3 do presente artigo pelo Decreto-Lei n.º 524/99, é aplicável aos contratos em vigor à data de 15 de dezembro de 1999, não se aplicando, porém, aos períodos de renovação em curso.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396), em vigor a partir de 1999-12-15"
+  },
+  "886330499": {
+   "fragment_id": "35522475",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração dos prazos",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 6.º — Alteração dos prazos\n\n1 - Sempre que uma exploração agrícola objecto de arrendamento venha a ser reconvertida pelo arrendatário, o contrato tem a duração mínima fixada na decisão que aprove, em termos a definir, mediante portaria do Ministro da Agricultura, Pescas e Alimentação, o respectivo plano de reconversão.\n\n2 - Sobre o plano proposto será obrigatoriamente ouvido o senhorio, e se este apresentar objecções ou sugestões, devem as mesmas ser tomadas em conta na aprovação ou rejeição.\n\n3 - O prazo referido no n.º 1 não pode exceder 25 anos, devendo na sua fixação ser considerados o tempo já decorrido desde o início ou renovação do contrato, o valor económico da reconversão, o volume do investimento a fazer e o benefício resultante para o proprietário findo o contrato.\n\n4 - Findo o prazo fixado nos termos deste artigo, só por acordo expresso das partes pode haver continuação do arrendamento, a qual vale então como novo arrendamento.\n\n5 - A decisão aprobatória do plano será obrigatoriamente comunicada ao senhorio e ao arrendatário.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330500": {
+   "fragment_id": "35522575",
+   "type": 11,
+   "heading": "Artigo 7.º — Renda",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396), em vigor a partir de 1999-12-15"
+   ],
+   "markdown": "###### Artigo 7.º — Renda\n\n1 - A renda será sempre estipulada em dinheiro, a menos que as partes a fixem expressamente em géneros e em dinheiro simultaneamente.\n\n2 - Caso a renda seja fixada parcialmente em géneros, estes não podem ir além de três espécies produzidas no prédio ou prédios arrendados.\n\n3 - Uma vez fixado o sistema de estipulação de renda, este não poderá ser alterado na vigência do contrato ou da sua renovação.\n\n4 -   A renda é anual, só pode ser alterada nos termos do presente diploma e não pode ser convencionada a antecipação do seu pagamento, excepto quando o arrendatário for um jovem agricultor titular de um projecto de exploração aprovado pelos serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, caso em que pode ser convencionado o pagamento, no início do contrato, das rendas respeitantes a todos os anos do prazo contratual.\n\n5 - A renda em dinheiro será paga em casa do senhorio, a menos que o contrato estipule outro local.\n\n6 - Caso a renda seja fixada, parcialmente, em géneros, estes serão entregues ao senhorio na sede da exploração agrícola do prédio arrendado.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396) A antecipação do pagamento de rendas prevista no n.º 4 do presente artigo, não obsta à actualização da renda nos termos dos artigos 8.º e 9.º do presente diploma.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/99 - Diário da República n.º 286/1999, Série I-A de 1999-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1999-632396), em vigor a partir de 1999-12-15"
+  },
+  "886330501": {
+   "fragment_id": "35522675",
+   "type": 11,
+   "heading": "Artigo 8.º — Actualização de rendas",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 8.º — Actualização de rendas\n\n1 - As rendas convencionadas em dinheiro ou a sua parte em dinheiro serão actualizáveis anualmente por iniciativa de qualquer das partes, não podendo, contudo, ultrapassar os limites fixados nas tabelas referidas no artigo 9.º\n\n2 - Na falta de acordo entre as partes, até decisão final com trânsito em julgado, vigorará a renda fixada pelo senhorio, desde que respeite os limites das tabelas em vigor.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330502": {
+   "fragment_id": "35522775",
+   "type": 11,
+   "heading": "Artigo 9.º — Tabelas de rendas",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 9.º — Tabelas de rendas\n\n1 - Os Ministros das Finanças e da Agricultura, Pescas e Alimentação estabelecerão por portaria as tabelas de rendas máximas nacionais, com base nos géneros agrícolas predominantes em cada região, na evolução dos seus preços correntes, na diferente natureza dos solos, nas formas do seu aproveitamento e quaisquer outros factores atendíveis, ouvidas as associações de agricultores.\n\n2 - As tabelas previstas no número anterior serão estabelecidas por regiões agrícolas e eventuais zonas agrárias, se estas existirem, e serão revistas com intervalos máximos de dois anos.\n\n3 - Se o contrato abranger edifícios, dependências, instalações ou outros equipamentos fixos, o valor da renda dos mesmos será referido expressamente no contrato, com destaque das restantes parcelas.\n\n4 - A portaria a que se refere o n.º 1 deste artigo pode referir o valor máximo da renda das partes a que se refere o número anterior, reportando tais valores a unidade de área.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330503": {
+   "fragment_id": "35522875",
+   "type": 11,
+   "heading": "Artigo 10.º — Redução de renda",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 10.º — Redução de renda\n\n1 - Quando no prédio arrendado, por causas imprevisíveis e anormais, resultar, com carácter duradouro plurianual, diminuição significativa da capacidade produtiva do prédio, ao arrendatário assiste o direito de obter a resolução do contrato ou a fixação de nova renda, salvo se essa diminuição tiver sido resultante de práticas inadequadas de exploração.\n\n2 - Consideram-se causas imprevisíveis e anormais, além de outras, inundações, acidentes geológicos e ecológicos e pragas de natureza excepcional.\n\n3 - O disposto nos números anteriores não é aplicável aos acidentes susceptíveis de serem cobertos pelo seguro, nos termos da legislação portuguesa.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330504": {
+   "fragment_id": "35522975",
+   "type": 11,
+   "heading": "Artigo 11.º — Procedimento a adoptar para a redução ou fixação de nova renda",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 11.º — Procedimento a adoptar para a redução ou fixação de nova renda\n\n1 - Os pedidos de redução de renda devem ser dirigidos ao senhorio, neles mencionando o arrendatário a renda que considera dever ser paga.\n\n2 - Os pedidos são formulados por escrito, no prazo máximo de 30 dias após o termo dos eventos causais do resultado invocado ou, se continuados, no decurso deles.\n\n3 - Presume-se que os referidos eventos não são fundamento para a redução da renda se o arrendatário não proporcionar ao senhorio a verificação dos sinais da sua ocorrência e os seus resultados.\n\n4 - No caso de os contratantes, nos 30 dias seguintes à formulação do respectivo pedido, não chegarem a acordo sobre a redução de renda, poderão recorrer ao tribunal, o qual fixará, no despacho saneador, a renda a vigorar transitoriamente até decisão final do pleito.\n\n5 - Enquanto a decisão judicial não transitar em julgado, o senhorio não pode requerer a resolução do contrato com base em falta de pagamento de renda, salvo aquela que o arrendatário propôs no pedido de redução até ao saneador, sendo-lhe, porém, devida a importância correspondente ao complemento da renda que lhe vier a ser fixada por decisão judicial, acrescida dos respectivos juros.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330505": {
+   "fragment_id": "35523075",
+   "type": 11,
+   "heading": "Artigo 12.º — Mora do arrendatário",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 12.º — Mora do arrendatário\n\n1 - Se o arrendatário não pagar a renda no tempo e lugar próprios, o senhorio, decorridos 90 dias após a data de vencimento, tem direito a obter a resolução do contrato, sem perda da renda em falta, acrescida de juros de mora à taxa prevista no artigo 559.º do Código Civil.\n\n2 - Os juros de mora a que se refere o número anterior são calculadas para a totalidade do valor da renda anual, contabilizando-se os géneros aos preços oficiais ou, na falta destes, aos preços correntes na região, nos casos em que aqueles produtos figurem na renda estipulada.\n\n3 - O arrendatário poderá obstar à resolução do contrato desde que até ao encerramento da discussão em 1.ª instância proceda ao pagamento da renda ou rendas em falta acrescidas de juros de mora à taxa oficial das operações passivas respeitantes ao período de um ano e um dia.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330506": {
+   "fragment_id": "35523175",
+   "type": 11,
+   "heading": "Artigo 13.º — Subarrendamento",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 13.º — Subarrendamento\n\n1 - Salvo acordo escrito do senhorio, ao arrendatário é proibido subarrendar ou ceder por comodato, total ou parcialmente, os prédios arrendados ou ainda ceder a terceiros a sua posição contratual.\n\n2 - A proibição expressa no número anterior abrange os «arrendamentos de campanha» e o «contrato de compra e venda de pastagens».\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330507": {
+   "fragment_id": "35523275",
+   "type": 11,
+   "heading": "Artigo 14.º — Benfeitorias",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 14.º — Benfeitorias\n\n1 - O arrendatário pode fazer no prédio ou prédios arrendados benfeitorias úteis com o consentimento escrito do senhorio ou, na falta deste, mediante um plano de exploração a aprovar pelos serviços regionais do Ministério da Agricultura, Pescas e Alimentação no prazo de 90 dias a contar da recepção do pedido, depois de ouvidas as partes ou seus representantes.\n\n2 - O senhorio só pode fazer as benfeitorias úteis que sejam consentidas pelo arrendatário ou, na falta de consentimento escrito deste, aprovadas pelos serviços regionais do Ministério da Agricultura, Pescas e Alimentação no prazo de 90 dias a contar da recepção do pedido, depois de ouvidas as partes ou seus representantes.\n\n3 - As benfeitorias referidas no n.º 1 poderão implicar alteração do prazo do contrato e as constantes do n.º 2 poderão fazer alterar o prazo do contrato e o montante da renda, alterações que serão acordadas entre as partes e, em caso de discordância, estabelecidas na decisão aprobatória do plano.\n\n4 - Quando as benfeitorias referidas no n.º 2, pedidas pelo senhorio, importem alteração sensível do regime de exploração do prédio ou o arrendatário se não conformar com o eventual acréscimo de renda, tem este a faculdade de proceder, no prazo de 30 dias, à denúncia do contrato, a qual só produz efeitos no fim do respectivo ano agrícola.\n\n5 - A decisão dos serviços regionais do Ministério da Agricultura, Pescas e Alimentação será obrigatoriamente comunicada ao senhorio e ao arrendatário.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330508": {
+   "fragment_id": "35523375",
+   "type": 11,
+   "heading": "Artigo 15.º — Indemnização por benfeitorias",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 15.º — Indemnização por benfeitorias\n\n1 - Quando houver cessação contratual antecipada por acordo mútuo das partes, haverá lugar a indemnização das benfeitorias realizadas pelo arrendatário e consentidas pelo senhorio.\n\n2 - A indemnização, quando a ela houver lugar, será calculada tendo em conta o valor remanescente e os resultados das benfeitorias ou demais melhoramentos no momento de cessação do contrato.\n\n3 - Se houver resolução do contrato invocada pelo senhorio, ou quando o arrendatário ficar impossibilitado de prosseguir a exploração por razões de força maior, tem o arrendatário direito a exigir do senhorio indemnização pelas benfeitorias necessárias e pelas úteis consentidas pelo senhorio, calculadas estas segundo as regras do enriquecimento sem causa.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330509": {
+   "fragment_id": "35523475",
+   "type": 11,
+   "heading": "Artigo 16.º — Indemnização por deterioração ou dano",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 16.º — Indemnização por deterioração ou dano\n\nO senhorio tem direito a exigir do arrendatário, quando ocorrer a cessação da relação contratual, indemnização relativa a deterioração ou danos causados nos prédios arrendados, ou coisas neles integradas por facto imputável ao mesmo arrendatário, ou como consequência de este não haver cumprido com as obrigações normais de cultivador.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330510": {
+   "fragment_id": "35523575",
+   "type": 11,
+   "heading": "Artigo 17.º — Senhorio emigrante",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 17.º — Senhorio emigrante\n\n1 - Os contratos de arrendamento ao agricultor autónomo podem ser denunciados pelo senhorio no decurso do prazo se este for emigrante e satisfizer cumulativamente as seguintes condições:\n\na) Ter sido ele quem arrendou o prédio ou o tenha adquirido por sucessão;\n\nb) Necessitar de regressar ou ter regressado há menos de um ano a Portugal;\n\nc) Querer explorar directamente o prédio arrendado.\n\n2 - No caso de o senhorio exercer o direito previsto no número anterior, o arrendatário tem direito a uma indemnização equivalente às rendas correspondentes ao período que falta decorrer até ao termo do prazo contratual, calculadas com base no valor da última renda vencida.\n\n3 - À situação prevista no presente artigo é aplicável, com as necessárias adaptações, o disposto nos n.os 2, 3 e 4 do artigo 20.º\n\n4 - A denúncia prevista no presente artigo só produz efeitos decorrido que seja o prazo mínimo de três anos após a celebração do contrato de arrendamento.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330511": {
+   "fragment_id": "35523675",
+   "type": 11,
+   "heading": "Artigo 18.º — Denúncia do contrato",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 18.º — Denúncia do contrato\n\n1 - Os contratos de arrendamento a que se refere este diploma consideram-se sucessiva e automaticamente renovados se não forem denunciados nos termos seguintes:\n\na) O arrendatário deve avisar o senhorio, mediante comunicação escrita, com a antecedência mínima de um ano, relativamente ao termo do prazo ou da sua renovação, ou de seis meses, se se tratar de arrendamento a agricultor autónomo;\n\nb) O senhorio deve avisar também o arrendatário pela forma referida na alínea anterior, com a antecedência mínima de dezoito meses, relativamente ao termo do prazo ou da sua renovação, ou de um ano, se se tratar de arrendamento a agricultor autónomo.\n\n2 - A denúncia do contrato de arrendamento inclui obrigatoriamente todo o seu objecto.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330512": {
+   "fragment_id": "35523775",
+   "type": 11,
+   "heading": "Artigo 19.º — Oposição à denúncia",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 19.º — Oposição à denúncia\n\n1 - O arrendatário pode obstar à efectivação da denúncia desde que, em acção intentada no prazo de 60 dias após a comunicação prevista no artigo anterior, prove que o despejo põe em risco sério a sua subsistência económica e do seu agregado familiar.\n\n2 - O despejo do prédio arrendado não pode ter lugar antes do termo do ano agrícola posterior à sentença e se o arrendatário não entregar o prédio arrendado no prazo referido no número anterior, pode o senhorio requerer que se passe mandado para a execução do despejo.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330513": {
+   "fragment_id": "35523875",
+   "type": 11,
+   "heading": "Artigo 20.º — Denúncia para exploração directa",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 20.º — Denúncia para exploração directa\n\n1 - Quando o senhorio pretenda denunciar o contrato para, no termo do prazo ou da renovação, passar ele próprio ou filhos que satisfaçam as condições de jovem agricultor estipuladas na lei a explorar directamente o prédio ou prédios arrendados, o arrendatário não pode opor-se à denúncia.\n\n2 - O senhorio que pretenda denunciar o contrato nos termos do número anterior deve expressamente indicar aquela finalidade na comunicação de denúncia prevista no artigo 18.º\n\n3 - O senhorio que invocar o disposto no número anterior fica obrigado, salvo caso de força maior, à exploração directa por si ou pelos sujeitos referidos no n.º 1, durante o prazo mínimo de cinco anos.\n\n4 - Em caso de inobservância do disposto no número anterior, o arrendatário cujo contrato foi denunciado tem direito a uma indemnização e à reocupação do prédio, se assim o desejar, iniciando-se outro contrato, sem prejuízo do disposto no artigo 27.º\n\n5 - A indemnização prevista no número anterior, a pagar pelo senhorio, será igual ao quíntuplo das rendas relativas ao período de tempo em que o arrendatário esteve ausente.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330514": {
+   "fragment_id": "35523975",
+   "type": 11,
+   "heading": "Artigo 21.º — Resolução do contrato",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 21.º — Resolução do contrato\n\nO senhorio só pode pedir a resolução do contrato no decurso do prazo do mesmo se o arrendatário:\n\na) Não pagar a renda no tempo e lugar próprios;\n\nb) Faltar ao cumprimento de uma obrigação legal, com prejuízo directo para a produtividade, substância ou função económica e social do prédio;\n\nc) Utilizar processos de cultura ou culturas comprovadamente depauperantes da potencialidade produtiva dos solos;\n\nd) Não velar pela boa conservação dos bens ou causar prejuízos graves nos que, não sendo objecto do contrato, existam no prédio arrendado;\n\ne) Subarrendar ou ceder por comodato, total ou parcialmente, os prédios arrendados ou ainda ceder a sua posição contratual nos casos não permitidos ou sem o cumprimento das obrigações legais;\n\nf) Não atingir os níveis mínimos de utilização do solo estabelecidos na legislação em vigor ou não observar injustificadamente o que for determinado nos planos a que se referem os artigos 6.º e 14.º\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330515": {
+   "fragment_id": "35524075",
+   "type": 11,
+   "heading": "Artigo 22.º — Caducidade do contrato",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 22.º — Caducidade do contrato\n\n1 - O arrendamento não caduca por morte do senhorio nem pela transmissão do prédio.\n\n2 - Quando cesse o direito ou findem os poderes de administração com base nos quais o contrato for celebrado, observar-se-á o disposto no n.º 2 do artigo 1051.º do Código Civil.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330516": {
+   "fragment_id": "35524175",
+   "type": 11,
+   "heading": "Artigo 23.º — Transmissão por morte do arrendatário",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 23.º — Transmissão por morte do arrendatário\n\n1 - O arrendamento rural não caduca por morte do arrendatário, transmitindo-se ao cônjuge sobrevivo, desde que não divorciado ou separado judicialmente ou de facto, àquele que no momento da sua morte vivia com ele há mais de cinco anos em condições análogas às dos cônjuges e a parentes ou afins, na linha recta, que com o mesmo viviam habitualmente em comunhão de mesa e habitação ou em economia comum há mais de um ano consecutivo.\n\n2 - A transmissão a que se refere o número anterior defere-se pela ordem seguinte:\n\na) Ao cônjuge sobrevivo;\n\nb) Aos parentes ou afins da linha recta, preferindo os primeiros aos segundos, os descendentes aos ascendentes e os de grau mais próximo aos de grau mais remoto;\n\nc) À pessoa que vivia com o arrendatário há mais de cinco anos em condições análogas às dos cônjuges.\n\n3 - A transmissão a favor dos parentes ou afins do primitivo arrendatário, segundo a ordem constante do número anterior, também se verifica por morte do cônjuge sobrevivo quando, nos termos deste artigo, lhe tenha sido transmitido o direito ao arrendamento.\n\n4 - Pode haver duas transmissões mortis causa nos termos do número anterior ou apenas uma quando a primeira transmissão se operar a favor das pessoas referidas nas alíneas b) e c) do n.º 2.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330517": {
+   "fragment_id": "35524275",
+   "type": 11,
+   "heading": "Artigo 24.º — Desistência do direito à transmissão",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 24.º — Desistência do direito à transmissão\n\n1 - Os titulares do direito à transmissão conferida nos termos do artigo anterior que não queiram exercer esse direito comunicarão a sua vontade, por escrito, ao senhorio, no prazo de 90 dias após a morte do arrendatário, ficando responsáveis pelos prejuízos que causarem se não o fizerem.\n\n2 - Sob pena de caducidade, os titulares que queiram exercer aquele direito comunicarão a sua vontade, por escrito, ao senhorio, no prazo de 180 dias após a morte do arrendatário.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330518": {
+   "fragment_id": "35524375",
+   "type": 11,
+   "heading": "Artigo 25.º — Caducidade por expropriação",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 25.º — Caducidade por expropriação\n\n1 - A expropriação do prédio ou prédios arrendados por utilidade pública importa a caducidade do arrendamento.\n\n2 - Se a expropriação for total, o arrendamento é considerado encargo autónomo para o efeito de o arrendatário ser indemnizado pelo expropriante.\n\n3 - Na indemnização, além dos valores dos frutos pendentes ou das colheitas inutilizadas, atende-se ainda ao valor das benfeitorias a que o arrendatário tenha direito e aos demais prejuízos emergentes da cessação do arrendamento, calculados nos termos gerais de direito.\n\n4 - Se a expropriação for parcial, o arrendatário, independentemente dos direitos facultados no número anterior em relação à parte expropriada, pode optar pela resolução do contrato ou pela redução proporcional da renda.\n\n5 - Não se aplica, porém, o disposto no número anterior se a parte expropriada corresponder a mais do dobro da parte não expropriada, caso em que ocorre igualmente caducidade com a aplicação dos n.os 2 e 3 deste artigo.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330519": {
+   "fragment_id": "35524475",
+   "type": 11,
+   "heading": "Artigo 26.º — Trabalhos preparatórios e colheitas de frutos pendentes",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 26.º — Trabalhos preparatórios e colheitas de frutos pendentes\n\n1 - No decurso do último ano do arrendamento, o arrendatário não se pode opor à realização dos trabalhos indispensáveis ao normal aproveitamento da terra, a efectuar pelo novo cultivador.\n\n2 - Reciprocamente, o novo cultivador não pode impedir a realização de todas as práticas necessárias à colheita, utilização e transformação dos frutos pendentes, ainda que fora do prazo do arrendamento cessante.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330520": {
+   "fragment_id": "35524575",
+   "type": 11,
+   "heading": "Artigo 27.º — Novos arrendamentos",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 27.º — Novos arrendamentos\n\nQuando a cessação do contrato de arrendamento ocorrer por causa não imputável ao arrendatário, este goza do direito de preferência nos contratos de arrendamento celebrados nos cinco anos seguintes.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330521": {
+   "fragment_id": "35524675",
+   "type": 11,
+   "heading": "Artigo 28.º — Preferência",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 28.º — Preferência\n\n1 - No caso de venda ou dação em cumprimento do prédio arrendado, aos respectivos arrendatários com, pelo menos, três anos de vigência do contrato assiste o direito de preferirem na transmissão.\n\n2 - O direito de preferência do arrendatário cede perante o exercício desse direito por co-herdeiro ou comproprietário.\n\n3 - Sempre que o arrendatário exerça o direito de preferência referido no presente artigo, tem de cultivar o prédio directamente, como seu proprietário, durante, pelo menos, cinco anos, salvo caso de força maior, devidamente comprovado.\n\n4 - Em caso de inobservância do disposto no número anterior, o adquirente fica obrigado a pagar ao anterior proprietário o valor equivalente ao quíntuplo da última renda vencida e a transmitir a propriedade ao preterido com o exercício da preferência, se este o desejar, pelo preço por que adquiriu o prédio.\n\n5 - No caso de exercício judicial desse direito, o preço será pago ou depositado dentro de 30 dias após o trânsito em julgado da respectiva sentença, sob pena de caducidade do direito e do arrendamento.\n\n6 - No caso de procedência do direito de preferência há isenção de sisa.\n\n7 - Ficam também isentas de sisa todas as transmissões onerosas de prédios a favor dos respectivos arrendatários rurais desde que exista contrato escrito há, pelo menos, três anos, com assinaturas reconhecidas notarialmente ou autenticadas pelo serviços oficiais competentes.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330522": {
+   "fragment_id": "35524775",
+   "type": 11,
+   "heading": "Artigo 29.º — Arrendamento de campanha",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 29.º — Arrendamento de campanha\n\nO Ministro da Agricultura, Pescas e Alimentação pode autorizar, mediante portaria, por tempo limitado e em condições expressamente definidas, arrendamentos de campanha ou outras formas transitórias de exploração de terras alheias por períodos inferiores a um ano, sempre que condicionalismos de ordem económica e social o justifiquem.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330523": {
+   "fragment_id": "35524875",
+   "type": 11,
+   "heading": "Artigo 30.º — Arrendamento para fins de emparcelamento",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 30.º — Arrendamento para fins de emparcelamento\n\nOs prédios adquiridos para fins de emparcelamento podem ser arrendados por prazos inferiores aos estabelecidos no artigo 5.º deste diploma.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330524": {
+   "fragment_id": "35524975",
+   "type": 11,
+   "heading": "Artigo 31.º — Parceria agrícola",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 31.º — Parceria agrícola\n\n1 - Nos contratos de parceria agrícola só podem ser objecto de divisão entre o parceiro proprietário e o parceiro cultivador, no máximo, os três principais produtos habitualmente produzidos nos prédios objecto de contrato.\n\n2 - A divisão nunca pode fazer-se atribuindo ao parceiro proprietário quota superior a metade da produção de acordo com o número anterior.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330525": {
+   "fragment_id": "35525075",
+   "type": 11,
+   "heading": "Artigo 32.º — Contratos mistos",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 32.º — Contratos mistos\n\nNos contratos mistos de arrendamento e parceria só um dos produtos poderá ser objecto de divisão e dois de renda.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330526": {
+   "fragment_id": "35525175",
+   "type": 11,
+   "heading": "Artigo 33.º — Legislação aplicável",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 33.º — Legislação aplicável\n\nAos contratos de parceria agrícola e mistos aplica-se, com as adaptações necessárias, tudo quanto respeita aos arrendamentos rurais.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330527": {
+   "fragment_id": "35525275",
+   "type": 11,
+   "heading": "Artigo 34.º — Extinção da parceria agrícola",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 34.º — Extinção da parceria agrícola\n\nA parceria agrícola manter-se-á até que o Governo, por decreto-lei, estabeleça as normas transitórias adequadas à sua efectiva extinção.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330528": {
+   "fragment_id": "35525375",
+   "type": 11,
+   "heading": "Artigo 35.º — Formas de processo",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 35.º — Formas de processo\n\n1 - Os processos judiciais referidos no artigo 28.º têm carácter de urgência, seguem os termos de processo ordinário ou sumário, consoante o valor, e, enquanto estiverem pendentes, não pode efectivar-se a entrega do prédio ao senhorio com base em denúncia do contrato.\n\n2 - Os restantes processos judiciais referentes a arrendamentos rurais têm carácter de urgência e seguem a forma de processo sumário, salvo se outras forem expressamente previstas.\n\n3 - É sempre admissível recurso para o tribunal da relação quanto à matéria de direito, sem prejuízo dos recursos ordinários, consoante o valor da acção, tendo sempre efeito suspensivo o recurso interposto da sentença que decrete a restituição do prédio.\n\n4 - Nos casos previstos no n.º 4 do artigo 11.º aplica-se o processo previsto no artigo 1429.º do Código de Processo Civil, que reveste também carácter de urgência, não havendo recurso da decisão.\n\n5 - Nenhuma acção judicial pode ser recebida ou prosseguir, sob pena de extinção da instância, se não for acompanhada de um exemplar do contrato, quando exigível, a menos que logo se alegue que a falta é imputável à parte contrária.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330529": {
+   "fragment_id": "35525475",
+   "type": 11,
+   "heading": "Artigo 36.º — Âmbito de aplicação da presente lei",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 36.º — Âmbito de aplicação da presente lei\n\n1 - Aos contratos existentes à data da entrada em vigor da presente lei aplica-se o regime nela prescrito.\n\n2 - Ficam totalmente isentas de custas as acções instauradas ao abrigo de normas anteriores quando as partes desistam das mesmas ou se verifique a inutilidade superveniente da lide.\n\n3 - O novo regime previsto no artigo 3.º da presente lei apenas se aplicará aos contratos existentes à data da sua entrada em vigor a partir de 1 de Julho de 1989.\n\n4 - O presente diploma não se aplica aos processos pendentes em juízo que à data da sua entrada em vigor já tenham sido objecto de decisão em 1.ª instância, ainda que não transitada em julgado, salvo quanto a normas de natureza interpretativa.\n\n5 - Os contratos de arrendamento já renovados à data da entrada em vigor da presente lei não podem ser objecto de denúncia por parte do senhorio, para efeitos de exploração directa, nos primeiros quatro anos a contar do início da última renovação.\n\n6 - Até ao termo do prazo, em curso, dos contratos validamente celebrados ao abrigo do artigo 36.º da Lei n.º 76/77, de 29 de Setembro, não se aplica o disposto no artigo 13.º do presente diploma.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330530": {
+   "fragment_id": "35525575",
+   "type": 11,
+   "heading": "Artigo 37.º — Tribunais arbitrais",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 37.º — Tribunais arbitrais\n\nPoderão ser criados em cada comarca tribunais arbitrais, com a constituição e as competências que legalmente lhes venham a ser conferidas, para o julgamento de questões emergentes do contrato de arrendamento rural.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330531": {
+   "fragment_id": "35525675",
+   "type": 11,
+   "heading": "Artigo 38.º — Aplicação da presente lei nas regiões autónomas",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 38.º — Aplicação da presente lei nas regiões autónomas\n\n1 - A legislação sobre arrendamento rural aprovada pela Assembleia Regional dos Açores mantém-se em vigor nesta Região Autónoma.\n\n2 - As competências cometidas pela presente lei ao Ministério da Agricultura, Pescas e Alimentação e ao Ministro da Agricultura, Pescas e Alimentação, com excepção das respeitantes a tabelas de rendas, são exercidas na Região Autónoma da Madeira pelo respectivo Governo Regional.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330532": {
+   "fragment_id": "35525775",
+   "type": 11,
+   "heading": "Artigo 39.º — Definições",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 39.º — Definições\n\nPara os efeitos da presente lei, consideram-se adoptadas as definições constantes da Lei de Bases da Reforma Agrária.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330533": {
+   "fragment_id": "35525875",
+   "type": 11,
+   "heading": "Artigo 40.º — Disposições revogatórias",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "###### Artigo 40.º — Disposições revogatórias\n\n1 - São revogadas as Leis n.os 76/77, de 29 de Setembro, e 76/79, de 3 de Dezembro.\n\n2 - São igualmente revogados os Decretos-Leis n.os 32/79, de 28 de Fevereiro, com as alterações constantes da Lei n.º 24/79, de 26 de Julho, e 130/81, de 28 de Maio.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  },
+  "886330534": {
+   "fragment_id": "35525975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2010-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 10 de Outubro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Outubro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 294/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), em vigor a partir de 2010-01-11"
+  }
+ }
+}

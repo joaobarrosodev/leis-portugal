@@ -1,0 +1,707 @@
+---
+schema_version: '1.0'
+id: pt:dre:378109:por
+title: Despacho Normativo n.º 233/82
+short_title: null
+summary: Estabelece determinados condicionalismos relativos às embalagens dos medicamentos especializados
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério dos Assuntos Sociais - Secretaria de Estado da Saúde - Gabinete do Secretário de Estado
+proposing_entity: null
+official_number: 233/82
+official_date: null
+publication_date: '1982-10-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/1982, Série I de 1982-10-28
+  number: '250'
+  series: I
+  supplement: null
+  pages: 3578 - 3580
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25000/35783580.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '378109'
+  dre_path: /dr/detalhe/despacho-normativo/233-1982-378109
+  internal: pt:dre:378109:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/233-1982-378109
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/233-1982-378109
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-05-09T00:00:00Z'
+integrity:
+  source_sha256: 97352d4e156301133ad6e506b54ac3b4d7369eeeffe9e247b16549c3867518a2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-233-378109.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:609663:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 233/82
+
+Como é do conhecimento público, os medicamentos especializados são adquiridos, na sua grande maioria, com comparticipação dos Serviços Médico-Sociais, aos quais incumbe conferir o receituário enviado pelas farmácias a fim de a estas efectuar o pagamento das importâncias não suportadas pelos seus utentes.
+
+Essa conferência, pelo processo que tem vindo a adoptar-se, implica, dado o volume de vendas de medicamentos comparticipados, um árduo e oneroso trabalho administrativo, quer a nível daquele serviço, como até dos próprios fornecedores.
+
+Atenta esta realidade, o Plano Director de Informática do Sector da Saúde previu, entre as medidas prioritárias, a informatização desta função, pelo que, na devida oportunidade, foi implementado no Serviço de Informática da Saúde o projecto adrede designado «Conferência de facturas».
+
+São objectivos principais deste projecto informático, por um lado, o controle efectivo da facturação das farmácias e a racionalização e simplificação administrativas, garantindo o controle de utilização de receitas e a racionalização do consumo dos medicamentos.
+
+Visa-se ainda, por outro lado, contribuir para a realização e disponibilidade de um sistema integrado de informação, assegurando-se a oportunidade dessa informação e a melhoria da gestão dos recursos humanos envolvidos.
+
+Face ao exposto, urge viabilizar o referido projecto, impondo que as embalagens dos medicamentos especializados satisfaçam os requisitos para o efeito julgados indispensáveis.
+
+Nestes termos e ao abrigo do artigo 13.º do Decreto-Lei n.º 41448, de 18 de Dezembro de 1957, determino o seguinte:
+
+1 - As embalagens dos medicamentos especializados, para além dos elementos informativos de carácter geral legalmente impostos, passarão a conter:
+
+a) A origem do medicamento;
+
+b) A representação codificada do medicamento.
+
+2 - A origem do medicamento será indicada através das expressões «Nacional» e «Importado» ou das respectivas inicias: N e I.
+
+3 - A representação codificada do medicamento constará de uma etiqueta destacável da embalagem e que conterá os seguintes elementos:
+
+a) Designação comercial do medicamento;
+
+b) Preço de venda ao público;
+
+c) Código do produto em representação digital e de barras;
+
+d) Código de geração do preço, igualmente em representação digital e de barras.
+
+4 - A etiqueta referida no número anterior obedecerá às especificações técnicas indicadas no anexo A ao presente despacho.
+
+5 - As dúvidas suscitadas pela aplicação deste diploma serão resolvidas, ouvidos a Direcção-Geral de Saúde e o Serviço de Informática da Saúde, por despacho do Secretário de Estado da Saúde.
+
+6 - O sistema de etiquetagem introduzido pelo presente despacho aplicar-se-á às apresentações relacionadas no anexo B no prazo de 5 meses contado da data da sua publicação e às restantes no prazo de 1 ano contado da mesma data, sendo de aplicação imediata às apresentações cujo lançamento no mercado seja, de futuro, requerido.
+
+Secretaria de Estado da Saúde, 22 de Junho de 1982. - O Secretário de Estado da Saúde, Adalberto Paulo da Fonseca Mendo.
+
+## ANEXO A — Especificações técnicas da etiqueta referida no n.º 4 do presente despacho
+
+I - Informação da etiqueta
+
+A - Generalidades
+
+A etiqueta conterá informações literais e informações codificadas.
+
+1 - Informações literais:
+
+a) Designação comercial do medicamento, com a sua forma farmacêutica e apresentação abreviadas;
+
+b) Preço de venda ao público.
+
+2 - Informações codificadas:
+
+a) Código do medicamento;
+
+b) Código de geração do preço.
+
+Estes códigos serão apresentados em campos autónomos.
+
+B - Código das barras
+
+1 - Composição:
+
+1.1 - Do medicamento:
+
+O código terá a seguinte composição:
+
+* NAAAAAD *.
+
+* - Delimitador de início e fim de campo.
+
+N - Indicador de medicamento: 9 - Nacional; 8 - Importado.
+
+AAAAA - Código de medicamento.
+
+D - Dígito de controle.
+
+1.2 - Da geração do preço:
+
+O código terá a composição seguinte:
+
+* P *.
+
+* - Delimitador de início e fim de campo.
+
+P - Código de geração de preço, que pode variar de 0 a 9.
+
+2 - Aspectos técnicos de representação, dimensão, condições de impressão e tolerâncias:
+
+O código adoptado é o «Código de Barras 39», que obedece às características seguintes:
+
+2.1 - Representação:
+
+a) Código de barras alfanumérico, podendo representar-se 43 caracteres diferentes (dígitos, letras, 6 símbolos especiais e espaço) e um carácter especial de início/fim de campo;
+
+b) Podem ser representados campos de comprimento variável, cujo valor máximo atinge 32 caracteres;
+
+c) Aceitação de check-digit, automaticamente controlado;
+
+d) A distância entre caracteres não é uma imposição de base, já que este código é discreto (a imposição existe apenas entre as barras que constituem um carácter).
+
+2.2 - Dimensões:
+
+O «Código 39» está universalmente caracterizado segundo regras pré-definidas, podendo adoptar-se diversas versões no que respeita às dimensões dos seus elementos (barras estreitas e largas e espaços interbarras).
+
+2.3 - Condições de reflectividade e contraste na impressão:
+
+As medidas de reflectividade devem ser feitas num comprimento de onda a 900 mm, com uma largura de banda até ao nível de 50% de 40 nm ou menos.
+
+A radiação incidente será de 45º para a normal e o fluxo reflectido dentro de um ângulo de 15º centrado na normal. Os valores de reflectância são referidos a um óxido de magnésio ou sulfato de bário standard a 100%.
+
+A reflectância da base ou dos espaços brancos no código deverá exceder os 70%.
+
+O sinal de contraste de impressão (PCS) é definido por:
+
+PCS = (Rw - Rb)/Rw
+
+sendo Rw a reflectância dos espaços brancos e Rb a das barras pretas.
+
+PCS . 65
+
+A representação das barras far-se-á em negro sobre fundo branco, não se admitindo a inclusão de cores na zona da etiqueta.
+
+2.4 - Tolerância das larguras de barras e espaços:
+
+A largura das barras impressas e dos espaços é medida com um comparador óptico, usando luz reflectida incidente entre 30º e 45º da normal à superfície impressa.
+
+Uma ampliação de 50 X é recomendada, embora com alguma perda de precisão.
+
+Definindo a largura nominal das barras e espaços estreitos como X e o ratio nominal dos elementos largos para os estreitos como n, a tolerância t das barras e espaço é dada por:
+
+t = 4/27 (n - 2/3) x
+
+(n varia entre 2.2 e 3.0)
+
+II - Apresentação material da etiqueta na embalagem
+
+1 - Poderão utilizar-se etiquetas pré-impressas na embalagem ou etiquetas autocolantes.
+
+2 - Nas embalagens de vidro, plástico ou metal será usada etiqueta autocolante.
+
+3 - Exceptuados os casos referidos no número anterior, o uso de etiqueta autocolante obrigará sempre à destruição da embalagem aquando a sua extracção.
+
+4 - A etiqueta informática não poderá confundir-se com quaisquer outras indicações existentes na embalagem destinadas ao controle pelo utente.
+
+5 - A etiqueta informática será colocada numa das faces exteriores da embalagem em local escolhido pela indústria ou importador.
+
+III - Variação de preços
+
+1 - É admitida a remarcação do preço, efectuada apenas pela indústria ou importador e sob a sua exclusiva responsabilidade.
+
+2 - A remarcação será feita mediante sobreposição de etiqueta autocolante à etiqueta base pré-impressa, contendo os mesmos dados, actualizada apenas no que toca ao preço e respectivo código de geração.
+
+3 - Não será permitida a sobreposição de etiquetas autocolantes nem a existência na mesma embalagem de mais de uma etiqueta deste tipo.
+
+## ANEXO B — Relação prevista no n.º 6 do presente despacho
+
+Dolviran.
+
+Lauroderme.
+
+Optalidon.
+
+Novalgina.
+
+Ben-u-ron.
+
+Lorenin.
+
+Hydergin.
+
+Tanderil.
+
+Hirudoid.
+
+Tantum.
+
+Ultra-levure.
+
+Britacil.
+
+Becozyme.
+
+Bisolvon.
+
+Sargenor.
+
+Penadur.
+
+Conmel.
+
+Reumon-gel.
+
+Moduretic.
+
+Clamoxyl.
+
+Lexotan.
+
+Becê.
+
+Fenistil.
+
+Buscopam Compositum.
+
+Monovar D.
+
+Bactrim.
+
+Viterra.
+
+Glifanan.
+
+Vibrocil.
+
+Fenil B 12.
+
+Combantrin.
+
+Voltaren.
+
+Eritrocina.
+
+Kompensan.
+
+Neo Monovar D.
+
+Prevecilina.
+
+Canesten.
+
+Cholagutt.
+
+Persantin.
+
+Tridocemina.
+
+Solução stago.
+
+Halibut.
+
+Guttalax.
+
+Neurobion.
+
+Protovit.
+
+Microginon.
+
+Mucoral.
+
+Vi-dailin.
+
+Dinintel.
+
+Cholipin.
+
+Asparten.
+
+Noostan.
+
+Dimicina.
+
+Bialzepan.
+
+Orbenin.
+
+Garalone.
+
+Pulmonar-Om.
+
+Cecrisina.
+
+Stugeron.
+
+Indocid.
+
+Valium.
+
+Pantelmin.
+
+OHB 12.
+
+Furadantina.
+
+Betalgil.
+
+Ananase.
+
+Hygroton 50.
+
+Felden.
+
+Eugynon.
+
+Hipopen.
+
+Nasex.
+
+Ventilan.
+
+Ilvico.
+
+Amplifar.
+
+Primperan.
+
+Pankreoflat.
+
+Neo-Sinefrina.
+
+Aldomet.
+
+Librax.
+
+Vibramicina.
+
+Hiperbiótico.
+
+Luminal.
+
+Visadron.
+
+Unisedil.
+
+Transbronquina.
+
+Strolutean.
+
+Mucinum.
+
+Neufil.
+
+Aero-Om.
+
+Guronsan.
+
+A. A. S.
+
+Brufen.
+
+Septrim.
+
+Thrombocid.
+
+Fluidin.
+
+Diprofos.
+
+Broncodiazina.
+
+Clarvisan.
+
+Lasix.
+
+Lisomucin.
+
+Rohypnol.
+
+Phosphalugel.
+
+Castilium.
+
+Confo-Pneumina.
+
+Naprosyn.
+
+Calcigenol.
+
+Toclase.
+
+Microlax.
+
+Ipesandrine.
+
+Vomidrine.
+
+Fosfo-Astenil.
+
+Streptomagma.
+
+Scheriproct.
+
+Deca-Durabolin.
+
+Lanoxin.
+
+Pepsamar.
+
+Bradoral.
+
+Betadine.
+
+Flindix.
+
+Tetrex.
+
+Lanitop.
+
+Dulcolax.
+
+Oraminax.
+
+Effortil.
+
+Relmus.
+
+Gevral.
+
+Zyloric.
+
+Mycostatin.
+
+Dolobid.
+
+Algesal.
+
+Tranxene.
+
+Novobedouze Dez Mil.
+
+Sais Andrews.
+
+Mosegor.
+
+Agiolax.
+
+Ludiomil.
+
+Salicylcafeina.
+
+Terramicina.
+
+Medipax.
+
+Espasmo-Canulase.
+
+Artribid.
+
+Adalgur.
+
+Ceporex.
+
+Hemototal.
+
+Viternum.
+
+Cipamox.
+
+Serenal.
+
+Pan-Asténico.
+
+Panasorbe.
+
+Septil.
+
+Sedioton.
+
+Cosmaxil.
+
+Benylin Expectorante.
+
+Polysporina.
+
+Tagamet.
+
+Biopental Om.
+
+Cibalgina.
+
+Activarol.
+
+Esclerobion.
+
+Varimine.
+
+Pipertox.
+
+Ceporan.
+
+Rovamycine.
+
+Brinerdine.
+
+Quadriderme.
+
+Parentrovite.
+
+Helopanflat.
+
+Dulceril.
+
+Synalar N.
+
+Bialminal.
+
+Donorest.
+
+Rovigon.
+
+Kemphor.
+
+Insulina Novo.
+
+Nifluril.
+
+Lincocina.
+
+Adalat.
+
+Epione.
+
+Isoket.
+
+Ornade Spansule.
+
+Ossopan.
+
+Sermion.
+
+Daonil.
+
+Carudol.
+
+Constipal.
+
+Dihydergot.
+
+Lyndiol.
+
+Isoptin.
+
+Cicnor.
+
+Butazolidina.
+
+Ferro-Gradumet.
+
+Neo-Bradoral.
+
+Mobilat.
+
+Glutrex.
+
+Buscopan.
+
+Cedilanide.
+
+Flodisona.
+
+Depo-Medrol.
+
+Ricolon.
+
+Celesdepot.
+
+Bio-Energol.
+
+Espasmoplus.
+
+Otosporin.
+
+Selenix.
+
+Noverme.
+
+Lentocilina S.
+
+Bêlisina.
+
+Zaditen.
+
+Fibrocide.
+
+Hextril.
+
+Periactin.
+
+Inderal.
+
+Permadoze.
+
+Coricidil D.
+
+Otrivina.
+
+Locabiosol.
+
+Enjomin.
+
+Frucaldê.
+
+Neociclina.
+
+Cogitum.
+
+Calcium Sandoz.
+
+Betnovate.
+
+Anafranil.
+
+Trifosfaneurina.
+
+Hidantina.
+
+Trenelone.
+
+Lactobilina B.
+
+Arovit.
+
+Fenergan.
+
+Pramet.

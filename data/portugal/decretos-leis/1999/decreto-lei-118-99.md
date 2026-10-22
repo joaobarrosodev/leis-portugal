@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:544610:por
+title: Decreto-Lei n.º 118/99
+short_title: null
+summary: Estabelece o direito de acessibilidade dos deficientes visuais acompanhados de «cães-guia» a locais, transportes
+  e estabelecimentos de acesso público, bem como as condições a que estão sujeitos estes animais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 118/99
+official_date: null
+publication_date: '1999-04-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/1999, Série I-A de 1999-04-14
+  number: '87'
+  series: I
+  supplement: null
+  pages: 1996 - 1997
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/04/087a00/19961997.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/118/1999/04/14/p/dre/pt/html
+  oj: null
+  dre: '544610'
+  dre_path: /dr/detalhe/decreto-lei/118-1999-544610
+  internal: pt:dre:544610:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1999-544610
+  metadata_url: https://data.dre.pt/eli/dec-lei/118/1999/04/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1999-544610
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-03-27T00:00:00Z'
+integrity:
+  source_sha256: dc4805a7cd6b7c62dc334af87fe2fb9f5b55105618c9f12dae74ef2cf240b08f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-118-544610.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Deficiente
+- Equipamento Desportivo
+- Direito de Acesso
+- CÃO de Assistência
+- Estabelecimento de Jogos
+- Estabelecimento Comercial
+- Deficiente Visual
+- Estabelecimento de Bebidas
+- Estabelecimento de Restauração
+- Estabelecimento Hoteleiro
+- Seguro
+- Parque de Campismo
+- Parque de Diversões
+- Proteção ao Deficiente
+- Estabelecimento de Ensino
+- Reabilitação
+- Recinto de Diversões Aquáticas
+- Estabelecimento Hospitalar
+- Responsabilidade Civil
+- Recinto Cultural
+- Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:520261:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/92/1995/09/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/92/1995/09/12/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 118/99
+
+de 14 de Abril
+
+O presente diploma introduz no ordenamento jurídico português regras destinadas a facilitar a missão de meio auxiliar de locomoção que os «cães-guia» acompanhantes de deficientes visuais desempenham, colmatando-se assim uma lacuna legislativa que obstava, afinal, ao pleno cumprimento da missão que os mesmos animais são chamados a desempenhar.
+
+Em 1982, foi publicada legislação referente às condições de acesso dos «cães-guia» aos transportes públicos. Referimo-nos à [Portaria n.º 83/82](https://diariodarepublica.pt/dr/detalhe/portaria/83-1982-601525), de 19 de Janeiro, e ao [Decreto Regulamentar n.º 18/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1982-607134), de 8 de Abril, que vieram regular, respectivamente, o acesso dos «cães-guia» acompanhantes de deficientes visuais aos comboios e aos autocarros de transporte público de passageiros.
+
+As medidas consignadas nesses diplomas, embora viessem a ver a sua aplicabilidade reforçada pelo artigo 7.º da [Lei n.º 92/95](https://diariodarepublica.pt/dr/detalhe/lei/92-1995-562269), de 12 de Setembro, são insuficientes, porque tratam exclusivamente do acesso aos transportes e não têm em consideração bastante o adestramento destes animais, ao imporem condições de utilização que são manifestamente injustificadas, aliás, consideradas na época de natureza transitória, a serem eliminadas «quando estiverem criadas as estruturas necessárias ao adestramento especial dos 'cães-guia' com vista ao pleno desempenho da sua função de meio auxiliar de locomoção, por forma acessível a todos os invisuais», o que veio a efectivar-se com a criação da escola de «cães-guia» de cegos.
+
+Assim, no desenvolvimento do regime jurídico estabelecido pela Lei de Bases da Prevenção e da Reabilitação e Integração das Pessoas com Deficiência, [Lei n.º 9/89](https://diariodarepublica.pt/dr/detalhe/lei/9-1989-611899), de 2 de Maio, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o direito de acessibilidade dos deficientes visuais acompanhados de cães-guia a locais, transportes e estabelecimentos de acesso público, e, bem assim, as condições a que estão sujeitos estes animais quando no desempenho da sua missão.
+
+###### Artigo 2.º — Direito de acesso
+
+Os deficientes visuais têm o direito a fazer-se acompanhar de cães-guia no acesso aos seguintes locais:
+
+a) Transportes públicos, nomeadamente aeronaves das transportadoras aéreas nacionais, barcos, comboios, autocarros, carros eléctricos, metropolitano e táxis;
+
+b) Estabelecimentos escolares, públicos ou privados;
+
+c) Centros de formação profissional ou de reabilitação;
+
+d) Recintos desportivos de qualquer natureza, designadamente estádios, pavilhões gimnodesportivos, piscinas e outros;
+
+e) Salas e recintos de espectáculos ou de jogos;
+
+f) Edifícios dos serviços da administração pública central, regional e local, incluindo os institutos públicos;
+
+g) Estabelecimentos de saúde, públicos ou privados;
+
+h) Locais de prestação de serviços abertos ao público em geral, tais como estabelecimentos bancários, seguradoras, correios e outros;
+
+i) Estabelecimentos de comércio, incluindo centros comerciais, hipermercados e supermercados;
+
+j) Estabelecimentos relacionados com a indústria da restauração e do turismo, incluindo restaurantes, cafetarias, casas de bebidas e outros abertos ao público;
+
+k) Estabelecimentos de alojamento, como hotéis, residenciais, pensões e outros similares;
+
+l) Lares e casas de repouso;
+
+m) Locais de lazer e de turismo em geral, como praias, parques de campismo, termas, jardins e outros;
+
+n) Locais de emprego.
+
+###### Artigo 3.º — Exercício do direito de acesso
+
+1 - O direito de acesso previsto no artigo anterior não implica qualquer custo suplementar para o deficiente visual e prevalece sobre quaisquer proibições que contrariem o disposto no presente diploma, ainda que assinaladas por placas ou outros sinais distintivos.
+
+2 - Nos casos em que as especiais características, natureza ou finalidades dos locais o determinem, nomeadamente no que respeita ao transporte aéreo, o direito de acesso a que se refere o artigo anterior poderá ser objecto de regulamentação que explicite o modo concreto do seu exercício.
+
+3 - O direito de acesso não pode ser exercido enquanto o animal apresentar sinais manifestos de doença, agressividade, falta de asseio, apresente qualquer outra característica anormal susceptível de provocar receios fundados para as pessoas ou outros animais, ou se comporte de forma inadequada de modo a perturbar o normal funcionamento do local em causa.
+
+###### Artigo 4.º — Cães-guia em treino
+
+1 - As condições de acesso previstas no presente diploma são aplicáveis aos cães-guia em treino, desde que acompanhados pelo respectivo tratador ou pela «família de acolhimento».
+
+2 - Consideram-se famílias de acolhimento as que recebem os cães-guia durante a fase de adaptação do animal à convivência humana e que estejam credenciadas como tal.
+
+###### Artigo 5.º — Credenciação
+
+1 - O estatuto de cão-guia deve ser credenciado por um cartão próprio e um distintivo, passados por estabelecimento idóneo, nacional ou estrangeiro, que certifique o adestramento do animal como cão-guia em termos a regulamentar.
+
+2 - A escola de cães-guia emitirá igualmente um cartão de identificação para as famílias de acolhimento e para os cães-guia em treino.
+
+###### Artigo 6.º — Elementos comprovativos
+
+1 - Quando utilizado como cão-guia, o animal deverá transportar de modo bem visível o distintivo a que se refere o artigo anterior, que assumirá carácter oficial e que o identifica como tal.
+
+2 - Sem prejuízo do disposto no número anterior, o utilizador do cão-guia deverá comprovar, sempre que necessário, o seguinte:
+
+a) O adestramento do animal como cão-guia, tal como se define no artigo anterior, sem prejuízo da restante legislação aplicável, nomeadamente a referente à protecção de animais de companhia;
+
+b) Que o animal cumpre os requisitos sanitários legalmente exigidos;
+
+c) Que está em vigor o seguro previsto no n.º 2 do artigo seguinte.
+
+###### Artigo 7.º — Responsabilidade
+
+1 - No exercício do direito de acesso previsto no artigo 2.º, o deficiente visual deverá zelar pelo correcto comportamento do animal, sendo responsável, nos termos previstos na lei geral, pelos danos que este venha a causar a terceiros.
+
+2 - O exercício dos direitos previstos no presente diploma depende da constituição prévia de um seguro de responsabilidade civil por danos causados a terceiros por cães-guia.
+
+###### Artigo 8.º — Norma transitória
+
+O presente diploma não se aplica aos cães auxiliares de deficientes visuais que já estejam a ser utilizados à data da sua entrada em vigor.
+
+###### Artigo 9.º — Norma revogatória
+
+São revogados a [Portaria n.º 83/82](https://diariodarepublica.pt/dr/detalhe/portaria/83-1982-601525), de 19 de Janeiro, e o [Decreto Regulamentar n.º 18/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1982-607134), de 8 de Abril.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente diploma entra em vigor 90 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa.
+
+**Promulgado em 24 de Março de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 31 de Março de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

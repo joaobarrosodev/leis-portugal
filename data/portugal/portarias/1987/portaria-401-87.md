@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:421417:por
+title: Portaria n.º 401/87
+short_title: null
+summary: Estabelece as regras relativas à fixação e atribuição de restituições à exportação dos produtos abrangidos pela organização
+  do mercado do leite e produtos lácteos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio
+proposing_entity: null
+official_number: 401/87
+official_date: null
+publication_date: '1987-05-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/1987, Série I de 1987-05-14
+  number: '110'
+  series: I
+  supplement: null
+  pages: 1966 - 1967
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/05/11000/19661967.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421417'
+  dre_path: /dr/detalhe/portaria/401-1987-421417
+  internal: pt:dre:421417:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/401-1987-421417
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/401-1987-421417
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-10-19T00:00:00Z'
+integrity:
+  source_sha256: b53ca478b02263e31cd98610b0cd75c5e06d379cac86f078ba5849d7945155c3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-401-421417.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:565578:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 401/87
+
+de 14 de Maio
+
+Considerando a faculdade legal de atribuição de restituições à exportação dos produtos abrangidos pela organização do mercado do leite e produtos lácteos;
+
+Considerando que o montante da restituição a conceder às exportações para a Comunidade não pode exceder a diferença de preços verificados em Portugal e na Comunidade, conforme o estipulado no artigo 271.º do Acto de Adesão;
+
+Considerando que o montante da restituição a conceder às exportações para países terceiros deve ser limitado ao estritamente necessário para assegurar o escoamento do produto em causa no mercado de destino, conforme o estipulado no n.º 2 do artigo 283.º do Acto de Adesão;
+
+Considerando ainda que a fixação destas restituições está sujeita a consultas prévias no âmbito do comité de gestão instituído pela Organização Comum de Mercado do sector em causa, nos termos do artigo 276.º e do n.º 2 do artigo 283.º do Acto de Adesão;
+
+Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ao abrigo do n.º 10 do artigo 13.º do [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), de 31 de Dezembro, com a última redacção que lhe foi dada pelo [Decreto-Lei n.º 180/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1986-228261), de 4 de Julho, o seguinte:
+
+1.º A presente portaria estabelece as regras relativas à fixação e atribuição de restituições à exportação para os produtos visados no artigo 1.º do [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), de 31 de Dezembro, com a última redacção que lhe foi dada pelo [Decreto-Lei n.º 180/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1986-228261), de 4 de Julho.
+
+2.º As restituições são fixadas tomando em consideração os elementos seguintes:
+
+1) A situação e as perspectivas de evolução:
+
+a) No mercado nacional, dos preços dos produtos do sector do leite e produtos lácteos, bem como as condições de abastecimento;
+
+b) No mercado comunitário e mundial, dos preços dos produtos do sector do leite e produtos lácteos;
+
+2) O interesse em evitar perturbações susceptíveis de provocar um desequilíbrio prolongado entre a oferta e a procura no mercado português;
+
+3) O impacte económico da exportação em questão.
+
+3.º Para o cálculo da restituição ter-se-á em conta a diferença dos preços do leite e produtos lácteos nos mercados nacional, comunitário e mundial.
+
+4.º Os preços referidos na alínea 1) do n.º 2.º são estabelecidos tendo em consideração os elementos seguintes:
+
+1) Para o preço no mercado nacional:
+
+a) Os preços praticados em Portugal;
+
+b) Os preços praticados na exportação;
+
+2) Para o preço no mercado comunitário:
+
+a) Os preços praticados na Comunidade;
+
+b) Os preços praticados nas trocas intracomunitárias;
+
+c) Os preços praticados na exportação para países terceiros;
+
+3) Para os preços no mercado mundial:
+
+a) Os preços praticados nos mercados internacionais;
+
+b) Os preços mais favoráveis constatados nas trocas internacionais;
+
+c) Os preços constatados à produção nos países exportadores, tendo em conta, se for caso disso, as subvenções concedidas por esses países;
+
+d) Os preços de oferta franco-fronteira em Portugal.
+
+5.º As restituições à exportação podem ser diferenciadas, consoante os países de destino, mas, quando destinadas ao mercado comunitário, não poderão exceder a diferença de preços praticados no mercado nacional e naquele mercado.
+
+6.º Os produtos para os quais poderá ser concedida restituição e os respectivos montantes serão definidos por despacho conjunto dos ministros com competência nas áreas das finanças, da agricultura, do comércio e da concorrência, sob proposta do IROMA - Instituto Regulador e Orientador dos Mercados Agrícolas, do INGA - Instituto Nacional de Garantia Agrícola e da Direcção-Geral de Concorrência e Preços, sempre que as condições do mercado o exijam.
+
+7.º O montante de restituição é o que estiver em vigor no dia da exportação.
+
+8.º A pedido do exportador, e sempre que a situação do mercado o permita, a restituição pode ser fixada com antecedência, sendo, neste caso, o seu montante o que estiver em vigor no dia da apresentação do pedido de prefixação.
+
+9.º A concessão da restituição nas condições previstas no número anterior fica subordinada à prefixação da restituição no certificado de exportação ou no documento que o substitua.
+
+10.º A concessão do certificado com prefixação, ou documento que o substitua, fica sujeita à constituição de uma caução que garanta a efectivação da exportação em causa durante o período de validade do certificado ou do referido documento.
+
+11.º No acto de apresentação do pedido de certificado com prefixação, ou documento que o substitua, o requerente prestará prova de realização prévia de depósito, à ordem da entidade emissora, do montante global da caução exigível.
+
+12.º O montante da caução referida no número anterior é o seguinte, de acordo com as posições pautais indicadas:
+
+04.01 - 5$00/kg de peso líquido;
+
+04.02 - 10$00/kg de peso líquido;
+
+04.03 - 10$00/kg de peso líquido;
+
+04.04 - 25$00/kg de peso líquido;
+
+Outros - 25$00/kg de peso líquido.
+
+13.º O montante da restituição é pago pelo INGA após a apresentação de documentos visados pelas entidades aduaneiras que comprovem que os produtos foram exportados, são de origem portuguesa e atingiram o país de destino.
+
+14.º O montante da caução será restituído, no todo ou em parte, após prova apresentada pelo exportador de que a mercadoria saiu do País, junto da entidade que emitiu o certificado ou documento que o substitua.
+
+15.º Esta portaria entra em vigor no dia seguinte à sua publicação.
+
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+
+**Assinada em 30 de Abril de 1987.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.**

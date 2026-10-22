@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114200700:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-153025639",
+ "dre_path": "/dr/detalhe/portaria/348-2017-114200700",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-11-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "153136684",
+    "153136685",
+    "153136686",
+    "153136687",
+    "153136688",
+    "153136689",
+    "153136690",
+    "153136691",
+    "153136692",
+    "153136693"
+   ]
+  },
+  {
+   "date": "2021-01-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:153013706:por",
+     "title": "Portaria n.º 6/2021",
+     "published": "2021-01-06",
+     "dre_path": "/dr/detalhe/portaria/6-2021-153013706"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "153136684",
+    "153136685",
+    "153136686",
+    "153136700",
+    "153136688",
+    "153136689",
+    "153136690",
+    "153136691",
+    "153136692",
+    "153136693",
+    "153136694"
+   ]
+  }
+ ],
+ "fragments": {
+  "153136684": {
+   "fragment_id": "153025640",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 348/2017\n\nde 14 de novembro\n\nDando seguimento à Lei n.º 105/2017, de 30 de agosto de 2017, o Governo entende ser esta uma oportunidade para dar ao mercado e aos consumidores de eletricidade, mais informação e melhores condições para uma escolha informada e completa sobre as ofertas de preços de eletricidade em Portugal.\n\nMas para além de mais informação é devolvida ainda aos consumidores a opção de escolherem entre todas as ofertas existentes, quer as tarifas do mercado liberalizado quer as do mercado regulado das quais se prevê uma descida de preço para o ano de 2018 (quer na Baixa Tensão Normal, quer nas Tarifas de Acesso).\n\nÉ ainda estabelecida a obrigatoriedade de os comercializadores informarem em local visível e de forma inequívoca, o valor da diferença entre o preço praticado em regime de mercado e na tarifa regulada, dando assim mais informação para uma escolha informada dos consumidores.\n\nEm simultâneo e, no seguimento do Decreto-Lei n.º 38/2017, de 31 de março, os consumidores passarão a ter disponível igualmente uma plataforma eletrónica cuja missão principal será a de oferecer meios para os consumidores de eletricidade e gás acederem a informação e assim poderem optar por mudarem de forma ágil, informada e simples de fornecedor de eletricidade (e também de gás natural) sempre que o desejem.\n\nFoi ouvida a Entidade Reguladora dos Serviços Energéticos.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Energia, ao abrigo do disposto no n.º 2 do artigo 2.º-A do Decreto-Lei n.º 75/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, e pela Lei n.º 105/2017, de 30 de agosto de 2017, o seguinte:"
+  },
+  "153136685": {
+   "fragment_id": "153025641",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime equiparado ao das tarifas transitórias ou reguladas de que podem beneficiar os clientes finais com contrato de fornecimento de eletricidade com um comercializador em regime de mercado, nos termos do Decreto-Lei n.º 75/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, e pela Lei n.º 105/2017, de 30 de agosto de 2017."
+  },
+  "153136686": {
+   "fragment_id": "153025642",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente portaria, entende-se por:\n\na) Baixa tensão normal - fornecimento ou entrega de eletricidade a uma tensão entre fases cujo valor eficaz é inferior ou igual a 1 kV e uma potência contratada inferior ou igual a 41,4 kVA;\n\nb) Cliente final - pessoa singular ou coletiva que compra energia elétrica para consumo próprio;\n\nc) Comercializador de último recurso - entidade titular de licença de comercialização, que no exercício da sua atividade está sujeita à obrigação de prestação de serviço público universal de fornecimento de energia elétrica, nos termos legalmente definidos;\n\nd) Comercializador em regime de mercado - entidade cuja atividade consiste na compra a grosso e na venda a grosso e a retalho de energia elétrica, em nome próprio ou em representação de terceiros."
+  },
+  "153136687": {
+   "fragment_id": "153025643",
+   "type": 11,
+   "heading": "Artigo 3.º — Exercício do direito de opção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exercício do direito de opção\n\n1 - O direito de opção pelo regime de preços definido na presente portaria pode ser exercido até 31 de dezembro de 2020, por força do estatuído na alínea a) do n.º 1 do artigo 171.º da Lei n.º 42/2016, de 28 de dezembro.\n\n2 - O exercício do direito de opção pelo regime de preços definido na presente portaria está disponível aos clientes finais de contratos de fornecimento, relativamente a instalações consumidoras por si detidas ou usufruídas ligadas às redes do Sistema Elétrico Nacional (SEN) em baixa tensão normal.\n\n3 - Para efeito do disposto nos números anteriores, os comercializadores devem divulgar se disponibilizam ou não o regime equiparado regulamentado no presente diploma, nos termos a definir pela Entidade Reguladora dos Serviços Energéticos (ERSE).\n\n4 - O exercício do direito de opção pelo regime de preços definido na presente portaria é concretizado através de solicitação, por qualquer meio ou suporte de comunicação, incluindo canais remotos, do cliente final ao comercializador responsável pelo fornecimento à respetiva instalação consumidora.\n\n5 - O comercializador responsável pelo fornecimento à instalação consumidora para a qual se requer o regime de preços definido na presente portaria dispõe de 10 dias úteis para resposta ao cliente final.\n\n6 - Sempre que a resposta prevista no número anterior expressar a inviabilidade de aplicação do regime de preços equiparado ao das tarifas transitórias ou reguladas, esta deverá ser efetuada na forma escrita, constituindo esta resposta comprovativo suficiente para que o cliente final celebre contrato de fornecimento com o comercializador de último recurso.\n\n7 - Nas situações previstas no número anterior, bem como naquelas em que o comercializador divulgou publicamente que não disponibiliza o regime equiparado ao das tarifas transitórias ou reguladas ou não respondeu no prazo fixado no n.º 5, o cliente tem direito à cessação do contrato de fornecimento por celebração de novo contrato com o comercializador de último recurso, estando essa cessação isenta de quaisquer ónus ou encargos para o cliente, incluindo as penalizações relativas a eventuais períodos de fidelização, que não decorram estritamente da faturação dos consumos medidos.\n\n8 - No caso de terem sido contratados serviços duais ou adicionais, a cessação dos outros serviços ou a manutenção parcial do contrato, não pode ser utilizada para penalizar o cliente final pelo exercício do direito de opção previsto no n.º 1, sem prejuízo da perda de eventuais benefícios associados às condições de prestação dos outros serviços.\n\n9 - Na celebração de novos contratos de fornecimento, por clientes finais habilitados a requerer o regime de preços definido na presente portaria, a contratação direta com o comercializador de último recurso depende da verificação de inexistência de disponibilidade de aplicação deste regime, pelos restantes comercializadores, aplicando-se o disposto nos n.os 5 e 6, com as necessárias adaptações."
+  },
+  "153136688": {
+   "fragment_id": "153025644",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de preços equiparado ao das tarifas transitórias ou reguladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de preços equiparado ao das tarifas transitórias ou reguladas\n\n1 - Para efeitos da aplicação da presente portaria, os comercializadores em regime de mercado podem praticar condições de preço equivalentes, por tipo de fornecimento e potência contratada, às que são aprovadas pela ERSE, nos termos do Regulamento Tarifário, para os fornecimentos em baixa tensão normal do comercializador de último recurso.\n\n2 - As condições de preço a que se refere o número anterior não podem incluir qualquer margem de acréscimo ou diferencial de agravamento sobre os preços aprovados para aplicação pelo comercializador de último recurso, para fornecimentos equivalentes.\n\n3 - A sujeição da adesão ao regime de preços a que se refere o n.º 1, pelos comercializadores em regime de mercado, a condições ou subordinação, por qualquer meio ou forma, à contratação de qualquer serviço ou produto adicional ou acessório ao fornecimento de energia elétrica, equivale à manifestação de indisponibilidade para aplicação do presente regime."
+  },
+  "153136689": {
+   "fragment_id": "153025645",
+   "type": 11,
+   "heading": "Artigo 5.º — Transparência e informação ao cliente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transparência e informação ao cliente\n\n1 - Os comercializadores em regime de mercado que pretendam praticar condições de preço definidas no n.º 1 do artigo 4.º, devem disponibilizar informação pública dessas condições, designadamente através dos meios e suportes de informação ao cliente previstos no Regulamento de Relações Comerciais aprovado pela ERSE.\n\n2 - As ofertas comerciais dos comercializadores em regime de mercado que pretendam disponibilizar as condições de preço definidas no n.º 1 do artigo 4.º devem ser identificadas autonomamente e denominadas de «Condições de preço regulado».\n\n3 - Nas faturas, enviadas aos consumidores por todos os comercializadores em regime de mercado, deve ser colocado, em local visível e de forma inequívoca, o valor da diferença entre o preço praticado em regime de mercado e na tarifa regulada pela presente portaria.\n\n4 - Para concretização dos deveres de informação previstos nos números anteriores, deverá a ERSE definir o conteúdo mínimo e o modo pelo qual deve ser prestada essa informação.\n\n5 - Fica o Operador Logístico de Mudança de Comercializador (OLMC) incumbido de, no âmbito do desenvolvimento do estabelecido no Decreto-Lei n.º 38/2017, de 31 de março (Poupa Energia), proporcionar aos consumidores a informação estabelecida no número anterior."
+  },
+  "153136690": {
+   "fragment_id": "153025646",
+   "type": 11,
+   "heading": "Artigo 6.º — Contratação com o comercializador de último recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contratação com o comercializador de último recurso\n\n1 - Os comercializadores de último recurso encontram-se obrigados a fornecer, além das demais situações previstas na legislação e regulamentação aplicáveis, os clientes finais para os quais os respetivos comercializadores titulares de fornecimento ou de prospetivo contrato de fornecimento recusaram a aplicação do regime de preços definido na presente portaria.\n\n2 - Nos fornecimentos previstos no número anterior, os comercializadores de último recurso aplicam as tarifas e preços definidas pela ERSE."
+  },
+  "153136691": {
+   "fragment_id": "153025647",
+   "type": 11,
+   "heading": "Artigo 7.º — Reporte de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reporte de informação\n\n1 - As ofertas comerciais pelos comercializadores em regime de mercado nas quais se pratiquem condições de preço definidas no n.º 1 do artigo 4.º, encontram-se vinculados às mesmas obrigações de reporte que se encontram definidas para as ofertas comerciais nos termos do Regulamento de Relações Comerciais aprovado pela ERSE.\n\n2 - Os comercializadores em regime de mercado devem adicionalmente remeter à ERSE, em periodicidade semestral e até 45 dias após o fim do semestre a que a informação diga respeito, o número de pedidos de aplicação do regime de preços definido na presente portaria, bem como o número de situações às quais não foi dado provimento.\n\n3 - Os comercializadores em regime de mercado devem, ainda, na periodicidade e prazo definidos no número anterior, remeter à ERSE o número de situações em que a resposta ao cliente não foi assegurada no prazo previsto no n.º 4 do artigo 3.º\n\n4 - O reporte de informação referido nos números anteriores é assegurado por via eletrónica, em meio e formato a definir pela ERSE."
+  },
+  "153136692": {
+   "fragment_id": "153025648",
+   "type": 11,
+   "heading": "Artigo 8.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contraordenações\n\nA violação do previsto na presente portaria constitui contraordenação no âmbito do Setor Elétrico Nacional, punível pela ERSE, nos termos do artigo 28.º da Lei n.º 9/2013, de 28 de janeiro, que aprovou o regime sancionatório do setor energético."
+  },
+  "153136693": {
+   "fragment_id": "153025649",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor a 1 de janeiro de 2018."
+  },
+  "153136700": {
+   "fragment_id": "153025643",
+   "type": 11,
+   "heading": "Artigo 3.º — Exercício do direito de opção",
+   "in_force_from": "2021-01-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2021 - Diário da República n.º 3/2021, Série I de 2021-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/6-2021-153013706), em vigor a partir de 2021-01-07, produz efeitos a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 3.º — Exercício do direito de opção\n\n1 - O direito de opção pelo regime de preços definido na presente portaria pode ser exercido até 31 de dezembro de 2025.\n\n2 - O exercício do direito de opção pelo regime de preços definido na presente portaria está disponível aos clientes finais de contratos de fornecimento, relativamente a instalações consumidoras por si detidas ou usufruídas ligadas às redes do Sistema Elétrico Nacional (SEN) em baixa tensão normal.\n\n3 - Para efeito do disposto nos números anteriores, os comercializadores devem divulgar se disponibilizam ou não o regime equiparado regulamentado no presente diploma, nos termos a definir pela Entidade Reguladora dos Serviços Energéticos (ERSE).\n\n4 - O exercício do direito de opção pelo regime de preços definido na presente portaria é concretizado através de solicitação, por qualquer meio ou suporte de comunicação, incluindo canais remotos, do cliente final ao comercializador responsável pelo fornecimento à respetiva instalação consumidora.\n\n5 - O comercializador responsável pelo fornecimento à instalação consumidora para a qual se requer o regime de preços definido na presente portaria dispõe de 10 dias úteis para resposta ao cliente final.\n\n6 - Sempre que a resposta prevista no número anterior expressar a inviabilidade de aplicação do regime de preços equiparado ao das tarifas transitórias ou reguladas, esta deverá ser efetuada na forma escrita, constituindo esta resposta comprovativo suficiente para que o cliente final celebre contrato de fornecimento com o comercializador de último recurso.\n\n7 - Nas situações previstas no número anterior, bem como naquelas em que o comercializador divulgou publicamente que não disponibiliza o regime equiparado ao das tarifas transitórias ou reguladas ou não respondeu no prazo fixado no n.º 5, o cliente tem direito à cessação do contrato de fornecimento por celebração de novo contrato com o comercializador de último recurso, estando essa cessação isenta de quaisquer ónus ou encargos para o cliente, incluindo as penalizações relativas a eventuais períodos de fidelização, que não decorram estritamente da faturação dos consumos medidos.\n\n8 - No caso de terem sido contratados serviços duais ou adicionais, a cessação dos outros serviços ou a manutenção parcial do contrato, não pode ser utilizada para penalizar o cliente final pelo exercício do direito de opção previsto no n.º 1, sem prejuízo da perda de eventuais benefícios associados às condições de prestação dos outros serviços.\n\n9 - Na celebração de novos contratos de fornecimento, por clientes finais habilitados a requerer o regime de preços definido na presente portaria, a contratação direta com o comercializador de último recurso depende da verificação de inexistência de disponibilidade de aplicação deste regime, pelos restantes comercializadores, aplicando-se o disposto nos n.os 5 e 6, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 6/2021 - Diário da República n.º 3/2021, Série I de 2021-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/6-2021-153013706), em vigor a partir de 2021-01-07, produz efeitos a partir de 2020-12-31"
+  },
+  "153136694": {
+   "fragment_id": "153025650",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Energia, Jorge Filipe Teixeira Seguro Sanches, em 3 de novembro de 2017."
+  }
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:636752:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-977485286",
+ "dre_path": "/dr/detalhe/decreto-lei/266-2007-636752",
+ "source_lastmod": "2026-06-02",
+ "versions": [
+  {
+   "date": "2026-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1128002422:por",
+     "title": "Decreto-Lei n.º 109/2026",
+     "published": "2026-05-29",
+     "dre_path": "/dr/detalhe/decreto-lei/109-2026-1128002422"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A",
+    "Adita Anexo I",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "977506175",
+    "1128246075",
+    "1128246175",
+    "1128246275",
+    "1128246375",
+    "1128246475",
+    "1128246575",
+    "1128246675",
+    "1128246775",
+    "1128246875",
+    "1128246975",
+    "1128247075",
+    "1128247175",
+    "1128247275",
+    "1128247375",
+    "1128247475",
+    "1128247575",
+    "1128247675",
+    "1128247775",
+    "1128247875",
+    "1128247975",
+    "1128248075",
+    "1128248175",
+    "1128248275",
+    "1128248375",
+    "1128248475",
+    "1128248575",
+    "1128248675",
+    "1128248775",
+    "1128248875",
+    "1128248975",
+    "1128249075",
+    "1128249175",
+    "1128245875"
+   ]
+  }
+ ],
+ "fragments": {
+  "977506175": {
+   "fragment_id": "977506075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Directiva n.º 2003/18/CE, do Parlamento Europeu e do Conselho, de 27 de Março, alterou a Directiva n.º 83/477/CEE, do Conselho, de 19 de Setembro, relativa à protecção sanitária dos trabalhadores contra os riscos de exposição ao amianto durante o trabalho.\n\nO amianto é uma fibra mineral cujas propriedades de isolamento térmico, incombustibilidade, resistência e facilidade em ser tecida bem como o seu baixo custo justificaram a sua utilização nos diversos sectores de actividade, nomeadamente na construção e protecção dos edifícios, em sistemas de aquecimento, na protecção dos navios contra o fogo ou o calor, em placas, telhas e ladrilhos, no reforço do revestimento de estradas e materiais plásticos, em juntas, calços de travões e vestuário de protecção contra o calor.\n\nO amianto constitui um importante factor de mortalidade relacionada com o trabalho e um dos principais desafios para a saúde pública ao nível mundial, cujos efeitos surgem na maioria dos casos vários anos depois das situações de exposição.\n\nA partir de 1960 foram divulgados estudos que estabeleceram a relação causal entre a exposição ao amianto e o cancro do pulmão, demonstrando que a sua frequência é 10 vezes superior em trabalhadores expostos ao amianto durante 20 anos ou mais do que na população em geral. Atribuíram-se características cancerígenas a apenas algumas variedades de amianto, designadamente a crocidolite e a amosite, responsáveis pelo aparecimento de mesotelioma da pleura, deixando de fora o crisótilo ou amianto branco. Admitia-se que os efeitos do crisótilo eram rapidamente eliminados pelo organismo, não provocando doenças com períodos de latência elevados como o cancro do pulmão ou mesotelioma, o que justificou durante alguns anos o uso controlado do amianto.\n\nA Directiva n.º 83/477/CEE, sobre a protecção sanitária dos trabalhadores contra os riscos ligados à exposição ao amianto no trabalho, e a Convenção n.º 162 da Organização Internacional do Trabalho, sobre a segurança na utilização do amianto, adoptadas nessa época, contribuíram para reduzir a exposição de trabalhadores ao amianto.\n\nInvestigações posteriores concluíram que todas as fibras de amianto são cancerígenas, qualquer que seja o seu tipo ou origem geológica. O Programa sobre Segurança das Substâncias Químicas, da Organização Mundial de Saúde, concluiu que a exposição ao crisótilo envolve riscos acrescidos de asbestose, de cancro do pulmão e de mesotelioma, bem como que não se conhecem valores limite de exposição abaixo dos quais não haja riscos cancerígenos.\n\nA Directiva n.º 2003/18/CE tem em consideração a proibição da colocação no mercado e da utilização de produtos de amianto ou de produtos que contenham amianto adicionado intencionalmente. As principais alterações respeitam ao âmbito de aplicação, que passa a abranger os transportes marítimo e aéreo, à definição mais precisa do conceito de amianto com referência à classificação mineralógica e ao registo do Chemical Abstract Service (CAS), à limitação e proibição das actividades que implicam exposição ao amianto, designadamente a extracção do mesmo, o fabrico e a transformação de produtos de amianto ou que contenham amianto deliberadamente acrescentado, ao reforço das medidas de prevenção e protecção, à redução do valor limite de exposição, à metodologia da recolha de amostras e da contagem das fibras para a medição do teor do amianto no ar, à formação específica dos trabalhadores expostos ao amianto e ao reconhecimento de competências das empresas que intervenham nos trabalhos de remoção e demolição.\n\nA avaliação dos riscos, a adopção de medidas destinadas a prevenir ou controlar os riscos, a informação, formação e consulta dos trabalhadores, o acompanhamento regular dos riscos e das medidas de controlo e a vigilância adequada da saúde, com obrigatoriedade de o exame de admissão ser sempre realizado antes do início da exposição, são muito importantes na prevenção dos riscos de exposição ao amianto. Todos estes factores são regulados no presente decreto-lei.\n\nA transposição da Directiva n.º 2003/18/CE implica a alteração substancial dos diplomas que regulam a exposição ao amianto durante o trabalho, o que justifica a revogação dos mesmos e a sua substituição pelo presente decreto-lei.\n\nO projecto correspondente ao presente decreto-lei foi publicado, para apreciação pública, na separata do Boletim do Trabalho e Emprego, n.º 7, de 5 de Setembro de 2006, com alterações. Os pareceres emitidos por organizações representativas de trabalhadores e de empregadores, bem como por especialistas, foram devidamente ponderados, tendo sido alteradas algumas disposições do projecto.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nFoi ainda ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1128246075": {
+   "fragment_id": "977506275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei transpõe para a ordem jurídica interna:\n\na) A Diretiva 2009/148/CE do Parlamento Europeu e do Conselho, relativa à proteção dos trabalhadores contra os riscos de exposição ao amianto durante o trabalho, que revogou a Diretiva 83/477/CEE do Conselho de 19 de setembro;\n\nb) A Diretiva (UE) 2023/2668 do Parlamento Europeu e do Conselho, de 22 de novembro de 2023, que altera a Diretiva 2009/148/CE.\n\n2 - O presente decreto-lei é aplicável em todas as actividades em que os trabalhadores estão ou podem estar expostos a poeiras do amianto ou de materiais que contenham amianto, nomeadamente:\n\na) Demolição de construções em que existe amianto ou materiais que contenham amianto;\n\nb) Desmontagem de máquinas ou ferramentas em que existe amianto ou materiais que contenham amianto;\n\nc) Remoção do amianto ou de materiais que contenham amianto de instalações, estruturas, edifícios ou equipamentos, bem como aeronaves, material circulante ferroviário, navios ou veículos;\n\nd) Manutenção e reparação de materiais que contenham amianto existentes em instalações, estruturas, edifícios ou equipamentos, bem como em aeronaves, carruagens de comboios, navios ou veículos;\n\ne) Transporte, tratamento e eliminação de resíduos que contenham amianto;\n\nf) Aterros autorizados para resíduos de amianto.\n\n3 - O presente decreto-lei é aplicável nos sectores privado, cooperativo e social, na administração pública central, regional e local, institutos públicos e demais pessoas colectivas de direito público, bem como a trabalhadores independentes que desenvolvam actividades referidas no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128246175": {
+   "fragment_id": "977508475",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) \"Amianto\" os seguintes silicatos fibrosos, classificados como cancerígenos da categoria 1A nos termos do anexo vi, parte 3, do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, referenciados de acordo com o número de registo admitido internacionalmente do Chemical Abstract Service (CAS):\n\ni) Amianto, actinolite, n.º CAS 77536-66-4;\n\nii) Amianto, amosite (grunerite), n.º CAS 12172-73-5;\n\niii) Amianto, antofilite, n.º CAS 77536-67-5;\n\niv) Amianto, crisótilo, n.º CAS 12001-29-5;\n\nv) Amianto, crocidolite, n.º CAS 12001-28-4;\n\nvi) Amianto, tremolite, n.º CAS 77536-68-6;\n\nb) “Fibras respiráveis de amianto” as fibras de amianto presentes na atmosfera do local de trabalho, cuja medição é realizada nos termos do n.º 2 do artigo 8.º\n\nc) «Poeiras de amianto» as partículas de amianto em suspensão no ar ou depositadas mas susceptíveis de ficarem em suspensão no ar;\n\nd) «Trabalhador exposto» qualquer trabalhador que desenvolva uma actividade susceptível de apresentar risco de exposição a poeiras de amianto ou de materiais que contenham amianto;\n\ne) «Valor limite de exposição» o valor de concentração de fibras respiráveis de amianto, medido ou calculado relativamente a uma média ponderada no tempo para um período diário de oito horas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128246275": {
+   "fragment_id": "977508675",
+   "type": 11,
+   "heading": "Artigo 3.º — Notificação",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 3.º — Notificação\n\n1 - As actividades no exercício das quais os trabalhadores estão ou podem estar expostos a poeiras de amianto ou de materiais que contenham amianto são objecto de notificação obrigatória à Autoridade para as Condições de Trabalho.\n\n2 - A notificação referida no número anterior é feita pelo menos 30 dias antes do início dos trabalhos ou actividades e contém os seguintes elementos:\n\na) Identificação do local de trabalho onde se vai desenvolver a atividade e, se for o caso, das áreas específicas em que os trabalhos vão ser realizados;\n\nb) Tipo e quantidade de amianto, ou material que contenha amianto, a utilizar ou manipular;\n\nc) Identificação da atividade e dos processos a aplicar, incluindo no que diz respeito à proteção e descontaminação dos trabalhadores, ao transporte e eliminação de resíduos e, se for caso disso, à renovação do ar em caso de trabalho em ambiente fechado;\n\nd) Número de trabalhadores envolvidos, com apresentação de uma lista dos trabalhadores suscetíveis de serem afetos ao local de trabalho em causa, dos respetivos certificados comprovativos de frequência e do aproveitamento da formação, a que se refere o n.º 3 do artigo 16.º, e da data da mais recente vigilância da saúde dos trabalhadores, nos termos do artigo 19.º;\n\ne) Data do início dos trabalhos e sua duração;\n\nf) Medidas preventivas a aplicar, incluindo uma síntese do equipamento a utilizar, para limitar a exposição dos trabalhadores às poeiras de amianto ou de materiais que contenham amianto.\n\ng) Identificação da empresa responsável pelas actividades, no caso de ser contratada para o efeito.\n\n3 - A notificação referida nos números anteriores é renovada sempre que haja modificação das condições de trabalho que implique aumento significativo da exposição a poeiras de amianto ou de materiais que contenham amianto.\n\n4 - Os trabalhadores bem como os seus representantes para a segurança e saúde no trabalho têm acesso aos documentos respeitantes às notificações.\n\n5 - A Autoridade para as Condições do Trabalho mantém um registo actualizado das notificações referidas no n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128246375": {
+   "fragment_id": "977508875",
+   "type": 11,
+   "heading": "Artigo 4.º — Valor limite de exposição",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 4.º — Valor limite de exposição\n\nO valor limite de exposição é fixado em 0,01 fibras por centímetro cúbico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128246475": {
+   "fragment_id": "977509075",
+   "type": 11,
+   "heading": "Artigo 5.º — Actividades proibidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actividades proibidas\n\n1 - Sem prejuízo do disposto na legislação relativa à comercialização e utilização do amianto, são proibidas as actividades que exponham os trabalhadores a fibras de amianto aquando da extracção de amianto, do fabrico e da transformação de produtos de amianto ou de produtos que contenham amianto deliberadamente acrescentado.\n\n2 - O disposto no número anterior não é aplicável ao tratamento e deposição em aterros dos produtos resultantes da demolição e da remoção do amianto."
+  },
+  "1128246575": {
+   "fragment_id": "977509275",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação dos riscos",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 6.º — Avaliação dos riscos\n\n1 - Nas actividades susceptíveis de apresentar risco de exposição a poeiras de amianto ou de materiais que contenham amianto, o empregador avalia o risco para a segurança e saúde dos trabalhadores, determinando a natureza, o grau e o tempo de exposição.\n\n2 - Em qualquer atividade em que seja provável o risco de exposição a amianto deve-se priorizar a remoção do amianto ou de materiais que contenham amianto, em detrimento de outras formas de manuseamento do mesmo.\n\n3 - Na avaliação da exposição ao amianto ou a materiais que contêm amianto devem ser identificados os trabalhadores sujeitos a exposição passiva, aos quais devem ser garantidas as medidas de prevenção e de proteção que salvaguardem a saúde e segurança destes trabalhadores.\n\n4 - Os trabalhadores com exposição passiva, referidos no número anterior, englobam aqueles que se encontrem em proximidade funcional ou operacional relativamente à zona de intervenção na falta de barreiras físicas ou sistemas de contenção eficazes contra o amianto ou com materiais que contêm amianto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128246675": {
+   "fragment_id": "977509475",
+   "type": 11,
+   "heading": "Artigo 7.º — Redução da exposição",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 7.º — Redução da exposição\n\n1 - O empregador utiliza todos os meios disponíveis para que, no local de trabalho, a exposição dos trabalhadores a poeiras de amianto ou de materiais que contenham amianto seja reduzida ao mínimo e, em qualquer caso, seja tão reduzida quanto tecnicamente possível e inferior ao valor limite de exposição.\n\n2 - Para efeitos do disposto no número anterior, o empregador utiliza nomeadamente as seguintes medidas de prevenção:\n\na) Redução ao mínimo possível do número de trabalhadores expostos ou susceptíveis de estarem expostos a poeiras de amianto ou de materiais que contenham amianto;\n\nb) Processos de trabalho concebidos de forma a não produzir poeiras de amianto ou, se tal se revelar impossível, que não libertem poeiras de amianto na atmosfera, através da adoção de medidas como:\n\ni) A eliminação das poeiras de amianto, nomeadamente por via húmida;\n\nii) A aspiração das poeiras de amianto na fonte, nomeadamente por exaustão localizada;\n\niii) A sedimentação contínua das fibras de amianto suspensas na atmosfera, nomeadamente pela utilização de aglutinantes;\n\nc) Implementação de procedimentos adequados de descontaminação dos trabalhadores;\n\nd) Proteção adequada dos trabalhadores, em caso de trabalhos efetuados em ambiente fechado;\n\ne) Assegura que todas as instalações e todos os equipamentos que sirvam para o tratamento de amianto estão em condições de poderem ser regularmente submetidos a uma limpeza e manutenção eficazes e ser regularmente sujeitos às referidas intervenções;\n\nf) Transporte e armazenagem do amianto ou dos materiais que libertem poeiras que contenham amianto, em recipiente fechados e apropriados.\n\n3 - O empregador assegura que os resíduos, com exceção dos resultantes da atividade mineira, sejam recolhidos e removidos do local de trabalho com a maior brevidade possível, em recipiente fechado e apropriado, com etiqueta que identifique que contém amianto, nos termos da legislação aplicável ao transporte de mercadorias perigosas.\n\n4 - Os resíduos referidos no número anterior são tratados de acordo com a legislação aplicável aos resíduos perigosos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128246775": {
+   "fragment_id": "977509675",
+   "type": 11,
+   "heading": "Artigo 8.º — Determinação da concentração de amianto no ar",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 8.º — Determinação da concentração de amianto no ar\n\n1 - O empregador, tendo em conta os resultados da avaliação inicial dos riscos, procede regularmente à medição da concentração das fibras de amianto na atmosfera do local de trabalho durante as fases operacionais específicas, a fim de assegurar o cumprimento do valor limite de exposição.\n\n2 - A medição da concentração das fibras de amianto na atmosfera do local de trabalho tem em conta as fibras respiráveis de amianto com um comprimento superior a 5 micrómetros (μm), uma largura inferior a 3 μm e cuja relação entre o comprimento e a largura seja superior a 3:1, sendo obrigatoriamente tidas em conta as fibras de largura inferior a 0,2 μm a partir de 21 de dezembro de 2029.\n\n3 - A amostragem tem de refletir a exposição pessoal do trabalhador às poeiras de amianto ou de materiais que contenham amianto.\n\n4 - A colheita da amostra deve ser realizada por laboratório acreditado pelo Instituto Português de Acreditação, I. P., ou por pessoal qualificado com equipamento de amostragem adequado e calibrado, sendo a duração da amostragem feita de modo a que, por cada medição ou cálculo ponderado no tempo, seja possível determinar uma exposição representativa relativamente a um período de referência de oito horas (um turno).\n\n5 - A contagem das fibras é concretizada por microscopia eletrónica ou por qualquer método alternativo que dê resultados equivalentes ou mais exatos, em laboratórios acreditados pelo Instituto Português de Acreditação, I. P.\n\n6 - O Instituto Português de Acreditação, I. P., disponibiliza publicamente uma lista de laboratórios acreditados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128246875": {
+   "fragment_id": "977509875",
+   "type": 11,
+   "heading": "Artigo 9.º — Ultrapassagem do valor limite de exposição",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 9.º — Ultrapassagem do valor limite de exposição\n\n1 - Sempre que seja ultrapassado o valor limite de exposição, ou haja motivo para crer que materiais que contenham amianto, não identificados antes do início dos trabalhos, se encontram alterados ao ponto de gerar poeiras, o trabalho cessa imediatamente.\n\n2 - O trabalho na zona afectada só pode prosseguir após a adopção das medidas adequadas à protecção dos trabalhadores.\n\n3 - Em caso de ultrapassagem do valor limite de exposição, o empregador:\n\na) Identifica as causas;\n\nb) Adopta as medidas de correcção adequadas o mais rapidamente possível;\n\nc) Corrige as medidas de prevenção e protecção de modo a evitar a ocorrência de situações idênticas.\n\n4 - O empregador procede, imediatamente, a nova determinação da concentração de amianto na atmosfera do local de trabalho de modo a verificar a eficácia das medidas de correção adotadas.\n\n5 - Nas situações em que não seja tecnicamente possível reduzir a exposição para valor inferior ao valor limite de exposição, aplica-se o disposto no artigo 10.º\n\n6 - Se, em resultado da aplicação do número anterior, o valor-limite impuser o uso de equipamento de proteção individual das vias respiratórias, a utilização não pode ser permanente e deve ser limitada ao mínimo estritamente necessário para cada trabalhador.\n\n7 - Os períodos de trabalho em que seja utilizado equipamento de proteção individual das vias respiratórias compreendem pausas regulares, cuja duração deve ter em conta o esforço físico e as condições climáticas, determinadas após consulta aos trabalhadores, seus representantes para a segurança e saúde no trabalho e ouvido o médico do trabalho responsável pela vigilância da saúde do trabalhador.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128246975": {
+   "fragment_id": "977510075",
+   "type": 11,
+   "heading": "Artigo 10.º — Trabalhos de manutenção, reparação, remoção ou demolição",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 10.º — Trabalhos de manutenção, reparação, remoção ou demolição\n\n1 - Para a realização de trabalhos no âmbito das atividades abrangidas pelo presente decreto-lei, como manutenção, reparação, remoção ou demolição, em que seja previsível a ultrapassagem do valor-limite de exposição, apesar do recurso a todas as medidas técnicas preventivas possíveis para limitar a concentração de amianto na atmosfera, o empregador deve adotar as medidas necessárias para assegurar a proteção dos trabalhadores durante a realização dos trabalhos, nomeadamente:\n\na) Fornecimento de equipamentos de proteção individual das vias respiratórias e outros equipamentos de proteção individual, cuja utilização é obrigatória;\n\nb) Colocação de painéis de sinalização com a advertência de que é possível a ultrapassagem do valor limite de exposição;\n\nc) Não dispersão de poeiras de amianto ou de materiais que contenham amianto para fora das instalações ou do local da ação e, no caso dos trabalhos realizados em ambiente fechado, o recinto com amianto deve ser estanque e ventilado por extração mecânica.\n\n2 - [Revogado.]\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128247075": {
+   "fragment_id": "1128222575",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Identificação de materiais que presumivelmente contenham amianto",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 10.º-A — Identificação de materiais que presumivelmente contenham amianto\n\n1 - Antes do início das atividades referidas no n.º 2 do artigo 1.º, devem ser tomadas todas as medidas adequadas para identificar os materiais que presumivelmente contenham amianto, nomeadamente em relação a construções e fabricos anteriores à proibição da comercialização e utilização do amianto.\n\n2 - A identificação dos materiais que presumivelmente contenham amianto é da responsabilidade do empregador ou do dono da obra, nos casos abrangidos pelo Decreto-Lei n.º 273/2003, de 29 de outubro, e pela Portaria n.º 40/2014, de 17 de fevereiro.\n\n3 - Na identificação referida nos números anteriores, deve recorrer-se às seguintes informações:\n\na) A informação prestada pelo proprietário ou fabricante;\n\nb) A informação prestada por outro empregador;\n\nc) A outras fontes de informação, incluindo registos pertinentes.\n\n4 - No caso de não existir informação disponível, o empregador ou, se for o caso, o dono da obra, garante a deteção da presença de materiais que contenham amianto por um operador qualificado para a realização desse exame, cujo resultado deve ser conhecido antes do início dos trabalhos.\n\n5 - A análise dos materiais suscetíveis de conter amianto deve ser efetuada por laboratório acreditado pelo Instituto Português de Acreditação, I. P.\n\n6 - Para efeitos de cumprimento da obrigação prevista no presente artigo, o empregador deve colocar à disposição de outro empregador, mediante pedido, todas as informações obtidas sobre a presença de materiais que contenham amianto.\n\n7 - Nas situações em que exista dúvida sobre a presença de amianto são aplicáveis as disposições do presente decreto-lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128247175": {
+   "fragment_id": "977510275",
+   "type": 11,
+   "heading": "Artigo 11.º — Elaboração e execução do plano de trabalhos",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 11.º — Elaboração e execução do plano de trabalhos\n\n1 - O empregador, antes de iniciar qualquer trabalho em edifícios, estruturas, aparelhos, instalações, bem como em aeronaves, material circulante ferroviário, navios ou veículos, que envolva demolição ou remoção de amianto ou de materiais que o contenham, elabora um plano de trabalhos.\n\n2 - O plano de trabalhos inclui as medidas indispensáveis à segurança e saúde dos trabalhadores, bem como à protecção de pessoas e bens e do ambiente, designadamente respeitantes a:\n\na) Remoção do amianto ou dos materiais que contenham amianto antes da aplicação das técnicas de demolição, salvo se a remoção representar para os trabalhadores um risco superior do que a manutenção no local do amianto ou dos materiais que contenham amianto;\n\nb) Utilização de equipamentos de protecção individual pelos trabalhadores, sempre que necessário;\n\nc) Verificação da ausência de riscos de exposição ao amianto no local de trabalho, logo após a conclusão dos trabalhos de demolição ou de remoção do amianto e antes do início de outras atividades.\n\n3 - O plano de trabalhos contém, ainda, as seguintes especificações:\n\na) Natureza dos trabalhos a realizar com indicação do tipo de actividade a que corresponde;\n\nb) Duração provável dos trabalhos;\n\nc) Métodos de trabalho a utilizar tendo em conta o tipo de material em que a intervenção é feita, se é ou não friável, com indicação da quantidade de amianto ou de materiais que contenham amianto a ser manipulado;\n\nd) Indicação do local onde se efectuam os trabalhos;\n\ne) Características dos equipamentos utilizados para a protecção e descontaminação dos trabalhadores;\n\nf) Medidas que evitem a exposição de pessoas que se encontrem no local ou na sua proximidade;\n\ng) Lista nominal dos trabalhadores implicados nos trabalhos ou em contacto com o material que contenha amianto e indicação da respectiva categoria profissional, formação e experiência na realização dos trabalhos;\n\nh) Identificação da empresa e do técnico responsável pela aplicação dos procedimentos de trabalho e pelas medidas preventivas previstas;\n\ni) Indicação da empresa encarregue da eliminação dos resíduos, nos termos da legislação aplicável.\n\n4 - A realização dos trabalhos referidos no n.º 1 depende de autorização prévia da Autoridade para as Condições de Trabalho, que envolve a aprovação do plano de trabalhos e o reconhecimento de competências da empresa que os executa, nos termos do artigo 24.º\n\n5 - O empregador que contrate a realização de trabalhos a que se refere o presente artigo deve assegurar-se de que a empresa contratada ou subcontratada lhe remeteu cópia do respetivo plano de trabalhos, depois de aprovado, e obteve o reconhecimento das suas competências para o desenvolvimento dos trabalhos.\n\n6 - O plano de trabalhos deve estar acessível, no local de realização dos trabalhos, a todos os trabalhadores e aos representantes dos trabalhadores para a segurança e saúde no trabalho que nele trabalhem.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128247275": {
+   "fragment_id": "977510475",
+   "type": 11,
+   "heading": "Artigo 12.º — Medidas gerais de higiene",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas gerais de higiene\n\n1 - As áreas de trabalho onde os trabalhadores estão ou podem estar expostos a poeiras de amianto ou de materiais que contenham amianto são claramente delimitadas e identificadas por painéis.\n\n2 - Às áreas de trabalho referidas no número anterior só podem ter acesso os trabalhadores que nelas prestem actividade ou que a elas necessitem de se deslocar em virtude das suas funções.\n\n3 - É proibido fumar nas áreas de trabalho onde haja riscos de exposição a poeiras de amianto.\n\n4 - Nas áreas de trabalho referidas nos números anteriores ou na sua proximidade deve existir um local adequado onde os trabalhadores possam comer e beber sem risco de contaminação por poeiras de amianto."
+  },
+  "1128247375": {
+   "fragment_id": "977510675",
+   "type": 11,
+   "heading": "Artigo 13.º — Equipamentos de protecção individual",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 13.º — Equipamentos de protecção individual\n\n1 - O empregador fornece aos trabalhadores equipamentos de protecção individual adequados aos riscos existentes no local de trabalho e que obedeça à legislação aplicável.\n\n2 - Os equipamentos de protecção individual são:\n\na) Colocados em locais apropriados;\n\nb) Verificados e limpos após cada utilização;\n\nc) Reparados e substituídos antes de nova utilização caso se encontrem deteriorados ou com defeitos.\n\n3 - O equipamento de proteção individual deve ser manuseado de forma adequada e, no caso de equipamento respiratório, ser ajustado individualmente, incluindo através de verificações do respetivo ajuste, de acordo com as regras de segurança e saúde dos trabalhadores na utilização de equipamentos de proteção individual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128247475": {
+   "fragment_id": "977510875",
+   "type": 11,
+   "heading": "Artigo 14.º — Vestuário de trabalho ou protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vestuário de trabalho ou protecção\n\n1 - O empregador fornece aos trabalhadores vestuário de trabalho ou de protecção adequados, nomeadamente impermeáveis a poeiras de amianto.\n\n2 - O vestuário de trabalho ou de protecção utilizado pelos trabalhadores e que seja reutilizável permanece na empresa e é lavado em instalação apropriada e equipada para essas operações.\n\n3 - Se o vestuário de trabalho ou de protecção referido no número anterior for lavado em instalação exterior à empresa, é transportado em recipiente fechado e devidamente rotulado."
+  },
+  "1128247575": {
+   "fragment_id": "977511075",
+   "type": 11,
+   "heading": "Artigo 15.º — Instalações sanitárias e vestiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instalações sanitárias e vestiário\n\n1 - O empregador põe à disposição dos trabalhadores instalações sanitárias e vestiário adequados, nos termos da legislação aplicável.\n\n2 - As instalações sanitárias dispõem de cabinas de banho com chuveiro situadas junto das áreas de trabalho, quando as operações envolvem exposição a poeiras de amianto.\n\n3 - O vestiário inclui espaços independentes para o vestuário de trabalho ou de protecção e para o de uso pessoal, separados pelas cabinas de banho."
+  },
+  "1128247675": {
+   "fragment_id": "977511275",
+   "type": 11,
+   "heading": "Artigo 16.º — Formação específica dos trabalhadores",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 16.º — Formação específica dos trabalhadores\n\n1 - O empregador assegura regularmente a formação específica adequada dos trabalhadores expostos ou susceptíveis de estarem expostos a poeiras de amianto ou de materiais que contenham amianto, sem encargos para os mesmos.\n\n2 - A formação referida no número anterior deve ser facilmente compreensível e permitir a aquisição dos conhecimentos e competências necessários em matéria de prevenção e de segurança.\n\n3 - A formação prevista no presente artigo está abrangida pelo regime do Código do Trabalho para a formação contínua e obedece aos requisitos mínimos de formação e emissão de certificado comprovativo da sua frequência e do aproveitamento, estipulados no anexo i ao presente decreto-lei e do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128247775": {
+   "fragment_id": "977511475",
+   "type": 11,
+   "heading": "Artigo 17.º — Informação específica dos trabalhadores",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 17.º — Informação específica dos trabalhadores\n\n1 - Sem prejuízo do disposto na legislação geral em matéria de informação e consulta, o empregador assegura aos trabalhadores expostos, assim como aos respetivos representantes para a segurança e saúde no trabalho, informação adequada sobre:\n\na) Os riscos para a saúde resultantes de exposição a poeiras de amianto ou de materiais que contenham amianto;\n\nb) O valor limite de exposição;\n\nc) A obrigatoriedade da medição da concentração do amianto na atmosfera do local de trabalho;\n\nd) As medidas de higiene, incluindo a necessidade de não fumar;\n\ne) As precauções a tomar no transporte e utilização de equipamentos e de vestuário de trabalho ou de protecção;\n\nf) As medidas especiais adoptadas para minimizar o risco de exposição a poeiras de amianto ou de materiais que contenham amianto;\n\ng) Os resultados das medições sobre a concentração de amianto na atmosfera, acompanhados sempre que necessário de explicações adequadas à compreensão dos mesmos.\n\n2 - O empregador assegura, ainda, que os trabalhadores e os seus representantes para a segurança e saúde no trabalho sejam informados, com a maior brevidade possível, sobre situações de ultrapassagem do valor limite de exposição e as suas causas.\n\n3 - A informação deve ser prestada na forma e suporte adequados e ser periodicamente actualizada, de modo a incluir qualquer alteração verificada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128247875": {
+   "fragment_id": "977511675",
+   "type": 11,
+   "heading": "Artigo 18.º — Informação e consulta dos trabalhadores",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 18.º — Informação e consulta dos trabalhadores\n\nO empregador assegura a informação e consulta dos trabalhadores e dos seus representantes para a segurança e saúde no trabalho sobre a aplicação das disposições do presente decreto-lei, nos termos previstos na legislação geral, designadamente sobre:\n\na) A avaliação dos riscos e as medidas a tomar;\n\nb) A colheita de amostras para a determinação da concentração de poeiras de amianto na atmosfera do local de trabalho;\n\nc) As medidas a tomar em caso de ultrapassagem do valor limite de exposição.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128247975": {
+   "fragment_id": "977511875",
+   "type": 11,
+   "heading": "Artigo 19.º — Vigilância da saúde",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 19.º — Vigilância da saúde\n\n1 - Sem prejuízo das obrigações gerais em matéria de saúde no trabalho, o empregador assegura a vigilância adequada da saúde dos trabalhadores em relação aos quais o resultado da avaliação revela a existência de riscos, através de exames de saúde, devendo em qualquer caso o exame de admissão ser realizado antes da exposição aos riscos.\n\n2 - A vigilância da saúde referida no número anterior deve permitir a aplicação dos princípios e práticas da medicina do trabalho de acordo com os conhecimentos mais recentes, ser baseada no conhecimento das condições ou circunstâncias em que cada trabalhador foi ou possa ser sujeito à exposição ao risco e incluir no mínimo os seguintes procedimentos:\n\na) Registo da história clínica e profissional de cada trabalhador;\n\nb) Entrevista pessoal com o trabalhador;\n\nc) Avaliação individual do seu estado de saúde, que inclui um exame específico ao tórax;\n\nd) Exames da função respiratória, nomeadamente a espirometria e a curva de débito-volume.\n\n3 - O médico responsável pela vigilância da saúde do trabalhador requer, se necessário, a realização de exames complementares específicos, designadamente análise citológica da saliva, radiografia do tórax, tomografia computorizada ou outro exame pertinente em face dos conhecimentos mais recentes da medicina do trabalho.\n\n4 - Os exames de saúde referidos nos números anteriores são realizados com base no conhecimento de que a exposição às fibras de amianto pode provocar as seguintes afecções:\n\na) Asbestose;\n\nb) Mesotelioma;\n\nc) Cancro do pulmão;\n\nd) Cancro gastrointestinal.\n\ne) Cancro da laringe;\n\nf) Cancro do ovário;\n\ng) Doenças pleurais não malignas.\n\n5 - Os requisitos de vigilância da saúde indicados anteriormente são aplicáveis aos trabalhadores com exposição direta e com exposição passiva a amianto ou a materiais que contêm amianto.\n\n6 - A inclusão de trabalhador com exposição passiva a amianto ou a materiais que contêm amianto na vigilância da saúde referida no número anterior deve ser baseada no resultado de avaliação de risco.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128248075": {
+   "fragment_id": "977512075",
+   "type": 11,
+   "heading": "Artigo 20.º — Resultado da vigilância da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Resultado da vigilância da saúde\n\n1 - Em resultado da vigilância da saúde, o médico do trabalho:\n\na) Informa o trabalhador em causa do resultado;\n\nb) Dá indicações sobre a eventual necessidade de continuar a vigilância de saúde depois de terminada a exposição;\n\nc) Comunica ao empregador o resultado da vigilância da saúde com interesse para a prevenção de riscos, sem prejuízo do sigilo profissional a que se encontra vinculado.\n\n2 - O empregador, tendo em conta o referido na alínea c) do número anterior:\n\na) Repete a avaliação dos riscos, a realizar nos termos do artigo 6.º;\n\nb) Com base no parecer do médico do trabalho, adopta eventuais medidas individuais de protecção ou de prevenção e atribui, se necessário, ao trabalhador em causa outra tarefa compatível em que não haja risco de exposição;\n\nc) Promove a vigilância contínua da saúde do trabalhador;\n\nd) Assegura a qualquer trabalhador que tenha estado exposto a poeiras de amianto um exame de saúde, incluindo a realização de exames especiais.\n\n3 - O trabalhador tem acesso, a seu pedido, ao registo de saúde que lhe diga respeito."
+  },
+  "1128248175": {
+   "fragment_id": "977512275",
+   "type": 11,
+   "heading": "Artigo 21.º — Registo e arquivo de documentos",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 21.º — Registo e arquivo de documentos\n\n1 - Sem prejuízo das obrigações gerais dos serviços de segurança e saúde no trabalho, em matéria de registos de dados e conservação de documentos, o empregador organiza registos de dados e mantém arquivos atualizados sobre:\n\na) Os resultados da avaliação dos riscos bem como os critérios e procedimentos da avaliação utilizados;\n\nb) Os métodos de colheita, as datas, o número, a duração, a localização, os resultados e a análise de cada uma das colheitas de amostras realizadas para determinar o nível de exposição geral e o de cada trabalhador;\n\nc) A identificação dos trabalhadores expostos, com indicação, para cada um, do posto de trabalho ocupado, da natureza e duração da actividade e do grau de exposição a que esteve sujeito;\n\nd) Os resultados da vigilância da saúde de cada trabalhador, com referência ao respectivo posto de trabalho;\n\ne) A identificação do médico responsável pela vigilância da saúde.\n\n2 - O médico responsável pela vigilância da saúde:\n\na) Tem acesso ao registo das informações referidas nas alíneas a) a c) do número anterior;\n\nb) Organiza, por cada trabalhador e respetivo posto de trabalho, um registo de dados e conserva um arquivo atualizado sobre os exames de saúde e exames complementares de diagnóstico realizados e outros elementos que considere úteis.\n\n3 - Os trabalhadores e os representantes dos trabalhadores para a segurança e saúde no trabalho têm acesso a informação genérica sobre os resultados da vigilância da saúde que não permita identificar os trabalhadores a quem respeita.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128248275": {
+   "fragment_id": "977512475",
+   "type": 11,
+   "heading": "Artigo 22.º — Conservação de registos e arquivos",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 22.º — Conservação de registos e arquivos\n\n1 - Aos registos e arquivos referidos no artigo anterior, é aplicável o disposto no artigo 17.º do Decreto-Lei n.º 301/2000, de 18 de novembro.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128248375": {
+   "fragment_id": "977512675",
+   "type": 11,
+   "heading": "Artigo 23.º — Exposições esporádicas e de fraca intensidade",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 23.º — Exposições esporádicas e de fraca intensidade\n\nNas situações em que os trabalhadores estejam sujeitos a exposições esporádicas e de fraca intensidade e o resultado da avaliação dos riscos demonstre claramente que o valor limite de exposição previsto no artigo 4.º não é excedido na atmosfera da área de trabalho, o disposto no artigo 3.º, no n.º 4 do artigo 11.º e no artigo 24.º, podem não ser aplicados se os trabalhos a efetuar implicarem:\n\na) Actividades de manutenção descontínuas e de curta duração em que o trabalho incida apenas sobre materiais não friáveis;\n\nb) Remoção sem deterioração de materiais não degradados em que as fibras de amianto estão firmemente aglomeradas;\n\nc) Encapsulamento e revestimento de materiais que contenham amianto, que se encontrem em bom estado;\n\nd) Vigilância e controlo da qualidade do ar e recolha de amostras para detectar a presença de amianto num dado material.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128248475": {
+   "fragment_id": "977512875",
+   "type": 11,
+   "heading": "Artigo 24.º — Autorização de trabalhos",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 24.º — Autorização de trabalhos\n\n1 - A aprovação do plano de trabalhos e o reconhecimento das competências para os realizar a que se refere o artigo 11.º é efectuada por meio de autorização mediante requerimento entregue na Autoridade para as Condições de Trabalho, pelo menos, 30 dias antes do início da actividade.\n\n2 - O requerimento referido no número anterior deve ser devidamente fundamentado e instruído com os seguintes elementos:\n\na) Identificação completa do requerente;\n\nb) Local, natureza, início e termo previsível dos trabalhos;\n\nc) Tipo e quantidade de amianto, ou material que contenha amianto, a utilizar ou manipular;\n\nd) Prova da formação específica dos técnicos responsáveis e demais trabalhadores envolvidos, através da apresentação de cópia dos respetivos certificados de formação, com aproveitamento, nos termos do previsto no artigo 16.º e no anexo i ao presente decreto-lei;\n\ne) Descrição do dispositivo relativo à gestão, à organização e ao funcionamento das atividades de segurança e saúde no trabalho.\n\nf) Indicação do laboratório responsável pela medição da concentração de fibras de amianto no ambiente de trabalho;\n\ng) Exemplar do plano de trabalhos e da planta do local da realização dos trabalhos;\n\nh) Lista dos equipamentos a usar, considerados adequados às especificidades dos trabalhos a executar, que obedeçam à legislação aplicável sobre conceção, fabrico e comercialização de equipamentos, tendo por referencial o elenco exemplificativo que consta do anexo ii ao presente decreto-lei e do qual faz parte integrante;\n\ni) Prova das medidas adotadas para cumprimento do disposto no artigo 7.º\n\n3 - Os títulos ou certificados emitidos no âmbito da União Europeia são válidos para a instrução do processo de autorização.\n\n4 - A Autoridade para as Condições de Trabalho emite documento de autorização contendo a identificação do requerente e dos trabalhos a realizar, as eventuais condicionantes da sua atribuição, bem como a delimitação temporal da sua validade.\n\n5 - A Autoridade para as Condições de Trabalho pode revogar as autorizações sempre que haja alteração dos pressupostos da sua atribuição.\n\n6 - [Revogado.]\n\n7 - O titular da autorização deve afixar cópia do documento de autorização no local da realização dos trabalhos, de forma bem visível.\n\n8 - A Autoridade para as Condições do Trabalho disponibiliza publicamente a lista das empresas que obtiveram a autorização, nos termos do n.º 4.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128248575": {
+   "fragment_id": "977513075",
+   "type": 11,
+   "heading": "Artigo 25.º — Contra-ordenações",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 25.º — Contra-ordenações\n\n1 - Constitui contraordenação laboral muito grave a violação do disposto no n.º 1 do artigo 5.º, nos artigos 6.º a 10.º-A, nos n.os 1 a 4 do artigo 11.º e nos artigos 17.º e 18.º\n\n2 - Constitui contraordenação laboral grave a violação do disposto nos n.os 2 e 4 do artigo 3.º, nos n.os 5 e 6 do artigo 11.º, nos artigos 12.º a 16.º e 19.º a 22.º\n\n3 - Constitui contra-ordenação laboral leve a violação do disposto nos n.os 3 do artigo 3.º e 7 do artigo 24.º\n\n4 - O regime geral previsto nos artigos 614.º a 640.º do Código do Trabalho aplica-se às infracções por violação do presente decreto-lei, sem prejuízo das competências legais atribuídas nas Regiões Autónomas aos respectivos órgãos e serviços regionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128248675": {
+   "fragment_id": "977513275",
+   "type": 11,
+   "heading": "Artigo 26.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disposição final\n\nA Autoridade para as Condições de Trabalho, após consulta aos representantes dos parceiros sociais, pode elaborar guias técnicos contendo orientações práticas, tendo em vista a boa execução do presente decreto-lei, designadamente quanto à definição do conceito de exposição esporádica de fraca intensidade."
+  },
+  "1128248775": {
+   "fragment_id": "977513475",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 284/89, de 24 de Agosto, a Portaria n.º 1057/89, de 7 de Dezembro, e o Decreto-Lei n.º 389/93, de 20 de Novembro."
+  },
+  "1128248875": {
+   "fragment_id": "977513675",
+   "type": 11,
+   "heading": "Artigo 28.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Norma transitória\n\nAté à entrada em vigor do diploma orgânico da Autoridade para as Condições de Trabalho, as referências que lhe são feitas no presente decreto-lei reportam-se à Inspecção-Geral do Trabalho."
+  },
+  "1128248975": {
+   "fragment_id": "977513875",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação."
+  },
+  "1128249075": {
+   "fragment_id": "977514075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.\n\nPromulgado em 5 de Julho de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de Julho de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "1128249175": {
+   "fragment_id": "1128241575",
+   "type": 14,
+   "heading": "Anexo I — Requisitos mínimos para a formação",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "pelo/a Anexo I do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "## Anexo I — Requisitos mínimos para a formação\n\n[a que se refere o n.º 3 artigo 16.º e a alínea d) do n.º 2 do artigo 24.º]\n\nOs trabalhadores expostos ou suscetíveis de ser expostos a poeiras de amianto ou a materiais que contenham amianto, recebem formação obrigatória que cumpra, pelo menos, os seguintes requisitos mínimos:\n\n1 - A formação é ministrada no início da relação de trabalho e sempre que sejam identificadas necessidades de formação adicionais;\n\n2 - A duração da formação é adequada às tarefas do trabalhador em causa;\n\n3 - A formação é ministrada pelo respetivo serviço de segurança e de saúde no trabalho, por profissionais com experiência em trabalhos com risco de exposição ao amianto.\n\n4 - O trabalhador que frequente a formação, e que tenha obtido aproveitamento, recebe um certificado de formação que indique:\n\na) A data da formação;\n\nb) A duração da formação;\n\nc) O conteúdo da formação;\n\nd) A língua da formação;\n\ne) O nome, as qualificações e os dados de contacto do formador ou da entidade que ministrou a formação, ou de ambos.\n\n5 - O trabalhador exposto ou suscetível de ser exposto a poeiras de amianto ou a materiais que contenham amianto recebe formação teórica e prática que cubra, pelo menos, os seguintes aspetos:\n\na) A legislação relativa à proteção dos trabalhadores contra os riscos de exposição ao amianto durante o trabalho;\n\nb) As propriedades do amianto e os seus efeitos sobre a saúde, incluindo o efeito sinérgico do tabagismo;\n\nc) Os tipos de produtos ou materiais suscetíveis de conter amianto;\n\nd) As operações suscetíveis de acarretar uma exposição ao amianto e a importância das medidas de prevenção para minimizar tal exposição;\n\ne) As práticas profissionais seguras, os controlos e os equipamentos de proteção;\n\nf) A função adequada, a escolha, a seleção, as limitações e a utilização correta dos equipamentos de proteção, em especial do equipamento respiratório;\n\ng) Os procedimentos de emergência;\n\nh) Os procedimentos de descontaminação;\n\ni) A eliminação dos resíduos;\n\nj) Os requisitos em matéria de vigilância da saúde.\n\n6 - A formação é, tanto quanto possível, adaptada às características da profissão do trabalhador e às tarefas e aos métodos de trabalho específicos dessa profissão.\n\n7 - O trabalhador que efetue trabalhos de demolição ou remoção de amianto ou material que contenha amianto recebe formação técnica específica e treino com simulação de cenários complexos, designadamente situações de incêndio ou sismos que pressuponham a destruição de edifícios contendo amianto, para além da formação prevista nos n.os 5 e 6, incluindo formação sobre a utilização de equipamentos tecnológicos e máquinas para conter a libertação e a propagação de fibras de amianto durante os processos de trabalho, nos termos do presente decreto-lei.\n\n> pelo/a Anexo I do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  },
+  "1128245875": {
+   "fragment_id": "977514275",
+   "type": 14,
+   "heading": "Anexo II — Lista de equipamentos adequados ao exercício de trabalhos em edifícios, estruturas, aparelhos, instalações, bem como em aeronaves, material circulante ferroviário, navios ou veículos, que envolva demolição ou remoção de amianto ou de materiais que o contenham",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "## Anexo II — Lista de equipamentos adequados ao exercício de trabalhos em edifícios, estruturas, aparelhos, instalações, bem como em aeronaves, material circulante ferroviário, navios ou veículos, que envolva demolição ou remoção de amianto ou de materiais que o contenham\n\n[a que se refere a alínea h) do n.º 2 do artigo 24.º]\n\n1 - Materiais para vedação e limitação das zonas de trabalho, designadamente fitas, barreiras, rótulos e material de sinalização.\n\n2 - Materiais de protecção contra a propagação da contaminação.\n\n3 - Equipamento apropriado para visualização clara e supervisão do trabalho e dos trabalhadores na zona confinada, quando necessário.\n\n4 - Gerador de fumo para ensaios e verificação da estanquidade das zonas confinadas.\n\n5 - Equipamento de protecção individual, designadamente fatos descartáveis ou reutilizáveis, botas e luvas laváveis.\n\n6 - Aparelhos de protecção respiratória individual dotados de filtros de alta eficiência ou aparelhos respiratórios com fornecimento de artigo.\n\n7 - Unidade de descontaminação inteiramente lavável, com o número de compartimentos separados entre si por portas automáticas, determinados em função da actividade desenvolvida e dos equipamentos de protecção utilizados, com chuveiro de água quente adaptável e áreas separadas para o vestuário limpo e o vestuário de trabalho contaminado, equipado com uma unidade de pressão negativa para manter a ventilação no interior da unidade de descontaminação.\n\n8 - Unidade de pressão negativa para manter a ventilação no interior das zonas confinadas, dotado de exaustor com filtro de partículas de alta eficiência (HEPA).\n\n9 - Aparelho para medir a pressão negativa com pelo menos dois canais.\n\n10 - Aspirador de partículas de alta eficiência, com filtros HEPA fabricados segundo as especificações internacionais relativas à utilização com amianto.\n\n11 - Equipamento de supressão de poeiras.\n\n12 - Pulverizador para aplicação de aglutinantes de fibras de amianto.\n\n13 - Gerador de emergência para os casos de avaria ou de interrupção da rede eléctrica.\n\n14 - Equipamento para filtração das águas residuais contaminadas com amianto.\n\n15 - Equipamento de limpeza e produtos descartáveis.\n\n16 - Máquina de lavar destinada ao tratamento do vestuário utilizado antes do ingresso na zona confinada e durante as pausas do trabalho.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 109/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2026-1128002422), em vigor a partir de 2026-06-01."
+  }
+ }
+}

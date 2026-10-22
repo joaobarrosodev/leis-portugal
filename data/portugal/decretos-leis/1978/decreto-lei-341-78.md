@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: pt:dre:325954:por
+title: Decreto-Lei n.º 341/78
+short_title: null
+summary: Transfere para vários organismos a competência que, em matéria de pensões de aposentação, reforma, sobrevivência,
+  preço de sangue e acidentes em serviço, pertence às Direcções-Gerais de Administração Civil e de Fazenda, da Secretaria
+  de Estado da Administração Pública
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 341/78
+official_date: null
+publication_date: '1978-11-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 264/1978, Série I de 1978-11-16
+  number: '264'
+  series: I
+  supplement: null
+  pages: 2401 - 2402
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/11/26400/24012402.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '325954'
+  dre_path: /dr/detalhe/decreto-lei/341-1978-325954
+  internal: pt:dre:325954:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1978-325954
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1978-325954
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-01-09T00:00:00Z'
+integrity:
+  source_sha256: 80fa747ff894c3b0af20b2b4ff1eabc2448274ef9dfb4f0e0661f930a26409c5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-341-325954.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:508610:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 341/78
+
+de 16 de Novembro
+
+A atribuição e liquidação de pensões de aposentação, de sobrevivência, de preço de sangue e de acidentes em serviço aos funcionários da ex-administração ultramarina tem sido uma das funções das Direcções-Gerais de Administração Civil e de Fazenda, presentemente integradas na Secretaria de Estado da Administração Pública.
+
+As sucessivas modificações que se foram operando na Administração não justificam já a existência de departamentos com idênticas funções, em exercício paralelo, tudo indicando que as mesmas sejam integradas nos organismos naturalmente vocacionados para a sua execução.
+
+É assim lógico que as funções referidas daquelas Direcções-Gerais sejam integradas na Caixa Nacional de Previdência (Caixa Geral de Aposentações e Montepio dos Servidores do Estado) e na Direcção-Geral da Contabilidade Pública (Direcção do Abono de Família e das Pensões), a quem naturalmente compete a concretização das medidas legislativas vigentes quanto à protecção na velhice, invalidez e sobrevivência do funcionalismo público.
+
+Por outro lado, a integração de funções na Caixa Nacional de Previdência, dada a existência de aspectos específicos na atribuição de pensões aos funcionários da ex-administração ultramarina, impõe a transferência de pessoal do quadro em serviço nas citadas Direcções-Gerais, de modo a beneficiar-se de forma integral da sua experiência e qualificações profissionais, a fim de, com a oportunidade requerida, dar continuidade às volumosas tarefas em curso.
+
+Conseguir-se-á, assim, um mais racional aproveitamento dos meios humanos e materiais existentes, de modo a facilitar as diversas operações a realizar e a garantir tanto quanto possível uma capacidade de resposta uniforme às diferentes solicitações.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - A competência que, em matéria de pensões de aposentação, reforma, sobrevivência, preço de sangue e acidentes em serviço, pertence às Direcções-Gerais de Administração Civil e de Fazenda, da Secretaria de Estado da Administração Pública, é transferida:
+
+a) Para a Caixa Nacional de Previdência (Caixa Geral de Aposentações e Montepio dos Servidores do Estado), no que se refere a pensões de aposentação, de reforma e de sobrevivência;
+
+b) Para a Direcção-Geral da Contabilidade Pública (Direcção do Abono de Família e das Pensões), no respeitante a pensões de preço de sangue e de acidentes em serviço.
+
+2 - O processamento e a liquidação de abono de família e de prestações complementares aos aposentados, reformados e pensionistas de sobrevivência da ex-administração ultramarina passam a competir à Direcção do Abono de Família e das Pensões, enquanto não forem cometidos à Caixa Nacional de Previdência.
+
+###### Art. 2.º - 1 - Os funcionários do quadro, em serviço nas Direcções-Gerais mencionadas no artigo 1.º, afectos à atribuição, liquidação e contabilização de pensões de aposentação e de sobrevivência constituirão na Caixa Geral de Depósitos um quadro complementar, ficando sujeitos ao regime jurídico aplicável ao pessoal da instituição.
+
+2 - A integração no quadro complementar será feita com base nos níveis definidos pela Direcção dos Serviços de Pessoal da Caixa Geral de Depósitos, tendo em consideração as categorias e tempo de serviço que o pessoal possui na função pública e efectivar-se-á mediante lista nominativa aprovada pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, independentemente de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas e a publicação no Diário da República, a efectuar dentro de vinte dias após a entrada em vigor deste diploma.
+
+3 - Os funcionários referidos neste artigo transitarão obrigatoriamente, ao fim de três anos de permanência nesse quadro complementar, para o quadro privativo da Caixa Geral de Depósitos, onde ocuparão a última posição na categoria que lhes tiver sido atribuída, desde que possuam as habilitações literárias exigidas para ingresso nesse quadro.
+
+4 - Os que não possuírem aquelas habilitações permanecerão no quadro complementar até que as adquiram, procedendo-se, então, em conformidade com o disposto no número anterior.
+
+###### Art. 3.º Aos funcionários que vierem a ser integrados no quadro complementar referido no n.º 1 do artigo anterior é contado, para todos os efeitos, o tempo de serviço prestado na função pública, designadamente para aposentação, sobrevivência e diuturnidades.
+
+###### Art. 4.º O pessoal do quadro geral de adidos que actualmente se encontra em regime de destacamento nas citadas Direcções-Gerais e afecto ao serviço de pensões e sua contabilização continuará no mesmo regime na Caixa Geral de Depósitos (Caixa Nacional de Previdência), enquanto necessário para a execução daquelas tarefas ou até que pelo Serviço Central de Pessoal seja colocado, nos termos das disposições legais vigentes.
+
+###### Art. 5.º Os encargos decorrentes da aplicação do presente diploma serão suportados:
+
+a) Pela Caixa Nacional de Previdência os relativos às pensões referidas na alínea a) do n.º 1 do artigo 1.º;
+
+b) Pelas competentes verbas do orçamento do Ministério das Finanças e do Plano os de pensões de preço de sangue e de acidente em serviço, bem como os de abono de família e de prestações complementares, a que se refere o n.º 2 do artigo 1.º
+
+###### Art. 6.º As verbas da dotação de «Despesas com a descolonização», inscrita no orçamento do Ministério da Reforma Administrativa (Direcção-Geral de Fazenda) para o corrente ano, destinadas aos encargos com pensões de aposentação e de sobrevivência, serão transferidas para o orçamento do Ministério das Finanças e do Plano, para reforço das rubricas que venham a suportar as despesas resultantes da execução deste decreto-lei.
+
+###### Art. 7.º O pagamento das pensões cujo encargo pertence ao território de Macau continuará a ser suportado pelo seu orçamento geral, sendo as respectivas comparticipações financeiras postas à ordem da Caixa Nacional de Previdência pelo Governo do mesmo território.
+
+###### Art. 8.º - 1 - A partir de 1 de Abril de 1979, os desligados do serviço para efeitos de aposentação, aposentados e pensionistas de sobrevivência que estão a ser abonados das suas pensões pela Direcção-Geral de Fazenda, da Secretaria de Estado da Administração Pública, passam a ser pagos mediante crédito em conta de depósito na Caixa Económica Portuguesa (Caixa Geral de Depósitos).
+
+2 - A Direcção-Geral de Fazenda providenciará no sentido de os beneficiários das pensões promoverem a abertura das respectivas contas de depósito nos cofres da Caixa Geral de Depósitos onde pretendem que as mesmas lhes sejam creditadas.
+
+3 - O Instituto de Informática do Ministério das Finanças e do Plano fornecerá à Direcção dos Serviços de Informática da Caixa Geral de Depósitos uma cópia, em suporte magnético, dos aposentados e pensionistas de sobrevivência a que se refere o n.º 1, em relação a 31 de Dezembro de 1978.
+
+4 - A Direcção-Geral de Fazenda e a Direcção dos Serviços de Informática da Caixa Geral de Depósitos efectuarão as diligências necessárias para que, até ao dia 31 de Janeiro de 1979, seja criado um ficheiro, em suporte magnético, dos desligados do serviço para efeitos de aposentação, de modo que com a entrada em vigor do presente diploma não haja interrupção no abono das respectivas pensões.
+
+5 - A Direcção-Geral de Fazenda fornecerá ainda os elementos complementares que se mostrarem necessários ao aproveitamento ou adaptação dos ficheiros referidos nos n.os 3 e 4 aos esquemas de trabalho mecanográfico da Caixa Geral de Depósitos.
+
+###### Art. 9.º A partir de 1 de Abril de 1979, a Direcção-Geral da Contabilidade Pública (Direcção do Abono de Família e das Pensões) promoverá o processamento das pensões de preço de sangue e de acidentes em serviço e, bem assim, do abono de família e das prestações complementares, devendo, para o efeito, ser transferidos para aquela Direcção-Geral os respectivos processos de pensões até 31 de Janeiro de 1979 e os de abono de família e de prestações complementares à medida que estejam completos.
+
+###### Art. 10.º À Caixa Geral de Depósitos é reconhecido o direito de utilizar o edifício da Cova da Moura, onde se encontram instalados os serviços cuja transferência se determina pelo presente diploma, bem como o respectivo equipamento.
+
+###### Art. 11.º Transitam para a Caixa Nacional de Previdência a documentação e arquivos relativos aos serviços das Direcções-Gerais cuja integração naquela Caixa se prevê neste decreto-lei.
+
+###### Art. 12.º As dúvidas resultantes deste diploma serão resolvidas mediante despacho conjunto do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, ouvida a administração da Caixa Geral de Depósitos.
+
+Alfredo Jorge Nobre da Costa - José da Silva Lopes - António Jorge de Figueiredo Lopes.
+
+**Promulgado em 31 de Outubro de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

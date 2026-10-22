@@ -1,0 +1,226 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:56890482:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-116428693",
+ "dre_path": "/dr/detalhe/portaria/186-2014-56890482",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-09-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116445390",
+    "116445391",
+    "116445392",
+    "116445393",
+    "116445394",
+    "116445395",
+    "116445396",
+    "116445398",
+    "116445399",
+    "116445400",
+    "116445401",
+    "116445402",
+    "116445403",
+    "116445404",
+    "116445405",
+    "116445406"
+   ]
+  },
+  {
+   "date": "2018-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116432995:por",
+     "title": "Portaria n.º 266/2018",
+     "published": "2018-09-19",
+     "dre_path": "/dr/detalhe/portaria/266-2018-116432995"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "116445390",
+    "116425486",
+    "116445392",
+    "116425487",
+    "116445394",
+    "116445395",
+    "116445396",
+    "116445397",
+    "116445398",
+    "116445399",
+    "116445400",
+    "116445401",
+    "116445402",
+    "116445403",
+    "116445404",
+    "116445405",
+    "116445406"
+   ]
+  }
+ ],
+ "fragments": {
+  "116445390": {
+   "fragment_id": "116428694",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 186/2014\n\nde 16 de setembro\n\nA Portaria n.º 966/2007, de 22 de agosto, aprovou os requisitos e condições de exercício da atividade de verificador do sistema de gestão de segurança de estabelecimentos de nível superior de perigosidade, abreviadamente designado verificador do sistema de gestão de segurança para a prevenção de acidentes graves (SGSPAG), no âmbito do Decreto-Lei n.º 254/2007, de 12 de julho, alterado pelo Decreto-Lei n.º 42/2014, de 18 de março, relativo ao regime de prevenção de acidentes graves que envolvam substâncias perigosas e à limitação das suas consequências para o homem e para o ambiente.\n\nConsiderando a experiência obtida após a entrada em vigor da Portaria n.º 966/2007, de 22 de agosto, torna-se necessário atualizar e tornar mais eficientes alguns aspetos do regime legal que prevê os requisitos e condições de exercício da atividade de verificador SGSPAG, revendo-se igualmente nesta oportunidade os valores das taxas devidas pelos atos praticados pela Agência Portuguesa do Ambiente, I.P. no âmbito do procedimento de qualificação de verificadores SGSPAG.\n\nAssim:\n\nAo abrigo e para os efeitos do disposto no n.º 2 do artigo 16.º e no n.º 1 do artigo 31.º do Decreto-Lei n.º 254/2007, de 12 de julho, alterado pelo Decreto-Lei n.º 42/2014, de 18 de março, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas nos termos da subalínea ii) da alínea a) do n.º 1 do Despacho n.º 13322/2013, de 11 de outubro de 2013, publicado no Diário da República, 2.ª série, n.º 202, de 18 de outubro de 2013, alterado pelo Despacho n.º 1941-A/2014, de 5 de fevereiro de 2014, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro de 2014, o seguinte:"
+  },
+  "116445391": {
+   "fragment_id": "116428695",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados os requisitos e condições de exercício da atividade de verificador do sistema de gestão de segurança para a prevenção de acidentes graves (SGSPAG), constantes do anexo I à presente portaria, que dela faz parte integrante, bem como as taxas a cobrar pelos atos praticados pela Agência Portuguesa do Ambiente, I. P. (APA, I. P.), nos termos e para os efeitos do disposto no n.º 2 do artigo 16.º e no n.º 1 do artigo 31.º do Decreto-Lei n.º 254/2007, de 12 de julho, alterado pelo Decreto-Lei n.º 42/2014, de 18 de março."
+  },
+  "116445392": {
+   "fragment_id": "116428696",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo de verificadores SGSPAG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Registo de verificadores SGSPAG\n\nA APA, I. P. mantém o registo dos verificadores SGSPAG em condições de exercer a atividade nos termos da presente portaria e assegura a sua divulgação, designadamente em www.apambiente.pt."
+  },
+  "116445393": {
+   "fragment_id": "116428697",
+   "type": 11,
+   "heading": "Artigo 3.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Taxas\n\n1 - Pelos atos praticados no âmbito do procedimento de qualificação de verificadores SGSPAG, a APA, I. P., cobra as seguintes taxas:\n\na) Instrução e avaliação do processo de qualificação de verificador SGSPAG - (euro) 550;\n\nb) Emissão de certificado de qualificação de verificador SGSPAG - (euro) 1100;\n\nc) Testemunho presencial às ações de verificação SGSPAG com 1 dia de duração - (euro) 300;\n\nd) Testemunho presencial às ações de verificação SGSPAG com 1,5 ou 2 dias de duração - (euro) 600;\n\ne) Testemunho presencial às ações de verificação SGSPAG com 2,5 ou 3 dias de duração - (euro) 850;\n\nf) Testemunho presencial às ações de verificação SGSPAG com 3,5 ou 4 dias de duração - (euro) 1100;\n\ng) Testemunho presencial às ações de verificação SGSPAG com mais de 4 dias de duração - (euro) 1350;\n\nh) Testemunho documental às ações de verificação SGSPAG - (euro) 200;\n\ni) Inscrição no Encontro de Verificadores SGSPAG - (euro) 500;\n\nj) Emissão da declaração de validação da qualificação de verificador SGSPAG - (euro) 250;\n\nk) Alteração de elementos no certificado de qualificação ou na declaração de validação de qualificação de verificador SGSPAG - (euro) 100.\n\n2 - A APA, I. P. procede à notificação do documento único de cobrança da taxa, devendo o seu pagamento ser efetuado no prazo de 15 dias úteis.\n\n3 - Caso o pagamento das taxas devidas não seja realizado no prazo fixado, a APA, I. P. determina a extinção do correspondente procedimento, nos termos do artigo 113.º do Código do Procedimento Administrativo, notificando do facto o verificador.\n\n4 - Os valores previstos na presente portaria são atualizados automaticamente, todos os anos, no mês de janeiro, por aplicação do índice de preços no consumidor publicado pelo Instituto Nacional de Estatística, I. P., arredondando-se o resultado obtido para a casa decimal superior, devendo a APA, I. P. proceder à sua divulgação em www.apambiente.pt.\n\n5 - O produto das taxas cobradas ao abrigo do presente diploma constitui receita própria da APA, I. P."
+  },
+  "116445394": {
+   "fragment_id": "116428698",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime transitório\n\n1 - O ciclo bienal de qualificação e validação da qualificação previsto no n.º 4 do artigos 5.º e no n.º 1 do art.º 7.º dispostos no anexo I à presente portaria, que dela faz parte integrante, inicia-se no primeiro Encontro de Verificadores a realizar após a entrada em vigor da presente Portaria.\n\n2 - Os verificadores qualificados devem validar a sua qualificação no primeiro Encontro de Verificadores que se realizar após a entrada em vigor da presente portaria."
+  },
+  "116445395": {
+   "fragment_id": "116428699",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados:\n\na) Portaria n.º 966/2007, de 22 de agosto;\n\nb) O n.º 10 da Portaria n.º 830/2007, de 1 de agosto."
+  },
+  "116445396": {
+   "fragment_id": "116428700",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "116445398": {
+   "fragment_id": "116428702",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 1.º)\n\nRequisitos e condições de exercício da atividade de verificador do sistema de gestão de segurança de estabelecimentos de nível superior de perigosidade"
+  },
+  "116445399": {
+   "fragment_id": "116428703",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - São aprovados os requisitos e condições de exercício da atividade de verificador do sistema de gestão de segurança para a prevenção de acidentes graves (SGSPAG), nos termos e para os efeitos do disposto no n.º 2 do artigo 16.º do Decreto-Lei n.º 254/2007, de 12 de julho, alterado pelo Decreto-Lei n.º 42/2014, de 18 de março.\n\n2 - Os presentes requisitos e condições aplicam-se a verificadores SGSPAG de estabelecimentos de nível superior de perigosidade, entendidos como pessoas singulares que atuem em nome próprio ou de outrem, independentes do operador e do estabelecimento, devidamente qualificadas nos termos da presente portaria."
+  },
+  "116445400": {
+   "fragment_id": "116428704",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso à qualificação de verificador SGSPAG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de acesso à qualificação de verificador SGSPAG\n\nConstituem condições de acesso à qualificação de verificador SGSPAG:\n\na) Formação de grau superior em área tecnológica;\n\nb) Formação profissional geral, no mínimo de quarenta horas, que contemple as seguintes áreas:\n\ni) Sistemas de gestão ambiental;\n\nii) Sistemas de higiene e segurança no trabalho;\n\niii) Metodologia de realização de auditorias.\n\nc) Formação profissional específica, no mínimo de vinte e cinco horas, que contemple as seguintes áreas:\n\ni) Legislação nacional e comunitária relativa a prevenção de acidentes graves que envolvam substâncias perigosas;\n\nii) Metodologias de análise de riscos;\n\niii) Enquadramento legislativo, regulamentar e administrativo relevante da atividade sujeita a verificação, bem como das normas e orientações relevantes no âmbito dos procedimentos de prevenção de perigo de acidentes graves que envolvam substâncias perigosas;\n\nd) Experiência profissional nas seguintes áreas:\n\ni) Implementação de sistemas de gestão de segurança, sistemas de higiene e segurança no trabalho ou sistemas de gestão ambiental;\n\nii) Aplicação de metodologias de análise de risco industrial, na elaboração de relatórios de segurança ou na elaboração de planos de emergência internos ou externos.\n\niii) Realização de auditorias a sistemas de gestão de segurança, sistemas de higiene e segurança no trabalho ou sistemas de gestão ambiental;\n\ne) Participação, nos três anos que antecedem a candidatura, como auditor efetivo, em pelo menos quatro auditorias completas a Sistemas de Gestão, com o mínimo de dois dias cada."
+  },
+  "116445401": {
+   "fragment_id": "116428705",
+   "type": 11,
+   "heading": "Artigo 3.º — Deveres do verificador SGSPAG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Deveres do verificador SGSPAG\n\n1 - Constituem deveres do verificador SGSPAG:\n\na) Conhecer e aplicar os documentos de referência;\n\nb) Cumprir os procedimentos de qualificação e validação, aprovados e publicitados pela APA, I. P.;\n\nc) Elaborar os relatórios de auditoria e de atividade.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se documentos de referência:\n\na) A legislação e orientações nacionais e comunitárias vigentes em matéria de prevenção de acidentes graves;\n\nb) O referencial «Requisitos do sistema de gestão de segurança para a prevenção de acidentes graves (SGSPAG)» aprovado pela APA, I. P.\n\n3 - Para efeitos do disposto na alínea c) do n.º1, considera-se que:\n\na) O relatório de auditoria relativo ao sistema de gestão de segurança do estabelecimento, a apresentar nos termos do n.º 1 do artigo 16.º do Decreto-Lei n.º 254/2007, de 12 de junho, é elaborado de acordo com o \"Modelo de Relatório de Auditoria ao SGSPAG\", aprovado e publicitado em www.apambiente.pt e deve ser acompanhado de uma declaração de conformidade;\n\nb) O relatório da atividade do verificador é entregue anualmente até ao dia 15 de agosto, e elaborado de acordo com o \"Modelo de Relatório da atividade do verificador SGSPAG\", aprovado e publicitado em www.apambiente.pt."
+  },
+  "116445402": {
+   "fragment_id": "116428706",
+   "type": 11,
+   "heading": "Artigo 4.º — Impedimentos e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Impedimentos e incompatibilidades\n\n1 - Constituem causas de impedimento para o acesso à qualificação de verificador SGSPAG:\n\na) O estado de insolvência, falência, liquidação ou de cessação de atividade, ou a pendência do respetivo processo;\n\nb) A condenação, por sentença transitada em julgado, por qualquer delito que afete a honorabilidade profissional, ou a punição disciplinar por falta grave em matéria profissional, se entretanto não tiver ocorrido a reabilitação.\n\n2 - O verificador SGSPAG não pode exercer a sua atividade:\n\na) Em estabelecimentos detidos por operadores com os quais tenha mantido relação laboral ou de prestação de serviços, com exceção das previstas na presente portaria, em áreas abrangidas pelo regime de prevenção de acidentes graves que envolvam substâncias perigosas, durante os cinco anos que antecedem a atividade de verificação;\n\nb) Em estabelecimentos aos quais, a pessoa coletiva em cujo nome atua, tenha prestado serviços na área da definição e implementação de sistema de gestão de segurança para a prevenção de acidentes graves nos cinco anos que antecedem a atividade de verificação."
+  },
+  "116445403": {
+   "fragment_id": "116428707",
+   "type": 11,
+   "heading": "Artigo 5.º — Formalização de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formalização de candidatura\n\n1 - A candidatura à qualificação de verificador SGSPAG é realizada mediante requerimento dirigido ao Presidente da APA, I. P., de acordo com a minuta aprovada e publicitada em www.apambiente.pt.\n\n2 - O requerimento é instruído com os seguintes documentos:\n\na) Formulário de candidatura, devidamente preenchido;\n\nb) Currículo profissional, datado, assinado e detalhado, designadamente, com a seguinte informação: habilitações literárias, experiência profissional, descrevendo em especial as funções relevantes para o exercício da atividade de verificador a que se candidata, e formação profissional, indicando data de realização, duração e entidade promotora;\n\nc) Declaração sob compromisso de honra, de que reúne os requisitos de candidatura estabelecidos na presente portaria;\n\nd) Declaração sob compromisso de honra, de que assegura em relação a si próprio a independência exigida para o exercício da função;\n\ne) Documentos comprovativos das habilitações literárias;\n\nf) Documentos comprovativos da formação profissional referida nas alíneas b) e c) do artigo 2.º do presente anexo.\n\n3 - Caso o candidato atue em nome de pessoa coletiva, para além dos documentos previstos no número anterior, deverá ainda instruir o requerimento com:\n\na) Documento, emitido pela pessoa coletiva, que explicite as funções exercidas e o vínculo à data da candidatura;\n\nb) Declaração sob compromisso de honra, emitida pela pessoa coletiva, que assegure a independência da mesma no âmbito da alínea b) do n.º 2 do artigo 4.º do presente anexo.\n\n4 - As candidaturas a verificador SGSPAG são apresentadas bienalmente, nos anos em que se realize Encontro de Verificadores, entre 1 de fevereiro e 30 de abril, podendo a APA, I. P., determinar períodos extraordinários de candidatura quando necessário."
+  },
+  "116445404": {
+   "fragment_id": "116428708",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação de candidatura e emissão do certificado de qualificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação de candidatura e emissão do certificado de qualificação\n\n1 - No âmbito da avaliação das candidaturas, compete à APA, I. P.:\n\na) Analisar as candidaturas;\n\nb) Selecionar os candidatos admitidos a exame escrito;\n\nc) Notificar os candidatos da data e local da realização do exame;\n\nd) Nomear o júri.\n\n2 - O Júri é composto por um presidente, dois vogais efetivos e um vogal suplente, competindo-lhe preparar a prova de exame e atribuir as classificações.\n\n3 - Aos candidatos que obtenham classificação igual ou superior a 10 valores, na escala de 0 a 20, é atribuído o certificado de qualificação de verificador SGSPAG.\n\n4 - O certificado de qualificação de verificador SGSPAG é emitido pela APA, I. P.\n\n5 - A alteração de elementos no certificado de qualificação, não imputável à APA, I. P., carece de nova emissão de certificado."
+  },
+  "116445405": {
+   "fragment_id": "116428709",
+   "type": 11,
+   "heading": "Artigo 7.º — Validação da qualificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Validação da qualificação\n\n1 - O certificado de qualificação de verificador SGSPAG é validado bienalmente, nos anos em que se verifique Encontro de Verificadores, através de declaração a emitir pela APA, I. P., de acordo com os procedimentos, critérios e valorações publicitados em www.apambiente.pt.\n\n2 - Sem prejuízo do disposto no número anterior, a validação da qualificação do verificador SGSPAG considera a ponderação do seguinte:\n\na) Avaliação de ações de verificação realizadas, sob a forma de auditorias de testemunho presenciais ou documentais;\n\nb) Classificação obtida em exercício teórico e/ou prático, em encontro de verificadores SGSPAG de participação obrigatória.\n\n3 - A validação da qualificação de verificador a emitir pela APA, I. P., fica ainda condicionada:\n\na) Ao cumprimento dos deveres previstos no artigo 3.º do presente anexo;\n\nb) À realização de formação de atualização, no mínimo de 15 horas, no período de 4 anos, nas áreas previstas nas alíneas b) e c) do artigo 2.º do presente anexo ou em áreas específicas recomendadas pela APA, I. P., a qual deve ser evidenciada em sede do relatório de atividade do verificador;\n\nc) À demonstração da atividade do verificador nos dois anos anteriores à validação da qualificação;\n\nd) À comparência no Encontro de Verificadores.\n\n4 - Sempre que se justifique, designadamente, por necessidade de clarificação ou de harmonização de procedimentos decorrentes da aplicação de nova regulamentação, a APA, I. P., pode determinar a realização de ações de formação obrigatórias para a validação da qualificação do verificador SGSPAG.\n\n5 - A alteração de elementos na declaração de validação, não imputável à APA, I. P., carece de nova emissão de declaração.\n\n6 - A não validação da qualificação inibe o verificador de exercer a atividade durante o período de 2 anos. Para voltar a exercer, necessitará de requerer nova qualificação."
+  },
+  "116445406": {
+   "fragment_id": "116428710",
+   "type": 11,
+   "heading": "Artigo 8.º — Anulação do certificado de qualificação de verificador SGSPAG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Anulação do certificado de qualificação de verificador SGSPAG\n\n1 - A APA, I. P., pode anular o certificado de qualificação de verificador SGSPAG quando verifique uma das seguintes situações:\n\na) Falsas declarações, designadamente no âmbito dos procedimentos de candidatura à qualificação e validação da qualificação de verificador SGSPAG, ou nos relatórios de exercício da atividade de verificador SGSPAG;\n\nb) Condenação por sentença transitada em julgado por qualquer delito que afete a honorabilidade profissional ou punição disciplinar por falta grave em matéria profissional, se entretanto não tiver ocorrido a reabilitação;\n\nc) Exercício da atividade de verificador SGSPAG em violação ao disposto no n.º 2 do artigo 4.º do presente anexo;\n\nd) Utilização da qualificação de verificador SGSPAG em outros domínios que não a atividade de verificador SGSPAG.\n\n2 - A anulação do certificado inibe o verificador de exercer a atividade durante o período de 2 anos. Para voltar a exercer, necessitará de requerer nova qualificação."
+  },
+  "116425486": {
+   "fragment_id": "116428695",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2018-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 266/2018 - Diário da República n.º 181/2018, Série I de 2018-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/266-2018-116432995), em vigor a partir de 2018-09-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados os requisitos e condições de exercício da atividade de verificador do sistema de gestão e segurança para a prevenção de acidentes graves (SGSPAG), constantes do Anexo I à presente portaria da qual faz parte integrante.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 266/2018 - Diário da República n.º 181/2018, Série I de 2018-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/266-2018-116432995), em vigor a partir de 2018-09-20"
+  },
+  "116425487": {
+   "fragment_id": "116428697",
+   "type": 11,
+   "heading": "Artigo 3.º — Taxas",
+   "in_force_from": "2018-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 266/2018 - Diário da República n.º 181/2018, Série I de 2018-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/266-2018-116432995), em vigor a partir de 2018-09-20"
+   ],
+   "markdown": "###### Artigo 3.º — Taxas\n\n1 - Pelos atos praticados no âmbito do procedimento de qualificação de verificadores SGSPAG, a APA, I. P., cobra as seguintes taxas:\n\na) Instrução e avaliação do processo de qualificação de verificador SGSPAG - (euro) 550;\n\nb) Emissão de certificado de qualificação de verificador SGSPAG - (euro) 1100;\n\nc) Testemunho presencial às ações de verificação SGSPAG com 1 dia de duração - (euro) 300;\n\nd) Testemunho presencial às ações de verificação SGSPAG com 1,5 ou 2 dias de duração - (euro) 600;\n\ne) Testemunho presencial às ações de verificação SGSPAG com 2,5 ou 3 dias de duração - (euro) 850;\n\nf) Testemunho presencial às ações de verificação SGSPAG com 3,5 ou 4 dias de duração - (euro) 1100;\n\ng) Testemunho presencial às ações de verificação SGSPAG com mais de 4 dias de duração - (euro) 1350;\n\nh) Testemunho documental às ações de verificação SGSPAG - (euro) 200;\n\ni) Inscrição no Encontro de Verificadores SGSPAG - (euro) 500;\n\nj) Emissão da declaração de validação da qualificação de verificador SGSPAG - (euro) 250;\n\nk) Alteração de elementos no certificado de qualificação ou na declaração de validação de qualificação de verificador SGSPAG - (euro) 100.\n\n2 - A APA, I. P. procede à notificação do documento único de cobrança da taxa, devendo o seu pagamento ser efetuado no prazo de 15 dias úteis.\n\n3 - Caso o pagamento das taxas devidas não seja realizado no prazo fixado, a APA, I. P. determina a extinção do correspondente procedimento, nos termos do artigo 113.º do Código do Procedimento Administrativo, notificando do facto o verificador.\n\n4 - Os valores previstos na presente portaria são atualizados automaticamente, todos os anos, no mês de janeiro, por aplicação do índice de preços no consumidor publicado pelo Instituto Nacional de Estatística, I. P., arredondando-se o resultado obtido para a casa decimal superior, devendo a APA, I. P. proceder à sua divulgação em www.apambiente.pt.\n\n5 - O produto das taxas cobradas ao abrigo do presente diploma constitui receita própria da APA, I. P.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 266/2018 - Diário da República n.º 181/2018, Série I de 2018-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/266-2018-116432995), em vigor a partir de 2018-09-20"
+  },
+  "116445397": {
+   "fragment_id": "116428701",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 5 de setembro de 2014."
+  }
+ }
+}

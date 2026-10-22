@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:376214:por
+title: Portaria n.º 973/82
+short_title: null
+summary: Aumenta o quadro de pessoal do Serviço do Provedor de Justiça
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 973/82
+official_date: null
+publication_date: '1982-10-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 240/1982, Série I de 1982-10-16
+  number: '240'
+  series: I
+  supplement: null
+  pages: 3408 - 3408
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/10/24000/34083408.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '376214'
+  dre_path: /dr/detalhe/portaria/973-1982-376214
+  internal: pt:dre:376214:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/973-1982-376214
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/973-1982-376214
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-10-16T00:00:00Z'
+integrity:
+  source_sha256: ebebf90846900dac8cc89173b226cb22fef54e0dd2243ae5e1c0fa10971a7643
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-973-376214.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 973/82
+
+de 16 de Outubro
+
+O Provedor de Justiça propõe a elevação para 16 do número de assessores que compõem, juntamente com os coordenadores, a assessoria do seu Serviço, que o coadjuva nas funções específicas do seu cargo.
+
+Justifica a sua proposta, por um lado, no facto de, desde o ano passado, se vir a verificar um aumento do total de queixas apresentadas ao Provedor, o que tem dado origem a saldos negativos no confronto entre os quantitativos de processos abertos e encerrados em vários meses.
+
+E refere, por outro lado, no mesmo sentido, o propósito de reduzir o tempo médio de tratamento dos processos, assim como a vantagem de incrementar o número de diligências a efectuar fora do Serviço, para recepção directa de queixas e instrução de processos.
+
+Considerando atendíveis as razões apresentadas:
+
+Manda o Governo da República Portuguesa, pelo Primeiro-Ministro e pelo Ministro de Estado e das Finanças e do Plano, em conformidade com o disposto no n.º 2 do artigo 25.º da [Lei n.º 10/78](https://diariodarepublica.pt/dr/detalhe/lei/10-1978-446097), de 2 de Março:
+
+1.º É aumentado de 2 o número de assessores do quadro do pessoal do Serviço do Provedor de Justiça a que se refere o n.º 1 do artigo 25.º da [Lei n.º 10/78](https://diariodarepublica.pt/dr/detalhe/lei/10-1978-446097), de 2 de Março.
+
+2.º Os encargos resultantes da criação dos lugares referidos no número anterior serão suportados, no corrente ano, pelas disponibilidades existentes nas verbas de pessoal do orçamento privativo daquele Serviço.
+
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 17 de Setembro de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.

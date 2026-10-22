@@ -1,0 +1,1330 @@
+---
+schema_version: '1.0'
+id: pt:dre:507225:por
+title: Decreto-Lei n.º 180/2004
+short_title: null
+summary: Transpõe para a ordem jurídica nacional a Directiva n.º 2002/59/CE, do Parlamento Europeu e do Conselho, de 27 de
+  Junho, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Habitação
+proposing_entity: null
+official_number: 180/2004
+official_date: null
+publication_date: '2004-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 175/2004, Série I-A de 2004-07-27
+  number: '175'
+  series: I
+  supplement: null
+  pages: 4732 - 4741
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/07/175a00/47324741.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-06-24'
+version_history:
+  file: decreto-lei-180-2004.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2004-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-23'
+    amending: pt:dre:218364:por
+    amending_title: Decreto-Lei n.º 236/2004
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 16.º
+  - date: '2005-03-02'
+    amending: pt:dre:584400:por
+    amending_title: Decreto-Lei n.º 51/2005
+    changes:
+    - Altera Artigo 3.º
+  - date: '2009-12-27'
+    amending: pt:dre:490689:por
+    amending_title: Decreto-Lei n.º 263/2009
+    changes:
+    - Altera Artigo 25.º
+  - date: '2012-03-08'
+    amending: pt:dre:542417:por
+    amending_title: Decreto-Lei n.º 52/2012
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 6.º-B
+    - Adita Artigo 19.º-A
+    - Adita Artigo 19.º-B
+    - Adita Artigo 19.º-C
+    - Adita Artigo 21.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Revoga Artigo 10.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 30.º
+  - date: '2012-06-20'
+    amending: pt:dre:178831:por
+    amending_title: Decreto-Lei n.º 121/2012
+    changes:
+    - Altera Anexo II
+  - date: '2016-01-13'
+    amending: pt:dre:73115708:por
+    amending_title: Decreto-Lei n.º 3/2016
+    changes:
+    - Altera Anexo III
+  - date: '2026-06-24'
+    amending: pt:dre:1135578392:por
+    amending_title: Decreto-Lei n.º 120/2026
+    changes:
+    - Altera Anexo I
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/180/2004/p/cons/20260623/pt/html
+  oj: null
+  dre: '507225'
+  dre_path: /dr/detalhe/decreto-lei/180-2004-507225
+  internal: pt:dre:507225:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2004-507225
+  metadata_url: https://data.dre.pt/eli/dec-lei/180/2004/p/cons/20260623/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-105658708
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-105658708
+  retrieved_at: '2026-10-22T12:09:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b6d0b00c3b07f708ee55a03cc8d7fd0410d7e6feddde33673e48d328c47c6dfa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:09:37Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-180-2004.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Embarcação
+- CE Países
+- Tráfego Marítimo
+- Multa
+- Comando Naval
+- Instituto Portuário e dos Transportes Marítimos
+- Contra-ordenação
+- Definição de Competências
+- Autoridade Marítima Nacional
+- Equipamento Eletrónico
+- União Europeia
+- Fiscalização
+- Instituto da Conservação da Natureza
+- Normas de Segurança
+- Proteção do Ambiente
+- Segurança da Navegação
+- Segurança Marítima
+- Direcção Geral da Autoridade Marítima
+- Transporte de Mercadorias Perigosas
+relationships:
+- type: amended_by
+  target: pt:dre:218364:por
+  label: Altera Artigo 4.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2004-218364
+  date: '2004-12-18'
+- type: amended_by
+  target: pt:dre:584400:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2005-584400
+  date: '2005-02-25'
+- type: amended_by
+  target: pt:dre:490689:por
+  label: Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2009-490689
+  date: '2009-09-28'
+- type: amended_by
+  target: pt:dre:542417:por
+  label: Adita Artigo 6.º-A; Adita Artigo 6.º-B; Adita Artigo 19.º-A; Adita Artigo 19.º-B; Adita Artigo 19.º-C; Adita Artigo
+    21.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º;
+    Altera Artigo 16.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417
+  date: '2012-03-07'
+- type: amended_by
+  target: pt:dre:178831:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2012-178831
+  date: '2012-06-19'
+- type: amended_by
+  target: pt:dre:73115708:por
+  label: Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2016-73115708
+  date: '2016-01-12'
+- type: amended_by
+  target: pt:dre:1135578392:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2026-1135578392
+  date: '2026-06-23'
+- type: cites
+  target: celex:31993L0075
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/75/oj
+- type: cites
+  target: celex:31995L0021
+  label: null
+  source: http://data.europa.eu/eli/dir/1995/21/oj
+- type: cites
+  target: celex:31996L0039
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/39/oj
+- type: cites
+  target: celex:31997L0034
+  label: null
+  source: http://data.europa.eu/eli/dir/1997/34/oj
+- type: cites
+  target: celex:31998L0055
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/55/oj
+- type: cites
+  target: celex:31998L0074
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/74/oj
+- type: cites
+  target: celex:32000L0059
+  label: null
+  source: null
+- type: cites
+  target: celex:32002L0059
+  label: null
+  source: http://data.europa.eu/eli/dir/2002/59/oj
+- type: cites
+  target: celex:32002R1406
+  label: null
+  source: null
+- type: cites
+  target: celex:32005L0035
+  label: null
+  source: null
+- type: cites
+  target: celex:32009L0016
+  label: null
+  source: null
+- type: cites
+  target: celex:32009L0018
+  label: null
+  source: null
+- type: cites
+  target: celex:32009L0020
+  label: null
+  source: null
+- type: cites
+  target: celex:32009L0123
+  label: null
+  source: null
+- type: cites
+  target: celex:32010L0065
+  label: null
+  source: null
+article_structure:
+  article_count: 37
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:09:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 180/2004
+
+Decreto-Lei n.º 180/2004
+
+de 27 de Julho
+
+Com o Decreto-Lei n.º 94/96, de 17 de Julho, o Governo introduziu no direito interno as regras preconizadas na Directiva n.º <a href="eurlex.asp?ano=1993&id=393L0075" title="Link para Directiva da Comunidade Europeia">93/75/CE</a>, do Conselho, de 13 de Setembro, que impôs aos Estados a adopção de medidas relativas às condições mínimas exigidas aos navios com destino a portos marítimos da Comunidade ou que deles saíssem transportando mercadorias perigosas ou poluentes.
+
+Esse diploma legal foi alterado pelo Decreto-Lei n.º 367/98, de 23 de Novembro, o qual transpôs para a ordem jurídica interna as alterações que entretanto foram aprovadas pelas Directivas n.os <a href="eurlex.asp?ano=1996&id=396L0039" title="Link para Directiva da Comunidade Europeia">96/39/CE</a>, da Comissão, de 19 de Junho, e <a href="eurlex.asp?ano=1997&id=397L0034" title="Link para Directiva da Comunidade Europeia">97/34/CE</a>, da Comissão, de 6 de Junho.
+
+Posteriormente, as Directivas n.os <a href="eurlex.asp?ano=1998&id=398L0055" title="Link para Directiva da Comunidade Europeia">98/55/CE</a>, da Comissão, de 17 de Julho, e <a href="eurlex.asp?ano=1998&id=398L0074" title="Link para Directiva da Comunidade Europeia">98/74/CE</a>, da Comissão, de 1 de Outubro, produziram de novo alterações na Directiva n.º <a href="eurlex.asp?ano=1993&id=393L0075" title="Link para Directiva da Comunidade Europeia">93/75/CE</a> no que concerne à matéria referente à versão em vigor para alguns dos instrumentos internacionais reguladores aplicáveis, em particular a Convenção MARPOL, os códigos IBC e IGC, o código INF e a alteração de alguns instrumentos legais. Em conformidade, foi publicado o Decreto-Lei n.º 169/2000, de 8 de Agosto.
+
+No entanto, as regras preconizadas na Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0059" title="Link para Directiva da Comunidade Europeia">2002/59/CE</a>, do Parlamento Europeu e do Conselho, de 27 de Junho, reforçam, alargam e produzem alterações significativas ao estabelecido na Directiva n.º <a href="eurlex.asp?ano=1993&id=393L0075" title="Link para Directiva da Comunidade Europeia">93/75/CE</a>, instituindo um sistema de intercâmbio de dados referentes às cargas perigosas transportadas pelos navios, entre as autoridades competentes dos Estados membros, e, consequentemente, procedem à sua revogação, pelo que se impõe a sua transposição, o que se faz pelo presente diploma.
+
+Por outro lado, a prevenção de acidentes e a prevenção da poluição do mar exige a instalação de um sistema de acompanhamento e informação do tráfego de navios, com especial atenção aos navios considerados de risco, em articulação com os sistemas de organização de tráfego e com os serviços de tráfego marítimo existentes ou a criar, bem como a obrigatoriedade de os navios que entram ou circulam no espaço comunitário se identificarem de forma automática.
+
+Mas a satisfação dessa obrigação só é viável se cada um dos Estados membros plasmar no ordenamento jurídico interno essas exigências.
+
+Nessa linha de orientação, o presente diploma estabelece a obrigação de comunicação pelo comandante de um navio em águas nacionais de qualquer acidente ou incidente marítimo e a forma de actuação das entidades responsáveis. A obrigatoriedade de utilização a bordo de um registador de dados da viagem, imposta agora aos navios que entram ou circulam no espaço comunitário, contribuirá para facilitar os inquéritos a acidentes ou incidentes marítimos.
+
+Não obstante as medidas referidas, a inexistência de um plano que permita, num porto ou em qualquer zona abrigada, quando a situação o justifique, o acolhimento de um navio em dificuldade pode ter consequências graves em caso de acidente marítimo. É, pois, primordial para todos os Estados membros o objectivo que a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0059" title="Link para Directiva da Comunidade Europeia">2002/59/CE</a> preconiza de cada um dos países da Comunidade proceder à elaboração de planos que contemplem a definição de locais de refúgio.
+
+Este diploma identifica, assim, as entidades nacionais responsáveis pela aplicação ou coordenação das matérias expostas e as formas de articulação entre si e com as congéneres dos outros Estados membros.
+
+Por fim, no que concerne ao regime sancionatório, para além do expressamente fixado no presente diploma legal, julgou-se adequado, por se considerar ser da competência da autoridade marítima nacional, acrescentar duas alíneas ao elenco das condutas tipificadas no Decreto-Lei n.º 45/2002, de 2 de Março, o qual aprovou o quadro geral dos ilícitos contra-ordenacionais da competência dos capitães dos portos.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417) Todas as referências ao «Instituto Portuário e dos Transportes Marítimos» (IPTM) no Decreto-Lei n.º 180/2004, de 27 de Julho, consideram-se feitas à «Direcção-Geral de Recursos Naturais, Segurança e Serviços Marítimos» (DGRM).
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0059" title="Link para Directiva da Comunidade Europeia">2002/59/CE</a>, do Parlamento Europeu e do Conselho, de 27 de Junho, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios.
+
+2 - São estabelecidas regras relativas à instituição, no território nacional, de um sistema de acompanhamento e de informação do tráfego de navios com vista a aumentar a segurança e a eficácia do tráfego marítimo, melhorar a resposta das autoridades a incidentes, a acidentes ou a situações potencialmente perigosas no mar, incluindo operações de busca e de salvamento, e contribuir para uma melhor prevenção e detecção da poluição causada pelos navios.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - Salvo disposição em contrário, o presente diploma aplica-se aos navios de arqueação bruta igual ou superior a 300.
+
+2 - Salvo disposição em contrário, o presente diploma não se aplica a:
+
+a) Navios de guerra e unidades auxiliares da Marinha de qualquer pavilhão e outros navios pertencentes a um Estado-membro ou ao serviço de um Estado-membro e utilizados para um serviço público de natureza não comercial;
+
+b) Embarcações de pesca e tradicionais bem como embarcações de recreio de comprimento inferior a 45 m;
+
+c) Bancas em navios com arqueação bruta inferior a 1000, provisões de bordo e equipamentos para uso a bordo de todos os navios.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+a) «Instrumentos internacionais pertinentes» os seguintes instrumentos, na sua versão actualizada:
+
+i) MARPOL 73/78, a Convenção Internacional para a Prevenção da Poluição por Navios, de 1973, tal como alterada pelo Protocolo de 1978, nas actuais redacções;
+
+ii) SOLAS, a Convenção Internacional para a Salvaguarda da Vida Humana no Mar, bem como os seus protocolos e alterações;
+
+iii) A Convenção Internacional sobre a Arqueação dos Navios de 1969;
+
+iv) A Convenção Internacional de 1969 sobre a Intervenção no Alto Mar em Caso de Acidente que Provoque ou Possa Vir a Provocar Poluição por Hidrocarbonetos e o Protocolo de 1973 sobre a Intervenção no Alto Mar em Caso de Poluição por Substâncias que não Sejam Hidrocarbonetos;
+
+v) Convenção SAR, a Convenção Internacional sobre Busca e Salvamento Marítimos de 1979;
+
+vi) Código ISM, o Código Internacional de Gestão para a Segurança;
+
+vii) Código IMDG, o Código Marítimo Internacional para as Mercadorias Perigosas, na sua actual redacção;
+
+viii) Código IBC, o Código Internacional da Organização Marítima Internacional (OMI) para a Construção e Equipamento de Navios que Transportam Substâncias Químicas Perigosas a Granel, na sua actual redacção;
+
+ix) Código IGC, o Código Internacional da OMI para a Construção e Equipamento de Navios que Transportam Gases Liquefeitos a Granel, na sua actual redacção;
+
+x) Código BC, o Código de Práticas para a Segurança do Transporte de Carga Sólida a Granel, da OMI;
+
+xi) Código INF, o Código da OMI para a segurança do transporte de combustível nuclear irradiado, do plutónio e de resíduos altamente radioactivos em barris a bordo de navios, na sua actual redacção;
+
+xii) Resolução A.851(20) da OMI, a resolução A.851(20) da OMI intitulada «General principles for ship reporting systems and ship reporting requirements, including guidelines for reporting incidents involving dangerous goods, harmful substances and/or marine pollutants»;
+
+xiii) Resolução A.917(22) da OMI, a Resolução 917(22) da OMI intitulada «Guidelines for the onboard use of AIS», com a redacção que lhe foi dada pela Resolução A.956(23) da OMI;
+
+xiv) Resolução A.949(23) da OMI, a Resolução 949(23) da OMI intitulada «Guidelines on places of refuge for ships in need of assistance»;
+
+xv) Resolução A.950(23) da OMI, a Resolução 950(23) da OMI intitulada «Maritime assistance services (MAS)»;
+
+xvi) Directrizes da OMI sobre o tratamento justo dos marítimos em caso de acidente marítimo, as Directrizes anexas à Resolução LEG. 3(91) do Comité Legal da OMI, de 27 de Abril de 2006, tal como aprovadas pelo Conselho de Administração da OIT na sua 296.ª sessão, de 12 a 16 de Junho de 2006;
+
+b) «Operador» o armador ou o gestor do navio;
+
+c) «Agente» a pessoa mandatada ou autorizada para prestar informações em nome do operador do navio;
+
+d) «Carregador» a pessoa que celebrou um contrato de transporte de mercadorias com um transportador ou em nome da qual ou por conta da qual foi celebrado esse contrato;
+
+e) «Companhia» a companhia na acepção que lhe é dada na regra 1.2 do capítulo ix da Convenção SOLAS;
+
+f) «Navio» qualquer navio de mar ou veículo marinho;
+
+g) «Mercadorias perigosas»:
+
+i) As mercadorias mencionadas no código IMDG;
+
+ii) As substâncias líquidas perigosas enumeradas no capítulo 17 do código IBC;
+
+iii) Os gases liquefeitos enumerados no capítulo 19 do código IGC;
+
+iv) As matérias sólidas referidas no apêndice B do código BC.
+
+Incluem-se igualmente nesta definição as mercadorias para cujo transporte tenham sido prescritas condições prévias adequadas em conformidade com o disposto no ponto 1.1.3 do código IBC ou no ponto 1.1.6 do código IGC;
+
+h) «Mercadorias poluentes»:
+
+i) Os hidrocarbonetos conforme a definição dada no anexo i da Convenção MARPOL;
+
+ii) As substâncias líquidas nocivas, conforme a definição dada no anexo ii da Convenção MARPOL;
+
+iii) As substâncias prejudiciais, conforme a definição dada no anexo iii da Convenção MARPOL;
+
+i) «Unidade de transporte de carga» qualquer veículo de carga rodoviário, vagão de carga ferroviário, contentor, veículo cisterna rodoviário, vagão ferroviário ou cisterna portátil;
+
+j) «Endereço» o nome e as ligações de comunicação pelos quais se possa estabelecer contacto, em caso de necessidade, com o operador, o agente, a autoridade portuária, a autoridade competente ou qualquer outra pessoa ou organismo autorizados na posse de informações detalhadas relativas à carga transportada pelo navio;
+
+l) «Autoridades competentes» as autoridades designadas no presente diploma para exercer as funções nele previstas;
+
+m) «Autoridades portuárias» as entidades gestoras dos portos em cada porto, para receber e disponibilizar as informações comunicadas em conformidade com o presente diploma;
+
+n) «Autoridade marítima» as capitanias dos portos;
+
+o) «Local de refúgio» um porto, parte de porto, outro espaço abrigado para manobrar, um fundeadouro ou qualquer outra área identificada em plano de acolhimento de navios em dificuldade;
+
+p) «Centro costeiro»:
+
+i) O centro de controlo de tráfego marítimo do continente (CCTMC), nos termos do Decreto-Lei n.º 263/2009, de 28 de Setembro;
+
+ii) Os centros de coordenação de busca e salvamento marítimo (MRCC), nos termos do Decreto-Lei n.º 15/94, de 22 de Janeiro, alterado pelo Decreto-Lei n.º 399/99, de 14 de Outubro;
+
+q) «Serviço de tráfego marítimo (VTS)» um serviço destinado a aumentar a segurança e a eficácia do tráfego marítimo e a proteger o ambiente, com capacidade para intervir no tráfego e reagir a situações de tráfego que surjam na zona por ele abrangida;
+
+r) «Sistemas de organização do tráfego» qualquer sistema que inclua uma ou várias rotas ou medidas de organização do tráfego destinadas a reduzir o risco de acidentes, que inclui esquemas de separação do tráfego, rotas com dois sentidos, vias recomendadas, zonas a evitar, zonas de tráfego costeiro, desvios, zonas de precaução e rotas de águas profundas, nomeadamente como aqueles a que se refere o Decreto-Lei n.º 198/2006, de 19 de Outubro, alterado pelo Decreto-Lei n.º 263/2009, de 28 de Setembro;
+
+s) «Embarcações tradicionais» qualquer tipo de embarcação histórica e suas réplicas, incluindo as embarcações destinadas a incentivar ou promover competências e a navegação tradicionais, que constituam simultaneamente monumentos culturais vivos, manobrados de acordo com princípios de navegação e técnica tradicionais;
+
+t) «Acidente» qualquer acidente na acepção do código da OMI para a investigação de acidentes e incidentes marítimos;
+
+u) «Estado-membro» qualquer Estado-membro da União Europeia;
+
+v) «SafeSeaNet» o sistema comunitário de intercâmbio de informações marítimas desenvolvido pela Comissão Europeia em cooperação com os Estados-membros, a fim de assegurar a aplicação da legislação da União Europeia;
+
+x) «Serviço regular» uma série de viagens organizada de forma a assegurar o tráfego entre dois ou mais portos, quer de acordo com um horário público, quer com uma regularidade ou frequência tal que constitua uma série manifestamente sistemática;
+
+z) «Embarcação de pesca» qualquer embarcação equipada e autorizada para exercer a exploração comercial dos recursos marinhos vivos;
+
+aa) «Embarcação de pesca nova» uma embarcação de pesca relativamente à qual se verifique uma das seguintes condições:
+
+i) O contrato de construção seja celebrado após a entrada em vigor do presente diploma;
+
+ii) O contrato de construção tenha sido celebrado até à data de entrada em vigor do presente diploma e a embarcação seja entregue três ou mais anos após essa data;
+
+iii) Na ausência de um contrato de construção, após a data de entrada em vigor do presente diploma se se verificar uma das seguintes condições:
+
+A quilha esteja assente;
+
+Comece uma fase de construção identificável com uma embarcação específica;
+
+Se tenha iniciado a montagem compreendendo pelo menos 50 t ou 1% do peso estimado de todo o material da estrutura, consoante o valor que for menor;
+
+bb) «Embarcação de pesca existente» uma embarcação de pesca que não seja uma embarcação nova;
+
+cc) «Navio em dificuldade» um navio ou uma embarcação de pesca que se encontre numa situação que possa causar a sua perda ou representar um perigo para o ambiente ou para a navegação, sem prejuízo das normas da Convenção SAR relativas ao resgate de pessoas;
+
+dd) «LRIT» um sistema de identificação e seguimento de navios de longo alcance, em conformidade com a regra 19-1 do capítulo v da Convenção SOLAS;
+
+ee) «Hora de chegada de um navio a um porto ou fundeadouro (ATA)» hora a que o navio atraca a um cais ou fundeia num fundeadouro para operar, a qual é registada pelo comandante do navio no diário de navegação;
+
+ff) «Hora de saída de um navio de um porto ou fundeadouro (ATD)» hora a que um navio larga de um cais ou suspende o ferro de um fundeadouro em que esteve a operar, com o fim de se dirigir a outro porto ou fundeadouro, a qual é registada pelo comandante do navio no diário de navegação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 51/2005 - Diário da República n.º 40/2005, Série I-A de 2005-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2005-584400), em vigor a partir de 2005-03-02
+
+## Anexo
+
+## Título I — Notificação e acompanhamento dos navios
+
+###### Artigo 4.º — Notificação prévia à entrada em portos nacionais
+
+1 - O comandante de um navio que se dirija a um porto nacional notifica a autoridade portuária do porto a que se dirige das informações previstas no n.º 1 do anexo i ao presente diploma e que dele faz parte integrante:
+
+a) Com pelo menos vinte e quatro horas de antecedência; ou
+
+b) O mais tardar no momento em que o navio largue do porto anterior, se a duração da viagem for inferior a vinte e quatro horas; ou
+
+c) Se não for conhecido o porto de escala ou se tiver sido alterado durante a viagem, logo que a informação seja conhecida.
+
+2 - O comandante de um navio estrangeiro, independentemente da sua arqueação bruta, que, em conformidade com o artigo 14.º da Directiva n.º 2009/16/CE, do Parlamento Europeu e do Conselho, de 23 de Abril de 2009, relativa à inspecção de navios pelo Estado do porto, seja elegível para uma inspecção expandida, e navegue com destino a um porto ou fundeadouro nacional, notifica a respectiva autoridade portuária das informações previstas no n.º 2 do anexo i:
+
+a) Pelo menos, 72 horas antes da hora estimada de chegada do navio ao porto ou ao fundeadouro; ou
+
+b) Antes de o navio largar do porto anterior, se a duração da viagem for inferior a 72 horas.
+
+3 - A autoridade portuária introduz imediatamente no SafeSeaNet as seguintes informações:
+
+a) As referidas nos números anteriores;
+
+b) A hora de chegada (ATA) e de partida (ATD) de todo e qualquer navio estrangeiro que faça escala nos seus portos ou fundeadouros, assim definindo o período em que o navio está disponível para inspecções de controlo pelo Estado do porto.
+
+4 - Os navios provenientes de um porto fora da União Europeia que se dirijam a um porto nacional e que transportem mercadorias perigosas ou poluentes cumprem as obrigações de notificação previstas no artigo 12.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+> Alterado pelo/a [Decreto-Lei n.º 236/2004 - Diário da República n.º 295/2004, Série I-A de 2004-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2004-218364), em vigor a partir de 2004-12-23
+
+###### Artigo 5.º — Sistemas de notificação obrigatória de navios
+
+1 - Sempre que esteja implementado numa zona marítima sob jurisdição nacional um sistema de notificação obrigatória dos navios, aprovado pela OMI de acordo com a regra 11 do capítulo V da Convenção SOLAS, em conformidade com as orientações e critérios aplicáveis estabelecidos pela OMI, o IPTM adopta as medidas necessárias e adequadas para garantir que todos os navios que entrem na zona abrangida por esse sistema comuniquem as informações exigidas, sem prejuízo de quaisquer informações suplementares que possam ser solicitadas de acordo com a resolução A.851(20) da OMI.
+
+2 - Ao submeter à OMI um sistema de notificação obrigatória dos navios, a DGRM inclui nessa proposta os elementos constantes do n.º 5 do anexo i ao presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 6.º — Utilização de sistemas de identificação automática
+
+1 - Os navios que se dirijam a um porto nacional devem estar equipados com um sistema de identificação automática (AIS) que responda às normas de desempenho definidas pela OMI, de acordo com o calendário estabelecido na secção i do anexo ii ao presente diploma e que dele faz parte integrante.
+
+2 - Os navios equipados com um AIS mantêm esse sistema permanentemente operacional e ligado, excepto quando a segurança ou a confidencialidade das informações sobre navegação estiver prevista em acordos, regras ou normas internacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 6.º-A — Utilização de sistemas de identificação automática (AIS) em embarcações de pesca
+
+1 - Devem estar equipados com um AIS (Classe A) que satisfaça as normas de desempenho da OMI, de acordo com o calendário estabelecido no ponto I.4 do anexo ii, quaisquer embarcações de pesca com um comprimento de fora a fora superior a 15 metros em relação às quais se verifique uma das seguintes condições:
+
+a) Arvore bandeira portuguesa;
+
+b) Opere nas águas interiores ou no mar territorial de Portugal;
+
+c) Desembarque as capturas num porto nacional.
+
+2 - As embarcações de pesca equipadas com um AIS mantêm esse sistema operacional e ligado quando operem em águas sob jurisdição nacional, podendo o AIS ser desligado em circunstâncias excepcionais e fora daqueles espaços, quando o comandante o considerar necessário para a segurança ou protecção da sua embarcação.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 6.º-B — Utilização de sistemas de identificação e seguimento de longo alcance de navios (LRIT)
+
+Os navios que escalem um porto nacional e aos quais se aplicam a regra 19-1 do capítulo v da Convenção SOLAS, as normas de desempenho, bem como os requisitos de funcionamento aprovados pela OMI, devem estar equipados com um sistema LRIT conforme com a referida regra.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 7.º — Utilização de sistemas de organização do tráfego
+
+A DGRM, responsável nacional pelo serviço de controlo de tráfego marítimo (VTS), e a Autoridade Marítima Nacional (AMN) asseguram o acompanhamento e adoptam as medidas necessárias e adequadas para garantir que todos os navios que entrem num espaço marítimo sob jurisdição nacional, abrangida por um sistema de organização de tráfego aprovado pela OMI, de acordo com a regra 10 do capítulo v da Convenção SOLAS, utilizem esse sistema de acordo com as orientações e critérios pertinentes definidos pela OMI.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 8.º
+
+Acompanhamento da observância pelos navios das disposições relativas aos serviços de tráfego marítimo
+
+1 - Os navios que entrem numa zona sujeita a um VTS costeiro em águas sob jurisdição nacional e baseado nas orientações definidas pela OMI devem participar nesse VTS e observar as respectivas regras.
+
+2 - Os navios que arvorem pavilhão nacional e que entrem numa zona sujeita a um VTS, baseado nas orientações definidas pela OMI, nas águas sob jurisdição de outro Estado membro obrigam-se a observar as regras desse VTS.
+
+###### Artigo 9.º — Sistemas de registo dos dados de viagem
+
+1 - Os navios que se dirijam a um porto nacional têm de estar equipados com um sistema de registo dos dados de viagem (VDR), de acordo com as regras estabelecidas na secção II do anexo II.
+
+2 - Os dados recolhidos de um sistema VDR são facultados ao órgão de investigação previsto no artigo 8.º da Directiva n.º 2009/18/CE, do Parlamento Europeu e do Conselho, de 23 de Abril de 2009, que estabelece os princípios fundamentais que regem a investigação de acidentes no sector do transporte marítimo, sempre que seja realizada uma investigação de segurança na sequência de um acidente ocorrido nas águas sob jurisdição nacional ou envolvendo um navio que arvore pavilhão nacional, e ainda ao órgão local da Direcção-Geral da Autoridade Marítima (DGAM), quando seja realizado um inquérito na sequência de acidente ocorrido nas águas sob jurisdição nacional.
+
+3 - O órgão de investigação garante que esses dados são utilizados na investigação e analisados adequadamente, providenciando, ainda, para que nos 30 dias subsequentes à finalização do processo os resultados sejam divulgados.
+
+4 - No caso de o acidente referido no n.º 2 envolver navios de pavilhão de outro Estado membro, esses dados devem ser-lhe facultados a seu pedido.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 10.º — Inquéritos a acidentes e incidentes marítimos
+
+1 - Sem prejuízo do disposto no Decreto-Lei n.º 27/2002, de 14 de Fevereiro, é dado cumprimento ao disposto no código da OMI para a investigação de acidentes e incidentes marítimos, sempre que se efectuar qualquer inquérito que envolva um navio abrangido pelo presente diploma.
+
+2 - Nos inquéritos sobre acidentes e incidentes marítimos que envolvam navios que arvorem pavilhão nacional nas águas sob jurisdição de outro Estado membro deve ser assegurada a cooperação com as autoridades competentes do outro Estado membro.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+## Título II — Notificação das mercadorias perigosas ou poluentes a bordo de navios (Hazmat)
+
+###### Artigo 11.º — Obrigação de informação respeitante ao transporte de mercadorias perigosas
+
+1 - As mercadorias perigosas ou poluentes só podem ser entregues para transporte ou embarcadas num navio, seja qual for a sua dimensão, num porto nacional, se o comandante ou o operador tiver recebido, do carregador, antes da aceitação das mercadorias a bordo, uma declaração com as seguintes informações:
+
+a) As informações enumeradas no n.º 3 do anexo i;
+
+b) Relativamente às substâncias referidas no anexo i da Convenção MARPOL, a ficha de dados de segurança que discrimina as características físico-químicas dos produtos, incluindo, se for caso disso, a viscosidade expressa em cSt a 50ºC e a densidade a 15ºC, bem como os restantes dados contidos na ficha de dados de segurança, em conformidade com a Resolução MSC.286(86) da OMI;
+
+c) Os dados para chamada urgente do carregador ou de qualquer outra pessoa ou organismo que esteja na posse das informações sobre as características físico-químicas dos produtos e sobre as medidas a tomar em caso de emergência;
+
+d) Se as mercadorias embarcadas estão acondicionadas em tanques portáteis ou em contentores, as respectivas marcas de identificação, sua dimensão e peso;
+
+e) Se as mercadorias forem transportadas em contentores, os carregadores são obrigados a mencionar na declaração que a carga a transportar se encontra devidamente acondicionada e em condições para transporte.
+
+2 - Os navios provenientes de um porto situado fora da União Europeia que escalem um porto nacional e que transportem mercadorias perigosas ou poluentes devem estar na posse de uma declaração, fornecida pelo carregador, que contenha as informações exigidas nas alíneas a), b) e c) do número anterior.
+
+3 - Os carregadores são igualmente obrigados a marcar e a rotular, nos termos da regra 4 do capítulo vii da Convenção SOLAS, 1974, e respectivas emendas, os contentores, os tanques, as embalagens e as unidades de carga que contenham mercadorias perigosas ou poluentes de modo a permitir a sua imediata identificação.
+
+4 - Os carregadores fornecem ao comandante ou ao operador e à respectiva autoridade portuária a declaração prevista no n.º 1 e garantem que a carga entregue para transporte corresponde efectivamente à declarada.
+
+5 - As autoridades portuárias adoptam as medidas necessárias e adequadas para assegurar que as mercadorias perigosas ou poluentes entregues para transporte ou embarcadas num navio no respectivo porto são acompanhadas da declaração prevista no n.º 1.
+
+6 - A declaração prevista no número anterior é conservada pelas autoridades portuárias durante um período mínimo de três meses.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 12.º — Notificação de mercadorias perigosas ou poluentes transportadas a bordo
+
+1 - O comandante de um navio, seja qual for a sua dimensão, que largue de um porto nacional transportando mercadorias perigosas ou poluentes, notifica a autoridade portuária, antes da saída do navio, das informações especificadas no n.º 4 do anexo i.
+
+2 - O comandante de um navio, seja qual for a sua dimensão, proveniente de um porto situado fora da União Europeia e que se dirija a um porto nacional, que transporte mercadorias perigosas ou poluentes, notifica a autoridade portuária do porto de destino das informações especificadas no n.º 4 do anexo i o mais tardar no momento da largada do porto de carregamento ou, caso o porto de destino não seja conhecido no momento da largada, logo que essa informação seja conhecida.
+
+3 - A autoridade portuária em causa conserva as informações especificadas no n.º 4 do anexo i durante um período mínimo de um mês após a largada do navio.
+
+4 - A autoridade portuária introduz imediatamente no SafeSeaNet as informações previstas no presente artigo.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 13.º — Intercâmbio informatizado de dados entre autoridades nacionais competentes dos Estados membros
+
+1 - O IPTM, enquanto autoridade competente nacional, deve cooperar com as autoridades competentes nacionais dos Estados membros no sentido de assegurar a interconexão e a interoperabilidade dos sistemas utilizados para gerir as informações especificadas no anexo I.
+
+2 - O sistema de informação nacional, instalado em conformidade com o número anterior, deve apresentar as seguintes características:
+
+a) O intercâmbio de dados far-se-á por via electrónica, devendo o sistema permitir a recepção e o processamento das mensagens comunicadas em conformidade com o artigo 12.º;
+
+b) O sistema deve permitir a comunicação dos dados vinte e quatro horas por dia;
+
+c) Sempre que as autoridades nacionais e locais competentes dos outros Estados-membros solicitem informações relativas ao navio e à carga perigosa ou poluente a bordo, por razões de segurança marítima, ou de protecção, ou ainda de protecção do ambiente marinho, a DGRM transmite de imediato as informações solicitadas através do SafeSeaNet.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 14.º — Isenções
+
+1 - A DGRM pode dispensar do cumprimento das obrigações previstas nos artigos 4.º e 12.º os serviços regulares efectuados entre portos nacionais, desde que cumpridos os requisitos previstos no n.º 3.
+
+2 - A DGRM pode ainda isentar do cumprimento das obrigações previstas nos artigos 4.º e 12.º os serviços regulares internacionais entre portos nacionais e de um Estado-membro, a pedido desse Estado-membro, ou, por sua vez, solicitar a esse Estado-membro a respectiva isenção, desde que cumpridos os requisitos previstos no número seguinte.
+
+3 - As isenções a que se referem os números anteriores só são concedidas a determinados navios relativamente a um serviço específico, desde que os navios efectuem viagens de duração programada máxima de 12 horas e preencham, cumulativamente, as seguintes condições:
+
+a) A companhia que explora os referidos serviços regulares mantenha uma lista actualizada dos navios em causa, que transmite à DGRM;
+
+b) Para cada viagem efectuada, as informações a que se referem os n.os 1 ou 4, conforme o caso, do anexo i sejam colocadas à disposição da autoridade portuária do porto de destino, a pedido desta;
+
+c) A companhia tenha instalado um sistema interno que garanta a transmissão dessas informações 24 horas por dia, sem demora e por via electrónica, à autoridade portuária do porto de destino que as tenha solicitado, nos termos do n.º 1 do artigo 4.º ou dos n.os 1 e 2 do artigo 12.º, consoante o caso;
+
+d) Qualquer mudança da hora estimada de chegada ao porto de destino ou à estação de pilotagem igual ou superior a três horas seja notificada à autoridade portuária do porto de destino, nos termos dos artigos 4.º ou 12.º, consoante os casos.
+
+4 - Para efeitos deste artigo, um serviço só pode ser considerado um serviço regular se se destinar a ser operado pelo menos durante um mês.
+
+5 - A DGRM verifica periodicamente se estão a ser cumpridas as condições previstas neste artigo e, deixando de estar preenchida alguma dessas condições, retira imediatamente a isenção à companhia em causa.
+
+6 - A DGRM transmite à Comissão Europeia a lista das companhias e dos navios dispensados nos termos do presente artigo, bem como eventuais actualizações dessa lista, sendo esta informação disponibilizada e mantida actualizada na página electrónica da DGRM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+## Título III — Acompanhamento dos navios de risco e intervenção em caso de incidente ou acidente marítimo
+
+###### Artigo 15.º — Transmissão de informações relativas a determinados navios
+
+1 - Os navios que correspondam aos critérios a seguir enumerados são considerados navios de risco potencial para a navegação ou uma ameaça para a segurança marítima, a segurança das pessoas ou o ambiente:
+
+a) Navios que, durante a viagem:
+
+i) Tenham estado envolvidos nos incidentes ou acidentes marítimos referidos no artigo 16.º; ou
+
+ii) Não tenham satisfeito as obrigações de notificação e de informação impostas pelo presente diploma; ou
+
+iii) Tenham desrespeitado as regras aplicáveis dos sistemas de organização do tráfego e dos VTS da responsabilidade de um Estado-membro;
+
+b) Navios relativamente aos quais exista prova ou presunção de descarga deliberada de hidrocarbonetos ou de outras infracções à Convenção MARPOL nas águas sob jurisdição de um Estado-membro;
+
+c) Navios a que tenha sido recusado acesso aos portos dos Estados-membros ou que tenham sido objecto de um relatório ou de notificação por um Estado-membro em conformidade com o disposto no n.º 1 do anexo i da Directiva n.º 95/21/CE, do Conselho, de 19 de Junho, relativa à inspecção de navios pelo Estado do porto, transposta para o ordenamento jurídico nacional pelo Decreto-Lei n.º 284/2003, de 8 de Novembro;
+
+d) Navios que não possuam certificados de seguro nem garantias financeiras, nos termos da legislação da União Europeia e das normas internacionais, ou que não os tenham notificado;
+
+e) Navios assinalados pelos pilotos ou pelas autoridades portuárias como tendo anomalias susceptíveis de comprometer a segurança da navegação ou de constituir um risco para o ambiente.
+
+2 - Os centros costeiros nacionais, os órgãos e serviços da autoridade marítima nacional e as autoridades portuárias que, nas respectivas áreas de jurisdição, tiverem informações relevantes sobre os navios referidos no número anterior devem comunicá-las à DGRM, que por sua vez as transmite aos centros costeiros de outros Estados-membros situados na rota prevista do navio.
+
+3 - As informações que forem comunicadas por outros Estados-membros sobre os navios referidos no n.º 1 são transmitidas à DGRM, que procede à sua adequada divulgação.
+
+4 - As inspecções ou verificações aos navios referidos no n.º 1, efectuadas nos portos nacionais, são realizadas em harmonia com as disposições preconizadas no Decreto-Lei n.º 284/2003, de 8 de Novembro, devendo a DGRM dar conhecimento do resultado destas acções a todos os Estados-membros interessados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 16.º — Comunicação de incidentes e acidentes marítimos
+
+1 - Com vista a prevenir ou atenuar riscos significativos para a segurança marítima, a segurança das pessoas ou o ambiente, o comandante de um navio que navegue em área nacional de busca e salvamento ou na zona económica exclusiva deve, sem prejuízo do quadro do direito internacional, informar imediatamente o centro costeiro geograficamente competente de:
+
+a) Qualquer incidente ou acidente que afecte a segurança do navio, nomeadamente abalroamento, encalhe, dano, falha ou avaria, alagamento ou escorregamento da carga, anomalias no casco ou falhas estruturais;
+
+b) Qualquer incidente ou acidente que comprometa a segurança da navegação, nomeadamente falhas susceptíveis de afectar a capacidade de manobra ou de navegação do navio e anomalias que afectem os sistemas de propulsão ou os aparelhos de governo, a instalação de produção de electricidade ou o equipamento de navegação ou de comunicações;
+
+c) Qualquer situação que possa levar à poluição das águas e do litoral, nomeadamente descarga ou risco de descarga de produtos poluentes no mar;
+
+d) Qualquer mancha de poluição ou deriva de contentores ou embalagens observadas no mar.
+
+2 - A informação transmitida em aplicação do número anterior deve conter, pelo menos, o nome e a posição do navio, o porto de partida, o porto de destino e o endereço onde se podem obter informações sobre as mercadorias perigosas ou poluentes transportadas a bordo, os elementos relativos ao incidente e todas as informações pertinentes referidas na resolução A.851(20)] da OMI.
+
+3 - O centro costeiro geograficamente competente garante a transmissão, sem demora, da informação mencionada neste artigo à DGRM, à DGAM e ao MRCC/MRSC, bem como, em caso de possibilidade de risco para o ambiente, à Agência Portuguesa do Ambiente, I. P. (APA, I. P.), pela via mais adequada, preferencialmente por via electrónica, e garante a sua disponibilidade às demais entidades competentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+> Alterado pelo/a [Decreto-Lei n.º 236/2004 - Diário da República n.º 295/2004, Série I-A de 2004-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2004-218364), em vigor a partir de 2004-12-23
+
+###### Artigo 17.º — Medidas em caso de condições meteorológicas excepcionalmente desfavoráveis
+
+1 - Quando, em caso de condições meteorológicas ou estado do mar excepcionalmente desfavoráveis, o órgão local da DGAM considere que existe um risco grave de poluição nas zonas marítimas sob sua jurisdição ou das zonas marítimas ou costeiras de outros Estados-membros ou que a segurança de vidas humanas está em perigo:
+
+a) Deve, sempre que possível, facultar ao comandante de um navio que se encontre na zona portuária em questão e que deseje entrar ou sair do porto todas as informações sobre as condições meteo-oceânicas e, sempre que pertinente e possível, sobre os riscos que estas podem acarretar para o navio, a carga, a tripulação e os passageiros;
+
+b) Pode tomar, sem prejuízo do dever de assistência a navios em dificuldade e em conformidade com o disposto no artigo 19.º do presente diploma, quaisquer outras medidas adequadas, as quais podem incluir uma recomendação ou a proibição de um navio, em particular, ou de os navios, em geral, entrarem ou saírem do porto, até se ter verificado que deixou de haver qualquer risco para a vida humana e ou o meio ambiente, nos termos do disposto no n.º 4 do artigo 13.º do Decreto-Lei n.º 44/2002, de 2 de Março;
+
+c) Deve adoptar as medidas adequadas para limitar na medida do possível ou, se necessário, proibir o abastecimento de combustível no mar territorial.
+
+2 - O comandante do navio deve informar a companhia das recomendações a que se refere o número anterior, as quais não obstam, todavia, a qualquer decisão do comandante tomada com base na sua apreciação profissional nos termos da Convenção SOLAS.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 18.º — Medidas em caso de incidente ou acidente marítimo
+
+1 - A DGRM, a Autoridade Marítima, a Autoridade Nacional de Controlo de Tráfego Marítimo e as autoridades portuárias adoptam, sempre que necessário, as medidas adequadas em caso de incidentes ou acidentes marítimos, nos termos da legislação em vigor.
+
+2 - O anexo IV do presente diploma e que dele faz parte integrante apresenta uma lista, não exaustiva, das medidas que podem ser tomadas em aplicação do presente artigo.
+
+3 - O operador, o comandante do navio e o proprietário das mercadorias perigosas ou poluentes transportadas a bordo cooperam plenamente com as entidades competentes referidas no n.º 1 que o solicitem, de acordo com o direito nacional e internacional, com vista a minimizar as consequências de um incidente ou acidente marítimo, transmitindo para esse efeito, a pedido destas, as informações referidas no artigo 11.º
+
+4 - O comandante de um navio a que se apliquem as disposições do código ISM deve informar a companhia, em conformidade com o referido código, de qualquer incidente ou acidente, tal como referido no n.º 1 do artigo 16.º do presente diploma, ocorrido no mar.
+
+5 - Logo que seja informada de tal situação, a companhia deve entrar em contacto com o centro costeiro competente e colocar-se, se necessário, à sua disposição.
+
+6 - As entidades referidas no presente diploma têm em conta as disposições aplicáveis das Directrizes da OMI sobre o tratamento justo dos marítimos em caso de acidente marítimo em águas sob jurisdição nacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 19.º — Autoridade com competência para o acolhimento de navios em dificuldade
+
+1 - O membro do Governo responsável pela área do mar é a autoridade nacional competente para autorizar a entrada de um navio em dificuldade num qualquer local de refúgio em águas sob jurisdição portuguesa e para decidir sobre o destino ou a melhor forma de assistir o navio em dificuldade, tendo em conta a necessidade de protecção dos bens públicos e privados e outras circunstâncias externas, nomeadamente meteo-oceanográficas que possam afectar o navio.
+
+2 - A decisão sobre o acolhimento de um navio em dificuldade num local de refúgio é tomada depois de ouvida a Comissão Técnica para Acolhimento de Navios em Dificuldade (CTAND), que se pronuncia após proceder a uma avaliação prévia da situação, realizada com base nos planos referidos no artigo 19.º-A.
+
+3 - A CTAND é composta por:
+
+a) A Autoridade Nacional de Controlo do Tráfego Marítimo (ANCTM), que convoca e preside;
+
+b) Um representante da DGRM;
+
+c) Um representante da DGAM;
+
+d) Um representante do Comando Naval;
+
+e) Um representante da APA, I. P.;
+
+f) Um representante do Instituto Superior Técnico;
+
+g) Um representante do Instituto Português do Mar e da Atmosfera, I. P. (IPMA, I. P.).
+
+4 - A CTAND pode ainda integrar, em face das matérias envolvidas, representantes de outras entidades, designadamente:
+
+a) O capitão do porto em cujo espaço de jurisdição se encontre o navio;
+
+b) Um representante da autoridade portuária do local de refúgio, se for esse o caso;
+
+c) Um representante da Autoridade Nacional de Protecção Civil (ANPC);
+
+d) Um representante do Serviço de Estrangeiros e Fronteiras (SEF);
+
+e) Um representante do Instituto Hidrográfico (IH);
+
+f) Um representante da Direcção-Geral do Património Cultural;
+
+g) Um representante do Turismo de Portugal, I. P.
+
+5 - O membro do Governo responsável pela área do mar pode tomar, de acordo com as circunstâncias e em especial em caso de ameaça à segurança marítima e à protecção do ambiente, qualquer uma das medidas contempladas na lista não exaustiva do anexo iv ao presente diploma e que dele faz parte integrante.
+
+6 - A CTAND reúne, ordinariamente, uma vez por ano, para proceder ao intercâmbio de conhecimentos e para melhorar as medidas tomadas previstas neste artigo, e, extraordinariamente, sempre que as circunstâncias o determinem.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 19.º-A — Planos para o acolhimento de navios em dificuldade
+
+1 - A DGRM, em articulação com a DGAM, o Comando Naval, o ITN, I. P., o IPMA, I. P., a APA, I. P., e as autoridades portuárias, elabora e mantém actualizados os planos para o acolhimento de navios em dificuldade nas águas sob jurisdição nacional, com vista a responder aos riscos criados por esses navios, incluindo, se for caso disso, os riscos para as vidas humanas e para o ambiente.
+
+2 - Os planos referidos no número anterior são elaborados após consulta às partes interessadas, com base nas Resoluções A.949(23) e A.950(23) da OMI, e devem incluir, no mínimo, os seguintes elementos:
+
+a) Identidade da autoridade ou autoridades responsáveis pela recepção e tratamento dos alertas;
+
+b) Identidade da autoridade competente pela avaliação da situação e pela tomada de decisão sobre a aceitação ou recusa de um navio em dificuldade no local de refúgio determinado;
+
+c) Informações sobre a linha de costa nacional e todos os elementos que facilitem uma avaliação prévia e uma decisão rápida quanto ao local de refúgio para um navio, designadamente a descrição dos factores ambientais, económicos e sociais e das condições naturais;
+
+d) Procedimentos de avaliação relativos à aceitação ou recusa de um navio em dificuldade num local de refúgio;
+
+e) Meios e estruturas adequados de assistência, socorro e combate à poluição;
+
+f) Procedimentos relativos à coordenação e tomada de decisão internacionais;
+
+g) Procedimentos em matéria de garantias financeiras e de responsabilidade aplicáveis aos navios acolhidos num local de refúgio.
+
+3 - O nome e o endereço de contacto do membro do Governo responsável pela área do mar e do CCTMC que nos termos do n.º 4 do artigo 11.º do Decreto-Lei n.º 263/2009, de 28 de Setembro, funciona como ponto focal dos serviços de assistência marítima [maritime assistance services (MAS)] no âmbito previsto na Resolução A.950(23) da OMI, como autoridade nomeada para receber e tratar os relatos nesse âmbito, são publicados na página electrónica da DGRM.
+
+4 - Os planos referidos neste artigo são aprovados por portaria conjunta dos membros do Governo responsáveis pelas áreas da defesa nacional, dos transportes marítimos e do ambiente.
+
+5 - A DGRM é a entidade responsável pela disponibilização das informações pertinentes relativas aos planos, a pedido dos Estados-membros vizinhos.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 19.º-B — Decisão sobre o acolhimento de navios
+
+1 - Ao decidir tecnicamente pelo acolhimento de um navio num local de refúgio, a CTAND pode exigir que o operador, o agente ou o comandante apresentem um certificado de seguro na acepção do artigo 6.º da Directiva n.º 2009/20/CE, do Parlamento Europeu e do Conselho, de 23 de Abril de 2009, relativa ao seguro dos proprietários de navios em matéria de créditos marítimos.
+
+2 - A falta de certificado de seguro referido no número anterior não dispensa a avaliação prévia e a decisão a que se refere o artigo anterior, não sendo, por si só, razão suficiente para a recusa de acolher um navio num local de refúgio.
+
+3 - O pedido de apresentação do certificado referido no n.º 1 do presente artigo não pode provocar atrasos no acolhimento do navio.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 19.º-C — Garantia financeira e indemnização
+
+1 - Ao decidir tecnicamente pelo acolhimento de um navio num local de refúgio, a CTAND pode exigir que o operador, o agente ou o comandante apresentem um certificado de seguro na acepção do artigo 6.º da Directiva n.º 2009/20/CE, do Parlamento Europeu e do Conselho, de 23 de Abril de 2009, relativa ao seguro dos proprietários de navios em matéria de créditos marítimos.
+
+2 - A falta de certificado de seguro referido no número anterior não dispensa a avaliação prévia e a decisão a que se refere o artigo anterior, não sendo, por si só, razão suficiente para a recusa de acolher um navio num local de refúgio.
+
+3 - O pedido de apresentação do certificado referido no n.º 1 do presente artigo não pode provocar atrasos no acolhimento do navio.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 20.º — Informação das partes interessadas
+
+1 - Os incidentes ou acidentes comunicados em conformidade com o n.º 1 do artigo 16.º devem, quando necessário, ser assinalados através de avisos à navegação, nas zonas em causa, pelo Instituto Hidrográfico ou pelo órgão local da DGAM, os quais informam igualmente da presença de qualquer navio que possa constituir um perigo para a segurança marítima, a segurança das pessoas ou o ambiente.
+
+2 - O IPTM enquanto autoridade competente nacional detém as informações comunicadas em conformidade com os artigos 12.º e 16.º, devendo tomar as medidas necessárias para poder fornecer a qualquer momento as referidas informações a uma autoridade competente nacional de um outro Estado membro.
+
+3 - O IPTM, quando informado nos termos do presente diploma, ou de outra forma, de factos que envolvam ou agravem, para outro Estado membro, o risco de certas zonas marítimas e costeiras ficarem em perigo, deve tomar as medidas adequadas para informar com a maior brevidade os Estados membros em causa, bem como consultá-los sobre as acções previstas.
+
+4 - O IPTM presta a colaboração que se mostre adequada às autoridades nacionais competentes de outros Estados membros com vista à congregação de meios necessários à realização de uma acção comum.
+
+5 - O IPTM toma as medidas necessárias para que se possa tirar plenamente partido das informações que os navios lhe devem transmitir nos termos do artigo 16.º
+
+## Título IV — Medidas de acompanhamento e regime sancionatório
+
+###### Artigo 21.º — Lista dos organismos intervenientes
+
+1 - O IPTM assegura, através das formas consideradas mais adequadas, que o sector marítimo receba informações correctas, regularmente actualizadas, nomeadamente através das publicações náuticas, sobre quais as autoridades e os centros designados nos termos deste diploma, incluindo, quando adequado, a respectiva zona geográfica de intervenção, bem como sobre os procedimentos instituídos para a comunicação das informações previstas no presente diploma.
+
+2 - O IPTM, enquanto autoridade competente nacional, deve manter uma lista actualizada das autoridades e dos centros que participem nas actividades constantes deste diploma e comunicá-la à Comissão Europeia, bem como as suas eventuais actualizações.
+
+###### Artigo 21.º-A — SafeSeaNet
+
+1 - A DGRM cria sistemas de gestão das informações marítimas, a nível nacional e local, a fim de assegurar o tratamento das informações referidas no presente diploma.
+
+2 - Os sistemas criados ao abrigo do número anterior devem permitir uma exploração operacional das informações recolhidas e preencher, nomeadamente, as condições enunciadas no artigo 13.º
+
+3 - A fim de garantir o intercâmbio efectivo das informações referidas no presente diploma, a DGRM certifica-se de que os sistemas nacionais e locais criados para a recolha, tratamento e conservação das referidas informações podem ser interligados com o SafeSeaNet.
+
+4 - Sem prejuízo do disposto no número anterior, a DGRM, no caso de agir no âmbito de acordos intracomunitários ou no quadro de projectos transfronteiriços, inter-regionais ou transnacionais na Comunidade, garante que os sistemas ou redes de informação desenvolvidos respeitam os requisitos do presente diploma e são compatíveis e estão ligados ao SafeSeaNet.
+
+5 - A descrição e os princípios do SafeSeaNet constam do anexo iii ao presente diploma e que dele faz parte integrante.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 22.º — Cooperação entre autoridades
+
+1 - O IPTM, os órgãos integrantes da DGAM, as autoridades portuárias e os centros costeiros designados neste diploma devem cooperar para optimizar a utilização das informações comunicadas em conformidade com o presente diploma, incluindo o estabelecimento de ligações telemáticas adequadas entre elas, com vista, nomeadamente, ao intercâmbio dos dados relativos aos movimentos dos navios, às previsões da sua chegada aos portos e à carga que transportam.
+
+2 - O IPTM deve cooperar com a Comissão Europeia no sentido do incremento e aumento da eficácia das ligações telemáticas com essa instância comunitária com vista, nomeadamente, ao intercâmbio dos dados relativos aos movimentos dos navios, às previsões da sua chegada aos portos e à carga que transportam.
+
+3 - Os centros costeiros, designados no âmbito deste diploma, devem cooperar com os centros costeiros de outros Estados membros com vista a melhorar o conhecimento do tráfego e o acompanhamento dos navios em trânsito, harmonizar e, na medida do possível, simplificar as informações exigidas aos navios em marcha.
+
+4 - A DGRM coopera com a Comissão Europeia, quando necessário, no estabelecimento de sistemas de informação obrigatória, serviços obrigatórios de tráfego marítimo e sistemas adequados de organização do tráfego, a apresentar à OMI para aprovação.
+
+5 - A DGRM colabora com as entidades congéneres de outros Estados-membros para a elaboração de planos concertados para o acolhimento de navios em dificuldade.
+
+6 - A DGRM coopera no âmbito das instâncias regionais ou internacionais em causa, no desenvolvimento de dispositivos de acompanhamento de tráfego e de vigilância marítima de longo alcance.
+
+7 - A DGRM assegura a interconexão e a interoperabilidade dos sistemas nacionais utilizados para gerir as informações especificadas no anexo i e desenvolve e actualiza o sistema SafeSeaNet.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 23.º — Confidencialidade das informações
+
+As informações transmitidas a todas as entidades intervenientes na execução do presente diploma são confidenciais, apenas podendo ser utilizadas nos termos e para os fins nele previstos, ficando os funcionários que delas tenham conhecimento sujeitos ao dever de sigilo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 24.º — Controlo da aplicação do presente diploma
+
+1 - As autoridades competentes, autoridades portuárias e centros costeiros promovem a realização de inspecções regulares ou qualquer outro tipo de acção necessária para verificar o funcionamento dos sistemas telemáticos em terra estabelecidos para os fins do presente diploma, em particular a sua capacidade de resposta à exigência de recepção ou transmissão atempadas, vinte e quatro horas por dia, das informações comunicadas em conformidade com os artigos 12.º e 16.º
+
+2 - Quando o IPTM constate, por ocasião de um incidente ou acidente marítimo referido no artigo 18.º, que a companhia não conseguiu estabelecer e manter ligação com o navio ou com os centros costeiros relevantes, deve informar do facto o Estado que emitiu ou em nome do qual foi emitido o documento de conformidade e o certificado de gestão para a segurança associado, ambos relativos ao código ISM.
+
+###### Artigo 25.º — Regime contra-ordenacional
+
+1 - Sem prejuízo da responsabilidade civil, criminal ou disciplinar, constituem contra-ordenações, punidas com coima de (euro) 2200 a (euro) 3700, no caso de pessoa singular, e de (euro) 10 000 a (euro) 44 000, no caso de pessoa colectiva:
+
+a) O incumprimento por parte do comandante do disposto nos n.os 1 e 2 do artigo 4.º;
+
+b) O incumprimento por parte das autoridades portuárias das obrigações previstas no n.º 3 do artigo 4.º e no n.º 4 do artigo 12.º;
+
+c) A inobservância por parte do navio do disposto no n.º 1 do artigo 5.º;
+
+d) A inobservância por parte do navio do disposto nos n.os 1 e 2 do artigo 6.º;
+
+e) A inobservância por parte do navio do disposto no artigo 6.º-B;
+
+f) A inobservância por parte do navio do disposto nos n.os 1 e 2 do artigo 8.º;
+
+g) A inobservância por parte do navio do disposto nos n.os 1 e 2 do artigo 9.º;
+
+h) O incumprimento por parte do comandante, do operador ou do carregador das obrigações previstas no artigo 11.º;
+
+i) O incumprimento por parte do comandante do disposto nos n.os 1 e 2 do artigo 12.º
+
+2 - Constituem ainda contra-ordenações, punidas com coima de (euro) 400 a (euro) 2 500, no caso de pessoa singular, e de (euro) 2500 a (euro) 30 000, no caso de pessoa colectiva:
+
+a) A inobservância por parte da embarcação do disposto nos n.os 1 e 2 do artigo 6.º-A;
+
+b) O incumprimento por parte do comandante do disposto no n.º 1 do artigo 16.º
+
+3 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+
+4 - A tentativa é punível com a coima aplicável à contra-ordenação consumada, especialmente atenuada.
+
+5 - A instrução dos processos por infracção ao disposto no presente diploma e a aplicação das correspondentes coimas competem à DGRM, com a excepção da instrução do processo e aplicação da coima prevista na alínea a) do n.º 1 que compete à autoridade portuária.
+
+6 - O produto da aplicação das coimas reverte a favor das seguintes entidades:
+
+a) 60 % para os cofres do Estado;
+
+b) 25 % para a entidade que proceder à instrução e decisão processual;
+
+c) 10 % para a entidade que levantar o auto de notícia;
+
+d) 5 % para a DGRM.
+
+7 - A não observância das recomendações ou das determinações do capitão do porto no âmbito do estabelecido nas alíneas b) e c) do n.º 1 do artigo 17.º do presente diploma constitui contra-ordenação tipificada e sancionada nos termos definidos no n.º 1 do artigo 4.º do Decreto-Lei n.º 45/2002, de 2 de Março, sendo-lhe aplicável o regime desse diploma legal.
+
+8 - Às contra-ordenações previstas no presente diploma é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 263/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2009-490689), em vigor a partir de 2009-12-27
+
+###### Artigo 26.º — Destino do produto das coimas
+
+O produto das coimas previstas no presente diploma reverte:
+
+a) 5% para o IPTM;
+
+b) 10% para a entidade que levantar o auto de notícia;
+
+c) 25% para a entidade que proceder à instrução e decisão processual;
+
+d) 60% para o Estado.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 27.º — Alteração ao Decreto-Lei n.º 45/2002, de 2 de Março
+
+O artigo 4.º do Decreto-Lei n.º 45/2002, de 2 de Março, passa a ter a seguinte redacção:
+
+«Artigo 4.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+k) ...
+
+l) Não observância das regras estabelecidas para zonas marítimas sujeitas a um serviço de tráfego marítimo (VTS), em infracção ao estabelecido no artigo 8.º do Decreto-Lei n.º 180/2004, de 27 de Julho;
+
+m) Não observância das recomendações ou determinações do capitão do porto no âmbito do estipulado na alínea b) do n.º 1 do artigo 17.º do Decreto-Lei n.º 180/2004, de 27 de Julho.
+
+2 - ...
+
+3 - ...
+
+4 - ...»
+
+## Título V — Disposições finais e transitórias
+
+###### Artigo 28.º — Transmissão das informações
+
+A obrigação de transmissão por via electrónica das informações estabelecidas nos n.os 1 e 2 do artigo 12.º torna-se efectiva 12 meses após a entrada em vigor do presente diploma.
+
+###### Artigo 29.º
+
+Infra-estrutura dos sistemas de notificação dos navios, dos sistemas de organização do tráfego e dos serviços de tráfego marítimo
+
+1 - O IPTM, em articulação com as administrações portuárias, deve proceder à instalação gradual do equipamento e das instalações em terra, adequados para receber e utilizar informações AIS, tendo em conta um alcance necessário para a transmissão das notificações, até ao final de 2007.
+
+2 - O equipamento adequado para a comunicação das informações a outros Estados membros deve estar operacional, o mais tardar, até ao final de 2008.
+
+3 - Os centros costeiros responsáveis pelo controlo da observância das disposições relativas aos serviços de tráfego marítimo e aos sistemas de organização de tráfego devem dispor de meios adequados de comunicação e de acompanhamento de navios e operar em conformidade com as orientações aplicáveis da OMI.
+
+###### Artigo 30.º — Avaliação
+
+O IPTM deve enviar à Comissão, até 5 de Fevereiro de 2007, relatórios sobre os progressos realizados na aplicação do presente diploma, em especial no que concerne às normas estabelecidas, respectivamente, nos artigos 8.º, 9.º, 17.º, 19.º, 21.º, 22.º e 24.º, e deve ainda enviar, até 31 de Dezembro de 2009, um relatório sobre a aplicação global do presente diploma.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+###### Artigo 31.º — Revogação
+
+São revogados os Decretos-Leis n.os 94/96, de 17 de Julho, e 169/2000, de 8 de Agosto.
+
+Visto e aprovado em Conselho de Ministros de 22 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
+
+Promulgado em 2 de Julho de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 13 de Julho de 2004.
+
+Pelo Primeiro-Ministro, Maria Manuela Dias Ferreira Leite.
+
+## Anexo I — Lista das informações a comunicar
+
+1 - Informações a comunicar em conformidade com o n.º 1 do artigo 4.º, informações gerais:
+
+a) Identificação do navio:
+
+i) Nome;
+
+ii) Indicativo de chamada;
+
+iii) Número IMO ou número MMSI;
+
+b) Porto de destino;
+
+c) Hora prevista de chegada ao porto de destino ou à estação de pilotos, conforme exigido pela autoridade portuária, e hora prevista de partida desse porto;
+
+d) Número total de pessoas a bordo.
+
+2 - Informações a comunicar em conformidade com o n.º 2 do artigo 4.º:
+
+a) Identificação do navio:
+
+i) Nome;
+
+ii) Indicativo de chamada;
+
+iii) Número IMO ou número MMSI;
+
+b) Duração prevista da escala;
+
+c) Para os navios-tanque:
+
+i) Configuração: casco simples, casco simples com SBT, casco duplo;
+
+ii) Condição dos tanques de carga e de lastro: cheios, vazios, em atmosfera inerte;
+
+iii) Volume e natureza da carga;
+
+d) Operações programadas no porto ou fundeadouro de destino (carga, descarga, outras);
+
+e) Vistorias estatutárias programadas e trabalhos importantes de manutenção e reparação a efectuar no porto de destino;
+
+f) Data da última inspecção expandida na região do Paris MOU.
+
+3 - Informações a comunicar em conformidade com o artigo 11.º, informações sobre a carga:
+
+a) Designação técnica exacta das mercadorias perigosas ou poluentes, números ONU atribuídos, se existirem, classes de risco OMI determinadas em conformidade com os códigos IMDG, IBC e IGC e, quando adequado, categoria do navio exigida para as cargas INF, tal como definido na regra vii/14.2, quantidades dessas mercadorias e, caso sejam transportadas em unidades de transporte que não sejam cisternas, respectivos números de identificação;
+
+b) Endereço onde podem ser obtidas informações pormenorizadas sobre a carga.
+
+4 - Informações a comunicar em conformidade com o artigo 12.º:
+
+A) Informações gerais:
+
+a) Identificação do navio:
+
+i) Nome;
+
+ii) Indicativo de chamada;
+
+iii) Número IMO ou número MMSI.
+
+b) Porto de destino;
+
+c) Para um navio que deixe um porto nacional: hora prevista de partida desse porto ou da estação de pilotos, conforme exigido pela autoridade portuária, e hora prevista de chegada ao porto de destino;
+
+d) Para um navio que se dirija a um porto nacional: hora prevista de chegada ao porto de destino ou à estação de pilotos, conforme exigido pela autoridade portuária;
+
+e) Número total de pessoas a bordo;
+
+B) Informações sobre a carga:
+
+a) Designação técnica exacta das mercadorias perigosas ou poluentes, números ONU atribuídos, se existirem, classes de risco OMI determinadas em conformidade com os códigos IMDG, IBC e IGC e, quando adequado, categoria do navio na acepção do código INF, quantidades dessas mercadorias e sua localização a bordo e, caso sejam transportadas em unidades de transporte que não sejam cisternas, respectivos números de identificação;
+
+b) Confirmação da presença a bordo de lista, manifesto ou plano de carga adequado que especifique as mercadorias perigosas ou poluentes transportadas e sua localização no navio;
+
+c) Endereço onde podem ser obtidas informações pormenorizadas sobre a carga.
+
+5 - Informações referidas no artigo 5.º:
+
+A. Identificação do navio:
+
+i) Nome;
+
+ii) Indicativo de chamada;
+
+iii) Número IMO ou número MMSI;
+
+B. Data e hora;
+
+C ou D. Posição em latitude e longitude ou azimute verdadeiro e distância em milhas náuticas a partir de um ponto de referência claramente identificado;
+
+E. Rumo;
+
+F. Velocidade;
+
+I. Porto de destino e hora prevista de chegada;
+
+P. Carga e, havendo mercadorias perigosas a bordo, quantidade e classe OMI;
+
+T. Endereço para comunicação de informações sobre a carga;
+
+W. Número total de pessoas a bordo;
+
+X. Informações diversas:
+
+Características e quantidade estimada do combustível de bancas para navios de arqueação bruta superior a 1000;
+
+Condições de navegação.
+
+Um ou mais certificados de seguro emitidos pelo seu prestador, que, devendo constituir documentação de bordo do navio, comprovem a existência de um seguro de créditos marítimos em conformidade com o disposto no artigo 4.º da Diretiva n.º 2009/20/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, incorporada na ordem jurídica interna pelo Decreto-Lei n.º 50/2012, de 2 de março, bem como seguros de responsabilidade civil, emitidos em conformidade com:
+
+A Convenção Internacional sobre a Responsabilidade Civil por Prejuízos Devidos à Poluição por Hidrocarbonetos, de 1992, com a redação que lhe foi dada pela Convenção sobre a Responsabilidade Civil de 1992, incorporada na ordem jurídica interna através do Decreto n.º 694/76, de 21 de setembro, do Decreto do Governo n.º 39/85, de 14 de outubro, do Decreto n.º 40/2001, de 28 de setembro, e do Decreto n.º 4/2006, de 6 de janeiro;
+
+A Convenção Internacional sobre a Responsabilidade Civil por Danos Resultantes da Poluição Causada por Combustível de Bancas, de 2001, incorporada na ordem jurídica interna através da Resolução da Assembleia da República n.º 62/2015, de 12 de junho;
+
+A Convenção Internacional de Nairóbi sobre a Remoção de Destroços de 2007, incorporada na ordem jurídica interna através do Decreto n.º 28/2017, de 25 de agosto.
+
+6 - O comandante do navio deve comunicar imediatamente à autoridade competente ou à autoridade portuária interessada qualquer alteração às informações comunicadas nos termos do presente anexo.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 120/2026 - Diário da República n.º 119/2026, Série I de 2026-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2026-1135578392), em vigor a partir de 2026-06-24.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+## Anexo II — Prescrições aplicáveis aos equipamentos de bordo
+
+I - Embarcações de pesca:
+
+As embarcações de pesca com um comprimento de fora a fora superior a 15 m devem estar equipadas com um sistema de identificação automática (AIS), conforme previsto no artigo 6.º-A, de acordo com o seguinte calendário:
+
+a) Embarcações de pesca existentes:
+
+Com comprimento de fora a fora igual ou superior a 24 m e inferior a 45 m: até 31 de maio de 2012;
+
+Com comprimento de fora a fora igual ou superior a 18 m e inferior a 24 m: até 31 de maio de 2013;
+
+Com comprimento de fora a fora superior a 15 m e inferior a 18 m: até 31 de maio de 2014;
+
+b) Embarcações de pesca novas: a partir de 30 de novembro de 2010.
+
+II - Navios que efetuam viagens internacionais:
+
+Os navios de passageiros, quaisquer que sejam as suas dimensões, e todos os outros navios de arqueação bruta igual ou superior a 300 que se dirijam a um porto nacional devem estar equipados com um sistema de identificação automática (AIS) que satisfaça as normas técnicas e de desempenho previstas no capítulo v da SOLAS;
+
+Os navios de passageiros, quaisquer que sejam as suas dimensões, e todos os outros navios de arqueação bruta igual ou superior a 3000 que se dirijam a um porto nacional devem estar equipados com um sistema de registo dos dados de viagem (VDR) que satisfaça as normas técnicas e de desempenho previstas no capítulo v da SOLAS;
+
+No caso dos navios de carga construídos antes de 1 de julho de 2002, o VDR pode ser um sistema simplificado de registo dos dados de viagem (S-VDR) que satisfaça as normas técnicas e de desempenho elaboradas de acordo com o capítulo v da SOLAS.
+
+III - Navios que não efetuam viagens internacionais:
+
+1 - Sistemas de identificação automática (AIS) - Os navios de passageiros, quaisquer que sejam as suas dimensões, e todos os outros navios de arqueação bruta igual ou superior a 300 devem estar equipados com um sistema de identificação automática (AIS) que satisfaça as normas técnicas e de desempenho previstas no capítulo v da SOLAS.
+
+2 - Sistemas de registo dos dados de viagem (VDR):
+
+a) Os navios de passageiros, quaisquer que sejam as suas dimensões, e todos os outros navios de arqueação bruta igual ou superior a 3000 construídos em ou depois de 1 de julho de 2002 devem estar equipados com um sistema de registo dos dados de viagem (VDR) que satisfaça as normas técnicas e de desempenho elaboradas de acordo com o capítulo v da SOLAS;
+
+b) Os navios de carga de arqueação bruta igual ou superior a 3000 construídos antes de 1 de julho de 2002 devem estar equipados com um sistema de registo dos dados de viagem (VDR) ou com um sistema simplificado de registo dos dados de viagem (S-VDR) que satisfaça as normas técnicas e de desempenho elaboradas de acordo com o capítulo v da SOLAS.
+
+IV - Isenções:
+
+1 - Dispensa da instalação de AIS - A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) pode dispensar das prescrições do presente anexo, relativas ao AIS:
+
+a) Os navios de passageiros de comprimento inferior a 15 m ou de arqueação bruta inferior a 300, que não efetuem viagens internacionais;
+
+b) Outros navios, que não os navios de passageiros, de arqueação bruta igual ou superior a 300 mas inferior a 500 que naveguem exclusivamente nas águas interiores de Portugal e fora das rotas habituais dos navios equipados com AIS.
+
+2 - Dispensa da instalação de VDR - A DGRM pode dispensar a instalação de VDR a bordo dos navios nos seguintes casos:
+
+a) Navios de passageiros que efetuam viagens exclusivamente em zonas marítimas que não são da classe A, conforme definida no artigo 4.º do Decreto-Lei n.º 293/2001, de 20 de novembro;
+
+b) Navios construídos antes de 1 de julho de 2002, exceto os navios ro-ro de passageiros, se se demonstrar que é desaconselhável ou impraticável a interação do VDR com o equipamento existente.
+
+3 - Dispensa da instalação de S-VDR - A DGRM pode dispensar a instalação de S-VDR a bordo dos navios de carga construídos antes de 1 de julho de 2002 caso esteja prevista a sua retirada definitiva de serviço no prazo de dois anos a contar da data de aplicação especificada no capítulo v da SOLAS.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2012 - Diário da República n.º 117/2012, Série I de 2012-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2012-178831), em vigor a partir de 2012-06-20
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+## Anexo III — Mensagens eletrónicas e sistema de intercâmbio de informações marítimas da União (SAFESEANET)
+
+1 - Conceção geral e arquitetura
+
+O sistema de intercâmbio de informações marítimas da União, SafeSeaNet, permite a receção, armazenamento, recuperação e intercâmbio de informações para os fins da segurança marítima, da proteção portuária e do transporte marítimo, da proteção do meio marinho e da eficiência do tráfego e do transporte marítimo.
+
+O SafeSeaNet é um sistema especializado, criado para facilitar o intercâmbio de informações em formato eletrónico entre os Estados-membros e para fornecer à Comissão e aos Estados-membros as informações relevantes de acordo com a legislação da União. É composto por uma rede de sistemas SafeSeaNet nacionais e por um sistema SafeSeaNet central que atua como ponto nodal.
+
+A rede de intercâmbio de informações marítimas da União interliga os sistemas SafeSeaNet nacionais, estabelecidos em conformidade com o presente diploma, e inclui o sistema SafeSeaNet central.
+
+2 - Gestão, funcionamento, desenvolvimento e manutenção
+
+2.1 - Responsabilidades
+
+2.1.1 - Sistemas SafeSeaNet nacionais
+
+O Estado Português deve criar e manter um sistema SafeSeaNet nacional que possibilite o intercâmbio de informações marítimas entre utilizadores autorizados, sob a responsabilidade da Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), autoridade nacional competente (ANC).
+
+A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos é responsável pela gestão do sistema nacional, designadamente por coordenar os utilizadores e fornecedores de dados a nível nacional e assegurar a designação de códigos ONU de local (UN LOCODES) e a instalação e manutenção da infraestrutura informática nacional necessária e dos procedimentos descritos no documento de controlo da interface e das funcionalidades a que se refere o ponto 2.3.
+
+O sistema nacional SafeSeaNet permite a interligação de utilizadores autorizados sob a responsabilidade da Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, e a ele têm acesso os intervenientes do sector dos transportes marítimos autorizados por aquela entidade, como sejam os órgãos locais da Direção-Geral da Autoridade Marítima e as Autoridades Portuárias.
+
+Em particular, podem ter acesso ao sistema SafeSeaNet, nos termos que vierem a ser estabelecidos pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, os armadores, agentes, comandantes, carregadores e outros para quem a informação do sistema possa ser relevante, tendo em conta a atividade que desenvolvem no âmbito do sector, em particular, para facilitar a apresentação e receção de comunicados eletrónicos nos termos da legislação da União.
+
+2.1.2 - Sistema SafeSeaNet central
+
+A Comissão é responsável pela gestão e pelo desenvolvimento, a nível político, do sistema SafeSeaNet central e pela fiscalização do sistema SafeSeaNet, em cooperação com os Estados-Membros, enquanto, nos termos do Regulamento (CE) n.º 1406/2002 do Parlamento Europeu e do Conselho, de 27 de junho de 2002, a Agência Europeia da Segurança Marítima é responsável, em cooperação com os Estados-membros e com a Comissão:
+
+Pela execução técnica e a documentação técnica do SafeSeaNet;
+
+Pelo desenvolvimento, exploração e integração dos dados e mensagens eletrónicas, bem como pela manutenção das interfaces com o sistema SafeSeaNet central, incluindo os dados de identificação automática por satélite (AIS) recolhidos por satélite, e com os diferentes sistemas de informação referidos no presente diploma, conforme previsto no ponto 3.
+
+O sistema SafeSeaNet central, na qualidade de ponto nodal, deve interligar os sistemas SafeSeaNet nacionais e estabelece a infraestrutura informática necessária e os procedimentos descritos no documento de controlo da interface e das funcionalidades a que se refere o ponto 2.3.
+
+2.2 - Princípios de gestão
+
+A Comissão fica responsável pela criação de um grupo diretor de alto nível, composto por representantes dos Estados-membros e da Comissão, que aprova o seu próprio regulamento interno e tem competência para:
+
+Fazer recomendações para melhorar a eficácia e a segurança do sistema;
+
+Formular orientações adequadas para o desenvolvimento do sistema;
+
+Assistir a Comissão na verificação do desempenho do sistema;
+
+Formular orientações adequadas para o desenvolvimento da plataforma interoperável de intercâmbio de dados, que combina as informações do SafeSeaNet com as dos outros sistemas de informação referidos no ponto 3;
+
+Aprovar o documento de controlo da interface e das funcionalidades a que se refere o ponto 2.3 e as suas alterações;
+
+Adotar orientações para a recolha e distribuição através do SafeSeaNet de informações relativas às autoridades competentes designadas pelos Estados-Membros para exercerem funções no âmbito do presente diploma;
+
+Ser o interlocutor para outros fóruns relevantes, em especial o grupo para a simplificação administrativa marítima e os serviços de informação eletrónicos.
+
+2.3 - Documento de controlo da interface e das funcionalidades e documentação técnica
+
+A Comissão elabora e mantém, em estreita cooperação com os Estados-membros, o Documento de Controlo da Interface e das Funcionalidades (DCIF).
+
+O Documento de Controlo da Interface e das Funcionalidades descreve detalhadamente os requisitos de desempenho e os procedimentos aplicáveis aos elementos nacionais e centrais do SafeSeaNet, destinados a garantir o respeito da legislação aplicável da União.
+
+O Documento de Controlo da Interface e das Funcionalidades inclui regras para:
+
+As orientações sobre os direitos de acesso para a gestão da qualidade dos dados;
+
+A integração dos dados, conforme previsto no ponto 3, e a sua distribuição por meio do sistema SafeSeaNet;
+
+Os procedimentos operacionais da Agência e dos Estados-membros para definição dos mecanismos de controlo da qualidade dos dados do SafeSeaNet;
+
+As especificações de segurança da transmissão e intercâmbio de dados;
+
+O arquivamento das informações ao nível nacional e central.
+
+O Documento de Controlo da Interface e das Funcionalidades indica os meios de armazenamento e a disponibilidade das informações respeitantes às mercadorias perigosas ou poluentes no que se refere aos serviços regulares que beneficiam de isenção ao abrigo do artigo 14.º
+
+A documentação técnica relativa ao SafeSeaNet, como as normas do formato do intercâmbio de dados, as especificações de interoperabilidade com outros sistemas e aplicações, os manuais dos utilizadores, as especificações de segurança da rede e as bases de dados de referência utilizadas para dar cumprimento às obrigações de notificação, é elaborada e atualizada pela Agência, em cooperação com os Estados-membros.
+
+3 - Intercâmbio e partilha de dados
+
+O sistema utiliza normas da indústria e tem capacidade para interagir com sistemas públicos e privados utilizados para gerar, transmitir ou receber informações no âmbito do SafeSeaNet.
+
+A Comissão e os Estados-membros devem cooperar na análise da exequibilidade e do desenvolvimento de funcionalidades que, tanto quanto possível, assegurem que os fornecedores de dados, incluindo comandantes, armadores, agentes, operadores, carregadores e autoridades interessadas, apenas tenham de transmitir as informações uma vez, tendo na devida conta as obrigações previstas na Diretiva n.º 2010/65/UE do Parlamento Europeu e do Conselho e outra legislação pertinente da União. A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos assegura que as informações transmitidas estejam disponíveis para ser usadas em todos os sistemas de informação, notificação, intercâmbio de informações e Vessel Traffic Management and Information Systems (VTMIS) relevantes.
+
+A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos deve desenvolver e manter as interfaces necessárias para a transmissão automática de dados ao SafeSeaNet por via eletrónica.
+
+O SafeSeaNet central é utilizado para a distribuição de dados e de mensagens eletrónicas, trocados ou compartilhados em conformidade com o presente diploma e com a legislação pertinente da União, nomeadamente:
+
+Artigo 12.º, n.º 3 da Diretiva n.º 2000/59/CE do Parlamento Europeu e do Conselho, de 27 de novembro de 2000, relativa aos meios portuários de receção de resíduos gerados em navios e de resíduos da carga; transposta para o direito interno pelo Decreto-Lei n.º 165/2003, de 24 de julho;
+
+Artigo 10.º da Diretiva n.º 2005/35/CE do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa à poluição por navios e à introdução de sanções, incluindo sanções penais, por crimes de poluição alterada pela Diretiva n.º 2009/123/CE do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, transposta para o direito interno pela Lei n.º 56/2011, de 15 de novembro;
+
+Artigo 24.º da Diretiva n.º 2009/16/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à inspeção de navios pelo Estado do porto; transposta para o direito interno pelo Decreto-Lei n.º 61/2012, de 14 de março;
+
+Artigo 6.º da Diretiva n.º 2010/65/UE do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, relativa às formalidades de declaração exigidas aos navios à chegada e/ou à partida dos portos dos Estados-Membros, transposta para o direito interno pelo Decreto-Lei n.º 218/2012, de 9 de outubro.
+
+A utilização do sistema SafeSeaNet deve apoiar o estabelecimento e o funcionamento do espaço europeu de transporte marítimo sem barreiras.
+
+Nos casos em que as normas internacionais permitam o encaminhamento de informações do sistema de identificação e localização de navios de longo alcance (LRIT) relativas a navios de países terceiros, as redes SafeSeaNet são utilizadas para distribuir entre os Estados-membros, com um nível de segurança adequado, as informações do sistema de identificação e localização de navios de longo alcance (LRIT) recebidas nos termos do artigo 6.º-B do Decreto-Lei n.º 180/2004, de 27 de julho.
+
+4 - Segurança e direitos de acesso
+
+O sistema central e os sistemas nacionais SafeSeaNet satisfazem os requisitos do presente diploma relativos à confidencialidade das informações e observam os princípios e especificações de segurança descritos no Documento de Controlo da Interface e das Funcionalidades (DCIF), em particular no que se refere aos direitos de acesso.
+
+A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos identifica os utilizadores aos quais sejam atribuídos um papel e um conjunto de direitos de acesso ao abrigo do Documento de Controlo da Interface e das Funcionalidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2016 - Diário da República n.º 7/2016, Série I de 2016-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2016-73115708), em vigor a partir de 2016-01-13
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08
+
+## Anexo IV
+
+Medidas que os Estados Membros podem tomar em caso de risco para a segurança marítima e a protecção do ambiente
+
+(em aplicação do n.º 2 do artigo 18.º)
+
+Quando, no seguimento de um incidente ou em circunstâncias do tipo das descritas no artigo 18.º que afectem um navio, as entidades competentes em razão da matéria considerem, no quadro do direito internacional, que é necessário afastar, reduzir ou eliminar um perigo grave e iminente que ameaça o seu litoral ou interesses conexos, a segurança dos outros navios e a segurança das suas tripulações e passageiros ou das pessoas em terra, ou proteger o meio marinho, as referidas autoridades podem, nomeadamente:
+
+a) Restringir os movimentos do navio ou impor-lhe um itinerário, exigência esta que não afecta a responsabilidade do comandante na segurança do governo do seu navio;
+
+b) Notificar o comandante do navio para que elimine o risco para o ambiente ou a segurança marítima;
+
+c) Enviar a bordo do navio uma equipa de avaliação com a missão de determinar o grau de risco, assistir o comandante na correcção da situação e manter informado o centro costeiro competente;
+
+d) Intimar o comandante a seguir para um local de refúgio, em caso de perigo iminente, ou impor a pilotagem ou o reboque do navio.
+
+Se o reboque do navio for efectuado no âmbito de um contrato de reboque ou salvados, as medidas tomadas pelas entidades competentes em razão da matéria, em aplicação das alíneas a) e d), podem também ter como destinatárias as companhias de assistência, salvados e reboque envolvidas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2012 - Diário da República n.º 48/2012, Série I de 2012-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417), em vigor a partir de 2012-03-08

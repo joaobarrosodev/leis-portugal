@@ -1,0 +1,365 @@
+---
+schema_version: '1.0'
+id: pt:dre:898201692:por
+title: Decreto-Lei n.º 95/2024
+short_title: null
+summary: Altera, no âmbito do processo de reestruturação da Entidade de Serviços Partilhados da Administração Pública, I.
+  P., o Decreto-Lei n.º 117-A/2012, de 14 de junho.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Presidência do Conselho de Ministros
+official_number: 95/2024
+official_date: null
+publication_date: '2024-11-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 231/2024, Série I de 2024-11-28
+  number: '231'
+  series: I
+  supplement: null
+  pages: 13 - 18
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23100/0001300018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/95/2024/11/28/p/dre/pt/html
+  oj: null
+  dre: '898201692'
+  dre_path: /dr/detalhe/decreto-lei/95-2024-898201692
+  internal: pt:dre:898201692:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692
+  metadata_url: https://data.dre.pt/eli/dec-lei/95/2024/11/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-12-24T00:00:00Z'
+integrity:
+  source_sha256: e6e925ca6c63f79d1f27035d91f3e9d7193a7c24e3129c5e9c5d3b3f3e3f0a12
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-95-898201692.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reestruturação de Serviços
+- Entidade de Serviços Partilhados da Administração Pública
+- Orgânica
+- Quadro de Pessoal
+- Gestão de Recursos Humanos
+- Sistema Nacional de Compras Públicas
+- Unidade Ministerial de Compras
+relationships:
+- type: amended_by
+  target: pt:dre:992627242:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/117-a/2012/06/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/117-a/2012/06/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/17/2024/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/17/2024/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/37/2007/02/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/37/2007/02/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 95/2024
+
+de 28 de novembro
+
+Através do [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, concretizou-se a criação da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), que assumiu a missão e atribuições do Instituto de Informática, da Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E., e da Agência Nacional de Compras Públicas, E. P. E., que foram extintos, por fusão.
+
+A fusão das atribuições dos referidos organismos na ESPAP, I. P., visou refundar e melhorar o desempenho das funções ligadas ao desenvolvimento e à gestão dos serviços partilhados prestados à Administração Pública no seu conjunto, agilizando a adoção de soluções e modelos de operação comuns e mais eficientes, nomeadamente nas áreas de gestão de recursos humanos, financeiros e das tecnologias de informação e comunicação (TIC), e potenciando sinergias das várias valências que se encontravam dispersas por três realidades organizacionais.
+
+Com a prestação de serviços partilhados reduziram-se custos de funcionamento e criaram-se oportunidades de melhoria, traduzidas, entre outras, em aproveitamento de soluções e capacidades de serviço de uso comum, em redução de esforço administrativo promovida pela uniformização, integração e automatização dos processos, em disponibilização de ferramentas adequadas ao processo de tomada de decisão e em partilha de informação com os diversos serviços da Administração Pública que dela necessitavam no âmbito das suas atribuições.
+
+Na área das TIC, previu-se a utilização das capacidades existentes como instrumentos de dinamização e suporte à prestação de serviços partilhados e, em geral, à promoção da reutilização e partilha de recursos comuns.
+
+Por último, manteve-se o Sistema Nacional de Compras Públicas definido no [Decreto-Lei n.º 37/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2007-517987), de 19 de fevereiro, assumindo a ESPAP, I. P., as funções de entidade gestora daquele sistema, sucedendo à Agência Nacional de Compras Públicas, E. P. E. A ESPAP, I. P., assumiu igualmente as funções de gestora do parque de veículos do Estado.
+
+No âmbito da reforma da organização, governação e prestação do setor público, o Programa do XXIV Governo Constitucional prevê a «agregação, aquisição e desenvolvimento de centros de competência de excelência». Por sua vez, o Plano de Recuperação e Resiliência inclui na componente 19 uma reforma funcional e orgânica da Administração Pública (TD-r35) que autonomiza os serviços de suporte, isto é, aqueles que prestam serviços para o Estado, e que podem ser serviços comuns ou serviços partilhados.
+
+Neste contexto, foi aprovado o [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, no qual se estabelece a reestruturação da ESPAP, I. P., com o alargamento do seu âmbito de atividade, serviços e intervenção.
+
+Cumprindo estes objetivos, o presente decreto-lei procede à alteração da orgânica da ESPAP, I. P., que incorpora as atribuições e competências a transferir para esta entidade, no âmbito dos processos de fusão e reestruturação das secretarias-gerais, relativamente aos serviços, entidades e estruturas que as integram, bem como, no caso da Secretaria-Geral da Presidência do Conselho de Ministros, das áreas governativas a que presta apoio, nas seguintes matérias: assegurar as funções de unidade ministerial de compras, o processamento de remunerações e outros abonos, a prestação de serviços nos domínios da gestão dos recursos financeiros, a rede informática e demais infraestruturas tecnológicas de informação e comunicação, a aquisição de bens e serviços de acordo com o regime de contratação pública, e a gestão dos equipamentos.
+
+Com efeito, revela-se crucial, no seio da reforma em curso, refundar o processo de modernização e de otimização do funcionamento da Administração Pública, com a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo os seus custos de funcionamento, por via de uma alocação mais eficiente e racional dos recursos públicos.
+
+Saliente-se, por fim, um aspeto relevante na presente reforma transversal à capacitação da Administração Pública, como previsto no programa do XXIV Governo Constitucional: «só uma Administração Pública com recursos humanos capacitados e de qualidade pode responder aos desafios que se colocam a Portugal. Um Estado «mais qualificado».
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede, no âmbito do processo de reestruturação da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), previsto no [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, à segunda alteração ao [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, alterado pelo [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho
+
+Os artigos 1.º, 3.º, 5.º, 7.º, 8.º, 14.º e 17.º do [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 1.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - A ESPAP, I. P., é equiparada a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços partilhados, à prestação de serviços comuns e de suporte administrativo e especializado, compras públicas, gestão do parque de veículos do Estado (PVE) e às respetivas atividades de suporte e, em geral, à promoção da utilização de recursos comuns na Administração Pública.
+
+###### Artigo 3.º — [...]
+
+1 - A ESPAP, I. P., tem por missão assegurar o desenvolvimento e a prestação de serviços partilhados no âmbito da Administração Pública, conceber, gerir e avaliar o Sistema Nacional de Compras Públicas (SNCP) e assegurar a gestão do PVE, apoiando a definição de políticas estratégicas nas áreas das tecnologias de informação e comunicação (TIC), garantindo o planeamento, conceção, execução e avaliação das iniciativas de informatização tecnológica, bem como assegurar a prestação de serviços comuns e de suporte administrativo e especializado.
+
+2 - São atribuições da ESPAP, I. P., a prestação de serviços partilhados ou comuns no âmbito da gestão de recursos humanos, mediante disponibilização de instrumentos de suporte e ou execução das seguintes atividades de apoio técnico ou administrativo:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) Assiduidade e trabalho suplementar;
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) [...]
+
+m) [...]
+
+n) [...]
+
+3 - São atribuições da ESPAP, I. P., a prestação de serviços partilhados ou comuns no âmbito da gestão orçamental e de recursos financeiros, mediante disponibilização de instrumentos de suporte e ou execução das seguintes atividades de apoio técnico ou administrativo:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+4 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) [...]
+
+m) Assegurar as funções de Unidade Ministerial de Compras, sempre que esta atribuição não esteja acometida a outro serviço ou organismo.
+
+5 - [...]
+
+6 - [...]
+
+7 - A ESPAP, I. P., tem ainda como atribuição processar, financiar e pagar as despesas resultantes de reconstituição de bens do Estado ou de indemnizações devidas a trabalhadores ou terceiros, nos termos definidos na lei.
+
+8 - (Anterior n.º 7.)
+
+###### Artigo 5.º — [...]
+
+1 - O conselho diretivo é composto por um presidente, por um vice-presidente e por quatro vogais.
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+###### Artigo 7.º — [...]
+
+1 - Junto da ESPAP, I. P., funciona a comissão interministerial de compras (CIC), mantendo articulação com o Fórum da Administração Pública, previsto no [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, cuja presidência é assegurada pelo presidente do conselho diretivo da ESPAP, I. P., ou por quem este designar.
+
+2 - A CIC é integrada, por inerência, pelo diretor-geral do Orçamento, pelo secretário-geral do Governo, pelos secretários-gerais dos Ministérios dos Negócios Estrangeiros, da Defesa Nacional e da Administração Interna e por um representante a indicar por cada área governativa.
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+###### Artigo 8.º — [...]
+
+A organização interna da ESPAP, I. P., é a prevista nos respetivos estatutos e regulamentos internos, a aprovar nos termos da Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual.
+
+###### Artigo 14.º — [...]
+
+1 - [...]
+
+2 - [...]
+
+a) [...]
+
+b) [...]
+
+c) Implementar, gradual e controladamente, os modelos operacionais, e mobilizar, em articulação com os serviços-clientes, os meios e recursos necessários à prestação de serviços no âmbito das suas atribuições;
+
+d) Criar e mobilizar as estruturas definitivas que assegurem a prestação de serviços partilhados e comuns.
+
+3 - [...]
+
+###### Artigo 17.º — [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) Instituto Nacional de Administração, I. P.;
+
+e) Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E.;
+
+f) Instituto de Proteção e Assistência na Doença, I. P.;
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) Secretaria-Geral do Governo;
+
+k) Secretarias-Gerais dos Negócios Estrangeiros, da Defesa Nacional e da Administração Interna.
+
+4 - [...]»
+
+###### Artigo 3.º — Trabalhadores com relação jurídica de emprego público
+
+1 - Aos trabalhadores com relação jurídica de emprego público que, à data da entrada em vigor do presente decreto-lei, pertençam ao mapa de pessoal da ESPAP, I. P., ou que venham a integrá-lo na sequência da reafetação de pessoal decorrente dos processos de fusão e reestruturação das secretarias-gerais é garantida a manutenção integral do seu estatuto jurídico.
+
+2 - Os trabalhadores a que se refere o número anterior integram o mapa de pessoal da ESPAP, I. P., que se mantém com caráter residual, exclusivamente para efeitos de desenvolvimento da carreira daqueles trabalhadores, sendo os respetivos postos de trabalho a extinguir quando vagarem, da base para o topo.
+
+###### Artigo 4.º — Trabalhadores em cedência de interesse público na Entidade de Serviços Partilhados da Administração Pública, I. P.
+
+Aos trabalhadores em cedência de interesse público na ESPAP, I. P., à data da entrada em vigor do presente decreto-lei, incluindo o pessoal reafeto a esta entidade na sequência dos processos de fusão e reestruturação das secretarias-gerais, continua a ser aplicável o regime jurídico-laboral anteriormente vigente, mantendo-se as cedências de interesse público até ao seu termo.
+
+###### Artigo 5.º — Comissões de serviço de cargos dirigentes
+
+No âmbito do processo de reestruturação da ESPAP, I. P., a que refere o presente decreto-lei, às comissões de serviço dos cargos dirigentes não se aplica o disposto no artigo 10.º do [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, mantendo-se pela duração remanescente.
+
+###### Artigo 6.º — Entrada em vigor e produção de efeitos
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de novembro de 2024, considerando-se ratificados todos os atos entretanto praticados, em conformidade com o presente decreto-lei.
+
+2 - O disposto no n.º 7 do artigo 3.º do [Decreto-Lei n.º 117-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), de 14 de junho, na redação introduzida pelo presente decreto-lei, produz efeitos a 1 de junho de 2025.
+
+Visto e aprovado em Conselho de Ministros de 29 de outubro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro.
+
+**Promulgado em 18 de novembro de 2024.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 21 de novembro de 2024.**
+
+**O Primeiro-Ministro, Luís Montenegro.**

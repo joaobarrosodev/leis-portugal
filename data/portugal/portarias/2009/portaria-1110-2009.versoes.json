@@ -1,0 +1,481 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:490692:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-115131998",
+ "dre_path": "/dr/detalhe/portaria/1110-2009-490692",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115130740",
+    "115130693",
+    "115130694",
+    "115130695",
+    "115130696",
+    "115130697",
+    "115130698",
+    "115130699",
+    "115130700",
+    "115130701",
+    "115130702",
+    "115130703",
+    "115130704",
+    "115130705",
+    "115130706",
+    "115130707",
+    "115130708",
+    "115130709",
+    "115130710"
+   ]
+  },
+  {
+   "date": "2014-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25343685:por",
+     "title": "Portaria n.º 100/2014",
+     "published": "2014-05-12",
+     "dre_path": "/dr/detalhe/portaria/100-2014-25343685"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "115130692",
+    "115130693",
+    "115130694",
+    "115130695",
+    "115130696",
+    "115130697",
+    "115130698",
+    "115130699",
+    "115130739",
+    "115130701",
+    "115130702",
+    "115130703",
+    "115130704",
+    "115130705",
+    "115130706",
+    "115130707",
+    "115130708",
+    "115130709",
+    "115130710",
+    "115130711"
+   ]
+  },
+  {
+   "date": "2018-04-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115132733:por",
+     "title": "Portaria n.º 103/2018",
+     "published": "2018-04-18",
+     "dre_path": "/dr/detalhe/portaria/103-2018-115132733"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "115130740",
+    "115130741",
+    "115130742",
+    "115130743",
+    "115130744",
+    "115130745",
+    "115130746",
+    "115130747",
+    "115130748",
+    "115130749",
+    "115130750",
+    "115130751",
+    "115130752",
+    "115130753",
+    "115130754",
+    "115130755",
+    "115130756",
+    "115130757",
+    "115130758",
+    "115130759"
+   ]
+  }
+ ],
+ "fragments": {
+  "115130740": {
+   "fragment_id": "115131999",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-04-19",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1110/2009\n\nde 28 de Setembro\n\nO Decreto-Lei n.º 37/2008, de 5 de Março, diploma que adoptou a aplicação dos princípios constantes do Decreto-Lei n.º 74/2006, de 24 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 107/2008, de 25 de Junho, ao ensino superior público militar, criou o Conselho do Ensino Superior Militar, na dependência directa do membro do Governo responsável pela área da defesa nacional, e definiu-o como um órgão colegial que assegura a concepção e coordenação e acompanha a execução das políticas que, no domínio do ensino superior militar, cabem ao Ministério da Defesa Nacional.\n\nO Conselho do Ensino Superior Militar tem por missão contribuir para a concepção, definição, planeamento e desenvolvimento dos projectos educativos e das políticas relacionadas com o ensino superior público militar e para uma harmoniosa integração deste no sistema nacional de educação e formação.\n\nAtento o artigo 33.º do Decreto-Lei n.º 37/2008, de 5 de Março, as normas relativas ao funcionamento, orçamento e pessoal do Conselho do Ensino Superior Militar são estabelecidas por portaria do membro do Governo responsável pela área da defesa nacional, que fixa igualmente as condições de funcionamento das comissões especializadas ou grupos de trabalho e do Gabinete Técnico.\n\nAssim:\n\nAo abrigo do artigo 33.º do Decreto-Lei n.º 37/2008, de 5 de Março, manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:"
+  },
+  "115130693": {
+   "fragment_id": "115132000",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece as normas relativas ao funcionamento, orçamento e pessoal do Conselho do Ensino Superior Militar e fixa as condições de funcionamento das comissões especializadas ou grupos de trabalho e do Gabinete Técnico."
+  },
+  "115130694": {
+   "fragment_id": "115132001",
+   "type": 11,
+   "heading": "Artigo 2.º — Regulamentação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regulamentação aplicável\n\nO Conselho do Ensino Superior Militar rege-se pelo Decreto-Lei n.º 37/2008, de 5 de Março, pela presente portaria, pelo regulamento interno, bem como pelas orientações que forem aprovadas pelo Ministro da Defesa Nacional."
+  },
+  "115130695": {
+   "fragment_id": "115132002",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho do Ensino Superior Militar tem a seguinte composição:\n\na) Um representante do Ministro da Defesa Nacional, que preside;\n\nb) Um representante da Direcção-Geral de Pessoal e Recrutamento Militar, do Ministério da Defesa Nacional;\n\nc) Um representante do Chefe do Estado-Maior-General das Forças Armadas;\n\nd) Um representante do Chefe do Estado-Maior da Armada;\n\ne) Um representante do Chefe do Estado-Maior do Exército;\n\nf) Um representante do Chefe do Estado-Maior da Força Aérea;\n\ng) Um representante do comandante-geral da Guarda Nacional Republicana;\n\nh) Um representante do Ministério da Ciência, Tecnologia e Ensino Superior;\n\ni) Três individualidades, civis ou militares, de reconhecido mérito e competência no âmbito de ensino superior militar, a designar pelo Ministro da Defesa Nacional.\n\n2 - O Ministério da Defesa Nacional é representado no conselho consultivo da Agência de Avaliação e Acreditação do Ensino Superior pelo presidente do Conselho do Ensino Superior Militar.\n\n3 - Os membros do Conselho do Ensino Superior Militar são nomeados por despacho conjunto dos membros do Governo responsáveis pelas áreas da defesa nacional, da administração interna e da ciência, tecnologia e ensino superior."
+  },
+  "115130696": {
+   "fragment_id": "115132003",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - Compete ao presidente do Conselho do Ensino Superior Militar:\n\na) Presidir, com voto de qualidade, às reuniões do Conselho do Ensino Superior Militar e fazer executar as suas deliberações;\n\nb) Dirigir e orientar as actividades do Conselho do Ensino Superior Militar, das comissões especializadas ou grupos de trabalho;\n\nc) Propor as verbas necessárias às actividades do Conselho do Ensino Superior Militar e aprovar o plano e relatório de actividades e as respectivas contas;\n\nd) Representar o Conselho do Ensino Superior Militar.\n\n2 - Cabe ainda ao presidente do Conselho do Ensino Superior Militar exercer as demais competências que lhe sejam delegadas."
+  },
+  "115130697": {
+   "fragment_id": "115132004",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento\n\nA Direcção-Geral de Pessoal e Recrutamento Militar assiste o Conselho do Ensino Superior Militar, competindo apoiar as actividades do Conselho, designadamente as de natureza jurídica, técnica e administrativo-logística."
+  },
+  "115130698": {
+   "fragment_id": "115132005",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissões e grupos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comissões e grupos de trabalho\n\nO Conselho do Ensino Superior Militar pode propor ao Ministro da Defesa Nacional a constituição de comissões especializadas ou grupos de trabalho, a título permanente ou eventual, constituídas por individualidades de reconhecido mérito e competência."
+  },
+  "115130699": {
+   "fragment_id": "115132006",
+   "type": 11,
+   "heading": "Artigo 7.º — Secretariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Secretariado\n\n1 - O Conselho do Ensino Superior Militar dispõe de um secretário, designado pelo director-geral de Pessoal e Recrutamento Militar.\n\n2 - Ao secretário do Conselho do Ensino Superior Militar compete:\n\na) Participar, sem direito a voto, nas reuniões do Conselho do Ensino Superior Militar;\n\nb) Manter o registo e arquivo de todos os documentos do Conselho do Ensino Superior Militar;\n\nc) Elaborar as actas das reuniões;\n\nd) Desenvolver outras actividades para as quais seja incumbido no âmbito das competências do Conselho do Ensino Superior Militar."
+  },
+  "115130700": {
+   "fragment_id": "115132007",
+   "type": 11,
+   "heading": "Artigo 8.º — Mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mandatos\n\n1 - Os membros do Conselho do Ensino Superior Militar:\n\na) São nomeados para um mandato de dois anos, renovável, até um máximo de dois mandatos;\n\nb) Podem solicitar a suspensão do mandato, até ao máximo de seis meses, devendo, para o efeito, apresentar o respectivo pedido, devidamente fundamentado, ao presidente do Conselho do Ensino Superior Militar.\n\n2 - O mandato dos membros do Conselho do Ensino Superior Militar considera-se prorrogado até que seja comunicada por escrito, no prazo máximo de três meses antes do final do mesmo, a designação dos respectivos substitutos.\n\n3 - Perdem o mandato os membros do Conselho do Ensino Superior Militar que:\n\na) Deixem de ser reconhecidos como seus representantes pelas entidades que os designaram, devendo estas dar conhecimento do facto, por escrito, ao Ministro da Defesa Nacional;\n\nb) Não cumpram os deveres de participação assídua inerentes ao mandato que exercem;\n\nc) Renunciem ao mandato, devendo informar as entidades que os nomearam."
+  },
+  "115130701": {
+   "fragment_id": "115132008",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gabinete Técnico\n\n1 - O apoio de natureza jurídica e técnica ao Conselho do Ensino Superior Militar é assegurado por um gabinete técnico, de natureza não permanente, composto por elementos designados pelo director-geral de Pessoal e Recrutamento Militar.\n\n2 - Ao Gabinete Técnico compete, em especial, pronunciar-se sobre todas as matérias constantes do n.º 3 do artigo 29.º do Decreto-Lei n.º 37/2008, de 5 de Março."
+  },
+  "115130702": {
+   "fragment_id": "115132009",
+   "type": 11,
+   "heading": "Artigo 10.º — Reuniões e actas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reuniões e actas\n\n1 - O Conselho do Ensino Superior Militar reúne em sessões ordinárias e extraordinárias:\n\na) Ordinariamente, mensalmente, em dia, hora e local a fixar pelo presidente;\n\nb) Extraordinariamente, sempre que para tal for convocado pelo Ministro da Defesa Nacional, por sua iniciativa, por proposta do presidente do Conselho, ou ainda a solicitação de pelo menos um terço dos membros do Conselho do Ensino Superior Militar.\n\n2 - A convocação deve ser feita com a antecedência mínima de cinco dias, através de meio a definir pelos membros do Conselho do Ensino Superior Militar.\n\n3 - No final de cada reunião será elaborada acta, contendo o fundamental de todas as propostas apresentadas, conclusões extraídas, deliberações tomadas e respectivas votações."
+  },
+  "115130703": {
+   "fragment_id": "115132010",
+   "type": 11,
+   "heading": "Artigo 11.º — Quórum e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Quórum e deliberações\n\n1 - O Conselho do Ensino Superior Militar só pode deliberar desde que esteja presente a maioria dos seus membros.\n\n2 - As deliberações do Conselho do Ensino Superior Militar são tomadas por maioria simples, tendo o presidente voto de qualidade.\n\n3 - Quando tal se justificar, em função de natureza dos assuntos a analisar, o presidente pode solicitar a participação nas reuniões do Conselho do Ensino Superior Militar, sem direito a voto, de individualidades de reconhecido mérito e competência no âmbito do ensino superior militar."
+  },
+  "115130704": {
+   "fragment_id": "115132011",
+   "type": 11,
+   "heading": "Artigo 12.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Orçamento\n\n1 - As verbas necessárias ao normal funcionamento do Conselho do Ensino Superior Militar são inscritas no orçamento da DGPRM.\n\n2 - A autorização de despesas compete ao presidente do Conselho do Ensino Superior Militar, que poderá delegar essa competência."
+  },
+  "115130705": {
+   "fragment_id": "115132012",
+   "type": 11,
+   "heading": "Artigo 13.º — Direitos e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direitos e garantias\n\n1 - A remuneração do presidente do Conselho do Ensino Superior Militar é fixada por despacho conjunto do Ministro de Estado e das Finanças e do Ministro da Defesa Nacional.\n\n2 - Os membros do Conselho do Ensino Superior Militar, das comissões especializadas ou grupos de trabalho, do secretário e do Gabinete Técnico têm igualmente direito, de acordo com a lei geral, sempre que se desloquem em missão de serviço público, ao abono de ajudas de custo e de despesas de transporte.\n\n3 - Os membros do Conselho do Ensino Superior Militar e das comissões especializadas ou grupos de trabalho são dispensados das suas actividades profissionais, públicas ou privadas, quando se encontrem no exercício efectivo de funções, considerando-se justificadas as faltas dadas ao serviço.\n\n4 - Os restantes membros do Conselho do Ensino Superior Militar, das comissões especializadas ou grupos de trabalho e o secretário têm direito a senhas de presença, cujo montante é fixado por despacho conjunto do Ministro de Estado e das Finanças e do Ministro da Defesa Nacional."
+  },
+  "115130706": {
+   "fragment_id": "115132013",
+   "type": 11,
+   "heading": "Artigo 14.º — Mapa de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Mapa de pessoal\n\nO mapa de pessoal da Direcção-Geral de Pessoal e Recrutamento Militar integra o número de postos de trabalho necessários ao desenvolvimento das actividades do Conselho do Ensino Superior Militar."
+  },
+  "115130707": {
+   "fragment_id": "115132014",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito de informação\n\n1 - O Conselho do Ensino Superior Militar pode requerer a quaisquer entidades, públicas ou privadas, em especial aos ramos das Forças Armadas, os elementos que considere indispensáveis para a realização das suas tarefas, designadamente informação sobre estabelecimentos, cursos, condições de acesso, vagas, candidatos, alunos, diplomados, legislação, pessoal docente e não docente e instalações.\n\n2 - Compete à Direcção-Geral de Pessoal e Recrutamento Militar coordenar e organizar a gestão da informação de suporte à actividade e objectivos do Conselho do Ensino Superior Militar e das comissões especializadas ou grupos de trabalhos."
+  },
+  "115130708": {
+   "fragment_id": "115132015",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regulamento interno\n\nO Conselho do Ensino Superior Militar procede, no prazo de 60 dias a contar da entrada em vigor da presente portaria, à aprovação do regulamento interno."
+  },
+  "115130709": {
+   "fragment_id": "115132016",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime supletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime supletivo\n\nEm tudo o que não estiver especialmente previsto neste regulamento aplicam-se as regras constantes do Código do Procedimento Administrativo, podendo ser adoptadas regras diferentes por deliberação de maioria de dois terços dos membros do Conselho do Ensino Superior Militar."
+  },
+  "115130710": {
+   "fragment_id": "115132017",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115130692": {
+   "fragment_id": "115131999",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1110/2009\n\nde 28 de Setembro\n\nO Decreto-Lei n.º 37/2008, de 5 de Março, diploma que adoptou a aplicação dos princípios constantes do Decreto-Lei n.º 74/2006, de 24 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 107/2008, de 25 de Junho, ao ensino superior público militar, criou o Conselho do Ensino Superior Militar, na dependência directa do membro do Governo responsável pela área da defesa nacional, e definiu-o como um órgão colegial que assegura a concepção e coordenação e acompanha a execução das políticas que, no domínio do ensino superior militar, cabem ao Ministério da Defesa Nacional.\n\nO Conselho do Ensino Superior Militar tem por missão contribuir para a concepção, definição, planeamento e desenvolvimento dos projectos educativos e das políticas relacionadas com o ensino superior público militar e para uma harmoniosa integração deste no sistema nacional de educação e formação.\n\nAtento o artigo 33.º do Decreto-Lei n.º 37/2008, de 5 de Março, as normas relativas ao funcionamento, orçamento e pessoal do Conselho do Ensino Superior Militar são estabelecidas por portaria do membro do Governo responsável pela área da defesa nacional, que fixa igualmente as condições de funcionamento das comissões especializadas ou grupos de trabalho e do Gabinete Técnico.\n\nAssim:\n\nAo abrigo do artigo 33.º do Decreto-Lei n.º 37/2008, de 5 de Março, manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:"
+  },
+  "115130739": {
+   "fragment_id": "115132007",
+   "type": 11,
+   "heading": "Artigo 8.º — Mandatos",
+   "in_force_from": "2014-05-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 100/2014 - Diário da República n.º 90/2014, Série I de 2014-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/100-2014-25343685), em vigor a partir de 2014-05-13"
+   ],
+   "markdown": "###### Artigo 8.º — Mandatos\n\n1 - Os membros do Conselho do Ensino Superior Militar:\n\na) São nomeados para um mandato de dois anos, renovável, sem prejuízo da faculdade de exoneração a todo o tempo;\n\nb) Podem solicitar a suspensão do mandato, até ao máximo de seis meses, devendo, para o efeito, apresentar o respectivo pedido, devidamente fundamentado, ao presidente do Conselho do Ensino Superior Militar.\n\n2 - O mandato dos membros do Conselho do Ensino Superior Militar considera-se prorrogado até que seja comunicada por escrito, no prazo máximo de três meses antes do final do mesmo, a designação dos respectivos substitutos.\n\n3 - Perdem o mandato os membros do Conselho do Ensino Superior Militar que:\n\na) Deixem de ser reconhecidos como seus representantes pelas entidades que os designaram, devendo estas dar conhecimento do facto, por escrito, ao Ministro da Defesa Nacional;\n\nb) Não cumpram os deveres de participação assídua inerentes ao mandato que exercem;\n\nc) Renunciem ao mandato, devendo informar as entidades que os nomearam.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 100/2014 - Diário da República n.º 90/2014, Série I de 2014-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/100-2014-25343685), em vigor a partir de 2014-05-13"
+  },
+  "115130711": {
+   "fragment_id": "115132018",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira, em 14 de Setembro de 2009."
+  },
+  "115130741": {
+   "fragment_id": "115132000",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece as normas relativas ao funcionamento, orçamento e pessoal do Conselho do Ensino Superior Militar e fixa as condições de funcionamento das comissões especializadas ou grupos de trabalho e do Gabinete Técnico.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130742": {
+   "fragment_id": "115132001",
+   "type": 11,
+   "heading": "Artigo 2.º — Regulamentação aplicável",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 2.º — Regulamentação aplicável\n\nO Conselho do Ensino Superior Militar rege-se pelo Decreto-Lei n.º 37/2008, de 5 de Março, pela presente portaria, pelo regulamento interno, bem como pelas orientações que forem aprovadas pelo Ministro da Defesa Nacional.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130743": {
+   "fragment_id": "115132002",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho do Ensino Superior Militar tem a seguinte composição:\n\na) Um representante do Ministro da Defesa Nacional, que preside;\n\nb) Um representante da Direcção-Geral de Pessoal e Recrutamento Militar, do Ministério da Defesa Nacional;\n\nc) Um representante do Chefe do Estado-Maior-General das Forças Armadas;\n\nd) Um representante do Chefe do Estado-Maior da Armada;\n\ne) Um representante do Chefe do Estado-Maior do Exército;\n\nf) Um representante do Chefe do Estado-Maior da Força Aérea;\n\ng) Um representante do comandante-geral da Guarda Nacional Republicana;\n\nh) Um representante do Ministério da Ciência, Tecnologia e Ensino Superior;\n\ni) Três individualidades, civis ou militares, de reconhecido mérito e competência no âmbito de ensino superior militar, a designar pelo Ministro da Defesa Nacional.\n\n2 - O Ministério da Defesa Nacional é representado no conselho consultivo da Agência de Avaliação e Acreditação do Ensino Superior pelo presidente do Conselho do Ensino Superior Militar.\n\n3 - Os membros do Conselho do Ensino Superior Militar são nomeados por despacho conjunto dos membros do Governo responsáveis pelas áreas da defesa nacional, da administração interna e da ciência, tecnologia e ensino superior.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130744": {
+   "fragment_id": "115132003",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - Compete ao presidente do Conselho do Ensino Superior Militar:\n\na) Presidir, com voto de qualidade, às reuniões do Conselho do Ensino Superior Militar e fazer executar as suas deliberações;\n\nb) Dirigir e orientar as actividades do Conselho do Ensino Superior Militar, das comissões especializadas ou grupos de trabalho;\n\nc) Propor as verbas necessárias às actividades do Conselho do Ensino Superior Militar e aprovar o plano e relatório de actividades e as respectivas contas;\n\nd) Representar o Conselho do Ensino Superior Militar.\n\n2 - Cabe ainda ao presidente do Conselho do Ensino Superior Militar exercer as demais competências que lhe sejam delegadas.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130745": {
+   "fragment_id": "115132004",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 5.º — Funcionamento\n\nA Direcção-Geral de Pessoal e Recrutamento Militar assiste o Conselho do Ensino Superior Militar, competindo apoiar as actividades do Conselho, designadamente as de natureza jurídica, técnica e administrativo-logística.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130746": {
+   "fragment_id": "115132005",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissões e grupos de trabalho",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 6.º — Comissões e grupos de trabalho\n\nO Conselho do Ensino Superior Militar pode propor ao Ministro da Defesa Nacional a constituição de comissões especializadas ou grupos de trabalho, a título permanente ou eventual, constituídas por individualidades de reconhecido mérito e competência.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130747": {
+   "fragment_id": "115132006",
+   "type": 11,
+   "heading": "Artigo 7.º — Secretariado",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 7.º — Secretariado\n\n1 - O Conselho do Ensino Superior Militar dispõe de um secretário, designado pelo director-geral de Pessoal e Recrutamento Militar.\n\n2 - Ao secretário do Conselho do Ensino Superior Militar compete:\n\na) Participar, sem direito a voto, nas reuniões do Conselho do Ensino Superior Militar;\n\nb) Manter o registo e arquivo de todos os documentos do Conselho do Ensino Superior Militar;\n\nc) Elaborar as actas das reuniões;\n\nd) Desenvolver outras actividades para as quais seja incumbido no âmbito das competências do Conselho do Ensino Superior Militar.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130748": {
+   "fragment_id": "115132007",
+   "type": 11,
+   "heading": "Artigo 8.º — Mandatos",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 100/2014 - Diário da República n.º 90/2014, Série I de 2014-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/100-2014-25343685), em vigor a partir de 2014-05-13"
+   ],
+   "markdown": "###### Artigo 8.º — Mandatos\n\n1 - Os membros do Conselho do Ensino Superior Militar:\n\na) São nomeados para um mandato de dois anos, renovável, sem prejuízo da faculdade de exoneração a todo o tempo;\n\nb) Podem solicitar a suspensão do mandato, até ao máximo de seis meses, devendo, para o efeito, apresentar o respectivo pedido, devidamente fundamentado, ao presidente do Conselho do Ensino Superior Militar.\n\n2 - O mandato dos membros do Conselho do Ensino Superior Militar considera-se prorrogado até que seja comunicada por escrito, no prazo máximo de três meses antes do final do mesmo, a designação dos respectivos substitutos.\n\n3 - Perdem o mandato os membros do Conselho do Ensino Superior Militar que:\n\na) Deixem de ser reconhecidos como seus representantes pelas entidades que os designaram, devendo estas dar conhecimento do facto, por escrito, ao Ministro da Defesa Nacional;\n\nb) Não cumpram os deveres de participação assídua inerentes ao mandato que exercem;\n\nc) Renunciem ao mandato, devendo informar as entidades que os nomearam.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 100/2014 - Diário da República n.º 90/2014, Série I de 2014-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/100-2014-25343685), em vigor a partir de 2014-05-13"
+  },
+  "115130749": {
+   "fragment_id": "115132008",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete Técnico",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 9.º — Gabinete Técnico\n\n1 - O apoio de natureza jurídica e técnica ao Conselho do Ensino Superior Militar é assegurado por um gabinete técnico, de natureza não permanente, composto por elementos designados pelo director-geral de Pessoal e Recrutamento Militar.\n\n2 - Ao Gabinete Técnico compete, em especial, pronunciar-se sobre todas as matérias constantes do n.º 3 do artigo 29.º do Decreto-Lei n.º 37/2008, de 5 de Março.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130750": {
+   "fragment_id": "115132009",
+   "type": 11,
+   "heading": "Artigo 10.º — Reuniões e actas",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 10.º — Reuniões e actas\n\n1 - O Conselho do Ensino Superior Militar reúne em sessões ordinárias e extraordinárias:\n\na) Ordinariamente, mensalmente, em dia, hora e local a fixar pelo presidente;\n\nb) Extraordinariamente, sempre que para tal for convocado pelo Ministro da Defesa Nacional, por sua iniciativa, por proposta do presidente do Conselho, ou ainda a solicitação de pelo menos um terço dos membros do Conselho do Ensino Superior Militar.\n\n2 - A convocação deve ser feita com a antecedência mínima de cinco dias, através de meio a definir pelos membros do Conselho do Ensino Superior Militar.\n\n3 - No final de cada reunião será elaborada acta, contendo o fundamental de todas as propostas apresentadas, conclusões extraídas, deliberações tomadas e respectivas votações.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130751": {
+   "fragment_id": "115132010",
+   "type": 11,
+   "heading": "Artigo 11.º — Quórum e deliberações",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 11.º — Quórum e deliberações\n\n1 - O Conselho do Ensino Superior Militar só pode deliberar desde que esteja presente a maioria dos seus membros.\n\n2 - As deliberações do Conselho do Ensino Superior Militar são tomadas por maioria simples, tendo o presidente voto de qualidade.\n\n3 - Quando tal se justificar, em função de natureza dos assuntos a analisar, o presidente pode solicitar a participação nas reuniões do Conselho do Ensino Superior Militar, sem direito a voto, de individualidades de reconhecido mérito e competência no âmbito do ensino superior militar.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130752": {
+   "fragment_id": "115132011",
+   "type": 11,
+   "heading": "Artigo 12.º — Orçamento",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 12.º — Orçamento\n\n1 - As verbas necessárias ao normal funcionamento do Conselho do Ensino Superior Militar são inscritas no orçamento da DGPRM.\n\n2 - A autorização de despesas compete ao presidente do Conselho do Ensino Superior Militar, que poderá delegar essa competência.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130753": {
+   "fragment_id": "115132012",
+   "type": 11,
+   "heading": "Artigo 13.º — Direitos e garantias",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 13.º — Direitos e garantias\n\n1 - A remuneração do presidente do Conselho do Ensino Superior Militar é fixada por despacho conjunto do Ministro de Estado e das Finanças e do Ministro da Defesa Nacional.\n\n2 - Os membros do Conselho do Ensino Superior Militar, das comissões especializadas ou grupos de trabalho, do secretário e do Gabinete Técnico têm igualmente direito, de acordo com a lei geral, sempre que se desloquem em missão de serviço público, ao abono de ajudas de custo e de despesas de transporte.\n\n3 - Os membros do Conselho do Ensino Superior Militar e das comissões especializadas ou grupos de trabalho são dispensados das suas actividades profissionais, públicas ou privadas, quando se encontrem no exercício efectivo de funções, considerando-se justificadas as faltas dadas ao serviço.\n\n4 - Os restantes membros do Conselho do Ensino Superior Militar, das comissões especializadas ou grupos de trabalho e o secretário têm direito a senhas de presença, cujo montante é fixado por despacho conjunto do Ministro de Estado e das Finanças e do Ministro da Defesa Nacional.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130754": {
+   "fragment_id": "115132013",
+   "type": 11,
+   "heading": "Artigo 14.º — Mapa de pessoal",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 14.º — Mapa de pessoal\n\nO mapa de pessoal da Direcção-Geral de Pessoal e Recrutamento Militar integra o número de postos de trabalho necessários ao desenvolvimento das actividades do Conselho do Ensino Superior Militar.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130755": {
+   "fragment_id": "115132014",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito de informação",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 15.º — Direito de informação\n\n1 - O Conselho do Ensino Superior Militar pode requerer a quaisquer entidades, públicas ou privadas, em especial aos ramos das Forças Armadas, os elementos que considere indispensáveis para a realização das suas tarefas, designadamente informação sobre estabelecimentos, cursos, condições de acesso, vagas, candidatos, alunos, diplomados, legislação, pessoal docente e não docente e instalações.\n\n2 - Compete à Direcção-Geral de Pessoal e Recrutamento Militar coordenar e organizar a gestão da informação de suporte à actividade e objectivos do Conselho do Ensino Superior Militar e das comissões especializadas ou grupos de trabalhos.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130756": {
+   "fragment_id": "115132015",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamento interno",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 16.º — Regulamento interno\n\nO Conselho do Ensino Superior Militar procede, no prazo de 60 dias a contar da entrada em vigor da presente portaria, à aprovação do regulamento interno.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130757": {
+   "fragment_id": "115132016",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime supletivo",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 17.º — Regime supletivo\n\nEm tudo o que não estiver especialmente previsto neste regulamento aplicam-se as regras constantes do Código do Procedimento Administrativo, podendo ser adoptadas regras diferentes por deliberação de maioria de dois terços dos membros do Conselho do Ensino Superior Militar.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130758": {
+   "fragment_id": "115132017",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  },
+  "115130759": {
+   "fragment_id": "115132018",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+   ],
+   "markdown": "O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira, em 14 de Setembro de 2009.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 103/2018 - Diário da República n.º 76/2018, Série I de 2018-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/103-2018-115132733), em vigor a partir de 2018-04-19"
+  }
+ }
+}

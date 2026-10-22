@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:522204:por
+title: Resolução do Conselho de Ministros n.º 108/2001
+short_title: null
+summary: Estabelece o regime da celebração de protocolos de modernização administrativa
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 108/2001
+official_date: null
+publication_date: '2001-08-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 185/2001, Série I-B de 2001-08-10
+  number: '185'
+  series: I
+  supplement: null
+  pages: 5075 - 5077
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/08/185b00/50755077.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/108/2001/08/10/p/dre/pt/html
+  oj: null
+  dre: '522204'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/108-2001-522204
+  internal: pt:dre:522204:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/108-2001-522204
+  metadata_url: https://data.dre.pt/eli/resolconsmin/108/2001/08/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/108-2001-522204
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-08-10T00:00:00Z'
+integrity:
+  source_sha256: 8e61a6b63b0c41bad43cbeced155205c44fad2397e8fe685976b633dc34267a8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-108-522204.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação de Municípios
+- Modernização Administrativa
+- Direção Geral das Autarquias Locais
+- Protocolo de Modernização Administrativa
+- Autarquia Local
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/23/1994/04/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/23/1994/04/14/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 108/2001
+
+As medidas de aperfeiçoamento e de qualificação dos serviços públicos locais vêm sendo impulsionadas pelo Estado mediante a celebração de protocolos de modernização administrativa com os municípios, ao abrigo da [Resolução do Conselho de Ministros n.º 23/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/23-1994-265760), de 17 de Março, no âmbito da cooperação técnica e financeira entre as administrações central e local.
+
+Entretanto, a Administração Pública, central e local, está cada vez mais a ser chamada a responder a novos e complexos desafios, os quais decorrem das incessantes transformações sociais, económicas e tecnológicas. Neste sentido, interessa evidenciar o crescimento das expectativas e das exigências dos cidadãos e dos agentes económicos e sociais, sendo irrecusável que a modernização dos sistemas administrativos públicos vá, decisivamente, ao encontro das necessidades e das prioridades da sociedade e da economia portuguesas.
+
+Nesta óptica, importa adequar a administração autárquica aos critérios do sistema europeu de qualidade, às normas de modernização administrativa entretanto consagradas no âmbito da Administração Pública, bem como criar condições para uma melhor harmonização dos tempos de trabalho, de apoio à vida familiar e de participação. Por outro lado, importa acelerar a plena adesão à sociedade da informação, promovendo a ligação das autarquias locais e das suas associações à Internet e apostando estrategicamente na concepção e no desenvolvimento de intranets autárquicas.
+
+Por sua vez, a reforma do Estado e a modernização da Administração Pública, consagradas no Programa do XIV Governo Constitucional, implicam a transferência gradual de novas missões para a administração local autárquica. Neste sentido, a celebração dos protocolos de modernização deve privilegiar o desenvolvimento de projectos relacionados com as atribuições e competências a transferir anualmente para as autarquias locais.
+
+Considerando que a concretização dos princípios constitucionais da descentralização e da subsidiariedade não é pensável sem a participação das freguesias, a presente resolução estende a celebração dos protocolos de modernização às freguesias e às respectivas associações. Com a consagração desta inovação crucial pretende-se apoiar os processos de descentralização e de desconcentração de funções e serviços dos municípios para as freguesias.
+
+A presente resolução contempla ainda, designadamente, a adopção de processos de trabalho, de procedimentos administrativos e de métodos de gestão orientados para a maximização da produtividade, da operacionalidade e da transparência dos sistemas autárquicos tendo em vista a qualificação dos serviços prestados às comunidades locais. Deste modo, pretende-se criar condições propícias à experimentação e à validação de modelos inovadores de serviço público, visivelmente pautados pela exemplaridade e pela excelência.
+
+Mas pretende-se, também, incentivar o desenvolvimento de projectos de modernização orientados para a consolidação da democracia local e para a avaliação periódica dos resultados alcançados. A título de exemplo, serão elegíveis projectos que visem quer a implementação de mecanismos de informação, de audição e participação dos cidadãos e dos agentes económicos e sociais, quer a concretização de abordagens integradas sobre a organização dos tempos de vida, incluindo a compatibilização de horários de diversa natureza, quer a realização de estudos e de auditorias respeitantes aos serviços prestados.
+
+Tendo em vista a necessidade de responder adequadamente aos desafios da competitividade e da solidariedade, importa estimular, prioritariamente, a concretização de projectos de modernização multissectoriais e integrados e promover a formalização de parcerias entre as entidades autárquicas. Nesta perspectiva, a nova Administração deverá, pois, nortear-se pelos princípios da economia, da eficiência e da eficácia e, simultaneamente, pelos princípios da cooperação, da complementaridade e da interdependência.
+
+No respeitante aos procedimentos inerentes à apreciação das candidaturas e ao acompanhamento da execução física e financeira dos projectos de modernização, anteriormente centralizados na Direcção-Geral das Autarquias Locais, opta-se por um modelo desconcentrado. Nesta conformidade, os referidos procedimentos são transferidos para as comissões de coordenação regional.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Os municípios e as freguesias, bem como as respectivas associações, doravante designados por entidades interessadas, podem celebrar com o Estado, através da Direcção-Geral das Autarquias Locais (DGAL), protocolos de modernização administrativa tendo em vista fomentar a qualidade e o aperfeiçoamento dos serviços públicos locais.
+
+2 - São elegíveis para efeito de celebração dos protocolos mencionados no número anterior os projectos orientados para a adequação da administração local autárquica aos critérios do sistema europeu de qualidade, para a melhoria das condições com vista à conciliação da actividade profissional, da vida familiar e da vida cívica, e para a concretização dos princípios da descentralização e da subsidiariedade que visem, designadamente:
+
+a) Adopção de processos de trabalho, de procedimentos administrativos e de métodos de gestão orientados para a obtenção de maior eficiência, eficácia e transparência;
+
+b) Valorização das instalações autárquicas e aquisição de equipamentos tendo em vista a qualificação do atendimento do cidadão e dos agentes económicos e sociais;
+
+c) Promoção da sociedade da informação e do conhecimento, privilegiando, designadamente, a criação de uma Intranet ao nível das autarquias locais e a ligação das entidades autárquicas à Internet;
+
+d) Implementação de mecanismos de informação, de audição e de participação dos cidadãos e dos agentes económicos e sociais;
+
+e) Concretização de abordagens integradas a nível local sobre a organização dos tempos de vida, incluindo a compatibilização de horários de diversa natureza;
+
+f) Desenvolvimento de projectos relacionados com as atribuições e competências anualmente transferidas do Estado para as autarquias locais;
+
+g) Desconcentração e descentralização de funções e de serviços autárquicos, desde que justificadas pela densidade ou pela dispersão do povoamento do território;
+
+h) Realização de experiências piloto de modo a encontrar formas inovadoras de prestação de serviços públicos de âmbito local;
+
+i) Realização de estudos e de auditorias em ordem à avaliação dos serviços e, consequentemente, à implementação dos correspondentes programas de acção;
+
+j) Desenvolvimento de formas de cooperação entre entidades autárquicas de modo a promover o aproveitamento de sinergias;
+
+l) Realização de projectos multissectoriais e integrados de desenvolvimento organizacional;
+
+m) Promoção de acções de formação e de sensibilização dos funcionários e agentes da administração autárquica, complementares das demais acções do projecto, quando a sua dimensão não justifique o recurso a outros instrumentos de financiamento;
+
+n) Institucionalização de formas inovadoras e apelativas de divulgação contínua ou periódica das actividades prosseguidas pelas entidades autárquicas;
+
+o) Implementação de quaisquer outros projectos considerados inovadores, exemplares ou emblemáticos, nos domínios da modernização administrativa autárquica, incluindo os que respeitam ao cumprimento das normas obrigatórias em matéria de modernização administrativa.
+
+3 - As candidaturas à celebração de protocolos devem ser apresentadas pelas entidades interessadas, em suporte digital e de papel, junto da respectiva comissão de coordenação regional (CCR), até 15 de Março de cada ano, mediante formulário único, de modelo a aprovar pelo membro do Governo responsável pela área das autarquias locais, a disponibilizar pelas CCR.
+
+4 - O formulário mencionado no número anterior deverá indicar, nomeadamente, a designação do projecto, os objectivos, a complementaridade em relação a outros projectos desenvolvidos ou a desenvolver, a calendarização da execução, o montante do investimento e as fontes de financiamento.
+
+5 - As candidaturas aos protocolos de modernização administrativa que respeitem a projectos que envolvam a introdução de novas práticas de modernização administrativa, bem como os que contemplem a criação de novos serviços, devem fazer-se acompanhar, salvo se fundamentalmente não se justificar, dos planos de formação correspondentes, que constituirão, eles próprios, candidaturas ao Programa de Formação para as Autarquias Locais (Programa FORAL).
+
+6 - A apreciação das candidaturas é efectuada pelas CCR, com base nas orientações constantes de despacho anual do membro do Governo responsável pela área das autarquias locais, a publicar na 2.ª série do Diário da República.
+
+7 - Do despacho mencionado no número anterior constarão, nomeadamente, os domínios de financiamento prioritários, as despesas não elegíveis e os critérios de selecção aplicáveis aos municípios, às freguesias e suas associações.
+
+8 - As CCR remeterão, até 15 de Maio de cada ano, em suporte digital, à DGAL as listas das candidaturas admitidas, as quais deverão ser ordenadas em função das prioridades anualmente estabelecidas.
+
+9 - A ordenação das candidaturas é materializada em aplicação informática a desenvolver pelas CCR e pela DGAL, a partir de um sistema de pontuação associado aos critérios de selecção e aos domínios de financiamento prioritários.
+
+10 - Cada CCR deverá elaborar duas listas diferenciadas e autónomas: uma integrando as candidaturas apresentadas pelos municípios e suas associações; outra integrando as candidaturas das freguesias e suas associações.
+
+11 - As candidaturas, depois de ordenadas segundo as prioridades anualmente estabelecidas, serão submetidas pela DGAL ao membro do Governo responsável pela área das autarquias locais.
+
+12 - As candidaturas, com afectação dos respectivos financiamentos, são seleccionadas por despacho do membro do Governo responsável pela área das autarquias locais.
+
+13 - A participação financeira máxima da administração central corresponde a 50% do investimento elegível, podendo atingir 70% quando as entidades interessadas forem detentoras de, pelo menos, um projecto considerado caso exemplar de modernização administrativa ou quando tenham sido distinguidas com o prémio de modernização administrativa ou com o prémio de qualidade em serviços públicos.
+
+14 - As entidades interessadas que venham a implementar projectos acreditados, anteriormente desenvolvidos por outras entidades autárquicas, beneficiarão de uma comparticipação financeira da administração central de 60% do investimento elegível.
+
+15 - O financiamento dos projectos seleccionados poderá ser complementar de outros financiamentos, respeitantes, designadamente, ao III Quadro Comunitário de Apoio, sendo que pelo menos 10% do investimento elegível deverá ser suportado pelas entidades interessadas.
+
+16 - A comparticipação financeira a atribuir pela administração central tem origem na dotação inscrita no orçamento da DGAL, como «Cooperação técnica e financeira».
+
+17 - O prazo de execução dos projectos, anuais ou plurianuais, pode ser prorrogado por um ano, contado da data de conclusão prevista no protocolo, mediante despacho do membro do Governo responsável pela área das autarquias locais, atendendo à dimensão ou à natureza dos projectos.
+
+18 - Os protocolos, celebrados em data acordada com as entidades interessadas, identificam, nomeadamente, a designação do projecto, os objectivos a atingir, o prazo de execução, o montante da comparticipação financeira da administração central e as obrigações das partes.
+
+19 - Os protocolos, uma vez outorgados pelas partes, são publicados na íntegra na 2.ª série do Diário da República.
+
+20 - O acompanhamento da execução física e financeira dos projectos é efectuado pelas CCR, sendo que cada entidade interessada deverá remeter à respectiva CCR os pedidos de pagamento acompanhados dos documentos comprovativos da despesa realizada.
+
+21 - O pagamento da primeira fracção da comparticipação poderá efectuar-se sob a forma de adiantamento, o qual não poderá exceder 50% do montante global da comparticipação.
+
+22 - O pagamento da última fracção, de 10%, só poderá efectuar-se após a conclusão do projecto, a qual deverá ser documentada em relatório final a elaborar pela entidade interessada, e a remeter à respectiva CCR, para efeitos de aprovação.
+
+23 - O processamento da participação financeira da administração central será efectuado pela DGAL a favor da entidade interessada, mediante indicação fundamentada da CCR.
+
+24 - É revogada a [Resolução do Conselho de Ministros n.º 23/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/23-1994-265760), de 17 de Março, publicada no Diário da República, de 14 de Abril de 1994.
+
+Presidência do Conselho de Ministros, 26 de Julho de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

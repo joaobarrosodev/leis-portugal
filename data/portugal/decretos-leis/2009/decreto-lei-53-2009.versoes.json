@@ -1,0 +1,666 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:604653:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34548375",
+ "dre_path": "/dr/detalhe/decreto-lei/53-2009-604653",
+ "source_lastmod": "2026-05-28",
+ "versions": [
+  {
+   "date": "2009-03-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52950875",
+    "52950975",
+    "52951075",
+    "52951175",
+    "52951275",
+    "52951375",
+    "52951475",
+    "52951575",
+    "52951675",
+    "52951775",
+    "52951875",
+    "52951975",
+    "52952075",
+    "52952175",
+    "52952275",
+    "52952375",
+    "52952475",
+    "52952575",
+    "52952675",
+    "52952775",
+    "52952875",
+    "52952975",
+    "52953075",
+    "52953175",
+    "52953275",
+    "52953375",
+    "52953475",
+    "52953575",
+    "52953675",
+    "52953775",
+    "52953875",
+    "52953975",
+    "52954075",
+    "52954175",
+    "52954275",
+    "1127458275",
+    "52954375",
+    "52954475"
+   ]
+  },
+  {
+   "date": "2026-08-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1126675654:por",
+     "title": "Lei n.º 22/2026",
+     "published": "2026-05-27",
+     "dre_path": "/dr/detalhe/lei/22-2026-1126675654"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 26.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 28.º",
+    "Revoga Artigo 25.º"
+   ],
+   "fragments": [
+    "52950875",
+    "52950975",
+    "52951075",
+    "1127454175",
+    "52951275",
+    "1127454375",
+    "1127454575",
+    "1127454775",
+    "1127454975",
+    "1127455175",
+    "1127455375",
+    "52951975",
+    "1127455575",
+    "1127455775",
+    "1127455975",
+    "1127456175",
+    "1127456375",
+    "1127456575",
+    "52952675",
+    "1127456775",
+    "1127456975",
+    "52952975",
+    "52953075",
+    "1127457175",
+    "52953275",
+    "1127457375",
+    "52953475",
+    "52953575",
+    "1127457575",
+    "52953775",
+    "52953875",
+    "1127457775",
+    "52954075",
+    "1127458675",
+    "1127457975",
+    "1127458275",
+    "1127458475",
+    "1127458875"
+   ]
+  }
+ ],
+ "fragments": {
+  "52950875": {
+   "fragment_id": "35168175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 53/2009\n\nde 2 de Março\n\nA aplicação prática do Decreto-Lei n.º 5/95, de 17 de Janeiro, que fixa o regime de utilização do serviço de amador de radiocomunicações, tem vindo a demonstrar a necessidade de actualização e simplificação daquele regime, quer do ponto de vista técnico, quer dos procedimentos administrativos a observar para o exercício da actividade de amador.\n\nO decreto-lei que agora se publica traduz esse esforço de simplificação ao mesmo tempo que procura acolher algumas preocupações das associações de amadores trazidas ao conhecimento do Governo pelo ICP - Autoridade Nacional das Comunicações (ICP-ANACOM).\n\nEspecial destaque merece, pelo seu carácter inovador, a dispensa de licenciamento para a utilização do espectro radioeléctrico pelas estações do serviço de amador de titulares individuais.\n\nEm contrapartida, reforçam-se os mecanismos de responsabilização dos amadores e das suas associações, em caso de deficiente ou incorrecta utilização das respectivas estações de radiocomunicações e na ocorrência de interferências em que tenham intervenção estações de amador, bem como os poderes de fiscalização cometidos ao ICP-ANACOM enquanto entidade gestora do espectro radioeléctrico.\n\nReconhece-se, também, a importância dos serviços de amador e de amador por satélite como meio de divulgação científica e tecnológica no âmbito das comunicações electrónicas em geral e das radiocomunicações em particular, dada a inserção dos amadores e das suas associações nas comunidades e fomenta-se o acesso da população em geral, designadamente dos mais jovens, ao contacto com as radiocomunicações por intermédio do radioamadorismo.\n\nDeste novo decreto-lei resulta igualmente, com maior clareza, a aplicabilidade do Decreto-Lei n.º 151-A/2000, de 20 de Julho, enquanto regime geral das radiocomunicações, ao serviço de amador, em tudo o que não esteja previsto nesta legislação especial. Designadamente, é o que sucede com as taxas administrativas e de utilização de espectro radioeléctrico, matéria em que se remete para o Decreto-Lei n.º 151/2000 - as referidas taxas são fixadas pela portaria do membro do Governo responsável pela área das comunicações a que se refere o n.º 7 do artigo 19.º daquele decreto-lei.\n\nAo abrigo do presente decreto-lei e no prazo máximo de 90 dias após a sua publicação, são definidas pelo ICP-ANACOM diversas matérias como os procedimentos a observar relativamente aos exames de amador e documentos a emitir em caso de aproveitamento, bem como outras matérias mais dependentes da evolução tecnológica ou de orientações internacionais, designadamente o modo de fixação das condições técnicas de exploração dos meios utilizados, a consignação de indicativos de chamada às estações de amador e os procedimentos técnicos para a sua colocação em funcionamento.\n\nA fixação e publicitação das faixas de frequências atribuídas ao serviço de amador e de amador por satélite, bem como as respectivas condições de utilização são, de igual modo, da responsabilidade do regulador das comunicações electrónicas no âmbito do Quadro Nacional de Atribuição de Frequências (QNAF), dentro do mesmo prazo de 90 dias.\n\nO presente decreto-lei prevê uma vacatio legis de 90 dias, o que permite a entrada em vigor do regime completo do serviço de amador e do serviço de amador por satélite no fim desse prazo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "52950975": {
+   "fragment_id": "36246175",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais e definições"
+  },
+  "52951075": {
+   "fragment_id": "37777175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente decreto-lei tem por objecto a definição das regras aplicáveis aos serviços de amador e de amador por satélite, bem como a definição do regime de atribuição de certificados e autorizações especiais aos amadores e de licenciamento das estações de uso comum."
+  },
+  "52951175": {
+   "fragment_id": "37777275",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente decreto-lei entende-se por:\n\na) «Serviço de amador», serviço de radiocomunicações que tem por objectivo a instrução individual, a intercomunicação e os estudos técnicos efectuados por amadores;\n\nb) «Serviço de amador por satélite», serviço de radiocomunicações que utiliza estações espaciais em satélites da Terra, para o mesmo objectivo do serviço de amador;\n\nc) «Amador ou radioamador», toda a pessoa habilitada de acordo com o presente decreto-lei;\n\nd) «Estação de amador», estação de radiocomunicações do serviço de amador ou do serviço de amador por satélite, que pode ter carácter fixo, móvel ou portátil;\n\ne) «Estação fixa de amador», estação de amador destinada a ser utilizada em permanência em local fixo determinado;\n\nf) «Estação móvel de amador», estação de amador destinada a ser utilizada em movimento ou em locais não determinados e que necessita de alimentação externa;\n\ng) «Estação portátil de amador», estação de amador destinada a ser utilizada em movimento ou em locais não determinados e que é autónoma ao nível da alimentação;\n\nh) «Estação individual de amador», estação de amador que está associada a um certificado de amador nacional ou a uma licença emitida nos termos das recomendações aplicáveis da Conferência Europeia de Correios e Telecomunicações (CEPT) ou da União Internacional das Telecomunicações (UIT);\n\ni) «Estação de amador de uso comum», estação de amador que funciona ao abrigo de uma licença de estação e que pode ser utilizada por um conjunto de amadores;\n\nj) «Certificado de amador nacional (CAN)», documento habilitante atribuído pelo ICP-ANACOM que possibilita ao seu titular utilizar estações de amador;\n\nl) «HAREC (Harmonised Amateur Radio Examination Certificate)», certificado harmonizado de exame de aptidão de amador, conforme com a recomendação aplicável da CEPT;\n\nm) «Licença de estação de amador», título administrativo atribuído pelo ICP-ANACOM que confere ao respectivo titular o direito de colocar em funcionamento uma estação de amador de uso comum nas condições e limitações nele fixadas.\n\n2 - Devem ainda ser consideradas aplicáveis as definições constantes do Regulamento das Radiocomunicações, publicado ao abrigo da Constituição e da Convenção da União Internacional das Telecomunicações."
+  },
+  "52951275": {
+   "fragment_id": "36246275",
+   "type": 1,
+   "heading": "Capítulo II — Acesso e exercício da actividade de amador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acesso e exercício da actividade de amador"
+  },
+  "52951375": {
+   "fragment_id": "37777375",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à actividade de amador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso à actividade de amador\n\n1 - A prática do radioamadorismo e a utilização de qualquer estação de amador pressupõe a obtenção de um CAN ou a titularidade de um documento habilitante válido, emitido nos termos das recomendações aplicáveis da CEPT ou da UIT ou emitido por país com o qual Portugal tenha um acordo de reciprocidade.\n\n2 - O CAN pode obter-se:\n\na) Pela realização com aproveitamento do exame de aptidão de amador;\n\nb) Através de requerimento dirigido ao ICP-ANACOM, nos casos de detentor de certificado HAREC emitido por país signatário da recomendação aplicável da CEPT, de certificado UIT ou de documento habilitante válido emitido por país com o qual Portugal tenha um acordo de reciprocidade.\n\n3 - A decisão sobre a atribuição do CAN nos termos da alínea b) do número anterior deve ser comunicada ao interessado no prazo máximo de 10 dias a contar da recepção do pedido.\n\n4 - O titular de um CAN fica habilitado a utilizar qualquer estação de amador, de acordo com os critérios estabelecidos para a respectiva categoria.\n\n5 - O CAN é intransmissível."
+  },
+  "52951475": {
+   "fragment_id": "37777475",
+   "type": 11,
+   "heading": "Artigo 4.º — Exame de aptidão de amador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exame de aptidão de amador\n\n1 - Podem requerer ao ICP-ANACOM a realização de exame de aptidão de amador os indivíduos:\n\na) Maiores de 12 anos, nacionais de Estados membros da União Europeia;\n\nb) Maiores de 12 anos, nacionais de outros estados, desde que possuam autorização de residência em território nacional.\n\n2 - Para a realização do exame a que se refere o número anterior, os menores carecem da autorização escrita de quem exerça a respectiva responsabilidade parental ou tutela, nos termos da lei civil.\n\n3 - Podem ser concedidos apoios relativos à forma de realização do exame de aptidão a indivíduo que sofra de incapacidade física ou sensorial não inibidora do exercício da actividade de amador, desde que comprove o seu estado de incapacidade perante o ICP-ANACOM.\n\n4 - O ICP-ANACOM define e publicita os procedimentos a observar relativamente aos exames de aptidão de amador e os documentos a emitir em caso de aproveitamento, bem como as matérias dos referidos exames para cada categoria de amador e as respectivas condições de aprovação."
+  },
+  "52951575": {
+   "fragment_id": "37777575",
+   "type": 11,
+   "heading": "Artigo 5.º — Categorias de amador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Categorias de amador\n\n1 - Existem seis categorias de amador: 1, 2, 3, A, B e C, correspondendo as três primeiras - 1, 2 e 3 - à classificação dos amadores após exame de aptidão realizado ao abrigo do presente decreto-lei e dos procedimentos nele previstos e as outras três - A, B e C - às categorias já existentes, que se mantêm.\n\n2 - O acesso à categoria 3 é feito mediante a aprovação no exame respectivo.\n\n3 - Sem prejuízo do disposto nos n.os 8 e 9 do artigo 6.º, o acesso à categoria 2 é feito mediante:\n\na) Aprovação no exame respectivo, ao qual podem candidatar-se os amadores maiores de 16 anos com pelo menos dois anos de permanência na categoria 3 e os amadores da categoria C;\n\nb) Solicitação dos titulares de documentos habilitantes válidos emitidos pela CEPT, UIT ou por país com o qual Portugal tenha um acordo de reciprocidade.\n\n4 - Sem prejuízo do disposto nos n.os 8 e 9 do artigo 6.º, o acesso à categoria 1 é feito mediante:\n\na) Aprovação no exame respectivo, ao qual podem candidatar-se os amadores com pelo menos um ano de permanência na categoria 2 e os amadores das categorias A e B;\n\nb) Solicitação dos titulares de documentos habilitantes válidos emitidos pela CEPT, UIT ou por país com o qual Portugal tenha um acordo de reciprocidade.\n\n5 - Os amadores aos quais tenha sido aplicada, nos dois anos anteriores, qualquer sanção por violação das obrigações previstas no presente decreto-lei não podem candidatar-se a qualquer exame.\n\n6 - O ICP-ANACOM define e publicita os procedimentos e as regras a observar relativamente ao acesso às categorias de amador de titulares de documentos habilitantes válidos emitidos pela CEPT, UIT ou por país com o qual Portugal tenha um acordo de reciprocidade."
+  },
+  "52951675": {
+   "fragment_id": "37777675",
+   "type": 11,
+   "heading": "Artigo 6.º — Certificado de amador nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Certificado de amador nacional\n\n1 - A categoria de amador é averbada ao CAN do respectivo titular.\n\n2 - Os CAN são atribuídos, pelo ICP-ANACOM aos amadores das categorias 1, 2, e 3, nos termos do n.º 2 do artigo 3.º e aos amadores das categorias A, B e C, nos termos do n.º 2 do artigo 25.º\n\n3 - Os CAN são válidos por um período de 10 anos, independentemente da alteração de categoria durante esse período, e são renováveis automaticamente por igual período, salvo comunicação escrita do respectivo titular, efectuada até 30 dias antes do termo da respectiva validade, ou o titular se encontre em falta de pagamento da taxa anual nos termos da alínea a) do n.º 7.\n\n4 - O CAN deve ser alterado nos seguintes casos:\n\na) Por iniciativa do ICP-ANACOM, sempre que se verifique uma alteração na categoria de amador;\n\nb) Por iniciativa do amador, mediante comunicação ao ICP-ANACOM da alteração dos dados pessoais constantes no CAN.\n\n5 - O CAN pode ser suspenso pelo ICP-ANACOM, nos seguintes casos:\n\na) Por solicitação do amador, por um período superior a 12 meses e igual ou inferior a 5 anos;\n\nb) Por falta de pagamento durante dois anos consecutivos da taxa anual prevista na alínea h) do n.º 1 do artigo 19.º, após notificação pelo ICP-ANACOM, até que o titular efectue o respectivo pagamento ou ocorra a caducidade do CAN, nos termos da alínea a) do n.º 7.\n\n6 - O CAN pode ser revogado pelo ICP-ANACOM nos seguintes casos:\n\na) A pedido do titular;\n\nb) Decorrido o prazo de cinco anos previsto na alínea a) do n.º 5 no caso de, após notificação pelo ICP-ANACOM com uma antecedência de 30 dias em relação ao término do prazo, o amador não informar da sua pretensão de activar o CAN.\n\n7 - O CAN caduca quando se verifique algum dos seguintes factos:\n\na) Termo do prazo, quando seja comunicada pelo titular a opção pela não renovação automática ou quando o titular se encontre em falta de pagamento da taxa anual prevista na alínea h) do n.º 1 do artigo 19.º, após notificação do ICP-ANACOM com uma antecedência mínima de 30 dias em relação ao termo do prazo;\n\nb) Ao fim de cinco anos, quando o amador se mantenha na categoria 3;\n\nc) Comunicação da cessação da actividade pelo amador;\n\nd) Comunicação do falecimento do titular.\n\n8 - Após revogação de um CAN ao abrigo do n.º 6 ou da caducidade por aplicação do disposto nas alíneas a), b) e c) do número anterior, o seu titular apenas pode aceder à categoria averbada no seu anterior CAN mediante exame.\n\n9 - Nos casos previstos nas alíneas a) e b) do n.º 7, o seu titular fica impedido de realizar novo exame de aptidão de amador por um período dois anos, a contar da data em que ocorreu o facto que determinou a caducidade.\n\n10 - Nos casos de suspensão, revogação e caducidade do CAN previstos nos números anteriores, o titular é obrigado a cessar de imediato a sua actividade no âmbito do serviço de amador e do serviço de amador por satélite e a devolver o título à ANACOM num prazo de 40 dias a contar da data de notificação da suspensão ou revogação ou da data em que ocorreu o facto que determinou a caducidade.\n\n11 - No caso de alteração do CAN, o título alterado deve ser devolvido ao ICP-ANACOM no prazo de 40 dias a partir da data da emissão do novo título.\n\n12 - Os elementos que constituem o CAN, bem como os procedimentos para a sua emissão, alteração, suspensão e revogação são definidos e publicitados pelo ICP-ANACOM."
+  },
+  "52951775": {
+   "fragment_id": "37777775",
+   "type": 11,
+   "heading": "Artigo 7.º — Certificados internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Certificados internacionais\n\n1 - Após aproveitamento em exame de aptidão de amador para a categoria 1, o ICP-ANACOM atribui o respectivo certificado HAREC, em conformidade com a recomendação aplicável da CEPT, sem quaisquer encargos para os amadores.\n\n2 - O ICP-ANACOM pode ainda emitir outros certificados ao abrigo de recomendações da CEPT ou da UIT.\n\n3 - Os certificados HAREC-A e HAREC-B, emitidos ao abrigo da legislação revogada pelo presente decreto-lei, mantêm-se em vigor.\n\n4 - Compete ao ICP-ANACOM indicar e publicitar as recomendações da CEPT e da UIT aplicáveis."
+  },
+  "52951875": {
+   "fragment_id": "37777875",
+   "type": 11,
+   "heading": "Artigo 8.º — Utilização de estações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Utilização de estações\n\n1 - Sem prejuízo das limitações fixadas na lei, os titulares de CAN, com excepção dos da categoria 3, podem:\n\na) Utilizar as suas estações individuais de amador, tanto fixas, com o limite de uma estação principal e uma adicional, como móveis ou portáteis, nos termos do presente decreto-lei, bem como de todas as regras de execução e procedimentos aprovados e publicitados pelo ICP-ANACOM ao abrigo do mesmo;\n\nb) Utilizar estações de uso comum;\n\nc) Utilizar, de acordo com a sua categoria, estações individuais de outros amadores, com excepção das estações dos amadores da categoria 3;\n\nd) Partilhar a utilização das suas estações individuais com outros amadores, de acordo com a sua categoria.\n\n2 - Sem prejuízo das limitações fixadas na lei, os titulares de CAN da categoria 3, podem:\n\na) Utilizar as suas estações individuais de amador, tanto fixas, com o limite de uma estação principal e uma adicional, como móveis ou portáteis, apenas em modo de recepção, nos termos do presente decreto-lei, bem como de todas as regras de execução e procedimentos aprovados e publicitados pelo ICP-ANACOM ao abrigo do mesmo;\n\nb) Utilizar estações individuais de qualquer amador de categoria superior, sob a sua supervisão, nos modos de emissão e recepção, utilizando as faixas de frequências que a este forem permitidas;\n\nc) Utilizar as estações de amador de uso comum, nos modos de emissão e recepção, sob a supervisão de um amador da categoria 1, A ou B, nas faixas de frequências com estatuto primário que a este forem permitidas.\n\n3 - Aos titulares de documento habilitante válido emitido pela CEPT, UIT ou por país com o qual Portugal tenha um acordo de reciprocidade aplicam-se as regras previstas no n.º 1.\n\n4 - Compete ao ICP-ANACOM publicitar quais os documentos habilitantes válidos referidos no número anterior, bem como os procedimentos específicos a que se encontra sujeita a utilização das estações por parte dos respectivos titulares."
+  },
+  "52951975": {
+   "fragment_id": "36246375",
+   "type": 1,
+   "heading": "Capítulo III — Regime geral de licenciamento e responsabilidade pelo funcionamento das estações de amador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime geral de licenciamento e responsabilidade pelo funcionamento das estações de amador"
+  },
+  "52952075": {
+   "fragment_id": "37777975",
+   "type": 11,
+   "heading": "Artigo 9.º — Licenciamento de estações e responsabilidade pelo seu funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Licenciamento de estações e responsabilidade pelo seu funcionamento\n\n1 - O funcionamento de estações individuais de amador não carece de licença.\n\n2 - O funcionamento de estação de uso comum está sujeito a licença emitida pelo ICP-ANACOM:\n\na) Às associações de amadores legalmente constituídas, desde que todos os titulares dos órgãos da associação sejam titulares de CAN;\n\nb) Às entidades competentes no âmbito dos sistemas nacional e regionais de planeamento civil de emergência.\n\n3 - A atribuição de uma licença de estação de uso comum dá ao seu titular o direito de colocar em funcionamento a sua estação fixa e, nos termos da respectiva licença, as suas estações móveis ou portáteis.\n\n4 - A responsabilidade pelo funcionamento das estações referidas no n.º 1 é do titular do CAN ou do titular de licença emitida nos termos das recomendações aplicáveis da CEPT ou UIT ou ainda do titular de documento habilitante válido emitido por país com o qual Portugal tenha um acordo de reciprocidade.\n\n5 - A responsabilidade pelo funcionamento das estações referidas no n.º 2 é dos titulares das respectivas licenças."
+  },
+  "52952175": {
+   "fragment_id": "37778075",
+   "type": 11,
+   "heading": "Artigo 10.º — Licenças de estação de uso comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Licenças de estação de uso comum\n\n1 - Para efeitos de atribuição de licença de estação de amador de uso comum, os interessados devem apresentar ao ICP-ANACOM um requerimento instruído, designadamente, com os seguintes elementos:\n\na) Identificação do requerente, bem como indicação dos titulares dos órgãos sociais no caso de se tratar de uma associação de amadores;\n\nb) Características da estação objecto da licença pretendida e respectivo local de instalação.\n\n2 - A decisão sobre a atribuição da licença deve ser adoptada, comunicada ao interessado e publicitada no prazo máximo de 20 dias a contar da recepção do pedido.\n\n3 - O indeferimento do pedido pelo ICP-ANACOM deve ser devidamente fundamentado de acordo com o princípio da prossecução do interesse público no âmbito da gestão do espectro radioeléctrico e ou por razões de ordem técnica.\n\n4 - As licenças devem conter, designadamente:\n\na) Identificação do titular;\n\nb) Número da licença;\n\nc) Data de emissão;\n\nd) Prazo de validade da licença;\n\ne) Características da estação (tipo de estação, indicativo de chamada e local de instalação);\n\nf) Condições genéricas e específicas aplicáveis à estação.\n\n5 - As licenças de estação de amador de uso comum são válidas por um período de 10 anos, renováveis automaticamente por igual período, salvo comunicação escrita do ICP-ANACOM ao titular ou do titular ao ICP-ANACOM, efectuada com uma antecedência mínima de 30 dias sobre o termo do respectivo prazo de vigência.\n\n6 - As licenças de amador de uso comum são intransmissíveis.\n\n7 - A licença pode ser alterada pelo ICP-ANACOM:\n\na) Sempre que necessário, por motivos de gestão do espectro, de acordo com os princípios da prossecução do interesse público e da proporcionalidade;\n\nb) A pedido do titular, mediante comunicação da alteração dos dados constantes da licença.\n\n8 - A licença pode ser revogada pelo ICP-ANACOM:\n\na) Sempre que necessário, por motivos de gestão do espectro devidamente fundamentados, de acordo com os princípios da prossecução do interesse público e da proporcionalidade;\n\nb) A pedido do titular.\n\n9 - A licença caduca pelo decurso do prazo quando seja comunicada pelo titular a opção pela sua não renovação automática.\n\n10 - Nos casos de revogação e caducidade da licença previstos nos números anteriores, o titular da licença é obrigado a retirar a respectiva estação de funcionamento e a devolver o documento ao ICP-ANACOM num prazo de 40 dias a partir da data de notificação da revogação ou da caducidade.\n\n11 - No caso de alteração da licença, a anterior deve ser devolvida ao ICP-ANACOM num prazo de 40 dias a partir da data de emissão do novo documento.\n\n12 - A emissão de segunda via da licença pode ser solicitada pelo titular ao ICP-ANACOM sem necessidade de apresentação de quaisquer elementos.\n\n13 - Compete ao ICP-ANACOM definir e publicitar os elementos que devem instruir os requerimentos de licenças de amador de uso comum, bem como os procedimentos para a sua emissão."
+  },
+  "52952275": {
+   "fragment_id": "37778175",
+   "type": 11,
+   "heading": "Artigo 11.º — Licenças emitidas ao abrigo de recomendações da CEPT e da UIT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Licenças emitidas ao abrigo de recomendações da CEPT e da UIT\n\n1 - A licença adequada CEPT ou UIT é emitida pelo ICP-ANACOM, quando aplicável, no mesmo documento que contém o CAN, de acordo com as recomendações aplicáveis da CEPT ou UIT.\n\n2 - A alteração, a suspensão, a revogação e a caducidade do CAN previstas no artigo 6.º têm o mesmo efeito na licença CEPT ou UIT correspondente.\n\n3 - Compete ao ICP-ANACOM a indicação e publicitação das recomendações da CEPT ou UIT aplicáveis, bem como a definição dos procedimentos para a emissão, alteração, suspensão e revogação das licenças a que se refere o n.º 1."
+  },
+  "52952375": {
+   "fragment_id": "37778275",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações dos utilizadores das estações de amador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obrigações dos utilizadores das estações de amador\n\n1 - Constituem obrigações do utilizador de estações de amador:\n\na) Utilizar as estações dentro dos limites estabelecidos no artigo 15.º;\n\nb) Utilizar as faixas de frequências e os indicativos de chamada de estação apenas de acordo com o estipulado no artigo 16.º;\n\nc) Utilizar as estações de amador exclusivamente para o fim definido nas alíneas a) e b) do n.º 1 do artigo 2.º;\n\nd) Não utilizar estações de amador a bordo de aeronaves e de embarcações, excepto com autorização expressa das autoridades competentes;\n\ne) Não utilizar, salvo nos casos autorizados pelo ICP-ANACOM, códigos, abreviaturas ou mensagens codificadas, com o intuito de obscurecer o significado ou tornar a comunicação pouco clara ou imperceptível, nem emitir falsos indicativos de chamada e falsos sinais de identificação ou de alarme;\n\nf) Não interferir nas comunicações de outras estações de amador ou de outros serviços de radiocomunicações, nem utilizar uma frequência do serviço de amador ou do serviço de amador por satélite de forma a impedir o acesso à mesma por outros amadores;\n\ng) Utilizar as estações de amador de acordo com o disposto no CAN;\n\nh) Estabelecer comunicações exclusivamente com outras estações de amador;\n\ni) Abster-se de transmitir mensagens de terceiros ou destinadas a terceiros, obtidas por intercepção, excepto quando as transmissões sejam relativas a casos de emergência, designadamente quando esteja em causa a segurança da vida humana ou quando tal for expressamente autorizado pelo ICP-ANACOM;\n\nj) Abster-se de retransmitir emissões de estações de quaisquer outros serviços de radiocomunicações;\n\nl) Apresentar o CAN ou o documento habilitante equivalente às entidades de fiscalização sempre que estas o solicitem.\n\n2 - As associações de amadores titulares de licenças de estação de uso comum podem estabelecer emissões, com carácter de regularidade, a partir das suas estações, não ficando sujeitas à limitação de utilização de frequência constante da segunda parte da alínea f) do número anterior, devendo comunicar ao ICP-ANACOM quais as estações envolvidas e o horário das emissões.\n\n3 - Os titulares de CAN ou de outro documento habilitante válido emitido ao abrigo de recomendação aplicável da CEPT, da UIT ou de país com o qual Portugal tenha um acordo de reciprocidade, são considerados utilizadores de estações de amador, presumindo-se, até prova em contrário, a utilização efectiva de uma estação sempre que se verifique a existência de uma antena exterior no local."
+  },
+  "52952475": {
+   "fragment_id": "37778375",
+   "type": 11,
+   "heading": "Artigo 13.º — Obrigações dos responsáveis pelo funcionamento das estações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigações dos responsáveis pelo funcionamento das estações\n\n1 - Constituem obrigações dos responsáveis pelo funcionamento das estações, sem prejuízo de outras decorrentes do presente decreto-lei e demais legislação aplicável:\n\na) Manter as estações em bom estado de funcionamento;\n\nb) Assegurar que as estações respeitam os limites definidos para as radiações não essenciais expressas nas recomendações da CEPT ou UIT aplicáveis, cujas referências são publicitadas pelo ICP-ANACOM;\n\nc) Assegurar que as estações respeitam a legislação e regulamentação relativas à exposição da população a campos electromagnéticos com origem em estações de radiocomunicações;\n\nd) Garantir a afixação da identificação da estação e da sinalização informativa que alerte sobre os riscos da instalação da estação fixa de amador e respectivos acessórios, quando necessária, conforme legislação e regulamentação aplicáveis;\n\ne) Assegurar que as estações respeitam todas as condicionantes definidas no Regulamento das Radiocomunicações que não colidam com o estabelecido no presente decreto-lei, que prevalece;\n\nf) Colaborar com o ICP-ANACOM na resolução de interferências;\n\ng) Não permitir a utilização das suas estações de amador a indivíduo não habilitado de acordo com o definido no presente decreto-lei, salvo nos casos previstos no n.º 2 do artigo 14.º;\n\nh) Permitir a fiscalização das estações, possibilitando o acesso ao local da respectiva instalação, exclusiva ou partilhada, pelos agentes de fiscalização competentes, prestando-lhes todas as informações necessárias ao desempenho das suas funções, incluindo o fornecimento da documentação técnica associada às estações.\n\n2 - Constituem obrigações específicas dos responsáveis pelo funcionamento das estações de amador de uso comum:\n\na) Garantir as condições de funcionamento das estações de acordo com o disposto na respectiva licença;\n\nb) Apresentar a licença às entidades de fiscalização sempre que estas o solicitem;\n\nc) Supervisionar a utilização das referidas estações por amadores menores de 16 anos;\n\nd) Remeter ao ICP-ANACOM, até 30 de Abril de cada ano, cópia da acta da assembleia geral de onde conste a eleição dos titulares dos órgãos da associação titular da licença, bem como qualquer alteração dos estatutos que haja ocorrido, no caso de o responsável ser uma associação de amadores, nos termos da alínea a) do n.º 2 do artigo 9.º"
+  },
+  "52952575": {
+   "fragment_id": "37778475",
+   "type": 11,
+   "heading": "Artigo 14.º — Autorizações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Autorizações especiais\n\n1 - O ICP-ANACOM pode conceder autorizações temporárias para o funcionamento de estações, com localizações definidas, nos termos do n.º 1 do artigo 15.º, que não cumpram no todo ou em parte as disposições técnicas definidas no presente decreto-lei, a titulares de CAN, com excepção dos da categoria 3, bem como a titulares de licenças de estação de uso comum ou de documento habilitante válido emitido pela CEPT, UIT ou país com o qual Portugal tenha um acordo de reciprocidade.\n\n2 - O ICP-ANACOM pode autorizar, em determinados eventos ou iniciativas, que indivíduos não habilitados para o efeito utilizem estações de amador, sob a supervisão de amadores das categorias 1, A ou B.\n\n3 - As autorizações referidas nos n.os 1 e 2 são atribuídas mediante requerimento dirigido à ANACOM que invoque o objectivo exclusivamente de promoção e divulgação do conhecimento tecnológico e científico ou de desenvolvimento de actividades experimentais no âmbito das comunicações electrónicas em geral e das radiocomunicações em particular.\n\n4 - No caso a que se refere o número anterior, os requerimentos devem ser apresentados ao ICP-ANACOM com uma antecedência mínima de 10 dias úteis relativamente à data pretendida para o início de vigência da autorização.\n\n5 - Em casos excepcionais, devidamente justificados, o ICP-ANACOM pode dispensar o cumprimento do prazo a que se refere o número anterior."
+  },
+  "52952675": {
+   "fragment_id": "36246475",
+   "type": 1,
+   "heading": "Capítulo IV — Utilização de frequências e de indicativos de chamada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Utilização de frequências e de indicativos de chamada"
+  },
+  "52952775": {
+   "fragment_id": "37778575",
+   "type": 11,
+   "heading": "Artigo 15.º — Utilização de frequências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Utilização de frequências\n\n1 - As faixas de frequências atribuídas ao serviço de amador e ao serviço de amador por satélite, bem como as condições de utilização para cada uma das categorias a que se refere o n.º 1 do artigo 5.º, incluindo as respectivas potências de emissão são fixadas e publicitadas no Quadro Nacional de Atribuição de Frequências (QNAF).\n\n2 - Todas as estações de amador podem funcionar nas faixas referidas no número anterior e as respectivas emissões não podem exceder:\n\na) Os limites das faixas definidas nos termos do n.º 1;\n\nb) A largura de faixa necessária à respectiva utilização.\n\n3 - O ICP-ANACOM pode definir planos de frequências particulares para determinadas subfaixas.\n\n4 - O ICP-ANACOM pode consignar frequências ou subfaixas de frequências específicas a estações de uso comum que, pelas suas características, requeiram uma gestão de frequências coordenada com outras estações do serviço de amador e do serviço de amador por satélite, ficando o funcionamento daquelas estações limitado às frequências ou subfaixas de frequências consignadas.\n\n5 - Os utilizadores e os responsáveis pelo funcionamento das estações de amador devem seguir as recomendações da UIT e da CEPT, no que respeita à gestão de frequências, em tudo o que não prejudique a legislação aplicável."
+  },
+  "52952875": {
+   "fragment_id": "37778675",
+   "type": 11,
+   "heading": "Artigo 16.º — Indicativos de chamada de estação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Indicativos de chamada de estação\n\n1 - O ICP-ANACOM consigna um indicativo de chamada (IC) à estação fixa principal que opere ao abrigo de um CAN ou de uma licença de uso comum.\n\n2 - O IC consignado à estação fixa principal é comum às estações móveis e portáteis.\n\n3 - Mediante solicitação do amador habilitado, o ICP-ANACOM pode consignar:\n\na) Um IC para a estação fixa adicional;\n\nb) Indicativos de chamada ocasionais (ICO);\n\nc) Indicativos de chamada ocasionais anuais (ICOA).\n\n4 - O ICOA é concedido pelo período de um ano, renovando-se automaticamente por iguais períodos, excepto se houver comunicação em contrário do amador até à data limite da sua validade.\n\n5 - Compete ao ICP-ANACOM definir e publicitar as regras para a consignação e para a utilização de IC, ICO e ICOA."
+  },
+  "52952975": {
+   "fragment_id": "36246575",
+   "type": 1,
+   "heading": "Capítulo V — Interferências e situações de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Interferências e situações de emergência"
+  },
+  "52953075": {
+   "fragment_id": "37778775",
+   "type": 11,
+   "heading": "Artigo 17.º — Interferências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Interferências\n\n1 - As faixas de frequências com direito a protecção contra interferências são definidas no QNAF.\n\n2 - Nas demais faixas de frequências, verificando-se uma interferência sobre uma estação de outro serviço de radiocomunicações, as emissões da estação de amador interferente devem cessar de imediato só podendo ser reactivadas após a adopção, por parte do responsável da estação, das medidas necessárias para impedir nova situação de interferência.\n\n3 - Compete ao ICP-ANACOM fixar e publicitar os procedimentos associados à comunicação de situações de interferência sobre estações de amador que funcionem nas frequências referidas no n.º 1."
+  },
+  "52953175": {
+   "fragment_id": "37778875",
+   "type": 11,
+   "heading": "Artigo 18.º — Situações de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Situações de emergência\n\n1 - As entidades competentes podem recorrer às suas próprias estações de amador, bem como aos amadores e às respectivas estações se e nos termos em que tal esteja definido nos sistemas nacional e regionais de planeamento civil de emergência.\n\n2 - Nas situações de emergência, se tal for considerado necessário pelas entidades competentes, as estações de amador podem estabelecer ligação a estações de outros serviços de radiocomunicações, com recurso à transmissão em frequências distintas das destinadas ao serviço de amador e ao serviço de amador por satélite.\n\n3 - Nas situações mencionadas no número anterior o ICP-ANACOM pode, a pedido das entidades competentes no âmbito do sistema nacional de planeamento civil de emergência, determinar a suspensão, no todo ou em parte, da utilização das faixas de frequências atribuídas aos serviços de amador e de amador por satélite.\n\n4 - Em situações de emergência, bem como no caso de ocorrência ou perigo de ocorrência de acidente grave, catástrofe ou calamidade, as estações de amador podem ser utilizadas para o envio de pedidos de socorro, designadamente para a transmissão de mensagens relativas à salvaguarda da vida humana, devendo ser utilizadas as faixas de frequências dos serviços de amador e de amador por satélite."
+  },
+  "52953275": {
+   "fragment_id": "36246675",
+   "type": 1,
+   "heading": "Capítulo VI — Regime de taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime de taxas"
+  },
+  "52953375": {
+   "fragment_id": "37778975",
+   "type": 11,
+   "heading": "Artigo 19.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Taxas\n\n1 - Estão sujeitas ao pagamento de taxas:\n\na) A realização de exame de aptidão de amador, nos termos do artigo 4.º;\n\nb) A emissão de CAN de acordo com os procedimentos a que se refere o n.º 12 do artigo 6.º;\n\nc) A emissão de segunda via, a alteração de CAN com excepção da situação prevista na alínea a) do n.º 4 do artigo 6.º e a alteração de licença emitida ao abrigo de recomendação aplicável da CEPT ou da UIT, nos termos do artigo 11.º;\n\nd) A emissão, a emissão de segunda via e a alteração de licença de estação de uso comum, com excepção do caso previsto na alínea a) do n.º 7 do artigo 10.º;\n\ne) A emissão de segunda via de certificados internacionais ao abrigo do artigo 7.º;\n\nf) A consignação de indicativos de chamada, nos termos do n.º 3 do artigo 16.º;\n\ng) A utilização de ICOA;\n\nh) A utilização do espectro radioeléctrico pelos titulares de CAN.\n\n2 - A taxa prevista na alínea a) do número anterior inclui, em caso de aproveitamento, a emissão ou alteração do CAN, bem como da adequada licença emitida ao abrigo de recomendação aplicável da CEPT ou da UIT e dos respectivos certificados internacionais, se aplicável.\n\n3 - As taxas previstas nas alíneas g) e h) do n.º 1 são anuais.\n\n4 - A taxa prevista na alínea h) do n.º 1 é objecto de uma redução para os titulares de CAN:\n\na) Menores de 25 anos, devendo a primeira taxa integral ser paga no ano em que completem a idade referida;\n\nb) Maiores de 65 anos, devendo a última taxa integral ser paga no ano em que completem a idade referida;\n\nc) Portadores de uma incapacidade de carácter permanente de grau igual ou superior a 60 %, calculada nos termos do Decreto-Lei n.º 352/2007, de 23 de Outubro, devidamente comprovada.\n\n5 - As reduções previstas no número anterior são concedidas automaticamente excepto nos seguintes casos, em que o titular de CAN deve apresentar ao ICP-ANACOM requerimento para o efeito:\n\na) No caso previsto nas alíneas a) e b), quando os amadores tenham obtido as suas categorias ao abrigo da legislação revogada pelo presente decreto-lei, devendo o requerimento ser apresentado no 1.º semestre do ano em que tenha direito à redução prevista;\n\nb) No caso previsto na alínea c), quando os amadores tenham feito o respectivo exame de aptidão ao abrigo do quadro regulamentar aprovado pelo presente decreto-lei.\n\n6 - Os montantes e periodicidade de liquidação das taxas referidas no n.º 1, bem como as percentagens das reduções a que se refere o n.º 4 são fixados na portaria do membro do Governo responsável pela área das comunicações a que se refere o n.º 7 do artigo 19.º do Decreto-Lei n.º 151-A/2000, de 20 de Julho, constituindo receita do ICP-ANACOM."
+  },
+  "52953475": {
+   "fragment_id": "36246775",
+   "type": 1,
+   "heading": "Capítulo VII — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Fiscalização e regime sancionatório"
+  },
+  "52953575": {
+   "fragment_id": "37779075",
+   "type": 11,
+   "heading": "Artigo 20.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Fiscalização\n\n1 - Compete ao ICP-ANACOM a fiscalização do cumprimento do disposto no presente decreto-lei através dos seus agentes de fiscalização ou de mandatários devidamente credenciados pelo conselho de administração.\n\n2 - O ICP-ANACOM pode proceder à vistoria das estações de amador a fim de verificar se o funcionamento das mesmas obedece às condições aplicáveis."
+  },
+  "52953675": {
+   "fragment_id": "37779175",
+   "type": 11,
+   "heading": "Artigo 21.º — Contra-ordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contra-ordenações e coimas\n\n1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações as seguintes infracções:\n\na) A utilização de qualquer estação de amador sem a prévia obtenção de um CAN ou de outro documento habilitante emitido ao abrigo do presente decreto-lei, em violação do n.º 1 do artigo 3.º;\n\nb) A utilização de uma estação por quem não tenha o direito de a utilizar, nos termos estabelecidos nos n.os 1, 2 e 3 do artigo 8.º;\n\nc) A utilização de qualquer estação, por titular de CAN de categoria 3, em modo de emissão, contrariando o estabelecido na alínea a) do n.º 2 do artigo 8.º;\n\nd) A utilização de uma estação sem a necessária supervisão, nos casos previstos nas alíneas b) e c) do n.º 2 do artigo 8.º;\n\ne) A utilização, por titular de CAN, de uma estação, própria ou alheia, fora das faixas definidas para o efeito, em violação do artigo 15.º, bem como a utilização de indicativos de chamada em violação do artigo 16.º;\n\nf) A não cessação imediata da actividade pelos titulares de CAN, em caso de suspensão, revogação ou caducidade do CAN, em violação do n.º 10 do artigo 6.º;\n\ng) A não cessação imediata do funcionamento de uma estação de uso comum, em caso de revogação ou caducidade da respectiva licença, em violação do n.º 10 do artigo 10.º;\n\nh) A não devolução do CAN, em violação dos n.os 10 e 11 do artigo 6.º;\n\ni) A não devolução da licença de uso comum, em violação dos n.os 10 e 11 do artigo 10.º;\n\nj) A não comunicação ao ICP-ANACOM, pelo titular de CAN, das alterações relativas aos dados do titular expressos no CAN, em violação da alínea b) do n.º 4 do artigo 6.º;\n\nl) A colocação em funcionamento e a utilização de estações de uso comum, sem a licença prevista no n.º 2 do artigo 9.º;\n\nm) A não comunicação ao ICP-ANACOM, pelo respectivo titular, das alterações dos dados da licença, em violação da alínea b) do n.º 7 do artigo 10.º;\n\nn) A utilização de estações de amador para fim diverso do referido nas alíneas a) e b) do n.º 1 do artigo 2.º, em violação da alínea c) do n.º 1 do artigo 12.º;\n\no) A utilização de estações de amador a bordo de aeronaves ou embarcações sem autorização expressa das autoridades competentes, em violação da alínea d) do n.º 1 do artigo 12.º;\n\np) A utilização de códigos, abreviaturas ou mensagens codificadas, com o intuito de obscurecer o seu significado ou tornar a comunicação pouco clara ou imperceptível, bem como a emissão de falsos indicativos de chamada e falsos sinais de identificação ou de alarme, em violação da alínea e) do n.º 1 do artigo 12.º;\n\nq) A interferência nas comunicações de outras estações de amador ou de outros serviços de radiocomunicações, ou a utilização de uma frequência do serviço de amador ou do serviço de amador por satélite de forma a impedir o acesso à mesma por outros amadores, em violação da alínea f) do n.º 1 do artigo 12.º;\n\nr) A utilização de estações de amador em desacordo com o disposto no CAN ou na licença de estação de uso comum, em violação da alínea g) do n.º 1 do artigo 12.º, da alínea a) do n.º 1 do artigo 13.º, ou ainda da alínea a) do n.º 2 do artigo 13.º;\n\ns) O estabelecimento de comunicações em violação da alínea h) do n.º 1 do artigo 12.º;\n\nt) A transmissão de mensagens de terceiros ou destinadas a terceiros, obtidas por intercepção, em violação da alínea i) do n.º 1 do artigo 12.º;\n\nu) A retransmissão de emissões de estações de quaisquer outros serviços de radiocomunicações em violação da alínea j) do n.º 1 do artigo 12.º;\n\nv) O incumprimento pelas associações de amador do dever de comunicação previsto no n.º 2 in fine do artigo 12.º;\n\nx) O incumprimento dos limites definidos, contrariando o preceituado na alínea b) do n.º 1 do artigo 13.º;\n\nz) O desrespeito das condicionantes definidas no Regulamento das Radiocomunicações conforme estipulado na alínea e) do n.º 1 do artigo 13.º;\n\naa) A permissão de utilização de estação a indivíduo não habilitado, em violação da alínea g) do n.º 1 do artigo 13.º;\n\nbb) A não permissão da fiscalização das estações, em violação de qualquer dos deveres estabelecidos na alínea h) do n.º 1 do artigo 13.º, bem como a não apresentação de licença, CAN, ou outro documento habilitante às entidades de fiscalização contrariando o disposto na alínea l) do n.º 1 do artigo 12.º e na alínea b) do n.º 2 do artigo 13.º;\n\ncc) A permissão de utilização de uma estação de uso comum por um amador menor de 16 anos sem a adequada supervisão por parte do amador ou amadores responsáveis pelo seu funcionamento, em violação da alínea c) do n.º 2 do artigo 13.º;\n\ndd) A omissão da obrigação de remessa ao ICP-ANACOM dos documentos referidos na alínea d) do n.º 2 do artigo 13.º, em incumprimento dessa alínea;\n\nee) O incumprimento das condições fixadas nas autorizações especiais, em violação dos n.os 1, 2 e 3 do artigo 14.º;\n\nff) O incumprimento da determinação do ICP-ANACOM de suspensão da utilização das faixas de frequência autorizadas em caso de ocorrência de interferências, nos termos do n.º 2 do artigo 17.º;\n\ngg) A omissão do dever de colaboração com o ICP-ANACOM na resolução de interferências, contrariando o preceituado na alínea f) do n.º 1 do artigo 13.º\n\n2 - As contra-ordenações previstas nas alíneas b), d), h), i), j), m), v), cc) e dd) do número anterior são puníveis com coima de (euro) 50 a (euro) 2500 para pessoas singulares e de (euro) 100 a (euro) 5000 para pessoas colectivas.\n\n3 - As contra-ordenações previstas nas alíneas a), c), e), f), g), l), n), o), p), q), r), s), t), u), x), z), aa), bb), ee), ff) e gg) do n.º 1 são puníveis com coima de (euro) 250 a (euro) 3740 para pessoas singulares e de (euro) 500 a (euro) 25 000 para pessoas colectivas.\n\n4 - A tentativa e a negligência são puníveis, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade."
+  },
+  "52953775": {
+   "fragment_id": "37779275",
+   "type": 11,
+   "heading": "Artigo 22.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Sanções acessórias\n\n1 - Para além das coimas fixadas no artigo anterior, podem ainda ser aplicadas, sempre que a gravidade da infracção e a culpa do agente o justifique, as seguintes sanções acessórias:\n\na) Suspensão do CAN, até um máximo de dois anos, nas contra-ordenações previstas nas alíneas b), e), p), q), s), t), u), x), bb) e ff) do n.º 1 do artigo anterior;\n\nb) Suspensão da licença de estação de uso comum, até um máximo de dois anos, nas contra-ordenações previstas nas alíneas q), t), u), x), bb) e ff) do n.º 1 do artigo anterior;\n\nc) Perda a favor do Estado das estações, nas contra-ordenações previstas nas alíneas a), f), g), l), n) e o) do n.º 1 do artigo anterior quando, no prazo de 20 dias úteis a contar da data da recepção da notificação da decisão, não seja requerida, em alternativa, a selagem ou desmantelamento das estações.\n\n2 - Quando seja declarada a perda de estações a favor do Estado, nos termos da alínea c) do número anterior, o respectivo proprietário fica obrigado a proceder à entrega das mesmas junto do ICP-ANACOM, no prazo de 30 dias úteis a contar da data da recepção da notificação da decisão que a determine."
+  },
+  "52953875": {
+   "fragment_id": "37779375",
+   "type": 11,
+   "heading": "Artigo 23.º — Apreensão e restituição de estações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Apreensão e restituição de estações\n\n1 - Podem ser apreendidas provisoriamente, no todo ou em parte, as estações que serviram, ou estavam destinadas a servir, para a prática de uma contra-ordenação ou e, bem assim, quaisquer outras que forem susceptíveis de servir de prova.\n\n2 - As estações apreendidas são confiadas à guarda do ICP-ANACOM ou de um depositário indicado por esta Autoridade, de tudo se fazendo menção em auto, devendo, sempre que possível, ser seladas, total ou parcialmente.\n\n3 - As estações apreendidas são restituídas logo que se tornar desnecessário manter a apreensão para efeitos de prova, a menos que a autoridade administrativa pretenda declará-las perdidas.\n\n4 - Em qualquer caso, as estações são restituídas logo que a decisão condenatória se torne definitiva, salvo se tiverem sido declaradas perdidas.\n\n5 - Ao levantamento dos selos assistem, sendo possível, as mesmas pessoas que tiverem estado presentes na sua aposição, as quais verificam se os selos não foram violados, nem foi feita qualquer alteração nas estações apreendidas."
+  },
+  "52953975": {
+   "fragment_id": "37779475",
+   "type": 11,
+   "heading": "Artigo 24.º — Processamento das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Processamento das contra-ordenações\n\n1 - A instauração e decisão dos processos de contra-ordenação são da competência do conselho de administração do ICP-ANACOM, cabendo a instrução dos mesmos aos respectivos serviços.\n\n2 - As competências previstas no número anterior podem ser delegadas.\n\n3 - Aos processos de contra-ordenações previstos no presente decreto-lei aplica-se subsidiariamente o disposto no regime geral das contra-ordenações.\n\n4 - Para os efeitos de imputação de contra-ordenações e aplicação das respectivas sanções previstas no presente decreto-lei, consideram-se inimputáveis os menores de 16 anos.\n\n5 - O montante das coimas reverte para o Estado em 60 % e para o ICP-ANACOM em 40 %.\n\n6 - O ICP-ANACOM pode dar adequada publicidade às sanções aplicadas em processo de contra-ordenação."
+  },
+  "52954075": {
+   "fragment_id": "36246875",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "52954175": {
+   "fragment_id": "37779575",
+   "type": 11,
+   "heading": "Artigo 25.º — Regularização de títulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regularização de títulos\n\n1 - As licenças que, nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 5/95, de 17 de Janeiro, tenham sido atribuídas pelo ICP-ANACOM a associações de amadores, manter-se-ão válidas até à emissão das novas licenças de estação de uso comum, sem quaisquer custos para os respectivos titulares.\n\n2 - Os CAN das categorias A, B e C previstos no presente decreto-lei são atribuídos, no prazo de um ano a contar da data da sua entrada em vigor e sem quaisquer encargos para os respectivos titulares, aos amadores titulares de CAN ou de licenças de estação de amador nacional válidas, emitidos ao abrigo da legislação agora revogada, que mantêm a respectiva categoria.\n\n3 - As licenças referidas no n.º 1 do artigo 11.º são emitidas no mesmo documento do CAN, quando aplicável, sem quaisquer encargos para os respectivos titulares, mantendo-se válidas, até à conclusão desse processo, as licenças CEPT emitidas ao abrigo da legislação que agora se revoga."
+  },
+  "52954275": {
+   "fragment_id": "37779675",
+   "type": 11,
+   "heading": "Artigo 26.º — Utilização de meios electrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Utilização de meios electrónicos\n\nEm todos os procedimentos que envolvam a comunicação entre o ICP-ANACOM e os titulares de CAN e ou licenças de estação de uso comum, bem como em todos os requerimentos a submeter àquela autoridade, são sempre utilizados meios electrónicos a definir e publicitar para cada situação pelo ICP-ANACOM."
+  },
+  "1127458275": {
+   "fragment_id": "1127458175",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Regulamentos",
+   "in_force_from": "2026-08-25",
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º-A — Regulamentos\n\nCompete à ANACOM aprovar e publicar os regulamentos necessários à execução do presente decreto-lei, designadamente, no que respeita a:\n\na) Procedimentos a observar relativamente aos exames de aptidão de amador, documentos a emitir em caso de aproveitamento, matérias dos referidos exames para cada categoria de amador e respetivas condições de aprovação, nos termos do disposto no artigo 4.º;\n\nb) Apoios relativos à forma de realização do exame de aptidão a indivíduo que sofra de incapacidade física ou sensorial não inibidora do exercício da atividade de amador, nos termos do disposto no n.º 3 do artigo 4.º;\n\nc) Procedimentos e regras a observar relativamente ao acesso às categorias de amador de titulares de documentos habilitantes válidos emitidos por país signatário das recomendações, decisões e relatórios aplicáveis da CEPT ou da UIT ou por país com o qual Portugal tenha um acordo de reciprocidade, a que se refere a alínea b) do n.º 2 do artigo 3.º;\n\nd) Definição dos elementos que constituem o CAN, bem como dos procedimentos para a sua emissão, alteração e suspensão, a que se refere o artigo 6.º;\n\ne) Certificados internacionais a atribuir em caso de aproveitamento em exame de aptidão, condições de atribuição e respetivas recomendações, decisões e relatórios da CEPT ou da UIT aplicáveis, a que se referem o artigo 7.º;\n\nf) Definição dos documentos habilitantes válidos, emitidos nos termos das recomendações, decisões e relatórios aplicáveis da CEPT ou da UIT ou por país com o qual Portugal tenha um acordo de reciprocidade, bem como de procedimentos específicos a que se encontra sujeita a utilização das estações por parte dos respetivos titulares, a que se refere o artigo 8.º;\n\ng) Elementos que devem instruir os requerimentos de licenças de estação de uso comum, conteúdo das licenças e procedimentos para a sua atribuição, alteração, revogação e emissão, a que se referem o artigo 10.º;\n\nh) Definição das recomendações, decisões e relatórios aplicáveis da CEPT ou da UIT, bem como dos procedimentos para a emissão, alteração e suspensão das licenças, a que se refere o artigo 11.º;\n\ni) Definição das recomendações, decisões e relatórios aplicáveis da CEPT ou UIT onde se encontram fixados os limites definidos para as radiações não essenciais, a que se refere o artigo 13.º;\n\nj) Regras para a gestão dos indicativos de chamada, nomeadamente para a consignação e para a utilização de IC, ICO e ICOA, nos termos do artigo 16.º;\n\nk) Procedimentos associados à comunicação de situações de interferência sobre estações de amador que funcionem nas faixas de frequências com direito a proteção contra interferências, conforme definição no QNAF, nos termos do artigo 17.º;\n\nl) Meios eletrónicos a utilizar em todos os procedimentos que envolvam a comunicação entre a ANACOM e os titulares de CAN e ou licenças de estação de uso comum, designadamente no que se refere à emissão, alteração e revogação dos CAN e das licenças, aos requerimentos a submeter àquela autoridade, bem como à emissão de certificados ou de licenças, nos termos do artigo 26.º"
+  },
+  "52954375": {
+   "fragment_id": "37779775",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 5/95, de 17 de Janeiro;\n\nb) A Portaria n.º 322/95, de 17 de Abril;\n\nc) A Portaria n.º 358/95, de 24 de Abril;\n\nd) A Portaria n.º 394/98, de 11 de Julho."
+  },
+  "52954475": {
+   "fragment_id": "37779875",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.\n\n2 - Compete ao ICP-ANACOM publicitar por meio adequado, nomeadamente mediante disponibilização no seu sítio na Internet, no prazo máximo de 90 dias após a publicação do presente decreto-lei, as matérias a que se referem o n.º 4 do artigo 4.º, o n.º 6 do artigo 5.º, o n.º 12 do artigo 6.º, o n.º 4 do artigo 7.º, o n.º 4 do artigo 8.º, o n.º 13 do artigo 10.º, o n.º 3 do artigo 11.º, a alínea b) do n.º 1 do artigo 13.º, o n.º 1 do artigo 15.º, o n.º 5 do artigo 16.º e o n.º 3 do artigo 17.º\n\nVisto e aprovado em Conselho de Ministros de 17 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.\n\nPromulgado em 18 de Fevereiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de Fevereiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "1127454175": {
+   "fragment_id": "37777275",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente decreto-lei entende-se por:\n\na) «Serviço de amador», serviço de radiocomunicações que tem por objectivo a instrução individual, a intercomunicação e os estudos técnicos efectuados por amadores;\n\nb) «Serviço de amador por satélite», serviço de radiocomunicações que utiliza estações espaciais em satélites da Terra, para o mesmo objectivo do serviço de amador;\n\nc) ‘Amador ou radioamador’, pessoa singular, interessada em técnicas de rádio exclusivamente com um objetivo pessoal e sem interesse pecuniário, habilitada de acordo com o presente decreto-lei;\n\nd) «Estação de amador», estação de radiocomunicações do serviço de amador ou do serviço de amador por satélite, que pode ter carácter fixo, móvel ou portátil;\n\ne) «Estação fixa de amador», estação de amador destinada a ser utilizada em permanência em local fixo determinado;\n\nf) «Estação móvel de amador», estação de amador destinada a ser utilizada em movimento ou em locais não determinados e que necessita de alimentação externa;\n\ng) «Estação portátil de amador», estação de amador destinada a ser utilizada em movimento ou em locais não determinados e que é autónoma ao nível da alimentação;\n\nh) ‘Estação individual de amador’, estação de amador que está associada a um certificado de amador nacional ou a uma licença emitida nos termos das recomendações, decisões e relatórios aplicáveis da Conferência Europeia da Administração de Correios e Telecomunicações (CEPT) ou da União Internacional das Telecomunicações (UIT) ou emitida por país com o qual Portugal tenha um acordo de reciprocidade;\n\ni) «Estação de amador de uso comum», estação de amador que funciona ao abrigo de uma licença de estação e que pode ser utilizada por um conjunto de amadores;\n\nj) ‘Certificado de amador nacional (CAN)’, documento habilitante atribuído pela Autoridade Nacional de Comunicações (ANACOM) que possibilita ao seu titular utilizar estações de amador;\n\nl) «HAREC (Harmonised Amateur Radio Examination Certificate)», certificado harmonizado de exame de aptidão de amador, conforme com a recomendação aplicável da CEPT;\n\nm) «Licença de estação de amador», título administrativo atribuído pelo ICP-ANACOM que confere ao respectivo titular o direito de colocar em funcionamento uma estação de amador de uso comum nas condições e limitações nele fixadas.\n\n2 - Devem ainda ser consideradas aplicáveis as definições constantes do Regulamento das Radiocomunicações, publicado ao abrigo da Constituição e da Convenção da União Internacional das Telecomunicações.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127454375": {
+   "fragment_id": "37777375",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à atividade de amador",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 3.º — Acesso à atividade de amador\n\n1 - A prática do radioamadorismo e a utilização de qualquer estação de amador pressupõe a obtenção de um CAN ou a titularidade de um documento habilitante válido, emitido nos termos das recomendações, decisões e relatórios aplicáveis da CEPT ou da UIT ou emitido por país com o qual Portugal tenha um acordo de reciprocidade.\n\n2 - O CAN é atribuído mediante:\n\na) Realização com aproveitamento do exame de aptidão de amador;\n\nb) Apresentação de requerimento dirigido à ANACOM, por titular de certificado emitido por país signatário das recomendações, decisões e relatórios da CEPT ou da UIT ou de documento habilitante válido emitido por país com o qual Portugal tenha um acordo de reciprocidade;\n\nc) Apresentação de requerimento dirigido à ANACOM, por antigos titulares de CAN, entretanto revogado ou caducado, atribuído desde 1 de junho de 2009.\n\n3 - A decisão sobre a atribuição do CAN nos termos das alíneas b) e c) do número anterior deve ser comunicada ao interessado no prazo de 10 dias a contar da receção do pedido.\n\n4 - Para a realização dos exames a que se refere o artigo 4.º e para o acesso às categorias 1 e 2 nos termos da alínea b) do n.º 3 e da alínea b) do n.º 4 do artigo 5.º, os menores carecem da autorização escrita de quem exerça a respetiva responsabilidade parental ou tutela, nos termos da lei civil.\n\n5 - O titular de um CAN fica habilitado a utilizar qualquer estação de amador, de acordo com os critérios estabelecidos para a respectiva categoria.\n\n6 - O CAN é intransmissível.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127454575": {
+   "fragment_id": "37777475",
+   "type": 11,
+   "heading": "Artigo 4.º — Exame de aptidão de amador",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 4.º — Exame de aptidão de amador\n\n1 - Podem requerer à ANACOM a realização de exame de aptidão de amador os indivíduos:\n\na) Nacionais de Estados-Membros da União Europeia;\n\nb) Nacionais de outros Estados, desde que possuam autorização de residência em território nacional.\n\n2 - [Revogado.]\n\n3 - Podem ser concedidos apoios relativos à forma de realização do exame de aptidão a indivíduo que sofra de incapacidade física ou sensorial não inibidora do exercício da actividade de amador, desde que comprove o seu estado de incapacidade perante o ICP-ANACOM.\n\n4 - O candidato a exame de aptidão de amador deve requerer a sua realização à ANACOM, através de formulário disponibilizado para o efeito no sítio da ANACOM na Internet, o qual deve ser instruído com os seguintes elementos:\n\na) Identificação do candidato e respetivos meios de contacto;\n\nb) Localização das estações fixa e adicional, se aplicável;\n\nc) Comprovativo de autorização de residência em Portugal, se aplicável;\n\nd) Autorização escrita de quem exerça o respetivo poder paternal ou tutela, nos termos da lei civil, no caso de se tratar de candidato menor;\n\ne) Informação sobre a categoria de amador a que se candidata;\n\nf) Indicação do local e da data pretendidos para realização do exame de entre as opções disponibilizadas no sítio da ANACOM;\n\ng) Solicitação de apoio para realização de exame por incapacidade física ou sensorial nos termos do n.º 3 do presente artigo, anexando para o efeito atestado médico comprovativo, se aplicável.\n\n5 - O exame a realizar pelos candidatos consiste em prova escrita teórica a efetuar presencialmente, podendo ser utilizado sistema multimédia.\n\n6 - Compete à ANACOM definir, ao abrigo do disposto no artigo 26.º-A, as matérias a constar do exame de aptidão de amador, elaborar as respetivas provas e atribuir as correspondentes classificações.\n\n7 - Para efeitos do número anterior, a ANACOM deve ter em consideração a categoria a que o candidato se propõe, bem como as recomendações e relatórios da CEPT aplicáveis.\n\n8 - Em caso de aprovação no exame de aptidão, a ANACOM emite ou altera o respetivo CAN e, se aplicável, o certificado internacional de habilitações e a adequada licença CEPT ou UIT, nos termos do disposto no presente decreto-lei.\n\n9 - Em caso de reprovação do candidato no exame de aptidão, da respetiva decisão cabe recurso para o presidente do conselho de administração da ANACOM.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127454775": {
+   "fragment_id": "37777575",
+   "type": 11,
+   "heading": "Artigo 5.º — Categorias de amador",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 5.º — Categorias de amador\n\n1 - Existem as seguintes categorias de amador:\n\na) 1, 2 e 3, correspondentes à classificação dos amadores habilitados ao abrigo do presente decreto-lei e dos procedimentos nele previstos;\n\nb) A, B e C, correspondentes às categorias de amador criadas ao abrigo do regime de amador de radiocomunicações, atribuídas antes de 1 de junho de 2009, nos termos da legislação revogada pelo presente decreto-lei.\n\n2 - O acesso à categoria 3 pode ser efetuado por não amadores ou por amadores da categoria C, mediante:\n\na) Aprovação no exame respetivo;\n\nb) Apresentação de requerimento à ANACOM, nos casos previstos na alínea c) do n.º 2 do artigo 3.º\n\n3 - O acesso à categoria 2 é efetuado mediante:\n\na) Aprovação no exame respetivo, ao qual podem candidatar-se os amadores da categoria 3;\n\nb) Apresentação de requerimento à ANACOM, nos casos previstos nas alíneas b) e c) do n.º 2 do artigo 3.º\n\n4 - O acesso à categoria 1 é efetuado mediante:\n\na) Aprovação no exame respetivo, ao qual podem candidatar-se os amadores da categoria 2 e os amadores das categorias A e B;\n\nb) Apresentação de requerimento à ANACOM, nos casos previstos nas alíneas b) e c) do n.º 2 do artigo 3.º\n\n5 - Os amadores aos quais tenha sido aplicada, nos dois anos anteriores, qualquer sanção por violação das obrigações previstas no presente decreto-lei não podem candidatar-se a qualquer exame.\n\n6 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127454975": {
+   "fragment_id": "37777675",
+   "type": 11,
+   "heading": "Artigo 6.º — Certificado de amador nacional",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 6.º — Certificado de amador nacional\n\n1 - A categoria de amador é averbada ao CAN do respectivo titular.\n\n2 - Os CAN são atribuídos pela ANACOM nos termos do n.º 2 do artigo 3.º\n\n3 - Os CAN são válidos por 10 anos, independentemente da alteração de categoria durante esse período, sendo automaticamente renováveis por iguais períodos, salvo comunicação escrita do respetivo titular, efetuada até 30 dias antes do termo da respetiva validade, nos termos da alínea a) do n.º 7.\n\n4 - O CAN deve ser alterado nos seguintes casos:\n\na) Por iniciativa do ICP-ANACOM, sempre que se verifique uma alteração na categoria de amador;\n\nb) Por iniciativa do amador, mediante comunicação à ANACOM da alteração dos dados pessoais do titular ou da localização da estação, constantes do CAN.\n\n5 - O CAN pode ser suspenso pela ANACOM, mediante solicitação do seu titular, por um ou vários períodos de duração igual ou superior a 12 meses, não podendo exceder o limite máximo de 5 anos, em cada período de validade do CAN.\n\n6 - O CAN pode ser revogado pela ANACOM a pedido do titular.\n\n7 - O CAN caduca quando se verifique algum dos seguintes factos:\n\na) Termo do prazo de validade do CAN, quando seja comunicada pelo titular a opção pela não renovação automática;\n\nb) [Revogada.]\n\nc) Comunicação da cessação da atividade pelo titular;\n\nd) Falecimento do titular.\n\n8 - Após revogação de um CAN ao abrigo do n.º 6 ou da caducidade por aplicação do disposto nas alíneas a) e c) do número anterior, o seu titular apenas pode obter novo CAN nos termos do disposto no artigo 3.º\n\n9 - [Revogado.]\n\n10 - Nos casos de suspensão, revogação e caducidade do CAN previstos nos números anteriores, o titular é obrigado a cessar de imediato a sua actividade no âmbito do serviço de amador e do serviço de amador por satélite e a devolver o título à ANACOM num prazo de 40 dias a contar da data de notificação da suspensão ou revogação ou da data em que ocorreu o facto que determinou a caducidade.\n\n11 - No caso de alteração do CAN, o título alterado deve ser devolvido ao ICP-ANACOM no prazo de 40 dias a partir da data da emissão do novo título.\n\n12 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127455175": {
+   "fragment_id": "37777775",
+   "type": 11,
+   "heading": "Artigo 7.º — Certificados internacionais",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 7.º — Certificados internacionais\n\n1 - Após aproveitamento em exame de aptidão de amador para a categoria 1, o ICP-ANACOM atribui o respectivo certificado HAREC, em conformidade com a recomendação aplicável da CEPT, sem quaisquer encargos para os amadores.\n\n2 - A ANACOM pode ainda emitir outros certificados ao abrigo de recomendações da CEPT ou da UIT, sem quaisquer encargos para os amadores.\n\n3 - Os certificados HAREC-A e HAREC-B emitidos antes de 1 de junho de 2009, ao abrigo da legislação revogada pelo presente decreto-lei, mantêm-se em vigor.\n\n4 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127455375": {
+   "fragment_id": "37777875",
+   "type": 11,
+   "heading": "Artigo 8.º — Utilização de estações",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 8.º — Utilização de estações\n\n1 - Sem prejuízo das limitações fixadas na lei, os titulares de CAN podem:\n\na) Utilizar as suas estações individuais de amador, tanto fixas, com o limite de uma estação principal e uma adicional, como móveis ou portáteis, nos termos do presente decreto-lei, bem como de todas as regras de execução e procedimentos aprovados e publicitados pelo ICP-ANACOM ao abrigo do mesmo;\n\nb) Utilizar estações de uso comum;\n\nc) Utilizar, de acordo com a sua categoria, estações individuais de outros amadores;\n\nd) Partilhar a utilização das suas estações individuais com outros amadores, de acordo com a sua categoria.\n\n2 - Sem prejuízo das limitações fixadas na lei, os titulares de CAN menores de 16 anos só podem utilizar estações de amador em modo de emissão desde que supervisionados por um amador, com idade igual ou superior a 16 anos e com privilégios no acesso às faixas de frequências iguais ou superiores aos seus, o qual é responsável pelo funcionamento e pela utilização da estação.\n\n3 - Aos titulares de documento habilitante válido, emitido nos termos das recomendações, decisões e relatórios aplicáveis da CEPT ou da UIT ou emitido por país com o qual Portugal tenha um acordo de reciprocidade, aplicam-se as regras previstas nos números anteriores.\n\n4 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127455575": {
+   "fragment_id": "37777975",
+   "type": 11,
+   "heading": "Artigo 9.º — Licenciamento de estações e responsabilidade pelo seu funcionamento",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 9.º — Licenciamento de estações e responsabilidade pelo seu funcionamento\n\n1 - O funcionamento de estações individuais de amador não carece de licença.\n\n2 - O funcionamento de estação de uso comum está sujeito a licença emitida pela ANACOM:\n\na) Às associações de amadores legalmente constituídas, desde que todos os titulares dos órgãos da associação sejam titulares de CAN não suspenso;\n\nb) Às entidades com atribuições no âmbito da proteção civil.\n\n3 - A atribuição de uma licença de estação de uso comum confere ao seu titular o direito de colocar em funcionamento a respetiva estação e, no caso de se tratar de estação sem frequências consignadas, as respetivas estações móveis ou portáteis.\n\n4 - A responsabilidade pelo funcionamento das estações referidas no n.º 1 cabe ao titular do CAN, ao titular de licença emitida nos termos das recomendações, decisões e relatórios aplicáveis da CEPT ou UIT, ou ao titular de documento habilitante válido emitido por país com o qual Portugal tenha um acordo de reciprocidade.\n\n5 - A responsabilidade pelo funcionamento das estações referidas no n.º 2 é dos titulares das respectivas licenças.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127455775": {
+   "fragment_id": "37778075",
+   "type": 11,
+   "heading": "Artigo 10.º — Licenças de estação de uso comum",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 10.º — Licenças de estação de uso comum\n\n1 - Para efeitos de atribuição de licença de estação de amador de uso comum, os interessados devem apresentar ao ICP-ANACOM um requerimento instruído, designadamente, com os seguintes elementos:\n\na) Identificação do requerente, bem como indicação dos titulares dos órgãos sociais no caso de se tratar de uma associação de amadores;\n\nb) Características da estação objecto da licença pretendida e respectivo local de instalação.\n\n2 - A decisão sobre a atribuição da licença deve ser adoptada, comunicada ao interessado e publicitada no prazo máximo de 20 dias a contar da recepção do pedido.\n\n3 - O indeferimento do pedido pelo ICP-ANACOM deve ser devidamente fundamentado de acordo com o princípio da prossecução do interesse público no âmbito da gestão do espectro radioeléctrico e ou por razões de ordem técnica.\n\n4 - As licenças devem conter, designadamente:\n\na) Identificação do titular;\n\nb) Número da licença;\n\nc) Data de emissão;\n\nd) Prazo de validade da licença;\n\ne) Características da estação (tipo de estação, indicativo de chamada e local de instalação);\n\nf) Condições genéricas e específicas aplicáveis à estação.\n\n5 - As licenças de estação de amador de uso comum são válidas por um período de 10 anos, renováveis automaticamente por igual período, salvo comunicação escrita do ICP-ANACOM ao titular ou do titular ao ICP-ANACOM, efectuada com uma antecedência mínima de 30 dias sobre o termo do respectivo prazo de vigência.\n\n6 - As licenças de amador de uso comum são intransmissíveis.\n\n7 - A licença pode ser alterada pela ANACOM:\n\na) Sempre que necessário, por motivos, devidamente fundamentados, de gestão do espectro ou de gestão dos indicativos de chamada;\n\nb) A pedido do titular, mediante comunicação da alteração dos dados constantes da licença.\n\n8 - A licença pode ser revogada pela ANACOM:\n\na) Sempre que necessário, por motivos de gestão do espectro devidamente fundamentados, de acordo com os princípios da prossecução do interesse público e da proporcionalidade;\n\nb) A pedido do titular.\n\n9 - A licença caduca:\n\na) Pelo decurso do prazo de validade, quando seja comunicada pelo titular à ANACOM a opção pela sua não renovação automática, preferencialmente, através dos formulários eletrónicos disponibilizados para o efeito no sítio desta autoridade na Internet;\n\nb) Pelo não cumprimento, por parte de uma associação de amadores, durante dois anos consecutivos, da obrigação prevista na alínea d) do n.º 2 do artigo 13.º;\n\nc) Quando se verifique que as estações, de acordo com a informação prestada nos termos da subalínea ii) da alínea d) do n.º 2 do artigo 13.º, se encontram inoperativas durante dois anos consecutivos.\n\n10 - Nos casos de revogação e caducidade da licença previstos no presente artigo, o titular da licença é obrigado a:\n\na) Retirar a respetiva estação de funcionamento;\n\nb) Caso o prazo de validade da licença não tenha ainda terminado, devolver o documento à ANACOM no prazo de 40 dias a contar da data de notificação da revogação ou da data em que ocorreu o facto que determinou a caducidade.\n\n11 - No caso de alteração da licença, a anterior deve ser devolvida ao ICP-ANACOM num prazo de 40 dias a partir da data de emissão do novo documento.\n\n12 - A emissão de segunda via da licença pode ser solicitada pelo titular ao ICP-ANACOM sem necessidade de apresentação de quaisquer elementos.\n\n13 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127455975": {
+   "fragment_id": "37778175",
+   "type": 11,
+   "heading": "Artigo 11.º — Licenças emitidas ao abrigo de documentos da CEPT ou da UIT",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 11.º — Licenças emitidas ao abrigo de documentos da CEPT ou da UIT\n\n1 - A licença adequada CEPT ou UIT é emitida pela ANACOM, quando aplicável, no mesmo documento que contém o CAN, de acordo com as recomendações, decisões e relatórios aplicáveis da CEPT ou da UIT.\n\n2 - A licença adequada CEPT ou UIT é alterada por iniciativa do amador, mediante comunicação à ANACOM da alteração dos dados pessoais do titular ou da morada para correspondência.\n\n3 - A suspensão, a revogação e a caducidade do CAN previstas no artigo 6.º produzem o mesmo efeito na licença CEPT ou UIT correspondente.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127456175": {
+   "fragment_id": "37778275",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações dos utilizadores das estações de amador",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 12.º — Obrigações dos utilizadores das estações de amador\n\n1 - Constituem obrigações do utilizador de estações de amador ou, nos casos previstos no n.º 2 do artigo 8.º, do amador que supervisiona o menor de 16 anos:\n\na) Utilizar as estações dentro dos limites estabelecidos no artigo 15.º;\n\nb) Utilizar as faixas de frequências e os indicativos de chamada de estação apenas de acordo com o estipulado, respetivamente, nos artigos 15.º e 16.º;\n\nc) Utilizar as estações de amador exclusivamente para o fim definido nas alíneas a) e b) do n.º 1 do artigo 2.º;\n\nd) Não utilizar estações de amador a bordo de aeronaves e de embarcações, excepto com autorização expressa das autoridades competentes;\n\ne) Não utilizar, salvo nos casos autorizados pelo ICP-ANACOM, códigos, abreviaturas ou mensagens codificadas, com o intuito de obscurecer o significado ou tornar a comunicação pouco clara ou imperceptível, nem emitir falsos indicativos de chamada e falsos sinais de identificação ou de alarme;\n\nf) Não interferir nas comunicações de outras estações de amador ou de outros serviços de radiocomunicações, nem utilizar uma frequência do serviço de amador ou do serviço de amador por satélite de forma a impedir o acesso à mesma por outros amadores;\n\ng) Utilizar as estações de amador de acordo com o disposto no CAN;\n\nh) Sem prejuízo do disposto no n.º 2 do artigo 18.º, estabelecer comunicações exclusivamente com outras estações de amador;\n\ni) Abster-se de transmitir mensagens de terceiros ou destinadas a terceiros, obtidas por intercepção, excepto quando as transmissões sejam relativas a casos de emergência, designadamente quando esteja em causa a segurança da vida humana ou quando tal for expressamente autorizado pelo ICP-ANACOM;\n\nj) Abster-se de retransmitir emissões de estações de quaisquer outros serviços de radiocomunicações;\n\nl) Apresentar o CAN ou o documento habilitante equivalente às entidades de fiscalização sempre que estas o solicitem.\n\n2 - As associações de amadores titulares de licenças de estação de uso comum podem estabelecer emissões, com carácter de regularidade, a partir das suas estações, não ficando sujeitas à limitação de utilização de frequência constante da segunda parte da alínea f) do número anterior.\n\n3 - Os titulares de CAN ou de outro documento habilitante válido, emitido nos termos das recomendações, decisões e relatórios aplicáveis da CEPT ou da UIT ou emitido por país com o qual Portugal tenha um acordo de reciprocidade, são considerados utilizadores de estações de amador, presumindo-se, até prova em contrário, a utilização efetiva de uma estação sempre que se verifique a existência de uma antena exterior no local.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127456375": {
+   "fragment_id": "37778375",
+   "type": 11,
+   "heading": "Artigo 13.º — Obrigações dos responsáveis pelo funcionamento das estações",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 13.º — Obrigações dos responsáveis pelo funcionamento das estações\n\n1 - Constituem obrigações dos responsáveis pelo funcionamento das estações, sem prejuízo de outras decorrentes do presente decreto-lei e demais legislação aplicável:\n\na) Manter as estações, tanto individuais como de uso comum, em bom estado de funcionamento e garantir que estas últimas funcionam de acordo com as condições fixadas na licença respetiva e com as condicionantes, legalmente previstas, aplicáveis aos equipamentos de rádio;\n\nb) Assegurar que as estações respeitam os limites fixados para as radiações não essenciais expressos nas recomendações, decisões e relatórios aplicáveis da CEPT ou UIT, cujas referências são definidas pela ANACOM;\n\nc) Assegurar que as estações respeitam a legislação e regulamentação relativas à exposição da população a campos electromagnéticos com origem em estações de radiocomunicações;\n\nd) Remeter à ANACOM até 31 de maio de cada ano:\n\ni) Cópia da ata da assembleia geral de aprovação das contas do ano anterior;\n\nii) Informação sobre o estado de funcionamento de cada uma das suas estações que operem ao abrigo de uma licença de estação de uso comum, nos termos da alínea a) do n.º 2 do artigo 9.º;\n\ne) Assegurar que as estações respeitam todas as condicionantes definidas no Regulamento das Radiocomunicações que não colidam com o estabelecido no presente decreto-lei, que prevalece;\n\nf) Colaborar com o ICP-ANACOM na resolução de interferências;\n\ng) Não permitir a utilização das suas estações de amador a indivíduo não habilitado de acordo com o definido no presente decreto-lei, salvo nos casos previstos no n.º 2 do artigo 14.º;\n\nh) Permitir a fiscalização das estações, possibilitando o acesso ao local da respetiva instalação, exclusiva ou partilhada, pelos agentes de fiscalização competentes, prestando-lhes todas as informações necessárias ao desempenho das suas funções, incluindo o fornecimento da documentação técnica associada às estações e a apresentação da licença de estação sempre que lhes for solicitado.\n\n2 - Constituem obrigações específicas dos responsáveis pelo funcionamento das estações de amador de uso comum pertencentes a associações de amador, nos termos da alínea a) do n.º 2 do artigo 9.º:\n\na) [Revogada.]\n\nb) [Revogada.]\n\nc) Supervisionar a utilização das estações de uso comum sem frequências consignadas por amadores menores de 16 anos;\n\nd) Remeter ao ICP-ANACOM, até 30 de Abril de cada ano, cópia da acta da assembleia geral de onde conste a eleição dos titulares dos órgãos da associação titular da licença, bem como qualquer alteração dos estatutos que haja ocorrido, no caso de o responsável ser uma associação de amadores, nos termos da alínea a) do n.º 2 do artigo 9.º\n\ne) Em caso de alteração dos titulares dos órgãos sociais ou dos estatutos, remeter à ANACOM, no prazo de 30 dias a contar da data de tais deliberações, cópia da ata da assembleia geral em que as mesmas foram adotadas, com:\n\ni) Identificação dos titulares dos órgãos sociais da associação de amadores;\n\nii) Cópia dos estatutos alterados e publicados.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127456575": {
+   "fragment_id": "37778475",
+   "type": 11,
+   "heading": "Artigo 14.º — Autorizações especiais",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 14.º — Autorizações especiais\n\n1 - A ANACOM pode conceder autorizações temporárias para o funcionamento de estações, com localizações definidas, e nos termos do n.º 1 do artigo 15.º, a titulares de CAN, bem como a titulares de licenças de estação de uso comum ou de documento habilitante válido emitido nos termos das recomendações, decisões e relatórios aplicáveis da CEPT ou da UIT ou emitido por país com o qual Portugal tenha um acordo de reciprocidade.\n\n2 - A ANACOM pode autorizar, em determinados eventos ou iniciativas, que indivíduos não habilitados para o efeito utilizem estações de amador, sob a supervisão de amadores das categorias 1, 2, A ou B.\n\n3 - As autorizações referidas nos n.os 1 e 2 são atribuídas mediante requerimento dirigido à ANACOM que invoque o objectivo exclusivamente de promoção e divulgação do conhecimento tecnológico e científico ou de desenvolvimento de actividades experimentais no âmbito das comunicações electrónicas em geral e das radiocomunicações em particular.\n\n4 - No caso a que se refere o número anterior, os requerimentos devem ser apresentados ao ICP-ANACOM com uma antecedência mínima de 10 dias úteis relativamente à data pretendida para o início de vigência da autorização.\n\n5 - Em casos excepcionais, devidamente justificados, o ICP-ANACOM pode dispensar o cumprimento do prazo a que se refere o número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127456775": {
+   "fragment_id": "37778575",
+   "type": 11,
+   "heading": "Artigo 15.º — Utilização de frequências",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 15.º — Utilização de frequências\n\n1 - As faixas de frequências atribuídas ao serviço de amador e ao serviço de amador por satélite, bem como as condições de utilização para cada uma das categorias a que se refere o n.º 1 do artigo 5.º, incluindo as respectivas potências de emissão são fixadas e publicitadas no Quadro Nacional de Atribuição de Frequências (QNAF).\n\n2 - Todas as estações de amador podem funcionar nas faixas referidas no número anterior e as respectivas emissões não podem exceder:\n\na) Os limites das faixas definidas nos termos do n.º 1;\n\nb) A largura de faixa necessária à respectiva utilização.\n\n3 - O ICP-ANACOM pode definir planos de frequências particulares para determinadas subfaixas.\n\n4 - O ICP-ANACOM pode consignar frequências ou subfaixas de frequências específicas a estações de uso comum que, pelas suas características, requeiram uma gestão de frequências coordenada com outras estações do serviço de amador e do serviço de amador por satélite, ficando o funcionamento daquelas estações limitado às frequências ou subfaixas de frequências consignadas.\n\n5 - Os utilizadores e os responsáveis pelo funcionamento das estações de amador devem observar as recomendações, decisões e relatórios aplicáveis da UIT ou da CEPT, no que respeita à gestão de frequências, sem prejuízo do disposto na legislação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127456975": {
+   "fragment_id": "37778675",
+   "type": 11,
+   "heading": "Artigo 16.º — Indicativos de chamada de estação",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 16.º — Indicativos de chamada de estação\n\n1 - A ANACOM consigna um indicativo de chamada (IC) à estação fixa principal que opere ao abrigo de um CAN, à estação que opere ao abrigo de uma licença de uso comum ou, se aplicável, à estação que opere ao abrigo do n.º 1 do artigo 14.º\n\n2 - O IC consignado à estação fixa principal ou às estações de uso comum sem frequências consignadas é igualmente utilizado pelas respetivas estações móveis e portáteis.\n\n3 - Mediante apresentação de requerimento dirigido à ANACOM, esta pode consignar:\n\na) Um IC para a estação fixa adicional, ao titular de CAN;\n\nb) Indicativos de chamada ocasionais (ICO), ao titular de CAN ou de licença de estação de uso comum sem consignação de frequências;\n\nc) Indicativos de chamada ocasionais anuais (ICOA), ao titular de CAN ou de licença de estação de uso comum sem consignação de frequências.\n\n4 - O ICOA renova-se anualmente, de forma automática, exceto se houver comunicação em contrário do titular de CAN ou da entidade titular da licença de uso comum sem consignação de frequências, efetuada a partir de 30 dias após a sua consignação e até à data limite da sua validade, sendo, nesse caso, a taxa prevista na alínea g) do n.º 1 do artigo 19.º aplicada proporcionalmente ao período em que foi utilizado.\n\n5 - Todos os indicativos de chamada referidos nos números anteriores são consignados pela ANACOM nos termos do Regulamento das Radiocomunicações, tendo em conta a área geográfica da localização da estação, a titularidade da estação e a categoria do amador, bem como o tipo de estação.\n\n6 - Para os novos radioamadores que operem na Região Autónoma dos Açores, a ANACOM consigna indicativos de chamada iniciados por ‘CU1’ a ‘CU9’, seguindo a metodologia de ordenação por ilha, amplamente utilizada nesta nomenclatura.\n\n7 - Os titulares de indicativos de chamada atribuídos para operação na Região Autónoma dos Açores que não se enquadrem no formato referido no número anterior podem requerer à ANACOM a alteração do respetivo indicativo de chamada para esse formato, com indicativos iniciados por ‘CU1’ a ‘CU9’.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127457175": {
+   "fragment_id": "37778875",
+   "type": 11,
+   "heading": "Artigo 18.º — Situações de emergência",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 18.º — Situações de emergência\n\n1 - As entidades com atribuições no âmbito da proteção civil podem recorrer às estações e associações de amadores nos termos definidos nos sistemas nacional e regionais de planeamento civil de emergência.\n\n2 - Nas situações de emergência, se tal for considerado necessário pelas entidades competentes, as estações de amador podem estabelecer ligação a estações de outros serviços de radiocomunicações, com recurso à transmissão em frequências distintas das destinadas ao serviço de amador e ao serviço de amador por satélite.\n\n3 - Nas situações mencionadas no número anterior o ICP-ANACOM pode, a pedido das entidades competentes no âmbito do sistema nacional de planeamento civil de emergência, determinar a suspensão, no todo ou em parte, da utilização das faixas de frequências atribuídas aos serviços de amador e de amador por satélite.\n\n4 - Em situações de emergência, bem como no caso de ocorrência ou perigo de ocorrência de acidente grave, catástrofe ou calamidade, as estações de amador podem ser utilizadas para o envio de pedidos de socorro, designadamente para a transmissão de mensagens relativas à salvaguarda da vida humana, devendo ser utilizadas as faixas de frequências dos serviços de amador e de amador por satélite.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127457375": {
+   "fragment_id": "37778975",
+   "type": 11,
+   "heading": "Artigo 19.º — Taxas",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 19.º — Taxas\n\n1 - Estão sujeitas ao pagamento de taxas:\n\na) A realização de exame de aptidão de amador, nos termos do artigo 4.º;\n\nb) A emissão de CAN de acordo com os procedimentos a que se refere o n.º 12 do artigo 6.º;\n\nc) A emissão de segunda via, a alteração de CAN, com exceção da situação prevista na alínea a) do n.º 4 do artigo 6.º, e a alteração de licença emitida ao abrigo de documento aplicável da CEPT ou da UIT, nos termos do artigo 11.º;\n\nd) A emissão de licença, a emissão de segunda via de licença e a alteração de licença de estação de uso comum, com exceção do caso previsto na alínea a) do n.º 7 do artigo 10.º;\n\ne) A emissão de segunda via de certificados internacionais ao abrigo do artigo 7.º;\n\nf) A consignação de indicativos de chamada, nos termos do n.º 3 do artigo 16.º;\n\ng) A utilização de ICOA;\n\nh) [Revogada.]\n\n2 - A taxa prevista na alínea a) do número anterior inclui, em caso de aproveitamento, a emissão ou alteração do CAN, bem como da adequada licença emitida nos termos das recomendações, decisões e relatórios aplicáveis da CEPT ou da UIT e dos respetivos certificados internacionais, se aplicável.\n\n3 - A taxa prevista na alínea g) do n.º 1 é anual.\n\n4 - A taxa prevista na alínea a) do n.º 1 é objeto de uma redução para:\n\na) Menores de 25 anos, devendo a primeira taxa integral ser paga no ano em que completem a idade referida;\n\nb) Maiores de 65 anos, devendo a última taxa integral ser paga no ano em que completem a idade referida;\n\nc) Portadores de uma incapacidade de carácter permanente de grau igual ou superior a 60 %, calculada nos termos do Decreto-Lei n.º 352/2007, de 23 de Outubro, devidamente comprovada.\n\n5 - [Revogado.]\n\n6 - Os montantes e a periodicidade de liquidação das taxas referidas no n.º 1, bem como as percentagens das reduções a que se refere o n.º 4, são fixados por portaria nos termos do n.º 2 do artigo 37.º dos Estatutos da Autoridade Nacional de Comunicações, aprovados em anexo ao Decreto-Lei n.º 39/2015, de 16 de março, constituindo receita desta.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127457575": {
+   "fragment_id": "37779175",
+   "type": 11,
+   "heading": "Artigo 21.º — Contraordenações e coimas",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 21.º — Contraordenações e coimas\n\n1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações as seguintes infracções:\n\na) A utilização de qualquer estação de amador sem a prévia obtenção de um CAN ou de outro documento habilitante emitido ao abrigo do presente decreto-lei, em violação do n.º 1 do artigo 3.º;\n\nb) A utilização de uma estação em desrespeito pelas regras estabelecidas nos n.os 1 e 3 do artigo 8.º;\n\nc) [Revogada.]\n\nd) A utilização de uma estação sem a necessária supervisão, nos casos previstos no n.º 2 do artigo 8.º;\n\ne) A utilização de uma estação, própria ou alheia, fora das faixas de frequências ou excedendo os limites definidos para essas faixas, ou não respeitando as larguras de faixa necessárias à respetiva utilização, bem como a utilização de indicativos de chamada em desacordo com o estipulado, em violação das obrigações fixadas nas alíneas a) e b) do n.º 1 do artigo 12.º;\n\nf) A não cessação imediata da actividade pelos titulares de CAN, em caso de suspensão, revogação ou caducidade do CAN, em violação do n.º 10 do artigo 6.º;\n\ng) A não cessação imediata do funcionamento de uma estação de uso comum, em caso de caducidade ou revogação da respetiva licença, em violação da alínea a) do n.º 10 do artigo 10.º;\n\nh) A não devolução do CAN, em violação dos n.os 10 e 11 do artigo 6.º;\n\ni) A não devolução da licença de uso comum, em violação da alínea b) do n.º 10 e do n.º 11 do artigo 10.º;\n\nj) A não comunicação à ANACOM, pelo respetivo titular, das alterações relativas aos dados expressos no CAN ou na adequada licença CEPT ou UIT, em violação da alínea b) do n.º 4 do artigo 6.º e do n.º 2 do artigo 11.º, respetivamente;\n\nl) A colocação em funcionamento e a utilização de estações de uso comum, sem a licença prevista no n.º 2 do artigo 9.º;\n\nm) A não comunicação ao ICP-ANACOM, pelo respectivo titular, das alterações dos dados da licença, em violação da alínea b) do n.º 7 do artigo 10.º;\n\nn) A utilização de estações de amador para fim diverso do referido nas alíneas a) e b) do n.º 1 do artigo 2.º, em violação da alínea c) do n.º 1 do artigo 12.º;\n\no) A utilização de estações de amador a bordo de aeronaves ou embarcações sem autorização expressa das autoridades competentes, em violação da alínea d) do n.º 1 do artigo 12.º;\n\np) A utilização de códigos, abreviaturas ou mensagens codificadas, com o intuito de obscurecer o seu significado ou tornar a comunicação pouco clara ou imperceptível, bem como a emissão de falsos indicativos de chamada e falsos sinais de identificação ou de alarme, em violação da alínea e) do n.º 1 do artigo 12.º;\n\nq) A interferência nas comunicações de outras estações de amador ou de outros serviços de radiocomunicações, ou a utilização de uma frequência do serviço de amador ou do serviço de amador por satélite de forma a impedir o acesso à mesma por outros amadores, em violação da alínea f) do n.º 1 do artigo 12.º;\n\nr) A utilização de estações de amador em desacordo com o disposto no CAN ou na licença de estação de uso comum ou a omissão do dever de manter as estações em bom estado de funcionamento, nomeadamente no sentido de evitar a ocorrência de interferências prejudiciais, bem como o desrespeito das condicionantes legalmente previstas, aplicáveis aos equipamentos de rádio, em violação da alínea g) do n.º 1 do artigo 12.º ou da alínea a) do n.º 1 do artigo 13.º;\n\ns) O estabelecimento de comunicações em violação da alínea h) do n.º 1 do artigo 12.º;\n\nt) A transmissão de mensagens de terceiros ou destinadas a terceiros, obtidas por intercepção, em violação da alínea i) do n.º 1 do artigo 12.º;\n\nu) A retransmissão de emissões de estações de quaisquer outros serviços de radiocomunicações em violação da alínea j) do n.º 1 do artigo 12.º;\n\nv) [Revogada.]\n\nx) O incumprimento dos limites definidos, contrariando o preceituado na alínea b) do n.º 1 do artigo 13.º;\n\nz) O desrespeito das condicionantes definidas no Regulamento das Radiocomunicações conforme estipulado na alínea e) do n.º 1 do artigo 13.º;\n\naa) A permissão de utilização de estação a indivíduo não habilitado, em violação da alínea g) do n.º 1 do artigo 13.º;\n\nbb) A não permissão da fiscalização das estações, em violação dos deveres estabelecidos na alínea h) do n.º 1 do artigo 13.º, incluindo a não apresentação de licença, bem como a não apresentação do CAN ou de outro documento habilitante às entidades de fiscalização, contrariando o disposto na alínea l) do n.º 1 do artigo 12.º;\n\ncc) A permissão de utilização de uma estação de uso comum sem frequências consignadas por um amador menor de 16 anos, sem a adequada supervisão por parte do amador ou amadores responsáveis pelo seu funcionamento, em violação da alínea c) do n.º 2 do artigo 13.º;\n\ndd) A omissão da obrigação de remessa à ANACOM ou de colocação em plataforma eletrónica, da informação referida na alínea d) do n.º 2 do artigo 13.º, em incumprimento dessa alínea ou o fornecimento de informações falsas ou enganosas;\n\nee) O incumprimento das condições fixadas nas autorizações especiais, em violação dos n.os 1, 2 e 3 do artigo 14.º;\n\nff) O incumprimento da determinação do ICP-ANACOM de suspensão da utilização das faixas de frequência autorizadas em caso de ocorrência de interferências, nos termos do n.º 2 do artigo 17.º;\n\ngg) A omissão do dever de colaboração com o ICP-ANACOM na resolução de interferências, contrariando o preceituado na alínea f) do n.º 1 do artigo 13.º\n\n2 - São contraordenações leves as previstas nas alíneas h), i), j), m) e dd) do número anterior.\n\n3 - São contraordenações graves as previstas nas alíneas b), n), z), cc) e gg) do n.º 1.\n\n4 - São contraordenações muito graves as previstas nas alíneas a), e) a g), l), o) a u), x), aa), bb), ee) e ff) do n.º 1.\n\n5 - As contraordenações leves são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, de 100 € a 1000 €;\n\nb) Se praticadas por microempresa, de 200 € a 2000 €;\n\nc) Se praticadas por pequena empresa, de 400 € a 4000 €;\n\nd) Se praticadas por média empresa, de 800 € a 8000 €;\n\ne) Se praticadas por grande empresa, de 2000 € a 20 000 €.\n\n6 - As contraordenações graves são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, de 250 € a 2500 €;\n\nb) Se praticadas por microempresa, de 500 € a 5000 €;\n\nc) Se praticadas por pequena empresa, de 1000 € a 10 000 €;\n\nd) Se praticadas por média empresa, de 2000 € a 20 000 €;\n\ne) Se praticadas por grande empresa, de 5000 € a 50 000 €.\n\n7 - As contraordenações muito graves são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, de 500 € a 5000 €;\n\nb) Se praticadas por microempresa, de 1000 € a 10 000 €;\n\nc) Se praticadas por pequena empresa, de 2000 € a 20 000 €;\n\nd) Se praticadas por média empresa, de 4000 € a 40 000 €;\n\ne) Se praticadas por grande empresa, de 10 000 € a 100 000 €.\n\n8 - A tentativa e a negligência são puníveis, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127457775": {
+   "fragment_id": "37779475",
+   "type": 11,
+   "heading": "Artigo 24.º — Processamento das contraordenações",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 24.º — Processamento das contraordenações\n\n1 - A instauração e decisão dos processos de contra-ordenação são da competência do conselho de administração do ICP-ANACOM, cabendo a instrução dos mesmos aos respectivos serviços.\n\n2 - As competências previstas no número anterior podem ser delegadas.\n\n3 - Em tudo o que não esteja previsto no presente decreto-lei, aplica-se à tramitação das contraordenações o regime previsto no regime quadro das contraordenações do setor das comunicações, aprovado pela Lei n.º 99/2009, de 4 de setembro, e subsidiariamente o regime jurídico do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro.\n\n4 - Para efeitos de imputação de contraordenações e aplicação das respetivas sanções previstas no presente decreto-lei, consideram-se inimputáveis os menores de 16 anos.\n\n5 - O montante das coimas reverte para o Estado em 60 % e para o ICP-ANACOM em 40 %.\n\n6 - O ICP-ANACOM pode dar adequada publicidade às sanções aplicadas em processo de contra-ordenação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127458675": {
+   "fragment_id": "37779575",
+   "type": 11,
+   "heading": "Artigo 25.º — Regularização de títulos",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 25.º — Regularização de títulos\n\n1 - As licenças que, nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 5/95, de 17 de Janeiro, tenham sido atribuídas pelo ICP-ANACOM a associações de amadores, manter-se-ão válidas até à emissão das novas licenças de estação de uso comum, sem quaisquer custos para os respectivos titulares.\n\n2 - Os CAN das categorias A, B e C previstos no presente decreto-lei são atribuídos, no prazo de um ano a contar da data da sua entrada em vigor e sem quaisquer encargos para os respectivos titulares, aos amadores titulares de CAN ou de licenças de estação de amador nacional válidas, emitidos ao abrigo da legislação agora revogada, que mantêm a respectiva categoria.\n\n3 - As licenças referidas no n.º 1 do artigo 11.º são emitidas no mesmo documento do CAN, quando aplicável, sem quaisquer encargos para os respectivos titulares, mantendo-se válidas, até à conclusão desse processo, as licenças CEPT emitidas ao abrigo da legislação que agora se revoga.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127457975": {
+   "fragment_id": "37779675",
+   "type": 11,
+   "heading": "Artigo 26.º — Utilização de meios eletrónicos",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 26.º — Utilização de meios eletrónicos\n\nPodem ser utilizados meios eletrónicos, a definir e publicitar pela ANACOM, em todos os procedimentos que envolvam a comunicação entre a ANACOM e os titulares de CAN e ou de licenças de estação de uso comum, designadamente no que se refere à emissão, alteração e revogação dos CAN e das licenças, a todos os requerimentos a submeter àquela autoridade e à emissão de certificados ou de licenças.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  },
+  "1127458475": {
+   "fragment_id": "37779775",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 5/95, de 17 de Janeiro;\n\nb) A Portaria n.º 322/95, de 17 de Abril;\n\nc) A Portaria n.º 358/95, de 24 de Abril;\n\nd) A Portaria n.º 394/98, de 11 de Julho."
+  },
+  "1127458875": {
+   "fragment_id": "37779875",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.\n\n2 - [Revogado.]\n\nVisto e aprovado em Conselho de Ministros de 17 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.\n\nPromulgado em 18 de Fevereiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de Fevereiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 22/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/lei/22-2026-1126675654), em vigor a partir de 2026-08-25."
+  }
+ }
+}

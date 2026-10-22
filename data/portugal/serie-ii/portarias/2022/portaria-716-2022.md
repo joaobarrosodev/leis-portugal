@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:202281080:por
+title: Portaria n.º 716/2022
+short_title: null
+summary: Fixa as condições e os critérios gerais da compensação devida aos titulares de direitos de utilização de frequências
+  na faixa dos 1800 MHz pelos custos incorridos com a alteração da consignação do espectro radioelétrico na referida faixa
+  de frequências
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Infraestruturas e Habitação - Gabinete do Secretário de Estado das Infraestruturas
+proposing_entity: null
+official_number: 716/2022
+official_date: null
+publication_date: '2022-10-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/2022, Série II de 2022-10-17
+  number: '200'
+  series: II
+  supplement: null
+  pages: 63 - 65
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/10/200000000/0006300065.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '202281080'
+  dre_path: /dr/detalhe/portaria/716-2022-202281080
+  internal: pt:dre:202281080:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/716-2022-202281080
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/716-2022-202281080
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-10-17T00:00:00Z'
+integrity:
+  source_sha256: 671462720690b2d74017f4c044f9ebb737d827c2e6316eac5f9443b5af129f34
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-716-202281080.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 716/2022
+
+No âmbito do comummente designado leilão multifaixa (leilão para a atribuição de direitos de utilização de frequências nas faixas dos 450 MHz, 800 MHz, 900 MHz, 1800 MHz, 2,1 GHz e 2,6 GHz), a Autoridade Nacional de Comunicações (ANACOM), por deliberação de 6 de janeiro de 2012, atribuiu, em conformidade com os termos e condições previstos no [Regulamento n.º 560-A/2011](https://diariodarepublica.pt/dr/detalhe/regulamento/560-a-2011-1428566), de 19 de outubro (Regulamento do Leilão), direitos de utilização de frequências, nomeadamente na faixa dos 1800 MHz, às então Optimus - Comunicações, S. A., e TMN - Telecomunicações Móveis Nacionais, S. A., e ainda à Vodafone Portugal - Comunicações Pessoais, S. A.
+
+Na sequência desta atribuição de frequências, teve lugar, conforme previsto no artigo 31.º do Regulamento do Leilão, o processo de consignação específico para a faixa dos 1800 MHz, ou seja, de localização exata do espectro a consignar naquela faixa, tendo em conta o número de lotes atribuídos no leilão, bem como o espectro já consignado nessa mesma faixa no âmbito de direitos de utilização de frequências anteriormente atribuídos. Este processo envolveu a redistribuição do espectro na faixa dos 1800 MHz, mediante um acordo alcançado entre os três operadores de redes móveis, posteriormente homologado pela ANACOM, por deliberação de 9 de março de 2012.
+
+Verificando-se que o referido acordo implicou a alteração da consignação de frequências na faixa dos 1800 MHz vigente à data de entrada em vigor do referido Regulamento do Leilão, determina o n.º 6 do seu artigo 31.º que podem ser atribuídas compensações destinadas a cobrir, no todo ou em parte, eventuais custos associados às referidas alterações, nos termos do regime previsto no artigo 4.º do [Decreto-Lei n.º 151-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-a-2000-514399), de 20 de julho, na sua redação atual.
+
+Com efeito, dispõe o n.º 2 do artigo 4.º do citado diploma que a ANACOM, no exercício das competências que lhe estão legalmente atribuídas, pode, a todo o tempo, alterar a consignação de frequências para o funcionamento e utilização das redes e estações de radiocomunicações, na medida em que tal seja necessário para a prossecução do interesse público, no âmbito da gestão do espectro radioelétrico, de acordo com critérios de proporcionalidade e no respeito pelos direitos adquiridos. E, nos termos do disposto no n.º 4 do mesmo artigo 4.º será, nestes casos, concedida uma compensação aos titulares das licenças para cobrir, no todo ou em parte, encargos que comprovadamente se verifiquem com a alteração da consignação de frequências, nas condições e mediante os critérios gerais a definir por portaria do membro do Governo responsável pela área das comunicações.
+
+Neste contexto, considerando que:
+
+i) Nos termos do disposto no artigo 31.º do Regulamento do Leilão, bem como no acordo homologado pela ANACOM, as então Optimus, TMN e Vodafone procederam à efetivação da redistribuição das frequências, tendo aquela Autoridade emitido as respetivas licenças radioelétricas em 10 de maio de 2012, 1 de agosto de 2012 e 29 de outubro de 2012, com a alteração do espectro consignado na faixa dos 1800 MHz;
+
+ii) No decurso do procedimento de audiência prévia a que foi sujeito o projeto de portaria, os três operadores apresentaram custos relacionados com o referido processo, tendo sido determinado o valor médio de compensação a atribuir por cada estação de base que tenha sido efetivamente reconfigurada para assegurar a redistribuição do espectro na faixa dos 1800 MHz;
+
+importa agora definir as condições e critérios gerais de atribuição da compensação pelos custos incorridos com a alteração da consignação do espectro da faixa de frequências dos 1800 MHz.
+
+Assim, nos termos do disposto no n.º 4 do artigo 4.º do [Decreto-Lei n.º 151-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-a-2000-514399), de 20 de julho, na sua redação atual, e no n.º 4 do artigo 35.º dos Estatutos da ANACOM, aprovados pelo [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), de 16 de março, manda o Governo, pelo Secretário de Estado das Infraestruturas, o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+A presente portaria fixa as condições e os critérios gerais da compensação devida aos titulares de direitos de utilização de frequências na faixa dos 1800 MHz pelos custos incorridos com a alteração da consignação do espectro radioelétrico na referida faixa de frequências, na sequência do leilão para a atribuição de direitos de utilização de frequências nas faixas dos 450 MHz, 800 MHz, 900 MHz, 1800 MHz, 2,1 GHz e 2,6 GHz, bem como o respetivo procedimento de atribuição.
+
+###### Artigo 2.º — Critérios gerais da compensação
+
+1 - A compensação devida aos titulares de direitos de utilização de frequências na faixa dos 1800 MHz pelos custos incorridos com a alteração da consignação do espectro radioelétrico na referida faixa de frequências, na sequência do leilão para a atribuição de direitos de utilização de frequências nas faixas dos 450 MHz, 800 MHz, 900 MHz, 1800 MHz, 2,1 GHz e 2,6 GHz, é a que, comprovada e exclusivamente, tiver resultado da reconfiguração das estações de base de modo a efetivar a alteração referida.
+
+2 - Por reconfiguração de estações de base entende-se as modificações necessariamente efetuadas nas estações que, à data, integravam as redes de radiocomunicações licenciadas na faixa dos 1800 MHz, nomeadamente a instalação ou alteração de filtros, incluindo os encargos de instalação e correspondentes acessórios (cabos e conectores).
+
+###### Artigo 3.º — Condições de atribuição da compensação
+
+1 - A compensação média a atribuir por cada estação de base reconfigurada, nos termos definidos no n.º 2 do artigo anterior, é de (euro) 1966.
+
+2 - Os valores apurados nos termos do número anterior são atualizados mediante aplicação do coeficiente de desvalorização da moeda aprovado pela portaria, prevista no artigo 47.º do Código do Imposto Sobre o Rendimento das Pessoas Coletivas (Código do IRC) e no artigo 50.º do Código do Imposto Sobre o Rendimento das Pessoas Singulares (CIRS), mais recente que se encontre em vigor à data do requerimento sobre a respetiva atribuição, apresentado pelos titulares de direitos de utilização de frequências na faixa dos 1800 MHz, nos termos do disposto no artigo 4.º da presente Portaria.
+
+###### Artigo 4.º — Procedimentos de compensação
+
+1 - Para efeitos do pagamento da compensação devida, os titulares de direitos de utilização de frequências na faixa dos 1800 MHz, abrangidos pela alteração da consignação, devem requerer a respetiva atribuição e comprovar junto da ANACOM os custos em que incorreram, nos termos seguintes:
+
+a) Para os custos associados ao fornecimento de serviços externos, através do envio das cópias das faturas, com discriminação das ações efetuadas e as correspondentes importâncias, e
+
+b) Para os custos suportados com a mão-de-obra interna, através do envio de cópia do reporte de horas e da folha de custos dos trabalhadores afetos à reconfiguração das estações de base, nos termos definidos no n.º 2 do artigo 2.º da presente portaria, ou, na ausência desta informação, outra que suporte e permita validar os respetivos valores.
+
+2 - Para efeitos do disposto no número anterior, só serão consideradas as faturas com datas abrangidas pelo prazo de efetivação de redistribuição das frequências e que, como tal, tenham sido emitidas entre 9 de janeiro de 2012 - 60 dias antes da data da decisão da ANACOM que homologou o acordo quanto à localização do espectro na faixa dos 1800 MHz - e até 120 dias após a data da efetiva redistribuição das frequências comunicada à ANACOM, por cada um dos titulares de direitos de utilização de frequências.
+
+###### Artigo 5.º — Execução da Portaria
+
+Os encargos decorrentes da execução da presente portaria são suportados através do orçamento da ANACOM.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+3 de outubro de 2022. - O Secretário de Estado das Infraestruturas, Hugo Santos Mendes.

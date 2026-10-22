@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:913223437:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso-extrato/2025-1166408175",
+ "dre_path": "/dr/detalhe/aviso-extrato/8583-2025-913223437",
+ "source_lastmod": "2026-09-10",
+ "versions": [
+  {
+   "date": "2025-04-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1166426275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1166426275": {
+   "fragment_id": "1166408275",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em cumprimento do disposto na alínea b) do n.º 1 do artigo 4.º da Lei n.º 35/2014, de 20 de junho, torna-se público que na sequência de procedimento concursal comum para ocupação de postos de trabalho do mapa de pessoal dos Serviços Sociais da Administração Pública, foi celebrado contrato de trabalho em funções públicas por tempo indeterminado com as trabalhadoras abaixo identificadas, tendo as mesmas concluído o período experimental com sucesso:\n\n| Nome | Cargo/carreira | Nível remuneratório | Data de efeito |\n| --- | --- | --- | --- |\n| Ângela de Lurdes Cordeiro Rentes Aires | Assistente Técnico | 7 | 01-11-2024 |\n| Paula Cristina Ramos dos Santos | Assistente Técnico | 7 | 01-11-2024 |"
+  }
+ }
+}

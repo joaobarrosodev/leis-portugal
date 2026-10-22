@@ -1,0 +1,143 @@
+---
+schema_version: '1.0'
+id: pt:dre:219092:por
+title: Portaria n.º 374/2004
+short_title: null
+summary: Aprova o modelo de alvará a emitir pelo Instituto Português da Juventude às entidades organizadoras que preencham
+  os requisitos legais para o efeito e tenham apresentado o pedido de emissão de licença
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 374/2004
+official_date: null
+publication_date: '2004-04-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/2004, Série I-B de 2004-04-13
+  number: '87'
+  series: I
+  supplement: null
+  pages: 2260 - 2260
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/04/087b00/22602260.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/374/2004/04/13/p/dre/pt/html
+  oj: null
+  dre: '219092'
+  dre_path: /dr/detalhe/portaria/374-2004-219092
+  internal: pt:dre:219092:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/374-2004-219092
+  metadata_url: https://data.dre.pt/eli/port/374/2004/04/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/374-2004-219092
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-04-13T00:00:00Z'
+integrity:
+  source_sha256: 3d910946d65663bb0e3551c22b92b928fd1508e53a503ecd77f6d6f41dfeadd4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-374-219092.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alvará
+- Campo de Férias
+- Instituto Português da Juventude
+- Licenciamento
+- Preço
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/304/2003/12/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/304/2003/12/09/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 374/2004
+
+de 13 de Abril
+
+O artigo 6.º do [Decreto-Lei n.º 304/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2003-429175), de 9 de Dezembro, diploma que estabelece o regime jurídico de acesso e de exercício da actividade de organização de campos de férias, determina que a mesma depende da emissão de licença, titulada por alvará, a conceder pelo Instituto Português da Juventude.
+
+Assim:
+
+Ao abrigo do disposto no artigo 6.º do [Decreto-Lei n.º 304/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2003-429175), de 9 de Dezembro:
+
+Manda o Governo, pelo Ministro Adjunto do Primeiro-Ministro, o seguinte:
+
+1.º É aprovado o modelo de alvará a emitir pelo Instituto Português da Juventude às entidades organizadoras que preencham os requisitos legais para o efeito e tenham apresentado o pedido de emissão de licença, em conformidade com o disposto no artigo 7.º do [Decreto-Lei n.º 304/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2003-429175), de 9 de Dezembro.
+
+2.º O modelo de alvará de licença consta no anexo à presente portaria, que dela faz parte integrante.
+
+3.º A licença titulada por alvará poderá ser emitida em suporte electrónico, sequencialmente numerada, emitida em duplicado, sendo, após a sua emissão e autenticação, arquivado um dos exemplares nos serviços centrais do Instituto Português da Juventude.
+
+4.º Os custos de emissão de licença, titulada por alvará, são fixados no montante de (euro) 25, quantia que reverte para a entidade emitente.
+
+5.º A autenticação de cópia de alvará terá o mesmo custo que a emissão em original.
+
+6.º O acesso a documentos administrativos será suportado pelos interessados, em conformidade com o disposto no despacho conjunto n.º 280/97, de 7 de Agosto, da Presidência do Conselho de Ministros e do Ministério das Finanças, publicado no Diário da República, 2.ª série, n.º 200, de 30 de Agosto de 1997.
+
+7.º A presente portaria entra em vigor no dia imediatamente seguinte ao da sua publicação.
+
+**O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte, em 26 de Março de 2004.**
+
+## ANEXO — Presidência do Conselho de Ministros
+
+Secretaria de Estado da Juventude e Desportos
+
+Instituto Português da Juventude
+
+Ano: ...
+
+Alvará n.º ...
+
+O Instituto Português da Juventude, em conformidade com o disposto no artigo 6.º do [Decreto-Lei n.º 304/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2003-429175), de 9 de Dezembro, concede licença, titulada pelo presente alvará, para o exercício da actividade de organização de campos de férias, à entidade organizadora denominada por ..., com sede em ..., concelho de ..., distrito de ..., com o número de identificação fiscal ...
+
+Nos termos do n.º 2 do artigo 6.º do referido diploma, a presente licença é concedida pelo período de três anos, podendo a mesma renovar-se automaticamente por igual período, nos termos das disposições legais em vigor.
+
+A suspensão da licença, interdição do exercício da actividade ou encerramento das instalações, determinará o cancelamento do presente alvará.
+
+Lisboa, ... de ... de ...
+
+Pela Comissão Executiva,
+
+**O Presidente, ...**
+
+(selo branco)

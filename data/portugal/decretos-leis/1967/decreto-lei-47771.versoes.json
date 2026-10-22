@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:311640:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1967-877086628",
+ "dre_path": "/dr/detalhe/decreto-lei/47771-1967-311640",
+ "source_lastmod": "2024-08-13",
+ "versions": [
+  {
+   "date": "1967-06-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "877087466",
+    "877087405",
+    "877087406",
+    "877087407"
+   ]
+  },
+  {
+   "date": "1977-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:252870:por",
+     "title": "Lei n.º 33/77",
+     "published": "1977-05-28",
+     "dre_path": "/dr/detalhe/lei/33-1977-252870"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "877087404",
+    "877087459",
+    "877087406",
+    "877087458",
+    "877087408"
+   ]
+  },
+  {
+   "date": "1985-12-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:170354:por",
+     "title": "Decreto-Lei n.º 495/85",
+     "published": "1985-11-29",
+     "dre_path": "/dr/detalhe/decreto-lei/495-1985-170354"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "877087466",
+    "877087467",
+    "877087468",
+    "877087469",
+    "877087470"
+   ]
+  }
+ ],
+ "fragments": {
+  "877087466": {
+   "fragment_id": "877086629",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1985-12-04",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 47771\n\nTornando-se necessário definir as linhas de fecho e de base rectas que, na costa continental europeia e nas costas das províncias da Guiné, Angola e Moçambique, suplementam a linha de base estabelecida no n.º 1.º da base I da Lei n.º 2130, de 22 de Agosto de 1966;\n\nAo abrigo do disposto no n.º 2.º da base acima referida;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "877087405": {
+   "fragment_id": "877086630",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNa costa continental europeia e nas costas das províncias da Guiné, Angola e Moçambique a linha de base normal para a medição da largura do mar territorial, estabelecida na base I da Lei n.º 2130, é suplementada pelas linhas de fecho e de base rectas definidas pelos pontos cujas coordenadas geográficas constam dos quadros seguintes:\n\n1) Linhas de fecho e da base rectas que, na costa continental europeia, suplementam a linha de base normal:\n\n(ver documento original)\n\n2) Linhas de fecho e de base rectas que, na Guiné, suplementam a linha de base normal:\n\n(ver documento original)\n\n3) Linhas de fecho e da base rectas que, em Angola, suplementam a linha de base normal:\n\n(ver documento original)\n\n4) Linhas de fecho e de base rectas que, em Moçambique, suplementam a linha de base normal:\n\n(ver documento original)"
+  },
+  "877087406": {
+   "fragment_id": "877086631",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAlém das referidas no artigo anterior, o Estado Português utiliza, como linha de base para a medição da largura do mar territorial, as linhas de fecho que resultam da aplicação do direito internacional à entrada de enseadas usadas para carga, descarga e ancoradouro de navios, às embocaduras dos rios e à entrada dos portos."
+  },
+  "877087407": {
+   "fragment_id": "877086632",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Estado Português definirá oportunamente, de acordo com o direito internacional, as linhas de fecho de base rectas referentes às costas de outras parcelas do território nacional."
+  },
+  "877087404": {
+   "fragment_id": "877086629",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 47771\n\nTornando-se necessário definir as linhas de fecho e de base rectas que, na costa continental europeia e nas costas das províncias da Guiné, Angola e Moçambique, suplementam a linha de base estabelecida no n.º 1.º da base I da Lei n.º 2130, de 22 de Agosto de 1966;\n\nAo abrigo do disposto no n.º 2.º da base acima referida;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "877087459": {
+   "fragment_id": "877086630",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1977-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 33/77 - Diário da República n.º 124/1977, Série I de 1977-05-28](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), em vigor a partir de 1977-06-02",
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 176/1967, Série I de 1967-07-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1967-313445), produz efeitos a partir de 1967-07-02"
+   ],
+   "markdown": "###### Artigo 1.º\n\nNa costa continental europeia a linha de base normal para a medição da largura do mar territorial, estabelecida na base I da Lei n.º 2130, é suplementada pelas linhas de fecho e de base rectas definidas pelos pontos cujas coordenadas geográficas constam dos quadros seguintes:\n\n1) Linhas de fecho e de base rectas que, na costa continental europeia, suplementam a linha de base normal:\n\n(ver documento original)\n\n2) [Revogada.]\n\n3) [Revogada.]\n\n4) [Revogada.]\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 33/77 - Diário da República n.º 124/1977, Série I de 1977-05-28](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), em vigor a partir de 1977-06-02\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 176/1967, Série I de 1967-07-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1967-313445), produz efeitos a partir de 1967-07-02"
+  },
+  "877087458": {
+   "fragment_id": "877086632",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 176/1967, Série I de 1967-07-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1967-313445), produz efeitos a partir de 1967-07-02"
+   ],
+   "markdown": "###### Artigo 3.º\n\nO Estado Português definirá oportunamente, de acordo com o direito internacional, as linhas de fecho e de base rectas referentes às costas de outras parcelas do território nacional.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 176/1967, Série I de 1967-07-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1967-313445), produz efeitos a partir de 1967-07-02"
+  },
+  "877087408": {
+   "fragment_id": "877086633",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Publique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 27 de Junho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha."
+  },
+  "877087467": {
+   "fragment_id": "877086630",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1985-12-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 495/85 - Diário da República n.º 275/1985, Série I de 1985-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1985-170354), em vigor a partir de 1985-12-04",
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 33/77 - Diário da República n.º 124/1977, Série I de 1977-05-28](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), em vigor a partir de 1977-06-02",
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 176/1967, Série I de 1967-07-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1967-313445), produz efeitos a partir de 1967-07-02"
+   ],
+   "markdown": "###### Artigo 1.º\n\nNa costa continental europeia a linha de base normal para a medição da largura do mar territorial, estabelecida na base I da Lei n.º 2130, é suplementada pelas linhas de fecho e de base rectas definidas pelos pontos cujas coordenadas geográficas constam dos quadros seguintes:\n\n1) Linhas de fecho e de base rectas que, na costa continental europeia, suplementam a linha de base normal:\n\n(ver documento original)\n\n2) [Revogada.]\n\n3) [Revogada.]\n\n4) [Revogada.]\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 495/85 - Diário da República n.º 275/1985, Série I de 1985-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1985-170354), em vigor a partir de 1985-12-04\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 33/77 - Diário da República n.º 124/1977, Série I de 1977-05-28](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), em vigor a partir de 1977-06-02\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 176/1967, Série I de 1967-07-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1967-313445), produz efeitos a partir de 1967-07-02"
+  },
+  "877087468": {
+   "fragment_id": "877086631",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1985-12-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 495/85 - Diário da República n.º 275/1985, Série I de 1985-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1985-170354), em vigor a partir de 1985-12-04"
+   ],
+   "markdown": "###### Artigo 2.º\n\nAlém das referidas no artigo anterior, o Estado Português utiliza, como linha de base para a medição da largura do mar territorial, as linhas de fecho que resultam da aplicação do direito internacional à entrada de enseadas usadas para carga, descarga e ancoradouro de navios, às embocaduras dos rios e à entrada dos portos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 495/85 - Diário da República n.º 275/1985, Série I de 1985-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1985-170354), em vigor a partir de 1985-12-04"
+  },
+  "877087469": {
+   "fragment_id": "877086632",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1985-12-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 495/85 - Diário da República n.º 275/1985, Série I de 1985-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1985-170354), em vigor a partir de 1985-12-04",
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 176/1967, Série I de 1967-07-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1967-313445), produz efeitos a partir de 1967-07-02"
+   ],
+   "markdown": "###### Artigo 3.º\n\nO Estado Português definirá oportunamente, de acordo com o direito internacional, as linhas de fecho e de base rectas referentes às costas de outras parcelas do território nacional.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 495/85 - Diário da República n.º 275/1985, Série I de 1985-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1985-170354), em vigor a partir de 1985-12-04\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 176/1967, Série I de 1967-07-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1967-313445), produz efeitos a partir de 1967-07-02"
+  },
+  "877087470": {
+   "fragment_id": "877086633",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1985-12-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 495/85 - Diário da República n.º 275/1985, Série I de 1985-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1985-170354), em vigor a partir de 1985-12-04"
+   ],
+   "markdown": "Publique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 27 de Junho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 495/85 - Diário da República n.º 275/1985, Série I de 1985-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1985-170354), em vigor a partir de 1985-12-04"
+  }
+ }
+}

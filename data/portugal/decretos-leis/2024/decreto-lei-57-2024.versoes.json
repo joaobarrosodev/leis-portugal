@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:887319191:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-887317007",
+ "dre_path": "/dr/detalhe/decreto-lei/57-2024-887319191",
+ "source_lastmod": "2024-09-13",
+ "versions": [
+  {
+   "date": "2024-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887317261",
+    "887317262",
+    "887317263",
+    "887317264",
+    "887317265",
+    "887317266"
+   ]
+  }
+ ],
+ "fragments": {
+  "887317261": {
+   "fragment_id": "887317008",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 57/2024\n\nde 10 de setembro\n\nConforme referido no Programa do XXIV Governo Constitucional, é sua determinação revogar medidas penalizadoras do alojamento local entre as quais se destaca a contribuição extraordinária sobre o alojamento local (CEAL) e outras normas fiscais desproporcionais, criadas no âmbito do programa Mais Habitação, aprovado pela Lei n.º 56/2023, de 6 de outubro, do anterior Governo. De facto, tais medidas restritivas limitam os direitos de propriedade, bem como a iniciativa económica privada.\n\nPor outro lado, pretende-se facilitar a mobilidade geográfica das pessoas, bem como atender a alterações das circunstâncias pessoais e profissionais, promovendo uma maior liberdade, igualdade de oportunidades e mobilidade.\n\nNeste contexto, são revogadas a CEAL e a fixação do coeficiente de vetustez aplicável aos estabelecimentos de alojamento local para efeitos da liquidação do imposto municipal sobre imóveis, bem como é facilitada a mobilidade geográfica, através de medidas em sede de imposto sobre o rendimento das pessoas singulares.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 35/2024, de 7 de agosto, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "887317262": {
+   "fragment_id": "887317009",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei revoga a contribuição extraordinária sobre o alojamento local, bem como a fixação do coeficiente de vetustez aplicável aos estabelecimentos de alojamento local para efeitos da liquidação do imposto municipal sobre imóveis e elimina obstáculos fiscais à mobilidade geográfica.\n\n2 - Para efeitos do disposto no número anterior, o presente decreto-lei procede à alteração dos seguintes diplomas:\n\na) Lei n.º 56/2023, de 6 de outubro, na sua redação atual, que aprova medidas no âmbito da habitação, procedendo a diversas alterações legislativas;\n\nb) Código do Imposto Municipal sobre Imóveis (Código do IMI), aprovado em anexo ao Decreto-Lei n.º 287/2003, de 12 de novembro, na sua redação atual;\n\nc) Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado em anexo ao Decreto-Lei n.º 442-A/88, de 30 de novembro, na sua redação atual."
+  },
+  "887317263": {
+   "fragment_id": "887317010",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares\n\nOs artigos 10.º e 41.º do Código do IRS passam a ter a seguinte redação:\n\n\"Artigo 10.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) O imóvel transmitido tenha sido destinado a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, comprovada através do respetivo domicílio fiscal, nos 12 meses anteriores à data da transmissão, ou, quando anterior, à data do reinvestimento previsto na alínea a), salvo se a inobservância deste período se tenha devido a circunstâncias excecionais, nos termos do n.º 23;\n\nf) (Revogada.)\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]\n\n13 - [...]\n\n14 - [...]\n\n15 - [...]\n\n16 - [...]\n\n17 - [...]\n\n18 - [...]\n\n19 - [...]\n\n20 - [...]\n\n21 - [...]\n\n22 - [...]\n\n23 - Para efeitos da alínea e) do n.º 5 consideram-se circunstâncias excecionais, nomeadamente, as alterações da composição do respetivo agregado familiar por motivo de casamento ou união de facto, dissolução do casamento ou união de facto, ou aumento do número de dependentes.\n\nArtigo 41.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - Aos rendimentos prediais brutos decorrentes de contrato de arrendamento habitacional deduzem-se, até à sua concorrência, os gastos suportados pelo sujeito passivo com o pagamento de rendas de imóvel afeto à sua habitação própria e permanente, desde que reunidas as seguintes condições:\n\na) O imóvel gerador dos rendimentos prediais tenha sido, anteriormente ao seu arrendamento, destinado a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, comprovada através do respetivo domicílio fiscal, durante, pelo menos, 12 meses;\n\nb) O sujeito passivo tenha alterado a sua habitação própria e permanente, comprovada através do respetivo domicílio fiscal, para um local a distância superior a 100 km do local do imóvel gerador dos rendimentos prediais;\n\nc) Ambos os contratos de arrendamento estejam registados no Portal das Finanças da Autoridade Tributária e Aduaneira.\n\n9 - (Anterior n.º 8.)\""
+  },
+  "887317264": {
+   "fragment_id": "887317011",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nSão revogados:\n\na) A alínea h) do n.º 2 do artigo 1.º, o artigo 22.º e o anexo da Lei n.º 56/2023, de 6 de outubro, na sua redação atual;\n\nb) O n.º 3 do artigo 44.º do Código do IMI;\n\nc) A alínea f) do n.º 5 do artigo 10.º do Código do IRS."
+  },
+  "887317265": {
+   "fragment_id": "887317012",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nAs alíneas a) e b) do artigo anterior produzem efeitos a 31 de dezembro de 2024."
+  },
+  "887317266": {
+   "fragment_id": "887317013",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

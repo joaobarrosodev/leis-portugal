@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:632240:por
+title: Portaria n.º 713/71
+short_title: null
+summary: Define as sobrecargas a considerar para o dimensionamento das estruturas de auto-silos para veículos ligeiros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas - Gabinete do Ministro
+proposing_entity: null
+official_number: 713/71
+official_date: null
+publication_date: '1971-12-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 299/1971, Série I de 1971-12-23
+  number: '299'
+  series: I
+  supplement: null
+  pages: 1992 - 1993
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/12/29900/19921993.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '632240'
+  dre_path: /dr/detalhe/portaria/713-1971-632240
+  internal: pt:dre:632240:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/713-1971-632240
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/713-1971-632240
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-05-31T00:00:00Z'
+integrity:
+  source_sha256: 00bac263884d548e64652713382bafd251622f042c589d202c34acd3dfed3ead
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-713-632240.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:451672:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 713/71
+
+de 23 de Dezembro
+
+Sendo necessário definir as sobrecargas a considerar para o dimensionamento das estruturas de auto-silos para veículos ligeiros, cuja construção se está empreendendo em algumas cidades do País, a fim de permitir melhorar o aproveitamento do espaço disponível para a circulação automóvel;
+
+Sendo a legislação em vigor sobre solicitações em estruturas (Regulamento de Solicitações em Edifícios e Pontes, aprovado pelo [Decreto n.º 44041](https://diariodarepublica.pt/dr/detalhe/decreto/44041-1961-181610), de 18 de Novembro de 1961) omissa em relação às condições específicas de utilização dos auto-silos, as quais são diferentes das que correspondem ao caso das garagens para automóveis ligeiros considerado naquele diploma [artigo 17.º, alínea b), n.º 7];
+
+Ouvida a Comissão do Regulamento de Solicitações em Edifícios e Pontes, do Conselho Superior de Obras Públicas:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas:
+
+1.º Para os efeitos da presente portaria, entender-se-á por auto-silo uma edificação destinada exclusivamente ao estacionamento de automóveis ligeiros de passageiros, que, mercê das suas características dimensionais, nomeadamente a altura livre entre pisos, limitada a cerca de 2,20 m, não possa ser utilizada por veículos de maior porte e onde não sejam permitidas actividades de reparação.
+
+2.º Para o dimensionamento das estruturas dos auto-silos, deverão ser adoptadas as seguintes sobrecargas mínimas:
+
+a) Uma sobrecarga uniformemente distribuída de 300 kgf/m2;
+
+b) Uma sobrecarga concentrado, única, de 1000 kgf.
+
+Ambas as sobrecargas, que não se farão actuar simultâneamente nem necessitam de ser afectadas de coeficientes dinâmicos, devem ser dispostas nas zonas do pavimento em que produzam os efeitos mais desfavoráveis para o elemento em estudo.
+
+**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**

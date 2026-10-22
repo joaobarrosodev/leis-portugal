@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:325757:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1978-170870206",
+ "dre_path": "/dr/detalhe/decreto-lei/345-1978-325757",
+ "source_lastmod": "2025-06-26",
+ "versions": [
+  {
+   "date": "1978-11-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922700436",
+    "170870288",
+    "170870289",
+    "170870290"
+   ]
+  },
+  {
+   "date": "1978-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:325151:por",
+     "title": "Declaração",
+     "published": "1978-12-21",
+     "dre_path": "/dr/detalhe/declaracao/1978-325151"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "170870287",
+    "170870288",
+    "922571069",
+    "170870290",
+    "170870291"
+   ]
+  },
+  {
+   "date": "2018-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115235757:por",
+     "title": "Decreto-Lei n.º 32/2018",
+     "published": "2018-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2018-115235757"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "922700436",
+    "922700437",
+    "922700438",
+    "922700439",
+    "922700440"
+   ]
+  }
+ ],
+ "fragments": {
+  "922700436": {
+   "fragment_id": "170870207",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-05-13",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 345/78\n\nde 17 de Novembro\n\nÉ de toda a conveniência transferir os serviços centrais dos departamentos da Lotaria Nacional e das Apostas Mútuas Desportivas da Santa Casa da Misericórdia de Lisboa, ora a funcionarem em condições deficientes, para instalações adequadas ao seu desenvolvimento actual e expansão futura.\n\nUrge também dotar os mesmos serviços do equipamento necessário ao aperfeiçoamento das respectivas actividades.\n\nDado, porém, o elevado custo dos investimentos a fazer, não devem estes reflectir-se, pela sua totalidade, na partilha dos lucros de exploração respeitantes aos exercícios em que os encargos se tornem efectivos, sob pena de as entidades beneficiárias desses lucros verem gravosamente diminuídas as suas receitas.\n\nSó a imputação a vários exercícios da redução dos lucros resultantes dos aludidos investimentos, a par da prevista evolução favorável dos mesmos lucros, poderá eliminar os inconvenientes apontados.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "170870288": {
+   "fragment_id": "170870208",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Santa Casa da Misericórdia de Lisboa fica autorizada a proceder oportunamente, com observância das disposições legais aplicáveis, às aquisições necessárias à instalação e equipamento dos serviços da Lotaria Nacional e das Apostas Mútuas Desportivas, com vista ao seu actual desenvolvimento e expansão futura."
+  },
+  "170870289": {
+   "fragment_id": "170870209",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nDos saldos disponíveis em conta de operações de tesouraria poderão, sem prejuízo dos encargos a satisfazer, ser transferidas para receita dos orçamentos equivalentes às dos custos a que se refere o artigo anterior."
+  },
+  "170870290": {
+   "fragment_id": "170870210",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs reposições das importâncias transferidas nos termos do artigo anterior serão efectuadas em dez prestações, anuais e iguais, com início no próprio ano em que se operarem as mesmas transferências, mediante dedução nos rendimentos globais de cada gerência e por conta de rubrica de despesa a inscrever nos respectivos orçamentos."
+  },
+  "170870287": {
+   "fragment_id": "170870207",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 345/78\n\nde 17 de Novembro\n\nÉ de toda a conveniência transferir os serviços centrais dos departamentos da Lotaria Nacional e das Apostas Mútuas Desportivas da Santa Casa da Misericórdia de Lisboa, ora a funcionarem em condições deficientes, para instalações adequadas ao seu desenvolvimento actual e expansão futura.\n\nUrge também dotar os mesmos serviços do equipamento necessário ao aperfeiçoamento das respectivas actividades.\n\nDado, porém, o elevado custo dos investimentos a fazer, não devem estes reflectir-se, pela sua totalidade, na partilha dos lucros de exploração respeitantes aos exercícios em que os encargos se tornem efectivos, sob pena de as entidades beneficiárias desses lucros verem gravosamente diminuídas as suas receitas.\n\nSó a imputação a vários exercícios da redução dos lucros resultantes dos aludidos investimentos, a par da prevista evolução favorável dos mesmos lucros, poderá eliminar os inconvenientes apontados.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "922571069": {
+   "fragment_id": "170870209",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1978-12-21",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 292/1978, Série I de 1978-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-325151), em vigor a partir de 1978-12-21"
+   ],
+   "markdown": "###### Artigo 2.º\n\nDos saldos disponíveis em conta de operações de tesouraria poderão, sem prejuízo dos encargos a satisfazer, ser transferidas para receita dos orçamentos privativos por onde sejam pagas as aquisições, importâncias equivalentes às dos custos a que se refere o artigo anterior.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 292/1978, Série I de 1978-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-325151), em vigor a partir de 1978-12-21"
+  },
+  "170870291": {
+   "fragment_id": "170870211",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Acácio Manuel Pereira Magro.\n\nPromulgado em 6 de Novembro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "922700437": {
+   "fragment_id": "170870208",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 1.º\n\nA Santa Casa da Misericórdia de Lisboa fica autorizada a proceder oportunamente, com observância das disposições legais aplicáveis, às aquisições necessárias à instalação e equipamento dos serviços da Lotaria Nacional e das Apostas Mútuas Desportivas, com vista ao seu actual desenvolvimento e expansão futura.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "922700438": {
+   "fragment_id": "170870209",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Retificado pelo/a [Declaração - Diário da República n.º 292/1978, Série I de 1978-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-325151), em vigor a partir de 1978-12-21"
+   ],
+   "markdown": "###### Artigo 2.º\n\nDos saldos disponíveis em conta de operações de tesouraria poderão, sem prejuízo dos encargos a satisfazer, ser transferidas para receita dos orçamentos privativos por onde sejam pagas as aquisições, importâncias equivalentes às dos custos a que se refere o artigo anterior.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Retificado pelo/a [Declaração - Diário da República n.º 292/1978, Série I de 1978-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-325151), em vigor a partir de 1978-12-21"
+  },
+  "922700439": {
+   "fragment_id": "170870210",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs reposições das importâncias transferidas nos termos do artigo anterior serão efectuadas em dez prestações, anuais e iguais, com início no próprio ano em que se operarem as mesmas transferências, mediante dedução nos rendimentos globais de cada gerência e por conta de rubrica de despesa a inscrever nos respectivos orçamentos.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "922700440": {
+   "fragment_id": "170870211",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Acácio Manuel Pereira Magro.\n\nPromulgado em 6 de Novembro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  }
+ }
+}

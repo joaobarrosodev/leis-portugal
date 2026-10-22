@@ -1,0 +1,158 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:490007:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-138059452",
+ "dre_path": "/dr/detalhe/portaria/1018-2009-490007",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "138059358",
+    "138059359",
+    "138059360",
+    "138059361",
+    "138059362",
+    "138059363",
+    "138059364"
+   ]
+  },
+  {
+   "date": "2020-07-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138054854:por",
+     "title": "Portaria n.º 172/2020",
+     "published": "2020-07-16",
+     "dre_path": "/dr/detalhe/portaria/172-2020-138054854"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "138059358",
+    "138059359",
+    "138195714",
+    "138195715",
+    "138195716",
+    "138195717",
+    "138059364",
+    "138059365"
+   ]
+  }
+ ],
+ "fragments": {
+  "138059358": {
+   "fragment_id": "138059453",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1018/2009\n\nde 10 de Setembro\n\nO Decreto-Lei n.º 117/2009, de 18 de Maio, que criou o Gabinete Coordenador da Segurança Escolar como estrutura integrada no âmbito do Ministério da Educação, prevê, expressamente, no seu artigo 7.º, o recrutamento de chefes de equipa de zona e de vigilantes, condicionado ao procedimento concursal a regular por portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e da educação.\n\nImpõe-se, pois, a definição das regras a que deve obedecer tal procedimento.\n\nAssim:\n\nAo abrigo do disposto no n.º 6 do artigo 7.º do Decreto-Lei n.º 117/2009, de 18 de Maio:\n\nManda o Governo, pelo Ministro de Estado e das Finanças e pelo Secretário de Estado da Educação, o seguinte:"
+  },
+  "138059359": {
+   "fragment_id": "138059454",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regula o procedimento concursal de recrutamento dos chefes de equipa de zona e dos vigilantes das escolas."
+  },
+  "138059360": {
+   "fragment_id": "138059455",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\nO procedimento concursal é destinado exclusivamente aos aposentados e reservistas fora da efectividade de serviço, ou equiparados, das forças de segurança ou órgãos de polícia criminal."
+  },
+  "138059361": {
+   "fragment_id": "138059456",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento de recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento de recrutamento\n\n1 - Ao recrutamento para os chefes de zona e de vigilantes aplicam-se com as necessárias adaptações e sem prejuízo do disposto nos artigos seguintes, as disposições que regem o procedimento concursal comum constantes da Portaria n.º 83-A/2009, de 22 de Janeiro.\n\n2 - O período de constituição de reservas de recrutamento do serviço é fixado pelo dirigente máximo entre um mínimo de 6 meses e um máximo de 18 meses.\n\n3 - Não é aplicável a constituição de reservas de recrutamento em entidade centralizada (ECCRC)."
+  },
+  "138059362": {
+   "fragment_id": "138059457",
+   "type": 11,
+   "heading": "Artigo 4.º — Métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Métodos de selecção\n\nA entidade responsável pela realização do procedimento concursal para recrutamento de chefes de equipa de zona e de vigilantes poderá limitar-se a utilizar um dos métodos de selecção obrigatórios previstos nas alíneas a) dos n.os 1 e 2 do artigo 53.º da Lei n.º 12-A/98, de 27 de Fevereiro (LVCR), conjuntamente, ou não, com um dos métodos facultativos ou complementares referidos na lei."
+  },
+  "138059363": {
+   "fragment_id": "138059458",
+   "type": 11,
+   "heading": "Artigo 5.º — Publicitação do procedimento concursal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Publicitação do procedimento concursal\n\nO procedimento concursal é publicitado nos termos do artigo 19.º da Portaria n.º 83-A/2009, de 22 de Janeiro, com excepção da alínea b) do seu n.º 1."
+  },
+  "138059364": {
+   "fragment_id": "138059459",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 31 de Agosto de 2009."
+  },
+  "138195714": {
+   "fragment_id": "138059455",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": "2020-07-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/172-2020-138054854), em vigor a partir de 2020-07-17"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\nO procedimento concursal é destinado exclusivamente aos aposentados e reservistas fora da efetividade de serviço, ou equiparados, das forças de segurança, das forças armadas nos termos do respetivo estatuto, ou órgãos de polícia criminal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/172-2020-138054854), em vigor a partir de 2020-07-17"
+  },
+  "138195715": {
+   "fragment_id": "138059456",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento de recrutamento",
+   "in_force_from": "2020-07-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/172-2020-138054854), em vigor a partir de 2020-07-17"
+   ],
+   "markdown": "###### Artigo 3.º — Procedimento de recrutamento\n\n1 - Ao recrutamento para os chefes de equipa de zona e de vigilantes aplicam-se, com as necessárias adaptações e sem prejuízo do disposto nos artigos seguintes, as disposições que regem o procedimento concursal comum constantes da Portaria n.º 125-A/2019, de 30 de abril.\n\n2 - A constituição de reservas de recrutamento do serviço tem um prazo máximo de 18 meses, contados da data da homologação da lista de ordenação final.\n\n3 - Não é aplicável a constituição de reservas de recrutamento em entidade centralizada (ECR).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/172-2020-138054854), em vigor a partir de 2020-07-17"
+  },
+  "138195716": {
+   "fragment_id": "138059457",
+   "type": 11,
+   "heading": "Artigo 4.º — Métodos de selecção",
+   "in_force_from": "2020-07-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/172-2020-138054854), em vigor a partir de 2020-07-17"
+   ],
+   "markdown": "###### Artigo 4.º — Métodos de selecção\n\nA entidade responsável pela realização do procedimento concursal para recrutamento de chefes de equipa de zona e de vigilantes pode limitar-se a utilizar um dos métodos de seleção obrigatórios previstos nas alíneas a) dos n.os 1 e 2 do artigo 36.º da Lei n.º 35/2014, de 20 de junho (LTFP), conjuntamente, ou não, com um dos métodos facultativos ou complementares referidos na lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/172-2020-138054854), em vigor a partir de 2020-07-17"
+  },
+  "138195717": {
+   "fragment_id": "138059458",
+   "type": 11,
+   "heading": "Artigo 5.º — Publicitação do procedimento concursal",
+   "in_force_from": "2020-07-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/172-2020-138054854), em vigor a partir de 2020-07-17"
+   ],
+   "markdown": "###### Artigo 5.º — Publicitação do procedimento concursal\n\nO procedimento concursal é publicitado nos termos do artigo 11.º da Portaria n.º 125-A/2019, de 30 de abril, com exceção da alínea b) do seu n.º 1\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/172-2020-138054854), em vigor a partir de 2020-07-17"
+  },
+  "138059365": {
+   "fragment_id": "138059460",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado da Educação, Valter Victorino Lemos."
+  }
+ }
+}

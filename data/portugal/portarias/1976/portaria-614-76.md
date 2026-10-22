@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:409554:por
+title: Portaria n.º 614/76
+short_title: null
+summary: Aprova a tabela de taxas a aplicar no Aeroporto de Ponta Delgada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Comércio e Turismo e dos Transportes e Comunicações
+proposing_entity: null
+official_number: 614/76
+official_date: null
+publication_date: '1976-10-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 242/1976, Série I de 1976-10-15
+  number: '242'
+  series: I
+  supplement: null
+  pages: 2350 - 2351
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24200/23502351.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '409554'
+  dre_path: /dr/detalhe/portaria/614-1976-409554
+  internal: pt:dre:409554:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/614-1976-409554
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/614-1976-409554
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-10-21T00:00:00Z'
+integrity:
+  source_sha256: 5541dc10566bfe3bb00b4ae6c5ad4b0dc84c397f2a735314119d61115be67c32
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-614-409554.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:277130:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 614/76
+
+de 15 de Outubro
+
+Considerando a necessidade de ajustar aos custos de investimento e de exploração as taxas de tráfego e as taxas de utilização, de exploração, de ocupação e ainda as não especificadas do Aeroporto de Ponta Delgada;
+
+De acordo com o estatuído no artigo 2.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433), de 3 de Abril:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio Interno e dos Transportes e Comunicações, aprovar o seguinte:
+
+Tabela de taxas a aplicar no Aeroporto de Ponta Delgada
+
+I - Taxas de tráfego
+
+1.º As taxas de tráfego no Aeroporto de Ponta Delgada e a que se refere o artigo 8.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433) são as seguintes:
+
+1 - Taxa de aterragem/descolagem - 45$00.
+
+2 - Taxa de estacionamento:
+
+a) Nas áreas de tráfego - 8$00;
+
+b) Nas áreas de manutenção ou outras - 6$00;
+
+c) Acréscimo a que se refere o n.º 6 do artigo 10.º do mencionado decreto - 250$00.
+
+3 - Taxa de abrigo - 15$00.
+
+4 - Taxa de passageiros:
+
+a) Em viagem interna - 20$00;
+
+b) Em viagem territorial ou internacional - 60$00.
+
+II - Taxas de utilização
+
+2.º As taxas de utilização a cobrar no Aeroporto de Ponta Delgada e a que se refere o artigo 13.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433) são as seguintes:
+
+1 - Taxa de serviços - factor K: 1,3.
+
+2 - Taxa de equipamento - factor K: 1,3.
+
+3 - Taxa de artigos de consumo - a estabelecida no n.º 2 do artigo 16.º do referido decreto.
+
+III - Taxas de exploração
+
+3.º As taxas de exploração a cobrar no Aeroporto de Ponta Delgada e a que se refere o artigo 17.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433) são as seguintes:
+
+1 - Taxa de assistência a aeronaves - 200$00.
+
+2 - Taxa de reabastecimento de combustíveis - 2$00.
+
+3 - Taxa de aprovisionamento das aeronaves:
+
+a) Que não inclua refeições - 50$00;
+
+b) Que inclua refeições - 100$00.
+
+IV - Taxas de ocupação
+
+4.º As taxas de ocupação a cobrar no Aeroporto de Ponta Delgada e a que se referem os artigos 22.º a 34.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433) são as seguintes:
+
+1 - Taxa de estacionamento de viaturas em parque - a estabelecer oportunamente.
+
+2 - Taxa de áreas privativas:
+
+a) Em áreas pavimentadas - 5$00/m2;
+
+b) Em áreas não pavimentadas - 2$50/m2.
+
+3 - Taxa de implantação de edificações - 3$00/m2.
+
+4 - Taxa de implantação de instalações - 2$00/m2.
+
+5 - Taxa de ocupação ou utilização de edifícios ou instalações:
+
+a) Nas aerogares (a que se refere o artigo 28.º do mencionado decreto):
+
+No que respeita ao n.º 1 - 71$50/m2.
+
+No que respeita ao n.º 2 - 110$00/m2.
+
+No que respeita ao n.º 3 - 143$00/m2.
+
+No que respeita ao n.º 4 - 165$00/m2.
+
+No que respeita ao n.º 5 - 330$00/m3.
+
+Com a taxa mínima de 660$00.
+
+b) Nos hangares (a que se refere o artigo 29.º do mencionado decreto):
+
+No que respeita ao n.º 1 - 33$00/m2.
+
+No que respeita ao n.º 2 - 44$00/m2.
+
+No que respeita ao n.º 3 - 55$00/m2.
+
+c) Noutros edifícios (a que se refere o artigo 30.º do mencionado decreto):
+
+No que respeita ao n.º 1 - 33$00/m2.
+
+No que respeita ao n.º 2 - 44$00/m2.
+
+No que respeita ao n.º 3 - 330$00/m3.
+
+Com a taxa mínima de 660$00.
+
+6 - Taxa de reclamos e letreiros:
+
+a) Nas aerogares - 330$00/m2 e 900$00/m3;
+
+b) Noutros edifícios - 220$00/m2 e 600$00/m3;
+
+c) No exterior- 165$00/m2 e 300$00/m3.
+
+7 - Taxa de depósito de bagagem - 7$50.
+
+8 - Taxa de acesso a áreas reservadas:
+
+a) Acesso a varandas e terraços - 5$00;
+
+b) Acesso a salas e outras dependências - 7$50.
+
+9 - Taxa de armazenagem de carga:
+
+Por dia e por volume de carga armazenada nos terminais de carga ou outras dependências do Aeroporto - 2$00.
+
+Nota. - Está isenta a a carga de importação abrangida pelo n.º 9 do artigo 72.º das Instruções Preliminares da Pauta de Importação ([Decreto-Lei n.º 58/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1973-684779), de 24 de Fevereiro).
+
+Entrada vigor
+
+5.º A presente portaria entra em vigor a partir de 1 de Novembro de 1976. Fica revogada a [Portaria n.º 492/71](https://diariodarepublica.pt/dr/detalhe/portaria/492-1971-630421), de 8 de Setembro, e substituídos os despachos do Ministro das Comunicações respeitantes à matéria de que trata a presente portaria.
+
+Ministérios do Comércio e Turismo e dos Transportes e Comunicações, 14 de Setembro de 1976. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.

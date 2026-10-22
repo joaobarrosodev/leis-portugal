@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:3120435:por
+title: Portaria n.º 752/2008
+short_title: null
+summary: Condecoração do COR Rui Jorge do Carmo Cruz Silva
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 752/2008
+official_date: null
+publication_date: '2008-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 163/2008, Série II de 2008-08-25
+  number: '163'
+  series: II
+  supplement: null
+  pages: 37085 - 37085
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/08/163000000/3708537085.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3120435'
+  dre_path: /dr/detalhe/portaria/752-2008-3120435
+  internal: pt:dre:3120435:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/752-2008-3120435
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/752-2008-3120435
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-08-25T00:00:00Z'
+integrity:
+  source_sha256: 9b210a0a1f170554210360cefc7ded96b05d8533bb6ac365f41ac7a77e98747d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-752-3120435.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 752/2008
+
+Louvo o coronel de cavalaria NIM 15185684, Rui Jorge do Carmo Cruz Silva, pela elevada competência, profundo empenhamento e excepcional dedicação como, com esclarecido e excepcional zelo, exerceu as funções de assessor militar no Departamento de Cooperação Técnico-Militar (DCTM) da Direcção-Geral de Política de Defesa Nacional, desde 2005.
+
+Directamente responsável pela área da formação em Portugal dos bolseiros dos Países de Língua Oficial Portuguesa, no quadro da Cooperação Técnico-Militar (CTM), o coronel Cruz Silva emprestou toda a sua vasta experiência e profundos e sólidos conhecimentos profissionais no exercício das suas funções, planeando, programando, acompanhando e garantindo a execução, com assinalável e reconhecida eficácia, de 4 Planos Anuais de Formação, reorganizando a base de dados existente, num trabalho paciente e meticuloso de adaptação das necessidades dos Países nossos parceiros às capacidades nacionais, revelando excepcional capacidade de adaptação e resposta às múltiplas dificuldades surgidas, um muito elevado espírito de iniciativa e um permanente sentido das responsabilidades, encontrando e propondo sempre soluções sustentadas e equilibradas.
+
+Acresce que, por força de uma nova orientação imprimida à CTM, e para a qual foi fundamental o seu esclarecido contributo, a Formação em Portugal passou a constituir um projecto próprio incluído nos Programas-Quadro, constituindo-se o coronel Cruz Silva, pela sua reconhecida competência e pelos seus excepcionais conhecimentos profissionais e técnicos, como um interlocutor privilegiado, muito respeitado e prestigiado junto das estruturas dos Ministérios da Defesa Nacional e das Forças Armadas dos Países de Língua Oficial Portuguesa.
+
+Igualmente responsável directo pela Assistência Hospitalar e Medicamentosa em Portugal, prestada aos militares dos Países de Língua Oficial Portuguesa, a sua actuação pautou-se por uma criteriosa utilização dos recursos afectos a este apoio da CTM, gerindo com elevado rigor, sentido de necessidade e prioridade as diversas solicitações efectuadas.
+
+Para além destas áreas de trabalho que lhe estavam prioritariamente adstritas, o coronel Cruz Silva desempenhou, com total e excepcional eficácia e sentido de continuidade, fruto da sua profunda lealdade, muito especial capacidade de relacionamento e apurado conhecimento e domínio das diversas áreas de trabalho, quer no plano bilateral, trilateral ou multilateral da CTM, outras funções transversais a todo o Departamento, substituindo o respectivo director sempre que necessário, prestando um contributo decisivo para o bom desempenho desta Cooperação.
+
+Realce, ainda, para as missões avançadas que integrou, preparatórias das reuniões bilaterais, e que culminaram com a assinatura dos Programa-Quadro com Angola, Cabo-Verde, Guiné-Bissau, Moçambique e Timor-Leste, em cuja negociação e elaboração participou de forma excepcionalmente competente, tecnicamente consistente e com elevada sensibilidade, serenidade e credibilidade.
+
+Relevo especial, também, para o acompanhamento, atento e empenhado, como sempre representou o Ministério da Defesa Nacional na Comissão Interministerial para as Migrações e Comunidades Portuguesas, que integrou.
+
+Oficial dotado de grande frontalidade, perseverança e capacidade de iniciativa, com irrepreensível postura militar e excepcional espírito de missão, o coronel Cruz Silva fez justiça à confiança em si depositada, prestando um contributo extraordinário e decisivo para que os objectivos da política de Cooperação Técnico-Militar fossem alcançados.
+
+Denotando uma sólida formação ética, o rigor que sempre colocou nos contactos com as estruturas da Defesa e das Forças Armadas portuguesas, do Ministério dos Negócios Estrangeiros e dos países parceiros na procura das melhores e mais adequadas respostas nacionais reflecte bem uma postura permanente de bem servir e de dedicação à causa pública, que apraz registar.
+
+A par de invulgares capacidades de análise, planeamento, avaliação e organização, bem como permanente disponibilidade, dinamismo e abnegação dignos de realce, o coronel Cruz Silva revelou ainda uma dimensão humana extraordinária, sendo por todos reconhecidas e respeitadas a sua excepcional capacidade de relacionamento e a convicção inabalável com que sempre assumiu, interpretou e praticou o espírito de corpo, a solidariedade, a lealdade e o compromisso para com todos aqueles que com ele actuaram.
+
+Pelas excepcionais qualidades e virtudes militares, profissionais e humanas evidenciadas, aliadas à sua extraordinária lealdade, honestidade e apurado sentido de camaradagem e pela afirmação constante de elevados dotes de carácter, o coronel Cruz Silva tornou-se credor de elevada consideração de todos aqueles que com ele privaram e trabalharam, sendo pois de toda a justiça que veja os seus serviços reconhecidos e considerados extraordinários, relevantes e distintos, deles tendo resultado honra e lustre para Portugal e para o Ministério da Defesa Nacional.
+
+Assim, nos termos da competência que me é conferida pelo n.º 1 do artigo 34.º e atento o disposto nos artigos 13.º e 16.º do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de Dezembro, concedo a medalha de serviços distintos, grau prata, ao coronel de cavalaria NIM 15185684, Rui Jorge do Carmo Cruz Silva.
+
+31 de Julho de 2008. - O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira.

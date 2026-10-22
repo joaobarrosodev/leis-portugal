@@ -1,0 +1,89 @@
+---
+schema_version: '1.0'
+id: pt:dre:1571101:por
+title: Declaração de Rectificação n.º 1130/2011
+short_title: null
+summary: Rectifica o aviso n.º 13 352/2011, publicado no Diário da República, 2.ª série, n.º 122, de 28 de Junho de 2011,
+  referente a oferta de trabalho para um técnico de diagnóstico e encaminhamento e três profissionais de RVC - Agrupamento
+  de Escolas Poeta Joaquim Serra
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Educação - Direcção Regional de Educação de Lisboa e Vale do Tejo - Agrupamento de Escolas Poeta Joaquim Serra
+proposing_entity: null
+official_number: 1130/2011
+official_date: null
+publication_date: '2011-07-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/2011, Série II de 2011-07-14
+  number: '134'
+  series: II
+  supplement: null
+  pages: 29458 - 29458
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/07/134000000/2945829458.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1571101'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1130-2011-1571101
+  internal: pt:dre:1571101:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1130-2011-1571101
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1130-2011-1571101
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-07-14T00:00:00Z'
+integrity:
+  source_sha256: bdb9e3b72536babe96b0a2e868359957ae776883e3ef0d4eb59a4610feaac272
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-1130-1571101.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1130/2011
+
+Por ter saído com inexactidão o aviso n.º 13 352/2011, publicado no Diário da República, 2.ª série, n.º 122, de 28 de Junho de 2011, a p. 27 065, rectifica-se a publicação referente à oferta de trabalho para um técnico de diagnóstico e encaminhamento e três profissionais de reconhecimento e validação de competências. Assim, no n.º 5, «Método e critérios de selecção», onde se lê «Os métodos de selecção a utilizar serão o da prova de conhecimentos e avaliação psicológica (a faculdade de recorrer aos métodos de avaliação curricular e de entrevista de avaliação de competências está limitada às situações em que todos os potenciais candidatos reúnem os requisitos do n.º 2 do artigo 53.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663)).» deve ler-se «Os métodos de selecção a utilizar serão o da avaliação curricular e o da entrevista de avaliação de competências.».
+
+7 de Julho de 2011. - A Presidente da Comissão Administrativa Provisória, Maria Helena Miranda Lourenço.

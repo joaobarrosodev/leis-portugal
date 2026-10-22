@@ -1,0 +1,88 @@
+---
+schema_version: '1.0'
+id: pt:dre:184961798:por
+title: Declaração de Retificação n.º 553/2022
+short_title: null
+summary: Retifica o n.º 6 - prazo de validade do aviso publicado no Diário da República, 2.ª série, n.º 91, de 11 de maio
+  de 2022
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Lousada
+proposing_entity: null
+official_number: 553/2022
+official_date: null
+publication_date: '2022-06-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/2022, Série II de 2022-06-21
+  number: '118'
+  series: II
+  supplement: null
+  pages: 366 - 366
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/06/118000000/0036600366.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '184961798'
+  dre_path: /dr/detalhe/declaracao-retificacao/553-2022-184961798
+  internal: pt:dre:184961798:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/553-2022-184961798
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/553-2022-184961798
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-06-21T00:00:00Z'
+integrity:
+  source_sha256: 47f9edbc07a1904b1798836d2912e14aac8944a993c61da84b7cddc4054d09b9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-553-184961798.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 553/2022
+
+Torna-se público, para os devidos efeitos, que por lapso, no aviso de abertura do concurso interno de acesso geral para dois lugares de polícia municipal (agente municipal de 2.ª classe), publicado no Diário da República, 2.ª série, n.º 91, de 11 de maio de 2022, no ponto 6 - prazo de validade, onde se lê «O concurso é válido para as vagas colocadas a concurso» deve ler-se «O concurso é válido para o provimento dos postos de trabalho colocados a concurso e para os que vierem a ser necessários no prazo de um ano; no caso de em resultado do concurso, a lista de classificação final conter um número de candidatos aprovados superior ao dos postos de trabalho a ocupar, será constituída uma reserva de recrutamento interna contado da data de homologação da lista de classificação final.».
+
+30 de maio de 2022. - O Presidente da Câmara, Pedro Daniel Machado Gomes, Dr.

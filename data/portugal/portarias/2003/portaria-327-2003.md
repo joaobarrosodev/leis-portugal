@@ -1,0 +1,429 @@
+---
+schema_version: '1.0'
+id: pt:dre:239653:por
+title: Portaria n.º 327/2003
+short_title: null
+summary: Altera o Regulamento de Aplicação da Subacção n.º 3.4, «Prevenção de Riscos Provocados por Agentes Bióticos e Abióticos»,
+  da acção n.º 3, «Gestão sustentável e estabilidade ecológica das florestas», da medida Agricultura e Desenvolvimento Rural
+  (medida AGRIS)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente
+proposing_entity: null
+official_number: 327/2003
+official_date: null
+publication_date: '2003-04-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/2003, Série I-B de 2003-04-21
+  number: '93'
+  series: I
+  supplement: null
+  pages: 2547 - 2551
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/04/093b00/25472551.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2004-02-17'
+version_history:
+  file: portaria-327-2003.versoes.json
+  count: 2
+  source_lastmod: '2026-02-02'
+  versions:
+  - date: '2003-04-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-02-17'
+    amending: pt:dre:578772:por
+    amending_title: Portaria n.º 149/2004
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 21.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/327/2003/p/cons/20040212/pt/html
+  oj: null
+  dre: '239653'
+  dre_path: /dr/detalhe/portaria/327-2003-239653
+  internal: pt:dre:239653:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/327-2003-239653
+  metadata_url: https://data.dre.pt/eli/port/327/2003/p/cons/20040212/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-1009034275
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-1009034275
+  retrieved_at: '2026-10-22T13:40:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-02-02T00:00:00Z'
+integrity:
+  source_sha256: e8c834d4e28b86b83fd87bcbdb9c6acb2e636d419b968d60bf6c062698b88b14
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:40:34Z'
+  notes: 2 versão(ões); histórico completo em portaria-327-2003.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Gestão Financeira
+- Ecologia
+- Investimento
+- Proteção do Ambiente
+- Exploração Florestal
+- QCA III
+- Regulamento
+- Programa AGRO
+- Medida Agris
+- Ifadap
+relationships:
+- type: amended_by
+  target: pt:dre:578772:por
+  label: Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º;
+    Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772
+  date: '2004-02-12'
+- type: cites
+  target: celex:31992R2158
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2158/oj
+article_structure:
+  article_count: 24
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:40:34Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 327/2003
+
+As condições climatéricas e as características das formações florestais em Portugal continental, das quais se destacam o exuberante crescimento de biomassa durante os períodos de Outono, Inverno e Primavera, os prolongados períodos estivais com reduzida precipitação e teores de humidade e, ainda, a ausência de uma cultura de gestão activa destes espaços, cujas razões radicam num complexo conjunto de factores, mas que de entre estes ressalta a estrutura fragmentada da propriedade florestal, determinam a ocorrência cíclica de danos provocados quer por agentes abióticos quer por agentes bióticos, passíveis de serem alterados através de intervenções técnicas direccionadas.
+
+O abandono a que se encontram votados vastos espaços florestais e sistemas agro-florestais, resultante da diminuição da actividade agrícola e da redução da importância da floresta na produção animal e na produção energética de carácter privado, conduziram a situações de acumulação de biomassa e de focos de dispersão de agentes bióticos, propícias à ocorrência de fogos florestais e aos ataques de pragas e doenças.
+
+As características específicas destes agentes de destruição, tanto pela capacidade de devastação e rápida progressão como pela sua mobilidade, recomendam que as intervenções no terreno tenham um carácter regionalizado, na medida em que são susceptíveis de provocar danos importantes, tanto em áreas sem gestão como em áreas contíguas ou próximas sob gestão activa.
+
+Ressalta, assim, na salvaguarda do património colectivo, o interesse público das iniciativas neste âmbito, que em particular no que respeita aos agentes bióticos não se podem limitar aos povoamentos florestais, mas abranger muitas vezes áreas agrícolas ou mesmo espaços de lazer e outros, que podem actuar como refúgios ou focos de reinfestação e importa serem objecto de intervenção.
+
+A experiência acumulada com a implementação do Regulamento de Aplicação da Subacção n.º 3.4 da medida AGRIS recomenda a necessidade de proceder a algumas alterações às disposições contidas na Portaria n.º 52/2001, de 29 de Janeiro, e diplomas que, embora já tenham sido objecto de alterações, com vista ao esclarecimento de algumas dúvidas, se revelam insuficientes.
+
+Considerando que os organismos da Administração devem ponderar e atender aos interesses dos beneficiários, na perspectiva de uma melhor adequação e simplificação dos procedimentos e tramitação das candidaturas aos instrumentos de apoio, tornam-se necessários novos ajustamentos e esclarecimentos. Assim, em face do princípio da transparência e universalidade da interpretação e aplicação da lei, a boa norma jurídica recomenda a revogação dos diplomas em vigor sobre a matéria e a publicação de um único texto legal concentrando a respectiva regulamentação.
+
+Assim:
+
+Ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:
+
+Manda o Governo, pelos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, o seguinte:
+
+###### 1.º
+
+O Regulamento de Aplicação da Subacção n.º 3.4, «Prevenção de Riscos Provocados por Agentes Bióticos e Abióticos», da acção n.º 3, «Gestão sustentável e estabilidade ecológica das florestas», da medida Agricultura e Desenvolvimento Rural, abreviadamente designada por medida AGRIS, passa a ser aquele que consta do anexo ao presente diploma e que dele faz parte integrante.
+
+###### 2.º
+
+São revogados a Portaria n.º 52/2001, de 29 de Janeiro, o n.º 5.º da Portaria n.º 1103-B/2001, de 15 de Setembro, e a Portaria n.º 204/2002, de 7 de Março.
+
+Em 1 de Abril de 2003.
+
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais.
+
+## Anexo — REGULAMENTO DE APLICAÇÃO DA SUBACÇÃO N.º 3.4, «PREVENÇÃO DE RISCOS PROVOCADOS POR AGENTES BIÓTICOS E ABIÓTICOS»
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente Regulamento estabelece o regime de aplicação da subacção n.º 3.4, «Prevenção de riscos provocados por agentes bióticos e abióticos», da medida AGRIS.
+
+2 - O disposto neste Regulamento não se aplica à área geográfica abrangida pela «Acção integrada de base territorial do Pinhal Interior» do Programa Operacional Regional do Centro.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 149/2004 - Diário da República n.º 36/2004, Série I-B de 2004-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772), em vigor a partir de 2004-02-17
+
+###### Artigo 2.º — Objectivos
+
+Esta subacção tem como objectivo apoiar intervenções que contribuam para a preservação e melhoria da estabilidade ecológica das florestas, quando se verifiquem condições favoráveis à ocorrência de fenómenos com potencial destruidor, como sejam incêndios ou ataques de pragas ou doenças.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente Regulamento consideram-se:
+
+a) «Organizações de produtores florestais» as associações de produtores florestais, cooperativas de produtores florestais e cooperativas agrícolas com secção florestal;
+
+b) «Operações de silvicultura preventiva» acções que visam diminuir os riscos de deflagração e propagação e retardar a progressão de um incêndio florestal ou evitar a ocorrência de ruptura dos equilíbrios existentes com as populações de pragas ou a incidência de doenças;
+
+c) «Agentes bióticos» os microrganismos ou invertebrados que têm comportamento epidémico ou adquirem carácter de praga, respectivamente;
+
+d) «Agente abiótico» o fogo;
+
+e) «Espaços florestais» terrenos ocupados com arvoredos florestais, com uso silvo-pastoril ou incultos há mais de seis anos.
+
+###### Artigo 4.º — Beneficiários
+
+Podem beneficiar das ajudas previstas neste Regulamento:
+
+a) Produtores florestais;
+
+b) Organizações de produtores florestais;
+
+c) Órgãos de administração de baldios e associações de baldios;
+
+d) Outras entidades gestoras de baldios;
+
+e) Autarquias locais;
+
+f) Organismos da Administração Pública.
+
+g) Associações de municípios.
+
+> Alterado pelo/a 2.º do/a [Portaria n.º 149/2004 - Diário da República n.º 36/2004, Série I-B de 2004-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772), em vigor a partir de 2004-02-17
+
+### Capítulo II — Prevenção de riscos provocados por agentes bióticos
+
+###### Artigo 5.º — Investimentos elegíveis
+
+São considerados elegíveis no âmbito deste capítulo os investimentos relativos à execução de planos orientadores de prevenção que tenham por objecto medidas de protecção fitossanitária ou operações de silvicultura preventiva.
+
+###### Artigo 6.º — Investimentos excluídos
+
+Não são elegíveis despesas em povoamentos que sejam elegíveis no âmbito da acção n.º 3.2, «Restabelecimento do potencial de produção silvícola», do Programa AGRO.
+
+###### Artigo 7.º — Condições de acesso
+
+1 - Para acesso às presentes ajudas, os beneficiários têm de apresentar-se em parceria com uma entidade competente em matéria de sanidade florestal.
+
+2 - Para efeitos de acesso às presentes ajudas, os beneficiários devem apresentar um plano orientador de prevenção plurianual, em que os investimentos previstos não ultrapassem a data limite de 30 de Setembro de 2008, que inclua um diagnóstico da situação e o conjunto de acções a realizar e garanta uma intervenção preventiva coerente com o diagnóstico e eficaz face aos riscos em presença.
+
+3 - As áreas a submeter a intervenções no âmbito desta portaria deverão reunir as seguintes condições:
+
+a) Ter uma dimensão adequada face ao agente em causa e aos objectivos a atingir;
+
+b) Não confinar com áreas que apresentem riscos ou problemas fitossanitários semelhantes, a menos que seja estabelecida uma área de transição adequada face ao agente em causa.
+
+4 - As candidaturas devem prever a constituição de uma comissão de acompanhamento na qual tenham lugar os parceiros referidos no n.º 1 do presente artigo e que será responsável pelos relatórios de execução do projecto e quaisquer alterações a introduzir no planeamento inicial das acções, resultantes da sua implementação.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 149/2004 - Diário da República n.º 36/2004, Série I-B de 2004-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772), em vigor a partir de 2004-02-17
+
+###### Artigo 8.º — Forma e nível das ajudas
+
+As ajudas são atribuídas sob a forma de incentivo não reembolsável no valor de 80% das despesas elegíveis.
+
+###### Artigo 9.º — Despesas elegíveis
+
+1 - As despesas elegíveis são as seguintes:
+
+a) Elaboração do plano orientador de prevenção;
+
+b) Inventário de pragas e doenças;
+
+c) Monitorização de pragas e doenças;
+
+d) Meios de controlo;
+
+e) Cartografia digital do projecto.
+
+2 - A despesa máxima elegível é de (euro) 150 por hectare intervencionado e por ano.
+
+3 - Os valores máximos a considerar para as despesas referidas no n.º 1 são fixados por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+
+### Capítulo III — Prevenção de riscos provocados por agentes abióticos
+
+###### Artigo 10.º — Investimentos elegíveis
+
+São considerados elegíveis no âmbito deste capítulo os investimentos em espaços florestais com vista à prevenção de incêndios florestais e de outras situações de emergência, visando, em particular, a redução do risco de ignição e de progressão do fogo e a aplicação de técnicas de silvicultura preventiva enquadradas por planos orientadores de prevenção e, ainda, a detecção e intervenção precoce em situações de incêndio.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 149/2004 - Diário da República n.º 36/2004, Série I-B de 2004-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772), em vigor a partir de 2004-02-17
+
+###### Artigo 11.º — Investimentos excluídos
+
+No que se refere à redução do risco de ignição e de progressão do incêndio, não são elegíveis, nomeadamente:
+
+a) Despesas em povoamentos que sejam elegíveis à acção n.º 3.2, «Restabelecimento do potencial de produção silvícola», do Programa AGRO;
+
+b) Despesas em áreas que tenham sido, após de 31 de Dezembro de 1999, objecto de apoio público no âmbito da subacção n.º 3.5, «Valorização e conservação dos espaços florestais de interesse público», da medida «AGRIS»;
+
+c) Despesas que tenham sido objecto de apoio público, após 31 de Dezembro de 1999, no âmbito do Regulamento (CEE) n.º 2158/92, do Conselho, de 23 de Julho.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 149/2004 - Diário da República n.º 36/2004, Série I-B de 2004-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772), em vigor a partir de 2004-02-17
+
+###### Artigo 12.º — Condições de acesso
+
+1 - O conjunto das acções a desenvolver deverá ser compatível com o estabelecido no «Plano de protecção da floresta contra incêndios», elaborado nos termos do Regulamento (CEE) n.º 2158/92, do Conselho, de 23 de Julho, ou nos planos municipais ou intermunicipais de intervenção na floresta para a diminuição do risco de incêndio e demais legislação e planos em vigor sobre a matéria.
+
+2 - As acções devem incidir sobre um espaço florestal com relevância territorial suficiente e adequada aos objectivos a atingir, avaliada em função, nomeadamente, da orografia e das características do coberto vegetal.
+
+3 - Para acesso às ajudas destinadas à redução do risco de ignição e de progressão do incêndio devem ser observadas as seguintes condições:
+
+a) Ser apresentado um plano orientador de prevenção, geograficamente delimitado, que inclua um diagnóstico da situação claro e sucinto e um conjunto de acções plurianuais, em que os investimentos previstos não ultrapassem a data limite de 30 de Setembro de 2008, que garantam uma intervenção preventiva coerente com o diagnóstico e eficaz face aos riscos em presença;
+
+b) A área objecto de intervenção deverá ter coerência de unidade na óptica da prevenção e apresentar inicialmente, ou como resultado da intervenção, uma clara descontinuidade de coberto e cama de combustível relativamente a áreas adjacentes com graus de risco de fogo semelhantes ou superiores.
+
+4 - Para acesso às ajudas destinadas à detecção e intervenção precoce em situações de incêndio devem ser observadas as seguintes condições:
+
+a) Ser apresentado um plano plurianual de acção que atenda ao período de vida útil dos equipamentos e viaturas co-financiados e inclua o programa de prevenção a executar fora do período em que os meios estão afectos à detecção e intervenção precoce em situações de incêndio;
+
+b) Emissão de parecer prévio favorável pela Direcção-Geral das Florestas relativamente à instalação ou alteração de localização de postos de vigia.
+
+5 - As candidaturas apresentadas por produtores florestais devem abranger áreas pertencentes a mais de dois produtores florestais, não podendo nenhum deles ser titular de mais de 50% da área total de intervenção.
+
+6 - O disposto no número anterior não será aplicável, em casos devidamente fundamentados, desde que se assegure o carácter regionalizado da medida, a relevância territorial da área de intervenção e, ainda, a sua coerência na óptica da prevenção do risco de incêndio.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 149/2004 - Diário da República n.º 36/2004, Série I-B de 2004-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772), em vigor a partir de 2004-02-17
+
+###### Artigo 13.º — Forma e nível das ajudas
+
+As ajudas são atribuídas sob a forma de incentivo não reembolsável, com os valores a seguir indicados:
+
+a) 50% na aquisição de viaturas;
+
+b) 80% nas restantes despesas elegíveis.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 149/2004 - Diário da República n.º 36/2004, Série I-B de 2004-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772), em vigor a partir de 2004-02-17
+
+###### Artigo 14.º — Despesas elegíveis
+
+1 - As despesas elegíveis, no âmbito da redução do risco de ignição e de progressão do incêndio, serão as seguintes:
+
+a) Elaboração do plano orientador de prevenção;
+
+b) Delimitação simplificada e actualizada das zonas de risco e respectiva cartografia;
+
+c) Sinalização das estruturas de defesa contra incêndios;
+
+d) Operações de silvicultura preventiva, incluindo a aquisição de equipamentos específicos;
+
+e) Construção de rede viária;
+
+f) Beneficiação de rede viária;
+
+g) Construção de rede divisional;
+
+h) Beneficiação de rede divisional;
+
+i) Construção de pontos de água;
+
+j) Beneficiação de pontos de água;
+
+l) Construção de parques de lazer com informação de sensibilização;
+
+m) Cartografia digital do projecto.
+
+2 - As despesas elegíveis, no âmbito da detecção e intervenção precoce em situações de incêndio, serão as seguintes:
+
+a) Criação e melhoria de sistemas de detecção sob a forma de estruturas fixas - postos de vigia e centros de coordenação;
+
+b) Criação e melhoria de sistemas de vigilância móvel e intervenção em fogos emergentes e respectivos custos de operação;
+
+c) Aquisição de viaturas de todo o terreno destinadas a serem especialmente equipadas para a intervenção em fogos emergentes e prevenção dos incêndios florestais, quando complementares aos investimentos indicados na alínea b);
+
+d) Aquisição de equipamentos específicos para a prevenção, detecção e intervenção em fogos emergentes, quando complementares aos investimentos indicados em qualquer das alíneas anteriores;
+
+e) Despesas gerais até 10% do investimento total elegível.
+
+3 - Os montantes máximos a considerar para as despesas elegíveis no âmbito da redução do risco de ignição e de progressão do incêndio serão estabelecidos por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+
+4 - A despesa máxima elegível, no âmbito da redução do risco de ignição e de progressão do incêndio, é de (euro) 250 por hectare.
+
+5 - A despesa máxima elegível para a criação e melhoria de sistemas de vigilância móvel é de (euro) 300000 por beneficiário, não se aplicando este limite à administração central.
+
+6 - A despesa máxima elegível por viatura é de (euro) 30000.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 149/2004 - Diário da República n.º 36/2004, Série I-B de 2004-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772), em vigor a partir de 2004-02-17
+
+### Capítulo IV — Normas processuais
+
+###### Artigo 15.º — Apresentação das candidaturas
+
+1 - As candidaturas serão apresentadas nas direcções regionais de agricultura em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.
+
+2 - A apresentação de candidaturas para ambas as componentes faz-se durante todo o ano.
+
+###### Artigo 16.º — Análise das candidaturas
+
+A análise das candidaturas compete ao coordenador da medida AGRIS, que as remeterá ao gestor da intervenção operacional regional.
+
+###### Artigo 17.º — Parecer da unidade de gestão
+
+O gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão.
+
+###### Artigo 18.º — Decisão sobre as candidaturas
+
+1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência, nos termos do artigo 29.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+
+2 - As candidaturas são objecto de análise e deliberação no prazo de 60 dias úteis a contar da data de recepção.
+
+3 - As candidaturas são aprovadas em função da dotação orçamental deste regime de ajudas.
+
+4 - São recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.
+
+###### Artigo 19.º — Critérios de prioridade
+
+1 - Para efeitos de aprovação das candidaturas, são consideradas prioritárias aquelas que se enquadrem em planos ou programas de prevenção elaborados pela Administração Pública e as que sejam apresentadas por organizações de produtores florestais, por órgãos de administração e gestão dos baldios ou autarquias locais.
+
+2 - Para as acções previstas no capítulo III, serão ainda consideradas, por ordem decrescente de prioridade, as candidaturas que incidam em áreas:
+
+a) Extremamente sensíveis e muito sensíveis ao risco de incêndio;
+
+b) Integradas em regiões (NUT III) com taxas de arborização superiores à média nacional;
+
+c) Da Rede Natura 2000 ou da Rede Nacional de Áreas Protegidas.
+
+###### Artigo 20.º — Contrato de atribuição de ajudas
+
+1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos a celebrar entre o IFADAP e os beneficiários, no prazo máximo de 30 dias a contar da data de notificação ao interessado e àquele Instituto da aprovação da candidatura.
+
+2 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento das ajudas.
+
+3 - Pode ser exigida a constituição de garantias a favor do IFADAP, para segurança do reembolso das ajudas atribuídas.
+
+###### Artigo 21.º — Obrigações dos beneficiários
+
+Os beneficiários ficam obrigados a:
+
+a) Em candidaturas que visem a redução do risco de ignição e de progressão do incêndio, cumprir o plano orientador de prevenção, devendo nele estar incluídas as operações alvo de ajuda pública no âmbito da presente portaria e pelo período estabelecido pelo contrato;
+
+b) Em candidaturas que visem a vigilância fixa ou móvel, entregar às entidades competentes de coordenação regional da detecção e combate dos incêndios florestais, até Maio de cada ano e durante o período de vida útil dos meios co-financiados, o plano de vigilância dos espaços florestais onde exercem a respectiva acção;
+
+c) Utilizar as viaturas co-financiadas exclusivamente em acções de intervenção em fogos emergentes e prevenção de incêndios florestais;
+
+d) As viaturas co-financiadas devem ser de cor amarela e identificadas com logótipo de modelo e regras de utilização a aprovar pela Direcção-Geral das Florestas.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 149/2004 - Diário da República n.º 36/2004, Série I-B de 2004-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772), em vigor a partir de 2004-02-17
+
+###### Artigo 22.º — Pagamento das ajudas
+
+1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais, até ao limite de quatro tranches anuais.
+
+2 - Os pedidos de pagamento serão apresentados ao coordenador da medida AGRIS, através das direcções regionais de agricultura, que, após análise dos mesmos e verificação da execução das intervenções em causa, procederá ao envio ao IFADAP de um recapitulativo de despesas, com base no qual se procederá ao pagamento.

@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:694070:por
+title: Decreto n.º 43/99
+short_title: null
+summary: Aprova o Acordo, por troca de notas, entre a República Portuguesa e a República da Letónia sobre Supressão de Vistos,
+  de 20 de Abril de 1999
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 43/99
+official_date: null
+publication_date: '1999-11-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 256/1999, Série I-A de 1999-11-03
+  number: '256'
+  series: I
+  supplement: null
+  pages: 7464 - 7466
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/11/256a00/74647466.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/43/1999/11/03/p/dre/pt/html
+  oj: null
+  dre: '694070'
+  dre_path: /dr/detalhe/decreto/43-1999-694070
+  internal: pt:dre:694070:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/43-1999-694070
+  metadata_url: https://data.dre.pt/eli/dec/43/1999/11/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43-1999-694070
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-11-03T00:00:00Z'
+integrity:
+  source_sha256: cd19c437d90d131c82c9d6bf67eba480a0f96e312f6633a6d8dde2c3dfd9f0cc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-43-694070.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Portugal
+- Passaporte
+- Admissão de Estrangeiros
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 43/99
+
+de 3 de Novembro
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único
+
+É aprovado o Acordo, por troca de notas, entre a República Portuguesa e a República da Letónia sobre Supressão de Vistos, de 20 de Abril de 1999, cuja versão autêntica em língua portuguesa segue em anexo.
+
+Visto e aprovado pelo Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho.
+
+**Assinado em 12 de Outubro de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 21 de Outubro de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+Lisboa, 12 de Abril de 1999
+
+Exmo. Sr. Encarregado de Negócios da Letónia:
+
+No seguimento das negociações que tiveram lugar entre o Ministério dos Negócios Estrangeiros e a Embaixada da Letónia, tenho a honra de propor a V. Ex.ª a celebração de um acordo de supressão de vistos nos seguintes termos:
+
+1 - Os cidadãos de uma Parte Contratante titulares de passaporte diplomático, de serviço, especial e comum válido podem, sem necessidade de visto, transitar, entrar, permanecer ou sair do território nacional da outra Parte Contratante, por um período não superior a 90 dias por semestre a contar da data da primeira entrada.
+
+2 - Para os cidadãos da República da Letónia o período de 90 dias começa a contar a partir da data da passagem da fronteira externa que delimita o espaço de livre circulação constituído pelos Estados Partes na Convenção de Aplicação do Acordo de Schengen, datada de 19 de Junho de 1990, e onde esta se encontre em aplicação.
+
+3 - Os cidadãos de uma Parte Contratante titulares de passaporte diplomático, de serviço ou especial válido nomeados para prestar serviço na missão diplomática ou posto consular do seu Estado no território da outra Parte Contratante podem, sem necessidade de visto, entrar, transitar, permanecer ou sair do território da outra Parte Contratante durante o período da sua missão.
+
+4 - As facilidades atribuídas no n.º 3 aos cidadãos nacionais das Partes Contratantes titulares de passaporte diplomático, de serviço ou especial estendem-se pelo período da sua missão aos membros das respectivas famílias, desde que estes sejam titulares de passaporte diplomático, de serviço ou especial.
+
+5 - Para os fins constantes dos n.os 3 e 4, cada Parte Contratante deve informar a outra, por via diplomática, da chegada das pessoas nomeadas para prestar serviço na missão diplomática ou posto consular correspondente e dos membros da sua família, antes da entrada no território da outra Parte Contratante.
+
+6 - O regime da isenção de visto para os cidadãos de uma Parte Contratante titulares de passaporte diplomático, de serviço, especial ou comum válido não permite trabalhar, estudar ou residir em território nacional da outra Parte Contratante sem o respectivo visto ou autorização.
+
+7 - Para os efeitos do presente Acordo entende-se por «passaporte válido» aquele que ainda tem, pelo menos, três meses de validade no momento da entrada no território da outra Parte Contratante.
+
+8 - As Partes Contratantes trocarão entre si espécimes de passaportes contemplados por este Acordo, por via diplomática, 30 dias antes da entrada em vigor deste Acordo.
+
+9 - No caso de uma das Partes Contratantes introduzir alterações nos passaportes, deverá enviar à outra Parte Contratante, por via diplomática, até 90 dias antes da entrada em circulação, espécimes e completa informação de carácter técnico sobre os novos passaportes.
+
+10 - Os cidadãos de uma Parte Contratante titulares de passaporte diplomático, de serviço, especial ou comum válido apenas poderão entrar e sair do território da outra Parte Contratante pelos pontos de passagem devidamente assinalados para a circulação internacional de passageiros.
+
+11 - São aplicáveis aos cidadãos de cada uma das Partes Contratantes as obrigações decorrentes da lei e demais disposições internas da outra Parte Contratante em cujo território o cidadão se encontra que não sejam contrárias ao presente Acordo.
+
+12 - Cada uma das Partes Contratantes reserva-se o direito de recusar a entrada ou estada aos cidadãos nacionais da outra Parte Contratante nos termos da sua legislação interna.
+
+13 - Cada uma das Partes Contratantes poderá suspender temporariamente a aplicação do presente Acordo, no todo ou em parte, por razões de segurança nacional, ordem ou saúde públicas ou relações internacionais, devendo tal suspensão ser comunicada de imediato à outra Parte Contratante, por via diplomática.
+
+14 - A modificação do presente Acordo é admitida por mútuo consentimento das Partes Contratantes e formalizada por troca de notas.
+
+15 - O presente Acordo entrará em vigor 30 dias após a última notificação por escrito, por via diplomática, em que uma das Partes Contratantes informa a outra da conclusão das formalidades exigidas pela ordem jurídico-constitucional interna.
+
+16 - O presente Acordo é concluído por tempo indeterminado, permanecendo em vigor até 90 dias após a data na qual uma das Partes Contratantes tenha notificado a outra, por via diplomática, da sua intenção de proceder à denúncia deste Acordo.
+
+Mais solicito que confirme a sua concordância com as disposições atrás referidas e que aceite que a presente nota e respectiva resposta constituam um acordo entre os dois Estados.
+
+Aproveito esta oportunidade para reiterar a V. Ex.ª os protestos da minha mais elevada consideração.
+
+Jaime Gama, Ministro dos Negócios Estrangeiros.
+
+Lisboa, 20 de Abril de 1999
+
+S. Ex.ª Sr. Dr. Jaime Gama, Ministro dos Negócios Estrangeiros de Portugal:
+
+Excelência:
+
+Tenho a honra de acusar a recepção da nota de S. Ex.ª de 12 de Abril de 1999.
+
+Seguindo as instruções recebidas do meu Ministro e em seu nome, venho responder a S. Ex.ª que o Acordo de Supressão de Vistos entre Portugal e a República da Letónia deverá compreender o seguinte:
+
+1 - Os cidadãos de uma Parte Contratante titulares de passaporte diplomático, de serviço, especial e comum válido podem, sem necessidade de visto, transitar, entrar, permanecer ou sair do território nacional da outra Parte Contratante, por um período não superior a 90 dias por semestre a contar da data da primeira entrada.
+
+2 - Para os cidadãos da República da Letónia o período de 90 dias começa a contar a partir da data da passagem da fronteira externa que delimita o espaço de livre circulação constituído pelos Estados Partes na Convenção de Aplicação do Acordo de Schengen, datada de 19 de Junho de 1990, e onde esta se encontre em aplicação.
+
+3 - Os cidadãos de uma Parte Contratante titulares de passaporte diplomático, de serviço ou especial válido nomeados para prestar serviço na missão diplomática ou posto consular do seu Estado no território da outra Parte Contratante podem, sem necessidade de visto, entrar, transitar, permanecer ou sair do território da outra Parte Contratante durante o período da sua missão.
+
+4 - As facilidades atribuídas no n.º 3 aos cidadãos nacionais das Partes Contratantes titulares de passaporte diplomático, de serviço ou especial estendem-se pelo período da sua missão aos membros das respectivas famílias, desde que estes sejam titulares de passaporte diplomático, de serviço ou especial.
+
+5 - Para os fins constantes dos n.os 3 e 4, cada Parte Contratante deve informar a outra, por via diplomática, da chegada das pessoas nomeadas para prestar serviço na missão diplomática ou posto consular correspondente e dos membros da sua família, antes da entrada no território da outra Parte Contratante.
+
+6 - O regime da isenção de visto para os cidadãos de uma Parte Contratante titulares de passaporte diplomático, de serviço, especial ou comum válido não permite trabalhar, estudar ou residir em território nacional da outra Parte Contratante sem o respectivo visto ou autorização.
+
+7 - Para os efeitos do presente Acordo entende-se por «passaporte válido» aquele que ainda tem, pelo menos, três meses de validade no momento da entrada no território da outra Parte Contratante.
+
+8 - As Partes Contratantes trocarão entre si espécimes de passaportes contemplados por este Acordo, por via diplomática, 30 dias antes da entrada em vigor deste Acordo.
+
+9 - No caso de uma das Partes Contratantes introduzir alterações nos passaportes diplomáticos, deverá enviar à outra Parte Contratante, por via diplomática, até 90 dias antes da entrada em circulação, espécimes e completa informação de carácter técnico sobre os novos passaportes.
+
+10 - Os cidadãos de uma Parte Contratante titulares de passaporte diplomático, de serviço, especial ou comum válido apenas poderão entrar e sair do território da outra Parte Contratante pelos pontos de passagem devidamente assinalados para circulação internacional de passageiros.
+
+11 - São aplicáveis aos cidadãos de cada uma das Partes Contratantes as obrigações decorrentes da lei e demais disposições internas da outra Parte Contratante em cujo território o cidadão se encontra que não sejam contrárias ao presente Acordo.
+
+12 - Cada uma das Partes Contratantes reserva-se o direito de recusar a entrada ou estada aos cidadãos nacionais da outra Parte Contratante nos termos da sua legislação interna.
+
+13 - Cada uma das Partes Contratantes poderá suspender temporariamente a aplicação do presente Acordo, no todo ou em parte, por razões de segurança nacional, ordem ou saúde públicas ou relações internacionais, devendo tal suspensão ser comunicada de imediato à outra Parte Contratante, por via diplomática.
+
+14 - A modificação do presente Acordo é admitida por mútuo consentimento das Partes Contratantes e formalizada por troca de notas.
+
+15 - O presente Acordo entrará em vigor 30 dias após a última notificação por escrito, por via diplomática, em que uma das Partes Contratantes informa a outra da conclusão das formalidades exigidas pela ordem jurídico-constitucional interna.
+
+16 - O presente Acordo é concluído por tempo indeterminado, permanecendo em vigor até 90 dias após a data na qual uma das Partes Contratantes tenha notificado a outra, por via diplomática, da sua intenção de proceder à denúncia deste Acordo.
+
+Tenho a honra de informar V. Ex.ª de que as disposições acima indicadas foram aceites pelo Governo da República da Letónia e ainda que esta nota e a nota de V. Ex.ª constituem um acordo entre a República da Letónia e a República Portuguesa.
+
+Aproveito esta ocasião, Sr. Ministro, para reiterar a S. Ex.ª os protestos da minha mais elevada consideração.
+
+Com os melhores cumprimentos.
+
+Rolands Lappuke, Encarregado de Negócios.

@@ -1,0 +1,288 @@
+---
+schema_version: '1.0'
+id: pt:dre:390626:por
+title: Portaria n.º 22863
+short_title: null
+summary: Aprova a nova tabela dos honorários das manipulações de drogas e medicamentos e altera os preços de diversas substâncias
+  medicamentosas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde e Assistência - Direcção-Geral de Saúde
+proposing_entity: null
+official_number: '22863'
+official_date: null
+publication_date: '1967-09-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 204/1967, Série I de 1967-09-01
+  number: '204'
+  series: I
+  supplement: null
+  pages: 1571 - 1572
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/09/20400/15711572.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390626'
+  dre_path: /dr/detalhe/portaria/22863-1967-390626
+  internal: pt:dre:390626:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22863-1967-390626
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22863-1967-390626
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1967-09-01T00:00:00Z'
+integrity:
+  source_sha256: fe9fb8f3bfc1049799e96f54a9373c77d8735f3a4e9e1f3c8ded7488940719ad
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1967/DRE-1967-22863-390626.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22863
+
+Os honorários devidos aos farmacêuticos para manipulação de drogas e medicamentos, não obstante os aumentos ocorridos na remuneração do trabalho, continuam a ser regulados pela tabela aprovada pela [Portaria n.º 11547](https://diariodarepublica.pt/dr/detalhe/portaria/11547-1946-150084), de 28 de Outubro de 1946.
+
+Por outro lado, têm-se verificado grandes oscilações nos preços de algumas substâncias medicamentosas utilizadas em farmácia.
+
+Por isso, enquanto se não procede à revisão total do actual Regimento de Preços dos Medicamentos, afigura-se de justiça aprovar desde já as indispensáveis alterações às tabelas dos honorários das manipulações e dos preços das substâncias que maiores agravamentos têm apresentado nos últimos anos.
+
+Nestes termos, ouvida a comissão permanente para a elaboração e revisão dos preços dos medicamentos, nomeada por despacho publicado no Diário do Governo n.º 286, 2.ª série, de 12 de Dezembro de 1966:
+
+Manda n Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, o seguinte:
+
+É aprovada a nova tabela dos honorários das manipulações de drogas e medicamentos e são alterados os preços das substâncias medicamentosas nos termos abaixo indicados.
+
+Ministério da Saúde e Assistência, 1 de Setembro de 1967. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.
+
+Tabela dos honorários das manipulações farmacêuticas
+
+Ampolas esterilizadas de 1 cm3 a 20 cm3:
+
+Até seis ... 17$00
+
+Por cada uma a mais ... $90
+
+Bolos:
+
+Até seis ... 5$00
+
+Por cada uma a mais ... $40
+
+Caixas (divisão incluída):
+
+Até seis ... 3$40
+
+Por cada uma a mais ... $90
+
+Cápsulas (Le Huby):
+
+Até três ... 5$00
+
+Por cada uma a mais ... $90
+
+Cataplasmas:
+
+Até 500 g ... 4$50
+
+Por cada 100 g a mais ou fracção ... $50
+
+Cozimentos:
+
+Até 250 g ... 6$80
+
+Por cada 100 g a mais ou fracção ... $90
+
+Electuários:
+
+Até 250 g ... 4$50
+
+Por cada 100 g a mais ou fracção ... $90
+
+Emulsões:
+
+Até 100 g ... 8$50
+
+Por cada 100 g a mais ou fracção ... 2$50
+
+Espécies:
+
+Até 250 g ... 5$00
+
+Por cada 100 g a mais ou fracção ... $90
+
+Esterilizações, cada uma ... 13$60
+
+Geleias:
+
+Até 100 g ... 8$50
+
+Por cada 100 g a mais ou fracção ... 3$40
+
+Glicerados:
+
+Até 50 g ... .5$00
+
+Por cada 25 g a mais ou fracção ... $90
+
+Hóstias:
+
+Até três ... 3$40
+
+De mais de três até seis ... 6$80
+
+Por cada uma a mais ... $90
+
+Infusos:
+
+Até 250 g ... 6$00
+
+Por cada 100 g a mais ou fracção ... $90
+
+Julepos:
+
+Até 100 g ... 6$80
+
+Por cada 100 g a mais ou fracção ... 1$70
+
+Looques:
+
+Até 100 g ... 8$50
+
+Por cada 100 g a mais ou fracção ... 2$50
+
+Macerados:
+
+Até 250 g ... 5$00
+
+Por cada 100 g a mais ou fracção ... $70
+
+Misturas:
+
+Até 100 g ... 5$00
+
+Por cada 100 g a mais ou fracção ... $90
+
+Óvulos:
+
+Até seis ... 8$50
+
+Por cada um a mais ... $90
+
+Papéis:
+
+Até três ... 3$40
+
+Por cada um a mais ... $50
+
+Pastas:
+
+Até 50 g ... 5$00
+
+Por cada 25 g a mais ou fracção ... $90
+
+Pastilhas (comprimidos ou não):
+
+Até seis ... 3$40
+
+Por cada uma a mais ... $30
+
+Pílulas:
+
+Até seis ... 6$80
+
+Por cada uma a mais ... $90
+
+Com revestimento de qualquer induto:
+
+Até seis ... 8$50
+
+Por cada uma a mais ... $90
+
+Poções:
+
+Até 100 g ... 5$00,
+
+Por cada 100 g a mais ou fracção ... $90
+
+Pomadas:
+
+Até 50 g ... 5$00
+
+Por cada 25 g a mais ou fracção ... $90
+
+Pós compostos:
+
+Até 50 g ... 4$50
+
+Por cada 25 g a mais ou fracção ... $90
+
+Solutos:
+
+Até 100 g ... 5$00
+
+Por cada 100 g a mais ou fracção ... $90
+
+Supositórios:
+
+Até seis ... 8$50
+
+Por cada um a mais ... $90
+
+Suspensões:
+
+Até 100 g ... 5$00
+
+Por cada 100 g a mais ou fracção ... $90
+
+Durante as horas extraordinárias de serviço obrigatório os honorários são acrescidos de 50 por cento.
+
+Serviço nocturno, desde as 0 horas às 9, por cada chamada, além do custo total dos medicamentos, mais 10$00.
+
+Preços para as seguintes substâncias medicamentosas, em substituição dos indicados no Regimento de Preços dos Medicamentos, publicado pela [Portaria n.º 19240](https://diariodarepublica.pt/dr/detalhe/portaria/19240-1962-164988), de 18 de Junho de 1962
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1967/09/20400/15711572.pdf))](https://files.diariodarepublica.pt/1s/1967/09/20400/15711572.pdf)
+
+Ministério da Saúde e Assistência, 1 de Setembro de 1967. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

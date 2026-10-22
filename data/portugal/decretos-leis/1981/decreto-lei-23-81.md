@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:390001:por
+title: Decreto-Lei n.º 23/81
+short_title: null
+summary: Estabelece medidas com vistas a reforçar a dinâmica dos contratos de viabilização
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado das Finanças
+proposing_entity: null
+official_number: 23/81
+official_date: null
+publication_date: '1981-01-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/1981, Série I de 1981-01-29
+  number: '24'
+  series: I
+  supplement: null
+  pages: 271 - 272
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02400/02710272.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390001'
+  dre_path: /dr/detalhe/decreto-lei/23-1981-390001
+  internal: pt:dre:390001:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1981-390001
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1981-390001
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-01-29T00:00:00Z'
+integrity:
+  source_sha256: 4b174a74bb906a1b34cf1ef976c356ce35f63e59d64a7246c81260cc4f6793d5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-23-390001.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 23/81
+
+de 29 de Janeiro
+
+A figura jurídica dos contratos de viabilização, criada pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, representou um instrumento de política económica de natureza transitória destinado a responder eficazmente a uma conjuntura difícil no tecido empresarial privado decorrente das modificações económicas, políticas e sociais ocorridas no período subsequente a 25 de Abril de 1974.
+
+Em confirmação do carácter temporalmente precário e conjuntural dos contratos de viabilização, cominou o [Decreto-Lei n.º 120/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1978-294551), de 1 de Junho, como prazo limite para a respectiva propositura, a data de 31 de Dezembro de 1978, com excepção para situações perfeitamente caracterizadas neste diploma.
+
+Encontrando-se no momento, e por aquela razão, consolidado o conjunto de empresas candidatas à outorga dos referidos contratos de viabilização, constata-se, contudo, que os processos ainda actualmente em curso não se harmonizam com os prazos processuais legalmente estatuídos para o efeito, revelando, outrossim, que a celeridade desejada pelo legislador na celebração dos aludidos contratos não vem tendo correspondência prática em numerosos casos
+
+Assim:
+
+Considerando a necessidade de evitar a eternização de um tal instrumento de saneamento económico-financeiro de natureza transitória;
+
+Considerando, em ordem a este objectivo, a conveniência da adopção de medidas adequadas a um reforço da dinâmica conducente à finalização daquela figura jurídica:
+
+O Goveno decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º- 1 - As empresas cujo processo se encontre pendente em virtude da falta de elementos necessários à elaboração do parecer técnico do banco maior credor deverão completar definitivamente o processo com a entrega, na referida instituição de crédito e na Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., adiante designada por Parempresa, no prazo máximo de noventa dias, a contar da publicação do presente diploma, dos documentos em falta, sob pena de se haverem por arquivados os respectivos processos de propositura.
+
+2 - Logo que remetidos pelas empresas os documentos referidos no número anterior, a instituição maior credora enviará, no prazo máximo de quarenta e cinco dias, o seu parecer técnico e respectivos consensos bancários à Parempresa, a fim de por esta ser elaborada a proposta final a que alude o n.º 1 do artigo 8.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
+
+3 - Da eventual falta de cumprimento por parte da instituição de crédito maior credora do disposto no n.º 2 deverá a Parempresa dar do facto pronto conhecimento ao Ministro das Finanças e do Plano.
+
+4 - No caso previsto no número anterior, concluindo-se pela inexistência de fundamentação bastante para o facto, ou não havendo sido accionado, no caso de falta de obtenção do consenso bancário, o preceituado nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 46/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1980-678378), de 20 de Março, poderá o Ministro das Finanças e do Plano, ouvido o Banco de Portugal, determinar a aplicação à instituição maior credora da medida prevista no n.º 3 do artigo 4.º do presente diploma.
+
+###### Art. 2.º O parecer do Banco de Portugal, como gestor do Fundo de Compensação, sobre as propostas que lhe forem submetidas pela Parempresa nos termos do n.º 14 da [Portaria n.º 275/77](https://diariodarepublica.pt/dr/detalhe/portaria/275-1977-252036), de 20 de Maio, deverá ser proferido no prazo máximo de quinze dias, decorrido o qual se tem por tacitamente favorável.
+
+###### Art. 3.º O incumprimento do prazo referido no n.º 2 do artigo 11.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, que agora se fixa em trinta dias, por motivos imputáveis a uma ou várias das instituições de crédito intervenientes, faz impender sobre elas a responsabilidade pelo pagamento das bonificações devidas à empresa proponente e relativas às dívidas reestruturadas, com efeitos a partir do termo do prazo em que o contrato deveria ter sido legalmente celebrado.
+
+###### Art. 4.º - 1 - Para efeitos do artigo anterior, a instituição de crédito maior credora enviará de imediato à Parempresa cópia do contrato de viabilização celebrado, cabendo a esta sociedade a verificação do cumprimento do prazo fixado naquele artigo.
+
+2 - A Parempresa comunicará ao Ministro das Finanças e do Plano as situações de incumprimento no prazo de cinco dias após a sua ocorrência, com a indicação discriminada dos montantes periódicos de bonificações a receber pelas instituições de crédito responsáveis por conta do contrato de viabilização celebrado.
+
+3 - O Ministro das Finanças e do Plano determinará ao Banco de Portugal a retenção das bonificações devidas às instituições de crédito em falta, até ao montante das bonificações a que a empresa proponente tenha direito pelas dívidas reestruturadas, pelo período do atraso verificado na celebração do contrato de viabilização.
+
+4 - As bonificações referidas no número anterior deverão ser entregues pelo Banco de Portugal à empresa proponente.
+
+###### Art. 5.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+
+Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
+
+**Promulgado em 15 de Janeiro de 1981.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

@@ -1,0 +1,963 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122403266:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-122403273",
+ "dre_path": "/dr/detalhe/decreto-lei/71-2019-122403266",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-05-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122397353",
+    "122397354",
+    "122397355",
+    "122397356",
+    "122397357",
+    "122397358",
+    "122397359",
+    "122397360",
+    "122397361",
+    "122397362",
+    "122397363",
+    "122397364",
+    "122397365",
+    "122397366",
+    "122397367",
+    "122397369",
+    "122397370",
+    "122397371",
+    "122397372",
+    "122397373",
+    "122397374",
+    "122410775",
+    "122410776",
+    "122410777",
+    "122410778",
+    "122410779",
+    "122410780",
+    "122410781",
+    "122410782",
+    "122410783",
+    "122410784",
+    "122410785",
+    "122410786",
+    "122410787",
+    "122410788",
+    "122410789",
+    "122410790",
+    "122410791",
+    "122410792",
+    "122410793",
+    "122410794",
+    "122410795",
+    "122410796",
+    "122410797",
+    "122410798",
+    "122410799",
+    "122410800",
+    "122410801",
+    "122410802",
+    "122410803",
+    "122410804",
+    "122410805",
+    "122410806",
+    "122410807",
+    "122410808",
+    "122410809",
+    "122410810",
+    "122410811",
+    "122410812",
+    "122410813",
+    "122410814",
+    "122410815",
+    "122410816",
+    "122410817",
+    "122410818",
+    "122410819",
+    "122410820",
+    "122410821",
+    "122410822",
+    "122410823",
+    "122410824",
+    "122410825",
+    "122410826",
+    "122410827",
+    "122410828",
+    "122410829",
+    "122410830",
+    "122410831",
+    "122410832"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639825:por",
+     "title": "Lei n.º 75-B/2020",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/lei/75-b-2020-152639825"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "122397353",
+    "122397354",
+    "122397355",
+    "122397356",
+    "122397357",
+    "122397358",
+    "122397359",
+    "122397360",
+    "152810621",
+    "152810622",
+    "122397363",
+    "122397364",
+    "122397365",
+    "122397366",
+    "122397367",
+    "122397368",
+    "122397369",
+    "122397370",
+    "122397371",
+    "122397372",
+    "122397373",
+    "122397374",
+    "122410775",
+    "122410776",
+    "122410777",
+    "122410778",
+    "122410779",
+    "122410780",
+    "122410781",
+    "122410782",
+    "122410783",
+    "122410784",
+    "122410785",
+    "122410786",
+    "122410787",
+    "122410788",
+    "122410789",
+    "122410790",
+    "122410791",
+    "122410792",
+    "122410793",
+    "122410794",
+    "122410795",
+    "122410796",
+    "122410797",
+    "122410798",
+    "122410799",
+    "122410800",
+    "122410801",
+    "122410802",
+    "122410803",
+    "122410804",
+    "122410805",
+    "122410806",
+    "122410807",
+    "122410808",
+    "122410809",
+    "122410810",
+    "122410811",
+    "122410812",
+    "122410813",
+    "122410814",
+    "122410815",
+    "122410816",
+    "122410817",
+    "122410818",
+    "122410819",
+    "122410820",
+    "122410821",
+    "122410822",
+    "122410823",
+    "122410824",
+    "122410825",
+    "122410826",
+    "122410827",
+    "122410828",
+    "122410829",
+    "122410830",
+    "122410831",
+    "122410832"
+   ]
+  },
+  {
+   "date": "2024-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:900706888:por",
+     "title": "Decreto-Lei n.º 111/2024",
+     "published": "2024-12-19",
+     "dre_path": "/dr/detalhe/decreto-lei/111-2024-900706888"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "122397353",
+    "122397354",
+    "122397355",
+    "122397356",
+    "122397357",
+    "122397358",
+    "122397359",
+    "122397360",
+    "152810621",
+    "152810622",
+    "122397363",
+    "122397364",
+    "122397365",
+    "122397366",
+    "122397367",
+    "122397368",
+    "900786553",
+    "122397370",
+    "122397371",
+    "122397372",
+    "122397373",
+    "122397374",
+    "122410775",
+    "122410776",
+    "122410777",
+    "122410778",
+    "122410779",
+    "122410780",
+    "122410781",
+    "122410782",
+    "122410783",
+    "122410784",
+    "122410785",
+    "122410786",
+    "122410787",
+    "122410788",
+    "122410789",
+    "122410790",
+    "122410791",
+    "122410792",
+    "122410793",
+    "122410794",
+    "122410795",
+    "122410796",
+    "122410797",
+    "122410798",
+    "122410799",
+    "122410800",
+    "122410801",
+    "122410802",
+    "122410803",
+    "122410804",
+    "122410805",
+    "122410806",
+    "122410807",
+    "122410808",
+    "122410809",
+    "122410810",
+    "122410811",
+    "122410812",
+    "122410813",
+    "122410814",
+    "122410815",
+    "122410816",
+    "122410817",
+    "122410818",
+    "122410819",
+    "122410820",
+    "122410821",
+    "122410822",
+    "122410823",
+    "122410824",
+    "122410825",
+    "122410826",
+    "122410827",
+    "122410828",
+    "122410829",
+    "122410830",
+    "122410831",
+    "122410832"
+   ]
+  }
+ ],
+ "fragments": {
+  "122397353": {
+   "fragment_id": "122403274",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 71/2019\n\nde 27 de maio\n\nO Decreto-Lei n.º 248/2009, de 22 de setembro, em conformidade com o disposto no artigo 101.º da Lei n.º 12-A/2008, de 27 de fevereiro, veio estabelecer o regime legal da carreira especial de enfermagem, bem como os respetivos requisitos de habilitação profissional, dotando-a dos mecanismos que, àquela data, se afiguraram adequados à natureza da profissão e à especificidade do seu exercício.\n\nReconhecendo-se que a alteração legislativa criou um patamar de referência para as carreiras dos profissionais de saúde no âmbito do Serviço Nacional de Saúde (SNS), conforme decorre do preâmbulo do Decreto-Lei n.º 247/2009, de 22 de setembro, considerou-se pertinente replicar o mesmo modelo no setor empresarial do Estado, tanto mais que «[...] a padronização e a identidade de critérios de organização e valorização de recursos humanos contribuem para a circularidade do sistema e sustentam o reconhecimento mútuo da qualificação, independentemente do local de trabalho e da natureza jurídica da relação de emprego».\n\nPassados quase 10 anos após a entrada em vigor daqueles diplomas, impõe-se introduzir algumas alterações ao quadro legal vigente, ditadas pela experiência verificada no decurso do tempo e pelas necessidades e realidades atuais, dotando os serviços e estabelecimentos de saúde de uma maior coerência e capacidade de resposta, face à evolução constante das necessidades em saúde das populações.\n\nCom efeito, o SNS tem de se constituir como uma entidade dinâmica, proativa e com capacidade de responder de forma eficiente e sustentável às necessidades de saúde resultantes da evolução demográfica e epidemiológica. Neste sentido, deve ser possível aos serviços adaptarem-se às necessidades de cuidados, preservando os interesses e direitos daqueles que recorrem ao SNS, mas também dos seus trabalhadores.\n\nAssim, reconhecendo a relevância que assumem os trabalhadores enfermeiros no âmbito do SNS, quer em termos de organização e funcionamento dos serviços, quer enquanto garante da qualidade da prestação dos cuidados de saúde e da segurança dos procedimentos que lhes compete assegurar, impõe-se, a par de outras medidas já adotadas pelo atual Governo nesse mesmo sentido, espelhar nos diplomas legais que enformam a carreira de enfermagem soluções inicialmente não consagradas.\n\nPara este efeito não foi descurada, como aliás o não poderia ser, a evolução ao nível da formação na área da enfermagem que se reflete, naturalmente, nas correspondentes competências que sendo plenamente aproveitadas concorrem para a melhoria da qualidade, acessibilidade e eficiência do sistema de saúde.\n\nÉ este o objetivo do presente decreto-lei, ao proceder à alteração da estrutura das carreiras de enfermagem e especial de enfermagem, passando a contemplar a categoria de enfermeiro especialista. Considerando que a estrutura da anterior carreira prevista no Decreto-Lei n.º 437/91, de 8 de novembro, contemplava idêntica categoria, na qual se encontravam providos por concurso enfermeiros que, entretanto, transitaram para a categoria de enfermeiro, é prevista a transição automática para a categoria de enfermeiro especialista. Idêntico procedimento se adota para as categorias subsistentes de enfermeiro chefe e de enfermeiro supervisor que transitam para a categoria de enfermeiro gestor.\n\nPor outro lado, reconhecendo a importância da coordenação operacional das equipas de enfermagem, na vertente da gestão de cuidados e na vertente da gestão das competências dos enfermeiros, aspetos centrais na organização da atividade em enfermagem e que concorrem para o bom funcionamento dos serviços e estabelecimentos de saúde, entendeu-se igualmente necessário reavaliar a existência da categoria de enfermeiro principal, na qual não se encontra provido nenhum enfermeiro, tendo-se concluído que a mesma deveria ser substituída, pelas razões apontadas, pela categoria de enfermeiro gestor.\n\nForam observados os procedimentos previstos na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e observado o procedimento fixado no artigo 470.º e seguintes do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122397354": {
+   "fragment_id": "122410675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à:\n\na) Segunda alteração ao Decreto-Lei n.º 247/2009, de 22 de setembro, alterado pelo Decreto-Lei n.º 122/2010, de 11 de novembro, que estabelece o regime da carreira de enfermagem nas entidades públicas empresariais e nas parcerias em saúde, bem como os respetivos requisitos de habilitação profissional e percurso de progressão profissional e de diferenciação técnico-científica;\n\nb) Segunda alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro, alterado pelo Decreto-Lei n.º 122/2010, de 11 de novembro, que estabelece o regime da carreira especial de enfermagem, bem como os respetivos requisitos de habilitação profissional."
+  },
+  "122397355": {
+   "fragment_id": "122410676",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 247/2009, de 22 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 247/2009, de 22 de setembro\n\nOs artigos 7.º, 9.º e 11.º do Decreto-Lei n.º 247/2009, de 22 de setembro, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - A carreira de enfermagem é pluricategorial e estrutura-se nas seguintes categorias:\n\na) [...];\n\nb) Enfermeiro especialista;\n\nc) Enfermeiro gestor.\n\n2 - As categorias referidas no número anterior devem estar expressamente previstas na caracterização dos postos de trabalho dos mapas de pessoal dos respetivos serviços ou estabelecimentos, discriminando-se a atividade a executar, bem como, tratando-se da categoria de enfermeiro especialista, qual o colégio de especialidade da Ordem dos Enfermeiros em que o seu ocupante deve estar inscrito.\n\n3 - Para os efeitos previstos no número anterior, salvo situações excecionais, em que a segurança na prestação de cuidados de enfermagem determine outras necessidades, o número total de postos de trabalho correspondentes à categoria de enfermeiro especialista não deve ser superior a 25 % do total de enfermeiros de que o serviço ou estabelecimento careça para o desenvolvimento das respetivas atividades.\n\n4 - A alteração do número de postos de trabalho depende de parecer prévio favorável dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.\n\n5 - A previsão, nos mapas de pessoal, de postos de trabalho que devam ser ocupados por enfermeiros gestores depende da necessidade de gerir uma unidade ou serviço com, pelo menos, 10 enfermeiros.\n\n6 - Os enfermeiros gestores podem acumular a gestão de duas ou mais unidades ou serviços, caso as mesmas, individualmente, não completem o número mínimo de enfermeiros previstos no número anterior.\n\nArtigo 9.º\n\n[...]\n\n1 - O conteúdo funcional da categoria de enfermeiro, desenvolvido com plena autonomia técnico-científica, é inerente às respetivas qualificações e competências em enfermagem e tem como foco o indivíduo, a família e a comunidade, ao longo de todo o seu ciclo de vida.\n\n2 - Ao enfermeiro incumbe, designadamente:\n\na) Identificar necessidades de cuidados de enfermagem no âmbito da promoção de saúde, da prevenção da doença, do tratamento, da reabilitação e readaptação funcional e da paliação;\n\nb) Planear os cuidados de enfermagem, tendo em conta as necessidades de cuidados identificadas, estabelecendo prioridades de acordo com os recursos disponíveis;\n\nc) Prestar cuidados de enfermagem ao longo do ciclo de vida e nos três níveis de prevenção, documentando apropriadamente todas as intervenções e informações relevantes para a garantia da continuidade e qualidade dos cuidados e para a avaliação da sua eficiência;\n\nd) Avaliar os cuidados de enfermagem, ajustando-os sempre que necessário;\n\ne) Registar e produzir informação relativa ao exercício profissional, incluindo a relevante para os sistemas de informação;\n\nf) Avaliar as suas intervenções, contribuindo para o desenvolvimento de uma prática baseada na evidência, tendo em vista a eficiência e qualidade dos cuidados de enfermagem, a autonomia e a valorização profissional;\n\ng) Participar nos processos de decisão próprios da sua atividade integrando as equipas multidisciplinares;\n\nh) Promover e participar em ações que visem articular as diferentes redes e níveis de cuidados de saúde;\n\ni) Participar em processos formativos, contribuindo para a sua valorização profissional e para a valorização profissional dos seus pares;\n\nj) Colaborar no processo de formação de estudantes de enfermagem;\n\nk) Coordenar e supervisionar enfermeiros em contexto de integração profissional;\n\nl) Supervisionar, quando adequado, a formação de outros perfis profissionais;\n\nm) Participar e colaborar em projetos de investigação;\n\nn) Integrar júris de procedimentos concursais para recrutamento.\n\nArtigo 11.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - A admissão para a categoria de enfermeiro especialista faz-se de entre os enfermeiros, com pelo menos quatro anos de exercício profissional, detentores do título de enfermeiro especialista exigido para o preenchimento do correspondente posto de trabalho.\n\n4 - A admissão para a categoria de enfermeiro gestor faz-se de entre enfermeiros especialistas, com três anos de exercício de funções na especialidade correspondente à do serviço ou unidade a que respeita o posto de trabalho a ocupar, e preferencialmente habilitados com formação em gestão de serviços de saúde.»"
+  },
+  "122397356": {
+   "fragment_id": "122410677",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 247/2009, de 22 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 247/2009, de 22 de setembro\n\nSão aditados ao Decreto-Lei n.º 247/2009, de 22 de setembro, na sua redação atual, os artigos 10.º-A, 10.º-B, 12.º-A, 12.º-B e 12.º-C, com a seguinte redação:\n\n«Artigo 10.º-A\n\nConteúdo funcional da categoria de enfermeiro especialista\n\nPara além do conteúdo funcional da categoria de enfermeiro, o enfermeiro especialista desenvolve competências próprias inerentes à sua área de especialização, competindo-lhe designadamente:\n\na) Identificar as necessidades em saúde do indivíduo, família, grupo ou comunidade, planear cuidados, coordenar e desenvolver intervenções em enfermagem na sua área de especialidade;\n\nb) Prestar cuidados de enfermagem diferenciados e complexos, dentro da sua área de especialidade, ao longo do ciclo de vida e nos três níveis de prevenção, documentando apropriadamente todas as intervenções e informações relevantes para a garantia da continuidade e qualidade dos cuidados e para a avaliação da sua eficiência;\n\nc) Avaliar as intervenções de enfermagem diferenciadas e complexas, ajustando-as sempre que necessário;\n\nd) Avaliar as intervenções de enfermagem na sua área de especialidade, contribuindo para o desenvolvimento de uma prática baseada na evidência, tendo em vista a eficiência e qualidade dos cuidados de enfermagem, a autonomia e a valorização profissional;\n\ne) Responsabilizar-se pela área de enfermagem, nas equipas multiprofissionais, no que diz respeito ao diagnóstico de enfermagem na sua área de especialidade e à consecução das intervenções delas decorrentes;\n\nf) Exercer funções de consultadoria de natureza técnico-científica na sua área de especialidade;\n\ng) Definir indicadores sensíveis aos cuidados de enfermagem na sua área de especialidade e monitorizar os resultados obtidos em articulação com o enfermeiro gestor ou com o que exerça funções de direção;\n\nh) Coordenar a supervisão clínica de estudantes de enfermagem;\n\ni) Coordenar a supervisão clínica de enfermeiros especialistas da sua área de especialidade;\n\nj) Coordenar e supervisionar enfermeiros especialistas em contexto de integração profissional;\n\nk) Coordenar, quando adequado, a formação de outros perfis profissionais;\n\nl) Identificar oportunidades relevantes para a investigação em saúde, investigando ou colaborando em estudos de investigação e divulgando os seus resultados;\n\nm) Colaborar nos processos de avaliação de desempenho dos enfermeiros e enfermeiros especialistas, desde que funcionalmente dependentes;\n\nn) Participar em projetos institucionais na área da acreditação e certificação, gestão da qualidade e do risco, em particular na sua área de especialidade;\n\no) Integrar júris de procedimentos concursais para recrutamento de enfermeiros e enfermeiros especialistas na sua área de especialidade.\n\nArtigo 10.º-B\n\nConteúdo funcional da categoria de enfermeiro gestor\n\nPara além das funções inerentes às categorias de enfermeiro e de enfermeiro especialista, ao enfermeiro gestor, cujo conteúdo funcional integra, na generalidade, as funções de planeamento, organização, direção e avaliação dos cuidados de enfermagem, utilizando um modelo facilitador do desenvolvimento organizacional e promotor da qualidade e segurança, compete ainda e em especial:\n\na) Gerir os recursos da unidade ou serviço, otimizando as respostas às necessidades em cuidados de saúde das pessoas, grupos e comunidade, defendendo os princípios do Serviço Nacional de Saúde, bem como o respeito pela ética e pela deontologia do exercício da enfermagem;\n\nb) Gerir os recursos humanos funcionalmente dependentes em função das necessidades de cuidados, nomeadamente através da elaboração de planos de trabalho, escalas e planos de férias, otimizando a eficiência e a produtividade;\n\nc) Criar as condições para um trabalho cooperativo e de efetiva articulação da equipa multiprofissional e um ambiente de trabalho saudável na unidade ou serviço, salvaguardando a dignidade e autonomia de exercício profissional e promovendo o desenvolvimento pessoal e profissional dos enfermeiros;\n\nd) Garantir uma prática de enfermagem na unidade ou serviço baseada em normas de boas práticas e na melhor evidência disponível;\n\ne) Garantir a implementação dos processos de melhoria contínua da qualidade dos cuidados de enfermagem e participar nos processos de acreditação e certificação;\n\nf) Promover uma cultura de segurança na prestação de cuidados de saúde, gerindo os riscos na sua unidade ou serviço, integrando grupos de trabalho e comissões nesta área;\n\ng) Promover a divulgação de informação relevante para o exercício profissional de enfermagem na unidade ou serviço;\n\nh) Responsabilizar-se pela valorização de competências da equipa que gere, facilitando e promovendo os processos formativos de acordo com as diretrizes institucionais;\n\ni) Avaliar o desempenho profissional dos enfermeiros e enfermeiros especialistas, bem como colaborar, quando adequado, na avaliação de desempenho de outros profissionais que estejam funcionalmente dependentes;\n\nj) Implementar auditorias internas com vista à melhoria da qualidade dos cuidados de saúde prestados;\n\nk) Promover o desenvolvimento da investigação e inovação em enfermagem, envolvendo a equipa na utilização dos resultados para a melhoria da qualidade dos cuidados e criação de valor;\n\nl) Promover a formação pré e pós-graduada da enfermagem, criando condições facilitadoras do processo de ensino e aprendizagem;\n\nm) Garantir a documentação da prática clínica e a monitorização de indicadores sensíveis aos cuidados de enfermagem, com o recurso às tecnologias de informação;\n\nn) Participar na determinação dos postos de trabalho de trabalhadores enfermeiros e enfermeiros especialistas a prever no mapa de pessoal para a unidade ou serviço, tendo em vista os cuidados de enfermagem a prestar, baseada em instrumentos de cálculo validados, que garantam a segurança na prestação de cuidados de enfermagem;\n\no) Participar, em articulação com a direção do serviço, no processo de contratualização interna relativo à respetiva unidade ou serviço;\n\np) Participar na determinação das necessidades de recursos materiais e equipamentos para a prestação de cuidados na unidade ou serviço, tendo em conta critérios de custo, efetividade e segurança;\n\nq) Emitir pareceres, exercer funções de assessoria técnica e participar nas comissões de escolha de materiais e equipamentos para a prestação de cuidados.\n\nArtigo 12.º-A\n\nFunções de direção\n\n1 - Podem exercer funções de direção, na sequência de procedimento concursal, desenvolvido nos termos do artigo seguinte, os enfermeiros gestores com pelo menos três anos de antiguidade nessa categoria.\n\n2 - Sem prejuízo do disposto em lei especial, e de acordo com a organização interna e conveniência de serviço, o exercício de funções de direção é cumprido em regime de contrato de trabalho em comissão de serviço, com a duração de três anos, renovável por iguais períodos.\n\n3 - A renovação do contrato de trabalho em comissão de serviço está dependente da entrega de um programa de ação e de relatório de desempenho, a apresentar até 60 dias antes do seu termo, que carecem de apreciação obrigatória pelo órgão máximo de gestão do respetivo serviço ou estabelecimento de saúde, no prazo de 30 dias.\n\n4 - Nas situações em que a cessação da comissão de serviço seja da iniciativa do órgão máximo de gestão, tal cessação carece de fundamentação e tem por base a não comprovação superveniente da capacidade adequada a garantir a observação das orientações superiormente fixadas ou a necessidade de imprimir nova orientação à gestão do departamento, área ou conjunto de unidades ou serviços.\n\n5 - O exercício das funções referidas nos números anteriores não impede a manutenção da atividade de prestação de cuidados de saúde por parte dos enfermeiros, mas prevalece sobre a mesma.\n\nArtigo 12.º-B\n\nSeleção dos trabalhadores enfermeiros para o exercício de funções de direção\n\n1 - Para os efeitos previstos n.º 1 do artigo anterior, o procedimento concursal é obrigatoriamente publicitado na bolsa de emprego público e na página eletrónica do respetivo serviço ou estabelecimento de saúde, durante 10 dias úteis, com a indicação dos requisitos formais de provimento, do perfil exigido, tal qual se encontra caracterizado no mapa de pessoal, da composição do júri e dos métodos de seleção, que incluem, necessariamente, a realização de uma fase final de entrevistas públicas.\n\n2 - Os candidatos ao procedimento concursal devem integrar no correspondente processo de candidatura um programa de ação para três anos de desenvolvimento da organização a dirigir.\n\n3 - A publicitação referida no n.º 1 é precedida de aviso a publicar em órgão de imprensa de expansão nacional e na 2.ª série do Diário da República.\n\n4 - O júri é constituído:\n\na) Pelo enfermeiro diretor ou pelo enfermeiro vogal do conselho clínico e de saúde, ou por quem estes designem, que preside;\n\nb) Por dois enfermeiros em exercício de funções de direção, um do respetivo mapa de pessoal do serviço ou organismo em cujo mapa se encontre o cargo a prover e outro de diferente serviço ou organismo, designados pelo respetivo dirigente máximo.\n\n5 - Findo o procedimento concursal, o júri elabora a lista final de ordenação, submetendo-a ao respetivo órgão máximo de gestão, para efeitos de homologação.\n\n6 - O procedimento concursal previsto no presente artigo é urgente e de interesse público.\n\nArtigo 12.º-C\n\nCompetências do enfermeiro com funções de direção\n\nCompete ao enfermeiro com funções de direção:\n\na) Elaborar o plano de ação e o respetivo relatório anual das atividades de enfermagem da unidade ou serviço, alinhado com o plano estratégico de enfermagem para a instituição;\n\nb) Promover a partilha de experiências e a disseminação de boas práticas entre os enfermeiros gestores que integrem a sua unidade ou serviço, coordenando reuniões periódicas;\n\nc) Implementar auditorias internas com vista à melhoria da qualidade dos cuidados de saúde prestados;\n\nd) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde no processo de gestão de enfermeiros, incluindo a identificação de necessidades, o recrutamento e alocação de recursos necessários para assegurar cuidados de saúde de qualidade, atendendo, para o efeito, à complexidade dos cuidados, às condições de estrutura, ao nível de qualificação e ao perfil de competência, nos termos previstos na caracterização do posto de trabalho no respetivo mapa de pessoal;\n\ne) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde na monitorização e análise de indicadores sensíveis aos cuidados de enfermagem, bem como na definição de padrões de qualidade e políticas ou diretivas formativas a desenvolver pelo serviço ou estabelecimentos de saúde na área de enfermagem;\n\nf) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde na definição de protocolos de articulação com os estabelecimentos de ensino superior no âmbito da formação pré e pós-graduada e investigação em enfermagem;\n\ng) Avaliar o desempenho profissional dos enfermeiros, em especial dos gestores, bem como colaborar, quando adequado, na avaliação de desempenho de outros profissionais que dele estejam funcionalmente dependentes;\n\nh) Participar e/ou coordenar grupos de trabalho ou comissões institucionais;\n\ni) Integrar júris de procedimentos concursais para seleção de enfermeiros para o exercício de funções de direção;\n\nj) Exercer as demais competências que lhe sejam atribuídas por lei ou regulamento.»"
+  },
+  "122397357": {
+   "fragment_id": "122410678",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro\n\nOs artigos 7.º, 9.º, 12.º e 18.º do Decreto-Lei n.º 248/2009, de 22 de setembro, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) Enfermeiro especialista;\n\nc) Enfermeiro gestor.\n\n2 - As categorias referidas no número anterior devem estar expressamente previstas na caracterização dos postos de trabalho dos mapas de pessoal dos respetivos serviços ou estabelecimentos, discriminando-se a atividade a executar, bem como, tratando-se da categoria de enfermeiro especialista, qual o colégio de especialidade da Ordem dos Enfermeiros em que o seu ocupante deve estar inscrito.\n\n3 - Para os efeitos previstos no número anterior, salvo situações excecionais, em que a segurança na prestação de cuidados de enfermagem determine outras necessidades, o número total de postos de trabalho correspondentes à categoria de enfermeiro especialista não deve ser superior a 25 % do total de enfermeiros de que o serviço ou estabelecimento careça para o desenvolvimento das respetivas atividades.\n\n4 - A alteração do número de postos de trabalho depende de parecer prévio favorável dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.\n\n5 - A previsão, nos mapas de pessoal, de postos de trabalho que devam ser ocupados por enfermeiros gestores depende da necessidade de gerir uma unidade ou serviço com, pelo menos, 10 enfermeiros.\n\n6 - Os enfermeiros gestores podem acumular a gestão de duas ou mais unidades ou serviços, caso as mesmas, individualmente, não completem o número mínimo de enfermeiros previstos no número anterior.\n\nArtigo 9.º\n\n[...]\n\n1 - O conteúdo funcional da categoria de enfermeiro, desenvolvido com plena autonomia técnico-científica, é inerente às respetivas qualificações e competências em enfermagem e tem como foco o indivíduo, a família e a comunidade, ao longo de todo o seu ciclo de vida.\n\n2 - Ao enfermeiro incumbe, designadamente:\n\na) Identificar necessidades de cuidados de enfermagem no âmbito da promoção de saúde, da prevenção da doença, do tratamento, da reabilitação e readaptação funcional e da paliação;\n\nb) Planear os cuidados de enfermagem, tendo em conta as necessidades de cuidados identificadas, estabelecendo prioridades de acordo com os recursos disponíveis;\n\nc) Prestar cuidados de enfermagem ao longo do ciclo de vida e nos três níveis de prevenção, documentando apropriadamente todas as intervenções e informações relevantes para a garantia da continuidade e qualidade dos cuidados e para a avaliação da sua eficiência;\n\nd) Avaliar os cuidados de enfermagem, ajustando-os sempre que necessário;\n\ne) Registar e produzir informação relativa ao exercício profissional, incluindo a relevante para os sistemas de informação;\n\nf) Avaliar as suas intervenções, contribuindo para o desenvolvimento de uma prática baseada na evidência, tendo em vista a eficiência e qualidade dos cuidados de enfermagem, a autonomia e a valorização profissional;\n\ng) Participar nos processos de decisão próprios da sua atividade integrando as equipas multidisciplinares;\n\nh) Promover e participar em ações que visem articular as diferentes redes e níveis de cuidados de saúde;\n\ni) Participar em processos formativos, contribuindo para a sua valorização profissional e para a valorização profissional dos seus pares;\n\nj) Colaborar no processo de formação de estudantes de enfermagem;\n\nk) Coordenar e supervisionar enfermeiros em contexto de integração profissional;\n\nl) Supervisionar, quando adequado, a formação de outros perfis profissionais;\n\nm) Participar e colaborar em projetos de investigação;\n\nn) Integrar júris de procedimentos concursais para recrutamento.\n\nArtigo 12.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - A admissão para a categoria de enfermeiro especialista faz-se de entre os enfermeiros, com pelo menos quatro anos de exercício profissional, detentores do título de enfermeiro especialista exigido para o preenchimento do correspondente posto de trabalho.\n\n4 - A admissão para a categoria de enfermeiro gestor faz-se de entre enfermeiros especialistas, com três anos de exercício de funções na especialidade correspondente à do serviço ou unidade a que respeita o posto de trabalho a ocupar, e preferencialmente habilitados com formação em gestão de serviços de saúde.\n\nArtigo 18.º\n\nFunções de direção\n\n1 - Podem exercer funções de direção, na sequência de procedimento concursal, desenvolvido nos termos do artigo seguinte, os enfermeiros gestores com pelo menos três anos de antiguidade nessa categoria.\n\n2 - Sem prejuízo do disposto em lei especial, e de acordo com a organização interna e conveniência de serviço, o exercício de funções de direção é cumprido em regime de comissão de serviço, com a duração de três anos, renovável por iguais períodos.\n\n3 - A renovação do contrato de trabalho em comissão de serviço está dependente da entrega de um programa de ação e de relatório de desempenho, a apresentar até 60 dias antes do seu termo, que carecem de apreciação obrigatória no prazo de 30 dias.\n\n4 - Nas situações em que a cessação da comissão de serviço seja da iniciativa do órgão máximo de gestão, tal cessação carece de fundamentação e tem por base a não comprovação superveniente da capacidade adequada a garantir a observação das orientações superiormente fixadas ou a necessidade de imprimir nova orientação à gestão do departamento, área ou conjunto de unidades ou serviços.\n\n5 - O exercício das funções referidas nos números anteriores não impede a manutenção da atividade de prestação de cuidados de saúde por parte dos enfermeiros, mas prevalece sobre a mesma.\n\n6 - [Revogado.]\n\n7 - [Revogado.]\n\n8 - [Revogado.]\n\n9 - [Revogado.]»"
+  },
+  "122397358": {
+   "fragment_id": "122410679",
+   "type": 11,
+   "heading": "Artigo 5.º — Aditamento ao Decreto-Lei n.º 248/2009, de 22 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aditamento ao Decreto-Lei n.º 248/2009, de 22 de setembro\n\nSão aditados ao Decreto-Lei n.º 248/2009, de 22 de setembro, na sua redação atual, os artigos 10.º-A, 10.º-B, 18.º-A, 18.º-B e 18.º-C, com a seguinte redação:\n\n«Artigo 10.º-A\n\nConteúdo funcional da categoria de enfermeiro especialista\n\nPara além do conteúdo funcional da categoria de enfermeiro, o enfermeiro especialista desenvolve competências próprias inerentes à sua área de especialização, competindo-lhe designadamente:\n\na) Identificar as necessidades em saúde do indivíduo, família, grupo ou comunidade, planear cuidados, coordenar e desenvolver intervenções em enfermagem na sua área de especialidade;\n\nb) Prestar cuidados de enfermagem diferenciados e complexos, dentro da sua área de especialidade, ao longo do ciclo de vida e nos três níveis de prevenção, documentando apropriadamente todas as intervenções e informações relevantes para a garantia da continuidade e qualidade dos cuidados e para a avaliação da sua eficiência;\n\nc) Avaliar as intervenções de enfermagem diferenciadas e complexas, ajustando-as sempre que necessário;\n\nd) Avaliar as intervenções de enfermagem na sua área de especialidade, contribuindo para o desenvolvimento de uma prática baseada na evidência, tendo em vista a eficiência e qualidade dos cuidados de enfermagem, a autonomia e a valorização profissional;\n\ne) Responsabilizar-se pela área de enfermagem, nas equipas multiprofissionais, no que diz respeito ao diagnóstico de enfermagem na sua área de especialidade e à consecução das intervenções delas decorrentes;\n\nf) Exercer funções de consultadoria de natureza técnico-científica na sua área de especialidade;\n\ng) Definir indicadores sensíveis aos cuidados de enfermagem na sua área de especialidade e monitorizar os resultados obtidos em articulação com o enfermeiro gestor ou com o que exerça funções de direção;\n\nh) Coordenar a supervisão clínica de estudantes de enfermagem;\n\ni) Coordenar a supervisão clínica de enfermeiros especialistas da sua área de especialidade;\n\nj) Coordenar e supervisionar enfermeiros especialistas em contexto de integração profissional;\n\nk) Coordenar, quando adequado, a formação de outros perfis profissionais;\n\nl) Identificar oportunidades relevantes para a investigação em saúde, investigando ou colaborando em estudos de investigação e divulgando os seus resultados;\n\nm) Colaborar nos processos de avaliação de desempenho dos enfermeiros e enfermeiros especialistas, desde que funcionalmente dependentes;\n\nn) Participar em projetos institucionais na área da acreditação e certificação, gestão da qualidade e do risco, em particular na sua área de especialidade;\n\no) Integrar júris de procedimentos concursais para recrutamento de enfermeiros e enfermeiros especialistas na sua área de especialidade.\n\nArtigo 10.º-B\n\nConteúdo funcional da categoria de enfermeiro gestor\n\nPara além das funções inerentes às categorias de enfermeiro e de enfermeiro especialista, ao enfermeiro gestor, cujo conteúdo funcional integra, na generalidade, as funções de planeamento, organização, direção e avaliação dos cuidados de enfermagem, utilizando um modelo facilitador do desenvolvimento organizacional e promotor da qualidade e segurança, compete ainda e em especial:\n\na) Gerir os recursos da unidade ou serviço, otimizando as respostas às necessidades em cuidados de saúde das pessoas, grupos e comunidade, defendendo os princípios do Serviço Nacional de Saúde, bem como o respeito pela ética e pela deontologia do exercício da enfermagem;\n\nb) Gerir os recursos humanos funcionalmente dependentes em função das necessidades de cuidados, nomeadamente através da elaboração de planos de trabalho, escalas e planos de férias, otimizando a eficiência e a produtividade;\n\nc) Criar as condições para um trabalho cooperativo e de efetiva articulação da equipa multiprofissional e um ambiente de trabalho saudável na unidade ou serviço, salvaguardando a dignidade e autonomia de exercício profissional e promovendo o desenvolvimento pessoal e profissional dos enfermeiros;\n\nd) Garantir uma prática de enfermagem na unidade ou serviço baseada em normas de boas práticas e na melhor evidência disponível;\n\ne) Garantir a implementação dos processos de melhoria contínua da qualidade dos cuidados de enfermagem e participar nos processos de acreditação e certificação;\n\nf) Promover uma cultura de segurança na prestação de cuidados de saúde, gerindo os riscos na sua unidade ou serviço, integrando grupos de trabalho e comissões nesta área;\n\ng) Promover a divulgação de informação relevante para o exercício profissional de enfermagem na unidade ou serviço;\n\nh) Responsabilizar-se pela valorização de competências da equipa que gere, facilitando e promovendo os processos formativos de acordo com as diretrizes institucionais;\n\ni) Avaliar o desempenho profissional dos enfermeiros e enfermeiros especialistas, bem como colaborar, quando adequado, na avaliação de desempenho de outros profissionais que estejam funcionalmente dependentes;\n\nj) Implementar auditorias internas com vista à melhoria da qualidade dos cuidados de saúde prestados;\n\nk) Promover o desenvolvimento da investigação e inovação em enfermagem, envolvendo a equipa na utilização dos resultados para a melhoria da qualidade dos cuidados e criação de valor;\n\nl) Promover a formação pré e pós-graduada da enfermagem, criando condições facilitadoras do processo de ensino e aprendizagem;\n\nm) Garantir a documentação da prática clínica e a monitorização de indicadores sensíveis aos cuidados de enfermagem, com o recurso às tecnologias de informação;\n\nn) Participar na determinação dos postos de trabalho de trabalhadores enfermeiros e enfermeiros especialistas a prever no mapa de pessoal para a unidade ou serviço, tendo em vista os cuidados de enfermagem a prestar, baseada em instrumentos de cálculo validados, que garantam a segurança na prestação de cuidados de enfermagem;\n\no) Participar, em articulação com a direção do serviço, no processo de contratualização interna relativo à respetiva unidade ou serviço;\n\np) Participar na determinação das necessidades de recursos materiais e equipamentos para a prestação de cuidados na unidade ou serviço, tendo em conta critérios de custo, efetividade e segurança;\n\nq) Emitir pareceres, exercer funções de assessoria técnica e participar nas comissões de escolha de materiais e equipamentos para a prestação de cuidados.\n\nArtigo 18.º-A\n\nSeleção dos trabalhadores enfermeiros para o exercício de funções de direção\n\n1 - Para os efeitos previstos n.º 1 do artigo anterior, o procedimento concursal é obrigatoriamente publicitado na bolsa de emprego público e na página eletrónica do respetivo serviço ou estabelecimento de saúde, durante 10 dias úteis, com a indicação dos requisitos formais de provimento, do perfil exigido, tal qual se encontra caracterizado no mapa de pessoal, da composição do júri e dos métodos de seleção, que incluem, necessariamente, a realização de uma fase final de entrevistas públicas.\n\n2 - Os candidatos ao procedimento concursal devem integrar no correspondente processo de candidatura um programa de ação para três anos de desenvolvimento da organização a dirigir.\n\n3 - A publicitação referida no n.º 1 é precedida de aviso a publicar em órgão de imprensa de expansão nacional e na 2.ª série do Diário da República.\n\n4 - O júri é constituído:\n\na) Pelo enfermeiro diretor ou pelo enfermeiro vogal do conselho clínico e de saúde, ou por quem estes designem, que preside;\n\nb) Por dois enfermeiros em exercício de funções de direção, um do respetivo mapa de pessoal do serviço ou organismo em cujo mapa se encontre o cargo a prover e outro de diferente serviço ou organismo, designados pelo respetivo dirigente máximo.\n\n5 - Findo o procedimento concursal, o júri elabora a lista final de ordenação, submetendo-a ao respetivo órgão máximo de gestão, para efeitos de homologação.\n\n6 - O procedimento concursal previsto no presente artigo é urgente e de interesse público.\n\nArtigo 18.º-B\n\nCompetências do enfermeiro com funções de direção\n\nCompete ao enfermeiro com funções de direção:\n\na) Elaborar o plano de ação e o respetivo relatório anual das atividades de enfermagem da unidade ou serviço, alinhado com o plano estratégico de enfermagem para a instituição;\n\nb) Promover a partilha de experiências e a disseminação de boas práticas entre os enfermeiros gestores que integrem a sua unidade ou serviço, coordenando reuniões periódicas;\n\nc) Implementar auditorias internas com vista à melhoria da qualidade dos cuidados de saúde prestados;\n\nd) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde no processo de gestão de enfermeiros, incluindo a identificação de necessidades, o recrutamento e alocação de recursos necessários para assegurar cuidados de saúde de qualidade, atendendo, para o efeito, à complexidade dos cuidados, às condições de estrutura, ao nível de qualificação e ao perfil de competência, nos termos previstos na caracterização do posto de trabalho no respetivo mapa de pessoal;\n\ne) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde na monitorização e análise de indicadores sensíveis aos cuidados de enfermagem, bem como na definição de padrões de qualidade e políticas ou diretivas formativas a desenvolver pelo serviço ou estabelecimentos de saúde na área de enfermagem;\n\nf) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde na definição de protocolos de articulação com os estabelecimentos de ensino superior no âmbito da formação pré e pós-graduada e investigação em enfermagem;\n\ng) Avaliar o desempenho profissional dos enfermeiros, em especial dos gestores, bem como colaborar, quando adequado, na avaliação de desempenho de outros profissionais que dele estejam funcionalmente dependentes;\n\nh) Participar e/ou coordenar grupos de trabalho ou comissões institucionais;\n\ni) Integrar júris de procedimentos concursais para seleção de enfermeiros para o exercício de funções de direção;\n\nj) Exercer as demais competências que lhe sejam atribuídas por lei ou regulamento.\n\nArtigo 18.º-C\n\nRemuneração das funções de direção\n\nO exercício, em comissão de serviço, das funções a que se refere o artigo anterior confere o direito à remuneração correspondente à remuneração base do trabalhador, acrescida de um suplemento remuneratório de (euro) 300, sem prejuízo das atualizações salariais gerais anuais, a abonar nos termos do n.º 4 do artigo 159.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.»"
+  },
+  "122397359": {
+   "fragment_id": "122410680",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção de enfermagem\n\nNos serviços e estabelecimentos de saúde abrangidos pelo âmbito de aplicação objetivo dos Decretos-Leis n.os 247/2009 e 248/2009, ambos de 22 de setembro, na redação introduzida pelo presente decreto-lei, deve ser constituída uma direção de enfermagem, cuja composição, competências e forma de funcionamento são definidas em diploma próprio."
+  },
+  "122397360": {
+   "fragment_id": "122410681",
+   "type": 11,
+   "heading": "Artigo 7.º — Tabela remuneratória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Tabela remuneratória\n\nO número de posições remuneratórias das categorias da carreira especial de enfermagem, bem como a identificação dos correspondentes níveis remuneratórios da tabela remuneratória única constam do anexo i ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "122397361": {
+   "fragment_id": "122410682",
+   "type": 11,
+   "heading": "Artigo 8.º — Transições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transições\n\n1 - Os trabalhadores enfermeiros titulares das categorias subsistentes previstas no n.º 1 do artigo 6.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril, transitam automaticamente, e com dispensa de quaisquer formalidades, para a categoria de enfermeiro gestor.\n\n2 - Os trabalhadores enfermeiros titulares da categoria de enfermeiro transitam para a categoria de enfermeiro especialista, também com dispensa de quaisquer formalidades, desde que reúnam, cumulativamente, as seguintes condições:\n\na) Ocupem posto de trabalho cuja caracterização exija, para o respetivo preenchimento, a posse do título de enfermeiro especialista;\n\nb) Detenham título de enfermeiro especialista coincidente com o identificado na caracterização desse mesmo posto de trabalho;\n\nc) Aufiram o suplemento remuneratório previsto no n.º 3 do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril.\n\n3 - Transitam para a categoria de enfermeiro os demais trabalhadores.\n\n4 - O disposto no presente artigo, com exceção do n.º 1, aplica-se aos trabalhadores enfermeiros com contrato de trabalho celebrado com entidades públicas empresariais do setor da saúde, exceto se abrangidos por instrumento de regulamentação coletiva de trabalho que regule a estrutura da correspondente carreira.\n\n5 - As transições previstas no presente artigo devem constar de lista nominativa a elaborar pelo respetivo serviço ou estabelecimento de saúde, que deve ser afixada em local visível e público e disponibilizada no correspondente sítio na Internet, sendo ainda publicado um aviso na 2.ª série do Diário da República com informação sobre a sua publicitação."
+  },
+  "122397362": {
+   "fragment_id": "122410683",
+   "type": 11,
+   "heading": "Artigo 9.º — Reposicionamento na tabela remuneratória e integração do suplemento remuneratório devido pelo exercício de funções de enfermeiro especialista e de funções de chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reposicionamento na tabela remuneratória e integração do suplemento remuneratório devido pelo exercício de funções de enfermeiro especialista e de funções de chefia\n\n1 - Na transição para a carreira especial de enfermagem prevista nos n.os 1 e 2 do artigo anterior, os trabalhadores enfermeiros são reposicionados na posição remuneratória da tabela constante do anexo i ao presente decreto-lei, de nível remuneratório não inferior ao da primeira posição da categoria para a qual transitam, correspondente ao somatório da remuneração base mensal a que atualmente têm direito e do suplemento remuneratório de função, consoante o caso, de enfermeiro especialista e de chefia, respetivamente, de (euro) 150 e de (euro) 200, auferidos nos termos do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril.\n\n2 - Sem prejuízo do disposto no número anterior, em caso de falta de identidade, os trabalhadores são reposicionados em posição remuneratória automaticamente criada, cujo montante pecuniário seja igual ao montante pecuniário a considerar para efeitos de reposicionamento.\n\n3 - Os enfermeiros titulares de categorias subsistentes que se encontrem nomeados em data anterior à entrada em vigor do presente decreto-lei para o exercício de funções de direção, nos termos previstos no artigo 18.º do Decreto-Lei n.º 248/2009, de 22 de setembro, na sua redação originária, mantêm o direito ao suplemento remuneratório no montante de (euro) 300, fixado no n.º 1 do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril, sendo posicionados na respetiva tabela remuneratória em função da remuneração base auferida, exceto no caso dos enfermeiros titulares das categorias subsistentes abrangidas pelo n.º 1 do artigo anterior, relativamente aos quais se considera, com efeitos à data da cessação das funções aqui salvaguardadas, o somatório da remuneração base mensal auferida acrescida do montante de (euro) 200.\n\n4 - Com exceção dos abrangidos pelo n.º 1 do artigo anterior, os enfermeiros que se encontrem nomeados em regime de comissão de serviço ou detenham um contrato em comissão de serviço para o exercício de funções de chefia, mantêm o direito ao suplemento remuneratório no montante de (euro) 200, fixado no n.º 1 do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril, até que venha a ser desenvolvido, e concluído, um procedimento de seleção destinado à ocupação do posto de trabalho para a categoria de enfermeiro gestor, cuja caraterização corresponda às funções que presentemente desenvolvem.\n\n> Nota: [Artigo 8.º, Lei n.º 51/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/51-2025-913947253) A alteração introduzida ao presente artigo entra em vigor com o Orçamento do Estado para 2026."
+  },
+  "122397363": {
+   "fragment_id": "122410684",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposição transitória\n\n1 - Salvaguardadas as transições previstas no n.º 1 do artigo 8.º, mantêm-se até ao final do respetivo prazo, sem possibilidade de renovação, as comissões de serviço ou os contratos em regime de comissão de serviço dos trabalhadores enfermeiros, celebrados, respetivamente, ao abrigo do artigo 18.º do Decreto-Lei n.º 248/2009, de 22 de setembro, na sua redação originária, ou do Código do Trabalho, destinadas ao exercício de funções de direção ou chefia.\n\n2 - O disposto nos artigos 12.º-A e 12.º-B do Decreto-Lei n.º 247/2009, de 22 de setembro, com a redação introduzida pelo presente decreto-lei, e no artigo 18.º-A do Decreto-Lei n.º 248/2009, de 22 de setembro, com a redação introduzida pelo presente decreto-lei, aplica-se às situações a constituir após a sua entrada em vigor.\n\n3 - O disposto na alínea d) do n.º 2 do artigo 113.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, aplica-se às avaliações de desempenho ocorridas até 2014, inclusive."
+  },
+  "122397364": {
+   "fragment_id": "122410685",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposição final\n\nSem prejuízo do disposto no n.º 4 dos artigos 11.º e 12.º, respetivamente, dos Decretos-Leis n.os 247/2009 e 248/2009, ambos de 22 de setembro, com a redação introduzida pelo presente decreto-lei, os enfermeiros que se encontrem nomeados, à data da entrada em vigor do presente decreto-lei, em regime de comissão de serviço ou detenham um contrato em comissão de serviço para o exercício de funções de direção ou chefia, e ainda os enfermeiros nomeados no cargo de enfermeiro diretor, podem, independentemente da categoria detida, ser opositores a procedimento de seleção para a categoria de enfermeiro gestor, tendo ainda preferência, na lista de ordenação final dos candidatos, em caso de igualdade de classificação."
+  },
+  "122397365": {
+   "fragment_id": "122410686",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 10.º do Decreto-Lei n.º 247/2009, de 22 de setembro, na sua redação atual;\n\nb) O artigo 10.º, o n.º 4 do artigo 13.º, o artigo 14.º, os n.os 6 a 9 do artigo 18.º, o n.º 2 do artigo 21.º, e os artigos 22.º a 25.º e 27.º do Decreto-Lei n.º 248/2009, de 22 de setembro, na sua redação atual;\n\nc) Os artigos 4.º, 6.º e 7.º do Decreto-Lei n.º 122/2010, de 11 de novembro, na sua redação atual."
+  },
+  "122397366": {
+   "fragment_id": "122410687",
+   "type": 11,
+   "heading": "Artigo 13.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Republicação\n\n1 - É republicado, no anexo ii ao presente decreto-lei, do qual faz parte integrante, o Decreto-Lei n.º 247/2009, de 22 de setembro, na redação introduzida pelo presente decreto-lei.\n\n2 - É republicado, no anexo iii ao presente decreto-lei, do qual faz parte integrante, o Decreto-Lei n.º 248/2009, de 22 de setembro, na redação introduzida pelo presente decreto-lei.\n\n3 - Para efeitos da republicação, as referências à Lei n.º 12-A/2008, de 27 de fevereiro, devem considerar-se feitas às respetivas disposições da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual."
+  },
+  "122397367": {
+   "fragment_id": "122410688",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "122397369": {
+   "fragment_id": "122410690",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 7.º)\n\n(ver documento original)"
+  },
+  "122397370": {
+   "fragment_id": "122410691",
+   "type": 14,
+   "heading": "Anexo II — Republicação do Decreto-Lei n.º 247/2009, de 22 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Republicação do Decreto-Lei n.º 247/2009, de 22 de setembro"
+  },
+  "122397371": {
+   "fragment_id": "122410692",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto e âmbito"
+  },
+  "122397372": {
+   "fragment_id": "122410693",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei define o regime legal da carreira aplicável aos enfermeiros nas entidades públicas empresariais e nas parcerias em saúde, em regime de gestão e financiamento privados, integradas no Serviço Nacional de Saúde, bem como os respetivos requisitos de habilitação profissional e percurso de progressão profissional e de diferenciação técnico-científica."
+  },
+  "122397373": {
+   "fragment_id": "122410694",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente decreto-lei aplica-se aos enfermeiros em regime de contrato individual de trabalho, nos termos do Código do Trabalho, nas entidades públicas empresariais e nas parcerias em saúde, em regime de gestão e financiamento privados, integradas no Serviço Nacional de Saúde, nos termos dos diplomas legais que definem o regime jurídico dos trabalhadores das referidas entidades, sem prejuízo da manutenção do mesmo regime laboral e dos termos acordados no respetivo instrumento de regulamentação coletiva de trabalho.\n\n2 - O disposto no número anterior não prejudica os contratos de gestão já aprovados, bem como os que se encontrem em fase de procedimento prévio à contratação ou em fase de procedimento concursal à data de entrada em vigor do presente decreto-lei."
+  },
+  "122397374": {
+   "fragment_id": "122410695",
+   "type": 1,
+   "heading": "Capítulo II — Nível habilitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Nível habilitacional"
+  },
+  "122410775": {
+   "fragment_id": "122410696",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza do nível habilitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza do nível habilitacional\n\n1 - O nível habilitacional exigido para a carreira de enfermagem corresponde aos requisitos prescritos para a atribuição, pela Ordem dos Enfermeiros, de título definitivo de enfermeiro.\n\n2 - Os enfermeiros têm uma atuação de complementaridade funcional relativamente aos demais profissionais de saúde, mas dotada de igual nível de dignidade e autonomia de exercício profissional."
+  },
+  "122410776": {
+   "fragment_id": "122410697",
+   "type": 11,
+   "heading": "Artigo 4.º — Qualificação de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Qualificação de enfermagem\n\nA qualificação de enfermagem é estruturada em títulos de exercício profissional em função de níveis diferenciados de competências e tem por base a obtenção das capacidades e conhecimentos adquiridos ao longo da formação."
+  },
+  "122410777": {
+   "fragment_id": "122410698",
+   "type": 11,
+   "heading": "Artigo 5.º — Utilização do título",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Utilização do título\n\nNo exercício e publicitação da sua atividade profissional, o enfermeiro deve sempre fazer referência ao título detido."
+  },
+  "122410778": {
+   "fragment_id": "122410699",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura da carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estrutura da carreira"
+  },
+  "122410779": {
+   "fragment_id": "122410700",
+   "type": 11,
+   "heading": "Artigo 6.º — Áreas de exercício profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Áreas de exercício profissional\n\n1 - A carreira de enfermagem organiza-se por áreas de exercício profissional e de cuidados de saúde, tais como as áreas hospitalar e de saúde pública, bem como de cuidados primários, continuados e paliativos, na comunidade, pré-hospitalar e de enfermagem no trabalho, podendo vir a ser integradas, de futuro, outras áreas.\n\n2 - Cada área de exercício profissional tem formas de exercício adequadas à natureza da atividade que desenvolve, sendo objeto de definição em instrumento de regulamentação coletiva de trabalho."
+  },
+  "122410780": {
+   "fragment_id": "122410701",
+   "type": 11,
+   "heading": "Artigo 7.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Categorias\n\n1 - A carreira de enfermagem é pluricategorial e estrutura-se nas seguintes categorias:\n\na) Enfermeiro;\n\nb) Enfermeiro especialista;\n\nc) Enfermeiro gestor.\n\n2 - As categorias referidas no número anterior devem estar expressamente previstas na caracterização dos postos de trabalho dos mapas de pessoal dos respetivos serviços ou estabelecimentos, discriminando-se a atividade a executar, bem como, tratando-se da categoria de enfermeiro especialista, qual o colégio de especialidade da Ordem dos Enfermeiros em que o seu ocupante deve estar inscrito.\n\n3 - Para os efeitos previstos no número anterior, salvo situações excecionais, em que a segurança na prestação de cuidados de enfermagem determine outras necessidades, o número total de postos de trabalho correspondentes à categoria de enfermeiro especialista não deve ser superior a 25 % do total de enfermeiros de que o serviço ou estabelecimento careça para o desenvolvimento das respetivas atividades.\n\n4 - A alteração do número de postos de trabalho depende de parecer prévio favorável dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.\n\n5 - A previsão, nos mapas de pessoal, de postos de trabalho que devam ser ocupados por enfermeiros gestores depende da necessidade de gerir uma unidade ou serviço com, pelo menos, 10 enfermeiros.\n\n6 - Os enfermeiros gestores podem acumular a gestão de duas ou mais unidades ou serviços, caso as mesmas, individualmente, não completem o número mínimo de enfermeiros previstos no número anterior."
+  },
+  "122410781": {
+   "fragment_id": "122410702",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres funcionais\n\nOs trabalhadores integrados na carreira de enfermagem estão adstritos, no respeito pela leges artis, ao cumprimento dos deveres éticos e princípios deontológicos a que estão obrigados pelo respetivo título profissional, exercendo a sua profissão com autonomia técnica e científica e respeitando o direito à proteção da saúde dos utentes e da comunidade, e estão sujeitos, para além da observância do dever de sigilo profissional, ao cumprimento dos seguintes deveres funcionais:\n\na) O dever de contribuir para a defesa dos interesses do utente no âmbito da organização das unidades e serviços, incluindo a necessária atuação interdisciplinar, tendo em vista a continuidade e garantia da qualidade da prestação de cuidados;\n\nb) O dever de esclarecer devidamente o utente sobre os cuidados a prestar e prestados, na medida das suas competências, assegurando a efetividade do consentimento informado."
+  },
+  "122410782": {
+   "fragment_id": "122410703",
+   "type": 11,
+   "heading": "Artigo 9.º — Conteúdo funcional da categoria de enfermeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conteúdo funcional da categoria de enfermeiro\n\n1 - O conteúdo funcional da categoria de enfermeiro, desenvolvido com plena autonomia técnico-científica, é inerente às respetivas qualificações e competências em enfermagem e tem como foco o indivíduo, a família e a comunidade, ao longo de todo o seu ciclo de vida.\n\n2 - Ao enfermeiro incumbe, designadamente:\n\na) Identificar necessidades de cuidados de enfermagem no âmbito da promoção de saúde, da prevenção da doença, do tratamento, da reabilitação e readaptação funcional e da paliação;\n\nb) Planear os cuidados de enfermagem, tendo em conta as necessidades de cuidados identificadas, estabelecendo prioridades de acordo com os recursos disponíveis;\n\nc) Prestar cuidados de enfermagem ao longo do ciclo de vida e nos três níveis de prevenção, documentando apropriadamente todas as intervenções e informações relevantes para a garantia da continuidade e qualidade dos cuidados e para a avaliação da sua eficiência;\n\nd) Avaliar os cuidados de enfermagem, ajustando-os sempre que necessário;\n\ne) Registar e produzir informação relativa ao exercício profissional, incluindo a relevante para os sistemas de informação;\n\nf) Avaliar as suas intervenções, contribuindo para o desenvolvimento de uma prática baseada na evidência, tendo em vista a eficiência e qualidade dos cuidados de enfermagem, a autonomia e a valorização profissional;\n\ng) Participar nos processos de decisão próprios da sua atividade integrando as equipas multidisciplinares;\n\nh) Promover e participar em ações que visem articular as diferentes redes e níveis de cuidados de saúde;\n\ni) Participar em processos formativos, contribuindo para a sua valorização profissional e para a valorização profissional dos seus pares;\n\nj) Colaborar no processo de formação de estudantes de enfermagem;\n\nk) Coordenar e supervisionar enfermeiros em contexto de integração profissional;\n\nl) Supervisionar, quando adequado, a formação de outros perfis profissionais;\n\nm) Participar e colaborar em projetos de investigação;\n\nn) Integrar júris de procedimentos concursais para recrutamento."
+  },
+  "122410783": {
+   "fragment_id": "122410704",
+   "type": 11,
+   "heading": "Artigo 10.º — Conteúdo funcional da categoria de enfermeiro principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conteúdo funcional da categoria de enfermeiro principal\n\n[Revogado.]"
+  },
+  "122410784": {
+   "fragment_id": "122410705",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Conteúdo funcional da categoria de enfermeiro especialista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A — Conteúdo funcional da categoria de enfermeiro especialista\n\nPara além do conteúdo funcional da categoria de enfermeiro, o enfermeiro especialista desenvolve competências próprias inerentes à sua área de especialização, competindo-lhe designadamente:\n\na) Identificar as necessidades em saúde do indivíduo, família, grupo ou comunidade, planear cuidados, coordenar e desenvolver intervenções em enfermagem na sua área de especialidade;\n\nb) Prestar cuidados de enfermagem diferenciados e complexos, dentro da sua área de especialidade, ao longo do ciclo de vida e nos três níveis de prevenção, documentando apropriadamente todas as intervenções e informações relevantes para a garantia da continuidade e qualidade dos cuidados e para a avaliação da sua eficiência;\n\nc) Avaliar as intervenções de enfermagem diferenciadas e complexas, ajustando-as sempre que necessário;\n\nd) Avaliar as intervenções de enfermagem na sua área de especialidade, contribuindo para o desenvolvimento de uma prática baseada na evidência, tendo em vista a eficiência e qualidade dos cuidados de enfermagem, a autonomia e a valorização profissional;\n\ne) Responsabilizar-se pela área de enfermagem, nas equipas multiprofissionais, no que diz respeito ao diagnóstico de enfermagem na sua área de especialidade e à consecução das intervenções delas decorrentes;\n\nf) Exercer funções de consultadoria de natureza técnico-científica na sua área de especialidade;\n\ng) Definir indicadores sensíveis aos cuidados de enfermagem na sua área de especialidade e monitorizar os resultados obtidos em articulação com o enfermeiro gestor ou com o que exerça funções de direção;\n\nh) Coordenar a supervisão clínica de estudantes de enfermagem;\n\ni) Coordenar a supervisão clínica de enfermeiros especialistas da sua área de especialidade;\n\nj) Coordenar e supervisionar enfermeiros especialistas em contexto de integração profissional;\n\nk) Coordenar, quando adequado, a formação de outros perfis profissionais;\n\nl) Identificar oportunidades relevantes para a investigação em saúde, investigando ou colaborando em estudos de investigação e divulgando os seus resultados;\n\nm) Colaborar nos processos de avaliação de desempenho dos enfermeiros e enfermeiros especialistas, desde que funcionalmente dependentes;\n\nn) Participar em projetos institucionais na área da acreditação e certificação, gestão da qualidade e do risco, em particular na sua área de especialidade;\n\no) Integrar júris de procedimentos concursais para recrutamento de enfermeiros e enfermeiros especialistas na sua área de especialidade."
+  },
+  "122410785": {
+   "fragment_id": "122410706",
+   "type": 11,
+   "heading": "Artigo 10.º-B — Conteúdo funcional da categoria de enfermeiro gestor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-B — Conteúdo funcional da categoria de enfermeiro gestor\n\nPara além das funções inerentes às categorias de enfermeiro e de enfermeiro especialista, ao enfermeiro gestor, cujo conteúdo funcional integra, na generalidade, as funções de planeamento, organização, direção e avaliação dos cuidados de enfermagem, utilizando um modelo facilitador do desenvolvimento organizacional e promotor da qualidade e segurança, compete ainda e em especial:\n\na) Gerir os recursos da unidade ou serviço, otimizando as respostas às necessidades em cuidados de saúde das pessoas, grupos e comunidade, defendendo os princípios do Serviço Nacional de Saúde, bem como o respeito pela ética e pela deontologia do exercício da enfermagem;\n\nb) Gerir os recursos humanos funcionalmente dependentes em função das necessidades de cuidados, nomeadamente através da elaboração de planos de trabalho, escalas e planos de férias, otimizando a eficiência e a produtividade;\n\nc) Criar as condições para um trabalho cooperativo e de efetiva articulação da equipa multiprofissional e um ambiente de trabalho saudável na unidade ou serviço, salvaguardando a dignidade e autonomia de exercício profissional e promovendo o desenvolvimento pessoal e profissional dos enfermeiros;\n\nd) Garantir uma prática de enfermagem na unidade ou serviço baseada em normas de boas práticas e na melhor evidência disponível;\n\ne) Garantir a implementação dos processos de melhoria contínua da qualidade dos cuidados de enfermagem e participar nos processos de acreditação e certificação;\n\nf) Promover uma cultura de segurança na prestação de cuidados de saúde, gerindo os riscos na sua unidade ou serviço, integrando grupos de trabalho e comissões nesta área;\n\ng) Promover a divulgação de informação relevante para o exercício profissional de enfermagem na unidade ou serviço;\n\nh) Responsabilizar-se pela valorização de competências da equipa que gere, facilitando e promovendo os processos formativos de acordo com as diretrizes institucionais;\n\ni) Avaliar o desempenho profissional dos enfermeiros e enfermeiros especialistas, bem como colaborar, quando adequado, na avaliação de desempenho de outros profissionais que estejam funcionalmente dependentes;\n\nj) Implementar auditorias internas com vista à melhoria da qualidade dos cuidados de saúde prestados;\n\nk) Promover o desenvolvimento da investigação e inovação em enfermagem, envolvendo a equipa na utilização dos resultados para a melhoria da qualidade dos cuidados e criação de valor;\n\nl) Promover a formação pré e pós-graduada da enfermagem, criando condições facilitadoras do processo de ensino e aprendizagem;\n\nm) Garantir a documentação da prática clínica e a monitorização de indicadores sensíveis aos cuidados de enfermagem, com o recurso às tecnologias de informação;\n\nn) Participar na determinação dos postos de trabalho de trabalhadores enfermeiros e enfermeiros especialistas a prever no mapa de pessoal para a unidade ou serviço, tendo em vista os cuidados de enfermagem a prestar, baseada em instrumentos de cálculo validados, que garantam a segurança na prestação de cuidados de enfermagem;\n\no) Participar, em articulação com a direção do serviço, no processo de contratualização interna relativo à respetiva unidade ou serviço;\n\np) Participar na determinação das necessidades de recursos materiais e equipamentos para a prestação de cuidados na unidade ou serviço, tendo em conta critérios de custo, efetividade e segurança;\n\nq) Emitir pareceres, exercer funções de assessoria técnica e participar nas comissões de escolha de materiais e equipamentos para a prestação de cuidados."
+  },
+  "122410786": {
+   "fragment_id": "122410707",
+   "type": 11,
+   "heading": "Artigo 11.º — Condições de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Condições de admissão\n\n1 - O exercício de funções no âmbito da carreira especial de enfermagem depende da obtenção do título profissional atribuído pela Ordem dos Enfermeiros.\n\n2 - Para admissão à categoria de enfermeiro é exigida a titulação em cédula profissional definitiva, atribuída pela Ordem dos Enfermeiros.\n\n3 - A admissão para a categoria de enfermeiro especialista faz-se de entre os enfermeiros, com pelo menos quatro anos de exercício profissional, detentores do título de enfermeiro especialista exigido para o preenchimento do correspondente posto de trabalho.\n\n4 - A admissão para a categoria de enfermeiro gestor faz-se de entre enfermeiros especialistas, com três anos de exercício de funções na especialidade correspondente à do serviço ou unidade a que respeita o posto de trabalho a ocupar, e preferencialmente habilitados com formação em gestão de serviços de saúde."
+  },
+  "122410787": {
+   "fragment_id": "122410708",
+   "type": 11,
+   "heading": "Artigo 12.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Recrutamento\n\n1 - O recrutamento para os postos de trabalho sujeitos ao regime do Código do Trabalho, correspondentes à carreira de enfermagem, incluindo mudança de categoria, é feito mediante processo de seleção com observância do disposto no artigo 11.º do presente decreto-lei.\n\n2 - Os requisitos de candidatura e a tramitação do processo de seleção previstos no número anterior são regulados por instrumento de regulamentação coletiva de trabalho."
+  },
+  "122410788": {
+   "fragment_id": "122410709",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Funções de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-A — Funções de direção\n\n1 - Podem exercer funções de direção, na sequência de procedimento concursal, desenvolvido nos termos do artigo seguinte, os enfermeiros gestores com pelo menos três anos de antiguidade nessa categoria.\n\n2 - Sem prejuízo do disposto em lei especial, e de acordo com a organização interna e conveniência de serviço, o exercício de funções de direção é cumprido em regime de contrato de trabalho em comissão de serviço, com a duração de três anos, renovável por iguais períodos.\n\n3 - A renovação do contrato de trabalho em comissão de serviço está dependente da entrega de um programa de ação e de relatório de desempenho, a apresentar até 60 dias antes do seu termo, que carecem de apreciação obrigatória pelo órgão máximo de gestão do respetivo serviço ou estabelecimento de saúde, no prazo de 30 dias.\n\n4 - Nas situações em que a cessação da comissão de serviço seja da iniciativa do órgão máximo de gestão, tal cessação carece de fundamentação e tem por base a não comprovação superveniente da capacidade adequada a garantir a observação das orientações superiormente fixadas ou a necessidade de imprimir nova orientação à gestão do departamento, área ou conjunto de unidades ou serviços.\n\n5 - O exercício das funções referidas nos números anteriores não impede a manutenção da atividade de prestação de cuidados de saúde por parte dos enfermeiros, mas prevalece sobre a mesma."
+  },
+  "122410789": {
+   "fragment_id": "122410710",
+   "type": 11,
+   "heading": "Artigo 12.º-B — Seleção dos trabalhadores enfermeiros para o exercício de funções de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-B — Seleção dos trabalhadores enfermeiros para o exercício de funções de direção\n\n1 - Para os efeitos previstos n.º 1 do artigo anterior, o procedimento concursal é obrigatoriamente publicitado na bolsa de emprego público e na página eletrónica do respetivo serviço ou estabelecimento de saúde, durante 10 dias úteis, com a indicação dos requisitos formais de provimento, do perfil exigido, tal qual se encontra caracterizado no mapa de pessoal, da composição do júri e dos métodos de seleção, que incluem, necessariamente, a realização de uma fase final de entrevistas públicas.\n\n2 - Os candidatos ao procedimento concursal devem integrar no correspondente processo de candidatura um programa de ação para três anos de desenvolvimento da organização a dirigir.\n\n3 - A publicitação referida no n.º 1 é precedida de aviso a publicar em órgão de imprensa de expansão nacional e na 2.ª série do Diário da República.\n\n4 - O júri é constituído:\n\na) Pelo enfermeiro diretor ou pelo enfermeiro vogal do conselho clínico e de saúde, ou por quem estes designem, que preside;\n\nb) Por dois enfermeiros em exercício de funções de direção, um do respetivo mapa de pessoal do serviço ou organismo em cujo mapa se encontre o cargo a prover e outro de diferente serviço ou organismo, designados pelo respetivo dirigente máximo.\n\n5 - Findo o procedimento concursal, o júri elabora a lista final de ordenação, submetendo-a ao respetivo órgão máximo de gestão, para efeitos de homologação.\n\n6 - O procedimento concursal previsto no presente artigo é urgente e de interesse público."
+  },
+  "122410790": {
+   "fragment_id": "122410711",
+   "type": 11,
+   "heading": "Artigo 12.º-C — Competências do enfermeiro com funções de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-C — Competências do enfermeiro com funções de direção\n\nCompete ao enfermeiro com funções de direção:\n\na) Elaborar o plano de ação e o respetivo relatório anual das atividades de enfermagem da unidade ou serviço, alinhado com o plano estratégico de enfermagem para a instituição;\n\nb) Promover a partilha de experiências e a disseminação de boas práticas entre os enfermeiros gestores que integrem a sua unidade ou serviço, coordenando reuniões periódicas;\n\nc) Implementar auditorias internas com vista à melhoria da qualidade dos cuidados de saúde prestados;\n\nd) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde no processo de gestão de enfermeiros, incluindo a identificação de necessidades, o recrutamento e alocação de recursos necessários para assegurar cuidados de saúde de qualidade, atendendo, para o efeito, à complexidade dos cuidados, às condições de estrutura, ao nível de qualificação e ao perfil de competência, nos termos previstos na caracterização do posto de trabalho no respetivo mapa de pessoal;\n\ne) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde na monitorização e análise de indicadores sensíveis aos cuidados de enfermagem, bem como na definição de padrões de qualidade e políticas ou diretivas formativas a desenvolver pelo serviço ou estabelecimentos de saúde na área de enfermagem;\n\nf) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde na definição de protocolos de articulação com os estabelecimentos de ensino superior no âmbito da formação pré e pós-graduada e investigação em enfermagem;\n\ng) Avaliar o desempenho profissional dos enfermeiros, em especial dos gestores, bem como colaborar, quando adequado, na avaliação de desempenho de outros profissionais que dele estejam funcionalmente dependentes;\n\nh) Participar e/ou coordenar grupos de trabalho ou comissões institucionais;\n\ni) Integrar júris de procedimentos concursais para seleção de enfermeiros para o exercício de funções de direção;\n\nj) Exercer as demais competências que lhe sejam atribuídas por lei ou regulamento."
+  },
+  "122410791": {
+   "fragment_id": "122410712",
+   "type": 11,
+   "heading": "Artigo 13.º — Remunerações e posições remuneratórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Remunerações e posições remuneratórias\n\nAs posições remuneratórias e as remunerações dos trabalhadores integrados na carreira de enfermagem são fixadas em instrumento de regulamentação coletiva de trabalho."
+  },
+  "122410792": {
+   "fragment_id": "122410713",
+   "type": 11,
+   "heading": "Artigo 14.º — Reconhecimento de títulos e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reconhecimento de títulos e categorias\n\nOs títulos atribuídos pela Ordem dos Enfermeiros no âmbito da profissão de enfermagem, bem como as categorias de carreira, são oponíveis para a elegibilidade necessária aos procedimentos de recrutamento e mudança de categoria previstos nas normas aplicáveis."
+  },
+  "122410793": {
+   "fragment_id": "122410714",
+   "type": 14,
+   "heading": "Anexo III — Republicação do Decreto-Lei n.º 248/2009, de 22 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Republicação do Decreto-Lei n.º 248/2009, de 22 de setembro"
+  },
+  "122410794": {
+   "fragment_id": "122410715",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto e âmbito"
+  },
+  "122410795": {
+   "fragment_id": "122410716",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei define o regime da carreira especial de enfermagem, bem como os respetivos requisitos de habilitação profissional."
+  },
+  "122410796": {
+   "fragment_id": "122410717",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei aplica-se aos enfermeiros integrados na carreira especial de enfermagem cuja relação jurídica de emprego público seja constituída por contrato de trabalho em funções públicas."
+  },
+  "122410797": {
+   "fragment_id": "122410718",
+   "type": 1,
+   "heading": "Capítulo II — Nível habilitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Nível habilitacional"
+  },
+  "122410798": {
+   "fragment_id": "122410719",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza do nível habilitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza do nível habilitacional\n\n1 - O nível habilitacional exigido para a carreira especial de enfermagem corresponde aos requisitos prescritos para a atribuição, pela Ordem dos Enfermeiros, de título definitivo de enfermeiro.\n\n2 - Os enfermeiros têm uma atuação de complementaridade funcional relativamente aos demais profissionais de saúde, mas dotada de igual nível de dignidade e autonomia de exercício profissional."
+  },
+  "122410799": {
+   "fragment_id": "122410720",
+   "type": 11,
+   "heading": "Artigo 4.º — Qualificação de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Qualificação de enfermagem\n\nA qualificação de enfermagem é estruturada em títulos de exercício profissional, em função de níveis diferenciados de competências, e tem por base a obtenção das capacidades e conhecimentos adquiridos ao longo da formação."
+  },
+  "122410800": {
+   "fragment_id": "122410721",
+   "type": 11,
+   "heading": "Artigo 5.º — Utilização do título",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Utilização do título\n\nNo exercício e publicitação da sua atividade profissional, o enfermeiro deve sempre fazer referência ao título detido."
+  },
+  "122410801": {
+   "fragment_id": "122410722",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura da carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estrutura da carreira"
+  },
+  "122410802": {
+   "fragment_id": "122410723",
+   "type": 11,
+   "heading": "Artigo 6.º — Áreas de exercício profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Áreas de exercício profissional\n\n1 - A carreira especial de enfermagem organiza-se por áreas de exercício profissional e de cuidados de saúde, tais como as áreas hospitalar e de saúde pública, bem como de cuidados primários, continuados e paliativos, na comunidade, pré-hospitalar e de enfermagem no trabalho, podendo vir a ser integradas, de futuro, outras áreas.\n\n2 - Cada área de exercício profissional tem formas de exercício adequadas à natureza da atividade que desenvolve, sendo objeto de definição em instrumento de regulamentação coletiva de trabalho."
+  },
+  "122410803": {
+   "fragment_id": "122410724",
+   "type": 11,
+   "heading": "Artigo 7.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Categorias\n\n1 - A carreira especial de enfermagem é pluricategorial e estrutura-se nas seguintes categorias:\n\na) Enfermeiro;\n\nb) Enfermeiro especialista;\n\nc) Enfermeiro gestor.\n\n2 - As categorias referidas no número anterior devem estar expressamente previstas na caracterização dos postos de trabalho dos mapas de pessoal dos respetivos serviços ou estabelecimentos, discriminando-se a atividade a executar, bem como, tratando-se da categoria de enfermeiro especialista, qual o colégio de especialidade da Ordem dos Enfermeiros em que o seu ocupante deve estar inscrito.\n\n3 - Para os efeitos previstos no número anterior, salvo situações excecionais, em que a segurança na prestação de cuidados de enfermagem determine outras necessidades, o número total de postos de trabalho correspondentes à categoria de enfermeiro especialista não deve ser superior a 25 % do total de enfermeiros de que o serviço ou estabelecimento careça para o desenvolvimento das respetivas atividades.\n\n4 - A alteração do número de postos de trabalho depende de parecer prévio favorável dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.\n\n5 - A previsão, nos mapas de pessoal, de postos de trabalho que devam ser ocupados por enfermeiros gestores depende da necessidade de gerir uma unidade ou serviço com, pelo menos, 10 enfermeiros.\n\n6 - Os enfermeiros gestores podem acumular a gestão de duas ou mais unidades ou serviços, caso as mesmas, individualmente, não completem o número mínimo de enfermeiros previstos no número anterior."
+  },
+  "122410804": {
+   "fragment_id": "122410725",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres funcionais\n\nOs trabalhadores integrados na carreira de enfermagem estão adstritos, no respeito pela leges artis, ao cumprimento dos deveres éticos e princípios deontológicos a que estão obrigados pelo respetivo título profissional, exercendo a sua profissão com autonomia técnica e científica e respeitando o direito à proteção da saúde dos utentes e da comunidade, e estão sujeitos, para além da observância do dever de sigilo profissional, ao cumprimento dos seguintes deveres funcionais:\n\na) O dever de contribuir para a defesa dos interesses do utente no âmbito da organização das unidades e serviços, incluindo a necessária atuação interdisciplinar, tendo em vista a continuidade e garantia da qualidade da prestação de cuidados;\n\nb) O dever de esclarecer devidamente o utente sobre os cuidados a prestar e prestados, na medida das suas competências, assegurando a efetividade do consentimento informado."
+  },
+  "122410805": {
+   "fragment_id": "122410726",
+   "type": 11,
+   "heading": "Artigo 9.º — Conteúdo funcional da categoria de enfermeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conteúdo funcional da categoria de enfermeiro\n\n1 - O conteúdo funcional da categoria de enfermeiro, desenvolvido com plena autonomia técnico-científica, é inerente às respetivas qualificações e competências em enfermagem e tem como foco o indivíduo, a família e a comunidade, ao longo de todo o seu ciclo de vida.\n\n2 - Ao enfermeiro incumbe, designadamente:\n\na) Identificar necessidades de cuidados de enfermagem no âmbito da promoção de saúde, da prevenção da doença, do tratamento, da reabilitação e readaptação funcional e da paliação;\n\nb) Planear os cuidados de enfermagem, tendo em conta as necessidades de cuidados identificadas, estabelecendo prioridades de acordo com os recursos disponíveis;\n\nc) Prestar cuidados de enfermagem ao longo do ciclo de vida e nos três níveis de prevenção, documentando apropriadamente todas as intervenções e informações relevantes para a garantia da continuidade e qualidade dos cuidados e para a avaliação da sua eficiência;\n\nd) Avaliar os cuidados de enfermagem, ajustando-os sempre que necessário;\n\ne) Registar e produzir informação relativa ao exercício profissional, incluindo a relevante para os sistemas de informação;\n\nf) Avaliar as suas intervenções, contribuindo para o desenvolvimento de uma prática baseada na evidência, tendo em vista a eficiência e qualidade dos cuidados de enfermagem, a autonomia e a valorização profissional;\n\ng) Participar nos processos de decisão próprios da sua atividade integrando as equipas multidisciplinares;\n\nh) Promover e participar em ações que visem articular as diferentes redes e níveis de cuidados de saúde;\n\ni) Participar em processos formativos, contribuindo para a sua valorização profissional e para a valorização profissional dos seus pares;\n\nj) Colaborar no processo de formação de estudantes de enfermagem;\n\nk) Coordenar e supervisionar enfermeiros em contexto de integração profissional;\n\nl) Supervisionar, quando adequado, a formação de outros perfis profissionais;\n\nm) Participar e colaborar em projetos de investigação;\n\nn) Integrar júris de procedimentos concursais para recrutamento."
+  },
+  "122410806": {
+   "fragment_id": "122410727",
+   "type": 11,
+   "heading": "Artigo 10.º — Conteúdo funcional da categoria de enfermeiro principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conteúdo funcional da categoria de enfermeiro principal\n\n[Revogado.]"
+  },
+  "122410807": {
+   "fragment_id": "122410728",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Conteúdo funcional da categoria de enfermeiro especialista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A — Conteúdo funcional da categoria de enfermeiro especialista\n\nPara além do conteúdo funcional da categoria de enfermeiro, o enfermeiro especialista desenvolve competências próprias inerentes à sua área de especialização, competindo-lhe designadamente:\n\na) Identificar as necessidades em saúde do indivíduo, família, grupo ou comunidade, planear cuidados, coordenar e desenvolver intervenções em enfermagem na sua área de especialidade;\n\nb) Prestar cuidados de enfermagem diferenciados e complexos, dentro da sua área de especialidade, ao longo do ciclo de vida e nos três níveis de prevenção, documentando apropriadamente todas as intervenções e informações relevantes para a garantia da continuidade e qualidade dos cuidados e para a avaliação da sua eficiência;\n\nc) Avaliar as intervenções de enfermagem diferenciadas e complexas, ajustando-as sempre que necessário;\n\nd) Avaliar as intervenções de enfermagem na sua área de especialidade, contribuindo para o desenvolvimento de uma prática baseada na evidência, tendo em vista a eficiência e qualidade dos cuidados de enfermagem, a autonomia e a valorização profissional;\n\ne) Responsabilizar-se pela área de enfermagem, nas equipas multiprofissionais, no que diz respeito ao diagnóstico de enfermagem na sua área de especialidade e à consecução das intervenções delas decorrentes;\n\nf) Exercer funções de consultadoria de natureza técnico-científica na sua área de especialidade;\n\ng) Definir indicadores sensíveis aos cuidados de enfermagem na sua área de especialidade e monitorizar os resultados obtidos em articulação com o enfermeiro gestor ou com o que exerça funções de direção;\n\nh) Coordenar a supervisão clínica de estudantes de enfermagem;\n\ni) Coordenar a supervisão clínica de enfermeiros especialistas da sua área de especialidade;\n\nj) Coordenar e supervisionar enfermeiros especialistas em contexto de integração profissional;\n\nk) Coordenar, quando adequado, a formação de outros perfis profissionais;\n\nl) Identificar oportunidades relevantes para a investigação em saúde, investigando ou colaborando em estudos de investigação e divulgando os seus resultados;\n\nm) Colaborar nos processos de avaliação de desempenho dos enfermeiros e enfermeiros especialistas, desde que funcionalmente dependentes;\n\nn) Participar em projetos institucionais na área da acreditação e certificação, gestão da qualidade e do risco, em particular na sua área de especialidade;\n\no) Integrar júris de procedimentos concursais para recrutamento de enfermeiros e enfermeiros especialistas na sua área de especialidade."
+  },
+  "122410808": {
+   "fragment_id": "122410729",
+   "type": 11,
+   "heading": "Artigo 10.º-B — Conteúdo funcional da categoria de enfermeiro gestor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-B — Conteúdo funcional da categoria de enfermeiro gestor\n\nPara além das funções inerentes às categorias de enfermeiro e de enfermeiro especialista, ao enfermeiro gestor, cujo conteúdo funcional integra, na generalidade, as funções de planeamento, organização, direção e avaliação dos cuidados de enfermagem, utilizando um modelo facilitador do desenvolvimento organizacional e promotor da qualidade e segurança, compete ainda e em especial:\n\na) Gerir os recursos da unidade ou serviço, otimizando as respostas às necessidades em cuidados de saúde das pessoas, grupos e comunidade, defendendo os princípios do Serviço Nacional de Saúde, bem como o respeito pela ética e pela deontologia do exercício da enfermagem;\n\nb) Gerir os recursos humanos funcionalmente dependentes em função das necessidades de cuidados, nomeadamente através da elaboração de planos de trabalho, escalas e planos de férias, otimizando a eficiência e a produtividade;\n\nc) Criar as condições para um trabalho cooperativo e de efetiva articulação da equipa multiprofissional e um ambiente de trabalho saudável na unidade ou serviço, salvaguardando a dignidade e autonomia de exercício profissional e promovendo o desenvolvimento pessoal e profissional dos enfermeiros;\n\nd) Garantir uma prática de enfermagem na unidade ou serviço baseada em normas de boas práticas e na melhor evidência disponível;\n\ne) Garantir a implementação dos processos de melhoria contínua da qualidade dos cuidados de enfermagem e participar nos processos de acreditação e certificação;\n\nf) Promover uma cultura de segurança na prestação de cuidados de saúde, gerindo os riscos na sua unidade ou serviço, integrando grupos de trabalho e comissões nesta área;\n\ng) Promover a divulgação de informação relevante para o exercício profissional de enfermagem na unidade ou serviço;\n\nh) Responsabilizar-se pela valorização de competências da equipa que gere, facilitando e promovendo os processos formativos de acordo com as diretrizes institucionais;\n\ni) Avaliar o desempenho profissional dos enfermeiros e enfermeiros especialistas, bem como colaborar, quando adequado, na avaliação de desempenho de outros profissionais que estejam funcionalmente dependentes;\n\nj) Implementar auditorias internas com vista à melhoria da qualidade dos cuidados de saúde prestados;\n\nk) Promover o desenvolvimento da investigação e inovação em enfermagem, envolvendo a equipa na utilização dos resultados para a melhoria da qualidade dos cuidados e criação de valor;\n\nl) Promover a formação pré e pós-graduada da enfermagem, criando condições facilitadoras do processo de ensino e aprendizagem;\n\nm) Garantir a documentação da prática clínica e a monitorização de indicadores sensíveis aos cuidados de enfermagem, com o recurso às tecnologias de informação;\n\nn) Participar na determinação dos postos de trabalho de trabalhadores enfermeiros e enfermeiros especialistas a prever no mapa de pessoal para a unidade ou serviço, tendo em vista os cuidados de enfermagem a prestar, baseada em instrumentos de cálculo validados, que garantam a segurança na prestação de cuidados de enfermagem;\n\no) Participar, em articulação com a direção do serviço, no processo de contratualização interna relativo à respetiva unidade ou serviço;\n\np) Participar na determinação das necessidades de recursos materiais e equipamentos para a prestação de cuidados na unidade ou serviço, tendo em conta critérios de custo, efetividade e segurança;\n\nq) Emitir pareceres, exercer funções de assessoria técnica e participar nas comissões de escolha de materiais e equipamentos para a prestação de cuidados."
+  },
+  "122410809": {
+   "fragment_id": "122410730",
+   "type": 11,
+   "heading": "Artigo 11.º — Grau de complexidade funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Grau de complexidade funcional\n\nA carreira especial de enfermagem é classificada como de grau 3 de complexidade funcional."
+  },
+  "122410810": {
+   "fragment_id": "122410731",
+   "type": 11,
+   "heading": "Artigo 12.º — Condições de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições de admissão\n\n1 - O exercício de funções no âmbito da carreira especial de enfermagem depende da obtenção do título profissional atribuído pela Ordem dos Enfermeiros.\n\n2 - Para admissão à categoria de enfermeiro é exigida a titulação em cédula profissional definitiva, atribuída pela Ordem dos Enfermeiros.\n\n3 - A admissão para a categoria de enfermeiro especialista faz-se de entre os enfermeiros, com pelo menos quatro anos de exercício profissional, detentores do título de enfermeiro especialista exigido para o preenchimento do correspondente posto de trabalho.\n\n4 - A admissão para a categoria de enfermeiro gestor faz-se de entre enfermeiros especialistas, com três anos de exercício de funções na especialidade correspondente à do serviço ou unidade a que respeita o posto de trabalho a ocupar, e preferencialmente habilitados com formação em gestão de serviços de saúde."
+  },
+  "122410811": {
+   "fragment_id": "122410732",
+   "type": 11,
+   "heading": "Artigo 13.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Recrutamento\n\n1 - O recrutamento para os postos de trabalho correspondentes à carreira de enfermagem, incluindo mudança de categoria, é feito mediante procedimento concursal.\n\n2 - Os requisitos e os trâmites de candidatura ao concurso previsto no número anterior são aprovados por portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde.\n\n3 - Na sequência de procedimento concursal para recrutamento de trabalhadores necessários à ocupação de postos de trabalho na carreira especial de enfermagem, a determinação do posicionamento remuneratório do candidato realiza-se nos termos do artigo 55.º da Lei n.º 12-A/2008, de 27 de fevereiro.\n\n4 - [Revogado.]"
+  },
+  "122410812": {
+   "fragment_id": "122410733",
+   "type": 11,
+   "heading": "Artigo 14.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Remunerações\n\n[Revogado.]"
+  },
+  "122410813": {
+   "fragment_id": "122410734",
+   "type": 11,
+   "heading": "Artigo 15.º — Posições remuneratórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Posições remuneratórias\n\nA cada categoria da carreira especial de enfermagem corresponde um número variável de posições remuneratórias, a constar de diploma próprio."
+  },
+  "122410814": {
+   "fragment_id": "122410735",
+   "type": 11,
+   "heading": "Artigo 16.º — Reconhecimento de títulos e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reconhecimento de títulos e categorias\n\nOs títulos atribuídos pela Ordem dos Enfermeiros no âmbito da profissão de enfermagem, bem como as categorias de carreira, são oponíveis para a elegibilidade necessária aos procedimentos de recrutamento e mudança de categoria previstos nas normas aplicáveis."
+  },
+  "122410815": {
+   "fragment_id": "122410736",
+   "type": 11,
+   "heading": "Artigo 17.º — Duração e organização do tempo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Duração e organização do tempo de trabalho\n\nO período normal de trabalho da carreira especial de enfermagem é de 35 horas semanais."
+  },
+  "122410816": {
+   "fragment_id": "122410737",
+   "type": 11,
+   "heading": "Artigo 18.º — Funções de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Funções de direção\n\n1 - Podem exercer funções de direção, na sequência de procedimento concursal, desenvolvido nos termos do artigo seguinte, os enfermeiros gestores com pelo menos três anos de antiguidade nessa categoria.\n\n2 - Sem prejuízo do disposto em lei especial, e de acordo com a organização interna e conveniência de serviço, o exercício de funções de direção é cumprido em regime de comissão de serviço, com a duração de três anos, renovável por iguais períodos.\n\n3 - A renovação do contrato de trabalho em comissão de serviço está dependente da entrega de um programa de ação e de relatório de desempenho, a apresentar até 60 dias antes do seu termo, que carecem de apreciação obrigatória no prazo de 30 dias.\n\n4 - Nas situações em que a cessação da comissão de serviço seja da iniciativa do órgão máximo de gestão, tal cessação carece de fundamentação e tem por base a não comprovação superveniente da capacidade adequada a garantir a observação das orientações superiormente fixadas ou a necessidade de imprimir nova orientação à gestão do departamento, área ou conjunto de unidades ou serviços.\n\n5 - O exercício das funções referidas nos números anteriores não impede a manutenção da atividade de prestação de cuidados de saúde por parte dos enfermeiros, mas prevalece sobre a mesma.\n\n6 - [Revogado.]\n\n7 - [Revogado.]\n\n8 - [Revogado.]\n\n9 - [Revogado.]"
+  },
+  "122410817": {
+   "fragment_id": "122410738",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Seleção dos trabalhadores enfermeiros para o exercício de funções de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A — Seleção dos trabalhadores enfermeiros para o exercício de funções de direção\n\n1 - Para os efeitos previstos n.º 1 do artigo anterior, o procedimento concursal é obrigatoriamente publicitado na bolsa de emprego público e na página eletrónica do respetivo serviço ou estabelecimento de saúde, durante 10 dias úteis, com a indicação dos requisitos formais de provimento, do perfil exigido, tal qual se encontra caracterizado no mapa de pessoal, da composição do júri e dos métodos de seleção, que incluem, necessariamente, a realização de uma fase final de entrevistas públicas.\n\n2 - Os candidatos ao procedimento concursal devem integrar no correspondente processo de candidatura um programa de ação para três anos de desenvolvimento da organização a dirigir.\n\n3 - A publicitação referida no n.º 1 é precedida de aviso a publicar em órgão de imprensa de expansão nacional e na 2.ª série do Diário da República.\n\n4 - O júri é constituído:\n\na) Pelo enfermeiro diretor ou pelo enfermeiro vogal do conselho clínico e de saúde, ou por quem estes designem, que preside;\n\nb) Por dois enfermeiros em exercício de funções de direção, um do respetivo mapa de pessoal do serviço ou organismo em cujo mapa se encontre o cargo a prover e outro de diferente serviço ou organismo, designados pelo respetivo dirigente máximo.\n\n5 - Findo o procedimento concursal, o júri elabora a lista final de ordenação, submetendo-a ao respetivo órgão máximo de gestão, para efeitos de homologação.\n\n6 - O procedimento concursal previsto no presente artigo é urgente e de interesse público."
+  },
+  "122410818": {
+   "fragment_id": "122410739",
+   "type": 11,
+   "heading": "Artigo 18.º-B — Competências do enfermeiro com funções de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-B — Competências do enfermeiro com funções de direção\n\nCompete ao enfermeiro com funções de direção:\n\na) Elaborar o plano de ação e o respetivo relatório anual das atividades de enfermagem da unidade ou serviço, alinhado com o plano estratégico de enfermagem para a instituição;\n\nb) Promover a partilha de experiências e a disseminação de boas práticas entre os enfermeiros gestores que integrem a sua unidade ou serviço, coordenando reuniões periódicas;\n\nc) Implementar auditorias internas com vista à melhoria da qualidade dos cuidados de saúde prestados;\n\nd) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde no processo de gestão de enfermeiros, incluindo a identificação de necessidades, o recrutamento e alocação de recursos necessários para assegurar cuidados de saúde de qualidade, atendendo, para o efeito, à complexidade dos cuidados, às condições de estrutura, ao nível de qualificação e ao perfil de competência, nos termos previstos na caracterização do posto de trabalho no respetivo mapa de pessoal;\n\ne) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde na monitorização e análise de indicadores sensíveis aos cuidados de enfermagem, bem como na definição de padrões de qualidade e políticas ou diretivas formativas a desenvolver pelo serviço ou estabelecimentos de saúde na área de enfermagem;\n\nf) Colaborar com o enfermeiro diretor ou vogal do conselho clínico e de saúde na definição de protocolos de articulação com os estabelecimentos de ensino superior no âmbito da formação pré e pós-graduada e investigação em enfermagem;\n\ng) Avaliar o desempenho profissional dos enfermeiros, em especial dos gestores, bem como colaborar, quando adequado, na avaliação de desempenho de outros profissionais que dele estejam funcionalmente dependentes;\n\nh) Participar e/ou coordenar grupos de trabalho ou comissões institucionais;\n\ni) Integrar júris de procedimentos concursais para seleção de enfermeiros para o exercício de funções de direção;\n\nj) Exercer as demais competências que lhe sejam atribuídas por lei ou regulamento."
+  },
+  "122410819": {
+   "fragment_id": "122410740",
+   "type": 11,
+   "heading": "Artigo 18.º-C — Remuneração das funções de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-C — Remuneração das funções de direção\n\nO exercício, em comissão de serviço, das funções a que se refere o artigo anterior confere o direito à remuneração correspondente à remuneração base do trabalhador, acrescida de um suplemento remuneratório de (euro) 300, sem prejuízo das atualizações salariais gerais anuais, a abonar nos termos do n.º 4 do artigo 159.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual."
+  },
+  "122410820": {
+   "fragment_id": "122410741",
+   "type": 11,
+   "heading": "Artigo 19.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Período experimental\n\n1 - O período experimental para os contratos de trabalho em funções públicas por tempo indeterminado, celebrados por enfermeiros, tem a duração de 90 dias.\n\n2 - Considera-se cumprido o período experimental a que se refere o número anterior sempre que o contrato por tempo indeterminado tenha sido imediatamente precedido da constituição de uma relação jurídica de emprego público para o exercício de formação em enfermagem, com o mesmo órgão ou serviço, por período igual ou superior ao previsto no número anterior."
+  },
+  "122410821": {
+   "fragment_id": "122410742",
+   "type": 11,
+   "heading": "Artigo 20.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Formação profissional\n\n1 - A formação dos trabalhadores integrados na carreira de enfermagem assume carácter de continuidade e prossegue objetivos de atualização técnica e científica, ou de desenvolvimento de projetos de investigação.\n\n2 - A formação prevista no número anterior deve ser planeada e programada, de modo a incluir informação interdisciplinar e desenvolver competências de organização e gestão de serviços.\n\n3 - A frequência de cursos de formação complementar ou de atualização profissional, com vista ao aperfeiçoamento, diferenciação técnica ou projetos de investigação, pode ser autorizada mediante licença sem perda de remuneração por um período não superior a 15 dias úteis por ano, ou nos termos que venham a ser definidos em instrumento de regulamentação coletiva de trabalho.\n\n4 - O membro do Governo responsável pela área da saúde pode atribuir a licença prevista no número anterior por um período superior a 15 dias úteis, desde que a proposta se encontre devidamente fundamentada e a formação se revista de interesse para os serviços."
+  },
+  "122410822": {
+   "fragment_id": "122410743",
+   "type": 11,
+   "heading": "Artigo 21.º — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Avaliação do desempenho\n\n1 - A avaliação de desempenho dos trabalhadores que integrem a carreira especial de enfermagem rege-se por sistema adaptado do Sistema Integrado de Gestão e Avaliação de Desempenho na Administração Pública (SIADAP), a estabelecer em diploma próprio.\n\n2 - [Revogado.]"
+  },
+  "122410823": {
+   "fragment_id": "122410744",
+   "type": 11,
+   "heading": "Artigo 22.º — Instrumentos de regulamentação colectiva de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Instrumentos de regulamentação colectiva de trabalho\n\n[Revogado.]"
+  },
+  "122410824": {
+   "fragment_id": "122410745",
+   "type": 1,
+   "heading": "Capítulo IV — Normas de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Normas de transição"
+  },
+  "122410825": {
+   "fragment_id": "122410746",
+   "type": 11,
+   "heading": "Artigo 23.º — Transição para a nova carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transição para a nova carreira\n\n[Revogado.]"
+  },
+  "122410826": {
+   "fragment_id": "122410747",
+   "type": 11,
+   "heading": "Artigo 24.º — Categorias subsistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Categorias subsistentes\n\n[Revogado.]"
+  },
+  "122410827": {
+   "fragment_id": "122410748",
+   "type": 11,
+   "heading": "Artigo 25.º — Mapas de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Mapas de pessoal\n\n[Revogado.]"
+  },
+  "122410828": {
+   "fragment_id": "122410749",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "122410829": {
+   "fragment_id": "122410750",
+   "type": 11,
+   "heading": "Artigo 26.º — Alteração ao Decreto-Lei n.º 28/2008, de 22 de Fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Alteração ao Decreto-Lei n.º 28/2008, de 22 de Fevereiro\n\nOs artigos 15.º e 25.º do Decreto-Lei n.º 28/2008, de 22 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 15.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) O coordenador da UCC é designado de entre enfermeiros com o título de enfermeiro especialista e com experiência efectiva na respectiva área profissional;\n\nc) ...\n\nd) ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nArtigo 25.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) Um enfermeiro com o título de enfermeiro especialista e com experiência efectiva nos cuidados de saúde primários, a exercer funções no ACES;\n\nc) ...\n\n4 - ...\n\n5 - ...\n\n6 - ...»"
+  },
+  "122410830": {
+   "fragment_id": "122410751",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposição final\n\n[Revogado.]"
+  },
+  "122410831": {
+   "fragment_id": "122410752",
+   "type": 11,
+   "heading": "Artigo 28.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 437/91, de 8 de Novembro, com excepção do disposto nos artigos 43.º a 57.º, os quais se mantêm em vigor, com as necessárias adaptações, na medida em que regulem situações não previstas no presente decreto-lei, e na medida em que não sejam contrárias ao regime por ele estabelecido, até ao início da vigência de instrumento de regulamentação colectiva de trabalho."
+  },
+  "122410832": {
+   "fragment_id": "122410753",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, à excepção do disposto nos artigos 14.º, 15.º e 24.º, os quais entram em vigor na mesma data dos diplomas próprios aí previstos."
+  },
+  "152810621": {
+   "fragment_id": "122410682",
+   "type": 11,
+   "heading": "Artigo 8.º — Transições",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 438.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Transições\n\n1 - Os trabalhadores enfermeiros titulares das categorias subsistentes previstas no n.º 1 do artigo 6.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril, transitam automaticamente, e com dispensa de quaisquer formalidades, para a categoria de enfermeiro gestor.\n\n2 - Os trabalhadores enfermeiros titulares da categoria de enfermeiro transitam para a categoria de enfermeiro especialista, também com dispensa de quaisquer formalidades, desde que reúnam, cumulativamente, as seguintes condições:\n\na) Ocupem posto de trabalho cuja caracterização exija, para o respetivo preenchimento, a posse do título de enfermeiro especialista;\n\nb) Detenham título de enfermeiro especialista coincidente com o identificado na caracterização desse mesmo posto de trabalho;\n\nc) Aufiram o suplemento remuneratório previsto no n.º 3 do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril.\n\n3 - Os enfermeiros titulares da categoria de enfermeiro, que se encontram nomeados para o cargo de enfermeiro diretor ou para o exercício de funções de chefia e direção, transitam para a categoria de enfermeiro especialista, com efeitos à data da cessação daquelas funções, desde que:\n\na) A nomeação tenha ocorrido em data anterior à data de entrada em vigor do presente decreto-lei;\n\nb) Detivessem o título de especialista a 1 de janeiro de 2018; e\n\nc) No início das funções ocupassem posto de trabalho que exigisse, para o respetivo preenchimento, a posse do correspondente título.\n\n4 - Transitam para a categoria de enfermeiro os demais trabalhadores.\n\n5 - O disposto no presente artigo, com exceção do n.º 1, aplica-se aos trabalhadores enfermeiros com contrato de trabalho celebrado com entidades públicas empresariais do setor da saúde, exceto se abrangidos por instrumento de regulamentação coletiva de trabalho que regule a estrutura da correspondente carreira.\n\n6 - As transições previstas no presente artigo devem constar de lista nominativa a elaborar pelo respetivo serviço ou estabelecimento de saúde, que deve ser afixada em local visível e público e disponibilizada no correspondente sítio na Internet, sendo ainda publicado um aviso na 2.ª série do Diário da República com informação sobre a sua publicitação.\n\n> Alterado pelo/a Artigo 438.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+  },
+  "152810622": {
+   "fragment_id": "122410683",
+   "type": 11,
+   "heading": "Artigo 9.º — Reposicionamento na tabela remuneratória e integração do suplemento remuneratório devido pelo exercício de funções de enfermeiro especialista e de funções de chefia",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 438.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Reposicionamento na tabela remuneratória e integração do suplemento remuneratório devido pelo exercício de funções de enfermeiro especialista e de funções de chefia\n\n1 - Na transição para a carreira especial de enfermagem prevista nos n.os 1 e 2 do artigo anterior, os trabalhadores enfermeiros são reposicionados na posição remuneratória da tabela constante do anexo i ao presente decreto-lei, de nível remuneratório não inferior ao da primeira posição da categoria para a qual transitam, correspondente ao somatório da remuneração base mensal a que atualmente têm direito e do suplemento remuneratório de função, consoante o caso, de enfermeiro especialista e de chefia, respetivamente, de (euro) 150 e de (euro) 200, auferidos nos termos do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril.\n\n2 - Sem prejuízo do disposto no número anterior, em caso de falta de identidade, os trabalhadores são reposicionados em posição remuneratória automaticamente criada, cujo montante pecuniário seja igual ao montante pecuniário a considerar para efeitos de reposicionamento.\n\n3 - Os enfermeiros titulares de categorias subsistentes que se encontrem nomeados em data anterior à entrada em vigor do presente decreto-lei para o exercício de funções de direção, nos termos previstos no artigo 18.º do Decreto-Lei n.º 248/2009, de 22 de setembro, na sua redação originária, mantêm o direito ao suplemento remuneratório no montante de (euro) 300, fixado no n.º 1 do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril, sendo posicionados na respetiva tabela remuneratória em função da remuneração base auferida, exceto no caso dos enfermeiros titulares das categorias subsistentes abrangidas pelo n.º 1 do artigo anterior, relativamente aos quais se considera, com efeitos à data da cessação das funções aqui salvaguardadas, o somatório da remuneração base mensal auferida acrescida do montante de (euro) 200.\n\n4 - Com exceção dos abrangidos pelo n.º 1 do artigo anterior, os enfermeiros que se encontrem nomeados em regime de comissão de serviço ou detenham um contrato em comissão de serviço para o exercício de funções de chefia, mantêm o direito ao suplemento remuneratório no montante de (euro) 200, fixado no n.º 1 do artigo 4.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril, até que venha a ser desenvolvido, e concluído, um procedimento de seleção destinado à ocupação do posto de trabalho para a categoria de enfermeiro gestor, cuja caraterização corresponda às funções que presentemente desenvolvem.\n\n5 - Para efeitos do disposto no n.º 3 do artigo anterior, os trabalhadores enfermeiros são posicionados na respetiva tabela remuneratória, em nível remuneratório não inferior ao da primeira posição da categoria de enfermeiro especialista para que transitam, correspondente ao somatório da remuneração base auferida acrescida do montante de 150 (euro).\n\n> Alterado pelo/a Artigo 438.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+  },
+  "122397368": {
+   "fragment_id": "122410689",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de março de 2019. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José António Fonseca Vieira da Silva - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 9 de maio de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de maio de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "900786553": {
+   "fragment_id": "122410690",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 7.º)",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 111/2024 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2024-900706888), em vigor a partir de 2024-12-20, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 7.º)\n\n| Enfermeiro gestor | p) | 1 | 2 | 3 | 4 | 5 | 6 | 7 |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| n) | 40 | 44 | 48 | 52 | 55 | 58 | 60 |  |  |  |  |  |\n| Enfermeiro especialista | p) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |  |\n| n) | 26 | 30 | 33 | 36 | 39 | 42 | 45 | 48 | 51 | 54 |  |  |\n| Enfermeiro | p) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |\n| n) | 21 | 25 | 29 | 33 | 36 | 39 | 42 | 45 | 48 | 51 | 54 |  |\n\n> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 111/2024 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2024-900706888), em vigor a partir de 2024-12-20, produz efeitos a partir de 2024-11-01"
+  }
+ }
+}

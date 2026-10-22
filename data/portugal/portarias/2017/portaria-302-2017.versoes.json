@@ -1,0 +1,631 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108301507:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-120489077",
+ "dre_path": "/dr/detalhe/portaria/302-2017-108301507",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-10-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "167281145",
+    "120456964",
+    "120456965",
+    "120456966",
+    "120456967",
+    "120456968",
+    "120456969",
+    "120456970",
+    "120456971",
+    "120456972",
+    "120456973",
+    "120456974",
+    "120490075",
+    "120490076",
+    "120490077",
+    "120490078",
+    "120490079",
+    "120490080",
+    "120490081",
+    "120490082",
+    "120490083",
+    "120490084",
+    "120490085",
+    "120490086",
+    "120490087"
+   ]
+  },
+  {
+   "date": "2019-03-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:120446619:por",
+     "title": "Portaria n.º 71-A/2019",
+     "published": "2019-02-28",
+     "dre_path": "/dr/detalhe/portaria/71-a-2019-120446619"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "120456963",
+    "120456964",
+    "120456965",
+    "120456966",
+    "120456967",
+    "120456968",
+    "120456969",
+    "120456970",
+    "120490169",
+    "120456972",
+    "120456973",
+    "120456974",
+    "120490170",
+    "120490076",
+    "120490077",
+    "120490078",
+    "120490079",
+    "120490080",
+    "120490081",
+    "120490171",
+    "120490083",
+    "120490084",
+    "120490085",
+    "120490086",
+    "120490087",
+    "120490088"
+   ]
+  },
+  {
+   "date": "2021-07-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:167133020:por",
+     "title": "Portaria n.º 146/2021",
+     "published": "2021-07-13",
+     "dre_path": "/dr/detalhe/portaria/146-2021-167133020"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "167281145",
+    "167281146",
+    "167281147",
+    "167281148",
+    "167281149",
+    "167281150",
+    "167281151",
+    "167281152",
+    "167281153",
+    "167281154",
+    "167281155",
+    "167281156",
+    "167281157",
+    "167281158",
+    "167281159",
+    "167281160",
+    "167281161",
+    "167281162",
+    "167281163",
+    "167281164",
+    "167281165",
+    "167281166",
+    "167281167",
+    "167281168",
+    "167281169",
+    "167281170"
+   ]
+  }
+ ],
+ "fragments": {
+  "167281145": {
+   "fragment_id": "120489078",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-07-14",
+   "changed_by": [],
+   "markdown": "Portaria n.º 302/2017\n\nde 16 de outubro\n\nO Decreto-Lei n.º 103/2017, de 24 de agosto, veio estabelecer o novo regime de atribuição de apoios financeiros do Estado, através da Direção-Geral das Artes (DGARTES), a entidades que exerçam atividades profissionais nas áreas das artes visuais, das artes performativas e de cruzamento disciplinar.\n\nNo âmbito das tipologias dos programas de apoios agora aprovados, a apreciação dos projetos e das atividades artísticas, bem como o acompanhamento e a avaliação da sua implementação, são momentos decisivos para a valorização e reconhecimento do serviço público prestado pelas entidades na promoção do acesso dos cidadãos à fruição e criação artísticas.\n\nNesse sentido, optou-se por criar uma regulamentação autónoma das comissões de apreciação e avaliação, dando-se assim um maior relevo ao processo de seleção, funcionamento e capacidade de intervenção das referidas comissões no modelo de apoio às artes nas fases de seleção de projetos para apoio financeiro e de validação da sua execução.\n\nNa regulação das comissões, cabe dar nota do novo processo de seleção dos membros que as compõem, com a criação da bolsa de consultores e especialistas, aberta dentro de determinados requisitos à comunidade das artes, abrangendo desta forma as mais diversas capacitações, quer ao nível das áreas e domínios artísticos, quer em termos de valia na gestão financeira e cultural. Com este novo mecanismo pretende-se que o processo de seleção seja mais transparente e participativo.\n\nMarca da importância dos mecanismos de acompanhamento e avaliação dos projetos e das atividades artísticas apoiadas, como instrumentos fundamentais de garantia da eficácia da aplicação dos recursos públicos, é a circunstância de o respetivo resultado poder vir a constituir elemento de ponderação na atribuição de futuros apoios.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º do Decreto-Lei n.º 103/2017, de 24 de agosto, manda o Governo, pelo Ministro da Cultura, o seguinte:"
+  },
+  "120456964": {
+   "fragment_id": "120489079",
+   "type": 13,
+   "heading": "Título I — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições Gerais"
+  },
+  "120456965": {
+   "fragment_id": "120489080",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente regulamento estabelece as normas relativas à composição e funcionamento das comissões de apreciação e das comissões de avaliação previstas no regime jurídico de atribuição de apoios financeiros do Estado às artes, através da Direção-Geral das Artes (DGARTES), aprovado pelo Decreto-Lei n.º 103/2017, de 24 de agosto.\n\n2 - O funcionamento das comissões de apreciação e das comissões de avaliação rege-se pelo disposto no presente regulamento e, subsidiariamente, pelo disposto no Código do Procedimento Administrativo."
+  },
+  "120456966": {
+   "fragment_id": "120489081",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição das comissões de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição das comissões de apreciação\n\n1 - Cada comissão de apreciação é composta por um mínimo de 2 e um máximo de 8 membros efetivos e até 2 suplentes.\n\n2 - As comissões são constituídas por consultores ou especialistas inscritos na bolsa prevista no Título II do presente regulamento, e no mínimo por um técnico da DGARTES, que preside.\n\n3 - A composição das comissões de apreciação é proposta pela DGARTES ao membro do Governo responsável pela área da Cultura, antes da abertura do programa de apoio, e deve considerar o número expectável de candidaturas a apreciar e a complexidade das mesmas."
+  },
+  "120456967": {
+   "fragment_id": "120489082",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição das comissões de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição das comissões de avaliação\n\n1 - Cada comissão de avaliação é composta por um mínimo de 2 e um máximo de 8 membros efetivos, e pelo diretor regional de cultura territorialmente competente ou por quem o represente, que preside.\n\n2 - As comissões são constituídas por consultores ou especialistas inscritos na bolsa prevista no Título II do presente regulamento.\n\n3 - Para além dos membros previstos nos números anteriores, e não contando para os limites previstos do n.º 1, cada comissão de avaliação integra ainda representantes dos municípios nos quais a atividade ou os projetos apoiados venham a ser executados.\n\n4 - A não designação dos representantes dos municípios, no prazo de 30 dias a contar da receção do convite do diretor regional de cultura territorialmente competente, não obsta ao regular funcionamento da comissão.\n\n5 - É designada, no mínimo, uma comissão de avaliação para cada circunscrição territorial correspondente ao nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos previstas no Decreto-Lei n.º 46/89, de 15 de fevereiro, na redação atual.\n\n6 - A comissão da unidade territorial da Área Metropolitana de Lisboa é presidida pelo diretor-geral da DGARTES, ou por quem o represente."
+  },
+  "120456968": {
+   "fragment_id": "120489083",
+   "type": 11,
+   "heading": "Artigo 4.º — Seleção dos membros das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Seleção dos membros das comissões\n\nOs membros das comissões de apreciação e das comissões de avaliação, com exceção dos técnicos da DGARTES e dos representantes dos municípios, são selecionados pela DGARTES no âmbito da bolsa prevista no Título II do presente diploma, em função das necessidades concretas e das especialidades pretendidas."
+  },
+  "120456969": {
+   "fragment_id": "120489084",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres\n\n1 - Os membros das comissões de apreciação e das comissões de avaliação devem:\n\na) Atuar com imparcialidade, isenção, neutralidade e de acordo com a ética e boa conduta profissional;\n\nb) Atuar em conformidade com o estabelecido no presente regulamento e demais legislação aplicável;\n\nc) Verificar o enquadramento das atividades das entidades elegíveis e beneficiárias nos objetivos inscritos no plano estratégico plurianual;\n\nd) Preencher um questionário individual de avaliação anual do funcionamento da comissão que integram;\n\ne) Identificar situações de irregularidade ou incumprimento que prejudiquem o normal desenvolvimento das suas funções;\n\nf) Guardar sigilo relativamente a todos os factos de que tomar conhecimento no exercício das suas funções, durante e após o desempenho das mesmas;\n\ng) Comunicar à DGARTES, no prazo máximo de três dias, qualquer motivo de força maior ou circunstância que o impeça de desempenhar as suas funções.\n\n2 - Antes do início efetivo de funções, os membros das comissões atestam, por escrito, a ausência de incompatibilidades ou de qualquer circunstância suscetível de pôr em causa a sua imparcialidade."
+  },
+  "120456970": {
+   "fragment_id": "120489085",
+   "type": 13,
+   "heading": "Título II — Bolsa de consultores e especialistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Bolsa de consultores e especialistas"
+  },
+  "120456971": {
+   "fragment_id": "120489086",
+   "type": 11,
+   "heading": "Artigo 6.º — Constituição da bolsa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Constituição da bolsa\n\n1 - A bolsa é constituída por um conjunto de indivíduos com experiência, qualificação académica ou conhecimento especializado nas áreas artísticas ou na área cultural, domínios de atividade, gestão financeira ou cultural, que manifestem interesse em colaborar no processo de apreciação ou de avaliação no âmbito dos apoios financeiros atribuídos pelo Estado através da DGARTES.\n\n2 - Os interessados em inscrever-se na bolsa devem ter experiência profissional mínima de três anos que lhes confira capacitação para a função a que se inscrevem e, preferencialmente, possuir formação superior adequada.\n\n3 - A inscrição na bolsa não confere o direito ao interessado de ser selecionado pela DGARTES, constituindo apenas uma manifestação de disponibilidade para o exercício das funções."
+  },
+  "120456972": {
+   "fragment_id": "120489087",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedidos de inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedidos de inscrição\n\n1 - Os pedidos de inscrição na bolsa são formalizados pelos interessados através do formulário disponibilizado no Balcão Artes.\n\n2 - A DGARTES pode solicitar informação adicional ao interessado ou a qualquer entidade identificada por este no âmbito do pedido de inscrição."
+  },
+  "120456973": {
+   "fragment_id": "120489088",
+   "type": 11,
+   "heading": "Artigo 8.º — Decisão dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Decisão dos pedidos\n\n1 - A decisão de aceitação dos pedidos de inscrição na bolsa compete ao diretor-geral da DGARTES, após verificação das condições pelos serviços.\n\n2 - São indeferidos os pedidos dos interessados que não reúnam os requisitos previstos nos n.os 1 e 2 do artigo 6.º"
+  },
+  "120456974": {
+   "fragment_id": "120489089",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação da inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cessação da inscrição\n\n1 - A inscrição na bolsa cessa:\n\na) A pedido do próprio;\n\nb) Após o decurso de três anos de integração na bolsa;\n\nc) Se forem verificadas omissões ou falsas declarações no âmbito de informações prestadas à DGARTES;\n\nd) No caso de ocorrência ou verificação superveniente de qualquer incompatibilidade ou impedimento.\n\n2 - No caso previsto na alínea b) do número anterior, pode o interessado voltar a submeter a sua inscrição nos termos do artigo 7.º"
+  },
+  "120490075": {
+   "fragment_id": "120489090",
+   "type": 11,
+   "heading": "Artigo 10.º — Não acumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Não acumulação\n\nOs membros das comissões de apreciação não podem integrar as comissões de avaliação dos contratos celebrados com entidades beneficiárias por si apreciadas."
+  },
+  "120490076": {
+   "fragment_id": "120489091",
+   "type": 13,
+   "heading": "Título III — Comissões de Apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Comissões de Apreciação"
+  },
+  "120490077": {
+   "fragment_id": "120489092",
+   "type": 11,
+   "heading": "Artigo 11.º — Apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apreciação\n\n1 - A apreciação das candidaturas é da competência das comissões de apreciação, sempre que o apoio seja atribuído através de concurso.\n\n2 - Cada membro da comissão pode apreciar mais de uma área artística ou domínio de atividade."
+  },
+  "120490078": {
+   "fragment_id": "120489093",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento da comissão de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento da comissão de apreciação\n\n1 - Após a admissão das candidaturas, as mesmas são distribuídas aos membros da comissão, sendo-lhes atribuída uma senha, pessoal e intransmissível, que lhes permite o acesso por via eletrónica a toda a documentação que compõe as candidaturas a apreciar.\n\n2 - Cada um dos membros da comissão procede a uma análise das candidaturas com base nos critérios legalmente fixados e parâmetros estabelecidos, tendo ainda em consideração os requisitos definidos, quando aplicáveis.\n\n3 - Após a análise prevista no número anterior, realiza-se o plenário, em sessão privada, com todos os membros da comissão para deliberação fundamentada da classificação e do montante do apoio a atribuir, a qual é lavrada em ata no prazo que for fixado pela DGARTES em função do número e da complexidade das candidaturas a apreciar.\n\n4 - O prazo previsto no número anterior não pode ser superior a 60 dias úteis.\n\n5 - A comissão procede à ordenação das candidaturas por ordem decrescente a partir da mais pontuada pelo plenário, sendo o quadro final anexo à ata.\n\n6 - A ata, contendo o resultado da apreciação e a classificação da comissão, é aprovada e assinada por todos os membros e remetida à DGARTES para cumprimento da audiência dos interessados.\n\n7 - Cabe à DGARTES notificar os interessados da ata prevista no número anterior para pronúncia em sede de audiência dos interessados."
+  },
+  "120490079": {
+   "fragment_id": "120489094",
+   "type": 11,
+   "heading": "Artigo 13.º — Decisão final da comissão de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Decisão final da comissão de apreciação\n\n1 - Findo o prazo para audiência dos interessados, não havendo pronúncia dos candidatos, o projeto de decisão da comissão torna-se definitivo e é homologado pelo diretor-geral da DGARTES.\n\n2 - As pronúncias dos candidatos, em sede de audiência dos interessados, são remetidas à comissão pela DGARTES.\n\n3 - Havendo pronúncias, cabe à comissão, em reunião plenária a realizar extraordinariamente no prazo máximo de 15 dias úteis, analisar e elaborar resposta fundamentada sobre as mesmas, lavrando ata que será assinada por todos os membros.\n\n4 - É permitido à comissão rever ou completar a apreciação das candidaturas quando se revele necessário, em resultado da análise prevista no n.º 3.\n\n5 - Se do procedimento previsto no número anterior não resultar alteração das candidaturas selecionadas para apoio financeiro não há lugar a nova audiência de interessados.\n\n6 - Sempre que o montante do apoio financeiro atribuído seja inferior ao montante do apoio a que a entidade elegível se candidata, cabe à comissão de apreciação validar, no prazo máximo de 10 dias úteis, que os ajustamentos realizados ao plano de atividades ou projeto e à previsão orçamental não desvirtuam as características que presidiram à atribuição do apoio."
+  },
+  "120490080": {
+   "fragment_id": "120489095",
+   "type": 13,
+   "heading": "Título IV — Comissões de Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Comissões de Avaliação"
+  },
+  "120490081": {
+   "fragment_id": "120489096",
+   "type": 11,
+   "heading": "Artigo 14.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acompanhamento e avaliação\n\n1 - A execução dos contratos das entidades beneficiárias dos programas de apoio às artes é objeto de acompanhamento e de avaliação, consistindo na verificação do cumprimento dos objetivos que justificaram a atribuição do apoio, no controlo da gestão e da execução financeira, e na validação dos indicadores de atividade apresentados pelas entidades beneficiárias.\n\n2 - O acompanhamento e avaliação da execução dos contratos das entidades beneficiárias compete à comissão de avaliação.\n\n3 - Compete ainda à comissão de avaliação emitir parecer sobre as propostas de plano de atividades e orçamento das entidades beneficiárias relativas aos anos subsequentes ao primeiro ano de atividade, a remeter à DGARTES, coadjuvando-a na negociação de alterações, se necessário.\n\n4 - Cada membro da comissão pode avaliar mais de uma área artística ou domínio de atividade."
+  },
+  "120490082": {
+   "fragment_id": "120489097",
+   "type": 11,
+   "heading": "Artigo 15.º — Funcionamento da comissão de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funcionamento da comissão de avaliação\n\n1 - Para a realização do acompanhamento e avaliação, a DGARTES atribui a cada membro da comissão uma senha, pessoal e intransmissível, que lhe permite o acesso por via eletrónica a toda a documentação e informação.\n\n2 - Cada membro da comissão deve fazer um acompanhamento presencial e documental das atividades apoiadas.\n\n3 - A comissão inicia a sua atividade com a elaboração de um plano de acompanhamento e avaliação para cada contrato, o qual deve incluir:\n\na) O modelo e plano de acompanhamento e avaliação a desenvolver;\n\nb) A distribuição de atividades de acompanhamento pelos membros da comissão;\n\nc) O calendário de reuniões.\n\n4 - As atividades inscritas no plano referido no número anterior não limitam nem impedem outras formas de acompanhamento presencial e documental que os membros da comissão considerem necessárias.\n\n5 - O acompanhamento presencial inclui a visualização de atividades e a realização de reuniões com as entidades beneficiárias que são reportadas no prazo máximo de 15 dias úteis, mediante a submissão no Balcão Artes de uma ficha de acompanhamento devidamente preenchida, em modelo fornecido pela DGARTES.\n\n6 - O acompanhamento documental implica a análise dos planos de atividade e orçamentos das entidades beneficiárias, dos seus relatórios de atividades e contas, assim como de outros documentos que os membros da comissão considerem relevante no âmbito da sua função.\n\n7 - O parecer final é elaborado em modelo fornecido pela DGARTES, no prazo de 30 dias úteis após a entrega do relatório final de atividades e contas por parte das entidades beneficiárias, abarcando vários aspetos do seu funcionamento, nomeadamente a execução do programa de atividades e respetiva gestão e execução financeira, e balizando a sua análise nas características que presidiram à atribuição do apoio e do contrato celebrado.\n\n8 - O parecer final previsto no número anterior é aprovado em plenário, de âmbito regional, pelos membros da comissão de avaliação.\n\n9 - No caso do programa de apoio a projetos o acompanhamento é presencial nos termos do n.º 5, cabendo igualmente às comissões a análise e a verificação do cumprimento dos objetivos culturais e artísticos que presidiram à atribuição do apoio.\n\n10 - Compete ao presidente de cada comissão, ou a quem o represente, reportar à DGARTES o resultado dos trabalhos desenvolvidos e submeter o parecer final, referente a cada entidade beneficiária, no Balcão Artes."
+  },
+  "120490083": {
+   "fragment_id": "120489098",
+   "type": 11,
+   "heading": "Artigo 16.º — Outras funções das comissões de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Outras funções das comissões de avaliação\n\nCabe ainda aos membros das comissões de avaliação:\n\na) Emitir parecer, sempre que solicitado pela DGARTES, sobre a atividade das entidades beneficiárias que acompanham;\n\nb) Participar nas reuniões nacionais e regionais convocadas pela DGARTES ou pelo presidente de cada comissão;\n\nc) Comunicar à DGARTES, a qualquer momento, assuntos de carácter urgente ou situações anómalas, que impeçam ou perturbem o normal desenvolvimento das atividades programadas por parte das entidades beneficiárias ou o normal desempenho das suas funções;\n\nd) Reportar à DGARTES quaisquer situações que possam configurar incumprimento das obrigações contratuais por parte das entidades beneficiárias e recomendar a realização de auditorias sempre que identifiquem situações que possam suscitar dúvidas quanto à adequada aplicação dos apoios concedidos."
+  },
+  "120490084": {
+   "fragment_id": "120489099",
+   "type": 11,
+   "heading": "Artigo 17.º — Acesso das entidades beneficiárias à avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acesso das entidades beneficiárias à avaliação\n\nO plano de acompanhamento previsto na alínea a) do n.º 3 do artigo 15.º e a avaliação final são disponibilizados às entidades beneficiárias no Balcão Artes."
+  },
+  "120490085": {
+   "fragment_id": "120489100",
+   "type": 13,
+   "heading": "Título V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Disposições finais"
+  },
+  "120490086": {
+   "fragment_id": "120489101",
+   "type": 11,
+   "heading": "Artigo 18.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Divulgação\n\nA composição de cada comissão de apreciação e de cada comissão de avaliação é divulgada no Balcão Artes, sendo os seus membros identificados pelo nome e nota biográfica."
+  },
+  "120490087": {
+   "fragment_id": "120489102",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "120456963": {
+   "fragment_id": "120489078",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 302/2017\n\nde 16 de outubro\n\nO Decreto-Lei n.º 103/2017, de 24 de agosto, veio estabelecer o novo regime de atribuição de apoios financeiros do Estado, através da Direção-Geral das Artes (DGARTES), a entidades que exerçam atividades profissionais nas áreas das artes visuais, das artes performativas e de cruzamento disciplinar.\n\nNo âmbito das tipologias dos programas de apoios agora aprovados, a apreciação dos projetos e das atividades artísticas, bem como o acompanhamento e a avaliação da sua implementação, são momentos decisivos para a valorização e reconhecimento do serviço público prestado pelas entidades na promoção do acesso dos cidadãos à fruição e criação artísticas.\n\nNesse sentido, optou-se por criar uma regulamentação autónoma das comissões de apreciação e avaliação, dando-se assim um maior relevo ao processo de seleção, funcionamento e capacidade de intervenção das referidas comissões no modelo de apoio às artes nas fases de seleção de projetos para apoio financeiro e de validação da sua execução.\n\nNa regulação das comissões, cabe dar nota do novo processo de seleção dos membros que as compõem, com a criação da bolsa de consultores e especialistas, aberta dentro de determinados requisitos à comunidade das artes, abrangendo desta forma as mais diversas capacitações, quer ao nível das áreas e domínios artísticos, quer em termos de valia na gestão financeira e cultural. Com este novo mecanismo pretende-se que o processo de seleção seja mais transparente e participativo.\n\nMarca da importância dos mecanismos de acompanhamento e avaliação dos projetos e das atividades artísticas apoiadas, como instrumentos fundamentais de garantia da eficácia da aplicação dos recursos públicos, é a circunstância de o respetivo resultado poder vir a constituir elemento de ponderação na atribuição de futuros apoios.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º do Decreto-Lei n.º 103/2017, de 24 de agosto, manda o Governo, pelo Ministro da Cultura, o seguinte:"
+  },
+  "120490169": {
+   "fragment_id": "120489086",
+   "type": 11,
+   "heading": "Artigo 6.º — Constituição da bolsa",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Constituição da bolsa\n\n1 - A bolsa é constituída por um conjunto de indivíduos com experiência ou conhecimento especializado nas áreas artísticas ou na área cultural, domínios de atividade, gestão financeira ou cultural, que manifestem interesse em colaborar no processo de apreciação ou de avaliação no âmbito dos apoios financeiros atribuídos pelo Estado através da DGARTES.\n\n2 - Os interessados em inscrever-se na bolsa devem ter experiência profissional mínima de três anos que lhes confira capacitação para a função a que se inscrevem e, preferencialmente, possuir formação superior adequada.\n\n3 - A inscrição na bolsa não confere o direito ao interessado de ser selecionado pela DGARTES, constituindo apenas uma manifestação de disponibilidade para o exercício das funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120490170": {
+   "fragment_id": "120489090",
+   "type": 11,
+   "heading": "Artigo 10.º — Não acumulação",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Não acumulação\n\n1-Os membros das comissões de apreciação não podem integrar as comissões de avaliação dos contratos celebrados com entidades beneficiárias por si apreciadas.\n\n2 - Os membros das comissões de avaliação não podem integrar a comissão de apreciação do concurso que lhe sucede.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120490171": {
+   "fragment_id": "120489097",
+   "type": 11,
+   "heading": "Artigo 15.º — Funcionamento da comissão de avaliação",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 15.º — Funcionamento da comissão de avaliação\n\n1 - Para a realização do acompanhamento e avaliação, a DGARTES atribui a cada membro da comissão uma senha, pessoal e intransmissível, que lhe permite o acesso por via eletrónica a toda a documentação e informação.\n\n2 - Cada membro da comissão deve fazer um acompanhamento presencial e documental das atividades apoiadas.\n\n3 - A comissão inicia a sua atividade com a elaboração de um plano de acompanhamento e avaliação para cada contrato, o qual deve incluir:\n\na) O modelo e plano de acompanhamento e avaliação a desenvolver;\n\nb) A distribuição de atividades de acompanhamento pelos membros da comissão;\n\nc) O calendário de reuniões.\n\n4 - As atividades inscritas no plano referido no número anterior não limitam nem impedem outras formas de acompanhamento presencial e documental que os membros da comissão considerem necessárias.\n\n5 - O acompanhamento presencial inclui a visualização de atividades e a realização de reuniões com as entidades beneficiárias que são reportadas no prazo máximo de 15 dias úteis, mediante a submissão no Balcão Artes de uma ficha de acompanhamento devidamente preenchida, em modelo fornecido pela DGARTES.\n\n6 - O acompanhamento documental implica a análise dos planos de atividade e orçamentos das entidades beneficiárias, dos seus relatórios de atividades e contas, assim como de outros documentos que os membros da comissão considerem relevante no âmbito da sua função.\n\n7 - O parecer final é elaborado em modelo fornecido pela DGARTES, no prazo de 30 dias úteis após a entrega do relatório final de atividades e contas por parte das entidades beneficiárias, abarcando vários aspetos do seu funcionamento, nomeadamente a execução do programa de atividades e respetiva gestão e execução financeira, e balizando a sua análise nas características que presidiram à atribuição do apoio e do contrato celebrado.\n\n8 - O parecer previsto no número anterior pode ser objeto de pronúncia por parte das entidades beneficiárias, no prazo de 10 dias úteis.\n\n9 - O parecer final é aprovado em plenário, de âmbito regional, pelos membros da comissão de avaliação, no prazo de 10 dias úteis.\n\n10 - No caso do programa de apoio a projetos o acompanhamento é presencial nos termos do n.º 5, cabendo igualmente às comissões a análise e a verificação do cumprimento dos objetivos culturais e artísticos que presidiram à atribuição do apoio.\n\n11 - Compete ao presidente de cada comissão, ou a quem o represente, reportar à DGARTES o resultado dos trabalhos desenvolvidos e disponibilizar o parecer final, referente a cada entidade beneficiária, no Balcão Artes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "120490088": {
+   "fragment_id": "120489103",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Cultura, Luís Filipe Carrilho de Castro Mendes, em 11 de outubro de 2017."
+  },
+  "167281146": {
+   "fragment_id": "120489079",
+   "type": 13,
+   "heading": "Título I — Disposições Gerais",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "## Título I — Disposições Gerais\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281147": {
+   "fragment_id": "120489080",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente regulamento estabelece as normas relativas à composição e funcionamento das comissões de apreciação e das comissões de avaliação previstas no regime jurídico de atribuição de apoios financeiros do Estado às artes, através da Direção-Geral das Artes (DGARTES), aprovado pelo Decreto-Lei n.º 103/2017, de 24 de agosto.\n\n2 - O funcionamento das comissões de apreciação e das comissões de avaliação rege-se pelo disposto no presente regulamento e, subsidiariamente, pelo disposto no Código do Procedimento Administrativo.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281148": {
+   "fragment_id": "120489081",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição das comissões de apreciação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 2.º — Composição das comissões de apreciação\n\n1 - Cada comissão de apreciação é composta por um mínimo de 2 e um máximo de 8 membros efetivos e até 2 suplentes.\n\n2 - As comissões são constituídas por consultores ou especialistas inscritos na bolsa prevista no Título II do presente regulamento, e no mínimo por um técnico da DGARTES, que preside.\n\n3 - A composição das comissões de apreciação é proposta pela DGARTES ao membro do Governo responsável pela área da Cultura, antes da abertura do programa de apoio, e deve considerar o número expectável de candidaturas a apreciar e a complexidade das mesmas.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281149": {
+   "fragment_id": "120489082",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição das comissões de avaliação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 3.º — Composição das comissões de avaliação\n\n1 - Cada comissão de avaliação é composta por um mínimo de 2 e um máximo de 8 membros efetivos, e pelo diretor regional de cultura territorialmente competente ou por quem o represente, que preside.\n\n2 - As comissões são constituídas por consultores ou especialistas inscritos na bolsa prevista no Título II do presente regulamento.\n\n3 - Para além dos membros previstos nos números anteriores, e não contando para os limites previstos do n.º 1, cada comissão de avaliação integra ainda representantes dos municípios nos quais a atividade ou os projetos apoiados venham a ser executados.\n\n4 - A não designação dos representantes dos municípios, no prazo de 30 dias a contar da receção do convite do diretor regional de cultura territorialmente competente, não obsta ao regular funcionamento da comissão.\n\n5 - É designada, no mínimo, uma comissão de avaliação para cada circunscrição territorial correspondente ao nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos previstas no Decreto-Lei n.º 46/89, de 15 de fevereiro, na redação atual.\n\n6 - A comissão da unidade territorial da Área Metropolitana de Lisboa é presidida pelo diretor-geral da DGARTES, ou por quem o represente.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281150": {
+   "fragment_id": "120489083",
+   "type": 11,
+   "heading": "Artigo 4.º — Seleção dos membros das comissões",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 4.º — Seleção dos membros das comissões\n\nOs membros das comissões de apreciação e das comissões de avaliação, com exceção dos técnicos da DGARTES e dos representantes dos municípios, são selecionados pela DGARTES no âmbito da bolsa prevista no Título II do presente diploma, em função das necessidades concretas e das especialidades pretendidas.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281151": {
+   "fragment_id": "120489084",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 5.º — Deveres\n\n1 - Os membros das comissões de apreciação e das comissões de avaliação devem:\n\na) Atuar com imparcialidade, isenção, neutralidade e de acordo com a ética e boa conduta profissional;\n\nb) Atuar em conformidade com o estabelecido no presente regulamento e demais legislação aplicável;\n\nc) Verificar o enquadramento das atividades das entidades elegíveis e beneficiárias nos objetivos inscritos no plano estratégico plurianual;\n\nd) Preencher um questionário individual de avaliação anual do funcionamento da comissão que integram;\n\ne) Identificar situações de irregularidade ou incumprimento que prejudiquem o normal desenvolvimento das suas funções;\n\nf) Guardar sigilo relativamente a todos os factos de que tomar conhecimento no exercício das suas funções, durante e após o desempenho das mesmas;\n\ng) Comunicar à DGARTES, no prazo máximo de três dias, qualquer motivo de força maior ou circunstância que o impeça de desempenhar as suas funções.\n\n2 - Antes do início efetivo de funções, os membros das comissões atestam, por escrito, a ausência de incompatibilidades ou de qualquer circunstância suscetível de pôr em causa a sua imparcialidade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281152": {
+   "fragment_id": "120489085",
+   "type": 13,
+   "heading": "Título II — Bolsa de consultores e especialistas",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "## Título II — Bolsa de consultores e especialistas\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281153": {
+   "fragment_id": "120489086",
+   "type": 11,
+   "heading": "Artigo 6.º — Constituição da bolsa",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Constituição da bolsa\n\n1 - A bolsa é constituída por um conjunto de indivíduos com experiência ou conhecimento especializado nas áreas artísticas ou na área cultural, domínios de atividade, gestão financeira ou cultural, que manifestem interesse em colaborar no processo de apreciação ou de avaliação no âmbito dos apoios financeiros atribuídos pelo Estado através da DGARTES.\n\n2 - Os interessados em inscrever-se na bolsa devem ter experiência profissional mínima de três anos que lhes confira capacitação para a função a que se inscrevem e, preferencialmente, possuir formação superior adequada.\n\n3 - A inscrição na bolsa não confere o direito ao interessado de ser selecionado pela DGARTES, constituindo apenas uma manifestação de disponibilidade para o exercício das funções.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281154": {
+   "fragment_id": "120489087",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedidos de inscrição",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 7.º — Pedidos de inscrição\n\n1 - Os pedidos de inscrição na bolsa são formalizados pelos interessados através do formulário disponibilizado no Balcão Artes.\n\n2 - A DGARTES pode solicitar informação adicional ao interessado ou a qualquer entidade identificada por este no âmbito do pedido de inscrição.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281155": {
+   "fragment_id": "120489088",
+   "type": 11,
+   "heading": "Artigo 8.º — Decisão dos pedidos",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 8.º — Decisão dos pedidos\n\n1 - A decisão de aceitação dos pedidos de inscrição na bolsa compete ao diretor-geral da DGARTES, após verificação das condições pelos serviços.\n\n2 - São indeferidos os pedidos dos interessados que não reúnam os requisitos previstos nos n.os 1 e 2 do artigo 6.º\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281156": {
+   "fragment_id": "120489089",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação da inscrição",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 9.º — Cessação da inscrição\n\n1 - A inscrição na bolsa cessa:\n\na) A pedido do próprio;\n\nb) Após o decurso de três anos de integração na bolsa;\n\nc) Se forem verificadas omissões ou falsas declarações no âmbito de informações prestadas à DGARTES;\n\nd) No caso de ocorrência ou verificação superveniente de qualquer incompatibilidade ou impedimento.\n\n2 - No caso previsto na alínea b) do número anterior, pode o interessado voltar a submeter a sua inscrição nos termos do artigo 7.º\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281157": {
+   "fragment_id": "120489090",
+   "type": 11,
+   "heading": "Artigo 10.º — Não acumulação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Não acumulação\n\n1-Os membros das comissões de apreciação não podem integrar as comissões de avaliação dos contratos celebrados com entidades beneficiárias por si apreciadas.\n\n2 - Os membros das comissões de avaliação não podem integrar a comissão de apreciação do concurso que lhe sucede.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281158": {
+   "fragment_id": "120489091",
+   "type": 13,
+   "heading": "Título III — Comissões de Apreciação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "## Título III — Comissões de Apreciação\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281159": {
+   "fragment_id": "120489092",
+   "type": 11,
+   "heading": "Artigo 11.º — Apreciação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 11.º — Apreciação\n\n1 - A apreciação das candidaturas é da competência das comissões de apreciação, sempre que o apoio seja atribuído através de concurso.\n\n2 - Cada membro da comissão pode apreciar mais de uma área artística ou domínio de atividade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281160": {
+   "fragment_id": "120489093",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento da comissão de apreciação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 12.º — Funcionamento da comissão de apreciação\n\n1 - Após a admissão das candidaturas, as mesmas são distribuídas aos membros da comissão, sendo-lhes atribuída uma senha, pessoal e intransmissível, que lhes permite o acesso por via eletrónica a toda a documentação que compõe as candidaturas a apreciar.\n\n2 - Cada um dos membros da comissão procede a uma análise das candidaturas com base nos critérios legalmente fixados e parâmetros estabelecidos, tendo ainda em consideração os requisitos definidos, quando aplicáveis.\n\n3 - Após a análise prevista no número anterior, realiza-se o plenário, em sessão privada, com todos os membros da comissão para deliberação fundamentada da classificação e do montante do apoio a atribuir, a qual é lavrada em ata no prazo que for fixado pela DGARTES em função do número e da complexidade das candidaturas a apreciar.\n\n4 - O prazo previsto no número anterior não pode ser superior a 60 dias úteis.\n\n5 - A comissão procede à ordenação das candidaturas por ordem decrescente a partir da mais pontuada pelo plenário, sendo o quadro final anexo à ata.\n\n6 - A ata, contendo o resultado da apreciação e a classificação da comissão, é aprovada e assinada por todos os membros e remetida à DGARTES para cumprimento da audiência dos interessados.\n\n7 - Cabe à DGARTES notificar os interessados da ata prevista no número anterior para pronúncia em sede de audiência dos interessados.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281161": {
+   "fragment_id": "120489094",
+   "type": 11,
+   "heading": "Artigo 13.º — Decisão final da comissão de apreciação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 13.º — Decisão final da comissão de apreciação\n\n1 - Findo o prazo para audiência dos interessados, não havendo pronúncia dos candidatos, o projeto de decisão da comissão torna-se definitivo e é homologado pelo diretor-geral da DGARTES.\n\n2 - As pronúncias dos candidatos, em sede de audiência dos interessados, são remetidas à comissão pela DGARTES.\n\n3 - Havendo pronúncias, cabe à comissão, em reunião plenária a realizar extraordinariamente no prazo máximo de 15 dias úteis, analisar e elaborar resposta fundamentada sobre as mesmas, lavrando ata que será assinada por todos os membros.\n\n4 - É permitido à comissão rever ou completar a apreciação das candidaturas quando se revele necessário, em resultado da análise prevista no n.º 3.\n\n5 - Se do procedimento previsto no número anterior não resultar alteração das candidaturas selecionadas para apoio financeiro não há lugar a nova audiência de interessados.\n\n6 - Sempre que o montante do apoio financeiro atribuído seja inferior ao montante do apoio a que a entidade elegível se candidata, cabe à comissão de apreciação validar, no prazo máximo de 10 dias úteis, que os ajustamentos realizados ao plano de atividades ou projeto e à previsão orçamental não desvirtuam as características que presidiram à atribuição do apoio.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281162": {
+   "fragment_id": "120489095",
+   "type": 13,
+   "heading": "Título IV — Comissões de Avaliação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "## Título IV — Comissões de Avaliação\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281163": {
+   "fragment_id": "120489096",
+   "type": 11,
+   "heading": "Artigo 14.º — Acompanhamento e avaliação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 14.º — Acompanhamento e avaliação\n\n1 - A execução dos contratos das entidades beneficiárias dos programas de apoio às artes é objeto de acompanhamento e de avaliação, consistindo na verificação do cumprimento dos objetivos que justificaram a atribuição do apoio, no controlo da gestão e da execução financeira, e na validação dos indicadores de atividade apresentados pelas entidades beneficiárias.\n\n2 - O acompanhamento e avaliação da execução dos contratos das entidades beneficiárias compete à comissão de avaliação.\n\n3 - Compete ainda à comissão de avaliação emitir parecer sobre as propostas de plano de atividades e orçamento das entidades beneficiárias relativas aos anos subsequentes ao primeiro ano de atividade, a remeter à DGARTES, coadjuvando-a na negociação de alterações, se necessário.\n\n4 - Cada membro da comissão pode avaliar mais de uma área artística ou domínio de atividade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281164": {
+   "fragment_id": "120489097",
+   "type": 11,
+   "heading": "Artigo 15.º — Funcionamento da comissão de avaliação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+   ],
+   "markdown": "###### Artigo 15.º — Funcionamento da comissão de avaliação\n\n1 - Para a realização do acompanhamento e avaliação, a DGARTES atribui a cada membro da comissão uma senha, pessoal e intransmissível, que lhe permite o acesso por via eletrónica a toda a documentação e informação.\n\n2 - Cada membro da comissão deve fazer um acompanhamento presencial e documental das atividades apoiadas.\n\n3 - A comissão inicia a sua atividade com a elaboração de um plano de acompanhamento e avaliação para cada contrato, o qual deve incluir:\n\na) O modelo e plano de acompanhamento e avaliação a desenvolver;\n\nb) A distribuição de atividades de acompanhamento pelos membros da comissão;\n\nc) O calendário de reuniões.\n\n4 - As atividades inscritas no plano referido no número anterior não limitam nem impedem outras formas de acompanhamento presencial e documental que os membros da comissão considerem necessárias.\n\n5 - O acompanhamento presencial inclui a visualização de atividades e a realização de reuniões com as entidades beneficiárias que são reportadas no prazo máximo de 15 dias úteis, mediante a submissão no Balcão Artes de uma ficha de acompanhamento devidamente preenchida, em modelo fornecido pela DGARTES.\n\n6 - O acompanhamento documental implica a análise dos planos de atividade e orçamentos das entidades beneficiárias, dos seus relatórios de atividades e contas, assim como de outros documentos que os membros da comissão considerem relevante no âmbito da sua função.\n\n7 - O parecer final é elaborado em modelo fornecido pela DGARTES, no prazo de 30 dias úteis após a entrega do relatório final de atividades e contas por parte das entidades beneficiárias, abarcando vários aspetos do seu funcionamento, nomeadamente a execução do programa de atividades e respetiva gestão e execução financeira, e balizando a sua análise nas características que presidiram à atribuição do apoio e do contrato celebrado.\n\n8 - O parecer previsto no número anterior pode ser objeto de pronúncia por parte das entidades beneficiárias, no prazo de 10 dias úteis.\n\n9 - O parecer final é aprovado em plenário, de âmbito regional, pelos membros da comissão de avaliação, no prazo de 10 dias úteis.\n\n10 - No caso do programa de apoio a projetos o acompanhamento é presencial nos termos do n.º 5, cabendo igualmente às comissões a análise e a verificação do cumprimento dos objetivos culturais e artísticos que presidiram à atribuição do apoio.\n\n11 - Compete ao presidente de cada comissão, ou a quem o represente, reportar à DGARTES o resultado dos trabalhos desenvolvidos e disponibilizar o parecer final, referente a cada entidade beneficiária, no Balcão Artes.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 71-A/2019 - Diário da República n.º 42/2019, 1º Suplemento, Série I de 2019-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2019-120446619), em vigor a partir de 2019-03-05, produz efeitos a partir de 2019-03-01"
+  },
+  "167281165": {
+   "fragment_id": "120489098",
+   "type": 11,
+   "heading": "Artigo 16.º — Outras funções das comissões de avaliação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 16.º — Outras funções das comissões de avaliação\n\nCabe ainda aos membros das comissões de avaliação:\n\na) Emitir parecer, sempre que solicitado pela DGARTES, sobre a atividade das entidades beneficiárias que acompanham;\n\nb) Participar nas reuniões nacionais e regionais convocadas pela DGARTES ou pelo presidente de cada comissão;\n\nc) Comunicar à DGARTES, a qualquer momento, assuntos de carácter urgente ou situações anómalas, que impeçam ou perturbem o normal desenvolvimento das atividades programadas por parte das entidades beneficiárias ou o normal desempenho das suas funções;\n\nd) Reportar à DGARTES quaisquer situações que possam configurar incumprimento das obrigações contratuais por parte das entidades beneficiárias e recomendar a realização de auditorias sempre que identifiquem situações que possam suscitar dúvidas quanto à adequada aplicação dos apoios concedidos.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281166": {
+   "fragment_id": "120489099",
+   "type": 11,
+   "heading": "Artigo 17.º — Acesso das entidades beneficiárias à avaliação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 17.º — Acesso das entidades beneficiárias à avaliação\n\nO plano de acompanhamento previsto na alínea a) do n.º 3 do artigo 15.º e a avaliação final são disponibilizados às entidades beneficiárias no Balcão Artes.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281167": {
+   "fragment_id": "120489100",
+   "type": 13,
+   "heading": "Título V — Disposições finais",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "## Título V — Disposições finais\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281168": {
+   "fragment_id": "120489101",
+   "type": 11,
+   "heading": "Artigo 18.º — Divulgação",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 18.º — Divulgação\n\nA composição de cada comissão de apreciação e de cada comissão de avaliação é divulgada no Balcão Artes, sendo os seus membros identificados pelo nome e nota biográfica.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281169": {
+   "fragment_id": "120489102",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  },
+  "167281170": {
+   "fragment_id": "120489103",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+   ],
+   "markdown": "O Ministro da Cultura, Luís Filipe Carrilho de Castro Mendes, em 11 de outubro de 2017.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 146/2021 - Diário da República n.º 134/2021, Série I de 2021-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/146-2021-167133020), em vigor a partir de 2021-07-14"
+  }
+ }
+}

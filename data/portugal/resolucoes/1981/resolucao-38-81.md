@@ -1,0 +1,247 @@
+---
+schema_version: '1.0'
+id: pt:dre:390631:por
+title: Resolução n.º 38/81
+short_title: null
+summary: Aprova o Plano de Emergência para a Segurança do Fornecimento de Energia Eléctrica
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 38/81
+official_date: null
+publication_date: '1981-02-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 48/1981, Série I de 1981-02-26
+  number: '48'
+  series: I
+  supplement: null
+  pages: 518 - 520
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/02/04800/05180520.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390631'
+  dre_path: /dr/detalhe/resolucao/38-1981-390631
+  internal: pt:dre:390631:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/38-1981-390631
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/38-1981-390631
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-02-26T00:00:00Z'
+integrity:
+  source_sha256: c14dd06525cbe0284024a9776b8e3390fe55600bb0ebcf41c378c17df716872a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-38-390631.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 38/81
+
+O sistema de fornecimento de energia eléctrica ao País está constituído e continuará a desenvolver-se de modo a possibilitar a satisfação dos consumos previstos com um grau de garantia bastante elevado, limitado, contudo, pelo preço que se considera possível ser pago pelo serviço prestado.
+
+Um sistema que garantisse, por si só, a satisfação da totalidade dos consumos, mesmo no caso de afluências hidrológicas muito reduzidas, ou de indisponibilidades anormalmente elevadas dos equipamentos, ou de dificuldades de abastecimento em combustíveis, conduziria a investimentos de tal modo elevados que determinariam uma tarifa incomportável.
+
+Existe, portanto, a probabilidade de se tornar necessário reduzir os consumos que naturalmente se verificariam quando os factores adversos se conjugam para além do que foi planeado.
+
+Embora exista a possibilidade do recurso a importações, estas não são totalmente garantidas, daí resultando uma diminuição da viabilidade global do sistema, para além de uma penalização em termos de dispêndio de divisas.
+
+A evolução da situação energética mundial, em geral, e da situação europeia, em especial, para além da situação conjuntural de um ano hidrológico particularmente seco, tem conduzido a que a probabilidade de ocorrência de situações de não satisfação total dos consumos tenha vindo a aumentar.
+
+Num quadro energético com as características referidas tem sentido, como correcta medida de gestão administrativa - aliás, à semelhança do que se pratica noutros países -, a aprovação de um Plano de Emergência para a Segurança do Fornecimento de Energia Eléctrica, destinado a entrar em execução quando julgado indispensável.
+
+Tal Plano, que terá como base a introdução de restrições de consumo, deverá minimizar, no entanto, os prejuízos e incómodos que tal situação sempre ocasiona aos consumidores.
+
+De outro modo, os défices de energia que surgissem, e que não poderiam dispensar os cortes de fornecimento, acabariam por ser praticados de forma mais ou menos aleatória, com repercussões de ordem social e económica particularmente gravosas.
+
+Nestes termos, o Conselho de Ministros, reunido em 10 de Fevereiro de 1981, com base no disposto na alínea g) do artigo 202.º da Constituição, resolveu aprovar o anexo Plano de Emergência para a Segurança do Fornecimento de Energia Eléctrica, destinado a entrar em execução quando julgado indispensável, tendo em vista a minimização de prejuízos na actividade económica do País e dos incómodos para os consumidores em geral.
+
+Presidência do Conselho de Ministros, 10 de Fevereiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
+
+Plano de Emergência para a Segurança do Fornecimento de Energia Eléctrica
+
+1 - Condições de aplicação
+
+1.1 - O Plano será aplicado sempre que as condições do sistema eléctrico o exijam e abrangerá todos os distribuidores e utilizadores do continente.
+
+Em princípio, as referidas condições poderão surgir de situações de emergência, como avarias importantes nos equipamentos de produção e transporte, disparos da interligação internacional, etc., ou de situações previsíveis com base em estudos de simulação de exploração do sistema electro-produtor que apontem para a impossibilidade de se garantir a total satisfação dos consumos.
+
+As situações referidas envolvem ou insuficiências de potência ou insuficiência de energia.
+
+1.2 - Para efeitos de aplicação do Plano, haverá entidades distribuidoras de energia eléctrica de pequena dimensão, que serão encaradas como simples consumidores, enquanto outras, pela importância e estrutura da sua rede, o terão de aplicar nas áreas que lhes competem. Neste caso estão as abaixo indicadas:
+
+a) Electricidade de Portugal (EDP), E. P.;
+
+b) Federação de Municípios do Distrito de Leiria;
+
+c) Federação de Municípios do Ribatejo;
+
+d) Federação de Municípios do Distrito de Viseu;
+
+e) Serviços Municipalizados da Covilhã;
+
+f) Serviços Municipalizados de Tomar;
+
+g) Serviços Municipalizados de Loures;
+
+h) Serviços Municipalizados de Aveiro;
+
+i) Serviços Municipalizados de Braga;
+
+j) Serviços Municipalizados de Amarante;
+
+l) Serviços Municipalizados do Porto;
+
+m) Câmara Municipal de Felgueiras;
+
+n) Bernardino Jordão, Filhos & C.ª, Lda.
+
+1.3 - Sempre que ocorra, de um modo imprevisto, uma deficiência de potência no sistema eléctrico nacional, a EDP pode aplicar o Plano imediatamente, num dos graus definidos no n.º 2.3, devendo, no entanto, justificar perante a Direcção-Geral de Energia, num prazo de vinte e quatro horas, a atitude tomada.
+
+Se for previsível que essas condições se mantenham, deverá seguir-se o procedimento indicado no n.º 1.4.
+
+1.4 - Sempre que as deficiências sejam previsíveis e levem a presumir a necessidade de aplicação do Plano, a EDP deve solicitar, por escrito, À Direcção-Geral de Energia autorização para o aplicar, devendo fazê-lo com a maior brevidade possível. Neste caso, deve informar, diariamente, a Direcção-Geral de Energia da situação.
+
+1.5 - Sempre que haja necessidade de passar do grau 1 do Plano para o grau 2 do Plano, procede-se como no n.º 1.3 ou n.º 1.4.
+
+1.6 - Em qualquer das situações definidas nos n.os 1.4 e 1.5, a Direcção-Geral de Energia comunicará a entrada em vigor do Plano às entidades mencionadas no n.º 1.2.
+
+1.7 - Na situação prevista no n.º 1.3, a EDP substituir-se-á à Direcção-Geral de Energia para a comunicação às entidades mencionadas nas alíneas b) a n) no n.º 1.2.
+
+2 - Características do Plano
+
+2.1 - Para efeitos de aplicação do Plano, os consumidores são divididos em três tipos:
+
+a) Gerais;
+
+b) Indústrias de grande consumo;
+
+c) Não abrangidos por cortes.
+
+O primeiro tipo inclui todos os consumidores não abrangidos nos tipos seguintes.
+
+O segundo tipo inclui indústrias fortemente consumidoras, particularmente as alimentadas em alta tensão por linha própria a partir de uma subestação.
+
+O terceiro tipo inclui:
+
+a) Hospitais mais importantes;
+
+b) Distribuição de gás de Lisboa;
+
+c) Tracção eléctrica e sinalização de tráfego;
+
+d) Abastecimento de água, de esgotos e de minas, quando a estrutura da rede o permita.
+
+Para atender a situações de emergência que eventualmente surjam durante as interrupções, as entidades abaixo indicadas poderão solicitar ao distribuidor o restabelecimento da alimentação:
+
+a) Outros hospitais;
+
+b) Bombeiros;
+
+c) Quartéis;
+
+d) Esquadras e prisões;
+
+e) Instalações de telecomunicações e de controle e sinalização de tráfego aéreo;
+
+f) Outras instalações de abastecimento de água, de esgotos e de minas.
+
+2.2 - Para efeitos de interrupção do fornecimento de energia, os distribuidores dividirão os consumidores gerais em seis grupos de potência semelhante, procurando, na medida do possível, que cada grupo seja constituído por pequenas áreas não contíguas.
+
+2.3 - Conforme as disponibilidades e necessidades do sistema eléctrico nacional, o Plano poderá ser aplicado no grau 1 ou no grau 2.
+
+Em qualquer dos graus, é atribuído a cada consumidor o mesmo horário de interrupção, durante todos os dias úteis, uma ou duas vezes por dia, conforme o grau.
+
+Para os consumidores gerais, cada interrupção terá a duração de uma hora e trinta minutos, e para as indústrias referidas no n.º 2.1, alínea b), será de três horas.
+
+A distribuição dos horários de interrupção pelos diferentes grupos de consumidores e as horas do dia encontram-se indicadas nos quadros I e II.
+
+2.4 - No caso particular dos grandes consumidores de alta tensão alimentados por linha própria directamente de uma subestação, o distribuidor poderá, por livre entendimento com aqueles, aceitar a alteração do diagrama de consumo, desde que se mantenha a redução de energia prevista no Plano.
+
+2.5 - Por motivos de força maior, designadamente em caso de avarias, qualquer consumidor poderá sofrer interrupções de fornecimento de energia além das previstas anteriormente.
+
+3 - Informação aos consumidores
+
+3.1 - A aplicação do Plano de Emergência, nos casos previsíveis, será oportunamente difundida através dos meios de comunicação, enviando-se, além disso, anúncios individuais para os consumidores mais importantes.
+
+3.2 - Para que cada um dos consumidores gerais conheça o regime horário que lhe é aplicável, isto é, o grupo a que ficará a pertencer, as entidades distribuidoras indicadas no n.º 1.2 deverão fazer aviso prévio mediante interrupções de cinco minutos no início dos períodos de corte respectivos, como se indica no quadro III.
+
+4 - Da aplicação do Plano
+
+4.1 - Competirá sempre ao Ministério da tutela ajuizar da oportunidade e indispensabilidade da aplicação deste Plano.
+
+4.2 - Poderá o Ministro da tutela, se assim o julgar mais aconselhável para a defesa dos interesses da economia nacional no seu todo e dos consumidores em particular, determinar graduações de nível intermédio ao dos definidos no n.º 2.3.
+
+QUADRO I
+
+Esquema dos períodos de interrupção
+
+Grau I
+
+Horário das eventuais interrupções
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04800/05180520.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04800/05180520.pdf)
+
+Nota. - Os horários de Verão e de Inverno são considerados de acordo com a hora local.
+
+QUADRO II
+
+Esquema dos períodos de interrupção
+
+Grau II
+
+Horário das eventuais interrupções
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04800/05180520.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04800/05180520.pdf)
+
+QUADRO III
+
+Esquema dos períodos de aviso prévio
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04800/05180520.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04800/05180520.pdf)
+
+Nota. - As interrupções de cinco minutos para aviso prévio serão anunciadas antecipadamente, na altura dos anúncios dos

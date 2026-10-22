@@ -1,0 +1,882 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:493010:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-56925464",
+ "dre_path": "/dr/detalhe/decreto-lei/177-2009-493010",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-08-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "56925976",
+    "56925977",
+    "56925978",
+    "56925979",
+    "56925980",
+    "56925981",
+    "56925982",
+    "56925983",
+    "56925984",
+    "56925985",
+    "56925986",
+    "56925987",
+    "56925988",
+    "56925989",
+    "56925990",
+    "56925991",
+    "56925992",
+    "56925993",
+    "56925994",
+    "56925995",
+    "56925996",
+    "56925997",
+    "56925998",
+    "56925999",
+    "56926000",
+    "56926001",
+    "56926002",
+    "56926003",
+    "56926004",
+    "56926005",
+    "56926006",
+    "56926007",
+    "56926008",
+    "56926009",
+    "56926010",
+    "56926011",
+    "56926012",
+    "56926013",
+    "56926014",
+    "56926015",
+    "56926016",
+    "56926017",
+    "56926018"
+   ]
+  },
+  {
+   "date": "2013-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632430:por",
+     "title": "Decreto-Lei n.º 266-D/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/266-d-2012-632430"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 7.º-B",
+    "Adita Artigo 7.º-C",
+    "Adita Artigo 7.º-D",
+    "Adita Artigo 7.º-E",
+    "Altera Artigo 7.º",
+    "Altera Artigo 20.º",
+    "Revoga Artigo 32.º"
+   ],
+   "fragments": [
+    "56925976",
+    "56925977",
+    "56925978",
+    "56925979",
+    "56925980",
+    "56925981",
+    "56925982",
+    "56925983",
+    "56925984",
+    "56925985",
+    "202432498",
+    "202432500",
+    "202432521",
+    "202432542",
+    "202432563",
+    "202437384",
+    "202437385",
+    "202437386",
+    "202437387",
+    "202437388",
+    "202437389",
+    "202437390",
+    "202437391",
+    "202437392",
+    "202437393",
+    "202437394",
+    "202437395",
+    "202437396",
+    "202437397",
+    "202437398",
+    "202437399",
+    "202437400",
+    "202437401",
+    "202437402",
+    "202437403",
+    "202437404",
+    "56926007",
+    "56926008",
+    "56926009",
+    "56926010",
+    "56926011",
+    "56926012",
+    "202437405",
+    "56926014",
+    "56926015",
+    "56926016",
+    "56926017",
+    "56926019",
+    "56926018"
+   ]
+  },
+  {
+   "date": "2023-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223906279:por",
+     "title": "Decreto-Lei n.º 103/2023",
+     "published": "2023-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/103-2023-223906279"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 21.º"
+   ],
+   "fragments": [
+    "56925976",
+    "56925977",
+    "56925978",
+    "56925979",
+    "56925980",
+    "56925981",
+    "56925982",
+    "56925983",
+    "56925984",
+    "56925985",
+    "202432498",
+    "202432500",
+    "202432521",
+    "202432542",
+    "202432563",
+    "202437384",
+    "202437385",
+    "202437386",
+    "202437387",
+    "202437388",
+    "202437389",
+    "202437390",
+    "202437391",
+    "202437392",
+    "202437393",
+    "202437394",
+    "202437395",
+    "202437396",
+    "202437397",
+    "835894597",
+    "202437399",
+    "202437400",
+    "202437401",
+    "202437402",
+    "202437403",
+    "202437404",
+    "56926007",
+    "56926008",
+    "56926009",
+    "56926010",
+    "56926011",
+    "56926012",
+    "202437405",
+    "56926014",
+    "56926015",
+    "56926016",
+    "56926017",
+    "56926019",
+    "56926018"
+   ]
+  },
+  {
+   "date": "2023-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864045:por",
+     "title": "Decreto-Lei n.º 137/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/137-2023-835864045"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "56925976",
+    "56925977",
+    "56925978",
+    "56925979",
+    "56925980",
+    "56925981",
+    "56925982",
+    "56925983",
+    "56925984",
+    "56925985",
+    "202432498",
+    "202432500",
+    "202432521",
+    "202432542",
+    "202432563",
+    "202437384",
+    "202437385",
+    "202437386",
+    "202437387",
+    "202437388",
+    "202437389",
+    "202437390",
+    "202437391",
+    "202437392",
+    "202437393",
+    "835894598",
+    "835894599",
+    "202437396",
+    "202437397",
+    "835894597",
+    "202437399",
+    "202437400",
+    "202437401",
+    "202437402",
+    "202437403",
+    "202437404",
+    "56926007",
+    "56926008",
+    "56926009",
+    "56926010",
+    "56926011",
+    "56926012",
+    "202437405",
+    "56926014",
+    "56926015",
+    "56926016",
+    "56926017",
+    "56926019",
+    "56926018"
+   ]
+  }
+ ],
+ "fragments": {
+  "56925976": {
+   "fragment_id": "56925465",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 177/2009\n\nde 4 de Agosto\n\nO Serviço Nacional de Saúde (SNS), criado em 1979, é a entidade pública que garante a todos os cidadãos o direito constitucional à protecção e à promoção da saúde. É o núcleo essencial do sistema de saúde português, constituindo-se como um serviço solidário e universal, decisivo para manter e melhorar os níveis de saúde de toda a população e contribuindo para o seu bem-estar e qualidade de vida. É, também, um factor de coesão social na sociedade portuguesa.\n\nUm dos factores críticos do sucesso do SNS é o da qualificação e desenvolvimento técnico-científico dos seus profissionais, designadamente dos médicos. Para estes, tradicionalmente, as carreiras médicas têm sido um requisito e um estímulo para um percurso de diferenciação profissional, marcado por etapas exigentes, com avaliação interpares e reconhecimento institucional. Para o SNS, este processo tem possibilitado o desenvolvimento de um sistema de especialização e formação pós-graduada de sucessivas gerações de médicos, com repercussões comprovadas na qualidade dos cuidados de saúde e nos resultados medidos por vários indicadores de saúde populacional. Torna-se, por isso, necessário preservar e aperfeiçoar este património em todas as instituições e estabelecimentos integrados no SNS, independentemente da sua natureza jurídica.\n\nNo seguimento do disposto na base xii da Lei n.º 48/90, de 24 de Agosto, a Lei de Bases da Saúde, foi revisto, em 1993, o estatuto inicial do SNS, pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, que aprovou um novo Estatuto do Serviço Nacional de Saúde, no sentido de criar unidades integradas de cuidados de saúde e flexibilizar a gestão dos recursos.\n\nDada a relevância social do direito à protecção da saúde, adoptaram-se mecanismos especiais de mobilidade e de contratação de pessoal, com o intuito de compensar as desigualdades de acesso e de cobertura geodemográfica, bem como cumprindo a obrigação constitucional de universalidade do acesso à prestação de cuidados de saúde.\n\nCom as alterações de gestão e organização que têm prefigurado uma aposta na qualidade e na estruturação das carreiras médicas desde 1982, mormente pelo Decreto-Lei n.º 73/90, de 6 de Março, ora revogado, desenvolveu-se e valorizou-se a prestação médica no SNS, como um todo coeso e coerente, com especificidades próprias e com um projecto sustentável.\n\nNa presente legislatura, encetou-se a reforma da Administração Pública, tendo estabelecido a Lei n.º 12-A/2008, de 27 de Fevereiro, novos regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, prevendo, em particular, a revisão dos regimes dos corpos ou carreiras especiais.\n\nNeste contexto, a carreira médica, a natureza da prestação de cuidados médicos, pela sua especificidade, conteúdo funcional e independência técnica, não permite a sua integração numa carreira geral, impondo, por isso, a criação de uma carreira especial.\n\nDeste modo, ao abrigo do disposto no artigo 101.º da Lei n.º 12-A/2008, de 27 de Fevereiro, o presente decreto-lei revoga o Decreto-Lei n.º 73/90, de 6 de Março, que aprovou o regime das carreiras médicas, e define o regime legal da carreira médica, enquanto carreira especial da Administração Pública.\n\nA presente carreira especial, implementando um modelo de referência em todo o SNS, independentemente da natureza jurídica dos estabelecimentos e serviços, pretende reflectir um modelo de organização de recursos humanos essencial à qualidade da prestação e à segurança dos procedimentos.\n\nO presente decreto-lei institui uma carreira médica única, embora organizada por áreas de exercício profissional, fundando-se em deveres funcionais comuns para todos os médicos e num conteúdo funcional de prestação de cuidados de saúde, investigação e formação profissional.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "56925977": {
+   "fragment_id": "56925466",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e âmbito"
+  },
+  "56925978": {
+   "fragment_id": "56925467",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime da carreira especial médica, bem como os respectivos requisitos de habilitação profissional."
+  },
+  "56925979": {
+   "fragment_id": "56925468",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei aplica-se aos médicos integrados na carreira especial médica cuja relação jurídica de emprego público seja constituída por contrato de trabalho em funções públicas."
+  },
+  "56925980": {
+   "fragment_id": "56925469",
+   "type": 1,
+   "heading": "Capítulo II — Nível habilitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Nível habilitacional"
+  },
+  "56925981": {
+   "fragment_id": "56925470",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza do nível habilitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza do nível habilitacional\n\nO nível habilitacional exigido para a carreira especial médica corresponde aos graus de qualificação médica previstos no presente decreto-lei."
+  },
+  "56925982": {
+   "fragment_id": "56925471",
+   "type": 11,
+   "heading": "Artigo 4.º — Qualificação médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Qualificação médica\n\n1 - A qualificação médica tem por base a obtenção das capacidades e conhecimentos técnicos adquiridos ao longo da formação profissional dos médicos na carreira especial médica e compreende os seguintes graus:\n\na) Especialista;\n\nb) Consultor.\n\n2 - A qualificação dos médicos estrutura-se em graus enquanto títulos de habilitação profissional atribuídos pelo Ministério da Saúde e reconhecidos pela Ordem dos Médicos em função da obtenção de níveis de competência diferenciados e sujeitos a procedimento concursal."
+  },
+  "56925983": {
+   "fragment_id": "56925472",
+   "type": 11,
+   "heading": "Artigo 5.º — Aquisição dos graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aquisição dos graus\n\n1 - O grau de especialista adquire-se com a obtenção do título de especialista, após conclusão, com aproveitamento, do internato da especialidade.\n\n2 - O grau de consultor adquire-se após habilitação efectuada por procedimento concursal, que tenha por base, cumulativamente:\n\na) Avaliação curricular;\n\nb) Prova de verificação de aprofundamento de competências;\n\nc) Exercício efectivo, durante cinco anos, de funções com o grau de especialista.\n\n3 - O procedimento concursal previsto no número anterior é regulado por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde, ouvida a Ordem dos Médicos."
+  },
+  "56925984": {
+   "fragment_id": "56925473",
+   "type": 11,
+   "heading": "Artigo 6.º — Utilização do grau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Utilização do grau\n\nNo exercício e publicitação da sua actividade profissional o médico deve sempre fazer referência ao grau detido."
+  },
+  "56925985": {
+   "fragment_id": "56925474",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura da carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estrutura da carreira"
+  },
+  "56925986": {
+   "fragment_id": "56926075",
+   "type": 11,
+   "heading": "Artigo 7.º — Áreas de exercício profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Áreas de exercício profissional\n\n1 - A carreira especial médica organiza-se por áreas de exercício profissional, considerando-se, desde já, as áreas hospitalar, medicina geral e familiar, saúde pública, medicina legal e medicina do trabalho, podendo vir a ser integradas, de futuro, outras áreas.\n\n2 - Cada área prevista no número anterior tem formas de exercício adequadas à natureza da actividade que desenvolve e é objecto de definição em instrumento de regulamentação colectiva de trabalho."
+  },
+  "56925987": {
+   "fragment_id": "56926076",
+   "type": 11,
+   "heading": "Artigo 8.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Categorias\n\nA carreira médica é pluricategorial e estrutura-se nas seguintes categorias:\n\na) Assistente;\n\nb) Assistente graduado;\n\nc) Assistente graduado sénior."
+  },
+  "56925988": {
+   "fragment_id": "56926077",
+   "type": 11,
+   "heading": "Artigo 9.º — Perfil profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Perfil profissional\n\n1 - Considera-se médico o profissional legalmente habilitado ao exercício da medicina, capacitado para o diagnóstico, tratamento, prevenção ou recuperação de doenças ou outros problemas de saúde, e apto a prestar cuidados e a intervir sobre indivíduos, conjuntos de indivíduos ou grupos populacionais, doentes ou saudáveis, tendo em vista a protecção, melhoria ou manutenção do seu estado e nível de saúde.\n\n2 - A integração na carreira médica determina o exercício das correspondentes funções.\n\n3 - O médico exerce a sua actividade com plena responsabilidade profissional e autonomia técnico-científica, através do exercício correcto das funções assumidas, coopera com outros profissionais cuja acção seja complementar à sua e coordena as equipas multidisciplinares de trabalho constituídas."
+  },
+  "56925989": {
+   "fragment_id": "56926078",
+   "type": 11,
+   "heading": "Artigo 10.º — Deveres funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Deveres funcionais\n\n1 - Os trabalhadores integrados na carreira médica estão obrigados ao cumprimento dos deveres gerais estabelecidos para os trabalhadores que exercem funções públicas.\n\n2 - Sem prejuízo do conteúdo funcional inerente à respectiva categoria, os trabalhadores integrados na carreira médica estão obrigados, no respeito pelas leges artis, com observância pela autonomia e características técnico-científicas inerentes a cada especialidade médica, ao cumprimento dos seguintes deveres profissionais:\n\na) Exercer a sua profissão com respeito pelo direito à protecção da saúde dos utentes e da comunidade;\n\nb) Esclarecer devidamente o utente sobre os cuidados a prestar e sobre aqueles que foram prestados, assegurando a efectividade do consentimento informado;\n\nc) Exercer as suas funções com zelo e diligência, assegurando o trabalho em equipa, tendo em vista a continuidade e garantia da qualidade da prestação de cuidados e a efectiva articulação de todos os intervenientes;\n\nd) Participar em equipas para fazer face a situações de emergência ou catástrofe;\n\ne) Observar o sigilo profissional e todos os demais deveres éticos e princípios deontológicos;\n\nf) Actualizar e aperfeiçoar conhecimentos e competências na perspectiva de desenvolvimento pessoal, profissional e de aperfeiçoamento do seu desempenho;\n\ng) Colaborar com todos os intervenientes no trabalho de prestação de serviços de saúde, favorecendo o desenvolvimento de relações de cooperação, respeito e reconhecimento mútuo."
+  },
+  "56925990": {
+   "fragment_id": "56926079",
+   "type": 11,
+   "heading": "Artigo 11.º — Conteúdo funcional da categoria de assistente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conteúdo funcional da categoria de assistente\n\nO conteúdo funcional da categoria de assistente compreende funções médicas enquadradas em directrizes gerais bem definidas, organizadas em equipa, com observância pela autonomia e características técnico-científicas inerentes a cada especialidade médica, nomeadamente:\n\na) Prestar cuidados de saúde mediante a prática de actos médicos do âmbito da sua especialidade, sob a sua responsabilidade directa ou sob responsabilidade da equipa na qual o médico esteja integrado;\n\nb) Recolher, registar, e efectuar tratamento e análise da informação relativa ao exercício das suas funções, incluindo aquela que seja relevante para os sistemas de informação institucionais na área da saúde, designadamente os referentes à vigilância de fenómenos de saúde e de doença;\n\nc) Participar nas actividades de planeamento e programação do trabalho a executar pela unidade ou serviço;\n\nd) Participar em programas e projectos de investigação ou de intervenção, quer institucionais quer multicêntricos, nacionais ou internacionais, seja na sua área de especialização ou em área conexa;\n\ne) Colaborar na formação de médicos em processo de especialização, de médicos em formação básica e de alunos das licenciaturas em medicina ou de outras áreas da saúde;\n\nf) Participar em júris de concurso ou noutras actividades de avaliação dentro da sua área de especialização ou competência."
+  },
+  "56925991": {
+   "fragment_id": "56926080",
+   "type": 11,
+   "heading": "Artigo 12.º — Conteúdo funcional da categoria de assistente graduado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conteúdo funcional da categoria de assistente graduado\n\nPara além das funções inerentes à categoria de assistente, compete ainda ao médico com a categoria de assistente graduado:\n\na) Planear e programar o trabalho a executar pela unidade ou serviço;\n\nb) Desenvolver atitudes e práticas de coordenação técnico-científica e de auto-aperfeiçoamento, que constituam modelo de referência para os médicos e outros profissionais da unidade ou serviço em que o médico esteja integrado;\n\nc) Manter e promover actividades regulares de investigação, bem como apresentar anualmente, aos profissionais da unidade ou serviço em que esteja integrado, relatório da actividade realizada;\n\nd) Participar em júris de concurso para as categorias de assistente e assistente graduado."
+  },
+  "56925992": {
+   "fragment_id": "56926081",
+   "type": 11,
+   "heading": "Artigo 13.º — Conteúdo funcional da categoria de assistente graduado sénior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conteúdo funcional da categoria de assistente graduado sénior\n\nPara além das funções inerentes às categorias de assistente e de assistente graduado, compete ainda ao médico com a categoria de assistente graduado sénior:\n\na) Planear, programar e avaliar o trabalho da respectiva unidade, serviço ou departamento;\n\nb) Assumir a responsabilidade pelas actividades de formação e de desenvolvimento profissional contínuo dos médicos da sua unidade, serviço ou departamento, ou das atribuições de formação médica da instituição, quando designado;\n\nc) Elaborar, promover ou apoiar a concretização de projectos de desenvolvimento técnico-científico, institucional, de qualidade e de inovação, que mobilizem e envolvam o conjunto da equipa profissional em que o médico esteja integrado;\n\nd) Participar em júris de concursos para todos os graus e categorias da carreira médica."
+  },
+  "56925993": {
+   "fragment_id": "56926082",
+   "type": 11,
+   "heading": "Artigo 14.º — Grau de complexidade funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Grau de complexidade funcional\n\nA carreira médica é classificada como sendo de grau 3, em termos de complexidade funcional."
+  },
+  "56925994": {
+   "fragment_id": "56926083",
+   "type": 11,
+   "heading": "Artigo 15.º — Condições de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Condições de admissão\n\n1 - Para a admissão à categoria de assistente, é exigido o grau de especialista.\n\n2 - Para a admissão à categoria de assistente graduado, é exigido o grau de consultor.\n\n3 - Para a admissão à categoria de assistente graduado sénior, é exigido o grau de consultor e três anos de exercício efectivo com a categoria de assistente graduado."
+  },
+  "56925995": {
+   "fragment_id": "56926084",
+   "type": 11,
+   "heading": "Artigo 16.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Recrutamento\n\n1 - O recrutamento para os postos de trabalho em funções públicas, no âmbito da carreira médica, incluindo mudança de categoria, efectua-se mediante procedimento concursal.\n\n2 - Os requisitos de candidatura e a tramitação do procedimento concursal previstos no número anterior são regulados por portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde."
+  },
+  "56925996": {
+   "fragment_id": "56926085",
+   "type": 11,
+   "heading": "Artigo 17.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Remunerações\n\nA identificação dos níveis remuneratórios correspondentes às posições remuneratórias das categorias da carreira especial médica é efectuada em termos a prever em decreto regulamentar."
+  },
+  "56925997": {
+   "fragment_id": "56926086",
+   "type": 11,
+   "heading": "Artigo 18.º — Posições remuneratórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Posições remuneratórias\n\n1 - A cada categoria da carreira especial médica corresponde um número variável de posições remuneratórias, as quais constam do anexo i ao presente decreto-lei, do qual faz parte integrante.\n\n2 - A determinação da posição remuneratória na categoria de recrutamento é objecto de negociação, nos termos previstos no artigo 55.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n3 - A alteração da posição remuneratória na categoria faz-se nos termos previstos nos artigos 46.º a 48.º da Lei n.º 12-A/2008, de 27 de Fevereiro, tendo em conta o sistema de avaliação de desempenho dos médicos."
+  },
+  "56925998": {
+   "fragment_id": "56926087",
+   "type": 11,
+   "heading": "Artigo 19.º — Reconhecimento de graus e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reconhecimento de graus e categorias\n\nOs graus atribuídos pelo Ministério da Saúde e reconhecidos pela Ordem dos Médicos no âmbito das carreiras médicas existentes à data da entrada em vigor do presente decreto-lei ou ao abrigo da respectiva conversão, operada nos termos da Lei n.º 12-A/2008, de 27 de Fevereiro, bem como as categorias, são oponíveis para a elegibilidade necessária aos procedimentos de recrutamento previstos no presente decreto-lei."
+  },
+  "56925999": {
+   "fragment_id": "56926088",
+   "type": 11,
+   "heading": "Artigo 20.º — Duração do tempo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Duração do tempo de trabalho\n\nSem prejuízo do disposto em instrumento de regulamentação colectiva de trabalho, o período normal de trabalho da carreira especial médica para os médicos que venham a ser recrutados após a entrada em vigor do presente decreto-lei é de 35 horas semanais."
+  },
+  "56926000": {
+   "fragment_id": "56926089",
+   "type": 11,
+   "heading": "Artigo 21.º — Saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Saúde pública\n\n1 - Os trabalhadores que venham a ser recrutados, após a entrada em vigor do presente decreto-lei, para a carreira especial médica têm direito a um suplemento remuneratório quando sujeitos ao regime de disponibilidade permanente no exercício efectivo de funções nos departamentos de saúde pública das administrações regionais de saúde e nas unidades de saúde pública dos agrupamentos de centros de saúde.\n\n2 - Para efeitos do disposto no número anterior, considera-se regime de disponibilidade permanente a obrigatoriedade de apresentação ao serviço sempre que seja solicitado, mesmo que fora do período normal de trabalho.\n\n3 - A verificação do cumprimento do regime previsto no n.º 1 depende da previsão das respectivas atribuições nos respectivos diplomas orgânicos.\n\n4 - O suplemento remuneratório previsto no presente artigo é no montante de (euro) 800, sendo objecto de actualização anual, através de portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde.\n\n5 - Sem prejuízo do disposto nos números anteriores, em casos de situação de emergência, catástrofe ou outras situações excepcionais que o justifiquem, o director-geral da Saúde pode determinar, por despacho do qual constem os nomes dos médicos e o prazo de tais funções, a extensão do regime de disponibilidade aí previsto a outros profissionais médicos."
+  },
+  "56926001": {
+   "fragment_id": "56926090",
+   "type": 11,
+   "heading": "Artigo 22.º — Unidades de saúde familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Unidades de saúde familiar\n\nOs trabalhadores integrados na carreira médica em exercício efectivo de funções nas unidades de saúde familiar são agrupados autonomamente, para efeitos remuneratórios, em tabela própria, nos termos a prever em decreto regulamentar."
+  },
+  "56926002": {
+   "fragment_id": "56926091",
+   "type": 11,
+   "heading": "Artigo 23.º — Direcção e chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direcção e chefia\n\n1 - Os trabalhadores integrados na carreira médica podem exercer funções de direcção, chefia, ou coordenação de departamentos, serviços ou unidades funcionais do Serviço Nacional de Saúde, desde que sejam titulares das categorias de assistente graduado sénior ou, em casos devidamente fundamentados, de assistente graduado.\n\n2 - Sem prejuízo do disposto em lei especial, e de acordo com a organização interna e conveniência de serviço, o exercício de funções de direcção, chefia, ou coordenação de departamentos, serviços ou unidades funcionais do Serviço Nacional de Saúde é cumprido em comissão de serviço por três anos, renovável por iguais períodos, sendo a respectiva remuneração fixada em diploma próprio.\n\n3 - O exercício das funções referidas nos números anteriores não impede a manutenção da actividade de prestação de cuidados de saúde por parte dos médicos, mas prevalece sobre a mesma."
+  },
+  "56926003": {
+   "fragment_id": "56926092",
+   "type": 11,
+   "heading": "Artigo 24.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Período experimental\n\n1 - O período experimental do contrato por tempo indeterminado tem a duração de 90 dias.\n\n2 - Considera-se cumprido o período experimental a que se refere o número anterior sempre que o contrato por tempo indeterminado tenha sido imediatamente precedido da constituição de um vínculo, nas modalidades de contrato a termo resolutivo incerto ou em comissão de serviço, para o exercício da formação médica especializada, com o mesmo órgão ou serviço."
+  },
+  "56926004": {
+   "fragment_id": "56926093",
+   "type": 11,
+   "heading": "Artigo 25.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Formação profissional\n\n1 - A formação dos trabalhadores integrados na carreira médica assume carácter de continuidade e prossegue objectivos de actualização técnica e científica ou de desenvolvimento de projectos de investigação.\n\n2 - A formação prevista no número anterior deve ser planeada e programada, de modo a incluir informação interdisciplinar e desenvolver competências de organização e gestão de serviços.\n\n3 - A frequência de cursos de formação complementar ou de actualização profissional, com vista ao aperfeiçoamento, diferenciação técnica ou projectos de investigação, pode ser autorizada, mediante licença sem perda de remuneração, por um período não superior a 15 dias úteis por ano, ou nos termos que venham a ser definidos por instrumento de regulamentação colectiva de trabalho.\n\n4 - O membro do Governo responsável pela área da saúde pode atribuir, com faculdade de delegar, a licença prevista nos termos do número anterior, por um período superior a 15 dias úteis, desde que a proposta se encontre devidamente fundamentada e a formação se revista de interesse para os serviços."
+  },
+  "56926005": {
+   "fragment_id": "56926094",
+   "type": 11,
+   "heading": "Artigo 26.º — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Avaliação do desempenho\n\nA avaliação do desempenho relativa aos trabalhadores que integrem a carreira médica rege-se pelo regime da Lei n.º 66-B/2007, de 28 de Dezembro, com as adaptações que, nos termos previstos no n.º 6 do artigo 3.º da mesma lei, sejam introduzidas por instrumento de regulamentação colectiva do trabalho."
+  },
+  "56926006": {
+   "fragment_id": "56926095",
+   "type": 11,
+   "heading": "Artigo 27.º — Instrumentos de regulamentação colectiva do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Instrumentos de regulamentação colectiva do trabalho\n\nAs normas do regime legal da carreira médica podem ser afastadas por instrumento de regulamentação colectiva de trabalho, nos termos da lei."
+  },
+  "56926007": {
+   "fragment_id": "56926096",
+   "type": 1,
+   "heading": "Capítulo IV — Normas de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Normas de transição"
+  },
+  "56926008": {
+   "fragment_id": "56926097",
+   "type": 11,
+   "heading": "Artigo 28.º — Transição para a nova carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Transição para a nova carreira\n\n1 - As carreiras médicas de clínica geral, hospitalar e de saúde pública, criadas nos termos do Decreto-Lei n.º 73/90, de 6 de Março, são extintas.\n\n2 - Os médicos pertencentes às carreiras previstas no número anterior são integrados na carreira médica definida nos termos do presente decreto-lei, sem prejuízo da manutenção em vigor do respectivo regime de trabalho.\n\n3 - O pessoal médico integrado em carreiras médicas de clínica geral, hospitalar e de saúde pública, nos termos do Decreto-Lei n.º 73/90, de 6 de Março, com a categoria de assistente transita para a categoria de assistente.\n\n4 - O pessoal médico integrado em carreiras médicas de clínica geral, hospitalar e de saúde pública, nos termos do Decreto-Lei n.º 73/90, de 6 de Março, com a categoria de assistente graduado transita para a categoria de assistente graduado.\n\n5 - O pessoal médico integrado em carreiras médicas de clínica geral, hospitalar e de saúde pública, nos termos do Decreto-Lei n.º 73/90, de 6 de Março, com a categoria de chefe de serviço transita para a categoria de assistente graduado sénior.\n\n6 - O reposicionamento remuneratório dos trabalhadores integrados na carreira médica, referidos nos números anteriores, faz-se nos termos do artigo 104.º da Lei n.º 12-A/2008, de 27 de Fevereiro."
+  },
+  "56926009": {
+   "fragment_id": "56926098",
+   "type": 11,
+   "heading": "Artigo 29.º — Transição de graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Transição de graus\n\n1 - Os médicos que detenham o título de especialista concedido pela Ordem dos Médicos são equiparados, para efeitos do presente decreto-lei, a especialistas.\n\n2 - O grau de generalista, obtido nos termos do artigo 22.º do Decreto-Lei n.º 73/90, de 6 de Março, o grau de especialista, obtido nos termos do artigo 29.º do Decreto-Lei n.º 73/90, de 6 de Março, e o grau de especialista em saúde pública, obtido nos termos do artigo 37.º do Decreto-Lei n.º 73/90, de 6 de Março, são equiparados, para efeitos do presente decreto-lei, ao grau de especialista.\n\n3 - O grau de consultor, obtido nos termos dos artigos 22.º, 29.º e 37.º do Decreto-Lei n.º 73/90, de 6 de Março, é equiparado, para efeitos do presente decreto-lei, ao grau de consultor."
+  },
+  "56926010": {
+   "fragment_id": "56926099",
+   "type": 11,
+   "heading": "Artigo 30.º — Mapas de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Mapas de pessoal\n\nOs mapas de pessoal consideram-se automaticamente alterados, passando as categorias a ser as constantes do presente decreto-lei."
+  },
+  "56926011": {
+   "fragment_id": "56926100",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "56926012": {
+   "fragment_id": "56926101",
+   "type": 11,
+   "heading": "Artigo 31.º — Categoria subsistente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Categoria subsistente\n\n1 - Os clínicos gerais não habilitados com o grau de generalista não transitam para a nova carreira, mantendo-se como titulares de categoria subsistente nos termos do artigo 106.º da Lei n.º 12-A/2008, de 27 de Fevereiro, a extinguir quando vagar.\n\n2 - O disposto no número anterior não impede a aplicação do regime previsto nos artigos 11.º, 19.º, 25.º e 26.º do presente decreto-lei, bem como daquele que venha a ser estabelecido em sede de instrumento de regulamentação colectiva de trabalho.\n\n3 - As funções dos clínicos gerais são aquelas que caracterizam os postos de trabalho que os mesmos ocupam à data da entrada em vigor do presente decreto-lei."
+  },
+  "56926013": {
+   "fragment_id": "56926102",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma transitória\n\n1 - Os médicos transitam para a carreira especial médica nos termos previstos no artigo 28.º do presente decreto-lei.\n\n2 - Os médicos que não pretendam manter o respectivo regime de horário de trabalho actualmente em vigor podem requerer ao presidente do órgão de administração do estabelecimento onde prestem funções, por escrito, a todo o tempo, com produção automática de efeitos, a transição para o regime previsto no artigo 20.º do presente decreto-lei.\n\n3 - Caso não efectuem a opção prevista no número anterior, os médicos mantêm o respectivo regime de trabalho, remunerações e direitos inerentes, conforme os seguintes regimes de trabalho:\n\na) 35 horas semanais sem dedicação exclusiva;\n\nb) 35 horas semanais, com dedicação exclusiva;\n\nc) 42 horas semanais;\n\nd) 35 horas semanais, sem dedicação exclusiva com disponibilidade permanente;\n\ne) 35 horas semanais, com dedicação exclusiva e disponibilidade permanente."
+  },
+  "56926014": {
+   "fragment_id": "56926103",
+   "type": 11,
+   "heading": "Artigo 33.º — Alteração ao Decreto-Lei n.º 203/2004, de 18 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Alteração ao Decreto-Lei n.º 203/2004, de 18 de Agosto\n\nOs artigos 12.º-A, 20.º, 21.º e 23.º do Decreto-Lei n.º 203/2004, de 18 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 12.º-A\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - O disposto nos n.os 5 a 7 aplica-se aos médicos que estejam colocados em vagas preferenciais em estabelecimentos com natureza de entidade pública empresarial, devendo o exercício de funções, nos termos do n.º 4, efectivar-se mediante celebração de contrato de trabalho sem termo, ao abrigo do regime de pessoal daquelas entidades.\n\nArtigo 20.º\n\n[...]\n\nA remuneração base nos médicos internos é fixada por referência ao regime previsto no artigo 16.º do presente decreto-lei e é regulada por decreto regulamentar.\n\nArtigo 21.º\n\n[...]\n\n1 - ...\n\n2 - Aos médicos internos é atribuído um suplemento remuneratório mensal de deslocação no valor de (euro) 200, quando por condições técnicas do estabelecimento, ou dos agrupamentos de estabelecimentos, em que estejam colocados, tenham de frequentar estágio ou parte do programa de formação noutro serviço ou estabelecimento situado a mais de 50 km, onde não tenham residência.\n\n3 - O suplemento previsto no número anterior deve ser objecto de actualização anual, através de portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde.\n\nArtigo 23.º\n\n[...]\n\n1 - A aprovação final no internato médico confere o grau de médico especialista na correspondente especialidade.\n\n2 - ...\n\n3 - (Revogado.)»"
+  },
+  "56926015": {
+   "fragment_id": "56926104",
+   "type": 11,
+   "heading": "Artigo 34.º — Aditamento ao Decreto-Lei n.º 203/2004, de 18 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Aditamento ao Decreto-Lei n.º 203/2004, de 18 de Agosto\n\nÉ aditado ao Decreto-Lei n.º 203/2004, de 18 de Agosto, o artigo 30.º-A, com a seguinte redacção:\n\n«Artigo 30.º-A\n\nNorma transitória\n\nO regime remuneratório previsto nos artigos 20.º e 21.º do presente decreto-lei aplica-se aos médicos internos a partir de 1 de Janeiro de 2010.»"
+  },
+  "56926016": {
+   "fragment_id": "56926105",
+   "type": 11,
+   "heading": "Artigo 35.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Disposição final\n\n1 - Os procedimentos de negociação dos instrumentos de regulamentação colectiva de trabalho previstos no artigo 27.º são desencadeados em data subsequente à entrada em vigor do presente decreto-lei.\n\n2 - Com o início de vigência do instrumento de regulamentação colectiva referido no número anterior, cessa a aplicação do disposto no Decreto-Lei n.º 324/99, de 18 de Agosto, e no Decreto-Lei n.º 325/99, de 18 de Agosto, aos trabalhadores integrados na carreira médica.\n\n3 - Em matéria de incompatibilidades, impedimentos e exercício de medicina liberal, é aplicável aos médicos integrados na carreira médica o disposto nos artigos 25.º e seguintes da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n4 - Ficam salvaguardadas as situações constituídas ou a constituir durante o prazo de 24 meses, a contar desde a data de entrada em vigor do presente decreto-lei, ao abrigo:\n\na) Dos artigos 20.º a 22.º do Estatuto do Serviço Nacional de Saúde, aprovado em anexo ao Decreto-Lei n.º 11/93, de 15 de Janeiro;\n\nb) Do Decreto-Lei n.º 324/99, de 18 de Agosto;\n\nc) Do Decreto-Lei n.º 325/99, de 18 de Agosto;\n\nd) Do artigo 47.º do Decreto-Lei n.º 73/90, de 6 de Março.\n\n5 - Os concursos de acesso pendentes à data da entrada em vigor do presente decreto-lei mantêm-se válidos até ao provimento das vagas pelos candidatos seleccionados."
+  },
+  "56926017": {
+   "fragment_id": "56926106",
+   "type": 11,
+   "heading": "Artigo 36.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 73/90, de 6 de Março, com excepção dos n.os 5 a 9 e 11 a 14 do artigo 24.º e dos n.os 5 a 16 do artigo 31.º os quais se mantêm em vigor, na medida em que regulem situações não previstas no presente decreto-lei e na medida em que não sejam contrários ao regime por ele estabelecido, até ao início da vigência do instrumento de regulamentação colectiva de trabalho referido no n.º 1 do artigo 35.º;\n\nb) Os artigos 20.º a 22.º do Estatuto do Serviço Nacional de Saúde, aprovado em anexo ao Decreto-Lei n.º 11/93, de 15 de Janeiro;\n\nc) O Decreto-Lei n.º 198/97, de 2 de Agosto;\n\nd) O n.º 3 do artigo 23.º do Decreto-Lei n.º 203/2004, de 18 de Agosto."
+  },
+  "56926018": {
+   "fragment_id": "56926107",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n(ver documento original)"
+  },
+  "202432498": {
+   "fragment_id": "56926075",
+   "type": 11,
+   "heading": "Artigo 7.º — Áreas de exercício profissional",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Áreas de exercício profissional\n\n1 - A carreira especial médica organiza-se por áreas de exercício profissional, considerando-se, desde já, criadas as áreas hospitalar medicina geral e familiar, saúde pública, medicina legal e medicina do trabalho, podendo vir a ser integradas, no futuro, outras áreas.\n\n2 - Cada área prevista no número anterior tem formas de exercício adequadas à natureza da atividade que desenvolve, nos termos dos artigos seguintes, sem prejuízo do disposto em instrumento de regulamentação coletiva de trabalho.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+  },
+  "202432500": {
+   "fragment_id": "202436878",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Área hospitalar",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Área hospitalar\n\n1 -Na área hospitalar, ao assistente são atribuídas, nomeadamente, as seguintes funções:\n\na) Prestar as funções assistenciais e praticar atos médicos diferenciados;\n\nb) Registar no processo clínico os atos, diagnósticos e procedimentos;\n\nc) Participar na formação dos médicos internos;\n\nd) Integrar e chefiar as equipas de urgência, interna e externa;\n\ne) Participar em projetos de investigação científica;\n\nf) Integrar programas de melhoria contínua da qualidade;\n\ng) Desempenhar funções docentes;\n\nh) Responsabilizar-se por unidades médicas funcionais;\n\ni) Articular a prestação e a continuidade dos cuidados de saúde com os médicos de família;\n\nj) Participar em júris de concurso;\n\nk) Assegurar as funções de assistente graduado ou de assistente graduado sénior, quando não existam ou nas suas faltas e impedimentos.\n\n2 -Na área hospitalar, ao assistente graduado são atribuídas as funções de assistente e ainda as de:\n\na) Coordenar o desenvolvimento curricular dos médicos internos e dos médicos assistentes;\n\nb) Coordenar programas de melhoria contínua da qualidade;\n\nc) Coordenar a dinamização da investigação científica;\n\nd) Coordenar a dinamização de projetos de bioética;\n\ne) Coordenar a dinamização de projetos de informatização clínica e de telemedicina;\n\nf) Coordenar os protocolos de diagnóstico, terapêuticos e de acompanhamento, bem como a gestão dos internamentos e da consulta externa;\n\ng) Coadjuvar os assistentes graduados seniores da sua área de especialidade.\n\n3 -Na área hospitalar, ao assistente graduado sénior são atribuídas as funções de assistente e de assistente graduado, cabendo-lhe ainda:\n\na) Coordenar atividades assistenciais de investigação científica e de formação médica na área da sua especialidade;\n\nb) Coordenar os processos de acreditação;\n\nc) Exercer cargos de direção e chefia;\n\nd) Coadjuvar o diretor de serviço nas atividades de gestão;\n\ne) Substituir o diretor de serviço da respetiva área nas suas faltas e impedimentos.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+  },
+  "202432521": {
+   "fragment_id": "202436879",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Área de medicina geral e familiar",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-B — Área de medicina geral e familiar\n\n1 -Na área de medicina geral e familiar, ao assistente são atribuídas, nomeadamente, as seguintes funções:\n\na) Prestar cuidados de saúde globais e continuados a uma lista de utentes inscritos com uma dimensão de no máximo 1900 utentes, correspondentes a 2358 unidades ponderadas, individualmente, no âmbito de uma equipa, bem como desenvolver atividades de prevenção das doenças e, ainda, promover a gestão da sua lista;\n\nb) Exercer nas unidades de saúde funções de apoio, de carácter transitório, aos utentes sem médico de família;\n\nc) Registar no processo clínico os atos, diagnósticos e procedimentos;\n\nd) Orientar e seguir os doentes na utilização de serviços de saúde a que entenda referenciá-los para adequada assistência, nomeadamente quanto a cuidados hospitalares, mediante relatório escrito confidencial;\n\ne) Promover a articulação com outros níveis de prestação de cuidados com o objetivo de proceder à sua adequada continuidade;\n\nf) Responsabilizar-se por unidades funcionais;\n\ng) Participar na formação dos médicos internos;\n\nh) Participar em projetos de investigação científica;\n\ni) Integrar programas de melhoria contínua da qualidade;\n\nj) Desempenhar funções docentes;\n\nk) Participar em júris de concurso;\n\nl) Exercer nas unidades de saúde funções integradas nos programas de saúde pública, designadamente as de assistência global às populações.\n\n2 -Na área de medicina geral e familiar, ao assistente graduado são atribuídas as funções de assistente e ainda as de:\n\na) Coordenar o desenvolvimento curricular dos médicos internos e dos médicos assistentes;\n\nb) Coordenar a dinamização da investigação científica;\n\nc) Coordenar a dinamização de projetos de bioética;\n\nd) Coordenar a dinamização de projetos de informatização clínica e de telemedicina;\n\ne) Coordenar os protocolos de diagnóstico, terapêuticos e de acompanhamento;\n\nf) Coadjuvar os assistentes graduados seniores.\n\n3 -Na área de medicina geral e familiar, ao assistente graduado sénior são atribuídas as funções de assistente e de assistente graduado, cabendo-lhe ainda:\n\na) Coordenar atividades assistenciais de investigação científica e de formação médica na área da sua especialidade;\n\nb) Coordenar os processos de acreditação;\n\nc) Desempenhar cargos de direção e chefia, nomeadamente de membro do conselho clínico;\n\nd) Coadjuvar a direção clínica dos agrupamentos de centros de saúde nas atividades de gestão;\n\ne) Substituir o coordenador de unidade da respetiva área nas suas faltas e impedimentos.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+  },
+  "202432542": {
+   "fragment_id": "202436880",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Área de saúde pública",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-C — Área de saúde pública\n\n1 -Na área de saúde pública, ao assistente são atribuídas, nomeadamente, as seguintes funções:\n\na) Assegurar as atividades de promoção da saúde e prevenção da doença na população em geral ou em determinados grupos que a integram;\n\nb) Identificar necessidades de saúde;\n\nc) Monitorizar o estado de saúde da população e seus determinantes;\n\nd) Promover e participar na formação dos médicos internos e na formação pré-graduada, pós-graduada e contínua dos diversos grupos profissionais que integram;\n\ne) Participar na articulação das atividades de saúde pública com as da medicina geral e familiar e hospitalar;\n\nf) Gerir programas e projetos nas áreas de defesa, proteção e promoção da saúde da população, no quadro dos planos nacionais de saúde ou dos respetivos programas ou planos regionais ou locais de saúde, nomeadamente vacinação, saúde ambiental, saúde escolar, saúde ocupacional e saúde oral;\n\ng) Responsabilizar-se por unidades funcionais de saúde pública;\n\nh) Exercer os poderes de autoridade de saúde;\n\ni) Cooperar com a autoridade de saúde;\n\nj) Desempenhar funções docentes;\n\nk) Participar em projetos de investigação científica;\n\nl) Integrar programas de melhoria contínua da qualidade;\n\nm) Participar em júris de concursos;\n\nn) Praticar atos médicos assistenciais nos limites do seu perfil profissional.\n\n2 -Na área de saúde pública, ao assistente graduado são atribuídas as funções de assistente e ainda as de:\n\na) Coordenar o desenvolvimento curricular dos médicos internos e dos médicos assistentes;\n\nb) Coordenar programas de melhoria contínua da qualidade;\n\nc) Promover a investigação e a vigilância epidemiológicas;\n\nd) Desenvolver a investigação em saúde pública;\n\ne) Coordenar a dinamização de projetos de informatização relativos às áreas da saúde pública;\n\nf) Coadjuvar os assistentes graduados seniores.\n\n3 -Na área de saúde pública, ao assistente graduado sénior são atribuídas as funções de assistente e assistente graduado, cabendo-lhe ainda:\n\na) Coordenar atividades de investigação e de formação médica em saúde pública;\n\nb) Avaliar o impacte das várias intervenções em saúde;\n\nc) Coordenar os processos de acreditação;\n\nd) Desempenhar cargos de direção e chefia.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+  },
+  "202432563": {
+   "fragment_id": "202436881",
+   "type": 11,
+   "heading": "Artigo 7.º-D — Área de medicina legal",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-D — Área de medicina legal\n\n1 - Na área de medicina legal, ao assistente são atribuídas, nomeadamente, as seguintes funções:\n\na) Prestar as funções médico-legais e praticar atos periciais diferenciados;\n\nb) Elaborar relatórios e pareceres médico-legais;\n\nc) Participar na formação dos médicos internos;\n\nd) Integrar a escala de exames periciais médico-legais urgentes;\n\ne) Orientar o pessoal técnico de diagnóstico e terapêutica e o pessoal técnico-ajudante de medicina legal na realização das suas tarefas;\n\nf) Participar em projetos de investigação científica;\n\ng) Integrar programas de melhoria contínua da qualidade;\n\nh) Desempenhar funções docentes;\n\ni) Responsabilizar-se por unidades funcionais médico-legais;\n\nj) Articular a prestação e a continuidade da intervenção médico-legal com os médicos das restantes áreas de exercício profissional;\n\nk) Participar em júris de concurso;\n\nl) Assegurar as funções de assistente graduado ou de assistente graduado sénior, quando não existam ou nas suas faltas e impedimentos.\n\n2 -Na área de medicina legal, ao assistente graduado são atribuídas as funções de assistente e ainda as de:\n\na) Coordenar o desenvolvimento curricular dos médicos internos e dos médicos assistentes;\n\nb) Coordenar programas de melhoria contínua da qualidade;\n\nc) Coordenar projetos de investigação científica;\n\nd) Coordenar projetos de bioética;\n\ne) Coordenar projetos de informatização médico-legal e de telemedicina;\n\nf) Coordenar os protocolos de intervenção médico-legal bem como a gestão e gabinetes médico-legais e outras unidades funcionais;\n\ng) Coadjuvar os assistentes graduados seniores da sua área de especialidade.\n\n3 -Na área de medicina legal, ao assistente graduado sénior são atribuídas as funções de assistente e de assistente graduado, cabendo-lhe ainda:\n\na) Coordenar atividades de investigação científica e de formação médica na área da sua especialidade;\n\nb) Coordenar os processos de acreditação;\n\nc) Coadjuvar o diretor de serviço nas atividades de gestão;\n\nd) Exercer as funções de diretor de serviço;\n\ne) Substituir o diretor de serviço nas suas faltas e impedimentos, quando para tal designado.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+  },
+  "202437384": {
+   "fragment_id": "202436882",
+   "type": 11,
+   "heading": "Artigo 7.º-E — Área de medicina do trabalho",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-E — Área de medicina do trabalho\n\n1 - Na área de medicina do trabalho, ao assistente são atribuídas, nomeadamente, as seguintes funções:\n\na) Realizar a vigilância médica dos trabalhadores da entidade empregadora pública, emitindo as respetivas fichas de aptidão, bem como desenvolver atividades de prevenção dos acidentes de trabalho e das doenças profissionais;\n\nb) Registar no processo clínico os atos, diagnósticos e procedimentos, garantindo a sua confidencialidade perante terceiros, nomeadamente a entidade empregadora pública;\n\nc) Tomar decisões de intervenção médica que, na sua avaliação, se imponham em cada caso;\n\nd) Orientar e seguir os trabalhadores doentes ou sinistrados na utilização de serviços de saúde a que entenda referenciá-los para adequada assistência, mediante relatório escrito confidencial, bem como proceder e acompanhar os processos de notificação obrigatória de doença profissional ou a sua presunção fundamentada;\n\ne) Responsabilizar-se por serviços de saúde ocupacional;\n\nf) Promover a articulação com as outras áreas da saúde ocupacional;\n\ng) Desenvolver programas de promoção, prevenção e vigilância da saúde nos locais de trabalho, bem como de avaliação das condições de trabalho e o seu impacte na saúde dos trabalhadores, e avaliação e gestão dos riscos profissionais;\n\nh) Participar nas atividades de informação e formação dos trabalhadores e prestar informação técnica, na fase de projeto e de execução, sobre as medidas de prevenção relativas às instalações, locais, equipamentos e processos de trabalho;\n\ni) Participar na formação dos médicos internos;\n\nj) Participar em projetos de investigação científica;\n\nk) Integrar programas de melhoria contínua da qualidade;\n\nl) Desempenhar funções docentes;\n\nm) Participar em júris de concurso;\n\nn) Colaborar em programas de saúde pública.\n\n2 -Na área de medicina do trabalho, ao assistente graduado são atribuídas as funções de assistente e ainda as de:\n\na) Coordenar o desenvolvimento curricular dos médicos internos e dos médicos assistentes;\n\nb) Coordenar os programas de promoção, prevenção, vigilância da saúde, de avaliação das condições de trabalho e riscos profissionais e do seu respetivo impacto na saúde dos trabalhadores;\n\nc) Coordenar programas de melhoria contínua da qualidade;\n\nd) Desenvolver a investigação em medicina do trabalho e saúde ocupacional;\n\ne) Coordenar e dinamizar projetos de informatização relativos à medicina do trabalho e à saúde ocupacional;\n\nf) Coadjuvar os assistentes graduados seniores.\n\n3 -Na área de medicina do trabalho, ao assistente graduado sénior são atribuídas as funções de assistente e de assistente graduado, cabendo-lhe ainda:\n\na) Coordenar atividades de investigação e de formação médica em medicina do trabalho;\n\nb) Coordenar os processos de acreditação;\n\nc) Desempenhar cargos de direção e chefia;\n\nd) Coadjuvar o diretor de serviço nas atividades de gestão;\n\ne) Substituir o diretor de serviço nas suas faltas e impedimentos.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+  },
+  "202437385": {
+   "fragment_id": "56926076",
+   "type": 11,
+   "heading": "Artigo 8.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Categorias\n\nA carreira médica é pluricategorial e estrutura-se nas seguintes categorias:\n\na) Assistente;\n\nb) Assistente graduado;\n\nc) Assistente graduado sénior."
+  },
+  "202437386": {
+   "fragment_id": "56926077",
+   "type": 11,
+   "heading": "Artigo 9.º — Perfil profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Perfil profissional\n\n1 - Considera-se médico o profissional legalmente habilitado ao exercício da medicina, capacitado para o diagnóstico, tratamento, prevenção ou recuperação de doenças ou outros problemas de saúde, e apto a prestar cuidados e a intervir sobre indivíduos, conjuntos de indivíduos ou grupos populacionais, doentes ou saudáveis, tendo em vista a protecção, melhoria ou manutenção do seu estado e nível de saúde.\n\n2 - A integração na carreira médica determina o exercício das correspondentes funções.\n\n3 - O médico exerce a sua actividade com plena responsabilidade profissional e autonomia técnico-científica, através do exercício correcto das funções assumidas, coopera com outros profissionais cuja acção seja complementar à sua e coordena as equipas multidisciplinares de trabalho constituídas."
+  },
+  "202437387": {
+   "fragment_id": "56926078",
+   "type": 11,
+   "heading": "Artigo 10.º — Deveres funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Deveres funcionais\n\n1 - Os trabalhadores integrados na carreira médica estão obrigados ao cumprimento dos deveres gerais estabelecidos para os trabalhadores que exercem funções públicas.\n\n2 - Sem prejuízo do conteúdo funcional inerente à respectiva categoria, os trabalhadores integrados na carreira médica estão obrigados, no respeito pelas leges artis, com observância pela autonomia e características técnico-científicas inerentes a cada especialidade médica, ao cumprimento dos seguintes deveres profissionais:\n\na) Exercer a sua profissão com respeito pelo direito à protecção da saúde dos utentes e da comunidade;\n\nb) Esclarecer devidamente o utente sobre os cuidados a prestar e sobre aqueles que foram prestados, assegurando a efectividade do consentimento informado;\n\nc) Exercer as suas funções com zelo e diligência, assegurando o trabalho em equipa, tendo em vista a continuidade e garantia da qualidade da prestação de cuidados e a efectiva articulação de todos os intervenientes;\n\nd) Participar em equipas para fazer face a situações de emergência ou catástrofe;\n\ne) Observar o sigilo profissional e todos os demais deveres éticos e princípios deontológicos;\n\nf) Actualizar e aperfeiçoar conhecimentos e competências na perspectiva de desenvolvimento pessoal, profissional e de aperfeiçoamento do seu desempenho;\n\ng) Colaborar com todos os intervenientes no trabalho de prestação de serviços de saúde, favorecendo o desenvolvimento de relações de cooperação, respeito e reconhecimento mútuo."
+  },
+  "202437388": {
+   "fragment_id": "56926079",
+   "type": 11,
+   "heading": "Artigo 11.º — Conteúdo funcional da categoria de assistente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conteúdo funcional da categoria de assistente\n\nO conteúdo funcional da categoria de assistente compreende funções médicas enquadradas em directrizes gerais bem definidas, organizadas em equipa, com observância pela autonomia e características técnico-científicas inerentes a cada especialidade médica, nomeadamente:\n\na) Prestar cuidados de saúde mediante a prática de actos médicos do âmbito da sua especialidade, sob a sua responsabilidade directa ou sob responsabilidade da equipa na qual o médico esteja integrado;\n\nb) Recolher, registar, e efectuar tratamento e análise da informação relativa ao exercício das suas funções, incluindo aquela que seja relevante para os sistemas de informação institucionais na área da saúde, designadamente os referentes à vigilância de fenómenos de saúde e de doença;\n\nc) Participar nas actividades de planeamento e programação do trabalho a executar pela unidade ou serviço;\n\nd) Participar em programas e projectos de investigação ou de intervenção, quer institucionais quer multicêntricos, nacionais ou internacionais, seja na sua área de especialização ou em área conexa;\n\ne) Colaborar na formação de médicos em processo de especialização, de médicos em formação básica e de alunos das licenciaturas em medicina ou de outras áreas da saúde;\n\nf) Participar em júris de concurso ou noutras actividades de avaliação dentro da sua área de especialização ou competência."
+  },
+  "202437389": {
+   "fragment_id": "56926080",
+   "type": 11,
+   "heading": "Artigo 12.º — Conteúdo funcional da categoria de assistente graduado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conteúdo funcional da categoria de assistente graduado\n\nPara além das funções inerentes à categoria de assistente, compete ainda ao médico com a categoria de assistente graduado:\n\na) Planear e programar o trabalho a executar pela unidade ou serviço;\n\nb) Desenvolver atitudes e práticas de coordenação técnico-científica e de auto-aperfeiçoamento, que constituam modelo de referência para os médicos e outros profissionais da unidade ou serviço em que o médico esteja integrado;\n\nc) Manter e promover actividades regulares de investigação, bem como apresentar anualmente, aos profissionais da unidade ou serviço em que esteja integrado, relatório da actividade realizada;\n\nd) Participar em júris de concurso para as categorias de assistente e assistente graduado."
+  },
+  "202437390": {
+   "fragment_id": "56926081",
+   "type": 11,
+   "heading": "Artigo 13.º — Conteúdo funcional da categoria de assistente graduado sénior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conteúdo funcional da categoria de assistente graduado sénior\n\nPara além das funções inerentes às categorias de assistente e de assistente graduado, compete ainda ao médico com a categoria de assistente graduado sénior:\n\na) Planear, programar e avaliar o trabalho da respectiva unidade, serviço ou departamento;\n\nb) Assumir a responsabilidade pelas actividades de formação e de desenvolvimento profissional contínuo dos médicos da sua unidade, serviço ou departamento, ou das atribuições de formação médica da instituição, quando designado;\n\nc) Elaborar, promover ou apoiar a concretização de projectos de desenvolvimento técnico-científico, institucional, de qualidade e de inovação, que mobilizem e envolvam o conjunto da equipa profissional em que o médico esteja integrado;\n\nd) Participar em júris de concursos para todos os graus e categorias da carreira médica."
+  },
+  "202437391": {
+   "fragment_id": "56926082",
+   "type": 11,
+   "heading": "Artigo 14.º — Grau de complexidade funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Grau de complexidade funcional\n\nA carreira médica é classificada como sendo de grau 3, em termos de complexidade funcional."
+  },
+  "202437392": {
+   "fragment_id": "56926083",
+   "type": 11,
+   "heading": "Artigo 15.º — Condições de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Condições de admissão\n\n1 - Para a admissão à categoria de assistente, é exigido o grau de especialista.\n\n2 - Para a admissão à categoria de assistente graduado, é exigido o grau de consultor.\n\n3 - Para a admissão à categoria de assistente graduado sénior, é exigido o grau de consultor e três anos de exercício efectivo com a categoria de assistente graduado."
+  },
+  "202437393": {
+   "fragment_id": "56926084",
+   "type": 11,
+   "heading": "Artigo 16.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Recrutamento\n\n1 - O recrutamento para os postos de trabalho em funções públicas, no âmbito da carreira médica, incluindo mudança de categoria, efectua-se mediante procedimento concursal.\n\n2 - Os requisitos de candidatura e a tramitação do procedimento concursal previstos no número anterior são regulados por portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde."
+  },
+  "202437394": {
+   "fragment_id": "56926085",
+   "type": 11,
+   "heading": "Artigo 17.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Remunerações\n\nA identificação dos níveis remuneratórios correspondentes às posições remuneratórias das categorias da carreira especial médica é efectuada em termos a prever em decreto regulamentar."
+  },
+  "202437395": {
+   "fragment_id": "56926086",
+   "type": 11,
+   "heading": "Artigo 18.º — Posições remuneratórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Posições remuneratórias\n\n1 - A cada categoria da carreira especial médica corresponde um número variável de posições remuneratórias, as quais constam do anexo i ao presente decreto-lei, do qual faz parte integrante.\n\n2 - A determinação da posição remuneratória na categoria de recrutamento é objecto de negociação, nos termos previstos no artigo 55.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n3 - A alteração da posição remuneratória na categoria faz-se nos termos previstos nos artigos 46.º a 48.º da Lei n.º 12-A/2008, de 27 de Fevereiro, tendo em conta o sistema de avaliação de desempenho dos médicos."
+  },
+  "202437396": {
+   "fragment_id": "56926087",
+   "type": 11,
+   "heading": "Artigo 19.º — Reconhecimento de graus e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reconhecimento de graus e categorias\n\nOs graus atribuídos pelo Ministério da Saúde e reconhecidos pela Ordem dos Médicos no âmbito das carreiras médicas existentes à data da entrada em vigor do presente decreto-lei ou ao abrigo da respectiva conversão, operada nos termos da Lei n.º 12-A/2008, de 27 de Fevereiro, bem como as categorias, são oponíveis para a elegibilidade necessária aos procedimentos de recrutamento previstos no presente decreto-lei."
+  },
+  "202437397": {
+   "fragment_id": "56926088",
+   "type": 11,
+   "heading": "Artigo 20.º — Tempo de trabalho",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Tempo de trabalho\n\n1 - O período normal de trabalho dos trabalhadores médicos é de 8 horas diárias e 40 horas semanais, organizadas de segunda a sexta-feira, sem prejuízo do disposto nos números seguintes.\n\n2 - O regime de trabalho correspondente a 40 horas de trabalho implica a prestação de até 18 horas de trabalho semanal normal nos serviços de urgência, externa e interna, unidades de cuidados intensivos e unidades de cuidados intermédios, a prestar até duas jornadas de trabalho, de duração não superior a 12 horas e com aferição do total de horas realizadas num período de referência de 8 semanas, sendo pago o trabalho extraordinário que exceda as 144 horas do período normal de trabalho, relativamente ao referido período de aferição.\n\n3 - Os médicos não podem realizar, em média, mais de 48 horas por semana, incluindo trabalho suplementar, num período de referência de 6 meses.\n\n4 - Sem prejuízo da obrigação de prestar trabalho suplementar nos termos gerais, os trabalhadores médicos devem prestar, quando necessário, um período semanal único até 6 horas de trabalho extraordinário no serviço de urgência, em unidades de cuidados intensivos e em unidades de cuidados intermédios.\n\n5 - O cumprimento do período normal de trabalho nos serviços de urgência, externa e interna, unidades de cuidados intensivos e unidades de cuidados intermédios, ocorre no período compreendido entre as zero horas de segunda-feira e as 24 horas de domingo, sem prejuízo da parte final do n.º 2.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+  },
+  "202437398": {
+   "fragment_id": "56926089",
+   "type": 11,
+   "heading": "Artigo 21.º — Saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Saúde pública\n\n1 - Os trabalhadores que venham a ser recrutados, após a entrada em vigor do presente decreto-lei, para a carreira especial médica têm direito a um suplemento remuneratório quando sujeitos ao regime de disponibilidade permanente no exercício efectivo de funções nos departamentos de saúde pública das administrações regionais de saúde e nas unidades de saúde pública dos agrupamentos de centros de saúde.\n\n2 - Para efeitos do disposto no número anterior, considera-se regime de disponibilidade permanente a obrigatoriedade de apresentação ao serviço sempre que seja solicitado, mesmo que fora do período normal de trabalho.\n\n3 - A verificação do cumprimento do regime previsto no n.º 1 depende da previsão das respectivas atribuições nos respectivos diplomas orgânicos.\n\n4 - O suplemento remuneratório previsto no presente artigo é no montante de (euro) 800, sendo objecto de actualização anual, através de portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde.\n\n5 - Sem prejuízo do disposto nos números anteriores, em casos de situação de emergência, catástrofe ou outras situações excepcionais que o justifiquem, o director-geral da Saúde pode determinar, por despacho do qual constem os nomes dos médicos e o prazo de tais funções, a extensão do regime de disponibilidade aí previsto a outros profissionais médicos."
+  },
+  "202437399": {
+   "fragment_id": "56926090",
+   "type": 11,
+   "heading": "Artigo 22.º — Unidades de saúde familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Unidades de saúde familiar\n\nOs trabalhadores integrados na carreira médica em exercício efectivo de funções nas unidades de saúde familiar são agrupados autonomamente, para efeitos remuneratórios, em tabela própria, nos termos a prever em decreto regulamentar."
+  },
+  "202437400": {
+   "fragment_id": "56926091",
+   "type": 11,
+   "heading": "Artigo 23.º — Direcção e chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direcção e chefia\n\n1 - Os trabalhadores integrados na carreira médica podem exercer funções de direcção, chefia, ou coordenação de departamentos, serviços ou unidades funcionais do Serviço Nacional de Saúde, desde que sejam titulares das categorias de assistente graduado sénior ou, em casos devidamente fundamentados, de assistente graduado.\n\n2 - Sem prejuízo do disposto em lei especial, e de acordo com a organização interna e conveniência de serviço, o exercício de funções de direcção, chefia, ou coordenação de departamentos, serviços ou unidades funcionais do Serviço Nacional de Saúde é cumprido em comissão de serviço por três anos, renovável por iguais períodos, sendo a respectiva remuneração fixada em diploma próprio.\n\n3 - O exercício das funções referidas nos números anteriores não impede a manutenção da actividade de prestação de cuidados de saúde por parte dos médicos, mas prevalece sobre a mesma."
+  },
+  "202437401": {
+   "fragment_id": "56926092",
+   "type": 11,
+   "heading": "Artigo 24.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Período experimental\n\n1 - O período experimental do contrato por tempo indeterminado tem a duração de 90 dias.\n\n2 - Considera-se cumprido o período experimental a que se refere o número anterior sempre que o contrato por tempo indeterminado tenha sido imediatamente precedido da constituição de um vínculo, nas modalidades de contrato a termo resolutivo incerto ou em comissão de serviço, para o exercício da formação médica especializada, com o mesmo órgão ou serviço."
+  },
+  "202437402": {
+   "fragment_id": "56926093",
+   "type": 11,
+   "heading": "Artigo 25.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Formação profissional\n\n1 - A formação dos trabalhadores integrados na carreira médica assume carácter de continuidade e prossegue objectivos de actualização técnica e científica ou de desenvolvimento de projectos de investigação.\n\n2 - A formação prevista no número anterior deve ser planeada e programada, de modo a incluir informação interdisciplinar e desenvolver competências de organização e gestão de serviços.\n\n3 - A frequência de cursos de formação complementar ou de actualização profissional, com vista ao aperfeiçoamento, diferenciação técnica ou projectos de investigação, pode ser autorizada, mediante licença sem perda de remuneração, por um período não superior a 15 dias úteis por ano, ou nos termos que venham a ser definidos por instrumento de regulamentação colectiva de trabalho.\n\n4 - O membro do Governo responsável pela área da saúde pode atribuir, com faculdade de delegar, a licença prevista nos termos do número anterior, por um período superior a 15 dias úteis, desde que a proposta se encontre devidamente fundamentada e a formação se revista de interesse para os serviços."
+  },
+  "202437403": {
+   "fragment_id": "56926094",
+   "type": 11,
+   "heading": "Artigo 26.º — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Avaliação do desempenho\n\nA avaliação do desempenho relativa aos trabalhadores que integrem a carreira médica rege-se pelo regime da Lei n.º 66-B/2007, de 28 de Dezembro, com as adaptações que, nos termos previstos no n.º 6 do artigo 3.º da mesma lei, sejam introduzidas por instrumento de regulamentação colectiva do trabalho."
+  },
+  "202437404": {
+   "fragment_id": "56926095",
+   "type": 11,
+   "heading": "Artigo 27.º — Instrumentos de regulamentação colectiva do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Instrumentos de regulamentação colectiva do trabalho\n\nAs normas do regime legal da carreira médica podem ser afastadas por instrumento de regulamentação colectiva de trabalho, nos termos da lei."
+  },
+  "202437405": {
+   "fragment_id": "56926102",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma transitória",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — Norma transitória\n\n1 - Os médicos transitam para a carreira especial médica nos termos previstos no artigo 28.º do presente decreto-lei.\n\n2 - Os médicos que não pretendam manter o respectivo regime de horário de trabalho actualmente em vigor podem requerer ao presidente do órgão de administração do estabelecimento onde prestem funções, por escrito, a todo o tempo, com produção automática de efeitos, a transição para o regime previsto no artigo 20.º do presente decreto-lei.\n\n3 - Caso não efectuem a opção prevista no número anterior, os médicos mantêm o respectivo regime de trabalho, remunerações e direitos inerentes, conforme os seguintes regimes de trabalho:\n\na) 35 horas semanais sem dedicação exclusiva;\n\nb) 35 horas semanais, com dedicação exclusiva;\n\nc) 42 horas semanais;\n\nd) 35 horas semanais, sem dedicação exclusiva com disponibilidade permanente;\n\ne) 35 horas semanais, com dedicação exclusiva e disponibilidade permanente.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 266-D/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), em vigor a partir de 2013-01-05, produz efeitos a partir de 2013-01-01"
+  },
+  "56926019": {
+   "fragment_id": "56926108",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Junho de 2009. - Fernando Teixeira dos Santos - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Fernando Medina Maciel Almeida Correia - Francisco Ventura Ramos - Manuel Frederico Tojal de Valsassina Heitor.\n\nPromulgado em 29 de Julho de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 30 de Julho de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "835894597": {
+   "fragment_id": "56926089",
+   "type": 11,
+   "heading": "Artigo 21.º — Saúde pública",
+   "in_force_from": "2023-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Saúde pública\n\n1 - Os trabalhadores que venham a ser recrutados, após a entrada em vigor do presente decreto-lei, para a carreira especial médica têm direito a um suplemento remuneratório quando sujeitos ao regime de disponibilidade permanente no exercício efectivo de funções nos departamentos de saúde pública das administrações regionais de saúde e nas unidades de saúde pública dos agrupamentos de centros de saúde.\n\n2 - Para efeitos do disposto no número anterior, considera-se regime de disponibilidade permanente a obrigatoriedade de apresentação ao serviço sempre que seja solicitado, mesmo que fora do período normal de trabalho.\n\n3 - A verificação do cumprimento do regime previsto no n.º 1 depende da previsão das respectivas atribuições nos respectivos diplomas orgânicos.\n\n4 - O suplemento remuneratório previsto no presente artigo é no montante de (euro) 800, sendo objecto de actualização anual, através de portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde.\n\n5 - Sem prejuízo do disposto nos números anteriores, em casos de situação de emergência, catástrofe ou outras situações excepcionais que o justifiquem, o director-geral da Saúde pode determinar, por despacho do qual constem os nomes dos médicos e o prazo de tais funções, a extensão do regime de disponibilidade aí previsto a outros profissionais médicos.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01"
+  },
+  "835894598": {
+   "fragment_id": "56926085",
+   "type": 11,
+   "heading": "Artigo 17.º — Remunerações",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2023-835864045), em vigor a partir de 2023-12-30, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Remunerações\n\nA identificação dos níveis remuneratórios correspondentes às posições remuneratórias das categorias da carreira especial médica é efectuada em termos a prever em decreto regulamentar.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2023-835864045), em vigor a partir de 2023-12-30, produz efeitos a partir de 2024-01-01"
+  },
+  "835894599": {
+   "fragment_id": "56926086",
+   "type": 11,
+   "heading": "Artigo 18.º — Posições remuneratórias",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2023-835864045), em vigor a partir de 2023-12-30, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Posições remuneratórias\n\n1 - (Revogado.)\n\n2 - A determinação da posição remuneratória na categoria de recrutamento é objecto de negociação, nos termos previstos no artigo 55.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n3 - A alteração da posição remuneratória na categoria faz-se nos termos previstos nos artigos 46.º a 48.º da Lei n.º 12-A/2008, de 27 de Fevereiro, tendo em conta o sistema de avaliação de desempenho dos médicos.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2023-835864045), em vigor a partir de 2023-12-30, produz efeitos a partir de 2024-01-01"
+  }
+ }
+}

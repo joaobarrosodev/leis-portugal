@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:223597477:por
+title: Declaração de Retificação n.º 833/2023
+short_title: null
+summary: Declaração de retificação ao Aviso n.º 19743/2023, de 13 de outubro
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- União das Freguesias de Marmeleira e Assentiz
+proposing_entity: null
+official_number: 833/2023
+official_date: null
+publication_date: '2023-10-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/2023, Série II de 2023-10-31
+  number: '211'
+  series: II
+  supplement: null
+  pages: 901 - 901
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/10/211000000/0090100901.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '223597477'
+  dre_path: /dr/detalhe/declaracao-retificacao/833-2023-223597477
+  internal: pt:dre:223597477:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/833-2023-223597477
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/833-2023-223597477
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-10-31T00:00:00Z'
+integrity:
+  source_sha256: 8a7b5e2822e953ff9dc634a31263027f42f00631f513f978ef0bb0c91ef5c1ef
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-833-223597477.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 833/2023
+
+1 - Nos termos do disposto no artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, na sua redação atual, declara-se que o [Aviso n.º 19743/2023](https://diariodarepublica.pt/dr/detalhe/aviso/19743-2023-222778477), de 13 de outubro, publicado no Diário da República, 2.ª série, n.º 199, de 13 de outubro de 2023, foi publicado com inexatidões, pelo que se procede à respetiva retificação nos termos seguintes:
+
+1.1 - No n.º 5 do aviso (extrato), onde se lê «www.marmeleiraeassentiz.freguesias.pt» deve ler-se «www.uf-marmeleiraeassentiz.pt».
+
+2 - As candidaturas apresentadas após a publicação do [Aviso n.º 19743/2023](https://diariodarepublica.pt/dr/detalhe/aviso/19743-2023-222778477), de 13 de outubro, dentro do prazo estabelecido pelo mesmo, serão consideradas para apreciação pelo júri do procedimento.
+
+3 - Nos termos do artigo 12.º da Portaria n.º 233/2022, de 9 de setembro, estabelece-se o prazo de apresentação de candidaturas de 10 dias úteis, contados da data de publicação da presente declaração de retificação na 2.ª série do Diário da República.
+
+16 de outubro de 2023. - O Presidente da Junta de Freguesia, Francisco Manuel Rodrigues Silvestre.

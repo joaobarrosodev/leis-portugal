@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:1194255:por
+title: Portaria n.º 581/2011
+short_title: null
+summary: Classifica o Mercado de Santana, situado no concelho e distrito de Leiria, o Convento de Nossa Senhora do Carmo de
+  Tentúgal, situado no concelho de Montemor-o-Velho, distrito de Coimbra, e a Igreja de São Bartolomeu, situada no concelho
+  e distrito de Coimbra, como monumentos de interesse público e fixa as respectivas zonas especiais de protecção
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Cultura - Gabinete do Secretário de Estado da Cultura
+proposing_entity: null
+official_number: 581/2011
+official_date: null
+publication_date: '2011-06-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/2011, Série II de 2011-06-14
+  number: '113'
+  series: II
+  supplement: null
+  pages: 25118 - 25120
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/06/113000000/2511825120.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1194255'
+  dre_path: /dr/detalhe/portaria/581-2011-1194255
+  internal: pt:dre:1194255:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/581-2011-1194255
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/581-2011-1194255
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-06-14T00:00:00Z'
+integrity:
+  source_sha256: add698e09e2c53e862a2e294589607eb446d24eb3bb458e4d03d4ab6b723f7d3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-581-1194255.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 581/2011
+
+A presente portaria procede à classificação, como monumentos de interesse público, do Mercado de Santana, no concelho de Leiria, do Convento de Nossa Senhora do Carmo de Tentúgal, no concelho de Montemor-o-Velho, e da Igreja de São Bartolomeu, no concelho de Coimbra.
+
+De acordo com os critérios e os pressupostos de classificação previstos na [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro, que estabelece as bases da política e do regime de protecção e valorização cultural, os bens imóveis possuidores de um relevante interesse cultural, nomeadamente, histórico e arquitectónico, que agora se pretendem classificar, revestem-se de interesse público exigindo a respectiva protecção e valorização, atendendo ao valor patrimonial e cultural de significado para o País, reflectindo valores de memória.
+
+Assim, tendo em conta a necessidade de assegurar medidas especiais sobre o património cultural nacional, no quadro da obrigação do Estado de proteger e valorizar esse mesmo património cultural, o Governo entende que os bens a classificar através desta portaria devem ser objecto de especial protecção.
+
+O edifício do Mercado de Santana de Leiria, construído entre 1924 e 1931 e cujo projecto (1919) é do arquitecto Ernesto Korrodi, reveste-se ainda hoje de singular importância, quer pelas características arquitectónicas que apresenta, quer pelo seu papel na definição da área urbana desta zona.
+
+A construção do Convento de Nossa Senhora do Carmo de Tentúgal, também designado por Convento de Nossa Senhora da Natividade ou das Madres do Carmo, foi iniciada na segunda metade do século xvi (em 1560 ou 1565), restando hoje, do vasto complexo conventual, apenas a igreja e os coros (alto e baixo), a portaria e algumas dependências, formando um L, numa cuidada concepção arquitectónica e desenho harmonioso, bem como partes da cerca e da «cerquinha».
+
+A Igreja de São Bartolomeu fica situada na Praça do Comércio, em Coimbra, mais conhecida por Praça Velha, e que, outrora, foi também designada por Praça de São Bartolomeu, ou, simplesmente, por Praça, justificando a sua classificação pela sua importância e representatividade na cidade, relacionada com o facto de ser o centro do arrabalde da urbe, onde se efectuavam as trocas comerciais.
+
+Foram cumpridos os procedimentos de audição de todos os interessados previstos no artigo 27.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro, bem como nos artigos 100.º e seguintes do Código do Procedimento Administrativo e efectuadas as consultas públicas previstas no [Decreto-Lei n.º 181/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1970-225986), de 28 de Abril.
+
+Assim:
+
+Ao abrigo do disposto no n.º 5 do artigo 15.º, no artigo 18.º, no n.º 2 do artigo 28.º e no n.º 2 do artigo 43.º, todos da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro, e ainda no n.º 16 do artigo 3.º do [Decreto-Lei n.º 321/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2009-482658), de 11 de Dezembro, e no uso das competências delegadas pela Ministra da Cultura, através do despacho n.º 431/2010, publicado no Diário da República, 2.ª série, n.º 4, de 7 de Janeiro de 2010, manda o Governo, pelo Secretário de Estado da Cultura, o seguinte:
+
+###### Artigo 1.º — Classificação
+
+São classificados como monumento de interesse público (MIP) os bens imóveis a seguir identificados:
+
+a) O Mercado de Santana, sito no Largo de Santana, freguesia, concelho e distrito de Leiria, cuja fundamentação para a classificação consta do anexo i à presente portaria, da qual faz parte integrante;
+
+b) O Convento de Nossa Senhora do Carmo de Tentúgal ou Convento de Nossa Senhora da Natividade, sito na Praça do Rossio, freguesia de Tentúgal, concelho de Montemor-o-Velho, distrito de Coimbra, cuja fundamentação para a classificação consta do anexo ii à presente portaria, da qual faz parte integrante;
+
+c) A Igreja de São Bartolomeu, incluindo todo o seu património integrado, sita na Praça do Comércio, também designada Praça Velha, freguesia de São Bartolomeu, concelho e distrito de Coimbra, cuja fundamentação para a classificação consta do anexo iii à presente portaria, da qual faz parte integrante.
+
+###### Artigo 2.º — Zona especial de protecção
+
+a) É fixada a zona especial de protecção (ZEP) do Mercado de Santana, identificado na alínea a) do artigo anterior, conforme planta de delimitação constante do anexo iv à presente portaria, da qual faz parte integrante.
+
+b) É fixada a zona especial de protecção (ZEP) do Convento de Nossa Senhora do Carmo de Tentúgal, identificado na alínea b) do artigo anterior, conforme planta de delimitação constante do anexo v à presente portaria, da qual faz parte integrante.
+
+c) É fixada a zona especial de protecção (ZEP) da Igreja de São Bartolomeu, identificado na alínea c) do artigo anterior, conforme planta de delimitação constante do anexo vi à presente portaria, da qual faz parte integrante.
+
+2 de Junho de 2011. - O Secretário de Estado da Cultura, Elísio Costa Santos Summavielle.
+
+## ANEXO I
+
+O edifício do Mercado de Santana de Leiria, construído entre 1924 e 1931 e cujo projecto (1919) é do arquitecto Ernesto Korrodi, reveste-se ainda hoje de singular importância, quer pelas características arquitectónicas que apresenta, quer pelo seu papel na definição da área urbana desta zona.
+
+Efectivamente, quando foi erguido, originou a urbanização de um novo bairro, ainda hoje conhecido por Sant'Ana, na área do extinto convento do mesmo nome, próximo do Rossio, contribuindo como tal, a par com outras obras do mesmo arquitecto que dão conta da sua intensa actividade em Leiria, para uma nova imagem da cidade.
+
+Trata-se de um imóvel deveras interessante, com uma série de lojas de arcadas abertas para o exterior e com uma zona descoberta sob armações de ferro.
+
+A zona especial de protecção definida cruza-se com outras já existentes, nomeadamente a do Castelo de Leiria e da Capela de S. Pedro, estabelecendo uma protecção eficaz que se prolonga a nordeste até ao rio Liz, englobando a Praça Goa, Damão e Diu, visto que, muito embora se trate de uma área que agora se encontra qualificada, em qualquer momento pode vir a ser marcada por uma profusão indesejável de equipamentos e carecer de tratamento urbano adequado.
+
+Teve também em atenção o contexto espacial e os «pontos de vista»/eixos visuais, que constituem a bacia visual em que se integra o imóvel, sendo que a relação urbana do edifício com a envolvente se encontra agora devidamente salvaguardada, considerando a «dimensão imaterial» associada aos novos eixos urbanos criados e directamente dependentes da construção deste edifício, virado para a cidade e para a sua vivência.
+
+## ANEXO II
+
+A construção do Convento de Nossa Senhora do Carmo de Tentúgal, também designado por Convento de Nossa Senhora da Natividade ou das Madres do Carmo, foi iniciada por instâncias do então senhor da vila de Tentúgal, D. Francisco de Melo, na segunda metade do século xvi (em 1560 ou 1565), com a colaboração pecuniária da confraria de S. Pedro e S. Domingos de Tentúgal.
+
+As primeiras carmelitas calçadas vieram do convento da Esperança de Beja e deram entrada na casa, que possuía uma função de carácter social de grande importância, em Setembro de 1572.
+
+As obras do mosteiro foram orientadas entre 1584 e 1588 pelo mestre Tomé Velho, arquitecto e escultor, mas o edifício conventual, de gramática maneirista, é já obra do século xvii, com início em 1614 e término provável em 1693.
+
+Do vasto complexo conventual hoje apenas resta a igreja e os coros (alto e baixo), a portaria e algumas dependências, formando um L, numa cuidada concepção arquitectónica e desenho harmonioso, bem como partes da cerca e da «cerquinha». Em frente, fica o edifício do hospital da confraria e da hospedaria.
+
+Destaca-se, em termos artísticos, o interior do templo. Revestido por um alizar de azulejos setecentista na parede norte, onde se localiza um púlpito de pedra policromada, possui cobertura abobadada em quartelas de pedra e arco cruzeiro em cantaria com decoração classicizante de fino lavor. A capela-mor apresenta abóbada de caixotões, com retábulo eucarístico, de trono, e tem lateralmente as esculturas de Santo Elias e Santo Eliseu; os colaterais, dedicados a Nossa Senhora do Carmo e à Crucificação, são em madeira, de duas colunas com decoração marmoreada e ornatos concheados, próprios do rocócó coimbrão do século xviii. O coro-alto contém um cadeiral simples, seiscentista, e o coro-baixo é separado da igreja por uma grade de ferro dupla.
+
+Bastante espoliado durante as invasões francesas, o convento foi extinto pela lei anti-congreganista de 1834, sendo que, tendo falecido em 1898 a última freira, este integrou a Fazenda Pública.
+
+A zona especial de protecção definida teve em consideração outras zonas de protecção já existentes, a qualidade, genuinidade e pitoresco dos conjuntos arquitectónicos da envolvente próxima, a existência de morfologias ou detalhes relevantes e ainda a paisagem natural, estabelecendo uma protecção eficaz, quer no edificado urbano, quer na área paisagística, constituída por espaços vazios.
+
+## ANEXO III
+
+A Igreja de São Bartolomeu fica situada na Praça do Comércio, em Coimbra, mais conhecida por Praça Velha, e que, outrora, foi também designada por Praça de São Bartolomeu, ou, simplesmente, por Praça.
+
+Efectivamente, a sua importância e representatividade na cidade, relacionada com o facto de ser o centro do arrabalde da urbe, onde se efectuavam as trocas comerciais, enquanto que, nas ruas adjacentes, ainda hoje designadas pelos diferentes mesteres que aí tinham assento, os artesãos exerciam as suas actividades, justificam estes diferentes topónimos.
+
+Na Praça Velha, onde, ao longo dos tempos, se fizeram peças teatrais e cerimónias fúnebres da quebra dos escudos, corridas de touros, autos de fé inquisitoriais, ficava ainda o cartório público dos tabeliães, a casa da câmara, os açougues do povo, o pelourinho, o hospital real e duas importantes igrejas, a Igreja de Santiago e esta Igreja de São Bartolomeu.
+
+Este templo ergue-se no topo do lado sul da praça, para a qual se vira, sendo delimitado pelos Adro de Cima e Adro de Baixo, e pela Rua dos Esteireiros. Trata-se de uma das mais antigas igrejas da cidade de Coimbra, da qual já havia notícia em 957, ano em que foi doada ao Mosteiro do Lorvão, sendo que este primeiro templo foi certamente arrasado nas invasões de Almançor, e posteriormente reconstruído em 1109. A igreja românica, que não tinha entrada para o lado da praça, mas para poente, teve que ser demolida no século xviii visto que ameaçava ruir. As obras do actual templo, onde intervieram artistas de renome, como o arquitecto Manuel Alves de Macomboa, em colaboração com Eusébio Vicente Valido, o pintor Pasquale Parente e o entalhador João Ferreira Quaresma, iniciaram-se a 16 de Julho de 1756.
+
+A Igreja apresenta uma planta simples, de nave única rectangular e capela-mor, de menores dimensões, com sacristia, do lado da epístola, e uma pequena capela que dá para a rua, com um dos passos da Paixão, o da Verónica, do lado do evangelho. A fachada principal, muito sóbria, está enquadrada por duas torres terminadas de forma bolbosa, com terraço central resguardado de balaústres, e apresenta um portal de vão de arco abatido, ladeado por colunas salientes, sobre o qual assenta uma varanda de balaústres, com janela de sacada de frontão triangular, sobrepujado de um grande óculo oval. A frontaria é delimitada por um gradeamento baixo.
+
+No interior, salientam-se os retábulos de talha dourada, barrocos, em especial o da capela-mor, da segunda metade do século xviii, que inclui uma grande tela alusiva ao martírio de São Bartolomeu, da autoria do pintor italiano Pasquale Parente. Os retábulos colaterais ao arco cruzeiro, em asa de cesto, são do mesmo estilo e época, dourados e marmoreados.
+
+Destacam-se ainda, no corpo da Igreja, outros retábulos de capelas, dos finais do século xvi e xvii, estatuária, duas telas também de Pasquale Parente, hoje emolduradas em quadros, os dois púlpitos, sobre mísulas de pedra, com bacias de madeira simples e sobre-portas de concheado, e, à entrada, sob as torres, um átrio com um coro superior, resguardado por balaústres de secção triangular de pedra, com um pequeno órgão, de caixa simples, ao centro.
+
+A zona especial de protecção definida cruza-se com as já existentes da Igreja de Santiago, da Cerca de Coimbra (Arcos e Torres de Almedina) e do Paço de Sub-Ripas, Torre do Anto e Misericórdia de Coimbra, visto que, pelo facto de esta praça formar uma unidade indivisa, não fazia sentido o corte existente no edificado, que excluía zonas características da baixa coimbrã ou baixinha, agora integradas, e de forma a estabelecer uma protecção eficaz à Igreja de São Bartolomeu, pelas fortes relações urbanas que apresenta com a Praça Velha. Teve também em atenção o contexto espacial e os «pontos de vista»/eixos visuais, sendo que a relação urbana do templo com a envolvente se encontra agora devidamente preservada.
+
+## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/06/113000000/2511825120.pdf))](https://files.diariodarepublica.pt/2s/2011/06/113000000/2511825120.pdf)
+
+## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/06/113000000/2511825120.pdf))](https://files.diariodarepublica.pt/2s/2011/06/113000000/2511825120.pdf)
+
+## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/2s/2011/06/113000000/2511825120.pdf))](https://files.diariodarepublica.pt/2s/2011/06/113000000/2511825120.pdf)

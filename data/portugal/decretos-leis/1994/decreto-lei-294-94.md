@@ -1,0 +1,693 @@
+---
+schema_version: '1.0'
+id: pt:dre:534587:por
+title: Decreto-Lei n.º 294/94
+short_title: null
+summary: Estabelece o regime jurídico da concessão de exploração e gestão dos sistemas multimunicipais de tratamento de resíduos
+  sólidos urbanos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 294/94
+official_date: null
+publication_date: '1994-11-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 265/1994, Série I-A de 1994-11-16
+  number: '265'
+  series: I
+  supplement: null
+  pages: 6850 - 6856
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/11/265a00/68506856.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2010-01-01'
+version_history:
+  file: decreto-lei-294-94.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1994-11-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-09-21'
+    amending: pt:dre:500059:por
+    amending_title: Decreto-Lei n.º 221/2003
+    changes:
+    - Adita Artigo 6.º
+  - date: '2010-01-01'
+    amending: pt:dre:488136:por
+    amending_title: Decreto-Lei n.º 195/2009
+    changes:
+    - Altera Artigo 6.º
+    - Altera Base II
+    - Altera Base IV
+    - Altera Base VIII
+    - Altera Base X
+    - Altera Base XIII
+    - Altera Base XIV
+    - Altera Base XV
+    - Altera Base XVI
+    - Altera Base XX
+    - Altera Base XXIII
+    - Altera Base XXVI
+    - Altera Base XXVIII
+    - Altera Base XXXVI
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/294/1994/p/cons/20090820/pt/html
+  oj: null
+  dre: '534587'
+  dre_path: /dr/detalhe/decreto-lei/294-1994-534587
+  internal: pt:dre:534587:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587
+  metadata_url: https://data.dre.pt/eli/dec-lei/294/1994/p/cons/20090820/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-34528075
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-34528075
+  retrieved_at: '2026-10-22T11:49:32Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 274797fcc3489ce7db6068c3e24c6b596543cb15c02aee3edbf04867de30516c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:49:32Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-294-94.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestão de Resíduos
+- Contrato de Concessão
+- Empresa Pública
+- Tratamento de Resíduos
+- Serviço Público
+- Regime Jurídico
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:500059:por
+  label: Adita Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2003-500059
+  date: '2003-09-20'
+- type: amended_by
+  target: pt:dre:488136:por
+  label: Altera Artigo 6.º; Altera Base II; Altera Base IV; Altera Base VIII; Altera Base X; Altera Base XIII; Altera Base
+    XIV; Altera Base XV; Altera Base XVI; Altera Base XX; Altera Base XXIII; Altera Base XXVI; Altera Base XXVIII; Altera
+    Base XXXVI
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136
+  date: '2009-08-20'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/372/1993/10/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/372/1993/10/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+article_structure:
+  article_count: 44
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:49:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 294/94
+
+Na sequência da alteração da lei de delimitação de sectores, que abriu a possibilidade de participação de capitais privados, sob a forma de concessão, nas actividades de recolha e tratamento de resíduos sólidos e da consagração dos princípios legais da gestão e exploração de sistemas que tenham por objecto aquelas actividades, cumpre agora definir o quadro legal concretizador das opções legislativas subjacentes aos diplomas anteriores.
+
+O Decreto-Lei n.º 379/93, de 5 de Novembro, estruturou as actividades em causa com base na distinção entre sistemas multimunicipais e sistemas municipais. Os primeiros, de importância estratégica, são os que abrangem a área de pelo menos dois municípios e exigem um investimento predominante do Estado. Os segundos, são todos os demais, incluindo os sistemas geridos através de associações de municípios.
+
+A gestão e exploração dos sistemas municipais foram em parte desenvolvidas naquele decreto-lei. Relativamente aos sistemas multimunicipais, o mesmo diploma, além da consagração de alguns princípios comuns aos sistemas municipais, apenas previu as modalidades de gestão (directa ou indirecta) e o modo de criação.
+
+No presente decreto-lei consagra-se um quadro legal de carácter geral, contendo os princípios informadores do regime jurídico de construção, exploração e gestão dos sistemas multimunicipais de tratamento de resíduos sólidos urbanos quando atribuídos por concessão a empresa pública ou a sociedade de capitais exclusiva ou maioritariamente públicos, por se entender que esta é a actividade que, pela importância que assume face às necessidades do País, reclama desde já um enquadramento legal pormenorizado.
+
+As actividades de exploração e gestão dos sistemas multimunicipais de tratamento de resíduos sólidos urbanos gerados nas áreas dos municípios utilizadores têm a natureza de serviço público e são exercidas em regime de exclusivo com base num contrato de concessão celebrado entre o Estado e a empresa concessionária. A articulação entre cada sistema multimunicipal e os sistemas abrangidos pela respectiva área é assegurada através de contratos a celebrar entre a concessionária e cada um dos municípios utilizadores, sem prejuízo de estes poderem transmitir a respectiva posição contratual aos concessionários dos seus sistemas de recolha e transporte de resíduos sólidos urbanos.
+
+Ainda no tocante às relações com os municípios utilizadores, consagra-se, por um lado, a obrigação de as concessionárias dos sistemas multimunicipais assegurarem o processamento de todos os resíduos sólidos urbanos gerados nas áreas dos municípios utilizadores que lhes forem entregues pelos respectivos serviços e de estabelecerem com cada um daqueles municípios os acordos necessários à promoção da sua recolha selectiva e do seu adequado processamento. Por outro lado, os municípios têm garantida uma adequação dos sistemas multimunicipais às suas reais necessidades, sob os aspectos quantitativos e qualitativos, e em conformidade com as normas nacionais e comunitárias aplicáveis.
+
+No objecto da concessão inclui-se, além da exploração e gestão de um sistema multimunicipal de tratamento de resíduos urbanos sólidos, a concepção e construção de todas as instalações necessárias à realização daquelas actividades, incluindo, nomeadamente, a construção de centrais de processamento, triagem e valorização, de aterros sanitários complementares e de estações de transferência, respectivos acessos e extensão e, bem assim, a respectiva reparação, extensão e renovação, de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis. A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários à realização daquelas actividades incluem-se igualmente no objecto da concessão. Para melhor garantir a eficácia na prossecução deste objecto e permitir um melhor acompanhamento do equilíbrio financeiro da concessão determina-se que o mesmo seja exclusivo no sentido de a concessionária não poder exercer outras actividades diferentes daquelas que o integram, salvo as que sejam acessórias ou complementares e devidamente autorizadas pelo concedente.
+
+A propriedade dos bens afectos à concessão pertence, em princípio, à concessionária, revertendo para o Estado no termo da concessão sem qualquer indemnização e livres de quaisquer ónus ou encargos. Exceptuam-se os bens afectos à concessão que pertencessem, antes da respectiva afectação, ao Estado, aos municípios utilizadores ou a associação em que estes se integrem. Os primeiros representam uma forma de financiamento da concessionária, enquanto, relativamente aos demais, é assegurada a sua devolução aos municípios ou às associações de municípios quando se tornar desnecessária a sua utilização. No entanto, e para assegurar a permanente actualização do sistema multimunicipal, a concessionária terá direito, no termo da concessão, a uma indemnização calculada em função do valor líquido de amortizações dos bens que resultarem de novos investimentos de expansão ou de diversificação aprovados ou impostos pelo Estado.
+
+Estão, deste modo, criadas as condições para a instituição dos sistemas multimunicipais de tratamento de resíduos sólidos urbanos e para a atribuição das respectivas concessões de exploração e gestão. Sublinhe-se que o presente diploma é propositadamente exaustivo no que se refere às cautelas a assegurar para defesa de todos os interesses em causa e sustentação económica da concessão, de modo a reflectir princípios que devem guiar a implantação e funcionamento, não só deste tipo de concessões mas também das relativas a sistemas municipais. O passo seguinte é a concretização deste quadro legal em relação a cada um dos sistemas multimunicipais através da sua criação, da constituição das empresas às quais será atribuída a concessão, da atribuição da concessão e da celebração dos contratos de concessão e de entrega de resíduos sólidos urbanos com o Estado e os municípios utilizadores, respectivamente.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma consagra o regime jurídico da concessão da exploração e gestão dos sistemas multimunicipais de tratamento de resíduos sólidos urbanos.
+
+2 - A exploração e gestão referidas no número anterior abrangem a concepção, a construção, a aquisição, a extensão, a reparação, a renovação, a manutenção de obras e equipamentos e respectiva melhoria.
+
+###### Artigo 2.º — Serviço público
+
+1 - A exploração e gestão dos sistemas multimunicipais de tratamento dos resíduos sólidos urbanos gerados nas áreas dos municípios utilizadores consubstanciam um serviço público a exercer em regime de exclusivo.
+
+2 - É objectivo fundamental da exploração e gestão dos sistemas multimunicipais de tratamento de resíduos sólidos urbanos contribuir para o saneamento público e para o bem-estar das populações, assegurando, nomeadamente:
+
+a) O tratamento de resíduos sólidos urbanos adequado, nos termos do contrato de concessão, às reais necessidades dos municípios utilizadores sob os aspectos quantitativos e qualitativos e em conformidade com as normas nacionais e comunitárias aplicáveis;
+
+b) A promoção das acções necessárias a uma correcta política de gestão de resíduos sólidos urbanos, nomeadamente no que respeita à sua redução e valorização;
+
+c) O controlo dos custos através da racionalidade e eficácia dos meios utilizados nas suas diversas fases.
+
+3 - Fora do âmbito do serviço público referido no n.º 1, o tratamento de resíduos sólidos urbanos obedece à legislação geral aplicável.
+
+###### Artigo 3.º — Natureza do acto de concessão
+
+A concessão da exploração e gestão dos sistemas multimunicipais de tratamento de resíduos sólidos urbanos opera-se por contrato administrativo a celebrar entre o Estado, representado pelo Ministro do Ambiente e Recursos Naturais, e uma empresa pública ou uma sociedade de capitais exclusiva ou maioritariamente públicos, nos termos das bases anexas ao presente diploma e que dele fazem parte integrante.
+
+###### Artigo 4.º — Disposições aplicáveis
+
+As concessões a que o presente diploma se refere reger-se-ão por este, pelo artigo 4.º da Lei n.º 46/77, de 8 de Julho, com a redacção dada pelo Decreto-Lei n.º 372/93, de 29 de Outubro, pelas disposições aplicáveis do Decreto-Lei n.º 379/93, de 5 de Novembro, e pelos respectivos contratos.
+
+###### Artigo 5.º — Relações entre a concessionária e os municípios utilizadores
+
+1 - Os municípios utilizadores devem articular os seus sistemas de recolha e transporte de resíduos sólidos urbanos com o sistema multimunicipal explorado e gerido pela concessionária de modo que todos os resíduos sólidos urbanos gerados nas suas áreas sejam entregues à concessionária.
+
+2 - A necessidade de articulação prevista no número anterior cessa quando razões ponderosas de interesse público, reconhecidas por despacho do Ministro do Ambiente e Recursos Naturais, o justifiquem.
+
+3 - A concessionária obriga-se a processar todos os resíduos sólidos urbanos gerados nas áreas dos municípios utilizadores e a estabelecer com cada um dos municípios os acordos necessários à promoção da sua recolha selectiva e do seu adequado processamento.
+
+4 - A articulação entre os sistemas municipais de recolha e transporte de resíduos sólidos urbanos e o correspondente sistema multimunicipal explorado e gerido pela concessionária será assegurada através de contratos a celebrar entre a concessionária e cada um dos municípios.
+
+###### Artigo 6.º — Gestão dos sistemas multimunicipais de tratamento de resíduos sólidos
+
+1 - A criação de sistemas multimunicipais de tratamento de resíduos sólidos tem por objectivo garantir a qualidade e continuidade dos serviços públicos de recolha e tratamento de resíduos sólidos.
+
+2 - As entidades gestoras de sistemas multimunicipais de tratamento de resíduos sólidos ficam incumbidas, essencialmente, da realização das seguintes missões de interesse público:
+
+a) Assegurar, nos termos aprovados pelo Ministro das Cidades, Ordenamento do Território e Ambiente, de forma regular, contínua e eficiente, a recolha e tratamento de resíduos sólidos;
+
+b) Promover a concepção e assegurar a construção e exploração, nos termos dos projectos aprovados pelo Ministro das Cidades, Ordenamento do Território e Ambiente, das infra-estruturas, instalações e equipamentos necessários à recolha e tratamento de resíduos sólidos;
+
+c) Assegurar a reparação e renovação das infra-estruturas e instalações referidas na alínea anterior, de acordo com a evolução das exigências técnicas e no respeito pelos parâmetros sanitários aplicáveis.
+
+3 - Tendo em vista a prossecução das missões de interesse público enunciadas no número anterior, pode o Governo, mediante decreto-lei, atribuir direitos especiais ou exclusivos às entidades incumbidas da exploração e gestão dos sistemas multimunicipais de tratamento de resíduos sólidos.
+
+4 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 3.º do Decreto-Lei n.º 379/93, de 5 de Novembro, sempre que os municípios utilizadores de um sistema multimunicipal de tratamento de resíduos sólidos, ou uma associação de municípios representativa dos municípios utilizadores de um sistema multimunicipal de tratamento de resíduos sólidos, decidam concessionar os serviços «em baixa», de recolha de resíduos sólidos, considerando-se como serviços «em baixa», àqueles cujos utilizadores finais sejam os consumidores individuais, devem para tanto seguir um procedimento de contratação pública, nos termos dos artigos 10.º e 11.º do Decreto-Lei n.º 379/93, de 5 de Novembro.
+
+5 - Na medida em que seja necessária uma articulação com as infra-estruturas que as entidades gestoras de sistemas multimunicipais de tratamento de resíduos sólidos detêm, gerem ou exploram, tais entidades devem criar condições de acesso equivalente e não discriminatório a essas mesmas infra-estruturas aos adjudicatários do procedimento de contratação pública referido no número anterior.
+
+6 - As entidades gestoras dos sistemas multimunicipais de tratamento de resíduos sólidos podem, desde que autorizadas pelo Ministro das Cidades, Ordenamento do Território e Ambiente, participar nos procedimentos mencionados no n.º 4.
+
+7 - A participação de entidades privadas, em posição obrigatoriamente minoritária, no capital social de entidades gestoras de sistemas multimunicipais de tratamento de resíduos sólidos será precedida de procedimentos compatíveis com os princípios gerais do direito comunitário.
+
+8 - As entidades gestoras de sistemas multimunicipais de tratamento de resíduos sólidos têm por objecto principal a exploração e gestão de sistemas multimunicipais.
+
+9 - As entidades gestoras de sistemas multimunicipais de tratamento de resíduos sólidos poderão, desde que para o efeito estejam habilitadas, exercer outras actividades para além da referida no número anterior, desde que consideradas acessórias ou complementares e devidamente autorizadas pelo Ministro das Cidades, Ordenamento do Território e Ambiente, e, em qualquer caso, desde que a exploração e gestão de sistemas multimunicipais se mantenha como a sua actividade essencial e com contabilidade própria e autónoma.
+
+10 - O Ministro das Cidades, Ordenamento do Território e Ambiente tem, relativamente às entidades gestoras de sistemas multimunicipais de tratamento de resíduos sólidos, poderes de fiscalização, direcção, autorização, aprovação e suspensão de actos das mesmas, podendo, para o efeito, dar directrizes vinculantes às administrações dessas entidades gestoras e definir as modalidades de verificação do cumprimento das directrizes emitidas.
+
+11 - Carecem, em especial, de aprovação do Ministro das Cidades, Ordenamento do Território e Ambiente:
+
+a) Os orçamentos de exploração, de investimento e financeiros, devidamente certificados por auditor aceite pelo concedente;
+
+b) (Revogada).
+
+c) As tarifas cobradas pelas entidades gestoras de sistemas multimunicipais de tratamento de resíduos sólidos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/2003 - Diário da República n.º 218/2003, Série I-A de 2003-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2003-500059), em vigor a partir de 2003-09-21
+
+Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
+
+Promulgado em 31 de Outubro de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 3 de Novembro de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## Anexo — Bases do contrato de concessão da exploração e gestão dos sistemas municipais de tratamento de resíduos sólidos urbanos
+
+### I — Disposições e princípios gerais
+
+###### Base I — Conteúdo
+
+A concessão do serviço público em regime de exclusivo tem por conteúdo a concepção, a construção, a exploração e a gestão de um sistema multimunicipal de tratamento de resíduos sólidos urbanos.
+
+###### Base II — Objecto da concessão
+
+1 - A actividade da concessão compreende o processamento dos resíduos sólidos urbanos, ou a tal equiparados nos termos da lei, gerados nas áreas dos municípios utilizadores e entregues por quem deva proceder à sua recolha, incluindo a sua valorização energética ou a sua reciclagem em termos economicamente viáveis, e a disponibilização de subprodutos.
+
+2 - O objecto da concessão compreende:
+
+a) A concepção e construção de todas as instalações necessárias ao tratamento de resíduos sólidos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, triagem e valorização, a construção de aterros sanitários complementares e de estações de transferência, respectivos acessos e extensão, a reparação e a renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
+
+b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos sólidos que deva receber.
+
+3 - A concessionária pode exercer outras actividades para além daquelas que constituem o objecto da concessão desde que autorizadas pelo concedente, nos termos previstos nos n.os 8 e 9 do artigo 6.º do Decreto-Lei n.º 294/94, de 16 de Novembro, aditado pelo Decreto-Lei n.º 221/2003, de 20 de Setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base III — Regime da concessão
+
+1 - A concessionária do serviço público de exploração e gestão do sistema multimunicipal de recolha e tratamento de resíduos sólidos urbanos obriga-se a assegurar o regular, contínuo e eficiente tratamento dos resíduos sólidos urbanos gerados nas áreas dos municípios utilizadores.
+
+2 - Para efeitos das presentes bases, são utilizadores os municípios servidos pelo respectivo sistema multimunicipal.
+
+3 - Com o objectivo de assegurar a permanente adequação da concessão às exigências de política ambiental e à regularidade e continuidade do serviço público, o concedente pode alterar as condições da sua exploração, nos termos da lei e das presentes bases.
+
+4 - Quando, por efeito do disposto no número anterior, se alterarem significativamente as condições de exploração, o concedente compromete-se a promover a reposição do equilíbrio económico-financeiro do contrato.
+
+5 - A reposição referida no número anterior poderá efectuar-se, consoante opção do concedente, ouvido o concessionário, mediante a revisão das tarifas, de acordo com os critérios mencionados na base XIII, ou pela prorrogação do prazo da concessão, ou ainda por compensação directa à concessionária.
+
+6 - Para o efeito do disposto nos números anteriores, são ainda consideradas as receitas que advenham ou possam advir dos processos de tratamento e valorização dos recursos sólidos urbanos, nomeadamente da produção de energia ou da venda de produtos resultantes.
+
+###### Base IV — Prazo
+
+1 - O contrato de concessão da gestão dos serviços de titularidade estatal tem uma duração máxima de 50 anos, incluindo eventuais prorrogações, a contar da data da sua celebração.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base V — Princípios aplicáveis às relações com os utilizadores
+
+1 - A concessionária é obrigada, mediante contrato, a assegurar aos utilizadores o tratamento dos resíduos sólidos urbanos gerados nas suas áreas, devendo proceder, relativamente aos utilizadores, sem discriminações ou diferenças que não resultem apenas da aplicação de critérios ou condicionalismos legais ou regulamentares ou, ainda, de diversidade manifesta das condições técnicas de entrega e dos correspondentes custos.
+
+2 - Os municípios utilizadores são obrigados a entregar à concessionária todos os resíduos sólidos urbanos gerados nas suas respectivas áreas.
+
+3 - A obrigação consagrada no número anterior cessa quando razões ponderosas de interesse público, reconhecidas por despacho do Ministro do Ambiente e Recursos Naturais, o justifiquem.
+
+## II — Dos bens e meios afectos à concessação
+
+###### Base VI — Estabelecimento da concessão
+
+1 - Integram o estabelecimento da concessão:
+
+a) As infra-estruturas relativas à exploração, designadamente as estações de transferência, centrais de processamento, triagem e valorização e os respectivos acessos, as infra-estruturas associadas, os aterros sanitários complementares e os meios de transporte de resíduos;
+
+b) Os equipamentos necessários à operação das infra-estruturas e ao controlo de qualidade sanitária do tratamento;
+
+c) Todas as obras, máquinas e aparelhagem e respectivos acessórios utilizados para a recepção e tratamento dos resíduos e para a manutenção dos equipamentos e gestão do sistema multimunicipal não referidos nas alíneas anteriores.
+
+2 - As infra-estruturas consideram-se integradas na concessão, para todos os efeitos legais, desde a aprovação dos projectos de construção.
+
+###### Base VII — Bens e outros meios afectos à concessão
+
+1 - Consideram-se afectos à concessão, além dos bens que integram o seu estabelecimento, os imóveis adquiridos por via do direito privado ou mediante expropriação para implantação das infra-estruturas.
+
+2 - Consideram-se também afectos à concessão os direitos privativos de propriedade intelectual e industrial de que a concessionária seja titular.
+
+3 - Consideram-se ainda afectos à concessão, desde que directamente relacionados com a actividade objecto de cada contrato ou complementares da mesma, nos termos do n.º 3 da base II:
+
+a) Quaisquer fundos ou reservas consignados à garantia do cumprimento de obrigações da concessionária;
+
+b) A totalidade das relações jurídicas que se encontrem em cada momento conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de empreitada, de locação e de prestação de serviços.
+
+###### Base VIII — Propriedade dos bens afectos à concessão
+
+1 - Enquanto durar a concessão e sem prejuízo do disposto na base seguinte, a concessionária detém a propriedade dos bens afectos à concessão que não pertençam ao Estado e aos municípios.
+
+2 - No termo da concessão, os bens a que se refere o número anterior transferem-se de acordo com o previsto no artigo 4.º do Decreto-Lei n.º 379/93, de 5 de Novembro, com as alterações introduzidas pela Lei n.º 176/99, de 25 de Outubro, e pelos Decretos-Leis n.os 439-A/99, de 29 de Outubro, 14/2002, de 26 de Janeiro, 103/2003, de 23 de Maio, e 195/2009, de 20 de Agosto.
+
+3 - (Revogado).
+
+4 - (Revogado)..
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base IX — Infra-estruturas pertencentes aos municípios ou a associações de municípios
+
+1 - Os aterros sanitários ou outras infra-estruturas relacionadas com o tratamento ou recolha de resíduos sólidos urbanos pertencentes aos municípios utilizadores ou a associações de municípios de que todos ou alguns destes façam parte poderão ser pelos mesmos cedidos à concessionária, a título gratuito ou oneroso, para exploração da concessão.
+
+2 - Em qualquer caso, tornando-se desnecessária a utilização pela concessionária das infra-estruturas referidas no número anterior estas serão devolvidas aos municípios cedentes nas condições inicialmente acordadas.
+
+###### Base X — Inventário e relatório técnico
+
+1 - A concessionária deve elaborar e manter actualizado um inventário dos bens afectos à concessão.
+
+2 - O inventário previsto no número anterior comporta os seguintes elementos relativos a cada bem:
+
+a) A identificação do proprietário, quando diferente da concessionária;
+
+b) A data de entrada em exploração e de afectação à concessionária, quando aplicável;
+
+c) A identificação fiscal e contabilística;
+
+d) O valor contabilístico bruto e líquido e respectiva taxa de amortização, quando aplicável;
+
+e) A menção dos ónus ou encargos que sobre ele recaem.
+
+3 - Sem prejuízo dos poderes do concedente e da entidade reguladora em sede de supervisão e fiscalização, a concessionária deve enviar ao concedente e à entidade reguladora o inventário previsto na presente base, três anos após a outorga do contrato de concessão, no ano de conclusão do investimento inicial e três anos antes do termo da concessão.
+
+4 - A concessionária deve enviar ao concedente e à entidade reguladora, com periodicidade quinquenal, um relatório técnico referente à aptidão funcional, segurança, estado de conservação das principais infra-estruturas e equipamentos necessários à prestação sustentável dos serviços evidenciando as prioridades de reabilitação ou substituição e sua respectiva calendarização.
+
+5 - Para além dos elementos referidos no número anterior, o relatório aí mencionado deve ainda conter as informações descritas no n.º 2.
+
+6 - Os documentos a enviar ao concedente e à entidade reguladora, nos termos dos n.os 3 e 4, são objecto de certificação por auditor independente, o qual não pode certificar mais de dois documentos consecutivos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base XI — Manutenção dos bens e meios afectos à concessão
+
+1 - A concessionária obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens e meios afectos à concessão durante o prazo da sua vigência, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço público.
+
+2 - Para ocorrer a encargos correspondentes a esta obrigação, a concessionária, após o início de exploração do serviço concedido, procederá à constituição de um fundo de renovação a regular no contrato de concessão.
+
+## III — Condições financeiras
+
+###### Base XII — Financiamento
+
+1 - A concessionária adoptará e executará, tanto na construção das infra-estruturas como na correspondente exploração do serviço concedido, o esquema financeiro constante do estudo económico anexo ao contrato de concessão.
+
+2 - O esquema referido no número anterior será organizado tendo em conta as seguintes fontes de financiamento:
+
+a) O capital da concessionária;
+
+b) As comparticipações e subsídios atribuídos à concessionária;
+
+c) As receitas provenientes da valorização dos recursos sólidos urbanos, nomeadamente da produção de energia, de outras importâncias cobradas pela concessionária e das retribuições pelos serviços que a mesma preste;
+
+d) Quaisquer outras fontes de financiamento, designadamente empréstimos.
+
+###### Base XIII — Critérios para a fixação das tarifas
+
+1 - As tarifas são fixadas por forma a assegurar a protecção dos interesses dos utilizadores, a gestão eficiente do sistema e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
+
+2 - A concessionária deve aplicar um tarifário comum a todas as entidades gestoras utilizadoras a quem presta serviços.
+
+3 - A concessionária deve aplicar um tarifário comum em todos os territórios em que seja responsável pela prestação de serviços a utilizadores finais domésticos e não domésticos.
+
+4 - A aplicação por uma concessionária de tarifários distintos a utilizadores da mesma natureza carece de justificação por razões ponderosas de ordem técnica ou económica.
+
+5 - Para efeitos de apuramento dos custos dos serviços prestados aos utilizadores finais, a concessionária deve utilizar como preço de transferência o tarifário previsto no n.º 2.
+
+6 - A fixação das tarifas obedece aos seguintes critérios:
+
+a) [Anterior alínea a) do n.º 2.]
+
+b) Assegurar a manutenção, reparação e renovação de todos os bens e equipamentos afectos à concessão;
+
+c) Assegurar a amortização tecnicamente exigida de eventuais novos investimentos de expansão e diversificação do sistema especificamente incluídos nos planos de investimento autorizados;
+
+d) Atender ao nível de custos necessários para uma gestão eficiente do sistema e à existência de receitas não provenientes da tarifa;
+
+e) Assegurar a recuperação dos encargos que legalmente impendam sobre a prestação dos serviços, nomeadamente os de natureza tributária;
+
+f) Assegurar uma adequada remuneração dos capitais próprios da concessionária.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base XIV — Fixação e revisão das tarifas
+
+1 - O contrato de concessão deve incluir uma previsão da trajectória tarifária para o período da concessão, expressa a preços constantes do ano de outorga do contrato, tendo em atenção os critérios definidos na base anterior.
+
+2 - Os tarifários aplicados aos utilizadores produzem efeitos a partir do início do exercício económico a que respeitam, independentemente da sua data de aprovação, e podem ser fixados, por decisão do concedente, ouvida a entidade reguladora, para um horizonte temporal mínimo de um ano e máximo de três anos.
+
+3 - A regulamentação do procedimento previsto na parte final do número anterior é objecto de despacho do membro do Governo responsável pela área do ambiente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+## IV — Exploração da concessão
+
+###### Base XV — Poderes do concedente
+
+1 - Além de outros poderes conferidos pelas presentes bases ou pela lei ao concedente:
+
+a) Carece de autorização do concedente:
+
+i) A celebração ou a modificação dos contratos de fornecimento entre a concessionária e os utilizadores;
+
+ii) A transmissão de bens da propriedade da concessionária de valor líquido contabilístico superior a (euro) 250 000;
+
+iii) (Revogada.)
+
+iv) A realização de investimentos não previstos no âmbito do contrato de concessão;
+
+b) Carecem de aprovação do concedente:
+
+i) As tarifas;
+
+ii) Os orçamentos de exploração, de investimento e financeiros, devidamente certificados por auditor aceite pelo concedente.
+
+2- (Revogado.)
+
+3 - O auditor referido na alínea b) do n.º 1 não pode certificar os orçamentos da concessionária por um período superior a cinco exercícios económicos.
+
+4 - O auditor referido na alínea b) do n.º 1 não pode certificar os orçamentos da concessionária por um período superior a cinco exercícios económicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base XVI — Exercício dos poderes do concedente
+
+1 - Os poderes do concedente referidos nas presentes bases ou outros relacionados com os sistemas multimunicipais de tratamento de resíduos urbanos que lhe forem conferidos por lei são exercidos pelo membro do Governo responsável pela área do ambiente.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - Os actos da concessionária dependentes de autorização ou aprovação do concedente consideram-se autorizados ou aprovados na falta de decisão proferida no prazo de 60 dias a contar da data de apresentação do pedido de autorização ou aprovação, salvo prazo diferente estabelecido nas presentes bases.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base XVII — Fiscalização
+
+1 - O concedente poderá fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua actividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.
+
+2 - O pessoal de fiscalização dispõe de livre acesso, no exercício da suas funções, a todas as infra-estruturas e equipamentos da concessão e a todas as instalações da concessionária.
+
+3 - A concessionária enviará todos os anos ao Ministro do Ambiente e Recursos Naturais, até ao termo do 1.º semestre do ano seguinte a que respeita o exercício considerado, os documentos contabilísticos para o efeito indicados no contrato de concessão, os quais deverão respeitar a apresentação formal que tiver sido definida e estar certificados por auditor aceite pelo concedente.
+
+###### Base XVIII — Regulamentos de tratamento dos resíduos sólidos urbanos
+
+1 - Os regulamentos de tratamento dos resíduos sólidos urbanos serão elaborados pela concessionária e submetidos a parecer dos municípios utilizadores, a emitir no prazo de 60 dias.
+
+2 - Após o parecer referido no número anterior ou findo o prazo para a sua emissão, serão aqueles regulamentos sujeitos a aprovação do Ministro do Ambiente e Recursos Naturais, a qual se terá por concedida se não for expressamente recusada no prazo de 30 dias.
+
+3 - Os procedimentos referidos no número anterior serão igualmente aplicáveis às modificações posteriores dos mesmos regulamentos.
+
+###### Base XIX — Responsabilidade civil extracontratual
+
+A partir da data de produção de efeitos do contrato de concessão, a responsabilidade civil extracontratual da concessionária deve estar coberta por seguro, cujo capital mínimo e condições mínimas são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136)
+
+###### Base XX — Medição e facturação
+
+1 - Os resíduos sólidos urbanos a processar pela concessionária serão pesados no ponto de entrega acordado com cada utilizador do sistema multimunicipal, devendo ser registados os valores diários para cada um deles, podendo ser consideradas as origens e características dos resíduos entregues, desde que tal se encontre previsto nos contratos de entrega de resíduos sólidos urbanos.
+
+2 - As facturas a emitir pela concessionária devem ter uma periodicidade mensal, um prazo de pagamento de 60 dias e, se tal tiver sido acordado no contrato de entrega, incluir em anexo os registos mencionados no número anterior referentes ao período a que as mesmas respeitem.
+
+3 - Às dívidas dos utilizadores em mora é aplicável o regime dos juros comerciais bem como um prazo de prescrição de dois anos após a emissão das respectivas facturas.
+
+4 - Sem prejuízo do regime previsto na presente base, os utilizadores podem acordar com a concessionária procedimentos relacionados com a medição e facturação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base XXI — Concessão do sistema de recolha de resíduos sólidos urbanos
+
+1 - A concessionária não se poderá opor à transmissão da posição contratual de cada um dos utilizadores para uma concessionária do respectivo sistema municipal de recolha e transporte de resíduos sólidos urbanos.
+
+2 - Em caso de transmissão da posição contratual de utilizadores, estes respondem solidariamente com o cessionário respectivo.
+
+###### Base XXII — Suspensão do contrato de entrega e recepção
+
+1 - Em caso de mora nos pagamentos pelos utilizadores que se prolongue para além de 90 dias, a concessionária poderá suspender a recepção no ponto de entrega dos resíduos sólidos urbanos gerados na área do utilizador inadimplente até que se encontre pago o débito correspondente.
+
+2 - A decisão de suspender o fornecimento por falta de pagamento deverá ser comunicada ao Ministro do Ambiente e Recursos Naturais com uma antecedência mínima de 60 dias, podendo este opor-se à respectiva execução.
+
+3 - No caso de o Ministro do Ambiente e Recursos Naturais exercer a oposição referida no número anterior, deve o concedente garantir à concessionária o pagamento do tratamento de resíduos que venham a ser entregues pelo utilizador inadimplente até que a situação seja por este regularizada.
+
+###### Base XXIII — Caução referente à exploração
+
+1 - No termo da concessão, a concessionária deve assegurar adequados níveis de operacionalidade e conservação dos bens e meios afectos à prestação dos serviços.
+
+2 - Para efeitos do disposto no número anterior a concessionária deve, até cinco anos antes do termo da concessão, prestar ao concedente uma caução de valor equivalente a 20 % do capital social da concessionária.
+
+3 - (Revogado).
+
+4 - A caução só pode ser levantada após o decurso de um ano sobre o termo da concessão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+## V — Construção de infra-estruturas
+
+###### Base XXIV — Utilização do domínio público
+
+1 - A concessionária terá o direito de utilizar o domínio público do Estado ou dos municípios utilizadores, neste caso mediante afectação, para efeitos de implantação e exploração das infra-estruturas da concessão.
+
+2 - A faculdade de utilização dos bens dominiais referidos no número anterior resulta da aprovação dos respectivos projectos ou de despacho do Ministro do Ambiente e Recursos Naturais, sem prejuízo da formalização da respectiva cedência nos termos da lei.
+
+3 - No caso de afectação de bens dominiais dos municípios ou de outras pessoas colectivas públicas é aplicável o disposto no Código das Expropriações, correndo por conta da concessionária as compensações a que houver lugar.
+
+###### Base XXV — Servidões e expropriações
+
+1 - A concessionária poderá constituir as servidões e requerer as expropriações necessárias à implantação e exploração das infra-estruturas.
+
+2 - As servidões e expropriações resultam da aprovação dos respectivos projectos pelo Ministro ou de declaração de utilidade pública, simultânea ou subsequente, nos termos da lei aplicável, correndo por conta da concessionária as indemnizações a que derem lugar.
+
+###### Base XXVI — Prazos de construção e data para a entrada em serviço dos sistemas multimunicipais
+
+1 - Os contratos de concessão deverão fixar prazos em cujo termo todas as obras necessárias ao regular funcionamento do sistema deverão estar concluídas.
+
+2 - (Revogado).
+
+3 - A concessionária é responsável pelo incumprimento dos prazos a que se refere o n.º 1, salvo na hipótese de ocorrência de motivos de força maior, atendidos pelo concedente.
+
+4 - Durante toda a fase de construção das infra-estruturas, a concessionária envia semestralmente ao concedente e à entidade reguladora um relatório sobre o estado de avanço das obras.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base XXVII — Responsabilidade pela concepção, projecto e construção das infra-estruturas
+
+1 - Constitui encargo e é da responsabilidade da concessionária a concepção, o projecto e a construção das instalações e a aquisição dos equipamentos necessários, em cada momento, à exploração da concessão.
+
+2 - A concessionária responde perante o concedente por eventuais defeitos de concepção, de projecto, de construção ou dos equipamentos.
+
+###### Base XXVIII — Aprovação dos projectos de construção
+
+1 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, devem ser elaborados com respeito da regulamentação vigente e exigem a aprovação prévia da entidade reguladora e demais entidades competentes.
+
+2 - Não estão sujeitos à aprovação por parte da entidade reguladora referida no número anterior os projectos de infra-estruturas que, cumulativamente, apresentem um valor orçamentado até (euro) 500 000 e não resultem de fraccionamento de projectos.
+
+3 - Sem prejuízo de prazos previstos em procedimentos especiais, a aprovação referida no n.º 1 considera-se concedida caso não seja expressamente recusada no prazo de 60 dias, devendo previamente ser submetida a parecer não vinculativo da câmara municipal territorialmente competente, a qual se pode pronunciar nos termos do n.º 2 do artigo 7.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base XXIX — Dispensa de licenciamento
+
+Para efeitos de execução dos projectos de construção de infra-estruturas aprovados nos termos da base anterior, a concessionária está dispensada de quaisquer outros licenciamentos.
+
+## VI — Secções
+
+###### Base XXX — Multas contratuais
+
+1 - Pelo incumprimento das obrigações assumidas no âmbito do contrato de concessão poderá a concessionária ser punida com multa de 1000000$00 a 50000000$00, segundo a sua gravidade, a qual será aferida em função dos riscos para a segurança do sistema e para a sanidade pública e dos prejuízos resultantes.
+
+2 - É da competência do Ministro do Ambiente e Recursos Naturais a aplicação das multas previstas na presente base.
+
+3 - A sanção aplicada é comunicada por escrito à concessionária.
+
+4 - Os limites das multas referidos no n.º 1 são actualizados anualmente de acordo com o índice de preços no consumidor no continente.
+
+5 - As multas que não forem pagas voluntariamente até 30 dias após a data da notificação poderão ser levantadas da caução prestada pela concessionária.
+
+###### Base XXXI — Sequestro
+
+1 - O concedente poderá intervir na exploração do serviço concedido sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da exploração do serviço ou se verifiquem graves deficiências na respectiva organização ou funcionamento ou no estado geral das instalações e do equipamento susceptíveis de comprometer a regularidade da exploração.
+
+2 - Verificado o sequestro, a concessionária suportará não apenas os encargos resultantes da manutenção dos serviços, mas também quaisquer despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração que não possam ser cobertas pelos resultados da exploração.
+
+3 - Logo que cessem as razões de sequestro e o concedente julgue oportuno, será a concessionária notificada para retomar, na data que lhe for fixada, a normal exploração do serviço.
+
+4 - Se a concessionária não quiser ou não puder retomar a exploração ou se, tendo-o feito, continuarem a verificar-se graves deficiências na organização e funcionamento do serviço, o Ministro do Ambiente e Recursos Naturais poderá declarar a imediata rescisão do contrato de concessão.
+
+## VII — Modificação e extinção da concessão
+
+###### Base XXXII — Trespasse da concessão
+
+1 - A concessionária não poderá trespassar a concessão, no todo ou em parte, sem prévia autorização do Ministro do Ambiente e Recursos Naturais.
+
+2 - No caso de trespasse autorizado, considerar-se-ão transmitidos para a trespassária os direitos e obrigações da trespassante, assumindo ainda a trespassária as obrigações e encargos que eventualmente lhe venham a ser impostos como condição de autorização do trespasse.
+
+###### Base XXXIII — Subconcessão
+
+1 - A concessionária não pode, salvo havendo consentimento por parte do Ministro do Ambiente e Recursos Naturais, subconceder, no todo ou em parte, a concessão.
+
+2 - O consentimento referido no número anterior, deverá, sob pena de nulidade, ser prévio, expresso e inequívoco.
+
+3 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão.
+
+###### Base XXXIV — Modificação da concessão
+
+Sem prejuízo do disposto no n.º 3 da base III, o contrato de concessão apenas pode ser alterado por acordo entre concedente e concessionária.
+
+###### Base XXXV — Rescisão do contrato
+
+1 - O concedente poderá dar por finda a concessão, mediante rescisão do contrato, quando tenha ocorrido qualquer dos factos seguintes:
+
+a) Desvio do objecto da concessão;
+
+b) Interrupção prolongada da exploração por facto imputável à concessionária;
+
+c) Oposição reiterada ao exercício da fiscalização ou repetida desobediência às determinações do concedente ou, ainda, sistemática inobservância das leis e regulamentos aplicáveis à exploração;
+
+d) Recusa em proceder à adequada conservação e reparação das infra-estruturas;
+
+e) Cobrança dolosa de retribuições superiores às fixadas nos contratos de concessão e nos contratos celebrados com os utilizadores;
+
+f) Cessação de pagamentos pela concessionária ou apresentação à falência;
+
+g) Trespasse da concessão ou subconcessão não autorizados;
+
+h) Violação grave das cláusulas do contrato de concessão.
+
+2 - Não constituem causas de rescisão os factos ocorridos por motivos de força maior e, bem assim, os que o concedente aceite como justificados.
+
+3 - A rescisão prevista no n.º 1 determina a reversão de todos os bens e meios afectos à concessão para o concedente, a efectivar nos termos da base seguinte e sem direito a qualquer indemnização.
+
+4 - A rescisão do contrato de concessão será comunicada à concessionária por carta registada com aviso de recepção e produzirá imediatamente os seus efeitos.
+
+###### Base XXXVI — Termo do prazo de concessão
+
+1 - No termo da concessão e sem prejuízo do disposto no artigo 4.º do Decreto-Lei n.º 379/93, de 5 de Novembro, na redacção dada pelo Decreto-Lei n.º 14/2002, de 26 de Janeiro, e nas bases viii e ix das presentes bases, o Estado ou os municípios, conforme aplicável, entram na posse dos bens da concessionária afectos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados os representantes da concessionária.
+
+2 - Do auto de vistoria constará obrigatoriamente o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho da sua função no sistema.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2009 - Diário da República n.º 161/2009, Série I de 2009-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136), em vigor a partir de 2010-01-01
+
+###### Base XXXVII — Resgate da concessão
+
+1 - O concedente poderá resgatar a concessão, retomando a gestão directa do serviço público concedido, sempre que motivos de interesse público o justifiquem e decorrido que seja pelo menos metade do prazo contratual, e mediante aviso prévio feito à concessionária, por carta registada com aviso de recepção, com, pelo menos, um ano de antecedência.
+
+2 - Decorrido o período de um ano sobre o aviso do resgate, o Ministério do Ambiente e Recursos Naturais entrará na posse de todos os bens afectos à concessão, nos termos da base anterior.
+
+3 - Pelo resgate a concessionária terá direito a uma indemnização determinada por terceira entidade independente, escolhida por acordo entre o Ministro do Ambiente e Recursos Naturais e a concessionária, devendo aquela atender, na fixação do seu montante, ao valor contabilístico líquido dos bens referidos no número anterior e ao rendimento esperado.
+
+4 - O valor contabilístico do imobilizado corpóreo, líquido de amortizações fiscais e das comparticipações financeiras e subsídios a fundo perdido, deverá ter em conta a depreciação monetária através de reavaliação por coeficientes de correcção monetária legalmente consagrados.
+
+5 - O crédito previsto no n.º 3 desta base compensar-se-á com as dívidas ao concedente por multas contratuais e a título de indemnizações por prejuízos causados.
+
+## VIII — Contencioso
+
+###### Base XXXVIII — Arbitragem
+
+Nos litígios emergentes do contrato de concessão poderá o Estado celebrar convenções de arbitragem.

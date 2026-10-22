@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:139744:por
+title: Portaria n.º 56/95
+short_title: null
+summary: Torna obrigatória a aposição de um dístico nos veículos terrestres a motor para identificação do seguro do veiculo,
+  bem como a certificação da realização das inspecções periódicas obrigatórias
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Administração Interna e das Finanças
+proposing_entity: null
+official_number: 56/95
+official_date: null
+publication_date: '1995-01-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 21/1995, Série I-B de 1995-01-25
+  number: '21'
+  series: I
+  supplement: null
+  pages: 458 - 459
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/01/021b00/04580459.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/56/1995/01/25/p/dre/pt/html
+  oj: null
+  dre: '139744'
+  dre_path: /dr/detalhe/portaria/56-1995-139744
+  internal: pt:dre:139744:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-1995-139744
+  metadata_url: https://data.dre.pt/eli/port/56/1995/01/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-1995-139744
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-01-25T00:00:00Z'
+integrity:
+  source_sha256: 5eeb122efd275619f3fd39fc6f24df71d7046122addac56986b4ebc3e4e926f7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-56-139744.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Inspecção de Veículos
+- Veículo
+- Documentos do Veículo
+- Regulamentação dos Transportes
+- Seguro de Responsabilidade Civil Automóvel
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/130/1994/05/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/130/1994/05/19/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 56/95
+
+de 25 de Janeiro
+
+O [Decreto-Lei n.º 130/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1994-262840), de 19 de Maio, torna obrigatória a aposição de um dístico nos veículos terrestres a motor, o qual deverá conter determinados elementos identificadores do seguro do respectivo veículo ou da sua situação de isenção relativamente à obrigação de segurar, bem como a certificação da realização das inspecções periódicas obrigatórias.
+
+Embora não substitua os documentos de prova de seguro e da realização da inspecção legalmente consagrados, os quais deverão ser prontamente apresentados sempre que solicitados pelas entidades de fiscalização, o dístico constituirá não só um elemento auxiliar para essas mesmas entidades fiscalizadoras, permitindo uma verificação visual rápida da provável existência do seguro e da realização da inspecção, mas, essencialmente, funcionará como um elemento de informação importante para os eventuais lesados, permitindo-lhes facilmente saber a quem se dirigirem para reclamarem o ressarcimento dos danos sofridos.
+
+Ao abrigo do disposto no n.º 3 do artigo 3.º do [Decreto-Lei n.º 130/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1994-262840), de 19 de Maio:
+
+Manda o Governo, pelos Ministros da Administração Interna e das Finanças, o seguinte:
+
+1.º O dístico previsto no artigo 3.º do [Decreto-Lei n.º 130/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1994-262840), de 19 de Maio, será composto por duas subunidades, distintas entre si, que terão a forma de vinheta, uma relativa ao seguro obrigatório de responsabilidade civil automóvel e outra relativa à realização das inspecções periódicas quando obrigatórias.
+
+2.º Nos veículos de duas ou três rodas, o dístico será composto apenas pela vinheta relativa ao seguro obrigatório de responsabilidade civil automóvel.
+
+3.º O dístico deverá ser aposto no interior do veículo no canto inferior direito do pára-brisas ou, na falta deste, noutro local bem visível, devendo, nos veículos de duas ou três rodas, ser aposto sobre uma das faces situadas no plano formado pela forqueta da frente dos referidos veículos.
+
+4.º A vinheta relativa ao seguro obrigatório de responsabilidade civil automóvel será emitida pelas seguradoras e por elas entregue ao tomador do seguro juntamente, e apenas, com o certificado internacional de seguro (carta verde), devendo ser de cor verde e respeitar o seguinte modelo:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/021b00/04580459.pdf))](https://files.diariodarepublica.pt/1s/1995/01/021b00/04580459.pdf)
+
+5.º Relativamente aos veículos isentos da obrigação de segurar, a respectiva vinheta deverá ser emitida pelas entidades mencionadas nos n.os 4 e 5 do artigo 3.º do [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), de 31 de Dezembro, e por estas entregue juntamente com o certificado que emitem, devendo ser de cor verde e respeitar o seguinte modelo:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/021b00/04580459.pdf))](https://files.diariodarepublica.pt/1s/1995/01/021b00/04580459.pdf)
+
+6.º Os proprietários dos veículos obrigados a inspecção periódica, após a realização da mesma, receberão uma vinheta de cor verde ou vermelha consoante o veículo tenha sido aprovado ou não na inspecção, a qual deverá respeitar o seguinte modelo:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/021b00/04580459.pdf))](https://files.diariodarepublica.pt/1s/1995/01/021b00/04580459.pdf)
+
+7.º As vinhetas deverão, em qualquer caso, ser totalmente preenchidas pela entidade responsável pela sua entrega, sem rasuras, não devendo conter, para além das legalmente definidas, quaisquer outras menções.
+
+8.º Em caso de extravio das vinhetas ou inutilização por causa acidental, a entidade competente expedirá, mediante solicitação daqueles em cujo interesse o documento original foi emitido, uma 2.ª via, a qual deverá conter essa mesma menção.
+
+9.º O disposto no presente diploma entra em vigor em 1 de Abril de 1995, aplicando-se a partir daquele momento a todas as inspecções que venham a ser realizadas, bem como aos contratos de seguro a ser celebrados e aos já celebrados na data de emissão do respectivo certificado internacional de seguro (carta verde).
+
+Ministérios da Administração Interna e das Finanças.
+
+**Assinada em 20 de Dezembro de 1994.**
+
+**O Ministro da Administração Interna, Manuel Dias Loureiro. - O Ministro das Finanças, Eduardo de Almeida Catroga.**

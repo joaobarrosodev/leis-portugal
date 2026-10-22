@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:676610:por
+title: Decreto n.º 332/72
+short_title: null
+summary: Regula o pagamento, em prestações ou em espécie, de indemnizações por expropriação
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministérios da Justiça e das Obras Públicas
+proposing_entity: null
+official_number: 332/72
+official_date: null
+publication_date: '1972-08-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 196/1972, Série I de 1972-08-23
+  number: '196'
+  series: I
+  supplement: null
+  pages: 1155 - 1156
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19600/11551156.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '676610'
+  dre_path: /dr/detalhe/decreto/332-1972-676610
+  internal: pt:dre:676610:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/332-1972-676610
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/332-1972-676610
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-01-27T00:00:00Z'
+integrity:
+  source_sha256: 2a56ae110730ef906b9b60228b2a5beb156c9c9ae2daafa3077cc4761a3a3c1b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1972/DRE-1972-332-676610.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:506836:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 332/72
+
+de 23 de Agosto
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º Nas expropriações, amigáveis ou litigiosas, podem constituir objecto de acordo entre o expropriante e os interessados:
+
+a) O montante da indemnização;
+
+b) O pagamento da indemnização ou de parte dela em prestações;
+
+c) O direito de o expropriante impor o pagamento da indemnização em prestações;
+
+d) O modo de satisfazer as prestações;
+
+e) O pagamento em espécie ou substituição da indemnização, no todo ou em parte.
+
+###### Art. 2.º - 1. O acordo sobre o pagamento em prestações ou sobre o direito de o expropriante impor o pagamento por essa forma considera-se, salvo cláusula em contrário, sem efeito se a indemnização vier a ser fixada em importância inferior ao limite previsto no artigo 13.º, n.os 3 e 4, do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro.
+
+2. O acordo restrito ao montante da indemnização importa para o expropriante, salvo cláusula em contrário, renúncia ao direito de impor o pagamento em prestações.
+
+3. Na escritura ou acto de expropriação amigável e no acto de conciliação de expropriação litigiosa deverão precisar-se os termos e o âmbito do acordo entre o expropriante e os interessados.
+
+###### Art. 3.º - 1. No prazo legal para depósito da indemnização é facultado ao expropriante deduzir no processo o seu direito ao pagamento em prestações, indicando o modo de as satisfazer, oferecendo prova dos requisitos exigidos no artigo 13.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730) e juntando, se for caso disso, documento donde conste autorização do Governo, conforme o disposto nos artigos 16.º e 17.º do mesmo diploma.
+
+2. Se apenas tiver sido acordado o pagamento em prestações, o expropriante limitar-se-á a declarar o modo de as satisfazer.
+
+###### Art. 4.º Sem prejuízo do disposto no artigo 9.º, n.º 2, o expropriante fica dispensado do depósito da indemnização quando haja acordo sobre o pagamento em prestações e o modo de as satisfazer ou ele tenha deduzido no processo, nos termos do artigo anterior, o direito ao pagamento sob essa forma.
+
+###### Art. 5.º - 1. Não havendo lugar a partilha da indemnização ou após o acordo ou decisão sobre essa partilha, seguem-se no processo de expropriação, para se decidir sobre a admissão do direito ao pagamento em prestações ou o modo de as satisfazer, os termos do processo sumário, com as seguintes especialidades:
+
+a) A dedução pelo expropriante do seu direito ao pagamento em prestações vale como petição, mas pode ser alterada posteriormente a indicação sobre o modo de satisfação das prestações;
+
+b) O prazo para a contestação é de cinco dias;
+
+c) Não há lugar a audiência preparatória e o despacho saneador, a especificação e o questionário devem ser elaborados no prazo de cinco dias;
+
+d) São de dois dias os prazos para as reclamações contra a especificação e o questionário, para as respectivas respostas e para a decisão das reclamações;
+
+e) Esta decisão só pode ser impugnada no recurso que se interpuser da decisão final sobre o pedido;
+
+f) As testemunhas residentes fora da comarca devem ser apresentadas pelas partes no juízo da causa e só se procederá às diligências que o juiz repute indispensáveis;
+
+g) A sentença deve ser proferida no prazo de oito dias.
+
+2. O processado em cumprimento do número anterior considera-se, para efeitos de custas, como ocorrência normal do processo de expropriação.
+
+3. Os pagamentos aos interessados não serão ordenados enquanto não for proferida decisão sobre o pedido.
+
+###### Art. 6.º Se não for admitido o pagamento em prestações, será notificado o expropriante para, no prazo de dez dias, juntar o conhecimento de depósito da importância da indemnização na Caixa Geral de Depósitos, se não estiver já depositada, efectuando-se depois os pagamentos.
+
+###### Art. 7.º - 1. Admitido pelas partes ou por decisão judicial o pagamento da indemnização em prestações e ainda o modo como estas deverão ser satisfeitas, será notificado o expropriante, quando for o Estado, para, no prazo de sessenta dias, por termo nos autos, entregar aos interessados os respectivos certificados de dívida pública amortizável, salvo se já estiver feita a prova, por documento, da entrega extrajudicial.
+
+2. Na falta de entrega dos certificados, será declarada sem efeito a forma de pagamento em prestações e notificado o Estado para fazer o depósito, conforme o disposto no artigo 6.º
+
+###### Art. 8.º - 1. Observar-se-á o disposto no artigo anterior quando o expropriante seja uma autarquia local ou um serviço autónomo e se deva garantir o pagamento das prestações pela entrega de títulos de dívida pública, em substituição do aval do Estado.
+
+2. No caso de o pagamento das prestações ser assegurado por consignação de receitas, por aval ou por outra forma de garantia, o juiz ordenará as diligências que considere adequadas, podendo autorizar a liquidação extrajudicial das prestações.
+
+3. O regime a que se refere o número anterior é substituível pela prova da prestação da garantia em que as partes tenham acordado extrajudicialmente.
+
+###### Art. 9.º - 1. No caso de o pagamento da indemnização dever ser feito em prestações, o expropriante só será investido na posse e propriedade dos bens expropriados depois da entrega dos certificados de dívida pública ou de se mostrar garantido o pagamento da prestações, nos termos dos artigos 7.º e 8.º
+
+2. A propriedade e a posse poderão, todavia, ser desde logo conferidas, quando o expropriante, no prazo fixado para o depósito da indemnização, renuncie à dispensa concedida pelo artigo 4.º e junte ao processo o respectivo conhecimento.
+
+3. A importância depositada nos termos do número anterior será mandada restituir logo que se mostre feita a entrega dos certificados de dívida pública ou garantido o pagamento das prestações.
+
+###### Art. 10.º - 1. Por virtude do acordo a que se refere o artigo 1,º, alínea e), as indemnizações podem ser satisfeitas pela entrega de bens aos expropriados, ou pela constituição, a favor dos mesmos, de direitos de superfície.
+
+2. Nos casos de caducidade do arrendamento, a indemnização pode também ser substituída pela cedência de outros terrenos ou locais, em regime de arrendamento, para a continuação das explorações.
+
+3. Nos casos previstos nos números anteriores, a escritura ou auto de expropriação amigável e o auto de conciliação devem especificar os bens entregues aos expropriados e definir os direitos que ficam constituídos.
+
+###### Art. 11.º - 1. Nos casos a que seja aplicável o presente decreto, incluindo o previsto no artigo 5.º, observar-se-ão as disposições reguladoras do processo de expropriação que não sejam incompatíveis com o que nele se dispõe, designadamente as relativas ao pagamento imediato a que fique sujeita parte da indemnização.
+
+2. O disposto nos artigos 59.º a 77.º do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961, é aplicável, com as devidas adaptações, à reversão dos bens expropriados, quando se tenha adoptado o pagamento da indemnização em prestações ou em espécie.
+
+Marcello Caetano - Mário Júlio Brito de Almeida Costa - Rui Alves da Silva Sanches.
+
+**Promulgado em 5 de Agosto de 1972.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

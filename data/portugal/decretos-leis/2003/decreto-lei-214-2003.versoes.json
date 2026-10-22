@@ -1,0 +1,480 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:497270:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-153181190",
+ "dre_path": "/dr/detalhe/decreto-lei/214-2003-497270",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "153136719",
+    "153136720",
+    "153136721",
+    "153136722",
+    "153136723",
+    "153136724",
+    "153136725",
+    "153136726",
+    "153136727",
+    "153136728",
+    "153136729",
+    "153136730",
+    "153136731",
+    "153136733",
+    "153136734"
+   ]
+  },
+  {
+   "date": "2015-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69736207:por",
+     "title": "Decreto-Lei n.º 126/2015",
+     "published": "2015-07-07",
+     "dre_path": "/dr/detalhe/decreto-lei/126-2015-69736207"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "153136719",
+    "153136720",
+    "153136721",
+    "153136722",
+    "153136742",
+    "153136724",
+    "153136743",
+    "153136726",
+    "153136727",
+    "153136744",
+    "153136745",
+    "153136730",
+    "153136731",
+    "153136732",
+    "153136733",
+    "153136746"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:153138206:por",
+     "title": "Decreto-Lei n.º 2/2021",
+     "published": "2021-01-07",
+     "dre_path": "/dr/detalhe/decreto-lei/2-2021-153138206"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "153136719",
+    "153136720",
+    "153136721",
+    "153136722",
+    "153136747",
+    "153136724",
+    "153136743",
+    "156398090",
+    "153136727",
+    "153136744",
+    "156398091",
+    "153136748",
+    "153136749",
+    "153136750",
+    "153136751",
+    "153136752",
+    "153136753"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595",
+     "date": "2021-07-28"
+    }
+   ]
+  },
+  {
+   "date": "2025-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:992627248:por",
+     "title": "Decreto-Lei n.º 136/2025",
+     "published": "2025-12-24",
+     "dre_path": "/dr/detalhe/decreto-lei/136-2025-992627248"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "153136719",
+    "993773630",
+    "153136721",
+    "153136722",
+    "993773631",
+    "993773632",
+    "153136743",
+    "993773633",
+    "153136727",
+    "153136744",
+    "156398091",
+    "153136748",
+    "153136749",
+    "153136750",
+    "153136751",
+    "993773636",
+    "993773637"
+   ]
+  }
+ ],
+ "fragments": {
+  "153136719": {
+   "fragment_id": "153181191",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 214/2003\n\nde 18 de Setembro\n\nO Decreto-Lei n.º 131/85, de 29 de Abril, estabelece as definições, a classificação e as características do mel, bem como as regras relativas ao seu acondicionamento e rotulagem, adoptando as disposições da Directiva n.º <a href=\"eurlex.asp?ano=1974&id=374L0409\" title=\"Link para Directiva da Comunidade Europeia\">74/409/CEE</a>, do Conselho, de 22 de Julho, relativa à aproximação das legislações dos Estados membros respeitantes ao mel.\n\nA Directiva n.º <a href=\"eurlex.asp?ano=1974&id=374L0409\" title=\"Link para Directiva da Comunidade Europeia\">74/409/CEE</a>, do Conselho, de 22 de Julho, pôs fim às divergências existentes nas legislações nacionais no que respeita à definição de mel, aos vários tipos de mel e às características exigidas, garantindo, desta forma, a sua livre circulação, bem como a criação de condições de concorrência leal para os vários Estados membros.\n\nA Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0110\" title=\"Link para Directiva da Comunidade Europeia\">2001/110/CE</a>, do Conselho, de 20 de Dezembro, relativa ao mel, veio reformular a Directiva n.º <a href=\"eurlex.asp?ano=1974&id=374L0409\" title=\"Link para Directiva da Comunidade Europeia\">74/409/CEE</a>, do Conselho, de 22 de Julho, tornando mais acessíveis as regras relativas às condições de produção e comercialização do mel, adaptando-as à legislação comunitária geral aplicável aos géneros alimentícios, especialmente a relativa à rotulagem, contaminantes e métodos de análise.\n\nDando cumprimento ao artigo 9.º da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0110\" title=\"Link para Directiva da Comunidade Europeia\">2001/110/CE</a>, do Conselho, de 20 de Dezembro, este diploma adopta, na ordem jurídica interna, as novas disposições comunitárias relativas às definições e características do mel e às regras a que deve obedecer a sua produção e comercialização, ficando revogado o Decreto-Lei n.º 131/85, de 29 de Abril, por não corresponder aos objectivos comunitários.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 2/2021 - Diário da República n.º 4/2021, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2021-153138206) O mel rotulado em conformidade com o disposto no Decreto-Lei n.º 214/2003, de 18 de setembro, na redação anterior à do Decreto-Lei n.º 2/2021, de 7 de janeiro, pode ser comercializado até ao esgotamento das respetivas existências."
+  },
+  "153136720": {
+   "fragment_id": "153181192",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0110\" title=\"Link para Directiva da Comunidade Europeia\">2001/110/CE</a>, do Conselho, de 20 de Dezembro, relativa ao mel."
+  },
+  "153136721": {
+   "fragment_id": "153181193",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente diploma aplica-se aos produtos definidos no seu anexo I e caracterizados no seu anexo II, que dele fazem parte integrante."
+  },
+  "153136722": {
+   "fragment_id": "153181194",
+   "type": 11,
+   "heading": "Artigo 3.º — Métodos de análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Métodos de análise\n\nPara verificação das características do mel a que se refere o presente diploma são utilizados os métodos de preparação de amostra e de análise definidos comunitariamente e na sua ausência os métodos validados internacionalmente reconhecidos, designadamente os aprovados pelo Codex Alimentarius."
+  },
+  "153136723": {
+   "fragment_id": "153181195",
+   "type": 11,
+   "heading": "Artigo 4.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Rotulagem\n\nA rotulagem dos produtos abrangidos por este diploma obedece ao disposto na legislação em vigor sobre rotulagem de géneros alimentícios, observando-se ainda o seguinte:\n\n1 - O termo «mel» é aplicado apenas ao produto definido no n.º 1 do anexo I e deve ser utilizado no comércio para designar esse produto.\n\n2 - As denominações de venda a que se referem os n.os 2 e 3 do anexo I são reservadas aos produtos nele definidos e devem ser utilizadas no comércio para designar esses produtos.\n\n3 - As denominações de venda a que se refere o número anterior podem ser substituídas pela simples denominação «mel», excepto no caso do mel filtrado, do mel em favos, do mel com pedaços de favos e do mel para uso industrial.\n\n4 - No caso de utilização de mel para uso industrial como ingrediente de um género alimentício composto, o termo «mel» pode constar da denominação de venda desse género alimentício, em vez de «mel para uso industrial», devendo constar da lista de ingredientes a denominação completa referida no n.º 3 do anexo I.\n\n5 - O mel para uso industrial deve conter na respectiva rotulagem, na proximidade da denominação de venda, a expressão «Apenas para uso culinário».\n\n6 - Salvo no que se refere ao mel filtrado e ao mel para uso industrial, as denominações de venda podem ser completadas por indicações que façam referência:\n\na) À origem floral ou vegetal do produto, se este provier total ou principalmente da origem indicada e possuir as características organolépticas, físico-químicas e microscópicas próprias de tal origem;\n\nb) À origem regional, territorial ou topográfica do produto, se este provier na sua totalidade da origem indicada;\n\nc) A critérios de qualidade específicos.\n\n7 - Na rotulagem dos produtos a que se refere o presente diploma deve figurar a indicação do país ou países de origem em que o mel foi colhido.\n\n8 - Caso o mel seja originário de um ou vários Estados membros ou países terceiros, a indicação a que se refere o número anterior pode ser substituída por uma das seguintes indicações, consoante o caso:\n\na) «Mistura de méis CE»;\n\nb) «Mistura de méis não CE»;\n\nc) «Mistura de méis CE e não CE».\n\n9 - As indicações a que se referem os n.os 7 e 8 são consideradas menções obrigatórias de rotulagem, nos termos da legislação em vigor."
+  },
+  "153136724": {
+   "fragment_id": "153181196",
+   "type": 11,
+   "heading": "Artigo 5.º — Mel filtrado e mel para uso industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Mel filtrado e mel para uso industrial\n\nNo caso do mel filtrado e do mel para uso industrial, os recipientes de mel a granel, as embalagens e os documentos comerciais devem indicar claramente a denominação de venda completa referida na alínea b), subalínea viii), do n.º 2 e no n.º 3 do anexo I."
+  },
+  "153136725": {
+   "fragment_id": "153181197",
+   "type": 11,
+   "heading": "Artigo 6.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Autoridades competentes\n\nSem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, compete especialmente à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA) assegurar a fiscalização do cumprimento das regras previstas neste diploma."
+  },
+  "153136726": {
+   "fragment_id": "153181198",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima, nos montantes mínimo de (euro) 100 e máximo de (euro) 3740 ou de (euro) 44890, consoante o agente seja pessoa singular ou colectiva:\n\na) A produção ou a comercialização do produtos definidos no anexo I sem as características fixadas no anexo II;\n\nb) A falta, inexactidão ou deficiência das menções de rotulagem previstas no artigo 4.º deste diploma;\n\nc) A não indicação da denominação exigida nos termos do artigo 5.º\n\n2 - A tentativa e negligência são puníveis."
+  },
+  "153136727": {
+   "fragment_id": "153181199",
+   "type": 11,
+   "heading": "Artigo 8.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções acessórias\n\n1 - Em função da gravidade da contra-ordenação e da culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício depende de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação de participar em feiras ou mercados;\n\ne) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) a f) do número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "153136728": {
+   "fragment_id": "153181200",
+   "type": 11,
+   "heading": "Artigo 9.º — Levantamento, instrução e decisão das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Levantamento, instrução e decisão das contra-ordenações\n\n1 - O levantamento dos autos de contra-ordenação compete à DGFCQA, assim como às autoridades policiais e fiscalizadoras.\n\n2 - A instrução dos processos de contra-ordenação compete à entidade que levantar o auto de notícia ou, caso esta não tenha competência para o efeito, à DGFCQA.\n\n3 - A aplicação de coimas e sanções acessórias compete ao director-geral de Fiscalização e Controlo da Qualidade Alimentar."
+  },
+  "153136729": {
+   "fragment_id": "153181201",
+   "type": 11,
+   "heading": "Artigo 10.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Afectação do produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para os cofres do Estado."
+  },
+  "153136730": {
+   "fragment_id": "153181202",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 131/85, de 29 de Abril."
+  },
+  "153136731": {
+   "fragment_id": "153181203",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma transitória\n\n1 - A partir de 1 de Agosto de 2004 é proibida a comercialização de produtos não conformes com as regras fixadas neste diploma.\n\n2 - Os méis rotulados antes de 1 de Agosto de 2004 que estejam conformes com o Decreto-Lei n.º 131/85, de 29 de Abril, podem ser comercializados até ao esgotamento das suas existências."
+  },
+  "153136733": {
+   "fragment_id": "153181205",
+   "type": 14,
+   "heading": "Anexo I — Denominações, descrições e definições dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Denominações, descrições e definições dos produtos\n\n1 - Mel - substância açucarada natural produzida pelas abelhas da espécie Apis mellifera a partir do néctar de plantas ou das secreções provenientes de partes vivas das plantas ou de excreções de insectos sugadores de plantas que ficam sobre partes vivas das plantas, que as abelhas recolhem, transformam por combinação com substâncias específicas próprias, depositam, desidratam, armazenam e deixam amadurecer nos favos da colmeia.\n\n2 - Principais tipos de mel:\n\na) Consoante a origem:\n\ni) Mel de néctar ou mel de flores - mel obtido a partir do néctar das plantas;\n\nii) Mel de melada - mel obtido principalmente a partir de excreções de insectos sugadores de plantas (hemiptera) que ficam sobre as partes vivas das plantas ou de secreções provenientes de partes vivas das plantas.\n\nb) Consoante o modo de produção e ou de apresentação:\n\niii) Mel em favos - mel armazenado pelas abelhas nos alvéolos operculados de favos construídos recentemente pelas próprias abelhas ou de finas folhas de cera gravada realizadas exclusivamente com cera de abelha e que não contenham criação vendido em favos inteiros ou em secções de favos;\n\niv) Mel com pedaços de favos - mel que contém um ou vários pedaços de mel em favos;\n\nv) Mel escorrido - mel obtido por escorrimento de favos desoperculados que não contenham criação;\n\nvi) Mel centrifugado - mel obtido por centrifugação de favos desoperculados que não contenham criação;\n\nvii) Mel prensado - mel obtido por compressão de favos que não contenham criação, sem aquecimento ou com aquecimento moderado de 45ºC, no máximo;\n\nviii) Mel filtrado - mel obtido por um processo de eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição que retire uma parte importante do pólen.\n\n3 - Mel para uso industrial:\n\nMel:\n\na) Próprio para usos industriais ou como ingrediente de outros géneros alimentícios transformados; e\n\nb) Que pode:\n\nApresentar um sabor ou cheiro anormal; ou\n\nTer começado a fermentar ou ter fermentado; ou\n\nTer sido sobreaquecido."
+  },
+  "153136734": {
+   "fragment_id": "153181206",
+   "type": 14,
+   "heading": "Anexo II — Critérios de composição dos méis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Critérios de composição dos méis\n\nO mel é constituído essencialmente por diversos açúcares, predominando a glucose e a frutose, assim como por outras substâncias tais como ácidos orgânicos, enzimas e partículas sólidas provenientes da sua colheita.\n\nA cor do mel pode variar de uma tonalidade quase incolor a castanho-escuro.\n\nNo que respeita à consistência, pode apresentar-se fluido, espesso ou parcial ou totalmente cristalizado.\n\nO sabor e o aroma variam consoante a origem vegetal.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, não pode ter sido adicionado ao mel nenhum ingrediente alimentar, incluindo aditivos alimentares, nem outras adições para além do mel.\n\nO mel deve estar isento, na medida do possível, de matérias orgânicas ou inorgânicas estranhas à sua composição.\n\nCom excepção da categoria referida no n.º 3 do anexo I, o mel não deve apresentar sabores ou cheiros estranhos, nem ter começado a fermentar, nem apresentar uma acidez modificada artificialmente, nem ter sido aquecido de modo que as enzimas naturais sejam destruídas ou consideravelmente inactivadas.\n\nSem prejuízo do disposto no n.º 2, alínea b), subalínea viii), do anexo I, não pode ser retirado ao mel nenhum pólen nem nenhum dos seus constituintes próprios, excepto quando tal for inevitável no processo de eliminação de matérias orgânicas ou inorgânicas estranhas.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, o mel deve obedecer aos seguintes critérios de composição:\n\n1 - Teor de açúcares:\n\n1.1 - Teor de frutose e glucose (total dos dois):\n\n- Mel de néctar - no mínimo 60 g/100 g;\n\n- Mel de melada e misturas de mel de melada com mel de néctar - no mínimo 45 g/100 g;\n\n1.2 - Teor de sacarose:\n\n- Em geral - no máximo 5 g/100 g;\n\nRobinia pseudoacacia (falsa acácia), Medicago sativa (luzerna ou alfalfa), Banksia menziesii (Mensies Banksia), Hedysarum (hedisaro), Eucalyptus camadulensis, Eucryphia lucida, Eucryphia milliganii, Citrus spp. (citrinos) - no máximo 10 g/100 g;\n\n- Lavandula spp.(rosmaninho, alfazema), Borago officinalis (borragem) - no máximo 15 g/100 g.\n\n2 - Teor de água:\n\n- Em geral - no máximo 20%;\n\n- Mel de urze (Calluna) e mel para uso industrial em geral - no máximo 23%;\n\n- Mel de urze (Calluna) para uso industrial - no máximo 25%.\n\n3 - Teor de matérias insolúveis na água:\n\n- Em geral - no máximo 0,1 g/100 g;\n\n- Mel prensado - no máximo 0,5 g/100 g.\n\n4 - Condutividade eléctrica:\n\n- Mel não enumerado a seguir e misturas desses méis - no máximo 0,8 mS/cm;\n\n- Mel de melada, mel de flores de castanheiro e misturas desses méis, excepto com os a seguir enumerados - no mínimo 0,8 mS/cm;\n\n- Excepções: Arbutus unedo (medronheiro), Erica (erica), Eucalyptus (eucalipto), Tilia spp. (tília), Calluna vulgaris (torga ordinária), Leptospermum (leptospermo), Melaleuca spp. (melaleuca).\n\n5 - Ácidos livres:\n\n- Em geral - no máximo 50 miliequivalentes de ácidos por 1000 g;\n\n- Mel para uso industrial - no máximo 80 miliequivalentes de ácidos por 1000 g.\n\n6 - Índice diastásico e teor de hidroximetilfurfural (HMF), determinados após tratamento e mistura:\n\na) Índice diastásico (escala de Schade):\n\n- Em geral, com excepção do mel para uso industrial - no mínimo 8;\n\n- Méis com baixo teor natural de enzimas (por exemplo, méis de citrinos) e teor de HMF não superior a 15 mg/kg - no mínimo 3.\n\nb) HMF:\n\n- Em geral, com excepção do mel para uso industrial - no máximo 40 mg/kg [sem prejuízo do disposto na alínea a), segundo travessão];\n\n- Mel de origem declarada de regiões de clima tropical e misturas desses méis - no máximo 80 mg/kg."
+  },
+  "153136742": {
+   "fragment_id": "153181195",
+   "type": 11,
+   "heading": "Artigo 4.º — Rotulagem",
+   "in_force_from": "2015-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+   ],
+   "markdown": "###### Artigo 4.º — Rotulagem\n\nA rotulagem dos produtos abrangidos por este diploma obedece ao disposto na legislação em vigor sobre rotulagem de géneros alimentícios, observando-se ainda o seguinte:\n\n1 - O termo «mel» é aplicado apenas ao produto definido no n.º 1 do anexo I e deve ser utilizado no comércio para designar esse produto.\n\n2 - As denominações de venda a que se referem os n.os 2 e 3 do anexo I são reservadas aos produtos nele definidos e devem ser utilizadas no comércio para designar esses produtos.\n\n3 - As denominações de venda a que se refere o número anterior podem ser substituídas pela simples denominação «mel», excepto no caso do mel filtrado, do mel em favos, do mel com pedaços de favos e do mel para uso industrial.\n\n4 - No caso de utilização de mel para uso industrial como ingrediente de um género alimentício composto, o termo «mel» pode constar da denominação de venda desse género alimentício, em vez de «mel para uso industrial», devendo constar da lista de ingredientes a denominação completa referida no n.º 3 do anexo I.\n\n5 - O mel para uso industrial deve conter na respectiva rotulagem, na proximidade da denominação de venda, a expressão «Apenas para uso culinário».\n\n6 - Salvo no que se refere ao mel filtrado e ao mel para uso industrial, as denominações de venda podem ser completadas por indicações que façam referência:\n\na) À origem floral ou vegetal do produto, se este provier total ou principalmente da origem indicada e possuir as características organolépticas, físico-químicas e microscópicas próprias de tal origem;\n\nb) À origem regional, territorial ou topográfica do produto, se este provier na sua totalidade da origem indicada;\n\nc) A critérios de qualidade específicos.\n\n7 - Na rotulagem dos produtos a que se refere o presente diploma deve figurar a indicação do país ou países de origem em que o mel foi colhido.\n\n8 - Caso o mel seja originário de um ou vários Estados membros ou países terceiros, a indicação a que se refere o número anterior pode ser substituída por uma das seguintes indicações, consoante o caso:\n\na) 'Mistura de méis UE';\n\nb) 'Mistura de méis não UE';\n\nc) 'Mistura de méis UE e não UE'.\n\n9 - As indicações a que se referem os n.os 7 e 8 são consideradas menções obrigatórias de rotulagem, nos termos da legislação em vigor.\n\n10 - O pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente, na aceção da alínea f) do n.º 2 do artigo 2.º do Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, dos produtos referidos no anexo I.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+  },
+  "153136743": {
+   "fragment_id": "153181197",
+   "type": 11,
+   "heading": "Artigo 6.º — Autoridades competentes",
+   "in_force_from": "2015-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+   ],
+   "markdown": "###### Artigo 6.º — Autoridades competentes\n\n1 - O acompanhamento e controlo da aplicação das normas previstas no presente diploma compete à Direção-Geral de Alimentação e Veterinária (DGAV), de acordo com a sua missão e legais atribuições estabelecidas no Decreto Regulamentar n.º 31/2012, de 13 de março, alterado pelo Decreto-Lei n.º 109/2013, de 1 de agosto.\n\n2 - Sem prejuízo da competência atribuída por lei a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do presente decreto-lei, bem como a instrução e decisão dos processos de contraordenação, nos termos do artigo 9.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+  },
+  "153136744": {
+   "fragment_id": "153181200",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução e decisão dos processos de contraordenação",
+   "in_force_from": "2015-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+   ],
+   "markdown": "###### Artigo 9.º — Instrução e decisão dos processos de contraordenação\n\n1 - A entidade que levantar o auto de notícia remete o mesmo à ASAE para instrução do competente processo.\n\n2 - A aplicação das coimas e sanções acessórias compete ao Inspetor-Geral da ASAE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+  },
+  "153136745": {
+   "fragment_id": "153181201",
+   "type": 11,
+   "heading": "Artigo 10.º — Destino das coimas",
+   "in_force_from": "2015-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+   ],
+   "markdown": "###### Artigo 10.º — Destino das coimas\n\nO produto das coimas é repartido da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 10 % para a entidade que procede à instrução;\n\nd) 20 % para a entidade que decide.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+  },
+  "153136732": {
+   "fragment_id": "153181204",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - João Luís Mota de Campos - Armando José Cordeiro Sevinante Pinto.\n\nPromulgado em 5 de Setembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Setembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "153136746": {
+   "fragment_id": "153181206",
+   "type": 14,
+   "heading": "Anexo II — Critérios de composição dos méis",
+   "in_force_from": "2015-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+   ],
+   "markdown": "## Anexo II — Critérios de composição dos méis\n\nO mel é constituído essencialmente por diversos açúcares, predominando a glucose e a frutose, assim como por outras substâncias tais como ácidos orgânicos, enzimas e partículas sólidas provenientes da sua colheita.\n\nA cor do mel pode variar de uma tonalidade quase incolor a castanho-escuro.\n\nNo que respeita à consistência, pode apresentar-se fluido, espesso ou parcial ou totalmente cristalizado.\n\nO sabor e o aroma variam consoante a origem vegetal.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, não pode ter sido adicionado ao mel nenhum ingrediente alimentar, incluindo aditivos alimentares, nem outras adições para além do mel.\n\nO mel deve estar isento, na medida do possível, de matérias orgânicas ou inorgânicas estranhas à sua composição.\n\nCom excepção da categoria referida no n.º 3 do anexo I, o mel não deve apresentar sabores ou cheiros estranhos, nem ter começado a fermentar, nem apresentar uma acidez modificada artificialmente, nem ter sido aquecido de modo que as enzimas naturais sejam destruídas ou consideravelmente inactivadas.\n\nSem prejuízo do disposto na subalínea viii) da alínea b) do n.º 2 do anexo I, não pode ser retirado ao mel o pólen nem nenhum dos seus constituintes próprios, exceto quando tal for inevitável no processo de eliminação de matérias orgânicas ou inorgânicas estranhas.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, o mel deve obedecer aos seguintes critérios de composição:\n\n1 - Teor de açúcares:\n\n1.1 - Teor de frutose e glucose (total dos dois):\n\n- Mel de néctar - no mínimo 60 g/100 g;\n\n- Mel de melada e misturas de mel de melada com mel de néctar - no mínimo 45 g/100 g;\n\n1.2 - Teor de sacarose:\n\n- Em geral - no máximo 5 g/100 g;\n\nRobinia pseudoacacia (falsa acácia), Medicago sativa (luzerna ou alfalfa), Banksia menziesii (Mensies Banksia), Hedysarum (hedisaro), Eucalyptus camadulensis, Eucryphia lucida, Eucryphia milliganii, Citrus spp. (citrinos) - no máximo 10 g/100 g;\n\n- Lavandula spp.(rosmaninho, alfazema), Borago officinalis (borragem) - no máximo 15 g/100 g.\n\n2 - Teor de água:\n\n- Em geral - no máximo 20%;\n\n- Mel de urze (Calluna) e mel para uso industrial em geral - no máximo 23%;\n\n- Mel de urze (Calluna) para uso industrial - no máximo 25%.\n\n3 - Teor de matérias insolúveis na água:\n\n- Em geral - no máximo 0,1 g/100 g;\n\n- Mel prensado - no máximo 0,5 g/100 g.\n\n4 - Condutividade eléctrica:\n\n- Mel não enumerado a seguir e misturas desses méis - no máximo 0,8 mS/cm;\n\n- Mel de melada, mel de flores de castanheiro e misturas desses méis, excepto com os a seguir enumerados - no mínimo 0,8 mS/cm;\n\n- Excepções: Arbutus unedo (medronheiro), Erica (erica), Eucalyptus (eucalipto), Tilia spp. (tília), Calluna vulgaris (torga ordinária), Leptospermum (leptospermo), Melaleuca spp. (melaleuca).\n\n5 - Ácidos livres:\n\n- Em geral - no máximo 50 miliequivalentes de ácidos por 1000 g;\n\n- Mel para uso industrial - no máximo 80 miliequivalentes de ácidos por 1000 g.\n\n6 - Índice diastásico e teor de hidroximetilfurfural (HMF), determinados após tratamento e mistura:\n\na) Índice diastásico (escala de Schade):\n\n- Em geral, com excepção do mel para uso industrial - no mínimo 8;\n\n- Méis com baixo teor natural de enzimas (por exemplo, méis de citrinos) e teor de HMF não superior a 15 mg/kg - no mínimo 3.\n\nb) HMF:\n\n- Em geral, com excepção do mel para uso industrial - no máximo 40 mg/kg [sem prejuízo do disposto na alínea a), segundo travessão];\n\n- Mel de origem declarada de regiões de clima tropical e misturas desses méis - no máximo 80 mg/kg.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+  },
+  "153136747": {
+   "fragment_id": "153181195",
+   "type": 11,
+   "heading": "Artigo 4.º — Rotulagem",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2021 - Diário da República n.º 4/2021, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2021-153138206), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+   ],
+   "markdown": "###### Artigo 4.º — Rotulagem\n\nA rotulagem dos produtos abrangidos por este diploma obedece ao disposto na legislação em vigor sobre rotulagem de géneros alimentícios, observando-se ainda o seguinte:\n\n1 - O termo «mel» é aplicado apenas ao produto definido no n.º 1 do anexo I e deve ser utilizado no comércio para designar esse produto.\n\n2 - As denominações de venda a que se referem os n.os 2 e 3 do anexo I são reservadas aos produtos nele definidos e devem ser utilizadas no comércio para designar esses produtos.\n\n3 - As denominações de venda a que se refere o número anterior podem ser substituídas pela simples denominação «mel», excepto no caso do mel filtrado, do mel em favos, do mel com pedaços de favos e do mel para uso industrial.\n\n4 - No caso de utilização de mel para uso industrial como ingrediente de um género alimentício composto, o termo «mel» pode constar da denominação de venda desse género alimentício, em vez de «mel para uso industrial», devendo constar da lista de ingredientes a denominação completa referida no n.º 3 do anexo I.\n\n5 - O mel para uso industrial deve conter na respectiva rotulagem, na proximidade da denominação de venda, a expressão «Apenas para uso culinário».\n\n6 - Salvo no que se refere ao mel filtrado e ao mel para uso industrial, as denominações de venda podem ser completadas por indicações que façam referência:\n\na) À origem floral ou vegetal do produto, se este provier total ou principalmente da origem indicada e possuir as características organolépticas, físico-químicas e microscópicas próprias de tal origem;\n\nb) À origem regional, territorial ou topográfica do produto, se este provier na sua totalidade da origem indicada;\n\nc) A critérios de qualidade específicos.\n\n7 - Na rotulagem dos produtos a que se refere o presente diploma deve figurar a indicação do país ou países de origem em que o mel foi colhido.\n\n8 - Caso o mel seja originário de um ou vários Estados membros ou países terceiros, a indicação a que se refere o número anterior pode ser substituída por uma das seguintes indicações, consoante o caso:\n\na) 'Mistura de méis UE';\n\nb) 'Mistura de méis não UE';\n\nc) 'Mistura de méis UE e não UE'.\n\n9 - O disposto no número anterior não se aplica nos casos em que o mel seja embalado em território nacional sendo originário de um ou vários Estados-Membros ou países terceiros, aplicando-se, nesses casos, o disposto no n.º 7.\n\n10 - As indicações a que se referem os n.os 7, 8 e 9 são consideradas menções obrigatórias de rotulagem.\n\n11 - O pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente, na aceção da alínea f) do n.º 2 do artigo 2.º do Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, dos produtos referidos no anexo I.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2021 - Diário da República n.º 4/2021, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2021-153138206), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+  },
+  "156398090": {
+   "fragment_id": "153181198",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A produção ou a comercialização do produtos definidos no anexo I sem as características fixadas no anexo II;\n\nb) A falta, inexactidão ou deficiência das menções de rotulagem previstas no artigo 4.º deste diploma;\n\nc) A não indicação da denominação exigida nos termos do artigo 5.º\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156398091": {
+   "fragment_id": "153181201",
+   "type": 11,
+   "heading": "Artigo 10.º — Destino das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+   ],
+   "markdown": "###### Artigo 10.º — Destino das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+  },
+  "153136748": {
+   "fragment_id": "153181215",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Reconhecimento mútuo",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2021 - Diário da República n.º 4/2021, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2021-153138206), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 10.º-A — Reconhecimento mútuo\n\nO disposto no presente decreto-lei não prejudica a livre circulação dos produtos que sejam legalmente produzidos ou comercializados nos outros Estados-Membros da União Europeia ou que sejam legalmente produzidos nos países da Associação Europeia de Comércio Livre, que são Partes Contratantes do Acordo sobre o Espaço Económico Europeu (Acordo EEE), incluindo os produtos legalmente fabricados ou comercializados na Turquia, na medida em que tais produtos não acarretem um risco para a saúde ou a vida das pessoas conforme o artigo 36.º do Tratado sobre o Funcionamento da União Europeia e do artigo 13.º do Acordo EEE.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2021 - Diário da República n.º 4/2021, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2021-153138206), em vigor a partir de 2021-07-01"
+  },
+  "153136749": {
+   "fragment_id": "153181202",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 131/85, de 29 de Abril."
+  },
+  "153136750": {
+   "fragment_id": "153181203",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma transitória\n\n1 - A partir de 1 de Agosto de 2004 é proibida a comercialização de produtos não conformes com as regras fixadas neste diploma.\n\n2 - Os méis rotulados antes de 1 de Agosto de 2004 que estejam conformes com o Decreto-Lei n.º 131/85, de 29 de Abril, podem ser comercializados até ao esgotamento das suas existências."
+  },
+  "153136751": {
+   "fragment_id": "153181204",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - João Luís Mota de Campos - Armando José Cordeiro Sevinante Pinto.\n\nPromulgado em 5 de Setembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Setembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "153136752": {
+   "fragment_id": "153181205",
+   "type": 14,
+   "heading": "Anexo I — Denominações, descrições e definições dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Denominações, descrições e definições dos produtos\n\n1 - Mel - substância açucarada natural produzida pelas abelhas da espécie Apis mellifera a partir do néctar de plantas ou das secreções provenientes de partes vivas das plantas ou de excreções de insectos sugadores de plantas que ficam sobre partes vivas das plantas, que as abelhas recolhem, transformam por combinação com substâncias específicas próprias, depositam, desidratam, armazenam e deixam amadurecer nos favos da colmeia.\n\n2 - Principais tipos de mel:\n\na) Consoante a origem:\n\ni) Mel de néctar ou mel de flores - mel obtido a partir do néctar das plantas;\n\nii) Mel de melada - mel obtido principalmente a partir de excreções de insectos sugadores de plantas (hemiptera) que ficam sobre as partes vivas das plantas ou de secreções provenientes de partes vivas das plantas.\n\nb) Consoante o modo de produção e ou de apresentação:\n\niii) Mel em favos - mel armazenado pelas abelhas nos alvéolos operculados de favos construídos recentemente pelas próprias abelhas ou de finas folhas de cera gravada realizadas exclusivamente com cera de abelha e que não contenham criação vendido em favos inteiros ou em secções de favos;\n\niv) Mel com pedaços de favos - mel que contém um ou vários pedaços de mel em favos;\n\nv) Mel escorrido - mel obtido por escorrimento de favos desoperculados que não contenham criação;\n\nvi) Mel centrifugado - mel obtido por centrifugação de favos desoperculados que não contenham criação;\n\nvii) Mel prensado - mel obtido por compressão de favos que não contenham criação, sem aquecimento ou com aquecimento moderado de 45ºC, no máximo;\n\nviii) Mel filtrado - mel obtido por um processo de eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição que retire uma parte importante do pólen.\n\n3 - Mel para uso industrial:\n\nMel:\n\na) Próprio para usos industriais ou como ingrediente de outros géneros alimentícios transformados; e\n\nb) Que pode:\n\nApresentar um sabor ou cheiro anormal; ou\n\nTer começado a fermentar ou ter fermentado; ou\n\nTer sido sobreaquecido."
+  },
+  "153136753": {
+   "fragment_id": "153181206",
+   "type": 14,
+   "heading": "Anexo II — Critérios de composição dos méis",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+   ],
+   "markdown": "## Anexo II — Critérios de composição dos méis\n\nO mel é constituído essencialmente por diversos açúcares, predominando a glucose e a frutose, assim como por outras substâncias tais como ácidos orgânicos, enzimas e partículas sólidas provenientes da sua colheita.\n\nA cor do mel pode variar de uma tonalidade quase incolor a castanho-escuro.\n\nNo que respeita à consistência, pode apresentar-se fluido, espesso ou parcial ou totalmente cristalizado.\n\nO sabor e o aroma variam consoante a origem vegetal.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, não pode ter sido adicionado ao mel nenhum ingrediente alimentar, incluindo aditivos alimentares, nem outras adições para além do mel.\n\nO mel deve estar isento, na medida do possível, de matérias orgânicas ou inorgânicas estranhas à sua composição.\n\nCom excepção da categoria referida no n.º 3 do anexo I, o mel não deve apresentar sabores ou cheiros estranhos, nem ter começado a fermentar, nem apresentar uma acidez modificada artificialmente, nem ter sido aquecido de modo que as enzimas naturais sejam destruídas ou consideravelmente inactivadas.\n\nSem prejuízo do disposto na subalínea viii) da alínea b) do n.º 2 do anexo I, não pode ser retirado ao mel o pólen nem nenhum dos seus constituintes próprios, exceto quando tal for inevitável no processo de eliminação de matérias orgânicas ou inorgânicas estranhas.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, o mel deve obedecer aos seguintes critérios de composição:\n\n1 - Teor de açúcares:\n\n1.1 - Teor de frutose e glucose (total dos dois):\n\n- Mel de néctar - no mínimo 60 g/100 g;\n\n- Mel de melada e misturas de mel de melada com mel de néctar - no mínimo 45 g/100 g;\n\n1.2 - Teor de sacarose:\n\n- Em geral - no máximo 5 g/100 g;\n\nRobinia pseudoacacia (falsa acácia), Medicago sativa (luzerna ou alfalfa), Banksia menziesii (Mensies Banksia), Hedysarum (hedisaro), Eucalyptus camadulensis, Eucryphia lucida, Eucryphia milliganii, Citrus spp. (citrinos) - no máximo 10 g/100 g;\n\n- Lavandula spp.(rosmaninho, alfazema), Borago officinalis (borragem) - no máximo 15 g/100 g.\n\n2 - Teor de água:\n\n- Em geral - no máximo 20%;\n\n- Mel de urze (Calluna) e mel para uso industrial em geral - no máximo 23%;\n\n- Mel de urze (Calluna) para uso industrial - no máximo 25%.\n\n3 - Teor de matérias insolúveis na água:\n\n- Em geral - no máximo 0,1 g/100 g;\n\n- Mel prensado - no máximo 0,5 g/100 g.\n\n4 - Condutividade eléctrica:\n\n- Mel não enumerado a seguir e misturas desses méis - no máximo 0,8 mS/cm;\n\n- Mel de melada, mel de flores de castanheiro e misturas desses méis, excepto com os a seguir enumerados - no mínimo 0,8 mS/cm;\n\n- Excepções: Arbutus unedo (medronheiro), Erica (erica), Eucalyptus (eucalipto), Tilia spp. (tília), Calluna vulgaris (torga ordinária), Leptospermum (leptospermo), Melaleuca spp. (melaleuca).\n\n5 - Ácidos livres:\n\n- Em geral - no máximo 50 miliequivalentes de ácidos por 1000 g;\n\n- Mel para uso industrial - no máximo 80 miliequivalentes de ácidos por 1000 g.\n\n6 - Índice diastásico e teor de hidroximetilfurfural (HMF), determinados após tratamento e mistura:\n\na) Índice diastásico (escala de Schade):\n\n- Em geral, com excepção do mel para uso industrial - no mínimo 8;\n\n- Méis com baixo teor natural de enzimas (por exemplo, méis de citrinos) e teor de HMF não superior a 15 mg/kg - no mínimo 3.\n\nb) HMF:\n\n- Em geral, com excepção do mel para uso industrial - no máximo 40 mg/kg [sem prejuízo do disposto na alínea a), segundo travessão];\n\n- Mel de origem declarada de regiões de clima tropical e misturas desses méis - no máximo 80 mg/kg.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+  },
+  "993773630": {
+   "fragment_id": "153181192",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei transpõe para a ordem jurídica interna a Diretiva 2001/110/CE do Conselho, de 20 de dezembro, relativa ao mel, na redação conferida pela Diretiva 2014/63/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e pela Diretiva (UE) 2024/1438 do Parlamento Europeu e do Conselho, de 14 de maio de 2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29"
+  },
+  "993773631": {
+   "fragment_id": "153181195",
+   "type": 11,
+   "heading": "Artigo 4.º — Rotulagem",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2021 - Diário da República n.º 4/2021, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2021-153138206), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+   ],
+   "markdown": "###### Artigo 4.º — Rotulagem\n\nA rotulagem dos produtos abrangidos pelo presente diploma obedece ao disposto no Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, observando-se ainda o seguinte:\n\n1 - O termo «mel» é aplicado apenas ao produto definido no n.º 1 do anexo I e deve ser utilizado no comércio para designar esse produto.\n\n2 - As denominações de venda a que se referem os n.os 2 e 3 do anexo I são reservadas aos produtos nele definidos e devem ser utilizadas no comércio para designar esses produtos.\n\n3 - As denominações de venda a que se refere o número anterior podem ser substituídas pela simples denominação ‘mel’, exceto no caso do mel em favos, do mel com pedaços de favos e do mel para uso industrial.\n\n4 - No caso de utilização de mel para uso industrial como ingrediente de um género alimentício composto, o termo «mel» pode constar da denominação de venda desse género alimentício, em vez de «mel para uso industrial», devendo constar da lista de ingredientes a denominação completa referida no n.º 3 do anexo I.\n\n5 - O mel para uso industrial deve conter na respectiva rotulagem, na proximidade da denominação de venda, a expressão «Apenas para uso culinário».\n\n6 - Salvo no que se refere ao mel para uso industrial, as denominações de venda podem ser completadas por indicações que façam referência:\n\na) À origem floral ou vegetal do produto, se este provier total ou principalmente da origem indicada e possuir as características organolépticas, físico-químicas e microscópicas próprias de tal origem;\n\nb) À origem regional, territorial ou topográfica do produto, se este provier na sua totalidade da origem indicada;\n\nc) A critérios de qualidade específicos.\n\n7 - Na rotulagem dos produtos a que se refere o presente diploma deve figurar a indicação do país de origem em que o mel foi colhido.\n\n8 - Sempre que o mel seja originário de mais de um país, os países de origem onde tenha sido colhido devem ser obrigatoriamente indicados no rótulo, no campo visual principal, por ordem decrescente da sua percentagem em peso, acompanhados da indicação percentual correspondente a cada país.\n\n9 - (Revogada.)\n\n11 - No que diz respeito ao mel colocado no mercado no território nacional, se o número de países de origem for superior a quatro e as quatro maiores partes representarem conjuntamente mais de 50 % da mistura, é permitido indicar apenas esses quatro países com a respetiva percentagem e mencionar os restantes países de origem, por ordem decrescente, sem indicação de percentagem.\n\n12 - No caso de embalagens contendo quantidades líquidas de mel inferiores a 30 gramas, os nomes dos países de origem podem ser substituídos por um código de duas letras, em conformidade com a última versão da norma internacional ISO 3166-1, código de duas letras (alfa-2), em vigor.\n\n13 - As indicações a que se referem os n.os 7, 8 e 10 a 12 são consideradas menções obrigatórias de rotulagem.\n\n14 - O pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente, na aceção da alínea f) do n.º 2 do artigo 2.º do Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, dos produtos referidos no anexo I.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2021 - Diário da República n.º 4/2021, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2021-153138206), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+  },
+  "993773632": {
+   "fragment_id": "153181196",
+   "type": 11,
+   "heading": "Artigo 5.º — Mel para uso industrial",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29"
+   ],
+   "markdown": "###### Artigo 5.º — Mel para uso industrial\n\nNo caso do mel para uso industrial, os recipientes de mel a granel, as embalagens e os documentos comerciais devem indicar claramente a denominação de venda completa referida no n.º 3 do anexo i.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29"
+  },
+  "993773633": {
+   "fragment_id": "153181198",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29",
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A produção ou a comercialização do produtos definidos no anexo I sem as características fixadas no anexo II;\n\nb) A falta, inexactidão ou deficiência das menções de rotulagem previstas no artigo 4.º deste diploma;\n\nc) A não indicação da denominação exigida nos termos do artigo 5.º\n\nd) A ausência de evidência técnica documentada que comprove a inevitabilidade da remoção de pólen ou de constituintes próprios do mel, nos termos do anexo ii.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "993773636": {
+   "fragment_id": "153181205",
+   "type": 14,
+   "heading": "Anexo I — Denominações, descrições e definições dos produtos",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29"
+   ],
+   "markdown": "## Anexo I — Denominações, descrições e definições dos produtos\n\n1 - Mel - substância açucarada natural produzida pelas abelhas da espécie Apis mellifera a partir do néctar de plantas ou das secreções provenientes de partes vivas das plantas ou de excreções de insectos sugadores de plantas que ficam sobre partes vivas das plantas, que as abelhas recolhem, transformam por combinação com substâncias específicas próprias, depositam, desidratam, armazenam e deixam amadurecer nos favos da colmeia.\n\n2 - Principais tipos de mel:\n\na) Consoante a origem:\n\ni) Mel de néctar ou mel de flores - mel obtido a partir do néctar das plantas;\n\nii) Mel de melada - mel obtido principalmente a partir de excreções de insectos sugadores de plantas (hemiptera) que ficam sobre as partes vivas das plantas ou de secreções provenientes de partes vivas das plantas.\n\nb) Consoante o modo de produção e ou de apresentação:\n\niii) Mel em favos - mel armazenado pelas abelhas nos alvéolos operculados de favos construídos recentemente pelas próprias abelhas ou de finas folhas de cera gravada realizadas exclusivamente com cera de abelha e que não contenham criação vendido em favos inteiros ou em secções de favos;\n\niv) Mel com pedaços de favos - mel que contém um ou vários pedaços de mel em favos;\n\nv) Mel escorrido - mel obtido por escorrimento de favos desoperculados que não contenham criação;\n\nvi) Mel centrifugado - mel obtido por centrifugação de favos desoperculados que não contenham criação;\n\nvii) Mel prensado - mel obtido por compressão de favos que não contenham criação, sem aquecimento ou com aquecimento moderado de 45ºC, no máximo;\n\nviii) (Revogada.)\n\n3 - Mel para uso industrial:\n\nMel:\n\na) Próprio para usos industriais ou como ingrediente de outros géneros alimentícios transformados; e\n\nb) Que pode:\n\nApresentar um sabor ou cheiro anormal; ou\n\nTer começado a fermentar ou ter fermentado; ou\n\nTer sido sobreaquecido; ou\n\nTer sido obtido por um processo de eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição que retire uma parte importante do pólen.\n\n> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29"
+  },
+  "993773637": {
+   "fragment_id": "153181206",
+   "type": 14,
+   "heading": "Anexo II — Critérios de composição dos méis",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+   ],
+   "markdown": "## Anexo II — Critérios de composição dos méis\n\nO mel é constituído essencialmente por diversos açúcares, predominando a glucose e a frutose, assim como por outras substâncias tais como ácidos orgânicos, enzimas e partículas sólidas provenientes da sua colheita.\n\nA cor do mel pode variar de uma tonalidade quase incolor a castanho-escuro.\n\nNo que respeita à consistência, pode apresentar-se fluido, espesso ou parcial ou totalmente cristalizado.\n\nO sabor e o aroma variam consoante a origem vegetal.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, não pode ter sido adicionado ao mel nenhum ingrediente alimentar, incluindo aditivos alimentares, nem outras adições para além do mel.\n\nO mel deve estar isento, na medida do possível, de matérias orgânicas ou inorgânicas estranhas à sua composição.\n\nCom excepção da categoria referida no n.º 3 do anexo I, o mel não deve apresentar sabores ou cheiros estranhos, nem ter começado a fermentar, nem apresentar uma acidez modificada artificialmente, nem ter sido aquecido de modo que as enzimas naturais sejam destruídas ou consideravelmente inactivadas.\n\nNão pode ser retirado ao mel o pólen nem nenhum dos seus constituintes próprios, exceto quando tal for inevitável no processo de eliminação de matérias orgânicas ou inorgânicas estranhas.\n\nSempre que ocorra essa remoção, o operador económico deve apresentar evidência técnica documentada que comprove a inevitabilidade da operação, garantindo que não foram introduzidas alterações que comprometam a autenticidade e a rastreabilidade do produto.\n\nQuando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, o mel deve obedecer aos seguintes critérios de composição:\n\n1 - Teor de açúcares:\n\n1.1 - Teor de frutose e glucose (total dos dois):\n\n- Mel de néctar - no mínimo 60 g/100 g;\n\n- Mel de melada e misturas de mel de melada com mel de néctar - no mínimo 45 g/100 g;\n\n1.2 - Teor de sacarose:\n\n- Em geral - no máximo 5 g/100 g;\n\nRobinia pseudoacacia (falsa acácia), Medicago sativa (luzerna ou alfalfa), Banksia menziesii (Mensies Banksia), Hedysarum (hedisaro), Eucalyptus camadulensis, Eucryphia lucida, Eucryphia milliganii, Citrus spp. (citrinos) - no máximo 10 g/100 g;\n\n- Lavandula spp.(rosmaninho, alfazema), Borago officinalis (borragem) - no máximo 15 g/100 g.\n\n2 - Teor de água:\n\n- Em geral - no máximo 20%;\n\n- Mel de urze (Calluna) e mel para uso industrial em geral - no máximo 23%;\n\n- Mel de urze (Calluna) para uso industrial - no máximo 25%.\n\n3 - Teor de matérias insolúveis na água:\n\n- Em geral - no máximo 0,1 g/100 g;\n\n- Mel prensado - no máximo 0,5 g/100 g.\n\n4 - Condutividade eléctrica:\n\n- Mel não enumerado a seguir e misturas desses méis - no máximo 0,8 mS/cm;\n\n- Mel de melada, mel de flores de castanheiro e misturas desses méis, excepto com os a seguir enumerados - no mínimo 0,8 mS/cm;\n\n- Excepções: Arbutus unedo (medronheiro), Erica (erica), Eucalyptus (eucalipto), Tilia spp. (tília), Calluna vulgaris (torga ordinária), Leptospermum (leptospermo), Melaleuca spp. (melaleuca).\n\n5 - Ácidos livres:\n\n- Em geral - no máximo 50 miliequivalentes de ácidos por 1000 g;\n\n- Mel para uso industrial - no máximo 80 miliequivalentes de ácidos por 1000 g.\n\n6 - Índice diastásico e teor de hidroximetilfurfural (HMF), determinados após tratamento e mistura:\n\na) Índice diastásico (escala de Schade):\n\n- Em geral, com excepção do mel para uso industrial - no mínimo 8;\n\n- Méis com baixo teor natural de enzimas (por exemplo, méis de citrinos) e teor de HMF não superior a 15 mg/kg - no mínimo 3.\n\nb) HMF:\n\n- Em geral, com excepção do mel para uso industrial - no máximo 40 mg/kg [sem prejuízo do disposto na alínea a), segundo travessão];\n\n- Mel de origem declarada de regiões de clima tropical e misturas desses méis - no máximo 80 mg/kg.\n\n> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 136/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2025-992627248), em vigor a partir de 2025-12-29\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207), em vigor a partir de 2015-07-12"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:205644588:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-205740118",
+ "dre_path": "/dr/detalhe/portaria/7-2023-205644588",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-01-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "205740050",
+    "205740051",
+    "205740052",
+    "205740053",
+    "205740054"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:206037170:por",
+     "title": "Declaração de Retificação n.º 1/2023",
+     "published": "2023-01-13",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/1-2023-206037170",
+     "date": "2023-01-04"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "205740050": {
+   "fragment_id": "205740119",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 7/2023\n\nde 3 de janeiro\n\nSumário: Altera a Portaria n.º 426/2012, de 28 de dezembro, que regulamenta o Decreto-Lei n.º 94/2012, de 20 de abril, que revê o regime das taxas incidentes sobre os vinhos e produtos vínicos.\n\nO crescimento de que têm sido objeto os produtos vínicos com denominação de origem (DO) ou indicação geográfica (IG), bem como o resultado da implementação da nova organização institucional do setor, com as novas exigências decorrentes do Decreto-Lei n.º 61/2020, de 18 de agosto, impuseram um sensível incremento das atividades das comissões vitivinícolas regionais (CVR), tanto enquanto entidades gestoras (EG) das DO e IG como nas suas funções de certificação e, ainda, nas funções que, por determinação legal, exercem por conta e em proveito do Instituto da Vinha e do Vinho, I. P. (IVV), enquanto entidade coordenadora do setor, como é o caso da cobrança junto do operador e posterior entrega ao IVV da taxa de coordenação e controlo e de promoção, previstas nos artigos 2.º e 11.º do Decreto-Lei n.º 94/2012, de 20 de abril, respetivamente.\n\nPerante este incremento do esforço e dos custos de contexto da atividade, indo ao encontro das necessidades manifestadas pelo setor, importa ajustar os termos e valor da contrapartida devida pelo exercício de tais tarefas, que as CVR, enquanto EG, devem assegurar.\n\nDeste modo, procede-se ao ajustamento da contrapartida definida no artigo 5.º da Portaria n.º 426/2012, de 28 de dezembro, por referência ao serviço prestado e tendo em consideração dois critérios: a) um primeiro, que representa uma contrapartida de igual montante para todas as EG, para compensação do custo fixo mínimo que qualquer das entidades se vê obrigada a suportar para realizar a tarefa de cobrança, liquidação e entrega da taxa de coordenação, e que se fixa em 10 % da totalidade do montante da taxa de coordenação e controlo anualmente entregue pelas EG (ou entidades certificadoras) ao IVV; b) um segundo critério, que corresponde à contrapartida pelo encargo que cada EG, especificamente e em concreto, suporta com aquela tarefa, determinado em função da respetiva dimensão e que se fixa no valor de 20 % do montante da taxa de coordenação e controlo cobrada e entregue por cada EG ao IVV.\n\nTambém se pretende retirar a obrigatoriedade da indicação da capacidade nominal, ou gama de capacidades nominais da embalagem, nos selos a que se refere a alínea a) do n.º 1 do artigo 3.º do Decreto-Lei n.º 94/2012, de 20 de abril, e, por outro lado, permitir à EG da respetiva DO ou IG tornar a suprarreferida indicação da capacidade, ou gama de capacidades, não obrigatória, no caso dos selos a que se refere a alínea a) do n.º 1 do artigo 9.º do referido decreto-lei, permitindo, assim, a desburocratização e redução de custos no processo de elaboração de selos, bem como o reforço da autorregulação, com uma maior flexibilidade das EG, na lógica do Decreto-Lei n.º 61/2020, de 18 de agosto.\n\nAssim, manda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do n.º 3 do artigo 13.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 94/2012, de 20 de abril, no âmbito das competências delegadas na alínea d) do n.º 2.1 do Despacho n.º 6620/2022, de 18 de maio, publicado no Diário da República, 2.ª série, n.º 101, de 25 de maio de 2022, o seguinte:"
+  },
+  "205740051": {
+   "fragment_id": "205740120",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à primeira alteração à Portaria n.º 426/2012, de 28 de dezembro, que regulamenta o Decreto-Lei n.º 94/2012, de 20 de abril."
+  },
+  "205740052": {
+   "fragment_id": "205740121",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 426/2012, de 28 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 426/2012, de 28 de dezembro\n\nOs artigos 5.º e 7.º da Portaria n.º 426/2012, de 28 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\nConstitui receita das EG (entidades certificadoras), como contrapartida pelo serviço de cobrança, liquidação e entrega das taxas de coordenação e controlo e de promoção previstas nos n.os 1 e 2 do artigo 13.º do Decreto-Lei n.º 94/2012, de 20 de abril:\n\na) 10 % da totalidade da receita anual da taxa de coordenação e controlo entregue no IVV pelas EG (entidades certificadoras), repartida, em montantes iguais, por todas as EG e que se destina a compensar o custo fixo mínimo necessário à realização do serviço de cobrança, liquidação e entrega dessas mesmas taxas de coordenação e controlo e de promoção;\n\nb) 20 % do montante da taxa de coordenação e controlo que cada EG (entidade certificadora) entrega anualmente ao IVV, por referência ao custo específico e individualizado, determinado em função da respetiva dimensão e suportado pelo serviço de cobrança, liquidação e entrega das taxas de coordenação e controlo e de promoção ao IVV.\n\nArtigo 7.º\n\n[...]\n\n1 - Os selos a que se refere a alínea a) do n.º 1 do artigo 3.º e a alínea a) do n.º 1 do artigo 9.º do Decreto-Lei n.º 94/2012, de 20 de abril, devem conter as seguintes menções obrigatórias:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) (Revogada.)\n\n2 - Os selos a que se refere a alínea a) do n.º 1 do artigo 9.º do Decreto-Lei n.º 94/2012, de 20 de abril, devem ainda conter a menção da capacidade normal, ou gama de capacidades nominais, da embalagem, exceto quando as entidades gestoras das DO e IG decidam pela não obrigatoriedade desta menção, sem prejuízo de serem assegurados todos os mecanismos de controlo.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)\n\na) [...]\n\nb) [...]\n\nc) [...]\n\n7 - A decisão a que se refere o n.º 2 do presente artigo deve ser comunicada ao IVV pela respetiva entidade gestora, para efeitos de publicação por aviso na 2.ª série do Diário da República.»"
+  },
+  "205740053": {
+   "fragment_id": "205740122",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a alínea d) do n.º 1 do artigo 7.º da Portaria n.º 426/2012, de 28 de dezembro."
+  },
+  "205740054": {
+   "fragment_id": "205740123",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023."
+  }
+ }
+}

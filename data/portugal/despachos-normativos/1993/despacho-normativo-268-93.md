@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:659964:por
+title: Despacho Normativo n.º 268/93
+short_title: null
+summary: Aprova o Regulamento de Estágio de Ingresso nas Carreiras dos Grupos de Pessoal Técnico Superior e de Pessoal Técnico
+  da Secretaria-Geral e Centro de Documentação e Informação da Presidência da República
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 268/93
+official_date: null
+publication_date: '1993-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/1993, Série I-B de 1993-09-15
+  number: '217'
+  series: I
+  supplement: null
+  pages: 5002 - 5003
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/09/217b00/50025003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/268/1993/09/15/p/dre/pt/html
+  oj: null
+  dre: '659964'
+  dre_path: /dr/detalhe/despacho-normativo/268-1993-659964
+  internal: pt:dre:659964:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/268-1993-659964
+  metadata_url: https://data.dre.pt/eli/despnorm/268/1993/09/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/268-1993-659964
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-09-15T00:00:00Z'
+integrity:
+  source_sha256: 8d99da41124e22ac61f9079dfb0addc054867d50a13d56215b41a50b00671b72
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-268-659964.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Presidência da República
+- Estágio de Formação
+- Regulamento de Estágio
+relationships: []
+article_structure:
+  article_count: 13
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 268/93
+
+Ao abrigo dos n.os 9 e 10 do artigo 26.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, e em cumprimento das regras contidas no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, é aprovado o Regulamento de Estágio de Ingresso nas Carreiras dos Grupos de Pessoal Técnico Superior e de Pessoal Técnico da Secretaria-Geral e Centro de Documentação e Informação da Presidência da República, anexo ao presente despacho e que dele faz parte integrante.
+
+Presidência do Conselho de Ministros, 16 de Agosto de 1993. - O Secretário de Estado da Presidência do Conselho de Ministros, Paulo Jorge de Assunção Rodrigues Teixeira Pinto.
+
+Regulamento de Estágio de Ingresso nas Carreiras dos Grupos de Pessoal Técnico Superior e de Pessoal Técnico da Secretaria-Geral e Centro de Documentação e Informação da Presidência da República.
+
+### CAPÍTULO I — Âmbito de aplicação e objectivo
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se a todos os estagiários das carreiras técnica superior e técnica com vista ao provimento definitivo na respectiva categoria de ingresso dos grupos de pessoal técnico superior e de pessoal técnico dos quadros de pessoal dos seguintes serviços da Presidência da República:
+
+Secretaria-Geral;
+
+Centro de Documentação e Informação.
+
+###### Artigo 2.º — Objectivo
+
+O estágio tem como objectivo a preparação e formação dos estagiários com vista ao desempenho competente e eficaz das funções para que foram recrutados e a avaliação da respectiva capacidade de adaptação.
+
+### CAPÍTULO II — Da realização do estágio
+
+###### Artigo 3.º — Natureza e duração do estágio
+
+O estágio tem carácter probatório e a duração de 12 meses.
+
+###### Artigo 4.º — Programa de estágio
+
+O programa de estágio constará de despacho do dirigente máximo do serviço ou organismo relativamente a cada uma das áreas a que se destina o recrutamento.
+
+###### Artigo 5.º — Plano de estágio
+
+1 - O estágio compreenderá duas fases, sendo uma de sensibilização e a outra teórico-prática.
+
+2 - A fase de sensibilização destina-se ao estabelecimento de um contacto inicial com os serviços, traduzindo-se num processo de acolhimento do estagiário, o qual deverá abranger o conhecimento das atribuições e competências do organismo, das respectivas unidades orgânicas, seu funcionamento e modos de interacção, proporcionando-se ainda ao estagiário uma visão geral dos direitos e deveres dos funcionários da Administração Pública.
+
+3 - A fase teórico-prática destina-se a:
+
+a) Proporcionar ao estagiário uma visão mais pormenorizada das competências do serviço em que é colocado, sua articulação com os restantes serviços e organismos e fornecer os conhecimentos básicos indispensáveis ao exercício das respectivas funções;
+
+b) Contribuir para a aquisição de métodos de trabalho e de estudo com vista a um desenvolvimento e actualização permanentes;
+
+c) Servir para analisar a capacidade de adaptação à função.
+
+###### Artigo 6.º — Orientador de estágio
+
+1 - O estágio decorrerá sob a orientação de um dirigente do serviço onde o estagiário irá desempenhar funções ou, na sua falta, pelo coordenador da respectiva área funcional.
+
+2 - Ao orientador do estágio compete:
+
+a) Definir o plano de formação e submetê-lo à aprovação do dirigente máximo;
+
+b) Acompanhar o desenvolvimento do estágio, atribuindo ao estagiário tarefas gradativamente de maior dificuldade e responsabilidade;
+
+c) Avaliar o resultado das acções de formação profissional através da sua aplicação no exercício das funções cometidas ao estagiário;
+
+d) Participar como notador na atribuição da classificação de serviço relativa ao período de estágio.
+
+### CAPÍTULO III — Da avaliação e classificação final
+
+###### Artigo 7.º — Elementos de avaliação
+
+A avaliação e classificação final terá em atenção o relatório do estágio a apresentar por cada estagiário, a classificação de serviço relativa ao período de estágio e os cursos de formação que eventualmente tenham tido lugar.
+
+###### Artigo 8.º — Relatório de estágio
+
+1 - O relatório de estágio deverá ser apresentado ao júri de avaliação final até 10 dias úteis contados a partir do final do período de estágio.
+
+2 - Na avaliação do relatório de estágio constituem parâmetros de ponderação obrigatórios a estrutura, a criatividade, a profundidade de análise, a capacidade de síntese, a forma de expressão escrita e a clareza de exposição.
+
+3 - A nota final será dada numa escala de 0 a 20 valores.
+
+###### Artigo 9.º — Classificação de serviço
+
+1 - A classificação de serviço, a atribuir com observância das regras previstas no Regulamento da Classificação de Serviço na Função Pública, aprovado pelo Decreto Regulamentar n.º 44-B/83, de 1 de Junho, terá em conta a actividade desenvolvida e os conhecimentos profissionais adquiridos durante a realização do estágio, designadamente em acções de formação profissional.
+
+2 - Competirá ao dirigente máximo do serviço designar os notadores para proceder à notação do estagiário, devendo entre eles estar obrigatoriamente o orientador de estágio.
+
+3 - O processo de classificação de serviço referente ao período de apreciação será feito utilizando a ficha n.º 5 prevista no n.º 2 do artigo 6.º do Decreto Regulamentar n.º 44-B/83, de 1 de Junho, cujos factores serão objecto de menção meramente qualitativa, e tem o seu início nos primeiros dois dias úteis subsequentemente ao termo do estágio.
+
+###### Artigo 10.º — Classificação final
+
+A classificação final traduzir-se-á numa escala de 0 a 20 valores e resultará de uma média aritmética ou ponderada das pontuações obtidas em:
+
+Relatório de estágio;
+
+Classificação de serviço;
+
+Curso(s) de formação, caso se tenha(m) realizado.
+
+###### Artigo 11.º — Ordenação final dos estagiários
+
+Os estagiários serão ordenados pelo júri em função da classificação final de estágio, não se considerando aprovados os que tiverem obtido classificação inferior a Bom (14 valores).
+
+###### Artigo 12.º — Constituição e funcionamento do júri
+
+1 - A constituição e funcionamento do júri obedece às regras previstas na lei geral respeitante aos júris de concurso.
+
+2 - O orientador do estágio deve fazer sempre parte dos elementos efectivos do júri.
+
+###### Artigo 13.º — Homologação, publicação e recurso da lista de classificação final
+
+Em matéria de homologação, publicitação e recurso da lista de classificação final aplicam-se as regras previstas na lei geral respeitante ao regime de recrutamento e selecção de pessoal para os quadros da Administração Pública, constante do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.

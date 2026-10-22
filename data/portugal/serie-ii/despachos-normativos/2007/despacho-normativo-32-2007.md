@@ -1,0 +1,293 @@
+---
+schema_version: '1.0'
+id: pt:dre:3202525:por
+title: Despacho Normativo n.º 32/2007
+short_title: null
+summary: Definição do modelo sócio-educativo da Casa Pia de Lisboa, I. P.
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social - Gabinete do Ministro
+proposing_entity: null
+official_number: 32/2007
+official_date: null
+publication_date: '2007-09-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/2007, Série II de 2007-09-04
+  number: '170'
+  series: II
+  supplement: null
+  pages: 25575 - 25576
+  pdf_url: https://files.diariodarepublica.pt/2s/2007/09/170000000/2557525576.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3202525'
+  dre_path: /dr/detalhe/despacho-normativo/32-2007-3202525
+  internal: pt:dre:3202525:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-2007-3202525
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-2007-3202525
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-12-27T00:00:00Z'
+integrity:
+  source_sha256: f71f082d79d4e8c9018d430011d606abec58087951f1073608942075a1cd8412
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-32-3202525.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:3442880:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 32/2007
+
+Os objectivos e princípios orientadores do processo de reestruturação da Casa Pia de Lisboa, I. P., foram definidos através da [Resolução do Conselho de Ministros n.º 2/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2006-168222), publicada no Diário da República, 1.ª série-B, n.º 5, de 6 de Janeiro de 2006, enquadrada pelo relatório intitulado "Um projecto de esperança" elaborado pelo conselho técnico-científico.
+
+É missão da Casa Pia de Lisboa, I. P., a promoção dos direitos e a protecção das crianças e jovens, sobretudo das que se encontram em perigo e em risco de exclusão, de forma a assegurar o seu desenvolvimento integral, através do acolhimento, educação, formação e inserção social e profissional.
+
+A definição de um novo modelo estratégico de gestão, no quadro do processo de mudança, estabelece a prioridade da concepção do modelo sócio-educativo da Casa Pia de Lisboa, I. P., estruturado nos valores fundacionais da instituição, traduzindo a relevância da acção social enquanto matriz de toda a intervenção institucional.
+
+A Comissão Europeia tem vindo a alertar os Estados membros no sentido de procederem à reforma dos sistemas de educação e formação, no quadro sustentado da aprendizagem ao longo da vida, com o objectivo de prolongar a escolaridade obrigatória até aos doze anos. O Programa do XVII Governo Constitucional, integrando a orientação referenciada, promove a ideia de que a "educação é um factor insubstituível da democracia e do desenvolvimento".
+
+A Casa Pia de Lisboa, I. P., alinha o seu modelo de desenvolvimento, face a um futuro actual mais global e mais exigente, assimilando esta ideia motriz de educação, no quadro da sociedade de informação e do conhecimento promotora da coesão social e do desenvolvimento tecnológico.
+
+O modelo sócio-educativo elege a participação como o valor, sustentado por uma perspectiva integradora e personalizada, conducente ao sucesso do projecto de desenvolvimento pessoal de cada criança e jovem.
+
+A criança e o jovem são sujeitos, de direitos e de deveres, com competências, que influenciam a intervenção institucional. Os recursos promotores da excelência do modelo sócio-educativo facilitarão a adequação dos princípios às necessidades de cada educando, que se concretizará através de projectos de desenvolvimento pessoal.
+
+O modelo sócio-educativo integra as respostas sociais, educativas e formativas decorrentes das seguintes linhas orientadoras:
+
+a) Intervenção focalizada nas crianças e nos jovens;
+
+b) Responsabilização participada dos educandos, da família, dos agentes sócio-educativos e da sociedade;
+
+c) Flexibilização e concepção de novas respostas;
+
+d) Promoção da intervenção precoce;
+
+e) Garantia da inovação e da excelência.
+
+Assim, ao abrigo dos n.os 1 e 2 do artigo 22.º do [Decreto-Lei n.º 211/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2006-545639), de 27 de Outubro, determino:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma estabelece o modelo sócio-educativo da Casa Pia de Lisboa, adiante designada por CPL, I. P., nomeadamente no que concerne ao desenvolvimento de respostas sociais, educativas e formativas.
+
+2 - A CPL, I. P., tem por missão integrar crianças e jovens, em particular as que se encontram em perigo e em risco de exclusão e com necessidades educativas especiais, assente em percursos de aprendizagem inclusivos, considerando:
+
+a) O acolhimento como transitório e o retorno ao meio familiar no centro da intervenção institucional;
+
+b) A escolaridade prolongada;
+
+c) A formação inicial qualificante de dupla certificação, de acordo com o Catálogo Nacional de Qualificações, com as necessárias adaptações;
+
+d) A relevância da intervenção com educandos surdos e surdos-cegos.
+
+3 - As respostas do modelo sócio-educativo são definidas, no presente diploma, sem prejuízo de outras supervenientes que possam vir a ser estabelecidas, para a prossecução da missão e atribuições da CPL, I. P.
+
+###### Artigo 2.º — Princípios gerais
+
+O modelo sócio-educativo da CPL, I. P., subordina-se aos seguintes princípios gerais:
+
+a) Participação - desenvolvimento de metodologias que garantam o envolvimento dos diversos intervenientes no processo sócio-educativo, de forma a assegurar respostas de excelência e a integral co-responsabilização daqueles no projecto de desenvolvimento pessoal de cada criança e jovem;
+
+b) Integração - promoção de intervenções integradas, de natureza social, educativa e formativa, em contexto sistémico de participação dos diversos intervenientes, recursos e estratégias adoptadas;
+
+c) Flexibilidade - adequação dos referenciais sociais, educativos e formativos, definidos em regulamentação própria, às necessidades específicas dos educandos e suas famílias;
+
+d) Adaptabilidade - garantia de respostas individualizadas adequadas ao perfil de cada educando e sua família;
+
+e) Precocidade - incentivo da intervenção precoce junto de cada educando e sua família, assegurando a promoção da inclusão e da aprendizagem ao longo da vida;
+
+f) Empreendedorismo - exercício de uma cultura de iniciativa, participação e responsabilidade, sustentada na criatividade, para a construção de uma cidadania plena.
+
+###### Artigo 3.º — Cultura de participação
+
+1 - Para o sucesso do modelo sócio-educativo da CPL, I. P., é determinante a participação das crianças, jovens e suas famílias, dos agentes sócio-educativos e da sociedade.
+
+2 - Compete à CPL, I. P., desenvolver estratégias e dinamizar acções conducentes à concretização da participação, no âmbito de:
+
+a) Crianças e dos jovens - promoção de atitudes sociais e profissionais de iniciativa, de associativismo, de responsabilização, desenvolvendo uma cidadania activa e solidária;
+
+b) Famílias - desenvolvimento de competências parentais, prevenindo situações de institucionalização ou favorecendo o retorno ao meio familiar, com o reconhecimento do direito e do dever de intervenção no projecto de desenvolvimento pessoal do educando, e favorecendo o associativismo;
+
+c) Agentes sócio-educativos - responsabilização dos profissionais na definição e implementação do projecto de desenvolvimento pessoal de cada criança e jovem;
+
+d) Sociedade - participação na avaliação contínua do modelo sócio-educativo, num processo de melhoria sistemática, para a excelência.
+
+###### Artigo 4.º — Concepção, desenvolvimento e reconhecimento
+
+1 - O desenvolvimento do modelo sócio-educativo, centrado nos educandos e suas famílias, de forma a sustentar o seu desenvolvimento integral, privilegia os seguintes eixos de acção:
+
+a) No quadro global da intervenção social da CPL, I. P., são assegurados os direitos e a protecção dos educandos em perigo e em risco de exclusão e com necessidades educativas especiais, promovendo a construção de projectos de desenvolvimento pessoal facilitadores de autonomia;
+
+b) No domínio da informação e orientação escolar e profissional, são promovidas estratégias que privilegiam uma tomada de decisão sustentada relativamente ao percurso de vida;
+
+c) Ao nível da concepção das respostas educativas e formativas, são privilegiados os referenciais e programas que adoptem uma lógica modular de aquisição, validação e certificação de competências;
+
+d) No âmbito da organização das respostas educativas e formativas, são assegurados mecanismos de mobilidade e de certificação de competências adquiridas.
+
+2 - As tecnologias de informação e comunicação, a cultura, as artes, o desporto, a saúde e segurança e a dimensão social e humana são áreas de competência transversais no domínio do modelo sócio-educativo.
+
+3 - A CPL, I. P., diligencia o reconhecimento, validação e certificação das respostas sociais, educativas e formativas.
+
+###### Artigo 5.º — Qualidade, inovação e avaliação
+
+1 - Compete à CPL, I. P., promover um processo sistemático de avaliação da qualidade do modelo sócio-educativo, a nível interno e externo, garantindo a inovação e a excelência no desempenho organizacional.
+
+2 - Para efeitos do disposto no número anterior, são desenvolvidos processos que assegurem:
+
+a) A implementação integrada de respostas sociais, educativas e formativas de qualidade;
+
+b) A constituição e funcionamento de equipas de excelência;
+
+c) A optimização de recursos financeiros, físicos e materiais;
+
+d) O incentivo à inovação e à investigação;
+
+e) A construção de um sistema de desenvolvimento de competências e de avaliação de desempenho.
+
+###### Artigo 6.º — Respostas do modelo sócio-educativo
+
+1 - A CPL, I. P., desenvolve uma intervenção sustentada, com os educandos e suas famílias, assente numa lógica integrada e personalizada, conducente a projectos de desenvolvimento pessoais de sucesso, sustentados no valor do exercício de cidadania solidária e responsável.
+
+2 - Constituem respostas de qualidade do modelo sócio-educativo, sem prejuízo de outras que vierem a ser definidas em regulamentação própria:
+
+a) No âmbito das respostas sociais:
+
+i) Residência de acolhimento;
+
+ii) Unidade de emergência;
+
+iii) Unidade terapêutica e de socialização;
+
+iv) Apartamento de autonomização;
+
+v) Acolhimento familiar;
+
+vi) Centros de férias e de lazer;
+
+vii) Centro comunitário;
+
+viii) Apoio à inserção familiar;
+
+b) No âmbito das respostas educativas e formativas:
+
+i) Creche;
+
+ii) Educação pré-escolar;
+
+iii) Ensino básico;
+
+iv) Ensino secundário artístico;
+
+v) Educação especial;
+
+vi) Formação inicial qualificante de dupla certificação;
+
+vii) Especialização tecnológica;
+
+viii) Actividades de enriquecimento do currículo;
+
+ix) Apoio à inserção profissional.
+
+3 - É reconhecida à CPL, I. P., tendo em vista garantir a adequação das respostas do modelo sócio-educativo ao perfil dos educandos, o direito de proceder, pela forma legal apropriada, num quadro de inovação:
+
+a) À organização de novas respostas sociais específicas e diferenciadas no contexto das problemáticas emergentes;
+
+b) À reorganização dos conteúdos curriculares segundo estruturas modulares;
+
+c) À concepção de espaços curriculares mais alargados;
+
+d) Ao desenho de um modelo de informação e orientação escolar e profissional;
+
+e) À concepção de um modelo de inserção profissional.
+
+4 - A CPL, I. P., promove respostas educativas e formativas, de acordo com a evolução das necessidades do mercado de emprego, em especial, nas seguintes áreas:
+
+a) Artes do espectáculo;
+
+b) Animação social;
+
+c) Áudio-visuais e produção dos média;
+
+d) História e arqueologia;
+
+e) Gestão e administração;
+
+f) Ciências informáticas;
+
+g) Metalurgia e metalomecânica;
+
+h) Microtecnologias;
+
+i) Electricidade e energia;
+
+j) Electrónica e automação;
+
+k) Materiais;
+
+l) Serviços de apoio a crianças e jovens;
+
+m) Trabalho social e orientação;
+
+n) Hotelaria e restauração;
+
+o) Turismo e lazer;
+
+p) Serviços domésticos;
+
+q) Protecção do ambiente;
+
+r) Segurança e higiene no trabalho.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.
+
+15 de Agosto de 2007. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.

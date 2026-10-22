@@ -1,0 +1,156 @@
+---
+schema_version: '1.0'
+id: pt:dre:544826:por
+title: Decreto Regulamentar n.º 20/2006
+short_title: null
+summary: Determina a suspensão parcial do Plano Director Municipal de Matosinhos na área destinada à construção dos pólos
+  de Gonçalves e de Gatões/Guifões da Plataforma Logística Portuária de Leixões
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 20/2006
+official_date: null
+publication_date: '2006-11-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 224/2006, Série I de 2006-11-21
+  number: '224'
+  series: I
+  supplement: null
+  pages: 7977 - 7978
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/11/22400/79777978.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/20/2006/11/21/p/dre/pt/html
+  oj: null
+  dre: '544826'
+  dre_path: /dr/detalhe/decreto-regulamentar/20-2006-544826
+  internal: pt:dre:544826:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-2006-544826
+  metadata_url: https://data.dre.pt/eli/decregul/20/2006/11/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-2006-544826
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-11-21T00:00:00Z'
+integrity:
+  source_sha256: 0206e4c1ed78891e2a455894a956d090aa25d5c0499a4c506637141b040297a9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-20-544826.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Plano Director Municipal
+- Matosinhos
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/10/2002/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/10/2002/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/105/2002/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/105/2002/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/18/2006/02/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2006/02/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/35/2003/03/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/35/2003/03/12/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 20/2006
+
+de 21 de Novembro
+
+A área da mobilidade e comunicação foi inscrita no Programa do XVII Governo Constitucional como uma das cinco áreas decisivas para alcançar um desenvolvimento sustentável.
+
+Entre os objectivos fixados para o sector dos transportes neste âmbito contam-se a diminuição dos custos totais de transporte - mediante o fomento e reforço da intermodalidade e da utilização racional dos modos de transporte e ligações de maior eficiência -, e, por outro lado, a integração de forma eficiente das redes de transportes ibéricas, europeias e transatlânticas, reforçando a competitividade nacional e o papel de Portugal como plataforma logística no espaço europeu e mundial.
+
+Entre as medidas a tomar, inscreve-se a definição de uma grande plataforma logística na Área Metropolitana do Porto, potenciadora do funcionamento eficaz da rede nacional e internacional de transporte de mercadorias e acessibilidades rodo-ferroviárias adequadas.
+
+A Plataforma Logística Portuária de Leixões tirará partido da proximidade existente entre o Aeroporto Francisco Sá Carneiro e o Porto de Leixões e adoptará uma configuração polinucleada para aproveitar melhor os solos ainda disponíveis que apresentam características físicas e de localização com interesse.
+
+Constatando-se que os pólos da Plataforma Logística Portuária de Leixões projectados para Gonçalves e para Gatões/Guifões - de acordo com a planta de ordenamento do Plano Director Municipal de Matosinhos, ratificado pelo despacho n.º 92/92, do Ministro do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 266, de 17 de Novembro de 1992, alterado pela deliberação da Assembleia Municipal de 20 de Setembro de 2001, publicada no Diário da República, 2.ª série, de 16 de Novembro de 2001, e pelas Resoluções do Conselho de Ministros n.os [10/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2002-234510), [105/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2002-172315), [35/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-2003-214724) e [18/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2006-545190), respectivamente de 15 de Janeiro, de 21 de Agosto, de 12 de Março e de 1 de Fevereiro, se encontram localizados em «Área exclusiva de armazenagem a descoberto», em «Área verde, de parque e cortina de protecção ambiental» e em «Área predominantemente industrial», verifica-se uma incompatibilidade com os usos que ora se pretende atribuir àquelas parcelas de terreno.
+
+Embora já tenha tido início o processo de revisão do Plano Director Municipal de Matosinhos, o carácter de urgência da construção dos pólos de Gonçalves e de Guifões é incompatível com a conclusão do respectivo procedimento.
+
+A implementação da Plataforma Logística Portuária de Leixões é de reconhecido e relevante interesse regional e nacional.
+
+Foi ouvida a Câmara Municipal de Matosinhos.
+
+Assim:
+
+Ao abrigo da alínea a) do n.º 2 do artigo 100.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção que lhe foi conferida pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Suspensão
+
+São suspensos pelo prazo de dois anos, na área delimitada na planta anexa ao presente decreto regulamentar, que dele faz parte integrante, os artigos 25.º da base 2.4, 28.º da base 2.5, 32.º da base 2.7, 42.º da base 2.9 e 51.º da base 4, todos do Regulamento do Plano Director Municipal de Matosinhos, ratificado pelo despacho n.º 92/92, do Ministro do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 266, de 17 de Novembro de 1992, alterado pela deliberação da Assembleia Municipal de 20 de Setembro de 2001, publicada no Diário da República, 2.ª série, de 16 de Novembro de 2001, e pelas Resoluções do Conselho de Ministros n.os [10/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2002-234510), [105/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2002-172315), [35/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-2003-214724) e [18/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2006-545190), respectivamente de 15 de Janeiro, de 21 de Agosto, de 12 de Março e de 1 de Fevereiro.
+
+###### Artigo 2.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 3 de Agosto de 2006. - António Luís Santos Costa - António Luís Santos Costa - Humberto Delgado Ubach Chaves Rosa - Mário Lino Soares Correia.
+
+**Promulgado em 25 de Outubro de 2006.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 27 de Outubro de 2006.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22400/79777978.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22400/79777978.pdf)

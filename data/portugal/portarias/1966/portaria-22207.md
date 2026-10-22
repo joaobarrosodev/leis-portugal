@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:480493:por
+title: Portaria n.º 22207
+short_title: null
+summary: Cria a Comissão Interministerial de Saúde e Sanidade Veterinária, destinada a estudar e coordenar a actividade da
+  Direcção-Geral de Saúde e da Direcção-Geral dos Serviços Pecuários no que se refere à defesa de saúde pública - Extingue
+  a comissão mista dos funcionários das referidas Direcções-Gerais, criada pela portaria inserta no Diário do Governo n.º
+  286, 2.ª série, de 11 de Dezembro de 1950
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e da Saúde e Assistência - Secretaria de Estado da Agricultura
+proposing_entity: null
+official_number: '22207'
+official_date: null
+publication_date: '1966-09-12'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 212/1966, Série I de 1966-09-12
+  number: '212'
+  series: I
+  supplement: null
+  pages: 1483 - 1484
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/09/21200/14831484.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '480493'
+  dre_path: /dr/detalhe/portaria/22207-1966-480493
+  internal: pt:dre:480493:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22207-1966-480493
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22207-1966-480493
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-09-12T00:00:00Z'
+integrity:
+  source_sha256: 009c5ebe7334a39fcc3d7e3345915c5589862d25fc6629b6493cafdabcc08fa5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-22207-480493.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22207
+
+A defesa da saúde pública, para ser efectiva, exige o permanente concurso de diversos departamentos do Estado e uma estreita colaboração daqueles que têm por missão específica intervir em matéria sanitária.
+
+Com esse objectivo e para protecção e promoção da saúde humana se tem mantido, desde há anos, uma proveitosa cooperação entre as Direcções-Gerais de Saúde e dos Serviços Pecuários. E da intervenção conjunta dos respectivos técnicos surtiram resultados muito apreciáveis.
+
+Como exemplo, pode citar-se a comissão mista de funcionários técnicos dos dois departamentos, incumbida de estudar, num plano de conjunto, as medidas profilácticas atinentes ao combate das androzoonoses denominadas bruceloses, instituída por portaria dos Ministérios do Interior e da Economia de 11 de Dezembro de 1950.
+
+As presentes circunstâncias epidemiológicas aconselham a actualização das medidas que a mencionada portaria se propôs alcançar e justificam que se crie uma nova comissão de estudo e de coordenação, com atribuições de maior latitude.
+
+Só assim se poderá conjugar a acção dos dois serviços públicos, proporcionando-se-lhes meios de estudarem e resolverem múltiplos problemas sanitários, que requerem mútua intervenção.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência e pelo Secretário de Estado da Agricultura:
+
+1.º É criada a Comissão Interministerial de Saúde e Sanidade Veterinária, com carácter permanente e destinada a estudar e coordenar a actividade da Direcção-Geral de Saúde e da Direcção-Geral dos Serviços Pecuários, no que se refere à defesa de saúde pública.
+
+2.º Incumbe à Comissão:
+
+a) Estudar os problemas sanitários cuja solução dependa da acção das duas Direcções-Gerais e elaborar os planos de actividade coordenada, para execução dos respectivos serviços;
+
+b) Pronunciar-se sobre assuntos de ordem sanitária que lhe sejam submetidos, por intermédio das duas Direcções-Gerais ou por determinação ministerial;
+
+c) Coligir e apreciar elementos relativos à execução dos planos de acção sanitária da sua competência e emitir parecer sobre os resultados obtidos;
+
+d) Submeter a despacho ministerial as suas informações, pareceres, planos e propostas.
+
+3.º A Comissão é composta por igual número de membros das Direcções-Gerais de Saúde e dos Serviços Pecuários e terá a constituição seguinte:
+
+Pela Direcção-Geral de Saúde:
+
+a) O director-geral de Saúde;
+
+b) O director do Instituto Superior de Higiene do Dr. Ricardo Jorge;
+
+c) O director do Serviço Técnico de Profilaxia das Doenças Infecciosas e Sociais.
+
+Pela Direcção-Geral dos Serviços Pecuários:
+
+a) O director-geral dos Serviços Pecuários;
+
+b) O director do Laboratório Nacional de Investigação Veterinária;
+
+c) O chefe da Repartição dos Serviços de Sanidade Pecuária.
+
+4.º A presidência pertence a cada um dos directores-gerais, em regime de rotação anual.
+
+§ único. Nos impedimentos do presidente em exercício, a Comissão é presidida pelo outro director-geral.
+
+5.º No impedimento de qualquer dos membros vogais natos da Comissão, a substituição será feita pelo seu representante hierárquico ou pelo funcionário que seja designado pelo respectivo director-geral.
+
+6.º A Comissão poderá promover a constituição de grupos especializados de trabalho, permanentes ou temporários.
+
+7.º As reuniões terão lugar na direcção-geral a que pertencer o presidente da Comissão em exercício.
+
+8.º Cada director-geral assegurará a secretaria da Comissão durante o período de exercício da presidência, e ambos manterão os seus arquivos privativos, constituídos pelos duplicados ou fotocópias dos documentos existentes.
+
+9.º É extinta a comissão mista dos funcionários técnicos das duas Direcções-Gerais, criada pela portaria publicada no Diário do Governo n.º 286, 2.ª série, de 11 de Dezembro de 1950.
+
+Ministério da Saúde e Assistência e Secretaria de Estado da Agricultura, 12 de Setembro de 1966. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.

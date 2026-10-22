@@ -1,0 +1,187 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114545481:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-119373201",
+ "dre_path": "/dr/detalhe/portaria/25-2018-114545481",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-01-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "128765693",
+    "119379482",
+    "119379483",
+    "119379484",
+    "119379485"
+   ]
+  },
+  {
+   "date": "2019-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:119366210:por",
+     "title": "Portaria n.º 50/2019",
+     "published": "2019-02-08",
+     "dre_path": "/dr/detalhe/portaria/50-2019-119366210"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "119379481",
+    "119379482",
+    "119379500",
+    "119379484",
+    "119379485",
+    "119379486"
+   ]
+  },
+  {
+   "date": "2020-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:128726981:por",
+     "title": "Portaria n.º 30/2020",
+     "published": "2020-01-31",
+     "dre_path": "/dr/detalhe/portaria/30-2020-128726981"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "128765693",
+    "128765694",
+    "128765695",
+    "128765696",
+    "128765697",
+    "128765698"
+   ]
+  }
+ ],
+ "fragments": {
+  "128765693": {
+   "fragment_id": "119373202",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-02-05",
+   "changed_by": [],
+   "markdown": "Portaria n.º 25/2018\n\nde 18 de janeiro\n\nO Decreto-Lei n.º 187/2007, de 10 de outubro, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 167-E/2013, de 31 de dezembro, 8/2015, de 14 de janeiro, 10/2016, de 8 de março, e 126-B/2017, de 6 de outubro, estabelece no n.º 3, do artigo 20.º, que a idade normal de acesso à pensão de velhice após 2014, varia em função da esperança média de vida aos 65 anos de idade verificada entre o segundo e o terceiro ano anteriores ao do início da pensão, de acordo com a fórmula nele prevista.\n\nA idade normal de acesso à pensão deve ser publicitada, através de portaria do membro do Governo responsável pela área da solidariedade e segurança social, no segundo ano imediatamente anterior ao ano a que se reporta, em conformidade com o disposto no n.º 9, do artigo 20.º, do referido decreto-lei.\n\nPor outro lado, o fator de sustentabilidade, previsto no artigo 35.º do citado decreto-lei, elemento do cálculo das pensões de velhice do regime geral de segurança social, atribuídas antes da idade normal de acesso à pensão, tem em conta a evolução da esperança média de vida aos 65 anos entre o ano 2000 e o ano anterior ao do início da pensão.\n\nTendo sido apurado e publicitado pelo Instituto Nacional de Estatística o indicador da esperança média de vida aos 65 anos de idade relativo ao ano de 2017, está o Governo em condições de determinar o fator de sustentabilidade a vigorar durante o ano de 2018, bem como a idade de acesso à pensão de velhice a vigorar em 2019.\n\nAssim, considerando o indicador da esperança média de vida aos 65 anos, verificado em 2000 e em 2017, o fator de sustentabilidade aplicável às pensões de velhice iniciadas em 2018 e atribuídas antes da idade normal de acesso à pensão, é de 0,8550.\n\nPor último, tendo em conta os efeitos da evolução da esperança média de vida aos 65 anos verificada entre 2016 e 2017 na aplicação da fórmula prevista no n.º 3, do artigo 20.º, do Decreto-Lei n.º 187/2007, de 10 de maio, a idade normal de acesso à pensão em 2019 é 66 anos e 5 meses.\n\nAssim:\n\nManda o Governo, pela Secretária de Estado da Segurança Social, no âmbito da competência delegada pelo Despacho n.º 1300/2016, de 13 de janeiro de 2016, publicado no Diário da República, 2.ª série, n.º 18, de 27 de janeiro de 2016, o seguinte:"
+  },
+  "119379482": {
+   "fragment_id": "119373203",
+   "type": 11,
+   "heading": "Artigo 1.º — Idade normal de acesso à pensão de velhice em 2019",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Idade normal de acesso à pensão de velhice em 2019\n\nA idade normal de acesso à pensão de velhice do regime geral de segurança social em 2019, nos termos do disposto no n.º 3, do artigo 20.º, do Decreto-Lei n.º 187/2007, de 10 de maio, na redação dada pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 167-E/2013, de 31 de dezembro, 8/2015, de 14 de janeiro, 10/2016, de 8 de março, e 126-B/2017, de 6 de outubro, é 66 anos e 5 meses."
+  },
+  "119379483": {
+   "fragment_id": "119373204",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nO fator de sustentabilidade aplicável ao montante estatutário das pensões de velhice do regime geral de segurança social atribuídas em 2018, dos beneficiários que acedam à pensão antes da idade normal de acesso à pensão em vigor nesse ano, é de 0,8550."
+  },
+  "119379484": {
+   "fragment_id": "119373205",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogado o artigo 2.º da Portaria n.º 99/2017, de 7 de março."
+  },
+  "119379485": {
+   "fragment_id": "119373206",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir de 1 de janeiro de 2018."
+  },
+  "119379481": {
+   "fragment_id": "119373202",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 25/2018\n\nde 18 de janeiro\n\nO Decreto-Lei n.º 187/2007, de 10 de outubro, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 167-E/2013, de 31 de dezembro, 8/2015, de 14 de janeiro, 10/2016, de 8 de março, e 126-B/2017, de 6 de outubro, estabelece no n.º 3, do artigo 20.º, que a idade normal de acesso à pensão de velhice após 2014, varia em função da esperança média de vida aos 65 anos de idade verificada entre o segundo e o terceiro ano anteriores ao do início da pensão, de acordo com a fórmula nele prevista.\n\nA idade normal de acesso à pensão deve ser publicitada, através de portaria do membro do Governo responsável pela área da solidariedade e segurança social, no segundo ano imediatamente anterior ao ano a que se reporta, em conformidade com o disposto no n.º 9, do artigo 20.º, do referido decreto-lei.\n\nPor outro lado, o fator de sustentabilidade, previsto no artigo 35.º do citado decreto-lei, elemento do cálculo das pensões de velhice do regime geral de segurança social, atribuídas antes da idade normal de acesso à pensão, tem em conta a evolução da esperança média de vida aos 65 anos entre o ano 2000 e o ano anterior ao do início da pensão.\n\nTendo sido apurado e publicitado pelo Instituto Nacional de Estatística o indicador da esperança média de vida aos 65 anos de idade relativo ao ano de 2017, está o Governo em condições de determinar o fator de sustentabilidade a vigorar durante o ano de 2018, bem como a idade de acesso à pensão de velhice a vigorar em 2019.\n\nAssim, considerando o indicador da esperança média de vida aos 65 anos, verificado em 2000 e em 2017, o fator de sustentabilidade aplicável às pensões de velhice iniciadas em 2018 e atribuídas antes da idade normal de acesso à pensão, é de 0,8550.\n\nPor último, tendo em conta os efeitos da evolução da esperança média de vida aos 65 anos verificada entre 2016 e 2017 na aplicação da fórmula prevista no n.º 3, do artigo 20.º, do Decreto-Lei n.º 187/2007, de 10 de maio, a idade normal de acesso à pensão em 2019 é 66 anos e 5 meses.\n\nAssim:\n\nManda o Governo, pela Secretária de Estado da Segurança Social, no âmbito da competência delegada pelo Despacho n.º 1300/2016, de 13 de janeiro de 2016, publicado no Diário da República, 2.ª série, n.º 18, de 27 de janeiro de 2016, o seguinte:"
+  },
+  "119379500": {
+   "fragment_id": "119373204",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": "2019-02-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 50/2019 - Diário da República n.º 28/2019, Série I de 2019-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/50-2019-119366210), em vigor a partir de 2019-02-13, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nO fator de sustentabilidade aplicável ao montante estatutário das pensões de velhice do regime geral de segurança social atribuídas em 2018, dos beneficiários que acedam à pensão antes da idade normal de acesso à pensão em vigor nesse ano, é de 0,8550.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 50/2019 - Diário da República n.º 28/2019, Série I de 2019-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/50-2019-119366210), em vigor a partir de 2019-02-13, produz efeitos a partir de 2019-01-01"
+  },
+  "119379486": {
+   "fragment_id": "119373207",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim, em 29 de dezembro de 2017.\n\n111063152"
+  },
+  "128765694": {
+   "fragment_id": "119373203",
+   "type": 11,
+   "heading": "Artigo 1.º — Idade normal de acesso à pensão de velhice em 2019",
+   "in_force_from": "2020-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Idade normal de acesso à pensão de velhice em 2019\n\nA idade normal de acesso à pensão de velhice do regime geral de segurança social em 2019, nos termos do disposto no n.º 3, do artigo 20.º, do Decreto-Lei n.º 187/2007, de 10 de maio, na redação dada pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 167-E/2013, de 31 de dezembro, 8/2015, de 14 de janeiro, 10/2016, de 8 de março, e 126-B/2017, de 6 de outubro, é 66 anos e 5 meses.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01"
+  },
+  "128765695": {
+   "fragment_id": "119373204",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": "2020-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 50/2019 - Diário da República n.º 28/2019, Série I de 2019-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/50-2019-119366210), em vigor a partir de 2019-02-13, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nO fator de sustentabilidade aplicável ao montante estatutário das pensões de velhice do regime geral de segurança social atribuídas em 2018, dos beneficiários que acedam à pensão antes da idade normal de acesso à pensão em vigor nesse ano, é de 0,8550.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 50/2019 - Diário da República n.º 28/2019, Série I de 2019-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/50-2019-119366210), em vigor a partir de 2019-02-13, produz efeitos a partir de 2019-01-01"
+  },
+  "128765696": {
+   "fragment_id": "119373205",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": "2020-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogado o artigo 2.º da Portaria n.º 99/2017, de 7 de março.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01"
+  },
+  "128765697": {
+   "fragment_id": "119373206",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": "2020-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir de 1 de janeiro de 2018.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01"
+  },
+  "128765698": {
+   "fragment_id": "119373207",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim, em 29 de dezembro de 2017.\n\n111063152\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 30/2020 - Diário da República n.º 22/2020, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/30-2020-128726981), em vigor a partir de 2020-02-05, produz efeitos a partir de 2020-01-01"
+  }
+ }
+}

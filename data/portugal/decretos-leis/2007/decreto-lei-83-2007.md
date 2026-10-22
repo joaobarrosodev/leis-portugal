@@ -1,0 +1,238 @@
+---
+schema_version: '1.0'
+id: pt:dre:520454:por
+title: Decreto-Lei n.º 83/2007
+short_title: null
+summary: Aprova a orgânica do Instituto de Informática
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 83/2007
+official_date: null
+publication_date: '2007-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 63/2007, Série I de 2007-03-29
+  number: '63'
+  series: I
+  supplement: null
+  pages: 1872 - 1873
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18721873.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/83/2007/03/29/p/dre/pt/html
+  oj: null
+  dre: '520454'
+  dre_path: /dr/detalhe/decreto-lei/83-2007-520454
+  internal: pt:dre:520454:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2007-520454
+  metadata_url: https://data.dre.pt/eli/dec-lei/83/2007/03/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2007-520454
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-06-14T00:00:00Z'
+integrity:
+  source_sha256: b520d8c41fd9e55cab2cf93fe55a8c1f9ee7c1601b2f6308f7083eddbeb61f0b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-83-520454.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério das Finanças e da Administração Pública
+- Pessoal Dirigente
+- Definição de Competências
+- Gerap
+- Instituto de Informática
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:411608:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/143/1998/05/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/143/1998/05/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/205/2006/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/205/2006/10/27/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 83/2007
+
+de 29 de Março
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos, com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 205/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2006-545650), de 27 de Outubro, que aprovou a Lei Orgânica do Ministério das Finanças e da Administração Pública (MFAP), avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+O referido decreto-lei preconiza a integração do Instituto de Informática (II) na administração directa do Estado, atribuindo-lhe competências ao nível da definição das políticas e estratégias das tecnologias de informação e comunicação (TIC) do Ministério.
+
+No que se refere à coordenação das TIC no MFAP, salienta-se o papel atribuído ao conselho coordenador, entidade de coordenação sectorial, presidido por um representante do ministro da tutela, onde tomam assento responsáveis do MFAP e a quem cabe aprovar o plano estratégico de TIC para o MFAP e o seu relatório de execução. Desta forma possibilita-se a criação de um verdadeiro fórum de coordenação, o qual possibilita o alinhamento entre os objectivos do Governo, objectivos operacionais dos organismos e os sistemas e tecnologias da informação.
+
+A nova estrutura proposta para o II, cuja actuação surgirá concertada com a DGITA e com a Empresa de Gestão Partilhada de Recursos da Administração Pública (GeRAP), E. P. E., assegurará o desenvolvimento de uma filosofia de partilha de serviços em matérias transversais a todo o ministério, permitindo antever, num futuro próximo, significativos acréscimos de eficiência em relação à importante área do planeamento e gestão de projectos no domínio dos sistemas e tecnologias de informação e comunicação.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+O Instituto de Informática, abreviadamente designado por II, é um serviço central da administração directa do Estado, dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - O II tem por missão apoiar a definição das políticas e estratégias das tecnologias de informação e comunicação (TIC) do Ministério das Finanças e da Administração Pública (MFAP) e garantir o planeamento, concepção, execução e avaliação das iniciativas de informatização e actualização tecnológica dos respectivos serviços e organismos, assegurando uma gestão eficaz e racional dos recursos disponíveis.
+
+2 - O II prossegue as seguintes atribuições:
+
+a) Apoiar a definição da política estratégica de TIC do MFAP, elaborar o respectivo plano estratégico e acompanhar o seu cumprimento;
+
+b) Assegurar a articulação com os organismos com atribuições inter-ministeriais na área das TIC, garantindo a participação em iniciativas de natureza transversal, a aplicação no MFAP de normas e orientações comuns, a utilização de infra-estruturas tecnológicas partilhadas da Administração Pública e a integração em processos aquisitivos agregados com outros ministérios;
+
+c) Definir e controlar o cumprimento de normas e procedimentos relativos à selecção, aquisição e utilização de infra-estruturas tecnológicas e sistemas de informação;
+
+d) Coordenar a realização de projectos no âmbito das tecnologias de informação e de comunicações e assegurar a construção, gestão e operação de sistemas e infra-estruturas na área de actuação do MFAP, em articulação com os organismos;
+
+e) Acompanhar em permanência o desenvolvimento de sistemas de informação e infra-estruturas tecnológicas, de forma a garantir a sua adequação às necessidades dos organismos do ministério e o cumprimento das políticas e normas definidas, promovendo a unificação e racionalização de métodos, processos e infra-estruturas;
+
+f) Administrar bases de dados que, no âmbito do MFAP, lhe sejam cometidas;
+
+g) Prestar serviços a outras entidades, com base em adequados instrumentos contratuais que determinem, designadamente, os níveis de prestação e respectivas contrapartidas.
+
+###### Artigo 3.º — Órgãos
+
+1 - O II é dirigido por um director-geral, coadjuvado por dois subdirectores-gerais.
+
+2 - É ainda órgão do II o conselho coordenador.
+
+###### Artigo 4.º — Director-geral
+
+1 - O cargo de director-geral do II é assegurado, por inerência, pelo presidente do conselho de administração da Empresa de Gestão Partilhada de Recursos da Administração Pública (GeRAP), E. P. E.
+
+2 - O director-geral exerce as competências que lhe sejam cometidas por lei e que nele sejam delegadas ou subdelegadas.
+
+3 - Os subdirectores-gerais exercem as competências que lhe sejam delegadas ou subdelegadas pelo director-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Conselho coordenador
+
+1 - O conselho coordenador é o órgão a quem cabe aprovar o plano estratégico de TIC para o MFAP e o seu relatório de execução, sendo composto por:
+
+a) Um representante do Ministro de Estado e das Finanças, que preside;
+
+b) Representantes, com cargos dirigentes, de todos os organismos da administração directa e indirecta do Estado no âmbito do MFAP.
+
+2 - É designado como vice-presidente o director-geral do II, a quem compete substituir o presidente nas suas faltas e impedimentos e exercer as funções que lhe sejam delegadas.
+
+3 - Compete ao conselho coordenador:
+
+a) Concertar, para os diversos organismos, a definição dos respectivos objectivos em termos de tecnologias de informação, respectivas estratégias e instrumentos para a sua execução;
+
+b) Colaborar na coordenação e articulação global das necessidades de TIC dos diversos organismos;
+
+c) Definir um quadro de referência que permita formular uma visão plurianual na elaboração dos planos de actividades no âmbito das TIC;
+
+d) Elaborar a proposta de orçamento anual e plurianual do investimento em TIC;
+
+e) Acompanhar a execução anual do plano e orçamento de TIC.
+
+###### Artigo 6.º — Tipo de organização interna
+
+A organização interna dos serviços obedece ao seguinte modelo estrutural misto:
+
+a) Nas áreas de actividade de concepção e desenvolvimento de projectos e sistemas informáticos é adoptado o modelo de estrutura matricial;
+
+b) Nas restantes áreas de actividade é adoptado o modelo de estrutura hierarquizada.
+
+###### Artigo 7.º — Receitas
+
+1 - O II dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - O II dispõe ainda das seguintes receitas próprias:
+
+a) As quantias cobradas pela prestação de serviços e venda de produtos, no âmbito das suas atribuições;
+
+b) Quaisquer outras receitas que, por lei, contrato ou qualquer outro título, lhe sejam atribuídas.
+
+3 - As tarifas praticadas pelo II, pela prestação de serviços, são fixadas e periodicamente actualizadas pelo director-geral, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.
+
+4 - As receitas próprias referidas no n.º 2 são consignadas à realização de despesas do II durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+
+###### Artigo 8.º — Despesas
+
+Constituem despesas do II as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 9.º — Quadro de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+
+###### Artigo 10.º — Estatuto remuneratório dos chefes de equipas multidisciplinares
+
+Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a director de serviços ou chefe de divisão, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a director de serviços ser atribuído a mais de uma chefia de equipa em simultâneo.
+
+###### Artigo 11.º — Sucessão
+
+O II sucede nas atribuições do Instituto de Informática, que passa a integrar a administração directa do Estado.
+
+###### Artigo 12.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 143/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1998-524047), de 22 de Maio.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
+
+**Promulgado em 12 de Fevereiro de 2007.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 14 de Fevereiro de 2007.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+## ANEXO — (mapa a que se refere o artigo 9.º)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06300/18721873.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06300/18721873.pdf)

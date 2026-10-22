@@ -1,0 +1,380 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:69920329:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-122242542",
+ "dre_path": "/dr/detalhe/decreto-lei/145-2015-69920329",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122197310",
+    "122197311",
+    "122197312",
+    "122197313",
+    "122197314",
+    "122197315",
+    "122197316",
+    "122197317",
+    "122197318",
+    "122197319",
+    "122197320",
+    "122197321",
+    "122197322",
+    "122197323",
+    "122197324",
+    "122197325",
+    "122197326",
+    "122197327",
+    "122197328",
+    "122197329",
+    "122197330",
+    "122197331",
+    "122197332",
+    "122197333",
+    "122197334"
+   ]
+  },
+  {
+   "date": "2019-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122242530:por",
+     "title": "Decreto-Lei n.º 59/2019",
+     "published": "2019-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/59-2019-122242530"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "122197310",
+    "122197311",
+    "122197312",
+    "122197313",
+    "122197314",
+    "122197315",
+    "122197316",
+    "122197317",
+    "122197318",
+    "122197319",
+    "122197320",
+    "122197321",
+    "122197322",
+    "122197323",
+    "122197324",
+    "122197325",
+    "122197326",
+    "122197327",
+    "122197328",
+    "122197329",
+    "122197330",
+    "122197331",
+    "122197332",
+    "122197336",
+    "122197334",
+    "122197335"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "122197310",
+    "122197311",
+    "122197312",
+    "122197313",
+    "122197314",
+    "122197315",
+    "122197316",
+    "122197317",
+    "122197318",
+    "122197319",
+    "122197320",
+    "122197321",
+    "122197322",
+    "122197323",
+    "156432394",
+    "122197325",
+    "122197326",
+    "122197327",
+    "156432395",
+    "156432396",
+    "122197330",
+    "122197331",
+    "122197332",
+    "122197336",
+    "122197334",
+    "122197335"
+   ]
+  }
+ ],
+ "fragments": {
+  "122197310": {
+   "fragment_id": "122242543",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 145/2015\n\nde 31 de julho\n\nO Regulamento (CE) n.º 1107/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, veio estabelecer o novo enquadramento legal europeu aplicável à colocação dos produtos fitofarmacêuticos no mercado, revogando a Diretiva n.º 79/117/CEE, de 21 de dezembro de 1978, relativa à proibição de colocação no mercado e da utilização de produtos fitofarmacêuticos contendo determinadas substâncias ativas, e a Diretiva n.º 91/414/CEE, do Conselho, de 15 de julho de 1991, relativa à colocação no mercado dos produtos fitofarmacêuticos.\n\nNa aceção do artigo 2.º do referido Regulamento, os produtos fitofarmacêuticos são, na sua essência, produtos que visam proteger os vegetais ou os produtos vegetais contra os organismos nocivos ou prevenir a ação destes organismos, bem como conservar, destruir, limitar ou prevenir o crescimento indesejável dos vegetais.\n\nA Diretiva n.º 79/117/CEE, do Conselho, de 21 de dezembro de 1978, encontra-se transposta para a ordem jurídica interna pelo Decreto-Lei n.º 347/88, de 30 de setembro, que proíbe e disciplina a utilização de produtos fitofarmacêuticos com base em determinadas substâncias ativas.\n\nA Diretiva n.º 91/414/CEE, do Conselho, de 15 de julho de 1991, e suas alterações, encontram a sua consagração no direito nacional no Decreto-Lei n.º 94/98, de 15 de abril, que adotou as normas técnicas de execução referentes à colocação dos produtos fitofarmacêuticos no mercado.\n\nAo abrigo do Regulamento (CE) n.º 1107/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, foram publicados, entre 2011 e 2013, cinco regulamentos de execução que asseguram a sua implementação e que se encontram expressamente refletidos no presente decreto-lei.\n\nDeste modo, e não obstante a aplicação direta na ordem jurídica nacional do Regulamento (CE) n.º 1107/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, e sua regulamentação de execução, assegura-se, através do presente decreto-lei, a correta implementação da legislação europeia na ordem jurídica nacional.\n\nDe salientar, contudo, que, nos termos do disposto no artigo 80.º do Regulamento (CE) n.º 1107/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, a Diretiva n.º 91/414/CEE, do Conselho, de 15 de julho de 1991, permanece transitoriamente aplicável, pelo que importa manter transitoriamente em vigor o Decreto-Lei n.º 94/98, de 15 de abril, para as situações previstas no referido artigo 80.º\n\nForam ouvidos os órgãos de governo próprio das regiões autónomas.\n\nFoi promovida a audição do Conselho Nacional do Consumo, da Associação Nacional de Indústria para a Proteção das Plantas e da Associação de Grossistas de Produtos Químicos e Farmacêuticos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122197311": {
+   "fragment_id": "122242544",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei assegura a execução e garante o cumprimento, na ordem jurídica nacional, das obrigações decorrentes dos seguintes regulamentos:\n\na) Regulamento (CE) n.º 1107/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativo à colocação dos produtos fitofarmacêuticos no mercado, a seguir designado por Regulamento;\n\nb) Regulamento de Execução (UE) n.º 540/2011, da Comissão, de 25 de maio de 2011, que dá execução ao Regulamento, no que diz respeito à lista de substâncias ativas aprovadas, e suas alterações;\n\nc) Regulamento de Execução (UE) n.º 546/2011, da Comissão, de 10 de junho de 2011, que dá execução ao Regulamento, no que diz respeito aos princípios uniformes aplicáveis à avaliação e autorização dos produtos fitofarmacêuticos;\n\nd) Regulamento de Execução (UE) n.º 547/2011, da Comissão, de 8 de junho de 2011, que dá execução ao Regulamento, no que diz respeito aos requisitos de rotulagem dos produtos fitofarmacêuticos;\n\ne) Regulamento (UE) n.º 283/2013, da Comissão, de 1 de março de 2013, que estabelece os requisitos em matéria de dados aplicáveis às substâncias ativas, em conformidade com o Regulamento;\n\nf) Regulamento (UE) n.º 284/2013, da Comissão, de 1 de março de 2013, que estabelece os requisitos em matéria de dados aplicáveis aos produtos fitofarmacêuticos, em conformidade com o Regulamento."
+  },
+  "122197312": {
+   "fragment_id": "122242545",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autoridade competente\n\nA Direção-Geral de Alimentação e Veterinária (DGAV) é a autoridade competente a nível nacional para:\n\na) Assegurar a coordenação e a execução técnica e administrativa relativas à avaliação de substâncias ativas e à concessão de autorização, para a colocação no mercado dos produtos fitofarmacêuticos e dos adjuvantes de produtos fitofarmacêuticos, sua alteração, renovação ou retirada;\n\nb) Autorizar a experimentação de produtos fitofarmacêuticos e avaliar protetores de fitotoxicidade, agentes sinérgicos ou coformulantes;\n\nc) Definir e divulgar, no âmbito do Regulamento e sua regulamentação de execução, a aplicação das medidas transitórias, derrogações ou procedimentos e o estabelecimento dos requisitos e prazos, nomeadamente sobre a forma de despacho, guias ou outros documentos orientadores, necessários à sua aplicabilidade, através de informação divulgada em permanência no seu sítio na Internet, sem prejuízo da utilização de outras formas de comunicação aos interessados."
+  },
+  "122197313": {
+   "fragment_id": "122242546",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorizações de colocação no mercado concedidas ou canceladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorizações de colocação no mercado concedidas ou canceladas\n\n1 - A DGAV emite um título de autorização de colocação no mercado para cada produto fitofarmacêutico ou adjuvante de produtos fitofarmacêuticos.\n\n2 - Os títulos de autorização de colocação no mercado são disponibilizados em permanência no sítio na Internet da DGAV e contêm toda a informação relevante e atualizada, nomeadamente as condições de utilização, sobre cada produto autorizado, excluindo a informação que tiver sido considerada como confidencial, sendo por igual forma fornecida toda a informação relevante sobre as autorizações canceladas."
+  },
+  "122197314": {
+   "fragment_id": "122242547",
+   "type": 11,
+   "heading": "Artigo 4.º — Classificação, embalagem e rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Classificação, embalagem e rotulagem\n\nSem prejuízo do disposto no Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, e no Decreto-Lei n.º 220/2012, de 10 de outubro, que assegura a execução na ordem jurídica interna das obrigações decorrentes daquele Regulamento, os produtos fitofarmacêuticos colocados no mercado devem ainda cumprir com os requisitos de rotulagem estabelecidos no Regulamento de Execução (UE) n.º 547/2011, da Comissão, de 8 de junho de 2011, tal como previsto no n.º 1 do artigo 65.º do Regulamento."
+  },
+  "122197315": {
+   "fragment_id": "122242548",
+   "type": 11,
+   "heading": "Artigo 5.º — Registos e sua conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registos e sua conservação\n\n1 - Os produtores, fornecedores, distribuidores, importadores e exportadores dos produtos fitofarmacêuticos e de adjuvantes que atuem em território nacional devem manter um registo atualizado, informático ou outro, que contenha, nomeadamente as informações relativas às datas de fabrico, de transação e de movimentação para armazenagem e respetivos locais de armazenamento, às quantidades, aos números dos lotes e à proveniência ou destino dos respetivos produtos fitofarmacêuticos.\n\n2 - O registo referido no número anterior compreende ainda toda a informação sobre as remessas de produtos introduzidos no território nacional provenientes de um Estado-Membro ou de país terceiro, bem como sobre as remessas destinadas a um Estado-Membro ou país terceiro, devendo os mesmos ser apresentados, sempre que solicitados, no decurso das ações de monitorização e de controlo oficial a que se refere o artigo 7.º\n\n3 - O registo referido nos números anteriores deve ser conservado durante pelo menos cinco anos pelos produtores, fornecedores, distribuidores, importadores e exportadores dos produtos fitofarmacêuticos e de adjuvantes que atuem em território nacional.\n\n4 - O disposto nos números anteriores não prejudica as obrigações de registo por parte de distribuidores, estabelecimentos de venda e outros utilizadores profissionais de produtos fitofarmacêuticos, nos termos previstos na Lei n.º 26/2013, de 11 abril, que regula as atividades de distribuição, venda e aplicação de produtos fitofarmacêuticos para uso profissional e de adjuvantes de produtos fitofarmacêuticos e define os procedimentos de monitorização à utilização dos produtos fitofarmacêuticos."
+  },
+  "122197316": {
+   "fragment_id": "122242549",
+   "type": 11,
+   "heading": "Artigo 6.º — Dados relativos a vendas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dados relativos a vendas\n\nSem prejuízo do disposto no Regulamento (CE) n.º 1185/2009, do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, cada titular de uma autorização de colocação no mercado de produtos fitofarmacêuticos deve enviar à DGAV, até 1 de abril de cada ano, todos os dados relativos às quantidades, expressas em quilogramas, vendidas no ano anterior, discriminadas por produto fitofarmacêutico e por substância ativa."
+  },
+  "122197317": {
+   "fragment_id": "122242550",
+   "type": 11,
+   "heading": "Artigo 7.º — Controlos oficiais e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Controlos oficiais e monitorização\n\n1 - A DGAV coordena, em articulação com as entidades nacionais competentes, a realização de ações de monitorização e dos controlos oficiais previstos no artigo 68.º do Regulamento.\n\n2 - Os controlos oficiais referidos no número anterior integram ações de monitorização realizadas por técnicos da DGAV, os quais têm, a todo o tempo, livre acesso aos locais das atividades referidas nos artigos 67.º e 68.º do Regulamento.\n\n3 - A DGAV pode submeter a um laboratório oficial de controlo de qualidade ou a um laboratório oficialmente reconhecido pela DGAV, público ou privado, amostras colhidas oficialmente dos produtos fitofarmacêuticos, das matérias-primas ou dos seus produtos intermédios ou outros componentes, em diferentes fases, designadamente para verificar, em ensaio laboratorial, a adequação dos métodos de controlo utilizados pelo fabricante ou de controlo de qualidade."
+  },
+  "122197318": {
+   "fragment_id": "122242551",
+   "type": 11,
+   "heading": "Artigo 8.º — Informações ao centro de informação antivenenos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informações ao centro de informação antivenenos\n\n1 - Cada titular de uma autorização de colocação no mercado de produtos fitofarmacêuticos deve fornecer ao Centro de Informação Antivenenos do Instituto Nacional de Emergência Médica, I. P., informações referentes aos respetivos produtos, incluindo a composição química.\n\n2 - As informações referidas no número anterior são confidenciais e só podem ser utilizadas para responder a qualquer solicitação de ordem médica, com vista à tomada de medidas, tanto preventivas como curativas, nomeadamente de urgência."
+  },
+  "122197319": {
+   "fragment_id": "122242552",
+   "type": 11,
+   "heading": "Artigo 9.º — Experimentação de produtos fitofarmacêuticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Experimentação de produtos fitofarmacêuticos\n\n1 - Os procedimentos necessários ao reconhecimento oficial de organizações que tenham a seu cargo a realização de ensaios de eficácia de produtos fitofarmacêuticos em Portugal, a serem considerados na avaliação biológica e integrados no processo a apresentar para fins de autorização de colocação no mercado e os princípios relativos ao reconhecimento de tais ensaios, são estabelecidos por portaria do membro do Governo responsável pela área da agricultura.\n\n2 - A experimentação de produtos fitofarmacêuticos, incluindo os ensaios de eficácia referidos no número anterior, carece de autorização prévia da DGAV.\n\n3 - Excluem-se da autorização referida no número anterior os produtos autorizados e aplicados de acordo com as condições de autorização de venda."
+  },
+  "122197320": {
+   "fragment_id": "122242553",
+   "type": 11,
+   "heading": "Artigo 10.º — Bolsa de peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Bolsa de peritos\n\n1 - A DGAV cria uma bolsa de peritos para emissão de pareceres e prestação da colaboração considerada adequada pela DGAV para a execução da avaliação de substâncias ativas, produtos fitofarmacêuticos e adjuvantes de produtos fitofarmacêuticos e matérias técnico-científicas relacionadas.\n\n2 - Os requisitos e condições a satisfazer pelos peritos, bem como a sua designação, são objeto de despacho do diretor-geral de alimentação e veterinária.\n\n3 - Os peritos nomeados estão sujeitos ao regime de confidencialidade em relação aos assuntos de que tenham conhecimento no exercício das suas funções e não podem ter quaisquer interesses, diretos e indiretos, relacionados com a atividade fitofarmacêutica, designadamente no âmbito da produção, importação, exportação e comercialização de produtos fitofarmacêuticos, que possam afetar a sua imparcialidade no exercício das funções, devendo aqueles ser declarados e registados na DGAV.\n\n4 - A remuneração dos peritos, que é devida em cada processo em avaliação, e a respetiva forma de pagamento são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da agricultura."
+  },
+  "122197321": {
+   "fragment_id": "122242554",
+   "type": 11,
+   "heading": "Artigo 11.º — Guia relativo à colocação no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Guia relativo à colocação no mercado\n\nSem prejuízo do disposto no artigo 3.º, a DGAV disponibiliza em permanência no seu sítio na Internet o «Guia de procedimentos e orientações para a colocação no mercado dos produtos fitofarmacêuticos no âmbito do Regulamento (CE) n.º 1107/2009»."
+  },
+  "122197322": {
+   "fragment_id": "122242555",
+   "type": 11,
+   "heading": "Artigo 12.º — Validade de autorizações provisórias concedidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Validade de autorizações provisórias concedidas\n\nAs autorizações provisórias de venda de produtos fitofarmacêuticos que se encontram concedidas até à entrada em vigor do presente decreto-lei mantêm a validade de um ano, sendo renováveis por iguais períodos."
+  },
+  "122197323": {
+   "fragment_id": "122242556",
+   "type": 11,
+   "heading": "Artigo 13.º — Desmaterialização de atos e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Desmaterialização de atos e procedimentos\n\n1 - Os pedidos no âmbito dos procedimentos previstos no Regulamento e no presente decreto-lei, bem como quaisquer outras comunicações a eles relativas, são realizados por via eletrónica, através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do Portal do Cidadão, e do sítio na Internet da DGAV.\n\n2 - Quando por motivo de indisponibilidade das plataformas eletrónicas não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser efetuada por qualquer outro meio legal."
+  },
+  "122197324": {
+   "fragment_id": "122242557",
+   "type": 11,
+   "heading": "Artigo 14.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contraordenações\n\n1 - Constituem contraordenações puníveis com coima cujo montante mínimo é de (euro) 1250 e máximo de (euro) 3700, ou mínimo de (euro) 2500 e máximo de (euro) 44 000, consoante o agente seja pessoa singular ou coletiva, as seguintes infrações:\n\na) A colocação no mercado de produtos fitofarmacêuticos e de adjuvantes não autorizados pela DGAV, em violação do disposto no artigo 3.º e dos artigos 28.º e 58.º do Regulamento;\n\nb) A experimentação de produtos fitofarmacêuticos não autorizada pela DGAV, em violação do disposto no n.º 2 do artigo 9.º e do artigo 54.º do Regulamento;\n\nc) O embalamento e a apresentação de produtos fitofarmacêuticos e de adjuvantes colocados no mercado, em violação do disposto nos n.os 1 e 2 do artigo 64.º do Regulamento;\n\nd) A rotulagem de produtos fitofarmacêuticos e de adjuvantes colocados no mercado a que se refere o artigo 4.º, em violação dos requisitos de rotulagem estabelecidos no Regulamento de Execução (UE) n.º 547/2011, da Comissão, de 8 de junho de 2011;\n\ne) A rotulagem de produtos fitofarmacêuticos e de adjuvantes colocados no mercado sem a utilização de frases adicionais nos termos expressamente determinados pela DGAV, em violação do disposto no n.º 3 do artigo 65.º do Regulamento;\n\nf) O não registo pelos produtores, fornecedores, distribuidores, importadores e exportadores dos produtos fitofarmacêuticos e de adjuvantes que atuem em território nacional, bem como a não manutenção desses registos por cinco anos, em violação do disposto no artigo 5.º e no primeiro período do primeiro parágrafo n.º 1 do artigo 67.º do Regulamento;\n\ng) A não disponibilização à DGAV dos registos referidos na alínea anterior, em violação do disposto no segundo parágrafo do n.º 1 do artigo 67.º do Regulamento;\n\nh) A não realização pelos produtores e ou titulares de autorização de colocação no mercado de ações de monitorização, solicitadas pela DGAV, após a concessão de autorizações de colocação no mercado de produtos fitofarmacêuticos e de adjuvantes, bem como a não comunicação àquela entidade dos resultados obtidos, em violação do disposto no n.º 2 do artigo 67.º do Regulamento;\n\ni) A não disponibilização à DGAV pelos titulares das autorizações de colocação no mercado de todos os dados relativos ao volume de vendas dos produtos fitofarmacêuticos e de adjuvantes, em violação do disposto no artigo 6.º e do n.º 3 do artigo 67.º do Regulamento;\n\nj) A publicidade de produtos fitofarmacêuticos e de adjuvantes não autorizados pela DGAV, em violação do disposto no primeiro parágrafo do n.º 1 do artigo 66.º do Regulamento;\n\nk) A publicidade de produtos fitofarmacêuticos e de adjuvantes colocados no mercado, que não obedeça aos requisitos previstos no segundo parágrafo do n.º 1 e nos n.os 2, 4 a 6 do artigo 66.º do Regulamento.\n\n2 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.\n\n3 - A negligência é punível, sendo os limites mínimos e máximos da coima reduzidos para metade."
+  },
+  "122197325": {
+   "fragment_id": "122242558",
+   "type": 11,
+   "heading": "Artigo 15.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sanções acessórias\n\nEm função da gravidade da infração e da culpa do agente, podem ser aplicadas, simultaneamente com as coimas, as seguintes sanções acessórias:\n\na) Perda de objetos pertencentes ao agente;\n\nb) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nc) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nd) Suspensão de autorizações, licenças e alvarás."
+  },
+  "122197326": {
+   "fragment_id": "122242559",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nSem prejuízo da competência atribuída por lei a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das normas do presente decreto-lei."
+  },
+  "122197327": {
+   "fragment_id": "122242560",
+   "type": 11,
+   "heading": "Artigo 17.º — Instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Instrução e decisão\n\n1 - O levantamento dos autos e a instrução dos processos de contraordenação instaurados por infração ao presente decreto-lei competem à ASAE.\n\n2 - A aplicação das coimas e sanções acessórias relativas às infrações previstas nas alíneas a), c), d), e), f), j) e k) do artigo 14.º compete ao inspetor-geral da ASAE.\n\n3 - A aplicação das coimas e sanções acessórias relativas às infrações previstas nas alíneas b), g), h) e i) do artigo 14.º compete ao diretor-geral de alimentação e veterinária."
+  },
+  "122197328": {
+   "fragment_id": "122242561",
+   "type": 11,
+   "heading": "Artigo 18.º — Afetação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Afetação do produto das coimas\n\nO produto das coimas reverte em:\n\na) 60 % para os cofres do Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 20 % para a entidade que instruiu o processo;\n\nd) 10 % para a entidade que aplicou a coima."
+  },
+  "122197329": {
+   "fragment_id": "122242562",
+   "type": 11,
+   "heading": "Artigo 19.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Aplicação subsidiária\n\nÀs contraordenações previstas no presente decreto-lei aplica-se o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "122197330": {
+   "fragment_id": "122242563",
+   "type": 11,
+   "heading": "Artigo 20.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Taxas\n\nPelos serviços prestados e encargos associados previstos no artigo 74.º do Regulamento, são devidas taxas de montante e regime a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da agricultura."
+  },
+  "122197331": {
+   "fragment_id": "122242564",
+   "type": 11,
+   "heading": "Artigo 21.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regiões autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sendo as competências por ele cometidas em matéria de fiscalização à colocação no mercado e à publicidade dos produtos fitofarmacêuticos e dos adjuvantes de produtos fitofarmacêuticos exercidas pelos serviços regionais competentes.\n\n2 - O produto das coimas resultantes das contraordenações previstas no presente decreto-lei, quando aplicadas nas regiões autónomas, constitui receita própria destas."
+  },
+  "122197332": {
+   "fragment_id": "122242565",
+   "type": 11,
+   "heading": "Artigo 22.º — Remissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Remissões\n\nTodas as referências feitas para os diplomas que agora se revogam consideram-se efetuadas para o Regulamento (CE) n.º 1107/2009, do Parlamento e do Conselho, de 21 de outubro de 2009, e para o presente decreto-lei."
+  },
+  "122197333": {
+   "fragment_id": "122242566",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Norma transitória\n\n1 - O Decreto-Lei n.º 94/98, de 15 de abril, mantém-se transitoriamente aplicável às situações previstas no artigo 80.º do Regulamento.\n\n2 - Até à publicação da portaria a que se refere o artigo 9.º, mantém-se aplicável, com as necessárias adaptações, a Portaria n.º 396/2000, de 14 de julho, que estabelece os procedimentos necessários ao reconhecimento oficial de organizações que tenham a seu cargo a realização de ensaios de eficácia de produtos fitofarmacêuticos em Portugal a serem considerados na avaliação biológica e integrados no processo a apresentar para fins de autorização de colocação no mercado e os princípios relativos ao reconhecimento de tais ensaios.\n\n3 - Até à publicação da portaria a que se refere o artigo 20.º, é aplicável, com as necessárias adaptações, para efeitos da aplicação das taxas ali referidas, a Portaria n.º 984/2008, de 2 de setembro, alterada pelas Portarias n.os 622/2009, de 8 de junho, e 8/2010, de 6 de janeiro."
+  },
+  "122197334": {
+   "fragment_id": "122242567",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma revogatória\n\n1 - São revogados:\n\na) Decreto-Lei n.º 47802, de 19 de julho de 1967;\n\nb) Decreto-Lei n.º 347/88, de 30 de setembro;\n\nc) Decreto-Lei n.º 284/94, de 11 de novembro, alterado pelo Decreto-Lei n.º 131/97, de 30 de maio;\n\nd) Decreto-Lei n.º 131/97, de 30 de maio;\n\ne) Portaria n.º 660/88, de 30 de setembro, alterada pela Portaria n.º 489/91, de 4 de junho;\n\nf) Portaria n.º 489/91, de 4 de junho.\n\n2 - Sem prejuízo do disposto no n.º 1 do artigo anterior, é revogado o Decreto-Lei n.º 94/98, de 15 de abril."
+  },
+  "122197336": {
+   "fragment_id": "122242566",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma transitória",
+   "in_force_from": "2019-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 59/2019 - Diário da República n.º 88/2019, Série I de 2019-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2019-122242530), em vigor a partir de 2019-07-01"
+   ],
+   "markdown": "###### Artigo 23.º — Norma transitória\n\n1 - O Decreto-Lei n.º 94/98, de 15 de abril, mantém-se transitoriamente aplicável às situações previstas nos artigos 80.º e 81.º do Regulamento.\n\n2 - Até à publicação da portaria a que se refere o artigo 9.º, mantém-se aplicável, com as necessárias adaptações, a Portaria n.º 396/2000, de 14 de julho, que estabelece os procedimentos necessários ao reconhecimento oficial de organizações que tenham a seu cargo a realização de ensaios de eficácia de produtos fitofarmacêuticos em Portugal a serem considerados na avaliação biológica e integrados no processo a apresentar para fins de autorização de colocação no mercado e os princípios relativos ao reconhecimento de tais ensaios.\n\n3 - Até à publicação da portaria a que se refere o artigo 20.º, é aplicável, com as necessárias adaptações, para efeitos da aplicação das taxas ali referidas, a Portaria n.º 984/2008, de 2 de setembro, alterada pelas Portarias n.os 622/2009, de 8 de junho, e 8/2010, de 6 de janeiro.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 59/2019 - Diário da República n.º 88/2019, Série I de 2019-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2019-122242530), em vigor a partir de 2019-07-01"
+  },
+  "122197335": {
+   "fragment_id": "122242568",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de junho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 26 de julho de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 28 de julho de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "156432394": {
+   "fragment_id": "122242557",
+   "type": 11,
+   "heading": "Artigo 14.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 14.º — Contraordenações\n\n1 - Constituem contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), as seguintes infrações:\n\na) A colocação no mercado de produtos fitofarmacêuticos e de adjuvantes não autorizados pela DGAV, em violação do disposto no artigo 3.º e dos artigos 28.º e 58.º do Regulamento;\n\nb) A experimentação de produtos fitofarmacêuticos não autorizada pela DGAV, em violação do disposto no n.º 2 do artigo 9.º e do artigo 54.º do Regulamento;\n\nc) O embalamento e a apresentação de produtos fitofarmacêuticos e de adjuvantes colocados no mercado, em violação do disposto nos n.os 1 e 2 do artigo 64.º do Regulamento;\n\nd) A rotulagem de produtos fitofarmacêuticos e de adjuvantes colocados no mercado a que se refere o artigo 4.º, em violação dos requisitos de rotulagem estabelecidos no Regulamento de Execução (UE) n.º 547/2011, da Comissão, de 8 de junho de 2011;\n\ne) A rotulagem de produtos fitofarmacêuticos e de adjuvantes colocados no mercado sem a utilização de frases adicionais nos termos expressamente determinados pela DGAV, em violação do disposto no n.º 3 do artigo 65.º do Regulamento;\n\nf) O não registo pelos produtores, fornecedores, distribuidores, importadores e exportadores dos produtos fitofarmacêuticos e de adjuvantes que atuem em território nacional, bem como a não manutenção desses registos por cinco anos, em violação do disposto no artigo 5.º e no primeiro período do primeiro parágrafo n.º 1 do artigo 67.º do Regulamento;\n\ng) A não disponibilização à DGAV dos registos referidos na alínea anterior, em violação do disposto no segundo parágrafo do n.º 1 do artigo 67.º do Regulamento;\n\nh) A não realização pelos produtores e ou titulares de autorização de colocação no mercado de ações de monitorização, solicitadas pela DGAV, após a concessão de autorizações de colocação no mercado de produtos fitofarmacêuticos e de adjuvantes, bem como a não comunicação àquela entidade dos resultados obtidos, em violação do disposto no n.º 2 do artigo 67.º do Regulamento;\n\ni) A não disponibilização à DGAV pelos titulares das autorizações de colocação no mercado de todos os dados relativos ao volume de vendas dos produtos fitofarmacêuticos e de adjuvantes, em violação do disposto no artigo 6.º e do n.º 3 do artigo 67.º do Regulamento;\n\nj) A publicidade de produtos fitofarmacêuticos e de adjuvantes não autorizados pela DGAV, em violação do disposto no primeiro parágrafo do n.º 1 do artigo 66.º do Regulamento;\n\nk) A publicidade de produtos fitofarmacêuticos e de adjuvantes colocados no mercado, que não obedeça aos requisitos previstos no segundo parágrafo do n.º 1 e nos n.os 2, 4 a 6 do artigo 66.º do Regulamento.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156432395": {
+   "fragment_id": "122242561",
+   "type": 11,
+   "heading": "Artigo 18.º — Afetação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 18.º — Afetação do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156432396": {
+   "fragment_id": "122242562",
+   "type": 11,
+   "heading": "Artigo 19.º — Aplicação subsidiária",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 19.º — Aplicação subsidiária\n\nÀs contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.\n\n> Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:424489:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-884567980",
+ "dre_path": "/dr/detalhe/lei/34-1998-424489",
+ "source_lastmod": "2025-06-17",
+ "versions": [
+  {
+   "date": "1998-07-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921826738",
+    "884567888",
+    "884567889",
+    "884567890",
+    "884567891",
+    "884567892",
+    "884567893"
+   ]
+  },
+  {
+   "date": "1998-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:235774:por",
+     "title": "Declaração de Rectificação n.º 17/98",
+     "published": "1998-10-12",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/17-1998-235774"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "921826738",
+    "884567888",
+    "884567889",
+    "884567890",
+    "884567891",
+    "884567892",
+    "884567893",
+    "884567894"
+   ]
+  },
+  {
+   "date": "2004-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:527597:por",
+     "title": "Decreto-Lei n.º 170/2004",
+     "published": "2004-07-16",
+     "dre_path": "/dr/detalhe/decreto-lei/170-2004-527597"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "921826738",
+    "921943085",
+    "884567889",
+    "884567890",
+    "884567891",
+    "884567892",
+    "884567893",
+    "884567894"
+   ]
+  }
+ ],
+ "fragments": {
+  "921826738": {
+   "fragment_id": "884567981",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1998-10-12",
+   "changed_by": [],
+   "markdown": "Lei n.º 34/98\n\nde 18 de Julho\n\nEstabelece um regime excepcional de apoio aos ex-prisioneiros de guerra\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "884567888": {
+   "fragment_id": "884567982",
+   "type": 11,
+   "heading": "Artigo 1.º — Apoio aos ex-prisioneiros de guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Apoio aos ex-prisioneiros de guerra\n\n1 - Aos cidadãos portugueses feitos prisioneiros ou capturados em combate no decurso da guerra nas ex-colónias pode ser concedida, a título de reparação e de reconhecimento público, uma pensão pecuniária mensal e é concedido um regime especial de contagem do tempo passado em cativeiro, nos termos da presente lei.\n\n2 - Podem ser beneficiários da pensão os cidadãos referidos no número anterior e, em caso de falecimento, os beneficiários referidos no n.º 1 do artigo 4.º do Decreto-Lei n.º 404/82, de 24 de Setembro, com as alterações que lhe foram introduzidas, desde que haja uma situação de carência económica que o justifique."
+  },
+  "884567889": {
+   "fragment_id": "884567983",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuição da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuição da pensão\n\nÀ atribuição da pensão aplicam-se as regras do Decreto-Lei n.º 404/82, de 24 de Setembro, com as alterações que lhe foram introduzidas, com as necessárias adaptações."
+  },
+  "884567890": {
+   "fragment_id": "884567984",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 404/82, de 24 de Setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 404/82, de 24 de Setembro\n\nAo artigo 3.º, n.º 1, do Decreto-Lei n.º 404/82, de 24 de Setembro, alterado pelo Decreto-Lei n.º 136/92, de 16 de Julho, é aditada a alínea c), com a seguinte redacção:\n\n«c) A situação de cidadão português feito prisioneiro ou capturado em combate no decurso da guerra nas ex-colónias.»"
+  },
+  "884567891": {
+   "fragment_id": "884567985",
+   "type": 11,
+   "heading": "Artigo 4.º — Contagem do tempo de cativeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contagem do tempo de cativeiro\n\n1 - O tempo passado em cativeiro por cidadão português feito prisioneiro ou capturado em combate, no decurso da guerra nas ex-colónias, é contado, para efeitos de cálculo das respectivas pensões de reserva, aposentação ou reforma, com o acréscimo de 100% e com dispensa de pagamento das correspondentes quotas legais, salvo o disposto no n.º 3.\n\n2 - O tempo passado em cativeiro referido no número anterior acresce, para efeitos de aposentação ou reforma, ao tempo de exercício de quaisquer funções públicas ou privadas e é levado em linha de conta para actualização das pensões que eventualmente tenham sido atribuídas, entretanto, àqueles ex-prisioneiros de guerra ou a quem seja considerado beneficiário da pensão nos termos do n.º 2 do artigo 1.º da presente lei.\n\n3 - O disposto nos números anteriores não é aplicável sempre que o cidadão português feito prisioneiro ou capturado em combate no decurso da guerra das ex-colónias tenha ou possa ter acesso a benefícios idênticos previstos em legislação específica."
+  },
+  "884567892": {
+   "fragment_id": "884567986",
+   "type": 11,
+   "heading": "Artigo 5.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regulamentação\n\nO Governo regulamentará as condições de atribuição da pensão criada pela presente lei no prazo de 90 dias a partir da sua entrada em vigor."
+  },
+  "884567893": {
+   "fragment_id": "884567987",
+   "type": 11,
+   "heading": "Artigo 6.º — Efeitos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Efeitos financeiros\n\nOs efeitos financeiros emergentes da presente lei, a suportar pelo Orçamento do Estado, iniciam-se no próximo ano económico."
+  },
+  "884567894": {
+   "fragment_id": "884567988",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 3 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 9 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "921943085": {
+   "fragment_id": "884567982",
+   "type": 11,
+   "heading": "Artigo 1.º — Apoio aos ex-prisioneiros de guerra",
+   "in_force_from": "2004-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/2004 - Diário da República n.º 166/2004, Série I-A de 2004-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2004-527597), em vigor a partir de 2004-07-21"
+   ],
+   "markdown": "###### Artigo 1.º — Apoio aos ex-prisioneiros de guerra\n\n1 - Aos cidadãos portugueses feitos prisioneiros ou capturados em combate no decurso da guerra nas ex-colónias pode ser concedida, a título de reparação e de reconhecimento público, uma pensão pecuniária mensal e é concedido um regime especial de contagem do tempo passado em cativeiro, nos termos da presente lei.\n\n2 - Podem ser beneficiários da pensão os cidadãos referidos no número anterior e, em caso de falecimento, os beneficiários referidos no artigo 3.º do Decreto-Lei n.º 161/2001, de 22 de Maio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/2004 - Diário da República n.º 166/2004, Série I-A de 2004-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2004-527597), em vigor a partir de 2004-07-21"
+  }
+ }
+}

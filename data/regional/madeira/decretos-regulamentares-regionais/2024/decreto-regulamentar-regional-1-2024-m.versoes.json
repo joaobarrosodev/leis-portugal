@@ -1,0 +1,162 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:836105754:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2024-890539782",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/1-2024-836105754",
+ "source_lastmod": "2024-10-10",
+ "versions": [
+  {
+   "date": "2024-01-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890518491",
+    "890518492",
+    "890518493",
+    "890518494",
+    "890518495",
+    "890518497"
+   ]
+  },
+  {
+   "date": "2024-10-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:890505016:por",
+     "title": "Decreto Regulamentar Regional n.º 23/2024/M",
+     "published": "2024-10-10",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/23-2024-890505016"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-A",
+    "Altera Artigo 1.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "890518491",
+    "890518508",
+    "890518510",
+    "890518511",
+    "890518512",
+    "890518513",
+    "890518514",
+    "890518515"
+   ]
+  }
+ ],
+ "fragments": {
+  "890518491": {
+   "fragment_id": "890539783",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 1/2024/M\n\nSumário: Aprova as medidas preventivas da área a afetar à obra da «Nova ligação Amparo/Lazareto».\n\nAprova as medidas preventivas da área a afetar à obra da «Nova ligação Amparo/Lazareto»\n\nNa sequência do estabelecimento de uma área provável para a nova ligação rodoviária entre o Amparo e o Lazareto, o Governo Regional entende ser conveniente submeter a área a afetar à referida obra a medidas preventivas.\n\nO objetivo de tais medidas preventivas é evitar que a alteração indiscriminada das circunstâncias e condições existentes criem dificuldades, comprometendo a futura execução daquela obra, ou torná-la mais difícil ou onerosa, o que justifica plenamente a sujeição a medidas preventivas da área indicada na planta anexa.\n\nAssim:\n\nO Governo Regional da Madeira, ao abrigo das disposições conjugadas do artigo 52.º da Lei n.º 31/2014, de 30 de maio, e do n.º 8 do artigo 134.º, do artigo 136.º e do n.º 4 do artigo 138.º, todos do Decreto-Lei n.º 80/2015, de 14 de maio, e ainda nos termos da alínea g) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea d) do artigo 69.º da Lei n.º 13/91, de 5 de junho - Estatuto Político-Administrativo da Região Autónoma da Madeira -, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, decreta o seguinte:"
+  },
+  "890518492": {
+   "fragment_id": "890539784",
+   "type": 11,
+   "heading": "Artigo 1.º — Sujeição a medidas preventivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Sujeição a medidas preventivas\n\n1 - Durante o prazo de dois anos fica dependente de prévia autorização da Secretaria Regional de Equipamentos e Infraestruturas, ouvida a Câmara Municipal do Funchal, a prática, na área definida na planta anexa a este diploma, dos atos ou atividades seguintes:\n\na) Criação de novos núcleos habitacionais;\n\nb) Construção, reconstrução, ampliação e demolição de edifícios ou outras instalações;\n\nc) Instalação de explorações ou ampliação das já existentes;\n\nd) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\ne) Derrube de árvores em maciço com qualquer área;\n\nf) Destruição do solo vivo e da cobertura vegetal;\n\ng) Abertura de novas vias de comunicação e passagens de linhas elétricas ou telefónicas;\n\nh) Abertura de fossas ou depósitos de lixo ou entulhos;\n\ni) Captação de desvios de águas ou quaisquer outras obras de hidráulica;\n\nj) Pinturas e caiações de edifícios ou muros existentes ou a construir, bem como quaisquer alterações dos elementos ornamentais dos mesmos;\n\nk) Quaisquer outras atividades ou trabalhos que afetem a integridade e ou as características da área delimitada.\n\n2 - A autorização a que se refere o número anterior não dispensa quaisquer outros condicionalismos exigidos por lei nem prejudica a competência legalmente atribuída a outras entidades."
+  },
+  "890518493": {
+   "fragment_id": "890539785",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime aplicável\n\nÀs medidas preventivas estabelecidas por este decreto regulamentar regional aplica-se o regime constante do artigo 52.º da Lei n.º 31/2014, de 30 de maio."
+  },
+  "890518494": {
+   "fragment_id": "890539786",
+   "type": 11,
+   "heading": "Artigo 3.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fiscalização\n\nSão competentes para promover o cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto na alínea f) do n.º 2 do artigo 8.º da Lei n.º 31/2014, de 30 de maio, a Secretaria Regional de Equipamentos e Infraestruturas e a Câmara Municipal do Funchal."
+  },
+  "890518495": {
+   "fragment_id": "890539787",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "890518497": {
+   "fragment_id": "890539789",
+   "type": 14,
+   "heading": "Anexo — Planta da área a que se refere o n.º 1 do artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Planta da área a que se refere o n.º 1 do artigo 1.º\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/836112006) |\n| --- |\n\n117207246"
+  },
+  "890518508": {
+   "fragment_id": "890539784",
+   "type": 11,
+   "heading": "Artigo 1.º — Sujeição a medidas preventivas",
+   "in_force_from": "2024-10-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/M - Diário da República n.º 197/2024, Série I de 2024-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-890505016), em vigor a partir de 2024-10-11"
+   ],
+   "markdown": "###### Artigo 1.º — Sujeição a medidas preventivas\n\n1 - Durante o prazo de dois anos fica dependente de prévia autorização da Secretaria Regional de Equipamentos e Infraestruturas, a prática, na área definida na planta anexa a este diploma, dos atos ou atividades seguintes:\n\na) Criação de novos núcleos habitacionais;\n\nb) Construção, reconstrução, ampliação e demolição de edifícios ou outras instalações;\n\nc) Instalação de explorações ou ampliação das já existentes;\n\nd) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\ne) (Revogado.)\n\nf) (Revogado.)\n\ng) Abertura de novas vias de comunicação e passagens de linhas elétricas ou telefónicas;\n\nh) (Revogado.)\n\ni) Captação de desvios de águas ou quaisquer outras obras de hidráulica;\n\nj) (Revogado.)\n\nk) Quaisquer outras atividades ou trabalhos que afetem a integridade e/ou as características da área delimitada.\n\n2 - A autorização a que se refere o número anterior não dispensa quaisquer outros condicionalismos exigidos por lei nem prejudica a competência legalmente atribuída a outras entidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2024/M - Diário da República n.º 197/2024, Série I de 2024-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-890505016), em vigor a partir de 2024-10-11"
+  },
+  "890518510": {
+   "fragment_id": "890539802",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Zonamento e condicionamentos",
+   "in_force_from": "2024-10-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 23/2024/M - Diário da República n.º 197/2024, Série I de 2024-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-890505016), em vigor a partir de 2024-10-11"
+   ],
+   "markdown": "###### Artigo 1.º-A — Zonamento e condicionamentos\n\n1 - No processo de submissão do licenciamento para as zonas referidas nas alíneas b) e c) do número seguinte, o promotor deverá apresentar nesta fase um projeto devidamente desenvolvido e fundamentado, onde deverá constar, um estudo geológico-geotécnico detalhado.\n\n2 - A prévia autorização da Secretaria Regional de Equipamentos e Infraestruturas, a que se refere o n.º 1 do artigo 1.º do presente diploma, está limitada às seguintes zonas e condicionamentos:\n\na) Zona 1 (vermelho) - não é permitido qualquer tipo de novas construções.\n\nVisa a proteção dos potenciais novos nós, dos locais que oferecem condições de viabilidade para materializar emboquilhamentos de túneis e das zonas de recobrimentos com alturas inferiores ou iguais a 15 metros;\n\nb) Zona 2 (laranja) - zona de proteção em que sejam garantidos recobrimentos de alturas compreendidas entre 15 e 30 metros.\n\nPoderão ser autorizadas novas construções de estruturas ligeiras (vivendas e edifícios até 2 pisos, mas sem caves), mediante as conclusões do estudo geológico/geotécnico, referido no número anterior;\n\nc) Zona 3 (amarelo) - zona de proteção em que sejam garantidos recobrimentos de alturas superiores a 30 metros.\n\nPoderão ser autorizadas novas construções com caves, mediante as conclusões do estudo geológico/geotécnico, referido no número anterior.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 23/2024/M - Diário da República n.º 197/2024, Série I de 2024-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-890505016), em vigor a partir de 2024-10-11"
+  },
+  "890518511": {
+   "fragment_id": "890539785",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime aplicável\n\nÀs medidas preventivas estabelecidas por este decreto regulamentar regional aplica-se o regime constante do artigo 52.º da Lei n.º 31/2014, de 30 de maio."
+  },
+  "890518512": {
+   "fragment_id": "890539786",
+   "type": 11,
+   "heading": "Artigo 3.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fiscalização\n\nSão competentes para promover o cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto na alínea f) do n.º 2 do artigo 8.º da Lei n.º 31/2014, de 30 de maio, a Secretaria Regional de Equipamentos e Infraestruturas e a Câmara Municipal do Funchal."
+  },
+  "890518513": {
+   "fragment_id": "890539787",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "890518514": {
+   "fragment_id": "890539788",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 14 de dezembro de 2023.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 28 de dezembro de 2023.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "890518515": {
+   "fragment_id": "890539789",
+   "type": 14,
+   "heading": "Anexo — Planta da área a que se refere o n.º 1 do artigo 1.º",
+   "in_force_from": "2024-10-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/M - Diário da República n.º 197/2024, Série I de 2024-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-890505016), em vigor a partir de 2024-10-11"
+   ],
+   "markdown": "## Anexo — Planta da área a que se refere o n.º 1 do artigo 1.º\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/890505016/890506488.png) |\n| --- |\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 23/2024/M - Diário da República n.º 197/2024, Série I de 2024-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-890505016), em vigor a partir de 2024-10-11"
+  }
+ }
+}

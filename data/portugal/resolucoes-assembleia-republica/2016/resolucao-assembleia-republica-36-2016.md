@@ -1,0 +1,385 @@
+---
+schema_version: '1.0'
+id: pt:dre:73688941:por
+title: Resolução da Assembleia da República n.º 36/2016
+short_title: null
+summary: Orçamento da Assembleia da República para 2016
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 36/2016
+official_date: null
+publication_date: '2016-02-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 38/2016, Série I de 2016-02-24
+  number: '38'
+  series: I
+  supplement: null
+  pages: 582 - 590
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/02/03800/0058200590.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/36/2016/02/24/p/dre/pt/html
+  oj: null
+  dre: '73688941'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/36-2016-73688941
+  internal: pt:dre:73688941:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-2016-73688941
+  metadata_url: https://data.dre.pt/eli/resolassrep/36/2016/02/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-2016-73688941
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2016-02-24T00:00:00Z'
+integrity:
+  source_sha256: 50d3e1ebed68f2783bf29f6de66ac0ab53765f357c6efb3da92e362f69539dbe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2016/DRE-2016-36-73688941.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Orçamento
+- Assembleia da República
+relationships:
+- type: cites
+  target: eli:http:/
+  label: null
+  source: http:/
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/134/1994/05/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/134/1994/05/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/2010/07/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/2010/07/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/24/2015/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/24/2015/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/28/2003/07/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/28/2003/07/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2000/04/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2000/04/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/43/2004/08/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/43/2004/08/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/46/2007/08/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/46/2007/08/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/55/2010/12/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/55/2010/12/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolassrep/59/2004/08/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/59/2004/08/19/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 36/2016
+
+Orçamento da Assembleia da República para 2016
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição:
+
+1 - Aprovar o seu orçamento para o ano de 2016, anexo à presente Resolução.
+
+2 - Nos termos da alínea f) do n.º 1 do artigo 51.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República (LOFAR), na redação dada pela [Lei n.º 28/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/651724/details/normal?l=1), de 30 de julho, constituem receitas da Assembleia da República as decorrentes da cobrança a terceiros pela utilização das suas instalações, de forma a permitir compensar os custos com a disponibilização desses espaços.
+
+Aprovada em 12 de fevereiro de 2016.
+
+**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2016/02/03800/0058200590.pdf))](https://files.diariodarepublica.pt/1s/2016/02/03800/0058200590.pdf)
+
+Notas explicativas das rubricas orçamentais
+
+Receita
+
+1 - Alínea e) do n.º 1 do artigo 51.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República (LOFAR), republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/651724/details/normal?l=1), de 30 de julho, e alterada pelas [Leis n.º 13/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/334321/details/normal?l=1), de 19 de julho e [55/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306575/details/normal?l=1), de 24 de dezembro.
+
+2 - Alínea a) do n.º 1 do artigo 51.º da LOFAR, republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/651724/details/normal?l=1), de 30 de julho, e alterada pelas [Leis n.º 13/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/334321/details/normal?l=1), de 19 de julho e [55/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306575/details/normal?l=1), de 24 de dezembro.
+
+3 - Alínea f) do n.º 1 do artigo 51.º da LOFAR, republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/651724/details/normal?l=1), de 30 de julho, e alterada pelas [Leis n.º 13/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/334321/details/normal?l=1), de 19 de julho e [55/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306575/details/normal?l=1), de 24 de dezembro.
+
+4 - Alínea c) do n.º 1 do artigo 51.º da LOFAR, republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/651724/details/normal?l=1), de 30 de julho, e alterada pelas [Leis n.º 13/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/334321/details/normal?l=1), de 19 de julho e [55/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306575/details/normal?l=1), de 24 de dezembro.
+
+5 - Idem n.º 3, reposição de importâncias indevidamente pagas em anos anteriores.
+
+6 - Alínea b) do n.º 1 e n.º 2 do artigo 51.º da LOFAR, republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/651724/details/normal?l=1), de 30 de julho, e alterada pelas [Leis n.º 13/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/334321/details/normal?l=1), de 19 de julho e [55/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306575/details/normal?l=1), de 24 de dezembro.
+
+7 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, Autonomia administrativa dos órgãos independentes que funcionam junto da Assembleia da República, alterada pela [Lei n.º 24/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66863790/details/normal?l=1), de 27 de março, e artigo 9.º da [Lei n.º 71/78](https://diariodarepublica.pt/web/guest/pesquisa/-/search/325307/details/normal?l=1), de 27 de dezembro, alterada pela [Lei n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/495748/details/normal?l=1), de 12 de abril.
+
+8 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, Autonomia administrativa dos órgãos independentes que funcionam junto da Assembleia da República, alterada pela [Lei n.º 24/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66863790/details/normal?l=1), de 27 de março, [Lei n.º 46/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/640919/details/normal?l=1), de 24 de agosto e [Decreto-Lei n.º 134/94](https://diariodarepublica.pt/web/guest/pesquisa/-/search/263239/details/normal?l=1), de 20 de maio.
+
+9 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, Autonomia administrativa dos órgãos independentes que funcionam junto da Assembleia da República, alterada pela [Lei n.º 24/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66863790/details/normal?l=1), de 27 de março, e n.º 2 do artigo 20.º da [Lei n.º 43/2004](https://diariodarepublica.pt/web/guest/pesquisa/-/search/480712/details/normal?l=1), de 18 de agosto, alterada pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/344942/details/normal?l=1), de 31 de dezembro, [Resolução da Assembleia da República n.º 59/2004](https://diariodarepublica.pt/web/guest/pesquisa/-/search/480520/details/normal?l=1), de 19 de agosto e [Lei n.º 67/98](https://diariodarepublica.pt/web/guest/pesquisa/-/search/239857/details/normal?l=1), de 26 de outubro.
+
+10 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, alterada pela [Lei n.º 24/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66863790/details/normal?l=1), de 27 de março, e [Lei n.º 24/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/494178/details/normal?l=1), de 29 de maio, alterada pela [Lei n.º 19/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66674040/details/normal?l=1), de 6 de março.
+
+11 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, n.º 2 do artigo 43.º da [Lei n.º 9/91](https://diariodarepublica.pt/web/guest/pesquisa/-/search/614291/details/normal?l=1), de 9 de abril, e artigos 21.º e 23.º do [Decreto-Lei n.º 279/93](https://diariodarepublica.pt/web/guest/pesquisa/-/search/354930/details/normal?l=1), de 11 de agosto.
+
+12 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, n.º 5 do artigo 48.º da [Lei n.º 53/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/583192/details/normal?l=1), de 8 de novembro.
+
+13 - [Lei n.º 19/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/692850/details/normal?l=1), de 20 de junho, com as alterações introduzidas pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/447325/details/normal?l=1), de 12 de novembro, e pelas [Leis n.os 64-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243747/details/normal?l=1), de 31 de dezembro, [55/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306575/details/normal?l=1), de 24 de dezembro, [1/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/588821/details/normal?l=1), de 3 de janeiro e [Lei Orgânica n.º 5 /2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66953311/details/normal?l=1), de 10 de abril - Financiamento dos Partidos Políticos e das Campanhas Eleitorais.
+
+14 - Artigos 17.º e 18.º da Lei Financiamento dos Partidos Políticos e das Campanhas Eleitorais - subvenção pública para as campanhas das eleições para a Presidência da República e para a Assembleia Legislativa da Região Autónoma dos Açores.
+
+Despesa
+
+1 - [Lei n.º 4/85](https://diariodarepublica.pt/web/guest/pesquisa/-/search/325545/details/normal?l=1), de 9 de abril, Estatuto Remuneratório dos Titulares de Cargos Políticos com as alterações introduzidas pelas [Leis n.os 16/87](https://diariodarepublica.pt/web/guest/pesquisa/-/search/421861/details/normal?l=1), de 1 de junho, [102/88](https://diariodarepublica.pt/web/guest/pesquisa/-/search/379726/details/normal?l=1), de 25 de agosto, [26/95](https://diariodarepublica.pt/web/guest/pesquisa/-/search/434629/details/normal?l=1), de 18 de agosto, [3/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/386237/details/normal?l=1), de 23 de fevereiro, [52-A/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/485267/details/normal?l=1), de 10 de outubro, e [30/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/456541/details/normal?l=1), de 10 de julho. Aplicação das reduções estipuladas no artigo 11.º da [Lei n.º 12-A/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/292110/details/normal?l=1), de 30 de junho, e na [Lei n.º 75/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56747377/details/normal?l=1), de 12 de setembro, com as alterações determinadas pela [Lei n.º 159-A/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73000147/details/normal?l=1), de 30 de dezembro.
+
+2 - Artigo 38.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República (LOFAR), republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/651724/details/normal?l=1), de 30 de julho, e alterada pelas [Leis n.º 13/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/334321/details/normal?l=1), de 19 de julho e [55/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306575/details/normal?l=1), de 24 de dezembro, e artigos 47.º a 54.º da [Lei n.º 23/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/287780/details/normal?l=1), de 20 de maio, Estatuto dos Funcionários Parlamentares. Inclui ainda as remunerações devidas aos membros dos seguintes Conselhos: Conselho de Fiscalização do Sistema de Informações da República Portuguesa (artigo 13.º da [Lei n.º 30/84](https://diariodarepublica.pt/web/guest/pesquisa/-/search/373663/details/normal?l=1), de 5 de setembro, na redação da [Lei Orgânica n.º 4/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56057575/details/normal?l=1), de 13 de agosto, que a republicou, e Despacho Conjunto n.º 206/2005, de 25 de fevereiro, do Primeiro-Ministro e do Ministro das Finanças e Administração Pública, publicado no Diário da República, 2.ª série, n.º 48, de 9 de março de 2005); Conselho de Fiscalização do Sistema Integrado de Informação Criminal (n.º 8 do artigo 8.º da [Lei n.º 73/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/493508/details/normal?l=1), de 12 de agosto); Conselho de Fiscalização da Base de Dados de Perfis de ADN (n.º 1 do artigo 10.º da [Lei n.º 40/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/497417/details/normal?l=1), de 25 de junho) e Entidade Fiscalizadora do Segredo de Estado (artigo 7.º da [Lei Orgânica n.º 3/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/55235778/details/normal?l=1), de 6 de agosto).
+
+Aplicação das reduções estipuladas na [Lei n.º 47/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/344241/details/normal?l=1), de 7 de setembro, com as alterações introduzidas pela [Lei n.º 52/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/307199/details/normal?l=1), de 14 de dezembro, aos membros do Gabinete do Presidente da Assembleia da República e aos secretariados dos Vice-Presidentes e do Gabinete do Secretário-Geral e na [Lei n.º 75/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56747377/details/normal?l=1), de 12 de setembro, com as alterações determinadas pela [Lei n.º 159-A/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73000147/details/normal?l=1), de 30 de dezembro.
+
+3 - Artigo 46.º da [Lei n.º 28/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/651724/details/normal?l=1), de 30 de julho, na redação dada pelo n.º 2 do artigo 3.º da [Lei n.º 55/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306575/details/normal?l=1), de 24 de dezembro. Aplicação das reduções estipuladas na [Lei n.º 75/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56747377/details/normal?l=1), de 12 de setembro, com as alterações determinadas pela [Lei n.º 159-A/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73000147/details/normal?l=1), de 30 de dezembro.
+
+4 - Artigo 45.º da LOFAR. Inclui, ainda, um contrato inerente ao Conselho dos Julgados de Paz (n.º 5 do artigo 65.º da [Lei n.º 78/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/388220/details/normal?l=1), de 13 de julho, na redação dada pela [Lei n.º 54/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/498679/details/normal?l=1), de 31 de julho, que a republicou).
+
+5 - Artigo 99.º do Estatuto da Aposentação.
+
+6 - Artigos 44.º da LOFAR, e artigo 14.º do Estatuto dos Funcionários Parlamentares. São ainda de considerar as reduções previstas na [Lei n.º 75/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56747377/details/normal?l=1), de 12 de setembro, com as alterações decorrentes da [Lei n.º 159-A/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73000147/details/normal?l=1), de 30 de dezembro.
+
+7 - [Lei n.º 4/85](https://diariodarepublica.pt/web/guest/pesquisa/-/search/325545/details/normal?l=1), de 9 de abril, Estatuto Remuneratório dos Titulares de Cargos Políticos com as alterações introduzidas pelas [Leis n.os 16/87](https://diariodarepublica.pt/web/guest/pesquisa/-/search/421861/details/normal?l=1), de 1 de junho, [102/88](https://diariodarepublica.pt/web/guest/pesquisa/-/search/379726/details/normal?l=1), de 25 de agosto, [26/95](https://diariodarepublica.pt/web/guest/pesquisa/-/search/434629/details/normal?l=1), de 18 de agosto, [3/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/386237/details/normal?l=1), de 23 de fevereiro, [52-A/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/485267/details/normal?l=1), de 10 de outubro, e [30/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/456541/details/normal?l=1), de 10 de julho (Deputados), n.os 5 e 6 do artigo 23.º e n.º 3 do artigo 25.º da LOFAR (secretário-geral e adjuntos), despachos do Presidente da Assembleia da República, de 7 de junho de 2000, relativo às propostas n.os 172/SG/CA/2000, de 6 de fevereiro de 2009, 19/SG/CA/2009 (dirigentes), e 171/IX, de 18 de janeiro de 2005 (representante dos trabalhadores eleito para integrar o Conselho de Administração). Artigo 13.º do Regulamento de Acesso, Circulação e Permanência nas Instalações da Assembleia da República, aprovado pelo Despacho n.º 1/93, do Presidente da Assembleia da República, publicado no Diário da República, 2.ª série C, n.º 22, de 22 de março de 1993, com as alterações introduzidas pelo Despacho n.º 124/VII, publicado no Diário da Assembleia da República, 2.ª série-C, n.º 17, de 28 de fevereiro de 1998 (oficial de segurança e respetivo adjunto). Aplicação das reduções estipuladas na [Lei n.º 75/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56747377/details/normal?l=1), de 12 de setembro, com as alterações introduzidas pela [Lei n.º 159-A/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73000147/details/normal?l=1), de 30 de dezembro.
+
+8 - Artigo 4.º do [Decreto-Lei n.º 381/89](https://diariodarepublica.pt/web/guest/pesquisa/-/search/549430/details/normal?l=1), de 28 de outubro (suplemento de risco dos motoristas). Aplicação das reduções estipuladas na [Lei n.º 75/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56747377/details/normal?l=1), de 12 de setembro, nos termos definidos no artigo 4.º desse diploma legal.
+
+9 - Artigo 52.º do Estatuto dos Funcionários Parlamentares e [Decreto-Lei n.º 57-B/84](https://diariodarepublica.pt/web/guest/pesquisa/-/search/667522/details/normal?l=1), de 20 de fevereiro, alterado pelo [Decreto-Lei n.º 70-A/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/510265/details/normal?l=1), de 5 de maio, conjugado com despacho do Presidente da Assembleia da República de 6 de fevereiro de 2009, exarado na proposta n.º 19/SG/CA/2009.
+
+10 - Artigos 53.º e 54.º do Estatuto dos Funcionários Parlamentares e [Decretos-Leis n.os 496/80](https://diariodarepublica.pt/web/guest/pesquisa/-/search/462422/details/normal?l=1), de 20 de outubro, alterado pelos [Decretos-Leis n.os 184/91](https://diariodarepublica.pt/web/guest/pesquisa/-/search/639493/details/normal?l=1), de 17 de maio, e [100/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/138777/details/normal?l=1), de 31 de março, alterado pela [Lei n.º 117/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/423055/details/normal?l=1), de 11 de agosto, pelos [Decretos-Leis n.os 503/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/643282/details/normal?l=1), de 20 de novembro, [70-A/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/510265/details/normal?l=1), de 5 de maio, [157/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/314193/details/normal?l=1), de 11 de maio, [169/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/538820/details/normal?l=1), de 17 de agosto, [181/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/520848/details/normal?l=1), de 9 de maio, pela [Lei n.º 59/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/453975/details/normal?l=1), de 11 de setembro, pelo [Decreto-Lei n.º 29-A/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/144217/details/normal?l=1), de 1 de março, pelas [Leis n.os 66/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/189513/details/normal?l=1), de 31 de dezembro, e [66-B/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/632448/details/normal?l=1), de 31 de dezembro, e pelo [Decreto-Lei n.º 36/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/258755/details/normal?l=1), de 11 de março, e artigo 35.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/164404/details/normal?l=1), de 31 de dezembro. São, ainda, de considerar as reduções previstas na [Lei n.º 75/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56747377/details/normal?l=1), de 12 de setembro, com as alterações decorrentes da [Lei n.º 159-A/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73000147/details/normal?l=1), de 30 de dezembro.
+
+11 - [Lei n.º 7/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/602073/details/normal?l=1), de 12 de fevereiro, alterada pelas [Lei n.os 105/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/489755/details/normal?l=1), de 14 de setembro, [53/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/668541/details/normal?l=1), de 14 de outubro, [23/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/178501/details/normal?l=1), de 25 de junho, [47/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/174796/details/normal?l=1), de 29 de agosto, e [69/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/499541/details/normal?l=1), de 30 de agosto, e artigo 29.º do [Decreto-Lei n.º 100/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/138777/details/normal?l=1), de 31 de março.
+
+12 - N.º 3 do artigo 46.º da LOFAR (pessoal dos grupos parlamentares), n.º 4 do artigo 49.º do Estatuto dos Funcionários Parlamentares e [Lei n.º 35/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/25676932/details/normal?l=1), de 20 de junho. São, ainda, de considerar as reduções previstas na [Lei n.º 75/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56747377/details/normal?l=1), de 12 de setembro, com as alterações decorrentes da [Lei n.º 159-A/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73000147/details/normal?l=1), de 30 de dezembro.
+
+13 - N.º 4 do artigo 37.º da LOFAR e n.os 2 e 3 do artigo 48.ºº do Estatuto dos Funcionários Parlamentares.
+
+14 - Atribuição de subsídio de residência em situações de estada prolongada no estrangeiro.
+
+15 - [Decreto-Lei n.º 106/98](https://diariodarepublica.pt/web/guest/pesquisa/-/search/176328/details/normal?l=1), de 24 de abril, alterado pelas [Leis n.os 137/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306615/details/normal?l=1), de 28 de dezembro, [64-B/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243769/details/normal?l=1), de 30 de dezembro, [66-B/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/632448/details/normal?l=1), de 31 de dezembro e [82-B/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66016527/details/normal?l=1), de 31 de dezembro.
+
+16 - Ajudas de custo do Conselho de Fiscalização do Sistema de Informações da República Portuguesa, do Conselho dos Julgados de Paz, do Conselho Nacional de Procriação Medicamente Assistida, do Conselho de Fiscalização do Sistema Integrado de Informação Criminal, do Conselho de Fiscalização da Base de Dados dos Perfis de ADN e da Entidade Fiscalizadora do Segredo de Estado.
+
+17 - Artigo 16.º do Estatuto dos Deputados, aprovado pela [Lei n.º 7/93](https://diariodarepublica.pt/web/guest/pesquisa/-/search/626808/details/normal?l=1), de 1 de março, com as alterações introduzidas pelas [Leis n.os 24/95](https://diariodarepublica.pt/web/guest/pesquisa/-/search/434632/details/normal?l=1), de 18 de agosto, [8/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/169957/details/normal?l=1), de 10 de fevereiro, [45/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306927/details/normal?l=1), de 16 de junho, [3/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/386237/details/normal?l=1), de 23 de fevereiro, [24/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/666724/details/normal?l=1), de 4 de julho, [52-A/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/485267/details/normal?l=1), de 10 de outubro, [44/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/540664/details/normal?l=1), de 25 de agosto, [45/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/540660/details/normal?l=1), de 25 de agosto, [43/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/640917/details/normal?l=1), de 24 de agosto, e [16/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/603217/details/normal?l=1), de 1 de abril, artigos 3.º e 17.º da [Lei n.º 4/85](https://diariodarepublica.pt/web/guest/pesquisa/-/search/325545/details/normal?l=1), de 9 de abril, com as alterações introduzidas pela [Lei n.º 52-A/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/485267/details/normal?l=1), de 10 de outubro, e artigo 11.º da [Resolução da Assembleia da República n.º 57/2004](https://diariodarepublica.pt/web/guest/pesquisa/-/search/515264/details/normal?l=1), de 6 de agosto, alterada pelas [Resoluções da Assembleia da República n.os 12/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/518578/details/normal?l=1), de 20 de março, [101/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/482606/details/normal?l=1), de 26 de novembro, [60/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/335199/details/normal?l=1), de 6 de julho, [164/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/145191/details/normal?l=1), de 29 de dezembro, e [148/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/190272/details/normal?l=1), de 27 de dezembro.
+
+18 - [Decreto-Lei n.º 4/89](https://diariodarepublica.pt/web/guest/pesquisa/-/search/234497/details/normal?l=1), de 6 de janeiro, alterado pelo [Decreto-Lei n.º 276/98](https://diariodarepublica.pt/web/guest/pesquisa/-/search/242068/details/normal?l=1), de 11 de setembro e pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243747/details/normal?l=1), de 31 de dezembro. Despacho do Presidente da Assembleia da República de 6 de fevereiro de 2009, exarado na proposta n.º 19/SG/CA/2009. São, ainda, de considerar, as reduções previstas na [Lei n.º 75/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56747377/details/normal?l=1), de 12 de setembro, com as alterações decorrentes da [Lei n.º 159-A/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73000147/details/normal?l=1), de 30 de dezembro.
+
+19 - Despacho do Presidente da Assembleia da República, exarado na proposta n.º 108/SG/CA/2004.
+
+20 - Despacho n.º 99/SG/2014, de 16 de junho - Reembolso de despesas com habitação do Representante Permanente da Assembleia da República junto da União Europeia.
+
+21 - Artigos 31.º da [Lei n.º 4/85](https://diariodarepublica.pt/web/guest/pesquisa/-/search/325545/details/normal?l=1), de 9 de abril, Estatuto Remuneratório dos Titulares de Cargos Políticos com as alterações introduzidas pelas [Leis n.os 16/87](https://diariodarepublica.pt/web/guest/pesquisa/-/search/421861/details/normal?l=1), de 1 de junho, [102/88](https://diariodarepublica.pt/web/guest/pesquisa/-/search/379726/details/normal?l=1), de 25 de agosto, [26/95](https://diariodarepublica.pt/web/guest/pesquisa/-/search/434629/details/normal?l=1), de 18 de agosto, [3/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/386237/details/normal?l=1), de 23 de fevereiro, [52-A/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/485267/details/normal?l=1), de 10 de outubro, e [30/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/456541/details/normal?l=1), de 10 de julho (regime transitório de atribuição do subsídio de reintegração a deputados), e artigo 9.º da [Lei n.º 11/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/247991/details/normal?l=1), de 20 de fevereiro (subsídio de desemprego a atribuir a ex-funcionários dos Grupos Parlamentares, antigos subscritores da Caixa Geral de Aposentações).
+
+22 - Despesas relativas a senhas de presença no âmbito das atividades do Conselho Nacional de Procriação Medicamente Assistida (n.º 3 do artigo 32.º da [Lei n.º 32/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/539239/details/normal?l=1), de 26 de julho). Artigo 9.º da [Resolução da Assembleia da República n.º 8/98](https://diariodarepublica.pt/web/guest/pesquisa/-/search/197366/details/normal?l=1), de 19 de março (exercício de funções de encarregado).
+
+23 - Subsídio de lavagem de viaturas, de fardamento e de venda de senhas, de acordo com despacho do Presidente da Assembleia da República de 6 de fevereiro de 2009, relativo à proposta n.º 19/SG/CA/2009.
+
+24 - [Decreto-Lei n.º 176/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/652702/details/normal?l=1), de 2 de agosto, alterado pelos [Decretos-Leis n.os 41/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/677047/details/normal?l=1), de 21 de fevereiro, [87/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/449178/details/normal?l=1), de 28 de maio, [245/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/443898/details/normal?l=1), de 18 de dezembro, [201/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/488852/details/normal?l=1), de 28 de agosto, [70/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/335683/details/normal?l=1), de 16 de junho, [77/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/335209/details/normal?l=1), de 24 de junho, e [116/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/308078/details/normal?l=1), de 22 de outubro, pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/344942/details/normal?l=1), de 31 de dezembro, e pelos [Decretos-Leis n.os 133/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/178491/details/normal?l=1), de 27 de junho, e [2/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73017524/details/normal?l=1), de 6 de janeiro.
+
+25 - Despacho do Secretário-Geral de 15 de janeiro de 2016, exarado sobre a informação n.º 137/DRHA/2015, de 23 de dezembro.
+
+26 - Encargos inerentes a regimes de proteção social de origem dos deputados.
+
+27 - [Lei n.º 4/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/522781/details/normal?l=1), de 16 de janeiro, conjugada com a LOFAR e com o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.
+
+28 - Encargos com o regime geral da segurança social do pessoal de apoio aos grupos parlamentares, nos termos do n.º 7 do artigo 46.º da LOFAR, conjugado com a [Lei n.º 4/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/522781/details/normal?l=1), de 16 de janeiro e com o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.
+
+29 - Artigo 18.º do Estatuto dos Deputados, [Lei n.º 4/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/522781/details/normal?l=1), de 16 de janeiro, conjugada e com o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.
+
+30 - [Decreto-Lei n.º 503/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/643282/details/normal?l=1), de 20 de novembro, alterado pelas [Leis n.os 59/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/453975/details/normal?l=1), de 11 de setembro e [64-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243747/details/normal?l=1), de 31 de dezembro e [Decreto-Lei n.º 36/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/258755/details/normal?l=1), de 11 de março.
+
+31 - N.º 3 do artigo 16.º do Estatuto dos Deputados. Atribuição de seguro em situações de missão prolongada no estrangeiro (funcionários).
+
+32 - Encargo da Assembleia da República, enquanto entidade patronal, para a Caixa Geral de Aposentações: artigo 6.º-A do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/web/guest/pesquisa/-/search/685188/details/normal?l=1), de 9 de dezembro, aditado pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243747/details/normal?l=1), de 31 de dezembro, na redação dada pelo artigo 81.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/164404/details/normal?l=1), de 31 de dezembro.
+
+33 - Despesas relativas à aquisição de combustível para viaturas e caldeiras de aquecimento. Inclui as despesas neste âmbito previstas pelo Conselho dos Julgados de Paz.
+
+34 - Despesas com a compra de materiais de limpeza e higiene, a utilizar nas instalações da Assembleia da República.
+
+35 - Despesas com aquisição de peças de vestuário (fardamento), nomeadamente do pessoal auxiliar.
+
+36 - Despesas com bens de consumo imediato, incluindo as despesas com o Conselho de Fiscalização do Sistema de Informações da República Portuguesa, com o Conselho dos Julgados de Paz, com o Conselho Nacional de Procriação Medicamente Assistida e com o Conselho de Fiscalização da Base de Dados de Perfis de ADN.
+
+37 - Despesas com a aquisição de papel.
+
+38 - Despesas com bens de consumo imediato e acessórios de informática, incluindo as previstas pelo Conselho de Fiscalização da Base de Dados de Perfis de ADN.
+
+39 - Despesas com medicamentos para consumo no Gabinete Médico.
+
+40 - Despesas com material clínico para consumo no Gabinete Médico.
+
+41 - Despesas com a aquisição dos materiais (peças) para manutenção de viaturas.
+
+42 - Despesas com equipamento para uso nas cantinas e restaurantes, designadamente equipamento não imputado a investimento.
+
+43 - Despesas com outros materiais que não sejam consideradas nos números anteriores.
+
+44 - Despesas com a aquisição de artigos destinados às ofertas no âmbito das relações institucionais.
+
+45 - Despesas com a aquisição de artigos destinados a venda na Livraria Parlamentar.
+
+46 - Despesas com ferramentas e utensílios cuja vida útil não exceda, em condições de utilização normal, o período de um ano.
+
+47 - Despesas com aquisição de livros, revistas e documentação técnica, nomeadamente os afetos à Biblioteca e ao Centro de Informação Parlamentar e Interparlamentar e as despesas previstas pelo Conselho Nacional de Procriação Medicamente Assistida e pelo Conselho de Fiscalização da Base de Dados de Perfis de ADN.
+
+48 - Despesas com a aquisição de publicações diversas, designadamente jornais e revistas.
+
+49 - Despesas com artigos honoríficos e objetos de decoração de reduzido valor, nomeadamente arranjos florais, essencialmente no âmbito da receção de delegações e entidades oficiais.
+
+50 - Aquisição de bens que se destinem a ser utilizados nos equipamentos de gravação e audiovisual.
+
+51 - Despesas com a aquisição de bens não tipificados em rubrica específica, nomeadamente os não inventariáveis, incluindo as despesas com o Conselho de Fiscalização do Sistema de Informações da República Portuguesa e Conselho de Fiscalização da Base de Dados dos Perfis de ADN.
+
+52 - Despesas com o consumo de água.
+
+53 - Despesas com o consumo de eletricidade.
+
+54 - Despesas com o consumo de gás.
+
+55 - Despesas referentes a aquisição de serviços de limpeza e higiene.
+
+56 - Despesas com reparação, conservação e beneficiação de bens imóveis (excluindo grandes reparações), móveis e semoventes. Inclui as despesas previstas no âmbito do Conselho de Acompanhamento dos Julgados de Paz e do Conselho de Fiscalização da Base de Dados de Perfis de ADN
+
+57 - Despesas com o aluguer de espaços.
+
+58 - Despesas com o aluguer de veículos.
+
+59 - Despesas referentes a alugueres não tipificados nos números anteriores.
+
+60 - Despesas com comunicações, fixas e móveis, de voz e dados, e de acessos à Internet, incluindo correspondência via CTT e os serviços inerentes às próprias comunicações, incluindo as despesas com o Conselho de Fiscalização do Sistema de Informações da República Portuguesa, com o Conselho dos Julgados de Paz e com o Conselho de Fiscalização da Base de Dados de Perfis de ADN.
+
+61 - N.os 1 e 2 do artigo 16.º do Estatuto dos Deputados, e [Resolução da Assembleia da República n.º 57/2004](https://diariodarepublica.pt/web/guest/pesquisa/-/search/515264/details/normal?l=1), de 6 de agosto, alterada pelas [Resoluções da Assembleia da República n.os 12/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/518578/details/normal?l=1), de 20 de março, [101/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/482606/details/normal?l=1), de 26 de novembro, [60/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/335199/details/normal?l=1), de 6 de julho, [164/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/145191/details/normal?l=1), de 29 de dezembro, e [148/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/190272/details/normal?l=1), de 27 de dezembro.
+
+62 - Despesas com o transporte de pessoal nos seguintes âmbitos: comissões parlamentares, comemorações do aniversário do 25 de abril, grupos parlamentares de amizade, receção de delegações e entidades oficiais, programa parlamento dos jovens e cooperação interparlamentar. Inclui ainda as despesas com transporte de bens já na posse dos serviços e as despesas com o Conselho de Fiscalização do Sistema de Informações da República Portuguesa.
+
+63 - Despesas relacionadas com necessidades esporádicas de representação dos Serviços da Assembleia da República, no âmbito das seguintes atividades: comissões parlamentares, deslocações ao estrangeiro, grupos parlamentares de amizade, receção de delegações e entidades oficiais, programa parlamento dos jovens, cooperação interparlamentar, e as decorrentes das atividades do Conselho de Fiscalização do Sistema de Informações da República Portuguesa e do Conselho de Fiscalização do Sistema Integrado de Informação Criminal.
+
+64 - Despesas com a constituição de prémios de seguros de pessoas e bens, com exceção de seguros de saúde.
+
+65 - [Resolução da Assembleia da República n.º 57/2004](https://diariodarepublica.pt/web/guest/pesquisa/-/search/515264/details/normal?l=1), de 6 de agosto, alterada pelas [Resoluções da Assembleia da República n.os 12/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/518578/details/normal?l=1), de 20 de março, [101/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/482606/details/normal?l=1), de 26 de novembro, [60/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/335199/details/normal?l=1), de 6 de julho, [164/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/145191/details/normal?l=1), de 29 de dezembro, e [148/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/190272/details/normal?l=1), de 27 de dezembro. Engloba essencialmente despesas de deslocação e alojamento em território nacional e no estrangeiro, no âmbito da receção de delegações e entidades oficiais, programa parlamento dos jovens, cooperação interparlamentar, e ainda as despesas previstas pelo Conselho de Fiscalização do Sistema de Informações da República Portuguesa, pelo Conselho Nacional de Procriação Medicamente Assistida, pelo Conselho de Fiscalização do Sistema Integrado de Informação Criminal e pelo Conselho de Fiscalização da Base de Dados de Perfis de ADN.
+
+66 - Despesas relativas a estudos, pareceres, projetos e consultoria, de organização, apoio à gestão e serviços de natureza técnica prestados por particulares ou outras entidades. Inclui as despesas previstas no âmbito do Conselho Nacional de Procriação Medicamente Assistida.
+
+67 - Despesas efetuadas no âmbito da formação prestada por entidades externas (singulares ou coletivas), quer a funcionários, quer a cooperantes no âmbito dos programas de cooperação interparlamentares existentes.
+
+68 - Despesas com a organização de seminários, exposições e similares, nomeadamente no âmbito editorial relativamente às sessões de lançamento de livros. Inclui as despesas previstas no âmbito do Conselho Nacional de Procriação Medicamente Assistida.
+
+69 - Despesas com publicidade, nomeadamente as inerentes às atividades das comissões parlamentares, às cerimónias comemorativas, a concursos e à atividade editorial. Inclui as despesas com o Conselho Nacional de Procriação Medicamente Assistida.
+
+70 - Artigo 61.º da [Lei n.º 28/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/651724/details/normal?l=1), de 30 de julho.
+
+71 - Despesas referentes à assistência técnica de bens no âmbito de contratos realizados. Inclui as despesas com o Conselho de Fiscalização do Sistema de Informações da República Portuguesa, com o Conselho dos Julgados de Paz, com o Conselho Nacional de Procriação Medicamente Assistida, e com o Conselho de Fiscalização da Base de Dados dos Perfis de ADN.
+
+72 - Despesas relativas a serviços de restauração e cafetaria. Inclui as despesas com o Conselho de Fiscalização do Sistema de Informações da República Portuguesa, com o Conselho Nacional de Procriação Medicamente Assistida e com o Conselho de Fiscalização da Base de Dados dos Perfis de ADN.
+
+73 - Despesas relativas a serviços técnicos prestados por empresas e que a Assembleia da República não pode executar pelos seus meios, no âmbito das comissões parlamentares, das cerimónias comemorativas, das deslocações ao estrangeiro, dos grupos parlamentares de amizade, da receção de delegações e entidades oficiais, do programa parlamento dos jovens, da ação social, da atividade editorial (impressão gráfica) e dos programas de cooperação interparlamentar. Inclui ainda as despesas neste âmbito previstas pelos seguintes Conselhos: Conselho de Fiscalização do Sistema de Informações da República Portuguesa, Conselho dos Julgados de Paz, Conselho Nacional de Procriação Medicamente Assistida, Conselho de Fiscalização do Sistema de Integrado de Informação Criminal e Conselho de Fiscalização da Base de Dados dos Perfis de ADN.
+
+74 - Despesas relacionadas com pagamentos de portagens.
+
+75 - Despesas com serviços médicos prestados no gabinete médico.
+
+76 - Despesas com a aquisição de serviços não tipificados em rubrica específica.
+
+77 - Despesas associadas a serviços bancários, incluindo comissões inerentes às transações por multibanco.
+
+78 - Despesas efetuadas no âmbito do Grupo Desportivo Parlamentar, em consonância com o respetivo estatuto, publicado no Diário da República, 3.ª série, n.º 134, de 9 de junho de 2000.
+
+79 - N.º 3 do artigo 28.º do Estatuto dos Deputados (despesas efetuadas no âmbito da Associação dos Ex-Deputados).
+
+80 - Despesas correntes no âmbito da cooperação internacional, no domínio parlamentar.
+
+81 - Artigo 5.º da Lei do Financiamento dos Partidos Políticos e das Campanhas Eleitorais.
+
+82 - Artigo 17.º do Estatuto dos Deputados.
+
+83 - Dotação para fazer face a despesas não previstas e inadiáveis, resultantes de atualizações legal ou contratualmente impostas ou decorrentes de correções à variação dos índices de preços ao consumidor e inflação, IVA e Indexante de Apoios Sociais (IAS).
+
+84 - Despesas inerentes ao IRC descontado pelas entidades bancárias aquando do pagamento de juros, de taxas de justiça e de outras taxas cobradas pela Câmara Municipal de Lisboa.
+
+85 - Quotas devidas pela Assembleia da República pela sua participação em organismos internacionais.
+
+86 - Inscrição nas feiras do livro em que a Assembleia da República participa.
+
+87 - Despesa com obras nos edifícios da Assembleia da República, com exceção do Palácio de S. Bento, cujas despesas estão inscritas em rúbrica própria ("bens de domínio público").
+
+88 - Aquisição de material de transporte para o Conselho dos Julgados de Paz.
+
+89 - Despesas com a aquisição de bens de investimento direta e exclusivamente ligados às tecnologias informáticas e à produção informática, como computadores, terminais, impressoras, ou scanners.
+
+90 - Despesas com as aplicações informáticas e respetivos upgrades, incluindo o software.
+
+91 - Despesas com a aquisição equipamento administrativo.
+
+92 - Despesas com aquisição de bens inventariáveis de natureza artística ou cultural.
+
+93 - Despesas com equipamento relacionado com a atividade audiovisual.
+
+94 - Despesa com obras no Palácio de São Bento classificado como «Bem de domínio público».
+
+95 - Aquisição de equipamento no âmbito do programa de cooperação interparlamentar existente.
+
+96 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, alterada pela [Lei n.º 24/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66863790/details/normal?l=1), de 27 de março, e artigo 9.º da [Lei n.º 71/78](https://diariodarepublica.pt/web/guest/pesquisa/-/search/325307/details/normal?l=1), de 27 de dezembro, alterada pela [Lei n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/495748/details/normal?l=1), de 12 de abril.
+
+97 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, alterada pela [Lei n.º 24/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66863790/details/normal?l=1), de 27 de março, [Lei n.º 46/2007](https://diariodarepublica.pt/web/guest/pesquisa/-/search/640919/details/normal?l=1), de 24 de agosto e [Decreto-Lei n.º 134/94](https://diariodarepublica.pt/web/guest/pesquisa/-/search/263239/details/normal?l=1), de 20 de maio.
+
+98 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, alterada pela [Lei n.º 24/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66863790/details/normal?l=1), de 27 de março, e n.º 2 do artigo 20.º da [Lei n.º 43/2004](https://diariodarepublica.pt/web/guest/pesquisa/-/search/480712/details/normal?l=1), de 18 de agosto, alterada pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/344942/details/normal?l=1), de 31 de dezembro, [Lei n.º 67/98](https://diariodarepublica.pt/web/guest/pesquisa/-/search/239857/details/normal?l=1), de 26 de outubro e [Resolução da Assembleia da República n.º 59/2004](https://diariodarepublica.pt/web/guest/pesquisa/-/search/480520/details/normal?l=1), de 19 de agosto.
+
+99 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, alterada pela [Lei n.º 24/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66863790/details/normal?l=1), de 27 de março, e [Lei n.º 24/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/494178/details/normal?l=1), de 29 de maio.
+
+100 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, alterada pela [Lei n.º 24/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66863790/details/normal?l=1), de 27 de março, e n.º 2 do artigo 43.º da [Lei n.º 9/91](https://diariodarepublica.pt/web/guest/pesquisa/-/search/614291/details/normal?l=1), de 9 de abril, e artigos 21.º e 23.º do [Decreto-Lei n.º 279/93](https://diariodarepublica.pt/web/guest/pesquisa/-/search/354930/details/normal?l=1), de 11 de agosto.
+
+101 - [Lei n.º 59/90](https://diariodarepublica.pt/web/guest/pesquisa/-/search/564586/details/normal?l=1), de 21 de novembro, alterada pela [Lei n.º 24/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66863790/details/normal?l=1) de 27 de março, e n.º 5 do artigo 48.º e alínea a) do artigo 50.º da [Lei n.º 53/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/583192/details/normal?l=1), de 8 de novembro.
+
+102 - Lei do Financiamento dos Partidos Políticos e das Campanhas Eleitorais.
+
+103 - Inscrição do montante necessário ao pagamento da subvenção pública para as campanhas das eleições para a Presidência da República e para a Assembleia Legislativa da Região Autónoma dos Açores. Lei do Financiamento dos Partidos Políticos e das Campanhas Eleitorais.

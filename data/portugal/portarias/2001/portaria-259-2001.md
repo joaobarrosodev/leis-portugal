@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:345320:por
+title: Portaria n.º 259/2001
+short_title: null
+summary: Renova, por um período de seis anos, a concessão da zona de caça turística da Herdade de Porto Seixo, abrangendo
+  os prédios rústicos designados por Herdade do Porto Seixo, Monte Cunha e anexas e Vale Tripeiro, sitos na freguesia e município
+  de Benavente. Revoga a Portaria n.º 472/2000, de 24 de Julho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 259/2001
+official_date: null
+publication_date: '2001-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 73/2001, Série I-B de 2001-03-27
+  number: '73'
+  series: I
+  supplement: null
+  pages: 1701 - 1701
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/03/073b00/17011701.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/259/2001/03/27/p/dre/pt/html
+  oj: null
+  dre: '345320'
+  dre_path: /dr/detalhe/portaria/259-2001-345320
+  internal: pt:dre:345320:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-2001-345320
+  metadata_url: https://data.dre.pt/eli/port/259/2001/03/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-2001-345320
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-03-27T00:00:00Z'
+integrity:
+  source_sha256: 3a412561d40f0753747810e70672d1a4956594abbd9cea7faa8fb1f2d7bf50b4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-259-345320.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Benavente
+- CAÇA
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/472/2000/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/472/2000/07/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/494/1994/07/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/494/1994/07/05/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 259/2001
+
+de 27 de Março
+
+Pela [Portaria n.º 494/94](https://diariodarepublica.pt/dr/detalhe/portaria/494-1994-291585), de 5 de Julho, foi concessionada a Edmundo António Gonçalves Albergaria Martins a zona de caça turística da Herdade de Porto Seixo (processo n.º 1553-DGF), situada na freguesia e município de Benavente, com uma área de 624,6750 ha, válida até 5 de Julho de 2000.
+
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 4 do artigo 83.º, em articulação com o disposto no n.º 1 do artigo 79.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, e ainda no disposto no n.º 3 do artigo 164.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro;
+
+Ouvidos o Conselho Cinegético Municipal e o Conselho Nacional da Caça e da Conservação da Fauna:
+
+Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça turística da Herdade de Porto Seixo (processo n.º 1553-DGF), abrangendo os prédios rústicos designados por Herdade de Porto Seixo, Monte Cunha e anexas e Vale Tripeiro, sitos na freguesia e município de Benavente, com uma área de 624,6750 ha.
+
+2.º Por despacho do Secretário de Estado do Turismo, foi a presente renovação considerada de relevante interesse, nos termos e para os efeitos previstos na alínea b) do n.º 2 do artigo 66.º e do artigo 71.º, ambos do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, condicionada à aprovação pela Direcção-Geral do Turismo do projecto do pavilhão de caça, à execução e conclusão das obras do pavilhão de caça, no prazo de 12 meses a contar da data da notificação da aprovação do projecto pela DGT, e à verificação, por esta entidade, da conformidade das obras efectuadas com o projecto funcional do pavilhão de caça previsto.
+
+3.º É revogada a [Portaria n.º 472/2000](https://diariodarepublica.pt/dr/detalhe/portaria/472-2000-321370), de 24 de Julho.
+
+4.º A presente portaria produz efeitos a partir do dia 6 de Julho de 2000.
+
+Em 15 de Fevereiro de 2001.
+
+Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.

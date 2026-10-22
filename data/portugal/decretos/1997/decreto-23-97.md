@@ -1,0 +1,203 @@
+---
+schema_version: '1.0'
+id: pt:dre:396755:por
+title: Decreto n.º 23/97
+short_title: null
+summary: Aprova o Acordo de Cooperação no Domínio Geológico e Mineiro entre a República Portuguesa e a República de Angola,
+  assinado em Lisboa aos 18 de Dezembro de 1996, que regula a cooperação entre os dois países no domínio geológico e mineiro
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 23/97
+official_date: null
+publication_date: '1997-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/1997, Série I-A de 1997-05-16
+  number: '113'
+  series: I
+  supplement: null
+  pages: 2419 - 2421
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/05/113a00/24192421.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/23/1997/05/16/p/dre/pt/html
+  oj: null
+  dre: '396755'
+  dre_path: /dr/detalhe/decreto/23-1997-396755
+  internal: pt:dre:396755:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-1997-396755
+  metadata_url: https://data.dre.pt/eli/dec/23/1997/05/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/23-1997-396755
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-05-16T00:00:00Z'
+integrity:
+  source_sha256: bf689815f5ed279b4f02142fefd31b9c86be9bfe8fe3c188a3c6cd7b99323eec
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-23-396755.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Cooperação Técnica
+- Portugal
+- Lisboa
+- Indústria Mineira
+- Angola
+- Cooperação Económica
+relationships: []
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 23/97
+
+de 16 de Maio
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único
+
+É aprovado o Acordo de Cooperação no Domínio Geológico e Mineiro entre a República Portuguesa e a República de Angola, assinado em Lisboa aos 18 de Dezembro de 1996, cuja versão autêntica em língua portuguesa segue em anexo.
+
+Visto e aprovado em Conselho de Ministros de 6 de Março de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - Manuel Maria Ferreira Carrilho.
+
+**Assinado em 27 de Abril de 1997.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 29 de Abril de 1997.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+ACORDO DE COOPERAÇÃO NO DOMÍNIO GEOLÓGICO E MINEIRO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE ANGOLA
+
+A República Portuguesa e a República de Angola, em conformidade com as disposições do Acordo Geral de Cooperação e demais instrumentos bilaterais em vigor entre os dois países e no desejo de contribuírem para a realização de objectivos de interesse comum, acordam pelo presente Acordo os princípios gerais pelos quais se regerá a cooperação no domínio geológico e mineiro.
+
+###### Artigo 1.º
+
+A cooperação no domínio geológico e mineiro entre os dois Estados será efectuada pelo Ministério da Economia (ME), através do Instituto Geológico e Mineiro, eventualmente com o apoio de outros organismos do ME, sob a coordenação do Gabinete de Estudos e Prospectiva Económica, e pelo Ministério dos Negócios Estrangeiros (MNE), através do Instituto da Cooperação Portuguesa, pelo lado português, e pelo Ministério de Geologia e Minas, pelo lado angolano, adiante designados por Partes, com vista ao aproveitamento das suas potencialidades para a resolução dos problemas que se coloquem nesta área.
+
+###### Artigo 2.º
+
+As acções de cooperação a empreender inserir-se-ão nas áreas a seguir referidas, sem prejuízo de outras que, no futuro, venham a ser definidas por acordo das Partes:
+
+a) Apoio técnico à organização, modernização e investimento no sector geológico e mineiro angolano;
+
+b) Consultoria e assistência técnica, designadamente na elaboração de estudos técnico-económicos, visando a detecção de oportunidades de investimento em sectores prioritários e apoio directo às metodologias a utilizar na avaliação de projectos de investimento;
+
+c) Promoção e apoio ao desenvolvimento da cooperação entre empresas portuguesas e angolanas;
+
+d) Apoio à formação profissional e ao aperfeiçoamento de quadros técnicos angolanos, através da organização de estágios, cursos ou seminários em Portugal ou em Angola;
+
+e) Envio, em regime de permuta, de publicações e fornecimento de documentação ou informação que interessem ao sector;
+
+f) Intercâmbio de informações técnicas sobre reuniões nacionais e internacionais em que as Partes participem.
+
+###### Artigo 3.º
+
+1 - A gestão deste Acordo será feito por uma comissão coordenadora com carácter permanente, que se reunirá uma vez por ano, alternadamente em Portugal e em Angola, podendo realizar-se reuniões extraordinárias em qualquer dos países quando houver razões que o justifiquem.
+
+2 - A comissão coordenadora integrará, pela Parte portuguesa, representantes do Gabinete de Estudos e Prospectiva Económica, do Ministério da Economia, do Instituto Geológico e Mineiro e do Instituto da Cooperação Portuguesa, e, pela Parte angolana, representantes do Ministério de Geologia e Minas, designadamente do Gabinete de Estudos, Planeamento e Estatística, do Instituto Geológico de Angola, da Direcção Nacional de Minas e do Gabinete dos Recursos Humanos, bem como, sempre que necessário, de outras entidades angolanas.
+
+3 - À comissão coordenadora competirá:
+
+a) Elaborar o programa e o cronograma de trabalhos anual, suficientemente detalhados, em especial no que respeita à definição dos meios humanos, técnicos e financeiros necessários à execução dos projectos integrantes do programa definido;
+
+b) Submetê-lo à consideração das respectivas tutelas, com vista à sua aprovação pelas Partes, antes do início do ano a que se refere;
+
+c) Zelar pelo cumprimento do programa e do cronograma acordados;
+
+d) Elaborar, no último trimestre de cada ano, um relatório sobre as actividades desenvolvidas, com eventuais propostas de ajustamentos a introduzir na acção futura a desenvolver.
+
+###### Artigo 4.º
+
+1 - O suporte financeiro das acções decorrentes da aplicação deste Acordo, constantes do programa anual aprovado, será assegurado pela conjugação das disponibilidades das verbas das Partes portuguesa e angolana e de outras no âmbito bilateral ou multilateral que para o efeito vierem a ser conseguidas.
+
+2 - Serão suportados pelo Ministério da Economia os encargos referentes às acções de formação e aperfeiçoamento de quadros angolanos a realizar em Portugal, através da organização de estágios, cursos ou seminários, de acordo com o programa anual que venha a ser aprovado.
+
+3 - O Instituto da Cooperação Portuguesa suportará os encargos com a formação de quadros angolanos a levar a efeito em Portugal através da concessão de bolsas, nos moldes estabelecidos pela cooperação portuguesa, e participará nos custos das missões de curta duração a realizar na República de Angola, de acordo com o programa anual que venha a ser aprovado, compreendendo estes encargos o pagamento de ajudas de custo aos técnicos a deslocar, segundo as tabelas em vigor para o funcionalismo público em Portugal nas deslocações ao estrangeiro, e respectivo seguro de vida, na modalidade constante da apólice em vigor para os funcionários do Instituto da Cooperação Portuguesa.
+
+4 - À Parte angolana compete o pagamento das viagens dos formandos para as acções a desenvolver em Portugal e, para as acções a realizar em Angola, serão também da sua responsabilidade:
+
+a) A disponibilidade de meios de transporte necessários para as deslocações locais;
+
+b) As autorizações para as deslocações no País, sempre que necessário;
+
+c) A garantia de alojamento compatível com a categoria do pessoal deslocado e respectiva alimentação;
+
+d) A assistência médica e medicamentosa;
+
+e) O apoio técnico e administrativo para o bom êxito das missões, designadamente a cedência do pessoal necessário ao acompanhamento dos trabalhos;
+
+f) A isenção de direitos alfandegários e outras taxas relativas à importação temporária dos equipamentos e de mais material necessário aos trabalhos a efectuar;
+
+g) A colaboração de outras entidades oficiais e serviços públicos locais.
+
+5 - O pagamento das viagens dos técnicos portugueses que se desloquem à República de Angola será assegurado em moldes a definir entre os organismos envolvidos, na medida das suas disponibilidades, e de acordo com os programas anuais que forem aprovados entre as Partes.
+
+6 - Os encargos decorrentes da permuta de informação técnica serão suportados por cada uma das Partes e, eventualmente, por outras fontes de financiamento.
+
+7 - A prestação de outra assistência técnica e consultoria será efectuada em moldes a definir caso a caso, de acordo com o programa de trabalhos anual que venha a ser estabelecido.
+
+8 - Ambas as Partes favorecerão a realização de iniciativas de natureza trilateral ou multilateral de interesse mútuo, nomeadamente com as organizações internacionais de que façam parte.
+
+###### Artigo 5.º
+
+1 - Em relação à documentação sobre Angola, relativa a geologia e minas, arquivada em Portugal em diversas instituições e elaborada durante o período da administração portuguesa até à independência, a Parte portuguesa assegurará os trabalhos de compilação e sistematização necessários para que possa vir a ser facultada ao Ministério de Geologia e Minas de Angola.
+
+2 - A comissão coordenadora criada pelo artigo 3.º do presente Acordo estabelecerá os mecanismos de consulta necessários para este efeito e ainda para garantir a resposta aos pedidos concretos de informação nesta matéria que venham a ser formulados pela Parte angolana.
+
+###### Artigo 6.º
+
+O presente Acordo entrará em vigor na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica interna em cada um dos países e será válido por um período de três anos, automaticamente prorrogável, podendo ser denunciado por qualquer das Partes mediante comunicação escrita à outra com a antecedência mínima de 90 dias sobre a data do período então em curso.
+
+Feito em Lisboa, aos 18 de Dezembro de 1996, em dois exemplares em língua portuguesa, fazendo ambos igualmente fé.
+
+Pela República Portuguesa:
+
+José Rodrigues Pereira Penedos, Secretário de Estado da Indústria e Energia.
+
+Pela República de Angola:
+
+António Carlos Sumbula, Vice-Ministro Coordenador de Geologia e Minas.

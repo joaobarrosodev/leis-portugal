@@ -1,0 +1,631 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:482829:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-968980475",
+ "dre_path": "/dr/detalhe/portaria/1268-2009-482829",
+ "source_lastmod": "2026-02-10",
+ "versions": [
+  {
+   "date": "2009-10-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "968980775",
+    "968980975",
+    "968981175",
+    "968981375",
+    "968981575",
+    "968981775",
+    "968981975",
+    "968982175",
+    "968982375",
+    "968982575",
+    "968982775",
+    "968982975",
+    "968983175",
+    "968983375",
+    "968983575",
+    "968983775",
+    "968983975",
+    "968984175",
+    "968984375",
+    "968984575",
+    "968984775",
+    "968984975",
+    "968985175",
+    "968985375",
+    "968985575",
+    "968985775",
+    "968985975",
+    "968986175",
+    "968986375",
+    "968986575",
+    "968986775"
+   ]
+  },
+  {
+   "date": "2010-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:343948:por",
+     "title": "Portaria n.º 814/2010",
+     "published": "2010-08-27",
+     "dre_path": "/dr/detalhe/portaria/814-2010-343948"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "968980775",
+    "968980975",
+    "968981175",
+    "968981375",
+    "968981575",
+    "968981775",
+    "968981975",
+    "968982175",
+    "968982375",
+    "968982575",
+    "968982775",
+    "968982975",
+    "1038914231",
+    "1038914218",
+    "968983575",
+    "1038914219",
+    "968983975",
+    "1038914220",
+    "968984375",
+    "1038914221",
+    "1038914222",
+    "968984975",
+    "1038914223",
+    "1038914224",
+    "1038914225",
+    "1038914226",
+    "1038914227",
+    "1038914228",
+    "1038914229",
+    "1038914230",
+    "968986575",
+    "968986775"
+   ]
+  },
+  {
+   "date": "2011-06-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670056:por",
+     "title": "Portaria n.º 228/2011",
+     "published": "2011-06-09",
+     "dre_path": "/dr/detalhe/portaria/228-2011-670056"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "968980775",
+    "968980975",
+    "968981175",
+    "968981375",
+    "968981575",
+    "968981775",
+    "968981975",
+    "968982175",
+    "968982375",
+    "968982575",
+    "968982775",
+    "968982975",
+    "1038914231",
+    "1049282307",
+    "968983575",
+    "1038914219",
+    "968983975",
+    "1038914220",
+    "968984375",
+    "1038914221",
+    "1038914222",
+    "968984975",
+    "1038914223",
+    "1038914224",
+    "1038914225",
+    "1038914226",
+    "1049282308",
+    "1038914228",
+    "1049282309",
+    "1049282310",
+    "968986575",
+    "968986775"
+   ]
+  },
+  {
+   "date": "2013-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498497:por",
+     "title": "Portaria n.º 253/2013",
+     "published": "2013-08-07",
+     "dre_path": "/dr/detalhe/portaria/253-2013-498497"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "968980775",
+    "968980975",
+    "968981175",
+    "968981375",
+    "968981575",
+    "968981775",
+    "968981975",
+    "968982175",
+    "968982375",
+    "968982575",
+    "968982775",
+    "968982975",
+    "1038914231",
+    "1049282307",
+    "968983575",
+    "1038914219",
+    "968983975",
+    "1038914220",
+    "968984375",
+    "1038914221",
+    "1038914222",
+    "968984975",
+    "1038914223",
+    "1038914224",
+    "1038914225",
+    "1038914226",
+    "1049282308",
+    "1038914228",
+    "1049282309",
+    "1049282310",
+    "1051075724",
+    "968986775"
+   ]
+  }
+ ],
+ "fragments": {
+  "968980775": {
+   "fragment_id": "968980675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, estabelece as regras gerais do apoio ao desenvolvimento rural sustentável, o qual deve contribuir para o aumento da competitividade da agricultura e da silvicultura, a melhoria do ambiente e da paisagem rural e a promoção da qualidade de vida nas zonas rurais e da diversificação das actividades económicas.\n\nInserida no objectivo de melhoria do ambiente e da paisagem rural, a medida n.º 2.2, «Valorização de modos de produção», do Programa de Desenvolvimento Rural do Continente, designado por PRODER, visa incentivar práticas de gestão das explorações e de produção de bens agrícolas assentes em compromissos que contribuem para a protecção e melhoria do ambiente, da paisagem, dos recursos naturais e do solo que vão para além dos compromissos básicos exigidos nas Boas Condições Agrícolas e Ambientais (BCAA), incentivar a conservação da diversidade genética animal e vegetal e o seu melhoramento, e contribuir para a produção de produtos de qualidade certificada.\n\nA referida medida é constituída por três acções distintas, sendo a acção n.º 2.2.3, «Conservação e melhoramento de recursos genéticos», destinada a contribuir para a manutenção e melhoria da biodiversidade através da conservação e desenvolvimento do património genético e, desta forma, para a sustentabilidade dos espaços rurais e dos seus recursos naturais.\n\nEsta acção constitui o enquadramento regulamentar da subacção 2.2.3.1, «Componente vegetal», com o objectivo específico de conservar a variabilidade genética, promovendo, sempre que possível, a sua evolução para a utilização económica e valorizando os conhecimentos tradicionais associados aos recursos genéticos vegetais, nomeadamente através do apoio à instalação de campos de conservação e a acções de caracterização, preservação e valorização de variedades locais.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:"
+  },
+  "968980975": {
+   "fragment_id": "968980875",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento de Aplicação da Subacção n.º 2.2.3.1, «Componente Vegetal», da acção n.º 2.2.3, «Conservação e melhoramento de recursos genéticos», da medida n.º 2.2, «Valorização dos modos de produção», do subprograma n.º 2, «Gestão sustentável do espaço rural», do Programa de Desenvolvimento Rural para o Continente, abreviadamente designado por PRODER."
+  },
+  "968981175": {
+   "fragment_id": "968981075",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Regulamento referido no artigo 1.º compreende os seguintes anexos, que dele fazem parte integrante:\n\na) Anexo I, relativo às despesas elegíveis e não elegíveis;\n\nb) Anexo II, relativo aos níveis a considerar na hierarquização dos pedidos de apoio."
+  },
+  "968981375": {
+   "fragment_id": "968981275",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "968981575": {
+   "fragment_id": "968981475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Outubro de 2009."
+  },
+  "968981775": {
+   "fragment_id": "968981675",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DA SUBACÇÃO N.º 2.2.3.1, «COMPONENTE VEGETAL»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DA SUBACÇÃO N.º 2.2.3.1, «COMPONENTE VEGETAL»"
+  },
+  "968981975": {
+   "fragment_id": "968981875",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "968982175": {
+   "fragment_id": "968982075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da subacção n.º 2.2.3.1, «Componente vegetal», da acção n.º 2.2.3, «Conservação e melhoramento de recursos genéticos», da medida n.º 2.2, «Valorização dos modos de produção», do subprograma n.º 2, «Gestão sustentável do espaço rural», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER."
+  },
+  "968982375": {
+   "fragment_id": "968982275",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nOs apoios previstos no âmbito do presente Regulamento prosseguem os seguintes objectivos:\n\na) Conservar a variabilidade genética com valor para a agricultura e alimentação;\n\nb) Promover a evolução para a utilização económica de variedades locais;\n\nc) Valorizar os conhecimentos tradicionais associados aos recursos genéticos vegetais."
+  },
+  "968982575": {
+   "fragment_id": "968982475",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente Regulamento, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, entende-se por:\n\na) «Colecção de campo» a colecção activa constituída por um conjunto de plantas ou de variedades representativas da variabilidade genética de uma espécie;\n\nb) «Colecção de manutenção ou de referência» a colecção activa constituída por um conjunto de plantas representativas de uma variedade e que se destina a manter a sua pureza e identidade genética ou de outras variedades que sejam utilizadas como referência;\n\nc) «Conservação ex situ» a conservação de material genético de origem vegetal fora do seu meio natural;\n\nd) «Conservação in situ» a conservação dos ecossistemas e habitats naturais e a manutenção e reconstituição de populações viáveis de espécies no seu meio natural e, no caso de espécies vegetais cultivadas, no meio em que se desenvolveram os respectivos caracteres distintivos;\n\ne) «Contrato de parceria» o documento de constituição de uma parceria, por via do qual entidades privadas e públicas se obrigam de forma duradoura a assegurar o desenvolvimento de actividades tendentes à satisfação de necessidades colectivas e no qual se encontram estabelecidos objectivos dessa pareceria e as obrigações dos seus membros;\n\nf) «Entidade gestora da parceria» a pessoa colectiva pública responsável pela gestão administrativa e executiva da parceria, designada pelos respectivos membros para a representar;\n\ng) «Plano de acção» o documento que descreve as acções a empreender, identificando as actividades a promover, por cada uma das entidades no caso das parcerias, as metas a alcançar e respectiva fundamentação, calendarização e orçamento;\n\nh) «Termo da operação» o ano da conclusão da operação, determinado no contrato de financiamento;\n\ni) «Variedade local ou autóctone» o conjunto de populações ou clones de uma espécie vegetal naturalmente adaptados às condições ambientais da sua região."
+  },
+  "968982775": {
+   "fragment_id": "968982675",
+   "type": 11,
+   "heading": "Artigo 4.º — Área geográfica de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Área geográfica de aplicação\n\nO presente Regulamento tem aplicação em todo o território do continente."
+  },
+  "968982975": {
+   "fragment_id": "968982875",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\nPodem beneficiar dos apoios previstos no presente Regulamento as seguintes entidades:\n\na) Pessoas colectivas públicas com actividades no domínio da prospecção, colheita, caracterização e avaliação, conservação, multiplicação e certificação dos materiais de propagação para efeitos da conservação dos recursos fitogenéticos;\n\nb) Parcerias entre as entidades referidas na alínea a) e pessoas singulares ou colectivas de natureza privada com conhecimentos no domínio da prospecção, colheita, caracterização e avaliação, conservação, multiplicação e certificação dos materiais de propagação para efeitos da conservação dos recursos fitogenéticos."
+  },
+  "968983175": {
+   "fragment_id": "968983075",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Estarem legalmente constituídos quando se trate de pessoas colectivas;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos;\n\nc) Possuírem a situação regularizada face à administração fiscal e à segurança social;\n\nd) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\ne) Disporem de contabilidade actualizada e organizada de acordo com a legislação em vigor;\n\nf) Disporem de capacidade técnica, nomeadamente meios humanos e materiais de apoio à conservação in situ ou ex situ.\n\n2 - Os beneficiários a que se refere a alínea b) do artigo 5.º devem ainda apresentar um contrato de parceria no qual estejam expressos as obrigações, os deveres e as responsabilidades de todos os intervenientes, bem como a designação da entidade gestora da parceria."
+  },
+  "968983375": {
+   "fragment_id": "968983275",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos no presente Regulamento as operações que se enquadrem nos objectivos definidos no artigo 2.º de acordo com a seguinte tipologia:\n\na) Prospecção, colheita, caracterização e avaliação, conservação e multiplicação das variedades locais de espécies vegetais não incluídas nas variedades inventariadas e caracterizadas pela Direcção-Geral de Agricultura e Desenvolvimento Rural (DGADR), divulgadas no site da DGADR;\n\nb) Melhoramento de variedades já caracterizadas, nomeadamente através da sua inclusão em sistemas de certificação dos materiais de propagação e de certificação dos seus produtos finais e, sempre que possível, a realização de acções destinadas a promover a sua valorização económica.\n\n2 - As operações referidas no número anterior devem apresentar:\n\na) Um plano de acção com coerência técnica e financeira, relativo a um período com a duração mínima de 36 e máxima de 54 meses, devendo incluir um orçamento previsional anualizado das despesas a efectuar por actividade;\n\nb) Uma descrição detalhada das competências técnicas dos recursos humanos envolvidos, da capacidade física para a realização das operações propostas, assim como da descrição detalhada da situação de partida e dos objectivos a atingir;\n\nc) Descrição das actividades técnicas a prosseguir, em função da tipologia da operação definida no número anterior e respectivos prazos de execução, identificando as acções destinadas a promover a sua valorização económica.\n\n3 - Não se encontram abrangidas pelos benefícios dos apoios previstos no presente Regulamento as espécies vegetais ornamentais ou florestais."
+  },
+  "968983575": {
+   "fragment_id": "968983475",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e não elegíveis são as constantes do anexo i do presente Regulamento."
+  },
+  "968983775": {
+   "fragment_id": "968983675",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente Regulamento devem cumprir, além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes:\n\na) Executar a operação nos termos e prazos fixados no contrato de financiamento;\n\nb) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nc) Publicitar os apoios que lhe forem atribuídos nos termos da legislação comunitária aplicável e das normas técnicas do PRODER;\n\nd) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;\n\ne) Cumprir as normas legais aplicáveis em matéria de segurança e higiene no trabalho;\n\nf) Manter um sistema de contabilidade nos termos previstos na alínea e) do n.º 1 do artigo 6.º;\n\ng) Manter a actividade existente à data da candidatura e as condições legais necessárias ao exercício da mesma, durante o período de cinco anos a contar da data de celebração do contrato, ou até ao termo da operação, se tal termo ultrapassar os cinco anos;\n\nh) Não alocar, alienar ou por qualquer forma onerar os equipamentos co-financiados, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, sem prévia autorização da autoridade de gestão;\n\ni) Executar as acções previstas no plano de acção;\n\nj) Instalar e ou manter colecções de manutenção ou de referência, em campo ou in vitro;\n\nl) Elaborar um relatório anual de execução do respectivo plano de acção;\n\nm) Rever e adaptar os planos quando se justifique;\n\nn) Promover a troca de informação entre as diversas entidades interessadas;\n\no) Fornecer ao Banco Português de Germoplasma Vegetal duplicados do material vegetal colhido, quando possível, assim como a respectiva documentação;\n\np) Efectuar a divulgação dos resultados e a promoção das variedades autóctones com vista a favorecer a sua entrada no mercado sempre que tal se afigure viável;\n\nq) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através de conta bancária específica para o efeito.\n\n2 - A entidade gestora da parceria deve ainda:\n\na) Dispor de um dossier específico para a operação devidamente organizado, nos termos definidos em orientação técnica específica (OTE);\n\nb) Elaborar o relatório anual de progresso, nos termos definidos em OTE;\n\nc) Justificar quaisquer propostas de alteração à programação da operação, a apresentar preferencialmente em anexo aos relatórios de execução anual;\n\nd) Apresentar à autoridade de gestão, um ano após o recebimento integral dos apoios, um relatório de avaliação relativo aos resultados da operação."
+  },
+  "968983975": {
+   "fragment_id": "968983875",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma, nível e limite dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma, nível e limite dos apoios\n\n1 - Os apoios são concedidos sob a forma de incentivo não reembolsável no valor de 100 % da despesa total elegível, no caso de entidades públicas, e de 80 % no caso de parcerias público-privadas.\n\n2 - O limite dos apoios a conceder por operação é de (euro) 250 000."
+  },
+  "968984175": {
+   "fragment_id": "968984075",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de apoio que cumpram os critérios de elegibilidade aplicáveis são hierarquizados de acordo com a aplicação sucessiva dos seguintes critérios:\n\na) Gravidade da situação de erosão genética de cada recurso genético;\n\nb) Perspectiva de evolução para a utilização económica;\n\nc) Extensão e sustentabilidade das parcerias candidatas.\n\n2 - Para efeitos de aplicação do disposto no número anterior, os pedidos de apoio incluídos num determinado critério são hierarquizados em função da ordem resultante da aplicação dos níveis constantes do anexo ii."
+  },
+  "968984375": {
+   "fragment_id": "968984275",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento"
+  },
+  "968984575": {
+   "fragment_id": "968984475",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação dos pedidos de apoio\n\n1 - Os pedidos de apoio são submetidos por concurso, ao abrigo do disposto na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, divulgado pela autoridade de gestão com a antecedência de 10 dias seguidos relativamente à data de publicidade do respectivo aviso de abertura.\n\n2 - A apresentação dos pedidos de apoio efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio."
+  },
+  "968984775": {
+   "fragment_id": "968984675",
+   "type": 11,
+   "heading": "Artigo 13.º — Avisos de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avisos de abertura\n\n1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e indicam, nomeadamente, o seguinte:\n\na) Os objectivos e as prioridades visadas;\n\nb) O prazo para apresentação dos pedidos de apoio;\n\nc) A dotação orçamental a atribuir;\n\nd) O número máximo de pedidos de apoio admitidos por beneficiário;\n\ne) A forma e níveis dos apoios a conceder, respeitando o disposto no artigo 10.º;\n\nf) Os critérios de selecção e hierarquização dos pedidos de apoio aplicáveis em função das prioridades e objectivos fixados para cada concurso.\n\n2 - Os avisos de abertura dos concursos são divulgados em www.proder.pt e publicados em dois jornais de grande circulação e, quando se justifique, num jornal regional relevante na área geográfica do respectivo concurso."
+  },
+  "968984975": {
+   "fragment_id": "968984875",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise e decisão dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise e decisão dos pedidos de apoio\n\n1 - O secretariado técnico da autoridade de gestão, adiante designado por secretariado técnico, analisa e emite parecer sobre os pedidos de apoio, do qual constam a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos factores referidos no artigo 11.º, bem como o apuramento do montante do custo total elegível, e procede à hierarquização dos pedidos de apoio em função da disponibilidade orçamental.\n\n2 - Para efeitos da análise referida no número anterior, o secretariado técnico deve solicitar o parecer da DGAR relativamente à coerência técnica e financeira dos planos de acção apresentados, devendo o mesmo ser emitido e devolvido ao secretariado técnico no prazo máximo de 40 dias úteis.\n\n3 - São solicitados aos candidatos, quando se justifique, pelo secretariado técnico, os documentos exigidos no formulário do pedido de apoio ou elementos complementares, constituindo a falta de entrega dos mesmos, ou a ausência de resposta, fundamento para a não aprovação do pedido.\n\n4 - O parecer referido no n.º 1 é emitido no prazo máximo de 60 dias úteis a contar do termo de apresentação dos pedidos de apoio e remetidos com a correspondente hierarquização ao gestor.\n\n5 - O secretariado técnico avalia a uniformidade de aplicação dos critérios de selecção em função do princípio da coesão territorial e da dotação orçamental referida no respectivo aviso de abertura.\n\n6 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos beneficiários pelo secretariado técnico no prazo máximo de 15 dias úteis a contar da data de recepção do parecer previsto no n.º 4."
+  },
+  "968985175": {
+   "fragment_id": "968985075",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)\n\n2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, que dispõe de 20 dias úteis para devolução do mesmo devidamente assinado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março."
+  },
+  "968985375": {
+   "fragment_id": "968985275",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução das operações\n\n1 - O prazo máximo para os beneficiários iniciarem a execução física da operação é de seis meses contados a partir da data da assinatura do contrato de financiamento.\n\n2 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo referido no número anterior."
+  },
+  "968985575": {
+   "fragment_id": "968985475",
+   "type": 11,
+   "heading": "Artigo 17.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues no secretariado técnico, no prazo de cinco dias úteis a contar da data de apresentação do pedido.\n\n3 - Apenas são aceites os pedidos de pagamento relativos a despesas efectuadas por transferência bancária, por débito em conta ou por cheque comprovados pelo respectivo extracto bancário demonstrativo do pagamento, nos termos previstos nas cláusulas contratuais e dos números seguintes.\n\n4 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, mediante a constituição de caução correspondente a 110 % do montante do adiantamento.\n\n5 - O pagamento é proporcional à realização da operação nos termos das condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.\n\n6 - Podem ser apresentados anualmente até quatro pedidos de pagamento por operação e por beneficiário."
+  },
+  "968985775": {
+   "fragment_id": "968985675",
+   "type": 11,
+   "heading": "Artigo 18.º — Análise dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Análise dos pedidos de pagamento\n\n1 - O secretariado técnico analisa os pedidos de pagamento e emite o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - São realizadas visitas aos locais da operação pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento.\n\n5 - Para a realização das visitas referidas no número anterior o secretariado técnico conta com a colaboração da DGADR.\n\n6 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P."
+  },
+  "968985975": {
+   "fragment_id": "968985875",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamentos\n\nOs pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência bancária, para a conta referida na alínea q) do n.º 1 do artigo 9.º, nos termos das cláusulas contratuais, no prazo máximo de 10 dias úteis após a emissão da autorização de despesa."
+  },
+  "968986175": {
+   "fragment_id": "968986075",
+   "type": 11,
+   "heading": "Artigo 20.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Controlo\n\n1 - A operação está sujeita a acções de controlo a partir da celebração do contrato de financiamento, nomeadamente para verificação do n.º 1 do artigo 72.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.\n\n2 - Para além do disposto no número anterior, a operação está sujeita a acções de controlo até 24 meses após a realização do pagamento final.\n\n3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório de visita."
+  },
+  "968986375": {
+   "fragment_id": "968986275",
+   "type": 11,
+   "heading": "Artigo 21.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reduções e exclusões\n\nEm caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis, ao beneficiário, as reduções e as exclusões previstas no Regulamento (CE) n.º 1975/2006, da Comissão, de 7 de Dezembro."
+  },
+  "968986575": {
+   "fragment_id": "968986475",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 8.º)\n\n1 - As despesas decorrentes da conservação e melhoramentos de recursos genéticos - componente vegetal dizem respeito à execução de acções de:\n\na) Actividades de melhoramento;\n\nb) Caracterização e avaliação de variedades locais, incluindo os conhecimentos tradicionais associados às mesmas;\n\nc) Conservação das variedades locais de espécies vegetais, incluindo a instalação e ou a manutenção de colecções de manutenção ou de referência, em campo ou in vitro;\n\nd) Divulgação das variedades locais e dos conhecimentos tradicionais associado;\n\ne) Inscrição das variedades locais no Catálogo Nacional de Variedades;\n\nf) Multiplicação e certificação dos materiais de propagação das variedades locais;\n\ng) Prospecção e colheita do material vegetal.\n\n2 - Apenas são elegíveis os custos marginais suportados pelos beneficiários, entendendo-se como tais os encargos adicionais que decorram directamente da execução da operação.\n\nDespesas elegíveis\n\nInvestimentos materiais\n\n1 - Equipamentos, incluindo equipamento de rega, equipamentos informáticos e de laboratório - aquisição ou locação financeira.\n\n2 - Material de pesquisa, nomeadamente bibliografia - aquisição.\n\n3 - Material de demonstração e de divulgação - produção ou aquisição.\n\n4 - Veículos automóveis - aquisição ou locação financeira.\n\nInvestimentos imateriais\n\n5 - Recursos humanos - remunerações ou partes de remunerações e respectivos encargos associados, nomeadamente contribuições para a segurança social e seguro de acidentes de trabalho, de técnicos ou outro pessoal, na medida em que exerçam actividades no âmbito da operação.\n\n6 - Deslocações e estadas - portagens, despesas relacionadas com deslocações em viaturas de serviço, ajudas de custo, subsídio de transporte em automóvel próprio (até aos limites legais, de acordo com as regras da sua atribuição aos servidores do Estado) bem como outras despesas com deslocações e estadas.\n\n7 - Programas informáticos - aquisição.\n\n8 - Despesas gerais, nomeadamente aquisição de serviços especializados.\n\n9 - Outras despesas associadas, nomeadamente fertilizantes, produtos fitofarmacêuticos e reagentes de laboratório.\n\nOutras despesas elegíveis\n\n10 - IVA - regime de isenção.\n\n11 - IVA - regimes mistos: afectação real: o IVA é elegível no caso de a actividade em causa constituir a parte isenta da actividade do beneficiário; pro rata: o IVA é elegível na percentagem em que não for dedutível.\n\nLimites às elegibilidades\n\n12 - Nos investimentos referidos nos n.os 1 e 4 apenas são considerados elegíveis os custos de amortização correspondentes à duração da operação, calculados com base em boas práticas contabilísticas.\n\n13 - O investimento constante no n.º 4 é elegível quando o seu uso for indispensável à execução da operação, sendo o seu limite definido em OTE.\n\n14 - As despesas relativas aos n.os 8 e 9 são limitadas a uma percentagem das despesas totais elegíveis, a definir em OTE.\n\n15 - São elegíveis as despesas do IVA quando os beneficiários se encontrem sujeitos ao regime de isenção, com excepção dos isentos ao abrigo do artigo 53.º do CIVA, cujo IVA não é elegível.\n\n16 - Não são elegíveis as despesas realizadas antes da data de apresentação dos pedidos de apoio.\n\nDespesas não elegíveis\n\nInvestimentos materiais\n\n17 - Bens de equipamento em estado de uso - aquisição, amortização e locação financeira.\n\n18 - Bens móveis e imóveis existentes - amortização.\n\n19 - Edifícios - aquisição ou amortização.\n\n20 - Substituição de equipamentos.\n\n21 - Terrenos - aquisição e amortização.\n\nInvestimentos imateriais\n\n22 - Aquisição de serviços a entidades parceiras da operação.\n\n23 - Despesas notariais e de registos.\n\n24 - Bolsas e matrículas, propinas e deslocações relativas à frequência de cursos que possibilitem a obtenção de graus académicos ou habilitações profissionais.\n\nOutras despesas não elegíveis\n\n25 - IVA - regime normal.\n\n26 - IVA - regimes mistos: afectação real: o IVA não é elegível no caso de a actividade em causa constituir a parte não isenta da actividade do beneficiário; pro rata: o IVA não é elegível na percentagem em que for dedutível.\n\n27 - IVA - regime dos não sujeitos passivos do IVA nos termos do artigo 2.º do CIVA.\n\n28 - Juros ou encargos com dívidas.\n\n29 - Constituição de cauções - salvo as relativas aos adiantamentos referidos no n.º 5 do artigo 17.º\n\n30 - Custos gerais relacionados com contratos de locação financeira, como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro."
+  },
+  "968986775": {
+   "fragment_id": "968986675",
+   "type": 14,
+   "heading": "Anexo II — Níveis de hierarquização dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Níveis de hierarquização dos pedidos de apoio\n\n(a que se refere o artigo 11.º)\n\nGravidade da situação de erosão genética de cada recurso genético:\n\n1.ª prioridade - operações relativas às espécies de fruteiras, videira, oliveira, hortícolas e agrícolas;\n\n2.ª prioridade - operações relativas às espécies aromáticas e medicinais.\n\nPerspectiva de evolução para a utilização económica:\n\n1.ª prioridade - operações relativas à constituição de colecções para a produção e certificação dos materiais de propagação de variedades locais e operações relativas à constituição de colecções de germoplasma para melhoramento futuro;\n\n2.ª prioridade - operações relativas ao melhoramento de recursos genéticos visando o reconhecimento de produtos de qualidade num dos regimes de produtos de qualidade previstos no âmbito dos apoios a conceder pela medida n.º 1.4 do PRODER ou associados a conhecimentos tradicionais locais, e operações relativas ao melhoramento de recursos genéticos visando a obtenção de variedades mais adaptadas a sistemas de produção tradicionais e à agricultura biológica;\n\n3.ª prioridade - outros trabalhos de experimentação.\n\nExtensão e sustentabilidade das parcerias candidatas:\n\n1.ª prioridade - operações a executar por parcerias detentoras de infra-estruturas, equipamentos e recursos humanos com experiência profissional comprovada no domínio das actividades a desenvolver nos respectivos planos de acção - nomeadamente no que respeita as actividades de conservação e caracterização de variedades vegetais e de melhoramento vegetal - e que detenham colecções de campo ou in vitro, de manutenção, de referência ou de sementes, ainda que distintas das espécies vegetais alvo do pedido de apoio;\n\n2.ª prioridade - outras parcerias."
+  },
+  "1038914231": {
+   "fragment_id": "968983075",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Estarem legalmente constituídos quando se trate de pessoas colectivas;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos;\n\nc) [Revogada.]\n\nd) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\ne) [Revogada.]\n\nf) Disporem de capacidade técnica, nomeadamente meios humanos e materiais de apoio à conservação in situ ou ex situ.\n\n2 - Os beneficiários a que se refere a alínea b) do artigo 5.º devem ainda apresentar um contrato de parceria no qual estejam expressos as obrigações, os deveres e as responsabilidades de todos os intervenientes, bem como a designação da entidade gestora da parceria.\n\n> Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914218": {
+   "fragment_id": "968983275",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos no presente Regulamento as operações que se enquadrem nos objectivos definidos no artigo 2.º de acordo com a seguinte tipologia:\n\na) Prospecção, colheita, caracterização e avaliação, conservação e multiplicação das variedades locais de espécies vegetais não incluídas nas variedades inventariadas e caracterizadas pela Direcção-Geral de Agricultura e Desenvolvimento Rural (DGADR), divulgadas no site da DGADR;\n\nb) Melhoramento de variedades já caracterizadas, nomeadamente através da sua inclusão em sistemas de certificação dos materiais de propagação e de certificação dos seus produtos finais e, sempre que possível, a realização de acções destinadas a promover a sua valorização económica.\n\n2 - As operações referidas no número anterior devem apresentar:\n\na) Um plano de acção com coerência técnica e financeira, relativo a um período com a duração mínima de 36 e máxima de 54 meses, devendo incluir um orçamento previsional anualizado das despesas a efectuar por actividade;\n\nb) Uma descrição detalhada das competências técnicas dos recursos humanos envolvidos, da capacidade física para a realização das operações propostas, assim como da descrição detalhada da situação de partida e dos objectivos a atingir;\n\nc) Descrição das actividades técnicas a prosseguir, em função da tipologia da operação definida no número anterior e respectivos prazos de execução, identificando as acções destinadas a promover a sua valorização económica.\n\n3 - Não se encontram abrangidas pelos benefícios dos apoios previstos no presente Regulamento as espécies vegetais ornamentais ou florestais.\n\n4 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem, desde que as respectivas operações não estejam concluídas antes da aprovação dos pedidos de apoio.\n\n5 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.\n\n> Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914219": {
+   "fragment_id": "968983675",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente Regulamento devem cumprir, além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes:\n\na) Executar a operação nos termos e prazos fixados no contrato de financiamento;\n\nb) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nc) Publicitar os apoios que lhe forem atribuídos nos termos da legislação comunitária aplicável e das normas técnicas do PRODER;\n\nd) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;\n\ne) Cumprir as normas legais aplicáveis em matéria de segurança e higiene no trabalho;\n\nf) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;\n\ng) Manter a actividade existente à data da candidatura e as condições legais necessárias ao exercício da mesma, durante o período de cinco anos a contar da data de celebração do contrato, ou até ao termo da operação, se tal termo ultrapassar os cinco anos;\n\nh) Não alocar, alienar ou por qualquer forma onerar os equipamentos co-financiados, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, sem prévia autorização da autoridade de gestão;\n\ni) Executar as acções previstas no plano de acção;\n\nj) Instalar e ou manter colecções de manutenção ou de referência, em campo ou in vitro;\n\nl) Elaborar um relatório anual de execução do respectivo plano de acção;\n\nm) Rever e adaptar os planos quando se justifique;\n\nn) Promover a troca de informação entre as diversas entidades interessadas;\n\no) Fornecer ao Banco Português de Germoplasma Vegetal duplicados do material vegetal colhido, quando possível, assim como a respectiva documentação;\n\np) Efectuar a divulgação dos resultados e a promoção das variedades autóctones com vista a favorecer a sua entrada no mercado sempre que tal se afigure viável;\n\nq) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através de conta bancária específica para o efeito.\n\n2 - A entidade gestora da parceria deve ainda:\n\na) Dispor de um dossier específico para a operação devidamente organizado, nos termos definidos em orientação técnica específica (OTE);\n\nb) Elaborar o relatório anual de progresso, nos termos definidos em OTE;\n\nc) Justificar quaisquer propostas de alteração à programação da operação, a apresentar preferencialmente em anexo aos relatórios de execução anual;\n\nd) Apresentar à autoridade de gestão, um ano após o recebimento integral dos apoios, um relatório de avaliação relativo aos resultados da operação.\n\n> Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914220": {
+   "fragment_id": "968984075",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 11.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de apoio que cumpram os critérios de elegibilidade aplicáveis são hierarquizados de acordo com a aplicação sucessiva dos seguintes critérios:\n\na) Gravidade da situação de erosão genética de cada recurso genético;\n\nb) Perspectiva de evolução para a utilização económica;\n\nc) Extensão e sustentabilidade das parcerias candidatas.\n\n2 - Para efeitos de aplicação do disposto no número anterior, os pedidos de apoio incluídos num determinado critério são hierarquizados em função da ordem resultante da aplicação dos níveis constantes do anexo ii.\n\n3 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.\n\n> Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914221": {
+   "fragment_id": "968984475",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação dos pedidos de apoio",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 12.º — Apresentação dos pedidos de apoio\n\n1 - Os pedidos de apoio são submetidos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respectivos períodos de abertura divulgados pela autoridade de gestão com uma antecedência não inferior a 10 dias seguidos relativamente ao início do prazo de submissão.\n\n2 - A apresentação dos pedidos de apoio efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.\n\n> Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914222": {
+   "fragment_id": "968984675",
+   "type": 11,
+   "heading": "Artigo 13.º — Avisos de abertura e anúncios",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 13.º — Avisos de abertura e anúncios\n\n1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objectivos e as prioridades visadas;\n\nb) O prazo para apresentação dos pedidos de apoio;\n\nc) A dotação orçamental a atribuir;\n\nd) O número máximo de pedidos de apoio admitidos por beneficiário;\n\ne) A forma e níveis dos apoios a conceder, respeitando o disposto no artigo 10.º;\n\nf) Os critérios de selecção e hierarquização dos pedidos de apoio aplicáveis em função das prioridades e objectivos fixados para cada concurso.\n\n2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.\n\n> Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914223": {
+   "fragment_id": "1039064263",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Readmissão de pedidos de apoio",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 37.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 14.º-A — Readmissão de pedidos de apoio\n\nOs pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.\n\n> Aditado pelo/a Artigo 37.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914224": {
+   "fragment_id": "968985075",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)\n\n2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, que dispõe de 20 dias úteis para devolução do mesmo devidamente assinado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março."
+  },
+  "1038914225": {
+   "fragment_id": "968985275",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução das operações\n\n1 - O prazo máximo para os beneficiários iniciarem a execução física da operação é de seis meses contados a partir da data da assinatura do contrato de financiamento.\n\n2 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo referido no número anterior."
+  },
+  "1038914226": {
+   "fragment_id": "968985475",
+   "type": 11,
+   "heading": "Artigo 17.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues no secretariado técnico, no prazo de cinco dias úteis a contar da data de apresentação do pedido.\n\n3 - Apenas são aceites os pedidos de pagamento relativos a despesas efectuadas por transferência bancária, por débito em conta ou por cheque comprovados pelo respectivo extracto bancário demonstrativo do pagamento, nos termos previstos nas cláusulas contratuais e dos números seguintes.\n\n4 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, mediante a constituição de caução correspondente a 110 % do montante do adiantamento.\n\n5 - O pagamento é proporcional à realização da operação nos termos das condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.\n\n6 - Podem ser apresentados anualmente até quatro pedidos de pagamento por operação e por beneficiário."
+  },
+  "1038914227": {
+   "fragment_id": "968985675",
+   "type": 11,
+   "heading": "Artigo 18.º — Análise dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Análise dos pedidos de pagamento\n\n1 - O secretariado técnico analisa os pedidos de pagamento e emite o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - São realizadas visitas aos locais da operação pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento.\n\n5 - Para a realização das visitas referidas no número anterior o secretariado técnico conta com a colaboração da DGADR.\n\n6 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P."
+  },
+  "1038914228": {
+   "fragment_id": "968985875",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamentos\n\nOs pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência bancária, para a conta referida na alínea q) do n.º 1 do artigo 9.º, nos termos das cláusulas contratuais, no prazo máximo de 10 dias úteis após a emissão da autorização de despesa."
+  },
+  "1038914229": {
+   "fragment_id": "968986075",
+   "type": 11,
+   "heading": "Artigo 20.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Controlo\n\n1 - A operação está sujeita a acções de controlo a partir da celebração do contrato de financiamento, nomeadamente para verificação do n.º 1 do artigo 72.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.\n\n2 - Para além do disposto no número anterior, a operação está sujeita a acções de controlo até 24 meses após a realização do pagamento final.\n\n3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório de visita."
+  },
+  "1038914230": {
+   "fragment_id": "968986275",
+   "type": 11,
+   "heading": "Artigo 21.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reduções e exclusões\n\nEm caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis, ao beneficiário, as reduções e as exclusões previstas no Regulamento (CE) n.º 1975/2006, da Comissão, de 7 de Dezembro."
+  },
+  "1049282307": {
+   "fragment_id": "968983275",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2011-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10",
+    "Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos no presente Regulamento as operações que se enquadrem nos objectivos definidos no artigo 2.º de acordo com a seguinte tipologia:\n\na) Prospecção, colheita, caracterização e avaliação, conservação e multiplicação das variedades locais de espécies vegetais não incluídas nas variedades inventariadas e caracterizadas pela Direcção-Geral de Agricultura e Desenvolvimento Rural (DGADR), divulgadas no site da DGADR;\n\nb) Melhoramento de variedades já caracterizadas, nomeadamente através da sua inclusão em sistemas de certificação dos materiais de propagação e de certificação dos seus produtos finais e, sempre que possível, a realização de acções destinadas a promover a sua valorização económica.\n\n2 - As operações referidas no número anterior devem apresentar:\n\na) Um plano de acção com coerência técnica e financeira, relativo a um período com a duração mínima de 36 e máxima de 54 meses, devendo incluir um orçamento previsional anualizado das despesas a efectuar por actividade;\n\nb) Uma descrição detalhada das competências técnicas dos recursos humanos envolvidos, da capacidade física para a realização das operações propostas, assim como da descrição detalhada da situação de partida e dos objectivos a atingir;\n\nc) Descrição das actividades técnicas a prosseguir, em função da tipologia da operação definida no número anterior e respectivos prazos de execução, identificando as acções destinadas a promover a sua valorização económica.\n\n3 - Não se encontram abrangidas pelos benefícios dos apoios previstos no presente Regulamento as espécies vegetais ornamentais ou florestais.\n\n4 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.\n\n5 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.\n\n> Alterado pelo/a Artigo 28.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10\n\n> Alterado pelo/a Artigo 36.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1049282308": {
+   "fragment_id": "968985675",
+   "type": 11,
+   "heading": "Artigo 18.º — Análise dos pedidos de pagamento",
+   "in_force_from": "2011-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10"
+   ],
+   "markdown": "###### Artigo 18.º — Análise dos pedidos de pagamento\n\n1 - O secretariado técnico analisa os pedidos de pagamento e emite o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.\n\n5 - Para a realização das visitas referidas no número anterior o secretariado técnico conta com a colaboração da DGADR.\n\n6 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.\n\n> Alterado pelo/a Artigo 28.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10"
+  },
+  "1049282309": {
+   "fragment_id": "968986075",
+   "type": 11,
+   "heading": "Artigo 20.º — Controlo",
+   "in_force_from": "2011-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10"
+   ],
+   "markdown": "###### Artigo 20.º — Controlo\n\n1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.\n\n2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.\n\n3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório de visita.\n\n> Alterado pelo/a Artigo 28.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10"
+  },
+  "1049282310": {
+   "fragment_id": "968986275",
+   "type": 11,
+   "heading": "Artigo 21.º — Reduções e exclusões",
+   "in_force_from": "2011-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10"
+   ],
+   "markdown": "###### Artigo 21.º — Reduções e exclusões\n\nEm caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.\n\n> Alterado pelo/a Artigo 28.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10"
+  },
+  "1051075724": {
+   "fragment_id": "968986475",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2013-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Portaria n.º 253/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), em vigor a partir de 2013-08-08"
+   ],
+   "markdown": "## Anexo I — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 8.º)\n\n1 - As despesas decorrentes da conservação e melhoramentos de recursos genéticos - componente vegetal dizem respeito à execução de acções de:\n\na) Actividades de melhoramento;\n\nb) Caracterização e avaliação de variedades locais, incluindo os conhecimentos tradicionais associados às mesmas;\n\nc) Conservação das variedades locais de espécies vegetais, incluindo a instalação e ou a manutenção de colecções de manutenção ou de referência, em campo ou in vitro;\n\nd) Divulgação das variedades locais e dos conhecimentos tradicionais associado;\n\ne) Inscrição das variedades locais no Catálogo Nacional de Variedades;\n\nf) Multiplicação e certificação dos materiais de propagação das variedades locais;\n\ng) Prospecção e colheita do material vegetal.\n\n2 - Apenas são elegíveis os custos marginais suportados pelos beneficiários, entendendo-se como tais os encargos adicionais que decorram directamente da execução da operação.\n\nDespesas elegíveis\n\nInvestimentos materiais\n\n1 - Equipamentos, incluindo equipamento de rega, equipamentos informáticos e de laboratório - aquisição ou locação financeira.\n\n2 - Material de pesquisa, nomeadamente bibliografia - aquisição.\n\n3 - Material de demonstração e de divulgação - produção ou aquisição.\n\n4 - Veículos automóveis - aquisição ou locação financeira.\n\nInvestimentos imateriais\n\n5 - Recursos humanos - remunerações ou partes de remunerações e respectivos encargos associados, nomeadamente contribuições para a segurança social e seguro de acidentes de trabalho, de técnicos ou outro pessoal, na medida em que exerçam actividades no âmbito da operação.\n\n6 - Deslocações e estadas - portagens, despesas relacionadas com deslocações em viaturas de serviço, ajudas de custo, subsídio de transporte em automóvel próprio (até aos limites legais, de acordo com as regras da sua atribuição aos servidores do Estado) bem como outras despesas com deslocações e estadas.\n\n7 - Programas informáticos - aquisição.\n\n8 - Despesas gerais, nomeadamente aquisição de serviços especializados.\n\n9 - Outras despesas associadas, nomeadamente fertilizantes, produtos fitofarmacêuticos e reagentes de laboratório.\n\nOutras despesas elegíveis\n\n10 - IVA - regime de isenção.\n\n11 - IVA - regimes mistos: afectação real: o IVA é elegível no caso de a actividade em causa constituir a parte isenta da actividade do beneficiário; pro rata: o IVA é elegível na percentagem em que não for dedutível.\n\nLimites às elegibilidades\n\n12 - Nos investimentos referidos nos n.os 1 e 4 apenas são considerados elegíveis os custos de amortização correspondentes à duração da operação, calculados com base em boas práticas contabilísticas.\n\n13 - O investimento constante no n.º 4 é elegível quando o seu uso for indispensável à execução da operação, sendo o seu limite definido em OTE.\n\n14 - As despesas relativas aos n.os 8 e 9 são limitadas a uma percentagem do valor elegível aprovado das restantes despesas, a definir em OTE.\n\n15 - São elegíveis as despesas do IVA quando os beneficiários se encontrem sujeitos ao regime de isenção, com excepção dos isentos ao abrigo do artigo 53.º do CIVA, cujo IVA não é elegível.\n\n16 - Não são elegíveis as despesas realizadas antes da data de apresentação dos pedidos de apoio.\n\nDespesas não elegíveis\n\nInvestimentos materiais\n\n17 - Bens de equipamento em estado de uso - aquisição, amortização e locação financeira.\n\n18 - Bens móveis e imóveis existentes - amortização.\n\n19 - Edifícios - aquisição ou amortização.\n\n20 - Substituição de equipamentos.\n\n21 - Terrenos - aquisição e amortização.\n\nInvestimentos imateriais\n\n22 - Aquisição de serviços a entidades parceiras da operação.\n\n23 - Despesas notariais e de registos.\n\n24 - Bolsas e matrículas, propinas e deslocações relativas à frequência de cursos que possibilitem a obtenção de graus académicos ou habilitações profissionais.\n\nOutras despesas não elegíveis\n\n25 - IVA - regime normal.\n\n26 - IVA - regimes mistos: afectação real: o IVA não é elegível no caso de a actividade em causa constituir a parte não isenta da actividade do beneficiário; pro rata: o IVA não é elegível na percentagem em que for dedutível.\n\n27 - IVA - regime dos não sujeitos passivos do IVA nos termos do artigo 2.º do CIVA.\n\n28 - Juros ou encargos com dívidas.\n\n29 - Constituição de cauções - salvo as relativas aos adiantamentos referidos no n.º 5 do artigo 17.º\n\n30 - Custos gerais relacionados com contratos de locação financeira, como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro.\n\n> Alterado pelo/a Artigo 16.º do/a [Portaria n.º 253/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), em vigor a partir de 2013-08-08"
+  }
+ }
+}

@@ -1,0 +1,222 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:627041:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-162747191",
+ "dre_path": "/dr/detalhe/decreto-lei/435-1986-627041",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "162747317",
+    "162747301",
+    "162747302",
+    "162747303",
+    "162747304"
+   ]
+  },
+  {
+   "date": "1988-01-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:283365:por",
+     "title": "Decreto-Lei n.º 2/88",
+     "published": "1988-01-14",
+     "dre_path": "/dr/detalhe/decreto-lei/2-1988-283365"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "162747300",
+    "162747301",
+    "162747309",
+    "162747303",
+    "162747304",
+    "162747305"
+   ]
+  },
+  {
+   "date": "1990-04-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:333145:por",
+     "title": "Decreto-Lei n.º 112/90",
+     "published": "1990-04-04",
+     "dre_path": "/dr/detalhe/decreto-lei/112-1990-333145"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "162747300",
+    "162747301",
+    "162747316",
+    "162747303",
+    "162747304",
+    "162747305"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "162747317",
+    "162747318",
+    "162747319",
+    "162747320",
+    "162747321",
+    "162747322"
+   ]
+  }
+ ],
+ "fragments": {
+  "162747317": {
+   "fragment_id": "162747192",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 435/86\n\nde 31 de Dezembro\n\nConsiderando que o papel selado constitui apenas um símbolo da carga burocrática, já não se justificando o seu uso:\n\nConsiderando também que determinados artigos da Tabela Geral do Imposto do Selo, exigindo pagamento por estampilha, podem ser eliminados face à reduzida contribuição para as receitas e aos desproporcionados incómodos que provocam junto do público:\n\nNo uso da autorização conferida pelos n.os 1 e 4 do artigo 29.º da Lei n.º 9/86, de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "162747301": {
+   "fragment_id": "162747193",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É abolido o uso do papel selado propriamente dito, cessando a sua validade a partir de 1 de Janeiro de 1987.\n\n2 - Consideram-se revogadas todas as disposições da lei que estabeleçam o pagamento do imposto do selo por meio de papel selado ou por estampilha, selo especial ou selo de verba, em sua substituição, devendo ter-se por prejudicados ou alterados em conformidade os preceitos legais que se reportem ao pagamento por aquela forma.\n\n3 - A abolição do papel selado não prejudica a arrecadação do imposto devido até 31 de Dezembro de 1986 e a punição das infracções cometidas até àquela data, continuando a aplicar-se as normas relativas a penalidades contidas nos diplomas reguladores da matéria."
+  },
+  "162747302": {
+   "fragment_id": "162747194",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Para os actos em que se requeria o uso do papel selado passar-se-á a utilizar papel azul de 25 linhas, salvo autorizações concedidas pela Direcção-Geral das Contribuições e Impostos.\n\n2 - A infracção ao número antecedente será punível pelo artigo 248.º do Regulamento do Imposto do Selo."
+  },
+  "162747303": {
+   "fragment_id": "162747195",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão abolidos a partir de 1 de Janeiro de 1987 os artigos 38, 94-A, 99-A, n.º 1, 119, 137, alínea b) e n.º 1, alínea c), e 161 da Tabela Geral do Imposto do Selo."
+  },
+  "162747304": {
+   "fragment_id": "162747196",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Incumbe à Direcção-Geral do Tesouro promover as medidas necessárias para a devolução à Imprensa Nacional-Casa da Moeda do papel selado retirado da circulação e existente nas tesourarias da Fazenda Pública ou devolvido a estas pelos revendedores de valores selados.\n\n2 - O papel selado adquirido pelos revendedores e não vendido até 31 de Dezembro de 1986 será recolhido, mediante o seu pagamento a dinheiro, pelas tesourarias da Fazenda Pública nos quinze dias úteis subsequentes àquele prazo, desde que se encontre em bom estado de conservação e não mostre quaisquer sinais ou indícios susceptíveis de fundamentarem a presunção de ter sido falsificado."
+  },
+  "162747300": {
+   "fragment_id": "162747192",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que o papel selado constitui apenas um símbolo da carga burocrática, já não se justificando o seu uso:\n\nConsiderando também que determinados artigos da Tabela Geral do Imposto do Selo, exigindo pagamento por estampilha, podem ser eliminados face à reduzida contribuição para as receitas e aos desproporcionados incómodos que provocam junto do público:\n\nNo uso da autorização conferida pelos n.os 1 e 4 do artigo 29.º da Lei n.º 9/86, de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "162747309": {
+   "fragment_id": "162747194",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1988-01-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/88 - Diário da República n.º 11/1988, Série I de 1988-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1988-283365), em vigor a partir de 1988-01-19"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Para os actos em que se requeria o uso de papel selado passar-se-á a utilizar papel azul de 25 linhas ou papel branco, liso, de formato A4, cabendo ao utente optar por qualquer destas formas.\n\n2 - Nos casos em que o utente opte pela utilização de papel branco, cada lauda não poderá conter mais de 25 linhas, devendo também ser respeitadas margens com cerca de 3 cm e 1 cm, respectivamente no lado esquerdo e direito da frente, com correspondência simétrica no verso.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/88 - Diário da República n.º 11/1988, Série I de 1988-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1988-283365), em vigor a partir de 1988-01-19"
+  },
+  "162747305": {
+   "fragment_id": "162747197",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 24 de Dezembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Dezembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "162747316": {
+   "fragment_id": "162747194",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1990-04-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/90 - Diário da República n.º 79/1990, Série I de 1990-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1990-333145), em vigor a partir de 1990-04-09",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/88 - Diário da República n.º 11/1988, Série I de 1988-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1988-283365), em vigor a partir de 1988-01-19"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Para os actos em que se requeria o uso de papel selado passar-se-á a utilizar papel azul de 25 linhas ou papel branco, liso, de formato A4, cabendo ao utente optar por qualquer destas formas.\n\n2 - Nos casos em que o utente opte pela utilização de papel branco, cada lauda não poderá conter mais de 25 linhas, devendo também ser respeitadas margens com cerca de 3 cm e 1 cm, respectivamente no lado esquerdo e direito da frente, com correspondência simétrica no verso.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/90 - Diário da República n.º 79/1990, Série I de 1990-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1990-333145), em vigor a partir de 1990-04-09\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/88 - Diário da República n.º 11/1988, Série I de 1988-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1988-283365), em vigor a partir de 1988-01-19"
+  },
+  "162747318": {
+   "fragment_id": "162747193",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É abolido o uso do papel selado propriamente dito, cessando a sua validade a partir de 1 de Janeiro de 1987.\n\n2 - Consideram-se revogadas todas as disposições da lei que estabeleçam o pagamento do imposto do selo por meio de papel selado ou por estampilha, selo especial ou selo de verba, em sua substituição, devendo ter-se por prejudicados ou alterados em conformidade os preceitos legais que se reportem ao pagamento por aquela forma.\n\n3 - A abolição do papel selado não prejudica a arrecadação do imposto devido até 31 de Dezembro de 1986 e a punição das infracções cometidas até àquela data, continuando a aplicar-se as normas relativas a penalidades contidas nos diplomas reguladores da matéria.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162747319": {
+   "fragment_id": "162747194",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/90 - Diário da República n.º 79/1990, Série I de 1990-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1990-333145), em vigor a partir de 1990-04-09",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/88 - Diário da República n.º 11/1988, Série I de 1988-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1988-283365), em vigor a partir de 1988-01-19"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Para os actos em que se requeria o uso de papel selado passar-se-á a utilizar papel azul de 25 linhas ou papel branco, liso, de formato A4, cabendo ao utente optar por qualquer destas formas.\n\n2 - Nos casos em que o utente opte pela utilização de papel branco, cada lauda não poderá conter mais de 25 linhas, devendo também ser respeitadas margens com cerca de 3 cm e 1 cm, respectivamente no lado esquerdo e direito da frente, com correspondência simétrica no verso.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/90 - Diário da República n.º 79/1990, Série I de 1990-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1990-333145), em vigor a partir de 1990-04-09\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/88 - Diário da República n.º 11/1988, Série I de 1988-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1988-283365), em vigor a partir de 1988-01-19"
+  },
+  "162747320": {
+   "fragment_id": "162747195",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\nSão abolidos a partir de 1 de Janeiro de 1987 os artigos 38, 94-A, 99-A, n.º 1, 119, 137, alínea b) e n.º 1, alínea c), e 161 da Tabela Geral do Imposto do Selo.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162747321": {
+   "fragment_id": "162747196",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Incumbe à Direcção-Geral do Tesouro promover as medidas necessárias para a devolução à Imprensa Nacional-Casa da Moeda do papel selado retirado da circulação e existente nas tesourarias da Fazenda Pública ou devolvido a estas pelos revendedores de valores selados.\n\n2 - O papel selado adquirido pelos revendedores e não vendido até 31 de Dezembro de 1986 será recolhido, mediante o seu pagamento a dinheiro, pelas tesourarias da Fazenda Pública nos quinze dias úteis subsequentes àquele prazo, desde que se encontre em bom estado de conservação e não mostre quaisquer sinais ou indícios susceptíveis de fundamentarem a presunção de ter sido falsificado.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162747322": {
+   "fragment_id": "162747197",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 24 de Dezembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Dezembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:898705898:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-900650863",
+ "dre_path": "/dr/detalhe/portaria/311-2024-898705898",
+ "source_lastmod": "2024-12-18",
+ "versions": [
+  {
+   "date": "2024-12-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "993780475",
+    "900553490",
+    "900553491",
+    "900553492",
+    "900553493"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:900516798:por",
+     "title": "Declaração de Retificação n.º 43/2024/1",
+     "published": "2024-12-18",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/43-2024-900516798",
+     "date": "2024-12-04"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "993780475": {
+   "fragment_id": "900650864",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 311/2024/1\n\nde 3 de dezembro\n\nO complemento solidário para idosos (CSI) instituído pelo Decreto-Lei n.º 232/2005, de 29 de dezembro, tem como objetivo combater a pobreza dos idosos com rendimentos mais baixos, obedecendo a sua atribuição e manutenção a critérios de apuramento dos recursos dos requerentes e dos titulares da prestação.\n\nNo âmbito do Programa do XXIV Governo Constitucional, prevê-se o aumento gradual do valor de referência do CSI para o valor de € 820 em 2028, tendo-se iniciado esse aumento com a atualização extraordinária do valor de referência do CSI prevista na Portaria n.º 154-A/2024/1, de 22 de maio.\n\nAssim, com vista à prossecução daquele objetivo, procede-se a uma nova atualização do valor de referência do CSI, com efeitos a partir de 1 de janeiro de 2025, correspondente a uma atualização de 4,99 %.\n\nAssim:\n\nManda o Governo, pelo Ministro de Estado e das Finanças e pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "900553490": {
+   "fragment_id": "900650865",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à atualização do valor de referência do complemento solidário para idosos e do montante do complemento solidário para idosos que se encontra a ser atribuído."
+  },
+  "900553491": {
+   "fragment_id": "900650866",
+   "type": 11,
+   "heading": "Artigo 2.º — Atualização do complemento solidário de idosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atualização do complemento solidário de idosos\n\n1 - O valor de referência do complemento solidário para idosos referido no n.º 1 do artigo 9.º do Decreto-Lei n.º 265/99, de 29 de dezembro, na redação atual, é fixado em € 7568,00.\n\n2 - O montante do complemento solidário para idosos que se encontra a ser atribuído referido no n.º 3 do artigo 9.º do Decreto-Lei n.º 265/99, de 29 de dezembro, na redação atual, é recalculado com base no valor de referência previsto no número anterior."
+  },
+  "900553492": {
+   "fragment_id": "900650867",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 154-A/2024/1, de 22 de maio."
+  },
+  "900553493": {
+   "fragment_id": "900650868",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2025."
+  }
+ }
+}

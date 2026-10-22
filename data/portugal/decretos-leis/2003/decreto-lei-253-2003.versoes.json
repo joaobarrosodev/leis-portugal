@@ -1,0 +1,183 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:476699:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-995300077",
+ "dre_path": "/dr/detalhe/decreto-lei/253-2003-476699",
+ "source_lastmod": "2026-10-19",
+ "versions": [
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146221:por",
+     "title": "Decreto-Lei n.º 114/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2011-146221"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "995305075",
+    "995305275",
+    "995305475",
+    "1179296875",
+    "995305875",
+    "995306075",
+    "995306275",
+    "1179297075",
+    "1179297275",
+    "1179297475",
+    "995307075",
+    "995307275",
+    "995307475",
+    "995307675",
+    "995307875",
+    "995308075"
+   ]
+  }
+ ],
+ "fragments": {
+  "995305075": {
+   "fragment_id": "995304975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Perante a ocorrência de incêndios de grandes proporções que afectaram os distritos de Bragança, Guarda, Castelo Branco, Coimbra, Santarém, Portalegre, Leiria, Setúbal e Faro, dos quais resultaram perdas de vidas humanas e elevados prejuízos materiais, o Governo, através da Resolução do Conselho de Ministros n.º 106-B/2003, de 11 de Agosto, alterada pela Resolução do Conselho de Ministros n.º 123/2003, de 25 de Agosto, decidiu declarar a situação de calamidade pública na área desses distritos.\n\nNo âmbito do referido diploma, foi também aprovado pelo Governo um conjunto de medidas e apoios excepcionais, entre os quais a instituição de mecanismos de apoio às pequenas e médias empresas afectadas, tendo em vista, nomeadamente, a reposição e recuperação de equipamentos e instalações destruídos ou danificados, sendo de imediato disponibilizadas verbas para fazer face aos respectivos encargos.\n\nNestes termos, instituem-se as medidas de apoio a pequenas e médias empresas afectadas, tendo em vista a sua efectiva e imediata aplicação, de modo que a actividade económica seja rapidamente restabelecida em condições de normal funcionamento.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "995305275": {
+   "fragment_id": "995305175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma cria uma linha de crédito especial e estabelece as respectivas regras e condições de utilização por empresas, em consequência de danos sofridos nos incêndios ocorridos nos distritos de Bragança, Guarda, Castelo Branco, Coimbra, Santarém, Portalegre, Leiria, Setúbal e Faro, em conformidade com a Resolução do Conselho de Ministros n.º 106-B/2003, de 11 de Agosto, alterada pela Resolução do Conselho de Ministros n.º 123/2003, de 25 de Agosto, e em outras áreas que venham a ser declaradas em situação de calamidade pública pelos mesmos motivos.\n\n2 - O montante máximo da linha de crédito prevista no presente diploma é de 10 milhões de euros, podendo ser reforçado em função das necessidades de financiamento das entidades beneficiárias.\n\n3 - A linha de crédito referida no n.º 1 do presente artigo é disponibilizada pelas instituições de crédito que celebrem protocolos para o efeito com o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, adiante designado por IAPMEI."
+  },
+  "995305475": {
+   "fragment_id": "995305375",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidade competente\n\n1 - A entidade competente para a verificação dos pressupostos de acesso à linha de crédito prevista no presente diploma, bem como para a sua gestão e controlo é o IAPMEI.\n\n2 - O IAPMEI elabora as instruções e os formulários necessários ao cumprimento do disposto no número anterior."
+  },
+  "1179296875": {
+   "fragment_id": "995305575",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+   ],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\nPodem beneficiar da linha de crédito prevista no presente diploma as empresas que sejam indicadas pelos presidentes de câmaras municipais do respectivo município como tendo estabelecimentos afectados pelos incêndios e que, à data da ocorrência dos mesmos, preencham cumulativamente as seguintes condições:\n\na) Sejam qualificáveis como pequenas ou médias empresas, nos termos da definição constante da Recomendação n.º 96/280/CE, da Comissão Europeia, de 3 de Abril;\n\nb) Cumpram as regras relativas ao exercício da actividade;\n\nc) Apresentem situação tributária e contributiva regularizada perante a administração tributária e a segurança social.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+  },
+  "995305875": {
+   "fragment_id": "995305775",
+   "type": 11,
+   "heading": "Artigo 4.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Despesas elegíveis\n\nConstituem despesas elegíveis:\n\na) Os custos com a reposição ou a recuperação de equipamentos destruídos ou danificados pelos incêndios;\n\nb) Os custos com a reabilitação dos edifícios e construções afectados pelos incêndios."
+  },
+  "995306075": {
+   "fragment_id": "995305975",
+   "type": 11,
+   "heading": "Artigo 5.º — Garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Garantia\n\nO capital e juros dos empréstimos concedidos nos termos do presente diploma, devidos em cada momento, são garantidos pelo IAPMEI, ao abrigo do artigo 3.º da Lei n.º 112/97, de 16 de Setembro, até 66,7% do seu valor."
+  },
+  "995306275": {
+   "fragment_id": "995306175",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições financeiras dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições financeiras dos empréstimos\n\n1 - Os empréstimos bancários concedidos ao abrigo da linha de crédito prevista no presente diploma revestem as seguintes características:\n\na) O seu valor será o menor dos seguintes montantes:\n\ni) 90% das despesas elegíveis;\n\nii) A totalidade do valor das despesas elegíveis, deduzido dos valores atribuídos a título de indemnizações de sinistros cobertos por seguros;\n\nb) Limite máximo de (euro) 500000 por empresa;\n\nc) Prazo de sete anos, com dois anos de carência de reembolso de capital e de pagamento de juros;\n\nd) Taxa de juro para efeito de bonificação não superior à da EURIBOR a 180 dias, acrescida de um spread de 100 p.b.;\n\ne) Bonificação pelo IAPMEI de 50% da taxa referida na alínea d).\n\n2 - O IAPMEI participa nas garantias que eventualmente venham a ser constituídas em cada operação de empréstimo, proporcionalmente à responsabilidade por si assumida.\n\n3 - As restantes condições dos empréstimos são objecto de acordo entre as instituições de crédito e o IAPMEI, no âmbito dos protocolos a celebrar para o efeito."
+  },
+  "1179297075": {
+   "fragment_id": "995306375",
+   "type": 11,
+   "heading": "Artigo 7.º — Intervenção dos presidentes de câmaras municipais",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+   ],
+   "markdown": "###### Artigo 7.º — Intervenção dos presidentes de câmaras municipais\n\n1 - Os presidentes de câmaras municipais das áreas declaradas de calamidade pública elaboram listas das empresas afectadas nos respectivos municípios e, no prazo de 10 dias úteis a contar da data de entrada em vigor do presente diploma, procedem à sua comunicação ao IAPMEI.\n\n2 - As listas referidas no número anterior contêm a seguinte informação mínima:\n\na) Nome da empresa;\n\nb) Número de identificação fiscal;\n\nc) Localização da empresa e estabelecimentos afectados, incluindo o respectivo concelho;\n\nd) Identificação do responsável a contactar, com os respectivos contactos telefónicos e postais;\n\ne) Relação dos bens atingidos e estimativa do valor de reposição, recuperação e reabilitação dos equipamentos, edifícios e construções afectados, especificando os que se encontram cobertos por seguro e valor estimado de indemnização;\n\nf) Estimativa da perda da capacidade produtiva da empresa afectada;\n\ng) Cálculo do número de postos de trabalho afectados, discriminando, se for caso disso, os postos de trabalho pelos diferentes estabelecimentos da empresa;\n\nh) Identificação da empresa face à Classificação Nacional das Actividades Económicas.\n\n3 - Os presidentes de câmaras municipais devem obter das empresas declarações autorizando o IAPMEI a obter as informações consideradas relevantes para os efeitos do presente diploma junto do Instituto de Seguros de Portugal, do Instituto de Gestão Financeira da Segurança Social, I. P., e da Direcção-Geral dos Impostos.\n\n4 - Os presidentes de câmaras municipais devem manter um recenseamento actualizado dos estabelecimentos afectados por incêndios nas áreas declaradas em situações de calamidade pública, dando conhecimento semanal ao IAPMEI de novas empresas eventualmente atingidas, juntamente com a informação referida nos n.os 2 e 3.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+  },
+  "1179297275": {
+   "fragment_id": "995306575",
+   "type": 11,
+   "heading": "Artigo 8.º — Tramitação",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+   ],
+   "markdown": "###### Artigo 8.º — Tramitação\n\n1 - O IAPMEI, para efeitos de verificação das condições de elegibilidade da empresa, previstas na alínea c) do artigo 3.º, no prazo de dois dias úteis após a recepção da informação validada pelos presidentes de câmaras municipais, diligencia junto das entidades competentes a obtenção da informação pertinente.\n\n2 - O Instituto da Gestão Financeira da Segurança Social presta informação ao IAPMEI, no prazo de três dias úteis, sobre a situação contributiva da empresa.\n\n3 - O serviço de finanças do domicílio ou sede da empresa informa o IAPMEI, no prazo de três dias úteis, sobre a situação tributária da empresa.\n\n4 - As direcções regionais de economia informam o IAPMEI, no prazo de três dias úteis, sobre o cumprimento por parte da empresa dos requisitos relativos ao exercício da actividade.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+  },
+  "1179297475": {
+   "fragment_id": "995306775",
+   "type": 11,
+   "heading": "Artigo 9.º — Intervenção das companhias de seguros",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+   ],
+   "markdown": "###### Artigo 9.º — Intervenção das companhias de seguros\n\n1 - A avaliação global dos danos sofridos na sequência dos incêndios, para efeitos de determinação das despesas elegíveis, é efectuada por companhias de seguros que celebrem protocolos para o efeito com o IAPMEI.\n\n2 - O IAPMEI, após a recepção da informação solicitada às entidades nos termos do artigo anterior, no prazo de dois dias úteis, solicita a uma companhia de seguros protocolada a avaliação dos danos, entregando a esta todos os elementos fornecidos pelos presidentes de câmaras municipais.\n\n3 - A companhia de seguros, no prazo de cinco dias úteis, avalia o sinistro e calcula o valor global dos danos sofridos, incluindo o número de postos de trabalho afectados, a percentagem da capacidade de produção atingida e o tempo necessário ao reinício da sua actividade, bem como a indicação dos danos não cobertos junto das seguradoras.\n\n4 - A avaliação a efectuar pela companhia de seguros protocolada é acompanhada por um representante da Câmara Municipal do município da empresa afectada e por um técnico do IAPMEI, que se pronunciam sobre o relatório final de avaliação elaborado nos termos do número anterior.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+  },
+  "995307075": {
+   "fragment_id": "995306975",
+   "type": 11,
+   "heading": "Artigo 10.º — Determinação das despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Determinação das despesas elegíveis\n\n1 - O IAPMEI, após a recepção da avaliação da companhia de seguros e das facturas pró-forma e dos orçamentos enviados pela empresa, analisa e determina o valor das despesas elegíveis para efeitos da concessão dos empréstimos.\n\n2 - O IAPMEI, no prazo de dois dias úteis, notifica a empresa do valor das despesas elegíveis e das instituições de crédito junto das quais pode aceder à linha de crédito."
+  },
+  "995307275": {
+   "fragment_id": "995307175",
+   "type": 11,
+   "heading": "Artigo 11.º — Contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contrato\n\nO contrato de empréstimo a celebrar deve especificar, entre outras, as obrigações das empresas beneficiárias da linha de crédito, o montante das despesas elegíveis para efeitos da utilização da linha de crédito e a obrigatoriedade de manter seguros actualizados dos bens objecto de apoio."
+  },
+  "995307475": {
+   "fragment_id": "995307375",
+   "type": 11,
+   "heading": "Artigo 12.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acompanhamento e controlo\n\n1 - Compete ao IAPMEI proceder à validação da relação dos bens sinistrados não cobertos por seguros, com base em informação prestada para o efeito pelo Instituto de Seguros de Portugal, de forma a confirmar o montante dos empréstimos, nos termos da alínea a) do n.º 1 do artigo 6.º\n\n2 - Compete ao IAPMEI a verificação física do investimento realizado pelas empresas."
+  },
+  "995307675": {
+   "fragment_id": "995307575",
+   "type": 11,
+   "heading": "Artigo 13.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cobertura orçamental\n\nA cobertura dos encargos resultantes da bonificação dos empréstimos, da eventual execução da garantia e da gestão da linha de crédito é suportada por transferência do Orçamento do Estado para o IAPMEI."
+  },
+  "995307875": {
+   "fragment_id": "995307775",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "995308075": {
+   "fragment_id": "995307975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueredo Lopes - Carlos Manuel Tavares da Silva - António José de Castro Bagão Félix.\n\nPromulgado em 6 de Outubro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 10 de Outubro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

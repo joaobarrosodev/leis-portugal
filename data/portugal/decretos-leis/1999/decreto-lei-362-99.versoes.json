@@ -1,0 +1,274 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:570294:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-885926426",
+ "dre_path": "/dr/detalhe/decreto-lei/362-1999-570294",
+ "source_lastmod": "2024-08-28",
+ "versions": [
+  {
+   "date": "1999-09-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885804818",
+    "885804819",
+    "885804820",
+    "885804821",
+    "885804822",
+    "885804823",
+    "885804824",
+    "885804825",
+    "885804826",
+    "885804827",
+    "885804828",
+    "885804829",
+    "885804830",
+    "885804831"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    },
+    {
+     "id": "pt:dre:174548:por",
+     "title": "Decreto-Lei n.º 197/2012",
+     "published": "2012-08-24",
+     "dre_path": "/dr/detalhe/decreto-lei/197-2012-174548"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "885804818",
+    "885804819",
+    "885804820",
+    "885804821",
+    "885804822",
+    "885804832",
+    "885804833",
+    "885804834",
+    "885804838",
+    "885804839",
+    "885804837",
+    "885804842",
+    "885804824",
+    "885804825",
+    "885804826",
+    "885804827",
+    "885804843",
+    "885804829",
+    "885804844",
+    "885804831"
+   ]
+  }
+ ],
+ "fragments": {
+  "885804818": {
+   "fragment_id": "885926427",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 362/99\n\nde 16 de Setembro\n\nO presente diploma transpõe para a ordem jurídica nacional a Directiva n.º 98/80/CE, do Conselho, de 12 de Outubro de 1998, que completa o sistema comum de imposto sobre o valor acrescentado e estabelece um regime especial aplicável ao ouro para investimento.\n\nA falta de harmonização das transacções relativas ao ouro para investimento decorria do ponto 26 do anexo F da 6.ª Directiva, que permitia a isenção do ouro não destinado a utilização industrial. A aplicação desta isenção por alguns Estados e o regime de tributação usado por outros ocasionaram distorções de concorrência num mercado em que as transacções atingem, pela sua própria natureza, valores muito elevados.\n\nO regime aprovado escolhe a isenção como regra, o que permite resolver problemas de dupla tributação nas transacções de ouro de investimento e tratá-las de modo semelhante a outros produtos financeiros, também destinados a investimento, que se encontram já isentos ao abrigo do artigo 13.º da 6.ª Directiva.\n\nCom o intuito de prevenir a fraude e a evasão fiscal e evitar o pré-financiamento do imposto, estabeleceu-se para as transmissões de ouro de investimento quando tenha havido opção pela tributação, e para as transmissões de ouro sob a forma de matéria-prima ou de produtos semitransformados, que o devedor seja o adquirente dos bens, desde que este tenha um direito a dedução total ou parcial do imposto.\n\nA eliminação do ponto 26 do anexo F da 6.ª Directiva determinou a alteração da alínea d) do n.º 28 do artigo 9.º do Código do IVA, por não respeitar os critérios de exclusão da isenção relativamente às moedas, com especial relevância para as moedas de ouro. A revogação da alínea e) do mesmo n.º 28 do artigo 9.º foi determinada pela fusão das anteriores alíneas d) e e) desse número.\n\nFoi ouvido o Banco de Portugal.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo n.º 7 do artigo 32.º da Lei n.º 87-B/98, de 31 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "885804819": {
+   "fragment_id": "885926428",
+   "type": 11,
+   "heading": "Artigo 1.º — Regime especial do ouro para investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regime especial do ouro para investimento\n\nÉ aprovado o regime especial aplicável ao ouro para investimento, publicado em anexo ao presente diploma e do qual faz parte integrante, que transpõe para a ordem jurídica nacional a Directiva n.º 98/80/CE, do Conselho, de 12 de Outubro de 1998, que completa o sistema comum de imposto sobre o valor acrescentado."
+  },
+  "885804820": {
+   "fragment_id": "885926429",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Código do IVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código do IVA\n\nA alínea d) do n.º 28 do artigo 9.º do Código do IVA passa a ter a seguinte redacção:\n\n«Artigo 9.º\n\n[...]\n\n...\n\n...\n\nd) As operações, incluindo a negociação, que tenham por objecto divisas, notas bancárias e moedas, que sejam meios legais de pagamento, com excepção das moedas e notas que não sejam normalmente utilizadas como tal ou que tenham interesse numismático.\n\n...»"
+  },
+  "885804821": {
+   "fragment_id": "885926430",
+   "type": 11,
+   "heading": "Artigo 3.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Revogação\n\nÉ revogada a alínea e) do n.º 28 do artigo 9.º do Código do IVA."
+  },
+  "885804822": {
+   "fragment_id": "885926431",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 2000."
+  },
+  "885804823": {
+   "fragment_id": "885926432",
+   "type": 11,
+   "heading": "Artigo 5.º — Renúncia à isenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Renúncia à isenção\n\n1 - Os sujeitos passivos que produzam ouro para investimento, ou transformem qualquer ouro em ouro para investimento, podem renunciar à isenção, optando pela aplicação do imposto às transmissões a que se refere o artigo 3.º, desde que o adquirente seja outro sujeito passivo dos mencionados na alínea a) do artigo 2.º do Código do IVA, um sujeito passivo registado para efeitos de IVA noutro Estado membro ou um adquirente de um país não pertencente à Comunidade Europeia.\n\n2 - Os sujeitos passivos não abrangidos pelo disposto no número anterior, que forneçam habitualmente ouro para fins industriais no quadro da sua actividade profissional, podem igualmente renunciar à isenção, optando pela aplicação do imposto às transmissões de ouro para investimento, quando o adquirente seja outro sujeito passivo dos mencionados na alínea a) do n.º 1 do artigo 2.º do Código do IVA, um sujeito passivo registado para efeitos de IVA noutro Estado membro da Comunidade Europeia ou um adquirente de um país não pertencente à Comunidade Europeia.\n\n3 - Os intermediários que actuem em nome e por conta de outrem nas transmissões de ouro para investimento podem renunciar à isenção optando pela aplicação do imposto às suas prestações de serviços, desde que se reportem a transmissões em que tenha havido renúncia à isenção de imposto, nos termos dos números anteriores.\n\n4 - A renúncia à isenção deve ser exercida caso a caso e a respectiva factura ou documento equivalente deve conter expressamente a menção «Regime especial do ouro - IVA devido pelo adquirente»."
+  },
+  "885804824": {
+   "fragment_id": "885926433",
+   "type": 11,
+   "heading": "Artigo 6.º — Dedução do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dedução do imposto\n\n1 - Os sujeitos passivos que renunciarem à isenção do imposto têm direito à dedução do imposto que tenha incidido sobre os bens ou serviços adquiridos, importados ou utilizados para a realização dessas operações, nos termos do n.º 1 do artigo 20.º do Código do IVA e do n.º 2 do artigo 19.º do Regime do IVA nas Transacções Intracomunitárias de Bens.\n\n2 - A dedução do imposto referida no número anterior deve ser efectuada segundo o método da afectação real previsto no n.º 2 do artigo 23.º do Código do IVA.\n\n3 - As operações relativas ao ouro de investimento, tenha havido ou não renúncia à isenção do imposto, não são consideradas para efeitos da determinação da percentagem de dedução referida no n.º 4 do artigo 23.º do Código do IVA que seja aplicável a outras operações desenvolvidas pelo sujeito passivo."
+  },
+  "885804825": {
+   "fragment_id": "885926434",
+   "type": 11,
+   "heading": "Artigo 7.º — Transmissões de ouro sem renúncia à isenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transmissões de ouro sem renúncia à isenção\n\n1 - Os sujeitos passivos que não exerçam a renúncia à isenção do imposto nas transmissões de ouro para investimento expedido ou transportado para fora do território nacional, com destino a outro Estado membro, ou para um país não pertencente à Comunidade Europeia, apenas têm direito à dedução do imposto suportado nos termos do artigo 8.º\n\n2 - As transmissões de ouro para investimento com destino a sujeitos passivos de imposto noutros Estados membros da Comunidade Europeia, efectuadas nas condições previstas no número anterior, não devem ser incluídas no anexo recapitulativo previsto na alínea c) do artigo 23.º do Regime do IVA nas Transacções Intracomunitárias de Bens."
+  },
+  "885804826": {
+   "fragment_id": "885926435",
+   "type": 11,
+   "heading": "Artigo 8.º — Operações isentas de imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Operações isentas de imposto\n\nSem prejuízo da aplicação, se for o caso, do disposto nos n.os 1 e 4 do artigo 23.º do Código do IVA, os sujeitos passivos que efectuem operações isentas de imposto nos termos do artigo 3.º têm direito a deduzir:\n\na) O imposto devido ou pago sobre o ouro para investimento adquirido a um outro sujeito passivo que tenha exercido a renúncia à isenção prevista no artigo 5.º;\n\nb) O imposto devido ou pago sobre as aquisições efectuadas no território nacional, as aquisições intracomunitárias e as importações de ouro que não seja de ouro para investimento que, por si ou em seu nome, seja posteriormente transformado em ouro para investimento;\n\nc) O imposto devido ou pago nas prestações de serviços adquiridas para alterar a forma, o peso ou o toque de ouro para investimento, ou de ouro que, através dessas operações, seja transformado em ouro para investimento."
+  },
+  "885804827": {
+   "fragment_id": "885926436",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção e transformação de ouro para investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produção e transformação de ouro para investimento\n\nOs sujeitos passivos que produzam ou transformem ouro em ouro para investimento, cuja transmissão seja isenta de imposto nos termos do artigo 3.º, têm direito a deduzir o imposto por eles devido ou pago relativamente à aquisição no território nacional, aquisição intracomunitária ou importação dos bens ou serviços ligados à produção ou transformação desse ouro."
+  },
+  "885804828": {
+   "fragment_id": "885926437",
+   "type": 11,
+   "heading": "Artigo 10.º — Cumprimento da obrigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cumprimento da obrigação\n\nNas transmissões de ouro para investimento em que tenha sido exercida a renúncia à isenção do imposto prevista no artigo 5.º e nas transmissões de ouro sob a forma de matéria-prima ou de produtos semitransformados de toque igual ou superior a 325 milésimos, o pagamento do imposto e as demais obrigações decorrentes dessas operações, com excepção das previstas no artigo 12.º, devem ser cumpridas pelo adquirente quando este seja um sujeito passivo dos mencionados na alínea a) do n.º 1 do artigo 2.º do Código do IVA, que tenha direito à dedução total ou parcial do imposto."
+  },
+  "885804829": {
+   "fragment_id": "885926438",
+   "type": 11,
+   "heading": "Artigo 11.º — Sujeitos passivos sem ligação ao território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sujeitos passivos sem ligação ao território nacional\n\nOs sujeitos passivos que não possuam em território nacional a sede da sua actividade, estabelecimento estável ou domicílio, nem se encontrem registados para efeitos de IVA em Portugal, e que efectuem transmissões de ouro de investimento isentas de imposto nos termos do artigo 3.º estão dispensados de efectuar o registo para efeitos de IVA e da entrega da declaração de imposto desde que não se encontrem obrigados ao cumprimento do disposto no artigo 12.º"
+  },
+  "885804830": {
+   "fragment_id": "885926439",
+   "type": 11,
+   "heading": "Artigo 12.º — Registo de operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Registo de operações\n\n1 - Os sujeitos passivos que efectuem operações abrangidas no âmbito deste diploma devem possuir um registo com a identificação de cada cliente com quem realizem operações de montante igual ou superior a 2500000$00, ainda que não se encontrem obrigados ao pagamento do imposto nos termos do artigo 10.º\n\n2 - Se o montante a que se refere o número anterior não for conhecido no momento do início da operação o sujeito passivo deve proceder à identificação do cliente logo que aquele montante seja atingido.\n\n3 - Os sujeitos passivos devem igualmente identificar no registo referido nos números anteriores os representantes legais dos seus clientes.\n\n4 - Os sujeitos passivos devem ainda manter a contabilidade de todas as operações a que se referem os números anteriores e conservar cópia ou referências dos documentos comprovativos da identificação durante um período de cinco anos após o termo das operações."
+  },
+  "885804831": {
+   "fragment_id": "885926440",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime subsidiário\n\nEm tudo o que não se revelar contrário ao disposto no presente regime especial aplicam-se as disposições do Código do IVA e do Regime do IVA nas Transacções Intracomunitárias de Bens."
+  },
+  "885804832": {
+   "fragment_id": "885926441",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Julho de 1999. - Jaime José Matos da Gama. - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 30 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "885804833": {
+   "fragment_id": "885926442",
+   "type": 14,
+   "heading": "Anexo — Regime especial aplicável ao ouro para investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regime especial aplicável ao ouro para investimento"
+  },
+  "885804834": {
+   "fragment_id": "885926443",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO regime especial aplica-se às operações sobre ouro para investimento."
+  },
+  "885804838": {
+   "fragment_id": "885926444",
+   "type": 11,
+   "heading": "Artigo 2.º — Ouro para investimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), produz efeitos a partir de 2000-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Ouro para investimento\n\n1 - Considera-se ouro para investimento:\n\na) O ouro sob a forma de barra ou de placa, com pesos aceites pelos mercados de ouro, com um toque igual ou superior a 995 milésimos, representado ou não por títulos, com excepção das barras ou placas de peso igual ou inferior a 1 g;\n\nb) As moedas de ouro que, cumulativamente, preencham os requisitos seguintes:\n\ni) Tenham um toque igual ou superior a 900 milésimos;\n\nii) Tenham sido cunhadas depois do ano de 1800;\n\niii) Tenham ou tenham tido curso legal no país de origem;\n\niv) Sejam habitualmente vendidas a um preço que não exceda em mais de 80% o valor, no mercado livre, do ouro nelas contido.\n\n2 - Para efeitos do presente diploma, considera-se que as moedas que preenchem os requisitos da alínea b) do número anterior não são transaccionadas pelo seu interesse numismático.\n\n3 - Para efeitos do presente diploma, considera-se que as moedas constantes da lista anual das moedas abrangidas publicada pela Comissão Europeia preenchem, durante todo o ano para o qual a lista foi publicada, os requisitos exigidos pela alínea b) do n.º 1.\n\n4 - As moedas de ouro que não constem da lista a que se refere o número anterior mas que preencham os requisitos na alínea b) do n.º 1 beneficiam igualmente do disposto no presente diploma.\n\n5 - Para efeitos da alínea a) do n.º 1 consideram-se como pesos aceites pelo mercado as barras ou placas de ouro com as seguintes unidades e pesos:\n\n(ver tabela no documento original)\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), produz efeitos a partir de 2000-01-01"
+  },
+  "885804839": {
+   "fragment_id": "885926445",
+   "type": 11,
+   "heading": "Artigo 3.º — Isenção",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), produz efeitos a partir de 2000-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Isenção\n\n1 - Estão isentas de imposto sobre o valor acrescentado as transmissões, as aquisições intracomunitárias e as importações de ouro para investimento.\n\n2 - Para efeitos do disposto no número anterior, consideram-se ainda transmissões de bens as operações sobre ouro para investimento representado por certificados de ouro, afectado ou não afectado, ou negociado em contas-ouro, incluindo, nomeadamente, os empréstimos e swaps de ouro que comportem um direito de propriedade ou de crédito sobre ouro para investimento, bem como as operações sobre ouro para investimento que envolvam contratos de futuro ou contratos forward que conduzam à transmissão do direito de propriedade ou de crédito sobre ouro para investimento.\n\n3 - As operações referidas no número anterior consideram-se localizadas em território nacional quando aqui se encontre o ouro de investimento a que elas se reportam.\n\n4 - Estão ainda isentas de imposto as prestações de serviços de intermediários que actuam em nome e por conta de outrem quando intervenham nas operações de ouro para investimento.\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), produz efeitos a partir de 2000-01-01"
+  },
+  "885804837": {
+   "fragment_id": "885926446",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos do disposto no n.º 2 do artigo anterior considera-se:\n\na) Ouro afectado, o ouro em barras especificamente atribuídas ao comprador;\n\nb) Ouro não afectado, o direito de saque sobre existências de ouro em barra não especificamente determinado;\n\nc) Certificados de ouro, o ouro representado por títulos que conferem ao respectivo titular um direito de propriedade ou de crédito, sobre uma quantidade de ouro depositado numa instituição financeira;\n\nd) Contrato de futuro, um contrato estandardizado e negociável em mercado específico institucionalizado de compra ou venda de ouro, numa data futura, com liquidação nesse activo ou no equivalente em dinheiro, conforme estabelecido no contrato;\n\ne) Contrato forward, um contrato que configura uma obrigação de vender ou comprar uma determinada quantidade de ouro, numa data certa, a um preço fixado;\n\nf) Swaps, contratos que consistem na troca de direitos de crédito sobre uma determinada quantidade de ouro, numa certa data, revertidos noutra data certa posterior."
+  },
+  "885804842": {
+   "fragment_id": "885926432",
+   "type": 11,
+   "heading": "Artigo 5.º — Renúncia à isenção",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), produz efeitos a partir de 2000-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Renúncia à isenção\n\n1 - Os sujeitos passivos que produzam ouro para investimento, ou transformem qualquer ouro em ouro para investimento, podem renunciar à isenção, optando pela aplicação do imposto às transmissões a que se refere o artigo 3.º, desde que o adquirente seja outro sujeito passivo dos mencionados na alínea a) do artigo 2.º do Código do IVA, um sujeito passivo registado para efeitos de IVA noutro Estado membro ou um adquirente de um país não pertencente à Comunidade Europeia.\n\n2 - Os sujeitos passivos não abrangidos pelo disposto no número anterior, que forneçam habitualmente ouro para fins industriais no quadro da sua actividade profissional, podem igualmente renunciar à isenção, optando pela aplicação do imposto às transmissões de ouro para investimento, quando o adquirente seja outro sujeito passivo dos mencionados na alínea a) do n.º 1 do artigo 2.º do Código do IVA, um sujeito passivo registado para efeitos de IVA noutro Estado membro da Comunidade Europeia ou um adquirente de um país não pertencente à Comunidade Europeia.\n\n3 - Os intermediários que actuem em nome e por conta de outrem nas transmissões de ouro para investimento podem renunciar à isenção optando pela aplicação do imposto às suas prestações de serviços, desde que se reportem a transmissões em que tenha havido renúncia à isenção de imposto, nos termos dos números anteriores.\n\n4 - A renúncia à isenção deve ser exercida caso a caso e a respetiva fatura, quando o adquirente seja um sujeito passivo dos mencionados na alínea a) do n.º 1 do artigo 2.º do Código do IVA, deve conter a menção 'IVA - autoliquidação'.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), produz efeitos a partir de 2000-01-01"
+  },
+  "885804843": {
+   "fragment_id": "885926437",
+   "type": 11,
+   "heading": "Artigo 10.º — Cumprimento da obrigação",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), produz efeitos a partir de 2000-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Cumprimento da obrigação\n\n1 - Nas transmissões de ouro para investimento em que tenha sido exercida a renúncia à isenção do imposto prevista no artigo 5.º e nas transmissões de ouro sob a forma de matéria-prima ou de produtos semitransformados de toque igual ou superior a 325 milésimos, o pagamento do imposto e demais obrigações decorrentes dessas operações, com excepção das previstas no artigo 12.º, devem ser cumpridos pelo adquirente quando este seja um sujeito passivo dos mencionados na alínea a) do n.º 1 do artigo 2.º do Código do IVA, que tenha direito à dedução total ou parcial do imposto.\n\n2 - As faturas referentes às transmissões de ouro sob a forma de matéria-prima ou de produtos semitransformados de toque igual ou superior a 325 milésimos devem conter expressamente a menção 'IVA - autoliquidação', quando o adquirente seja um sujeito passivo dos mencionados na alínea a) do n.º 1 do artigo 2.º do Código do IVA, que tenha direito à dedução total ou parcial do imposto.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), produz efeitos a partir de 2000-01-01"
+  },
+  "885804844": {
+   "fragment_id": "885926439",
+   "type": 11,
+   "heading": "Artigo 12.º — Registo de operações",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 203.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Registo de operações\n\n1 - Os sujeitos passivos que efetuem operações abrangidas no âmbito do presente diploma devem possuir um registo com a identificação de cada cliente com quem realizem operações de montante igual ou superior a (euro) 3000, ainda que não se encontrem obrigados ao pagamento do imposto nos termos do artigo 10.º\n\n2 - Se o montante a que se refere o número anterior não for conhecido no momento do início da operação o sujeito passivo deve proceder à identificação do cliente logo que aquele montante seja atingido.\n\n3 - Os sujeitos passivos devem igualmente identificar no registo referido nos números anteriores os representantes legais dos seus clientes.\n\n4 - Os sujeitos passivos devem ainda manter a contabilidade de todas as operações a que se referem os números anteriores e conservar cópia ou referências dos documentos comprovativos da identificação durante um período de cinco anos após o termo das operações.\n\n> Alterado pelo/a Artigo 203.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  }
+ }
+}

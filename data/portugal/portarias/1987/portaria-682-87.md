@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:417829:por
+title: Portaria n.º 682/87
+short_title: null
+summary: Concede autonomia administrativa e financeira à Universidade do Porto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Cultura
+proposing_entity: null
+official_number: 682/87
+official_date: null
+publication_date: '1987-08-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 181/1987, Série I de 1987-08-08
+  number: '181'
+  series: I
+  supplement: null
+  pages: 3074 - 3074
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/08/18100/30743074.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '417829'
+  dre_path: /dr/detalhe/portaria/682-1987-417829
+  internal: pt:dre:417829:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/682-1987-417829
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/682-1987-417829
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-08-08T00:00:00Z'
+integrity:
+  source_sha256: 5531b4c9eda39c4daae0155b1a74cb357a053c19977c216a69488deb16ec6470
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-682-417829.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 682/87
+
+de 8 de Agosto
+
+Tendo em vista o disposto no n.º 2 do artigo 76.º da Constituição da República Portuguesa;
+
+Usando da faculdade prevista no artigo 1.º do [Decreto-Lei n.º 188/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1982-392461), de 17 de Maio;
+
+Sob proposta da Universidade do Porto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, que seja concedida autonomia administrativa e financeira à Universidade do Porto, com efeitos a partir de 1 de Janeiro de 1988 e nos termos regulamentados pelo [Decreto-Lei n.º 188/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1982-392461), de 17 de Maio.
+
+Ministério da Educação e Cultura.
+
+**Assinada em 27 de Julho de 1987.**
+
+**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
